@@ -1,0 +1,113 @@
+../kinhtrungbo/nanamoli-bodhi-vi/013-the-greater-discourse-on-the-mass-of-suffering.vi.md ../kinhtrungbo/nanamoli-bodhi/013-the-greater-discourse-on-the-mass-of-suffering.md
+Translation complete. Output saved to '../kinhtrungbo/nanamoli-bodhi-vi/013-the-greater-discourse-on-the-mass-of-suffering.vi.md'.
+../kinhtrungbo/nanamoli-bodhi-vi/006-if-a-bhikkhu-should-wish.vi.md ../kinhtrungbo/nanamoli-bodhi/006-if-a-bhikkhu-should-wish.md
+Translation complete. Output saved to '../kinhtrungbo/nanamoli-bodhi-vi/006-if-a-bhikkhu-should-wish.vi.md'.
+../kinhtrungbo/nanamoli-bodhi-vi/032-the-greater-discourse-in-gosinga.vi.md ../kinhtrungbo/nanamoli-bodhi/032-the-greater-discourse-in-gosinga.md
+Translation complete. Output saved to '../kinhtrungbo/nanamoli-bodhi-vi/032-the-greater-discourse-in-gosinga.vi.md'.
+../kinhtrungbo/nanamoli-bodhi-vi/049-the-invitation-of-a-brahma.vi.md ../kinhtrungbo/nanamoli-bodhi/049-the-invitation-of-a-brahma.md
+Translation complete. Output saved to '../kinhtrungbo/nanamoli-bodhi-vi/049-the-invitation-of-a-brahma.vi.md'.
+../kinhtrungbo/nanamoli-bodhi-vi/007-the-simile-of-the-cloth.vi.md ../kinhtrungbo/nanamoli-bodhi/007-the-simile-of-the-cloth.md
+Translation complete. Output saved to '../kinhtrungbo/nanamoli-bodhi-vi/007-the-simile-of-the-cloth.vi.md'.
+../kinhtrungbo/nanamoli-bodhi-vi/029-the-greater-discourse-on-the-simile-of-the-heartwood.vi.md ../kinhtrungbo/nanamoli-bodhi/029-the-greater-discourse-on-the-simile-of-the-heartwood.md
+Translation complete. Output saved to '../kinhtrungbo/nanamoli-bodhi-vi/029-the-greater-discourse-on-the-simile-of-the-heartwood.vi.md'.
+../kinhtrungbo/nanamoli-bodhi-vi/042-the-brahmins-of-veranja.vi.md ../kinhtrungbo/nanamoli-bodhi/042-the-brahmins-of-veranja.md
+Translation complete. Output saved to '../kinhtrungbo/nanamoli-bodhi-vi/042-the-brahmins-of-veranja.vi.md'.
+../kinhtrungbo/nanamoli-bodhi-vi/018-the-honeyball.vi.md ../kinhtrungbo/nanamoli-bodhi/018-the-honeyball.md
+Translation complete. Output saved to '../kinhtrungbo/nanamoli-bodhi-vi/018-the-honeyball.vi.md'.
+../kinhtrungbo/nanamoli-bodhi-vi/038-the-greater-discourse-on-the-destruction-of-craving.vi.md ../kinhtrungbo/nanamoli-bodhi/038-the-greater-discourse-on-the-destruction-of-craving.md
+  Chunk Finish Reason: FinishReason.MAX_TOKENS
+  Chunk Safety Ratings: None
+Translation complete. Output saved to '../kinhtrungbo/nanamoli-bodhi-vi/038-the-greater-discourse-on-the-destruction-of-craving.vi.md'.
+../kinhtrungbo/nanamoli-bodhi-vi/004-fear-and-dread.vi.md ../kinhtrungbo/nanamoli-bodhi/004-fear-and-dread.md
+Translation complete. Output saved to '../kinhtrungbo/nanamoli-bodhi-vi/004-fear-and-dread.vi.md'.
+../kinhtrungbo/nanamoli-bodhi-vi/010-the-foundations-of-mindfulness.vi.md ../kinhtrungbo/nanamoli-bodhi/010-the-foundations-of-mindfulness.md
+Translation complete. Output saved to '../kinhtrungbo/nanamoli-bodhi-vi/010-the-foundations-of-mindfulness.vi.md'.
+../kinhtrungbo/nanamoli-bodhi-vi/027-the-shorter-discourse-on-the-simile-of-the-elephant-s.vi.md ../kinhtrungbo/nanamoli-bodhi/027-the-shorter-discourse-on-the-simile-of-the-elephant-s.md
+Translation complete. Output saved to '../kinhtrungbo/nanamoli-bodhi-vi/027-the-shorter-discourse-on-the-simile-of-the-elephant-s.vi.md'.
+../kinhtrungbo/nanamoli-bodhi-vi/026-the-noble-search.vi.md ../kinhtrungbo/nanamoli-bodhi/026-the-noble-search.md
+  Chunk Finish Reason: FinishReason.MAX_TOKENS
+  Chunk Safety Ratings: None
+Translation complete. Output saved to '../kinhtrungbo/nanamoli-bodhi-vi/026-the-noble-search.vi.md'.
+../kinhtrungbo/nanamoli-bodhi-vi/014-the-shorter-discourse-on-the-mass-of-suffering.vi.md ../kinhtrungbo/nanamoli-bodhi/014-the-shorter-discourse-on-the-mass-of-suffering.md
+Translation complete. Output saved to '../kinhtrungbo/nanamoli-bodhi-vi/014-the-shorter-discourse-on-the-mass-of-suffering.vi.md'.
+../kinhtrungbo/nanamoli-bodhi-vi/019-two-kinds-of-thought.vi.md ../kinhtrungbo/nanamoli-bodhi/019-two-kinds-of-thought.md
+Translation complete. Output saved to '../kinhtrungbo/nanamoli-bodhi-vi/019-two-kinds-of-thought.vi.md'.
+../kinhtrungbo/nanamoli-bodhi-vi/046-the-greater-discourse-on-ways-of-undertaking-things.vi.md ../kinhtrungbo/nanamoli-bodhi/046-the-greater-discourse-on-ways-of-undertaking-things.md
+Translation complete. Output saved to '../kinhtrungbo/nanamoli-bodhi-vi/046-the-greater-discourse-on-ways-of-undertaking-things.vi.md'.
+../kinhtrungbo/nanamoli-bodhi-vi/048-the-kosambians.vi.md ../kinhtrungbo/nanamoli-bodhi/048-the-kosambians.md
+Translation complete. Output saved to '../kinhtrungbo/nanamoli-bodhi-vi/048-the-kosambians.vi.md'.
+../kinhtrungbo/nanamoli-bodhi-vi/003-heirs-in-dhamma.vi.md ../kinhtrungbo/nanamoli-bodhi/003-heirs-in-dhamma.md
+Translation complete. Output saved to '../kinhtrungbo/nanamoli-bodhi-vi/003-heirs-in-dhamma.vi.md'.
+../kinhtrungbo/nanamoli-bodhi-vi/005-without-blemishes.vi.md ../kinhtrungbo/nanamoli-bodhi/005-without-blemishes.md
+Translation complete. Output saved to '../kinhtrungbo/nanamoli-bodhi-vi/005-without-blemishes.vi.md'.
+../kinhtrungbo/nanamoli-bodhi-vi/008-effacement.vi.md ../kinhtrungbo/nanamoli-bodhi/008-effacement.md
+Translation complete. Output saved to '../kinhtrungbo/nanamoli-bodhi-vi/008-effacement.vi.md'.
+['../kinhtrungbo/nanamoli-bodhi/013-the-greater-discourse-on-the-mass-of-suffering.md ../kinhtrungbo/nanamoli-bodhi-vi/013-the-greater-discourse-on-the-mass-of-suffering.vi.md Translation complete ', '../kinhtrungbo/nanamoli-bodhi/006-if-a-bhikkhu-should-wish.md ../kinhtrungbo/nanamoli-bodhi-vi/006-if-a-bhikkhu-should-wish.vi.md Translation complete ', '../kinhtrungbo/nanamoli-bodhi/032-the-greater-discourse-in-gosinga.md ../kinhtrungbo/nanamoli-bodhi-vi/032-the-greater-discourse-in-gosinga.vi.md Translation complete ', '../kinhtrungbo/nanamoli-bodhi/049-the-invitation-of-a-brahma.md ../kinhtrungbo/nanamoli-bodhi-vi/049-the-invitation-of-a-brahma.vi.md Translation complete ', '../kinhtrungbo/nanamoli-bodhi/007-the-simile-of-the-cloth.md ../kinhtrungbo/nanamoli-bodhi-vi/007-the-simile-of-the-cloth.vi.md Translation complete ', '../kinhtrungbo/nanamoli-bodhi/029-the-greater-discourse-on-the-simile-of-the-heartwood.md ../kinhtrungbo/nanamoli-bodhi-vi/029-the-greater-discourse-on-the-simile-of-the-heartwood.vi.md Translation complete ', '../kinhtrungbo/nanamoli-bodhi/042-the-brahmins-of-veranja.md ../kinhtrungbo/nanamoli-bodhi-vi/042-the-brahmins-of-veranja.vi.md Translation complete ', '../kinhtrungbo/nanamoli-bodhi/018-the-honeyball.md ../kinhtrungbo/nanamoli-bodhi-vi/018-the-honeyball.vi.md Translation complete ', '../kinhtrungbo/nanamoli-bodhi/038-the-greater-discourse-on-the-destruction-of-craving.md ../kinhtrungbo/nanamoli-bodhi-vi/038-the-greater-discourse-on-the-destruction-of-craving.vi.md Translation complete ', '../kinhtrungbo/nanamoli-bodhi/004-fear-and-dread.md ../kinhtrungbo/nanamoli-bodhi-vi/004-fear-and-dread.vi.md Translation complete ', '../kinhtrungbo/nanamoli-bodhi/010-the-foundations-of-mindfulness.md ../kinhtrungbo/nanamoli-bodhi-vi/010-the-foundations-of-mindfulness.vi.md Translation complete ', '../kinhtrungbo/nanamoli-bodhi/027-the-shorter-discourse-on-the-simile-of-the-elephant-s.md ../kinhtrungbo/nanamoli-bodhi-vi/027-the-shorter-discourse-on-the-simile-of-the-elephant-s.vi.md Translation complete ', '../kinhtrungbo/nanamoli-bodhi/026-the-noble-search.md ../kinhtrungbo/nanamoli-bodhi-vi/026-the-noble-search.vi.md Translation complete ', '../kinhtrungbo/nanamoli-bodhi/014-the-shorter-discourse-on-the-mass-of-suffering.md ../kinhtrungbo/nanamoli-bodhi-vi/014-the-shorter-discourse-on-the-mass-of-suffering.vi.md Translation complete ', '../kinhtrungbo/nanamoli-bodhi/019-two-kinds-of-thought.md ../kinhtrungbo/nanamoli-bodhi-vi/019-two-kinds-of-thought.vi.md Translation complete ', '../kinhtrungbo/nanamoli-bodhi/046-the-greater-discourse-on-ways-of-undertaking-things.md ../kinhtrungbo/nanamoli-bodhi-vi/046-the-greater-discourse-on-ways-of-undertaking-things.vi.md Translation complete ', '../kinhtrungbo/nanamoli-bodhi/048-the-kosambians.md ../kinhtrungbo/nanamoli-bodhi-vi/048-the-kosambians.vi.md Translation complete ', '../kinhtrungbo/nanamoli-bodhi/003-heirs-in-dhamma.md ../kinhtrungbo/nanamoli-bodhi-vi/003-heirs-in-dhamma.vi.md Translation complete ', '../kinhtrungbo/nanamoli-bodhi/005-without-blemishes.md ../kinhtrungbo/nanamoli-bodhi-vi/005-without-blemishes.vi.md Translation complete ', '../kinhtrungbo/nanamoli-bodhi/008-effacement.md ../kinhtrungbo/nanamoli-bodhi-vi/008-effacement.vi.md Translation complete ']
+../kinhtrungbo/nanamoli-bodhi-vi/035-the-shorter-discourse-to-saccaka.vi.md ../kinhtrungbo/nanamoli-bodhi/035-the-shorter-discourse-to-saccaka.md
+Translation complete. Output saved to '../kinhtrungbo/nanamoli-bodhi-vi/035-the-shorter-discourse-to-saccaka.vi.md'.
+../kinhtrungbo/nanamoli-bodhi-vi/039-the-greater-discourse-at-assapura.vi.md ../kinhtrungbo/nanamoli-bodhi/039-the-greater-discourse-at-assapura.md
+Translation complete. Output saved to '../kinhtrungbo/nanamoli-bodhi-vi/039-the-greater-discourse-at-assapura.vi.md'.
+../kinhtrungbo/nanamoli-bodhi-vi/024-the-relay-chariots.vi.md ../kinhtrungbo/nanamoli-bodhi/024-the-relay-chariots.md
+Translation complete. Output saved to '../kinhtrungbo/nanamoli-bodhi-vi/024-the-relay-chariots.vi.md'.
+../kinhtrungbo/nanamoli-bodhi-vi/023-the-ant-hill.vi.md ../kinhtrungbo/nanamoli-bodhi/023-the-ant-hill.md
+Translation complete. Output saved to '../kinhtrungbo/nanamoli-bodhi-vi/023-the-ant-hill.vi.md'.
+../kinhtrungbo/nanamoli-bodhi-vi/047-the-inquirer.vi.md ../kinhtrungbo/nanamoli-bodhi/047-the-inquirer.md
+Translation complete. Output saved to '../kinhtrungbo/nanamoli-bodhi-vi/047-the-inquirer.vi.md'.
+../kinhtrungbo/nanamoli-bodhi-vi/037-the-shorter-discourse-on-the-destruction-of-craving.vi.md ../kinhtrungbo/nanamoli-bodhi/037-the-shorter-discourse-on-the-destruction-of-craving.md
+Translation complete. Output saved to '../kinhtrungbo/nanamoli-bodhi-vi/037-the-shorter-discourse-on-the-destruction-of-craving.vi.md'.
+../kinhtrungbo/nanamoli-bodhi-vi/016-the-wilderness-in-the-heart.vi.md ../kinhtrungbo/nanamoli-bodhi/016-the-wilderness-in-the-heart.md
+Translation complete. Output saved to '../kinhtrungbo/nanamoli-bodhi-vi/016-the-wilderness-in-the-heart.vi.md'.
+../kinhtrungbo/nanamoli-bodhi-vi/012-the-greater-discourse-on-the-lion-s-roar.vi.md ../kinhtrungbo/nanamoli-bodhi/012-the-greater-discourse-on-the-lion-s-roar.md
+  Chunk Finish Reason: FinishReason.MAX_TOKENS
+  Chunk Safety Ratings: None
+Translation complete. Output saved to '../kinhtrungbo/nanamoli-bodhi-vi/012-the-greater-discourse-on-the-lion-s-roar.vi.md'.
+../kinhtrungbo/nanamoli-bodhi-vi/036-the-greater-discourse-to-saccaka.vi.md ../kinhtrungbo/nanamoli-bodhi/036-the-greater-discourse-to-saccaka.md
+  Chunk Finish Reason: FinishReason.MAX_TOKENS
+  Chunk Safety Ratings: None
+Translation complete. Output saved to '../kinhtrungbo/nanamoli-bodhi-vi/036-the-greater-discourse-to-saccaka.vi.md'.
+../kinhtrungbo/nanamoli-bodhi-vi/025-the-bait.vi.md ../kinhtrungbo/nanamoli-bodhi/025-the-bait.md
+Translation complete. Output saved to '../kinhtrungbo/nanamoli-bodhi-vi/025-the-bait.vi.md'.
+../kinhtrungbo/nanamoli-bodhi-vi/030-the-shorter-discourse-on-the-simile-of-the-heartwood.vi.md ../kinhtrungbo/nanamoli-bodhi/030-the-shorter-discourse-on-the-simile-of-the-heartwood.md
+Translation complete. Output saved to '../kinhtrungbo/nanamoli-bodhi-vi/030-the-shorter-discourse-on-the-simile-of-the-heartwood.vi.md'.
+../kinhtrungbo/nanamoli-bodhi-vi/022-the-simile-of-the-snake.vi.md ../kinhtrungbo/nanamoli-bodhi/022-the-simile-of-the-snake.md
+  Chunk Finish Reason: FinishReason.MAX_TOKENS
+  Chunk Safety Ratings: None
+Translation complete. Output saved to '../kinhtrungbo/nanamoli-bodhi-vi/022-the-simile-of-the-snake.vi.md'.
+../kinhtrungbo/nanamoli-bodhi-vi/034-the-shorter-discourse-on-the-cowherd.vi.md ../kinhtrungbo/nanamoli-bodhi/034-the-shorter-discourse-on-the-cowherd.md
+Translation complete. Output saved to '../kinhtrungbo/nanamoli-bodhi-vi/034-the-shorter-discourse-on-the-cowherd.vi.md'.
+../kinhtrungbo/nanamoli-bodhi-vi/028-the-greater-discourse-on-the-simile-of-the-elephant-s.vi.md ../kinhtrungbo/nanamoli-bodhi/028-the-greater-discourse-on-the-simile-of-the-elephant-s.md
+Translation complete. Output saved to '../kinhtrungbo/nanamoli-bodhi-vi/028-the-greater-discourse-on-the-simile-of-the-elephant-s.vi.md'.
+../kinhtrungbo/nanamoli-bodhi-vi/011-the-shorter-discourse-on-the-lion-s-roar.vi.md ../kinhtrungbo/nanamoli-bodhi/011-the-shorter-discourse-on-the-lion-s-roar.md
+Translation complete. Output saved to '../kinhtrungbo/nanamoli-bodhi-vi/011-the-shorter-discourse-on-the-lion-s-roar.vi.md'.
+../kinhtrungbo/nanamoli-bodhi-vi/043-the-greater-series-of-questions-and-answers.vi.md ../kinhtrungbo/nanamoli-bodhi/043-the-greater-series-of-questions-and-answers.md
+Translation complete. Output saved to '../kinhtrungbo/nanamoli-bodhi-vi/043-the-greater-series-of-questions-and-answers.vi.md'.
+../kinhtrungbo/nanamoli-bodhi-vi/044-the-shorter-series-of-questions-and-answers.vi.md ../kinhtrungbo/nanamoli-bodhi/044-the-shorter-series-of-questions-and-answers.md
+Translation complete. Output saved to '../kinhtrungbo/nanamoli-bodhi-vi/044-the-shorter-series-of-questions-and-answers.vi.md'.
+../kinhtrungbo/nanamoli-bodhi-vi/050-the-rebuke-to-mara.vi.md ../kinhtrungbo/nanamoli-bodhi/050-the-rebuke-to-mara.md
+Translation complete. Output saved to '../kinhtrungbo/nanamoli-bodhi-vi/050-the-rebuke-to-mara.vi.md'.
+../kinhtrungbo/nanamoli-bodhi-vi/033-the-greater-discourse-on-the-cowherd.vi.md ../kinhtrungbo/nanamoli-bodhi/033-the-greater-discourse-on-the-cowherd.md
+Translation complete. Output saved to '../kinhtrungbo/nanamoli-bodhi-vi/033-the-greater-discourse-on-the-cowherd.vi.md'.
+../kinhtrungbo/nanamoli-bodhi-vi/001-the-root-of-all-things.vi.md ../kinhtrungbo/nanamoli-bodhi/001-the-root-of-all-things.md
+  Chunk Finish Reason: FinishReason.MAX_TOKENS
+  Chunk Safety Ratings: None
+Translation complete. Output saved to '../kinhtrungbo/nanamoli-bodhi-vi/001-the-root-of-all-things.vi.md'.
+../kinhtrungbo/nanamoli-bodhi-vi/020-the-removal-of-distracting-thoughts.vi.md ../kinhtrungbo/nanamoli-bodhi/020-the-removal-of-distracting-thoughts.md
+Translation complete. Output saved to '../kinhtrungbo/nanamoli-bodhi-vi/020-the-removal-of-distracting-thoughts.vi.md'.
+../kinhtrungbo/nanamoli-bodhi-vi/031-the-shorter-discourse-in-gosinga.vi.md ../kinhtrungbo/nanamoli-bodhi/031-the-shorter-discourse-in-gosinga.md
+Translation complete. Output saved to '../kinhtrungbo/nanamoli-bodhi-vi/031-the-shorter-discourse-in-gosinga.vi.md'.
+../kinhtrungbo/nanamoli-bodhi-vi/040-the-shorter-discourse-at-assapura.vi.md ../kinhtrungbo/nanamoli-bodhi/040-the-shorter-discourse-at-assapura.md
+Error writing output file: cannot access local variable 'vietnamese_markdown' where it is not associated with a value
+../kinhtrungbo/nanamoli-bodhi-vi/015-inference.vi.md ../kinhtrungbo/nanamoli-bodhi/015-inference.md
+../kinhtrungbo/nanamoli-bodhi-vi/002-all-the-taints.vi.md ../kinhtrungbo/nanamoli-bodhi/002-all-the-taints.md
+Translation complete. Output saved to '../kinhtrungbo/nanamoli-bodhi-vi/002-all-the-taints.vi.md'.
+../kinhtrungbo/nanamoli-bodhi-vi/009-right-view.vi.md ../kinhtrungbo/nanamoli-bodhi/009-right-view.md
+  Chunk Finish Reason: FinishReason.MAX_TOKENS
+  Chunk Safety Ratings: None
+Translation complete. Output saved to '../kinhtrungbo/nanamoli-bodhi-vi/009-right-view.vi.md'.
+../kinhtrungbo/nanamoli-bodhi-vi/041-the-brahmins-of-sala.vi.md ../kinhtrungbo/nanamoli-bodhi/041-the-brahmins-of-sala.md
+Translation complete. Output saved to '../kinhtrungbo/nanamoli-bodhi-vi/041-the-brahmins-of-sala.vi.md'.
+../kinhtrungbo/nanamoli-bodhi-vi/017-jungle-thickets.vi.md ../kinhtrungbo/nanamoli-bodhi/017-jungle-thickets.md
+Translation complete. Output saved to '../kinhtrungbo/nanamoli-bodhi-vi/017-jungle-thickets.vi.md'.
+../kinhtrungbo/nanamoli-bodhi-vi/045-the-shorter-discourse-on-ways-of-undertaking-things.vi.md ../kinhtrungbo/nanamoli-bodhi/045-the-shorter-discourse-on-ways-of-undertaking-things.md
+Translation complete. Output saved to '../kinhtrungbo/nanamoli-bodhi-vi/045-the-shorter-discourse-on-ways-of-undertaking-things.vi.md'.
+['../kinhtrungbo/nanamoli-bodhi/002-all-the-taints.md ../kinhtrungbo/nanamoli-bodhi-vi/002-all-the-taints.vi.md Translation complete ', '../kinhtrungbo/nanamoli-bodhi/009-right-view.md ../kinhtrungbo/nanamoli-bodhi-vi/009-right-view.vi.md Translation complete ', '../kinhtrungbo/nanamoli-bodhi/041-the-brahmins-of-sala.md ../kinhtrungbo/nanamoli-bodhi-vi/041-the-brahmins-of-sala.vi.md Translation complete ', '../kinhtrungbo/nanamoli-bodhi/017-jungle-thickets.md ../kinhtrungbo/nanamoli-bodhi-vi/017-jungle-thickets.vi.md Translation complete ', '../kinhtrungbo/nanamoli-bodhi/045-the-shorter-discourse-on-ways-of-undertaking-things.md ../kinhtrungbo/nanamoli-bodhi-vi/045-the-shorter-discourse-on-ways-of-undertaking-things.vi.md Translation complete ']
