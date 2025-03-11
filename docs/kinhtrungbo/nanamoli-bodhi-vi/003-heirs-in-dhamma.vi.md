@@ -1,11 +1,11 @@
 # 3. Những Người Thừa Tự Dhamma
 
-1. NHƯ VẬY TÔI ĐÃ NGHE. Một lần nọ, Đức Thế Tôn
+1\. NHƯ VẬY TÔI ĐÃ NGHE. Một lần nọ, Đức Thế Tôn
 đang ở tại Sāvatthī trong Rừng Jeta, Công viên của Anāthapiṇḍika.
 Tại đó, Ngài gọi các vị tỳ kheo: "Này các tỳ kheo."51 — "Bạch
 Thế Tôn," các vị ấy trả lời. Đức Thế Tôn nói điều này:
 
-2. "Này các tỳ kheo, hãy là những người thừa tự Dhamma (Pháp) của ta,
+2\. "Này các tỳ kheo, hãy là những người thừa tự Dhamma (Pháp) của ta,
 chứ không phải những người thừa tự vật chất. Vì lòng từ bi đối với các
 ngươi, ta đã nghĩ: 'Làm thế nào để các đệ tử của ta trở thành những người
 thừa tự Dhamma, chứ không phải những người thừa tự vật chất?'
@@ -29,7 +29,7 @@ chứ không phải những người thừa tự vật chất. Vì lòng từ bi
 ngươi, ta đã nghĩ: 'Làm thế nào để các đệ tử của ta trở thành những người
 thừa tự Dhamma, chứ không phải những người thừa tự vật chất?'
 
-3. "Này các tỳ kheo, giả sử ta đã ăn, đã từ chối thêm thức ăn, đã no,
+3\. "Này các tỳ kheo, giả sử ta đã ăn, đã từ chối thêm thức ăn, đã no,
 đã xong, đã đủ, đã có những gì ta cần, và còn một ít đồ ăn khất thực
 dư thừa để vứt đi. Rồi hai vị tỳ kheo đến [13] đói và yếu, và ta bảo họ:
 'Này các tỳ kheo, ta đã ăn… đã có những gì ta cần, nhưng có đồ ăn khất
@@ -64,14 +64,15 @@ thừa tự vật chất. Vì lòng từ bi đối với các ngươi, ta đã n
 để các đệ tử của ta trở thành những người thừa tự Dhamma, chứ không
 phải những người thừa tự vật chất?'"
 
-4. Đó là những gì Đức Thế Tôn đã nói. Sau khi nói điều này,
+<!--p1-->
+4\. Đó là những gì Đức Thế Tôn đã nói. Sau khi nói điều này,
 Bậc Siêu Việt đứng dậy khỏi chỗ ngồi và đi vào tịnh thất của mình.
 Ngay sau khi Ngài rời đi, tôn giả Sāriputta gọi các vị tỳ kheo: "Này các
 hiền giả, tỳ kheo." — "Hiền giả," các vị ấy trả lời.
 
 [14] Tôn giả Sāriputta nói điều này:
 
-5. "Này các hiền giả, bằng cách nào các đệ tử của Đức Thế Tôn
+5\. "Này các hiền giả, bằng cách nào các đệ tử của Đức Thế Tôn
 sống ẩn dật mà không tu tập ẩn dật? Và bằng cách nào các đệ tử của
 Đức Thế Tôn sống ẩn dật mà tu tập ẩn dật?"
 
@@ -87,7 +88,7 @@ nói."
 "Vâng, hiền giả," các vị tỳ kheo trả lời. Tôn giả Sāriputta
 nói điều này:
 
-6. "Này các hiền giả, bằng cách nào các đệ tử của Đức Thế Tôn
+6\. "Này các hiền giả, bằng cách nào các đệ tử của Đức Thế Tôn
 sống ẩn dật mà không tu tập ẩn dật? Ở đây các đệ tử của
 Đức Thế Tôn sống ẩn dật không tu tập ẩn dật; họ
 không từ bỏ những gì Đức Thế Tôn bảo họ từ bỏ; họ
@@ -125,7 +126,7 @@ vị tỳ kheo mới đáng bị khiển trách vì ba lý do này.
 "Đó là cách mà các đệ tử của Đức Thế Tôn sống
 ẩn dật mà không tu tập ẩn dật.
 
-7. "Bằng cách nào, này các hiền giả, các đệ tử của Đức Thế Tôn
+7\. "Bằng cách nào, này các hiền giả, các đệ tử của Đức Thế Tôn
 sống ẩn dật [15] mà tu tập ẩn dật? Ở đây các đệ tử của
 Đức Thế Tôn sống ẩn dật tu tập ẩn dật; họ từ bỏ
 những gì Đức Thế Tôn bảo họ từ bỏ; họ không
@@ -166,7 +167,7 @@ ba lý do này.
 "Đó là cách mà các đệ tử của Đức Thế Tôn sống
 ẩn dật mà tu tập ẩn dật.
 
-8. "Này các hiền giả, điều ác ở đây là tham và sân.54 Có
+8\. "Này các hiền giả, điều ác ở đây là tham và sân.54 Có
 một Con Đường Trung Đạo để từ bỏ tham và sân, đem lại
 thị lực, đem lại trí tuệ, dẫn đến an lạc,
 trí tuệ trực tiếp, giác ngộ, Niết Bàn.
@@ -196,6 +197,7 @@ giác ngộ, Niết Bàn."
 Đó là những gì tôn giả Sāriputta đã nói. Các vị tỳ kheo
 đã hoan hỷ và hài lòng với lời của tôn giả Sāriputta.
 
+<!--p2-->
 Từ ngữ:
 - Dhamma / Dhamma / Pháp / Giáo lý của Đức Phật, ở đây chỉ sự tu tập, thực hành theo lời Phật dạy.
 - Vật chất / material things / Āmisa / Những thứ vật chất như đồ ăn, thức uống, y phục, chỗ ở...

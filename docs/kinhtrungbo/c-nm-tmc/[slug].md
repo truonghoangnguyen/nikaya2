@@ -12,31 +12,8 @@ const { params, page } = useData()
 const data = computed(() => params.value.data);
 const nextLink = data.value.nextlink
 const backLink = data.value.backlink
-document.title = data.value.title
-// const nextLink = computed(() => {
-//   if (data.value?.nextlink) {
-//     return {
-//       text: data.value.title,
-//       link: data.value.nextlink
-//     }
-//   }
-//   return null
-// })
+// document.title = data.value.title
 
-// const nextInfo = {
-//   text: 'aaa',
-//   link: '/'
-// }
-
-// <!-- <ChapterCompare
-//   :slug="slug"
-//   :left="data.left"
-//   :right="data.right"
-//   :parts="data.parts || 1"
-//   :leftTitle="data.leftTitle"
-//   :rightTitle="data.rightTitle"
-//   :notePath="data.notePath"
-// /> -->
 </script>
 
 

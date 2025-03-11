@@ -13,6 +13,7 @@ Một thời, Thế Tôn ở Savatthi (Xá-vệ), tại Jetavana (Kỳ-đà Lâm
 bổn, đầy đủ uy nghi chánh hạnh, thấy sự nguy hiểm trong các lỗi nhỏ nhặt, chơn chánh lãnh thọ và học
 tập các học giới.
 
+<!--p1-->
 Này các Tỷ-kheo, nếu Tỷ-kheo có ước nguyện: "Mong rằng ta được các đồng phạm hạnh thương mến,
 yêu quý, cung kính và tôn trọng!", Tỷ-kheo ấy phải thành tựu viên mãn giới luật, kiên trì, nội tâm tịch
 tĩnh, không gián đoạn Thiền định, thành tựu quán hạnh, thích sống tại các trú xứ không tịnh.
@@ -39,6 +40,7 @@ Này các Tỷ-kheo, nếu Tỷ-kheo có ước nguyện: "Mong rằng ta nhiế
 không phải khiếp đảm và sợ hãi nhiếp phục ta! Mong rằng ta sống luôn luôn nhiếp phục khiếp đảm và
 sợ hãi được khởi lên!", Tỷ-kheo ấy phải thành tựu viên mãn giới luật... (như trên)... trú xứ không tịnh.
 
+<!--p2-->
 Này các Tỷ-kheo, nếu Tỷ-kheo có ước nguyện: "Mong rằng, tùy theo ý muốn, không có khó khăn,
 không có mệt nhọc, không có phí sức, ta chứng được bốn Thiền, thuộc tăng thượng tâm, hiện tại lạc
 trú!", Tỷ-kheo ấy phải thành tựu viên mãn giới luật... (như trên)... trú xứ không tịnh.
@@ -59,6 +61,7 @@ Này các Tỷ-kheo, nếu Tỷ-kheo có ước nguyện: "Mong rằng, trừ di
 sanh, chứng được Niết-bàn ngay tại cảnh giới ấy, không còn trở lui thế giới này nữa!", Tỷ-kheo ấy phải
 thành tựu viên mãn giới luật... (như trên)... các trú xứ không tịnh.
 
+<!--p3-->
 Này các Tỷ-kheo, nếu Tỷ-kheo có ước nguyện: "Mong rằng ta chứng được các loại thần thông! Một
 thân ta hiện ra nhiều thân, nhiều thân ta hiện ra một thân; ta hiện hình, biến hình đi ngang qua vách, qua
 thành, qua núi như đi ngang hư không, ta độn thổ trồi lên ngang qua đất liền như ở trong nước; ta đi trên

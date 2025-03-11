@@ -1,6 +1,5 @@
 ---
-title: "aaaq"
-layout: page
+layout: home
 ---
 
 <script setup>
@@ -12,7 +11,7 @@ const { params, page } = useData()
 const data = computed(() => params.value.data);
 const nextLink = data.value.nextlink
 const backLink = data.value.backlink
-document.title = data.value.title
+// document.title = data.value.title
 // const nextLink = computed(() => {
 //   if (data.value?.nextlink) {
 //     return {

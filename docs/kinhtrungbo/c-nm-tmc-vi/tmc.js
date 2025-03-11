@@ -1,7 +1,7 @@
 const tmcmnvi = [
   {
     "params": {
-      "slug": "tmc-mn-bodhi-001-kinh-phap-mon-can-ban",
+      "slug": "001-kinh-phap-mon-can-ban",
       "data": {
         "title": "1. KINH PHÁP MÔN CĂN BẢN",
         "left": "/kinhtrungbo/nanamoli-bodhi-vi/001-the-root-of-all-things.vi.md",
@@ -19,7 +19,7 @@ const tmcmnvi = [
   },
   {
     "params": {
-      "slug": "tmc-mn-bodhi-002-kinh-tat-ca-cac-lau-hoac",
+      "slug": "002-kinh-tat-ca-cac-lau-hoac",
       "data": {
         "title": "2. KINH TẤT CẢ CÁC LẬU HOẶC",
         "left": "/kinhtrungbo/nanamoli-bodhi-vi/002-all-the-taints.vi.md",
@@ -40,7 +40,7 @@ const tmcmnvi = [
   },
   {
     "params": {
-      "slug": "tmc-mn-bodhi-003-kinh-thua-tu-phap",
+      "slug": "003-kinh-thua-tu-phap",
       "data": {
         "title": "3. KINH THỪA TỰ PHÁP",
         "left": "/kinhtrungbo/nanamoli-bodhi-vi/003-heirs-in-dhamma.vi.md",
@@ -61,7 +61,7 @@ const tmcmnvi = [
   },
   {
     "params": {
-      "slug": "tmc-mn-bodhi-004-kinh-so-hai-khiep-dam",
+      "slug": "004-kinh-so-hai-khiep-dam",
       "data": {
         "title": "4. KINH SỢ HÃI KHIẾP ÐẢM",
         "left": "/kinhtrungbo/nanamoli-bodhi-vi/004-fear-and-dread.vi.md",
@@ -82,7 +82,7 @@ const tmcmnvi = [
   },
   {
     "params": {
-      "slug": "tmc-mn-bodhi-005-kinh-khong-ue-nhiem",
+      "slug": "005-kinh-khong-ue-nhiem",
       "data": {
         "title": "5. KINH KHÔNG UẾ NHIỄM",
         "left": "/kinhtrungbo/nanamoli-bodhi-vi/005-without-blemishes.vi.md",
@@ -103,7 +103,7 @@ const tmcmnvi = [
   },
   {
     "params": {
-      "slug": "tmc-mn-bodhi-006-kinh-uoc-nguyen",
+      "slug": "006-kinh-uoc-nguyen",
       "data": {
         "title": "6. KINH ƯỚC NGUYỆN",
         "left": "/kinhtrungbo/nanamoli-bodhi-vi/006-if-a-bhikkhu-should-wish.vi.md",
@@ -124,7 +124,7 @@ const tmcmnvi = [
   },
   {
     "params": {
-      "slug": "tmc-mn-bodhi-007-kinh-vi-du-tam-vai",
+      "slug": "007-kinh-vi-du-tam-vai",
       "data": {
         "title": "7. KINH VÍ DỤ TẤM VẢI",
         "left": "/kinhtrungbo/nanamoli-bodhi-vi/007-the-simile-of-the-cloth.vi.md",
@@ -145,7 +145,7 @@ const tmcmnvi = [
   },
   {
     "params": {
-      "slug": "tmc-mn-bodhi-008-kinh-doan-giam",
+      "slug": "008-kinh-doan-giam",
       "data": {
         "title": "8. KINH ÐOẠN GIẢM",
         "left": "/kinhtrungbo/nanamoli-bodhi-vi/008-effacement.vi.md",
@@ -166,7 +166,7 @@ const tmcmnvi = [
   },
   {
     "params": {
-      "slug": "tmc-mn-bodhi-009-kinh-chanh-tri-kien",
+      "slug": "009-kinh-chanh-tri-kien",
       "data": {
         "title": "9. KINH CHÁNH TRI KIẾN",
         "left": "/kinhtrungbo/nanamoli-bodhi-vi/009-right-view.vi.md",
@@ -187,7 +187,7 @@ const tmcmnvi = [
   },
   {
     "params": {
-      "slug": "tmc-mn-bodhi-010-kinh-niem-xu",
+      "slug": "010-kinh-niem-xu",
       "data": {
         "title": "10. KINH NIỆM XỨ",
         "left": "/kinhtrungbo/nanamoli-bodhi-vi/010-the-foundations-of-mindfulness.vi.md",
@@ -208,7 +208,7 @@ const tmcmnvi = [
   },
   {
     "params": {
-      "slug": "tmc-mn-bodhi-011-tieu-kinh-su-tu-hong",
+      "slug": "011-tieu-kinh-su-tu-hong",
       "data": {
         "title": "11. TIỂU KINH SƯ TỬ HỐNG",
         "left": "/kinhtrungbo/nanamoli-bodhi-vi/011-the-shorter-discourse-on-the-lion-s-roar.vi.md",
@@ -229,7 +229,7 @@ const tmcmnvi = [
   },
   {
     "params": {
-      "slug": "tmc-mn-bodhi-012-dai-kinh-su-tu-hong",
+      "slug": "012-dai-kinh-su-tu-hong",
       "data": {
         "title": "12. ÐẠI KINH SƯ TỬ HỐNG",
         "left": "/kinhtrungbo/nanamoli-bodhi-vi/012-the-greater-discourse-on-the-lion-s-roar.vi.md",
@@ -250,7 +250,7 @@ const tmcmnvi = [
   },
   {
     "params": {
-      "slug": "tmc-mn-bodhi-013-dai-kinh-kho-uan",
+      "slug": "013-dai-kinh-kho-uan",
       "data": {
         "title": "13. ÐẠI KINH KHỔ UẨN",
         "left": "/kinhtrungbo/nanamoli-bodhi-vi/013-the-greater-discourse-on-the-mass-of-suffering.vi.md",
@@ -271,7 +271,7 @@ const tmcmnvi = [
   },
   {
     "params": {
-      "slug": "tmc-mn-bodhi-014-tieu-kinh-kho-uan",
+      "slug": "014-tieu-kinh-kho-uan",
       "data": {
         "title": "14. TIỂU KINH KHỔ UẨN",
         "left": "/kinhtrungbo/nanamoli-bodhi-vi/014-the-shorter-discourse-on-the-mass-of-suffering.vi.md",
@@ -292,7 +292,7 @@ const tmcmnvi = [
   },
   {
     "params": {
-      "slug": "tmc-mn-bodhi-015-kinh-tu-luong",
+      "slug": "015-kinh-tu-luong",
       "data": {
         "title": "15. KINH TƯ LƯỢNG",
         "left": "/kinhtrungbo/nanamoli-bodhi-vi/016-the-wilderness-in-the-heart.vi.md",
@@ -313,7 +313,7 @@ const tmcmnvi = [
   },
   {
     "params": {
-      "slug": "tmc-mn-bodhi-016-kinh-tam-hoang-vu",
+      "slug": "016-kinh-tam-hoang-vu",
       "data": {
         "title": "16. KINH TÂM HOANG VU",
         "left": "/kinhtrungbo/nanamoli-bodhi-vi/017-jungle-thickets.vi.md",
@@ -334,7 +334,7 @@ const tmcmnvi = [
   },
   {
     "params": {
-      "slug": "tmc-mn-bodhi-017-kinh-khu-rung",
+      "slug": "017-kinh-khu-rung",
       "data": {
         "title": "17. KINH KHU RỪNG",
         "left": "/kinhtrungbo/nanamoli-bodhi-vi/018-the-honeyball.vi.md",
@@ -355,7 +355,7 @@ const tmcmnvi = [
   },
   {
     "params": {
-      "slug": "tmc-mn-bodhi-018-kinh-mat-hoan",
+      "slug": "018-kinh-mat-hoan",
       "data": {
         "title": "18. KINH MẬT HOÀN",
         "left": "/kinhtrungbo/nanamoli-bodhi-vi/019-two-kinds-of-thought.vi.md",
@@ -376,7 +376,7 @@ const tmcmnvi = [
   },
   {
     "params": {
-      "slug": "tmc-mn-bodhi-019-kinh-song-tam",
+      "slug": "019-kinh-song-tam",
       "data": {
         "title": "19. KINH SONG TẦM",
         "left": "/kinhtrungbo/nanamoli-bodhi-vi/020-the-removal-of-distracting-thoughts.vi.md",
@@ -397,7 +397,7 @@ const tmcmnvi = [
   },
   {
     "params": {
-      "slug": "tmc-mn-bodhi-020-kinh-an-tru-tam",
+      "slug": "020-kinh-an-tru-tam",
       "data": {
         "title": "20. KINH AN TRÚ TẦM",
         "left": "/kinhtrungbo/nanamoli-bodhi-vi/021-the-simile-of-the-saw.vi.md",
@@ -418,7 +418,7 @@ const tmcmnvi = [
   },
   {
     "params": {
-      "slug": "tmc-mn-bodhi-021-kinh-vi-du-cai-cua",
+      "slug": "021-kinh-vi-du-cai-cua",
       "data": {
         "title": "21. KINH VÍ DỤ CÁI CƯA",
         "left": "/kinhtrungbo/nanamoli-bodhi-vi/022-the-simile-of-the-snake.vi.md",
@@ -439,7 +439,7 @@ const tmcmnvi = [
   },
   {
     "params": {
-      "slug": "tmc-mn-bodhi-022-kinh-vi-du-con-ran",
+      "slug": "022-kinh-vi-du-con-ran",
       "data": {
         "title": "22. KINH VÍ DỤ CON RẮN",
         "left": "/kinhtrungbo/nanamoli-bodhi-vi/023-the-ant-hill.vi.md",
@@ -460,7 +460,7 @@ const tmcmnvi = [
   },
   {
     "params": {
-      "slug": "tmc-mn-bodhi-023-kinh-go-moi",
+      "slug": "023-kinh-go-moi",
       "data": {
         "title": "23. KINH GÒ MỐI",
         "left": "/kinhtrungbo/nanamoli-bodhi-vi/024-the-relay-chariots.vi.md",
@@ -481,7 +481,7 @@ const tmcmnvi = [
   },
   {
     "params": {
-      "slug": "tmc-mn-bodhi-024-kinh-tram-xe",
+      "slug": "024-kinh-tram-xe",
       "data": {
         "title": "24. KINH TRẠM XE",
         "left": "/kinhtrungbo/nanamoli-bodhi-vi/025-the-bait.vi.md",
@@ -502,7 +502,7 @@ const tmcmnvi = [
   },
   {
     "params": {
-      "slug": "tmc-mn-bodhi-025-kinh-bay-moi",
+      "slug": "025-kinh-bay-moi",
       "data": {
         "title": "25. KINH BẪY MỒI",
         "left": "/kinhtrungbo/nanamoli-bodhi-vi/026-the-noble-search.vi.md",
@@ -523,7 +523,7 @@ const tmcmnvi = [
   },
   {
     "params": {
-      "slug": "tmc-mn-bodhi-026-kinh-thanh-cau",
+      "slug": "026-kinh-thanh-cau",
       "data": {
         "title": "26. KINH THÁNH CẦU",
         "left": "/kinhtrungbo/nanamoli-bodhi-vi/027-the-shorter-discourse-on-the-simile-of-the-elephant-s.vi.md",
@@ -544,7 +544,7 @@ const tmcmnvi = [
   },
   {
     "params": {
-      "slug": "tmc-mn-bodhi-027-tieu-kinh-du-dau-chan-voi",
+      "slug": "027-tieu-kinh-du-dau-chan-voi",
       "data": {
         "title": "27. TIỂU KINH DỤ DẤU CHÂN VOI",
         "left": "/kinhtrungbo/nanamoli-bodhi-vi/028-the-greater-discourse-on-the-simile-of-the-elephant-s.vi.md",
@@ -565,7 +565,7 @@ const tmcmnvi = [
   },
   {
     "params": {
-      "slug": "tmc-mn-bodhi-028-dai-kinh-du-dau-chan-voi",
+      "slug": "028-dai-kinh-du-dau-chan-voi",
       "data": {
         "title": "28. ÐẠI KINH DỤ DẤU CHÂN VOI",
         "left": "/kinhtrungbo/nanamoli-bodhi-vi/029-the-greater-discourse-on-the-simile-of-the-heartwood.vi.md",
@@ -586,7 +586,7 @@ const tmcmnvi = [
   },
   {
     "params": {
-      "slug": "tmc-mn-bodhi-029-dai-kinh-thi-du-loi-cay",
+      "slug": "029-dai-kinh-thi-du-loi-cay",
       "data": {
         "title": "29. ÐẠI KINH THÍ DỤ LÕI CÂY",
         "left": "/kinhtrungbo/nanamoli-bodhi-vi/030-the-shorter-discourse-on-the-simile-of-the-heartwood.vi.md",
@@ -607,7 +607,7 @@ const tmcmnvi = [
   },
   {
     "params": {
-      "slug": "tmc-mn-bodhi-030-tieu-kinh-du-loi-cay",
+      "slug": "030-tieu-kinh-du-loi-cay",
       "data": {
         "title": "30. TIỂU KINH DỤ LÕI CÂY",
         "left": "/kinhtrungbo/nanamoli-bodhi-vi/031-the-shorter-discourse-in-gosinga.vi.md",
@@ -628,7 +628,7 @@ const tmcmnvi = [
   },
   {
     "params": {
-      "slug": "tmc-mn-bodhi-031-tieu-kinh-rung-sung-bo",
+      "slug": "031-tieu-kinh-rung-sung-bo",
       "data": {
         "title": "31. TIỂU KINH RỪNG SỪNG BÒ",
         "left": "/kinhtrungbo/nanamoli-bodhi-vi/032-the-greater-discourse-in-gosinga.vi.md",
@@ -649,7 +649,7 @@ const tmcmnvi = [
   },
   {
     "params": {
-      "slug": "tmc-mn-bodhi-032-dai-kinh-rung-sung-bo",
+      "slug": "032-dai-kinh-rung-sung-bo",
       "data": {
         "title": "32. ÐẠI KINH RỪNG SỪNG BÒ",
         "left": "/kinhtrungbo/nanamoli-bodhi-vi/033-the-greater-discourse-on-the-cowherd.vi.md",
@@ -670,7 +670,7 @@ const tmcmnvi = [
   },
   {
     "params": {
-      "slug": "tmc-mn-bodhi-033-dai-kinh-nguoi-chan-bo",
+      "slug": "033-dai-kinh-nguoi-chan-bo",
       "data": {
         "title": "33. ÐẠI KINH NGƯỜI CHĂN BÒ",
         "left": "/kinhtrungbo/nanamoli-bodhi-vi/034-the-shorter-discourse-on-the-cowherd.vi.md",
@@ -691,7 +691,7 @@ const tmcmnvi = [
   },
   {
     "params": {
-      "slug": "tmc-mn-bodhi-034-tieu-kinh-nguoi-chan-bo",
+      "slug": "034-tieu-kinh-nguoi-chan-bo",
       "data": {
         "title": "34. TIỂU KINH NGƯỜI CHĂN BÒ",
         "left": "/kinhtrungbo/nanamoli-bodhi-vi/035-the-shorter-discourse-to-saccaka.vi.md",
@@ -712,7 +712,7 @@ const tmcmnvi = [
   },
   {
     "params": {
-      "slug": "tmc-mn-bodhi-035-tieu-kinh-saccaka",
+      "slug": "035-tieu-kinh-saccaka",
       "data": {
         "title": "35. TIỂU KINH SACCAKA",
         "left": "/kinhtrungbo/nanamoli-bodhi-vi/036-the-greater-discourse-to-saccaka.vi.md",
@@ -733,7 +733,7 @@ const tmcmnvi = [
   },
   {
     "params": {
-      "slug": "tmc-mn-bodhi-036-dai-kinh-saccaka",
+      "slug": "036-dai-kinh-saccaka",
       "data": {
         "title": "36. ÐẠI KINH SACCAKA",
         "left": "/kinhtrungbo/nanamoli-bodhi-vi/037-the-shorter-discourse-on-the-destruction-of-craving.vi.md",
@@ -754,7 +754,7 @@ const tmcmnvi = [
   },
   {
     "params": {
-      "slug": "tmc-mn-bodhi-037-tieu-kinh-doan-tan-ai",
+      "slug": "037-tieu-kinh-doan-tan-ai",
       "data": {
         "title": "37. TIỂU KINH ÐOẠN TẬN ÁI",
         "left": "/kinhtrungbo/nanamoli-bodhi-vi/038-the-greater-discourse-on-the-destruction-of-craving.vi.md",
@@ -775,7 +775,7 @@ const tmcmnvi = [
   },
   {
     "params": {
-      "slug": "tmc-mn-bodhi-038-dai-kinh-doan-tan-ai",
+      "slug": "038-dai-kinh-doan-tan-ai",
       "data": {
         "title": "38. ÐẠI KINH ÐOẠN TẬN ÁI",
         "left": "/kinhtrungbo/nanamoli-bodhi-vi/039-the-greater-discourse-at-assapura.vi.md",
@@ -796,7 +796,7 @@ const tmcmnvi = [
   },
   {
     "params": {
-      "slug": "tmc-mn-bodhi-039-dai-kinh-xom-ngua",
+      "slug": "039-dai-kinh-xom-ngua",
       "data": {
         "title": "39. ÐẠI KINH XÓM NGỰA",
         "left": "/kinhtrungbo/nanamoli-bodhi-vi/040-the-shorter-discourse-at-assapura.vi.md",
@@ -817,7 +817,7 @@ const tmcmnvi = [
   },
   {
     "params": {
-      "slug": "tmc-mn-bodhi-040-tieu-kinh-xom-ngua",
+      "slug": "040-tieu-kinh-xom-ngua",
       "data": {
         "title": "40. TIỂU KINH XÓM NGỰA",
         "left": "/kinhtrungbo/nanamoli-bodhi-vi/041-the-brahmins-of-sala.vi.md",
@@ -838,7 +838,7 @@ const tmcmnvi = [
   },
   {
     "params": {
-      "slug": "tmc-mn-bodhi-041-kinh-saleyyaka",
+      "slug": "041-kinh-saleyyaka",
       "data": {
         "title": "41. KINH SÀLEYYAKA",
         "left": "/kinhtrungbo/nanamoli-bodhi-vi/042-the-brahmins-of-veranja.vi.md",
@@ -859,7 +859,7 @@ const tmcmnvi = [
   },
   {
     "params": {
-      "slug": "tmc-mn-bodhi-042-kinh-veranjaka",
+      "slug": "042-kinh-veranjaka",
       "data": {
         "title": "42. KINH VERANJAKA",
         "left": "/kinhtrungbo/nanamoli-bodhi-vi/043-the-greater-series-of-questions-and-answers.vi.md",
@@ -880,7 +880,7 @@ const tmcmnvi = [
   },
   {
     "params": {
-      "slug": "tmc-mn-bodhi-043-dai-kinh-phuong-quang",
+      "slug": "043-dai-kinh-phuong-quang",
       "data": {
         "title": "43. ÐẠI KINH PHƯƠNG QUẢNG",
         "left": "/kinhtrungbo/nanamoli-bodhi-vi/044-the-shorter-series-of-questions-and-answers.vi.md",
@@ -901,7 +901,7 @@ const tmcmnvi = [
   },
   {
     "params": {
-      "slug": "tmc-mn-bodhi-044-tieu-kinh-phuong-quang",
+      "slug": "044-tieu-kinh-phuong-quang",
       "data": {
         "title": "44. TIỂU KINH PHƯƠNG QUẢNG",
         "left": "/kinhtrungbo/nanamoli-bodhi-vi/045-the-shorter-discourse-on-ways-of-undertaking-things.vi.md",
@@ -922,7 +922,7 @@ const tmcmnvi = [
   },
   {
     "params": {
-      "slug": "tmc-mn-bodhi-045-tieu-kinh-phap-hanh",
+      "slug": "045-tieu-kinh-phap-hanh",
       "data": {
         "title": "45. TIỂU KINH PHÁP HÀNH",
         "left": "/kinhtrungbo/nanamoli-bodhi-vi/046-the-greater-discourse-on-ways-of-undertaking-things.vi.md",
@@ -943,7 +943,7 @@ const tmcmnvi = [
   },
   {
     "params": {
-      "slug": "tmc-mn-bodhi-046-dai-kinh-phap-hanh",
+      "slug": "046-dai-kinh-phap-hanh",
       "data": {
         "title": "46. ÐẠI KINH PHÁP HÀNH",
         "left": "/kinhtrungbo/nanamoli-bodhi-vi/047-the-inquirer.vi.md",
@@ -964,7 +964,7 @@ const tmcmnvi = [
   },
   {
     "params": {
-      "slug": "tmc-mn-bodhi-047-kinh-tu-sat",
+      "slug": "047-kinh-tu-sat",
       "data": {
         "title": "47. KINH TƯ SÁT",
         "left": "/kinhtrungbo/nanamoli-bodhi-vi/048-the-kosambians.vi.md",
@@ -985,7 +985,7 @@ const tmcmnvi = [
   },
   {
     "params": {
-      "slug": "tmc-mn-bodhi-048-kinh-kosambiya",
+      "slug": "048-kinh-kosambiya",
       "data": {
         "title": "48. KINH KOSAMBIYA",
         "left": "/kinhtrungbo/nanamoli-bodhi-vi/049-the-invitation-of-a-brahma.vi.md",
@@ -1006,7 +1006,7 @@ const tmcmnvi = [
   },
   {
     "params": {
-      "slug": "tmc-mn-bodhi-049-kinh-pham-thien-cau-thinh",
+      "slug": "049-kinh-pham-thien-cau-thinh",
       "data": {
         "title": "49. KINH PHẠM THIÊN CẦU THỈNH",
         "left": "/kinhtrungbo/nanamoli-bodhi-vi/050-the-rebuke-to-mara.vi.md",
@@ -1027,7 +1027,7 @@ const tmcmnvi = [
   },
   {
     "params": {
-      "slug": "tmc-mn-bodhi-050-kinh-hang-ma",
+      "slug": "050-kinh-hang-ma",
       "data": {
         "title": "50. KINH HÀNG MA",
         "left": "/kinhtrungbo/nanamoli-bodhi-vi/index.md",

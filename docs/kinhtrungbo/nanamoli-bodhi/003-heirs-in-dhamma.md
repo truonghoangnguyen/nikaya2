@@ -24,8 +24,6 @@ be said]: ‘The Teacher’s disciples live as his heirs in Dhamma,
 not as his heirs in material things.’
 
 Therefore, bhikkhus, be my heirs in Dhamma, not my heirs
-
-
 in material things. Out of compassion for you I have thought:
 ‘How shall my disciples be my heirs in Dhamma, not my heirs
 in material things?’
@@ -63,14 +61,13 @@ night and day neither hungry nor weak, yet the first bhikkhu is
 more to be respected and commended by me.
 
 Why is that? Because that will for long conduce to his
-
-
 fewness of wishes, contentment, effacement, easy support,
 and arousal of energy.52 Therefore, bhikkhus, be my heirs in
 Dhamma, not my heirs in material things. Out of compassion
 for you I have thought: ‘How shall my disciples be my heirs in
 Dhamma, not my heirs in material things?’”
 
+<!--p1-->
 4. That is what the Blessed One said. Having said this,
 the Sublime One rose from his seat and went into his dwelling.
 Soon after he had left, the venerable Sāriputta addressed the
@@ -104,8 +101,6 @@ of seclusion.
 “In this the elder bhikkhus are to be blamed for three
 reasons.53As disciples of the Teacher who lives secluded they
 do not train in seclusion: they are to be blamed for this first
-
-
 reason. They do not abandon what the Teacher tells them to
 abandon: they are to be blamed for this second reason. They
 are luxurious and careless, leaders in backsliding, neglectful
@@ -143,8 +138,6 @@ leaders in seclusion.
 “In this the elder bhikkhus are to be commended for three
 reasons. As disciples of the Teacher who lives secluded they
 train in seclusion: they are to be commended for this first
-
-
 reason. They abandon what the Teacher tells them to abandon:
 they are to be commended for this second reason. They are
 not luxurious and careless; they are keen to avoid backsliding
@@ -182,8 +175,6 @@ knowledge, to enlightenment, to Nibbāna.
 
 And what is that Middle Way? It is just this Noble Eightfold
 Path; that is, right view, right intention, right speech, right
-
-
 action, right livelihood, right effort, right mindfulness, and right
 concentration. This is the Middle Way giving vision, giving
 knowledge, which leads to peace, to direct knowledge, to

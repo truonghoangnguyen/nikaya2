@@ -42,6 +42,7 @@ vu. Thân nghiệp Ta thanh tịnh. Ta là một trong những bậc Thánh, v�
 các trú xứ xa vắng, trong rừng núi hoang vu". Này Bà-la-môn, Ta tự quán sát thân nghiệp hoàn toàn
 thanh tịnh này, tự cảm thấy lòng tự tin được xác chứng hơn, khi sống trong rừng núi.
 
+<!--p2-->
 Này Bà-la-môn, tùy thuộc vấn đề này, Ta suy nghĩ như sau: "Những Sa-môn, hay Bà-la-môn nào, có
 khẩu nghiệp không thanh tịnh... (như trên)... có ý nghiệp không thanh tịnh... (như trên)... có mạng sống
 không thanh tịnh sống tại các trú xứ xa vắng, trong rừng núi hoang vu, do nguyên nhân nhiễm trước
@@ -51,7 +52,6 @@ rừng núi hoang vu. Mạng sống Ta thanh tịnh. Ta là một trong những 
 tịnh, sống tại các trú xứ xa vắng, trong rừng núi hoang vu". Này Bà-la-môn, Ta tự quán sát mạng sống
 hoàn toàn thanh tịnh này, tự cảm thấy lòng tự tin được xác chứng hơn, khi sống trong rừng núi.
 
-<!--p2-->
 Này Bà-la-môn, tùy thuộc vấn đề này, Ta suy nghĩ như sau: "Những Sa-môn hay Bà-la-môn nào tham
 dục, có ái dục cường liệt, sống tại các trú xứ xa vắng, trong rừng núi hoang vu, do nguyên nhân nhiễm
 trước tham dục, có ái dục cường liệt, những Tôn giả Sa-môn hay Bà-la-môn ấy chắc chắn làm cho sợ
@@ -152,9 +152,9 @@ Ta là một trong những bậc Thánh thành tựu trí tuệ, sống tại c�
 vu". Này Bà-la-môn, Ta tự quán sát Ta thành tựu trí tuệ như vậy, tự cảm thấy lòng tự tin được xác chứng
 hơn, khi sống trong rừng núi.
 
+<!--p3-->
 Này Bà-la-môn, tùy thuộc vấn đề này, Ta suy nghĩ như sau: "Trong những đêm được biết đến, được xác
 định, đêm mười bốn, đêm mười lăm, đêm mồng tám mỗi nửa tháng, trong những đêm như vậy, Ta hãy
-
 đến ở tại các trú xứ hãi hùng, lông tóc dựng ngược, như tự miếu tại các thảo viên, tự miếu tại các rừng
 núi, tự miếu tại các cây cối, để Ta có thể thấy sự sợ hãi khiếp đảm ấy". Này Bà-la-môn, sau một thời
 gian, trong những đêm được biết đến, được xác định, đêm mười bốn, đêm mười lăm, đêm mồng tám mỗi
@@ -185,6 +185,7 @@ một cách chân chánh về Ta sẽ nói như sau: "Là vị hữu tình khôn
 cho muôn loài, vì an lạc cho muôn loài, vì lòng thương tưởng cho đời, vì lợi ích, vì hạnh phúc, vì an lạc
 cho loài Trời và loài Người".
 
+<!--p4-->
 Này Bà-la-môn, Ta tinh cần, tinh tấn, không lười biếng. Ta an trú chánh niệm, không có loạn, thân được
 khinh an, không có dao động, tâm được định tĩnh, chuyên nhất.
 
@@ -200,12 +201,12 @@ chứng và an trú Thiền thứ ba.
 Xả lạc và xả khổ, diệt hỷ ưu đã cảm thọ trước, Ta chứng và an trú Thiền thứ tư, không khổ không lạc, xả
 niệm thanh tịnh.
 
+<!--p5-->
 Với tâm định tĩnh, thuần tịnh, không cấu nhiễm, không phiền não, nhu nhuyến, dễ sử dụng, vững chắc,
 bình thản như vậy, Ta dẫn tâm, hướng tâm đến túc mạng trí. Ta nhớ đến các đời sống quá khứ, như một
 đời, hai đời, ba đời, bốn đời, năm đời, mười đời, hai mươi đời, ba mươi đời, bốn mươi đời, năm mươi
 đời, một trăm đời, hai trăm đời, một ngàn đời, một trăm ngàn đời, nhiều hoại kiếp, nhiều thành kiếp,
 nhiều hoại và thành kiếp. Ta nhớ rằng: "Tại chỗ kia, Ta có tên như thế này, dòng họ như thế này, giai
-
 cấp như thế này, các món ăn như thế này, thọ khổ lạc như thế này, tuổi thọ đến mức như thế này. Sau
 khi chết tại chỗ kia, Ta được sanh ra tại chỗ này. Tại chỗ này, Ta có tên như thế này, dòng họ như thế
 này, giai cấp như thế này, các món ăn như thế này, thọ khổ lạc như thế này, tuổi thọ đến mức như thế
@@ -215,6 +216,7 @@ với các nét đại cương và các chi tiết.
 Này Bà-la-môn, trong đêm canh đầu Ta chứng được minh thứ nhất, vô minh diệt, minh sanh; bóng tối
 diệt, ánh sáng sanh, trong khi Ta sống không phóng dật, nhiệt tâm, tinh cần.
 
+<!--p6-->
 Với tâm định tĩnh, thuần tịnh, không cấu nhiễm, không phiền não, nhu nhuyến, dễ sử dụng, vững chắc,
 bình thản như vậy, Ta dẫn tâm, hướng tâm đến sanh tử trí về chúng sanh. Ta với thiên nhãn thuần tịnh
 siêu nhân, thấy sự sống và sự chết của chúng sanh. Ta tuệ tri rằng, chúng sanh người hạ liệt, kẻ cao
@@ -231,6 +233,7 @@ mắn, kẻ bất hạnh, đều do hạnh nghiệp của họ.
 Này Bà-la-môn, trong đêm canh giữa, Ta chứng được minh thứ hai, vô minh diệt, minh sanh; bóng tối
 diệt, ánh sáng sanh, trong khi Ta sống không phóng dật, nhiệt tâm, tinh cần.
 
+<!--p7-->
 Với tâm định tĩnh, thuần tịnh, không cấu nhiễm, không phiền não, nhu nhuyến, dễ sử dụng, vững chắc,
 bình thản như vậy, Ta dẫn tâm, hướng tâm đến lậu tận trí. Ta thắng tri như thật: "Ðây là khổ", thắng tri
 như thật: "Ðây là nguyên nhân của khổ", thắng tri như thật: "Ðây là khổ diệt", thắng tri như thật: "Ðây là
@@ -245,6 +248,7 @@ minh lậu. Ðối với tự thân đã giải thoát như vậy, khởi lên t
 Này Bà-la-môn trong đêm canh ba, Ta chứng được minh thứ ba, vô minh diệt, minh sanh; bóng tối diệt,
 ánh sáng sanh, trong khi Ta sống không phóng dật nhiệt tâm tinh cần.
 
+<!--p8-->
 Này Bà-la-môn, Ông có thể có tư tưởng như sau: "Nay Sa-môn Gotama chưa diệt trừ tham, chưa diệt trừ
 sân, chưa diệt trừ si, nên sống tại các trú xứ xa vắng, trong rừng núi hoang vu". Này Bà-la-môn, chớ có
 hiểu như vậy. Do Ta quán sát hai mục đích mà Ta sống tại các trú xứ xa vắng, trong rừng núi hoang vu.
@@ -256,7 +260,6 @@ Tự thấy sự hiện tại lạc trú và vì lòng thương tưởng chúng 
 hướng, đem đèn sáng vào trong bóng tối để những ai có mắt có thể thấy sắc. Cũng vậy, Chánh pháp đã
 được Tôn giả Gotama dùng nhiều phương tiện trình bày giải thích. Con quy y Tôn giả Gotama, quy y
 Pháp và quy y Tỷ-kheo Tăng. Mong Tôn giả Gotama nhận con làm đệ tử; từ này trở đi cho đến mạng
-
 chung, con trọn đời quy ngưỡng.
 
 **-ooOoo-**

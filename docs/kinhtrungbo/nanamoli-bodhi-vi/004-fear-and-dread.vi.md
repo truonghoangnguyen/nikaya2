@@ -51,6 +51,7 @@ nơi ở ẩn sâu trong rừng rậm như một trong những bậc thánh nhâ
 với hành vi thân thể được thanh tịnh.' Thấy được sự thanh tịnh này nơi
 hành vi thân thể của mình, ta tìm thấy sự an ủi lớn khi sống trong rừng.
 
+<!--p2-->
 5–7. "Ta đã suy nghĩ như thế này: 'Bất cứ khi nào những tu sĩ hay bà-la-môn
 không thanh tịnh trong hành vi lời nói… không thanh tịnh trong hành vi tâm ý…
 không thanh tịnh trong sinh kế lui về những nơi ở
@@ -62,7 +63,6 @@ Ta thanh tịnh trong sinh kế. Ta lui về những nơi
 với sinh kế được thanh tịnh.' Thấy được sự thanh tịnh này nơi sinh kế của
 mình, ta tìm thấy sự an ủi lớn khi sống trong rừng.
 
-<!--p2-->
 8\. "Ta đã suy nghĩ như thế này: 'Bất cứ khi nào những tu sĩ hay bà-la-môn
 tham lam và đầy dục vọng… Ta không tham lam… '" [18]
 
@@ -109,7 +109,8 @@ như một trong những bậc thánh nhân có trí tuệ.'
 Thấy được sự sở hữu trí tuệ này nơi mình, ta tìm thấy
 sự an ủi lớn khi sống trong rừng.
 
-20\. "Ta đã suy nghĩ như thế này: 'Có những đêm đặc biệt tốt lành
+<!--p3-->
+20\. "Ta đã suy nghĩ như thế này: 'Có những đêm đặc biệt có điềm lành
 như ngày mười bốn, mười lăm, và ngày mồng tám của tuần trăng.59 Vậy thì sao,
 vào những đêm như thế này, ta lại không ở
 trong những nơi đáng sợ, kinh hoàng như miếu thờ
@@ -150,6 +151,7 @@ và hạnh phúc của nhiều người, vì lòng từ bi đối với thế gi
 lợi ích, an lạc và hạnh phúc của chư thiên và loài người,' thì chính
 là ta, nói một cách đúng đắn, điều này nên được nói.
 
+<!--p4-->
 22\. "Tinh tấn không mệt mỏi được khơi dậy trong ta và chánh niệm không gián đoạn
 được thiết lập, thân thể ta tĩnh lặng và
 không xao động, tâm ta định tĩnh và nhất tâm.61
@@ -176,6 +178,7 @@ sự biến mất trước đó của hỷ và ưu, ta chứng nhập
 và an trú vào tứ thiền, trạng thái này không có khổ-không-có
 lạc và thanh tịnh của chánh niệm do xả.
 
+<!--p5-->
 27\. "Khi tâm định tĩnh của ta được thanh tịnh như vậy, trong sáng,
 không tì vết, thoát khỏi khiếm khuyết, dễ uốn nắn, dễ sử dụng, vững vàng,
 và đạt đến trạng thái bất động, ta hướng nó đến trí tuệ về
@@ -205,6 +208,7 @@ canh đầu của đêm. Vô minh bị xua tan và trí tuệ chân thật
 phát sinh, bóng tối bị xua tan và ánh sáng phát sinh, như
 xảy ra với một người an trú tinh cần, nhiệt tâm, và kiên định.
 
+<!--p6-->
 29\. "Khi tâm định tĩnh của ta được thanh tịnh như vậy, trong sáng,
 không tì vết, thoát khỏi khiếm khuyết, dễ uốn nắn, dễ sử dụng, vững vàng,
 và đạt đến trạng thái bất động, ta hướng nó đến trí tuệ về
@@ -216,12 +220,12 @@ hạ liệt và cao thượng, xinh đẹp và xấu xí, may mắn và bất h�
 Ta hiểu cách chúng sinh đi theo nghiệp của họ
 như sau:
 
-'Những chúng sinh đáng kính này, những người có hành vi xấu
+'Những người có hành vi xấu
 trong thân, lời nói, và ý, phỉ báng các bậc thánh nhân, sai lầm
 trong quan điểm của họ, tạo ra hiệu ứng của quan điểm sai lầm trong hành động của họ,
 khi thân hoại mạng chung, sau khi chết, đã tái sinh vào
 một trạng thái thiếu thốn, vào một cảnh giới xấu, vào chốn đọa đầy, thậm chí vào địa ngục;
-nhưng những chúng sinh đáng kính này, những người có hành vi tốt trong
+nhưng những người có hành vi tốt trong
 thân, [23] lời nói, và ý, không phỉ báng các bậc thánh nhân, đúng đắn
 trong quan điểm của họ, tạo ra hiệu ứng của quan điểm đúng đắn trong hành động của họ,
 khi thân hoại mạng chung, sau khi chết, đã tái sinh vào
@@ -237,6 +241,7 @@ canh giữa của đêm. Vô minh bị xua tan và trí tuệ chân thật
 phát sinh, bóng tối bị xua tan và ánh sáng phát sinh, như
 xảy ra với một người an trú tinh cần, nhiệt tâm, và kiên định.
 
+<!--p7-->
 31\. "Khi tâm định tĩnh của ta được thanh tịnh như vậy, trong sáng,
 không tì vết, thoát khỏi khiếm khuyết, dễ uốn nắn, dễ sử dụng, vững vàng,
 và đạt đến trạng thái bất động, ta hướng nó đến trí tuệ về
@@ -252,9 +257,9 @@ nguyên nhân của các lậu hoặc'; ta trực tiếp biết như thật rằ
 sự chấm dứt các lậu hoặc'; ta trực tiếp biết như thật rằng: 'Đây là
 con đường dẫn đến sự chấm dứt các lậu hoặc.'65
 
-32\. "Khi ta biết và thấy như vậy, tâm ta giải thoát
-khỏi dục lậu, hữu lậu, và
-vô minh lậu. Khi tâm được giải thoát,
+32\. "Khi ta biết và thấy như vậy, tâm ta giải thoát khỏi ô nhiễm của dục vọng,
+khỏi ô nhiễm của hữu (sự tồn tại), và khỏi ô nhiễm của vô minh.
+Khi tâm được giải thoát,
 tri kiến khởi lên: 'Tâm đã giải thoát.'66 Ta trực tiếp biết: 'Sinh
 đã tận, phạm hạnh đã thành, những việc cần làm
 đã làm xong, không còn trở lại trạng thái này nữa.'67
@@ -264,6 +269,7 @@ canh cuối của đêm. Vô minh bị xua tan và trí tuệ chân thật
 phát sinh, bóng tối bị xua tan và ánh sáng phát sinh, như
 xảy ra với một người an trú tinh cần, nhiệt tâm, và kiên định.
 
+<!--p8-->
 34\. "Này Bà-la-môn, có thể là ngươi nghĩ: 'Có lẽ
 tu sĩ Gotama vẫn chưa thoát khỏi tham, sân, và si,
 đó là lý do tại sao ông ấy vẫn lui về những nơi ở ẩn sâu trong rừng
@@ -287,12 +293,28 @@ Tăng đoàn tỳ kheo. Từ hôm nay, xin Tôn giả Gotama
 hãy nhớ đến con như một người cư sĩ đã quy y Ngài
 trọn đời."
 
+<!--p9-->
 **Từ ngữ:**
+
+-   **Tầm - tứ / Vitakka-Vicāra/ "Applied thought"-"Sustained thought"**:
+    - Applied Thought (Tầm - Vitakka)
+    Ý nghĩa: "Applied thought" đề cập đến sự hướng tâm trí hoặc sự tập trung ban đầu vào một đối tượng thiền định. Nó là quá trình tâm chủ động "đặt" sự chú ý vào một điểm cụ thể, chẳng hạn như hơi thở, một câu niệm, hoặc một hình ảnh tưởng tượng (như trong thiền quán).
+
+        Ví dụ: Khi bạn bắt đầu thiền và cố gắng tập trung vào hơi thở, tâm trí bạn có thể dao động. "Tầm" là nỗ lực ban đầu để đưa tâm trở lại đối tượng thiền định, giống như một người cầm mũi tên và nhắm vào mục tiêu.
+
+        Vai trò trong sơ thiền: Ở giai đoạn này, tâm chưa hoàn toàn yên tĩnh hay tự nhiên tập trung mà cần một sự nỗ lực có ý thức để duy trì sự chú ý. Đây là đặc điểm nổi bật của sơ thiền, nơi tâm bắt đầu rời xa các phiền nhiễu bên ngoài nhưng vẫn cần "công cụ" này để ổn định.
+
+    - Sustained Thought (Tứ - Vicāra)
+    Ý nghĩa: "Sustained thought" là sự duy trì sự chú ý sau khi tâm đã được hướng đến đối tượng thiền định. Nó giống như việc giữ tâm ở lại với đối tượng đó, khám phá hoặc duy trì sự kết nối liên tục với nó mà không để tâm trôi đi.
+
+        Ví dụ: Sau khi bạn đã nhắm tâm vào hơi thở (tầm), "tứ" là trạng thái tâm tiếp tục "ở lại" với hơi thở, cảm nhận nó, theo dõi nó một cách liên tục mà không cần nỗ lực quá mức như ban đầu. Nó giống như việc giữ mũi tên trên mục tiêu sau khi đã nhắm bắn.
+
+        Vai trò trong sơ thiền: "Tứ" làm cho sự tập trung trở nên sâu sắc hơn, giúp tâm không chỉ dừng lại ở việc "nhắm" mà còn "thẩm thấu" vào đối tượng thiền định, tạo ra một dòng chảy ổn định của sự chú ý.
 
 -   **Bà-la-môn / Brahmin / Brahmin:** Một người thuộc đẳng cấp tu sĩ, học giả trong xã hội Ấn Độ cổ đại.
 -   **Định tâm / Samādhi / Concentration:** Trạng thái tập trung cao độ của tâm, không bị xao lãng bởi các yếu tố bên ngoài.
 -   **Bồ Tát / Bodhisatta / Bodhisatta:** Một chúng sinh đang trên con đường tu tập để đạt được giác ngộ hoàn toàn.
--  **Hành vi thân thể / Kāyikaṃ / bodily conduct** hành vi cử chỉ bằng thân thể
+-   **Hành vi thân thể / Kāyikaṃ / bodily conduct** hành vi cử chỉ bằng thân thể
 -   **Tu sĩ / samaṇa / recluse:** Người sống đời sống tu hành, thường là từ bỏ đời sống thế tục.
 -   **Thánh nhân / ariya / noble ones:** Những người đã đạt được các tầng thánh trên con đường tu tập Phật giáo.
 -   **Từ ái / mettā / loving-kindness:** Tình thương yêu rộng lớn, không phân biệt đối với tất cả chúng sinh.
@@ -305,6 +327,6 @@ trọn đời."
 -  **Thiên nhãn/ dibbacakkhu/ divine eye/** khả năng thấy được các cõi giới khác nhau và sự tái sinh của chúng sinh
 -   **Lậu hoặc / āsava / taints:** Các ô nhiễm, phiền não tiềm ẩn trong tâm, là nguyên nhân của khổ và luân hồi.
 -   **Dục lậu / kāmāsava / the taint of sensual desire:** Sự ô nhiễm, dính mắc vào các dục lạc.
--  ** hữu lậu / bhavāsava/ taint of being** ô nhiễm dính mắc vào các cõi
+-   **hữu lậu / bhavāsava/ taint of being** ô nhiễm dính mắc vào các cõi
 -   **Vô minh lậu / avijjāsava / the taint of ignorance:** Sự ô nhiễm do thiếu hiểu biết về sự thật.
 -  **Phạm hạnh/ brahmacariyaṃ / the holy life:** nếp sống của người tu tập.

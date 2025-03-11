@@ -1,46 +1,32 @@
----
-title: Kinh Trung Bộ - Majjhima Nikaya
----
+# Kinh Trung Bộ
 
-# Kinh Trung Bộ (Majjhima Nikaya)
+## Giới thiệu
+Kinh Trung Bộ (Majjhima Nikāya) là một trong năm bộ kinh trong Kinh Tạng Pali, bao gồm 152 bài kinh trung bình về độ dài. Trang này cung cấp các bản dịch khác nhau của Kinh Trung Bộ để bạn đọc có thể so sánh và nghiên cứu.
 
-Kinh Trung Bộ, hay Majjhima Nikaya trong tiếng Pali, là bộ sưu tập các bài kinh có độ dài trung bình của Đức Phật. Bộ kinh này gồm 152 bài kinh, được chia thành ba phần (50 kinh đầu, 50 kinh giữa, và 52 kinh cuối).
+## Các bản dịch
 
-## Các Bản Dịch
+### Bản dịch của Thích Minh Châu (Tiếng Việt)
+- [Toàn bộ Kinh Trung Bộ](/kinhtrungbo/thichminhchau)
+- Dịch trực tiếp từ tiếng Pali
 
-<div class="translation-grid">
-  <div class="translation-card">
-    <div class="translation-title">Bản Gốc Tiếng Anh</div>
-    <div class="translation-author">Bhikkhu Nanamoli & Bhikkhu Bodhi</div>
-    <p>Bản dịch tiếng Anh từ nguyên bản Pali bởi Bhikkhu Nanamoli và Bhikkhu Bodhi.</p>
-    <a href="/kinhtrungbo/nanamoli-bodhi/">Xem Bản Dịch</a>
-  </div>
+### Bản dịch của Nanamoli-Bodhi (Tiếng Anh/Việt)
+- [Toàn bộ Kinh Trung Bộ (Tiếng Anh)](/kinhtrungbo/nanamoli-bodhi)
+- [Toàn bộ Kinh Trung Bộ (Tiếng Việt AI dịch)](/kinhtrungbo/nanamoli-bodhi-vi)
 
-  <div class="translation-card">
-    <div class="translation-title">Bản Dịch Tiếng Việt</div>
-    <div class="translation-author">Dịch từ bản Nanamoli-Bodhi</div>
-    <p>Bản dịch tiếng Việt từ bản tiếng Anh của Bhikkhu Nanamoli và Bhikkhu Bodhi.</p>
-    <a href="/kinhtrungbo/nanamoli-bodhi-vi/">Xem Bản Dịch</a>
-  </div>
 
-  <div class="translation-card">
-    <div class="translation-title">Bản Dịch Tiếng Việt</div>
-    <div class="translation-author">Hòa Thượng Thích Minh Châu</div>
-    <p>Bản dịch tiếng Việt trực tiếp từ nguyên bản Pali bởi Hòa Thượng Thích Minh Châu.</p>
-    <a href="/kinhtrungbo/thichminhchau/">Xem Bản Dịch</a>
-  </div>
-</div>
+### Bản dịch của Hormer (Tiếng Anh/Việt)
+- [Toàn bộ Kinh Trung Bộ (Tiếng Anh)](/kinhtrungbo/hormer)
+- [Toàn bộ Kinh Trung Bộ (Tiếng Việt AI dịch)](/kinhtrungbo/hormer-vi)
 
-## So Sánh Các Bản Dịch
+## So sánh các bản dịch
+Bạn có thể so sánh các bản dịch khác nhau của từng bài kinh:
+- [So sánh Thích Minh Châu và Nanamoli-Bodhi (Việt)](/kinhtrungbo/c-nm-tmc-vi)
+- [So sánh Thích Minh Châu và Hormer (Việt)](/kinhtrungbo/c-tmc-hormer-vi)
+- [So sánh Thích Minh Châu và Hormer (Tiếng Anh)](/kinhtrungbo/c-tmc-hormer)
 
-Để so sánh các bản dịch tiếng Việt khác nhau, hãy truy cập [trang so sánh](/kinhtrungbo/c-nm-tmc/).
+## Hướng dẫn sử dụng
+1. Chọn bản dịch bạn muốn đọc từ danh sách trên
+2. Để so sánh các bản dịch, nhấp vào liên kết so sánh
+3. Ghi chú và bình luận có sẵn ở cuối mỗi bài kinh
 
-## Danh Sách Các Bài Kinh
-
-1. Mūlapariyāya Sutta - Kinh Pháp Môn Căn Bản
-2. Sabbāsava Sutta - Kinh Tất Cả Các Lậu Hoặc
-3. Dhammadāyāda Sutta - Kinh Thừa Tự Pháp
-4. Bhayabherava Sutta - Kinh Sợ Hãi và Khiếp Đảm
-5. Anaṅgaṇa Sutta - Kinh Không Uế Nhiễm
-
-*Và nhiều bài kinh khác...*
+Chúc bạn có những giờ phút nghiên cứu và thực hành giáo pháp an lạc!

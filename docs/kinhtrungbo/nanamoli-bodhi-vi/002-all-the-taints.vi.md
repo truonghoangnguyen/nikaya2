@@ -1,18 +1,19 @@
 # 2. Mọi Loại Phiền Não (All the Taints)
 
-1. NHƯ VẬY TÔI NGHE. Một thời Thế Tôn
+1\. NHƯ VẬY TÔI NGHE. Một thời Thế Tôn
 trú ở Sāvatthī, tại khu rừng Jeta, vườn của ông
 Anāthapiṇḍika (Cấp Cô Độc). Ở đó, Ngài gọi các tỳ kheo: "Này các tỳ kheo." —
 "Bạch Thế Tôn," các vị ấy đáp. Thế Tôn nói điều này:
 
-2. "Này các tỳ kheo, Ta sẽ giảng cho các ông một bài pháp về
+2\. "Này các tỳ kheo, Ta sẽ giảng cho các ông một bài pháp về
 sự chế ngự tất cả các loại phiền não.32 [7] Hãy lắng nghe và chú tâm
 vào những gì Ta sẽ nói." — "Vâng, bạch Thế Tôn," các tỳ kheo đáp.
 Thế Tôn nói điều này:
 
+<!--p1-->
 (TÓM TẮT)
 
-3. "Này các tỳ kheo, Ta nói rằng sự diệt trừ các phiền não là dành cho
+3\. "Này các tỳ kheo, Ta nói rằng sự diệt trừ các phiền não là dành cho
 người biết và thấy, không phải cho người không biết và không
 thấy. Biết và thấy điều gì? Chú tâm đúng đắn (wise attention) và
 chú tâm không đúng đắn (unwise attention).33 Khi một người chú tâm không đúng đắn,
@@ -21,7 +22,7 @@ và các phiền não đã sinh khởi sẽ gia tăng. Khi một người chú t
 các phiền não chưa sinh khởi sẽ không sinh khởi
 và các phiền não đã sinh khởi sẽ được từ bỏ.
 
-4. "Này các tỳ kheo, có những phiền não cần được từ bỏ
+4\. "Này các tỳ kheo, có những phiền não cần được từ bỏ
 bằng cách thấy (seeing). Có những phiền não cần được từ bỏ bằng
 cách chế ngự (restraining). Có những phiền não cần được từ bỏ bằng
 cách sử dụng (using). Có những phiền não cần được từ bỏ bằng
@@ -30,9 +31,10 @@ Có những phiền não cần được từ bỏ bằng cách tránh né (avoid
 Có những phiền não cần được từ bỏ bằng cách loại trừ (removing). Có
 những phiền não cần được từ bỏ bằng cách phát triển (developing).34
 
+<!--p2-->
 (NHỮNG PHIỀN NÃO CẦN ĐƯỢC TỪ BỎ BẰNG CÁCH THẤY)
 
-5. "Những phiền não nào, này các tỳ kheo, cần được từ bỏ bằng
+5\. "Những phiền não nào, này các tỳ kheo, cần được từ bỏ bằng
 cách thấy?35 Ở đây, này các tỳ kheo, một người phàm phu không được
 giáo huấn,
 người không kính trọng các bậc Thánh và không thuần thục
@@ -43,7 +45,7 @@ gì không thích hợp để chú tâm. Vì như vậy, người ấy chú tâm
 những điều không thích hợp để chú tâm và không chú tâm đến những
 điều thích hợp để chú tâm.36
 
-6. "Những điều không thích hợp để chú tâm mà người ấy chú
+6\. "Những điều không thích hợp để chú tâm mà người ấy chú
 tâm đến là gì? Đó là những điều mà khi người ấy chú tâm đến,
 phiền não tham dục (taint of sensual desire) chưa sinh khởi sẽ sinh khởi
 và
@@ -69,7 +71,7 @@ chú tâm đến. [8]
 chú tâm đến những điều thích hợp để chú tâm, cả hai loại phiền não chưa sinh khởi
 sẽ sinh khởi và phiền não đã sinh khởi sẽ gia tăng.
 
-7. "Đây là cách người ấy chú tâm không đúng đắn: 'Ta đã tồn tại
+7\. "Đây là cách người ấy chú tâm không đúng đắn: 'Ta đã tồn tại
 trong quá khứ không? Ta đã không tồn tại trong quá khứ không?
 Ta là gì trong quá khứ? Ta như thế nào trong quá khứ?
 Đã từng là gì, ta đã trở thành gì trong quá khứ?
@@ -82,7 +84,7 @@ Ta không tồn tại không? Ta là gì? Ta như thế nào?
 Chúng sinh này đến từ đâu? Nó sẽ đi về
 đâu?'38
 
-8. "Khi người ấy chú tâm không đúng đắn như vậy, một trong sáu
+8\. "Khi người ấy chú tâm không đúng đắn như vậy, một trong sáu
 tà kiến (views) sẽ sinh khởi.39 Tà kiến 'có một tự ngã (self) tồn tại
 cho ta' sinh khởi như là thật và chắc chắn;
 
@@ -107,7 +109,7 @@ tà kiến, người phàm phu không được giáo huấn không được gi�
 già, và chết, khỏi sầu, bi, khổ, ưu, não;
 người ấy không được giải thoát khỏi khổ đau, Ta nói vậy.
 
-9. "Này các tỳ kheo, một vị Thánh đệ tử (noble disciple) được giáo huấn
+9\. "Này các tỳ kheo, một vị Thánh đệ tử (noble disciple) được giáo huấn
 kỹ càng, người kính trọng các bậc Thánh và thuần thục
 và được rèn luyện trong Pháp của các ngài, người kính trọng
 các bậc chân nhân và thuần thục và được rèn luyện trong
@@ -116,7 +118,7 @@ và những gì không thích hợp để chú tâm. Vì như vậy, [9]
 người ấy không chú tâm đến những điều không thích hợp để chú tâm
 và chú tâm đến những điều thích hợp để chú tâm.
 
-10. "Những điều không thích hợp để chú tâm mà người ấy không
+10\. "Những điều không thích hợp để chú tâm mà người ấy không
 chú tâm đến là gì? Đó là những điều mà khi người ấy chú tâm
 đến, phiền não tham dục chưa sinh khởi sẽ sinh khởi… (như
 §6)… và phiền não vô minh đã sinh khởi sẽ gia tăng. Đây là
@@ -131,18 +133,19 @@ phiền não tham dục chưa sinh khởi sẽ không sinh khởi…
 chú tâm đến những điều thích hợp để chú tâm, các phiền não chưa sinh khởi sẽ không
 sinh khởi và các phiền não đã sinh khởi sẽ được từ bỏ.
 
-11. "Người ấy chú tâm đúng đắn: 'Đây là khổ (suffering)'; người ấy
+11\. "Người ấy chú tâm đúng đắn: 'Đây là khổ (suffering)'; người ấy
 chú tâm đúng đắn: 'Đây là nguyên nhân của khổ'; người ấy chú
 tâm đúng đắn: 'Đây là sự chấm dứt khổ'; người ấy chú tâm
 đúng đắn: 'Đây là con đường dẫn đến sự chấm dứt khổ.'41 Khi
 người ấy chú tâm đúng đắn như vậy, ba xiềng xích (fetters) được
 từ bỏ: thân kiến (personality view), nghi (doubt), và
-giới cấm thủ (adherence to rules and observances). Những
+giới cấm thủ (adherence to rules and observances-sự tuân thủ các quy tắc và việc thực hiện các nghi lễ hoặc phong tục). Những
 phiền não này được gọi là những phiền não cần được từ bỏ bằng cách thấy.42
 
+<!--p3-->
 (NHỮNG PHIỀN NÃO CẦN ĐƯỢC TỪ BỎ BẰNG CÁCH CHẾ NGỰ)
 
-12. "Những phiền não nào, này các tỳ kheo, cần được từ bỏ bằng
+12\. "Những phiền não nào, này các tỳ kheo, cần được từ bỏ bằng
 cách chế ngự?43 Ở đây, một tỳ kheo, suy xét đúng đắn, sống
 với nhãn căn (eye faculty) được chế ngự. Trong khi các phiền não,
 sự khó chịu, và sự nóng nảy có thể sinh khởi ở người sống
@@ -156,23 +159,23 @@ căn (tongue faculty) được chế ngự… với thân căn (body faculty) đ
 chế ngự… với ý căn (mind faculty) được chế ngự… Trong khi
 các phiền não, sự khó chịu, và sự nóng nảy có thể sinh khởi ở người sống
 với các căn không được chế ngự,
-
 [10] thì không có phiền não, sự khó chịu, hoặc sự nóng nảy nào ở người
 sống với các căn được chế ngự.
 
 Những phiền não này được gọi là những phiền não cần được từ bỏ bằng
 cách chế ngự.
 
+<!--p4-->
 (NHỮNG PHIỀN NÃO CẦN ĐƯỢC TỪ BỎ BẰNG CÁCH SỬ DỤNG)
 
-13. "Những phiền não nào, này các tỳ kheo, cần được từ bỏ bằng
+13\. "Những phiền não nào, này các tỳ kheo, cần được từ bỏ bằng
 cách sử dụng?45 Ở đây, một tỳ kheo, suy xét đúng đắn, sử dụng y phục (robe) chỉ
 để bảo vệ khỏi lạnh, để bảo vệ khỏi nóng, để bảo vệ
 khỏi sự tiếp xúc với ruồi muỗi, gió, mặt trời, và
 các loài bò sát, và chỉ để che giấu các bộ phận
 riêng tư.
 
-14. "Suy xét đúng đắn, vị ấy sử dụng vật thực (almsfood) không phải
+14\. "Suy xét đúng đắn, vị ấy sử dụng vật thực (almsfood) không phải
 để vui đùa, không phải để say sưa, không phải để làm đẹp
 thân thể, mà chỉ để duy trì và
 tiếp tục thân thể này, để chấm dứt sự khó chịu, và để
@@ -180,25 +183,26 @@ hỗ trợ đời sống phạm hạnh (holy life), suy xét rằng: 'Như vậy
 các cảm giác cũ mà không làm phát sinh các cảm giác mới và ta sẽ
 khỏe mạnh, không có lỗi lầm và sẽ sống thoải mái.'
 
-15. "Suy xét đúng đắn, vị ấy sử dụng chỗ ở (resting place) chỉ
+15\. "Suy xét đúng đắn, vị ấy sử dụng chỗ ở (resting place) chỉ
 để bảo vệ khỏi lạnh, để bảo vệ khỏi nóng, để bảo vệ
 khỏi sự tiếp xúc với ruồi muỗi, gió, mặt trời, và
 các loài bò sát, và chỉ để tránh các
 nguy hiểm của thời tiết và để an trú thiền định.
 
-16. "Suy xét đúng đắn, vị ấy sử dụng dược phẩm (medicinal requisites)
+16\. "Suy xét đúng đắn, vị ấy sử dụng dược phẩm (medicinal requisites)
 chỉ để bảo vệ khỏi các cảm giác bệnh tật phát sinh và
 để có sức khỏe tốt.
 
-17. "Trong khi các phiền não, sự khó chịu, và sự nóng nảy có thể
+17\. "Trong khi các phiền não, sự khó chịu, và sự nóng nảy có thể
 sinh khởi ở người không sử dụng các vật dụng như vậy, thì không có
 phiền não, sự khó chịu, hoặc sự nóng nảy nào ở người sử dụng chúng
 như vậy. Những phiền não này được gọi là những phiền não cần được
 từ bỏ bằng cách sử dụng.
 
+<!--p5-->
 (NHỮNG PHIỀN NÃO CẦN ĐƯỢC TỪ BỎ BẰNG CÁCH CHỊU ĐỰNG)
 
-18. "Những phiền não nào, này các tỳ kheo, cần được từ bỏ bằng
+18\. "Những phiền não nào, này các tỳ kheo, cần được từ bỏ bằng
 cách chịu đựng? Ở đây, một tỳ kheo, suy xét đúng đắn, chịu đựng
 lạnh và nóng, đói và khát, và sự tiếp xúc với ruồi muỗi,
 gió, mặt trời, và các loài bò sát; vị ấy chịu đựng những lời nói
@@ -212,13 +216,13 @@ phiền não, sự khó chịu, hoặc sự nóng nảy nào ở người chịu
 chúng. Những phiền não này được gọi là những phiền não cần được
 từ bỏ bằng cách chịu đựng.
 
+<!--p6-->
 (NHỮNG PHIỀN NÃO CẦN ĐƯỢC TỪ BỎ BẰNG CÁCH TRÁNH NÉ)
 
-19. "Những phiền não nào, này các tỳ kheo, cần được từ bỏ bằng
+19\. "Những phiền não nào, này các tỳ kheo, cần được từ bỏ bằng
 cách tránh né? Ở đây, một tỳ kheo, suy xét đúng đắn, tránh né
 voi dữ, ngựa dữ, bò dữ, chó dữ, rắn,
 gốc cây,
-
 [11] bụi gai, vực sâu, vách đá, hố phân,
 cống rãnh.
 
@@ -233,9 +237,10 @@ phiền não, sự khó chịu, hoặc sự nóng nảy nào ở người tránh
 chúng. Những phiền não này được gọi là những phiền não cần được
 từ bỏ bằng cách tránh né.
 
+<!--p7-->
 (NHỮNG PHIỀN NÃO CẦN ĐƯỢC TỪ BỎ BẰNG CÁCH LOẠI TRỪ)
 
-20. "Những phiền não nào, này các tỳ kheo, cần được từ bỏ bằng
+20\. "Những phiền não nào, này các tỳ kheo, cần được từ bỏ bằng
 cách loại trừ? Ở đây, một tỳ kheo, suy xét đúng đắn, không dung
 thứ một niệm (thought) tham dục đã sinh khởi; vị ấy từ bỏ nó,
 loại trừ nó, diệt trừ nó, và làm cho nó biến mất. Vị ấy không dung
@@ -251,9 +256,10 @@ phiền não, sự khó chịu, hoặc sự nóng nảy nào ở người loại
 chúng. Những phiền não này được gọi là những phiền não cần được
 từ bỏ bằng cách loại trừ.
 
+<!--p8-->
 (NHỮNG PHIỀN NÃO CẦN ĐƯỢC TỪ BỎ BẰNG CÁCH PHÁT TRIỂN)
 
-21. "Những phiền não nào, này các tỳ kheo, cần được từ bỏ bằng
+21\. "Những phiền não nào, này các tỳ kheo, cần được từ bỏ bằng
 cách phát triển? Ở đây, một tỳ kheo, suy xét đúng đắn, phát
 triển niệm giác chi (mindfulness enlightenment factor), được hỗ trợ
 bởi viễn ly (seclusion), ly tham (dispassion), và đoạn diệt (cessation),
@@ -272,9 +278,10 @@ phiền não, sự khó chịu, hoặc sự nóng nảy nào ở người phát 
 chúng. Những phiền não này được gọi là những phiền não cần được
 từ bỏ bằng cách phát triển.49
 
+<!--p9-->
 (KẾT LUẬN)
 
-22. "Này các tỳ kheo, khi đối với một tỳ kheo, các phiền não cần
+22\. "Này các tỳ kheo, khi đối với một tỳ kheo, các phiền não cần
 được từ bỏ bằng cách thấy đã được từ bỏ bằng cách thấy,
 khi các phiền não cần được từ bỏ bằng cách chế ngự đã
 được từ bỏ bằng cách chế ngự, khi các phiền não cần
@@ -298,7 +305,7 @@ và hài lòng với lời của Thế Tôn.
 
 ---
 <!--
-1.  MN 7, MN 16, MN 19, MN 20, MN 27, MN 36, MN 39, MN 63, MN 72, MN 101,
+1\.  MN 7, MN 16, MN 19, MN 20, MN 27, MN 36, MN 39, MN 63, MN 72, MN 101,
     MN 105, MN 118, MN 121, MN 122, AN 4:41, AN 4:45, AN 5:16, AN 5:23,
     AN 5:176, AN 6:20, AN 6:58, AN 6:63, AN 8:12, AN 10:51, AN 10:81,
     SN 12:23, SN 12:25, SN 12:31, SN 12:65, SN 12:68, SN 14:12, SN 15:9,
@@ -312,7 +319,7 @@ và hài lòng với lời của Thế Tôn.
     Thag 2:42, Thag 2:48, Thag 2:348, Thag 3:2, Thag 5:8, Thag 6:1, Thag 6:6,
     Thag 8:1, Thag 16:9, Thag 17:3, Thag 18:1, Thag 21:1, Thig 1:18, Thig 5:8,
     Thig 13:2, Thig 14:1.
-2.  MN 9, MN 11, MN 15, MN 38, MN 44, MN 64, MN 109, MN 117, MN 137,
+2\.  MN 9, MN 11, MN 15, MN 38, MN 44, MN 64, MN 109, MN 117, MN 137,
     MN 138, AN 3:61, AN 3:68, AN 4:24, AN 4:173, AN 5:28, AN 5:113, AN 7:6,
     AN 7:11, AN 7:46, AN 7:58, AN 8:30, AN 8:53, AN 8:54, AN 8:70, AN 8:86,
     AN 9:34, AN 10:2, AN 10:24, AN 10:29, AN 10:96, SN 12:15, SN 12:17,

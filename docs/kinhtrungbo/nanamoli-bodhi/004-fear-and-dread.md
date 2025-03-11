@@ -51,6 +51,7 @@ thicket resting places in the forest as one of the noble ones
 with bodily conduct purified.’ Seeing in myself this purity of
 bodily conduct, I found great solace in dwelling in the forest.
 
+<!--p2-->
 5–7. “I considered thus: ‘Whenever recluses or brahmins
 unpurified in verbal conduct… unpurified in mental conduct…
 unpurified in livelihood resort to remote jungle-thicket resting
@@ -62,7 +63,6 @@ resting places in the forest as one of the noble ones with
 livelihood purified.’ Seeing in myself this purity of livelihood, I
 found great solace in dwelling in the forest.
 
-<!--p2-->
 8. “I considered thus: ‘Whenever recluses or brahmins
 who are covetous and full of lust… I am uncovetous… ’ [18]
 
@@ -109,6 +109,7 @@ the forest as one of the noble ones possessed of wisdom.’
 Seeing in myself this possession of wisdom, I found great
 solace in dwelling in the forest.
 
+<!--p3-->
 20. “I considered thus: ‘There are the specially auspicious
 nights of the fourteenth, the fifteenth, and the eighth of the
 fortnight.59 Now what if, on such nights as these, I were to
@@ -150,6 +151,7 @@ and happiness of many, out of compassion for the world, for
 the good, welfare, and happiness of gods and humans,’ it is of
 me indeed that rightly speaking this should be said.
 
+<!--p4-->
 22. “Tireless energy was aroused in me and unremitting
 mindfulness was established, my body was tranquil and
 untroubled, my mind concentrated and unified.61
@@ -175,6 +177,7 @@ abiding who has equanimity and is mindful.’
 the previous disappearance of joy and grief, I entered upon
 and abided in the fourth jhāna, which has neither-pain-norpleasure and purity of mindfulness due to equanimity.
 
+<!--p5-->
 27. “When my concentrated mind was thus purified, bright,
 unblemished, rid of imperfection, malleable, wieldy, steady,
 and attained to imperturbability, I directed it to knowledge of
@@ -203,6 +206,7 @@ the first watch of the night. Ignorance was banished and true
 knowledge arose, darkness was banished and light arose, as
 happens in one who abides diligent, ardent, and resolute.
 
+<!--p6-->
 29. “When my concentrated mind was thus purified, bright,
 unblemished, rid of imperfection, malleable, wieldy, steady,
 and attained to imperturbability, I directed it to knowledge of
@@ -236,6 +240,7 @@ in the middle watch of the night. Ignorance was banished and
 true knowledge arose, darkness was banished and light arose,
 as happens in one who abides diligent, ardent, and resolute.
 
+<!--p7-->
 31. “When my concentrated mind was thus purified, bright,
 unblemished, rid of imperfection, malleable, wieldy, steady,
 and attained to imperturbability, I directed it to knowledge of
@@ -264,6 +269,7 @@ the last watch of the night. Ignorance was banished and true
 knowledge arose, darkness was banished and light arose, as
 happens in one who abides diligent, ardent, and resolute.
 
+<!--p8-->
 34. “Now, brahmin, it might be that you think: ‘Perhaps the
 recluse Gotama is not free from lust, hate, and delusion even
 today, which is why he still resorts to remote jungle-thicket

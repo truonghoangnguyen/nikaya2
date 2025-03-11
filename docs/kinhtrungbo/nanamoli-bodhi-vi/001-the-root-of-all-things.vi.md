@@ -6,84 +6,78 @@ dưới gốc cây sāla vương. Ở đó, Ngài gọi các tỳ kheo:
 "Này các tỳ kheo."[2] — "Bạch Thế Tôn," các vị ấy đáp. Thế
 Tôn nói như sau:
 
-2. "Này các tỳ kheo, Ta sẽ giảng cho các ông một bài pháp về gốc rễ của
+2\. "Này các tỳ kheo, Ta sẽ giảng cho các ông một bài pháp về gốc rễ của
 mọi sự vật.[3] Hãy lắng nghe và chú tâm đến những gì Ta sẽ nói." —
 "Vâng, bạch Thế Tôn," các tỳ kheo đáp. Thế Tôn
 nói như sau:
 
+<!--p1-->
 **(NGƯỜI PHÀM PHU)**
 
-3. "Ở đây, này các tỳ kheo, một người phàm phu ít nghe,[4]
+3\. "Ở đây, này các tỳ kheo, một người phàm phu ít nghe,[4]
 không kính trọng các bậc Thánh và không thông thạo,
 không tu tập theo Pháp của các bậc Thánh, không kính trọng
 các bậc chân nhân và không thông thạo, không tu tập theo
 Pháp của các bậc chân nhân, nhận thức đất là đất.[5]
 Khi đã nhận thức đất là đất, người ấy tưởng [mình là] đất, tưởng
-
 [mình] ở trong đất, tưởng [mình] tách rời khỏi đất,
 tưởng đất là 'của ta', người ấy thích thú với đất.[6] Tại
 sao vậy? Vì người ấy chưa hiểu rõ hoàn toàn điều đó, Ta nói.[7]
 
-4. "Người ấy nhận thức nước là nước. Khi đã nhận thức nước
+4\. "Người ấy nhận thức nước là nước. Khi đã nhận thức nước
 là nước, người ấy tưởng [mình là] nước, tưởng
-
 [mình] ở trong nước, tưởng [mình] tách rời khỏi nước,
 tưởng nước là 'của ta', người ấy thích thú với nước. Tại sao
 vậy? Vì người ấy chưa hiểu rõ hoàn toàn điều đó, Ta nói.
 
-5. "Người ấy nhận thức lửa là lửa. Khi đã nhận thức lửa là lửa,
+5\. "Người ấy nhận thức lửa là lửa. Khi đã nhận thức lửa là lửa,
 người ấy tưởng [mình là] lửa, tưởng [mình] ở trong lửa,
 tưởng [mình] tách rời khỏi lửa, tưởng lửa là 'của ta',
 người ấy thích thú với lửa. Tại sao vậy? Vì người ấy chưa hiểu
 rõ hoàn toàn điều đó, Ta nói.
 
-6. "Người ấy nhận thức gió là gió. Khi đã nhận thức gió là gió,
+6\. "Người ấy nhận thức gió là gió. Khi đã nhận thức gió là gió,
 người ấy tưởng [mình là] gió, tưởng [mình] ở trong gió,
 tưởng [mình] tách rời khỏi gió, tưởng gió là 'của ta',
 người ấy thích thú với gió. Tại sao vậy? Vì người ấy chưa hiểu
 rõ hoàn toàn điều đó, Ta nói. [2]
 
-7. "Người ấy nhận thức chúng sinh là chúng sinh.[8] Khi đã nhận thức
+7\. "Người ấy nhận thức chúng sinh là chúng sinh.[8] Khi đã nhận thức
 chúng sinh là chúng sinh, người ấy tưởng chúng sinh, tưởng
-
 [mình] ở trong chúng sinh, tưởng [mình] tách rời khỏi chúng sinh,
 tưởng chúng sinh là 'của ta', người ấy thích thú với chúng sinh. Tại
 sao vậy? Vì người ấy chưa hiểu rõ hoàn toàn điều đó, Ta nói.
 
-8. "Người ấy nhận thức chư thiên là chư thiên.[9] Khi đã nhận thức
+8\. "Người ấy nhận thức chư thiên là chư thiên.[9] Khi đã nhận thức
 chư thiên là chư thiên, người ấy tưởng chư thiên, tưởng [mình] ở trong chư thiên,
 tưởng [mình] tách rời khỏi chư thiên, tưởng chư thiên là
 'của ta', người ấy thích thú với chư thiên. Tại sao vậy? Vì người
 ấy chưa hiểu rõ hoàn toàn điều đó, Ta nói.
 
-9. "Người ấy nhận thức Pajāpati là Pajāpati.[10] Khi đã nhận thức
+9\. "Người ấy nhận thức Pajāpati là Pajāpati.[10] Khi đã nhận thức
 Pajāpati là Pajāpati, người ấy tưởng Pajāpati, tưởng
-
 [mình] ở trong Pajāpati, tưởng [mình] tách rời khỏi
 Pajāpati, tưởng Pajāpati là 'của ta', người ấy thích thú với
 Pajāpati. Tại sao vậy? Vì người ấy chưa hiểu rõ hoàn toàn điều
 đó, Ta nói.
 
-10. "Người ấy nhận thức Brahmā là Brahmā.[11] Khi đã nhận thức
+10\. "Người ấy nhận thức Brahmā là Brahmā.[11] Khi đã nhận thức
 Brahmā là Brahmā, người ấy tưởng Brahmā, tưởng
-
 [mình] ở trong Brahmā, tưởng [mình] tách rời khỏi Brahmā,
 tưởng Brahmā là 'của ta', người ấy thích thú với Brahmā.
 Tại sao vậy? Vì người ấy chưa hiểu rõ hoàn toàn điều đó, Ta nói.
 
-11. "Người ấy nhận thức chư thiên Quang Âm là
+11\. "Người ấy nhận thức chư thiên Quang Âm là
 chư thiên Quang Âm.[12] Khi đã nhận thức chư thiên
 Quang Âm là chư thiên Quang Âm,
 người ấy tưởng chư thiên Quang Âm, tưởng
-
 [mình] ở trong chư thiên Quang Âm, tưởng
-
 [mình] tách rời khỏi chư thiên Quang Âm, tưởng
 chư thiên Quang Âm là 'của ta', người
 ấy thích thú với chư thiên Quang Âm. Tại sao vậy?
 Vì người ấy chưa hiểu rõ hoàn toàn điều đó, Ta nói.
 
-12. "Người ấy nhận thức chư thiên Biến Tịnh là chư thiên
+12\. "Người ấy nhận thức chư thiên Biến Tịnh là chư thiên
 Biến Tịnh.[13] Khi đã nhận thức chư thiên Biến Tịnh
 là chư thiên Biến Tịnh, người ấy tưởng chư thiên
 Biến Tịnh, tưởng [mình] ở trong chư thiên
@@ -92,25 +86,23 @@ Biến Tịnh, tưởng chư thiên Biến Tịnh là
 'của ta', người ấy thích thú với chư thiên Biến Tịnh. Tại sao
 vậy? Vì người ấy chưa hiểu rõ hoàn toàn điều đó, Ta nói.
 
-13. "Người ấy nhận thức chư thiên Quảng Quả là chư thiên
+13\. "Người ấy nhận thức chư thiên Quảng Quả là chư thiên
 Quảng Quả.[14] Khi đã nhận thức chư thiên Quảng Quả là chư
 thiên Quảng Quả, người ấy tưởng chư thiên Quảng Quả,
 tưởng [mình] ở trong chư thiên Quảng Quả, tưởng
-
 [mình] tách rời khỏi chư thiên Quảng Quả, tưởng chư
 thiên Quảng Quả là 'của ta', người ấy thích thú với chư thiên
 Quảng Quả. Tại sao vậy? Vì người ấy chưa hiểu rõ hoàn toàn
 điều đó, Ta nói.
 
-14. "Người ấy nhận thức Đấng Tối Thượng là Đấng Tối Thượng.[15] Khi đã
+14\. "Người ấy nhận thức Đấng Tối Thượng là Đấng Tối Thượng.[15] Khi đã
 nhận thức Đấng Tối Thượng là Đấng Tối Thượng, người ấy tưởng
 Đấng Tối Thượng, tưởng [mình] ở trong Đấng Tối Thượng, tưởng
-
 [mình] tách rời khỏi Đấng Tối Thượng, tưởng Đấng Tối Thượng
 là 'của ta', người ấy thích thú với Đấng Tối Thượng. Tại sao
 vậy? Vì người ấy chưa hiểu rõ hoàn toàn điều đó, Ta nói.
 
-15. "Người ấy nhận thức Không Vô Biên Xứ là Không
+15\. "Người ấy nhận thức Không Vô Biên Xứ là Không
 Vô Biên Xứ.[16] Khi đã nhận thức Không Vô Biên Xứ là
 Không Vô Biên Xứ, người ấy tưởng [mình là] Không
 Vô Biên Xứ, tưởng [mình] ở trong Không Vô Biên
@@ -119,7 +111,7 @@ Xứ, tưởng Không Vô Biên Xứ là 'của ta', người
 ấy thích thú với Không Vô Biên Xứ. Tại sao vậy? Vì người
 ấy chưa hiểu rõ hoàn toàn điều đó, Ta nói.
 
-16. "Người ấy nhận thức Thức Vô Biên Xứ
+16\. "Người ấy nhận thức Thức Vô Biên Xứ
 là Thức Vô Biên Xứ. Khi đã nhận thức
 Thức Vô Biên Xứ là Thức Vô Biên
 Xứ, [3] người ấy tưởng [mình là] Thức Vô Biên
@@ -129,7 +121,7 @@ Xứ, tưởng Thức Vô Biên Xứ là 'của ta', người ấy thích
 thú với Thức Vô Biên Xứ. Tại sao vậy? Vì người ấy chưa hiểu
 rõ hoàn toàn điều đó, Ta nói.
 
-17. "Người ấy nhận thức Vô Sở Hữu Xứ là Vô
+17\. "Người ấy nhận thức Vô Sở Hữu Xứ là Vô
 Sở Hữu Xứ. Khi đã nhận thức Vô Sở Hữu
 Xứ là Vô Sở Hữu Xứ, người ấy tưởng [mình là] Vô
 Sở Hữu Xứ, tưởng [mình] ở trong Vô Sở Hữu
@@ -138,7 +130,7 @@ Xứ, tưởng Vô Sở Hữu Xứ là 'của ta',
 người ấy thích thú với Vô Sở Hữu Xứ. Tại sao vậy?
 Vì người ấy chưa hiểu rõ hoàn toàn điều đó, Ta nói.
 
-18. "Người ấy nhận thức Phi Tưởng Phi Phi Tưởng Xứ là Phi Tưởng
+18\. "Người ấy nhận thức Phi Tưởng Phi Phi Tưởng Xứ là Phi Tưởng
 Phi Phi Tưởng Xứ. Khi đã nhận thức Phi Tưởng
 Phi Phi Tưởng Xứ là Phi Tưởng Phi Phi Tưởng Xứ, người ấy tưởng [mình là]
 Phi Tưởng Phi Phi Tưởng Xứ, người
@@ -149,67 +141,65 @@ Xứ là 'của ta', người ấy
 thích thú với Phi Tưởng Phi Phi Tưởng Xứ.
 Tại sao vậy? Vì người ấy chưa hiểu rõ hoàn toàn điều đó, Ta nói.
 
-19. "Người ấy nhận thức cái thấy là cái thấy.[17] Khi đã nhận thức
+19\. "Người ấy nhận thức cái thấy là cái thấy.[17] Khi đã nhận thức
 cái thấy là cái thấy, người ấy tưởng [mình là] cái thấy, người
 ấy tưởng [mình] ở trong cái thấy, tưởng [mình] tách
 rời khỏi cái thấy, tưởng cái thấy là 'của ta', người ấy thích
 thú với cái thấy. Tại sao vậy? Vì người ấy chưa hiểu rõ hoàn
 toàn điều đó, Ta nói.
 
-20. "Người ấy nhận thức cái nghe là cái nghe. Khi đã
+20\. "Người ấy nhận thức cái nghe là cái nghe. Khi đã
 nhận thức cái nghe là cái nghe, người ấy tưởng [mình là]
 cái nghe, tưởng [mình] ở trong cái nghe, tưởng
-
 [mình] tách rời khỏi cái nghe, tưởng cái nghe là
 'của ta', người ấy thích thú với cái nghe. Tại sao vậy? Vì người
 ấy chưa hiểu rõ hoàn toàn điều đó, Ta nói.
 
-21. "Người ấy nhận thức cái cảm giác là cái cảm giác. Khi đã
+21\. "Người ấy nhận thức cái cảm giác là cái cảm giác. Khi đã
 nhận thức cái cảm giác là cái cảm giác, người ấy tưởng [mình
 là] cái cảm giác, tưởng [mình] ở trong cái cảm giác,
 tưởng [mình] tách rời khỏi cái cảm giác, tưởng cái
 cảm giác là 'của ta', người ấy thích thú với cái cảm giác. Tại
 sao vậy? Vì người ấy chưa hiểu rõ hoàn toàn điều đó, Ta nói.
 
-22. "Người ấy nhận thức cái nhận biết là cái nhận biết. Khi đã
+22\. "Người ấy nhận thức cái nhận biết là cái nhận biết. Khi đã
 nhận thức cái nhận biết là cái nhận biết, người ấy tưởng [mình
 là] cái nhận biết, tưởng [mình] ở trong cái nhận biết,
 tưởng [mình] tách rời khỏi cái nhận biết, tưởng
 cái nhận biết là 'của ta', người ấy thích thú với cái nhận biết. Tại
 sao vậy? Vì người ấy chưa hiểu rõ hoàn toàn điều đó, Ta nói.
 
-23. "Người ấy nhận thức đồng nhất là đồng nhất.[18] Khi đã nhận thức
+23\. "Người ấy nhận thức đồng nhất là đồng nhất.[18] Khi đã nhận thức
 đồng nhất là đồng nhất, người ấy tưởng [mình là] đồng nhất, tưởng
-
 [mình] ở trong đồng nhất, tưởng [mình] tách rời khỏi đồng nhất, tưởng
 đồng nhất là 'của ta', người ấy thích thú với đồng nhất. Tại sao
 vậy? Vì người ấy chưa hiểu rõ hoàn toàn điều đó, Ta nói.
 
-24. "Người ấy nhận thức khác biệt là khác biệt. Khi đã nhận thức
+24\. "Người ấy nhận thức khác biệt là khác biệt. Khi đã nhận thức
 khác biệt là khác biệt, người ấy tưởng [mình là] khác biệt,
 tưởng [mình] ở trong khác biệt, tưởng [mình] tách rời
 khỏi khác biệt, tưởng khác biệt là 'của ta', người ấy thích
 thú với khác biệt. Tại sao vậy? Vì người ấy chưa hiểu rõ hoàn
 toàn điều đó, Ta nói.
 
-25. "Người ấy nhận thức tất cả là tất cả.[19] Khi đã nhận thức tất cả là tất cả,
+25\. "Người ấy nhận thức tất cả là tất cả.[19] Khi đã nhận thức tất cả là tất cả,
 người ấy tưởng [mình là] tất cả, [4] tưởng [mình] ở trong tất cả,
 tưởng [mình] tách rời khỏi tất cả, tưởng tất cả là
 'của ta', người ấy thích thú với tất cả. Tại sao vậy? Vì người ấy
 chưa hiểu rõ hoàn toàn điều đó, Ta nói.
 
-26. "Người ấy nhận thức Niết Bàn là Niết Bàn.[20] Khi đã nhận thức
+26\. "Người ấy nhận thức Niết Bàn là Niết Bàn.[20] Khi đã nhận thức
 Niết Bàn là Niết Bàn, người ấy tưởng [mình là] Niết Bàn, người
 ấy tưởng [mình] ở trong Niết Bàn, tưởng [mình] tách
 rời khỏi Niết Bàn, tưởng Niết Bàn là 'của ta', người ấy thích
 thú với Niết Bàn. Tại sao vậy? Vì người ấy chưa hiểu rõ hoàn
 toàn điều đó, Ta nói.
 
+<!--p2-->
 **(VỊ ĐỆ TỬ ĐANG TU TẬP CAO HƠN)**
 
-27. "Này các tỳ kheo, một vị tỳ kheo đang tu tập cao hơn,[21] tâm
+27\. "Này các tỳ kheo, một vị tỳ kheo đang tu tập cao hơn,[21] tâm
 chưa đạt đến mục tiêu, và vẫn đang khát khao
-
 sự an ổn tối thượng khỏi các ràng buộc, trực tiếp biết đất là
 đất.[22] Khi đã trực tiếp biết đất là đất, vị ấy không nên
 tưởng [mình là] đất, không nên tưởng [mình]
@@ -221,16 +211,17 @@ nói.[23]
 28–49. "Vị ấy trực tiếp biết nước là nước... Vị ấy trực tiếp
 biết tất cả là tất cả...
 
-50. "Vị ấy trực tiếp biết Niết Bàn là Niết Bàn. Khi đã trực tiếp
+50\. "Vị ấy trực tiếp biết Niết Bàn là Niết Bàn. Khi đã trực tiếp
 biết Niết Bàn là Niết Bàn, vị ấy không nên tưởng [mình
 là] Niết Bàn, không nên tưởng [mình] ở trong Niết Bàn, không
 nên tưởng [mình] tách rời khỏi Niết Bàn, không nên tưởng
 Niết Bàn là 'của ta', không nên thích thú với Niết Bàn.
 Tại sao vậy? Vì vị ấy phải hiểu rõ hoàn toàn điều đó, Ta nói.
 
+<!--p3-->
 **(VỊ A-LA-HÁN — I)**
 
-51. "Này các tỳ kheo, một vị tỳ kheo là A-la-hán, các lậu hoặc
+51\. "Này các tỳ kheo, một vị tỳ kheo là A-la-hán, các lậu hoặc
 đã đoạn tận, đã sống đời sống thánh thiện, đã làm những gì cần
 làm, đã đặt gánh nặng xuống, đã đạt được mục tiêu của mình, đã phá hủy
 các kiết sử của hữu, và hoàn toàn giải thoát nhờ trí tuệ
@@ -247,7 +238,7 @@ toàn điều đó, Ta nói.
 
 **(VỊ A-LA-HÁN — II)**
 
-75. "Này các tỳ kheo, một vị tỳ kheo là A-la-hán... hoàn toàn
+75\. "Này các tỳ kheo, một vị tỳ kheo là A-la-hán... hoàn toàn
 giải thoát nhờ trí tuệ tối hậu, [5] vị ấy cũng trực tiếp biết
 đất là đất. Khi đã trực tiếp biết đất là đất, vị ấy không
 tưởng [mình là] đất, không tưởng [mình]
@@ -262,7 +253,7 @@ là Niết Bàn... Tại sao vậy? Vì vị ấy thoát khỏi tham
 
 **(VỊ A-LA-HÁN — III)**
 
-99. "Này các tỳ kheo, một vị tỳ kheo là A-la-hán... hoàn toàn
+99\. "Này các tỳ kheo, một vị tỳ kheo là A-la-hán... hoàn toàn
 giải thoát nhờ trí tuệ tối hậu, vị ấy cũng trực tiếp biết đất
 là đất. Khi đã trực tiếp biết đất là đất, vị ấy không
 tưởng [mình là] đất, không tưởng [mình]
@@ -277,7 +268,7 @@ sân hận nhờ sự đoạn tận sân hận.
 
 **(VỊ A-LA-HÁN — IV)**
 
-123. "Này các tỳ kheo, một vị tỳ kheo là A-la-hán... hoàn toàn
+123\. "Này các tỳ kheo, một vị tỳ kheo là A-la-hán... hoàn toàn
 giải thoát nhờ trí tuệ tối hậu, vị ấy cũng trực tiếp biết đất
 là đất. Khi đã trực tiếp biết đất là đất, vị ấy không
 tưởng [mình là] đất, không tưởng [mình]
@@ -293,11 +284,10 @@ nhờ sự đoạn tận si mê.
 
 **(ĐỨC THẾ TÔN — I)**
 
-147. "Này các tỳ kheo, Như Lai,[27] bậc Ứng Cúng,
+147\. "Này các tỳ kheo, Như Lai,[27] bậc Ứng Cúng,
 Chánh Đẳng Giác, cũng trực tiếp biết đất là đất. Khi đã trực tiếp
 biết đất là đất, Ngài không tưởng [mình là] đất,
 không tưởng [mình] ở trong đất, không tưởng
-
 [mình] tách rời khỏi đất, không tưởng đất là
 'của ta', không thích thú với đất. [6] Tại sao vậy? Vì
 Như Lai đã hiểu rõ hoàn toàn điều đó cho đến cùng tận, Ta nói.[28]
@@ -308,11 +298,10 @@ hoàn toàn điều đó cho đến cùng tận, Ta nói.
 
 **(ĐỨC THẾ TÔN — II)**
 
-171. "Này các tỳ kheo, Như Lai, bậc Ứng Cúng,
+171\. "Này các tỳ kheo, Như Lai, bậc Ứng Cúng,
 Chánh Đẳng Giác, cũng trực tiếp biết đất là đất. Khi đã trực tiếp
 biết đất là đất, Ngài không tưởng [mình là] đất,
 không tưởng [mình] ở trong đất, không tưởng
-
 [mình] tách rời khỏi đất, không tưởng đất là
 'của ta', không thích thú với đất. Tại sao vậy? Vì
 Ngài đã hiểu rằng thích thú là gốc rễ của khổ, và rằng
@@ -334,6 +323,7 @@ giác ngộ Chánh Đẳng Giác tối thượng, Ta nói."
 Đó là những gì Thế Tôn đã nói. Nhưng các tỳ kheo
 đó đã không hoan hỷ với lời của Thế Tôn.[31]
 
+<!--p4-->
 --Chú thích
 
 1 Để hiểu rõ hơn về bài kinh quan trọng và khó này, xem Bhikkhu Bodhi,
@@ -361,7 +351,6 @@ các đạo, quả và Niết Bàn—bị loại trừ. "Gốc rễ của mọi 
 điều kiện đặc biệt duy trì sự liên tục của quá trình tái sinh
 lặp đi lặp lại—MṬ giải thích là tham ái, kiêu mạn và tà kiến (là
 những nguồn gốc ngầm của "tưởng"), và những thứ này lại dựa trên vô minh, được gợi ý trong bài kinh bằng cụm từ "người ấy chưa hiểu rõ hoàn toàn điều đó."
-
 
 4 "Người phàm phu ít nghe" (assutavā puthujjana) là người phàm tục thông thường,
 không có học vấn cũng như không có thành tựu tâm linh trong Pháp
@@ -391,8 +380,6 @@ trải nghiệm đã bị bóp méo nhẹ bởi nhận thức tự phát.
 Theo các chú giải, hoạt động tưởng bị chi phối bởi ba phiền não,
 giải thích cho những cách khác nhau mà nó biểu hiện—tham ái (taṇhā),
 kiêu mạn (māna), và tà kiến (diṭṭhi).
-
-
 Bốn cách tưởng (maññanā): Đức Phật chỉ ra rằng việc tưởng
 về bất kỳ đối tượng nào có thể xảy ra theo bất kỳ cách nào trong bốn cách, được thể hiện bằng văn bản như một mô hình ngôn ngữ bốn phần: đối cách, định vị cách, ly cách và sở hữu cách. Ý nghĩa chính của mô hình phương thức này—bí ẩn trong tiếng Pali—dường như
 là bản thể luận. Tôi coi mô hình này đại diện cho những cách đa dạng mà
@@ -471,7 +458,6 @@ một danh từ số ít giống đực. Ở những nơi khác (MN 49.5), từ 
 trong tuyên bố của Baka Phạm Thiên về quyền bá chủ thần quyền, tuy nhiên MA bác bỏ việc đồng nhất
 Abhibhū với Brahmā ở đây là một sự dư thừa.
 
-
 16 Phần này và ba phần tiếp theo đề cập đến tưởng liên quan đến bốn
 cõi vô sắc—các đối tác vũ trụ học của bốn
 sự chứng đắc thiền vô sắc. Với §18, sự phân chia tưởng bằng cách
@@ -485,7 +471,6 @@ suy nghĩ trừu tượng và tưởng tượng. Các đối tượng của nh�
 được nhận thức theo nghĩa "của ta," "ta," và "bản ngã," hoặc theo những cách tạo ra tham ái,
 kiêu mạn và tà kiến.
 
-
 18 Trong phần này và phần tiếp theo, các hiện tượng bao gồm
 bản sắc cá nhân được coi là hai mặt—bằng cách đồng nhất và khác biệt. Sự nhấn mạnh vào đồng nhất (ekatta),
 MA cho chúng ta biết, là đặc trưng của một người chứng đắc các thiền, trong đó tâm
@@ -493,7 +478,6 @@ xảy ra ở một phương thức duy nhất trên một đối tượng duy nh
 chiếm ưu thế trong trường hợp của người không chứng đắc, người thiếu sự áp đảo
 kinh nghiệm đồng nhất của các thiền. Những tưởng nhấn mạnh sự khác biệt được thể hiện
 trong các triết lý đa nguyên, những tưởng nhấn mạnh sự đồng nhất trong các triết lý nhất nguyên.
-
 
 19 Trong phần này, tất cả các hiện tượng của bản sắc cá nhân được
 tập hợp lại và được thể hiện như một thể thống nhất. Ý tưởng về tổng thể này có thể tạo thành cơ sở cho các triết lý

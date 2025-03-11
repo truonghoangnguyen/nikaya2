@@ -9,6 +9,7 @@ Một thời Thế Tôn ở Savatthi (Xá-vệ), tại Jetavana (Kỳ-đà Lâm)
 Ðộc). Lúc bấy giờ Thế Tôn gọi các Tỷ-kheo: "Này các Tỷ-kheo". --"Bạch Thế Tôn", các vị Tỷ-kheo ấy
 vâng đáp Thế Tôn. Thế Tôn nói như sau:
 
+<!--p1-->
 -- Này các Tỷ-kheo, như một tấm vải cấu uế, nhiễm bụi, một người thợ nhuộm nhúng tấm vải ấy vào
 thuốc nhuộm này hay thuốc nhuộm khác - hoặc xanh, hoặc vàng, hoặc đỏ, hoặc tía - vải ấy sẽ được màu
 nhuộm không tốt đẹp, sẽ được màu nhuộm không sạch sẽ. Vì sao vậy? Này các Tỷ-kheo, vì tấm vải
@@ -18,16 +19,19 @@ hay thuốc nhuộm khác - hoặc xanh, hoặc vàng, hoặc đỏ, hoặc tía
 được màu nhuộm sạch sẽ. Vì sao vậy? Này các Tỷ-kheo, vì tấm vải được trong sạch. Cũng vậy, này các
 Tỷ-kheo, cõi thiện chờ đợi một tâm không cấu uế.
 
+<!--p2-->
 Và này các Tỷ-kheo, thế nào là những cấu uế của tâm? Tham dục, tà tham là cấu uế của tâm, sân là cấu
 uế của tâm, phẫn là cấu uế của tâm, hận là cấu uế của tâm, hư ngụy, não hại, tật đố, xan tham, man trá,
 khi cuống, ngoan cố, cấp tháo, quá mạn, kiêu, phóng dật là cấu uế của tâm.
 
+<!--p3-->
 Này các Tỷ-kheo, Tỷ-kheo nào nghĩ rằng: "Tham dục, tà tham là cấu uế của tâm" và sau khi biết vậy, vị
 ấy đoạn trừ tham dục, tà tham cấu uế của tâm; nghĩ rằng: "Sân là cấu uế của tâm", và sau khi biết vậy, vị
 ấy đoạn trừ sân, cấu uế của tâm; phẫn... hận... hư ngụy... não hại, tật đố, xan tham, man trá, khi cuống...
 ngoan cố... cấp tháo... mạn... quá mạn... kiêu; nghĩ rằng: "Phóng dật là cấu uế của tâm" thì sau khi biết
 vậy, vị ấy đoạn trừ phóng dật, cấu uế của tâm.
 
+<!--p4-->
 Này các Tỷ-kheo, khi nào Tỷ-kheo biết được: "Tham dục, tà tham là cấu uế của tâm", tham dục, tà tham
 cấu uế của tâm được diệt trừ, ... sân... phẫn... hận... hư ngụy... não hại... tật đố... xan tham... man trá...
 khi cuống... ngoan cố... cấp tháo... mạn... quá mạn... kiêu; khi nào Tỷ-kheo biết được: "Phóng dật là cấu
@@ -35,6 +39,7 @@ uế của tâm", phóng dật, cấu uế của tâm được diệt trừ, T�
 Phật: Ngài là bậc Thế Tôn, A-la-hán, Chánh Ðẳng Giác, Minh Hạnh Túc, Thiện Thệ, Thế Gian Giải,
 Ðiều Ngự Trượng Phu, Vô Thượng Sĩ, Thiên Nhân Sư, Phật, Thế Tôn.
 
+<!--p5-->
 Vị ấy thành tựu lòng tin tuyệt đối đối với Pháp: Pháp được Thế Tôn khéo thuyết giảng, thiết thực hiện
 tại, không có thời gian, đến để mà thấy, có khả năng hướng thượng, được người có trí chứng hiểu
 
@@ -44,6 +49,7 @@ Tăng, đệ tử Thế Tôn. Tức là bốn đôi tám vị. Chúng Tăng, đ�
 được tôn trọng, đáng được cúng dường, đáng được chắp tay, là phước điền vô thượng ở đời.
 
 Ðến giai đoạn này, đối với vị ấy có sự từ bỏ, có sự diệt trừ, có sự giải thoát, có sự đoạn trừ, có sự xả ly.
+
 Vị ấy tự nghĩ: "Ta thành tựu lòng tin tuyệt đối đối với Thế Tôn", và chứng được nghĩa tín thọ, chứng
 được pháp tín thọ, chứng được hân hoan liên hệ đến pháp, từ hân hoan, hỷ sanh, từ hỷ thân được khinh
 an, thân khinh an, cảm giác được lạc thọ; với lạc thọ, tâm được Thiền định.
@@ -62,6 +68,7 @@ trừ, có sự xả ly", và chứng được nghĩa tín thọ, chứng đư�
 đến pháp; từ hân hoan, hỷ sanh; từ hỷ, thân khinh an; thân khinh an, cảm giác được lạc thọ; với lạc thọ,
 tâm được Thiền định.
 
+<!--p6-->
 Này các Tỷ-kheo, vị Tỷ-kheo, giới như vậy, pháp như vậy, tuệ như vậy, - nếu có ăn đồ khất thực với gạo
 thơm, hạt đen được vất đi, với các món canh, với các món ăn khác cũng không vì vậy trở thành một
 chướng ngại cho vị ấy. Này các Tỷ-kheo, như một tấm vải cấu uế, nhiễm bụi, nếu bỏ trong nước sạch,
@@ -88,6 +95,7 @@ tâm được giải thoát khỏi vô minh lậu. Ðối với tự thân đã 
 đã tận, phạm hạnh đã thành, những việc nên làm đã làm, không còn trở lui trạng thái này nữa". Này các
 Tỷ-kheo, Tỷ-kheo ấy được gọi là Tỷ-kheo đã được tắm rửa với sự tắm rửa nội tâm.
 
+<!--p7-->
 Lúc bấy giờ, Bà-la-môn Sundarika Bharadvaja đang ngồi không xa Thế Tôn. Rồi Bà-la-môn Sundarika
 Bharadvaja bạch Thế Tôn:
 
@@ -101,41 +109,43 @@ nghiệp trong sông Bahuka.
 
 Rồi Thế Tôn nói lên những bài kệ sau đây cho Bà-la-môn Sundarika Bharadvaja:
 
-*Trong sông Bàhukà*
-*Tại Adhikakkà,*
-*Tại cả sông Gayà*
-*Và Sundarikà,*
-*Tại Sarassatì*
-*Và tại Payàna,*
-*Tại Bàhumatì,*
-*Kẻ ngu dầu thường tắm,*
-*Ác nghiệp không rửa sạch.*
+<!--p8-->
+*Trong sông Bàhukà*<br>
+*Tại Adhikakkà,*<br>
+*Tại cả sông Gayà*<br>
+*Và Sundarikà,*<br>
+*Tại Sarassatì*<br>
+*Và tại Payàna,*<br>
+*Tại Bàhumatì,*<br>
+*Kẻ ngu dầu thường tắm,*<br>
+*Ác nghiệp không rửa sạch.*<br>
 
-*Sông Sundarikà*
-*Có thể làm được gì?*
-*Payàga làm gì?*
-*Cả sông Bàhukà?*
-*Không thể rửa nghiệp đen*
-*Của kẻ ác gây tội.*
+*Sông Sundarikà*<br>
+*Có thể làm được gì?*<br>
+*Payàga làm gì?*<br>
+*Cả sông Bàhukà?*<br>
+*Không thể rửa nghiệp đen*<br>
+*Của kẻ ác gây tội.*<br>
 
-*Ðối kẻ sống thanh tịnh,*
-*Ngày nào cũng ngày tốt,*
-*Với kẻ sống thanh tịnh,*
-*Ngày nào cũng ngày lành,*
+*Ðối kẻ sống thanh tịnh,*<br>
+*Ngày nào cũng ngày tốt,*<br>
+*Với kẻ sống thanh tịnh,*<br>
+*Ngày nào cũng ngày lành,*<br>
 
-*Các tịnh nghiệp thanh tịnh,*
-*Luôn thành tựu (thiện) hạnh.*
-*Này vị Bà-la-môn,*
-*Chỉ nên tắm ở đây,*
-*Khiến mọi loài chúng sanh,*
-*Ðược sống trong an ổn.*
-*Nếu không nói dối trá,*
-*Nếu không hại chúng sanh,*
-*Không lấy của không cho,*
-*Có lòng tín, không tham,*
-*Ði Gayà làm gì,*
-*Gayà một giếng nước?*
+*Các tịnh nghiệp thanh tịnh,*<br>
+*Luôn thành tựu (thiện) hạnh.*<br>
+*Này vị Bà-la-môn,*<br>
+*Chỉ nên tắm ở đây,*<br>
+*Khiến mọi loài chúng sanh,*<br>
+*Ðược sống trong an ổn.*<br>
+*Nếu không nói dối trá,*<br>
+*Nếu không hại chúng sanh,*<br>
+*Không lấy của không cho,*<br>
+*Có lòng tín, không tham,*<br>
+*Ði Gayà làm gì,*<br>
+*Gayà một giếng nước?*<br>
 
+<!--p9-->
 Khi được nghe nói vậy, Bà-la-môn Sundarika Bharadvaja bạch Thế Tôn:
 
 -- Thật vi diệu thay, Tôn giả Gotama! Thật vi diệu thay, Tôn giả Gotama! Tôn giả Gotama, như người

@@ -11,6 +11,7 @@ all things.[3] Listen and attend closely to what I shall say.” —
 “Yes, venerable sir,” the bhikkhus replied. The Blessed One
 said this:
 
+<!--p1-->
 **(THE ORDINARY PERSON)**
 
 3. “Here, bhikkhus, an untaught ordinary person,[4]
@@ -77,7 +78,6 @@ of Streaming Radiance as the gods of Streaming Radiance,
 he conceives the gods of Streaming Radiance, he conceives
 
 [himself] in the gods of Streaming Radiance, he conceives
-
 [himself apart] from the gods of Streaming Radiance, he
 conceives the gods of Streaming Radiance to be ‘mine,’ he
 delights in the gods of Streaming Radiance. Why is that?
@@ -96,7 +96,6 @@ that? Because he has not fully understood it, I say.
 Great Fruit.[14] Having perceived the gods of Great Fruit as the
 gods of Great Fruit, he conceives the gods of Great Fruit, he
 conceives [himself] in the gods of Great Fruit, he conceives
-
 [himself apart] from the gods of Great Fruit, he conceives the
 gods of Great Fruit to be ‘mine,’ he delights in the gods of
 Great Fruit. Why is that? Because he has not fully understood
@@ -105,7 +104,6 @@ it, I say.
 14. “He perceives the Overlord as the Overlord.[15] Having
 perceived the Overlord as the Overlord, he conceives the
 Overlord, he conceives [himself] in the Overlord, he conceives
-
 [himself apart] from the Overlord, he conceives the Overlord
 to be ‘mine,’ he delights in the Overlord. Why is that? Because
 he has not fully understood it, I say.
@@ -179,7 +177,6 @@ that? Because he has not fully understood it, I say.
 
 23. “He perceives unity as unity.[18] Having perceived
 unity as unity, he conceives [himself as] unity, he conceives
-
 [himself] in unity, he conceives [himself apart] from unity, he
 conceives unity to be ‘mine,’ he delights in unity. Why is that?
 Because he has not fully understood it, I say.
@@ -204,11 +201,11 @@ from Nibbāna, he conceives Nibbāna to be ‘mine,’ he delights
 in Nibbāna. Why is that? Because he has not fully understood
 it, I say.
 
+<!--p2-->
 **(THE DISCIPLE IN HIGHER TRAINING)**
 
 27. “Bhikkhus, a bhikkhu who is in higher training,[21] whose
 mind has not yet reached the goal, and who is still aspiring to
-
 the supreme security from bondage, directly knows earth as
 earth.[22] Having directly known earth as earth, he should not
 conceive [himself as] earth, he should not conceive [himself]
@@ -227,6 +224,7 @@ should not conceive [himself apart] from Nibbāna, he should not
 conceive Nibbāna to be ‘mine,’ he should not delight in Nibbāna.
 Why is that? Because he must fully understand it, I say.
 
+<!--p3-->
 **(THE ARAHANT — I)**
 
 51. “Bhikkhus, a bhikkhu who is an arahant with taints
@@ -311,12 +309,10 @@ understood it to the end, I say.
 fully enlightened, directly knows earth as earth. Having directly
 known earth as earth, he does not conceive [himself as] earth,
 he does not conceive [himself] in earth, he does not conceive
-
 [himself apart] from earth, he does not conceive earth to be
 ‘mine,’ he does not delight in earth. Why is that? Because he
 has understood that delight is the root of suffering, and that with
 being [as condition] there is birth, and that for whatever has
-
 come to be there is ageing and death.[29] Therefore, bhikkhus,
 through the complete destruction, fading away, cessation,
 giving up, and relinquishing of cravings, the Tathāgata has
@@ -334,6 +330,7 @@ supreme full enlightenment, I say.”
 That is what the Blessed One said. But those bhikkhus
 did not delight in the Blessed One’s words.[31]
 
+<!--p4-->
 --Annotation
 
 1 For a fuller treatment of this important and difficult sutta, see Bhikkhu Bodhi,

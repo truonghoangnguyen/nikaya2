@@ -1,0 +1,777 @@
+[
+    {
+      "title": "1. KINH PHÁP MÔN CĂN BẢN",
+      "sutta": "Mùlapariyàya Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/001-kinh-phap-mon-can-ban.md"
+    },
+    {
+      "title": "2. KINH TẤT CẢ CÁC LẬU HOẶC",
+      "sutta": "Sabbàsava Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/002-kinh-tat-ca-cac-lau-hoac.md"
+    },
+    {
+      "title": "3. KINH THỪA TỰ PHÁP",
+      "sutta": "Dhammadàyàda Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/003-kinh-thua-tu-phap.md"
+    },
+    {
+      "title": "4. KINH SỢ HÃI KHIẾP ÐẢM",
+      "sutta": "Bhayabherava Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/004-kinh-so-hai-khiep-dam.md"
+    },
+    {
+      "title": "5. KINH KHÔNG UẾ NHIỄM",
+      "sutta": "Anangana Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/005-kinh-khong-ue-nhiem.md"
+    },
+    {
+      "title": "6. KINH ƯỚC NGUYỆN",
+      "sutta": "Akankheyya Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/006-kinh-uoc-nguyen.md"
+    },
+    {
+      "title": "7. KINH VÍ DỤ TẤM VẢI",
+      "sutta": "Vatthùpama Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/007-kinh-vi-du-tam-vai.md"
+    },
+    {
+      "title": "8. KINH ÐOẠN GIẢM",
+      "sutta": "Sallekha Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/008-kinh-doan-giam.md"
+    },
+    {
+      "title": "9. KINH CHÁNH TRI KIẾN",
+      "sutta": "Sammàditthi Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/009-kinh-chanh-tri-kien.md"
+    },
+    {
+      "title": "10. KINH NIỆM XỨ",
+      "sutta": "Satipatthàna Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/010-kinh-niem-xu.md"
+    },
+    {
+      "title": "11. TIỂU KINH SƯ TỬ HỐNG",
+      "sutta": "Cùlasìhanàda Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/011-tieu-kinh-su-tu-hong.md"
+    },
+    {
+      "title": "12. ÐẠI KINH SƯ TỬ HỐNG",
+      "sutta": "Mahàsìhanàda Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/012-dai-kinh-su-tu-hong.md"
+    },
+    {
+      "title": "13. ÐẠI KINH KHỔ UẨN",
+      "sutta": "Mahàdukkhakkhanda Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/013-dai-kinh-kho-uan.md"
+    },
+    {
+      "title": "14. TIỂU KINH KHỔ UẨN",
+      "sutta": "Cùladukkhakkhanda Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/014-tieu-kinh-kho-uan.md"
+    },
+    {
+      "title": "15. KINH TƯ LƯỢNG",
+      "sutta": "Anumàna Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/015-kinh-tu-luong.md"
+    },
+    {
+      "title": "16. KINH TÂM HOANG VU",
+      "sutta": "Cetokhila Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/016-kinh-tam-hoang-vu.md"
+    },
+    {
+      "title": "17. KINH KHU RỪNG",
+      "sutta": "Vanapattha Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/017-kinh-khu-rung.md"
+    },
+    {
+      "title": "18. KINH MẬT HOÀN",
+      "sutta": "Madhupindika Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/018-kinh-mat-hoan.md"
+    },
+    {
+      "title": "19. KINH SONG TẦM",
+      "sutta": "Dvedhàvitakka Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/019-kinh-song-tam.md"
+    },
+    {
+      "title": "20. KINH AN TRÚ TẦM",
+      "sutta": "Vtakkasanthàna Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/020-kinh-an-tru-tam.md"
+    },
+    {
+      "title": "21. KINH VÍ DỤ CÁI CƯA",
+      "sutta": "Kakacùpama Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/021-kinh-vi-du-cai-cua.md"
+    },
+    {
+      "title": "22. KINH VÍ DỤ CON RẮN",
+      "sutta": "Alagaddùpama Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/022-kinh-vi-du-con-ran.md"
+    },
+    {
+      "title": "23. KINH GÒ MỐI",
+      "sutta": "Vammika Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/023-kinh-go-moi.md"
+    },
+    {
+      "title": "24. KINH TRẠM XE",
+      "sutta": "Rathavinìta Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/024-kinh-tram-xe.md"
+    },
+    {
+      "title": "25. KINH BẪY MỒI",
+      "sutta": "Nivàpa Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/025-kinh-bay-moi.md"
+    },
+    {
+      "title": "26. KINH THÁNH CẦU",
+      "sutta": "Ariyapariyesanà Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/026-kinh-thanh-cau.md"
+    },
+    {
+      "title": "27. TIỂU KINH DỤ DẤU CHÂN VOI",
+      "sutta": "Cùlahatthipadopama Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/027-tieu-kinh-du-dau-chan-voi.md"
+    },
+    {
+      "title": "28. ÐẠI KINH DỤ DẤU CHÂN VOI",
+      "sutta": "Mahàhatthipadopama Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/028-dai-kinh-du-dau-chan-voi.md"
+    },
+    {
+      "title": "29. ÐẠI KINH THÍ DỤ LÕI CÂY",
+      "sutta": "Mahasaropama-Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/029-dai-kinh-thi-du-loi-cay.md"
+    },
+    {
+      "title": "30. TIỂU KINH DỤ LÕI CÂY",
+      "sutta": "Cùlasàropama Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/030-tieu-kinh-du-loi-cay.md"
+    },
+    {
+      "title": "31. TIỂU KINH RỪNG SỪNG BÒ",
+      "sutta": "Cùlagosinga Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/031-tieu-kinh-rung-sung-bo.md"
+    },
+    {
+      "title": "32. ÐẠI KINH RỪNG SỪNG BÒ",
+      "sutta": "Mahàgosinga Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/032-dai-kinh-rung-sung-bo.md"
+    },
+    {
+      "title": "33. ÐẠI KINH NGƯỜI CHĂN BÒ",
+      "sutta": "Mahàgopàlaka Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/033-dai-kinh-nguoi-chan-bo.md"
+    },
+    {
+      "title": "34. TIỂU KINH NGƯỜI CHĂN BÒ",
+      "sutta": "Cùlagopàlaka Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/034-tieu-kinh-nguoi-chan-bo.md"
+    },
+    {
+      "title": "35. TIỂU KINH SACCAKA",
+      "sutta": "Cùlasaccaka Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/035-tieu-kinh-saccaka.md"
+    },
+    {
+      "title": "36. ÐẠI KINH SACCAKA",
+      "sutta": "Mahàsaccaka Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/036-dai-kinh-saccaka.md"
+    },
+    {
+      "title": "37. TIỂU KINH ÐOẠN TẬN ÁI",
+      "sutta": "Cùlatanhàsankhaya Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/037-tieu-kinh-doan-tan-ai.md"
+    },
+    {
+      "title": "38. ÐẠI KINH ÐOẠN TẬN ÁI",
+      "sutta": "Mahàtanhàsankhaya Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/038-dai-kinh-doan-tan-ai.md"
+    },
+    {
+      "title": "39. ÐẠI KINH XÓM NGỰA",
+      "sutta": "Mahà-Assapura Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/039-dai-kinh-xom-ngua.md"
+    },
+    {
+      "title": "40. TIỂU KINH XÓM NGỰA",
+      "sutta": "Cùla-Assapura Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/040-tieu-kinh-xom-ngua.md"
+    },
+    {
+      "title": "41. KINH SÀLEYYAKA",
+      "sutta": "Sàleyyaka Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/041-kinh-saleyyaka.md"
+    },
+    {
+      "title": "42. KINH VERANJAKA",
+      "sutta": "Veranjaka Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/042-kinh-veranjaka.md"
+    },
+    {
+      "title": "43. ÐẠI KINH PHƯƠNG QUẢNG",
+      "sutta": "Mahàvedalla Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/043-dai-kinh-phuong-quang.md"
+    },
+    {
+      "title": "44. TIỂU KINH PHƯƠNG QUẢNG",
+      "sutta": "Cùlavedalla Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/044-tieu-kinh-phuong-quang.md"
+    },
+    {
+      "title": "45. TIỂU KINH PHÁP HÀNH",
+      "sutta": "Cùladhammasamàdàna Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/045-tieu-kinh-phap-hanh.md"
+    },
+    {
+      "title": "46. ÐẠI KINH PHÁP HÀNH",
+      "sutta": "Mahàdhammasamàdàna Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/046-dai-kinh-phap-hanh.md"
+    },
+    {
+      "title": "47. KINH TƯ SÁT",
+      "sutta": "Vìmamsaka Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/047-kinh-tu-sat.md"
+    },
+    {
+      "title": "48. KINH KOSAMBIYA",
+      "sutta": "Kosambiya Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/048-kinh-kosambiya.md"
+    },
+    {
+      "title": "49. KINH PHẠM THIÊN CẦU THỈNH",
+      "sutta": "Brahmanimantanika Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/049-kinh-pham-thien-cau-thinh.md"
+    },
+    {
+      "title": "50. KINH HÀNG MA",
+      "sutta": "Màratajjanìya Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/050-kinh-hang-ma.md"
+    },
+    {
+      "title": "51. KINH KANDARAKA",
+      "sutta": "Kandaraka sutta",
+      "file1": "/kinhtrungbo/thichminhchau/051-kinh-kandaraka.md"
+    },
+    {
+      "title": "52. KINH BÁT THÀNH",
+      "sutta": "Atthakanàgara Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/052-kinh-bat-thanh.md"
+    },
+    {
+      "title": "53. KINH HỮU HỌC",
+      "sutta": "Sekha Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/053-kinh-huu-hoc.md"
+    },
+    {
+      "title": "54. KINH POTALIYA",
+      "sutta": "Potaliya Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/054-kinh-potaliya.md"
+    },
+    {
+      "title": "55. KINH JÌVAKA",
+      "sutta": "Jìvaka Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/055-kinh-jivaka.md"
+    },
+    {
+      "title": "56. KINH ƯU-BA-LY",
+      "sutta": "Upàli Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/056-kinh-uu-ba-ly.md"
+    },
+    {
+      "title": "57. KINH HẠNH CON CHÓ",
+      "sutta": "Kukkuravatika Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/057-kinh-hanh-con-cho.md"
+    },
+    {
+      "title": "58. KINH VƯƠNG TỬ VÔ ÚY",
+      "sutta": "Abhayaràjakumàra Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/058-kinh-vuong-tu-vo-uy.md"
+    },
+    {
+      "title": "59. KINH NHIỀU CẢM THỌ",
+      "sutta": "Bahuvedanìya Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/059-kinh-nhieu-cam-tho.md"
+    },
+    {
+      "title": "60. KINH KHÔNG GÌ CHUYỂN HƯỚNG",
+      "sutta": "Apannaka Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/060-kinh-khong-gi-chuyen-huong.md"
+    },
+    {
+      "title": "61. KINH GIÁO GIỚI LA-HẦU-LA Ở RỪNG AMBALA",
+      "sutta": "Ambalatthikà Ràhulovàda Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/061-kinh-giao-gioi-la-hau-la-o-rung-ambala.md"
+    },
+    {
+      "title": "62. ÐẠI KINH GIÁO GIỚI LA-HẦU-LA",
+      "sutta": "Mahà Ràhulovàda Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/062-dai-kinh-giao-gioi-la-hau-la.md"
+    },
+    {
+      "title": "63. TIỂU KINH MÀLUNKYÀ",
+      "sutta": "Cula Màlunkyà Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/063-tieu-kinh-malunkya.md"
+    },
+    {
+      "title": "64. ÐẠI KINH MÀLUNKYA",
+      "sutta": "Mahà Màlunkyà Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/064-dai-kinh-malunkya.md"
+    },
+    {
+      "title": "65. KINH BHADDÀLI",
+      "sutta": "Bhaddàli Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/065-kinh-bhaddali.md"
+    },
+    {
+      "title": "66. KINH VÍ DỤ CON CHIM CÁY",
+      "sutta": "Latukikopama Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/066-kinh-vi-du-con-chim-cay.md"
+    },
+    {
+      "title": "67. KINH CÀTUMÀ",
+      "sutta": "Càtumà Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/067-kinh-catuma.md"
+    },
+    {
+      "title": "68. KINH NALAKAPÀNA",
+      "sutta": "Nalakapàna Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/068-kinh-nalakapana.md"
+    },
+    {
+      "title": "69. KINH GULISÀNI",
+      "sutta": "Gulisàni Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/069-kinh-gulisani.md"
+    },
+    {
+      "title": "70. KINH KÌTÀGIRI",
+      "sutta": "Kìtàgiri Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/070-kinh-kitagiri.md"
+    },
+    {
+      "title": "71. KINH DẠY VACCHAGOTTA VỀ TAM MINH",
+      "sutta": "Tevijjavacchagotta Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/071-kinh-day-vacchagotta-ve-tam-minh.md"
+    },
+    {
+      "title": "72. KINH DẠY VACCHAGOTTA VỀ LỬA",
+      "sutta": "Aggivacchagotta Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/072-kinh-day-vacchagotta-ve-lua.md"
+    },
+    {
+      "title": "73. ÐẠI KINH VACCHAGHOTTA",
+      "sutta": "Mahàvacchagotta Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/073-dai-kinh-vacchaghotta.md"
+    },
+    {
+      "title": "74. KINH TRƯỜNG TRẢO",
+      "sutta": "Dìghanakha Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/074-kinh-truong-trao.md"
+    },
+    {
+      "title": "75. KINH MÀGANDIYA",
+      "sutta": "Màgandiya Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/075-kinh-magandiya.md"
+    },
+    {
+      "title": "76. KINH SANDAKA",
+      "sutta": "Sandaka Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/076-kinh-sandaka.md"
+    },
+    {
+      "title": "77. ÐẠI KINH SAKULUDÀYI",
+      "sutta": "Mahàsakuludàyin Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/077-dai-kinh-sakuludayi.md"
+    },
+    {
+      "title": "78. KINH SAMANAMANDIKÀ",
+      "sutta": "Samanamandikàputta Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/078-kinh-samanamandika.md"
+    },
+    {
+      "title": "79. TIỂU KINH SAKULUDAYI (THIỆN SANH ƯU ÐÀ DI)",
+      "sutta": "Cùlasakuludàyi Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/079-tieu-kinh-sakuludayi-thien-sanh-uu-da-di.md"
+    },
+    {
+      "title": "80. KINH VEKHANASSA",
+      "sutta": "Vekhanassa Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/080-kinh-vekhanassa.md"
+    },
+    {
+      "title": "81. KINH GHATÌKÀRA",
+      "sutta": "Ghatìkàra Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/081-kinh-ghatikara.md"
+    },
+    {
+      "title": "82. KINH RATTHAPÀLA",
+      "sutta": "Ratthapàla Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/082-kinh-ratthapala.md"
+    },
+    {
+      "title": "83. KINH MAKHÀDEVA",
+      "sutta": "Makhàdeva Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/083-kinh-makhadeva.md"
+    },
+    {
+      "title": "84. KINH MADHURÀ",
+      "sutta": "Madhurà Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/084-kinh-madhura.md"
+    },
+    {
+      "title": "85. KINH VƯƠNG TỬ BỒ ÐỀ",
+      "sutta": "Bodhirajàkumàra Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/085-kinh-vuong-tu-bo-de.md"
+    },
+    {
+      "title": "86. KINH ANGULIMÀLA",
+      "sutta": "Angulimàla Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/086-kinh-angulimala.md"
+    },
+    {
+      "title": "87. KINH ÁI SANH",
+      "sutta": "Piyajàtika Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/087-kinh-ai-sanh.md"
+    },
+    {
+      "title": "88. KINH BÀHITIKA",
+      "sutta": "Bàhitika Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/088-kinh-bahitika.md"
+    },
+    {
+      "title": "89. KINH PHÁP TRANG NGHIÊM",
+      "sutta": "Dhammacetiya Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/089-kinh-phap-trang-nghiem.md"
+    },
+    {
+      "title": "90. KINH KANNAKATTHALA",
+      "sutta": "Kannakatthala Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/090-kinh-kannakatthala.md"
+    },
+    {
+      "title": "91. KINH BRAHMÀYU",
+      "sutta": "Brahmàyu Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/091-kinh-brahmayu.md"
+    },
+    {
+      "title": "92. KINH SELA",
+      "sutta": "Sela Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/092-kinh-sela.md"
+    },
+    {
+      "title": "93. KINH ASSALÀYANA",
+      "sutta": "Assalàyana Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/093-kinh-assalayana.md"
+    },
+    {
+      "title": "94. KINH GHOTAMUKHA",
+      "sutta": "Ghotamukha Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/094-kinh-ghotamukha.md"
+    },
+    {
+      "title": "95. KINH CANKÌ",
+      "sutta": "Cankì Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/095-kinh-canki.md"
+    },
+    {
+      "title": "96. KINH ESUKÀRI",
+      "sutta": "Esukàrì Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/096-kinh-esukari.md"
+    },
+    {
+      "title": "97. KINH DHÀNANJÀNI",
+      "sutta": "Dhànanjàni Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/097-kinh-dhananjani.md"
+    },
+    {
+      "title": "98. KINH VÀSETTHA",
+      "sutta": "Vàsettha Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/098-kinh-vasettha.md"
+    },
+    {
+      "title": "99. KINH SUBHA",
+      "sutta": "Subha Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/099-kinh-subha.md"
+    },
+    {
+      "title": "100. KINH SANGÀRAVA",
+      "sutta": "Sangàrava Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/100-kinh-sangarava.md"
+    },
+    {
+      "title": "101. KINH DEVADAHA",
+      "sutta": "Devadaha Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/101-kinh-devadaha.md"
+    },
+    {
+      "title": "102. KINH NĂM & BA",
+      "sutta": "Pancattaya Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/102-kinh-nam-ba.md"
+    },
+    {
+      "title": "103. KINH NGHĨ NHƯ THẾ NÀO?",
+      "sutta": "Kinti Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/103-kinh-nghi-nhu-the-nao.md"
+    },
+    {
+      "title": "104. KINH LÀNG SAMA",
+      "sutta": "Sàmagàma Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/104-kinh-lang-sama.md"
+    },
+    {
+      "title": "105. KINH THIỆN TINH",
+      "sutta": "Sunakkhatta Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/105-kinh-thien-tinh.md"
+    },
+    {
+      "title": "106. KINH BẤT ÐỘNG LỢI ÍCH",
+      "sutta": "Anenjasappàya Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/106-kinh-bat-dong-loi-ich.md"
+    },
+    {
+      "title": "107. KINH GANAKA MOGGALLÀNA",
+      "sutta": "Ganakamoggallàna Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/107-kinh-ganaka-moggallana.md"
+    },
+    {
+      "title": "108. KINH GOPAKA MOGGALLÀNA",
+      "sutta": "Gopakamoggallàna Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/108-kinh-gopaka-moggallana.md"
+    },
+    {
+      "title": "109. ÐẠI KINH MÃN NGUYỆT",
+      "sutta": "Mahàpunnama Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/109-dai-kinh-man-nguyet.md"
+    },
+    {
+      "title": "110. TIỂU KINH MÃN NGUYỆT",
+      "sutta": "Cùlapunnama Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/110-tieu-kinh-man-nguyet.md"
+    },
+    {
+      "title": "111. KINH BẤT ÐOẠN",
+      "sutta": "Anupada Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/111-kinh-bat-doan.md"
+    },
+    {
+      "title": "112. KINH SÁU THANH TỊNH",
+      "sutta": "Chabbisodhana Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/112-kinh-sau-thanh-tinh.md"
+    },
+    {
+      "title": "113. KINH CHÂN NHÂN",
+      "sutta": "Sappurisa Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/113-kinh-chan-nhan.md"
+    },
+    {
+      "title": "114. KINH NÊN HÀNH TRÌ, KHÔNG NÊN HÀNH TRÌ",
+      "sutta": "Sevitabba-asevitabba Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/114-kinh-nen-hanh-tri-khong-nen-hanh-tri.md"
+    },
+    {
+      "title": "115. KINH ÐA GIỚI",
+      "sutta": "Bahudhàtuka Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/115-kinh-da-gioi.md"
+    },
+    {
+      "title": "116. KINH THÔN TIÊN",
+      "sutta": "Isigili Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/116-kinh-thon-tien.md"
+    },
+    {
+      "title": "117. ÐẠI KINH BỐN MƯƠI",
+      "sutta": "Mahàcattàrìsaka Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/117-dai-kinh-bon-muoi.md"
+    },
+    {
+      "title": "118. KINH NHẬP TỨC, XUẤT TỨC NIỆM",
+      "sutta": "Kinh Quán Niệm Hơi Thở",
+      "file1": "/kinhtrungbo/thichminhchau/118-kinh-nhap-tuc-xuat-tuc-niem.md"
+    },
+    {
+      "title": "119. KINH THÂN HÀNH NIỆM",
+      "sutta": "Kàyagatàsati Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/119-kinh-than-hanh-niem.md"
+    },
+    {
+      "title": "120. KINH HÀNH SANH",
+      "sutta": "Sankhàrupapatti Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/120-kinh-hanh-sanh.md"
+    },
+    {
+      "title": "121. KINH TIỂU KHÔNG",
+      "sutta": "Cùlasunnata Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/121-kinh-tieu-khong.md"
+    },
+    {
+      "title": "122. KINH ÐẠI THÔNG",
+      "sutta": "Mahàsunnata Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/122-kinh-dai-thong.md"
+    },
+    {
+      "title": "123. KINH HY HỮU VỊ TẰNG HỮU PHÁP",
+      "sutta": "Acchariya-abbhùtadhamma Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/123-kinh-hy-huu-vi-tang-huu-phap.md"
+    },
+    {
+      "title": "124. KINH BẠC-CÂU-LA",
+      "sutta": "Bakkula Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/124-kinh-bac-cau-la.md"
+    },
+    {
+      "title": "125. KINH ÐIỂU NGỰ ÐỊA",
+      "sutta": "Dantabhùmi Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/125-kinh-dieu-ngu-dia.md"
+    },
+    {
+      "title": "126. KINH PHÙ-DI",
+      "sutta": "Bhùmija Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/126-kinh-phu-di.md"
+    },
+    {
+      "title": "127. KINH A-NA-LUẬT",
+      "sutta": "Anuruddha Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/127-kinh-a-na-luat.md"
+    },
+    {
+      "title": "128. KINH TÙY PHIỀN NÃO",
+      "sutta": "Upakkilesa Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/128-kinh-tuy-phien-nao.md"
+    },
+    {
+      "title": "129. KINH HIỀN NGU",
+      "sutta": "Bàlapandita Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/129-kinh-hien-ngu.md"
+    },
+    {
+      "title": "130. KINH THIÊN XỨ",
+      "sutta": "Devadùta Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/130-kinh-thien-xu.md"
+    },
+    {
+      "title": "131. KINH NHẤT DẠ HIỀN GIẢ",
+      "sutta": "Bhaddekaratta Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/131-kinh-nhat-da-hien-gia.md"
+    },
+    {
+      "title": "132. KINH A-NAN NHẤT DẠ HIỀN GIẢ",
+      "sutta": "Anandabhaddekaratta Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/132-kinh-a-nan-nhat-da-hien-gia.md"
+    },
+    {
+      "title": "133. KINH ÐẠI CA-CHIÊN-DIÊN NHẤT DẠ HIỀN GIẢ",
+      "sutta": "Mahàkaccànabhaddekaratta Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/133-kinh-dai-ca-chien-dien-nhat-da-hien-gia.md"
+    },
+    {
+      "title": "134. KINH LOMASAKANGIYA NHẤT DẠ HIỀN GIẢ",
+      "sutta": "Lomasakangiyabhaddekaratta Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/134-kinh-lomasakangiya-nhat-da-hien-gia.md"
+    },
+    {
+      "title": "135. TIỂU KINH NGHIỆP PHÂN BIỆT",
+      "sutta": "Cùlakammavibhanga Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/135-tieu-kinh-nghiep-phan-biet.md"
+    },
+    {
+      "title": "136. ÐẠI KINH NGHIỆP PHÂN BIỆT",
+      "sutta": "Mahàkammavibhanga",
+      "file1": "/kinhtrungbo/thichminhchau/136-dai-kinh-nghiep-phan-biet.md"
+    },
+    {
+      "title": "137. KINH PHÂN BIỆT SÁU XỨ",
+      "sutta": "Salàyatanavibhanga Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/137-kinh-phan-biet-sau-xu.md"
+    },
+    {
+      "title": "138. KINH TỔNG THUYẾT & BIỆT THUYẾT",
+      "sutta": "Uddesavibhanga Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/138-kinh-tong-thuyet-biet-thuyet.md"
+    },
+    {
+      "title": "139. KINH VÔ TRÁNH PHÂN BIỆT",
+      "sutta": "Aranavibhanga Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/139-kinh-vo-tranh-phan-biet.md"
+    },
+    {
+      "title": "140. KINH GIỚI PHÂN BIỆT",
+      "sutta": "Dhàtuvibhanga Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/140-kinh-gioi-phan-biet.md"
+    },
+    {
+      "title": "141. KINH PHÂN BIỆT VỀ SỰ THẬT",
+      "sutta": "Saccavibhanga Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/141-kinh-phan-biet-ve-su-that.md"
+    },
+    {
+      "title": "142. KINH PHÂN BIỆT CÚNG DƯỜNG",
+      "sutta": "Dakkhinàvibhanga Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/142-kinh-phan-biet-cung-duong.md"
+    },
+    {
+      "title": "143. KINH GIÁO GIỚI CẤP CÔ ÐỘC",
+      "sutta": "Anàthapindikovàda Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/143-kinh-giao-gioi-cap-co-doc.md"
+    },
+    {
+      "title": "144. KINH GIÁO GIỚI CHANNA",
+      "sutta": "Channovàda Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/144-kinh-giao-gioi-channa.md"
+    },
+    {
+      "title": "145. KINH GIÁO GIỚI PHÚ-LÂU-NA",
+      "sutta": "Punnovàda Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/145-kinh-giao-gioi-phu-lau-na.md"
+    },
+    {
+      "title": "146. KINH GIÁO GIỚI NANDAKA",
+      "sutta": "Nandakovàda Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/146-kinh-giao-gioi-nandaka.md"
+    },
+    {
+      "title": "147. TIỂU KINH GIÁO GIỚI LA-HẦU-LA",
+      "sutta": "Cùlaràhulovàda Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/147-tieu-kinh-giao-gioi-la-hau-la.md"
+    },
+    {
+      "title": "148. KINH SÁU SÁU",
+      "sutta": "Chachakka Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/148-kinh-sau-sau.md"
+    },
+    {
+      "title": "149. ÐẠI KINH SÁU XỨ",
+      "sutta": "Mahàsalàyatanika Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/149-dai-kinh-sau-xu.md"
+    },
+    {
+      "title": "150. KINH NÓI CHO DÂN NAGARAVINDA",
+      "sutta": "Nagaravindeyya Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/150-kinh-noi-cho-dan-nagaravinda.md"
+    },
+    {
+      "title": "151. KINH KHẤT THỰC THANH TỊNH",
+      "sutta": "Pindapàtapàrisuddhi Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/151-kinh-khat-thuc-thanh-tinh.md"
+    },
+    {
+      "title": "152. KINH CĂN TU TẬP",
+      "sutta": "Indriyabhàvanà Sutta",
+      "file1": "/kinhtrungbo/thichminhchau/152-kinh-can-tu-tap.md"
+    },
+    {
+      "title": "1. Lời Nói Ðầu",
+      "sutta": null,
+      "file1": "/kinhtrungbo/thichminhchau/g1.md"
+    },
+    {
+      "title": "2. Lời Giới Thiệu",
+      "sutta": "*** ***Bình Anson*** ***tổng hợp, 11/99",
+      "file1": "/kinhtrungbo/thichminhchau/g2.md"
+    },
+    {
+      "title": "Kinh Trung Bộ",
+      "sutta": null,
+      "file1": "/kinhtrungbo/thichminhchau/index.md"
+    }
+  ]

@@ -14,11 +14,17 @@ title: Kinh Trung Bộ - Bản dịch của Hòa Thượng Thích Minh Châu
 
 ## Đặc Điểm Bản Dịch
 
-Bản dịch của Hòa Thượng Thích Minh Châu nổi tiếng với sự chính xác và trung thành với nguyên bản Pali. Ngài đã cố gắng duy trì ý nghĩa gốc của các thuật ngữ Phật học, đồng thời làm cho bản dịch dễ hiểu đối với người Việt Nam.
+Bản dịch của Hòa Thượng Thích Minh Châu nổi tiếng với sự chính xác và trung thành với nguyên bản Pali. Ngài đã cố gắng duy trì ý nghĩa gốc của các thuật ngữ Phật học, đồng thầm làm cho bản dịch dễ hiểu đối với người Việt Nam.
 
-## Nội Dung
+<div class="translation-grid">
+  <div class="translation-card">
+    <a href="/kinhtrungbo/thichminhchau/g1">
+      <div class="translation-title">Lời giới thiệu</div>
+    </a>
+  </div>
+</div>
 
-*Lưu ý: Đây là nội dung tạm thời. Nội dung thực tế sẽ được cập nhật khi các tài liệu được thêm vào.*
+
 
 ## So Sánh Các Bản Dịch
 

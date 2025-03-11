@@ -2,76 +2,76 @@
 layout: home
 
 hero:
-  name: "Multilingual Documentation"
-  text: "Compare multiple translations side by side"
-  tagline: Explore different translations of the same content
+  name: "Kinh Nikaya"
+  tagline: Tôi mong muốn đọc hết các bài kinh Nikaya, nhưng có nhiều chỗ kkhóhiểu, Khám phá Kinh Nikaya dưới góc nhìn mới
   actions:
     - theme: brand
-      text: Browse Collections
-      link: /kinhtrungbo/
-    - theme: alt
-      text: Compare Translations
+      text: So sánh bản dịch
       link: /compare/
+    - theme: alt
+      text: Khám phá Bộ sưu tập
+      link: /kinhtrungbo/
 
 features:
-  - title: Multiple Collections
-    details: Access multiple Buddhist scripture collections with their translations
-  - title: Multiple Translations
-    details: Compare original texts with different Vietnamese translations
-  - title: Side-by-Side Comparison
-    details: Compare translations directly to understand nuances and differences
+  - title: Kinh điển nguyên thủy
+    details: Truy cập nhiều bộ Kinh điển Phật giáo với bản dịch của chúng
+  - title: Nhiều bản dịch
+    details: So sánh văn bản gốc với nhiều bản dịch tiếng Việt khác nhau
+  - title: So sánh song song
+    details: So sánh bản dịch trực tiếp để hiểu rõ sự khác biệt và tinh tế
+
 ---
 
-# Welcome to the Multilingual Documentation
+# Chào mừng đến với Kinh Nikaya
 
-This documentation site provides access to multiple translations of Buddhist scriptures, allowing you to:
+Trang tài liệu này cung cấp truy cập vào nhiều bản dịch của Kinh điển Phật giáo, cho phép bạn:
 
-1. Read the original English texts
-2. Read different Vietnamese translations
-3. Compare translations side by side
+1. Đọc văn bản gốc tiếng Anh
+2. Đọc nhiều bản dịch tiếng Việt khác nhau
+3. So sánh bản dịch song song
 
-## Document Structure
+## Cấu trúc tài liệu
 
-The documents are organized by collection, then by translator:
+Tài liệu được tổ chức theo bộ sưu tập, sau đó theo người dịch:
 
-- `/kinhtrungbo/` - Majjhima Nikaya (Middle Length Discourses)
-  - `/kinhtrungbo/nanamoli-bodhi/` - English original by Bhikkhu Nanamoli and Bhikkhu Bodhi
-  - `/kinhtrungbo/nanamoli-bodhi-vi/` - Vietnamese translation of Nanamoli-Bodhi
-  - `/kinhtrungbo/thichminhchau/` - Vietnamese translation by Thich Minh Chau
+- `/kinhtrungbo/` - Kinh Trung Bộ (Trung độ kinh)
+  - `/kinhtrungbo/nanamoli-bodhi/` - Bản gốc tiếng Anh của Bhikkhu Nanamoli và Bhikkhu Bodhi
+  - `/kinhtrungbo/nanamoli-bodhi-vi/` - Bản dịch tiếng Việt của Nanamoli-Bodhi
+  - `/kinhtrungbo/thichminhchau/` - Bản dịch tiếng Việt của Thich Minh Chau
 
-- `/kinhtruongbo/` - Digha Nikaya (Long Discourses)
-  - `/kinhtruongbo/bodhi/` - English original by Bhikkhu Bodhi
-  - `/kinhtruongbo/bodhi-vi/` - Vietnamese translation of Bodhi
-  - `/kinhtruongbo/thichminhchau/` - Vietnamese translation by Thich Minh Chau
+- `/kinhtruongbo/` - Kinh Trường Bộ (Đại kinh)
+  - `/kinhtruongbo/bodhi/` - Bản gốc tiếng Anh của Bhikkhu Bodhi
+  - `/kinhtruongbo/bodhi-vi/` - Bản dịch tiếng Việt của Bodhi
+  - `/kinhtruongbo/thichminhchau/` - Bản dịch tiếng Việt của Thich Minh Chau
 
-- `/kinhtuongung/` - Samyutta Nikaya (Connected Discourses)
-  - `/kinhtuongung/bodhi/` - English original by Bhikkhu Bodhi
-  - `/kinhtuongung/bodhi-vi/` - Vietnamese translation of Bodhi
-  - `/kinhtuongung/thichminhchau/` - Vietnamese translation by Thich Minh Chau
+- `/kinhtuongung/` - Kinh Tương Ưng (Tương ưng kinh)
+  - `/kinhtuongung/bodhi/` - Bản gốc tiếng Anh của Bhikkhu Bodhi
+  - `/kinhtuongung/bodhi-vi/` - Bản dịch tiếng Việt của Bodhi
+  - `/kinhtuongung/thichminhchau/` - Bản dịch tiếng Việt của Thich Minh Chau
 
-## Getting Started
+## Bắt đầu
 
-Choose one of the following collections:
+Chọn một trong các bộ sưu tập sau:
 
 <div class="translation-grid">
   <div class="translation-card">
     <div class="translation-title">Kinh Trung Bộ</div>
-    <div class="translation-author">Majjhima Nikaya</div>
-    <p>Middle Length Discourses of the Buddha.</p>
-    <a href="/kinhtrungbo/">Browse Collection</a>
+    <div class="translation-author">Trung độ kinh</div>
+    <p>Kinh Trung Bộ của Đức Phật.</p>
+    <a href="/kinhtrungbo/">Khám phá Bộ sưu tập</a>
   </div>
-  
+
   <div class="translation-card">
     <div class="translation-title">Kinh Trường Bộ</div>
-    <div class="translation-author">Digha Nikaya</div>
-    <p>Long Discourses of the Buddha.</p>
-    <a href="/kinhtruongbo/">Browse Collection</a>
+    <div class="translation-author">Đại kinh</div>
+    <p>Kinh Trường Bộ của Đức Phật.</p>
+    <a href="/kinhtruongbo/">Khám phá Bộ sưu tập</a>
   </div>
-  
+
   <div class="translation-card">
     <div class="translation-title">Kinh Tương Ưng</div>
-    <div class="translation-author">Samyutta Nikaya</div>
-    <p>Connected Discourses of the Buddha.</p>
-    <a href="/kinhtuongung/">Browse Collection</a>
+    <div class="translation-author">Tương ưng kinh</div>
+    <p>Kinh Tương Ưng của Đức Phật.</p>
+    <a href="/kinhtuongung/">Khám phá Bộ sưu tập</a>
   </div>
 </div>
