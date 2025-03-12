@@ -1,56 +1,59 @@
 ---
-title: Kinh Trung Bộ - Bản dịch của Hòa Thượng Thích Minh Châu
+next:
+    text: 'Lời Giới Thiệu (Bản In Năm 1986)'
+    link: '/kinhtrungbo/thichminhchau/g2'
 ---
+# 1. Lời Nói Ðầu
 
-# Kinh Trung Bộ
+**GIỚI THIỆU TRUNG BỘ KINH**
 
-## Bản dịch của Hòa Thượng Thích Minh Châu
+***Hòa Thượng Thích Minh Châu***
 
-Đây là bộ sưu tập các bài kinh trung bình của Đức Phật, được dịch trực tiếp từ nguyên bản Pali sang tiếng Việt bởi Hòa Thượng Thích Minh Châu.
+## 1. Lời Nói Ðầu
+**(Trong Bản In lần Thứ Nhất Năm 1973)**
 
-## Về Dịch Giả
+- Tập ***Kinh Trung Bộ*** (Majjhima Nikàya) gồm 152 kinh tất cả, chia thành 3 tập : tập I, gồm 50 Kinh đầu, tập II gồm 50 Kinh tiếp và tập III, gồm 52 Kinh chót.
 
-**Hòa Thượng Thích Minh Châu** (1918-2012) là một học giả Phật giáo nổi tiếng của Việt Nam. Ngài là người Việt Nam đầu tiên đạt học vị Tiến sĩ Phật học tại Đại học Nalanda (Ấn Độ). Ngài đã dành cả đời để nghiên cứu và dịch thuật kinh điển Phật giáo từ Pali sang tiếng Việt, trong đó có toàn bộ Kinh Trung Bộ.
+- Sau khi dịch xong ***Kinh Trường Bộ*** (Digha Nikàya), Vu Lan 2516 (23-8-1972), tôi dịch tiếp Kinh
+Trung Bộ.
 
-## Đặc Điểm Bản Dịch
+Tôi dựa theo nguyên bản Pàli của Hội Pàli Text Society để phiên dịch và dùng ba bản dịch làm tài liệu.
+Tài liệu thứ nhất là những ghi chú bằng tiếng Anh và chữ Hán, tôi đã tự mình ghi vào bản Pàli, từng
+chữ, từng hàng, từng trang một, khi tôi theo học bản Pàli này, từ năm 1952 đến năm 1955 tại Hội
+Dharmaduta Vidhyalaya ở Colombo, Tích Lan, do Ngài Pannananda diễn giảng. Bản tài liệu thứ hai là
+bản dịch “The Middle Length Sayings” của Cô L. B. Horner, hội Pàli Text Society, một công trình dịch
+thuật rất chu toàn; và bản thứ ba là bản dịch ra tiếng Nhật của bộ Nam truyền Ðại Tạng Kinh. Thỉnh
+thoảng tôi tham khảo các bản kinh Hán Tạng tương đương nếu thấy cần thiết.
 
-Bản dịch của Hòa Thượng Thích Minh Châu nổi tiếng với sự chính xác và trung thành với nguyên bản Pali. Ngài đã cố gắng duy trì ý nghĩa gốc của các thuật ngữ Phật học, đồng thầm làm cho bản dịch dễ hiểu đối với người Việt Nam.
+Vấn đề tìm được Hán tự tương đương với chữ Pàli, thật là một vấn đề nan giải. Như biết Pancak
+Khandha là năm uẩn, Rùpa là Sắc, Vedanà là Thọ, Sannà là Tưởng, Sankhàrà là Hành và Vinnàna là
+Thức, thời dịch vừa gọn, vừa nhanh. Nhưng nếu gặp những danh từ chưa có chữ Hán tương đương là cả
+một vấn đề thật khó khăn và nan giải.
 
-<div class="translation-grid">
-  <div class="translation-card">
-    <a href="/kinhtrungbo/thichminhchau/g1">
-      <div class="translation-title">Lời giới thiệu</div>
-    </a>
-  </div>
-</div>
+Các bài Kinh chữ Hán tương đương trong bộ Trung A Hàm không giúp đỡ được nhiều. Ngài
+Sanghadeva (Tăng Già Ðề Bà) dịch Trung A Hàm vào năm 398 sau kỷ nguyên, nên nhiều danh từ Ngài
+dùng không được các dịch giả về sau như Ngài Huyền Trang chấp nhận. Như Vedana, Ngài Sanghadeva
+dịch là Giác, về sau dịch là Thọ; Savitakka, Savicara, Ngài dịch là Hữu giác, Hữu quán, về sau dịch là
+Hữu tầm, Hữu tứ; Phassa Ngài dịch là Cánh Lạc, về sau dịch là Xúc. Cho nên, bản Hán Tạng nhiều khi
+tối nghĩa và dễ phát sinh hiểu lầm, nếu chúng ta không có bản Pàli tương đương.
 
+Chúng tôi dịch Kinh Pàli, không vì mục đích muốn ủng hộ hay không muốn ủng hộ một học phái nào,
+một lập trường nào. Mục đích của chúng tôi chỉ muốn giới thiệu những Kinh điển có thể được xem là
+nguyên thủy hay gần nguyên thủy nhất, để người đọc có thể tìm hiểu lời dạy chân chính của đức Phật,
+khỏi qua ống kính của một học phái nào, dầu là Ấn Ðộ, Trung Hoa hay Việt Nam. Chúng tôi cũng
+không có trách nhiệm nêu lên cho độc giả rõ, đoạn nào là nguyên thủy, đoạn nào không phải nguyên
+thủy. Chỉ có người đọc, sau khi tự mình đọc, từ mình tìm hiểu, tự mình suy tư, tự mình quan sát, tự mình
+chứng nghiệm trên bản thân, mới có thể tự mình tìm hiểu và thấy đoạn nào là thật sự nguyên thủy. Trách
+nhiệm tìm hiểu, chứng nghiệm cá nhân là trách nhiệm của người đọc, không phải của người dịch, vì Ðạo
+Phật là *Ðạo đến để mà thấy* chớ không phải Ðạo đến để nhờ người thấy hộ, *Ðạo của người có mắt*
+(Cakkhumato), không phải Ðạo của người nhắm mắt; *Ðạo của người thấy, của người biết* (Passato
+Jànato), không phải là Ðạo của người không thấy, không biết (Apassato Ajànato). Nên chỉ có người đọc
+mới có thể tự mình thấy, tự mình hiểu và tự mình chứng nghiệm.
 
+Thật sự chúng ta chỉ có một trách nhiệm, tìm đọc và tìm hiểu những lời Phật dạy thật sự là những lời
+dạy của đức Phật, và vì trách nhiệm ấy chúng tôi đã cố gắng phiên dịch Kinh Tạng Pàli ra Việt ngữ.
+Chúng ta chỉ cần đọc, cần suy tư chính chắn và rồi chính chúng ta tự ý thức đâu là những lời dạy trung
+thực của đức Bổn sư chúng ta.
 
-## So Sánh Các Bản Dịch
+***Tỷ Kheo*** ***Thích Minh Châu***
 
-Để so sánh bản dịch này với các bản dịch tiếng Việt khác, hãy truy cập [trang so sánh](/compare/kinhtrungbo/).
-
-<div class="next-chapter-link">
-  <a href="/kinhtrungbo/thichminhchau/1">Bắt đầu đọc: Chương 1 - Kinh Pháp Môn Căn Bản</a>
-</div>
-
-<style>
-.next-chapter-link {
-  margin-top: 2rem;
-  padding: 1rem;
-  background-color: #f3f4f6;
-  border-radius: 0.5rem;
-  text-align: center;
-}
-
-.next-chapter-link a {
-  font-weight: bold;
-  font-size: 1.1rem;
-  color: #3b82f6;
-  text-decoration: none;
-}
-
-.next-chapter-link a:hover {
-  text-decoration: underline;
-}
-</style>

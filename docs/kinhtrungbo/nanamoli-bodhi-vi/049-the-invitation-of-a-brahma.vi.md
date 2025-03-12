@@ -1,4 +1,4 @@
-**#49. Lời Thỉnh Cầu Của Một Phạm Thiên**
+# 49. Lời Thỉnh Cầu Của Một Phạm Thiên
 
 [326] 1. NHƯ VẦY TÔI NGHE. Một thời nọ,
 Thế Tôn trú ở Sāvatthī, tại khu rừng Jeta,

@@ -1,4 +1,4 @@
-**43. Loạt Câu Hỏi và Trả Lời Mở Rộng**
+# 43. Loạt Câu Hỏi và Trả Lời Mở Rộng
 
 [292] 1. TÔI NGHE NHƯ VẦY. Một thời,
 Thế Tôn trú ở Sāvatthī (Xá Vệ), tại khu rừng Jeta,

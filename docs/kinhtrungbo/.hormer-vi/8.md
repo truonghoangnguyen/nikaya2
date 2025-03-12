@@ -1,0 +1,1154 @@
+# 8. Discourse on Expunging
+
+## Sallekha Sutta
+
+#### THUS have I heard:
+
+ At one time the Lord was staying near Sāvatthī in the Jeta Grove in Anāthapiṇḍika's monastery.
+
+ Then the venerable Cunda the Great,[1]
+ emerging towards evening from solitary meditation,
+ approached the Lord;
+ having approached,
+ having greeted the Lord,
+ he sat down at a respectful distance.
+
+ As he was sitting down at a respectful distance
+ the venerable Cunda the Great spoke thus to the Lord:
+
+ "Those various types of views,[2] Lord,
+ that arise in the world
+ and are connected with theories of the self
+ or with theories of the world,
+ does there come to be ejection of these views,
+ does there come to be renunciation of these views
+ for a monk who wisely reflects from the beginning?"
+
+ [52] "Those various types of views, Cunda,
+ that arise in the world
+ and are connected with theories of the self
+ or with theories of the world  wherever these views arise
+ and wherever they obsess (the mind)
+ and wherever they are current,
+ it is by seeing them with perfect wisdom
+ as they really are,
+ thus:
+
+ 'This is not mine,[3]
+ this am I not,[4]
+ this is not my self,'[5]
+ that there is ejection of these views,
+ that there is renunciation of these views.
+
+ The situation occurs, Cunda,
+ when a monk here,
+ aloof from pleasures of the senses,
+ aloof from unskilled states of mind,
+ may enter on and abide in the first meditation
+ which is accompanied by initial thought and discursive thought,
+ is born of aloofness,
+ and is rapturous and joyful.
+ It may occur to him:
+
+ 'I fare along[6] by expunging.'
+
+ But these,[7] Cunda, are not called expungings
+ in the discipline for an ariyan;
+ these are called:
+ 'abidings in ease here-now'
+ in the discipline for an ariyan.
+
+ ■
+
+ This situation occurs, Cunda,
+ when some monk here,
+ by allaying initial thought and discursive thought,
+ with the mind subjectively tranquillised
+ and fixed on one point,
+ may enter on
+ and abide in
+ the second meditation
+ which is devoid of initial and discursive thought,
+ is born of concentration,
+ and is rapturous and joyful.
+
+ It may occur to him:
+
+ 'I fare along by expunging.'
+
+ But these, Cunda, are not called expungings
+ in the discipline for an ariyan;
+ these are called
+ 'abidings in ease here-now'
+ in the discipline for an ariyan.
+
+ ■
+ This situation occurs, Cunda,
+ when some monk here,
+ by the fading out of rapture,
+ may abide with equanimity,
+ attentive,
+ and clearly conscious,
+ and may experience in his person
+ that joy of which the ariyans say:
+
+ 'Joyful lives he
+ who has equanimity and is mindful,'
+
+ and may enter on
+ and abide in
+ the third meditation.
+
+ It may occur to him:
+
+ 'I fare along by expunging.'
+
+ But these, Cunda, are not called expungings
+ in the discipline for an ariyan;
+ these are called:
+ 'abidings in ease here-now'
+ in the discipline for an ariyan.
+
+ ■
+
+ This situation occurs, Cunda,
+ when some monk here,
+ by getting rid of joy,
+ by getting rid of anguish,
+ by the going down of his former pleasures and sorrows,
+ may enter on
+ and abide in
+ the fourth meditation
+ which has neither anguish nor joy,
+ and that is entirely purified
+ by equanimity and mindfulness.
+
+ It may occur to him:
+
+ [53] 'I fare along by expunging.'
+
+ But these, Cunda, are not called expungings
+ in the discipline for an ariyan;
+ these are called:
+ 'abidings in ease here-now'
+ in the discipline for an ariyan.
+
+ ■
+
+ This situation occurs, Cunda,
+ when some monk here,
+ by wholly transcending perceptions of material shapes,
+ by the going down of perceptions
+ due to sensory impressions,
+ by not reflecting on the perceptions of multiformity,
+ thinking:
+
+ 'Ether is unending,'
+
+ may enter on
+ and abide in
+ the plane of infinite ether.[8]
+
+ It may occur to him:
+
+ 'I fare along by expunging.'
+
+ But these, Cunda, are not called expungings
+ in the discipline for an ariyan;
+ these are called:
+ 'abidings that are peaceful'[9]
+ in the discipline for an ariyan.
+
+ ■
+
+ This situation occurs, Cunda,
+ when some monk here,
+ by wholly transcending the plane of infinite ether,
+ thinking:
+
+ 'Consciousness is unending,'
+
+ may enter on
+ and abide in
+ the plane of infinite consciousness.
+
+ It may occur to him:
+
+ 'I fare along by expunging.'
+
+ But these, Cunda, are not called expungings
+ in the discipline for an ariyan;
+ these are called:
+ 'abidings that are peaceful'
+ in the discipline for an ariyan.
+
+ ■
+
+ This situation occurs, Cunda,
+ when some monk here,
+ by wholly transcending the plane of infinite consciousness,
+ thinking:
+
+ 'There is no-thing,'
+
+ may enter on
+ and abide in
+ the plane of no-thing.
+
+ It may occur to him:
+
+ 'I fare along by expunging.'
+
+ But these, Cunda, are not called expungings
+ in the discipline for an ariyan;
+ these are called:
+ 'abidings that are peaceful'
+ in the discipline for an ariyan.
+
+ ■
+
+ This situation occurs, Cunda,
+ when some monk here,
+ by wholly transcending the plane of no-thing,
+ may enter on
+ and abide in
+ the plane of neither-perception-nor-non-perception.
+
+ It may occur to him:
+
+ 'I fare along by expunging.'
+
+ But these, Cunda, are not called expungings
+ in the discipline for an ariyan;
+ these are called:
+ 'abidings that are peaceful'
+ in the discipline for an ariyan.
+ Herein, Cunda,
+ is expunging to be done by you,
+ thinking:
+
+ [1] 'Others may be harmful;
+ we, as to this,
+ will not be harmful'  so is expunging to be done.
+
+ [2] 'Others may be those to make onslaught on creatures;
+ we, as to this,
+ will be those who are restrained
+ from making onslaught on creatures'  so is expunging to be done.
+
+ [3] 'Others may be takers of what is not given;
+ we, as to this,
+ will be restrained from taking what is not given'  so is expunging to be done.
+
+ [4] 'Others may be non-Brahma-farers;
+ we, as to this will be Brahma-farers'[10]  so is expunging to be done.
+
+ [5] 'Others may be [54] speakers of lies;
+ we, as to this,
+ will be restrained from lying speech'  so is expunging to be done.
+
+ [6] 'Others may be of harsh speech;
+ we, as to this,
+ will be restrained from harsh speech'  so is expunging to be done.
+
+ [7] 'Others may be of rough speech;
+ we, as to this,
+ will be restrained from rough speech'  so is expunging to be done.
+
+ [8] 'Others may be of frivolous speech;
+ we, as to this,
+ will be restrained from frivolous speech'  so is expunging to be done.
+
+ [9] 'Others may be covetous;
+ we, as to this,
+ will be non-covetous'  so is expunging to be done.
+
+ [10] 'Others may be corrupt in mind;
+ we, as to this,
+ will be incorrupt in mind.'  so is expunging to be done.
+
+ [11] 'Others may be of wrong view;
+ we, as to this,
+ will be of perfect view'  so is expunging to be done.
+
+ [12] 'Others may be of wrong thoughts;
+ we, as to this,
+ will be of perfect thoughts'  so is expunging to be done.
+
+ [13] 'Others may be of wrong speech;
+ we, as to this,
+ will be of perfect speech'  so is expunging to be done.
+
+ [14] 'Others may be of wrong activity;
+ we, as to this,
+ will be of perfect activity'  so is expunging to be done.
+ [15] 'Others may be of a wrong way of living;
+ we, as to this,
+ will be of perfect way of living'  so is expunging to be done.
+
+ [16] 'Others may be of wrong endeavour;
+ we, as to this,
+ will be of perfect endeavour'  so is expunging to be done.
+
+ [17] 'Others may be of wrong mindfulness;
+ we, as to this,
+ will be of perfect mindfulness'  so is expunging to be done.
+
+ [18] 'Others may be of wrong concentration;
+ we, as to this,
+ will be of perfect concentration'  so is expunging to be done.
+
+ [19] 'Others may be of wrong knowledge;
+ we, as to this,
+ will be of perfect knowledge'  so is expunging to be done.
+
+ [20] 'Others may be of wrong freedom;
+ we, as to this,
+ will be of perfect freedom'  so is expunging to be done.
+
+ [21] 'Others may be encompassed by sloth and torpor;
+ we, as to this,
+ will be without sloth and torpor  so is expunging to be done.
+
+ [22] Others may be puffed up;
+ we, as to this,
+ will not be puffed up'  so is expunging to be done.
+
+ [23] Others may be doubtful;
+ we, as to this,
+ will be crossed over doubt'  so is expunging to be done.
+
+ [24] Others may be wrathful;
+ we, as to this,
+ will be without wrath'  so is expunging to be done.
+
+ [25] Others may be rancorous;
+ we, as to this,
+ will not be rancorous  so is expunging to be done.
+
+ [26] Others may be harsh;
+ we, as to this,
+ will not be harsh  so is expunging to be done.
+
+ [27] Others may be spiteful;
+ we, as to this,
+ will be without spite'  so is expunging to be done.
+
+ [28] Others may be envious;
+ we, as to this,
+ will be without envy  so is expunging to be done.
+
+ [29] Others may be grudging;
+ we, as to this,
+ will be not grudging'  so is expunging to be done.
+ [30] Others may be treacherous;
+ we, as to this,
+ will be not treacherous'  so is expunging to be done.
+
+ [31] Others may be deceitful;
+ we, as to this,
+ will be not deceitful  so is expunging to be done.
+
+ [32] Others may be stubborn;
+ we, as to this,
+ will be not stubborn  so is expunging to be done.
+
+ [33] Others may be proud;
+ we, as to this,
+ will be not proud  so is expunging to be done.
+
+ [34] Others may be difficult to speak to;[11];
+ we, as to this,
+ will be easy to speak to  so is expunging to be done.
+
+ [35] Others may be friends of those who are evil;[12]
+ we, as to this,
+ will be friends of those who are lovely'[13]  so is expunging to be done.
+
+ [36] 'Others may be indolent;
+ we, as to this,
+ will be diligent'  so is expunging to be done.
+ [37] 'Others may be lacking in faith;[14]
+ we, as to this,
+ will be of faith'  so is expunging to be done.
+
+ [38] Others may be shameless;[14]
+ we, as to this,
+ will feel shame'  so is expunging to be done.
+
+ [39] Others may be reckless;[14]
+
+ [55] we, as to this,
+ will be cautious'  so is expunging to be done.
+
+ [40] Others may be those who have heard little;
+ we, as to this,
+ will have heard much'  so is expunging to be done.
+
+ [41] Others may be lazy;[15]
+ we, as to this,
+ will be of stirred up energy'  so is expunging to be done.
+
+ [42] Others may be of muddled mindfulness;
+ we, as to this,
+ will be those with mindfulness set up before us.'  so is expunging to be done.
+
+ [43] Others may be weak in wisdom;
+ we, as to this,
+ will be endowed with wisdom'  so is expunging to be done.
+ [44] Others may seize the temporal,
+ grasping it tightly,
+ not letting go of it easily;[16]
+ we, as to this,
+ will not seize the temporal,
+ not grasping it tightly,
+ letting go of it easily'  so is expunging to be done.
+
+ Now I, Cunda, say that the arising of thought
+ is very helpful in regard to skilled states (of mind),
+ not to speak of gesture and speech
+ that are in conformity (with thought).
+
+ Therefore, Cunda,
+ the thought should arise:
+
+ [1] 'Others may be harmful;
+ we, as to this,
+ will not be harmful.'
+
+ The thought should arise:
+
+ [2] 'Others may be those to make onslaught on creatures;
+ we, as to this,
+ will be those who are restrained
+ from making onslaught on creatures.'
+
+ The thought should arise:
+
+ [3] 'Others may be takers of what is not given;
+ we, as to this,
+ will be restrained from taking what is not given.'
+
+ The thought should arise:
+
+ [4] 'Others may be non-Brahma-farers;
+ we, as to this will be Brahma-farers.'
+
+ The thought should arise:
+
+ [5] 'Others may be speakers of lies;
+ we, as to this,
+ will be restrained from lying speech.'
+
+ The thought should arise:
+
+ [6] 'Others may be of harsh speech;
+ we, as to this,
+ will be restrained from harsh speech.'
+
+ The thought should arise:
+
+ [7] 'Others may be of rough speech;
+ we, as to this,
+ will be restrained from rough speech.'
+
+ The thought should arise:
+
+ [8] 'Others may be of frivolous speech;
+ we, as to this,
+ will be restrained from frivolous speech.'
+
+ The thought should arise:
+
+ [9] 'Others may be covetous;
+ we, as to this,
+ will be non-covetous.'
+
+ The thought should arise:
+ [10] 'Others may be corrupt in mind;
+ we, as to this,
+ will be incorrupt in mind..'
+
+ The thought should arise:
+
+ [11] 'Others may be of wrong view;
+ we, as to this,
+ will be of perfect view.'
+
+ The thought should arise:
+
+ [12] 'Others may be of wrong thoughts;
+ we, as to this,
+ will be of perfect thoughts.'
+
+ The thought should arise:
+
+ [13] 'Others may be of wrong speech;
+ we, as to this,
+ will be of perfect speech.'
+
+ The thought should arise:
+
+ [14] 'Others may be of wrong activity;
+ we, as to this,
+ will be of perfect activity.'
+
+ The thought should arise:
+
+ [15] 'Others may be of a wrong way of living;
+ we, as to this,
+ will be of perfect way of living.'
+
+ The thought should arise:
+
+ [16] 'Others may be of wrong endeavour;
+ we, as to this,
+ will be of perfect endeavour.'
+
+ The thought should arise:
+
+ [17] 'Others may be of wrong mindfulness;
+ we, as to this,
+ will be of perfect mindfulness.'
+
+ The thought should arise:
+
+ [18] 'Others may be of wrong concentration;
+ we, as to this,
+ will be of perfect concentration.'
+
+ The thought should arise:
+
+ [19] 'Others may be of wrong knowledge;
+ we, as to this,
+ will be of perfect knowledge.'
+
+ The thought should arise:
+
+ [20] 'Others may be of wrong freedom;
+ we, as to this,
+ will be of perfect freedom.'
+
+ The thought should arise:
+
+ [21] 'Others may be encompassed by sloth and torpor;
+ we, as to this,
+ will be without sloth and torpor.'
+
+ The thought should arise:
+
+ [22] 'Others may be puffed up;
+ we, as to this,
+ will not be puffed up.'
+ The thought should arise:
+
+ [23] 'Others may be doubtful;
+ we, as to this,
+ will be crossed over doubt.'
+
+ The thought should arise:
+
+ [24] 'Others may be wrathful;
+ we, as to this,
+ will be without wrath.'
+
+ The thought should arise:
+
+ [25] 'Others may be rancorous;
+ we, as to this,
+ will not be rancorous.'
+
+ The thought should arise:
+
+ [26] 'Others may be harsh;
+ we, as to this,
+ will not be harsh.'
+
+ The thought should arise:
+
+ [27] 'Others may be spiteful;
+ we, as to this,
+ will be without spite.'
+
+ The thought should arise:
+
+ [28] 'Others may be envious;
+ we, as to this,
+ will be without envy.'
+
+ The thought should arise:
+ [29] 'Others may be grudging;
+ we, as to this,
+ will be not grudging.'
+
+ The thought should arise:
+
+ [30] 'Others may be treacherous;
+ we, as to this,
+ will be not treacherous.'
+
+ The thought should arise:
+
+ [31] 'Others may be deceitful;
+ we, as to this,
+ will be not deceitful.'
+
+ The thought should arise:
+
+ [32] 'Others may be stubborn;
+ we, as to this,
+ will be not stubborn.'
+
+ The thought should arise:
+
+ [33] 'Others may be proud;
+ we, as to this,
+ will be not proud.'
+
+ The thought should arise:
+
+ [34] 'Others may be difficult to speak to;
+ we, as to this,
+ will be easy to speak to.'
+
+ The thought should arise:
+
+ [35] 'Others may be friends of those who are evil;
+ we, as to this,
+ will be friends of those who are lovely.'
+
+ The thought should arise:
+
+ [36] 'Others may be indolent;
+ we, as to this,
+ will be diligent.'
+
+ The thought should arise:
+
+ [37] 'Others may be lacking in faith;
+ we, as to this,
+ will be of faith.'
+
+ The thought should arise:
+
+ [38] 'Others may be shameless;
+ we, as to this,
+ will feel shame.'
+
+ The thought should arise:
+
+ [39] 'Others may be reckless; we, as to this,
+ will be cautious.'
+
+ The thought should arise:
+
+ [40] 'Others may be those who have heard little;
+ we, as to this,
+ will have heard much.'
+
+ The thought should arise:
+
+ [41] 'Others may be lazy;
+ we, as to this,
+ will be of stirred up energy.'
+
+ The thought should arise:
+ [42] 'Others may be of muddled mindfulness;
+ we, as to this,
+ will be those with mindfulness set up before us..'
+
+ The thought should arise:
+
+ [43] 'Others may be weak in wisdom;
+ we, as to this,
+ will be endowed with wisdom' .'
+
+ The thought should arise:
+
+ [44] 'Others may seize the temporal,
+ grasping it tightly,
+ not letting go of it easily;
+ we, as to this,
+ will not seize the temporal,
+ not grasping it tightly,
+ letting go of it easily.'
+
+ Cunda, like an uneven road
+ although there may be another even road
+ for going by;
+ and, Cunda, like an uneven ford
+ although there may be another even ford
+ for going by;
+ even so, Cunda,
+
+ [1] there is non-harming
+ for a harmful individual to go by;
+ [2] there is restraint from onslaught on creatures
+ for an individual to go by who makes onslaught on creatures;
+
+ [3] there is restraint from taking what is not given
+ for an individual to go by who is a taker of what is not given;
+
+ [4] there is the Brahma-faring to go by
+ for an individual to go by who is a non-Brahma-farer;
+
+ [5] there is restraint from lying speech to go by
+ for an individual to go by who is of lying speech;
+
+ [6] there is restraint from harsh speech to go by
+ for an individual to go by who is of harsh speech;
+
+ [7] there is restraint from rough speech to go by
+ for an individual to go by who is of rough speech;
+
+ [8] there is restraint from frivolous speech to go by
+ for an individual to go by who is of frivolous speech;
+
+ [9] there is non-coveting to go by
+ for an individual to go by who is covetous;
+
+ [10] there is in-corruption of mind to go by
+ for an individual to go by who is corrupt in mind;
+
+ ■
+
+ [11] there is perfect view to go by
+ for an individual to go by who is of wrong view;
+
+ [12] there is perfect thought to go by
+ for an individual to go by who is of wrong thought;
+
+ [13] there is perfect speech to go by
+ for an individual to go by who is of wrong speech;
+ [14] there is perfect activity to go by
+ for an individual to go by who is of wrong activity;
+
+ [15] there is perfect way of living to go by
+ for an individual to go by who is of wrong way of living;
+
+ [16] there is perfect endeavour to go by
+ for an individual to go by who is of wrong endeavour;
+
+ [17] there is perfect mindfulness to go by
+ for an individual to go by who is of wrong mindfulness;
+
+ [18] there is perfect concentration to go by
+ for an individual to go by who is of wrong concentration;
+
+ [19] there is perfect knowledge to go by
+ for an individual to go by who is of wrong knowledge;
+
+ [20] there is perfect freedom to go by
+ for an individual to go by who is wrong freedom;
+
+ ■
+
+ [21] there is being without sloth and torpor to go by
+ for an individual to go by who is encompassed by sloth and torpor;
+
+ [22] there is not being puffed up to go by
+ for an individual to go by who is puffed up;
+
+ [23] there is being crossed over doubt to go by
+ for an individual to go by who is doubtful;
+
+ [24] there is being without wrath to go by
+ for an individual to go by who is wrathful;
+
+ [25] there is non-rancour to go by
+ for an individual to go by who is rancorous;
+ [26] there is non-disparagement[ed1] to go by
+ for an individual to go by who is disparaging;
+
+ [27] there is non-spite to go by
+ for an individual to go by who is spiteful;
+
+ [28] there is non-jealousy to go by
+ for an individual to go by who is jealous;
+
+ [29] there is non-miserliness to go by
+ for an individual to go by who is miserly;
+
+ [30] there is non-treachery to go by
+ for an individual to go by who is treacherous;
+
+ [31] there is non-deceit to go by
+ for an individual to go by who is deceitful;
+
+ [32] there is non-stubbornness to go by
+ for an individual to go by who is stubborn;
+
+ [33] there is non-pride to go by
+ for an individual to go by who is proud;
+
+ [34] there is ease of being spoken to to go by
+ for an individual to go by who is difficult to speak to;
+
+ [35] there is friendship with those who are lovely to go by
+ for an individual to go by who is friends of those who are evil;
+
+ [36] there is diligence to go by
+ for an individual to go by who is indolent;
+
+ [37] there is faith to go by
+ for an individual to go by who is lacking in faith;
+ [38] there is shame to go by
+ for an individual to go by who is shameless;
+
+ [39] there is caution to go by
+ for an individual to go by who is reckless;
+
+ [40] there is having heard much to go by
+ for an individual to go by who has heard little;
+
+ [41] there is stirred up [56] energy to go by
+ for an individual to go by who is lazy;
+
+ [42] there is setting up mindfulness before one to go by
+ for an individual to go by who is of muddled mindfulness;
+
+ [43] there is endowment with wisdom to go by
+ for an individual to go by who is weak in wisdom;
+
+ [44] there is there is not seizing the temporal,
+ not grasping it tightly,
+ letting it go easily
+ for the individual to go by
+ who seizes the temporal,
+ grasps it tightly,
+ letting go of it with difficulty.
+
+ Cunda, as every unskilled state (of mind) leads downwards,
+ as every skilled state (of mind) leads upwards,
+ even so, Cunda,
+
+ [1] does non-harming come to be a higher state
+ for an individual who is harmful;
+ [2] does restraint from onslaught on creatures come to be a higher state
+ for an individual who makes onslaught on creatures;
+
+ [3] does restraint from taking what is not given come to be a higher state
+ for an individual who is a taker of what is not given;
+
+ [4] does the Brahma-faring come to be a higher state
+ for an individual who is a non-Brahma-farer;
+
+ [5] does restraint from lying speech come to be a higher state
+ for an individual who is of lying speech;
+
+ [6] does restraint from harsh speech come to be a higher state
+ for an individual who is of harsh speech;
+
+ [7] does restraint from rough speech come to be a higher state
+ for an individual who is of rough speech;
+
+ [8] does restraint from frivolous speech come to be a higher state
+ for an individual who is of frivolous speech;
+
+ [9] does non-coveting come to be a higher state
+ for an individual who is covetous;
+
+ [10] does in-corruption of mind come to be a higher state
+ for an individual who is corrupt in mind;
+
+ [11] does perfect view come to be a higher state
+ for an individual who is of wrong view;
+
+ [12] does perfect thought come to be a higher state
+ for an individual who is of wrong thought;
+
+ [13] does perfect speech come to be a higher state
+ for an individual who is of wrong speech;
+
+ [14] does perfect activity come to be a higher state
+ for an individual who is of wrong activity;
+ [15] does perfect way of living come to be a higher state
+ for an individual who is of wrong way of living;
+
+ [16] does perfect endeavour come to be a higher state
+ for an individual who is of wrong endeavour;
+
+ [17] does perfect mindfulness come to be a higher state
+ for an individual who is of wrong mindfulness;
+
+ [18] does perfect concentration come to be a higher state
+ for an individual who is of wrong concentration;
+
+ [19] does perfect knowledge come to be a higher state
+ for an individual who is of wrong knowledge;
+
+ [20] does perfect freedom come to be a higher state
+ for an individual who is of wrong freedom;
+
+ [21] does being without sloth and torpor come to be a higher state
+ for an individual who is encompassed by sloth and torpor;
+
+ [22] does not being puffed up come to be a higher state
+ for an individual who is puffed up;
+
+ [23] does being crossed over doubt come to be a higher state
+ for an individual who is doubtful;
+
+ [24] does being without wrath come to be a higher state
+ for an individual who wrathful;
+
+ [25] does non-rancour come to be a higher state
+ for an individual who is rancorous;
+
+ [26] does non-disparagement come to be a higher state
+ for an individual who is disparaging;
+
+ [27] does non-spite come to be a higher state
+ for an individual who is spiteful;
+ [28] does non-jealousy come to be a higher state
+ for an individual who is jealous;
+
+ [29] does non-miserliness come to be a higher state
+ for an individual who is miserly;
+
+ [30] does non-treachery come to be a higher state
+ for an individual who is treacherous;
+
+ [31] does non-deceit come to be a higher state
+ for an individual who is deceitful;
+
+ [32] does non-stubbornness come to be a higher state
+ for an individual who is stubborn;
+
+ [33] does non-pride come to be a higher state
+ for an individual who is proud;
+
+ [34] does ease of being spoken to come to be a higher state
+ for an individual who is difficult to speak to;
+
+ [35] does friendship with those who are lovely come to be a higher state
+ for an individual who is friends of those who are evil;
+
+ [36] does diligence come to be a higher state
+ for an individual who is indolent;
+
+ [37] does faith come to be a higher state
+ for an individual who is lacking in faith;
+
+ [38] does shame come to be a higher state
+ for an individual who is shameless;
+
+ [39] does caution come to be a higher state
+ for an individual who is reckless;
+
+ [40] does having heard much come to be a higher state
+ for an individual who has heard little;
+ [41] does stirred up energy come to be a higher state
+ for an individual who is lazy;
+
+ [42] does setting up mindfulness before one come to be a higher state
+ for an individual who is of muddled mindfulness;
+
+ [43] does endowment with wisdom come to be a higher state
+ for an individual who is weak in wisdom;
+
+ [44] does not seizing the temporal,
+ not grasping it tightly,
+ letting it go easily
+ come to be a higher state
+ for an individual who seizes the temporal,
+ grasps it tightly,
+ letting go of it with difficulty.
+
+ This situation does not occur, Cunda,
+ when one sunk into mud
+ will by himself
+ pull out another
+ who is sunk into mud.
+
+ But this situation occurs, Cunda,
+ when one not sunk into mud
+ will by himself
+ pull out another
+ who is sunk into mud.
+
+ This situation does not occur, Cunda,
+ when one who is not tamed,
+ not trained,
+ not utterly quenched,[17]
+ will by himself tame,
+ train,
+ make another utterly quenched.
+
+ But this situation occurs, Cunda,
+ when one who is tamed,
+ trained,
+ utterly quenched,
+ will by himself
+ tame,
+ train,
+ make another utterly quenched.
+
+ ■
+
+ Even so, Cunda,
+
+ [1] there is non-harming by means of utter quenching
+ for an individual who is harmful;
+
+ [2] there is restraint from onslaught on creatures by means of utter quenching
+ for an individual who makes onslaught on creatures;
+
+ [3] there is restraint from taking what is not given by means of utter quenching
+ for an individual who is a taker of what is not given;
+
+ [4] there is the Brahma-faring by means of utter quenching
+ for an individual who is a non-Brahma-farer;
+
+ [5] there is restraint from lying speech by means of utter quenching
+ for an individual who is of lying speech;
+
+ [6] there is restraint from harsh speech by means of utter quenching
+ for an individual who is of harsh speech;
+ [7] there is restraint from rough speech by means of utter quenching
+ for an individual who is of rough speech;
+
+ [8] there is restraint from frivolous speech by means of utter quenching
+ for an individual who is of frivolous speech;
+
+ [9] there is non-coveting by means of utter quenching
+ for an individual who is covetous;
+
+ [10] there is in-corruption of mind by means of utter quenching
+ for an individual who is corrupt in mind;
+
+ [11] there is perfect view by means of utter quenching
+ for an individual who is of wrong view;
+
+ [12] there is perfect thought by means of utter quenching
+ for an individual who is of wrong thought;
+
+ [13] there is perfect speech by means of utter quenching
+ for an individual who is of wrong speech;
+
+ [14] there is perfect activity by means of utter quenching
+ for an individual who is of wrong activity;
+
+ [15] there is perfect way of living by means of utter quenching
+ for an individual who is of wrong way of living;
+
+ [16] there is perfect endeavour by means of utter quenching
+ for an individual who is of wrong endeavour;
+
+ [17] there is perfect mindfulness by means of utter quenching
+ for an individual who is of wrong mindfulness;
+
+ [18] there is perfect concentration by means of utter quenching
+ for an individual who is of wrong concentration;
+
+ [19] there is perfect knowledge by means of utter quenching
+ for an individual who is of wrong knowledge;
+ [20] there is perfect freedom by means of utter quenching
+ for an individual who is of wrong freedom;
+
+ [21] there is being without sloth and torpor by means of utter quenching
+ for an individual who is encompassed by sloth and torpor;
+
+ [22] there is not being puffed up by means of utter quenching
+ for an individual who is puffed up;
+
+ [23] there is being crossed over doubt by means of utter quenching
+ for an individual who is doubtful;
+
+ [24] there is being without wrath by means of utter quenching
+ for an individual who wrathful;
+
+ [25] there is non-rancour by means of utter quenching
+ for an individual who is rancorous;
+
+ [26] there is non-disparagement by means of utter quenching
+ for an individual who is disparaging;
+
+ [27] there is non-spite by means of utter quenching
+ for an individual who is spiteful;
+
+ [28] there is non-jealousy by means of utter quenching
+ for an individual who is jealous;
+
+ [29] there is non-miserliness by means of utter quenching
+ for an individual who is miserly;
+
+ [30] there is non-treachery by means of utter quenching
+ for an individual who is treacherous;
+
+ [31] there is non-deceit by means of utter quenching
+ for an individual who is deceitful;
+
+ [32] there is non-stubbornness by means of utter quenching
+ for an individual who is stubborn;
+ [33] there is non-pride by means of utter quenching
+ for an individual who is proud;
+
+ [34] there is ease of being spoken to by means of utter quenching
+ for an individual who is difficult to speak to;
+
+ [35] there is friendship with those who are lovely by means of utter quenching
+ for an individual who is friends of those who are evil;
+
+ [36] there is diligence by means of utter quenching
+ for an individual who is indolent;
+
+ [37] there is faith by means of utter quenching
+ for an individual who is lacking in faith;
+
+ [38] there is shame by means of utter quenching
+ for an individual who is shameless;
+
+ [39] there is caution by means of utter quenching
+ for an individual who is reckless;
+
+ [40] there is having heard much by means of utter quenching
+ for an individual who has heard little;
+
+ [41] there is stirred up energy by means of utter quenching
+ for an individual who is lazy;
+
+ [42] there is setting up mindfulness before one by means of utter quenching
+ for an individual who is of muddled mindfulness;
+
+ [43] there is endowment with wisdom by means of utter quenching
+ for an individual who is weak in wisdom;
+
+ [44] there is not seizing the temporal,
+ not grasping it tightly,
+ letting it go easily
+ come to be a higher state
+ for an individual who seizes the temporal,
+ grasps it tightly,
+ letting go of it with difficulty.
+
+ In this manner, Cunda, is taught by me
+ the disquisition on expunging,
+ is taught the disquisition on the uprising of thought,
+ is taught the disquisition on going by,
+ is taught the disquisition on upwards,
+ is taught the disquisition on utter quenching.
+
+ Whatever, Cunda, is to be done
+ from compassion
+ by a teacher seeking the welfare of his disciples,
+ that has been done by me
+ out of compassion for you.
+
+ These, Cunda, are the roots of trees,[18]
+ these are empty [57] places.[19]
+
+ Meditate, Cunda;
+ do not be slothful;
+ be not remorseful later.
+
+ This is our instruction to you."[20]
+
+ Thus spoke the Lord.
+
+ Delighted, the venerable Cunda rejoiced in what the Lord had said.
+
+ Discourse on Expunging: the Eighth
+
+
+-----

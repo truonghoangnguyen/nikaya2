@@ -20,4 +20,4 @@ This is the collection of Middle Length Discourses of the Buddha, translated fro
 
 ## Compare Translations
 
-To compare this translation with Vietnamese translations, visit the [comparison page](/compare/kinhtrungbo/).
+To compare this translation with Vietnamese translations, visit the [comparison page](/kinhtrungbo/c-nm-tmc-vi/).

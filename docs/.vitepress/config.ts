@@ -1,7 +1,8 @@
 import { defineConfig } from 'vitepress'
 import footnote from 'markdown-it-footnote';
 import thichminhchau from '../kinhtrungbo/thichminhchau/filelist';
-import nanamoli_bodhi from '../kinhtrungbo/nanamoli-bodhi/filelist';
+import nanamoli_bodhi_en from '../kinhtrungbo/nanamoli-bodhi-en/filelist';
+import nanamoli_bodhi_vi from '../kinhtrungbo/nanamoli-bodhi-vi/filelist';
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -17,17 +18,17 @@ export default defineConfig({
       // Any other markdown-it plugins you're using
     }
   },
-  ignoreDeadLinks: true,
+  // ignoreDeadLinks: true,
   // Transform page data to add automatic next/previous links
   transformPageData(pageData) {
     const relativePath = pageData.relativePath;
-    const authors = ['thichminhchau', 'nanamoli-bodhi']; // Define the list of authors
+    const supportBooks = ['thichminhchau', 'nanamoli-bodhi-vi', 'nanamoli-bodhi-en' ]; // Define the list of authors
 
     // 1. Check if the path contains any of the authors
-    const currentAuthor = authors.find(author => relativePath.includes(author));
-
-    if (currentAuthor) {
-      console.log('currentAuthor', currentAuthor);
+    const currentBook = supportBooks.find(author => relativePath.includes(author));
+    console.log('pageData.frontmatter.title')
+    if (currentBook) {
+      console.log('currentAuthor', currentBook);
       // 2. Extract file ID
       const fileName = relativePath.split('/').pop() || ''; // Get the filename
       const fileIdString = fileName.split('-')[0]; // Get '001'
@@ -35,24 +36,29 @@ export default defineConfig({
 
       // 3. Use imported author data
       const authorData = {
-        thichminhchau: thichminhchau,  // Use the imported data
-        'nanamoli-bodhi': nanamoli_bodhi, // Use the imported data
+        'thichminhchau': thichminhchau,  // Use the imported data
+        'nanamoli-bodhi-en': nanamoli_bodhi_en, // Use the imported data
+        'nanamoli-bodhi-vi': nanamoli_bodhi_vi
       };
 
-      // 4. Get the navigation data for the current author
-      const currentAuthorNav = authorData[currentAuthor];
+      // 4. next/back navigation
+      const currentAuthorNav = authorData[currentBook];
+      // if (!pageData.frontmatter) {
+      //   pageData.frontmatter = {};
+      // }
+      // pageData.frontmatter.layout = 'home'
 
       if (currentAuthorNav) {
         const currentIndex = currentAuthorNav.findIndex(item => item.link.includes(fileName));
 
         if (currentIndex !== -1) {
+
           const nextIndex = currentIndex + 1;
           const prevIndex = currentIndex - 1;
 
-          if (!pageData.frontmatter) {
-            pageData.frontmatter = {};
-          }
 
+          pageData.frontmatter.title = currentAuthorNav[currentIndex].text;
+          console.log(pageData.frontmatter.title)
           if (nextIndex < currentAuthorNav.length) {
             pageData.frontmatter.next = {
               text: currentAuthorNav[nextIndex].text,

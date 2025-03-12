@@ -1,4 +1,4 @@
-**42. Các Bà-la-môn ở Verañja**
+# 42. Các Bà-la-môn ở Verañja
 
 [291] 1. NHƯ VẦY TÔI NGHE. Một thời nọ,
 Thế Tôn đang ở tại Sāvatthī trong Rừng Jeta,

@@ -1,4 +1,4 @@
-**#27. Tiểu Kinh Ví Dụ Dấu Chân Voi**
+# 27. Tiểu Kinh Ví Dụ Dấu Chân Voi
 
 1. TÔI NGHE NHƯ VẦY.319 Có một lần
 Thế Tôn đang ở tại Sāvatthī trong Rừng Jeta,

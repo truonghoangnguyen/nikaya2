@@ -1,4 +1,4 @@
-**28. Đại Kinh Ví Dụ Dấu Chân Voi**
+# 28. Đại Kinh Ví Dụ Dấu Chân Voi
 
 1. TÔI NGHE NHƯ VẦY.327 Có một lần Thế Tôn
 đang ở tại Sāvatthī trong Rừng Jeta,

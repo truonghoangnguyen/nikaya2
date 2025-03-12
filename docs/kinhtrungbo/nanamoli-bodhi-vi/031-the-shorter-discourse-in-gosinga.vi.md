@@ -1,4 +1,4 @@
-**# 31. Tiểu Kinh Gosinga**
+# 31. Tiểu Kinh Gosinga
 
 1.  NHƯ VẦY TÔI NGHE. Một thời Thế Tôn
     trú ở Nādikā, tại ngôi nhà Gạch.

@@ -1,13 +1,20 @@
 <script setup>
 import thichminhchau from '../../kinhtrungbo/thichminhchau/filelist'
-import nanamoli_bodhi from '../../kinhtrungbo/nanamoli-bodhi/filelist';
+// import nanamoli_bodhi from '../../kinhtrungbo/nanamoli-bodhi-en/filelist';
 
-function handleButtonClick(url) {
-  const supportedAuthors = ['nanamoli-bodhi', 'nanamoli-bodhi-vi'];
-  const authorCompareMap = {
-    'nanamoli-bodhi': 'c-nm-tmc',
-    'nanamoli-bodhi-vi': 'c-nm-tmc-vi'
-  };
+/**
+ * all support url to Base Compare Nanamoli Bodhi Vi - Thích Minh Châu
+ * Parses the URL, extracts relevant information, and generates a comparison URL.
+ * @param {string} url - /kinhtrungbo/nanamoli-bodhi/001-the-root-of-all-things
+ * @returns {string|null} The generated comparison URL or null if invalid.
+ */
+function toHomeCompare(url) {
+  // this is support paths, allow to compare
+  const supportedAuthors = ['nanamoli-bodhi-vi', 'nanamoli-bodhi-en', 'thichminhchau', 'c-nm-tmc-en'];
+  // const authorCompareMap = {
+  //   'nanamoli-bodhi': 'c-nm-tmc',
+  //   'nanamoli-bodhi-vi': 'c-nm-tmc-vi'
+  // };
 
   // (1) Parse the URL
   const urlParts = url.split('/');
@@ -15,7 +22,7 @@ function handleButtonClick(url) {
 
   if (urlParts.length < 4) {
     //console.error("Invalid URL format.");
-    return null; // Or handle the error as needed
+    return null; // Or handle the error as neededxxxxx
   }
 
   const kinhTrungBo = urlParts[1];  // "kinhtrungbo"
@@ -50,9 +57,9 @@ function handleButtonClick(url) {
      //console.log(tmcFilename);
 
   // (4) Generate the final URL
-  const compareAuthor = authorCompareMap[author];
+  const homeCompare = 'c-nm-tmc-vi' //authorCompareMap[author];
 //   console.log(compareAuthor); //c-nm-tmc
-  const finalURL = `/${kinhTrungBo}/${compareAuthor}/${tmcFilename}`;
+  const finalURL = `/${kinhTrungBo}/${homeCompare}/${tmcFilename}`;
 
   return finalURL;
 }
@@ -61,26 +68,12 @@ function sayHello() {
   const currentURL = window.location.pathname; // Get the current URL from the browser
     //  console.log(currentURL);
 
-  const newURL = handleButtonClick(currentURL);
+  const newURL = toHomeCompare(currentURL);
 
   if (newURL) {
     console.log("Generated URL:", newURL);
     window.location.href = newURL;
-    // You can now use this newURL to:
-    // 1. Redirect the user: window.location.href = newURL;
-    // 2. Update a link on the page: document.getElementById('someLinkId').href = newURL;
-    // 3. Display it in a text field: document.getElementById('someTextField').value = newURL;
-    // 4.  send to server.
   }
-
-  // pathname: window.location.pathname, // e.g., "/path/to/page.html"
-        // search: window.location.search,     // e.g., "?param1=value1¶m2=value2" (query parameters)
-  // http://localhost:5173/kinhtrungbo/nanamoli-bodhi/001-the-root-of-all-things
-  // http://localhost:5173/kinhtrungbo/nanamoli-bodhi-vi/001-the-root-of-all-things.vi
-  // http://localhost:5173/kinhtrungbo/thichminhchau/001-kinh-phap-mon-can-ban
-  // http://localhost:5173/kinhtrungbo/c-nm-tmc-vi/tmc-mn-bodhi-001-kinh-phap-mon-can-ban.html
-
-  //alert('Hello World!');
 }
 </script>
 
