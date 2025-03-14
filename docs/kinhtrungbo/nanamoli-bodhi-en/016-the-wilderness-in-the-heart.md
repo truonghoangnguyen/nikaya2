@@ -1,205 +1,70 @@
-# 16. The Wilderness in the Heart
+# 16 The Wilderness in the Heart
+***(Cetokhila Sutta)***
 
-@@
+[101] 1. Thus have I heard. On one occasion the Blessed One was living at Sāvatthī in Jeta's Grove, Anāthapiṇ̣ika's Park. There he addressed the bhikkhus thus: "Bhikkhus." "Venerable sir," they replied. The Blessed One said this:
 
-[101] 1. THUS HAVE I HEARD. On one occasion
-the Blessed One was living at Sāvatthī in Jeta’s Grove,
+2\. "Bhikkhus, that any bhikkhu who has not abandoned five wildernesses in the heart and not severed five shackles in the heart should come to growth, increase, and fulfilment in this Dhamma and Discipline - that is impossible. [^217]
 
+3\. "What, bhikkhus, are the five wildernesses in the heart that he has not abandoned? Here a bhikkhu is doubtful, uncertain, undecided, and unconfident about the Teacher, and thus his mind does not incline to ardour, devotion, perseverance, and striving. As his mind does not incline to ardour, devotion, perseverance, and striving, that is the first wilderness in the heart that he has not abandoned.
 
-Anāthapiṇḍika’s Park. There he addressed the bhikkhus thus:
-“Bhikkhus.” — “Venerable sir,” they replied. The Blessed One
-said this:
+4\. "Again, a bhikkhu is doubtful, uncertain, undecided, and unconfident about the Dhamma ${ }^{218} \ldots$ As his mind does not incline to ardour...that is the second wilderness in the heart that he has not abandoned.
 
-2. “Bhikkhus, that any bhikkhu who has not abandoned
-five wildernesses in the heart and not severed five shackles in
-the heart should come to growth, increase, and fulfillment in
-this Dhamma and Discipline — that is impossible.217
+5\. "Again, a bhikkhu is doubtful, uncertain, undecided, and unconfident about the Sangha...As his mind does not incline to ardour...that is the third wilderness in the heart that he has not abandoned.
 
-3. “What, bhikkhus, are the five wildernesses in the heart
-that he has not abandoned? Here a bhikkhu is doubtful,
-uncertain, undecided, and unconfident about the Teacher,
-and thus his mind does not incline to ardour, devotion,
-perseverance, and striving. As his mind does not incline to
-ardour, devotion, perseverance, and striving, that is the first
-wilderness in the heart that he has not abandoned.
+6\. "Again, a bhikkhu is doubtful, uncertain, undecided, and unconfident about the training...As his mind does not incline to ardour...that is the fourth wilderness in the heart that he has not abandoned.
 
-4. “Again, a bhikkhu is doubtful, uncertain, undecided,
-and unconfident about the Dhamma218… As his mind does
-not incline to ardour… that is the second wilderness in the
-heart that he has not abandoned.
+7\. "Again, a bhikkhu is angry and displeased with his companions in the holy life, resentful and callous towards them, and thus his mind does not incline to ardour, devotion, perseverance,
+and striving. As his mind does not incline to ardour, devotion, perseverance, and striving, that is the fifth wilderness in the heart that he has not abandoned.
 
-5. “Again, a bhikkhu is doubtful, uncertain, undecided,
-and unconfident about the Sangha… As his mind does not
-incline to ardour… that is the third wilderness in the heart that
-he has not abandoned.
+"These are the five wildernesses in the heart that he has not abandoned.
 
-6. “Again, a bhikkhu is doubtful, uncertain, undecided,
-and unconfident about the training… As his mind does not
-incline to ardour… that is the fourth wilderness in the heart
-that he has not abandoned.
+8\. "What, bhikkhus, are the five shackles in the heart that he has not severed? Here a bhikkhu is not free from lust, desire, affection, thirst, fever, and craving for sensual pleasures, and thus his mind does not incline to ardour, devotion, perseverance, and striving. As his mind does not incline to ardour, devotion, perseverance, and striving, that is the first shackle in the heart that he has not severed.
 
-7. “Again, a bhikkhu is angry and displeased with his
-companions in the holy life, resentful and callous towards
-them, and thus his mind does not incline to ardour, devotion,
-perseverance, and striving. As his mind does not incline to
-ardour, devotion, perseverance, and striving, that is the fifth
+9\. "Again, a bhikkhu is not free from lust, desire, affection, thirst, fever, and craving for the body ${ }^{219} \ldots$ As his mind does not incline to ardour...that is the second shackle in the heart that he has not severed. [102]
 
+10\. "Again, a bhikkhu is not free from lust, desire, affection, thirst, fever, and craving for form...As his mind does not incline to ardour...that is the third shackle in the heart that he has not severed.
 
-wilderness in the heart that he has not abandoned.
+11\. "Again, a bhikkhu eats as much as he likes until his belly is full and indulges in the pleasures of sleeping, lolling, and drowsing...As his mind does not incline to ardour...that is the fourth shackle in the heart that he has not severed.
 
-“These are the five wildernesses in the heart that he has
-not abandoned.
+12\. "Again, a bhikkhu lives the holy life aspiring to some order of gods thus: 'By this virtue or observance or asceticism or holy life, I shall become a [great] god or some [lesser] god,' and thus his mind does not incline to ardour, devotion, perseverance, and striving. As his mind does not incline to ardour, devotion, perseverance, and striving, this is the fifth shackle in the heart that he has not severed.
 
-8. “What, bhikkhus, are the five shackles in the heart
-that he has not severed? Here a bhikkhu is not free from
-lust, desire, affection, thirst, fever, and craving for sensual
-pleasures, and thus his mind does not incline to ardour,
-devotion, perseverance, and striving. As his mind does not
-incline to ardour, devotion, perseverance, and striving, that is
-the first shackle in the heart that he has not severed.
+"These are the five shackles in the heart that he has not severed.
 
-9. “Again, a bhikkhu is not free from lust, desire, affection,
-thirst, fever, and craving for the body219… As his mind does
-not incline to ardour… that is the second shackle in the heart
-that he has not severed. [102]
+13\. "Bhikkhus, that any bhikkhu who has not abandoned these five wildernesses in the heart and severed these five shackles in the heart should come to growth, increase, and fulfilment in this Dhamma and Discipline - that is impossible.
 
-10. “Again, a bhikkhu is not free from lust, desire, affection,
-thirst, fever, and craving for form… As his mind does not
-incline to ardour… that is the third shackle in the heart that he
-has not severed.
+14\. "Bhikkhus, that any bhikkhu who has abandoned five wildernesses in the heart and severed five shackles in the heart should come to growth, increase, and fulfilment in this Dhamma and Discipline - that is possible.
 
-11. “Again, a bhikkhu eats as much as he likes until his
-belly is full and indulges in the pleasures of sleeping, lolling,
-and drowsing… As his mind does not incline to ardour… that
-is the fourth shackle in the heart that he has not severed.
+15\. "What, bhikkhus, are the five wildernesses in the heart that he has abandoned? Here a bhikkhu is not doubtful, uncertain, undecided, or unconfident about the Teacher, and thus his mind inclines to ardour, devotion, perseverance, and striving. As his mind inclines to ardour, devotion, perseverance, and striving, the first wilderness in the heart has been abandoned by him.
 
-12. “Again, a bhikkhu lives the holy life aspiring to some
-order of gods thus: ‘By this virtue or observance or asceticism
-or holy life, I shall become a [great] god or some [lesser]
-god,’ and thus his mind does not incline to ardour, devotion,
-perseverance, and striving. As his mind does not incline to
-ardour, devotion, perseverance, and striving, this is the fifth
-shackle in the heart that he has not severed.
+16\. "Again, a bhikkhu is not doubtful, uncertain, undecided, or unconfident about the Dhamma...As his mind inclines to ardour...the second wilderness in the heart has been abandoned by him.
 
-“These are the five shackles in the heart that he has not
-severed.
+17\. "Again, a bhikkhu is not doubtful, uncertain, undecided, or unconfident about the Sangha...As his mind inclines to ardour...the third wilderness in the heart has been abandoned by him.
 
+18\. "Again, a bhikkhu is not doubtful, uncertain, undecided, or unconfident about the training...As his mind inclines to ardour...the fourth wilderness in the heart has been abandoned by him.
 
-13. “Bhikkhus, that any bhikkhu who has not abandoned
-these five wildernesses in the heart and severed these five
-shackles in the heart should come to growth, increase, and
-fulfillment in this Dhamma and Discipline — that is impossible.
+19\. "Again, a bhikkhu is not angry and displeased with his companions in the holy life, nor resentful and callous towards them, and thus his mind inclines to ardour, devotion, perseverance, and striving. [103] As his mind inclines to ardour, devotion, perseverance, and striving, the fifth wilderness in the heart has been abandoned by him.
 
-14. “Bhikkhus, that any bhikkhu who has abandoned five
-wildernesses in the heart and severed five shackles in the
-heart should come to growth, increase, and fulfillment in this
-Dhamma and Discipline — that is possible.
+"These are the five wildernesses in the heart that he has abandoned.
 
-15. “What, bhikkhus, are the five wildernesses in the
-heart that he has abandoned? Here a bhikkhu is not doubtful,
-uncertain, undecided, or unconfident about the Teacher, and
-thus his mind inclines to ardour, devotion, perseverance,
-and striving. As his mind inclines to ardour, devotion,
-perseverance, and striving, this first wilderness in the heart
-has been abandoned by him.
+20\. "What, bhikkhus, are the five shackles in the heart that he has severed? Here a bhikkhu is free from lust, desire, affection, thirst, fever, and craving for sensual pleasures, and thus his mind inclines to ardour, devotion, perseverance, and striving. As his mind inclines to ardour, devotion, perseverance, and striving, the first shackle in the heart has been severed by him.
 
-16. “Again, a bhikkhu is not doubtful, uncertain, undecided,
-or unconfident about the Dhamma… As his mind inclines
-to ardour… this second wilderness in the heart has been
-abandoned by him.
+21\. "Again, a bhikkhu is free from lust, desire, affection, thirst, fever, and craving for the body...As his mind inclines to ardour...the second shackle in the heart has been severed by him.
 
-17. “Again, a bhikkhu is not doubtful, uncertain,
-undecided, or unconfident about the Sangha… As his mind
-inclines to ardour… this third wilderness in the heart has been
-abandoned by him.
+22\. "Again, a bhikkhu is free from lust, desire, affection, thirst, fever, and craving for form...As his mind inclines to ardour...the third shackle in the heart has been severed by him.
 
-18. “Again, a bhikkhu is not doubtful, uncertain,
-undecided, or unconfident about the training… As his mind
-inclines to ardour… this fourth wilderness in the heart has
-been abandoned by him.
+23\. "Again, a bhikkhu does not eat as much as he likes until his belly is full and does not indulge in the pleasures of sleeping,
+lolling, and drowsing...As his mind inclines to ardour...the fourth shackle in the heart has been severed by him.
 
-19. “Again, a bhikkhu is not angry and displeased with
-his companions in the holy life, nor resentful and callous
-towards them, and thus his mind inclines to ardour, devotion,
-perseverance, and striving. [103] As his mind inclines to ardour,
+24\. "Again, a bhikkhu does not live the holy life aspiring to some order of gods thus: 'By this virtue or observance or asceticism or holy life, I shall become a [great] god or some [lesser] god,' and thus his mind inclines to ardour, devotion, perseverance, and striving. As his mind inclines to ardour, devotion, perseverance, and striving, the fifth shackle in the heart has been severed by him.
 
+"These are the five shackles in the heart that he has severed.
 
-devotion, perseverance, and striving, this fifth wilderness in
-the heart has been abandoned by him.
+25\. "Bhikkhus, that any bhikkhu who has abandoned these five wildernesses in the heart and severed these five shackles in the heart should come to growth, increase, and fulfilment in this Dhamma and Discipline - that is possible.
 
-“These are the five wildernesses in the heart that he has
-abandoned.
+26\. "He develops the basis for spiritual power consisting in concentration due to zeal and determined striving; he develops the basis for spiritual power consisting in concentration due to energy and determined striving; he develops the basis for spiritual power consisting in concentration due to [purity of] mind and determined striving; he develops the basis for spiritual power consisting in concentration due to investigation and determined striving. And enthusiasm is the fifth. [^220]
 
-20. “What, bhikkhus, are the five shackles in the heart
-that he has severed?
+27\. "A bhikkhu who thus possesses the fifteen factors including enthusiasm is [104] capable of breaking out, capable of enlightenment, capable of attaining the supreme security from bondage. [^221]
 
-Here a bhikkhu is free from lust, desire, affection, thirst,
-fever, and craving for sensual pleasures, and thus his mind
-inclines to ardour, devotion, perseverance, and striving. As his
-mind inclines to ardour, devotion, perseverance, and striving,
-this first shackle in the heart has been severed by him.
+"Suppose there were a hen with eight, ten, or twelve eggs, which she had covered, incubated, and nurtured properly. Even though she did not wish: 'Oh, that my chicks might pierce their shells with the points of their claws and beaks and hatch out safely!' yet the chicks are capable of piercing their shells with the points of their claws and beaks and hatching out safely. [^222] So too, a bhikkhu who thus possesses the fifteen factors including enthusiasm is capable of breaking out, capable of enlightenment, capable of attaining the supreme security from bondage."
 
-21. “Again, a bhikkhu is free from lust, desire, affection,
-thirst, fever, and craving for the body… As his mind inclines to
-ardour… this second shackle in the heart has been severed
-by him.
-
-22. “Again, a bhikkhu is free from lust, desire, affection,
-thirst, fever, and craving for form… As his mind inclines to
-ardour… this third shackle in the heart has been severed by
-him.
-
-23. “Again, a bhikkhu does not eat as much as he likes
-until his belly is full and does not indulge in the pleasures
-of sleeping, lolling, and drowsing… As his mind inclines to
-ardour… this fourth shackle in the heart has been severed by
-him.
-
-24. “Again, a bhikkhu does not live the holy life aspiring
-to some order of gods thus: ‘By this virtue or observance or
-asceticism or holy life, I shall become a [great] god or some
-
-[lesser] god,’ and thus his mind inclines to ardour, devotion,
-perseverance, and striving. As his mind inclines to ardour,
-devotion, perseverance, and striving, this fifth shackle in the
-heart has been severed by him.
-
-
-“These are the five shackles in the heart that he has
-severed.
-
-25. “Bhikkhus, that any bhikkhu who has abandoned
-these five wildernesses in the heart and severed these five
-shackles in the heart should come to growth, increase, and
-fulfillment in this Dhamma and Discipline — that is possible.
-
-26. “He develops the basis for spiritual power consisting in
-concentration due to zeal and determined striving; he develops
-the basis for spiritual power consisting in concentration due
-to energy and determined striving; he develops the basis
-for spiritual power consisting in concentration due to [purity
-of] mind and determined striving; he develops the basis for
-spiritual power consisting in concentration due to investigation
-and determined striving. And enthusiasm is the fifth.220
-
-27. “A bhikkhu who thus possesses the fifteen factors
-including enthusiasm is [104] capable of breaking out, capable
-of enlightenment, capable of attaining the supreme security
-from bondage.221
-
-“Suppose there were a hen with eight, ten, or twelve eggs,
-which she had covered, incubated, and nurtured properly.
-Even though she did not wish: ‘Oh, that my chicks might
-pierce their shells with the points of their claws and beaks and
-hatch out safely!’ yet the chicks are capable of piercing their
-shells with the points of their claws and beaks and hatching
-out safely.222
-
-So too, a bhikkhu who thus possesses the fifteen factors
-including enthusiasm is capable of breaking out, capable of
-enlightenment, capable of attaining the supreme security from
-bondage.”
-
-That is what the Blessed One said. The bhikkhus were
-satisfied and delighted in the Blessed One’s words.
-
+That is what the Blessed One said. The bhikkhus were satisfied and delighted in the Blessed One's words.

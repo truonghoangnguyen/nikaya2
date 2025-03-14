@@ -2,6 +2,8 @@ import { defineConfig } from 'vitepress'
 import footnote from 'markdown-it-footnote';
 import thichminhchau from '../kinhtrungbo/thichminhchau/filelist';
 import nanamoli_bodhi_en from '../kinhtrungbo/nanamoli-bodhi-en/filelist';
+
+import nanamoli_bodhi_en_intro from '../kinhtrungbo/nanamoli-bodhi-en/intro/filelist';
 import nanamoli_bodhi_vi from '../kinhtrungbo/nanamoli-bodhi-vi/filelist';
 
 // https://vitepress.dev/reference/site-config
@@ -19,16 +21,17 @@ export default defineConfig({
     }
   },
   // ignoreDeadLinks: true,
-  // Transform page data to add automatic next/previous links
+  /* Transform page data to add automatic next/previous links */
   transformPageData(pageData) {
     const relativePath = pageData.relativePath;
-    const supportBooks = ['thichminhchau', 'nanamoli-bodhi-vi', 'nanamoli-bodhi-en' ]; // Define the list of authors
+    // important note !, write longest path first eg: 'nanamoli-bodhi-en/intro' before 'nanamoli-bodhi-en'
+    const supportBooks = ['thichminhchau', 'nanamoli-bodhi-vi', 'nanamoli-bodhi-en/intro', 'nanamoli-bodhi-en']; // Define the list of authors
 
     // 1. Check if the path contains any of the authors
-    const currentBook = supportBooks.find(author => relativePath.includes(author));
-    console.log('pageData.frontmatter.title')
+    const currentBook = supportBooks.find((author) => {
+      return relativePath.includes(author);
+    });
     if (currentBook) {
-      console.log('currentAuthor', currentBook);
       // 2. Extract file ID
       const fileName = relativePath.split('/').pop() || ''; // Get the filename
       const fileIdString = fileName.split('-')[0]; // Get '001'
@@ -38,6 +41,7 @@ export default defineConfig({
       const authorData = {
         'thichminhchau': thichminhchau,  // Use the imported data
         'nanamoli-bodhi-en': nanamoli_bodhi_en, // Use the imported data
+        'nanamoli-bodhi-en/intro': nanamoli_bodhi_en_intro,
         'nanamoli-bodhi-vi': nanamoli_bodhi_vi
       };
 

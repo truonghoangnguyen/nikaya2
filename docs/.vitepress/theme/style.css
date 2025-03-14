@@ -31,6 +31,11 @@ body {
   line-height: 33px;
 }
 
+.vp-doc h2 {
+  border-top: none;
+  margin-top: 12px;
+}
+
 .translation-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
@@ -127,3 +132,21 @@ body {
   white-space: nowrap;
   border-width: 0;
 }
+
+/* Fix for ordered lists - remove space between number and text */
+.vp-doc ol {
+  list-style-type: decimal;
+  padding-left: 0em;
+  margin: 0;
+}
+
+/* .vp-doc ol li {
+  padding-left: 1em;
+  margin: 0;
+} */
+
+/* This ensures the number and text are displayed without space between them */
+/* .vp-doc ol li::marker {
+  margin-right: 0;
+} */
+

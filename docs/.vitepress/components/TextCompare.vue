@@ -22,20 +22,19 @@ const mdLeft = new MarkdownIt({
   html: true,
   linkify: true,
   typographer: true
-})//.use(MarkdownItFootnote);
+}).use(MarkdownItFootnote);
 
 const mdRight = new MarkdownIt({
   html: true,
   linkify: true,
   typographer: true
-})//.use(MarkdownItFootnote);
+}).use(MarkdownItFootnote);
 
 const md = new MarkdownIt({
   html: true,
   linkify: true,
   typographer: true
 })
-
 
 // Compute the original file paths for links (removing the .md extension)
 const leftOriginalPath = computed(() => props.leftPath.replace(/\.md$/, ''))
@@ -50,19 +49,14 @@ const isLoading = ref<boolean>(true)
 const hasNote = ref<boolean>(false)
 const error = ref<string | null>(null)
 
-// Parse content by paragraph tags
-const parseContentByParagraphs = (content: string): string[] => {
-  // Split content by paragraph tags {{paragraph-X}}
-  const paragraphRegex = /<!--p\d+-->/g
-  const parts = content.split(paragraphRegex)
+// Parse HTML content by paragraph tags
+const parseHtmlByParagraphs = (html: string): string[] => {
+  // Split content by paragraph tags <!--pg-->
+  const paragraphRegex = /<!--pg-->/g
+  const parts = html.split(paragraphRegex)
 
   // Remove any empty parts and trim each part
   return parts.map(part => part.trim()).filter(part => part.length > 0)
-}
-
-// Render markdown for each paragraph
-const renderMarkdownParagraphs = (paragraphs: string[], md): string[] => {
-  return paragraphs.map(paragraph => md.render(paragraph))
 }
 
 onMounted(async () => {
@@ -85,14 +79,14 @@ onMounted(async () => {
     leftContent.value = leftContent.value.replace(/^---[\s\S]*?---\n/, '')
     rightContent.value = rightContent.value.replace(/^---[\s\S]*?---\n/, '')
 
-    // Parse content by paragraphs
-    const leftParagraphs = parseContentByParagraphs(leftContent.value)
-    const rightParagraphs = parseContentByParagraphs(rightContent.value)
+    // First render entire markdown content to HTML
+    const leftHtml = mdLeft.render(leftContent.value)
+    const rightHtml = mdRight.render(rightContent.value)
 
-    // Render markdown for each paragraph
+    // Then parse HTML content by paragraphs
     parsedParagraphs.value = {
-      left: renderMarkdownParagraphs(leftParagraphs, mdLeft),
-      right: renderMarkdownParagraphs(rightParagraphs, mdRight)
+      left: parseHtmlByParagraphs(leftHtml),
+      right: parseHtmlByParagraphs(rightHtml)
     }
 
     // Fetch note file if provided
@@ -198,9 +192,9 @@ onMounted(async () => {
 }
 
 .text-content li {
-  display: list-item;
-  list-style-type: disc;
-  margin: 0.5em 0;
+  /* display: list-item;
+  list-style-type: disc; */
+  /* margin: 0.5em 0; */
 }
 
 .text-content li p {

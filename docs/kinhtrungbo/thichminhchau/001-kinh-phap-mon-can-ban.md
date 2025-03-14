@@ -12,7 +12,7 @@ vương. Tại chỗ ấy, Thế Tôn gọi các Tỷ-kheo: "Này các Tỷ-kheo
 tất cả pháp". Hãy nghe và khéo tác ý, Ta sẽ nói". - "Thưa vâng, bạch Thế Tôn", những Tỷ-kheo ấy vâng
 đáp Thế Tôn. Thế Tôn nói như sau:
 
-<!--p1-->
+<!--pg-->
 ***(Phàm phu)***
 
 -- Này các Tỷ-kheo, ở đây, có kẻ phàm phu ít nghe, không được thấy các bậc Thánh, không thuần thục
@@ -53,7 +53,7 @@ Người ấy tưởng tri Niết-bàn là Niết-bàn. Vì tưởng tri Niết-
 nghĩ đến (tự ngã) đối chiếu với Niết-bàn. Nghĩ đến (tự ngã) như là Niết-bàn, người ấy nghĩ: "Niết-bàn là
 của ta" - dục hỷ Niết-bàn, Vì sao vậy? Ta nói: Người ấy không liễu tri Niết-bàn.
 
-<!--p2-->
+<!--pg-->
 ***(Vị hữu học)***
 
 Này các Tỷ-kheo, có Tỷ-kheo, hữu học tâm chưa thành tựu, đang sống cần cầu vô thượng an ổn khỏi
@@ -70,7 +70,7 @@ Vị ấy thắng tri Niết-bàn là Niết-bàn; vì thắng tri Niết-bàn l
 đã không nghĩ (tự ngã) đối chiếu với Niết-bàn, đã không nghĩ (tự ngã) như là Niết-bàn, đã không nghĩ:
 "Niết-bàn là của ta" - không dục hỷ Niết-bàn. Vì sao vậy? Ta nói vị ấy có thể liễu tri Niết-bàn.
 
-<!--p3-->
+<!--pg-->
 ***(Bậc A-la-hán - I)***
 
 Lại nữa, này các Tỷ-kheo, có Tỷ-kheo là bậc A-la-hán, các lậu hoặc đã tận, tu hành thành mãn, các việc
