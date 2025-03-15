@@ -1,59 +1,28 @@
 ---
-next:
-    text: 'Lời Giới Thiệu (Bản In Năm 1986)'
-    link: '/kinhtrungbo/thichminhchau/g2'
+layout: home
+
+hero:
+  name: "Kinh Trung Bộ"
+  tagline: Hòa Thượng - Thích Minh Châu
+
+features:
+  - title: Lời Nói Ðầu
+    details: Trong Bản In lần Thứ Nhất Năm 1973 →
+    link: /kinhtrungbo/thichminhchau/g1
+  - title: Mục lục
+    details: Mục lục 152 bài kinh →
+    link: /kinhtrungbo/thichminhchau/mucluc
+  - title: Đi đến bài kinh đầu tiên
+    details: Pháp Môn Căn Bản →
+    link: /kinhtrungbo/thichminhchau/001-kinh-phap-mon-can-ban
 ---
-# 1. Lời Nói Ðầu
-
-**GIỚI THIỆU TRUNG BỘ KINH**
-
-***Hòa Thượng Thích Minh Châu***
-
-## 1. Lời Nói Ðầu
-**(Trong Bản In lần Thứ Nhất Năm 1973)**
-
-- Tập ***Kinh Trung Bộ*** (Majjhima Nikàya) gồm 152 kinh tất cả, chia thành 3 tập : tập I, gồm 50 Kinh đầu, tập II gồm 50 Kinh tiếp và tập III, gồm 52 Kinh chót.
-
-- Sau khi dịch xong ***Kinh Trường Bộ*** (Digha Nikàya), Vu Lan 2516 (23-8-1972), tôi dịch tiếp Kinh
-Trung Bộ.
-
-Tôi dựa theo nguyên bản Pàli của Hội Pàli Text Society để phiên dịch và dùng ba bản dịch làm tài liệu.
-Tài liệu thứ nhất là những ghi chú bằng tiếng Anh và chữ Hán, tôi đã tự mình ghi vào bản Pàli, từng
-chữ, từng hàng, từng trang một, khi tôi theo học bản Pàli này, từ năm 1952 đến năm 1955 tại Hội
-Dharmaduta Vidhyalaya ở Colombo, Tích Lan, do Ngài Pannananda diễn giảng. Bản tài liệu thứ hai là
-bản dịch “The Middle Length Sayings” của Cô L. B. Horner, hội Pàli Text Society, một công trình dịch
-thuật rất chu toàn; và bản thứ ba là bản dịch ra tiếng Nhật của bộ Nam truyền Ðại Tạng Kinh. Thỉnh
-thoảng tôi tham khảo các bản kinh Hán Tạng tương đương nếu thấy cần thiết.
-
-Vấn đề tìm được Hán tự tương đương với chữ Pàli, thật là một vấn đề nan giải. Như biết Pancak
-Khandha là năm uẩn, Rùpa là Sắc, Vedanà là Thọ, Sannà là Tưởng, Sankhàrà là Hành và Vinnàna là
-Thức, thời dịch vừa gọn, vừa nhanh. Nhưng nếu gặp những danh từ chưa có chữ Hán tương đương là cả
-một vấn đề thật khó khăn và nan giải.
-
-Các bài Kinh chữ Hán tương đương trong bộ Trung A Hàm không giúp đỡ được nhiều. Ngài
-Sanghadeva (Tăng Già Ðề Bà) dịch Trung A Hàm vào năm 398 sau kỷ nguyên, nên nhiều danh từ Ngài
-dùng không được các dịch giả về sau như Ngài Huyền Trang chấp nhận. Như Vedana, Ngài Sanghadeva
-dịch là Giác, về sau dịch là Thọ; Savitakka, Savicara, Ngài dịch là Hữu giác, Hữu quán, về sau dịch là
-Hữu tầm, Hữu tứ; Phassa Ngài dịch là Cánh Lạc, về sau dịch là Xúc. Cho nên, bản Hán Tạng nhiều khi
-tối nghĩa và dễ phát sinh hiểu lầm, nếu chúng ta không có bản Pàli tương đương.
-
-Chúng tôi dịch Kinh Pàli, không vì mục đích muốn ủng hộ hay không muốn ủng hộ một học phái nào,
-một lập trường nào. Mục đích của chúng tôi chỉ muốn giới thiệu những Kinh điển có thể được xem là
-nguyên thủy hay gần nguyên thủy nhất, để người đọc có thể tìm hiểu lời dạy chân chính của đức Phật,
-khỏi qua ống kính của một học phái nào, dầu là Ấn Ðộ, Trung Hoa hay Việt Nam. Chúng tôi cũng
-không có trách nhiệm nêu lên cho độc giả rõ, đoạn nào là nguyên thủy, đoạn nào không phải nguyên
-thủy. Chỉ có người đọc, sau khi tự mình đọc, từ mình tìm hiểu, tự mình suy tư, tự mình quan sát, tự mình
-chứng nghiệm trên bản thân, mới có thể tự mình tìm hiểu và thấy đoạn nào là thật sự nguyên thủy. Trách
-nhiệm tìm hiểu, chứng nghiệm cá nhân là trách nhiệm của người đọc, không phải của người dịch, vì Ðạo
-Phật là *Ðạo đến để mà thấy* chớ không phải Ðạo đến để nhờ người thấy hộ, *Ðạo của người có mắt*
-(Cakkhumato), không phải Ðạo của người nhắm mắt; *Ðạo của người thấy, của người biết* (Passato
-Jànato), không phải là Ðạo của người không thấy, không biết (Apassato Ajànato). Nên chỉ có người đọc
-mới có thể tự mình thấy, tự mình hiểu và tự mình chứng nghiệm.
-
-Thật sự chúng ta chỉ có một trách nhiệm, tìm đọc và tìm hiểu những lời Phật dạy thật sự là những lời
-dạy của đức Phật, và vì trách nhiệm ấy chúng tôi đã cố gắng phiên dịch Kinh Tạng Pàli ra Việt ngữ.
-Chúng ta chỉ cần đọc, cần suy tư chính chắn và rồi chính chúng ta tự ý thức đâu là những lời dạy trung
-thực của đức Bổn sư chúng ta.
-
-***Tỷ Kheo*** ***Thích Minh Châu***
-
+<br>
+<br>
+<h2 style="text-align: center;">Kinh Trung Bộ - Thích Minh Châu</h2>
+<br>
+<a href="/kinhtrungbo/thichminhchau/g1">
+<figure style="text-align: center;">
+    <img src="/kinh-trung-bo.jpg" style="max-width:400px;width:100%;display:block;margin:0 auto;" alt="The Middle Length Discourses of the Buddha">
+    <figcaption><i>Kinh Trung Bộ</i></figcaption>
+</figure>
+</a>

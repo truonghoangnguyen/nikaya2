@@ -5,6 +5,7 @@ import nanamoli_bodhi_en from '../kinhtrungbo/nanamoli-bodhi-en/filelist';
 
 import nanamoli_bodhi_en_intro from '../kinhtrungbo/nanamoli-bodhi-en/intro/filelist';
 import nanamoli_bodhi_vi from '../kinhtrungbo/nanamoli-bodhi-vi/filelist';
+import nanamoli_bodhi_vi_intro from '../kinhtrungbo/nanamoli-bodhi-vi/intro/filelist';
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -25,7 +26,7 @@ export default defineConfig({
   transformPageData(pageData) {
     const relativePath = pageData.relativePath;
     // important note !, write longest path first eg: 'nanamoli-bodhi-en/intro' before 'nanamoli-bodhi-en'
-    const supportBooks = ['thichminhchau', 'nanamoli-bodhi-vi', 'nanamoli-bodhi-en/intro', 'nanamoli-bodhi-en']; // Define the list of authors
+    const supportBooks = ['thichminhchau', 'nanamoli-bodhi-vi/intro', 'nanamoli-bodhi-vi', 'nanamoli-bodhi-en/intro', 'nanamoli-bodhi-en']; // Define the list of authors
 
     // 1. Check if the path contains any of the authors
     const currentBook = supportBooks.find((author) => {
@@ -42,7 +43,8 @@ export default defineConfig({
         'thichminhchau': thichminhchau,  // Use the imported data
         'nanamoli-bodhi-en': nanamoli_bodhi_en, // Use the imported data
         'nanamoli-bodhi-en/intro': nanamoli_bodhi_en_intro,
-        'nanamoli-bodhi-vi': nanamoli_bodhi_vi
+        'nanamoli-bodhi-vi': nanamoli_bodhi_vi,
+        'nanamoli-bodhi-vi/intro': nanamoli_bodhi_vi_intro,
       };
 
       // 4. next/back navigation

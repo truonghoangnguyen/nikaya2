@@ -1,4 +1,4 @@
-const nanamoli_bodhi_intro = [
+const nanamoli_bodhi_en_intro = [
   { text: "Preface", link: "/kinhtrungbo/nanamoli-bodhi-en/intro/1.preface.md" },
   { text: "APPROACHES TO MEDITATION", link: "/kinhtrungbo/nanamoli-bodhi-en/intro/10.approaches-to-meditation.md" },
   { text: "THE FOUR PLANES OF LIBERATION", link: "/kinhtrungbo/nanamoli-bodhi-en/intro/11.the-four-planes-of-liberation.md" },
@@ -22,5 +22,6 @@ const nanamoli_bodhi_intro = [
   { text: "NIBBĀNA", link: "/kinhtrungbo/nanamoli-bodhi-en/intro/7.nibbana.md" },
   { text: "THE WAY TO THE CESSATION OF SUFFERING", link: "/kinhtrungbo/nanamoli-bodhi-en/intro/8.the-way-to-the-cessation-of-suffering.md" },
   { text: "THE GRADUAL TRAINING", link: "/kinhtrungbo/nanamoli-bodhi-en/intro/9.the-gradual-training.md" },
+  { text: "The Root of All Things", link: "/kinhtrungbo/nanamoli-bodhi-en/001-the-root-of-all-things.md" },
 ];
-export default nanamoli_bodhi_intro;
+export default nanamoli_bodhi_en_intro;
