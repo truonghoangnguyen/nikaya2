@@ -3,7 +3,7 @@
 **8. KINH ÐOẠN GIẢM**
 ***(Sallekha Sutta)***
 
-## Như vầy tôi nghe.
+**Như vầy tôi nghe.**
 
 Một thời Thế Tôn ở Savatthi (Xá-vệ), tại Jetavana (Kỳ-đà Lâm), vườn ông Anathapindika (Cấp Cô
 Ðộc). Lúc bấy giờ, Tôn giả Maha Cunda, vào buổi chiều từ chỗ độc cư Thiền tịnh đứng dậy, đến tại chỗ

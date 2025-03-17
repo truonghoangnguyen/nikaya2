@@ -3,7 +3,7 @@
 **40. TIỂU KINH XÓM NGỰA**
 ***(Cùla-Assapura Sutta)***
 
-## Như vầy tôi nghe.
+**Như vầy tôi nghe.**
 
 Một thời Thế Tôn ở giữa dân chúng Anga (Ương già), tại một xã ấp của dân chúng Anga, tên là
 Assapura (xóm Ngựa). Lúc bấy giờ Thế Tôn gọi các Tỷ-kheo:

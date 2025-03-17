@@ -41,16 +41,16 @@ upon a poor, penniless, destitute man and tell him: 'Good man, you must eat this
 14\. "What do you think, brahmin? Is only a brahmin capable of developing a mind of loving-kindness towards a certain region, without hostility and without ill will, and not a noble, or a merchant, or a worker?"
 "No, Master Gotama. Whether it be a noble, or a brahmin, or a merchant, or a worker - those of all four castes are capable of developing a mind of loving-kindness towards a certain region, without hostility and without ill will."
 
-"So too, brahmin, if anyone from a clan of nobles goes forth...(repeat $\S 13$ )...he is one who is accomplishing the true way, the Dhamma that is wholesome.
+"So too, brahmin, if anyone from a clan of nobles goes forth...(repeat $ 13 )...he is one who is accomplishing the true way, the Dhamma that is wholesome.
 
 15\. "What do you think, brahmin? Is only a brahmin capable of taking a loofah and bath powder, going to the river, and washing off dust and dirt, and not a noble, or a merchant, or a worker?"
 
 "No, Master Gotama. Whether it be a noble, or a brahmin, or a merchant, [183] or a worker - those of all four castes are capable of taking a loofah and bath powder, going to the river, and washing off dust and dirt."
 
-"So too, brahmin, if anyone from a clan of nobles goes forth...(repeat $\S 13$ )...he is one who is accomplishing the true way, the Dhamma that is wholesome.
+"So too, brahmin, if anyone from a clan of nobles goes forth...(repeat $ 13 )...he is one who is accomplishing the true way, the Dhamma that is wholesome.
 
 16\. "What do you think, brahmin? Suppose a head-anointed noble king were to assemble here a hundred men of different birth"...(as Sutta 93, §13) [184]..."For all fire has a flame, a colour, and a radiance, and it is possible to use all fire for the purposes of fire."
 
-"So too, brahmin, if anyone from a clan of nobles goes forth...(repeat $\S 13$ )...he is one who is accomplishing the true way, the Dhamma that is wholesome."
+"So too, brahmin, if anyone from a clan of nobles goes forth...(repeat $ 13 )...he is one who is accomplishing the true way, the Dhamma that is wholesome."
 
 17\. When this was said, the brahmin Esukārī said to the Blessed One: "Magnificent, Master Gotama! Magnificent, Master Gotama!...From today let Master Gotama remember me as a lay follower who has gone to him for refuge for life."

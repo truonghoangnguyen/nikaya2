@@ -3,7 +3,7 @@
 **96. KINH ESUKÀRI**
 ***(Esukàrì Sutta)***
 
-## Như vầy tôi nghe.
+**Như vầy tôi nghe.**
 
 Một thời Thế Tôn trú ở Savatthi (Xá Vệ), rừng Jetavana (Kỳ-đà-lâm), tại tinh xá ông Anathapindika
 (Cấp Cô Ðộc).

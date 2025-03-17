@@ -3,7 +3,7 @@
 **95. KINH CANKÌ**
 ***(Cankì Sutta)***
 
-## Như vầy tôi nghe.
+**Như vầy tôi nghe.**
 
 Một thời Thế Tôn du hành trong nước Kosala cùng với Ðại chúng Tỷ-kheo, và đi đến một làng Bà-la-
 môn của dân chúng Kosala, tên là Opasada.

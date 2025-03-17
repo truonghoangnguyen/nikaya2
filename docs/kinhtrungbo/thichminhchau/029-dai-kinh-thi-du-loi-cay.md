@@ -3,7 +3,7 @@
 **29. ÐẠI KINH THÍ DỤ LÕI CÂY**
 ***(Mahasaropama-Sutta)***
 
-## Như vầy tôi nghe.
+**Như vầy tôi nghe.**
 
 Một thời Thế Tôn ở tại Rajagaha (Vương Xá), núi Gijjhakuta (Linh Thứu), khi Devadatta (Ðề-bà-đạt-
 đa) từ bỏ (Chúng Tăng) ra đi không bao lâu. Ÿ đây, nhân việc Devadatta, Thế Tôn cho gọi các Tỷ-kheo

@@ -1,4 +1,7 @@
 const thichminhchau = [
+  { text: "Kinh Trung Bộ Ht. Thích Minh Châu", link: "/kinhtrungbo/thichminhchau/index.md" },
+  { text: "1. Lời Nói Ðầu", link: "/kinhtrungbo/thichminhchau/g1.md" },
+  { text: "2. Lời Giới Thiệu", link: "/kinhtrungbo/thichminhchau/g2.md" },
   { text: "1. KINH PHÁP MÔN CĂN BẢN", link: "/kinhtrungbo/thichminhchau/001-kinh-phap-mon-can-ban.md" },
   { text: "2. KINH TẤT CẢ CÁC LẬU HOẶC", link: "/kinhtrungbo/thichminhchau/002-kinh-tat-ca-cac-lau-hoac.md" },
   { text: "3. KINH THỪA TỰ PHÁP", link: "/kinhtrungbo/thichminhchau/003-kinh-thua-tu-phap.md" },
@@ -150,6 +153,7 @@ const thichminhchau = [
   { text: "149. ÐẠI KINH SÁU XỨ", link: "/kinhtrungbo/thichminhchau/149-dai-kinh-sau-xu.md" },
   { text: "150. KINH NÓI CHO DÂN NAGARAVINDA", link: "/kinhtrungbo/thichminhchau/150-kinh-noi-cho-dan-nagaravinda.md" },
   { text: "151. KINH KHẤT THỰC THANH TỊNH", link: "/kinhtrungbo/thichminhchau/151-kinh-khat-thuc-thanh-tinh.md" },
-  { text: "Kinh Trung Bộ:", link: "/kinhtrungbo/thichminhchau/mucluc.md" },
+  { text: "152. KINH CĂN TU TẬP", link: "/kinhtrungbo/thichminhchau/152-kinh-can-tu-tap.md" },
+
 ];
 export default thichminhchau;

@@ -3,7 +3,7 @@
 **20. KINH AN TRÚ TẦM**
 ***(Vtakkasanthàna Sutta)***
 
-## Như vầy tôi nghe.
+**Như vầy tôi nghe.**
 
 Một thời, Thế Tôn trú ở Savatthi (Xá-vệ), tại Jetavana (Kỳ-đà Lâm), vườn ông Anathapindika (Cấp Cô
 Ðộc). Tại đây, Thế Tôn gọi các Tỷ-kheo: "Chư Tỷ-kheo". -- "Thưa vâng, bạch Thế Tôn", các Tỷ-kheo

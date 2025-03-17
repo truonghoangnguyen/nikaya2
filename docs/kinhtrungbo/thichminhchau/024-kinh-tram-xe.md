@@ -3,7 +3,7 @@
 **24. KINH TRẠM XE**
 ***(Rathavinìta Sutta)***
 
-## Như vầy tôi nghe.
+**Như vầy tôi nghe.**
 
 Một thời Thế Tôn ở Rajagaha (Vương Xá) tại Veluvana (Trúc Lâm), Kalandakanivapa.
 

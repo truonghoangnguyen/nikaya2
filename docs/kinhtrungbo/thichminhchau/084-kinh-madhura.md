@@ -3,7 +3,7 @@
 **84. KINH MADHURÀ**
 ***(Madhurà Sutta)***
 
-## Như vầy tôi nghe.
+**Như vầy tôi nghe.**
 
 Một thời Tôn giả Mahakaccana (Ðại Ca-chiên-diên) trú ở Madhura, tại rừng Gunda.
 

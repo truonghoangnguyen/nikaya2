@@ -3,7 +3,7 @@
 **5. KINH KHÔNG UẾ NHIỄM**
 ***(Anangana Sutta)***
 
-## Như vầy tôi nghe.
+**Như vầy tôi nghe.**
 
 Một thời Thế Tôn ở Savatthi (Xá-vệ), tại Jetavana (Kỳ-đà Lâm), vườn ông Anathapindika (Cấp Cô
 Ðộc). Ở tại đây, Tôn giả Sariputta (Xá-lợi-phất) gọi các Tỷ-kheo. "Chư Hiền Tỷ-kheo". --"Thưa Hiền

@@ -36,7 +36,7 @@ such an action by speech.
 
 14\. "Also, Rāhula, after you have done an action by speech... (complete as in §11, substituting "speech" for "body")...you can abide happy and glad, training day and night in wholesome states.
 
-15\. "Rāhula, when you wish to do an action by mind...(complete as in $\S 9$, substituting "mind" for "body") [419]...you may do such an action by mind.
+15\. "Rāhula, when you wish to do an action by mind...(complete as in $ 9, substituting "mind" for "body") [419]...you may do such an action by mind.
 
 16\. "Also, Rāhula, while you are doing an action by mind... (complete as in §10, substituting "mind" for "body")...you may continue in such a mental action.
 

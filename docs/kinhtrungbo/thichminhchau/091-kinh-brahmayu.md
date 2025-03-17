@@ -3,7 +3,7 @@
 **91. KINH BRAHMÀYU**
 ***(Brahmàyu Sutta)***
 
-## Như vầy tôi nghe.
+**Như vầy tôi nghe.**
 
 Một thời Thế Tôn du hành ở Videha, cùng với đại chúng Tỷ-kheo khoảng năm trăm vị.
 

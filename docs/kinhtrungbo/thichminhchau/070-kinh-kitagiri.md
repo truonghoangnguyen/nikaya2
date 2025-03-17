@@ -3,7 +3,7 @@
 **70. KINH KÌTÀGIRI**
 ***(Kìtàgiri Sutta)***
 
-## Như vầy tôi nghe.
+**Như vầy tôi nghe.**
 
 Một thời Thế Tôn du hành ở Kasi cùng với đại chúng Tỷ-kheo. Ở đây, Thế Tôn gọi các Tỷ-kheo:
 

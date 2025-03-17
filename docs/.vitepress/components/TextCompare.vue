@@ -187,8 +187,8 @@ onMounted(async () => {
 <style>
 /* Non-scoped styles for proper markdown rendering */
 .text-content ul {
-  padding-left: 2em;
-  margin: 1em 0;
+  padding-left: 0em;
+  margin: 0;
 }
 
 .text-content li {

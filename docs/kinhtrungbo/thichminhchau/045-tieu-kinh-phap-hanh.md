@@ -3,7 +3,7 @@
 **45. TIỂU KINH PHÁP HÀNH**
 ***(Cùladhammasamàdàna Sutta)***
 
-## Như vầy tôi nghe.
+**Như vầy tôi nghe.**
 
 Một thời Thế Tôn ở Savatthi, tại Jetavana, tịnh xá ông Anathapindika (Cấp Cô Ðộc). Rồi Thế Tôn gọi
 các Tỷ-kheo:

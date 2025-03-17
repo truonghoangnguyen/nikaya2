@@ -3,7 +3,7 @@
 **68. KINH NALAKAPÀNA**
 ***(Nalakapàna Sutta)***
 
-## Như vầy tôi nghe.
+**Như vầy tôi nghe.**
 
 Một thời Thế Tôn trú giữa dân chúng Kosala (Câu-tát-la) tại Nalakapana, rừng cây Palasa.
 

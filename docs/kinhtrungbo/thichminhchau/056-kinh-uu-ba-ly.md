@@ -3,7 +3,7 @@
 **56. KINH ƯU-BA-LY**
 ***(Upàli Sutta)***
 
-## Như vầy tôi nghe.
+**Như vầy tôi nghe.**
 
 Một thời Thế Tôn ở tại Nalanda, trong rừng Pavarikamba.
 

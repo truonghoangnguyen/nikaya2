@@ -3,7 +3,7 @@
 **75. KINH MÀGANDIYA**
 ***(Màgandiya Sutta)***
 
-## Như vầy tôi nghe.
+**Như vầy tôi nghe.**
 
 Một thời Thế Tôn trú giữa dân chúng Kuru, tại thị trấn của dân chúng Kuru tên là Kammasadhamma,
 trên thảm cỏ trong nhà lửa của một Bà-la-môn thuộc dòng họ Bharadvaji.

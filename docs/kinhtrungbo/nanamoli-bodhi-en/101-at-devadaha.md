@@ -89,7 +89,7 @@ and despair do not arise in him when he sees that woman standing with another ma
 
 28\. "Suppose, bhikkhus, an arrowsmith were warming and heating an arrow shaft between two flames, making it straight and workable. When the arrow shaft had been warmed and heated between the two flames and had been made straight and workable, then at a later time he would not again warm and heat the arrow shaft and make it straight and workable. Why is that? The purpose for which that arrowsmith had warmed and heated the arrow and made it straight and workable has been achieved; that is why at a later time he would not again warm and heat the arrow shaft and make it straight and workable.
 
-29\. "So too, a bhikkhu considers thus...(as in $\S 27$ above) [226]...that is why at a later time he does not exert himself in what is painful. Thus too, bhikkhus, the exertion is fruitful, the striving is fruitful.
+29\. "So too, a bhikkhu considers thus...(as in $ 27 above) [226]...that is why at a later time he does not exert himself in what is painful. Thus too, bhikkhus, the exertion is fruitful, the striving is fruitful.
 
 30-37. "Again, bhikkhus, here a Tathāgata appears in the world, accomplished, fully enlightened...(as Sutta 51, §§12-19)... he purifies his mind from doubt.
 

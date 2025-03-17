@@ -3,7 +3,7 @@
 **54. KINH POTALIYA**
 ***(Potaliya Sutta)***
 
-## Như vầy tôi nghe.
+**Như vầy tôi nghe.**
 
 Một thời Thế Tôn ở tại Anguttarapa. Apana là một thị trấn của Anguttarapa.
 

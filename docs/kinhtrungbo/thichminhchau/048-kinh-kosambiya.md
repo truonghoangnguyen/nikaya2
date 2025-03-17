@@ -3,7 +3,7 @@
 **48. KINH KOSAMBIYA**
 ***(Kosambiya Sutta)***
 
-## Như vầy tôi nghe.
+**Như vầy tôi nghe.**
 
 Một thời Thế Tôn ở Kosambi, tại tịnh xá Ghosita. Lúc bấy giờ, các Tỷ-kheo ở Kosambi sống cạnh tranh,
 luận tranh, đấu tranh nhau, đả thương nhau bằng những binh khí miệng lưỡi. Họ không tự thông cảm

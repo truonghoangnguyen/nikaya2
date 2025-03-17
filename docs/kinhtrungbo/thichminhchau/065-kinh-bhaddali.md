@@ -3,7 +3,7 @@
 **65. KINH BHADDÀLI**
 ***(Bhaddàli Sutta)***
 
-## Như vầy tôi nghe.
+**Như vầy tôi nghe.**
 
 Một thời, Thế Tôn trú tại Savatthi, Jetavana, tịnh xá ông Anathapindika (Cấo Cô Ðộc).
 

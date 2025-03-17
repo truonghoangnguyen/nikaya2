@@ -5,13 +5,15 @@
 
 2\. "Này các Tỳ kheo, Ta sẽ giảng cho các ông một bài kinh về sự chế ngự tất cả các lậu hoặc (taints). [^32] [7] Hãy lắng nghe và chú ý kỹ những gì Ta sẽ nói." - "Thưa vâng, bạch Ngài," các Tỳ kheo đáp. Đức Thế Tôn nói như vầy:
 
-(TÓM TẮT)
+<!--pg-->
+### (TÓM TẮT)
 
 3\. "Này các Tỳ kheo, Ta nói rằng sự đoạn diệt các lậu hoặc là dành cho người biết và thấy, không phải cho người không biết và không thấy. Biết và thấy cái gì? Chú tâm đúng đắn (wise attention) và chú tâm không đúng đắn (unwise attention). [^33] Khi một người chú tâm không đúng đắn, các lậu hoặc chưa sanh thì sanh khởi và các lậu hoặc đã sanh thì tăng trưởng. Khi một người chú tâm đúng đắn, các lậu hoặc chưa sanh không sanh khởi và các lậu hoặc đã sanh được đoạn trừ.
 
 4\. "Này các Tỳ kheo, có những lậu hoặc cần phải được đoạn trừ bằng sự thấy. Có những lậu hoặc cần phải được đoạn trừ bằng sự chế ngự. Có những lậu hoặc cần phải được đoạn trừ bằng sự sử dụng. Có những lậu hoặc cần phải được đoạn trừ bằng sự chịu đựng. Có những lậu hoặc cần phải được đoạn trừ bằng sự tránh né. Có những lậu hoặc cần phải được đoạn trừ bằng sự loại trừ. Có những lậu hoặc cần phải được đoạn trừ bằng sự tu tập. [^34]
 
-(CÁC LẬU HOẶC CẦN ĐƯỢC ĐOẠN TRỪ BẰNG SỰ THẤY)
+<!--pg-->
+### (CÁC LẬU HOẶC CẦN ĐƯỢC ĐOẠN TRỪ BẰNG SỰ THẤY)
 
 5\. "Này các Tỳ kheo, những lậu hoặc nào cần phải được đoạn trừ bằng sự thấy? [^35] Ở đây, này các Tỳ kheo, một phàm phu (ordinary person) không được dạy dỗ, không tôn trọng các bậc Thánh (noble ones) và không khéo léo và không được huấn luyện trong Pháp (Dhamma) của các Ngài, không tôn trọng những bậc chân nhân và không khéo léo và không được huấn luyện trong Pháp của các Ngài, không hiểu những gì thích hợp để chú tâm và những gì không thích hợp để chú tâm. Vì vậy, người ấy chú tâm đến những điều không thích hợp để chú tâm và không chú tâm đến những điều thích hợp để chú tâm. [^36]
 
@@ -23,15 +25,17 @@
 
 9\. "Này các Tỳ kheo, một vị Thánh đệ tử (noble disciple) được dạy dỗ kỹ lưỡng, người tôn trọng các bậc Thánh và khéo léo và được huấn luyện trong Pháp của các Ngài, người tôn trọng những bậc chân nhân và khéo léo và được huấn luyện trong Pháp của các Ngài, hiểu những gì thích hợp để chú tâm và những gì không thích hợp để chú tâm. Vì vậy, [9] người ấy không chú tâm đến những điều không thích hợp để chú tâm và người ấy chú tâm đến những điều thích hợp để chú tâm.
 
-10\. "Những điều không thích hợp để chú tâm mà người ấy không chú tâm là gì? Đó là những điều mà khi người ấy chú tâm đến chúng, lậu hoặc dục ái chưa sanh thì sanh khởi trong người ấy...(như $\S 6$)...và lậu hoặc vô minh đã sanh thì tăng trưởng. Đây là những điều không thích hợp để chú tâm mà người ấy không chú tâm. Và những điều thích hợp để chú tâm mà người ấy chú tâm là gì? Đó là những điều mà khi người ấy chú tâm đến chúng, lậu hoặc dục ái chưa sanh không sanh khởi trong người ấy...(như $\S 6$)...và lậu hoặc vô minh đã sanh được đoạn trừ. Đây là những điều thích hợp để chú tâm mà người ấy chú tâm. Bằng cách không chú tâm đến những điều không thích hợp để chú tâm và bằng cách chú tâm đến những điều thích hợp để chú tâm, các lậu hoặc chưa sanh không sanh khởi trong người ấy và các lậu hoặc đã sanh được đoạn trừ.
+10\. "Những điều không thích hợp để chú tâm mà người ấy không chú tâm là gì? Đó là những điều mà khi người ấy chú tâm đến chúng, lậu hoặc dục ái chưa sanh thì sanh khởi trong người ấy...(như $ 6)...và lậu hoặc vô minh đã sanh thì tăng trưởng. Đây là những điều không thích hợp để chú tâm mà người ấy không chú tâm. Và những điều thích hợp để chú tâm mà người ấy chú tâm là gì? Đó là những điều mà khi người ấy chú tâm đến chúng, lậu hoặc dục ái chưa sanh không sanh khởi trong người ấy...(như $ 6)...và lậu hoặc vô minh đã sanh được đoạn trừ. Đây là những điều thích hợp để chú tâm mà người ấy chú tâm. Bằng cách không chú tâm đến những điều không thích hợp để chú tâm và bằng cách chú tâm đến những điều thích hợp để chú tâm, các lậu hoặc chưa sanh không sanh khởi trong người ấy và các lậu hoặc đã sanh được đoạn trừ.
 
 11\. "Người ấy chú tâm đúng đắn: 'Đây là khổ (suffering)'; người ấy chú tâm đúng đắn: 'Đây là nguồn gốc của khổ (origin of suffering)'; người ấy chú tâm đúng đắn: 'Đây là sự chấm dứt của khổ (cessation of suffering)'; người ấy chú tâm đúng đắn: 'Đây là con đường dẫn đến sự chấm dứt của khổ (way leading to the cessation of suffering)'. [^41] Khi người ấy chú tâm đúng đắn theo cách này, ba kiết sử (fetters) được đoạn trừ trong người ấy: thân kiến (personality view), nghi ngờ (doubt), và giới cấm thủ (adherence to rules and observances). Đây được gọi là những lậu hoặc cần phải được đoạn trừ bằng sự thấy. [^42]
 
-## (CÁC LẬU HOẶC CẦN ĐƯỢC ĐOẠN TRỪ BẰNG SỰ CHẾ NGỰ)
+<!--pg-->
+### (CÁC LẬU HOẶC CẦN ĐƯỢC ĐOẠN TRỪ BẰNG SỰ CHẾ NGỰ)
 
 12\. "Này các Tỳ kheo, những lậu hoặc nào cần phải được đoạn trừ bằng sự chế ngự? [^43] Ở đây, một Tỳ kheo, suy xét một cách khôn ngoan, an trú với nhãn căn (eye faculty) được chế ngự. Trong khi các lậu hoặc, phiền não (vexation), và sốt (fever) có thể sanh khởi trong một người an trú với nhãn căn không được chế ngự, thì không có các lậu hoặc, phiền não, hoặc sốt trong một người an trú với nhãn căn được chế ngự. [^44] Suy xét một cách khôn ngoan, người ấy an trú với nhĩ căn (ear faculty) được chế ngự...với tỷ căn (nose faculty) được chế ngự... với thiệt căn (tongue faculty) được chế ngự... với thân căn (body faculty) được chế ngự... với ý căn (mind faculty) được chế ngự... Trong khi các lậu hoặc, phiền não, và sốt có thể sanh khởi trong một người an trú với các căn không được chế ngự, [10] thì không có các lậu hoặc, phiền não, hoặc sốt trong một người an trú với các căn được chế ngự. Đây được gọi là những lậu hoặc cần phải được đoạn trừ bằng sự chế ngự.
 
-## (CÁC LẬU HOẶC CẦN ĐƯỢC ĐOẠN TRỪ BẰNG SỰ SỬ DỤNG)
+<!--pg-->
+### (CÁC LẬU HOẶC CẦN ĐƯỢC ĐOẠN TRỪ BẰNG SỰ SỬ DỤNG)
 
 13\. "Này các Tỳ kheo, những lậu hoặc nào cần phải được đoạn trừ bằng sự sử dụng? [^45] Ở đây, một Tỳ kheo, suy xét một cách khôn ngoan, sử dụng y phục (robe) chỉ để bảo vệ khỏi lạnh, để bảo vệ khỏi nóng, để bảo vệ khỏi sự tiếp xúc với ruồi muỗi, gió, mặt trời, và các loài bò sát, và chỉ cho mục đích che đậy những phần kín đáo.
 
@@ -43,23 +47,28 @@
 
 17\. "Trong khi các lậu hoặc, phiền não, và sốt có thể sanh khởi trong một người không sử dụng các vật dụng như vậy, thì không có các lậu hoặc, phiền não, hoặc sốt trong một người sử dụng chúng như vậy. Đây được gọi là những lậu hoặc cần phải được đoạn trừ bằng sự sử dụng.
 
-## (CÁC LẬU HOẶC CẦN ĐƯỢC ĐOẠN TRỪ BẰNG SỰ CHỊU ĐỰNG)
+<!--pg-->
+### (CÁC LẬU HOẶC CẦN ĐƯỢC ĐOẠN TRỪ BẰNG SỰ CHỊU ĐỰNG)
 
 18\. "Này các Tỳ kheo, những lậu hoặc nào cần phải được đoạn trừ bằng sự chịu đựng? Ở đây, một Tỳ kheo, suy xét một cách khôn ngoan, chịu đựng lạnh và nóng, đói và khát, và sự tiếp xúc với ruồi muỗi, gió, mặt trời, và các loài bò sát; người ấy chịu đựng những lời nói khó nghe, không được hoan nghênh và những cảm giác thân thể đã sanh khởi mà đau đớn, dữ dội, nhức nhối, khó chịu, khổ sở, và đe dọa đến tính mạng. Trong khi các lậu hoặc, phiền não, và sốt có thể sanh khởi trong một người không chịu đựng những điều như vậy, thì không có các lậu hoặc, phiền não, hoặc sốt trong một người chịu đựng chúng. Đây được gọi là những lậu hoặc cần phải được đoạn trừ bằng sự chịu đựng.
 
-## (CÁC LẬU HOẶC CẦN ĐƯỢC ĐOẠN TRỪ BẰNG SỰ TRÁNH NÉ)
+<!--pg-->
+### (CÁC LẬU HOẶC CẦN ĐƯỢC ĐOẠN TRỪ BẰNG SỰ TRÁNH NÉ)
 
 19\. "Này các Tỳ kheo, những lậu hoặc nào cần phải được đoạn trừ bằng sự tránh né? Ở đây, một Tỳ kheo, suy xét một cách khôn ngoan, tránh né một con voi rừng, một con ngựa rừng, một con bò rừng, một con chó dại, một con rắn, một gốc cây, [11] một đám gai, một vực thẳm, một vách đá, một hố xí, một cống rãnh. Suy xét một cách khôn ngoan, người ấy tránh né việc ngồi trên những chỗ ngồi không thích hợp, đi đến những nơi không thích hợp, [^46] và giao du với những người bạn xấu, vì nếu người ấy làm như vậy, những người bạn đồng tu khôn ngoan trong đời sống phạm hạnh có thể nghi ngờ người ấy có hành vi xấu. Trong khi các lậu hoặc, phiền não, và sốt có thể sanh khởi trong một người không tránh né những điều này, thì không có các lậu hoặc, phiền não, và sốt trong một người tránh né chúng. Đây được gọi là những lậu hoặc cần phải được đoạn trừ bằng sự tránh né.
 
-## (CÁC LẬU HOẶC CẦN ĐƯỢC ĐOẠN TRỪ BẰNG SỰ LOẠI TRỪ)
+<!--pg-->
+### (CÁC LẬU HOẶC CẦN ĐƯỢC ĐOẠN TRỪ BẰNG SỰ LOẠI TRỪ)
 
 20\. "Này các Tỳ kheo, những lậu hoặc nào cần phải được đoạn trừ bằng sự loại trừ? Ở đây, một Tỳ kheo, suy xét một cách khôn ngoan, không dung thứ một ý nghĩ dục ái đã sanh khởi; người ấy từ bỏ nó, loại trừ nó, dứt bỏ nó, và tiêu diệt nó. Người ấy không dung thứ một ý nghĩ sân hận (ill will)...Người ấy không dung thứ một ý nghĩ tàn ác (cruelty)...Người ấy không dung thứ những trạng thái bất thiện (unwholesome states) xấu ác đã sanh khởi; người ấy từ bỏ chúng, loại trừ chúng, dứt bỏ chúng, và tiêu diệt chúng. [^47] Trong khi các lậu hoặc, phiền não, và sốt có thể sanh khởi trong một người không loại trừ những ý nghĩ này, thì không có các lậu hoặc, phiền não, hoặc sốt trong một người loại trừ chúng. Đây được gọi là những lậu hoặc cần phải được đoạn trừ bằng sự loại trừ.
 
-## (CÁC LẬU HOẶC CẦN ĐƯỢC ĐOẠN TRỪ BẰNG SỰ TU TẬP)
+<!--pg-->
+### (CÁC LẬU HOẶC CẦN ĐƯỢC ĐOẠN TRỪ BẰNG SỰ TU TẬP)
 
 21\. "Này các Tỳ kheo, những lậu hoặc nào cần phải được đoạn trừ bằng sự tu tập? Ở đây, một Tỳ kheo, suy xét một cách khôn ngoan, tu tập chi phần giác ngộ niệm (mindfulness enlightenment factor), được hỗ trợ bởi sự viễn ly (seclusion), ly dục (dispassion), và đoạn diệt (cessation), và chín muồi trong sự xả ly (relinquishment). Người ấy tu tập chi phần giác ngộ trạch pháp (investigation-of-states enlightenment factor)...chi phần giác ngộ tinh tấn (energy enlightenment factor)...chi phần giác ngộ hỷ (rapture enlightenment factor)...chi phần giác ngộ tịnh chỉ (tranquillity enlightenment factor)...chi phần giác ngộ định (concentration enlightenment factor)...chi phần giác ngộ xả (equanimity enlightenment factor), được hỗ trợ bởi sự viễn ly, ly dục, và đoạn diệt, và chín muồi trong sự xả ly. [^48] Trong khi các lậu hoặc, phiền não, và sốt có thể sanh khởi trong một người không tu tập những chi phần giác ngộ này, thì không có các lậu hoặc, phiền não, hoặc sốt trong một người tu tập chúng. Đây được gọi là những lậu hoặc cần phải được đoạn trừ bằng sự tu tập. [^49]
 
-## (KẾT LUẬN)
+<!--pg-->
+### (KẾT LUẬN)
 
 22\. "Này các Tỳ kheo, khi đối với một Tỳ kheo, những lậu hoặc cần phải được đoạn trừ bằng sự thấy đã được đoạn trừ bằng sự thấy, khi những lậu hoặc cần phải được đoạn trừ bằng sự chế ngự đã được đoạn trừ bằng sự chế ngự, khi những lậu hoặc cần phải được đoạn trừ bằng sự sử dụng đã được đoạn trừ bằng sự sử dụng, khi những lậu hoặc cần phải được đoạn trừ bằng sự chịu đựng đã được đoạn trừ bằng sự chịu đựng, khi những lậu hoặc cần phải được đoạn trừ bằng sự tránh né [12] đã được đoạn trừ bằng sự tránh né, khi những lậu hoặc cần phải được đoạn trừ bằng sự loại trừ đã được đoạn trừ bằng sự loại trừ, khi những lậu hoặc cần phải được đoạn trừ bằng sự tu tập đã được đoạn trừ bằng sự tu tập - thì người ấy được gọi là một Tỳ kheo an trú chế ngự với sự chế ngự tất cả các lậu hoặc. Người ấy đã chặt đứt ái dục (craving), vứt bỏ các kiết sử (fetters), và với sự thấu suốt hoàn toàn ngã mạn (conceit), người ấy đã chấm dứt khổ đau." [^50]
 

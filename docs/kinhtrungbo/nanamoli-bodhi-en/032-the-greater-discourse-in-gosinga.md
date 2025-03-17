@@ -25,7 +25,6 @@ we ask the venerable Mahā Kassapa: Friend Kassapa, the Gosinga Sāla-tree Wood 
 
 8\. When this was said, the venerable Sāriputta addressed the venerable Mahā Moggallāna thus: "Friend Moggallāna, the venerable Mahā Kassapa has spoken according to his own inspiration. Now we ask the venerable Mahā Moggallāna: Friend Moggallāna, the Gosinga Sāla-tree Wood is delightful...What kind of bhikkhu, friend Moggallāna, could illuminate this Gosinga Sāla-tree Wood?"
 
-![img-2.jpeg](img-2.jpeg)
 
 9\. When this was said, the venerable Mahā Moggallāna addressed the venerable Sāriputta thus: "Friend Sāriputta, we have all spoken according to our own inspiration. Now we ask the venerable Sāriputta: Friend Sāriputta, the Gosinga Sāla-tree Wood is delightful, the night is moonlit, the sāla trees are all in
 blossom, and heavenly scents seem to be floating in the air. What kind of bhikkhu, friend Sariputta, could illuminate this Gosinga Sala-tree Wood?"

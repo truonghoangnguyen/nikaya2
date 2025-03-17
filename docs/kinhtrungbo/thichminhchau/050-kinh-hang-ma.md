@@ -3,7 +3,7 @@
 **50. KINH HÀNG MA**
 ***(Màratajjanìya Sutta)***
 
-## Như vầy tôi nghe.
+**Như vầy tôi nghe.**
 
 Một thời Tôn giả Maha Moggallana trú giữa dân chúng Bhagga, tại Sumsumaragira, rừng
 Bhessakalavana, vườn Lộc Uyển.

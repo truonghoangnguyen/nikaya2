@@ -3,7 +3,7 @@
 **23. KINH GÒ MỐI**
 ***(Vammika Sutta)***
 
-## Như vầy tôi nghe.
+**Như vầy tôi nghe.**
 
 Một thời Thế Tôn ở Savatthi, tại Jetavana, vườn ông Anathapindika. Lúc bấy giờ, Tôn giả Kumara
 Kassapa trú tại Andhavana.

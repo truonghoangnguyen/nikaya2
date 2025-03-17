@@ -3,7 +3,7 @@
 **14. TIỂU KINH KHỔ UẨN**
 ***(Cùladukkhakkhanda Sutta)***
 
-## Như vầy tôi nghe.
+**Như vầy tôi nghe.**
 
 Một thời, Thế Tôn sống giữa giòng họ Sakka (Thích-ca), trong thành Kapilavatthu (Ca-tỳ-la-vệ) tại
 vườn Nigrodha (Ni-câu-luật Viên).

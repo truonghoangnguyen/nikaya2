@@ -3,7 +3,7 @@
 **49. KINH PHẠM THIÊN CẦU THỈNH**
 ***(Brahmanimantanika Sutta)***
 
-## Như vầy tôi nghe.
+**Như vầy tôi nghe.**
 
 Một thời Thế Tôn ở Savatthi, tại Jetavana, vườn Ông Anathapindika (Cấp Cô Ðộc). Ở đây, Thế Tôn gọi
 các Tỷ-kheo:

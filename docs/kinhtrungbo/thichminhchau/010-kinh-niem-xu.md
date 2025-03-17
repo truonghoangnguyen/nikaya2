@@ -3,7 +3,7 @@
 **10. KINH NIỆM XỨ**
 ***(Satipatthàna Sutta)***
 
-## Như vầy tôi nghe.
+**Như vầy tôi nghe.**
 
 Một thời Thế Tôn ở xứ Kuru (Câu-lâu), Kammassadhamma (kiềm-ma sắt đàm) là đô thị của xứ Kuru.
 Rồi Thế Tôn gọi các Tỷ-kheo:

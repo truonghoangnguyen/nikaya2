@@ -4,7 +4,7 @@
 **1. KINH PHÁP MÔN CĂN BẢN**
 ***(Mùlapariyàya Sutta)***
 
-## Như vầy tôi nghe.
+**Như vầy tôi nghe.**
 
 Một thời Thế Tôn trú tại (tụ lạc) Ukkattha, trong rừng Subhaga (rừng Hạnh phúc), dưới gốc cây Sa-la
 vương. Tại chỗ ấy, Thế Tôn gọi các Tỷ-kheo: "Này các Tỷ-kheo!". - "Bạch Thế Tôn", những Tỷ-kheo

@@ -3,7 +3,7 @@
 **33. ÐẠI KINH NGƯỜI CHĂN BÒ**
 ***(Mahàgopàlaka Sutta)***
 
-## Như vầy tôi nghe.
+**Như vầy tôi nghe.**
 
 Một thời Thế Tôn ở tại Savatthi (Xá-vệ), Jetavana (Kỳ-đà Lâm), vườn ông Anathapindika (Cấp Cô
 Ðộc). Ở tại đây, Thế Tôn gọi các Tỷ-kheo:

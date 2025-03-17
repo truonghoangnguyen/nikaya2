@@ -3,7 +3,7 @@
 **44. TIỂU KINH PHƯƠNG QUẢNG**
 ***(Cùlavedalla Sutta)***
 
-## Như vầy tôi nghe.
+**Như vầy tôi nghe.**
 
 Một thời Thế Tôn ở Rajagaha (Vương Xá), tai Veluvana (Trúc Lâm), chỗ Kalandaka Nivapa. Rồi nam
 cư sĩ Visakha đến chỗ Tỷ-kheo-ni Dhammadinna ở, sau khi đến, đảnh lễ Tỷ-kheo-ni Dhammadinna rồi

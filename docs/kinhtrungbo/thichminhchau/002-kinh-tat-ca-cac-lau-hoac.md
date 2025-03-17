@@ -3,7 +3,7 @@
 **2. KINH TẤT CẢ CÁC LẬU HOẶC**
 ***(Sabbàsava Sutta)***
 
-## Như vầy tôi nghe.
+**Như vầy tôi nghe.**
 
 Một thời Thế Tôn ở Savatthi (Xá-vệ), tại Jetavana (Kỳ-đà Lâm), vườn ông Anathapindika (Cấp Cô
 Ðộc). Khi ở tại chỗ ấy, Thế Tôn gọi các Tỷ-kheo: "Này các Tỷ-kheo!" --"Bạch Thế Tôn", các Tỷ-kheo
@@ -11,7 +11,7 @@ Một thời Thế Tôn ở Savatthi (Xá-vệ), tại Jetavana (Kỳ-đà Lâm)
 tất cả lậu hoặc". Hãy nghe và khéo tác ý. Ta sẽ nói". --"Thưa vâng, bạch Thế Tôn". Thế Tôn nói như
 sau:
 
-<!--p1-->
+<!--pg-->
 ***(Tóm lược)***
 
 -- Này các Tỷ-kheo, Ta giảng sự diệt tận các lậu hoặc cho người biết, cho người thấy, không phải cho
@@ -24,7 +24,7 @@ Tỷ-kheo, có những lậu hoặc phải do tri kiến được đoạn trừ,
 được đoạn trừ, có những lậu hoặc phải do tránh né được đoạn trừ, có những lậu hoặc phải do trừ diệt
 được đoạn trừ, có những lậu hoặc phải do tu tập được đoạn trừ.
 
-<!--p2-->
+<!--pg-->
 ***(Các lậu hoặc phải do tri kiến được đoạn trừ)***
 
 Này các Tỷ-kheo, và thế nào là các lậu hoặc phải do tri kiến được đoạn trừ? Này các Tỷ-kheo, ở đây có
@@ -87,7 +87,7 @@ tác ý: "Ðây là con đường đưa đến khổ diệt". Nhờ vị ấy t�
 nghi, giới cấm thủ. Này các Tỷ-kheo, các pháp ấy được gọi là các lậu hoặc phải do tri kiến được đoạn
 trừ.
 
-<!--p3-->
+<!--pg-->
 ***(Các lậu hoặc phải do phòng hộ được đoạn trừ)***
 
 Và này các Tỷ-kheo, thế nào là các lậu hoặc phải do phòng hộ được đoạn trừ? Ở đây, có Tỷ-kheo như lý
@@ -101,7 +101,7 @@ sự phòng hộ ý, các lậu hoặc tàn hại và nhiệt não ấy có th�
 tàn hại và nhiệt não ấy không còn nữa. Này các Tỷ-kheo, các pháp ấy được gọi là các lậu hoặc phải do
 phòng hộ được đoạn trừ.
 
-<!--p4-->
+<!--pg-->
 ***(Các lậu hoặc phải do thọ dụng được đoạn trừ)***
 
 Và này các Tỷ-kheo, thế nào là các lậu hoặc phải do thọ dụng được đoạn trừ? Này các Tỷ-kheo, ở đây,
@@ -124,7 +124,7 @@ Này các Tỷ-kheo, nếu vị ấy không thọ dụng như vậy, các lậu 
 Nếu vị ấy thọ dụng như vậy, các lậu hoặc tàn hại và nhiệt não ấy không còn nữa. Này các Tỷ-kheo, các
 pháp ấy được gọi là các lậu hoặc phải do thọ dụng được đoạn trừ.
 
-<!--p5-->
+<!--pg-->
 ***(Các lậu hoặc phải do kham nhẫn được đoạn trừ)***
 
 Và này các Tỷ-kheo, thế nào là các lậu hoặc phải do kham nhẫn được đoạn trừ? Này các Tỷ-kheo, ở đây,
@@ -135,7 +135,7 @@ thú, chết điếng người. Này các Tỷ-kheo, nếu vị ấy không kham
 nhiệt não có thể khởi lên. Nếu vị ấy kham nhẫn như vậy, các lậu hoặc tàn hại và nhiệt não ấy không còn
 nữa. Này các Tỷ-kheo, các pháp ấy được gọi là các lậu hoặc phải do kham nhẫn được đoạn trừ.
 
-<!--p6-->
+<!--pg-->
 ***(Các lậu hoặc phải do tránh né được đoạn trừ)***
 
 Và này các Tỷ-kheo, thế nào là các lậu hoặc phải do tránh né được đoạn trừ? Này các Tỷ-kheo, ở đây,
@@ -147,7 +147,7 @@ nên lai vãng ấy và các bạn độc ác ấy. Này các Tỷ-kheo, nếu v
 tàn hại và nhiệt não ấy có thể khởi lên. Nếu vị ấy tránh né như vậy, các lậu hoặc tàn hại và nhiệt não ấy
 không còn nữa. Này các Tỷ-kheo, các pháp ấy được gọi là các lậu hoặc phải do tránh né được đoạn trừ.
 
-<!--p7-->
+<!--pg-->
 ***(Các lậu hoặc phải do trừ diệt được đoạn trừ)***
 
 Và này các Tỷ-kheo, thế nào là các lậu hoặc phải do trừ diệt được đoạn trừ? Này các Tỷ-kheo, ở đây,
@@ -159,7 +159,7 @@ cho tồn tại (các ác bất thiện pháp ấy). Này các Tỷ-kheo, nếu 
 tàn hại và nhiệt não ấy có thể khởi lên. Nếu vị ấy trừ diệt như vậy, các lậu hoặc tàn hại và nhiệt não ấy
 không còn nữa. Này các Tỷ-kheo, các pháp ấy được gọi là các lậu hoặc phải do trừ diệt được đoạn diệt.
 
-<!--p8-->
+<!--pg-->
 ***(Các lậu hoặc phải do tu tập được đoạn trừ)***
 
 Và này các Tỷ-kheo, thế nào là các lậu hoặc phải do tu tập được đoạn trừ? Này các Tỷ-kheo, ở đây, Tỷ-
@@ -171,7 +171,7 @@ tham, y đoạn diệt, hướng đến từ bỏ. Này các Tỷ-kheo, nếu v�
 hại và nhiệt não ấy có thể khởi lên. Nếu vị ấy tu tập như vậy, các lậu hoặc tàn hại và nhiệt não ấy không
 còn nữa. Này các Tỷ-kheo, các pháp ấy được gọi là các lậu hoặc phải do tu tập được đoạn trừ.
 
-<!--p9-->
+<!--pg-->
 ***(Kết luận)***
 
 Này các Tỷ-kheo, đối với Tỷ-kheo những lậu hoặc nào phải do tri kiến được đoạn trừ đã được tri kiến

@@ -3,7 +3,7 @@
 **43. ÐẠI KINH PHƯƠNG QUẢNG**
 ***(Mahàvedalla Sutta)***
 
-## Như vầy tôi nghe.
+**Như vầy tôi nghe.**
 
 Một thời Thế Tôn ở Savatthi, tại Jetavana, tịnh xá ông Anathapindika. Lúc bấy giờ, Tôn giả Maha
 Kotthita (Ðại Câu-hy-la), vào buổi chiều, khi thiền định xong, đứng dậy, đi đến chỗ Tôn giả Sariputta ở,

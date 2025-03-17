@@ -1,5 +1,6 @@
 import { defineConfig } from 'vitepress'
 import footnote from 'markdown-it-footnote';
+// import markdownItKatex from 'markdown-it-katex';
 import thichminhchau from '../kinhtrungbo/thichminhchau/filelist';
 import nanamoli_bodhi_en from '../kinhtrungbo/nanamoli-bodhi-en/filelist';
 
@@ -16,8 +17,8 @@ export default defineConfig({
 
     config: (md) => {
       // Add the footnote plugin
-      md.use(footnote);
-
+      //md.use(footnote);
+      // md.use(markdownItKatex);
       // Any other markdown-it plugins you're using
     }
   },
@@ -135,12 +136,12 @@ export default defineConfig({
         text: 'Collections',
         items: [
           { text: 'Kinh Trung Bộ', link: '/kinhtrungbo/' },
-          { text: 'Kinh Trường Bộ', link: '/kinhtruongbo/' },
-          { text: 'Kinh Tương Ưng', link: '/kinhtuongung/' }
+          // { text: 'Kinh Trường Bộ', link: '/kinhtruongbo/' },
+          // { text: 'Kinh Tương Ưng', link: '/kinhtuongung/' }
         ]
       },
-      { text: 'Compare', link: '/compare/' },
-      { text: 'Dynamic Compare', link: '/c/' }
+      // { text: 'Compare', link: '/compare/' },
+      // { text: 'Dynamic Compare', link: '/c/' }
     ],
 
     sidebar: {

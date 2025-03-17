@@ -3,7 +3,7 @@
 **58. KINH VƯƠNG TỬ VÔ ÚY**
 ***(Abhayaràjakumàra Sutta)***
 
-## Như vầy tôi nghe.
+**Như vầy tôi nghe.**
 
 Một thời Thế Tôn ở tại Rajagaha (Vương Xá), Veluvana (Trúc Lâm), Kalandakanivapa (chỗ nuôi các
 con sóc).

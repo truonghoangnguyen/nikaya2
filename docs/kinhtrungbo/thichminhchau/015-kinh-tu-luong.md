@@ -3,7 +3,7 @@
 **15. KINH TƯ LƯỢNG**
 ***(Anumàna Sutta)***
 
-## Như vầy tôi nghe.
+**Như vầy tôi nghe.**
 
 Một thời, Tôn giả Mahamoggallana sống giữa những người thuộc dòng họ Bhagga, tại núi
 Sumsumaragira, rừng Bhesakala, vườn Lộc Uyển. Ở đây, Tôn giả Mahamoggallana (Ðại Mục-kiền-liên)

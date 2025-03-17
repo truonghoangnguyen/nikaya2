@@ -3,7 +3,7 @@
 **94. KINH GHOTAMUKHA**
 ***(Ghotamukha Sutta)***
 
-## Như vầy tôi nghe.
+**Như vầy tôi nghe.**
 
 Một thời Tôn giả Udena trú ở Baranasi (Ba-la-nại), tại rừng xoài Khemiya.
 

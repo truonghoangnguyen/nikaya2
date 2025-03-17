@@ -3,7 +3,7 @@
 **71. KINH DẠY VACCHAGOTTA VỀ TAM MINH**
 ***(Tevijjavacchagotta Sutta)***
 
-## Như vầy tôi nghe.
+**Như vầy tôi nghe.**
 
 Một thời Thế Tôn ở Vesali (Tỳ-xá-ly) rừng Ðại Lâm, tại Kutagarasala (Trùng Các Giảng đường).
 

@@ -34,24 +34,47 @@ function toHomeCompare(url) {
     return null; // Or handle the error
   }
 
-  const fileIdStr = filename.split('-')[0]; // "001"
-    //console.log(fileIdStr);
-  const fileId = parseInt(fileIdStr, 10);
-   // console.log(fileId);
+  // const fileIdStr = filename.split('-')[0]; // "001"
+  //   //console.log(fileIdStr);
+  // const fileId = parseInt(fileIdStr, 10);
+  //  // console.log(fileId);
 
-  if (isNaN(fileId)) {
-    //console.error("Invalid file ID:", fileIdStr);
-    return null; // Or handle the error
+  // if (isNaN(fileId)) {
+  //   //console.error("Invalid file ID:", fileIdStr);
+  //   return null; // Or handle the error
+  // }
+
+  // // (2) Get data (already provided in the problem statement)
+
+  // // (3) Get the corresponding link from thichminhchau
+  // if (fileId > thichminhchau.length || fileId < 1) {
+  //     console.error("fileId out of range", fileId);
+  //     return null;
+  // }
+
+  // // in thichminhchau filelist, get index begin of 001 suttra
+  // const thichMinhChauLink = thichminhchau[fileId - 1].link;
+
+  function findIndexByFilename(filename, listfile) {
+    const baseFilename = filename.split('?')[0].replace(/\.html$/, '');
+
+    // Create a regular expression from the base filename.  Escape special characters for safety.
+    const regex = new RegExp(baseFilename.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'));
+
+    for (let i = 0; i < listfile.length; i++) {
+        if (listfile[i].link && regex.test(listfile[i].link)) {
+            return i;
+        }
+    }
+    return -1;
   }
-
-  // (2) Get data (already provided in the problem statement)
-
-  // (3) Get the corresponding link from thichminhchau
-  if (fileId > thichminhchau.length || fileId < 1) {
-      console.error("fileId out of range", fileId);
-      return null;
+  const fileId = findIndexByFilename(filename, thichminhchau);
+  if (fileId == -1){
+    console.error("fileId out of range", filename);
+    return null;
   }
   const thichMinhChauLink = thichminhchau[fileId - 1].link;
+
     // console.log(thichMinhChauLink); // /kinhtrungbo/thichminhchau/001-kinh-phap-mon-can-ban.md
   const tmcFilename = thichMinhChauLink.split('/').pop().replace(".md", ""); // "001-kinh-phap-mon-can-ban"
      //console.log(tmcFilename);

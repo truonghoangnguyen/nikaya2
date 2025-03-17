@@ -3,7 +3,7 @@
 **67. KINH CÀTUMÀ**
 ***(Càtumà Sutta)***
 
-## Như vầy tôi nghe.
+**Như vầy tôi nghe.**
 
 Một thời Thế Tôn ở tại Catuma trong rừng cây Kha-lưu-lạc (Myrobalan).
 

@@ -4,7 +4,7 @@
 **51. KINH KANDARAKA**
 ***(Kandaraka sutta)***
 
-## Như vầy tôi nghe.
+**Như vầy tôi nghe.**
 
 Một thời Thế Tôn ở tại Campa, trên bờ hồ Gaggara cùng với đại chúng Tỷ-kheo. Rồi Pessa, con trai
 người huấn luyện voi và Du sĩ Kandaraka đi đến chỗ Thế Tôn ở Pessa, con trai người huấn luyện voi sau

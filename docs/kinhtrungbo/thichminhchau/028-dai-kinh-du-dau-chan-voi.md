@@ -3,7 +3,7 @@
 **28. ÐẠI KINH DỤ DẤU CHÂN VOI**
 ***(Mahàhatthipadopama Sutta)***
 
-## Như vầy tôi nghe.
+**Như vầy tôi nghe.**
 
 Một thời, Thế Tôn trú ở Savatthi (Xá-vệ), tại Jetavana (Kỳ-đà Lâm), vườn ông Anathapindika (Cấp Cô
 Ðộc). Ở đây, Tôn giả Sariputta (Xá-lợi-phất) gọi các Tỷ-kheo:

@@ -3,7 +3,7 @@
 **47. KINH TƯ SÁT**
 ***(Vìmamsaka Sutta)***
 
-## Như vầy tôi nghe.
+**Như vầy tôi nghe.**
 
 Một thời Thế Tôn ở Savatthi, tại Jetavana, tịnh xá của Ông Anathapindika (Cấp Cô Ðộc). Ở đây, Thế
 Tôn gọi các Tỷ-kheo:

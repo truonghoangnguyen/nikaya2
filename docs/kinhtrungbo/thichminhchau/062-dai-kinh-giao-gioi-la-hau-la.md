@@ -3,7 +3,7 @@
 **62. ÐẠI KINH GIÁO GIỚI LA-HẦU-LA**
 ***(Mahà Ràhulovàda Sutta)***
 
-## Như vầy tôi nghe.
+**Như vầy tôi nghe.**
 
 Một thời, Thế Tôn ở Savatthi, Jetavana, tại tịnh xá Anathapindika (Cấp Cô độc).
 

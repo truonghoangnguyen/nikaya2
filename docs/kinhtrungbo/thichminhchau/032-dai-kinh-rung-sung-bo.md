@@ -3,7 +3,7 @@
 **32. ÐẠI KINH RỪNG SỪNG BÒ**
 ***(Mahàgosinga Sutta)***
 
-## Như vầy tôi nghe.
+**Như vầy tôi nghe.**
 
 Một thời Thế Tôn ở tại khu vườn trong rừng Gosinga có nhiều cây ta-la cùng với một số đông Thượng
 Tọa đệ tử nổi tiếng như Tôn giả Sariputta (Xá-lợi-phất) Tôn giả Maha Moggallana (Ðại Mục-kiền-liên),

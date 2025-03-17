@@ -3,7 +3,7 @@
 **31. TIỂU KINH RỪNG SỪNG BÒ**
 ***(Cùlagosinga Sutta)***
 
-## Như vầy tôi nghe.
+**Như vầy tôi nghe.**
 
 Một thời Thế Tôn ở Nadika, tại Ginjakavasatha.
 

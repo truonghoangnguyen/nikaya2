@@ -3,7 +3,7 @@
 **59. KINH NHIỀU CẢM THỌ**
 ***(Bahuvedanìya Sutta)***
 
-## Như vầy tôi nghe.
+**Như vầy tôi nghe.**
 
 Một thời, Thế Tôn ở tại Savatthi (Xá vệ), Jetavana (Rừng Kỳ đà), tinh xá ông Anathapindika (Cấp Cô
 Ðộc).

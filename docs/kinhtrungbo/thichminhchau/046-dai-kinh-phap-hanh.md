@@ -3,7 +3,7 @@
 **46. ÐẠI KINH PHÁP HÀNH**
 ***(Mahàdhammasamàdàna Sutta)***
 
-## Như vầy tôi nghe.
+**Như vầy tôi nghe.**
 
 Một thời Thế Tôn ở Savatthi, Jetavana, tại tịnh xá Ông Anathapindika (Cấp Cô Ðộc). Ở đây Thế Tôn
 gọi các Tỷ-kheo:
