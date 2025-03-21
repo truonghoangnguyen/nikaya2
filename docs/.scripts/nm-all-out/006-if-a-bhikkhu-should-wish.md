@@ -60,7 +60,7 @@ resorts to an empty hut to develop serenity and insight.
 
 [^81]: In addition to the first three fetters, the non-returner destroys the other two "lower fetters" of sensual desire and ill will. The non-returner is reborn in a special region of the Brahma-world called the Pure Abodes, and there makes an end of suffering.
 
-$82 \S \S 14-19$ present the six kinds of direct knowledge (abhiñña). See Introduction, p. 37; for details, see Vsm XII and XIII.
+§82 \S \S 14-19$ present the six kinds of direct knowledge (abhiñña). See Introduction, p. 37; for details, see Vsm XII and XIII.
 
 [^83]: MA: In this passage "mind" and "wisdom" signify, respectively, the concentration and wisdom associated with the fruit of arahantship. Concentration is called "deliverance of mind" (cetovimutti) because it is liberated from lust; wisdom is called "deliverance by wisdom" (paññāvimutti) because it is liberated from ignorance. The former is normally the result of serenity, the latter the result of insight. But when they are coupled and described as taintless (anāsava), they jointly result from the destruction of the taints by the supramundane path of arahantship.
 

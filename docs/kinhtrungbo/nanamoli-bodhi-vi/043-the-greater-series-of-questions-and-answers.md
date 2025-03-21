@@ -18,7 +18,7 @@ Saying, "Good, friend," the venerable Mahā Kotthita delighted and rejoiced in t
 "'One wisely understands, one wisely understands,' friend; that is why it is said, 'one who is wise.' What does one wisely understand? One wisely understands: 'This is suffering'; one
 wisely understands: 'This is the origin of suffering'; one wisely understands: 'This is the cessation of suffering'; one wisely understands: 'This is the way leading to the cessation of suffering.' 'One wisely understands, one wisely understands,' friend; that is why it is said, 'one who is wise.'"429
 
-## (CONSCIOUSNESS)
+#### (CONSCIOUSNESS)
 
 4. "'Consciousness, consciousness' is said, friend. With reference to what is 'consciousness' said?"
 
@@ -32,13 +32,13 @@ wisely understands: 'This is the origin of suffering'; one wisely understands: '
 
 "The difference, friend, between wisdom and consciousness, these states that are conjoined, not disjoined, is this: wisdom is to be developed, consciousness is to be fully understood." [^433]
 
-## (FEELING)
+#### (FEELING)
 
 7. "'Feeling, feeling' is said, friend. With reference to what is 'feeling' said?"
 
 "'It feels, it feels,' friend; that is why 'feeling' is said. What does it feel? It feels pleasure, it feels pain, it feels neither-pain-norpleasure. 'It feels, it feels,' friend, that is why 'feeling' is said." [^434]
 
-## (PERCEPTION)
+#### (PERCEPTION)
 
 8. "'Perception, perception,' is said, friend. With reference to what is 'perception' said?"
 
@@ -48,7 +48,7 @@ wisely understands: 'This is the origin of suffering'; one wisely understands: '
 
 "Feeling, perception, and consciousness, friend - these states are conjoined, not disjoined, and it is impossible to separate each of these states from the others in order to describe the difference between them. For what one feels, that one perceives; and what one perceives, that one cognizes. That is why these states are conjoined, not disjoined, and it is impossible to separate each of these states from the others in order to describe the difference between them." [^436]
 
-## (KNOWABLE BY MIND ALONE)
+#### (KNOWABLE BY MIND ALONE)
 
 10. "Friend, what can be known by purified mind-consciousness released from the five faculties?"
 
@@ -65,11 +65,11 @@ wisely understands: 'This is the origin of suffering'; one wisely understands: '
 
 [294] 13. "Friend, how many conditions are there for the arising of right view?"
 
-"Friend, there are two conditions for the arising of right view: the voice of another and wise attention. These are the two conditions for the arising of right view." ${ }^{\prime 440}$
+"Friend, there are two conditions for the arising of right view: the voice of another and wise attention. These are the two conditions for the arising of right view." [^440]
 
 14. "Friend, by how many factors is right view assisted when it has deliverance of mind for its fruit, deliverance of mind for its fruit and benefit, when it has deliverance by wisdom for its fruit, deliverance by wisdom for its fruit and benefit?"
 
-"Friend, right view is assisted by five factors when it has deliverance of mind for its fruit, deliverance of mind for its fruit and benefit, when it has deliverance by wisdom for its fruit, deliverance by wisdom for its fruit and benefit. Here, friend, right view is assisted by virtue, learning, discussion, serenity, and insight. Right view assisted by these five factors has deliverance of mind for its fruit, deliverance of mind for its fruit and benefit; it has deliverance by wisdom for its fruit, deliverance by wisdom for its fruit and benefit." ${ }^{\prime 441}$
+"Friend, right view is assisted by five factors when it has deliverance of mind for its fruit, deliverance of mind for its fruit and benefit, when it has deliverance by wisdom for its fruit, deliverance by wisdom for its fruit and benefit. Here, friend, right view is assisted by virtue, learning, discussion, serenity, and insight. Right view assisted by these five factors has deliverance of mind for its fruit, deliverance of mind for its fruit and benefit; it has deliverance by wisdom for its fruit, deliverance by wisdom for its fruit and benefit." [^441]
 
 (BEING)
 
@@ -79,7 +79,7 @@ wisely understands: 'This is the origin of suffering'; one wisely understands: '
 
 16. "Friend, how is renéwal of being in the future generated?"
 
-"Friend, renewal of being in the future is generated through the delighting in this and that on the part of beings who are hindered by ignorance and fettered by craving." ${ }^{\prime 442}$
+"Friend, renewal of being in the future is generated through the delighting in this and that on the part of beings who are hindered by ignorance and fettered by craving." [^442]
 
 17. "Friend, how is renewal of being in the future not generated?"
 
@@ -125,7 +125,7 @@ thought, with rapture and pleasure born of seclusion. This is called the first j
 
 "In that case, friend, I shall give you a simile, for some wise men here understand the meaning of a statement by means of a simile. Just as when an oil-lamp is burning, its radiance is seen in dependence on its flame and its flame is seen in dependence on its radiance; so too, vitality stands in dependence on heat and heat stands in dependence on vitality."
 
-## (VITAL FORMATIONS)
+#### (VITAL FORMATIONS)
 
 23. "Friend, are vital formations states of feeling or are vital formations one thing and states of feeling another?" [296]
 
@@ -140,7 +140,7 @@ thought, with rapture and pleasure born of seclusion. This is called the first j
 "Friend, in the case of one who is dead, who has completed his time, his bodily formations have ceased and subsided, his verbal formations have ceased and subsided, his mental formations
 have ceased and subsided, his vitality is exhausted, his heat has been dissipated, and his faculties are fully broken up. In the case of a bhikkhu who has entered upon the cessation of perception and feeling, his bodily formations have ceased and subsided, his verbal formations have ceased and subsided, his mental formations have ceased and subsided, but his vitality is not exhausted, his heat has not been dissipated, and his faculties become exceptionally clear. [^448] This is the difference between one who is dead, who has completed his time, and a bhikkhu who has entered upon the cessation of perception and feeling."
 
-## (DELIVERANCE OF MIND)
+#### (DELIVERANCE OF MIND)
 
 26. "Friend, how many conditions are there for the attainment of the neither-painful-nor-pleasant deliverance of mind?"
 

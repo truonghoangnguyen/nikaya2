@@ -3,7 +3,7 @@
 **26. KINH THÁNH CẦU**
 ***(Ariyapariyesanà Sutta)***
 
-## T ôi nghe như vầy:
+## Tôi nghe như vầy:
 
 Một thời Thế Tôn ở Savatthi, tại Jetavana, vườn ông Anathapindika (Cấp Cô Ðộc).
 

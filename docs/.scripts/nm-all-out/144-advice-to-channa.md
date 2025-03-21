@@ -46,7 +46,7 @@ That is what the Blessed One said. The venerable Sāriputta was satisfied and de
 
 [^1307]: This is an elliptical expression for committing suicide.
 
-[^1308]: By making this statement he is implicitly claiming arahantship, as will be made clear at $ 13. Whether his claim
+[^1308]: By making this statement he is implicitly claiming arahantship, as will be made clear at §13. Whether his claim
 at this point was valid or not is uncertain, the commentary regarding it as a case of self-overestimation.
 
 [^1309]: MA says that Ven. Mahā Cunda gave him this instruction thinking that he must still be an ordinary person, since he could not endure the deadly pains and wanted to commit suicide.

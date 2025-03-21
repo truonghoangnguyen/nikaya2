@@ -12,6 +12,7 @@ Một thời, Thế Tôn trú ở Savatthi (Xá-vệ), tại Jetavana (Kỳ-đà
 -- Chư Tỷ-kheo, Tỷ-kheo muốn thực tu tăng thượng tâm cần phải thường thường tác ý năm tướng. Thế
 nào là năm?
 
+<!--pg-->
 Ở đây, Tỷ-kheo y cứ tướng nào, tác ý tướng nào, các ác bất thiện tầm liên hệ đến dục, liên hệ đến sân,
 liên hệ đến si sanh khởi, thời này các Tỷ-kheo, Tỷ-kheo ấy cần phải tác ý một tướng khác liên hệ đến
 thiện không phải tướng kia. Nhờ tác ý một tướng khác liên hệ đến thiện, không phải tướng kia, các ác
@@ -25,6 +26,7 @@ khác liên hệ đến thiện, khác với tướng kia, các ác bất thiệ
 đến si được trừ diệt, đi đến diệt vong. Chính nhờ diệt trừ chúng, nội tâm được an trú, an tịnh, nhất tâm,
 định tĩnh.
 
+<!--pg-->
 Chư Tỷ-kheo, nếu Tỷ-kheo ấy khi tác ý một tướng khác với tướng kia, liên hệ đến thiện, các ác bất thiện
 tầm liên hệ đến dục, liên hệ đến sân, liên hệ đến si vẫn khởi lên, thời này chư Tỷ-kheo, Tỷ-kheo ấy cần
 phải quán sát các nguy hiểm của những tầm ấy: "Ðây là những tầm bất thiện, đây là những tầm có tội,
@@ -35,6 +37,7 @@ tuổi, trong tuổi thanh xuân, tánh ưa trang sức nếu một xác rắn, 
 vào cổ, người ấy phải lo âu, xấu hổ, ghê tởm. Chư Tỷ-kheo, cũng vậy, nếu Tỷ-kheo ấy nhờ quán sát...
 nội tâm được an trú, an tịnh, nhất tâm, định tĩnh.
 
+<!--pg-->
 Chư Tỷ-kheo, nếu Tỷ-kheo ấy trong khi quán sát các nguy hiểm của những tầm ấy, các ác bất thiện tầm
 liên hệ đến dục, liên hệ đến sân, liên hệ đến si vẫn khởi lên, thời này chư Tỷ-kheo, Tỷ-kheo ấy cần phải
 không ức niệm, không tác ý những tầm ấy. Nhờ không ức niệm, không tác ý các tầm ấy, các ác bất thiện
@@ -44,6 +47,7 @@ muốn thấy các sắc pháp nằm trong tầm mắt của mình, người ấ
 Tỷ-kheo, cũng vậy, nếu Tỷ-kheo ấy, trong khi không ức niệm, không tác ý... được an trú, an tịnh, nhất
 tâm, định tĩnh.
 
+<!--pg-->
 Chư Tỷ-kheo, nếu Tỷ-kheo ấy trong khi không ức niệm, không tác ý các tầm ấy, các ác, bất thiện tầm
 liên hệ đến dục, liên hệ đến sân, liên hệ đến si vẫn khởi lên. Chư Tỷ-kheo, vị Tỷ-kheo ấy cần phải tác ý
 đến hành tướng các tầm và sự an trú các tầm ấy. Nhờ tác ý đến hành tướng các tầm và sự an trú các tầm
@@ -51,10 +55,10 @@ liên hệ đến dục, liên hệ đến sân, liên hệ đến si vẫn kh�
 đang đi mau, suy nghĩ: "Tại sao ta lại đi mau? Ta hãy đi chậm lại". Trong khi đi chậm, người ấy suy
 nghĩ: "Tại sao ta lại đi chậm? Ta hãy dừng lại". Trong khi dừng lại, người ấy suy nghĩ: "Tại sao Ta lại
 dừng lại? Ta hãy ngồi xuống". Trong khi ngồi, người ấy suy nghĩ: "Tại sao ta lại ngồi? Ta hãy nằm
-
 xuống". Chư Tỷ-kheo, như vậy người ấy bỏ dần các cử chỉ thô cứng nhất và làm theo các cử chỉ tế nhị
 nhất. Chư Tỷ-kheo, cũng vậy, nếu Tỷ-kheo ấy tác ý đến... (như trên)... được an tịnh, nhất tâm, định tĩnh.
 
+<!--pg-->
 Chư Tỷ-kheo, nếu Tỷ-kheo ấy trong khi tác ý đến hành tướng các tầm và sự an trú các tầm, các ác, bất
 thiện tầm liên hệ... đến si vẫn khởi lên, thời chư Tỷ-kheo, Tỷ-kheo ấy phải nghiến răng, dán chặt lưỡi
 lên nóc họng, lấy tâm chế ngự tâm, nhiếp phục tâm, đánh bại tâm. Nhờ nghiến răng, dán chặt lưỡi lên
@@ -68,6 +72,7 @@ nghiến răng, dán chặt lưỡi lên nóc họng, lấy tâm chế ngự tâ
 thiện tầm liên hệ đến dục, liên hệ đến sân, liên hệ đến si được trừ diệt, đi đến diệt vong. Chính nhờ trừ
 diệt chúng, nội tâm được an trú, an tịnh, nhất tâm, định tĩnh.
 
+<!--pg-->
 Chư Tỷ-kheo, nếu Tỷ-kheo, trong khi y cứ tướng nào, tác ý tướng nào, các ác bất thiện tầm liên hệ đến
 dục, liên hệ đến sân, liên hệ đến si sanh khởi. Tỷ-kheo ấy tác ý một tướng khác, liên hệ đến thiện, khác
 với tướng kia, các ác, bất thiện tầm liên hệ đến dục, liên hệ đến sân, liên hệ đến si được diệt trừ, đi đến

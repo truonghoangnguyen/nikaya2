@@ -3,7 +3,7 @@
 
 [299] 1. Thus have I heard. On one occasion the Blessed One was living at Rajagaha in the Bamboo Grove, the Squirrels' Sanctuary. Then the lay follower Visākha went to the bhikkhunī Dhammadinnā, [^459] and after paying homage to her, he sat down at one side and asked her:
 
-## (PERSONALITY)
+#### (PERSONALITY)
 
 2. "Lady, 'personality, personality' is said. What is called personality by the Blessed One?"
 
@@ -25,14 +25,14 @@ Saying, "Good, lady," the lay follower Visākha delighted and rejoiced in the bh
 
 6. "Lady, is that clinging the same as these five aggregates affected by clinging, or is the clinging something apart from the five aggregates affected by clinging?"
 
-"Friend Visākha, that clinging is neither the same as these five aggregates affected by clinging [300] nor is clinging something apart from the five aggregates affected by clinging. It is the desire and lust in regard to the five aggregates affected by clinging that is the clinging there." ${ }^{\prime 461}$
+"Friend Visākha, that clinging is neither the same as these five aggregates affected by clinging [300] nor is clinging something apart from the five aggregates affected by clinging. It is the desire and lust in regard to the five aggregates affected by clinging that is the clinging there." [^461]
 
 (PERSONALITY VIEW)
 
 7. "Lady, how does personality view come to be?"
 
 "Here, friend Visākha, an untaught ordinary person, who has no regard for noble ones and is unskilled and undisciplined in their Dhamma, who has no regard for true men and is unskilled and undisciplined in their Dhamma, regards material form as self, or self as possessed of material form, or material form as in self, or self as in material form. He regards feeling as self, or self as possessed of feeling, or feeling as in self, or self as in feeling. He regards perception as self, or self as possessed of perception, or perception as in self, or self as in perception. He regards formations as self, or self as possessed of formations, or formations as in self, or self as in formations. He regards consciousness as self, or self as possessed of consciousness, or consciousness as in
-self, or self as in consciousness. That is how personality view comes to be." ${ }^{\prime 462}$
+self, or self as in consciousness. That is how personality view comes to be." [^462]
 
 8. "Lady, how does personality view not come to be?"
 
@@ -52,13 +52,13 @@ self, or self as in consciousness. That is how personality view comes to be." ${
 
 "The three aggregates are not included by the Noble Eightfold Path, friend Visākha, but the Noble Eightfold Path is included by the three aggregates. Right speech, right action, and right livelihood - these states are included in the aggregate of virtue. Right effort, right mindfulness, and right concentration - these states are included in the aggregate of concentration. Right view and right intention - these states are included in the aggregate of wisdom."
 
-## (CONCENTRATION)
+#### (CONCENTRATION)
 
 12. "Lady, what is concentration? What is the basis of concentration? What is the equipment of concentration? What is the development of concentration?"
 
 "Unification of mind, friend Visākha, is concentration; the four foundations of mindfulness are the basis of concentration; the four right kinds of striving are the equipment of concentration; the repetition, development, and cultivation of these same states is the development of concentration therein."464
 
-## (FORMATIONS)
+#### (FORMATIONS)
 
 13. "Lady, how many formations are there?"
 
@@ -72,7 +72,7 @@ self, or self as in consciousness. That is how personality view comes to be." ${
 
 "Friend Visākha, in-breathing and out-breathing are bodily, these are states bound up with the body; that is why in-breathing and out-breathing are the bodily formation. First one applies thought and sustains thought, and subsequently one breaks out into speech; that is why applied thought and sustained thought are the verbal formation. Perception and feeling are mental, these are states bound up with the mind; that is why perception and feeling are the mental formation." [^466]
 
-## (THE ATTAINMENT OF CESSATION)
+#### (THE ATTAINMENT OF CESSATION)
 
 16. "Lady, how does the attainment of the cessation of perception and feeling come to be?"
 
@@ -112,7 +112,7 @@ perception and feeling, it does not occur to him: 'I shall attain the cessation 
 
 "Friend Visākha, pleasant feeling is pleasant when it persists and painful when it changes. Painful feeling is painful when it persists and pleasant when it changes. Neither-painful-norpleasant feeling is pleasant when there is knowledge [of it] and painful when there is no knowledge [of it]."
 
-## (UNDERLYING TENDENCIES)
+#### (UNDERLYING TENDENCIES)
 
 25. "Lady, what underlying tendency underlies pleasant feeling? What underlying tendency underlies painful feeling? What underlying tendency underlies neither-painful-nor-pleasant feeling?"
 
@@ -136,9 +136,9 @@ underlie all pleasant feeling. The underlying tendency to aversion does not unde
 "Here a bhikkhu considers thus: 'When shall I enter upon and abide in that base that the noble ones now enter upon and abide in?' In one who thus generates a longing for the supreme liberations, [304] grief arises with that longing as condition. With that he abandons aversion, and the underlying tendency to aversion does not underlie that. [^475]
 
 "Here, with the abandoning of pleasure and pain, and with the previous disappearance of joy and grief, a bhikkhu enters upon and abides in the fourth jhāna, which has neither-pain-nor-pleasure and purity of mindfulness due to equanimity. With
-that he abandons ignorance, and the underlying tendency to ignorance does not underlie that." ${ }^{\prime 476}$
+that he abandons ignorance, and the underlying tendency to ignorance does not underlie that." [^476]
 
-## (COUNTERPARTS)
+#### (COUNTERPARTS)
 
 29. "Lady, what is the counterpart of pleasant feeling?"477
 
@@ -168,7 +168,7 @@ that he abandons ignorance, and the underlying tendency to ignorance does not un
 
 "Friend Visākha, you have pushed this line of questioning too far; you were not able to grasp the limit to questions. [^479] For the holy life, friend Visākha, merges in Nibbāna, culminates in Nibbāna, ends in Nibbāna. If you wish, friend Visākha, go to the Blessed One and ask him about the meaning of this. As the Blessed One explains it to you, so you should remember it."
 
-## (CONCLUSION)
+#### (CONCLUSION)
 
 30. Then the lay follower Visākha, having delighted and rejoiced in the bhikkhunī Dhammadinnā's words, rose from his seat, and after paying homage to her, keeping her on his right, he went to the Blessed One. After paying homage to him, he sat down at one side and told the Blessed One his entire conversation with the bhikkhunī Dhammadinnā. When he finished speaking, the Blessed One told him:
 

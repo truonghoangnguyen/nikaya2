@@ -9,7 +9,8 @@
 
 "Cunda, as to those various views that arise in the world associated either with doctrines of a self or with doctrines about the world: if [the object] in relation to which those views arise, which they underlie, and which they are exercised upon [^104] is seen as it actually is with proper wisdom thus: 'This is not mine, this I am not, this is not my self,' then the abandoning and relinquishing of those views comes about. [^105]
 
-## (THE EIGHT ATTAINMENTS)
+<!--pg-->
+###(THE EIGHT ATTAINMENTS)
 
 4\. "It is possible here, Cunda, that quite secluded from sensual pleasures, secluded from unwholesome states, some bhikkhu enters upon and abides in the first jhāna, which is accompanied by applied and sustained thought, with rapture and pleasure born of seclusion. He might think thus: 'I am abiding in effacement.' But it is not these attainments that are called 'effacement' in the Noble One's Discipline: these are called 'pleasant abidings here and now' [41] in the Noble One's Discipline. [^106]
 
@@ -28,7 +29,8 @@ might think thus: 'I am abiding in effacement.' But...these are called 'peaceful
 
 11\. "It is possible here that by completely surmounting the base of nothingness, some bhikkhu enters upon and abides in the base of neither-perception-nor-non-perception. He might think thus: 'I am abiding in effacement.' [42] But these attainments are not called 'effacement' in the Noble One's Discipline: these are called 'peaceful abidings' in the Noble One's Discipline.
 
-## (EFFACEMENT)
+<!--pg-->
+###(EFFACEMENT)
 
 12\. "Now, Cunda, here effacement should be practised by you: [^107]
 
@@ -118,7 +120,8 @@ might think thus: 'I am abiding in effacement.' But...these are called 'peaceful
 
 (44) 'Others will adhere to their own views, hold on to them tenaciously, and relinquish them with difficulty; [^109] we shall not adhere to our own views or hold on to them tenaciously, but shall relinquish them easily': effacement should be practised thus.
 
-## (INCLINATION OF MIND)
+<!--pg-->
+###(INCLINATION OF MIND)
 
 13\. "Cunda, I say that even the inclination of mind towards wholesome states is of great benefit, so what should be said of bodily and verbal acts conforming [to such a state of mind]? [^110] Therefore, Cunda:
 
@@ -130,7 +133,8 @@ might think thus: 'I am abiding in effacement.' But...these are called 'peaceful
 
 (44) Mind should be inclined thus: 'Others will adhere to their own views, hold on to them tenaciously, and relinquish them with difficulty; we shall not adhere to our own views or hold on to them tenaciously, but shall relinquish them easily.'
 
-## (AVOIDANCE)
+<!--pg-->
+###(AVOIDANCE)
 
 14\. "Cunda, suppose there were an uneven path and another even path by which to avoid it; and suppose there were an uneven ford and another even ford by which to avoid it. [44] So too:
 
@@ -220,7 +224,8 @@ might think thus: 'I am abiding in effacement.' But...these are called 'peaceful
 
 (44) One given to adhere to his own views, who holds on to them tenaciously and relinquishes them with difficulty, has nonadherence to his own views, not holding on to them tenaciously and relinquishing them easily, by which to avoid it.
 
-## (THE WAY LEADING UPWARDS)
+<!--pg-->
+###(THE WAY LEADING UPWARDS)
 
 15\. "Cunda, just as all unwholesome states lead downwards and all wholesome states lead upwards, so too:
 
@@ -232,7 +237,8 @@ might think thus: 'I am abiding in effacement.' But...these are called 'peaceful
 
 (44) One given to adhere to his own views, who holds on to them tenaciously [45] and relinquishes them with difficulty, has non-adherence to his own views, not holding on to them tenaciously and relinquishing them easily, to lead him upwards.
 
-## (THE WAY OF EXTINGUISHING)
+<!--pg-->
+###(THE WAY OF EXTINGUISHING)
 
 16\. "Cunda, that one who is himself sinking in the mud should pull out another who is sinking in the mud is impossible; that one who is not himself sinking in the mud should pull out another who is sinking in the mud is possible. That one who is himself untamed, undisciplined, [with defilements] unextinguished, should tame another, discipline him, and help extinguish [his defilements] is impossible; that one who is himself tamed, disciplined, [with defilements] extinguished, should tame another, discipline him, and help extinguish [his defilements] is possible. [^111] So too:
 
@@ -245,7 +251,8 @@ might think thus: 'I am abiding in effacement.' But...these are called 'peaceful
 (44) One given to adhere to his own views, who holds on to them tenaciously and relinquishes them with difficulty, has
 non-adherence to his own views, not holding on to them tenaciously and relinquishing them easily, by which to extinguish it.
 
-## (CONCLUSION)
+<!--pg-->
+###(CONCLUSION)
 
 17\. "So, Cunda, the way of effacement has been taught by me, the way of inclining the mind has been taught by me, the way of avoidance has been taught by me, the way leading upwards has been taught by me, and the way of extinguishing has been taught by me.
 

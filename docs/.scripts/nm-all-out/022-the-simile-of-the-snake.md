@@ -12,7 +12,7 @@
 "Exactly so, friends. As I understand the Dhamma taught by the Blessed One, those things called obstructions by the Blessed One are not able to obstruct one who engages in them."
 
 Then these bhikkhus, desiring to detach him from that pernicious view, pressed and questioned and cross-questioned him thus: "Friend Arittha, do not say so. Do not misrepresent the Blessed One; it is not good to misrepresent the Blessed One. The Blessed One would not speak thus. For in many discourses the Blessed One has stated how obstructive things are obstructions, and how they are able to obstruct one who engages in them. The Blessed One has stated how sensual pleasures provide little gratification, much suffering, and much despair, and how great is the danger in them. With the simile of the skeleton...with the simile of the piece of meat... with the simile of the grass torch... with the simile of the pit of coals... with the simile of the dream... with the simile of the borrowed goods... with the simile of the tree laden with fruit... with the simile of the slaughterhouse... with the simile of the sword stake... with the simile of
-the snake's head, the Blessed One has stated how sensual pleasures provide little gratification, much suffering, and much despair, and how great is the danger in them." ${ }^{\prime 250}$
+the snake's head, the Blessed One has stated how sensual pleasures provide little gratification, much suffering, and much despair, and how great is the danger in them." [^250]
 
 Yet although pressed and questioned and cross-questioned by them in this way, the bhikkhu Arittha, formerly of the vulture killers, still obstinately adhered to that pernicious view and continued to insist upon it.
 
@@ -74,7 +74,7 @@ and had arrived at the far shore, he might think thus: This raft has been very h
 16. "Bhikkhus, a well-taught noble disciple who has regard for noble ones and is skilled and disciplined in their Dhamma, who has regard for true men and is skilled and disciplined in their Dhamma, regards material form thus: 'This is not mine, this I am not, this is not my self.' He regards feeling thus: 'This is not mine, this I am not, this is not my self.' He regards perception thus: 'This is not mine, this I am not, this is not my self.' He regards formations thus: 'This is not mine, this I am not, this is not my self.' He regards what is seen, heard, sensed, cognized,
 encountered, sought, mentally pondered thus: 'This is not mine, this I am not, this is not my self.' And this standpoint for views, namely, 'This is self, this the world; after death I shall be permanent, everlasting, eternal, not subject to change; I shall endure as long as eternity' - this too he regards thus: 'This is not mine, this I am not, this is not my self.'
 
-17. "Since he regards them thus, he is not agitated about what is non-existent. ${ }^{\prime 260}$
+17. "Since he regards them thus, he is not agitated about what is non-existent. [^260]
 
 ## (AGITATION)
 
@@ -193,11 +193,11 @@ That is what the Blessed One said. The bhikkhus were satisfied and delighted in 
 
 [^259]: This is a full-fledged eternalist view arisen on the basis of one of the earlier, more rudimentary types of personality view; here it becomes itself an object of craving, conceit, and the false view of self. Ven. Nyanaponika contends that this view expresses the identity of the self with the universe, though this interpretation is purely hypothetical as the Pali is ambiguous and could just as well be pointing to a fundamental dualism of self and world along the lines of Sānkhya philosophy with its distinction between changeable Nature (prak, $t i$ ) and changeless Spirit (puru"a)
 
-[^260]: Asati na paritassati. The noun form paritassana, according to MA, has the twofold connotation of fear and craving, thus "agitation" was chosen as comprehending both. Agitation about what is non-existent externally ( $ 18 ) refers to the worldling's despair over the loss or nonacquisition of possessions; agitation about what is nonexistent internally ( $ 20 ) to the eternalist's despair when he misinterprets the Buddha's teaching on Nibbāna as a doctrine of annihilation.
+[^260]: Asati na paritassati. The noun form paritassana, according to MA, has the twofold connotation of fear and craving, thus "agitation" was chosen as comprehending both. Agitation about what is non-existent externally ( §18 ) refers to the worldling's despair over the loss or nonacquisition of possessions; agitation about what is nonexistent internally ( §20 ) to the eternalist's despair when he misinterprets the Buddha's teaching on Nibbāna as a doctrine of annihilation.
 
-[^261]: Pariggaham pariganheyyätha, lit. "you may possess that possession." This links up with $ 18 on agitation about external possessions.
+[^261]: Pariggaham pariganheyyätha, lit. "you may possess that possession." This links up with §18 on agitation about external possessions.
 
-[^262]: Attavādupädānañ upā̄liyetha, lit. "you may cling to that clinging to a doctrine of self." On the problem this idiom involves for translation, see n.176. This passage links up with $ 20 on agitation arising from a view of self.
+[^262]: Attavādupädānañ upā̄liyetha, lit. "you may cling to that clinging to a doctrine of self." On the problem this idiom involves for translation, see n.176. This passage links up with §20 on agitation arising from a view of self.
 
 [^263]: The support of views (dithhinissaya), according to MA, is the sixty-two views mentioned in the Brahmajāla Sutta (DN 1), which emerge from personality view or "doctrine of a self." It might also include the pernicious view
 adopted by Arittha at the beginning of the sutta.
@@ -208,9 +208,9 @@ adopted by Arittha at the beginning of the sutta.
 
 [^266]: "Thus gone" is, in Pali, tathägata, the usual epithet of the Buddha, but here applied more broadly to the arahant. MA interprets this passage in two alternative ways thus: (1) The arahant even while alive is here and now untraceable as a being or individual (in the sense of an abiding self) because in the ultimate sense there is no being (as self). (2) The arahant is untraceable here and now because it is impossible for the gods, etc., to find the support for his insight-mind, path-mind, or fruition-mind (vipassanācitta, maggacitta, phalacitta); that is, the object being Nibbāna, his mind cannot be known by the worldling.
 
-[^267]: This refers back to $ 20, where the eternalist misunderstands the Buddha's teaching on Nibbāna, the cessation of being, to involve the annihilation of an existing being considered as self.
+[^267]: This refers back to §20, where the eternalist misunderstands the Buddha's teaching on Nibbāna, the cessation of being, to involve the annihilation of an existing being considered as self.
 
-[^268]: The import of this statement is deeper than appears on the surface. In the context of the false accusations of $ 37, the Buddha is stating that he teaches that a living being is not a self but a mere conglomeration of factors, material and mental events, linked together in a process that is inherently dukkha, and that Nibbāna, the cessation of suffering, is not the annihilation of a being but the termination of that same unsatisfactory process. This statement should be read in conjunction with SN 12:15/ii.17, where the Buddha says that one with right view, who
+[^268]: The import of this statement is deeper than appears on the surface. In the context of the false accusations of §37, the Buddha is stating that he teaches that a living being is not a self but a mere conglomeration of factors, material and mental events, linked together in a process that is inherently dukkha, and that Nibbāna, the cessation of suffering, is not the annihilation of a being but the termination of that same unsatisfactory process. This statement should be read in conjunction with SN 12:15/ii.17, where the Buddha says that one with right view, who
 has discarded all doctrines of a self, sees that whatever arises is only dukkha arising, and whatever ceases is only dukkha ceasing.
 
 [^269]: "What had earlier come to be fully understood" (pubbe pariñ̃āatam) are the five aggregates. Since it is only these to which honour and abuse are shown, not an "I" or self, there is no reason for elation or dejection.

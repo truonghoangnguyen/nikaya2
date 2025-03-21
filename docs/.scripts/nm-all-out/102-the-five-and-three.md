@@ -145,7 +145,7 @@ That is what the Blessed One said. The bhikkhus were satisfied and delighted in 
 
 [^936]: Aroga, "healthy," explained by MA as meaning permanent.
 
-[^937]: In the Brahmajala Sutta sixteen varieties of this view are mentioned, the eight given here and two other tetrads: the self as finite, infinite, both, and neither; and the self as experiencing exclusively pleasure, exclusively pain, a mixture of both, and neither. In the present sutta these two tetrads are incorporated under speculations about the past in $ 14.
+[^937]: In the Brahmajala Sutta sixteen varieties of this view are mentioned, the eight given here and two other tetrads: the self as finite, infinite, both, and neither; and the self as experiencing exclusively pleasure, exclusively pain, a mixture of both, and neither. In the present sutta these two tetrads are incorporated under speculations about the past in §14.
 
 [^938]: Evidently, in the above list the views of the self as immaterial, percipient of unity, and percipient of the immeasurable are based on attainment of the base of infinite space. MT explains the consciousness-kasina as the base of infinite consciousness, stating that these theorists declare that base to be the self.
 
@@ -153,7 +153,7 @@ That is what the Blessed One said. The bhikkhus were satisfied and delighted in 
 
 [^940]: MA paraphrases thus: "All those types of perceptions together with the views are conditioned, and because they are conditioned, they are gross. But there is Nibbāna, called the cessation of formations, that is, of the conditioned. Having known 'There is this,' that there is Nibbāna, seeing the escape from the conditioned, the Tathāgata has gone beyond the conditioned."
 
-[^941]: The second tetrad of $ 3 is dropped here since the self is conceived as non-percipient. In the Brahmajala Sutta eight varieties of this view are mentioned, these four plus the finite-infinite tetrad.
+[^941]: The second tetrad of §3 is dropped here since the self is conceived as non-percipient. In the Brahmajala Sutta eight varieties of this view are mentioned, these four plus the finite-infinite tetrad.
 
 [^942]: MA points out that this statement is made with reference to those planes of existence where all five aggregates exist. In the immaterial planes consciousness occurs without the aggregate of material form, and in the nonpercipient plane there is material form without consciousness. But consciousness never occurs without the three other mental aggregates.
 
@@ -170,7 +170,7 @@ than the usual "confusion" or "delusion."
 
 [^948]: The "fear and disgust with personality" is an aspect of vibhavatanha, the craving for non-existence. The annihilationist view to which it gives rise still involves an identification of personality with self - a self that is annihilated at death - and thus, despite his denial, it binds the theorist to the round of existence.
 
-[^949]: So far only four of the original five classes of speculations about the future have been analysed, yet the Buddha speaks as if they were all explicated. MA tries to resolve the problem by explaining that assertions of "Nibbāna here and now" were comprised by the terms "percipient of unity" and "percipient of diversity" in $ 3. This explanation, however, is not convincing. $\overline{\mathrm{N}} \mathrm{m}$, in Ms, had added the heading "Nibbāna Here and Now" over $ 17, and $\S \S 17-21$ do seem to correspond with the last four of the five doctrines of Nibbāna here and now in the Brahmajāla. However, this interpretation seems contradicted by $ 13 and by the phrase used in $\S 17, \S 19$ and $ 21, "with the relinquishing of views about the past and the future," which would exclude the doctrines of Nibbāna here and now. The problem seems insoluble, and raises the question whether a passage on Nibbāna here and now was not lost in the course of the sutta's oral transmission. In the Brahmajāla the five doctrines are the asser-
+[^949]: So far only four of the original five classes of speculations about the future have been analysed, yet the Buddha speaks as if they were all explicated. MA tries to resolve the problem by explaining that assertions of "Nibbāna here and now" were comprised by the terms "percipient of unity" and "percipient of diversity" in §3. This explanation, however, is not convincing. Ñm, in Ms, had added the heading "Nibbāna Here and Now" over §17, and $\S \S 17-21$ do seem to correspond with the last four of the five doctrines of Nibbāna here and now in the Brahmajāla. However, this interpretation seems contradicted by §13 and by the phrase used in $\S 17, \S 19$ and §21, "with the relinquishing of views about the past and the future," which would exclude the doctrines of Nibbāna here and now. The problem seems insoluble, and raises the question whether a passage on Nibbāna here and now was not lost in the course of the sutta's oral transmission. In the Brahmajāla the five doctrines are the asser-
 tion of sensual pleasures and the four jhānas to be the self's attainment of supreme Nibbāna here and now.
 
 [^950]: This view includes all four of the eternalists who speculate about the past mentioned in the Brahmajala.
@@ -181,9 +181,9 @@ tion of sensual pleasures and the four jhānas to be the self's attainment of su
 
 [^953]: This may include the four types of endless equivocation or "eel-wriggling" of the Brahmajala.
 
-[^954]: Views $5-8$ correspond exactly to the four extensionists of the Brahmajala.
+[^954]: Views §5-8$ correspond exactly to the four extensionists of the Brahmajala.
 
-[^955]: The eight views ( $9-16$ ) are, in the Brahmajala, included among the doctrines of percipient immortality comprised under speculations about the future.
+[^955]: The eight views ( §9-16$ ) are, in the Brahmajala, included among the doctrines of percipient immortality comprised under speculations about the future.
 
 [^956]: That is, they must accept their doctrine on some ground other than knowledge, one involving belief or reasoning. At MN 95.14, it is said that these five grounds of conviction yield conclusions that can turn out to be either true or false.
 
@@ -191,7 +191,7 @@ tion of sensual pleasures and the four jhānas to be the self's attainment of su
 
 [^958]: MA says that at this point all sixty-two of the views set forth in the Brahmajala Sutta have been incorporated, yet this sutta has an even wider range since it includes an exposition of personality view (most notably implied by §24).
 
-[^959]: This section title, and the following Roman numeral "V", were inserted by $\overline{\mathrm{N}} \mathrm{m}$ on the supposition that this passage presents the doctrines of Nibbāna here and now, mentioned but not explicated earlier. However, as pointed out in n.949, while the text of this passage lends some support to that supposition, there are also cogent reasons against it. Unfortunately, Ms contains no note by $\overline{\mathrm{N}} \mathrm{m}$ dealing with the problem of sequence in this sutta.
+[^959]: This section title, and the following Roman numeral "V", were inserted by Ñm on the supposition that this passage presents the doctrines of Nibbāna here and now, mentioned but not explicated earlier. However, as pointed out in n.949, while the text of this passage lends some support to that supposition, there are also cogent reasons against it. Unfortunately, Ms contains no note by Ñm dealing with the problem of sequence in this sutta.
 
 [^960]: MA: This section is intended to show how all sixty-two speculative views arise predominated over by personality view.
 

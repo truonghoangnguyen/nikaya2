@@ -22,7 +22,7 @@ right view that is noble, taintless, supramundane, a factor of the path.
 
 9. "One makes an effort to abandon wrong view and to enter upon right view: this is one's right effort. Mindfully one abandons wrong view, mindfully one enters upon and abides in right view: this is one's right mindfulness. Thus these three states run and circle around right view, that is, right view, right effort, and right mindfulness. [^1104]
 
-## (INTENTION)
+#### (INTENTION)
 
 10. "Therein, bhikkhus, right view comes first. And how does right view come first? One understands wrong intention as wrong intention and right intention as right intention: this is one's [73] right view. [^1105]
 
@@ -51,7 +51,7 @@ is taintless, who possesses the noble path and is developing the noble path: [^1
 
 21. "One makes an effort to abandon wrong speech and to enter upon right speech: this is one's right effort. Mindfully one abandons wrong speech, mindfully one enters upon and abides in right speech: this is one's right mindfulness. Thus these three states run and circle around right speech, that is, right view, right effort, and right mindfulness.
 
-## (ACTION)
+#### (ACTION)
 
 22. "Therein, bhikkhus, right view comes first. And how does right view come first? One understands wrong action as wrong action and right action as right action: this is one's right view.
 
@@ -65,7 +65,7 @@ is taintless, who possesses the noble path and is developing the noble path: [^1
 
 27. "One makes an effort to abandon wrong action and to enter upon right action: this is one's right effort. Mindfully one abandons wrong action, mindfully one enters upon right action: this is one's right mindfulness. Thus these three states run and circle around right action, that is, right view, right effort, and right mindfulness.
 
-## (LIVELIHOOD)
+#### (LIVELIHOOD)
 
 28. "Therein, bhikkhus, right view comes first. And how does right view come first? One understands wrong livelihood as wrong livelihood and right livelihood as right livelihood: this is one's right view.
 
@@ -79,7 +79,7 @@ is taintless, who possesses the noble path and is developing the noble path: [^1
 
 33. "One makes an effort to abandon wrong livelihood and to enter upon right livelihood: this is one's right effort. Mindfully one abandons wrong livelihood, mindfully one enters upon right livelihood: this is one's right mindfulness. Thus these three states run and circle around right livelihood, that is, right view, right effort, and right mindfulness.
 
-## (THE GREAT FORTY)
+#### (THE GREAT FORTY)
 
 34. "Therein, bhikkhus, right view comes first. And how does right view come first? [76] In one of right view, right intention comes into being; [^1111] in one of right intention, right speech comes into being; in one of right speech, right action comes into being; in one of right action, right livelihood comes into being; in one of right livelihood, right effort comes into being; in one of
 right effort, right mindfulness comes into being; in one of right mindfulness, right concentration comes into being; in one of right concentration, right knowledge comes into being; in one of right knowledge, right deliverance comes into being. Thus, bhikkhus, the path of the disciple in higher training possesses eight factors, the arahant possesses ten factors. [^1112]

@@ -11,7 +11,8 @@
 
 "Yes, friend," the bhikkhus replied. The venerable Sāriputta said this:
 
-(THE WHOLESOME AND THE UNWHOLESOME)
+<!--pg-->
+#### (THE WHOLESOME AND THE UNWHOLESOME)
 
 3\. "When, friends, a noble disciple understands the unwholesome and the root of the unwholesome, the wholesome and the root of the wholesome, [47] in that way he is one of right view, whose view is straight, who has perfect confidence in the Dhamma and has arrived at this true Dhamma.
 
@@ -26,7 +27,8 @@ speech is unwholesome; harsh speech is unwholesome; gossip is unwholesome; covet
 
 8\. "When a noble disciple has thus understood the unwholesome and the root of the unwholesome, the wholesome and the root of the wholesome, [^118] he entirely abandons the underlying tendency to lust, he abolishes the underlying tendency to aversion, he extirpates the underlying tendency to the view and conceit 'I am,' and by abandoning ignorance and arousing true knowledge he here and now makes an end of suffering. [^119] In that way too a noble disciple is one of right view, whose view is straight, who has perfect confidence in the Dhamma, and has arrived at this true Dhamma."
 
-## (NUTRIMENT)
+<!--pg-->
+#### (NUTRIMENT)
 
 9\. Saying, "Good, friend," the bhikkhus delighted and rejoiced in the venerable Sāriputta's words. Then they asked him a further question: "But, friend, might there be another way in which a noble disciple is one of right view...and has arrived at this true Dhamma?" - "There might be, friends.
 
@@ -37,7 +39,8 @@ leading to the cessation of nutriment, in that way he is one of right view...and
 
 12\. "When a noble disciple has thus understood nutriment, the origin of nutriment, the cessation of nutriment, and the way leading to the cessation of nutriment, he entirely abandons the underlying tendency to greed, he abolishes the underlying tendency to aversion, he extirpates the underlying tendency to the view and conceit 'I am,' and by abandoning ignorance and arousing true knowledge he here and now makes an end of suffering. In that way too a noble disciple is one of right view, whose view is straight, who has perfect confidence in the Dhamma, and has arrived at this true Dhamma."
 
-(THE FOUR NOBLE TRUTHS)
+<!--pg-->
+#### (THE FOUR NOBLE TRUTHS)
 
 13\. Saying, "Good, friend," the bhikkhus delighted and rejoiced in the venerable Sariputta's words. Then they asked him a further question: "But, friend, might there be another way in which a noble disciple is one of right view... and has arrived at this true Dhamma?" - "There might be, friends.
 
@@ -54,7 +57,8 @@ sickness is suffering; death is suffering; sorrow, lamentation, pain, grief, and
 
 19\. "When a noble disciple has thus understood suffering, the origin of suffering, the cessation of suffering, and the way leading to the cessation of suffering...he here and now makes an end of suffering. In that way too a noble disciple is one of right view... and has arrived at this true Dhamma."
 
-## (AGEING AND DEATH)
+<!--pg-->
+#### (AGEING AND DEATH)
 
 20\. Saying, "Good, friend," the bhikkhus delighted and rejoiced in the venerable Sāriputta's words. Then they asked him a further question: "But, friend, might there be another way in which a noble disciple is one of right view...and has arrived at this true Dhamma?" - "There might be, friends.
 
@@ -65,7 +69,8 @@ of the various orders of beings, their passing away, dissolution, disappearance,
 
 23\. "When a noble disciple has thus understood ageing and death, the origin of ageing and death, the cessation of ageing and death, and the way leading to the cessation of ageing and death...he here and now makes an end of suffering. In that way too a noble disciple is one of right view...and has arrived at this true Dhamma."
 
-(BIRTH)
+<!--pg-->
+#### (BIRTH)
 
 24\. Saying, "Good, friend," the bhikkhus delighted and rejoiced in the venerable Sāriputta's words. Then they asked him a further question: "But, friend, might there be another way in which a noble disciple is one of right view...and has arrived at this true Dhamma?" - [50] "There might be, friends.
 
@@ -84,7 +89,8 @@ of the various orders of beings, their passing away, dissolution, disappearance,
 
 31\. "When a noble disciple has thus understood being, the origin of being, the cessation of being, and the way leading to the cessation of being...he here and now makes an end of suffering. In that way too a noble disciple is one of right view...and has arrived at this true Dhamma."
 
-## (CLINGING)
+<!--pg-->
+#### (CLINGING)
 
 32\. Saying, "Good, friend," the bhikkhus delighted and rejoiced in the venerable Sariputta's words. Then they asked him a further question: "But, friend, might there be another way in which a noble disciple is one of right view...and has arrived at this true Dhamma?" - "There might be, friends.
 
@@ -95,7 +101,8 @@ and observances, and clinging to a doctrine of self. [^125] With the arising of 
 
 35\. "When a noble disciple has thus understood clinging, the origin of clinging, the cessation of clinging, and the way leading to the cessation of clinging...he here and now makes an end of suffering. In that way too a noble disciple is one of right view... and has arrived at this true Dhamma."
 
-(CRAVING)
+<!--pg-->
+#### (CRAVING)
 
 36\. Saying, "Good, friend," the bhikkhus delighted and rejoiced in the venerable Sāriputta's words. Then they asked him a further question: "But, friend, might there be another way in which a noble disciple is one of right view...and has arrived at this true Dhamma?" - "There might be, friends.
 
@@ -104,7 +111,9 @@ and observances, and clinging to a doctrine of self. [^125] With the arising of 
 38\. "And what is craving, what is the origin of craving, what is the cessation of craving, what is the way leading to the cessation of craving? There are these six classes of craving: craving for forms, craving for sounds, craving for odours, craving for flavours, craving for tangibles, craving for mind-objects. [^126] With the arising of feeling there is the arising of craving. With the cessation of feeling there is the cessation of craving. The way leading to the cessation of craving is just this Noble Eightfold Path; that is, right view...right concentration.
 
 39\. "When a noble disciple has thus understood craving, the origin of craving, the cessation of craving, and the way leading to the cessation of craving...he here and now makes an end of suffering. In that way too a noble disciple is one of right view... and has arrived at this true Dhamma."
-(FEELING)
+
+<!--pg-->
+#### (FEELING)
 
 40\. Saying, "Good, friend," the bhikkhus delighted and rejoiced in the venerable Sāriputta's words. Then they asked him a further question: "But, friend, might there be another way in which a noble disciple is one of right view...and has arrived at this true Dhamma?" - "There might be, friends.
 
@@ -114,7 +123,8 @@ and observances, and clinging to a doctrine of self. [^125] With the arising of 
 
 43\. "When a noble disciple has thus understood feeling, the origin of feeling, the cessation of feeling, and the way leading to the cessation of feeling...he here and now makes an end of suffering. In that way too a noble disciple is one of right view...and has arrived at this true Dhamma."
 
-## (CONTACT)
+<!--pg-->
+#### (CONTACT)
 
 44\. Saying, "Good, friend," the bhikkhus delighted and rejoiced in the venerable Sariputta's words. Then they asked him a further question: "But, friend, might there be another way in which a noble disciple is one of right view...and has arrived at this true Dhamma?" - "There might be, friends.
 
@@ -125,7 +135,8 @@ of contact? There are these six classes of contact: eye-contact, ear-contact, no
 
 47\. "When a noble disciple has thus understood contact, the origin of contact, the cessation of contact, and the way leading to the cessation of contact...he here and now makes an end of suffering. In that way too a noble disciple is one of right view...and has arrived at this true Dhamma."
 
-## (THE SIXFOLD BASE)
+<!--pg-->
+#### (THE SIXFOLD BASE)
 
 48\. Saying, "Good, friend," the bhikkhus delighted and rejoiced in the venerable Sāriputta's words. Then they asked him a further question: "But, friend, might there be another way in which a noble disciple is one of right view...and has arrived at this true Dhamma?" - "There might be, friends.
 
@@ -135,7 +146,8 @@ of contact? There are these six classes of contact: eye-contact, ear-contact, no
 
 51\. "When a noble disciple has thus understood the sixfold base, the origin of the sixfold base, the cessation of the sixfold base, and [53] the way leading to the cessation of the sixfold base...he here and now makes an end of suffering. In that way too a noble disciple is one of right view...and has arrived at this true Dhamma."
 
-## (MENTALITY-MATERIALITY)
+<!--pg-->
+#### (MENTALITY-MATERIALITY)
 
 52\. Saying, "Good, friend," the bhikkhus delighted and rejoiced in the venerable Sāriputta's words. Then they asked him a further question: "But, friend, might there be another way in which a noble disciple is one of right view...and has arrived at this true Dhamma?" - "There might be, friends.
 
@@ -145,7 +157,8 @@ of contact? There are these six classes of contact: eye-contact, ear-contact, no
 
 55\. "When a noble disciple has thus understood mentalitymateriality, the origin of mentality-materiality, the cessation of mentality-materiality, and the way leading to the cessation of mentality-materiality...he here and now makes an end of suffering. In that way too a noble disciple is one of right view...and has arrived at this true Dhamma."
 
-## (CONSCIOUSNESS)
+<!--pg-->
+#### (CONSCIOUSNESS)
 
 56\. Saying, "Good, friend," the bhikkhus delighted and rejoiced in the venerable Sāriputta's words. Then they asked him a further question: "But, friend, might there be another way in which a noble disciple is one of right view...and has arrived at this true Dhamma?" - "There might be, friends.
 
@@ -156,7 +169,8 @@ the way leading to the cessation of consciousness, in that way he is one of righ
 
 59\. "When a noble disciple has thus understood consciousness, the origin of consciousness, the cessation of consciousness, and the way leading to the cessation of consciousness [54]...he here and now makes an end of suffering. In that way too a noble disciple is one of right view...and has arrived at this true Dhamma."
 
-(FORMATIONS)
+<!--pg-->
+#### (FORMATIONS)
 
 60\. Saying, "Good, friend," the bhikkhus delighted and rejoiced in the venerable Sāriputta's words. Then they asked him a further question: "But, friend, might there be another way in which a noble disciple is one of right view...and has arrived at this true Dhamma?" - "There might be, friends.
 
@@ -167,7 +181,8 @@ the way leading to the cessation of consciousness, in that way he is one of righ
 63\. "When a noble disciple has thus understood formations, the origin of formations, the cessation of formations, and the way leading to the cessation of formations...he here and now
 makes an end of suffering. In that way too a noble disciple is one of right view...and has arrived at this true Dhamma."
 
-## (IGNORANCE)
+<!--pg-->
+#### (IGNORANCE)
 
 64\. Saying, "Good, friend," the bhikkhus delighted and rejoiced in the venerable Sāriputta's words. Then they asked him a further question: "But, friend, might there be another way in which a noble disciple is one of right view...and has arrived at this true Dhamma?" - "There might be, friends.
 
@@ -177,7 +192,8 @@ makes an end of suffering. In that way too a noble disciple is one of right view
 
 67\. "When a noble disciple has thus understood ignorance, the origin of ignorance, the cessation of ignorance, and the way leading to the cessation of ignorance...he here and now makes an end of suffering. In that way too a noble disciple is one of right view...and has arrived at this true Dhamma."
 
-(TAINTS)
+<!--pg-->
+#### (TAINTS)
 
 68\. Saying, "Good, friend," the bhikkhus delighted and rejoiced in the venerable Sariputta's words. Then they asked him a further question: "But, friend, might there be another [55] way in which a noble disciple is one of right view, whose view is straight, who has perfect confidence in the Dhamma, and has arrived at this true Dhamma?" - "There might be, friends.
 

@@ -7,6 +7,7 @@
 
 3\. Then, when it was morning, the venerable Sāriputta dressed, and taking his bowl and outer robe, went into Vesālī for alms. Then he heard Sunakkhatta, son of the Licchavis, making this statement before the Vesālī assembly. When he had wandered for alms in Vesālī and had returned from his almsround, after his meal he went to the Blessed One, and after paying homage to him, he sat down at one side and told the Blessed One what Sunakkhatta was saying.
 
+<!--pg-->
 4\. [The Blessed One said:] "Sāriputta, the misguided man Sunakkhatta is angry and his words are spoken out of anger. Thinking to discredit the Tathāgata, he actually praises him; [69] for it is praise of the Tathāgata to say of him: 'When he teaches the Dhamma to anyone, it leads him when he practises it to the complete destruction of suffering.'
 
 5\. "Sāriputta, this misguided man Sunakkhatta will never infer of me according to Dhamma: 'That Blessed One is accomplished, fully enlightened, perfect in true knowledge and conduct, sublime, knower of worlds, incomparable leader
@@ -18,7 +19,8 @@ of persons to be tamed, teacher of gods and humans, enlightened, blessed. [^180]
 
 8\. "And he will never infer of me according to Dhamma: 'That Blessed One encompasses with his own mind the minds of other beings, other persons. He understands a mind affected by lust as affected by lust and a mind unaffected by lust as unaffected by lust; he understands a mind affected by hate as affected by hate and a mind unaffected by hate as unaffected by hate; he understands a mind affected by delusion as affected by delusion and a mind unaffected by delusion as unaffected by delusion; he understands a contracted mind as contracted and a distracted mind as distracted; he understands an exalted mind as exalted and an unexalted mind as unexalted; he understands a surpassed mind as surpassed and an unsurpassed mind as unsurpassed; he understands a concentrated mind as concentrated and an unconcentrated mind as unconcentrated; he understands a liberated mind as liberated and an unliberated mind as unliberated.'
 
-## (TEN POWERS OF A TATHĀGATA)
+<!--pg-->
+#### (TEN POWERS OF A TATHĀGATA)
 
 9\. "Sāriputta, the Tathāgata has these ten Tathāgata's powers, possessing which he claims the herd-leader's place, roars his lion's roar in the assemblies, and sets rolling the Wheel of Brahmā. [^181] What are the ten?
 
@@ -47,7 +49,8 @@ herd-leader's place, roars his lion's roar in the assemblies, and sets rolling t
 
 21\. "Sāriputta, when I know and see thus, should anyone say of me: 'The recluse Gotama does not have any superhuman states, any distinction in knowledge and vision worthy of the noble ones. The recluse Gotama teaches a Dhamma [merely] hammered out by reasoning, following his own line of inquiry as it occurs to him' - unless he abandons that assertion and that state of mind and relinquishes that view, then as [surely as if he had been] carried off and put there he will wind up in hell. [^189] Just as a bhikkhu possessed of virtue, concentration, and wisdom would here and now enjoy final knowledge, so it will happen in this case, I say, that unless he abandons that assertion and that state of mind and relinquishes that view, then as [surely as if he had been] carried off and put there he will wind up in hell.
 
-## (FOUR KINDS OF INTREPIDITY)
+<!--pg-->
+#### (FOUR KINDS OF INTREPIDITY)
 
 22\. "Sāriputta, the Tathāgata has these four kinds of intrepidity, possessing which he claims the herd-leader's place, roars his lion's roar in the assemblies, and sets rolling the Wheel of Brahmā. What are the four?
 
@@ -63,7 +66,8 @@ herd-leader's place, roars his lion's roar in the assemblies, and sets rolling t
 
 28\. "Sāriputta, when I know and see thus, should anyone say of me...he will wind up in hell.
 
-## (THE EIGHT ASSEMBLIES)
+<!--pg-->
+#### (THE EIGHT ASSEMBLIES)
 
 29\. "Sāriputta, there are these eight assemblies. What are the eight? An assembly of nobles, an assembly of brahmins, an assembly of householders, an assembly of recluses, an assembly of gods of the heaven of the Four Great Kings, an assembly of gods of the heaven of the Thirty-three, an assembly of Māra's retinue, an assembly of Brahmās. Possessing these four kinds of intrepidity, the Tathāgata approaches and enters these eight assemblies.
 
@@ -71,6 +75,7 @@ herd-leader's place, roars his lion's roar in the assemblies, and sets rolling t
 
 31\. "Sāriputta, when I know and see thus, should anyone say of me...he will wind up in hell.
 
+<!--pg-->
 (FOUR KINDS OF GENERATION)
 
 32\. "Sāriputta, there are these four kinds of generation. What are the four? Egg-born generation, womb-born generation, moistureborn generation, and spontaneous generation.
@@ -79,7 +84,8 @@ herd-leader's place, roars his lion's roar in the assemblies, and sets rolling t
 
 34\. "Sāriputta, when I know and see thus, should anyone say of me...he will wind up in hell.
 
-## (THE FIVE DESTINATIONS AND NIBBĀNA)
+<!--pg-->
+#### (THE FIVE DESTINATIONS AND NIBBĀNA)
 
 35\. "Sāriputta, there are these five destinations. What are the five? Hell, the animal realm, the realm of ghosts, human beings, and gods. [^190]
 
@@ -111,7 +117,8 @@ it had an upper chamber plastered within and without, shut off, secured by bars,
 43\. "Sāriputta, when I know and see thus, should anyone say of me: 'The recluse Gotama does not have any superhuman states, any distinction in knowledge and vision worthy of the noble ones. The recluse Gotama teaches a Dhamma [merely] hammered out by reasoning, following his own line of inquiry as it occurs to him' - unless he abandons that assertion and that
 state of mind and relinquishes that view, then as [surely as if he had been] carried off and put there he will wind up in hell. Just as a bhikkhu possessed of virtue, concentration, and wisdom would here and now enjoy final knowledge, so it will happen in this case, I say, that unless he abandons that assertion and that state of mind and relinquishes that view, then as [surely as if he had been] carried off and put there he will wind up in hell.
 
-## (THE BODHISATTA'S AUSTERITIES)
+<!--pg-->
+#### (THE BODHISATTA'S AUSTERITIES)
 
 44\. "Sāriputta, I recall having lived a holy life possessing four factors. I have practised asceticism - the extreme of asceticism; I have practised coarseness - the extreme of coarseness; I have practised scrupulousness - the extreme of scrupulousness; I have practised seclusion - the extreme of seclusion. [^193]
 
@@ -129,10 +136,14 @@ continuously, rejecting seats. I was one who squatted continuously, devoted to m
 50\. "I would plunge into some awe-inspiring grove and dwell there - a grove so awe-inspiring that normally it would make a man's hair stand up if he were not free from lust. When those cold wintry nights came during the 'eight-days interval of frost,' I would dwell by night in the open and by day in the grove. [^194] In the last month of the hot season I would dwell by day in the
 open and by night in the grove. And there came to me spontaneously this stanza never heard before:
 
-'Chilled by night and scorched by day, Alone in awe-inspiring groves, Naked, no fire to sit beside, The sage yet pursues his quest.'
+*'Chilled by night and scorched by day,*<br>
+*Alone in awe-inspiring groves,*<br>
+*Naked, no fire to sit beside,*<br>
+*The sage yet pursues his quest.'*<br>
 
 51\. "I would make my bed in a charnel ground with the bones of the dead for a pillow. And cowherd boys came up and spat on me, urinated on me, threw dirt at me, and poked sticks into my ears. Yet I do not recall that I ever aroused an evil mind [of hate] against them. Such was my abiding in equanimity. [80]
 
+<!--pg-->
 52\. "Säriputta, there are certain recluses and brahmins whose doctrine and view is this: 'Purification comes about through food. [^195] They say: 'Let us live on kola-fruits,' and they eat kolafruits, they eat kola-fruit powder, they drink kola-fruit water, and they make many kinds of kola-fruit concoctions. Now I recall having eaten a single kola-fruit a day. Sāriputta, you may think that the kola-fruit was bigger at that time, yet you should not regard it so: the kola-fruit was then at most the same size as now. Through feeding on a single kola-fruit a day, my body reached a state of extreme emaciation. Because of eating so little my limbs became like the jointed segments of vine stems or bamboo stems. Because of eating so little my backside became like a camel's hoof. Because of eating so little the projections on my spine stood forth like corded beads. Because of eating so little my ribs jutted out as gaunt as the crazy rafters of an old roofless barn. Because of eating so little the gleam of my eyes sank far down in their sockets, looking like a gleam of water that has sunk far down in a deep well. Because of eating so little my scalp shrivelled and withered as a green bitter gourd shrivels and withers in the wind and sun. Because of eating so little my belly skin adhered to my backbone; thus if I touched my belly skin I encountered my backbone, and if I touched my backbone I encountered my belly skin. Because of eating so little, if I tried to ease my body by rubbing my limbs with my hands, the hair, rotted at its roots, fell from my body as I rubbed.
 
 53-55. "Säriputta, there are certain recluses and brahmins whose doctrine and view is this: 'Purification comes about
@@ -151,6 +162,7 @@ through food.' They say: 'Let us live on beans,'...'Let us live on sesamum,'...'
 61\. "There are certain recluses and brahmins whose doctrine and view is this: 'Purification comes through fire-worship.' But
 it is impossible to find a kind of fire that has not already been worshipped by me in this long journey, when I was either a head-anointed noble king or a well-to-do brahmin.
 
+<!--pg-->
 62\. "Sāriputta, there are certain recluses and brahmins whose doctrine and view is this: 'As long as this good man is still young, a black-haired young man endowed with the blessing of youth, in the prime of life, so long is he perfect in his lucid wisdom. But when this good man is old, aged, burdened with years, advanced in life, and come to the last stage, being eighty, ninety, or a hundred years old, then the lucidity of his wisdom is lost.' But it should not be regarded so. I am now old, aged, burdened with years, advanced in life, and come to the last stage: my years have turned eighty. Now suppose that I had four disciples with a hundred years' lifespan, perfect in mindfulness, retentiveness, memory, and lucidity of wisdom. [^197] Just as a skilled archer, trained, practised, and tested, could easily shoot a light arrow across the shadow of a palm tree, suppose that they were even to that extent perfect in mindfulness, retentiveness, [83] memory, and lucidity of wisdom. Suppose that they continuously asked me about the four foundations of mindfulness and that I answered them when asked and that they remembered each answer of mine and never asked a subsidiary question or paused except to eat, drink, consume food, taste, urinate, defecate, and rest in order to remove sleepiness and tiredness. Still the Tathāgata's exposition of the Dhamma, his explanations of factors of the Dhamma, and his replies to questions would not yet come to an end, but meanwhile those four disciples of mine with their hundred years' lifespan would have died at the end of those hundred years. Sariputta, even if you have to carry me about on a bed, still there will be no change in the lucidity of the Tathāgata's wisdom.
 
 63\. "Rightly speaking, were it to be said of anyone: 'A being not subject to delusion has appeared in the world for the welfare and happiness of many, out of compassion for the world, for the good, welfare, and happiness of gods and humans,' it is of me indeed that rightly speaking this should be said."

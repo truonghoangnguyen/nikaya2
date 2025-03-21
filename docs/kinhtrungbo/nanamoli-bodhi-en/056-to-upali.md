@@ -11,7 +11,7 @@
 
 "Then, Tapassi, how many kinds of rod does the Niganṭha Nātaputta describe for the performance of evil action, for the perpetration of evil action?"
 
-"Friend Gotama, the Niganṭha Nātaputta describes three kinds of rod for the performance of evil action, for the perpetration of evil action; that is, the bodily rod, the verbal rod, and the mental rod. ${ }^{\prime 580}$
+"Friend Gotama, the Niganṭha Nātaputta describes three kinds of rod for the performance of evil action, for the perpetration of evil action; that is, the bodily rod, the verbal rod, and the mental rod. [^580]
 
 "How then, Tapassi, is the bodily rod one, the verbal rod another, and the mental rod still another?"
 
@@ -165,7 +165,7 @@ evil action, for the perpetration of evil action, and not so much the verbal rod
 
 Only what is given to my disciples is very fruitful, not what is given to others' disciples.' But, on the contrary, the Blessed One encourages me to give gifts to the Niganthas. Anyway we shall know the time for that, venerable sir. So for the third time, venerable sir, I go to the Blessed One for refuge and to the Dhamma and to the Sangha of bhikkhus. Let the Blessed One remember me as a lay follower who has gone to him for refuge for life."
 
-18\. Then the Blessed One gave the householder Upāli progressive instruction, that is, talk on giving, talk on virtue, talk on the heavens; he explained the danger, degradation, and defilement in sensual pleasures and the blessing of renunciation. When he knew that the householder Upāli's mind [380] was ready, receptive, free from hindrances, elated, and confident, he expounded to him the teaching special to the Buddhas: suffering, its origin, its cessation, and the path. Just as a clean cloth with all marks removed would take dye evenly, so too, while the householder Upāli sat there, the spotless immaculate vision of the Dhamma arose in him: "All that is subject to arising is subject to cessation. ${ }^{\prime 588}$ Then the householder Upāli saw the Dhamma, attained the Dhamma, understood the Dhamma, fathomed the Dhamma; he crossed beyond doubt, did away with perplexity, gained intrepidity, and became independent of others in the Teacher's Dispensation. [^589] Then he said to the Blessed One: "Now, venerable sir, we must go. We are busy and have much to do."
+18\. Then the Blessed One gave the householder Upāli progressive instruction, that is, talk on giving, talk on virtue, talk on the heavens; he explained the danger, degradation, and defilement in sensual pleasures and the blessing of renunciation. When he knew that the householder Upāli's mind [380] was ready, receptive, free from hindrances, elated, and confident, he expounded to him the teaching special to the Buddhas: suffering, its origin, its cessation, and the path. Just as a clean cloth with all marks removed would take dye evenly, so too, while the householder Upāli sat there, the spotless immaculate vision of the Dhamma arose in him: "All that is subject to arising is subject to cessation. [^588] Then the householder Upāli saw the Dhamma, attained the Dhamma, understood the Dhamma, fathomed the Dhamma; he crossed beyond doubt, did away with perplexity, gained intrepidity, and became independent of others in the Teacher's Dispensation. [^589] Then he said to the Blessed One: "Now, venerable sir, we must go. We are busy and have much to do."
 
 "Now is the time, householder, to do as you think fit."
 

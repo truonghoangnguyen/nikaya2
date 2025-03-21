@@ -73,7 +73,7 @@ is no recluse or brahmin [128] who knows all, who sees all, simultaneously; that
 
 "Venerable sir, I was asking whether those gods come back to this [human] state or whether they do not."
 
-"Great king, those gods who are still subject to affliction come back to this [human] state, those gods who are no longer subject to affliction do not come back to this [human] state." ${ }^{\prime 849}$
+"Great king, those gods who are still subject to affliction come back to this [human] state, those gods who are no longer subject to affliction do not come back to this [human] state." [^849]
 
 14. When this was said, General Viḍūḍabha asked the Blessed One: "Venerable sir, can those gods who are still subject to affliction and who come back to this [human] state topple or banish from that place those gods who are no longer subject to affliction and who do not come back to this [human] state?"
 

@@ -3,7 +3,7 @@
 **13. ÐẠI KINH KHỔ UẨN**
 ***(Mahàdukkhakkhanda Sutta)***
 
-## T ôi nghe như vầy:
+Tôi nghe như vầy:
 
 Một thời, Thế Tôn ở Savatthi, tại Jetavana (Kỳ-đà Lâm), trong vườn ông Anathapindika (Cấp Cô Ðộc).
 
@@ -41,6 +41,7 @@ Tôn, chúng con không hoan hỷ, không chỉ trích những lời nói các D
 không chỉ trích, chúng con từ chỗ ngồi đứng dậy, từ biệt với ý nghĩ: "Chúng ta sẽ học ý nghĩa lời nói
 này từ Thế Tôn".
 
+<!--pg-->
 -- Này các Tỷ-kheo, các Du sĩ ngoại đạo nói như vậy cần được trả lời như sau: "Chư Hiền, thế nào là vị
 ngọt các dục? Thế nào là sự nguy hiểm, thế nào là sự xuất ly? Thế nào là vị ngọt các sắc pháp, thế nào là
 sự nguy hiểm, thế nào là sự xuất ly? Thế nào là vị ngọt các cảm thọ, thế nào là sự nguy hiểm, thế nào là
@@ -50,6 +51,7 @@ họ. Này các Tỷ-kheo, Ta không thấy một ai trong thế giới này v�
 chúng Sa-môn, Bà-la-môn, với chư Thiên và loài Người, mà câu trả lời các câu hỏi được chấp nhận, trừ
 Như Lai, đệ tử Như Lai và những ai được nghe hai vị này.
 
+<!--pg-->
 ***(Vị ngọt các dục)***
 
 Và này các Tỷ-kheo, thế nào là vị ngọt các dục? Này các Tỷ-kheo, có năm pháp tăng trưởng dục này:
@@ -132,6 +134,7 @@ vậy, sự xuất ly là sự xuất ly như vậy, những vị này nhất đ
 có thể đặt người khác trong một địa vị tương tự, nghĩa là như thật tuệ tri các dục, sự kiện như vậy có xảy
 ra.
 
+<!--pg-->
 ***(Vị ngọt các sắc pháp)***
 
 Và này các Tỷ-kheo, thế nào là vị ngọt các sắc pháp? Này các Tỷ-kheo, như các thiếu nữ Sát-đế-lị, thiếu
@@ -152,7 +155,6 @@ nào? Có phải sự mỹ diệu về sắc đẹp xưa kia của người đó
 -- Bạch Thế Tôn, sự thật là vậy.
 
 -- Này các Tỷ-kheo, như vậy là sự nguy hiểm các sắc pháp. Lại nữa này các Tỷ-kheo, người ta có thể
-
 thấy bà chị ấy bị bệnh hoạn đau khổ, trầm bệnh, nằm đắm mình trong phân tiểu của mình, phải có người
 nâng dậy, phải có người đỡ nằm. Này các Tỷ-kheo, các Người nghĩ thế nào? Có phải sự mỹ diệu về sắc
 đẹp xưa kia của người đó nay đã biến mất và sự nguy hiểm đã hiện ra?
@@ -207,6 +209,7 @@ hiểm như vậy, sự xuất ly là sự xuất ly như vậy, những vị n�
 họ, họ cũng có thể đặt người khác trong một địa vị tương tự, nghĩa là như thật tuệ tri các sắc pháp, sự
 kiện như vậy có xảy ra.
 
+<!--pg-->
 ***(Vị ngọt các cảm thọ)***
 
 Và này các Tỷ-kheo, thế nào là vị ngọt các cảm thọ? Ở đây các Tỷ-kheo ly các dục, ly các bất thiện pháp

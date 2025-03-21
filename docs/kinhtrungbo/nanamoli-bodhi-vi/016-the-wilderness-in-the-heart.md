@@ -1,70 +1,90 @@
-# 16 The Wilderness in the Heart
-***(Cetokhila Sutta)***
+# 16 Vùng Hoang Vắng Trong Tâm
+***(Kinh Cetokhila)***
 
-[101] 1. Thus have I heard. On one occasion the Blessed One was living at Sāvatthī in Jeta's Grove, Anāthapiṇ̣ika's Park. There he addressed the bhikkhus thus: "Bhikkhus." "Venerable sir," they replied. The Blessed One said this:
+[101] 1. Tôi nghe như vầy. Có lần Đức Phật đang ở tại Sāvatthī trong Rừng Jeta, Công viên của Anāthapiṇ̣ika. Ở đó, ngài nói với các tỳ kheo: "Này các tỳ kheo." "Bạch Thế Tôn," họ đáp. Đức Phật nói điều này:
 
-2. "Bhikkhus, that any bhikkhu who has not abandoned five wildernesses in the heart and not severed five shackles in the heart should come to growth, increase, and fulfilment in this Dhamma and Discipline - that is impossible. [^217]
+2\. "Này các tỳ kheo, bất kỳ tỳ kheo nào chưa từ bỏ năm vùng hoang vắng trong tâm và chưa cắt đứt năm xiềng xích trong tâm mà có thể đạt được sự trưởng thành, tăng tiến và viên mãn trong Giáo Pháp và Luật này - điều đó là không thể. [^217]
 
-3. "What, bhikkhus, are the five wildernesses in the heart that he has not abandoned? Here a bhikkhu is doubtful, uncertain, undecided, and unconfident about the Teacher, and thus his mind does not incline to ardour, devotion, perseverance, and striving. As his mind does not incline to ardour, devotion, perseverance, and striving, that is the first wilderness in the heart that he has not abandoned.
+<!--pg-->
+3\. "Này các tỳ kheo, năm vùng hoang vắng trong tâm mà vị ấy chưa từ bỏ là gì? Ở đây, một tỳ kheo nghi ngờ, không chắc chắn, do dự và không tin tưởng vào Bậc Thầy, và do đó tâm của vị ấy không hướng đến sự nhiệt thành, tận tụy, kiên trì và nỗ lực. Vì tâm của vị ấy không hướng đến sự nhiệt thành, tận tụy, kiên trì và nỗ lực, đó là vùng hoang vắng thứ nhất trong tâm mà vị ấy chưa từ bỏ.
 
-4. "Again, a bhikkhu is doubtful, uncertain, undecided, and unconfident about the Dhamma ${ }^{218} \ldots$ As his mind does not incline to ardour...that is the second wilderness in the heart that he has not abandoned.
+4\. "Hơn nữa, một tỳ kheo nghi ngờ, không chắc chắn, do dự và không tin tưởng vào Giáo Pháp [^218] Vì tâm của vị ấy không hướng đến sự nhiệt thành... đó là vùng hoang vắng thứ hai trong tâm mà vị ấy chưa từ bỏ.
 
-5. "Again, a bhikkhu is doubtful, uncertain, undecided, and unconfident about the Sangha...As his mind does not incline to ardour...that is the third wilderness in the heart that he has not abandoned.
+5\. "Hơn nữa, một tỳ kheo nghi ngờ, không chắc chắn, do dự và không tin tưởng vào Tăng đoàn... Vì tâm của vị ấy không hướng đến sự nhiệt thành... đó là vùng hoang vắng thứ ba trong tâm mà vị ấy chưa từ bỏ.
 
-6. "Again, a bhikkhu is doubtful, uncertain, undecided, and unconfident about the training...As his mind does not incline to ardour...that is the fourth wilderness in the heart that he has not abandoned.
+6\. "Hơn nữa, một tỳ kheo nghi ngờ, không chắc chắn, do dự và không tin tưởng vào sự rèn luyện... Vì tâm của vị ấy không hướng đến sự nhiệt thành... đó là vùng hoang vắng thứ tư trong tâm mà vị ấy chưa từ bỏ.
 
-7. "Again, a bhikkhu is angry and displeased with his companions in the holy life, resentful and callous towards them, and thus his mind does not incline to ardour, devotion, perseverance,
-and striving. As his mind does not incline to ardour, devotion, perseverance, and striving, that is the fifth wilderness in the heart that he has not abandoned.
+7\. "Hơn nữa, một tỳ kheo tức giận và không hài lòng với các bạn đồng tu, oán giận và nhẫn tâm với họ, và do đó tâm của vị ấy không hướng đến sự nhiệt thành, tận tụy, kiên trì và nỗ lực. Vì tâm của vị ấy không hướng đến sự nhiệt thành, tận tụy, kiên trì và nỗ lực, đó là vùng hoang vắng thứ năm trong tâm mà vị ấy chưa từ bỏ.
 
-"These are the five wildernesses in the heart that he has not abandoned.
+"Đây là năm vùng hoang vắng trong tâm mà vị ấy chưa từ bỏ.
 
-8. "What, bhikkhus, are the five shackles in the heart that he has not severed? Here a bhikkhu is not free from lust, desire, affection, thirst, fever, and craving for sensual pleasures, and thus his mind does not incline to ardour, devotion, perseverance, and striving. As his mind does not incline to ardour, devotion, perseverance, and striving, that is the first shackle in the heart that he has not severed.
+<!--pg-->
+8\. "Này các tỳ kheo, năm xiềng xích trong tâm mà vị ấy chưa cắt đứt là gì? Ở đây, một tỳ kheo không thoát khỏi tham ái, ham muốn, luyến ái, khao khát, nóng nảy và thèm muốn dục lạc, và do đó tâm của vị ấy không hướng đến sự nhiệt thành, tận tụy, kiên trì và nỗ lực. Vì tâm của vị ấy không hướng đến sự nhiệt thành, tận tụy, kiên trì và nỗ lực, đó là xiềng xích thứ nhất trong tâm mà vị ấy chưa cắt đứt.
 
-9. "Again, a bhikkhu is not free from lust, desire, affection, thirst, fever, and craving for the body ${ }^{219} \ldots$ As his mind does not incline to ardour...that is the second shackle in the heart that he has not severed. [102]
+9\. "Hơn nữa, một tỳ kheo không thoát khỏi tham ái, ham muốn, luyến ái, khao khát, nóng nảy và thèm muốn thân thể [^219] Vì tâm của vị ấy không hướng đến sự nhiệt thành... đó là xiềng xích thứ hai trong tâm mà vị ấy chưa cắt đứt. [102]
 
-10. "Again, a bhikkhu is not free from lust, desire, affection, thirst, fever, and craving for form...As his mind does not incline to ardour...that is the third shackle in the heart that he has not severed.
+10\. "Hơn nữa, một tỳ kheo không thoát khỏi tham ái, ham muốn, luyến ái, khao khát, nóng nảy và thèm muốn hình tướng... Vì tâm của vị ấy không hướng đến sự nhiệt thành... đó là xiềng xích thứ ba trong tâm mà vị ấy chưa cắt đứt.
 
-11. "Again, a bhikkhu eats as much as he likes until his belly is full and indulges in the pleasures of sleeping, lolling, and drowsing...As his mind does not incline to ardour...that is the fourth shackle in the heart that he has not severed.
+11\. "Hơn nữa, một tỳ kheo ăn bao nhiêu tùy thích cho đến khi bụng no căng và đắm mình trong những thú vui của việc ngủ, nằm dài và uể oải... Vì tâm của vị ấy không hướng đến sự nhiệt thành... đó là xiềng xích thứ tư trong tâm mà vị ấy chưa cắt đứt.
 
-12. "Again, a bhikkhu lives the holy life aspiring to some order of gods thus: 'By this virtue or observance or asceticism or holy life, I shall become a [great] god or some [lesser] god,' and thus his mind does not incline to ardour, devotion, perseverance, and striving. As his mind does not incline to ardour, devotion, perseverance, and striving, this is the fifth shackle in the heart that he has not severed.
+12\. "Hơn nữa, một tỳ kheo sống đời sống thánh hạnh với mong muốn đạt được một địa vị chư thiên nào đó như sau: 'Nhờ đức hạnh này, hoặc sự tuân thủ này, hoặc sự khổ hạnh này, hoặc đời sống thánh hạnh này, ta sẽ trở thành một vị thiên [vĩ đại] hoặc một vị thiên [nhỏ bé] nào đó,' và do đó tâm của vị ấy không hướng đến sự nhiệt thành, tận tụy, kiên trì và nỗ lực. Vì tâm của vị ấy không hướng đến sự nhiệt thành, tận tụy, kiên trì và nỗ lực, đây là xiềng xích thứ năm trong tâm mà vị ấy chưa cắt đứt.
 
-"These are the five shackles in the heart that he has not severed.
+"Đây là năm xiềng xích trong tâm mà vị ấy chưa cắt đứt.
 
-13. "Bhikkhus, that any bhikkhu who has not abandoned these five wildernesses in the heart and severed these five shackles in the heart should come to growth, increase, and fulfilment in this Dhamma and Discipline - that is impossible.
+<!--pg-->
+13\. "Này các tỳ kheo, bất kỳ tỳ kheo nào chưa từ bỏ năm vùng hoang vắng trong tâm này và chưa cắt đứt năm xiềng xích trong tâm này mà có thể đạt được sự trưởng thành, tăng tiến và viên mãn trong Giáo Pháp và Luật này - điều đó là không thể.
 
-14. "Bhikkhus, that any bhikkhu who has abandoned five wildernesses in the heart and severed five shackles in the heart should come to growth, increase, and fulfilment in this Dhamma and Discipline - that is possible.
+14\. "Này các tỳ kheo, bất kỳ tỳ kheo nào đã từ bỏ năm vùng hoang vắng trong tâm và cắt đứt năm xiềng xích trong tâm mà có thể đạt được sự trưởng thành, tăng tiến và viên mãn trong Giáo Pháp và Luật này - điều đó là có thể.
 
-15. "What, bhikkhus, are the five wildernesses in the heart that he has abandoned? Here a bhikkhu is not doubtful, uncertain, undecided, or unconfident about the Teacher, and thus his mind inclines to ardour, devotion, perseverance, and striving. As his mind inclines to ardour, devotion, perseverance, and striving, the first wilderness in the heart has been abandoned by him.
+15\. "Này các tỳ kheo, năm vùng hoang vắng trong tâm mà vị ấy đã từ bỏ là gì? Ở đây, một tỳ kheo không nghi ngờ, không không chắc chắn, không do dự, hoặc không tin tưởng vào Bậc Thầy, và do đó tâm của vị ấy hướng đến sự nhiệt thành, tận tụy, kiên trì và nỗ lực. Vì tâm của vị ấy hướng đến sự nhiệt thành, tận tụy, kiên trì và nỗ lực, vùng hoang vắng thứ nhất trong tâm đã được vị ấy từ bỏ.
 
-16. "Again, a bhikkhu is not doubtful, uncertain, undecided, or unconfident about the Dhamma...As his mind inclines to ardour...the second wilderness in the heart has been abandoned by him.
+16\. "Hơn nữa, một tỳ kheo không nghi ngờ, không không chắc chắn, không do dự, hoặc không tin tưởng vào Giáo Pháp... Vì tâm của vị ấy hướng đến sự nhiệt thành... vùng hoang vắng thứ hai trong tâm đã được vị ấy từ bỏ.
 
-17. "Again, a bhikkhu is not doubtful, uncertain, undecided, or unconfident about the Sangha...As his mind inclines to ardour...the third wilderness in the heart has been abandoned by him.
+17\. "Hơn nữa, một tỳ kheo không nghi ngờ, không không chắc chắn, không do dự, hoặc không tin tưởng vào Tăng đoàn... Vì tâm của vị ấy hướng đến sự nhiệt thành... vùng hoang vắng thứ ba trong tâm đã được vị ấy từ bỏ.
 
-18. "Again, a bhikkhu is not doubtful, uncertain, undecided, or unconfident about the training...As his mind inclines to ardour...the fourth wilderness in the heart has been abandoned by him.
+18\. "Hơn nữa, một tỳ kheo không nghi ngờ, không không chắc chắn, không do dự, hoặc không tin tưởng vào sự rèn luyện... Vì tâm của vị ấy hướng đến sự nhiệt thành... vùng hoang vắng thứ tư trong tâm đã được vị ấy từ bỏ.
 
-19. "Again, a bhikkhu is not angry and displeased with his companions in the holy life, nor resentful and callous towards them, and thus his mind inclines to ardour, devotion, perseverance, and striving. [103] As his mind inclines to ardour, devotion, perseverance, and striving, the fifth wilderness in the heart has been abandoned by him.
+19\. "Hơn nữa, một tỳ kheo không tức giận và không hài lòng với các bạn đồng tu, không oán giận và nhẫn tâm với họ, và do đó tâm của vị ấy hướng đến sự nhiệt thành, tận tụy, kiên trì và nỗ lực. [103] Vì tâm của vị ấy hướng đến sự nhiệt thành, tận tụy, kiên trì và nỗ lực, vùng hoang vắng thứ năm trong tâm đã được vị ấy từ bỏ.
 
-"These are the five wildernesses in the heart that he has abandoned.
+"Đây là năm vùng hoang vắng trong tâm mà vị ấy đã từ bỏ.
 
-20. "What, bhikkhus, are the five shackles in the heart that he has severed? Here a bhikkhu is free from lust, desire, affection, thirst, fever, and craving for sensual pleasures, and thus his mind inclines to ardour, devotion, perseverance, and striving. As his mind inclines to ardour, devotion, perseverance, and striving, the first shackle in the heart has been severed by him.
+<!--pg-->
+20\. "Này các tỳ kheo, năm xiềng xích trong tâm mà vị ấy đã cắt đứt là gì? Ở đây, một tỳ kheo thoát khỏi tham ái, ham muốn, luyến ái, khao khát, nóng nảy và thèm muốn dục lạc, và do đó tâm của vị ấy hướng đến sự nhiệt thành, tận tụy, kiên trì và nỗ lực. Vì tâm của vị ấy hướng đến sự nhiệt thành, tận tụy, kiên trì và nỗ lực, xiềng xích thứ nhất trong tâm đã được vị ấy cắt đứt.
 
-21. "Again, a bhikkhu is free from lust, desire, affection, thirst, fever, and craving for the body...As his mind inclines to ardour...the second shackle in the heart has been severed by him.
+21\. "Hơn nữa, một tỳ kheo thoát khỏi tham ái, ham muốn, luyến ái, khao khát, nóng nảy và thèm muốn thân thể... Vì tâm của vị ấy hướng đến sự nhiệt thành... xiềng xích thứ hai trong tâm đã được vị ấy cắt đứt.
 
-22. "Again, a bhikkhu is free from lust, desire, affection, thirst, fever, and craving for form...As his mind inclines to ardour...the third shackle in the heart has been severed by him.
+22\. "Hơn nữa, một tỳ kheo thoát khỏi tham ái, ham muốn, luyến ái, khao khát, nóng nảy và thèm muốn hình tướng... Vì tâm của vị ấy hướng đến sự nhiệt thành... xiềng xích thứ ba trong tâm đã được vị ấy cắt đứt.
 
-23. "Again, a bhikkhu does not eat as much as he likes until his belly is full and does not indulge in the pleasures of sleeping,
-lolling, and drowsing...As his mind inclines to ardour...the fourth shackle in the heart has been severed by him.
+23\. "Hơn nữa, một tỳ kheo không ăn bao nhiêu tùy thích cho đến khi bụng no căng và không đắm mình trong những thú vui của việc ngủ, nằm dài và uể oải... Vì tâm của vị ấy hướng đến sự nhiệt thành... xiềng xích thứ tư trong tâm đã được vị ấy cắt đứt.
 
-24. "Again, a bhikkhu does not live the holy life aspiring to some order of gods thus: 'By this virtue or observance or asceticism or holy life, I shall become a [great] god or some [lesser] god,' and thus his mind inclines to ardour, devotion, perseverance, and striving. As his mind inclines to ardour, devotion, perseverance, and striving, the fifth shackle in the heart has been severed by him.
+24\. "Hơn nữa, một tỳ kheo không sống đời sống thánh hạnh với mong muốn đạt được một địa vị chư thiên nào đó như sau: 'Nhờ đức hạnh này, hoặc sự tuân thủ này, hoặc sự khổ hạnh này, hoặc đời sống thánh hạnh này, ta sẽ trở thành một vị thiên [vĩ đại] hoặc một vị thiên [nhỏ bé] nào đó,' và do đó tâm của vị ấy hướng đến sự nhiệt thành, tận tụy, kiên trì và nỗ lực. Vì tâm của vị ấy hướng đến sự nhiệt thành, tận tụy, kiên trì và nỗ lực, xiềng xích thứ năm trong tâm đã được vị ấy cắt đứt.
 
-"These are the five shackles in the heart that he has severed.
+"Đây là năm xiềng xích trong tâm mà vị ấy đã cắt đứt.
 
-25. "Bhikkhus, that any bhikkhu who has abandoned these five wildernesses in the heart and severed these five shackles in the heart should come to growth, increase, and fulfilment in this Dhamma and Discipline - that is possible.
+<!--pg-->
+25\. "Này các tỳ kheo, bất kỳ tỳ kheo nào đã từ bỏ năm vùng hoang vắng trong tâm này và cắt đứt năm xiềng xích trong tâm này mà có thể đạt được sự trưởng thành, tăng tiến và viên mãn trong Giáo Pháp và Luật này - điều đó là có thể.
 
-26. "He develops the basis for spiritual power consisting in concentration due to zeal and determined striving; he develops the basis for spiritual power consisting in concentration due to energy and determined striving; he develops the basis for spiritual power consisting in concentration due to [purity of] mind and determined striving; he develops the basis for spiritual power consisting in concentration due to investigation and determined striving. And enthusiasm is the fifth. [^220]
+26\. "Vị ấy phát triển cơ sở cho năng lực siêu nhiên (spiritual power) bao gồm sự tập trung nhờ nhiệt tâm và nỗ lực kiên định; vị ấy phát triển cơ sở cho năng lực siêu nhiên bao gồm sự tập trung nhờ năng lượng và nỗ lực kiên định; vị ấy phát triển cơ sở cho năng lực siêu nhiên bao gồm sự tập trung nhờ [sự trong sạch của] tâm và nỗ lực kiên định; vị ấy phát triển cơ sở cho năng lực siêu nhiên bao gồm sự tập trung nhờ sự tìm tòi và nỗ lực kiên định. Và sự nhiệt tình là yếu tố thứ năm. [^220]
 
-27. "A bhikkhu who thus possesses the fifteen factors including enthusiasm is [104] capable of breaking out, capable of enlightenment, capable of attaining the supreme security from bondage. [^221]
+27\. "Một tỳ kheo có được mười lăm yếu tố, bao gồm cả sự nhiệt tình, [104] có khả năng bứt phá, có khả năng giác ngộ, có khả năng đạt được sự an toàn tối thượng khỏi sự trói buộc. [^221]
 
-"Suppose there were a hen with eight, ten, or twelve eggs, which she had covered, incubated, and nurtured properly. Even though she did not wish: 'Oh, that my chicks might pierce their shells with the points of their claws and beaks and hatch out safely!' yet the chicks are capable of piercing their shells with the points of their claws and beaks and hatching out safely. [^222] So too, a bhikkhu who thus possesses the fifteen factors including enthusiasm is capable of breaking out, capable of enlightenment, capable of attaining the supreme security from bondage."
+"Giả sử có một con gà mái với tám, mười, hoặc mười hai quả trứng, mà nó đã ấp, ủ và nuôi dưỡng đúng cách. Ngay cả khi nó không mong muốn: 'Ôi, ước gì những con gà con của ta có thể chọc thủng vỏ trứng bằng móng vuốt và mỏ của chúng và nở ra an toàn!' nhưng những con gà con vẫn có khả năng chọc thủng vỏ trứng bằng móng vuốt và mỏ của chúng và nở ra an toàn. [^222] Cũng vậy, một tỳ kheo có được mười lăm yếu tố, bao gồm cả sự nhiệt tình, có khả năng bứt phá, có khả năng giác ngộ, có khả năng đạt được sự an toàn tối thượng khỏi sự trói buộc."
 
-That is what the Blessed One said. The bhikkhus were satisfied and delighted in the Blessed One's words.
+Đó là những gì Đức Phật đã nói. Các tỳ kheo hoan hỷ và hài lòng với lời của Đức Phật.
+
+<!--pg-->
+Từ ngữ:
+
+- Vùng hoang vắng trong tâm / cetokhila / wildernesses in the heart: những trở ngại tinh thần ngăn cản sự tiến bộ trên con đường tu tập.
+- Xiềng xích trong tâm / saṃyojana / shackles in the heart: những ràng buộc tinh thần trói buộc chúng sinh trong vòng luân hồi.
+- Bậc Thầy / Satthari / the Teacher: Đức Phật, người chỉ đường dẫn lối cho chúng sinh.
+- Giáo Pháp / Dhamma / the Dhamma: lời dạy của Đức Phật, chân lý về thực tại.
+- Tăng đoàn / Sangha / the Sangha: cộng đồng các tu sĩ Phật giáo, những người thực hành và giữ gìn Giáo Pháp.
+- Sự rèn luyện / sikkhā / the training: quá trình tu tập để đạt được giác ngộ, bao gồm giới, định, tuệ.
+- Dục lạc / kāma / sensual pleasures: những thú vui giác quan, bao gồm sắc, thanh, hương, vị, xúc.
+- Thân thể / rūpa / the body: thân xác vật chất, một trong năm uẩn.
+- Hình tướng / form: bao gồm cả thân thể và các đối tượng bên ngoài được nhận thức qua các giác quan.
+- Năng lực siêu nhiên / Iddhipāda / basis for spiritual power: bốn yếu tố giúp phát triển các năng lực tinh thần, bao gồm: dục (chanda), tinh tấn (viriya), tâm (citta), thẩm (vīmaṃsā).
+- Nhiệt tâm / chanda / zeal: mong muốn, ý chí mạnh mẽ để đạt được mục tiêu.
+- Nỗ lực kiên định / padhānasaṅkhārehi / determined striving: sự cố gắng không ngừng nghỉ, không bỏ cuộc.
+- Sự an toàn tối thượng khỏi sự trói buộc / anuttaraṃ yogakkhemaṃ / the supreme security from bondage: Niết bàn, trạng thái giải thoát hoàn toàn khỏi khổ đau.

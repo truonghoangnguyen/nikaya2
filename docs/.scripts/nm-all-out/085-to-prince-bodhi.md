@@ -26,7 +26,7 @@ The Blessed One looked at the venerable Ānanda. [93] The venerable Ānanda said
 
 8. So Prince Bodhi had the cloth removed, and he had seats prepared in the upper apartments of the Kokanada Palace. The Blessed One and the Sangha of bhikkhus ascended the Kokanadá Palace and sat down on the seats that had been prepared.
 
-9. Then, with his own hands, Prince Bodhi served and satisfied the Sangha of bhikkhus headed by the Buddha with the various kinds of good food. When the Blessed One had eaten and had withdrawn his hand from the bowl, Prince Bodhi took a low seat, sat down at one side, and said to the Blessed One: "Venerable sir, we have thought thus: 'Pleasure is not to be gained through pleasure; pleasure is to be gained through pain." ${ }^{\prime 819}$
+9. Then, with his own hands, Prince Bodhi served and satisfied the Sangha of bhikkhus headed by the Buddha with the various kinds of good food. When the Blessed One had eaten and had withdrawn his hand from the bowl, Prince Bodhi took a low seat, sat down at one side, and said to the Blessed One: "Venerable sir, we have thought thus: 'Pleasure is not to be gained through pleasure; pleasure is to be gained through pain." [^819]
 
 10. "Prince, before my enlightenment, while I was still only an unenlightened Bodhisatta, I too thought thus: 'Pleasure is not to be gained through pleasure; pleasure is to be gained through pain.'
 
@@ -78,7 +78,7 @@ gone to him for refuge for life.' There was also an occasion when the Blessed On
 
 ## Notes
 
-[^816]: . Prince Bodhi was the son of King Udena of Kosambī; his mother was the daughter of King Candappajjota of Avantī. The portion of the sutta from $ 2 through $ 8 is also found at Vin $\mathrm{Cv} \mathrm{Kh} 5 /$ ii.127-29, where it leads to the formulation of the rule mentioned in the following note.
+[^816]: . Prince Bodhi was the son of King Udena of Kosambī; his mother was the daughter of King Candappajjota of Avantī. The portion of the sutta from §2 through §8 is also found at Vin Cv Kh 5/ ii.127-29, where it leads to the formulation of the rule mentioned in the following note.
 
 [^817]: MA explains that Prince Bodhi was childless and desired a son. He had heard that people can fulfil their wishes by making special offerings to the Buddha, so he spread the white cloth with the idea: "If I am to have a son, the Buddha will step on the cloth; if I am not to have a son, he will not step on the cloth." The Buddha knew that by reason of past evil kamma, he and his wife were destined to remain childless. Hence he did not step on the cloth. Later he laid down a disciplinary rule prohibiting the bhikkhus from stepping on a white cloth, but subsequently modified the rule to allow bhikkhus to step on a cloth as a blessing for householders.
 

@@ -133,7 +133,7 @@ everlasting, eternal, not subject to change, and it will endure as long as etern
 
 9. "Bhikkhus, a well-taught noble disciple, who has regard for noble ones and is skilled and disciplined in their Dhamma, who has regard for true men and is skilled and disciplined in their Dhamma, understands what things are fit for attention and what things are unfit for attention. Since that is so, [9] he does not attend to those things unfit for attention and he attends to those things fit for attention.
 
-10. "What are the things unfit for attention that he does not attend to? They are things such that when he attends to them, the unarisen taint of sensual desire arises in him...(as $ 6 )...and the arisen taint of ignorance increases. These are the things unfit for attention that he does not attend to. And what are the things fit for attention that he attends to? They are things such that when he attends to them, the unarisen taint of sensual desire does not arise in him...(as $ 6 )...and the arisen taint of ignorance is abandoned. These are the things fit for attention that he attends to. By not attending to things unfit for attention and by attending to things fit for attention, unarisen taints do not arise in him and arisen taints are abandoned.
+10. "What are the things unfit for attention that he does not attend to? They are things such that when he attends to them, the unarisen taint of sensual desire arises in him...(as §6 )...and the arisen taint of ignorance increases. These are the things unfit for attention that he does not attend to. And what are the things fit for attention that he attends to? They are things such that when he attends to them, the unarisen taint of sensual desire does not arise in him...(as §6 )...and the arisen taint of ignorance is abandoned. These are the things fit for attention that he attends to. By not attending to things unfit for attention and by attending to things fit for attention, unarisen taints do not arise in him and arisen taints are abandoned.
 
 11. "He attends wisely: 'This is suffering'; he attends wisely: 'This is the origin of suffering'; he attends wisely: 'This is the cessation of suffering'; he attends wisely: 'This is the way leading to the cessation of suffering. [^41] When he attends wisely in this way, three fetters are abandoned in him: personality view, doubt, and adherence to rules and observances. These are called the taints that should be abandoned by seeing. [^42]
 
@@ -272,7 +272,7 @@ gle-thicket resting places in the forest unpurified in bodily conduct. I am puri
 19. "I considered thus: 'Whenever recluses or brahmins devoid of wisdom, drivellers, resort to remote jungle-thicket resting places in the forest, then owing to the defect of their being devoid of wisdom and drivellers these good recluses and brahmins evoke unwholesome fear and dread. But I do not resort to remote jungle-thicket resting places in the forest devoid of wisdom, a driveller. I am possessed of wisdom. [^58] I resort to remote jungle-thicket resting places in the forest as one of the noble
 ones possessed of wisdom.' Seeing in myself this possession of wisdom, I found great solace in dwelling in the forest.
 
-20. "I considered thus: 'There are the specially auspicious nights of the fourteenth, the fifteenth, and the eighth of the fortnight. [^59] Now what if, on such nights as these, I were to dwell in such awe-inspiring, horrifying abodes as orchard shrines, woodland shrines, and tree shrines? Perhaps I might encounter that fear and dread.' And later, on such specially auspicious nights as the fourteenth, the fifteenth, and the eighth of the fortnight, I dwelt in such awe-inspiring, horrifying abodes as orchard shrines, woodland shrines, and tree shrines. And while I dwelt there, a wild animal would come up to me, or a peacock [21] would knock off a branch, or the wind would rustle the leaves. I thought: 'What now if this is the fear and dread coming?' I thought: 'Why do I dwell always expecting fear and dread? What if I subdue that fear and dread while keeping the same posture that I am in when it comes upon me? ${ }^{\prime 60}$
+20. "I considered thus: 'There are the specially auspicious nights of the fourteenth, the fifteenth, and the eighth of the fortnight. [^59] Now what if, on such nights as these, I were to dwell in such awe-inspiring, horrifying abodes as orchard shrines, woodland shrines, and tree shrines? Perhaps I might encounter that fear and dread.' And later, on such specially auspicious nights as the fourteenth, the fifteenth, and the eighth of the fortnight, I dwelt in such awe-inspiring, horrifying abodes as orchard shrines, woodland shrines, and tree shrines. And while I dwelt there, a wild animal would come up to me, or a peacock [21] would knock off a branch, or the wind would rustle the leaves. I thought: 'What now if this is the fear and dread coming?' I thought: 'Why do I dwell always expecting fear and dread? What if I subdue that fear and dread while keeping the same posture that I am in when it comes upon me? [^60]
 
 "While I walked, the fear and dread came upon me; I neither stood nor sat nor lay down till I had subdued that fear and dread. While I stood, the fear and dread came upon me; I neither walked nor sat nor lay down till I had subdued that fear and dread. While I sat, the fear and dread came upon me; I neither walked nor stood nor lay down till I had subdued that fear and dread. While I lay down, the fear and dread came upon me; I neither walked nor stood nor sat down till I had subdued that fear and dread.
 
@@ -954,14 +954,14 @@ That is what the venerable Sāriputta said. The bhikkhus were satisfied and deli
 
 2. "Bhikkhus, this is the direct path [^135] for the purification of beings [56], for the surmounting of sorrow and lamentation, for the disappearance of pain and grief, for the attainment of the true way, for the realisation of Nibbāna - namely, the four foundations of mindfulness. [^136]
 
-3. "What are the four? Here, bhikkhus, a bhikkhu [^137] abides contemplating the body as a body, ardent, fully aware, and mindful, having put away covetousness and grief for the world. ${ }^{138} \mathrm{He}$ abides contemplating feelings as feelings, ardent, fully aware, and mindful, having put away covetousness and grief for the world. He abides contemplating mind as mind, ardent, fully aware, and mindful, having put away covetousness and grief for the world. He abides contemplating mind-objects as mind-objects, ardent, fully aware, and mindful, having put away covetousness and grief for the world. [^139]
+3. "What are the four? Here, bhikkhus, a bhikkhu [^137] abides contemplating the body as a body, ardent, fully aware, and mindful, having put away covetousness and grief for the world. ${ }^{138] He abides contemplating feelings as feelings, ardent, fully aware, and mindful, having put away covetousness and grief for the world. He abides contemplating mind as mind, ardent, fully aware, and mindful, having put away covetousness and grief for the world. He abides contemplating mind-objects as mind-objects, ardent, fully aware, and mindful, having put away covetousness and grief for the world. [^139]
 
 (CONTEMPLATION OF THE BODY)
 
 ## (1. Mindfulness of Breathing)
 
 4. "And how, bhikkhus, does a bhikkhu abide contemplating the body as a body? Here a bhikkhu, gone to the forest or to the root of a tree or to an empty hut, sits down; having folded his legs crosswise, set his body erect, and established mindfulness in front of him, ever mindful he breathes in, mindful he breathes out. Breathing in long, he understands 'I breathe in long'; or
-breathing out long, he understands: 'I breathe out long.' Breathing in short, he understands: 'I breathe in short'; or breathing out short, he understands: 'I breathe out short. ${ }^{140} \mathrm{He}$ trains thus: 'I shall breathe in experiencing the whole body [of breath]'; he trains thus: 'I shall breathe out experiencing the whole body [of breath]. [^141] He trains thus: 'I shall breathe in tranquillizing the bodily formation'; he trains thus: 'I shall breathe out tranquillizing the bodily formation. [^142] Just as a skilled turner or his apprentice, when making a long turn, understands: 'I make a long turn'; or, when making a short turn, understands: 'I make a short turn'; so too, breathing in long, a bhikkhu understands: 'I breathe in long'...he trains thus: 'I shall breathe out tranquillizing the bodily formation.'
+breathing out long, he understands: 'I breathe out long.' Breathing in short, he understands: 'I breathe in short'; or breathing out short, he understands: 'I breathe out short. ${ }^{140] He trains thus: 'I shall breathe in experiencing the whole body [of breath]'; he trains thus: 'I shall breathe out experiencing the whole body [of breath]. [^141] He trains thus: 'I shall breathe in tranquillizing the bodily formation'; he trains thus: 'I shall breathe out tranquillizing the bodily formation. [^142] Just as a skilled turner or his apprentice, when making a long turn, understands: 'I make a long turn'; or, when making a short turn, understands: 'I make a short turn'; so too, breathing in long, a bhikkhu understands: 'I breathe in long'...he trains thus: 'I shall breathe out tranquillizing the bodily formation.'
 
 ## (INSIGHT)
 
@@ -1355,7 +1355,7 @@ pleasures, can either themselves fully understand sensual pleasures or instruct 
 
 (FEELINGS)
 
-32. (i) "And what, bhikkhus, is the gratification in the case of feelings? Here, bhikkhus, quite secluded from sensual pleasures, secluded from unwholesome states, a bhikkhu enters upon and abides in the first jhāna, which is accompanied by applied and sustained thought, with rapture and pleasure born of seclusion. ${ }^{204} \mathrm{On}$ such an occasion he does not choose for his own affliction, or for another's affliction, or for the affliction of both. [90] On that occasion he feels only feeling that is free from affliction. The highest gratification in the case of feelings is freedom from affliction, I say.
+32. (i) "And what, bhikkhus, is the gratification in the case of feelings? Here, bhikkhus, quite secluded from sensual pleasures, secluded from unwholesome states, a bhikkhu enters upon and abides in the first jhāna, which is accompanied by applied and sustained thought, with rapture and pleasure born of seclusion. [^204] such an occasion he does not choose for his own affliction, or for another's affliction, or for the affliction of both. [90] On that occasion he feels only feeling that is free from affliction. The highest gratification in the case of feelings is freedom from affliction, I say.
 
 33-35. "Again, with the stilling of applied and sustained thought, a bhikkhu enters upon and abides in the second jhāna...With the fading away as well of rapture...he enters upon and abides in the third jhāna...With the abandoning of pleasure and pain he enters upon and abides in the fourth jhāna...On such an occasion he does not choose for his own affliction, or for another's affliction, or for the affliction of both. On that occasion he feels only feeling that is free from affliction. The highest gratification in the case of feelings is freedom from affliction, I say.
 
@@ -1625,11 +1625,11 @@ That is what the Blessed One said. The bhikkhus were satisfied and delighted in 
 
 7. "But, venerable sir, what is [the teaching] that the Blessed One asserts whereby one does not quarrel with anyone in the world with its gods, its Māras, and its Brahmās, in this generation with its recluses and brahmins, its princes and its people? And, venerable sir, how is it that perceptions no more underlie that brahmin who abides detached from sensual pleasures, without perplexity, shorn of worry, free from craving for any kind of being?"
 
-8. "Bhikkhus, as to the source through which perceptions and notions tinged by mental proliferation beset a man: if nothing is found there to delight in, welcome and hold to, this is the end of the underlying tendency to lust, of the underlying tendency to aversion, [110] of the underlying tendency to views, of the underlying tendency to doubt, of the underlying tendency to conceit, of the underlying tendency to desire for being, of the underlying tendency to ignorance; this is the end of resorting to rods and weapons, of quarrels, brawls, disputes, recrimination, malice, and false speech; here these evil unwholesome states cease without remainder." ${ }^{\prime 229}$
+8. "Bhikkhus, as to the source through which perceptions and notions tinged by mental proliferation beset a man: if nothing is found there to delight in, welcome and hold to, this is the end of the underlying tendency to lust, of the underlying tendency to aversion, [110] of the underlying tendency to views, of the underlying tendency to doubt, of the underlying tendency to conceit, of the underlying tendency to desire for being, of the underlying tendency to ignorance; this is the end of resorting to rods and weapons, of quarrels, brawls, disputes, recrimination, malice, and false speech; here these evil unwholesome states cease without remainder." [^229]
 
 9. That is what the Blessed One said. Having said this, the Sublime One rose from his seat and went into his dwelling.
 
-10. Then, soon after the Blessed One had gone, the bhikkhus considered: "Now, friends, the Blessed One has risen from his seat and gone into his dwelling after giving a summary in brief without expounding the detailed meaning. Now who will expound this in detail?" Then they considered: "The venerable Mahā Kaccāna is praised by the Teacher and esteemed by his wise companions in the holy life. ${ }^{230} \mathrm{He}$ is capable of expounding the detailed meaning. Suppose we went to him and asked him the meaning of this."
+10. Then, soon after the Blessed One had gone, the bhikkhus considered: "Now, friends, the Blessed One has risen from his seat and gone into his dwelling after giving a summary in brief without expounding the detailed meaning. Now who will expound this in detail?" Then they considered: "The venerable Mahā Kaccāna is praised by the Teacher and esteemed by his wise companions in the holy life. [^230] He is capable of expounding the detailed meaning. Suppose we went to him and asked him the meaning of this."
 
 11. Then the bhikkhus went to the venerable Mahā Kaccāna and exchanged greetings with him. When this courteous and amiable talk was finished, they sat down to one side and told him what had taken place, [111] adding: "Let the venerable Mahā Kaccāna expound it to us."
 
@@ -1736,7 +1736,7 @@ That is what the Blessed One said. The bhikkhus were satisfied and delighted in 
 
 1. Thus have I heard. On one occasion the Blessed One was living at Sāvatthī in Jeta's Grove, Anāthapiṇ̣ika's Park.
 
-2. Now on that occasion the venerable Moliya Phagguna was associating overmuch with bhikkhunīs. ${ }^{245} \mathrm{He}$ was associating so much with bhikkhunīs that if any bhikkhu spoke dispraise of those bhikkhunīs in his presence, he would become angry and displeased and would rebuke him; and if any bhikkhu spoke dispraise of the venerable Moliya Phagguna in those bhikkhunīs' presence, they would become angry and displeased and would rebuke him. So much was the venerable Moliya Phagguna associating with bhikkhunīs.
+2. Now on that occasion the venerable Moliya Phagguna was associating overmuch with bhikkhunīs. ${ }^{245] He was associating so much with bhikkhunīs that if any bhikkhu spoke dispraise of those bhikkhunīs in his presence, he would become angry and displeased and would rebuke him; and if any bhikkhu spoke dispraise of the venerable Moliya Phagguna in those bhikkhunīs' presence, they would become angry and displeased and would rebuke him. So much was the venerable Moliya Phagguna associating with bhikkhunīs.
 
 3. Then a certain bhikkhu went to the Blessed One, and after paying homage to him, he sat down at one side and told the Blessed One what was taking place.
 
@@ -1806,7 +1806,7 @@ That is what the Blessed One said. The bhikkhus were satisfied and delighted in 
 "Exactly so, friends. As I understand the Dhamma taught by the Blessed One, those things called obstructions by the Blessed One are not able to obstruct one who engages in them."
 
 Then these bhikkhus, desiring to detach him from that pernicious view, pressed and questioned and cross-questioned him thus: "Friend Arittha, do not say so. Do not misrepresent the Blessed One; it is not good to misrepresent the Blessed One. The Blessed One would not speak thus. For in many discourses the Blessed One has stated how obstructive things are obstructions, and how they are able to obstruct one who engages in them. The Blessed One has stated how sensual pleasures provide little gratification, much suffering, and much despair, and how great is the danger in them. With the simile of the skeleton...with the simile of the piece of meat... with the simile of the grass torch... with the simile of the pit of coals... with the simile of the dream... with the simile of the borrowed goods... with the simile of the tree laden with fruit... with the simile of the slaughterhouse... with the simile of the sword stake... with the simile of
-the snake's head, the Blessed One has stated how sensual pleasures provide little gratification, much suffering, and much despair, and how great is the danger in them." ${ }^{\prime 250}$
+the snake's head, the Blessed One has stated how sensual pleasures provide little gratification, much suffering, and much despair, and how great is the danger in them." [^250]
 
 Yet although pressed and questioned and cross-questioned by them in this way, the bhikkhu Arittha, formerly of the vulture killers, still obstinately adhered to that pernicious view and continued to insist upon it.
 
@@ -1868,7 +1868,7 @@ and had arrived at the far shore, he might think thus: This raft has been very h
 16. "Bhikkhus, a well-taught noble disciple who has regard for noble ones and is skilled and disciplined in their Dhamma, who has regard for true men and is skilled and disciplined in their Dhamma, regards material form thus: 'This is not mine, this I am not, this is not my self.' He regards feeling thus: 'This is not mine, this I am not, this is not my self.' He regards perception thus: 'This is not mine, this I am not, this is not my self.' He regards formations thus: 'This is not mine, this I am not, this is not my self.' He regards what is seen, heard, sensed, cognized,
 encountered, sought, mentally pondered thus: 'This is not mine, this I am not, this is not my self.' And this standpoint for views, namely, 'This is self, this the world; after death I shall be permanent, everlasting, eternal, not subject to change; I shall endure as long as eternity' - this too he regards thus: 'This is not mine, this I am not, this is not my self.'
 
-17. "Since he regards them thus, he is not agitated about what is non-existent. ${ }^{\prime 260}$
+17. "Since he regards them thus, he is not agitated about what is non-existent. [^260]
 
 ## (AGITATION)
 
@@ -2347,7 +2347,7 @@ upon and abides in the base of nothingness. This bhikkhu is said to have blindfo
 
 41. "Again, by completely surrounding the base of nothingness, [175] a bhikkhu enters upon and abides in the base of neither-perception-nor-non-perception. This bhikkhu is said to have blindfolded Māra, to have become invisible to the Evil One by depriving Māra's eye of its opportunity.
 
-42. "Again, by completely surmounting the base of neither-perception-nor-non-perception, a bhikkhu enters upon and abides in the cessation of perception and feeling. And his taints are destroyed by his seeing with wisdom. This bhikkhu is said to have blindfolded Māra, to have become invisible to the Evil One by depriving Māra's eye of its opportunity, and to have crossed beyond attachment to the world. ${ }^{318} \mathrm{He}$ walks without fear, stands without fear, sits without fear, lies down without fear. Why is that? Because he is out of the Evil One's range."
+42. "Again, by completely surmounting the base of neither-perception-nor-non-perception, a bhikkhu enters upon and abides in the cessation of perception and feeling. And his taints are destroyed by his seeing with wisdom. This bhikkhu is said to have blindfolded Māra, to have become invisible to the Evil One by depriving Māra's eye of its opportunity, and to have crossed beyond attachment to the world. ${ }^{318] He walks without fear, stands without fear, sits without fear, lies down without fear. Why is that? Because he is out of the Evil One's range."
 
 That is what the Blessed One said. The bhikkhus were satisfied and delighted in the Blessed One's words.
 
@@ -2460,7 +2460,7 @@ taints';...'This is the cessation of the taints';...'This is the way leading to 
 8. "So then, if others abuse, revile, scold, and harass a bhikkhu [who has seen this element as it actually is], he understands thus: 'This painful feeling born of ear-contact has arisen in me. That is dependent, not independent. Dependent on what? [186] Dependent on contact. [^3333] Then he sees that contact is impermanent, that feeling is impermanent, that perception is impermanent, that formations are impermanent, and that consciousness is impermanent. And his mind, having made an element its objective support, enters into [that new objective support] and acquires confidence, steadiness, and decision. [^334]
 
 9. "Now, if others attack that bhikkhu in ways that are unwished for, undesired, and disagreeable, by contact with fists, clods, sticks, or knives, he understands thus: 'This body is of such a nature that contact with fists, clods, sticks, and knives assail it. [^335] But this has been said by the Blessed One in his "advice on the simile of the saw": "Bhikkhus, even if bandits
-were to sever you savagely limb by limb with a two-handled saw, he who gave rise to a mind of hate towards them would not be carrying out my teaching. ${ }^{\prime 336}$ So tireless energy shall be aroused in me and unremitting mindfulness established, my body shall be tranquil and untroubled, my mind concentrated and unified. And now let contact with fists, clods, sticks, and knives assail this body; for this is just how the Buddha's teaching is practised.'
+were to sever you savagely limb by limb with a two-handled saw, he who gave rise to a mind of hate towards them would not be carrying out my teaching. [^336] So tireless energy shall be aroused in me and unremitting mindfulness established, my body shall be tranquil and untroubled, my mind concentrated and unified. And now let contact with fists, clods, sticks, and knives assail this body; for this is just how the Buddha's teaching is practised.'
 
 10. "When that bhikkhu thus recollects the Buddha, the Dhamma, and the Sangha, if equanimity supported by the wholesome does not become established in him, then he arouses a sense of urgency thus: 'It is a loss for me, it is no gain for me, it is bad for me, it is no good for me, that when I thus recollect the Buddha, the Dhamma, and the Sangha, equanimity supported by the wholesome does not become established in me. [^337] Just as when a daughter-in-law sees her father-in-law, she arouses a sense of urgency [to please him], so too, when that bhikkhu thus recollects the Buddha, the Dhamma, and the Sangha, if equanimity supported by the wholesome does not become established in him, then he arouses a sense of urgency. But if, when he recollects the Buddha, the Dhamma, and the Sangha, equanimity supported by the wholesome becomes established in him, [187] then he is satisfied with it. At that point, friends, much has been done by that bhikkhu.
 
@@ -2528,7 +2528,7 @@ grief, and despair; I am a victim of suffering, a prey to suffering. Surely an e
 "Suppose a man needing heartwood, seeking heartwood, wandering in search of heartwood, came to a great tree standing possessed of heartwood. Passing over its heartwood and its sapwood, he would cut off its inner bark and take it away thinking it was heartwood. Then a man with good sight, seeing him, might say: 'This good man did not know the heartwood...or the twigs and leaves. Thus, while needing heartwood...he cut off its inner bark and took it away thinking it was heartwood. Whatever it was this good man had to make with heartwood, his purpose will not be 'served.' So too, bhikkhus, here some clansman goes forth out of faith...he lives in suffering. [195] This bhikkhu is called one who has taken the inner bark of the holy life and stopped short with that.
 
 5. "Here, bhikkhus, some clansman goes forth out of faith from the home life into homelessness, considering: 'I am a victim of birth, ageing, and death, of sorrow, lamentation, pain, grief, and despair; I am a victim of suffering, a prey to suffering. Surely an ending of this whole mass of suffering can be known.' When he has gone forth thus, he acquires gain, honour, and renown. He is not pleased with that gain, honour, and renown, and his intention is not fulfilled...Being diligent, he achieves the attainment of virtue. He is pleased with that attainment of virtue, but his intention is not fulfilled...Being diligent, he
-achieves the attainment of concentration. He is pleased with that attainment of concentration, but his intention is not fulfilled. He does not, on account of it, laud himself and disparage others. He does not become intoxicated with that attainment of concentration; he does not grow negligent and fall into negligence. Being diligent, he achieves knowledge and vision. ${ }^{347} \mathrm{He}$ is pleased with that knowledge and vision and his intention is fulfilled. On account of it he lauds himself and disparages others thus: 'I live knowing and seeing, but these other bhikkhus live unknowing and unseeing.' He becomes intoxicated with that knowledge and vision, grows negligent, falls into negligence, and being negligent, he lives in suffering.
+achieves the attainment of concentration. He is pleased with that attainment of concentration, but his intention is not fulfilled. He does not, on account of it, laud himself and disparage others. He does not become intoxicated with that attainment of concentration; he does not grow negligent and fall into negligence. Being diligent, he achieves knowledge and vision. ${ }^{347] He is pleased with that knowledge and vision and his intention is fulfilled. On account of it he lauds himself and disparages others thus: 'I live knowing and seeing, but these other bhikkhus live unknowing and unseeing.' He becomes intoxicated with that knowledge and vision, grows negligent, falls into negligence, and being negligent, he lives in suffering.
 
 "Suppose a man needing heartwood, seeking heartwood, wandering in search of heartwood, came to a great tree standing possessed of heartwood. Passing over its heartwood, he would cut off its sapwood and take it away thinking it was heartwood. Then a man with good sight, seeing him, might say: 'This good man did not know the heartwood...or the twigs and leaves. Thus, while needing heartwood...he cut off its sapwood and took it away thinking it was heartwood. Whatever it was this good man had to make with heartwood, his purpose will not be served.' [196] So too, bhikkhus, here some clansman goes forth out of faith...he lives in suffering. This bhikkhu is called one who has taken the sapwood of the holy life and stopped short with that.
 
@@ -2537,7 +2537,7 @@ himself and disparage others. He does not become intoxicated with that knowledge
 
 "Suppose a man needing heartwood, seeking heartwood, wandering in search of heartwood, came to a great tree standing possessed of heartwood, and cutting off only its heartwood, he would take it away knowing it was heartwood. Then a man with good sight, seeing him, might say: 'This good man knew the heartwood, the sapwood, the inner bark, the outer bark, and the twigs and leaves. Thus, while needing heartwood, seeking heartwood, wandering in search of heartwood, [197] he came to a great tree standing possessed of heartwood, and cutting off only its heartwood, he took it away knowing it was heartwood. Whatever it was this good man had to make with heartwood, his purpose will be served.' So too, bhikkhus, here some clansman goes forth out of faith...When he is diligent, he attains perpetual liberation. And it is impossible for that bhikkhu to fall away from that perpetual deliverance.
 
-7. "So this holy life, bhikkhus, does not have gain, honour, and renown for its benefit, or the attainment of virtue for its benefit, or the attainment of concentration for its benefit, or knowledge and vision for its benefit. But it is this unshakeable deliverance of mind that is the goal of this holy life, its heartwood, and its end. ${ }^{\prime 349}$
+7. "So this holy life, bhikkhus, does not have gain, honour, and renown for its benefit, or the attainment of virtue for its benefit, or the attainment of concentration for its benefit, or knowledge and vision for its benefit. But it is this unshakeable deliverance of mind that is the goal of this holy life, its heartwood, and its end. [^349]
 
 That is what the Blessed One said. The bhikkhus were satisfied and delighted in the Blessed One's words.
 
@@ -2739,7 +2739,7 @@ Such teachings as are good in the beginning, good in the middle, and good in the
 
 17. When this was said, the venerable Sāriputta asked the Blessed One: "Venerable sir, which of us has spoken well?"
 
-"You have all spoken well, Sāriputta, each in his own way. Hear also from me what kind of bhikkhu could illuminate this Gosinga Sāla-tree Wood. Here, Sāriputta, when a bhikkhu has returned from his almsround, after his meal, he sits down, folds his legs crosswise, sets his body erect, and establishing mindfulness in front of him, resolves: 'I shall not break this sitting position until through not clinging my mind is liberated from the taints.' That kind of bhikkhu could illuminate this Gosinga Sālatree Wood. ${ }^{\prime 363}$
+"You have all spoken well, Sāriputta, each in his own way. Hear also from me what kind of bhikkhu could illuminate this Gosinga Sāla-tree Wood. Here, Sāriputta, when a bhikkhu has returned from his almsround, after his meal, he sits down, folds his legs crosswise, sets his body erect, and establishing mindfulness in front of him, resolves: 'I shall not break this sitting position until through not clinging my mind is liberated from the taints.' That kind of bhikkhu could illuminate this Gosinga Sālatree Wood. [^363]
 
 That is what the Blessed One said. Those venerable ones were satisfied and delighted in the Blessed One's words.
 
@@ -2904,7 +2904,7 @@ Gotama, a person has material form as self, and based upon material form he prod
 
 11. "Aggivessana, are you not asserting thus: 'Material form is my self, feeling is my self, perception is my self, formations are my self, consciousness is my self?"
 
-"I assert thus, Master Gotama: 'Material form is my self, feeling is my self, perception is my self, formations are my self, consciousness is my self.' And so does this great multitude." ${ }^{\prime 373}$
+"I assert thus, Master Gotama: 'Material form is my self, feeling is my self, perception is my self, formations are my self, consciousness is my self.' And so does this great multitude." [^373]
 
 "What has this great multitude to do with you, Aggivessana? Please confine yourself to your own assertion alone."
 
@@ -2915,7 +2915,7 @@ Gotama, a person has material form as self, and based upon material form he prod
 "Master Gotama, a head-anointed noble king - for example, King Pasenadi of Kosala or King Ajātasattu Vedehiputta of Magadha - would exercise the power in his own realm to execute those who should be executed, to fine those who should be fined, and to banish those who should be banished. For even these [oligarchic] communities and societies such as the Vajjians and the Mallians exercise the power in their own realm to execute those who should be executed, to fine those who should be fined, and to banish those who should be banished; so all the more so should a head-anointed noble king such as King Pasenadi of Kosala or King Ajātasattu Vedehiputta of Magadha. He would exercise it, Master Gotama, and he would be worthy to exercise it."
 
 13. "What do you think, Aggivessana? When you say thus: 'Material form is my self,' do you exercise any such power over
-that material form as to say: 'Let my form be thus; let my form not be thus'?" ${ }^{\prime 274}$ When this was said, Saccaka the Nigartha's son was silent.
+that material form as to say: 'Let my form be thus; let my form not be thus'?" [^274] When this was said, Saccaka the Nigartha's son was silent.
 
 A second time the Blessed One asked the same question, and a second time Saccaka the Nigartha's son was silent. Then the Blessed One said to him: "Aggivessana, answer now. Now is not the time to be silent. If anyone, when asked a reasonable question up to the third time by the Tathagata, still does not answer, his head splits into seven pieces there and then."
 
@@ -3161,7 +3161,7 @@ That is what the Blessed One said. The venerable Mahā Moggallāna was satisfied
 
 1. Thus have I.heard. On one occasion the Blessed One was living at Sāvatthī in Jeta's Grove, Anāthapindika's Park.
 
-2. Now on that occasion a pernicious view had arisen in a bhikkhu named Satti, son of a fisherman, thus: "As I understand the Dhamma taught by the Blessed One, it is this same consciousness that runs and wanders through the round of rebirths, not another. ${ }^{\prime 402}$
+2. Now on that occasion a pernicious view had arisen in a bhikkhu named Satti, son of a fisherman, thus: "As I understand the Dhamma taught by the Blessed One, it is this same consciousness that runs and wanders through the round of rebirths, not another. [^402]
 
 3. Several bhikkhus, having heard about this, went to the bhikkhu Satti and asked him: "Friend Satti, is it true that such a pernicious view has arisen in you?"
 
@@ -3422,7 +3422,7 @@ mind, so that there is no part of his whole body unpervaded by the pure bright m
 
 24. "And how is a bhikkhu a brahmin? He has expelled evil unwholesome states that defile...and lead to future birth, ageing, and death. That is how a bhikkhu is a brahmin.
 
-25. "And how is a bhikkhu one who has been washed? ${ }^{420} \mathrm{He}$ has washed off evil unwholesome states that defile...and lead to
+25. "And how is a bhikkhu one who has been washed? ${ }^{420] He has washed off evil unwholesome states that defile...and lead to
 future birth, ageing, and death. That is how a bhikkhu is one who has been washed.
 
 26. "And how is a bhikkhu one who has attained to knowledge? He has known evil unwholesome states that defile...and lead to future birth, ageing, and death. That is how a bhikkhu is one who has attained to knowledge.
@@ -3523,7 +3523,7 @@ those with eyesight to see forms. We go to Master Gotama for refuge and to the D
 
 2. Now on that occasion some brahmin householders of Verañja were on a visit to Sāvatthī for some business or other. [291]
 
-3-44. [The text of this sutta is the same as that of Sutta 41, except that where the preceding sutta is phrased in terms of "conduct not in accordance with the Dhamma, unrighteous conduct" ( $\$ 87$-10) and "conduct in accordance with the Dhamma, righteous conduct" ( $\$ 811-14$ ), this sutta is phrased in terms of "one who does not observe conduct in accordance with the Dhamma, one of unrighteous conduct" and "one who observes conduct in accordance with the Dhamma, one of righteous conduct"; substitute "Verañja" for "Sālā" throughout.]
+3-44. [The text of this sutta is the same as that of Sutta 41, except that where the preceding sutta is phrased in terms of "conduct not in accordance with the Dhamma, unrighteous conduct" ( $\§87$-10) and "conduct in accordance with the Dhamma, righteous conduct" ( $\§811-14$ ), this sutta is phrased in terms of "one who does not observe conduct in accordance with the Dhamma, one of unrighteous conduct" and "one who observes conduct in accordance with the Dhamma, one of righteous conduct"; substitute "Verañja" for "Sālā" throughout.]
 
 # 43 Mahāvedalla Sutta <br> The Greater Series of Questions and Answers
 
@@ -3591,11 +3591,11 @@ wisely understands: 'This is the origin of suffering'; one wisely understands: '
 
 [294] 13. "Friend, how many conditions are there for the arising of right view?"
 
-"Friend, there are two conditions for the arising of right view: the voice of another and wise attention. These are the two conditions for the arising of right view." ${ }^{\prime 440}$
+"Friend, there are two conditions for the arising of right view: the voice of another and wise attention. These are the two conditions for the arising of right view." [^440]
 
 14. "Friend, by how many factors is right view assisted when it has deliverance of mind for its fruit, deliverance of mind for its fruit and benefit, when it has deliverance by wisdom for its fruit, deliverance by wisdom for its fruit and benefit?"
 
-"Friend, right view is assisted by five factors when it has deliverance of mind for its fruit, deliverance of mind for its fruit and benefit, when it has deliverance by wisdom for its fruit, deliverance by wisdom for its fruit and benefit. Here, friend, right view is assisted by virtue, learning, discussion, serenity, and insight. Right view assisted by these five factors has deliverance of mind for its fruit, deliverance of mind for its fruit and benefit; it has deliverance by wisdom for its fruit, deliverance by wisdom for its fruit and benefit." ${ }^{\prime 441}$
+"Friend, right view is assisted by five factors when it has deliverance of mind for its fruit, deliverance of mind for its fruit and benefit, when it has deliverance by wisdom for its fruit, deliverance by wisdom for its fruit and benefit. Here, friend, right view is assisted by virtue, learning, discussion, serenity, and insight. Right view assisted by these five factors has deliverance of mind for its fruit, deliverance of mind for its fruit and benefit; it has deliverance by wisdom for its fruit, deliverance by wisdom for its fruit and benefit." [^441]
 
 (BEING)
 
@@ -3605,7 +3605,7 @@ wisely understands: 'This is the origin of suffering'; one wisely understands: '
 
 16. "Friend, how is renéwal of being in the future generated?"
 
-"Friend, renewal of being in the future is generated through the delighting in this and that on the part of beings who are hindered by ignorance and fettered by craving." ${ }^{\prime 442}$
+"Friend, renewal of being in the future is generated through the delighting in this and that on the part of beings who are hindered by ignorance and fettered by craving." [^442]
 
 17. "Friend, how is renewal of being in the future not generated?"
 
@@ -3733,14 +3733,14 @@ Saying, "Good, lady," the lay follower Visākha delighted and rejoiced in the bh
 
 6. "Lady, is that clinging the same as these five aggregates affected by clinging, or is the clinging something apart from the five aggregates affected by clinging?"
 
-"Friend Visākha, that clinging is neither the same as these five aggregates affected by clinging [300] nor is clinging something apart from the five aggregates affected by clinging. It is the desire and lust in regard to the five aggregates affected by clinging that is the clinging there." ${ }^{\prime 461}$
+"Friend Visākha, that clinging is neither the same as these five aggregates affected by clinging [300] nor is clinging something apart from the five aggregates affected by clinging. It is the desire and lust in regard to the five aggregates affected by clinging that is the clinging there." [^461]
 
 (PERSONALITY VIEW)
 
 7. "Lady, how does personality view come to be?"
 
 "Here, friend Visākha, an untaught ordinary person, who has no regard for noble ones and is unskilled and undisciplined in their Dhamma, who has no regard for true men and is unskilled and undisciplined in their Dhamma, regards material form as self, or self as possessed of material form, or material form as in self, or self as in material form. He regards feeling as self, or self as possessed of feeling, or feeling as in self, or self as in feeling. He regards perception as self, or self as possessed of perception, or perception as in self, or self as in perception. He regards formations as self, or self as possessed of formations, or formations as in self, or self as in formations. He regards consciousness as self, or self as possessed of consciousness, or consciousness as in
-self, or self as in consciousness. That is how personality view comes to be." ${ }^{\prime 462}$
+self, or self as in consciousness. That is how personality view comes to be." [^462]
 
 8. "Lady, how does personality view not come to be?"
 
@@ -3844,7 +3844,7 @@ underlie all pleasant feeling. The underlying tendency to aversion does not unde
 "Here a bhikkhu considers thus: 'When shall I enter upon and abide in that base that the noble ones now enter upon and abide in?' In one who thus generates a longing for the supreme liberations, [304] grief arises with that longing as condition. With that he abandons aversion, and the underlying tendency to aversion does not underlie that. [^475]
 
 "Here, with the abandoning of pleasure and pain, and with the previous disappearance of joy and grief, a bhikkhu enters upon and abides in the fourth jhāna, which has neither-pain-nor-pleasure and purity of mindfulness due to equanimity. With
-that he abandons ignorance, and the underlying tendency to ignorance does not underlie that." ${ }^{\prime 476}$
+that he abandons ignorance, and the underlying tendency to ignorance does not underlie that." [^476]
 
 ## (COUNTERPARTS)
 
@@ -4212,7 +4212,7 @@ incapable of further growth, so too, the Tathāgata has abandoned the taints tha
 11. "Now, Evil One, when the night had ended, the venerable Sañjīva emerged from the attainment. [^520] He shook his robe, and then, it being morning, he dressed, and taking his bowl and outer robe, he went into the village for alms. The cowherds, shepherds, and ploughmen passing by saw the venerable Sañjīva wandering for alms, and they thought: 'It is wonderful, sirs, it is marvellous! This recluse who was sitting there dead has come back to life!' [334] That was how the venerable Sañjīva came to have the designation 'Sañjīva.'521
 
 12. "Then, Evil One, the Māra Dūsī considered thus: 'There are these virtuous bhikkhus of good character, but I do not know their coming or their going. Let me now take possession of the
-brahmin householders, telling them: "Come now, abuse, revile, scold, and harass the virtuous bhikkhus of good character; then perhaps, when they are abused, reviled, scolded, and harassed by you, some change will come about in their minds whereby the Māra Dūsī may find an opportunity." ${ }^{\prime 522}$
+brahmin householders, telling them: "Come now, abuse, revile, scold, and harass the virtuous bhikkhus of good character; then perhaps, when they are abused, reviled, scolded, and harassed by you, some change will come about in their minds whereby the Māra Dūsī may find an opportunity." [^522]
 
 13. "Then, Evil One, the Māra Dūsī took possession of those brahmin householders, telling them: 'Come now, abuse, revile, scold, and harass the virtuous bhikkhus of good character; then perhaps, when they are abused, reviled, scolded, and harassed by you, some change will come about in their minds whereby the Māra Dūsī may find an opportunity.' Then, when the Māra Dūsī had taken possession of the brahmin householders, they abused, reviled, scolded, and harassed the virtuous bhikkhus of good character thus: [^523] 'These bald-pated recluses, these swarthy menial offspring of the Kinsman's feet, [^524] claim: "We are meditators, we are meditators!" and with shoulders drooping, heads down and all limp, they meditate, premeditate, outmeditate, and mismeditate. [^525] Just as an owl on a branch waiting for a mouse meditates, premeditates, out-meditates, and mismeditates, or just as a jackal on a river-bank waiting for fish meditates, premeditates, out-meditates, and mismeditates, or just as a cat by a door-post or a dust-bin or a drain, waiting for a mouse, meditates, premeditates, out-meditates, and mismeditates, or just as a donkey unladen, standing by a door-post or a dust-bin or a drain, meditates, premeditates, out-meditates, and mismeditates, so too, these bald-pated recluses, these swarthy menial offspring of the Kinsman's feet, claim: "We are meditators, we are meditators!" and with shoulders drooping, heads down and all limp, they meditate, premeditate, out-meditate, and mismeditate.' Now, Evil One, on that occasion most of those human beings, when they died, reappeared on the dissolution of the body, after death, in a state of deprivation, in an unhappy destination, in perdition, even in hell. [335]
 

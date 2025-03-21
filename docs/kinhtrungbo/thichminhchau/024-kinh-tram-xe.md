@@ -50,7 +50,6 @@ khích lệ, làm cho phấn khởi, làm cho hoan hỷ, hoan hỷ tín thọ l�
 
 Rồi Tôn giả Sariputta vội vã đem theo tọa cụ, đi theo sau lưng Tôn giả Punna Mantaniputta, đầu hướng
 về trước mặt (để theo dõi). Rồi Tôn giả Punna Mantaniputta đi sâu vào rừng Andhavana, và ngồi nghỉ
-
 trưa dưới một gốc cây. Tôn giả Sariputta, sau khi đi sâu vào rừng Andhavana, ngồi nghỉ trưa dưới một
 gốc cây.
 
@@ -59,6 +58,7 @@ Mantaniputta, sau khi đến nói lên với Tôn giả Punna Mantaniputta nhữ
 giao rồi ngồi xuống một bên. Ngồi xuống một bên, Tôn giả Sariputta thưa với Tôn giả Punna
 Mantaniputta:
 
+<!--pg-->
 -- Hiền giả, có phải chúng ta sống phạm hạnh dưới sự chỉ dạy của Thế Tôn?
 -- Thật như vậy, Hiền giả.
 
@@ -84,14 +84,17 @@ thanh tịnh?
 -- Hiền giả, có phải sống phạm hạnh dưới sự chỉ dạy của Thế Tôn là vì mục đích tri kiến thanh tịnh?
 -- Không phải vậy, Hiền giả.
 
+
 -- Hiền giả, khi hỏi "có phải sống phạm hạnh dưới sự chỉ dạy của Thế Tôn là vì mục đích giới thanh
 tịnh?", Hiền giả trả lời "Không phải vậy". Khi hỏi ... tâm thanh tịnh? ... kiến thanh tịnh?... đoạn nghi
 thanh tịnh? ... đạo phi đạo tri kiến thanh tịnh? ... đạo tri kiến thanh tịnh? ... Khi hỏi "có phải sống phạm
 hạnh dưới sự chỉ dạy của Thế Tôn là vì mục đích tri kiến thanh tịnh?", Hiền giả trả lời "Không phải
 vậy". Như vậy, Hiền giả, với mục đích gì, sống phạm hạnh dưới sự chỉ dạy của Thế Tôn?
 
+<!--pg-->
 -- Hiền giả, với mục đích vô thủ trước Bát-niết-bàn, nên sống phạm hạnh dưới sự chỉ dạy của Thế Tôn.
 
+<!--pg-->
 -- Hiền giả, có phải giới thanh tịnh là vô thủ trước Bát-niết-bàn?
 -- Hiền giả, không phải vậy.
 
@@ -122,6 +125,7 @@ tịnh ...? ... có phải đạo phi đạo tri kiến thanh tịnh ...? ... c�
 kiến thanh tịnh ...? ... có phải cái gì ngoài các pháp này là vô thủ trước Bát-niết-bàn?", Hiền giả trả lời:
 "Không phải vậy." Hiền giả, vậy ý nghĩa lời nói này cần phải được hiểu như thế nào?
 
+<!--pg-->
 -- Hiền giả, nếu Thế Tôn tuyên bố giới thanh tịnh là vô thủ trước Bát-niết-bàn thì Ngài cũng tuyên bố vô
 thủ trước Bát-niết-bàn là đồng đẳng với hữu thủ trước Bát-niết-bàn. Hiền giả, nếu Thế Tôn tuyên bố tâm
 thanh tịnh... Hiền giả, nếu Thế Tôn tuyên bố kiến thanh tịnh... Hiền giả, nếu Thế Tôn tuyên bố đoạn
@@ -151,7 +155,6 @@ và Saketa. Ta từ cửa nội thành ra khỏi Savatthi, leo lên trạm xe th
 được trạm xe thứ ba; từ bỏ trạm xe thứ hai... đến được trạm xe thứ tư; từ bỏ trạm xe thứ ba... đến được
 trạm xe thứ năm; từ bỏ trạm xe thứ tư... đến được trạm xe thứ sáu; từ bỏ trạm xe thứ năm, leo lên trạm
 xe thứ sáu, nhờ trạm xe thứ sáu, đến được trạm xe thứ bảy; từ bỏ trạm xe thứ sáu... leo lên trạm xe thứ
-
 bảy, nhờ trạm xe thứ bảy, Ta đến được Saketa, tại cửa nội thành". Hiền giả, vua Pasenadi nước Kosala
 trả lời như vậy mới trả lời một cách đúng đắn.
 
@@ -163,6 +166,7 @@ chỉ có mục đích (đạt cho được) tri kiến thanh tịnh; tri kiến
 thủ trước Bát-niết-bàn. Này Hiền giả, sống phạm hạnh dưới sự chỉ dẫn của Thế Tôn là với mục đích vô
 thủ trước Bát-niết-bàn.
 
+<!--pg-->
 Khi được nói vậy, Tôn giả Sariputta nói với Tôn giả Punna Mantaniputta:
 
 -- Tôn giả tên là gì? Và các vị đồng phạm hạnh biết Tôn giả như thế nào?

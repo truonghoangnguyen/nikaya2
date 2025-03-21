@@ -216,7 +216,7 @@ upon and abides in the base of nothingness. This bhikkhu is said to have blindfo
 
 41. "Again, by completely surrounding the base of nothingness, [175] a bhikkhu enters upon and abides in the base of neither-perception-nor-non-perception. This bhikkhu is said to have blindfolded Māra, to have become invisible to the Evil One by depriving Māra's eye of its opportunity.
 
-42. "Again, by completely surmounting the base of neither-perception-nor-non-perception, a bhikkhu enters upon and abides in the cessation of perception and feeling. And his taints are destroyed by his seeing with wisdom. This bhikkhu is said to have blindfolded Māra, to have become invisible to the Evil One by depriving Māra's eye of its opportunity, and to have crossed beyond attachment to the world. ${ }^{318} \mathrm{He}$ walks without fear, stands without fear, sits without fear, lies down without fear. Why is that? Because he is out of the Evil One's range."
+42. "Again, by completely surmounting the base of neither-perception-nor-non-perception, a bhikkhu enters upon and abides in the cessation of perception and feeling. And his taints are destroyed by his seeing with wisdom. This bhikkhu is said to have blindfolded Māra, to have become invisible to the Evil One by depriving Māra's eye of its opportunity, and to have crossed beyond attachment to the world. [^318] He walks without fear, stands without fear, sits without fear, lies down without fear. Why is that? Because he is out of the Evil One's range."
 
 That is what the Blessed One said. The bhikkhus were satisfied and delighted in the Blessed One's words.
 

@@ -184,9 +184,9 @@ That is what the Blessed One said. The venerable Sāriputta was satisfied and de
 
 [^1070]: Aññamaññam. MA: The two are mutually exclusive, and there is no way by which the one can be regarded as the other.
 
-[^1071]: Although wrong view and right view are usually included under mental conduct, in this sutta they are shown separately in $ 10 as "the acquisition of view."
+[^1071]: Although wrong view and right view are usually included under mental conduct, in this sutta they are shown separately in §10 as "the acquisition of view."
 
-[^1072]: Whereas the covetousness and ill will described in $ 7 possess the strength of a full course of action (kammapatha), in this section on inclination of mind (cittuppāda) they are shown in their nascent stage as mere dispositions that have not yet erupted into obsessive volitions.
+[^1072]: Whereas the covetousness and ill will described in §7 possess the strength of a full course of action (kammapatha), in this section on inclination of mind (cittuppāda) they are shown in their nascent stage as mere dispositions that have not yet erupted into obsessive volitions.
 
 [^1073]: "Acquisition of individuality" (attabhāvapaṭilābha) here refers to mode of rebirth.
 

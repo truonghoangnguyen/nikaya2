@@ -5,7 +5,7 @@
 
 2\. Now on that occasion a new assembly hall had recently been built for the Sakyans of Kapilavatthu and it had not yet been inhabited by any recluse or brahmin or human being at all. Then the Sakyans of Kapilavatthu went to the Blessed One. After paying homage to him, they sat down at one side and said to him:
 
-"Venerable sir, a new assembly hall has recently been built here for the Sakyans of Kapilavatthu and it has not yet been inhabited by any recluse or brahmin or human being at all. Venerable sir, let the Blessed One be the first to use it. When the Blessed One has used it first, then the Sakyans of Kapilavatthu will use it afterwards. That will lead to their welfare and happiness for a long time." ${ }^{\prime 557}$ [354]
+"Venerable sir, a new assembly hall has recently been built here for the Sakyans of Kapilavatthu and it has not yet been inhabited by any recluse or brahmin or human being at all. Venerable sir, let the Blessed One be the first to use it. When the Blessed One has used it first, then the Sakyans of Kapilavatthu will use it afterwards. That will lead to their welfare and happiness for a long time." [^557] [354]
 
 3\. The Blessed One consented in silence. Then, when they saw that he had consented, they got up from their seats, and after paying homage to him, keeping him on their right, they went to the assembly hall. They covered it completely with coverings and prepared seats, and they put out a large water jug and hung up an oil-lamp. Then they went to the Blessed One, and after paying homage to him, they stood at one side and said:
 
@@ -16,7 +16,7 @@ down by the western wall facing the east, with the Blessed One before them. And 
 
 5\. Then, when the Blessed One had instructed, urged, roused, and encouraged the Sakyans of Kapilavatthu with talk on the Dhamma for much of the night, he said to the venerable Ānanda:
 
-"Ānanda, speak to the Sakyans of Kapilavatthu about the disciple in higher training who has entered upon the way. ${ }^{558} \mathrm{My}$ back is uncomfortable. I will rest it."
+"Ānanda, speak to the Sakyans of Kapilavatthu about the disciple in higher training who has entered upon the way. [^558] My back is uncomfortable. I will rest it."
 
 "Yes, venerable sir," the venerable Ānanda replied.
 

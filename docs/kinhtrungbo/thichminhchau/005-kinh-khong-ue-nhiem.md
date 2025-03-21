@@ -25,7 +25,7 @@ cấu uế". Trong hai hạng người không có cấu uế, hạng người n�
 Chư Hiền, ở đây, hạng người không có cấu uế và như thật tuệ tri: "Nội thân ta không có cấu uế". Trong
 hai hạng người không có cấu uế, hạng người này vì vậy được gọi là hạng người ưu thắng.
 
-<!--p1-->
+<!--pg-->
 Ðược nói như vậy, Tôn giả Mahamoggallana (Ðại Mục-kiền-liên) nói với Tôn giả Sariputta như sau:
 
 -- Tôn giả Sariputta, do nhân gì, do duyên gì, trong hai hạng người có cấu uế này, một hạng người được
@@ -33,7 +33,7 @@ gọi là hạ liệt, một hạng người được gọi là ưu thắng? Tô
 hạng người không có cấu uế này, một hạng người được gọi là hạ liệt, một hạng người được gọi là ưu
 thắng?
 
-<!--p2-->
+<!--pg-->
 -- Ở đây, Hiền giả, hạng người có cấu uế nhưng không như thật tuệ tri: "Nội thân ta có cấu uế". Với
 người này, có thể chờ đợi như sau: "Người này sẽ không khởi lên ước muốn, sẽ không cố gắng, sẽ
 không tinh tấn để diệt trừ cấu uế ấy. Người này sẽ từ trần, trong khi còn có tham, còn có sân, còn có si,
@@ -49,7 +49,7 @@ Với người này, có thể chờ đợi như sau: "Người này sẽ không
 không tinh tấn để diệt trừ cấu uế ấy. Người này sẽ từ trần, trong khi còn có tham, còn có sân, còn có si,
 trong khi còn cấu uế, trong khi tâm còn nhiễm".
 
-<!--p3-->
+<!--pg-->
 Ở đây, này Hiền giả, hạng người có cấu uế, và như thật tuệ tri: "Nội thân ta có cấu uế". Với người này,
 có thể chờ đợi như sau: "Người này sẽ khởi lên ước muốn, sẽ cố gắng, sẽ tinh tấn để diệt trừ cấu uế ấy.
 Người này sẽ từ trần, trong khi không còn tham, không còn sân, không còn si, trong khi không còn cấu
@@ -65,7 +65,7 @@ người này, có thể chờ đợi như sau: "Người này sẽ khởi lên 
 cấu uế ấy. Người này sẽ từ trần, trong khi không còn tham, không còn sân, không còn si, trong khi
 không còn cấu uế, trong khi tâm không còn ô nhiễm".
 
-<!--p4-->
+<!--pg-->
 Ở đây, này Hiền giả, hạng người không có cấu uế nhưng không như thật tuệ tri: "Nội thân ta không có
 cấu uế". Với người này, có thể chờ đợi như sau: "Người này sẽ tư niệm tịnh tướng. Do tư niệm tịnh
 tướng, tham sẽ làm ô nhiễm tâm của người này. Người này sẽ từ trần, trong khi còn có tham, còn có sân,
@@ -81,7 +81,7 @@ có cấu uế". Với người này có thể chờ đợi sau: "Người này 
 tham sẽ làm ô nhiễm tâm của người này. Người này sẽ từ trần trong khi còn có tham, còn có sân, còn có
 si, trong khi còn cấu uế, trong khi tâm còn ô nhiễm".
 
-<!--p5-->
+<!--pg-->
 Ở đây, này Hiền giả, hạng người không có cấu uế và như thật tuệ tri: "Nội thân ta không có cấu uế". Với
 người này có thể chờ đợi như sau: "Người này sẽ không tư niệm tịnh tướng. Do không tư niệm tịnh
 tướng, tham sẽ không làm ô nhiễm tâm của người này. Người này sẽ từ trần, trong khi không có tham,
@@ -97,7 +97,7 @@ Với người này có thể chờ đợi như sau: "Người này sẽ không 
 tướng, tham sẽ không làm ô nhiễm tâm người này. Người này sẽ từ trần, không có tham, không có sân,
 không có si, không còn cấu uế, tâm không còn ô nhiễm".
 
-<!--p5-->
+<!--pg-->
 Này Hiền giả Moggallana, do nhân này, do duyên này, trong hai người có cấu uế này, một người được
 gọi là hạ liệt, một người được gọi là ưu thắng. Này Hiền giả Moggallana, do nhân này, do duyên này,
 trong hai người này không có cấu uế, một người được gọi là hạ liệt, một người được gọi là ưu thắng.
@@ -214,6 +214,7 @@ trở thành phẫn nộ và bất mãn. Này Hiền giả, phẫn nộ và bấ
 
 Này Hiền giả, các ác bất thiện pháp, cảnh giới của dục này là đồng nghĩa cái gọi là cấu uế.
 
+<!--pg-->
 Này Hiền giả, đối với Tỷ-kheo nào, các ác, bất thiện pháp, cảnh giới của dục này còn được thấy và nghe
 là chưa được diệt trừ, nếu Tỷ-kheo ấy là vị sống trong rừng núi, tại các trú xứ xa vắng, sống hạnh khất
 thực, thứ lớp khất thực từng nhà một, theo hạnh mang phấn tảo y, mặc y phục thô xấu, thời các đồng
@@ -235,7 +236,7 @@ khất thực, thứ lớp khất thực từng nhà một, theo hạnh mang ph�
 Tôn giả này còn được thấy và còn được nghe các ác, bất thiện pháp, cảnh giới của dục này là chưa được
 diệt trừ.
 
-<!--p6-->
+<!--pg-->
 Này Hiền giả, đối với Tỷ-kheo nào mà các ác, bất thiện pháp, cảnh giới của dục này được thấy và được
 nghe là đã diệt trừ, nếu Tỷ-kheo ấy sống gần làng mạc, chấp nhận biệt thỉnh thực, mang y người gia chủ
 cúng, thời các đồng phạm hạnh cung kính, tôn trọng, lễ bái, cúng dường vị Tỷ-kheo ấy. Vì sao vậy? Vì
@@ -255,7 +256,7 @@ thực, mang y người gia chủ cúng, thời các đồng phạm hạnh cung 
 kheo ấy. Vì sao vậy? Vì các bậc Tôn giả này được thấy và được nghe các ác, bất thiện pháp cảnh giới
 của dục này đã được diệt trừ.
 
-<!--p7-->
+<!--pg-->
 Ðược nghe nói vậy, Tôn giả Mahamoggallana thưa với Tôn giả Sariputta:
 
 -- Hiền giả Sariputta, một ví dụ khởi lên cho tôi!

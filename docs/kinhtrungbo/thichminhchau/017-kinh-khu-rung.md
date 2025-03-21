@@ -11,6 +11,7 @@ Một thời, Thế Tôn ở Savatthi (Xá-vệ), tại Jetavana (Kỳ-đà Lâm
 Hãy nghe và suy nghiệm kỹ, Ta sẽ giảng". --"Thưa vâng, bạch Thế Tôn". Những Tỷ-kheo ấy vâng đáp
 Thế Tôn. Thế Tôn thuyết giảng như sau:
 
+<!--pg-->
 -- Chư Tỷ-kheo, ở đây, Tỷ-kheo sống tại một khu rừng nào. Tỷ-kheo sống tại khu rừng này, các niệm
 chưa được an trú không được an trú, tâm tư chưa được định tĩnh không được định tĩnh, các lậu hoặc
 chưa được hoàn toàn đoạn trừ không được hoàn toàn đoạn trừ, vô thượng an ổn khỏi các ách phược chưa
@@ -24,6 +25,7 @@ thiết cho đời sống mà một vị xuất gia cần phải sắm đủ, nh
 phẩm trị bệnh, những vật dụng này kiếm được một cách khó khăn". Này các Tỷ-kheo, Tỷ-kheo ấy phải
 từ bỏ ngôi rừng ấy, không được ở lại, ngay lúc ban ngày hay lúc ban đêm.
 
+<!--pg-->
 Chư Tỷ-kheo, ở đây, Tỷ-kheo sống tại một khu rừng nào. Tỷ-kheo sống tại khu rừng này, các niệm chưa
 được an trú không được an trú, tâm tư chưa được định tĩnh không được định tĩnh, các lậu hoặc chưa
 được hoàn toàn đoạn trừ không được hoàn toàn đoạn trừ, vô thượng an ổn khỏi các ách phược chưa
@@ -37,6 +39,7 @@ trị bệnh mà ta xuất gia, từ bỏ gia đình, sống không gia đình. 
 niệm chưa được an trú không được an trú... vô thượng an ổn khỏi các ách phược không được chứng
 đạt". Này các Tỷ-kheo, Tỷ-kheo ấy chỉ với suy tính này phải từ bỏ ngôi rừng ấy, không được ở lại.
 
+<!--pg-->
 Chư Tỷ-kheo, ở đây, Tỷ-kheo sống tại một khu rừng nào. Tỷ-kheo sống tại khu rừng này, các niệm chưa
 được an trú được an trú, tâm tư chưa được định tĩnh được định tĩnh; các lậu hoặc chưa được hoàn toàn
 đoạn trừ được hoàn toàn đoạn trừ, vô thượng an ổn khỏi các ách phược chưa được chứng đạt được
@@ -51,6 +54,7 @@ ta ở tại khu rừng này, các niệm chưa được an trú được an tr�
 được chứng đạt". Này các Tỷ-kheo, Tỷ-kheo ấy chỉ với suy tính này, phải ở lại khu rừng ấy, không được
 bỏ đi.
 
+<!--pg-->
 Chư Tỷ-kheo, ở đây Tỷ-kheo sống tại một khu rừng nào. Tỷ-kheo sống tại khu rừng này, các niệm chưa
 được an trú được an trú... vô thượng an ổn khỏi các ách phược chưa được chứng đạt được chứng đạt. Và
 những vật dụng cần thiết... kiếm được một cách không khó khăn. Chư Tỷ-kheo, Tỷ-kheo ấy cần phải suy
@@ -59,6 +63,7 @@ an trú... vô thượng an ổn khỏi các ách phược chưa chứng đạt 
 cần thiết... kiếm được một cách không khó khăn". Chư Tỷ-kheo, Tỷ-kheo ấy phải ở lại khu rừng cho đến
 trọn đời, không được rời bỏ.
 
+<!--pg-->
 Chư Tỷ-kheo, ở đây, Tỷ-kheo sống tại một làng nào...
 
 Chư Tỷ-kheo, ở đây Tỷ-kheo sống tại một thị trấn nào...
@@ -101,7 +106,6 @@ hoàn toàn đoạn trừ, vô thượng an ổn khỏi các ách phược chưa
 vật dụng cần thiết cho đời sống mà một người xuất gia cần phải sắm đủ, như y phục, đồ ăn khất thực,
 sàng tọa, dược phẩm trị người bệnh, những vật dụng này kiếm được một cách không khó khăn. Chư Tỷ-
 kheo, Tỷ-kheo ấy cần phải suy tư như sau: "Ta sống gần người này. Khi ta sống gần người này, các
-
 niệm chưa được an trú được an trú, tâm chưa được định tĩnh được định tĩnh, các lậu hoặc chưa được
 hoàn toàn đoạn trừ được hoàn toàn đoạn trừ, và vô thượng an ổn, khỏi ách phược chưa được thành đạt
 được thành đạt. Và những vật dụng cần thiết cho đời sống mà một vị xuất gia cần phải sắm đủ, như y

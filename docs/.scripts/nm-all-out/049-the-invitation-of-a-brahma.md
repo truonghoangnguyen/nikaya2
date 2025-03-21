@@ -86,7 +86,7 @@ to represent being or personality in its most eminent form, blindly engaged in t
 
 [^502]: MA: Because they considered it to be impermanent, suffering, and not self.
 
-[^503]: MA: In the four states of deprivation. Here, and at $ 10 and $ 29, the word "body" (käya) is used to mean plane of existence.
+[^503]: MA: In the four states of deprivation. Here, and at §10 and §29, the word "body" (käya) is used to mean plane of existence.
 
 [^504]: MA: They lauded it by speaking praise of it as permanent, everlasting, eternal, etc., and delighted in it by way of craving and views.
 
@@ -102,7 +102,7 @@ to represent being or personality in its most eminent form, blindly engaged in t
 
 [^510]: In the Brahmajāla Sutta (DN 1.2.2-6/ii.17-19) the Buddha shows how Mahā Brahmā gives rise to the delusion that he is the supreme creator God. When the world begins to form again after a period of dissolution, a being of great merit is the first to be reborn in the newly formed Brahmaworld. Subsequently, other beings take rebirth in the Brahma-world and this causes Mahā Brahmā to imagine that he is their creator and master. See Bodhi, The Discourse on the All-Embracing Net of Views, pp. 69-70, 159-166.
 
-[^511]: This passage, parallel in structure to the corresponding passage of MN 1, is a difficult one. The difficulty centres around the verb used in the first four statements regarding earth, about which there is not even certainty as to the correct reading. $\overline{N} m$ prefers the BBS ed. reading apahosim, which he takes to be an aorist of pabhavati, meaning "to produce, to give being to." MA glosses: "I did not grasp earth through the obsessions of craving, conceit, and views." $\overline{\mathrm{N}} \mathrm{m}$ had rendered ananubhütam as "not co-essential with." This has been replaced by "not commensurate with," following MA's gloss, "not reached by earth" and MT: "Its nature is not shared in common with earth." MA says that what is "not com-
+[^511]: This passage, parallel in structure to the corresponding passage of MN 1, is a difficult one. The difficulty centres around the verb used in the first four statements regarding earth, about which there is not even certainty as to the correct reading. $\overline{N} m$ prefers the BBS ed. reading apahosim, which he takes to be an aorist of pabhavati, meaning "to produce, to give being to." MA glosses: "I did not grasp earth through the obsessions of craving, conceit, and views." Ñm had rendered ananubhütam as "not co-essential with." This has been replaced by "not commensurate with," following MA's gloss, "not reached by earth" and MT: "Its nature is not shared in common with earth." MA says that what is "not com-
 mensurate with the earthness of earth" is Nibbāna, which is detached from all that is conditioned.
 
 [^512]: The PTS ed. is surely mistaken in omitting here the $t i$ ending a direct quotation, and this misleads Horner into ascribing the following passage to Baka rather than to the Buddha (MLS 1:392). The BBS and SBJ eds. supply the $t i$.

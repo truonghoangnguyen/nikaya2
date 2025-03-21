@@ -61,7 +61,7 @@ Such teachings as are good in the beginning, good in the middle, and good in the
 
 17. When this was said, the venerable Sāriputta asked the Blessed One: "Venerable sir, which of us has spoken well?"
 
-"You have all spoken well, Sāriputta, each in his own way. Hear also from me what kind of bhikkhu could illuminate this Gosinga Sāla-tree Wood. Here, Sāriputta, when a bhikkhu has returned from his almsround, after his meal, he sits down, folds his legs crosswise, sets his body erect, and establishing mindfulness in front of him, resolves: 'I shall not break this sitting position until through not clinging my mind is liberated from the taints.' That kind of bhikkhu could illuminate this Gosinga Sālatree Wood. ${ }^{\prime 363}$
+"You have all spoken well, Sāriputta, each in his own way. Hear also from me what kind of bhikkhu could illuminate this Gosinga Sāla-tree Wood. Here, Sāriputta, when a bhikkhu has returned from his almsround, after his meal, he sits down, folds his legs crosswise, sets his body erect, and establishing mindfulness in front of him, resolves: 'I shall not break this sitting position until through not clinging my mind is liberated from the taints.' That kind of bhikkhu could illuminate this Gosinga Sālatree Wood. [^363]
 
 That is what the Blessed One said. Those venerable ones were satisfied and delighted in the Blessed One's words.
 

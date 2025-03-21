@@ -11,7 +11,7 @@ Then, in the evening, the Blessed One rose from meditation and went to the assem
 
 Then the Blessed One asked the venerable Ānanda: "Ānanda, how were you instructing, urging, rousing, and encouraging the bhikkhus with talk on the Dhamma, and reciting the summary and exposition of 'One Who Has One Fortunate Attachment'?"
 
-$3-10$. "I was doing so thus, venerable sir: [191]
+§3-10$. "I was doing so thus, venerable sir: [191]
 
 'Let not a person revive the past...
 

@@ -175,7 +175,7 @@ sition of miraculous powers.
 
 [^181]: On the Buddha's sounding of his lion's roar, see SN 22:78/iii.84-86. The Wheel of Brahmā is the supreme, best, most excellent wheel, the Wheel of the Dhamma (dhammacakka) in its twofold meaning: the knowledge penetrating the truth and the knowledge of how to expound the teaching (MA).
 
-[^182]: Vbh $ 809 explicates this knowledge by quoting at length MN 115.12-17. MA, however, explains it differently as the knowledge of the correlations between causes and their results.
+[^182]: Vbh §809 explicates this knowledge by quoting at length MN 115.12-17. MA, however, explains it differently as the knowledge of the correlations between causes and their results.
 
 [^183]: This knowledge can be exemplified by the Buddha's analysis of kamma in MN 57, MN 135 and MN 136.
 
@@ -183,11 +183,11 @@ sition of miraculous powers.
 
 [^185]: The Tathāgata's understanding of the many elements constituting the world will be found in MN 115.4-9.
 
-[^186]: Vbh $ 813 explains that the Tathāgata understands that beings are of inferior inclinations and superior inclinations, and that they gravitate towards those who share their own inclinations.
+[^186]: Vbh §813 explains that the Tathāgata understands that beings are of inferior inclinations and superior inclinations, and that they gravitate towards those who share their own inclinations.
 
 [^187]: Vbh $\S \S 814-27$ gives a detailed analysis. MA states the meaning more concisely as the Tathāgata's knowledge of the superiority and inferiority of beings' faculties of faith, energy, mindfulness, concentration, and wisdom.
 
-[^188]: Vbh $ 828 : The "defilement" (sankilesa) is a state causing deterioration, "cleansing" (vodāna) a state causing excellence, "emergence" (vutṭhāna) is both cleansing and the rising out of an attainment. The eight liberations (vimokkha $\bar{a}$ ) are enumerated in MN 77.22 and MN 137.26; the nine attainments (samäpatti) are the four jhānas, four immaterial attainments, and the cessation of perception
+[^188]: Vbh §828 : The "defilement" (sankilesa) is a state causing deterioration, "cleansing" (vodāna) a state causing excellence, "emergence" (vutṭhāna) is both cleansing and the rising out of an attainment. The eight liberations (vimokkha $\bar{a}$ ) are enumerated in MN 77.22 and MN 137.26; the nine attainments (samäpatti) are the four jhānas, four immaterial attainments, and the cessation of perception
 and feeling as in MN 25.12-20.
 
 [^189]: The idiom yathäbhatam̉ nikkhitto evam̉ niraye is knotty; the rendering here follows the commentary: "He will be put in hell as if carried off and put there by the wardens of hell."

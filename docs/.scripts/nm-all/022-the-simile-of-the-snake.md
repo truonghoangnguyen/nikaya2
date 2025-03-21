@@ -12,7 +12,7 @@
 "Exactly so, friends. As I understand the Dhamma taught by the Blessed One, those things called obstructions by the Blessed One are not able to obstruct one who engages in them."
 
 Then these bhikkhus, desiring to detach him from that pernicious view, pressed and questioned and cross-questioned him thus: "Friend Arittha, do not say so. Do not misrepresent the Blessed One; it is not good to misrepresent the Blessed One. The Blessed One would not speak thus. For in many discourses the Blessed One has stated how obstructive things are obstructions, and how they are able to obstruct one who engages in them. The Blessed One has stated how sensual pleasures provide little gratification, much suffering, and much despair, and how great is the danger in them. With the simile of the skeleton...with the simile of the piece of meat... with the simile of the grass torch... with the simile of the pit of coals... with the simile of the dream... with the simile of the borrowed goods... with the simile of the tree laden with fruit... with the simile of the slaughterhouse... with the simile of the sword stake... with the simile of
-the snake's head, the Blessed One has stated how sensual pleasures provide little gratification, much suffering, and much despair, and how great is the danger in them." ${ }^{\prime 250}$
+the snake's head, the Blessed One has stated how sensual pleasures provide little gratification, much suffering, and much despair, and how great is the danger in them." [^250]
 
 Yet although pressed and questioned and cross-questioned by them in this way, the bhikkhu Arittha, formerly of the vulture killers, still obstinately adhered to that pernicious view and continued to insist upon it.
 
@@ -74,7 +74,7 @@ and had arrived at the far shore, he might think thus: This raft has been very h
 16. "Bhikkhus, a well-taught noble disciple who has regard for noble ones and is skilled and disciplined in their Dhamma, who has regard for true men and is skilled and disciplined in their Dhamma, regards material form thus: 'This is not mine, this I am not, this is not my self.' He regards feeling thus: 'This is not mine, this I am not, this is not my self.' He regards perception thus: 'This is not mine, this I am not, this is not my self.' He regards formations thus: 'This is not mine, this I am not, this is not my self.' He regards what is seen, heard, sensed, cognized,
 encountered, sought, mentally pondered thus: 'This is not mine, this I am not, this is not my self.' And this standpoint for views, namely, 'This is self, this the world; after death I shall be permanent, everlasting, eternal, not subject to change; I shall endure as long as eternity' - this too he regards thus: 'This is not mine, this I am not, this is not my self.'
 
-17. "Since he regards them thus, he is not agitated about what is non-existent. ${ }^{\prime 260}$
+17. "Since he regards them thus, he is not agitated about what is non-existent. [^260]
 
 ## (AGITATION)
 

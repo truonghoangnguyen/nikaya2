@@ -3,7 +3,7 @@
 
 1. Thus have I heard. On one occasion the Blessed One was living at Sāvatthī in Jeta's Grove, Anāthapiṇ̣ika's Park.
 
-2. Now on that occasion the venerable Moliya Phagguna was associating overmuch with bhikkhunīs. ${ }^{245} \mathrm{He}$ was associating so much with bhikkhunīs that if any bhikkhu spoke dispraise of those bhikkhunīs in his presence, he would become angry and displeased and would rebuke him; and if any bhikkhu spoke dispraise of the venerable Moliya Phagguna in those bhikkhunīs' presence, they would become angry and displeased and would rebuke him. So much was the venerable Moliya Phagguna associating with bhikkhunīs.
+2. Now on that occasion the venerable Moliya Phagguna was associating overmuch with bhikkhunīs. [^245] He was associating so much with bhikkhunīs that if any bhikkhu spoke dispraise of those bhikkhunīs in his presence, he would become angry and displeased and would rebuke him; and if any bhikkhu spoke dispraise of the venerable Moliya Phagguna in those bhikkhunīs' presence, they would become angry and displeased and would rebuke him. So much was the venerable Moliya Phagguna associating with bhikkhunīs.
 
 3. Then a certain bhikkhu went to the Blessed One, and after paying homage to him, he sat down at one side and told the Blessed One what was taking place.
 

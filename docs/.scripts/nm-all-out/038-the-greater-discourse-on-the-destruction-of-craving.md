@@ -5,7 +5,7 @@
 
 1. Thus have I.heard. On one occasion the Blessed One was living at Sāvatthī in Jeta's Grove, Anāthapindika's Park.
 
-2. Now on that occasion a pernicious view had arisen in a bhikkhu named Satti, son of a fisherman, thus: "As I understand the Dhamma taught by the Blessed One, it is this same consciousness that runs and wanders through the round of rebirths, not another. ${ }^{\prime 402}$
+2. Now on that occasion a pernicious view had arisen in a bhikkhu named Satti, son of a fisherman, thus: "As I understand the Dhamma taught by the Blessed One, it is this same consciousness that runs and wanders through the round of rebirths, not another. [^402]
 
 3. Several bhikkhus, having heard about this, went to the bhikkhu Satti and asked him: "Friend Satti, is it true that such a pernicious view has arisen in you?"
 
@@ -188,7 +188,7 @@ That is what the Blessed One said. The bhikkhus were satisfied and delighted in 
 
 ## Notes
 
-[^402]: According to MA, through faulty reasoning based on the fact of rebirth, Sāti came to the conclusion that a persisting consciousness transmigrating from one existence to another is necessary to explain rebirth. The first part of the sutta (down to $ 8 ) replicates the opening of MN 22, the only difference being in the view espoused.
+[^402]: According to MA, through faulty reasoning based on the fact of rebirth, Sāti came to the conclusion that a persisting consciousness transmigrating from one existence to another is necessary to explain rebirth. The first part of the sutta (down to §8 ) replicates the opening of MN 22, the only difference being in the view espoused.
 
 [^403]: This is the last of the six views described at MN 2.8. See n. 40 .
 
@@ -200,12 +200,12 @@ That is what the Blessed One said. The bhikkhus were satisfied and delighted in 
 
 [^407]: On the four nutriments, see n.120. MA: The Buddha states this passage and the following one linking up the nutriments with dependent origination in order to show that he knows not merely the five aggregates but the entire chain of conditions responsible for their being.
 
-[^408]: This is a statement of the abstract principle of dependent origination exemplified by the twelvefold formula. The abstract principle on cessation is stated at $\S 22 . \overline{\mathrm{N}} \mathrm{m}$ had rendered the principle of arising thus: "That is when this is; that arises with the arising of this." And the principle of cessation: "That is not when this is not; that ceases with
+[^408]: This is a statement of the abstract principle of dependent origination exemplified by the twelvefold formula. The abstract principle on cessation is stated at $\S 22 . Ñm had rendered the principle of arising thus: "That is when this is; that arises with the arising of this." And the principle of cessation: "That is not when this is not; that ceases with
 the cessation of this."
 
 [^409]: As in MN 2.7. According to MA, this "running back into the past" and "running forward to the future" occur because of craving and views. The next passage drives home the lesson by ensuring that the bhikkhus speak from their own personal knowledge.
 
-[^410]: The following portion of the discourse may be understood as a concrete application of dependent origination - so far expressed only as a doctrinal formula - to the course of individual existence. The passage $\S \S 26-29$ may be taken to show the factors from consciousness through feeling that result from past ignorance and formations, $ 40 the causal factors of craving and clinging as they build up a continuation of the samsāric round. The following section ( $\S \S 31-40$ ), connecting dependent origination to the appearance of the Buddha and his teaching of the Dhamma, shows the practice of the Dhamma to be the means of bringing the round to an end.
+[^410]: The following portion of the discourse may be understood as a concrete application of dependent origination - so far expressed only as a doctrinal formula - to the course of individual existence. The passage $\S \S 26-29$ may be taken to show the factors from consciousness through feeling that result from past ignorance and formations, §40 the causal factors of craving and clinging as they build up a continuation of the samsāric round. The following section ( $\S \S 31-40$ ), connecting dependent origination to the appearance of the Buddha and his teaching of the Dhamma, shows the practice of the Dhamma to be the means of bringing the round to an end.
 
 [^411]: Gandhabba. MA: The gandhabba is the being to be reborn. It is not someone (i.e., a disembodied spirit) standing nearby watching the future parents having intercourse, but a being driven on by the mechanism of kamma, due to be reborn on that occasion.
 

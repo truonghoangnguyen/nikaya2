@@ -71,7 +71,7 @@ and striving, become one [whose result] is to be experienced?' 'No, friend.'
 "So speak the Niganthas, bhikkhus. And because the Niganthas speak thus, these ten legitimate deductions from their assertions provide grounds for censuring them. Thus their exertion is fruitless, their striving is fruitless.
 
 23. "And how is exertion fruitful, bhikkhus, how is striving fruitful? Here, bhikkhus, a bhikkhu is not overwhelmed by suffering and does not overwhelm himself with suffering; and he does not give up the pleasure that accords with Dhamma, yet he
-is not infatuated with that pleasure. [^932] He knows thus: 'When I strive with determination, this particular source of suffering fades away in me because of that determined striving; and when I look on with equanimity, this particular source of suffering fades away in me while I develop equanimity. ${ }^{933} \mathrm{He}$ strives with determination in regard to that particular source of suffering which fades away in him because of that determined striving; and he develops equanimity in regard to that particular source of suffering which fades away in him while he is developing equanimity. When he strives with determination, such and such a source of suffering fades away in him because of that determined striving; thus that suffering is exhausted in him. When he looks on with equanimity, such and such a source of suffering fades away in him while he develops equanimity; thus that suffering is exhausted in him.
+is not infatuated with that pleasure. [^932] He knows thus: 'When I strive with determination, this particular source of suffering fades away in me because of that determined striving; and when I look on with equanimity, this particular source of suffering fades away in me while I develop equanimity. [^933] He strives with determination in regard to that particular source of suffering which fades away in him because of that determined striving; and he develops equanimity in regard to that particular source of suffering which fades away in him while he is developing equanimity. When he strives with determination, such and such a source of suffering fades away in him because of that determined striving; thus that suffering is exhausted in him. When he looks on with equanimity, such and such a source of suffering fades away in him while he develops equanimity; thus that suffering is exhausted in him.
 
 24. "Suppose, bhikkhus, a man loved a woman with his mind bound to her by intense desire and passion. He might see that woman standing with another man, chatting, joking, and laughing. What do you think, bhikkhus? Would not sorrow, lamentation, pain, grief, and despair arise in that man when he sees that woman standing with another man, chatting, joking, and laughing?"
 
@@ -88,7 +88,7 @@ and despair do not arise in him when he sees that woman standing with another ma
 
 28. "Suppose, bhikkhus, an arrowsmith were warming and heating an arrow shaft between two flames, making it straight and workable. When the arrow shaft had been warmed and heated between the two flames and had been made straight and workable, then at a later time he would not again warm and heat the arrow shaft and make it straight and workable. Why is that? The purpose for which that arrowsmith had warmed and heated the arrow and made it straight and workable has been achieved; that is why at a later time he would not again warm and heat the arrow shaft and make it straight and workable.
 
-29. "So too, a bhikkhu considers thus...(as in $ 27 above) [226]...that is why at a later time he does not exert himself in what is painful. Thus too, bhikkhus, the exertion is fruitful, the striving is fruitful.
+29. "So too, a bhikkhu considers thus...(as in §27 above) [226]...that is why at a later time he does not exert himself in what is painful. Thus too, bhikkhus, the exertion is fruitful, the striving is fruitful.
 
 30-37. "Again, bhikkhus, here a Tathāgata appears in the world, accomplished, fully enlightened...(as Sutta 51, §§12-19)... he purifies his mind from doubt.
 
@@ -1477,7 +1477,7 @@ world [81] to make an end of suffering - such bhikkhus are there in this Sangha 
 
 Breathing in short, he understands: 'I breathe in short'; or breathing out short, he understands: 'I breathe out short.' He trains thus: 'I shall breathe in experiencing the whole body [of breath]'; he trains thus: 'I shall breathe out experiencing the whole body [of breath].' He trains thus: 'I shall breathe in tranquillising the bodily formation'; he trains thus: 'I shall breathe out tranquillising the bodily formation.'
 
-19. "He trains thus: 'I shall breathe in experiencing rapture'; he trains thus: 'I shall breathe out experiencing rapture. ${ }^{1118} \mathrm{He}$ trains thus: 'I shall breathe in experiencing pleasure'; [83] he trains thus: 'I shall breathe out experiencing pleasure.' He trains thus: 'I shall breathe in experiencing the mental formation'; he trains thus: 'I shall breathe out experiencing the mental formation.' He train thus: 'I shall breathe in tranquillising the mental formation'; he trains thus: 'I shall breathe out tranquillising the mental formation. [^1119]
+19. "He trains thus: 'I shall breathe in experiencing rapture'; he trains thus: 'I shall breathe out experiencing rapture. [^1118] He trains thus: 'I shall breathe in experiencing pleasure'; [83] he trains thus: 'I shall breathe out experiencing pleasure.' He trains thus: 'I shall breathe in experiencing the mental formation'; he trains thus: 'I shall breathe out experiencing the mental formation.' He train thus: 'I shall breathe in tranquillising the mental formation'; he trains thus: 'I shall breathe out tranquillising the mental formation. [^1119]
 
 20. "He trains thus: 'I shall breathe in experiencing the mind'; he trains thus: 'I shall breathe out experiencing the mind.' He trains thus: 'I shall breathe in gladdening the mind'; he trains thus: 'I shall breathe out gladdening the mind.' He trains thus: 'I shall breathe in concentrating the mind'; he trains thus: 'I shall breathe out concentrating the mind.' He trains thus: 'I shall breathe in liberating the mind'; he trains thus: 'I shall breathe out liberating the mind. [^1120]
 
@@ -1531,7 +1531,7 @@ whatever occasion, abiding thus mindful, a bhikkhu investigates and examines tha
 
 41. "And how, bhikkhus, do the seven enlightenment factors, developed and cultivated, fulfil true knowledge and deliverance?
 
-42. "Here, bhikkhus, a bhikkhu develops the mindfulness enlightenment factor, which is supported by seclusion, dispassion, and cessation, and ripens in relinquishment. ${ }^{1127} \mathrm{He}$ develops the investigation-of-states enlightenment factor...the energy enlightenment factor...the rapture enlightenment factor...the tranquillity enlightenment factor...the concentration enlightenment factor...the equanimity enlightenment factor, which is supported by seclusion, dispassion, and cessation, and ripens in relinquishment.
+42. "Here, bhikkhus, a bhikkhu develops the mindfulness enlightenment factor, which is supported by seclusion, dispassion, and cessation, and ripens in relinquishment. [^1127] He develops the investigation-of-states enlightenment factor...the energy enlightenment factor...the rapture enlightenment factor...the tranquillity enlightenment factor...the concentration enlightenment factor...the equanimity enlightenment factor, which is supported by seclusion, dispassion, and cessation, and ripens in relinquishment.
 
 43. "Bhikkhus, that is how the seven enlightenment factors, developed and cultivated, fulfil true knowledge and deliverance."1128
 
@@ -2460,7 +2460,7 @@ That is what the Blessed One said. The bhikkhus were satisfied and delighted in 
 
 3. "Now the wardens of hell seize such a being by the arms and present him to King Yama, [^1206] saying: 'Sire, this man has illtreated his mother, ill-treated his father, ill-treated recluses, illtreated brahmins; he has had no respect for the elders of his clan. Let the king order his punishment.'
 
-4. "Then King Yama presses and questions and cross-questions him about the first divine messenger: 'Good man, did you not see the first divine messenger to appear in the world? ${ }^{1207} \mathrm{He}$ says: 'I did not, venerable sir.' Then King Yama says: 'Good man, have you never seen in the world a young tender infant lying prone, fouled in his own excrement and urine?' He says: 'I have, venerable sir.'
+4. "Then King Yama presses and questions and cross-questions him about the first divine messenger: 'Good man, did you not see the first divine messenger to appear in the world? [^1207] He says: 'I did not, venerable sir.' Then King Yama says: 'Good man, have you never seen in the world a young tender infant lying prone, fouled in his own excrement and urine?' He says: 'I have, venerable sir.'
 
 "Then King Yama says: 'Good man, did it never occur to you - an intelligent and mature man - "I too am subject to birth, I am not exempt from birth: surely I had better do good by body, speech, and mind"?' He says: 'I was unable, venerable sir, I was negligent.' Then King Yama says: 'Good man, through negligence you have failed to do good by body, speech, and mind. Certainly they will deal with you according to your negligence. But this evil action of yours was not done by your mother or your father, [180] or by your brother or your sister, or by your friends and companions, or by your kinsmen and relatives, or by recluses and brahmins, or by gods: this evil action was done by you yourself, and you yourself will experience its result.'
 
@@ -2621,7 +2621,7 @@ Then, in the evening, the Blessed One rose from meditation and went to the assem
 
 Then the Blessed One asked the venerable Ānanda: "Ānanda, how were you instructing, urging, rousing, and encouraging the bhikkhus with talk on the Dhamma, and reciting the summary and exposition of 'One Who Has One Fortunate Attachment'?"
 
-$3-10$. "I was doing so thus, venerable sir: [191]
+§3-10$. "I was doing so thus, venerable sir: [191]
 
 'Let not a person revive the past...
 

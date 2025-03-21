@@ -60,7 +60,7 @@ in diversity. Why is that? Because he has not fully understood it, I say.
 26\. "He perceives Nibbāna as Nibbāna. [^20] Having perceived Nibbāna as Nibbāna, he conceives [himself as] Nibbāna, he conceives [himself] in Nibbāna, he conceives [himself apart] from Nibbāna, he conceives Nibbāna to be 'mine,' he delights in Nibbāna. Why is that? Because he has not fully understood it, I say.
 
 <!--pg-->
-## (THE DISCIPLE IN HIGHER TRAINING)
+#### (THE DISCIPLE IN HIGHER TRAINING)
 
 27\. "Bhikkhus, a bhikkhu who is in higher training, [^21] whose mind has not yet reached the goal, and who is still aspiring to the supreme security from bondage, directly knows earth as earth. [^22] Having directly known earth as earth, he should not conceive [himself as] earth, he should not conceive [himself] in earth, he should not conceive [himself apart] from earth, he should not conceive earth to be 'mine,' he should not delight in earth. Why is that? So that he may fully understand it, I say. [^23]
 
@@ -95,13 +95,13 @@ does not conceive [himself apart] from earth, he does not conceive earth to be '
 
 124-146. "He directly knows water as water...Nibbāna as Nibbāna...Why is that? Because he is free from delusion through the destruction of delusion.
 
-## (THE TATHAGGATA - I)
+#### (THE TATHAGGATA - I)
 
 147\. "Bhikkhus, the Tathāgata, [^27] accomplished and fully enlightened, directly knows earth as earth. Having directly known earth as earth, he does not conceive [himself as] earth, he does not conceive [himself] in earth, he does not conceive [himself apart] from earth, he does not conceive earth to be 'mine,' he does not delight in earth. [6] Why is that? Because the Tathāgata has fully understood it to the end, I say. [^28]
 
 148-170. "He directly knows water as water...Nibbāna as Nibbāna...Why is that? Because the Tathāgata has fully understood it to the end, I say.
 
-## (THE TATHAGGATA - II)
+#### (THE TATHAGGATA - II)
 
 171\. "Bhikkhus, the Tathāgata, accomplished and fully enlightened, directly knows earth as earth. Having directly known earth as earth, he does not conceive [himself as] earth, he does not conceive [himself] in earth, he does not conceive [himself apart] from earth, he does not conceive earth to be 'mine,' he does not delight in earth. Why is that? Because he has understood that delight is the root of suffering, and that with being [as condition] there is birth, and that for whatever has come to be there is ageing and death. [^29] Therefore, bhikkhus, through the complete destruction, fading away, cessation, giving up, and relinquishing of cravings, the Tathāgata has awakened to supreme full enlightenment, I say. [^30]
 

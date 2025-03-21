@@ -38,7 +38,7 @@ be followed. It is because he does this that unwished for, undesired, disagreeab
 
 5\. "Bhikkhus, there are four ways of undertaking things. What are the four? There is a way of undertaking things that is painful now and ripens in the future as pain. There is [311] a way of undertaking things that is pleasant now and ripens in the future as pain. There is a way of undertaking things that is painful now and ripens in the future as pleasure. There is a way of undertaking things that is pleasant now and ripens in the future as pleasure.
 
-## (THE IGNORANT PERSON)
+#### (THE IGNORANT PERSON)
 
 6\. (1) "Now, bhikkhus, one who is ignorant, not knowing this way of undertaking things that is painful now and ripens in the future as pain, does not understand it as it actually is thus: 'This way of undertaking things is painful now and ripens in the future as pain.' Not knowing it, not understanding it as it actually is, the ignorant one cultivates it and does not avoid it; because he does so, unwished for, undesired, disagreeable things increase for him and wished for, desired, agreeable things diminish. Why is that? That is what happens to one who does not see.
 
@@ -49,7 +49,7 @@ is, the ignorant one cultivates it and does not avoid it; because he does so, un
 
 9\. (4) "Now, bhikkhus, one who is ignorant, not knowing the way of undertaking things that is pleasant now and ripens in the future as pleasure, does not understand it as it actually is thus: 'This way of undertaking things is pleasant now and ripens in the future as pleasure.' Not knowing it, not understanding it as it actually is, the ignorant one does not cultivate it but avoids it; because he does so, [312] unwished for...things increase for him and wished for...things diminish. Why is that? That is what happens to one who does not see.
 
-## (THE WISE PERSON)
+#### (THE WISE PERSON)
 
 10\. (1) "Now, bhikkhus, one who is wise, knowing this way of undertaking things that is painful now and ripens in the future as pain, understands it as it actually is thus: 'This way of undertaking things is painful now and ripens in the future as pain.' Knowing it, understanding it as it actually is, the wise one does not cultivate it but avoids it; because he does so, unwished for, undesired, disagreeable things diminish for him and wished for, desired, agreeable things increase. Why is that? That is what happens to one who sees.
 
@@ -60,7 +60,7 @@ not cultivate it but avoids it; because he does so, unwished for...things dimini
 
 13\. (4) "Now, bhikkhus, one who is wise, knowing this way of undertaking things that is pleasant now and ripens in the future as pleasure, understands it as it actually is thus: 'This way of undertaking things is pleasant now and ripens in the future as pleasure.' Knowing it, understanding it as it actually is, the wise one does not avoid it but cultivates it; because he does so, unwished for...things diminish for him and wished for...things increase. Why is that? That is what happens to one who sees. [313]
 
-## (THE FOUR WAYS)
+#### (THE FOUR WAYS)
 
 14\. (1) "What, bhikkhus, is the way of undertaking things that is painful now and ripens in the future as pain? Here, bhikkhus, someone in pain and grief kills living beings, and he experiences pain and grief that have killing of living beings as condition. In pain and grief he takes what is not given...misconducts himself in sensual pleasures...speaks falsehood...speaks maliciously... speaks harshly...gossips...is covetous...has a mind of ill will...holds wrong view, and he experiences pain and grief that have wrong view as condition. On the dissolution of the body, after death, he reappears in a state of deprivation, in an unhappy destination, in perdition, even in hell. This is called the way of undertaking things that is painful now and ripens in the future as pain.
 

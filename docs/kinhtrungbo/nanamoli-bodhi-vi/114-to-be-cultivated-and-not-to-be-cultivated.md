@@ -5,7 +5,7 @@
 
 2. "Bhikkhus, I shall teach you a discourse on what should be cultivated and what should not be cultivated. Listen and attend closely to what I shall say." - "Yes, venerable sir," the bhikkhus replied. The Blessed One said this:
 
-## (FIRST EXPOSITION)
+#### (FIRST EXPOSITION)
 
 3. "Bhikkhus, [^1069] bodily conduct is of two kinds, I say: to be cultivated and not to be cultivated. And bodily conduct is either the one or the other. [^1070] Verbal conduct is of two kinds, I say: to be cultivated and not to be cultivated. And verbal conduct is either the one or the other. Mental conduct is of two kinds, I say: to be cultivated and not to be cultivated. And mental conduct is either the one or the other. Inclination of mind is of two kinds, I say: to be cultivated and not to be cultivated. And inclination of mind is either the one or the other. [46] The acquisition of perception is of two kinds, I say: to be cultivated and not to be cultivated. And the acquisition of perception is either the one or the other. The acquisition of view is of two kinds, I say: to be cultivated and not to be cultivated. And the acquisition of view is either the one or the other. The acquisition of individuality is of two kinds, I say: to be cultivated and not to be cultivated. And the acquisition of individuality is either the one or the other."
 (FIRST ELABORATION)
@@ -133,7 +133,7 @@ diminish in one who cultivates them should not be cultivated. [58] But such mind
 
 38. "Sāriputta, the detailed meaning of my utterance, which I spoke in brief, should be regarded thus.
 
-## (THIRD EXPOSITION)
+#### (THIRD EXPOSITION)
 
 39. "Sāriputta, robes are of two kinds, I say: to be cultivated and not to be cultivated. Almsfood is of two kinds, I say: to be cultivated and not to be cultivated. Resting places are of two kinds, I say: to be cultivated and not to be cultivated. Villages are of two kinds, I say: to be cultivated and not to be cultivated. Towns are of two kinds, I say: to be cultivated and not to be cultivated. Cities are of two kinds, I say: to be cultivated and not to be cultivated. Districts are of two kinds, I say: to be cultivated and not to be cultivated. Persons are of two kinds, I say: to be cultivated and not to be cultivated." [59]
 
@@ -164,7 +164,7 @@ diminish in one who cultivates them should not be cultivated. [58] But such mind
 
 49. "Venerable sir, I understand the detailed meaning of the Blessed One's utterance, which he has spoken in brief without expounding the detailed meaning, to be thus."
 
-## (THIRD APPROVAL AND RECAPITULATION)
+#### (THIRD APPROVAL AND RECAPITULATION)
 
 50. "Good, good, Sāriputta! It is good that you understand the detailed meaning of my utterance, which I spoke in brief without expounding the detailed meaning, to be thus.
 
@@ -172,7 +172,7 @@ diminish in one who cultivates them should not be cultivated. [58] But such mind
 
 59. "Sāriputta, the detailed meaning of my utterance, which I spoke in brief, should be regarded thus.
 
-## (CONCLUSION)
+#### (CONCLUSION)
 
 60. "Sāriputta, if all nobles understood thus the detailed meaning of my utterance, which I spoke in brief, it would lead to their welfare and happiness for a long time. [^1076] If all brahmins...all merchants...all workers understood thus the meaning of my utterance, which I spoke in brief, it would lead to their welfare and happiness for a long time. If the world with its gods, its Māras, and its Brahmās, this generation with its recluses and brahmins, its princes and its people, understood thus the detailed meaning of my utterance, which I spoke in brief, it would lead to the welfare and happiness of the world for a long time." [61]
 

@@ -1,80 +1,113 @@
-# 4 Fear and Dread
+# 4 Sợ hãi và Kinh hoàng
 ***(Bhayabherava Sutta)***
 
-1. Thus have I heard. On one occasion the Blessed One was living at Sāvatthī in Jeta's Grove, Anāthapiṇ̣̣ika's Park.
+1\.  Tôi nghe như vầy. Một lần nọ, Đức Thế Tôn đang ở tại Sāvatthī trong Rừng Jeta, Vườn của Anāthapiṇ̣ika.
 
-2. Then the brahmin Jāṇussoṇi [^56] went to the Blessed One and exchanged greetings with him. When this courteous and amiable talk was finished, he sat down at one side and said: "Master Gotama, when clansmen have gone forth from the home life into homelessness out of faith in Master Gotama, do they have Master Gotama for their leader, their helper, and their guide? And do these people follow the example of Master Gotama?"57
+2\.  Rồi Bà-la-môn Jāṇussoṇi [^56] đến gặp Đức Thế Tôn và trao đổi lời chào với Ngài. Sau khi cuộc nói chuyện lịch sự và thân thiện này kết thúc, ông ngồi xuống một bên và nói: "Thưa thầy Gotama, khi những người trong dòng tộc từ bỏ đời sống gia đình để trở thành người xuất gia không nhà cửa vì đức tin nơi thầy Gotama, có phải họ xem thầy Gotama là người lãnh đạo, người giúp đỡ và người hướng dẫn của họ không? Và những người này có noi theo gương của thầy Gotama không?"57
 
-"That is so, brahmin, that is so. When clansmen have gone forth from the home life into homelessness out of faith in me, they have me for their leader, their helper, and their guide. And these people follow my example."
+"Đúng vậy, này Bà-la-môn, đúng vậy. Khi những người trong dòng tộc từ bỏ đời sống gia đình để trở thành người xuất gia không nhà cửa vì đức tin nơi ta, họ xem ta là người lãnh đạo, người giúp đỡ và người hướng dẫn của họ. Và những người này noi theo gương của ta."
 
-"But, Master Gotama, remote jungle-thicket resting places in the forest are hard to endure, seclusion is hard to practise, and it is hard to enjoy solitude. One would think the jungles must rob a bhikkhu of his mind, if he has no concentration." [17]
+"Nhưng, thưa thầy Gotama, những nơi ở ẩn sâu trong rừng rậm rất khó để chịu đựng, sống ẩn dật rất khó để thực hành, và rất khó để tận hưởng sự cô tịch. Người ta có thể nghĩ rằng rừng rậm hẳn sẽ cướp đi tâm trí của một vị tỳ kheo (bhikkhu), nếu vị ấy không có định tâm." [17]
 
-"That is so, brahmin, that is so. Remote jungle-thicket resting places in the forest are hard to endure, seclusion is hard to practise, and it is hard to enjoy solitude. One would think the jungles must rob a bhikkhu of his mind, if he has no concentration.
+"Đúng vậy, này Bà-la-môn, đúng vậy. Những nơi ở ẩn sâu trong rừng rậm rất khó để chịu đựng, sống ẩn dật rất khó để thực hành, và rất khó để tận hưởng sự cô tịch. Người ta có thể nghĩ rằng rừng rậm hẳn sẽ cướp đi tâm trí của một vị tỳ kheo, nếu vị ấy không có định tâm."
 
-3. "Before my enlightenment, while I was still only an unenlightened Bodhisatta, I too considered thus: 'Remote jungle-thicket resting places in the forest are hard to endure...the jungles must rob a bhikkhu of his mind, if he has no concentration.'
+<!--pg-->
+3\.  "Trước khi ta giác ngộ, khi ta vẫn còn là một vị Bồ Tát (Bodhisatta) chưa giác ngộ, ta cũng đã suy nghĩ như vầy: 'Những nơi ở ẩn sâu trong rừng rậm rất khó để chịu đựng... rừng rậm hẳn sẽ cướp đi tâm trí của một vị tỳ kheo, nếu vị ấy không có định tâm.'"
 
-4. "I considered thus: 'Whenever recluses or brahmins unpurified in bodily conduct resort to remote jungle-thicket resting places in the forest, then owing to the defect of their unpurified bodily conduct these good recluses and brahmins evoke unwholesome fear and dread. But I do not resort to remote jun-
-gle-thicket resting places in the forest unpurified in bodily conduct. I am purified in bodily conduct. I resort to remote junglethicket resting places in the forest as one of the noble ones with bodily conduct purified.' Seeing in myself this purity of bodily conduct, I found great solace in dwelling in the forest.
+4\.  "Ta đã suy nghĩ như vầy: 'Bất cứ khi nào những ẩn sĩ hoặc Bà-la-môn có hành vi thân thể không thanh tịnh đến ở những nơi ẩn sâu trong rừng rậm, thì do khiếm khuyết về hành vi thân thể không thanh tịnh của họ, những ẩn sĩ và Bà-la-môn tốt này sẽ gợi lên nỗi sợ hãi và kinh hoàng không lành mạnh. Nhưng ta không đến ở những nơi ẩn sâu trong rừng rậm với hành vi thân thể không thanh tịnh. Ta có hành vi thân thể thanh tịnh. Ta đến ở những nơi ẩn sâu trong rừng rậm như một trong những bậc thánh nhân có hành vi thân thể thanh tịnh.' Nhìn thấy sự thanh tịnh trong hành vi thân thể của mình, ta tìm thấy sự an ủi lớn lao khi sống trong rừng."
 
-5-7. "I considered thus: 'Whenever recluses or brahmins unpurified in verbal conduct...unpurified in mental conduct...unpurified in livelihood resort to remote jungle-thicket resting places in the forest...they evoke unwholesome fear and dread. But...I am purified in livelihood. I resort to remote jungle-thicket resting places in the forest as one of the noble ones with livelihood purified.' Seeing in myself this purity of livelihood, I found great solace in dwelling in the forest.
+<!--pg-->
+5-7. "Ta đã suy nghĩ như vầy: 'Bất cứ khi nào những ẩn sĩ hoặc Bà-la-môn có hành vi lời nói không thanh tịnh... có hành vi tâm ý không thanh tịnh... có sinh kế không thanh tịnh đến ở những nơi ẩn sâu trong rừng rậm... họ sẽ gợi lên nỗi sợ hãi và kinh hoàng không lành mạnh. Nhưng... ta có sinh kế thanh tịnh. Ta đến ở những nơi ẩn sâu trong rừng rậm như một trong những bậc thánh nhân có sinh kế thanh tịnh.' Nhìn thấy sự thanh tịnh trong sinh kế của mình, ta tìm thấy sự an ủi lớn lao khi sống trong rừng."
 
-8. "I considered thus: 'Whenever recluses or brahmins who are covetous and full of lust...I am uncovetous...' [18]
+8\.  "Ta đã suy nghĩ như vầy: 'Bất cứ khi nào những ẩn sĩ hoặc Bà-la-môn tham lam và đầy dục vọng... ta không tham lam...' [18]
 
-9. "'...with a mind of ill will and intentions of hate...I have a mind of loving-kindness...'
+9\.  "'...với tâm sân hận (ill will) và ý định thù hằn... ta có tâm từ bi...'
 
-10. "'...overcome by sloth and torpor...I am without sloth and torpor...'
+10\.  "'...bị hôn trầm và thụy miên (sloth and torpor) chế ngự... ta không bị hôn trầm và thụy miên...'
 
-11. "'...overcome with restless and unpeaceful mind...I have a peaceful mind...'
+11\.  "'...bị trạo cử (restless) và tâm không an tịnh chế ngự... ta có tâm an tịnh...'
 
-12. "'...uncertain and doubting...I have gone beyond doubt...'
+12\.  "'...hoài nghi và do dự... ta đã vượt qua hoài nghi...'
 
-13. "'[19]... given to self-praise and disparagement of others...I am not given to self-praise and disparagement of others...'
+13\.  "'[19]... thích tự khen mình và chê bai người khác... ta không thích tự khen mình và chê bai người khác...'
 
-14. "'...subject to alarm and terror...I am free from trepidation...'
+14\.  "'...dễ bị hoảng sợ và kinh hãi... ta không còn sợ hãi...'
 
-15. "'...desirous of gain, honour, and renown...I have few wishes...'
+15\.  "'...ham muốn lợi lộc, danh vọng và tiếng tăm... ta ít ham muốn...'
 
-16. "'...lazy and wanting in energy...I am energetic...'
+16\.  "'...lười biếng và thiếu tinh tấn... ta tinh tấn...'
 
-17. "'...[20] unmindful and not fully aware...I am established in mindfulness...'
+17\.  "'...[20] thất niệm (unmindful) và không tỉnh giác... ta an trú trong chánh niệm...'
 
-18. "'...unconcentrated and with straying minds...I am possessed of concentration...'
+18\.  "'...không định tâm và tâm tán loạn... ta có định tâm...'
 
-19. "I considered thus: 'Whenever recluses or brahmins devoid of wisdom, drivellers, resort to remote jungle-thicket resting places in the forest, then owing to the defect of their being devoid of wisdom and drivellers these good recluses and brahmins evoke unwholesome fear and dread. But I do not resort to remote jungle-thicket resting places in the forest devoid of wisdom, a driveller. I am possessed of wisdom. [^58] I resort to remote jungle-thicket resting places in the forest as one of the noble
-ones possessed of wisdom.' Seeing in myself this possession of wisdom, I found great solace in dwelling in the forest.
+19\.  "Ta đã suy nghĩ như vầy: 'Bất cứ khi nào những ẩn sĩ hoặc Bà-la-môn không có trí tuệ, nói năng nhảm nhí, đến ở những nơi ẩn sâu trong rừng rậm, thì do khiếm khuyết về việc không có trí tuệ và nói năng nhảm nhí, những ẩn sĩ và Bà-la-môn tốt này sẽ gợi lên nỗi sợ hãi và kinh hoàng không lành mạnh. Nhưng ta không đến ở những nơi ẩn sâu trong rừng rậm mà không có trí tuệ, nói năng nhảm nhí. Ta có trí tuệ. [^58] Ta đến ở những nơi ẩn sâu trong rừng rậm như một trong những bậc thánh nhân có trí tuệ.' Nhìn thấy sự đầy đủ trí tuệ này của mình, ta tìm thấy sự an ủi lớn lao khi sống trong rừng."
 
-20. "I considered thus: 'There are the specially auspicious nights of the fourteenth, the fifteenth, and the eighth of the fortnight. [^59] Now what if, on such nights as these, I were to dwell in such awe-inspiring, horrifying abodes as orchard shrines, woodland shrines, and tree shrines? Perhaps I might encounter that fear and dread.' And later, on such specially auspicious nights as the fourteenth, the fifteenth, and the eighth of the fortnight, I dwelt in such awe-inspiring, horrifying abodes as orchard shrines, woodland shrines, and tree shrines. And while I dwelt there, a wild animal would come up to me, or a peacock [21] would knock off a branch, or the wind would rustle the leaves. I thought: 'What now if this is the fear and dread coming?' I thought: 'Why do I dwell always expecting fear and dread? What if I subdue that fear and dread while keeping the same posture that I am in when it comes upon me? ${ }^{\prime 60}$
+<!--pg-->
+20\.  "Ta đã suy nghĩ như vầy: 'Có những đêm đặc biệt tốt lành như ngày mười bốn, mười lăm và mùng tám âm lịch. [^59] Vậy thì, vào những đêm như thế này, ta sẽ đến ở những nơi đáng sợ, kinh hoàng như miếu thờ trong vườn cây, miếu thờ trong rừng, và miếu thờ dưới gốc cây? Có lẽ ta có thể gặp nỗi sợ hãi và kinh hoàng đó.' Và sau đó, vào những đêm đặc biệt tốt lành như ngày mười bốn, mười lăm và mùng tám âm lịch, ta đã đến ở những nơi đáng sợ, kinh hoàng như miếu thờ trong vườn cây, miếu thờ trong rừng, và miếu thờ dưới gốc cây. Và trong khi ta ở đó, một con thú hoang sẽ đến gần ta, hoặc một con công [21] sẽ làm rơi một cành cây, hoặc gió sẽ làm xào xạc lá cây. Ta nghĩ: 'Có lẽ đây là nỗi sợ hãi và kinh hoàng đang đến?' Ta nghĩ: 'Tại sao ta lại luôn sống trong sự mong đợi sợ hãi và kinh hoàng mà không gì khác? Sao ta không thử chế ngự nỗi sợ hãi và kinh hoàng đó bằng cách vẫn giữ nguyên tư thế mà ta đang ở khi nó đến với ta?' [^60]
 
-"While I walked, the fear and dread came upon me; I neither stood nor sat nor lay down till I had subdued that fear and dread. While I stood, the fear and dread came upon me; I neither walked nor sat nor lay down till I had subdued that fear and dread. While I sat, the fear and dread came upon me; I neither walked nor stood nor lay down till I had subdued that fear and dread. While I lay down, the fear and dread came upon me; I neither walked nor stood nor sat down till I had subdued that fear and dread.
+"Trong khi ta đang đi, nỗi sợ hãi và kinh hoàng ập đến với ta; ta không đứng, không ngồi, không nằm cho đến khi ta chế ngự được nỗi sợ hãi và kinh hoàng đó. Trong khi ta đang đứng, nỗi sợ hãi và kinh hoàng ập đến với ta; ta không đi, không ngồi, không nằm cho đến khi ta chế ngự được nỗi sợ hãi và kinh hoàng đó. Trong khi ta đang ngồi, nỗi sợ hãi và kinh hoàng ập đến với ta; ta không đi, không đứng, không nằm cho đến khi ta chế ngự được nỗi sợ hãi và kinh hoàng đó. Trong khi ta đang nằm, nỗi sợ hãi và kinh hoàng ập đến với ta; ta không đi, không đứng, không ngồi cho đến khi ta chế ngự được nỗi sợ hãi và kinh hoàng đó."
 
-21. "There are, brahmin', some recluses and brahmins who perceive day when it is night and night when it is day. I say that on their part this is an abiding in delusion. But I perceive night when it is night and day when it is day. Rightly speaking, were it to be said of anyone: 'A being not subject to delusion has appeared in the world for the welfare and happiness of many, out of compassion for the world, for the good, welfare, and happiness of gods and humans,' it is of me indeed that rightly speaking this should be said.
+<!--pg-->
+21\.  "Này Bà-la-môn, có một số ẩn sĩ và Bà-la-môn nhận thức ngày là đêm và đêm là ngày. Ta nói rằng về phần họ, đây là sự sống trong mê lầm (delusion). Nhưng ta nhận thức đêm là đêm và ngày là ngày. Nói một cách đúng đắn, nếu nói về một ai đó: 'Một chúng sinh không bị mê lầm đã xuất hiện trên thế gian vì lợi ích và hạnh phúc của nhiều người, vì lòng từ bi đối với thế gian, vì lợi ích, an lạc và hạnh phúc của chư thiên và loài người,' thì chính là nói về ta."
 
-22. "Tireless energy was aroused in me and unremitting mindfulness was established, my body was tranquil and untroubled, my mind concentrated and unified. [^61]
+<!--pg-->
+22\.  "Năng lượng không mệt mỏi đã được khơi dậy trong ta và chánh niệm không gián đoạn đã được thiết lập, thân thể ta an tịnh và không xao động, tâm ta định tĩnh và nhất tâm. [^61]
 
-23. "Quite secluded from sensual pleasures, secluded from unwholesome states, I entered upon and abided in the first
-jhāna, which is accompanied by applied and sustained thought, with rapture and pleasure born of seclusion. [^62]
+23\.  "Hoàn toàn xa lìa các dục lạc, xa lìa các trạng thái bất thiện, ta chứng nhập và an trú vào tầng thiền (jhāna) thứ nhất, một trạng thái có tầm và tứ (applied and sustained thought), với hỷ (rapture) và lạc (pleasure) sinh ra từ sự ly dục. [^62]
 
-24. "With the stilling of applied and sustained thought, I entered upon and abided in the second jhāna, which has selfconfidence and singleness of mind [22] without applied and sustained thought, with rapture and pleasure born of concentration.
+24\.  "Với sự lắng dịu của tầm và tứ, ta chứng nhập và an trú vào tầng thiền thứ hai, một trạng thái có sự tự tin và nhất tâm [22] không có tầm và tứ, với hỷ và lạc sinh ra từ định.
 
-25. "With the fading away as well of rapture, I abided in equanimity, and mindful and fully aware, still feeling pleasure with the body, I entered upon and abided in the third jhāna, on account of which noble ones announce: 'He has a pleasant abiding who has equanimity and is mindful.'
+25\.  "Với sự phai nhạt của hỷ, ta an trú vào xả (equanimity), chánh niệm và tỉnh giác, vẫn cảm thấy lạc bằng thân, ta chứng nhập và an trú vào tầng thiền thứ ba, mà các bậc thánh nhân gọi là: 'Vị ấy có một sự an trú dễ chịu, có xả và chánh niệm.'
 
-26. "With the abandoning of pleasure and pain, and with the previous disappearance of joy and grief, I entered upon and abided in the fourth jhāna, which has neither-pain-nor-pleasure and purity of mindfulness due to equanimity.
+26\.  "Với sự từ bỏ lạc và khổ, và với sự biến mất trước đó của hỷ và ưu, ta chứng nhập và an trú vào tầng thiền thứ tư, một trạng thái không có khổ-không có lạc và thanh tịnh của chánh niệm nhờ xả."
 
-27. "When my concentrated mind was thus purified, bright, unblemished, rid of imperfection, malleable, wieldy, steady, and attained to imperturbability, I directed it to knowledge of the recollection of past lives. [^63] I recollected my manifold past lives, that is, one birth, two births, three births, four births, five births, ten births, twenty births, thirty births, forty births, fifty births, a hundred births, a thousand births, a hundred thousand births, many aeons of world-contraction, many aeons of world-expansion, many aeons of world-contraction and expansion: 'There I was so named, of such a clan, with such an appearance, such was my nutriment, such my experience of pleasure and pain, such my life-term; and passing away from there, I reappeared elsewhere; and there too I was so named, of such a clan, with such an appearance, such was my nutriment, such my experience of pleasure and pain, such my life-term; and passing away from there, I reappeared here.' Thus with their aspects and particulars I recollected my manifold past lives.
+<!--pg-->
+27\.  "Khi tâm định tĩnh của ta được thanh tịnh, trong sáng, không tỳ vết, thoát khỏi ô nhiễm, nhu nhuyến, dễ sử dụng, vững chắc và đạt đến trạng thái bất động như vậy, ta hướng nó đến trí tuệ về sự hồi tưởng về các kiếp sống quá khứ (túc mạng minh). [^63] Ta nhớ lại vô số kiếp sống quá khứ của mình, đó là, một kiếp, hai kiếp, ba kiếp, bốn kiếp, năm kiếp, mười kiếp, hai mươi kiếp, ba mươi kiếp, bốn mươi kiếp, năm mươi kiếp, một trăm kiếp, một ngàn kiếp, một trăm ngàn kiếp, nhiều kiếp thế giới hoại, nhiều kiếp thế giới thành, nhiều kiếp thế giới hoại và thành: 'Ở đó ta có tên như vậy, thuộc dòng tộc như vậy, với hình dáng như vậy, thức ăn của ta như vậy, kinh nghiệm về lạc và khổ của ta như vậy, tuổi thọ của ta như vậy; và khi chết ở đó, ta tái sinh ở nơi khác; và ở đó ta cũng có tên như vậy, thuộc dòng tộc như vậy, với hình dáng như vậy, thức ăn của ta như vậy, kinh nghiệm về lạc và khổ của ta như vậy, tuổi thọ của ta như vậy; và khi chết ở đó, ta tái sinh ở đây.' Như vậy, với các khía cạnh và chi tiết, ta nhớ lại vô số kiếp sống quá khứ của mình."
 
-28. "This was the first true knowledge attained by me in the first watch of the night. Ignorance was banished and true knowledge arose, darkness was banished and light arose, as happens in one who abides diligent, ardent, and resolute.
+28\.  "Đây là trí tuệ chân thật đầu tiên mà ta đạt được trong canh đầu của đêm. Vô minh (ignorance) bị xua tan và trí tuệ chân thật khởi sinh, bóng tối bị xua tan và ánh sáng khởi sinh, như xảy ra với một người sống tinh tấn, nhiệt tâm và kiên định."
 
-29. "When my concentrated mind was thus purified, bright, unblemished, rid of imperfection, malleable, wieldy, steady, and attained to imperturbability, I directed it to knowledge of the passing away and reappearance of beings. [^64] With the divine eye,
-which is purified and surpasses the human, I saw beings passing away and reappearing, inferior and superior, fair and ugly, fortunate and unfortunate. I understood how beings pass on according to their actions thus: 'These worthy beings who were ill-conducted in body, speech, and mind, revilers of noble ones, wrong in their views, giving effect to wrong view in their actions, on the dissolution of the body, after death, have reappeared in a state of deprivation, in a bad destination, in perdition, even in hell; but these worthy beings who were well-conducted in body, [23] speech, and mind, not revilers of noble ones, right in their views, giving effect to right view in their actions, on the dissolution of the body, after death, have reappeared in a good destination, even in the heavenly world.' Thus with the divine eye, which is purified and surpasses the human, I saw beings passing away and reappearing, inferior and superior, fair and ugly, fortunate and unfortunate, and I understood how beings pass on according to their actions.
+<!--pg-->
+29\.  "Khi tâm định tĩnh của ta được thanh tịnh, trong sáng, không tỳ vết, thoát khỏi ô nhiễm, nhu nhuyến, dễ sử dụng, vững chắc và đạt đến trạng thái bất động như vậy, ta hướng nó đến trí tuệ về sự chết và tái sinh của chúng sinh (thiên nhãn minh). [^64] Với thiên nhãn (divine eye), thanh tịnh và vượt qua mắt người thường, ta thấy chúng sinh chết và tái sinh, thấp kém và cao quý, xinh đẹp và xấu xí, may mắn và bất hạnh. Ta hiểu cách chúng sinh trôi lăn theo nghiệp của họ như sau: 'Những chúng sinh có hành vi xấu ác về thân, khẩu, ý, phỉ báng các bậc thánh nhân, tà kiến, thực hiện hành động theo tà kiến, khi thân hoại mạng chung, đã tái sinh vào cõi dữ, ác thú, đọa xứ, thậm chí địa ngục; nhưng những chúng sinh có hành vi tốt đẹp về thân, [23] khẩu, ý, không phỉ báng các bậc thánh nhân, chánh kiến, thực hiện hành động theo chánh kiến, khi thân hoại mạng chung, đã tái sinh vào cõi thiện, thậm chí cõi trời.' Như vậy, với thiên nhãn, thanh tịnh và vượt qua mắt người thường, ta thấy chúng sinh chết và tái sinh, thấp kém và cao quý, xinh đẹp và xấu xí, may mắn và bất hạnh, và ta hiểu cách chúng sinh trôi lăn theo nghiệp của họ."
 
-30. "This was the second true knowledge attained by me in the second watch of the night. Ignorance was banished and true knowledge arose, darkness was banished and light arose, as happens in one who abides diligent, ardent, and resolute.
+30\.  "Đây là trí tuệ chân thật thứ hai mà ta đạt được trong canh giữa của đêm. Vô minh bị xua tan và trí tuệ chân thật khởi sinh, bóng tối bị xua tan và ánh sáng khởi sinh, như xảy ra với một người sống tinh tấn, nhiệt tâm và kiên định."
 
-31. "When my concentrated mind was thus purified, bright, unblemished, rid of imperfection, malleable, wieldy, steady, and attained to imperturbability, I directed it to knowledge of the destruction of the taints. I directly knew as it actually is: 'This is suffering'; I directly knew as it actually is: 'This is the origin of suffering'; I directly knew as it actually is: 'This is the cessation of suffering'; I directly knew as it actually is: 'This is the way leading to the cessation of suffering.' I directly knew as it actually is: 'These are the taints'; I directly knew as it actually is: 'This is the origin of the taints'; I directly knew as it actually is: 'This is the cessation of the taints'; I directly knew as it actually is: 'This is the way leading to the cessation of the taints. [^165]
+<!--pg-->
+31\.  "Khi tâm định tĩnh của ta được thanh tịnh, trong sáng, không tỳ vết, thoát khỏi ô nhiễm, nhu nhuyến, dễ sử dụng, vững chắc và đạt đến trạng thái bất động như vậy, ta hướng nó đến trí tuệ về sự diệt trừ các lậu hoặc (lậu tận minh). Ta trực tiếp biết như thật: 'Đây là khổ'; ta trực tiếp biết như thật: 'Đây là nguyên nhân của khổ'; ta trực tiếp biết như thật: 'Đây là sự chấm dứt khổ'; ta trực tiếp biết như thật: 'Đây là con đường dẫn đến sự chấm dứt khổ.' Ta trực tiếp biết như thật: 'Đây là các lậu hoặc'; ta trực tiếp biết như thật: 'Đây là nguyên nhân của các lậu hoặc'; ta trực tiếp biết như thật: 'Đây là sự chấm dứt các lậu hoặc'; ta trực tiếp biết như thật: 'Đây là con đường dẫn đến sự chấm dứt các lậu hoặc. [^165]
 
-32. "When I knew and saw thus, my mind was liberated from the taint of sensual desire, from the taint of being, and from the taint of ignorance. When it was liberated, there came the knowledge: 'It is liberated. [^166] I directly knew: 'Birth is destroyed, the holy life has been lived, what had to be done has been done, there is no more coming to any state of being. [^167]
+32\.  "Khi ta biết và thấy như vậy, tâm ta giải thoát khỏi lậu hoặc dục, lậu hoặc hữu, và lậu hoặc vô minh. Khi tâm được giải thoát, liền có trí tuệ: 'Tâm đã giải thoát. [^166] Ta trực tiếp biết: 'Sanh đã tận, phạm hạnh đã thành, việc cần làm đã làm, không còn trở lại trạng thái này nữa. [^167]
 
-33. "This was the third true knowledge attained by me in the third watch of the night. Ignorance was banished and true knowledge arose, darkness was banished and light arose, as happens in one who abides diligent, ardent, and resolute.
+33\.  "Đây là trí tuệ chân thật thứ ba mà ta đạt được trong canh cuối của đêm. Vô minh bị xua tan và trí tuệ chân thật khởi sinh, bóng tối bị xua tan và ánh sáng khởi sinh, như xảy ra với một người sống tinh tấn, nhiệt tâm và kiên định."
 
-34. "Now, brahmin, it might be that you think: 'Perhaps the recluse Gotama is not free from lust, hate, and delusion even today, which is why he still resorts to remote jungle-thicket resting places in the forest.' But you should not think thus. It is because I see two benefits that I still resort to remote jungle-thicket resting places in the forest: I see a pleasant abiding for myself here and now, and I have compassion for future generations." [^68]
+<!--pg-->
+34\.  "Này Bà-la-môn, có thể ông nghĩ: 'Có lẽ ẩn sĩ Gotama ngày nay vẫn chưa thoát khỏi tham, sân và si, đó là lý do tại sao ông ấy vẫn đến ở những nơi ẩn sâu trong rừng rậm.' Nhưng ông không nên nghĩ như vậy. Chính vì ta thấy hai lợi ích mà ta vẫn đến ở những nơi ẩn sâu trong rừng rậm: Ta thấy một sự an trú dễ chịu cho chính mình ngay trong hiện tại, và ta có lòng từ bi đối với các thế hệ tương lai." [^68]
 
-35. "Indeed, it is because Master Gotama is an Accomplished One, a Fully Enlightened One, that he has compassion for future generations. [24] Magnificent, Master Gotama! Magnificent, Master Gotama! Master Gotama has made the Dhamma clear in many ways, as though he were turning upright what had been overthrown, revealing what was hidden, showing the way to one who was lost, or holding up a lamp in the dark for those with eyesight to see forms. I go to Master Gotama for refuge and to the Dhamma and to the Sangha of bhikkhus. From today let Master Gotama remember me as a lay follower who has gone to him for refuge for life."
+35\.  "Thật vậy, chính vì thầy Gotama là một bậc Ứng Cúng (Accomplished One), một bậc Giác Ngộ Hoàn Toàn (Fully Enlightened One), mà Ngài có lòng từ bi đối với các thế hệ tương lai. [24] Thật tuyệt vời, thưa thầy Gotama! Thật tuyệt vời, thưa thầy Gotama! Thầy Gotama đã làm sáng tỏ Giáo Pháp (Dhamma) bằng nhiều cách, như thể Ngài đang dựng đứng lại những gì đã bị đổ, phơi bày những gì bị che giấu, chỉ đường cho người bị lạc, hoặc cầm đèn trong bóng tối cho những người có mắt để thấy các hình sắc. Con xin quy y thầy Gotama, quy y Giáo Pháp và quy y Tăng đoàn (Sangha) của các tỳ kheo. Từ hôm nay, xin thầy Gotama hãy nhớ đến con như một người cư sĩ đã quy y Ngài trọn đời."
+
+Từ ngữ:
+
+- Tỳ kheo / bhikkhu / monk / Nhà sư nam trong Phật giáo.
+- Định tâm / samādhi / concentration / Khả năng tập trung tư tưởng vào một đối tượng duy nhất.
+- Bồ Tát / bodhisatta /  bodhisattva / Người đang trên con đường tu tập để đạt giác ngộ hoàn toàn.
+- Thánh nhân / ariya / noble ones / Những người đã đạt được một trong bốn cấp độ giác ngộ.
+- Sân hận / byāpāda / ill will / Trạng thái tâm lý tiêu cực, bao gồm sự tức giận, thù hận và ác ý.
+- Tâm từ bi / mettā / loving-kindness / Tình yêu thương không điều kiện, mong muốn hạnh phúc cho tất cả chúng sinh.
+- Hôn trầm và thụy miên / thīna-middha / sloth and torpor / Trạng thái uể oải, lười biếng, thiếu năng lượng và buồn ngủ.
+- Trạo cử / uddhacca / restless / Trạng thái tâm lý không yên, bồn chồn, lo lắng.
+- Chánh niệm / sati / mindfulness / Khả năng ghi nhớ, chú ý và nhận biết rõ ràng những gì đang xảy ra trong hiện tại.
+- Dục lạc / kāma / sensual pleasures / Những thú vui liên quan đến năm giác quan (nhìn, nghe, ngửi, nếm, xúc chạm).
+- Thiền / jhāna / jhana / Trạng thái tập trung sâu của tâm, thường được chia thành bốn cấp độ (sơ thiền, nhị thiền, tam thiền, tứ thiền).
+- Tầm và tứ / vitakka-vicāra / applied and sustained thought / Suy nghĩ ban đầu hướng đến đối tượng thiền và suy nghĩ duy trì trên đối tượng đó.
+- Hỷ và lạc / pīti-sukha / rapture and pleasure / Cảm giác hân hoan, phấn khởi và cảm giác dễ chịu, thoải mái.
+- Xả / upekkhā / equanimity / Trạng thái tâm bình thản, không bị dao động bởi các cảm xúc tích cực hay tiêu cực.
+- Kiếp sống quá khứ / pubbenivāsa / past lives / Các kiếp sống trước đây của một người.
+- Vô minh / avijjā / Ignorance / Sự thiếu hiểu biết về Tứ diệu đế (Khổ, Tập, Diệt, Đạo).
+- Thiên nhãn / dibbacakkhu / divine eye / Khả năng nhìn thấy những điều vượt quá tầm nhìn của mắt thường, chẳng hạn như thấy được sự tái sinh của chúng sinh.
+- Lậu hoặc / āsava / taints / Những ô nhiễm tinh thần gây ra khổ đau và luân hồi, bao gồm dục lậu, hữu lậu và vô minh lậu.
+- Dục lậu / kāmāsava / taint of sensual desire / Sự ô nhiễm do ham muốn các dục lạc.
+- Hữu lậu / bhavāsava / taint of being / Sự ô nhiễm do ham muốn được tồn tại, được trở thành.
+- Vô minh lậu / avijjāsava / taint of ignorance / Sự ô nhiễm do thiếu hiểu biết về thực tại.
+- Ứng Cúng / arahant / Accomplished One / Bậc đã diệt trừ hoàn toàn các lậu hoặc, đạt được giác ngộ hoàn toàn.
+- Giác Ngộ Hoàn Toàn / sammā-sambuddha / Fully Enlightened One / Bậc tự mình giác ngộ, không cần thầy chỉ dạy.
+- Giáo Pháp / Dhamma /  Dharma / Lời dạy của Đức Phật, chân lý về thực tại.
+- Tăng đoàn / Saṅgha / Sangha / Cộng đồng các tu sĩ Phật giáo.

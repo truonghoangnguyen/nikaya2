@@ -47,7 +47,7 @@ với Ta, Tỷ-kheo đầu tiên đáng được kính nể hơn, và đáng đ�
 đưa đến cho Tỷ-kheo ấy, trong một thời gian lâu ngày, ít dục, biết đủ, khổ hạnh, dễ nuôi dưỡng, tinh
 cần, tinh tấn. Do vậy, này các Tỷ-kheo, hãy là người thừa tự Pháp của Ta, đừng là người thừa tự tài vật.
 
-<!--p1-->
+<!--pg-->
 Thế Tôn thuyết giảng như vậy. Nói xong, Thế Tôn từ chỗ ngồi đứng dậy, đi vào tịnh xá. Lúc ấy, Tôn giả
 Sariputta (Xá-lợi-phất), sau khi Thế Tôn đi chẳng bao lâu, liền gọi các Tỷ-kheo: "Này các Hiền giả Tỷ-
 kheo!" --"Thưa vâng Hiền giả", các Tỷ-kheo ấy vâng đáp Tôn giả Sariputta. Tôn giả Sariputta nói:
@@ -102,6 +102,7 @@ thọ Tỷ-kheo đáng được tán thán. Và họ không sống trong sự đ
 nặng về đọa lạc và dẫn đầu về viễn ly. Ðó là trường hợp thứ ba, các vị mới thọ Tỷ-kheo đáng được tán
 thán. Này chư Hiền, các vị mới thọ Tỷ-kheo do ba trường hợp này, đáng được tán thán.
 
+<!--pg-->
 Này chư Hiền, như vậy là những trường hợp vị Ðạo Sư sống viễn ly, các đệ tử tùy học viễn ly.
 
 Ở đây, này chư Hiền, tham là ác pháp, và sân cũng là ác pháp, có một con đường Trung đạo diệt trừ

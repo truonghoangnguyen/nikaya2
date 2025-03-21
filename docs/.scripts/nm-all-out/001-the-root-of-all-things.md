@@ -149,7 +149,7 @@ Vedas to Indra, Agni, etc., as the highest of the Vedic divinities. But accordin
 
 [^15]: Abhibhū. MA says this term is a designation for the nonpercipient realm, called thus because it vanquishes (abhibhavati) the four immaterial aggregates. The identification sounds contrived, especially because the word "abhibh ū " is a masculine singular noun. Elsewhere (MN 49.5) the word appears as part of Baka the Brahmā's claim to theocratic hegemony, yet MA rejects identifying the Abhibhū with Brahmā here as a redundancy.
 
-[^16]: This and the next three sections deal with conceiving in relation to the four immaterial planes of existence - the cosmological counterparts of the four immaterial meditative attainments. With $ 18 the division of conceiving by way of planes of existence is completed.
+[^16]: This and the next three sections deal with conceiving in relation to the four immaterial planes of existence - the cosmological counterparts of the four immaterial meditative attainments. With §18 the division of conceiving by way of planes of existence is completed.
 
 [^17]: In these four sections the phenomena comprising personality are considered as objects of perception classified into the four categories of the seen, heard, sensed, and cognized. Here, sensed (muta) signifies the data of smell, taste, and touch, cognized (viññāta) the data of introspection, abstract thought, and imagination. The objects of perception are "conceived" when they are cognized in terms of "mine," "I," and "self," or in ways that generate craving, conceit, and views.
 

@@ -3,7 +3,7 @@
 **18. KINH MẬT HOÀN**
 ***(Madhupindika Sutta)***
 
-## T ôi nghe như vầy:
+## Tôi nghe như vầy:
 
 Một thời, Thế Tôn sống giữa các vị dòng họ Sakka (Thích-ca), tại Kapilavatthu (Ca-tỳ-la-vệ), ở vườn
 Nigrodharama.
@@ -44,13 +44,13 @@ tay Sakka lắc đầu, liếm lưỡi, với trán nổi lên ba đường nhă
 
 Khi nghe nói vậy, một Tỷ-kheo bạch Thế Tôn:
 
+<!--pg-->
 -- Nhưng bạch Thế Tôn, lời dạy ấy là gì mà Thế Tôn, trong thế giới với chư Thiên, Mara và Phạm thiên,
 với các chúng Sa-môn, Bà-la-môn, chư Thiên và loài Người, không có tranh luận một ai ở đời? Các
 tưởng sẽ không ám ảnh Thế Tôn, vị đã sống không bị dục triền phược, không có nghi ngờ do dự, với
 mọi hối quá đoạn diệt, không có tham ái đối với hữu và phi hữu?
 
 -- Này Tỷ-kheo, do bất cứ nhân duyên gì, một số hý luận vọng tưởng ám ảnh một người. Nếu ở đây
-
 không có gì đáng tùy hỷ, đáng đón mừng, đáng chấp thủ, thời như vậy là sự đoạn tận tham tùy miên, sự
 đoạn tận sân tùy miên, sự đoạn tận kiến tùy miên, sự đoạn tận nghi tùy miên, sự đoạn tận mạn tùy miên,
 sự đoạn tận hữu tham tùy miên, sự đoạn tận vô minh tùy miên, sự đoạn tận chấp trượng, chấp kiếm, đấu
@@ -84,6 +84,7 @@ Mahakaccana có thể giải thích rộng rãi ý nghĩa lời giảng dạy đ
 không giải thích rõ ràng ý nghĩa. Vậy chúng ta hãy đi đến chỗ Tôn giả Mahakaccana ở, sau khi đến,
 chúng ta hỏi Tôn giả Mahakaccana ý nghĩa này. Tôn giả Mahakaccana sẽ giải thích cho".
 
+<!--pg-->
 -- Chư Hiền, cũng như một người ưa thích lõi cây, tìm tòi lõi cây, đi khắp mọi nơi tìm lõi cây, đến một
 cây to lớn, đứng thẳng và có lõi cây. Người này bỏ qua rễ, bỏ qua thân cây, nghĩ rằng phải tìm lõi cây ở
 nơi cành lá. Cũng vậy là hành động của chư Tôn giả, đứng trước mặt Thế Tôn, quý vị bỏ qua Thế Tôn,
@@ -106,10 +107,12 @@ không giải thích rõ ràng ý nghĩa. Mong Tôn giả Mahakaccana hãy giả
 
 Các Tỷ-kheo ấy vâng đáp Tôn giả Mahakaccana. Tôn giả Mahakaccana giảng như sau:
 
+<!--pg-->
 -- Chư Hiền, Thế Tôn nói lên một cách vắn tắt lời dạy này... và đã đi vào tịnh xá: "Này Tỷ-kheo bất cứ
 vì nhân duyên gì... không còn dư tàn". Chư Hiền, với lời dạy được Thế Tôn nói lên một cách vắn tắt, và
 không giải thích rõ ràng ý nghĩa. Tôi hiểu ý nghĩa một cách đầy đủ như sau:
 
+<!--pg-->
 Chư Hiền, do nhơn con mắt và các sắc pháp, nhãn thức khởi lên. Sự gặp gỡ của ba pháp này là xúc. Do
 duyên xúc nên có cảm thọ. Những gì có cảm thọ thời có tưởng, những gì có tưởng thời có suy tầm,
 những gì có suy tầm thì có hý luận. Do hý luận ấy làm nhơn, một số hý luận vọng tưởng ám ảnh một
@@ -153,6 +156,7 @@ nghĩa lý không được giải thích một cách rộng rãi, tôi đã hi�
 quý vị muốn, hãy đi đến chỗ Thế Tôn ở, sau khi đến, hãy hỏi ý nghĩa này. Thế Tôn giải đáp như thế nào,
 hãy như vậy thọ trì.
 
+<!--pg-->
 Rồi những Tỷ-kheo ấy, hoan hỷ, tùy hỷ lời Tôn giả Mahakaccana nói, từ chỗ ngồi đứng dậy, đi đến chỗ
 Thế Tôn ở, sau khi đến đảnh lễ Ngài và ngồi xuống một bên. Sau khi ngồi xuống một bên, các Tỷ-kheo
 ấy bạch Thế Tôn:

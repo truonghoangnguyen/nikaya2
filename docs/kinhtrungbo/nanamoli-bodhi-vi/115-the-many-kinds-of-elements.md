@@ -9,7 +9,7 @@
 
 "When, Ānanda, a bhikkhu is skilled in the elements, skilled in the bases, skilled in dependent origination, skilled in what is possible and what is impossible, in that way he can be called a wise man and an inquirer."
 
-## (THE ELEMENTS)
+#### (THE ELEMENTS)
 
 4. "But, venerable sir, in what way can a bhikkhu be called skilled in the elements?"
 
@@ -42,7 +42,7 @@ the immaterial element. When he knows and sees these three elements, a bhikkhu c
 
 "There are, Ānanda, these six internal and external bases: the eye and forms, the ear and sounds, the nose and odours, the tongue and flavours, the body and tangibles, the mind and mind-objects. [^1082] When he knows and sees these six internal and external bases, a bhikkhu can be called skilled in the bases."
 
-## (DEPENDENT ORIGINATION)
+#### (DEPENDENT ORIGINATION)
 
 11. "But, venerable sir, in what way can a bhikkhu be called skilled in dependent origination?"1083
 
@@ -51,7 +51,7 @@ the immaterial element. When he knows and sees these three elements, a bhikkhu c
 "'But with the remainderless fading away and cessation of ignorance comes cessation of formations; with the cessation of formations, cessation of consciousness; with the cessation of
 consciousness, cessation of mentality-materiality; with the cessation of mentality-materiality, cessation of the sixfold base; with the cessation of the sixfold base, cessation of contact; with the cessation of contact, cessation of feeling; with the cessation of feeling, cessation of craving; with the cessation of craving, cessation of clinging; with the cessation of clinging, cessation of being; with the cessation of being, cessation of birth; with the cessation of birth, ageing and death, sorrow, lamentation, pain, grief, and despair cease. Such is the cessation of this whole mass of suffering.' In this way, Ānanda, a bhikkhu can be called skilled in dependent origination."
 
-## (THE POSSIBLE AND THE IMPOSSIBLE)
+#### (THE POSSIBLE AND THE IMPOSSIBLE)
 
 12. "But, venerable sir, in what way can a bhikkhu be called skilled in what is possible and what is impossible?"
 
@@ -73,7 +73,7 @@ might be produced from good bodily conduct...from good verbal conduct...from goo
 
 "In this way, Ānanda, a bhikkhu can be called skilled in what is possible and what is impossible."
 
-## (CONCLUSION)
+#### (CONCLUSION)
 
 19. When this was said, the venerable Ānanda said to the Blessed One: "It is wonderful, venerable sir, it is marvellous! What is the name of this discourse on the Dhamma?"
 

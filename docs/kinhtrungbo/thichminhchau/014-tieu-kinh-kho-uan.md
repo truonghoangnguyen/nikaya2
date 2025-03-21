@@ -18,6 +18,7 @@ tâm con và an trú, các sân pháp chiếm cứ tâm con và an trú, các si
 Bạch Thế Tôn, con tự suy nghĩ: "Pháp nào tự trong ta không đoạn trừ được, do vậy các tham pháp xâm
 nhập tâm ta và an trú, các sân pháp xâm nhập tâm ta và an trú, các si pháp xâm nhập tâm ta và an trú?"
 
+<!--pg-->
 -- Này Mahànàma, có một pháp trong Ông chưa được đoạn trừ, do vậy các tham pháp xâm nhập tâm
 Ông và an trú, các sân pháp xâm nhập tâm Ông và an trú, các si pháp xâm nhập tâm Ông và an trú. Và
 này Mahànàma, pháp ấy trong Ông có thể đoạn trừ được, nếu Ông không sống trong gia đình, nếu Ông
@@ -32,6 +33,7 @@ các dục chi phối. Này Mahànàma, khi nào vị Thánh đệ tử khéo th
 do ly dục, ly ác bất thiện pháp sanh hay một pháp nào cao thượng hơn, như vậy vị ấy không bị các dục
 chi phối.
 
+<!--pg-->
 Này Mahànàma, thuở xưa, khi Ta còn là Bồ-tát, chưa chứng được Bồ-đề, chưa thành Chánh Ðẳng
 Chánh Giác, Ta khéo thấy với như thật chánh trí tuệ: "Các dục vui ít, khổ nhiều, não nhiều, sự nguy
 hiểm ở đây lại nhiều hơn", dầu Ta có thấy với như thật chánh trí tuệ như vậy, nhưng Ta chưa chứng
@@ -48,9 +50,9 @@ khả ái, khả lạc, khả hỷ, tương ưng với dục, hấp dẫn. Này 
 như vậy. Này Mahànàma, y cứ vào năm pháp tăng trưởng các dục này, có lạc và hỷ khởi lên, như vậy là
 vị ngọt các dục.
 
+<!--pg-->
 Và này Mahànàma, thế nào là sự nguy hiểm các dục? Ở đây, này Mahànàma, có thiện nam tử nuôi sống
 với nghề nghiệp, như đếm ngón tay, như tính toán, như ước toán, như làm ruộng, như buôn bán, như
-
 chăn bò, như bắn cung, như làm công cho vua, như làm một nghề nào khác. Người ấy phải chống đỡ
 lạnh, phải chống đỡ nóng, phải chịu đựng sự xúc chạm của ruồi, muỗi, gió, sức nóng, mặt trời, các loài
 bò sát, bị chết đói chết khát. Này Mahànàma, như vậy là sự nguy hiểm các dục, thiết thực hiện tại, thuộc
@@ -102,7 +104,6 @@ hành hình (lấy rơm bện lại rồi siết chặt)... bì y hình (lấy v
 dê núi)... câu nhục hình (lấy câu móc vào thịt)... tiền hình (cắt thịt thành hình đồng tiền)... khối trấp
 hình... chuyển hình... cao đạp đài... họ tưới bằng dầu sôi, họ cho chó ăn, họ đóng cọc những người sống,
 họ lấy gươm chặt đầu. Ở đây họ đi đến tử vong, đi đến sự đau khổ gần như tử vong.Này Mahànàma, như
-
 vậy là sự nguy hiểm của dục... (như trên)... là nguyên nhân của dục.
 
 Lại nữa, này Mahànàma, do dục làm nhân... do chính dục làm nhân, họ sống làm các ác hạnh về thân,
@@ -111,6 +112,7 @@ về lời nói, làm các ác hạnh về ý, khi thân hoại mạng chung, h�
 Này Mahànàma, như vậy là sự nguy hiểm các dục, đưa đến đau khổ tương lai, là khổ uẩn, do dục làm
 nhân, do dục làm duyên, do dục làm nhân duyên, do chính dục làm nhân.
 
+<!--pg-->
 Này Mahànàma, một thời Ta ở tại Rajagaha (Vương Xá), trên núi Gijjhakuta (Linh Thứu). Lúc bấy giờ,
 rất nhiều Nigantha (Ni-kiền Tử) tại sườn núi Isigili, trên Kalasila (Hắc Nham), đứng thẳng người, không
 chịu ngồi và cảm giác những cảm thọ thống thiết, khổ đau, khốc liệt, bén nhạy. Này Mahànàma, rồi Ta
@@ -129,6 +131,7 @@ trừ; do nghiệp được diệt trừ, khổ được diệt trừ; do khổ 
 được diệt trừ, tất cả khổ đau sẽ được tiêu mòn'. Và vì chúng tôi chấp nhận điều ấy, và chúng tôi kham
 nhẫn điều ấy, nên chúng tôi được hoan hỷ."
 
+<!--pg-->
 Này Mahànàma, khi được nói vậy Ta nói với các Nigantha ấy như sau: "Chư Hiền Nigantha, các Ngươi
 có biết chăng, trong quá khứ, các Ngươi có mặt hay các Ngươi không có mặt?" --"Thưa Hiền giả, chúng
 tôi không biết." --" Chư Hiền Nigantha, các Ngươi có biết chăng, trong quá khứ, các Ngươi không làm
@@ -150,6 +153,7 @@ Chư Hiền Nigantha, sự kiện là như vậy thì những kẻ săn bắn �
 nghiệp hung dữ, được tái sanh trong loài người, những hạng ấy có xuất gia trong hàng ngũ Nigantha các
 Ngươi không?"
 
+<!--pg-->
 --"Hiền giả Gotama, hạnh phúc không có thể thành tựu nhờ hạnh phúc. Hạnh phúc phải thành tựu nhờ
 đau khổ. Hiền giả Gotama, nếu hạnh phúc có thể thành tựu nhờ hạnh phúc thì vua Magadha Seniya
 Bimbisara (Tần-bà-ta-la) có thể đạt được hạnh phúc, và vua Magadha Seniya Bimbisara sống hạnh phúc

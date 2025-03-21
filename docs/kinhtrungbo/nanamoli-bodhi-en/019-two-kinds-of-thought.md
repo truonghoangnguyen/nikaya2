@@ -9,10 +9,12 @@
 
 4-5. "As I abided thus, diligent, ardent, and resolute, a thought of ill will arose in me...a thought of cruelty arose in me. I understood thus: 'This thought of cruelty has arisen in me. This leads to my own affliction, to others' affliction, and to the affliction of both; it obstructs wisdom, causes difficulties, and leads away from Nibbāna.' When I considered thus...it subsided in me. Whenever a thought of cruelty arose in me, I abandoned it, removed it, did away with it.
 
+<!--pg-->
 6\. "Bhikkhus, whatever a bhikkhu frequently thinks and ponders upon, that will become the inclination of his mind. If he frequently thinks and ponders upon thoughts of sensual desire, he has abandoned the thought of renunciation to cultivate the thought of sensual desire, and then his mind inclines to thoughts of sensual desire. If he frequently thinks and ponders upon thoughts of ill will...upon thoughts of cruelty, he has abandoned the thought of non-cruelty to cultivate the thought of cruelty, and then his mind inclines to thoughts of cruelty.
 
 7\. "Just as in the last month of the rainy season, in the autumn, when the crops thicken, a cowherd would guard his cows by constantly tapping and poking them on this side and that with a stick to check and curb them. Why is that? Because he sees that he could be flogged, imprisoned, fined, or blamed [if he let them stray into the crops]. So too I saw in unwholesome states danger, degradation, and defilement, and in wholesome states the blessing of renunciation, the aspect of cleansing. [116]
 
+<!--pg-->
 8\. "As I abided thus, diligent, ardent, and resolute, a thought of renunciation arose in me. I understood thus: 'This thought of renunciation has arisen in me. This does not lead to my own affliction, or to others' affliction, or to the affliction of both; it aids wisdom, does not cause difficulties, and leads to Nibbāna. If I think and ponder upon this thought even for a night, even for a day, even for a night and day, I see nothing to fear from it. But with excessive thinking and pondering I might tire my body, and when the body is tired, the mind becomes disturbed, and when the mind is disturbed, it is far from concentration.' So I steadied my mind internally, quieted it, brought it to singleness, and concentrated it. Why is that? So that my mind should not be disturbed. [^237]
 
 9-10. "As I abided thus, diligent, ardent, and resolute, a thought of non-ill will arose in me...a thought of non-cruelty arose in me. I understood thus: 'This thought of non-cruelty has arisen in me. This does not lead to my own affliction, or to others' affliction, or to the affliction of both; it aids wisdom, does not cause difficulties, and leads to Nibbāna. If I think and ponder upon this thought even for a night, even for a day, even for a night and day, I see nothing to fear from it. But with excessive thinking and pondering I might tire my body, and when the body is tired, the mind becomes disturbed, and when the mind
@@ -22,12 +24,14 @@ is disturbed, it is far from concentration.' So I steadied my mind internally, q
 
 12\. "Just as in the last month of the hot season, when all the crops have been brought inside the villages, [117] a cowherd would guard his cows while staying at the root of a tree or out in the open, since he needs only to be mindful that the cows are there; so too, there was need for me only to be mindful that those states were there.
 
+<!--pg-->
 13\. "Tireless energy was aroused in me and unremitting mindfulness was established, my body was tranquil and untroubled, my mind concentrated and unified.
 
 14-23. "Quite secluded from sensual pleasures, secluded from unwholesome states, I entered upon and abided in the first jhāna...(as Sutta 4, §§23-32)...I directly knew: 'Birth is destroyed, the holy life has been lived, what had to be done has been done, there is no more coming to any state of being.'
 
 24\. "This was the third true knowledge attained by me in the third watch of the night. Ignorance was banished and true knowledge arose, darkness was banished and light arose, as happens in one who abides diligent, ardent, and resolute.
 
+<!--pg-->
 25\. "Suppose, bhikkhus, that in a wooded range there was a great low-lying marsh near which a large herd of deer lived. Then a man appeared desiring their ruin, harm, and bondage, and he closed off the safe and good path that led to their happiness, and he opened up a false path, and he put out a decoy and set up a dummy so that the large herd of deer might later come upon calamity, disaster, and loss. But another man came desiring their good, welfare, and protection, and he reopened the safe and good path that led to their happiness, and he closed off the false path, and he removed the decoy and destroyed the
 dummy, so that the large herd of deer might later come to growth, increase, and fulfilment.
 

@@ -19,7 +19,7 @@
 
 7\. "Venerable sir, how is mindfulness of breathing developed and cultivated, so that it is of great fruit and great benefit?"
 
-## (THE FOUR GREAT ELEMENTS)
+#### (THE FOUR GREAT ELEMENTS)
 
 8\. "Rāhula, [^643] whatever internally, belonging to oneself, is solid, solidified, and clung-to, that is, head-hairs, body-hairs, nails, teeth, skin, flesh, sinews, bones, bone-marrow, kidneys, heart, liver, diaphragm, spleen, lungs, large intestines, small intestines, contents of the stomach, feces, or whatever else internally, belonging to oneself, is solid, solidified, and clung-to: this is called the internal earth element. Now both the internal earth element and the external earth element are simply earth element. And that should be seen as it actually is with proper wisdom thus: 'This is not mine, this I am not, this is not my self.' [422] When one sees it thus as it actually is with proper wisdom, one becomes disenchanted with the earth element and makes the mind dispassionate towards the earth element.
 
@@ -68,6 +68,6 @@ you develop meditation on compassion, any cruelty will be abandoned.
 
 29\. "He trains thus: 'I shall breathe in contemplating impermanence'; he trains thus: 'I shall breathe out contemplating impermanence.' He trains thus: 'I shall breathe in contemplating fading away'; he trains thus: 'I shall breathe out contemplating fading away.' He trains thus: 'I shall breathe in contemplating cessation'; he trains thus: 'I shall breathe out contemplating cessation.' He trains thus: 'I shall breathe in contemplating relinquishment'; he trains thus: 'I shall breathe out contemplating relinquishment.'
 
-30\. "Rāhula, that is how mindfulness of breathing is developed and cultivated, so that it is of great fruit and great benefit. When mindfulness of breathing is developed and cultivated in this way, [426] even the final in-breaths and out-breaths are known as they cease, not unknown." ${ }^{\prime 647}$
+30\. "Rāhula, that is how mindfulness of breathing is developed and cultivated, so that it is of great fruit and great benefit. When mindfulness of breathing is developed and cultivated in this way, [426] even the final in-breaths and out-breaths are known as they cease, not unknown." [^647]
 
 That is what the Blessed One said. The venerable Rāhula was satisfied and delighted in the Blessed One's words.

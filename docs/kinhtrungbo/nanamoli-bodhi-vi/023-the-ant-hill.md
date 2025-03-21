@@ -1,56 +1,75 @@
-# 23 The Ant-hill
+# 23. Tổ Kiến
 ***(Vammika Sutta)***
 
-1. Thus have I heard. On one occasion the Blessed One was living at Sāvatthī in Jeta's Grove, Anāthapiṇ̣ika's Park. Now on that occasion the venerable Kumāra Kassapa was living in the Blind Men's Grove. [^275]
+1\. Tôi nghe như vầy. Một lần nọ, Đức Phật (The Blessed One - bậc đáng kính, thường dùng để chỉ Đức Phật) đang ở tại Sāvatthī, trong khu rừng Jeta, vườn của ông Anāthapiṇika. Lúc đó, ngài Kumāra Kassapa đang ở trong khu rừng của Người Mù. [^275]
 
-Then, when the night was well advanced, a certain deity of beautiful appearance who illuminated the whole of the Blind Men's Grove approached the venerable Kumāra Kassapa and stood at one side. [^276] So standing, the deity said to him:
+Rồi, khi đêm đã khuya, một vị thần có vẻ ngoài xinh đẹp, tỏa sáng cả khu rừng của Người Mù, đến gặp ngài Kumāra Kassapa và đứng sang một bên. [^276] Đứng đó, vị thần nói với ngài:
 
-2. "Bhikkhu, bhikkhu, this ant-hill fumes by night and flames by day. [^277]
+2\. "Tỳ kheo (Bhikkhu - nhà sư), tỳ kheo, tổ kiến này ban đêm bốc khói, ban ngày bốc lửa. [^277]
 
-"Thus spoke the brahmin: 'Delve with the knife, thou wise one.' Delving with the knife, the wise one saw a bar: 'A bar, O venerable sir.'
+"Vị Bà La Môn (brahmin - người thuộc tầng lớp tu sĩ) nói: 'Hãy đào bằng dao, hỡi người trí tuệ.' Đào bằng dao, người trí tuệ thấy một thanh chắn: 'Một thanh chắn, thưa ngài.'
 
-"Thus spoke the brahmin: 'Throw out the bar; delve with the knife, thou wise one.' Delving with the knife, the wise one saw a toad: 'A toad, O venerable sir.'
+"Vị Bà La Môn nói: 'Vứt thanh chắn đi; hãy đào bằng dao, hỡi người trí tuệ.' Đào bằng dao, người trí tuệ thấy một con cóc: 'Một con cóc, thưa ngài.'
 
-"Thus spoke the brahmin: 'Throw out the toad; delve with the knife, thou wise one.' Delving with the knife, the wise one saw a fork: 'A fork, O venerable sir.'
+"Vị Bà La Môn nói: 'Vứt con cóc đi; hãy đào bằng dao, hỡi người trí tuệ.' Đào bằng dao, người trí tuệ thấy một cái nĩa: 'Một cái nĩa, thưa ngài.'
 
-"Those spoke the brahmin: 'Throw out the fork; delve with the knife, thou wise one.' Delving with the knife, the wise one saw a sieve: 'A sieve, O venerable sir.'
+"Vị Bà La Môn nói: 'Vứt cái nĩa đi; hãy đào bằng dao, hỡi người trí tuệ.' Đào bằng dao, người trí tuệ thấy một cái sàng: 'Một cái sàng, thưa ngài.'
 
-"Thus spoke the brahmin: [143] 'Throw out the sieve; delve with the knife, thou wise one.' Delving with the knife, the wise one saw a tortoise: 'A tortoise, O venerable sir.'
+"Vị Bà La Môn nói: [143] 'Vứt cái sàng đi; hãy đào bằng dao, hỡi người trí tuệ.' Đào bằng dao, người trí tuệ thấy một con rùa: 'Một con rùa, thưa ngài.'
 
-"Thus spoke the brahmin: 'Throw out the tortoise; delve with the knife, thou wise one.' Delving with the knife, the wise one saw an axe and block: 'An axe and block, O venerable sir.'
-"Thus spoke the brahmin: 'Throw out the axe and block; delve with the knife, thou wise one.' Delving with the knife, the wise one saw a piece of meat: 'A piece of meat, O venerable sir.'
+"Vị Bà La Môn nói: 'Vứt con rùa đi; hãy đào bằng dao, hỡi người trí tuệ.' Đào bằng dao, người trí tuệ thấy một cái rìu và thớt: 'Một cái rìu và thớt, thưa ngài.'
 
-"Thus spoke the brahmin: 'Throw out the piece of meat; delve with the knife, thou wise one.' Delving with the knife, the wise one saw a Nāga serpent: 'A Nāga serpent, O venerable sir.'
+"Vị Bà La Môn nói: 'Vứt cái rìu và thớt đi; hãy đào bằng dao, hỡi người trí tuệ.' Đào bằng dao, người trí tuệ thấy một miếng thịt: 'Một miếng thịt, thưa ngài.'
 
-"Thus spoke the brahmin: 'Leave the Nāga serpent; do not harm the Nāga serpent; honour the Nāga serpent.'
+"Vị Bà La Môn nói: 'Vứt miếng thịt đi; hãy đào bằng dao, hỡi người trí tuệ.' Đào bằng dao, người trí tuệ thấy một con rắn Nāga: 'Một con rắn Nāga, thưa ngài.'
 
-"Bhikkhu, you should go to the Blessed One and ask him about this riddle. As the Blessed One tells you, so should you remember it. Bhikkhu, other than the Tathāgata or a disciple of the Tathāgata or one who has learned it from them, I see no one in this world with its gods, its Māras, and its Brahmās, in this generation with its recluses and brahmins, its princes and its people, whose explanation of this riddle might satisfy the mind."
+"Vị Bà La Môn nói: 'Hãy để con rắn Nāga yên; đừng làm hại con rắn Nāga; hãy tôn kính con rắn Nāga.'
 
-That is what was said by the deity, who thereupon vanished at once.
+"Tỳ kheo, ông nên đến gặp Đức Phật và hỏi ngài về câu đố này. Đức Phật nói với ông như thế nào, ông nên ghi nhớ như vậy. Tỳ kheo, ngoài Như Lai (Tathāgata - một danh hiệu khác của Đức Phật) hoặc đệ tử của Như Lai hoặc người đã học được điều đó từ họ, tôi không thấy ai trong thế giới này với các vị thần, Ma vương (Māras) và Phạm Thiên (Brahmās), trong thế hệ này với các ẩn sĩ và Bà La Môn, các hoàng tử và người dân, mà lời giải thích về câu đố này có thể làm hài lòng tâm trí."
 
-3. Then, when the night was over, the venerable Kumāra Kassapa went to the Blessed One. After paying homage to him, he sat down at one side and told the Blessed One what had occurred. Then he asked: "Venerable sir, what is the ant-hill, what the fuming by night, what the flaming by day? Who is the brahmin, who the wise one? What is the knife, what the delving, what the bar, what the toad, what the fork, what the sieve, what the tortoise, what the axe and block, what the piece of meat, what the Nāga serpent?" [144]
+Đó là những gì vị thần nói, sau đó biến mất ngay lập tức.
 
-4. "Bhikkhu, the ant-hill is a symbol for this body, made of material form, consisting of the four great elements, procreated by a mother and father, built up out of boiled rice and porridge, [^278] and subject to impermanence, to being worn and rubbed away, to dissolution and disintegration.
+3\. Sau đó, khi đêm đã qua, ngài Kumāra Kassapa đến gặp Đức Phật. Sau khi đảnh lễ ngài, ngài ngồi xuống một bên và kể cho Đức Phật nghe những gì đã xảy ra. Rồi ngài hỏi: "Bạch Thế Tôn, tổ kiến là gì, bốc khói ban đêm là gì, bốc lửa ban ngày là gì? Ai là Bà La Môn, ai là người trí tuệ? Cái dao là gì, việc đào là gì, thanh chắn là gì, con cóc là gì, cái nĩa là gì, cái sàng là gì, con rùa là gì, cái rìu và thớt là gì, miếng thịt là gì, con rắn Nāga là gì?" [144]
 
-"What one thinks and ponders by night based upon one's actions during the day is the 'fuming by night.'
+4\. "Này tỳ kheo, tổ kiến là biểu tượng cho thân thể này, được tạo thành từ vật chất (sắc), bao gồm bốn yếu tố chính (đất, nước, gió, lửa), được sinh ra bởi cha mẹ, lớn lên nhờ cơm gạo, [^278] và chịu sự vô thường (không স্থায়ী), bị hao mòn, tan rã và phân hủy.
 
-"The actions one undertakes during the day by body, speech, and mind after thinking and pondering by night is the 'flaming by day.'
+"Những gì người ta suy nghĩ và nghiền ngẫm vào ban đêm dựa trên những hành động của mình vào ban ngày là 'bốc khói ban đêm.'
 
-"The brahmin is a symbol for the Tathāgata, accomplished and fully enlightened. The wise one is a symbol for a bhikkhu in higher training. The knife is a symbol for noble wisdom. The delving is a symbol for the arousing of energy.
-"The bar is a symbol for ignorance. [^279] 'Throw out the bar: abandon ignorance. Delve with the knife, thou wise one.' This is the meaning.
+"Những hành động mà người ta thực hiện vào ban ngày bằng thân, khẩu và ý sau khi suy nghĩ và nghiền ngẫm vào ban đêm là 'bốc lửa ban ngày.'
 
-"The toad is a symbol for the despair due to anger. 'Throw out the toad: abandon despair due to anger. Delve with the knife, thou wise one.' This is the meaning.
+"Bà La Môn là biểu tượng cho Như Lai, bậc giác ngộ hoàn toàn. Người trí tuệ là biểu tượng cho một tỳ kheo đang tu tập. Cái dao là biểu tượng cho trí tuệ cao quý. Việc đào là biểu tượng cho sự nỗ lực.
 
-"The fork is a symbol for doubt. [^280] 'Throw out the fork: abandon doubt. Delve with the knife, thou wise one.' This is the meaning.
+"Thanh chắn là biểu tượng cho vô minh (ignorance - sự thiếu hiểu biết). [^279] 'Vứt thanh chắn đi: từ bỏ vô minh. Hãy đào bằng dao, hỡi người trí tuệ.' Đây là ý nghĩa.
 
-"The sieve is a symbol for the five hindrances, namely, the hindrance of sensual desire, the hindrance of ill will, the hindrance of sloth and torpor, the hindrance of restlessness and remorse, and the hindrance of doubt. 'Throw out the sieve: abandon the five hindrances. Delve with the knife, thou wise one.' This is the meaning.
+"Con cóc là biểu tượng cho sự tuyệt vọng do tức giận. 'Vứt con cóc đi: từ bỏ sự tuyệt vọng do tức giận. Hãy đào bằng dao, hỡi người trí tuệ.' Đây là ý nghĩa.
 
-"The tortoise is a symbol for the five aggregates affected by clinging, [^281] namely, the material form aggregate affected by clinging, the feeling aggregate affected by clinging, the perception aggregate affected by clinging, the formations aggregate affected by clinging, and the consciousness aggregate affected by clinging. 'Throw out the tortoise: abandon the five aggregates affected by clinging. Delve with the knife, thou wise one.' This is the meaning.
+"Cái nĩa là biểu tượng cho sự nghi ngờ (doubt - sự không chắc chắn, phân vân). [^280] 'Vứt cái nĩa đi: từ bỏ sự nghi ngờ. Hãy đào bằng dao, hỡi người trí tuệ.' Đây là ý nghĩa.
 
-"The axe and block is a symbol for the five cords of sensual pleasure [^282] - forms cognizable by the eye that are wished for, desired, agreeable, and likeable, connected with sensual desire, and provocative of lust; sounds cognizable by the ear...odours cognizable by the nose...flavours cognizable by the tongue... tangibles cognizable by the body that are wished for, desired, agreeable, and likeable, connected with sensual desire, [145] and provocative of lust. 'Throw out the axe and block: abandon the five cords of sensual pleasure. Delve with the knife, thou wise one.' This is the meaning.
+"Cái sàng là biểu tượng cho năm chướng ngại (năm triền cái), đó là: tham dục (ham muốn những thứ vui thú), sân hận (ác ý), lười biếng và buồn ngủ, trạo cử (tâm không yên) và hối hận, và nghi ngờ. 'Vứt cái sàng đi: từ bỏ năm chướng ngại. Hãy đào bằng dao, hỡi người trí tuệ.' Đây là ý nghĩa.
 
-"The piece of meat is a symbol for delight and lust. [^283] 'Throw out the piece of meat: abandon delight and lust. Delve with the knife, thou wise one.' This is the meaning.
+"Con rùa là biểu tượng cho năm nhóm (năm uẩn) bị ảnh hưởng bởi sự bám víu (clinging - sự gắn bó, không muốn rời bỏ), [^281] đó là: sắc uẩn (thân thể), thọ uẩn (cảm giác), tưởng uẩn (nhận thức), hành uẩn (suy nghĩ, ý chí) và thức uẩn (ý thức). 'Vứt con rùa đi: từ bỏ năm nhóm bị ảnh hưởng bởi sự bám víu. Hãy đào bằng dao, hỡi người trí tuệ.' Đây là ý nghĩa.
 
-"The Nāga serpent is a symbol for a bhikkhu who has destroyed the taints. [^284] 'Leave the Nāga serpent; do not harm the Nāga serpent; honour the Nāga serpent.' This is the meaning."
+"Cái rìu và thớt là biểu tượng cho năm sợi dây của dục lạc [^282] - hình ảnh, âm thanh, mùi, vị, xúc chạm mà người ta mong muốn, ưa thích, liên quan đến ham muốn, [145] và kích thích sự thèm muốn. 'Vứt cái rìu và thớt đi: từ bỏ năm sợi dây của dục lạc. Hãy đào bằng dao, hỡi người trí tuệ.' Đây là ý nghĩa.
 
-That is what the Blessed One said. The venerable Kumāra Kassapa was satisfied and delighted in the Blessed One's words.
+"Miếng thịt là biểu tượng cho sự thích thú và ham muốn (delight and lust - niềm vui và sự ham muốn mạnh mẽ). [^283] 'Vứt miếng thịt đi: từ bỏ sự thích thú và ham muốn. Hãy đào bằng dao, hỡi người trí tuệ.' Đây là ý nghĩa.
+
+"Con rắn Nāga là biểu tượng cho một tỳ kheo đã diệt trừ được các lậu hoặc (taints - những ô nhiễm, phiền não). [^284] 'Hãy để con rắn Nāga yên; đừng làm hại con rắn Nāga; hãy tôn kính con rắn Nāga.' Đây là ý nghĩa."
+
+Đó là những gì Đức Phật đã nói. Ngài Kumāra Kassapa hoan hỷ và hài lòng với những lời của Đức Phật.
+
+<!--pg-->
+Từ ngữ:
+
+- Đức Phật / Blessed One: Bậc đáng kính, thường dùng để chỉ Đức Phật.
+- Tỳ kheo / Bhikkhu: Nhà sư.
+- Bà La Môn / Brahmin: Người thuộc tầng lớp tu sĩ.
+- Như Lai / Tathāgata: Một danh hiệu khác của Đức Phật.
+- Vô minh / Ignorance: Sự thiếu hiểu biết.
+- Nghi ngờ / Doubt: Sự không chắc chắn, phân vân.
+- Năm chướng ngại / Five hindrances: năm triền cái: tham, sân, si (lười biếng, buồn ngủ), trạo hối (trạo cử, hối hận), nghi.
+- Bám víu / Clinging: Sự gắn bó, không muốn rời bỏ.
+- Năm uẩn / five aggregates: Sắc (thân thể), thọ (cảm giác), tưởng (nhận thức), hành (suy nghĩ, ý chí) và thức (ý thức).
+- Dục lạc / sensual pleasure: Những thứ vui thú liên quan đến giác quan.
+- Thích thú và ham muốn / Delight and lust: Niềm vui và sự ham muốn mạnh mẽ.
+- Lậu hoặc / Taints: Những ô nhiễm, phiền não.
+- Vô thường / Impermanence: Không thường hằng, luôn thay đổi.

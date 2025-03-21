@@ -5,9 +5,10 @@
 
 2\. "Bhikkhus, that any bhikkhu who has not abandoned five wildernesses in the heart and not severed five shackles in the heart should come to growth, increase, and fulfilment in this Dhamma and Discipline - that is impossible. [^217]
 
+<!--pg-->
 3\. "What, bhikkhus, are the five wildernesses in the heart that he has not abandoned? Here a bhikkhu is doubtful, uncertain, undecided, and unconfident about the Teacher, and thus his mind does not incline to ardour, devotion, perseverance, and striving. As his mind does not incline to ardour, devotion, perseverance, and striving, that is the first wilderness in the heart that he has not abandoned.
 
-4\. "Again, a bhikkhu is doubtful, uncertain, undecided, and unconfident about the Dhamma ${ }^{218} \ldots$ As his mind does not incline to ardour...that is the second wilderness in the heart that he has not abandoned.
+4\. "Again, a bhikkhu is doubtful, uncertain, undecided, and unconfident about the Dhamma [^218] As his mind does not incline to ardour...that is the second wilderness in the heart that he has not abandoned.
 
 5\. "Again, a bhikkhu is doubtful, uncertain, undecided, and unconfident about the Sangha...As his mind does not incline to ardour...that is the third wilderness in the heart that he has not abandoned.
 
@@ -18,9 +19,10 @@ and striving. As his mind does not incline to ardour, devotion, perseverance, an
 
 "These are the five wildernesses in the heart that he has not abandoned.
 
+<!--pg-->
 8\. "What, bhikkhus, are the five shackles in the heart that he has not severed? Here a bhikkhu is not free from lust, desire, affection, thirst, fever, and craving for sensual pleasures, and thus his mind does not incline to ardour, devotion, perseverance, and striving. As his mind does not incline to ardour, devotion, perseverance, and striving, that is the first shackle in the heart that he has not severed.
 
-9\. "Again, a bhikkhu is not free from lust, desire, affection, thirst, fever, and craving for the body ${ }^{219} \ldots$ As his mind does not incline to ardour...that is the second shackle in the heart that he has not severed. [102]
+9\. "Again, a bhikkhu is not free from lust, desire, affection, thirst, fever, and craving for the body [^219] As his mind does not incline to ardour...that is the second shackle in the heart that he has not severed. [102]
 
 10\. "Again, a bhikkhu is not free from lust, desire, affection, thirst, fever, and craving for form...As his mind does not incline to ardour...that is the third shackle in the heart that he has not severed.
 
@@ -30,6 +32,7 @@ and striving. As his mind does not incline to ardour, devotion, perseverance, an
 
 "These are the five shackles in the heart that he has not severed.
 
+<!--pg-->
 13\. "Bhikkhus, that any bhikkhu who has not abandoned these five wildernesses in the heart and severed these five shackles in the heart should come to growth, increase, and fulfilment in this Dhamma and Discipline - that is impossible.
 
 14\. "Bhikkhus, that any bhikkhu who has abandoned five wildernesses in the heart and severed five shackles in the heart should come to growth, increase, and fulfilment in this Dhamma and Discipline - that is possible.
@@ -46,6 +49,7 @@ and striving. As his mind does not incline to ardour, devotion, perseverance, an
 
 "These are the five wildernesses in the heart that he has abandoned.
 
+<!--pg-->
 20\. "What, bhikkhus, are the five shackles in the heart that he has severed? Here a bhikkhu is free from lust, desire, affection, thirst, fever, and craving for sensual pleasures, and thus his mind inclines to ardour, devotion, perseverance, and striving. As his mind inclines to ardour, devotion, perseverance, and striving, the first shackle in the heart has been severed by him.
 
 21\. "Again, a bhikkhu is free from lust, desire, affection, thirst, fever, and craving for the body...As his mind inclines to ardour...the second shackle in the heart has been severed by him.
@@ -59,6 +63,7 @@ lolling, and drowsing...As his mind inclines to ardour...the fourth shackle in t
 
 "These are the five shackles in the heart that he has severed.
 
+<!--pg-->
 25\. "Bhikkhus, that any bhikkhu who has abandoned these five wildernesses in the heart and severed these five shackles in the heart should come to growth, increase, and fulfilment in this Dhamma and Discipline - that is possible.
 
 26\. "He develops the basis for spiritual power consisting in concentration due to zeal and determined striving; he develops the basis for spiritual power consisting in concentration due to energy and determined striving; he develops the basis for spiritual power consisting in concentration due to [purity of] mind and determined striving; he develops the basis for spiritual power consisting in concentration due to investigation and determined striving. And enthusiasm is the fifth. [^220]

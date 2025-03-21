@@ -1,79 +1,99 @@
-# 7 The Simile of the Cloth
+# 7. Ví Dụ Về Tấm Vải
 ***(Vatthūpama Sutta)***
 
-1. Thus have I heard. [^84] On one occasion the Blessed One was living at Sāvatthī in Jeta's Grove, Anāthapindika's Park. There he addressed the bhikkhus thus: "Bhikkhus." - "Venerable sir," they replied. The Blessed One said this:
+1\. Tôi nghe như vầy. [^84] Một lần nọ, Đức Thế Tôn đang ở tại Sāvatthī (Xá Vệ) trong khu rừng Jeta (Kỳ Đà), vườn của ông Anāthapindika (Cấp Cô Độc). Tại đó, Ngài gọi các vị tỳ kheo: "Này các tỳ kheo." - "Bạch Thế Tôn," các vị ấy đáp. Đức Thế Tôn nói như sau:
 
-2. "Bhikkhus, suppose a cloth were defiled and stained, and a dyer dipped it in some dye or other, whether blue or yellow or red or pink; it would look poorly dyed and impure in colour. Why is that? Because of the impurity of the cloth. So too, when the mind is defiled, an unhappy destination may be expected. [^85] Bhikkhus, suppose a cloth were pure and bright, and a dyer dipped it in some dye or other, whether blue or yellow or red or pink; it would look well-dyed and pure in colour. Why is that? Because of the purity of the cloth. So too, when the mind is undefiled, a happy destination may be expected.
+<!--pg-->
+2\. "Này các tỳ kheo, ví như một tấm vải bị dơ bẩn và hoen ố, và một người thợ nhuộm nhúng nó vào một loại thuốc nhuộm nào đó, dù là màu xanh, vàng, đỏ hay hồng; nó sẽ trông rất xấu và màu sắc không tinh khiết. Vì sao vậy? Vì sự dơ bẩn của tấm vải. Cũng vậy, khi tâm bị ô nhiễm, thì sẽ dẫn đến những kết cục không tốt đẹp. [^85] Này các tỳ kheo, ví như một tấm vải sạch sẽ và sáng sủa, và một người thợ nhuộm nhúng nó vào một loại thuốc nhuộm nào đó, dù là màu xanh, vàng, đỏ hay hồng; nó sẽ trông rất đẹp và màu sắc tinh khiết. Vì sao vậy? Vì sự sạch sẽ của tấm vải. Cũng vậy, khi tâm không bị ô nhiễm, thì sẽ dẫn đến những kết cục tốt đẹp.
 
-3. "What, bhikkhus, are the imperfections that defile the mind? [^86] Covetousness and, unrighteous greed is an imperfection that defiles the mind. [^87] Ill will...anger...revenge...contempt...a domineering attitude...envy...avarice...deceit...fraud...obstinacy...presumption...conceit...arrogance...vanity...[37]...negligence is an imperfection that defiles the mind.
+<!--pg-->
+3\. "Này các tỳ kheo, những gì là những bất tịnh làm ô nhiễm tâm? [^86] Tham lam (Covetousness) và, tham lam bất chính (unrighteous greed) là một bất tịnh làm ô nhiễm tâm. [^87] Sân hận (Ill will)...giận dữ (anger)...thù hận (revenge)...khinh miệt (contempt)...thái độ hống hách (a domineering attitude)...ganh tị (envy)...keo kiệt (avarice)...dối trá (deceit)...lừa đảo (fraud)...cố chấp (obstinacy)...tự phụ (presumption)...kiêu căng (conceit)...ngạo mạn (arrogance)...hư danh (vanity)...[37]...cẩu thả (negligence) là một bất tịnh làm ô nhiễm tâm.
 
-4. "Knowing that covetousness and unrighteous greed is an imperfection that defiles the mind, a bhikkhu abandons it. [^88] Knowing that ill will...negligence is an imperfection that defiles the mind, a bhikkhu abandons it.
+<!--pg-->
+4\. "Biết rằng tham lam và tham lam bất chính là một bất tịnh làm ô nhiễm tâm, một vị tỳ kheo từ bỏ nó. [^88] Biết rằng sân hận...cẩu thả là một bất tịnh làm ô nhiễm tâm, một vị tỳ kheo từ bỏ nó.
 
-5. "When a bhikkhu has known that covetousness and unrighteous greed is an imperfection that defiles the mind and has abandoned it; when a bhikkhu has known that ill will...negligence is an imperfection that defiles the mind and has abandoned it, he acquires perfect confidence in the Buddha thus: [^89] 'The Blessed One is accomplished, fully enlightened, perfect in
-true knowledge and conduct, sublime, knower of worlds, incomparable leader of persons to be tamed, teacher of gods and humans, enlightened, blessed.'
+<!--pg-->
+5\. "Khi một vị tỳ kheo đã biết rằng tham lam và tham lam bất chính là một bất tịnh làm ô nhiễm tâm và đã từ bỏ nó; khi một vị tỳ kheo đã biết rằng sân hận...cẩu thả là một bất tịnh làm ô nhiễm tâm và đã từ bỏ nó, vị ấy có được niềm tin tuyệt đối vào Đức Phật như sau: [^89] 'Đức Thế Tôn là bậc Ứng Cúng, Chánh Biến Tri, Minh Hạnh Túc, Thiện Thệ, Thế Gian Giải, Vô Thượng Sĩ, Điều Ngự Trượng Phu, Thiên Nhân Sư, Phật, Thế Tôn.'
+<!--pg-->
+6\. "Vị ấy có được niềm tin tuyệt đối vào Giáo Pháp (Dhamma) như sau: 'Giáo Pháp được Đức Thế Tôn khéo léo thuyết giảng, thiết thực hiện tại, có kết quả tức thời, mời gọi đến để thấy, hướng thượng, được người trí tự mình giác hiểu.'
 
-6. "He acquires perfect confidence in the Dhamma thus: 'The Dhamma is well proclaimed by the Blessed One, visible here and now, immediately effective, inviting inspection, onward leading, to be experienced by the wise for themselves.'
+7\. "Vị ấy có được niềm tin tuyệt đối vào Tăng Đoàn (Sangha) như sau: 'Tăng đoàn đệ tử của Đức Thế Tôn thực hành theo con đường tốt đẹp, thực hành theo con đường thẳng, thực hành theo con đường chân chính, thực hành theo con đường đúng đắn, đó là bốn đôi, tám chúng; Tăng đoàn đệ tử của Đức Thế Tôn xứng đáng được cúng dường, xứng đáng được hiếu kính, xứng đáng được dâng tặng, xứng đáng được chắp tay tôn kính, là ruộng phước vô thượng ở đời.'
 
-7. "He acquires perfect confidence in the Sangha thus: 'The Sangha of the Blessed One's disciples is practising the good way, practising the straight way, practising the true way, practising the proper way, that is, the four pairs of persons, the eight types of individuals; this Sangha of the Blessed One's disciples is worthy of gifts, worthy of hospitality, worthy of offerings, worthy of reverential salutation, the unsurpassed field of merit for the world.'
+8\. "Khi vị ấy đã từ bỏ, loại trừ, giải thoát, buông bỏ, và từ khước [những bất tịnh của tâm] một phần, [^90] vị ấy suy xét như sau: 'Ta có niềm tin tuyệt đối vào Đức Phật,' và vị ấy đạt được cảm hứng trong ý nghĩa, đạt được cảm hứng trong Giáo Pháp, [^91] đạt được sự hoan hỷ liên quan đến Giáo Pháp. Khi vị ấy hoan hỷ, hỷ lạc sinh khởi trong vị ấy; trong một người hỷ lạc, thân trở nên an tịnh; một người có thân an tịnh cảm thấy lạc thọ; trong một người cảm thấy lạc thọ, tâm trở nên định tĩnh. [^92]
 
-8. "When he has given up, expelled, released, abandoned, and relinquished [the imperfections of the mind] in part, [^90] he considers thus: 'I am possessed of perfect confidence in the Buddha,' and he gains inspiration in the meaning, gains inspiration in the Dhamma, [^91] gains gladness connected with the Dhamma. When he is glad, rapture is born in him; in one who is rapturous, the body becomes tranquil; one whose body is tranquil feels pleasure; in one who feels pleasure, the mind becomes concentrated. [^92]
+9\. "Vị ấy suy xét như sau: 'Ta có niềm tin tuyệt đối vào Giáo Pháp,' và vị ấy đạt được cảm hứng trong ý nghĩa, đạt được cảm hứng trong Giáo Pháp, đạt được sự hoan hỷ liên quan đến Giáo Pháp. Khi vị ấy hoan hỷ...tâm trở nên định tĩnh. [38]
 
-9. "He considers thus: 'I am possessed of perfect confidence in the Dhamma,' and he gains inspiration in the meaning, gains inspiration in the Dhamma, gains gladness connected with the Dhamma. When he is glad...the mind becomes concentrated. [38]
+10\. "Vị ấy suy xét như sau: 'Ta có niềm tin tuyệt đối vào Tăng Đoàn,' và vị ấy đạt được cảm hứng trong ý nghĩa, đạt được cảm hứng trong Giáo Pháp, đạt được sự hoan hỷ liên quan đến Giáo Pháp. Khi vị ấy hoan hỷ...tâm trở nên định tĩnh.
 
-10. "He considers thus: 'I am possessed of perfect confidence in the Sangha,' and he gains inspiration in the meaning, gains inspiration in the Dhamma, gains gladness connected with the Dhamma. When he is glad...the mind becomes concentrated.
+11\. "Vị ấy suy xét như sau: '[Những bất tịnh của tâm] một phần đã được ta từ bỏ, loại trừ, giải thoát, buông bỏ, và từ khước,' và vị ấy đạt được cảm hứng trong ý nghĩa, đạt được cảm hứng trong Giáo Pháp, đạt được sự hoan hỷ liên quan đến Giáo Pháp. Khi vị ấy hoan hỷ, hỷ lạc sinh khởi trong vị ấy; trong một người hỷ lạc, thân trở nên an tịnh; một người có thân an tịnh cảm thấy lạc thọ; trong một người cảm thấy lạc thọ, tâm trở nên định tĩnh.
 
-11. "He considers thus: '[The imperfections of the mind] have in part been given up, expelled, released, abandoned, and relinquished by me,' and he gains inspiration in the meaning, gains inspiration in the Dhamma, gains gladness connected with the Dhamma. When he is glad, rapture is born in him; in one who is rapturous, the body becomes tranquil; one whose body is tranquil feels pleasure; in one who feels pleasure, the mind becomes concentrated.
+<!--pg-->
+12\. "Này các tỳ kheo, nếu một vị tỳ kheo có giới hạnh như vậy, có trạng thái [định tĩnh] như vậy, và có trí tuệ như vậy [^93] ăn đồ ăn khất thực bao gồm cơm gạo ngon cùng với các loại nước chấm và cà ri, thì điều đó cũng không phải là chướng ngại cho vị ấy. [^94] Giống như một tấm vải bị dơ bẩn và hoen ố trở nên sạch sẽ và sáng sủa nhờ nước sạch, hoặc giống như vàng trở nên tinh khiết và sáng bóng nhờ lò nung, cũng vậy, nếu một vị tỳ kheo có giới hạnh như vậy...ăn đồ ăn khất thực...thì điều đó cũng không phải là chướng ngại cho vị ấy.
 
-12. "Bhikkhus, if a bhikkhu of such virtue, such a state [of concentration], and such wisdom [^93] eats almsfood consisting of choice hill rice along with various sauces and curries, even that will be no obstacle for him. [^94] Just as a cloth that is defiled and stained becomes pure and bright with the help of clear water, or just as gold becomes pure and bright with the help of a furnace, so too, if a bhikkhu of such virtue...eats almsfood...that will be no obstacle for him.
+13\. "Vị ấy an trú, thấm nhuần một phương với tâm câu hữu với từ (loving-kindness - lòng từ bi), [^95] tương tự như vậy với phương thứ hai, tương tự như vậy với phương thứ ba, tương tự như vậy với phương thứ tư; như vậy, trên, dưới, xung quanh, và khắp mọi nơi, và với tất cả như với chính mình, vị ấy an trú thấm nhuần khắp thế giới rộng lớn với tâm câu hữu với từ, rộng lớn, cao thượng, vô lượng, không có hận thù và không có ác ý.
 
-13. "He abides pervading one quarter with a mind imbued with loving-kindness, [^95] likewise the second, likewise the third, likewise the fourth; so above, below, around, and everywhere, and to all as to himself, he abides pervading the all-encompassing world with a mind imbued with loving-kindness, abundant, exalted, immeasurable, without hostility and without ill will.
+14-16. "Vị ấy an trú, thấm nhuần một phương với tâm câu hữu với bi (compassion - lòng trắc ẩn)...với tâm câu hữu với hỷ (appreciative joy - niềm vui hoan hỷ)...với tâm câu hữu với xả (equanimity - sự buông xả), tương tự như vậy với phương thứ hai, tương tự như vậy với phương thứ ba, tương tự như vậy với phương thứ tư; như vậy, trên, dưới, xung quanh, và khắp mọi nơi, và với tất cả như với chính mình, vị ấy an trú thấm nhuần khắp thế giới rộng lớn với tâm câu hữu với xả, rộng lớn, cao thượng, vô lượng, không có hận thù và không có ác ý.
 
-14-16. "He abides pervading one quarter with a mind imbued with compassion...with a mind imbued with appreciative joy...with a mind imbued with equanimity, likewise the second, likewise the third, likewise the fourth; so above, below, around, and everywhere, and to all as to himself, he abides pervading the all-encompassing world with a mind imbued with equanimity, abundant, exalted, immeasurable, without hostility and without ill will.
+14\. "Vị ấy hiểu như sau: 'Có cái này, có cái thấp kém, có cái cao thượng, và vượt lên trên có sự giải thoát khỏi toàn bộ lĩnh vực nhận thức này.' [^96]
 
-14. "He understands thus: 'There is this, there is the inferior, there is the superior, and beyond there is an escape from this whole field of perception. [^96]
+15\. "Khi vị ấy biết và thấy như vậy, tâm vị ấy giải thoát khỏi lậu hoặc dục (taint of sensual desire), khỏi lậu hoặc hữu (taint of being), và khỏi lậu hoặc vô minh (taint of ignorance). Khi tâm được giải thoát, trí tuệ khởi lên: 'Tâm đã giải thoát.' Vị ấy hiểu: 'Sanh đã tận, phạm hạnh đã thành, những việc cần làm đã làm, không còn trở lại trạng thái này nữa.' [39] Này các tỳ kheo, vị tỳ kheo này được gọi là người tắm bằng sự tắm bên trong. [^97]
 
-15. "When he knows and sees thus, his mind is liberated from the taint of sensual desire, from the taint of being, and from the taint of ignorance. When it is liberated there comes the knowledge: 'It is liberated.' He understands: 'Birth is destroyed, the holy life has been lived, what had to be done has been done, there is no more coming to any state of being.' [39] Bhikkhus, this bhikkhu is called one bathed with the inner bathing. [^97]
+<!--pg-->
+16\. Lúc bấy giờ, Bà-la-môn Sundarika Bhāradvāja đang ngồi không xa Đức Thế Tôn. Rồi ông ta nói với Đức Thế Tôn: "Nhưng Tôn giả Gotama có đến sông Bāhukā để tắm không?"
 
-16. Now on that occasion the brahmin Sundarika Bhāradvāja was sitting not far from the Blessed One. Then he said to the Blessed One: "But does Master Gotama go to the Bāhukā River to bathe?"
+"Này Bà-la-môn, đến sông Bāhukā để làm gì? Sông Bāhukā có thể làm được gì?"
+"Thưa Tôn giả Gotama, sông Bāhukā được nhiều người cho là mang lại sự giải thoát, được nhiều người cho là mang lại công đức, và nhiều người gột rửa những hành động xấu ác của họ ở sông Bāhukā."
 
-"Why, brahmin, go to the Bāhukā River? What can the Bāhukā River do?"
-"Master Gotama, the Bāhukā River is held by many to give liberation, it is held by many to give merit, and many wash away their evil actions in the Bāhukā River."
+<!--pg-->
+20\. Rồi Đức Thế Tôn nói với Bà-la-môn Sundarika Bhāradvāja bằng những vần kệ:
 
-20. Then the Blessed One addressed the brahmin Sundarika Bhāradvāja in stanzas:
+*Bāhukā và Adhikakkā,*<br>
+*Gayā và Sundarikā,*<br>
+*Payāga và Sarassatī,*<br>
+*Và dòng sông Bahumatī - [^98]*<br>
+*Một kẻ ngu có thể tắm ở đó mãi*<br>
+*Nhưng sẽ không làm sạch được những hành động đen tối.*<br>
+*Sundarikā có thể làm được gì?*<br>
+*Payāga có thể làm được gì?*<br>
+*Bāhukā có thể làm được gì?*<br>
+*Chúng không thể làm sạch một kẻ ác,*<br>
+*Một người đã làm những hành động tàn ác và hung bạo.*<br>
+*Người có tâm trong sạch luôn có*<br>
+*Lễ hội mùa xuân, Ngày Thánh[^99]*<br>
+*Người có hành động tốt đẹp, người có tâm trong sạch*<br>
+*Đưa đức hạnh của mình đến chỗ hoàn hảo.*<br>
+*Chính ở đây, này Bà-la-môn, ông nên tắm,*<br>
+*Để làm cho mình thành nơi nương tựa cho tất cả chúng sinh.*<br>
+*Và nếu ông không nói dối*<br>
+*Cũng không làm hại chúng sinh,*<br>
+*Không lấy của không cho,*<br>
+*Với niềm tin và không tham lam,*<br>
+*Cần gì ông phải đến Gayā?*<br>
+*Vì bất kỳ giếng nào cũng sẽ là Gayā của ông.*
 
-"Bāhukā and Adhikakkā, Gayā and Sundarikā too, Payāga and Sarassatī, And the stream Bahumatī - [^98] A fool may there forever bathe Yet will not purify dark deeds.
+<!--pg-->
+21\. Khi điều này được nói, Bà-la-môn Sundarika Bhāradvāja nói: "Thật tuyệt vời, Tôn giả Gotama! Thật tuyệt vời, Tôn giả Gotama! Tôn giả Gotama đã làm sáng tỏ Giáo Pháp bằng nhiều cách, như thể Ngài đang dựng đứng lại những gì đã bị lật đổ, phơi bày những gì bị che giấu, chỉ đường cho người bị lạc, hoặc giơ cao ngọn đèn trong bóng tối cho những người có mắt để thấy các hình sắc. Con xin quy y Tôn giả Gotama, quy y Giáo Pháp và quy y Tăng đoàn tỳ kheo. Con xin được xuất gia dưới sự hướng dẫn của Tôn giả Gotama, con xin được thọ đại giới." [^100]
 
-What can the Sundarikā bring to pass?
+22\. Và Bà-la-môn Sundarika Bhāradvāja được xuất gia dưới sự hướng dẫn của Đức Thế Tôn, và ông được thọ đại giới. [40] Và không lâu sau khi thọ đại giới, sống một mình, ẩn dật, tinh tấn, nhiệt tâm, và kiên định, Tôn giả Bhāradvāja, bằng cách tự mình chứng ngộ với trực trí, ngay trong hiện tại, đã nhập và an trú vào mục tiêu tối thượng của phạm hạnh mà vì nó các thiện nam tử chân chính từ bỏ gia đình, sống không gia đình. Ngài trực tiếp biết: "Sanh đã tận, phạm hạnh đã thành, những việc cần làm đã làm, không còn trở lại trạng thái này nữa." Và Tôn giả Bhāradvāja trở thành một trong những vị A-la-hán.
+<!--pg-->
+Từ ngữ:
 
-What the Payāga? What the Bāhukā?
-
-They cannot purify an evil-doer,
-
-A man who has done cruel and brutal deeds.
-
-One pure in heart has evermore
-
-The Feast of Spring, the Holy Day;99
-
-One fair in act, one pure in heart
-
-Brings his virtue to perfection.
-
-It is here, brahmin, that you should bathe, To make yourself a refuge for all beings.
-
-And if you speak no falsehood
-
-Nor work harm for living beings,
-
-Nor take what is offered not,
-
-With faith and free from avarice,
-
-What need for you to go to Gayā?
-
-For any well will be your Gayā."
-
-21. When this was said, the brahmin Sundarika Bhāradvāja said: "Magnificent, Master Gotama! Magnificent, Master Gotama! Master Gotama has made the Dhamma clear in many ways, as though he were turning upright what had been overthrown, revealing what was hidden, showing the way to one who was lost, or holding up a lamp in the dark for those with eyesight to see forms. I go to Master Gotama for refuge and to
-the Dhamma and to the Sangha of bhikkhus. I would receive the going forth under Master Gotama, I would receive the full admission." [^100]
-
-22. And the brahmin Sundarika Bhāradvāja received the going forth under the Blessed One, and he received the full admission. [40] And soon, not long after his full admission, dwelling alone, withdrawn, diligent, ardent, and resolute, the venerable Bhāradvāja, by realising for himself with direct knowledge, here and now entered upon and abided in that supreme goal of the holy life for the sake of which clansmen rightly go forth from the home life into homelessness. He directly knew: "Birth is destroyed, the holy life has been lived, what had to be done has been done, there is no more coming to any state of being." And the venerable Bhāradvāja became one of the arahants.
+- Bất tịnh / defilements / kilesā: những yếu tố làm ô nhiễm tâm, khiến tâm không trong sạch.
+- Tham lam / Covetousness / abhijjhā: sự ham muốn, thèm khát quá mức.
+- Tham lam bất chính / unrighteous greed / visamalobha: sự tham lam những thứ không thuộc về mình, hoặc tham lam bằng cách thức sai trái.
+- Sân hận / Ill will / byāpāda: sự không hài lòng, khó chịu, ác ý đối với người khác.
+- Giải thoát / liberated / vimutti: trạng thái tâm không còn bị ràng buộc bởi các phiền não.
+- Lậu hoặc / taint / āsava: những khuynh hướng ngủ ngầm, thúc đẩy tái sinh và khổ đau.
+- Từ / loving-kindness / mettā: lòng từ bi, mong muốn điều tốt đẹp cho người khác.
+- Bi / compassion / karuṇā: lòng trắc ẩn, mong muốn người khác thoát khổ.
+- Hỷ / appreciative joy / muditā: niềm vui hoan hỷ khi thấy người khác thành công, hạnh phúc.
+- Xả / equanimity / upekkhā: sự buông xả, không phân biệt đối xử, giữ tâm bình thản trước mọi hoàn cảnh.
+- Phạm hạnh / the holy life / brahmacariya: đời sống tu tập thanh tịnh, hướng đến giải thoát.
+- A-la-hán / arahant: bậc thánh đã hoàn toàn giải thoát khỏi phiền não, không còn tái sinh.
+- Giáo Pháp / Dhamma: lời dạy của Đức Phật, chân lý, con đường dẫn đến giải thoát.
+- Tăng Đoàn / Sangha: cộng đồng những người tu tập theo lời Phật dạy.
+- Định tĩnh / concentrated / samādhi: trạng thái tâm tập trung cao độ, không bị xao lãng.
+- Hỷ lạc / rapture / pīti: trạng thái hân hoan, phấn khởi trong quá trình tu tập.
+- Lạc thọ / pleasure / sukha: cảm giác dễ chịu, thoải mái về thân và tâm.
+- Thọ đại giới / full admission / upasampadā: lễ xuất gia, chính thức trở thành tỳ kheo.
+- Trực trí / direct knowledge / abhiññā: khả năng nhận biết trực tiếp, không qua suy luận.

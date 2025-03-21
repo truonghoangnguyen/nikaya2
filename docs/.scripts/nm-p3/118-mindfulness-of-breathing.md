@@ -45,7 +45,7 @@ world [81] to make an end of suffering - such bhikkhus are there in this Sangha 
 
 Breathing in short, he understands: 'I breathe in short'; or breathing out short, he understands: 'I breathe out short.' He trains thus: 'I shall breathe in experiencing the whole body [of breath]'; he trains thus: 'I shall breathe out experiencing the whole body [of breath].' He trains thus: 'I shall breathe in tranquillising the bodily formation'; he trains thus: 'I shall breathe out tranquillising the bodily formation.'
 
-19. "He trains thus: 'I shall breathe in experiencing rapture'; he trains thus: 'I shall breathe out experiencing rapture. ${ }^{1118} \mathrm{He}$ trains thus: 'I shall breathe in experiencing pleasure'; [83] he trains thus: 'I shall breathe out experiencing pleasure.' He trains thus: 'I shall breathe in experiencing the mental formation'; he trains thus: 'I shall breathe out experiencing the mental formation.' He train thus: 'I shall breathe in tranquillising the mental formation'; he trains thus: 'I shall breathe out tranquillising the mental formation. [^1119]
+19. "He trains thus: 'I shall breathe in experiencing rapture'; he trains thus: 'I shall breathe out experiencing rapture. [^1118] He trains thus: 'I shall breathe in experiencing pleasure'; [83] he trains thus: 'I shall breathe out experiencing pleasure.' He trains thus: 'I shall breathe in experiencing the mental formation'; he trains thus: 'I shall breathe out experiencing the mental formation.' He train thus: 'I shall breathe in tranquillising the mental formation'; he trains thus: 'I shall breathe out tranquillising the mental formation. [^1119]
 
 20. "He trains thus: 'I shall breathe in experiencing the mind'; he trains thus: 'I shall breathe out experiencing the mind.' He trains thus: 'I shall breathe in gladdening the mind'; he trains thus: 'I shall breathe out gladdening the mind.' He trains thus: 'I shall breathe in concentrating the mind'; he trains thus: 'I shall breathe out concentrating the mind.' He trains thus: 'I shall breathe in liberating the mind'; he trains thus: 'I shall breathe out liberating the mind. [^1120]
 
@@ -99,7 +99,7 @@ whatever occasion, abiding thus mindful, a bhikkhu investigates and examines tha
 
 41. "And how, bhikkhus, do the seven enlightenment factors, developed and cultivated, fulfil true knowledge and deliverance?
 
-42. "Here, bhikkhus, a bhikkhu develops the mindfulness enlightenment factor, which is supported by seclusion, dispassion, and cessation, and ripens in relinquishment. ${ }^{1127} \mathrm{He}$ develops the investigation-of-states enlightenment factor...the energy enlightenment factor...the rapture enlightenment factor...the tranquillity enlightenment factor...the concentration enlightenment factor...the equanimity enlightenment factor, which is supported by seclusion, dispassion, and cessation, and ripens in relinquishment.
+42. "Here, bhikkhus, a bhikkhu develops the mindfulness enlightenment factor, which is supported by seclusion, dispassion, and cessation, and ripens in relinquishment. [^1127] He develops the investigation-of-states enlightenment factor...the energy enlightenment factor...the rapture enlightenment factor...the tranquillity enlightenment factor...the concentration enlightenment factor...the equanimity enlightenment factor, which is supported by seclusion, dispassion, and cessation, and ripens in relinquishment.
 
 43. "Bhikkhus, that is how the seven enlightenment factors, developed and cultivated, fulfil true knowledge and deliverance."1128
 

@@ -42,6 +42,7 @@ Moliya Phagguna:
 Tỷ-kheo Moliya Phagguna vâng đáp Tỷ-kheo ấy, đến chỗ Thế Tôn ở, khi đến xong, đảnh lễ Thế Tôn rồi
 ngồi xuống một bên. Thế Tôn nói với Tôn giả Moliya Phagguna đang ngồi xuống một bên:
 
+<!--pg-->
 -- Này Phagguna, có đúng sự thật không, như lời người ta đồn là Ông sống liên hệ với các Tỷ-kheo-ni
 một cách quá độ. Người ta đồn Ông sống liên hệ với các Tỷ-kheo-ni như sau: "Nếu Tỷ-kheo nào, trước
 mặt Ông nói xấu các Tỷ-kheo-ni ấy, Ông liền phẫn nộ, bất mãn, vấn tội ngay; nếu Tỷ-kheo nào, trước
@@ -73,6 +74,7 @@ Này Phagguna, Ông phải học tập như sau: "Mong rằng tâm của ta sẽ
 sẽ không nói những lời ác ngữ! Mong rằng ta sẽ sống với lòng lân mẫn, với tâm từ bi, không ôm lòng
 sân hận!" Này Phagguna, Ông phải học tập như vậy.
 
+<!--pg-->
 Rồi Thế Tôn nói với các Tỷ-kheo:
 
 -- Này các Tỷ-kheo, một thời các Tỷ-kheo của Ta có tâm rất thuần thục hoan hỷ. Này các Tỷ-kheo, ở
@@ -88,6 +90,7 @@ ngựa, có thể đánh xe ngựa ấy đi tới đi lui, tại chỗ nào và 
 Tỷ-kheo, Ta không cần phải giảng dạy gì cho các Tỷ-kheo ấy; chư Tỷ-kheo, Ta chỉ cần khơi dậy ức
 niệm nơi các Tỷ-kheo ấy.
 
+<!--pg-->
 Do vậy, này các Tỷ-kheo, hãy từ bỏ bất thiện, hãy nỗ lực đối với các thiện pháp, như vậy các Ngươi mới
 thành tựu sự trưởng thành, hưng thịnh, lớn mạnh trong pháp luật này. Chư Tỷ-kheo, cũng như gần một
 thôn làng hay thị trấn nhỏ, có ngôi rừng cây tala lớn, ngôi rừng bị các cây leo y lan bao phủ. Có một
@@ -98,6 +101,7 @@ Tỷ-kheo, sau một thời gian, ngôi rừng như vậy được trưởng th�
 các Tỷ-kheo, các Ngươi hãy từ bỏ bất thiện, hãy nỗ lực đối với các thiện pháp, như vậy các Ngươi mới
 thành tựu sự trưởng thành, hưng thịnh, lớn mạnh trong Pháp và Luật này.
 
+<!--pg-->
 Chư Tỷ-kheo, thuở xưa, tại thành Savatthi này có nữ gia chủ tên là Vedehika. Chư Tỷ-kheo, tiếng đồn
 tốt đẹp sau đây được khởi lên về nữ gia chủ Vedehika: "Nữ gia chủ Vedehika là hiền thục, nữ gia chủ
 
@@ -170,6 +174,7 @@ nàng cầm then gài cửa, đánh tôi một cú trên đầu khiến bể đ�
 Chư Tỷ-kheo, sau một thời gian, tiếng đồn xấu sau đây được khởi lên về nữ chủ Vedehika: "Nữ chủ
 Vedehika là độc ác! Nữ chủ Vedehika là không nhu thuận! Nữ chủ Vedehika là không ôn hòa!"
 
+<!--pg-->
 Cũng vậy chư Tỷ-kheo, ở đây, Tỷ-kheo hết sức hiền lành, hết sức nhu thuận, hết sức ôn hòa trong khi
 chưa bị những lời nói bất khả ý, xúc phạm. Và chư Tỷ-kheo, chỉ khi nào Tỷ-kheo bị những lời nói bất
 khả ý, xúc phạm mà vị ấy vẫn hết sức hiền lành, hết sức nhu thuận, hết sức ôn hòa, khi ấy vị ấy mới

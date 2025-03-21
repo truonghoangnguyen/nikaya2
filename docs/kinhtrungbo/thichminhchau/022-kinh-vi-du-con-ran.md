@@ -90,6 +90,7 @@ chướng ngại gì"?
 
 -- Thật sự là vậy, bạch Thế Tôn. Theo như con hiểu, thật sự không có chướng ngại gì.
 
+<!--pg-->
 -- Này kẻ ngu si kia, sao Ông lại hiểu pháp Ta thuyết giảng như vậy? Này kẻ ngu si kia, có phải chăng,
 Ta đã dùng nhiều pháp môn thuyết chướng đạo pháp. Và những ai thọ dụng chúng tự đủ bị chướng
 ngại? Ta đã thuyết các dục vui ít, khổ nhiều, não nhiều, do vậy nguy hiểm càng nhiều hơn. Ta đã thuyết
@@ -137,6 +138,7 @@ nhiều tổn đức, và như vậy sẽ đưa đến bất hạnh, đau khổ 
 Thật sự, này các Tỷ-kheo, sự kiện này không xảy ra, người ta có thể thọ dụng các dục ngoài các dục,
 ngoài các dục tưởng, ngoài các dục tầm.
 
+<!--pg-->
 ***(Ví dụ con rắn)***
 
 Chư Tỷ-kheo, ở đây có một số người ngu si học pháp, như Kinh, Ứng tụng, Giải thuyết, Kệ tụng, Cảm
@@ -174,6 +176,7 @@ vậy. Do vậy, này các Tỷ-kheo, hãy hiểu rõ ý nghĩa lời Ta thuyế
 không hiểu rõ ý nghĩa lời Ta thuyết giảng thì ở nơi đây, các Ông hãy hỏi Ta hay hỏi những bậc Tỷ-kheo
 trí thức.
 
+<!--pg-->
 ***(Ví dụ chiếc bè)***
 
 Chư Tỷ-kheo, Ta sẽ giảng pháp cho các Ông, ví như chiếc bè để vượt qua, không phải để nắm giữ lấy.
@@ -208,6 +211,7 @@ không phải để nắm giữ lấy.
 
 Chư Tỷ-kheo, các Ông cần hiểu ví dụ cái bè. Chánh pháp còn phải bỏ đi, huống nữa là phi pháp.
 
+<!--pg-->
 ***(Các kiến xứ)***
 
 Này các Tỷ-kheo, có sáu kiến xứ. Thế nào là sáu? Ở đây, này các Tỷ-kheo, có kẻ vô văn phàm phu,
@@ -235,6 +239,7 @@ chết tôi sẽ thường còn, thường hằng, thường trú, không biến
 mãi", xem như vậy là: "Cái này không phải của tôi, cái này không phải là tôi, cái này không phải tự ngã
 của tôi". Vị này do quán sát như vậy, đối với sự vật chẳng thật có nên không có lo âu, phiền muộn.
 
+<!--pg-->
 ***(Lo âu)***
 
 Ðược nghe nói vậy, một Tỷ-kheo khác bạch Thế Tôn:
@@ -283,6 +288,7 @@ chắn ta sẽ bị hoại diệt, chắc chắn ta sẽ không tồn tại". V�
 không đấm ngực, không đi đến bất tỉnh. Này các Tỷ-kheo, như vậy là có cái không thực có ở trong,
 không gây ra lo âu, phiền muộn.
 
+<!--pg-->
 ***(Vô thường và vô ngã)***
 
 Này các Tỷ-kheo, các Ông có thể nắm giữ một vật sở hữu gì, và vật sở hữu được nắm giữ ấy sẽ thường
@@ -386,6 +392,7 @@ với tưởng, yểm ly đối với hành, yểm ly đối với thức, do y�
 thoát, trong sự giải thoát có trí khởi lên, biết được đã giải thoát. Vị ấy biết: "Sanh đã tận, phạm hạnh đã
 thành, những gì nên làm đã làm, không còn trở lui tại đây với một đời sống khác".
 
+<!--pg-->
 ***(Bậc A-la-hán)***
 
 Chư Tỷ-kheo, Tỷ-kheo ấy được gọi là vị đã vất bỏ đi các chướng ngại vật, là vị đã lấp đầy các thông
@@ -403,7 +410,6 @@ lấp đầy thông hào.
 
 Này các Tỷ-kheo, thế nào là Tỷ-kheo đã nhổ lên cột trụ? Ở đây, này các Tỷ-kheo, Tỷ-kheo đã đoạn trừ
 khát ái, đã cắt tận gốc rễ, làm cho như cây ta-la bị chặt đầu, khiến không thể tái sanh trong tương lai,
-
 không có khả năng sanh khởi. Chư Tỷ-kheo, như vậy là Tỷ-kheo đã nhổ lên cột trụ.
 
 Này các Tỷ-kheo, thế nào là Tỷ-kheo đã mở tung các lề khóa? Ở đây, này các Tỷ-kheo, Tỷ-kheo đã đoạn
@@ -420,7 +426,8 @@ Chư Tỷ-kheo, Tỷ-kheo đã giải thoát như vậy, thì chư Thiên ở Ð
 Sanh chủ giới sẽ không tìm được dấu vết của Tỷ-kheo ấy, nếu nghĩ rằng: "Y ở đây, có thức của Như
 Lai". Vì sao vậy? Chư Tỷ-kheo, Ta nói ngay ở hiện tại, một Như Lai không thể tìm thấy dấu vết".
 
-**(Xuyên tạc Như Lai)**
+<!--pg-->
+***(Xuyên tạc Như Lai)***
 
 Chư Tỷ-kheo, Ta nói như vậy, thuyết như vậy, một số Sa-môn, Bà-la-môn xuyên tạc Ta một cách phi
 chơn, hồ đồ, hư vọng, không thực: "Sa-môn Gotama chủ trương chủ nghĩa hư vô, đề cao đoạn diệt, hủy
@@ -443,6 +450,7 @@ sướng, tâm sanh thích thú. Do vậy, này các Tỷ-kheo, nếu có nhữn
 bái cúng dường các Ông, thì ở đây, các Ông hãy suy nghĩ: "Ðây là điều xưa kia đã từng biết rõ, đây là
 những trách nhiệm ta phải làm".
 
+<!--pg-->
 ***(Không sở hữu)***
 
 Do vậy, này các Tỷ-kheo, cái gì không phải của các Ông, các Ông hãy từ bỏ. Các Ông từ bỏ, sẽ đưa lại
@@ -469,6 +477,7 @@ cho các Ông. Chư Tỷ-kheo, thọ... (như trên)... Chư Tỷ-kheo tưởng.
 Chư Tỷ-kheo, thức không phải của các Ông, hãy từ bỏ thức. Các Ông từ bỏ thức sẽ đem lại hạnh phúc,
 an lạc lâu dài cho các Ông.
 
+<!--pg-->
 ***(Pháp khéo giảng)***
 
 Chư Tỷ-kheo, như vậy, pháp được Ta khéo giảng, làm cho tỏ lộ, làm cho khai thông, làm cho khai thị,

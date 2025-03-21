@@ -4,7 +4,7 @@ import Theme from 'vitepress/theme'
 // import ChapterCompare from '../components/ChapterCompare.vue'
 import TextCompare from '../components/TextCompare.vue'
 import CompareButton from '../components/CompareButton.vue'
-
+import NotePopup from '../components/NotePopup.vue'
 import './style.css'
 
 export default {
@@ -14,9 +14,11 @@ export default {
     //app.component('ChapterCompare', ChapterCompare)
     app.component('TextCompare', TextCompare)
     app.component('CompareButton', CompareButton)
+    app.component('NotePopup', NotePopup)
   },
   Layout() {
     return h(Theme.Layout, null, {
+      'layout-bottom': () => h(NotePopup),
       'nav-bar-content-after': () => h(CompareButton)
     })
   }

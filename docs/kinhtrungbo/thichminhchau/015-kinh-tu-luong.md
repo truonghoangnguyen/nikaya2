@@ -71,6 +71,7 @@ kheo chấp trước thế tục, cố chấp tư kiến, tánh khó hành xả,
 
 Chư Hiền, như vậy được gọi là những tánh khiến trở thành khó nói.
 
+<!--pg-->
 Chư Hiền, nếu Tỷ-kheo không thỉnh nguyện: "Mong rằng chư Tôn giả nói với tôi, mong rằng tôi được
 chư Tôn giả nói!"; Và nếu vị ấy là một người dễ nói, đầy đủ những đức tánh khiến người ấy trở thành dễ
 nói, kham nhẫn, cung kính đón nhận khi được nghe giảng dạy, thì các vị đồng phạm hạnh nghĩ rằng, Tỷ-
@@ -130,6 +131,7 @@ thành dễ nói.
 
 Chư Hiền, như vậy được gọi là những đức tánh khiến trở thành dễ nói.
 
+<!--pg-->
 (1) Chư Hiền, ở đây Tỷ-kheo cần phải tư lượng tự ngã với tự ngã như sau: "Người này có ác dục, bị ác
 dục chi phối nên ta không ưa người ấy, không thích người ấy. Và nếu ta có ác dục, bị ác dục chi phối,
 các người khác sẽ không ưa ta, không thích ta". Chư Hiền, Tỷ-kheo khi biết vậy cần phải phát tâm như
@@ -181,6 +183,7 @@ thích người ấy. Và nếu ta chấp trước thế tục, cố chấp tư 
 ưa ta, không thích ta". Chư Hiền, Tỷ-kheo khi biết vậy, cần phải phát tâm như sau: "Ta sẽ không chấp
 trước thế tục, không cố chấp tư kiến, tánh dễ hành xả".
 
+<!--pg-->
 Chư Hiền, ở đây, Tỷ-kheo cần phải quán sát tự ngã với tự ngã như sau:
 
 (1) "Không biết ta có ác dục, có bị ác dục chi phối không?" Chư Hiền, nếu Tỷ-kheo quán sát và biết

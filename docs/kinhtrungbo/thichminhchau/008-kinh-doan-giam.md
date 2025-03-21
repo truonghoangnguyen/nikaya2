@@ -19,6 +19,7 @@ giới luận, - chỗ nào những sở kiến này tiềm ẩn, và chỗ nào
 như thật quán sát chúng với trí tuệ rằng: "Cái này không phải của tôi, cái này không phải là tôi, cài này
 không phải tự ngã của tôi", có vậy thời có sự đoạn trừ những sở kiến ấy, có sự xả ly những sở kiến ấy.
 
+<!--pg-->
 ***(Tám chứng đắc)***
 
 Này Cunda, sự kiện này xảy ra khi ở đây một Tỷ-kheo ly dục, ly bất thiện pháp, chứng và trú Thiền thứ
@@ -50,7 +51,6 @@ Thánh.
 Này Cunda, sự kiện này xảy ra, khi một Tỷ-kheo vượt lên mọi Không vô biên xứ, nghĩ rằng: "Thức là vô
 biên", chứng và trú Thức vô biên xứ. Vị ấy có thể nghĩ: "Ta sống với hạnh đoạn giảm". Này Cunda, các
 (quả chứng) ấy không gọi là đoạn giảm trong giới luật của bậc Thánh. Chúng được gọi là tịch tịnh trú
-
 trong giới luật của bậc Thánh.
 
 Này Cunda, sự kiện này xảy ra, khi một Tỷ-kheo vượt lên mọi Thức vô biên xứ, nghĩ rằng: "Không có
@@ -63,6 +63,7 @@ phi tưởng xứ. Vị ấy có thể nghĩ: "Ta sống với hạnh đoạn gi
 gọi là đoạn giảm trong giới luật của bậc Thánh. Chúng được gọi là tịch tịnh trú trong giới luật của bậc
 Thánh.
 
+<!--pg-->
 ***(Ðoạn giảm)***
 
 Này Cunda, ở đây đoạn giảm được các Người thực hiện khi các Người nghĩ:
@@ -119,6 +120,7 @@ miên chi phối",... (như trên)...
 (44) "Những kẻ khác có thể nhiễm thế tục, cố chấp tư kiến, tánh khó hành xả, chúng ta ở đây sẽ không
 nhiễm thế tục, không cố chấp tư kiến, tánh dễ hành xả" như vậy đoạn giảm được thực hiện.
 
+<!--pg-->
 ***(Khởi tâm)***
 
 Này Cunda, Ta nói rằng sự khởi tâm rất có lợi ích cho các thiện pháp, còn nói gì thân nghiệp, khẩu
@@ -131,6 +133,7 @@ trên)...
 (44) "Những kẻ khác có thể nhiễm thế tục, cố chấp tư kiến, tánh khó hành xả, chúng ta ở đây sẽ không
 nhiễm thế tục, không cố chấp tư kiến, tánh dễ hành xả", cần phải phát tâm như vậy.
 
+<!--pg-->
 ***(Từ bỏ)***
 
 Này Cunda, giống như một con đường không bằng phẳng, có một con đường bằng phẳng khác đối trị.
@@ -157,6 +160,7 @@ nhác, có siêng năng...;... thất niệm, có an trú niệm...;... liệt t
 
 cố chấp tư kiến, tánh dễ hành xả đối trị.
 
+<!--pg-->
 ***(Hướng thượng)***
 
 Này Cunda, ví như các bất thiện pháp, tất cả đều hướng hạ, còn các thiện pháp, tất cả đều hướng thượng.
@@ -169,6 +173,7 @@ thượng đối với người sát sanh.
 (44) Con người không nhiễm thế tục, không cố chấp tư kiến, tánh dễ hành xả, hướng thượng đối với
 người nhiễm thế tục, cố chấp tư kiến, tánh khó hành xả.
 
+<!--pg-->
 ***(Pháp môn giải thoát)***
 
 Này Cunda, con người tự mình bị rơi vào bùn lầy có thể kéo lên một người bị rơi vào bùn lầy, sự tình ấy
@@ -204,6 +209,7 @@ niệm...; đối với con người liệt tuệ, thành tựu trí tuệ...
 (44) Ðối với con người nhiễm thế tục, cố chấp tư kiến, tánh khó hành xả, không nhiễm thế tục, không cố
 chấp tư kiến, tánh dễ hành xả, đưa đến hoàn toàn giải thoát.
 
+<!--pg-->
 ***(Kết luận)***
 
 Này Cunda, như vậy Ta đã giảng pháp môn đoạn giảm, đã giảng pháp môn khởi tâm, đã giảng pháp môn

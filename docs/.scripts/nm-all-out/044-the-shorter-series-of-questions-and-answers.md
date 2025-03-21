@@ -25,14 +25,14 @@ Saying, "Good, lady," the lay follower Visākha delighted and rejoiced in the bh
 
 6. "Lady, is that clinging the same as these five aggregates affected by clinging, or is the clinging something apart from the five aggregates affected by clinging?"
 
-"Friend Visākha, that clinging is neither the same as these five aggregates affected by clinging [300] nor is clinging something apart from the five aggregates affected by clinging. It is the desire and lust in regard to the five aggregates affected by clinging that is the clinging there." ${ }^{\prime 461}$
+"Friend Visākha, that clinging is neither the same as these five aggregates affected by clinging [300] nor is clinging something apart from the five aggregates affected by clinging. It is the desire and lust in regard to the five aggregates affected by clinging that is the clinging there." [^461]
 
 (PERSONALITY VIEW)
 
 7. "Lady, how does personality view come to be?"
 
 "Here, friend Visākha, an untaught ordinary person, who has no regard for noble ones and is unskilled and undisciplined in their Dhamma, who has no regard for true men and is unskilled and undisciplined in their Dhamma, regards material form as self, or self as possessed of material form, or material form as in self, or self as in material form. He regards feeling as self, or self as possessed of feeling, or feeling as in self, or self as in feeling. He regards perception as self, or self as possessed of perception, or perception as in self, or self as in perception. He regards formations as self, or self as possessed of formations, or formations as in self, or self as in formations. He regards consciousness as self, or self as possessed of consciousness, or consciousness as in
-self, or self as in consciousness. That is how personality view comes to be." ${ }^{\prime 462}$
+self, or self as in consciousness. That is how personality view comes to be." [^462]
 
 8. "Lady, how does personality view not come to be?"
 
@@ -136,7 +136,7 @@ underlie all pleasant feeling. The underlying tendency to aversion does not unde
 "Here a bhikkhu considers thus: 'When shall I enter upon and abide in that base that the noble ones now enter upon and abide in?' In one who thus generates a longing for the supreme liberations, [304] grief arises with that longing as condition. With that he abandons aversion, and the underlying tendency to aversion does not underlie that. [^475]
 
 "Here, with the abandoning of pleasure and pain, and with the previous disappearance of joy and grief, a bhikkhu enters upon and abides in the fourth jhāna, which has neither-pain-nor-pleasure and purity of mindfulness due to equanimity. With
-that he abandons ignorance, and the underlying tendency to ignorance does not underlie that." ${ }^{\prime 476}$
+that he abandons ignorance, and the underlying tendency to ignorance does not underlie that." [^476]
 
 ## (COUNTERPARTS)
 

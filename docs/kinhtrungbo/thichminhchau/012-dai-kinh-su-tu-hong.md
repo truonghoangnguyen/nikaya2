@@ -27,6 +27,7 @@ Rồi Tôn giả Sariputta khất thực xong, sau khi ăn và đi khất thực
 sau trong hội chúng Vesali: ""Sa-môn Gotama không có pháp thượng nhân... (như trên)... diệt tận khổ
 đau".
 
+<!--pg-->
 -- Này Sariputta, Sunakkhatta phẫn nộ và ngu si, do phẫn nộ nên nói lên lời ấy. Này Sariputta, Ông ta
 nghĩ: "Ta sẽ nói xấu". Thế mà kẻ ngu Sunakkhatta lại nói lời tán thán Như Lai. Này Sariputta, ai nói như
 sau là tán thán Như Lai: "Pháp ấy được thuyết giảng cho một mục tiêu đặc biệt, có khả năng hướng dẫn
@@ -50,9 +51,9 @@ Tôn, sau khi đi sâu vào tâm chúng sanh, tâm loài Người với tâm c�
 "Tâm có tham biết là tâm có tham. Hay tâm không tham biết là tâm không tham... tâm chuyên chú... tâm
 tán loạn... đại hành tâm... không phải đại hành tâm... tâm chưa vô thượng... tâm vô thượng... Tâm Thiền
 định... Tâm không Thiền định... tâm giải thoát... tâm không giải thoát biết là tâm không giải thoát". Vị
-
 ấy biết như vậy.
 
+<!--pg-->
 ***(Mười lực của Như Lai)***
 
 Này Sariputta, Như Lai có đầy đủ mười Như Lai lực, chính nhờ thành tựu mười lực này, Như Lai tự
@@ -101,7 +102,6 @@ sanh. Như Lai tuệ tri rõ rằng, chúng sanh người hạ liệt, kẻ cao 
 may mắn, kẻ bất hạnh đều do hạnh nghiệp của họ. Các chúng sanh này làm những ác hạnh về thân, về
 lời và về ý, phỉ báng các bậc Thánh, theo tà kiến, tạo các nghiệp theo tà kiến. Những người này sau khi
 thân hoại mạng chung phải sanh vào cõi dữ, ác thú, đọa xứ, địa ngục. Các chúng sanh này làm những
-
 thiện hạnh về thân, về lời và về ý, không phỉ báng các bậc Thánh, theo chánh kiến, tạo các nghiệp theo
 chánh kiến. Những người này, sau khi thân hoại mạng chung, được sanh lên các thiện thú, cõi Trời, trên
 đời này. Như vậy, Như Lai với thiên nhãn thuần tịnh, siêu nhân, thấy sự sống chết của chúng sanh. Như
@@ -128,6 +128,7 @@ tựu Thiền định, thành tựu trí tuệ có thể chứng được chánh
 như vậy là sự thành tựu như vậy. Nếu người ấy không từ bỏ lời nói ấy không từ bỏ tâm ấy, không đoạn
 trừ tà kiến ấy; người ấy sẽ bị rơi vào địa ngục như một gánh nặng bị quăng bỏ một bên.
 
+<!--pg-->
 ***(Bốn pháp vô sở úy)***
 
 Này Sariputta, có bốn pháp vô sở úy chính nhờ thành tựu bốn pháp này, Như Lai tự nhận cho mình địa
@@ -158,6 +159,7 @@ vị Ngưu Vương, rống tiếng rống con sử tử trong các hội chúng 
 Này Sariputta, nếu ai biết Ta như vậy... người ấy sẽ bị rơi vào địa ngục như một gánh nặng bị quăng bỏ
 một bên.
 
+<!--pg-->
 ***(Tám hội chúng)***
 
 Này Sariputta, có tám Hội chúng này: Hội chúng Sát-đế-lị, Hội chúng Bà-la-môn, Hội chúng Gia chủ,
@@ -180,6 +182,7 @@ an ổn, đạt được không sợ hãi, đạt được vô úy.
 Này Sariputta, nếu ai biết Ta như vậy... người ấy sẽ bị rơi vào địa ngục, như một gánh nặng bị quăng bỏ
 một bên.
 
+<!--pg-->
 ***(Bốn loại sanh)***
 
 Này Sariputta, có bốn loại sanh. Thế nào là bốn? Noãn sanh, thai sanh, thấp sanh, hóa sanh.
@@ -195,6 +198,7 @@ loài người và một số thuộc đọa xứ. Này Sariputta, như vậy g�
 Này Sariputta có bốn loại sanh như vậy. Này Sariputta, nếu ai biết Ta như vậy... người ấy sẽ bị rơi vào
 địa ngục, như một gánh nặng bị quăng bỏ một bên.
 
+<!--pg-->
 ***(Năm sanh thú và Niết bàn)***
 
 Này Sariputta, có năm loại sanh thú này. Thế nào là năm? Ðịa ngục, bàng sanh, ngạ quỷ, loài Người,
@@ -306,12 +310,12 @@ nói: "Sa-môn Gotama không có pháp Thượng nhân, không có tri kiến th
 Sa-môn Gotama thuyết pháp, pháp ấy tự mình tạo ra, do suy luận tác thành, tùy thuộc trắc nghiệm". Này
 Sariputta, nếu người ấy không từ bỏ lời nói ấy, không từ bỏ tâm ấy, không đoạn trừ tà kiến ấy, thì người
 ấy sẽ bị rơi vào địa ngục như một gánh nặng bị quăng bỏ một bên. Này Sariputta, Tỷ-kheo thành tựu
-
 giới hạnh, thành tựu thiền định, thành tựu trí tuệ, có thể chứng được chánh trí ngay trong hiện tại. Này
 Sariputta, Ta nói như vậy là sự thành tựu như vậy. Nếu người ấy không từ bỏ lời nói ấy, không từ bỏ
 tâm ấy, không đoạn trừ tà kiến ấy, thì người ấy sẽ bị rơi vào địa ngục như một gánh nặng bị quăng bỏ
 một bên.
 
+<!--pg-->
 ***(Khổ hạnh của Bồ-tát)***
 
 Này Sariputta, Ta thắng tri phạm hạnh, đầy đủ bốn hạnh: về khổ hạnh, Ta khổ hạnh đệ nhất; về bần uế,
@@ -376,15 +380,16 @@ có tuyết rơi, trong những đêm như vậy, Ta sống giữa trời, và b
 sống trong những ngày cuối tháng hè, ban ngày thì sống giữa trời, còn ban đêm trong khu rừng rậm rạp.
 Rồi này Sariputta, những bài kệ kỳ diệu từ trước chưa từng được nghesau đây được khởi lên:
 
-*Nay bị thiêu đốt, bị buốt lạnh,*
-*Cô độc sống trong rừng kinh hoàng,*
-*Trần truồng, Ta ngồi không lửa ấm,*
-*Ẩn sĩ, trong lý tưởng đăm chiêu.*
+*Nay bị thiêu đốt, bị buốt lạnh,*<br>
+*Cô độc sống trong rừng kinh hoàng,*<br>
+*Trần truồng, Ta ngồi không lửa ấm,*<br>
+*Ẩn sĩ, trong lý tưởng đăm chiêu.*<br>
 
 Này Sariputta, Ta nằm ngủ trong bãi tha ma, dựa trên một bộ xương. Này Sariputta, những đứa mục
 đồng đến gần Ta, khạc nhổ trên Ta, tiểu tiện trên Ta, rắc bụi trên Ta và lấy que đâm vào lỗ tai. Này
 Sariputta, và Ta biết Ta không khởi ác tâm đối với chúng. Này Sariputta, như vậy là hạnh trú xả của Ta.
 
+<!--pg-->
 Này Sariputta, lại có một số Sa-môn, Bà-la-môn có những thuyết như sau, có những kiến giải như sau:
 "Sự thanh tịnh đạt được nhờ món ăn". Họ nói: "Chúng ta sống nhờ trái táo", và họ ăn trái táo, họ ăn bột
 táo, họ uống nước trái táo dưới nhiều hình thức. Này Sariputta, Ta tự xưng Ta sống chỉ ăn một trái táo.
@@ -454,6 +459,7 @@ sau: "Sự thanh tịnh chứng đạt được nhờ thờ lửa". Này Sariput
 xưa kia Ta không làm trong một thời gian khá dài, khi Ta là vị vua Sát-đế-l?có làm lễ quán đảnh, hay
 làm vị Bà-la-môn giàu có.
 
+<!--pg-->
 Này Sariputta, lại có một số Sa-môn, Bà-la-môn có những chủ thuyết như sau, có những kiến giải như
 sau: "Khi một thiếu niên còn trẻ tuổi, tóc đen nhánh, huyết khí sung mãn, trong tuổi thanh xuân, người
 ấy thành tựu trí tuệ biện tài tối thượng. Nhưng khi người ấy già cả, niên cao, lạp lớn, đã đến tuổi trưởng
@@ -461,7 +467,6 @@ thượng, đã đi đến đoạn cuối cuộc đời, khi đã tám mươi, c
 tài tối thượng ấy bị đoạn trừ". Này Sariputta, chớ có quan niệm như vậy. Này Sariputta, nay Ta đã già,
 niên cao, lạp lớn, đã đến tuổi trưởng thượng, đã đi dến đoạn cuối cuộc đời, tuổi Ta nay đã đến tám mươi.
 Này Sariputta, ở đây Ta có bốn vị đệ tử, tuổi thọ đến một trăm, đã sống một trăm tuổi, thành tựu chánh
-
 niệm đệ nhất, thành tựu chuyên tâm đệ nhất, thành tựu tinh cần đệ nhất và đầy đủ trí tuệ biện tài tối
 thượng. Này Sariputta, ví như một người bắn cung thiện xảo, có huấn luyện, khéo tay, thuần thục, với
 một mũi tên nhẹ, có thể dễ dàng bắn ngang qua bóng một cây ta-la. Cũng vậy, những vị này với chánh

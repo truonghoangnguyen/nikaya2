@@ -7,7 +7,7 @@
 
 3. "Now the wardens of hell seize such a being by the arms and present him to King Yama, [^1206] saying: 'Sire, this man has illtreated his mother, ill-treated his father, ill-treated recluses, illtreated brahmins; he has had no respect for the elders of his clan. Let the king order his punishment.'
 
-4. "Then King Yama presses and questions and cross-questions him about the first divine messenger: 'Good man, did you not see the first divine messenger to appear in the world? ${ }^{1207} \mathrm{He}$ says: 'I did not, venerable sir.' Then King Yama says: 'Good man, have you never seen in the world a young tender infant lying prone, fouled in his own excrement and urine?' He says: 'I have, venerable sir.'
+4. "Then King Yama presses and questions and cross-questions him about the first divine messenger: 'Good man, did you not see the first divine messenger to appear in the world? [^1207] He says: 'I did not, venerable sir.' Then King Yama says: 'Good man, have you never seen in the world a young tender infant lying prone, fouled in his own excrement and urine?' He says: 'I have, venerable sir.'
 
 "Then King Yama says: 'Good man, did it never occur to you - an intelligent and mature man - "I too am subject to birth, I am not exempt from birth: surely I had better do good by body, speech, and mind"?' He says: 'I was unable, venerable sir, I was negligent.' Then King Yama says: 'Good man, through negligence you have failed to do good by body, speech, and mind. Certainly they will deal with you according to your negligence. But this evil action of yours was not done by your mother or your father, [180] or by your brother or your sister, or by your friends and companions, or by your kinsmen and relatives, or by recluses and brahmins, or by gods: this evil action was done by you yourself, and you yourself will experience its result.'
 
@@ -101,5 +101,5 @@ by the wind, cut off his hands and cut off his feet and cut off his hands and fe
 
 [^1207]: According to Buddhist legend, three of the divine messengers - the old man, the sick man, and the dead man appeared to the Bodhisatta while he was living in the palace, destroying his enchantment with the worldly life and awakening in him a desire to seek the way to deliverance. See AN 3:38/i.145-46 for the psychological nucleus out of which the legend must have developed.
 
-[^1208]: The following description of hell, down to $ 16, is also found at MN 129.10-16.
+[^1208]: The following description of hell, down to §16, is also found at MN 129.10-16.
 

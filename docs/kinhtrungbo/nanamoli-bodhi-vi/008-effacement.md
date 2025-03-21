@@ -1,254 +1,309 @@
-# 8 Effacement
-***(Sallekha Sutta)***
+# 8. Gọt Giũa
+***(Kinh Sallekha)***
 
-1. Thus have I heard. [^101] On one occasion the Blessed One was living at Sāvatthī in Jeta's Grove, Anāthapiṇ̣̣ika's Park.
+1\. Tôi nghe như vầy. Có lần Đức Phật (The Blessed One) ở tại Sāvatthī (Xá Vệ), trong khu rừng Jeta, công viên của Anāthapiṇ̣ika (Cấp Cô Độc).
 
-2. Then, when it was evening, the venerable Mahā Cunda rose from meditation and went to the Blessed One. After paying homage to the Blessed One he sat down at one side and said to him:
+2\. Rồi, vào buổi chiều, tôn giả Mahā Cunda (Đại Ca Diếp) sau khi ngồi thiền xong, liền đến gặp Đức Phật. Sau khi đảnh lễ Đức Phật, ngài ngồi xuống một bên và thưa rằng:
 
-3. "Venerable sir, various views arise in the world associated either with doctrines of a self or with doctrines about the world. [^102] Now does the abandoning and relinquishing of those views come about in a bhikkhu who is attending only to the beginning [of his meditative training]?"103
+3\. "Bạch Thế Tôn, có nhiều quan điểm (views) khác nhau xuất hiện trên thế gian, liên quan đến học thuyết về một cái tôi (self) hoặc học thuyết về thế giới. Liệu một vị tỳ kheo (bhikkhu - người tu hành nam) chỉ mới bắt đầu [việc tu tập thiền định] có thể từ bỏ và buông bỏ những quan điểm đó không?"
 
-"Cunda, as to those various views that arise in the world associated either with doctrines of a self or with doctrines about the world: if [the object] in relation to which those views arise, which they underlie, and which they are exercised upon [^104] is seen as it actually is with proper wisdom thus: 'This is not mine, this I am not, this is not my self,' then the abandoning and relinquishing of those views comes about. [^105]
+"Này Cunda, đối với những quan điểm khác nhau xuất hiện trên thế gian, liên quan đến học thuyết về một cái tôi hoặc học thuyết về thế giới: nếu [đối tượng] mà những quan điểm đó nảy sinh, làm nền tảng, và tác động lên được thấy đúng như thật với trí tuệ (proper wisdom) như sau: 'Cái này không phải của tôi, cái này không phải là tôi, cái này không phải là bản ngã của tôi,' thì việc từ bỏ và buông bỏ những quan điểm đó sẽ xảy ra.
 
-## (THE EIGHT ATTAINMENTS)
+<!--pg-->
+#### (TÁM THÀNH TỰU)
+4\. "Này Cunda, có thể ở đây, một vị tỳ kheo, hoàn toàn tách biệt khỏi những thú vui giác quan (sensual pleasures), tách biệt khỏi những trạng thái bất thiện (unwholesome states), chứng và an trú vào sơ thiền (first jhāna), một trạng thái đi kèm với tầm và tứ (applied and sustained thought), với hỷ và lạc (rapture and pleasure) sinh ra từ sự tách biệt. Vị ấy có thể nghĩ: 'Ta đang an trú trong sự gọt giũa.' Nhưng trong Giáo Pháp (Discipline) của bậc Thánh Nhân (Noble One), những thành tựu này không được gọi là 'gọt giũa': chúng được gọi là 'an trú lạc ngay trong hiện tại' (pleasant abidings here and now).
 
-4. "It is possible here, Cunda, that quite secluded from sensual pleasures, secluded from unwholesome states, some bhikkhu enters upon and abides in the first jhāna, which is accompanied by applied and sustained thought, with rapture and pleasure born of seclusion. He might think thus: 'I am abiding in effacement.' But it is not these attainments that are called 'effacement' in the Noble One's Discipline: these are called 'pleasant abidings here and now' [41] in the Noble One's Discipline. [^106]
+5\. "Có thể ở đây, một vị tỳ kheo, với sự lắng dịu của tầm và tứ, chứng và an trú vào nhị thiền (second jhāna), một trạng thái có sự tự tin và nhất tâm (singleness of mind) mà không có tầm và tứ, với hỷ và lạc sinh ra từ định (concentration). Vị ấy có thể nghĩ: 'Ta đang an trú trong sự gọt giũa.' Nhưng...trong Giáo Pháp của bậc Thánh Nhân, chúng được gọi là 'an trú lạc ngay trong hiện tại'.
 
-5. "It is possible here that with the stilling of applied and sustained thought, some bhikkhu enters upon and abides in the second jhāna, which has self-confidence and singleness of mind without applied and sustained thought, with rapture and pleasure born of concentration. He might think thus: 'I am abiding in effacement.' But...these are called 'pleasant abidings here and now' in the Noble One's Discipline.
+6\. "Có thể ở đây, một vị tỳ kheo, với sự phai nhạt của hỷ, an trú trong xả (equanimity), chánh niệm (mindful) và tỉnh giác (fully aware), vẫn cảm thấy lạc nơi thân, chứng và an trú vào tam thiền (third jhāna), mà các bậc Thánh Nhân tuyên bố: 'Vị ấy có sự an trú lạc, người có xả và chánh niệm.' Vị ấy có thể nghĩ: 'Ta đang an trú trong sự gọt giũa.' Nhưng...trong Giáo Pháp của bậc Thánh Nhân, chúng được gọi là 'an trú lạc ngay trong hiện tại'.
 
-6. "It is possible here that with the fading away as well of rapture, some bhikkhu abides in equanimity, and mindful and fully aware, still feeling pleasure with the body, he enters upon and abides in the third jhāna, on account of which noble ones announce: 'He has a pleasant abiding who has equanimity and is mindful.' He might think thus: 'I am abiding in effacement.' But...these are called 'pleasant abidings here and now' in the Noble One's Discipline.
+7\. "Có thể ở đây, một vị tỳ kheo, với sự từ bỏ lạc và khổ, và với sự biến mất trước đó của hỷ và ưu, chứng và an trú vào tứ thiền (fourth jhāna), một trạng thái không có khổ-không có lạc (neither-pain-nor-pleasure) và thanh tịnh của chánh niệm nhờ vào xả. Vị ấy có thể nghĩ: 'Ta đang an trú trong sự gọt giũa.' Nhưng trong Giáo Pháp của bậc Thánh Nhân, những thành tựu này không được gọi là 'gọt giũa': chúng được gọi là 'an trú lạc ngay trong hiện tại'.
 
-7. "It is possible here that with the abandoning of pleasure and pain, and with the previous disappearance of joy and grief, some bhikkhu enters upon and abides in the fourth jhāna, which has neither-pain-nor-pleasure and purity of mindfulness due to equanimity. He might think thus: 'I am abiding in effacement.' But it is not these attainments that are called 'effacement' in the Noble One's Discipline: these are called 'pleasant abidings here and now' in the Noble One's Discipline.
+8\. "Có thể ở đây, một vị tỳ kheo, với sự vượt qua hoàn toàn các tưởng về sắc (perceptions of form), với sự biến mất của các tưởng về xúc chạm giác quan (perceptions of sensory impact), không chú ý đến các tưởng về sự đa dạng (perceptions of diversity), nhận biết rằng 'không gian là vô biên,' chứng và an trú vào không vô biên xứ (base of infinite space). Vị ấy có thể nghĩ: 'Ta đang an trú trong sự gọt giũa.' Nhưng trong Giáo Pháp của bậc Thánh Nhân, những thành tựu này không được gọi là 'gọt giũa': chúng được gọi là 'an trú an bình' (peaceful abidings).
 
-8. "It is possible here that with the complete surmounting of perceptions of form, with the disappearance of perceptions of sensory impact, with non-attention to perceptions of diversity, aware that 'space is infinite,' some bhikkhu enters upon and abides in the base of infinite space. He might think thus: 'I am abiding in effacement.' But it is not these attainments that are called 'effacement' in the Noble One's Discipline: these are called 'peaceful abidings' in the Noble One's Discipline.
+9\. "Có thể ở đây, một vị tỳ kheo, bằng cách vượt qua hoàn toàn không vô biên xứ, nhận biết rằng 'thức là vô biên,' chứng và an trú vào thức vô biên xứ (base of infinite consciousness). Vị ấy có thể nghĩ: 'Ta đang an trú trong sự gọt giũa.' Nhưng...trong Giáo Pháp của bậc Thánh Nhân, chúng được gọi là 'an trú an bình'.
 
-9. "It is possible here that by completely surmounting the base of infinite space, aware that 'consciousness is infinite,' some bhikkhu enters upon and abides in the base of infinite consciousness. He might think thus: 'I am abiding in effacement.' But...these are called 'peaceful abidings' in the Noble One's Discipline.
+10\. "Có thể ở đây, một vị tỳ kheo, bằng cách vượt qua hoàn toàn thức vô biên xứ, nhận biết rằng 'không có gì cả,' chứng và an trú vào vô sở hữu xứ (base of nothingness). Vị
+ấy có thể nghĩ: 'Ta đang an trú trong sự gọt giũa.' Nhưng...trong Giáo Pháp của bậc Thánh Nhân, chúng được gọi là 'an trú an bình'.
 
-10. "It is possible here that by completely surmounting the base of infinite consciousness, aware that 'there is nothing,' some bhikkhu enters upon and abides in the base of nothingness. He
-might think thus: 'I am abiding in effacement.' But...these are called 'peaceful abidings' in the Noble One's Discipline.
+11\. "Có thể ở đây, một vị tỳ kheo, bằng cách vượt qua hoàn toàn vô sở hữu xứ, chứng và an trú vào phi tưởng phi phi tưởng xứ (base of neither-perception-nor-non-perception). Vị ấy có thể nghĩ: 'Ta đang an trú trong sự gọt giũa.' Nhưng trong Giáo Pháp của bậc Thánh Nhân, những thành tựu này không được gọi là 'gọt giũa': chúng được gọi là 'an trú an bình'.
 
-11. "It is possible here that by completely surmounting the base of nothingness, some bhikkhu enters upon and abides in the base of neither-perception-nor-non-perception. He might think thus: 'I am abiding in effacement.' [42] But these attainments are not called 'effacement' in the Noble One's Discipline: these are called 'peaceful abidings' in the Noble One's Discipline.
+<!--pg-->
+#### (GỌT GIŨA)
 
-## (EFFACEMENT)
+12\. "Này Cunda, đây là cách mà các ông nên thực hành sự gọt giũa:
 
-12. "Now, Cunda, here effacement should be practised by you: [^107]
+(1) 'Người khác sẽ tàn ác; chúng ta sẽ không tàn ác ở đây': sự gọt giũa nên được thực hành như vậy.
 
-(1) 'Others will be cruel; we shall not be cruel here': effacement should be practised thus. [^108]
+(2) 'Người khác sẽ sát sinh; chúng ta sẽ không sát sinh ở đây': sự gọt giũa nên được thực hành như vậy.
 
-(2) 'Others will kill living beings; we shall abstain from killing living beings here': effacement should be practised thus.
+(3) 'Người khác sẽ lấy của không cho; chúng ta sẽ không lấy của không cho ở đây': sự gọt giũa nên được thực hành như vậy.
 
-(3) 'Others will take what is not given; we shall abstain from taking what is not given here': effacement should be practised thus.
+(4) 'Người khác sẽ không sống phạm hạnh (uncelibate); chúng ta sẽ sống phạm hạnh (celibate) ở đây': sự gọt giũa nên được thực hành như vậy.
 
-(4) 'Others will be uncelibate; we shall be celibate here': effacement should be practised thus.
+(5) 'Người khác sẽ nói dối; chúng ta sẽ không nói dối ở đây': sự gọt giũa nên được thực hành như vậy.
 
-(5) 'Others will speak falsehood; we shall abstain from false speech here': effacement should be practised thus.
+(6) 'Người khác sẽ nói lời ác ý; chúng ta sẽ không nói lời ác ý ở đây': sự gọt giũa nên được thực hành như vậy.
 
-(6) 'Others will speak maliciously; we shall abstain from malicious speech here': effacement should be practised thus.
+(7) 'Người khác sẽ nói lời thô lỗ; chúng ta sẽ không nói lời thô lỗ ở đây': sự gọt giũa nên được thực hành như vậy.
 
-(7) 'Others will speak harshly; we shall abstain from harsh speech here': effacement should be practised thus.
+(8) 'Người khác sẽ nói lời phù phiếm; chúng ta sẽ không nói lời phù phiếm ở đây': sự gọt giũa nên được thực hành như vậy.
 
-(8) 'Others will gossip; we shall abstain from gossip here': effacement should be practised thus.
+(9) 'Người khác sẽ tham lam; chúng ta sẽ không tham lam ở đây': sự gọt giũa nên được thực hành như vậy.
 
-(9) 'Others will be covetous; we shall be uncovetous here': effacement should be practised thus.
+(10) 'Người khác sẽ có sân hận (ill will); chúng ta sẽ không có sân hận ở đây': sự gọt giũa nên được thực hành như vậy.
 
-(10) 'Others will have ill will; we shall be without ill will here': effacement should be practised thus.
+(11) 'Người khác sẽ có tà kiến (wrong view); chúng ta sẽ có chánh kiến (right view) ở đây': sự gọt giũa nên được thực hành như vậy.
 
-(11) 'Others will be of wrong view; we shall be of right view here': effacement should be practised thus.
+(12) 'Người khác sẽ có tà tư duy (wrong intention); chúng ta sẽ có chánh tư duy (right intention) ở đây': sự gọt giũa nên được thực hành như vậy.
 
-(12) 'Others will be of wrong intention; we shall be of right intention here': effacement should be practised thus.
+(13) 'Người khác sẽ có tà ngữ (wrong speech); chúng ta sẽ có chánh ngữ (right speech) ở đây': sự gọt giũa nên được thực hành như vậy.
 
-(13) 'Others will be of wrong speech; we shall be of right speech here': effacement should be practised thus.
+(14) 'Người khác sẽ có tà nghiệp (wrong action); chúng ta sẽ có chánh nghiệp (right action) ở đây': sự gọt giũa nên được thực hành như vậy.
 
-(14) 'Others will be of wrong action; we shall be of right action here': effacement should be practised thus.
-(15) 'Others will be of wrong livelihood; we shall be of right livelihood here': effacement should be practised thus.
+(15) 'Người khác sẽ có tà mạng (wrong livelihood); chúng ta sẽ có chánh mạng (right livelihood) ở đây': sự gọt giũa nên được thực hành như vậy.
 
-(16) 'Others will be of wrong effort; we shall be of right effort here': effacement should be practised thus.
+(16) 'Người khác sẽ có tà tinh tấn (wrong effort); chúng ta sẽ có chánh tinh tấn (right effort) ở đây': sự gọt giũa nên được thực hành như vậy.
 
-(17) 'Others will be of wrong mindfulness; we shall be of right mindfulness here': effacement should be practised thus.
+(17) 'Người khác sẽ có tà niệm (wrong mindfulness); chúng ta sẽ có chánh niệm (right mindfulness) ở đây': sự gọt giũa nên được thực hành như vậy.
 
-(18) 'Others will be of wrong concentration; we shall be of right concentration here': effacement should be practised thus.
+(18) 'Người khác sẽ có tà định (wrong concentration); chúng ta sẽ có chánh định (right concentration) ở đây': sự gọt giũa nên được thực hành như vậy.
 
-(19) 'Others will be of wrong knowledge; we shall be of right knowledge here': effacement should be practised thus.
+(19) 'Người khác sẽ có tà trí (wrong knowledge); chúng ta sẽ có chánh trí (right knowledge) ở đây': sự gọt giũa nên được thực hành như vậy.
 
-(20) 'Others will be of wrong deliverance; we shall be of right deliverance here': effacement should be practised thus.
+(20) 'Người khác sẽ có tà giải thoát (wrong deliverance); chúng ta sẽ có chánh giải thoát (right deliverance) ở đây': sự gọt giũa nên được thực hành như vậy.
 
-(21) 'Others will be overcome by sloth and torpor; we shall be free from sloth and torpor here': effacement should be practised thus.
+(21) 'Người khác sẽ bị hôn trầm, thụy miên (sloth and torpor) chi phối; chúng ta sẽ không bị hôn trầm, thụy miên chi phối ở đây': sự gọt giũa nên được thực hành như vậy.
 
-(22) 'Others will be restless; we shall not be restless here': effacement should be practised thus.
+(22) 'Người khác sẽ trạo cử (restless); chúng ta sẽ không trạo cử ở đây': sự gọt giũa nên được thực hành như vậy.
 
-(23) 'Others will be doubters; we shall go beyond doubt here': effacement should be practised thus.
+(23) 'Người khác sẽ nghi ngờ; chúng ta sẽ vượt qua nghi ngờ ở đây': sự gọt giũa nên được thực hành như vậy.
 
-(24) 'Others will be angry; we shall not be angry here': effacement should be practised thus.
+(24) 'Người khác sẽ giận dữ; chúng ta sẽ không giận dữ ở đây': sự gọt giũa nên được thực hành như vậy.
 
-(25) 'Others will be revengeful; we shall not be revengeful here': effacement should be practised thus. [43]
+(25) 'Người khác sẽ thù hận; chúng ta sẽ không thù hận ở đây': sự gọt giũa nên được thực hành như vậy.
 
-(26) 'Others will be contemptuous; we shall not be contemptuous here': effacement should be practised thus.
+(26) 'Người khác sẽ khinh người; chúng ta sẽ không khinh người ở đây': sự gọt giũa nên được thực hành như vậy.
 
-(27) 'Others will be domineering; we shall not be domineering here': effacement should Be practised thus.
+(27) 'Người khác sẽ hống hách; chúng ta sẽ không hống hách ở đây': sự gọt giũa nên được thực hành như vậy.
 
-(28) 'Others will be envious; we shall not be envious here': effacement should be practised thus.
+(28) 'Người khác sẽ ganh tị; chúng ta sẽ không ganh tị ở đây': sự gọt giũa nên được thực hành như vậy.
 
-(29) 'Others will be avaricious; we shall not be avaricious here': effacement should be practised thus.
+(29) 'Người khác sẽ keo kiệt; chúng ta sẽ không keo kiệt ở đây': sự gọt giũa nên được thực hành như vậy.
 
-(30) 'Others will be fraudulent; we shall not be fraudulent here': effacement should be practised thus.
+(30) 'Người khác sẽ gian dối; chúng ta sẽ không gian dối ở đây': sự gọt giũa nên được thực hành như vậy.
 
-(31) 'Others will be deceitful; we shall not be deceitful here': effacement should be practised thus.
+(31) 'Người khác sẽ lừa đảo; chúng ta sẽ không lừa đảo ở đây': sự gọt giũa nên được thực hành như vậy.
 
-(32) 'Others will be obstinate; we shall not be obstinate here': effacement should be practised thus.
+(32) 'Người khác sẽ cố chấp; chúng ta sẽ không cố chấp ở đây': sự gọt giũa nên được thực hành như vậy.
 
-(33) 'Others will be arrogant; we shall not be arrogant here': effacement should be practised thus.
+(33) 'Người khác sẽ ngạo mạn; chúng ta sẽ không ngạo mạn ở đây': sự gọt giũa nên được thực hành như vậy.
 
-(34) 'Others will be difficult to admonish; we shall be easy to admonish here': effacement should be practised thus.
-(35) 'Others will have bad friends; we shall have good friends here': effacement should be practised thus.
+(34) 'Người khác sẽ khó bảo; chúng ta sẽ dễ bảo ở đây': sự gọt giũa nên được thực hành như vậy.
 
-(36) 'Others will be negligent; we shall be diligent here': effacement should be practised thus.
+(35) 'Người khác sẽ có bạn xấu; chúng ta sẽ có bạn tốt ở đây': sự gọt giũa nên được thực hành như vậy.
 
-(37) 'Others will be faithless; we shall be faithful here': effacement should be practised thus.
+(36) 'Người khác sẽ buông lung; chúng ta sẽ tinh tấn ở đây': sự gọt giũa nên được thực hành như vậy.
 
-(38) 'Others will be shameless; we shall be shameful here': effacement should be practised thus.
+(37) 'Người khác sẽ không có đức tin; chúng ta sẽ có đức tin ở đây': sự gọt giũa nên được thực hành như vậy.
 
-(39) 'Others will have no fear of wrongdoing; we shall be afraid of wrongdoing here': effacement should be practised thus.
+(38) 'Người khác sẽ không biết xấu hổ; chúng ta sẽ biết xấu hổ ở đây': sự gọt giũa nên được thực hành như vậy.
 
-(40) 'Others will be of little learning; we shall be of great learning here': effacement should be practised thus.
+(39) 'Người khác sẽ không sợ làm điều ác; chúng ta sẽ sợ làm điều ác ở đây': sự gọt giũa nên được thực hành như vậy.
 
-(41) 'Others will be lazy; we shall be energetic here': effacement should be practised thus.
+(40) 'Người khác sẽ ít học; chúng ta sẽ học rộng ở đây': sự gọt giũa nên được thực hành như vậy.
 
-(42) 'Others will be unmindful; we shall be established in mindfulness here': effacement should be practised thus.
+(41) 'Người khác sẽ lười biếng; chúng ta sẽ siêng năng ở đây': sự gọt giũa nên được thực hành như vậy.
 
-(43) 'Others will lack wisdom; we shall possess wisdom here': effacement should be practised thus.
+(42) 'Người khác sẽ thất niệm; chúng ta sẽ an trú vào chánh niệm ở đây': sự gọt giũa nên được thực hành như vậy.
 
-(44) 'Others will adhere to their own views, hold on to them tenaciously, and relinquish them with difficulty; [^109] we shall not adhere to our own views or hold on to them tenaciously, but shall relinquish them easily': effacement should be practised thus.
+(43) 'Người khác sẽ thiếu trí tuệ; chúng ta sẽ có trí tuệ ở đây': sự gọt giũa nên được thực hành như vậy.
 
-## (INCLINATION OF MIND)
+(44) 'Người khác sẽ bám chặt vào quan điểm của mình, giữ chúng một cách cố chấp, và khó từ bỏ chúng; chúng ta sẽ không bám chặt vào quan điểm của mình, không giữ chúng một cách cố chấp, mà sẽ dễ dàng từ bỏ chúng': sự gọt giũa nên được thực hành như vậy.
 
-13. "Cunda, I say that even the inclination of mind towards wholesome states is of great benefit, so what should be said of bodily and verbal acts conforming [to such a state of mind]? [^110] Therefore, Cunda:
+<!--pg-->
+#### (KHUYNH HƯỚNG TÂM)
+13\. "Này Cunda, Ta nói rằng ngay cả việc hướng tâm (inclination of mind) đến các trạng thái thiện (wholesome states) cũng có lợi ích lớn, vậy thì còn nói gì đến các hành động thân và khẩu phù hợp [với trạng thái tâm như vậy]? Vì vậy, này Cunda:
 
-(1) Mind should be inclined thus: 'Others will be cruel; we shall not be cruel here.'
+(1) Tâm nên được hướng như sau: 'Người khác sẽ tàn ác; chúng ta sẽ không tàn ác ở đây.'
 
-(2) Mind should be inclined thus: 'Others will kill living beings; we shall abstain from killing living beings here.'
+(2) Tâm nên được hướng như sau: 'Người khác sẽ sát sinh; chúng ta sẽ không sát sinh ở đây.'
 
-(3-43) Mind should be inclined thus:...
+(3-43) Tâm nên được hướng như sau:...
 
-(44) Mind should be inclined thus: 'Others will adhere to their own views, hold on to them tenaciously, and relinquish them with difficulty; we shall not adhere to our own views or hold on to them tenaciously, but shall relinquish them easily.'
+(44) Tâm nên được hướng như sau: 'Người khác sẽ bám chặt vào quan điểm của mình, giữ chúng một cách cố chấp, và khó từ bỏ chúng; chúng ta sẽ không bám chặt vào quan điểm của mình, không giữ chúng một cách cố chấp, mà sẽ dễ dàng từ bỏ chúng.'
 
-## (AVOIDANCE)
+<!--pg-->
+#### (TRÁNH XA)
 
-14. "Cunda, suppose there were an uneven path and another even path by which to avoid it; and suppose there were an uneven ford and another even ford by which to avoid it. [44] So too:
+14\. "Này Cunda, ví như có một con đường gập ghềnh và một con đường bằng phẳng khác để tránh nó; và ví như có một chỗ lội gập ghềnh và một chỗ lội bằng phẳng khác để tránh nó. Cũng vậy:
 
-(1) A person given to cruelty has non-cruelty by which to avoid it.
+(1) Một người hay tàn ác có sự không tàn ác để tránh xa nó.
 
-(2) One given to killing living beings has abstention from killing living beings by which to avoid it.
+(2) Một người hay sát sinh có sự không sát sinh để tránh xa nó.
 
-(3) One given to taking what is not given has abstention from taking what is not given by which to avoid it.
+(3) Một người hay lấy của không cho có sự không lấy của không cho để tránh xa nó.
 
-(4) One given to be uncelibate has celibacy by which to avoid it.
+(4) Một người không sống phạm hạnh có sự sống phạm hạnh để tránh xa nó.
 
-(5) One given to false speech has abstention from false speech by which to avoid it.
+(5) Một người hay nói dối có sự không nói dối để tránh xa nó.
 
-(6) One given to malicious speech has abstention from malicious speech by which to avoid it.
+(6) Một người hay nói lời ác ý có sự không nói lời ác ý để tránh xa nó.
 
-(7) One given to harsh speech has abstention from harsh speech by which to avoid it.
+(7) Một người hay nói lời thô lỗ có sự không nói lời thô lỗ để tránh xa nó.
 
-(8) One given to gossip has abstention from gossip by which to avoid it.
+(8) Một người hay nói lời phù phiếm có sự không nói lời phù phiếm để tránh xa nó.
 
-(9) One given to covetousness has uncovetousness by which to avoid it.
+(9) Một người hay tham lam có sự không tham lam để tránh xa nó.
 
-(10) One given to ill will has non-ill will by which to avoid it.
+(10) Một người hay sân hận có sự không sân hận để tránh xa nó.
 
-(11) One given to wrong view has right view by which to avoid it.
+(11) Một người có tà kiến có chánh kiến để tránh xa nó.
 
-(12) One given to wrong intention has right intention by which to avoid it.
+(12) Một người có tà tư duy có chánh tư duy để tránh xa nó.
 
-(13) One given to wrong speech has right speech by which to avoid it.
+(13) Một người có tà ngữ có chánh ngữ để tránh xa nó.
 
-(14) One given to wrong action has right action by which to avoid it.
+(14) Một người có tà nghiệp có chánh nghiệp để tránh xa nó.
 
-(15) One given to wrong livelihood has right livelihood by which to avoid it.
+(15) Một người có tà mạng có chánh mạng để tránh xa nó.
 
-(16) One given to wrong effort has right effort by which to avoid it.
+(16) Một người có tà tinh tấn có chánh tinh tấn để tránh xa nó.
 
-(17) One given to wrong mindfulness has right mindfulness by which to avoid it.
+(17) Một người có tà niệm có chánh niệm để tránh xa nó.
 
-(18) One given to wrong concentration has right concentration by which to avoid it.
-(19) One given to wrong knowledge has right knowledge by which to avoid it.
+(18) Một người có tà định có chánh định để tránh xa nó.
 
-(20) One given to wrong deliverance has right deliverance by which to avoid it.
+(19) Một người có tà trí có chánh trí để tránh xa nó.
 
-(21) One given to sloth and torpor has freedom from sloth and torpor by which to avoid it.
+(20) Một người có tà giải thoát có chánh giải thoát để tránh xa nó.
 
-(22) One given to restlessness has non-restlessness by which to avoid it.
+(21) Một người bị hôn trầm, thụy miên chi phối có sự không bị hôn trầm, thụy miên chi phối để tránh xa nó.
 
-(23) One given to doubt has the state beyond doubt by which to avoid it.
+(22) Một người hay trạo cử có sự không trạo cử để tránh xa nó.
 
-(24) One given to anger has non-anger by which to avoid it.
+(23) Một người hay nghi ngờ có trạng thái vượt qua nghi ngờ để tránh xa nó.
 
-(25) One given to revenge has non-revenge by which to avoid it.
+(24) Một người hay giận dữ có sự không giận dữ để tránh xa nó.
 
-(26) One given to contempt has non-contempt by which to avoid it.
+(25) Một người hay thù hận có sự không thù hận để tránh xa nó.
 
-(27) One given to a domineering attitude has a non-domineering attitude by which to avoid it.
+(26) Một người hay khinh người có sự không khinh người để tránh xa nó.
 
-(28) One given to envy has non-envy by which to avoid it.
+(27) Một người hay hống hách có thái độ không hống hách để tránh xa nó.
 
-(29) One given to avarice has non-avarice by which to avoid it.
+(28) Một người hay ganh tị có sự không ganh tị để tránh xa nó.
 
-(30) One given to fraud has non-fraud by which to avoid it.
+(29) Một người hay keo kiệt có sự không keo kiệt để tránh xa nó.
 
-(31) One given to deceit has non-deceit by which to avoid it.
+(30) Một người hay gian dối có sự không gian dối để tránh xa nó.
 
-(32) One given to obstinacy has non-obstinacy by which to avoid it.
+(31) Một người hay lừa đảo có sự không lừa đảo để tránh xa nó.
 
-(33) One given to arrogance has non-arrogance by which to avoid it.
+(32) Một người hay cố chấp có sự không cố chấp để tránh xa nó.
 
-(34) One given to being difficult to admonish has being easy to admonish by which to avoid it.
+(33) Một người hay ngạo mạn có sự không ngạo mạn để tránh xa nó.
 
-(35) One given to making bad friends has making good friends by which to avoid it.
+(34) Một người khó bảo có sự dễ bảo để tránh xa nó.
 
-(36) One given to negligence has diligence by which to avoid it.
+(35) Một người hay kết bạn xấu có sự kết bạn tốt để tránh xa nó.
 
-(37) One given to faithlessness has faith by which to avoid it.
+(36) Một người hay buông lung có sự tinh tấn để tránh xa nó.
 
-(38) One given to shamelessness has shame by which to avoid it.
+(37) Một người không có đức tin có đức tin để tránh xa nó.
 
-(39) One given to fearlessness of wrongdoing has fear of wrongdoing by which to avoid it.
+(38) Một người không biết xấu hổ có sự biết xấu hổ để tránh xa nó.
 
-(40) One given to little learning has great learning by which to avoid it.
+(39) Một người không sợ làm điều ác có sự sợ làm điều ác để tránh xa nó.
 
-(41) One given to laziness has the arousal of energy by which to avoid it.
+(40) Một người ít học có sự học rộng để tránh xa nó.
 
-(42) One given to unmindfulness has the establishment of mindfulness by which to avoid it.
-(43) One given to lack of wisdom has the acquisition of wisdom by which to avoid it.
+(41) Một người lười biếng có sự khơi dậy năng lực (arousal of energy) để tránh xa nó.
 
-(44) One given to adhere to his own views, who holds on to them tenaciously and relinquishes them with difficulty, has nonadherence to his own views, not holding on to them tenaciously and relinquishing them easily, by which to avoid it.
+(42) Một người thất niệm có sự thiết lập chánh niệm (establishment of mindfulness) để tránh xa nó.
 
-## (THE WAY LEADING UPWARDS)
+(43) Một người thiếu trí tuệ có sự đạt được trí tuệ (acquisition of wisdom) để tránh xa nó.
 
-15. "Cunda, just as all unwholesome states lead downwards and all wholesome states lead upwards, so too:
+(44) Một người bám chặt vào quan điểm của mình, giữ chúng một cách cố chấp và khó từ bỏ chúng, có sự không bám chặt vào quan điểm của mình, không giữ chúng một cách cố chấp và dễ dàng từ bỏ chúng, để tránh xa nó.
 
-(1) A person given to cruelty has non-cruelty to lead him upwards.
+<!--pg-->
+#### (CON ĐƯỜNG ĐI LÊN)
+15\. "Này Cunda, cũng như tất cả các trạng thái bất thiện (unwholesome states) đều dẫn xuống và tất cả các trạng thái thiện đều dẫn lên, cũng vậy:
 
-(2) One given to killing living beings has abstention from killing living beings to lead him upwards.
+(1) Một người hay tàn ác có sự không tàn ác để dẫn người ấy đi lên.
 
-(3-43) One given to...to lead him upwards.
+(2) Một người hay sát sinh có sự không sát sinh để dẫn người ấy đi lên.
 
-(44) One given to adhere to his own views, who holds on to them tenaciously [45] and relinquishes them with difficulty, has non-adherence to his own views, not holding on to them tenaciously and relinquishing them easily, to lead him upwards.
+(3-43) Một người hay...để dẫn người ấy đi lên.
 
-## (THE WAY OF EXTINGUISHING)
+(44) Một người bám chặt vào quan điểm của mình, giữ chúng một cách cố chấp và khó từ bỏ chúng, có sự không bám chặt vào quan điểm của mình, không giữ chúng một cách cố chấp và dễ dàng từ bỏ chúng, để dẫn người ấy đi lên.
 
-16. "Cunda, that one who is himself sinking in the mud should pull out another who is sinking in the mud is impossible; that one who is not himself sinking in the mud should pull out another who is sinking in the mud is possible. That one who is himself untamed, undisciplined, [with defilements] unextinguished, should tame another, discipline him, and help extinguish [his defilements] is impossible; that one who is himself tamed, disciplined, [with defilements] extinguished, should tame another, discipline him, and help extinguish [his defilements] is possible. [^111] So too:
+<!--pg-->
+#### (CON ĐƯỜNG DẬP TẮT)
+16\. "Này Cunda, một người mà bản thân đang chìm trong bùn thì không thể kéo người khác đang chìm trong bùn ra được; một người mà bản thân không chìm trong bùn thì có thể kéo người khác đang chìm trong bùn ra được. Một người mà bản thân chưa được thuần hóa (untamed), chưa được rèn luyện (undisciplined), [với các phiền não (defilements)] chưa được dập tắt, thì không thể thuần hóa người khác, rèn luyện người khác, và giúp dập tắt [phiền não của người khác]; một người mà bản thân đã được thuần hóa, đã được rèn luyện, [với các phiền não] đã được dập tắt, thì có thể thuần hóa người khác, rèn luyện người khác, và giúp dập tắt [phiền não của người khác]. Cũng vậy:
 
-(1) A person given to cruelty has non-cruelty by which to extinguish it. [^112]
+(1) Một người hay tàn ác có sự không tàn ác để dập tắt nó.
 
-(2) One given to killing living beings has abstention from killing living beings by which to extinguish it.
+(2) Một người hay sát sinh có sự không sát sinh để dập tắt nó.
 
-(3-43) One given to...[46]...by which to extinguish it.
+(3-43) Một người hay...để dập tắt nó.
 
-(44) One given to adhere to his own views, who holds on to them tenaciously and relinquishes them with difficulty, has
-non-adherence to his own views, not holding on to them tenaciously and relinquishing them easily, by which to extinguish it.
+(44) Một người bám chặt vào quan điểm của mình, giữ chúng một cách cố chấp và khó từ bỏ chúng, có
+sự không bám chặt vào quan điểm của mình, không giữ chúng một cách cố chấp và dễ dàng từ bỏ chúng, để dập tắt nó.
 
-## (CONCLUSION)
+<!--pg-->
+#### (KẾT LUẬN)
+17\. "Vậy này Cunda, con đường gọt giũa đã được Ta chỉ dạy, con đường hướng tâm đã được Ta chỉ dạy, con đường tránh xa đã được Ta chỉ dạy, con đường đi lên đã được Ta chỉ dạy, và con đường dập tắt đã được Ta chỉ dạy.
 
-17. "So, Cunda, the way of effacement has been taught by me, the way of inclining the mind has been taught by me, the way of avoidance has been taught by me, the way leading upwards has been taught by me, and the way of extinguishing has been taught by me.
+18\. "Những gì một vị thầy (teacher) nên làm cho các đệ tử (disciples) của mình vì lòng từ bi (compassion), tìm kiếm sự tốt đẹp cho họ và có lòng từ bi đối với họ, thì Ta đã làm cho các ông, này Cunda. Có những gốc cây này, có những túp lều trống này. Hãy thiền định (Meditate), này Cunda, đừng trì hoãn, kẻo sau này các ông sẽ hối tiếc. Đây là lời chỉ dạy của chúng ta cho các ông."
 
-18. "What should be done for his disciples out of compassion by a teacher who seeks their welfare and has compassion for them, that I have done for you, Cunda. [^113] There are these roots of trees, these empty huts. Meditate, Cunda, do not delay or else you will regret it later. This is our instruction to you."
+Đó là những gì Đức Phật đã nói. Tôn giả Mahā Cunda hoan hỷ và hài lòng với những lời của Đức Phật.
 
-That is what the Blessed One said. The venerable Mahā Cunda was satisfied and delighted in the Blessed One's words.
+<!--pg-->
+Từ ngữ:
+
+-   Gọt giũa / Sallekha / Effacement: Sự loại bỏ, gột rửa những điều bất thiện.
+-   Tỳ kheo / Bhikkhu: Người tu hành nam trong Phật giáo.
+-   Giáo Pháp / Dhamma / Discipline: Giáo lý, lời dạy của Đức Phật.
+-   Bậc Thánh Nhân / Ariya / Noble One: Người đã đạt được các tầng Thánh, giải thoát khỏi khổ đau.
+-   Sơ thiền / paṭhamajjhāna / first jhāna: Trạng thái thiền định đầu tiên, có tầm, tứ, hỷ, lạc.
+-   Nhị thiền / dutiyajjhāna / second jhāna: Trạng thái thiền định thứ hai, không có tầm và tứ, có hỷ, lạc.
+-   Tam thiền / tatiyajjhāna / third jhāna: Trạng thái thiền định thứ ba, có xả, chánh niệm, lạc.
+-   Tứ thiền / catutthajjhāna / fourth jhāna: Trạng thái thiền định thứ tư, xả niệm thanh tịnh.
+-   Không vô biên xứ / ākāsānañcāyatana / base of infinite space: Một trong các tầng thiền vô sắc, nơi hành giả nhận thức không gian là vô biên.
+-   Thức vô biên xứ / viññāṇañcāyatana / base of infinite consciousness: Một trong các tầng thiền vô sắc, nơi hành giả nhận thức thức là vô biên.
+-   Vô sở hữu xứ / ākiñcaññāyatana / base of nothingness: Một trong các tầng thiền vô sắc, nơi hành giả nhận thức không có gì cả.
+-   Phi tưởng phi phi tưởng xứ / nevasaññānāsaññāyatana / base of neither-perception-nor-non-perception: Một trong các tầng thiền vô sắc, nơi hành giả không còn tưởng rõ ràng, cũng không phải không có tưởng.
+-   Tầm / vitakka / applied thought: Hướng tâm đến đối tượng.
+-   Tứ / vicāra / sustained thought: Duy trì sự chú tâm trên đối tượng.
+-   Hỷ / Pīti / rapture: Cảm giác hân hoan, phấn chấn.
+-   Lạc / Sukha / pleasure: Cảm giác dễ chịu, thoải mái.
+-   Xả / Upekkhā / equanimity: Trạng thái tâm bình thản, không dao động.
+-   Chánh niệm / Sati / mindfulness: Sự ghi nhớ, chú tâm vào hiện tại.
+-   Tỉnh giác / Sampajañña / fully aware: Sự nhận biết rõ ràng về những gì đang diễn ra.
+-   Định / Samādhi / concentration: Sự tập trung tâm vào một đối tượng.
+-   Tà kiến / Micchā-diṭṭhi / wrong view: Quan điểm sai lầm, không đúng với sự thật.
+-   Chánh kiến / Sammā-diṭṭhi / right view: Quan điểm đúng đắn, phù hợp với sự thật.
+-   Tà tư duy / Micchā-saṅkappa / wrong intention: Suy nghĩ sai lầm, có hại.
+-   Chánh tư duy / Sammā-saṅkappa / right intention: Suy nghĩ đúng đắn, có lợi.
+-   Tà ngữ / Micchā-vācā / wrong speech: Lời nói sai lầm, có hại.
+-   Chánh ngữ / Sammā-vācā / right speech: Lời nói đúng đắn, có lợi.
+-   Tà nghiệp / Micchā-kammanta / wrong action: Hành động sai lầm, có hại.
+-   Chánh nghiệp / Sammā-kammanta / right action: Hành động đúng đắn, có lợi.
+-   Tà mạng / Micchā-ājīva / wrong livelihood: Cách kiếm sống sai lầm, có hại.
+-   Chánh mạng / Sammā-ājīva / right livelihood: Cách kiếm sống đúng đắn, có lợi.
+-   Tà tinh tấn / Micchā-vāyāma / wrong effort: Nỗ lực sai lầm, có hại.
+-   Chánh tinh tấn / Sammā-vāyāma / right effort: Nỗ lực đúng đắn, có lợi.
+-   Tà niệm / Micchā-sati / wrong mindfulness: Chú tâm sai lầm, có hại.
+-   Chánh niệm / Sammā-sati / right mindfulness: Chú tâm đúng đắn, có lợi.
+-   Tà định / Micchā-samādhi / wrong concentration: Tập trung sai lầm, có hại.
+-   Chánh định / Sammā-samādhi / right concentration: Tập trung đúng đắn, có lợi.
+-   Tà trí / Micchā-ñāṇa / wrong knowledge: Kiến thức sai lầm.
+-   Chánh trí / Sammā-ñāṇa / right knowledge: Kiến thức đúng đắn.
+-   Tà giải thoát / Micchā-vimutti / wrong deliverance: Giải thoát sai lầm.
+-   Chánh giải thoát / Sammā-vimutti / right deliverance: Giải thoát đúng đắn.
+-   Hôn trầm, thụy miên / Thīna-middha / sloth and torpor: Trạng thái uể oải, buồn ngủ, thiếu tỉnh táo.
+-   Trạo cử / Uddhacca / restlessness: Trạng thái tâm không yên, xao động.
+-   Sân hận / Byāpāda / ill will: Tâm trạng tức giận, thù hận.
+-   Từ bi / Mettā / compassion: Lòng thương yêu, mong muốn người khác hạnh phúc.
+-   Phiền não / Kilesa / defilements: Những trạng thái tâm bất thiện, gây ra khổ đau.

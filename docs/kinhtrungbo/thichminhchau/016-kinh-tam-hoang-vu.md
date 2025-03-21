@@ -12,6 +12,7 @@ Một thời, Thế Tôn ở Savatthi (Xá-vệ), tại Jetavana (Kỳ-đà Lâm
 -- Chư Tỷ-kheo, Tỷ-kheo nào chưa diệt trừ năm tâm hoang vu, chưa đoạn tận năm tâm triền phược, vị ấy
 có thể lớn mạnh, trưởng thành, hưng thịnh trong pháp luật này, sự kiện này không xảy ra.
 
+<!--pg-->
 Thế nào là năm tâm hoang vu chưa được đoạn trừ? Chư Tỷ-kheo, ở đây, Tỷ-kheo nghi ngờ bậc Ðạo Sư,
 do dự, không quyết đoán, không có tịnh tín. Chư Tỷ-kheo, Tỷ-kheo nào nghi ngờ bậc Ðạo Sư, do dự,
 không quyết đoán, không có tịnh tín, thời tâm vị này không hướng về nỗ lực, chuyên cần, kiên trì, tinh
@@ -38,6 +39,7 @@ năm chưa được diệt trừ.
 
 Như vậy là năm tâm hoang vu chưa được diệt trừ.
 
+<!--pg-->
 Thế nào là năm tâm triền phược chưa được đoạn tận? Chư Tỷ-kheo, ở đây, Tỷ-kheo, đối với những dục,
 không phải không tham ái, không phải không dục cầu, không phải không ái luyến, không phải không
 khao khát, không phải không nhiệt tình, không phải không khát ái. Chư Tỷ-kheo, vị Tỷ-kheo nào đối với
@@ -63,6 +65,7 @@ triền phược thứ năm chưa được đoạn tận.
 
 Như vậy là năm tâm triền phược chưa được đoạn tận.
 
+<!--pg-->
 Chư Tỷ-kheo, Tỷ-kheo nào chưa diệt trừ năm tâm hoang vu này, chưa đoạn tận năm tâm triền phược
 này, vị ấy có thể lớn mạnh trưởng thành, hưng thịnh trong pháp luật này, sự kiện này không xảy ra.
 
@@ -94,6 +97,7 @@ diệt trừ.
 
 Như vậy là năm tâm hoang vu đã được diệt trừ.
 
+<!--pg-->
 Thế nào là năm tâm triền phược đã được đoạn tận?
 
 Chư Tỷ-kheo, ở đây, Tỷ-kheo đối với những dục không có tham ái, không có dục cầu, không có ái
@@ -122,6 +126,7 @@ tấn. Nếu tâm của ai hướng về nỗ lực, chuyên cần, kiên trì, 
 
 Như vậy là năm tâm triền phược đã được đoạn tận.
 
+<!--pg-->
 Chư Tỷ-kheo, Tỷ-kheo nào đã đoạn tận năm tâm triền phược này, thời vị ấy có thể lớn mạnh, trưởng
 thành, hưng thịnh trong pháp luật này, sự kiện này có xảy ra.
 

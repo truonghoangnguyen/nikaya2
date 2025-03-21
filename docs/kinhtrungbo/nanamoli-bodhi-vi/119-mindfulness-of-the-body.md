@@ -16,24 +16,24 @@ However, their discussion was interrupted; for the Blessed One rose from meditat
 4. "Here a bhikkhu, [^1129] gone to the forest or to the root of a tree or to an empty hut, sits down; having folded his legs crosswise,
 set his body erect, and established mindfulness in front of him, ever mindful he breathes in, mindful he breathes out. Breathing in long, he understands: 'I breathe in long'; or breathing out long, he understands: 'I breathe out long.' Breathing in short, he understands: 'I breathe in short'; or breathing out short, he understands: 'I breathe out short.' He trains thus: 'I shall breathe in experiencing the whole body [of breath]'; he trains thus: 'I shall breathe out experiencing the whole body [of breath].' He trains thus: 'I shall breathe in tranquillising the bodily formation'; he trains thus: 'I shall breathe out tranquillising the bodily formation.' As he abides thus diligent, ardent, and resolute, his memories and intentions based on the household life are abandoned; with their abandoning his mind becomes steadied internally, quieted, brought to singleness, and concentrated. That is how a bhikkhu develops mindfulness of the body.
 
-## (THE FOUR POSTURES)
+#### (THE FOUR POSTURES)
 
 5. "Again, bhikkhus, when walking, a bhikkhu understands: 'I am walking'; when standing, he understands: 'I am standing'; when sitting, he understands: 'I am sitting'; when lying down, he understands: 'I am lying down'; or he understands accordingly however his body is disposed. As he abides thus diligent, ardent, and resolute, his memories and intentions based on the household life are abandoned...That too is how a bhikkhu develops mindfulness of the body. [90]
 
-## (FULL AWARENESS)
+#### (FULL AWARENESS)
 
 6. "Again, bhikkhus, a bhikkhu is one who acts in full awareness when going forward and returning; who acts in full awareness when looking ahead and looking away; who acts in full awareness when flexing and extending his limbs; who acts in full awareness when wearing his robes and carrying his outer robe and bowl; who acts in full awareness when eating, drinking, consuming food, and tasting; who acts in full awareness when defecating or urinating; who acts in full awareness when walking, standing, sitting, falling asleep, waking up, talking, and keeping silent. As he abides thus diligent, ardent, and resolute, his memories and intentions based on the household life are
 abandoned...That too is how a bhikkhu develops mindfulness of the body.
 
-## (FOULNESS - THE BODILY PARTS)
+#### (FOULNESS - THE BODILY PARTS)
 
 7. "Again, bhikkhus, a bhikkhu reviews this same body up from the soles of the feet and down from the top of the hair, bounded by skin, as full of many kinds of impurity thus: 'In this body there are head-hairs, body-hairs, nails, teeth, skin, flesh, sinews, bones, bone-marrow, kidneys, heart, liver, diaphragm, spleen, lungs, large intestines, small intestines, contents of the stomach, feces, bile, phlegm, pus, blood, sweat, fat, tears, grease, spittle, snot, oil of the joints, and urine.' Just as though there were a bag with an opening at both ends full of many sorts of grain, such as hill rice, red rice, beans, peas, millet, and white rice, and a man with good eyes were to open it and review it thus: 'This is hill rice, this is red rice, these are beans, these are peas, this is millet, this is white rice'; so too, a bhikkhu reviews this same body as full of many kinds of impurity thus: 'In this body there are head-hairs...and urine.' As he abides thus diligent, ardent, and resolute, his memories and intentions based on the household life are abandoned...That too is how a bhikkhu develops mindfulness of the body. [91]
 
-## (ELEMENTS)
+#### (ELEMENTS)
 
 8. "Again, bhikkhus, a bhikkhu reviews this same body, however it is placed, however disposed, as consisting of elements thus: 'In this body there are the earth element, the water element, the fire element, and the air element.' Just as though a skilled butcher or his apprentice had killed a cow and were seated at the crossroads with it cut up into pieces; so too, a bhikkhu reviews this same body however it is placed, however disposed, as consisting of elements thus: 'In this body there are the earth element, the water element, the fire element, and the air element.' As he abides thus diligent, ardent, and resolute, his memories and intentions connected with the household life are abandoned... That too is how a bhikkhu develops mindfulness of the body.
 
-## (THE NINE CHARNEL GROUND CONTEMPLATIONS)
+#### (THE NINE CHARNEL GROUND CONTEMPLATIONS)
 
 9. "Again, bhikkhus, as though he were to see a corpse thrown aside in a charnel ground, one, two, or three days dead, bloated, livid, and oozing matter, a bhikkhu compares this same body with it thus: 'This body too is of the same nature, it will be like that, it is not exempt from that fate.' As he abides thus diligent... That too is how a bhikkhu develops mindfulness of the body.
 
@@ -55,7 +55,7 @@ pervade this body, so that there is no part of his whole body unpervaded by the 
 
 21. "Again, bhikkhus, with the abandoning of pleasure and pain, and with the previous disappearance of joy and grief, a bhikkhu enters upon and abides in the fourth jhāna, which has neither-pain-nor-pleasure and purity of mindfulness due to equanimity. He sits pervading this body with a pure bright mind, so that there is no part of his whole body unpervaded by the pure bright mind. Just as though a man were sitting covered from head down with a white cloth, so that there would be no part of his whole body not covered by the white cloth; so too, a bhikkhu sits pervading this body with a pure bright mind, so that there is no part of his body unpervaded by the pure bright mind. As he abides thus diligent, ardent, and resolute, his memories and intentions based on the household life are abandoned; with their abandoning his mind becomes steadied internally, quieted, brought to singleness, and concentrated. That too is how a bhikkhu develops mindfulness of the body.
 
-## (PROGRESS THROUGH MINDFULNESS OF THE BODY)
+#### (PROGRESS THROUGH MINDFULNESS OF THE BODY)
 
 22. "Bhikkhus, anyone who has developed and cultivated mindfulness of the body has included within himself whatever wholesome states there are that partake of true knowledge. [^1131] Just as anyone who has extended his mind over the great ocean has included within it whatever streams there are that flow into the ocean; so too, anyone who has developed and cultivated mindfulness of the body has included within himself whatever wholesome states there are that partake of true knowledge.
 

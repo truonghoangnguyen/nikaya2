@@ -32,7 +32,7 @@ any perception of cruelty to have ever arisen in him this we remember as a wonde
 
 [...this too we remember as a wonderful and marvellous quality of the venerable Bakkula.] [126]
 
-9-15. "Friend, in the eighty years since I went forth I do not recall ever having accepted a robe from a householder ${ }^{1169} \ldots$...ever having worn a robe given by a householder...ever having cut a robe with a cutter...ever having sewn a robe with a needle... ever having coloured a robe with dye...ever having sewn a robe at the kathina time...ever having worked on making robes for my companions in the holy life."
+9-15. "Friend, in the eighty years since I went forth I do not recall ever having accepted a robe from a householder [^1169]...ever having worn a robe given by a householder...ever having cut a robe with a cutter...ever having sewn a robe with a needle... ever having coloured a robe with dye...ever having sewn a robe at the kathina time...ever having worked on making robes for my companions in the holy life."
 
 [...this too we remember as a wonderful and marvellous quality of the venerable Bakkula.]
 

@@ -5,7 +5,7 @@
 
 1. Thus have I.heard. On one occasion the Blessed One was living at Sāvatthī in Jeta's Grove, Anāthapindika's Park.
 
-2. Now on that occasion a pernicious view had arisen in a bhikkhu named Satti, son of a fisherman, thus: "As I understand the Dhamma taught by the Blessed One, it is this same consciousness that runs and wanders through the round of rebirths, not another. ${ }^{\prime 402}$
+2. Now on that occasion a pernicious view had arisen in a bhikkhu named Satti, son of a fisherman, thus: "As I understand the Dhamma taught by the Blessed One, it is this same consciousness that runs and wanders through the round of rebirths, not another. [^402]
 
 3. Several bhikkhus, having heard about this, went to the bhikkhu Satti and asked him: "Friend Satti, is it true that such a pernicious view has arisen in you?"
 

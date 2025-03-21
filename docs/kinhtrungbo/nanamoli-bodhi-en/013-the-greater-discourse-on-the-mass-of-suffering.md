@@ -11,10 +11,12 @@
 
 5\. When they had wandered for alms in Sāvatthī and had returned from their almsround, after the meal they went to the Blessed One, and after paying homage to him, they sat down at one side and told him what had taken place. [The Blessed One said:] [85]
 
+<!--pg-->
 6\. "Bhikkhus, wanderers of other sects who speak thus should be questioned thus: 'But, friends, what is the gratification, what
 is the danger, and what is the escape in the case of sensual pleasures? What is the gratification, what is the danger, and what is the escape in the case of material form? What is the gratification, what is the danger, and what is the escape in the case of feelings?' Being questioned thus, wanderers of other sects will fail to account for the matter, and what is more, they will get into difficulties. Why is that? Because it is not their province. Bhikkhus, I see no one in the world with its gods, its Māras, and its Brahmās, in this generation with its recluses and brahmins, with its princes and its people, who could satisfy the mind with a reply to these questions, except for the Tathāgata or his disciple or one who has learned it from them.
 
-## (SENSUAL PLEASURES)
+<!--pg-->
+#### (SENSUAL PLEASURES)
 
 7\. (i) "And what, bhikkhus, is the gratification in the case of sensual pleasures? Bhikkhus, there are these five cords of sensual pleasure. What are the five? Forms cognizable by the eye that are wished for, desired, agreeable and likeable, connected with sensual desire, and provocative of lust. Sounds cognizable by the ear...Odours cognizable by the nose...Flavours cognizable by the tongue...Tangibles cognizable by the body that are wished for, desired, agreeable and likeable, connected with sensual desire, and provocative of lust. These are the five cords of sensual pleasure. Now the pleasure and joy that arise dependent on these five cords of sensual pleasure are the gratification in the case of sensual pleasures.
 
@@ -41,7 +43,8 @@ and spears and splashed with boiling liquids and crushed under heavy weights, an
 17\. "That those recluses and brahmins who do not understand as it actually is the gratification as gratification, the danger as danger, and the escape as escape in the case of sensual
 pleasures, can either themselves fully understand sensual pleasures or instruct another so that he can fully understand sensual pleasures - that is impossible. That those recluses and brahmins who understand as it actually is [88] the gratification as gratification, the danger as danger, and the escape as escape in the case of sensual pleasures, can either themselves fully understand sensual pleasures or instruct another so that he can fully understand sensual pleasures - that is possible.
 
-## (MATERIAL FORM)
+<!--pg-->
+#### (MATERIAL FORM)
 
 18\. (i) "And what, bhikkhus, is the gratification in the case of material form? Suppose there were a girl of the noble class or the brahmin class or of householder stock, in her fifteenth or sixteenth year, neither too tall nor too short, neither too thin nor too fat, neither too dark nor too fair. Is her beauty and loveliness then at its height?" - "Yes, venerable sir." - "Now the pleasure and joy that arise in dependence on that beauty and loveliness are the gratification in the case of material form.
 
@@ -57,9 +60,10 @@ pleasures, can either themselves fully understand sensual pleasures or instruct 
 
 31\. "That those recluses and brahmins who do not understand as it actually is the gratification as gratification, the danger as danger, and the escape as escape in the case of material form, can either themselves fully understand material form or instruct another so that he can fully understand material form that is impossible. That those recluses and brahmins who understand as it actually is the gratification as gratification, the danger as danger, and the escape as escape in the case of material form, can either themselves fully understand material form or instruct another so that he can fully understand material form - that is possible.
 
+<!--pg-->
 (FEELINGS)
 
-32\. (i) "And what, bhikkhus, is the gratification in the case of feelings? Here, bhikkhus, quite secluded from sensual pleasures, secluded from unwholesome states, a bhikkhu enters upon and abides in the first jhāna, which is accompanied by applied and sustained thought, with rapture and pleasure born of seclusion. ${ }^{204} \mathrm{On}$ such an occasion he does not choose for his own affliction, or for another's affliction, or for the affliction of both. [90] On that occasion he feels only feeling that is free from affliction. The highest gratification in the case of feelings is freedom from affliction, I say.
+32\. (i) "And what, bhikkhus, is the gratification in the case of feelings? Here, bhikkhus, quite secluded from sensual pleasures, secluded from unwholesome states, a bhikkhu enters upon and abides in the first jhāna, which is accompanied by applied and sustained thought, with rapture and pleasure born of seclusion. [^204] such an occasion he does not choose for his own affliction, or for another's affliction, or for the affliction of both. [90] On that occasion he feels only feeling that is free from affliction. The highest gratification in the case of feelings is freedom from affliction, I say.
 
 33-35. "Again, with the stilling of applied and sustained thought, a bhikkhu enters upon and abides in the second jhāna...With the fading away as well of rapture...he enters upon and abides in the third jhāna...With the abandoning of pleasure and pain he enters upon and abides in the fourth jhāna...On such an occasion he does not choose for his own affliction, or for another's affliction, or for the affliction of both. On that occasion he feels only feeling that is free from affliction. The highest gratification in the case of feelings is freedom from affliction, I say.
 

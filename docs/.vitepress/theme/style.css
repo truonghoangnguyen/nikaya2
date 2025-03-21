@@ -1,5 +1,17 @@
 /* Custom styles for the documentation site */
 
+.note {
+  cursor: help;
+  text-decoration: none;
+  text-decoration-line: none;
+  color: var(--vp-c-brand);
+  font-family: monospace;
+  font-size: smaller;
+}
+.note-link {
+  font-size: smaller;
+}
+
 :root {
   --vp-c-brand: #646cff;
   --vp-c-brand-light: #747bff;

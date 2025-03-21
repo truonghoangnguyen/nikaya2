@@ -11,7 +11,7 @@
 
 5\. "And what is the material form aggregate affected by clinging? It is the four great elements and the material form derived from the four great elements. And what are the four great elements? They are the earth element, the water element, the fire element, and the air element.
 
-## (THE EARTH ELEMENT)
+#### (THE EARTH ELEMENT)
 
 6\. "What, friends, is the earth element? The earth element may be either internal or external. What is the internal earth element? Whatever internally, belonging to oneself, is solid, solidified, and clung-to; that is, head-hairs, body-hairs, nails, teeth, skin, flesh, sinews, bones, bone-marrow, kidneys, heart, liver, diaphragm, spleen, lungs, large intestines, small intestines, contents of the stomach, feces, or whatever else internally, belonging to oneself, is solid, solidified, and clung-to: this is called the internal earth element. [^329] Now both the internal earth element and the external earth element are simply earth element. [^330] And that should be seen as it actually is with proper wisdom thus: 'This is not mine, this I am not, this is not my self.' When one sees it thus as it actually is with proper wisdom, one becomes disenchanted with the earth element and makes the mind dispassionate toward the earth element.
 
@@ -20,11 +20,11 @@
 8\. "So then, if others abuse, revile, scold, and harass a bhikkhu [who has seen this element as it actually is], he understands thus: 'This painful feeling born of ear-contact has arisen in me. That is dependent, not independent. Dependent on what? [186] Dependent on contact. [^3333] Then he sees that contact is impermanent, that feeling is impermanent, that perception is impermanent, that formations are impermanent, and that consciousness is impermanent. And his mind, having made an element its objective support, enters into [that new objective support] and acquires confidence, steadiness, and decision. [^334]
 
 9\. "Now, if others attack that bhikkhu in ways that are unwished for, undesired, and disagreeable, by contact with fists, clods, sticks, or knives, he understands thus: 'This body is of such a nature that contact with fists, clods, sticks, and knives assail it. [^335] But this has been said by the Blessed One in his "advice on the simile of the saw": "Bhikkhus, even if bandits
-were to sever you savagely limb by limb with a two-handled saw, he who gave rise to a mind of hate towards them would not be carrying out my teaching. ${ }^{\prime 336}$ So tireless energy shall be aroused in me and unremitting mindfulness established, my body shall be tranquil and untroubled, my mind concentrated and unified. And now let contact with fists, clods, sticks, and knives assail this body; for this is just how the Buddha's teaching is practised.'
+were to sever you savagely limb by limb with a two-handled saw, he who gave rise to a mind of hate towards them would not be carrying out my teaching. [^336] So tireless energy shall be aroused in me and unremitting mindfulness established, my body shall be tranquil and untroubled, my mind concentrated and unified. And now let contact with fists, clods, sticks, and knives assail this body; for this is just how the Buddha's teaching is practised.'
 
 10\. "When that bhikkhu thus recollects the Buddha, the Dhamma, and the Sangha, if equanimity supported by the wholesome does not become established in him, then he arouses a sense of urgency thus: 'It is a loss for me, it is no gain for me, it is bad for me, it is no good for me, that when I thus recollect the Buddha, the Dhamma, and the Sangha, equanimity supported by the wholesome does not become established in me. [^337] Just as when a daughter-in-law sees her father-in-law, she arouses a sense of urgency [to please him], so too, when that bhikkhu thus recollects the Buddha, the Dhamma, and the Sangha, if equanimity supported by the wholesome does not become established in him, then he arouses a sense of urgency. But if, when he recollects the Buddha, the Dhamma, and the Sangha, equanimity supported by the wholesome becomes established in him, [187] then he is satisfied with it. At that point, friends, much has been done by that bhikkhu.
 
-## (THE WATER ELEMENT)
+#### (THE WATER ELEMENT)
 
 11\. "What, friends, is the water element? The water element may be either internal or external. What is the internal water element? Whatever internally, belonging to oneself, is water, watery, and clung-to; that is, bile, phlegm, pus, blood, sweat, fat, tears, grease, spittle, snot, oil-of-the-joints, urine, or whatever else internally, belonging to oneself, is water, watery, and clungto: this is called the internal water element. Now both the internal water element and the external water element are simply water element. And that should be seen as it actually is with proper wisdom thus: 'This is not mine, this I am not, this is not my self.' When one sees it thus as it actually is with proper wisdom, one becomes disenchanted with the water element and makes the mind dispassionate toward the water element.
 
@@ -32,7 +32,7 @@ were to sever you savagely limb by limb with a two-handled saw, he who gave rise
 
 13-15. "So then, if others abuse, revile, scold, and harass a bhikkhu [who has seen this element as it actually is], he understands thus:...(repeat $\S \S 8-10) \ldots$ At that point too, friends, much has been done by that bhikkhu.
 
-## (THE FIRE ELEMENT)
+#### (THE FIRE ELEMENT)
 
 16\. "What, friends, is the fire element? The fire element may be either internal or external. What is the internal fire element? Whatever internally, belonging to oneself, is fire, fiery, and clung-to; that is, that by which one is warmed, ages, and is consumed, and that by which what is eaten, drunk, consumed, and tasted gets completely digested, or whatever else internally, belonging to oneself, is fire, fiery, and clung-to: this is called the internal fire element. Now both the internal fire element and the external fire element are simply fire element. And that should be seen as it actually is with proper wisdom thus: 'This is not mine, this I am not, this is not my self.' When one sees it thus as it actually is with proper wisdom, one becomes disenchanted with the fire element and makes the mind dispassionate toward the fire element.
 

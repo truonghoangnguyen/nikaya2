@@ -68,7 +68,7 @@ you develop meditation on compassion, any cruelty will be abandoned.
 
 29. "He trains thus: 'I shall breathe in contemplating impermanence'; he trains thus: 'I shall breathe out contemplating impermanence.' He trains thus: 'I shall breathe in contemplating fading away'; he trains thus: 'I shall breathe out contemplating fading away.' He trains thus: 'I shall breathe in contemplating cessation'; he trains thus: 'I shall breathe out contemplating cessation.' He trains thus: 'I shall breathe in contemplating relinquishment'; he trains thus: 'I shall breathe out contemplating relinquishment.'
 
-30. "Rāhula, that is how mindfulness of breathing is developed and cultivated, so that it is of great fruit and great benefit. When mindfulness of breathing is developed and cultivated in this way, [426] even the final in-breaths and out-breaths are known as they cease, not unknown." ${ }^{\prime 647}$
+30. "Rāhula, that is how mindfulness of breathing is developed and cultivated, so that it is of great fruit and great benefit. When mindfulness of breathing is developed and cultivated in this way, [426] even the final in-breaths and out-breaths are known as they cease, not unknown." [^647]
 
 That is what the Blessed One said. The venerable Rāhula was satisfied and delighted in the Blessed One's words.
 
@@ -86,7 +86,7 @@ That is what the Blessed One said. The venerable Rāhula was satisfied and delig
 
 [^645]: MA: This passage ( $\S 13-17$ ) is taught to show the quality of impartiality (tädibhäva).
 
-[^646]: For explanations of unclear terms in this first tetrad on mindfulness of breathing ( $ 26 ), see nn.140-142. Terms needing clarification in the following three tetrads will be explained in the notes to MN 118, the Ānāpānasati Sutta.
+[^646]: For explanations of unclear terms in this first tetrad on mindfulness of breathing ( §26 ), see nn.140-142. Terms needing clarification in the following three tetrads will be explained in the notes to MN 118, the Ānāpānasati Sutta.
 
 [^647]: That is, the meditator dies calmly, with mindfulness and awareness.
 

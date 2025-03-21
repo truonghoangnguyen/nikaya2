@@ -54,7 +54,7 @@ Then the clansman Raṭthapāla's friends went to him and told him: "Get up, fri
 13\. Then not long after the venerable Raṭthapāla had received the full admission, a half-month after he had received the full
 admission, the Blessed One, having stayed at Thullakoṭthita as long as he chose, set out to wander towards Sāvatthī. Wandering by stages, he eventually arrived at Sāvatthī, and there [61] he lived at Sāvatthī in Jeta's Grove, Anāthapiṇ̣̣ika's Park.
 
-14\. Before long, dwelling alone, withdrawn, diligent, ardent, and resolute, the venerable Ratṭhapāla, by realising for himself with direct knowledge, here and now entered upon and abided in that supreme goal of the holy life for the sake of which clansmen rightly go forth from the home life into homelessness. ${ }^{797} \mathrm{He}$ directly knew: "Birth is destroyed, the holy life has been lived, what had to be done has been done, there is no more coming to any state of being." And the venerable Ratṭhapāla became one of the arahants.
+14\. Before long, dwelling alone, withdrawn, diligent, ardent, and resolute, the venerable Ratṭhapāla, by realising for himself with direct knowledge, here and now entered upon and abided in that supreme goal of the holy life for the sake of which clansmen rightly go forth from the home life into homelessness. [^797] He directly knew: "Birth is destroyed, the holy life has been lived, what had to be done has been done, there is no more coming to any state of being." And the venerable Ratṭhapāla became one of the arahants.
 
 15\. Then the venerable Raṭthapāla went to the Blessed One, and after paying homage to him, he sat down at one side and told him: "Venerable sir, I wish to visit my parents, if I have the Blessed One's permission."
 

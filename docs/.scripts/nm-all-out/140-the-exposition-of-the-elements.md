@@ -148,7 +148,7 @@ reborn in the four states of deprivation."
 
 [^1282]: This refers to his attainment of the Nibbāna-element with no residue remaining (anupādisesa nibbānadhātu) the cessation of all conditioned existence with his final passing away.
 
-[^1283]: This completes the exposition of the first foundation, which began at $ 13. MA says that the knowledge of the destruction of all suffering is the wisdom pertaining to the fruit of arahantship.
+[^1283]: This completes the exposition of the first foundation, which began at §13. MA says that the knowledge of the destruction of all suffering is the wisdom pertaining to the fruit of arahantship.
 
 [^1284]: MA mentions four kinds of attachment (upadhi) here: see n. 674.
 

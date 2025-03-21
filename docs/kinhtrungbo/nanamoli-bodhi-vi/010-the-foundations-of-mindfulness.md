@@ -1,140 +1,177 @@
-# 10 The Foundations of Mindfulness
-***(Satipatṭhāna Sutta)***
+# 10 Nền Tảng Của Chánh Niệm
+***(Kinh Satipatṭhāna)***
 
-1. Thus have I heard. [^133] On one occasion the Blessed One was living in the Kuru country at a town of the Kurus named Kammāsadhamma. [^134] There he addressed the bhikkhus thus: "Bhikkhus." - "Venerable sir," they replied. The Blessed One said this:
+1\. Tôi nghe như vầy. [^133] Một lần nọ, Đức Phật (The Blessed One) đang ở tại xứ Kuru, trong một thị trấn của người Kuru tên là Kammāsadhamma. [^134] Tại đó, Ngài nói với các tỳ kheo (bhikkhus - các nhà sư) rằng: "Này các tỳ kheo." - "Bạch Thế Tôn," họ đáp. Đức Phật nói:
 
-2. "Bhikkhus, this is the direct path [^135] for the purification of beings [56], for the surmounting of sorrow and lamentation, for the disappearance of pain and grief, for the attainment of the true way, for the realisation of Nibbāna - namely, the four foundations of mindfulness. [^136]
+2\. "Này các tỳ kheo, đây là con đường trực tiếp [^135] để thanh lọc chúng sinh [56], vượt qua sầu khổ và than khóc, chấm dứt khổ đau và buồn phiền, đạt được con đường chân chính, chứng ngộ Niết Bàn (Nibbāna - trạng thái giải thoát hoàn toàn) - đó chính là bốn nền tảng của chánh niệm. [^136]
 
-3. "What are the four? Here, bhikkhus, a bhikkhu [^137] abides contemplating the body as a body, ardent, fully aware, and mindful, having put away covetousness and grief for the world. ${ }^{138} \mathrm{He}$ abides contemplating feelings as feelings, ardent, fully aware, and mindful, having put away covetousness and grief for the world. He abides contemplating mind as mind, ardent, fully aware, and mindful, having put away covetousness and grief for the world. He abides contemplating mind-objects as mind-objects, ardent, fully aware, and mindful, having put away covetousness and grief for the world. [^139]
+3\. "Bốn nền tảng đó là gì? Ở đây, này các tỳ kheo, một tỳ kheo [^137] an trú, quán sát thân thể như là thân thể, nhiệt tâm, tỉnh giác, và chánh niệm, loại bỏ tham ái và sầu muộn đối với thế gian. [^138] Vị ấy an trú, quán sát cảm thọ như là cảm thọ, nhiệt tâm, tỉnh giác, và chánh niệm, loại bỏ tham ái và sầu muộn đối với thế gian. Vị ấy an trú, quán sát tâm như là tâm, nhiệt tâm, tỉnh giác, và chánh niệm, loại bỏ tham ái và sầu muộn đối với thế gian. Vị ấy an trú, quán sát các đối tượng của tâm (mind-objects) như là các đối tượng của tâm, nhiệt tâm, tỉnh giác, và chánh niệm, loại bỏ tham ái và sầu muộn đối với thế gian. [^139]
 
-(CONTEMPLATION OF THE BODY)
+<!--pg-->
+(QUÁN SÁT THÂN THỂ)
 
-## (1. Mindfulness of Breathing)
+#### (1. Chánh Niệm về Hơi Thở)
 
-4. "And how, bhikkhus, does a bhikkhu abide contemplating the body as a body? Here a bhikkhu, gone to the forest or to the root of a tree or to an empty hut, sits down; having folded his legs crosswise, set his body erect, and established mindfulness in front of him, ever mindful he breathes in, mindful he breathes out. Breathing in long, he understands 'I breathe in long'; or
-breathing out long, he understands: 'I breathe out long.' Breathing in short, he understands: 'I breathe in short'; or breathing out short, he understands: 'I breathe out short. ${ }^{140} \mathrm{He}$ trains thus: 'I shall breathe in experiencing the whole body [of breath]'; he trains thus: 'I shall breathe out experiencing the whole body [of breath]. [^141] He trains thus: 'I shall breathe in tranquillizing the bodily formation'; he trains thus: 'I shall breathe out tranquillizing the bodily formation. [^142] Just as a skilled turner or his apprentice, when making a long turn, understands: 'I make a long turn'; or, when making a short turn, understands: 'I make a short turn'; so too, breathing in long, a bhikkhu understands: 'I breathe in long'...he trains thus: 'I shall breathe out tranquillizing the bodily formation.'
+4\. "Và này các tỳ kheo, làm thế nào một tỳ kheo an trú, quán sát thân thể như là thân thể? Ở đây, một tỳ kheo, đi vào rừng, đến gốc cây, hoặc đến một túp lều trống, ngồi xuống; xếp chân lại, giữ thân thẳng, và thiết lập chánh niệm trước mặt, luôn luôn tỉnh giác khi thở vào, tỉnh giác khi thở ra. Thở vào dài, vị ấy hiểu 'Tôi đang thở vào dài'; hoặc
+thở ra dài, vị ấy hiểu: 'Tôi đang thở ra dài.' Thở vào ngắn, vị ấy hiểu: 'Tôi đang thở vào ngắn'; hoặc thở ra ngắn, vị ấy hiểu: 'Tôi đang thở ra ngắn. [^140] Vị ấy luyện tập như vầy: 'Tôi sẽ thở vào, cảm nhận toàn bộ thân thể [của hơi thở]'; vị ấy luyện tập như vầy: 'Tôi sẽ thở ra, cảm nhận toàn bộ thân thể [của hơi thở]. [^141] Vị ấy luyện tập như vầy: 'Tôi sẽ thở vào, làm cho thân hành (bodily formation - các hoạt động của thân thể) được an tịnh'; vị ấy luyện tập như vầy: 'Tôi sẽ thở ra, làm cho thân hành được an tịnh. [^142] Giống như một người thợ tiện lành nghề hoặc người học việc của anh ta, khi thực hiện một vòng quay dài, hiểu: 'Tôi đang thực hiện một vòng quay dài'; hoặc, khi thực hiện một vòng quay ngắn, hiểu: 'Tôi đang thực hiện một vòng quay ngắn'; cũng vậy, khi thở vào dài, một tỳ kheo hiểu: 'Tôi đang thở vào dài'... vị ấy luyện tập như vầy: 'Tôi sẽ thở ra, làm cho thân hành được an tịnh.'
 
-## (INSIGHT)
+*(Tuệ Giác - Insight\)*
 
-5. "In this way he abides contemplating the body as a body internally, or he abides contemplating the body as a body externally, or he abides contemplating the body as a body both inter-nally-and externally. [^143] Or else he abides contemplating in the body its arising factors, or he abides contemplating in the body its vanishing factors, or he abides contemplating in the body both its arising and vanishing factors. [^144] Or else mindfulness that 'there is a body' is simply established in him to the extent necessary for bare knowledge and mindfulness. [^145] And he abides independent, not clinging to anything in the world. That is how a bhikkhu abides contemplating the body as a body.
+5\. "Bằng cách này, vị ấy an trú, quán sát thân thể như là thân thể ở bên trong, hoặc vị ấy an trú, quán sát thân thể như là thân thể ở bên ngoài, hoặc vị ấy an trú, quán sát thân thể như là thân thể ở cả bên trong lẫn bên ngoài. [^143] Hoặc vị ấy an trú, quán sát các yếu tố sinh khởi (arising factors) trong thân thể, hoặc vị ấy an trú, quán sát các yếu tố tan biến (vanishing factors) trong thân thể, hoặc vị ấy an trú, quán sát cả các yếu tố sinh khởi và tan biến trong thân thể. [^144] Hoặc chánh niệm rằng 'có một thân thể' được thiết lập đơn giản trong vị ấy, ở mức độ cần thiết cho sự hiểu biết đơn thuần và chánh niệm. [^145] Và vị ấy an trú độc lập, không bám víu vào bất cứ điều gì trên thế gian. Đó là cách một tỳ kheo an trú, quán sát thân thể như là thân thể.
 
-## (2. The Four Postures)
+<!--pg-->
+#### (2. Bốn Tư Thế)
 
-6. "Again, bhikkhus, when walking, a bhikkhu understands: 'I am walking'; when standing, he understands: 'I am standing'; when sitting, [57] he understands: 'I am sitting'; when lying down, he understands: 'I am lying down'; or he understands accordingly however his body is disposed. [^146]
+6\. "Lại nữa, này các tỳ kheo, khi đi, một tỳ kheo hiểu: 'Tôi đang đi'; khi đứng, vị ấy hiểu: 'Tôi đang đứng'; khi ngồi, [57] vị ấy hiểu: 'Tôi đang ngồi'; khi nằm, vị ấy hiểu: 'Tôi đang nằm'; hoặc vị ấy hiểu một cách tương ứng bất cứ tư thế nào của thân thể. [^146]
 
-7. "In this way he abides contemplating the body as a body internally, externally, and both internally and externally...And he abides independent, not clinging to anything in the world. That too is how a bhikkhu abides contemplating the body as a body.
+7\. "Bằng cách này, vị ấy an trú, quán sát thân thể như là thân thể ở bên trong, bên ngoài, và cả bên trong lẫn bên ngoài... Và vị ấy an trú độc lập, không bám víu vào bất cứ điều gì trên thế gian. Đó cũng là cách một tỳ kheo an trú, quán sát thân thể như là thân thể.
 
-## (3. Full Awareness)
+<!--pg-->
+#### (3. Tỉnh Giác Hoàn Toàn)
 
-8. "Again, bhikkhus, a bhikkhu is one who acts in full awareness when going forward and returning; [^147] who acts in full awareness when looking ahead and looking away; who acts in full awareness when flexing and extending his limbs; who acts in full awareness when wearing his robes and carrying his outer robe and bowl; who acts in full awareness when eating, drinking, consuming food, and tasting; who acts in full awareness when defecating and urinating; who acts in full awareness when walking, standing, sitting, falling asleep, waking up, talking, and keeping silent.
+8\. "Lại nữa, này các tỳ kheo, một tỳ kheo là người hành động với sự tỉnh giác hoàn toàn khi đi tới và đi lui; [^147] người hành động với sự tỉnh giác hoàn toàn khi nhìn phía trước và nhìn ra xa; người hành động với sự tỉnh giác hoàn toàn khi co và duỗi tay chân; người hành động với sự tỉnh giác hoàn toàn khi mặc áo cà sa và mang bát; người hành động với sự tỉnh giác hoàn toàn khi ăn, uống, nhai, và nếm; người hành động với sự tỉnh giác hoàn toàn khi đại tiện và tiểu tiện; người hành động với sự tỉnh giác hoàn toàn khi đi, đứng, ngồi, ngủ, thức, nói, và im lặng.
 
-9. "In this way he abides contemplating the body as a body internally, externally, and both internally and externally...And he abides independent, not clinging to anything in the world. That too is how a bhikkhu abides contemplating the body as a body.
+9\. "Bằng cách này, vị ấy an trú, quán sát thân thể như là thân thể ở bên trong, bên ngoài, và cả bên trong lẫn bên ngoài... Và vị ấy an trú độc lập, không bám víu vào bất cứ điều gì trên thế gian. Đó cũng là cách một tỳ kheo an trú, quán sát thân thể như là thân thể.
 
-## (4. Foulness - The Bodily Parts)
+<!--pg-->
+#### (4. Tính Chất Bất Tịnh - Các Bộ Phận Của Cơ Thể)
 
-10. "Again, bhikkhus, a bhikkhu reviews this same body up from the soles of the feet and down from the top of the hair, bounded by skin, as full of many kinds of impurity thus: 'In this body there are head-hairs, body-hairs, nails, teeth, skin, flesh, sinews, bones, bone-marrow, kidneys, heart, liver, diaphragm, spleen, lungs, large intestines, small intestines, contents of the stomach, feces, bile, phlegm, pus, blood, sweat, fat, tears, grease, spittle, snot, oil of the joints, and urine. [^148] Just as though there were a bag with an opening at both ends full of many sorts of grain, such as hill rice, red rice, beans, peas, millet, and white rice, and a man with good eyes were to open it and review it thus: 'This is hill rice, this is red rice, these are beans, these are peas, this is millet, this is white rice'; so too, a bhikkhu reviews this same body...as full of many kinds of impurity thus: 'In this body there are head-hairs...and urine.'
+10\. "Lại nữa, này các tỳ kheo, một tỳ kheo xem xét chính thân thể này, từ lòng bàn chân trở lên và từ đỉnh đầu trở xuống, được bao bọc bởi da, chứa đầy những thứ bất tịnh khác nhau như sau: 'Trong thân thể này có tóc, lông, móng, răng, da, thịt, gân, xương, tủy, thận, tim, gan, cơ hoành, lá lách, phổi, ruột già, ruột non, dạ dày, phân, mật, đờm, mủ, máu, mồ hôi, mỡ, nước mắt, mỡ da, nước bọt, nước mũi, dịch khớp, và nước tiểu. [^148] Giống như có một cái túi có hai đầu mở, chứa đầy các loại ngũ cốc khác nhau, chẳng hạn như gạo đồi, gạo đỏ, đậu, đậu Hà Lan, kê, và gạo trắng, và một người có mắt sáng mở nó ra và xem xét như sau: 'Đây là gạo đồi, đây là gạo đỏ, đây là đậu, đây là đậu Hà Lan, đây là kê, đây là gạo trắng'; cũng vậy, một tỳ kheo xem xét chính thân thể này... chứa đầy những thứ bất tịnh khác nhau như sau: 'Trong thân thể này có tóc... và nước tiểu.'
 
-11. "In this way he abides contemplating the body as a body internally, externally, and both internally and externally...And he abides independent, not clinging to anything in the world. That too is how a bhikkhu abides contemplating the body as a body.
+11\. "Bằng cách này, vị ấy an trú, quán sát thân thể như là thân thể ở bên trong, bên ngoài, và cả bên trong lẫn bên ngoài... Và vị ấy an trú độc lập, không bám víu vào bất cứ điều gì trên thế gian. Đó cũng là cách một tỳ kheo an trú, quán sát thân thể như là thân thể.
 
-## (5. Elements)
+<!--pg-->
+#### (5. Các Yếu Tố)
 
-12. "Again, bhikkhus, a bhikkhu reviews this same body, however it is placed, however disposed, as consisting of elements thus: 'In this body there are the earth element, the water element, the fire element, and the air element. [^149] [58] Just as though a skilled butcher or his apprentice had killed a cow and was seated at the crossroads with it cut up into pieces; so too, a bhikkhu reviews this same body...as consisting of elements thus: 'In this body there are the earth element, the water element, the fire element, and the air element.'
+12\. "Lại nữa, này các tỳ kheo, một tỳ kheo xem xét chính thân thể này, dù nó được đặt ở đâu, dù nó được bố trí như thế nào, bao gồm các yếu tố như sau: 'Trong thân thể này có yếu tố đất, yếu tố nước, yếu tố lửa, và yếu tố gió. [^149] [58] Giống như một người đồ tể lành nghề hoặc người học việc của anh ta đã giết một con bò và đang ngồi ở ngã tư đường với nó được cắt thành từng mảnh; cũng vậy, một tỳ kheo xem xét chính thân thể này... bao gồm các yếu tố như sau: 'Trong thân thể này có yếu tố đất, yếu tố nước, yếu tố lửa, và yếu tố gió.'
 
-13. "In this way he abides contemplating the body as a body internally, externally, and both internally and externally...And he abides independent, not clinging to anything in the world. That too is how a bhikkhu abides contemplating the body as a body.
+13\. "Bằng cách này, vị ấy an trú, quán sát thân thể như là thân thể ở bên trong, bên ngoài, và cả bên trong lẫn bên ngoài... Và vị ấy an trú độc lập, không bám víu vào bất cứ điều gì trên thế gian. Đó cũng là cách một tỳ kheo an trú, quán sát thân thể như là thân thể.
 
-## (6-14. The Nine Charnel Ground Contemplations)
+<!--pg-->
+#### (6-14. Chín Pháp Quán Tử Thi)
 
-14. "Again, bhikkhus, as though he were to see a corpse thrown aside in a charnel ground, one, two, or three days dead, bloated, livid, and oozing matter, a bhikkhu compares this same body with it thus: 'This body too is of the same nature, it will be like that, it is not exempt from that fate. [^150]
+14\. "Lại nữa, này các tỳ kheo, như thể vị ấy nhìn thấy một xác chết bị bỏ ở nghĩa địa, một, hai, hoặc ba ngày chết, sưng phồng, xanh tím, và rỉ dịch, một tỳ kheo so sánh chính thân thể này với nó như sau: 'Thân thể này cũng có cùng bản chất, nó sẽ như thế, nó không tránh khỏi số phận đó. [^150]
 
-15. "In this way he abides contemplating the body as a body internally, externally, and both internally and externally...And he abides independent, not clinging to anything in the world. That too is how a bhikkhu abides contemplating the body as a body.
+15\. "Bằng cách này, vị ấy an trú, quán sát thân thể như là thân thể ở bên trong, bên ngoài, và cả bên trong lẫn bên ngoài... Và vị ấy an trú độc lập, không bám víu vào bất cứ điều gì trên thế gian. Đó cũng là cách một tỳ kheo an trú, quán sát thân thể như là thân thể.
 
-16. "Again, as though he were to see a corpse thrown aside in a charnel ground, being devoured by crows, hawks, vultures, dogs, jackals, or various kinds of worms, a bhikkhu compares this same body with it thus: 'This body too is of the same nature, it will be like that, it is not exempt from that fate.'
+16\. "Lại nữa, như thể vị ấy nhìn thấy một xác chết bị bỏ ở nghĩa địa, bị quạ, diều hâu, kền kền, chó, chó rừng, hoặc các loại sâu bọ khác nhau ăn, một tỳ kheo so sánh chính thân thể này với nó như sau: 'Thân thể này cũng có cùng bản chất, nó sẽ như thế, nó không tránh khỏi số phận đó.'
 
-17. "...That too is how a bhikkhu abides contemplating the body as a body.
+17\. "...Đó cũng là cách một tỳ kheo an trú, quán sát thân thể như là thân thể.
 
-18-24. "Again, as though he were to see a corpse thrown aside in a charnel ground, a skeleton with flesh and blood, held together with sinews...a fleshless skeleton smeared with blood, held together with sinews...a skeleton without flesh and blood, held together with sinews...disconnected bones scattered in all directions - here a hand-bone, there a foot-bone, here a shin-bone,
-there a thigh-bone, here a hip-bone, there a back-bone, here a rib-bone, there a breast-bone, here an arm-bone, there a shoulder-bone, here a neck-bone, there a jaw-bone, here a tooth, there the skull - a bhikkhu compares this same body with it thus: 'This body too is of the same nature, it will be like that, it is not exempt from that fate. [^151]
+18-24. "Lại nữa, như thể vị ấy nhìn thấy một xác chết bị bỏ ở nghĩa địa, một bộ xương còn thịt và máu, được nối với nhau bằng gân... một bộ xương không còn thịt, dính máu, được nối với nhau bằng gân... một bộ xương không còn thịt và máu, được nối với nhau bằng gân... xương cốt rời rạc, rải rác khắp nơi - đây là xương tay, kia là xương chân, đây là xương ống chân,
+kia là xương đùi, đây là xương hông, kia là xương sống, đây là xương sườn, kia là xương ức, đây là xương cánh tay, kia là xương vai, đây là xương cổ, kia là xương hàm, đây là răng, kia là sọ - một tỳ kheo so sánh chính thân thể này với nó như sau: 'Thân thể này cũng có cùng bản chất, nó sẽ như thế, nó không tránh khỏi số phận đó. [^151]
 
-25. "...That too is how a bhikkhu abides contemplating the body as a body.
+25\. "...Đó cũng là cách một tỳ kheo an trú, quán sát thân thể như là thân thể.
 
-26-30. "Again, as though he were to see a corpse thrown aside in a charnel ground, bones bleached white, the colour of shells... bones heaped up, more than a year old...bones rotted and crumbled to dust [59], a bhikkhu compares this same body with it thus: 'This body too is of the same nature, it will be like that, it is not exempt from that fate.'
+26-30. "Lại nữa, như thể vị ấy nhìn thấy một xác chết bị bỏ ở nghĩa địa, xương trắng bệch, màu vỏ sò... xương chất đống, hơn một năm tuổi... xương mục nát và vỡ vụn thành bụi [59], một tỳ kheo so sánh chính thân thể này với nó như sau: 'Thân thể này cũng có cùng bản chất, nó sẽ như thế, nó không tránh khỏi số phận đó.'
 
-## (INSIGHT)
+*(Tuệ Giác - Insight\)*
 
-31. "In this way he abides contemplating the body as a body internally, or he abides contemplating the body as a body externally, or he abides contemplating the body as a body both internally and externally. Or else he abides contemplating in the body its arising factors, or he abides contemplating in the body its vanishing factors, or he abides contemplating in the body both its arising and vanishing factors. Or else mindfulness that 'there is a body' is simply established in him to the extent necessary for bare knowledge and mindfulness. And he abides independent, not clinging to anything in the world. That too is how a bhikkhu abides contemplating the body as a body.
+31\. "Bằng cách này, vị ấy an trú, quán sát thân thể như là thân thể ở bên trong, hoặc vị ấy an trú, quán sát thân thể như là thân thể ở bên ngoài, hoặc vị ấy an trú, quán sát thân thể như là thân thể ở cả bên trong lẫn bên ngoài. Hoặc vị ấy an trú, quán sát các yếu tố sinh khởi trong thân thể, hoặc vị ấy an trú, quán sát các yếu tố tan biến trong thân thể, hoặc vị ấy an trú, quán sát cả các yếu tố sinh khởi và tan biến trong thân thể. Hoặc chánh niệm rằng 'có một thân thể' được thiết lập đơn giản trong vị ấy, ở mức độ cần thiết cho sự hiểu biết đơn thuần và chánh niệm. Và vị ấy an trú độc lập, không bám víu vào bất cứ điều gì trên thế gian. Đó cũng là cách một tỳ kheo an trú, quán sát thân thể như là thân thể.
 
-## (CONTEMPLATION OF FEELING)
+<!--pg-->
+#### (QUÁN SÁT CẢM THỌ)
 
-32. "And how, bhikkhus, does a bhikkhu abide contemplating feelings as feelings? [^152] Here, when feeling a pleasant feeling, a bhikkhu understands: 'I feel a pleasant feeling'; when feeling a painful feeling, he understands: 'I feel a painful feeling'; when feeling a neither-painful-nor-pleasant feeling, he understands: 'I feel a neither-painful-nor-pleasant feeling.' When feeling a worldly pleasant feeling, he understands: 'I feel a worldly pleasant feeling'; when feeling an unworldly pleasant feeling, he understands: 'I feel an unworldly pleasant feeling'; when feeling
-a worldly painful feeling, he understands: 'I feel a worldly painful feeling'; when feeling an unworldly painful feeling, he understands: 'I feel an unworldly painful feeling'; when feeling a worldly neither-painful-nor-pleasant feeling, he understands: 'I feel a worldly neither-painful-nor-pleasant feeling'; when feeling an unworldly neither-painful-nor-pleasant feeling, he understands: 'I feel an unworldly neither-painful-nor-pleasant feeling.'
+32\. "Và này các tỳ kheo, làm thế nào một tỳ kheo an trú, quán sát cảm thọ như là cảm thọ? [^152] Ở đây, khi cảm thấy một cảm thọ dễ chịu, một tỳ kheo hiểu: 'Tôi đang cảm thấy một cảm thọ dễ chịu'; khi cảm thấy một cảm thọ khó chịu, vị ấy hiểu: 'Tôi đang cảm thấy một cảm thọ khó chịu'; khi cảm thấy một cảm thọ không-dễ-chịu-cũng-không-khó-chịu, vị ấy hiểu: 'Tôi đang cảm thấy một cảm thọ không-dễ-chịu-cũng-không-khó-chịu.' Khi cảm thấy một cảm thọ dễ chịu thuộc về thế gian, vị ấy hiểu: 'Tôi đang cảm thấy một cảm thọ dễ chịu thuộc về thế gian'; khi cảm thấy một cảm thọ dễ chịu không thuộc về thế gian, vị ấy hiểu: 'Tôi đang cảm thấy một cảm thọ dễ chịu không thuộc về thế gian'; khi cảm thấy
+một cảm thọ khó chịu thuộc về thế gian, vị ấy hiểu: 'Tôi đang cảm thấy một cảm thọ khó chịu thuộc về thế gian'; khi cảm thấy một cảm thọ khó chịu không thuộc về thế gian, vị ấy hiểu: 'Tôi đang cảm thấy một cảm thọ khó chịu không thuộc về thế gian'; khi cảm thấy một cảm thọ không-dễ-chịu-cũng-không-khó-chịu thuộc về thế gian, vị ấy hiểu: 'Tôi đang cảm thấy một cảm thọ không-dễ-chịu-cũng-không-khó-chịu thuộc về thế gian'; khi cảm thấy một cảm thọ không-dễ-chịu-cũng-không-khó-chịu không thuộc về thế gian, vị ấy hiểu: 'Tôi đang cảm thấy một cảm thọ không-dễ-chịu-cũng-không-khó-chịu không thuộc về thế gian.'
 
-## (INSIGHT)
+*(Tuệ Giác - Insight\)*
 
-33. "In this way he abides contemplating feelings as feelings internally, or he abides contemplating feelings as feelings externally, or he abides contemplating feelings as feelings both internally and externally. Or else he abides contemplating in feelings their arising factors, or he abides contemplating in feelings their vanishing factors, or he abides contemplating in feelings both their arising and vanishing factors. [^153] Or else mindfulness that 'there is feeling' is simply established in him to the extent necessary for bare knowledge and mindfulness. And he abides independent, not clinging to anything in the world. That is how a bhikkhu abides contemplating feelings as feelings.
+33\. "Bằng cách này, vị ấy an trú, quán sát cảm thọ như là cảm thọ ở bên trong, hoặc vị ấy an trú, quán sát cảm thọ như là cảm thọ ở bên ngoài, hoặc vị ấy an trú, quán sát cảm thọ như là cảm thọ ở cả bên trong lẫn bên ngoài. Hoặc vị ấy an trú, quán sát các yếu tố sinh khởi trong cảm thọ, hoặc vị ấy an trú, quán sát các yếu tố tan biến trong cảm thọ, hoặc vị ấy an trú, quán sát cả các yếu tố sinh khởi và tan biến trong cảm thọ. [^153] Hoặc chánh niệm rằng 'có cảm thọ' được thiết lập đơn giản trong vị ấy, ở mức độ cần thiết cho sự hiểu biết đơn thuần và chánh niệm. Và vị ấy an trú độc lập, không bám víu vào bất cứ điều gì trên thế gian. Đó là cách một tỳ kheo an trú, quán sát cảm thọ như là cảm thọ.
 
-## (CONTEMPLATION OF MIND)
+<!--pg-->
+#### (QUÁN SÁT TÂM)
 
-34. "And how, bhikkhus, does a bhikkhu abide contemplating mind as mind? [^154] Here a bhikkhu understands mind affected by lust as mind affected by lust, and mind unaffected by lust as mind unaffected by lust. He understands mind affected by hate as mind affected by hate, and mind unaffected by hate as mind unaffected by hate. He understands mind affected by delusion as mind affected by delusion, and mind unaffected by delusion as mind unaffected by delusion. He understands contracted mind as contracted mind, and distracted mind as distracted mind. He understands exalted mind as exalted mind, and unexalted mind as unexalted mind. He understands surpassed mind as surpassed mind, and unsurpassed mind as unsurpassed mind. He understands concentrated mind as concentrated mind, and unconcentrated mind as unconcentrated mind. He understands liberated mind as liberated mind, and unliberated
-mind as unliberated mind. [^155]
+34\. "Và này các tỳ kheo, làm thế nào một tỳ kheo an trú, quán sát tâm như là tâm? [^154] Ở đây, một tỳ kheo hiểu tâm bị ảnh hưởng bởi tham dục là tâm bị ảnh hưởng bởi tham dục, và tâm không bị ảnh hưởng bởi tham dục là tâm không bị ảnh hưởng bởi tham dục. Vị ấy hiểu tâm bị ảnh hưởng bởi sân hận (hate) là tâm bị ảnh hưởng bởi sân hận, và tâm không bị ảnh hưởng bởi sân hận là tâm không bị ảnh hưởng bởi sân hận. Vị ấy hiểu tâm bị ảnh hưởng bởi si mê (delusion) là tâm bị ảnh hưởng bởi si mê, và tâm không bị ảnh hưởng bởi si mê là tâm không bị ảnh hưởng bởi si mê. Vị ấy hiểu tâm co rút (contracted mind) là tâm co rút, và tâm tán loạn (distracted mind) là tâm tán loạn. Vị ấy hiểu tâm cao thượng (exalted mind) là tâm cao thượng, và tâm không cao thượng (unexalted mind) là tâm không cao thượng. Vị ấy hiểu tâm còn bị vượt qua (surpassed mind) là tâm còn bị vượt qua, và tâm không còn bị vượt qua (unsurpassed mind) là tâm không còn bị vượt qua. Vị ấy hiểu tâm định tĩnh (concentrated mind) là tâm định tĩnh, và tâm không định tĩnh (unconcentrated mind) là tâm không định tĩnh. Vị ấy hiểu tâm giải thoát (liberated mind) là tâm giải thoát, và tâm không giải thoát
+(unliberated mind) là tâm không giải thoát. [^155]
 
-(INSIGHT)
+*(Tuệ Giác - Insight)*
 
-35. "In this way he abides contemplating mind as mind internally, or he abides contemplating mind as mind externally, or he abides contemplating mind as mind both internally and externally. Or else he abides contemplating in mind its arising factors, [60] or he abides contemplating in mind its vanishing factors, or he abides contemplating in mind both its arising and vanishing factors. [^156] Or else mindfulness that 'there is mind' is simply established in him to the extent necessary for bare knowledge and mindfulness. And he abides independent, not clinging to anything in the world. That is how a bhikkhu abides contemplating mind as mind.
+35\. "Bằng cách này, vị ấy an trú, quán sát tâm như là tâm ở bên trong, hoặc vị ấy an trú, quán sát tâm như là tâm ở bên ngoài, hoặc vị ấy an trú, quán sát tâm như là tâm ở cả bên trong lẫn bên ngoài. Hoặc vị ấy an trú, quán sát các yếu tố sinh khởi trong tâm, [60] hoặc vị ấy an trú, quán sát các yếu tố tan biến trong tâm, hoặc vị ấy an trú, quán sát cả các yếu tố sinh khởi và tan biến trong tâm. [^156] Hoặc chánh niệm rằng 'có tâm' được thiết lập đơn giản trong vị ấy, ở mức độ cần thiết cho sự hiểu biết đơn thuần và chánh niệm. Và vị ấy an trú độc lập, không bám víu vào bất cứ điều gì trên thế gian. Đó là cách một tỳ kheo an trú, quán sát tâm như là tâm.
 
-(CONTEMPLATION OF MIND-OBJECTS)
+<!--pg-->
+(QUÁN SÁT CÁC ĐỐI TƯỢNG CỦA TÂM - Mind-Objects)
 
-## (1. The Five Hindrances)
+#### (1. Năm Chướng Ngại - The Five Hindrances)
 
-36. "And how, bhikkhus, does a bhikkhu abide contemplating mind-objects as mind-objects? [^157] Here a bhikkhu abides contemplating mind-objects as mind-objects in terms of the five hindrances. [^158] And how does a bhikkhu abide contemplating mind-objects as mind-objects in terms of the five hindrances? Here, there being sensual desire in him, a bhikkhu understands: 'There is sensual desire in me'; or there being no sensual desire in him, he understands: 'There is no sensual desire in me'; and he also understands how there comes to be the arising of unarisen sensual desire, and how there comes to be the abandoning of arisen sensual desire, and how there comes to be the future non-arising of abandoned sensual desire.'
+36\. "Và này các tỳ kheo, làm thế nào một tỳ kheo an trú, quán sát các đối tượng của tâm như là các đối tượng của tâm? [^157] Ở đây, một tỳ kheo an trú, quán sát các đối tượng của tâm như là các đối tượng của tâm theo năm chướng ngại. [^158] Và làm thế nào một tỳ kheo an trú, quán sát các đối tượng của tâm như là các đối tượng của tâm theo năm chướng ngại? Ở đây, khi có dục vọng (sensual desire) trong vị ấy, một tỳ kheo hiểu: 'Có dục vọng trong tôi'; hoặc khi không có dục vọng trong vị ấy, vị ấy hiểu: 'Không có dục vọng trong tôi'; và vị ấy cũng hiểu làm thế nào dục vọng chưa sinh khởi lại sinh khởi, và làm thế nào dục vọng đã sinh khởi bị loại bỏ, và làm thế nào dục vọng đã bị loại bỏ không sinh khởi trở lại trong tương lai.'
 
-"There being ill will in him...There being sloth and torpor in him...There being restlessness and remorse in him...There being doubt in him, a bhikkhu understands: 'There is doubt in me'; or there being no doubt in him, he understands: 'There is no doubt in me'; and he understands how there comes to be the arising of unarisen doubt, and how there comes to be the abandoning of arisen doubt, and how there comes to be the future non-arising of abandoned doubt.
-(INSIGHT)
+"Khi có sân hận (ill will) trong vị ấy... Khi có hôn trầm và thụy miên (sloth and torpor) trong vị ấy... Khi có trạo cử và hối hận (restlessness and remorse) trong vị ấy... Khi có nghi ngờ (doubt) trong vị ấy, một tỳ kheo hiểu: 'Có nghi ngờ trong tôi'; hoặc khi không có nghi ngờ trong vị ấy, vị ấy hiểu: 'Không có nghi ngờ trong tôi'; và vị ấy hiểu làm thế nào nghi ngờ chưa sinh khởi lại sinh khởi, và làm thế nào nghi ngờ đã sinh khởi bị loại bỏ, và làm thế nào nghi ngờ đã bị loại bỏ không sinh khởi trở lại trong tương lai.
 
-37. "In this way he abides contemplating mind-objects as mindobjects internally, or he abides contemplating mind-objects as mind-objects externally, or he abides contemplating mindobjects as mind-objects both internally and externally. Or else he abides contemplating in mind-objects their arising factors, or he abides contemplating in mind-objects their vanishing factors, or he abides contemplating in mind-objects both their arising and vanishing factors. Or else mindfulness that 'there are mindobjects' is simply established in him to the extent necessary for bare knowledge and mindfulness. And he abides independent, not clinging to anything in the world. That is how a bhikkhu abides contemplating mind-objects as mind-objects in terms of the five hindrances.
+*(Tuệ Giác - INSIGHT)*
 
-## (2. The Five Aggregates)
+37\. "Bằng cách này, vị ấy an trú, quán sát các đối tượng của tâm như là các đối tượng của tâm ở bên trong, hoặc vị ấy an trú, quán sát các đối tượng của tâm như là các đối tượng của tâm ở bên ngoài, hoặc vị ấy an trú, quán sát các đối tượng của tâm như là các đối tượng của tâm ở cả bên trong lẫn bên ngoài. Hoặc vị ấy an trú, quán sát các yếu tố sinh khởi trong các đối tượng của tâm, hoặc vị ấy an trú, quán sát các yếu tố tan biến trong các đối tượng của tâm, hoặc vị ấy an trú, quán sát cả các yếu tố sinh khởi và tan biến trong các đối tượng của tâm. Hoặc chánh niệm rằng 'có các đối tượng của tâm' được thiết lập đơn giản trong vị ấy, ở mức độ cần thiết cho sự hiểu biết đơn thuần và chánh niệm. Và vị ấy an trú độc lập, không bám víu vào bất cứ điều gì trên thế gian. Đó là cách một tỳ kheo an trú, quán sát các đối tượng của tâm như là các đối tượng của tâm theo năm chướng ngại.
 
-38. "Again, bhikkhus, a bhikkhu abides contemplating mindobjects as mind-objects [61] in terms of the five aggregates affected by clinging. [^159] And how does a bhikkhu abide contemplating mind-objects as mind-objects in terms of the five aggregates affected by clinging? Here a bhikkhu understands: 'Such is material form, such its origin, such its disappearance; such is feeling, such its origin, such its disappearance; such is perception, such its origin, such its disappearance; such are the formations, such their origin, such their disappearance; such is consciousness, such its origin, such its disappearance.'
+<!--pg-->
+#### (2. Năm Uẩn - The Five Aggregates)
 
-39. "In this way he abides contemplating mind-objects as mind-objects internally, externally, and both internally and externally...And he abides independent, not clinging to anything in the world. That is how a bhikkhu abides contemplating mind-objects as mind-objects in terms of the five aggregates affected by clinging.
+38\. "Lại nữa, này các tỳ kheo, một tỳ kheo an trú, quán sát các đối tượng của tâm như là các đối tượng của tâm [61] theo năm uẩn (aggregates) bị ảnh hưởng bởi chấp thủ (clinging). [^159] Và làm thế nào một tỳ kheo an trú, quán sát các đối tượng của tâm như là các đối tượng của tâm theo năm uẩn bị ảnh hưởng bởi chấp thủ? Ở đây, một tỳ kheo hiểu: 'Đây là sắc (material form), đây là nguồn gốc của sắc, đây là sự biến mất của sắc; đây là thọ (feeling), đây là nguồn gốc của thọ, đây là sự biến mất của thọ; đây là tưởng (perception), đây là nguồn gốc của tưởng, đây là sự biến mất của tưởng; đây là các hành (formations), đây là nguồn gốc của các hành, đây là sự biến mất của các hành; đây là thức (consciousness), đây là nguồn gốc của thức, đây là sự biến mất của thức.'
 
-## (3. The Six Bases)
+39\. "Bằng cách này, vị ấy an trú, quán sát các đối tượng của tâm như là các đối tượng của tâm ở bên trong, bên ngoài, và cả bên trong lẫn bên ngoài... Và vị ấy an trú độc lập, không bám víu vào bất cứ điều gì trên thế gian. Đó là cách một tỳ kheo an trú, quán sát các đối tượng của tâm như là các đối tượng của tâm theo năm uẩn bị ảnh hưởng bởi chấp thủ.
 
-40. "Again, bhikkhus, a bhikkhu abides contemplating mindobjects as mind-objects in terms of the six internal and external bases. [^160] And how does a bhikkhu abide contemplating
-mind-objects as mind-objects in terms of the six internal and external bases? Here a bhikkhu understands the eye, he understands forms, and he understands the fetter that arises dependent on both; and he also understands how there comes to be the arising of the unarisen fetter, and how there comes to be the abandoning of the arisen fetter, and how there comes to be the future non-arising of the abandoned fetter.
+<!--pg-->
+#### (3. Sáu Căn - The Six Bases)
 
-"He understands the ear, he understands sounds...He understands the nose, he understands odours...He understands the tongue, he understands flavours...He understands the body, he understands tangibles...He understands the mind, he understands mind-objects, and he understands the fetter that arises dependent on both; and he also understands how there comes to be the arising of the unarisen fetter, and how there comes to be the abandoning of the arisen fetter, and how there comes to be the future non-arising of the abandoned fetter.
+40\. "Lại nữa, này các tỳ kheo, một tỳ kheo an trú, quán sát các đối tượng của tâm như là các đối tượng của tâm theo sáu căn bên trong và bên ngoài. [^160] Và làm thế nào một tỳ kheo an trú, quán sát
+các đối tượng của tâm như là các đối tượng của tâm theo sáu căn bên trong và bên ngoài? Ở đây, một tỳ kheo hiểu mắt, vị ấy hiểu các hình sắc (forms), và vị ấy hiểu kiết sử (fetter - sự trói buộc) sinh khởi phụ thuộc vào cả hai; và vị ấy cũng hiểu làm thế nào kiết sử chưa sinh khởi lại sinh khởi, và làm thế nào kiết sử đã sinh khởi bị loại bỏ, và làm thế nào kiết sử đã bị loại bỏ không sinh khởi trở lại trong tương lai.
 
-41. "In this way he abides contemplating mind-objects as mind-objects internally, externally, and both internally and externally...And he abides independent, not clinging to anything in the world. That is how a bhikkhu abides contemplating mind-objects as mind-objects in terms of the six internal and external bases.
+"Vị ấy hiểu tai, vị ấy hiểu âm thanh... Vị ấy hiểu mũi, vị ấy hiểu mùi... Vị ấy hiểu lưỡi, vị ấy hiểu vị... Vị ấy hiểu thân, vị ấy hiểu xúc chạm... Vị ấy hiểu ý, vị ấy hiểu các đối tượng của tâm, và vị ấy hiểu kiết sử sinh khởi phụ thuộc vào cả hai; và vị ấy cũng hiểu làm thế nào kiết sử chưa sinh khởi lại sinh khởi, và làm thế nào kiết sử đã sinh khởi bị loại bỏ, và làm thế nào kiết sử đã bị loại bỏ không sinh khởi trở lại trong tương lai.
 
-## (4. The Seven Enlightenment Factors)
+41\. "Bằng cách này, vị ấy an trú, quán sát các đối tượng của tâm như là các đối tượng của tâm ở bên trong, bên ngoài, và cả bên trong lẫn bên ngoài... Và vị ấy an trú độc lập, không bám víu vào bất cứ điều gì trên thế gian. Đó là cách một tỳ kheo an trú, quán sát các đối tượng của tâm như là các đối tượng của tâm theo sáu căn bên trong và bên ngoài.
 
-42. "Again, bhikkhus, a bhikkhu abides contemplating mindobjects as mind-objects in terms of the seven enlightenment factors. [^161] And how does a bhikkhu abide contemplating mind-objects as mind-objects in terms of the seven enlightenment factors? Here, there being the mindfulness enlightenment factor in him, a bhikkhu understands: 'There is the mindfulness enlightenment factor in me'; or there being no mindfulness enlightenment factor in him, he understands: [62] 'There is no mindfulness enlightenment factor in me'; and he also understands how there comes to be the arising of the unarisen mindfulness enlightenment factor, and how the arisen mindfulness enlightenment factor comes to fulfilment by development.
+<!--pg-->
+#### (4. Bảy Yếu Tố Giác Ngộ - The Seven Enlightenment Factors)
 
-"There being the investigation-of-states enlightenment factor in him ${ }^{162} \ldots$...There being the energy enlightenment factor in
-him...There being the rapture enlightenment factor in him...There being the tranquillity enlightenment factor in him...There being the concentration enlightenment factor in him...There being the equanimity enlightenment factor in him, a bhikkhu understands: 'There is the equanimity enlightenment factor in me'; or there being no equanimity enlightenment factor in him, he understands: 'There is no equanimity enlightenment factor in me'; and he also understands how there comes to be the arising of the unarisen equanimity enlightenment factor, and how the arisen equanimity enlightenment factor comes to fulfilment by development. [^163]
+42\. "Lại nữa, này các tỳ kheo, một tỳ kheo an trú, quán sát các đối tượng của tâm như là các đối tượng của tâm theo bảy yếu tố giác ngộ. [^161] Và làm thế nào một tỳ kheo an trú, quán sát các đối tượng của tâm như là các đối tượng của tâm theo bảy yếu tố giác ngộ? Ở đây, khi có yếu tố giác ngộ về chánh niệm (mindfulness enlightenment factor) trong vị ấy, một tỳ kheo hiểu: 'Có yếu tố giác ngộ về chánh niệm trong tôi'; hoặc khi không có yếu tố giác ngộ về chánh niệm trong vị ấy, vị ấy hiểu: [62] 'Không có yếu tố giác ngộ về chánh niệm trong tôi'; và vị ấy cũng hiểu làm thế nào yếu tố giác ngộ về chánh niệm chưa sinh khởi lại sinh khởi, và làm thế nào yếu tố giác ngộ về chánh niệm đã sinh khởi được phát triển đầy đủ.
 
-43. "In this way he abides contemplating mind-objects as mind-objects internally, externally, and both internally and externally...And he abides independent, not clinging to anything in the world. That is how a bhikkhu abides contemplating mind-objects as mind-objects in terms of the seven enlightenment factors.
+"Khi có yếu tố giác ngộ về trạch pháp (investigation-of-states enlightenment factor - sự xem xét, phân tích các pháp) trong vị ấy [^162]... Khi có yếu tố giác ngộ về tinh tấn (energy enlightenment factor) trong
+vị ấy... Khi có yếu tố giác ngộ về hỷ (rapture enlightenment factor) trong vị ấy... Khi có yếu tố giác ngộ về khinh an (tranquillity enlightenment factor) trong vị ấy... Khi có yếu tố giác ngộ về định (concentration enlightenment factor) trong vị ấy... Khi có yếu tố giác ngộ về xả (equanimity enlightenment factor) trong vị ấy, một tỳ kheo hiểu: 'Có yếu tố giác ngộ về xả trong tôi'; hoặc khi không có yếu tố giác ngộ về xả trong vị ấy, vị ấy hiểu: 'Không có yếu tố giác ngộ về xả trong tôi'; và vị ấy cũng hiểu làm thế nào yếu tố giác ngộ về xả chưa sinh khởi lại sinh khởi, và làm thế nào yếu tố giác ngộ về xả đã sinh khởi được phát triển đầy đủ. [^163]
 
-## (5. The Four Noble Truths)
+43\. "Bằng cách này, vị ấy an trú, quán sát các đối tượng của tâm như là các đối tượng của tâm ở bên trong, bên ngoài, và cả bên trong lẫn bên ngoài... Và vị ấy an trú độc lập, không bám víu vào bất cứ điều gì trên thế gian. Đó là cách một tỳ kheo an trú, quán sát các đối tượng của tâm như là các đối tượng của tâm theo bảy yếu tố giác ngộ.
 
-44. "Again, bhikkhus, a bhikkhu abides contemplating mindobjects as mind-objects in terms of the Four Noble Truths. [^164] And how does a bhikkhu abide contemplating mind-objects as mind-objects in terms of the Four Noble Truths? Here a bhikkhu understands as it actually is: 'This is suffering'; he understands as it actually is: 'This is the origin of suffering'; he understands as it actually is: 'This is the cessation of suffering'; he understands as it actually is: 'This is the way leading to the cessation of suffering.'
+<!--pg-->
+#### (5. Bốn Chân Lý Cao Quý - The Four Noble Truths)
 
-(INSIGHT)
+44\. "Lại nữa, này các tỳ kheo, một tỳ kheo an trú, quán sát các đối tượng của tâm như là các đối tượng của tâm theo Bốn Chân Lý Cao Quý. [^164] Và làm thế nào một tỳ kheo an trú, quán sát các đối tượng của tâm như là các đối tượng của tâm theo Bốn Chân Lý Cao Quý? Ở đây, một tỳ kheo hiểu đúng như thật: 'Đây là khổ (suffering)'; vị ấy hiểu đúng như thật: 'Đây là nguyên nhân của khổ'; vị ấy hiểu đúng như thật: 'Đây là sự chấm dứt khổ'; vị ấy hiểu đúng như thật: 'Đây là con đường dẫn đến sự chấm dứt khổ.'
 
-45. "In this way he abides contemplating mind-objects as mindobjects internally, or he abides contemplating mind-objects as mind-objects externally, or he abides contemplating mind-objects as mind-objects both internally and externally. Or else he abides contemplating in mind-objects their arising factors, or he abides contemplating in mind-objects their vanishing factors, or he abides contemplating in mind-objects both their arising and van-
-ishing factors. Or else mindfulness that 'there are mind-objects' is simply established in him to the extent necessary for bare knowledge and mindfulness. And he abides independent, not clinging to anything in the world. That is how a bhikkhu abides contemplating mind-objects as mind-objects in terms of the Four Noble Truths.
+*(Tuệ Giác - Insight\)*
 
-(CONCLUSION)
+45\. "Bằng cách này, vị ấy an trú, quán sát các đối tượng của tâm như là các đối tượng của tâm ở bên trong, hoặc vị ấy an trú, quán sát các đối tượng của tâm như là các đối tượng của tâm ở bên ngoài, hoặc vị ấy an trú, quán sát các đối tượng của tâm như là các đối tượng của tâm ở cả bên trong lẫn bên ngoài. Hoặc vị ấy an trú, quán sát các yếu tố sinh khởi trong các đối tượng của tâm, hoặc vị ấy an trú, quán sát các yếu tố tan biến trong các đối tượng của tâm, hoặc vị ấy an trú, quán sát cả các yếu tố sinh khởi và tan
+biến trong các đối tượng của tâm. Hoặc chánh niệm rằng 'có các đối tượng của tâm' được thiết lập đơn giản trong vị ấy, ở mức độ cần thiết cho sự hiểu biết đơn thuần và chánh niệm. Và vị ấy an trú độc lập, không bám víu vào bất cứ điều gì trên thế gian. Đó là cách một tỳ kheo an trú, quán sát các đối tượng của tâm như là các đối tượng của tâm theo Bốn Chân Lý Cao Quý.
 
-46. "Bhikkhus, if anyone should develop these four foundations of mindfulness in such a way for seven years, one of two fruits could be expected for him: either final knowledge here and now, or if there is a trace of clinging left, non-return. [^165]
+<!--pg-->
+(KẾT LUẬN)
 
-"Let alone seven years, bhikkhus. [63] If anyone should develop these four foundations of mindfulness in such a way for six years...for five years...for four years...for three years...for two years...for one year, one of two fruits could be expected for him: either final knowledge here and now, or if there is a trace of clinging left, non-return.
+46\. "Này các tỳ kheo, nếu bất kỳ ai phát triển bốn nền tảng chánh niệm này theo cách như vậy trong bảy năm, thì có thể mong đợi một trong hai kết quả cho vị ấy: hoặc là chứng ngộ (final knowledge) ngay trong hiện tại, hoặc nếu còn một chút chấp thủ (clinging), thì sẽ đạt được quả vị Bất Lai (non-return - không còn tái sinh vào cõi dục). [^165]
 
-"Let alone one year, bhikkhus. If anyone should develop these four foundations of mindfulness in such a way for seven months...for six months...for five months...for four months...for three months...for two months...for one month...for half a month, one of two fruits could be expected for him: either final knowledge here and now, or if there is a trace of clinging left, non-return.
+"Đừng nói đến bảy năm, này các tỳ kheo. [63] Nếu bất kỳ ai phát triển bốn nền tảng chánh niệm này theo cách như vậy trong sáu năm... trong năm năm... trong bốn năm... trong ba năm... trong hai năm... trong một năm, thì có thể mong đợi một trong hai kết quả cho vị ấy: hoặc là chứng ngộ ngay trong hiện tại, hoặc nếu còn một chút chấp thủ, thì sẽ đạt được quả vị Bất Lai.
 
-"Let alone half a month, bhikkhus. If anyone should develop these four foundations of mindfulness in such a way for seven days, one of two fruits could be expected for him: either final knowledge here and now, or if there is a trace of clinging left, non-return.
+"Đừng nói đến một năm, này các tỳ kheo. Nếu bất kỳ ai phát triển bốn nền tảng chánh niệm này theo cách như vậy trong bảy tháng... trong sáu tháng... trong năm tháng... trong bốn tháng... trong ba tháng... trong hai tháng... trong một tháng... trong nửa tháng, thì có thể mong đợi một trong hai kết quả cho vị ấy: hoặc là chứng ngộ ngay trong hiện tại, hoặc nếu còn một chút chấp thủ, thì sẽ đạt được quả vị Bất Lai.
 
-47. "So it was with reference to this that it was said: 'Bhikkhus, this is the direct path for the purification of beings, for the surmounting of sorrow and lamentation, for the disappearance of pain and grief, for the attainment of the true way, for the realisation of Nibbāna - namely, the four foundations of mindfulness.'"
+"Đừng nói đến nửa tháng, này các tỳ kheo. Nếu bất kỳ ai phát triển bốn nền tảng chánh niệm này theo cách như vậy trong bảy ngày, thì có thể mong đợi một trong hai kết quả cho vị ấy: hoặc là chứng ngộ ngay trong hiện tại, hoặc nếu còn một chút chấp thủ, thì sẽ đạt được quả vị Bất Lai.
 
-That is what the Blessed One said. The bhikkhus were satisfied and delighted in the Blessed One's words.
+47\. "Vì vậy, chính vì điều này mà đã nói: 'Này các tỳ kheo, đây là con đường trực tiếp để thanh lọc chúng sinh, vượt qua sầu khổ và than khóc, chấm dứt khổ đau và buồn phiền, đạt được con đường chân chính, chứng ngộ Niết Bàn - đó chính là bốn nền tảng của chánh niệm.'"
+
+Đó là những gì Đức Phật đã nói. Các tỳ kheo hoan hỷ và hài lòng với lời dạy của Đức Phật.
+
+<!--pg-->
+Từ ngữ:
+
+- Chánh niệm / sati / mindfulness: sự chú tâm, tỉnh giác vào hiện tại.
+- Tỳ kheo / bhikkhu / monk: nhà sư.
+- Niết Bàn / Nibbāna / Nirvana: trạng thái giải thoát hoàn toàn khỏi khổ đau.
+- Thân hành / kāyasaṅkhāra / bodily formation: các hoạt động của thân thể.
+- Yếu tố sinh khởi / samudaya-dhammā / arising factors: các yếu tố làm phát sinh.
+- Yếu tố tan biến / vaya-dhammā / vanishing factors: các yếu tố làm tan biến.
+- Dục vọng / kāmacchanda / sensual desire: ham muốn các đối tượng giác quan.
+- Sân hận / byāpāda / ill will: sự tức giận, thù hận.
+- Hôn trầm và thụy miên / thīna-middha / sloth and torpor: sự lười biếng, uể oải, buồn ngủ.
+- Trạo cử và hối hận / uddhacca-kukkucca / restlessness and remorse: sự bồn chồn, lo lắng, hối hận.
+- Nghi ngờ / vicikicchā / doubt: sự hoài nghi, do dự.
+- Năm uẩn / pañcupādānakkhandhā / five aggregates affected by clinging: năm nhóm tạo nên một chúng sinh (sắc, thọ, tưởng, hành, thức) và là đối tượng của sự chấp thủ.
+- Sáu căn / ajjhattikāni bāhirāni āyatanāni / six internal and external sense bases: sáu giác quan (mắt, tai, mũi, lưỡi, thân, ý) và sáu đối tượng tương ứng (sắc, thanh, hương, vị, xúc, pháp).
+- Kiết sử / saṃyojana / fetter: sự trói buộc, ràng buộc chúng sinh trong vòng luân hồi.
+- Bảy yếu tố giác ngộ / satta bojjhaṅgā / seven enlightenment factors: bảy yếu tố giúp đạt được giác ngộ (niệm, trạch pháp, tinh tấn, hỷ, khinh an, định, xả).
+- Bốn Chân Lý Cao Quý / cattāri ariyasaccāni / Four Noble Truths: bốn sự thật về khổ, nguyên nhân của khổ, sự chấm dứt khổ, và con đường dẫn đến sự chấm dứt khổ.
+- Chứng ngộ / aññā / final knowledge: sự hiểu biết tối thượng, giải thoát hoàn toàn.
+- Bất Lai / anāgāmī / non-returner: người không còn tái sinh vào cõi dục.

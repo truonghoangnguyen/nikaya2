@@ -5,7 +5,7 @@
 
 2. "Bhikkhus, sensual pleasures [^1008] are impermanent, hollow, false, deceptive; they are illusory, the prattle of fools. Sensual pleasures here and now and sensual pleasures in lives to come, [262] sensual perceptions here and now and sensual perceptions in lives to come - both alike are Māra's realm, Māra's domain, Māra's bait, Māra's hunting ground. On account of them, these evil unwholesome mental states such as covetousness, ill will, and presumption arise, and they constitute an obstruction to a noble disciple in training here.
 
-## (THE IMPERTURBABLE)
+#### (THE IMPERTURBABLE)
 
 3. "Therein, bhikkhus, a noble disciple considers thus: 'Sensual pleasures here and now and sensual pleasures in lives to come...constitute an obstruction to a noble disciple in training here. Suppose I were to abide with a mind abundant and exalted, having transcended the world and made a firm resolution with the mind. [^1009] When I do so, there will be no more evil unwholesome mental states such as covetousness, ill will, and presumption in me, and with the abandoning of them my mind will be unlimited, immeasurable, and well developed.' When he practises in this way and frequently abides thus, his mind acquires confidence in this base. [^1010] Once there is full confidence, he either attains to the imperturbable now or else he decides upon [perfecting] wisdom. On the dissolution of the
 body, after death, it is possible that this consciousness of his, leading [to rebirth], may pass on [to rebirth] in the imperturbable. [^1011] This, bhikkhus, is declared to be the first way directed to the imperturbable.
@@ -14,7 +14,7 @@ body, after death, it is possible that this consciousness of his, leading [to re
 
 5. "Again, bhikkhus, a noble disciple considers thus: [^1013] 'Sensual pleasures here and now and sensual pleasures in lives to come, sensual perceptions here and now and sensual perceptions in lives to come, material forms here and now and material forms in lives to come, perceptions of forms here and now and perceptions of forms in lives to come - both alike are impermanent. What is impermanent is not worth delighting in, not worth welcoming, not worth holding to.' When he practises in this way and frequently abides thus, his mind acquires confidence in this base. Once there is full confidence, he either attains to the imperturbable now or else he decides upon [perfecting] wisdom. On the dissolution of the body, after death, it is possible that this consciousness of his, leading [to rebirth], may pass on [to rebirth] in the imperturbable. This, bhikkhus, is declared to be the third way directed to the imperturbable.
 
-## (THE BASE OF NOTHINGNESS)
+#### (THE BASE OF NOTHINGNESS)
 
 6. "Again, bhikkhus, a noble disciple considers thus: [^1014] 'Sensual pleasures here and now and sensual pleasures in lives to come, sensual perceptions here and now and sensual perceptions in lives to come, material forms here and now and material forms in lives to come, perceptions of forms here and now and
 perceptions of forms in lives to come, and perceptions of the imperturbable - all are perceptions. Where these perceptions cease without remainder, that is the peaceful, that is the sublime, namely, the base of nothingness.' When he practises in this way and frequently abides thus, his mind acquires confidence in this base. Once there is full confidence, he either attains to the base of nothingness now or else he decides upon [perfecting] wisdom. On the dissolution of the body, after death, it is possible that this consciousness of his, leading [to rebirth], may pass on [to rebirth] in the base of nothingness. This, bhikkhus, is declared to be the first way directed to the base of nothingness.
@@ -23,12 +23,12 @@ perceptions of forms in lives to come, and perceptions of the imperturbable - al
 
 8. "Again, bhikkhus, a noble disciple considers thus: 'I am not anything belonging to anyone anywhere, [264] nor is there anything belonging to me in anyone anywhere. [^1016] When he practises in this way and frequently abides thus, his mind acquires confidence in this base. Once there is full confidence, he either attains to the base of nothingness now or else he decides upon [perfecting] wisdom. On the dissolution of the body, after death, it is possible that this consciousness of his, leading [to rebirth], may pass on [to rebirth] in the base of nothingness. This, bhikkhus, is declared to be the third way directed to the base of nothingness.
 
-## (THE BASE OF NEITHER-PERCEPTION-NOR-NON-PERCEPTION)
+#### (THE BASE OF NEITHER-PERCEPTION-NOR-NON-PERCEPTION)
 
 9. "Again, bhikkhus, a noble disciple considers thus: 'Sensual pleasures here and now and sensual pleasures in lives to come, sensual perceptions here and now and sensual perceptions in lives to come, material forms here and now and material forms in lives to come, perceptions of forms here and now and
 perceptions of forms in lives to come, perceptions of the imperturbable, and perceptions of the base of nothingness - all are perceptions. Where these perceptions cease without remainder, that is the peaceful, that is the sublime, namely, the base of neither-perception-nor-non-perception.' When he practises in this way and frequently abides thus, his mind acquires confidence in this base. Once there is full confidence, he either attains to the base of neither-perception-nor-non-perception now or else he decides upon [perfecting] wisdom. On the dissolution of the body, after death, it is possible that this consciousness of his, leading [to rebirth], may pass on [to rebirth] in the base of neither-perception-nor-non-perception. This, bhikkhus, is declared to be the way directed to the base of neither-perception-nor-non-perception."
 
-## (NIBBĀNA)
+#### (NIBBĀNA)
 
 10. When this was said, the venerable Ānanda said to the Blessed One: "Venerable sir, here a bhikkhu is practising thus: 'If it were not, it would not be mine; it will not be and it will not be mine. What exists, what has come to be, that I am abandoning. [^1017] Thus he obtains equanimity. [^1018] Venerable sir, does such a bhikkhu attain Nibbāna?"
 

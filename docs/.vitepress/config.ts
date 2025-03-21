@@ -100,6 +100,7 @@ export default defineConfig({
   // },
 
   head: [
+    ['base', { target: '_blank' }],
     [
       'link',
       {

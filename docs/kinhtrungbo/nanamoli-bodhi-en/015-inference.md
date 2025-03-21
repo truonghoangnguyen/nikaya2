@@ -40,6 +40,7 @@
 
 "Friends, these are called the qualities that make him difficult to admonish.
 
+<!--pg-->
 4\. "Friends, though a bhikkhu does not ask thus: 'Let the venerable ones admonish me; I need to be admonished by the venerable ones,' yet if he is easy to admonish and possesses qualities that make him easy to admonish, if he is patient and takes instruction rightly, then his companions in the holy life think that he should be admonished and instructed, and they think of him as a person to be trusted.
 
 5\. "What qualities make him easy to admonish?
@@ -77,12 +78,14 @@
 
 "Friends, these are called the qualities that make him easy to admonish.
 
+<!--pg-->
 6\. "Now, friends, a bhikkhu ought to infer about himself in the following way: [^215]
 
 (1) 'A person with evil wishes and dominated by evil wishes is displeasing and disagreeable to me. If I were to have evil wishes and be dominated by evil wishes, I would be displeasing and disagreeable to others.' A bhikkhu who knows this should arouse his mind thus: 'I shall not have evil wishes and be dominated by evil wishes.'
 
 (2-16) 'A person who lauds himself and disparages others... [98 ]...A person who adheres to his own views, holds on to them tenaciously, and relinquishes them with difficulty is displeasing and disagreeable to me. If I were to adhere to my own views, hold on to them tenaciously, and relinquish them with difficulty, I would be displeasing and disagreeable to others.' A bhikkhu who knows this should arouse his mind thus: 'I shall not adhere to my own views, hold on to them tenaciously, and I shall relinquish them easily.'
 
+<!--pg-->
 7\. "Now, friends, a bhikkhu should review himself thus:
 
 (1) 'Do I have evil wishes and am I dominated by evil wishes?' If, when he reviews himself, he knows: 'I have evil wishes, I am dominated by evil wishes,' then he should make an effort to abandon those evil unwholesome states. But if, when he reviews himself, he knows: 'I have no evil wishes, I am not dominated by evil wishes,' then he can abide happy and glad, training day and night in wholesome states.

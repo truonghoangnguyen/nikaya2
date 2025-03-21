@@ -68,6 +68,6 @@ you develop meditation on compassion, any cruelty will be abandoned.
 
 29. "He trains thus: 'I shall breathe in contemplating impermanence'; he trains thus: 'I shall breathe out contemplating impermanence.' He trains thus: 'I shall breathe in contemplating fading away'; he trains thus: 'I shall breathe out contemplating fading away.' He trains thus: 'I shall breathe in contemplating cessation'; he trains thus: 'I shall breathe out contemplating cessation.' He trains thus: 'I shall breathe in contemplating relinquishment'; he trains thus: 'I shall breathe out contemplating relinquishment.'
 
-30. "Rāhula, that is how mindfulness of breathing is developed and cultivated, so that it is of great fruit and great benefit. When mindfulness of breathing is developed and cultivated in this way, [426] even the final in-breaths and out-breaths are known as they cease, not unknown." ${ }^{\prime 647}$
+30. "Rāhula, that is how mindfulness of breathing is developed and cultivated, so that it is of great fruit and great benefit. When mindfulness of breathing is developed and cultivated in this way, [426] even the final in-breaths and out-breaths are known as they cease, not unknown." [^647]
 
 That is what the Blessed One said. The venerable Rāhula was satisfied and delighted in the Blessed One's words.

@@ -3,7 +3,7 @@
 **19. KINH SONG TẦM**
 ***(Dvedhàvitakka Sutta)***
 
-## T ôi nghe như vầy:
+## Tôi nghe như vầy:
 
 Một thời Thế Tôn ở Savatthi (Xá-vệ), tại Jetavana (Kỳ-đà Lâm), vườn ông Anathapindika (Cấp Cô
 Ðộc). Tại đây, Thế Tôn gọi các Tỷ-kheo: "Chư Tỷ-kheo". --"Thưa vâng", các Tỷ-kheo ấy vâng đáp Thế
@@ -28,6 +28,7 @@ người, đưa đến hại cả hai, diệt trí tuệ, dự phần vào phi�
 khi Ta suy tư: "Hại tầm này đưa đến tự hại"... "Hại tầm diệt trí tuệ, dự phần vào phiền não, không đưa
 đến Niết-bàn", hại tầm biến mất. Chư Tỷ-kheo, như vậy Ta tiếp tục trừ bỏ, xả ly và đoạn tận hại tầm.
 
+<!--pg-->
 Chư Tỷ-kheo, Tỷ-kheo suy tư, quán sát nhiều vấn đề gì, thời tâm sanh khuynh hướng đối vấn đề ấy. Chư
 Tỷ-kheo, nếu Tỷ-kheo suy tư, quán sát nhiều về dục tầm, vị ấy từ bỏ ly dục tầm. Khi tâm đã nặng về dục
 tầm, thời tâm vị ấy có khuynh hướng về dục tầm. Chư Tỷ-kheo, nếu Tỷ-kheo suy tư quán sát nhiều về
@@ -40,6 +41,7 @@ Chư Tỷ-kheo, vì người mục đồng thấy do nhân duyên này, đưa đ
 trách móc. Chư Tỷ-kheo, cũng vậy, Ta đã thấy sự nguy hại, sự hạ liệt, sự uế nhiễm của các pháp bất
 thiện, và thấy sự viễn ly, sự lợi ích, sự thanh tịnh của các thiện pháp.
 
+<!--pg-->
 Chư Tỷ-kheo, trong khi Ta sống không phóng dật, nhiệt tâm, tinh cần như vậy, khi ly dục tầm khởi lên,
 Ta tuệ tri như vầy: "Ly dục tầm này khởi lên nơi Ta và ly dục tầm này không đưa đến tự hại, không đưa
 đến hại người, không đưa đến hại cả hai, tăng trưởng trí tuệ, không dự phần vào phiền não, đưa đến
@@ -70,6 +72,7 @@ chăn giữ các con bò. Khi người mục đồng ở dưới gốc cây hay 
 việc cần phải làm, và người ấy nghĩ: "Ðây là những con bò". Chư Tỷ-kheo, cũng vậy ở đây, có việc cần
 phải làm, và Ta nghĩ: "Ðây là những pháp".
 
+<!--pg-->
 Chư Tỷ-kheo, Ta phát tâm dõng mãnh, tinh tấn, không có tiêu cực, niệm không tán loạn được an trú,
 thân được khinh an, không có cuồng nhiệt, tâm được định tĩnh nhất tâm.
 
@@ -101,7 +104,6 @@ sanh làm những ác hạnh về thân, ác hạnh về lời nói, ác hạnh 
 tạo các nghiệp theo tà kiến. Những người này, sau khi thân hoại mạng chung, phải sanh vào cõi dữ, ác
 thú, đọa xứ, địa ngục. Còn những chúng sanh nào thành tựu những thiện hạnh về thân, thành tựu những
 thiện hạnh về lời nói, thành tựu những thiện hạnh về ý, không phỉ báng các bậc Thánh, theo chánh kiến,
-
 tạo các nghiệp theo chánh kiến, những người này, sau khi thân hoại mạng chung, được sanh lên các
 thiện thú, cõi Trời, trên đời này. Như vậy với thiên nhãn thuần tịnh siêu nhân, Ta thấy sự sống chết của
 chúng sanh. Ta tuệ tri rằng, chúng sanh, người hạ liệt, kẻ cao sang, người đẹp đẽ, kẻ thô xấu, người may
@@ -124,6 +126,7 @@ minh lậu. Ðối với tự thân đã giải thoát như vậy, khởi lên t
 Chư Tỷ-kheo, trong đêm canh ba, Ta chứng được minh thứ ba, vô minh diệt, minh sanh; bóng tối diệt,
 ánh sáng sanh, trong khi Ta sống không phóng dật nhiệt tâm tinh cần.
 
+<!--pg-->
 Chư Tỷ-kheo, giống như trong khu rừng rậm rạp có một hồ nước lớn thâm sâu, và một đoàn nai lớn
 sống gần một bên. Có một người đến, không muốn chúng được lợi ích, không muốn chúng được hạnh
 phúc, không muốn chúng được an ổn khỏi các ách nạn. Nếu có con đường nào được yên ổn, được an

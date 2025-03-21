@@ -5,6 +5,7 @@
 
 2\. "Bhikkhus, dwell possessed of virtue, possessed of the Pātimokkha, restrained with the restraint of the Pātimokkha, perfect in conduct and resort, and seeing fear in the slightest fault, train by undertaking the training precepts. [^76]
 
+<!--pg-->
 3\. "If a bhikkhu should wish: 'May I be dear and agreeable to my companions in the holy life, respected and esteemed by them,' let him fulfil the precepts, be devoted to internal serenity of mind, not neglect meditation, be possessed of insight, and dwell in empty huts. [^77]
 
 4\. "If a bhikkhu should wish: 'May I be one to obtain robes, almsfood, resting place, and medicinal requisites,' let him fulfil the precepts...
@@ -18,6 +19,7 @@
 8\. "If a bhikkhu should wish: 'May I become a conqueror of fear and dread, and may fear and dread not conquer me; may I
 abide transcending fear and dread whenever they arise,' let him fulfil the precepts...
 
+<!--pg-->
 9\. "If a bhikkhu should wish: 'May I become one to obtain at will, without trouble or difficulty, the four jhānas that constitute the higher mind and provide a pleasant abiding here and now,' let him fulfil the precepts...
 
 10\. "If a bhikkhu should wish: 'May I contact with the body and abide in those liberations that are peaceful and immaterial, transcending forms,' let him fulfil the precepts...[34] [^79]
@@ -28,6 +30,7 @@ abide transcending fear and dread whenever they arise,' let him fulfil the prece
 
 13\. "If a bhikkhu should wish: 'May I, with the destruction of the five lower fetters, become due to reappear spontaneously [in the Pure Abodes] and there attain final Nibbāna, without ever returning from that world,' let him fulfil the precepts... [^81]
 
+<!--pg-->
 14\. "If a bhikkhu should wish: [^82] 'May I wield the various kinds of supernormal power: having been one, may I become many; having been many, may I become one; may I appear and vanish; may I go unhindered through a wall, through an enclosure, through a mountain as though through space; may I dive in and out of the earth as though it were water; may I walk on water without sinking as though it were earth; seated crosslegged, may I travel in space like a bird; with my hand may I touch and stroke the moon and sun so powerful and mighty; may I wield bodily mastery, even as far as the Brahma-world,' let him fulfil the precepts...
 
 15\. "If a bhikkhu should wish: 'May I, with the divine ear element, which is purified and surpasses the human, hear both kinds of sounds, the divine and the human, those that are far as well as near,' let him fulfil the precepts...

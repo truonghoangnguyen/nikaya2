@@ -79,7 +79,7 @@ mind, so that there is no part of his whole body unpervaded by the pure bright m
 
 24. "And how is a bhikkhu a brahmin? He has expelled evil unwholesome states that defile...and lead to future birth, ageing, and death. That is how a bhikkhu is a brahmin.
 
-25. "And how is a bhikkhu one who has been washed? ${ }^{420} \mathrm{He}$ has washed off evil unwholesome states that defile...and lead to
+25. "And how is a bhikkhu one who has been washed? [^420] He has washed off evil unwholesome states that defile...and lead to
 future birth, ageing, and death. That is how a bhikkhu is one who has been washed.
 
 26. "And how is a bhikkhu one who has attained to knowledge? He has known evil unwholesome states that defile...and lead to future birth, ageing, and death. That is how a bhikkhu is one who has attained to knowledge.

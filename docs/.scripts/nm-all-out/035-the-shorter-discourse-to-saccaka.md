@@ -44,7 +44,7 @@ Gotama, a person has material form as self, and based upon material form he prod
 
 11. "Aggivessana, are you not asserting thus: 'Material form is my self, feeling is my self, perception is my self, formations are my self, consciousness is my self?"
 
-"I assert thus, Master Gotama: 'Material form is my self, feeling is my self, perception is my self, formations are my self, consciousness is my self.' And so does this great multitude." ${ }^{\prime 373}$
+"I assert thus, Master Gotama: 'Material form is my self, feeling is my self, perception is my self, formations are my self, consciousness is my self.' And so does this great multitude." [^373]
 
 "What has this great multitude to do with you, Aggivessana? Please confine yourself to your own assertion alone."
 
@@ -55,7 +55,7 @@ Gotama, a person has material form as self, and based upon material form he prod
 "Master Gotama, a head-anointed noble king - for example, King Pasenadi of Kosala or King Ajātasattu Vedehiputta of Magadha - would exercise the power in his own realm to execute those who should be executed, to fine those who should be fined, and to banish those who should be banished. For even these [oligarchic] communities and societies such as the Vajjians and the Mallians exercise the power in their own realm to execute those who should be executed, to fine those who should be fined, and to banish those who should be banished; so all the more so should a head-anointed noble king such as King Pasenadi of Kosala or King Ajātasattu Vedehiputta of Magadha. He would exercise it, Master Gotama, and he would be worthy to exercise it."
 
 13. "What do you think, Aggivessana? When you say thus: 'Material form is my self,' do you exercise any such power over
-that material form as to say: 'Let my form be thus; let my form not be thus'?" ${ }^{\prime 274}$ When this was said, Saccaka the Nigartha's son was silent.
+that material form as to say: 'Let my form be thus; let my form not be thus'?" [^274] When this was said, Saccaka the Nigartha's son was silent.
 
 A second time the Blessed One asked the same question, and a second time Saccaka the Nigartha's son was silent. Then the Blessed One said to him: "Aggivessana, answer now. Now is not the time to be silent. If anyone, when asked a reasonable question up to the third time by the Tathagata, still does not answer, his head splits into seven pieces there and then."
 
@@ -135,7 +135,7 @@ the discussion below he is referred to by his clan name, Aggivessana.
 
 [^376]: The text between the asterisks is absent from the PTS ed. but is supplied from the BBS and SBJ eds. The five aggregates are here called suffering because they are impermanent and not susceptible to the exercise of mastery.
 
-[^377]: These are the characteristics of a sekha. The arahant, in contrast, not only possesses the right view of non-self, but has used it to eradicate all clinging, as the Buddha will explain in $ 25.
+[^377]: These are the characteristics of a sekha. The arahant, in contrast, not only possesses the right view of non-self, but has used it to eradicate all clinging, as the Buddha will explain in §25.
 
 [^378]: MA gives several alternative explanations of these three terms. They are mundane and supramundane wisdom, practice, and deliverance. Or they are entirely supramundane: the first is the right view of the path of arahantship, the second the remaining seven path factors, the third the supreme fruit (of arahantship). Or the first is the vision of
 

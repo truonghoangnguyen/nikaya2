@@ -162,7 +162,7 @@ teacher's fee for their teachers; why shouldn't I make an offering to the venera
 
 2. Now on that occasion a new assembly hall had recently been built for the Sakyans of Kapilavatthu and it had not yet been inhabited by any recluse or brahmin or human being at all. Then the Sakyans of Kapilavatthu went to the Blessed One. After paying homage to him, they sat down at one side and said to him:
 
-"Venerable sir, a new assembly hall has recently been built here for the Sakyans of Kapilavatthu and it has not yet been inhabited by any recluse or brahmin or human being at all. Venerable sir, let the Blessed One be the first to use it. When the Blessed One has used it first, then the Sakyans of Kapilavatthu will use it afterwards. That will lead to their welfare and happiness for a long time." ${ }^{\prime 557}$ [354]
+"Venerable sir, a new assembly hall has recently been built here for the Sakyans of Kapilavatthu and it has not yet been inhabited by any recluse or brahmin or human being at all. Venerable sir, let the Blessed One be the first to use it. When the Blessed One has used it first, then the Sakyans of Kapilavatthu will use it afterwards. That will lead to their welfare and happiness for a long time." [^557] [354]
 
 3. The Blessed One consented in silence. Then, when they saw that he had consented, they got up from their seats, and after paying homage to him, keeping him on their right, they went to the assembly hall. They covered it completely with coverings and prepared seats, and they put out a large water jug and hung up an oil-lamp. Then they went to the Blessed One, and after paying homage to him, they stood at one side and said:
 
@@ -173,7 +173,7 @@ down by the western wall facing the east, with the Blessed One before them. And 
 
 5. Then, when the Blessed One had instructed, urged, roused, and encouraged the Sakyans of Kapilavatthu with talk on the Dhamma for much of the night, he said to the venerable Ānanda:
 
-"Ānanda, speak to the Sakyans of Kapilavatthu about the disciple in higher training who has entered upon the way. ${ }^{558} \mathrm{My}$ back is uncomfortable. I will rest it."
+"Ānanda, speak to the Sakyans of Kapilavatthu about the disciple in higher training who has entered upon the way. [^558] My back is uncomfortable. I will rest it."
 
 "Yes, venerable sir," the venerable Ānanda replied.
 
@@ -399,7 +399,7 @@ for his own affliction, or for another's affliction, or for the affliction of bo
 
 "Then, Tapassi, how many kinds of rod does the Niganṭha Nātaputta describe for the performance of evil action, for the perpetration of evil action?"
 
-"Friend Gotama, the Niganṭha Nātaputta describes three kinds of rod for the performance of evil action, for the perpetration of evil action; that is, the bodily rod, the verbal rod, and the mental rod. ${ }^{\prime 580}$
+"Friend Gotama, the Niganṭha Nātaputta describes three kinds of rod for the performance of evil action, for the perpetration of evil action; that is, the bodily rod, the verbal rod, and the mental rod. [^580]
 
 "How then, Tapassi, is the bodily rod one, the verbal rod another, and the mental rod still another?"
 
@@ -553,7 +553,7 @@ evil action, for the perpetration of evil action, and not so much the verbal rod
 
 Only what is given to my disciples is very fruitful, not what is given to others' disciples.' But, on the contrary, the Blessed One encourages me to give gifts to the Niganthas. Anyway we shall know the time for that, venerable sir. So for the third time, venerable sir, I go to the Blessed One for refuge and to the Dhamma and to the Sangha of bhikkhus. Let the Blessed One remember me as a lay follower who has gone to him for refuge for life."
 
-18. Then the Blessed One gave the householder Upāli progressive instruction, that is, talk on giving, talk on virtue, talk on the heavens; he explained the danger, degradation, and defilement in sensual pleasures and the blessing of renunciation. When he knew that the householder Upāli's mind [380] was ready, receptive, free from hindrances, elated, and confident, he expounded to him the teaching special to the Buddhas: suffering, its origin, its cessation, and the path. Just as a clean cloth with all marks removed would take dye evenly, so too, while the householder Upāli sat there, the spotless immaculate vision of the Dhamma arose in him: "All that is subject to arising is subject to cessation. ${ }^{\prime 588}$ Then the householder Upāli saw the Dhamma, attained the Dhamma, understood the Dhamma, fathomed the Dhamma; he crossed beyond doubt, did away with perplexity, gained intrepidity, and became independent of others in the Teacher's Dispensation. [^589] Then he said to the Blessed One: "Now, venerable sir, we must go. We are busy and have much to do."
+18. Then the Blessed One gave the householder Upāli progressive instruction, that is, talk on giving, talk on virtue, talk on the heavens; he explained the danger, degradation, and defilement in sensual pleasures and the blessing of renunciation. When he knew that the householder Upāli's mind [380] was ready, receptive, free from hindrances, elated, and confident, he expounded to him the teaching special to the Buddhas: suffering, its origin, its cessation, and the path. Just as a clean cloth with all marks removed would take dye evenly, so too, while the householder Upāli sat there, the spotless immaculate vision of the Dhamma arose in him: "All that is subject to arising is subject to cessation. [^588] Then the householder Upāli saw the Dhamma, attained the Dhamma, understood the Dhamma, fathomed the Dhamma; he crossed beyond doubt, did away with perplexity, gained intrepidity, and became independent of others in the Teacher's Dispensation. [^589] Then he said to the Blessed One: "Now, venerable sir, we must go. We are busy and have much to do."
 
 "Now is the time, householder, to do as you think fit."
 
@@ -1005,7 +1005,7 @@ such an action by speech.
 
 14. "Also, Rāhula, after you have done an action by speech... (complete as in §11, substituting "speech" for "body")...you can abide happy and glad, training day and night in wholesome states.
 
-15. "Rāhula, when you wish to do an action by mind...(complete as in $ 9, substituting "mind" for "body") [419]...you may do such an action by mind.
+15. "Rāhula, when you wish to do an action by mind...(complete as in §9, substituting "mind" for "body") [419]...you may do such an action by mind.
 
 16. "Also, Rāhula, while you are doing an action by mind... (complete as in §10, substituting "mind" for "body")...you may continue in such a mental action.
 
@@ -1084,7 +1084,7 @@ you develop meditation on compassion, any cruelty will be abandoned.
 
 29. "He trains thus: 'I shall breathe in contemplating impermanence'; he trains thus: 'I shall breathe out contemplating impermanence.' He trains thus: 'I shall breathe in contemplating fading away'; he trains thus: 'I shall breathe out contemplating fading away.' He trains thus: 'I shall breathe in contemplating cessation'; he trains thus: 'I shall breathe out contemplating cessation.' He trains thus: 'I shall breathe in contemplating relinquishment'; he trains thus: 'I shall breathe out contemplating relinquishment.'
 
-30. "Rāhula, that is how mindfulness of breathing is developed and cultivated, so that it is of great fruit and great benefit. When mindfulness of breathing is developed and cultivated in this way, [426] even the final in-breaths and out-breaths are known as they cease, not unknown." ${ }^{\prime 647}$
+30. "Rāhula, that is how mindfulness of breathing is developed and cultivated, so that it is of great fruit and great benefit. When mindfulness of breathing is developed and cultivated in this way, [426] even the final in-breaths and out-breaths are known as they cease, not unknown." [^647]
 
 That is what the Blessed One said. The venerable Rāhula was satisfied and delighted in the Blessed One's words.
 
@@ -1153,7 +1153,7 @@ The Blessed One said this:
 
 5. "Here, Ānanda, an untaught ordinary person who has no regard for noble ones and is unskilled and undisciplined in their Dhamma, who has no regard for true men and is unskilled and undisciplined in their Dhamma, abides with a mind obsessed and enslaved by personality view, and he does not understand as it actually is the escape from the arisen personality view; and when that personality view has become habitual and is uneradicated in him, it is a lower fetter. He abides with a mind obsessed and enslaved by doubt...by adherence to rules and observances ...by sensual lust [434]...by ill will, and he does not understand as it actually is the escape from arisen ill will; and when that ill will has become habitual and is uneradicated in him, it is a lower fetter.
 
-6. "A well-taught noble disciple who has regard for noble ones and is skilled and disciplined in their Dhamma, who has regard for true men and is skilled and disciplined in their Dhamma, does not abide with a mind obsessed and enslaved by personality view; he understands as it actually is the escape from the arisen personality view, and personality view together with the underlying tendency to it is abandoned in him. ${ }^{653} \mathrm{He}$ does not abide with a mind obsessed and enslaved by doubt...by adherence to rules and observances...by sensual lust...by ill will; he understands as it actually is the escape from the arisen ill will,
+6. "A well-taught noble disciple who has regard for noble ones and is skilled and disciplined in their Dhamma, who has regard for true men and is skilled and disciplined in their Dhamma, does not abide with a mind obsessed and enslaved by personality view; he understands as it actually is the escape from the arisen personality view, and personality view together with the underlying tendency to it is abandoned in him. [^653] He does not abide with a mind obsessed and enslaved by doubt...by adherence to rules and observances...by sensual lust...by ill will; he understands as it actually is the escape from the arisen ill will,
 and ill will together with the underlying tendency to it is abandoned in him.
 
 7. "There is a path, Ānanda, a way to the abandoning of the five lower fetters; that anyone, without coming to that path, to that way, shall know or see or abandon the five lower fetters this is not possible. Just as when there is a great tree standing possessed of heartwood, it is not possible that anyone shall cut out its heartwood without cutting through its bark and sapwood, so too, there is a path...this is not possible.
@@ -1198,7 +1198,7 @@ That is what the Blessed One said. The venerable Ānanda was satisfied and delig
 
 2. "Bhikkhus, I eat at a single session. By so doing, I am free from illness and affliction, and I enjoy health, strength, and a comfortable abiding. [^660] Come, bhikkhus, eat at a single session. By so doing, you too will be free from illness and affliction, and you will enjoy health, strength, and a comfortable abiding."
 
-3. When this was said, the venerable Bhaddāli told the Blessed One: "Venerable sir, I am not willing to eat at a single session; for if I were to do so, I might have worry and anxiety about it." ${ }^{\prime 661}$
+3. When this was said, the venerable Bhaddāli told the Blessed One: "Venerable sir, I am not willing to eat at a single session; for if I were to do so, I might have worry and anxiety about it." [^661]
 
 "Then, Bhaddāli, eat one part there where you are invited and bring away one part to eat. By eating in that way, [438] you will maintain yourself."
 
@@ -1273,9 +1273,9 @@ is how it is with one who fulfils the training in the Teacher's Dispensation."
 
 24. "But here some bhikkhu is a constant offender with many offences. When he is corrected by the bhikkhus, he does not prevaricate, lead the talk aside, or show disturbance, hate, and bitterness; he proceeds rightly, he complies, he clears himself, he says: 'Let me so act that the Sangha will be satisfied.' Bhikkhus, taking account of this matter, think: 'It would be good if the venerable ones examine this bhikkhu in such a way that this litigation against him is settled quickly.' And the bhikkhus examine that bhikkhu in such a way that the litigation against him is settled quickly.
 
-25. "Here some bhikkhu is a chance offender without many offences. When he is corrected by the bhikkhus, he prevaricates...(repeat rest of $ 23 )...And the bhikkhus examine that bhikkhu in such a way that [444] the litigation against him is not settled too quickly.
+25. "Here some bhikkhu is a chance offender without many offences. When he is corrected by the bhikkhus, he prevaricates...(repeat rest of §23 )...And the bhikkhus examine that bhikkhu in such a way that [444] the litigation against him is not settled too quickly.
 
-26. "But here some bhikkhu is a chance offender without many offences. When he is corrected by the bhikkhus, he does not prevaricate...(repeat rest of $ 24 )...And the bhikkhus examine that bhikkhu in such a way that the litigation against him is settled quickly.
+26. "But here some bhikkhu is a chance offender without many offences. When he is corrected by the bhikkhus, he does not prevaricate...(repeat rest of §24 )...And the bhikkhus examine that bhikkhu in such a way that the litigation against him is settled quickly.
 
 27. "Here some bhikkhu progresses by a measure of faith and love. [^666] In this case bhikkhus consider thus: 'Friends, this
 bhikkhu progresses by a measure of faith and love. Let him not lose that measure of faith and love, as he may if we take action against him by repeatedly admonishing him.' Suppose a man had only one eye; then his friends and companions, his kinsmen and relatives, would guard his eye, thinking: 'Let him not lose his one eye.' So too, some bhikkhu progresses by a measure of faith and love...'Let him not lose that measure of faith and love, as he may if we take action against him by repeatedly admonishing him.'
@@ -1422,7 +1422,7 @@ That is what the Blessed One said. The venerable Udāyin was satisfied and delig
 
 2. Now on that occasion five hundred bhikkhus headed by the venerable Sāriputta and the venerable Mahā Moggallāna had come to Cātumā to see the Blessed One. While the visiting bhikkhus were exchanging greetings with the resident bhikkhus, and were preparing resting places and putting away their bowls and outer robes, they were very loud and noisy.
 
-3. Then the Blessed One addressed the venerable Ānanda thus: "Ānanda, who are these loud noisy people? One would think they were fishermen hawking fish." ${ }^{\prime 682}$
+3. Then the Blessed One addressed the venerable Ānanda thus: "Ānanda, who are these loud noisy people? One would think they were fishermen hawking fish." [^682]
 
 "Venerable sir, they are five hundred bhikkhus headed by Sāriputta and Moggallāna who have come to Cātumā to see the Blessed One. And while the visiting bhikkhus were exchanging greetings with the resident bhikkhus, and were preparing resting places and putting away their bowls and outer robes, they have been very loud and noisy."
 
@@ -1464,7 +1464,7 @@ towards the Sangha of bhikkhus now as he used to show compassion towards it in t
 
 "Venerable sir, I thought thus: 'The Sangha of bhikkhus has been dismissed by the Blessed One. The Blessed One will now abide inactive, devoted to pleasant abiding here and now; and we too shall now abide inactive, devoted to pleasant abiding here and now."
 
-"Stop, Sāriputta, stop! Such a thought should not be entertained by you again." ${ }^{\prime 684}$
+"Stop, Sāriputta, stop! Such a thought should not be entertained by you again." [^684]
 
 13. Then the Blessed One addressed the venerable Mahā Moggallāna: "What did you think, Moggallāna, when the Sangha of bhikkhus was dismissed by me?"
 
@@ -1531,7 +1531,7 @@ death. That is why the Tathāgata uses one thing after reflecting, endures anoth
 
 9. "Anuruddha, it is not for the purpose of scheming to deceive people or for the purpose of flattering people or for the purpose of gain, honour, or renown, or with the thought, 'Let people know me to be thus,' that when a disciple has died, the Tathāgata declares his reappearance thus: 'So-and-so has reappeared in such-and-such a place; so-and-so has reappeared in such-and-such a place.' Rather, it is because there are faithful clansmen inspired and gladdened by what is lofty, who when they hear that, direct their minds to such a state, and that leads to their welfare and happiness for a long time.
 
-10. "Here a bhikkhu hears thus: 'The bhikkhu named so-andso has died; the Blessed One has declared of him: "He was established in final knowledge." ${ }^{\prime 691}$ And he has either seen that venerable one for himself or heard it said of him: 'That venerable one's virtue was thus, his state [of concentration] was thus, his wisdom was thus, his abiding [in attainments] was thus, his deliverance was thus.' Recollecting his faith, virtue, learning, generosity, and wisdom, he directs his mind to such a state. In this way a bhikkhu has a comfortable abiding.
+10. "Here a bhikkhu hears thus: 'The bhikkhu named so-andso has died; the Blessed One has declared of him: "He was established in final knowledge." [^691] And he has either seen that venerable one for himself or heard it said of him: 'That venerable one's virtue was thus, his state [of concentration] was thus, his wisdom was thus, his abiding [in attainments] was thus, his deliverance was thus.' Recollecting his faith, virtue, learning, generosity, and wisdom, he directs his mind to such a state. In this way a bhikkhu has a comfortable abiding.
 
 11. "Here a bhikkhu hears thus: 'The bhikkhu named so-andso has died; the Blessed One has declared of him: "With the destruction of the five lower fetters he has reappeared spontaneously [in the Pure Abodes] and there will attain final Nibbāna without ever returning from that world." And he has either seen that venerable one for himself...he directs his mind to such a state. In this way too a bhikkhu has a comfortable abiding.
 
@@ -2128,7 +2128,7 @@ The venerable Ananda sat down on the seat made ready, and the wanderer Sandaka t
 
 "Yes, sir," he replied. The venerable Ananda said this:
 
-6. "Sandaka, these four ways that negate the living of the holy life have been declared by the Blessed One who knows and sees, accomplished and fully enlightened, and also these four kinds of holy life without consolation have been declared, wherein a wise man certainly would not live the holy life, or if he should live it, would not attain the true way, the Dhamma that is wholesome." ${ }^{\prime 749}$
+6. "Sandaka, these four ways that negate the living of the holy life have been declared by the Blessed One who knows and sees, accomplished and fully enlightened, and also these four kinds of holy life without consolation have been declared, wherein a wise man certainly would not live the holy life, or if he should live it, would not attain the true way, the Dhamma that is wholesome." [^749]
 
 "But, Master Ananda, what are those four ways that negate the living of the holy life that have been declared by the Blessed One who knows and sees, accomplished and fully enlightened, wherein [515] a wise man certainly would not live the holy life, or if he should live it, would not attain the true way, the Dhamma that is wholesome?"
 
@@ -2165,7 +2165,7 @@ running and wandering through the round of rebirths, fools and the wise both wil
 20. "It is wonderful, Master Ānanda, it is marvellous, how the four ways that negate the living of the holy life have been declared by the Blessed One who knows and sees, accomplished and fully enlightened...But, Master Ānanda, what are those four kinds of holy life without consolation that have been declared by the Blessed One who knows and sees, accomplished and fully enlightened, wherein a wise man certainly would not live the holy life, or if he should live it, would not attain the true way, the Dhamma that is wholesome?"
 
 21. "Here, Sandaka, some teacher claims to be omniscient and all-seeing, to have complete knowledge and vision thus:
-'Whether I am walking or standing or sleeping or awake, knowledge and vision are continuously and uninterruptedly present to me. ${ }^{754} \mathrm{He}$ enters an empty house, he gets no almsfood, a dog bites him, he meets with a wild elephant, a wild horse, a wild bull, he asks the name and clan of a woman or a man, he asks the name of a village or a town, and the way to go there. When he is questioned: 'How is this?' he replies: 'I had to enter an empty house, that is why I entered it. I had to get no almsfood, that is why I did not get any. I had to be bitten by a dog, that is why I was bitten. I had to meet with a wild elephant, a wild horse, a wild bull, that is why I met with them. I had to ask the name and clan of a woman or a man, that is why I asked. I had to ask the name of a village or a town and the way to go there, that is why I asked.'
+'Whether I am walking or standing or sleeping or awake, knowledge and vision are continuously and uninterruptedly present to me. [^754] He enters an empty house, he gets no almsfood, a dog bites him, he meets with a wild elephant, a wild horse, a wild bull, he asks the name and clan of a woman or a man, he asks the name of a village or a town, and the way to go there. When he is questioned: 'How is this?' he replies: 'I had to enter an empty house, that is why I entered it. I had to get no almsfood, that is why I did not get any. I had to be bitten by a dog, that is why I was bitten. I had to meet with a wild elephant, a wild horse, a wild bull, that is why I met with them. I had to ask the name and clan of a woman or a man, that is why I asked. I had to ask the name of a village or a town and the way to go there, that is why I asked.'
 
 22. "About this a wise man considers thus: 'This good teacher claims to be omniscient and all-seeing, to have complete knowledge and vision...When he is questioned: "How is this?" he replies: "I had to...that is why I asked."' So when he finds that this holy life is without consolation, he turns away from it and leaves it.
 
@@ -2212,7 +2212,7 @@ taint of ignorance. When it is liberated there comes the knowledge: 'It is liber
 
 51. "But, Master Ānanda, when a bhikkhu is an arahant with taints destroyed, one who has lived the holy life, done what had to be done, laid down the burden, reached the true goal, destroyed the fetters of being, and is completely liberated through final knowledge, [523] could he enjoy sensual pleasures?"
 
-"Sandaka, when a bhikkhu is an arahant with taints destroyed ...and is completely liberated through final knowledge, he is incapable of transgression in five cases. A bhikkhu whose taints are destroyed is incapable of deliberately depriving a living being of life; he is incapable of taking what is not given, that is, of stealing; he is incapable of indulging in sexual intercourse; he is incapable of knowingly speaking falsehood; he is incapable of enjoying sensual pleasures by storing them up as he did formerly in lay life. [^756] When a bhikkhu is an arahant with taints destroyed...he is incapable of transgression in these five cases." ${ }^{\prime 757}$
+"Sandaka, when a bhikkhu is an arahant with taints destroyed ...and is completely liberated through final knowledge, he is incapable of transgression in five cases. A bhikkhu whose taints are destroyed is incapable of deliberately depriving a living being of life; he is incapable of taking what is not given, that is, of stealing; he is incapable of indulging in sexual intercourse; he is incapable of knowingly speaking falsehood; he is incapable of enjoying sensual pleasures by storing them up as he did formerly in lay life. [^756] When a bhikkhu is an arahant with taints destroyed...he is incapable of transgression in these five cases." [^757]
 
 52. "But, Master Ānanda, when a bhikkhu is an arahant with taints destroyed...is his knowledge and vision that his taints are destroyed continuously and uninterruptedly present to him whether he is walking or standing or sleeping or awake?"
 
@@ -2295,50 +2295,50 @@ honoured me...with the thought: 'The recluse Gotama is content with any kind of 
 
 ## (V. THE WAY TO DEVELOP WHOLESOME STATES)
 
-### (1. The Four Foundations of Mindfulness)
+#### (1. The Four Foundations of Mindfulness)
 
 15. "Again, Udāyin, I have proclaimed to my disciples the way to develop the four foundations of mindfulness. [^762] Here a bhikkhu abides contemplating the body as a body, ardent, fully aware, and mindful, having put away covetousness and grief for the world. He abides contemplating feelings as feelings...He abides contemplating mind as mind...He abides contemplating mind-objects as mind-objects, ardent, fully aware, and mindful, having put away covetousness and grief for the world. And thereby many disciples of mine abide having reached the consummation and perfection of direct knowledge. [^763]
 
-### (2. The Four Right Kinds of Striving)
+#### (2. The Four Right Kinds of Striving)
 
 16. "Again, Udāyin, I have proclaimed to my disciples the way to develop the four right kinds of striving. Here a bhikkhu awakens zeal for the non-arising of unarisen evil unwholesome states, and he makes effort, arouses energy, exerts his mind, and strives. He awakens zeal for the abandoning of arisen evil unwholesome states...He awakens zeal for the arising of unarisen wholesome states...He awakens zeal for the continuance, non-disappearance, strengthening, increase, and fulfilment by development of arisen wholesome states, and he makes
 effort, arouses energy, exerts his mind, and strives. And thereby many disciples of mine abide having reached the consummation and perfection of direct knowledge.
 
-### (3. The Four Bases for Spiritual Power)
+#### (3. The Four Bases for Spiritual Power)
 
 17. "Again, Udāyin, I have proclaimed to my disciples the way to develop the four bases for spiritual power. Here a bhikkhu develops the basis for spiritual power consisting in concentration due to zeal and determined striving. He develops the basis for spiritual power consisting in concentration due to energy and determined striving. He develops the basis for spiritual power consisting in concentration due to [purity of] mind and determined striving. He develops the basis for spiritual power consisting in concentration due to investigation and determined striving. And thereby many disciples of mine abide having reached the consummation and perfection of direct knowledge.
 
-### (4. The Five Faculties)
+#### (4. The Five Faculties)
 
 18. "Again, Udāyin, I have proclaimed to my disciples the way to develop the five spiritual faculties. Here [12] a bhikkhu develops the faculty of faith, which leads to peace, leads to enlightenment. He develops the faculty of energy...the faculty of mindfulness... the faculty of concentration...the faculty of wisdom, which leads to peace, leads to enlightenment. And thereby many disciples of mine abide having reached the consummation and perfection of direct knowledge.
 
-### (5. The Five Powers)
+#### (5. The Five Powers)
 
 19. "Again, Udāyin, I have proclaimed to my disciples the way to develop the five powers. Here a bhikkhu develops the power of faith, which leads to peace, leads to enlightenment. He develops the power of energy...the power of mindfulness...the power of concentration...the power of wisdom, which leads to peace, leads to enlightenment. And thereby many disciples of mine abide having reached the consummation and perfection of direct knowledge.
 
-### (6. The Seven Enlightenment Factors)
+#### (6. The Seven Enlightenment Factors)
 
 20. "Again, Udāyin, I have proclaimed to my disciples the way to develop the seven enlightenment factors. Here a bhikkhu develops the mindfulness enlightenment factor, which is supported by seclusion, dispassion, and cessation, and results in relinquishment. He develops the investigation-of-states enlightenment factor...the energy enlightenment factor...the rapture enlightenment factor...the tranquillity enlightenment factor... the concentration enlightenment factor...the equanimity enlightenment factor, which is supported by seclusion, dispassion, and cessation, and results in relinquishment. And thereby many disciples of mine abide having reached the consummation and perfection of direct knowledge.
 
-### (7. The Noble Eightfold Path)
+#### (7. The Noble Eightfold Path)
 
 21. "Again, Udāyin, I have proclaimed to my disciples the way to develop the Noble Eightfold Path. Here a bhikkhu develops right view, right intention, right speech, right action, right livelihood, right effort, right mindfulness, and right concentration. And thereby many disciples of mine abide having reached the consummation and perfection of direct knowledge.
 
-### (8. The Eight Liberations)
+#### (8. The Eight Liberations)
 
 22. "Again, Udāyin, I have proclaimed to my disciples the way to develop the eight liberations. [^764] Possessed of material form, one sees forms: this is the first liberation. Not perceiving form internally, one sees forms externally: this is the second liberation. One is resolved only upon the beautiful: this is the third liberation. [13] With the complete surmounting of perceptions of form, with the disappearance of perceptions of sensory impact, with non-attention to perceptions of diversity, aware that 'space is infinite,' one enters upon and abides in the base of infinite space: this is the fourth liberation. By completely surmounting the base of infinite space, aware that 'consciousness is infinite,' one enters upon and abides in the base of infinite consciousness: this is the fifth liberation. By completely surmounting the base of infinite consciousness, aware that 'there is nothing,' one enters
 upon and abides in the base of nothingness: this is the sixth liberation. By completely surmounting the base of nothingness, one enters upon and abides in the base of neither-perception-nor-non-perception: this is the seventh liberation. By completely surmounting the base of neither-perception-nor-non-perception, one enters upon and abides in the cessation of perception and feeling: this is the eighth liberation. And thereby many disciples of mine abide having reached the consummation and perfection of direct knowledge.
 
-### (9. The Eight Bases for Transcendence)
+#### (9. The Eight Bases for Transcendence)
 
 23. "Again, Udāyin, I have proclaimed to my disciples the way to develop the eight bases for transcendence. [^765] Perceiving form internally, one sees forms externally, limited, fair and ugly; by transcending them, one perceives thus: 'I know, I see.' This is the first base for transcendence. [^766] Perceiving form internally, one sees forms externally, immeasurable, fair and ugly; by transcending them, one perceives thus: 'I know, I see.' This is the second base for transcendence. Not perceiving form internally, one sees forms externally, limited, fair and ugly; by transcending them, one perceives thus: 'I know, I see.' This is the third base for transcendence. [^767] Not perceiving form internally, one sees forms externally, immeasurable, fair and ugly; by transcending them, one perceives thus: 'I know, I see.' This is the fourth base for transcendence. Not perceiving form internally, one sees forms externally, blue, of blue colour, blue in appearance, with blue luminosity. Just like a flax flower, which is blue, of blue colour, blue in appearance, with blue luminosity, or just like Benares cloth smoothened on both sides, which is blue, of blue colour, blue in appearance, with blue luminosity; so too, not perceiving form internally, one sees forms externally...with blue luminosity; by transcending them, one perceives thus: 'I know, I see.' This is the fifth [14] base for transcendence. Not perceiving form internally, one sees forms externally, yellow, of yellow colour, yellow in appearance, with yellow luminosity. Just like a kaṇnikāra flower, which is yellow, of yellow colour, yellow in appearance, with yellow luminosity, or just like Benares cloth smoothened on both sides, which is yellow, of yellow colour, yellow in appearance, with yellow luminosity; so too,
 not perceiving form internally, one sees forms externally...with yellow luminosity; by transcending them, one perceives thus: 'I know, I see.' This is the sixth base for transcendence. Not perceiving form externally, one sees forms externally, red, of red colour, red in appearance, with red luminosity. Just like a hibiscus flower, which is red, of red colour, red in appearance, with red luminosity, or just like Benares cloth smoothened on both sides, which is red, of red colour, red in appearance, with red luminosity; so too, not perceiving form internally, one sees forms externally...with red luminosity; by transcending them, one perceives thus: 'I know, I see.' This is the seventh base for transcendence. Not perceiving form internally, one sees forms externally, white, of white colour, white in appearance, with white luminosity. Just like the morning star, which is white, of white colour, white in appearance, with white luminosity, or just like Benares cloth smoothened on both sides, which is white, of white colour, white in appearance, with white luminosity; so too, not perceiving form internally, one sees forms externally...with white luminosity; by transcending them, one perceives thus: 'I know, I see.' This is the eighth base for transcendence. And thereby many disciples of mine abide having reached the consummation and perfection of direct knowledge.
 
-### (10. The Ten Kasinas)
+#### (10. The Ten Kasinas)
 
 24. "Again, Udāyin, I have proclaimed to my disciples the way to develop the ten kasiṇa bases. [^768] One contemplates the earthkasiṇ above, below, and across, undivided and immeasurable. Another contemplates the water-kasiṇa...Another contemplates the fire-kasina...Another contemplates the air-kasina...Another contemplates the blue-kasina...Another contemplates the yellow-kasina...Another contemplates the red-kasina...Another contemplates the white-kasina...Another contemplates the space-kasina...Another contemplates the consciousness-kasina [15] above, below, and across, undivided and immeasurable. And thereby many disciples of mine abide having reached the perfection and consummation of direct knowledge.
 
-### (11. The Four Jhānas)
+#### (11. The Four Jhānas)
 
 25. "Again, Udāyin, I have proclaimed to my disciples the way to develop the four jhānas. Here, quite secluded from sensual pleasures, secluded from unwholesome states, a bhikkhu enters upon and abides in the first jhāna, which is accompanied by applied and sustained thought, with rapture and pleasure born of seclusion. He makes the rapture and pleasure born of seclusion drench, steep, fill, and pervade this body, so that there is no part of his whole body unpervaded by the rapture and pleasure born of seclusion. [^269] Just as a skilled bath man or a bath man's apprentice heaps bath powder in a metal basin and, sprinkling it gradually with water, kneads it till the moisture wets his ball of bath powder, soaks it and pervades it inside and out, yet the ball itself does not ooze; so too, a bhikkhu makes the rapture and pleasure born of seclusion drench, steep, fill, and pervade this body, so that there is no part of his whole body unpervaded by the rapture and pleasure born of seclusion.
 
@@ -2349,38 +2349,38 @@ the pleasure divested of rapture drench, steep, fill, and pervade this body, so 
 
 28. "Again, with the abandoning of pleasure and pain, and with the previous disappearance of joy and grief, a bhikkhu enters upon and abides in the fourth jhāna, which has neither-pain-nor-pleasure and purity of mindfulness due to equanimity. He sits pervading this body with a pure bright mind, so that there is no part of his whole body unpervaded by the pure bright mind. Just as though a man were sitting covered from the head down with a white cloth, so that there would be no part of his whole body not covered by the white cloth; so too, a bhikkhu sits pervading this body with a pure bright mind, so that there is no part of his whole body [17] unpervaded by the pure bright mind. And thereby many disciples of mine abide having reached the consummation and perfection of direct knowledge.
 
-### (12. Insight Knowledge)
+#### (12. Insight Knowledge)
 
 29. "Again, Udāyin, I have proclaimed to my disciples the way to understand thus: [^770] 'This body of mine, made of material form, consisting of the four great elements, procreated by a mother and father, and built up out of boiled rice and porridge, is subject to impermanence, to being worn and rubbed away, to dissolution and disintegration, and this consciousness of mine is supported by it and bound up with it.' Suppose there were a beautiful beryl gem of purest water, eight-faceted, well cut, clear and limpid, possessed of all good qualities, and through it a blue, yellow, red, white, or brown thread would be strung. Then a man with good sight, taking it in his hand, might review it thus: 'This is a beautiful beryl gem of purest water, eight-faceted, well cut, clear and limpid, possessed of all good qualities, and
 through it is strung a blue, yellow, red, white, or brown thread.' So too, I have proclaimed to my disciples the way to understand thus: 'This body of mine...is subject to impermanence, to being worn and rubbed away, to dissolution and disintegration, and this consciousness of mine is supported by it and bound up with it.' And thereby many disciples of mine abide having reached the consummation and perfection of direct knowledge.
 
-### (13. The Mind-made Body)
+#### (13. The Mind-made Body)
 
 30. "Again, Udāyin, I have proclaimed to my disciples the way to create from this body another body having form, mind-made, with all its limbs, lacking no faculty. Just as though a man were to pull out a reed from its sheath and think thus: 'This is the sheath, this is the reed; the sheath is one, the reed is another; it is from the sheath that the reed has been pulled out'; or just as though a man were to pull out a sword from its scabbard and think thus: 'This is the sword, this is the scabbard; the sword is one, the scabbard another; it is from the scabbard that the sword has been pulled out'; [18] or just as though a man were to pull a snake out of its slough and think thus: 'This is the snake, this is the slough; the snake is one, the slough another; it is from the slough that the snake has been pulled out.' So too, I have proclaimed to my disciples the way to create from this body another body having form, mind-made, with all its limbs, lacking no faculty. And thereby many disciples of mine abide having reached the consummation and perfection of direct knowledge.
 
-### (14. The Kinds of Supernormal Power)
+#### (14. The Kinds of Supernormal Power)
 
 31. "Again, Udāyin, I have proclaimed to my disciples the way to wield the various kinds of supernormal power: having been one, they become many; having been many, they become one; they appear and vanish; they go unhindered through walls, through enclosures, through mountains, as though through space; they dive in and out of the earth as though it were water; they walk on water without sinking as though it were earth; seated cross-legged, they travel in space like birds; with their hands they touch and stroke the moon and sun so powerful and mighty; they wield bodily mastery even as far as the Brahma-world. Just
 as a skilled potter or his apprentice might create and fashion out of well-prepared clay any shape of pot he wished; or just as a skilled ivory-worker or his apprentice might create and fashion out of well-prepared ivory any ivory work of art he wished; or just as a skilled goldsmith or his apprentice might create and fashion out of well-prepared gold any gold work of art he wished; so too, I have proclaimed to my disciples the way to wield the various kinds of supernormal power...[19]...they wield bodily mastery even as far as the Brahma-world. And thereby many disciples of mine abide having reached the consummation and perfection of direct knowledge.
 
-### (15. The Divine Ear Element)
+#### (15. The Divine Ear Element)
 
 32. "Again, Udāyin, I have proclaimed to my disciples the way whereby with the divine ear element, which is purified and surpasses the human, they hear both kinds of sounds, the divine and the human, those that are far as well as near. Just as a vigorous trumpeter might make himself heard without difficulty in the four quarters; so too, I have proclaimed to my disciples the way whereby with the divine ear element...far as well as near. And thereby many disciples of mine abide having reached the consummation and perfection of direct knowledge.
 
-### (16. Understanding the Minds of Others)
+#### (16. Understanding the Minds of Others)
 
 33. "Again, Udāyin, I have proclaimed to my disciples the way to understand the minds of other beings, of other persons, having encompassed them with their own minds. They understand a mind affected by lust as affected by lust and a mind unaffected by lust as unaffected by lust; they understand a mind affected by hate as affected by hate and a mind unaffected by hate as unaffected by hate; they understand a mind affected by delusion as affected by delusion and a mind unaffected by delusion as unaffected by delusion; they understand a contracted mind as contracted and a distracted mind as distracted; they understand an exalted mind as exalted and an unexalted mind as unexalted; they understand a surpassed mind as surpassed and an unsurpassed mind as unsurpassed; they understand a concentrated mind as concentrated and an unconcentrated mind as unconcentrated; they understand
 a liberated mind as liberated and an unliberated mind as unliberated. Just as a man or a woman - young, youthful, and fond of ornaments - on viewing the image of his or her own face in a clean bright mirror or in a bowl of clear water, would know if there were a spot thus: 'There is a spot,' [20] or would know if there were no spot thus: 'There is no spot'; so too, I have proclaimed to my disciples the way to understand...an unliberated mind as unliberated. And thereby many disciples of mine abide having reached the consummation and perfection of direct knowledge.
 
-### (17. The Recollection of Past Lives)
+#### (17. The Recollection of Past Lives)
 
 34. "Again, Udāyin, I have proclaimed to my disciples the way to recollect their manifold past lives, that is, one birth, two births, three births, four births, five births, ten births, twenty births, thirty births, forty births, fifty births, a hundred births, a thousand births, a hundred thousand births, many aeons of world-contraction, many aeons of world-expansion, many aeons of world-contraction and expansion: 'There I was so named, of such a clan, with such an appearance, such was my nutriment, such my experience of pleasure and pain, such my life-term; and passing away from there, I reappeared elsewhere; and there too I was so named...and passing away from there, I reappeared here.' Thus with their aspects and particulars they recollect their manifold past lives. Just as a man might go from his own village to another village and then back again to his own village. He might think: 'I went from my own village to that village, and there I stood in such a way, sat in such a way, spoke in such a way, kept silent in such a way; and from that village I went to that other village and there [21] I stood in such a way...kept silent in such a way; and from that village I came back again to my own village.' So too, I have proclaimed to my disciples the way to recollect their manifold lives...Thus with their aspects and particulars they recollect their manifold past lives. And thereby many disciples of mine abide having reached the consummation and perfection of direct knowledge.
 
-### (18. The Divine Eye)
+#### (18. The Divine Eye)
 
 35. "Again, Udāyin, I have proclaimed to my disciples the way whereby with the divine eye, which is purified and surpasses the human, they see beings passing away and reappearing, inferior and superior, fair and ugly, fortunate and unfortunate. They understand how beings pass on according to their actions thus: 'These worthy beings who were ill-conducted in body, speech, and mind, revilers of noble ones, wrong in their views, giving effect to wrong view in their actions, on the dissolution of the body, after death, have reappeared in a state of deprivation, in a bad destination, in perdition, even in hell; but these worthy beings who were well-conducted in body, speech, and mind, not revilers of noble ones, right in their views, giving effect to right view in their actions, on the dissolution of the body, after death, have reappeared in a good destination, even in the heavenly world.' Thus with the divine eye, which is purified and surpasses the human, they see beings passing away and reappearing, inferior and superior, fair and ugly, fortunate and unfortunate, and they understand how beings pass on according to their actions. Just as though there were two houses with doors and a man with good sight standing there between them saw people entering the houses and coming out and passing to and fro. So too, I have proclaimed to my disciples the way whereby with the divine eye...They understand how beings pass on according to their actions. And thereby many disciples of mine abide having reached the consummation and perfection of direct knowledge. [22]
 
-### (19. The Destruction of the Taints)
+#### (19. The Destruction of the Taints)
 
 36. "Again, Udāyin, I have proclaimed to my disciples the way whereby by realising for themselves with direct knowledge, they here and now enter upon and abide in the deliverance of mind and deliverance by wisdom that are taintless with the destruction of the taints. Just as if there were a lake in a mountain recess, clear, limpid, and undisturbed, so that a man with good sight standing on the bank could see shells, gravel, and pebbles, and also shoals of fish swimming about and resting. He might think: 'There is this lake, clear, limpid, and undisturbed, and there are
 these shells, gravel, and pebbles, and also these shoals of fish swimming about and resting.' So too, I have proclaimed to my disciples the way whereby by realising for themselves with direct knowledge, they here and now enter upon and abide in the deliverance of mind and deliverance by wisdom that are taintless with the destruction of the taints. And thereby many disciples of mine abide having reached the consummation and perfection of direct knowledge.
@@ -2691,7 +2691,7 @@ he rose from his seat and after paying homage to him, keeping him on his right, 
 "The king thought: 'The Blessed One Kassapa, [51] accomplished and fully enlightened, does not accept from me a residence for the Rains in Benares,' and he was very disappointed and sad.
 
 18. "Then he said: 'Venerable sir, have you a better supporter than I am?' - 'I have, great king. There is a market town called Vebhalinga where a potter named Ghaṭikāra lives. He is my supporter, my chief supporter. Now you, great king, thought: "The Blessed One Kassapa, accomplished and fully enlightened, does not accept from me a residence for the Rains in Benares," and you were very disappointed and sad; but the potter Ghaṭikāra is not and will not be so. The potter Ghaṭikāra has gone for refuge to the Buddha, the Dhamma, and the Sangha. He abstains from killing living beings, from taking what is not given, from misconduct in sensual pleasures, from false speech,
-and from wine, liquor, and intoxicants, which are the basis of negligence. He has perfect confidence in the Buddha, the Dhamma, and the Sangha, and he possesses the virtues loved by noble ones. He is free from doubt about suffering, about the origin of suffering, about the cessation of suffering, and about the way leading to the cessation of suffering. He eats only in one part of the day, he observes celibacy, he is virtuous, of good character. He has laid aside gems and gold, he has given up gold and silver. He does not dig the ground for clay using a pick with his own hand; what is left over from embankments or thrown up by rats, he brings home in a carrier; when he has made a pot he says: "Let anyone who likes set down some selected rice or selected beans or selected lentils, and let him take away whatever he likes." ${ }^{\prime 794} \mathrm{He}$ supports his blind and aged parents. [52] Having destroyed the five lower fetters, he is one who will reappear spontaneously [in the Pure Abodes] and there attain final Nibbāna without ever returning from that world.
+and from wine, liquor, and intoxicants, which are the basis of negligence. He has perfect confidence in the Buddha, the Dhamma, and the Sangha, and he possesses the virtues loved by noble ones. He is free from doubt about suffering, about the origin of suffering, about the cessation of suffering, and about the way leading to the cessation of suffering. He eats only in one part of the day, he observes celibacy, he is virtuous, of good character. He has laid aside gems and gold, he has given up gold and silver. He does not dig the ground for clay using a pick with his own hand; what is left over from embankments or thrown up by rats, he brings home in a carrier; when he has made a pot he says: "Let anyone who likes set down some selected rice or selected beans or selected lentils, and let him take away whatever he likes." ${ }^{\prime 794] He supports his blind and aged parents. [52] Having destroyed the five lower fetters, he is one who will reappear spontaneously [in the Pure Abodes] and there attain final Nibbāna without ever returning from that world.
 
 19. "'On one occasion when I was living at Vebhalinga, it being morning, I dressed, and taking my bowl and outer robe, I went to the potter Ghațikāra's parents and asked them: "Where has the potter gone, please?" - "Venerable sir, your supporter has gone out; but take rice from the cauldron and sauce from the saucepan and eat."
 
@@ -2777,7 +2777,7 @@ Then the clansman Raṭthapāla's friends went to him and told him: "Get up, fri
 13. Then not long after the venerable Raṭthapāla had received the full admission, a half-month after he had received the full
 admission, the Blessed One, having stayed at Thullakoṭthita as long as he chose, set out to wander towards Sāvatthī. Wandering by stages, he eventually arrived at Sāvatthī, and there [61] he lived at Sāvatthī in Jeta's Grove, Anāthapiṇ̣̣ika's Park.
 
-14. Before long, dwelling alone, withdrawn, diligent, ardent, and resolute, the venerable Ratṭhapāla, by realising for himself with direct knowledge, here and now entered upon and abided in that supreme goal of the holy life for the sake of which clansmen rightly go forth from the home life into homelessness. ${ }^{797} \mathrm{He}$ directly knew: "Birth is destroyed, the holy life has been lived, what had to be done has been done, there is no more coming to any state of being." And the venerable Ratṭhapāla became one of the arahants.
+14. Before long, dwelling alone, withdrawn, diligent, ardent, and resolute, the venerable Ratṭhapāla, by realising for himself with direct knowledge, here and now entered upon and abided in that supreme goal of the holy life for the sake of which clansmen rightly go forth from the home life into homelessness. [^797] He directly knew: "Birth is destroyed, the holy life has been lived, what had to be done has been done, there is no more coming to any state of being." And the venerable Ratṭhapāla became one of the arahants.
 
 15. Then the venerable Raṭthapāla went to the Blessed One, and after paying homage to him, he sat down at one side and told him: "Venerable sir, I wish to visit my parents, if I have the Blessed One's permission."
 
@@ -3059,7 +3059,7 @@ Dhamma among brahmins and householders, among towndwellers and countryfolk, and 
 18. "Now, Ānanda, it may be that you think thus: 'Certainly, someone else was King Makhādeva on that occasion.' But it should not be regarded thus. I was King Makhādeva on that occasion. I instituted that good practice and later generations continued that good practice instituted by me. But that kind of good practice does not lead to disenchantment, to dispassion, to cessation, to peace, to direct knowledge, to enlightenment, to Nibbāna, but only to reappearance in the Brahma-world. But there is this kind of good practice that has been instituted by me
 now, which leads to complete disenchantment, to dispassion, to cessation, to peace, to direct knowledge, to enlightenment, to Nibbāna. And what is that good practice? It is this Noble Eightfold Path; that is, right view, right intention, right speech, right action, right livelihood, [83] right effort, right mindfulness, and right concentration. This is the good practice instituted by me now, which leads to complete disenchantment, to dispassion, to cessation, to peace, to direct knowledge, to enlightenment, to Nibbāna.
 
-"Ānanda, I say to you: continue this good practice instituted by me and do not be the last man. Ānanda, when there are two men living, he under whom there occurs a breach of this good practice - he is the last man among them. Therefore, Ānanda, I say to you: continue this good practice instituted by me and do not be the last man." ${ }^{\prime 813}$
+"Ānanda, I say to you: continue this good practice instituted by me and do not be the last man. Ānanda, when there are two men living, he under whom there occurs a breach of this good practice - he is the last man among them. Therefore, Ānanda, I say to you: continue this good practice instituted by me and do not be the last man." [^813]
 
 That is what the Blessed One said. The venerable Ānanda was satisfied and delighted in the Blessed One's words.
 
@@ -3187,7 +3187,7 @@ The Blessed One looked at the venerable Ānanda. [93] The venerable Ānanda said
 
 8. So Prince Bodhi had the cloth removed, and he had seats prepared in the upper apartments of the Kokanada Palace. The Blessed One and the Sangha of bhikkhus ascended the Kokanadá Palace and sat down on the seats that had been prepared.
 
-9. Then, with his own hands, Prince Bodhi served and satisfied the Sangha of bhikkhus headed by the Buddha with the various kinds of good food. When the Blessed One had eaten and had withdrawn his hand from the bowl, Prince Bodhi took a low seat, sat down at one side, and said to the Blessed One: "Venerable sir, we have thought thus: 'Pleasure is not to be gained through pleasure; pleasure is to be gained through pain." ${ }^{\prime 819}$
+9. Then, with his own hands, Prince Bodhi served and satisfied the Sangha of bhikkhus headed by the Buddha with the various kinds of good food. When the Blessed One had eaten and had withdrawn his hand from the bowl, Prince Bodhi took a low seat, sat down at one side, and said to the Blessed One: "Venerable sir, we have thought thus: 'Pleasure is not to be gained through pleasure; pleasure is to be gained through pain." [^819]
 
 10. "Prince, before my enlightenment, while I was still only an unenlightened Bodhisatta, I too thought thus: 'Pleasure is not to be gained through pleasure; pleasure is to be gained through pain.'
 
@@ -3717,7 +3717,7 @@ is no recluse or brahmin [128] who knows all, who sees all, simultaneously; that
 
 "Venerable sir, I was asking whether those gods come back to this [human] state or whether they do not."
 
-"Great king, those gods who are still subject to affliction come back to this [human] state, those gods who are no longer subject to affliction do not come back to this [human] state." ${ }^{\prime 849}$
+"Great king, those gods who are still subject to affliction come back to this [human] state, those gods who are no longer subject to affliction do not come back to this [human] state." [^849]
 
 14. When this was said, General Viḍūḍabha asked the Blessed One: "Venerable sir, can those gods who are still subject to affliction and who come back to this [human] state topple or banish from that place those gods who are no longer subject to affliction and who do not come back to this [human] state?"
 
@@ -3894,7 +3894,7 @@ from their seats and depart looking only at him and concerned with nothing else.
 
 23. When this was said, the brahmin Brahmāyu rose from his seat, and after arranging his upper robe on one shoulder, he extended his hands in reverential salutation towards the Blessed One and uttered this exclamation three times: "Honour to the Blessed One, accomplished and fully enlightened! Honour to the Blessed One, accomplished and fully enlightened! Honour to the Blessed One, accomplished and fully enlightened! Perhaps sometime or other we might meet Master Gotama, perhaps we might have some conversation with him."
 
-24. Then, in the course of his wandering, the Blessed One eventually arrived at Mithila. There the Blessed One lived in Makhādeva's Mango Grove. The brahmin householders of Mithila heard: [141] "The recluse Gotama, the son of the Sakyans who went forth from a Sakyan clan, has been wandering in the country of the Videhans with a large Sangha of bhikkhus, with five hundred bhikkhus, and he has now come to Mithila and is living in Makhādeva's Mango Grove. Now a good report of Master Gotama has been spread to this effect...(as in $ 3 above)...Now it is good to see such arahants."
+24. Then, in the course of his wandering, the Blessed One eventually arrived at Mithila. There the Blessed One lived in Makhādeva's Mango Grove. The brahmin householders of Mithila heard: [141] "The recluse Gotama, the son of the Sakyans who went forth from a Sakyan clan, has been wandering in the country of the Videhans with a large Sangha of bhikkhus, with five hundred bhikkhus, and he has now come to Mithila and is living in Makhādeva's Mango Grove. Now a good report of Master Gotama has been spread to this effect...(as in §3 above)...Now it is good to see such arahants."
 
 25. Then the brahmin householders of Mithila went to the Blessed One. Some paid homage to the Blessed One and sat down at one side; some exchanged greetings with him, and when this courteous and amiable talk was finished, sat down at one side; some extended their hands in reverential salutation towards him and sat down at one side; some pronounced their name and clan in the Blessed One's presence and sat down at one side; some kept silent and sat down at one side.
 
@@ -4301,7 +4301,7 @@ When this was said, the brahmin student Assalāyana replied: "Sirs, the recluse 
 
 A second time the brahmins said to him: "Master Assalāyana, this recluse Gotama describes purification for all the four castes. Let Master Assalāyana come [148] and dispute with the recluse
 
-Gotama about this assertion. For the training of a wanderer has been completed by Master Assalāyana." ${ }^{\prime 870}$
+Gotama about this assertion. For the training of a wanderer has been completed by Master Assalāyana." [^870]
 
 For the second time the brahmin student Assalāyana replied: "Sirs, the recluse Gotama is one who speaks the Dhamma. Now those who speak the Dhamma are difficult to dispute with. I am not able to dispute with the recluse Gotama about this assertion."
 
@@ -4556,7 +4556,7 @@ this way we describe the preservation of truth. But as yet there is no discovery
 19. "When he has investigated him and has seen that he is purified from states based on hate, [173] he next investigates him in regard to states based on delusion: 'Are there in this
 venerable one any states based on delusion such that, with his mind obsessed by those states...he might urge others to act in a way that would lead to their harm and suffering for a long time?' As he investigates him, he comes to know: 'There are no such states based on delusion in this venerable one. The bodily behaviour and the verbal behaviour of this venerable one are not those of one affected by delusion. And the Dhamma that this venerable one teaches is profound...to be experienced by the wise. This Dhamma cannot easily be taught by one affected by delusion.'
 
-20. "When he has investigated him and has seen that he is purified from states based on delusion, then he places faith in him; filled with faith he visits him and pays respect to him; having paid respect to him, he gives ear; when he gives ear, he hears the Dhamma; having heard the Dhamma, he memorises it and examines the meaning of the teachings he has memorised; when he examines their meaning, he gains a reflective acceptance of those teachings; when he has gained a reflective acceptance of those teachings, zeal springs up; when zeal has sprung up, he applies his will; having applied his will, he scrutinises; [^889] having scrutinised, he strives; [^890] resolutely striving, he realises with the body the ultimate truth and sees it by penetrating it with wisdom. [^891] In this way, Bhāradvāja, there is the discovery of truth; in this way one discovers truth; in this way we describe the discovery of truth. But as yet there is no final arrival at truth." ${ }^{\prime 892}$
+20. "When he has investigated him and has seen that he is purified from states based on delusion, then he places faith in him; filled with faith he visits him and pays respect to him; having paid respect to him, he gives ear; when he gives ear, he hears the Dhamma; having heard the Dhamma, he memorises it and examines the meaning of the teachings he has memorised; when he examines their meaning, he gains a reflective acceptance of those teachings; when he has gained a reflective acceptance of those teachings, zeal springs up; when zeal has sprung up, he applies his will; having applied his will, he scrutinises; [^889] having scrutinised, he strives; [^890] resolutely striving, he realises with the body the ultimate truth and sees it by penetrating it with wisdom. [^891] In this way, Bhāradvāja, there is the discovery of truth; in this way one discovers truth; in this way we describe the discovery of truth. But as yet there is no final arrival at truth." [^892]
 
 21. "In that way, Master Gotama, there is the discovery of truth; in that way one discovers truth; in that way we recognise the discovery of truth. But in what way, Master Gotama, is there the final arrival at truth? In what way does one finally arrive at truth? We ask Master Gotama about the final arrival at truth." [174]
 
@@ -4654,17 +4654,17 @@ upon a poor, penniless, destitute man and tell him: 'Good man, you must eat this
 14. "What do you think, brahmin? Is only a brahmin capable of developing a mind of loving-kindness towards a certain region, without hostility and without ill will, and not a noble, or a merchant, or a worker?"
 "No, Master Gotama. Whether it be a noble, or a brahmin, or a merchant, or a worker - those of all four castes are capable of developing a mind of loving-kindness towards a certain region, without hostility and without ill will."
 
-"So too, brahmin, if anyone from a clan of nobles goes forth...(repeat $ 13 )...he is one who is accomplishing the true way, the Dhamma that is wholesome.
+"So too, brahmin, if anyone from a clan of nobles goes forth...(repeat §13 )...he is one who is accomplishing the true way, the Dhamma that is wholesome.
 
 15. "What do you think, brahmin? Is only a brahmin capable of taking a loofah and bath powder, going to the river, and washing off dust and dirt, and not a noble, or a merchant, or a worker?"
 
 "No, Master Gotama. Whether it be a noble, or a brahmin, or a merchant, [183] or a worker - those of all four castes are capable of taking a loofah and bath powder, going to the river, and washing off dust and dirt."
 
-"So too, brahmin, if anyone from a clan of nobles goes forth...(repeat $ 13 )...he is one who is accomplishing the true way, the Dhamma that is wholesome.
+"So too, brahmin, if anyone from a clan of nobles goes forth...(repeat §13 )...he is one who is accomplishing the true way, the Dhamma that is wholesome.
 
 16. "What do you think, brahmin? Suppose a head-anointed noble king were to assemble here a hundred men of different birth"...(as Sutta 93, §13) [184]..."For all fire has a flame, a colour, and a radiance, and it is possible to use all fire for the purposes of fire."
 
-"So too, brahmin, if anyone from a clan of nobles goes forth...(repeat $ 13 )...he is one who is accomplishing the true way, the Dhamma that is wholesome."
+"So too, brahmin, if anyone from a clan of nobles goes forth...(repeat §13 )...he is one who is accomplishing the true way, the Dhamma that is wholesome."
 
 17. When this was said, the brahmin Esukārī said to the Blessed One: "Magnificent, Master Gotama! Magnificent, Master Gotama!...From today let Master Gotama remember me as a lay follower who has gone to him for refuge for life."
 

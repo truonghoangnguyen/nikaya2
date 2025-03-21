@@ -1,11 +1,11 @@
 # 38 The Greater Discourse on the Destruction of Craving
 ***(Mahātamhāsankhaya Sutta)***
 
-## (SETTING)
+#### (SETTING)
 
 1. Thus have I.heard. On one occasion the Blessed One was living at Sāvatthī in Jeta's Grove, Anāthapindika's Park.
 
-2. Now on that occasion a pernicious view had arisen in a bhikkhu named Satti, son of a fisherman, thus: "As I understand the Dhamma taught by the Blessed One, it is this same consciousness that runs and wanders through the round of rebirths, not another. ${ }^{\prime 402}$
+2. Now on that occasion a pernicious view had arisen in a bhikkhu named Satti, son of a fisherman, thus: "As I understand the Dhamma taught by the Blessed One, it is this same consciousness that runs and wanders through the round of rebirths, not another. [^402]
 
 3. Several bhikkhus, having heard about this, went to the bhikkhu Satti and asked him: "Friend Satti, is it true that such a pernicious view has arisen in you?"
 
@@ -43,11 +43,11 @@ this bhikkhu Satti, [259] son of a fisherman, does when he misrepresents us by h
 
 "Good, bhikkhus. It is good that you understand the Dhamma taught by me thus. For in many discourses I have stated consciousness to be dependently arisen, since without a condition there is no origination of consciousness. But this bhikkhu Satti, son of a fisherman, misrepresents us by his wrong grasp and injures himself and stores up much demerit; for this will lead to the harm and suffering of this misguided man for a long time.
 
-## (CONDITIONALITY OF CONSCIOUSNESS)
+#### (CONDITIONALITY OF CONSCIOUSNESS)
 
 8. "Bhikkhus, consciousness is reckoned by the particular condition dependent upon which it arises. When consciousness arises dependent on the eye and forms, it is reckoned as eyeconsciousness; when consciousness arises dependent on the ear and sounds, it is reckoned as ear-consciousness; when consciousness arises dependent on the nose and odours, [260] it is reckoned as nose-consciousness; when consciousness arises dependent on the tongue and flavours, it is reckoned as tongueconsciousness; when consciousness arises dependent on the body and tangibles, it is reckoned as body-consciousness; when consciousness arises dependent on the mind and mind-objects, it is reckoned as mind-consciousness. Just as fire is reckoned by the particular condition dependent on which it burns - when fire burns dependent on logs, it is reckoned as a log fire; when fire burns dependent on faggots, it is reckoned as a faggot fire; when fire burns dependent on grass, it is reckoned as a grass fire; when fire burns dependent on cowdung, it is reckoned as a cowdung fire; when fire burns dependent on chaff, it is reckoned as a chaff fire; when fire burns dependent on rubbish, it is reckoned as a rubbish fire - so too, consciousness is reckoned by the particular condition dependent on which it arises. [^404] When consciousness arises dependent on the eye and forms, it is reckoned as eye-consciousness... when consciousness arises dependent on the mind and mind-objects, it is reckoned as mind-consciousness.
 
-## (GENERAL QUESTIONNAIRE ON BEING)
+#### (GENERAL QUESTIONNAIRE ON BEING)
 
 9. "Bhikkhus, do you see: 'This has come to be'?"405 - "Yes, venerable sir." - "Bhikkhus, do you see: 'Its origination occurs with that as nutriment'?" - "Yes, venerable sir." - "Bhikkhus, do you see: 'With the cessation of that nutriment, what has come to be is subject to cessation'?" - "Yes, venerable sir."
 
@@ -62,18 +62,18 @@ this bhikkhu Satti, [259] son of a fisherman, does when he misrepresents us by h
 14. "Bhikkhus, purified and bright as this view is, if you adhere to it, cherish it, treasure it, and treat it as a possession, would you then understand the Dhamma that has been taught as similar to a raft, being for the purpose of crossing over, not
 for the purpose of grasping?"406 - "No, venerable sir." - "Bhikkhus, purified and bright as this view is, [261] if you do not adhere to it, cherish it, treasure it, and treat it as a possession, would you then understand the Dhamma that has been taught as similar to a raft, being for the purpose of crossing over, not for the purpose of grasping?" - "Yes, venerable sir."
 
-## (NUTRIMENT AND DEPENDENT ORIGINATION)
+#### (NUTRIMENT AND DEPENDENT ORIGINATION)
 
 15. "Bhikkhus, there are these four kinds of nutriment for the maintenance of beings that already have come to be and for the support of those seeking a new existence. What four? They are: physical food as nutriment, gross or subtle; contact as the second; mental volition as the third; and consciousness as the fourth. [^407]
 
 16. "Now, bhikkhus, these four kinds of nutriment have what as their source, what as their origin, from what are they born and produced? These four kinds of nutriment have craving as their source, craving as their origin; they are born and produced from craving. And this craving has what as its source...? Craving has feeling as its source...And this feeling has what as its source...? Feeling has contact as its source...And this contact has what as its source...? Contact has the sixfold base as its source...And this sixfold base has what as its source...? The sixfold base has mentality-materiality as its source...And this mentality-materiality has what as its source...? Mentalitymateriality has consciousness as its source...And this consciousness has what as its source...? Consciousness has formations as its source...And these formations have what as their source, what as their origin, from what are they born and produced? Formations have ignorance as their source, ignorance as their origin; they are born and produced from ignorance.
 
-## (FORWARD EXPOSITION ON ARISING)
+#### (FORWARD EXPOSITION ON ARISING)
 
 17. "So, bhikkhus, with ignorance as condition, formations [come to be]; with formations as condition, consciousness; with consciousness as condition, mentality-materiality; with mentalitymateriality as condition, the sixfold base; with the sixfold base as condition, contact; with contact as condition, feeling; with feeling as condition, craving; with craving as condition, clinging;
 with clinging as condition, being; with being as condition, birth; with birth as condition, ageing and death, sorrow, lamentation, pain, grief, and despair come to be. Such is the origin of this whole mass of suffering.
 
-## (REVERSE ORDER QUESTIONNAIRE ON ARISING)
+#### (REVERSE ORDER QUESTIONNAIRE ON ARISING)
 
 18. "'With birth as condition, ageing and death': so it was said. Now, bhikkhus, do ageing and death have birth as condition or not, or how do you take it in this case?"
 
@@ -118,16 +118,16 @@ with clinging as condition, being; with being as condition, birth; with birth as
 
 "Formations have ignorance as condition, venerable sir. Thus we take it in this case: 'With formations as condition, ignorance.'"
 
-## (RECAPITULATION ON ARISING)
+#### (RECAPITULATION ON ARISING)
 
 19. "Good, bhikkhus. So you say thus, and I also say thus: 'When this exists, that comes to be; [263] with the arising of this, that arises. [^408] That is, with ignorance as condition, formations [come to be]; with formations as condition, consciousness; with consciousness as condition, mentality-materiality; with mentalitymateriality as condition, the sixfold base; with the sixfold base as condition, contact; with contact as condition, feeling; with feeling as condition, craving; with craving as condition, clinging;
 with clinging as condition, being; with being as condition, birth; with birth as condition, ageing and death, sorrow, lamentation, pain, grief, and despair come to be. Such is the origin of this whole mass of suffering.
 
-## (FORWARD EXPOSITION ON CESSATION)
+#### (FORWARD EXPOSITION ON CESSATION)
 
 20. "But with the remainderless fading away and cessation of ignorance comes cessation of formations; with the cessation of formations, cessation of consciousness; with the cessation of consciousness, cessation of mentality-materiality; with the cessation of mentality-materiality, cessation of the sixfold base; with the cessation of the sixfold base, cessation of contact; with the cessation of contact, cessation of feeling; with the cessation of feeling, cessation of craving; with the cessation of craving, cessation of clinging; with the cessation of clinging, cessation of being; with the cessation of being, cessation of birth; with the cessation of birth, ageing and death, sorrow, lamentation, pain, grief, and despair cease. Such is the cessation of this whole mass of suffering.
 
-## (REVERSE ORDER QUESTIONNAIRE ON CESSATION)
+#### (REVERSE ORDER QUESTIONNAIRE ON CESSATION)
 
 21. "'With the cessation of birth, cessation of ageing and death': so it was said. Now, bhikkhus, do ageing and death cease with the cessation of birth or not, or how do you take it in this case?"
 
@@ -149,7 +149,7 @@ with clinging as condition, being; with being as condition, birth; with birth as
 
 25. "Good, bhikkhus. So you have been guided by me with this Dhamma, which is visible here and now, immediately effective, inviting inspection, onward leading, to be experienced by the wise for themselves. For it was with reference to this that it has been said: 'Bhikkhus, this Dhamma is visible here and now, immediately effective, inviting inspection, onward leading, to be experienced by the wise for themselves.'
 
-## (THE ROUND OF EXISTENCE: CONCEPTION TO MATURITY)
+#### (THE ROUND OF EXISTENCE: CONCEPTION TO MATURITY)
 
 26. "Bhikkhus, the conception of an embryo in a womb takes place through the union of three things. [^410] Here, there is the union of the mother and father, but it is not the mother's season, and the being to be reborn [^411] is not present - in this case there is no [266] conception of an embryo in a womb. Here, there is the union of the mother and father, and it is the mother's season, but the being to be reborn is not present - in this case too there is no conception of an embryo in a womb. But when there is the union of the mother and father, and it is the mother's season, and the being to be reborn is present, through the union of these three things the conception of an embryo in a womb takes place.
 
@@ -159,7 +159,7 @@ with clinging as condition, being; with being as condition, birth; with birth as
 
 29. "When he grows up and his faculties mature [still further], the youth enjoys himself provided and endowed with the five cords of sensual pleasure, with forms cognizable by the eye... sounds cognizable by the ear...odours cognizable by the nose... flavours cognizable by the tongue...tangibles cognizable by the body that are wished for, desired, agreeable and likeable, connected with sensual desire, and provocative of lust.
 
-## (THE CONTINUATION OF THE ROUND)
+#### (THE CONTINUATION OF THE ROUND)
 
 30. "On seeing a form with the eye, he lusts after it if it is pleasing; he dislikes it if it is unpleasing. He abides with mindfulness of the body unestablished, with a limited mind, and he does not understand as it actually is the deliverance of mind and deliverance by wisdom wherein those evil unwholesome states cease without remainder. Engaged as he is in favouring and opposing, whatever feeling he feels - whether pleasant or painful or neither-painful-nor-pleasant - he delights in that feeling, welcomes it, and remains holding to it. [^412] As he does so, delight arises in him. Now delight in feelings is clinging. With his clinging as condition, being [comes to be]; with being as condition, birth; with birth as condition, ageing and death, sorrow, lamentation, pain, grief, and despair come to be. Such is the origin of this whole mass of suffering.
 
@@ -174,13 +174,13 @@ with clinging as condition, being; with being as condition, birth; with birth as
     39. "Having thus abandoned these five hindrances, imperfections of the mind that weaken wisdom, quite secluded from
 sensual pleasures, secluded from unwholesome states, he enters upon and abides in the first jhāna...With the stilling of applied and sustained thought, he enters upon and abides in the second jhāna...With the fading away as well of rapture...he enters upon and abides in the third jhāna...With the abandoning of pleasure and pain...he enters upon and abides in the fourth jhāna...which has neither-pain-nor-pleasure and purity of mindfulness due to equanimity.
 
-## (THE ENDING OF THE ROUND: FULL CESSATION)
+#### (THE ENDING OF THE ROUND: FULL CESSATION)
 
 40. "On seeing a form with the eye, he does not lust after it if it is pleasing; he does not dislike it if it is unpleasing. He abides with mindfulness of the body established, with an immeasurable mind, and he understands as it actually is the deliverance of mind and deliverance by wisdom wherein those evil unwholesome states cease without remainder. [^413] Having thus abandoned favouring and opposing, whatever feeling he feels, whether pleasant or painful or neither-painful-nor-pleasant, he does not delight in that feeling, welcome it, or remain holding to it. [^414] As he does not do so, delight in feelings ceases in him. With the cessation of his delight comes cessation of clinging; with the cessation of clinging, cessation of being; with the cessation of being, cessation of birth; with the cessation of birth, ageing and death, sorrow, lamentation, pain, grief, and despair cease. Such is the cessation of this whole mass of suffering.
 
 "On hearing a sound with the ear...On smelling an odour with the nose...On tasting a flavour with the tongue...On touching a tangible with the body...On cognizing a mind-object with the mind, he does not lust after it if it is pleasing; he does not dislike it if it is unpleasing...With the cessation of his delight comes cessation of clinging; with the cessation of clinging, cessation of being; with the cessation of being, cessation of birth; with the cessation of birth, ageing and death, sorrow, lamentation, pain, grief, and despair cease. Such is the cessation of this whole mass of suffering.
 
-## (CONCLUSION)
+#### (CONCLUSION)
 
 41. "Bhikkhus, remember this deliverance through the destruction of craving as taught in brief by me. But the bhikkhu Satti, [271] son of a fisherman, is caught up in a vast net of craving, in the trammel of craving."
 

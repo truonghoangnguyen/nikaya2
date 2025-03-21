@@ -68,7 +68,7 @@ will and hatred. Abandoning sloth and torpor, he abides free from sloth and torp
 
 24. "Then the Tathāgata disciplines him further: 'Come, bhikkhu, abide contemplating the body as a body but do not think thoughts connected with the body; abide contemplating feelings as feelings but do not think thoughts connected with feelings; abide contemplating mind as mind but do not think thoughts connected with the mind; abide contemplating mindobjects as mind-objects but do not think thoughts connected with mind-objects.'
 
-25. "With the stilling of applied and sustained thought, he enters upon and abides in the second jhāna ${ }^{1177} \ldots$. the third jhāna...the fourth jhāna.
+25. "With the stilling of applied and sustained thought, he enters upon and abides in the second jhāna [^1177]. the third jhāna...the fourth jhāna.
 
 26-29. "When his concentrated mind is thus purified...(as Sutta 51, §§24-27)...He understands: 'Birth is destroyed, the holy life has been lived, what had to be done has been done, there is no more coming to any state of being.'
 

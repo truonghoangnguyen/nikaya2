@@ -79,7 +79,7 @@ mind, so that there is no part of his whole body unpervaded by the pure bright m
 
 24. "And how is a bhikkhu a brahmin? He has expelled evil unwholesome states that defile...and lead to future birth, ageing, and death. That is how a bhikkhu is a brahmin.
 
-25. "And how is a bhikkhu one who has been washed? ${ }^{420} \mathrm{He}$ has washed off evil unwholesome states that defile...and lead to
+25. "And how is a bhikkhu one who has been washed? [^420] He has washed off evil unwholesome states that defile...and lead to
 future birth, ageing, and death. That is how a bhikkhu is one who has been washed.
 
 26. "And how is a bhikkhu one who has attained to knowledge? He has known evil unwholesome states that defile...and lead to future birth, ageing, and death. That is how a bhikkhu is one who has attained to knowledge.
@@ -94,7 +94,7 @@ That is what the Blessed One said. The bhikkhus were satisfied and delighted in 
 
 ## Notes
 
-[^415]: "Brahmin" should be understood in the sense explained below, $ 24.
+[^415]: "Brahmin" should be understood in the sense explained below, §24.
 
 [^416]: Shame (hiri) and fear of wrongdoing (ottappa) are two complementary qualities designated by the Buddha "the guardians of the world" (AN i.51) because they serve as the foundation for morality. Shame has the characteristic of disgust with evil, is dominated by a sense of selfrespect, and manifests itself as conscience. Fear of wrongdoing has the characteristic of dread of evil, is dominated by a concern for the opinions of others, and manifests itself as fear of doing evil. See Vsm XIV, 142.
 

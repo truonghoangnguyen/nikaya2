@@ -26,7 +26,7 @@ The Blessed One looked at the venerable Ānanda. [93] The venerable Ānanda said
 
 8. So Prince Bodhi had the cloth removed, and he had seats prepared in the upper apartments of the Kokanada Palace. The Blessed One and the Sangha of bhikkhus ascended the Kokanadá Palace and sat down on the seats that had been prepared.
 
-9. Then, with his own hands, Prince Bodhi served and satisfied the Sangha of bhikkhus headed by the Buddha with the various kinds of good food. When the Blessed One had eaten and had withdrawn his hand from the bowl, Prince Bodhi took a low seat, sat down at one side, and said to the Blessed One: "Venerable sir, we have thought thus: 'Pleasure is not to be gained through pleasure; pleasure is to be gained through pain." ${ }^{\prime 819}$
+9. Then, with his own hands, Prince Bodhi served and satisfied the Sangha of bhikkhus headed by the Buddha with the various kinds of good food. When the Blessed One had eaten and had withdrawn his hand from the bowl, Prince Bodhi took a low seat, sat down at one side, and said to the Blessed One: "Venerable sir, we have thought thus: 'Pleasure is not to be gained through pleasure; pleasure is to be gained through pain." [^819]
 
 10. "Prince, before my enlightenment, while I was still only an unenlightened Bodhisatta, I too thought thus: 'Pleasure is not to be gained through pleasure; pleasure is to be gained through pain.'
 

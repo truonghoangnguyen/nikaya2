@@ -5,7 +5,7 @@
 
 2. "Bhikkhus, I eat at a single session. By so doing, I am free from illness and affliction, and I enjoy health, strength, and a comfortable abiding. [^660] Come, bhikkhus, eat at a single session. By so doing, you too will be free from illness and affliction, and you will enjoy health, strength, and a comfortable abiding."
 
-3. When this was said, the venerable Bhaddāli told the Blessed One: "Venerable sir, I am not willing to eat at a single session; for if I were to do so, I might have worry and anxiety about it." ${ }^{\prime 661}$
+3. When this was said, the venerable Bhaddāli told the Blessed One: "Venerable sir, I am not willing to eat at a single session; for if I were to do so, I might have worry and anxiety about it." [^661]
 
 "Then, Bhaddāli, eat one part there where you are invited and bring away one part to eat. By eating in that way, [438] you will maintain yourself."
 
@@ -80,9 +80,9 @@ is how it is with one who fulfils the training in the Teacher's Dispensation."
 
 24. "But here some bhikkhu is a constant offender with many offences. When he is corrected by the bhikkhus, he does not prevaricate, lead the talk aside, or show disturbance, hate, and bitterness; he proceeds rightly, he complies, he clears himself, he says: 'Let me so act that the Sangha will be satisfied.' Bhikkhus, taking account of this matter, think: 'It would be good if the venerable ones examine this bhikkhu in such a way that this litigation against him is settled quickly.' And the bhikkhus examine that bhikkhu in such a way that the litigation against him is settled quickly.
 
-25. "Here some bhikkhu is a chance offender without many offences. When he is corrected by the bhikkhus, he prevaricates...(repeat rest of $ 23 )...And the bhikkhus examine that bhikkhu in such a way that [444] the litigation against him is not settled too quickly.
+25. "Here some bhikkhu is a chance offender without many offences. When he is corrected by the bhikkhus, he prevaricates...(repeat rest of §23 )...And the bhikkhus examine that bhikkhu in such a way that [444] the litigation against him is not settled too quickly.
 
-26. "But here some bhikkhu is a chance offender without many offences. When he is corrected by the bhikkhus, he does not prevaricate...(repeat rest of $ 24 )...And the bhikkhus examine that bhikkhu in such a way that the litigation against him is settled quickly.
+26. "But here some bhikkhu is a chance offender without many offences. When he is corrected by the bhikkhus, he does not prevaricate...(repeat rest of §24 )...And the bhikkhus examine that bhikkhu in such a way that the litigation against him is settled quickly.
 
 27. "Here some bhikkhu progresses by a measure of faith and love. [^666] In this case bhikkhus consider thus: 'Friends, this
 bhikkhu progresses by a measure of faith and love. Let him not lose that measure of faith and love, as he may if we take action against him by repeatedly admonishing him.' Suppose a man had only one eye; then his friends and companions, his kinsmen and relatives, would guard his eye, thinking: 'Let him not lose his one eye.' So too, some bhikkhu progresses by a measure of faith and love...'Let him not lose that measure of faith and love, as he may if we take action against him by repeatedly admonishing him.'

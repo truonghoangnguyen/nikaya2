@@ -22,6 +22,7 @@ Sariputta giảng cho ý nghĩa lời nói ấy. Sau khi nghe Tôn giả Sariput
 
 Tôn giả Sariputta nói như sau:
 
+<!--pg-->
 ***(Thiện và bất thiện)***
 
 -- Chư Hiền, khi Thánh đệ tử tuệ tri được bất thiện và tuệ tri được căn bổn bất thiện, tuệ tri được thiện
@@ -50,6 +51,7 @@ miên, nhổ tận gốc kiến mạn tùy miên "Tôi là", đoạn trừ vô m
 ngay trong hiện tại. Chư Hiền, như vậy Thánh đệ tử có chánh tri kiến, có tri kiến chánh trực, có lòng tin
 pháp tuyệt đối và thành tựu diệu pháp này.
 
+<!--pg-->
 ***(Thức ăn)***
 
 -- Lành thay, Hiền giả!
@@ -57,7 +59,7 @@ pháp tuyệt đối và thành tựu diệu pháp này.
 Các Tỷ-kheo ấy, sau khi hoan hỷ, tín thọ lời nói Tôn giả Sariputta và hỏi thêm Tôn giả Sariputta câu hỏi
 như sau:
 
-- Này Hiền giả, có thể có pháp môn nào khác, nhờ pháp môn này vị Thánh đệ tử có chánh tri kiến, có tri
+-- Này Hiền giả, có thể có pháp môn nào khác, nhờ pháp môn này vị Thánh đệ tử có chánh tri kiến, có tri
 kiến chánh trực, có lòng tin Pháp tuyệt đối và thành tựu diệu pháp này?
 
 -- Chư Hiền, có thể có. Chư Hiền, khi nào Thánh đệ tử tuệ tri thức ăn, tuệ tri tập khởi của thức ăn, tuệ tri
@@ -78,6 +80,7 @@ tất cả tham tùy miên, tẩy sạch sân tùy miên, nhổ tận gốc ki�
 khiến minh khởi lên, diệt tận khổ đau ngay trong hiện tại. Chư Hiền, như vậy Thánh đệ tử có chánh tri
 kiến, có tri kiến chánh trực, có lòng tin Pháp tuyệt đối và thành tựu diệu pháp này.
 
+<!--pg-->
 ***(Tứ diệu đế)***
 
 -- Lành thay, Hiền giả!
@@ -110,6 +113,7 @@ Chư Hiền, khi nào Thánh đệ tử tuệ tri Khổ như vậy, tuệ tri T�
 của khổ như vậy, tuệ tri con Ðường đưa đến đoạn diệt của khổ như vậy, khi ấy vị ấy đoạn trừ tất cả tham
 tùy miên, tẩy sạch sân tùy miên,... (như trên)... và thành tựu diệu pháp này.
 
+<!--pg-->
 ***(Già và chết)***
 
 -- Lành thay, Hiền giả... (như trên)... Này Hiền giả, có thể có pháp môn nào khác, nhờ pháp môn này
@@ -133,6 +137,7 @@ Chư Hiền, khi nào Thánh đệ tử tuệ tri già chết như vậy, tuệ 
 diệt của già chết như vậy, tuệ tri con đường đưa đến đoạn diệt của già chết như vậy, khi ấy, vị ấy đoạn
 trừ tất cả tham tùy miên, tẩy sạch sân tùy miên... (như trên)..., và thành tựu diệu pháp này.
 
+<!--pg-->
 ***(Sanh)***
 
 -- Lành thay, Hiền giả... (như trên)... Này Hiền giả, có thể có pháp môn nào khác...?
@@ -153,6 +158,7 @@ Chư Hiền, khi nào Thánh đệ tử tuệ tri được sanh như vậy, tu�
 
 ấy đoạn trừ tất cả tham tùy miên... (như trên)... như vậy... (như trên)... và thành tựu diệu pháp này.
 
+<!--pg-->
 ***(Hữu)***
 
 -- Lành thay, Hiền giả... (như trên)... Này Hiền giả, có pháp môn nào khác...?
@@ -170,6 +176,7 @@ Chư Hiền, khi nào Thánh đệ tử tuệ tri hữu như vậy, tuệ tri t�
 của hữu như vậy, tuệ tri con đường đưa đến đoạn diệt của hữu như vậy, khi ấy, vị ấy đoạn trừ tất cả
 tham tùy miên... và thành tựu diệu pháp này.
 
+<!--pg-->
 ***(Thủ)***
 
 -- Lành thay, Hiền giả... (như trên)... Này Hiền giả, có thể có pháp môn nào khác...?
@@ -187,6 +194,7 @@ Chư Hiền, khi nào Thánh đệ tử tuệ tri thủ như vậy, tuệ tri t�
 thủ như vậy, tuệ tri con đường đưa đến đoạn diệt của thủ như vậy, khi ấy, vị ấy đoạn trừ tất cả tham tùy
 miên và thành tựu diệu pháp này.
 
+<!--pg-->
 ***(Ái)***
 
 -- Lành thay, Hiền giả... (như trên)... Này Hiền giả, có pháp môn nào khác...?
@@ -205,6 +213,7 @@ Chư Hiền, khi nào Thánh đệ tử tuệ tri ái như vậy, tuệ tri tậ
 như vậy, tuệ tri con đường đưa đến đoạn diệt của ái như vậy, khi ấy, vị ấy, đoạn trừ tất cả tham tùy
 miên... và thành tựu diệu pháp.
 
+<!--pg-->
 ***(Thọ)***
 
 -- Lành thay, Hiền giả... (như trên)... Này Hiền giả, có thể có pháp môn nào khác...?
@@ -223,6 +232,7 @@ Chư Hiền, khi nào Thánh đệ tử tuệ tri thọ như vậy, tuệ tri t�
 thọ như vậy, tuệ tri con đường đưa đến đoạn diệt của thọ như vậy, khi ấy, vị ấy đoạn trừ tất cả tham tùy
 miên... và thành tựu diệu pháp này.
 
+<!--pg-->
 ***(Xúc)***
 
 -- Lành thay, Hiền giả... (như trên)... Này Hiền giả, có thể có pháp môn nào khác...?
@@ -239,6 +249,7 @@ Thánh Ðạo Tám Ngành này là con đường đưa đến đoạn diệt c�
 diệt của xúc như vậy, tuệ tri con đường đưa đến đoạn diệt của xúc như vậy, khi ấy, vị ấy đoạn trừ tất cả
 tham tùy miên... và thành tựu diệu pháp này.
 
+<!--pg-->
 ***(Nhập)***
 
 -- Lành thay, Hiền giả...câu hỏi như sau: Hiền giả, có thể có pháp môn nào khác...?
@@ -257,6 +268,7 @@ Chư Hiền, khi nào vị Thánh đệ tử tuệ tri sáu nhập như vậy, t
 đoạn diệt của sáu nhập như vậy, tuệ tri con đường đưa đến đoạn diệt của sáu nhập như vậy, khi ấy, vị ấy
 đoạn trừ tất cả tham tùy miên... và thành tựu diệu hạnh pháp này.
 
+<!--pg-->
 ***(Danh sắc)***
 
 -- Lành thay, Hiền giả... (như trên)... Này Hiền giả, có thể có pháp môn nào khác...?
@@ -276,6 +288,7 @@ Chư Hiền, khi nào Thánh đệ tử tuệ tri danh sắc như vậy, tuệ t
 đoạn diệt của danh sắc như vậy, tuệ tri con đường đưa đến đoạn diệt của danh sắc như vậy, khi ấy, vị ấy,
 đoạn trừ tất cả tham tùy miên... và thành tựu diệu pháp này.
 
+<!--pg-->
 ***(Thức)***
 
 -- Lành thay, Hiền giả... (như trên)... Này Hiền giả, có thể có pháp môn nào khác...?
@@ -294,6 +307,7 @@ Chư Hiền, khi nào Thánh đệ tử tuệ tri thức như vậy, tuệ tri t
 của thức như vậy, tuệ tri con đường đưa đến đoạn diệt của thức như vậy, khi ấy, vị ấy đoạn trừ tất cả
 tham tùy miên... và thành tựu diệu pháp này.
 
+<!--pg-->
 ***(Hành)***
 
 -- Lành thay, Hiền giả... (như trên)... Này Hiền giả, có thể có pháp môn nào khác...?
@@ -312,6 +326,7 @@ Chư Hiền, khi nào Thánh đệ tử tuệ tri hành như vậy, tuệ tri t�
 của hành như vậy, tuệ tri con đường đưa đến đoạn diệt của hành như vậy, khi ấy, vị ấy đoạn trừ tất cả
 tham tùy miên... và thành tựu diệu pháp này.
 
+<!--pg-->
 ***(Vô minh)***
 
 -- Lành thay, Hiền giả... (như trên)... Này Hiền giả, có thể có pháp môn nào khác...?
@@ -331,6 +346,7 @@ Chư Hiền, khi nào Thánh đệ tử tuệ tri vô minh như vậy, tuệ tri
 đoạn diệt của vô minh như vậy, tuệ tri con đường đưa đến đoạn diệt của vô minh như vậy, khi ấy, vị ấy
 đoạn trừ tất cả tham tùy miên... và thành tựu diệu pháp này.
 
+<!--pg-->
 ***(Lậu hoặc)***
 
 -- Lành thay, Hiền giả!

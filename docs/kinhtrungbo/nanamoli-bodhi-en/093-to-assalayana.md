@@ -13,7 +13,7 @@ When this was said, the brahmin student Assalāyana replied: "Sirs, the recluse 
 
 A second time the brahmins said to him: "Master Assalāyana, this recluse Gotama describes purification for all the four castes. Let Master Assalāyana come [148] and dispute with the recluse
 
-Gotama about this assertion. For the training of a wanderer has been completed by Master Assalāyana." ${ }^{\prime 870}$
+Gotama about this assertion. For the training of a wanderer has been completed by Master Assalāyana." [^870]
 
 For the second time the brahmin student Assalāyana replied: "Sirs, the recluse Gotama is one who speaks the Dhamma. Now those who speak the Dhamma are difficult to dispute with. I am not able to dispute with the recluse Gotama about this assertion."
 

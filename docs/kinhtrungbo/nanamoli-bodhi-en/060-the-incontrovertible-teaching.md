@@ -12,7 +12,7 @@
 
 "Since, householders, you have not found an agreeable teacher, you may undertake and practise this incontrovertible teaching, [^620] for when the incontrovertible teaching is accepted and undertaken, it will lead to your welfare and happiness for a long time. And what is the incontrovertible teaching? ${ }^{621}$
 
-## (I. THE DOCTRINE OF NIHILISM)
+#### (I. THE DOCTRINE OF NIHILISM)
 
 5\. (A) "Householders, there are some recluses and brahmins whose doctrine and view is this: 'There is nothing given, nothing offered, nothing sacrificed; no fruit or result of good and bad actions; no this world, no other world; no mother, no father; no beings who are reborn spontaneously; no good and virtuous recluses and brahmins in the world who have themselves realised by direct knowledge and declare this world and the other world. [^1622] [402]
 
@@ -33,7 +33,7 @@ have themselves realised by direct knowledge and declare this world and the othe
 12\. (B.iii) "About this a wise man considers thus: 'If there is another world, then on the dissolution of the body, after death, this good person will reappear in a happy destination, even in the heavenly world. Now whether or not the word of those good recluses and brahmins is true, let me assume that there is no other world: still this good person is here and now praised by the wise as a virtuous person, one with right view who holds the doctrine of affirmation. [^627] And on the other hand, if there is another world, then this good person has made a lucky throw on both counts: since he is praised by the wise here and now, and since on the dissolution of the body, after death, he will reappear in a happy destination, even in the heavenly world. He has rightly accepted and undertaken this incontrovertible
 teaching in such a way that it extends to both sides and excludes the unwholesome alternative. ${ }^{1628}$
 
-## (II. THE DOCTRINE OF NON-DOING)
+#### (II. THE DOCTRINE OF NON-DOING)
 
 13\. (A) "Householders, there are some recluses and brahmins whose doctrine and view is this: [^629] 'When one acts or makes others act, when one mutilates or makes others mutilate, when one tortures or makes others inflict torture, when one inflicts sorrow or makes others inflict sorrow, when one oppresses or makes others inflict oppression, when one intimidates or makes others inflict intimidation, when one kills living beings, takes what is not given, breaks into houses, plunders wealth, commits burglary, ambushes highways, seduces another's wife, utters falsehood - no evil is done by the doer. If, with a razorrimmed wheel, one were to make the living beings on this earth into one mass of flesh, into one heap of flesh, because of this there would be no evil and no outcome of evil. If one were to go along the south bank of the Ganges killing and slaughtering, mutilating and making others mutilate, torturing and making others inflict torture, because of this there would be no evil and no outcome of evil. If one were to go along the north bank of the Ganges giving gifts and making others give gifts, making offerings and making others make offerings, because of this there would be no merit and no outcome of merit. By giving, by taming oneself, by restraint, by speaking truth, there is no merit and no outcome of merit.'
 
@@ -54,7 +54,7 @@ brahmins is true, let me assume that there is no doing: still this good person i
 20\. (B.iii) "About this a wise man considers thus: 'If there is doing, then on the dissolution of the body, after death, this good
 person will reappear in a happy destination, even in the heavenly world. Now whether or not the word of those good recluses and brahmins is true, let me assume that there is no doing: still this good person is here and now praised by the wise as a virtuous person, one with right view who holds the doctrine of doing. And on the other hand, if there is doing, then this good person has made a lucky throw on both counts: since he is praised by the wise here and now, and since on the dissolution of the body, after death, he will reappear in a happy destination, even in the heavenly world. He has rightly accepted and undertaken this incontrovertible teaching in such a way that it extends to both sides and excludes the unwholesome alternative.'
 
-## (III. THE DOCTRINE OF NON-CAUSALITY)
+#### (III. THE DOCTRINE OF NON-CAUSALITY)
 
 21\. (A) "Householders, there are some recluses and brahmins whose doctrine and view is this: [^630] 'There is no cause or condition for the defilement of beings; beings are defiled without cause or condition. There is no cause or condition for the purification of beings; beings are purified without cause or condition. There is no power, no energy, no manly strength, no manly endurance. All beings, all living things, all creatures, all souls are without mastery, power, and energy; moulded by destiny, circumstance, and nature, they experience pleasure and pain in the six classes. ${ }^{631}$
 
@@ -75,7 +75,7 @@ will reappear in a state of deprivation, in an unhappy destination, in perdition
 28\. (B.iii) "About this a wise man considers thus: 'If there is causality, then on the dissolution of the body, after death, this good person will reappear in a happy destination, even in the heavenly world. Now whether or not the word of those good recluses and brahmins is true, let me assume that there is no causality: still this good person is here and now praised by the wise as a virtuous person, one with right view who holds the
 doctrine of causality. And on the other hand, if there is [410] causality, then this good person has made a lucky throw on both counts: since he is praised by the wise here and now, and since on the dissolution of the body, after death, he will reappear in a happy destination, even in the heavenly world. He has rightly accepted and undertaken this incontrovertible teaching in such a way that it extends to both sides and excludes the unwholesome alternative.'
 
-## (IV. THERE ARE NO IMMATERIAL REALMS)
+#### (IV. THERE ARE NO IMMATERIAL REALMS)
 
 29\. "Householders, there are some recluses and brahmins whose doctrine and view is this: 'There are definitely no immaterial realms. ${ }^{1632}$
 
@@ -84,7 +84,7 @@ doctrine of causality. And on the other hand, if there is [410] causality, then 
 31\. "About this a wise man considers thus: 'These good recluses and brahmins hold the doctrine and view "there are definitely no immaterial realms," but that has not been seen by me. And these other good recluses and brahmins hold the doctrine and view "there definitely are immaterial realms," but that has not been known by me. If, without knowing and seeing, I were to take one side and declare: "Only this is true, anything else is wrong," that would not be fitting for me. Now as to the recluses and brahmins who hold the doctrine and view "there definitely are no immaterial realms," if their word is true then it is certainly still possible that I might reappear [after death] among the gods of the fine-material realms who consist of mind. [^633] But as to the recluses and brahmins who hold the doctrine and view "there definitely are immaterial realms," if their word is true then it is certainly possible that I might reappear [after death] among the gods of the immaterial realms who consist of perception. The taking up of rods and weapons, quarrels, brawls, disputes, recrimination, malice, and false speech are seen to occur based on material form, but this does not exist at all in the immaterial realms.' After reflecting thus, he practises the way to dispassion
 towards material forms, to the fading away and cessation of material forms. ${ }^{634}$
 
-## (V. THERE IS NO CESSATION OF BEING)
+#### (V. THERE IS NO CESSATION OF BEING)
 
 32\. "Householders, there are some recluses and brahmins whose doctrine and view is this: 'There is definitely no cessation of being. ${ }^{635}$
 

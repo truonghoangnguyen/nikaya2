@@ -5,7 +5,7 @@
 
 2\. "'Recluses, recluses,' bhikkhus, that is how people perceive you. And when you are asked, 'What are you?', you claim that you are recluses. Since that is what you are designated and what you claim to be, you should train thus: 'We will undertake and practise those things that make one a recluse, that make one a brahmin, [^415] so that our designations may be true and our claims genuine, and so that the services of those whose robes, almsfood, resting place, and medicinal requisites we use shall bring them great fruit and benefit, and so that our going forth shall not be in vain but fruitful and fertile.'
 
-## (CONDUCT AND LIVELIHOOD)
+#### (CONDUCT AND LIVELIHOOD)
 
 3\. "And what, bhikkhus, are the things that make one a recluse, that make one a brahmin? Bhikkhus, you should train thus: 'We will be possessed of shame and fear of wrongdoing. [^416] Now, bhikkhus, you may think thus: 'We are possessed of shame and fear of wrongdoing. That much is enough, that much has been done, the goal of recluseship has been reached, there is nothing more for us to do'; and you may rest content with that much. Bhikkhus, I inform you, I declare to you: You who seek the recluse's status, do not fall short of the goal of recluseship while there is more to be done. [^417]
 
@@ -20,11 +20,11 @@ flawless and restrained, and we will not laud ourselves and disparage others on 
 
 Bhikkhus, I inform you, I declare to you: You who seek the recluse's status, do not fall short of the goal of recluseship while there is more to be done.
 
-## (RESTRAINT OF THE SENSES)
+#### (RESTRAINT OF THE SENSES)
 
 8\. "What more is to be done? Bhikkhus, you should train thus: 'We will guard the doors of our sense faculties. On seeing a form with the eye, we will not grasp at its signs and features. Since, if we left the eye faculty unguarded, evil unwholesome states of covetousness and grief might invade us, we will practise the way of its restraint, we will guard the eye faculty, we will undertake the restraint of the eye faculty. On hearing a sound with the ear...On smelling an odour with the nose...On tasting a flavour with the tongue...On touching a tangible with the body...On cognizing a mind-object with the mind, we will not grasp at its signs and features. Since, if we left the mind faculty unguarded, evil unwholesome states of covetousness and grief might invade us, we will practise the way of its restraint, we will guard the mind faculty, we will undertake the restraint of the mind faculty.' Now, bhikkhus, you may think thus: 'We are possessed of shame and fear of wrongdoing, our bodily conduct, verbal conduct, mental conduct, and livelihood have been purified, and we guard the doors of our sense faculties. That much is enough...'; and you may rest content with that much. Bhikkhus, I inform you, I declare to you: You who seek the recluse's status, do not fall short of the goal of recluseship while there is more to be done.
 
-## (MODERATION IN EATING)
+#### (MODERATION IN EATING)
 
 9\. "What more is to be done? Bhikkhus, you should train thus: 'We will be moderate in eating. Reflecting wisely, we will take food neither for amusement nor for intoxication nor for the sake of physical beauty and attractiveness, but only for the endurance and continuance of this body, for ending discomfort, and for assisting the holy life, considering: "Thus I shall terminate old feelings without arousing new feelings and I shall be healthy and blameless and shall live in comfort." Now, bhikkhus, you may think thus: 'We are possessed of shame and
 fear of wrongdoing, our bodily conduct, verbal conduct, mental conduct, and livelihood have been purified, we guard the doors of our sense faculties, and we are moderate in eating. That much is enough...'; and you may rest content with that much. Bhikkhus, I inform you, I declare to you: You who seek the recluse's status, do not fall short of the goal of recluseship while there is more to be done.
@@ -38,7 +38,7 @@ fear of wrongdoing, our bodily conduct, verbal conduct, mental conduct, and live
 11\. "What more is to be done? Bhikkhus, you should train thus: 'We will be possessed of mindfulness and full awareness. We will act in full awareness when going forward and returning; we will act in full awareness when looking ahead and looking away; we will act in full awareness when flexing and extending our limbs; we will act in full awareness when wearing our robes and carrying our outer robe and bowl; we will act in full awareness when eating, drinking, consuming food, and tasting; we
 will act in full awareness when defecating and urinating; we will act in full awareness when walking, standing, sitting, falling asleep, waking up, talking, and keeping silent.' Now, bhikkhus, you may think thus: 'We are possessed of shame and fear of wrongdoing, our bodily conduct, verbal conduct, mental conduct, and livelihood have been purified, we guard the doors of our sense faculties, we are moderate in eating, we are devoted to wakefulness, and we are possessed of mindfulness and full awareness. That much is enough, that much has been done, the goal of recluseship has been reached, there is nothing more for us to do'; and you may rest content with that much. Bhikkhus, I inform you, I declare to you: You who seek the recluse's status, do not fall short of the goal of recluseship while there is more to be done.
 
-## (ABANDONING OF THE HINDRANCES)
+#### (ABANDONING OF THE HINDRANCES)
 
 12\. "What more is to be done? Here, bhikkhus, a bhikkhu resorts to a secluded resting place: the forest, the root of a tree, a mountain, a ravine, a hillside cave, a charnel ground, a jungle thicket, an open space, a heap of straw.
 
@@ -59,7 +59,7 @@ this body, so that there is no part of his whole body unpervaded by the rapture 
 18\. "Again, bhikkhus, with the abandoning of pleasure and pain, and with the previous disappearance of joy and grief, a bhikkhu enters upon and abides in the fourth jhāna, which has neither-pain-nor-pleasure and purity of mindfulness due to equanimity. He sits pervading this body with a pure bright
 mind, so that there is no part of his whole body unpervaded by the pure bright mind. Just as though a man were sitting covered from the head down with a white cloth, so that there would be no part of his whole [278] body unpervaded by the white cloth; so too, a bhikkhu sits pervading this body with a pure bright mind, so that there is no part of his whole body unpervaded by the pure bright mind.
 
-## (THE THREE TRUE KNOWLEDGES)
+#### (THE THREE TRUE KNOWLEDGES)
 
 19\. "When his concentrated mind is thus purified, bright, unblemished, rid of imperfection, malleable, wieldy, steady, and attained to imperturbability, he directs it to knowledge of the recollection of past lives. He recollects his manifold past lives, that is, one birth, two births...(as Sutta 4, §27)...Thus with their aspects and particulars he recollects his manifold past lives. Just as a man might go from his own village to another village and then back again to his own village, he might think: 'I went from my own village to that village, and there I stood in such a way, sat in such a way, spoke in such a way, kept silent in such a way; and from that village I went to that other village, and there I stood in such a way, sat in such a way, spoke in such a way, kept silent in such a way; and from that village I came back again to my own village.' So too, a bhikkhu recollects his manifold past lives...Thus with their aspects and particulars he recollects his manifold past lives.
 
@@ -79,7 +79,7 @@ mind, so that there is no part of his whole body unpervaded by the pure bright m
 
 24\. "And how is a bhikkhu a brahmin? He has expelled evil unwholesome states that defile...and lead to future birth, ageing, and death. That is how a bhikkhu is a brahmin.
 
-25\. "And how is a bhikkhu one who has been washed? ${ }^{420} \mathrm{He}$ has washed off evil unwholesome states that defile...and lead to
+25\. "And how is a bhikkhu one who has been washed? [^420] He has washed off evil unwholesome states that defile...and lead to
 future birth, ageing, and death. That is how a bhikkhu is one who has been washed.
 
 26\. "And how is a bhikkhu one who has attained to knowledge? He has known evil unwholesome states that defile...and lead to future birth, ageing, and death. That is how a bhikkhu is one who has attained to knowledge.

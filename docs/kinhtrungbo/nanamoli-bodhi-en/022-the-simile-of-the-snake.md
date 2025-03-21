@@ -1,7 +1,7 @@
 # 22 The Simile of the Snake
 ***(Alagaddūpama Sutta)***
 
-## (SETTING)
+#### (SETTING)
 
 [130] 1. Thus have I heard. [^248] On one occasion the Blessed One was living at Sāvatthī in Jeta's Grove, Anāthapiṇ̣ika's Park.
 
@@ -12,7 +12,7 @@
 "Exactly so, friends. As I understand the Dhamma taught by the Blessed One, those things called obstructions by the Blessed One are not able to obstruct one who engages in them."
 
 Then these bhikkhus, desiring to detach him from that pernicious view, pressed and questioned and cross-questioned him thus: "Friend Arittha, do not say so. Do not misrepresent the Blessed One; it is not good to misrepresent the Blessed One. The Blessed One would not speak thus. For in many discourses the Blessed One has stated how obstructive things are obstructions, and how they are able to obstruct one who engages in them. The Blessed One has stated how sensual pleasures provide little gratification, much suffering, and much despair, and how great is the danger in them. With the simile of the skeleton...with the simile of the piece of meat... with the simile of the grass torch... with the simile of the pit of coals... with the simile of the dream... with the simile of the borrowed goods... with the simile of the tree laden with fruit... with the simile of the slaughterhouse... with the simile of the sword stake... with the simile of
-the snake's head, the Blessed One has stated how sensual pleasures provide little gratification, much suffering, and much despair, and how great is the danger in them." ${ }^{\prime 250}$
+the snake's head, the Blessed One has stated how sensual pleasures provide little gratification, much suffering, and much despair, and how great is the danger in them." [^250]
 
 Yet although pressed and questioned and cross-questioned by them in this way, the bhikkhu Arittha, formerly of the vulture killers, still obstinately adhered to that pernicious view and continued to insist upon it.
 
@@ -24,6 +24,7 @@ Yet although pressed and questioned and cross-questioned by them in this way, th
 
 "Exactly so, venerable sir. As I understand the Dhamma taught by the Blessed One, those things called obstructions by the Blessed One are not able to obstruct one who engages in them."
 
+<!--pg-->
 6\. "Misguided man, to whom have you ever known me to teach the Dhamma in that way? Misguided man, in many discourses have I not stated how obstructive things are obstructions, and how they are able to obstruct one who engages in them? I have stated how sensual pleasures provide little gratification, much suffering, and much despair, and how great is the danger in them. With the simile of the skeleton... with the simile of the piece of meat... with the simile of the grass torch... with the simile of the pit of coals... with the simile of the dream... with the simile of the borrowed goods... with the simile of the tree laden with fruit... with the simile of the slaughterhouse... with the simile of the sword stake... with the simile of the snake's head, I have stated how sensual pleasures provide little gratification,
 much suffering, and much despair, and how great is the danger in them. But you, misguided man, have misrepresented us by your wrong grasp and injured yourself and stored up much demerit; for this will lead to your harm and suffering for a long time." [^251]
 
@@ -41,6 +42,7 @@ When this was said, the bhikkhu Arittha, formerly of the vulture killers, sat si
 
 9\. "Bhikkhus, that one can engage in sensual pleasures without sensual desires, without perceptions of sensual desire, without thoughts of sensual desire - that is impossible. [^252]
 
+<!--pg-->
 (THE SIMILE OF THE SNAKE)
 
 10\. "Here, bhikkhus, some misguided men learn the Dhamma discourses, stanzas, expositions, verses, exclamations, sayings, birth stories, marvels, and answers to questions - but having learned the Dhamma, they do not examine the meaning of those teachings with wisdom. Not examining the meaning of those teachings with wisdom, they do not gain a reflective acceptance of them. Instead they learn the Dhamma only for the sake of criticising others and for winning in debates, and they do not experience the good for the sake of which they learned the Dhamma. Those teachings, being wrongly grasped by them, conduce to their harm and suffering for a long time. [^253]
@@ -54,7 +56,8 @@ suffering because of that. Why is that? Because of his right grasp of the snake.
 
 12\. "Therefore, bhikkhus, when you understand the meaning of my statements, remember it accordingly; and when you do not understand the meaning of my statements, then ask either me about it or those bhikkhus who are wise.
 
-## (THE SIMILE OF THE RAFT)
+<!--pg-->
+#### (THE SIMILE OF THE RAFT)
 
 - 13. "Bhikkhus, I shall show you how the Dhamma is similar to a raft, being for the purpose of crossing over, not for the purpose of grasping. [^254] Listen and attend closely to what I shall say." - "Yes, venerable sir," the bhikkhus replied. The Blessed One said this:
 
@@ -67,16 +70,18 @@ and had arrived at the far shore, he might think thus: This raft has been very h
 
 14\. "Bhikkhus, when you know the Dhamma to be similar to a raft, you should abandon even good states, how much more so bad states. [^255],
 
-## (STANDPOINTS FOR VIEWS)
+<!--pg-->
+#### (STANDPOINTS FOR VIEWS)
 
 15\. "Bhikkhus, there are these six standpoints for views. [^256] What are the six? Here, bhikkhus, an untaught ordinary person, who has no regard for noble ones and is unskilled and undisciplined in their Dhamma, who has no regard for true men and is unskilled and undisciplined in their Dhamma, regards material form thus: 'This is mine, this I am, this is my self. [^257] He regards feeling thus: 'This is mine, this I am, this is my self.' He regards perception thus: 'This is mine, this I am, this is my self.' He regards formations thus: 'This is mine, this I am, this is my self.' He regards what is seen, heard, sensed, cognized, encountered, sought, mentally pondered thus: 'This is mine, this I am, this is my self. [^258] And this standpoint for views, namely, 'This is self, this the world; after death I shall be permanent, everlasting, eternal, not subject to change; [136] I shall endure as long as eternity' - this too he regards thus: 'This is mine, this I am, this is my self. [^259]
 
 16\. "Bhikkhus, a well-taught noble disciple who has regard for noble ones and is skilled and disciplined in their Dhamma, who has regard for true men and is skilled and disciplined in their Dhamma, regards material form thus: 'This is not mine, this I am not, this is not my self.' He regards feeling thus: 'This is not mine, this I am not, this is not my self.' He regards perception thus: 'This is not mine, this I am not, this is not my self.' He regards formations thus: 'This is not mine, this I am not, this is not my self.' He regards what is seen, heard, sensed, cognized,
 encountered, sought, mentally pondered thus: 'This is not mine, this I am not, this is not my self.' And this standpoint for views, namely, 'This is self, this the world; after death I shall be permanent, everlasting, eternal, not subject to change; I shall endure as long as eternity' - this too he regards thus: 'This is not mine, this I am not, this is not my self.'
 
-17\. "Since he regards them thus, he is not agitated about what is non-existent. ${ }^{\prime 260}$
+17\. "Since he regards them thus, he is not agitated about what is non-existent. [^260]
 
-## (AGITATION)
+<!--pg-->
+#### (AGITATION)
 
 18\. When this was said, a certain bhikkhu asked the Blessed One: "Venerable sir, can there be agitation about what is nonexistent externally?"
 
@@ -95,7 +100,8 @@ shall be no more!' Then he sorrows, grieves, and laments, he weeps beating his b
 
 "There can be, bhikkhu," the Blessed One said. "Here, bhikkhu, someone does not have the view: 'This is self...I shall endure as long as eternity.' He hears the Tathāgata or a disciple of the Tathāgata teaching the Dhamma for the elimination of all standpoints, decisions, obsessions, adherences, and underlying tendencies, for the stilling of all formations, for the relinquishing of all attachments, for the destruction of craving, for dispassion, for cessation, for Nibbāna. He does not think thus: 'So I shall be annihilated! So I shall perish! So I shall be no more!' Then he does not sorrow, grieve, and lament, he does not weep beating his breast and become distraught. That is how there is no agitation about what is non-existent internally.
 
-## (IMPERMANENCE AND NOT SELF)
+<!--pg-->
+#### (IMPERMANENCE AND NOT SELF)
 
 22\. "Bhikkhus, you may well acquire that possession that is permanent, everlasting, eternal, not subject to change, and that might endure as long as eternity. [^261] But do you see any such possession, bhikkhus?" - "No, venerable sir." - "Good, bhikkhus. I too do not see any possession that is permanent, everlasting, eternal, not subject to change, and that might endure as long as eternity.
 
@@ -117,7 +123,8 @@ shall be no more!' Then he sorrows, grieves, and laments, he weeps beating his b
 
 29\. "Being disenchanted, he becomes dispassionate. Through dispassion [his mind] is liberated. [^265] When it is liberated there comes the knowledge: 'It is liberated.' He understands: 'Birth is destroyed, the holy life has been lived, what had to be done has been done, there is no more coming to any state of being.'
 
-## (THE ARAHANT)
+<!--pg-->
+#### (THE ARAHANT)
 
 30\. "Bhikkhus, this bhikkhu is called one whose shaft has been lifted, whose trench has been filled in, whose pillar has been uprooted, one who has no bar, a noble one whose banner is lowered, whose burden is lowered, who is unfettered.
 
@@ -134,6 +141,7 @@ shall be no more!' Then he sorrows, grieves, and laments, he weeps beating his b
 36\. "Bhikkhus, when the gods with Indra, with Brahmā and with Pajāpati seek a bhikkhu who is thus liberated in mind, they do not find [anything of which they could say]: 'The consciousness
 of one thus gone is supported by this.' Why is that? One thus gone, I say, is untraceable here and now. [^266]
 
+<!--pg-->
 (MISREPRESENTATION OF THE TATHĀGATA)
 
 37\. "So saying, bhikkhus, so proclaiming, I have been baselessly, vainly, falsely, and wrongly misrepresented by some recluses and brahmins thus: 'The recluse Gotama is one who leads astray; he teaches the annihilation, the destruction, the extermination of an existing being. [^267] As I am not, as I do not proclaim, so have I been baselessly, vainly, falsely, and wrongly misrepresented by some recluses and brahmins thus: 'The recluse Gotama is one who leads astray; he teaches the annihilation, the destruction, the extermination of an existing being.'
@@ -142,7 +150,8 @@ of one thus gone is supported by this.' Why is that? One thus gone, I say, is un
 
 39\. "Therefore, bhikkhus, if others abuse, revile, scold, and harass you, on that account you should not entertain any annoyance, bitterness, or dejection of the heart. And if others honour, respect, revere, and venerate you, on that account you should not entertain any delight, joy, or elation of the heart. If others honour, respect, revere, and venerate you, on that account you should think thus: 'They perform such services as these for the sake of what had earlier come to be fully understood.'
 
-## (NOT YOURS)
+<!--pg-->
+#### (NOT YOURS)
 
 40\. "Therefore, bhikkhus, whatever is not yours, abandon it; when you have abandoned it, that will lead to your welfare and happiness for a long time. What is it that is not yours? Material form is not yours. Abandon it. When you have abandoned it, that will lead to your welfare and happiness for a long time.
 
@@ -150,7 +159,8 @@ Feeling is not yours. [141] Abandon it. When you have abandoned it, that will le
 
 41\. "Bhikkhus, what do you think? If people carried off the grass, sticks, branches, and leaves in this Jeta Grove, or burned them, or did what they liked with them, would you think: 'People are carrying us off or burning us or doing what they like with us'?" - "No, venerable sir. Why not? Because that is neither our self nor what belongs to our self." - "So too, bhikkhus, whatever is not yours, abandon it; when you have abandoned it, that will lead to your welfare and happiness for a long time. What is it that is not yours? Material form is not yours...Feeling is not yours...Perception is not yours...Formations are not yours...Consciousness is not yours. Abandon it. When you have abandoned it, that will lead to your welfare and happiness for a long time.
 
-## (IN THIS DHAMMA)
+<!--pg-->
+#### (IN THIS DHAMMA)
 
 42\. "Bhikkhus, the Dhamma well proclaimed by me thus is clear, open, evident, and free of patchwork. [^271] In the Dhamma well proclaimed by me thus, which is clear, open, evident, and free of patchwork, there is no [future] round for manifestation in the case of those bhikkhus who are arahants with taints destroyed, who have lived the holy life, done what had to be done, laid down the burden, reached the true goal, destroyed the fetters of being, and are completely liberated through final knowledge. [^272]
 

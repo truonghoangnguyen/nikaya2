@@ -72,7 +72,7 @@ and striving, become one [whose result] is to be experienced?' 'No, friend.'
 "So speak the Niganthas, bhikkhus. And because the Niganthas speak thus, these ten legitimate deductions from their assertions provide grounds for censuring them. Thus their exertion is fruitless, their striving is fruitless.
 
 23. "And how is exertion fruitful, bhikkhus, how is striving fruitful? Here, bhikkhus, a bhikkhu is not overwhelmed by suffering and does not overwhelm himself with suffering; and he does not give up the pleasure that accords with Dhamma, yet he
-is not infatuated with that pleasure. [^932] He knows thus: 'When I strive with determination, this particular source of suffering fades away in me because of that determined striving; and when I look on with equanimity, this particular source of suffering fades away in me while I develop equanimity. ${ }^{933} \mathrm{He}$ strives with determination in regard to that particular source of suffering which fades away in him because of that determined striving; and he develops equanimity in regard to that particular source of suffering which fades away in him while he is developing equanimity. When he strives with determination, such and such a source of suffering fades away in him because of that determined striving; thus that suffering is exhausted in him. When he looks on with equanimity, such and such a source of suffering fades away in him while he develops equanimity; thus that suffering is exhausted in him.
+is not infatuated with that pleasure. [^932] He knows thus: 'When I strive with determination, this particular source of suffering fades away in me because of that determined striving; and when I look on with equanimity, this particular source of suffering fades away in me while I develop equanimity. [^933] He strives with determination in regard to that particular source of suffering which fades away in him because of that determined striving; and he develops equanimity in regard to that particular source of suffering which fades away in him while he is developing equanimity. When he strives with determination, such and such a source of suffering fades away in him because of that determined striving; thus that suffering is exhausted in him. When he looks on with equanimity, such and such a source of suffering fades away in him while he develops equanimity; thus that suffering is exhausted in him.
 
 24. "Suppose, bhikkhus, a man loved a woman with his mind bound to her by intense desire and passion. He might see that woman standing with another man, chatting, joking, and laughing. What do you think, bhikkhus? Would not sorrow, lamentation, pain, grief, and despair arise in that man when he sees that woman standing with another man, chatting, joking, and laughing?"
 
@@ -89,7 +89,7 @@ and despair do not arise in him when he sees that woman standing with another ma
 
 28. "Suppose, bhikkhus, an arrowsmith were warming and heating an arrow shaft between two flames, making it straight and workable. When the arrow shaft had been warmed and heated between the two flames and had been made straight and workable, then at a later time he would not again warm and heat the arrow shaft and make it straight and workable. Why is that? The purpose for which that arrowsmith had warmed and heated the arrow and made it straight and workable has been achieved; that is why at a later time he would not again warm and heat the arrow shaft and make it straight and workable.
 
-29. "So too, a bhikkhu considers thus...(as in $ 27 above) [226]...that is why at a later time he does not exert himself in what is painful. Thus too, bhikkhus, the exertion is fruitful, the striving is fruitful.
+29. "So too, a bhikkhu considers thus...(as in §27 above) [226]...that is why at a later time he does not exert himself in what is painful. Thus too, bhikkhus, the exertion is fruitful, the striving is fruitful.
 
 30-37. "Again, bhikkhus, here a Tathāgata appears in the world, accomplished, fully enlightened...(as Sutta 51, §§12-19)... he purifies his mind from doubt.
 
@@ -140,11 +140,11 @@ That is what the Blessed One said. The bhikkhus were satisfied and delighted in 
 
 [^922]: This doctrine, which is here ascribed to the Jains, is also taken up for criticism by the Buddha at SN 36:21/ iv.230-31 and AN 3:61/i.173-74. The Buddha's teaching recognises the existence of feeling that is not the result of past action but a concomitant of present action, and also admits feeling that is neither kammically active nor kammic result.
 
-[^923]: From here until §5, "That being so...," also at MN 14.17-19. The statement of the Niganṭha Nātaputta, which at MN 14.17 introduces the Niganṭhas' position, here comes afterwards, at $ 10, as the Niganṭhas' justification for their assertion.
+[^923]: From here until §5, "That being so...," also at MN 14.17-19. The statement of the Niganṭha Nātaputta, which at MN 14.17 introduces the Niganṭhas' position, here comes afterwards, at §10, as the Niganṭhas' justification for their assertion.
 
 [^924]: As at MN 95.14.
 
-[^925]: It is not fitting for them to make that declaration because their "intense exertion," i.e., their ascetic practice, is the cause for their painful feelings, as the Buddha states in $ 15.
+[^925]: It is not fitting for them to make that declaration because their "intense exertion," i.e., their ascetic practice, is the cause for their painful feelings, as the Buddha states in §15.
 
 [^926]: This is a technical expression for an action that is to ripen in this present life.
 

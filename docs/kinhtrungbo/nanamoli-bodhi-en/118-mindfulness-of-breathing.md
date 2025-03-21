@@ -1,7 +1,7 @@
 # 118 Mindfulness of Breathing
 ***(Ānāpānasati Sutta)***
 
-## (INTRODUCTORY SECTION)
+#### (INTRODUCTORY SECTION)
 
 1\. Thus have I heard. On one occasion the Blessed One was living at Sāvatthī in the Eastern Park, in the Palace of Migāra's Mother, together with many very well-known elder disciples - the venerable Sāriputta, the venerable Mahā Moggallāna, the venerable Mahā Kassapa, the venerable Mahā Kaccāna, the venerable Mahā Kotṭhita, the venerable Mahā Kappina, the venerable Mahā Cunda, [79] the venerable Anuruddha, the venerable Revata, the venerable Ānanda, and other very well-known elder disciples.
 
@@ -33,7 +33,7 @@ world [81] to make an end of suffering - such bhikkhus are there in this Sangha 
 
 14\. "In this Sangha of bhikkhus there are bhikkhus who abide devoted to the development of loving-kindness [82]...of compassion...of appreciative joy...of equanimity...of the meditation on foulness... of the perception of impermanence - such bhikkhus are there in this Sangha of bhikkhus. In this Sangha of bhikkhus there are bhikkhus who abide devoted to the development of mindfulness of breathing.
 
-## (MINDFULNESS OF BREATHING)
+#### (MINDFULNESS OF BREATHING)
 
 15\. "Bhikkhus, when mindfulness of breathing is developed and cultivated, it is of great fruit and great benefit. When mindfulness of breathing is developed and cultivated, it fulfils the four foundations of mindfulness. When the four foundations of mindfulness are developed and cultivated, they fulfil the seven enlightenment factors. When the seven enlightenment factors are developed and cultivated, they fulfil true knowledge and deliverance.
 
@@ -45,7 +45,7 @@ world [81] to make an end of suffering - such bhikkhus are there in this Sangha 
 
 Breathing in short, he understands: 'I breathe in short'; or breathing out short, he understands: 'I breathe out short.' He trains thus: 'I shall breathe in experiencing the whole body [of breath]'; he trains thus: 'I shall breathe out experiencing the whole body [of breath].' He trains thus: 'I shall breathe in tranquillising the bodily formation'; he trains thus: 'I shall breathe out tranquillising the bodily formation.'
 
-19\. "He trains thus: 'I shall breathe in experiencing rapture'; he trains thus: 'I shall breathe out experiencing rapture. ${ }^{1118} \mathrm{He}$ trains thus: 'I shall breathe in experiencing pleasure'; [83] he trains thus: 'I shall breathe out experiencing pleasure.' He trains thus: 'I shall breathe in experiencing the mental formation'; he trains thus: 'I shall breathe out experiencing the mental formation.' He train thus: 'I shall breathe in tranquillising the mental formation'; he trains thus: 'I shall breathe out tranquillising the mental formation. [^1119]
+19\. "He trains thus: 'I shall breathe in experiencing rapture'; he trains thus: 'I shall breathe out experiencing rapture. [^1118] He trains thus: 'I shall breathe in experiencing pleasure'; [83] he trains thus: 'I shall breathe out experiencing pleasure.' He trains thus: 'I shall breathe in experiencing the mental formation'; he trains thus: 'I shall breathe out experiencing the mental formation.' He train thus: 'I shall breathe in tranquillising the mental formation'; he trains thus: 'I shall breathe out tranquillising the mental formation. [^1119]
 
 20\. "He trains thus: 'I shall breathe in experiencing the mind'; he trains thus: 'I shall breathe out experiencing the mind.' He trains thus: 'I shall breathe in gladdening the mind'; he trains thus: 'I shall breathe out gladdening the mind.' He trains thus: 'I shall breathe in concentrating the mind'; he trains thus: 'I shall breathe out concentrating the mind.' He trains thus: 'I shall breathe in liberating the mind'; he trains thus: 'I shall breathe out liberating the mind. [^1120]
 
@@ -68,7 +68,7 @@ bhikkhu abides contemplating mind as mind, ardent, fully aware, and mindful, hav
 
 28\. "Bhikkhus, that is how mindfulness of breathing, developed and cultivated, fulfils the four foundations of mindfulness.
 
-## (FULFILMENT OF THE SEVEN ENLIGHTENMENT FACTORS)
+#### (FULFILMENT OF THE SEVEN ENLIGHTENMENT FACTORS)
 
 29\. "And how, bhikkhus, do the four foundations of mindfulness, developed and cultivated, fulfil the seven enlightenment factors?
 
@@ -99,7 +99,7 @@ whatever occasion, abiding thus mindful, a bhikkhu investigates and examines tha
 
 41\. "And how, bhikkhus, do the seven enlightenment factors, developed and cultivated, fulfil true knowledge and deliverance?
 
-42\. "Here, bhikkhus, a bhikkhu develops the mindfulness enlightenment factor, which is supported by seclusion, dispassion, and cessation, and ripens in relinquishment. ${ }^{1127} \mathrm{He}$ develops the investigation-of-states enlightenment factor...the energy enlightenment factor...the rapture enlightenment factor...the tranquillity enlightenment factor...the concentration enlightenment factor...the equanimity enlightenment factor, which is supported by seclusion, dispassion, and cessation, and ripens in relinquishment.
+42\. "Here, bhikkhus, a bhikkhu develops the mindfulness enlightenment factor, which is supported by seclusion, dispassion, and cessation, and ripens in relinquishment. [^1127] He develops the investigation-of-states enlightenment factor...the energy enlightenment factor...the rapture enlightenment factor...the tranquillity enlightenment factor...the concentration enlightenment factor...the equanimity enlightenment factor, which is supported by seclusion, dispassion, and cessation, and ripens in relinquishment.
 
 43\. "Bhikkhus, that is how the seven enlightenment factors, developed and cultivated, fulfil true knowledge and deliverance."1128
 

@@ -194,7 +194,7 @@ Vedas to Indra, Agni, etc., as the highest of the Vedic divinities. But accordin
 
 15 Abhibhū. MA says this term is a designation for the nonpercipient realm, called thus because it vanquishes (abhibhavati) the four immaterial aggregates. The identification sounds contrived, especially because the word "abhibh ū " is a masculine singular noun. Elsewhere (MN 49.5) the word appears as part of Baka the Brahmā's claim to theocratic hegemony, yet MA rejects identifying the Abhibhū with Brahmā here as a redundancy.
 
-16 This and the next three sections deal with conceiving in relation to the four immaterial planes of existence - the cosmological counterparts of the four immaterial meditative attainments. With $ 18 the division of conceiving by way of planes of existence is completed.
+16 This and the next three sections deal with conceiving in relation to the four immaterial planes of existence - the cosmological counterparts of the four immaterial meditative attainments. With §18 the division of conceiving by way of planes of existence is completed.
 
 17 In these four sections the phenomena comprising personality are considered as objects of perception classified into the four categories of the seen, heard, sensed, and cognized. Here, sensed (muta) signifies the data of smell, taste, and touch, cognized (viññāta) the data of introspection, abstract thought, and imagination. The objects of perception are "conceived" when they are cognized in terms of "mine," "I," and "self," or in ways that generate craving, conceit, and views.
 
@@ -232,7 +232,7 @@ alike in abandoning all defilements, there is a distinction in their range of fu
 SUTTA 2
 
 32 The taints (äsava), a category of defilements existing at
-the deepest and most fundamental level, are discussed in the Introduction, p. 38. MA explains that restraint (samivara) is fivefold: through virtue, mindfulness, knowledge, energy, and patience. In the present sutta, restraint through virtue is illustrated by avoiding unsuitable seats and resorts ( $ 19 ); restraint through mindfulness, by restraining the sense faculties ( $ 12 ); restraint through knowledge, by the repeated phrase "reflecting wisely"; restraint through energy, by the removing of unwholesome thoughts ( $ 20 ); and restraint through patience, by the passage on enduring ( $ 18 ).
+the deepest and most fundamental level, are discussed in the Introduction, p. 38. MA explains that restraint (samivara) is fivefold: through virtue, mindfulness, knowledge, energy, and patience. In the present sutta, restraint through virtue is illustrated by avoiding unsuitable seats and resorts ( §19 ); restraint through mindfulness, by restraining the sense faculties ( §12 ); restraint through knowledge, by the repeated phrase "reflecting wisely"; restraint through energy, by the removing of unwholesome thoughts ( §20 ); and restraint through patience, by the passage on enduring ( §18 ).
 
 33 Wise attention (yoniso manasikāra) is glossed as attention that is the right means (upaya), on the right track (patha). It is explained as mental advertence, consideration, or preoccupation that accords with the truth, namely, attention to the impermanent as impermanent, etc. Unwise attention (ayoniso manasikāra) is attention that is the wrong means, on the wrong track (uppatha), contrary to the truth, namely, attention to the impermanent as permanent, the painful as pleasurable, what is not self as self, and what is foul as beautiful. Unwise attention, MA informs us, is at the root of the round of existence, for it causes ignorance and craving to increase; wise attention is at the root of liberation from the round, since it leads to the development of the Noble Eightfold Path. MA sums up the point of this passage thus: the destruction of the taints is for one who knows how to arouse wise attention and who sees to it that unwise attention does not arise.
 
@@ -241,11 +241,11 @@ the deepest and most fundamental level, are discussed in the Introduction, p. 38
 35 The word "seeing" (dassana) here refers to the first of the four supramundane paths - the path of stream-entry (sotapattimagga) - so designated because it offers the first glimpse of Nibbāna. The higher three paths are called the paths of development (bhāvanā) because they develop the vision of Nibbāna to the point at which all defilements are eradicated.
 
 36 MA makes the important point that there is no fixed determination in things themselves as to whether they
-are fit or unfit for attention. The distinction consists, rather, in the mode of attention. That mode of attention that is a causal basis for unwholesome states of mind should be avoided, while that mode of attention that is a causal basis for wholesome states should be developed. This same principle applies to $ 9.
+are fit or unfit for attention. The distinction consists, rather, in the mode of attention. That mode of attention that is a causal basis for unwholesome states of mind should be avoided, while that mode of attention that is a causal basis for wholesome states should be developed. This same principle applies to §9.
 
 37 MA illustrates the growth of the taints through unwise attention as follows: When he attends to gratification in the five cords of sensual pleasure, the taint of sensual desire arises and increases; when he attends to gratification in the exalted states (the jhānas), the taint of being arises and increases; and when he attends to any mundane things through the four "perversions" (of permanence, etc. - see n.5), the taint of ignorance arises and increases.
 
-38 According to MA, this passage is undertaken to show the taint of views (dittthāsava, not expressly mentioned in the discourse) under the heading of doubt. However, it might be more correct to say that the taint of views, disclosed by $ 8, emerges out of unwise attention in the form of doubt. The various types of doubt are already pregnant with the wrong views that will come to explicit expression in the next section.
+38 According to MA, this passage is undertaken to show the taint of views (dittthāsava, not expressly mentioned in the discourse) under the heading of doubt. However, it might be more correct to say that the taint of views, disclosed by §8, emerges out of unwise attention in the form of doubt. The various types of doubt are already pregnant with the wrong views that will come to explicit expression in the next section.
 
 39 Of these six views, the first two represent the simple antinomy of eternalism and annihilationism; the view that "no self exists for me" is not the non-self doctrine of the Buddha, but the materialist view that identifies the individual with the body and thus holds that there is no personal continuity beyond death. The next three views may be understood to arise out of the philosophically more sophisticated observation that experience has a builtin reflexive structure that allows for self-consciousness, the capacity of the mind to become cognizant of itself, its contents, and the body with which it is inter-connected. Engaged in a search for his "true nature," the untaught ordinary person will identify self either with both aspects of the experience (view 3), or with the observer alone (view 4), or with the observed alone (view 5). The last view is a full-blown version of eternalism in which all reservations have been discarded.
 
@@ -283,7 +283,7 @@ SUTTA 3
 
 53 Elder bhikkhus (thera) are those with more than ten rainy seasons since ordination (upasampadā); middle bhikkhus have between five and nine rains; new bhikkhus less than five rains.
 
-54 The evil qualities mentioned here, and in the sections that follow, are introduced to show the states referred to above (\$6) by the statement: "They do not abandon what the Teacher tells them to abandon." They are also the factors that induce a bhikkhu to become an heir of material things rather than an heir of Dhamma. In MN 7.3 the same sixteen qualities, with "ill will" substituted for "hate," are referred to as "the imperfections that defile the mind" (cittass' upakkilesā).
+54 The evil qualities mentioned here, and in the sections that follow, are introduced to show the states referred to above (\§6) by the statement: "They do not abandon what the Teacher tells them to abandon." They are also the factors that induce a bhikkhu to become an heir of material things rather than an heir of Dhamma. In MN 7.3 the same sixteen qualities, with "ill will" substituted for "hate," are referred to as "the imperfections that defile the mind" (cittass' upakkilesā).
 
 55 The Noble Eightfold Path is introduced here to show the practice that makes one an "heir in Dhamma." The antithesis between the defilements and the path restates, from a new angle, the contrast between "heirs in material things" and "heirs in Dhamma" with which the Buddha had opened the sutta.
 
@@ -326,7 +326,7 @@ SUTTA 5
 
 71 These are strict ascetic practices. The forest dweller, almsfood eater, house-to-house seeker and refuse-rag wearer are explained in Vsm II.
 
-72 These are "softer" practices than those referred to in $ 29, generally regarded as signs of a less earnest commitment to exertion for the sake of the goal.
+72 These are "softer" practices than those referred to in §29, generally regarded as signs of a less earnest commitment to exertion for the sake of the goal.
 
 73 The Ājīvakas, or Ājīvikas, were a rival sect whose teaching emphasised severe austerities based on a philosophy
 bordering on fatalism. See Basham, History and Doctrines of the Äj̈vikas.
@@ -350,7 +350,7 @@ resorts to an empty hut to develop serenity and insight.
 
 81 In addition to the first three fetters, the non-returner destroys the other two "lower fetters" of sensual desire and ill will. The non-returner is reborn in a special region of the Brahma-world called the Pure Abodes, and there makes an end of suffering.
 
-$82 \S \S 14-19$ present the six kinds of direct knowledge (abhiñña). See Introduction, p. 37; for details, see Vsm XII and XIII.
+§82 \S \S 14-19$ present the six kinds of direct knowledge (abhiñña). See Introduction, p. 37; for details, see Vsm XII and XIII.
 
 83 MA: In this passage "mind" and "wisdom" signify, respectively, the concentration and wisdom associated with the fruit of arahantship. Concentration is called "deliverance of mind" (cetovimutti) because it is liberated from lust; wisdom is called "deliverance by wisdom" (paññāvimutti) because it is liberated from ignorance. The former is normally the result of serenity, the latter the result of insight. But when they are coupled and described as taintless (anāsava), they jointly result from the destruction of the taints by the supramundane path of arahantship.
 
@@ -464,7 +464,7 @@ Introduction, pp. 30-31. The detailed exegesis is in Vsm XVII. Here each factor 
 
 122 This refers to the five aggregates. See MN 10.38 and MN 44.2.
 
-123 The six bases for contact are enumerated at $\$ 50$ below.
+123 The six bases for contact are enumerated at $\§50$ below.
 
 124 The three kinds of being are explained in the Introduction, pp. 46-48, in the discussion of Buddhist cosmology. Here, by "being" should be understood both the actual planes of rebirth and the types of kamma that generate rebirth into those planes.
 
@@ -499,7 +499,7 @@ the Sanskrit sm_tyupasthāna), but the Pali commentators, while admitting both e
 
 137 MA says that in this context, "bhikkhu" is a term indicating a person who earnestly endeavours to accomplish the practice of the teaching: "Whoever undertakes that practice...is here comprised under the term 'bhikkhu.'"
 
-138 The repetition in the phrase "contemplating the body as a body" (käye käyänupassī), according to MA, has the purpose of precisely determining the object of contemplation and of isolating that object from others with which it might be confused. Thus, in this practice, the body should be contemplated as such, and not one's feelings, ideas, and emotions concerning it. The phrase also means that the body should be contemplated simply as a body and not as a man, a woman, a self, or a living being. Similar considerations apply to the repetitions in the case of each of the other three foundations of mindfulness. "Covetousness and grief," MA says, stands for sensual desire and ill will, the principal hindrances that must be overcome for the practice to succeed, enumerated separately below in $ 36.
+138 The repetition in the phrase "contemplating the body as a body" (käye käyänupassī), according to MA, has the purpose of precisely determining the object of contemplation and of isolating that object from others with which it might be confused. Thus, in this practice, the body should be contemplated as such, and not one's feelings, ideas, and emotions concerning it. The phrase also means that the body should be contemplated simply as a body and not as a man, a woman, a self, or a living being. Similar considerations apply to the repetitions in the case of each of the other three foundations of mindfulness. "Covetousness and grief," MA says, stands for sensual desire and ill will, the principal hindrances that must be overcome for the practice to succeed, enumerated separately below in §36.
 
 139 The structure of this sutta is fairly simple. Following the preamble, the body of the discourse falls into four parts by way of the four foundations of mindfulness:
 
@@ -555,7 +555,7 @@ as those for the body except that food is replaced by mentality-materiality, sin
 
 157 The word rendered here as "mind-objects" is the polymorphous dhammā. In this context dhammā can be understood as comprising all phenomena classified by way of the categories of the Dhamma, the Buddha's teaching of actuality. This contemplation reaches its climax in the penetration of the teaching at the heart of the Dhamma the Four Noble Truths.
 
-158 The five hindrances (pañcanīvaraṇā) are the main inner impediments to the development of concentration and insight. Sensual desire arises through attending unwisely to a sensually attractive object and is abandoned by meditation on a foul object (as in $ 10 and $\S \S 14-30$ ); ill will arises through attending unwisely to a repugnant object and is abandoned by developing loving-kindness; sloth and torpor arise by submitting to boredom and laziness and are abandoned by arousing energy; restlessness and remorse arise through unwisely reflecting on disturbing thoughts and are abandoned by wisely reflecting on tranquillity; doubt arises through unwisely reflecting on dubious matters and is abandoned by study, investigation, and inquiry. The hindrances are fully eradicated only by the supramundane paths. For a fuller treatment, see The Way of Mindfulness, pp. 119-130; Nyanaponika Thera, The Five Mental Hindrances; and also below, MN 27.18 and MN 39.13-14.
+158 The five hindrances (pañcanīvaraṇā) are the main inner impediments to the development of concentration and insight. Sensual desire arises through attending unwisely to a sensually attractive object and is abandoned by meditation on a foul object (as in §10 and $\S \S 14-30$ ); ill will arises through attending unwisely to a repugnant object and is abandoned by developing loving-kindness; sloth and torpor arise by submitting to boredom and laziness and are abandoned by arousing energy; restlessness and remorse arise through unwisely reflecting on disturbing thoughts and are abandoned by wisely reflecting on tranquillity; doubt arises through unwisely reflecting on dubious matters and is abandoned by study, investigation, and inquiry. The hindrances are fully eradicated only by the supramundane paths. For a fuller treatment, see The Way of Mindfulness, pp. 119-130; Nyanaponika Thera, The Five Mental Hindrances; and also below, MN 27.18 and MN 39.13-14.
 
 159 The five aggregates affected by clinging (pañc'upādānakkhandhā) are the five groups of factors comprising the individual personality. The aggregates are discussed in the Introduction, p. 26, and are analysed and explained in terms of their origin and disappearance at MN 109.9.
 
@@ -610,7 +610,7 @@ sition of miraculous powers.
 
 181 On the Buddha's sounding of his lion's roar, see SN 22:78/iii.84-86. The Wheel of Brahmā is the supreme, best, most excellent wheel, the Wheel of the Dhamma (dhammacakka) in its twofold meaning: the knowledge penetrating the truth and the knowledge of how to expound the teaching (MA).
 
-182 Vbh $ 809 explicates this knowledge by quoting at length MN 115.12-17. MA, however, explains it differently as the knowledge of the correlations between causes and their results.
+182 Vbh §809 explicates this knowledge by quoting at length MN 115.12-17. MA, however, explains it differently as the knowledge of the correlations between causes and their results.
 
 183 This knowledge can be exemplified by the Buddha's analysis of kamma in MN 57, MN 135 and MN 136.
 
@@ -618,11 +618,11 @@ sition of miraculous powers.
 
 185 The Tathāgata's understanding of the many elements constituting the world will be found in MN 115.4-9.
 
-186 Vbh $ 813 explains that the Tathāgata understands that beings are of inferior inclinations and superior inclinations, and that they gravitate towards those who share their own inclinations.
+186 Vbh §813 explains that the Tathāgata understands that beings are of inferior inclinations and superior inclinations, and that they gravitate towards those who share their own inclinations.
 
 187 Vbh $\S \S 814-27$ gives a detailed analysis. MA states the meaning more concisely as the Tathāgata's knowledge of the superiority and inferiority of beings' faculties of faith, energy, mindfulness, concentration, and wisdom.
 
-188 Vbh $ 828 : The "defilement" (sankilesa) is a state causing deterioration, "cleansing" (vodāna) a state causing excellence, "emergence" (vutṭhāna) is both cleansing and the rising out of an attainment. The eight liberations (vimokkha $\bar{a}$ ) are enumerated in MN 77.22 and MN 137.26; the nine attainments (samäpatti) are the four jhānas, four immaterial attainments, and the cessation of perception
+188 Vbh §828 : The "defilement" (sankilesa) is a state causing deterioration, "cleansing" (vodāna) a state causing excellence, "emergence" (vutṭhāna) is both cleansing and the rising out of an attainment. The eight liberations (vimokkha $\bar{a}$ ) are enumerated in MN 77.22 and MN 137.26; the nine attainments (samäpatti) are the four jhānas, four immaterial attainments, and the cessation of perception
 and feeling as in MN 25.12-20.
 
 189 The idiom yathäbhatam̉ nikkhitto evam̉ niraye is knotty; the rendering here follows the commentary: "He will be put in hell as if carried off and put there by the wardens of hell."
@@ -724,7 +724,7 @@ SUTTA 18
 226 Daṇḍapāni, whose name means "stick-in-hand," was so called because he used to walk around ostentatiously with a golden walking stick, even though he was still young and healthy. According to MA, he sided with Devadatta, the Buddha's arch foe, when the latter attempted to create a schism in the Buddha's following. His manner of asking the question is arrogant and deliberately provocative.
 
 227 The first part of the Buddha's reply directly counters Daṇḍapāni's aggressive attitude. MA quotes in this connection SN 22:94/iii.138: "Bhikkhus, I do not dispute with the world, it is the world that disputes with me. A speaker of Dhamma does not dispute with anyone in the world." The second part may be taken to mean that, for the arahant (spoken of here as "that brahmin" with reference to the Buddha himself), perceptions no longer awaken the dormant underlying tendencies to defile-
-ments, to be enumerated in $ 8.
+ments, to be enumerated in §8.
 
 228 This response seems to be an expression of frustration and bewilderment.
 
@@ -739,10 +739,10 @@ tion is itself "the source through which perceptions and notions tinged by menta
 
 231 Cakkhubhūto ñānabhūto dhammabhūto brahmabhūto. MA: He is vision in the sense that he is the leader in vision; he is knowledge in the sense that he makes things known; he is the Dhamma in the sense that he consists of the Dhamma that he utters verbally after considering it in his heart; he is Brahmā, the holy one, in the sense of the best.
 
-232 This passage shows how papañca, emerging from the process of cognition, gives rise to perceptions and notions that overwhelm and victimise their hapless creator. Ms contains a note by $\overline{\mathrm{N}} \mathrm{m}$ : "The meeting of eye, form, and eye-consciousness is called contact. Contact, according to dependent origination, is the principal condition of feeling. Feeling and perception are inseparable (MN 43.9). What is perceived as 'this' is thought about in its differences and is thus diversified from 'that' and from 'me.' This diversification - involving craving for form, wrong view about permanence of form, etc., and the conceit 'I am' - leads to preoccupation with calculating the desirability of past and present forms with a view to obtaining desirable forms in the future." Perhaps the key to the interpretation of this passage is Ven. Mahā Kaccāna's explanation of the Bhaddekaratta verses in MN 133. There too delight in the elements of cognition plays a prominent role in causing bondage, and the elaboration of the verses in terms of the three periods of time links up with the reference to the three times in this sutta.
+232 This passage shows how papañca, emerging from the process of cognition, gives rise to perceptions and notions that overwhelm and victimise their hapless creator. Ms contains a note by Ñm : "The meeting of eye, form, and eye-consciousness is called contact. Contact, according to dependent origination, is the principal condition of feeling. Feeling and perception are inseparable (MN 43.9). What is perceived as 'this' is thought about in its differences and is thus diversified from 'that' and from 'me.' This diversification - involving craving for form, wrong view about permanence of form, etc., and the conceit 'I am' - leads to preoccupation with calculating the desirability of past and present forms with a view to obtaining desirable forms in the future." Perhaps the key to the interpretation of this passage is Ven. Mahā Kaccāna's explanation of the Bhaddekaratta verses in MN 133. There too delight in the elements of cognition plays a prominent role in causing bondage, and the elaboration of the verses in terms of the three periods of time links up with the reference to the three times in this sutta.
 
 233 The Pali idiom phassapañāattim paññāpessati, in which the verb takes an object derived from itself, is difficult. $\overline{N m}$ originally rendered "that one will describe a description of contact." "To point out a manifestation" is less literal,
-but it should do justice to the meaning without jeopardising intelligibility. MA says that this passage is intended to show the entire round of existence (vatiṭa) by way of the twelve sense bases; $ 18 shows the cessation of the round (vivaṭta) by the negation of the twelve sense bases.
+but it should do justice to the meaning without jeopardising intelligibility. MA says that this passage is intended to show the entire round of existence (vatiṭa) by way of the twelve sense bases; §18 shows the cessation of the round (vivaṭta) by the negation of the twelve sense bases.
 
 234 A large sweet cake or a ball made from flour, ghee, molasses, honey, sugar, etc. See also AN 5:194/iii. 237.
 
@@ -807,11 +807,11 @@ SUTTA 22
 
 259 This is a full-fledged eternalist view arisen on the basis of one of the earlier, more rudimentary types of personality view; here it becomes itself an object of craving, conceit, and the false view of self. Ven. Nyanaponika contends that this view expresses the identity of the self with the universe, though this interpretation is purely hypothetical as the Pali is ambiguous and could just as well be pointing to a fundamental dualism of self and world along the lines of Sānkhya philosophy with its distinction between changeable Nature (prak, $t i$ ) and changeless Spirit (puru"a)
 
-260 Asati na paritassati. The noun form paritassana, according to MA, has the twofold connotation of fear and craving, thus "agitation" was chosen as comprehending both. Agitation about what is non-existent externally ( $ 18 ) refers to the worldling's despair over the loss or nonacquisition of possessions; agitation about what is nonexistent internally ( $ 20 ) to the eternalist's despair when he misinterprets the Buddha's teaching on Nibbāna as a doctrine of annihilation.
+260 Asati na paritassati. The noun form paritassana, according to MA, has the twofold connotation of fear and craving, thus "agitation" was chosen as comprehending both. Agitation about what is non-existent externally ( §18 ) refers to the worldling's despair over the loss or nonacquisition of possessions; agitation about what is nonexistent internally ( §20 ) to the eternalist's despair when he misinterprets the Buddha's teaching on Nibbāna as a doctrine of annihilation.
 
-261 Pariggaham pariganheyyätha, lit. "you may possess that possession." This links up with $ 18 on agitation about external possessions.
+261 Pariggaham pariganheyyätha, lit. "you may possess that possession." This links up with §18 on agitation about external possessions.
 
-262 Attavādupädānañ upā̄liyetha, lit. "you may cling to that clinging to a doctrine of self." On the problem this idiom involves for translation, see n.176. This passage links up with $ 20 on agitation arising from a view of self.
+262 Attavādupädānañ upā̄liyetha, lit. "you may cling to that clinging to a doctrine of self." On the problem this idiom involves for translation, see n.176. This passage links up with §20 on agitation arising from a view of self.
 
 263 The support of views (dithhinissaya), according to MA, is the sixty-two views mentioned in the Brahmajāla Sutta (DN 1), which emerge from personality view or "doctrine of a self." It might also include the pernicious view
 adopted by Arittha at the beginning of the sutta.
@@ -822,9 +822,9 @@ adopted by Arittha at the beginning of the sutta.
 
 266 "Thus gone" is, in Pali, tathägata, the usual epithet of the Buddha, but here applied more broadly to the arahant. MA interprets this passage in two alternative ways thus: (1) The arahant even while alive is here and now untraceable as a being or individual (in the sense of an abiding self) because in the ultimate sense there is no being (as self). (2) The arahant is untraceable here and now because it is impossible for the gods, etc., to find the support for his insight-mind, path-mind, or fruition-mind (vipassanācitta, maggacitta, phalacitta); that is, the object being Nibbāna, his mind cannot be known by the worldling.
 
-267 This refers back to $ 20, where the eternalist misunderstands the Buddha's teaching on Nibbāna, the cessation of being, to involve the annihilation of an existing being considered as self.
+267 This refers back to §20, where the eternalist misunderstands the Buddha's teaching on Nibbāna, the cessation of being, to involve the annihilation of an existing being considered as self.
 
-268 The import of this statement is deeper than appears on the surface. In the context of the false accusations of $ 37, the Buddha is stating that he teaches that a living being is not a self but a mere conglomeration of factors, material and mental events, linked together in a process that is inherently dukkha, and that Nibbāna, the cessation of suffering, is not the annihilation of a being but the termination of that same unsatisfactory process. This statement should be read in conjunction with SN 12:15/ii.17, where the Buddha says that one with right view, who
+268 The import of this statement is deeper than appears on the surface. In the context of the false accusations of §37, the Buddha is stating that he teaches that a living being is not a self but a mere conglomeration of factors, material and mental events, linked together in a process that is inherently dukkha, and that Nibbāna, the cessation of suffering, is not the annihilation of a being but the termination of that same unsatisfactory process. This statement should be read in conjunction with SN 12:15/ii.17, where the Buddha says that one with right view, who
 has discarded all doctrines of a self, sees that whatever arises is only dukkha arising, and whatever ceases is only dukkha ceasing.
 
 269 "What had earlier come to be fully understood" (pubbe pariñ̃āatam) are the five aggregates. Since it is only these to which honour and abuse are shown, not an "I" or self, there is no reason for elation or dejection.
@@ -843,7 +843,7 @@ SUTTA 23
 
 275 Ven. Kumāra Kassapa was an adopted son of King Pasenadi of Kosala, born of a woman who, not knowing she was pregnant, had gone forth as a bhikkhuni after having conceived him. At the time this sutta was delivered he was still a sekha; he attained arahantship using this sutta as his subject of meditation.
 
-276 According to MA, this deity was a non-returner living in the Pure Abodes. He and Kumāra Kassapa had been members of a group of five fellow monks who, in the Dispensation of the previous Buddha Kassapa, had practised meditation together on a mountain-top. It was this same deity who spurred Bāhiya Dāruciriya, another former member of the group, to visit the Buddha (see Ud $1: 10 / 7$ ).
+276 According to MA, this deity was a non-returner living in the Pure Abodes. He and Kumāra Kassapa had been members of a group of five fellow monks who, in the Dispensation of the previous Buddha Kassapa, had practised meditation together on a mountain-top. It was this same deity who spurred Bāhiya Dāruciriya, another former member of the group, to visit the Buddha (see Ud §1: 10 / 7$ ).
 
 277 The meaning of the deities' imagery will be explained later on in the sutta itself.
 
@@ -968,8 +968,8 @@ SUTTA 28
 
 327 This discourse has been published separately with introduction and notes by Nyanaponika Thera, The Greater Discourse on the Elephant-Footprint Simile.
 
-328 The structure of this discourse may be outlined as follows: Ven. Sāriputta first enumerates the Four Noble Truths ( $ 2 ). He then takes up the truth of suffering for analysis into its various aspects ( $ 3 ). From among these, he selects the last and enumerates the five aggregates affected by clinging ( $ 4 ). He next selects the first aggregate, that of material form ( $ 5 ). Taking up each of the great elements in turn, he shows it as having two aspects - internal and external - the former being selected for detailed analysis, the latter only briefly mentioned for the sake of completeness and comparison (e.g., $\S \S 6-7$ ). Each of the elements is expounded as a basis for insight meditation as well as for developing patience, faith, and equanimity (e.g., $\S \S 8-10$ ). Having finished examining the elements, Ven. Sāriputta next takes up the aspects of the Four Noble Truths he earlier had put aside. He introduces derivative material form by way of the sense faculties and their objects ( $ 27, etc.), then he relates this to
-the other four aggregates of the first noble truth, and finally he sets this whole complex of ideas in relation to the other three noble truths ( $ 28, etc.).
+328 The structure of this discourse may be outlined as follows: Ven. Sāriputta first enumerates the Four Noble Truths ( §2 ). He then takes up the truth of suffering for analysis into its various aspects ( §3 ). From among these, he selects the last and enumerates the five aggregates affected by clinging ( §4 ). He next selects the first aggregate, that of material form ( §5 ). Taking up each of the great elements in turn, he shows it as having two aspects - internal and external - the former being selected for detailed analysis, the latter only briefly mentioned for the sake of completeness and comparison (e.g., $\S \S 6-7$ ). Each of the elements is expounded as a basis for insight meditation as well as for developing patience, faith, and equanimity (e.g., $\S \S 8-10$ ). Having finished examining the elements, Ven. Sāriputta next takes up the aspects of the Four Noble Truths he earlier had put aside. He introduces derivative material form by way of the sense faculties and their objects ( §27, etc.), then he relates this to
+the other four aggregates of the first noble truth, and finally he sets this whole complex of ideas in relation to the other three noble truths ( §28, etc.).
 
 329 Upādinna, "clung-to," is used in the Abhidhamma as a technical term applicable to bodily phenomena that are produced by kamma. Here, however, it is used in a more general sense as applicable to the entire body insofar as it is grasped as "mine" and misapprehended as a self. The phrase "whatever else" is intended to include the earth element comprised in those parts of the body not included in the above enumeration. According to the Abhidhamma analysis of matter, the four primary elements are inseparable, and thus each element is also included, though in a subordinate role, in the bodily phenomena listed under the other three elements.
 
@@ -1026,8 +1026,8 @@ SUTTA 30
 
 352 It is this sentence, used in place of the sentence beginning "He becomes intoxicated...," that distinguishes these passages of this sutta from the corresponding passages of the preceding sutta.
 
-353 Although the jhānas may also have been included in the attainment of concentration set forth in $ 10, and knowl-
-edge and vision was described as higher than the attainment of concentration, the jhānas now become higher than knowledge and vision because they are being treated as the basis for the attainment of cessation and the destruction of the taints (in $ 21 ).
+353 Although the jhānas may also have been included in the attainment of concentration set forth in §10, and knowl-
+edge and vision was described as higher than the attainment of concentration, the jhānas now become higher than knowledge and vision because they are being treated as the basis for the attainment of cessation and the destruction of the taints (in §21 ).
 
 SUTTA 31
 
@@ -1087,7 +1087,7 @@ the discussion below he is referred to by his clan name, Aggivessana.
 
 376 The text between the asterisks is absent from the PTS ed. but is supplied from the BBS and SBJ eds. The five aggregates are here called suffering because they are impermanent and not susceptible to the exercise of mastery.
 
-377 These are the characteristics of a sekha. The arahant, in contrast, not only possesses the right view of non-self, but has used it to eradicate all clinging, as the Buddha will explain in $ 25.
+377 These are the characteristics of a sekha. The arahant, in contrast, not only possesses the right view of non-self, but has used it to eradicate all clinging, as the Buddha will explain in §25.
 
 378 MA gives several alternative explanations of these three terms. They are mundane and supramundane wisdom, practice, and deliverance. Or they are entirely supramundane: the first is the right view of the path of arahantship, the second the remaining seven path factors, the third the supreme fruit (of arahantship). Or the first is the vision of
 
@@ -1097,11 +1097,11 @@ Nibbāna, the second the path factors, the third the supreme fruit.
 
 SUTTA 36
 
-380 MA: Saccaka approached with the intention of refuting the Buddha's doctrine, which he failed to do in his earlier encounter with the Buddha (in MN 35). But this time he came alone, thinking that if he were to suffer defeat no one would know about it. He intended to refute the Buddha with his question about sleeping during the day, which he does not ask until close to the end of the sutta ( $ 45 ).
+380 MA: Saccaka approached with the intention of refuting the Buddha's doctrine, which he failed to do in his earlier encounter with the Buddha (in MN 35). But this time he came alone, thinking that if he were to suffer defeat no one would know about it. He intended to refute the Buddha with his question about sleeping during the day, which he does not ask until close to the end of the sutta ( §45 ).
 
 381 MA: Ānanda says this out of compassion for Saccaka, thinking that if he gets to see the Buddha and to hear the Dhamma, it will lead to his welfare and happiness for a long time.
 
-382 It will become clear from $ 5 that Saccaka identifies "development of body" (käyabhāvanā) with the practice of self-mortification. Because he does not see the Buddhist bhikkhus engaged in self-mortification, he maintains that they do not pursue development of the body. But the Buddha (according to MA) understands "development of body" as insight meditation, "development of mind" (cittabhāvanā) as serenity meditation.
+382 It will become clear from §5 that Saccaka identifies "development of body" (käyabhāvanā) with the practice of self-mortification. Because he does not see the Buddhist bhikkhus engaged in self-mortification, he maintains that they do not pursue development of the body. But the Buddha (according to MA) understands "development of body" as insight meditation, "development of mind" (cittabhāvanā) as serenity meditation.
 
 383 These are the three mentors of the Ājivakas; the last was a contemporary of the Buddha, the former two are near legendary figures whose identities remain obscure. The
 
@@ -1111,18 +1111,18 @@ Bodhisatta had adopted their practices during his period of asceticism - see MN 
 
 385 Now the Buddha will answer Saccaka's questions by showing first the extremely painful feelings he experienced during his course of ascetic practices, and thereafter the extremely pleasant feelings he experienced during his meditative attainments preceding his enlightenment.
 
-386 The PTS ed. is certainly mistaken in reading here avūpakaṭtho, "not withdrawn." $\overline{\mathrm{N}} \mathrm{m}$ in Ms had translated this sentence from a reading which omitted cittena, "and mentally." This translation follows the BBS ed., which includes cittena. Although it may seem contradictory to say that those, recluses and brahmins live mentally withdrawn from sensual pleasures yet still have not abandoned sensual desire, if we understand kāma here as physical objects productive of sensual pleasure the contradiction will be resolved.
+386 The PTS ed. is certainly mistaken in reading here avūpakaṭtho, "not withdrawn." Ñm in Ms had translated this sentence from a reading which omitted cittena, "and mentally." This translation follows the BBS ed., which includes cittena. Although it may seem contradictory to say that those, recluses and brahmins live mentally withdrawn from sensual pleasures yet still have not abandoned sensual desire, if we understand kāma here as physical objects productive of sensual pleasure the contradiction will be resolved.
 
 387 In this connection MA raises the question: Why did the Bodhisatta undertake the practice of austerities if he could have attained Buddhahood without doing so? It answers: He did so, first, in order to show his own exertion to the world, because the quality of invincible energy gave him joy; and second, out of compassion for later generations, by inspiring them to strive with the same determination that he applied to the attainment of enlightenment.
 
-388 This sentence, repeated at the end of each of the following sections as well, answers the second of the two questions posed by Saccaka in $ 11.
+388 This sentence, repeated at the end of each of the following sections as well, answers the second of the two questions posed by Saccaka in §11.
 
 389 MA: During the Bodhisatta's boyhood as a prince, on one
 occasion his father led a ceremonial ploughing at a traditional festival of the Sakyans. The prince was brought to the festival and a place was prepared for him under a rose-apple tree. When his attendants left him to watch the ploughing ceremony, the prince, finding himself all alone, spontaneously sat up in the meditation posture and attained the first jhāna through mindfulness of breathing. When the attendants returned and found the boy seated in meditation, they reported this to the king, who came and bowed down in veneration to his son.
 
 390 This passage marks a change in the Bodhisatta's evaluation of pleasure; now it is no longer regarded as something to be feared and banished by the practice of austerities, but, when born of seclusion and detachment, is seen as a valuable accompaniment of the higher stages along the path to enlightenment. See MN 139.9 on the twofold division of pleasure.
 
-391 This sentence answers the first of the two questions posed by Saccaka in $ 11.
+391 This sentence answers the first of the two questions posed by Saccaka in §11.
 
 392 MA explains the "sign of concentration" (samädhinimitta) here as the fruition attainment of emptiness (suññataphalasamäpatti). See also MN 122.6.
 
@@ -1148,7 +1148,7 @@ SUTTA 37
 
 SUTTA 38
 
-402 According to MA, through faulty reasoning based on the fact of rebirth, Sāti came to the conclusion that a persisting consciousness transmigrating from one existence to another is necessary to explain rebirth. The first part of the sutta (down to $ 8 ) replicates the opening of MN 22, the only difference being in the view espoused.
+402 According to MA, through faulty reasoning based on the fact of rebirth, Sāti came to the conclusion that a persisting consciousness transmigrating from one existence to another is necessary to explain rebirth. The first part of the sutta (down to §8 ) replicates the opening of MN 22, the only difference being in the view espoused.
 
 403 This is the last of the six views described at MN 2.8. See n. 40 .
 
@@ -1160,12 +1160,12 @@ SUTTA 38
 
 407 On the four nutriments, see n.120. MA: The Buddha states this passage and the following one linking up the nutriments with dependent origination in order to show that he knows not merely the five aggregates but the entire chain of conditions responsible for their being.
 
-408 This is a statement of the abstract principle of dependent origination exemplified by the twelvefold formula. The abstract principle on cessation is stated at $\S 22 . \overline{\mathrm{N}} \mathrm{m}$ had rendered the principle of arising thus: "That is when this is; that arises with the arising of this." And the principle of cessation: "That is not when this is not; that ceases with
+408 This is a statement of the abstract principle of dependent origination exemplified by the twelvefold formula. The abstract principle on cessation is stated at $\S 22 . Ñm had rendered the principle of arising thus: "That is when this is; that arises with the arising of this." And the principle of cessation: "That is not when this is not; that ceases with
 the cessation of this."
 
 409 As in MN 2.7. According to MA, this "running back into the past" and "running forward to the future" occur because of craving and views. The next passage drives home the lesson by ensuring that the bhikkhus speak from their own personal knowledge.
 
-410 The following portion of the discourse may be understood as a concrete application of dependent origination - so far expressed only as a doctrinal formula - to the course of individual existence. The passage $\S \S 26-29$ may be taken to show the factors from consciousness through feeling that result from past ignorance and formations, $ 40 the causal factors of craving and clinging as they build up a continuation of the samsāric round. The following section ( $\S \S 31-40$ ), connecting dependent origination to the appearance of the Buddha and his teaching of the Dhamma, shows the practice of the Dhamma to be the means of bringing the round to an end.
+410 The following portion of the discourse may be understood as a concrete application of dependent origination - so far expressed only as a doctrinal formula - to the course of individual existence. The passage $\S \S 26-29$ may be taken to show the factors from consciousness through feeling that result from past ignorance and formations, §40 the causal factors of craving and clinging as they build up a continuation of the samsāric round. The following section ( $\S \S 31-40$ ), connecting dependent origination to the appearance of the Buddha and his teaching of the Dhamma, shows the practice of the Dhamma to be the means of bringing the round to an end.
 
 411 Gandhabba. MA: The gandhabba is the being to be reborn. It is not someone (i.e., a disembodied spirit) standing nearby watching the future parents having intercourse, but a being driven on by the mechanism of kamma, due to be reborn on that occasion.
 
@@ -1178,7 +1178,7 @@ the round, and thus the round will come to an end.
 
 SUTTA 39
 
-415 "Brahmin" should be understood in the sense explained below, $ 24.
+415 "Brahmin" should be understood in the sense explained below, §24.
 
 416 Shame (hiri) and fear of wrongdoing (ottappa) are two complementary qualities designated by the Buddha "the guardians of the world" (AN i.51) because they serve as the foundation for morality. Shame has the characteristic of disgust with evil, is dominated by a sense of selfrespect, and manifests itself as conscience. Fear of wrongdoing has the characteristic of dread of evil, is dominated by a concern for the opinions of others, and manifests itself as fear of doing evil. See Vsm XIV, 142.
 
@@ -1215,7 +1215,7 @@ SUTTA 41
 
 429 According to MA, the understanding of the Four Noble Truths being discussed here is penetration by the supramundane path. Thus the lowest type of person to be described as "one who is wise" (paññavā) is the person on the path of stream-entry. The rendering of pañ $\tilde{n} \bar{a}$ as "wisdom" (which I substituted for Nm's "understanding") has the disadvantage of severing the tie, evident in the Pali, with the verb pajänäti. To preserve the connection, here and in the preceding paragraph, the verb has been rendered "wisely understand."
 
-430 The Pali phrase defining consciousness uses only the verb, vijänäti vijänäti, and this could as well be understood to mean "One cognizes, one cognizes." Although Nm had translated this phrase without any pronoun, the pronoun has been inserted for greater intelligibility. The renderings of the verb definitions of feeling and perception at $ 7 and $ 8 have been similarly augmented by the addition of the pronoun.
+430 The Pali phrase defining consciousness uses only the verb, vijänäti vijänäti, and this could as well be understood to mean "One cognizes, one cognizes." Although Nm had translated this phrase without any pronoun, the pronoun has been inserted for greater intelligibility. The renderings of the verb definitions of feeling and perception at §7 and §8 have been similarly augmented by the addition of the pronoun.
 
 431 MA: The question concerns the consciousness with which the person described as "one who is wise" examines formations; that is, the consciousness of insight by which that person arrived (at his attainment), the mind which does the work of meditation. Ven. Sāriputta answers by explaining the meditation subject of feeling, in the way it has come down in the Discourse on the Foundations of Mindfulness (MN 10.32). The Pali construction, sukhan ti pi vijänäti, indicates that the feeling is being treated as a direct object of consciousness rather than as an affective tone of the experience; to show this the words "this is" have been supplied in brackets and the entire phrase set in quotation marks.
 
@@ -1259,13 +1259,13 @@ sense objects, are afflicted and soiled like a mirror set up at a crossroads; bu
 
 450 MA identifies this suññatā cetovimutti with insight into the voidness of selfhood in persons and things.
 
-451 As above, the signless deliverance of mind is identified by MA with the attainment of fruition. Of the four deliverances of mind mentioned in $ 30, this one alone is supramundane. The first three - the brahmavihäras, the third immaterial attainment, and insight into the voidness of formations - all pertain to the mundane level.
+451 As above, the signless deliverance of mind is identified by MA with the attainment of fruition. Of the four deliverances of mind mentioned in §30, this one alone is supramundane. The first three - the brahmavihäras, the third immaterial attainment, and insight into the voidness of formations - all pertain to the mundane level.
 
 452 Lust, hate, and delusion may be understood as "makers of measurement" (pamānakarana) in that they impose limitations upon the range and depths of the mind; MA, however, explains this phrase to mean that the defilements enable one to measure a person as a worldling, a stream-enterer, a once-returner, or a non-returner.
 
-453 MA: There are twelve immeasurable deliverances of mind: the four brahmavihäras, the four paths, and the four fruits. The unshakeable deliverance of mind is the fruit of arahantship. The statement that this unshakeable deliverance is void of lust, hate, and delusion - repeated at the end of $ 36 and $ 37 as well - also identifies it as the supramundane deliverance of mind through voidness.
+453 MA: There are twelve immeasurable deliverances of mind: the four brahmavihäras, the four paths, and the four fruits. The unshakeable deliverance of mind is the fruit of arahantship. The statement that this unshakeable deliverance is void of lust, hate, and delusion - repeated at the end of §36 and §37 as well - also identifies it as the supramundane deliverance of mind through voidness.
 
-454 The word kiñcana is explained by MA as meaning "impediment" or "obstacle." $\bar{N} \mathrm{~m}$ rendered it as "owning." I have gone back to the original meaning "something" to maintain coherence with the statement that its abandonment issues in deliverance of mind through nothingness.
+454 The word kiñcana is explained by MA as meaning "impediment" or "obstacle." Ñm rendered it as "owning." I have gone back to the original meaning "something" to maintain coherence with the statement that its abandonment issues in deliverance of mind through nothingness.
 
 455 MA: There are nine deliverances of mind through nothingness: the base of nothingness and the four paths and fruits.
 
@@ -1378,7 +1378,7 @@ to represent being or personality in its most eminent form, blindly engaged in t
 
 502 MA: Because they considered it to be impermanent, suffering, and not self.
 
-503 MA: In the four states of deprivation. Here, and at $ 10 and $ 29, the word "body" (käya) is used to mean plane of existence.
+503 MA: In the four states of deprivation. Here, and at §10 and §29, the word "body" (käya) is used to mean plane of existence.
 
 504 MA: They lauded it by speaking praise of it as permanent, everlasting, eternal, etc., and delighted in it by way of craving and views.
 
@@ -1394,7 +1394,7 @@ to represent being or personality in its most eminent form, blindly engaged in t
 
 510 In the Brahmajāla Sutta (DN 1.2.2-6/ii.17-19) the Buddha shows how Mahā Brahmā gives rise to the delusion that he is the supreme creator God. When the world begins to form again after a period of dissolution, a being of great merit is the first to be reborn in the newly formed Brahmaworld. Subsequently, other beings take rebirth in the Brahma-world and this causes Mahā Brahmā to imagine that he is their creator and master. See Bodhi, The Discourse on the All-Embracing Net of Views, pp. 69-70, 159-166.
 
-511 This passage, parallel in structure to the corresponding passage of MN 1, is a difficult one. The difficulty centres around the verb used in the first four statements regarding earth, about which there is not even certainty as to the correct reading. $\overline{N} m$ prefers the BBS ed. reading apahosim, which he takes to be an aorist of pabhavati, meaning "to produce, to give being to." MA glosses: "I did not grasp earth through the obsessions of craving, conceit, and views." $\overline{\mathrm{N}} \mathrm{m}$ had rendered ananubhütam as "not co-essential with." This has been replaced by "not commensurate with," following MA's gloss, "not reached by earth" and MT: "Its nature is not shared in common with earth." MA says that what is "not com-
+511 This passage, parallel in structure to the corresponding passage of MN 1, is a difficult one. The difficulty centres around the verb used in the first four statements regarding earth, about which there is not even certainty as to the correct reading. $\overline{N} m$ prefers the BBS ed. reading apahosim, which he takes to be an aorist of pabhavati, meaning "to produce, to give being to." MA glosses: "I did not grasp earth through the obsessions of craving, conceit, and views." Ñm had rendered ananubhütam as "not co-essential with." This has been replaced by "not commensurate with," following MA's gloss, "not reached by earth" and MT: "Its nature is not shared in common with earth." MA says that what is "not com-
 mensurate with the earthness of earth" is Nibbāna, which is detached from all that is conditioned.
 
 512 The PTS ed. is surely mistaken in omitting here the $t i$ ending a direct quotation, and this misleads Horner into ascribing the following passage to Baka rather than to the Buddha (MLS 1:392). The BBS and SBJ eds. supply the $t i$.
@@ -1565,7 +1565,7 @@ SUTTA 55
 583 The parenthetical additions in the previous paragraph, inserted by Nm, are supplied from MA. Nm, in Ms,
 sums up the argument thus: The Niganthas are not allowed to use cold water (because they regard it as containing living beings). By his bodily and verbal refusal of cold water he has kept his bodily and verbal conduct pure, but if he longs in his mind for cold water his mental conduct is impure, and thus he is reborn among the "mind-bound gods" (manosattā devā).
 
-584 At $ 15 Upāli admits that at this point he had already acquired confidence in the Buddha. However, he continued to oppose him because he wished to hear the Buddha's varied solutions to the problem.
+584 At §15 Upāli admits that at this point he had already acquired confidence in the Buddha. However, he continued to oppose him because he wished to hear the Buddha's varied solutions to the problem.
 
 585 This statement, at DN 2.29/i.57, is ascribed to the Nigantha Nātaputta himself as a formulation of the Jain doctrine. Nim points out in Ms that it may involve a pun on the word vāri, which can mean both "water" and "curb" (from vāreti, to ward off). In my translation of the Sāmañāaphala Sutta, The Discourse on the Fruits of Recluseship, p. 24, I render it based on the Digha commentary as follows: "A Nigantha is restrained with regard to all water; he is endowed with the avoidance of all evil; he is cleansed by the avoidance of all evil; he is suffused with the avoidance of all evil." Though the statement conveys a concern for moral purity, the tone is decidedly different from that of the Buddha's teachings.
 
@@ -1638,7 +1638,7 @@ SUTTA 59
 
 615 Pañcakanga, the carpenter for King Pasenadi of Kosala, was a devoted follower of the Buddha. He reappears in MN 78 and MN 127.
 
-616 The two kinds of feeling are bodily and mental feeling, or (less commonly) the two mentioned by Pañcakanga in $ 3. The three kinds are the three mentioned by Udāyin in $ 3. The five kinds are the faculties of (bodily) pleasure, (mental) joy, (bodily) pain, (mental) grief, and equanimity. The six kinds are the feelings born of contact through the six sense faculties. The eighteen kinds are the eighteen kinds of mental exploration - exploring the six sense objects that are productive of joy, productive of grief, and
+616 The two kinds of feeling are bodily and mental feeling, or (less commonly) the two mentioned by Pañcakanga in §3. The three kinds are the three mentioned by Udāyin in §3. The five kinds are the faculties of (bodily) pleasure, (mental) joy, (bodily) pain, (mental) grief, and equanimity. The six kinds are the feelings born of contact through the six sense faculties. The eighteen kinds are the eighteen kinds of mental exploration - exploring the six sense objects that are productive of joy, productive of grief, and
 productive of equanimity (see MN 137.8). The thirty-six kinds are the thirty-six positions of beings - the six kinds of joy, grief, and equanimity each based either on the household life or on renunciation (see MN 137.9-15). The hundred and eight kinds are the previous thirty-six considered as referring to the past, present, and future.
 
 617 MA points out that by speaking of the neither-painful-nor-pleasant feeling of the fourth jhāna as a kind of pleasure, the Buddha is implicitly endorsing the view put forth by Pañcakanga.
@@ -1712,7 +1712,7 @@ SUTTA 62
 
 645 MA: This passage ( $\S 13-17$ ) is taught to show the quality of impartiality (tädibhäva).
 
-646 For explanations of unclear terms in this first tetrad on mindfulness of breathing ( $ 26 ), see nn.140-142. Terms needing clarification in the following three tetrads will be explained in the notes to MN 118, the Ānāpānasati Sutta.
+646 For explanations of unclear terms in this first tetrad on mindfulness of breathing ( §26 ), see nn.140-142. Terms needing clarification in the following three tetrads will be explained in the notes to MN 118, the Ānāpānasati Sutta.
 
 647 That is, the meditator dies calmly, with mindfulness and awareness.
 
@@ -1727,7 +1727,7 @@ SUTTA 64
 
 650 MA: The question may be raised: "When the Buddha had asked about the fetters and the Elder replied in terms of the fetters, why does the Buddha criticise his reply?" The reason is that Mälunkyäputta held the view that a person is fettered by the defilements only at times when they assail him, while at other times he is not fettered by them. The Buddha spoke as he did to show the error in this view.
 
-651 Anuseti tvev'assa sakkāyaditthānusayo. On the anusayas or underlying tendencies, see n.473. In the commentaries the defilements are distinguished as occurring at three levels: the anusaya level, where they remain as mere latent dispositions in the mind; the pariyutthāna level, where they rise up to obsess and enslave the mind (referred to in $ 5 of this discourse); and the vītikkama level, where they motivate unwholesome bodily and verbal action. The point of the Buddha's criticism is that the fetters, even when they do not come to active manifestation, continue to exist at the anusaya level so long as they have not been eradicated by the supramundane path.
+651 Anuseti tvev'assa sakkāyaditthānusayo. On the anusayas or underlying tendencies, see n.473. In the commentaries the defilements are distinguished as occurring at three levels: the anusaya level, where they remain as mere latent dispositions in the mind; the pariyutthāna level, where they rise up to obsess and enslave the mind (referred to in §5 of this discourse); and the vītikkama level, where they motivate unwholesome bodily and verbal action. The point of the Buddha's criticism is that the fetters, even when they do not come to active manifestation, continue to exist at the anusaya level so long as they have not been eradicated by the supramundane path.
 
 652 Dhammā. This could also have been rendered "things."
 
@@ -1776,11 +1776,11 @@ SUTTA 66
 
 672 The utterance is in what appears to be very colloquial Pali. MA explains: If one's mother and father were alive, they would give their son various kinds of food and offer him a place to sleep, and thus he would not have to wander about for food at night.
 
-673 MA: The Buddha undertakes this teaching in order to analyse the person who abandons what he is told to abandon ( $ 9 ) into four distinct types of individuals.
+673 MA: The Buddha undertakes this teaching in order to analyse the person who abandons what he is told to abandon ( §9 ) into four distinct types of individuals.
 
 674 Upadhi. MA glosses: For the abandoning of four kinds of upadhi - the aggregates, defilements, volitional formations, and cords of sensual pleasure (khandh'upadhi kiles'upadhi abhisankhār'upadhi kämaguṇ'upadhi).
 
-675 MA: The ordinary man, the stream-enterer, the oncereturner, and the non-returner can all be included under the first category ( $ 14 ), the non-returner because the craving for being still exists in him and thus at times he can delight in thoughts of worldly enjoyment. The same four can be included in the second category ( $ 15 ), the ordinary man because he may suppress arisen defilements, arouse energy, develop insight, and eradicate defilements by attaining the supramundane path.
+675 MA: The ordinary man, the stream-enterer, the oncereturner, and the non-returner can all be included under the first category ( §14 ), the non-returner because the craving for being still exists in him and thus at times he can delight in thoughts of worldly enjoyment. The same four can be included in the second category ( §15 ), the ordinary man because he may suppress arisen defilements, arouse energy, develop insight, and eradicate defilements by attaining the supramundane path.
 
 676 This type is distinguished from the previous type only by his sluggishness in arousing mindfulness to abandon arisen defilements.
 
@@ -1931,7 +1931,7 @@ is psychologically uncomfortable to insist on remaining in the dark. Thus most s
 
 SUTTA 75
 
-740 Bhünahuno. In Ms, Nm had rendered this cryptic expression "a wrecker of being." I follow Horner in translating after the commentarial gloss hatavadḍhino mariyādakārakassa. MA explains that he held the view that "growth" should be accomplished in the six senses by experiencing whatever sense objects one has never experienced before without clinging to those that are already familiar. His view thus seems close to the contemporary attitude that intensity and variety of experience is the ultimate good and should be pursued without inhibitions or restrictions. The reason for his disapproval of the Buddha will become clear in $ 8.
+740 Bhünahuno. In Ms, Nm had rendered this cryptic expression "a wrecker of being." I follow Horner in translating after the commentarial gloss hatavadḍhino mariyādakārakassa. MA explains that he held the view that "growth" should be accomplished in the six senses by experiencing whatever sense objects one has never experienced before without clinging to those that are already familiar. His view thus seems close to the contemporary attitude that intensity and variety of experience is the ultimate good and should be pursued without inhibitions or restrictions. The reason for his disapproval of the Buddha will become clear in §8.
 
 741 His father, the king, had provided him with three palaces and the entourage of women in hopes of keeping him confined to the lay life and distracting him from thoughts of renunciation.
 
@@ -1958,9 +1958,9 @@ SUTTA 76
 751 The point seems to be that even if one does not live the holy life, one ultimately reaps the same rewards as one who does, as the rest of the passage will make clear.
 
 752 In the Sāmañāaphala Sutta the view that follows, as far as "the space between the seven bodies," is ascribed to Pakudha Kaccāyana (DN 2.26/i.56). However, in that sutta the following passage on the elaborate system of classifications, down to "fools and the wise both will
-make an end of suffering," is connected with the view of non-causality and follows immediately upon the statement of the doctrine of non-causality set forth in this sutta at $ 13. The entire view is there assigned to Makkhali Gosāla. Since there are evident connections between the non-causality doctrine and items in the system of classifications (e.g., the reference to the "six classes"), and since both are known to have been typical of the Ājīvaka movement headed by Makkhali Gosāla, it seems that the inclusion of this system of classifications here under the doctrine of the seven bodies came about through an error of oral transmission. The correct version would thus be the one preserved by the Dīgha Nikāya. For the commentary on the system of classification, see Bodhi, The Discourse on the Fruits of Recluseship, pp. 72-77.
+make an end of suffering," is connected with the view of non-causality and follows immediately upon the statement of the doctrine of non-causality set forth in this sutta at §13. The entire view is there assigned to Makkhali Gosāla. Since there are evident connections between the non-causality doctrine and items in the system of classifications (e.g., the reference to the "six classes"), and since both are known to have been typical of the Ājīvaka movement headed by Makkhali Gosāla, it seems that the inclusion of this system of classifications here under the doctrine of the seven bodies came about through an error of oral transmission. The correct version would thus be the one preserved by the Dīgha Nikāya. For the commentary on the system of classification, see Bodhi, The Discourse on the Fruits of Recluseship, pp. 72-77.
 
-753 This statement reaffirms the fatalistic view of liberation enunciated in $ 13.
+753 This statement reaffirms the fatalistic view of liberation enunciated in §13.
 
 754 This is the claim made by the Jain teacher the Niganṭha Nātaputta at MN 14.17, and both the latter and Pūraṇa Kassapa at AN 9:38/iv.428-29. The fact that he makes bad judgements and must ask questions belies his claim to omniscience.
 
@@ -1985,7 +1985,7 @@ SUTTA 77
 
 763 Abhinñã̃osānaparamippatta. MA explains as the attainment of arahantship. This may be the only sense that the word param $ī bears in its appearance in the four Nikāyas. In the later Theravāda literature, beginning perhaps with such works as the Buddhavamisa, this word comes to signify the perfect virtues that a bodhisatta must fulfil over many lives in order to attain Buddhahood. In that context it corresponds to the paramitä of the Mahāyāna literature, though the numerical lists of virtues overlap only in part.
 
-764 MA explains liberation (vimokkha) here as meaning the mind's full (but temporary) release from the opposing states and its full (but temporary) release by delighting in the object. The first liberation is the attainment of the four jhannas using a kasiṇa (see $ 24 and n.768) derived from a coloured object in one's own body; the second is the attainment of the jhānas using a kasina derived from an external object; the third can be understood as the attainment of the jhānas through either a very pure and beautiful coloured kasiṇa or the four brahmavihäras. The
+764 MA explains liberation (vimokkha) here as meaning the mind's full (but temporary) release from the opposing states and its full (but temporary) release by delighting in the object. The first liberation is the attainment of the four jhannas using a kasiṇa (see §24 and n.768) derived from a coloured object in one's own body; the second is the attainment of the jhānas using a kasina derived from an external object; the third can be understood as the attainment of the jhānas through either a very pure and beautiful coloured kasiṇa or the four brahmavihäras. The
 remaining liberations are the immaterial attainments and the attainment of cessation.
 
 765 MA explains that these are called bases of transcendence (abhibhayatana) because they transcend (abhibhavati, overcome) the opposing states and the objects, the former through the application of the appropriate antidote, the latter through the arising of knowledge.
@@ -2031,7 +2031,7 @@ SUTTA 79
 783 Evamivanno attā hoti arogo param maranā. The word arogo, normally meaning healthy, here should be understood to mean permanent. MA says that he speaks with reference to rebirth in the heavenly world of Refulgent Glory, the objective counterpart of the third jhāna, of which he has heard without actually attaining it. His view would seem to fall into the class described at MN 102.3.
 
 784 Previous translators seem to have been perplexed by the verb anassāma. Thus $\bar{N} m$ in Ms renders the line: "We don't renounce our teachers' doctrines for this reason." And Horner: "We have heard to here from our own teachers." But anassama is a first-person plural aorist of nassati, "to perish, to be lost." The same form occurs at MN 27.7. MA explains that they knew that in the past meditators would do the preparatory work on the kasina, attain the third jhāna, and be reborn in the world of Refulgent Glory. But as time went on, the preparatory work on the kasina was no longer understood and meditators were not able to attain the third jhāna. The wanderers only learned that "an entirely pleasant world"
-exists and that the five qualities mentioned at $\$ 21$ were the "practical way" to it. They knew of no entirely pleasant world higher than the third jhāna, and of no practical way higher than the five qualities.
+exists and that the five qualities mentioned at $\§21$ were the "practical way" to it. They knew of no entirely pleasant world higher than the third jhāna, and of no practical way higher than the five qualities.
 
 785 MA: Having attained the fourth jhāna, by supernormal power he goes to the world of Refulgent Glory and converses with the deities there.
 
@@ -2108,7 +2108,7 @@ SUTTA 84
 
 SUTTA 85
 
-816 . Prince Bodhi was the son of King Udena of Kosambī; his mother was the daughter of King Candappajjota of Avantī. The portion of the sutta from $ 2 through $ 8 is also found at Vin $\mathrm{Cv} \mathrm{Kh} 5 /$ ii.127-29, where it leads to the formulation of the rule mentioned in the following note.
+816 . Prince Bodhi was the son of King Udena of Kosambī; his mother was the daughter of King Candappajjota of Avantī. The portion of the sutta from §2 through §8 is also found at Vin Cv Kh 5 / ii.127-29, where it leads to the formulation of the rule mentioned in the following note.
 
 817 MA explains that Prince Bodhi was childless and desired a son. He had heard that people can fulfil their wishes by making special offerings to the Buddha, so he spread the white cloth with the idea: "If I am to have a son, the Buddha will step on the cloth; if I am not to have a son, he will not step on the cloth." The Buddha knew that by reason of past evil kamma, he and his wife were destined to remain childless. Hence he did not step on the cloth. Later he laid down a disciplinary rule prohibiting the bhikkhus from stepping on a white cloth, but subsequently modified the rule to allow bhikkhus to step on a cloth as a blessing for householders.
 
@@ -2134,7 +2134,7 @@ existence; and a result to be experienced in any life subsequent to the next, as
 
 826 Although MA says that Ahimsaka, "Harmless," was Angulimāla's given name, the commentary to the Theragāthā says his original name was Himsaka, meaning "dangerous."
 
-827 Whereas virtuous bhikkhus short of arahants are said to eat the country's almsfood as an inheritance from the Buddha, the arahant eats "free from debt" because he has made himself fully worthy of receiving alms. See Vsm I, $125-27$.
+827 Whereas virtuous bhikkhus short of arahants are said to eat the country's almsfood as an inheritance from the Buddha, the arahant eats "free from debt" because he has made himself fully worthy of receiving alms. See Vsm I, §125-27$.
 
 SUTTA 87
 
@@ -2149,7 +2149,7 @@ SUTTA 88
 831 MA explains that the king asked this question with reference to the case involving the female wanderer Sundari, which was pending investigation at the time. Wishing to discredit the Buddha, some wandering ascetics persuaded Sundarī to visit Jeta's Grove at night and then let herself be seen returning at dawn, so people would become suspicious. After some time they had her murdered and buried
 near Jeta's Grove, and when her body was discovered there, they pointed an accusing finger at the Buddha. After a week the false report was exposed when the king's spies found out the real story behind the murder. See Ud 4:8/42-45.
 
-832 Briefly, this passage offers five criteria of evil actions: unwholesomeness underscores the psychological quality of the action, its unhealthy effect upon the mind; its being blameworthy underscores its morally detrimental nature; its capacity to produce painful results calls attention to its undesirable kammic potential; and the last statement calls attention to both its evil motivation and the harmful long-range consequences such action entails for both oneself and others. The opposite explanation applies to good action, discussed in $ 14.
+832 Briefly, this passage offers five criteria of evil actions: unwholesomeness underscores the psychological quality of the action, its unhealthy effect upon the mind; its being blameworthy underscores its morally detrimental nature; its capacity to produce painful results calls attention to its undesirable kammic potential; and the last statement calls attention to both its evil motivation and the harmful long-range consequences such action entails for both oneself and others. The opposite explanation applies to good action, discussed in §14.
 
 833 MA: Ven. Ānanda's answer goes beyond the question, for he shows not only that the Buddha praises the abandoning of all unwholesome states, but that he acts in accordance with his word by having abandoned all unwholesome states as well.
 
@@ -2196,7 +2196,7 @@ types of gods appear in the PTS ed. as savyapajjha and abyäpajjha, which would 
 
 850 This is a stock description of a learned brahmin. According to MA, the Three Vedas are the Iru, Yaju, and Sāma (= Rig, Yajur, and Sāman). The fourth Veda, the Atharva, is not mentioned, but MA says its existence is implied when the histories (Itihāsa) are called "the fifth," i.e., of the works regarded as authoritative by the brahmins. It is more likely, however, that the histories are called "the fifth" in connection with the four branches of study auxiliary to the Vedas that precede them in the description. The translation of technical terms here follows MA, with the help of Monier-William's SanskritEnglish Dictionary (Oxford, 1899). On the marks of a Great Man, MA says that this was a science based on 12,000 works explaining the characteristics of great men, such as Buddhas, paccekabuddhas, chief disciples, great disciples, Wheel-turning Monarchs, etc. These works included 16,000 verses called "The Buddha Mantra."
 
-851 The thirty-two marks, enumerated in $ 9 below, are the subject of an entire sutta in the Digha Nikāya, DN 30, Lakkhana Sutta. There each of the marks is explained as the kammic consequence of a particular virtue perfected by the Buddha during his earlier existences as a bodhisatta.
+851 The thirty-two marks, enumerated in §9 below, are the subject of an entire sutta in the Digha Nikāya, DN 30, Lakkhana Sutta. There each of the marks is explained as the kammic consequence of a particular virtue perfected by the Buddha during his earlier existences as a bodhisatta.
 
 852 The seven treasures are discussed in MN 129.34-41. The acquisition of the wheel-treasure explains why he is called a "Wheel-turning Monarch."
 
@@ -2262,7 +2262,7 @@ SUTTA 94
 
 SUTTA 95
 
-880 The opening passage of this sutta, down to $ 10, is virtually identical with the opening of the Sonadanda Sutta (DN 4).
+880 The opening passage of this sutta, down to §10, is virtually identical with the opening of the Sonadanda Sutta (DN 4).
 
 881 MA: It was called thus because offerings were made there to the gods.
 
@@ -2318,7 +2318,7 @@ SUTTA 98
 903 MA: Up to this point the Buddha has criticised the assertion of Bhāradvāja that birth makes one a brahmin. Now
 he will uphold the assertion of Vāseṭtha that action makes one a brahmin. For the ancient brahmins and other wise ones in the world would not recognise the brahminhood of one defective in livelihood, virtue, and conduct.
 
-904 Bhovadi. Bho, "sir," was a mode of address used among the brahmins. From this point on the Buddha will identify the true brahmin with the arahant. Verses $27-54$ here are identical with Dhp 396-423, except for an additional couplet in Dhp 423.
+904 Bhovadi. Bho, "sir," was a mode of address used among the brahmins. From this point on the Buddha will identify the true brahmin with the arahant. Verses §27-54$ here are identical with Dhp 396-423, except for an additional couplet in Dhp 423.
 
 905 MA: By the present volitional action which accomplishes the work of farming, etc.
 
@@ -2363,11 +2363,11 @@ SUTTA 101
 
 922 This doctrine, which is here ascribed to the Jains, is also taken up for criticism by the Buddha at SN 36:21/ iv.230-31 and AN 3:61/i.173-74. The Buddha's teaching recognises the existence of feeling that is not the result of past action but a concomitant of present action, and also admits feeling that is neither kammically active nor kammic result.
 
-923 From here until §5, "That being so...," also at MN 14.17-19. The statement of the Niganṭha Nātaputta, which at MN 14.17 introduces the Niganṭhas' position, here comes afterwards, at $ 10, as the Niganṭhas' justification for their assertion.
+923 From here until §5, "That being so...," also at MN 14.17-19. The statement of the Niganṭha Nātaputta, which at MN 14.17 introduces the Niganṭhas' position, here comes afterwards, at §10, as the Niganṭhas' justification for their assertion.
 
 924 As at MN 95.14.
 
-925 It is not fitting for them to make that declaration because their "intense exertion," i.e., their ascetic practice, is the cause for their painful feelings, as the Buddha states in $ 15.
+925 It is not fitting for them to make that declaration because their "intense exertion," i.e., their ascetic practice, is the cause for their painful feelings, as the Buddha states in §15.
 
 926 This is a technical expression for an action that is to ripen in this present life.
 
@@ -2393,7 +2393,7 @@ SUTTA 102
 
 936 Aroga, "healthy," explained by MA as meaning permanent.
 
-937 In the Brahmajala Sutta sixteen varieties of this view are mentioned, the eight given here and two other tetrads: the self as finite, infinite, both, and neither; and the self as experiencing exclusively pleasure, exclusively pain, a mixture of both, and neither. In the present sutta these two tetrads are incorporated under speculations about the past in $ 14.
+937 In the Brahmajala Sutta sixteen varieties of this view are mentioned, the eight given here and two other tetrads: the self as finite, infinite, both, and neither; and the self as experiencing exclusively pleasure, exclusively pain, a mixture of both, and neither. In the present sutta these two tetrads are incorporated under speculations about the past in §14.
 
 938 Evidently, in the above list the views of the self as immaterial, percipient of unity, and percipient of the immeasurable are based on attainment of the base of infinite space. MT explains the consciousness-kasina as the base of infinite consciousness, stating that these theorists declare that base to be the self.
 
@@ -2401,7 +2401,7 @@ SUTTA 102
 
 940 MA paraphrases thus: "All those types of perceptions together with the views are conditioned, and because they are conditioned, they are gross. But there is Nibbāna, called the cessation of formations, that is, of the conditioned. Having known 'There is this,' that there is Nibbāna, seeing the escape from the conditioned, the Tathāgata has gone beyond the conditioned."
 
-941 The second tetrad of $ 3 is dropped here since the self is conceived as non-percipient. In the Brahmajala Sutta eight varieties of this view are mentioned, these four plus the finite-infinite tetrad.
+941 The second tetrad of §3 is dropped here since the self is conceived as non-percipient. In the Brahmajala Sutta eight varieties of this view are mentioned, these four plus the finite-infinite tetrad.
 
 942 MA points out that this statement is made with reference to those planes of existence where all five aggregates exist. In the immaterial planes consciousness occurs without the aggregate of material form, and in the nonpercipient plane there is material form without consciousness. But consciousness never occurs without the three other mental aggregates.
 
@@ -2418,7 +2418,7 @@ than the usual "confusion" or "delusion."
 
 948 The "fear and disgust with personality" is an aspect of vibhavatanha, the craving for non-existence. The annihilationist view to which it gives rise still involves an identification of personality with self - a self that is annihilated at death - and thus, despite his denial, it binds the theorist to the round of existence.
 
-949 So far only four of the original five classes of speculations about the future have been analysed, yet the Buddha speaks as if they were all explicated. MA tries to resolve the problem by explaining that assertions of "Nibbāna here and now" were comprised by the terms "percipient of unity" and "percipient of diversity" in $ 3. This explanation, however, is not convincing. $\overline{\mathrm{N}} \mathrm{m}$, in Ms, had added the heading "Nibbāna Here and Now" over $ 17, and $\S \S 17-21$ do seem to correspond with the last four of the five doctrines of Nibbāna here and now in the Brahmajāla. However, this interpretation seems contradicted by $ 13 and by the phrase used in $\S 17, \S 19$ and $ 21, "with the relinquishing of views about the past and the future," which would exclude the doctrines of Nibbāna here and now. The problem seems insoluble, and raises the question whether a passage on Nibbāna here and now was not lost in the course of the sutta's oral transmission. In the Brahmajāla the five doctrines are the asser-
+949 So far only four of the original five classes of speculations about the future have been analysed, yet the Buddha speaks as if they were all explicated. MA tries to resolve the problem by explaining that assertions of "Nibbāna here and now" were comprised by the terms "percipient of unity" and "percipient of diversity" in §3. This explanation, however, is not convincing. Ñm, in Ms, had added the heading "Nibbāna Here and Now" over §17, and $\S \S 17-21$ do seem to correspond with the last four of the five doctrines of Nibbāna here and now in the Brahmajāla. However, this interpretation seems contradicted by §13 and by the phrase used in $\S 17, \S 19$ and §21, "with the relinquishing of views about the past and the future," which would exclude the doctrines of Nibbāna here and now. The problem seems insoluble, and raises the question whether a passage on Nibbāna here and now was not lost in the course of the sutta's oral transmission. In the Brahmajāla the five doctrines are the asser-
 tion of sensual pleasures and the four jhānas to be the self's attainment of supreme Nibbāna here and now.
 
 950 This view includes all four of the eternalists who speculate about the past mentioned in the Brahmajala.
@@ -2429,9 +2429,9 @@ tion of sensual pleasures and the four jhānas to be the self's attainment of su
 
 953 This may include the four types of endless equivocation or "eel-wriggling" of the Brahmajala.
 
-954 Views $5-8$ correspond exactly to the four extensionists of the Brahmajala.
+954 Views §5-8$ correspond exactly to the four extensionists of the Brahmajala.
 
-955 The eight views ( $9-16$ ) are, in the Brahmajala, included among the doctrines of percipient immortality comprised under speculations about the future.
+955 The eight views ( §9-16$ ) are, in the Brahmajala, included among the doctrines of percipient immortality comprised under speculations about the future.
 
 956 That is, they must accept their doctrine on some ground other than knowledge, one involving belief or reasoning. At MN 95.14, it is said that these five grounds of conviction yield conclusions that can turn out to be either true or false.
 
@@ -2439,7 +2439,7 @@ tion of sensual pleasures and the four jhānas to be the self's attainment of su
 
 958 MA says that at this point all sixty-two of the views set forth in the Brahmajala Sutta have been incorporated, yet this sutta has an even wider range since it includes an exposition of personality view (most notably implied by §24).
 
-959 This section title, and the following Roman numeral "V", were inserted by $\overline{\mathrm{N}} \mathrm{m}$ on the supposition that this passage presents the doctrines of Nibbāna here and now, mentioned but not explicated earlier. However, as pointed out in n.949, while the text of this passage lends some support to that supposition, there are also cogent reasons against it. Unfortunately, Ms contains no note by $\overline{\mathrm{N}} \mathrm{m}$ dealing with the problem of sequence in this sutta.
+959 This section title, and the following Roman numeral "V", were inserted by Ñm on the supposition that this passage presents the doctrines of Nibbāna here and now, mentioned but not explicated earlier. However, as pointed out in n.949, while the text of this passage lends some support to that supposition, there are also cogent reasons against it. Unfortunately, Ms contains no note by Ñm dealing with the problem of sequence in this sutta.
 
 960 MA: This section is intended to show how all sixty-two speculative views arise predominated over by personality view.
 
@@ -2567,12 +2567,12 @@ priate to the development of insight.
 
 1015 MA calls this two-pointed voidness - the absence of "I" and "mine" - and says that this teaching of the base of nothingness is expounded by way of insight rather than concentration, the approach taken in the previous section. At MN 43.33, this contemplation is said to lead to the deliverance of mind through voidness.
 
-1016 MA calls this four-pointed voidness and explains thus: (i) he does not see his self anywhere; (ii) he does not see a self of his own that can be treated as something belonging to another, e.g., as a brother, friend, assistant, etc.; (iii) he does not see the self of another; (iv) he does not see the self of another that can be treated as something belonging to him. Ms has a note by $\overline{\mathrm{N}} \mathrm{m}$ : "These expressions [in this paragraph and the next] seem to have been stereotyped slogans or descriptions of the attainments of nothingness and neither-perception-nor-non-perception,
+1016 MA calls this four-pointed voidness and explains thus: (i) he does not see his self anywhere; (ii) he does not see a self of his own that can be treated as something belonging to another, e.g., as a brother, friend, assistant, etc.; (iii) he does not see the self of another; (iv) he does not see the self of another that can be treated as something belonging to him. Ms has a note by Ñm : "These expressions [in this paragraph and the next] seem to have been stereotyped slogans or descriptions of the attainments of nothingness and neither-perception-nor-non-perception,
 primarily non-Buddhist, and sometimes used as a basis for the existing-body [=personality] view." See Nm's note 19 to Vsm XXI, 53 for further discussion and other references.
 
 1017 MA glosses: "If the round of kamma had not been accumulated by me, now there would not be for me the round of results; if the round of kamma is not accumulated by me now, in the future there will not be the round of results." "What exists, what has come to be" are the five aggregates. The first part of the formula again seems to be a condensed formulation of a view held by non-Buddhists. Several suttas identify it as an expression for the annihilationist view, adapted by the Buddha with new meanings assigned to it. For other occurrences of this formula, see SN iii.55-56, 99, 183, 206; AN iv.69-72, v. 63.
 
-1018 MA says that he obtains the equanimity of insight, but from $ 11 it seems that the equanimity of the base of nei-ther-perception-nor-non-perception is also intended.
+1018 MA says that he obtains the equanimity of insight, but from §11 it seems that the equanimity of the base of nei-ther-perception-nor-non-perception is also intended.
 
 1019 MA: This is said with reference to the rebirth of one who attains the base of neither-perception-nor-non-perception. The meaning is that he takes rebirth in the best, the highest, plane of existence.
 
@@ -2676,7 +2676,7 @@ One holds that "forms" refers to visible things that actually enter into cogniti
 
 1061 MA explains "I-making" (ahankāra) as conceit and "minemaking" (mamankāra) as craving. "All external signs" (nimitta) are external objects.
 
-1062 MA: The recollection of past lives and the knowledge of the passing away and reappearance of beings (usually included in this type of exposition) are here omitted because the original question at $ 11 concerned the attainment of arahantship, not mundane attainments.
+1062 MA: The recollection of past lives and the knowledge of the passing away and reappearance of beings (usually included in this type of exposition) are here omitted because the original question at §11 concerned the attainment of arahantship, not mundane attainments.
 
 1063 MA says that this sutta is also called the Ekavissajjita Sutta (The Single Answer Discourse). MA finds it difficult to account for the "sixfold" mentioned in the original title, since only five questions and answers have come down in the discourse. It suggests dividing the last item into two - one's own body with its consciousness and the conscious bodies of others - and also mentions another opinion that the four nutriments should be brought in as the sixth. Neither of these suggestions, however, appears cogent, and it seems likely that a section has been lost.
 
@@ -2699,9 +2699,9 @@ SUTTA 114
 
 1070 Aññamaññam. MA: The two are mutually exclusive, and there is no way by which the one can be regarded as the other.
 
-1071 Although wrong view and right view are usually included under mental conduct, in this sutta they are shown separately in $ 10 as "the acquisition of view."
+1071 Although wrong view and right view are usually included under mental conduct, in this sutta they are shown separately in §10 as "the acquisition of view."
 
-1072 Whereas the covetousness and ill will described in $ 7 possess the strength of a full course of action (kammapatha), in this section on inclination of mind (cittuppāda) they are shown in their nascent stage as mere dispositions that have not yet erupted into obsessive volitions.
+1072 Whereas the covetousness and ill will described in §7 possess the strength of a full course of action (kammapatha), in this section on inclination of mind (cittuppāda) they are shown in their nascent stage as mere dispositions that have not yet erupted into obsessive volitions.
 
 1073 "Acquisition of individuality" (attabhāvapaṭilābha) here refers to mode of rebirth.
 
@@ -3011,7 +3011,7 @@ SUTTA 130
 
 1207 According to Buddhist legend, three of the divine messengers - the old man, the sick man, and the dead man appeared to the Bodhisatta while he was living in the palace, destroying his enchantment with the worldly life and awakening in him a desire to seek the way to deliverance. See AN 3:38/i.145-46 for the psychological nucleus out of which the legend must have developed.
 
-1208 The following description of hell, down to $ 16, is also found at MN 129.10-16.
+1208 The following description of hell, down to §16, is also found at MN 129.10-16.
 
 SUTTA 131
 
@@ -3029,13 +3029,13 @@ Ven. Nānananda, in the introduction to his translation, offers an argument for 
 
 1212 MA: He should contemplate each presently arisen state, just where it has arisen, with insight into its impermanence, etc.
 
-1213 Asamhīram asankuppam. MA explains that this is said for the purpose of showing insight and repeated insight; for insight is "invincible, unshakeable" because it is not vanquished or shaken by lust and other defilements. Elsewhere the expression "the invincible, the unshakeable" is used as a description of Nibbāna (e.g., Sn v.1149) or of the liberated mind (e.g., Thag v.649), but here it seems to refer to a stage in the development of insight. The recurrence of the verb form samhīrati in $ 8 and $ 9 suggests that the intended meaning is contemplation of the present moment without being misled into the adoption of a personality view.
+1213 Asamhīram asankuppam. MA explains that this is said for the purpose of showing insight and repeated insight; for insight is "invincible, unshakeable" because it is not vanquished or shaken by lust and other defilements. Elsewhere the expression "the invincible, the unshakeable" is used as a description of Nibbāna (e.g., Sn v.1149) or of the liberated mind (e.g., Thag v.649), but here it seems to refer to a stage in the development of insight. The recurrence of the verb form samhīrati in §8 and §9 suggests that the intended meaning is contemplation of the present moment without being misled into the adoption of a personality view.
 
 1214 The "Peaceful Sage" (santo muni) is the Buddha.
 
 1215 MA: One "finds delight" by bringing to bear upon the past either craving or a view associated with craving. It should be noted that it is not the mere recollection of the past through memory that causes bondage, but the reliving of past experiences with thoughts of craving. In this respect the Buddha's teaching differs significantly from that of Krishnamurti, who seems to regard memory itself as the villain behind the scene.
 
-1216 Perhaps this sentence, and all the parallel sentences to follow, should be translated: "One does not find delight there thinking, I had such material form in the past.'" The translation as it stands suggests that such thoughts arise but without the accompaniment of delight, while the alternative proposed here suggests that these thoughts do not arise at all. The same alternative construction can also be applied to thoughts about the future in $ 7. The Pali can admit either rendering.
+1216 Perhaps this sentence, and all the parallel sentences to follow, should be translated: "One does not find delight there thinking, I had such material form in the past.'" The translation as it stands suggests that such thoughts arise but without the accompaniment of delight, while the alternative proposed here suggests that these thoughts do not arise at all. The same alternative construction can also be applied to thoughts about the future in §7. The Pali can admit either rendering.
 
 1217 Perhaps this phrase should be taken as an exclamation: "May I have such material form in the future!"
 
@@ -3043,7 +3043,7 @@ Ven. Nānananda, in the introduction to his translation, offers an argument for 
 
 SUTTA 133
 
-1219 Down to $ 12, as at MN 18.10-15.
+1219 Down to §12, as at MN 18.10-15.
 
 1220 MA: In the two previous suttas and in the one to follow the Buddha set up the outline and analysis by way of the five aggregates, but here he set it up in order for it to be analysed by way of the twelve sense bases. Understanding the Buddha's intention, Ven. Mahā Kaccāna spoke as he did, and because of his skill in grasping the method even when it was not explicitly shown, the Buddha appointed him the foremost disciple in explaining in detail a teaching stated in brief.
 
@@ -3127,7 +3127,7 @@ SUTTA 138
 1252 MA: The mind is "stuck internally" by way of attachment to an internal object. The text of the sutta itself makes the shift from viññanna in the Buddha's summary to citta in Mahā Kaccāna's exposition.
 
 1253 All known editions of the Pali text of MN 138 read here anupädā paritassana, literally "agitation due to nonclinging," which obviously contradicts what the Buddha consistently teaches: that agitation arises from clinging, and ceases with the removal of clinging. However, this reading apparently precedes the time of the commentaries, for MA accepts anupädā as correct and offers the following explanation: "In what sense is there agitation due
-to non-clinging? Through the non-existence of anything to cling to. For if there existed any formation that were permanent, stable, a self, or the belonging of a self, it would be possible to cling to it. Then this agitation would be agitation due to clinging (something to cling to). But because there is no formation that can be clung to thus, then even though material form, etc., are clung to with the idea 'material form is self,' etc., they are not clung to (in the way they are conceived). Thus, what is here called 'agitation due to non-clinging' is in meaning agitation due to clinging by way of views." $\overline{\mathrm{N}} \mathrm{m}$ had followed this reading, and on the basis of MA's explanation, had rendered the phrase "anguish [agitation] due to not finding anything to cling to." He did not discuss the problem in his notes.
+to non-clinging? Through the non-existence of anything to cling to. For if there existed any formation that were permanent, stable, a self, or the belonging of a self, it would be possible to cling to it. Then this agitation would be agitation due to clinging (something to cling to). But because there is no formation that can be clung to thus, then even though material form, etc., are clung to with the idea 'material form is self,' etc., they are not clung to (in the way they are conceived). Thus, what is here called 'agitation due to non-clinging' is in meaning agitation due to clinging by way of views." Ñm had followed this reading, and on the basis of MA's explanation, had rendered the phrase "anguish [agitation] due to not finding anything to cling to." He did not discuss the problem in his notes.
 
 A sutta in the Samyutta Nikāya (SN 22:7/iii, 16) is virtually identical with this passage of MN 138, except that here it reads, as we should expect, upädä paritassana, "agitation due to clinging." From the Samyutta text we may safely infer that the Majjhima reading is an ancient error that should be discounted. My rendering here is based on the reading of SN 22:7. Horner too follows the latter text in MLS.
 
@@ -3197,7 +3197,7 @@ reborn in the four states of deprivation."
 
 1282 This refers to his attainment of the Nibbāna-element with no residue remaining (anupādisesa nibbānadhātu) the cessation of all conditioned existence with his final passing away.
 
-1283 This completes the exposition of the first foundation, which began at $ 13. MA says that the knowledge of the destruction of all suffering is the wisdom pertaining to the fruit of arahantship.
+1283 This completes the exposition of the first foundation, which began at §13. MA says that the knowledge of the destruction of all suffering is the wisdom pertaining to the fruit of arahantship.
 
 1284 MA mentions four kinds of attachment (upadhi) here: see n. 674.
 
@@ -3257,7 +3257,7 @@ SUTTA 144
 
 1307 This is an elliptical expression for committing suicide.
 
-1308 By making this statement he is implicitly claiming arahantship, as will be made clear at $ 13. Whether his claim
+1308 By making this statement he is implicitly claiming arahantship, as will be made clear at §13. Whether his claim
 at this point was valid or not is uncertain, the commentary regarding it as a case of self-overestimation.
 
 1309 MA says that Ven. Mahā Cunda gave him this instruction thinking that he must still be an ordinary person, since he could not endure the deadly pains and wanted to commit suicide.
@@ -3277,7 +3277,7 @@ SUTTA 145
 1315 This Punna is a different person from Punna Mantāniputta of MN 24. He was from a family of merchants residing in the port city of Suppāraka in the Sunāparanta
 country (present-day Maharashtra). On a business trip to Sāvatthi he heard the Buddha give a discourse and renounced the home life to become a bhikkhu.
 
-1316 MA explains this instruction as a short teaching on the Four Noble Truths. Delight (nandt) is an aspect of craving. Through the arising of delight in regard to the eye and forms there arises the suffering of the five aggregates. Thus in this first part of the instruction the Buddha teaches the round of existence by way of the first two truths - suffering and its origin - as they occur through the six senses. In the second part ( $ 4 ) he teaches the ending of the round by way of the second two truths - cessation and the path - expressed as the abandoning of delight in the six senses and their objects.
+1316 MA explains this instruction as a short teaching on the Four Noble Truths. Delight (nandt) is an aspect of craving. Through the arising of delight in regard to the eye and forms there arises the suffering of the five aggregates. Thus in this first part of the instruction the Buddha teaches the round of existence by way of the first two truths - suffering and its origin - as they occur through the six senses. In the second part ( §4 ) he teaches the ending of the round by way of the second two truths - cessation and the path - expressed as the abandoning of delight in the six senses and their objects.
 
 1317 That is, he expired. Since the Buddha still refers to Punna as a clansman (kulaputta), he must have died within a short time after returning to the Sunāparanta country. The texts leave no record of how he died.
 
@@ -3358,7 +3358,7 @@ SUTTA 151
 
 1349 Among the five terms, desire and lust are synonymous as are hate and aversion.
 
-1350 Beginning with this section a sequence of development may be discerned. The abandoning of the five cords of sensual pleasure is the preliminary step for developing the jhānas, and the abandoning of the five hindrances ( $ 10 ) the immediate antecedent to the attainment of the first jhāna. The full understanding of the five aggregates ( $ 11 ) indicates the insight wisdom necessary to attain the path of stream-entry, and the sections on the thirty-seven requisites of enlightenment ( $\S \S 12-18$ ) the cultivation of the factors needed to arrive at the intermediate stages of sanctity. The section on serenity and insight ( $ 19 ), though applicable to all stages, can be seen as fully actualised by the non-returner striving for arahantship. Finally, the section on true knowledge and deliverance signifies the attainment of the path and fruit of arahantship.
+1350 Beginning with this section a sequence of development may be discerned. The abandoning of the five cords of sensual pleasure is the preliminary step for developing the jhānas, and the abandoning of the five hindrances ( §10 ) the immediate antecedent to the attainment of the first jhāna. The full understanding of the five aggregates ( §11 ) indicates the insight wisdom necessary to attain the path of stream-entry, and the sections on the thirty-seven requisites of enlightenment ( $\S \S 12-18$ ) the cultivation of the factors needed to arrive at the intermediate stages of sanctity. The section on serenity and insight ( §19 ), though applicable to all stages, can be seen as fully actualised by the non-returner striving for arahantship. Finally, the section on true knowledge and deliverance signifies the attainment of the path and fruit of arahantship.
 
 1351 Although the arahant, who has fully realised true knowledge and deliverance, has no need for further training, he continues to cultivate serenity and insight in order to enter into the bliss of the jhānas, the fruition attainment of
 arahantship, and the cessation of perception and feeling.

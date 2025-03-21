@@ -10,7 +10,8 @@ import thichminhchau from '../../kinhtrungbo/thichminhchau/filelist'
  */
 function toHomeCompare(url) {
   // this is support paths, allow to compare
-  const supportedAuthors = ['nanamoli-bodhi-vi', 'nanamoli-bodhi-en', 'thichminhchau', 'c-nm-tmc-en'];
+  const compareBooks = ['c-nm-tmc-en', 'c-nm-tmc-vi']
+  const baseBooks = ['nanamoli-bodhi-vi', 'nanamoli-bodhi-en', 'thichminhchau'];
   // const authorCompareMap = {
   //   'nanamoli-bodhi': 'c-nm-tmc',
   //   'nanamoli-bodhi-vi': 'c-nm-tmc-vi'
@@ -26,34 +27,22 @@ function toHomeCompare(url) {
   }
 
   const kinhTrungBo = urlParts[1];  // "kinhtrungbo"
-  const author = urlParts[2];      // "nanamoli-bodhi"
+  const book = urlParts[2];      // "nanamoli-bodhi"
   const filename = urlParts[3];    // "001-the-root-of-all-things"
 
-  if (!supportedAuthors.includes(author)) {
+  // current url is compare page, switch from compare Vi-Vi <-> En-Vi
+  if (compareBooks.includes(book)){
+    const last2Chars = book.slice(-2);
+    const newLast2Chars = last2Chars === 'vi' ? 'en' : 'vi';
+    const newBook = book.slice(0, -2) + newLast2Chars;
+    return `/${kinhTrungBo}/${newBook}/${filename}`;
+  }
+
+  if (!baseBooks.includes(book)) {
     //console.error("Unsupported author:", author);
     return null; // Or handle the error
   }
 
-  // const fileIdStr = filename.split('-')[0]; // "001"
-  //   //console.log(fileIdStr);
-  // const fileId = parseInt(fileIdStr, 10);
-  //  // console.log(fileId);
-
-  // if (isNaN(fileId)) {
-  //   //console.error("Invalid file ID:", fileIdStr);
-  //   return null; // Or handle the error
-  // }
-
-  // // (2) Get data (already provided in the problem statement)
-
-  // // (3) Get the corresponding link from thichminhchau
-  // if (fileId > thichminhchau.length || fileId < 1) {
-  //     console.error("fileId out of range", fileId);
-  //     return null;
-  // }
-
-  // // in thichminhchau filelist, get index begin of 001 suttra
-  // const thichMinhChauLink = thichminhchau[fileId - 1].link;
 
   function findIndexByFilename(filename, listfile) {
     const baseFilename = filename.split('?')[0].replace(/\.html$/, '');

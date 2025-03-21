@@ -5,7 +5,7 @@
 
 2\. Now on that occasion five hundred bhikkhus headed by the venerable Sāriputta and the venerable Mahā Moggallāna had come to Cātumā to see the Blessed One. While the visiting bhikkhus were exchanging greetings with the resident bhikkhus, and were preparing resting places and putting away their bowls and outer robes, they were very loud and noisy.
 
-3\. Then the Blessed One addressed the venerable Ānanda thus: "Ānanda, who are these loud noisy people? One would think they were fishermen hawking fish." ${ }^{\prime 682}$
+3\. Then the Blessed One addressed the venerable Ānanda thus: "Ānanda, who are these loud noisy people? One would think they were fishermen hawking fish." [^682]
 
 "Venerable sir, they are five hundred bhikkhus headed by Sāriputta and Moggallāna who have come to Cātumā to see the Blessed One. And while the visiting bhikkhus were exchanging greetings with the resident bhikkhus, and were preparing resting places and putting away their bowls and outer robes, they have been very loud and noisy."
 
@@ -47,7 +47,7 @@ towards the Sangha of bhikkhus now as he used to show compassion towards it in t
 
 "Venerable sir, I thought thus: 'The Sangha of bhikkhus has been dismissed by the Blessed One. The Blessed One will now abide inactive, devoted to pleasant abiding here and now; and we too shall now abide inactive, devoted to pleasant abiding here and now."
 
-"Stop, Sāriputta, stop! Such a thought should not be entertained by you again." ${ }^{\prime 684}$
+"Stop, Sāriputta, stop! Such a thought should not be entertained by you again." [^684]
 
 13\. Then the Blessed One addressed the venerable Mahā Moggallāna: "What did you think, Moggallāna, when the Sangha of bhikkhus was dismissed by me?"
 

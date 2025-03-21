@@ -78,12 +78,12 @@ priate to the development of insight.
 
 [^1015]: MA calls this two-pointed voidness - the absence of "I" and "mine" - and says that this teaching of the base of nothingness is expounded by way of insight rather than concentration, the approach taken in the previous section. At MN 43.33, this contemplation is said to lead to the deliverance of mind through voidness.
 
-[^1016]: MA calls this four-pointed voidness and explains thus: (i) he does not see his self anywhere; (ii) he does not see a self of his own that can be treated as something belonging to another, e.g., as a brother, friend, assistant, etc.; (iii) he does not see the self of another; (iv) he does not see the self of another that can be treated as something belonging to him. Ms has a note by $\overline{\mathrm{N}} \mathrm{m}$ : "These expressions [in this paragraph and the next] seem to have been stereotyped slogans or descriptions of the attainments of nothingness and neither-perception-nor-non-perception,
+[^1016]: MA calls this four-pointed voidness and explains thus: (i) he does not see his self anywhere; (ii) he does not see a self of his own that can be treated as something belonging to another, e.g., as a brother, friend, assistant, etc.; (iii) he does not see the self of another; (iv) he does not see the self of another that can be treated as something belonging to him. Ms has a note by Ñm : "These expressions [in this paragraph and the next] seem to have been stereotyped slogans or descriptions of the attainments of nothingness and neither-perception-nor-non-perception,
 primarily non-Buddhist, and sometimes used as a basis for the existing-body [=personality] view." See Nm's note 19 to Vsm XXI, 53 for further discussion and other references.
 
 [^1017]: MA glosses: "If the round of kamma had not been accumulated by me, now there would not be for me the round of results; if the round of kamma is not accumulated by me now, in the future there will not be the round of results." "What exists, what has come to be" are the five aggregates. The first part of the formula again seems to be a condensed formulation of a view held by non-Buddhists. Several suttas identify it as an expression for the annihilationist view, adapted by the Buddha with new meanings assigned to it. For other occurrences of this formula, see SN iii.55-56, 99, 183, 206; AN iv.69-72, v. 63.
 
-[^1018]: MA says that he obtains the equanimity of insight, but from $ 11 it seems that the equanimity of the base of nei-ther-perception-nor-non-perception is also intended.
+[^1018]: MA says that he obtains the equanimity of insight, but from §11 it seems that the equanimity of the base of nei-ther-perception-nor-non-perception is also intended.
 
 [^1019]: MA: This is said with reference to the rebirth of one who attains the base of neither-perception-nor-non-perception. The meaning is that he takes rebirth in the best, the highest, plane of existence.
 

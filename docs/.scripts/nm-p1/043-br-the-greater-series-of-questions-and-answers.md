@@ -65,11 +65,11 @@ wisely understands: 'This is the origin of suffering'; one wisely understands: '
 
 [294] 13. "Friend, how many conditions are there for the arising of right view?"
 
-"Friend, there are two conditions for the arising of right view: the voice of another and wise attention. These are the two conditions for the arising of right view." ${ }^{\prime 440}$
+"Friend, there are two conditions for the arising of right view: the voice of another and wise attention. These are the two conditions for the arising of right view." [^440]
 
 14. "Friend, by how many factors is right view assisted when it has deliverance of mind for its fruit, deliverance of mind for its fruit and benefit, when it has deliverance by wisdom for its fruit, deliverance by wisdom for its fruit and benefit?"
 
-"Friend, right view is assisted by five factors when it has deliverance of mind for its fruit, deliverance of mind for its fruit and benefit, when it has deliverance by wisdom for its fruit, deliverance by wisdom for its fruit and benefit. Here, friend, right view is assisted by virtue, learning, discussion, serenity, and insight. Right view assisted by these five factors has deliverance of mind for its fruit, deliverance of mind for its fruit and benefit; it has deliverance by wisdom for its fruit, deliverance by wisdom for its fruit and benefit." ${ }^{\prime 441}$
+"Friend, right view is assisted by five factors when it has deliverance of mind for its fruit, deliverance of mind for its fruit and benefit, when it has deliverance by wisdom for its fruit, deliverance by wisdom for its fruit and benefit. Here, friend, right view is assisted by virtue, learning, discussion, serenity, and insight. Right view assisted by these five factors has deliverance of mind for its fruit, deliverance of mind for its fruit and benefit; it has deliverance by wisdom for its fruit, deliverance by wisdom for its fruit and benefit." [^441]
 
 (BEING)
 
@@ -79,7 +79,7 @@ wisely understands: 'This is the origin of suffering'; one wisely understands: '
 
 16. "Friend, how is renéwal of being in the future generated?"
 
-"Friend, renewal of being in the future is generated through the delighting in this and that on the part of beings who are hindered by ignorance and fettered by craving." ${ }^{\prime 442}$
+"Friend, renewal of being in the future is generated through the delighting in this and that on the part of beings who are hindered by ignorance and fettered by craving." [^442]
 
 17. "Friend, how is renewal of being in the future not generated?"
 

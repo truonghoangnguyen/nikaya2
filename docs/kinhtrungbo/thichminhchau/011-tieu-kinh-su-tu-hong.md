@@ -13,6 +13,7 @@ Một thời Thế Tôn ở Savatthi (Xá-vệ), tại Jetavana (Kỳ-đà Lâm)
 thứ ba; ở đây là có Sa-môn thứ tư; các ngoại đạo khác không có Sa-môn. Này các Tỷ-kheo, các Ông hãy
 chân chánh rống tiếng rống sư tử như vậy.
 
+<!--pg-->
 Này các Tỷ-kheo, sự tình này xảy ra khi ở đây những Du sĩ ngoại đạo có thể nói: "Chư Tôn giả có tin
 tưởng gì, có sức lực gì mà chư Tôn giả tuyên bố: 'Chỉ ở đây là có Sa-môn thứ nhất; ở đây là có Sa-môn
 thứ hai; ở đây là có Sa-môn thứ ba; ở đây là có Sa-môn thứ tư; các ngoại đạo khác không có Sa-môn'".
@@ -24,14 +25,14 @@ lòng tin Pháp, có sự thành tựu viên mãn các Giới luật, và nhữn
 cư sĩ và những người xuất gia, được chúng tôi thương, chúng tôi mến. Chư Hiền, vì chúng tôi tự chánh
 kiến bốn pháp, được Thế Tôn tuyên bố cho chúng tôi biết, bậc đã thấy, đã biết, bậc A-la-hán, Chánh
 Ðẳng Giác nên chúng tôi nói: 'Chỉ ở đây là Sa-môn... Sa-môn thứ tư'".
-
+<!--pg-->
 Này các Tỷ-kheo, sự tình này xảy ra, khi ở đây, những Du sĩ ngoại đạo có thể nói: "Chư Hiền, chúng tôi
 cũng có lòng tin bậc Ðạo Sư, vị ấy là Ðạo Sư của chúng tôi. Chúng tôi có lòng tin Pháp, Pháp ấy là Pháp
 của chúng tôi, chúng tôi thành tựu viên mãn các Giới luật, những Giới luật ấy là Giới luật của chúng tôi.
 Và những pháp hữu của chúng tôi, những người cư sĩ và cả những người xuất gia, được chúng tôi
 thương, được chúng tôi mến. Chư Hiền, như vậy có sự sai biệt gì, có sự đặc thù gì, có sự khác biệt gì
 giữa quý vị và chúng tôi?".
-
+<!--pg-->
 Chư Tỷ-kheo, nếu được các Du sĩ ngoại đạo nói như vậy, cần phải trả lời họ như sau: "Chư Hiền, cứu
 cánh là một hay cứu cánh là đa diện?" Nếu trả lời đứng đắn, các Du sĩ ngoại đạo phải trả lời: "Chư Hiền,
 cứu cánh là một, cứu cánh không phải đa diện". --"Chư Hiền, cứu cánh ấy cho người có tham, hay cho
@@ -51,9 +52,9 @@ trả lời: "Chư Hiền, cứu cánh ấy cho người không thuận ứng, k
 thuận ứng, nghịch ứng". --"Chư Hiền, cứu cánh ấy cho người ưa hý luận, thích hý luận hay cho người
 không ưa hý luận, không thích hý luận?" Nếu trả lời đứng đắn, các Du sĩ ngoại đạo cần phải trả lời:
 "Chư Hiền, cứu cánh ấy cho người không ưa hý luận, không thích hý luận, không phải cho người ưa hý
-
 luận, thích hý luận".
 
+<!--pg-->
 Chư Tỷ-kheo, có hai loại tri kiến này: hữu kiến và phi hữu kiến. Chư Tỷ-kheo, những Sa-môn hay Bà-
 la-môn nào chấp trước hữu kiến, thân thiết hữu kiến, cố chấp hữu kiến; những vị ấy bị chướng ngại đối
 với phi hữu kiến. Chư Tỷ-kheo, những Sa-môn hay Bà-la-môn nào chấp trước phi hữu kiến, thân thiết
@@ -71,6 +72,7 @@ sân, không si, không ái, không chấp thủ, có trí, không có thuận �
 luận, thích hý luận; những vị ấy giải thoát khỏi sanh, già, chết, sầu, bi, khổ, ưu, não. Ta nói những vị ấy
 giải thoát khỏi đau khổ.
 
+<!--pg-->
 Chư Tỷ-kheo, có bốn chấp thủ. Thế nào là bốn? Dục thủ, kiến thủ, giới cấm thủ, ngã luận thủ.
 
 Chư Tỷ-kheo, có những Sa-môn, Bà-la-môn tuy tự xưng liễu tri tất cả thủ, nhưng không chân chánh hiển
@@ -94,6 +96,7 @@ môn ấy không như thật tuệ tri một sự. Do vậy, những Hiền gi�
 tri tất cả thủ, nhưng không chân chánh hiển thị sự liễu tri tất cả thủ. Họ hiển thị sự liễu tri về dục thủ, sự
 liễu tri về kiến thủ, sự liễu tri về giới cấm thủ, nhưng không hiển thị sự liễu tri về ngã luận thủ.
 
+<!--pg-->
 Chư Tỷ-kheo, trong Pháp và Luật như vậy, nếu có tịnh tín đối với Ðạo Sư, tịnh tín ấy được xem là
 không hoàn toàn; nếu có tịnh tín đối với Pháp, tịnh tín ấy được xem là không hoàn toàn; nếu có thành
 tựu viên mãn các Giới luật, sự thành tựu ấy được xem là không hoàn toàn; nếu có sự thương mến đối với
@@ -102,7 +105,6 @@ như vậy, trong một pháp luật không khéo thuyết giảng, không khéo
 không dẫn đến tịch tịnh, không được bậc Chánh Ðẳng Giác hiển thị.
 
 Và Như Tỷ-kheo, bậc Như Lai, A-la-hán, Chánh Ðẳng Giác tự xưng liễu tri tất cả thủ, chân chánh hiển
-
 thị sự liễu tri tất cả thủ. Như Lai hiển thị sự liễu tri về dục thủ, sự liễu tri về kiến thủ, sự liễu tri về giới
 cấm thủ, sự liễu tri về ngã luận thủ.
 
@@ -113,6 +115,7 @@ thương mến ấy được xem là hoàn toàn. Vì sao vậy? Chư Tỷ-kheo,
 luật khéo thuyết giảng, khéo hiển thị, có hướng thượng, dẫn đến tịch tịnh, được bậc Chánh Ðẳng Giác
 hiển thị.
 
+<!--pg-->
 Chư Tỷ-kheo, bốn loại chấp thủ này, lấy gì làm duyên, lấy gì làm tập khởi, lấy gì làm chủng, lấy gì làm
 nhân? Bốn loại chấp thủ này lấy ái làm duyên, lấy ái làm tập khởi, lấy ái làm chủng, lấy ái làm nhân.
 Chư Tỷ-kheo, ái này lấy gì làm duyên, lấy gì làm tập khởi, lấy gì làm chủng, lấy gì làm nhân? Chư Tỷ-
