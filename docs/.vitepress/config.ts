@@ -33,8 +33,8 @@ export default defineConfig({
         name: 'copy-markdown-files',
         // This hook runs at the end of the build process
         closeBundle() {
-          const sourceDirs = ['./docs/kinhtrungbo/nanamoli-bodhi-en', './docs/kinhtrungbo/nanamoli-bodhi-vi', './docs/kinhtrungbo/thichminhchau']; // Directories with your MD files
-          const outputDir = path.resolve(__dirname, 'dist/raw');
+          const sourceDirs = ['./docs/kinhtruongbo/', './docs/kinhtrungbo/']; // Directories with your MD files
+          const outputDir = path.resolve(__dirname, 'dist/');
 
           // Create the output directory if it doesn't exist
           if (!fs.existsSync(outputDir)) {
@@ -72,7 +72,7 @@ export default defineConfig({
             copyMarkdownFiles(dir, targetDir);
           });
 
-          console.log('Markdown files copied to dist/raw-md/');
+          console.log('Markdown files copied to dist/raw/');
         }
       },
     ]
