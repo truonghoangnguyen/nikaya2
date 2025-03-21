@@ -9,7 +9,7 @@ console.log('Hello, VitePress!')
 
 
 
-Attaches event [^31](/kinhtrungbo/nanamoli-bodhi-en/outro/notes/001x#_31){.note}  [ꜛ](/kinhtrungbo/nanamoli-bodhi-en/outro/notes/001x#_31){target="_blank"} nhwng van de
+Attaches event [^31](/kinhtrungbo/nanamoli-bodhi-en/outro/notes/001#_31){.note}  [ꜛ](/kinhtrungbo/nanamoli-bodhi-en/outro/notes/001#_31){target="_blank"} nhwng van de
 
 
 
@@ -26,9 +26,9 @@ paragraph {data-toggle=modal}
 
 paragraph *style me*{.red} more text
 
-- Here is a [pop11](/kinhtrungbo/nanamoli-bodhi-en/outro/notes/001x#_31){.red}
+- Here is a [pop11](/kinhtrungbo/nanamoli-bodhi-en/outro/notes/001#_31){.red}
 
-- Here is a [pop](/kinhtrungbo/nanamoli-bodhi-en/outro/notes/001x#_31){target="_blank"}  <a href="/kinhtrungbo/nanamoli-bodhi-en/outro/notes/001x#_31">link </a> that will show a popup when hovered.
+- Here is a [pop](/kinhtrungbo/nanamoli-bodhi-en/outro/notes/001#_31){target="_blank"}  <a href="/kinhtrungbo/nanamoli-bodhi-en/outro/notes/001x#_31">link </a> that will show a popup when hovered.
 - You can also <a href="/kinhtrungbo/nanamoli-bodhi-vi/001-the-root-of-all-things.md" class="note">hover over this link</a> to see another example.
 
 The popup should appear below the link, displaying the content from the linked URL.

@@ -8,10 +8,14 @@ import nanamoli_bodhi_en_intro from '../kinhtrungbo/nanamoli-bodhi-en/intro/file
 import nanamoli_bodhi_vi from '../kinhtrungbo/nanamoli-bodhi-vi/filelist';
 import nanamoli_bodhi_vi_intro from '../kinhtrungbo/nanamoli-bodhi-vi/intro/filelist';
 
+import fs from 'fs';
+import path from 'path';
+
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "Kinh Nikaya",
   description: "Trò chuyện cùng Phật",
+
   markdown: {
     // Your existing markdown config...
 
@@ -22,6 +26,58 @@ export default defineConfig({
       // Any other markdown-it plugins you're using
     }
   },
+
+  vite: {
+    plugins: [
+      {
+        name: 'copy-markdown-files',
+        // This hook runs at the end of the build process
+        closeBundle() {
+          const sourceDirs = ['./docs/kinhtrungbo/nanamoli-bodhi-en', './docs/kinhtrungbo/nanamoli-bodhi-vi', './docs/kinhtrungbo/thichminhchau']; // Directories with your MD files
+          const outputDir = path.resolve(__dirname, 'dist/raw');
+
+          // Create the output directory if it doesn't exist
+          if (!fs.existsSync(outputDir)) {
+            fs.mkdirSync(outputDir, { recursive: true });
+          }
+
+          // Function to recursively copy files
+          function copyMarkdownFiles(sourceDir, targetDir) {
+            const files = fs.readdirSync(sourceDir);
+
+            files.forEach(file => {
+              const sourcePath = path.join(sourceDir, file);
+              const targetPath = path.join(targetDir, file);
+
+              if (fs.statSync(sourcePath).isDirectory()) {
+                // Create corresponding directory in target
+                if (!fs.existsSync(targetPath)) {
+                  fs.mkdirSync(targetPath, { recursive: true });
+                }
+                // Recurse into directory
+                copyMarkdownFiles(sourcePath, targetPath);
+              } else if (file.endsWith('.md')) {
+                // Copy markdown file
+                fs.copyFileSync(sourcePath, targetPath);
+              }
+            });
+          }
+
+          // Copy files from each source directory
+          sourceDirs.forEach(dir => {
+            const targetDir = path.join(outputDir, path.basename(dir));
+            if (!fs.existsSync(targetDir)) {
+              fs.mkdirSync(targetDir, { recursive: true });
+            }
+            copyMarkdownFiles(dir, targetDir);
+          });
+
+          console.log('Markdown files copied to dist/raw-md/');
+        }
+      },
+    ]
+  },
+
   // ignoreDeadLinks: true,
   /* Transform page data to add automatic next/previous links */
   transformPageData(pageData) {

@@ -51,7 +51,6 @@ các đồ mồi ấy do người thợ săn bẫy mồi gieo ra. Chúng ở đ�
 chúng ở đây xâm nhập tham đắm ăn các đồ mồi, nên trở thành mê loạn. Do mê loạn, chúng trở thành
 phóng dật. Do phóng dật, chúng trở thành những vật bị làm theo ý người ta muốn giữa các đồ mồi này
 của người thợ săn bẫy mồi. Như vậy đàn nai thứ hai không thoát khỏi như ý lực của người thợ săn bẫy
-
 mồi. Nay chúng ta hãy làm một chỗ ẩn nấp gần các đồ mồi này của người thợ săn bẫy mồi. Sau khi làm
 chỗ ẩn nấp xong, không xâm nhập, không tham đắm, chúng ta sẽ ăn các đồ mồi ấy do người thợ săn bẫy
 mồi gieo ra. Vì không xâm nhập không tham đắm ăn các món ăn, chúng ta sẽ không mê loạn. Do không
@@ -103,7 +102,6 @@ sập cùng khắp mọi nơi. Người thợ săn bẫy mồi và những quy�
 nấp của đàn nai thứ ba, chỗ chúng đi để lấy đồ ăn. Như vậy đàn nai thứ ba ấy đã không thoát khỏi như ý
 lực của người thợ săn bẫy mồi. Vậy chúng ta hãy làm một chỗ ẩn nấp, tại một nơi mà người thợ săn bẫy
 mồi và những quyến thuộc của người ấy không thể đến được. Làm chỗ ẩn nấp tại đó xong, không xâm
-
 nhập, không tham đắm, chúng ta sẽ ăn các đồ mồi do người thợ săn bẫy mồi gieo ra. Vì không xâm
 nhập, không tham đắm ăn các món ăn, chúng ta sẽ không mê loạn. Do không mê loạn, chúng ta sẽ
 không phóng dật. Do không phóng dật, chúng ta sẽ không trở thành những vật bị làm theo ý người ta
@@ -129,6 +127,7 @@ ta chớ có can thiệp vào đàn nai thứ tư". Này các Tỷ-kheo, ngườ
 của người ấy không can thiệp vào đàn nai thứ tư. Như vậy, này các Tỷ-kheo, đàn nai thứ tư đã thoát khỏi
 như ý lực của người thợ săn bẫy mồi.
 
+<!--pg-->
 Này các Tỷ-kheo, tỷ dụ này được Ta dùng để giải thích ý nghĩa. Và ý nghĩa ở đây là như sau: Chư Tỷ-
 kheo, đồ mồi đồng nghĩa với năm dục trưởng dưỡng. Chư Tỷ-kheo, người thợ săn bẫy mồi đồng nghĩa
 với Ác ma. Chư Tỷ-kheo, các quyến thuộc của người thợ săn bẫy mồi đồng nghĩa với quyến thuộc của
@@ -207,10 +206,10 @@ do Ác ma gieo ra và các vật dụng thế gian. Không xâm nhập, không t
 gieo ra và các vật dụng thế gian, nên họ không trở thành mê loạn. Do không mê loạn, họ không trở thành
 phóng dật. Do không phóng dật, họ không trở thành những người bị làm theo Ác ma muốn giữa các đồ
 mồi và các vật dụng thế gian. Như vậy, này các Tỷ-kheo, hạng Sa-môn, Bà-la-môn thứ tư đã thoát khỏi
-
 như ý lực của Ác ma. Này các Tỷ-kheo, Ta nói hạng Sa-môn, Bà-la-môn thứ tư này giống như đàn nai
 thứ tư trong ví dụ này.
 
+<!--pg-->
 Này các Tỷ-kheo, sao gọi là Ác ma và Ác ma quyến thuộc không thể đến được? Ở đây, này các Tỷ-
 kheo, Tỷ-kheo ly dục, ly ác bất thiện pháp chứng và trú Thiền thứ nhất, một trạng thái hỷ lạc do ly dục
 sanh, có tầm có tứ. Này các Tỷ-kheo, như vậy gọi là Tỷ-kheo làm Ác ma mù mắt, đoạn tuyệt mắt của Ác

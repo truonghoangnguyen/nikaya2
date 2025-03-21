@@ -3,13 +3,10 @@ layout: home
 
 hero:
   name: "Kinh Nikaya"
-  tagline: Tôi mong muốn đọc hết các bài kinh Nikaya, nhưng có nhiều chỗ kkhóhiểu, Khám phá Kinh Nikaya dưới góc nhìn mới
+  tagline: Tôi mong muốn đọc hết các bài kinh Nikaya, nhưng có nhiều chỗ khó hiểu, Khám phá Kinh Nikaya dưới góc nhìn mới
   actions:
-    - theme: brand
-      text: So sánh bản dịch
-      link: /compare/
     - theme: alt
-      text: Khám phá Bộ sưu tập
+      text: Kinh Trung Bộ
       link: /kinhtrungbo/
 
 features:

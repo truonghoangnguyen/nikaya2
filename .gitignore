@@ -19,3 +19,4 @@ TODOs.md
 *.timestamp-*.mjs
 .docsrc222
 scripts
+.dist

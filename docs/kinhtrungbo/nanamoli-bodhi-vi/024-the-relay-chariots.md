@@ -1,4 +1,4 @@
-# 24 Kinh Xe Tiếp Sức (Ratha-vinīta Sutta)
+# 24. Kinh Xe Tiếp Sức (Ratha-vinīta Sutta)
 
 1\. Tôi nghe như vầy. Một thuở nọ, Đức Thế Tôn (the Blessed One) trú tại Rājagaha (Vương Xá thành), trong khu rừng Trúc Lâm, nơi nuôi dưỡng các con sóc.
 
