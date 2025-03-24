@@ -19,7 +19,7 @@
 6\. "For eighty-four thousand years King Makhādeva played childish games; for eighty-four thousand years he acted as viceregent; for eighty-four thousand years he governed the kingdom;
 for eighty-four thousand years he led the holy life in this Makhādeva Mango Grove after shaving off his hair and beard, putting on the yellow robe, and going forth from the home life into homelessness. By developing the four divine abodes, on the dissolution of the body, after death, he passed on to the Brahma-world.
 
-7-9. "Now at the end of many years, many hundred years, many thousand years, King Makhādeva's son addressed his barber thus:...(as above, $\S \S 4-6$, reading "King Makhādeva's son" throughout)...[77, 78]...By developing the four divine abodes, on the dissolution of the body, after death, he passed on to the Brahma-world.
+7-9. "Now at the end of many years, many hundred years, many thousand years, King Makhādeva's son addressed his barber thus:...(as above, §§4-6, reading "King Makhādeva's son" throughout)...[77, 78]...By developing the four divine abodes, on the dissolution of the body, after death, he passed on to the Brahma-world.
 
 10\. "The descendants of King Makhādeva's son to the number of eighty-four thousand kings in succession, after shaving off their hair and beard and putting on the yellow robe, went forth from the home life into homelessness in this Makhādeva Mango Grove. They abided pervading one quarter with a mind imbued with loving-kindness...with compassion...with appreciative joy...with equanimity...without ill will.
 
@@ -49,7 +49,7 @@ Dhamma among brahmins and householders, among towndwellers and countryfolk, and 
 
 "'May your word be held sacred,' the charioteer Mātali replied. And having prepared the chariot harnessed to a thousand thoroughbreds, he drove King Nimi back to Mithilā. And there, indeed, King Nimi conducted himself by the Dhamma among brahmins and householders, among town-dwellers and countryfolk; and there [81] he observed the Uposatha days on the fourteenth, fifteenth, and eighth of the fortnight.
 
-17-19. "Then at the end of many years, many hundred years, many thousand years, King Nimi addressed his barber thus: ...(as above, $\S \S 4-6$, reading "King Nimi" throughout)...[82]...By developing the four divine abodes, on the dissolution of the body, after death, he passed on to the Brahma-world.
+17-19. "Then at the end of many years, many hundred years, many thousand years, King Nimi addressed his barber thus: ...(as above, §§4-6, reading "King Nimi" throughout)...[82]...By developing the four divine abodes, on the dissolution of the body, after death, he passed on to the Brahma-world.
 
 17\. "Now King Nimi had a son named Kajārajanaka. He did not go forth from the home life into homelessness. He broke that good practice. He was the last man among them.
 

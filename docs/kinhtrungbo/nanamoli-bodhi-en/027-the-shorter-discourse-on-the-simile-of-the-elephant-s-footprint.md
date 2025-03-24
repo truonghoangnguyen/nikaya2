@@ -17,6 +17,7 @@
 
 "What reasons does Master Vacchāyana see that he has such confidence in the recluse Gotama?"
 
+<!--pg-->
 3\. "Sir, suppose a wise elephant woodsman were to enter an elephant wood and were to see in the elephant wood [176] a big elephant's footprint, long in extent and broad across. He would come to the conclusion: 'Indeed, this is a big bull elephant.' So too, when I saw four footprints of the recluse Gotama, I came to the conclusion: 'The Blessed One is fully enlightened, the Dhamma is well proclaimed by the Blessed One, the Sangha is practising the good way.' What are the four?
 
 4\. "Sir, I have seen here certain learned nobles who were clever, knowledgeable about the doctrines of others, as sharp as
@@ -33,10 +34,12 @@ really recluses; we claimed that we were brahmins through we were not really bra
 
 "When I saw these four footprints of the recluse Gotama, I came to the conclusion: 'The Blessed One is fully enlightened, the Dhamma is well proclaimed by the Blessed One, the Sangha is practising the good way.'"
 
+<!--pg-->
 8\. When this was said, the brahmin Jāṇussoni got down from his all-white chariot drawn by white mares, and arranging his upper robe on one shoulder, he extended his hands in reverential salutation towards the Blessed One and uttered this exclamation three times: "Honour to the Blessed One, accomplished and fully enlightened! Honour to the Blessed One, accomplished and fully enlightened! Honour to the Blessed One, accomplished and fully enlightened! Perhaps some time or other [178] we might meet Master Gotama and have some conversation with him."
 
 9\. Then the brahmin Jāṇussoni went to the Blessed One and exchanged greetings with him. When this courteous and amiable talk was finished, he sat down at one side and related to the Blessed One his entire conversation with the wanderer Pilotika. Thereupon the Blessed One told him: "At this point, brahmin, the simile of the elephant's footprint has not yet been completed in detail. As to how it is completed in detail, listen and attend carefully to what I shall say." - "Yes, sir," the brahmin Jāṇussoni replied. The Blessed One said this:
 
+<!--pg-->
 10\. "Brahmin, suppose an elephant woodsman were to enter an elephant wood and were to see in the elephant wood a big elephant's footprint, long in extent and broad across. A wise elephant woodsman would not yet come to the conclusion: 'Indeed, this is a big bull elephant.' Why is that? In an elephant wood there are small she-elephants that leave a big footprint, and this might be one of their footprints. He follows it and sees in the elephant wood a big elephant's footprint, long in extent and broad across, and some scrapings high up. A wise elephant woodsman would not yet come to the conclusion: 'Indeed, this is a big bull elephant.' Why is that? In an elephant wood there
 are tall she-elephants that have prominent teeth and leave a big footprint, and this might be one of their footprints. He follows it further and sees in the elephant wood a big elephant's footprint, long in extent and broad across, and some scrapings high up, and marks made by tusks. A wise elephant woodsman would not yet come to the conclusion: 'Indeed, this is a big bull elephant.' Why is that? In an elephant wood there are tall sheelephants that have tusks and leave a big footprint, and this might be one of their footprints. He follows it further and sees in the elephant wood a big elephant's footprint, long in extent and broad across, and some scrapings high up, and marks made by tusks, and broken-off branches. And he sees that bull elephant at the root of a tree or in the open, walking about, sitting, or lying down. He comes to the conclusion: 'This is that big bull elephant.'
 
@@ -58,11 +61,13 @@ and trickery. He abstains from wounding, murdering, binding, brigandage, plunder
 
 16\. "He becomes one who acts in full awareness when going forward and returning; who acts in full awareness when looking ahead and looking away; who acts in full awareness when flexing and extending his limbs; who acts in full awareness when wearing his robes and carrying his outer robe and bowl; who acts in full awareness when eating, drinking, consuming food, and tasting; who acts in full awareness when defecating and urinating; who acts in full awareness when walking, standing, sitting, falling asleep, waking up, talking, and keeping silent.
 
+<!--pg-->
 17\. "Possessing this aggregate of noble virtue, and this noble restraint of the faculties, and possessing this noble mindfulness and full awareness, he resorts to a secluded resting place: the forest, the root of a tree, a mountain, a ravine, a hillside cave, a charnel ground, a jungle thicket, an open space, a heap of straw.
 
 18\. "On returning from his almsround, after his meal he sits down, folding his legs crosswise, setting his body erect, and
 establishing mindfulness before him. Abandoning covetousness for the world, he abides with a mind free from covetousness; he purifies his mind from covetousness. [^323] Abandoning ill will and hatred, he abides with a mind free from ill will, compassionate for the welfare of all living beings; he purifies his mind from ill will and hatred. Abandoning sloth and torpor, he abides free from sloth and torpor, percipient of light, mindful and fully aware; he purifies his mind from sloth and torpor. Abandoning restlessness and remorse, he abides unagitated with a mind inwardly peaceful; he purifies his mind from restlessness and remorse. Abandoning doubt, he abides having gone beyond doubt, unperplexed about wholesome states; he purifies his mind from doubt.
 
+<!--pg-->
 19\. "Having thus abandoned these five hindrances, imperfections of the mind that weaken wisdom, quite secluded from sensual pleasures, secluded from unwholesome states, he enters upon and abides in the first jhāna, which is accompanied by applied and sustained thought, with rapture and pleasure born of seclusion. This, brahmin, is called a footprint of the Tathāgata, something scraped by the Tathāgata, something marked by the Tathāgata, but a noble disciple does not yet come to the conclusion: 'The Blessed One is fully enlightened, the Dhamma is well proclaimed by the Blessed One, the Sangha is practising the good way. [^324]
 
 20\. "Again, with the stilling of applied and sustained thought, a bhikkhu enters upon and abides in the second jhāna, which has self-confidence and singleness of mind without applied and sustained thought, with rapture and pleasure born of concentration. This too, brahmin, is called a footprint of the Tathāgata... but a noble [182] disciple does not yet come to the conclusion: 'The Blessed One is fully enlightened...'

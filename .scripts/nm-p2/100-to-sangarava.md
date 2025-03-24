@@ -30,7 +30,7 @@
 
 10-13. "Later, Bhāradvāja, [212] while still young...(as Sutta 26, $\S \S 14-17) \ldots$ And I sat down thinking: 'This will serve for striving.'
 
-14-30. "Now these three similes occurred to me spontaneously never heard before...(as Sutta 36, $\S \S 17-33$; but in the present sutta in $\S \S 17-22$ - corresponding to $\S \S 20-25$ of Sutta 36 - the sentence "But such painful feeling that arose in me did not invade my mind and remain" does not occur)...the five bhikkhus were disgusted and left me, thinking: 'The recluse Gotama now lives luxuriously; he has given up his striving and reverted to luxury.'
+14-30. "Now these three similes occurred to me spontaneously never heard before...(as Sutta 36, §§17-33; but in the present sutta in §§17-22 - corresponding to §§20-25 of Sutta 36 - the sentence "But such painful feeling that arose in me did not invade my mind and remain" does not occur)...the five bhikkhus were disgusted and left me, thinking: 'The recluse Gotama now lives luxuriously; he has given up his striving and reverted to luxury.'
 
 31-41. "Now when I had eaten solid food and regained my strength, then quite secluded from sensual pleasures, secluded from unwholesome states...(as Sutta 36, §§34-44; but in the present sutta in $\S \S 36,38$, and 41 - corresponding to $\S \S 39,41$, and 44 of Sutta 36 - the sentence "But such pleasant feeling that arose in me did not invade my mind and remain" does not occur)...as happens in one who abides diligent, ardent, and resolute."
 

@@ -342,7 +342,7 @@ const tmcmnvi = [
       "slug": "/kinhtrungbo/c-nm-tmc/tmc-mn-bodhi-027-tieu-kinh-du-dau-chan-voi",
       "data": {
         "title": "27. TIỂU KINH DỤ DẤU CHÂN VOI",
-        "left": "kinhtrungbo/nanamoli-bodhi/027-the-shorter-discourse-on-the-simile-of-the-elephant-s.md",
+        "left": "kinhtrungbo/nanamoli-bodhi/027-the-shorter-discourse-on-the-simile-of-the-elephant-s-footprint.md",
         "right": "/kinhtrungbo/thichminhchau/027-tieu-kinh-du-dau-chan-voi.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",

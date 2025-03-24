@@ -3022,7 +3022,7 @@ As fruits fall from the tree, so people too, Both young and old, fall when this 
 6. "For eighty-four thousand years King Makhādeva played childish games; for eighty-four thousand years he acted as viceregent; for eighty-four thousand years he governed the kingdom;
 for eighty-four thousand years he led the holy life in this Makhādeva Mango Grove after shaving off his hair and beard, putting on the yellow robe, and going forth from the home life into homelessness. By developing the four divine abodes, on the dissolution of the body, after death, he passed on to the Brahma-world.
 
-7-9. "Now at the end of many years, many hundred years, many thousand years, King Makhādeva's son addressed his barber thus:...(as above, $\S \S 4-6$, reading "King Makhādeva's son" throughout)...[77, 78]...By developing the four divine abodes, on the dissolution of the body, after death, he passed on to the Brahma-world.
+7-9. "Now at the end of many years, many hundred years, many thousand years, King Makhādeva's son addressed his barber thus:...(as above, §§4-6, reading "King Makhādeva's son" throughout)...[77, 78]...By developing the four divine abodes, on the dissolution of the body, after death, he passed on to the Brahma-world.
 
 10. "The descendants of King Makhādeva's son to the number of eighty-four thousand kings in succession, after shaving off their hair and beard and putting on the yellow robe, went forth from the home life into homelessness in this Makhādeva Mango Grove. They abided pervading one quarter with a mind imbued with loving-kindness...with compassion...with appreciative joy...with equanimity...without ill will.
 
@@ -3052,7 +3052,7 @@ Dhamma among brahmins and householders, among towndwellers and countryfolk, and 
 
 "'May your word be held sacred,' the charioteer Mātali replied. And having prepared the chariot harnessed to a thousand thoroughbreds, he drove King Nimi back to Mithilā. And there, indeed, King Nimi conducted himself by the Dhamma among brahmins and householders, among town-dwellers and countryfolk; and there [81] he observed the Uposatha days on the fourteenth, fifteenth, and eighth of the fortnight.
 
-17-19. "Then at the end of many years, many hundred years, many thousand years, King Nimi addressed his barber thus: ...(as above, $\S \S 4-6$, reading "King Nimi" throughout)...[82]...By developing the four divine abodes, on the dissolution of the body, after death, he passed on to the Brahma-world.
+17-19. "Then at the end of many years, many hundred years, many thousand years, King Nimi addressed his barber thus: ...(as above, §§4-6, reading "King Nimi" throughout)...[82]...By developing the four divine abodes, on the dissolution of the body, after death, he passed on to the Brahma-world.
 
 17. "Now King Nimi had a son named Kajārajanaka. He did not go forth from the home life into homelessness. He broke that good practice. He was the last man among them.
 
@@ -3193,7 +3193,7 @@ The Blessed One looked at the venerable Ānanda. [93] The venerable Ānanda said
 
 11-14. "Later, prince, while still young, a black-haired young man endowed with the blessing of youth, in the prime of life... (as Sutta 26, §§15-17)...And I sat down there thinking: 'This will serve for striving.'
 
-15-42. "Now three similes occurred to me spontaneously, never heard before...(as Sutta 36, $\S \S 17-44$, but in the present sutta in $\S \S 18-23$ - corresponding to $\S \S 20-25$ of Sutta 36 - the sentence "But such painful feeling that arose in me did not invade my mind and remain" does not occur; and in the present sutta in $\S \S 37$, 39 and 42 - corresponding to $\S \S 39,41$, and 44 of Sutta 36 - the sentence "But such pleasant feeling that arose in me did not invade my mind and remain" does not occur)...as happens in one who abides diligent, ardent, and resolute.
+15-42. "Now three similes occurred to me spontaneously, never heard before...(as Sutta 36, §§17-44, but in the present sutta in §§18-23 - corresponding to §§20-25 of Sutta 36 - the sentence "But such painful feeling that arose in me did not invade my mind and remain" does not occur; and in the present sutta in $\S \S 37$, 39 and 42 - corresponding to $\S \S 39,41$, and 44 of Sutta 36 - the sentence "But such pleasant feeling that arose in me did not invade my mind and remain" does not occur)...as happens in one who abides diligent, ardent, and resolute.
 
 43-53. "I considered: 'This Dhamma that I have attained is profound'...(as Sutta 26, §§19-29) [94]...and the six of us lived on what those two bhikkhus brought back from their almsround.
 
@@ -5197,7 +5197,7 @@ Then the brahmin student Subha, Todeyya's son, having delighted and rejoiced in 
 
 10-13. "Later, Bhāradvāja, [212] while still young...(as Sutta 26, $\S \S 14-17) \ldots$ And I sat down thinking: 'This will serve for striving.'
 
-14-30. "Now these three similes occurred to me spontaneously never heard before...(as Sutta 36, $\S \S 17-33$; but in the present sutta in $\S \S 17-22$ - corresponding to $\S \S 20-25$ of Sutta 36 - the sentence "But such painful feeling that arose in me did not invade my mind and remain" does not occur)...the five bhikkhus were disgusted and left me, thinking: 'The recluse Gotama now lives luxuriously; he has given up his striving and reverted to luxury.'
+14-30. "Now these three similes occurred to me spontaneously never heard before...(as Sutta 36, §§17-33; but in the present sutta in §§17-22 - corresponding to §§20-25 of Sutta 36 - the sentence "But such painful feeling that arose in me did not invade my mind and remain" does not occur)...the five bhikkhus were disgusted and left me, thinking: 'The recluse Gotama now lives luxuriously; he has given up his striving and reverted to luxury.'
 
 31-41. "Now when I had eaten solid food and regained my strength, then quite secluded from sensual pleasures, secluded from unwholesome states...(as Sutta 36, §§34-44; but in the present sutta in $\S \S 36,38$, and 41 - corresponding to $\S \S 39,41$, and 44 of Sutta 36 - the sentence "But such pleasant feeling that arose in me did not invade my mind and remain" does not occur)...as happens in one who abides diligent, ardent, and resolute."
 

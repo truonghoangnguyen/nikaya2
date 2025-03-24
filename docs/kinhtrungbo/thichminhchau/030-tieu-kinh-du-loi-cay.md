@@ -26,6 +26,7 @@ la-môn, Ta sẽ thuyết pháp cho Ông, hãy nghe và khéo tác ý, Ta sẽ g
 
 Bà-la-môn Pingalakoccha vâng đáp Thế Tôn. Thế Tôn thuyết giảng như sau:
 
+<!--pg-->
 -- Này Bà-la-môn, ví như một người muốn được lõi cây, tìm cầu lõi cây. Trong khi đi tìm lõi cây, trước
 một cây lớn, đứng thẳng, có lõi cây, người bỏ qua lõi cây, bỏ qua giác cây, bỏ qua vỏ trong, bỏ qua vỏ
 ngoài, chặt cành lá, lấy chúng mang đi và tưởng rằng đó là lõi cây. Một người có mắt thấy vậy bèn nói:
@@ -65,6 +66,7 @@ lá. Người này muốn được lõi cây, tìm cầu lõi cây. Trong khi đ
 thẳng, có lõi cây, người ấy chặt lõi cây, mang đi và biết rằng đó là lõi cây. Và người này đạt được mục
 đích mà lõi cây có thể thành tựu".
 
+<!--pg-->
 Cũng vậy, này Bà-la-môn, ở đây, có người do lòng tin xuất gia từ bỏ gia đình sống không gia đình: "Ta
 bị chìm đắm trong sanh, già, chết, sầu, bi, khổ, ưu, não, bị chìm đắm trong đau khổ, bị chi phối bởi đau
 khổ, Rất có thể toàn bộ khổ uẩn này có thể chấm dứt". Vị ấy xuất gia như vậy, được lợi dưỡng, tôn kính,
@@ -191,6 +193,7 @@ một cây lớn, đứng thẳng, có lõi cây, người ấy chặt lõi cây
 người ấy đạt được mục đích mà lõi cây có thể thành tựu. Này Bà-la-môn, Ta nói rằng người này giống
 như ví dụ ấy.
 
+<!--pg-->
 Như vậy, này Bà-la-môn, phạm hạnh này không phải vì lợi ích, lợi dưỡng, tôn kính, danh vọng, không
 phải vì lợi ích thành tựu giới đức, không phải vì lợi ích thành tựu Thiền định, không phải vì lợi ích tri
 kiến. Và này Bà-la-môn, tâm giải thoát bất động chính là mục đích của phạm hạnh này, là lõi cây của

@@ -29,6 +29,7 @@ Gotama mới có thể biết Sa-môn Gotama có trí tuệ sáng suốt.
 -- Nhưng Tôn giả Vacchayana thấy được lý do gì ở Sa-môn Gotama mà Tôn giả có lòng tin tưởng như
 vậy?
 
+<!--pg-->
 -- Này Tôn giả, như một người săn voi thiện xảo vào một khu rừng có voi ở, và thấy một dấu chân voi
 lớn, dài bề dài và rộng bề ngang. Người đó đi đến kết luận: "Con voi này là con voi lớn". Cũng vậy, này
 Tôn giả, tôi đã thấy bốn dấu chân của Sa-môn Gotama và đi đến kết luận: "Thế Tôn là bậc Chánh Ðẳng
@@ -50,7 +51,6 @@ kết luận: "Thế Tôn là bậc Chánh Ðẳng Giác, Pháp được Thế T
 trì".
 
 Này Tôn giả, lại nữa, tôi thấy ở đây có một số Bà-la-môn bác học, tế nhị, nghị luận biện tài, biện bác
-
 như chia chẻ sợi tóc. Những vị này đi chỗ này chỗ kia, như muốn đã phá các tà kiến với trí tuệ của họ.
 Những vị này nghe... (như trên)... trái lại, họ trở thành đệ tử của Sa-môn Gotama. Này Tôn giả, khi tôi
 thấy dấu chân thứ hai này của Sa-môn Gotama, tôi đi đến kết luận: "Thế Tôn là bậc Chánh Ðẳng Giác,
@@ -82,6 +82,7 @@ mới thật là Sa-môn. Nay chúng ta mới thật là Bà-la-môn. Nay chúng
 thấy dấu chân thứ tư của Sa-môn Gotama, tôi đi đến kết luận: "Thế Tôn là bậc Chánh Ðẳng Giác, Pháp
 được Thế Tôn khéo giảng, và Tăng chúng khéo hành trì".
 
+<!--pg-->
 Khi được nói vậy, Bà-la-môn Janussoni, từ cỗ xe toàn trắng do ngựa cái kéo, bước xuống, đắp thượng y
 lên một bên vai, chấp tay hướng về Thế Tôn vái lạy, và thốt ra ba lần cảm hứng ngữ sau đây: "Ðảnh lễ
 Thế Tôn, bậc A-la-hán, Chánh Ðẳng Giác! Ðảnh lễ Thế Tôn, bậc A-la-hán, Chánh Ðẳng Giác! Ðảnh lễ
@@ -99,6 +100,7 @@ nói:
 
 Bà-la-môn Janussoni vâng đáp Thế Tôn. Thế Tôn thuyết giảng như sau:
 
+<!--pg-->
 -- Này Bà-la-môn, ví như một người săn voi vào một khu rừng có voi ở. Người đó thấy một dấu chân
 voi lớn trong rừng voi, dài bề dài và rộng bề ngang. Nếu người đó là một thợ săn voi thiện xảo, người đó
 
@@ -177,6 +179,7 @@ Vị ấy khi đi tới, khi đi lui đều tỉnh giác, khi nhìn thẳng, khi
 duỗi tay đều tỉnh giác, khi mang y kép, y bát đều tỉnh giác, khi ăn, uống, nhai, nuốt, đều tỉnh giác, khi đi
 đại tiện, tiểu tiện đều tỉnh giác, khi đi, đứng, ngồi nằm, thức, nói, yên lặng đều tỉnh giác.
 
+<!--pg-->
 Vị ấy thành tựu Thánh giới uẩn này, thành tựu Thánh hộ trì các căn này, và thành tựu Thánh chánh niệm
 tỉnh giác này, lựa một chỗ thanh vắng, tịch mịch như rừng, gốc cây, khe núi, hang đá, bãi tha ma, lùm
 cây, ngoài trời, đống rơm. Sau khi đi khất thực về và ăn xong, vị ấy ngồi kiết già, lưng thẳng tại chỗ nói
@@ -187,6 +190,7 @@ tâm tưởng hướng về ánh sáng, chánh niệm tỉnh giác, gột rửa 
 hối quá, vị ấy sống không trạo cử, nội tâm trầm lặng, gột rửa tâm hết trạo cử, hối quá, từ bỏ nghi ngờ, vị
 ấy sống thoát khỏi nghi ngờ, không phân vân lưỡng lự, gột rửa tâm hết nghi ngờ đối với thiện pháp.
 
+<!--pg-->
 Vị ấy từ bỏ năm triền cái làm cho tâm ô uế, làm cho trí tuệ muội lược ly dục, ly pháp ác bất thiện, chứng
 và trú Thiền thứ nhất, một trạng thái hỷ lạc do ly dục sanh, có tầm có tứ. Này Bà-la-môn, như vậy gọi là
 dấu chân của Như Lai, dấu cọ xát của Như Lai, dấu cắt chém của Như Lai. Nhưng vị Thánh đệ tử không

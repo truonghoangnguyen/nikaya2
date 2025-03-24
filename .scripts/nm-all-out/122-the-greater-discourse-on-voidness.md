@@ -103,9 +103,9 @@ That is what the Blessed One said. The venerable Ānanda was satisfied and delig
 
 [^1154]: MA: This refers to the jhāna that was used as the basis for insight. If, after emerging from the basic jhāna, his mind does not enter into voidness through insight contemplation on his own aggregates or those of others, and he also cannot attain the imperturbable immaterial attainment, he should return to the same basic jhāna that he originally developed and attend to it again and again.
 
-[^1155]: According to MA, up to this point the Buddha has shown the training for the attainment of the first two paths, those of stream-entry and once-returning. He now speaks the present passage ( $\S \S 14-15$ ) to point out the insight needed to attain the path of non-returning, which culminates in the abandoning of sensual desire.
+[^1155]: According to MA, up to this point the Buddha has shown the training for the attainment of the first two paths, those of stream-entry and once-returning. He now speaks the present passage ( §§14-15 ) to point out the insight needed to attain the path of non-returning, which culminates in the abandoning of sensual desire.
 
-[^1156]: This passage ( $\S \S 16-17$ ) points out the insight needed to attain the path of arahantship, which culminates in the abandoning of the conceit "I am."
+[^1156]: This passage ( §§16-17 ) points out the insight needed to attain the path of arahantship, which culminates in the abandoning of the conceit "I am."
 
 [^1157]: Ācariyūpaddava, antevāsūpaddava, brahmacariyūpaddava. Upaddava may also be rendered as disaster, calamity. MA explains that the Buddha speaks the present passage to show the danger in solitude when one does not fulfil the proper purpose of solitary living. The "teacher" is a teacher outside the Buddha's Dispensation.
 

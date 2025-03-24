@@ -171,7 +171,7 @@ That is what the Blessed One said. The venerable Nāgasamāla was satisfied and 
 [^179]: The gist of his criticism is that the Buddha teaches a doctrine that he has merely worked out in thought rather than one he has realised through transcendental wisdom. Apparently he believes that being led to the complete destruction of suffering is, as a goal, inferior to the acqui-
 sition of miraculous powers.
 
-[^180]: All the sections to follow are set forth as a rebuttal of Sunakkhatta's criticism of the Buddha. $\S \S 6-8$ cover the first three of the six direct knowledges (abhin $\bar{n} \bar{a}$ ), the last three appearing as the last of the ten powers of the Tathāgata. The latter, according to MA, are to be understood as powers of knowledge ( $\bar{n} \bar{a} n a b a l a$ ) that are attained by all Buddhas as the fruit of their accumulation of merit. The Vibhanga ( $\S \S 809-31 / 440-51$ ) of the Abhidhamma Pitaka provides an elaborate analysis of them.
+[^180]: All the sections to follow are set forth as a rebuttal of Sunakkhatta's criticism of the Buddha. §§6-8 cover the first three of the six direct knowledges (abhin $\bar{n} \bar{a}$ ), the last three appearing as the last of the ten powers of the Tathāgata. The latter, according to MA, are to be understood as powers of knowledge ( $\bar{n} \bar{a} n a b a l a$ ) that are attained by all Buddhas as the fruit of their accumulation of merit. The Vibhanga ( $\S \S 809-31 / 440-51$ ) of the Abhidhamma Pitaka provides an elaborate analysis of them.
 
 [^181]: On the Buddha's sounding of his lion's roar, see SN 22:78/iii.84-86. The Wheel of Brahmā is the supreme, best, most excellent wheel, the Wheel of the Dhamma (dhammacakka) in its twofold meaning: the knowledge penetrating the truth and the knowledge of how to expound the teaching (MA).
 
@@ -179,13 +179,13 @@ sition of miraculous powers.
 
 [^183]: This knowledge can be exemplified by the Buddha's analysis of kamma in MN 57, MN 135 and MN 136.
 
-[^184]: This knowledge will be elucidated in $\S \S 35-42$ below.
+[^184]: This knowledge will be elucidated in §§35-42 below.
 
 [^185]: The Tathāgata's understanding of the many elements constituting the world will be found in MN 115.4-9.
 
 [^186]: Vbh §813 explains that the Tathāgata understands that beings are of inferior inclinations and superior inclinations, and that they gravitate towards those who share their own inclinations.
 
-[^187]: Vbh $\S \S 814-27$ gives a detailed analysis. MA states the meaning more concisely as the Tathāgata's knowledge of the superiority and inferiority of beings' faculties of faith, energy, mindfulness, concentration, and wisdom.
+[^187]: Vbh §§814-27 gives a detailed analysis. MA states the meaning more concisely as the Tathāgata's knowledge of the superiority and inferiority of beings' faculties of faith, energy, mindfulness, concentration, and wisdom.
 
 [^188]: Vbh §828 : The "defilement" (sankilesa) is a state causing deterioration, "cleansing" (vodāna) a state causing excellence, "emergence" (vutṭhāna) is both cleansing and the rising out of an attainment. The eight liberations (vimokkha $\bar{a}$ ) are enumerated in MN 77.22 and MN 137.26; the nine attainments (samäpatti) are the four jhānas, four immaterial attainments, and the cessation of perception
 and feeling as in MN 25.12-20.

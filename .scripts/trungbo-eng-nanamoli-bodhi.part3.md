@@ -1144,7 +1144,7 @@ diminish in one who cultivates them should not be cultivated. [58] But such mind
 
 50. "Good, good, Sāriputta! It is good that you understand the detailed meaning of my utterance, which I spoke in brief without expounding the detailed meaning, to be thus.
 
-51-58. (In these paragraphs the Buddha repeats verbatim $\S \S 41-48$ with the necessary substitutions.) [60]
+51-58. (In these paragraphs the Buddha repeats verbatim §§41-48 with the necessary substitutions.) [60]
 
 59. "Sāriputta, the detailed meaning of my utterance, which I spoke in brief, should be regarded thus.
 
@@ -2625,7 +2625,7 @@ Then the Blessed One asked the venerable Ānanda: "Ānanda, how were you instruc
 
 'Let not a person revive the past...
 
-(Repeat the whole of the last sutta, $\S \S 3-10$ up to:)
+(Repeat the whole of the last sutta, §§3-10 up to:)
 
 Who has one fortunate attachment.'
 
@@ -2637,7 +2637,7 @@ Dhamma thus, and reciting the summary and exposition of 'One Who Has One Fortuna
 
 12-19. "Let not a person revive the past...
 
-(Repeat the whole of the last sutta, $\S \S 3-10$ up to:)
+(Repeat the whole of the last sutta, §§3-10 up to:)
 
 Who has one fortunate attachment."
 

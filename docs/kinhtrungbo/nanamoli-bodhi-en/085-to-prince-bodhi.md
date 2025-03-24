@@ -32,7 +32,7 @@ The Blessed One looked at the venerable Ānanda. [93] The venerable Ānanda said
 
 11-14. "Later, prince, while still young, a black-haired young man endowed with the blessing of youth, in the prime of life... (as Sutta 26, §§15-17)...And I sat down there thinking: 'This will serve for striving.'
 
-15-42. "Now three similes occurred to me spontaneously, never heard before...(as Sutta 36, $\S \S 17-44$, but in the present sutta in $\S \S 18-23$ - corresponding to $\S \S 20-25$ of Sutta 36 - the sentence "But such painful feeling that arose in me did not invade my mind and remain" does not occur; and in the present sutta in $\S \S 37$, 39 and 42 - corresponding to $\S \S 39,41$, and 44 of Sutta 36 - the sentence "But such pleasant feeling that arose in me did not invade my mind and remain" does not occur)...as happens in one who abides diligent, ardent, and resolute.
+15-42. "Now three similes occurred to me spontaneously, never heard before...(as Sutta 36, §§17-44, but in the present sutta in §§18-23 - corresponding to §§20-25 of Sutta 36 - the sentence "But such painful feeling that arose in me did not invade my mind and remain" does not occur; and in the present sutta in $\S \S 37$, 39 and 42 - corresponding to $\S \S 39,41$, and 44 of Sutta 36 - the sentence "But such pleasant feeling that arose in me did not invade my mind and remain" does not occur)...as happens in one who abides diligent, ardent, and resolute.
 
 43-53. "I considered: 'This Dhamma that I have attained is profound'...(as Sutta 26, §§19-29) [94]...and the six of us lived on what those two bhikkhus brought back from their almsround.
 

@@ -28,6 +28,7 @@ thủ uẩn.
 Chư Hiền, thế nào là sắc thủ uẩn? Bốn đại và sắc khởi lên từ bốn đại. Chư Hiền, thế nào là bốn đại?
 Chính là địa giới, thủy giới, hỏa giới, phong giới.
 
+<!--pg-->
 ***(Ðịa giới)***
 
 Chư Hiền, thế nào là địa giới? Có nội địa giới, có ngoại địa giới. Chư Hiền, thế nào là nội địa giới? Cái
@@ -72,6 +73,7 @@ như vậy, nhưng xả tương ưng với thiện không được an trú". Ch�
 vậy, niệm Pháp như vậy, niệm Tăng như vậy, và xả tương ưng với thiện được an trú, thì Tỷ-kheo ấy
 được hoan hỷ. Chư Hiền, đến mức độ này, Tỷ-kheo đã làm thật nhiều.
 
+<!--pg-->
 ***(Thủy giới)***
 
 Chư Hiền, thế nào là thủy giới? Có nội thủy giới, có ngoại thủy giới. Chư Hiền thế nào là nội thủy giới?
@@ -102,6 +104,7 @@ Chư Hiền, nếu có những người khác mắng nhiếc, chỉ trích, ch�
 như sau: ...(như trên)... và xả tương ứng với thiện được an trú. Chư Hiền, cho đến mức độ này, vị Tỷ-
 kheo đã làm thật nhiều.
 
+<!--pg-->
 ***(Hỏa giới)***
 
 Chư Hiền, thế nào là hỏa giới? Có nội hỏa giới, có ngoại hỏa giới. Chư Hiền, thế nào là nội hỏa giới?
@@ -126,6 +129,7 @@ Chư Hiền, nếu có những người khác mắng nhiếc, chỉ trích, ch�
 như sau: ...(như trên)... và xả tương ứng với thiện được an trú. Chư Hiền, cho đến mức độ này, vị Tỷ-
 kheo đã làm thật nhiều.
 
+<!--pg-->
 ***(Phong giới)***
 
 Chư Hiền, thế nào là phong giới? Có nội phong giới, có ngoại phong giới. Chư Hiền, thế nào là nội
@@ -145,6 +149,7 @@ nước chảy. Chư Hiền, tánh vô thường của ngoại phong giới xưa
 nêu rõ; tánh đoạn diệt có thể nêu rõ; tánh biến dịch có thể nêu rõ. Như vậy còn nói gì đến thân thể yểu
 thọ do khát ái chấp thủ này? Ở đây không có gì để có thể nói là tôi, là của tôi, hay tôi là.
 
+<!--pg-->
 Chư Hiền, nếu có những người khác mắng nhiếc, chỉ trích, chọc tức, nhiễu não Tỷ-kheo, vị ấy biết rõ
 như sau: "Khổ thọ khởi lên nơi tôi này thuộc tai xúc chạm; thọ này do nhân duyên, không phải không do
 nhân duyên. Do nhân duyên gì? Do nhân duyên xúc vậy". Vị ấy thấy xúc là vô thường; vị ấy thấy thọ là
@@ -153,7 +158,6 @@ tâm của vị này hoan hỷ, thích thú, tịnh chỉ, quyết định, tùy
 
 Chư Hiền, nếu những người khác xử sự với Tỷ-kheo, không có hoàn hảo, không có tốt đẹp, không có
 khả ái, hoặc dùng tay xúc chạm, hoặc dùng đá xúc chạm, hoặc dùng gậy xúc chạm, hoặc dùng gươm xúc
-
 chạm, vị ấy biết như sau: "Sự thể của thân này là như vậy nên tay có thể xúc chạm, đá có thể xúc chạm,
 gậy có thể xúc chạm, gươm có thể xúc chạm". Thế Tôn đã dạy như sau trong ví dụ cái cưa: "Chư Tỷ-
 kheo, nếu có kẻ trộm cướp hạ tiện lấy cái cưa hai lưỡi cắt từng phần tay và chân, nếu ai ở đây sanh ý
@@ -173,6 +177,8 @@ rủi ro cho ta, thật không tốt đẹp cho ta. Dầu ta có niệm Phật n
 như vậy, nhưng xả tương ưng với thiện không được an trú". Chư Hiền, nếu Tỷ- Kheo ấy niệm Phật như
 vậy, niệm Pháp như vậy, niệm Tăng như vậy, và xả tương ưng với thiện được an trú. Do vậy, Tỷ-kheo
 ấy được hoan hỷ. Chư Hiền, cho đến mức độ này, Tỷ-kheo đã làm thật nhiều.
+
+<!--pg-->
 
 Chư Hiền, như một khoảng trống được bao vây bởi cây gậy, bởi dây leo, bởi cỏ, bởi bùn, được biết là
 một nhà ở. Cũng vậy, Chư Hiền, một khoảng trống được bao vây bởi xương, bởi dây gân, bởi thịt, bởi
@@ -204,7 +210,6 @@ Hiền, Tỷ-kheo đã làm rất nhiều.
 
 Chư Hiền, nếu nội lưỡi không bị hư hại, nhưng ngoại vị không vào trong tầm lưỡi, không có sự quy tụ
 xúc chạm thích hợp, thì thức phần thích hợp không có hiện khởi. ... Cho đến mức độ này, Chư Hiền, Tỷ-
-
 kheo đã làm rất nhiều.
 
 Chư Hiền, nếu nội thân không bị hư hại, nhưng ngoại xúc không vào trong tầm của thân, không có sự

@@ -44,13 +44,13 @@ sữa, sống nhìn nhau với cặp mắt thiện cảm.
 -- Này các Anuruddha, như thế nào các Ông sống hòa hợp, hoan hỷ với nhau, như nước với sữa, sống
 nhìn nhau với cặp mắt thiện cảm?
 
+<!--pg-->
 -- Bạch Thế Tôn, ở đây, chúng con nghe như sau: "Thật lợi ích thay cho ta, thật khéo lợi ích thay cho ta,
 khi ta được sống với các vị đồng phạm hạnh như vậy". Bạch Thế Tôn, do vậy, đối với các vị đồng phạm
 hạnh này, con khởi lên từ thân nghiệp trước mặt và sau lưng, con khởi lên từ khẩu nghiệp, trước mặt và
 sau lưng, con khởi lên từ ý nghiệp, trước mặt và sau lưng. Bạch Thế Tôn, do vậy, chúng con nghĩ như
 sau: "Ta hãy từ bỏ tâm của ta và sống thuận theo tâm của những Tôn giả này". Bạch Thế Tôn, con từ bỏ
 tâm của con, và sống thuận theo tâm của những Tôn giả ấy. Bạch Thế Tôn, chúng con tuy khác thân
-
 nhưng giống như đồng một tâm.
 
 Rồi Tôn giả Nandiya... (như trên)... rồi Tôn giả Kimbila bạch Thế Tôn:

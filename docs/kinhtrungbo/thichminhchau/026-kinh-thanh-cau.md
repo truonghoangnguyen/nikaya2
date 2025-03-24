@@ -58,6 +58,7 @@ Tôn đến.
 không gia đình, cùng nhau hội họp để luận bàn đạo pháp. Này các Tỷ-kheo, khi các Người hội họp với
 nhau, có hai việc cần phải làm: luận bàn đạo pháp hay giữ sự im lặng của bậc Thánh.
 
+<!--pg-->
 ***(Hai loại tầm cầu)***
 
 Này các Tỷ-kheo, có hai loại tầm cầu này: Thánh cầu và phi Thánh cầu. Chư Tỷ-kheo, và thế nào là phi
@@ -101,9 +102,9 @@ biết rõ sự nguy hại của bị sanh, tìm cầu cái vô sanh, vô thư�
 mình bị già, sau khi biết rõ sự nguy hại của bị già, tìm cầu cái không già, vô thượng an ổn khỏi các khổ
 ách, Niết-bàn; tự mình bị bệnh... cái không bệnh... tự mình bị chết... cái bất tử... tự mình bị sầu... cái
 không sầu... tự mình bị ô nhiễm, sau khi biết rõ sự nguy hại của ô nhiễm, tìm cầu cái không ô nhiễm, vô
-
 thượng an ổn khỏi các khổ ách, Niết-bàn. Này các Tỷ-kheo, như vậy, gọi là Thánh cầu.
 
+<!--pg-->
 ***(Thánh cầu Giải thoát)***
 
 Này các Tỷ-kheo, Ta cũng vậy, trước khi Giác Ngộ, khi chưa chứng Chánh Ðẳng Giác, khi còn là Bồ-
@@ -160,6 +161,7 @@ không hướng đến thượng trí, không hướng đến giác ngộ, khôn
 chứng đạt Vô sở hữu xứ". Như vậy này các Tỷ-kheo, Ta không tôn kính pháp này, và từ bỏ pháp ấy, Ta
 bỏ đi.
 
+<!--pg-->
 Rồi này các Tỷ-kheo, Ta, kẻ đi tìm cái gì chí thiện, tìm cầu vô thượng tối thắng an tịnh đạo lộ. Ta đi đến
 chỗ Uddaka Ramaputta, khi đến xong Ta nói với Uddaka Ramaputta: "Hiền giả, tôi muốn sống phạm
 hạnh trong pháp luật này. Ðược nói vậy, này các Tỷ-kheo, Uddaka Ramaputta nói với Ta: "Này Tôn giả,
@@ -204,12 +206,12 @@ Này các Tỷ-kheo, Ta, kẻ đi tìm cái gì chí thiện, tìm cầu vô th�
 hành tại nước Magadha (Ma kiệt đà) và đến tại tụ lạc Uruvela (Ưu lâu tần loa). Tại đây, Ta thấy một địa
 điểm khả ái, một khóm rừng thoải mái, có con sông trong sáng chảy gần, với một chỗ lội qua dễ dàng
 khả ái, và xung quanh có làng mạc bao bọc dễ dàng đi khất thực. Này các Tỷ-kheo, rồi Ta tự nghĩ: "Thật
-
 là một địa điểm khả ái, một khóm rừng thoải mái, có con sông trong sáng chảy gần, với một chỗ lội qua
 dễ dàng khả ái, và xung quanh có làng mạc bao bọc dễ dàng đi khất thực. Thật là một chỗ vừa đủ cho
 một Thiện nam tử tha thiết tinh cần có thể tinh tấn". Và này các Tỷ-kheo, Ta ngồi xuống tại chỗ ấy và
 nghĩ: "Thật là vừa đủ để tinh tấn".
 
+<!--pg-->
 ***(Giác Ngộ)***
 
 Rồi này các Tỷ-kheo, Ta tự mình bị sanh, sau khi biết rõ sự nguy hại của cái bị sanh, tìm cầu cái không
@@ -236,15 +238,15 @@ Nếu nay Ta thuyết pháp mà các người khác không hiểu Ta, thời nh�
 thật bực mình cho Ta!" Này các Tỷ-kheo, rồi những kệ bất khả tư nghì, từ trước chưa từng được nghe,
 được khởi lên nơi Ta:
 
-*Sao Ta nói Chánh pháp,*
-*Ðược chứng ngộ khó khăn?*
-*Những ai còn tham sân,*
-*Khó chứng ngộ pháp này.*
+*Sao Ta nói Chánh pháp,*<br>
+*Ðược chứng ngộ khó khăn?*<br>
+*Những ai còn tham sân,*<br>
+*Khó chứng ngộ pháp này.*<br>
 
-*Ði ngược dòng, thâm diệu,*
-*Khó thấy, thật tế nhị,*
-*Kẻ ái nhiễm vô minh,*
-*Không thấy được pháp này.*
+*Ði ngược dòng, thâm diệu,*<br>
+*Khó thấy, thật tế nhị,*<br>
+*Kẻ ái nhiễm vô minh,*<br>
+*Không thấy được pháp này.*<br>
 
 Rồi này các Tỷ-kheo, với những suy tư như vậy, tâm của Ta hướng về vô vi thụ động, không muốn
 thuyết pháp.
@@ -260,36 +262,36 @@ Thiện Thệ, hãy thuyết pháp! Có những chúng sanh ít nhiễm bụi tr
 Chánh pháp. (Nếu được nghe), những vị này có thể thâm hiểu Chánh pháp". Này các Tỷ-kheo, Phạm
 thiện Sahampati nói như vậy. Sau khi nói vậy, lại nói thêm như sau:
 
-*Xưa tại Magadha,*
-*Hiện ra pháp bất tịnh,*
-*Pháp do tâm cấu uế,*
-*Do suy tư tác thành.*
-*Hãy mỡ tung mở rộng,*
-*Cánh cửa bất tử này.*
-*Hãy để họ nghe Pháp,*
-*Bậc Thanh tịnh Chứng Ngộ.*
+*Xưa tại Magadha,*<br>
+*Hiện ra pháp bất tịnh,*<br>
+*Pháp do tâm cấu uế,*<br>
+*Do suy tư tác thành.*<br>
+*Hãy mỡ tung mở rộng,*<br>
+*Cánh cửa bất tử này.*<br>
+*Hãy để họ nghe Pháp,*<br>
+*Bậc Thanh tịnh Chứng Ngộ.*<br>
 
-*Như đứng trên tảng đá,*
-*Trên đỉnh núi (tột cao)*
-*Có người đứng nhìn xuống,*
-*Ðám chúng sanh quây quần.*
-*Cũng vậy, ôi Thiện Tuệ,*
-*Bậc Biến Nhãn cùng khắp,*
-*Leo lên ngôi lâu đài,*
-*Xây dựng bằng Chánh pháp*
-*Bậc Thoát Ly sầu muộn,*
-*Nhìn xuống đám quần sanh,*
-*Bị sầu khổ áp bức,*
-*Bị sanh già chi phối,*
+*Như đứng trên tảng đá,*<br>
+*Trên đỉnh núi (tột cao)*<br>
+*Có người đứng nhìn xuống,*<br>
+*Ðám chúng sanh quây quần.*<br>
+*Cũng vậy, ôi Thiện Tuệ,*<br>
+*Bậc Biến Nhãn cùng khắp,*<br>
+*Leo lên ngôi lâu đài,*<br>
+*Xây dựng bằng Chánh pháp*<br>
+*Bậc Thoát Ly sầu muộn,*<br>
+*Nhìn xuống đám quần sanh,*<br>
+*Bị sầu khổ áp bức,*<br>
+*Bị sanh già chi phối,*<br>
 
-*Ðứng lên vị Anh Hùng,*
-*Bậc Chiến Thắng chiến trường.*
-*Vị trưởng đoàn lữ khách,*
-*Bậc Thoát Ly nợ nần.*
-*Hãy đi khắp thế giới,*
-*Bậc Thế Tôn Chánh Giác!*
-*Hãy thuyết vi diệu pháp,*
-*Người nghe sẽ thâm hiểu!*
+*Ðứng lên vị Anh Hùng,*<br>
+*Bậc Chiến Thắng chiến trường.*<br>
+*Vị trưởng đoàn lữ khách,*<br>
+*Bậc Thoát Ly nợ nần.*<br>
+*Hãy đi khắp thế giới,*<br>
+*Bậc Thế Tôn Chánh Giác!*<br>
+*Hãy thuyết vi diệu pháp,*<br>
+*Người nghe sẽ thâm hiểu!*<br>
 
 Này các Tỷ-kheo, sau khi biết được lời Phạm thiên yêu cầu, vì lòng từ bi đối với chúng sanh, với Phật
 nhãn, Ta nhìn quanh thế giới. Này các Tỷ-kheo, với Phật nhãn, Ta thấy có hạng chúng sanh ít nhiễm bụi
@@ -304,16 +306,16 @@ chúng sanh ít nhiễm bụi đời, nhiều nhiễm bụi đời, có hạng l
 có hạng dễ dạy khó dạy, và một số ít thấy sự nguy hiểm phải tái sanh thế giới khác và sự nguy hiểm làm
 những hành động lỗi lầm. Và này các Tỷ-kheo, Ta nói lên bài kệ sau đây với Phạm thiên Sahampati:
 
-*Cửa bất tử rộng mở,*
-*Cho những ai chịu nghe.*
-*Hãy từ bỏ tín tâm,*
-*Không chính xác của mình.*
+*Cửa bất tử rộng mở,*<br>
+*Cho những ai chịu nghe.*<br>
+*Hãy từ bỏ tín tâm,*<br>
+*Không chính xác của mình.*<br>
 
-*Tự nghĩ đến phiền toái,*
-*Ta đã không muốn giảng,*
-*Tối thượng vi diệu pháp,*
-*Giữa chúng sanh loài Người.*
-*(Ôi Phạm thiên)*
+*Tự nghĩ đến phiền toái,*<br>
+*Ta đã không muốn giảng,*<br>
+*Tối thượng vi diệu pháp,*<br>
+*Giữa chúng sanh loài Người.*<br>
+*(Ôi Phạm thiên)*<br>
 
 Này các Tỷ-kheo, rồi Phạm thiên Sahampati tự nghĩ: "Ta đã tạo cơ hội cho Thế Tôn thuyết pháp", đảnh
 lễ Ta, thân phía hữu hướng (về Ta) rồi biến mất tại chỗ.
@@ -341,6 +343,7 @@ kheo, Ta lại nghĩ: "Nay nhóm năm Tỷ-kheo ở tại đâu?" Này các Tỷ
 nhân, Ta thấy nhóm năm Tỷ-kheo hiện ở Baranasi (Ba la nại), tại Isipatana, vườn Lộc Uyển. Rồi này các
 Tỷ-kheo, sau khi ở tại Uruvela lâu cho đến khi mãn ý, Ta lên đường đi đến Baranasi.
 
+<!--pg-->
 ***(Khai giảng Chánh Pháp)***
 
 Này các Tỷ-kheo, một tà mạng ngoại đạo tên là Upaka, đã thấy Ta khi Ta còn đi trên con đường giữa
@@ -352,37 +355,37 @@ ai?"
 
 Này các Tỷ-kheo, khi nghe nói vậy, Ta nói với tà mạng đạo Upaka bài kệ như sau:
 
-*"-- Ta, bậc Thắng tất cả,*
-*Ta, bậc Nhất thiết Trí.*
-*Hết thảy pháp, không nhiễm,*
-*Hết thảy pháp, xả ly.*
-*Ta sống chân giải thoát,*
-*Ðoạn tận mọi khát ái.*
-*Như vậy Ta tự giác,*
+*"-- Ta, bậc Thắng tất cả,*<br>
+*Ta, bậc Nhất thiết Trí.*<br>
+*Hết thảy pháp, không nhiễm,*<br>
+*Hết thảy pháp, xả ly.*<br>
+*Ta sống chân giải thoát,*<br>
+*Ðoạn tận mọi khát ái.*<br>
+*Như vậy Ta tự giác,*<br>
 
-*Còn phải y chỉ ai?*
+*Còn phải y chỉ ai?*<br>
 
-*Ta không có Ðạo Sư,*
-*Bậc như Ta không có.*
-*Giữa thế giới Nhơn, Thiên,*
-*Không có ai bằng Ta.*
-*Bậc Ứng Cúng trên đời,*
-*Bậc Ðạo Sư vô thượng.*
-*Tự mình Chánh Ðẳng Giác,*
-*Ta an tịnh, thanh thoát.*
+*Ta không có Ðạo Sư,*<br>
+*Bậc như Ta không có.*<br>
+*Giữa thế giới Nhơn, Thiên,*<br>
+*Không có ai bằng Ta.*<br>
+*Bậc Ứng Cúng trên đời,*<br>
+*Bậc Ðạo Sư vô thượng.*<br>
+*Tự mình Chánh Ðẳng Giác,*<br>
+*Ta an tịnh, thanh thoát.*<br>
 
-*Ðể chuyển bánh xe Pháp.*
-*Ta đến thành Kàsi.*
-*Gióng lên trống bất tử,*
-*Trong thế giới mù lòa."*
+*Ðể chuyển bánh xe Pháp.*<br>
+*Ta đến thành Kàsi.*<br>
+*Gióng lên trống bất tử,*<br>
+*Trong thế giới mù lòa."*<br>
 
 "-- Như Hiền giả đã tự xưng, Hiền giả xứng đáng là bậc Chiến thắng Vô tận. "
 
-*"-- Như Ta, bậc Thắng giả,*
-*Những ai chứng lậu tận,*
-*Ác pháp, Ta nhiếp phục,*
-*Do vậy, Ta vô địch".*
-*(Này Upaka)*
+*"-- Như Ta, bậc Thắng giả,*<br>
+*Những ai chứng lậu tận,*<br>
+*Ác pháp, Ta nhiếp phục,*<br>
+*Do vậy, Ta vô địch".*<br>
+*(Này Upaka)*<br>
 
 Này các Tỷ-kheo, sau khi được nói vậy, tà mạng ngoại đạo Upaka nói với Ta:
 
@@ -460,6 +463,7 @@ bị ô nhiễm, tìm cầu cái không ô nhiễm, vô thượng an ổn, thoá
 kiến khởi lên nơi họ: "Sự giải thoát của chúng ta không bị dao động, đây thức gì được hiện khởi như vậy
 đều quy là đời sống cuối cùng. Nay không còn tái sanh nữa".
 
+<!--pg-->
 ***(Năm dục)***
 
 Này các Tỷ-kheo, có năm dục trưởng dưỡng. Thế nào là năm? Các sắc do mắt nhận thức, sắc này khả ái,

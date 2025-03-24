@@ -15,6 +15,7 @@ Then, when it was evening, the Blessed One rose from meditation and addressed th
 
 "Good, bhikkhus. It is fitting for you clansmen who have gone forth out of faith from the home life into homelessness to sit together to discuss the Dhamma. When you gather together, bhikkhus, you should do either of two things: hold discussion on the Dhamma or maintain noble silence. [^298]
 
+<!--pg-->
 (TWO KINDS OF SEARCH)
 
 5\. "Bhikkhus, there are these two kinds of search: the noble search and the ignoble search. And what is the ignoble search? Here someone being himself subject to birth seeks what is also subject to birth; being himself subject to ageing, [162] he seeks what is also subject to ageing; being himself subject to sickness, he seeks what is also subject to sickness; being himself subject to death, he seeks what is also subject to death; being himself subject to sorrow, he seeks what is also subject to sorrow; being himself subject to defilement, he seeks what is also subject to defilement.
@@ -35,6 +36,7 @@ and sheep, fowl and pigs, elephants, cattle, horses, and mares, gold and silver 
 12\. "And what is the noble search? Here someone being himself subject to birth, having understood the danger in what is subject to birth, [163] seeks the unborn supreme security from bondage, Nibbāna; being himself subject to ageing, having understood the danger in what is subject to ageing, he seeks the unageing supreme security from bondage, Nibbana; being
 himself subject to sickness, having understood the danger in what is subject to sickness, he seeks the unailing supreme security from bondage, Nibbāna; being himself subject to death, having understood the danger in what is subject to death, he seeks the deathless supreme security from bondage, Nibbāna; being himself subject to sorrow, having understood the danger in what is subject to sorrow, he seeks the sorrowless supreme security from bondage, Nibbāna; being himself subject to defilement, having understood the danger in what is subject to defilement, he seeks the undefiled supreme security from bondage, Nibbāna. This is the noble search.
 
+<!--pg-->
 #### (THE SEARCH FOR ENLIGHTENMENT)
 
 13\. "Bhikkhus, before my enlightenment, while I was still only an unenlightened Bodhisatta, I too, being myself subject to birth, sought what was also subject to birth; being myself subject to ageing, sickness, death, sorrow, and defilement, I sought what was also subject to ageing, sickness, death, sorrow, and defilement. Then I considered thus: 'Why, being myself subject to birth, do I seek what is also subject to birth? Why, being myself subject to ageing, sickness, death, sorrow, and defilement, do I seek what is also subject to ageing, sickness, death, sorrow, and defilement? Suppose that, being myself subject to birth, having understood the danger in what is subject to birth, I seek the unborn supreme security from bondage, Nibbāna. Suppose that, being myself subject to ageing, sickness, death, sorrow, and defilement, having understood the danger in what is subject to ageing, sickness, death, sorrow, and defilement, I seek the unageing, unailing, deathless, sorrowless, and undefiled supreme security from bondage, Nibbāna.'
@@ -51,6 +53,7 @@ replied: 'The venerable one may stay here. This Dhamma is such that a wise man [
 "I soon quickly entered upon and abided in that Dhamma by realising for myself with direct knowledge. Then I went to Ālāra Kālāma and asked him: 'Friend Kālāma, is it in this way that you declare that you enter upon and abide in this Dhamma by realising for yourself with direct knowledge?' - 'That is the way, friend.' - 'It is in this way, friend, that I also enter upon and abide in this Dhamma by realising for myself with direct knowledge.' - 'It is a gain for us, friend, it is a great gain for us that we have such a venerable one for our companion in the holy life. So the Dhamma that I declare I enter upon and abide in by realising for myself with direct knowledge is the Dhamma that you enter upon and abide in by realising for yourself with direct knowledge. [165] And the Dhamma that you enter upon and abide in by realising for yourself with direct knowledge is the Dhamma that I declare I enter upon and abide in by realising for myself with direct knowledge. So you know the Dhamma that I know and I know the Dhamma that you know. As I am, so are you; as you are, so am I. Come, friend, let us now lead this community together.'
 "Thus Ālāra Kālāma, my teacher, placed me, his pupil, on an equal footing with himself and awarded me the highest honour. But it occurred to me: 'This Dhamma does not lead to disenchantment, to dispassion, to cessation, to peace, to direct knowledge, to enlightenment, to Nibbāna, but only to reappearance in the base of nothingness. [^302] Not being satisfied with that Dhamma, I left it and went away.
 
+<!--pg-->
 16\. "Still in search, bhikkhus, of what is wholesome, seeking the supreme state of sublime peace, I went to Uddaka Rāmaputta and said to him: 'Friend, I want to lead the holy life in this Dhamma and Discipline. [^303] Uddaka Rāmaputta replied: 'The venerable one may stay here. This Dhamma is such that a wise man can soon enter upon and abide in it, himself realising through direct knowledge his own teacher's doctrine.' I soon quickly learned that Dhamma. As far as mere lip-reciting and rehearsal of his teaching went, I could speak with knowledge and assurance, and I claimed, 'I know and see' - and there were others who did likewise.
 
 "I considered: 'It was not through mere faith alone that Rāma declared: "By realising for myself with direct knowledge, I enter upon and abide in this Dhamma." Certainly Rāma abided knowing and seeing this Dhamma.' Then I went to Uddaka Rāmaputta and asked him: 'Friend, in what way did Rāma declare that by realising for himself with direct knowledge he entered upon and abided in this Dhamma?' In reply Uddaka Rāmaputta declared the base of neither-perception-nor-non-perception.
@@ -64,6 +67,7 @@ in the holy life. So the Dhamma that Rāma declared he entered upon and abided i
 
 17\. "Still in search, bhikkhus, of what is wholesome, seeking the supreme state of sublime peace, I wandered by stages through the Magadhan country until eventually I arrived at Senānigama near Uruvelā. [167] There I saw an agreeable piece of ground, a delightful grove with a clear-flowing river with pleasant, smooth banks and nearby a village for alms resort. I considered: 'This is an agreeable piece of ground, this is a delightful grove with a clear-flowing river with pleasant, smooth banks and nearby a village for alms resort. This will serve for the striving of a clansman intent on striving.' And I sat down there thinking: 'This will serve for striving. [^304]
 
+<!--pg-->
 #### (ENLIGHTENMENT)
 
 18\. "Then, bhikkhus, being myself subject to birth, having understood the danger in what is subject to birth, seeking the unborn supreme security from bondage, Nibbāna, I attained the unborn supreme security from bondage, Nibbāna; being myself subject to ageing, having understood the danger in what is subject to ageing, seeking the unageing supreme security from bondage, Nibbāna, I attained the unageing supreme security from bondage, Nibbāna; being myself subject to sickness, having understood the danger in what is subject to sickness, seeking the
@@ -71,53 +75,33 @@ unailing supreme security from bondage, Nibbāna, I attained the unailing suprem
 
 19\. "I considered: 'This Dhamma that I have attained is profound, hard to see and hard to understand, peaceful and sublime, unattainable by mere reasoning, subtle, to be experienced by the wise. [^305] But this generation delights in worldliness, takes delight in worldliness, rejoices in worldliness. [^306] It is hard for such a generation to see this truth, namely, specific conditionality, dependent origination. And it is hard to see this truth, namely, the stilling of all formations, the relinquishing of all attachments, the destruction of craving, dispassion, cessation, Nibbāna. [168] If I were to teach the Dhamma, others would not understand me, and that would be wearying and troublesome for me.' Thereupon there came to me spontaneously these stanzas never heard before:
 
-'Enough with teaching the Dhamma
-
-That even I found hard to reach;
-
-For it will never be perceived
-
-By those who live in lust and hate.
-
-Those dyed in lust, wrapped in darkness
-
-Will never discern this abstruse Dhamma
-
-Which goes against the worldly stream,
-
-Subtle, deep, and difficult to see.'
+*'Enough with teaching the Dhamma*<br>
+*That even I found hard to reach;*<br>
+*For it will never be perceived*<br>
+*By those who live in lust and hate.*<br>
+*Those dyed in lust, wrapped in darkness*<br>
+*Will never discern this abstruse Dhamma*<br>
+*Which goes against the worldly stream,*<br>
+*Subtle, deep, and difficult to see.'*<br>
 
 Considering thus, my mind inclined to inaction rather than to teaching the Dhamma. [^307]
 
 20\. "Then, bhikkhus, the Brahmā Sahampati knew with his mind the thought in my mind and he considered: 'The world will be lost, the world will perish, since the mind of the Tathāgata, accomplished and fully enlightened, inclines to inaction rather than to teaching the Dhamma.' Then, just as quickly as a strong man might extend his flexed arm or flex his extended arm, the Brahmā Sahampati vanished in the Brahma-world and appeared before me. He arranged his upper robe on one shoulder, and extending his hands in reverential salutation towards me, said: 'Venerable sir, let the Blessed One teach the Dhamma, let the Sublime One teach the Dhamma. There are beings with little dust in their eyes who are wasting through not hearing the Dhamma. There will be those who will understand the Dhamma.' The Brahmā Sahampati spoke thus, and then he said further:
 
-'In Magadha there have appeared till now
-
-Impure teachings devised by those still stained.
-
-Open the doors to the Deathless! Let them hear
-
-The Dhamma that the Stainless One has found.
-
-Just as one who stands on a mountain peak
-
-Can see below the people all around,
-
-So, O Wise One, All-seeing Sage,
-
-Ascend the palace of the Dhamma.
-
-Let the Sorrowless One survey this human breed,
-
-Engulfed in sorrow, overcome by birth and old age. [169]
-
-Arise, victorious hero, caravan leader,
-
-Debtless one, and wander in the world.
-
-Let the Blessed One teach the Dhamma,
-
-There will be those who will understand.'
+*'In Magadha there have appeared till now*<br>
+*Impure teachings devised by those still stained.*<br>
+*Open the doors to the Deathless! Let them hear*<br>
+*The Dhamma that the Stainless One has found.*<br>
+*Just as one who stands on a mountain peak*<br>
+*Can see below the people all around,*<br>
+*So, O Wise One, All-seeing Sage,*<br>
+*Ascend the palace of the Dhamma.*<br>
+*Let the Sorrowless One survey this human breed,*<br>
+*Engulfed in sorrow, overcome by birth and old age. [169]*<br>
+*Arise, victorious hero, caravan leader,*<br>
+*Debtless one, and wander in the world.*<br>
+*Let the Blessed One teach the Dhamma,*<br>
+*There will be those who will understand.'*<br>
 
 21\. "Then I listened to the Brahmā's pleading, and out of compassion for beings I surveyed the world with the eye of a Buddha. Surveying the world with the eye of a Buddha, I saw beings with little dust in their eyes and with much dust in their eyes, with keen faculties and with dull faculties, with good qualities and with bad qualities, easy to teach and hard to teach, and some who dwelt seeing fear in blame and in the other world. Just as in a pond of blue or red or white lotuses, some lotuses
 that are born and grow in the water thrive immersed in the water without rising out of it, and some other lotuses that are born and grow in the water rest on the water's surface, and some other lotuses that are born and grow in the water rise out of the water and stand clear, unwetted by it; so too, surveying the world with the eye of a Buddha, I saw beings with little dust in their eyes and with much dust in their eyes, with keen faculties and with dull faculties, with good qualities and with bad qualities, easy to teach and hard to teach, and some who dwelt seeing fear in blame and in the other world. Then I replied to the Brahmā Sahampati in stanzas:
@@ -138,38 +122,30 @@ Then the Brahmā Sahampati thought: 'I have created the opportunity for the Bles
 
 25\. "Then, bhikkhus, when I had stayed at Uruvelā as long as I chose, I set out to wander by stages to Benares. Between Gayā and the Place of Enlightenment the Ājīvaka Upaka saw me on the road and said: 'Friend, your faculties are clear, the colour of your skin is pure and bright. Under whom have you gone forth, friend? Who is your teacher? Whose Dhamma do you [171] profess?' I replied to the Ājīvaka Upaka in stanzas:
 
-'I am one who has transcended all, a knower of all, Unsullied among all things, renouncing all, By craving's ceasing freed. Having known this all For myself, to whom should I point as teacher?
+*'I am one who has transcended all, a knower of all,*<br>
+*Unsullied among all things, renouncing all,*<br>
+*By craving's ceasing freed. Having known this all*<br>
+*For myself, to whom should I point as teacher?*<br>
 
-I have no teacher, and one like me
+*I have no teacher, and one like me*<br>
+*Exists nowhere in all the world*<br>
+*With all its gods, because I have*<br>
+*No person for my counterpart.*<br>
 
-Exists nowhere in all the world
+*I am the Accomplished One in the world, I am the Teacher Supreme.*<br>
+*I alone am a Fully Enlightened One*<br>
+*Whose fires are quenched and extinguished.*<br>
 
-With all its gods, because I have
+*I go now to the city of Kāsi*<br>
+*To set in motion the Wheel of Dhamma.*<br>
+*In a world that has become blind*<br>
+*I go to beat the drum of the Deathless.'*<br>
 
-No person for my counterpart.
-
-I am the Accomplished One in the world, I am the Teacher Supreme.
-
-I alone am a Fully Enlightened One
-
-Whose fires are quenched and extinguished.
-
-I go now to the city of Kāsi
-
-To set in motion the Wheel of Dhamma.
-
-In a world that has become blind
-
-I go to beat the drum of the Deathless.'
-
-'By your claims, friend, you ought to be the Universal Victor. [^309]
-'The victors are those like me
-
-Who have won to destruction of taints.
-
-I have vanquished all evil states,
-
-Therefore, Upaka, I am a victor.'
+*'By your claims, friend, you ought to be the Universal Victor. [^309]*<br>
+*'The victors are those like me*<br>
+*Who have won to destruction of taints.*<br>
+*I have vanquished all evil states,*<br>
+*Therefore, Upaka, I am a victor.'*<br>
 
 "When this was said, the Ājīvaka Upaka said: 'May it be so, friend.' Shaking his head, he took a bypath and departed. [^310]
 
@@ -190,6 +166,7 @@ Juxury. The Tathāgata is an Accomplished One, a Fully Enlightened One. Listen, 
 30\. "Then the bhikkhus of the group of five, thus taught and instructed by me, being themselves subject to birth, having understood the danger in what is subject to birth, seeking the unborn supreme security from bondage, Nibbāna, attained the unborn supreme security from bondage, Nibbāna; being themselves subject to ageing, sickness, death, sorrow, and defilement, having understood the danger in what is subject to ageing, sickness, death, sorrow, and defilement, seeking the unageing, unailing, deathless, sorrowless, and undefiled supreme security from bondage, Nibbāna, they attained the unageing, unailing, deathless, sorrowless, and undefiled supreme security from
 bondage, Nibbāna. The knowledge and vision arose in them: 'Our deliverance is unshakeable; this is our last birth; there is no renewal of being.'
 
+<!--pg-->
 #### (SENSUAL PLEASURE)
 
 31\. "Bhikkhus, there are these five cords of sensual pleasure. [^315] What are the five? Forms cognizable by the eye that are wished for, desired, agreeable and likeable, connected with sensual desire, and provocative of lust. Sounds cognizable by the ear...Odours cognizable by the nose...Flavours cognizable by the tongue...Tangibles cognizable by the body that are wished for, desired, agreeable and likeable, connected with sensual desire, and provocative of lust. These are the five cords of sensual pleasure.

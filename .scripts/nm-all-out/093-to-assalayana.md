@@ -149,7 +149,7 @@ father, and it is the mother's season, and the being to be reborn is present. Th
 
 [^872]: Yona is probably the Pali equivalent of Ionia, the reference being to the Bactrian Greeks. Kamboja is a district in India to the north of the Middle Country.
 
-[^873]: The argument of $\S \S 7-8$ here is substantially identical with that of MN 84.
+[^873]: The argument of §§7-8 here is substantially identical with that of MN 84.
 
 [^874]: MA identifies Devala the Dark, Asita Devala, with the Buddha in an earlier life. The Buddha undertakes this teaching to show: "In the past, when you were of a superior birth and I was of an inferior birth, you could not answer a question I asked you about an assertion concerning birth. So how can you do so now, when you are inferior and I have become a Buddha?"
 

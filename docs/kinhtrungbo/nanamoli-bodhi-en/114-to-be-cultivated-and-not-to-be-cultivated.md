@@ -168,7 +168,7 @@ diminish in one who cultivates them should not be cultivated. [58] But such mind
 
 50\. "Good, good, Sāriputta! It is good that you understand the detailed meaning of my utterance, which I spoke in brief without expounding the detailed meaning, to be thus.
 
-51-58. (In these paragraphs the Buddha repeats verbatim $\S \S 41-48$ with the necessary substitutions.) [60]
+51-58. (In these paragraphs the Buddha repeats verbatim §§41-48 with the necessary substitutions.) [60]
 
 59\. "Sāriputta, the detailed meaning of my utterance, which I spoke in brief, should be regarded thus.
 

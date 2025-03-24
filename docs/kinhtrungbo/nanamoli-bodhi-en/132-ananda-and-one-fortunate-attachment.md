@@ -15,7 +15,7 @@ Then the Blessed One asked the venerable Ānanda: "Ānanda, how were you instruc
 
 'Let not a person revive the past...
 
-(Repeat the whole of the last sutta, $\S \S 3-10$ up to:)
+(Repeat the whole of the last sutta, §§3-10 up to:)
 
 Who has one fortunate attachment.'
 
@@ -27,7 +27,7 @@ Dhamma thus, and reciting the summary and exposition of 'One Who Has One Fortuna
 
 12-19. "Let not a person revive the past...
 
-(Repeat the whole of the last sutta, $\S \S 3-10$ up to:)
+(Repeat the whole of the last sutta, §§3-10 up to:)
 
 Who has one fortunate attachment."
 

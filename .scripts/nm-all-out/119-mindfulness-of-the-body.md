@@ -109,7 +109,7 @@ That is what the Blessed One said. The bhikkhus were satisfied and delighted in 
 
 ## Notes
 
-[^1129]: §§4-17 of this sutta is identical with MN 10.4-30, except that here the refrain on insight has been replaced by the refrain that begins "As he abides thus diligent." This change indicates a shift in emphasis from insight in MN 10 to concentration in the present sutta. This shift reappears in the passage on the jhānas at $\S \S 18-21$ and the passage on the direct knowledges at $\S \S 37-41$, both of which distinguish this sutta from MN 10.
+[^1129]: §§4-17 of this sutta is identical with MN 10.4-30, except that here the refrain on insight has been replaced by the refrain that begins "As he abides thus diligent." This change indicates a shift in emphasis from insight in MN 10 to concentration in the present sutta. This shift reappears in the passage on the jhānas at §§18-21 and the passage on the direct knowledges at §§37-41, both of which distinguish this sutta from MN 10.
 
 [^1130]: The similes for the jhānas are also found at MN 39.15-18 and MN 77.25-28.
 

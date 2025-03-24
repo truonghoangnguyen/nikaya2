@@ -18,6 +18,7 @@
 
 "But, Anuruddha, how do you live thus?"
 
+<!--pg-->
 7\. "Venerable sir, as to that, I think thus: 'It is a gain for me, it is a great gain for me, that I am living with such companions in the holy life.' I maintain bodily acts of loving-kindness towards those venerable ones both openly and privately; I maintain verbal acts of loving-kindness towards them both openly and privately; I maintain mental acts of loving-kindness towards them both openly and privately. [^355] I consider: 'Why should I not [207] set aside what I wish to do and do what these venerable ones wish to do?' Then I set aside what I wish to do and do what these venerable ones wish to do. We are different in body, venerable sir, but one in mind."
 
 The venerable Nandiya and the venerable Kimbila each spoke likewise, adding: "That is how, venerable sir, we are living in concord, with mutual appreciation, without disputing, blending like milk and water, viewing each other with kindly eyes."

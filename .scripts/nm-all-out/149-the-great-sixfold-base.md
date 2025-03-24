@@ -59,5 +59,5 @@ of suffering, and developing the path leading to the end of suffering.
 
 [^1345]: MA identifies "true knowledge" with the knowledge of the path of arahantship, "deliverance" with the fruit of arahantship. Here these take the place usually reserved for Nibbāna, the true cessation of suffering.
 
-[^1346]: This passage and each of the following passages repeat the entire text of $\S \S 9-11$, the only change being in the sense faculty and object.
+[^1346]: This passage and each of the following passages repeat the entire text of §§9-11, the only change being in the sense faculty and object.
 

@@ -170,7 +170,7 @@ That is what the Blessed One said. The venerable Anuruddha was satisfied and del
 
 [^1187]: This verse and the next two appear at Dhp 3, 5-6. The last three verses appear at Dhp 328-30.
 
-[^1188]: The passage at $\S \S 8-15$ is nearly identical with MN 31.3-10. From the sequel, however, it is clear that the present sutta is set at an earlier time, for in MN 31 all three bhikkhus have reached arahantship while here they are still striving for the goal.
+[^1188]: The passage at §§8-15 is nearly identical with MN 31.3-10. From the sequel, however, it is clear that the present sutta is set at an earlier time, for in MN 31 all three bhikkhus have reached arahantship while here they are still striving for the goal.
 
 [^1189]: It is here that the present sutta continues differently from MN 31. MA explains light (obhāsa) as the preliminary light, which MT glosses as the light-produced by the access to jhāna. MT adds that one who gains the fourth jhāna develops the light-kasina as the preliminary to arousing the divine eye. The "vision of forms" (dassanam rüpänam) is the seeing of forms with the divine eye. Ven. Anuruddha was later declared by the Buddha to be the foremost disciple in the exercise of the divine eye.
 

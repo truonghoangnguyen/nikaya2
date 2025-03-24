@@ -161,7 +161,7 @@ That is what the Blessed One said. The wanderer Udāyin was satisfied and deligh
 
 [^761]: Anägatam vādapatham. Nim had translated: "a future logical consequence of an assertion." The meaning seems to be that the Buddha understands all the unexpressed implications of his own doctrine as well as of his opponents' doctrines. The phrase may also imply that, in such suttas as the Brahmajala Sutta, the Buddha has laid down a critique applicable to any doctrine that might arise in the future course of religio-philosophical thought.
 
-[^762]: Explained in full in MN 10. The first seven groups of "wholesome states" ( $\S \S 15-21$ ) constitute the thirty-seven requisites of enlightenment (bodhipakkhiya dhammā).
+[^762]: Explained in full in MN 10. The first seven groups of "wholesome states" ( §§15-21 ) constitute the thirty-seven requisites of enlightenment (bodhipakkhiya dhammā).
 
 [^763]: Abhinñã̃osānaparamippatta. MA explains as the attainment of arahantship. This may be the only sense that the word param $ī bears in its appearance in the four Nikāyas. In the later Theravāda literature, beginning perhaps with such works as the Buddhavamisa, this word comes to signify the perfect virtues that a bodhisatta must fulfil over many lives in order to attain Buddhahood. In that context it corresponds to the paramitä of the Mahāyāna literature, though the numerical lists of virtues overlap only in part.
 
@@ -176,7 +176,7 @@ remaining liberations are the immaterial attainments and the attainment of cessa
 
 [^768]: The kasina is a meditation object derived from a physical device that provides a support for acquiring the inwardly visualised sigh. Thus, for example, a disk made of clay can be used as the preliminary object for practising the earth-kasina, a bowl of water for practising the waterkasina. The kasinas are explained in detail in Vsm IV and V. There, however, the space-kasina is restricted to limited space, and the consciousness-kasina is replaced by the light-kasina.
 
-[^769]: The similes for the jhānas also appear in MN 39, as do the similes for the last three types of knowledge at $\S \S 34-36$.
+[^769]: The similes for the jhānas also appear in MN 39, as do the similes for the last three types of knowledge at §§34-36.
 
 [^770]: §§29-36 describe eight varieties of higher knowledge which, in the Sāmaññaphala Sutta, are designated superior fruits of recluseship.
 

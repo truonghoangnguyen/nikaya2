@@ -2478,7 +2478,7 @@ were to sever you savagely limb by limb with a two-handled saw, he who gave rise
 
 17. "Now there comes a time when the external fire element is disturbed. It burns up villages, towns, cities, districts, and countries. It goes out due to lack of fuel only when it comes to green grass, or to a road, or to a rock, or to water, or to a fair open space. There comes a time when they seek to make a fire even with cocks' feathers and hide-parings. When even this external fire element, great as it is, is seen to be impermanent, subject to destruction, disappearance, and change, what of this body, which is clung to by craving and lasts but a while? There can be no considering that as 'I' or 'mine' or 'I am.'
 
-18-20. "So then, if others abuse, revile, scold, and harass a bhikkhu [who has seen this element as it actually is], he understands thus:...(repeat $\S \S 8-10$ )...At that point too, friends, much has been done by that bhikkhu.
+18-20. "So then, if others abuse, revile, scold, and harass a bhikkhu [who has seen this element as it actually is], he understands thus:...(repeat §§8-10 )...At that point too, friends, much has been done by that bhikkhu.
 
 (THE AIR ELEMENT)
 
@@ -2486,7 +2486,7 @@ were to sever you savagely limb by limb with a two-handled saw, he who gave rise
 
 19. "Now there comes a time when the external air element is disturbed. It sweeps away villages, towns, cities, districts, and countries. There comes a time in the last month of the hot season when they seek wind by means of a fan or bellows and even the strands of straw in the drip-fringe of the thatch do not stir. When even this external air element, great as it is, is seen to be impermanent, subject to destruction, disappearance, and change, what of this body, which is clung to by craving and lasts but a while? There can be no considering that as 'I' or 'mine' or 'I am.'
 
-23-25. "So then, if others abuse, revile, scold, and harass a bhikkhu [who has seen this element as it actually is], he understands thus:...[190] (repeat $\S \S 8-10$ )... At that point too, friends, much has been done by that bhikkhu.
+23-25. "So then, if others abuse, revile, scold, and harass a bhikkhu [who has seen this element as it actually is], he understands thus:...[190] (repeat §§8-10 )... At that point too, friends, much has been done by that bhikkhu.
 
 26. "Friends, just as when a space is enclosed by timber and creepers, grass, and clay, it comes to be termed 'house,' so too, when a space is enclosed by bones and sinews, flesh and skin, it comes to be termed 'material form. [^338]
 
@@ -2494,7 +2494,7 @@ were to sever you savagely limb by limb with a two-handled saw, he who gave rise
 
 28. "The material form in what has thus come to be is included in the material form aggregate affected by clinging. [^340] The feeling in what has thus come to be is included in the feeling aggregate affected by clinging. The perception in what has thus come to be is included in the perception aggregate affected by clinging. The formations in what has thus come to be are included in the formations aggregate affected by clinging. The consciousness in what has thus come to be is included in the consciousness aggregate affected by clinging. He understands thus: 'This, indeed, is how there comes to be the inclusion, gathering, and amassing of things into these five aggregates affected by clinging. Now this has been said by the Blessed One: "One who sees [191] dependent origination sees the Dhamma; one who sees the Dhamma sees dependent origination. [^341] And these five aggregates affected by clinging are dependently arisen. The desire, indulgence, inclination, and holding based on these five aggregates affected by clinging is the origin of suffering. [^342] The removal of desire and lust, the abandonment of desire and lust for these five aggregates affected by clinging is the cessation of suffering.' At that point too, friends, much has been done by that bhikkhu. [^343]
 
-29-30. "If, friends, internally the ear is intact but no external sounds come into its range...(as in $\S \S 27-28$ )...At that point too, friends, much has been done by that bhikkhu.
+29-30. "If, friends, internally the ear is intact but no external sounds come into its range...(as in §§27-28 )...At that point too, friends, much has been done by that bhikkhu.
 
 31-32. "If, friends, internally the nose is intact but no external smells come into its range...At that point too, friends, much has been done by that bhikkhu.
 

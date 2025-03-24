@@ -9,6 +9,7 @@ Một thời Thế Tôn ở tại Rajagaha (Vương Xá), núi Gijjhakuta (Linh 
 đa) từ bỏ (Chúng Tăng) ra đi không bao lâu. Ÿ đây, nhân việc Devadatta, Thế Tôn cho gọi các Tỷ-kheo
 và dạy như sau:
 
+<!--pg-->
 -- Ÿ đây, này các Tỷ-kheo, có Thiện nam tử do lòng tin xuất gia, từ bỏ gia đình, sống không gia đình:
 "Ta bị chìm đắm trong sanh, già, chết, sầu, bi, khổ, ưu, não, bị chìm đắm trong đau khổ, bị chi phối bởi
 đau khổ. Rất có thể, toàn bộ khổ uẩn này có thể chấm dứt được". Vị ấy xuất gia như vậy, được lợi
@@ -33,6 +34,7 @@ vậy, Còn các Tỷ-kheo khác ít được biết đến, ít có uy quyền"
 này, trở thành mê say, tham đắm, phóng dật. Do sống phóng dật, vị ấy bị đau khổ. Chư Tỷ-kheo, Tỷ-
 kheo ấy được gọi là vị đã nắm lấy cành lá của phạm hạnh, vì do vậy, vị ấy đã dừng lại (ở đây).
 
+<!--pg-->
 Nhưng ở đây, này các Tỷ-kheo, có vị thiện nam tử vì lòng tin xuất gia, từ bỏ gia đình, sống không gia
 đình: "Ta bị chìm đắm trong sanh, già, chết, sầu, bi, khổ, ưu não, bị chìm đắm trong đau khổ, bị chi phối
 bởi đau khổ. Rất có thể toàn bộ khổ uẩn này có thể chấm dứt". Rồi vị ấy xuất gia như vậy, được lợi
@@ -51,11 +53,11 @@ này muốn được lõi cây, tìm cầu lõi cây. Trong khi đi tìm lõi c�
 cây, người này bỏ qua lõi cây, bỏ qua giác cây, bỏ qua vỏ trong, chặt vỏ ngoài, lấy chúng mang đi,
 tưởng đó là lõi cây. Và người này không đạt mục đích mà lõi cây có thể thành tựu". Cũng vậy, này các
 Tỷ-kheo, ở đây Tỷ-kheo vì lòng tin xuất gia, từ bỏ gia đình, sống không gia đình... (như trên)... Do thành
-
 tựu giới đức này, vị ấy trở thành mê say, tham đắm, phóng dật. Do sống phóng dật, vị ấy bị đau khổ.
 Chư Tỷ-kheo, Tỷ-kheo ấy được gọi là vị đã nắm lấy vỏ ngoài của phạm hạnh. Và do vậy, vị ấy đã dừng
 lại (ở đây).
 
+<!--pg-->
 Nhưng ở đây, này các Tỷ-kheo, có Thiện nam tử vì lòng tin xuất gia, từ bỏ gia đình, sống không gia
 đình: "Ta bị chìm đắm trong vòng sanh, già, chết, sầu, bi, khổ ưu, não, bị chìm đắm trong đau khổ, bị
 chi phối bởi đau khổ. Rất có thể toàn bộ khổ uẩn này có thể chấm dứt được". Rồi vị ấy xuất gia như vậy,
@@ -80,6 +82,7 @@ sống không gia đình... (như trên)... Do thành tựu thiền định này
 phóng dật. Vì sống phóng dật, vị ấy bị đau khổ. Chư Tỷ-kheo, như vậy vị ấy được gọi là Tỷ-kheo đã
 nắm giữ vỏ trong của phạm hạnh. Và do vậy, vị ấy đã dừng lại (ở đây).
 
+<!--pg-->
 Lại nữa, ở đây, có Thiện nam tử, vì lòng tin xuất gia, từ bỏ gia đình, sống không gia đình: "Ta bị chìm
 đắm trong vòng sanh, già, chết, sầu, bi, khổ, ưu, não, bị chìm đắm trong đau khổ, bị chi phối bởi đau
 khổ. Rất có thể toàn bộ khổ uẩn này có thể chấm dứt". Vị ấy xuất gia như vậy, được lợi dưỡng, tôn kính,
@@ -103,9 +106,9 @@ một cây lớn, đứng thẳng, có lõi cây, người ấy bỏ qua lõi c�
 cây. Và người ấy không đạt được mục đích mà lõi cây có thể thành tựu. Cũng vậy, này các Tỷ-kheo, ở
 đây, có Thiện nam tử, vì lòng tin xuất gia, từ bỏ gia đình, sống không gia đình... Vị này, vì tri kiến này
 nên mê say, tham đắm, phóng dật. Vì sống phóng dật, vị này bị đau khổ. Chư Tỷ-kheo, như vậy vị này
-
 gọi là đã nắm giữ giác cây của phạm hạnh. Và do vậy, vị ấy đã dừng lại (ở đây)".
 
+<!--pg-->
 Lại nữa, ở đây, này các Tỷ-kheo, có vị Thiện nam tử, vì lòng tin xuất gia, từ bỏ gia đình, sống không gia
 đình: "Ta bị chìm đắm trong vòng sanh, già, chết, sầu, bi, khổ, ưu, não, bị chìm đắm trong đau khổ, bị
 chi phối bởi đau khổ. Rất có thể toàn bộ khổ uẩn này có thể chấm dứt". Vị ấy xuất gia như vậy, được lợi
