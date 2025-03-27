@@ -1,4 +1,5 @@
 const dn_thichminhchau = [
+  { text: "Mục lục", link: "/kinhtruongbo/thichminhchau/mucluc.md" },
   { text: "1. KINH PHẠM VÕNG", link: "/kinhtruongbo/thichminhchau/001-kinh-pham-vong.md" },
   { text: "2. KINH SA MÔN QỦA", link: "/kinhtruongbo/thichminhchau/002-kinh-sa-mon-qua.md" },
   { text: "3. KINH AMBATTHA (A-MA-TRÚ)", link: "/kinhtruongbo/thichminhchau/003-kinh-ambattha-a-ma-tru.md" },
