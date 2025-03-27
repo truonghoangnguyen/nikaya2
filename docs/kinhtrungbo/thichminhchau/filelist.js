@@ -1,4 +1,4 @@
-const thichminhchau = [
+const mn_thichminhchau = [
   { text: "Kinh Trung Bộ Ht. Thích Minh Châu", link: "/kinhtrungbo/thichminhchau/index.md" },
   { text: "1. Lời Nói Ðầu", link: "/kinhtrungbo/thichminhchau/g1.md" },
   { text: "2. Lời Giới Thiệu", link: "/kinhtrungbo/thichminhchau/g2.md" },
@@ -156,4 +156,4 @@ const thichminhchau = [
   { text: "152. KINH CĂN TU TẬP", link: "/kinhtrungbo/thichminhchau/152-kinh-can-tu-tap.md" },
 
 ];
-export default thichminhchau;
+export default mn_thichminhchau;

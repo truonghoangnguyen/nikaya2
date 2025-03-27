@@ -10,6 +10,7 @@ cư sĩ Visakha đến chỗ Tỷ-kheo-ni Dhammadinna ở, sau khi đến, đả
 ngồi xuống một bên. Sau khi ngồi xuống một bên, nam cư sĩ Visakha thưa với Tỷ-kheo ni
 Dhammadinna:
 
+<!--pg-->
 ***(Tự thân)***
 
 -- Thưa Ni sư, tự thân, tự thân, (Sakkaya), được gọi là như vậy. Thưa Ni sư, Thế Tôn gọi tự thân là như
@@ -46,6 +47,7 @@ kiến, chánh tư duy, chánh ngữ, chánh nghiệp, chánh mạng, chánh tin
 kia, Hiền giả Visakha, phàm có dục tham đối với năm thủ uẩn, tức là (chấp) thủ đối với chúng ở đây
 vậy.
 
+<!--pg-->
 ***(Thân kiến)***
 
 -- Thưa Ni sư, thế nào là thân kiến?
@@ -72,6 +74,7 @@ hành là tự ngã, không xem tự ngã là có các hành, không xem các h�
 là trong các hành; không xem thức là tự ngã, không xem tự ngã là có thức, không xem thức là trong tự
 ngã, không xem tự ngã là trong thức. Như vậy, Hiền giả Visakha, là không có thân kiến.
 
+<!--pg-->
 ***(Bát chánh đạo)***
 
 -- Thưa Ni sư, thế nào là Thánh đạo Tám ngành?
@@ -92,6 +95,7 @@ pháp này được thâu nhiếp trong giới uẩn. Chánh tinh tấn, chánh 
 được thâu nhiếp trong định uẩn. Chánh tri kiến và chánh tư duy, những pháp này được thâu nhiếp trong
 tuệ uẩn
 
+<!--pg-->
 ***(Ðịnh)***
 
 -- Thưa Ni sư thế nào là định, thế nào là định tướng, thế nào là định tư cụ, thế nào là định tu tập?
@@ -99,6 +103,7 @@ tuệ uẩn
 -- Hiền giả Visakha, nhất tâm là định, Bốn Niệm Xứ là định tướng, Bốn Tinh cần là định tư cụ, sự luyện
 tập, sự tu tập, sự tái tu tập của những pháp ấy là định tu tập ở đây vậy.
 
+<!--pg-->
 ***(Hành)***
 
 -- Thưa Ni sư, có bao nhiêu hành?
@@ -116,6 +121,7 @@ hành?
 thuộc về thân hành. Hiền giả Visakha, trước phải tầm và tứ rồi sau mới phát lời nói, nên tầm tứ thuộc về
 khẩu hành. Tưởng và thọ và tâm sở, các pháp này lệ thuộc với tâm, nên tưởng và thọ thuộc về tâm hành.
 
+<!--pg-->
 ***(Diệt định)***
 
 -- Thưa Ni sư, như thế nào là chứng nhập Diệt thọ tưởng định?
@@ -151,9 +157,9 @@ vô tướng xúc, vô nguyện xúc.
 khuynh hướng về gì?
 
 -- Hiền giả Visakha, khi Tỷ-kheo xuất khởi Diệt thọ tưởng định, tâm của vị ấy thiên về độc cư, hướng về
-
 độc cư, khuynh hướng về độc cư.
 
+<!--pg-->
 ***(Thọ)***
 
 -- Thưa Ni sư, có bao nhiêu thọ?
@@ -173,6 +179,7 @@ khổ bất lạc thọ, cái gì lạc, cái gì khổ?
 -- Hiền giả Visakha, đối với lạc thọ, cái gì trú là lạc, cái gì biến hoại là khổ. Ðối với khổ thọ, cái gì trú là
 khổ, cái gì biến hoại là lạc. Ðối với bất khổ bất lạc thọ, có trí là lạc, vô trí là khổ.
 
+<!--pg-->
 ***(Tùy miên)***
 
 -- Thưa Ni sư, trong lạc thọ, có tùy miên gì tồn tại; trong khổ thọ, có tùy miên gì tồn tại; trong bất khổ
@@ -202,7 +209,6 @@ Visakha, vị Tỷ-kheo ly dục, ly bất thiện pháp, chứng và an trú Th
 ly dục sanh, có tầm và tứ. Do vậy tham đã được từ bỏ, không còn tham tùy miên tồn tại ở đây.
 
 Ở đây, Hiền giả Visakha, vị Tỷ-kheo suy tư như sau: "Chắc chắn ta sẽ chứng và an trú trong trú xứ mà
-
 nay các vị Thánh đang an trú". Vì muốn phát nguyện hướng đến các cảnh giải thoát vô thượng, do ước
 nguyện ấy, khởi lên ưu tư. Do vậy, sân được từ bỏ, không còn sân tùy miên tồn tại ở đây.
 
@@ -210,6 +216,7 @@ nguyện ấy, khởi lên ưu tư. Do vậy, sân được từ bỏ, không c�
 thứ tư, không khổ, không lạc, xả niệm thanh tịnh. Do vậy vô minh đã được từ bỏ, không còn vô minh
 tùy miên tồn tại ở đây.
 
+<!--pg-->
 ***(Ðối tác)***
 
 -- Thưa Ni sư, lạc thọ lấy gì làm tương đương?
@@ -243,6 +250,7 @@ là để thể nhập vào Niết-bàn, để vượt qua đến Niết-bàn, �
 Hiền giả muốn, hãy đến chỗ Thế Tôn ở, và hỏi ý nghĩa này. Và Thế Tôn trả lời cho Hiền giả như thế
 nào, hãy như vậy thọ trì.
 
+<!--pg-->
 ***(Kết luận)***
 
 Rồi nam cư sĩ Visakha hoan hỷ, tín thọ lời Tỷ-kheo-ni Dhammadinna giảng, từ chỗ ngồi đứng dậy, đảnh

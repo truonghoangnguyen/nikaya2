@@ -3,10 +3,12 @@
 
 [225] 1. Thus have I heard. On one occasion the Blessed One was living in the Vajjian country at Ukkäcelā on the banks of the river Ganges. There he addressed the bhikkhus thus: "Bhikkhus." - "Venerable sir," they replied. The Blessed One said this:
 
+<!--pg-->
 2\. "Bhikkhus, there was once a foolish Magadhan cowherd who, in the last month of the rainy season, in the autumn, without examining the near shore or the further shore of the river Ganges, drove his cattle across to the other shore in the Videhan country at a place that had no ford. Then the cattle bunched together in mid-stream in the river Ganges, and they met with calamity and disaster. Why was that? Because that foolish Magadhan cowherd, in the last month of the rainy season, in the autumn, without examining the near shore or the further shore of the river Ganges, drove his cattle across to the other shore in the Videhan country at a place that had no ford.
 
 3\. "So too, bhikkhus, as to those recluses and brahmins who are unskilled in this world and the other world, unskilled in Māra's realm and what is outside Māra's realm, unskilled in the realm of Death and what is outside the realm of Death - it will lead to the harm and suffering for a long time of those who think they should listen to them and place faith in them.
 
+<!--pg-->
 4\. "Bhikkhus, there was once a wise Magadhan cowherd who, in the last month of the rainy season, in the autumn, after examining the near shore and the further shore of the river Ganges, drove his cattle across to the other shore in the Videhan country at a place that had a ford. He made the bulls, the fathers and leaders of the herd, enter first, and they breasted the stream of the Ganges and got safely across to the further shore. He made the strong cattle and the cattle to be tamed enter next, and they
 too breasted the stream of the Ganges and got safely across to the further shore. He made the heifers and young oxen enter next, and they too breasted the stream of the Ganges and got safely across to the further shore. He made the calves and the feeble cattle enter next, and they too breasted the stream of the Ganges and got safely across to the further shore. At the time there was a tender calf just born, and being urged on by its mother's lowing, it too breasted the stream of the Ganges and got safely across to the further shore. Why was that? Because that wise Magadhan cowherd, [226] in the last month of the rainy season, in the autumn, after examining the near shore and the further shore of the river Ganges, drove his cattle across to the other shore in the Videhan country at a place that had a ford.
 
@@ -27,24 +29,15 @@ ther shore.
 
 12\. That is what the Blessed One said. When the Sublime One had said that, the Teacher said further:
 
-"Both this world and the world beyond
-
-Are well described by the one who knows,
-
-And what is still in Māra's reach
-
-And what is out of reach of Death.
-
-Knowing directly all the world,
-
-The Enlightened One who understands
-
-Opened the door to the deathless state
-
-By which Nibbāna may be safely reached;
-
-For Māra's stream is breasted now, Its current blocked, its reeds removed;
-
-Rejoice then, bhikkhus, mightily
-
-And set your hearts where safety lies."
+*"Both this world and the world beyond*<br>
+*Are well described by the one who knows,*<br>
+*And what is still in Māra's reach*<br>
+*And what is out of reach of Death.*<br>
+*Knowing directly all the world,*<br>
+*The Enlightened One who understands*<br>
+*Opened the door to the deathless state*<br>
+*By which Nibbāna may be safely reached;*<br>
+*For Māra's stream is breasted now,*<br>
+*Its current blocked, its reeds removed;*<br>
+*Rejoice then, bhikkhus, mightily*<br>
+*And set your hearts where safety lies."*<br>

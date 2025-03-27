@@ -5,6 +5,7 @@
 
 2\. The brahmin householders of Sālā heard: "The recluse Gotama, the son of the Sakyans who went forth from a Sakyan clan, has been wandering in the Kosalan country with a large Sangha of bhikkhus and has come to Sālā. Now a good report of Master Gotama has been spread to this effect: 'That Blessed One is accomplished, fully enlightened, perfect in true knowledge and conduct, sublime, knower of worlds, incomparable leader of persons to be tamed, teacher of gods and humans, enlightened, blessed. He declares this world with its gods, its Māras, and its Brahmās, this generation with its recluses and brahmins, its princes and its people, which he has himself realised with direct knowledge. He teaches the Dhamma good in the beginning, good in the middle, and good in the end, with the right meaning and phrasing, and he reveals a holy life that is utterly perfect and pure.' Now it is good to see such arahants."
 
+<!--pg-->
 3\. Then the brahmin householders of Sālā went to the Blessed One. Some paid homage to the Blessed One and sat down at one side; some exchanged greetings with him, and when this courteous and amiable talk was finished, sat down at one side; some extended their hands in reverential salutation towards the Blessed One and sat down at one side; some pronounced their name and clan in the Blessed One's presence and sat down at one side; some kept silent and sat down at one side.
 
 4\. When they were seated, they said to the Blessed One: "Master Gotama, what is the cause and condition why some beings here, on the dissolution of the body, after death, reappear
@@ -18,6 +19,7 @@ in states of deprivation, in an unhappy destination, in perdition, even in hell?
 
 "Yes, venerable sir," they replied. The Blessed One said this:
 
+<!--pg-->
 7\. "Householders, there are three kinds of bodily conduct not in accordance with the Dhamma, unrighteous conduct. There are four kinds of verbal conduct not in accordance with the Dhamma, unrighteous conduct. There are three kinds of mental conduct not in accordance with the Dhamma, unrighteous conduct.
 
 8\. "And how, householders, are there three kinds of bodily conduct not in accordance with the Dhamma, unrighteous conduct? Here someone kills living beings; he is murderous, bloodyhanded, given to blows and violence, merciless to living beings. He takes what is not given; he takes by way of theft the wealth and property of others in the village or forest. He misconducts himself in sensual pleasures; he has intercourse with women who are protected by their mother, father, mother and father, brother, sister, or relatives, who have a husband, who are protected by law, and even with those who are garlanded in token of betrothal. That is how there are three kinds of bodily conduct not in accordance with the Dhamma, unrighteous conduct.

@@ -5,6 +5,7 @@
 
 Then, when it was evening, the venerable Mahā Kotthita rose from meditation, went to the venerable Sāriputta, and exchanged greetings with him. [^428] When this courteous and amiable talk was finished, he sat down at one side and said to the venerable Sāriputta:
 
+<!--pg-->
 (WISDOM)
 
 2\. "'One who is unwise, one who is unwise' is said, friend. With reference to what is this said, 'one who is unwise'?"
@@ -18,6 +19,7 @@ Saying, "Good, friend," the venerable Mahā Kotthita delighted and rejoiced in t
 "'One wisely understands, one wisely understands,' friend; that is why it is said, 'one who is wise.' What does one wisely understand? One wisely understands: 'This is suffering'; one
 wisely understands: 'This is the origin of suffering'; one wisely understands: 'This is the cessation of suffering'; one wisely understands: 'This is the way leading to the cessation of suffering.' 'One wisely understands, one wisely understands,' friend; that is why it is said, 'one who is wise.'"429
 
+<!--pg-->
 #### (CONSCIOUSNESS)
 
 4\. "'Consciousness, consciousness' is said, friend. With reference to what is 'consciousness' said?"
@@ -32,12 +34,14 @@ wisely understands: 'This is the origin of suffering'; one wisely understands: '
 
 "The difference, friend, between wisdom and consciousness, these states that are conjoined, not disjoined, is this: wisdom is to be developed, consciousness is to be fully understood." [^433]
 
+<!--pg-->
 #### (FEELING)
 
 7\. "'Feeling, feeling' is said, friend. With reference to what is 'feeling' said?"
 
 "'It feels, it feels,' friend; that is why 'feeling' is said. What does it feel? It feels pleasure, it feels pain, it feels neither-pain-norpleasure. 'It feels, it feels,' friend, that is why 'feeling' is said." [^434]
 
+<!--pg-->
 #### (PERCEPTION)
 
 8\. "'Perception, perception,' is said, friend. With reference to what is 'perception' said?"
@@ -48,6 +52,7 @@ wisely understands: 'This is the origin of suffering'; one wisely understands: '
 
 "Feeling, perception, and consciousness, friend - these states are conjoined, not disjoined, and it is impossible to separate each of these states from the others in order to describe the difference between them. For what one feels, that one perceives; and what one perceives, that one cognizes. That is why these states are conjoined, not disjoined, and it is impossible to separate each of these states from the others in order to describe the difference between them." [^436]
 
+<!--pg-->
 #### (KNOWABLE BY MIND ALONE)
 
 10\. "Friend, what can be known by purified mind-consciousness released from the five faculties?"
@@ -61,6 +66,8 @@ wisely understands: 'This is the origin of suffering'; one wisely understands: '
 12\. "Friend, what is the purpose of wisdom?"
 
 "The purpose of wisdom, friend, is direct knowledge, its purpose is full understanding, its purpose is abandoning." [^439]
+
+<!--pg-->
 (RIGHT VIEW)
 
 [294] 13. "Friend, how many conditions are there for the arising of right view?"
@@ -71,6 +78,7 @@ wisely understands: 'This is the origin of suffering'; one wisely understands: '
 
 "Friend, right view is assisted by five factors when it has deliverance of mind for its fruit, deliverance of mind for its fruit and benefit, when it has deliverance by wisdom for its fruit, deliverance by wisdom for its fruit and benefit. Here, friend, right view is assisted by virtue, learning, discussion, serenity, and insight. Right view assisted by these five factors has deliverance of mind for its fruit, deliverance of mind for its fruit and benefit; it has deliverance by wisdom for its fruit, deliverance by wisdom for its fruit and benefit." [^441]
 
+<!--pg-->
 (BEING)
 
 15\. "Friend, how many kinds of being are there?"
@@ -85,6 +93,7 @@ wisely understands: 'This is the origin of suffering'; one wisely understands: '
 
 "Friend, with the fading away of ignorance, with the arising of true knowledge, and with the cessation of craving, renewal of being in the future is not generated."
 
+<!--pg-->
 (THE FIRST JHĀNA)
 
 18\. "Friend, what is the first jhāna?"
@@ -100,6 +109,7 @@ thought, with rapture and pleasure born of seclusion. This is called the first j
 
 "Friend, in the first jhăna five factors are abandoned and five factors are possessed. Here, when a bhikkhu has entered upon the first jhăna, sensual desire is abandoned, ill will is abandoned, sloth and torpor are abandoned, restlessness and remorse [295] are abandoned, and doubt is abandoned; and there occur applied thought, sustained thought, rapture, pleasure, and unification of mind. That is how in the first jhăna five factors are abandoned and five factors are possessed."
 
+<!--pg-->
 (THE FIVE FACULTIES)
 
 21\. "Friend, these five faculties each have a separate field, a separate domain, and do not experience each other's field and domain, that is, the eye faculty, the ear faculty, the nose faculty, the tongue faculty, and the body faculty. Now of these five faculties, each having a separate field, a separate domain, not experiencing each other's field and domain, what is their resort, what experiences their fields and domains?"443
@@ -125,6 +135,7 @@ thought, with rapture and pleasure born of seclusion. This is called the first j
 
 "In that case, friend, I shall give you a simile, for some wise men here understand the meaning of a statement by means of a simile. Just as when an oil-lamp is burning, its radiance is seen in dependence on its flame and its flame is seen in dependence on its radiance; so too, vitality stands in dependence on heat and heat stands in dependence on vitality."
 
+<!--pg-->
 #### (VITAL FORMATIONS)
 
 23\. "Friend, are vital formations states of feeling or are vital formations one thing and states of feeling another?" [296]
@@ -140,6 +151,7 @@ thought, with rapture and pleasure born of seclusion. This is called the first j
 "Friend, in the case of one who is dead, who has completed his time, his bodily formations have ceased and subsided, his verbal formations have ceased and subsided, his mental formations
 have ceased and subsided, his vitality is exhausted, his heat has been dissipated, and his faculties are fully broken up. In the case of a bhikkhu who has entered upon the cessation of perception and feeling, his bodily formations have ceased and subsided, his verbal formations have ceased and subsided, his mental formations have ceased and subsided, but his vitality is not exhausted, his heat has not been dissipated, and his faculties become exceptionally clear. [^448] This is the difference between one who is dead, who has completed his time, and a bhikkhu who has entered upon the cessation of perception and feeling."
 
+<!--pg-->
 #### (DELIVERANCE OF MIND)
 
 26\. "Friend, how many conditions are there for the attainment of the neither-painful-nor-pleasant deliverance of mind?"
@@ -177,6 +189,6 @@ signless deliverance of mind. [^451] This is the way in which these states are d
 
 36\. "Lust is a something, hate is a something, delusion is a something. [^454] In a bhikkhu whose taints are destroyed, these are abandoned, cut off at the root, made like a palm stump, done away with so that they are no longer subject to future arising. Of all the kinds of deliverance of mind through nothingness, the unshakeable deliverance of mind is pronounced the best. [^455] Now that unshakeable deliverance of mind is void of lust, void of hate, void of delusion.
 
-37\. "Lust is a maker of signs, hate is a maker of signs, delusion is a maker of signs. [^456] In a bhikkhu whose taints are destroyed, these are abandoned, cut off at the root, made like a palm stump, done away with so that they are no longer subject to future arising. Of all the kinds of signless deliverance of mind, the unshakeable deliverance of mind is pronounced the best. [^457] Now that unshakeable deliverance of mind is void of lust, void of hate, void of delusion. This is the way in which these states are one in meaning and different only in name. ${ }^{\text {"458 }}$
+37\. "Lust is a maker of signs, hate is a maker of signs, delusion is a maker of signs. [^456] In a bhikkhu whose taints are destroyed, these are abandoned, cut off at the root, made like a palm stump, done away with so that they are no longer subject to future arising. Of all the kinds of signless deliverance of mind, the unshakeable deliverance of mind is pronounced the best. [^457] Now that unshakeable deliverance of mind is void of lust, void of hate, void of delusion. This is the way in which these states are one in meaning and different only in name. [^458]
 
 That is what the venerable Sāriputta said. The venerable Mahā Kotthita was satisfied and delighted in the venerable Sāriputta's words.

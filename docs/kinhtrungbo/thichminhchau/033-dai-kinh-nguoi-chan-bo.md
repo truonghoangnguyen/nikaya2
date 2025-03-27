@@ -14,6 +14,7 @@ Một thời Thế Tôn ở tại Savatthi (Xá-vệ), Jetavana (Kỳ-đà Lâm)
 
 Các Tỷ-kheo ấy vâng đáp Thế Tôn. Thế Tôn thuyết giảng như sau:
 
+<!--pg-->
 -- Này các Tỷ-kheo, nếu không đầy đủ mười một đức tánh này, một người chăn bò không thể chăn giữ
 đàn bò, không thể khiến đàn bò được hưng thịnh. Thế nào là mười một? Ở đây, này các Tỷ-kheo, một
 người chăn bò không biết rõ sắc, không khéo (phân biệt) các tướng, không từ bỏ trứng con bò chét,
@@ -97,11 +98,11 @@ không có sự tôn kính, sự tôn trọng đặc biệt.
 Này các Tỷ-kheo, Tỷ-kheo nào không đầy đủ mười một pháp này, thì không thể lớn mạnh, tăng thịnh,
 thành mãn trong Pháp, Luật này.
 
+<!--pg-->
 Này các Tỷ-kheo, người chăn bò đầy đủ mười một đức tánh này có thể chăn giữ đàn bò, khiến đàn bò
 trở thành hưng thịnh. Thế nào là mười một? Ở đây, này các Tỷ-kheo, người chăn bò biết rõ sắc, khéo
 (phân biệt) các tướng, trừ bỏ trứng con bò chét, băng bó vết thương, có xông khói, biết chỗ nước có thể
 lội qua, biết chỗ nước uống, biết con đường, khéo léo đối với các chỗ đàn bò có thể ăn cỏ, không vắt sữa
-
 cho đến khô kiệt, là người chú ý săn sóc đặc biệt, những con bò đực già và đầu đàn. Này các Tỷ-kheo,
 người chăn bò đầy đủ mười một đức tánh này có thể chăn giữ đàn bò và làm cho đàn bò trở thành hưng
 thịnh.
@@ -152,7 +153,6 @@ Pháp và Luật do Như Lai tuyên thuyết, giảng dạy, chứng đạt ngh�
 chứng đạt sự hân hoan liên hệ đến Pháp. Như vậy, là Tỷ-kheo biết chỗ nước uống.
 
 Và các Tỷ-kheo, thế nào là Tỷ-kheo biết rõ về con đường? Ở đây, này các Tỷ-kheo, Tỷ-kheo như thật
-
 biết con đường Thánh đạo Tám ngành. Như vậy, này các Tỷ-kheo, là Tỷ-kheo biết rõ con đường.
 
 Và này, các Tỷ-kheo, thế nào là Tỷ-kheo khéo léo đối với các chỗ đàn bò có thể ăn cỏ. Ở đây, này các

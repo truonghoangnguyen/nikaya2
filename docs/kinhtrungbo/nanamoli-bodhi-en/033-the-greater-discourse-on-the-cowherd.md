@@ -7,6 +7,7 @@
 
 3\. "So too, bhikkhus, when a bhikkhu possesses eleven qualities, he is incapable of growth, increase, and fulfilment in this Dhamma and Discipline. What eleven? Here a bhikkhu has no knowledge of form, he is unskilled in characteristics, he fails to pick out flies' eggs, he fails to dress wounds, he fails to smoke out the sheds, he does not know the watering place, he does not know what it is to have drunk, he does not know the road, he is unskilled in pastures, he milks dry, and he shows no extra veneration to those elder bhikkhus of long-standing who have long gone forth, the fathers and leaders of the Sangha.
 
+<!--pg-->
 4\. "How has a bhikkhu no knowledge of form? Here a bhikkhu does not understand as it actually is thus: 'All material form of whatever kind consists of the four great elements and the material form derived from the four great elements.' That is how a bhikkhu has no knowledge of form.
 
 5\. "How is a bhikkhu unskilled in characteristics? Here a bhikkhu does not understand as it actually is thus: 'A fool is characterised by his actions; a wise man is characterised by his actions.' That is how a bhikkhu is unskilled in characteristics. [^364]
@@ -32,6 +33,7 @@ not know the watering place.
 
 "When a bhikkhu possesses these eleven qualities, he is incapable of growth, increase, and fulfilment in this Dhamma and Discipline.
 
+<!--pg-->
 15\. "Bhikkhus, when a cowherd possesses eleven factors, he is capable of keeping and rearing a herd of cattle. What eleven? Here a cowherd has knowledge of form, he is skilled in characteristics, he picks out flies' eggs, he dresses wounds, he smokes out the sheds, he knows the watering place, he knows what it is to have drunk, he knows the road, he is skilled in pastures, he does not milk dry, and he shows extra veneration to those bulls who are fathers and leaders of the herd. When a cowherd
 possesses these eleven factors, he is capable of keeping and rearing a herd of cattle.
 

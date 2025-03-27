@@ -14,6 +14,7 @@ các Tỷ-kheo.
 
 Những Tỷ-kheo ấy vâng đáp Thế Tôn. Thế Tôn thuyết giảng như sau:
 
+<!--pg-->
 -- Ngày xưa, này các Tỷ-kheo, tại Magadha có người chăn bò vô trí, vào cuối tháng mùa mưa, trong mùa
 gặt hái, không quan sát bờ bên này sông Hằng, không quan sát bờ bên kia sông Hằng, đuổi đàn bò qua
 bờ bên kia tại Suvideha, tại chỗ không có thể lội qua được. Này các Tỷ-kheo, những con bò xô nhau tụ
@@ -27,6 +28,7 @@ Cũng vậy, này các Tỷ-kheo, có những Sa-môn hay Bà-la-môn không kh�
 biết phi tử thần giới, những ai nghĩ rằng cần phải nghe, cần phải tin những vị này, thì họ sẽ gặp bất hạnh
 đau khổ lâu dài.
 
+<!--pg-->
 Ngày xưa, này các Tỷ-kheo, tại Magadha có người chăn bò có trí, vào cuối tháng mùa mưa, trong mùa
 gặt hái, sau khi quán sát bờ bên này sông Hằng, sau khi quán sát bờ bên kia sông Hằng, đuổi đàn bò qua
 bờ bên kia tại Suvideha, tại chỗ có thể lội qua được. Người đó đuổi đi đầu những con bò đực già, những
@@ -50,7 +52,6 @@ Này các Tỷ-kheo, ví như những con bò đực già, đầu đàn, chúng 
 bờ bên kia một cách an toàn. Cũng vậy, này các Tỷ-kheo, các Tỷ-kheo là những bậc A-la-hán, đã đoạn
 trừ các lậu hoặc, tu hành thành mãn, các việc nên làm đã làm, đã đặt gánh nặng xuống, đã đạt được mục
 đích, các hữu kiết sử đã hoàn toàn bị đoạn diệt, đã được giải thoát nhờ chánh trí. Những vị này, sau khi
-
 lội cắt ngang dòng sông của Ma vương, đã qua bờ bên kia một cách an toàn.
 
 Này các Tỷ-kheo, ví như những con bò đực lớn mạnh, những con bò đực có huấn luyện, sau khi lội cắt
@@ -81,21 +82,21 @@ nghĩ rằng, cần phải nghe, cần phải tin nơi Ta, thì họ sẽ đư�
 
 Thế Tôn thuyết giảng như vậy. Sau khi Thiện Thệ nói vậy, bậc Ðạo Sư lại nói thêm bài kệ như sau:
 
-*Ðời này và đời sau,*
-*Bậc Trí khéo trình bày,*
-*Cảnh giới Ma đạt được,*
-*Cảnh Tử Thần không đạt.*
+*Ðời này và đời sau,*<br>
+*Bậc Trí khéo trình bày,*<br>
+*Cảnh giới Ma đạt được,*<br>
+*Cảnh Tử Thần không đạt.*<br>
 
-*Bậc Chánh Giác, Trí Giả,*
-*Biết rõ mọi thế giới,*
-*Cửa bất tử rộng mở,*
-*Ðạt an ổn Niết-bàn.*
+*Bậc Chánh Giác, Trí Giả,*<br>
+*Biết rõ mọi thế giới,*<br>
+*Cửa bất tử rộng mở,*<br>
+*Ðạt an ổn Niết-bàn.*<br>
 
-*Dòng Ma bị chặt ngang,*
-*Nát tan và hư hoại,*
-*Hãy sống sung mãn hỷ,*
-*Ðạt an ổn Niết-bàn,*
-*(Này các Tỷ-kheo).*
+*Dòng Ma bị chặt ngang,*<br>
+*Nát tan và hư hoại,*<br>
+*Hãy sống sung mãn hỷ,*<br>
+*Ðạt an ổn Niết-bàn,*<br>
+*(Này các Tỷ-kheo).*<br>
 
 **-ooOoo-**
 

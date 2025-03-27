@@ -19,6 +19,7 @@ Thế Tôn ngồi xuống trên chỗ ngồi đã soạn sẵn. Rồi Niganthapu
 lên những lời hỏi thăm, chúc tụng, xã giao với Thế Tôn rồi ngồi xuống một bên. Sau khi ngồi xuống một
 bên, Niganthaputta Saccaka nói với Thế Tôn:
 
+<!--pg-->
 -- Tôn giả Gotama, có một số Sa-môn, Bà-la-môn sống chuyên lo tu tập về thân, không tu tập về tâm.
 Tôn giả Gotama, những vị này cảm khổ thọ về thân. Sự tình này đã xảy ra, này Tôn giả Gotama, do cảm
 khổ về thân, chân sẽ bị tê liệt, quả tim có thể tức bể, máu nóng có thể trào ra từ miệng, có thể bị điên
@@ -69,6 +70,7 @@ thân tu tập, tâm tu tập? Hãy nghe và khéo tác ý, Ta sẽ giảng.
 
 Niganthaputta Saccaka trả lời Thế Tôn. Thế Tôn thuyết giảng như sau:
 
+<!--pg-->
 -- Này Aggivessana, thế nào là thân không tu tập và thế nào là tâm không tu tập? Ở đây, này
 Aggivessana, kẻ vô văn phàm phu khởi lên lạc thọ. Người này được cảm giác lạc thọ, liền tham đắm lạc
 thọ và rơi vào sự tham đắm lạc thọ. Nếu lạc thọ ấy bị diệt mất, do lạc thọ đoạn diệt, khởi lên khổ thọ.
@@ -97,6 +99,7 @@ tập.
 đình, lạc thọ thật sự khởi lên nơi Ta, chi phối tâm và an trú, hay khổ thọ thật sự khởi lên nơi Ta, chi phối
 tâm và an trú, sự tình như vậy không thể xảy ra.
 
+<!--pg-->
 -- Phải chăng, một lạc thọ không khởi lên nơi Tôn giả Gotama một cách khiến cho lạc thọ ấy không thể
 chi phối tâm và an trú, phải chăng một khổ thọ khởi lên nơi Tôn giả Gotama một cách khiến cho khổ thọ
 ấy không thể chi phối tâm và an trú?
@@ -200,6 +203,7 @@ dễ dàng khả ái, và xung quanh có làng mạc bao bọc dễ dàng đi kh
 một Thiện nam tử tha thiết tinh cần có thể tinh tấn". Và này các Tỷ-kheo, Ta ngồi xuống tại chỗ ấy và
 nghĩ rằng: "Thật đáng cố gắng tinh tấn ở nơi đây".
 
+<!--pg-->
 Rồi này Aggivessana, ba ví dụ khởi lên nơi Ta, vi diệu, từ trước chưa từng được nghe: Này
 Aggivessana, ví như có một khúc cây đẫm ướt, đầy nhựa sống và đặt trong nước. Có một người đến,
 
@@ -253,9 +257,9 @@ nội tâm được khéo đoạn trừ. Nếu những Tôn giả Sa-môn hay B�
 cảm giác chói đau, khổ đau, kịch liệt, khốc liệt, các vị ấy có thể chứng được tri kiến vô thượng Chánh
 Ðẳng Giác. Và nếu những Tôn giả Sa-môn hay Bà-la-môn này không thình lình cảm thọ những cảm
 giác khổ đau, kịch liệt, khốc liệt, các vị này cũng có thể chứng được tri kiến vô thượng Chánh Ðẳng
-
 Giác. Này Aggivessana, đó là ví dụ thứ ba, vi diệu, từ trước chưa từng được nghe, được khởi lên nơi Ta.
 
+<!--pg-->
 Này Aggivessana, rồi Ta suy nghĩ: "Ta hãy nghiến răng, dán chặt lên lưỡi lên nóc họng, lấy tâm chế ngự
 tâm, nhiếp phục tâm, đánh bại tâm!" Này Aggivessana, rồi Ta nghiến răng, dán chặt lưỡi lên nóc họng,
 lấy tâm chế ngự tâm, nhiếp phục tâm, đánh bại tâm. Khi Ta đang nghiến răng, dán chặt lưỡi lên nóc
@@ -305,7 +309,6 @@ một con dao cắt thịt bò sắc bén. Cũng vậy, này Aggivessana, khi Ta
 ngang qua mũi và ngang qua tai, một ngọn kinh khủng cắt ngang bụng của Ta. Này Aggivessana, dầu
 cho Ta có chí tâm, tinh cần, tinh tấn, tận lực, dẫu cho niệm được an trú, không dao động nhưng thân của
 Ta vẫn bị khích động, không được khinh an, vì Ta bị chi phối bởi sự tinh tấn, do tinh tấn chống lại khổ
-
 thọ ấy. Tuy vậy này Aggivessana, khổ thọ ấy khởi lên nơi Ta, được tồn tại, nhưng không chi phối tâm
 Ta.
 
@@ -325,6 +328,7 @@ Thiên nói như sau: "Sa-môn Gotama chưa chết, nhưng Sa-môn Gotama sắp 
 nói như sau: "Sa-môn Gotama chưa chết. Sa-môn Gotama, cũng không phải sắp chết. Sa-môn Gotama là
 bậc A-la-hán, đời sống của một A-la-hán là như vậy".
 
+<!--pg-->
 Này Aggivessana, rồi Ta suy nghĩ như sau: "Ta hãy hoàn toàn tuyệt thực". Rồi này Aggivessana, chư
 Thiên đến Ta và nói như sau: "Này Thiện hữu, Hiền giả chớ có hoàn toàn tuyệt thực. Này Thiện hữu,
 nếu Hiền giả có hoàn toàn tuyệt thực, chúng tôi sẽ đổ các món ăn chư Thiên ngang qua các lỗ chân lông
@@ -357,7 +361,6 @@ Aggivessana, da của Ta vốn thanh tịnh, trong sáng bị hư hoại vì Ta 
 
 Này Aggivessana, rồi Ta suy nghĩ như sau: "Thuở xưa có những Sa-môn hay Bà-la-môn thình lình cảm
 thọ những cảm giác chói đau, khổ đau, kịch liệt, khốc liệt. Những sự đau khổ này là tối thượng, không
-
 thể có gì hơn nữa. Về tương lai, có những Sa-môn hay Bà-la-môn thình lình cảm thọ những cảm giác
 chói đau, khổ đau, kịch liệt, khốc liệt. Những sự đau khổ này là tối thượng không thể có gì hơn nữa.
 Trong hiện tại, có những Sa-môn hay Bà-la-môn thình lình cảm thọ những cảm giác chói đau, khổ đau,
@@ -365,6 +368,7 @@ kịch liệt, khốc liệt. Những sự đau khổ này là tối thượng, 
 hạnh khốc liệt như thế này, vẫn không chứng được pháp thượng nhân, tri kiến thù thắng xứng đáng bậc
 Thánh. Hay là có đạo lộ nào khác đưa đến giác ngộ?"
 
+<!--pg-->
 Này Aggivessana, rồi Ta suy nghĩ như sau: "Ta biết, trong khi phụ thân Ta, thuộc giòng Sakka (Thích-
 ca) đang cày và Ta đang ngồi dưới bóng mát cây diêm-phù-đề (jambu), Ta ly dục, ly pháp bất thiện
 chứng và trú Thiền thứ nhất, một trạng thái hỷ lạc do ly dục sanh, có tầm, có tứ". Khi an trú như vậy, Ta
@@ -381,6 +385,7 @@ chứng pháp, vị ấy sẽ nói cho chúng ta biết". Này Aggivessana, khi 
 các vị ấy chán ghét Ta, bỏ đi và nói: "Sa-môn Gotama nay sống đầy đủ vật chất, từ bỏ tinh tấn, trở lui
 đời sống sung túc".
 
+<!--pg-->
 Và này Aggivessana, sau khi ăn thô thực và được sức lực trở lại, Ta ly dục, ly pháp bất thiện, chứng và
 trú Thiền thứ nhất, một trạng thái hỷ lạc do ly dục sanh, có tầm có tứ. Này Aggivessana, như vậy lạc thọ
 khởi lên nơi Ta được tồn tại nhưng không chi phối tâm Ta.

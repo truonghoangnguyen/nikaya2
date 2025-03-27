@@ -17,6 +17,7 @@ với chúng Sa-môn, Bà-la-môn, các loài Trời và Người. Khi đã ch�
 Ngài đã chứng ngộ. Ngài thuyết pháp sơ thiện, trung thiện, hậu thiện, đầy đủ văn nghĩa. Ngài truyền dạy
 phạm hạnh hoàn toàn đầy đủ trong sạch. Lành thay nếu được yết kiến một A-la-hán như vậy!"
 
+<!--pg-->
 Rồi các gia chủ Bà-la-môn ở Sa-la đi đến chỗ Thế Tôn ở, sau khi đến, một số đảnh lễ Thế Tôn rồi ngồi
 xuống một bên; một số nói lên những lời chào đón, thân hữu xã giao với Thế Tôn rồi ngồi xuống một
 bên; một số chấp tay vái Thế Tôn rồi ngồi xuống một bên; một số nói lên tên họ của mình trước mặt Thế
@@ -43,6 +44,7 @@ giải thích rộng rãi. Lành thay, nếu Tôn giả Gotama thuyết pháp ch
 
 Các vị gia chủ Bà-la-môn, ở Sa-la vâng đáp Thế Tôn. Thế Tôn nói như sau:
 
+<!--pg-->
 -- Này các gia chủ, có ba loại thân hành phi pháp, phi chánh đạo, có bốn loại khẩu hành phi pháp, phi
 chánh đạo, có ba loại ý hành phi pháp, phi chánh đạo. Này các gia chủ, thế nào là ba loại thân hành phi
 pháp, phi chánh đạo? Ở đây, này các Gia chủ, có người sát sanh, tàn nhẫn, tay lấm máu, tâm chuyên sát

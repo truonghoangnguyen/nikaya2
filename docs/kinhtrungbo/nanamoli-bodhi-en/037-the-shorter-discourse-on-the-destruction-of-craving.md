@@ -39,7 +39,7 @@ sir Moggallāna, the Blessed One told me: 'Here, ruler of gods,... [as in §3]..
 
 13\. Then the venerable Mahā Moggallāna delighted and rejoiced in the words of Sakka, ruler of gods. [255] Then, just as quickly as a strong man might extend his flexed arm or flex his extended arm, he vanished from among the gods of the Thirtythree and appeared in the Eastern Park in the Palace of Migāra's Mother.
 
-14\. Then, soon after the venerable Mahā Moggallāna had gone, the attendants of Sakka, ruler of gods, asked him: "Good sir, was that your teacher, the Blessed One?" - "No, good sirs, that was not my teacher, the Blessed One. That was one of my companions in the holy life, the venerable Mahā Moggallāna." ${ }^{\text {"401 }}$ - "Good sir, it is a gain for you that your companion in the holy life has such power and might. Oh, how much more so that the Blessed One is your teacher!"
+14\. Then, soon after the venerable Mahā Moggallāna had gone, the attendants of Sakka, ruler of gods, asked him: "Good sir, was that your teacher, the Blessed One?" - "No, good sirs, that was not my teacher, the Blessed One. That was one of my companions in the holy life, the venerable Mahā Moggallāna." [^401] - "Good sir, it is a gain for you that your companion in the holy life has such power and might. Oh, how much more so that the Blessed One is your teacher!"
 
 15\. Then the venerable Mahā Moggallāna went to the Blessed One, and after paying homage to him, he sat down at one side and asked him: "Venerable sir, does the Blessed One recall stating in brief - to a certain one of the renowned spirits with a great following - deliverance through the destruction of craving?"
 

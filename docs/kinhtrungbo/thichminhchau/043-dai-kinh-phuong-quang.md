@@ -10,6 +10,7 @@ Kotthita (Ðại Câu-hy-la), vào buổi chiều, khi thiền định xong, đ�
 sau khi đến nói lên với Tôn giả Sariputta những lời chào đón, hỏi thăm xã giao rồi ngồi xuống một bên.
 Sau khi ngồi xuống một bên, Tôn giả Maha Kotthita nói với Tôn giả Sariputta:
 
+<!--pg-->
 ***(Tuệ giác)***
 
 -- Này Hiền giả, liệt tuệ, liệt tuệ (Suppanna) được gọi là như vậy. Này Hiền giả, như thế nào được gọi là
@@ -31,6 +32,7 @@ nữa:
 tuệ tri: đây là Khổ tập, có tuệ tri: đây là Khổ diệt, có tuệ tri: đây là Con đường đưa đến Khổ diệt. Vì có
 tuệ tri, có tuệ tri, này Hiền giả, nên được gọi là trí tuệ.
 
+<!--pg-->
 ***(Thức)***
 
 -- Thức, thức, này Hiền giả, được gọi là như vậy, Này Hiền giả, như thế nào được gọi là thức?
@@ -54,6 +56,7 @@ không phải không kết hợp này?
 kết hợp này, trí tuệ cần phải được tu tập (Bhavetabba), còn thức cần phải được liễu tri (Parinneyyam)
 như vậy là sự sai khác giữa những pháp này.
 
+<!--pg-->
 ***(Thọ)***
 
 -- Cảm thọ, cảm thọ, này Hiền giả, được gọi là như vậy. Này Hiền giả, như thế nào được gọi là cảm thọ?
@@ -61,6 +64,7 @@ như vậy là sự sai khác giữa những pháp này.
 -- Này Hiền giả, cảm thọ, cảm thọ (Vedeti), nên được gọi là cảm thọ. Và cảm thọ gì? Cảm thọ lạc, cảm
 thọ khổ, cảm thọ bất khổ bất lạc thọ. Này Hiền giả, cảm thọ, cảm thọ, nên được gọi là cảm thọ.
 
+<!--pg-->
 ***(Tưởng)***
 
 -- Này Hiền giả, tưởng, tưởng (Sanna) được gọi là như vậy. Này Hiền giả, như thế nào được gọi là
@@ -79,6 +83,7 @@ Này Hiền giả, điều gì cảm thọ được là tưởng tri được, �
 những pháp này được kết hợp, không phải không được kết hợp, và không có thể nêu lên sự sai khác giữa
 những pháp này, sau khi phân tích chúng nhiều lần.
 
+<!--pg-->
 ***(Thắng tri)***
 
 -- Này Hiền giả, ý thức thanh tịnh, không liên hệ đến năm căn có thể đưa đến gì?
@@ -96,6 +101,7 @@ có sự vật gì.
 -- Này Hiền giả, trí tuệ có ý nghĩa là thắng tri (Abhinnattha), có nghĩa là liễu tri (Parinnattha), có nghĩa
 là đoạn tận (Pahanattha).
 
+<!--pg-->
 ***(Chánh kiến)***
 
 -- Này Hiền giả, có bao nhiêu duyên khiến chánh tri kiến sanh khởi?
@@ -112,6 +118,7 @@ có giới hỗ trợ, có văn (Suta) hỗ trợ, có thảo luận hỗ trợ,
 trợ. Này Hiền giả, chánh tri kiến được hỗ trợ bởi năm chi phần này để có tâm giải thoát quả, tâm giải
 thoát quả công đức, tuệ giải thoát quả và tuệ giải thoát quả công đức.
 
+<!--pg-->
 ***(Hữu)***
 
 -- Này Hiền giả, có bao nhiêu hữu (Bhava)?
@@ -128,6 +135,7 @@ như vậy, sự tái sinh trong tương lai được xảy ra.
 -- Này Hiền giả, vô minh được xả ly, minh khởi, tham ái được đoạn diệt, như vậy sự tái sanh trong
 tương lai không xảy ra.
 
+<!--pg-->
 ***(Thiền-na thứ nhất)***
 
 -- Này Hiền giả, thế nào là Thiền thứ nhất?
@@ -147,6 +155,7 @@ Tỷ-kheo thành tựu Thiền thứ nhất từ bỏ tham dục, từ bỏ sân
 bỏ nghi, thành tựu tầm, tứ, hỷ, lạc và nhất tâm. Này Hiền giả, như vậy Thiền thứ nhất từ bỏ năm chi
 phần, và thành tựu năm chi phần.
 
+<!--pg-->
 ***(Năm căn)***
 
 -- Này Hiền giả, năm căn này, có cảnh giới khác nhau, có hành giới khác nhau, không có lẫn lộn cảnh
@@ -183,6 +192,7 @@ Hiền giả, ví như khi một cây đèn dầu được thắp sáng, duyên 
 ánh sáng, tim đèn được thấy. Cũng vậy này Hiền giả, tuổi thọ do duyên hơi nóng mà an trú, và hơi nóng
 do duyên tuổi thọ mà an trú.
 
+<!--pg-->
 ***(Pháp thọ hành)***
 
 -- Này Hiền giả, những pháp thọ hành (Ayusankhara) này là những pháp được cảm thọ (Vedaniya) này,
@@ -209,6 +219,7 @@ hành được chấm dứt, được dừng lại, tâm hành được chấm d
 tận, hơi nóng không tiêu diệt, các căn được sáng suốt. Này Hiền giả, như vậy là sự sai khác giữa vật
 chết, mạng chung này với vị Tỷ-kheo thành tựu Diệt thọ tưởng định.
 
+<!--pg-->
 ***(Tâm giải thoát)***
 
 -- Này Hiền giả, có bao nhiêu duyên để chứng nhập tâm giải thoát bất khổ bất lạc?

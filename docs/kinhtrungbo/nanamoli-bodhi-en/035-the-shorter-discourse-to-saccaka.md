@@ -7,6 +7,7 @@
 
 3\. Then, when it was morning, the venerable Assaji dressed, and taking his bowl and outer robe, went into Vesālī for alms. [^370] As Saccaka the Niganṭha's son was walking and wandering for exercise in Vesālī, [228] he saw the venerable Assaji coming in the distance and went up to him and exchanged greetings with him. When this courteous and amiable talk was finished, Saccaka the Niganṭha's son stood at one side and said to him:
 
+<!--pg-->
 4\. "Master Assaji, how does the recluse Gotama discipline his disciples? And how is the recluse Gotama's instruction usually presented to his disciples?"
 
 "This is how the Blessed One disciplines his disciples, Aggivessana, and this is how the Blessed One's instruction is usually presented to his disciples: 'Bhikkhus, material form is impermanent, feeling is impermanent, perception is impermanent, formations are impermanent, consciousness is impermanent. Bhikkhus, material form is not self, feeling is not self, perception is not self, formations are not self, consciousness is not self. All formations are impermanent; all things are not self. [^371] That is how the
@@ -26,6 +27,7 @@ went up to them and asked: "Where is Master Gotama staying now, sirs? We want to
 
 8\. Then Saccaka the Nigantha's son, together with a large following of Lichavis, entered the Great Wood and went to the Blessed One. He exchanged grectings with the Blessed One, and after this courtenus and amiable talk was finished, sat down at one side. Some of the Lichavis paid humage to the Blessed One and sat down at one side: some exchanged grectings with him, and when this courteous and amiable talk was finished, sat down at one side; some extended their hands in reverential salutation towards the Blessed One and sat down at one side: some pronounced their name and clan in the Blessed One's presence and sat down at one side; some kept silent and sat down at one side.
 
+<!--pg-->
 9\. When Saccaka the Nigantha's son had sat down, he said to the Blessed One: "I would like to question Master Gotama on a certain point, if Master Gotama would grant me the favour of an answer to the question."
 
 "Ask what you like, Aggivessana." |230|
@@ -81,10 +83,11 @@ afterwards, nor does what you said afterwards agree with what you said before. W
 "How could one, Master Gotama? No, Master Gotama."
 
 *"What do you think, Aggivessana? That being so, do you not adhere to suffering, resort to suffering, hold to suffering, and regard what is suffering thus: 'This is mine, this I am, this is my self'?"
-"How could I not, Master Gotama? Yes, Master Gotama." ${ }^{\text {3 }}{ }^{376}$
+"How could I not, Master Gotama? Yes, Master Gotama." *376
 
 22\. "It is as though a man needing heartwood, seeking heartwood, wandering in search of heartwood, were to take a sharp axe and enter the wood, and there he would see a large plantain trunk, straight, young, with no fruit-bud core. Then he would cut it down at the root, cut off the crown, and unroll the leafsheaths; but as he went on unrolling the leaf sheaths, he would never come even to any sapwood, let alone heartwood. So too, Aggivessana, when you are pressed, questioned, and crossquestioned by me about your own assertion, you turn out to be empty, vacant, and mistaken. But it was you who made this statement before the Vesālī assembly: 'I see no recluse or brahmin, the head of an order, the head of a group, the teacher of a group, even one claiming to be accomplished and fully enlightened, who would not shake, shiver, and tremble and sweat under the armpits if he were to engage in debate with me. Even if I were to engage a senseless post in debate, it would shake, shiver, and tremble if it were to engage in debate with me, so what shall I say of a human being?' Now there are drops of sweat on your forehead and they have soaked through your upper robe and fallen to the ground. But there is no sweat on my body now." And the Blessed One uncovered his goldencoloured body before the assembly. [234] When this was said, Saccaka the Nigantha's son sat silent, dismayed, with shoulders drooping and head down, glum, and without response.
 
+<!--pg-->
 23\. Then Dummukha, the son of the Licchavis, seeing Saccaka the Nigantha's son in such a condition, said to the Blessed One: "A simile occurs to me, Master Gotama."
 
 "Explain how it occurs to you, Dummukha."

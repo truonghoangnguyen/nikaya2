@@ -23,6 +23,7 @@ dường mà chúng ta thọ hưởng như y phục, đồ ăn khất thực, s�
 kết quả lớn, lợi ích lớn cho chúng ta. Và chúng ta xuất gia không thành vô dụng, có kết quả, có thành
 tích".
 
+<!--pg-->
 ***(Giới hạnh)***
 
 Này các Tỷ-kheo, thế nào là các pháp tác thành Sa-môn, và các pháp tác thành Bà-la-môn? "Chúng ta sẽ
@@ -50,7 +51,6 @@ tịnh, đến mức độ này, như vậy là vừa đủ; đến mức độ 
 mục đích Sa-môn hạnh. Chúng ta không có gì phải làm hơn nữa". Và cho đến mức độ ấy, các Ông có thể
 tự thỏa mãn. Này các Tỷ-kheo, Ta khuyến cáo các Ông.Này các Tỷ-kheo, Ta tuyên bố cho các ông: Khi
 các Ông hướng đến mục đích Sa-môn hạnh, chớ có từ bỏ mục đích này, khi đang còn công việc đáng
-
 phải làm hơn nữa.
 
 Này các Tỷ-kheo, thế nào là công việc đáng phải làm hơn nữa? "Ý hành chúng ta phải được thanh tịnh,
@@ -73,6 +73,7 @@ nữa". Và cho đến mức độ ấy, các Ông có thể tự thỏa mãn. N
 Ông.Này các Tỷ-kheo, Ta tuyên bố cho các ông: Khi các Ông hướng đến mục đích Sa-môn hạnh, chớ có
 từ bỏ mục đích này, khi đang còn công việc đáng phải làm hơn nữa.
 
+<!--pg-->
 ***(Hộ trì các căn)***
 
 Này các Tỷ-kheo, thế nào là các công việc đáng phải làm hơn nữa? "Chúng ta phải hộ trì các căn. Khi
@@ -90,6 +91,7 @@ nữa". Và cho đến mức độ ấy, các Ông có thể tự thỏa mãn. N
 Ông.Này các Tỷ-kheo, Ta tuyên bố cho các ông: Khi các Ông hướng đến mục đích Sa-môn hạnh, chớ có
 từ bỏ mục đích này, khi đang còn công việc đáng phải làm hơn nữa.
 
+<!--pg-->
 ***(Tiết chế ăn uống)***
 
 Này các Tỷ-kheo, thế nào là các công việc đáng phải làm hơn nữa? "Chúng ta phải biết tiết độ trong ăn
@@ -106,6 +108,7 @@ gì phải làm hơn nữa". Và cho đến mức độ ấy, các Ông có th�
 cáo các Ông.Này các Tỷ-kheo, Ta tuyên bố cho các ông: Khi các Ông hướng đến mục đích Sa-môn
 hạnh, chớ có từ bỏ mục đích này, khi đang còn công việc đáng phải làm hơn nữa.
 
+<!--pg-->
 ***(Chú tâm cảnh giác)***
 
 Này các Tỷ-kheo, thế nào la các công việc đáng phải làm hơn nữa? "Chúng ta phải chú tâm cảnh giác.
@@ -122,6 +125,7 @@ Chúng ta không có gì phải làm hơn nữa". Và cho đến mức độ ấ
 Tỷ-kheo, Ta khuyến cáo các Ông.Này các Tỷ-kheo, Ta tuyên bố cho các ông: Khi các Ông hướng đến
 mục đích Sa-môn hạnh, chớ có từ bỏ mục đích này, khi đang còn công việc đáng phải làm hơn nữa.
 
+<!--pg-->
 ***(Chánh niệm tỉnh giác)***
 
 Này các Tỷ-kheo, thế nào là các công việc đáng phải làm hơn nữa? "Chúng ta phải chánh niệm tỉnh giác,
@@ -137,6 +141,7 @@ thỏa mãn. Này các Tỷ-kheo, Ta khuyến cáo các Ông.Này các Tỷ-kheo
 các Ông hướng đến mục đích Sa-môn hạnh, chớ có từ bỏ mục đích này, khi đang còn công việc đáng
 phải làm hơn nữa.
 
+<!--pg-->
 ***(Ðoạn trừ các triền cái)***
 
 Này các Tỷ-kheo, thế nào là các công việc đáng phải làm hơn nữa? Ở đây, này các Tỷ-kheo, Tỷ-kheo
@@ -154,7 +159,6 @@ người ấy không những trả được nợ cũ, còn có tiền dư để 
 mắc nợ nên làm các nghề nghiệp. Những nghề này được phát đạt, ta không những trả được những nợ cũ,
 còn có tiền dư để nuôi dưỡng vợ". Người ấy nhờ vậy được sung sướng, hoan hỷ. Này các Tỷ-kheo, như
 một người bị bệnh, đau đớn, trầm trọng, ăn uống không tiêu, thể lực suy yếu. Sau một thời gian, người
-
 ấy khỏi bệnh, ăn uống tiêu thông, thể lực khôi phục. Người ấy nghĩ: "Ta trước kia bị bệnh, đau đớn trầm
 trọng, ăn uống không tiêu, thể lực suy yếu. Nay ta khỏi bệnh, ăn uống tiêu thông, thể lực khôi phục".
 Người ấy nhờ vậy được sung sướng, hoan hỷ. Này các Tỷ-kheo, như một người bị nhốt trong ngục.
@@ -176,6 +180,7 @@ mình, quán năm triền cái chưa xả ly, như món nợ, như bệnh hoạn
 đường qua sa mạc. Này các Tỷ-kheo, cũng như không mắc nợ, không bị bệnh tật được khỏi tù tội, được
 tự do, đến được đất lành yên ổn. Này các Tỷ-kheo, Tỷ-kheo quán năm triền cái khi chúng được diệt trừ.
 
+<!--pg-->
 ***(Bốn tầng thiền-na)***
 
 Sau khi đã đoạn trừ năm triền cái này, những triền cái làm ô nhiễm tâm tư, làm yếu ớt trí tuệ, vị ấy ly
@@ -206,7 +211,6 @@ không có hỷ ấy thấm nhuần. Này các Tỷ-kheo, ví như trong hồ se
 những sen xanh, sen hồng hay sen trắng. Những bông sen ấy sanh trong nước, lớn lên trong nước, không
 vượt khỏi nước, nuôi sống dưới nước, từ đầu ngọn cho đến gốc rễ đều thấm nhuần, tẩm ướt, tràn đầy
 thấu suốt bởi nước mát lạnh ấy, không một chỗ nào của toàn thể sen xanh, sen hồng hay sen trắng không
-
 được nước mát lạnh ấy thấm nhuần. Cũng vậy, này các Tỷ-kheo, Tỷ-kheo thấm nhuần, tẩm ướt, làm cho
 sung mãn, tràn đầy thân này với lạc thọ không có hỷ ấy, không một chỗ nào trên toàn thân không được
 lạc thọ không có hỷ ấy thấm nhuần.
@@ -219,6 +223,7 @@ Tỷ-kheo, ví như một người ngồi, dùng tấm vải trắng trùm đầ
 thuần tịnh trong sáng, không một chỗ nào trên toàn thân không được tâm thuần tịnh trong sáng ấy thấm
 nhuần.
 
+<!--pg-->
 ***(Ba Minh)***
 
 Với tâm định tĩnh, thuần tịnh trong sáng, không cấu nhiễm, không phiền não, nhu nhuyến, dễ sử dụng,
@@ -258,7 +263,6 @@ người đẹp đẽ kẻ thô xấu, người may mắn, kẻ bất hạnh, đ
 như có hai nhà có cửa, và ở đây, một người có mắt đứng ở giữa, người này có thể thấy các người (khác)
 đi vào nhà, đi ra, đi qua, đi lại. Cũng vậy, này các Tỷ-kheo, vị ấy với Thiên nhãn thuần tịnh, siêu nhân,
 thấy sự sống chết của chúng sanh. Vị ấy biết rõ rằng chúng sanh, người hạ liệt, kẻ cao sang, người đẹp
-
 đẽ, kẻ thô xấu, người may mắn, kẻ bất hạnh, đều do hạnh nghiệp của họ. Những chúng sanh làm những
 ác hạnh về thân, ác hạnh về lời nói, ác hạnh về ý, phỉ báng các bậc Thánh, theo tà kiến, tạo các nghiệp
 theo tà kiến. Những người này, sau khi thân hoại mạng chung, phải sanh vào cõi dữ, ác thú, đọa xứ, địa
@@ -291,6 +295,7 @@ lậu, thoát khỏi hữu lậu, thoát khỏi vô minh lậu. Ðối với t�
 phạm hạnh đã thành, những việc cần phải làm đã làm xong, sau đời hiện tại không có đời sống nào khác
 nữa".
 
+<!--pg-->
 ***(Bậc A-la-hán)***
 
 Này các Tỷ-kheo, Tỷ-kheo như vậy được gọi là Sa-môn, là Bà-la-môn, là vị đã tắm sạch sẽ, là vị đã biết

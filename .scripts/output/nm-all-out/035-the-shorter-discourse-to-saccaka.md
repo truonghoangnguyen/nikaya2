@@ -81,7 +81,7 @@ afterwards, nor does what you said afterwards agree with what you said before. W
 "How could one, Master Gotama? No, Master Gotama."
 
 *"What do you think, Aggivessana? That being so, do you not adhere to suffering, resort to suffering, hold to suffering, and regard what is suffering thus: 'This is mine, this I am, this is my self'?"
-"How could I not, Master Gotama? Yes, Master Gotama." ${ }^{\text {3 }}{ }^{376}$
+"How could I not, Master Gotama? Yes, Master Gotama." *376
 
 22. "It is as though a man needing heartwood, seeking heartwood, wandering in search of heartwood, were to take a sharp axe and enter the wood, and there he would see a large plantain trunk, straight, young, with no fruit-bud core. Then he would cut it down at the root, cut off the crown, and unroll the leafsheaths; but as he went on unrolling the leaf sheaths, he would never come even to any sapwood, let alone heartwood. So too, Aggivessana, when you are pressed, questioned, and crossquestioned by me about your own assertion, you turn out to be empty, vacant, and mistaken. But it was you who made this statement before the Vesālī assembly: 'I see no recluse or brahmin, the head of an order, the head of a group, the teacher of a group, even one claiming to be accomplished and fully enlightened, who would not shake, shiver, and tremble and sweat under the armpits if he were to engage in debate with me. Even if I were to engage a senseless post in debate, it would shake, shiver, and tremble if it were to engage in debate with me, so what shall I say of a human being?' Now there are drops of sweat on your forehead and they have soaked through your upper robe and fallen to the ground. But there is no sweat on my body now." And the Blessed One uncovered his goldencoloured body before the assembly. [234] When this was said, Saccaka the Nigantha's son sat silent, dismayed, with shoulders drooping and head down, glum, and without response.
 
@@ -115,3 +115,31 @@ with proper wisdom thus: 'This is not mine, this I am not, this is not my self,'
 30. Then, it being morning, the Blessed One dressed, and taking his bowl and outer robe, he went with the Sangha of bhikkhus to the park of Saccaka the Nigantha's son and sat down on the seat made ready. Then, with his own hands, Saccaka the Nigantha's son served and satisfied the Sangha of bhikkhus headed by the Buddha with the various kinds of good food. When the Blessed One had eaten and had withdrawn his hand from the bowl, Saccaka the Nigantha's son took a low seat, sat down at one side, and said to the Blessed One: "Master Gotama, may the merit and the great meritorious fruits of this act of giving be for the happiness of the givers."
 
 "Aggivessana, whatever comes about from giving to a recipient such as yourself - one who is not free from lust, not free from hate, not free from delusion - [237] that will be for the givers. And whatever comes about from giving to a recipient such as myself - one who is free from lust, free from hate, free from delusion - that will be for you." [^379]
+
+## Notes
+
+[^369]: According to MA, Saccaka was the son of Niganṭha (Jain) parents who were both skilled in philosophical debate. He had learned a thousand doctrines from his parents and many more philosophical systems from others. In
+the discussion below he is referred to by his clan name, Aggivessana.
+
+[^370]: Ven. Assaji was one of the first five disciples of the Buddha.
+
+[^371]: This summary of the doctrine omits the second of the three characteristics, dukkha or suffering. MA explains that Assaji omitted this in order to avoid giving Saccaka the opportunity to attempt a refutation of the Buddha's doctrine.
+
+[^372]: MA explains that men play this game when preparing hemp cloth. They bind up handfuls of rough hemp, immerse them in the water, and beat them on planks to the left, right, and middle. A royal elephant saw this game, and plunging into the water, he took up water in his trunk and sprayed it on his belly, his body, both sides, and his groin.
+
+[^373]: In asserting the five aggregates to be self he is, of course, directly contradicting the Buddha's teaching of anatta. He ascribes this view to the "great multitude" with the thought that "the majority cannot be wrong."
+
+[^374]: The Buddha is here suggesting that the aggregates are not self because they lack one of the essential characteristics of selfhood - being susceptible to the exercise of mastery. What cannot come under my mastery or perfect control cannot be identified as "my self."
+
+[^375]: MA identifies this spirit (yakkha) as Sakka, ruler of the gods.
+
+[^376]: The text between the asterisks is absent from the PTS ed. but is supplied from the BBS and SBJ eds. The five aggregates are here called suffering because they are impermanent and not susceptible to the exercise of mastery.
+
+[^377]: These are the characteristics of a sekha. The arahant, in contrast, not only possesses the right view of non-self, but has used it to eradicate all clinging, as the Buddha will explain in §25.
+
+[^378]: MA gives several alternative explanations of these three terms. They are mundane and supramundane wisdom, practice, and deliverance. Or they are entirely supramundane: the first is the right view of the path of arahantship, the second the remaining seven path factors, the third the supreme fruit (of arahantship). Or the first is the vision of
+
+Nibbāna, the second the path factors, the third the supreme fruit.
+
+[^379]: Though Saccaka admitted defeat in debate, he must have still considered himself a saint, and thus did not feel impelled to go for refuge to the Triple Gem. Also, because he continued to regard himself as a saint, he must have felt that it was not proper for him to dedicate the merit of the alms offering to himself, and thus he wished to dedicate the merit to the Licchavis. But the Buddha replies that the Licchavis will gain the merit of providing Saccaka with food to offer to the Buddha, while Saccaka himself will gain the merit of offering the food to the Buddha. The merit of giving alms differs in quality according to the purity of the recipient, as explained at MN 142.6.
+

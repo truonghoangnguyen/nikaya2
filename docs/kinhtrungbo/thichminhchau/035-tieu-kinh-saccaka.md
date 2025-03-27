@@ -19,6 +19,7 @@ thường hay ngao du thiên hạ, thấy Tôn giả Assaji từ xa đi lại. S
 đến gần Tôn giả Assaji, nói lên những lời hỏi thăm, chào đón, xã giao rồi đứng một bên. Sau khi đứng
 một bên, Niganthaputta Saccaka nói với Tôn giả Assaji:
 
+<!--pg-->
 -- Này Tôn giả Assaji, Sa-môn Gotama huấn luyện đệ tử như thế nào? Và có những bộ môn nào mà
 phần lớn Sa-môn Gotama giảng dạy được dành cho đệ tử?
 
@@ -76,6 +77,7 @@ lên với Thế Tôn những lời chúc tụng, hỏi thăm xã giao rồi ng�
 tay vái Thế Tôn rồi ngồi xuống một bên; một số Licchavi xưng tên họ của mình rồi ngồi xuống một bên;
 một số Licchavi im lặng ngồi xuống một bên.
 
+<!--pg-->
 Niganthaputta Saccaka sau khi ngồi xuống một bên nói với Thế Tôn:
 
 -- Tôi muốn hỏi Tôn giả Gotama một vấn đề, nếu Tôn giả Gotama cho phép tôi được hỏi.
@@ -252,8 +254,8 @@ Ta, này Aggivessana, nay không có mồ hôi nào trên thân Ta.
 Rồi Thế Tôn để lộ kim thân cho Hội chúng ấy thấy. Khi nghe nói vậy, Niganthaputta Saccaka im lặng,
 hổ thẹn, thụt vai, cúi đầu, ngồi bàng hoàng, không nói một lời.
 
+<!--pg-->
 Rồi Dummukha, một người con Licchavi, biết được Niganthaputta Saccaka im lặng, hổ thẹn, thụt vai,
-
 cúi đầu, ngồi bàng hoàng, không nói một lời, liền bạch Thế Tôn:
 
 -- Bạch Thế Tôn, con có một ví dụ.

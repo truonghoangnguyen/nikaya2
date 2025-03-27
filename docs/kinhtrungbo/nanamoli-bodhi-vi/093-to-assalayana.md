@@ -135,6 +135,6 @@ father, and it is the mother's season, and the being to be reborn is present. Th
 
 "'That being so, sir, we do not know what we are.'
 
-"Now, Assalāyana, even those seven brahmin seers, on being pressed and questioned and cross-questioned by the seer Devala the Dark on their own assertion about birth, were unable to support it. But how shall you, on being pressed and questioned and cross-questioned by me now on your assertion about birth, be able to support it? You, who rely on the teachers' doctrines, are not [even fit to be] their spoon-holder Punna." ${ }^{\text {"876 }}$
+"Now, Assalāyana, even those seven brahmin seers, on being pressed and questioned and cross-questioned by the seer Devala the Dark on their own assertion about birth, were unable to support it. But how shall you, on being pressed and questioned and cross-questioned by me now on your assertion about birth, be able to support it? You, who rely on the teachers' doctrines, are not [even fit to be] their spoon-holder Punna." [^876]
 
 19. When this was said, the brahmin student Assalāyana said to the Blessed One: "Magnificent, Master Gotama! Magnificent, Master Gotama!...(as Sutta 91, §37)...From today let Master Gotama remember me as a lay follower who has gone to him for refuge for life."

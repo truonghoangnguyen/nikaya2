@@ -1,178 +1,245 @@
-# 44 The Shorter Series of Questions and Answers
+# 44 Kinh Tiểu Kinh Về Pháp Môn Vấn Đáp
 ***(Cūḷavedalla Sutta)***
 
-[299] 1. Thus have I heard. On one occasion the Blessed One was living at Rajagaha in the Bamboo Grove, the Squirrels' Sanctuary. Then the lay follower Visākha went to the bhikkhunī Dhammadinnā, [^459] and after paying homage to her, he sat down at one side and asked her:
+[299] 1\. Tôi nghe như vầy. Một thời Đức Thế Tôn trú tại Rājagaha (Vương Xá), trong Khu Rừng Tre, nơi nuôi dưỡng các con sóc. Khi ấy, cư sĩ Visākha đến thăm tỳ kheo ni (bhikkhunī - ni sư, sư cô) Dhammadinnā, [^459] sau khi đảnh lễ vị ấy, ông ngồi xuống một bên và hỏi rằng:
 
-#### (PERSONALITY)
+<!--pg-->
+#### (THÂN KIẾN)
 
-2. "Lady, 'personality, personality' is said. What is called personality by the Blessed One?"
+2\. "Thưa sư cô, người ta thường nói 'thân kiến, thân kiến'. Vậy Đức Thế Tôn gọi cái gì là thân kiến (sakkāya - personality - quan niệm sai lầm về một cái 'tôi' hay 'ngã' thường hằng liên quan đến năm uẩn)?"
 
-"Friend Visākha, these five aggregates affected by clinging are called personality by the Blessed One; that is, the material form aggregate affected by clinging, the feeling aggregate affected by clinging, the perception aggregate affected by clinging, the formations aggregate affected by clinging, and the consciousness aggregate affected by clinging. These five aggregates affected by clinging are called personality by the Blessed One." [^460]
+"Này hiền hữu Visākha, năm uẩn bị chấp thủ (pañcupādānakkhandhā - five aggregates subject to clinging - năm nhóm yếu tố tạo thành kinh nghiệm bị dính mắc vào) này được Đức Thế Tôn gọi là thân kiến; đó là: sắc uẩn bị chấp thủ, thọ uẩn bị chấp thủ, tưởng uẩn bị chấp thủ, hành uẩn bị chấp thủ, và thức uẩn bị chấp thủ. Năm uẩn bị chấp thủ này được Đức Thế Tôn gọi là thân kiến." [^460]
 
-Saying, "Good, lady," the lay follower Visākha delighted and rejoiced in the bhikkhunī Dhammadinnā's words. Then he asked her a further question:
+Nói: "Lành thay, thưa sư cô," cư sĩ Visākha hoan hỷ và vui mừng với lời của tỳ kheo ni Dhammadinnā. Rồi ông hỏi thêm một câu nữa:
 
-3. "Lady, 'origin of personality, origin of personality' is said. What is called the origin of personality by the Blessed One?"
+3\. "Thưa sư cô, người ta thường nói 'nguồn gốc của thân kiến, nguồn gốc của thân kiến'. Vậy Đức Thế Tôn gọi cái gì là nguồn gốc của thân kiến (sakkāya-samudaya - origin of personality - nguyên nhân làm phát sinh thân kiến)?"
 
-"Friend Visākha, it is craving, which brings renewal of being, is accompanied by delight and lust, and delights in this and that; that is, craving for sensual pleasures, craving for being, and craving for non-being. This is called the origin of personality by the Blessed One."
+"Này hiền hữu Visākha, đó chính là tham ái (taṇhā - craving - sự khao khát, ham muốn mãnh liệt), cái dẫn đến tái sinh, đi cùng với hỷ lạc và tham muốn, ưa thích cái này cái kia; đó là: dục ái (kāma-taṇhā - craving for sensual pleasures), hữu ái (bhava-taṇhā - craving for being), và phi hữu ái (vibhava-taṇhā - craving for non-being). Đây được Đức Thế Tôn gọi là nguồn gốc của thân kiến."
 
-4. "Lady, 'cessation of personality, cessation of personality' is said. What is called the cessation of personality by the Blessed One?"
+4\. "Thưa sư cô, người ta thường nói 'sự đoạn diệt thân kiến, sự đoạn diệt thân kiến'. Vậy Đức Thế Tôn gọi cái gì là sự đoạn diệt thân kiến (sakkāya-nirodha - cessation of personality - sự chấm dứt hoàn toàn thân kiến)?"
 
-"Friend Visākha, it is the remainderless fading away and ceasing, the giving up, relinquishing, letting go, and rejecting of that same craving. This is called the cessation of personality by the Blessed One."
+"Này hiền hữu Visākha, đó là sự phai nhạt và đoạn diệt không còn dư tàn, sự từ bỏ, xả ly, buông bỏ, và khước từ (virāga-nirodha, cāga, paṭinissagga, mutti, anālaya - fading away and cessation without remainder, giving up, relinquishing, release, non-reliance - sự chấm dứt hoàn toàn không còn dấu vết, sự cho đi, sự từ bỏ, sự giải thoát, sự không nương tựa) chính tham ái đó. Đây được Đức Thế Tôn gọi là sự đoạn diệt thân kiến."
 
-5. "Lady, 'the way leading to the cessation of personality, the way leading to the cessation of personality' is said. What is called the way leading to the cessation of personality by the Blessed One?"
+5\. "Thưa sư cô, người ta thường nói 'con đường đưa đến sự đoạn diệt thân kiến, con đường đưa đến sự đoạn diệt thân kiến'. Vậy Đức Thế Tôn gọi cái gì là con đường đưa đến sự đoạn diệt thân kiến (sakkāya-nirodha-gāminī paṭipadā - the path leading to the cessation of personality - con đường thực hành để chấm dứt thân kiến)?"
 
-"Friend Visākha, it is just this Noble Eightfold Path; that is, right view, right intention, right speech, right action, right livelihood, right effort, right mindfulness, and right concentration."
+"Này hiền hữu Visākha, đó chính là Bát Chánh Đạo (ariya aṭṭhaṅgika magga - Noble Eightfold Path - con đường tám yếu tố đúng đắn dẫn đến giải thoát) này; đó là: chánh kiến, chánh tư duy, chánh ngữ, chánh nghiệp, chánh mạng, chánh tinh tấn, chánh niệm, và chánh định."
 
-6. "Lady, is that clinging the same as these five aggregates affected by clinging, or is the clinging something apart from the five aggregates affected by clinging?"
+6\. "Thưa sư cô, sự chấp thủ (upādāna - clinging/attachment - sự bám víu, dính mắc vào các đối tượng) đó có giống với năm uẩn bị chấp thủ này không, hay sự chấp thủ là một cái gì đó tách rời khỏi năm uẩn bị chấp thủ?"
 
-"Friend Visākha, that clinging is neither the same as these five aggregates affected by clinging [300] nor is clinging something apart from the five aggregates affected by clinging. It is the desire and lust in regard to the five aggregates affected by clinging that is the clinging there." [^461]
+"Này hiền hữu Visākha, sự chấp thủ đó không giống với năm uẩn bị chấp thủ này, [300] cũng không phải sự chấp thủ là một cái gì đó tách rời khỏi năm uẩn bị chấp thủ. Chính sự ham muốn và tham ái (chanda-rāga - desire and lust - sự ham muốn và đam mê) đối với năm uẩn bị chấp thủ mới là sự chấp thủ ở đó." [^461]
 
-(PERSONALITY VIEW)
+<!--pg-->
+(THÂN KIẾN - QUAN ĐIỂM VỀ NGÃ)
 
-7. "Lady, how does personality view come to be?"
+7\. "Thưa sư cô, làm thế nào mà thân kiến (sakkāya-diṭṭhi - personality view - tà kiến về một cái ngã thường hằng, một cái 'tôi' tồn tại độc lập) lại phát sinh?"
 
-"Here, friend Visākha, an untaught ordinary person, who has no regard for noble ones and is unskilled and undisciplined in their Dhamma, who has no regard for true men and is unskilled and undisciplined in their Dhamma, regards material form as self, or self as possessed of material form, or material form as in self, or self as in material form. He regards feeling as self, or self as possessed of feeling, or feeling as in self, or self as in feeling. He regards perception as self, or self as possessed of perception, or perception as in self, or self as in perception. He regards formations as self, or self as possessed of formations, or formations as in self, or self as in formations. He regards consciousness as self, or self as possessed of consciousness, or consciousness as in
-self, or self as in consciousness. That is how personality view comes to be." [^462]
+"Ở đây, này hiền hữu Visākha, một phàm phu chưa được học (assutavā puthujjana - uninstructed worldling - người bình thường chưa nghe và thực hành giáo pháp), người không kính trọng các bậc thánh (ariya - noble ones - những người đã đạt được các cấp độ giác ngộ) và không thuần thục, không được rèn luyện trong Giáo Pháp (Dhamma - the Buddha's teachings - lời dạy của Đức Phật) của các vị ấy, người không kính trọng các bậc chân nhân (sappurisa - true persons - những người có đạo đức và trí tuệ) và không thuần thục, không được rèn luyện trong Giáo Pháp của các vị ấy, xem sắc là tự ngã, hoặc tự ngã có sắc, hoặc sắc ở trong tự ngã, hoặc tự ngã ở trong sắc. Vị ấy xem thọ là tự ngã, hoặc tự ngã có thọ, hoặc thọ ở trong tự ngã, hoặc tự ngã ở trong thọ. Vị ấy xem tưởng là tự ngã, hoặc tự ngã có tưởng, hoặc tưởng ở trong tự ngã, hoặc tự ngã ở trong tưởng. Vị ấy xem các hành là tự ngã, hoặc tự ngã có các hành, hoặc các hành ở trong tự ngã, hoặc tự ngã ở trong các hành. Vị ấy xem thức là tự ngã, hoặc tự ngã có thức, hoặc thức ở trong tự ngã, hoặc tự ngã ở trong thức. Đó là cách thân kiến phát sinh." [^462]
 
-8. "Lady, how does personality view not come to be?"
+8\. "Thưa sư cô, làm thế nào mà thân kiến không phát sinh?"
 
-"Here, friend Visākha, a well-taught noble disciple, who has regard for noble ones and is skilled and disciplined in their Dhamma, who has regard for true men and is skilled and disciplined in their Dhamma, does not regard material form as self, or self as possessed of material form, or material form as in self, or self as in material form. He does not regard feeling as self, or self as possessed of feeling, or feeling as in self, or self as in feeling. He does not regard perception as self, or self as possessed of perception, or perception as in self, or self as in perception. He does not regard formations as self, or self as possessed of formations, or formations as in self, or self as in formations. He does not regard consciousness as self, or self as possessed of consciousness, or consciousness as in self, or self as in consciousness. That is how personality view does not come to be."
+"Ở đây, này hiền hữu Visākha, một thánh đệ tử đã được học kỹ (sutavā ariya-sāvaka - instructed noble disciple - người đệ tử đã nghe, học và thực hành giáo pháp), người kính trọng các bậc thánh và thuần thục, được rèn luyện trong Giáo Pháp của các vị ấy, người kính trọng các bậc chân nhân và thuần thục, được rèn luyện trong Giáo Pháp của các vị ấy, không xem sắc là tự ngã, hoặc tự ngã có sắc, hoặc sắc ở trong tự ngã, hoặc tự ngã ở trong sắc. Vị ấy không xem thọ là tự ngã, hoặc tự ngã có thọ, hoặc thọ ở trong tự ngã, hoặc tự ngã ở trong thọ. Vị ấy không xem tưởng là tự ngã, hoặc tự ngã có tưởng, hoặc tưởng ở trong tự ngã, hoặc tự ngã ở trong tưởng. Vị ấy không xem các hành là tự ngã, hoặc tự ngã có các hành, hoặc các hành ở trong tự ngã, hoặc tự ngã ở trong các hành. Vị ấy không xem thức là tự ngã, hoặc tự ngã có thức, hoặc thức ở trong tự ngã, hoặc tự ngã ở trong thức. Đó là cách thân kiến không phát sinh."
 
-(THE NOBLE EIGHTFOLD PATH)
+<!--pg-->
+(BÁT CHÁNH ĐẠO)
 
-9. "Lady, what is the Noble Eightfold Path?"
+9\. "Thưa sư cô, Bát Chánh Đạo là gì?"
 
-"Friend Visākha, it is just this Noble Eightfold Path; that is, right view, right intention, right speech, right action, right livelihood, right effort, right mindfulness, and right concentration."
+"Này hiền hữu Visākha, đó chính là Bát Chánh Đạo này; đó là: chánh kiến, chánh tư duy, chánh ngữ, chánh nghiệp, chánh mạng, chánh tinh tấn, chánh niệm, và chánh định."
 
-10. "Lady, is the Noble Eightfold Path conditioned or unconditioned?"
+10\. "Thưa sư cô, Bát Chánh Đạo là pháp hữu vi (saṅkhata - conditioned - được tạo tác bởi các điều kiện, có sinh có diệt) hay pháp vô vi (asaṅkhata - unconditioned - không bị tạo tác bởi điều kiện, không sinh không diệt)?"
 
-"Friend Visākha, the Noble Eightfold Path is [301] conditioned."
+"Này hiền hữu Visākha, Bát Chánh Đạo là pháp [301] hữu vi."
 
-11. "Lady, are the three aggregates included by the Noble Eightfold Path, or is the Noble Eightfold Path included by the three aggregates?"463
+11\. "Thưa sư cô, ba nhóm (khandha - aggregate/group - ở đây chỉ ba nhóm giới, định, tuệ) có được bao gồm trong Bát Chánh Đạo không, hay Bát Chánh Đạo được bao gồm trong ba nhóm?"463
 
-"The three aggregates are not included by the Noble Eightfold Path, friend Visākha, but the Noble Eightfold Path is included by the three aggregates. Right speech, right action, and right livelihood - these states are included in the aggregate of virtue. Right effort, right mindfulness, and right concentration - these states are included in the aggregate of concentration. Right view and right intention - these states are included in the aggregate of wisdom."
+"Ba nhóm không được bao gồm trong Bát Chánh Đạo, này hiền hữu Visākha, nhưng Bát Chánh Đạo được bao gồm trong ba nhóm. Chánh ngữ, chánh nghiệp, và chánh mạng - những trạng thái này được bao gồm trong giới uẩn (sīlakkhandha - aggregate of virtue). Chánh tinh tấn, chánh niệm, và chánh định - những trạng thái này được bao gồm trong định uẩn (samādhikkhandha - aggregate of concentration). Chánh kiến và chánh tư duy - những trạng thái này được bao gồm trong tuệ uẩn (paññākkhandha - aggregate of wisdom)."
 
-#### (CONCENTRATION)
+<!--pg-->
+#### (ĐỊNH)
 
-12. "Lady, what is concentration? What is the basis of concentration? What is the equipment of concentration? What is the development of concentration?"
+12\. "Thưa sư cô, định (samādhi - concentration - sự tập trung tâm ý vào một đối tượng) là gì? Nền tảng của định (samādhinimitta - basis/sign of concentration - đối tượng hoặc cơ sở để phát triển định) là gì? Trợ duyên của định (samādhiparikkhāra - requisites/equipment for concentration - những yếu tố hỗ trợ cho việc phát triển định) là gì? Sự phát triển định (samādhibhāvanā - development of concentration - sự tu tập, làm cho định tăng trưởng) là gì?"
 
-"Unification of mind, friend Visākha, is concentration; the four foundations of mindfulness are the basis of concentration; the four right kinds of striving are the equipment of concentration; the repetition, development, and cultivation of these same states is the development of concentration therein."464
+"Sự nhất tâm (cittassa ekaggatā - one-pointedness of mind - sự tập trung của tâm vào một điểm duy nhất), này hiền hữu Visākha, là định; tứ niệm xứ (cattāro satipaṭṭhānā - four foundations of mindfulness - bốn lĩnh vực quán niệm: thân, thọ, tâm, pháp) là nền tảng của định; tứ chánh cần (cattāro sammappadhānā - four right strivings - bốn nỗ lực đúng đắn: ngăn ác, diệt ác, sinh thiện, tăng trưởng thiện) là trợ duyên của định; sự lặp lại, phát triển và tu tập chính những trạng thái này là sự phát triển định ở đó."464
 
-#### (FORMATIONS)
+<!--pg-->
+#### (CÁC HÀNH)
 
-13. "Lady, how many formations are there?"
+13\. "Thưa sư cô, có bao nhiêu loại hành (saṅkhāra - formations - các hoạt động tạo tác có chủ ý)?"
 
-"There are these three formations, friend Visākha: the bodily formation, the verbal formation, and the mental formation."
+"Có ba loại hành này, này hiền hữu Visākha: thân hành (kāya-saṅkhāra - bodily formation), khẩu hành (vacī-saṅkhāra - verbal formation), và tâm hành (citta-saṅkhāra or mano-saṅkhāra - mental formation)."
 
-14. "But, lady, what is the bodily formation? What is the verbal formation? What is the mental formation?"
+14\. "Nhưng, thưa sư cô, thân hành là gì? Khẩu hành là gì? Tâm hành là gì?"
 
-"In-breathing and out-breathing, friend Visākha, are the bodily formation; applied thought and sustained thought are the verbal formation; perception and feeling are the mental formation." [^465]
+"Hơi thở vô và hơi thở ra (assāsa-passāsa - in-breath and out-breath), này hiền hữu Visākha, là thân hành; tầm và tứ (vitakka-vicāra - initial thought and sustained thought - sự hướng tâm đến đối tượng và sự duy trì tâm trên đối tượng) là khẩu hành; tưởng và thọ (saññā-vedanā - perception and feeling) là tâm hành." [^465]
 
-15. "But, lady, why are in-breathing and out-breathing the bodily formation? Why are applied thought and sustained thought the verbal formation? Why are perception and feeling the mental formation?"
+15\. "Nhưng, thưa sư cô, tại sao hơi thở vô và hơi thở ra là thân hành? Tại sao tầm và tứ là khẩu hành? Tại sao tưởng và thọ là tâm hành?"
 
-"Friend Visākha, in-breathing and out-breathing are bodily, these are states bound up with the body; that is why in-breathing and out-breathing are the bodily formation. First one applies thought and sustains thought, and subsequently one breaks out into speech; that is why applied thought and sustained thought are the verbal formation. Perception and feeling are mental, these are states bound up with the mind; that is why perception and feeling are the mental formation." [^466]
+"Này hiền hữu Visākha, hơi thở vô và hơi thở ra thuộc về thân, đây là những trạng thái gắn liền với thân; đó là lý do tại sao hơi thở vô và hơi thở ra là thân hành. Trước tiên người ta khởi tầm và duy trì tứ, sau đó mới nói ra lời; đó là lý do tại sao tầm và tứ là khẩu hành. Tưởng và thọ thuộc về tâm, đây là những trạng thái gắn liền với tâm; đó là lý do tại sao tưởng và thọ là tâm hành." [^466]
 
-#### (THE ATTAINMENT OF CESSATION)
+<!--pg-->
+#### (SỰ CHỨNG ĐẠT DIỆT THỌ TƯỞNG ĐỊNH)
 
-16. "Lady, how does the attainment of the cessation of perception and feeling come to be?"
+16\. "Thưa sư cô, làm thế nào mà sự chứng đạt diệt thọ tưởng định (saññā-vedayita-nirodha-samāpatti - attainment of the cessation of perception and feeling - trạng thái thiền định nơi tưởng và thọ tạm thời dừng lại) lại xảy ra?"
 
-"Friend Visākha, when a bhikkhu is attaining the cessation of
-perception and feeling, it does not occur to him: 'I shall attain the cessation of perception and feeling,' or 'I am attaining the cessation of perception and feeling,' or 'I have attained the cessation of perception and feeling'; but rather his mind has previously been developed in such a way that it leads him to that state." [^467] [302]
+"Này hiền hữu Visākha, khi một tỳ kheo đang chứng đạt diệt thọ tưởng định, vị ấy không khởi ý nghĩ: 'Ta sẽ chứng đạt diệt thọ tưởng định,' hay 'Ta đang chứng đạt diệt thọ tưởng định,' hay 'Ta đã chứng đạt diệt thọ tưởng định'; mà đúng hơn, tâm của vị ấy trước đó đã được phát triển theo cách đưa vị ấy đến trạng thái đó." [^467] [302]
 
-17. "Lady, when a bhikkhu is attaining the cessation of perception and feeling, which states cease first in him: the bodily formation, the verbal formation, or the mental formation?"
+17\. "Thưa sư cô, khi một tỳ kheo đang chứng đạt diệt thọ tưởng định, những trạng thái nào ngừng lại trước tiên nơi vị ấy: thân hành, khẩu hành, hay tâm hành?"
 
-"Friend Visākha, when a bhikkhu is attaining the cessation of perception and feeling, first the verbal formation ceases, then the bodily formation, then the mental formation." [^468]
+"Này hiền hữu Visākha, khi một tỳ kheo đang chứng đạt diệt thọ tưởng định, trước tiên khẩu hành ngừng lại, sau đó đến thân hành, rồi đến tâm hành." [^468]
 
-18. "Lady, how does emergence from the attainment of the cessation of perception and feeling come to be?"
+18\. "Thưa sư cô, làm thế nào mà sự xuất khỏi diệt thọ tưởng định (emergence from the attainment of the cessation of perception and feeling - sự ra khỏi trạng thái diệt thọ tưởng định) lại xảy ra?"
 
-"Friend Visākha, when a bhikkhu is emerging from the attainment of the cessation of perception and feeling, it does not occur to him: 'I shall emerge from the attainment of the cessation of perception and feeling,' or 'I am emerging from the attainment of the cessation of perception and feeling,' or 'I have emerged from the attainment of the cessation of perception and feeling'; but rather his mind has previously been developed in such a way that it leads him to that state." [^469]
+"Này hiền hữu Visākha, khi một tỳ kheo đang xuất khỏi diệt thọ tưởng định, vị ấy không khởi ý nghĩ: 'Ta sẽ xuất khỏi diệt thọ tưởng định,' hay 'Ta đang xuất khỏi diệt thọ tưởng định,' hay 'Ta đã xuất khỏi diệt thọ tưởng định'; mà đúng hơn, tâm của vị ấy trước đó đã được phát triển theo cách đưa vị ấy đến trạng thái đó." [^469]
 
-19. "Lady, when a bhikkhu is emerging from the attainment of the cessation of perception and feeling, which states arise first in him: the bodily formation, the verbal formation, or the mental formation?"
+19\. "Thưa sư cô, khi một tỳ kheo đang xuất khỏi diệt thọ tưởng định, những trạng thái nào phát sinh trước tiên nơi vị ấy: thân hành, khẩu hành, hay tâm hành?"
 
-"Friend Visākha, wherl a bhikkhu is emerging from the attainment of the cessation of perception and feeling, first the mental formation arises, then the bodily formation, then the verbal formation." [^470]
+"Này hiền hữu Visākha, khi một tỳ kheo đang xuất khỏi diệt thọ tưởng định, trước tiên tâm hành phát sinh, sau đó đến thân hành, rồi đến khẩu hành." [^470]
 
-20. "Lady, when a bhikkhu has emerged from the attainment of the cessation of perception and feeling, how many kinds of contact touch him?"
+20\. "Thưa sư cô, khi một tỳ kheo đã xuất khỏi diệt thọ tưởng định, có bao nhiêu loại xúc (phassa - contact - sự tiếp xúc giữa căn, trần và thức) chạm đến vị ấy?"
 
-"Friend Visākha, when a bhikkhu has emerged from the attainment of the cessation of perception and feeling, three kinds of contact touch him: voidness contact, signless contact, desireless contact." [^471]
+"Này hiền hữu Visākha, khi một tỳ kheo đã xuất khỏi diệt thọ tưởng định, có ba loại xúc chạm đến vị ấy: không xúc (suññatā phassa - contact through voidness - sự tiếp xúc với tính không), vô tướng xúc (animitta phassa - contact through signlessness - sự tiếp xúc với tính vô tướng), vô nguyện xúc (appaṇihita phassa - contact through desirelessness - sự tiếp xúc với tính vô nguyện)." [^471]
 
-21. "Lady, when a bhikkhu has emerged from the attainment of the cessation of perception and feeling, to what does his mind incline, to what does it lean, to what does it tend?"
-"Friend Visākha, when a bhikkhu has emerged from the attainment of the cessation of perception and feeling, his mind inclines to seclusion, leans to seclusion, tends to seclusion." [^472]
+21\. "Thưa sư cô, khi một tỳ kheo đã xuất khỏi diệt thọ tưởng định, tâm của vị ấy hướng về đâu, nghiêng về đâu, xu hướng về đâu?"
+"Này hiền hữu Visākha, khi một tỳ kheo đã xuất khỏi diệt thọ tưởng định, tâm của vị ấy hướng về sự viễn ly (viveka - seclusion/detachment - sự xa lìa, tách biệt khỏi phiền não và thế gian), nghiêng về sự viễn ly, xu hướng về sự viễn ly." [^472]
 
-(FEELING)
+<!--pg-->
+(THỌ)
 
-22. "Lady, how many kinds of feeling are there?"
+22\. "Thưa sư cô, có bao nhiêu loại thọ (vedanā - feeling - cảm giác dễ chịu, khó chịu hoặc trung tính)?"
 
-"Friend Visākha, there are three kinds of feeling: pleasant feeling, painful feeling, and neither-painful-nor-pleasant feeling."
+"Này hiền hữu Visākha, có ba loại thọ: lạc thọ (pleasant feeling), khổ thọ (painful feeling), và bất khổ bất lạc thọ (neither-painful-nor-pleasant feeling)."
 
-23. "But, lady, what is pleasant feeling? What is painful feeling? What is neither painful-nor-pleasant feeling?"
+23\. "Nhưng, thưa sư cô, lạc thọ là gì? Khổ thọ là gì? Bất khổ bất lạc thọ là gì?"
 
-"Friend Visākha, whatever is felt bodily or mentally as pleasant and soothing is pleasant feeling. Whatever is felt bodily or mentally as painful and hurting is painful feeling. Whatever is felt bodily or mentally as neither soothing nor hurting [303] is neither-painful-nor-pleasant feeling."
+"Này hiền hữu Visākha, bất cứ điều gì được cảm nhận qua thân hay tâm là dễ chịu và êm dịu thì đó là lạc thọ. Bất cứ điều gì được cảm nhận qua thân hay tâm là đau đớn và khổ sở thì đó là khổ thọ. Bất cứ điều gì được cảm nhận qua thân hay tâm không phải êm dịu cũng không phải khổ sở [303] thì đó là bất khổ bất lạc thọ."
 
-24. "Lady, what is pleasant and what is painful in regard to pleasant feeling? What is painful and what is pleasant in regard to painful feeling? What is pleasant and what is painful in regard to neither-painful-nor-pleasant feeling?"
+24\. "Thưa sư cô, cái gì là dễ chịu và cái gì là đau khổ đối với lạc thọ? Cái gì là đau khổ và cái gì là dễ chịu đối với khổ thọ? Cái gì là dễ chịu và cái gì là đau khổ đối với bất khổ bất lạc thọ?"
 
-"Friend Visākha, pleasant feeling is pleasant when it persists and painful when it changes. Painful feeling is painful when it persists and pleasant when it changes. Neither-painful-norpleasant feeling is pleasant when there is knowledge [of it] and painful when there is no knowledge [of it]."
+"Này hiền hữu Visākha, lạc thọ thì dễ chịu khi nó tồn tại và đau khổ khi nó thay đổi. Khổ thọ thì đau khổ khi nó tồn tại và dễ chịu khi nó thay đổi. Bất khổ bất lạc thọ thì dễ chịu khi có sự hiểu biết [về nó] và đau khổ khi không có sự hiểu biết [về nó]."
 
-#### (UNDERLYING TENDENCIES)
+<!--pg-->
+#### (TÙY MIÊN)
 
-25. "Lady, what underlying tendency underlies pleasant feeling? What underlying tendency underlies painful feeling? What underlying tendency underlies neither-painful-nor-pleasant feeling?"
+25\. "Thưa sư cô, tùy miên (anusaya - underlying tendency - khuynh hướng phiền não tiềm ẩn) nào nằm ngầm dưới lạc thọ? Tùy miên nào nằm ngầm dưới khổ thọ? Tùy miên nào nằm ngầm dưới bất khổ bất lạc thọ?"
 
-"Friend Visākha, the underlying tendency to lust underlies pleasant feeling. The underlying tendency to aversion underlies painful feeling. The underlying tendency to ignorance underlies neither-painful-nor-pleasant feeling." [^473]
+"Này hiền hữu Visākha, tham tùy miên (rāgānusaya - underlying tendency to lust) nằm ngầm dưới lạc thọ. Sân tùy miên (paṭighānusaya - underlying tendency to aversion) nằm ngầm dưới khổ thọ. Si tùy miên (avijjānusaya - underlying tendency to ignorance) nằm ngầm dưới bất khổ bất lạc thọ." [^473]
 
-26. "Lady, does the underlying tendency to lust underlie all pleasant feeling? Does the underlying tendency to aversion underlie all painful feeling? Does the underlying tendency to ignorance underlie all neither-painful-nor-pleasant feeling?"
+26\. "Thưa sư cô, có phải tham tùy miên nằm ngầm dưới tất cả lạc thọ không? Có phải sân tùy miên nằm ngầm dưới tất cả khổ thọ không? Có phải si tùy miên nằm ngầm dưới tất cả bất khổ bất lạc thọ không?"
 
-"Friend Visākha, the underlying tendency to lust does not
-underlie all pleasant feeling. The underlying tendency to aversion does not underlie all painful feeling. The underlying tendency to ignorance does not underlie all neither-painful-norpleasant feeling."
+"Này hiền hữu Visākha, tham tùy miên không nằm ngầm dưới tất cả lạc thọ. Sân tùy miên không nằm ngầm dưới tất cả khổ thọ. Si tùy miên không nằm ngầm dưới tất cả bất khổ bất lạc thọ."
 
-27. "Lady, what should be abandoned in regard to pleasant feeling? What should be abandoned in regard to painful feeling? What should be abandoned in regard to neither-painful-norpleasant feeling?"
+27\. "Thưa sư cô, cái gì nên được từ bỏ, đoạn trừ (pahāna - abandonment - sự loại bỏ, chấm dứt) đối với lạc thọ? Cái gì nên được từ bỏ đối với khổ thọ? Cái gì nên được từ bỏ đối với bất khổ bất lạc thọ?"
 
-"Friend Visākha, the underlying tendency to lust should be abandoned in regard to pleasant feeling. The underlying tendency to aversion should be abandoned in regard to painful feeling. The underlying tendency to ignorance should be abandoned in regard to neither-painful-nor-pleasant feeling."
+"Này hiền hữu Visākha, tham tùy miên nên được từ bỏ đối với lạc thọ. Sân tùy miên nên được từ bỏ đối với khổ thọ. Si tùy miên nên được từ bỏ đối với bất khổ bất lạc thọ."
 
-28. "Lady, does the underlying tendency to lust have to be abandoned in regard to all pleasant feeling? Does the underlying tendency to aversion have to be abandoned in regard to all painful feeling? Does the underlying tendency to ignorance have to be abandoned in regard to all neither-painful-nor-pleasant feeling?"
+28\. "Thưa sư cô, có phải tham tùy miên phải được từ bỏ đối với tất cả lạc thọ không? Có phải sân tùy miên phải được từ bỏ đối với tất cả khổ thọ không? Có phải si tùy miên phải được từ bỏ đối với tất cả bất khổ bất lạc thọ không?"
 
-"Friend Visākha, the underlying tendency to lust does not have to be abandoned in regard to all pleasant feeling. The underlying tendency to aversion does not have to be abandoned in regard to all painful feeling. The underlying tendency to ignorance does not have to be abandoned in regard to all neither-painful-nor-pleasant feeling.
+"Này hiền hữu Visākha, tham tùy miên không phải được từ bỏ đối với tất cả lạc thọ. Sân tùy miên không phải được từ bỏ đối với tất cả khổ thọ. Si tùy miên không phải được từ bỏ đối với tất cả bất khổ bất lạc thọ.
 
-"Here, friend Visākha, quite secluded from sensual pleasures, secluded from unwholesome states, a bhikkhu enters upon and abides in the first jhāna, which is accompanied by applied and sustained thought, with rapture and pleasure born of seclusion. With that he abandons lust, and the underlying tendency to lust does not underlie that. [^474]
+"Ở đây, này hiền hữu Visākha, hoàn toàn ly dục, ly bất thiện pháp, một tỳ kheo chứng và trú sơ thiền (first jhāna - tầng thiền thứ nhất), một trạng thái có tầm có tứ, với hỷ (pīti - rapture/joy - niềm vui thích, phấn khởi trong thiền định) và lạc (sukha - pleasure/happiness - cảm giác dễ chịu, hạnh phúc trong thiền định) do ly dục sinh. Với trạng thái đó, vị ấy từ bỏ tham ái, và tham tùy miên không nằm ngầm dưới đó. [^474]
 
-"Here a bhikkhu considers thus: 'When shall I enter upon and abide in that base that the noble ones now enter upon and abide in?' In one who thus generates a longing for the supreme liberations, [304] grief arises with that longing as condition. With that he abandons aversion, and the underlying tendency to aversion does not underlie that. [^475]
+"Ở đây một tỳ kheo suy xét như sau: 'Khi nào ta sẽ chứng và trú trong cảnh giới mà các bậc thánh hiện đang chứng và trú?' Nơi người khởi lên lòng khao khát sự giải thoát tối thượng như vậy, [304] sầu muộn phát sinh với lòng khao khát đó làm điều kiện. Với trạng thái đó, vị ấy từ bỏ sân hận, và sân tùy miên không nằm ngầm dưới đó. [^475]
 
-"Here, with the abandoning of pleasure and pain, and with the previous disappearance of joy and grief, a bhikkhu enters upon and abides in the fourth jhāna, which has neither-pain-nor-pleasure and purity of mindfulness due to equanimity. With
-that he abandons ignorance, and the underlying tendency to ignorance does not underlie that." [^476]
+"Ở đây, với việc xả lạc và xả khổ, cùng với sự biến mất trước đó của hỷ và ưu, một tỳ kheo chứng và trú tứ thiền (fourth jhāna - tầng thiền thứ tư), một trạng thái không khổ không lạc, có niệm thanh tịnh nhờ xả (upekkhā - equanimity - trạng thái tâm bình thản, không dao động). Với trạng thái đó, vị ấy từ bỏ vô minh, và si tùy miên không nằm ngầm dưới đó." [^476]
 
-#### (COUNTERPARTS)
+<!--pg-->
+#### (CÁI TƯƠNG ỨNG/ĐỐI NGHỊCH)
 
-29. "Lady, what is the counterpart of pleasant feeling?"477
+29\. "Thưa sư cô, cái gì là đối nghịch/tương ứng (paṭibhāga - counterpart/equivalent - cái đối lập hoặc tương đương) của lạc thọ?"477
 
-"Friend Visākha, painful feeling is the counterpart of pleasant feeling."
+"Này hiền hữu Visākha, khổ thọ là cái đối nghịch của lạc thọ."
 
-"What is the counterpart of painful feeling?"
+"Cái gì là đối nghịch của khổ thọ?"
 
-"Pleasant feeling is the counterpart of painful feeling."
+"Lạc thọ là cái đối nghịch của khổ thọ."
 
-"What is the counterpart of neither-painful-nor-pleasant feeling?"
+"Cái gì là đối nghịch của bất khổ bất lạc thọ?"
 
-"Ignorance is the counterpart of neither-painful-nor pleasant feeling." [^478]
+"Vô minh là cái đối nghịch của bất khổ bất lạc thọ." [^478]
 
-"What is the counterpart of ignorance?"
+"Cái gì là đối nghịch của vô minh?"
 
-"True knowledge is the counterpart of ignorance."
+"Minh, chánh trí (vijjā - true knowledge/wisdom - sự hiểu biết đúng đắn, trí tuệ) là cái đối nghịch của vô minh."
 
-"What is the counterpart of true knowledge?"
+"Cái gì là đối nghịch của minh, chánh trí?"
 
-"Deliverance is the counterpart of true knowledge."
+"Giải thoát (vimutti - liberation/release - sự thoát khỏi khổ đau và vòng luân hồi) là cái đối nghịch của minh, chánh trí."
 
-"What is the counterpart of deliverance?"
+"Cái gì là đối nghịch của giải thoát?"
 
-"Nibbāna is the counterpart of deliverance."
+"Niết Bàn (nibbāna - Nibbāna/Nirvana - mục tiêu cuối cùng của đạo Phật, sự chấm dứt khổ đau) là cái đối nghịch của giải thoát."
 
-"Lady, what is the counterpart of Nibbāna?"
+"Thưa sư cô, cái gì là đối nghịch của Niết Bàn?"
 
-"Friend Visākha, you have pushed this line of questioning too far; you were not able to grasp the limit to questions. [^479] For the holy life, friend Visākha, merges in Nibbāna, culminates in Nibbāna, ends in Nibbāna. If you wish, friend Visākha, go to the Blessed One and ask him about the meaning of this. As the Blessed One explains it to you, so you should remember it."
+"Này hiền hữu Visākha, ông đã đẩy loạt câu hỏi này đi quá xa; ông đã không thể nắm bắt được giới hạn của các câu hỏi. [^479] Vì đời sống phạm hạnh (brahmacariya - holy life/celibate life - đời sống trong sạch, hướng đến giải thoát, thường bao gồm việc giữ giới và tu tập), này hiền hữu Visākha, hợp nhất vào Niết Bàn, đạt đến đỉnh cao ở Niết Bàn, kết thúc ở Niết Bàn. Nếu ông muốn, này hiền hữu Visākha, hãy đến gặp Đức Thế Tôn và hỏi Ngài về ý nghĩa của điều này. Như Đức Thế Tôn giải thích cho ông, ông nên ghi nhớ như vậy."
 
-#### (CONCLUSION)
+<!--pg-->
+#### (KẾT LUẬN)
 
-30. Then the lay follower Visākha, having delighted and rejoiced in the bhikkhunī Dhammadinnā's words, rose from his seat, and after paying homage to her, keeping her on his right, he went to the Blessed One. After paying homage to him, he sat down at one side and told the Blessed One his entire conversation with the bhikkhunī Dhammadinnā. When he finished speaking, the Blessed One told him:
+30\. Sau đó, cư sĩ Visākha, hoan hỷ và vui mừng với lời của tỳ kheo ni Dhammadinnā, từ chỗ ngồi đứng dậy, đảnh lễ vị ấy, đi quanh giữ vị ấy bên phải mình, rồi đến gặp Đức Thế Tôn. Sau khi đảnh lễ Ngài, ông ngồi xuống một bên và kể lại toàn bộ cuộc đối thoại của mình với tỳ kheo ni Dhammadinnā cho Đức Thế Tôn nghe. Khi ông nói xong, Đức Thế Tôn bảo ông:
 
-31. "The bhikkhunī Dhammadinnā is wise, Visākha, the bhikkhunī Dhammadinnā has great wisdom. If you had asked me the meaning of this, I would have explained it to you [305] in
-the same way that the bhikkhunī Dhammadinnā has explained it. Such is its meaning, and so you should remember it." [^480]
+31\. "Tỳ kheo ni Dhammadinnā là người trí tuệ, này Visākha, tỳ kheo ni Dhammadinnā có trí tuệ lớn. Nếu ông hỏi Ta ý nghĩa của điều này, Ta cũng sẽ giải thích cho ông [305] theo cùng một cách mà tỳ kheo ni Dhammadinnā đã giải thích. Ý nghĩa của nó là như vậy, và ông nên ghi nhớ như vậy." [^480]
 
-That is what the Blessed One said. The lay follower Visākha was satisfied and delighted in the Blessed One's words.
+Đó là những gì Đức Thế Tôn đã nói. Cư sĩ Visākha hài lòng và hoan hỷ với lời của Đức Thế Tôn.
+
+<!--pg-->
+Từ ngữ:
+- tỳ kheo ni / bhikkhunī / bhikkhuni: Nữ tu sĩ Phật giáo đã thọ giới cụ túc.
+- thân kiến / sakkāya / personality: Quan niệm sai lầm về một cái 'tôi' hay 'ngã' thường hằng, bất biến tồn tại độc lập, thường được đồng hóa với năm uẩn (sắc, thọ, tưởng, hành, thức). Trong kinh này, từ "personality" được dùng để chỉ khái niệm sakkāya này.
+- năm uẩn bị chấp thủ / pañcupādānakkhandhā / five aggregates subject to clinging: Năm nhóm yếu tố tạo thành kinh nghiệm (sắc, thọ, tưởng, hành, thức) mà chúng sinh thường bám víu, dính mắc vào, coi đó là tự ngã của mình.
+- nguồn gốc của thân kiến / sakkāya-samudaya / origin of personality: Nguyên nhân làm phát sinh ra quan niệm sai lầm về tự ngã, chính là tham ái (taṇhā).
+- tham ái / taṇhā / craving: Sự khao khát, ham muốn mãnh liệt, là gốc rễ của khổ đau, bao gồm dục ái (ham muốn các đối tượng giác quan), hữu ái (ham muốn tồn tại), và phi hữu ái (ham muốn không tồn tại, hủy diệt).
+- sự đoạn diệt thân kiến / sakkāya-nirodha / cessation of personality: Sự chấm dứt hoàn toàn quan niệm sai lầm về tự ngã, đạt được thông qua việc đoạn trừ tham ái.
+- sự phai nhạt và đoạn diệt không còn dư tàn, sự từ bỏ, xả ly, buông bỏ, và khước từ / virāga-nirodha, cāga, paṭinissagga, mutti, anālaya / remainderless fading away and ceasing, giving up, relinquishing, letting go, and rejecting: Các thuật ngữ mô tả trạng thái Niết Bàn, sự chấm dứt hoàn toàn tham ái và khổ đau không còn dấu vết.
+- con đường đưa đến sự đoạn diệt thân kiến / sakkāya-nirodha-gāminī paṭipadā / the way leading to the cessation of personality: Con đường thực hành để chấm dứt quan niệm sai lầm về tự ngã, chính là Bát Chánh Đạo.
+- Bát Chánh Đạo / ariya aṭṭhaṅgika magga / Noble Eightfold Path: Con đường tám yếu tố đúng đắn dẫn đến giải thoát khổ đau, bao gồm: Chánh kiến, Chánh tư duy, Chánh ngữ, Chánh nghiệp, Chánh mạng, Chánh tinh tấn, Chánh niệm, Chánh định.
+- chấp thủ / upādāna / clinging/attachment: Sự bám víu, dính mắc mạnh mẽ vào các đối tượng (dục lạc, tà kiến, giới cấm thủ, ngã luận) do tham ái và vô minh.
+- dục và tham / chanda-rāga / desire and lust: Sự ham muốn và đam mê, đặc biệt là đối với các đối tượng của năm uẩn.
+- thân kiến (quan điểm về ngã) / sakkāya-diṭṭhi / personality view: Tà kiến, quan điểm sai lầm về một cái 'tôi' hay 'ngã' thường hằng, độc lập, tồn tại trong hoặc ngoài năm uẩn.
+- phàm phu chưa được học / assutavā puthujjana / uninstructed worldling: Người bình thường chưa được nghe, học và thực hành Giáo Pháp của Đức Phật, còn bị vô minh che lấp.
+- bậc thánh / ariya / noble ones: Những người đã chứng đắc các đạo quả giác ngộ (từ Nhập lưu đến A-la-hán).
+- bậc chân nhân / sappurisa / true persons: Những người có đạo đức, trí tuệ, sống đúng theo Chánh pháp.
+- Giáo Pháp / Dhamma / the Buddha's teachings: Lời dạy của Đức Phật về sự thật và con đường giải thoát.
+- thánh đệ tử đã được học kỹ / sutavā ariya-sāvaka / instructed noble disciple: Người đệ tử của bậc Thánh, đã nghe, học, hiểu và thực hành Giáo Pháp.
+- hữu vi / saṅkhata / conditioned: Các pháp được tạo tác bởi các điều kiện (nhân duyên), có đặc tính sinh, trụ, dị, diệt (vô thường).
+- vô vi / asaṅkhata / unconditioned: Các pháp không bị tạo tác bởi điều kiện, không sinh không diệt, thường chỉ Niết Bàn.
+- ba nhóm / khandha / aggregate/group: Ở đây chỉ ba phần của Bát Chánh Đạo được nhóm lại: Giới uẩn, Định uẩn, Tuệ uẩn.
+- giới uẩn / sīlakkhandha / aggregate of virtue: Nhóm các yếu tố thuộc về đạo đức, giới hạnh (Chánh ngữ, Chánh nghiệp, Chánh mạng).
+- định uẩn / samādhikkhandha / aggregate of concentration: Nhóm các yếu tố thuộc về sự tập trung tâm ý (Chánh tinh tấn, Chánh niệm, Chánh định).
+- tuệ uẩn / paññākkhandha / aggregate of wisdom: Nhóm các yếu tố thuộc về trí tuệ, sự hiểu biết đúng đắn (Chánh kiến, Chánh tư duy).
+- định / samādhi / concentration: Sự tập trung tâm ý vào một đối tượng duy nhất một cách vững chắc.
+- sự nhất tâm / cittassa ekaggatā / one-pointedness of mind: Trạng thái tâm tập trung vào một điểm duy nhất, không phân tán.
+- nền tảng của định / samādhinimitta / basis/sign of concentration: Cơ sở, đối tượng để phát triển định, ở đây chỉ Tứ Niệm Xứ.
+- tứ niệm xứ / cattāro satipaṭṭhānā / four foundations of mindfulness: Bốn lĩnh vực quán niệm để phát triển chánh niệm và trí tuệ: quán thân, quán thọ, quán tâm, quán pháp.
+- trợ duyên của định / samādhiparikkhāra / requisites/equipment for concentration: Những yếu tố cần thiết, hỗ trợ cho việc phát triển định, ở đây chỉ Tứ Chánh Cần.
+- tứ chánh cần / cattāro sammappadhānā / four right strivings: Bốn nỗ lực đúng đắn: nỗ lực ngăn ngừa các ác pháp chưa sinh, nỗ lực đoạn trừ các ác pháp đã sinh, nỗ lực làm sinh khởi các thiện pháp chưa sinh, nỗ lực duy trì và phát triển các thiện pháp đã sinh.
+- sự phát triển định / samādhibhāvanā / development of concentration: Sự tu tập, thực hành để làm cho tâm định được tăng trưởng và vững mạnh.
+- các hành / saṅkhāra / formations: Các hoạt động tạo tác có chủ ý, các yếu tố hình thành, bao gồm thân hành, khẩu hành, và tâm hành.
+- thân hành / kāya-saṅkhāra / bodily formation: Hoạt động tạo tác thuộc về thân, ở đây chỉ hơi thở vô và hơi thở ra.
+- khẩu hành / vacī-saṅkhāra / verbal formation: Hoạt động tạo tác thuộc về lời nói, ở đây chỉ tầm và tứ (suy nghĩ khởi đầu và duy trì).
+- tâm hành / citta-saṅkhāra (or mano-saṅkhāra) / mental formation: Hoạt động tạo tác thuộc về tâm, ở đây chỉ tưởng và thọ.
+- hơi thở vô và hơi thở ra / assāsa-passāsa / in-breath and out-breath: Hơi thở đi vào và hơi thở đi ra khỏi cơ thể.
+- tầm và tứ / vitakka-vicāra / initial thought and sustained thought: Tầm là sự hướng tâm đến đối tượng, Tứ là sự duy trì tâm trên đối tượng đó. Đây là hai yếu tố của thiền định (đặc biệt là sơ thiền) và cũng là yếu tố khởi đầu cho lời nói.
+- tưởng và thọ / saññā-vedanā / perception and feeling: Tưởng là sự nhận biết, ghi nhận đặc điểm của đối tượng. Thọ là cảm giác dễ chịu, khó chịu hay trung tính phát sinh khi tiếp xúc đối tượng.
+- sự chứng đạt diệt thọ tưởng định / saññā-vedayita-nirodha-samāpatti / attainment of the cessation of perception and feeling: Trạng thái thiền định rất cao, nơi mọi hoạt động của tâm thức, bao gồm cả tưởng và thọ, tạm thời ngừng lại hoàn toàn.
+- sự xuất khỏi diệt thọ tưởng định / emergence from the attainment...: Hành động ra khỏi trạng thái Diệt thọ tưởng định.
+- xúc / phassa / contact: Sự tiếp xúc giữa cơ quan cảm giác (căn), đối tượng cảm giác (trần), và nhận thức (thức). Là điều kiện để phát sinh thọ, tưởng, hành.
+- không xúc / suññatā phassa / contact through voidness: Sự tiếp xúc với đối tượng thông qua nhận thức về tính không (không có tự ngã).
+- vô tướng xúc / animitta phassa / contact through signlessness: Sự tiếp xúc với đối tượng thông qua nhận thức về tính vô tướng (không có dấu hiệu thường hằng).
+- vô nguyện xúc / appaṇihita phassa / contact through desirelessness: Sự tiếp xúc với đối tượng thông qua nhận thức về tính vô nguyện (không còn mong cầu, ham muốn).
+- viễn ly / viveka / seclusion/detachment: Sự xa lìa, tách biệt khỏi đám đông, khỏi các pháp bất thiện, khỏi phiền não. Có ba loại: thân viễn ly, tâm viễn ly, và viễn ly khỏi các cấu uế (upadhi-viveka).
+- thọ / vedanā / feeling: Cảm giác phát sinh khi có sự tiếp xúc (xúc), bao gồm lạc thọ (dễ chịu), khổ thọ (khó chịu), và bất khổ bất lạc thọ (trung tính).
+- tùy miên / anusaya / underlying tendency: Khuynh hướng phiền não tiềm ẩn, ngủ ngầm trong tâm thức, chưa bị diệt trừ hoàn toàn, dễ dàng trỗi dậy khi gặp điều kiện thích hợp.
+- tham tùy miên / rāgānusaya / underlying tendency to lust: Khuynh hướng tham ái, ham muốn tiềm ẩn.
+- sân tùy miên / paṭighānusaya / underlying tendency to aversion: Khuynh hướng sân hận, chống đối tiềm ẩn.
+- si tùy miên / avijjānusaya / underlying tendency to ignorance: Khuynh hướng vô minh, si mê tiềm ẩn.
+- từ bỏ, đoạn trừ / pahāna / abandonment: Sự loại bỏ, chấm dứt hoàn toàn phiền não hoặc các pháp bất thiện.
+- thiền na / jhāna / meditative absorption: Trạng thái nhập định sâu, tâm hoàn toàn tập trung vào một đối tượng, có nhiều cấp độ khác nhau (sơ thiền, nhị thiền, tam thiền, tứ thiền...).
+- hỷ / pīti / rapture/joy: Niềm vui thích, phấn khởi, một yếu tố của thiền định (đặc biệt các tầng thiền sắc giới thấp).
+- lạc / sukha / pleasure/happiness: Cảm giác dễ chịu, hạnh phúc, an lạc, một yếu tố của thiền định (đặc biệt các tầng thiền sắc giới).
+- xả / upekkhā / equanimity: Trạng thái tâm bình thản, quân bình, không dao động trước các đối tượng dễ chịu hay khó chịu, một yếu tố quan trọng trong thiền định (đặc biệt là tứ thiền).
+- đối nghịch, cái tương ứng / paṭibhāga / counterpart/equivalent: Cái đối lập hoặc tương đương về mặt chức năng hoặc bản chất trong một ngữ cảnh nhất định.
+- minh, chánh trí / vijjā / true knowledge/wisdom: Sự hiểu biết đúng đắn, trí tuệ thấy rõ bản chất của sự vật, đối nghịch với vô minh (avijjā).
+- giải thoát / vimutti / liberation/release: Sự thoát khỏi mọi khổ đau, phiền não và vòng luân hồi sinh tử.
+- Niết Bàn / nibbāna / Nibbāna/Nirvana: Mục tiêu cuối cùng của đạo Phật, trạng thái dập tắt hoàn toàn mọi phiền não và khổ đau, sự an lạc tuyệt đối, bất sinh bất diệt.
+- đời sống phạm hạnh / brahmacariya / holy life/celibate life: Đời sống trong sạch, cao thượng, hướng đến mục tiêu giải thoát, thường bao gồm việc giữ giới (đặc biệt là giới không dâm dục đối với tu sĩ) và tu tập thiền định, trí tuệ.

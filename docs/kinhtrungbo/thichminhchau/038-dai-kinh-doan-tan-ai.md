@@ -132,6 +132,7 @@ Nhưng Tỷ-kheo Sati, con của người đánh cá, không những xuyên tạ
 pháp hoại mình và tạo nên nhiều tổn đức, và như vậy sẽ đưa đến bất hạnh và đau khổ lâu dài cho kẻ mê
 mờ ấy.
 
+<!--pg-->
 ***(Duyên sanh Thức)***
 
 Này các Tỷ-kheo, do duyên mà thức sanh, và thức ấy có tên tùy theo duyên ấy. Do duyên mắt và các
@@ -148,13 +149,14 @@ sanh, và thức ấy có tên là nhĩ thức. Do duyên mũi và các hương,
 Do duyên lưỡi và các vị, thức sanh, và thức ấy có tên là thiệt thức. Do duyên thân và các xúc, thức sanh,
 và thức ấy có tên là thân thức. Do duyên ý và các pháp, thức sanh, và thức ấy có tên là ý thức.
 
+<!--pg-->
 ***(Các câu hỏi về sanh vật)***
 
 Này các Tỷ-kheo, các Ông có thấy sanh vật này không?
 
 -- Bạch Thế Tôn, có thấy.
 
-- -Này các Tỷ-kheo, các Ông có thấy sự tác thành sanh vật do món ăn ấy không?
+-- Này các Tỷ-kheo, các Ông có thấy sự tác thành sanh vật do món ăn ấy không?
 
 -- Bạch Thế Tôn có thấy.
 
@@ -235,6 +237,7 @@ qua, không phải để nắm lấy.
 
 -- Bạch Thế Tôn, có.
 
+<!--pg-->
 ***(Thức ăn và Duyên khởi)***
 
 -- Này các Tỷ-kheo, có bốn món ăn giúp cho an trú các loài hữu tình đã sanh hay phò trợ các loài hữu
@@ -251,7 +254,6 @@ khởi, lấy xúc làm sanh chủng, lấy xúc làm nguyên nhân. Này các T
 duyên, lấy gì làm tập khởi, lấy gì làm sanh chủng, lấy gì làm nguyên nhân? Xúc lấy sáu nhập làm nhân
 duyên, lấy sáu nhập làm tập khởi, lấy sáu nhập làm sanh chủng, lấy sáu nhập làm nguyên nhân. Này các
 Tỷ-kheo, sáu nhập này lấy gì làm nhân duyên, lấy gì làm tập khởi, lấy gì làm sanh chủng, lấy gì làm
-
 nguyên nhân? Sáu nhập lấy danh sắc làm nhân duyên, lấy danh sắc làm tập khởi, lấy danh sắc làm sanh
 chủng, lấy danh sắc làm nguyên nhân. Này các Tỷ-kheo, danh sắc này lấy gì làm nhân duyên, lấy gì làm
 tập khởi, lấy gì làm sanh chủng, lấy gì làm nguyên nhân? Danh sắc lấy thức làm nhân duyên, lấy thức là
@@ -261,6 +263,7 @@ nhân duyên, lấy hành làm tập khởi, lấy hành làm sanh chủng, lấ
 kheo, các hành này lấy gì làm nhân duyên, lấy gì làm tập khởi, lấy gì làm sanh chủng, lấy gì làm nguyên
 nhân? Các hành lấy vô minh làm sanh chủng, lấy vô minh làm nguyên nhân.
 
+<!--pg-->
 ***(Duyên theo chiều thuận)***
 
 Như vậy, này các Tỷ-kheo, vô minh duyên hành, hành duyên thức, thức duyên danh sắc, danh sắc duyên
@@ -268,6 +271,7 @@ sáu nhập, sáu nhập duyên xúc, xúc duyên thọ, thọ duyên ái, ái d
 sanh, sanh duyên già, chết, sầu, bi, khổ, ưu, não được hiện hữu. Như vậy là sự tập khởi của toàn bộ khổ
 uẩn này.
 
+<!--pg-->
 ***(Duyên theo chiều nghịch)***
 
 Trước đã nói: Sanh duyên già, chết (Do duyên sanh nên già, chết hiện khởi). Này các Tỷ-kheo, sanh
@@ -331,6 +335,7 @@ như thế nào?
 -- Bạch Thế Tôn, vô minh duyên hành. Như vậy đối với chúng con (nghĩa) ở đây là vậy: Vô minh duyên
 hành.
 
+<!--pg-->
 ***(Tóm lược về Duyên)***
 
 -- Lành thay, này các Tỷ-kheo! Các Ông nói như vậy và Ta cũng nói như vậy: "Cái này có nên cái kia
@@ -339,6 +344,7 @@ danh sắc duyên sáu nhập, sáu nhập duyên xúc, xúc duyên thọ, thọ
 hữu duyên sanh, sanh duyên già, chết, sầu, bi, khổ, ưu, não cùng sanh khởi. Như vậy, là sự tập khởi của
 toàn bộ khổ uẩn này.
 
+<!--pg-->
 ***(Diệt theo chiều thuận)***
 
 Do vô minh đoạn diệt, xả ly một cách hoàn toàn nên các hành diệt. Do các hành diệt nên thức diệt. Do
@@ -347,6 +353,7 @@ diệt nên thọ diệt. Do thọ diệt nên ái diệt. Do ái diệt nên th
 nên sanh diệt. Do sanh diệt nên già, chết, sầu, bi, khổ, ưu, não đều diệt. Như vậy là sự đoạn diệt của toàn
 bộ khổ uẩn này.
 
+<!--pg-->
 ***(Diệt theo chiều nghịch)***
 
 Trước đã nói: Do sanh diệt nên già, chết diệt. Này các Tỷ-kheo, do sanh diệt nên già, chết diệt có phải
@@ -416,6 +423,7 @@ không? Hay ở đây (nghĩa) như thế nào?
 -- Bạch Thế Tôn, do vô minh diệt nên hành diệt. Như vậy đối với chúng con, (nghĩa) ở đây là vậy: Do
 vô minh diệt nên hành diệt.
 
+<!--pg-->
 ***(Tóm lược về Diệt)***
 
 - Lành thay, này các Tỷ-kheo! Các Ông nói như vậy và Ta cũng nói như vậy: "Cái này không có nên cái
@@ -424,6 +432,7 @@ diệt nên danh sắc diệt, danh sắc diệt nên sáu nhập diệt, sáu n
 thọ diệt nên ái diệt, ái diệt nên thủ diệt, thủ diệt nên hữu diệt, hữu diệt nên sanh diệt, sanh diệt nên già,
 chết, sầu, bi, khổ, ưu não diệt. Như vậy là sự đoạn diệt của toàn bộ khổ uẩn này.
 
+<!--pg-->
 ***(Tri kiến về ngã)***
 
 Này các Tỷ-kheo, các Ông nên biết như vậy, thấy như vậy, có còn chạy theo thời quá khứ, và suy nghĩ:
@@ -475,6 +484,7 @@ thân giác hiểu. Này các Tỷ-kheo, Pháp này thiết thực, hiện tại
 khả năng hướng thượng, được người trí tự thân giác hiểu. Tất cả những gì đã nói là do duyên này mà
 nói.
 
+<!--pg-->
 ***(Vòng luân hồi: từ sanh đến trưởng thành)***
 
 Này các Tỷ-kheo, có ba sự hòa hợp mà một bào thai thành hình: ở đây, cha mẹ có giao hợp và người mẹ
@@ -498,6 +508,7 @@ Này các Tỷ-kheo, đứa trẻ sau khi lớn lên, sau khi các căn do mắt
 lòng dục, hấp dẫn; các tiếng do tai nhận thức... Các hương do mũi nhận thức... Các vị do lưỡi nhận
 thức... Các xúc do thân cảm xúc; các xúc này khả ái, khả hỷ, khả lạc, khả ý, kích thích lòng dục.
 
+<!--pg-->
 ***(Tiếp tục luân hồi)***
 
 Khi thấy sắc bằng mắt, người đó tham ái đối với sắc đẹp, người đó ghét bỏ đối với sắc xấu, người đó
@@ -520,6 +531,7 @@ thọ ấy. Vì người đó tùy hỷ, hoan nghênh, tham trước cảm thọ
 những cảm thọ ấy, tức là chấp thủ. Do duyên thủ nên hữu sanh; do duyên hữu nên sanh sinh khởi; do
 duyên sanh nên già, chết, sầu, bi, khổ, ưu, não sanh. Như vậy là sự tập khởi của toàn bộ khổ uẩn này.
 
+<!--pg-->
 ***(Ðoạn tận luân hồi: Sự tu tập)***
 
 Ở đời, này các Tỷ-kheo, Như Lai xuất hiện ở đời là bậc A-la-hán, Chánh Biến Tri, Minh Hạnh Túc,
@@ -556,7 +568,6 @@ hệ thống, có ích lợi.
 
 Vị ấy từ bỏ làm hại đến các hột giống và các loại cây cỏ, dùng một ngày một bữa, không ăn ban đêm, từ
 bỏ ăn phi thời, từ bỏ đi xem múa, hát, nhạc, trình diễn, từ bỏ trang sức bằng vòng hoa, hương liệu, dầu
-
 thơm và các thời trang, từ bỏ dùng giường cao và giường lớn, từ bỏ nhận vàng bạc, từ bỏ nhận các hạt
 sống, từ bỏ nhận thịt sống, từ bỏ nhận đàn bà, con gái, từ bỏ nhận nô tỳ, gái và trai, từ bỏ nhận cừu và
 dê, từ bỏ nhận gia cầm và heo, từ bỏ nhận voi, bò, ngựa và ngựa cái, từ bỏ nhận ruộng nương và đất đai,
@@ -600,6 +611,7 @@ cảm giác sự lạc thọ mà các bậc Thánh gọi là "xả niệm lạc 
 các Tỷ-kheo, vị Tỷ-kheo xả lạc xả khổ, diệt hỷ ưu đã cảm thọ trước, chứng và trú Thiền thứ tư, không
 khổ không lạc, xả niệm thanh tịnh.
 
+<!--pg-->
 ***(Ðoạn tận luân hồi: Giải thoát rốt ráo)***
 
 Khi vị ấy thấy sắc bằng mắt, vị ấy không tham ái đối với sắc đẹp, không ghét bỏ đối với sắc xấu, vị ấy
@@ -608,7 +620,6 @@ nhờ chúng mà các ác bất thiện pháp của vị ấy được trừ di�
 nghịch), có cảm thọ nào khởi lên: lạc thọ, khổ thọ, hay bất khổ bất lạc thọ; vị ấy không tùy hỷ, không
 hoan nghênh, không tham trước thọ ấy. Vì vị ấy không tùy hỷ, không hoan nghênh, không tham trước
 thọ ấy, nếu có dục hỷ nào đối với các cảm thọ, dục hỷ ấy được trừ diệt. Do dục hỷ của vị ấy diệt nên thủ
-
 diệt. Do thủ diệt nên hữu diệt. Do hữu diệt nên sanh diệt. Do sanh diệt nên già, chết, sầu, bi, khổ, ưu,
 não diệt. Như vậy là sự đoạn diệt của toàn bộ khổ uẩn này.
 
@@ -622,6 +633,7 @@ nghênh, không tham trước thọ ấy, nếu có dục hỷ nào đối với
 dục hỷ của vị ấy diệt nên thủ diệt. Do thủ diệt nên hữu diệt. Do hữu diệt nên sanh diệt. Do sanh diệt nên
 già, chết, sầu, bi, khổ, ưu, não diệt. Như vậy là sự đoạn diệt của toàn bộ khổ uẩn này.
 
+<!--pg-->
 ***(Kết luận)***
 
 Này các Tỷ-kheo, các Ông hãy thọ trì ái tận giải thoát này, được Ta nói một cách tóm tắt, nhưng (phải
