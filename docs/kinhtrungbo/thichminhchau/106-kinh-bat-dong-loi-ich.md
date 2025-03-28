@@ -3,7 +3,7 @@
 **106. KINH BẤT ÐỘNG LỢI ÍCH**
 ***(Anenjasappàya Sutta)***
 
-## Như vầy tôi nghe:
+**Như vầy tôi nghe.**
 
 Một thời Thế Tôn trú giữa dân chúng Kuru (Câu-lâu). Kammassadhamma (Kiềm-ma-sắt-đàm) là thị trấn
 của dân chúng Kuru. Tại đấy Thế Tôn gọi các Tỷ-kheo: "Này các Tỷ-kheo". -- "Thưa vâng, bạch Thế

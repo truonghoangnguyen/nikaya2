@@ -1,4 +1,4 @@
-# 131 One Fortunate Attachment
+# 131. One Fortunate Attachment
 ***(Bhaddekaratta Sutta)***
 
 1\. Thus have I heard. [^1209] On one occasion the Blessed One was living at Sāvatthī in Jeta's Grove, Anāthapiṇ̣̣ika's Park. There he addressed the bhikkhus thus: "Bhikkhus." - "Venerable sir," they replied. The Blessed One said this:

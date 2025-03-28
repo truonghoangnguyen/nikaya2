@@ -3,7 +3,7 @@
 **103. KINH NGHĨ NHƯ THẾ NÀO?**
 ***(Kinti Sutta)***
 
-## Như vầy tôi nghe:
+**Như vầy tôi nghe.**
 
 Một thời Thế Tôn trú ở Kusinara, tại khu rừng Baliharana. Ở đây, Thế Tôn gọi các Tỷ-kheo: "Này các
 Tỷ-kheo", --"Thưa vâng, bạch Thế Tôn". Các Tỷ-kheo ấy vâng đáp Thế Tôn. Thế Tôn nói như sau:

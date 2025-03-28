@@ -1,4 +1,4 @@
-# 64 The Greater Discourse to Mālunkyāputta
+# 64. The Greater Discourse to Mālunkyāputta
 ***(Mahāmālunkya Sutta)***
 
 1\. Thus have I heard. On one occasion the Blessed One was living at Sāvatthī in Jeta's Grove, Anāthapiṇ̣ika's Park. There he addressed the bhikkhus thus: "Bhikkhus." - "Venerable sir," they replied. The Blessed One said this:

@@ -1,4 +1,4 @@
-# 48 The Kosambians
+# 48. The Kosambians
 ***(Kosambiya Sutta)***
 
 1\. Thus have I heard. On one occasion the Blessed One was living at Kosambī in Ghosita's Park.

@@ -1,97 +1,118 @@
-# 84 At Madhurā
-***(Madhurā Sutta)***
+# 84. Tại Madhurā
+***(Kinh Madhurā - Madhurā Sutta)***
 
-1. Thus have I heard. On one occasion the venerable Mahā Kaccāna was living at Madhurā in the Gundā Grove. ${ }^{814}$
+1\.  Như vầy tôi nghe. Một thời, Tôn giả Ma-ha Ca-chiên-diên (Mahā Kaccāna) đang trú tại Madhurā (Ma-thâu-la), trong rừng Gundā. ${814}$
 
-2. King Avantiputta of Madhurā heard: "The recluse Kaccāna is living at Madhurā in the Gundā Grove. Now a good report of Master Kaccāna has been spread to this effect: 'He is wise, discerning, sagacious, learned, articulate, and perspicacious; he is aged and he is an arahant. It is good to see such arahants."
+2\.  Vua Avantiputta (A-van-ti-put-ta) xứ Madhurā nghe tin: "Sa-môn Ca-chiên-diên đang trú tại Madhurā trong rừng Gundā. Tiếng lành đồn xa về Tôn giả Ca-chiên-diên như sau: 'Ngài là bậc trí tuệ, thông suốt, uyên bác, có tài hùng biện, và sáng suốt; Ngài đã lớn tuổi và là một vị A-la-hán (arahant - bậc đã giác ngộ hoàn toàn, giải thoát khỏi khổ đau và vòng luân hồi). Thật tốt lành thay khi được gặp những vị A-la-hán như vậy.'"
 
-3. Then King Avantiputta of Madhurā had a number of state carriages made ready, and mounting a state carriage, he drove out from Madhurā with the full pomp of royalty in order to see the venerable Mahā Kaccāna. He went thus as far as the road was passable for carriages, and then he got down from his carriage and went forward on foot to the venerable Mahā Kaccāna. [84] He exchanged greetings with him, and when this courteous and amiable talk was finished, he sat down at one side and said:
+3\.  Khi ấy, vua Avantiputta xứ Madhurā cho chuẩn bị nhiều xe hoàng gia, rồi lên một chiếc xe hoàng gia, rời Madhurā với đầy đủ nghi lễ vương giả để đến yết kiến Tôn giả Ma-ha Ca-chiên-diên. Vua đi xe đến cuối đoạn đường xe có thể đi được, rồi xuống xe và đi bộ đến chỗ Tôn giả Ma-ha Ca-chiên-diên. [84] Vua chào hỏi Tôn giả, và sau khi trao đổi những lời thăm hỏi lịch sự và thân tình, vua ngồi xuống một bên và nói:
 
-4. "Master Kaccāna, the brahmins say thus: 'Brahmins are the highest caste, those of any other caste are inferior; brahmins are the fairest caste, those of any other caste are dark; only brahmins are purified, not non-brahmins; brahmins alone are the sons of Brahmā, the offspring of Brahmā, born of his mouth, born of Brahmā, created by Brahmā, heirs of Brahmā.' What does Master Kaccāna say about that?"
+4\.  "Thưa Tôn giả Ca-chiên-diên, các vị Bà-la-môn nói rằng: 'Giai cấp Bà-la-môn là cao quý nhất, các giai cấp khác đều thấp kém; giai cấp Bà-la-môn là thanh sạch nhất (màu da sáng), các giai cấp khác là đen tối (màu da tối); chỉ có Bà-la-môn là thanh tịnh, những người không phải Bà-la-môn thì không; chỉ Bà-la-môn mới là con của Phạm Thiên, sinh ra từ Phạm Thiên, sinh từ miệng Phạm Thiên, do Phạm Thiên tạo ra, là những người thừa tự của Phạm Thiên.' Tôn giả Ca-chiên-diên nghĩ sao về điều đó?"
 
-5. "It is just a saying in the world, great king, that 'Brahmins are the highest caste ...heirs of Brahmā.' And there is a way whereby it can be understood how that statement of the brahmins is just a saying in the world.
+5\.  "Thưa đại vương, đó chỉ là lời nói suông trong thế gian rằng 'Giai cấp Bà-la-môn là cao quý nhất... là những người thừa tự của Phạm Thiên.' Và có một cách để hiểu rằng lời tuyên bố của các Bà-la-môn chỉ là lời nói suông trong thế gian.
 
-"What do you think, great king? If a noble prospers in wealth, grain, silver, or gold, will there be nobles who rise before him and retire after him, who are eager to serve him, who seek to
-please him and speak sweetly to him, and will there also be brahmins, merchants, and workers who do likewise?"
+"Đại vương nghĩ sao? Nếu một người thuộc giai cấp Sát-đế-lỵ (Khattiya - giai cấp vua chúa, chiến binh) trở nên giàu có về của cải, lúa gạo, bạc hoặc vàng, liệu có những người Sát-đế-lỵ khác thức dậy trước ông ta, đi ngủ sau ông ta, sốt sắng phục vụ, tìm cách làm hài lòng và nói lời ngọt ngào với ông ta không? Và liệu cũng có những người Bà-la-môn, Phệ-xá (Vessa - giai cấp thương gia, nông dân), và Thủ-đà-la (Sudda - giai cấp lao động, tôi tớ) làm như vậy không?"
 
-"There will be, Master Kaccāna."
+"Thưa Tôn giả Ca-chiên-diên, sẽ có."
 
-"What do you think, great king? If a brahmin prospers in wealth, grain, silver, or gold, will there be brahmins who rise before him and retire after him, who are eager to serve him, who seek to please him and speak sweetly to him, and will there also be merchants, workers, and nobles [85] who do likewise?"
+"Đại vương nghĩ sao? Nếu một người Bà-la-môn trở nên giàu có về của cải, lúa gạo, bạc hoặc vàng, liệu có những người Bà-la-môn khác thức dậy trước ông ta, đi ngủ sau ông ta, sốt sắng phục vụ, tìm cách làm hài lòng và nói lời ngọt ngào với ông ta không? Và liệu cũng có những người Phệ-xá, Thủ-đà-la, và Sát-đế-lỵ [85] làm như vậy không?"
 
-"There will be, Master Kaccāna."
+"Thưa Tôn giả Ca-chiên-diên, sẽ có."
 
-"What do you think, great king? If a merchant prospers in wealth, grain, silver, or gold, will there be merchants who rise before him and retire after him, who are eager to serve him, who seek to please him and speak sweetly to him, and will there also be workers, nobles, and brahmins who do likewise?"
+"Đại vương nghĩ sao? Nếu một người Phệ-xá trở nên giàu có về của cải, lúa gạo, bạc hoặc vàng, liệu có những người Phệ-xá khác thức dậy trước ông ta, đi ngủ sau ông ta, sốt sắng phục vụ, tìm cách làm hài lòng và nói lời ngọt ngào với ông ta không? Và liệu cũng có những người Thủ-đà-la, Sát-đế-lỵ, và Bà-la-môn làm như vậy không?"
 
-"There will be, Master Kaccāna."
+"Thưa Tôn giả Ca-chiên-diên, sẽ có."
 
-"What do you think, great king? If a worker prospers in wealth, grain, silver, or gold, will there be workers who rise before him and retire after him, who are eager to serve him, who seek to please him and speak sweetly to him, and will there also be nobles, brahmins, and merchants who do likewise?"815
+"Đại vương nghĩ sao? Nếu một người Thủ-đà-la trở nên giàu có về của cải, lúa gạo, bạc hoặc vàng, liệu có những người Thủ-đà-la khác thức dậy trước ông ta, đi ngủ sau ông ta, sốt sắng phục vụ, tìm cách làm hài lòng và nói lời ngọt ngào với ông ta không? Và liệu cũng có những người Sát-đế-lỵ, Bà-la-môn, và Phệ-xá làm như vậy không?"815
 
-"There will be, Master Kaccāna."
+"Thưa Tôn giả Ca-chiên-diên, sẽ có."
 
-"What do you think, great king? If that is so, then are these four castes all the same, or are they not, or how does it appear to you in this case?" [86]
+"Đại vương nghĩ sao? Nếu vậy, thì bốn giai cấp này có giống nhau không, hay là không, ngài thấy thế nào trong trường hợp này?" [86]
 
-"Surely if that is so, Master Kaccāna, then these four castes are all the same: there is no difference between them at all that I see."
+"Chắc chắn nếu vậy, thưa Tôn giả Ca-chiên-diên, thì bốn giai cấp này đều giống nhau cả: tôi không thấy có sự khác biệt nào giữa họ."
 
-"That is a way, great king, whereby it can be understood how that statement of the brahmins is just a saying in the world.
+"Đó là một cách, thưa đại vương, để hiểu rằng lời tuyên bố của các Bà-la-môn chỉ là lời nói suông trong thế gian.
 
-6. "What do you think, great king? Suppose a noble were to kill living beings, take what is not given, misconduct himself in sensual pleasures, speak falsely, speak maliciously, speak harshly, gossip, be covetous, have a mind of ill will, and hold wrong view. On the dissolution of the body, after death, would he [be likely to] reappear in a state of deprivation, in an unhappy destination, in perdition, even in hell, or not, or how does it appear to you in this case?"
+6\.  "Đại vương nghĩ sao? Giả sử một người Sát-đế-lỵ sát sinh, lấy của không cho, tà dâm (hành vi sai trái trong các thú vui nhục dục), nói dối, nói lời đâm thọc, nói lời thô ác, nói lời phù phiếm, tham lam, có tâm sân hận, và giữ tà kiến (wrong view - quan điểm sai lầm về thực tại, về nghiệp báo...). Sau khi thân hoại mạng chung, người đó [có khả năng] tái sinh vào cõi khổ, cảnh giới xấu, đọa xứ, thậm chí là địa ngục (apāya - cõi dữ, nơi đau khổ do ác nghiệp tạo ra) hay không, ngài thấy thế nào trong trường hợp này?"
 
-"If a noble were such, Master Kaccāna, he would [be likely to] reappear in a state of deprivation, in an unhappy destination, in perdition, even in hell. That is how it appears to me in this case, and thus I have heard from the arahants."
-"What do you think, great king? Suppose a brahmin...a merchant...a worker were to kill living beings...and hold wrong view. On the dissolution of the body, after death, would he [be likely to] reappear in a state of deprivation, in an unhappy destination, in perdition, even in hell, or not, or how does it appear to you in this case?"
+"Thưa Tôn giả Ca-chiên-diên, nếu một người Sát-đế-lỵ như vậy, người đó [có khả năng] tái sinh vào cõi khổ, cảnh giới xấu, đọa xứ, thậm chí là địa ngục. Tôi thấy như vậy trong trường hợp này, và tôi cũng đã nghe các vị A-la-hán nói như vậy."
 
-"If a brahmin...a merchant...a worker were such, Master Kaccāna, he would [be likely to] reappear in a state of deprivation, in an unhappy destination, in perdition, even in hell. That is how it appears to me in this case, and thus I have heard from the arahants."
+"Đại vương nghĩ sao? Giả sử một người Bà-la-môn... một người Phệ-xá... một người Thủ-đà-la sát sinh... và giữ tà kiến. Sau khi thân hoại mạng chung, người đó [có khả năng] tái sinh vào cõi khổ, cảnh giới xấu, đọa xứ, thậm chí là địa ngục hay không, ngài thấy thế nào trong trường hợp này?"
 
-"What do you think, great king? If that is so, then are these four castes all the same, or are they not, or how does it appear to you in this case?" [87]
+"Thưa Tôn giả Ca-chiên-diên, nếu một người Bà-la-môn... một người Phệ-xá... một người Thủ-đà-la như vậy, người đó [có khả năng] tái sinh vào cõi khổ, cảnh giới xấu, đọa xứ, thậm chí là địa ngục. Tôi thấy như vậy trong trường hợp này, và tôi cũng đã nghe các vị A-la-hán nói như vậy."
 
-"Surely if that is so, Master Kaccāna, then these four castes are all the same: there is no difference between them at all that I see."
+"Đại vương nghĩ sao? Nếu vậy, thì bốn giai cấp này có giống nhau không, hay là không, ngài thấy thế nào trong trường hợp này?" [87]
 
-"That is also a way, great king, whereby it can be understood how that statement of the brahmins is just a saying in the world.
+"Chắc chắn nếu vậy, thưa Tôn giả Ca-chiên-diên, thì bốn giai cấp này đều giống nhau cả: tôi không thấy có sự khác biệt nào giữa họ."
 
-7. "What do you think, great king? Suppose a noble were to abstain from killing living beings, from taking what is not given, from misconduct in sensual pleasures, from false speech, from malicious speech, from harsh speech, and from gossip, and were to be uncovetous, to have a mind without ill will, and to hold right view. On the dissolution of the body, after death, would he [be likely to] reappear in a happy destination, even in the heavenly world, or not, or how does it appear to you in this case?"
+"Đó cũng là một cách, thưa đại vương, để hiểu rằng lời tuyên bố của các Bà-la-môn chỉ là lời nói suông trong thế gian.
 
-"If a noble were such, Master Kaccāna, he would [be likely to] reappear in a happy destination, even in the heavenly world. That is how it appears to me in this case, and thus I have heard from the arahants."
+7\.  "Đại vương nghĩ sao? Giả sử một người Sát-đế-lỵ từ bỏ sát sinh, từ bỏ lấy của không cho, từ bỏ tà dâm, từ bỏ nói dối, từ bỏ nói lời đâm thọc, từ bỏ nói lời thô ác, từ bỏ nói lời phù phiếm, không tham lam, có tâm không sân hận, và giữ chánh kiến (right view - quan điểm đúng đắn về thực tại, về nghiệp báo...). Sau khi thân hoại mạng chung, người đó [có khả năng] tái sinh vào cõi lành, cảnh giới tốt đẹp, thậm chí là cõi trời (sugati - cõi vui, nơi hưởng phước báu do thiện nghiệp tạo ra) hay không, ngài thấy thế nào trong trường hợp này?"
 
-"What do you think, great king? Suppose a brahmin...a merchant...a worker were to abstain from killing living beings... and to hold right view. On the dissolution of the body, after death, would he [be likely to] reappear in a happy destination, even in the heavenly world, or not, or how does it appear to you in this case?"
+"Thưa Tôn giả Ca-chiên-diên, nếu một người Sát-đế-lỵ như vậy, người đó [có khả năng] tái sinh vào cõi lành, cảnh giới tốt đẹp, thậm chí là cõi trời. Tôi thấy như vậy trong trường hợp này, và tôi cũng đã nghe các vị A-la-hán nói như vậy."
 
-"If a brahmin...a merchant...a worker were such, Master Kaccāna, he would [be likely to] reappear in a happy destination, even in the heavenly world. That is how it appears to me in this case, and thus I have heard from the arahants."
-"What do you think, great king? If that is so, then are these four castes all the same, or are they not, or how does it appear to you in this case?" [88]
+"Đại vương nghĩ sao? Giả sử một người Bà-la-môn... một người Phệ-xá... một người Thủ-đà-la từ bỏ sát sinh... và giữ chánh kiến. Sau khi thân hoại mạng chung, người đó [có khả năng] tái sinh vào cõi lành, cảnh giới tốt đẹp, thậm chí là cõi trời hay không, ngài thấy thế nào trong trường hợp này?"
 
-"Surely if that is so, Master Kaccāna, then these four castes are all the same: there is no difference between them at all that I see."
+"Thưa Tôn giả Ca-chiên-diên, nếu một người Bà-la-môn... một người Phệ-xá... một người Thủ-đà-la như vậy, người đó [có khả năng] tái sinh vào cõi lành, cảnh giới tốt đẹp, thậm chí là cõi trời. Tôi thấy như vậy trong trường hợp này, và tôi cũng đã nghe các vị A-la-hán nói như vậy."
 
-"That is also a way, great king, whereby it can be understood how that statement of the brahmins is just a saying in the world.
+"Đại vương nghĩ sao? Nếu vậy, thì bốn giai cấp này có giống nhau không, hay là không, ngài thấy thế nào trong trường hợp này?" [88]
 
-8. "What do you think, great king? Suppose a noble were to break into houses, plunder wealth, commit burglary, ambush highways, or seduce another's wife, and if your men arrested him and produced him, saying: 'Sire, this is the culprit; command what punishment for him you wish,' how would you treat him?"
+"Chắc chắn nếu vậy, thưa Tôn giả Ca-chiên-diên, thì bốn giai cấp này đều giống nhau cả: tôi không thấy có sự khác biệt nào giữa họ."
 
-"We would have him executed, Master Kaccāna, or we would have him fined, or we would have him exiled, or we would do with him as he deserved. Why is that? Because he has lost his former status of a noble, and is simply reckoned as a robber."
+"Đó cũng là một cách, thưa đại vương, để hiểu rằng lời tuyên bố của các Bà-la-môn chỉ là lời nói suông trong thế gian.
 
-"What do you think, great king? Suppose a brahmin...a merchant...a worker were to break into houses...or seduce another's wife, and if your men arrested him and produced him, saying: 'Sire, this is the culprit; command what punishment for him you wish,' how would you treat him?"
+8\.  "Đại vương nghĩ sao? Giả sử một người Sát-đế-lỵ đột nhập nhà cửa, cướp của, trộm cắp, chặn đường cướp bóc, hoặc dụ dỗ vợ người khác, và nếu thuộc hạ của ngài bắt được người đó và trình lên rằng: 'Tâu bệ hạ, đây là thủ phạm; xin ngài ra lệnh trừng phạt theo ý muốn,' ngài sẽ xử lý người đó như thế nào?"
 
-"We would have him executed, Master Kaccāna, or we would have him fined, or we would have him exiled, or we would do with him as he deserved. Why is that? Because he has lost his former status of a brahmin...a merchant...a worker, and is simply reckoned as a robber."
+"Chúng tôi sẽ cho xử tử, thưa Tôn giả Ca-chiên-diên, hoặc phạt tiền, hoặc đày ải, hoặc xử lý tùy theo tội trạng của y. Tại sao vậy? Bởi vì y đã mất đi địa vị Sát-đế-lỵ trước đây, và chỉ đơn thuần bị coi là một tên cướp."
 
-"What do you think, great king? If that is so, then are these four castes all the same, or are they not, or how does it appear to you in this case?"
+"Đại vương nghĩ sao? Giả sử một người Bà-la-môn... một người Phệ-xá... một người Thủ-đà-la đột nhập nhà cửa... hoặc dụ dỗ vợ người khác, và nếu thuộc hạ của ngài bắt được người đó và trình lên rằng: 'Tâu bệ hạ, đây là thủ phạm; xin ngài ra lệnh trừng phạt theo ý muốn,' ngài sẽ xử lý người đó như thế nào?"
 
-"Surely if that is so, Master Kaccāna, then these four castes are all the same; there is no difference between them at all that I see."
+"Chúng tôi sẽ cho xử tử, thưa Tôn giả Ca-chiên-diên, hoặc phạt tiền, hoặc đày ải, hoặc xử lý tùy theo tội trạng của y. Tại sao vậy? Bởi vì y đã mất đi địa vị Bà-la-môn... Phệ-xá... Thủ-đà-la trước đây, và chỉ đơn thuần bị coi là một tên cướp."
 
-"That is also a way, great king, whereby it can be understood how that statement of the brahmins is just a saying in the world. [89]
+"Đại vương nghĩ sao? Nếu vậy, thì bốn giai cấp này có giống nhau không, hay là không, ngài thấy thế nào trong trường hợp này?"
 
-9. "What do you think, great king? Suppose a noble, having shaved off his hair and beard, put on the yellow robe, and gone forth from the home life into homelessness, were to abstain from killing living beings, from taking what is not given, and from false speech. Refraining from eating at night, he would eat only in one part of the day, and would be celibate, virtuous, of good character. How would you treat him?"
-"We would pay homage to him, Master Kaccāna, or we would rise up for him, or invite him to be seated; or we would invite him to accept robes, almsfood, resting place, and medicinal requisites; or we would arrange for him lawful guarding, defence, and protection. Why is that? Because he has lost his former status of a noble, and is simply reckoned as a recluse."
+"Chắc chắn nếu vậy, thưa Tôn giả Ca-chiên-diên, thì bốn giai cấp này đều giống nhau cả; tôi không thấy có sự khác biệt nào giữa họ."
 
-"What do you think, great king? Suppose a brahmin...a merchant...a worker, having shaved off his hair and beard...and would be celibate, virtuous, of good character. How would you treat him?"
+"Đó cũng là một cách, thưa đại vương, để hiểu rằng lời tuyên bố của các Bà-la-môn chỉ là lời nói suông trong thế gian. [89]
 
-"We would pay homage to him, Master Kaccāna, or rise up for him, or invite him to be seated; or we would invite him to accept robes, almsfood, resting place, and medicinal requisites; or we would arrange for him lawful guarding, defence, and protection. Why is that? Because he has lost his former status of a brahmin...a merchant...a worker, and is simply reckoned as a recluse."
+9\.  "Đại vương nghĩ sao? Giả sử một người Sát-đế-lỵ, cạo bỏ râu tóc, đắp y vàng, xuất gia từ bỏ đời sống gia đình, sống đời không nhà (pabbajjā - sự từ bỏ thế tục để tu hành), từ bỏ sát sinh, từ bỏ lấy của không cho, và từ bỏ nói dối. Không ăn vào ban đêm, chỉ ăn một bữa trong ngày, sống đời phạm hạnh (brahmacariya - đời sống trong sạch, không dâm dục), giữ giới, có phẩm hạnh tốt đẹp. Ngài sẽ đối xử với vị ấy như thế nào?"
 
-"What do you think, great king? If that is so, then are these four castes all the same, or are they not, or how does it appear to you in this case?"
+"Chúng tôi sẽ đảnh lễ vị ấy, thưa Tôn giả Ca-chiên-diên, hoặc đứng dậy chào đón, hoặc mời ngồi; hoặc mời nhận y phục, vật thực, chỗ ở, và thuốc men; hoặc chúng tôi sẽ sắp xếp việc bảo vệ, hộ trì hợp pháp cho vị ấy. Tại sao vậy? Bởi vì vị ấy đã mất đi địa vị Sát-đế-lỵ trước đây, và chỉ đơn thuần được coi là một vị sa-môn."
 
-"Surely if that is so, Master Kaccāna, then these four castes are all the same; there is no difference between them at all that I see."
+"Đại vương nghĩ sao? Giả sử một người Bà-la-môn... một người Phệ-xá... một người Thủ-đà-la, cạo bỏ râu tóc... và sống đời phạm hạnh, giữ giới, có phẩm hạnh tốt đẹp. Ngài sẽ đối xử với vị ấy như thế nào?"
 
-"That is also a way, great king, whereby it can be understood how that statement of the brahmins is just a saying in the world." [90]
+"Chúng tôi sẽ đảnh lễ vị ấy, thưa Tôn giả Ca-chiên-diên, hoặc đứng dậy chào đón, hoặc mời ngồi; hoặc mời nhận y phục, vật thực, chỗ ở, và thuốc men; hoặc chúng tôi sẽ sắp xếp việc bảo vệ, hộ trì hợp pháp cho vị ấy. Tại sao vậy? Bởi vì vị ấy đã mất đi địa vị Bà-la-môn... Phệ-xá... Thủ-đà-la trước đây, và chỉ đơn thuần được coi là một vị sa-môn."
 
-10. When this was said, King Avantiputta of Madhurā said to the venerable Mahā Kaccāna: "Magnificent, Master Kaccāna! Magnificent, Master Kaccāna! Master Kaccāna has made the Dhamma clear in many ways, as though he were turning upright what had been overthrown, revealing what was hidden, showing the way to one who is lost, or holding up a lamp in the dark for those with eyesight to see forms. I go to Master Kaccāna for refuge and to the Dhamma and to the Sangha of bhikkhus. From today let Master Kaccāna remember me as a lay follower who has gone to him for refuge for life."
+"Đại vương nghĩ sao? Nếu vậy, thì bốn giai cấp này có giống nhau không, hay là không, ngài thấy thế nào trong trường hợp này?"
 
-"Do not go to me for refuge, great king. Go for refuge to that same Blessed One to whom I have gone for refuge."
+"Chắc chắn nếu vậy, thưa Tôn giả Ca-chiên-diên, thì bốn giai cấp này đều giống nhau cả; tôi không thấy có sự khác biệt nào giữa họ."
 
-"Where is he living now, that Blessed One, accomplished and fully enlightened, Master Kaccāna?"
-"That Blessed One, accomplished and fully enlightened, has attained to final Nibbāna, great king."
+"Đó cũng là một cách, thưa đại vương, để hiểu rằng lời tuyên bố của các Bà-la-môn chỉ là lời nói suông trong thế gian." [90]
 
-11. "If we heard that that Blessed One was within ten leagues, we would go ten leagues in order to see that Blessed One, accomplished and fully enlightened. If we heard that that Blessed One was within twenty leagues...thirty leagues...forty leagues...fifty leagues...a hundred leagues, we would go a hundred leagues in order to see that Blessed One, accomplished and fully enlightened. But since that Blessed One has attained to final Nibbāna, we go to that Blessed One for refuge and to the Dhamma and to the Sangha of bhikkhus. From today let Master Kaccāna remember me as a lay follower who has gone for refuge for life."
+10\. Khi nghe vậy, vua Avantiputta xứ Madhurā bạch Tôn giả Ma-ha Ca-chiên-diên: "Thật vi diệu thay, thưa Tôn giả Ca-chiên-diên! Thật vi diệu thay! Tôn giả Ca-chiên-diên đã làm sáng tỏ Giáo Pháp (Dhamma - lời dạy của Đức Phật) bằng nhiều cách, như thể lật ngửa vật bị úp, phơi bày vật bị che kín, chỉ đường cho người lạc lối, hay giơ cao ngọn đèn trong bóng tối cho người có mắt thấy được các hình sắc. Con xin quy y (saraṇa gamana - tìm nơi nương tựa) Tôn giả Ca-chiên-diên, quy y Pháp và quy y Tăng đoàn các vị tỳ kheo (Sangha of bhikkhus - cộng đồng các nhà sư đệ tử Phật). Kể từ hôm nay, xin Tôn giả Ca-chiên-diên ghi nhận con là một người cận sự nam (lay follower - người tại gia theo đạo Phật) đã quy y trọn đời."
+
+"Đại vương, đừng quy y tôi. Hãy quy y chính Đức Thế Tôn (Blessed One - bậc đáng kính, một danh hiệu của Đức Phật) mà tôi đã quy y."
+
+"Thưa Tôn giả Ca-chiên-diên, hiện nay Đức Thế Tôn, bậc A-la-hán, Chánh Đẳng Chánh Giác (accomplished and fully enlightened - bậc đã hoàn thiện và giác ngộ hoàn toàn) ấy đang ở đâu?"
+
+"Thưa đại vương, Đức Thế Tôn, bậc A-la-hán, Chánh Đẳng Chánh Giác ấy đã nhập Niết-bàn cuối cùng (final Nibbāna / parinibbāna - sự tịch diệt hoàn toàn, không còn tái sinh sau khi chết)."
+
+11\. "Nếu chúng con nghe rằng Đức Thế Tôn đang ở trong phạm vi mười do tuần (league - đơn vị đo khoảng cách cổ), chúng con sẽ đi mười do tuần để được gặp Đức Thế Tôn, bậc A-la-hán, Chánh Đẳng Chánh Giác. Nếu chúng con nghe rằng Đức Thế Tôn đang ở trong phạm vi hai mươi do tuần... ba mươi do tuần... bốn mươi do tuần... năm mươi do tuần... một trăm do tuần, chúng con sẽ đi một trăm do tuần để được gặp Đức Thế Tôn, bậc A-la-hán, Chánh Đẳng Chánh Giác. Nhưng vì Đức Thế Tôn đã nhập Niết-bàn cuối cùng, chúng con xin quy y Đức Thế Tôn ấy, quy y Pháp và quy y Tăng đoàn các vị tỳ kheo. Kể từ hôm nay, xin Tôn giả Ca-chiên-diên ghi nhận con là một người cận sự nam đã quy y trọn đời."
+
+<!--pg-->
+Từ ngữ:
+- A-la-hán / arahant / arahant: Bậc giác ngộ đã đoạn trừ mọi phiền não, thoát khỏi vòng luân hồi sinh tử, đạt đến Niết-bàn.
+- Tà kiến / micchā diṭṭhi / wrong view: Quan điểm, nhận thức sai lầm về bản chất của thực tại, đặc biệt là về luật nhân quả (nghiệp), sự tái sinh, và con đường giải thoát.
+- Cõi khổ, địa ngục / apāya / state of deprivation, hell: Các cảnh giới tái sinh đau khổ do ác nghiệp tạo ra, bao gồm địa ngục, ngạ quỷ, súc sinh, và a-tu-la.
+- Chánh kiến / sammā diṭṭhi / right view: Quan điểm, nhận thức đúng đắn về bản chất của thực tại, là yếu tố đầu tiên trong Bát Chánh Đạo, bao gồm hiểu biết về Tứ Diệu Đế, nghiệp và tái sinh.
+- Cõi lành, cõi trời / sugati / happy destination, heavenly world: Các cảnh giới tái sinh an vui, hạnh phúc do thiện nghiệp tạo ra, bao gồm cõi người và các cõi trời.
+- Xuất gia / pabbajjā / going forth from home life into homelessness: Từ bỏ đời sống gia đình, thế tục để sống đời sống không nhà của một vị tu sĩ Phật giáo, nhằm mục đích tu tập và giải thoát.
+- Phạm hạnh / brahmacariya / celibacy, holy life: Đời sống trong sạch, thanh cao, đặc biệt là việc từ bỏ các hành vi tình dục, một phần quan trọng của đời sống tu sĩ và cả người tại gia giữ giới.
+- Giáo Pháp / Dhamma / The Buddha's teachings: Toàn bộ lời dạy của Đức Phật về con đường dẫn đến giác ngộ và giải thoát khổ đau.
+- Quy y / saraṇa gamana / going for refuge: Hành động tìm kiếm nơi nương tựa tinh thần nơi Tam Bảo: Phật (Buddha), Pháp (Dhamma), và Tăng (Sangha).
+- Tăng đoàn / Sangha / community of monks (or ordained disciples): Cộng đồng các vị đệ tử xuất gia của Đức Phật (Tỳ kheo và Tỳ kheo ni), những người thực hành và gìn giữ Giáo Pháp.
+- Tỳ kheo / bhikkhu / Buddhist monk: Vị sư nam đã thọ giới cụ túc trong Phật giáo.
+- Cận sự nam / upāsaka / male lay follower: Người nam tại gia đã quy y Tam Bảo và thực hành theo lời dạy của Đức Phật. (Nữ là Upāsikā - Cận sự nữ).
+- Đức Thế Tôn / Bhagavā / Blessed One, Exalted One: Một trong những danh hiệu tôn kính nhất của Đức Phật, có nghĩa là Bậc Đáng Kính, Bậc có đầy đủ phước đức và trí tuệ.
+- Chánh Đẳng Chánh Giác / sammāsambuddha / Fully Enlightened One: Bậc đã tự mình giác ngộ hoàn toàn chân lý một cách viên mãn, không thầy chỉ dạy (ám chỉ Đức Phật).
+- Niết-bàn cuối cùng / parinibbāna / final Nibbāna, complete extinction: Sự tịch diệt hoàn toàn của các uẩn (thân và tâm), chấm dứt hoàn toàn khổ đau và vòng luân hồi, xảy ra khi một vị Phật hoặc A-la-hán qua đời.

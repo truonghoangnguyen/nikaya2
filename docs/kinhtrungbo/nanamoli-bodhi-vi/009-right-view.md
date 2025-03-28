@@ -1,4 +1,4 @@
-# 9 Chánh Kiến
+# 9. Chánh Kiến
 ***(Sammāditthi Sutta)***
 
 1\. Tôi nghe như vầy. Một thời Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong vườn Jeta (Kỳ-đà lâm), tại tu viện của ông Anāthapiṇ̣̂ika (Cấp Cô Độc). Tại đấy, trưởng lão Sāriputta (Xá-lợi-phất) gọi các Tỳ-khưu: "Này chư vị Tỳ-khưu." - "Thưa vâng," các vị ấy đáp. Trưởng lão Sāriputta nói như sau:

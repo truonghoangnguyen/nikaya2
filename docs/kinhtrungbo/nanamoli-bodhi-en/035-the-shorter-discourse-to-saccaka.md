@@ -1,4 +1,4 @@
-# 35 The Shorter Discourse to Saccaka
+# 35. The Shorter Discourse to Saccaka
 ***(Cūḷasaccaka Sutta)***
 
 1\. Thus have I heard. On one occasion the Blessed One was living at Vesālī in the Great Wood in the Hall with the Peaked Roof.

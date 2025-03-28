@@ -1,4 +1,4 @@
-# 27 The Shorter Discourse on the Simile of the Elephant's Footprint
+# 27. The Shorter Discourse on the Simile of the Elephant's Footprint
 ***(Cülahatthipadopama Sutta)***
 
 1\. Thus have I heard. [^319] On one occasion the Blessed One was living at Sāvatthī in Jeta's Grove, Anāthapiṇ̣ika's Park.

@@ -1,43 +1,62 @@
-# 144 Advice to Channa
-***(Channovāda Sutta)***
+# 144. Lời Khuyên Dạy Chan Na
+***(Kinh Channovāda - Channovāda Sutta)***
 
-1. Thus have I heard. On one occasion the Blessed One was living at Rājagaha in the Bamboo Grove, the Squirrels' Sanctuary.
+1\.  Tôi nghe như vầy. Một thời Đức Thế Tôn trú tại Vương Xá (Rājagaha), trong Rừng Trúc (Veluvana), nơi nuôi dưỡng các con sóc (Kalandakanivāpa).
 
-2. Now on that occasion the venerable Sāriputta, the venerable Mahā Cunda, and the venerable Channa were living on the mountain Vulture Peak.
+2\.  Vào lúc bấy giờ, Đại đức Xá Lợi Phất (Sāriputta), Đại đức Đại Ca Chiên Diên (Mahā Cunda), và Đại đức Chan Na (Channa) đang sống trên núi Linh Thứu (Gijjhakūta).
 
-3. On that occasion the venerable Channa was afflicted, suffering, and gravely ill. Then, when it was evening, the venerable Sāriputta rose from meditation, went to the venerable Mahā Cunda, and said to him: "Friend Cunda, let us go to the venerable Channa and ask about his illness." - "Yes, friend," the venerable Mahā Cunda replied.
+3\.  Khi ấy, Đại đức Chan Na bị bệnh, đau đớn và lâm trọng bệnh. Rồi vào buổi chiều, Đại đức Xá Lợi Phất xả thiền, đi đến chỗ Đại đức Đại Ca Chiên Diên và nói: "Này Hiền giả Cunda, chúng ta hãy đến thăm Đại đức Chan Na và hỏi thăm về bệnh tình của ngài." - "Vâng, thưa Hiền giả," Đại đức Đại Ca Chiên Diên đáp lời.
 
-4. Then the venerable Sāriputta and the venerable Mahā Cunda went to the venerable Channa and exchanged greetings with him. When [264] this courteous and amiable talk was finished, they sat down at one side and the venerable Sāriputta said to the venerable Channa: "I hope you are getting well, friend Channa, I hope you are comfortable. I hope your painful feelings are subsiding and not increasing, and that their subsiding, not their increase, is apparent."
+4\.  Sau đó, Đại đức Xá Lợi Phất và Đại đức Đại Ca Chiên Diên đi đến chỗ Đại đức Chan Na và chào hỏi lẫn nhau. Khi [264] cuộc thăm hỏi xã giao này kết thúc, họ ngồi xuống một bên và Đại đức Xá Lợi Phất nói với Đại đức Chan Na: "Mong rằng Hiền giả Chan Na khỏe hơn, mong rằng Hiền giả cảm thấy dễ chịu. Mong rằng các cảm thọ đau đớn của Hiền giả đang thuyên giảm chứ không tăng thêm, và sự thuyên giảm của chúng, chứ không phải sự tăng thêm, đang thể hiện rõ."
 
-5. "Friend Sāriputta, I am not getting well, I am not comfortable. My painful feelings are increasing, not subsiding;...(as Sutta 143, §4)...their increase and not their subsiding is apparent. I shall use the knife, [^1307] friend Sāriputta; I have no desire to live."
+5\.  "Thưa Hiền giả Xá Lợi Phất, tôi không khỏe hơn, tôi không cảm thấy dễ chịu. Các cảm thọ đau đớn của tôi đang tăng thêm chứ không thuyên giảm;...(như Kinh 143, §4)...sự tăng thêm của chúng, chứ không phải sự thuyên giảm, đang thể hiện rõ. Tôi sẽ dùng dao,[^1307] thưa Hiền giả Xá Lợi Phất; tôi không muốn sống nữa."
 
-6. "Let the venerable Channa not use the knife. Let the venerable Channa live. We want the venerable Channa to live. If he lacks suitable food, I will go in search of suitable food for him. If he lacks suitable medicine, I will go in search of suitable medicine for him. If he lacks a proper attendant, I will attend on him. Let the venerable Channa not use the knife. Let the venerable Channa live. We want the venerable Channa to live."
+6\.  "Xin Đại đức Chan Na đừng dùng dao. Xin Đại đức Chan Na hãy sống. Chúng tôi muốn Đại đức Chan Na sống. Nếu ngài thiếu thực phẩm thích hợp, tôi sẽ đi tìm thực phẩm thích hợp cho ngài. Nếu ngài thiếu thuốc men thích hợp, tôi sẽ đi tìm thuốc men thích hợp cho ngài. Nếu ngài thiếu người chăm sóc phù hợp, tôi sẽ chăm sóc ngài. Xin Đại đức Chan Na đừng dùng dao. Xin Đại đức Chan Na hãy sống. Chúng tôi muốn Đại đức Chan Na sống."
 
-7. "Friend Sāriputta, it is not that I have no suitable food and medicine or no proper attendant. But rather, friend Sāriputta, the Teacher has long been worshipped by me with love, not without love; for it is proper for the disciple to worship the Teacher with love, not without love. Friend Sāriputta, remember this: the bhikkhu Channa will use the knife blamelessly."1308
+7\.  "Thưa Hiền giả Xá Lợi Phất, không phải là tôi không có thực phẩm và thuốc men thích hợp hay không có người chăm sóc phù hợp. Mà đúng hơn, thưa Hiền giả Xá Lợi Phất, Bậc Đạo Sư (Teacher - Đức Phật) từ lâu đã được tôi tôn kính với lòng thương mến, không phải không thương mến; vì đó là điều thích hợp cho người đệ tử (disciple - người học trò theo Phật) tôn kính Bậc Đạo Sư với lòng thương mến, không phải không thương mến. Thưa Hiền giả Xá Lợi Phất, hãy ghi nhớ điều này: tỳ kheo (bhikkhus - nhà sư Phật giáo đã thọ giới cụ túc) Channa sẽ dùng dao một cách không đáng chê trách."[^1308]
 
-8. "We would ask the venerable Channa certain questions, if the venerable Channa finds it opportune to reply."
+8\.  "Chúng tôi muốn hỏi Đại đức Chan Na một vài câu hỏi, nếu Đại đức Chan Na thấy thuận tiện để trả lời."
 
-"Ask, friend Sāriputta. When I have heard, I shall know."
+"Xin cứ hỏi, thưa Hiền giả Xá Lợi Phất. Sau khi nghe, tôi sẽ biết."
 
-9. "Friend Channa, do you regard the eye, eye-consciousness, and things cognizable [by the mind] through eye-consciousness thus: 'This is mine, this I am, [265] this is my self'? Do you regard the ear...the nose...the tongue...the body...the mind, mind-consciousness, and things cognizable [by the mind] through mind-consciousness thus: 'This is mine, this I am, this is my self'?"
+9\.  "Hiền giả Chan Na, ngài có xem xét mắt, nhãn thức, và các pháp được nhận biết [bởi tâm] qua nhãn thức như thế này: 'Cái này là của tôi, cái này là tôi, [265] cái này là tự ngã (self - cái ta, bản ngã thường hằng mà đạo Phật phủ nhận) của tôi' không? Ngài có xem xét tai... mũi... lưỡi... thân... ý, ý thức, và các pháp được nhận biết [bởi tâm] qua ý thức như thế này: 'Cái này là của tôi, cái này là tôi, cái này là tự ngã của tôi' không?"
 
-"Friend Sāriputta, I regard the eye, eye-consciousness, and things cognizable [by the mind] through eye-consciousness thus: 'This is not mine, this I am not, this is not my self.' I regard the ear...the nose...the tongue...the body...the mind, mind-consciousness, and things cognizable [by the mind] through mind-consciousness thus: 'This is not mine, this I am not, this is not my self.'"
+"Thưa Hiền giả Xá Lợi Phất, tôi xem xét mắt, nhãn thức, và các pháp được nhận biết [bởi tâm] qua nhãn thức như thế này: 'Cái này không phải của tôi, cái này không phải là tôi, cái này không phải là tự ngã của tôi.' Tôi xem xét tai... mũi... lưỡi... thân... ý, ý thức, và các pháp được nhận biết [bởi tâm] qua ý thức như thế này: 'Cái này không phải của tôi, cái này không phải là tôi, cái này không phải là tự ngã của tôi.'"
 
-10. "Friend Channa, what have you seen, what have you directly known in the eye, in eye-consciousness, and in things cognizable [by the mind] through eye-consciousness, that you regard them thus: 'This is not mine, this I am not, this is not my self'? What have you seen, what have you directly known in the ear...in the nose...in the tongue...in the body...in the mind, in mind-consciousness, and in things cognizable [by the mind] through mind-consciousness, that you regard them thus: 'This is not mine, this I am not, this is not my self?'"
+10\. "Hiền giả Chan Na, ngài đã thấy gì, đã trực nhận (directly known - biết rõ, thắng tri) điều gì nơi mắt, nơi nhãn thức, và nơi các pháp được nhận biết [bởi tâm] qua nhãn thức, mà ngài xem xét chúng như thế này: 'Cái này không phải của tôi, cái này không phải là tôi, cái này không phải là tự ngã của tôi'? Ngài đã thấy gì, đã trực nhận điều gì nơi tai... nơi mũi... nơi lưỡi... nơi thân... nơi ý, nơi ý thức, và nơi các pháp được nhận biết [bởi tâm] qua ý thức, mà ngài xem xét chúng như thế này: 'Cái này không phải của tôi, cái này không phải là tôi, cái này không phải là tự ngã của tôi?'"
 
-"Friend Sāriputta, it is through seeing cessation, through directly knowing cessation in the eye, in eye-consciousness, and in things cognizable [by the mind] through eye-consciousness, that I regard them thus: 'This is not mine, this I am not, this is not my self.' It is through seeing cessation, through directly knowing cessation in the ear...in the nose...in the tongue...in the body...in the mind, in mind-consciousness, and in things cognizable [by the mind] through mind-consciousness, [266]
-that I regard them thus: 'This is not mine, this I am not, this is not my self.'"
+"Thưa Hiền giả Xá Lợi Phất, chính nhờ thấy được sự đoạn diệt (cessation - nirodha - sự chấm dứt hoàn toàn khổ đau), nhờ trực nhận sự đoạn diệt nơi mắt, nơi nhãn thức, và nơi các pháp được nhận biết [bởi tâm] qua nhãn thức, mà tôi xem xét chúng như thế này: 'Cái này không phải của tôi, cái này không phải là tôi, cái này không phải là tự ngã của tôi.' Chính nhờ thấy được sự đoạn diệt, nhờ trực nhận sự đoạn diệt nơi tai... nơi mũi... nơi lưỡi... nơi thân... nơi ý, nơi ý thức, và nơi các pháp được nhận biết [bởi tâm] qua ý thức, [266] mà tôi xem xét chúng như thế này: 'Cái này không phải của tôi, cái này không phải là tôi, cái này không phải là tự ngã của tôi.'"
 
-11. When this was said, the venerable Mahā Cunda said to the venerable Channa: [^1309] "Therefore, friend Channa, this instruction of the Blessed One's is to be constantly given attention: 'There is wavering in one who is dependent, there is no wavering in one who is independent; when there is no wavering, there is tranquillity; when there is tranquillity, there is no bias; when there is no bias, there is no coming and going; when there is no coming and going, there is no passing away and reappearing; when there is no passing away and reappearing, there is no here nor beyond nor in between. This is the end of suffering.'"1310
+11\. Khi nghe vậy, Đại đức Đại Ca Chiên Diên nói với Đại đức Chan Na:[^1309] "Vậy thì, Hiền giả Chan Na, lời dạy này của Đức Thế Tôn cần phải được thường xuyên chú tâm đến: 'Có sự dao động ở người còn nương tựa (dependent - phụ thuộc, dựa dẫm vào các yếu tố khác như ngũ uẩn, ái, thủ), không có sự dao động ở người không còn nương tựa (independent - không phụ thuộc, không dựa dẫm, trạng thái giải thoát); khi không có sự dao động, có sự tĩnh lặng (tranquillity - passaddhi - sự an tĩnh, lắng dịu của thân và tâm); khi có sự tĩnh lặng, không có sự thiên lệch (bias - nati - sự nghiêng về, xu hướng của tâm bị cuốn theo); khi không có sự thiên lệch, không có sự đến và đi (coming and going - āgati gati - sự đến và đi trong vòng luân hồi); khi không có sự đến và đi, không có sự chết và tái sinh (passing away and reappearing - cutūpapāta - sự chết đi ở một kiếp sống và sự sinh lại ở một kiếp sống khác); khi không có sự chết và tái sinh, không có đời này, đời sau, hay khoảng giữa. Đây chính là sự chấm dứt khổ đau (end of suffering - dukkhassanta - sự kết thúc hoàn toàn của khổ).'"[^1310]
 
-12. Then when the venerable Sāriputta and the venerable Mahā Cunda had advised the venerable Channa thus, they rose from their seats and went away. Then, soon after they had gone, the venerable Channa used the knife. [^1311]
+12\. Sau khi Đại đức Xá Lợi Phất và Đại đức Đại Ca Chiên Diên khuyên dạy Đại đức Chan Na như vậy, họ đứng dậy và rời đi. Rồi, không lâu sau khi họ đi, Đại đức Chan Na đã dùng dao.[^1311]
 
-13. Then the venerable Sāriputta went to the Blessed One, and after paying homage to him, he sat down at one side and said to the Blessed One: "Venerable sir, the venerable Channa has used the knife. What is his destination, what is his future course?"
+13\. Sau đó, Đại đức Xá Lợi Phất đi đến chỗ Đức Thế Tôn, đảnh lễ Ngài, rồi ngồi xuống một bên và bạch Đức Thế Tôn: "Bạch Đức Thế Tôn, Đại đức Chan Na đã dùng dao. Thú hướng (destination - gati - cảnh giới tái sinh) của ông ấy là gì, tương lai của ông ấy sẽ ra sao?"
 
-"Sāriputta, didn't the bhikkhu Channa declare to you his blamelessness?"1312
+"Này Xá Lợi Phất, chẳng phải tỳ kheo Channa đã tuyên bố với các ông về sự không đáng chê trách (blamelessness - sự không có lỗi lầm dẫn đến tái sinh khổ đau) của mình sao?"[^1312]
 
-"Venerable sir, there is a Vajjian village called Pubbajira. There the venerable Channa had families that were his friends, families that were his intimates, families that were blameworthy."1313
+"Bạch Đức Thế Tôn, có một ngôi làng của người Vajjī tên là Pubbajira. Ở đó, Đại đức Chan Na có những gia đình là bạn bè, những gia đình thân thiết, những gia đình đáng bị khiển trách (blameworthy - đáng bị chê bai do hành vi không phù hợp)."[^1313]
 
-"There are those families that were friends of the bhikkhu Channa, Sāriputta, families that were his intimates, families that were blameworthy; but I do not say that to this extent he was blameworthy. Sāriputta, when one lays down this body and clings to a new body, then I say one is blameworthy. There was none of that in the bhikkhu Channa; the bhikkhu Channa used the knife blamelessly."1314
+"Này Xá Lợi Phất, có những gia đình là bạn bè của tỳ kheo Channa, những gia đình thân thiết, những gia đình đáng bị khiển trách; nhưng Ta không nói rằng ông ấy đáng bị chê trách đến mức độ đó. Này Xá Lợi Phất, khi một người từ bỏ thân này và còn bám víu (clings - upādāna - chấp thủ, dính mắc mạnh mẽ vào các đối tượng, là nguyên nhân của khổ) vào một thân mới, khi ấy Ta mới nói người đó đáng bị chê trách. Điều đó đã không xảy ra với tỳ kheo Channa; tỳ kheo Channa đã dùng dao một cách không đáng chê trách."[^1314]
 
-That is what the Blessed One said. The venerable Sāriputta was satisfied and delighted in the Blessed One's words.
+Đó là những gì Đức Thế Tôn đã dạy. Đại đức Xá Lợi Phất hoan hỷ và tín thọ lời Đức Thế Tôn dạy.
+
+<!--pg-->
+Từ ngữ:
+- tỳ kheo / bhikkhu / monk: Nhà sư Phật giáo Theravada đã thọ giới cụ túc (giới luật cao nhất dành cho tu sĩ).
+- Bậc Đạo Sư / Satthā / Teacher: Một danh hiệu tôn kính dành cho Đức Phật, người chỉ đường dẫn lối đến giác ngộ.
+- đệ tử / sāvaka / disciple: Người học trò, người đi theo sự dẫn dắt của Đức Phật hoặc một vị thầy tâm linh.
+- tự ngã / attā / self: Cái ta, bản ngã; một thực thể được cho là trường tồn, độc lập, cốt lõi của một cá nhân. Phật giáo phủ nhận sự tồn tại của một tự ngã như vậy (vô ngã - anattā).
+- trực nhận / abhiññā / directly known: Sự biết rõ, biết một cách trực tiếp thông qua kinh nghiệm tu tập và trí tuệ phát triển, còn gọi là thắng trí.
+- sự đoạn diệt / nirodha / cessation: Sự chấm dứt hoàn toàn khổ đau (dukkha) và các nguyên nhân của nó (phiền não, ái, thủ, nghiệp). Thường được dùng để chỉ Niết Bàn (Nibbāna).
+- nương tựa / nissita / dependent: Trạng thái phụ thuộc, dựa dẫm vào các điều kiện, các yếu tố khác để tồn tại hoặc vận hành (ví dụ: tâm nương tựa vào các đối tượng, chúng sinh nương tựa vào ái và thủ để tái sinh).
+- không nương tựa / anissita / independent: Trạng thái không phụ thuộc, không dựa dẫm vào bất kỳ điều kiện nào; trạng thái tâm giải thoát, tự do khỏi sự ràng buộc của luân hồi.
+- sự tĩnh lặng / passaddhi / tranquillity: Sự an tĩnh, lắng dịu của cả thân và tâm. Đây là một yếu tố quan trọng trong thiền định (samatha) và là một trong các yếu tố giác ngộ (bojjhaṅga).
+- sự thiên lệch / nati / bias: Sự nghiêng về, xu hướng của tâm bị cuốn hút hoặc đẩy ra bởi các đối tượng thông qua thích (tham) hoặc không thích (sân).
+- sự đến và đi / āgati-gati / coming and going: Chỉ sự vận hành trong vòng luân hồi (saṃsāra), sự di chuyển từ kiếp sống này sang kiếp sống khác, sự tái sinh liên tục.
+- sự chết và tái sinh / cutūpapāta / passing away and reappearing: Sự chấm dứt một kiếp sống (chết - cuti) và sự khởi đầu một kiếp sống mới (tái sinh - upapāta) trong vòng luân hồi.
+- sự chấm dứt khổ đau / dukkhassanta / end of suffering: Sự kết thúc hoàn toàn của mọi hình thức khổ đau, mục tiêu tối hậu của con đường tu tập Phật giáo, đồng nghĩa với Niết Bàn.
+- thú hướng / gati / destination: Cảnh giới, nơi tái sinh của một chúng sinh sau khi chết, được quyết định bởi nghiệp (kamma) đã tạo. Có năm hoặc sáu thú hướng tùy theo cách phân loại (cõi trời, người, a-tu-la, ngạ quỷ, súc sinh, địa ngục).
+- sự không đáng chê trách / anupavajja / blamelessness: Trạng thái không có lỗi lầm, không đáng bị khiển trách, đặc biệt là không có các phiền não vi tế dẫn đến tái sinh khi lâm chung. Trong kinh này, chỉ việc Đại đức Channa tự vẫn nhưng tâm đã giải thoát, không còn ái thủ.
+- đáng bị khiển trách / upavajja / blameworthy: Đáng bị chê bai, chỉ trích do có hành vi hoặc trạng thái tâm không phù hợp với giới luật hoặc đạo đức. Trong kinh này, áp dụng cho các gia đình cư sĩ có mối quan hệ không phù hợp với tu sĩ.
+- bám víu / upādāna / clinging: Sự chấp thủ, dính mắc, nắm giữ mạnh mẽ. Có bốn loại bám víu: vào dục lạc (kāmupādāna), vào tà kiến (diṭṭhupādāna), vào giới cấm thủ (sīlabbatupādāna), và vào chấp ngã (attavādupādāna). Bám víu là mắt xích quan trọng trong chuỗi Thập Nhị Nhân Duyên, dẫn đến khổ đau và tái sinh.

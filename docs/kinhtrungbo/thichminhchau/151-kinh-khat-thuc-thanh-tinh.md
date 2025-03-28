@@ -3,7 +3,7 @@
 **151. KINH KHẤT THỰC THANH TỊNH**
 ***(Pindapàtapàrisuddhi Sutta)***
 
-## Như vầy tôi nghe:
+**Như vầy tôi nghe.**
 
 Một thời Thế Tôn ở Rajagaha (Vương Xá), Veluvana (Trúc lâm), tại chỗ nuôi dưỡng sóc
 (Kalandakanivapa).
@@ -14,6 +14,7 @@ lễ Thế Tôn rồi ngồi xuống một bên. Thế Tôn nói với Tôn gi�
 -- Này Sariputta, các căn của Ông rất sáng suốt, sắc da của Ông thanh tịnh trong sáng. Này Sariputta,
 Ông nay đang phần lớn an trú với loại an trú nào?
 
+<!--pg-->
 -- Bạch Thế Tôn, con nay đang phần lớn an trú với Không trú.
 
 -- Lành thay, lành thay! Này Sariputta, Ông nay đang phần lớn an trú với sự an trú của bậc Ðại nhân.
@@ -31,6 +32,7 @@ thức, có khởi lên nơi ta dục, tham, sân, si hay hận tâm", thời n�
 nơi dục, tham, sân, si hay hận tâm", thời này Sariputta, Tỷ-kheo ấy phải an trú với hỷ và hân hoan, ngày
 đêm tu học trong các thiện pháp.
 
+<!--pg-->
 Lại nữa, này Sariputta, Tỷ-kheo cần phải suy tư như sau: "Trên con đường ta đã đi... , ta đi khất thực trở
 về, đối với các tiếng do tai nhận thức,... đối với các hương do mũi nhận thức,... đối với cácvị do lưỡi
 nhận thức,... đối với các xúc do thân nhận thức,... đối với các pháp do ý nhận thức, có khởi lên dục,
@@ -46,6 +48,7 @@ pháp ấy. Nhưng này Sariputta, nếu Tỷ-kheo trong khi suy tư được bi
 không có khởi lên nơi ta dục, tham, sân, si hay hận tâm", thời này Sariputta, Tỷ-kheo ấy phải an trú với
 hỷ và hân hoan ngày đêm tu học trong các thiện pháp.
 
+<!--pg-->
 Lại nữa, này Sariputta, Tỷ-kheo cần phải suy tư như sau: "Ta đã đoạn tận năm dục trưởng dưỡng chưa?
 Này các Tỷ-kheo, nếu Tỷ-kheo, trong khi suy tư được biết như sau: "Ta chưa đoạn tận năm dục trưởng
 dưỡng", thời này Sariputta, Tỷ-kheo ấy phải tinh tấn đoạn tận năm dục trưởng dưỡng. Nhưng nếu, này
@@ -71,6 +74,7 @@ Tỷ-kheo cần phải tinh tấn tu tập bốn niệm xứ. Nhưng nếu, này
 biết như sau: "Ta đã tu tập bốn niệm xứ ", thời này Sariputta, Tỷ-kheo ấy cần phải an trú với hỷ và hân
 hoan ngày đêm tu học trong các thiện pháp.
 
+<!--pg-->
 Lại nữa, này Sariputta, Tỷ-kheo cần phải suy tư: "Ta đã tu tập bốn chánh cần chưa? "... "Ta đã tu tập bốn
 như ý túc chưa?"... "Ta đã tu tập năm căn chưa?"... "Ta đã tu tập năm lực chưa?"... "Ta đã tu tập bảy
 giác chi chưa?"... Lại nữa, này Sariputta, Tỷ-kheo cần phải suy tư như sau: "Ta đã tu tập Thánh đạo Tám
@@ -86,6 +90,7 @@ kheo ấy cần phải tinh tấn tu tập Chỉ và Quán. Nhưng nếu, này c
 được biết như sau: "Ta đã tu tập Chỉ và Quán ", thời này Sariputta, Tỷ-kheo ấy cần phải an trú với hỷ và
 hân hoan, ngày đêm tu học trong các thiện pháp.
 
+<!--pg-->
 Lại nữa, này Sariputta, Tỷ-kheo cần phải suy tư như sau: "Ta đã chứng ngộ minh và giải thoát chưa? "
 Nếu Tỷ-kheo, này Sariputta, trong khi suy tư được biết như sau: "Ta chưa chứng ngộ minh và giải
 thoát", thời này Sariputta, Tỷ-kheo ấy cần phải tinh tấn tu tập minh và giải thoát. Nhưng nếu, này

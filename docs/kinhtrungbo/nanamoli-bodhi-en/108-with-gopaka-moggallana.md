@@ -1,4 +1,4 @@
-# 108 With Gopaka Moggallāna
+# 108. With Gopaka Moggallāna
 ***(Gopakamoggallāna Sutta)***
 
 1\. Thus have I heard. On one occasion the venerable Ānanda was living at Rājagaha in the Bamboo Grove, the Squirrels' Sanctuary, not long after the Blessed One had attained to final Nibbāna. [^1031]

@@ -1,4 +1,4 @@
-# 152 The Development of the Faculties
+# 152. The Development of the Faculties
 ***(Indriyabhāvanā Sutta)***
 
 [298] 1. Thus have I heard. On one occasion the Blessed One was living at Kajangalā in a grove of mukhelu trees.

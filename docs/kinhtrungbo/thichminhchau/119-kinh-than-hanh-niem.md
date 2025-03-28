@@ -3,7 +3,7 @@
 **119. KINH THÂN HÀNH NIỆM**
 ***(Kàyagatàsati Sutta)***
 
-## Như vầy tôi nghe:
+**Như vầy tôi nghe.**
 
 Một thời Thế Tôn trú ở Savatthi (Xá-vệ), Jetavana (Kỳ-đà Lâm), tại tịnh xá ông Anathapindika (Cấp Cô
 Ðộc). Rồi một số đông Tỷ-kheo, sau buổi ăn, sau khi đi khất thực trở về, đang ngồi tụ họp trong hội

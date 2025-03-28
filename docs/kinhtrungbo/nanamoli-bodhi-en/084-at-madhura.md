@@ -1,4 +1,4 @@
-# 84 At Madhurā
+# 84. At Madhurā
 ***(Madhurā Sutta)***
 
 1\. Thus have I heard. On one occasion the venerable Mahā Kaccāna was living at Madhurā in the Gundā Grove. ${ }^{814}$

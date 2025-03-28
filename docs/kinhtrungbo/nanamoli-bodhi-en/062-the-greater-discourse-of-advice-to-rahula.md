@@ -1,4 +1,4 @@
-# 62 The Greater Discourse of Advice to Rāhula
+# 62. The Greater Discourse of Advice to Rāhula
 ***(Mahārāhulovāda Sutta)***
 
 1\. Thus have I heard. [^640] On one occasion the Blessed One was living at Sāvatthī in Jeta's Grove, Anāthapiṇ̣ika's Park.

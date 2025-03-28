@@ -1,4 +1,4 @@
-# 2 Tất Cả Các Lậu Hoặc
+# 2. Tất Cả Các Lậu Hoặc
 ***(Kinh Sabbāsava)***
 
 1\. Tôi nghe như vầy. Có lần Đức Thế Tôn trú tại Sāvatthī (Xá Vệ), trong vườn Jeta (Kỳ Đà), tại tịnh xá Anāthapiṇḍika (Cấp Cô Độc). Tại đó, Ngài gọi các Tỳ kheo như sau: "Này các Tỳ kheo." - "Thưa vâng, bạch Ngài," các vị ấy đáp. Đức Thế Tôn nói như vầy:

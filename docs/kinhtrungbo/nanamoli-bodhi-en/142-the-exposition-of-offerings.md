@@ -1,4 +1,4 @@
-# 142 The Exposition of Offerings
+# 142. The Exposition of Offerings
 ***(Dakkhināvibhanga Sutta)***
 
 [253] 1. Thus have I heard. On one occasion the Blessed One was living in the Sakyan country at Kapilavatthu in Nigrodha's Park.

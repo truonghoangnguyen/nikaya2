@@ -1,4 +1,4 @@
-# 26 The Noble Search
+# 26. The Noble Search
 ***(Ariyapariyesanā Sutta)***
 
 1\. Thus have I heard. [^297] On one occasion the Blessed One was living at Sāvatthī in Jeta's Grove, Anāthapiṇ̣ika's Park.

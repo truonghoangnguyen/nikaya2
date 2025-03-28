@@ -1,4 +1,4 @@
-# 76 To Sandaka
+# 76. To Sandaka
 ***(Sandaka Sutta)***
 
 1\. Thus have I heard. On one occasion the Blessed One was living at Kosambī in Ghosita's Park.

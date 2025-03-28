@@ -3,7 +3,7 @@
 **104. KINH LÀNG SAMA**
 ***(Sàmagàma Sutta)***
 
-## Như vầy tôi nghe:
+**Như vầy tôi nghe.**
 
 Một thời Thế Tôn trú ở giữa các vị Sakka (Thích Ca), tại Samagama (Xá-di thôn).
 

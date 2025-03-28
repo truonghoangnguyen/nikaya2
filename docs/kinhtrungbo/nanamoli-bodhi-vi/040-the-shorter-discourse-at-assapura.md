@@ -1,4 +1,4 @@
-# 40 Kinh Tiểu Assapura
+# 40. Kinh Tiểu Assapura
 ***(Cūḷa-Assapura Sutta)***
 
 [281] 1\. Tôi nghe như vầy. Một thời Đức Thế Tôn trú tại xứ Anga, ở một thị trấn của người Anga tên là Assapura. Tại đây, Đức Thế Tôn gọi các vị tỳ kheo (bhikkhus): "Này các Tỳ kheo." - "Bạch Thế Tôn," các vị ấy đáp lời. Đức Thế Tôn dạy như sau:

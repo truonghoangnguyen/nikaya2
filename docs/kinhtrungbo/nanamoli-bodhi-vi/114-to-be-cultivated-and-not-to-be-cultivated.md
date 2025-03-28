@@ -1,179 +1,209 @@
-# 114 To Be Cultivated and Not To Be Cultivated
-***(Sevitabbāsevitabba Sutta)***
+# 114. Nên Tu Tập và Không Nên Tu Tập
+***(Kinh Sevitabbāsevitabba - Kinh về Điều Nên và Không Nên Thực Hành)***
 
-1. Thus have I heard. On one occasion the Blessed One was living at Sāvatthī in Jeta's Grove, Anāthapindika's Park. There he addressed the bhikkhus thus: "Bhikkhus." - "Venerable sir," they replied. The Blessed One said this:
+1\.  Tôi nghe như vầy. Một thời Đức Thế Tôn trú tại thành Xá-vệ (Sāvatthī), trong Vườn của ông Jeta, tại Tu viện của ông Anāthapindika (Cấp Cô Độc). Tại đó, Ngài gọi các vị Tỳ kheo (monks-bhikkhus-nhà sư): "Này các Tỳ kheo." - "Bạch Thế Tôn," các vị ấy vâng đáp. Đức Thế Tôn dạy điều này:
 
-2. "Bhikkhus, I shall teach you a discourse on what should be cultivated and what should not be cultivated. Listen and attend closely to what I shall say." - "Yes, venerable sir," the bhikkhus replied. The Blessed One said this:
+2\.  "Này các Tỳ kheo, Ta sẽ giảng cho các ông một bài pháp về những gì nên tu tập và những gì không nên tu tập. Hãy lắng nghe và chú tâm vào những gì Ta sắp nói." - "Vâng, bạch Thế Tôn," các vị Tỳ kheo vâng đáp. Đức Thế Tôn dạy điều này:
 
-#### (FIRST EXPOSITION)
+#### (PHẦN TRÌNH BÀY THỨ NHẤT)
 
-3. "Bhikkhus, [^1069] bodily conduct is of two kinds, I say: to be cultivated and not to be cultivated. And bodily conduct is either the one or the other. [^1070] Verbal conduct is of two kinds, I say: to be cultivated and not to be cultivated. And verbal conduct is either the one or the other. Mental conduct is of two kinds, I say: to be cultivated and not to be cultivated. And mental conduct is either the one or the other. Inclination of mind is of two kinds, I say: to be cultivated and not to be cultivated. And inclination of mind is either the one or the other. [46] The acquisition of perception is of two kinds, I say: to be cultivated and not to be cultivated. And the acquisition of perception is either the one or the other. The acquisition of view is of two kinds, I say: to be cultivated and not to be cultivated. And the acquisition of view is either the one or the other. The acquisition of individuality is of two kinds, I say: to be cultivated and not to be cultivated. And the acquisition of individuality is either the one or the other."
-(FIRST ELABORATION)
+3\.  "Này các Tỳ kheo, [^1069] thân hành (bodily conduct - hành vi qua thân) có hai loại, Ta nói: nên tu tập và không nên tu tập. Và thân hành chỉ là một trong hai loại đó. [^1070] Khẩu hành (verbal conduct - hành vi qua lời nói) có hai loại, Ta nói: nên tu tập và không nên tu tập. Và khẩu hành chỉ là một trong hai loại đó. Ý hành (mental conduct - hành vi qua ý nghĩ) có hai loại, Ta nói: nên tu tập và không nên tu tập. Và ý hành chỉ là một trong hai loại đó. Khuynh hướng tâm ý (inclination of mind - sự nghiêng chiều, xu hướng của tâm) có hai loại, Ta nói: nên tu tập và không nên tu tập. Và khuynh hướng tâm ý chỉ là một trong hai loại đó. [46] Sự thủ đắc nhận thức (acquisition of perception - sự đạt được, hình thành nhận thức) có hai loại, Ta nói: nên tu tập và không nên tu tập. Và sự thủ đắc nhận thức chỉ là một trong hai loại đó. Sự thủ đắc tri kiến (acquisition of view - sự đạt được, hình thành quan điểm, cách nhìn) có hai loại, Ta nói: nên tu tập và không nên tu tập. Và sự thủ đắc tri kiến chỉ là một trong hai loại đó. Sự thủ đắc bản thể cá nhân (acquisition of individuality - sự đạt được, hình thành một đời sống cá nhân, một thân phận) có hai loại, Ta nói: nên tu tập và không nên tu tập. Và sự thủ đắc bản thể cá nhân chỉ là một trong hai loại đó."
 
-4. When this was said, the venerable Sāriputta said to the Blessed One: "Venerable sir, I understand the detailed meaning of the Blessed One's utterance, which he has spoken in brief without expounding the detailed meaning, to be thus:
+#### (PHẦN GIẢI THÍCH CHI TIẾT THỨ NHẤT)
 
-5. "'Bhikkhus, bodily conduct is of two kinds, I say: to be cultivated and not to be cultivated. And bodily conduct is either the one or the other.' So it was said by the Blessed One. And with reference to what was this said?
+4\.  Khi nghe vậy, Tôn giả Xá Lợi Phất (Sāriputta) bạch Đức Thế Tôn: "Bạch Thế Tôn, con hiểu ý nghĩa chi tiết lời dạy của Thế Tôn, mà Ngài đã nói tóm tắt không giải thích chi tiết, là như thế này:
 
-"Venerable sir, such bodily conduct as causes unwholesome states to increase and wholesome states to diminish in one who cultivates it should not be cultivated. But such bodily conduct as causes unwholesome states to diminish and wholesome states to increase in one who cultivates it should be cultivated.
+5\.  "'Này các Tỳ kheo, thân hành có hai loại, Ta nói: nên tu tập và không nên tu tập. Và thân hành chỉ là một trong hai loại đó.' Đức Thế Tôn đã dạy như vậy. Và điều này được nói liên quan đến cái gì?
 
-"And what kind of bodily conduct causes unwholesome states to increase and wholesome states to diminish in one who cultivates it? Here someone kills living beings; he is murderous, bloody-handed, given to blows and violence, merciless to living beings. He takes what is not given; he takes by way of theft the wealth and property of others in the village or in the forest. He misconducts himself in sensual pleasures; he has intercourse with such women as are protected by their mother, father, mother and father, brother, sister, or relatives, who have a husband, who are protected by law, and even with those who are garlanded in token of betrothal. Such bodily conduct [47] causes unwholesome states to increase and wholesome states to diminish in one who cultivates it.
+"Bạch Thế Tôn, thân hành nào mà khi thực hành khiến các pháp bất thiện (unwholesome states - trạng thái tâm tiêu cực, có hại, dẫn đến khổ đau) tăng trưởng và các pháp thiện (wholesome states - trạng thái tâm tích cực, lợi ích, dẫn đến an vui) suy giảm, thì không nên tu tập. Nhưng thân hành nào mà khi thực hành khiến các pháp bất thiện suy giảm và các pháp thiện tăng trưởng, thì nên tu tập.
 
-"And what kind of bodily conduct causes unwholesome states to diminish and wholesome states to increase in one who cultivates it? Here someone, abandoning the killing of living beings, abstains from killing living beings; with rod and weapon laid aside, gently and kindly, he abides compassionate to all living beings. Abandoning the taking of what is not given, he abstains from taking what is not given; he does not take by way of theft the wealth and property of others in the village or in the forest. Abandoning misconduct in sensual pleasures, he abstains from misconduct in sensual pleasures; he does not have intercourse with such women as are protected by their mother, father, mother and father, brother, sister, or relatives, who have a husband,
-who are protected by law, or with those who are garlanded in token of betrothal. Such bodily conduct causes unwholesome states to diminish and wholesome states to increase in one who cultivates it.
+"Và loại thân hành nào khiến các pháp bất thiện tăng trưởng và các pháp thiện suy giảm nơi người thực hành nó? Ở đây, có người sát sinh; người ấy là kẻ giết người, tay vấy máu, quen dùng đòn roi và bạo lực, không có lòng thương xót chúng sinh. Người ấy lấy của không cho; người ấy trộm cắp tài sản và của cải của người khác trong làng hay trong rừng. Người ấy tà dâm trong các dục lạc; người ấy giao cấu với những phụ nữ được mẹ, cha, cha mẹ, anh, chị, hoặc bà con bảo vệ, người đã có chồng, người được pháp luật bảo vệ, và ngay cả với những người đã được kết hoa đính ước. Thân hành như vậy [47] khiến các pháp bất thiện tăng trưởng và các pháp thiện suy giảm nơi người thực hành nó.
 
-"So it was with reference to this that it was said by the Blessed One: 'Bhikkhus, bodily conduct is of two kinds, I say: to be cultivated and not to be cultivated. And bodily conduct is either the one or the other.'
+"Và loại thân hành nào khiến các pháp bất thiện suy giảm và các pháp thiện tăng trưởng nơi người thực hành nó? Ở đây, có người từ bỏ sát sinh, tránh xa sát sinh; bỏ trượng, bỏ kiếm, biết tàm quý, có lòng từ, sống với lòng bi mẫn đối với tất cả chúng sinh. Từ bỏ lấy của không cho, người ấy tránh xa lấy của không cho; người ấy không trộm cắp tài sản và của cải của người khác trong làng hay trong rừng. Từ bỏ tà dâm trong các dục lạc, người ấy tránh xa tà dâm trong các dục lạc; người ấy không giao cấu với những phụ nữ được mẹ, cha, cha mẹ, anh, chị, hoặc bà con bảo vệ, người đã có chồng, người được pháp luật bảo vệ, hoặc với những người đã được kết hoa đính ước. Thân hành như vậy khiến các pháp bất thiện suy giảm và các pháp thiện tăng trưởng nơi người thực hành nó.
 
-6. "'Bhikkhus, verbal conduct is of two kinds, I say: to be cultivated and not to be cultivated. And verbal conduct is either the one or the other.' So it was said by the Blessed One. And with reference to what was this said?
+"Vì vậy, chính là liên quan đến điều này mà Đức Thế Tôn đã dạy: 'Này các Tỳ kheo, thân hành có hai loại, Ta nói: nên tu tập và không nên tu tập. Và thân hành chỉ là một trong hai loại đó.'
 
-"Venerable sir, such verbal conduct as causes unwholesome states to increase and wholesome states to diminish in one who cultivates it should not be cultivated. But such verbal conduct as causes unwholesome states to diminish and wholesome states to increase in one who cultivates it should be cultivated.
+6\.  "'Này các Tỳ kheo, khẩu hành có hai loại, Ta nói: nên tu tập và không nên tu tập. Và khẩu hành chỉ là một trong hai loại đó.' Đức Thế Tôn đã dạy như vậy. Và điều này được nói liên quan đến cái gì?
 
-"And what kind of verbal conduct causes unwholesome states to increase and wholesome states to diminish in one who cultivates it? Here someone speaks falsehood; when summoned to a court, or to a meeting, [48] or to his relatives' presence, or to his guild, or to the royal family's presence, and questioned as a witness thus: 'So, good man, tell what you know,' not knowing, he says, 'I know,' or knowing, he says, 'I do not know'; not seeing, he says, 'I see,' or seeing, he says, 'I do not see'; in full awareness he speaks falsehood for his own ends, or for another's ends, or for some trifling worldly end. He speaks maliciously; he repeats elsewhere what he has heard here in order to divide [those people] from these, or he repeats to these people what he has heard elsewhere in order to divide [these people] from those; thus he is one who divides those who are united, a creator of divisions, who enjoys discord, rejoices in discord, delights in discord, a speaker of words that create discord. He speaks harshly; he utters such words as are rough, hard, hurtful to others, offensive to others, bordering on anger, unconducive to concentration. He is a gossip; he speaks at the wrong time, speaks what is not fact, speaks what is useless, speaks contrary to the Dhamma and the Discipline; at the wrong time he speaks such words as are worthless, unreasonable, immoderate, and unbeneficial. Such verbal conduct causes unwholesome
-states to increase and wholesome states to diminish in one who cultivates it.
+"Bạch Thế Tôn, khẩu hành nào mà khi thực hành khiến các pháp bất thiện tăng trưởng và các pháp thiện suy giảm, thì không nên tu tập. Nhưng khẩu hành nào mà khi thực hành khiến các pháp bất thiện suy giảm và các pháp thiện tăng trưởng, thì nên tu tập.
 
-"And what kind of verbal conduct causes unwholesome states to diminish and wholesome states to increase in one who cultivates it? Here someone, abandoning false speech, abstains from false speech; when summoned to a court, or to a meeting, or to his relatives' presence, or to his guild, or to the royal family's presence, and questioned as a witness thus: 'So, good man, tell what you know,' not knowing, he says, 'I do not know,' or knowing, he says, 'I know'; not seeing, he says, 'I do not see,' or seeing, he says, 'I see'; [49] he does not in full awareness speak falsehood for his own ends, or for another's ends, or for some trifling worldly end. Abandoning malicious speech, he abstains from malicious speech; he does not repeat elsewhere what he has heard here in order to divide [those people] from these, nor does he repeat to these people what he has heard elsewhere in order to divide [these people] from those; thus he is one who reunites those who are divided, a promoter of friendships, who enjoys concord, rejoices in concord, delights in concord, a speaker of words that promote concord. Abandoning harsh speech, he abstains from harsh speech; he speaks such words as are gentle, pleasing to the ear, and loveable, as go to the heart, are courteous, desired by many, and agreeable to many. Abandoning gossip, he abstains from gossip; he speaks at the right time, speaks what is fact, speaks on what is good, speaks on the Dhamma and the Discipline; at the right time he speaks such words as are worth recording, reasonable, moderate, and beneficial. Such verbal conduct causes unwholesome states to diminish and wholesome states to increase in one who cultivates it.
+"Và loại khẩu hành nào khiến các pháp bất thiện tăng trưởng và các pháp thiện suy giảm nơi người thực hành nó? Ở đây, có người nói dối; khi được gọi ra tòa, hay ra hội đồng, [48] hay đến trước mặt bà con, hay đến phường hội, hay đến hoàng tộc, và được hỏi làm chứng rằng: 'Này ông kia, hãy nói những gì ông biết,' không biết, người ấy nói, 'Tôi biết,' hoặc biết, người ấy nói, 'Tôi không biết'; không thấy, người ấy nói, 'Tôi thấy,' hoặc thấy, người ấy nói, 'Tôi không thấy'; người ấy hoàn toàn ý thức nói dối vì lợi ích của mình, hay vì lợi ích của người khác, hay vì một lợi ích thế gian nhỏ nhặt nào đó. Người ấy nói lời chia rẽ (đâm thọc); người ấy nghe điều gì ở đây liền đi nói ở nơi khác để chia rẽ [những người đó] với những người này, hoặc nghe điều gì ở nơi khác liền đi nói với những người này để chia rẽ [những người này] với những người kia; như vậy người ấy là kẻ chia rẽ những người đang đoàn kết, tạo ra sự chia rẽ, thích thú sự bất hòa, vui mừng trong sự bất hòa, hoan hỷ trong sự bất hòa, là người nói những lời gây chia rẽ. Người ấy nói lời thô ác; người ấy nói những lời cộc cằn, cứng rắn, làm tổn thương người khác, xúc phạm người khác, gần với sự tức giận, không dẫn đến sự định tâm (concentration - sự tập trung tâm ý). Người ấy nói lời vô ích (phù phiếm); người ấy nói không đúng lúc, nói điều không thật, nói điều vô dụng, nói trái với Giáo Pháp (Dhamma) và Giới Luật (Vinaya); không đúng lúc người ấy nói những lời không đáng giá, vô lý, không chừng mực, và không lợi ích. Khẩu hành như vậy khiến các pháp bất thiện tăng trưởng và các pháp thiện suy giảm nơi người thực hành nó.
 
-"So it was with reference to this that it was said by the Blessed One: 'Bhikkhus, verbal conduct is of two kinds, I say: to be cultivated and not to be cultivated. And verbal conduct is either the one or the other.'
+"Và loại khẩu hành nào khiến các pháp bất thiện suy giảm và các pháp thiện tăng trưởng nơi người thực hành nó? Ở đây, có người từ bỏ nói dối, tránh xa nói dối; khi được gọi ra tòa, hay ra hội đồng, hay đến trước mặt bà con, hay đến phường hội, hay đến hoàng tộc, và được hỏi làm chứng rằng: 'Này ông kia, hãy nói những gì ông biết,' không biết, người ấy nói, 'Tôi không biết,' hoặc biết, người ấy nói, 'Tôi biết'; không thấy, người ấy nói, 'Tôi không thấy,' hoặc thấy, người ấy nói, 'Tôi thấy'; [49] người ấy không hoàn toàn ý thức nói dối vì lợi ích của mình, hay vì lợi ích của người khác, hay vì một lợi ích thế gian nhỏ nhặt nào đó. Từ bỏ nói lời chia rẽ, người ấy tránh xa nói lời chia rẽ; người ấy không nghe điều gì ở đây liền đi nói ở nơi khác để chia rẽ [những người đó] với những người này, cũng không nghe điều gì ở nơi khác liền đi nói với những người này để chia rẽ [những người này] với những người kia; như vậy người ấy là người hàn gắn những người bị chia rẽ, người vun đắp tình bằng hữu, thích thú sự hòa hợp, vui mừng trong sự hòa hợp, hoan hỷ trong sự hòa hợp, là người nói những lời thúc đẩy sự hòa hợp. Từ bỏ nói lời thô ác, người ấy tránh xa nói lời thô ác; người ấy nói những lời ôn hòa, dễ nghe, dễ thương, đi vào lòng người, lịch sự, được nhiều người mong muốn, và làm hài lòng nhiều người. Từ bỏ nói lời vô ích, người ấy tránh xa nói lời vô ích; người ấy nói đúng lúc, nói điều thật, nói về điều tốt, nói về Giáo Pháp và Giới Luật; đúng lúc người ấy nói những lời đáng ghi nhớ, hợp lý, chừng mực, và lợi ích. Khẩu hành như vậy khiến các pháp bất thiện suy giảm và các pháp thiện tăng trưởng nơi người thực hành nó.
 
-7. "'Mental conduct is of two kinds, I say: to be cultivated and not to be cultivated. And mental conduct is either the one or the other.' So it was said by the Blessed One. And with reference to what was this said?
+"Vì vậy, chính là liên quan đến điều này mà Đức Thế Tôn đã dạy: 'Này các Tỳ kheo, khẩu hành có hai loại, Ta nói: nên tu tập và không nên tu tập. Và khẩu hành chỉ là một trong hai loại đó.'
 
-"Venerable sir, such mental conduct as causes unwholesome states to increase and wholesome states to diminish in one who cultivates it should not be cultivated. But such mental conduct
-as causes unwholesome states to diminish and wholesome states to increase in one who cultivates it should be cultivated.
+7\.  "'Ý hành có hai loại, Ta nói: nên tu tập và không nên tu tập. Và ý hành chỉ là một trong hai loại đó.' Đức Thế Tôn đã dạy như vậy. Và điều này được nói liên quan đến cái gì?
 
-"And what kind of mental conduct causes unwholesome states to increase and wholesome states to diminish in one who cultivates it? Here someone is covetous; he covets the wealth and property of others thus: 'Oh, may what belongs to another be mine!' Or he has a mind of ill will and intentions of hate [50] thus: 'May these beings be slain and slaughtered, may they be cut off, perish, or be annihilated!' Such mental conduct causes unwholesome states to increase and wholesome states to diminish in one who cultivates it.
+"Bạch Thế Tôn, ý hành nào mà khi thực hành khiến các pháp bất thiện tăng trưởng và các pháp thiện suy giảm, thì không nên tu tập. Nhưng ý hành nào mà khi thực hành khiến các pháp bất thiện suy giảm và các pháp thiện tăng trưởng, thì nên tu tập.
 
-"And what kind of mental conduct causes unwholesome states to diminish and wholesome states to increase in one who cultivates it? Here someone is not covetous; he does not covet the wealth and property of others thus: 'Oh, may what belongs to another be mine!' His mind is without ill will and he has intentions free from hate thus: 'May these beings be free from enmity, affliction, and anxiety! May they live happily!' Such mental conduct causes unwholesome states to diminish and wholesome states to increase in one who cultivates it.
+"Và loại ý hành nào khiến các pháp bất thiện tăng trưởng và các pháp thiện suy giảm nơi người thực hành nó? Ở đây, có người tham lam; người ấy tham muốn tài sản và của cải của người khác rằng: 'Ôi, mong sao những gì thuộc về người khác lại là của mình!' Hoặc người ấy có tâm sân hận và ý định thù ghét [50] rằng: 'Mong rằng những chúng sinh này bị giết, bị tàn sát, mong rằng chúng bị tiêu diệt, diệt vong, hoặc bị hủy diệt!' Ý hành như vậy khiến các pháp bất thiện tăng trưởng và các pháp thiện suy giảm nơi người thực hành nó.
 
-"So it was with reference to this that it was said by the Blessed One: 'Bhikkhus, mental conduct is of two kinds, I say: to be cultivated and not to be cultivated. And mental conduct is either the one or the other. [^1071]
+"Và loại ý hành nào khiến các pháp bất thiện suy giảm và các pháp thiện tăng trưởng nơi người thực hành nó? Ở đây, có người không tham lam; người ấy không tham muốn tài sản và của cải của người khác rằng: 'Ôi, mong sao những gì thuộc về người khác lại là của mình!' Tâm người ấy không có sân hận và có ý định không thù ghét rằng: 'Mong rằng những chúng sinh này không còn oan trái, không còn phiền não, không còn lo âu! Mong rằng họ sống hạnh phúc!' Ý hành như vậy khiến các pháp bất thiện suy giảm và các pháp thiện tăng trưởng nơi người thực hành nó.
 
-8. "'Inclination of mind is of two kinds, I say: to be cultivated and not to be cultivated. And inclination of mind is either the one or the other.' So it was said by the Blessed One. And with reference to what was this said?
+"Vì vậy, chính là liên quan đến điều này mà Đức Thế Tôn đã dạy: 'Này các Tỳ kheo, ý hành có hai loại, Ta nói: nên tu tập và không nên tu tập. Và ý hành chỉ là một trong hai loại đó.' [^1071]
 
-"Venerable sir, such inclination of mind as causes unwholesome states to increase and wholesome states to diminish in one who cultivates it should not be cultivated. But such inclination of mind as causes unwholesome states to diminish and wholesome states to increase in one who cultivates it should be cultivated.
+8\.  "'Khuynh hướng tâm ý có hai loại, Ta nói: nên tu tập và không nên tu tập. Và khuynh hướng tâm ý chỉ là một trong hai loại đó.' Đức Thế Tôn đã dạy như vậy. Và điều này được nói liên quan đến cái gì?
 
-"And what kind of inclination of mind causes unwholesome states to increase and wholesome states to diminish in one who cultivates it? Here someone is covetous and abides with his mind imbued with covetousness; he has ill will and abides with his mind imbued with ill will; he is cruel and abides with his mind imbued with cruelty. [^1072] Such inclination of mind causes
-unwholesome states to increase and wholesome states to diminish in one who cultivates it.
+"Bạch Thế Tôn, khuynh hướng tâm ý nào mà khi thực hành khiến các pháp bất thiện tăng trưởng và các pháp thiện suy giảm, thì không nên tu tập. Nhưng khuynh hướng tâm ý nào mà khi thực hành khiến các pháp bất thiện suy giảm và các pháp thiện tăng trưởng, thì nên tu tập.
 
-"And what kind of inclination of mind causes unwholesome states to diminish and wholesome states to increase [51] in one who cultivates it? Here someone is uncovetous and abides with his mind detached from covetousness; he is without ill will and abides with his mind detached from ill will; he is uncruel and abides with his mind detached from cruelty. Such inclination of mind causes unwholesome states to diminish and wholesome states to increase in one who cultivates it.
+"Và loại khuynh hướng tâm ý nào khiến các pháp bất thiện tăng trưởng và các pháp thiện suy giảm nơi người thực hành nó? Ở đây, có người tham lam và sống với tâm thấm đẫm tham lam; người ấy có sân hận và sống với tâm thấm đẫm sân hận; người ấy hung ác và sống với tâm thấm đẫm sự hung ác. [^1072] Khuynh hướng tâm ý như vậy khiến các pháp bất thiện tăng trưởng và các pháp thiện suy giảm nơi người thực hành nó.
 
-"So it was with reference to this that it was said by the Blessed One: 'Bhikkhus, inclination of mind is of two kinds, I say: to be cultivated and not to be cultivated. And inclination of mind is either the one or the other.'
+"Và loại khuynh hướng tâm ý nào khiến các pháp bất thiện suy giảm và các pháp thiện tăng trưởng [51] nơi người thực hành nó? Ở đây, có người không tham lam và sống với tâm không còn tham lam; người ấy không có sân hận và sống với tâm không còn sân hận; người ấy không hung ác và sống với tâm không còn sự hung ác. Khuynh hướng tâm ý như vậy khiến các pháp bất thiện suy giảm và các pháp thiện tăng trưởng nơi người thực hành nó.
 
-9. "'The acquisition of perception is of two kinds, I say: to be cultivated and not to be cultivated. And the acquisition of perception is either the one or the other.' So it was said by the Blessed One. And with reference to what was this said?
+"Vì vậy, chính là liên quan đến điều này mà Đức Thế Tôn đã dạy: 'Này các Tỳ kheo, khuynh hướng tâm ý có hai loại, Ta nói: nên tu tập và không nên tu tập. Và khuynh hướng tâm ý chỉ là một trong hai loại đó.'
 
-"Venerable sir, such acquisition of perception as causes unwholesome states to increase and wholesome states to diminish in one who cultivates it should not be cultivated. But such acquisition of perception as causes unwholesome states to diminish and wholesome states to increase in one who cultivates it should be cultivated.
+9\.  "'Sự thủ đắc nhận thức có hai loại, Ta nói: nên tu tập và không nên tu tập. Và sự thủ đắc nhận thức chỉ là một trong hai loại đó.' Đức Thế Tôn đã dạy như vậy. Và điều này được nói liên quan đến cái gì?
 
-"And what kind of acquisition of perception causes unwholesome states to increase and wholesome states to diminish in one who cultivates it? Here someone is covetous and abides with his perception imbued with covetousness; he has ill will and abides with his perception imbued with ill will; he is cruel and abides with his perception imbued with cruelty. Such acquisition of perception causes unwholesome states to increase and wholesome states to diminish in one who cultivates it.
+"Bạch Thế Tôn, sự thủ đắc nhận thức nào mà khi thực hành khiến các pháp bất thiện tăng trưởng và các pháp thiện suy giảm, thì không nên tu tập. Nhưng sự thủ đắc nhận thức nào mà khi thực hành khiến các pháp bất thiện suy giảm và các pháp thiện tăng trưởng, thì nên tu tập.
 
-"And what kind of acquisition of perception causes unwholesome states to diminish and wholesome states to increase in one who cultivates it? Here someone is uncovetous and abides with his perception detached from covetousness; he is without ill will and abides with his perception detached from ill will; he is uncruel and abides with his perception detached from cruelty. Such acquisition of perception causes unwholesome states to diminish and wholesome states to increase in one who cultivates it.
-"So it was with reference to this that it was said by the Blessed One: 'Bhikkhus, the acquisition of perception is of two kinds, I say: to be cultivated and not to be cultivated. And the acquisition of perception is either the one or the other.' [52]
+"Và loại sự thủ đắc nhận thức nào khiến các pháp bất thiện tăng trưởng và các pháp thiện suy giảm nơi người thực hành nó? Ở đây, có người tham lam và sống với nhận thức thấm đẫm tham lam; người ấy có sân hận và sống với nhận thức thấm đẫm sân hận; người ấy hung ác và sống với nhận thức thấm đẫm sự hung ác. Sự thủ đắc nhận thức như vậy khiến các pháp bất thiện tăng trưởng và các pháp thiện suy giảm nơi người thực hành nó.
 
-10. "'The acquisition of view is of two kinds, I say: to be cultivated and not to be cultivated. And the acquisition of view is either the one or the other.' So it was said by the Blessed One. And with reference to what was this said?
+"Và loại sự thủ đắc nhận thức nào khiến các pháp bất thiện suy giảm và các pháp thiện tăng trưởng nơi người thực hành nó? Ở đây, có người không tham lam và sống với nhận thức không còn tham lam; người ấy không có sân hận và sống với nhận thức không còn sân hận; người ấy không hung ác và sống với nhận thức không còn sự hung ác. Sự thủ đắc nhận thức như vậy khiến các pháp bất thiện suy giảm và các pháp thiện tăng trưởng nơi người thực hành nó.
 
-"Venerable sir, such acquisition of view as causes unwholesome states to increase and wholesome states to diminish in one who cultivates it should not be cultivated. But such acquisition of view as causes unwholesome states to diminish and wholesome states to increase in one who cultivates it should be cultivated.
+"Vì vậy, chính là liên quan đến điều này mà Đức Thế Tôn đã dạy: 'Này các Tỳ kheo, sự thủ đắc nhận thức có hai loại, Ta nói: nên tu tập và không nên tu tập. Và sự thủ đắc nhận thức chỉ là một trong hai loại đó.' [52]
 
-"And what kind of acquisition of view causes unwholesome states to increase and wholesome states to diminish in one who cultivates it? Here someone holds such a view as this: 'There is nothing given, nothing offered, nothing sacrificed; no fruit or result of good and bad actions; no this world, no other world; no mother, no father; no beings who are reborn spontaneously; no good and virtuous recluses and brahmins in the world who have realised for themselves by direct knowledge and declare this world and the other world.' Such acquisition of view causes unwholesome states to increase and wholesome states to diminish in one who cultivates it.
+10\. "'Sự thủ đắc tri kiến có hai loại, Ta nói: nên tu tập và không nên tu tập. Và sự thủ đắc tri kiến chỉ là một trong hai loại đó.' Đức Thế Tôn đã dạy như vậy. Và điều này được nói liên quan đến cái gì?
 
-"And what kind of acquisition of view causes unwholesome states to diminish and wholesome states to increase in one who cultivates it? Here someone holds such a view as this: 'There is what is given and what is offered and what is sacrificed; there is fruit and result of good and bad actions; there is this world and the other world; there is mother and father; there are beings who are reborn spontaneously; there are good and virtuous recluses and brahmins in the world who have realised for themselves by direct knowledge and declare this world and the other world.' Such acquisition of view causes unwholesome states to diminish and wholesome states to increase in one who cultivates it.
+"Bạch Thế Tôn, sự thủ đắc tri kiến nào mà khi thực hành khiến các pháp bất thiện tăng trưởng và các pháp thiện suy giảm, thì không nên tu tập. Nhưng sự thủ đắc tri kiến nào mà khi thực hành khiến các pháp bất thiện suy giảm và các pháp thiện tăng trưởng, thì nên tu tập.
 
-"So it was with reference to this that it was said by the Blessed One: 'Bhikkhus, the acquisition of view is of two kinds, I say: to be cultivated and not to be cultivated. And the acquisition of view is either the one or the other.'
+"Và loại sự thủ đắc tri kiến nào khiến các pháp bất thiện tăng trưởng và các pháp thiện suy giảm nơi người thực hành nó? Ở đây, có người giữ quan điểm như thế này: 'Không có bố thí, không có cúng dường, không có tế lễ; không có quả báo của các hành động thiện và ác; không có đời này, không có đời sau; không có mẹ, không có cha; không có chúng sinh hóa sinh (reborn spontaneously - sinh ra không do thai sinh hay noãn sinh, ví dụ chư thiên, địa ngục); không có các vị Sa môn (recluses - người xuất gia tu hành) và Bà la môn (brahmins - tu sĩ Bà la môn giáo) chân chính, đức hạnh trên thế gian, những người đã tự mình chứng ngộ bằng thắng trí (abhiññā - sự hiểu biết trực tiếp và siêu việt) và tuyên bố về thế giới này và thế giới khác.' Sự thủ đắc tri kiến như vậy khiến các pháp bất thiện tăng trưởng và các pháp thiện suy giảm nơi người thực hành nó.
 
-11. "The acquisition of individuality is of two kinds, I say: [^1073] to be cultivated and not to be cultivated. And the acquisition of individuality is either the one or the other.' So it was said by the Blessed One. And with reference to what was this said?
+"Và loại sự thủ đắc tri kiến nào khiến các pháp bất thiện suy giảm và các pháp thiện tăng trưởng nơi người thực hành nó? Ở đây, có người giữ quan điểm như thế này: 'Có bố thí, có cúng dường, có tế lễ; có quả báo của các hành động thiện và ác; có đời này và đời sau; có mẹ và cha; có chúng sinh hóa sinh; có các vị Sa môn và Bà la môn chân chính, đức hạnh trên thế gian, những người đã tự mình chứng ngộ bằng thắng trí và tuyên bố về thế giới này và thế giới khác.' Sự thủ đắc tri kiến như vậy khiến các pháp bất thiện suy giảm và các pháp thiện tăng trưởng nơi người thực hành nó.
 
-"Venerable sir, [53] such acquisition of individuality as causes unwholesome states to increase and wholesome states to diminish in one who cultivates it should not be cultivated. But such acquisition of individuality as causes unwholesome states to diminish and wholesome states to increase in one who cultivates it should be cultivated.
+"Vì vậy, chính là liên quan đến điều này mà Đức Thế Tôn đã dạy: 'Này các Tỳ kheo, sự thủ đắc tri kiến có hai loại, Ta nói: nên tu tập và không nên tu tập. Và sự thủ đắc tri kiến chỉ là một trong hai loại đó.'
 
-"And what kind of acquisition of individuality causes unwholesome states to increase and wholesome states to diminish in one who cultivates it? When a person generates an acquisition of individuality that is subject to affliction, unwholesome states increase and wholesome states diminish in him, preventing him from putting an end to being. [^1074]
+11\. "'Sự thủ đắc bản thể cá nhân có hai loại, Ta nói: [^1073] nên tu tập và không nên tu tập. Và sự thủ đắc bản thể cá nhân chỉ là một trong hai loại đó.' Đức Thế Tôn đã dạy như vậy. Và điều này được nói liên quan đến cái gì?
 
-"And what kind of acquisition of individuality causes unwholesome states to diminish and wholesome states to increase in one who cultivates it? When a person generates an acquisition of individuality that is free from affliction, unwholesome states diminish and wholesome states increase in him, enabling him to put an end to being.
+"Bạch Thế Tôn, [53] sự thủ đắc bản thể cá nhân nào mà khi thực hành khiến các pháp bất thiện tăng trưởng và các pháp thiện suy giảm, thì không nên tu tập. Nhưng sự thủ đắc bản thể cá nhân nào mà khi thực hành khiến các pháp bất thiện suy giảm và các pháp thiện tăng trưởng, thì nên tu tập.
 
-"So it was with reference to this that it was said by the Blessed One: 'Bhikkhus, the acquisition of individuality is of two kinds, I say: to be cultivated and not to be cultivated. And the acquisition of individuality is either the one or the other.'
+"Và loại sự thủ đắc bản thể cá nhân nào khiến các pháp bất thiện tăng trưởng và các pháp thiện suy giảm nơi người thực hành nó? Khi một người tạo ra một sự thủ đắc bản thể cá nhân dẫn đến phiền não (subject to affliction - chịu sự chi phối của khổ đau, phiền não), các pháp bất thiện tăng trưởng và các pháp thiện suy giảm nơi người ấy, ngăn cản người ấy chấm dứt sự hiện hữu (put an end to being - chấm dứt vòng luân hồi sinh tử). [^1074]
 
-12. "Venerable sir, I understand the detailed meaning of the Blessed One's utterance, which he has spoken in brief without expounding the detailed meaning, to be thus."
+"Và loại sự thủ đắc bản thể cá nhân nào khiến các pháp bất thiện suy giảm và các pháp thiện tăng trưởng nơi người thực hành nó? Khi một người tạo ra một sự thủ đắc bản thể cá nhân không dẫn đến phiền não (free from affliction - không bị chi phối bởi khổ đau, phiền não), các pháp bất thiện suy giảm và các pháp thiện tăng trưởng nơi người ấy, giúp người ấy chấm dứt sự hiện hữu.
 
-(FIRST APPROVAL AND RECAPITULATION)
+"Vì vậy, chính là liên quan đến điều này mà Đức Thế Tôn đã dạy: 'Này các Tỳ kheo, sự thủ đắc bản thể cá nhân có hai loại, Ta nói: nên tu tập và không nên tu tập. Và sự thủ đắc bản thể cá nhân chỉ là một trong hai loại đó.'
 
-13. "Good, good, Sāriputta! It is good that you understand the detailed meaning of my utterance, which I spoke in brief without expounding the detailed meaning, to be thus.
+12\. "Bạch Thế Tôn, con hiểu ý nghĩa chi tiết lời dạy của Thế Tôn, mà Ngài đã nói tóm tắt không giải thích chi tiết, là như thế này."
 
-14-20. [54, 55] (In these paragraphs the Buddha repeats verbatim §§5-11, with the substitution of "Sāriputta" for "venerable sir" and of "by me" for "by the Blessed One.")
+#### (PHẦN CHẤP THUẬN VÀ TÓM TẮT LẦN THỨ NHẤT)
 
-14. "Sāriputta, the detailed meaning of my utterance, which I spoke in brief, should be regarded thus.
-(SECOND EXPOSITION)
+13\. "Lành thay, lành thay, Xá Lợi Phất! Thật tốt khi ông hiểu ý nghĩa chi tiết lời dạy của Ta, mà Ta đã nói tóm tắt không giải thích chi tiết, là như vậy.
 
-22. "Sāriputta, forms cognizable by the eye are of two kinds, I say: [56] to be cultivated and not to be cultivated. [^1075] Sounds cognizable by the ear are of two kinds, I say: to be cultivated and not to be cultivated. Odours cognizable by the nose are of two kinds, I say: to be cultivated and not to be cultivated. Flavours cognizable by the tongue are of two kinds, I say: to be cultivated and not to be cultivated. Tangibles cognizable by the body are of two kinds, I say: to be cultivated and not to be cultivated. Mind-objects cognizable by the mind are of two kinds, I say: to be cultivated and not to be cultivated."
+14-20. [54, 55] (Trong các đoạn này, Đức Phật lặp lại nguyên văn các đoạn §§5-11, thay "Bạch Thế Tôn" bằng "Này Xá Lợi Phất" và "Đức Thế Tôn" bằng "Ta".)
 
-(SECOND ELABORATION)
+21\. "Này Xá Lợi Phất, ý nghĩa chi tiết lời dạy của Ta, mà Ta đã nói tóm tắt, nên được hiểu là như vậy.
 
-23. When this was said, the venerable Sāriputta said to the Blessed One: "Venerable sir, I understand the detailed meaning of the Blessed One's utterance, which he has spoken in brief without expounding the detailed meaning, to be thus:
+#### (PHẦN TRÌNH BÀY THỨ HAI)
 
-24. "'Sāriputta, forms cognizable by the eye are of two kinds, I say: [56] to be cultivated and not to be cultivated.' So it was said by the Blessed One. And with reference to what was this said?
+22\. "Này Xá Lợi Phất, các hình sắc (forms - đối tượng nhìn thấy) nhận biết qua mắt có hai loại, Ta nói: [56] nên tu tập và không nên tu tập. [^1075] Các âm thanh (sounds - đối tượng nghe thấy) nhận biết qua tai có hai loại, Ta nói: nên tu tập và không nên tu tập. Các mùi hương (odours - đối tượng ngửi thấy) nhận biết qua mũi có hai loại, Ta nói: nên tu tập và không nên tu tập. Các vị (flavours - đối tượng nếm) nhận biết qua lưỡi có hai loại, Ta nói: nên tu tập và không nên tu tập. Các cảm giác xúc chạm (tangibles - đối tượng cảm nhận qua thân) nhận biết qua thân có hai loại, Ta nói: nên tu tập và không nên tu tập. Các đối tượng của ý (mind-objects - đối tượng suy nghĩ, nhận thức của tâm) nhận biết qua ý có hai loại, Ta nói: nên tu tập và không nên tu tập."
 
-"Venerable sir, such forms cognizable by the eye as cause unwholesome states to increase and wholesome states to diminish in one who cultivates them should not be cultivated. But such forms cognizable by the eye as cause unwholesome states to diminish and wholesome states to increase in one who cultivates them should be cultivated.
+#### (PHẦN GIẢI THÍCH CHI TIẾT THỨ HAI)
 
-"So it was with reference to this that it was said by the Blessed One: 'Sāriputta, forms cognizable by the eye are of two kinds, I say: to be cultivated and not to be cultivated.'
+23\. Khi nghe vậy, Tôn giả Xá Lợi Phất bạch Đức Thế Tôn: "Bạch Thế Tôn, con hiểu ý nghĩa chi tiết lời dạy của Thế Tôn, mà Ngài đã nói tóm tắt không giải thích chi tiết, là như thế này:
 
-25. "'Sounds cognizable by the ear are of two kinds, I say'...
+24\. "'Này Xá Lợi Phất, các hình sắc nhận biết qua mắt có hai loại, Ta nói: [56] nên tu tập và không nên tu tập.' Đức Thế Tôn đã dạy như vậy. Và điều này được nói liên quan đến cái gì?
 
-26. "'Odours cognizable by the nose are of two kinds, I say'...[57]
+"Bạch Thế Tôn, những hình sắc nhận biết qua mắt nào mà khi tiếp xúc (tu tập ở đây mang nghĩa là tiếp xúc, sử dụng, hướng tâm đến) khiến các pháp bất thiện tăng trưởng và các pháp thiện suy giảm, thì không nên tiếp xúc. Nhưng những hình sắc nhận biết qua mắt nào mà khi tiếp xúc khiến các pháp bất thiện suy giảm và các pháp thiện tăng trưởng, thì nên tiếp xúc.
 
-27. "'Flavours cognizable by the tongue are of two kinds, I say'...
+"Vì vậy, chính là liên quan đến điều này mà Đức Thế Tôn đã dạy: 'Này Xá Lợi Phất, các hình sắc nhận biết qua mắt có hai loại, Ta nói: nên tu tập và không nên tu tập.'
 
-28. "'Tangibles cognizable by the body are of two kinds, I say'...
+25\. "'Các âm thanh nhận biết qua tai có hai loại, Ta nói'... (Giải thích tương tự như đoạn 24)
 
-29. "'Mind-objects cognizable by the mind are of two kinds, I say: to be cultivated and not to be cultivated.' So it was said by the Blessed One. And with reference to what was this said?
+26\. "'Các mùi hương nhận biết qua mũi có hai loại, Ta nói'...[57] (Giải thích tương tự như đoạn 24)
 
-"Venerable sir, such mind-objects cognizable by the mind as cause unwholesome states to increase and wholesome states to
-diminish in one who cultivates them should not be cultivated. [58] But such mind-objects cognizable by the mind as cause unwholesome states to diminish and wholesome states to increase in one who cultivates them should be cultivated.
+27\. "'Các vị nhận biết qua lưỡi có hai loại, Ta nói'... (Giải thích tương tự như đoạn 24)
 
-"So it was with reference to this that it was said by the Blessed One: 'Mind-objects cognizable by the mind are of two kinds, I say: to be cultivated and not to be cultivated.'
+28\. "'Các cảm giác xúc chạm nhận biết qua thân có hai loại, Ta nói'... (Giải thích tương tự như đoạn 24)
 
-30. "Venerable sir, I understand the detailed meaning of the Blessed One's utterance, which he has spoken in brief without expounding the detailed meaning, to be thus."
+29\. "'Các đối tượng của ý nhận biết qua ý có hai loại, Ta nói: nên tu tập và không nên tu tập.' Đức Thế Tôn đã dạy như vậy. Và điều này được nói liên quan đến cái gì?
 
-(SECOND APPROVAL AND RECAPITULATION)
+"Bạch Thế Tôn, những đối tượng của ý nhận biết qua ý nào mà khi tiếp xúc khiến các pháp bất thiện tăng trưởng và các pháp thiện suy giảm, thì không nên tiếp xúc. [58] Nhưng những đối tượng của ý nhận biết qua ý nào mà khi tiếp xúc khiến các pháp bất thiện suy giảm và các pháp thiện tăng trưởng, thì nên tiếp xúc.
 
-31. "Good, good, Sāriputta! It is good that you understand the detailed meaning of my utterance, which I spoke in brief without expounding the detailed meaning, to be thus.
+"Vì vậy, chính là liên quan đến điều này mà Đức Thế Tôn đã dạy: 'Các đối tượng của ý nhận biết qua ý có hai loại, Ta nói: nên tu tập và không nên tu tập.'
 
-32-37. (In these paragraphs the Buddha repeats verbatim §§24-29, with the necessary substitutions.)
+30\. "Bạch Thế Tôn, con hiểu ý nghĩa chi tiết lời dạy của Thế Tôn, mà Ngài đã nói tóm tắt không giải thích chi tiết, là như thế này."
 
-38. "Sāriputta, the detailed meaning of my utterance, which I spoke in brief, should be regarded thus.
+#### (PHẦN CHẤP THUẬN VÀ TÓM TẮT LẦN THỨ HAI)
 
-#### (THIRD EXPOSITION)
+31\. "Lành thay, lành thay, Xá Lợi Phất! Thật tốt khi ông hiểu ý nghĩa chi tiết lời dạy của Ta, mà Ta đã nói tóm tắt không giải thích chi tiết, là như vậy.
 
-39. "Sāriputta, robes are of two kinds, I say: to be cultivated and not to be cultivated. Almsfood is of two kinds, I say: to be cultivated and not to be cultivated. Resting places are of two kinds, I say: to be cultivated and not to be cultivated. Villages are of two kinds, I say: to be cultivated and not to be cultivated. Towns are of two kinds, I say: to be cultivated and not to be cultivated. Cities are of two kinds, I say: to be cultivated and not to be cultivated. Districts are of two kinds, I say: to be cultivated and not to be cultivated. Persons are of two kinds, I say: to be cultivated and not to be cultivated." [59]
+32-37. (Trong các đoạn này, Đức Phật lặp lại nguyên văn các đoạn §§24-29, với những thay đổi cần thiết về đại từ.)
 
-40. When this was said, the venerable Sāriputta said to the Blessed One: "Venerable sir, I understand the detailed meaning of the Blessed One's utterance, which he has spoken in brief without expounding the detailed meaning, to be thus:
+38\. "Này Xá Lợi Phất, ý nghĩa chi tiết lời dạy của Ta, mà Ta đã nói tóm tắt, nên được hiểu là như vậy.
 
-41. "'Sāriputta, robes are of two kinds, I say: to be cultivated and not to be cultivated.' So it was said by the Blessed One. And with reference to what was this said?
-"Venerable sir, such robes as cause unwholesome states to increase and wholesome states to diminish in one who cultivates them should not be cultivated. But such robes as cause unwholesome states to diminish and wholesome states to increase in one who cultivates them should be cultivated.
+#### (PHẦN TRÌNH BÀY THỨ BA)
 
-"So it was with reference to this that it was said by the Blessed One: 'Sāriputta, robes are of two kinds, I say: to be cultivated and not to be cultivated.'
+39\. "Này Xá Lợi Phất, y phục có hai loại, Ta nói: nên sử dụng (tu tập ở đây mang nghĩa sử dụng, thọ dụng) và không nên sử dụng. Vật thực khất thực có hai loại, Ta nói: nên sử dụng và không nên sử dụng. Chỗ ở có hai loại, Ta nói: nên sử dụng và không nên sử dụng. Làng mạc có hai loại, Ta nói: nên lui tới và không nên lui tới. Thị trấn có hai loại, Ta nói: nên lui tới và không nên lui tới. Thành phố có hai loại, Ta nói: nên lui tới và không nên lui tới. Vùng miền (quận) có hai loại, Ta nói: nên lui tới và không nên lui tới. Hạng người có hai loại, Ta nói: nên gần gũi (tu tập ở đây mang nghĩa thân cận, giao du) và không nên gần gũi." [59]
 
-42. "'Almsfood is of two kinds, I say'...
+40\. Khi nghe vậy, Tôn giả Xá Lợi Phất bạch Đức Thế Tôn: "Bạch Thế Tôn, con hiểu ý nghĩa chi tiết lời dạy của Thế Tôn, mà Ngài đã nói tóm tắt không giải thích chi tiết, là như thế này:
 
-43. "'Resting places are of two kinds, I say'...
+41\. "'Này Xá Lợi Phất, y phục có hai loại, Ta nói: nên sử dụng và không nên sử dụng.' Đức Thế Tôn đã dạy như vậy. Và điều này được nói liên quan đến cái gì?
 
-44. "'Villages are of two kinds, I say'...
+"Bạch Thế Tôn, loại y phục nào mà khi sử dụng khiến các pháp bất thiện tăng trưởng và các pháp thiện suy giảm, thì không nên sử dụng. Nhưng loại y phục nào mà khi sử dụng khiến các pháp bất thiện suy giảm và các pháp thiện tăng trưởng, thì nên sử dụng.
 
-45. "'Towns are of two kinds, I say'...
+"Vì vậy, chính là liên quan đến điều này mà Đức Thế Tôn đã dạy: 'Này Xá Lợi Phất, y phục có hai loại, Ta nói: nên sử dụng và không nên sử dụng.'
 
-46. "'Cities are of two kinds, I say'...
+42\. "'Vật thực khất thực có hai loại, Ta nói'... (Giải thích tương tự như đoạn 41)
 
-47. "'Districts are of two kinds, I say'...
+43\. "'Chỗ ở có hai loại, Ta nói'... (Giải thích tương tự như đoạn 41)
 
-48. "'Persons are of two kinds, I say: to be cultivated and not to be cultivated.' So it was said by the Blessed One. And with reference to what was this said?
+44\. "'Làng mạc có hai loại, Ta nói'... (Giải thích tương tự như đoạn 41, thay "sử dụng" bằng "lui tới")
 
-"Venerable sir, [association with] such persons as causes unwholesome states to increase and wholesome states to diminish in one who cultivates it should not be cultivated. But [association with] such persons as causes unwholesome states to diminish and wholesome states to increase in one who cultivates it should be cultivated.
+45\. "'Thị trấn có hai loại, Ta nói'... (Giải thích tương tự như đoạn 44)
 
-"So it was with reference to this that it was said by the Blessed One: 'Persons are of two kinds, I say: to be cultivated and not to be cultivated.'
+46\. "'Thành phố có hai loại, Ta nói'... (Giải thích tương tự như đoạn 44)
 
-49. "Venerable sir, I understand the detailed meaning of the Blessed One's utterance, which he has spoken in brief without expounding the detailed meaning, to be thus."
+47\. "'Vùng miền (quận) có hai loại, Ta nói'... (Giải thích tương tự như đoạn 44)
 
-#### (THIRD APPROVAL AND RECAPITULATION)
+48\. "'Hạng người có hai loại, Ta nói: nên gần gũi và không nên gần gũi.' Đức Thế Tôn đã dạy như vậy. Và điều này được nói liên quan đến cái gì?
 
-50. "Good, good, Sāriputta! It is good that you understand the detailed meaning of my utterance, which I spoke in brief without expounding the detailed meaning, to be thus.
+"Bạch Thế Tôn, [việc giao du với] hạng người nào mà khi gần gũi khiến các pháp bất thiện tăng trưởng và các pháp thiện suy giảm, thì không nên gần gũi. Nhưng [việc giao du với] hạng người nào mà khi gần gũi khiến các pháp bất thiện suy giảm và các pháp thiện tăng trưởng, thì nên gần gũi.
 
-51-58. (In these paragraphs the Buddha repeats verbatim §§41-48 with the necessary substitutions.) [60]
+"Vì vậy, chính là liên quan đến điều này mà Đức Thế Tôn đã dạy: 'Hạng người có hai loại, Ta nói: nên gần gũi và không nên gần gũi.'
 
-59. "Sāriputta, the detailed meaning of my utterance, which I spoke in brief, should be regarded thus.
+49\. "Bạch Thế Tôn, con hiểu ý nghĩa chi tiết lời dạy của Thế Tôn, mà Ngài đã nói tóm tắt không giải thích chi tiết, là như thế này."
 
-#### (CONCLUSION)
+#### (PHẦN CHẤP THUẬN VÀ TÓM TẮT LẦN THỨ BA)
 
-60. "Sāriputta, if all nobles understood thus the detailed meaning of my utterance, which I spoke in brief, it would lead to their welfare and happiness for a long time. [^1076] If all brahmins...all merchants...all workers understood thus the meaning of my utterance, which I spoke in brief, it would lead to their welfare and happiness for a long time. If the world with its gods, its Māras, and its Brahmās, this generation with its recluses and brahmins, its princes and its people, understood thus the detailed meaning of my utterance, which I spoke in brief, it would lead to the welfare and happiness of the world for a long time." [61]
+50\. "Lành thay, lành thay, Xá Lợi Phất! Thật tốt khi ông hiểu ý nghĩa chi tiết lời dạy của Ta, mà Ta đã nói tóm tắt không giải thích chi tiết, là như vậy.
 
-That is what the Blessed One said. The venerable Sāriputta was satisfied and delighted in the Blessed One's words.
+51-58. (Trong các đoạn này, Đức Phật lặp lại nguyên văn các đoạn §§41-48 với những thay đổi cần thiết về đại từ.) [60]
+
+59\. "Này Xá Lợi Phất, ý nghĩa chi tiết lời dạy của Ta, mà Ta đã nói tóm tắt, nên được hiểu là như vậy.
+
+#### (KẾT LUẬN)
+
+60\. "Này Xá Lợi Phất, nếu tất cả giai cấp Sát đế lợi (quý tộc, vua chúa) hiểu được ý nghĩa chi tiết lời dạy của Ta, mà Ta đã nói tóm tắt, như vậy, điều đó sẽ dẫn đến lợi ích và hạnh phúc lâu dài cho họ. [^1076] Nếu tất cả giai cấp Bà la môn (tu sĩ, trí thức)... tất cả giai cấp Phệ xá (thương gia, nông dân)... tất cả giai cấp Thủ đà la (thợ thuyền, người làm công) hiểu được ý nghĩa lời dạy của Ta, mà Ta đã nói tóm tắt, như vậy, điều đó sẽ dẫn đến lợi ích và hạnh phúc lâu dài cho họ. Nếu thế giới cùng với chư Thiên, Ma vương, và Phạm thiên, thế hệ này cùng với các vị Sa môn và Bà la môn, các vua chúa và dân chúng, hiểu được ý nghĩa chi tiết lời dạy của Ta, mà Ta đã nói tóm tắt, như vậy, điều đó sẽ dẫn đến lợi ích và hạnh phúc lâu dài cho thế giới." [61]
+
+Đó là những gì Đức Thế Tôn đã dạy. Tôn giả Xá Lợi Phất đã hoan hỷ và tín thọ lời dạy của Đức Thế Tôn.
+
+<!--pg-->
+Từ ngữ:
+- Tỳ kheo / Bhikkhu / Monk: Nhà sư Phật giáo đã thọ giới cụ túc, thường dịch là "khất sĩ" vì sống nhờ vào sự cúng dường của thí chủ.
+- Thân hành / Kāya-samācāra / Bodily conduct: Hành động, cách cư xử biểu hiện qua thân thể.
+- Khẩu hành / Vacī-samācāra / Verbal conduct: Hành động, cách cư xử biểu hiện qua lời nói.
+- Ý hành / Mano-samācāra / Mental conduct: Hành động, cách cư xử biểu hiện qua ý nghĩ, tư tưởng.
+- Khuynh hướng tâm ý / (Possibly Citta-samuṭṭhāna or similar) / Inclination of mind: Xu thế, chiều hướng tự nhiên của tâm, thường liên quan đến các trạng thái tâm thiện hoặc bất thiện tiềm ẩn.
+- Sự thủ đắc nhận thức / Saññā-paṭilābha / Acquisition of perception: Việc hình thành, có được một loại nhận thức, cách tri giác nào đó về thế giới.
+- Sự thủ đắc tri kiến / Diṭṭhi-paṭilābha / Acquisition of view: Việc hình thành, có được một quan điểm, một hệ thống niềm tin hay cách nhìn nhận về thực tại.
+- Sự thủ đắc bản thể cá nhân / Attabhāva-paṭilābha / Acquisition of individuality: Việc hình thành, có được một đời sống cá nhân, một sự hiện hữu riêng biệt trong vòng luân hồi, thường gắn liền với năm uẩn.
+- Pháp bất thiện / Akusala dhamma / Unwholesome states: Các trạng thái tâm tiêu cực, có hại, gây khổ đau cho mình và người khác, ví dụ tham, sân, si, và các hành động phát sinh từ chúng.
+- Pháp thiện / Kusala dhamma / Wholesome states: Các trạng thái tâm tích cực, lợi ích, mang lại an vui cho mình và người khác, ví dụ không tham, không sân, không si (hoặc trí tuệ), và các hành động phát sinh từ chúng.
+- Định tâm / Samādhi / Concentration: Sự tập trung tâm ý vào một đối tượng duy nhất, một trạng thái tâm vững vàng, không dao động.
+- Giáo Pháp / Dhamma / Dhamma: Lời dạy của Đức Phật, chân lý về thực tại.
+- Giới Luật / Vinaya / Discipline: Các quy tắc ứng xử và đạo đức dành cho tu sĩ và cư sĩ Phật giáo.
+- Chúng sinh hóa sinh / Opapātika / Spontaneously reborn beings: Chúng sinh sinh ra một cách đột ngột, không qua bào thai (thai sinh) hay trứng (noãn sinh), như chư thiên, ngạ quỷ, chúng sinh địa ngục.
+- Sa môn / Samaṇa / Recluse: Người xuất gia, từ bỏ đời sống thế tục để tu tập tâm linh, tìm cầu giải thoát.
+- Bà la môn / Brāhmaṇa / Brahmin: Thành viên của giai cấp tu sĩ và trí thức trong xã hội Ấn Độ cổ đại; trong ngữ cảnh Phật giáo, thường chỉ những người tu tập theo truyền thống Vệ Đà hoặc những người có phẩm hạnh cao quý.
+- Thắng trí / Abhiññā / Direct knowledge: Sự hiểu biết trực tiếp, siêu việt, thấu suốt thực tại, vượt qua kiến thức thông thường, thường bao gồm các năng lực tâm linh đặc biệt.
+- Phiền não / Kilesa / Affliction/Defilement: Các trạng thái tâm tiêu cực làm ô nhiễm tâm trí và dẫn đến khổ đau, như tham, sân, si, ngã mạn, nghi ngờ, tà kiến.
+- Chấm dứt sự hiện hữu / Bhavanirodha / End of being: Sự chấm dứt vòng luân hồi sinh tử, đạt đến Niết Bàn.
+- Hình sắc / Rūpa / Forms: Đối tượng của mắt, những gì được nhìn thấy.
+- Âm thanh / Sadda / Sounds: Đối tượng của tai, những gì được nghe thấy.
+- Mùi hương / Gandha / Odours: Đối tượng của mũi, những gì được ngửi thấy.
+- Vị / Rasa / Flavours: Đối tượng của lưỡi, những gì được nếm.
+- Cảm giác xúc chạm / Phoṭṭhabba / Tangibles: Đối tượng của thân, những gì được cảm nhận qua sự tiếp xúc.
+- Đối tượng của ý / Dhammā / Mind-objects: Đối tượng của tâm ý, bao gồm các ý nghĩ, cảm xúc, ký ức, khái niệm, và các trạng thái tâm khác.
+- Chư Thiên / Deva / Gods: Các chúng sinh sống ở các cõi trời, có phước báo và tuổi thọ dài hơn con người nhưng vẫn trong vòng luân hồi.
+- Ma vương / Māra / Māra: Hiện thân của sự cám dỗ, trở ngại trên con đường tu tập, có thể hiểu là ma vương theo nghĩa đen hoặc các phiền não, cái chết, ngũ uẩn.
+- Phạm thiên / Brahmā / Brahmā: Các chúng sinh cao cấp sống ở các cõi trời sắc giới và vô sắc giới, có thiền định sâu sắc nhưng vẫn trong vòng luân hồi.

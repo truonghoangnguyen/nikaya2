@@ -1,4 +1,4 @@
-# 40 The Shorter Discourse at Assapura
+# 40. The Shorter Discourse at Assapura
 ***(Cala-Assapura Sutta)***
 
 [281] 1. Thus have I heard. On one occasion the Blessed One was living in the Angan country at a town of the Angans named Assapura. There the Blessed One addressed the bhikkhus thus: "Bhikkhus." - "Venerable sir," they replied. The Blessed One said this:

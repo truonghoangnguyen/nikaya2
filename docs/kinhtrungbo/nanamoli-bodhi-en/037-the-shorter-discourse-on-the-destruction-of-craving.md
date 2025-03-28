@@ -1,4 +1,4 @@
-# 37 The Shorter Discourse on the Destruction of Craving
+# 37. The Shorter Discourse on the Destruction of Craving
 ***(Cūḷataṇhāsankhaya Sutta)***
 
 1\. Thus have I heard. On one occasion the Blessed One was living at Sāvatthī in the Eastern Park, in the Palace of Migāra's Mother.

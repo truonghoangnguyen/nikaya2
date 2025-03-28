@@ -1,4 +1,4 @@
-# 30 Tiểu Kinh Ví Dụ Lõi Cây
+# 30. Tiểu Kinh Ví Dụ Lõi Cây
 ***(Cūḷasāropama Sutta)***
 
 [198] 1. Tôi nghe như vầy. Một thời, Thế Tôn trú ở Sāvatthī (Xá Vệ), tại khu rừng Jeta (Kỳ Đà), vườn của ông Anāthapiṇḍika (Cấp Cô Độc).

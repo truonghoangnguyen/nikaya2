@@ -1,91 +1,106 @@
-# 97 To Dhānañjāni
+# 97. Kinh Gửi Dhānañjāni
 ***(Dhānañjāni Sutta)***
 
-1. Thus have I heard. On one occasion the Blessed One was living at Rājagaha in the Bamboo Grove, the Squirrels' Sanctuary.
+1\.  Tôi nghe như vầy. Một thời, Thế Tôn trú tại thành Vương Xá (Rājagaha), trong Rừng Trúc, Khu Nuôi Sóc (Veluvana Kalandakanivāpa).
 
-2. Now on that occasion the venerable Sāriputta was wandering in the Southern Hills with a large Sangha of bhikkhus. Then a certain [185] bhikkhu who had spent the Rains at Rājagaha went to the venerable Sāriputta in the Southern Hills and exchanged greetings with him. When this courteous and amiable talk was finished, he sat down at one side and the venerable Sāriputta asked him: "Is the Blessed One well and strong, friend?"
+2\.  Khi ấy, Tôn giả Xá Lợi Phất (Sāriputta) đang du hành ở vùng Đồi Phương Nam cùng với một Tăng đoàn đông đảo các tỳ kheo (bhikkhus - các vị sư nam đã thọ giới cụ túc). Lúc đó, một vị tỳ kheo [185] đã an cư mùa mưa tại thành Vương Xá, tìm đến Tôn giả Xá Lợi Phất ở vùng Đồi Phương Nam và chào hỏi ngài. Sau khi thăm hỏi xã giao thân tình xong, vị ấy ngồi xuống một bên và Tôn giả Xá Lợi Phất hỏi vị ấy: "Này hiền giả, Thế Tôn vẫn khỏe mạnh chứ?"
 
-"The Blessed One is well and strong, friend."
+    "Thưa Tôn giả, Thế Tôn vẫn khỏe mạnh."
 
-"Is the Sangha of bhikkhus well and strong, friend?"
+    "Tăng đoàn các tỳ kheo vẫn khỏe mạnh chứ, hiền giả?"
 
-"The Sangha of bhikkhus too is well and strong, friend."
+    "Thưa Tôn giả, Tăng đoàn các tỳ kheo cũng vẫn khỏe mạnh."
 
-"Friend, there is a brahmin named Dhānañjāni living in Rājagaha at the Tandulapāla Gate. Is that brahmin Dhānañjāni well and strong?"
+    "Này hiền giả, có một vị Bà-la-môn tên là Dhānañjāni sống ở thành Vương Xá, tại cổng Tandulapāla. Vị Bà-la-môn Dhānañjāni đó vẫn khỏe mạnh chứ?"
 
-"That brahmin Dhānañjāni too is well and strong, friend."
+    "Thưa Tôn giả, vị Bà-la-môn Dhānañjāni đó cũng vẫn khỏe mạnh."
 
-"Is he diligent, friend?"
+    "Này hiền giả, ông ấy có tinh tấn không?"
 
-"How could he be diligent, friend? He plunders brahmin householders in the name of the king, and he plunders the king in the name of the brahmin householders. His wife, who had faith and came from a clan with faith, has died and he has taken another wife, a woman without faith who comes from a clan without faith."
+    "Làm sao ông ấy có thể tinh tấn được, thưa Tôn giả? Ông ấy lợi dụng danh nghĩa nhà vua để bóc lột các gia chủ Bà-la-môn, và lợi dụng danh nghĩa các gia chủ Bà-la-môn để bóc lột nhà vua. Người vợ có đức tin (faith - niềm tin vào Tam Bảo và nghiệp báo) và xuất thân từ gia tộc có đức tin của ông ấy đã qua đời, và ông ấy đã cưới một người vợ khác, một phụ nữ không có đức tin, xuất thân từ gia tộc không có đức tin."
 
-"This is bad news that we hear, friend. It is bad news indeed to hear that the brahmin Dhānañjāni has become negligent. Perhaps sometime or other we might meet the brahmin Dhānañjāni and have some conversation with him."
+    "Đây quả là tin xấu mà chúng ta nghe được, hiền giả. Thật là tin xấu khi nghe rằng Bà-la-môn Dhānañjāni đã trở nên phóng dật (negligent - sự lơ là, không chú tâm vào việc thiện). Có lẽ một lúc nào đó chúng ta có thể gặp Bà-la-môn Dhānañjāni và trò chuyện với ông ấy."
 
-3. Then, having stayed in the Southern Hills as long as he chose, the venerable Sāriputta set out to wander towards
+3\.  Sau đó, sau khi lưu lại vùng Đồi Phương Nam tùy ý, Tôn giả Xá Lợi Phất lên đường du hành về hướng thành Vương Xá. Du hành qua nhiều chặng, cuối cùng ngài cũng đến thành Vương Xá và trú tại Rừng Trúc, Khu Nuôi Sóc.
 
-Rājagaha. Wandering by stages he eventually arrived at Rājagaha, and there he lived in the Bamboo Grove, the Squirrels' Sanctuary.
+4\.  Rồi vào buổi sáng, Tôn giả Xá Lợi Phất đắp y, mang bát, vào thành Vương Xá để khất thực. [186] Lúc đó, Bà-la-môn Dhānañjāni đang cho vắt sữa bò trong chuồng bò bên ngoài thành. Sau khi Tôn giả Xá Lợi Phất đi khất thực trong thành Vương Xá về, sau bữa ăn, ngài đến gặp Bà-la-môn Dhānañjāni. Bà-la-môn Dhānañjāni thấy Tôn giả Xá Lợi Phất từ xa đi tới, liền đến gặp ngài và nói: "Kính mời Tôn giả Xá Lợi Phất dùng chút sữa tươi này, bây giờ vẫn còn giờ dùng bữa."
 
-4. Then, when it was morning, the venerable Sāriputta dressed, and taking his bowl and outer robe, went into Rājagaha for alms. [186] Now at that time the brahmin Dhānañjāni was having his cows milked in a cowshed outside the city. So when the venerable Sāriputta had wandered for alms in Rājagaha and had returned from his almsround, after his meal he went to the brahmin Dhānañjāni. The brahmin Dhānañjāni saw the venerable Sāriputta coming in the distance, and he went to him and said: "Drink some of this fresh milk, Master Sāriputta, until it is time for the meal."
+    "Thôi đủ rồi, này Bà-la-môn, hôm nay tôi đã dùng bữa xong. Tôi sẽ ở lại gốc cây kia để nghỉ ngơi ban ngày. Ông có thể đến đó."
 
-"Enough, brahmin, I have finished my meal for today. I shall be at the root of that tree for the day's abiding. You may come there."
+    "Vâng, thưa ngài," ông ấy đáp.
 
-"Yes, sir," he replied.
+5\.  Rồi sau khi dùng bữa sáng xong, Bà-la-môn Dhānañjāni đến gặp Tôn giả Xá Lợi Phất và chào hỏi ngài. Sau khi thăm hỏi xã giao thân tình xong, ông ngồi xuống một bên và Tôn giả Xá Lợi Phất hỏi ông: "Này Dhānañjāni, ông có tinh tấn không?"
 
-5. And then, after he had eaten his morning meal, the brahmin Dhānañjāni went to the venerable Sāriputta and exchanged greetings with him. When this courteous and amiable talk was finished, he sat down at one side and the venerable Sāriputta asked him: "Are you diligent, Dhānañjāni?"
+    "Làm sao chúng tôi có thể tinh tấn được, thưa Tôn giả Xá Lợi Phất, khi chúng tôi phải nuôi dưỡng cha mẹ, vợ con, nô tỳ, người làm công; khi phải làm bổn phận với bạn bè, thân quyến, khách khứa, tổ tiên đã khuất, chư thiên, và nhà vua; và khi tấm thân này cũng cần được bồi bổ, nuôi dưỡng?"
 
-"How can we be diligent, Master Sāriputta, when we have to support our parents, our wife and children, and our slaves, servants, and workers; when we have to do our duty towards our friends and companions, towards our kinsmen and relatives, towards our guests, towards our departed ancestors, towards the deities, and towards the king; and when this body must also be refreshed and nourished?"
+6\.  "Này Dhānañjāni, ông nghĩ sao? Giả sử có người ở đây hành xử trái Pháp (contrary to the Dhamma - đi ngược lại lời dạy của Đức Phật, làm điều sai trái), phi pháp (unrighteously - không đúng đắn, bất chính) vì cha mẹ mình, rồi vì hành vi đó mà bị các quản ngục địa ngục lôi xuống địa ngục. Liệu người đó có thể [tự cứu mình bằng cách van xin]: 'Tôi đã hành xử trái Pháp, phi pháp là vì cha mẹ tôi, xin các quản ngục địa ngục đừng [lôi tôi] xuống địa ngục' không? [187] Hay cha mẹ người đó có thể [cứu con mình bằng cách van xin]: 'Nó đã hành xử trái Pháp, phi pháp là vì chúng tôi, xin các quản ngục địa ngục đừng [lôi nó] xuống địa ngục' không?"
 
-6. "What do you think, Dhānañjāni? Suppose someone here were to behave contrary to the Dhamma, to behave unrighteously for the sake of his parents, and then because of such behaviour the wardens of hell were to drag him off to hell. Would he be able [to free himself by pleading thus]: 'It was for the sake of my parents that I behaved contrary to the Dhamma, that I behaved unrighteously, so let not the wardens of hell [drag me off] to hell'? [187] Or would his parents be able [to free him by pleading thus]: 'It was for our sake that he behaved contrary to the Dhamma, that he behaved unrighteously, so let not the wardens of hell [drag him off] to hell'?"
-"No, Master Sāriputta. Even while he was crying out, the wardens of hell would fling him into hell."
+    "Không, thưa Tôn giả Xá Lợi Phất. Dù người đó có kêu la, các quản ngục địa ngục vẫn sẽ quăng người đó vào địa ngục."
 
-7-15. "What do you think, Dhānañjāni? Suppose someone here were to behave contrary to the Dhamma, to behave unrighteously for the sake of his wife and children...for the sake of his slaves, servants, and workers...for the sake of his friends and companions...for the sake of his kinsmen and relatives...for the sake of his guests...[188] for the sake of his departed ancestors...for the sake of the deities...for the sake of the king...for the sake of refreshing and nourishing this body, and because of such behaviour the wardens of hell were to drag him off to hell. Would he be able [to free himself by pleading thus]: 'It was for the sake of refreshing and nourishing this body that I behaved contrary to the Dhamma, that I behaved unrighteously, so let not the wardens of hell [drag me off] to hell'? Or would others be able [to free him by pleading thus]: 'It was for the sake of refreshing and nourishing this body that he behaved contrary to the Dhamma, that he behaved unrighteously, so let not the wardens of hell [drag him off] to hell'?"
+7-15. "Này Dhānañjāni, ông nghĩ sao? Giả sử có người ở đây hành xử trái Pháp, phi pháp vì vợ con... vì nô tỳ, người làm công... vì bạn bè... vì thân quyến... vì khách khứa... [188] vì tổ tiên đã khuất... vì chư thiên... vì nhà vua... vì bồi bổ, nuôi dưỡng thân này, và vì hành vi đó mà bị các quản ngục địa ngục lôi xuống địa ngục. Liệu người đó có thể [tự cứu mình bằng cách van xin]: 'Tôi đã hành xử trái Pháp, phi pháp là vì bồi bổ, nuôi dưỡng thân này, xin các quản ngục địa ngục đừng [lôi tôi] xuống địa ngục' không? Hay những người khác có thể [cứu người đó bằng cách van xin]: 'Nó đã hành xử trái Pháp, phi pháp là vì bồi bổ, nuôi dưỡng thân này, xin các quản ngục địa ngục đừng [lôi nó] xuống địa ngục' không?"
 
-"No, Master Sāriputta. Even while he was crying out, the wardens of hell would fling him into hell."
+    "Không, thưa Tôn giả Xá Lợi Phất. Dù người đó có kêu la, các quản ngục địa ngục vẫn sẽ quăng người đó vào địa ngục."
 
-16. "What do you think, Dhānañjāni? Who is the better, one who for the sake of his parents behaves contrary to the Dhamma, behaves unrighteously, or one who for the sake of his parents behaves according to the Dhamma, behaves righteously?"
+16\. "Này Dhānañjāni, ông nghĩ sao? Giữa người vì cha mẹ mà hành xử trái Pháp, phi pháp, và người vì cha mẹ mà hành xử đúng Pháp (according to the Dhamma - thuận theo lời dạy của Đức Phật, làm điều đúng đắn), đúng đắn (righteously - chân chính, hợp lẽ phải), ai tốt hơn?"
 
-"Master Sāriputta, the one who for the sake of his parents behaves contrary to the Dhamma, behaves unrighteously, is not the better; the one who for the sake of his parents behaves according to the Dhamma, behaves righteously, is the better."
+    "Thưa Tôn giả Xá Lợi Phất, người vì cha mẹ mà hành xử trái Pháp, phi pháp, không tốt hơn; người vì cha mẹ mà hành xử đúng Pháp, đúng đắn, mới là người tốt hơn."
 
-"Dhānañjāni, there are other kinds of work, profitable and in accordance with the Dhamma, by means of which one can support one's parents and at the same time both avoid doing evil and practise merit.
+    "Này Dhānañjāni, có những công việc khác, vừa có lợi ích vừa phù hợp với Pháp, nhờ đó người ta có thể nuôi dưỡng cha mẹ, đồng thời tránh làm điều ác và thực hành điều thiện (practise merit - làm các việc tốt lành, tạo công đức)."
 
-17-25. "What do you think, Dhānañjāni? Who is the better, one who for the sake of his wife and children...[189]...for the sake of his slaves, servants, and workers...for the sake of his friends and companions...[190]...for the sake of his kinsmen and relatives...for the sake of his guests...for the sake of his departed ancestors...for the sake of the deities...[191]...for the
-sake of the king...for the sake of refreshing and nourishing this body behaves contrary to the Dhamma, behaves unrighteously, or one who for the sake of refreshing and nourishing this body behaves according to the Dhamma, behaves righteously?"
+17-25. "Này Dhānañjāni, ông nghĩ sao? Ai tốt hơn, người vì vợ con... [189]... vì nô tỳ, người làm công... vì bạn bè... [190]... vì thân quyến... vì khách khứa... vì tổ tiên đã khuất... vì chư thiên... [191]... vì nhà vua... vì bồi bổ và nuôi dưỡng thân này mà hành xử trái Pháp, phi pháp, hay người vì bồi bổ và nuôi dưỡng thân này mà hành xử đúng Pháp, đúng đắn?"
 
-"Master Sāriputta, the one who for the sake of refreshing and nourishing this body behaves contrary to the Dhamma, behaves unrighteously, is not the better; the one who for the sake of refreshing and nourishing this body behaves according to the Dhamma, behaves righteously, is the better."
+    "Thưa Tôn giả Xá Lợi Phất, người vì bồi bổ và nuôi dưỡng thân này mà hành xử trái Pháp, phi pháp, không tốt hơn; người vì bồi bổ và nuôi dưỡng thân này mà hành xử đúng Pháp, đúng đắn, mới là người tốt hơn."
 
-"Dhānañjāni, there are other kinds of work, profitable and in accordance with the Dhamma, by means of which one can refresh and nourish this body and at the same time both avoid doing evil and practise merit."
+    "Này Dhānañjāni, có những công việc khác, vừa có lợi ích vừa phù hợp với Pháp, nhờ đó người ta có thể bồi bổ và nuôi dưỡng thân này, đồng thời tránh làm điều ác và thực hành điều thiện."
 
-26. Then the brahmin Dhānañjāni, having delighted and rejoiced in the venerable Sāriputta's words, rose from his seat and departed.
+26\. Lúc đó, Bà-la-môn Dhānañjāni, sau khi hoan hỷ và vui mừng với lời dạy của Tôn giả Xá Lợi Phất, đã từ chỗ ngồi đứng dậy và ra về.
 
-27. On a later occasion the brahmin Dhānañjāni became afflicted, suffering, and gravely ill. Then he told a man: "Come, good man, [192] go to the Blessed One, pay homage in my name with your head at his feet, and say: 'Venerable sir, the brahmin Dhānañjāni is afflicted, suffering, and gravely ill; he pays homage with his head at the Blessed One's feet.' Then go to the venerable Sāriputta, pay homage in my name with your head at his feet, and say: 'Venerable sir, the brahmin Dhānañjāni is afflicted, suffering, and gravely ill; he pays homage with his head at the venerable Sāriputta's feet.' Then say thus: 'It would be good, venerable sir, if the venerable Sāriputta would come to the house of the brahmin Dhānañjāni, out of compassion.'"
+27\. Vào một dịp khác, Bà-la-môn Dhānañjāni bị bệnh, đau đớn, lâm trọng bệnh. Ông liền bảo một người: "Này bạn, [192] hãy đến gặp Thế Tôn, nhân danh tôi cúi đầu đảnh lễ dưới chân ngài và thưa: 'Bạch Thế Tôn, Bà-la-môn Dhānañjāni đang bị bệnh, đau đớn, lâm trọng bệnh; ông ấy cúi đầu đảnh lễ dưới chân Thế Tôn.' Rồi hãy đến gặp Tôn giả Xá Lợi Phất, nhân danh tôi cúi đầu đảnh lễ dưới chân ngài và thưa: 'Bạch Tôn giả, Bà-la-môn Dhānañjāni đang bị bệnh, đau đớn, lâm trọng bệnh; ông ấy cúi đầu đảnh lễ dưới chân Tôn giả.' Rồi thưa tiếp: 'Kính mong Tôn giả, vì lòng bi mẫn (compassion - lòng thương xót chúng sinh đang đau khổ), đến thăm nhà Bà-la-môn Dhānañjāni thì tốt biết mấy.'"
 
-"Yes, venerable sir," the man replied, and he went to the Blessed One, and after paying homage to the Blessed One, he sat down at one side and delivered his message. Then he went to the venerable Sāriputta and after paying homage to the venerable Sāriputta, he delivered his message, saying: "It would be good, venerable sir, if the venerable Sāriputta would come to the residence of the brahmin Dhānañjāni, out of compassion." The venerable Sāriputta consented in silence.
+    "Vâng, thưa ngài," người đó đáp, rồi đi đến gặp Thế Tôn, sau khi đảnh lễ Thế Tôn, người đó ngồi xuống một bên và truyền lại lời nhắn. Sau đó, người đó đến gặp Tôn giả Xá Lợi Phất, sau khi đảnh lễ Tôn giả Xá Lợi Phất, người đó truyền lại lời nhắn và thưa: "Kính mong Tôn giả, vì lòng bi mẫn, đến thăm nhà Bà-la-môn Dhānañjāni thì tốt biết mấy." Tôn giả Xá Lợi Phất im lặng nhận lời.
 
-28. Then the venerable Sāriputta dressed, and taking his bowl and outer robe, he went to the residence of the brahmin Dhānañjāni, sat down on a seat made ready, and said to the brahmin Dhānañjāni: "I hope you are getting well, brahmin, I
-hope you are comfortable. I hope your painful feelings are subsiding and not increasing, and that their subsiding, not their increase, is apparent."
+28\. Sau đó, Tôn giả Xá Lợi Phất đắp y, mang bát, đến nhà Bà-la-môn Dhānañjāni, ngồi xuống chỗ đã soạn sẵn và nói với Bà-la-môn Dhānañjāni: "Này Bà-la-môn, tôi mong ông khỏe hơn, dễ chịu hơn. Mong rằng các cảm giác đau đớn của ông đang giảm bớt chứ không tăng lên, và sự giảm bớt ấy, chứ không phải sự tăng lên, là rõ ràng."
 
-29. "Master Sāriputta, I am not getting well, I am not comfortable. My painful feelings are increasing, not subsiding; their increase and not their subsiding is apparent. Just as if [193] a strong man were splitting my head open with a sharp sword, so too, violent winds cut through my head. I am not getting well...Just as if a strong man were tightening a tough leather strap around my head as a headband, so too, there are violent pains in my head. I am not getting well...Just as if a skilled butcher or his apprentice were to carve up an ox's belly with a sharp butcher's knife, so too, violent winds are carving up my belly. I am not getting well...Just as if two strong men were to seize a weaker man by both arms and roast him over a pit of hot coals, so too, there is a violent burning in my body. I am not getting well, I am not comfortable. My painful feelings are increasing, not subsiding; their increase and not their subsiding is apparent."
+29\. "Thưa Tôn giả Xá Lợi Phất, tôi không khỏe hơn, không dễ chịu hơn. Cảm giác đau đớn của tôi đang tăng lên, không giảm bớt; sự tăng lên của chúng, chứ không phải sự giảm bớt, là rõ ràng. Ví như [193] một người lực sĩ dùng gươm sắc bổ vào đầu tôi, cũng vậy, những cơn gió dữ dội cắt xuyên qua đầu tôi. Tôi không khỏe hơn... Ví như một người lực sĩ dùng dây da cứng siết chặt quanh đầu tôi như một vòng đeo đầu, cũng vậy, đầu tôi đau đớn dữ dội. Tôi không khỏe hơn... Ví như một người đồ tể lành nghề hay phụ việc của ông ta dùng dao mổ sắc bén rạch bụng bò, cũng vậy, những cơn gió dữ dội đang cắt xé bụng tôi. Tôi không khỏe hơn... Ví như hai người lực sĩ nắm hai tay một người yếu hơn mà nướng trên hố than hồng, cũng vậy, thân tôi nóng bỏng dữ dội. Tôi không khỏe hơn, không dễ chịu hơn. Cảm giác đau đớn của tôi đang tăng lên, không giảm bớt; sự tăng lên của chúng, chứ không phải sự giảm bớt, là rõ ràng."
 
-30. "What do you think, Dhānañjāni? Which is better - hell or the animal realm?" - "The animal realm, Master Sāriputta." "Which is better - the animal realm or the realm of ghosts?" "The realm of ghosts, Master Sāriputta." - "Which is better - the realm of ghosts or the realm of human beings?" - "Human beings, Master Sāriputta." [194] "Which is better - human beings or the gods of the heaven of the Four Great Kings?" "The gods of the heaven of the Four Great Kings, Master Sāriputta." - "Which is better - the gods of the heaven of the Four Great Kings or the gods of the heaven of the Thirty-three?" - "The gods of the heaven of the Thirty-three, Master Sāriputta." - "Which is better - the gods of the heaven of the Thirty-three or the Yāma gods?" - "The Yāma gods, Master Sāriputta." "Which is better - the Yāma gods or the gods of the Tusita heaven?" - "The gods of the Tusita heaven, Master Sāriputta." "Which is better - the gods of the Tusita heaven or the gods who delight in creating?" - "The gods who delight in creating, Master Sāriputta." - "Which is better - the gods who delight in creating or the gods who wield power over others' creations?" "The gods who wield power over others' creations, Master Sāriputta."
+30\. "Này Dhānañjāni, ông nghĩ sao? Cõi nào tốt hơn – địa ngục hay cõi súc sinh?" - "Thưa Tôn giả Xá Lợi Phất, cõi súc sinh tốt hơn." "Cõi nào tốt hơn – cõi súc sinh hay cõi ngạ quỷ?" - "Thưa Tôn giả Xá Lợi Phất, cõi ngạ quỷ tốt hơn." - "Cõi nào tốt hơn – cõi ngạ quỷ hay cõi người?" - "Thưa Tôn giả Xá Lợi Phất, cõi người tốt hơn." [194] "Cõi nào tốt hơn – cõi người hay chư thiên ở cõi trời Tứ Đại Thiên Vương?" - "Thưa Tôn giả Xá Lợi Phất, chư thiên ở cõi trời Tứ Đại Thiên Vương tốt hơn." - "Cõi nào tốt hơn – chư thiên ở cõi trời Tứ Đại Thiên Vương hay chư thiên ở cõi trời Ba Mươi Ba (Tāvatiṃsa)?" - "Thưa Tôn giả Xá Lợi Phất, chư thiên ở cõi trời Ba Mươi Ba tốt hơn." - "Cõi nào tốt hơn – chư thiên ở cõi trời Ba Mươi Ba hay chư thiên Dạ Ma (Yāma)?" - "Thưa Tôn giả Xá Lợi Phất, chư thiên Dạ Ma tốt hơn." "Cõi nào tốt hơn – chư thiên Dạ Ma hay chư thiên ở cõi trời Đâu Suất (Tusita)?" - "Thưa Tôn giả Xá Lợi Phất, chư thiên ở cõi trời Đâu Suất tốt hơn." "Cõi nào tốt hơn – chư thiên ở cõi trời Đâu Suất hay chư thiên Hóa Lạc Thiên (Nimmānaratī)?" - "Thưa Tôn giả Xá Lợi Phất, chư thiên Hóa Lạc Thiên tốt hơn." - "Cõi nào tốt hơn – chư thiên Hóa Lạc Thiên hay chư thiên Tha Hóa Tự Tại Thiên (Paranimmitavasavattī)?" - "Thưa Tôn giả Xá Lợi Phất, chư thiên Tha Hóa Tự Tại Thiên tốt hơn."
 
-31. "What do you think, Dhānañjāni? Which is better - the gods who wield power over others' creations or the Brahmaworld?" - "Master Sāriputta said 'the Brahma-world.' Master Sāriputta said 'the Brahma-world.'"
+31\. "Này Dhānañjāni, ông nghĩ sao? Cõi nào tốt hơn – chư thiên Tha Hóa Tự Tại Thiên hay cõi Phạm Thiên (Brahma-world - cõi trời của các vị Phạm Thiên, cảnh giới cao hơn các cõi trời dục giới)?" - "Tôn giả Xá Lợi Phất nói 'cõi Phạm Thiên'. Tôn giả Xá Lợi Phất nói 'cõi Phạm Thiên'."
 
-Then the venerable Sāriputta thought: "These brahmins are devoted to the Brahma-world. Suppose I show the brahmin Dhānañjāni the path to the company of Brahmā?" [And he said:] "Dhānañjāni, I shall show you the path to the company of Brahmā. Listen and attend closely to what I shall say." - "Yes, sir," he replied. [195] The venerable Sāriputta said this:
+    Lúc đó, Tôn giả Xá Lợi Phất nghĩ: "Các vị Bà-la-môn này rất hướng về cõi Phạm Thiên. Vậy ta hãy chỉ cho Bà-la-môn Dhānañjāni con đường để được sinh về cõi Phạm Thiên." [Và ngài nói:] "Này Dhānañjāni, tôi sẽ chỉ cho ông con đường để được sinh về cõi Phạm Thiên. Hãy lắng nghe và chú ý kỹ những gì tôi sắp nói." - "Vâng, thưa ngài," ông ấy đáp. [195] Tôn giả Xá Lợi Phất nói như sau:
 
-32. "What is the path to the company of Brahmā? Here, Dhānañjāni, a bhikkhu abides pervading one quarter with a mind imbued with loving-kindness, likewise the second, likewise the third, likewise the fourth; so above, below, around, and everywhere, and to all as to himself, he abides pervading the allencompassing world with a mind imbued with loving-kindness, abundant, exalted, immeasurable, without hostility and without ill will. This is the path to the company of Brahmā.
+32\. "Con đường để được sinh về cõi Phạm Thiên là gì? Này Dhānañjāni, ở đây, một vị tỳ kheo an trú, biến mãn một phương với tâm thấm nhuần lòng từ (loving-kindness/mettā - tâm mong muốn cho tất cả chúng sinh được an lạc, hạnh phúc), cũng vậy với phương thứ hai, phương thứ ba, phương thứ tư; như thế, cùng khắp thế giới, trên, dưới, ngang, khắp nơi, xem tất cả như chính mình, vị ấy an trú, biến mãn thế giới với tâm thấm nhuần lòng từ, quảng đại, cao thượng, vô lượng, không oán hận, không sân độc. Đây là con đường để được sinh về cõi Phạm Thiên.
 
-33-35. "Again, Dhānañjāni, a bhikkhu abides pervading one quarter with a mind imbued with compassion...with a mind imbued with appreciative joy...with a mind imbued with equanimity, likewise the second, likewise the third, likewise the fourth; so above, below, around, and everywhere, and to all as to himself, he abides pervading the all-encompassing world with a mind imbued with equanimity, abundant, exalted, immeasurable, without hostility and without ill will. This too is the path to the company of Brahmā."
+33-35. "Lại nữa, này Dhānañjāni, một vị tỳ kheo an trú, biến mãn một phương với tâm thấm nhuần lòng bi (compassion/karuṇā - tâm mong muốn cho tất cả chúng sinh thoát khỏi đau khổ)... với tâm thấm nhuần lòng hỷ (appreciative joy/muditā - tâm vui mừng với hạnh phúc, thành công của chúng sinh khác)... với tâm thấm nhuần lòng xả (equanimity/upekkhā - tâm giữ được sự bình thản, không thiên vị, không bám chấp hay ghét bỏ trước các trạng thái của chúng sinh), cũng vậy với phương thứ hai, phương thứ ba, phương thứ tư; như thế, cùng khắp thế giới, trên, dưới, ngang, khắp nơi, xem tất cả như chính mình, vị ấy an trú, biến mãn thế giới với tâm thấm nhuần lòng xả, quảng đại, cao thượng, vô lượng, không oán hận, không sân độc. Đây cũng là con đường để được sinh về cõi Phạm Thiên."
 
-33. "Then, Master Sāriputta, pay homage in my name with your head at the Blessed One's feet, and say: 'Venerable sir, the brahmin Dhānañjāni is afflicted, suffering, and gravely ill; he pays homage with his head at the Blessed One's feet.'"
+36\. (Đánh số lại từ 33) "Vậy thì, thưa Tôn giả Xá Lợi Phất, xin hãy nhân danh tôi cúi đầu đảnh lễ dưới chân Thế Tôn và thưa: 'Bạch Thế Tôn, Bà-la-môn Dhānañjāni đang bị bệnh, đau đớn, lâm trọng bệnh; ông ấy cúi đầu đảnh lễ dưới chân Thế Tôn.'"
 
-Then the venerable Sāriputta, having established the brahmin Dhānañjāni in the inferior Brahma-world, rose from his seat and departed while there was still more to be done. [^898] Soon after the venerable Sāriputta had left, the brahmin Dhānañjāni died and reappeared in the Brahma-world.
+37\. (Đánh số lại từ 33) Lúc đó, Tôn giả Xá Lợi Phất, sau khi đã giúp Bà-la-môn Dhānañjāni hướng tâm đến cõi Phạm Thiên thấp (inferior Brahma-world - cõi Phạm Thiên thuộc Sắc giới, nhưng chưa phải là cảnh giới giải thoát cuối cùng), đã từ chỗ ngồi đứng dậy và ra đi khi vẫn còn những điều cao hơn có thể giảng dạy. [^898] Không lâu sau khi Tôn giả Xá Lợi Phất rời đi, Bà-la-môn Dhānañjāni qua đời và tái sinh vào cõi Phạm Thiên.
 
-34. Then the Blessed One addressed the bhikkhus thus: "Bhikkhus, Sāriputta, having established the brahmin Dhānañjāni in the inferior Brahma-world, rose from his seat and departed while there was still more to be done."
+38\. (Đánh số lại từ 34) Lúc đó, Thế Tôn bảo các vị tỳ kheo: "Này các tỳ kheo, Xá Lợi Phất, sau khi đã giúp Bà-la-môn Dhānañjāni hướng tâm đến cõi Phạm Thiên thấp, đã từ chỗ ngồi đứng dậy và ra đi khi vẫn còn những điều cao hơn có thể giảng dạy."
 
-38. Then the venerable Sāriputta went to the Blessed One, and after paying homage to him, he sat down at one side and said: "Venerable sir, the brahmin Dhānañjāni is afflicted, suffering, and gravely ill; he pays homage with his head at the Blessed One's feet."
+39\. (Đánh số lại từ 38) Sau đó, Tôn giả Xá Lợi Phất đến gặp Thế Tôn, sau khi đảnh lễ ngài, liền ngồi xuống một bên và thưa: "Bạch Thế Tôn, Bà-la-môn Dhānañjāni đang bị bệnh, đau đớn, lâm trọng bệnh; ông ấy cúi đầu đảnh lễ dưới chân Thế Tôn."
 
-"Sāriputta, having established the brahmin Dhānañjāni [196] in the inferior Brahma-world, why did you rise from your seat and leave while there was still more to be done?"
+    "Này Xá Lợi Phất, sau khi đã giúp Bà-la-môn Dhānañjāni [196] hướng tâm đến cõi Phạm Thiên thấp, tại sao con lại từ chỗ ngồi đứng dậy và ra đi khi vẫn còn những điều cao hơn có thể giảng dạy?"
 
-"Venerable sir, I thought thus: 'These brahmins are devoted to the Brahma-world. Suppose I show the brahmin Dhānañjāni the path to the company of Brahmā.'"
+    "Bạch Thế Tôn, con đã nghĩ rằng: 'Các vị Bà-la-môn này rất hướng về cõi Phạm Thiên. Vậy con hãy chỉ cho Bà-la-môn Dhānañjāni con đường để được sinh về cõi Phạm Thiên.'"
 
-"Sāriputta, the brahmin Dhānañjāni has died and has reappeared in the Brahma-world."899
+    "Này Xá Lợi Phất, Bà-la-môn Dhānañjāni đã qua đời và đã tái sinh vào cõi Phạm Thiên."[^899]
+
+<!--pg-->
+Từ ngữ:
+- tỳ kheo / bhikkhu / bhikkhu: Vị sư nam đã thọ giới cụ túc trong Phật giáo Theravada, sống đời sống xuất gia, tuân thủ giới luật.
+- đức tin / saddhā / faith: Niềm tin trong sạch, vững chắc vào Tam Bảo (Phật, Pháp, Tăng) và luật nhân quả (nghiệp báo), là nền tảng cho sự thực hành tâm linh.
+- phóng dật / pamāda / negligent: Sự lơ là, dễ duôi, không chú tâm vào việc tu tập thiện pháp, trái ngược với tinh tấn, không phóng dật (appamāda).
+- trái Pháp / adhammacariyā / contrary to the Dhamma: Hành vi, cách cư xử đi ngược lại với Chánh Pháp, tức là lời dạy của Đức Phật về đạo đức và chân lý, làm điều sai trái, bất thiện.
+- phi pháp / adhammacariyā / unrighteously: Hành động không đúng đắn, bất chính, không phù hợp với lẽ phải, đạo đức. Thường đi đôi với "trái Pháp".
+- đúng Pháp / dhammacariyā / according to the Dhamma: Hành vi, cách cư xử thuận theo Chánh Pháp, tức là lời dạy của Đức Phật, làm điều đúng đắn, thiện lành.
+- đúng đắn / dhammacariyā / righteously: Hành động chân chính, hợp lẽ phải, phù hợp với đạo đức. Thường đi đôi với "đúng Pháp".
+- thực hành điều thiện / puññakiriyā / practise merit: Làm các việc tốt lành, tạo công đức, phước báu thông qua các hành động thiện lành về thân, khẩu, ý như bố thí, trì giới, tu thiền.
+- bi mẫn / karuṇā / compassion: Lòng thương xót đối với chúng sinh đang đau khổ và mong muốn cho họ thoát khỏi khổ đau. Đây là một trong Tứ Vô Lượng Tâm.
+- cõi Phạm Thiên / Brahmaloka / Brahma-world: Cõi trời của các vị Phạm Thiên (Brahmā), thuộc Sắc giới và Vô sắc giới trong vũ trụ quan Phật giáo. Đây là cảnh giới tái sinh cao hơn các cõi trời Dục giới, đạt được nhờ tu tập thiền định và các thiện pháp tương ứng, nhưng vẫn nằm trong vòng luân hồi (saṃsāra).
+- lòng từ / mettā / loving-kindness: Tâm mong muốn cho tất cả chúng sinh được an lạc, hạnh phúc, không phân biệt. Đây là một trong Tứ Vô Lượng Tâm.
+- lòng bi / karuṇā / compassion: (Đã giải thích ở "bi mẫn") Tâm mong muốn cho tất cả chúng sinh thoát khỏi đau khổ. Đây là một trong Tứ Vô Lượng Tâm.
+- lòng hỷ / muditā / appreciative joy: Tâm vui mừng, hoan hỷ trước hạnh phúc, thành công và sự an lạc của chúng sinh khác, không ganh tị. Đây là một trong Tứ Vô Lượng Tâm.
+- lòng xả / upekkhā / equanimity: Tâm giữ được sự bình thản, quân bình, không thiên vị, không bám chấp hay ghét bỏ trước các trạng thái được mất, khen chê, khổ vui của bản thân và chúng sinh. Đây là một trong Tứ Vô Lượng Tâm.
+- cõi Phạm Thiên thấp / inferior Brahma-world: Các cõi Phạm Thiên thuộc Sắc giới (Rūpaloka), thấp hơn các cõi Vô sắc giới (Arūpaloka) và chưa phải là Niết Bàn (Nibbāna), cảnh giới giải thoát cuối cùng. Tái sinh vào đây là kết quả của việc tu tập thiền định và Tứ Vô Lượng Tâm ở mức độ nhất định.

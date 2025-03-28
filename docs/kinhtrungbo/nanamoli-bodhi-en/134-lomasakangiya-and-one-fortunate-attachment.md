@@ -1,4 +1,4 @@
-# 134 Lomasakangiya and One Fortunate Attachment
+# 134. Lomasakangiya and One Fortunate Attachment
 ***(Lomasakangiyabhaddekaratta Sutta)***
 
 1\. Thus have I heard. On one occasion the Blessed One was living at Sāvatthī in Jeta's Grove, Anāthapindika's Park. Now on that occasion the venerable Lomasakangiya was living in the Sakyan country at Kapilavatthu in Nigrodha's Park. [^1221]

@@ -3,7 +3,7 @@
 **116. KINH THÔN TIÊN**
 ***(Isigili Sutta)***
 
-## Như vầy tôi nghe:
+**Như vầy tôi nghe.**
 
 Một thời Thế Tôn trú tại Rajagaha (Vương Xá), trên núi Isigili (Thôn tiên). Ở đấy Thế Tôn gọi các Tỷ-
 kheo: "Này các Tỷ-kheo" -- "Bạch Thế Tôn". Các Tỷ-kheo ấy vâng đáp Thế Tôn. Thế Tôn nói như sau:

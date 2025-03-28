@@ -1,4 +1,4 @@
-# 105 To Sunakkhatta
+# 105. To Sunakkhatta
 ***(Sunakkhatta Sutta)***
 
 [252] 1. Thus have I heard. On one occasion the Blessed One was living at Vesālī in the Great Wood in the Hall with the Peaked Roof.

@@ -1,48 +1,61 @@
-# 58 To Prince Abhaya
-***(Abhayarājakumāra Sutta)***
+# 58. Gửi Vương tử Abhaya
+***(Kinh Vương tử Abhaya - Abhayarājakumāra Sutta)***
 
-1. Thus have I heard. On one occasion the Blessed One was living at Rājagaha in the Bamboo Grove, the Squirrels' Sanctuary.
+1\.  Tôi nghe như vầy. Một thời Thế Tôn trú tại Rājagaha (Vương Xá), trong Rừng Trúc, nơi nuôi dưỡng các con sóc.
 
-2. Then Prince Abhaya [^611] went to the Niganṭha Nātaputta, and after paying homage to him, sat down at one side. Thereupon the Niganṭha Nātaputta said to him:
+2\.  Khi ấy, Vương tử Abhaya đi đến chỗ Ni-kiền-tử Nātaputta (Niganṭha Nātaputta - một đạo sư lõa thể thuộc Kỳ-na giáo, tên thật là Mahavira), sau khi đảnh lễ vị ấy, liền ngồi xuống một bên. Bấy giờ, Ni-kiền-tử Nātaputta nói với vương tử:
 
-3. "Come, prince, refute the recluse Gotama's doctrine, and a good report of you will be spread to this effect: 'Prince Abhaya has refuted the doctrine of the recluse Gotama, who is so powerful and mighty."
+3\.  "Này vương tử, hãy đến bác bỏ giáo lý của Sa-môn Gotama, và tiếng tốt về vương tử sẽ được đồn xa rằng: 'Vương tử Abhaya đã bác bỏ giáo lý của Sa-môn Gotama, một người có uy lực và hùng mạnh như vậy.'"
 
-"But how, venerable sir, shall I refute his doctrine?"
+    "Nhưng thưa ngài, làm sao con có thể bác bỏ giáo lý của ngài ấy?"
 
-"Come, prince, go to the recluse Gotama and say: 'Venerable sir, would the Tathāgata utter speech that would be unwelcome and disagreeable to others?' If the recluse Gotama, on being asked thus, answers: 'The Tathāgata, prince, would utter speech that would be unwelcome and disagreeable to others,' then say to him: 'Then, venerable sir, what is the difference between you and an ordinary person? For an ordinary person also would utter speech that would be unwelcome and disagreeable to others.' But if the recluse Gotama, on being asked thus, answers: 'The Tathāgata, prince, would not utter speech [393] that would be unwelcome and disagreeable to others,' then say to him: 'Then, venerable sir, why have you declared of Devadatta: "Devadatta is destined for the states of deprivation, Devadatta is destined for hell, Devadatta will remain [in hell] for the aeon, Devadatta is incorrigible"? Devadatta was angry and dissatisfied with that speech of yours.' When the recluse Gotama is posed this two-horned question by you, he will not be able either to gulp it down or to throw it up. If an iron spike were stuck in a man's throat, he would not be able either to gulp it down or to throw it up; so too, prince, when the
-recluse Gotama is posed this two-horned question by you, he will not be able either to gulp it down or to throw it up."
+    "Này vương tử, hãy đến gặp Sa-môn Gotama và hỏi: 'Thưa ngài, Như Lai (Tathāgata - người đã đến như vậy/người đã đi như vậy, một danh hiệu của Phật) có nói lời không được chào đón và không vừa lòng người khác không?' Nếu Sa-môn Gotama, khi được hỏi như vậy, trả lời: 'Này vương tử, Như Lai có nói lời không được chào đón và không vừa lòng người khác,' thì hãy nói với ngài ấy: 'Vậy thì, thưa ngài, có gì khác biệt giữa ngài và một phàm phu (ordinary person - người bình thường chưa giác ngộ)? Vì phàm phu cũng nói lời không được chào đón và không vừa lòng người khác.' Nhưng nếu Sa-môn Gotama, khi được hỏi như vậy, trả lời: 'Này vương tử, Như Lai không nói lời [393] không được chào đón và không vừa lòng người khác,' thì hãy nói với ngài ấy: 'Vậy thì, thưa ngài, tại sao ngài lại tuyên bố về Devadatta (Đề-bà-đạt-đa): "Devadatta chắc chắn sẽ rơi vào các cõi khổ (states of deprivation - các cảnh giới đau khổ, bất hạnh), Devadatta chắc chắn sẽ vào địa ngục, Devadatta sẽ ở lại [trong địa ngục] suốt một kiếp (aeon - một khoảng thời gian vũ trụ rất dài), Devadatta là kẻ không thể sửa đổi"? Devadatta đã phẫn nộ và bất mãn với lời nói đó của ngài.' Khi Sa-môn Gotama bị vương tử đặt câu hỏi lưỡng nan này, ngài ấy sẽ không thể nuốt vào hay nhổ ra được. Giống như nếu một cái xiên sắt mắc trong cổ họng một người, người đó sẽ không thể nuốt vào hay nhổ ra được; cũng vậy, này vương tử, khi Sa-môn Gotama bị vương tử đặt câu hỏi lưỡng nan này, ngài ấy sẽ không thể nuốt vào hay nhổ ra được."
 
-4. "Yes, venerable sir," Prince Abhaya replied. Then he rose from his seat, and after paying homage to the Niganṭha Nātaputta, keeping him on his right, he left and went to the Blessed One. After paying homage to the Blessed One, he sat down at one side, looked at the sun, and thought: "It is too late today to refute the Blessed One's doctrine. I shall refute the Blessed One's doctrine in my own house tomorrow." Then he said to the Blessed One: "Venerable sir, let the Blessed One with three others consent to accept tomorrow's meal from me." The Blessed One consented in silence.
+4\.  "Vâng, thưa ngài," Vương tử Abhaya đáp. Rồi vương tử đứng dậy từ chỗ ngồi, sau khi đảnh lễ Ni-kiền-tử Nātaputta, giữ vị ấy ở phía bên phải mình, liền rời đi và đến gặp Thế Tôn. Sau khi đảnh lễ Thế Tôn, vương tử ngồi xuống một bên, nhìn mặt trời và nghĩ: "Hôm nay đã quá muộn để bác bỏ giáo lý của Thế Tôn. Ta sẽ bác bỏ giáo lý của Thế Tôn tại nhà riêng của mình vào ngày mai." Rồi vương tử nói với Thế Tôn: "Thưa ngài, xin Thế Tôn cùng ba người nữa nhận lời dùng bữa tại nhà con vào ngày mai." Thế Tôn im lặng nhận lời.
 
-5. Then, knowing that the Blessed One had consented, Prince Abhaya rose from his seat, and after paying homage to him, keeping him on his right, he departed. Then, when the night had ended, it being morning, the Blessed One dressed, and taking his bowl and outer robe, he went to Prince Abhaya's house and sat down on the seat made ready. Then, with his own hands, Prince Abhaya served and satisfied the Blessed One with various kinds of good food. When the Blessed One had eaten and had withdrawn his hand from the bowl, Prince Abhaya took a low seat, sat down at one side, and said to the Blessed One:
+5\.  Khi biết Thế Tôn đã nhận lời, Vương tử Abhaya đứng dậy từ chỗ ngồi, sau khi đảnh lễ ngài, giữ ngài ở phía bên phải mình, liền cáo lui. Rồi, khi đêm đã tàn, vào buổi sáng, Thế Tôn đắp y, mang bát và y, đi đến nhà Vương tử Abhaya và ngồi vào chỗ đã soạn sẵn. Sau đó, Vương tử Abhaya tự tay phục vụ và làm Thế Tôn hài lòng với nhiều loại thức ăn ngon. Khi Thế Tôn đã dùng xong và rút tay ra khỏi bát, Vương tử Abhaya lấy một chiếc ghế thấp, ngồi xuống một bên và thưa với Thế Tôn:
 
-6. "Venerable sir, would a Tathāgata utter such speech as would be unwelcome and disagreeable to others?"
+6\.  "Thưa ngài, Như Lai có nói lời không được chào đón và không vừa lòng người khác không?"
 
-"There is no one-sided answer to that, prince."
+    "Không có câu trả lời một chiều cho câu hỏi đó, này vương tử."
 
-"Then, venerable sir, the Niganthas have lost in this."
+    "Vậy thì, thưa ngài, các Ni-kiền-tử đã thua trong việc này."
 
-"Why do you say this, prince: [394] 'Then, venerable sir, the Niganthas have lost in this'?"612
+    "Tại sao vương tử lại nói như vậy, [394] 'Vậy thì, thưa ngài, các Ni-kiền-tử đã thua trong việc này'?"
 
-Prince Abhaya then reported to the Blessed One his entire conversation with the Niganṭha Nātaputta.
+    Vương tử Abhaya bèn kể lại cho Thế Tôn toàn bộ cuộc đối thoại của mình với Ni-kiền-tử Nātaputta.
 
-7. Now on that occasion a young tender infant was lying prone on Prince Abhaya's lap. Then the Blessed One said to Prince Abhaya: [395] "What do you think, prince? If, while you or your nurse were not attending to him, this child were to put a stick or a pebble in his mouth, what would you do to him?"
+7\.  Lúc bấy giờ, có một đứa trẻ sơ sinh còn non nớt đang nằm sấp trên lòng Vương tử Abhaya. Thế Tôn liền nói với Vương tử Abhaya: [395] "Vương tử nghĩ sao? Nếu, trong lúc vương tử hoặc vú nuôi không để ý, đứa trẻ này cho một que cây hay viên sỏi vào miệng, vương tử sẽ làm gì?"
 
-"Venerable sir, I would take it out. If I could not take it out at once, I would take his head in my left hand, and crooking a finger of my right hand, I would take it out even if it meant drawing blood. Why is that? Because I have compassion for the child."
+    "Thưa ngài, con sẽ lấy nó ra. Nếu con không thể lấy ra ngay lập tức, con sẽ dùng tay trái giữ đầu cháu, và khom ngón tay phải lại, con sẽ lấy nó ra dù cho có phải làm chảy máu. Tại sao vậy? Vì con có lòng thương (compassion - tình thương yêu, mong muốn chúng sinh thoát khổ) đối với đứa trẻ."
 
-8. "So too, prince, such speech as the Tathāgata knows to be untrue, incorrect, and unbeneficial, and which is also unwelcome and disagreeable to others: such speech the Tathāgata does not utter. Such speech as the Tathāgata knows to be true and correct but unbeneficial, and which is also unwelcome and disagreeable to others: such speech the Tathāgata does not utter. Such speech as the Tathāgata knows to be true, correct, and beneficial, but which is unwelcome and disagreeable to others: the Tathāgata knows the time to use such speech. [^613] Such speech as the Tathāgata knows to be untrue, incorrect, and unbeneficial, but which is welcome and agreeable to others: such speech the Tathāgata does not utter. Such speech as the Tathāgata knows to be true and correct but unbeneficial, and which is welcome and agreeable to others: such speech the Tathāgata does not utter. Such speech as the Tathāgata knows to be true, correct, and beneficial, and which is welcome and agreeable to others: the Tathāgata knows the time to use such speech. Why is that? Because the Tathāgata has compassion for beings."
+8\.  "Cũng vậy, này vương tử, lời nói nào Như Lai biết là không thật, không đúng, và không lợi ích, mà lại không được chào đón và không vừa lòng người khác: lời nói như vậy Như Lai không nói. Lời nói nào Như Lai biết là thật và đúng nhưng không lợi ích, mà lại không được chào đón và không vừa lòng người khác: lời nói như vậy Như Lai không nói. Lời nói nào Như Lai biết là thật, đúng, và lợi ích, nhưng lại không được chào đón và không vừa lòng người khác: Như Lai biết thời điểm để nói lời nói như vậy. Lời nói nào Như Lai biết là không thật, không đúng, và không lợi ích, nhưng lại được chào đón và vừa lòng người khác: lời nói như vậy Như Lai không nói. Lời nói nào Như Lai biết là thật và đúng nhưng không lợi ích, mà lại được chào đón và vừa lòng người khác: lời nói như vậy Như Lai không nói. Lời nói nào Như Lai biết là thật, đúng, và lợi ích, và cũng được chào đón và vừa lòng người khác: Như Lai biết thời điểm để nói lời nói như vậy. Tại sao vậy? Vì Như Lai có lòng thương đối với chúng sinh."
 
-9. "Venerable sir, when learned nobles, learned brahmins, learned householders, and learned recluses, after formulating a question, then go to the Blessed One and pose it, has there already been in the Blessed One's mind the thought: 'If they come to me and ask me thus, I shall answer thus'? Or does that answer occur to the Tathāgata on the spot?"
+9\.  "Thưa ngài, khi các vị quý tộc có học thức, bà-la-môn có học thức, gia chủ có học thức, và sa-môn có học thức, sau khi soạn sẵn một câu hỏi, rồi đến gặp Thế Tôn và đặt câu hỏi đó, có phải trong tâm trí Thế Tôn đã có sẵn suy nghĩ: 'Nếu họ đến gặp ta và hỏi ta như vậy, ta sẽ trả lời như thế này'? Hay câu trả lời đó khởi lên cho Như Lai ngay tại chỗ?"
 
-10. "As to that, prince, I shall ask you a question in return. Answer it as you choose. What do you think, prince? Are you skilled in the parts of a chariot?"
+10\. "Về điều đó, này vương tử, Ta sẽ hỏi lại vương tử một câu. Hãy trả lời tùy ý. Vương tử nghĩ sao? Vương tử có thành thạo về các bộ phận của xe ngựa không?"
 
-"Yes, venerable sir, I am."
+    "Vâng, thưa ngài, con có thành thạo."
 
-"What do you think, prince? When people come to you and ask: 'What is the name of this part of the chariot?' has there already been in your mind the thought: [396] 'If they come to me and ask me thus, I shall answer them thus'? Or does that answer occur to you on the spot?"
+    "Vương tử nghĩ sao? Khi người ta đến gặp vương tử và hỏi: 'Bộ phận này của xe ngựa tên là gì?' có phải trong tâm trí vương tử đã có sẵn suy nghĩ: [396] 'Nếu họ đến gặp con và hỏi con như vậy, con sẽ trả lời họ như thế này'? Hay câu trả lời đó khởi lên cho vương tử ngay tại chỗ?"
 
-"Venerable sir, I am well known as a charioteer skilled in the parts of a chariot. All the parts of a chariot are well known to me. That answer would occur to me on the spot."
+    "Thưa ngài, con nổi tiếng là người đánh xe thành thạo các bộ phận của xe ngựa. Tất cả các bộ phận của xe ngựa con đều biết rõ. Câu trả lời đó sẽ khởi lên cho con ngay tại chỗ."
 
-11. "So too, prince, when learned nobles, learned brahmins, learned householders, and learned recluses, after formulating a question, then come to the Tathāgata and pose it, the answer occurs to the Tathāgata on the spot. Why is that? That element
-of things has been fully penetrated by the Tathāgata, through the full penetration of which the answer occurs to the Tathāgata on the spot." ${ }^{614}$
+11\. "Cũng vậy, này vương tử, khi các vị quý tộc có học thức, bà-la-môn có học thức, gia chủ có học thức, và sa-môn có học thức, sau khi soạn sẵn một câu hỏi, rồi đến gặp Như Lai và đặt câu hỏi đó, câu trả lời khởi lên cho Như Lai ngay tại chỗ. Tại sao vậy? Bản chất của các pháp (element of things / dhamma-dhātu - bản chất nền tảng của thực tại, của giáo pháp) đã được Như Lai hoàn toàn thâm nhập, nhờ sự thâm nhập hoàn toàn đó mà câu trả lời khởi lên cho Như Lai ngay tại chỗ."
 
-12. When this was said, Prince Abhaya said: "Magnificent, venerable sir! Magnificent, venerable sir! The Blessed One has made the Dhamma clear in many ways...From today let the Blessed One remember me as a lay follower who has gone to him for refuge for life."
+12\. Khi nghe vậy, Vương tử Abhaya thưa: "Thật vi diệu, thưa ngài! Thật vi diệu, thưa ngài! Thế Tôn đã làm sáng tỏ Giáo Pháp (Dhamma - lời dạy của Đức Phật, chân lý) bằng nhiều cách... Kể từ hôm nay, xin Thế Tôn ghi nhận con là một người cư sĩ tại gia đã quy y (gone for refuge - nương tựa vào Tam Bảo: Phật, Pháp, Tăng) ngài trọn đời."
+
+<!--pg-->
+Từ ngữ:
+- Như Lai / Tathāgata / Tathāgata: Một danh hiệu của Đức Phật, có nghĩa là "Người đã đến như vậy" hoặc "Người đã đi như vậy", chỉ người đã đạt đến chân lý tối thượng, thể nhập thực tại như nó là.
+- phàm phu / puthujjana / ordinary person: Người bình thường, chưa giác ngộ, còn bị trói buộc bởi phiền não và luân hồi.
+- cõi khổ / apāya / states of deprivation: Các cảnh giới đau khổ, bất hạnh trong luân hồi, bao gồm địa ngục, ngạ quỷ, súc sinh, và a-tu-la (tùy theo cách phân loại).
+- kiếp / kappa / aeon: Một đơn vị thời gian rất dài trong vũ trụ quan Phật giáo, thường được dùng để chỉ một chu kỳ thành-trụ-hoại-không của thế giới.
+- lòng thương / karuṇā / compassion: Một trong Tứ Vô Lượng Tâm, là tình thương yêu sâu sắc đối với chúng sinh, mong muốn cho họ thoát khỏi mọi đau khổ.
+- bản chất của các pháp / dhamma-dhātu / element of things: Bản chất nền tảng, yếu tính của mọi hiện tượng (pháp), thực tại tối hậu. Thâm nhập được bản chất này là cốt lõi của sự giác ngộ.
+- Giáo Pháp / Dhamma / Dhamma: Lời dạy của Đức Phật, bao gồm chân lý về sự khổ và con đường diệt khổ; cũng có nghĩa là quy luật tự nhiên, thực tại, hiện tượng.
+- quy y / saraṇaṃ gacchati / gone for refuge: Hành động tự nguyện nương tựa vào Tam Bảo (Phật, Pháp, Tăng) làm nơi che chở, dẫn đường tâm linh.
+- Thế Tôn / Bhagavā / Blessed One: Một danh hiệu tôn kính dành cho Đức Phật, có nghĩa là bậc tôn quý, bậc có đầy đủ phước đức và trí tuệ, người đã chiến thắng mọi phiền não.
+- Sa-môn / Samaṇa / recluse: Tu sĩ, người xuất gia sống đời không nhà cửa, thực hành khổ hạnh hoặc thiền định để tìm cầu giải thoát, không nhất thiết phải là Phật tử.
+- Ni-kiền-tử / Nigaṇṭha / Nigantha: Tên gọi các tu sĩ thuộc Kỳ-na giáo (Jainism), đặc biệt là phái lõa thể (Digambara). Ni-kiền-tử Nātaputta chính là Mahavira, người sáng lập Kỳ-na giáo.
+- cư sĩ tại gia / upāsaka (nam), upāsikā (nữ) / lay follower: Phật tử tại gia, người đã quy y Tam Bảo nhưng không xuất gia, vẫn sống đời sống thế tục và thực hành theo lời Phật dạy.

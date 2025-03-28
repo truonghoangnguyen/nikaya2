@@ -1,4 +1,4 @@
-# 36 The Greater Discourse to Saccaka
+# 36. The Greater Discourse to Saccaka
 ***(Mahāsaccaka Sutta)***
 
 1\. Thus have I heard. On one occasion the Blessed One was living at Vesālī in the Great Wood in the Hall with the Peaked Roof.

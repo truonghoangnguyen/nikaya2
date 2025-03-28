@@ -1,4 +1,4 @@
-# 80 To Vekhanassa
+# 80. To Vekhanassa
 ***(Vekhanassa Sutta)***
 
 [40] 1. Thus have I heard. On one occasion the Blessed One was living at Sāvatthī in Jeta's Grove, Anāthapiṇ̣̣ika's Park.

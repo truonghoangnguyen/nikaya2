@@ -1,4 +1,4 @@
-# 57 The Dog-duty Ascetic
+# 57. The Dog-duty Ascetic
 ***(Kukkuravatika Sutta)***
 
 1\. Thus have I heard. On one occasion the Blessed One was living in the Koliyan country at a town of the Koliyans named Haliddavasana.

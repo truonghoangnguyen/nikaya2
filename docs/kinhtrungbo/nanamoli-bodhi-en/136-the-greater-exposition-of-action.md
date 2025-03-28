@@ -1,4 +1,4 @@
-# 136 The Greater Exposition of Action
+# 136. The Greater Exposition of Action
 ***(Mahākammavibhanga Sutta)***
 
 [207] 1. Thus have I heard. On one occasion the Blessed One was living at Rājagaha, in the Bamboo Grove, the Squirrels' Sanctuary.

@@ -1,4 +1,4 @@
-# 13 The Greater Discourse on the Mass of Suffering
+# 13. The Greater Discourse on the Mass of Suffering
 ***(Mahādukkhakkhandha Sutta)***
 
 1\. Thus have I heard. On one occasion the Blessed One was living at Sāvatthī in Jeta's Grove, Anāthapiṇ̣ika's Park.

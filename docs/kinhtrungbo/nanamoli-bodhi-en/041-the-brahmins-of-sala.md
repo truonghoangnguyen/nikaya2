@@ -1,4 +1,4 @@
-# 41 The Brahmins of Sālā
+# 41. The Brahmins of Sālā
 ***(Säleyyaka Sutta)***
 
 [285] 1. Thus have I heard. On one occasion the Blessed One was wandering by stages in the Kosalan Country with a large Sangha of bhikkhus, and eventually he arrived at a Kosalan brahmin village named Sālā.

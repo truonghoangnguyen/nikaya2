@@ -1,4 +1,4 @@
-# 145 Advice to Punna
+# 145. Advice to Punna
 ***(Punnovāda Sutta)***
 
 [267].1. Thus have I heard. On one occasion the Blessed One was living at Sāvatthī in Jeta's Grove, Anāthapiṇ̣ika's Park. Then, when it was evening, the venerable Punna rose from meditation and went to the Blessed One. [^1315] After paying homage to the Blessed One, he sat down at one side and said to him:

@@ -1,4 +1,4 @@
-# 133 Mahā Kaccāna and One Fortunate Attachment
+# 133. Mahā Kaccāna and One Fortunate Attachment
 ***(Mahākaccānabhaddekaratta Sutta)***
 
 [192] 1. Thus have I heard. On one occasion the Blessed One was living at Rājagaha in the Park of the Hot Springs. Then, when it was near dawn, the venerable Samiddhi went to the hot springs to bathe his limbs. After bathing he came up out of the water and stood dressed in one robe, drying his limbs. Then, when the night was well advanced, a certain deity of beautiful appearance who illuminated the whole of the Hot Springs, approached the venerable Samiddhi. Standing at one side, the deity said to him:

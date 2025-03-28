@@ -1,4 +1,4 @@
-# 61 Advice to Rāhula at Ambalațṭhikā
+# 61. Advice to Rāhula at Ambalațṭhikā
 ***(Ambalațțhikārāhulovāda Sutta)***
 
 [414] 1. Thus have I heard. On one occasion the Blessed One was living at Rājagaha in the Bamboo Grove, the Squirrels' Sanctuary.

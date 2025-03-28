@@ -8,7 +8,7 @@ prev: /kinhtrungbo/thichminhchau/151
 **152. KINH CĂN TU TẬP**
 ***(Indriyabhàvanà Sutta)***
 
-## Như vầy tôi nghe:
+**Như vầy tôi nghe.**
 
 Một thời Thế Tôn ở Kajangala, tại Mukheluvana.
 

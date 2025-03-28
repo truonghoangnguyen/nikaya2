@@ -3,7 +3,7 @@
 **126. KINH PHÙ-DI**
 ***(Bhùmija Sutta)***
 
-## Như vầy tôi nghe:
+**Như vầy tôi nghe.**
 
 Một thời Thế Tôn trú ở Rajagaha (Vương Xá), Veluvana (Trúc Lâm), tại chỗ nuôi dưỡng sóc.
 

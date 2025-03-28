@@ -1,4 +1,4 @@
-# 100 To Sangārava
+# 100. To Sangārava
 ***(Sangārava Sutta)***
 
 1\. Thus have I heard. On one occasion the Blessed One was wandering in the Kosalan country with a large Sangha of bhikkhus.

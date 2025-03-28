@@ -1,4 +1,4 @@
-# 77 The Greater Discourse to Sakuludāyin
+# 77. The Greater Discourse to Sakuludāyin
 ***(Mahāsakuludāyi Sutta)***
 
 [1] 1. Thus have I heard. On one occasion the Blessed One was living at Rājagaha in the Bamboo Grove, the Squirrels' Sanctuary.

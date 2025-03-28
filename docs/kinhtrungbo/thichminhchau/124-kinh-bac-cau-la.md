@@ -3,7 +3,7 @@
 **124. KINH BẠC-CÂU-LA**
 ***(Bakkula Sutta)***
 
-## Như vầy tôi nghe:
+**Như vầy tôi nghe.**
 
 Một thời Tôn giả Bakkula trú ở Rajagaha (Vương Xá), Veluvana (Trúc Lâm), tại chỗ nuôi dưỡng các
 loài sóc (kalandakanivapa).

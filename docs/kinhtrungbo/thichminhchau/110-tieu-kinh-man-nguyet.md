@@ -3,7 +3,7 @@
 **110. TIỂU KINH MÃN NGUYỆT**
 ***(Cùlapunnama Sutta)***
 
-## Như vầy tôi nghe:
+**Như vầy tôi nghe.**
 
 Một thời Thế Tôn trú ở Savatthi, tại Pubbarama (Ðông Viên) Migaramatupasada (Lộc Mẫu Giảng
 đường).

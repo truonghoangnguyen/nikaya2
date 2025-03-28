@@ -1,4 +1,4 @@
-# 143 Advice to Anāthapiṇ̣ika
+# 143. Advice to Anāthapiṇ̣ika
 ***(Anāthapindikovāda Sutta)***
 
 [258] 1. Thus have I heard. On one occasion the Blessed One was living at Sāvatthī in Jeta's Grove, Anāthapiṇ̣ika's Park.

@@ -1,4 +1,4 @@
-# 109 The Greater Discourse on the Full-moon Night
+# 109. The Greater Discourse on the Full-moon Night
 ***(Mahāpunṇama Sutta)***
 
 1\. Thus have I heard. On one occasion the Blessed One was living at Sāvatthī in the Eastern Park, in the Palace of Migāra's Mother.

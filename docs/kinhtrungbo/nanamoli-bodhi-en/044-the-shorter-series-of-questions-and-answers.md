@@ -1,4 +1,4 @@
-# 44 The Shorter Series of Questions and Answers
+# 44. The Shorter Series of Questions and Answers
 ***(Cūḷavedalla Sutta)***
 
 [299] 1. Thus have I heard. On one occasion the Blessed One was living at Rajagaha in the Bamboo Grove, the Squirrels' Sanctuary. Then the lay follower Visākha went to the bhikkhunī Dhammadinnā, [^459] and after paying homage to her, he sat down at one side and asked her:

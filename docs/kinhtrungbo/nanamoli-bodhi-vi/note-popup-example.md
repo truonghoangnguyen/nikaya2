@@ -37,14 +37,14 @@ The popup should appear below the link, displaying the content from the linked U
 
 The `NotePopup` component:
 
-1. Attaches event listeners to track mouseover events on elements with the `.note` class
-2. Fetches the HTML content from the linked URL when hovering
-3. Displays a popup with the fetched content
-4. Positions the popup near the hovered element
-5. Handles loading states and errors
+1\. Attaches event listeners to track mouseover events on elements with the `.note` class
+2\. Fetches the HTML content from the linked URL when hovering
+3\. Displays a popup with the fetched content
+4\. Positions the popup near the hovered element
+5\. Handles loading states and errors
 
 To use this component, simply:
 
-1. The component is registered globally in the VitePress theme
-2. Add it to your page: `<NotePopup />`
-3. Add class="note" to any links that should trigger the popup
+1\. The component is registered globally in the VitePress theme
+2\. Add it to your page: `<NotePopup />`
+3\. Add class="note" to any links that should trigger the popup

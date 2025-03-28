@@ -3,7 +3,7 @@
 **133. KINH ÐẠI CA-CHIÊN-DIÊN NHẤT DẠ HIỀN GIẢ**
 ***(Mahàkaccànabhaddekaratta Sutta)***
 
-## Như vầy tôi nghe:
+**Như vầy tôi nghe.**
 
 Một thời Thế Tôn trú ở Rajagaha (Vương Xá), tại Tinh xá Tapoda.
 

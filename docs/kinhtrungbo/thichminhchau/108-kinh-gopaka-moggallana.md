@@ -3,7 +3,7 @@
 **108. KINH GOPAKA MOGGALLÀNA**
 ***(Gopakamoggallàna Sutta)***
 
-## Như vầy tôi nghe:
+**Như vầy tôi nghe.**
 
 Một thời Tôn giả Ananda trú ở Rajagaha (Vương Xá) tại Veluvana (Trúc Lâm), chỗ nuôi dưỡng các con
 sóc, khi Thế Tôn thị tịch không bao lâu.

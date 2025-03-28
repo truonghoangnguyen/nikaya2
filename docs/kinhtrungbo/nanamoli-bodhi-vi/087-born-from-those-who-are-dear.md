@@ -1,69 +1,75 @@
-# 87 Born from Those Who Are Dear
-***(Piyajātika Sutta)***
+# 87. Sanh Khởi Từ Người Thân
+***(Kinh Piyajātika - Trung Bộ 87)***
 
-[106] 1. Thus have I heard. On one occasion the Blessed One was living at Sāvatthī in Jeta's Grove, Anāthapiṇ̣ika's Park.
+[106] 1. Tôi nghe như vầy. Một thời Đức Thế Tôn trú tại thành Xá-vệ (Sāvatthī), trong Vườn Kỳ Đà Cấp Cô Độc (Jeta's Grove, Anāthapiṇḍika's Park).
 
-2. Now on that occasion a certain householder's dear and beloved only son had died. After his son's death, he had no more desire to work or to eat. He kept going to the charnel ground and crying: "My only child, where are you? My only child, where are you?"
+2\. Bấy giờ, có một người gia chủ kia có đứa con trai duy nhất rất thân thương và yêu quý vừa mới qua đời. Sau khi con mất, ông không còn thiết tha làm việc hay ăn uống gì nữa. Ông cứ đi ra bãi tha ma mà khóc than rằng: "Con ơi, con ở đâu rồi? Đứa con duy nhất của ta, con ở đâu rồi?"
 
-3. Then that householder went to the Blessed One, and after paying homage to him, sat down at one side. The Blessed One said to him: "Householder, your faculties are not those of one in control of his own mind. Your faculties are deranged."
+3\. Rồi người gia chủ ấy đến gặp Đức Thế Tôn, sau khi đảnh lễ Ngài, liền ngồi xuống một bên. Đức Thế Tôn bảo ông: "Này gia chủ, tâm trí ông không còn bình thường. Tâm trí ông đang rối loạn."
 
-"How could my faculties not be deranged, venerable sir? For my dear and beloved only son has died. Since he died I have no more desire to work or to eat. I keep going to the charnel ground and crying: 'My only child, where are you? My only child, where are you?'" .
+"Bạch Thế Tôn, làm sao tâm trí con lại không rối loạn cho được? Đứa con trai duy nhất thân thương và yêu quý của con vừa mới qua đời. Từ khi con mất, con không còn thiết tha làm việc hay ăn uống gì nữa. Con cứ đi ra bãi tha ma mà khóc than: 'Con ơi, con ở đâu rồi? Đứa con duy nhất của ta, con ở đâu rồi?'"
 
-"So it is, householder, so it is! Sorrow, lamentation, pain, grief, and despair are born from those who are dear, arise from those who are dear."
+"Này gia chủ, đúng vậy đó, đúng vậy đó! Sầu, bi, khổ, ưu, não (sorrow, lamentation, pain, grief, and despair - năm loại khổ đau tâm lý chính: buồn rầu, than khóc, đau đớn, phiền muộn, tuyệt vọng) đều sanh khởi từ người thân, phát xuất từ người thân."
 
-"Venerable sir, who would ever think that sorrow, lamentation, pain, grief, and despair are born from those who are dear, arise from those who are dear? Venerable sir, happiness and joy are born from those who are dear, arise from those who are dear." Then, displeased with the Blessed One's words, disapproving of them, the householder rose from his seat and left.
+"Bạch Thế Tôn, ai lại nghĩ rằng sầu, bi, khổ, ưu, não lại sanh khởi từ người thân, phát xuất từ người thân chứ? Bạch Thế Tôn, hạnh phúc và hoan hỷ mới sanh khởi từ người thân, phát xuất từ người thân." Rồi người gia chủ, không hài lòng và không tán thành lời dạy của Đức Thế Tôn, từ chỗ ngồi đứng dậy và bỏ đi.
 
-4. Now on that occasion some gamblers were playing with dice not far from the Blessed One. Then the householder went to those gamblers and said: "Just now, sirs, [107] I went to the recluse Gotama, and after paying homage to him, I sat down at one side. When I had done so, the recluse Gotama said to me:
-'Householder, your faculties are not those of one in control of his own mind.'...(repeat the entire conversation as above)...'Venerable sir, happiness and joy are born from those who are dear, arise from those who are dear.' Then, displeased with the recluse Gotama's words, disapproving of them, I rose from my seat and left."
+4\. Lúc bấy giờ, có mấy kẻ cờ bạc đang chơi súc sắc cách chỗ Đức Thế Tôn không xa. Người gia chủ liền đi đến chỗ những kẻ cờ bạc ấy và nói: "Thưa các ông, vừa rồi [107] tôi có đến gặp Sa-môn Cồ-đàm (recluse Gotama - tên gọi Đức Phật Thích Ca Mâu Ni trước khi thành đạo, đôi khi được người ngoại đạo sử dụng), sau khi đảnh lễ ngài, tôi ngồi xuống một bên. Khi tôi đã ngồi yên, Sa-môn Cồ-đàm bảo tôi: 'Này gia chủ, tâm trí ông không còn bình thường...' (lặp lại toàn bộ cuộc đối thoại như trên)... 'Bạch Thế Tôn, hạnh phúc và hoan hỷ mới sanh khởi từ người thân, phát xuất từ người thân.' Rồi, vì không hài lòng và không tán thành lời dạy của Sa-môn Cồ-đàm, tôi từ chỗ ngồi đứng dậy và bỏ đi."
 
-"So it is, householder, so it is! Happiness and joy are born from those who are dear, arise from those who are dear."
+"Đúng vậy đó, gia chủ, đúng vậy đó! Hạnh phúc và hoan hỷ sanh khởi từ người thân, phát xuất từ người thân."
 
-Then the householder left thinking: "I agree with the gamblers."
+Người gia chủ nghe vậy liền bỏ đi, nghĩ rằng: "Ta đồng ý với mấy người cờ bạc này."
 
-5. Eventually this story reached the king's palace. Then King Pasenadi of Kosala told Queen Mallikā: "This is what has been said by the recluse Gotama, Mallikā: 'Sorrow, lamentation, pain, grief, and despair are born from those who are dear, arise from those who are dear.'"
+5\. Câu chuyện này dần dần lan đến hoàng cung. Vua Pasenadi (Ba-tư-nặc) nước Kosala (Kiều-tát-la) nói với Hoàng hậu Mallikā (Mạt-lợi): "Này Mallikā, Sa-môn Cồ-đàm đã nói thế này: 'Sầu, bi, khổ, ưu, não đều sanh khởi từ người thân, phát xuất từ người thân.'"
 
-"If that has been said by the Blessed One, sire, then it is so."
+"Nếu điều đó do Đức Thế Tôn nói, thưa đại vương, thì chắc chắn là vậy."
 
-"No matter what the recluse Gotama says, Mallikā applauds it thus: 'If that has been said by the Blessed One, sire, then it is so.' Just as a pupil applauds whatever his teacher says to him, saying: 'So it is, teacher, so it is!'; so too, Mallikā, no matter what the recluse Gotama says, you applaud it thus: 'If that [108] has been said by the Blessed One, sire, then it is so.' Be off, Mallikā, away with you!"
+"Bất kể Sa-môn Cồ-đàm nói gì, Mallikā cũng tán thưởng như thế: 'Nếu điều đó do Đức Thế Tôn nói, thưa đại vương, thì chắc chắn là vậy.' Cũng như người học trò luôn tán đồng mọi lời thầy dạy, nói rằng: 'Thưa thầy, đúng vậy ạ, đúng vậy ạ!'; thì cũng thế, này Mallikā, bất kể Sa-môn Cồ-đàm nói gì, nàng cũng tán thưởng như vậy: 'Nếu điều đó [108] do Đức Thế Tôn nói, thưa đại vương, thì chắc chắn là vậy.' Thôi đi, Mallikā! Nàng đi đi!"
 
-6. Then Queen Mallikā addressed the brahmin Nālijangha: "Come, brahmin, go to the Blessed One and pay homage in my name with your head at his feet, and ask whether he is free from illness and affliction and is healthy, strong, and abiding in comfort, saying: 'Venerable sir, Queen Mallikā pays homage with her head at the Blessed One's feet and asks whether the Blessed One is free from illness... and abiding in comfort.' Then say this: 'Venerable sir, have these words been uttered by the Blessed One: "Sorrow, lamentation, pain, grief, and despair are born from those who are dear, arise from those who are dear"?' Learn well what the Blessed One replies and report it to me; for Tathāgatas do not speak untruth."
+6\. Sau đó, Hoàng hậu Mallikā cho gọi Bà-la-môn Nālijangha đến và dặn: "Này Bà-la-môn, hãy đến gặp Đức Thế Tôn, thay mặt ta đảnh lễ dưới chân Ngài, và hỏi thăm Ngài có ít bệnh, ít khổ, khỏe mạnh, an lạc không, thưa rằng: 'Bạch Thế Tôn, Hoàng hậu Mallikā xin đảnh lễ dưới chân Đức Thế Tôn và xin hỏi thăm Đức Thế Tôn có ít bệnh... và đang an lạc không.' Rồi hãy thưa tiếp: 'Bạch Thế Tôn, có phải Ngài đã nói những lời này: "Sầu, bi, khổ, ưu, não đều sanh khởi từ người thân, phát xuất từ người thân" không?' Hãy ghi nhớ kỹ câu trả lời của Đức Thế Tôn rồi về báo lại cho ta; vì các bậc Như Lai (Tathāgatas - bậc đã đến và đi như vậy, một danh hiệu chỉ Đức Phật, người đã đạt đến chân lý tối thượng) không bao giờ nói lời sai sự thật."
 
-"Yes, madam," he replied, and he went to the Blessed One and exchanged greetings with him. When this courteous and amiable talk was finished, he sat down at one side and said: "Master Gotama, Queen Mallikā pays homage with her head at Master Gotama's feet and asks whether he is free from illness...and abiding in comfort. And she says this: 'Venerable
-sir, have these words been spoken by the Blessed One: "Sorrow, lamentation, pain, grief, and despair are born from those who are dear, arise from those who are dear"?"
+"Thưa phu nhân, vâng ạ," vị Bà-la-môn đáp, rồi đi đến gặp Đức Thế Tôn và chào hỏi Ngài. Sau khi thăm hỏi xã giao xong, ông ngồi xuống một bên và thưa: "Thưa Tôn giả Gotama, Hoàng hậu Mallikā xin đảnh lễ dưới chân Tôn giả Gotama và hỏi thăm ngài có ít bệnh... và đang an lạc không. Hoàng hậu cũng thưa rằng: 'Bạch Thế Tôn, có phải Ngài đã nói những lời này: "Sầu, bi, khổ, ưu, não đều sanh khởi từ người thân, phát xuất từ người thân" không?'"
 
-7. "So it is, brahmin, so it is! Sorrow, lamentation, pain, grief, and despair are born from those who are dear, arise from those who are dear.
+7\. "Này Bà-la-môn, đúng vậy đó, đúng vậy đó! Sầu, bi, khổ, ưu, não đều sanh khởi từ người thân, phát xuất từ người thân.
 
-8. "It can be understood from this, brahmin, how sorrow, lamentation, pain, grief, and despair are born from those who are dear, arise from those who are dear. Once in this same Sāvatthī there was a certain woman whose mother died. Owing to her mother's death, she went mad, lost her mind, and wandered from street to street and from crossroad to crossroad, saying: 'Have you seen my mother? Have you seen my mother?' [109]
+8\. "Này Bà-la-môn, có thể hiểu được vì sao sầu, bi, khổ, ưu, não sanh khởi từ người thân, phát xuất từ người thân qua câu chuyện này: Xưa kia, cũng tại thành Xá-vệ này, có một người phụ nữ bị mất mẹ. Do mẹ mất, bà trở nên điên loạn, mất trí, đi lang thang từ phố này sang phố khác, từ ngã tư này sang ngã tư khác, miệng luôn hỏi: 'Có ai thấy mẹ tôi không? Có ai thấy mẹ tôi không?' [109]
 
-9-14. "And it can also be understood from this how sorrow, lamentation, pain, grief, and despair are born from those who are dear, arise from those who are dear. Once in this same Sāvatthī there was a certain woman whose father died...whose brother died...whose sister died...whose son died...whose daughter died...whose husband died. Owing to her husband's death, she went mad, lost her mind, and wandered from street to street and from crossroad to crossroad, saying: 'Have you seen my husband? Have you seen my husband?'
+9-14. "Và cũng có thể hiểu được vì sao sầu, bi, khổ, ưu, não sanh khởi từ người thân, phát xuất từ người thân qua những câu chuyện này: Xưa kia, cũng tại thành Xá-vệ này, có một người phụ nữ bị mất cha... bị mất anh trai... bị mất chị gái... bị mất con trai... bị mất con gái... bị mất chồng. Do chồng mất, bà trở nên điên loạn, mất trí, đi lang thang từ phố này sang phố khác, từ ngã tư này sang ngã tư khác, miệng luôn hỏi: 'Có ai thấy chồng tôi không? Có ai thấy chồng tôi không?'
 
-15-21. "And it can also be understood from this how sorrow, lamentation, pain, grief, and despair are born from those who are dear, arise from those who are dear. Once in this same Sāvatthī there was a certain man whose mother died...whose father died...whose brother died...whose sister died...whose son died...whose daughter died...whose wife died. Owing to his wife's death, he went mad, lost his mind, and wandered from street to street and from crossroad to crossroad, saying: 'Have you seen my wife? Have you seen my wife?'
+15-21. "Và cũng có thể hiểu được vì sao sầu, bi, khổ, ưu, não sanh khởi từ người thân, phát xuất từ người thân qua những câu chuyện này: Xưa kia, cũng tại thành Xá-vệ này, có một người đàn ông bị mất mẹ... bị mất cha... bị mất anh trai... bị mất chị gái... bị mất con trai... bị mất con gái... bị mất vợ. Do vợ mất, ông trở nên điên loạn, mất trí, đi lang thang từ phố này sang phố khác, từ ngã tư này sang ngã tư khác, miệng luôn hỏi: 'Có ai thấy vợ tôi không? Có ai thấy vợ tôi không?'
 
-22. "And it can also be understood from this how sorrow, lamentation, pain, grief, and despair are born from those who are dear, arise from those who are dear. Once in this same Sāvatthī there was a certain woman who went to live with her relatives' family. Her relatives wanted to divorce her from her husband and give her to another whom she did not want. Then the woman said to her husband: 'Lord, these relatives of mine want to divorce me from you and give me to another whom I
-do not want.' Then the man cut the woman in two and [110] committed suicide, thinking: 'We shall be together in the afterlife.' It can also be understood from this how sorrow, lamentation, pain, grief, and despair are born from those who are dear, arise from those who are dear."
+22\. "Và cũng có thể hiểu được vì sao sầu, bi, khổ, ưu, não sanh khởi từ người thân, phát xuất từ người thân qua câu chuyện này: Xưa kia, cũng tại thành Xá-vệ này, có một người phụ nữ đến ở nhà họ hàng. Họ hàng của bà muốn chia lìa bà khỏi chồng và gả bà cho một người khác mà bà không hề muốn. Người phụ nữ ấy nói với chồng: 'Chàng ơi, họ hàng của thiếp muốn chia lìa thiếp khỏi chàng và gả thiếp cho người khác mà thiếp không muốn.' Nghe vậy, người chồng liền chặt người phụ nữ làm hai rồi [110] tự sát, nghĩ rằng: 'Chúng ta sẽ được ở bên nhau ở đời sau.' Qua câu chuyện này cũng có thể hiểu được vì sao sầu, bi, khổ, ưu, não sanh khởi từ người thân, phát xuất từ người thân."
 
-23. Then, delighting and rejoicing in the Blessed One's words, the brahmin Nāljijangha rose from his seat, went to Queen Mallikā, and reported to her his entire conversation with the Blessed One.
+23\. Bấy giờ, Bà-la-môn Nālijangha hoan hỷ và vui mừng trước lời dạy của Đức Thế Tôn, từ chỗ ngồi đứng dậy, đi đến gặp Hoàng hậu Mallikā và thuật lại toàn bộ cuộc đối thoại của mình với Đức Thế Tôn.
 
-24. Then Queen Mallikā went to King Pasenadi of Kosala and asked him: "What do you think, sire? Is Princess Vajīrī dear to you?"
+24\. Sau đó, Hoàng hậu Mallikā đến gặp Vua Pasenadi nước Kosala và hỏi: "Thưa đại vương, đại vương nghĩ sao? Công chúa Vajīrī có thân thương với đại vương không?"
 
-"Yes, Mallikā, Princess Vajīrī is dear to me."
+"Có chứ, Mallikā, Công chúa Vajīrī rất thân thương với trẫm."
 
-"What do you think, sire? If change and alteration [^828] took place in Princess Vajīrī, would sorrow, lamentation, pain, grief, and despair arise in you?"
+"Thưa đại vương, đại vương nghĩ sao? Nếu có sự thay đổi và biến hoại (change and alteration - sự thay đổi và không còn như cũ, ám chỉ sự mất mát, bệnh tật hoặc chết) xảy ra với công chúa Vajīrī, liệu sầu, bi, khổ, ưu, não có sanh khởi trong lòng đại vương không?"
 
-"Change and alteration in Princess Vajīrī would mean an alteration in my life. How could sorrow, lamentation, pain, grief, and despair not arise in me?"
+"Sự thay đổi và biến hoại của công chúa Vajīrī cũng có nghĩa là sự đổi thay trong cuộc đời trẫm. Làm sao mà sầu, bi, khổ, ưu, não lại không sanh khởi trong trẫm được?"
 
-"It was with reference to this, sire, that the Blessed One who knows and sees, accomplished and fully enlightened, said: 'Sorrow, lamentation, pain, grief, and despair are born from those who are dear, arise from those who are dear.'
+"Thưa đại vương, chính vì điều này mà Đức Thế Tôn, bậc biết, bậc thấy, bậc A-la-hán, Chánh Đẳng Chánh Giác (accomplished and fully enlightened - A-la-hán là bậc đã hoàn thiện tu chứng, Chánh Đẳng Chánh Giác là bậc giác ngộ hoàn toàn viên mãn, tức là Phật), đã dạy rằng: 'Sầu, bi, khổ, ưu, não đều sanh khởi từ người thân, phát xuất từ người thân.'"
 
-25-28. "What do you think, sire? Is the noble Queen Vāsabhā dear to you?...Is General Viḍūḍabha dear to you?...[111]...Am I dear to you?...Are Kāsi and Kosala dear to you?"829
+25-28. "Thưa đại vương, đại vương nghĩ sao? Hoàng hậu Vāsabhā có thân thương với đại vương không?... Tướng quân Viḍūḍabha có thân thương với đại vương không?... [111]... Thiếp đây có thân thương với đại vương không?... Hai xứ Kāsi và Kosala có thân thương với đại vương không?"
 
-"Yes, Mallikā, Kāsi and Kosala are dear to me. We owe it to Kāsi and Kosala that we use Kāsi sandalwood and wear garlands, scents, and unguents."
+"Có chứ, Mallikā, hai xứ Kāsi và Kosala rất thân thương với trẫm. Chúng ta dùng gỗ đàn hương xứ Kāsi, đeo vòng hoa, dùng hương liệu, dầu thơm là nhờ có Kāsi và Kosala."
 
-"What do you think, sire? If change and alteration took place in Kāsi and Kosala, would sorrow, lamentation, pain, grief, and despair arise in you?"
+"Thưa đại vương, đại vương nghĩ sao? Nếu có sự thay đổi và biến hoại xảy ra với hai xứ Kāsi và Kosala, liệu sầu, bi, khổ, ưu, não có sanh khởi trong lòng đại vương không?"
 
-"Change and alteration in Kāsi and Kosala would mean an alteration in my life. How could sorrow, lamentation, pain, grief, and despair not arise in me?"
+"Sự thay đổi và biến hoại của Kāsi và Kosala cũng có nghĩa là sự đổi thay trong cuộc đời trẫm. Làm sao mà sầu, bi, khổ, ưu, não lại không sanh khởi trong trẫm được?"
 
-"It was with reference to this, sire, that the Blessed One who knows and sees, accomplished and fully enlightened, said: 'Sorrow, lamentation, pain, grief, and despair are born from those who are dear, arise from those who are dear.'"
+"Thưa đại vương, chính vì điều này mà Đức Thế Tôn, bậc biết, bậc thấy, bậc A-la-hán, Chánh Đẳng Chánh Giác, đã dạy rằng: 'Sầu, bi, khổ, ưu, não đều sanh khởi từ người thân, phát xuất từ người thân.'"
 
-29. "It is wonderful, Mallikā, it is marvellous how far [112] the Blessed One penetrates with wisdom and sees with wisdom! Come, Mallikā, give me the ablution water." ${ }^{830}$
+29\. "Thật vi diệu thay, Mallikā, thật kỳ diệu thay! [112] Đức Thế Tôn đã thâm nhập và thấy rõ bằng trí tuệ sâu xa đến mức nào! Nào, Mallikā, hãy mang nước rửa mặt đến cho trẫm."
 
-Then King Pasenadi of Kosala rose from his seat, and arranging his upper robe on one shoulder, he extended his hands in reverential salutation towards the Blessed One and uttered this exclamation three times: "Honour to the Blessed One, accomplished and fully enlightened! Honour to the Blessed One, accomplished and fully enlightened! Honour to the Blessed One, accomplished and fully enlightened!"
+Rồi Vua Pasenadi nước Kosala từ chỗ ngồi đứng dậy, sửa lại y phục trang nghiêm, chắp tay hướng về phía Đức Thế Tôn và thốt lên ba lần lời cảm thán: "Đảnh lễ Đức Thế Tôn, bậc A-la-hán, Chánh Đẳng Chánh Giác! Đảnh lễ Đức Thế Tôn, bậc A-la-hán, Chánh Đẳng Chánh Giác! Đảnh lễ Đức Thế Tôn, bậc A-la-hán, Chánh Đẳng Chánh Giác!"
+
+<!--pg-->
+Từ ngữ:
+- sầu, bi, khổ, ưu, não / soka, parideva, dukkha, domanassa, upāyāsa / sorrow, lamentation, pain, grief, and despair: Năm loại khổ đau tâm lý chính theo Phật giáo: buồn rầu (sầu), than khóc hay kể lể (bi), đau đớn về thân hay tâm (khổ), phiền muộn hay lo lắng (ưu), và tuyệt vọng hay thống khổ cùng cực (não). Chúng thường đi liền với nhau khi đối mặt với mất mát hay nghịch cảnh.
+- Sa-môn Cồ-đàm / Samaṇa Gotama / recluse Gotama: Tên gọi Đức Phật Thích Ca Mâu Ni (Siddhattha Gotama) sau khi xuất gia tu hành, trước khi thành đạo. Từ "Sa-môn" (Samaṇa) chỉ chung các vị tu sĩ khổ hạnh thời Ấn Độ cổ đại. Người ngoại đạo hoặc những người chưa công nhận Ngài là Phật thường dùng danh xưng này.
+- Như Lai / Tathāgata / Tathāgata: Một trong những danh hiệu cao quý nhất của Đức Phật. Có nhiều cách giải thích, phổ biến là "Bậc đã đến như vậy" (tathā-āgata) hoặc "Bậc đã đi như vậy" (tathā-gata), hàm ý Ngài đã đến và đi trên con đường chân lý như chư Phật quá khứ, hoặc Ngài đã đạt đến/thể nhập chân lý như thật (tatha). Danh hiệu này nhấn mạnh sự chứng ngộ chân lý và sự tương đồng với các vị Phật khác.
+- A-la-hán / Arahant / accomplished one: Bậc Thánh đã đoạn trừ hoàn toàn mọi phiền não, lậu hoặc, đạt được giải thoát cuối cùng (Niết-bàn), không còn tái sanh trong luân hồi. Đây là quả vị tu chứng cao nhất trong Phật giáo Theravada.
+- Chánh Đẳng Chánh Giác / Sammāsambuddha / fully enlightened one: Bậc Giác Ngộ hoàn toàn viên mãn, tự mình tìm ra chân lý và con đường giải thoát mà không cần thầy chỉ dạy, đồng thời có khả năng thuyết pháp độ sinh rộng rãi. Đức Phật Thích Ca Mâu Ni là một vị Chánh Đẳng Chánh Giác. Danh hiệu này thường đi cùng A-la-hán để chỉ Đức Phật.
+- thay đổi và biến hoại / vipariṇāma aññathābhāva / change and alteration: Sự thay đổi, biến đổi khác đi so với trạng thái ban đầu. Trong ngữ cảnh kinh này, nó ám chỉ sự thay đổi theo chiều hướng xấu đi, dẫn đến mất mát, bệnh tật, già yếu hoặc cái chết của người/vật thân yêu, là nguyên nhân trực tiếp gây ra sầu bi khổ ưu não.

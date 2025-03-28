@@ -1,4 +1,4 @@
-# 1 The Root of All Things
+# 1. The Root of All Things
 ***(Mūlapariyāya Sutta)***
 
 [1] 1. Thus have I heard. [^1] On one occasion the Blessed One was living in Ukkaṭthā in the Subhaga Grove at the root of a royal sāla tree. There he addressed the bhikkhus thus: "Bhikkhus." "Venerable sir," they replied. The Blessed One said this:

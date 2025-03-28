@@ -1,4 +1,4 @@
-# 66 The Simile of the Quail
+# 66. The Simile of the Quail
 ***(Laṭukikopama Sutta)***
 
 1\. Thus have I heard. On one occasion the Blessed One was living in the country of the Anguttarāpans at a town of theirs named Āpana.

@@ -3,7 +3,7 @@
 **102. KINH NĂM & BA**
 ***(Pancattaya Sutta)***
 
-## Như vầy tôi nghe:
+**Như vầy tôi nghe.**
 
 Một thời Thế Tôn trú ở Savatthi, Jetavana (Kỳ-đà-lâm), tại tu viện ông Anathapindika. Ở đây, Thế Tôn
 gọi các Tỷ-kheo: "Này các Tỷ-kheo" -"Thưa vâng, bạch Thế Tôn". Các vị Tỷ-kheo ấy vâng đáp Thế

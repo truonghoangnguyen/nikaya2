@@ -1,4 +1,4 @@
-# 93 To Assalāyana
+# 93. To Assalāyana
 ***(Assalāyana Sutta)***
 
 [147] 1. Thus have I heard. On one occasion the Blessed One was living at Sāvatthī in Jeta's Grove, Anāthapiṇ̣̣ika's Park.

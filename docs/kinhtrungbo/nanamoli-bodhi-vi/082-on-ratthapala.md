@@ -1,280 +1,322 @@
-# 82 On Raṭthapāla
-***(Ratṭhapāla Sutta)***
+# 82. Về Ngài Raṭṭhapāla
+***(Kinh Raṭṭhapāla)***
 
-1. Thus have I heard. On one occasion the Blessed One was wandering in the Kuru country with a large Sangha of bhikkhus, and eventually he arrived at a Kuru town named Thullakoṭthita.
+1\.  Tôi nghe như vầy. Một thời Đức Thế Tôn (Blessed One - Bậc được tôn kính trên đời) đang du hành ở xứ Kuru cùng với một đại Tăng đoàn (Sangha - cộng đồng các vị sư) gồm các vị tỳ kheo (bhikkhus - monks-bhikkhus-nhà sư), và cuối cùng Ngài đến một thị trấn của xứ Kuru tên là Thullakoṭṭhita.
 
-2. The brahmin householders of Thullakoṭthita heard: "The recluse Gotama, the son of the Sakyans who went forth from a Sakyan clan, has been wandering in the Kuru country [55] with a large Sangha of bhikkhus and has come to Thullakoṭthita. Now a good report of Master Gotama has been spread to this effect: 'That Blessed One is accomplished, fully enlightened, perfect in true knowledge and conduct, sublime, knower of worlds, incomparable leader of persons to be tamed, teacher of gods and humans, enlightened, blessed. He declares this world with its gods, its Māras, and its Brahmās, this generation with its recluses and brahmins, its princes and its people, which he has himself realised with direct knowledge. He teaches the Dhamma good in the beginning, good in the middle, and good in the end, with the right meaning and phrasing, and he reveals a holy life that is utterly perfect and pure.' Now it is good to see such arahants."
+2\.  Các gia chủ Bà-la-môn ở Thullakoṭṭhita nghe tin: "Sa-môn Gotama, người con của dòng họ Sakya đã xuất gia từ dòng tộc Sakya, đang du hành ở xứ Kuru [55] cùng với một đại Tăng đoàn gồm các vị tỳ kheo và đã đến Thullakoṭṭhita. Tiếng tốt về Tôn giả Gotama đã được đồn xa như sau: 'Đức Thế Tôn đó là bậc ứng cúng (accomplished - Arahant - bậc xứng đáng được cúng dường), chánh đẳng giác (fully enlightened - sammāsambuddha - bậc giác ngộ hoàn toàn và viên mãn), minh hạnh túc (perfect in true knowledge and conduct - vijjā-caraṇa-sampanna - người hoàn hảo về trí tuệ và đức hạnh), thiện thệ (sublime - sugata - người đã đi đến nơi tốt đẹp, tức Niết Bàn), thế gian giải (knower of worlds - lokavidū - người hiểu biết rõ về các thế giới), vô thượng sĩ điều ngự trượng phu (incomparable leader of persons to be tamed - anuttaro purisadamma-sārathi - bậc lãnh đạo không ai sánh bằng của những người cần được điều phục), thiên nhân sư (teacher of gods and humans - satthā deva-manussānaṃ - bậc thầy của trời và người), phật (enlightened - buddha - bậc giác ngộ), thế tôn (blessed - bhagavā - bậc được tôn kính trên đời). Ngài tuyên bố về thế giới này với các vị trời, Ma vương, và Phạm thiên, về thế hệ này với các sa-môn và bà-la-môn, các vị vua chúa và dân chúng, những điều mà chính Ngài đã chứng ngộ bằng thắng trí (direct knowledge - abhiññā - sự hiểu biết trực tiếp, siêu việt). Ngài giảng dạy Giáo Pháp (Dhamma - lời dạy của Đức Phật) tốt đẹp ở phần đầu, tốt đẹp ở phần giữa, và tốt đẹp ở phần cuối, với ý nghĩa và lời lẽ đúng đắn, và Ngài trình bày một đời sống phạm hạnh (holy life - brahmacariya - đời sống trong sạch, cao thượng hướng đến giải thoát) hoàn toàn viên mãn và thanh tịnh.' Thật tốt đẹp thay khi được gặp các bậc A-la-hán (arahants - bậc thánh đã giải thoát hoàn toàn) như vậy."
 
-3. Then the brahmin householders of Thullakoṭthita went to the Blessed One. Some paid homage to the Blessed One and sat down at one side; some exchanged greetings with him, and when this courteous and amiable talk was finished, sat down at one side; some extended their hands in reverential salutation towards the Blessed One and sat down at one side; some pronounced their name and clan in the Blessed One's presence and sat down at one side; some kept silent and sat down at one side. When they were seated, the Blessed One instructed, urged, roused, and encouraged them with talk on the Dhamma.
+3\.  Sau đó, các gia chủ Bà-la-môn ở Thullakoṭṭhita đã đến gặp Đức Thế Tôn. Một số người đảnh lễ Đức Thế Tôn rồi ngồi xuống một bên; một số người chào hỏi Ngài, và sau khi cuộc nói chuyện lịch sự và thân mật kết thúc, họ ngồi xuống một bên; một số người chắp tay cung kính hướng về Đức Thế Tôn rồi ngồi xuống một bên; một số người nói tên và dòng tộc của mình trước sự hiện diện của Đức Thế Tôn rồi ngồi xuống một bên; một số người giữ im lặng và ngồi xuống một bên. Khi họ đã ngồi yên, Đức Thế Tôn đã chỉ dạy, khuyến khích, khích lệ và làm cho họ phấn khởi bằng bài pháp thoại.
 
-4. Now at that time a clansman named Ratṭhapāla, the son of the leading clan in that same Thullakoṭthita, was sitting in the assembly. Then it occurred to him: "As I understand the Dhamma taught by the Blessed One, it is not easy while living in a home to lead the holy life, utterly perfect and pure as a polished shell. Suppose I shave off my hair and beard, put on the yellow robe, and go forth from the home life into homelessness."
+4\.  Lúc bấy giờ, có một thanh niên con nhà gia thế tên là Raṭṭhapāla, con trai của một gia tộc hàng đầu tại chính Thullakoṭṭhita đó, đang ngồi trong hội chúng. Rồi anh ta nghĩ rằng: "Theo như con hiểu Giáo Pháp do Đức Thế Tôn giảng dạy, thật không dễ dàng khi sống tại gia mà có thể thực hành đời sống phạm hạnh, hoàn toàn viên mãn và thanh tịnh như vỏ ốc được đánh bóng. Hay là con nên cạo bỏ râu tóc, đắp y vàng, và xuất gia từ bỏ đời sống gia đình, sống không nhà cửa (go forth from the home life into homelessness - pabbajjā - từ bỏ cuộc sống thế tục để tu hành)."
 
-5. Then the brahmin householders of Thullakoṭthita, having been instructed, urged, roused, and encouraged by the Blessed One with talk on the Dhamma, delighted and rejoiced in his words. They then rose from their [56] seats, and after paying homage to him, they departed, keeping him on their right.
+5\.  Sau đó, các gia chủ Bà-la-môn ở Thullakoṭṭhita, sau khi được Đức Thế Tôn chỉ dạy, khuyến khích, khích lệ và làm cho phấn khởi bằng bài pháp thoại, đã hoan hỷ và vui mừng với lời dạy của Ngài. Họ liền đứng dậy khỏi [56] chỗ ngồi, và sau khi đảnh lễ Ngài, họ ra về, đi nhiễu quanh Ngài theo chiều bên phải.
 
-6. Soon after they had gone, the clansman Raṭthapāla went to the Blessed One, and after paying homage to him, he sat down at one side and said to the Blessed One: "Venerable sir, as I understand the Dhamma taught by the Blessed One, it is not easy while living in a home to lead the holy life, utterly perfect and pure as a polished shell. Venerable sir, I wish to shave off my hair and beard, put on the yellow robe, and go forth from the home life into homelessness. I would receive the going forth under the Blessed One, I would receive the full admission."
+6\.  Ngay sau khi họ rời đi, thanh niên Raṭṭhapāla đến gặp Đức Thế Tôn, sau khi đảnh lễ Ngài, anh ngồi xuống một bên và thưa với Đức Thế Tôn: "Bạch ngài, theo như con hiểu Giáo Pháp do Đức Thế Tôn giảng dạy, thật không dễ dàng khi sống tại gia mà có thể thực hành đời sống phạm hạnh, hoàn toàn viên mãn và thanh tịnh như vỏ ốc được đánh bóng. Bạch ngài, con muốn cạo bỏ râu tóc, đắp y vàng, và xuất gia từ bỏ đời sống gia đình, sống không nhà cửa. Con mong được xuất gia dưới sự hướng dẫn của Đức Thế Tôn, con mong được nhận cụ túc giới (full admission - upasampadā - lễ thọ giới cao nhất để trở thành tỳ kheo)."
 
-"Have you been permitted by your parents, Raṭthapāla, to go forth from the home life into homelessness?"
+"Này Raṭṭhapāla, con đã được cha mẹ cho phép xuất gia từ bỏ đời sống gia đình, sống không nhà cửa chưa?"
 
-"No, venerable sir, I have not been permitted by my parents."
+"Thưa không, bạch ngài, con chưa được cha mẹ cho phép."
 
-"Ratṭhapāla, Tathāgatas do not give the going forth to anyone who does not have his parents' permission."
+"Này Raṭṭhapāla, các đấng Như Lai (Tathāgatas - danh hiệu của Đức Phật, nghĩa là 'Người đến như vậy' hoặc 'Người đi như vậy') không cho phép ai xuất gia mà không có sự đồng ý của cha mẹ."
 
-"Venerable sir, I shall see to it that my parents permit me to go forth from the home life into homelessness."
+"Bạch ngài, con sẽ cố gắng để cha mẹ cho phép con xuất gia từ bỏ đời sống gia đình, sống không nhà cửa."
 
-7. Then the clansman Raṭthapāla rose from his seat, and after paying homage to the Blessed One, he departed, keeping him on his right. He went to his parents and told them: "Mother and father, as I understand the Dhamma taught by the Blessed One, it is not easy while living in a home to lead the holy life, utterly perfect and pure as a polished shell. I wish to shave off my hair and beard, put on the yellow robe, and go forth from the home life into homelessness. Give me permission to go forth from the home life into homelessness."
+7\.  Sau đó, thanh niên Raṭṭhapāla đứng dậy khỏi chỗ ngồi, và sau khi đảnh lễ Đức Thế Tôn, anh ra về, đi nhiễu quanh Ngài theo chiều bên phải. Anh đến gặp cha mẹ và thưa với họ: "Thưa cha mẹ, theo như con hiểu Giáo Pháp do Đức Thế Tôn giảng dạy, thật không dễ dàng khi sống tại gia mà có thể thực hành đời sống phạm hạnh, hoàn toàn viên mãn và thanh tịnh như vỏ ốc được đánh bóng. Con muốn cạo bỏ râu tóc, đắp y vàng, và xuất gia từ bỏ đời sống gia đình, sống không nhà cửa. Xin cha mẹ cho phép con xuất gia từ bỏ đời sống gia đình, sống không nhà cửa."
 
-When he had said this, his parents replied: "Dear Ratṭhapāla, you are our only son, dear and beloved. You have been raised in comfort, brought up in comfort; you know nothing of suffer-
-ing, dear Raṭthapāla. [57] Even in case of your death we would lose you unwillingly, so how could we give you our permission to go forth from the home life into homelessness while you are still living?"
+Khi anh nói điều này, cha mẹ anh trả lời: "Này Raṭṭhapāla con yêu quý, con là đứa con trai duy nhất của cha mẹ, thân thương và yêu dấu. Con đã được nuôi dưỡng trong sự sung sướng, lớn lên trong sự thoải mái; con không biết gì về khổ đau, này Raṭṭhapāla con yêu quý. [57] Ngay cả khi con chết đi, cha mẹ cũng mất con trong sự không mong muốn, vậy làm sao cha mẹ có thể cho phép con xuất gia từ bỏ đời sống gia đình, sống không nhà cửa khi con vẫn còn đang sống?"
 
-For the second time...For the third time the clansman Raṭthapāla said to his parents: "Mother and father...give me permission to go forth from the home life into homelessness."
+Lần thứ hai... Lần thứ ba, thanh niên Raṭṭhapāla thưa với cha mẹ: "Thưa cha mẹ... xin cha mẹ cho phép con xuất gia từ bỏ đời sống gia đình, sống không nhà cửa."
 
-For the third time his parents replied: "Dear Raṭthapāla...how could we give you our permission to go forth from the home life into homelessness while you are still living?"
+Lần thứ ba, cha mẹ anh trả lời: "Này Raṭṭhapāla con yêu quý... làm sao cha mẹ có thể cho phép con xuất gia từ bỏ đời sống gia đình, sống không nhà cửa khi con vẫn còn đang sống?"
 
-Then, not receiving his parents' permission to go forth, the clansman Raṭthapāla lay down there on the bare floor, saying: "Right here I shall either die or receive the going forth." [58]
+Sau đó, không nhận được sự cho phép của cha mẹ để xuất gia, thanh niên Raṭṭhapāla nằm xuống ngay trên sàn nhà trống trải, nói rằng: "Ngay tại đây, con sẽ chết hoặc được xuất gia." [58]
 
-8. Then the clansman Raṭthapāla's parents said to him: "Dear Raṭthapāla, you are our only son, dear and beloved. You have been raised in comfort, brought up in comfort; you know nothing of suffering, dear Raṭthapāla. Get up, dear Raṭthapāla, eat, drink, and amuse yourself. While eating, drinking, and amusing yourself, you can be happy enjoying sensual pleasures and making merit. We do not permit you to go forth from the home life into homelessness. Even in the case of your death we would lose you unwillingly, so how could we give you our permission to go forth from the home life into homelessness while you are still living?" When this was said, the clansman Raṭthapāla was silent.
+8\.  Rồi cha mẹ của thanh niên Raṭṭhapāla nói với anh: "Này Raṭṭhapāla con yêu quý, con là đứa con trai duy nhất của cha mẹ, thân thương và yêu dấu. Con đã được nuôi dưỡng trong sự sung sướng, lớn lên trong sự thoải mái; con không biết gì về khổ đau, này Raṭṭhapāla con yêu quý. Dậy đi, Raṭṭhapāla con yêu quý, hãy ăn, uống, và vui chơi. Trong khi ăn, uống, và vui chơi, con có thể hạnh phúc tận hưởng các thú vui giác quan (sensual pleasures - kāma - sự hưởng thụ qua mắt, tai, mũi, lưỡi, thân) và tạo phước báu (merit - puñña - hành động tốt lành mang lại kết quả tốt đẹp). Cha mẹ không cho phép con xuất gia từ bỏ đời sống gia đình, sống không nhà cửa. Ngay cả khi con chết đi, cha mẹ cũng mất con trong sự không mong muốn, vậy làm sao cha mẹ có thể cho phép con xuất gia từ bỏ đời sống gia đình, sống không nhà cửa khi con vẫn còn đang sống?" Khi nghe vậy, thanh niên Raṭṭhapāla im lặng.
 
-For the second time...For the third time his parents said to him: "Dear Raṭthapāla...how could we give you our permission to go forth from the home life into homelessness while you are still living?" For the third time the clansman Raṭthapāla was silent.
+Lần thứ hai... Lần thứ ba, cha mẹ anh nói với anh: "Này Raṭṭhapāla con yêu quý... làm sao cha mẹ có thể cho phép con xuất gia từ bỏ đời sống gia đình, sống không nhà cửa khi con vẫn còn đang sống?" Lần thứ ba, thanh niên Raṭṭhapāla im lặng.
 
-9. Then the clansman Raṭthapāla's parents went to his friends and said to them: "Dears, the clansman Raṭthapāla has lain down on the bare floor, having said: 'Right here I shall either die' or receive the going forth.' Come, dears, go to the clansman Raṭthapāla and say to him: 'Friend Raṭthapāla, you are your parents' only son...Get up, friend Raṭthapāla, eat, drink, and amuse yourself...[59] how could your parents give you their permission to go forth from the home life into homelessness while you are still living?'"
+9\.  Sau đó, cha mẹ của thanh niên Raṭṭhapāla đến gặp bạn bè của anh và nói với họ: "Các con thân mến, thanh niên Raṭṭhapāla đã nằm xuống sàn nhà trống trải, nói rằng: 'Ngay tại đây, con sẽ chết hoặc được xuất gia.' Nào, các con thân mến, hãy đến gặp thanh niên Raṭṭhapāla và nói với nó: 'Bạn Raṭṭhapāla ơi, bạn là con trai duy nhất của cha mẹ bạn... Dậy đi, bạn Raṭṭhapāla, hãy ăn, uống, và vui chơi... [59] làm sao cha mẹ bạn có thể cho phép bạn xuất gia từ bỏ đời sống gia đình, sống không nhà cửa khi bạn vẫn còn đang sống?'"
 
-10. Then the clansman Raṭthapāla's friends went to him and said: "Friend Raṭthapāla, you are your parents' only son, dear and beloved. You have been raised in comfort, brought up in
-comfort; you know nothing of suffering, friend Ratṭhapāla. Get up, friend Ratṭhapāla, eat, drink, and amuse yourself. While eating, drinking, and amusing yourself, you can be happy enjoying sensual pleasures and making merit. Your parents do not permit you to go forth from the home life into homelessness. Even in case of your death they would lose you unwillingly, so how could they give you their permission to go forth from the home life into homelessness while you are still living?" When this was said, the clansman Raṭthapāla was silent.
+10\. Sau đó, bạn bè của thanh niên Raṭṭhapāla đến gặp anh và nói: "Bạn Raṭṭhapāla ơi, bạn là con trai duy nhất của cha mẹ bạn, thân thương và yêu dấu. Bạn đã được nuôi dưỡng trong sự sung sướng, lớn lên trong sự thoải mái; bạn không biết gì về khổ đau, bạn Raṭṭhapāla ơi. Dậy đi, bạn Raṭṭhapāla, hãy ăn, uống, và vui chơi. Trong khi ăn, uống, và vui chơi, bạn có thể hạnh phúc tận hưởng các thú vui giác quan và tạo phước báu. Cha mẹ bạn không cho phép bạn xuất gia từ bỏ đời sống gia đình, sống không nhà cửa. Ngay cả khi bạn chết đi, họ cũng mất bạn trong sự không mong muốn, vậy làm sao họ có thể cho phép bạn xuất gia từ bỏ đời sống gia đình, sống không nhà cửa khi bạn vẫn còn đang sống?" Khi nghe vậy, thanh niên Raṭṭhapāla im lặng.
 
-For the second time...For the third time his friends said to him: "Friend Raṭthapāla...how could they give you their permission to go forth from the home life into homelessness while you are still living?" For the third time the clansman Raṭthapāla was silent.
+Lần thứ hai... Lần thứ ba, bạn bè anh nói với anh: "Bạn Raṭṭhapāla ơi... làm sao họ có thể cho phép bạn xuất gia từ bỏ đời sống gia đình, sống không nhà cửa khi bạn vẫn còn đang sống?" Lần thứ ba, thanh niên Raṭṭhapāla im lặng.
 
-11. Then the clansman Raṭthapāla's friends went to his parents and said to them: "Mother and father, the clansman Raṭthapāla is lying down there on the bare floor, having said: 'Right here I shall either die or [60] get the going forth.' Now if you do not give him your permission to go forth from the home life into homelessness, he will die there. But if you give him your permission, you will see him after he has gone forth. And if he does not enjoy the going forth, what else can he do then but return here? So give him your permission to go forth from the home life into homelessness."
+11\. Sau đó, bạn bè của thanh niên Raṭṭhapāla đến gặp cha mẹ anh và nói với họ: "Thưa bác trai, bác gái, thanh niên Raṭṭhapāla đang nằm đó trên sàn nhà trống trải, nói rằng: 'Ngay tại đây, con sẽ chết hoặc [60] được xuất gia.' Bây giờ, nếu hai bác không cho phép cậu ấy xuất gia từ bỏ đời sống gia đình, sống không nhà cửa, cậu ấy sẽ chết ở đó. Nhưng nếu hai bác cho phép, hai bác sẽ được gặp lại cậu ấy sau khi cậu ấy đã xuất gia. Và nếu cậu ấy không thích thú với việc xuất gia, cậu ấy có thể làm gì khác ngoài việc trở về đây? Vậy xin hai bác hãy cho phép cậu ấy xuất gia từ bỏ đời sống gia đình, sống không nhà cửa."
 
-"Then, dears, we give the clansman Raṭthapāla permission to go forth from the home life into homelessness. But when he has gone forth, he must visit his parents."
+"Vậy thì, các con thân mến, chúng ta cho phép thanh niên Raṭṭhapāla xuất gia từ bỏ đời sống gia đình, sống không nhà cửa. Nhưng khi đã xuất gia, nó phải về thăm cha mẹ."
 
-Then the clansman Raṭthapāla's friends went to him and told him: "Get up, friend Raṭthapāla. Your parents permit you to go forth from the home life into homelessness. But when you have gone forth, you must visit your parents."
+Sau đó, bạn bè của thanh niên Raṭṭhapāla đến gặp anh và nói với anh: "Dậy đi, bạn Raṭṭhapāla. Cha mẹ bạn cho phép bạn xuất gia từ bỏ đời sống gia đình, sống không nhà cửa. Nhưng khi đã xuất gia, bạn phải về thăm cha mẹ."
 
-12. The clansman Raṭthapāla then got up, and when he had regained his strength, he went to the Blessed One, and after paying homage to him, he sat down at one side and told him: "Venerable sir, I have my parents' permission to go forth from the home life into homelessness. Let the Blessed One give me the going forth." Then the clansman Raṭthapāla received the going forth under the Blessed One, and he received the full admission. ${ }^{796}$
+12\. Thanh niên Raṭṭhapāla sau đó đứng dậy, và khi đã lấy lại sức, anh đến gặp Đức Thế Tôn, sau khi đảnh lễ Ngài, anh ngồi xuống một bên và thưa với Ngài: "Bạch ngài, con đã được cha mẹ cho phép xuất gia từ bỏ đời sống gia đình, sống không nhà cửa. Xin Đức Thế Tôn cho con được xuất gia." Sau đó, thanh niên Raṭṭhapāla đã được xuất gia dưới sự hướng dẫn của Đức Thế Tôn, và anh đã nhận được cụ túc giới. ${796}$
 
-13. Then not long after the venerable Raṭthapāla had received the full admission, a half-month after he had received the full
-admission, the Blessed One, having stayed at Thullakoṭthita as long as he chose, set out to wander towards Sāvatthī. Wandering by stages, he eventually arrived at Sāvatthī, and there [61] he lived at Sāvatthī in Jeta's Grove, Anāthapiṇ̣̣ika's Park.
+13\. Rồi không lâu sau khi tôn giả Raṭṭhapāla nhận cụ túc giới, nửa tháng sau khi nhận cụ túc giới, Đức Thế Tôn, sau khi ở lại Thullakoṭṭhita bao lâu tùy ý, đã lên đường du hành về Xá-vệ (Sāvatthī). Đi qua nhiều chặng đường, cuối cùng Ngài đến Xá-vệ, và ở đó [61] Ngài trú tại Xá-vệ trong Vườn Kỳ-đà (Jeta's Grove), Công viên của ông Cấp Cô Độc (Anāthapiṇḍika's Park).
 
-14. Before long, dwelling alone, withdrawn, diligent, ardent, and resolute, the venerable Ratṭhapāla, by realising for himself with direct knowledge, here and now entered upon and abided in that supreme goal of the holy life for the sake of which clansmen rightly go forth from the home life into homelessness. [^797] He directly knew: "Birth is destroyed, the holy life has been lived, what had to be done has been done, there is no more coming to any state of being." And the venerable Ratṭhapāla became one of the arahants.
+14\. Không bao lâu sau, sống một mình, ẩn dật, tinh tấn, nhiệt tâm, và quyết chí, tôn giả Raṭṭhapāla, bằng cách tự mình chứng ngộ với thắng trí, ngay tại đây và bây giờ đã đạt đến và an trú trong mục đích tối thượng của đời sống phạm hạnh (supreme goal of the holy life - brahmacariya-pariyosāna - thường chỉ Niết Bàn, sự chấm dứt khổ đau) mà vì đó các thiện nam tử chân chính xuất gia từ bỏ đời sống gia đình, sống không nhà cửa. [^797] Ngài biết rõ: "Sanh đã tận, phạm hạnh đã thành, việc cần làm đã làm, không còn trở lui trạng thái này nữa." Và tôn giả Raṭṭhapāla đã trở thành một trong các vị A-la-hán.
 
-15. Then the venerable Raṭthapāla went to the Blessed One, and after paying homage to him, he sat down at one side and told him: "Venerable sir, I wish to visit my parents, if I have the Blessed One's permission."
+15\. Sau đó, tôn giả Raṭṭhapāla đến gặp Đức Thế Tôn, sau khi đảnh lễ Ngài, ngài ngồi xuống một bên và thưa với Ngài: "Bạch ngài, con muốn về thăm cha mẹ, nếu được Đức Thế Tôn cho phép."
 
-Then the Blessed One penetrated mentally the thoughts in venerable Ratṭhapāla's mind. When he knew that the clansman Raṭthapāla was incapable of abandoning the training and returning to the low life, he told him: "Now is the time, Raṭthapāla, to do as you think fit."
+Lúc đó, Đức Thế Tôn dùng tâm thấu suốt những suy nghĩ trong tâm trí tôn giả Raṭṭhapāla. Khi biết rằng thanh niên Raṭṭhapāla không có khả năng từ bỏ học pháp và hoàn tục (abandoning the training and returning to the low life - sikkhaṃ paccakkhāya hīnāyāvattati - bỏ việc tu tập và quay lại đời sống thế tục thấp kém), Ngài bảo ông: "Này Raṭṭhapāla, bây giờ là lúc thích hợp để con làm những gì con nghĩ là phù hợp."
 
-16. Then the venerable Raṭthapāla rose from his seat, and after paying homage to the Blessed One, he departed, keeping him on his right. He then set his resting place in order, and taking his bowl and outer robe, set out to wander towards Thullakoṭthita. Wandering by stages, he eventually arrived at Thullakoṭthita. There he lived in Thullakoṭthita in King Koravya's Migācīra Garden. Then, when it was morning, he dressed, and taking his bowl and outer robe, went into Thullakoṭthita for alms. As he was wandering for alms from house to house in Thullakoṭthita, he came to his own father's house.
+16\. Sau đó, tôn giả Raṭṭhapāla đứng dậy khỏi chỗ ngồi, và sau khi đảnh lễ Đức Thế Tôn, ngài ra đi, đi nhiễu quanh Ngài theo chiều bên phải. Ngài thu dọn chỗ ở, mang bát và y, lên đường du hành về Thullakoṭṭhita. Đi qua nhiều chặng đường, cuối cùng ngài đến Thullakoṭṭhita. Ở đó, ngài trú tại Thullakoṭṭhita trong Vườn Migācīra của Vua Koravya. Rồi, vào buổi sáng, ngài đắp y, mang bát và y, vào Thullakoṭṭhita để khất thực (alms - đi xin thức ăn theo truyền thống của tu sĩ Phật giáo). Khi đang đi khất thực từ nhà này sang nhà khác ở Thullakoṭṭhita, ngài đến nhà của cha mình.
 
-17. Now on that occasion the venerable Raṭthapāla's father was sitting in the hall of the central door having his hair dressed. When he saw the venerable Raṭthapāla coming in the distance, he said: "Our only son, dear and beloved, was made to go forth by these bald-pated recluses." [62] Then at his own father's house the venerable Raṭthapāla received neither alms nor a polite refusal; instead, he received only abuse.
+17\. Lúc đó, cha của tôn giả Raṭṭhapāla đang ngồi ở sảnh cửa chính để sửa tóc. Khi thấy tôn giả Raṭṭhapāla đi tới từ xa, ông nói: "Đứa con trai duy nhất, thân thương và yêu dấu của chúng ta, đã bị những kẻ sa-môn đầu trọc này dụ dỗ xuất gia." [62] Sau đó, tại nhà của cha mình, tôn giả Raṭṭhapāla không nhận được thức ăn cúng dường cũng không nhận được lời từ chối lịch sự; thay vào đó, ngài chỉ nhận được lời mắng nhiếc.
 
-18. Just then a slavewoman belonging to one of his relatives was about to throw away some old porridge. [^798] Seeing this, the
-venerable Ratṭhapāla said to her: "Sister, if that stuff is to be thrown away, then pour it into my bowl here."
+18\. Ngay lúc đó, một nữ tỳ thuộc họ hàng của ngài đang chuẩn bị đổ bỏ ít cháo cũ. [^798] Thấy vậy, tôn giả Raṭṭhapāla nói với cô: "Này chị, nếu thứ đó sắp đổ đi, thì hãy đổ vào bát của tôi đây."
 
-While she was doing so, she recognised the characteristic features of his hands, his feet, and his voice. Then she went to his mother and said: "Please know, my lady, that my lord's son Raṭthapāla has arrived."
+Trong khi đổ cháo, cô nhận ra những đặc điểm quen thuộc trên bàn tay, bàn chân và giọng nói của ngài. Sau đó, cô đến gặp mẹ ngài và nói: "Xin thưa bà chủ, cậu chủ Raṭṭhapāla đã về."
 
-"Gracious! If what you say is true, you are no longer a slave!"
+"Trời ơi! Nếu lời cô nói là thật, cô không còn là nô lệ nữa!"
 
-Then the venerable Raṭthapāla's mother went to his father and said: "Please know, householder, they say that the clansman Raṭthapāla has arrived."
+Sau đó, mẹ của tôn giả Raṭṭhapāla đến gặp cha ngài và nói: "Xin thưa gia chủ, người ta nói rằng thanh niên Raṭṭhapāla đã về."
 
-19. Just then the venerable Raṭthapāla was eating the old porridge by the wall of a certain shelter. His father went to him and said: "Raṭthapāla, my dear, surely there is...and you will be eating old porridge! [^799] Is there not your own house to go to?"
+19\. Ngay lúc đó, tôn giả Raṭṭhapāla đang ăn cháo cũ bên bức tường của một mái che nào đó. Cha ngài đến gặp ngài và nói: "Raṭṭhapāla, con yêu quý, chắc chắn là có... mà con lại ăn cháo cũ! [^799] Chẳng lẽ con không có nhà riêng để về sao?"
 
-"How could we have a house, householder, when we have gone forth from the home life into homelessness? We are homeless, householder. We went [63] to your house, but we received neither alms nor a polite refusal there; instead we received only abuse."
+"Làm sao chúng con có nhà được, thưa gia chủ, khi chúng con đã xuất gia từ bỏ đời sống gia đình, sống không nhà cửa? Chúng con là những người không nhà, thưa gia chủ. Chúng con đã đến [63] nhà của ông, nhưng không nhận được thức ăn cúng dường cũng không nhận được lời từ chối lịch sự; thay vào đó chúng con chỉ nhận được lời mắng nhiếc."
 
-"Come, dear Raṭthapāla, let us go to the house."
+"Thôi nào, Raṭṭhapāla con yêu quý, chúng ta hãy về nhà."
 
-"Enough, householder, my meal for today is finished."
+"Đủ rồi, thưa gia chủ, bữa ăn hôm nay của con đã xong."
 
-"Then, dear Raṭthapāla, consent to accept tomorrow's meal." The venerable Raṭthapāla consented in silence.
+"Vậy thì, Raṭṭhapāla con yêu quý, hãy nhận lời mời dùng bữa ngày mai." Tôn giả Raṭṭhapāla im lặng nhận lời.
 
-20. Then, knowing that the venerable Raṭthapāla had consented, his father went back to his own house where he had gold coins and bullion made into a large heap and covered it with mats. Then he told the venerable Raṭthapāla's former wives: "Come, daughters-in-law, adorn yourselves with ornaments in the way Raṭthapāla found you most dear and loveable."
+20\. Sau đó, biết rằng tôn giả Raṭṭhapāla đã nhận lời, cha ngài trở về nhà mình, nơi ông cho gom tiền vàng và vàng khối thành một đống lớn rồi lấy chiếu che lại. Sau đó, ông nói với các người vợ cũ của tôn giả Raṭṭhapāla: "Nào, các con dâu, hãy trang điểm bằng những đồ trang sức mà Raṭṭhapāla thấy các con yêu kiều và đáng yêu nhất."
 
-21. When night had ended, the venerable Raṭthapāla's father had good food of various kinds prepared in his own house and had the time announced to the venerable Raṭthapāla: "It is time, dear Raṭthapāla, the meal is ready."
+21\. Khi đêm đã qua, cha của tôn giả Raṭṭhapāla cho chuẩn bị nhiều loại thức ăn ngon trong nhà mình và báo giờ cho tôn giả Raṭṭhapāla: "Đã đến giờ rồi, Raṭṭhapāla con yêu quý, bữa ăn đã sẵn sàng."
 
-22. Then, it being morning, the venerable Raṭthapāla dressed, and taking his bowl and outer robe, he went to his own father's house and sat down on the seat made ready. Then his father had the pile of gold coins and bullion uncovered and said: "Dear Raṭthapāla, this is your maternal fortune; your paternal fortune is another and your ancestral fortune is yet another. Dear Raṭthapāla, you can enjoy the wealth and make merit. Come
-then, dear, [64] abandon the training and return to the low life, enjoy the wealth and make merit."
+22\. Sau đó, vào buổi sáng, tôn giả Raṭṭhapāla đắp y, mang bát và y, đến nhà cha mình và ngồi vào chỗ đã soạn sẵn. Rồi cha ngài cho mở đống tiền vàng và vàng khối ra và nói: "Raṭṭhapāla con yêu quý, đây là tài sản bên ngoại của con; tài sản bên nội của con là một phần khác và tài sản tổ tiên để lại còn là một phần khác nữa. Raṭṭhapāla con yêu quý, con có thể hưởng thụ sự giàu có và tạo phước báu. Thôi nào, con yêu quý, [64] hãy từ bỏ việc tu tập và hoàn tục, hưởng thụ sự giàu có và tạo phước báu."
 
-"Householder, if you would follow my advice, then have this pile of gold coins and bullion loaded on carts and carried away to be dumped midstream in the river Ganges. Why is that? Because, householder, on account of this there will arise for you sorrow, lamentation, pain, grief, and despair."
+"Thưa gia chủ, nếu ông nghe lời khuyên của tôi, thì hãy cho chất đống tiền vàng và vàng khối này lên xe và mang đi đổ xuống giữa dòng sông Hằng. Tại sao vậy? Bởi vì, thưa gia chủ, chính vì thứ này mà ông sẽ phải chịu đựng sầu, bi, khổ, ưu, não (sorrow, lamentation, pain, grief, and despair - soka-parideva-dukkha-domanass-upāyāsā - năm loại khổ đau về tinh thần và thể chất)."
 
-23. Then the venerable Ratṭhapāla's former wives clasped his feet and said to him: "What are they like, my lord's son, the nymphs for whose sake you lead the holy life?"
+23\. Sau đó, các người vợ cũ của tôn giả Raṭṭhapāla ôm lấy chân ngài và nói: "Thưa cậu chủ, các tiên nữ (nymphs - accharā - nữ thần, thiên nữ) mà vì họ ngài sống đời phạm hạnh trông như thế nào?"
 
-"We do not lead the holy life for the sake of nymphs, sisters."
+"Chúng tôi không sống đời phạm hạnh vì các tiên nữ, các chị ạ."
 
-"Our lord's son Raṭthapāla calls us 'sisters," they cried and right there they fainted.
+"Cậu chủ Raṭṭhapāla gọi chúng ta là 'các chị'," họ kêu lên và ngất xỉu ngay tại đó.
 
-24. Then the venerable Raṭthapāla told his father: "Householder, if there is a meal to be given, then give it. Do not harass us."
+24\. Sau đó, tôn giả Raṭṭhapāla nói với cha mình: "Thưa gia chủ, nếu có bữa ăn để cúng dường, thì xin hãy cúng dường. Đừng làm phiền chúng tôi."
 
-"Eat then, dear Raṭthapāla, the meal is ready."
+"Vậy con ăn đi, Raṭṭhapāla con yêu quý, bữa ăn đã sẵn sàng."
 
-Then, with his own hands, the venerable Ratṭhapāla's father served and satisfied him with the various kinds of good food. When the venerable Raṭthapāla had eaten and had withdrawn his hand from the bowl, he stood up and uttered these stanzas:
+Sau đó, cha của tôn giả Raṭṭhapāla tự tay dọn và mời ngài dùng các loại thức ăn ngon. Khi tôn giả Raṭṭhapāla đã ăn xong và rút tay khỏi bát, ngài đứng dậy và đọc những câu kệ này:
 
-25. "Behold a puppet here pranked out, ${ }^{800}$
+25\. "Hãy nhìn hình hài được tô điểm này, ${800}$
+Một thân thể được tạo thành từ vết thương,
+Bệnh tật, một đối tượng đáng lo ngại,
+Nơi không có sự ổn định nào tồn tại.
 
-A body built up out of sores,
+Hãy nhìn hình hài được tô điểm này
+Với đồ trang sức và cả hoa tai,
+Một bộ xương được bọc trong lớp da,
+Trở nên hấp dẫn nhờ quần áo của nó.
 
-Sick, an object for concern,
+Chân nó được tô điểm bằng thuốc nhuộm henna
+Và phấn được thoa lên mặt nó:
+Nó có thể quyến rũ kẻ ngu si, nhưng không phải
+Người tìm kiếm bờ bên kia. [65]
 
-Where no stability abides.
+Tóc nó được tết thành tám bím
+Và thuốc mỡ được thoa lên mắt nó:
+Nó có thể quyến rũ kẻ ngu si, nhưng không phải
+Người tìm kiếm bờ bên kia.
 
-Behold a figure here pranked out
+Một thân thể bẩn thỉu được trang điểm kỹ lưỡng
+Giống như một lọ thuốc mỡ mới sơn:
+Nó có thể quyến rũ kẻ ngu si, nhưng không phải
+Người tìm kiếm bờ bên kia.
 
-With jewellery and earrings too,
+Người thợ săn hươu đã giăng bẫy
+Nhưng con hươu không mắc bẫy;
+Chúng ta đã ăn mồi và giờ ra đi
+Để lại những người thợ săn phải than khóc."
 
-A skeleton wrapped up in skin,
+26\. Sau khi tôn giả Raṭṭhapāla đứng dậy và đọc những câu kệ này, ngài đi đến vườn Migācīra của Vua Koravya và ngồi xuống dưới gốc cây để an trú ban ngày.
 
-Made attractive by its clothes.
+27\. Sau đó, Vua Koravya nói với người quản vườn của mình: "Này người quản vườn tốt bụng, hãy dọn dẹp Vườn Migācīra để chúng ta có thể đến khu vườn thượng uyển ngắm cảnh đẹp." - "Tâu bệ hạ, vâng ạ," ông ta trả lời. Trong khi đang dọn dẹp Vườn Migācīra, người quản vườn thấy tôn giả Raṭṭhapāla đang ngồi dưới gốc cây để an trú ban ngày. Khi thấy ngài, ông đến gặp Vua Koravya và báo: "Tâu bệ hạ, Vườn Migācīra đã được dọn dẹp xong. Thanh niên Raṭṭhapāla đang ở đó, con trai của gia tộc hàng đầu tại chính Thullakoṭṭhita này, người mà bệ hạ luôn ca ngợi; [^801] ngài đang ngồi dưới gốc cây để an trú ban ngày."
 
-Its feet adorned with henna dye
+"Vậy thì, Migava tốt bụng, hôm nay đủ rồi với khu vườn thượng uyển. Bây giờ chúng ta sẽ đến để tỏ lòng kính trọng với Tôn giả Raṭṭhapāla đó."
 
-And powder smeared upon its face:
+28\. Sau đó, nói rằng: "Hãy đem tất cả thức ăn đã chuẩn bị ở đó cho đi," Vua Koravya cho chuẩn bị một số xe ngựa hoàng gia, và lên một chiếc, cùng với các xe khác hộ tống, ông rời khỏi Thullakoṭṭhita với đầy đủ nghi lễ hoàng gia để đến gặp tôn giả Raṭṭhapāla. Ông đi xe ngựa đến hết đoạn đường có thể đi được, rồi xuống xe và đi bộ cùng với đoàn tùy tùng gồm các quan chức cao cấp nhất đến nơi tôn giả Raṭṭhapāla đang ở. [66] Ông chào hỏi tôn giả Raṭṭhapāla, và khi cuộc nói chuyện lịch sự và thân mật kết thúc, ông đứng sang một bên và nói: "Đây là tấm thảm voi. Xin mời Tôn giả Raṭṭhapāla ngồi lên."
 
-It may beguile a fool, but not
+"Không cần đâu, Đại vương. Xin mời ngài ngồi. Tôi đang ngồi trên tấm tọa cụ của mình."
 
-A seeker of the further shore. [65]
+Vua Koravya ngồi xuống chỗ đã soạn sẵn và nói:
 
-Its hair is dressed in eightfold plaits
+29\. "Thưa ngài Raṭṭhapāla, có bốn loại mất mát. Bởi vì đã trải qua bốn loại mất mát này, một số người ở đây cạo bỏ râu tóc, đắp y vàng, và xuất gia từ bỏ đời sống gia đình, sống không nhà cửa. Bốn loại đó là gì? Đó là mất mát do tuổi già, mất mát do bệnh tật, mất mát tài sản, và mất mát người thân.
 
-And unguent smeared upon its eyes:
+30\. "Và mất mát do tuổi già là gì? Ở đây, thưa ngài Raṭṭhapāla, có người đã già, tuổi cao, nặng gánh năm tháng, cuộc đời đã xế bóng, đi đến giai đoạn cuối. Người đó suy xét như sau: 'Ta đã già, tuổi cao, nặng gánh năm tháng, cuộc đời đã xế bóng, đi đến giai đoạn cuối. Ta không còn dễ dàng kiếm được của cải chưa có hoặc làm tăng thêm của cải đã có. Hay là ta nên cạo bỏ râu tóc, đắp y vàng, và xuất gia từ bỏ đời sống gia đình, sống không nhà cửa.' Bởi vì đã trải qua sự mất mát do tuổi già đó, người đó cạo bỏ râu tóc, đắp y vàng, và xuất gia từ bỏ đời sống gia đình, sống không nhà cửa. Đây gọi là mất mát do tuổi già. Nhưng ngài Raṭṭhapāla bây giờ vẫn còn trẻ, một thanh niên tóc đen được ban phước lành của tuổi trẻ, đang trong thời kỳ sung sức nhất của cuộc đời. Ngài Raṭṭhapāla chưa trải qua bất kỳ mất mát nào do tuổi già. Ngài đã biết, thấy, hay nghe điều gì mà lại xuất gia từ bỏ đời sống gia đình, sống không nhà cửa?
 
-It may beguile a fool, but not
+31\. "Và mất mát do bệnh tật là gì? Ở đây, thưa ngài Raṭṭhapāla, có người bị bệnh, đau khổ, và ốm nặng. Người đó suy xét như sau: 'Ta bị bệnh, đau khổ, và ốm nặng. Ta không còn dễ dàng kiếm được của cải chưa có...[67]...sống không nhà cửa.' Bởi vì đã trải qua sự mất mát do bệnh tật đó... người đó xuất gia từ bỏ đời sống gia đình, sống không nhà cửa. Đây gọi là mất mát do bệnh tật. Nhưng ngài Raṭṭhapāla bây giờ không bệnh tật và đau khổ; ngài sở hữu một hệ tiêu hóa tốt, không quá lạnh cũng không quá nóng mà ở mức trung bình. Ngài Raṭṭhapāla chưa trải qua bất kỳ mất mát nào do bệnh tật. Ngài đã biết, thấy, hay nghe điều gì mà lại xuất gia từ bỏ đời sống gia đình, sống không nhà cửa?
 
-A seeker of the further shore.
+32\. "Và mất mát tài sản là gì? Ở đây, thưa ngài Raṭṭhapāla, có người giàu có, nhiều của cải, nhiều tài sản. Dần dần tài sản của người đó hao hụt đi. Người đó suy xét như sau: 'Trước đây ta giàu có, nhiều của cải, nhiều tài sản. Dần dần tài sản của ta đã hao hụt đi. Ta không còn dễ dàng kiếm được của cải chưa có...sống không nhà cửa.' Bởi vì đã trải qua sự mất mát tài sản đó... người đó xuất gia từ bỏ đời sống gia đình, sống không nhà cửa. Đây gọi là mất mát tài sản. Nhưng ngài Raṭṭhapāla là con trai của gia tộc hàng đầu tại chính Thullakoṭṭhita này. Ngài Raṭṭhapāla chưa trải qua bất kỳ mất mát nào về tài sản. Ngài đã biết, thấy, hay nghe điều gì mà lại xuất gia từ bỏ đời sống gia đình, sống không nhà cửa?
 
-A filthy body well adorned
+33\. "Và mất mát người thân là gì? Ở đây, thưa ngài Raṭṭhapāla, có người có nhiều bạn bè và đồng hành, bà con và họ hàng. Dần dần những người thân đó của người đó mất đi. Người đó suy xét như sau: 'Trước đây ta có nhiều bạn bè và đồng hành, bà con và họ hàng. Dần dần những người thân đó của ta đã mất đi. Ta không còn dễ dàng kiếm được của cải chưa có...[68]...sống không nhà cửa.' Bởi vì đã trải qua sự mất mát người thân đó... người đó xuất gia từ bỏ đời sống gia đình, sống không nhà cửa. Đây gọi là mất mát người thân. Nhưng ngài Raṭṭhapāla có nhiều bạn bè và đồng hành, bà con và họ hàng, tại chính Thullakoṭṭhita này. Ngài Raṭṭhapāla chưa trải qua bất kỳ mất mát nào về người thân. Ngài đã biết, thấy, hay nghe điều gì mà lại xuất gia từ bỏ đời sống gia đình, sống không nhà cửa?
 
-Like a new-painted unguent pot:
+34\. "Thưa ngài Raṭṭhapāla, đây là bốn loại mất mát. Bởi vì đã trải qua bốn loại mất mát này, một số người ở đây cạo bỏ râu tóc, đắp y vàng, và xuất gia từ bỏ đời sống gia đình, sống không nhà cửa. Ngài Raṭṭhapāla chưa trải qua bất kỳ điều nào trong số này. Ngài đã biết, thấy, hay nghe điều gì mà lại xuất gia từ bỏ đời sống gia đình, sống không nhà cửa?"
 
-It may beguile a fool, but not
+35\. "Tâu Đại vương, có bốn điểm tóm tắt Giáo Pháp đã được Đức Thế Tôn, bậc Biết và Thấy, bậc Ứng Cúng và Chánh Đẳng Giác giảng dạy. Biết, thấy và nghe chúng, tôi đã xuất gia từ bỏ đời sống gia đình, sống không nhà cửa. Bốn điểm đó là gì?
 
-A seeker of the further shore.
+36\. (1) "'[Đời sống trong] bất kỳ thế giới nào cũng không bền vững, bị cuốn đi' (['Life in] any world is unstable, it is swept away' - Addhuvo loko upanīyati - thế giới không chắc chắn, luôn bị dẫn đến sự hoại diệt): [^802] đây là điểm tóm tắt Giáo Pháp đầu tiên được Đức Thế Tôn, bậc Biết và Thấy, bậc Ứng Cúng và Chánh Đẳng Giác giảng dạy. Biết, thấy và nghe điều này, tôi đã xuất gia từ bỏ đời sống gia đình, sống không nhà cửa.
 
-The deer-hunter set out the snare
+(2) "'[Đời sống trong] bất kỳ thế giới nào cũng không có nơi nương tựa, không có người bảo vệ' (['Life in] any world has no shelter and no protector' - Atāṇo loko anabhissaro - thế giới không có sự che chở, không có người làm chủ): [^803] đây là điểm tóm tắt Giáo Pháp thứ hai được Đức Thế Tôn, bậc Biết và Thấy... giảng dạy.
+(3) "'[Đời sống trong] bất kỳ thế giới nào cũng không có gì là của riêng mình; người ta phải từ bỏ tất cả và ra đi' (['Life in] any world has nothing of its own; one has to leave all and pass on' - Assako loko, sabbaṃ pahāya gamanīyaṃ - thế giới không có sở hữu riêng, phải bỏ lại tất cả mà đi):804 đây là điểm tóm tắt Giáo Pháp thứ ba được Đức Thế Tôn, bậc Biết và Thấy... giảng dạy.
 
-But the deer did not spring the trap;
+(4) "'[Đời sống trong] bất kỳ thế giới nào cũng thiếu thốn, không bao giờ thỏa mãn, là nô lệ của tham ái' (['Life in] any world is incomplete, insatiate, the slave of craving' - Ūno loko atitto taṇhādāso - thế giới luôn thiếu hụt, không biết đủ, là nô lệ của ái dục):805 đây là điểm tóm tắt Giáo Pháp thứ tư được Đức Thế Tôn, bậc Biết và Thấy... giảng dạy.
 
-We ate the bait and now depart
+37\. "Tâu Đại vương, đây là bốn điểm tóm tắt Giáo Pháp đã được Đức Thế Tôn, bậc Biết và Thấy, bậc Ứng Cúng và Chánh Đẳng Giác giảng dạy. [69] Biết, thấy và nghe chúng, tôi đã xuất gia từ bỏ đời sống gia đình, sống không nhà cửa."
 
-Leaving the hunters to lament."
+38\. "Ngài Raṭṭhapāla nói: '[Đời sống trong] bất kỳ thế giới nào cũng không bền vững, bị cuốn đi.' Nên hiểu ý nghĩa của câu nói đó như thế nào?"
 
-26. After the venerable Raṭthapāla had stood up and uttered these stanzas, he went to King Koravya's Migācīra garden and sat down at the root of a tree for the day's abiding.
+"Đại vương nghĩ sao? Khi ngài hai mươi hoặc hai mươi lăm tuổi, ngài có phải là một người cưỡi voi tài giỏi, một kỵ sĩ tài giỏi, một người đánh xe tài giỏi, một cung thủ tài giỏi, một kiếm sĩ tài giỏi, mạnh mẽ ở đùi và tay, cường tráng, có khả năng chiến đấu không?"
 
-27. Then King Koravya addressed his gamekeeper thus: "Good gamekeeper, tidy up the Migācīra Garden so that we may go to the pleasure garden to see a pleasing spot." - "Yes, sire," he replied. Now while he was tidying up the Migācīra Garden, the gamekeeper saw the venerable Raṭthapāla seated at the root of a tree for the day's abiding. When he saw him, he went to King Koravya and told him: "Sire, the Migācīra Garden has been tidied up. The clansman Raṭthapāla is there, the son of the leading clan in this same Thullakoṭthita, of whom you have always spoken highly; [^801] he is seated at the root of a tree for the day's abiding."
+"Khi tôi hai mươi hoặc hai mươi lăm tuổi, thưa ngài Raṭṭhapāla, tôi là một người cưỡi voi tài giỏi... mạnh mẽ ở đùi và tay, cường tráng, có khả năng chiến đấu. Đôi khi tôi tự hỏi liệu lúc đó mình có sức mạnh siêu nhiên (supernormal power - iddhi - năng lực phi thường) không. Tôi không thấy ai có thể sánh bằng sức mạnh của tôi."
 
-"Then, good Migava, enough of the pleasure garden for today. Now we shall go to pay respects to that Master Raṭthapāla."
+"Đại vương nghĩ sao? Bây giờ ngài có còn mạnh mẽ ở đùi và tay, cường tráng và có khả năng chiến đấu như vậy không?"
 
-28. Then, saying: "Give away all the food that has been prepared there," King Koravya had a number of state carriages prepared, and mounting one of them, accompanied by the other carriages, he drove out from Thullakoṭthita with the full pomp of royalty to see the venerable Raṭthapāla. He drove thus as far as the road was passable for carriages, and then he dismounted from his carriage and went forward on foot with a following of the most eminent officials to where the venerable Raṭthapāla was. [66] He exchanged greetings with the venerable Raṭthapāla, and when this courteous and amiable talk was finished, he stood at one side and said: "Here is an elephant rug. Let Master Raṭthapāla be seated on it."
+"Không, thưa ngài Raṭṭhapāla. Bây giờ tôi đã già, tuổi cao, nặng gánh năm tháng, cuộc đời đã xế bóng, đi đến giai đoạn cuối; tuổi của tôi đã tám mươi. Đôi khi tôi định đặt chân ở đây nhưng lại đặt chân ở chỗ khác."
 
-"There is no need, great king. Sit down. I am sitting on my own mat."
+"Tâu Đại vương, chính vì điều này mà Đức Thế Tôn, bậc Biết và Thấy, bậc Ứng Cúng và Chánh Đẳng Giác, đã nói: '[Đời sống trong] bất kỳ thế giới nào cũng không bền vững, bị cuốn đi'; và khi tôi biết, thấy và nghe điều này, tôi đã xuất gia từ bỏ đời sống gia đình, sống không nhà cửa."
 
-King Koravya sat down on a seat made ready and said:
+"Thật kỳ diệu, thưa ngài Raṭṭhapāla, thật tuyệt vời làm sao lời dạy đó đã được Đức Thế Tôn, bậc Biết và Thấy, bậc Ứng Cúng và Chánh Đẳng Giác, diễn đạt thật hay: '[Đời sống trong] bất kỳ thế giới nào cũng không bền vững, bị cuốn đi.' Quả đúng là như vậy!
 
-29. "Master Ratṭhapāla, there are four kinds of loss. Because they have undergone these four kinds of loss, some people here shave off their hair and beard, put on the yellow robe, and go forth from the home life into homelessness. What are the four? They are loss through ageing, loss through sickness, loss of wealth, and loss of relatives.
+39\. "Thưa ngài Raṭṭhapāla, trong triều đình này có tồn tại các đội quân voi, kỵ binh, đội quân xe ngựa và bộ binh, sẽ phục vụ để khuất phục bất kỳ mối đe dọa nào đối với chúng ta. [70] Bây giờ ngài Raṭṭhapāla nói: '[Đời sống trong] bất kỳ thế giới nào cũng không có nơi nương tựa, không có người bảo vệ.' Nên hiểu ý nghĩa của câu nói đó như thế nào?"
 
-30. "And what is loss through ageing? Here, Master Raṭthapāla, someone is old, aged, burdened with years, advanced in life, come to the last stage. He considers thus: 'I am old, aged, burdened with years, advanced in life, come to the last stage. It is no longer easy for me to acquire unacquired wealth or to augment wealth already acquired. Suppose I shave off my hair and beard, put on the yellow robe, and go forth from the home life into homelessness.' Because he has undergone that loss through ageing, he shaves off his hair and beard, puts on the yellow robe, and goes forth from the home life into homelessness. This is called loss through ageing. But Master Raṭthapāla is now still young, a black-haired young man endowed with the blessing of youth, in the prime of life. Master Raṭthapāla has not undergone any loss through ageing. What has he known or seen or heard that he has gone forth from the home life into homelessness?
+"Đại vương nghĩ sao? Ngài có mắc bệnh mãn tính nào không?"
 
-31. "And what is loss through sickness? Here, Master Raṭthapāla, someone is afflicted, suffering, and gravely ill. He considers thus: 'I am afflicted, suffering, and gravely ill. It is no longer easy for me to acquire unacquired wealth...[67]...into homelessness.' Because he has undergone that loss through sickness...he goes forth from the home life into homelessness. This is called loss through sickness. But Master Raṭthapāla now is free from illness and affliction; he possesses a good digestión that is neither too cool nor too warm but medium. Master Raṭthapāla has not undergone any loss through sickness. What has he known or seen or heard that he has gone forth from the home life into homelessness?
+"Tôi có một căn bệnh gió mãn tính, thưa ngài Raṭṭhapāla. Đôi khi bạn bè và đồng hành, bà con và họ hàng của tôi đứng xung quanh tôi, nghĩ rằng: 'Bây giờ Vua Koravya sắp chết, bây giờ Vua Koravya sắp chết!'"
 
-32. "And what is loss of wealth? Here, Master Raṭthapāla, someone is rich, of great wealth, of great possessions. Gradually his wealth dwindles away. He considers thus: 'Formerly I was rich, of great wealth, of great possessions. Gradually my wealth has dwindled away. It is no longer easy for me to
-acquire unacquired wealth...into homelessness.' Because he has undergone that loss of wealth...he goes forth from the home life into homelessness. This is called loss of wealth. But Master Raṭthapāla is the son of the leading clan in this same Thullakoṭṭhita. Master Raṭthapāla has not undergone any loss of wealth. What has he known or seen or heard that he has gone forth from the home life into homelessness?
+"Đại vương nghĩ sao? Ngài có thể ra lệnh cho bạn bè và đồng hành, bà con và họ hàng của ngài: 'Nào, các bạn bè và đồng hành tốt của ta, bà con và họ hàng của ta. Tất cả những người có mặt hãy chia sẻ cảm giác đau đớn này để ta bớt đau hơn'? Hay ngài phải tự mình chịu đựng nỗi đau đó một mình?"
 
-33. "And what is loss of relatives? Here, Master Raṭthapāla, someone has many friends and companions, kinsmen and relatives. Gradually those relatives of his dwindle away. He considers thus: 'Formerly I had many friends and companions, kinsmen and relatives. Gradually those relatives of mine have dwindled away. It is no longer easy for me to acquire unacquired wealth...[68]...into homelessness.' Because he has undergone that loss of relatives...he goes forth from the home life into homelessness. This is called loss of relatives. But Master Raṭthapāla has many friends and companions, kinsmen and relatives, in this same Thullakoṭthita. Master Raṭthapāla has not undergone any loss of relatives. What has he known or seen or heard that he has gone forth from the home life into homelessness?
+"Tôi không thể ra lệnh cho bạn bè và đồng hành, bà con và họ hàng của tôi như vậy, thưa ngài Raṭṭhapāla. Tôi phải tự mình chịu đựng nỗi đau đó."
 
-34. "Master Raṭthapāla, these are the four kinds of loss. Because they have undergone these four kinds of loss, some people here shave off their hair and beard, put on the yellow robe, and go forth from the home life into homelessness. Master Raṭthapāla has not undergone any of these. What has he known or seen or heard that he has gone forth from the home life into homelessness?"
+"Tâu Đại vương, chính vì điều này mà Đức Thế Tôn, bậc Biết và Thấy, bậc Ứng Cúng và Chánh Đẳng Giác, đã nói: '[Đời sống trong] bất kỳ thế giới nào cũng không có nơi nương tựa, không có người bảo vệ'; và khi tôi biết, thấy và nghe điều này, tôi đã xuất gia từ bỏ đời sống gia đình, sống không nhà cửa."
 
-35. "Great king, there are four summaries of the Dhamma that have been taught by the Blessed One who knows and sees, accomplished and fully enlightened. Knowing and seeing and hearing them, I went forth from the home life into homelessness. What are the four?
+"Thật kỳ diệu, thưa ngài Raṭṭhapāla, thật tuyệt vời làm sao lời dạy đó đã được Đức Thế Tôn, bậc Biết và Thấy, bậc Ứng Cúng và Chánh Đẳng Giác, diễn đạt thật hay: '[Đời sống trong] bất kỳ thế giới nào cũng không có nơi nương tựa, không có người bảo vệ.' Quả đúng là như vậy!
 
-36. (1) "'[Life in] any world is unstable, it is swept away': [^802] this is the first summary of the Dhamma taught by the Blessed One who knows and sees, accomplished and fully enlightened. Knowing and seeing and hearing this, I went forth from the home life into homelessness.
+40\. "Thưa ngài Raṭṭhapāla, trong triều đình này có tồn tại rất nhiều tiền vàng và vàng khối được cất giữ trong các hầm và kho chứa. Bây giờ ngài Raṭṭhapāla nói: '[Đời sống trong] bất kỳ thế giới nào cũng không có gì là của riêng mình; người ta phải từ bỏ tất cả và ra đi.' Nên hiểu ý nghĩa của câu nói đó như thế nào?"
 
-(2) "[Life in] any world has no shelter and no protector': [^803] this is the second summary of the Dhamma taught by the Blessed One who knows and sees...
-(3) "'[Life in] any world has nothing of its own; one has to leave all and pass on':804 this is the third summary of the Dhamma taught by the Blessed One who knows and sees...
+"Đại vương nghĩ sao? Bây giờ ngài [71] đang tận hưởng cuộc sống được cung cấp và phú cho năm dục công đức (five cords of sensual pleasure - pañca kāmaguṇā - năm loại đối tượng của giác quan mang lại khoái lạc: sắc, thanh, hương, vị, xúc), nhưng liệu ngài có thể có được điều đó trong kiếp sau không: 'Mong rằng ta cũng được tận hưởng cuộc sống được cung cấp và phú cho chính năm dục công đức này'? Hay người khác sẽ chiếm lấy tài sản này, trong khi ngài sẽ phải ra đi tùy theo nghiệp (actions - kamma - hành động có chủ ý qua thân, khẩu, ý, tạo ra kết quả tương ứng) của mình?"
 
-(4) "'[Life in] any world is incomplete, insatiate, the slave of craving':805 this is the fourth summary of the Dhamma taught by the Blessed One who knows and sees...
+"Tôi không thể có được điều đó trong kiếp sau, thưa ngài Raṭṭhapāla. Ngược lại, người khác sẽ chiếm lấy tài sản này trong khi tôi sẽ phải ra đi tùy theo nghiệp của mình."
+"Tâu Đại vương, chính vì điều này mà Đức Thế Tôn, bậc Biết và Thấy, bậc Ứng Cúng và Chánh Đẳng Giác, đã nói: '[Đời sống trong] bất kỳ thế giới nào cũng không có gì là của riêng mình; người ta phải từ bỏ tất cả và ra đi'; và khi tôi biết, thấy và nghe điều này, tôi đã xuất gia từ bỏ đời sống gia đình, sống không nhà cửa."
 
-37. "Great king, these are the four summaries of the Dhamma that have been taught by the Blessed One who knows and sees, accomplished and fully enlightened. [69] Knowing and seeing and hearing them, I went forth from the home life into homelessness."
+"Thật kỳ diệu, thưa ngài Raṭṭhapāla, thật tuyệt vời làm sao lời dạy đó đã được Đức Thế Tôn, bậc Biết và Thấy, bậc Ứng Cúng và Chánh Đẳng Giác, diễn đạt thật hay: '[Đời sống trong] bất kỳ thế giới nào cũng không có gì là của riêng mình; người ta phải từ bỏ tất cả và ra đi.' Quả đúng là như vậy!
 
-38. "Master Ratṭhapāla said: '[Life in] any world is unstable, it is swept away.' How should the meaning of that statement be understood?"
+41\. "Bây giờ ngài Raṭṭhapāla nói: '[Đời sống trong] bất kỳ thế giới nào cũng thiếu thốn, không bao giờ thỏa mãn, là nô lệ của tham ái (craving - taṇhā - sự khao khát, ham muốn không bao giờ thỏa mãn, gốc rễ của khổ đau).' Nên hiểu ý nghĩa của câu nói đó như thế nào?"
 
-"What do you think, great king? When you were twenty or twenty-five years old, were you an expert rider of elephants, an expert horseman, an expert charioteer, an expert archer, an expert swordsman, strong in thighs and arms, sturdy, capable in battle?"
+"Đại vương nghĩ sao? Ngài có đang cai trị xứ Kuru giàu có không?"
 
-"When I was twenty or twenty-five years old, Master Raṭthapāla, I was an expert rider of elephants...strong in thighs and arms, sturdy, capable in battle. Sometimes I wonder if I had supernormal power then. I do not see anyone who could equal me in strength."
+"Vâng, thưa ngài Raṭṭhapāla, tôi đang cai trị."
 
-"What do you think, great king? Are you now as strong in thighs and arms, as sturdy and as capable in battle?"
+"Đại vương nghĩ sao? Giả sử có một người đáng tin cậy và đáng tin đến gặp ngài từ phương đông và nói: 'Xin Đại vương biết cho, tôi đến từ phương đông, và ở đó tôi thấy một đất nước rộng lớn, hùng mạnh và giàu có, rất đông dân và người người chen chúc. Ở đó có rất nhiều đội quân voi, rất nhiều kỵ binh, đội quân xe ngựa và bộ binh; ở đó có rất nhiều ngà voi, và rất nhiều tiền vàng và vàng khối cả chưa gia công lẫn đã gia công, và rất nhiều phụ nữ để làm vợ. Với lực lượng hiện tại của ngài, ngài có thể chinh phục nó. Vậy hãy chinh phục nó đi, Đại vương.' Ngài sẽ làm gì?" [72]
 
-"No, Master Raṭthapāla. Now I am old, aged, burdened with years, advanced in life, come to the last stage; my years have turned eighty. Sometimes I mean to put my foot here and I put my foot somewhere else."
+"Chúng tôi sẽ chinh phục nó và cai trị nó, thưa ngài Raṭṭhapāla."
 
-"Great king, it was on account of this that the Blessed One who knows and sees, accomplished and fully enlightened, said: '[Life in] any world is unstable, it is swept away'; and when I knew and saw and heard this, I went forth from the home life into homelessness."
+"Đại vương nghĩ sao? Giả sử có một người đáng tin cậy và đáng tin đến gặp ngài từ phương tây... từ phương bắc... từ phương nam và nói: 'Xin Đại vương biết cho, tôi đến từ phương nam, và ở đó tôi thấy một đất nước rộng lớn, hùng mạnh và giàu có... Vậy hãy chinh phục nó đi, Đại vương.' Ngài sẽ làm gì?"
 
-"It is wonderful, Master Raṭthapāla, it is marvellous how well that has been expressed by the Blessed One who knows and sees, accomplished and fully enlightened: '[Life in] any world is unstable, it is swept away.' It is indeed so!
+"Chúng tôi cũng sẽ chinh phục nó và cai trị nó, thưa ngài Raṭṭhapāla."
 
-39. "Master Raṭthapāla, there exist in this court elephant troops and cavalry and chariot troops and infantry, which will
-serve to subdue any threats to us. [70] Now Master Ratṭhapāla said: '[Life in] any world has no shelter and no protector.' How should the meaning of that statement be understood?"
+"Tâu Đại vương, chính vì điều này mà Đức Thế Tôn, bậc Biết và Thấy, bậc Ứng Cúng và Chánh Đẳng Giác, đã nói: '[Đời sống trong] bất kỳ thế giới nào cũng thiếu thốn, không bao giờ thỏa mãn, là nô lệ của tham ái'; và khi tôi biết, thấy và nghe điều này, tôi đã xuất gia từ bỏ đời sống gia đình, sống không nhà cửa."
 
-"What do you think, great king? Do you have any chronic ailment?"
+"Thật kỳ diệu, thưa ngài Raṭṭhapāla, thật tuyệt vời làm sao lời dạy đó đã được Đức Thế Tôn, bậc Biết và Thấy, bậc Ứng Cúng và Chánh Đẳng Giác, diễn đạt thật hay: '[Đời sống trong] bất kỳ thế giới nào cũng thiếu thốn, không bao giờ thỏa mãn, là nô lệ của tham ái.' Quả đúng là như vậy!"
 
-"I have a chronic wind ailment, Master Ratṭhapāla. Sometimes my friends and companions, kinsmen, and relatives, stand around me, thinking: 'Now King Koravya is about to die, now King Koravya is about to die!'"
+42\. Đó là những gì tôn giả Raṭṭhapāla đã nói. Và sau khi nói xong, ngài nói thêm:
 
-"What do you think, great king? Can you command your friends and companions, your kinsmen and relatives: 'Come, my good friends and companions, my kinsmen and relatives. All of you present share this painful feeling so that I may feel less pain'? Or do you have to feel that pain yourself alone?"
+"Ta thấy người giàu có trên thế gian, nhưng
+Vì vô minh (ignorance - avijjā - sự không hiểu biết chân lý, đặc biệt là Tứ Diệu Đế), không cho đi của cải tích lũy.
+Họ tham lam tích trữ của cải
+Vẫn khao khát thêm những thú vui giác quan.
 
-"I cannot command my friends and companions, my kinsmen and relatives thus, Master Ratṭhapāla. I have to feel that pain alone."
+Một vị vua đã chinh phục trái đất bằng vũ lực
+Và cai trị vùng đất giáp biển
+Vẫn chưa thỏa mãn với bờ biển gần kề
+Mà còn khao khát cả bờ bên kia nữa. [73]
 
-"Great king, it was on account of this that the Blessed One who knows and sees, accomplished and fully enlightened, said: '[Life in] any world has no shelter and no protector'; and when I knew and saw and heard this, I went forth from the home life into homelessness."
+Hầu hết những người khác cũng vậy, không chỉ riêng vua,
+Đối mặt với cái chết mà lòng tham ái không suy giảm;
+[Với những kế hoạch] còn dang dở, họ rời bỏ xác thân;
+Ham muốn vẫn chưa được thỏa mãn trên thế gian.
 
-"It is wonderful, Master Ratṭhapāla, it is marvellous how well that has been expressed by the Blessed One who knows and sees, accomplished and fully enlightened: '[Life in] any world has no shelter and no protector.' It is indeed so!
+Người thân của họ than khóc và vò đầu bứt tóc,
+Khóc than, 'Ôi thôi! Than ôi! Người thân yêu của chúng ta đã chết!'
+Họ mang xác được quấn trong vải liệm
+Để đặt lên giàn thiêu và đốt cháy ở đó.
 
-40. "Master Ratṭhapāla, there exist in this court abundant gold coins and bullion stored away in vaults and depositories. Now Master Ratṭhapāla said: '[Life in] any world has nothing of its own; one has to leave all and pass on.' How should the meaning of that statement be understood?"
+Mặc tấm vải liệm, người ấy bỏ lại của cải,
+Bị cây sào thúc đẩy, người ấy cháy [trên giàn thiêu].
+Và khi chết, không người thân hay bạn bè nào
+Có thể che chở và làm nơi nương tựa cho người ấy ở đây.
 
-"What do you think, great king? You now [71] enjoy yourself provided and endowed with the five cords of sensual pleasure, but will you be able to have it of the life to come: 'Let me likewise enjoy myself provided and endowed with these same five cords of sensual pleasure'? Or will others take over this property, while you will have to pass on according to your actions?"
+Trong khi những người thừa kế chiếm lấy của cải, chúng sinh này
+Phải ra đi tùy theo nghiệp của mình;
+Và khi chết, không gì có thể theo sau người ấy;
+Không con cái, không vợ, không của cải, không ngôi vị hoàng gia.
 
-"I cannot have it thus of the life to come, Master Ratṭhapāla. On the contrary, others will take over this property while I shall have to pass on according to my actions."
-"Great king, it was on account of this that the Blessed One who knows and sees, accomplished and fully enlightened, said: '[Life in] any world has nothing of its own; one has to leave all and pass on'; and when I knew and saw and heard this, I went forth from the home life into homelessness."
+Tuổi thọ không thể có được bằng của cải
+Sự thịnh vượng cũng không thể xua đuổi tuổi già;
+Cuộc đời này ngắn ngủi, như tất cả các bậc hiền triết nói,
+Nó không biết đến sự vĩnh cửu, chỉ có thay đổi.
 
-"It is wonderful, Master Ratṭhapāla, it is marvellous how well that has been expressed by the Blessed One who knows and sees, accomplished and fully enlightened: '[Life in] any world has nothing of its own; one has to leave all and pass on.' It is indeed so!
+Người giàu và người nghèo đều sẽ cảm nhận cái chạm [của Tử thần],
+Kẻ ngu và người trí cũng sẽ cảm nhận nó;
+Nhưng trong khi kẻ ngu nằm quằn quại vì sự ngu si của mình,
+Không bậc hiền triết nào run sợ trước cái chạm đó.
 
-41. "Now Master Raṭthapāla said: '[Life in] any world is incomplete, insatiate, the slave of craving.' How should the meaning of that statement be understood?"
+Trí tuệ (wisdom - paññā - sự hiểu biết đúng đắn về thực tại) ở đây tốt hơn bất kỳ của cải nào,
+Vì nhờ trí tuệ người ta đạt được mục đích cuối cùng.
+Vì con người qua vô minh làm những điều ác
+Trong khi không đạt được mục đích từ đời này sang đời khác.
 
-"What do you think, great king? Do you reign over the rich Kuru country?"
+Khi một người đi vào bào thai và thế giới tiếp theo,
+Làm mới vòng sinh tử kế tiếp,
+Một người khác ít trí tuệ, tin tưởng vào người đó,
+Cũng đi vào bào thai và thế giới tiếp theo. [74]
 
-"Yes, Master Raṭthapāla, I do."
+Giống như tên trộm bị bắt quả tang khi ăn trộm
+Phải chịu khổ vì hành vi xấu xa của mình,
+Vì vậy, con người sau khi chết, ở thế giới tiếp theo,
+Phải chịu khổ vì những hành vi xấu xa của mình.
 
-"What do you think, great king? Suppose a trustworthy and reliable man came to you from the east and said: 'Please know, great king, that I have come from the east, and there I saw a large country, powerful and rich, very populous and crowded with people. There are plenty of elephant troops there, plenty of cavalry, chariot troops and infantry; there is plenty of ivory there, and plenty of gold coins and bullion both unworked and worked, and plenty of women for wives. With your present forces you can conquer it. Conquer it then, great king.' What would you do?" [72]
+Những thú vui giác quan, đa dạng, ngọt ngào, thú vị,
+Theo nhiều cách khác nhau làm xáo trộn tâm trí:
+Thấy sự nguy hiểm trong những ràng buộc giác quan này
+Ta đã chọn sống đời sống không nhà, hỡi Đức Vua.
 
-"We would conquer it and reign over it, Master Raṭthapāla."
+Như trái cây rơi khỏi cây, con người cũng vậy,
+Cả trẻ và già, đều gục ngã khi thân xác này tan rã.
+Thấy điều này nữa, hỡi Đức Vua, ta đã xuất gia:
+Tốt hơn là đời sống sa-môn được đảm bảo."
 
-"What do you think, great king? Suppose a trustworthy and reliable man came to you from the west...from the north...from the south and said: 'Please know, great king, that I have come from the south, and there I saw a large country, powerful and rich...Conquer it then, great king.' What would you do?"
-
-"We would conquer it too and reign over it, Master Raṭthapāla."
-
-"Great king, it was on account of this that the Blessed One who knows and sees, accomplished and fully enlightened, said: '[Life in] any world is incomplete, insatiate, the slave of craving'; and when I knew and saw and heard this, I went forth from the home life into homelessness."
-
-"It is wonderful, Master Raṭthapāla, it is marvellous how well that has been expressed by the Blessed One who knows and
-sees, accomplished and fully enlightened: '[Life in] any world is incomplete, insatiate, the slave of craving.' It is indeed so!"
-
-42. That is what the venerable Raṭthapāla said. And having said that he said further:
-
-"I see men wealthy in the world, who yet
-
-From ignorance give not their gathered wealth.
-
-Greedily they hoard away their riches
-
-Longing still for further sensual pleasures.
-
-A king who has conquered the earth by force And rules over the land the ocean bounds Is yet unsated with the sea's near shore And hungers for its further shore as well. [73]
-
-Most other people too, not just a king, Encounter death with craving unabated; [With plans] still incomplete they leave the corpse; Desires remain unsated in the world.
-
-His relatives lament and rend their hair, Crying, 'Ah me! Alas! Our love is dead!' They bear away the body wrapped in shrouds To place it on a pyre and burn it there.
-
-Clad in a shroud, he leaves his wealth behind, Prodded with stakes he burns [upon the pyre]. And as he dies, no relatives or friends Can offer him shelter and refuge here.
-
-While his heirs take over his wealth, this being Must pass on according to his actions; And as he dies nothing can follow him; Not child nor wife nor wealth nor royal estate.
-
-Longevity is not acquired with wealth Nor can prosperity banish old age; Short is this life, as all the sages say, Eternity it knows not, only change.
-
-The rich and poor alike shall feel [Death's] touch, The fool and sage as well shall feel it too; But while the fool lies stricken by his folly, No sage will ever tremble at the touch.
-
-Better is wisdom here than any wealth, Since by wisdom one gains the final goal. For people through ignorance do evil deeds While failing to reach the goal from life to life.
-
-As one goes to the womb and the next world, Renewing the successive round of births, Another of little wisdom, trusting him, Goes also to the womb and the next world. [74]
-
-Just as a robber caught in burglary Is made to suffer for his evil deed, So people after death, in the next world, Are made to suffer for their evil deeds.
-
-Sensual pleasures, varied, sweet, delightful, In many different ways disturb the mind: Seeing the danger in these sensual ties I chose to lead the homeless life, O King.
-
-As fruits fall from the tree, so people too, Both young and old, fall when this body breaks. Seeing this too, O King, I have gone forth: Better is the recluse's life assured."
+<!--pg-->
+Từ ngữ:
+- Đức Thế Tôn / Bhagavā / Blessed One: Danh hiệu tôn kính dành cho Đức Phật, có nghĩa là bậc được tôn kính trên đời, người có đầy đủ phước đức và trí tuệ.
+- Tăng đoàn / Saṅgha / Sangha: Cộng đồng các vị tỳ kheo (nam tu sĩ) và tỳ kheo ni (nữ tu sĩ) Phật giáo, những người thực hành và gìn giữ giáo pháp.
+- tỳ kheo / bhikkhu / bhikkhu: Nam tu sĩ Phật giáo đã thọ cụ túc giới, sống đời sống không nhà cửa, khất thực để sinh sống và thực hành giáo pháp.
+- ứng cúng / arahant / accomplished: Một trong những danh hiệu của Đức Phật và các vị A-la-hán, nghĩa là bậc xứng đáng nhận sự cúng dường của trời và người.
+- chánh đẳng giác / sammāsambuddha / fully enlightened: Bậc giác ngộ hoàn toàn và viên mãn một cách tự thân, không thầy chỉ dạy (chỉ Đức Phật).
+- minh hạnh túc / vijjā-caraṇa-sampanna / perfect in true knowledge and conduct: Người hoàn hảo cả về trí tuệ (minh) và đức hạnh (hạnh), một danh hiệu của Đức Phật.
+- thiện thệ / sugata / sublime: Người đã đi đến nơi tốt đẹp, tức Niết Bàn, không còn quay lại khổ đau, một danh hiệu của Đức Phật.
+- thế gian giải / lokavidū / knower of worlds: Người hiểu biết rõ về các thế giới (dục giới, sắc giới, vô sắc giới) và chúng sinh trong đó, một danh hiệu của Đức Phật.
+- vô thượng sĩ điều ngự trượng phu / anuttaro purisadamma-sārathi / incomparable leader of persons to be tamed: Bậc lãnh đạo không ai sánh bằng trong việc điều phục những người cần được giáo hóa, một danh hiệu của Đức Phật.
+- thiên nhân sư / satthā deva-manussānaṃ / teacher of gods and humans: Bậc thầy của cả trời và người, một danh hiệu của Đức Phật.
+- phật / buddha / enlightened: Bậc đã giác ngộ hoàn toàn chân lý, thoát khỏi vòng sinh tử luân hồi.
+- thế tôn / bhagavā / blessed: Tương tự Đức Thế Tôn, danh hiệu tôn kính chỉ Đức Phật.
+- thắng trí / abhiññā / direct knowledge: Sự hiểu biết trực tiếp, siêu việt về thực tại, vượt qua kiến thức thông thường, thường bao gồm các năng lực tâm linh.
+- Giáo Pháp / Dhamma / Dhamma: Lời dạy của Đức Phật về chân lý và con đường thực hành để đạt đến giải thoát khổ đau.
+- đời sống phạm hạnh / brahmacariya / holy life: Đời sống trong sạch, cao thượng, thường bao gồm việc giữ giới và tu tập thiền định, đặc biệt là đời sống xuất gia, hướng đến mục tiêu giải thoát.
+- A-la-hán / arahant / arahant: Bậc thánh đã đoạn trừ hoàn toàn mọi phiền não, chấm dứt sinh tử luân hồi, đạt Niết Bàn.
+- xuất gia từ bỏ đời sống gia đình, sống không nhà cửa / pabbajjā / go forth from the home life into homelessness: Hành động từ bỏ cuộc sống thế tục, gia đình để trở thành tu sĩ, sống đời không nhà cửa, tu tập theo giáo pháp. Thường gọi tắt là xuất gia.
+- cụ túc giới / upasampadā / full admission: Lễ truyền giới cao nhất trong Phật giáo Theravada, chính thức công nhận một người là tỳ kheo hoặc tỳ kheo ni.
+- Như Lai / Tathāgata / Tathāgata: Danh hiệu của Đức Phật, có thể hiểu là "Người đến như vậy" (đến với chân lý) hoặc "Người đi như vậy" (đi đến Niết Bàn), thể hiện sự chứng ngộ và giải thoát hoàn toàn.
+- thú vui giác quan / kāma / sensual pleasures: Sự hưởng thụ, khoái lạc đến từ năm giác quan (mắt thấy sắc, tai nghe tiếng, mũi ngửi mùi, lưỡi nếm vị, thân cảm xúc).
+- phước báu / puñña / merit: Kết quả tốt đẹp sinh ra từ những hành động thiện lành (như bố thí, trì giới, tu tập), mang lại hạnh phúc, an lạc trong hiện tại và tương lai.
+- mục đích tối thượng của đời sống phạm hạnh / brahmacariya-pariyosāna / supreme goal of the holy life: Đích đến cuối cùng của việc thực hành đời sống phạm hạnh, thường chỉ sự chứng đắc Niết Bàn, chấm dứt hoàn toàn khổ đau và luân hồi.
+- từ bỏ học pháp và hoàn tục / sikkhaṃ paccakkhāya hīnāyāvattati / abandoning the training and returning to the low life: Hành động từ bỏ việc tu tập theo giới luật và giáo pháp của Đức Phật để quay trở lại đời sống thế tục, được xem là thấp kém hơn so với đời sống xuất gia.
+- khất thực / piṇḍapāta / alms-round: Truyền thống của tu sĩ Phật giáo đi nhận thức ăn cúng dường từ các gia đình Phật tử vào buổi sáng.
+- tiên nữ / accharā / nymph: Nữ thần hoặc thiên nữ xinh đẹp sống ở các cõi trời trong thần thoại Ấn Độ và Phật giáo.
+- sầu, bi, khổ, ưu, não / soka-parideva-dukkha-domanass-upāyāsā / sorrow, lamentation, pain, grief, and despair: Năm loại khổ đau về tinh thần (sầu, bi, ưu, não) và thể chất (khổ) mà chúng sinh phải chịu đựng.
+- sức mạnh siêu nhiên / iddhi / supernormal power: Các năng lực phi thường có được thông qua tu tập thiền định cao độ, như thần túc thông, thiên nhãn thông, thiên nhĩ thông, tha tâm thông, túc mạng thông.
+- năm dục công đức / pañca kāmaguṇā / five cords of sensual pleasure: Năm loại đối tượng hấp dẫn của giác quan: hình sắc đẹp, âm thanh hay, mùi hương thơm, vị ngon, và sự xúc chạm êm ái, được ví như những sợi dây trói buộc chúng sinh vào dục lạc.
+- nghiệp / kamma / action: Hành động có chủ ý (cố ý) qua thân, khẩu, ý. Nghiệp tạo ra kết quả tương ứng (quả báo) trong hiện tại hoặc tương lai, quyết định sự tái sinh và cảnh giới của chúng sinh.
+- tham ái / taṇhā / craving: Sự khao khát, ham muốn mãnh liệt và không bao giờ thỏa mãn đối với các đối tượng dục lạc, sự tồn tại, hoặc sự không tồn tại. Đây là nguyên nhân chính của khổ đau theo Tứ Diệu Đế.
+- vô minh / avijjā / ignorance: Sự không hiểu biết về bản chất thực sự của thực tại, đặc biệt là không hiểu về Tứ Diệu Đế, Duyên Khởi, và Vô Ngã. Vô minh là gốc rễ của tham ái và toàn bộ vòng luân hồi khổ đau.
+- trí tuệ / paññā / wisdom: Sự hiểu biết đúng đắn, sâu sắc về bản chất của sự vật, hiện tượng (vô thường, khổ, vô ngã). Trí tuệ là yếu tố then chốt để đoạn trừ vô minh và đạt đến giải thoát.

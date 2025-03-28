@@ -1,49 +1,74 @@
-# 71 To Vacchagotta on the Threefold True Knowledge
-***(Tevijjavacchagotta Sutta)***
+# Kinh 71: Gửi Vacchagotta về Tam Minh
+***(Kinh Tevijjavacchagotta)***
 
-1. Thus have I heard. On one occasion the Blessed One was living at Vesālī in the Great Wood in the Hall with the Peaked Roof.
+1\.  Tôi nghe như vầy. Một thời, Đức Thế Tôn đang trú tại Vesālī, trong Rừng Lớn, tại Giảng đường có mái nhọn.
 
-2. Now on that occasion the wanderer Vacchagotta was staying in the Wanderers' Park of the Single White-lotus Mango Tree. ${ }^{712}$
+2\.  Lúc bấy giờ, du sĩ Vacchagotta đang ở tại Công viên của các du sĩ gần Cây Xoài Sen Trắng Đơn Độc. ${712}$
 
-3. Then, when it was morning, the Blessed One dressed, and taking his bowl and outer robe, went into Vesālī for alms. Then the Blessed One thought: "It is still too early to wander for alms in Vesālī. Suppose I went to the wanderer Vacchagotta in the Wanderers' Park of the Single White-lotus Mango Tree."
+3\.  Rồi, vào buổi sáng, Đức Thế Tôn đắp y, mang bát, vào thành Vesālī để khất thực. Rồi Đức Thế Tôn nghĩ: “Vẫn còn quá sớm để đi khất thực ở Vesālī. Hay là ta đến chỗ du sĩ Vacchagotta ở Công viên của các du sĩ gần Cây Xoài Sen Trắng Đơn Độc.”
 
-4. Then the Blessed One went to the wanderer Vacchagotta in the Wanderers' Park of the Single White-lotus Mango Tree. The wanderer Vacchagotta saw the Blessed One coming in the distance and said to him: "Let the Blessed One come, venerable sir! Welcome to the Blessed One! It is long since the Blessed One found an opportunity to come here. Let the Blessed One be seated; this seat is ready." The Blessed One sat down on the seat made ready, and the wanderer Vacchagotta [482] took a low seat, sat down at one side, and said to the Blessed One:
+4\.  Rồi Đức Thế Tôn đi đến chỗ du sĩ Vacchagotta ở Công viên của các du sĩ gần Cây Xoài Sen Trắng Đơn Độc. Du sĩ Vacchagotta thấy Đức Thế Tôn từ xa đi tới, liền nói với Ngài: “Kính mời Thế Tôn đến, bạch Ngài! Kính chào Thế Tôn! Đã lâu rồi Thế Tôn mới có dịp đến đây. Kính mời Thế Tôn ngồi; chỗ ngồi đã sẵn sàng.” Đức Thế Tôn ngồi xuống chỗ đã soạn sẵn, còn du sĩ Vacchagotta [482] lấy một chiếc ghế thấp, ngồi xuống một bên, và thưa với Đức Thế Tôn:
 
-5. "Venerable sir, I have heard this: 'The recluse Gotama claims to be omniscient and all-seeing, to have complete knowledge and vision thus: "Whether I am walking or standing or sleeping or awake, knowledge and vision are continuously and uninterruptedly present to me." [^713] Venerable sir, do those who speak thus say what has been said by the Blessed One, and not misrepresent him with what is contrary to fact? Do they explain in accordance with the Dhamma in such a way that nothing which provides a ground for censure can be legitimately deduced from their assertion?"
+5\.  “Bạch Ngài, con nghe nói rằng: ‘Sa-môn Cồ-đàm (recluse Gotama - nhà tu khổ hạnh Gotama) tự nhận là bậc toàn tri (omniscient - sabbaññū - người biết tất cả mọi thứ) và toàn kiến (all-seeing - sabbadassāvī - người thấy tất cả mọi thứ), có tri kiến hoàn toàn (complete knowledge and vision - ñāṇadassana sampanna - sự hiểu biết và cái thấy trọn vẹn) như sau: “Dù đang đi, đứng, ngủ hay thức, tri kiến (knowledge and vision - ñāṇadassana - sự hiểu biết và cái thấy) luôn có mặt nơi tôi một cách liên tục, không gián đoạn.”’ [^713] Bạch Ngài, những người nói như vậy có phải là nói đúng lời Đức Thế Tôn đã dạy, không xuyên tạc Ngài bằng điều không đúng sự thật không? Họ có giải thích đúng theo Giáo Pháp (Dhamma - lời dạy của Đức Phật, chân lý) để không ai có thể dựa vào lời khẳng định của họ mà suy diễn ra điều gì đáng khiển trách không?”
 
-"Vaccha, those who say thus do not say what has been said
-by me, but misrepresent me with what is untrue and contrary to fact."714
+    “Này Vaccha, những người nói như vậy không phải nói đúng lời ta đã dạy, mà họ xuyên tạc ta bằng điều không đúng sự thật, sai sự thật.” ${714}$
 
-6. "Venerable sir, how should I answer that I may say what has been said by the Blessed One and not misrepresent him with what is contrary to fact? How may I explain in accordance with the Dhamma in such a way that nothing which provides a ground for censure can be legitimately deduced from my assertion?"
+6\.  “Bạch Ngài, vậy con nên trả lời thế nào để nói đúng lời Đức Thế Tôn đã dạy và không xuyên tạc Ngài bằng điều không đúng sự thật? Làm sao con có thể giải thích đúng theo Giáo Pháp, để không ai có thể dựa vào lời khẳng định của con mà suy diễn ra điều gì đáng khiển trách?”
 
-"Vaccha, if you answer thus: 'The recluse Gotama has the threefold true knowledge,' you will be saying what has been said by me and will not misrepresent me with what is contrary to fact. You will explain in accordance with the Dhamma in such a way that nothing which provides a ground for censure can be legitimately deduced from your assertion.?
+    “Này Vaccha, nếu ông trả lời rằng: ‘Sa-môn Cồ-đàm có tam minh (threefold true knowledge - tevijja - ba loại trí tuệ chân thật),’ thì ông sẽ nói đúng lời ta đã dạy và không xuyên tạc ta bằng điều không đúng sự thật. Ông sẽ giải thích đúng theo Giáo Pháp, để không ai có thể dựa vào lời khẳng định của ông mà suy diễn ra điều gì đáng khiển trách.”
 
-7. "For in so far as I wish, I recollect my manifold past lives, that is, one birth, two births...(as Sutta 51, §24)...Thus with their aspects and particulars I recollect my manifold past lives.
+7\.  “Vì rằng, khi ta muốn, ta nhớ lại vô số đời quá khứ của mình, nghĩa là một đời, hai đời...(như trong Kinh 51, §24)... Như vậy, ta nhớ lại vô số đời quá khứ với các khía cạnh và chi tiết của chúng.
 
-8. "And in so far as I wish, with the divine eye, which is purified and surpasses the human, I see beings passing away and reappearing, inferior and superior, fair and ugly, fortunate and unfortunate, and I understand how beings pass on according to their actions...(as Sutta 51, §25)...
+8\.  “Và khi ta muốn, với thiên nhãn (divine eye - dibbacakkhu - con mắt của chư thiên, khả năng thấy các cõi giới khác và sự tái sinh của chúng sinh), thanh tịnh và vượt xa mắt người thường, ta thấy chúng sinh đang chết đi và tái sinh, hạ liệt và cao quý, xinh đẹp và xấu xí, may mắn và bất hạnh, và ta hiểu rõ chúng sinh trôi theo nghiệp (actions - kamma - hành động có chủ đích và kết quả của nó) của mình...(như trong Kinh 51, §25)...
 
-9. "And by realising for myself with direct knowledge, I here and now enter upon and abide in the deliverance of mind and deliverance by wisdom that are taintless with the destruction of the taints.
+9\.  “Và bằng cách tự mình chứng ngộ với trí tuệ trực tiếp (direct knowledge - abhiññā - thắng trí, sự hiểu biết siêu việt do tu tập thiền định), ngay trong đời này, ta chứng đạt và an trú trong tâm giải thoát (deliverance of mind - cetovimutti - sự giải thoát của tâm khỏi tham ái và các trạng thái tâm tiêu cực khác) và tuệ giải thoát (deliverance by wisdom - paññāvimutti - sự giải thoát bằng trí tuệ khỏi vô minh), không còn lậu hoặc (taintless / āsavakkhaya - sự đoạn tận các lậu hoặc) do đã đoạn trừ các lậu hoặc (taints - āsava - những ô nhiễm tinh thần sâu kín như dục lậu, hữu lậu, vô minh lậu, làm chúng sinh trôi lăn trong luân hồi).
 
-10. "If you answer thus: 'The recluse Gotama has the threefold true knowledge,' [483] you will be saying what has been said by me and will not misrepresent me with what is contrary to fact. You will explain in accordance with the Dhamma in such a way that nothing which provides a ground for censure can be legitimately deduced from your assertion."
+10\. “Nếu ông trả lời rằng: ‘Sa-môn Cồ-đàm có tam minh,’ [483] thì ông sẽ nói đúng lời ta đã dạy và không xuyên tạc ta bằng điều không đúng sự thật. Ông sẽ giải thích đúng theo Giáo Pháp, để không ai có thể dựa vào lời khẳng định của ông mà suy diễn ra điều gì đáng khiển trách.”
 
-11. When this was said, the wanderer Vacchagotta asked the Blessed One: "Master Gotama, is there any householder who, without abandoning the fetter of householdership, on the dissolution of the body has made an end of suffering?"715
+11\. Khi nghe vậy, du sĩ Vacchagotta hỏi Đức Thế Tôn: “Thưa Tôn giả Cồ-đàm (Master Gotama - cách gọi tôn kính dành cho Gotama), có người gia chủ (householder - gahapati - người tại gia, sống đời sống gia đình) nào, mà không từ bỏ sự ràng buộc của đời sống gia đình (fetter of householdership - gihisamyojana - những trói buộc liên quan đến đời sống tại gia như gia đình, tài sản, danh vọng), sau khi thân hoại mạng chung, đã chấm dứt khổ đau (made an end of suffering - dukkhassantaṃ akāsi - đạt đến sự kết thúc hoàn toàn của khổ, tức Niết Bàn) không?” ${715}$
 
-"Vaccha, there is no householder who, without abandoning the fetter of householdership, on the dissolution of the body has made an end of suffering."
+    “Này Vaccha, không có người gia chủ nào, mà không từ bỏ sự ràng buộc của đời sống gia đình, sau khi thân hoại mạng chung, lại chấm dứt được khổ đau.”
 
-12. "Master Gotama, is there any householder who, without abandoning the fetter of householdership, on the dissolution of the body has gone to heaven?"
+12\. “Thưa Tôn giả Cồ-đàm, có người gia chủ nào, mà không từ bỏ sự ràng buộc của đời sống gia đình, sau khi thân hoại mạng chung, đã được sinh lên cõi trời (gone to heaven - saggaṃ gato - tái sinh vào các cõi thiện lành, hạnh phúc như cõi trời dục giới hoặc sắc giới) không?”
 
-"Vaccha, there are not only one hundred or two or three or four or five hundred, but far more householders who, without abandoning the fetter of householdership, on the dissolution of the body have gone to heaven."
+    “Này Vaccha, không chỉ một trăm, hai trăm, ba trăm, bốn trăm hay năm trăm, mà còn nhiều hơn thế nữa những người gia chủ, dù không từ bỏ sự ràng buộc của đời sống gia đình, sau khi thân hoại mạng chung, đã được sinh lên cõi trời.”
 
-13. "Master Gotama, is there any Ājīvaka who, on the dissolution of the body, has made an end of suffering?"716
+13\. “Thưa Tôn giả Cồ-đàm, có người theo phái Ājīvaka (Ājīvaka - một trường phái tu khổ hạnh cùng thời với Đức Phật, nổi tiếng với thuyết định mệnh, cho rằng mọi sự đã được an bài, không thể thay đổi bởi nỗ lực cá nhân) nào, sau khi thân hoại mạng chung, đã chấm dứt khổ đau không?” ${716}$
 
-"Vaccha, there is no $\bar{A} j \bar{i} v a k a$ who, on the dissolution of the body, has made an end of suffering."
+    “Này Vaccha, không có người theo phái Ājīvaka nào, sau khi thân hoại mạng chung, lại chấm dứt được khổ đau.”
 
-14. "Master Gotama, is there any Ājīvaka who, on the dissolution of the body, has gone to heaven?"
+14\. “Thưa Tôn giả Cồ-đàm, có người theo phái Ājīvaka nào, sau khi thân hoại mạng chung, đã được sinh lên cõi trời không?”
 
-"When I recollect the past ninety-one aeons, Vaccha, I do not recall any Ājīvaka who, on the dissolution of the body, went to heaven, with one exception, and he held the doctrine of the moral efficacy of action, the doctrine of the moral efficacy of deeds."717
+    “Này Vaccha, khi ta nhớ lại chín mươi mốt đại kiếp (aeons - kappa/kalpa - những khoảng thời gian vũ trụ cực kỳ dài, một kiếp trái đất hình thành và hoại diệt) đã qua, ta không nhớ có người theo phái Ājīvaka nào, sau khi thân hoại mạng chung, được sinh lên cõi trời, ngoại trừ một người duy nhất, và người đó tin vào thuyết nghiệp báo (doctrine of the moral efficacy of action - kammavāda - học thuyết cho rằng hành động (nghiệp) có kết quả đạo đức, thiện có quả lành, ác có quả dữ), tin vào kết quả của hành động (doctrine of the moral efficacy of deeds - kiriyavāda - học thuyết cho rằng hành động có hiệu quả, có thể tạo ra thay đổi, đối lập với thuyết định mệnh).” ${717}$
 
-15. "That being so, Master Gotama, this fold of other sectarians is empty even of [a chance of] going to heaven."
+15\. “Nếu vậy, thưa Tôn giả Cồ-đàm, thì các trường phái ngoại đạo (other sectarians - aññatitthiya - những người theo các giáo lý khác ngoài Phật giáo vào thời Đức Phật) này trống rỗng, ngay cả cơ hội được sinh lên cõi trời [cũng không có].”
 
-"That being so, Vaccha, this fold of other sectarians is empty even of [a chance of] going to heaven."
+    “Đúng vậy đó, Vaccha. Các trường phái ngoại đạo này trống rỗng, ngay cả cơ hội được sinh lên cõi trời [cũng không có].”
 
-That is what the Blessed One said. The wanderer Vacchagotta was satisfied and delighted in the Blessed One's words.
+Đức Thế Tôn đã nói như vậy. Du sĩ Vacchagotta hoan hỷ và tín thọ lời dạy của Đức Thế Tôn.
+
+<!--pg-->
+Từ ngữ:
+- Sa-môn Cồ-đàm / Samaṇa Gotama / Recluse Gotama: Cách gọi Đức Phật Thích Ca Mâu Ni bởi những người thuộc các truyền thống tôn giáo khác vào thời đó. "Sa-môn" chỉ người tu hành khổ hạnh, từ bỏ đời sống thế tục.
+- Toàn tri / Sabbaññū / Omniscient: Người biết tất cả mọi thứ. Đức Phật phủ nhận mình là bậc toàn tri theo nghĩa biết mọi thứ mọi lúc, nhưng khẳng định mình biết những gì cần biết để giải thoát.
+- Toàn kiến / Sabbadassāvī / All-seeing: Người thấy tất cả mọi thứ. Tương tự như toàn tri, Đức Phật không tự nhận mình thấy mọi thứ mọi lúc.
+- Tri kiến hoàn toàn / Ñāṇadassana sampanna / Complete knowledge and vision: Sự hiểu biết và cái thấy trọn vẹn, đầy đủ liên quan đến con đường giải thoát.
+- Tri kiến / Ñāṇadassana / Knowledge and vision: Sự hiểu biết và cái thấy, thường chỉ trí tuệ và tuệ giác trong Phật giáo.
+- Giáo Pháp / Dhamma / Dhamma: Lời dạy của Đức Phật, chân lý về bản chất của thực tại, con đường dẫn đến giác ngộ và giải thoát.
+- Tam minh / Tevijja / Threefold true knowledge: Ba loại trí tuệ siêu việt mà Đức Phật chứng đắc: 1. Túc mạng minh (pubbenivāsānussati-ñāṇa): nhớ lại các đời quá khứ. 2. Thiên nhãn minh (dibbacakkhu-ñāṇa): thấy sự sinh tử và tái sinh của chúng sinh theo nghiệp. 3. Lậu tận minh (āsavakkhaya-ñāṇa): biết rõ sự đoạn trừ hoàn toàn các lậu hoặc, đạt giải thoát cuối cùng.
+- Thiên nhãn / Dibbacakkhu / Divine eye: Con mắt của chư thiên, một trong những thắng trí (abhiññā), khả năng thấy các cõi giới khác, thấy sự chết và tái sinh của chúng sinh.
+- Nghiệp / Kamma / Actions/Karma: Hành động có chủ đích (thân, khẩu, ý) và kết quả hay hậu quả của hành động đó, chi phối sự tái sinh và trải nghiệm của chúng sinh.
+- Trí tuệ trực tiếp / Abhiññā / Direct knowledge: Thắng trí, những năng lực hay sự hiểu biết siêu việt đạt được qua tu tập thiền định, bao gồm sáu loại: thần túc thông, thiên nhãn thông, thiên nhĩ thông, tha tâm thông, túc mạng thông và lậu tận thông (lậu tận minh).
+- Tâm giải thoát / Cetovimutti / Deliverance of mind: Sự giải thoát của tâm khỏi tham ái, sân hận và các trạng thái tâm tiêu cực khác, thường đạt được qua tu tập thiền định (samatha).
+- Tuệ giải thoát / Paññāvimutti / Deliverance by wisdom: Sự giải thoát bằng trí tuệ khỏi vô minh, sự hiểu biết sai lầm về thực tại, thường đạt được qua tu tập thiền tuệ (vipassanā). Tâm giải thoát và Tuệ giải thoát là hai khía cạnh của sự giải thoát hoàn toàn (Niết Bàn).
+- Không còn lậu hoặc / Āsavakkhaya / Taintless (destruction of taints): Trạng thái đã đoạn trừ hoàn toàn các lậu hoặc, tức là đã đạt được giác ngộ và giải thoát cuối cùng (A-la-hán quả).
+- Lậu hoặc / Āsava / Taints/Corruptions/Cankers: Những ô nhiễm tinh thần sâu kín, những "chất men" làm say đắm và trói buộc chúng sinh trong vòng luân hồi (saṃsāra). Thường được kể là ba hoặc bốn loại: dục lậu (kāmāsava), hữu lậu (bhavāsava), kiến lậu (diṭṭhāsava), và vô minh lậu (avijjāsava).
+- Gia chủ / Gahapati / Householder: Người tại gia, người sống đời sống thế tục, có gia đình, tài sản, khác với người xuất gia (tỳ kheo, tỳ kheo ni).
+- Sự ràng buộc của đời sống gia đình / Gihisamyojana / Fetter of householdership: Những trói buộc, ràng buộc liên quan đến đời sống tại gia, như vợ con, tài sản, danh vọng, các mối quan hệ xã hội, khiến người tại gia khó đạt được giải thoát hoàn toàn như người xuất gia.
+- Chấm dứt khổ đau / Dukkhassantaṃ akāsi / Made an end of suffering: Đạt đến sự kết thúc hoàn toàn của khổ (dukkha), đồng nghĩa với việc chứng đắc Niết Bàn (Nibbāna).
+- Sinh lên cõi trời / Saggaṃ gato / Gone to heaven: Tái sinh vào các cõi giới tốt đẹp, hạnh phúc hơn cõi người, như các cõi trời trong Dục giới hoặc Sắc giới, do kết quả của các việc làm thiện lành. Tuy nhiên, đây vẫn là cảnh giới trong luân hồi, chưa phải giải thoát cuối cùng.
+- Ājīvaka / Ājīvaka / Ājīvaka: Một trường phái triết học và tu khổ hạnh ở Ấn Độ cổ đại, cùng thời với Đức Phật. Họ tin vào thuyết định mệnh (niyati), cho rằng mọi sự kiện, kể cả sự giải thoát, đều đã được tiền định và không thể thay đổi bởi ý chí hay nỗ lực của con người.
+- Đại kiếp / Kappa (Pali), Kalpa (Sanskrit) / Aeon: Một đơn vị thời gian cực kỳ dài trong vũ trụ luận Phật giáo, chỉ khoảng thời gian từ lúc một thế giới hình thành cho đến khi hoại diệt hoàn toàn.
+- Thuyết nghiệp báo / Kammavāda / Doctrine of the moral efficacy of action: Học thuyết cho rằng hành động (kamma/nghiệp) có chủ đích sẽ tạo ra kết quả tương ứng về mặt đạo đức (thiện tạo quả lành, ác tạo quả dữ). Đây là một giáo lý trung tâm của Phật giáo, đối lập với thuyết định mệnh.
+- Kết quả của hành động / Kiriyavāda / Doctrine of the moral efficacy of deeds: Học thuyết cho rằng hành động (kiriya) có hiệu quả, có thể tạo ra sự thay đổi và kết quả. Thường đi đôi với Kammavāda, nhấn mạnh vai trò của nỗ lực và hành động có đạo đức.
+- Ngoại đạo / Aññatitthiya / Other sectarians: Chỉ những người theo các giáo lý, trường phái triết học hoặc tôn giáo khác ngoài Phật giáo vào thời Đức Phật ở Ấn Độ.

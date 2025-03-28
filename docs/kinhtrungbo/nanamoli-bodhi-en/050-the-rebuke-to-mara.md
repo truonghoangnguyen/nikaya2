@@ -1,4 +1,4 @@
-# 50 The Rebuke to Māra
+# 50. The Rebuke to Māra
 ***(Māratajjanīya Sutta)***
 
 [332] 1. Thus have I heard. On one occasion the venerable Mahā Moggallāna was living in the Bhagga country at Sumsumāragira in the Bhesakaḷā Grove, the Deer Park.

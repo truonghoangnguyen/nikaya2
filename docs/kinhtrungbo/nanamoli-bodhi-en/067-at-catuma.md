@@ -1,4 +1,4 @@
-# 67 At Cātumā
+# 67. At Cātumā
 ***(Cātumā Sutta)***
 
 1\. Thus have I heard. On one occasion the Blessed One was living at Cātumā in a myrobalan grove.

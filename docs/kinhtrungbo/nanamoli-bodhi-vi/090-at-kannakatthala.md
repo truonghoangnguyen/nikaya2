@@ -1,125 +1,157 @@
-# 90 At Kannakatthala
-***(Kannakatthala Sutta)***
+# 90. Tại Kannakatthala
+***(Kinh Kannakatthala)***
 
-1. Thus have I heard. On one occasion the Blessed One was living at Ujuñña, in the Kannakatthala Deer Park.
+1\.  Tôi nghe như vầy. Một thời Đức Thế Tôn trú tại Ujuñña, trong Vườn Nai Kannakatthala.
 
-2. Now on that occasion King Pasenadi of Kosala had arrived at Ujuñña for some business or other. Then he told a man: "Come, good man, go to the Blessed One and pay homage in my name with your head at his feet, and ask whether he is free from illness and affliction, and is healthy, strong, and abiding in comfort, saying: 'Venerable sir, King Pasenadi of Kosala pays homage with his head at the Blessed One's feet, and he asks whether the Blessed One is free from illness... and abiding in comfort.' And say this: 'Venerable sir, today King Pasenadi of Kosala will come to see the Blessed One after he has had his breakfast."
+2\.  Khi ấy, vua Pasenadi xứ Kosala đi đến Ujuñña vì một công việc nào đó. Rồi vua bảo một người: "Này người kia, hãy đến chỗ Đức Thế Tôn, thay mặt ta đảnh lễ dưới chân Ngài, và hỏi thăm Ngài có ít bệnh, ít não, khinh an, mạnh khỏe, và sống thoải mái không, thưa rằng: 'Bạch Thế Tôn, vua Pasenadi xứ Kosala xin đảnh lễ dưới chân Đức Thế Tôn, và xin hỏi thăm Đức Thế Tôn có ít bệnh... và sống thoải mái không.' Và thưa thêm thế này: 'Bạch Thế Tôn, hôm nay vua Pasenadi xứ Kosala sẽ đến yết kiến Đức Thế Tôn sau bữa điểm tâm.'"
 
-"Yes, sire," the man replied, and he went to the Blessed One, and after paying homage to him, he sat down at one side and delivered his message.
+    Người ấy đáp: "Vâng, tâu đại vương," rồi đi đến chỗ Đức Thế Tôn, sau khi đảnh lễ Ngài, người ấy ngồi xuống một bên và trình lại lời nhắn.
 
-3. The sisters Somā and Sakulā [^845] heard: "Today [126] King Pasenadi of Kosala will go to see the Blessed One after he has had his breakfast."
+3\.  Hai chị em Somā và Sakulā [^845] nghe được rằng: "Hôm nay [126] vua Pasenadi xứ Kosala sẽ đến yết kiến Đức Thế Tôn sau bữa điểm tâm."
 
-Then, while the meal was being served, the two sisters went to the king and said: "Sire, pay homage in our name with your head at the Blessed One's feet, and ask whether he is free from illness... and abiding in comfort, saying: 'Venerable sir, the sisters Somā and Sakulā pay homage with their heads at the Blessed One's feet, and they ask whether he is free from illness... and abiding in comfort."
+    Rồi, trong khi bữa ăn đang được dọn ra, hai chị em đến gặp vua và thưa: "Tâu đại vương, xin thay mặt chúng thần đảnh lễ dưới chân Đức Thế Tôn, và hỏi thăm Ngài có ít bệnh... và sống thoải mái không, thưa rằng: 'Bạch Thế Tôn, hai chị em Somā và Sakulā xin đảnh lễ dưới chân Đức Thế Tôn, và xin hỏi thăm Đức Thế Tôn có ít bệnh... và sống thoải mái không.'"
 
-4. Then, when he had finished his breakfast, King Pasenadi of Kosala went to the Blessed One, and after paying homage to him, he sat down at one side and delivered the message of the sisters Somā and Sakulā.
-"But, great king, could the sisters Somā and Sakulā find no other messenger?"
+4\.  Sau đó, khi đã dùng xong bữa điểm tâm, vua Pasenadi xứ Kosala đi đến chỗ Đức Thế Tôn, sau khi đảnh lễ Ngài, vua ngồi xuống một bên và trình lại lời nhắn của hai chị em Somā và Sakulā.
+    "Nhưng, đại vương, hai chị em Somā và Sakulā không tìm được người đưa tin nào khác sao?"
 
-"Venerable sir, the sisters Somā and Sakulā heard: 'Today King Pasenadi of Kosala will go to see the Blessed One after he has had his breakfast.' Then, while the meal was being served, the sisters Somā and Sakulā came to me and said: 'Sire, pay homage in our names with your head at the Blessed One's feet, and ask whether he is free from illness...and abiding in comfort."
+    "Bạch Thế Tôn, hai chị em Somā và Sakulā nghe được rằng: 'Hôm nay vua Pasenadi xứ Kosala sẽ đến yết kiến Đức Thế Tôn sau bữa điểm tâm.' Rồi, trong khi bữa ăn đang được dọn ra, hai chị em Somā và Sakulā đến gặp thần và thưa: 'Tâu đại vương, xin thay mặt chúng thần đảnh lễ dưới chân Đức Thế Tôn, và hỏi thăm Ngài có ít bệnh... và sống thoải mái không.'"
 
-"May the sisters Somā and Sakulā be happy, great king."
+    "Mong rằng hai chị em Somā và Sakulā được hạnh phúc, đại vương."
 
-5. Then King Pasenadi of Kosala said to the Blessed One: "Venerable sir, I have heard this: 'The recluse Gotama says: "There is no recluse or brahmin who is omniscient and all-seeing, who can claim to have complete knowledge and vision; that is not possible." Venerable sir, do those who speak thus [127] say what has been said by the Blessed One, and not misrepresent him with what is contrary to fact? Do they explain in accordance with the Dhamma in such a way that nothing that provides a ground for censure can be legitimately deduced from their assertions?"
+5\.  Rồi vua Pasenadi xứ Kosala thưa với Đức Thế Tôn: "Bạch Thế Tôn, thần có nghe điều này: 'Sa môn Gotama nói rằng: "Không có sa môn (samana - người tu hành khổ hạnh hoặc tu sĩ nói chung) hay bà la môn (brahmin - thành viên của giai cấp tu sĩ và học giả Ấn Độ cổ) nào là bậc toàn tri và toàn kiến (omniscient and all-seeing - biết tất cả và thấy tất cả), người có thể tuyên bố có tri kiến toàn hảo (complete knowledge and vision - sự hiểu biết và thấy biết đầy đủ, hoàn chỉnh); điều đó là không thể."' Bạch Thế Tôn, những người nói như vậy [127] có nói đúng lời Đức Thế Tôn dạy không, và không xuyên tạc Ngài bằng điều không đúng sự thật chứ? Họ có giải thích đúng theo Giáo Pháp (Dhamma - lời dạy của Đức Phật, chân lý) theo cách mà không có gì có thể bị suy diễn một cách hợp lý thành cớ để khiển trách từ những lời khẳng định của họ không?"
 
-"Great King, those who speak thus do not say what has been said by me, but misrepresent me with what is untrue and contrary to fact."
+    "Đại vương, những người nói như vậy không nói đúng lời ta dạy, mà xuyên tạc ta bằng điều không thật và trái với sự thật."
 
-6. Then King Pasenadi of Kosala addressed General Viḍūḍabha: "General, who introduced this story into the palace?"
+6\.  Rồi vua Pasenadi xứ Kosala hỏi Tướng quân Viḍūḍabha: "Tướng quân, ai đã đưa câu chuyện này vào cung?"
 
-"It was Sañjaya, sire, the brahmin of the Ākāsa clan."
+    "Tâu đại vương, đó là Sañjaya, vị bà la môn thuộc dòng dõi Ākāsa."
 
-7. Then King Pasenadi of Kosala told a man: "Come, good man, in my name tell Sañjaya, the brahmin of the Ākāsa clan: 'Venerable sir, King Pasenadi of Kosala calls you.'"
+7\.  Rồi vua Pasenadi xứ Kosala bảo một người: "Này người kia, hãy thay mặt ta nói với Sañjaya, vị bà la môn thuộc dòng dõi Ākāsa: 'Thưa tôn giả, vua Pasenadi xứ Kosala cho gọi ngài.'"
 
-"Yes, sire," the man replied. He went to Sañjaya, the brahmin of the Ākāsa clan, and told him: "Venerable sir, King Pasenadi of Kosala calls you."
+    Người ấy đáp: "Vâng, tâu đại vương." Người ấy đi đến chỗ Sañjaya, vị bà la môn thuộc dòng dõi Ākāsa, và nói với ông ta: "Thưa tôn giả, vua Pasenadi xứ Kosala cho gọi ngài."
 
-8. Meanwhile King Pasenadi of Kosala said to the Blessed One: "Venerable sir, could something else have been said by the Blessed One referring to that, and the person understood it wrongly? In what way does the Blessed One recall making that utterance?"
+8\.  Trong khi đó, vua Pasenadi xứ Kosala thưa với Đức Thế Tôn: "Bạch Thế Tôn, có thể nào Đức Thế Tôn đã nói một điều gì khác liên quan đến việc đó, và người kia đã hiểu sai không? Đức Thế Tôn nhớ lại mình đã nói lời đó như thế nào?"
 
-"I recall having actually made the utterance in this way, great king: 'There is no recluse or brahmin who knows all, who sees all, simultaneously; that is not possible.'"846
+    "Ta nhớ là đã thực sự nói như thế này, đại vương: 'Không có sa môn hay bà la môn nào biết tất cả, thấy tất cả, *một cách đồng thời*; điều đó là không thể.'"[^846]
 
-"What the Blessed One has said appears reasonable, what the Blessed One has said appears to be supported by reason: 'There
-is no recluse or brahmin [128] who knows all, who sees all, simultaneously; that is not possible.'"
+    "Điều Đức Thế Tôn nói có vẻ hợp lý, điều Đức Thế Tôn nói có vẻ có cơ sở lý luận: 'Không có sa môn hay bà la môn nào [128] biết tất cả, thấy tất cả, *một cách đồng thời*; điều đó là không thể.'"
 
-9. "There are these four castes, venerable sir: the nobles, the brahmins, the merchants, and the workers. Is there any distinction or difference among them?"
+9\.  "Bạch Thế Tôn, có bốn giai cấp (castes - các tầng lớp xã hội ở Ấn Độ cổ) này: Sát-đế-lỵ (Khattiya - giai cấp quý tộc, vua chúa, chiến binh), Bà-la-môn (Brahmana - giai cấp tu sĩ, học giả), Phệ-xá (Vessa - giai cấp thương nhân, nông dân), và Thủ-đà-la (Sudda - giai cấp lao động, tôi tớ). Có sự phân biệt hay khác biệt nào giữa họ không?"
 
-"There are these four castes, great king: the nobles, the brahmins, the merchants, and the workers. Two of them, that is, the nobles and the brahmins, are held to be superior since men pay homage to them, rise up for them, and accord them reverential salutation and polite services."
+    "Đại vương, có bốn giai cấp này: Sát-đế-lỵ, Bà-la-môn, Phệ-xá, và Thủ-đà-la. Hai giai cấp trong số đó, tức là Sát-đế-lỵ và Bà-la-môn, được xem là cao quý hơn vì người ta đảnh lễ họ, đứng dậy chào họ, và dành cho họ sự kính trọng và phục vụ lịch sự."
 
-10. "Venerable sir, I was not asking about this present life; I was asking about the life to come. [^847] There are these four castes, venerable sir: the nobles, the brahmins, the merchants, and the workers. Is there any distinction or difference among them?"
+10\. "Bạch Thế Tôn, thần không hỏi về đời này; thần hỏi về đời sau. [^847] Bạch Thế Tôn, có bốn giai cấp này: Sát-đế-lỵ, Bà-la-môn, Phệ-xá, và Thủ-đà-la. Có sự phân biệt hay khác biệt nào giữa họ không?"
 
-"Great king, there are these five factors of striving. [^848] What five? Here a bhikkhu has faith, he places his faith in the Tathāgata's enlightenment thus: 'The Blessed One is accomplished, fully enlightened, perfect in true knowledge and conduct, sublime, knower of worlds, incomparable leader of persons to be tamed, teacher of gods and humans, enlightened, blessed.' Then he is free from illness and affliction, possessing a good digestion that is neither too cool nor too warm but medium and able to bear the strain of striving. Then he is honest and sincere, and shows himself as he actually is to his teacher and his companions in the holy life. Then he is energetic in abandoning unwholesome states and in undertaking wholesome states, steadfast, launching his effort with firmness and persevering in cultivating wholesome states. Then he is wise; he possesses wisdom regarding rise and disappearance that is noble and penetrative and leads to the complete destruction of suffering. These are the five factors of striving.
+    "Đại vương, có năm yếu tố nỗ lực (factors of striving - các yếu tố cần thiết cho sự tinh tấn tu tập) này. [^848] Năm yếu tố đó là gì? Ở đây, một vị tỳ kheo (bhikkhu - vị sư nam đã thọ giới cụ túc) có đức tin, vị ấy đặt niềm tin vào sự giác ngộ (bodhi - sự tỉnh thức hoàn toàn, hiểu biết chân lý) của Như Lai (Tathāgata - một danh hiệu của Đức Phật, nghĩa là "người đã đến như vậy" hoặc "người đã đi như vậy") như sau: 'Đức Thế Tôn là bậc ứng cúng (arahant - xứng đáng được cúng dường), chánh biến tri (sammāsambuddha - tự mình giác ngộ hoàn toàn), minh hạnh túc (vijjācaraṇasampanna - đầy đủ trí tuệ và đức hạnh), thiện thệ (sugata - người đã đi một cách tốt đẹp), thế gian giải (lokavidū - người hiểu biết thế gian), vô thượng sĩ điều ngự trượng phu (anuttaro purisadammasārathi - bậc tối cao dìu dắt chúng sinh), thiên nhân sư (satthā devamanussānaṃ - thầy của trời và người), Phật (buddha - bậc giác ngộ), Thế Tôn (bhagavā - bậc được tôn kính).' Rồi vị ấy ít bệnh, ít não, có hệ tiêu hóa tốt, không quá lạnh cũng không quá nóng mà điều hòa và có thể chịu đựng sự căng thẳng của việc nỗ lực. Rồi vị ấy chân thật và thẳng thắn, thể hiện bản thân đúng như thực tế với thầy và các bạn đồng tu trong đời sống phạm hạnh (brahmacariya - đời sống trong sạch, thanh tịnh, thường chỉ đời sống tu sĩ). Rồi vị ấy tinh tấn từ bỏ các pháp bất thiện (akusala dhamma - những trạng thái tâm tiêu cực, có hại) và thực hành các pháp thiện (kusala dhamma - những trạng thái tâm tích cực, có lợi), kiên định, nỗ lực vững chắc và bền bỉ trong việc vun bồi các pháp thiện. Rồi vị ấy có trí tuệ; vị ấy sở hữu trí tuệ về sự sinh diệt (udayabbaya-ñāṇa - trí tuệ thấy rõ sự sinh khởi và hoại diệt của các pháp), một trí tuệ cao thượng, thâm nhập và dẫn đến sự đoạn tận khổ đau (dukkhakkhaya - sự chấm dứt hoàn toàn mọi khổ đau, Niết Bàn). Đó là năm yếu tố nỗ lực.
 
-"There are these four castes, great king: the nobles, the brahmins, the merchants, and the workers. Now if they possessed these five factors of striving, it would lead to their welfare and happiness for a long time."
+    "Đại vương, có bốn giai cấp này: Sát-đế-lỵ, Bà-la-môn, Phệ-xá, và Thủ-đà-la. Nếu họ sở hữu năm yếu tố nỗ lực này, điều đó sẽ dẫn đến lợi ích và hạnh phúc lâu dài cho họ."
 
-11. "Venerable sir, there are these four castes: the nobles, the brahmins, the merchants, [129] and the workers. Now if they possessed these five factors of striving, would there be any difference among them here in that respect?"
-"Here, great king, I say that the difference among them would lie in the diversity of their striving. Suppose there were two tamable elephants or tamable horses or tamable oxen that were well tamed and well disciplined, and two tamable elephants or tamable horses or tamable oxen that were untamed and undisciplined. What do you think, great king? Would the two tamable elephants or tamable horses or tamable oxen that were well tamed and well disciplined, being tamed, acquire the behaviour of the tamed, would they arrive at the grade of the tamed?"
+11\. "Bạch Thế Tôn, có bốn giai cấp này: Sát-đế-lỵ, Bà-la-môn, Phệ-xá, [129] và Thủ-đà-la. Nếu họ sở hữu năm yếu tố nỗ lực này, liệu có sự khác biệt nào giữa họ về phương diện đó không?"
+    "Ở đây, đại vương, ta nói rằng sự khác biệt giữa họ nằm ở sự đa dạng trong nỗ lực của họ. Giả sử có hai con voi có thể thuần hóa, hoặc hai con ngựa có thể thuần hóa, hoặc hai con bò có thể thuần hóa đã được thuần hóa tốt và huấn luyện tốt, và hai con voi có thể thuần hóa, hoặc hai con ngựa có thể thuần hóa, hoặc hai con bò có thể thuần hóa chưa được thuần hóa và chưa được huấn luyện. Đại vương nghĩ sao? Hai con voi, ngựa, hay bò có thể thuần hóa đã được thuần hóa tốt và huấn luyện tốt, khi được thuần hóa, chúng có học được cách cư xử của loài đã được thuần hóa, chúng có đạt đến cấp độ của loài đã được thuần hóa không?"
 
-"Yes, venerable sir."
+    "Thưa vâng, bạch Thế Tôn."
 
-"And would the two tamable elephants or tamable horses or tamable oxen that were untamed and undisciplined, being untamed, acquire the behaviour of the tamed, would they arrive at the grade of the tamed, like the two elephants or horses or oxen that were well tamed and well disciplined?"
+    "Và hai con voi, ngựa, hay bò có thể thuần hóa chưa được thuần hóa và chưa được huấn luyện, khi chưa được thuần hóa, chúng có học được cách cư xử của loài đã được thuần hóa, chúng có đạt đến cấp độ của loài đã được thuần hóa, giống như hai con voi, ngựa, hay bò đã được thuần hóa tốt và huấn luyện tốt không?"
 
-"No, venerable sir."
+    "Thưa không, bạch Thế Tôn."
 
-"So too, great king, it is not possible that what can be achieved by one who has faith, who is free from illness, who is honest and sincere, who is energetic, and who is wise, can be achieved by one who has no faith, who has much illness, who is fraudulent and deceitful, who is lazy, and who is not wise."
+    "Cũng vậy, đại vương, không thể nào điều mà một người có đức tin, ít bệnh, chân thật và thẳng thắn, tinh tấn, và có trí tuệ có thể đạt được, lại có thể đạt được bởi một người không có đức tin, nhiều bệnh, gian trá và lừa lọc, lười biếng, và không có trí tuệ."
 
-12. "What the Blessed One has said appears reasonable, what the Blessed One has said appears to be supported by reason.
+12\. "Điều Đức Thế Tôn nói có vẻ hợp lý, điều Đức Thế Tôn nói có vẻ có cơ sở lý luận.
 
-"There are these four castes, venerable sir: the nobles, the brahmins, the merchants, and the workers. Now if they possessed these five factors of striving, and if their striving was right, would there be any difference among them in that respect?"
+    "Bạch Thế Tôn, có bốn giai cấp này: Sát-đế-lỵ, Bà-la-môn, Phệ-xá, và Thủ-đà-la. Nếu họ sở hữu năm yếu tố nỗ lực này, và nếu sự nỗ lực của họ là đúng đắn, liệu có sự khác biệt nào giữa họ về phương diện đó không?"
 
-"Here, great king, in this respect I say that among them there is no difference, that is, between the deliverance of one and the deliverance of the others. Suppose a man took dry sāka wood, lit a fire, and produced heat; and then another man took dry sāla wood, lit a fire, and produced heat; [130] and then another man took dry mango wood, lit a fire, and produced heat; and then another man took dry fig wood, lit a fire, and produced heat. What do you think, great king? Would there be any difference among these fires lit with different kinds of wood, that is, between the flame of one and the flames of the others, or between the colour of one and the colours of the others, or between the radiance of one and the radiances of the others?"
-"No, venerable sir."
+    "Ở đây, đại vương, về phương diện này, ta nói rằng giữa họ không có sự khác biệt nào, tức là, giữa sự giải thoát (vimutti - sự giải thoát khỏi khổ đau và vòng luân hồi) của người này và sự giải thoát của người kia. Giả sử một người lấy củi khô từ cây sāka, nhóm lửa và tạo ra nhiệt; rồi một người khác lấy củi khô từ cây sāla, nhóm lửa và tạo ra nhiệt; [130] rồi một người khác lấy củi khô từ cây xoài, nhóm lửa và tạo ra nhiệt; rồi một người khác lấy củi khô từ cây sung, nhóm lửa và tạo ra nhiệt. Đại vương nghĩ sao? Liệu có sự khác biệt nào giữa những ngọn lửa này được nhóm từ các loại củi khác nhau không, tức là, giữa ngọn lửa của cái này và ngọn lửa của những cái khác, hoặc giữa màu sắc của cái này và màu sắc của những cái khác, hoặc giữa ánh sáng của cái này và ánh sáng của những cái khác không?"
+    "Thưa không, bạch Thế Tôn."
 
-"So too, great king, when a fire is kindled by energy, lit by striving, there is, I say, no difference, that is, between the deliverance of one and the deliverance of the others."
+    "Cũng vậy, đại vương, khi ngọn lửa được thắp lên bởi năng lượng, được nhóm lên bởi sự nỗ lực, ta nói rằng không có sự khác biệt nào, tức là, giữa sự giải thoát của người này và sự giải thoát của người kia."
 
-13. "What the Blessed One has said appears reasonable, what the Blessed One has said appears to be supported by reason. But, venerable sir, how is it: are there gods?"
+13\. "Điều Đức Thế Tôn nói có vẻ hợp lý, điều Đức Thế Tôn nói có vẻ có cơ sở lý luận. Nhưng, bạch Thế Tôn, vấn đề là thế này: có chư thiên (deva - các vị trời trong các cõi trời dục giới và sắc giới) không?"
 
-"Why do you ask that, great king?"
+    "Tại sao đại vương lại hỏi vậy?"
 
-"Venerable sir, I was asking whether those gods come back to this [human] state or whether they do not."
+    "Bạch Thế Tôn, thần muốn hỏi liệu những vị trời đó có trở lại trạng thái [con người] này hay không."
 
-"Great king, those gods who are still subject to affliction come back to this [human] state, those gods who are no longer subject to affliction do not come back to this [human] state." [^849]
+    "Đại vương, những vị trời nào còn phiền não (sa-upādisesa - vẫn còn chịu sự chi phối của phiền não, nghiệp và tái sinh) thì sẽ trở lại trạng thái [con người] này, những vị trời nào không còn phiền não (anupādisesa - không còn chịu sự chi phối của phiền não, nghiệp và tái sinh) thì sẽ không trở lại trạng thái [con người] này." [^849]
 
-14. When this was said, General Viḍūḍabha asked the Blessed One: "Venerable sir, can those gods who are still subject to affliction and who come back to this [human] state topple or banish from that place those gods who are no longer subject to affliction and who do not come back to this [human] state?"
+14\. Khi nghe vậy, Tướng quân Viḍūḍabha hỏi Đức Thế Tôn: "Bạch Thế Tôn, liệu những vị trời còn phiền não và sẽ trở lại trạng thái [con người] này có thể lật đổ hoặc trục xuất khỏi nơi đó những vị trời không còn phiền não và không trở lại trạng thái [con người] này không?"
 
-Then the venerable Ānanda thought: "This General Viḍūḍabha is the son of King Pasenadi of Kosala, and I am the son of the Blessed One. This is the time for one son to talk with the other." He said to General Viḍūḍabha: "General, I shall ask you a question in return. Answer it as you choose. General, what do you think? There is the whole extent of King Pasenadi of Kosala's realm, where [131] he exercises lordship and sovereignty; now can King Pasenadi of Kosala topple or banish from that place any recluse or brahmin, irrespective of whether that recluse or brahmin has merit or not and whether he leads the holy life or not?"
+    Lúc đó, Tôn giả Ānanda nghĩ: "Tướng quân Viḍūḍabha này là con của vua Pasenadi xứ Kosala, còn ta là con của Đức Thế Tôn. Đây là lúc để một người con nói chuyện với người con kia." Ngài nói với Tướng quân Viḍūḍabha: "Thưa Tướng quân, tôi sẽ hỏi ngài một câu hỏi ngược lại. Xin ngài trả lời tùy ý. Thưa Tướng quân, ngài nghĩ sao? Trong toàn bộ lãnh thổ của vua Pasenadi xứ Kosala, nơi [131] vua thực thi quyền làm chủ và cai trị; vậy vua Pasenadi xứ Kosala có thể lật đổ hoặc trục xuất khỏi nơi đó bất kỳ sa môn hay bà la môn nào, bất kể sa môn hay bà la môn đó có công đức hay không và có sống đời sống phạm hạnh hay không?"
 
-"He can do so, sir."
+    "Ngài có thể làm vậy, thưa ngài."
 
-"What do you think, general? There is the whole extent that is not King Pasenadi of Kosala's realm, where he does not exercise lordship and sovereignty; now can King Pasenadi of Kosala topple or banish from that place any recluse or brahmin, irrespective of whether that recluse or brahmin has merit or not and whether he leads the holy life or not?"
+    "Ngài nghĩ sao, thưa Tướng quân? Trong toàn bộ lãnh thổ không thuộc về vua Pasenadi xứ Kosala, nơi vua không thực thi quyền làm chủ và cai trị; vậy vua Pasenadi xứ Kosala có thể lật đổ hoặc trục xuất khỏi nơi đó bất kỳ sa môn hay bà la môn nào, bất kể sa môn hay bà la môn đó có công đức hay không và có sống đời sống phạm hạnh hay không?"
 
-"He cannot do so, sir."
+    "Ngài không thể làm vậy, thưa ngài."
 
-"General, what do you think? Have you heard of the gods of the Thirty-three?"
-"Yes, sir, I have heard of them. And King Pasenadi of Kosala has heard of them too."
+    "Thưa Tướng quân, ngài nghĩ sao? Ngài có nghe nói về Chư thiên cõi Ba Mươi Ba (Tāvatiṃsa - cõi trời thứ hai trong Dục giới, nơi Đế Thích làm vua) không?"
+    "Vâng, thưa ngài, tôi có nghe nói về họ. Và vua Pasenadi xứ Kosala cũng đã nghe nói về họ."
 
-"General, what do you think? Can King Pasenadi of Kosala topple the gods of the Thirty-three or banish them from that place?"
+    "Thưa Tướng quân, ngài nghĩ sao? Vua Pasenadi xứ Kosala có thể lật đổ Chư thiên cõi Ba Mươi Ba hoặc trục xuất họ khỏi nơi đó không?"
 
-"Sir, King Pasenadi of Kosala cannot even see the gods of the Thirty-three, so how could he topple them or banish them from that place?"
+    "Thưa ngài, vua Pasenadi xứ Kosala thậm chí không thể nhìn thấy Chư thiên cõi Ba Mươi Ba, vậy làm sao ngài có thể lật đổ hoặc trục xuất họ khỏi nơi đó?"
 
-"So too, general, those gods who are still subject to affliction and who come back to this [human] state cannot even see those gods who are no longer subject to affliction and who do not come back to this [human] state; so how could they topple them or banish them from that place?"
+    "Cũng vậy, thưa Tướng quân, những vị trời còn phiền não và sẽ trở lại trạng thái [con người] này thậm chí không thể nhìn thấy những vị trời không còn phiền não và không trở lại trạng thái [con người] này; vậy làm sao họ có thể lật đổ hoặc trục xuất họ khỏi nơi đó?"
 
-15. Then King Pasenadi of Kosala asked the Blessed One: "Venerable sir, what is this bhikkhu's name?"
+15\. Rồi vua Pasenadi xứ Kosala hỏi Đức Thế Tôn: "Bạch Thế Tôn, vị tỳ kheo này tên là gì?"
 
-"His name is Ānanda, great king."
+    "Tên ngài ấy là Ānanda, đại vương."
 
-"Ānanda [joy] he is indeed, venerable sir, and Ānanda he appears. What [132] the venerable Ānanda has said appears reasonable, what he has said appears to be supported by reason. But, venerable sir, how is it: are there Brahmās?"
+    "Quả thật ngài ấy là Ānanda [niềm vui], bạch Thế Tôn, và ngài ấy có vẻ là Ānanda. Điều [132] Tôn giả Ānanda nói có vẻ hợp lý, điều ngài ấy nói có vẻ có cơ sở lý luận. Nhưng, bạch Thế Tôn, vấn đề là thế này: có các vị Phạm thiên (Brahmā - các vị trời ở cõi trời sắc giới và vô sắc giới, cao hơn chư thiên dục giới) không?"
 
-"Why do you ask that, great king?"
+    "Tại sao đại vương lại hỏi vậy?"
 
-"Venerable sir, I was asking whether those Brahmās come back to this [human] state or whether they do not."
+    "Bạch Thế Tôn, thần muốn hỏi liệu những vị Phạm thiên đó có trở lại trạng thái [con người] này hay không."
 
-"Great king, any Brahmā who is still subject to affliction comes back to this [human] state, any Brahmā who is no longer subject to affliction does not come back to this [human] state."
+    "Đại vương, bất kỳ Phạm thiên nào còn phiền não thì sẽ trở lại trạng thái [con người] này, bất kỳ Phạm thiên nào không còn phiền não thì sẽ không trở lại trạng thái [con người] này."
 
-16. Then a man announced to King Pasenadi of Kosala: "Great king, Sañjaya, the brahmin of the Ākāsa clan, has come."
+16\. Rồi một người báo cho vua Pasenadi xứ Kosala: "Tâu đại vương, Sañjaya, vị bà la môn thuộc dòng dõi Ākāsa, đã đến."
 
-King Pasenadi of Kosala asked Sañjaya, the brahmin of the Ākāsa clan: "Brahmin, who introduced this story to the palace?"
+    Vua Pasenadi xứ Kosala hỏi Sañjaya, vị bà la môn thuộc dòng dõi Ākāsa: "Này Bà la môn, ai đã đưa câu chuyện này vào cung?"
 
-"Sire, it was General Viḍūḍabha."
+    "Tâu đại vương, đó là Tướng quân Viḍūḍabha."
 
-General Viḍūḍabha said: "Sire, it was Sañjaya, the brahmin of the Ākāsa clan."
+    Tướng quân Viḍūḍabha nói: "Tâu đại vương, đó là Sañjaya, vị bà la môn thuộc dòng dõi Ākāsa."
 
-17. Then a man announced to King Pasenadi of Kosala: "Sire, it is time to depart."
+17\. Rồi một người báo cho vua Pasenadi xứ Kosala: "Tâu đại vương, đã đến giờ khởi hành."
 
-King Pasenadi of Kosala said to the Blessed One: "Venerable sir, we have asked the Blessed One about omniscience, and the Blessed One has answered about omniscience; we approve of and accept that answer, and so we are satisfied. We have asked the Blessed One about purification in the four castes, and the
+    Vua Pasenadi xứ Kosala thưa với Đức Thế Tôn: "Bạch Thế Tôn, chúng thần đã hỏi Đức Thế Tôn về sự toàn tri (sabbaññutā - khả năng biết tất cả mọi thứ), và Đức Thế Tôn đã trả lời về sự toàn tri; chúng thần chấp thuận và chấp nhận câu trả lời đó, và vì vậy chúng thần hài lòng. Chúng thần đã hỏi Đức Thế Tôn về sự thanh tịnh (visuddhi - sự trong sạch, không còn ô nhiễm) trong bốn giai cấp, và Đức Thế Tôn đã trả lời về sự thanh tịnh trong bốn giai cấp; chúng thần chấp thuận và chấp nhận câu trả lời đó, và vì vậy chúng thần hài lòng. Chúng thần đã hỏi Đức Thế Tôn về chư thiên, và Đức Thế Tôn đã trả lời về chư thiên; chúng thần chấp thuận và chấp nhận câu trả lời đó, và vì vậy chúng thần hài lòng. Chúng thần đã hỏi Đức Thế Tôn về các vị Phạm thiên, và Đức Thế Tôn đã trả lời về các vị Phạm thiên; chúng thần chấp thuận và chấp nhận câu trả lời đó, và vì vậy chúng thần hài lòng. Bất cứ điều gì chúng thần hỏi Đức Thế Tôn, Đức Thế Tôn đều đã trả lời; chúng thần chấp thuận và chấp nhận những câu trả lời đó, và vì vậy chúng thần hài lòng. [133] Và bây giờ, bạch Thế Tôn, chúng thần xin cáo từ. Chúng thần bận rộn và có nhiều việc phải làm."
 
-Blessed One has answered about purification in the four castes; we approve of and accept that answer, and so we are satisfied. We have asked the Blessed One about the gods, and the Blessed One has answered about the gods; we approve of and accept that answer, and so we are satisfied. We have asked the Blessed One about the Brahmās, and the Blessed One has answered about the Brahmās; we approve of and accept that answer, and so we are satisfied. Whatever we asked the Blessed One, that the Blessed One has answered; we approve of and accept those answers, and so we are satisfied. [133] And now, venerable sir, we depart. We are busy and have much to do."
+    "Bây giờ là lúc, đại vương, hãy làm những gì ngài thấy là phù hợp."
 
-"Now is the time, great king, to do as you think fit."
+18\. Rồi vua Pasenadi xứ Kosala, sau khi hoan hỷ và vui mừng trước lời dạy của Đức Thế Tôn, từ chỗ ngồi đứng dậy, và sau khi đảnh lễ Đức Thế Tôn, thân bên phải hướng về Ngài, rồi ra về.
 
-18. Then King Pasenadi of Kosala, having delighted and rejoiced in the Blessed One's words, rose from his seat, and after paying homage to the Blessed One, keeping him on his right, he departed.
+<!--pg-->
+Từ ngữ:
+- sa môn / samana / recluse: Người tu hành khổ hạnh hoặc tu sĩ nói chung trong các truyền thống tôn giáo Ấn Độ cổ, không nhất thiết là Phật giáo.
+- bà la môn / brahmin / brahmin: Thành viên của giai cấp tu sĩ và học giả trong hệ thống bốn giai cấp xã hội Ấn Độ cổ.
+- toàn tri và toàn kiến / omniscient and all-seeing: Biết tất cả và thấy tất cả. Trong kinh này, Đức Phật phủ nhận khả năng biết và thấy tất cả mọi thứ *đồng thời*.
+- tri kiến toàn hảo / complete knowledge and vision: Sự hiểu biết và thấy biết đầy đủ, hoàn chỉnh. Thường liên quan đến trí tuệ giác ngộ.
+- Giáo Pháp / Dhamma / Dhamma: Lời dạy của Đức Phật, chân lý phổ quát, quy luật tự nhiên.
+- giai cấp / castes: Các tầng lớp xã hội phân chia theo dòng dõi và nghề nghiệp ở Ấn Độ cổ. Kinh này đề cập bốn giai cấp chính: Sát-đế-lỵ (Khattiya - quý tộc/chiến binh), Bà-la-môn (Brahmana - tu sĩ/học giả), Phệ-xá (Vessa - thương nhân/nông dân), Thủ-đà-la (Sudda - lao động/tôi tớ).
+- yếu tố nỗ lực / factors of striving: Các yếu tố cần thiết cho sự tinh tấn, nỗ lực tu tập để đạt giải thoát. Kinh này liệt kê năm yếu tố: đức tin, sức khỏe, chân thật, tinh tấn, trí tuệ.
+- tỳ kheo / bhikkhu / bhikkhu: Vị sư nam đã thọ giới cụ túc (giới cao nhất) trong Phật giáo Theravada.
+- giác ngộ / bodhi / enlightenment: Sự tỉnh thức hoàn toàn, sự hiểu biết thấu suốt về bản chất của thực tại, chấm dứt khổ đau.
+- Như Lai / Tathāgata / Tathāgata: Một danh hiệu tôn kính của Đức Phật, có thể hiểu là "Người đã đến như vậy" (đến với chân lý) hoặc "Người đã đi như vậy" (đi đến Niết Bàn).
+- ứng cúng / arahant / accomplished: Bậc xứng đáng được cúng dường, một trong 9 ân đức của Phật. Cũng là danh hiệu chỉ người đã đạt Niết Bàn.
+- chánh biến tri / sammāsambuddha / fully enlightened: Bậc tự mình giác ngộ hoàn toàn mọi pháp, một trong 9 ân đức của Phật.
+- minh hạnh túc / vijjācaraṇasampanna / perfect in true knowledge and conduct: Bậc đầy đủ trí tuệ (minh) và đức hạnh (hạnh), một trong 9 ân đức của Phật.
+- thiện thệ / sugata / sublime (well-gone): Bậc đã đi một cách tốt đẹp đến Niết Bàn, một trong 9 ân đức của Phật.
+- thế gian giải / lokavidū / knower of worlds: Bậc hiểu biết rõ về thế gian (chúng sinh và môi trường), một trong 9 ân đức của Phật.
+- vô thượng sĩ điều ngự trượng phu / anuttaro purisadammasārathi / incomparable leader of persons to be tamed: Bậc tối cao có khả năng giáo hóa, dẫn dắt những người cần được điều phục, một trong 9 ân đức của Phật.
+- thiên nhân sư / satthā devamanussānaṃ / teacher of gods and humans: Bậc thầy của cả trời và người, một trong 9 ân đức của Phật.
+- Phật / buddha / enlightened: Bậc đã giác ngộ, một trong 9 ân đức của Phật.
+- Thế Tôn / bhagavā / blessed: Bậc được tôn kính, đấng có đầy đủ phước đức và trí tuệ, một trong 9 ân đức của Phật.
+- đời sống phạm hạnh / brahmacariya / holy life: Đời sống trong sạch, thanh tịnh, không dâm dục, thường chỉ đời sống của tu sĩ hoặc người thực hành Bát quan trai giới.
+- pháp bất thiện / akusala dhamma / unwholesome states: Những trạng thái tâm tiêu cực, có hại, dẫn đến khổ đau (tham, sân, si...).
+- pháp thiện / kusala dhamma / wholesome states: Những trạng thái tâm tích cực, có lợi, dẫn đến an vui (vô tham, vô sân, vô si, tín, tấn, niệm, định, tuệ...).
+- trí tuệ về sự sinh diệt / udayabbaya-ñāṇa / wisdom regarding rise and disappearance: Trí tuệ thiền quán thấy rõ sự sinh khởi và hoại diệt liên tục của các pháp hữu vi (thân và tâm).
+- đoạn tận khổ đau / dukkhakkhaya / complete destruction of suffering: Sự chấm dứt hoàn toàn mọi khổ đau, đồng nghĩa với Niết Bàn.
+- giải thoát / vimutti / deliverance: Sự giải thoát khỏi mọi ràng buộc của phiền não, nghiệp và vòng luân hồi sinh tử.
+- chư thiên / deva / gods: Các vị trời sống ở các cõi trời Dục giới và Sắc giới, có phước báo và tuổi thọ dài hơn con người nhưng vẫn trong vòng luân hồi.
+- còn phiền não / sa-upādisesa / subject to affliction: Trạng thái vẫn còn chịu sự chi phối của phiền não (tham, sân, si...), nghiệp và do đó vẫn còn tái sinh trong luân hồi.
+- không còn phiền não / anupādisesa / no longer subject to affliction: Trạng thái đã đoạn trừ hoàn toàn phiền não, không còn tái sinh. Thường chỉ trạng thái Niết Bàn của bậc A-la-hán sau khi chết (vô dư y Niết Bàn).
+- Chư thiên cõi Ba Mươi Ba / Tāvatiṃsa / gods of the Thirty-three: Cõi trời thứ hai trong sáu cõi trời Dục giới, nằm trên đỉnh núi Tu-di (Sumeru), do trời Đế Thích (Sakka) cai quản.
+- Phạm thiên / Brahmā / Brahmās: Các vị trời ở các cõi trời Sắc giới và Vô sắc giới, cao hơn các cõi trời Dục giới, có thiền định sâu sắc và tuổi thọ rất dài, nhưng vẫn có thể còn trong vòng luân hồi nếu chưa đoạn tận phiền não.
+- sự toàn tri / sabbaññutā / omniscience: Khả năng biết tất cả mọi thứ. Đức Phật khẳng định mình có trí tuệ biết rõ những gì cần biết để giải thoát, nhưng không phải biết tất cả mọi thứ *cùng một lúc*.
+- sự thanh tịnh / visuddhi / purification: Sự trong sạch, không còn ô nhiễm bởi phiền não. Trong Phật giáo, thanh tịnh là quá trình và kết quả của tu tập giới-định-tuệ.

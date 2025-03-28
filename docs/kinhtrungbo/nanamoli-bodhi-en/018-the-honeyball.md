@@ -1,4 +1,4 @@
-# 18 The Honeyball
+# 18. The Honeyball
 ***(Madhupindika Sutta)***
 
 1\. Thus have I heard. On one occasion the Blessed One was living in the Sakyan country at Kapilavatthu in Nigrodha's Park.

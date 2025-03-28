@@ -1,4 +1,4 @@
-# 126 Bhūmija
+# 126. Bhūmija
 ***(Bhūmija Sutta)***
 
 [138] 1. Thus have I heard. On one occasion the Blessed One was living at Rājagaha in the Bamboo Grove, the Squirrels' Sanctuary.

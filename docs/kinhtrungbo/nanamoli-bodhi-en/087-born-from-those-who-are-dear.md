@@ -1,4 +1,4 @@
-# 87 Born from Those Who Are Dear
+# 87. Born from Those Who Are Dear
 ***(Piyajātika Sutta)***
 
 [106] 1. Thus have I heard. On one occasion the Blessed One was living at Sāvatthī in Jeta's Grove, Anāthapiṇ̣ika's Park.

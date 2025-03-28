@@ -1,4 +1,4 @@
-# 90 At Kannakatthala
+# 90. At Kannakatthala
 ***(Kannakatthala Sutta)***
 
 1\. Thus have I heard. On one occasion the Blessed One was living at Ujuñña, in the Kannakatthala Deer Park.

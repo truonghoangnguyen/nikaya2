@@ -1,4 +1,4 @@
-# 42 The Brahmins of Verañja
+# 42. The Brahmins of Verañja
 ***(Verañjaka Sutta)***
 
 1\. Thus have 1 heard. On one occasion the Blessed One was living at Sāvatthī in Jeta's Grove, Anāthapiṇ̣ika's Park.

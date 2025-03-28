@@ -1,4 +1,4 @@
-# 102 The Five and Three
+# 102. The Five and Three
 ***(Pañcattaya Sutta)***
 
 1\. Thus have I heard. [^935] On one occasion the Blessed One was living at Sāvatthī in Jeta's Grove, Anāthapiṇ̣ika's Park. There he addressed the bhikkhus thus: "Bhikkhus." - "Venerable sir," they replied. The Blessed One said this:

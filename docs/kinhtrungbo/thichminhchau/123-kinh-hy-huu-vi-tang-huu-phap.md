@@ -3,7 +3,7 @@
 **123. KINH HY HỮU VỊ TẰNG HỮU PHÁP**
 ***(Acchariya-abbhùtadhamma Sutta)***
 
-## Như vầy tôi nghe:
+**Như vầy tôi nghe.**
 
 Một thời Thế Tôn trú ở Savatthi (Xá-vệ), Jetavana (Kỳ-đà-lâm), tại tịnh xá ông Anathapindika (Cấp Cô
 Ðộc).

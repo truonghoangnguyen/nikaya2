@@ -1,30 +1,55 @@
-# 147 The Shorter Discourse of Advice to Rāhula
+# 147. Kinh Tiểu Giáo Giới La Hầu La
 ***(Cūḷarāhulovāda Sutta)***
 
-1. Thus have I heard. On one occasion the Blessed One was living at Sāvatthī in Jeta's Grove, Anāthapiṇ̣̣ika's Park. [^1323]
+1\.  Như vầy tôi nghe. Một thời Đức Thế Tôn trú tại Xá Vệ, trong Rừng Kỳ Đà, Vườn Cấp Cô Độc.
 
-2. Then, while the Blessed One was alone in meditation, a thought arose in his mind thus: "The states that ripen in deliverance have ripened in Rāhula. [^1324] Suppose I were to lead him on further to the destruction of the taints."
+2\.  Rồi, khi Đức Thế Tôn đang độc cư thiền định, một ý nghĩ khởi lên trong tâm Ngài như sau: "Các trạng thái chín muồi cho sự giải thoát đã chín muồi nơi La Hầu La. Ta nên dẫn dắt nó thêm nữa đến sự đoạn trừ các lậu hoặc (āsavakkhaya - the destruction of the taints/outflows - sự phá hủy các ô nhiễm/phiền não tiềm ẩn)."
 
-Then, when it was morning, the Blessed One dressed, and taking his bowl and outer robe, went into Sāvatthī for alms. When he had walked for alms in Sāvatthī and had returned from his almsround, after his meal he addressed the venerable Rāhula thus:
+    Rồi, vào buổi sáng, Đức Thế Tôn đắp y, mang bát và thượng y, đi vào thành Xá Vệ để khất thực. Sau khi khất thực ở Xá Vệ và trở về, sau bữa ăn, Ngài gọi Tôn giả La Hầu La:
 
-"Take your sitting cloth with you, Rāhula; let us go to the Blind Men's Grove [278] to pass the day."
+    "La Hầu La, hãy mang tọa cụ của con theo; chúng ta hãy đến Rừng Người Mù [278] để nghỉ ban ngày."
 
-"Yes, venerable sir," the venerable Rāhula replied, and taking his sitting cloth with him, he followed close behind the Blessed One.
+    "Vâng, bạch Thế Tôn," Tôn giả La Hầu La đáp, và mang theo tọa cụ, đi theo sát gót Đức Thế Tôn.
 
-Now on that occasion many thousands of deities followed the Blessed One, thinking: "Today the Blessed One will lead the venerable Rāhula further to the destruction of the taints."1325 Then the Blessed One went into the Blind Men's Grove and sat down at the root of a certain tree on a seat made ready. And the venerable Rāhula paid homage to the Blessed One and sat down at one side. The Blessed One then said to the venerable Rāhula:
+    Lúc bấy giờ, nhiều ngàn vị chư thiên đi theo Đức Thế Tôn, nghĩ rằng: "Hôm nay Đức Thế Tôn sẽ dẫn dắt Tôn giả La Hầu La thêm nữa đến sự đoạn trừ các lậu hoặc." Rồi Đức Thế Tôn đi vào Rừng Người Mù và ngồi xuống dưới gốc một cây trên chỗ đã soạn sẵn. Và Tôn giả La Hầu La đảnh lễ Đức Thế Tôn rồi ngồi xuống một bên. Đức Thế Tôn bèn nói với Tôn giả La Hầu La:
 
-3. "Rāhula, what do you think? Is the eye permanent or impermanent?" - "Impermanent, venerable sir." - "Is what is impermanent suffering or happiness?" - "Suffering, venerable sir." "Is what is impermanent, suffering, and subject to change fit to be regarded thus: 'This is mine, this I am, this is my self'?" "No, venerable sir."
+3\.  "Này La Hầu La, con nghĩ sao? Mắt là thường hằng hay vô thường?" – "Bạch Thế Tôn, là vô thường." – "Cái gì vô thường là khổ hay lạc?" – "Bạch Thế Tôn, là khổ." "Cái gì vô thường, khổ, và chịu sự biến đổi, có đáng để xem là: 'Cái này là của tôi, cái này là tôi, cái này là tự ngã của tôi' không?" – "Bạch Thế Tôn, không."
 
-"Rāhula, what do you think? Are forms...Is eye-consciousness
-...[279]...Is eye-contact...Are any feeling, any perception, any formations, any consciousness that arise with eye-contact as condition permanent or impermanent?"1326 - "Impermanent, venerable sir." - "Is what is impermanent suffering or happiness?" - "Suffering, venerable sir." - "Is what is impermanent, suffering, and subject to change fit to be regarded thus: 'This is mine, this I am, this is my self'?" - "No, venerable sir."
+    "Này La Hầu La, con nghĩ sao? Các sắc... Nhãn thức... [279]... Nhãn xúc... Bất kỳ cảm thọ nào, bất kỳ tưởng nào, bất kỳ hành nào, bất kỳ thức nào phát sinh với nhãn xúc làm duyên là thường hằng hay vô thường?" – "Bạch Thế Tôn, là vô thường." – "Cái gì vô thường là khổ hay lạc?" – "Bạch Thế Tôn, là khổ." – "Cái gì vô thường, khổ, và chịu sự biến đổi, có đáng để xem là: 'Cái này là của tôi, cái này là tôi, cái này là tự ngã của tôi' không?" – "Bạch Thế Tôn, không."
 
-4-8. "Rāhula, what do you think? Is the ear permanent or impermanent?...Is the nose permanent or impermanent?...Is the tongue permanent or impermanent?...Is the body permanent or impermanent?...Are mind-objects...Is mind-consciousness...Is mind-contact...Are any feeling, any perception, any formations, any consciousness that arise with mind-contact as condition permanent or impermanent?" - "Impermanent, venerable sir." - "Is what is impermanent suffering or happiness?" - "Suffering, venerable sir." - "Is what is impermanent, suffering, and subject to change fit to be regarded thus: 'This is mine, this I am, this is my self'?" - "No, venerable sir."
+4-8. "Này La Hầu La, con nghĩ sao? Tai là thường hằng hay vô thường?... Mũi là thường hằng hay vô thường?... Lưỡi là thường hằng hay vô thường?... Thân là thường hằng hay vô thường?... Các pháp (đối tượng của tâm)... Ý thức... Ý xúc... Bất kỳ cảm thọ nào, bất kỳ tưởng nào, bất kỳ hành nào, bất kỳ thức nào phát sinh với ý xúc làm duyên là thường hằng hay vô thường?" – "Bạch Thế Tôn, là vô thường." – "Cái gì vô thường là khổ hay lạc?" – "Bạch Thế Tôn, là khổ." – "Cái gì vô thường, khổ, và chịu sự biến đổi, có đáng để xem là: 'Cái này là của tôi, cái này là tôi, cái này là tự ngã của tôi' không?" – "Bạch Thế Tôn, không."
 
-9. "Seeing thus, Rāhula, a well-taught noble disciple becomes disenchanted with the eye, disenchanted with forms, disenchanted with eye-consciousness, disenchanted with eye-contact, and disenchanted with any feeling, any perception, any formations, any consciousness that arise with eye-contact as condition.
+9\.  "Thấy như vậy, này La Hầu La, vị thánh đệ tử đã được khéo dạy trở nên nhàm chán (nibbidā - feeling weary or disgusted with worldly life due to understanding its impermanent and suffering nature - cảm giác mệt mỏi hoặc ghê tởm với đời sống thế gian do hiểu rõ bản chất vô thường và khổ đau của nó) với mắt, nhàm chán với các sắc, nhàm chán với nhãn thức, nhàm chán với nhãn xúc, và nhàm chán với bất kỳ cảm thọ nào, bất kỳ tưởng nào, bất kỳ hành nào, bất kỳ thức nào phát sinh với nhãn xúc làm duyên.
 
-"He becomes disenchanted with the ear...He becomes disenchanted with the nose...He becomes disenchanted with the tongue...He becomes disenchanted with the body...He becomes disenchanted with the mind, disenchanted with mind-objects, disenchanted with mind-consciousness, disenchanted with mindcontact, [280] and disenchanted with any feeling, any perception, any formations, any consciousness that arise with mind-contact as condition.
+    "Vị ấy trở nên nhàm chán với tai... nhàm chán với mũi... nhàm chán với lưỡi... nhàm chán với thân... nhàm chán với ý, nhàm chán với các pháp, nhàm chán với ý thức, nhàm chán với ý xúc, [280] và nhàm chán với bất kỳ cảm thọ nào, bất kỳ tưởng nào, bất kỳ hành nào, bất kỳ thức nào phát sinh với ý xúc làm duyên.
 
-10. "Being disenchanted, he becomes dispassionate. Through dispassion [his mind] is liberated. When it is liberated there comes the knowledge: 'It is liberated.' He understands: 'Birth is destroyed, the holy life has been lived, what had to be done has been done, there is no more coming to any state of being.'"
+10\. "Do nhàm chán, vị ấy trở nên ly tham (virāga - fading away of passion/lust; detachment - sự phai nhạt của đam mê/tham ái; sự không dính mắc). Nhờ ly tham, [tâm] được giải thoát (vimutti - release; freedom from suffering and rebirth - sự giải thoát; sự tự do khỏi khổ đau và tái sanh). Khi đã giải thoát, trí tuệ khởi lên: 'Đã được giải thoát.' Vị ấy hiểu rõ: 'Sanh đã tận, phạm hạnh đã thành, việc nên làm đã làm, không còn trở lui trạng thái nào nữa.'"
 
-That is what the Blessed One said. The venerable Rāhula was satisfied and delighted in the Blessed One's words. Now
-while this discourse was being spoken, through not clinging the venerable Rāhula's mind was liberated from the taints. And in those many thousands of deities there arose the spotless immaculate vision of the Dhamma: "All that is subject to arising is subject to cessation."1327
+11\. Đó là những gì Đức Thế Tôn đã dạy. Tôn giả La Hầu La hoan hỷ và tín thọ lời Đức Thế Tôn dạy. Trong khi bài pháp này đang được nói, nhờ không còn chấp thủ (anupādā - non-clinging/non-grasping - sự không bám víu/không nắm giữ), tâm của Tôn giả La Hầu La được giải thoát khỏi các lậu hoặc. Và nơi nhiều ngàn vị chư thiên ấy, pháp nhãn thanh tịnh, không tỳ vết (dhammacakkhuṃ udapādi - the dust-free, stainless eye of the Dhamma arose - con mắt Pháp không bụi, không vết nhơ đã phát sinh) đã khởi lên: "Tất cả những gì có bản chất sanh khởi đều có bản chất đoạn diệt."
+
+<!--pg-->
+Từ ngữ:
+- lậu hoặc / āsava / taint/outflow/canker: Ô nhiễm, phiền não tiềm ẩn (như dục lậu, hữu lậu, vô minh lậu) làm chúng sanh trôi lăn trong luân hồi.
+- vô thường / anicca / impermanent: Một trong ba đặc tính của vạn vật (cùng với khổ và vô ngã), chỉ sự thay đổi, không bền vững, luôn biến đổi, không tồn tại mãi mãi.
+- khổ / dukkha / suffering/unsatisfactoriness: Sự đau khổ, bất toại nguyện, không hoàn hảo vốn có trong mọi trải nghiệm và sự tồn tại trong luân hồi do bản chất vô thường và vô ngã của vạn pháp.
+- tự ngã / attā / self: Cái tôi, bản ngã thường hằng, độc lập mà người đời thường lầm tưởng là có thật. Phật giáo phủ nhận sự tồn tại của một tự ngã như vậy (vô ngã - anattā).
+- sắc / rūpa / form/material form: Đối tượng của mắt; một trong năm uẩn, chỉ yếu tố vật chất.
+- nhãn thức / cakkhu-viññāṇa / eye-consciousness: Sự biết của tâm phát sinh khi mắt tiếp xúc với sắc.
+- nhãn xúc / cakkhu-samphassa / eye-contact: Sự gặp gỡ, tiếp xúc giữa ba yếu tố: mắt (giác quan), sắc (đối tượng) và nhãn thức (sự biết).
+- thọ / vedanā / feeling: Cảm giác dễ chịu (lạc), khó chịu (khổ), hoặc trung tính (không khổ không lạc) phát sinh do sự tiếp xúc (xúc). Một trong năm uẩn.
+- tưởng / saññā / perception: Sự nhận biết, ghi nhận đặc điểm của đối tượng (ví dụ: màu xanh, màu đỏ, âm thanh). Một trong năm uẩn.
+- hành / saṅkhārā / formations/volitional activities: Các sự tạo tác, chủ ý của tâm, bao gồm ý định, ý muốn, và các trạng thái tâm khác thúc đẩy hành động (thân, khẩu, ý). Một trong năm uẩn.
+- thức / viññāṇa / consciousness: Sự biết của tâm khi giác quan tiếp xúc với đối tượng (nhãn thức, nhĩ thức, tỷ thức, thiệt thức, thân thức, ý thức). Một trong năm uẩn.
+- pháp / dhamma / mind-object/mental phenomenon: Đối tượng của ý căn (tâm); bao gồm các ý nghĩ, cảm xúc, trạng thái tâm, khái niệm, và các yếu tố vi tế khác.
+- ý thức / mano-viññāṇa / mind-consciousness: Sự biết của tâm phát sinh khi ý căn tiếp xúc với pháp trần.
+- ý xúc / mano-samphassa / mind-contact: Sự gặp gỡ, tiếp xúc giữa ba yếu tố: ý căn (tâm), pháp trần (đối tượng tâm) và ý thức (sự biết).
+- nhàm chán / nibbidā / disenchantment/weariness: Cảm giác chán ngán, không còn hứng thú với các pháp hữu vi (thế gian) do thấy rõ bản chất vô thường, khổ, vô ngã của chúng. Đây là bước quan trọng dẫn đến ly tham.
+- ly tham / virāga / dispassion/fading away: Sự phai nhạt, chấm dứt tham ái, không còn đam mê hay dính mắc vào các đối tượng giác quan và các trạng thái tồn tại.
+- giải thoát / vimutti / liberation/release: Sự giải thoát hoàn toàn khỏi khổ đau, phiền não và vòng luân hồi sanh tử; trạng thái Niết Bàn.
+- không chấp thủ / anupādā / non-clinging/non-grasping: Trạng thái tâm không còn bám víu, nắm giữ vào bất cứ điều gì (ngũ uẩn, các cõi giới, quan điểm sai lầm) như là "tôi" hay "của tôi".
+- pháp nhãn / dhammacakkhu / Dhamma eye/vision of the Dhamma: Tuệ giác thấy rõ Bốn Sự Thật Cao Quý (Tứ Diệu Đế), đặc biệt là thấy rõ bản chất sanh khởi và đoạn diệt của vạn pháp ("cái gì sanh khởi, cái đó đoạn diệt"). Thường đạt được khi chứng quả Dự Lưu (Sotāpanna).
+- chư thiên / deva / deity/celestial being: Chúng sanh sống ở các cõi trời, có phước báu và tuổi thọ dài hơn con người, nhưng vẫn còn trong vòng luân hồi, chưa giải thoát.
+- Đức Thế Tôn / Bhagavā / Blessed One/Exalted One: Danh hiệu tôn kính chỉ Đức Phật, bậc được tôn quý trên đời vì đã giác ngộ và giải thoát hoàn toàn.
+- Tôn giả / Āyasmā / Venerable: Từ tôn xưng dùng cho các vị tỳ kheo (bhikkhu - nhà sư nam đã thọ giới cụ túc).
+- khất thực / piṇḍapāta / almsround: Việc các nhà sư đi nhận thức ăn cúng dường từ người dân vào buổi sáng, một phương cách nuôi mạng chân chính.
+- tọa cụ / nisīdana / sitting cloth: Tấm vải hoặc thảm nhỏ được các nhà sư mang theo để trải ra ngồi thiền hoặc nghe pháp, tránh làm bẩn y phục và thể hiện sự tôn trọng.

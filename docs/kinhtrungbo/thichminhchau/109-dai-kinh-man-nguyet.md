@@ -3,7 +3,7 @@
 **109. ÐẠI KINH MÃN NGUYỆT**
 ***(Mahàpunnama Sutta)***
 
-## Như vầy tôi nghe:
+**Như vầy tôi nghe.**
 
 Một thời Thế Tôn ở tại Savatthi (Xá-vệ), Pubbarama (Ðông Viên), Migaramatupasada (Lộc Mẫu Giảng
 đường).

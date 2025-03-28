@@ -3,7 +3,7 @@
 **136. ÐẠI KINH NGHIỆP PHÂN BIỆT**
 ***(Mahàkammavibhanga)***
 
-## Như vầy tôi nghe:
+**Như vầy tôi nghe.**
 
 Một thời Thế Tôn ở Rajagaha (Vương Xá), Veluvana (Trúc Lâm), tại chỗ nuôi dưỡng sóc.
 

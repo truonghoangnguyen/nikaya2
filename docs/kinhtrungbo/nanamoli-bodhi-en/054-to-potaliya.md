@@ -1,4 +1,4 @@
-# 54 To Potaliya
+# 54. To Potaliya
 ***(Potaliya Sutta)***
 
 1\. Thus have I heard. On one occasion the Blessed One was living in the country of the Anguttarāpans at a town of theirs named Āpana.

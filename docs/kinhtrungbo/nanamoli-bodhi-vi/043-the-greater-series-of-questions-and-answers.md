@@ -1,4 +1,4 @@
-# 43 Đại Kinh Vấn Đáp
+# 43. Đại Kinh Vấn Đáp
 ***(Mahāvedalla Sutta)***
 
 [292] 1\. Tôi nghe như vầy. Một thời Đức Thế Tôn trú tại thành Xá-vệ (Sāvatthī), trong Rừng Jeta, khu vườn của ông Anāthapiṇḍika (Cấp Cô Độc).

@@ -1,4 +1,4 @@
-# 44 Kinh Tiểu Kinh Về Pháp Môn Vấn Đáp
+# 44. Kinh Tiểu Kinh Về Pháp Môn Vấn Đáp
 ***(Cūḷavedalla Sutta)***
 
 [299] 1\. Tôi nghe như vầy. Một thời Đức Thế Tôn trú tại Rājagaha (Vương Xá), trong Khu Rừng Tre, nơi nuôi dưỡng các con sóc. Khi ấy, cư sĩ Visākha đến thăm tỳ kheo ni (bhikkhunī - ni sư, sư cô) Dhammadinnā, [^459] sau khi đảnh lễ vị ấy, ông ngồi xuống một bên và hỏi rằng:

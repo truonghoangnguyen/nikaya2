@@ -1,4 +1,4 @@
-# 92 To Sela
+# 92. To Sela
 ***(Sela Sutta)***
 
 1\. Thus have I heard. [^867] On one occasion the Blessed One was wandering in the country of the Anguttarāpans with a large Sangha of bhikkhus, [102] with twelve hundred and fifty bhikkhus, and eventually he arrived at a town of the Anguttarāpans named Āpaṇa.

@@ -1,4 +1,4 @@
-# 111 One by One As They Occurred
+# 111. One by One As They Occurred
 ***(Anupada Sutta)***
 
 [25] 1. Thus have I heard. On one occasion the Blessed One was living at Sāvatthī in Jeta's Grove, Anāthapindika's Park. There he addressed the bhikkhus thus: "Bhikkhus." - "Venerable, sir," they replied. The Blessed One said this:

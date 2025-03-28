@@ -1,4 +1,4 @@
-# 56 To Upāli
+# 56. To Upāli
 ***(Upāli Sutta)***
 
 1\. Thus have I heard. On one occasion the Blessed One was living at Nālandā in Pāvārika's Mango Grove.

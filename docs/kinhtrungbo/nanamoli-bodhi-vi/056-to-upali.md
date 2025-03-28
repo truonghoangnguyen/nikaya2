@@ -1,315 +1,336 @@
-# 56 To Upāli
-***(Upāli Sutta)***
+# 56. Gửi Upāli
+***(Kinh Upāli - Upāli Sutta)***
 
-1. Thus have I heard. On one occasion the Blessed One was living at Nālandā in Pāvārika's Mango Grove.
+1\.  Tôi nghe như vầy. Một thời Đức Thế Tôn trú tại Nālandā, trong vườn xoài của Pāvārika.
 
-2. Now on that occasion the Niganṭha Nātaputta was staying at Nālandā with a large assembly of Niganthas. Then, when the Niganṭha [named] Dīgha Tapassi [^578] had wandered for alms in Nālandā and had returned from his almsround, after his meal he went to Pāvārika's Mango Grove to see the Blessed One. [372] He exchanged greetings with the Blessed One, and when this courteous and amiable talk was finished, he stood at one side. As he stood there, the Blessed One said to him: "There are seats, Tapassi, sit down if you like."
+2\.  Bấy giờ, Ni-kiền-tử Nātaputta đang ở tại Nālandā cùng với một hội chúng đông đảo các Ni-kiền-tử. Khi ấy, một Ni-kiền-tử tên là Dīgha Tapassi [^578] sau khi đi khất thực ở Nālandā, thọ thực xong, đã đi đến vườn xoài của Pāvārika để yết kiến Đức Thế Tôn. [372] Vị ấy chào hỏi Đức Thế Tôn, và sau khi trao đổi những lời thăm hỏi thân tình, liền đứng sang một bên. Khi vị ấy đang đứng đó, Đức Thế Tôn bảo: "Này Tapassi, có chỗ ngồi kia, nếu muốn ông cứ ngồi."
 
-3. When this was said, Dīgha Tapassi took a low seat and sat down at one side. Then the Blessed One asked him: "Tapassi, how many kinds of action does the Niganṭha Nātaputta describe for the performance of evil action, for the perpetration of evil action?"
+3\.  Nghe vậy, Dīgha Tapassi chọn một chỗ ngồi thấp và ngồi xuống một bên. Bấy giờ Đức Thế Tôn hỏi vị ấy: "Này Tapassi, Ni-kiền-tử Nātaputta mô tả có bao nhiêu loại hành động để thực hiện hành vi xấu ác, để gây ra hành vi xấu ác?"
 
-"Friend Gotama, the Niganṭha Nātaputta is not accustomed to use the description 'action, action'; the Nigantha Nātaputta is accustomed to use the description 'rod, rod.'"579
+"Thưa hiền giả Gotama, Ni-kiền-tử Nātaputta không quen dùng từ 'hành động, hành động'; Ni-kiền-tử Nātaputta quen dùng từ 'hình phạt, hình phạt.'"[^579]
 
-"Then, Tapassi, how many kinds of rod does the Niganṭha Nātaputta describe for the performance of evil action, for the perpetration of evil action?"
+"Vậy thì, này Tapassi, Ni-kiền-tử Nātaputta mô tả có bao nhiêu loại hình phạt để thực hiện hành vi xấu ác, để gây ra hành vi xấu ác?"
 
-"Friend Gotama, the Niganṭha Nātaputta describes three kinds of rod for the performance of evil action, for the perpetration of evil action; that is, the bodily rod, the verbal rod, and the mental rod. [^580]
+"Thưa hiền giả Gotama, Ni-kiền-tử Nātaputta mô tả có ba loại hình phạt để thực hiện hành vi xấu ác, để gây ra hành vi xấu ác; đó là: hình phạt về thân, hình phạt về lời nói, và hình phạt về ý." [^580]
 
-"How then, Tapassi, is the bodily rod one, the verbal rod another, and the mental rod still another?"
+"Vậy thì, này Tapassi, hình phạt về thân là một, hình phạt về lời nói là một khác, và hình phạt về ý lại là một khác nữa sao?"
 
-"The bodily rod is one, friend Gotama, the verbal rod is another, and the mental rod is still another."
-"Of these three kinds of rod, Tapassi, thus analysed and distinguished, which kind of rod does the Niganṭha Nātaputta describe as the most reprehensible for the performance of evil action, for the perpetration of evil action: the bodily rod or the verbal rod or the mental rod?"
+"Thưa hiền giả Gotama, hình phạt về thân là một, hình phạt về lời nói là một khác, và hình phạt về ý lại là một khác nữa."
+"Này Tapassi, trong ba loại hình phạt này, đã được phân tích và phân biệt như vậy, Ni-kiền-tử Nātaputta mô tả loại hình phạt nào là đáng khiển trách nhất để thực hiện hành vi xấu ác, để gây ra hành vi xấu ác: hình phạt về thân, hình phạt về lời nói, hay hình phạt về ý?"
 
-"Of these three kinds of rod, friend Gotama, thus analysed and distinguished, the Niganṭha Nātaputta describes the bodily rod as the most reprehensible for the performance of evil action, for the perpetration of evil action, and not so much the verbal rod and the mental rod."
+"Thưa hiền giả Gotama, trong ba loại hình phạt này, đã được phân tích và phân biệt như vậy, Ni-kiền-tử Nātaputta mô tả hình phạt về thân là đáng khiển trách nhất để thực hiện hành vi xấu ác, để gây ra hành vi xấu ác, chứ không phải hình phạt về lời nói và hình phạt về ý."
 
-"Do you say the bodily rod, Tapassi?"
+"Ông nói là hình phạt về thân phải không, Tapassi?"
 
-"I say the bodily rod, friend Gotama."
+"Tôi nói là hình phạt về thân, thưa hiền giả Gotama."
 
-"Do you say the bodily rod, Tapassi?"
+"Ông nói là hình phạt về thân phải không, Tapassi?"
 
-"I say the bodily rod, friend Gotama."
+"Tôi nói là hình phạt về thân, thưa hiền giả Gotama."
 
-"Do you say the bodily rod, Tapassi?"
+"Ông nói là hình phạt về thân phải không, Tapassi?"
 
-"I say the bodily rod, friend Gotama."
+"Tôi nói là hình phạt về thân, thưa hiền giả Gotama."
 
-Thus the Blessed One made the Niganṭha Dīgha Tapassi maintain his statement up to the third time. [373]
+Như vậy, Đức Thế Tôn đã khiến Ni-kiền-tử Dīgha Tapassi xác nhận quan điểm của mình đến lần thứ ba. [373]
 
-4. Then the Niganṭha Dīgha Tapassi asked the Blessed One: "And you, friend Gotama, how many kinds of rod do you describe for the performance of evil action, for the perpetration of evil action?"
+4\.  Bấy giờ, Ni-kiền-tử Dīgha Tapassi hỏi Đức Thế Tôn: "Còn ngài, thưa hiền giả Gotama, ngài mô tả có bao nhiêu loại hình phạt để thực hiện hành vi xấu ác, để gây ra hành vi xấu ác?"
 
-"Tapassi, the Tathāgata is not accustomed to use the description 'rod, rod'; the Tathāgata is accustomed to use the description 'action, action.'"
+"Này Tapassi, Như Lai (Tathāgata - danh hiệu chỉ Đức Phật, nghĩa là 'Người đã đến như vậy' hoặc 'Người đã đi như vậy') không quen dùng từ 'hình phạt, hình phạt'; Như Lai quen dùng từ 'hành động, hành động (kamma - nghiệp, hành vi có chủ ý tạo ra kết quả)'. "
 
-"But, friend Gotama, how many kinds of action do you describe for the performance of evil action, for the perpetration of evil action?"
+"Nhưng, thưa hiền giả Gotama, ngài mô tả có bao nhiêu loại hành động để thực hiện hành vi xấu ác, để gây ra hành vi xấu ác?"
 
-"Tapassi, I describe three kinds of action for the performance of evil action, for the perpetration of evil action: that is, bodily action, verbal action, and mental action."
+"Này Tapassi, Ta mô tả có ba loại hành động để thực hiện hành vi xấu ác, để gây ra hành vi xấu ác: đó là, hành động về thân (thân nghiệp), hành động về lời nói (khẩu nghiệp), và hành động về ý (ý nghiệp)."
 
-"How then, friend Gotama, is bodily action one, verbal action another, and mental action still another?"
+"Vậy thì, thưa hiền giả Gotama, hành động về thân là một, hành động về lời nói là một khác, và hành động về ý lại là một khác nữa sao?"
 
-"Bodily action is one, Tapassi, verbal action is another, and mental action is still another."
+"Hành động về thân là một, này Tapassi, hành động về lời nói là một khác, và hành động về ý lại là một khác nữa."
 
-"Of these three kinds of action, friend Gotama, thus analysed and distinguished, which kind of action do you describe as the most reprehensible for the performance of evil action, for the perpetration of evil action: bodily action or verbal action or mental action?"
-"Of these three kinds of action, Tapassi, thus analysed and distinguished, I describe mental action as the most reprehensible for the performance of evil action, for the perpetration of evil action, and not so much bodily action and verbal action."581
+"Này Tapassi, trong ba loại hành động này, đã được phân tích và phân biệt như vậy, ngài mô tả loại hành động nào là đáng khiển trách nhất để thực hiện hành vi xấu ác, để gây ra hành vi xấu ác: hành động về thân, hành động về lời nói, hay hành động về ý?"
+"Này Tapassi, trong ba loại hành động này, đã được phân tích và phân biệt như vậy, Ta mô tả hành động về ý là đáng khiển trách nhất để thực hiện hành vi xấu ác, để gây ra hành vi xấu ác, chứ không phải hành động về thân và hành động về lời nói."[^581]
 
-"Do you say mental action, friend Gotama?"
+"Ngài nói là hành động về ý phải không, thưa hiền giả Gotama?"
 
-"I say mental action, Tapassi."
+"Ta nói là hành động về ý, này Tapassi."
 
-"Do you say mental action, friend Gotama?"
+"Ngài nói là hành động về ý phải không, thưa hiền giả Gotama?"
 
-"I say mental action, Tapassi."
+"Ta nói là hành động về ý, này Tapassi."
 
-"Do you say mental action, friend Gotama?"
+"Ngài nói là hành động về ý phải không, thưa hiền giả Gotama?"
 
-"I say mental action, Tapassi."
+"Ta nói là hành động về ý, này Tapassi."
 
-Thus the Niganṭha Dīgha Tapassi made the Blessed One maintain his statement up to the third time, after which he rose from his seat and went to the Niganṭha Nātaputta.
+Như vậy, Ni-kiền-tử Dīgha Tapassi đã khiến Đức Thế Tôn xác nhận quan điểm của mình đến lần thứ ba, sau đó vị ấy đứng dậy khỏi chỗ ngồi và đi đến chỗ Ni-kiền-tử Nātaputta.
 
-5. Now on that occasion the Niganṭha Nātaputta was seated together with a very large assembly of laymen from Bālaka, most prominent among them being Upāli. The Niganṭha Nātaputta saw the Niganṭha Dīgha Tapassi coming in the distance and asked him: "Now where are you coming from in the middle of the day, Tapassi?"
+5\.  Bấy giờ, Ni-kiền-tử Nātaputta đang ngồi cùng với một hội chúng rất đông các cư sĩ (laymen - người tại gia theo đạo) từ Bālaka, nổi bật nhất trong số đó là Upāli. Ni-kiền-tử Nātaputta thấy Ni-kiền-tử Dīgha Tapassi từ xa đi tới liền hỏi: "Này Tapassi, giữa ban ngày thế này, ông từ đâu đến vậy?"
 
-"I am coming from the presence of the recluse Gotama, venerable sir."
+"Bạch tôn sư, con vừa từ chỗ sa môn Gotama đến."
 
-"Did you have some conversation with the recluse Gotama, Tapassi?" [374]
+"Này Tapassi, ông có nói chuyện gì với sa môn Gotama không?" [374]
 
-"I had some conversation with the recluse Gotama, venerable sir."
+"Bạch tôn sư, con có nói chuyện với sa môn Gotama."
 
-"What was your conversation with him like, Tapassi?"
+"Cuộc nói chuyện của ông với vị ấy thế nào, Tapassi?"
 
-Then the Niganṭha Dīgha Tapassi related to the Niganṭha Nātaputta his entire conversation with the Blessed One.
+Sau đó, Ni-kiền-tử Dīgha Tapassi kể lại toàn bộ cuộc đối thoại của mình với Đức Thế Tôn cho Ni-kiền-tử Nātaputta nghe.
 
-6. When this was said, the Niganṭha Nātaputta told him: "Good, good, Tapassi! The Niganṭha Dīgha Tapassi has answered the recluse Gotama like a well-taught disciple who understands his teacher's dispensation rightly. What does the trivial mental rod count for in comparison with the gross bodily rod? On the contrary, the bodily rod is the most reprehensible for the performance of evil action, for the perpetration of evil action, and not so much the verbal rod and the mental rod."
+6\.  Nghe xong, Ni-kiền-tử Nātaputta bảo vị ấy: "Tốt lắm, tốt lắm, Tapassi! Ni-kiền-tử Dīgha Tapassi đã trả lời sa môn Gotama như một đệ tử được dạy dỗ kỹ lưỡng, hiểu đúng giáo pháp của thầy mình. Hình phạt nhỏ nhặt về ý thì có đáng gì so với hình phạt thô trọng về thân? Ngược lại, hình phạt về thân mới là đáng khiển trách nhất để thực hiện hành vi xấu ác, để gây ra hành vi xấu ác, chứ không phải hình phạt về lời nói và hình phạt về ý."
 
-7. When this was said, the householder Upāli said to the Niganṭha Nātaputta: "Good, good, venerable sir, [on the part of] Digha Tapassi! The venerable Tapassi has answered the recluse Gotama like a well-taught disciple who understands his
-teacher's dispensation rightly. What does the trivial mental rod count for in comparison with the gross bodily rod? On the contrary, the bodily rod is the most reprehensible for the performance of evil action, for the perpetration of evil action, and not so much the verbal rod and the mental rod. Now, venerable sir, I shall go and refute the recluse Gotama's doctrine on the basis of this statement. If the recluse Gotama maintains before me what the venerable Dīgha Tapassi made him maintain, then just as a strong man [^582] might seize a long-haired ram by the hair and drag him to and drag him fro and drag him round about, so in debate I will drag the recluse Gotama to and drag him fro and drag him round about. Just as a strong brewer's workman might throw a big brewer's sieve into a deep water tank, and taking it by the corners, might drag it to and drag it fro and drag it round about, so in debate I will drag the recluse Gotama to and drag him fro and drag him round about. Just as a strong brewer's mixer might take a strainer by the corners and shake it down and shake it up and thump it about, so in debate I will shake the recluse Gotama down [375] and shake him up and thump him about. And just as a sixty-year-old elephant might plunge into a deep pond and enjoy playing the game of hemp-washing, so I shall enjoy playing the game of hemp-washing with the recluse Gotama. Venerable sir, I shall go and refute the recluse Gotama's doctrine on the basis of this statement."
+7\.  Nghe vậy, gia chủ Upāli nói với Ni-kiền-tử Nātaputta: "Tốt lắm, tốt lắm, bạch tôn sư, về phần Dīgha Tapassi! Tôn giả Tapassi đã trả lời sa môn Gotama như một đệ tử được dạy dỗ kỹ lưỡng, hiểu đúng giáo pháp của thầy mình. Hình phạt nhỏ nhặt về ý thì có đáng gì so với hình phạt thô trọng về thân? Ngược lại, hình phạt về thân mới là đáng khiển trách nhất để thực hiện hành vi xấu ác, để gây ra hành vi xấu ác, chứ không phải hình phạt về lời nói và hình phạt về ý. Bạch tôn sư, bây giờ con sẽ đi và bác bỏ giáo lý của sa môn Gotama dựa trên luận điểm này. Nếu sa môn Gotama giữ vững trước mặt con điều mà tôn giả Dīgha Tapassi đã khiến ông ta xác nhận, thì cũng như một người đàn ông mạnh khỏe [^582] có thể nắm lông một con cừu đực lông dài mà kéo tới kéo lui, kéo vòng quanh, con cũng sẽ dùng tranh luận để kéo sa môn Gotama tới kéo lui, kéo vòng quanh. Cũng như một người thợ nấu bia khỏe mạnh có thể ném một cái sàng bia lớn vào thùng nước sâu, rồi nắm các góc mà kéo tới kéo lui, kéo vòng quanh, con cũng sẽ dùng tranh luận để kéo sa môn Gotama tới kéo lui, kéo vòng quanh. Cũng như một người trộn bia khỏe mạnh có thể nắm các góc của cái rây lọc mà lắc xuống, lắc lên, đập mạnh, con cũng sẽ dùng tranh luận để lắc sa môn Gotama xuống, [375] lắc lên, và đập mạnh. Và cũng như một con voi sáu mươi tuổi có thể lao xuống ao sâu và thích thú chơi trò giặt đay, con cũng sẽ thích thú chơi trò giặt đay với sa môn Gotama. Bạch tôn sư, con sẽ đi và bác bỏ giáo lý của sa môn Gotama dựa trên luận điểm này."
 
-"Go, householder, and refute the recluse Gotama's doctrine on the basis of this statement. For either I should refute the recluse Gotama's doctrine or else the Niganṭha Dīgha Tapassi or you yourself."
+"Hãy đi đi, gia chủ, và bác bỏ giáo lý của sa môn Gotama dựa trên luận điểm này. Hoặc là ta sẽ bác bỏ giáo lý của sa môn Gotama, hoặc là Ni-kiền-tử Dīgha Tapassi, hoặc là chính ông."
 
-8. When this was said, the Niganṭha Dīgha Tapassi said to the Niganṭha Nātaputta: "Venerable sir, I do not think that the householder Upāli should [try to] refute the recluse Gotama's doctrine. For the recluse Gotama is a magician and knows a converting magic by which he converts disciples of other sectarians."
+8\.  Nghe vậy, Ni-kiền-tử Dīgha Tapassi nói với Ni-kiền-tử Nātaputta: "Bạch tôn sư, con không nghĩ rằng gia chủ Upāli nên [cố gắng] bác bỏ giáo lý của sa môn Gotama. Vì sa môn Gotama là một nhà ảo thuật và biết một thứ ma thuật quyến dụ (converting magic - āvaṭṭanī māyā - bùa chú có sức thu hút, lôi kéo người khác) mà ông ta dùng để thu phục đệ tử của các giáo phái khác."
 
-"It is impossible, Tapassi, it cannot happen that the householder Upāli should go over to discipleship under the recluse Gotama; but it is possible, it can happen that the recluse Gotama might come over to discipleship under the householder Upāli. Go, householder, and refute the recluse Gotama's doctrine. For either I should refute the recluse Gotama's doctrine or else the Niganṭha Dīgha Tapassi or you yourself."
+"Không thể nào, Tapassi, không thể xảy ra chuyện gia chủ Upāli lại trở thành đệ tử của sa môn Gotama; nhưng có thể, có thể xảy ra chuyện sa môn Gotama lại trở thành đệ tử của gia chủ Upāli. Hãy đi đi, gia chủ, và bác bỏ giáo lý của sa môn Gotama. Hoặc là ta sẽ bác bỏ giáo lý của sa môn Gotama, hoặc là Ni-kiền-tử Dīgha Tapassi, hoặc là chính ông."
 
-For the second time...For the third time, the Nigantha Dīgha Tapassi said to the Niganṭha Nātaputta: "Venerable sir, I do not think that the householder Upāli should [try to] refute the recluse Gotama's doctrine. For the recluse Gotama is a magician and knows a converting magic by which he converts disciples of other sectarians."
+Lần thứ hai... Lần thứ ba, Ni-kiền-tử Dīgha Tapassi nói với Ni-kiền-tử Nātaputta: "Bạch tôn sư, con không nghĩ rằng gia chủ Upāli nên [cố gắng] bác bỏ giáo lý của sa môn Gotama. Vì sa môn Gotama là một nhà ảo thuật và biết một thứ ma thuật quyến dụ mà ông ta dùng để thu phục đệ tử của các giáo phái khác."
 
-"It is impossible, Tapassi, it cannot happen that the householder Upāli should go over to discipleship under the recluse Gotama; but it is possible, it can happen that the recluse Gotama might come over to discipleship under the householder Upāli. Go, householder, and refute the recluse Gotama's doctrine. For either I should refute the recluse Gotama's doctrine or else the Niganṭha Dīgha Tapassi or you yourself."
+"Không thể nào, Tapassi, không thể xảy ra chuyện gia chủ Upāli lại trở thành đệ tử của sa môn Gotama; nhưng có thể, có thể xảy ra chuyện sa môn Gotama lại trở thành đệ tử của gia chủ Upāli. Hãy đi đi, gia chủ, và bác bỏ giáo lý của sa môn Gotama. Hoặc là ta sẽ bác bỏ giáo lý của sa môn Gotama, hoặc là Ni-kiền-tử Dīgha Tapassi, hoặc là chính ông."
 
-9. "Yes, venerable sir," the householder Upāli replied, and he rose from his seat, and after paying homage to the Niganṭha Nātaputta, keeping him on his right, he left to go to the Blessed One in Pāvārika's Mango Grove. [376] There, after paying homage to the Blessed One, he sat down at one side and asked the Blessed One: "Venerable sir, did the Niganṭha Dīgha Tapassi come here?"
+9\.  "Vâng, bạch tôn sư," gia chủ Upāli đáp, rồi đứng dậy khỏi chỗ ngồi, đảnh lễ Ni-kiền-tử Nātaputta, giữ vị ấy ở bên phải mình, rồi rời đi đến chỗ Đức Thế Tôn ở vườn xoài của Pāvārika. [376] Tại đó, sau khi đảnh lễ Đức Thế Tôn, ông ngồi xuống một bên và hỏi Đức Thế Tôn: "Bạch Thế Tôn, Ni-kiền-tử Dīgha Tapassi có đến đây không ạ?"
 
-"The Niganṭha Dīgha Tapassi came here, householder."
+"Này gia chủ, Ni-kiền-tử Dīgha Tapassi có đến đây."
 
-"Venerable sir, did you have some conversation with him?"
+"Bạch Thế Tôn, ngài có nói chuyện gì với vị ấy không ạ?"
 
-"I had some conversation with him, householder."
+"Này gia chủ, Ta có nói chuyện với vị ấy."
 
-"What was your conversation with him like, venerable sir?"
+"Cuộc nói chuyện của ngài với vị ấy thế nào ạ, bạch Thế Tôn?"
 
-Then the Blessed One related to the householder Upāli his entire conversation with the Niganṭha Dīgha Tapassi.
+Sau đó, Đức Thế Tôn kể lại toàn bộ cuộc đối thoại của mình với Ni-kiền-tử Dīgha Tapassi cho gia chủ Upāli nghe.
 
-10. When this was said, the householder Upāli said to the Blessed One: "Good, good, venerable sir, on the part of Tapassi! The Niganṭha Dīgha Tapassi has answered the Blessed One like a well-taught disciple who understands his teacher's dispensation rightly. What does the trivial mental rod count for in comparison with the gross bodily rod? On the contrary, the bodily rod is the most reprehensible for the performance of evil action, for the perpetration of evil action, and not so much the verbal rod and the mental rod."
+10\. Nghe xong, gia chủ Upāli nói với Đức Thế Tôn: "Tốt lắm, tốt lắm, bạch Thế Tôn, về phần Tapassi! Ni-kiền-tử Dīgha Tapassi đã trả lời Đức Thế Tôn như một đệ tử được dạy dỗ kỹ lưỡng, hiểu đúng giáo pháp của thầy mình. Hình phạt nhỏ nhặt về ý thì có đáng gì so với hình phạt thô trọng về thân? Ngược lại, hình phạt về thân mới là đáng khiển trách nhất để thực hiện hành vi xấu ác, để gây ra hành vi xấu ác, chứ không phải hình phạt về lời nói và hình phạt về ý."
 
-"Householder, if you will debate on the basis of truth, we might have some conversation about this."
+"Này gia chủ, nếu ông tranh luận trên nền tảng sự thật, chúng ta có thể trao đổi về vấn đề này."
 
-"I will debate on the basis of truth, venerable sir, so let us have some conversation about this."
+"Con sẽ tranh luận trên nền tảng sự thật, bạch Thế Tôn, vậy chúng ta hãy trao đổi về vấn đề này."
 
-11. "What do you think, householder? Here some Niganṭha might be afflicted, suffering, and gravely ill [with an illness
-needing treatment by cold water, which his vows prohibit] and he might refuse cold water [though mentally longing for it] and use only [the permissible] hot water [thus keeping his vows bodily and verbally]. Because he does not get cold water he might die. Now, householder, where would the Niganṭha Nātaputta describe his rebirth [as taking place]?"
+11\. "Này gia chủ, ông nghĩ sao? Giả sử có một Ni-kiền-tử bị đau đớn, khổ sở, bệnh nặng [với một căn bệnh cần chữa trị bằng nước lạnh, điều mà giới luật của ông ta cấm] và ông ta từ chối nước lạnh [dù trong tâm rất mong muốn] và chỉ dùng nước nóng [được phép] [như vậy là giữ giới về thân và lời]. Vì không có nước lạnh, ông ta có thể chết. Này gia chủ, Ni-kiền-tử Nātaputta sẽ mô tả sự tái sanh (rebirth - sự sinh lại trong một đời sống mới sau khi chết) của ông ta [diễn ra] ở đâu?"
 
-"Venerable sir, there are gods called 'mind-bound'; he would be reborn there. Why is that? Because when he died he was still bound [by attachment] in the mind."583
+"Bạch Thế Tôn, có những vị trời gọi là 'ý hệ thiên' (mind-bound gods - manobandhanikā devā - các vị trời bị trói buộc bởi tâm ý); ông ta sẽ tái sanh ở đó. Tại sao vậy? Bởi vì khi chết, ông ta vẫn còn bị trói buộc [bởi sự chấp thủ (attachment - upādāna - sự dính mắc, níu giữ, bám víu vào các đối tượng hoặc quan điểm)] trong tâm ý."[^583]
 
-"Householder, householder, pay attention how you reply! What you said before does not agree with what you said afterwards, nor does what you said afterwards agree with what you said before. Yet you made this statement: 'I will debate on the basis of truth, venerable sir, so let us have some conversation about this."
+"Này gia chủ, này gia chủ, hãy cẩn thận cách ông trả lời! Điều ông nói trước không khớp với điều ông nói sau, và điều ông nói sau cũng không khớp với điều ông nói trước. Vậy mà ông đã tuyên bố: 'Con sẽ tranh luận trên nền tảng sự thật, bạch Thế Tôn, vậy chúng ta hãy trao đổi về vấn đề này.'"
 
-"Venerable sir, although the Blessed One has spoken thus, yet the bodily rod is the most reprehensible for the performance of evil action, for the perpetration of evil action, and not so much the verbal rod and the mental rod."584
+"Bạch Thế Tôn, mặc dù Đức Thế Tôn đã nói như vậy, nhưng hình phạt về thân vẫn là đáng khiển trách nhất để thực hiện hành vi xấu ác, để gây ra hành vi xấu ác, chứ không phải hình phạt về lời nói và hình phạt về ý."[^584]
 
-12. "What do you think, [377] householder? Here some Niganṭha might be restrained with four checks - curbed by all curbs, clamped by all curbs, cleansed by all curbs, and claimed by all curbs [^585] - and yet when going forward and returning he brings about the destruction of many small living beings. What result does the Niganṭha Nātaputta describe for him?"
+12\. "Này gia chủ, ông nghĩ sao? [377] Giả sử có một Ni-kiền-tử tự chế ngự bằng bốn sự ngăn ngừa - được kiềm chế bởi mọi sự kiềm chế, được kìm giữ bởi mọi sự kìm giữ, được thanh lọc bởi mọi sự thanh lọc, và được xác quyết bởi mọi sự thanh lọc [^585] - nhưng khi đi tới và đi lui, ông ta lại gây ra sự sát hại nhiều sinh vật nhỏ bé. Ni-kiền-tử Nātaputta mô tả kết quả nào cho ông ta?"
 
-"Venerable sir, the Niganṭha Nātaputta does not describe what is not willed as greatly reprehensible."
+"Bạch Thế Tôn, Ni-kiền-tử Nātaputta không mô tả hành động không có chủ ý (not willed - cetana - sự cố ý, tác ý) là đáng khiển trách nặng nề."
 
-"But if one wills it, householder?"
+"Nhưng nếu người đó có chủ ý thì sao, gia chủ?"
 
-"Then it is greatly reprehensible, venerable sir."
+"Thì đó là đáng khiển trách nặng nề, bạch Thế Tôn."
 
-"But under which [of the three rods] does the Niganṭha Nātaputta describe willing, householder?"
+"Nhưng Ni-kiền-tử Nātaputta xếp chủ ý vào loại [hình phạt nào trong ba loại], gia chủ?"
 
-"Under the mental rod, venerable sir."586
+"Vào hình phạt về ý, bạch Thế Tôn."[^586]
 
-"Householder, householder, pay attention how you reply! What you said before does not agree with what you said afterwards, nor does what you said afterwards agree with what you said before. Yet you made this statement: 'I will debate on the basis of truth, venerable sir, so let us have some conversation about this."
+"Này gia chủ, này gia chủ, hãy cẩn thận cách ông trả lời! Điều ông nói trước không khớp với điều ông nói sau, và điều ông nói sau cũng không khớp với điều ông nói trước. Vậy mà ông đã tuyên bố: 'Con sẽ tranh luận trên nền tảng sự thật, bạch Thế Tôn, vậy chúng ta hãy trao đổi về vấn đề này.'"
 
-"Venerable sir, although the Blessed One has spoken thus, yet the bodily rod is the most reprehensible for the performance of
-evil action, for the perpetration of evil action, and not so much the verbal rod and the mental rod."
+"Bạch Thế Tôn, mặc dù Đức Thế Tôn đã nói như vậy, nhưng hình phạt về thân vẫn là đáng khiển trách nhất để thực hiện hành vi xấu ác, để gây ra hành vi xấu ác, chứ không phải hình phạt về lời nói và hình phạt về ý."
 
-13. "What do you think, householder? Is this town of Nālandā successful and prosperous, is it populous and crowded with people?"
+13\. "Này gia chủ, ông nghĩ sao? Thành phố Nālandā này có thành công và thịnh vượng, có đông đúc dân cư không?"
 
-"Yes, venerable sir, it is."
+"Vâng, bạch Thế Tôn, có ạ."
 
-"What do you think, householder? Suppose a man came here brandishing a sword and spoke thus: 'In one moment, in one instant, I will make all the living beings in this town of Nālandā into one mass of flesh, into one heap of flesh.' What do you think, householder, would that man be able to do that?"
+"Này gia chủ, ông nghĩ sao? Giả sử có một người đàn ông đến đây vung gươm và nói thế này: 'Trong một khoảnh khắc, trong một sát-na, ta sẽ biến tất cả chúng sanh trong thành phố Nālandā này thành một đống thịt, một khối thịt.' Này gia chủ, ông nghĩ người đàn ông đó có thể làm được điều đó không?"
 
-"Venerable sir, ten, twenty, thirty, forty, or even fifty men would not be able to make all the living beings in this town of Nālandā into one mass of flesh, into one heap of flesh in one moment or instant, so what does a single trivial man count for?"
+"Bạch Thế Tôn, mười, hai mươi, ba mươi, bốn mươi, hay thậm chí năm mươi người đàn ông cũng không thể biến tất cả chúng sanh trong thành phố Nālandā này thành một đống thịt, một khối thịt trong một khoảnh khắc hay một sát-na, huống hồ chỉ một người đàn ông tầm thường?"
 
-"What do you think, householder? Suppose some recluse or brahmin came here possessed of supernormal power and attained to mastery of mind, and he spoke thus: 'I will reduce this town of Nālandā to ashes with one mental act of hate.' What do you think, householder, would such a recluse or brahmin be able to do that?" [378]
+"Này gia chủ, ông nghĩ sao? Giả sử có một vị sa môn hay bà la môn đến đây, sở hữu thần thông (supernormal power - iddhi - năng lực siêu nhiên do tu tập thiền định) và đạt được sự làm chủ tâm trí (mastery of mind - cetovasippatta - khả năng điều khiển tâm theo ý muốn), và vị ấy nói thế này: 'Ta sẽ thiêu rụi thành phố Nālandā này thành tro chỉ bằng một hành động sân hận trong tâm ý (mental act of hate - manopadosa - sự bất mãn, căm ghét khởi lên trong tâm).' Này gia chủ, ông nghĩ vị sa môn hay bà la môn như vậy có thể làm được điều đó không?" [378]
 
-"Venerable sir, such a recluse or brahmin possessed of supernormal power and attained to mastery of mind would be able to reduce ten, twenty, thirty, forty, or even fifty Nālandās to ashes with one mental act of hate, so what does a single trivial Nālandā count for?"
+"Bạch Thế Tôn, một vị sa môn hay bà la môn như vậy, sở hữu thần thông và đạt được sự làm chủ tâm trí, có thể thiêu rụi mười, hai mươi, ba mươi, bốn mươi, hay thậm chí năm mươi thành phố Nālandā thành tro chỉ bằng một hành động sân hận trong tâm ý, huống hồ chỉ một thành phố Nālandā tầm thường?"
 
-"Householder, householder, pay attention how you reply! What you said before does not agree with what you said afterwards, nor does what you said afterwards agree with what you said before. Yet you made this statement: 'I will debate on the basis of truth, venerable sir, so let us have some conversation about this.'"
+"Này gia chủ, này gia chủ, hãy cẩn thận cách ông trả lời! Điều ông nói trước không khớp với điều ông nói sau, và điều ông nói sau cũng không khớp với điều ông nói trước. Vậy mà ông đã tuyên bố: 'Con sẽ tranh luận trên nền tảng sự thật, bạch Thế Tôn, vậy chúng ta hãy trao đổi về vấn đề này.'"
 
-"Venerable sir, although the Blessed One has spoken thus, yet the bodily rod is the most reprehensible for the performance of evil action, for the perpetration of evil action, and not so much the verbal rod and the mental rod."
+"Bạch Thế Tôn, mặc dù Đức Thế Tôn đã nói như vậy, nhưng hình phạt về thân vẫn là đáng khiển trách nhất để thực hiện hành vi xấu ác, để gây ra hành vi xấu ác, chứ không phải hình phạt về lời nói và hình phạt về ý."
 
-14. "What do you think, householder? Have you heard how the Daṇdaka, Kālinga, Mejjha, and Mātanga forests became forests?"587 - "Yes, venerable sir." - "As you heard it, how did they become forests?" - "Venerable sir, I heard that they became forests by means of a mental act of hate on the part of the seers."
-"Householder, householder, pay attention how you reply! What you said before does not agree with what you said afterwards, nor does what you said afterwards agree with what you said before. Yet you made this statement: 'I will debate on the basis of truth, venerable sir, so let us have some conversation about this.'"
+14\. "Này gia chủ, ông nghĩ sao? Ông có nghe về việc các khu rừng Daṇdaka, Kālinga, Mejjha, và Mātanga đã trở thành rừng hoang như thế nào không?"[^587] - "Vâng, bạch Thế Tôn, con có nghe." - "Theo như ông nghe, chúng đã trở thành rừng hoang như thế nào?" - "Bạch Thế Tôn, con nghe rằng chúng đã trở thành rừng hoang do hành động sân hận trong tâm ý của các vị ẩn sĩ."
+"Này gia chủ, này gia chủ, hãy cẩn thận cách ông trả lời! Điều ông nói trước không khớp với điều ông nói sau, và điều ông nói sau cũng không khớp với điều ông nói trước. Vậy mà ông đã tuyên bố: 'Con sẽ tranh luận trên nền tảng sự thật, bạch Thế Tôn, vậy chúng ta hãy trao đổi về vấn đề này.'"
 
-15. "Venerable sir, I was satisfied and pleased by the Blessed One's very first simile. Nevertheless, I thought I would oppose the Blessed One thus since I desired to hear the Blessed One's varied solutions to the problem. Magnificent, venerable sir! Magnificent, venerable sir! The Blessed One has made the Dhamma clear in many ways, as though he were turning upright what had been overthrown, revealing what was hidden, showing the way to one who was lost, or holding up a lamp in the dark for those with eyesight to see forms. Venerable sir, I go to the Blessed One for refuge [379] and to the Dhamma and to the Sangha of bhikkhus. Let the Blessed One remember me as a lay follower who has gone to him for refuge for life."
+15\. "Bạch Thế Tôn, con đã hài lòng và hoan hỷ ngay từ ví dụ đầu tiên của Đức Thế Tôn. Tuy nhiên, con đã nghĩ rằng con sẽ phản bác Đức Thế Tôn như vậy vì con muốn nghe những giải đáp đa dạng của Đức Thế Tôn cho vấn đề này. Thật vi diệu, bạch Thế Tôn! Thật vi diệu, bạch Thế Tôn! Đức Thế Tôn đã làm sáng tỏ Giáo Pháp (Dhamma - lời dạy của Đức Phật, chân lý) bằng nhiều cách, như người lật ngửa vật bị úp, mở ra vật bị che kín, chỉ đường cho người lạc lối, hay cầm đèn trong bóng tối để người có mắt thấy được các hình sắc. Bạch Thế Tôn, con xin quy y (go for refuge - saraṇa - tìm nơi nương tựa, che chở) Đức Thế Tôn, [379] quy y Pháp và quy y Tăng đoàn các tỳ kheo (Sangha of bhikkhus - cộng đồng các vị sư nam đã thọ giới cụ túc). Xin Đức Thế Tôn ghi nhận con là một cư sĩ nam (upāsaka - người nam tại gia theo Phật) đã quy y Ngài trọn đời."
 
-16. "Investigate thoroughly, householder. It is good for such well-known people like you to investigate thoroughly."
+16\. "Hãy tìm hiểu kỹ lưỡng, gia chủ. Đối với những người có danh tiếng như ông, việc tìm hiểu kỹ lưỡng là điều tốt."
 
-"Venerable sir, I am even more satisfied and pleased with the Blessed One for telling me that. For the other sectarians, on acquiring me as their disciple, would carry a banner all over Nālandā announcing: 'The householder Upāli has come to discipleship under us.' But, on the contrary, the Blessed One tells me: 'Investigate thoroughly, householder. It is good for such well-known people like you to investigate thoroughly.' So for the second time, venerable sir, I go to the Blessed One for refuge and to the Dhamma and to the Sangha of bhikkhus. Let the Blessed One remember me as a lay follower who has gone to him for refuge for life."
+"Bạch Thế Tôn, con càng hài lòng và hoan hỷ hơn nữa khi Đức Thế Tôn nói với con như vậy. Bởi vì các giáo phái khác, khi thu nhận con làm đệ tử, họ sẽ giương cờ hiệu khắp Nālandā thông báo: 'Gia chủ Upāli đã trở thành đệ tử của chúng ta.' Nhưng ngược lại, Đức Thế Tôn lại bảo con: 'Hãy tìm hiểu kỹ lưỡng, gia chủ. Đối với những người có danh tiếng như ông, việc tìm hiểu kỹ lưỡng là điều tốt.' Vậy, lần thứ hai, bạch Thế Tôn, con xin quy y Đức Thế Tôn, quy y Pháp và quy y Tăng đoàn các tỳ kheo. Xin Đức Thế Tôn ghi nhận con là một cư sĩ nam đã quy y Ngài trọn đời."
 
-17. "Householder, your family has long supported the Niganthas and you should consider that alms should be given to them when they come."
+17\. "Này gia chủ, gia đình ông đã ủng hộ các Ni-kiền-tử từ lâu, ông nên cân nhắc rằng vật thực cúng dường vẫn nên được trao cho họ khi họ đến."
 
-"Venerable sir, I am even more satisfied and pleased with the Blessed One for telling me that. Venerable sir, I have heard that the recluse Gotama says thus: 'Gifts should be given only to me; gifts should not be given to others. Gifts should be given only to my disciples; gifts should not be given to others' disciples. Only what is given to me is very fruitful, not what is given to others.
+"Bạch Thế Tôn, con càng hài lòng và hoan hỷ hơn nữa khi Đức Thế Tôn nói với con như vậy. Bạch Thế Tôn, con đã nghe rằng sa môn Gotama nói thế này: 'Chỉ nên cúng dường cho ta; không nên cúng dường cho người khác. Chỉ nên cúng dường cho đệ tử của ta; không nên cúng dường cho đệ tử của người khác. Chỉ những gì cúng dường cho ta mới có quả lớn, chứ không phải những gì cúng dường cho người khác. Chỉ những gì cúng dường cho đệ tử của ta mới có quả lớn, chứ không phải những gì cúng dường cho đệ tử của người khác.' Nhưng ngược lại, Đức Thế Tôn lại khuyến khích con cúng dường cho các Ni-kiền-tử. Dù sao đi nữa, chúng con sẽ biết thời điểm thích hợp để làm việc đó, bạch Thế Tôn. Vậy, lần thứ ba, bạch Thế Tôn, con xin quy y Đức Thế Tôn, quy y Pháp và quy y Tăng đoàn các tỳ kheo. Xin Đức Thế Tôn ghi nhận con là một cư sĩ nam đã quy y Ngài trọn đời."
 
-Only what is given to my disciples is very fruitful, not what is given to others' disciples.' But, on the contrary, the Blessed One encourages me to give gifts to the Niganthas. Anyway we shall know the time for that, venerable sir. So for the third time, venerable sir, I go to the Blessed One for refuge and to the Dhamma and to the Sangha of bhikkhus. Let the Blessed One remember me as a lay follower who has gone to him for refuge for life."
+18\. Sau đó, Đức Thế Tôn giảng cho gia chủ Upāli bài thuyết pháp tuần tự (progressive instruction - anupubbikathā - bài pháp được trình bày theo thứ lớp từ dễ đến khó), tức là, thuyết về bố thí (talk on giving - dāna - sự cho đi vật chất hoặc tinh thần), thuyết về giới hạnh (talk on virtue - sīla - các quy tắc đạo đức), thuyết về các cõi trời (talk on the heavens - sagga - các cảnh giới hạnh phúc); Ngài giải thích sự nguy hiểm, thấp kém và ô uế của các dục lạc (sensual pleasures - kāma - sự hưởng thụ qua năm giác quan) và lợi ích của sự xuất ly (renunciation - nekkhamma - sự từ bỏ đời sống thế tục hoặc từ bỏ các dục vọng). Khi biết tâm của gia chủ Upāli [380] đã sẵn sàng, dễ tiếp thu, không còn các chướng ngại (free from hindrances - nīvaraṇa - những trạng thái tâm tiêu cực ngăn cản thiền định và trí tuệ như tham dục, sân hận, hôn trầm thụy miên, trạo cử hối quá, nghi ngờ), phấn chấn và vững tin, Ngài đã giảng cho ông giáo lý đặc biệt của chư Phật: khổ (suffering - dukkha - sự bất toại nguyện, đau khổ), nguồn gốc của khổ (its origin - samudaya - nguyên nhân sinh khổ, thường là tham ái), sự chấm dứt khổ (its cessation - nirodha - trạng thái khổ diệt, Niết-bàn), và con đường dẫn đến sự chấm dứt khổ (the path - magga - Bát Chánh Đạo). Cũng như tấm vải sạch không còn vết bẩn sẽ thấm đều thuốc nhuộm, ngay khi gia chủ Upāli đang ngồi đó, pháp nhãn (vision of the Dhamma - dhammacakkhu - con mắt thấy Pháp, tuệ giác thấy rõ bản chất của các pháp) trong sạch, không tỳ vết khởi lên trong ông: "Phàm cái gì có sanh khởi đều phải chịu sự đoạn diệt." [^588] Bấy giờ, gia chủ Upāli thấy Pháp, đạt Pháp, hiểu Pháp, thâm nhập Pháp; ông vượt qua mọi nghi ngờ (crossed beyond doubt - tiṇṇavicikiccho - không còn hoài nghi về Tam Bảo và giáo pháp), không còn phân vân lưỡng lự (did away with perplexity - vigatakathaṅkatho - hết do dự, thắc mắc về con đường tu tập), đạt được sự tự tin vững chắc (gained intrepidity - vesārajjappatto - có được sự dạn dĩ, không sợ hãi khi trình bày giáo pháp), và không còn phụ thuộc vào người khác đối với giáo pháp của Bậc Đạo Sư (independent of others in the Teacher's Dispensation - aparappaccayo satthusāsane - tự mình chứng ngộ, không cần dựa vào niềm tin nơi người khác). [^589] Sau đó, ông nói với Đức Thế Tôn: "Bạch Thế Tôn, bây giờ chúng con phải đi. Chúng con bận rộn và có nhiều việc phải làm."
 
-18. Then the Blessed One gave the householder Upāli progressive instruction, that is, talk on giving, talk on virtue, talk on the heavens; he explained the danger, degradation, and defilement in sensual pleasures and the blessing of renunciation. When he knew that the householder Upāli's mind [380] was ready, receptive, free from hindrances, elated, and confident, he expounded to him the teaching special to the Buddhas: suffering, its origin, its cessation, and the path. Just as a clean cloth with all marks removed would take dye evenly, so too, while the householder Upāli sat there, the spotless immaculate vision of the Dhamma arose in him: "All that is subject to arising is subject to cessation. [^588] Then the householder Upāli saw the Dhamma, attained the Dhamma, understood the Dhamma, fathomed the Dhamma; he crossed beyond doubt, did away with perplexity, gained intrepidity, and became independent of others in the Teacher's Dispensation. [^589] Then he said to the Blessed One: "Now, venerable sir, we must go. We are busy and have much to do."
+"Này gia chủ, bây giờ là lúc ông làm những gì ông cho là thích hợp."
 
-"Now is the time, householder, to do as you think fit."
+19\. Bấy giờ, gia chủ Upāli, sau khi hoan hỷ và vui mừng trước lời dạy của Đức Thế Tôn, đứng dậy khỏi chỗ ngồi, đảnh lễ Đức Thế Tôn, giữ Ngài ở bên phải mình, rồi rời đi về nhà. Tại đó, ông bảo người giữ cửa như sau: "Này người giữ cửa tốt lành, từ hôm nay, ta đóng cửa đối với các Ni-kiền-tử và Ni-kiền-tử ni (Niganthīs - nữ tu khổ hạnh theo phái Ni-kiền-tử), và ta mở cửa đối với các tỳ kheo (bhikkhus - các vị sư nam đã thọ giới cụ túc trong Phật giáo), tỳ kheo ni (bhikkhunīs - các vị sư nữ đã thọ giới cụ túc trong Phật giáo), nam cư sĩ (upāsaka) và nữ cư sĩ (upāsikā - người nữ tại gia theo Phật) của Đức Thế Tôn. Nếu có Ni-kiền-tử nào đến, hãy nói với vị ấy thế này: 'Xin chờ đã, tôn giả, đừng vào. Từ hôm nay, gia chủ Upāli đã trở thành đệ tử của sa môn Gotama. Ông ấy đã đóng cửa đối với các Ni-kiền-tử và Ni-kiền-tử ni, và đã mở cửa cho các tỳ kheo, tỳ kheo ni, nam cư sĩ và nữ cư sĩ của Đức Thế Tôn. Tôn giả, nếu ngài cần vật thực cúng dường, xin hãy đợi ở đây; người ta sẽ mang ra cho ngài.'" - "Vâng, thưa ông chủ," người giữ cửa đáp.
 
-19. Then the householder Upāli, having delighted and rejoiced in the Blessed One's words, rose from his seat, and after paying homage to the Blessed One, keeping him on his right, he left to return to his own house. There he addressed the doorkeeper thus: "Good doorkeeper, from today on I close my door to the Niganthas and the Niganthīs, and I open my door to the Blessed One's bhikkhus, bhikkhunīs, men lay followers, and women lay followers. If any Nigantha comes, then tell him thus: 'Wait, venerable sir, do not enter. From today on the householder Upāli has gone over to discipleship under the recluse Gotama. He has closed his door to the Niganthas and Niganthī, and he has opened it to the Blessed One's bhikkhus, bhikkhunīs, men lay followers, and women lay followers. Venerable sir, if you need alms, wait here; they will bring it to you here.'" - "Yes, venerable sir," the doorkeeper replied.
+20\. Ni-kiền-tử Dīgha Tapassi nghe tin: "Gia chủ Upāli đã trở thành đệ tử của sa môn Gotama." Sau đó, vị ấy đi đến chỗ Ni-kiền-tử Nātaputta và báo tin: "Bạch tôn sư, con nghe tin thế này: 'Gia chủ Upāli đã trở thành đệ tử của sa môn Gotama.'"
 
-20. The Niganṭha Dīgha Tapassi heard: "The householder Upāli has gone over to discipleship under the recluse Gotama." Then he went to the Niganṭha Nātaputta and told him: "Venerable sir, I have heard thus: 'The householder Upāli has gone over to discipleship under the recluse Gotama.'"
+"Không thể nào, Tapassi, không thể xảy ra chuyện gia chủ Upāli lại trở thành đệ tử của sa môn Gotama; nhưng có thể, có thể xảy ra chuyện sa môn Gotama lại trở thành đệ tử của gia chủ Upāli." [381]
 
-"It is impossible, Tapassi, it cannot happen that the householder Upāli should go over to discipleship under the recluse Gotama; but it is possible, it can happen that the recluse Gotama might come over to discipleship under the householder Upāli." [381]
+Lần thứ hai... Và lần thứ ba, Ni-kiền-tử Dīgha Tapassi báo tin cho Ni-kiền-tử Nātaputta: "Bạch tôn sư, con nghe tin thế này: 'Gia chủ Upāli đã trở thành đệ tử của sa môn Gotama.'"
 
-A second time...And a third time the Niganṭha Dīgha Tapassi told the Niganṭha Nātaputta: "Venerable sir, I have heard thus: 'The householder Upāli has gone over to discipleship under the recluse Gotama.'"
+"Không thể nào, Tapassi, không thể xảy ra chuyện..."
 
-"It is impossible, Tapassi, it cannot happen..."
+"Bạch tôn sư, con có nên đi tìm hiểu xem gia chủ Upāli có thực sự trở thành đệ tử của sa môn Gotama hay không?"
 
-"Venerable sir, shall I go and find out whether or not the householder Upāli has gone over to discipleship under the recluse Gotama?"
+"Hãy đi đi, Tapassi, và tìm hiểu xem ông ta có trở thành đệ tử của sa môn Gotama hay không."
 
-"Go, Tapassi, and find out whether or not he has gone over to discipleship under the recluse Gotama."
+21\. Sau đó, Ni-kiền-tử Dīgha Tapassi đi đến nhà gia chủ Upāli. Người giữ cửa thấy vị ấy từ xa đi tới liền nói: "Xin chờ đã, tôn giả, đừng vào. Từ hôm nay, gia chủ Upāli đã trở thành đệ tử của sa môn Gotama. Ông ấy đã đóng cửa đối với các Ni-kiền-tử và Ni-kiền-tử ni, và đã mở cửa cho các tỳ kheo, tỳ kheo ni, nam cư sĩ và nữ cư sĩ của Đức Thế Tôn. Tôn giả, nếu ngài cần vật thực cúng dường, xin hãy đợi ở đây; người ta sẽ mang ra cho ngài."
 
-21. Then the Niganṭha Dīgha Tapassi went to the householder Upāli's house. The doorkeeper saw him coming in the distance and told him: "Wait, venerable sir, do not enter. From today on the householder Upāli has gone over to discipleship under the recluse Gotama. He has closed his door to the Niganthas and Niganṭhīs, and he has opened it to the Blessed One's bhikkhus, bhikkhunīs, men lay followers, and women lay followers. Venerable sir, if you need alms, wait here; they will bring it to you here."
+"Này bạn, tôi không cần vật thực cúng dường," vị ấy nói, rồi quay lại đi đến chỗ Ni-kiền-tử Nātaputta và báo: "Bạch tôn sư, sự thật là gia chủ Upāli đã trở thành đệ tử của sa môn Gotama. Bạch tôn sư, con đã không được sự đồng ý của ngài khi con nói: 'Bạch tôn sư, con không nghĩ rằng gia chủ Upāli nên [cố gắng] bác bỏ giáo lý của sa môn Gotama. Vì sa môn Gotama là một nhà ảo thuật và biết một thứ ma thuật quyến dụ mà ông ta dùng để thu phục đệ tử của các giáo phái khác.' Và bây giờ, bạch tôn sư, gia chủ Upāli của ngài đã bị sa môn Gotama thu phục bằng ma thuật quyến dụ của ông ta!"
+"Không thể nào, Tapassi, không thể xảy ra chuyện gia chủ Upāli lại trở thành đệ tử của sa môn Gotama; nhưng có thể, có thể xảy ra chuyện sa môn Gotama lại trở thành đệ tử của gia chủ Upāli."
 
-"I do not need alms, friend," he said, and he turned back and went to the Niganṭha Nātaputta and told him: "Venerable sir, it is only too true that the householder Upāli has gone over to discipleship under the recluse Gotama. Venerable sir, I did not get your consent when I told you: 'Venerable sir, I do not think that the householder Upāli should [try to] refute the recluse Gotama's doctrine. For the recluse Gotama is a magician and knows a converting magic by which he converts disciples of other sectarians.' And now, venerable sir, your householder Upāli has been converted by the recluse Gotama with his converting magic!"
-"It is impossible, Tapassi, it cannot happen that the householder Upāli should go over to discipleship under the recluse Gotama; but it is possible, it can happen that the recluse Gotama might come over to discipleship under the householder Upāli."
+Lần thứ hai... Và lần thứ ba, Ni-kiền-tử Dīgha Tapassi báo tin cho Ni-kiền-tử Nātaputta: "Bạch tôn sư, sự thật là gia chủ Upāli đã trở thành đệ tử của sa môn Gotama [382]... bằng ma thuật quyến dụ của ông ta!"
 
-A second time...And a third time the Niganṭha Digha Tapassi told the Niganṭha Nātaputta: "Venerable sir, it is only too true that the householder Upāli has gone over to discipleship under the recluse Gotama [382]...with his converting magic!"
+"Không thể nào, Tapassi, không thể xảy ra chuyện... có thể xảy ra chuyện sa môn Gotama lại trở thành đệ tử của gia chủ Upāli. Bây giờ chính ta sẽ đi tìm hiểu xem ông ta có trở thành đệ tử của sa môn Gotama hay không."
 
-"It is impossible, Tapassi, it cannot happen...it can happen that the recluse Gotama might come over to discipleship under the householder Upāli. Now I shall go myself and find out whether or not he has gone over to discipleship under the recluse Gotama."
+22\. Sau đó, Ni-kiền-tử Nātaputta cùng một hội chúng đông đảo các Ni-kiền-tử đi đến nhà gia chủ Upāli. Người giữ cửa thấy ông ta từ xa đi tới liền nói: "Xin chờ đã, tôn giả, đừng vào. Từ hôm nay, gia chủ Upāli đã trở thành đệ tử của sa môn Gotama. Ông ấy đã đóng cửa đối với các Ni-kiền-tử và Ni-kiền-tử ni, và đã mở cửa cho các tỳ kheo, tỳ kheo ni, nam cư sĩ và nữ cư sĩ của Đức Thế Tôn. Tôn giả, nếu ngài cần vật thực cúng dường, xin hãy đợi ở đây; người ta sẽ mang ra cho ngài."
 
-22. Then the Niganṭha Nātaputta went with a large assembly of Niganthas to the householder Upāli's house. The doorkeeper saw him coming in the distance and told him: "Wait, venerable sir, do not enter. From today on the householder Upāli has gone over to discipleship under the recluse Gotama. He has closed his door to the Niganthas and Niganthis, and he has opened his door to the Blessed One's bhikkhus, bhikkhunis, men lay followers, and women lay followers. Venerable sir, if you need alms, wait here; they will bring it to you here."
+"Này người giữ cửa tốt lành, hãy đến gặp gia chủ Upāli và báo: 'Bạch tôn giả, Ni-kiền-tử Nātaputta đang đứng ở cổng ngoài cùng với một hội chúng đông đảo các Ni-kiền-tử; ông ấy muốn gặp ngài.'"
 
-"Good doorkeeper, go to the householder Upāli and tell him: 'Venerable sir, the Niganṭha Nātaputta is standing at the outer gate with a large assembly of Niganthas; he wishes to see you.'"
+"Vâng, thưa tôn giả," người giữ cửa đáp, rồi đi đến gặp gia chủ Upāli và báo: "Bạch tôn giả, Ni-kiền-tử Nātaputta đang đứng ở cổng ngoài cùng với một hội chúng đông đảo các Ni-kiền-tử; ông ấy muốn gặp ngài."
 
-"Yes, venerable sir," he replied, and he went to the householder Upāli and told him: "Venerable sir, the Niganṭha Nātaputta is standing at the outer gate with a large assembly of Niganthas; he wishes to see you."
+"Vậy thì, này người giữ cửa tốt lành, hãy chuẩn bị chỗ ngồi trong gian sảnh ở cửa chính."
 
-"In that case, good doorkeeper, make seats ready in the hall of the central door."
+"Vâng, thưa tôn giả," người giữ cửa đáp, và sau khi đã chuẩn bị chỗ ngồi trong gian sảnh ở cửa chính, anh ta quay lại báo cho gia chủ Upāli: "Bạch tôn giả, chỗ ngồi đã được chuẩn bị trong gian sảnh ở cửa chính. Bây giờ là lúc ngài làm những gì ngài cho là thích hợp."
 
-"Yes, venerable sir," he replied, and after he had made seats ready in the hall of the central door, he returned to the householder Upāli and told him: "Venerable sir, the seats are made ready in the hall of the central door. Now it is time to do as you think fit."
+23\. Bấy giờ, gia chủ Upāli [383] đi đến gian sảnh ở cửa chính và ngồi xuống chỗ ngồi cao nhất, tốt nhất, trang trọng nhất, ưu việt nhất ở đó. Sau đó, ông bảo người giữ cửa: "Này người giữ cửa tốt lành, bây giờ hãy đến gặp Ni-kiền-tử Nātaputta và báo: 'Bạch tôn giả, gia chủ Upāli nói: "Xin mời tôn giả vào, nếu ngài muốn."'"
 
-23. Then the householder Upāli [383] went to the hall of the central door and sat down on the highest, best, chief, most excellent seat there. Then he told the doorkeeper: "Now, good doorkeeper, go to the Niganṭha Nātaputta and tell him:
-'Venerable sir, the householder Upāli says: "Enter, venerable sir, if you wish."'"
+"Vâng, thưa tôn giả," người giữ cửa đáp, rồi đi đến gặp Ni-kiền-tử Nātaputta và báo: "Bạch tôn giả, gia chủ Upāli nói: 'Xin mời tôn giả vào, nếu ngài muốn.'"
 
-"Yes, venerable sir," he replied, and he went to the Niganṭha Nātaputta and told him: "Venerable sir, the householder Upāli says: 'Enter, venerable sir, if you wish.'"
+Sau đó, Ni-kiền-tử Nātaputta cùng hội chúng đông đảo các Ni-kiền-tử đi vào gian sảnh ở cửa chính.
 
-Then the Niganṭha Nātaputta went with the large assembly of Niganthas to the hall of the central door.
+24\. Trước đây, khi gia chủ Upāli thấy Ni-kiền-tử Nātaputta từ xa đi tới, ông thường ra đón, dùng áo choàng phủi bụi chỗ ngồi cao nhất, tốt nhất, trang trọng nhất, ưu việt nhất ở đó, sắp xếp lại xung quanh, rồi mời ông ta ngồi lên. Nhưng bây giờ, trong khi chính mình đang ngồi trên chỗ ngồi cao nhất, tốt nhất, trang trọng nhất, ưu việt nhất, ông lại bảo Ni-kiền-tử Nātaputta: "Bạch tôn giả, có chỗ ngồi kia; mời ngài ngồi nếu muốn."
 
-24. Previously, when the householder Upāli saw the Niganṭha Nātaputta coming in the distance, he used to go out to meet him, dust off the highest, best, chief, most excellent seat there with an upper robe, and having arranged it all around, have him seated on it. But now, while seated himself on the highest, best, chief, most excellent seat, he told Niganṭha Nātaputta: "Venerable sir, there are seats; sit down if you wish."
+25\. Nghe vậy, Ni-kiền-tử Nātaputta nói: "Gia chủ, ông điên rồi, ông ngu xuẩn rồi. Ông đi nói rằng: 'Bạch tôn sư, con sẽ bác bỏ giáo lý của sa môn Gotama,' rồi ông trở về hoàn toàn bị mắc vào một cái lưới giáo pháp rộng lớn. Cũng như một người đi thiến người khác lại bị thiến cả hai bên trở về, cũng như một người đi khoét mắt người khác lại bị khoét cả hai mắt trở về; ông cũng vậy, gia chủ, ông đi nói rằng: 'Bạch tôn sư, con sẽ bác bỏ giáo lý của sa môn Gotama,' rồi ông trở về hoàn toàn bị mắc vào một cái lưới giáo pháp rộng lớn. Gia chủ, ông đã bị sa môn Gotama thu phục bằng ma thuật quyến dụ của ông ta!"
 
-25. When this was said, the Niganṭha Nātaputta said: "Householder, you are mad, you are an imbecile. You went saying: 'Venerable sir, I shall refute the recluse Gotama's doctrine,' and you have come back all caught up in a vast net of doctrine. Just as if a man went to castrate someone and came back castrated on both sides, just as if a man went to put out someone's eyes and came back with both his eyes put out; so you too, householder, went saying: 'Venerable sir, I shall refute the recluse Gotama's doctrine,' and you have come back all caught up in a vast net of doctrine. Householder, you have been converted by the recluse Gotama with his converting magic!"
+26\. "Lành thay ma thuật quyến dụ ấy, bạch tôn sư, tốt đẹp thay ma thuật quyến dụ ấy! [^590] Bạch tôn sư, nếu những người thân bằng quyến thuộc yêu quý của con được thu phục bởi sự thu phục này, điều đó sẽ dẫn đến lợi ích và hạnh phúc lâu dài cho thân bằng quyến thuộc yêu quý của con. Nếu tất cả giới quý tộc (nobles - khattiya) được thu phục bởi sự thu phục này, điều đó sẽ dẫn đến lợi ích và hạnh phúc lâu dài cho giới quý tộc. [384] Nếu tất cả giới bà la môn (brahmins - brāhmaṇa)... tất cả giới thương gia (merchants - vessa)... tất cả giới lao động (workers - sudda) được thu phục bởi sự thu phục này, điều đó sẽ dẫn đến lợi ích và hạnh phúc lâu dài cho giới lao động. Nếu thế giới cùng với chư thiên, Ma vương (Māras - các thế lực cản trở sự tu tập), và Phạm thiên (Brahmās - các vị trời ở cõi sắc giới), chúng sanh này cùng các vị sa môn, bà la môn, vua chúa và thường dân, được thu phục bởi sự thu phục này, điều đó sẽ dẫn đến lợi ích và hạnh phúc lâu dài cho thế giới. Về điều này, bạch tôn sư, con sẽ đưa ra một ví dụ; vì một số người trí ở đây hiểu được ý nghĩa của một lời nói qua ví dụ.
 
-26. "Auspicious is that converting magic, venerable sir, good is that converting magic! [^590] Venerable sir, if my beloved kinsmen and relatives were to be converted by this conversion, it would lead to the welfare and happiness of my beloved kinsmen and relatives for a long time. If all nobles were to be converted by this conversion, it would lead to the welfare and happiness of the nobles for a long time. [384] If all brahmins...all merchants... all workers were to be converted by this conversion, it would lead to the welfare and happiness of the workers for a long time. If the world with its gods, its Māras, and its Brahmās, this generation with its recluses and brahmins, its princes and its people, were to be converted by this conversion, it would lead to the welfare and happiness of the world for a long time. As to this, venerable sir, I shall give you a simile; for some wise men here understand the meaning of a statement by a simile.
+27\. "Bạch tôn sư, ngày xưa có một vị bà la môn già nua, tuổi cao, sức yếu, và ông có một người vợ là một thiếu nữ bà la môn trẻ tuổi đang mang thai và sắp đến ngày sinh nở. Rồi cô ấy bảo ông: 'Này ông bà la môn, hãy ra chợ mua một con khỉ con về đây cho tôi làm bạn chơi với con tôi.' Ông đáp: 'Hãy đợi đã, bà ạ, cho đến khi bà sinh con. Nếu bà sinh con trai, tôi sẽ ra chợ mua một con khỉ đực con về cho bà làm bạn chơi với cậu bé; nhưng nếu bà sinh con gái, tôi sẽ ra chợ mua một con khỉ cái con về cho bà làm bạn chơi với cô bé.' Lần thứ hai cô ấy đưa ra yêu cầu tương tự và nhận được câu trả lời tương tự. Lần thứ ba cô ấy lại đưa ra yêu cầu tương tự. Bấy giờ, vì lòng yêu thương ràng buộc với bà vợ, ông ra chợ, mua một con khỉ đực con, mang về và bảo bà: 'Tôi đã mua con khỉ đực con này ở chợ [385] và mang về cho bà làm bạn chơi với con bà.' Rồi bà bảo ông: 'Này ông bà la môn, hãy mang con khỉ đực con này đến chỗ Rattapanni, con trai người thợ nhuộm, và bảo cậu ta: "Này Rattapanni tốt lành, tôi muốn con khỉ đực con này được nhuộm màu vàng thuốc mỡ, đập đi đập lại, và làm cho nhẵn cả hai mặt."' Bấy giờ, vì lòng yêu thương ràng buộc với bà vợ, ông mang con khỉ đực con đến chỗ Rattapanni, con trai người thợ nhuộm, và bảo cậu ta: 'Này Rattapanni tốt lành, tôi muốn con khỉ đực con này được nhuộm màu vàng thuốc mỡ, đập đi đập lại, và làm cho nhẵn cả hai mặt.' Rattapanni, con trai người thợ nhuộm, bảo ông: 'Bạch tôn giả, con khỉ đực con này chịu được thuốc nhuộm nhưng không chịu được đập hay làm nhẵn.' Cũng vậy, bạch tôn sư, giáo pháp của các Ni-kiền-tử ngu si sẽ làm vui lòng kẻ ngu nhưng không làm vui lòng người trí, và nó sẽ không chịu được sự thử thách hay sự tra xét kỹ lưỡng (làm nhẵn).
 
-27. "Venerable sir, there was once a brahmin who was old, aged, and burdened with years, and he had as a wife a young brahmin girl who was pregnant and near her confinement. Then she told him: 'Go, brahmin, buy a young monkey in the market and bring it back to me as a playmate for my child.' He replied: 'Wait, madam, till you have borne the child. If you bear a boy, then I will go to the market and buy a young male monkey and bring it back to you as a playmate for your little boy; but if you bear a girl, then I will go to the market and buy a young female monkey and bring it back to you as a playmate for your little girl.' For the second time she made the same request and received the same answer. For the third time she made the same request. Then, since his mind was bound to her with love, he went to the market, bought a young male monkey, brought it back, and told her: 'I have bought this young male monkey in the market [385] and brought it back to you as a playmate for your child.' Then she told him: 'Go, brahmin, take this young male monkey to Rattapanni the dyer's son and tell him: "Good Rattapanni, I want this young male monkey dyed the colour called yellow-unguent, pounded and re-pounded, and smoothened out on both sides."' Then, since his mind was bound to her with love, he took the young male monkey to Rattapanni the dyer's son and told him: 'Good Rattapanni, I want this young male monkey dyed the colour called yellow-unguent, pounded and re-pounded, and smoothened out on both sides.' Rattapanni the dyer's son told him: 'Venerable sir, this young male monkey will take a dyeing but not a pounding or a smoothening out.' So too, venerable sir, the doctrine of the foolish Niganthas will give delight to fools but not to the wise, and it will not withstand testing or being smoothened out.
+"Rồi, bạch tôn sư, vào một dịp khác, vị bà la môn đó mang một cặp vải mới đến chỗ Rattapanni, con trai người thợ nhuộm, và bảo cậu ta: 'Này Rattapanni tốt lành, tôi muốn cặp vải mới này được nhuộm màu vàng thuốc mỡ, đập đi đập lại, và làm cho nhẵn cả hai mặt.' Rattapanni, con trai người thợ nhuộm, bảo ông: 'Bạch tôn giả, cặp vải mới này chịu được cả thuốc nhuộm, cả sự đập và sự làm nhẵn.' Cũng vậy, bạch tôn sư, giáo pháp của Đức Thế Tôn kia, bậc A-la-hán (accomplished - arahaṃ - bậc đã hoàn thiện, xứng đáng được cúng dường), Chánh Đẳng Chánh Giác (fully enlightened - sammāsambuddha - bậc tự mình giác ngộ hoàn toàn), sẽ làm vui lòng người trí nhưng không làm vui lòng kẻ ngu, và nó sẽ chịu được sự thử thách và sự tra xét kỹ lưỡng (làm nhẵn)."
 
-"Then, venerable sir, on another occasion that brahmin took a pair of new garments to Rattapanni the dyer's son and told him: 'Good Rattapanni, I want this pair of new garments dyed the colour called yellow-unguent, pounded and re-pounded, and smoothened out on both sides.' Rattapanni the dyer's son told him: 'Venerable sir, this pair of new garments will take a dyeing and a pounding and a smoothening out.' So too, venerable sir, the doctrine of that Blessed One, accomplished and fully enlightened, will give delight to the wise but not to fools, and it will withstand testing and being smoothened out."
+28\. "Gia chủ, hội chúng và nhà vua đều biết ông là: 'Gia chủ Upāli là đệ tử của Ni-kiền-tử Nātaputta.' Chúng tôi nên xem ông là đệ tử của ai đây?"
 
-28. "Householder, the assembly and the king know you thus: 'The householder Upāli is a disciple of the Niganṭha Nātaputta.' Whose disciple should we consider you to be?"
+Nghe vậy, gia chủ Upāli đứng dậy khỏi chỗ ngồi, sửa lại y trên một vai, [386] chắp tay vái về hướng Đức Thế Tôn và nói với Ni-kiền-tử Nātaputta:
 
-When this was said, the householder Upāli rose from his seat, and arranging his upper robe on one shoulder, [386] he extended his hands in reverential salutation in the direction of the Blessed One and told the Niganṭha Nātaputta:
+29\. "Vậy thì, bạch tôn sư, xin hãy nghe con là đệ tử của ai:
 
-29. "In that case, venerable sir, hear whose disciple I am:
+Ngài là Bậc Trí Tuệ đã đoạn trừ si mê,
+Từ bỏ tâm hoang vu [phiền não], [^591] chiến thắng ma quân;
+Ngài không còn phiền muộn, tâm hoàn toàn quân bình,
+Giới hạnh viên mãn, trí tuệ tuyệt vời;
+Vượt mọi cám dỗ, [^592] Ngài không còn tỳ vết:
+Đức Thế Tôn là Ngài, và con là đệ tử của Ngài.
 
-He is the Wise One who has cast off delusion, abandoned the heart's wilderness, [^591] victor in battle;
+Ngài hết phân vân, an trú trong sự mãn nguyện,
+Chê bỏ lợi lộc thế gian, là nguồn vui;
+Là người đã hoàn thành phận sự sa môn,
+Là người mang thân cuối cùng;
+Ngài hoàn toàn vô song và hoàn toàn thanh tịnh:
+Đức Thế Tôn là Ngài, và con là đệ tử của Ngài.
 
-He knows no anguish, is perfectly even-minded, mature in virtue, of excellent wisdom;
+Ngài không còn nghi ngờ và khéo léo,
+Là bậc huấn luyện và lãnh đạo tuyệt vời.
+Không ai vượt qua phẩm chất rực rỡ của Ngài;
+Không do dự, Ngài là bậc soi sáng;
+Đã đoạn trừ ngã mạn, Ngài là Bậc Anh Hùng:
+Đức Thế Tôn là Ngài, và con là đệ tử của Ngài.
 
-Beyond all temptations, [^592] he is without stain:
+Là Bậc Dẫn Dắt chúng sanh, Ngài không thể đo lường,
+Sâu thẳm khôn dò, Ngài đạt đến tịch tịnh; [^593]
+Mang lại sự an ổn, sở hữu tri kiến,
+Ngài an trú trong Pháp, nội tâm chế ngự;
+Đã vượt qua mọi ràng buộc, Ngài được giải thoát:
+Đức Thế Tôn là Ngài, và con là đệ tử của Ngài.
 
-The Blessed One is he, and I am his disciple.
+Là voi chúa không tỳ vết, sống nơi tịch tĩnh,
+Với mọi xiềng xích đã phá tan, hoàn toàn giải thoát;
+Khéo léo trong luận giải, thấm nhuần trí tuệ,
+Đã hạ cờ kiêu mạn, [^594] Ngài không còn tham ái;
+Đã tự điều phục, Ngài không còn tạo tác [^595] (proliferation - papañca - sự phát triển, lan tràn của các khái niệm và vọng tưởng):
+Đức Thế Tôn là Ngài, và con là đệ tử của Ngài.
 
-Free from perplexity, he abides contented, spurning worldly gains, a vessel of gladness;
+Là bậc tiên tri tối thượng, [^596] không mưu mẹo lừa dối,
+Đạt tam minh (triple knowledge - tevijja - ba loại tuệ giác: biết rõ các kiếp quá khứ, biết rõ sự sanh tử của chúng sanh, biết rõ sự đoạn tận các lậu hoặc), đạt đến sự thánh thiện;
+Tâm Ngài thanh tịnh, là bậc thầy thuyết giảng,
+Ngài sống luôn an tịnh, là người tìm ra tri kiến;
+Là bậc bố thí đứng đầu, Ngài luôn có khả năng:
+Đức Thế Tôn là Ngài, và con là đệ tử của Ngài.
 
-A human being who has done the recluse's duty, a man who bears his final body;
+Ngài là Bậc Cao Thượng, tâm đã phát triển,
+Đã đạt mục đích và giảng giải chân lý;
+Có niệm và tuệ quán thấu suốt,
+Ngài không nghiêng tới, không ngả lui; [^597]
+Không xao động, đạt đến sự làm chủ:
+Đức Thế Tôn là Ngài, và con là đệ tử của Ngài.
 
-He is utterly peerless and utterly spotless:
+Ngài đã tu hành đúng đắn và an trú trong thiền định,
+Nội tâm không ô nhiễm, thanh tịnh hoàn hảo;
+Ngài độc lập và hoàn toàn không sợ hãi, [^598]
+Sống độc cư, đạt đến đỉnh cao;
+Đã tự mình vượt qua, Ngài dẫn dắt chúng ta vượt qua:
+Đức Thế Tôn là Ngài, và con là đệ tử của Ngài.
 
-The Blessed One is he, and I am his disciple.
+Với sự tịch tịnh tối thượng, trí tuệ rộng lớn,
+Là người có đại trí tuệ, không còn tham lam;
+Ngài là Như Lai, Ngài là Thiện Thệ (Sublime One - Sugata - bậc đã khéo đi, khéo đến),
+Là Bậc Vô Song, là Bậc Vô Đối;
+Ngài dũng mãnh, thông suốt tất cả:
+Đức Thế Tôn là Ngài, và con là đệ tử của Ngài.
 
-He is free from doubt and skilful, the discipliner and excellent leader.
+Ngài đã đoạn trừ ái dục (severed craving - taṇhā - sự khao khát, ham muốn) và thành Bậc Giác Ngộ,
+Tan hết mây mù [phiền não], hoàn toàn không nhiễm ô;
+Xứng đáng được cúng dường nhất, bậc tinh thần vĩ đại nhất,
+Con người hoàn hảo nhất, vượt ngoài mọi ước lượng;
+Vĩ đại nhất trong sự vĩ đại, đạt đến đỉnh vinh quang:
+Đức Thế Tôn là Ngài, và con là đệ tử của Ngài."
 
-None can surpass his resplendent qualities; without hesitation, he is the illuminator;
+30\. "Gia chủ, ông đã bịa đặt bài kệ tán thán sa môn Gotama đó từ khi nào vậy?"
 
-Having severed conceit, he is the hero:
+"Bạch tôn sư, giả sử có một đống hoa lớn đủ loại, [387] rồi một người kết tràng hoa khéo léo hay người học việc kết tràng hoa kết chúng thành một tràng hoa nhiều màu sắc; cũng vậy, bạch tôn sư, Đức Thế Tôn có nhiều phẩm chất đáng tán thán, hàng trăm phẩm chất đáng tán thán. Bạch tôn sư, ai lại không tán thán bậc đáng được tán thán?"
 
-The Blessed One is he, and I am his disciple.
+31\. Bấy giờ, vì Ni-kiền-tử Nātaputta không thể chịu đựng được sự tôn kính dành cho Đức Thế Tôn này, máu nóng liền hộc ra từ miệng ông ta ngay tại chỗ.[^599]
 
-The leader of the herd, he cannot be measured, his depths are unfathomed, he attained to the silence; ${ }^{593}$
-
-Provider of safety, possessor of knowledge, he stands in the Dhamma, inwardly restrained;
-
-Having overcome all bondage, he is liberated:
-
-The Blessed One is he, and I am his disciple.
-
-The immaculate tusker, living in remoteness, with fetters all shattered, fully freed;
-
-Skilled in discussion, imbued with wisdom,
-his banner lowered, [^594] he no longer lusts;
-
-Having tamed himself, he no more proliferates: ${ }^{595}$
-
-The Blessed One is he, and I am his disciple.
-
-The best of seers, [^596] with no deceptive schemes, gained the triple knowledge, attained to holiness;
-
-His heart cleansed, a master of discourse, he lives ever tranquil, the finder of knowledge;
-
-The first of all givers, he is ever capable:
-
-The Blessed One is he, and I am his disciple.
-
-He is the Noble One, developed in mind, who has gained the goal and expounds the truth;
-
-Endowed with mindfulness and penetrative insight, he leans neither forwards nor back; ${ }^{597}$
-
-Free from perturbation, attained to mastery:
-
-The Blessed One is he, and I am his disciple.
-
-He has fared rightly and abides in meditation, inwardly undefiled, in purity perfect;
-
-He is independent and altogether fearless, ${ }^{598}$
-
-living secluded, attained to the summit;
-
-Having crossed over himself, he leads us across:
-
-The Blessed One is he, and I am his disciple.
-
-Of supreme serenity, with extensive wisdom, a man of great wisdom, devoid of all greed;
-
-He is the Tathāgata, he is the Sublime One, the person unrivalled, the one without equal;
-
-He is intrepid, proficient in all:
-
-The Blessed One is he, and I am his disciple.
-
-He has severed craving and become the Enlightened One, cleared of all clouds, completely untainted;
-
-Most worthy of gifts, most mighty of spirits, most perfect of persons, beyond estimation;
-
-The greatest in grandeur, attained the peak of glory:
-
-The Blessed One is he, and I am his disciple."
-
-30. "When did you concoct that hymn of praise to the recluse Gotama, householder?"
-
-"Venerable sir, suppose there were a great heap of many kinds of flowers, [387] and then a clever garland-maker or garland-maker's apprentice were to knot them into a multicoloured garland; so too, venerable sir, the Blessed One has many praiseworthy qualities, many hundred praiseworthy qualities. Who, venerable sir, would not praise the praiseworthy?"
-
-31. Then, since the Niganṭha Nātaputta was unable to bear this honour done to the Blessed One, hot blood then and there gushed from his mouth. ${ }^{599}$
+<!--pg-->
+Từ ngữ:
+- Đức Thế Tôn / Bhagavā / Blessed One: Danh hiệu tôn kính dành cho Đức Phật, có nghĩa là Bậc Tôn Quý, Bậc có đầy đủ phước đức và trí tuệ.
+- Ni-kiền-tử / Nigaṇṭha / Nigantha: Tên gọi các tu sĩ thuộc phái Kỳ-na giáo (Jainism), một tôn giáo cùng thời với Đức Phật, chủ trương khổ hạnh ép xác. Nātaputta là người đứng đầu phái này vào thời đó.
+- Hình phạt / Daṇḍa / Rod: Nghĩa đen là cây gậy, roi vọt. Trong ngữ cảnh này, phái Ni-kiền-tử dùng từ này để chỉ các hành động (thân, lời, ý) gây ra hậu quả đau khổ, xem chúng như sự trừng phạt.
+- Hành động / Kamma / Action: Nghiệp, hành vi có chủ ý tạo ra kết quả tương ứng trong hiện tại hoặc tương lai. Đây là thuật ngữ Phật giáo dùng thay cho "hình phạt" của Ni-kiền-tử.
+- Như Lai / Tathāgata / Tathāgata: Danh hiệu chỉ Đức Phật, nghĩa là "Người đã đến như vậy" hoặc "Người đã đi như vậy", hàm ý Ngài đã đạt đến chân lý như thực và thể nhập chân lý đó.
+- Cư sĩ / Upāsaka (nam), Upāsikā (nữ) / Lay follower: Người tại gia theo đạo Phật, đã quy y Tam Bảo (Phật, Pháp, Tăng) và giữ gìn năm giới cơ bản.
+- Ma thuật quyến dụ / Āvaṭṭanī māyā / Converting magic: Phép thuật hay bùa chú được cho là có khả năng thu hút, lôi kéo, làm thay đổi lòng tin của người khác. Đây là cách Dīgha Tapassi giải thích việc Upāli theo Phật.
+- Ý hệ thiên / Manobandhanikā devā / Mind-bound gods: Một cõi trời được đề cập trong kinh, nơi chúng sanh tái sanh do khi chết tâm còn bị trói buộc mạnh mẽ bởi một đối tượng hay ý niệm nào đó.
+- Chấp thủ / Upādāna / Attachment: Sự dính mắc, níu giữ, bám víu mạnh mẽ vào các đối tượng (sắc, thanh, hương, vị, xúc, pháp), quan điểm, nghi lễ, hoặc ngã tưởng. Đây là một trong 12 nhân duyên, là nguyên nhân trực tiếp của khổ.
+- Chủ ý / Cetana / Willing, volition: Sự cố ý, tác ý, là yếu tố tâm lý thúc đẩy hành động (nghiệp). Phật giáo nhấn mạnh vai trò của chủ ý trong việc tạo nghiệp thiện hay ác.
+- Thần thông / Iddhi / Supernormal power: Những năng lực phi thường đạt được thông qua tu tập thiền định sâu sắc, như thiên nhãn, thiên nhĩ, tha tâm thông, túc mạng thông, thần túc thông.
+- Làm chủ tâm trí / Cetovasippatta / Mastery of mind: Khả năng điều khiển, kiểm soát tâm ý một cách hoàn toàn theo ý muốn, thường đạt được ở các bậc thiền định cao.
+- Hành động sân hận trong tâm ý / Manopadosa / Mental act of hate: Trạng thái tâm bất mãn, căm ghét, thù địch khởi lên trong ý nghĩ, được xem là một ác nghiệp về ý.
+- Quy y / Saraṇa / Refuge: Hành động tìm nơi nương tựa, che chở tinh thần nơi Tam Bảo: Phật (Bậc Giác Ngộ), Pháp (Giáo pháp của Ngài), Tăng (Cộng đồng những người tu hành theo giáo pháp).
+- Giáo Pháp / Dhamma / Dhamma: Lời dạy của Đức Phật, chân lý về bản chất của thực tại, con đường dẫn đến giải thoát khổ đau.
+- Tăng đoàn / Sangha / Sangha: Cộng đồng các đệ tử xuất gia của Đức Phật (Tỳ kheo và Tỳ kheo ni) tuân thủ giới luật và thực hành giáo pháp. Nghĩa rộng hơn có thể bao gồm cả cộng đồng các bậc Thánh đệ tử (xuất gia và tại gia).
+- Tỳ kheo / Bhikkhu / Bhikkhu: Vị sư nam đã thọ giới cụ túc (227 giới theo Luật tạng Theravada), sống đời sống xuất gia, khất thực.
+- Tỳ kheo ni / Bhikkhunī / Bhikkhunī: Vị sư nữ đã thọ giới cụ túc (311 giới theo Luật tạng Theravada), sống đời sống xuất gia.
+- Thuyết pháp tuần tự / Anupubbikathā / Progressive instruction: Phương pháp giảng dạy của Đức Phật, trình bày giáo pháp theo thứ lớp từ thấp đến cao, từ đơn giản đến phức tạp, phù hợp với căn cơ người nghe (ví dụ: bố thí, trì giới, các cõi trời, sự nguy hại của dục lạc, lợi ích của xuất ly, Tứ Diệu Đế).
+- Bố thí / Dāna / Giving: Sự cho đi, cúng dường vật chất, tinh thần hoặc giáo pháp với tâm rộng lượng, không mong cầu đền đáp.
+- Giới hạnh / Sīla / Virtue: Các quy tắc đạo đức, giới luật nhằm ngăn ngừa các hành động bất thiện qua thân và lời nói, làm nền tảng cho sự phát triển tâm linh.
+- Cõi trời / Sagga / Heavens: Các cảnh giới tái sanh hạnh phúc hơn cõi người, là kết quả của các việc làm thiện lành, nhưng vẫn nằm trong vòng luân hồi sanh tử.
+- Dục lạc / Kāma / Sensual pleasures: Sự hưởng thụ, khoái lạc thông qua năm giác quan (mắt, tai, mũi, lưỡi, thân). Phật giáo chỉ ra sự nguy hiểm, tạm bợ và ô uế của chúng.
+- Xuất ly / Nekkhamma / Renunciation: Sự từ bỏ, thoát ly khỏi đời sống thế tục hoặc các ràng buộc của dục vọng, hướng đến đời sống phạm hạnh, giải thoát.
+- Chướng ngại / Nīvaraṇa / Hindrances: Năm trạng thái tâm tiêu cực chính ngăn cản sự phát triển thiền định (samādhi) và trí tuệ (paññā): tham dục, sân hận, hôn trầm-thụy miên, trạo cử-hối quá, và nghi ngờ.
+- Bốn sự thật cao quý / Cattāri ariya saccāni / Four noble truths: Bốn chân lý nền tảng mà Đức Phật đã giác ngộ và giảng dạy: 1. Khổ (Dukkha - sự thật về khổ đau, bất toại nguyện), 2. Tập (Samudaya - sự thật về nguyên nhân sinh khổ, chủ yếu là tham ái), 3. Diệt (Nirodha - sự thật về sự chấm dứt khổ, tức Niết-bàn), 4. Đạo (Magga - sự thật về con đường dẫn đến sự chấm dứt khổ, tức Bát Chánh Đạo).
+- Pháp nhãn / Dhammacakkhu / Vision of the Dhamma: Con mắt trí tuệ thấy rõ bản chất Vô thường, Khổ, Vô ngã của các pháp (hiện tượng). Sự khởi lên của Pháp nhãn đánh dấu sự chứng đắc quả vị Dự lưu (Sotāpanna), tầng thánh đầu tiên.
+- Vượt qua nghi ngờ / Tiṇṇavicikiccho / Crossed beyond doubt: Trạng thái tâm của bậc Dự lưu, đã đoạn trừ hoàn toàn sự hoài nghi (vicikicchā) đối với Phật, Pháp, Tăng và con đường tu tập.
+- Không còn phân vân lưỡng lự / Vigatakathaṅkatho / Did away with perplexity: Trạng thái tâm không còn do dự, thắc mắc về giáo pháp và con đường thực hành.
+- Đạt được sự tự tin vững chắc / Vesārajjappatto / Gained intrepidity: Có được sự dạn dĩ, tự tin, không sợ hãi khi đối diện với các vấn đề liên quan đến giáo pháp hoặc khi trình bày giáo pháp.
+- Không còn phụ thuộc vào người khác đối với giáo pháp của Bậc Đạo Sư / Aparappaccayo satthusāsane / Independent of others in the Teacher's Dispensation: Trạng thái tự mình chứng ngộ chân lý, không còn phải dựa vào niềm tin nơi người khác (kể cả Đức Phật) đối với những gì mình đã thấy biết.
+- A-la-hán / Arahaṃ / Accomplished, worthy one: Bậc Thánh đã đoạn trừ hoàn toàn mọi phiền não, lậu hoặc, chấm dứt sanh tử luân hồi, xứng đáng được tôn kính và cúng dường.
+- Chánh Đẳng Chánh Giác / Sammāsambuddha / Fully enlightened one: Bậc tự mình giác ngộ hoàn toàn chân lý một cách viên mãn mà không cần thầy chỉ dạy, và có khả năng giảng dạy chân lý đó cho chúng sanh. Danh hiệu cao nhất của một vị Phật.
+- Tạo tác / Papañca / Proliferation, conceptual proliferation: Sự phát triển, lan tràn của các khái niệm, vọng tưởng, sự phân biệt nhị nguyên (ta-người, thích-ghét...) dựa trên cảm thọ, làm che mờ thực tại và dẫn đến khổ đau. Bậc A-la-hán đã chấm dứt papañca.
+- Tam minh / Tevijjā / Triple knowledge: Ba loại tuệ giác siêu việt của một vị Phật hoặc A-la-hán: 1. Túc mạng minh (pubbenivāsānussati-ñāṇa): biết rõ các kiếp sống quá khứ của mình và chúng sanh. 2. Thiên nhãn minh (cutūpapāta-ñāṇa): biết rõ sự sanh tử, tái sanh của chúng sanh theo nghiệp. 3. Lậu tận minh (āsavakkhaya-ñāṇa): biết rõ sự đoạn tận hoàn toàn các lậu hoặc (phiền não).
+- Thiện Thệ / Sugata / Sublime One, Well-gone: Một danh hiệu của Đức Phật, có nghĩa là "Bậc đã đi đến nơi tốt đẹp (Niết-bàn)" hoặc "Bậc nói lời chân thật, hữu ích".
+- Ái dục / Taṇhā / Craving: Sự khao khát, ham muốn mãnh liệt đối với các đối tượng dục lạc (kāma-taṇhā), sự tồn tại (bhava-taṇhā), hoặc sự không tồn tại (vibhava-taṇhā). Đây là nguyên nhân chính của khổ đau theo Tứ Diệu Đế.

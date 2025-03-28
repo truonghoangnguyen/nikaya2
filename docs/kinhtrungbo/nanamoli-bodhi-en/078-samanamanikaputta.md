@@ -1,4 +1,4 @@
-# 78 Samaṇamaṇ̣̣ikāputta
+# 78. Samaṇamaṇ̣̣ikāputta
 ***(Samaṇamaṇ̣̣ikā Sutta)***
 
 1\. Thus have I heard. On one occasion the Blessed One was living at Sāvatthī in Jeta's Grove, Anāthapiṇ̣ika's Park. Now on that occasion the wanderer Uggāhamāna Samaṇamaṇ̣ikāputta was staying in Mallikā's Park, the single-halled Tinduka plantation for philosophical debates, [^771] [23] together with a large following of wanderers, with as many as three hundred wanderers.

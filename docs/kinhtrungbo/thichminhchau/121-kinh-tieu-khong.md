@@ -3,7 +3,7 @@
 **121. KINH TIỂU KHÔNG**
 ***(Cùlasunnata Sutta)***
 
-## Như vầy tôi nghe:
+**Như vầy tôi nghe.**
 
 Một thời Thế Tôn trú ở Savatthi (Xá-vệ), tại Pubbarama (Ðông Viên), lâu đài của Migaramatu (Lộc
 Mẫu). Rồi Tôn giả Ananda, vào buổi chiều, từ Thiền tịnh độc cư đứng dậy, đi đến Thế Tôn, sau khi đến

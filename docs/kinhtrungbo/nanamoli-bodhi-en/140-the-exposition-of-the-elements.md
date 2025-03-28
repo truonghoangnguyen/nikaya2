@@ -1,4 +1,4 @@
-# 140 The Exposition of the Elements
+# 140. The Exposition of the Elements
 ***(Dhātuvibhanga Sutta)***
 
 1\. Thus have I heard. On one occasion the Blessed One was wandering in the Magadhan country and eventually arrived at Rājagaha. There he went to the potter Bhaggava and said to him:

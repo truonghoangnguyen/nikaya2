@@ -1,4 +1,4 @@
-# 125 The Grade of the Tamed
+# 125. The Grade of the Tamed
 ***(Dantabhūmi Sutta)***
 
 1\. Thus have I heard. On one occasion the Blessed One was living at Rājagaha in the Bamboo Grove, the Squirrels' Sanctuary.

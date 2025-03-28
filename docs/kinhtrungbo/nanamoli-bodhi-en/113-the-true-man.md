@@ -1,4 +1,4 @@
-# 113 The True Man
+# 113. The True Man
 ***(Sappurisa Sutta)***
 
 1\. Thus have I heard. On one occasion the Blessed One was living at Sāvatthī in Jeta's Grove, Anāthapindika's Park. There he addressed the bhikkhus thus: "Bhikkhus." - "Venerable sir," they replied. The Blessed One said this:

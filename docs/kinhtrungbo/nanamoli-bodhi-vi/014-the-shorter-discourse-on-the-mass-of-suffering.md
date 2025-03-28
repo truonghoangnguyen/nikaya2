@@ -1,4 +1,4 @@
-# 14 Bài Kinh Ngắn Về Khổ Đau
+# 14. Bài Kinh Ngắn Về Khổ Đau
 ***(Cūladukkhakkhandha Sutta)***
 
 [91] 1. Tôi nghe như vầy. Có một lần Đức Phật đang ở tại xứ của dòng họ Thích Ca, tại thành Ca-tỳ-la-vệ, trong khu vườn của Nigrodha.

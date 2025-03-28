@@ -1,4 +1,4 @@
-# 33 Đại Kinh Người Chăn Bò
+# 33. Đại Kinh Người Chăn Bò
 ***(Mahāgopālaka Sutta)***
 
 [220] 1. Tôi nghe như vầy. Một thời Thế Tôn trú ở Sāvatthī (Xá Vệ), tại khu rừng Jeta (Kỳ Đà), trong vườn của ông Anāthapindika (Cấp Cô Độc). Tại đó, Ngài gọi các tỳ kheo (monks-bhikkhus-nhà sư): "Này các tỳ kheo." Các vị ấy đáp: "Bạch Thế Tôn." Thế Tôn nói như sau:

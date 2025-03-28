@@ -1,4 +1,4 @@
-# 97 To Dhānañjāni
+# 97. To Dhānañjāni
 ***(Dhānañjāni Sutta)***
 
 1\. Thus have I heard. On one occasion the Blessed One was living at Rājagaha in the Bamboo Grove, the Squirrels' Sanctuary.

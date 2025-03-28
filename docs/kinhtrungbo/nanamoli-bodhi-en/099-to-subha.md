@@ -1,4 +1,4 @@
-# 99 To Subha
+# 99. To Subha
 ***(Subha Sutta)***
 
 1\. Thus have I heard. On one occasion the Blessed One was living at Sāvatthī in Jeta's Grove, Anāthapiṇ̣ika's Park.

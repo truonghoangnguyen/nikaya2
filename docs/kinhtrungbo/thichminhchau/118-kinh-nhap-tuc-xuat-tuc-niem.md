@@ -4,7 +4,7 @@
 ***(Kinh Quán Niệm Hơi Thở)***
 ***(Anàpànasati Sutta)***
 
-## Như vầy tôi nghe:
+**Như vầy tôi nghe.**
 
 Một thời Thế Tôn ở Savatthi (Xá-vệ), tại Ðông Viên (Pubbarama), giảng đường Lộc Mẫu
 (Migaramatupasade), cùng với rất nhiều Thượng tọa có thời danh, có danh xưng như Tôn giả Sariputta

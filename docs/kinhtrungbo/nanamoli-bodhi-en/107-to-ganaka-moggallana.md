@@ -1,4 +1,4 @@
-# 107 To Gaṇaka Moggallāna
+# 107. To Gaṇaka Moggallāna
 ***(Ganakamoggallāna Sutta)***
 
 [1] 1. Thus have I heard. On one occasion the Blessed One was living at Sāvatthī in the Eastern Park, in the Palace of Migāra's Mother. Then the brahmin Gaṇaka Moggallāna went to the Blessed One and exchanged greetings with him. When this courteous and amiable talk was finished, he sat down at one side and said to the Blessed One:

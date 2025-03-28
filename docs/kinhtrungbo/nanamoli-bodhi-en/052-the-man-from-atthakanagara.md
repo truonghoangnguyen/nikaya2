@@ -1,4 +1,4 @@
-# 52 The Man from Atṭhakanagara
+# 52. The Man from Atṭhakanagara
 ***(Atṭhakanāgara Sutta)***
 
 1\. Thus have I heard. On one occasion the Venerable Ānanda was living at Beluvagāmaka near Vesālī.

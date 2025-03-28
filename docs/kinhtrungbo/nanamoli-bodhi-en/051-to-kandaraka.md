@@ -1,4 +1,4 @@
-# 51 To Kandaraka
+# 51. To Kandaraka
 ***(Kandaraka Sutta)***
 
 [339] 1. Thus have I heard. On one occasion the Blessed One was living at Campā on the banks of the Gaggarā Lake with a large Sangha of bhikkhus. Then Pessa, the elephant driver's son, and Kandaraka the wanderer went to the Blessed One. Pessa, after paying homage to the Blessed One, sat down at one side, while Kandaraka exchanged greetings with the Blessed One, and when this courteous and amiable talk was finished, he stood at one side. [^538] Standing there, he surveyed the Sangha of bhikkhus sitting in complete silence, [^539] and then he said to the Blessed One:

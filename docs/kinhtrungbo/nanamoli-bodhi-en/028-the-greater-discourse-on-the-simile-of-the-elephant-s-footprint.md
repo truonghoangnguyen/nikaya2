@@ -1,4 +1,4 @@
-# 28 The Greater Discourse on the Simile of the Elephant's Footprint
+# 28. The Greater Discourse on the Simile of the Elephant's Footprint
 ***(Mahāhatthipadopama Sutta)***
 
 1\. Thus have I heard. [^327] On one occasion the Blessed One was living at Sāvatthī in Jeta's Grove, Anāthapindika's Park. There the venerable Sāriputta addressed the bhikkhus thus: "Friends, bhikkhus." - "Friend," they replied. The venerable Sāriputta said this:

@@ -1,4 +1,4 @@
-# 69 Gulissäni
+# 69. Gulissäni
 ***(Gulissäni Sutta)***
 
 [469] 1. Thus have I heard. On one occasion the Blessed One was living at Räjagaha in the Bamboo Grove, the Squirrels' Sanctuary.

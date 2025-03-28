@@ -1,4 +1,4 @@
-# 4 Sợ hãi và Kinh hoàng
+# 4. Sợ hãi và Kinh hoàng
 ***(Bhayabherava Sutta)***
 
 1\.  Tôi nghe như vầy. Một lần nọ, Đức Thế Tôn đang ở tại Sāvatthī trong Rừng Jeta, Vườn của Anāthapiṇ̣ika.

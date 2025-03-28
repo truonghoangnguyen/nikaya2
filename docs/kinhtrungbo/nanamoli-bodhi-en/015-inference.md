@@ -1,4 +1,4 @@
-# 15 Inference
+# 15. Inference
 ***(Anumāna Sutta)***
 
 1\. Thus have I heard. On one occasion the venerable Mahā Moggallāna was living in the Bhagga country at Sumsumāragira in the Bhesakalā Grove, the Deer Park. There he addressed the bhikkhus thus: "Friends, bhikkhus." - "Friend," they replied. The venerable Mahā Moggallāna said this:

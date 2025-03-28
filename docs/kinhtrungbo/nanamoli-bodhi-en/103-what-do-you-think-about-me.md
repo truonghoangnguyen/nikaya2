@@ -1,4 +1,4 @@
-# 103 What Do You Think About Me?
+# 103. What Do You Think About Me?
 ***(Kinti Sutta)***
 
 1\. Thus have I heard. On one occasion the Blessed One was living at Kusināra, in the Grove of Offerings. There he addressed the bhikkhus thus: "Bhikkhus." - "Venerable sir," they replied. The Blessed One said this:

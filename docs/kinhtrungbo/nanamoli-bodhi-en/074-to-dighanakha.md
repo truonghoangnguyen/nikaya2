@@ -1,4 +1,4 @@
-# 74 To Dīghanakha
+# 74. To Dīghanakha
 ***(Dīghanakha Sutta)***
 
 1\. Thus have I heard. On one occasion the Blessed One was living at Rājagaha in the Boar's Cave on the mountain Vulture Peak.

@@ -1,4 +1,4 @@
-# 98 To Vāsetṭha
+# 98. To Vāsetṭha
 ***(Vāsetṭha Sutta)***
 
 [115] 1. Thus have I heard. [^900] On one occasion the Blessed One was living at Icchānangala, in the wood near Icchānangala.

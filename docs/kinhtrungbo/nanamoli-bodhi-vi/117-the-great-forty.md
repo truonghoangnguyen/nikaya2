@@ -1,100 +1,144 @@
-# 117 The Great Forty
+# 117. Kinh Đại Bốn Mươi
 ***(Mahācattārīsaka Sutta)***
 
-1. Thus have I heard. On one occasion the Blessed One was living at Sāvatthī in Jeta's Grove, Anāthapindika's Park. There he addressed the bhikkhus thus: "Bhikkhus." - "Venerable sir," they replied. The Blessed One said this:
+1\.  Tôi nghe như vầy. Một thời Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong Vườn Jeta (Kỳ-đà), Khu vườn của Anāthapindika (Cấp Cô Độc). Tại đó, Ngài gọi các tỳ kheo (bhikkhus - nhà sư): "Này các tỳ kheo." - "Bạch Thế Tôn," họ đáp lời. Đức Thế Tôn dạy như sau:
 
-2. "Bhikkhus, I shall teach you noble right concentration with its supports and its requisites. [^1099] Listen and attend closely to what I shall say." - "Yes, venerable sir," the bhikkhus replied. The Blessed One said this:
+2\.  "Này các tỳ kheo, Ta sẽ giảng cho các ông về chánh định cao quý cùng các yếu tố hỗ trợ và các yếu tố cần thiết của nó. [^1099] Hãy lắng nghe và chú tâm kỹ vào những gì Ta sắp nói." - "Vâng, bạch Thế Tôn," các tỳ kheo đáp. Đức Thế Tôn dạy điều này:
 
-3. "What, bhikkhus, is noble right concentration with its supports and its requisites, that is, right view, right intention, right speech, right action, right livelihood, right effort, and right mindfulness? Unification of mind equipped with these seven factors is called noble right concentration with its supports and its requisites.
+3\.  "Này các tỳ kheo, thế nào là chánh định cao quý cùng các yếu tố hỗ trợ và các yếu tố cần thiết của nó? Đó là: chánh kiến, chánh tư duy, chánh ngữ, chánh nghiệp, chánh mạng, chánh tinh tấn, và chánh niệm. Sự hợp nhất của tâm (cittassa ekaggatā - sự tập trung tâm vào một điểm) được trang bị bởi bảy yếu tố này được gọi là chánh định cao quý cùng các yếu tố hỗ trợ và các yếu tố cần thiết của nó.
 
-(VIEW)
+#### (KIẾN - QUAN ĐIỂM)
 
-4. "Therein, bhikkhus, right view comes first. [^1100] And how does right view come first? One understands wrong view as wrong view and right view as right view: this is one's right view. [^1101]
+4\.  "Trong đó, này các tỳ kheo, chánh kiến đi đầu. [^1100] Và chánh kiến đi đầu như thế nào? Người ấy hiểu tà kiến là tà kiến và chánh kiến là chánh kiến: đây là chánh kiến của người ấy. [^1101]
 
-5. "And what, bhikkhus, is wrong view? 'There is nothing given, nothing offered, nothing sacrificed; no fruit or result of good and bad actions; no this world, no other world; no mother, no father; no beings who are reborn spontaneously; no [72] good and virtuous recluses and brahmins in the world who have realised for themselves by direct knowledge and declare this world and the other world.' This is wrong view.
+5\.  "Và này các tỳ kheo, thế nào là tà kiến? 'Không có bố thí, không có cúng dường, không có tế lễ; không có quả báo của các nghiệp thiện và ác (kamma - hành động có chủ ý và kết quả của nó); không có đời này, không có đời sau; không có mẹ, không có cha; không có các chúng sanh hóa sanh (opapātika - sanh ra tức thời không qua thai bào); không có [72] các vị sa môn và bà la môn (samaṇa-brāhmaṇa - tu sĩ và người thuộc giai cấp tu sĩ/học giả thời Ấn Độ cổ) tốt lành và đức hạnh trên thế gian, những người đã tự mình chứng ngộ bằng thắng trí (abhiññā - sự hiểu biết trực tiếp, siêu việt) và tuyên bố về đời này và đời sau.' Đây là tà kiến.
 
-6. "And what, bhikkhus, is right view? Right view, I say, is twofold: there is right view that is affected by taints, partaking of merit, ripening on the side of attachment; [^1102] and there is
-right view that is noble, taintless, supramundane, a factor of the path.
+6\.  "Và này các tỳ kheo, thế nào là chánh kiến? Chánh kiến, Ta nói, có hai loại: có chánh kiến còn bị ảnh hưởng bởi các lậu hoặc (āsava - những ô nhiễm tinh thần làm rỉ chảy, trói buộc trong luân hồi), thuộc về phước báu (puññabhāgiya - có phần tạo ra công đức, quả tốt), trổ quả trong sự chấp thủ (upadhivepakka - dẫn đến kết quả liên quan đến sự bám víu, nền tảng của khổ đau tái sanh); [^1102] và có chánh kiến cao quý (ariya - thuộc về bậc thánh), không còn lậu hoặc (anāsava - đã đoạn trừ các ô nhiễm tinh thần), siêu thế (lokuttara - vượt ra ngoài thế gian thông thường, liên quan đến Niết Bàn), một chi phần của đạo lộ (maggaṅga - yếu tố cấu thành con đường giải thoát).
 
-7. "And what, bhikkhus, is right view that is affected by the taints, partaking of merit, ripening on the side of attachment? 'There is what is given and what is offered and what is sacrificed; there is fruit and result of good and bad actions; there is this world and the other world; there is mother and father; there are beings who are reborn spontaneously; there are in the world good and virtuous recluses and brahmins who have realised for themselves by direct knowledge and declare this world and the other world.' This is right view affected by taints, partaking of merit, ripening on the side of attachment.
+7\.  "Và này các tỳ kheo, thế nào là chánh kiến còn bị ảnh hưởng bởi các lậu hoặc, thuộc về phước báu, trổ quả trong sự chấp thủ? 'Có sự bố thí, có sự cúng dường, có sự tế lễ; có quả và kết quả của các nghiệp thiện và ác; có đời này và đời sau; có mẹ và cha; có các chúng sanh hóa sanh; có các vị sa môn và bà la môn tốt lành và đức hạnh trên thế gian, những người đã tự mình chứng ngộ bằng thắng trí và tuyên bố về đời này và đời sau.' Đây là chánh kiến còn bị ảnh hưởng bởi các lậu hoặc, thuộc về phước báu, trổ quả trong sự chấp thủ.
 
-8. "And what, bhikkhus, is right view that is noble, taintless, supramundane, a factor of the path? The wisdom, the faculty of wisdom, the power of wisdom, the investigation-of-states enlightenment factor, the path factor of right view in one whose mind is noble, whose mind is taintless, who possesses the noble path and is developing the noble path: [^1103] this is right view that is noble, taintless, supramundane, a factor of the path.
+8\.  "Và này các tỳ kheo, thế nào là chánh kiến cao quý, không còn lậu hoặc, siêu thế, một chi phần của đạo lộ? Trí tuệ (paññā - sự hiểu biết đúng đắn về thực tại), tuệ căn (paññindriya - khả năng nhận thức bằng trí tuệ), tuệ lực (paññābala - sức mạnh của trí tuệ), trạch pháp giác chi (dhammavicayasambojjhaṅga - yếu tố giác ngộ liên quan đến việc điều tra, phân tích các pháp), chi phần chánh kiến của đạo lộ nơi một người có tâm cao quý, tâm không còn lậu hoặc, người đang sở hữu đạo lộ cao quý và đang phát triển đạo lộ cao quý: [^1103] đây là chánh kiến cao quý, không còn lậu hoặc, siêu thế, một chi phần của đạo lộ.
 
-9. "One makes an effort to abandon wrong view and to enter upon right view: this is one's right effort. Mindfully one abandons wrong view, mindfully one enters upon and abides in right view: this is one's right mindfulness. Thus these three states run and circle around right view, that is, right view, right effort, and right mindfulness. [^1104]
+9\.  "Người ấy nỗ lực từ bỏ tà kiến và đi vào chánh kiến: đây là chánh tinh tấn của người ấy. Với chánh niệm, người ấy từ bỏ tà kiến, với chánh niệm, người ấy đi vào và an trú trong chánh kiến: đây là chánh niệm của người ấy. Như vậy, ba trạng thái này vận hành và xoay quanh chánh kiến, đó là: chánh kiến, chánh tinh tấn, và chánh niệm. [^1104]
 
-#### (INTENTION)
+#### (TƯ DUY - Ý ĐỊNH)
 
-10. "Therein, bhikkhus, right view comes first. And how does right view come first? One understands wrong intention as wrong intention and right intention as right intention: this is one's [73] right view. [^1105]
+10\. "Trong đó, này các tỳ kheo, chánh kiến đi đầu. Và chánh kiến đi đầu như thế nào? Người ấy hiểu tà tư duy là tà tư duy và chánh tư duy là chánh tư duy: đây là [73] chánh kiến của người ấy. [^1105]
 
-11. "And what, bhikkhus, is wrong intention? The intention of sensual desire, the intention of ill will, and the intention of cruelty: this is wrong intention.
+11\. "Và này các tỳ kheo, thế nào là tà tư duy? Tư duy về dục ái (kāma - ham muốn các đối tượng giác quan), tư duy về sân hận (byāpāda - ác ý, mong muốn làm hại), và tư duy về ác tâm / tâm làm hại (vihiṃsā - ý định gây đau khổ cho chúng sanh): đây là tà tư duy.
 
-12. "And what, bhikkhus, is right intention? Right intention, I say, is twofold: there is right intention that is affected by taints, partaking of merit, ripening on the side of attachment, and there is right intention that is noble, taintless, supramundane, a factor of the path.
+12\. "Và này các tỳ kheo, thế nào là chánh tư duy? Chánh tư duy, Ta nói, có hai loại: có chánh tư duy còn bị ảnh hưởng bởi các lậu hoặc, thuộc về phước báu, trổ quả trong sự chấp thủ, và có chánh tư duy cao quý, không còn lậu hoặc, siêu thế, một chi phần của đạo lộ.
 
-13. "And what, bhikkhus, is right intention that is affected by taints, partaking of merit, ripening on the side of attachment? The intention of renunciation, the intention of non-ill will, and the intention of non-cruelty: [^1106] this is right intention that is affected by taints...on the side of attachment.
+13\. "Và này các tỳ kheo, thế nào là chánh tư duy còn bị ảnh hưởng bởi các lậu hoặc, thuộc về phước báu, trổ quả trong sự chấp thủ? Tư duy về sự xuất ly / sự từ bỏ (nekkhamma - từ bỏ dục lạc, hướng đến giải thoát), tư duy về tâm không sân hận / tâm từ (abyāpāda - không có ác ý, lòng mong muốn điều tốt lành), và tư duy về tâm không làm hại / tâm bi (avihiṃsā - không có ý định gây đau khổ, lòng thương xót): [^1106] đây là chánh tư duy còn bị ảnh hưởng bởi các lậu hoặc... trổ quả trong sự chấp thủ.
 
-14. "And what, bhikkhus, is right intention that is noble, taintless, supramundane, a factor of the path? The thinking, thought, intention, mental absorption, mental fixity, directing of mind, verbal formation in one whose mind is noble, whose mind is taintless, who possesses the noble path and is developing the noble path: [^1107] this is right intention that is noble...a factor of the path.
+14\. "Và này các tỳ kheo, thế nào là chánh tư duy cao quý, không còn lậu hoặc, siêu thế, một chi phần của đạo lộ? Sự suy nghĩ (vitakka), tư duy (vicāra), ý định (saṅkappa), sự chú tâm (appanā), sự vững chắc của tâm (byappanā), sự hướng tâm (cetaso abhiniropanā), các hành động liên quan đến lời nói (vacīsaṅkhāro - các yếu tố tạo tác lời nói, ở đây chỉ các hoạt động tinh thần dẫn đến lời nói hoặc suy nghĩ có lời) nơi một người có tâm cao quý, tâm không còn lậu hoặc, người đang sở hữu đạo lộ cao quý và đang phát triển đạo lộ cao quý: [^1107] đây là chánh tư duy cao quý... một chi phần của đạo lộ.
 
-15. "One makes an effort to abandon wrong intention and to enter upon right intention: this is one's right effort. Mindfully one abandons wrong intention, mindfully one enters upon and abides in right intention: this is one's right mindfulness. Thus these three states run and circle around right intention, that is, right view, right effort, and right mindfulness. [^1108]
+15\. "Người ấy nỗ lực từ bỏ tà tư duy và đi vào chánh tư duy: đây là chánh tinh tấn của người ấy. Với chánh niệm, người ấy từ bỏ tà tư duy, với chánh niệm, người ấy đi vào và an trú trong chánh tư duy: đây là chánh niệm của người ấy. Như vậy, ba trạng thái này vận hành và xoay quanh chánh tư duy, đó là: chánh kiến, chánh tinh tấn, và chánh niệm. [^1108]
 
-(SPEECH)
+#### (NGỮ - LỜI NÓI)
 
-16. "Therein, bhikkhus, right view comes first. And how does right view come first? One understands wrong speech as wrong speech and right speech as right speech: this is one's right view.
+16\. "Trong đó, này các tỳ kheo, chánh kiến đi đầu. Và chánh kiến đi đầu như thế nào? Người ấy hiểu tà ngữ là tà ngữ và chánh ngữ là chánh ngữ: đây là chánh kiến của người ấy.
 
-17. "And what, bhikkhus, is wrong speech?.False speech, malicious speech, harsh speech, and gossip: this is wrong speech.
+17\. "Và này các tỳ kheo, thế nào là tà ngữ? Nói dối (musāvāda), nói đâm thọc / nói hai lưỡi (pisuṇāvācā), nói lời thô ác (pharusāvācā), và nói lời phù phiếm / nói nhảm (samphappalāpa): đây là tà ngữ.
 
-18. "And what, bhikkhus, is right speech? Right speech, I say, is twofold: there is right speech that is affected by taints, partaking of merit, ripening on the side of attachment; and there is [74] right speech that is noble, taintless, supramundane, a factor of the path.
+18\. "Và này các tỳ kheo, thế nào là chánh ngữ? Chánh ngữ, Ta nói, có hai loại: có chánh ngữ còn bị ảnh hưởng bởi các lậu hoặc, thuộc về phước báu, trổ quả trong sự chấp thủ; và có [74] chánh ngữ cao quý, không còn lậu hoặc, siêu thế, một chi phần của đạo lộ.
 
-19. "And what, bhikkhus, is right speech that is affected by taints, partaking of merit, ripening on the side of attachment? Abstinence from false speech, abstinence from malicious speech, abstinence from harsh speech, abstinence from gossip: this is right speech that is affected by taints...on the side of attachment.
+19\. "Và này các tỳ kheo, thế nào là chánh ngữ còn bị ảnh hưởng bởi các lậu hoặc, thuộc về phước báu, trổ quả trong sự chấp thủ? Từ bỏ nói dối, từ bỏ nói đâm thọc, từ bỏ nói lời thô ác, từ bỏ nói lời phù phiếm: đây là chánh ngữ còn bị ảnh hưởng bởi các lậu hoặc... trổ quả trong sự chấp thủ.
 
-20. "And what, bhikkhus, is right speech that is noble, taintless, supramundane, a factor of the path? The desisting from the four kinds of verbal misconduct, the abstaining, refraining, abstinence from them in one whose mind is noble, whose mind
-is taintless, who possesses the noble path and is developing the noble path: [^1109] this is right speech that is noble...a factor of the path.
+20\. "Và này các tỳ kheo, thế nào là chánh ngữ cao quý, không còn lậu hoặc, siêu thế, một chi phần của đạo lộ? Sự chấm dứt bốn loại hành vi sai trái qua lời nói (vacīduccarita - hành vi xấu ác qua lời nói), sự từ bỏ, tránh xa, kiêng cữ chúng nơi một người có tâm cao quý, tâm không còn lậu hoặc, người đang sở hữu đạo lộ cao quý và đang phát triển đạo lộ cao quý: [^1109] đây là chánh ngữ cao quý... một chi phần của đạo lộ.
 
-21. "One makes an effort to abandon wrong speech and to enter upon right speech: this is one's right effort. Mindfully one abandons wrong speech, mindfully one enters upon and abides in right speech: this is one's right mindfulness. Thus these three states run and circle around right speech, that is, right view, right effort, and right mindfulness.
+21\. "Người ấy nỗ lực từ bỏ tà ngữ và đi vào chánh ngữ: đây là chánh tinh tấn của người ấy. Với chánh niệm, người ấy từ bỏ tà ngữ, với chánh niệm, người ấy đi vào và an trú trong chánh ngữ: đây là chánh niệm của người ấy. Như vậy, ba trạng thái này vận hành và xoay quanh chánh ngữ, đó là: chánh kiến, chánh tinh tấn, và chánh niệm.
 
-#### (ACTION)
+#### (NGHIỆP - HÀNH ĐỘNG)
 
-22. "Therein, bhikkhus, right view comes first. And how does right view come first? One understands wrong action as wrong action and right action as right action: this is one's right view.
+22\. "Trong đó, này các tỳ kheo, chánh kiến đi đầu. Và chánh kiến đi đầu như thế nào? Người ấy hiểu tà nghiệp là tà nghiệp và chánh nghiệp là chánh nghiệp: đây là chánh kiến của người ấy.
 
-23. "And what, bhikkhus, is wrong action? Killing living beings, taking what is not given, and misconduct in sensual pleasures: this is wrong action.
+23\. "Và này các tỳ kheo, thế nào là tà nghiệp? Sát sanh (pāṇātipāta - cố ý giết hại chúng sanh), trộm cắp (adinnādāna - lấy của không cho), và tà dâm (kāmesumicchācāra - hành vi tình dục sai trái): đây là tà nghiệp.
 
-24. "And what, bhikkhus, is right action? Right action, I say, is twofold: there is right action that is affected by taints, partaking of merit, ripening on the side of attachment; and there is right action that is noble, taintless, supramundane, a factor of the path.
+24\. "Và này các tỳ kheo, thế nào là chánh nghiệp? Chánh nghiệp, Ta nói, có hai loại: có chánh nghiệp còn bị ảnh hưởng bởi các lậu hoặc, thuộc về phước báu, trổ quả trong sự chấp thủ; và có chánh nghiệp cao quý, không còn lậu hoặc, siêu thế, một chi phần của đạo lộ.
 
-25. "And what, bhikkhus, is right action that is affected by taints, partaking of merit, ripening on the side of attachment? Abstinence from killing living beings, abstinence from taking what is not given, abstinence from misconduct in sensual pleasures: this is right action that is affected by taints...on the side of attachment.
+25\. "Và này các tỳ kheo, thế nào là chánh nghiệp còn bị ảnh hưởng bởi các lậu hoặc, thuộc về phước báu, trổ quả trong sự chấp thủ? Từ bỏ sát sanh, từ bỏ trộm cắp, từ bỏ tà dâm: đây là chánh nghiệp còn bị ảnh hưởng bởi các lậu hoặc... trổ quả trong sự chấp thủ.
 
-26. "And what, bhikkhus, is right action that is noble, taintless, supramundane, a factor of the path? The desisting from the three kinds of bodily misconduct, the abstaining, refraining, abstinence from them in one whose mind is noble, whose mind is taintless, who possesses the noble path and is developing the noble path: this is right action [75] that is noble...a factor of the path.
+26\. "Và này các tỳ kheo, thế nào là chánh nghiệp cao quý, không còn lậu hoặc, siêu thế, một chi phần của đạo lộ? Sự chấm dứt ba loại hành vi sai trái qua thân (kāyaduccarita - hành vi xấu ác qua thân thể), sự từ bỏ, tránh xa, kiêng cữ chúng nơi một người có tâm cao quý, tâm không còn lậu hoặc, người đang sở hữu đạo lộ cao quý và đang phát triển đạo lộ cao quý: đây là chánh nghiệp [75] cao quý... một chi phần của đạo lộ.
 
-27. "One makes an effort to abandon wrong action and to enter upon right action: this is one's right effort. Mindfully one abandons wrong action, mindfully one enters upon right action: this is one's right mindfulness. Thus these three states run and circle around right action, that is, right view, right effort, and right mindfulness.
+27\. "Người ấy nỗ lực từ bỏ tà nghiệp và đi vào chánh nghiệp: đây là chánh tinh tấn của người ấy. Với chánh niệm, người ấy từ bỏ tà nghiệp, với chánh niệm, người ấy đi vào và an trú trong chánh nghiệp: đây là chánh niệm của người ấy. Như vậy, ba trạng thái này vận hành và xoay quanh chánh nghiệp, đó là: chánh kiến, chánh tinh tấn, và chánh niệm.
 
-#### (LIVELIHOOD)
+#### (MẠNG - SINH KẾ)
 
-28. "Therein, bhikkhus, right view comes first. And how does right view come first? One understands wrong livelihood as wrong livelihood and right livelihood as right livelihood: this is one's right view.
+28\. "Trong đó, này các tỳ kheo, chánh kiến đi đầu. Và chánh kiến đi đầu như thế nào? Người ấy hiểu tà mạng là tà mạng và chánh mạng là chánh mạng: đây là chánh kiến của người ấy.
 
-29. "And what, bhikkhus, is wrong livelihood? Scheming, talking, hinting, belittling, pursuing gain with gain: this is wrong livelihood. [^1110]
+29\. "Và này các tỳ kheo, thế nào là tà mạng? Mưu mẹo (kuhanā), nói nhiều (để khoe khoang) (lapanā), bóng gió (nemittikatā), chê bai (để nâng mình) (nippesikatā), dùng lợi nhỏ câu lợi lớn (lābhena lābhaṃ nijigīsanatā - các hình thức sinh kế bất chính, đặc biệt đối với tu sĩ): đây là tà mạng. [^1110]
 
-30. "And what, bhikkhus, is right livelihood? Right livelihood, I say, is twofold: there is right livelihood that is affected by taints, partaking of merit, ripening on the side of attachment; and there is right livelihood that is noble, taintless, supramundane, a factor of the path.
+30\. "Và này các tỳ kheo, thế nào là chánh mạng? Chánh mạng, Ta nói, có hai loại: có chánh mạng còn bị ảnh hưởng bởi các lậu hoặc, thuộc về phước báu, trổ quả trong sự chấp thủ; và có chánh mạng cao quý, không còn lậu hoặc, siêu thế, một chi phần của đạo lộ.
 
-31. "And what, bhikkhus, is right livelihood that is affected by taints, partaking of merit, ripening on the side of attachment? Here, bhikkhus, a noble disciple abandons wrong livelihood and gains his living by right livelihood: this is right livelihood that is affected by taints...on the side of attachment.
+31\. "Và này các tỳ kheo, thế nào là chánh mạng còn bị ảnh hưởng bởi các lậu hoặc, thuộc về phước báu, trổ quả trong sự chấp thủ? Ở đây, này các tỳ kheo, một thánh đệ tử (ariyasāvaka - người đã chứng ngộ một phần hoặc toàn bộ con đường giải thoát) từ bỏ tà mạng và kiếm sống bằng chánh mạng: đây là chánh mạng còn bị ảnh hưởng bởi các lậu hoặc... trổ quả trong sự chấp thủ.
 
-32. "And what, bhikkhus, is right livelihood that is noble, taintless, supramundane, a factor of the path? The desisting from wrong livelihood, the abstaining, refraining, abstinence from it in one whose mind is noble, whose mind is taintless, who possesses the noble path and is developing the noble path: this is right livelihood that is noble...a factor of the path.
+32\. "Và này các tỳ kheo, thế nào là chánh mạng cao quý, không còn lậu hoặc, siêu thế, một chi phần của đạo lộ? Sự chấm dứt tà mạng, sự từ bỏ, tránh xa, kiêng cữ nó nơi một người có tâm cao quý, tâm không còn lậu hoặc, người đang sở hữu đạo lộ cao quý và đang phát triển đạo lộ cao quý: đây là chánh mạng cao quý... một chi phần của đạo lộ.
 
-33. "One makes an effort to abandon wrong livelihood and to enter upon right livelihood: this is one's right effort. Mindfully one abandons wrong livelihood, mindfully one enters upon right livelihood: this is one's right mindfulness. Thus these three states run and circle around right livelihood, that is, right view, right effort, and right mindfulness.
+33\. "Người ấy nỗ lực từ bỏ tà mạng và đi vào chánh mạng: đây là chánh tinh tấn của người ấy. Với chánh niệm, người ấy từ bỏ tà mạng, với chánh niệm, người ấy đi vào và an trú trong chánh mạng: đây là chánh niệm của người ấy. Như vậy, ba trạng thái này vận hành và xoay quanh chánh mạng, đó là: chánh kiến, chánh tinh tấn, và chánh niệm.
 
-#### (THE GREAT FORTY)
+#### (BỐN MƯƠI VẤN ĐỀ LỚN)
 
-34. "Therein, bhikkhus, right view comes first. And how does right view come first? [76] In one of right view, right intention comes into being; [^1111] in one of right intention, right speech comes into being; in one of right speech, right action comes into being; in one of right action, right livelihood comes into being; in one of right livelihood, right effort comes into being; in one of
-right effort, right mindfulness comes into being; in one of right mindfulness, right concentration comes into being; in one of right concentration, right knowledge comes into being; in one of right knowledge, right deliverance comes into being. Thus, bhikkhus, the path of the disciple in higher training possesses eight factors, the arahant possesses ten factors. [^1112]
+34\. "Trong đó, này các tỳ kheo, chánh kiến đi đầu. Và chánh kiến đi đầu như thế nào? [76] Nơi người có chánh kiến, chánh tư duy sanh khởi; [^1111] nơi người có chánh tư duy, chánh ngữ sanh khởi; nơi người có chánh ngữ, chánh nghiệp sanh khởi; nơi người có chánh nghiệp, chánh mạng sanh khởi; nơi người có chánh mạng, chánh tinh tấn sanh khởi; nơi người có chánh tinh tấn, chánh niệm sanh khởi; nơi người có chánh niệm, chánh định sanh khởi; nơi người có chánh định, chánh trí (sammā ñāṇa - sự hiểu biết đúng đắn, đặc biệt là trí tuệ giải thoát) sanh khởi; nơi người có chánh trí, chánh giải thoát (sammā vimutti - sự giải thoát khỏi khổ đau và phiền não) sanh khởi. Như vậy, này các tỳ kheo, đạo lộ của bậc hữu học (sekha - người đang trên con đường tu tập, chưa đạt A-la-hán) có tám chi phần, bậc A-la-hán (arahant - người đã hoàn toàn giác ngộ, đoạn trừ mọi phiền não) có mười chi phần. [^1112]
 
-35. "Therein, bhikkhus, right view comes first. And how does right view come first? In one of right view, wrong view is abolished, and the many evil unwholesome states that originate with wrong view as condition are also abolished, and the many wholesome states that originate with right view as condition come to fulfilment by development.
+35\. "Trong đó, này các tỳ kheo, chánh kiến đi đầu. Và chánh kiến đi đầu như thế nào? Nơi người có chánh kiến, tà kiến bị đoạn trừ, và nhiều trạng thái xấu ác, bất thiện (akusala - xấu ác, mang lại kết quả khổ đau) khởi sanh với tà kiến làm điều kiện cũng bị đoạn trừ, và nhiều trạng thái thiện (kusala - tốt lành, mang lại kết quả an vui) khởi sanh với chánh kiến làm điều kiện được phát triển viên mãn.
 
-"In one of right intention, wrong intention is abolished, and the many evil unwholesome states that originate with wrong intention as condition are also abolished, and the many wholesome states that originate with right intention as condition come to fulfilment by development.
+"Nơi người có chánh tư duy, tà tư duy bị đoạn trừ, và nhiều trạng thái xấu ác, bất thiện khởi sanh với tà tư duy làm điều kiện cũng bị đoạn trừ, và nhiều trạng thái thiện khởi sanh với chánh tư duy làm điều kiện được phát triển viên mãn.
 
-"In one of right speech, wrong speech is abolished...In one of right action, wrong action is abolished...In one of right livelihood, wrong livelihood is abolished [77]...In one of right effort, wrong effort is abolished...In one of right mindfulness, wrong mindfulness is abolished...In one of right concentration, wrong concentration is abolished...In one of right knowledge, wrong knowledge is abolished...In one of right deliverance, wrong deliverance is abolished, and the many evil unwholesome states that originate with wrong deliverance as condition are also abolished, and the many wholesome states that originate with right deliverance as condition come to fulfilment by development.
+"Nơi người có chánh ngữ, tà ngữ bị đoạn trừ... Nơi người có chánh nghiệp, tà nghiệp bị đoạn trừ... Nơi người có chánh mạng, tà mạng bị đoạn trừ [77]... Nơi người có chánh tinh tấn, tà tinh tấn bị đoạn trừ... Nơi người có chánh niệm, tà niệm bị đoạn trừ... Nơi người có chánh định, tà định bị đoạn trừ... Nơi người có chánh trí, tà trí bị đoạn trừ... Nơi người có chánh giải thoát, tà giải thoát bị đoạn trừ, và nhiều trạng thái xấu ác, bất thiện khởi sanh với tà giải thoát làm điều kiện cũng bị đoạn trừ, và nhiều trạng thái thiện khởi sanh với chánh giải thoát làm điều kiện được phát triển viên mãn.
 
-36. "Thus, bhikkhus, there are twenty factors on the side of the wholesome, and twenty factors on the side of the unwholesome. [^1113] This Dhamma discourse on the Great Forty has been set rolling and cannot be stopped by any recluse or brahmin or god or Māra or Brahmā or anyone in the world.
+36\. "Như vậy, này các tỳ kheo, có hai mươi yếu tố thuộc về phần thiện, và hai mươi yếu tố thuộc về phần bất thiện. [^1113] Bài pháp thoại về Bốn Mươi Vấn Đề Lớn này đã được chuyển vận và không thể bị ngăn chặn bởi bất kỳ sa môn, bà la môn, thiên thần, Ma vương (Māra), Phạm thiên (Brahmā) hay bất kỳ ai trên thế gian.
 
-37. "Bhikkhus, if any recluse or brahmin thinks that this Dhamma discourse on the Great Forty should be censured and rejected, then there are ten legitimate deductions from his assertions that would provide grounds for censuring him here and now. If that worthy one censures right view, then he would honour and praise those recluses and brahmins who are of wrong view. If that worthy one censures right intention, [78] then he
-would honour and praise those recluses and brahmins who are of wrong intention. If that worthy one censures right speech... right action...right livelihood...right effort...right mindfulness...right concentration...right knowledge...right deliverance, then he would honour and praise those recluses and brahmins who are of wrong deliverance. If any recluse or brahmin thinks that this Dhamma discourse on the Great Forty should be censured and rejected, then these are ten legitimate deductions from his assertions that would provide grounds for censuring him here and now.
+37\. "Này các tỳ kheo, nếu có bất kỳ sa môn hay bà la môn nào nghĩ rằng bài pháp thoại về Bốn Mươi Vấn Đề Lớn này nên bị chỉ trích và bác bỏ, thì có mười suy luận hợp lý từ những khẳng định của người đó, tạo cơ sở để khiển trách người ấy ngay tại đây và bây giờ. Nếu vị đáng kính đó chỉ trích chánh kiến, thì vị ấy sẽ tôn vinh và ca ngợi những sa môn và bà la môn có tà kiến. Nếu vị đáng kính đó chỉ trích chánh tư duy, [78] thì vị ấy sẽ tôn vinh và ca ngợi những sa môn và bà la môn có tà tư duy. Nếu vị đáng kính đó chỉ trích chánh ngữ... chánh nghiệp... chánh mạng... chánh tinh tấn... chánh niệm... chánh định... chánh trí... chánh giải thoát, thì vị ấy sẽ tôn vinh và ca ngợi những sa môn và bà la môn có tà giải thoát. Nếu có bất kỳ sa môn hay bà la môn nào nghĩ rằng bài pháp thoại về Bốn Mươi Vấn Đề Lớn này nên bị chỉ trích và bác bỏ, thì đây là mười suy luận hợp lý từ những khẳng định của người đó, tạo cơ sở để khiển trách người ấy ngay tại đây và bây giờ.
 
-38. "Bhikkhus, even those teachers from Okkala, Vassa and Bhañña, [^1114] who held the doctrine of non-causality, the doctrine of non-doing, and the doctrine of nihilism, would not think that this Dhamma discourse on the Great Forty should be censured and rejected. Why is that? For fear of blame, attack, and confutation."
+38\. "Này các tỳ kheo, ngay cả những vị thầy ở Okkala, Vassa và Bhañña, [^1114] những người chủ trương thuyết vô nhân quả, thuyết vô hành (akiriyavāda - chủ trương không có nguyên nhân đạo đức và hành động không có kết quả nghiệp báo), và thuyết đoạn diệt / thuyết hư vô (natthikavāda - chủ trương không có gì tồn tại sau khi chết, phủ nhận nghiệp báo và tái sanh), cũng sẽ không nghĩ rằng bài pháp thoại về Bốn Mươi Vấn Đề Lớn này nên bị chỉ trích và bác bỏ. Tại sao vậy? Vì sợ bị khiển trách, công kích và bác bỏ."
 
-That is what the Blessed One said. The bhikkhus were satisfied and delighted in the Blessed One's words.
+Đó là những gì Đức Thế Tôn đã dạy. Các tỳ kheo đã hoan hỷ và vui mừng đón nhận lời dạy của Đức Thế Tôn.
+
+<!--pg-->
+Từ ngữ:
+- tỳ kheo / bhikkhu / monk: Nhà sư Phật giáo đã thọ giới cụ túc.
+- sự hợp nhất của tâm / cittassa ekaggatā / unification of mind: Trạng thái tâm tập trung vào một đối tượng duy nhất, một yếu tố của thiền định.
+- nghiệp / kamma / action: Hành động có chủ ý (thân, khẩu, ý) và kết quả hay hậu quả của hành động đó.
+- hóa sanh / opapātika / spontaneous rebirth: Hình thức tái sanh tức thời, không qua trung gian thai bào, thường thấy ở các cõi trời, địa ngục, ngạ quỷ.
+- sa môn và bà la môn / samaṇa-brāhmaṇa / recluses and brahmins: Thuật ngữ chỉ chung các tu sĩ, đạo sĩ, và học giả thuộc các truyền thống tôn giáo, triết học ở Ấn Độ cổ đại.
+- thắng trí / abhiññā / direct knowledge: Sự hiểu biết trực tiếp, siêu việt đối với thực tại, thường bao gồm các năng lực tâm linh đặc biệt.
+- lậu hoặc / āsava / taint, effluent, corruption: Những ô nhiễm tinh thần sâu kín (như dục lậu, hữu lậu, vô minh lậu) làm tâm "rỉ chảy", trói buộc chúng sanh trong vòng luân hồi.
+- thuộc về phước báu / puññabhāgiya / partaking of merit: Liên quan đến việc tạo ra công đức, nghiệp thiện, dẫn đến kết quả tốt đẹp trong tương lai (nhưng vẫn trong luân hồi).
+- trổ quả trong sự chấp thủ / upadhivepakka / ripening on the side of attachment: Mang lại kết quả liên quan đến các đối tượng của sự bám víu (upadhi), là nền tảng cho sự khổ đau và tái sanh trong luân hồi.
+- cao quý / ariya / noble: Thuộc về bậc thánh, người đã chứng ngộ chân lý, đã đi vào hoặc hoàn thành con đường giải thoát.
+- không còn lậu hoặc / anāsava / taintless, incorruptible: Đã hoàn toàn đoạn trừ các lậu hoặc, trạng thái tâm của bậc A-la-hán.
+- siêu thế / lokuttara / supramundane: Vượt ra ngoài thế gian thông thường (gồm các cõi dục giới, sắc giới, vô sắc giới), liên quan trực tiếp đến đạo, quả và Niết Bàn.
+- chi phần của đạo lộ / maggaṅga / path factor: Yếu tố cấu thành Bát Chánh Đạo, con đường dẫn đến giải thoát.
+- trí tuệ / paññā / wisdom: Sự hiểu biết đúng đắn, sâu sắc về bản chất của thực tại (vô thường, khổ, vô ngã), phân biệt được thiện và bất thiện.
+- tuệ căn / paññindriya / faculty of wisdom: Khả năng nhận thức, thẩm thấu chân lý bằng trí tuệ; một trong năm căn (ngũ căn).
+- tuệ lực / paññābala / power of wisdom: Sức mạnh của trí tuệ có khả năng đoạn trừ vô minh và phiền não; một trong năm lực (ngũ lực).
+- trạch pháp giác chi / dhammavicayasambojjhaṅga / investigation-of-states enlightenment factor: Một trong bảy yếu tố giác ngộ (thất giác chi), liên quan đến khả năng điều tra, phân tích, thẩm định các pháp (hiện tượng tâm-vật lý) để thấy rõ bản chất của chúng.
+- dục ái / kāma / sensual desire: Sự ham muốn, khao khát đối với các đối tượng của năm giác quan (sắc, thanh, hương, vị, xúc).
+- sân hận / byāpāda / ill will: Ác ý, tâm trạng mong muốn làm hại, gây đau khổ cho người khác hoặc chúng sanh khác.
+- ác tâm / tâm làm hại / vihiṃsā / cruelty, harmfulness: Ý định gây tổn thương, đau khổ cho chúng sanh.
+- sự xuất ly / sự từ bỏ / nekkhamma / renunciation: Sự từ bỏ dục lạc thế gian, từ bỏ đời sống gia đình để tu tập, hoặc rộng hơn là từ bỏ các ràng buộc tâm lý.
+- tâm không sân hận / tâm từ / abyāpāda / non-ill will, loving-kindness: Tâm không có ác ý, mong muốn điều tốt lành, an vui cho tất cả chúng sanh.
+- tâm không làm hại / tâm bi / avihiṃsā / non-cruelty, compassion: Tâm không có ý định gây đau khổ, lòng thương xót đối với sự đau khổ của chúng sanh.
+- hành động liên quan đến lời nói / vacīsaṅkhāro / verbal formation: Các yếu tố tạo tác lời nói, bao gồm cả những hoạt động tinh thần như suy nghĩ (tầm - vitakka) và tư duy (tứ - vicāra) trước khi phát ra lời nói. Trong ngữ cảnh này, nó chỉ các hoạt động tinh thần thuộc về Chánh Tư Duy siêu thế.
+- nói dối / musāvāda / false speech: Cố ý nói sai sự thật để lừa dối.
+- nói đâm thọc / nói hai lưỡi / pisuṇāvācā / malicious speech, slander: Nói lời chia rẽ, gây bất hòa giữa người khác.
+- nói lời thô ác / pharusāvācā / harsh speech: Nói lời mắng nhiếc, chửi rủa, cay độc, làm tổn thương người khác.
+- nói lời phù phiếm / nói nhảm / samphappalāpa / gossip, idle chatter: Nói những lời vô ích, không mang lại lợi ích, tốn thời gian.
+- hành vi sai trái qua lời nói / vacīduccarita / verbal misconduct: Bốn loại tà ngữ nói trên (nói dối, nói đâm thọc, nói thô ác, nói phù phiếm).
+- sát sanh / pāṇātipāta / killing living beings: Cố ý tước đoạt mạng sống của chúng sanh.
+- trộm cắp / adinnādāna / taking what is not given: Lấy tài sản của người khác mà không được sự cho phép.
+- tà dâm / kāmesumicchācāra / misconduct in sensual pleasures: Hành vi tình dục sai trái, vi phạm các chuẩn mực đạo đức (ví dụ: ngoại tình).
+- hành vi sai trái qua thân / kāyaduccarita / bodily misconduct: Ba loại tà nghiệp nói trên (sát sanh, trộm cắp, tà dâm).
+- mưu mẹo, nói nhiều, bóng gió, chê bai, dùng lợi nhỏ câu lợi lớn / kuhanā, lapanā, nemittikatā, nippesikatā, lābhena lābhaṃ nijigīsanatā / scheming, talking, hinting, belittling, pursuing gain with gain: Các hình thức kiếm sống không chân chính, thường dùng thủ đoạn lừa dối, khoe khoang, ám chỉ, hạ thấp người khác để trục lợi, đặc biệt bị lên án đối với tu sĩ.
+- thánh đệ tử / ariyasāvaka / noble disciple: Người đệ tử của Đức Phật đã chứng ngộ ít nhất là quả Dự Lưu (Sotāpanna), đã bước vào dòng thánh.
+- chánh trí / sammā ñāṇa / right knowledge: Sự hiểu biết đúng đắn, trí tuệ phát sinh sau khi đạt được chánh định, đặc biệt là trí tuệ thấy rõ Tứ Thánh Đế và trí tuệ dẫn đến giải thoát (đạo trí và quả trí).
+- chánh giải thoát / sammā vimutti / right deliverance: Sự giải thoát hoàn toàn khỏi mọi phiền não và khổ đau (Niết Bàn), là kết quả cuối cùng của việc thực hành Bát Chánh Đạo, đặc biệt là sự giải thoát của bậc A-la-hán.
+- bậc hữu học / sekha / disciple in higher training: Người đang còn phải tu học để đạt đến mục tiêu cuối cùng, bao gồm các bậc thánh từ Dự Lưu đến A-na-hàm.
+- bậc A-la-hán / arahant / arahant: Bậc thánh đã hoàn toàn giác ngộ, đoạn tận mọi lậu hoặc, không còn tái sanh, đã đạt được Niết Bàn.
+- thiện / kusala / wholesome: Trạng thái tâm hay hành động tốt lành, khéo léo, mang lại kết quả an vui, hạnh phúc và tiến bộ trên con đường tu tập.
+- bất thiện / akusala / unwholesome: Trạng thái tâm hay hành động xấu ác, vụng về, mang lại kết quả khổ đau, phiền não và chướng ngại trên con đường tu tập.
+- Ma vương / Māra / Māra: Nhân vật tượng trưng cho sự cám dỗ, chướng ngại, cái chết, và các thế lực ngăn cản sự tu tập giải thoát.
+- Phạm thiên / Brahmā / Brahmā: Vị trời ở cõi trời Sắc giới hoặc Vô sắc giới, có tuổi thọ rất dài và năng lực cao, nhưng vẫn còn trong vòng luân hồi.
+- thuyết vô nhân quả, thuyết vô hành / akiriyavāda / doctrine of non-causality, doctrine of non-doing: Chủ trương triết học phủ nhận mối quan hệ nhân quả đạo đức, cho rằng hành động (nghiệp) không tạo ra kết quả, không có tội phước.
+- thuyết đoạn diệt / thuyết hư vô / natthikavāda / nihilism: Chủ trương triết học cho rằng không có gì tồn tại sau khi chết, phủ nhận sự tồn tại của đời sau, nghiệp báo và tái sanh.

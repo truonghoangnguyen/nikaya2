@@ -1,4 +1,4 @@
-# 31 The Shorter Discourse in Gosinga
+# 31. The Shorter Discourse in Gosinga
 ***(Cūlagosinga Sutta)***
 
 1\. Thus have I heard. On one occasion the Blessed One was living at Nādikā in the Brick House.

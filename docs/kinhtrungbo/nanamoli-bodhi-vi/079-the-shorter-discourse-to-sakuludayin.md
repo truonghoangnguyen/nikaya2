@@ -1,144 +1,181 @@
-# 79 The Shorter Discourse to Sakuludāyin
+# 79. Kinh Tiểu Sakuludāyin
 ***(Cūḷasakuludāyi Sutta)***
 
-1. Thus have I heard. On one occasion the Blessed One was living at Rājagaha in the Bamboo Grove, the Squirrels' Sanctuary. Now on that occasion the wanderer Sakuludāyin was staying in the Peacocks' Sanctuary, the wanderers' park, with a large assembly of wanderers.
+1\.  Như vầy tôi nghe. Một thời Đức Thế Tôn trú tại Vương Xá (Rājagaha), trong Rừng Trúc, nơi nuôi sóc (Kalandakanivāpa). Bấy giờ, du sĩ Sakuludāyin đang trú tại Khu nuôi công, vườn của các du sĩ (Moranivāpe paribbājakārāme), cùng với đông đảo các du sĩ.
 
-2. Then, when it was morning, the Blessed One dressed, and taking his bowl and outer robe, went to Rājagaha for alms. Then he thought: "It is still too early to wander for alms in Rājagaha. Suppose I went to the wanderer Sakuludāyin in the Peacocks' Sanctuary, the wanderers' park."
+2\.  Rồi vào buổi sáng, Đức Thế Tôn đắp y, mang bát, vào thành Vương Xá để khất thực. Sau đó, Ngài nghĩ: "Vẫn còn quá sớm để đi khất thực ở Vương Xá. Hay là ta đến chỗ du sĩ Sakuludāyin ở Khu nuôi công, vườn của các du sĩ."
 
-3-4. Then the Blessed One went to the Peacocks' Sanctuary, the wanderers' park. Now on that occasion the wanderer Sakuludāyin was seated with a large assembly of wanderers who were making an uproar...(as Sutta 77, §§4-5) [30]..."For what discussion are you sitting together here now, Udāyin? And what was your discussion that was interrupted?"
+3-4. Rồi Đức Thế Tôn đi đến Khu nuôi công, vườn của các du sĩ. Bấy giờ, du sĩ Sakuludāyin đang ngồi cùng với đông đảo các du sĩ, họ đang la hét ồn ào... (như Kinh 77, đoạn 4-5) [30]... "Này Udāyin, các vị đang ngồi bàn luận chuyện gì ở đây vậy? Và cuộc bàn luận bị gián đoạn của các vị là gì?"
 
-3. "Venerable sir, let be the discussion for which we are now sitting together here. The Blessed One can well hear about it later. Venerable sir, when I do not come to this assembly, then it sits talking many kinds of pointless talk. But when I have come to this assembly, then it sits looking up to me, thinking: 'Let us hear the Dhamma that the recluse Udāyin expounds.' However, when [31] the Blessed One comes, then both I and this assembly sit looking up to the Blessed One, thinking: 'Let us hear the Dhamma that the Blessed One expounds."
+5\.  "Thưa Tôn giả, xin hãy khoan bàn đến chuyện chúng con đang ngồi bàn luận ở đây. Đức Thế Tôn có thể nghe về chuyện đó sau cũng được. Thưa Tôn giả, khi con không đến hội chúng này, thì họ ngồi nói đủ thứ chuyện vô ích. Nhưng khi con đến hội chúng này, thì họ ngồi trông chờ vào con, nghĩ rằng: 'Chúng ta hãy nghe Giáo Pháp (Dhamma - lời dạy của Đức Phật) mà Sa môn (recluse - người tu hành khổ hạnh) Udāyin giảng giải.' Tuy nhiên, khi [31] Đức Thế Tôn đến, thì cả con và hội chúng này đều ngồi trông chờ vào Đức Thế Tôn, nghĩ rằng: 'Chúng ta hãy nghe Giáo Pháp mà Đức Thế Tôn giảng giải.'"
 
-4. "Then, Udāyin, suggest something that I should speak about."
+6\.  "Vậy Udāyin, hãy gợi ý một đề tài mà Ta nên nói."
 
-"Venerable sir, in recent days there was one claiming to be omniscient and all-seeing, to have complete knowledge and vision thus: 'Whether I am walking or standing or sleeping or awake, knowledge and vision are continuously and uninterrupt-
-edly present to me.' When I asked him a question about the past, he prevaricated, led the talk aside, and showed anger, hate, and bitterness. Then I remembered the Blessed One thus: 'Ah, surely it is the Blessed One, surely it is the Sublime One who is skilled in these things.'"
+"Thưa Tôn giả, gần đây có người tự nhận là bậc toàn tri, toàn kiến (omniscient and all-seeing - biết hết tất cả, thấy hết tất cả), có tri kiến hoàn toàn (complete knowledge and vision - sự hiểu biết và thấy biết trọn vẹn) như sau: 'Dù ta đi, đứng, ngủ hay thức, tri kiến luôn có mặt liên tục, không gián đoạn.' Khi con hỏi vị ấy một câu hỏi về quá khứ, vị ấy đã lảng tránh, lái sang chuyện khác, và tỏ ra giận dữ, căm ghét, cay đắng. Lúc đó, con nhớ đến Đức Thế Tôn như vầy: 'Ồ, chắc chắn là Đức Thế Tôn, chắc chắn là Đức Thiện Thệ mới là người thiện xảo về những điều này.'"
 
-"But, Udāyin, who was it that claimed to be omniscient and all-seeing...yet when asked a question by you about the past, prevaricated, led the talk aside, and showed anger, hate, and bitterness?"
+"Nhưng này Udāyin, ai là người đã tự nhận là bậc toàn tri, toàn kiến... nhưng khi ông hỏi một câu về quá khứ, lại lảng tránh, lái sang chuyện khác, và tỏ ra giận dữ, căm ghét, cay đắng?"
 
-"It was the Niganṭha Nātaputta, venerable sir."
+"Đó là Ni-kiền-tử Nātaputta (Niganṭha Nātaputta), thưa Tôn giả."
 
-7. "Udāyin, if someone should recollect his manifold past lives, that is, one birth, two births...thus, with their aspects and particulars, should he recollect his manifold past lives, then either he might ask me a question about the past or I might ask him a question about the past, and he might satisfy my mind with his answer to my question or I might satisfy his mind with my answer to his question. If someone with the divine eye, which is purified and surpasses the human, should see beings passing away and reappearing, inferior and superior, fair and ugly, fortunate and unfortunate... and understand how beings pass on according to their actions, then either he might ask me a question about the future [32] or I might ask him a question about the future, and he might satisfy my mind with his answer to my question or I might satisfy his mind with my answer to his question. But let be the past, Udāyin, let be the future. I shall teach you the Dhamma: When this exists, that comes to be; with the arising of this, that arises. When this does not exist, that does not come to be; with the cessation of this, that ceases."782
+7\.  "Này Udāyin, nếu có người nào nhớ lại nhiều đời quá khứ của mình (recollect his manifold past lives - nhớ lại nhiều kiếp sống trước đây), nghĩa là một kiếp, hai kiếp... như vậy, với các khía cạnh và chi tiết của chúng, nhớ lại nhiều đời quá khứ của mình, thì hoặc vị ấy có thể hỏi Ta một câu hỏi về quá khứ, hoặc Ta có thể hỏi vị ấy một câu hỏi về quá khứ, và vị ấy có thể làm tâm Ta hài lòng bằng câu trả lời của mình, hoặc Ta có thể làm tâm vị ấy hài lòng bằng câu trả lời của Ta. Nếu có người nào với thiên nhãn (divine eye - con mắt của chư thiên), thanh tịnh, vượt người thường, thấy chúng sinh chết đi và tái sinh (beings passing away and reappearing - sự chết và sinh lại của các loài hữu tình), hạ liệt và cao sang, xinh đẹp và xấu xí, may mắn và bất hạnh... và hiểu rõ chúng sinh đi tái sinh tùy theo nghiệp (according to their actions - dựa vào hành động thiện ác đã tạo), thì hoặc vị ấy có thể hỏi Ta một câu hỏi về tương lai [32] hoặc Ta có thể hỏi vị ấy một câu hỏi về tương lai, và vị ấy có thể làm tâm Ta hài lòng bằng câu trả lời của mình, hoặc Ta có thể làm tâm vị ấy hài lòng bằng câu trả lời của Ta. Nhưng hãy để quá khứ qua đi, Udāyin, hãy để tương lai lại. Ta sẽ dạy ông Giáo Pháp: Khi cái này có, cái kia có; do cái này sinh, cái kia sinh. Khi cái này không có, cái kia không có; do cái này diệt, cái kia diệt."782
 
-8. "Venerable sir, I cannot even recollect with their aspects and particulars all that I have experienced within this present existence, so how should I recollect my manifold past lives, that is, one birth, two births...with their aspects and particulars, as the Blessed One does? And I cannot now even see a mud-goblin, so how should I with the divine eye, which is purified and surpasses the human, see beings passing away and reappearing, inferior and superior, fair and ugly, fortunate and unfortunate...and understand how beings pass on according to their actions, as the Blessed One does? But, venerable sir, when the Blessed One told me: 'But let be the past, Udāyin, let be the future. I shall teach you the Dhamma: When this exists, that comes to be; with the arising
-of this, that arises. When this does not exist, that does not come to be; with the cessation of this, that ceases' - that is even more unclear to me. Perhaps, venerable sir, I might satisfy the Blessed One's mind by answering a question about our own teachers' doctrine."
+8\.  "Thưa Tôn giả, con thậm chí còn không thể nhớ hết với các khía cạnh và chi tiết tất cả những gì con đã trải qua trong đời này, thì làm sao con có thể nhớ lại nhiều đời quá khứ của mình, nghĩa là một kiếp, hai kiếp... với các khía cạnh và chi tiết, như Đức Thế Tôn? Và bây giờ con thậm chí còn không thấy được một con yêu tinh bùn, thì làm sao con có thể với thiên nhãn, thanh tịnh, vượt người thường, thấy chúng sinh chết đi và tái sinh, hạ liệt và cao sang, xinh đẹp và xấu xí, may mắn và bất hạnh... và hiểu rõ chúng sinh đi tái sinh tùy theo nghiệp, như Đức Thế Tôn? Nhưng, thưa Tôn giả, khi Đức Thế Tôn nói với con: 'Nhưng hãy để quá khứ qua đi, Udāyin, hãy để tương lai lại. Ta sẽ dạy ông Giáo Pháp: Khi cái này có, cái kia có; do cái này sinh, cái kia sinh. Khi cái này không có, cái kia không có; do cái này diệt, cái kia diệt' - điều đó lại càng không rõ hơn đối với con. Có lẽ, thưa Tôn giả, con có thể làm tâm Đức Thế Tôn hài lòng bằng cách trả lời một câu hỏi về giáo lý của thầy chúng con."
 
-9. "Well, Udāyin, what is taught in your own teachers' doctrine?"
+9\.  "Vậy, Udāyin, giáo lý của thầy ông dạy điều gì?"
 
-"Venerable sir, it is taught that in our own teachers' doctrine: 'This is the perfect splendour, this is the perfect splendour!'"
+"Thưa Tôn giả, giáo lý của thầy chúng con dạy rằng: 'Đây là quang sắc tối thượng, đây là quang sắc tối thượng (perfect splendour - vẻ rực rỡ hoàn hảo nhất)!'"
 
-"But, Udāyin, since it is taught in your own teachers' doctrine: 'This is the perfect splendour, this is the perfect splendour!' what is that perfect splendour?"
+"Nhưng, Udāyin, vì giáo lý của thầy ông dạy rằng: 'Đây là quang sắc tối thượng, đây là quang sắc tối thượng!' vậy quang sắc tối thượng đó là gì?"
 
-"Venerable sir, that splendour is the perfect splendour which is unsurpassed by any other splendour higher or more sublime."
+"Thưa Tôn giả, quang sắc đó là quang sắc tối thượng mà không có quang sắc nào khác cao hơn hay vi diệu hơn có thể vượt qua."
 
-"But, Udāyin, what is that splendour which is unsurpassed by any other splendour higher or more sublime?" [33]
+"Nhưng, Udāyin, quang sắc mà không có quang sắc nào khác cao hơn hay vi diệu hơn có thể vượt qua đó là gì?" [33]
 
-"Venerable sir, that splendour is the perfect splendour which is unsurpassed by any other splendour higher or more sublime."
+"Thưa Tôn giả, quang sắc đó là quang sắc tối thượng mà không có quang sắc nào khác cao hơn hay vi diệu hơn có thể vượt qua."
 
-10. "Udāyin, you might continue for a long time in this way. You say: 'Venerable sir, that splendour is the perfect splendour which is unsurpassed by any other splendour higher or more sublime,' yet you do not indicate what that splendour is. Suppose a man were to say: 'I am in love with the most beautiful girl in this country.' Then they would ask him: 'Good man, that most beautiful girl in this country with whom you are in love - do you know whether she is from the noble class or the brahmin class or the merchant class or the wórker class?' and he would reply: 'No.' Then they would ask him: 'Good man, that most beautiful girl in this country with whom you are in love do you know her name and clan?...Whether she is tall or short or of middle height?...Whether she is dark or brown or goldenskinned?... What village or town or city she lives in?' and he would reply: 'No.' And then they would ask him: 'Good man, do you then love a girl you have never known or seen?' and he would reply: 'Yes.' What do you think, Udāyin, that being so, would not that man's talk amount to nonsense?"
+10\. "Udāyin, ông có thể tiếp tục nói như vậy rất lâu nữa. Ông nói: 'Thưa Tôn giả, quang sắc đó là quang sắc tối thượng mà không có quang sắc nào khác cao hơn hay vi diệu hơn có thể vượt qua,' nhưng ông lại không chỉ ra được quang sắc đó là gì. Giả sử có một người đàn ông nói: 'Tôi yêu cô gái đẹp nhất xứ này.' Rồi người ta sẽ hỏi anh ta: 'Này anh bạn, cô gái đẹp nhất xứ này mà anh yêu đó - anh có biết cô ấy thuộc giai cấp quý tộc, bà-la-môn, thương gia, hay thợ thuyền không?' và anh ta sẽ trả lời: 'Không.' Rồi người ta sẽ hỏi anh ta: 'Này anh bạn, cô gái đẹp nhất xứ này mà anh yêu đó - anh có biết tên và dòng họ cô ấy không?... Cô ấy cao, thấp hay tầm thước?... Cô ấy da đen, nâu hay vàng óng?... Cô ấy sống ở làng, thị trấn hay thành phố nào?' và anh ta sẽ trả lời: 'Không.' Và rồi người ta sẽ hỏi anh ta: 'Này anh bạn, vậy là anh yêu một cô gái mà anh chưa từng biết hay thấy mặt sao?' và anh ta sẽ trả lời: 'Vâng.' Ông nghĩ sao, Udāyin, nếu vậy, lời nói của người đàn ông đó chẳng phải là nhảm nhí sao?"
 
-"Surely, venerable sir, that being so, that man's talk would amount to nonsense."
+"Chắc chắn rồi, thưa Tôn giả, nếu vậy, lời nói của người đàn ông đó sẽ là nhảm nhí."
 
-"But in the same way, Udāyin, you say thus: 'That splendour is the perfect splendour which is unsurpassed by any other splendour higher or more sublime,' yet you do not indicate
-what that splendour is."
+"Nhưng cũng tương tự như vậy, Udāyin, ông nói rằng: 'Quang sắc đó là quang sắc tối thượng mà không có quang sắc nào khác cao hơn hay vi diệu hơn có thể vượt qua,' nhưng ông lại không chỉ ra được quang sắc đó là gì."
 
-11. "Venerable sir, just as a beautiful beryl gem of purest water, eight-faceted, well cut, lying on red brocade, glows, radiates, and shines, of such splendour is the self [surviving] unimpaired after death."783
+11\. "Thưa Tôn giả, giống như một viên ngọc lưu ly đẹp, nước trong nhất, tám cạnh, cắt khéo, đặt trên tấm vải gấm đỏ, nó phát sáng, tỏa sáng, và chiếu sáng, tự ngã (self - cái tôi, linh hồn thường được cho là tồn tại độc lập, trường tồn) tồn tại không tổn hại sau khi chết783 cũng có quang sắc như vậy."
 
-12. "What do you think, Udāyin? This beautiful beryl gēm of purest water, eight-faceted, well cut, lying on red brocade, [34] which glows, radiates, and shines, or a glowworm in the thick darkness of the night - of these two, which gives off the splendour that is more excellent and sublime?" - "The glowworm in the thick darkness of the night, venerable sir."
+12\. "Ông nghĩ sao, Udāyin? Viên ngọc lưu ly đẹp này, nước trong nhất, tám cạnh, cắt khéo, đặt trên tấm vải gấm đỏ, [34] nó phát sáng, tỏa sáng, và chiếu sáng, hay một con đom đóm trong đêm tối dày đặc - trong hai thứ này, cái nào tỏa ra quang sắc tuyệt hảo và vi diệu hơn?" - "Con đom đóm trong đêm tối dày đặc, thưa Tôn giả."
 
-13. "What do you think, Udāyin? This glowworm in the thick darkness of the night or an oil-lamp in the thick darkness of the night - of these two, which gives off the splendour that is more excellent and sublime?" - "The oil-lamp, venerable sir."
+13\. "Ông nghĩ sao, Udāyin? Con đom đóm này trong đêm tối dày đặc hay một ngọn đèn dầu trong đêm tối dày đặc - trong hai thứ này, cái nào tỏa ra quang sắc tuyệt hảo và vi diệu hơn?" - "Ngọn đèn dầu, thưa Tôn giả."
 
-14. "What do you think, Udāyin? This oil-lamp in the thick darkness of the night or a great bonfire in the thick darkness of the night - of these two, which gives off the splendour that is more excellent and sublime?" - "The great bonfire, venerable sir."
+14\. "Ông nghĩ sao, Udāyin? Ngọn đèn dầu này trong đêm tối dày đặc hay một đống lửa lớn trong đêm tối dày đặc - trong hai thứ này, cái nào tỏa ra quang sắc tuyệt hảo và vi diệu hơn?" - "Đống lửa lớn, thưa Tôn giả."
 
-15. "What do you think, Udāyin? This great bonfire in the thick darkness of the night or the morning star towards dawn in a clear cloudless sky - of these two, which gives off the splendour that is more excellent and sublime?" - "The morning star towards dawn in a clear cloudless sky, venerable sir."
+15\. "Ông nghĩ sao, Udāyin? Đống lửa lớn này trong đêm tối dày đặc hay sao mai lúc gần sáng trên bầu trời trong không mây - trong hai thứ này, cái nào tỏa ra quang sắc tuyệt hảo và vi diệu hơn?" - "Sao mai lúc gần sáng trên bầu trời trong không mây, thưa Tôn giả."
 
-16. "What do you think, Udāyin? The morning star towards dawn in a clear cloudless sky or the full moon at midnight in a clear cloudless sky on the Uposatha day of the fifteenth - of these two, which gives off the splendour that is more excellent and sublime?" - "The full moon at midnight in a clear cloudless sky on the Uposatha day of the fifteenth, venerable sir." [35]
+16\. "Ông nghĩ sao, Udāyin? Sao mai lúc gần sáng trên bầu trời trong không mây hay mặt trăng tròn vào nửa đêm ngày Uposatha (ngày trai giới) rằm (thứ mười lăm) trên bầu trời trong không mây - trong hai thứ này, cái nào tỏa ra quang sắc tuyệt hảo và vi diệu hơn?" - "Mặt trăng tròn vào nửa đêm ngày Uposatha rằm trên bầu trời trong không mây, thưa Tôn giả." [35]
 
-17. "What do you think, Udāyin? The full moon at midnight in a clear cloudless sky on the Uposatha day of the fifteenth, or the full disk of the sun at midday in a clear cloudless sky in autumn in the last month of the rainy season - of these two, which gives off the splendour that is more excellent and sublime?" - "The full disk of the sun at midday in a clear cloudless sky in autumn in the last month of the rainy season, venerable sir."
+17\. "Ông nghĩ sao, Udāyin? Mặt trăng tròn vào nửa đêm ngày Uposatha rằm trên bầu trời trong không mây, hay mặt trời tròn đầy vào giữa trưa mùa thu, tháng cuối mùa mưa, trên bầu trời trong không mây - trong hai thứ này, cái nào tỏa ra quang sắc tuyệt hảo và vi diệu hơn?" - "Mặt trời tròn đầy vào giữa trưa mùa thu, tháng cuối mùa mưa, trên bầu trời trong không mây, thưa Tôn giả."
 
-18. "Beyond this, Udāyin, I know of very many gods [whose splendour] the radiance of the sun and moon does not match, yet I do not say that there is no other splendour higher or more sub-
-lime than that splendour. But you, Udāyin, say of that splendour which is lower and meaner than a glowworm's: 'This is the perfect splendour,' yet you do not indicate what that splendour is."
+18\. "Ngoài những thứ này ra, Udāyin, Ta biết rất nhiều vị trời mà ánh sáng của mặt trời và mặt trăng không thể sánh bằng, nhưng Ta không nói rằng không có quang sắc nào khác cao hơn hay vi diệu hơn quang sắc đó. Nhưng ông, Udāyin, lại nói về quang sắc thấp kém và thua劣 hơn cả con đom đóm rằng: 'Đây là quang sắc tối thượng,' mà ông lại không chỉ ra được quang sắc đó là gì."
 
-19. "The Blessed One has terminated the discussion; the Sublime One has terminated the discussion."
+19\. "Đức Thế Tôn đã kết thúc cuộc bàn luận; Đức Thiện Thệ đã kết thúc cuộc bàn luận (bẻ gãy lý luận)."
 
-"But, Udāyin, why do you say that?"
+"Nhưng, Udāyin, tại sao ông lại nói vậy?"
 
-"Venerable sir, it is taught in our own teachers' doctrine: 'This is the perfect splendour, this is the perfect splendour.' But on being pressed and questioned and cross-questioned about our own teachers' doctrine by the Blessed One, we are found empty, hollow, and mistaken."
+"Thưa Tôn giả, giáo lý của thầy chúng con dạy rằng: 'Đây là quang sắc tối thượng, đây là quang sắc tối thượng.' Nhưng khi bị Đức Thế Tôn truy hỏi, chất vấn, và gạn hỏi về giáo lý của thầy chúng con, chúng con bị thấy là trống rỗng, rỗng tuếch, và sai lầm."
 
-20. "How is it, Udāyin, is there an entirely pleasant world? Is there a practical way to realise an entirely pleasant world?"
+20\. "Vậy thì sao, Udāyin, có một thế giới hoàn toàn an lạc (entirely pleasant world - cõi giới chỉ có hạnh phúc) không? Có con đường thực hành (practical way - phương pháp tu tập) để chứng đạt một thế giới hoàn toàn an lạc không?"
 
-"Venerable sir, it is taught in our own teachers' doctrine: 'There is an entirely pleasant world; there is a practical way to realise an entirely pleasant world.'"
+"Thưa Tôn giả, giáo lý của thầy chúng con dạy rằng: 'Có một thế giới hoàn toàn an lạc; có một con đường thực hành để chứng đạt một thế giới hoàn toàn an lạc.'"
 
-21. "But, Udāyin, what is that practical way to realise an entirely pleasant world?"
+21\. "Nhưng, Udāyin, con đường thực hành để chứng đạt thế giới hoàn toàn an lạc đó là gì?"
 
-"Here, venerable sir, abandoning the killing of living beings, someone abstains from killing living beings; abandoning the taking of what is not given, he abstains from taking what is not given; abandoning misconduct in sensual pleasures, he abstains from misconduct in sensual pleasures; [36] abandoning false speech, he abstains from false speech; or else he undertakes and practises some kind of asceticism. This is the practical way to realise an entirely pleasant world."
+"Ở đây, thưa Tôn giả, từ bỏ sát sinh, người ấy tránh xa sát sinh; từ bỏ trộm cắp, người ấy tránh xa trộm cắp; từ bỏ tà hạnh trong các dục lạc (misconduct in sensual pleasures - hành vi sai trái liên quan đến ham muốn), người ấy tránh xa tà hạnh trong các dục lạc; [36] từ bỏ nói dối, người ấy tránh xa nói dối; hoặc người ấy thực hành một loại khổ hạnh (asceticism - sự ép xác tu hành) nào đó. Đây là con đường thực hành để chứng đạt một thế giới hoàn toàn an lạc."
 
-22. "What do you think, Udāyin? On an occasion when he abandons the killing of living beings and abstains from killing living beings, does his self then feel only pleasure or both pleasure and pain?"
+22\. "Ông nghĩ sao, Udāyin? Vào lúc người ấy từ bỏ sát sinh và tránh xa sát sinh, tự ngã của người ấy lúc đó chỉ cảm thấy lạc hay cả lạc lẫn khổ?"
 
-"Both pleasure and pain, venerable sir."
+"Cả lạc lẫn khổ, thưa Tôn giả."
 
-"What do you think, Udāyin? On an occasion when he abandons the taking of what is not given and abstains from taking what is not given... when he abandons misconduct in sensual pleasures and abstains from misconduct in sensual pleasures... when he abandons false speech and abstains from false speech, does his self then feel only pleasure or both pleasure and pain?"
+"Ông nghĩ sao, Udāyin? Vào lúc người ấy từ bỏ trộm cắp và tránh xa trộm cắp... khi người ấy từ bỏ tà hạnh trong các dục lạc và tránh xa tà hạnh trong các dục lạc... khi người ấy từ bỏ nói dối và tránh xa nói dối, tự ngã của người ấy lúc đó chỉ cảm thấy lạc hay cả lạc lẫn khổ?"
 
-"Both pleasure and pain, venerable sir."
+"Cả lạc lẫn khổ, thưa Tôn giả."
 
-"What do you think, Udāyin? On an occasion when he under-
-takes and practises some kind of asceticism, does his self then feel only pleasure or both pleasure and pain?"
+"Ông nghĩ sao, Udāyin? Vào lúc người ấy thực hành một loại khổ hạnh nào đó, tự ngã của người ấy lúc đó chỉ cảm thấy lạc hay cả lạc lẫn khổ?"
 
-"Both pleasure and pain, venerable sir."
+"Cả lạc lẫn khổ, thưa Tôn giả."
 
-"What do you think, Udāyin? Does the realisation of an entirely pleasant world come about by following a way of mixed pleasure and pain?"
+"Ông nghĩ sao, Udāyin? Có phải sự chứng đạt một thế giới hoàn toàn an lạc lại đến từ việc đi theo con đường pha trộn lạc và khổ không?"
 
-23. "The Blessed One has terminated the discussion; the Sublime One has terminated the discussion."
+23\. "Đức Thế Tôn đã kết thúc cuộc bàn luận; Đức Thiện Thệ đã kết thúc cuộc bàn luận."
 
-"But, Udāyin, why do you say that?"
+"Nhưng, Udāyin, tại sao ông lại nói vậy?"
 
-"Venerable sir, it is taught in our own teachers' doctrine: 'There is an entirely pleasant world; there is a practical way to realise an entirely pleasant world.' But on being pressed and questioned and cross-questioned about our own teachers' doctrine by the Blessed One, we are found empty, hollow, and mistaken. But how is it, venerable sir, is there an entirely pleasant world? Is there a practical way to realise an entirely pleasant world?" [37]
+"Thưa Tôn giả, giáo lý của thầy chúng con dạy rằng: 'Có một thế giới hoàn toàn an lạc; có một con đường thực hành để chứng đạt một thế giới hoàn toàn an lạc.' Nhưng khi bị Đức Thế Tôn truy hỏi, chất vấn, và gạn hỏi về giáo lý của thầy chúng con, chúng con bị thấy là trống rỗng, rỗng tuếch, và sai lầm. Nhưng vậy thì sao, thưa Tôn giả, có một thế giới hoàn toàn an lạc không? Có con đường thực hành để chứng đạt một thế giới hoàn toàn an lạc không?" [37]
 
-24. "There is an entirely pleasant world, Udāyin; there is a practical way to realise an entirely pleasant world."
+24\. "Có một thế giới hoàn toàn an lạc, Udāyin; có một con đường thực hành để chứng đạt một thế giới hoàn toàn an lạc."
 
-"Venerable sir, what is that practical way to realise an entirely pleasant world?"
+"Thưa Tôn giả, con đường thực hành để chứng đạt thế giới hoàn toàn an lạc đó là gì?"
 
-25. "Here, Udāyin, quite secluded from sensual pleasures, secluded from unwholesome states, a bhikkhu enters upon and abides in the first jhāna...With the stilling of applied and sustained thought, he enters upon and abides in the second jhāna...in the third jhāna...This is the practical way to realise an entirely pleasant world."
+25\. "Ở đây, Udāyin, hoàn toàn ly dục (secluded from sensual pleasures - xa lìa ham muốn), ly bất thiện pháp (secluded from unwholesome states - xa lìa các trạng thái tâm xấu ác), một vị Tỳ kheo (bhikkhu - nhà sư Phật giáo) chứng và trú thiền thứ nhất (first jhāna - tầng thiền định đầu tiên)... Với sự lắng dịu của tầm và tứ (applied and sustained thought - sự suy nghĩ hướng tâm và duy trì tâm trên đối tượng), vị ấy chứng và trú thiền thứ hai... thiền thứ ba... Đây là con đường thực hành để chứng đạt một thế giới hoàn toàn an lạc."
 
-"Venerable sir, that is not the practical way to realise an entirely pleasant world; at that point an entirely pleasant world has already been realised."
+"Thưa Tôn giả, đó không phải là con đường thực hành để chứng đạt một thế giới hoàn toàn an lạc; tại điểm đó, một thế giới hoàn toàn an lạc đã được chứng đạt rồi."
 
-"Udāyin, at that point an entirely pleasant world has not yet been realised; that is only the practical way to realise an entirely pleasant world."
+"Udāyin, tại điểm đó, một thế giới hoàn toàn an lạc vẫn chưa được chứng đạt; đó chỉ là con đường thực hành để chứng đạt một thế giới hoàn toàn an lạc."
 
-26. When this was said, the wanderer Sakuludāyin's assembly made an uproar, saying very loudly and noisily: "We are lost along with our own teachers' doctrines! We are lost along with our own teachers' doctrines! We know nothing higher than that! ${ }^{\prime \prime 784}$
+26\. Khi nghe vậy, hội chúng của du sĩ Sakuludāyin la hét ầm ĩ, nói rất lớn và ồn ào: "Chúng ta đã lạc lối cùng với giáo lý của thầy mình! Chúng ta đã lạc lối cùng với giáo lý của thầy mình! Chúng ta không biết gì cao siêu hơn thế!"784
 
-Then the wanderer Sakuludāyin quieted those wanderers and
-asked the Blessed One:
-
-27. "Venerable sir, at what point is an entirely pleasant world realised?"
-
-"Here, Udāyin, with the abandoning of pleasure and pain, and with the previous disappearance of joy and grief, a bhikkhu enters upon and abides in the fourth jhāna, which has neither-pain-nor-pleasure and purity of mindfulness due to equanimity. He dwells with those deities who have arisen in an entirely pleasant world and he talks with them and enters into conversation with them. [^785] It is at this point that an entirely pleasant world has been realised."
-
-28. "Venerable sir, surely it is for the sake of realising that entirely pleasant world that bhikkhus lead the holy life under the Blessed One."
-
-"It is not for the sake of realising that entirely pleasant world that bhikkhus lead the holy life under me. There are other states, Udāyin, higher and more sublime [than that] and it is for the sake of realising them that bhikkhus lead the holy life under me." [38]
-
-"What are those higher and more sublime states, venerable sir, for the sake of realising which bhikkhus lead the holy life under the Blessed One?"
-
-29-36. "Here, Udāyin, a Tathāgata appears in the world, accomplished, fully enlightened...(as Sutta 51, §§12-19)...he purifies his mind from doubt.
-
-37. "Having thus abandoned these five hindrances, imperfections of the mind that weaken wisdom, quite secluded from sensual pleasures, secluded from unwholesome states, a bhikkhu enters upon and abides in the first jhāna...This, Udāyin, is a higher and more sublime state for the sake of realising which bhikkhus lead the holy life under me.
-
-38-40. "Again, with the stilling of applied and sustained thought, a bhikkhu enters upon and abides in the second jhāna...the third jhāna...the fourth jhāna. This too, Udāyin, is a higher and more sublime state for the sake of realising which bhikkhus lead the holy life under me.
-
-41. "When his concentrated mind is thus purified, bright, unblemished, rid of imperfection, malleable, wieldy, steady, and attained to imperturbability, he directs it to knowledge of the recollection of past lives. He recollects his manifold past lives, that is, one birth, two births...(as Sutta 51, §24)...Thus with their
-aspects and particulars he recollects his manifold past lives. This too, Udāyin, is a higher and more sublime state for the sake of realising which bhikkhus lead the holy life under me.
-
-42. "When his concentrated mind is thus purified, bright, unblemished, rid of imperfection, malleable, wieldy, steady, and attained to imperturbability, he directs it to knowledge of the passing away and reappearance of beings...(as Sutta 51, §25)... Thus with the divine eye, which is purified and surpasses the human, he sees beings passing away and reappearing, inferior and superior, fair and ugly, fortunate and unfortunate, and he understands how beings pass on according to their actions. This too, Udāyin, is a higher and more sublime state for the sake of realising which bhikkhus lead the holy life under me.
-
-43. "When his concentrated mind is thus purified, bright, unblemished, rid of imperfection, malleable, wieldy, steady, and attained to imperturbability, he directs it to knowledge of the destruction of the taints. He understands as it actually is : 'This is suffering'...(as Sutta 51, §26) [39]...He understands as it actually is: 'This is the way leading to the cessation of the taints.'
-
-44. "When he knows and sees thus, his mind is liberated from the taint of sensual desire, from the taint of being, and from the taint of ignorance. When it is liberated there comes the knowledge: 'It is liberated.' He understands: 'Birth is destroyed, the holy life has been lived, what had to be done has been done, there is no more coming to any state of being.' This too, Udāyin, is a higher and more sublime state for the sake of realising which bhikkhus lead the holy life under me.
-
-"These, Udāyin, are those higher and more sublime states for the sake of realising which bhikkhus lead the holy life under me."
-
-45. When this was said, the wanderer Sakuludāyin said to the Blessed One: "Magnificent, venerable sir! Magnificent, venerable sir! The Blessed One has made the Dhamma clear in many ways, as though he were turning upright what had been overthrown, revealing what was hidden, showing the way to one who was lost, or holding up a lamp in the dark for those with eyesight to see forms. I go to the Blessed One for refuge and to the Dhamma and to the Sangha of bhikkhus. I would receive the going forth under the Blessed One, venerable sir, I would receive the full admission."
-
-46. When this was said, the wanderer Sakuludāyin's assembly
-addressed him thus: "Do not lead the holy life under the recluse Gotama, Master Udāyin. Having been a teacher, Master Udāyin, do not live as a pupil. For Master Udāyin to do so would be as if a water jug were to become a pitcher. Do not lead the holy life under the recluse Gotama, Master Udāyin. Having been a teacher, Master Udāyin, do not live as a pupil."
-
-That is how the wanderer Sakuludāyin's assembly obstructed him from leading the holy life under the Blessed One. ${ }^{796}$
+Rồi du sĩ Sakuludāyin làm cho các du sĩ đó im lặng và hỏi Đức Thế Tôn:
+
+27\. "Thưa Tôn giả, vào lúc nào thì một thế giới hoàn toàn an lạc được chứng đạt?"
+
+"Ở đây, Udāyin, với sự xả bỏ lạc và khổ, và với sự biến mất trước đó của hỷ và ưu, một vị Tỳ kheo chứng và trú thiền thứ tư (fourth jhāna - tầng thiền định thứ tư), có trạng thái không khổ không lạc, niệm thanh tịnh nhờ xả (neither-pain-nor-pleasure and purity of mindfulness due to equanimity - trạng thái trung tính và sự trong sạch của tâm nhờ tâm xả). Vị ấy sống cùng các vị trời đã sinh vào thế giới hoàn toàn an lạc, nói chuyện và đàm đạo với họ. [^785] Chính tại điểm này, một thế giới hoàn toàn an lạc đã được chứng đạt."
+
+28\. "Thưa Tôn giả, chắc chắn là vì mục đích chứng đạt thế giới hoàn toàn an lạc đó mà các Tỳ kheo sống đời sống phạm hạnh (holy life - đời sống trong sạch, cao thượng của người tu) dưới sự hướng dẫn của Đức Thế Tôn."
+
+"Không phải vì mục đích chứng đạt thế giới hoàn toàn an lạc đó mà các Tỳ kheo sống đời sống phạm hạnh dưới sự hướng dẫn của Ta. Có những trạng thái khác, Udāyin, cao hơn và vi diệu hơn [thế] và chính vì mục đích chứng đạt chúng mà các Tỳ kheo sống đời sống phạm hạnh dưới sự hướng dẫn của Ta." [38]
+
+"Những trạng thái cao hơn và vi diệu hơn đó là gì, thưa Tôn giả, mà vì mục đích chứng đạt chúng, các Tỳ kheo sống đời sống phạm hạnh dưới sự hướng dẫn của Đức Thế Tôn?"
+
+29-36. "Ở đây, Udāyin, một vị Như Lai (Tathāgata - bậc đã đến như vậy/đi như vậy) xuất hiện trên đời, là bậc A-la-hán (accomplished - bậc xứng đáng cúng dường, đã hoàn thiện), Chánh Đẳng Giác (fully enlightened - bậc giác ngộ hoàn toàn)...(như Kinh 51, đoạn 12-19)... vị ấy gột sạch tâm khỏi hoài nghi (purification of doubt - sự thanh lọc tâm khỏi sự nghi ngờ).
+
+37\. "Sau khi đã từ bỏ năm triền cái (five hindrances - năm pháp che lấp tâm) này, những phiền não của tâm làm trí tuệ suy yếu (imperfections of the mind that weaken wisdom - những cấu uế làm tâm ô nhiễm và làm trí tuệ yếu đi), hoàn toàn ly dục, ly bất thiện pháp, một vị Tỳ kheo chứng và trú thiền thứ nhất... Đây, Udāyin, là một trạng thái cao hơn và vi diệu hơn mà vì mục đích chứng đạt nó, các Tỳ kheo sống đời sống phạm hạnh dưới sự hướng dẫn của Ta.
+
+38-40. "Lại nữa, với sự lắng dịu của tầm và tứ, một vị Tỳ kheo chứng và trú thiền thứ hai... thiền thứ ba... thiền thứ tư. Đây cũng vậy, Udāyin, là một trạng thái cao hơn và vi diệu hơn mà vì mục đích chứng đạt nó, các Tỳ kheo sống đời sống phạm hạnh dưới sự hướng dẫn của Ta.
+
+41\. "Khi tâm định tĩnh của vị ấy đã thanh tịnh, trong sáng, không tỳ vết, không phiền não, nhu nhuyến, dễ sử dụng, vững chắc, và đạt đến trạng thái bất động như vậy, vị ấy hướng tâm đến Túc mạng minh (knowledge of the recollection of past lives - trí tuệ nhớ lại các kiếp quá khứ). Vị ấy nhớ lại nhiều đời quá khứ của mình, nghĩa là một kiếp, hai kiếp...(như Kinh 51, đoạn 24)... Như vậy, với các khía cạnh và chi tiết của chúng, vị ấy nhớ lại nhiều đời quá khứ của mình. Đây cũng vậy, Udāyin, là một trạng thái cao hơn và vi diệu hơn mà vì mục đích chứng đạt nó, các Tỳ kheo sống đời sống phạm hạnh dưới sự hướng dẫn của Ta.
+
+42\. "Khi tâm định tĩnh của vị ấy đã thanh tịnh, trong sáng, không tỳ vết, không phiền não, nhu nhuyến, dễ sử dụng, vững chắc, và đạt đến trạng thái bất động như vậy, vị ấy hướng tâm đến Thiên nhãn minh (knowledge of the passing away and reappearance of beings - trí tuệ thấy rõ sự chết và tái sinh của chúng sinh)...(như Kinh 51, đoạn 25)... Như vậy, với thiên nhãn, thanh tịnh, vượt người thường, vị ấy thấy chúng sinh chết đi và tái sinh, hạ liệt và cao sang, xinh đẹp và xấu xí, may mắn và bất hạnh, và vị ấy hiểu rõ chúng sinh đi tái sinh tùy theo nghiệp của họ. Đây cũng vậy, Udāyin, là một trạng thái cao hơn và vi diệu hơn mà vì mục đích chứng đạt nó, các Tỳ kheo sống đời sống phạm hạnh dưới sự hướng dẫn của Ta.
+
+43\. "Khi tâm định tĩnh của vị ấy đã thanh tịnh, trong sáng, không tỳ vết, không phiền não, nhu nhuyến, dễ sử dụng, vững chắc, và đạt đến trạng thái bất động như vậy, vị ấy hướng tâm đến Lậu tận minh (knowledge of the destruction of the taints - trí tuệ đoạn trừ các lậu hoặc). Vị ấy hiểu như thật: ‘Đây là Khổ (suffering - sự đau khổ, bất toại nguyện)’...(như Kinh 51, đoạn 26) [39]... Vị ấy hiểu như thật: ‘Đây là con đường đưa đến sự diệt tận các lậu hoặc (taints - những ô nhiễm làm chúng sinh trôi lăn trong luân hồi).’
+
+44\. "Khi biết và thấy như vậy, tâm vị ấy được giải thoát (liberated - thoát khỏi sự ràng buộc) khỏi dục lậu (taint of sensual desire - ô nhiễm do ham muốn dục lạc), hữu lậu (taint of being - ô nhiễm do ham muốn tồn tại), và vô minh lậu (taint of ignorance - ô nhiễm do không hiểu biết Tứ Diệu Đế). Khi tâm được giải thoát, trí tuệ khởi lên: ‘Đã giải thoát’. Vị ấy hiểu rõ: ‘Sanh đã tận, phạm hạnh đã thành, việc cần làm đã làm, không còn trở lui trạng thái này nữa’. Đây cũng vậy, Udāyin, là một trạng thái cao hơn và vi diệu hơn mà vì mục đích chứng đạt nó, các Tỳ kheo sống đời sống phạm hạnh dưới sự hướng dẫn của Ta.
+
+"Đây, Udāyin, là những trạng thái cao hơn và vi diệu hơn mà vì mục đích chứng đạt chúng, các Tỳ kheo sống đời sống phạm hạnh dưới sự hướng dẫn của Ta."
+
+45\. Khi nghe vậy, du sĩ Sakuludāyin bạch Đức Thế Tôn: "Thật vi diệu thay, thưa Tôn giả! Thật vi diệu thay, thưa Tôn giả! Đức Thế Tôn đã làm sáng tỏ Giáo Pháp bằng nhiều cách, như thể dựng đứng lại những gì bị đổ ngã, phơi bày những gì bị che kín, chỉ đường cho người lạc lối, hay giơ cao ngọn đèn trong bóng tối cho những ai có mắt thấy được các hình sắc. Con xin quy y (refuge - nương tựa) Đức Thế Tôn, quy y Pháp và quy y Tăng đoàn các Tỳ kheo (Sangha of bhikkhus - cộng đồng các nhà sư). Con xin được xuất gia (going forth - rời bỏ đời sống thế tục) dưới sự hướng dẫn của Đức Thế Tôn, thưa Tôn giả, con xin được thọ đại giới (full admission - nghi lễ trở thành Tỳ kheo chính thức)."
+
+46\. Khi nghe vậy, hội chúng của du sĩ Sakuludāyin nói với ông: "Xin Thầy Udāyin đừng sống đời phạm hạnh dưới sự hướng dẫn của Sa môn Gotama. Thầy Udāyin đã là bậc thầy, xin đừng sống như một người đệ tử. Việc Thầy Udāyin làm như vậy giống như cái bình nước lại trở thành cái vò đựng nước vậy. Xin Thầy Udāyin đừng sống đời phạm hạnh dưới sự hướng dẫn của Sa môn Gotama. Thầy Udāyin đã là bậc thầy, xin đừng sống như một người đệ tử."
+
+Đó là cách hội chúng của du sĩ Sakuludāyin đã ngăn cản ông sống đời sống phạm hạnh dưới sự hướng dẫn của Đức Thế Tôn.796
+
+<!--pg-->
+Từ ngữ:
+- Đức Thế Tôn / Bhagavā / Blessed One: Danh hiệu tôn kính dành cho Đức Phật, có nghĩa là Bậc Tôn Quý, Bậc có đầy đủ phước đức và trí tuệ.
+- Du sĩ / Paribbājaka / Wanderer: Chỉ những người tu hành không thuộc tăng đoàn Phật giáo thời Ấn Độ cổ đại, thường đi đây đó và sống bằng khất thực.
+- Giáo Pháp / Dhamma / Dhamma: Lời dạy của Đức Phật, chân lý về sự vận hành của thế giới và con đường đưa đến giải thoát khổ đau.
+- Sa môn / Samaṇa / Recluse: Người tu hành khổ hạnh, từ bỏ đời sống thế tục để tìm cầu chân lý, không nhất thiết thuộc Phật giáo.
+- Toàn tri, toàn kiến / Sabbaññū, sabbadassāvī / Omniscient and all-seeing: Người biết tất cả mọi sự, thấy tất cả mọi sự. Đức Phật không tự nhận mình như vậy theo nghĩa đen là biết mọi chi tiết mọi lúc, mà là biết những gì cần biết để giải thoát.
+- Tri kiến hoàn toàn / Kevalaṃ paripuṇṇaṃ ñāṇadassanaṃ / Complete knowledge and vision: Sự hiểu biết và thấy biết trọn vẹn, không thiếu sót (thường liên quan đến sự giác ngộ).
+- Nhớ lại nhiều đời quá khứ / Pubbenivāsaṃ anussarati / Recollect his manifold past lives: Khả năng nhớ lại các kiếp sống trước đây của mình, một trong Tam Minh.
+- Thiên nhãn / Dibbacakkhu / Divine eye: Con mắt của chư thiên, khả năng thấy được những cảnh giới khác, thấy sự sinh tử của chúng sinh, một trong Tam Minh.
+- Chúng sinh chết đi và tái sinh / Sattānaṃ cavanūpapatti / Beings passing away and reappearing: Sự chết đi ở một kiếp sống và sinh lại ở một kiếp sống khác của các loài hữu tình trong vòng luân hồi.
+- Tùy theo nghiệp / Yathākammūpaga / According to their actions: Chúng sinh tái sinh vào cảnh giới tốt hay xấu tùy thuộc vào những hành động (nghiệp) thiện hay ác mà họ đã tạo ra.
+- Quang sắc tối thượng / Paramo vaṇṇo / Perfect splendour: Vẻ rực rỡ, ánh sáng hoàn hảo nhất, cao quý nhất.
+- Tự ngã / Attā / Self: Cái tôi, bản ngã, linh hồn được cho là trường tồn, bất biến. Phật giáo phủ nhận sự tồn tại của một tự ngã như vậy (vô ngã - anattā).
+- Thế giới hoàn toàn an lạc / Ekantasukhī loko / Entirely pleasant world: Cõi giới chỉ có hạnh phúc, không có khổ đau. Trong kinh này chỉ cõi trời Quang Âm Thiên (Ābhassara), nơi chúng sinh chỉ có hỷ lạc của thiền định.
+- Con đường thực hành / Paṭipadā / Practical way: Phương pháp, lộ trình tu tập để đạt được một mục tiêu tâm linh nào đó.
+- Dục lạc / Kāma / Sensual pleasures: Sự hưởng thụ, ham muốn đối với năm đối tượng của giác quan: sắc, thanh, hương, vị, xúc.
+- Khổ hạnh / Tapa / Asceticism: Sự tu hành bằng cách ép xác, hành hạ thân thể với hy vọng đạt được sự thanh tịnh hay giải thoát.
+- Bất thiện pháp / Akusala dhamma / Unwholesome states: Các trạng thái tâm tiêu cực, xấu ác như tham, sân, si, gây đau khổ và dẫn đến tái sinh xấu.
+- Tỳ kheo / Bhikkhu / Bhikkhu: Nhà sư Phật giáo nam đã thọ giới Cụ túc.
+- Thiền na (Thiền) / Jhāna / Jhāna: Các tầng thiền định sâu, trạng thái tâm vắng lặng, tập trung cao độ, có đặc trưng là hỷ, lạc, định. Có 4 tầng thiền sắc giới và 4 tầng thiền vô sắc giới.
+- Tầm và tứ / Vitakka-vicāra / Applied and sustained thought: Tầm là sự hướng tâm đến đối tượng thiền. Tứ là sự duy trì tâm trên đối tượng thiền. Hai yếu tố này có mặt ở thiền thứ nhất và vắng mặt từ thiền thứ hai trở đi.
+- Không khổ không lạc / Adukkhamasukha / Neither-pain-nor-pleasure: Trạng thái cảm thọ trung tính, không vui không buồn, đặc trưng của thiền thứ tư. Còn gọi là Xả thọ (upekkhā vedanā).
+- Niệm thanh tịnh nhờ xả / Upekkhāsatipārisuddhi / Purity of mindfulness due to equanimity: Trạng thái chánh niệm hoàn toàn trong sáng, thanh tịnh nhờ tâm xả ly, quân bình, không còn bị lạc và khổ chi phối, đặc trưng của thiền thứ tư.
+- Đời sống phạm hạnh / Brahmacariya / Holy life: Đời sống trong sạch, cao thượng, thường chỉ đời sống xuất gia tu hành theo lời Phật dạy, nhằm mục đích giải thoát.
+- Như Lai / Tathāgata / Tathāgata: Danh hiệu của Đức Phật, có nghĩa là "Bậc đã đến như vậy" hoặc "Bậc đã đi như vậy", chỉ người đã đạt đến chân lý tối hậu.
+- A-la-hán / Arahaṃ / Accomplished (Arhat): Bậc Thánh đã đoạn trừ hoàn toàn phiền não, chấm dứt sinh tử luân hồi, xứng đáng được cúng dường.
+- Chánh Đẳng Giác / Sammāsambuddho / Fully enlightened: Bậc tự mình giác ngộ hoàn toàn chân lý một cách viên mãn, không thầy chỉ dạy. Danh hiệu chỉ dành cho Đức Phật.
+- Hoài nghi / Vicikicchā / Doubt: Sự nghi ngờ, phân vân, không chắc chắn, đặc biệt là nghi ngờ về Phật, Pháp, Tăng và con đường tu tập. Là một trong năm triền cái.
+- Năm triền cái / Pañca nīvaraṇāni / Five hindrances: Năm pháp che lấp, ngăn cản tâm không cho định tĩnh và phát sinh trí tuệ: tham dục, sân hận, hôn trầm thụy miên, trạo cử hối quá, và hoài nghi.
+- Phiền não của tâm làm trí tuệ suy yếu / Cetaso upakkilese paññāya dubbalīkaraṇe / Imperfections of the mind that weaken wisdom: Những cấu uế, ô nhiễm của tâm (như năm triền cái) làm cho tâm bị che lấp và trí tuệ không thể phát triển, trở nên yếu ớt.
+- Túc mạng minh / Pubbenivāsānussatiñāṇa / Knowledge of the recollection of past lives: Trí tuệ nhớ lại vô số kiếp sống quá khứ của mình và chúng sinh. Một trong Tam Minh.
+- Thiên nhãn minh / Cutūpapātañāṇa / Knowledge of the passing away and reappearance of beings: Trí tuệ thấy rõ sự chết đi và tái sinh của chúng sinh trong các cõi giới khác nhau, hiểu rõ nghiệp quả chi phối sự tái sinh đó. Một trong Tam Minh.
+- Lậu tận minh / Āsavakkhayañāṇa / Knowledge of the destruction of the taints: Trí tuệ nhận biết rõ ràng các lậu hoặc đã được đoạn trừ hoàn toàn, chứng ngộ sự giải thoát cuối cùng (Niết-bàn). Một trong Tam Minh.
+- Khổ / Dukkha / Suffering: Sự đau khổ, bất toại nguyện, không hoàn hảo vốn có trong mọi khía cạnh của đời sống luân hồi (sinh, già, bệnh, chết, sầu, bi, khổ, ưu, não...). Là sự thật cao quý thứ nhất.
+- Lậu hoặc / Āsava / Taints (cankers, outflows, corruptions): Những ô nhiễm, phiền não sâu kín làm chúng sinh trôi lăn trong vòng sinh tử luân hồi. Gồm có dục lậu, hữu lậu, vô minh lậu (đôi khi thêm kiến lậu).
+- Giải thoát / Vimutti / Liberated (liberation): Sự thoát khỏi mọi ràng buộc, khổ đau của vòng sinh tử luân hồi, đạt đến trạng thái Niết-bàn.
+- Dục lậu / Kāmāsava / Taint of sensual desire: Ô nhiễm do sự tham ái, dính mắc vào các dục lạc thế gian.
+- Hữu lậu / Bhavāsava / Taint of being: Ô nhiễm do sự tham ái, dính mắc vào sự tồn tại, sự hiện hữu trong các cõi sắc giới và vô sắc giới.
+- Vô minh lậu / Avijjāsava / Taint of ignorance: Ô nhiễm do sự không hiểu biết về Tứ Diệu Đế, về bản chất thật sự của các pháp (vô thường, khổ, vô ngã).
+- Quy y / Saraṇaṃ gacchati / Go for refuge: Nương tựa, tìm nơi ẩn náu an ổn. Quy y Tam Bảo là nương tựa vào Phật, Pháp, Tăng.
+- Tăng đoàn / Saṅgha / Sangha: Cộng đồng những người tu hành theo lời Phật dạy, đặc biệt là cộng đồng các Tỳ kheo, Tỳ kheo ni đã thọ giới Cụ túc. Là một trong Tam Bảo.
+- Xuất gia / Pabbajjā / Going forth: Rời bỏ đời sống gia đình, thế tục để sống đời sống không nhà cửa, tu hành theo giáo pháp.
+- Thọ đại giới / Upasampadā / Full admission: Nghi lễ chính thức để một người Sa di trở thành Tỳ kheo (hoặc Sa di ni thành Tỳ kheo ni), thọ nhận đầy đủ các giới luật.

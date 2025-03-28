@@ -1,4 +1,4 @@
-# 10 The Foundations of Mindfulness
+# 10. The Foundations of Mindfulness
 ***(Satipatṭhāna Sutta)***
 
 1\. Thus have I heard. [^133] On one occasion the Blessed One was living in the Kuru country at a town of the Kurus named Kammāsadhamma. [^134] There he addressed the bhikkhus thus: "Bhikkhus." - "Venerable sir," they replied. The Blessed One said this:

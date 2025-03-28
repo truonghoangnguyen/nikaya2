@@ -1,4 +1,4 @@
-# 36 Đại Kinh Saccaka
+# 36. Đại Kinh Saccaka
 ***(Mahāsaccaka Sutta)***
 
 1\. Tôi nghe như vầy. Một thời, Đức Thế Tôn (the Blessed One - bậc được tôn kính, ở đây chỉ Đức Phật) trú tại Vesālī, trong Rừng Đại Lâm, tại giảng đường có Mái Nhọn.

@@ -1,4 +1,4 @@
-# 55 To Jīvaka
+# 55. To Jīvaka
 ***(Jīvaka Sutta)***
 
 1\. Thus have I heard. On one occasion the Blessed One was living at Rājagaha in the Mango Grove of Jīvaka Komārabhacca. ${ }^{573}$

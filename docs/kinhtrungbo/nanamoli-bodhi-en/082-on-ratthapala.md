@@ -1,4 +1,4 @@
-# 82 On Raṭthapāla
+# 82. On Raṭthapāla
 ***(Ratṭhapāla Sutta)***
 
 1\. Thus have I heard. On one occasion the Blessed One was wandering in the Kuru country with a large Sangha of bhikkhus, and eventually he arrived at a Kuru town named Thullakoṭthita.

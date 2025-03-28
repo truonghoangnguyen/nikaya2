@@ -1,4 +1,4 @@
-# 60 The Incontrovertible Teaching
+# 60. The Incontrovertible Teaching
 ***(Apanṇaka Sutta)***
 
 1\. Thus have I heard. On one occasion the Blessed One was wandering in the Kosalan country with a large Sangha of bhikkhus, and eventually he arrived at a Kosalan brahmin village named Sālā.

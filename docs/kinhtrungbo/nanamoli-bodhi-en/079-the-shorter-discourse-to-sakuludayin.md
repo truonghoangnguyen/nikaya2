@@ -1,4 +1,4 @@
-# 79 The Shorter Discourse to Sakuludāyin
+# 79. The Shorter Discourse to Sakuludāyin
 ***(Cūḷasakuludāyi Sutta)***
 
 1\. Thus have I heard. On one occasion the Blessed One was living at Rājagaha in the Bamboo Grove, the Squirrels' Sanctuary. Now on that occasion the wanderer Sakuludāyin was staying in the Peacocks' Sanctuary, the wanderers' park, with a large assembly of wanderers.

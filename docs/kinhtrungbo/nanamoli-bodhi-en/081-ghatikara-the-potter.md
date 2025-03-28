@@ -1,4 +1,4 @@
-# 81 Ghaṭikāra the Potter
+# 81. Ghaṭikāra the Potter
 ***(Ghaṭikāra Sutta)***
 
 [45] 1. Thus have I heard. On one occasion the Blessed One was wandering among the Kosalans together with a large Sangha of bhikkhus.

@@ -1,4 +1,4 @@
-# 89 Monuments to the Dhamma
+# 89. Monuments to the Dhamma
 ***(Dhammacetiya Sutta)***
 
 [118] 1. Thus have I heard. On one occasion the Blessed One was living in the Sakyan country at a town of the Sakyans named Medalumpa.

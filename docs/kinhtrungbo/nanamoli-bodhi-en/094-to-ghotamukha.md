@@ -1,4 +1,4 @@
-# 94 To Ghotamukha
+# 94. To Ghotamukha
 ***(Ghotamukha Sutta)***
 
 1\. Thus have I heard. On one occasion the venerable Udena was living at Benares in the Khemiya Mango Grove.

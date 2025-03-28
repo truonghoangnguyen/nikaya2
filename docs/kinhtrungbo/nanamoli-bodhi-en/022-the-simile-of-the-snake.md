@@ -1,4 +1,4 @@
-# 22 The Simile of the Snake
+# 22. The Simile of the Snake
 ***(Alagaddūpama Sutta)***
 
 #### (SETTING)

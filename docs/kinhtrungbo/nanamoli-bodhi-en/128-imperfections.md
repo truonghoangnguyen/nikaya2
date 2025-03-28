@@ -1,4 +1,4 @@
-# 128 Imperfections
+# 128. Imperfections
 ***(Upakkilesà Sutta)***
 
 1\. Thus have I heard. On one occasion the Blessed One was living at Kosambī in Ghosita's Park.

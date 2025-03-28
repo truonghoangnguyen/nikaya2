@@ -1,4 +1,4 @@
-# 116 Isigili: The Gullet of the Seers
+# 116. Isigili: The Gullet of the Seers
 ***(Isigili Sutta)***
 
 [68] 1. Thus have I heard. [^1093] On one occasion the Blessed One was living at Rājagaha, at Isigili - the Gullet of the Seers. There he addressed the bhikkhus thus: "Bhikkhus." - "Venerable sir," they replied. The Blessed One said this:

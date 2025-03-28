@@ -1,140 +1,158 @@
-# 93 To Assalāyana
+# 93. Kinh Assalāyana
 ***(Assalāyana Sutta)***
 
-[147] 1. Thus have I heard. On one occasion the Blessed One was living at Sāvatthī in Jeta's Grove, Anāthapiṇ̣̣ika's Park.
+[147] 1. Tôi nghe như vầy. Một thời Đức Thế Tôn trú tại thành Xá-vệ (Sāvatthī), trong Rừng Kỳ-đà (Jeta's Grove), vườn của ông Cấp Cô Độc (Anāthapiṇḍika).
 
-2. Now at that time five hundred brahmins from diverse provinces were staying at Sāvatthī for some business or other. Then those brahmins thought: "This recluse Gotama describes purification for all the four castes. [^869] Who is there able to dispute with him about this assertion?"
+2\. Bấy giờ, có khoảng năm trăm vị Bà-la-môn từ nhiều tỉnh khác nhau đang ở tại Xá-vệ vì một công việc nào đó. Rồi các vị Bà-la-môn ấy suy nghĩ: "Vị Sa-môn Cồ-đàm này mô tả về sự thanh tịnh (purification - visuddhi - sự làm cho trong sạch, thoát khỏi ô nhiễm) cho cả bốn giai cấp. [^869] Ai có thể tranh luận với ông ấy về khẳng định này?"
 
-3. Now on that occasion a brahmin student named Assalāyana was staying at Sāvatthī. Young, shaven-headed, sixteen years old, he was a master of the Three Vedas with their vocabularies, liturgy, phonology, and etymology, and the histories as a fifth; skilled in philology and grammar, he was fully versed in natural philosophy and in the marks of a Great Man. Then the brahmins thought: "There is this young brahmin student named Assalāyana staying at Sāvatthī. Young...fully versed in natural philosophy and in the marks of a Great Man. He will be able to dispute with the recluse Gotama about this assertion."
+3\. Lúc đó, có một thanh niên Bà-la-môn tên là Assalāyana đang ở tại Xá-vệ. Chàng còn trẻ, đầu cạo trọc, mười sáu tuổi, thông thạo Ba kinh Vệ-đà cùng với từ vựng, nghi lễ, ngữ âm, từ nguyên, và lịch sử là phần thứ năm; giỏi về ngữ văn và ngữ pháp, hoàn toàn tinh thông triết học tự nhiên và các tướng của bậc Đại Nhân (marks of a Great Man - mahāpurisa lakkhaṇa - các dấu hiệu đặc biệt trên thân thể của một vị Phật hoặc Chuyển Luân Thánh Vương). Bấy giờ, các vị Bà-la-môn nghĩ: "Có chàng thanh niên Bà-la-môn tên Assalāyana này đang ở Xá-vệ. Chàng còn trẻ... hoàn toàn tinh thông triết học tự nhiên và các tướng của bậc Đại Nhân. Chàng sẽ có thể tranh luận với Sa-môn Cồ-đàm về khẳng định này."
 
-4. So the brahmins went to the brahmin student Assalāyana and said to him: "Master Assalāyana, this recluse Gotama describes purification for all the four castes. Let Master Assalāyana come and dispute with the recluse Gotama about this assertion."
+4\. Thế là các vị Bà-la-môn đến gặp thanh niên Bà-la-môn Assalāyana và nói với chàng: "Thưa Tôn giả Assalāyana, vị Sa-môn Cồ-đàm này mô tả sự thanh tịnh cho cả bốn giai cấp. Mong Tôn giả Assalāyana hãy đến và tranh luận với Sa-môn Cồ-đàm về khẳng định này."
 
-When this was said, the brahmin student Assalāyana replied: "Sirs, the recluse Gotama is one who speaks the Dhamma. Now those who speak the Dhamma are difficult to dispute with. I am not able to dispute with the recluse Gotama about this assertion."
+Khi nghe vậy, thanh niên Bà-la-môn Assalāyana đáp: "Thưa quý vị, Sa-môn Cồ-đàm là người nói Giáo Pháp (Dhamma - lời dạy của Đức Phật, chân lý). Mà những người nói Giáo Pháp thì rất khó tranh luận. Tôi không thể tranh luận với Sa-môn Cồ-đàm về khẳng định này."
 
-A second time the brahmins said to him: "Master Assalāyana, this recluse Gotama describes purification for all the four castes. Let Master Assalāyana come [148] and dispute with the recluse
+Lần thứ hai, các vị Bà-la-môn nói với chàng: "Thưa Tôn giả Assalāyana, vị Sa-môn Cồ-đàm này mô tả sự thanh tịnh cho cả bốn giai cấp. Mong Tôn giả Assalāyana hãy đến [148] và tranh luận với Sa-môn Cồ-đàm về khẳng định này. Vì việc tu học của một người Bà-la-môn đã được Tôn giả Assalāyana hoàn tất." [^870]
 
-Gotama about this assertion. For the training of a wanderer has been completed by Master Assalāyana." [^870]
+Lần thứ hai, thanh niên Bà-la-môn Assalāyana đáp: "Thưa quý vị, Sa-môn Cồ-đàm là người nói Giáo Pháp. Mà những người nói Giáo Pháp thì rất khó tranh luận. Tôi không thể tranh luận với Sa-môn Cồ-đàm về khẳng định này."
 
-For the second time the brahmin student Assalāyana replied: "Sirs, the recluse Gotama is one who speaks the Dhamma. Now those who speak the Dhamma are difficult to dispute with. I am not able to dispute with the recluse Gotama about this assertion."
+Lần thứ ba, các vị Bà-la-môn nói với chàng: "Thưa Tôn giả Assalāyana, vị Sa-môn Cồ-đàm này mô tả sự thanh tịnh cho cả bốn giai cấp. Mong Tôn giả Assalāyana hãy đến và tranh luận với Sa-môn Cồ-đàm về khẳng định này. Vì việc tu học của một người Bà-la-môn đã được Tôn giả Assalāyana hoàn tất. Mong Tôn giả Assalāyana đừng để bị đánh bại mà chưa hề ra trận."
 
-A third time the brahmins said to him: "Master Assalāyana, this recluse Gotama describes purification for all the four castes. Let Master Assalāyana come and dispute with the recluse Gotama about this assertion. For the training of a wanderer has been completed by Master Assalāyana. Let not the Master Assalāyana be defeated without having even fought the battle."
+Khi nghe vậy, thanh niên Bà-la-môn Assalāyana đáp: "Thưa quý vị, Sa-môn Cồ-đàm là người nói Giáo Pháp. Mà những người nói Giáo Pháp thì rất khó tranh luận. Tôi không thể tranh luận với Sa-môn Cồ-đàm về khẳng định này. Tuy nhiên, thưa quý vị, theo lời yêu cầu của quý vị, tôi sẽ đi."
 
-When this was said, the brahmin student Assalāyana replied: "Sirs, the recluse Gotama is one who speaks the Dhamma. Now those who speak the Dhamma are difficult to dispute with. I am not able to dispute with the recluse Gotama about this assertion. Still, sirs, at your bidding I will go."
+5\. Sau đó, thanh niên Bà-la-môn Assalāyana cùng với một số đông Bà-la-môn đến gặp Đức Thế Tôn và chào hỏi Ngài. Sau khi cuộc nói chuyện lịch sự và thân mật kết thúc, chàng ngồi xuống một bên và thưa với Đức Thế Tôn: "Thưa Tôn giả Cồ-đàm, các vị Bà-la-môn nói như thế này: 'Bà-la-môn là giai cấp cao quý nhất, các giai cấp khác đều thấp kém hơn; Bà-la-môn là giai cấp thanh bạch nhất, các giai cấp khác đều đen tối; chỉ có Bà-la-môn mới được thanh tịnh, không phải những người không phải Bà-la-môn; chỉ có Bà-la-môn mới là con của Phạm Thiên, là dòng dõi của Phạm Thiên, sinh ra từ miệng Ngài, sinh bởi Phạm Thiên, được tạo ra bởi Phạm Thiên, là người thừa kế của Phạm Thiên.' Tôn giả Cồ-đàm nói gì về điều đó?"
 
-5. Then the brahmin student Assalāyana went with a large number of brahmins to the Blessed One and exchanged greetings with him. When this courteous and amiable talk was finished, he sat down at one side and said to the Blessed One: "Master Gotama, the brahmins say thus: 'Brahmins are the highest caste, those of any other caste are inferior; brahmins are the fairest caste, those of any other caste are dark; only brahmins are purified, not non-brahmins; brahmins alone are the sons of Brahmā, the offspring of Brahmā, born of his mouth, born of Brahmā, created by Brahmā, heirs of Brahmā.' What does Master Gotama say about that?"
+"Này Assalāyana, người ta thấy phụ nữ Bà-la-môn có kinh nguyệt, mang thai, sinh con và cho con bú. [^871] Thế mà những người sinh ra từ bụng mẹ là phụ nữ Bà-la-môn lại nói như thế này: 'Bà-la-môn là giai cấp cao quý nhất... chỉ có Bà-la-môn mới là con của Phạm Thiên, là dòng dõi của Phạm Thiên, sinh ra từ miệng Ngài, sinh bởi Phạm Thiên, được tạo ra bởi Phạm Thiên, là người thừa kế của Phạm Thiên.'" [149]
 
-"Now, Assalāyana, the brahmin women are seen having their periods, becoming pregnant, giving birth, and giving suck. [^871] And yet those who are born from the wombs of the brahmin women say thus: 'Brahmins are the highest caste...brahmins alone are the sons of Brahmā, the offspring of Brahmā, born of his mouth, born of Brahmā, created by Brahmā, heirs of Brahmā.'" [149]
+6\. "Mặc dù Tôn giả Cồ-đàm nói như vậy, nhưng các vị Bà-la-môn vẫn nghĩ rằng: 'Bà-la-môn là giai cấp cao quý nhất... là người thừa kế của Phạm Thiên.'"
 
-6. "Although Master Gotama says this, still the brahmins think thus: 'Brahmins are the highest caste ...heirs of Brahmā.'"
+"Này Assalāyana, ông nghĩ sao? Ông có nghe rằng ở xứ Yona và Kamboja [^872] và ở các xứ ngoại biên khác chỉ có hai giai cấp là chủ và nô lệ, và rằng chủ có thể trở thành nô lệ và nô lệ có thể trở thành chủ không?"
 
-"What do you think, Assalāyana? Have you heard that in Yona and Kamboja [^872] and in other outland countries there are
-only two castes, masters and slaves, and that masters become slaves and slaves masters?"
+"Thưa Tôn giả, tôi có nghe như vậy."
 
-"So I have heard, sir."
+"Vậy thì dựa vào sức mạnh [lập luận] nào hay dựa vào sự hỗ trợ [uy quyền] nào mà các vị Bà-la-môn trong trường hợp này lại nói rằng: 'Bà-la-môn là giai cấp cao quý nhất... là người thừa kế của Phạm Thiên'?"
 
-"Then on the strength of what [argument] or with the support of what [authority] do the brahmins in this case say thus: 'Brahmins are the highest caste...heirs of Brahmā'?"
+7\. "Mặc dù Tôn giả Cồ-đàm nói như vậy, nhưng các vị Bà-la-môn vẫn nghĩ rằng: 'Bà-la-môn là giai cấp cao quý nhất... là người thừa kế của Phạm Thiên.'"
 
-7. "Although Master Gotama says this, still the brahmins think thus: 'Brahmins are the highest caste...heirs of Brahmā.'"
+"Này Assalāyana, ông nghĩ sao? [^873] Giả sử một người thuộc giai cấp quý tộc (Sát-đế-lỵ) sát sinh, lấy của không cho, tà dâm, nói dối, nói lời đâm thọc, nói lời thô ác, nói lời phù phiếm, tham lam, có tâm sân hận, và giữ tà kiến (wrong view - micchā diṭṭhi - quan điểm sai lầm, không đúng sự thật, đặc biệt về nghiệp và quả). Sau khi thân hoại mạng chung, chỉ có người đó [có khả năng] tái sinh vào cõi khổ, cõi dữ, đọa xứ, thậm chí địa ngục (state of deprivation, unhappy destination, perdition, hell - apāya, duggati, vinipāta, niraya - các cảnh giới tái sinh đau khổ) – chứ không phải một người Bà-la-môn sao? Giả sử một người thương gia (Phệ-xá)... một người lao động (Thủ-đà-la) sát sinh... và giữ tà kiến. Sau khi thân hoại mạng chung, chỉ có người đó [có khả năng] tái sinh vào cõi khổ, cõi dữ, đọa xứ, thậm chí địa ngục – chứ không phải một người Bà-la-môn sao?"
 
-"What do you think, Assalāyana? [^873] Suppose a noble were to kill living beings, take what is not given, misconduct himself in sensual pleasures, speak falsely, speak maliciously, speak harshly, gossip, be covetous, have a mind of ill will, and hold wrong view. On the dissolution of the body, after death, would only he [be likely to] reappear in a state of deprivation, in an unhappy destination, in perdition, even in hell - and not a brahmin? Suppose a merchant...a worker were to kill living beings... and hold wrong view. On the dissolution of the body after death, would only he [be likely to] reappear in a state of deprivation, in an unhappy destination, in perdition, even in hell - and not a brahmin?"
+"Không, thưa Tôn giả Cồ-đàm. Dù là người quý tộc, Bà-la-môn, thương gia, hay người lao động – những người thuộc cả bốn giai cấp mà sát sinh [150]... và giữ tà kiến, sau khi thân hoại mạng chung, [đều có khả năng] tái sinh vào cõi khổ, cõi dữ, đọa xứ, thậm chí địa ngục."
 
-"No, Master Gotama. Whether it be a noble, or a brahmin, or a merchant, or a worker - those of all four castes who kill living beings [150]... and hold wrong view, on the dissolution of the body, after death, [are likely to] reappear in a state of deprivation, in an unhappy destination, in perdition, even in hell."
+"Vậy thì dựa vào sức mạnh [lập luận] nào hay dựa vào sự hỗ trợ [uy quyền] nào mà các vị Bà-la-môn trong trường hợp này lại nói rằng: 'Bà-la-môn là giai cấp cao quý nhất... là người thừa kế của Phạm Thiên'?"
 
-"Then on the strength of what [argument] or with the support of what [authority] do the brahmins in this case say thus: 'Brahmins are the highest caste ...heirs of Brahmā'?"
+8\. "Mặc dù Tôn giả Cồ-đàm nói như vậy, nhưng các vị Bà-la-môn vẫn nghĩ rằng: 'Bà-la-môn là giai cấp cao quý nhất... là người thừa kế của Phạm Thiên.'"
 
-8. "Although Master Gotama says this, still the brahmins think thus: 'Brahmins are the highest caste...heirs of Brahmā."
+"Này Assalāyana, ông nghĩ sao? Giả sử một người Bà-la-môn từ bỏ sát sinh, từ bỏ lấy của không cho, từ bỏ tà dâm, từ bỏ nói dối, từ bỏ nói lời đâm thọc, từ bỏ nói lời thô ác, và từ bỏ nói lời phù phiếm, và không tham lam, có tâm không sân hận, và giữ chánh kiến (right view - sammā diṭṭhi - quan điểm đúng đắn, phù hợp sự thật, đặc biệt về nghiệp và quả, Tứ Diệu Đế). Sau khi thân hoại mạng chung, chỉ có người đó [có khả năng] tái sinh vào cõi lành, thậm chí cõi trời (happy destination, heavenly world - sugati, sagga loka - các cảnh giới tái sinh an vui) – chứ không phải một người quý tộc, thương gia, hay người lao động sao?"
 
-"What do you think, Assalāyana? Suppose a brahmin were to abstain from killing living beings, from taking what is not given, from misconduct in sensual pleasures, from false speech, from malicious speech, from harsh speech, and from gossip, and were to be uncovetous, to have a mind without ill will, and to hold right view. On the dissolution of the body, after death, would only he [be likely to] reappear in a happy destination, even in the heavenly world - and not a noble, or a merchant, or a worker?"
+"Không, thưa Tôn giả Cồ-đàm. Dù là người quý tộc, Bà-la-môn, thương gia, hay người lao động – những người thuộc cả bốn giai cấp mà từ bỏ sát sinh... và giữ chánh kiến, sau khi thân hoại mạng chung, [đều có khả năng] tái sinh vào cõi lành, thậm chí cõi trời."
 
-"No, Master Gotama. Whether it be a noble, or a brahmin, or a merchant, or a worker - those of all four castes who abstain
-from killing living beings...and hold right view, on the dissolution of the body, after death, [are likely to] reappear in a happy destination, even in the heavenly world."
+"Vậy thì dựa vào sức mạnh [lập luận] nào hay dựa vào sự hỗ trợ [uy quyền] nào mà các vị Bà-la-môn trong trường hợp này lại nói rằng: 'Bà-la-môn là giai cấp cao quý nhất... là người thừa kế của Phạm Thiên'?"
 
-"Then on the strength of what [argument] or with the support of what [authority] do the brahmins in this case say thus: 'Brahmins are the highest caste...heirs of Brahmā'?"
+9\. "Mặc dù Tôn giả Cồ-đàm nói như vậy, [151] nhưng các vị Bà-la-môn vẫn nghĩ rằng: 'Bà-la-môn là giai cấp cao quý nhất... là người thừa kế của Phạm Thiên.'"
 
-9. "Although Master Gotama says this, [151] still the brahmins think thus: 'Brahmins are the highest caste ...heirs of Brahmā."
+"Này Assalāyana, ông nghĩ sao? Chỉ có người Bà-la-môn mới có khả năng phát triển tâm từ (loving-kindness - mettā - tâm mong muốn chúng sinh được an vui, không thù hận) đối với một vùng nào đó, không thù địch và không sân hận, chứ không phải người quý tộc, thương gia, hay người lao động sao?"
 
-"What do you think, Assalāyana? Is only a brahmin capable of developing a mind of loving-kindness towards a certain region, without hostility and without ill will, and not a noble, or a merchant, or a worker?"
+"Không, thưa Tôn giả Cồ-đàm. Dù là người quý tộc, Bà-la-môn, thương gia, hay người lao động – những người thuộc cả bốn giai cấp đều có khả năng phát triển tâm từ đối với một vùng nào đó, không thù địch và không sân hận."
 
-"No, Master Gotama. Whether it be a noble, or a brahmin, or a merchant, or a worker - those of all four castes are capable of developing a mind of loving-kindness towards a certain region, without hostility and without ill will."
+"Vậy thì dựa vào sức mạnh [lập luận] nào hay dựa vào sự hỗ trợ [uy quyền] nào mà các vị Bà-la-môn trong trường hợp này lại nói rằng: 'Bà-la-môn là giai cấp cao quý nhất... là người thừa kế của Phạm Thiên'?"
 
-"Then on the strength of what [argument] or with the support of what [authority] do the brahmins in this case say thus: 'Brahmins are the highest caste ...heirs of Brahmā'?"
+10\. "Mặc dù Tôn giả Cồ-đàm nói như vậy, nhưng các vị Bà-la-môn vẫn nghĩ rằng: 'Bà-la-môn là giai cấp cao quý nhất... là người thừa kế của Phạm Thiên.'"
 
-10. "Although Master Gotama says this, still the brahmins think thus: 'Brahmins are the highest caste ...heirs of Brahmā."
+"Này Assalāyana, ông nghĩ sao? Chỉ có người Bà-la-môn mới có khả năng lấy xơ mướp và bột tắm, đi ra sông, và gột rửa bụi bẩn, chứ không phải người quý tộc, thương gia, hay người lao động sao?"
 
-"What do you think, Assalāyana? Is only a brahmin capable of taking a loofah and bath powder, going to the river, and washing off dust and dirt, and not a noble, or a merchant, or a worker?"
+"Không, thưa Tôn giả Cồ-đàm. Dù là người quý tộc, Bà-la-môn, thương gia, hay người lao động – những người thuộc cả bốn giai cấp đều có khả năng lấy xơ mướp và bột tắm, đi ra sông, và gột rửa bụi bẩn."
 
-"No, Master Gotama. Whether it be a noble, or a brahmin, or a merchant, or a worker - those of all four castes are capable of taking a loofah and bath powder, going to the river, and washing off dust and dirt."
+"Vậy thì dựa vào sức mạnh [lập luận] nào hay dựa vào sự hỗ trợ [uy quyền] nào mà các vị Bà-la-môn trong trường hợp này lại nói rằng: 'Bà-la-môn là giai cấp cao quý nhất... là người thừa kế của Phạm Thiên'?"
 
-"Then on the strength of what [argument] or with the support of what [authority] do the brahmins in this case say thus: 'Brahmins are the highest caste ...heirs of Brahmā'?"
+11\. "Mặc dù Tôn giả Cồ-đàm nói như vậy, nhưng các vị Bà-la-môn vẫn nghĩ rằng: 'Bà-la-môn là giai cấp cao quý nhất... là người thừa kế của Phạm Thiên.'"
 
-11. "Although Master Gotama says this, still the brahmins think thus: 'Brahmins are the highest caste...heirs of Brahmā."'
+"Này Assalāyana, ông nghĩ sao? [152] Giả sử một vị vua thuộc dòng dõi quý tộc đã làm lễ đăng quang tập hợp ở đây một trăm người thuộc các dòng dõi khác nhau và nói với họ: 'Này quý vị, hãy đến đây, bất cứ ai sinh ra trong dòng dõi quý tộc, dòng dõi Bà-la-môn hoặc dòng dõi vua chúa, hãy lấy một thanh cọ lửa trên bằng gỗ Sa-la (sāla), gỗ Sa-la-la (salala), gỗ đàn hương (sandalwood), hoặc gỗ Pa-đu-ma-ka (padumaka) và nhóm lửa tạo ra hơi nóng. Và cũng vậy, bất cứ ai sinh ra trong dòng dõi tiện dân (outcast clan - caṇḍāla), dòng dõi thợ săn (trapper clan - nesāda), dòng dõi thợ đan lát (wicker workers' clan - veṇa), dòng dõi thợ làm xe (cartwrights' clan - rathakāra), hoặc dòng dõi người hốt rác (scavengers' clan - pukkusa), hãy lấy một thanh cọ lửa trên làm từ máng uống nước của chó, từ máng ăn của heo, từ thùng rác, hoặc từ gỗ thầu dầu (castor-oil wood) và nhóm lửa tạo ra hơi nóng.'
 
-"What do you think, Assalāyana? [152] Suppose a headanointed noble king were to assemble here a hundred men of different birth and say to them: 'Come, sirs, let any here who have been born into a noble clan or a brahmin clan or a royal clan take an upper fire-stick of sāla wood, salala wood, sandalwood, or padumaka wood and light a fire and produce heat. And also let any who have been born into an outcast clan, a
-trapper clan, a wicker workers' clan, a cartwrights' clan, or a scavengers' clan take an upper fire-stick made from a dog's drinking trough, from a pig's trough, from a dustbin, or from castor-oil wood and light a fire and produce heat.'
+"Này Assalāyana, ông nghĩ sao? Khi lửa được nhóm lên và hơi nóng được tạo ra bởi một người trong nhóm đầu tiên, ngọn lửa đó có ánh lửa, màu sắc và sự rực rỡ, và có thể dùng nó cho các mục đích của lửa không? Trong khi đó, khi lửa được nhóm lên và hơi nóng được tạo ra bởi một người trong nhóm thứ hai, ngọn lửa đó sẽ không có ánh lửa, không màu sắc, không rực rỡ, và không thể dùng nó cho các mục đích của lửa sao?"
 
-"What do you think, Assalāyana? When a fire is lit and heat is produced by someone in the first group, would that fire have a flame, a colour, and a radiance, and would it be possible to use it for the purposes of fire, while when a fire is lit and heat is produced by someone of the second group, that fire would have no flame, no colour, and no radiance, and it would not be possible to use it for the purposes of fire?"
+"Không, thưa Tôn giả Cồ-đàm. Khi lửa được nhóm lên và hơi nóng được tạo ra bởi một người trong nhóm đầu tiên, ngọn lửa đó sẽ có ánh lửa, màu sắc và sự rực rỡ, và có thể dùng nó cho các mục đích của lửa. Và khi lửa được nhóm lên và hơi nóng được tạo ra bởi một người trong nhóm thứ hai, ngọn lửa đó cũng sẽ có ánh lửa, màu sắc và sự rực rỡ, và cũng có thể dùng nó cho các mục đích của lửa. Vì tất cả lửa đều có ánh lửa, [153] màu sắc và sự rực rỡ, và có thể dùng tất cả lửa cho các mục đích của lửa."
 
-"No, Master Gotama. When a fire is lit and heat is produced by someone in the first group, that fire would have a flame, a colour, and a radiance, and it would be possible to use it for the purposes of fire. And when a fire is lit and heat is produced by someone of the second group, that fire too would have a flame, a colour, and a radiance, and it would be possible to use it for the purposes of fire. For all fire has a flame, [153] a colour, and a radiance, and it is possible to use all fire for the purposes of fire."
+"Vậy thì dựa vào sức mạnh [lập luận] nào hay dựa vào sự hỗ trợ [uy quyền] nào mà các vị Bà-la-môn trong trường hợp này lại nói rằng: 'Bà-la-môn là giai cấp cao quý nhất... là người thừa kế của Phạm Thiên'?"
 
-"Then on the strength of what [argument] or with the support of what [authority] do the brahmins in this case say thus: 'Brahmins are the highest caste ...heirs of Brahmā'?"
+12\. "Mặc dù Tôn giả Cồ-đàm nói như vậy, nhưng các vị Bà-la-môn vẫn nghĩ rằng: 'Bà-la-môn là giai cấp cao quý nhất... là người thừa kế của Phạm Thiên.'"
 
-12. "Although Master Gotama says this, still the brahmins think thus: 'Brahmins are the highest caste ...heirs of Brahmā."
+"Này Assalāyana, ông nghĩ sao? Giả sử một thanh niên quý tộc chung sống với một cô gái Bà-la-môn, và một đứa con trai được sinh ra từ sự chung sống đó. Đứa con trai sinh ra từ một thanh niên quý tộc và một cô gái Bà-la-môn nên được gọi là người quý tộc theo cha hay người Bà-la-môn theo mẹ?"
 
-"What do you think, Assalāyana? Suppose a noble youth were to cohabit with a brahmin girl, and a son was born from their cohabitation. Should a son born from a noble youth and a brahmin girl be called a noble after the father or a brahmin after the mother?"
+"Thưa Tôn giả Cồ-đàm, nó có thể được gọi bằng cả hai."
 
-"He could be called both, Master Gotama."
+13\. "Này Assalāyana, ông nghĩ sao? Giả sử một thanh niên Bà-la-môn ở đây chung sống với một cô gái quý tộc, và một đứa con trai được sinh ra từ sự chung sống đó. Đứa con trai sinh ra từ một thanh niên Bà-la-môn và một cô gái quý tộc nên được gọi là người quý tộc theo mẹ hay người Bà-la-môn theo cha?"
 
-13. "What do you think, Assalāyana? Suppose a brahmín youth here were to cohabit with a noble girl, and a son were to be born from their cohabitation. Should the son born from a brahmin youth and a noble girl be called a noble after the mother or a brahmin after the father?"
+"Thưa Tôn giả Cồ-đàm, nó có thể được gọi bằng cả hai."
 
-"He could be called both, Master Gotama."
+14\. "Này Assalāyana, ông nghĩ sao? Giả sử một con ngựa cái được phối giống với một con lừa đực, và một con la con được sinh ra. Con la con đó nên được gọi là ngựa theo mẹ hay lừa theo cha?"
+"Thưa Tôn giả Cồ-đàm, đó là con la, vì nó không thuộc về loại nào cả. [154] Tôi thấy sự khác biệt trong trường hợp cuối cùng này, nhưng tôi không thấy sự khác biệt nào trong hai trường hợp trước."
 
-14. "What do you think, Assalāyana? Suppose a mare were to be mated with a male donkey, and a foal were to be born as the result. Should the foal be called a horse after the mother or a donkey after the father?"
-"It is a mule, Master Gotama, since it does not belong to either kind. [154] I see the difference in this last case, but I see no difference in either of the former cases."
+15\. "Này Assalāyana, ông nghĩ sao? Giả sử có hai anh em học trò Bà-la-môn, cùng một mẹ sinh ra, một người chăm học và thông minh, còn người kia không chăm học cũng không thông minh. Các vị Bà-la-môn sẽ mời ai ăn trước trong một bữa cúng giỗ, hay trong một lễ cúng dường cơm sữa, hay trong một bữa tiệc tế lễ, hay trong một bữa tiệc đãi khách?"
 
-15. "What do you think, Assalāyana? Suppose there were two brahmin students who were brothers, born of the same mother, one studious and acute, and one neither studious nor acute. Which of them would brahmins feed first at a funeral feast, or at a ceremonial milk-rice offering, or at a sacrificial feast, or at a feast for guests?"
+"Trong những dịp như vậy, thưa Tôn giả Cồ-đàm, các vị Bà-la-môn sẽ mời người chăm học và thông minh ăn trước; vì làm sao vật cúng dường cho người không chăm học cũng không thông minh lại có thể mang lại quả lớn (great fruit - mahapphala - kết quả tốt đẹp, lợi ích to lớn từ hành động thiện)?"
 
-"On such occasions, brahmins would feed first the one who was studious and acute, Master Gotama; for how could what is given to one who is neither studious nor acute bring great fruit?"
+16\. "Này Assalāyana, ông nghĩ sao? Giả sử có hai anh em học trò Bà-la-môn, cùng một mẹ sinh ra, một người chăm học và thông minh, nhưng phạm giới và có tánh xấu (immoral, bad character - dussīla, pāpadhamma - người không giữ gìn giới luật, có hành vi và tâm tính xấu ác), còn người kia không chăm học cũng không thông minh, nhưng giữ giới và có tánh tốt (virtuous, good character - sīlavantu, kalyāṇadhamma - người giữ gìn giới luật, có hành vi và tâm tính tốt đẹp). Các vị Bà-la-môn sẽ mời ai ăn trước trong một bữa cúng giỗ, hay trong một lễ cúng dường cơm sữa, hay trong một bữa tiệc tế lễ, hay trong một bữa tiệc đãi khách?"
 
-16. "What do you think, Assalāyana? Suppose there were two brahmin students who were brothers, born of the same mother, one studious and acute, but immoral and of bad character, and one neither studious nor acute, but virtuous and of good character. Which of them would brahmins feed first at a funeral feast, or at a ceremonial milk-rice offering, or at a sacrificial feast, or at a feast for guests?"
+"Trong những dịp như vậy, thưa Tôn giả Cồ-đàm, các vị Bà-la-môn sẽ mời người không chăm học cũng không thông minh, nhưng giữ giới và có tánh tốt ăn trước; vì làm sao vật cúng dường cho người phạm giới và có tánh xấu lại có thể mang lại quả lớn?"
 
-"On such occasions, brahmins would feed first the one who was neither studious nor acute, but virtuous and of good character, Master Gotama; for how could what is given to one who is immoral and of bad character bring great fruit?"
+17\. "Này Assalāyana, trước tiên, ông đứng trên lập trường về sanh (birth - jāti - sự sinh ra, nguồn gốc dòng dõi), sau đó ông đứng trên lập trường về học vấn kinh điển (scriptural learning - ajjhena - sự học thuộc và hiểu biết các kinh sách Vệ-đà), và sau đó ông đã đi đến chỗ đứng trên chính nền tảng rằng sự thanh tịnh là dành cho cả bốn giai cấp, như Ta mô tả."
 
-17. "First, Assalāyana, you took your stand on birth, and after that you took your stand on scriptural learning, and after that you have come to take your stand on the very ground that purification is for all four castes, as I describe it."
+Khi nghe vậy, thanh niên Bà-la-môn Assalāyana ngồi im lặng, bối rối, vai rũ xuống, đầu cúi gằm, buồn rầu, và không đáp lại được. Biết được điều này, Đức Thế Tôn nói với chàng:
 
-When this was said, the brahmin student Assalāyana sat silent and dismayed, with shoulders drooping and head down, glum, and without response. Knowing this, the Blessed One said to him:
+18\. "Này Assalāyana, xưa kia, khi bảy vị đạo sĩ (seers - isi - người tu hành khổ hạnh, thường sống ẩn dật) Bà-la-môn đang sống trong những túp lều lá trong rừng, một ác kiến (pernicious view - pāpakaṃ diṭṭhigataṃ - quan điểm sai lầm và tai hại) này đã khởi lên trong họ: 'Bà-la-môn là giai cấp cao quý nhất...[155]...là người thừa kế của Phạm Thiên.' Bấy giờ, đạo sĩ Devala Hắc Ám (Devala the Dark - Devala Kaṇha) nghe được điều này. [^874] Rồi ông sửa lại tóc và râu, mặc y phục màu vàng sẫm, mang đôi dép chắc chắn, và cầm một cây gậy bằng vàng, xuất hiện trong sân của bảy vị đạo sĩ Bà-la-môn. Sau đó, trong khi đi tới đi lui trong sân của bảy vị đạo sĩ Bà-la-môn, đạo sĩ Devala Hắc Ám nói như thế này: 'Các vị đạo sĩ Bà-la-môn đáng kính ấy đã đi đâu rồi? Các vị đạo sĩ Bà-la-môn đáng kính ấy đã đi đâu rồi?' Bấy giờ, bảy vị đạo sĩ Bà-la-môn nghĩ: 'Ai đang đi tới đi lui trong sân của bảy vị đạo sĩ Bà-la-môn như một kẻ quê mùa nói rằng: "Các vị đạo sĩ Bà-la-môn đáng kính ấy đã đi đâu rồi? Các vị đạo sĩ Bà-la-môn đáng kính ấy đã đi đâu rồi?" Chúng ta hãy nguyền rủa hắn!' Rồi bảy vị đạo sĩ Bà-la-môn nguyền rủa đạo sĩ Devala Hắc Ám như thế này: 'Hãy thành tro bụi, kẻ đê tiện kia! Hãy thành tro bụi, kẻ đê tiện kia!' Nhưng bảy vị đạo sĩ Bà-la-môn càng nguyền rủa ông, đạo sĩ Devala Hắc Ám lại càng trở nên ưa nhìn, xinh đẹp và khôi ngô hơn. Bấy giờ, bảy vị đạo sĩ Bà-la-môn nghĩ: 'Sự khổ hạnh (asceticism - tapa - sự tu hành ép xác, hành hạ thân thể) của chúng ta thật vô ích, đời sống phạm hạnh (holy life - brahmacariya - đời sống trong sạch, thường chỉ việc tu hành xuất gia hoặc giữ giới nghiêm túc) của chúng ta thật vô ích; vì trước đây khi chúng ta nguyền rủa bất cứ ai rằng: "Hãy thành tro bụi, kẻ đê tiện kia! Hãy thành tro bụi, kẻ đê tiện kia!" thì người đó luôn biến thành tro bụi; nhưng chúng ta càng nguyền rủa người này, ông ta lại càng trở nên ưa nhìn, xinh đẹp và khôi ngô hơn.'
 
-18. "Once, Assalāyana, when seven brahmin seers were dwelling in leaf huts in the forest, this pernicious view arose in them: 'Brahmins are the highest caste...[155]...heirs of Brahmā.' Now the seer Devala the Dark heard this. [^874] Then he arranged his hair and beard, dressed in ochre-coloured garments, put on stout sandals, and taking a staff made of gold, he appeared in the courtyard of the seven brahmin seers. Then, while walking up and down the courtyard of the seven brahmin seers, the seer Devala the Dark spoke thus: 'Where have those worthy brahmin
-seers gone? Where have those worthy brahmin seers gone?' Then the seven brahmin seers thought: 'Who is walking up and down in the courtyard of the seven brahmin seers like a village lout speaking thus: "Where have those worthy brahmin seers gone? Where have those worthy brahmin seers gone?" Let us curse him!' Then the seven brahmin seers cursed the seer Devala the Dark thus: 'Be ashes, vile one! Be ashes, vile one!' But the more the seven brahmin seers cursed him, the more comely, beautiful, and handsome the seer Devala the Dark became. Then the seven brahmin seers thought: 'Our asceticism is in vain, our holy life is fruitless; for formerly when we cursed anyone thus: "Be ashes, vile one! Be ashes, vile one!" he always became ashes; but the more we curse this one, the more comely, beautiful, and handsome he becomes.'
+"'Thưa quý vị, sự khổ hạnh của quý vị không vô ích, đời sống phạm hạnh của quý vị không vô ích. Nhưng, thưa quý vị, hãy từ bỏ lòng căm ghét đối với tôi.' [156]
 
-"'Your asceticism is not in vain, sirs, your holy life is not fruitless. But, sirs, put away your hatred towards me.' [156]
+"'Thưa ngài, chúng tôi đã từ bỏ lòng căm ghét đối với ngài. Ngài là ai?'
 
-"'We have put away our hatred towards you, sir. Who are you?'
+"'Thưa quý vị, quý vị có nghe nói về đạo sĩ Devala Hắc Ám không?' - 'Thưa ngài, có.' - 'Thưa quý vị, tôi chính là ông ấy.'
 
-"'Have you heard of the seer Devala the Dark, sirs?' - 'Yes, sir.' - 'I am he, sirs.'
+"Rồi bảy vị đạo sĩ Bà-la-môn đến gặp đạo sĩ Devala Hắc Ám và tỏ lòng kính trọng ông. Sau đó, ông nói với họ: 'Thưa quý vị, tôi nghe rằng khi bảy vị đạo sĩ Bà-la-môn đang sống trong những túp lều lá trong rừng, ác kiến này đã khởi lên trong họ: "Bà-la-môn là giai cấp cao quý nhất... là người thừa kế của Phạm Thiên."' - 'Thưa ngài, đúng vậy.'
 
-"Then the seven brahmin seers went to the seer Devala the Dark and paid homage to him. Then he said to them: 'Sirs, I heard that while the seven brahmin seers were dwelling in leaf huts in the forest, this pernicious view arose in them: "Brahmins are the highest caste...heirs of Brahma."' - 'That is so, sir.'
+"'Nhưng, thưa quý vị, quý vị có biết người mẹ đã sinh ra quý vị chỉ quan hệ với người Bà-la-môn mà chưa bao giờ với người không phải Bà-la-môn không?' - 'Thưa ngài, không.'
 
-"'But, sirs, do you know if the mother who bore you went only with a brahmin and never with a non-brahmin?' - 'No, sir.'
+"'Nhưng, thưa quý vị, quý vị có biết các bà mẹ của mẹ quý vị cho đến bảy đời trước chỉ quan hệ với người Bà-la-môn mà chưa bao giờ với người không phải Bà-la-môn không?' - 'Thưa ngài, không.'
 
-"'But, sirs, do you know if your mother's mothers back to the seventh generation went only with brahmins and never with non-brahmins?' - 'No, sir.'
+"'Nhưng, thưa quý vị, quý vị có biết người cha đã sinh ra quý vị chỉ quan hệ với phụ nữ Bà-la-môn mà chưa bao giờ với phụ nữ không phải Bà-la-môn không?' - 'Thưa ngài, không.'
 
-"'But, sirs, do you know if the father who begot you went only with a brahmin woman and never with a non-brahmin woman?' - 'No, sir.'
+"'Nhưng, thưa quý vị, quý vị có biết các ông cha của cha quý vị cho đến bảy đời trước chỉ quan hệ với phụ nữ Bà-la-môn mà chưa bao giờ với phụ nữ không phải Bà-la-môn không?' - 'Thưa ngài, không.'
 
-"'But, sirs, do you know if your father's fathers back to the seventh generation went only with brahmin women and never with non-brahmin women?' - 'No, sir.'
+"'Nhưng, thưa quý vị, quý vị có biết sự thụ thai (conception of an embryo - gabbhassa avakkanti - quá trình hình thành bào thai trong bụng mẹ) trong bụng mẹ diễn ra như thế nào không?'
 
-"'But, sirs, do you know how the conception of an embryo in a womb comes about?'
+"'Thưa ngài, chúng tôi biết sự thụ thai trong bụng mẹ diễn ra như thế nào. [157] Ở đây, có sự giao hợp của cha và mẹ, và đó là lúc người mẹ có thể thụ thai, và chúng sanh sắp tái sanh (being to be reborn - gandhabba - thực thể trung gian giữa hai kiếp sống, chờ đợi điều kiện để nhập thai) có mặt. Như vậy, sự thụ thai trong bụng mẹ diễn ra thông qua sự kết hợp của ba yếu tố này.' ${875}$
 
-"'Sir, we know how the conception of an embryo in a womb comes about. [157] Here, there is a union of the mother and
-father, and it is the mother's season, and the being to be reborn is present. Thus the conception of an embryo in a womb comes about through the union of these three things. ${ }^{875}$
+"'Vậy thì, thưa quý vị, quý vị có biết chắc chắn rằng chúng sanh sắp tái sanh đó là người quý tộc, Bà-la-môn, thương gia, hay người lao động không?'
 
-"‘Then, sirs, do you know for sure whether that being to be reborn is a noble, or a brahmin, or a merchant, or a worker?'
+"'Thưa ngài, chúng tôi không biết chắc chắn rằng chúng sanh sắp tái sanh đó là người quý tộc, Bà-la-môn, thương gia, hay người lao động.'
 
-"'Sir, we do not know for sure whether that being to be reborn is a noble, or a brahmin, or a merchant, or a worker.'
+"'Nếu vậy, thưa quý vị, thì quý vị là gì?'
 
-"That being so, sirs, then what are you?'
+"'Nếu vậy, thưa ngài, chúng tôi không biết chúng tôi là gì.'
 
-"'That being so, sir, we do not know what we are.'
+"Này Assalāyana, ngay cả bảy vị đạo sĩ Bà-la-môn đó, khi bị đạo sĩ Devala Hắc Ám gặng hỏi, chất vấn và vặn hỏi về chính khẳng định của họ về sanh, cũng không thể bảo vệ được nó. Vậy làm sao ông, khi bị Ta gặng hỏi, chất vấn và vặn hỏi bây giờ về khẳng định của ông về sanh, lại có thể bảo vệ được nó? Ông, người dựa vào giáo lý của các bậc thầy, thậm chí [còn không xứng đáng] làm người giữ muỗng Punna cho họ." [^876]
 
-"Now, Assalāyana, even those seven brahmin seers, on being pressed and questioned and cross-questioned by the seer Devala the Dark on their own assertion about birth, were unable to support it. But how shall you, on being pressed and questioned and cross-questioned by me now on your assertion about birth, be able to support it? You, who rely on the teachers' doctrines, are not [even fit to be] their spoon-holder Punna." [^876]
+19\. Khi nghe vậy, thanh niên Bà-la-môn Assalāyana thưa với Đức Thế Tôn: "Thật vi diệu, thưa Tôn giả Cồ-đàm! Thật vi diệu, thưa Tôn giả Cồ-đàm!... (như Kinh 91, §37)... Kể từ hôm nay, xin Tôn giả Cồ-đàm hãy ghi nhớ con là một cư sĩ tại gia (lay follower - upāsaka - người Phật tử tại gia) đã quy y (gone for refuge - saraṇaṃ gata - tìm đến nương tựa nơi Tam Bảo: Phật, Pháp, Tăng) Ngài trọn đời."
 
-19. When this was said, the brahmin student Assalāyana said to the Blessed One: "Magnificent, Master Gotama! Magnificent, Master Gotama!...(as Sutta 91, §37)...From today let Master Gotama remember me as a lay follower who has gone to him for refuge for life."
+<!--pg-->
+Từ ngữ:
+- sự thanh tịnh / visuddhi / purification: Sự làm cho trong sạch, thoát khỏi ô nhiễm phiền não, đạt đến trạng thái giải thoát. Trong ngữ cảnh này, Đức Phật bác bỏ quan điểm chỉ có Bà-la-môn mới đạt được sự thanh tịnh.
+- tướng của bậc Đại Nhân / mahāpurisa lakkhaṇa / marks of a Great Man: 32 dấu hiệu đặc biệt trên thân thể của một vị Phật hoặc một vị Chuyển Luân Thánh Vương (vua cai trị toàn cõi thế giới bằng Chánh pháp).
+- Giáo Pháp / Dhamma / Dhamma: Lời dạy của Đức Phật, chân lý về bản chất của thực tại, con đường dẫn đến giải thoát khổ đau.
+- tà kiến / micchā diṭṭhi / wrong view: Quan điểm sai lầm, không phù hợp với sự thật, đặc biệt là phủ nhận luật nhân quả (nghiệp báo), không tin có đời sau, không tin có sự giác ngộ.
+- cõi khổ, cõi dữ, đọa xứ, địa ngục / apāya, duggati, vinipāta, niraya / state of deprivation, unhappy destination, perdition, hell: Các cảnh giới tái sinh đau khổ do hậu quả của các hành động bất thiện (ác nghiệp), bao gồm địa ngục, ngạ quỷ, súc sinh, và a-tu-la.
+- chánh kiến / sammā diṭṭhi / right view: Quan điểm đúng đắn, phù hợp với sự thật, là yếu tố đầu tiên trong Bát Chánh Đạo. Bao gồm hiểu biết về Tứ Diệu Đế, luật nhân quả, và bản chất vô thường, khổ, vô ngã của các pháp.
+- cõi lành, cõi trời / sugati, sagga loka / happy destination, heavenly world: Các cảnh giới tái sinh an vui do hậu quả của các hành động thiện (thiện nghiệp), bao gồm cõi người và các cõi trời.
+- lòng từ / mettā / loving-kindness: Tâm mong muốn cho tất cả chúng sinh được an lạc, hạnh phúc, không có sự thù hận hay ác ý. Là một trong Tứ Vô Lượng Tâm (Từ, Bi, Hỷ, Xả).
+- quả lớn / mahapphala / great fruit: Kết quả tốt đẹp, lợi ích to lớn, hạnh phúc lâu dài phát sinh từ các hành động thiện lành, đặc biệt là việc cúng dường đến người có đạo đức.
+- phạm giới, có tánh xấu / dussīla, pāpadhamma / immoral, bad character: Người không giữ gìn các giới luật đạo đức (như năm giới), có hành vi và tâm tính xấu ác, bất thiện.
+- giữ giới, có tánh tốt / sīlavantu, kalyāṇadhamma / virtuous, good character: Người giữ gìn các giới luật đạo đức, có hành vi và tâm tính tốt đẹp, thiện lành.
+- sanh / jāti / birth: Sự sinh ra, nguồn gốc dòng dõi, giai cấp xã hội dựa trên sự sinh ra. Trong kinh này, Đức Phật chỉ ra rằng giá trị con người không nằm ở nguồn gốc sanh mà ở phẩm hạnh và hành động.
+- học vấn kinh điển / ajjhena / scriptural learning: Sự học thuộc lòng, nghiên cứu và hiểu biết các kinh sách thiêng liêng, trong bối cảnh này là kinh Vệ-đà của Bà-la-môn giáo.
+- đạo sĩ / isi / seer: Người tu hành khổ hạnh, thường sống ẩn dật trong rừng núi, được cho là có trí tuệ và năng lực đặc biệt thông qua sự tu tập.
+- ác kiến / pāpakaṃ diṭṭhigataṃ / pernicious view: Quan điểm sai lầm và có hại, dẫn đến khổ đau cho mình và người khác, như quan điểm về sự ưu việt của giai cấp Bà-la-môn.
+- khổ hạnh / tapa / asceticism: Sự tu hành bằng cách ép xác, hành hạ thân thể với niềm tin rằng điều đó sẽ dẫn đến thanh tịnh hoặc sức mạnh tâm linh. Đức Phật đã thực hành khổ hạnh nhưng sau đó từ bỏ vì thấy đó không phải con đường đúng đắn.
+- đời sống phạm hạnh / brahmacariya / holy life: Đời sống trong sạch, thanh cao, thường chỉ đời sống xuất gia tu hành, giữ giới nghiêm túc, hướng đến mục tiêu giải thoát. Cũng có thể áp dụng cho người tại gia giữ giới thanh tịnh.
+- sự thụ thai / gabbhassa avakkanti / conception of an embryo: Quá trình hình thành một bào thai trong bụng mẹ, theo Phật giáo cần có ba yếu tố: sự giao hợp của cha mẹ, người mẹ trong thời kỳ có thể thụ thai, và sự có mặt của một chúng sanh trung ấm (gandhabba) chờ tái sinh.
+- chúng sanh sắp tái sanh / gandhabba / being to be reborn: Thực thể tâm thức tồn tại giữa hai kiếp sống (thân trung ấm), chờ đợi đủ duyên để nhập vào bào thai và bắt đầu một đời sống mới.
+- cư sĩ tại gia / upāsaka (nam), upāsikā (nữ) / lay follower: Người Phật tử tại gia, đã quy y Tam Bảo và thực hành lời Phật dạy trong đời sống hàng ngày.
+- quy y / saraṇaṃ gata / gone for refuge: Hành động tìm đến nương tựa nơi Tam Bảo (Phật, Pháp, Tăng) làm kim chỉ nam cho đời sống tu tập, đánh dấu sự trở thành một người Phật tử.
+- bốn giai cấp / cattāro vaṇṇā / four castes: Hệ thống phân chia xã hội Ấn Độ cổ đại thành bốn nhóm chính: Sát-đế-lỵ (khattiya - vua chúa, chiến binh), Bà-la-môn (brāhmaṇa - tu sĩ, học giả), Phệ-xá (vessa - thương gia, nông dân), và Thủ-đà-la (sudda - người lao động, tôi tớ). Đức Phật không chấp nhận sự phân biệt này về mặt tâm linh.

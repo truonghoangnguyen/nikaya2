@@ -1,9 +1,9 @@
-# 42 Các vị Bà-la-môn ở Verañja
+# 42. Các vị Bà-la-môn ở Verañja
 ***(Kinh Verañjaka)***
 
-1.  Như vầy tôi nghe. Một thời Đức Thế Tôn (Blessed One - bậc được tôn kính, Phật) đang trú tại Sāvatthī (Xá Vệ), trong Vườn Kỳ Đà (Jetavana) của ông Anāthapiṇḍika (Cấp Cô Độc).
+1\.  Như vầy tôi nghe. Một thời Đức Thế Tôn (Blessed One - bậc được tôn kính, Phật) đang trú tại Sāvatthī (Xá Vệ), trong Vườn Kỳ Đà (Jetavana) của ông Anāthapiṇḍika (Cấp Cô Độc).
 
-2.  Khi ấy, có một số gia chủ Bà-la-môn (brahmin householders - những người thuộc giai cấp Bà-la-môn và là người tại gia) từ Verañja đã đến Sāvatthī vì một công việc nào đó. [291]
+2\.  Khi ấy, có một số gia chủ Bà-la-môn (brahmin householders - những người thuộc giai cấp Bà-la-môn và là người tại gia) từ Verañja đã đến Sāvatthī vì một công việc nào đó. [291]
 
 3-44. [Nội dung kinh này giống hệt Kinh 41, ngoại trừ việc kinh trước (Kinh 41) diễn đạt theo thuật ngữ “hành vi không đúng Pháp (Dhamma - Giáo pháp của Đức Phật, quy luật tự nhiên), hành vi bất chính” (§§7-10) và “hành vi đúng Pháp, hành vi chân chính” (§§11-14), thì kinh này diễn đạt theo thuật ngữ “người không thực hành đúng Pháp, người có hành vi bất chính” và “người thực hành đúng Pháp, người có hành vi chân chính”; và thay thế “Sālā” bằng “Verañja” trong toàn bộ kinh.]
 

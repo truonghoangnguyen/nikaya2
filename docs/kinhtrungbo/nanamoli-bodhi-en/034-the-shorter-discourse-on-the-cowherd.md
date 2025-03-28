@@ -1,4 +1,4 @@
-# 34 The Shorter Discourse on the Cowherd
+# 34. The Shorter Discourse on the Cowherd
 ***(Cūlagopālaka Sutta)***
 
 [225] 1. Thus have I heard. On one occasion the Blessed One was living in the Vajjian country at Ukkäcelā on the banks of the river Ganges. There he addressed the bhikkhus thus: "Bhikkhus." - "Venerable sir," they replied. The Blessed One said this:

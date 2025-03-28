@@ -1,4 +1,4 @@
-# 38 The Greater Discourse on the Destruction of Craving
+# 38. The Greater Discourse on the Destruction of Craving
 ***(Mahātamhāsankhaya Sutta)***
 
 #### (SETTING)

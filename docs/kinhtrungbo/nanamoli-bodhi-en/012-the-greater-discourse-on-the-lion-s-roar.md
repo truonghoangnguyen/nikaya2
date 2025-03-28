@@ -1,4 +1,4 @@
-# 12 The Greater Discourse on the Lion's Roar
+# 12. The Greater Discourse on the Lion's Roar
 ***(Mahāsīhanāda Sutta)***
 
 1\. Thus have I heard. On one occasion the Blessed One was living at Vesālī in the grove outside the city to the west.

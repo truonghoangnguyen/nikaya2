@@ -1,4 +1,4 @@
-# 122 The Greater Discourse on Voidness
+# 122. The Greater Discourse on Voidness
 ***(Mahāsuññata Sutta)***
 
 1\. Thus have I heard. [^1145] On one occasion the Blessed One was living in the Sakyan country at Kapilavatthu in Nigrodha's Park.

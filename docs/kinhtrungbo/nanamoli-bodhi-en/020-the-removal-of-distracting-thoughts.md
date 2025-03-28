@@ -1,4 +1,4 @@
-# 20 The Removal of Distracting Thoughts
+# 20. The Removal of Distracting Thoughts
 ***(Vitakkasaṇthāna Sutta)***
 
 1\. Thus have I heard. [^238] On one occasion the Blessed One was living at Sāvatthī in Jeta's Grove, Anāthapindika's Park. There he addressed the bhikkhus thus: "Bhikkhus." - "Venerable sir," [119] they replied. The Blessed One said this:

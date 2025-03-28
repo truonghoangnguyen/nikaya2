@@ -1,4 +1,4 @@
-# 101 At Devadaha
+# 101. At Devadaha
 ***(Devadaha Sutta)***
 
 [214] 1. Thus have I heard. On one occasion the Blessed One was living in the Sakyan country at a town of the Sakyans named Devadaha. There the Blessed One addressed the bhikkhus thus: "Bhikkhus." - "Venerable sir," they replied. The Blessed One said this:

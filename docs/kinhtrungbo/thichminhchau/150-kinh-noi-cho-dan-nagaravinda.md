@@ -3,7 +3,7 @@
 **150. KINH NÓI CHO DÂN NAGARAVINDA**
 ***(Nagaravindeyya Sutta)***
 
-## Như vầy tôi nghe:
+**Như vầy tôi nghe.**
 
 Môt thời Thế Tôn du hành giữa dân chúng Kosala, cùng với Ðại chúng Tỷ-kheo và đi đến một làng Bà-
 la-môn của dân chúng Kosala tên là Nagaravinda.

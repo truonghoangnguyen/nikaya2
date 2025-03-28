@@ -3,7 +3,7 @@
 **142. KINH PHÂN BIỆT CÚNG DƯỜNG**
 ***(Dakkhinàvibhanga Sutta)***
 
-## Như vầy tôi nghe:
+**Như vầy tôi nghe.**
 
 Một thời Thế Tôn trú giữa dòng họ Sakka (Thích-Ca), ở Kapilavatthu (Ca-ty-la-vệ), tại tinh xá Nigrodha
 (Ni-câu-luật Thọ Viên).

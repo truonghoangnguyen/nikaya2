@@ -1,109 +1,132 @@
-# 88 The Cloak
-***(Bāhitika Sutta)***
+# 88. Áo Choàng Ngoài
+***(Kinh Bāhitika)***
 
-1. Thus have I heard. On one occasion the Blessed One was living at Sāvatthī in Jeta's Grove, Anāthapiṇ̣̂ika's Park.
+1\.  Như vầy tôi nghe. Một thời Đức Thế Tôn trú ở Xá-vệ (Sāvatthī), tại vườn ông Jeta (Kỳ-đà), khu vườn của ông Anāthapiṇḍika (Cấp Cô Độc).
 
-2. Then, when it was morning, the venerable Ānanda dressed, and taking his bowl and outer robe, went into Sāvatthī for alms. When he had wandered for alms in Sāvatthī and had returned from his almsround, after his meal he went to the Eastern Park, to the Palace of Migāra's Mother, for the day's abiding.
+2\.  Vào buổi sáng, Tôn giả A-nan đắp y, mang bát và y vai trái, vào thành Xá-vệ để khất thực. Sau khi khất thực ở Xá-vệ và đi khất thực về, sau bữa ăn, ngài đi đến Đông Viên, Lộc Mẫu Cung (Lâu đài của mẹ Migāra), để nghỉ ban ngày.
 
-3. Now on that occasion King Pasenadi of Kosala had mounted the elephant Ekapuṇdarīka and was riding out from Sāvatthī at midday. He saw the venerable Ānanda coming in the distance and asked the minister Sirivaddha: "That is the venerable Ānanda, is it not?" - "Yes, sire, that is the venerable Ānanda."
+3\.  Lúc bấy giờ, vua Pasenadi xứ Kosala đang cưỡi voi Ekapuṇdarīka đi ra khỏi thành Xá-vệ vào giữa trưa. Nhà vua thấy Tôn giả A-nan từ xa và hỏi quan đại thần Sirivaddha: "Kia có phải là Tôn giả A-nan không?" - "Tâu đại vương, vâng, đó là Tôn giả A-nan."
 
-4. Then King Pasenadi of Kosala told a man: "Come, good man, go to the venerable Ānanda and pay homage in my name with your head at his feet, saying: 'Venerable sir, King Pasenadi of Kosala pays homage with his head at the venerable Ānanda's feet.' Then say this: 'Venerable sir, if the venerable Ānanda has no urgent business, perhaps the venerable Ānanda would wait [113] a moment, out of compassion.'"
+4\.  Rồi vua Pasenadi xứ Kosala bảo một người: "Này người kia, hãy đến chỗ Tôn giả A-nan và thay mặt ta đảnh lễ dưới chân ngài, nói rằng: 'Thưa Tôn giả, vua Pasenadi xứ Kosala xin đảnh lễ dưới chân Tôn giả A-nan.' Rồi nói tiếp: 'Thưa Tôn giả, nếu Tôn giả A-nan không có việc gì gấp, xin Tôn giả vì lòng bi mẫn (compassion - lòng thương xót) [113] chờ một lát.'"
 
-5. "Yes, sire," the man replied, and he went to the venerable Ānanda, and after paying homage to him, he stood at one side and said to the venerable Ānanda: "Venerable sir, King Pasenadi of Kosala pays homage with his head at the venerable Ānanda's feet and he says this: 'Venerable sir, if the venerable Ānanda has no urgent business, perhaps the venerable Ānanda would wait a moment, out of compassion.'"
+5\.  "Tâu vâng, đại vương," người đó đáp, rồi đi đến chỗ Tôn giả A-nan, sau khi đảnh lễ ngài, đứng sang một bên và thưa với Tôn giả A-nan: "Thưa Tôn giả, vua Pasenadi xứ Kosala xin đảnh lễ dưới chân Tôn giả A-nan và nhắn rằng: 'Thưa Tôn giả, nếu Tôn giả A-nan không có việc gì gấp, xin Tôn giả vì lòng bi mẫn chờ một lát.'"
 
-6. The venerable Ānanda consented in silence. Then King Pasenadi went by elephant as far as the elephant could go, and then he dismounted and went to the venerable Ānanda on foot. After paying homage to him, he stood at one side and said to the
-venerable Ānanda: "If, venerable sir, the venerable Ānanda has no urgent business, it would be good if he would go to the bank of the river Aciravati, out of compassion."
+6\.  Tôn giả A-nan im lặng nhận lời. Sau đó, vua Pasenadi đi voi đến chỗ voi có thể đi, rồi xuống voi và đi bộ đến chỗ Tôn giả A-nan. Sau khi đảnh lễ ngài, vua đứng sang một bên và thưa với Tôn giả A-nan: "Thưa Tôn giả, nếu Tôn giả A-nan không có việc gì gấp, mong ngài vì lòng bi mẫn đi đến bờ sông Aciravati."
 
-7. The venerable Ānanda consented in silence. He went to the bank of the river Aciravati and sat down at the root of a tree on a seat made ready. Then King Pasenadi went by elephant as far as the elephant could go, and then he dismounted and went to the venerable Ānanda on foot. After paying homage to him, he stood at one side and said to the venerable Ānanda: "Here, venerable sir, is an elephant rug. Let the venerable Ānanda be seated on it."
+7\.  Tôn giả A-nan im lặng nhận lời. Ngài đi đến bờ sông Aciravati và ngồi xuống gốc cây trên chỗ đã soạn sẵn. Rồi vua Pasenadi đi voi đến chỗ voi có thể đi, rồi xuống voi và đi bộ đến chỗ Tôn giả A-nan. Sau khi đảnh lễ ngài, vua đứng sang một bên và thưa với Tôn giả A-nan: "Thưa Tôn giả, đây là tấm thảm voi. Xin Tôn giả hãy ngồi lên."
 
-"There is no need, great king. Sit down. I am sitting on my own mat."
+    "Không cần đâu, đại vương. Xin ngài cứ ngồi. Tôi đang ngồi trên tấm tọa cụ của tôi."
 
-8. King Pasenadi of Kosala sat down on a seat made ready and said: "Venerable Ānanda, would the Blessed One behave with the body in such a way that he could be censured by wise recluses and brahmins?"831
+8\.  Vua Pasenadi xứ Kosala ngồi xuống chỗ đã soạn sẵn và thưa: "Thưa Tôn giả A-nan, Đức Thế Tôn có hành xử về thân theo cách nào mà có thể bị các vị sa môn và bà la môn (recluses and brahmins - tu sĩ và người tu khổ hạnh thuộc các truyền thống khác nhau) có trí quở trách không?"⁸³¹
 
-"No, great king, the Blessed One would not behave with the body in such a way that he could be censured by wise recluses and brahmins." [114]
+    "Không, thưa đại vương, Đức Thế Tôn không hành xử về thân theo cách nào mà có thể bị các vị sa môn và bà la môn có trí quở trách." [114]
 
-"Would the Blessed One, venerable Ānanda, behave with speech...behave with the mind in such a way that he could be censured by wise recluses and brahmins?"
+    "Thưa Tôn giả A-nan, Đức Thế Tôn có hành xử về lời nói... hành xử về ý theo cách nào mà có thể bị các vị sa môn và bà la môn có trí quở trách không?"
 
-"No, great king, the Blessed One would not behave with speech...behave with the mind in such a way that he could be censured by wise recluses and brahmins."
+    "Không, thưa đại vương, Đức Thế Tôn không hành xử về lời nói... hành xử về ý theo cách nào mà có thể bị các vị sa môn và bà la môn có trí quở trách."
 
-9. "It is wonderful, yenerable sir, it is marvellous! For what we were unable to accomplish with a question has been accomplished by the venerable Ānanda with the answer to the question. We do not recognise anything of value in the praise and blame of others spoken by foolish ignorant persons, who speak without having investigated and evaluated; but we recognise as valuable the praise and blame of others spoken by wise, intelligent, and sagacious persons who speak after having investigated and evaluated.
+9\.  "Thật vi diệu, thưa Tôn giả, thật hy hữu! Điều mà trẫm không thể hiểu rõ qua câu hỏi thì đã được Tôn giả làm sáng tỏ qua câu trả lời. Trẫm không xem trọng lời khen chê của những người ngu si, thiếu hiểu biết, những người nói mà không tìm hiểu và cân nhắc; nhưng trẫm xem trọng lời khen chê của những người có trí, thông minh, sáng suốt, những người nói sau khi đã tìm hiểu và cân nhắc."
 
-10. "Now, venerable Ānanda, what kind of bodily behaviour is censured by wise recluses and brahmins?"
+10\. "Vậy, thưa Tôn giả A-nan, hành vi nào về thân bị các vị sa môn và bà la môn có trí quở trách?"
 
-"Any bodily behaviour that is unwholesome, great king."
+    "Bất kỳ hành vi nào về thân bất thiện (unwholesome - không lành mạnh, có hại), thưa đại vương."
 
-"Now, venerable Ānanda, what kind of bodily behaviour is unwholesome?"
+    "Vậy, thưa Tôn giả A-nan, hành vi nào về thân là bất thiện?"
 
-"Any bodily behaviour that is blameworthy, great king."
-"Now, venerable Ānanda, what kind of bodily behaviour is blameworthy?"
+    "Bất kỳ hành vi nào về thân đáng chê trách (blameworthy - đáng bị khiển trách), thưa đại vương."
 
-"Any bodily behaviour that brings affliction, great king."
+    "Vậy, thưa Tôn giả A-nan, hành vi nào về thân là đáng chê trách?"
 
-"Now, venerable Ānanda, what kind of bodily behaviour brings affliction?"
+    "Bất kỳ hành vi nào về thân mang lại phiền não (brings affliction - gây ra đau khổ, khổ sở), thưa đại vương."
 
-"Any bodily behaviour that has painful results, great king."
+    "Vậy, thưa Tôn giả A-nan, hành vi nào về thân mang lại phiền não?"
 
-"Now, venerable Ānanda, what kind of bodily behaviour has painful results?"
+    "Bất kỳ hành vi nào về thân có kết quả đau khổ (painful results - quả báo khổ đau), thưa đại vương."
 
-"Any bodily behaviour, great king, that leads to one's own affliction, or to the affliction of others, or to the affliction of both, and on account of which unwholesome states increase and wholesome states diminish. Such bodily behaviour is censured by wise recluses and brahmins, great king."832
+    "Vậy, thưa Tôn giả A-nan, hành vi nào về thân có kết quả đau khổ?"
 
-11. "Now, venerable Ānanda, what kind of verbal behaviour is censured by wise recluses and brahmins?"
+    "Bất kỳ hành vi nào về thân, thưa đại vương, dẫn đến phiền não cho chính mình, hoặc phiền não cho người khác, hoặc phiền não cho cả hai, và do đó các trạng thái bất thiện (unwholesome states - các tâm sở bất thiện, các hành động xấu) tăng trưởng và các trạng thái thiện (wholesome states - các tâm sở thiện, các hành động tốt) suy giảm. Hành vi về thân như vậy bị các vị sa môn và bà la môn có trí quở trách, thưa đại vương."⁸³²
 
-"Any verbal behaviour that is unwholesome...(complete as in §10, substituting "verbal behaviour" for "bodily behaviour")..."
+11\. "Vậy, thưa Tôn giả A-nan, hành vi nào về lời nói bị các vị sa môn và bà la môn có trí quở trách?"
 
-12. "Now, venerable Ānanda, what kind of mental behaviour is censured by wise recluses and brahmins?"
+    "Bất kỳ hành vi nào về lời nói bất thiện...(tương tự như §10, thay 'hành vi về thân' bằng 'hành vi về lời nói')..."
 
-"Any mental behaviour that is unwholesome...(complete as in §10, substituting "mental behaviour" for "bodily behaviour") [115]..."
+12\. "Vậy, thưa Tôn giả A-nan, hành vi nào về ý bị các vị sa môn và bà la môn có trí quở trách?"
 
-13. "Now, venerable Ānanda, does the Blessed One praise only the abandoning of all unwholesome states?"
+    "Bất kỳ hành vi nào về ý bất thiện...(tương tự như §10, thay 'hành vi về thân' bằng 'hành vi về ý') [115]..."
 
-"The Tathāgata, great king, has abandoned all unwholesome states and he possesses wholesome states." ${ }^{833}$
+13\. "Vậy, thưa Tôn giả A-nan, có phải Đức Thế Tôn chỉ tán thán việc từ bỏ (abandoning - sự đoạn trừ, loại bỏ) tất cả các trạng thái bất thiện không?"
 
-14. "Now, venerable Ānanda, what kind of bodily behaviour is uncensured by wise recluses and brahmins?"
+    "Đức Như Lai (Tathāgata - một danh hiệu của Đức Phật, nghĩa là 'Người đã đến như vậy' hoặc 'Người đã đi như vậy'), thưa đại vương, đã từ bỏ tất cả các trạng thái bất thiện và sở hữu các trạng thái thiện."⁸³³
 
-"Any bodily behaviour that is wholesome, great king."
+14\. "Vậy, thưa Tôn giả A-nan, hành vi nào về thân không bị các vị sa môn và bà la môn có trí quở trách?"
 
-"Now, venerable Ānanda, what kind of bodily behaviour is wholesome?"
+    "Bất kỳ hành vi nào về thân thiện (wholesome - lành mạnh, tốt đẹp), thưa đại vương."
 
-"Any bodily behaviour that is blameless, great king."
+    "Vậy, thưa Tôn giả A-nan, hành vi nào về thân là thiện?"
 
-"Now, venerable Ānanda, what kind of bodily behaviour is blameless?"
+    "Bất kỳ hành vi nào về thân không đáng chê trách (blameless - không có lỗi lầm), thưa đại vương."
 
-"Any bodily behaviour that does not bring affliction, great king."
+    "Vậy, thưa Tôn giả A-nan, hành vi nào về thân là không đáng chê trách?"
 
-"Now, venerable Ānanda, what kind of bodily behaviour does not bring affliction?"
+    "Bất kỳ hành vi nào về thân không mang lại phiền não (does not bring affliction - không gây ra đau khổ, khổ sở), thưa đại vương."
 
-"Any bodily behaviour that has pleasant results, great king."
+    "Vậy, thưa Tôn giả A-nan, hành vi nào về thân không mang lại phiền não?"
 
-"Now, venerable Ānanda, what kind of bodily behaviour has pleasant results?"
-"Any bodily behaviour, great king, that does not lead to one's own affliction, or to the affliction of others, or to the affliction of both, and on account of which unwholesome states diminish and wholesome states increase. Such bodily behaviour, great king, is uncensured by wise recluses and brahmins."
+    "Bất kỳ hành vi nào về thân có kết quả an vui (pleasant results - quả báo hạnh phúc), thưa đại vương."
 
-15. "Now, venerable Ānanda, what kind of verbal behaviour is uncensured by wise recluses and brahmins?"
+    "Vậy, thưa Tôn giả A-nan, hành vi nào về thân có kết quả an vui?"
 
-"Any verbal behaviour that is wholesome...(complete as in §14, substituting "verbal behaviour" for "bodily behaviour")..."
+    "Bất kỳ hành vi nào về thân, thưa đại vương, không dẫn đến phiền não cho chính mình, hoặc phiền não cho người khác, hoặc phiền não cho cả hai, và do đó các trạng thái bất thiện suy giảm và các trạng thái thiện tăng trưởng. Hành vi về thân như vậy, thưa đại vương, không bị các vị sa môn và bà la môn có trí quở trách."
 
-16. "Now, venerable Ānanda, what kind of mental behaviour is uncensured by wise recluses and brahmins?"
+15\. "Vậy, thưa Tôn giả A-nan, hành vi nào về lời nói không bị các vị sa môn và bà la môn có trí quở trách?"
 
-"Any mental behaviour that is wholesome...(complete as in §14, substituting "mental behaviour" for "bodily behaviour") [116]..."
+    "Bất kỳ hành vi nào về lời nói thiện...(tương tự như §14, thay 'hành vi về thân' bằng 'hành vi về lời nói')..."
 
-17. "Now, venerable Ānanda, does the Blessed One praise only the undertaking of all wholesome states?"
+16\. "Vậy, thưa Tôn giả A-nan, hành vi nào về ý không bị các vị sa môn và bà la môn có trí quở trách?"
 
-"The Tathāgata, great king, has abandoned all unwholesome states and possesses wholesome states."
+    "Bất kỳ hành vi nào về ý thiện...(tương tự như §14, thay 'hành vi về thân' bằng 'hành vi về ý') [116]..."
 
-18. "It is wonderful, venerable sir, it is marvellous how well that has been expressed by the venerable Ānanda! And we are satisfied and pleased by what has been so well expressed by him. Venerable sir, we are so satisfied and pleased with what has been so well expressed by the venerable Ānanda that if the elephant-treasure were allowed to him, we would give it to him; if the horse-treasure were allowed to him, we would give it to him; if the boon of a village were allowed to him, we would give it to him. But we know, venerable sir, that these are not allowable for the venerable Ānanda. But there is this cloak of mine, [^834] venerable sir, which was sent to me packed in a royal umbrella case by King Ajātasattu of Magadha, sixteen hands long and eight hands wide. Let the venerable Ānanda accept it out of compassion."
+17\. "Vậy, thưa Tôn giả A-nan, có phải Đức Thế Tôn chỉ tán thán việc thực hành (undertaking - sự đảm nhận, thực hiện) tất cả các trạng thái thiện không?"
 
-"It is not necessary, great king. My triple robe is complete." [117]
+    "Đức Như Lai, thưa đại vương, đã từ bỏ tất cả các trạng thái bất thiện và sở hữu các trạng thái thiện."
 
-19. "Venerable sir, this river Aciravatī has been seen both by the venerable Ānanda and by ourselves when a great cloud has rained heavily on the mountains; then this river Aciravatī overflows both its banks. So too, venerable sir, the venerable Ānanda can make a triple robe for himself out of this cloak, and he can share out his old triple robe among his companions in the holy life. In this way, our offering will overflow. Venerable sir, let the venerable Ānanda accept the cloak."
+18\. "Thật vi diệu, thưa Tôn giả, thật hy hữu, Tôn giả A-nan đã nói rất hay! Và trẫm rất hài lòng và hoan hỷ với những gì Tôn giả đã nói rất hay. Thưa Tôn giả, trẫm hài lòng và hoan hỷ đến nỗi, nếu voi báu được phép dâng cho ngài, trẫm sẽ dâng; nếu ngựa báu được phép dâng cho ngài, trẫm sẽ dâng; nếu làng tốt nhất được phép ban cho ngài, trẫm sẽ ban. Nhưng trẫm biết, thưa Tôn giả, những thứ đó không được phép dùng cho Tôn giả A-nan. Nhưng đây là tấm áo choàng ngoài (cloak - loại áo khoác ngoài) của trẫm,[^834] thưa Tôn giả, do vua Ajātasattu xứ Magadha gửi tặng, được gói trong hộp đựng lọng báu, dài mười sáu gang tay và rộng tám gang tay. Xin Tôn giả A-nan vì lòng bi mẫn mà nhận lấy."
 
-20. The venerable Ānanda accepted the cloak. Then King Pasenadi of Kosala said: "And now, venerable sir, we depart. We are busy and have much to do."
+    "Không cần đâu, đại vương. Bộ tam y (triple robe - ba loại y phục của một vị tỳ kheo) của tôi đã đủ." [117]
 
-"Now is the time, great king, to do as you think fit."
+19\. "Thưa Tôn giả, cả Tôn giả A-nan và trẫm đều đã thấy sông Aciravatī này khi mây lớn trút mưa nặng hạt trên núi; khi đó sông Aciravatī này tràn cả hai bờ. Cũng vậy, thưa Tôn giả, Tôn giả A-nan có thể dùng tấm áo choàng này để may thêm một bộ tam y cho mình, và ngài có thể chia sẻ bộ tam y cũ của ngài cho các vị đồng phạm hạnh (companions in the holy life - những người cùng tu tập đời sống thánh thiện). Bằng cách này, vật cúng dường của trẫm sẽ lan tỏa. Thưa Tôn giả, xin Tôn giả A-nan nhận lấy tấm áo choàng."
 
-Then King Pasenadi of Kosala, having delighted and rejoiced in the venerable Ānanda's words, rose from his seat, and after paying homage to the venerable Ānanda, keeping him on his right, he departed.
+20\. Tôn giả A-nan nhận lấy tấm áo choàng. Rồi vua Pasenadi xứ Kosala nói: "Và bây giờ, thưa Tôn giả, trẫm xin cáo từ. Trẫm bận nhiều công việc."
 
-21. Then soon after he had left, the venerable Ānanda went to the Blessed One, and after paying homage to him, he sat down at one side, related to him his entire conversation with King Pasenadi of Kosala, and presented the cloak to the Blessed One.
+    "Đại vương, bây giờ là lúc ngài làm những gì ngài thấy là phù hợp."
 
-22. Then the Blessed One addressed the bhikkhus: "It is a gain, bhikkhus, for King Pasenadi of Kosala, it is a great gain for King Pasenadi of Kosala that he has had the opportunity of seeing and paying respect to Ānanda."
+    Sau đó, vua Pasenadi xứ Kosala, hoan hỷ và vui mừng với lời của Tôn giả A-nan, đứng dậy khỏi chỗ ngồi, đảnh lễ Tôn giả A-nan, đi quanh ngài theo chiều bên phải (thân ái), rồi ra về.
 
-That is what the Blessed One said. The bhikkhus were satisfied and delighted in the Blessed One's words.
+21\. Ngay sau khi vua rời đi, Tôn giả A-nan đến gặp Đức Thế Tôn, sau khi đảnh lễ ngài, ngồi xuống một bên, kể lại toàn bộ cuộc đối thoại với vua Pasenadi xứ Kosala, và dâng tấm áo choàng lên Đức Thế Tôn.
+
+22\. Bấy giờ Đức Thế Tôn nói với các vị tỳ kheo (bhikkhus - các vị sư nam đã thọ giới cụ túc): "Này các tỳ kheo, thật là lợi ích cho vua Pasenadi xứ Kosala, thật là lợi ích lớn lao cho vua Pasenadi xứ Kosala khi ông có cơ hội gặp gỡ và tỏ lòng kính trọng A-nan."
+
+Đó là những gì Đức Thế Tôn đã nói. Các vị tỳ kheo hài lòng và hoan hỷ với lời dạy của Đức Thế Tôn.
+
+<!--pg-->
+Từ ngữ:
+-   bi mẫn / anukampā / compassion: Lòng thương xót, mong muốn chúng sinh thoát khổ, một trong Tứ vô lượng tâm.
+-   sa môn và bà la môn / samaṇabrāhmaṇā / recluses and brahmins: Các tu sĩ và người tu khổ hạnh thuộc các truyền thống tôn giáo và triết học khác nhau ở Ấn Độ cổ đại, bao gồm cả Phật giáo và các hệ thống khác. Sa môn chỉ chung những người xuất gia tu hành, bà la môn chỉ giai cấp tu sĩ của đạo Bà-la-môn.
+-   bất thiện / akusala / unwholesome: Không lành mạnh, có hại, dẫn đến khổ đau; thường liên quan đến ba gốc rễ bất thiện là tham (lobha), sân (dosa), và si (moha).
+-   đáng chê trách / sāvajja / blameworthy: Đáng bị khiển trách, có lỗi lầm, không phù hợp với đạo đức và giới luật, tạo ra nghiệp xấu.
+-   mang lại phiền não / sabyābajjha / brings affliction: Gây ra đau khổ, khổ sở, bất an, phiền muộn cho chính mình hoặc cho người khác.
+-   kết quả đau khổ / dukkhavipāka / painful results: Quả báo khổ đau, hậu quả không mong muốn phát sinh từ các hành động bất thiện (nghiệp bất thiện) trong hiện tại hoặc tương lai.
+-   trạng thái bất thiện / akusala dhammā / unwholesome states: Các tâm sở bất thiện (như tham, sân, si, ngã mạn, tà kiến, ganh tị,...) và các hành động xấu ác (thân, khẩu, ý) phát sinh từ chúng.
+-   trạng thái thiện / kusala dhammā / wholesome states: Các tâm sở thiện (như vô tham, vô sân, vô si, tín, tấn, niệm, định, tuệ,...) và các hành động tốt đẹp (thân, khẩu, ý) phát sinh từ chúng.
+-   từ bỏ / pahāna / abandoning: Sự đoạn trừ, loại bỏ, chấm dứt các pháp bất thiện, phiền não, các trạng thái tâm tiêu cực.
+-   Như Lai / Tathāgata / Tathāgata: Một danh hiệu tôn kính của Đức Phật, có nhiều nghĩa như "Người đã đến như vậy" (đến với chân lý) hoặc "Người đã đi như vậy" (đi đến Niết-bàn), chỉ người đã đạt giác ngộ hoàn toàn và viên mãn.
+-   thiện / kusala / wholesome: Lành mạnh, tốt đẹp, có lợi ích, dẫn đến an vui, hạnh phúc; thường liên quan đến ba gốc rễ thiện là vô tham (alobha), vô sân (adosa), và vô si (amoha - trí tuệ).
+-   không đáng chê trách / anavajja / blameless: Không có lỗi lầm, không đáng bị khiển trách, phù hợp với đạo đức và giới luật, tạo ra nghiệp tốt.
+-   không mang lại phiền não / abyābajjha / does not bring affliction: Không gây ra đau khổ, khổ sở, bất an cho mình và người khác.
+-   kết quả an vui / sukhavipāka / pleasant results: Quả báo hạnh phúc, an lạc, hậu quả tốt đẹp phát sinh từ các hành động thiện (nghiệp thiện) trong hiện tại hoặc tương lai.
+-   thực hành / samādāna / undertaking: Sự đảm nhận, thực hiện, tuân thủ các giới luật hoặc thực hành các pháp thiện, các phương pháp tu tập.
+-   áo choàng ngoài / bāhitika / cloak: Một loại áo khoác ngoài, trong ngữ cảnh này là một tấm vải lớn, quý giá dùng để khoác bên ngoài.
+-   tam y / ticīvara / triple robe: Ba loại y phục quy định cho một vị tỳ kheo, gồm y nội (antaravāsaka - mặc như xà rông), y thượng (uttarāsaṅga - vắt qua vai trái), và y tăng-già-lê (saṅghāṭi - y kép, thường xếp lại và vắt qua vai trái, hoặc dùng để đắp khi trời lạnh hoặc vào làng).
+-   đồng phạm hạnh / sabrahmacārī / companions in the holy life: Những người cùng tu tập đời sống thánh thiện theo lời dạy của Đức Phật, thường chỉ các vị tỳ kheo, tỳ kheo ni, hoặc cả cư sĩ cùng thực hành giáo pháp.
+-   tỳ kheo / bhikkhu / bhikkhu: Vị sư nam đã thọ giới cụ túc (giới cao nhất, gồm 227 giới theo Luật tạng Theravada) trong Tăng đoàn Phật giáo.

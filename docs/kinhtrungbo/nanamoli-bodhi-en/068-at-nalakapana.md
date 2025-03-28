@@ -1,4 +1,4 @@
-# 68 At Naḷakapāna
+# 68. At Naḷakapāna
 ***(Nalakapāna Sutta)***
 
 1\. Thus have I heard. On one occasion the Blessed One was living in the Kosalan country at Naḷakapāna in the Palāsa Grove.

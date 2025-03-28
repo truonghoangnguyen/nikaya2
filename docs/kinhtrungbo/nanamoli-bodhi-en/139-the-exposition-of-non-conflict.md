@@ -1,4 +1,4 @@
-# 139 The Exposition of Non-Conflict
+# 139. The Exposition of Non-Conflict
 ***(Aranavibhanga Sutta)***
 
 [230] 1. Thus have I heard. On one occasion the Blessed One was living at Sāvatthī in Jeta's Grove, Anāthapiṇ̣ika's Park. There the Blessed One addressed the bhikkhus thus: "Bhikkhus." - "Venerable sir," they replied. The Blessed One said this:

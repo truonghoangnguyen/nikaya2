@@ -1,4 +1,4 @@
-# 24 The Relay Chariots
+# 24. The Relay Chariots
 ***(Rathavinīta Sutta)***
 
 1\. Thus have I heard. On one occasion the Blessed One was living at Rājagaha in the Bamboo Grove, the Squirrels' Sanctuary.

@@ -1,4 +1,4 @@
-# 73 The Greater Discourse to Vacchagotta
+# 73. The Greater Discourse to Vacchagotta
 ***(Mahāvacchagotta Sutta)***
 
 1\. Thus have I heard. On one occasion the Blessed One was living at Rājagaha in the Bamboo Grove, the Squirrels' Sanctuary.

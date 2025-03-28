@@ -1,4 +1,4 @@
-# 85 To Prince Bodhi
+# 85. To Prince Bodhi
 ***(Bodhirājakumāra Sutta)***
 
 [91] 1. Thus have I heard. On one occasion the Blessed One was living in the Bhagga country at Sumsumāragira in the Bhesakaḷa Grove, the Deer Park.

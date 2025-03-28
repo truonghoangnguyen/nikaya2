@@ -1,4 +1,4 @@
-# 138 The Exposition of a Summary
+# 138. The Exposition of a Summary
 ***(Uddesavibhanga Sutta)***
 
 [223] 1. THUS HAVE I HEARD. On one occasion the Blessed One was living at Sāvatthī in Jeta's Grove, Anāthapiṇ̣ika's Park. There the Blessed One addressed the bhikkhus thus: "Bhikkhus." "Venerable sir," they replied. The Blessed One said this:

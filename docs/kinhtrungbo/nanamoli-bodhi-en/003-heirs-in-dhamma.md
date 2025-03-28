@@ -1,4 +1,4 @@
-# 3 Heirs in Dhamma
+# 3. Heirs in Dhamma
 ***(Dhammadāyāda Sutta)***
 
 1\. Thus have I heard. On one occasion the Blessed One was living in Sāvatthī in Jeta's Grove, Anāthapindika's Park. There he addressed the bhikkhus thus: "Bhikkhus." 51 - "Venerable sir," they replied. The Blessed One said this:

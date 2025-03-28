@@ -1,4 +1,4 @@
-# 14 The Shorter Discourse on the Mass of Suffering
+# 14. The Shorter Discourse on the Mass of Suffering
 ***(Cūladukkhakkhandha Sutta)***
 
 [91] 1. Thus have I heard. On one occasion the Blessed One was living in the Sakyan country at Kapilavatthu in Nigrodha's Park.

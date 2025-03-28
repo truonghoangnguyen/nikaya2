@@ -1,4 +1,4 @@
-# 118 Mindfulness of Breathing
+# 118. Mindfulness of Breathing
 ***(Ānāpānasati Sutta)***
 
 #### (INTRODUCTORY SECTION)

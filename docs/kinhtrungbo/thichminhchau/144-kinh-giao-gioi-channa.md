@@ -3,7 +3,7 @@
 **144. KINH GIÁO GIỚI CHANNA**
 ***(Channovàda Sutta)***
 
-## Như vầy tôi nghe:
+**Như vầy tôi nghe.**
 
 Một thời Thế Tôn ở Rajagaha (Vương Xá), Veluvana (Trúc-lâm), tại chỗ nuôi dưỡng sóc
 (Kalandakanivapa).

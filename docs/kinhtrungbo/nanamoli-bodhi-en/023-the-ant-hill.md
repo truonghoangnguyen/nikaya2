@@ -1,4 +1,4 @@
-# 23 The Ant-hill
+# 23. The Ant-hill
 ***(Vammika Sutta)***
 
 1\. Thus have I heard. On one occasion the Blessed One was living at Sāvatthī in Jeta's Grove, Anāthapiṇ̣ika's Park. Now on that occasion the venerable Kumāra Kassapa was living in the Blind Men's Grove. [^275]

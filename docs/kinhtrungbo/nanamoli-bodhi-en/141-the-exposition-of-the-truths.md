@@ -1,4 +1,4 @@
-# 141 The Exposition of the Truths
+# 141. The Exposition of the Truths
 ***(Saccavibhanga Sutta)***
 
 [248] 1. Thus have I heard. On one occasion the Blessed One was living at Benares in the Deer Park at Isipatana. There he addressed the bhikkhus thus: "Bhikkhus." - "Venerable sir," they replied. The Blessed One said this:

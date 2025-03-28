@@ -3,7 +3,7 @@
 **111. KINH BẤT ÐOẠN**
 ***(Anupada Sutta)***
 
-## Như vầy tôi nghe:
+**Như vầy tôi nghe.**
 
 Một thời Thế Tôn trú ở Savatthi (Xá-vệ), tại Jetavana (Kỳ-đà-lâm), tinh xá ông Anathapindika (Cấp Cô
 Ðộc). Ở đấy, Thế Tôn gọi các Tỷ-kheo: "Này các Tỷ-kheo" --"Thưa vâng, bạch Thế Tôn". Các vị Tỷ-

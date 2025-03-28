@@ -1,4 +1,4 @@
-# 35 Tiểu Kinh Saccaka
+# 35. Tiểu Kinh Saccaka
 ***(Cūḷasaccaka Sutta)***
 
 1\. Tôi nghe như vầy. Một thời, Đức Thế Tôn trú tại Vesālī, trong Rừng Đại Lâm, tại giảng đường có Mái Nhọn.

@@ -1,4 +1,4 @@
-# 29 The Greater Discourse on the Simile of the Heartwood
+# 29. The Greater Discourse on the Simile of the Heartwood
 ***(Mahāsāropama Sutta)***
 
 [192] 1. Thus have I heard. On one occasion the Blessed One was living at Rājagaha on the mountain Vulture Peak; it was soon after Devadatta had left. [^346] There, referring to Devadatta, the Blessed One addressed the bhikkhus thus:

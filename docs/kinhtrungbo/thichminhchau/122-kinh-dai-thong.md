@@ -3,7 +3,7 @@
 **122. KINH ÐẠI THÔNG**
 ***(Mahàsunnata Sutta)***
 
-## Như vầy tôi nghe:
+**Như vầy tôi nghe.**
 
 Một thời, Thế Tôn trú giữa các dòng họ Sakka (Thích-ca), tại Kapilavatthu (Ca-tỳ-la-vệ), ở tu viện
 Nigrodha (Ni-câu-luật Thọ Viên).

@@ -1,4 +1,4 @@
-# 124 Bakkula
+# 124. Bakkula
 ***(Bakkula Sutta)***
 
 1\. Thus have I heard. On one occasion the venerable Bakkula was living at Rājagaha in the Bamboo Grove, the Squirrels' Sanctuary. [^1167]

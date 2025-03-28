@@ -1,4 +1,4 @@
-# 150 To the Nagaravindans
+# 150. To the Nagaravindans
 ***(Nagaravindeyya Sutta)***
 
 1\. Thus have I heard. On one occasion the Blessed One was wandering in the Kosalan country with a large Sangha of bhikkhus, and eventually arrived at a Kosalan village named Nagaravinda.

@@ -1,4 +1,4 @@
-# 9 Right View
+# 9. Right View
 ***(Sammāditthi Sutta)***
 
 1\. Thus have I heard. On one occasion the Blessed One was living at Sāvatthī in Jeta's Grove, Anāthapiṇ̣̂ika's Park. There the venerable Sāriputta addressed the bhikkhus thus: "Friends, bhikkhus." - "Friend," they replied. The venerable Sāriputta said this:

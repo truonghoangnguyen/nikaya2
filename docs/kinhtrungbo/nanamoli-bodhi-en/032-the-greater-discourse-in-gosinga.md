@@ -1,4 +1,4 @@
-# 32 The Greater Discourse in Gosinga
+# 32. The Greater Discourse in Gosinga
 ***(Mahāgosinga Sutta)***
 
 [212] 1. Thus have I heard. On one occasion the Blessed One was living in the Park of the Gosinga Sāla-tree Wood together with a number of very well-known elder disciples - the venerable Sāriputta, the venerable Mahā Moggallāna, the venerable Mahā Kassapa, the venerable Anuruddha, the venerable Revata, the venerable Ānanda, and other very well-known elder disciples.

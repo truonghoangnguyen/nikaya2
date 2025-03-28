@@ -1,74 +1,114 @@
-# 48 The Kosambians
-***(Kosambiya Sutta)***
+# 48. Người Kosambi
+***(Kinh Kosambiya - Kosambiya Sutta)***
 
-1. Thus have I heard. On one occasion the Blessed One was living at Kosambī in Ghosita's Park.
+1\.  Tôi nghe như vầy. Một thời Đức Thế Tôn trú tại Kosambī, trong khu vườn của ông Ghosita.
 
-2. Now on that occasion the bhikkhus at Kosambī had taken to quarrelling and brawling and were deep in disputes, stabbing each other with verbal daggers. They could neither convince each other nor be convinced by others; they could neither persuade each other nor be persuaded by others. [^491]
+2\.  Vào lúc đó, các vị tỳ kheo (bhikkhus - nhà sư) ở Kosambī sinh ra cãi cọ, tranh chấp, và mâu thuẫn sâu sắc, đả kích nhau bằng lời nói như dao găm. Họ không thể thuyết phục lẫn nhau, cũng không để người khác thuyết phục mình; họ không thể làm cho nhau đồng thuận, cũng không để người khác làm cho mình đồng thuận. [^491]
 
-3. Then [321] a certain bhikkhu went to the Blessed One, and after paying homage to him, he sat down at one side and informed him of what was happening.
+3\.  Bấy giờ [321] một vị tỳ kheo đến gặp Đức Thế Tôn, sau khi đảnh lễ Ngài, vị ấy ngồi xuống một bên và trình bày sự việc đang xảy ra.
 
-4. Then the Blessed One addressed a certain bhikkhu thus: "Come, bhikkhu, tell those bhikkhus in my name that the Teacher calls them." - "Yes, venerable sir," he replied, and he went to those bhikkhus and told them: "The Teacher calls the venerable ones."
+4\.  Đức Thế Tôn liền bảo một vị tỳ kheo khác: "Này tỳ kheo, hãy nhân danh Ta nói với các tỳ kheo kia rằng Bậc Đạo Sư gọi họ." - "Thưa vâng, bạch ngài," vị ấy đáp, rồi đi đến gặp các tỳ kheo kia và nói: "Bậc Đạo Sư gọi chư vị tôn giả."
 
-"Yes, friend," they replied, and they went to the Blessed One, and after paying homage to him, they sat down at one side. The Blessed One then asked them: "Bhikkhus, is it true that you have taken to quarrelling and brawling and are deep in disputes, stabbing each other with verbal daggers; that you can neither convince each other nor be convinced by others, that you can neither persuade each other nor be persuaded by others?"
+    "Vâng, này hiền giả," họ đáp, rồi cùng đến gặp Đức Thế Tôn, đảnh lễ Ngài và ngồi xuống một bên. Đức Thế Tôn bèn hỏi họ: "Này các tỳ kheo, có thật là các ngươi đã sinh ra cãi cọ, tranh chấp, và mâu thuẫn sâu sắc, đả kích nhau bằng lời nói như dao găm; rằng các ngươi không thể thuyết phục lẫn nhau, cũng không để người khác thuyết phục mình, rằng các ngươi không thể làm cho nhau đồng thuận, cũng không để người khác làm cho mình đồng thuận không?"
 
-"Yes, venerable sir."
+    "Thưa vâng, bạch ngài."
 
-5. "Bhikkhus, what do you think? When you take to quarrelling and brawling and are deep in disputes, stabbing each other with verbal daggers, do you on that occasion maintain acts of loving-kindness by body, speech, and mind in public and in private towards your companions in the holy life?"
+5\.  "Này các tỳ kheo, các ngươi nghĩ sao? Khi các ngươi cãi cọ, tranh chấp, và mâu thuẫn sâu sắc, đả kích nhau bằng lời nói như dao găm, vào lúc đó, các ngươi có duy trì những hành động thân, khẩu, ý biểu lộ lòng từ (mettā - tâm yêu thương không vị kỷ), cả công khai lẫn riêng tư, đối với các bạn đồng tu trong đời sống phạm hạnh (brahmacariya - đời sống thanh tịnh, hướng đến giải thoát) không?"
 
-"No, venerable sir."
-"So, bhikkhus, when you take to quarrelling and brawling and are deep in disputes, stabbing each other with verbal daggers, on that occasion you do not maintain acts of loving-kindness by body, speech, and mind in public and in private towards your companions in the holy life. Misguided men, what can you possibly know, what can you see, that you take to quarrelling and brawling and are deep in disputes, [322] stabbing each other with verbal daggers? That you can neither convince each other nor be convinced by others, that you can neither persuade each other nor be persuaded by others? Misguided men, that will lead to your harm and suffering for a long time."
+    "Thưa không, bạch ngài."
 
-6. Then the Blessed One addressed the bhikkhus thus: "Bhikkhus, there are these six memorable qualities that create love and respect and conduce to helpfulness, to non-dispute, to concord, and to unity. What are the six?
+    "Vậy thì, này các tỳ kheo, khi các ngươi cãi cọ, tranh chấp, và mâu thuẫn sâu sắc, đả kích nhau bằng lời nói như dao găm, vào lúc đó các ngươi không duy trì những hành động thân, khẩu, ý biểu lộ lòng từ, cả công khai lẫn riêng tư, đối với các bạn đồng tu trong đời sống phạm hạnh. Này những kẻ si mê, các ngươi có thể biết gì, thấy gì, mà lại đi cãi cọ, tranh chấp, và mâu thuẫn sâu sắc, [322] đả kích nhau bằng lời nói như dao găm? Rằng các ngươi không thể thuyết phục lẫn nhau, cũng không để người khác thuyết phục mình, rằng các ngươi không thể làm cho nhau đồng thuận, cũng không để người khác làm cho mình đồng thuận? Này những kẻ si mê, điều đó sẽ dẫn đến bất hạnh và khổ đau lâu dài cho các ngươi."
 
-"Here a bhikkhu maintains bodily acts of loving-kindness both in public and in private towards his companions in the holy life. This is a memorable quality that creates love and respect, and conduces to helpfulness, to non-dispute, to concord, and to unity.
+6\.  Rồi Đức Thế Tôn nói với các tỳ kheo: "Này các tỳ kheo, có sáu pháp đáng ghi nhớ (sārāṇīyā dhammā - những phẩm chất tạo sự hòa hợp, đáng nhớ) này tạo ra tình thương và sự kính trọng, đưa đến sự giúp đỡ lẫn nhau, không tranh chấp, hòa hợp và đoàn kết. Sáu pháp đó là gì?
 
-"Again, a bhikkhu maintains verbal acts of loving-kindness both in public and in private towards his companions in the holy life. This is a memorable quality that creates love and respect, and conduces to...unity.
+    "Ở đây, vị tỳ kheo duy trì những hành động thân thể biểu lộ lòng từ, cả công khai lẫn riêng tư, đối với các bạn đồng tu trong đời sống phạm hạnh. Đây là một pháp đáng ghi nhớ tạo ra tình thương và sự kính trọng, đưa đến sự giúp đỡ lẫn nhau, không tranh chấp, hòa hợp và đoàn kết.
 
-"Again, a bhikkhu maintains mental acts of loving-kindness both in public and in private towards his companions in the holy life. This is a memorable quality that creates love and respect, and conduces to...unity.
+    "Lại nữa, vị tỳ kheo duy trì những hành động lời nói biểu lộ lòng từ, cả công khai lẫn riêng tư, đối với các bạn đồng tu trong đời sống phạm hạnh. Đây là một pháp đáng ghi nhớ tạo ra tình thương và sự kính trọng, đưa đến... sự đoàn kết.
 
-"Again, a bhikkhu uses things in common with his virtuous companions in the holy life; without making reservations, he shares with them any gain of a kind that accords with the Dhamma and has been obtained in a way that accords with the Dhamma, including even the contents of his bowl. This is a memorable quality that creates love and respect, and conduces to...unity.
+    "Lại nữa, vị tỳ kheo duy trì những hành động tâm ý biểu lộ lòng từ, cả công khai lẫn riêng tư, đối với các bạn đồng tu trong đời sống phạm hạnh. Đây là một pháp đáng ghi nhớ tạo ra tình thương và sự kính trọng, đưa đến... sự đoàn kết.
 
-"Again, a bhikkhu dwells both in public and in private possessing in common with his companions in the holy life those virtues that are unbroken, untorn, unblotched, unmottled, liberating, commended by the wise, not misapprehended, and
-conducive to concentration. This too is a memorable quality that creates love and respect, and conduces to...unity.
+    "Lại nữa, vị tỳ kheo sử dụng chung các vật dụng với các bạn đồng tu đức hạnh trong đời sống phạm hạnh; không giữ riêng cho mình, vị ấy chia sẻ với họ mọi lợi lộc phù hợp với Giáo Pháp (Dhamma - lời dạy của Đức Phật, chân lý) và có được một cách phù hợp với Giáo Pháp, ngay cả những gì trong bình bát của mình. Đây là một pháp đáng ghi nhớ tạo ra tình thương và sự kính trọng, đưa đến... sự đoàn kết.
 
-"Again, a bhikkhu dwells both in public and in private possessing in common with his companions in the holy life that view that is noble and emancipating, and leads one who practises in accordance with it to the complete destruction of suffering. [^492] This too is a memorable quality that creates love and respect, and conduces to helpfulness, to non-dispute, to concord, and to unity.
+    "Lại nữa, vị tỳ kheo sống, cả công khai lẫn riêng tư, cùng nhau gìn giữ những giới hạnh (sīla - các quy tắc đạo đức) không bị sứt mẻ, không bị rách nát, không tì vết, không lốm đốm, có tính giải thoát, được bậc trí tán thán, không bị hiểu sai, và đưa đến định tâm (samādhi - sự tập trung tâm ý). Đây cũng là một pháp đáng ghi nhớ tạo ra tình thương và sự kính trọng, đưa đến... sự đoàn kết.
 
-"These are the six memorable qualities that create love and respect, and conduce to helpfulness, to non-dispute, to concord, and to unity.
+    "Lại nữa, vị tỳ kheo sống, cả công khai lẫn riêng tư, cùng nhau sở hữu tri kiến (diṭṭhi - quan điểm, cách nhìn nhận) cao thượng và giải thoát (ariya niyyānika diṭṭhi - quan điểm đúng đắn dẫn đến giải thoát), đưa người thực hành theo đó đến sự đoạn tận khổ đau hoàn toàn (sabbadukkhakkhaya - sự chấm dứt hoàn toàn mọi khổ đau, Niết Bàn). [^492] Đây cũng là một pháp đáng ghi nhớ tạo ra tình thương và sự kính trọng, đưa đến sự giúp đỡ lẫn nhau, không tranh chấp, hòa hợp và đoàn kết.
 
-7. "Of these memorable qualities, the highest, the most comprehensive, the most conclusive is this view that is noble and emancipating, and leads the one who practises in accordance with it to the complete destruction of suffering. Just as the highest, the most comprehensive, the most conclusive part of a pinnacled building is the pinnacle itself, so too, [323] of these six memorable qualities, the highest...is this view that is noble and emancipating...
+    "Đó là sáu pháp đáng ghi nhớ tạo ra tình thương và sự kính trọng, đưa đến sự giúp đỡ lẫn nhau, không tranh chấp, hòa hợp và đoàn kết.
 
-8. "And how does this view that is noble and emancipating lead the one who practises in accordance with it to the complete destruction of suffering?
+7\.  "Trong các pháp đáng ghi nhớ này, cao nhất, bao quát nhất, có tính quyết định nhất chính là tri kiến cao thượng và giải thoát này, đưa người thực hành theo đó đến sự đoạn tận khổ đau hoàn toàn. Cũng như phần cao nhất, bao quát nhất, có tính quyết định nhất của một tòa nhà có chóp đỉnh chính là chóp đỉnh đó, thì cũng vậy, [323] trong sáu pháp đáng ghi nhớ này, cao nhất... chính là tri kiến cao thượng và giải thoát này...
 
-"Here a bhikkhu, gone to the forest or to the root of a tree or to an empty hut, considers thus: 'Is there any obsession unabandoned in myself that might so obsess my mind that I cannot know or see things as they actually are?' If a bhikkhu is obsessed by sensual lust, then his mind is obsessed. If he is obsessed by ill will, then his mind is obsessed. If he is obsessed by sloth and torpor, then his mind is obsessed. If he is obsessed by restlessness and remorse, then his mind is obsessed. If he is obsessed by doubt, then his mind is obsessed. If a bhikkhu is absorbed in speculation about this world, then his mind is obsessed. If a bhikkhu is absorbed in speculation about the other world, then his mind is obsessed. If a bhikkhu takes to quarrelling and brawling and is deep in disputes, stabbing others with verbal daggers, then his mind is obsessed.
+8\.  "Và làm thế nào tri kiến cao thượng và giải thoát này đưa người thực hành theo đó đến sự đoạn tận khổ đau hoàn toàn?
 
-"He understands thus: 'There is no obsession unabandoned in myself that might so obsess my mind that I cannot know and see
-things as they actually are. My mind is well disposed for awakening to the truths. [^493] This is the first knowledge attained by him that is noble, supramundane, not shared by ordinary people.
+    "Ở đây, vị tỳ kheo, đi vào rừng, đến gốc cây, hay vào một ngôi nhà trống, suy xét như sau: 'Có sự ám ảnh (pariyuṭṭhāna - sự trói buộc, phiền não tiềm ẩn chi phối tâm trí) nào chưa được từ bỏ trong ta mà có thể ám ảnh tâm trí ta đến nỗi ta không thể biết và thấy mọi việc đúng như thật không?' Nếu một tỳ kheo bị ám ảnh bởi tham dục (kāmacchanda - ham muốn dục lạc), thì tâm trí vị ấy bị ám ảnh. Nếu bị ám ảnh bởi sân hận (byāpāda - ác ý, thù ghét), thì tâm trí vị ấy bị ám ảnh. Nếu bị ám ảnh bởi hôn trầm và thụy miên (thīna-middha - sự lười biếng và buồn ngủ), thì tâm trí vị ấy bị ám ảnh. Nếu bị ám ảnh bởi trạo cử và hối tiếc (uddhacca-kukkucca - sự bồn chồn và ăn năn), thì tâm trí vị ấy bị ám ảnh. Nếu bị ám ảnh bởi hoài nghi (vicikicchā - sự nghi ngờ, thiếu niềm tin), thì tâm trí vị ấy bị ám ảnh. Nếu một tỳ kheo chìm đắm trong suy diễn về thế giới này, thì tâm trí vị ấy bị ám ảnh. Nếu một tỳ kheo chìm đắm trong suy diễn về thế giới khác, thì tâm trí vị ấy bị ám ảnh. Nếu một tỳ kheo sinh ra cãi cọ, tranh chấp, và mâu thuẫn sâu sắc, đả kích người khác bằng lời nói như dao găm, thì tâm trí vị ấy bị ám ảnh.
 
-9. "Again, a noble disciple considers thus: 'When I pursue, develop, and cultivate this view, do I obtain internal serenity, do I personally obtain stillness?'
+    "Vị ấy hiểu rõ như sau: 'Không có sự ám ảnh nào chưa được từ bỏ trong ta mà có thể ám ảnh tâm trí ta đến nỗi ta không thể biết và thấy mọi việc đúng như thật. Tâm ta đã sẵn sàng để giác ngộ chân lý (saccābhisamaya - sự thấu hiểu các sự thật).' [^493] Đây là trí tuệ thứ nhất mà vị ấy đạt được, là trí tuệ cao thượng (ariya - thuộc về bậc thánh), siêu thế (lokuttara - vượt ra ngoài thế gian thông thường), không chung với phàm phu (puthujjana - người chưa giác ngộ, còn bị phiền não chi phối).
 
-"He understands thus: 'When I pursue, develop, and cultivate this view, I obtain internal serenity, I personally obtain stillness.' This is the second knowledge attained by him that is noble, supramundane, not shared by ordinary people.
+9\.  "Lại nữa, một vị thánh đệ tử (ariyasāvaka - người đệ tử đã chứng đắc các đạo quả thánh) suy xét như sau: 'Khi ta theo đuổi, phát triển và tu tập tri kiến này, ta có đạt được nội tâm tĩnh lặng (ajjhattaṃ vūpasama - sự lắng dịu bên trong tâm), ta có tự mình đạt được sự an tĩnh (santi - sự bình an, yên lặng) không?'
 
-10. "Again, a noble disciple considers thus: 'Is there any other recluse or brahmin outside [the Buddha's Dispensation] possessed of a view such as I possess?'
+    "Vị ấy hiểu rõ như sau: 'Khi ta theo đuổi, phát triển và tu tập tri kiến này, ta đạt được nội tâm tĩnh lặng, ta tự mình đạt được sự an tĩnh.' Đây là trí tuệ thứ hai mà vị ấy đạt được, là trí tuệ cao thượng, siêu thế, không chung với phàm phu.
 
-"He understands thus: 'There is no other recluse or brahmin outside [the Buddha's Dispensation] possessed of a view [324] such as I possess.' This is the third knowledge attained by him that is noble, supramundane, not shared by ordinary people.
+10\. "Lại nữa, một vị thánh đệ tử suy xét như sau: 'Có vị sa môn (samaṇa - người xuất gia tu hành) hay bà la môn (brāhmaṇa - tu sĩ thuộc truyền thống Bà la môn giáo) nào khác ở ngoài Giáo Pháp của Đức Phật (Buddha-sāsana - hệ thống giáo lý và thực hành do Đức Phật truyền dạy) sở hữu tri kiến giống như ta không?'
 
-11. "Again, a noble disciple considers thus: 'Do I possess the character [^494] of a person who possesses right view?' What is the character of a person who possesses right view? This is the character of a person who possesses right view: although he may commit some kind of offence for which a means of rehabilitation has been laid down, [^495] still he at once confesses, reveals, and discloses it to the Teacher or to wise companions in the holy life, and having done that, he enters upon restraint for the future. Just as a young, tender infant lying prone at once draws back when he puts his hand or his foot on a live coal, so too, that is the character of a person who possesses right view.
+    "Vị ấy hiểu rõ như sau: 'Không có vị sa môn hay bà la môn nào khác ở ngoài Giáo Pháp của Đức Phật sở hữu tri kiến [324] giống như ta.' Đây là trí tuệ thứ ba mà vị ấy đạt được, là trí tuệ cao thượng, siêu thế, không chung với phàm phu.
 
-"He understands thus: 'I possess the character of a person who possesses right view.' This is the fourth knowledge attained by him that is noble, supramundane, not shared by ordinary people.
+11\. "Lại nữa, một vị thánh đệ tử suy xét như sau: 'Ta có sở hữu phẩm cách [^494] của một người có chánh kiến (sammā diṭṭhi - cái thấy, hiểu biết đúng đắn) không?' Phẩm cách của một người có chánh kiến là gì? Đây là phẩm cách của một người có chánh kiến: mặc dù vị ấy có thể phạm một lỗi lầm (āpatti - sự vi phạm giới luật) nào đó mà đã có quy định cách sửa chữa (paṭikamma/vutthāna - phương pháp phục hồi sau khi phạm lỗi), [^495] vị ấy vẫn lập tức thú nhận, trình bày và bộc lộ lỗi lầm đó với Bậc Đạo Sư hoặc với các bạn đồng tu thông thái trong đời sống phạm hạnh, và sau khi làm vậy, vị ấy thực hành sự thu thúc (saṃvara - sự kiểm soát, gìn giữ các giác quan và hành vi) trong tương lai. Cũng như một đứa trẻ sơ sinh mềm yếu đang nằm sấp liền rụt tay hoặc chân lại ngay khi chạm phải than hồng, thì cũng vậy, đó là phẩm cách của một người có chánh kiến.
 
-12. "Again, a noble disciple considers thus: 'Do I possess the character of a person who possesses right view?' What is the character of a person who possesses right view? This is the character of a person who possesses right view: although he may be active in various matters for his companions in the holy life, yet he has a keen regard for training in the higher virtue, training in the higher mind, and training in the higher wisdom. Just as a
-cow with a new calf, while she grazes watches her calf, so too, that is the character of a person who possesses right view.
+    "Vị ấy hiểu rõ như sau: 'Ta sở hữu phẩm cách của một người có chánh kiến.' Đây là trí tuệ thứ tư mà vị ấy đạt được, là trí tuệ cao thượng, siêu thế, không chung với phàm phu.
 
-"He understands thus: 'I possess the character of a person who possesses right view.' This is the fifth knowledge attained by him that is noble, supramundane, not shared by ordinary people. [325]
+12\. "Lại nữa, một vị thánh đệ tử suy xét như sau: 'Ta có sở hữu phẩm cách của một người có chánh kiến không?' Phẩm cách của một người có chánh kiến là gì? Đây là phẩm cách của một người có chánh kiến: mặc dù vị ấy có thể bận rộn với nhiều công việc khác nhau cho các bạn đồng tu trong đời sống phạm hạnh, vị ấy vẫn hết lòng quan tâm đến việc rèn luyện tăng thượng giới (adhisīla - sự thực hành giới luật ở mức độ cao hơn), rèn luyện tăng thượng tâm (adhicitta - sự thực hành thiền định ở mức độ cao hơn), và rèn luyện tăng thượng tuệ (adhipaññā - sự phát triển trí tuệ ở mức độ cao hơn). Cũng như con bò mẹ mới sinh con, trong khi gặm cỏ vẫn để mắt trông chừng con bê, thì cũng vậy, đó là phẩm cách của một người có chánh kiến.
 
-13. "Again, a noble disciple considers thus: 'Do I possess the strength [^496] of a person who possesses right view?' What is the strength of a person who possesses right view? This is the strength of a person who possesses right view: when the Dhamma and Discipline proclaimed by the Tathāgata is being taught, he heeds it, gives it attention, engages it with all his mind, hears the Dhamma as with eager ears.
+    "Vị ấy hiểu rõ như sau: 'Ta sở hữu phẩm cách của một người có chánh kiến.' Đây là trí tuệ thứ năm mà vị ấy đạt được, là trí tuệ cao thượng, siêu thế, không chung với phàm phu. [325]
 
-"He understands thus: 'I possess the strength of a person who possesses right view.' This is the sixth knowledge attained by him that is noble, supramundane, not shared by ordinary people.
+13\. "Lại nữa, một vị thánh đệ tử suy xét như sau: 'Ta có sở hữu sức mạnh [^496] của một người có chánh kiến không?' Sức mạnh của một người có chánh kiến là gì? Đây là sức mạnh của một người có chánh kiến: khi Giáo Pháp và Luật (Vinaya - bộ quy tắc ứng xử cho tăng đoàn) do Như Lai (Tathāgata - danh hiệu của Đức Phật, nghĩa là 'người đến như vậy' hoặc 'người đi như vậy') tuyên thuyết đang được giảng dạy, vị ấy lắng nghe, chú tâm, toàn tâm ý tiếp nhận, nghe Giáo Pháp với đôi tai háo hức.
 
-14. "Again, a noble disciple considers thus: 'Do I possess the strength of a person who possesses right view?' What is the strength of a person who possesses right view? This is the strength of a person who possesses right view: when the Dhamma and Discipline proclaimed by the Tathāgata is being taught, he gains inspiration in the meaning, gains inspiration in the Dhamma, gains gladness connected with the Dhamma. [^497]
+    "Vị ấy hiểu rõ như sau: 'Ta sở hữu sức mạnh của một người có chánh kiến.' Đây là trí tuệ thứ sáu mà vị ấy đạt được, là trí tuệ cao thượng, siêu thế, không chung với phàm phu.
 
-"He understands thus: 'I possess the strength of a person who possesses right view.' This is the seventh knowledge attained by him that is noble, supramundane, not shared by ordinary people.
+14\. "Lại nữa, một vị thánh đệ tử suy xét như sau: 'Ta có sở hữu sức mạnh của một người có chánh kiến không?' Sức mạnh của một người có chánh kiến là gì? Đây là sức mạnh của một người có chánh kiến: khi Giáo Pháp và Luật do Như Lai tuyên thuyết đang được giảng dạy, vị ấy đạt được niềm hứng khởi (pāmojja - niềm vui, sự phấn khởi) về ý nghĩa, đạt được niềm hứng khởi về Giáo Pháp, đạt được niềm hoan hỷ (pāmojja - niềm vui mừng, phấn khởi) gắn liền với Giáo Pháp. [^497]
 
-15. "When a noble disciple is thus possessed of seven factors, he has well sought the character for realisation of the fruit of stream-entry. When a noble disciple is thus possessed of seven factors, he possesses the fruit of stream-entry."498
+    "Vị ấy hiểu rõ như sau: 'Ta sở hữu sức mạnh của một người có chánh kiến.' Đây là trí tuệ thứ bảy mà vị ấy đạt được, là trí tuệ cao thượng, siêu thế, không chung với phàm phu.
 
-That is what the Blessed One said. The bhikkhus were satisfied and delighted in the Blessed One's words.
+15\. "Khi một vị thánh đệ tử sở hữu bảy yếu tố này, vị ấy đã tìm đúng phẩm cách để chứng ngộ quả vị nhập lưu (sotāpatti - tầng thánh đầu tiên, người đã bước vào dòng giải thoát). Khi một vị thánh đệ tử sở hữu bảy yếu tố này, vị ấy sở hữu quả nhập lưu (sotāpattiphala - kết quả của việc chứng đắc tầng thánh nhập lưu)."[^498]
+
+Đó là những gì Đức Thế Tôn đã nói. Các vị tỳ kheo hài lòng và hoan hỷ với lời dạy của Đức Thế Tôn.
+
+<!--pg-->
+Từ ngữ:
+- tỳ kheo / bhikkhu / bhikkhu (monk): Nhà sư Phật giáo đã thọ giới cụ túc.
+- lòng từ / mettā / loving-kindness: Tâm yêu thương không vị kỷ, mong muốn cho tất cả chúng sinh được an vui, hạnh phúc.
+- đời sống phạm hạnh / brahmacariya / holy life: Đời sống thanh tịnh, trong sạch, đặc biệt là đời sống xuất gia, hướng đến mục tiêu giải thoát khỏi khổ đau.
+- pháp đáng ghi nhớ / sārāṇīyā dhammā / memorable qualities: Những phẩm chất, nguyên tắc sống giúp tạo dựng sự hòa hợp, đoàn kết, tình thương và sự kính trọng trong cộng đồng.
+- Giáo Pháp / Dhamma / Dhamma: Lời dạy của Đức Phật; chân lý phổ quát về thực tại; quy luật tự nhiên.
+- giới hạnh / sīla / virtue: Các quy tắc đạo đức, giới luật mà người Phật tử, đặc biệt là tu sĩ, thực hành để thanh lọc thân và khẩu.
+- định tâm / samādhi / concentration: Sự tập trung tâm ý vào một đối tượng duy nhất, trạng thái tâm vững vàng, không xao lãng.
+- tri kiến / diṭṭhi / view: Quan điểm, cách nhìn nhận, sự hiểu biết về thực tại.
+- tri kiến cao thượng và giải thoát / ariya niyyānika diṭṭhi / noble and emancipating view: Quan điểm, sự hiểu biết đúng đắn phù hợp với chân lý, có khả năng dẫn dắt người thực hành đến giải thoát hoàn toàn khỏi khổ đau (Niết Bàn).
+- sự đoạn tận khổ đau hoàn toàn / sabbadukkhakkhaya / complete destruction of suffering: Sự chấm dứt hoàn toàn mọi hình thức khổ đau, đồng nghĩa với Niết Bàn.
+- ám ảnh / pariyuṭṭhāna / obsession: Các phiền não tiềm ẩn hoặc biểu hiện trói buộc, chi phối tâm trí, ngăn cản sự thấy biết đúng như thật. Thường chỉ các triền cái (nīvaraṇa).
+- tham dục / kāmacchanda / sensual lust: Một trong năm triền cái, sự ham muốn, khao khát các đối tượng dục lạc (hình sắc, âm thanh, mùi hương, vị nếm, xúc chạm).
+- sân hận / byāpāda / ill will: Một trong năm triền cái, ác ý, lòng thù ghét, mong muốn làm hại người khác hoặc mong người khác gặp điều bất hạnh.
+- hôn trầm và thụy miên / thīna-middha / sloth and torpor: Một trong năm triền cái, trạng thái tâm lười biếng, uể oải (hôn trầm) và trạng thái buồn ngủ, mệt mỏi (thụy miên).
+- trạo cử và hối tiếc / uddhacca-kukkucca / restlessness and remorse: Một trong năm triền cái, trạng thái tâm bồn chồn, không yên (trạo cử) và sự ăn năn, hối hận về những việc đã làm hoặc chưa làm (hối tiếc).
+- hoài nghi / vicikicchā / doubt: Một trong năm triền cái, sự nghi ngờ, do dự, thiếu niềm tin vào Tam Bảo (Phật, Pháp, Tăng) hoặc con đường tu tập.
+- giác ngộ chân lý / saccābhisamaya / awakening to the truths: Sự thấu hiểu, chứng ngộ trực tiếp các Chân lý cao quý (Tứ Diệu Đế).
+- cao thượng / ariya / noble: Thuộc về bậc thánh, người đã thanh lọc tâm khỏi phiền não và đạt được các tầng thánh quả.
+- siêu thế / lokuttara / supramundane: Vượt ra ngoài thế gian thông thường, liên quan đến con đường và quả vị giải thoát (Niết Bàn).
+- phàm phu / puthujjana / ordinary people: Người bình thường chưa chứng đắc các đạo quả thánh, còn bị phiền não và vô minh chi phối.
+- thánh đệ tử / ariyasāvaka / noble disciple: Người đệ tử của Đức Phật đã chứng đắc ít nhất là quả vị Nhập lưu (Sotāpatti), đã bước vào dòng thánh.
+- nội tâm tĩnh lặng / ajjhattaṃ vūpasama / internal serenity: Trạng thái lắng dịu, bình yên bên trong tâm, kết quả của việc tu tập thiền định và trí tuệ.
+- sự an tĩnh / santi / stillness: Sự bình an, yên lặng, trạng thái không còn dao động, phiền não. Thường dùng để chỉ Niết Bàn.
+- sa môn / samaṇa / recluse: Người xuất gia tu hành theo các truyền thống tâm linh Ấn Độ cổ, bao gồm cả Phật giáo, nhằm tìm cầu giải thoát.
+- bà la môn / brāhmaṇa / brahmin: Tu sĩ hoặc thành viên thuộc giai cấp cao nhất trong xã hội Ấn Độ cổ, theo truyền thống Vệ Đà (Bà la môn giáo).
+- Giáo Pháp của Đức Phật / Buddha-sāsana / Buddha's Dispensation: Toàn bộ hệ thống giáo lý và thực hành do Đức Phật thiết lập và truyền dạy.
+- chánh kiến / sammā diṭṭhi / right view: Cái thấy, hiểu biết đúng đắn về bản chất của thực tại, đặc biệt là về Tứ Diệu Đế, là yếu tố đầu tiên trong Bát Chánh Đạo.
+- lỗi lầm / āpatti / offence: Sự vi phạm giới luật của tu sĩ Phật giáo.
+- cách sửa chữa / paṭikamma (hoặc vutthāna) / rehabilitation: Phương pháp, quy trình để phục hồi giới hạnh sau khi phạm lỗi, thường bao gồm sự sám hối và quyết tâm không tái phạm.
+- sự thu thúc / saṃvara / restraint: Sự kiểm soát, gìn giữ các giác quan (mắt, tai, mũi, lưỡi, thân, ý) để không bị các đối tượng bên ngoài lôi cuốn, dẫn đến phiền não.
+- tăng thượng giới / adhisīla / higher virtue: Sự thực hành giới luật ở mức độ cao hơn, tinh tấn và hoàn thiện hơn.
+- tăng thượng tâm / adhicitta / higher mind: Sự thực hành thiền định (samādhi) ở mức độ cao hơn, đạt được các tầng thiền sâu hơn.
+- tăng thượng tuệ / adhipaññā / higher wisdom: Sự phát triển trí tuệ (paññā) ở mức độ cao hơn, thấu hiểu sâu sắc bản chất vô thường, khổ, vô ngã của vạn pháp.
+- Như Lai / Tathāgata / Tathāgata: Một danh hiệu tôn kính của Đức Phật, có thể hiểu là "Người đã đến như vậy" (đến với chân lý) hoặc "Người đã đi như vậy" (đi đến Niết Bàn).
+- Luật / Vinaya / Discipline: Bộ quy tắc ứng xử, giới luật dành cho cộng đồng tăng, ni do Đức Phật chế định.
+- niềm hứng khởi / pāmojja / inspiration, joy: Niềm vui, sự phấn khởi, hân hoan phát sinh từ việc nghe hoặc thực hành Giáo Pháp.
+- niềm hoan hỷ / pāmojja / gladness, joy: Tương tự như niềm hứng khởi, trạng thái vui mừng, phấn khởi trong tâm.
+- nhập lưu / sotāpatti / stream-entry: Tầng thánh quả đầu tiên trong bốn tầng thánh quả của Phật giáo Theravada. Người đạt quả vị này đã đoạn trừ ba kiết sử đầu tiên và chắc chắn sẽ đạt Niết Bàn trong tối đa bảy kiếp nữa.
+- quả nhập lưu / sotāpattiphala / fruit of stream-entry: Kết quả, trạng thái tâm của người đã chứng đắc tầng thánh Nhập lưu.

@@ -4,7 +4,7 @@
 **101. KINH DEVADAHA**
 ***(Devadaha Sutta)***
 
-## Như vầy tôi nghe:
+**Như vầy tôi nghe.**
 
 Một thời Thế Tôn trú ở giữa các Sakka (Thích ca). Devadaha là một thị trấn các Sakka. Tại đấy, Thế
 Tôn gọi các Tỷ-kheo: "Này các Tỷ-kheo".

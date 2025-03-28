@@ -1,4 +1,4 @@
-# 30 The Shorter Discourse on the Simile of the Heartwood
+# 30. The Shorter Discourse on the Simile of the Heartwood
 ***(Cūḷasāropama Sutta)***
 
 [198] 1. Thus have I heard. On one occasion the Blessed One was living at Sāvatthī in Jeta's Grove, Anāthapiṇ̣̣ika's Park.

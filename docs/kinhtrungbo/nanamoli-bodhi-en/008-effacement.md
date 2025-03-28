@@ -1,4 +1,4 @@
-# 8 Effacement
+# 8. Effacement
 ***(Sallekha Sutta)***
 
 1\. Thus have I heard. [^101] On one occasion the Blessed One was living at Sāvatthī in Jeta's Grove, Anāthapiṇ̣̣ika's Park.

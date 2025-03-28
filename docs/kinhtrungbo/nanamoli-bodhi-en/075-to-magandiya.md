@@ -1,4 +1,4 @@
-# 75 To Māgandiya
+# 75. To Māgandiya
 ***(Māgandiya Sutta)***
 
 1\. Thus have I heard. On one occasion the Blessed One was living in the Kuru country at a town of the Kurus named Kammāsadhamma, on a spread of grass in the fire chamber of a brahmin belonging to the Bhāradvāja clan.

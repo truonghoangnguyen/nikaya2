@@ -1,4 +1,4 @@
-# 91 Brahmāyu
+# 91. Brahmāyu
 ***(Brahmāyu Sutta)***
 
 1\. Thus have I heard. On one occasion the Blessed One was wandering in the country of the Videhans with a large Sangha of bhikkhus, with five hundred bhikkhus.

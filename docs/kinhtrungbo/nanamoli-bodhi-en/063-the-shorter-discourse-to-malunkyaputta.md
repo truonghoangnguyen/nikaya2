@@ -1,4 +1,4 @@
-# 63 The Shorter Discourse to Mālunkyāputta
+# 63. The Shorter Discourse to Mālunkyāputta
 ***(Cūlamālunkya Sutta)***
 
 1\. Thus have I heard. On one occasion the Blessed One was living at Sāvatthī in Jeta's Grove, Anāthapiṇ̣ika's Park.

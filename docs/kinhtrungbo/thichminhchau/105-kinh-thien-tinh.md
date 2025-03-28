@@ -3,7 +3,7 @@
 **105. KINH THIỆN TINH**
 ***(Sunakkhatta Sutta)***
 
-## Như vầy tôi nghe:
+**Như vầy tôi nghe.**
 
 Một thời Thế Tôn trú tại Vesali (Tỳ-xá-ly), ở Ðại Lâm, tại Trùng Các giảng đường (Kutagarasala).
 

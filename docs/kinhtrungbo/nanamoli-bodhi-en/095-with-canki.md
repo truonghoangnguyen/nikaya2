@@ -1,4 +1,4 @@
-# 95 With Cankī
+# 95. With Cankī
 ***(Cankī Sutta)***
 
 [164] 1. Thus have I heard. [^880] On one occasion the Blessed One was wandering in the Kosalan country with a large Sangha of bhikkhus, and eventually he arrived at a Kosalan brahmin village named Opasāda. There the Blessed One stayed in the Gods' Grove, [^881] the Sāla-tree Grove to the north of Opasāda.

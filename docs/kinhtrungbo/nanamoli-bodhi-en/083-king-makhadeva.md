@@ -1,4 +1,4 @@
-# 83 King Makhādeva
+# 83. King Makhādeva
 ***(Makhādeva Sutta)***
 
 1\. Thus have I heard. [^806] On one occasion, the Blessed One was living at Mithilā in the Makhādeva Mango Grove. ${ }^{807}$

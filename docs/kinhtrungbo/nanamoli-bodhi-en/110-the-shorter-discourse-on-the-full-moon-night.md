@@ -1,4 +1,4 @@
-# 110 The Shorter Discourse on the Full-moon Night
+# 110. The Shorter Discourse on the Full-moon Night
 ***(Cūlapunnama Sutta)***
 
 1\. Thus have I heard. On one occasion the Blessed One was living at Sāvatthī in the Eastern Park, in the Palace of Migāra's Mother.

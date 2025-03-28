@@ -1,4 +1,4 @@
-# 11 The Shorter Discourse on the Lion's Roar
+# 11. The Shorter Discourse on the Lion's Roar
 ***(Cūlasīhanāda Sutta)***
 
 1\. Thus have I heard. On one occasion the Blessed One was living at Sāvatthī in Jeta's Grove, Anāthapiṇ̣̣ika's Park. There he addressed the bhikkhus thus: "Bhikkhus." - "Venerable sir," they replied. The Blessed One said this:

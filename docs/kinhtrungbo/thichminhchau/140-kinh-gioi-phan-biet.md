@@ -3,7 +3,7 @@
 **140. KINH GIỚI PHÂN BIỆT**
 ***(Dhàtuvibhanga Sutta)***
 
-## Như vầy tôi nghe:
+**Như vầy tôi nghe.**
 
 Một thời Thế Tôn du hành ở xứ Magadha (Ma- kiệt-đà), đi đến Rajagaha (Vương xá), đến nhà thợ gốm
 Bhaggava; sau khi đến nói với thợ gốm Bhaggava:

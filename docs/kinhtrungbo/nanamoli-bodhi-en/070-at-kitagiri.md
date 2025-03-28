@@ -1,4 +1,4 @@
-# 70 At Kīṭāgiri
+# 70. At Kīṭāgiri
 ***(Kīṭāgiri Sutta)***
 
 1\. Thus have I heard. On one occasion the Blessed One was wandering in the Kāsi country together with a large Sangha of bhikkhus. There he addressed the bhikkhus thus:

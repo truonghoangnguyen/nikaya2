@@ -1,255 +1,239 @@
-# 92 To Sela
+# 92. Kinh Sela
 ***(Sela Sutta)***
 
-1. Thus have I heard. [^867] On one occasion the Blessed One was wandering in the country of the Anguttarāpans with a large Sangha of bhikkhus, [102] with twelve hundred and fifty bhikkhus, and eventually he arrived at a town of the Anguttarāpans named Āpaṇa.
+1\.  Như vầy tôi nghe. [^867] Một thời Đức Thế Tôn đang du hóa tại xứ Anguttarāpa cùng với đại chúng Tăng đoàn tỳ kheo (monks-bhikkhus-nhà sư) đông đảo, [102] khoảng một ngàn hai trăm năm mươi vị tỳ kheo, và cuối cùng ngài đến một thị trấn của xứ Anguttarāpa tên là Āpaṇa.
 
-2. The matted-hair ascetic Keṇiya heard: "The recluse Gotama, the son of the Sakyans who went forth from a Sakyan clan, has been wandering in the country of the Anguttarāpans with a large Sangha of bhikkhus, with twelve hundred and fifty [103] bhikkhus, and he has come to Āpaṇa. Now a good report of Master Gotama has been spread to this effect...(as Sutta 91, §3)...Now it is good to see such arahants."
+2\.  Đạo sĩ bện tóc Keṇiya nghe tin: "Sa-môn Gotama, con trai của dòng họ Thích Ca, xuất gia từ dòng họ Thích Ca, đang du hóa tại xứ Anguttarāpa cùng với đại chúng Tăng đoàn tỳ kheo đông đảo, khoảng một ngàn hai trăm năm mươi [103] vị tỳ kheo, và ngài đã đến Āpaṇa. Tiếng lành về Tôn giả Gotama đã được đồn xa như sau...(như Kinh 91, §3)... Bậc Thế Tôn đó là bậc A-la-hán (arahant - người đã hoàn toàn giác ngộ, xứng đáng được cúng dường), bậc Chánh Đẳng Giác (fully enlightened - người tự mình giác ngộ hoàn toàn), bậc Minh Hạnh Túc (perfect in true knowledge and conduct - người hoàn hảo về trí tuệ và đức hạnh), bậc Thiện Thệ (sublime/well-gone - người đã đi đến nơi tốt đẹp), bậc Thế Gian Giải (knower of worlds - người hiểu biết thế gian), bậc Vô Thượng Sĩ Điều Ngự Trượng Phu (incomparable leader of persons to be tamed - bậc tối cao hướng dẫn những người cần được điều phục), bậc Thiên Nhân Sư (teacher of gods and humans - thầy của trời và người), bậc Phật (buddha - người giác ngộ), bậc Thế Tôn (blessed - người được tôn kính). Thật tốt lành thay khi được gặp các bậc A-la-hán như vậy."
 
-3. Then the matted-hair ascetic Keṇiya went to the Blessed One and exchanged greetings with him, and when this courteous and amiable talk was finished, he sat down at one side. The Blessed One instructed, urged, roused, and encouraged him with a talk on the Dhamma. Then, having been instructed, urged, roused, and encouraged by the Blessed One with a talk on the Dhamma, the matted-hair ascetic Keṇiya said to the Blessed One: "Let Master Gotama together with the Sangha of bhikkhus consent to accept tomorrow's meal from me."
+3\.  Khi ấy, đạo sĩ bện tóc Keṇiya đến gặp Đức Thế Tôn, chào hỏi ngài, và sau khi trao đổi những lời thăm hỏi thân mật, hòa nhã, ông ngồi xuống một bên. Đức Thế Tôn thuyết một bài Pháp (Dhamma - giáo lý của Đức Phật) để chỉ dạy, khích lệ, làm phấn chấn và vui lòng ông. Sau khi được Đức Thế Tôn chỉ dạy, khích lệ, làm phấn chấn và vui lòng bằng bài Pháp thoại, đạo sĩ bện tóc Keṇiya bạch Đức Thế Tôn: "Xin Tôn giả Gotama cùng với Tăng đoàn tỳ kheo nhận lời mời dùng bữa trai Tăng vào ngày mai của con."
 
-When this was said, the Blessed One told him: "The Sangha of bhikkhus is large, Keṇiya, [104] consisting of twelve hundred and fifty bhikkhus, and you place full confidence in the brahmins."
+Khi được thỉnh mời như vậy, Đức Thế Tôn bảo ông: "Này Keṇiya, Tăng đoàn tỳ kheo rất đông, [104] gồm một ngàn hai trăm năm mươi vị tỳ kheo, mà ông lại hoàn toàn tin tưởng vào các vị Bà-la-môn (brahmins - giai cấp tu sĩ và học giả trong xã hội Ấn Độ cổ đại)."
 
-A second time the matted-hair ascetic Keṇiya said to the Blessed One: "Although the Sangha of bhikkhus is large, Master Gotama, consisting of twelve hundred and fifty bhikkhus, and although I place full confidence in the brahmins, still let Master Gotama, together with the Sangha of bhikkhus, consent to
-accept tomorrow's meal from me." A second time the Blessed One told him: "The Sangha of bhikkhus is large, Keṇiya..."
+Lần thứ hai, đạo sĩ bện tóc Keṇiya bạch Đức Thế Tôn: "Thưa Tôn giả Gotama, mặc dù Tăng đoàn tỳ kheo rất đông, gồm một ngàn hai trăm năm mươi vị tỳ kheo, và mặc dù con hoàn toàn tin tưởng vào các vị Bà-la-môn, nhưng xin Tôn giả Gotama cùng với Tăng đoàn tỳ kheo nhận lời mời dùng bữa trai Tăng vào ngày mai của con." Lần thứ hai, Đức Thế Tôn bảo ông: "Này Keṇiya, Tăng đoàn tỳ kheo rất đông..."
 
-A third time the matted-hair ascetic Keṇiya said to the Blessed One: "Although the Sangha is large, Master Gotama...still let Master Gotama together with the Sangha of bhikkhus consent to accept tomorrow's meal from me." The Blessed One consented in silence.
+Lần thứ ba, đạo sĩ bện tóc Keṇiya bạch Đức Thế Tôn: "Thưa Tôn giả Gotama, mặc dù Tăng đoàn rất đông... nhưng xin Tôn giả Gotama cùng với Tăng đoàn tỳ kheo nhận lời mời dùng bữa trai Tăng vào ngày mai của con." Đức Thế Tôn im lặng nhận lời.
 
-4. Then, knowing that the Blessed One had consented, the matted-hair ascetic Keṇiya rose from his seat and went to his own hermitage where he addressed his friends and companions, his kinsmen and relatives thus: "Hear me, sirs, my friends and companions, my kinsmen and relatives. The recluse Gotama has been invited by me for tomorrow's meal together with the Sangha of bhikkhus. Make the necessary purchases and preparations for me."
+4\.  Khi biết Đức Thế Tôn đã nhận lời, đạo sĩ bện tóc Keṇiya từ chỗ ngồi đứng dậy, trở về am thất của mình và nói với bạn bè, người thân và quyến thuộc như sau: "Này quý vị, bạn bè, người thân và quyến thuộc của tôi, hãy nghe đây. Tôi đã mời Sa-môn Gotama cùng với Tăng đoàn tỳ kheo dùng bữa vào ngày mai. Xin hãy giúp tôi mua sắm và chuẩn bị những thứ cần thiết."
 
-"Yes, sir," they replied, and some dug out ovens, some chopped wood, some washed dishes, some set out water jugs, some prepared seats, while the matted-hair ascetic Keṇiya himself set up a pavilion.
+Họ đáp: "Vâng, thưa ngài," rồi người thì đào bếp lò, người thì chẻ củi, người thì rửa chén bát, người thì chuẩn bị bình nước, người thì sắp đặt chỗ ngồi, trong khi chính đạo sĩ bện tóc Keṇiya thì dựng một cái rạp.
 
-5. Now on that occasion the brahmin Sela was staying at Āpaṇa. [105] He was a master of the Three Vedas with their vocabularies, liturgy, phonology, and etymology, and the histories as a fifth; skilled in philology and grammar, he was fully versed in natural philosophy and in the marks of a Great Man, and was teaching the recitation of the hymns to three hundred brahmin students.
+5\.  Lúc bấy giờ, Bà-la-môn Sela đang ở tại Āpaṇa. [105] Ông là người thông suốt Ba tập Vệ-đà (Three Vedas - bộ kinh cổ xưa của Ấn Độ giáo) cùng với từ vựng, nghi lễ tế tự, ngữ âm, từ nguyên, và lịch sử là thứ năm; tinh thông ngữ văn và ngữ pháp, hoàn toàn am tường triết học tự nhiên và các tướng của bậc Đại Nhân (marks of a Great Man - các dấu hiệu đặc biệt trên thân thể của một người phi thường), và đang dạy tụng kinh cho ba trăm đệ tử Bà-la-môn.
 
-6. At the time the matted-hair ascetic Keṇiya had placed full confidence in the brahmin Sela. Then the brahmin Sela, while walking and wandering for exercise attended by his three hundred brahmin students, came to the matted-hair ascetic Keṇiya's hermitage. There he saw some men digging out ovens, some chopping wood, some washing dishes, some setting out water jugs, some preparing seats, while the matted-hair ascetic Keṇiya himself was setting up a pavilion.
+6\.  Vào thời điểm đó, đạo sĩ bện tóc Keṇiya hoàn toàn tin tưởng vào Bà-la-môn Sela. Khi ấy, Bà-la-môn Sela, trong khi đi kinh hành cùng với ba trăm đệ tử Bà-la-môn của mình, đã đến am thất của đạo sĩ bện tóc Keṇiya. Ở đó, ông thấy có người đang đào bếp lò, người đang chẻ củi, người đang rửa chén bát, người đang chuẩn bị bình nước, người đang sắp đặt chỗ ngồi, trong khi chính đạo sĩ bện tóc Keṇiya đang dựng một cái rạp.
 
-7. When he saw this, he asked the matted-hair ascetic Keṇiya: "What, is Master Keṇiya to hold a marriage or a giving in marriage? Or is there some great sacrifice? Or has King Seniya Bimbisāra of Magadha been invited with a large retinue for tomorrow's meal?"
+7\.  Khi thấy vậy, ông hỏi đạo sĩ bện tóc Keṇiya: "Này Tôn giả Keṇiya, có phải ngài sắp tổ chức lễ cưới hay lễ gả không? Hay có cuộc tế lễ lớn nào chăng? Hay là Vua Seniya Bimbisāra xứ Ma-kiệt-đà (Magadha) cùng đoàn tùy tùng đông đảo đã được mời dùng bữa vào ngày mai?"
 
-8. "I will not be holding a marriage or a giving in marriage, Master Sela, nor has King Seniya Bimbisāra of Magadha been
-invited with a large retinue for tomorrow's meal, but I am planning a great sacrifice. The recluse Gotama, the son of the Sakyans who went forth from a Sakyan clan, has been wandering in the country of the Anguttarāpans with a large Sangha of bhikkhus, with twelve hundred and fifty bhikkhus, and has come to Āpana. [106] Now a good report of Master Gotama has been spread to this effect: 'That Blessed One is accomplished, fully enlightened, perfect in true knowledge and conduct, sublime, knower of worlds, incomparable leader of persons to be tamed, teacher of gods and humans, enlightened [buddha], blessed.' He has been invited by me for tomorrow's meal together with the Sangha of bhikkhus."
+8\.  "Thưa Tôn giả Sela, tôi không tổ chức lễ cưới hay lễ gả, Vua Seniya Bimbisāra xứ Ma-kiệt-đà cùng đoàn tùy tùng đông đảo cũng không được mời dùng bữa vào ngày mai, nhưng tôi đang chuẩn bị một cuộc tế lễ lớn. Sa-môn Gotama, con trai của dòng họ Thích Ca, xuất gia từ dòng họ Thích Ca, đang du hóa tại xứ Anguttarāpa cùng với đại chúng Tăng đoàn tỳ kheo đông đảo, khoảng một ngàn hai trăm năm mươi vị tỳ kheo, và đã đến Āpaṇa. [106] Tiếng lành về Tôn giả Gotama đã được đồn xa như sau: 'Bậc Thế Tôn đó là bậc A-la-hán, bậc Chánh Đẳng Giác, bậc Minh Hạnh Túc, bậc Thiện Thệ, bậc Thế Gian Giải, bậc Vô Thượng Sĩ Điều Ngự Trượng Phu, bậc Thiên Nhân Sư, bậc Phật, bậc Thế Tôn.' Ngài đã được tôi mời dùng bữa vào ngày mai cùng với Tăng đoàn tỳ kheo."
 
-9. "Did you say 'Buddha,' Keṇiya?"
+9\.  "Ông nói 'Phật' phải không, Keṇiya?"
 
-"I said 'Buddha,' Sela."
+"Tôi nói 'Phật', thưa ông Sela."
 
-"Did you say 'Buddha,' Keṇiya?"
+"Ông nói 'Phật' phải không, Keṇiya?"
 
-"I said 'Buddha,' Sela."
+"Tôi nói 'Phật', thưa ông Sela."
 
-10. Then it occurred to the brahmin Sela: "Even this word 'Buddha' is hard to come across in this world. Now the thirtytwo marks of a Great Man have been handed down in our hymns, and the Great Man who is endowed with them has only two possible destinies, no other. If he lives the home life he becomes a Wheel-turning Monarch, a righteous king who rules by the Dhamma, master of the four quarters, all-victorious, who has stabilised his country and possesses the seven treasures. He has these seven treasures: the wheel-treasure, the elephanttreasure, the horse-treasure, the jewel-treasure, the womantreasure, the steward-treasure, and the counsellor-treasure as the seventh. His children, who exceed a thousand, are brave and heroic and crush the armies of others; over this earth bounded by the ocean he rules without a rod, without a weapon, by means of the Dhamma. But if he goes forth from the home life into homelessness, he becomes an Accomplished One, a Fully Enlightened One, who draws aside the veil in the world."
+10\. Bấy giờ, Bà-la-môn Sela khởi niệm: "Ngay cả danh từ 'Phật' này cũng thật khó gặp ở trên đời. Ba mươi hai tướng của bậc Đại Nhân đã được truyền lại trong các bài kinh thánh của chúng ta, và bậc Đại Nhân nào hội đủ các tướng ấy thì chỉ có hai con đường, không có con đường nào khác. Nếu sống đời tại gia, vị ấy sẽ trở thành một Chuyển Luân Thánh Vương (Wheel-turning Monarch - vị vua lý tưởng cai trị bằng Chánh pháp), một vị vua anh minh trị vì bằng Chánh pháp, chinh phục bốn phương, toàn thắng, người đã an định xứ sở và sở hữu bảy báu vật. Vị ấy có bảy báu vật này: báu vật bánh xe (wheel-treasure), báu vật voi (elephant-treasure), báu vật ngựa (horse-treasure), báu vật ngọc ma-ni (jewel-treasure), báu vật nữ (woman-treasure), báu vật gia chủ (steward-treasure), và thứ bảy là báu vật tướng quân (counsellor-treasure). Vị ấy có hơn một ngàn người con trai, dũng mãnh, anh hùng, có sức nhiếp phục quân đội đối phương; vị ấy trị vì khắp cõi đất cho đến bờ biển này mà không cần dùng đến roi, không cần dùng đến kiếm, chỉ bằng Chánh pháp. Nhưng nếu vị ấy xuất gia, từ bỏ đời sống gia đình, sống không gia đình, vị ấy sẽ trở thành một bậc A-la-hán, một bậc Chánh Đẳng Giác, người vén lên bức màn che trong thế gian."
 
-11. [He said]: "My good Keṇiya, where is Master Gotama, the Accomplished One, the Fully Enlightened One, now living?"
+11\. [Ông nói]: "Này ông Keṇiya thân mến, hiện nay Tôn giả Gotama, bậc A-la-hán, bậc Chánh Đẳng Giác, đang ở đâu?"
 
-When this was said, the matted-hair ascetic Keṇiya extended his right arm and said: [107] "There, where that green line of the grove is, Master Sela."
+Khi được hỏi vậy, đạo sĩ bện tóc Keṇiya đưa cánh tay phải ra và nói: [107] "Ở đó, nơi hàng cây xanh kia, thưa Tôn giả Sela."
 
-12. Then the brahmin Sela went with the three hundred brahmin students to the Blessed One. He addressed the brahmin students: "Come quietly, sirs, tread carefully; for these Blessed
+12\. Sau đó, Bà-la-môn Sela cùng với ba trăm đệ tử Bà-la-môn đến gặp Đức Thế Tôn. Ông nói với các đệ tử Bà-la-môn: "Này các vị, hãy đến nhẹ nhàng, bước đi cẩn thận; vì các bậc Thế Tôn này khó tiếp cận, các ngài sống một mình như sư tử. Khi ta đang nói chuyện với Sa-môn Gotama, các vị đừng xen vào ngắt lời ta, mà hãy đợi cho đến khi cuộc nói chuyện của chúng ta kết thúc."
 
-Ones are difficult to approach, they wander alone like lions. When I am speaking with the recluse Gotama, do not break in and interrupt me, but wait until our talk is finished."
+13\. Rồi Bà-la-môn Sela đến gặp Đức Thế Tôn và chào hỏi ngài. Sau khi trao đổi những lời thăm hỏi thân mật, hòa nhã, ông ngồi xuống một bên và quan sát ba mươi hai tướng của bậc Đại Nhân trên thân Đức Thế Tôn. Ông thấy gần như đầy đủ ba mươi hai tướng của bậc Đại Nhân trên thân Đức Thế Tôn, ngoại trừ hai tướng; ông nghi ngờ và không chắc chắn về hai tướng đó, và ông không thể quyết định và xác quyết về chúng: về tướng âm mã tàng (male organ enclosed in a sheath - bộ phận sinh dục nam được bao bọc kín đáo) và về tướng lưỡi rộng dài.
 
-13. Then the brahmin Sela went to the Blessed One and exchanged greetings with him. When this courteous and amiable talk was finished, he sat down at one side and looked for the thirty-two marks of a Great Man on the Blessed One's body. He saw, more or less, the thirty-two marks of a Great Man on the Blessed One's body, except two; he was doubtful and uncertain about two of the marks, and he could not decide and make up his mind about them: about the male organ being enclosed in a sheath and about the largeness of the tongue.
+Bấy giờ, Đức Thế Tôn khởi niệm: "Bà-la-môn Sela này thấy ba mươi hai tướng của bậc Đại Nhân trên thân ta, ngoại trừ hai tướng; ông ta nghi ngờ và không chắc chắn về hai tướng đó, và ông ta không thể quyết định và xác quyết về chúng: về tướng âm mã tàng và về tướng lưỡi rộng dài."
 
-Then it occurred to the Blessed One: "This brahmin Sela sees the thirty-two marks of a Great Man on me, except two; he is doubtful and uncertain about two of the marks, and he cannot decide and make up his mind about them: about the male organ being enclosed in a sheath and about the largeness of the tongue."
+14\. Khi ấy, Đức Thế Tôn thể hiện thần thông (supernormal power - năng lực phi thường) đến độ Bà-la-môn Sela thấy được tướng âm mã tàng của Đức Thế Tôn. [108] Tiếp theo, Đức Thế Tôn le lưỡi ra, chạm đến cả hai lỗ tai, cả hai lỗ mũi, và dùng lưỡi che kín cả vầng trán.
 
-14. Then the Blessed One worked such a feat of supernormal power that the brahmin Sela saw that the Blessed One's male organ was enclosed in a sheath. [108] Next the Blessed One extruded his tongue, and he repeatedly touched both ear holes and both nostrils, and he covered the whole of his forehead with his tongue.
+15\. Bấy giờ, Bà-la-môn Sela nghĩ: "Sa-môn Gotama có đủ ba mươi hai tướng của bậc Đại Nhân; đầy đủ chứ không thiếu sót. Nhưng ta không biết ngài có phải là Phật hay không. Tuy nhiên, ta đã nghe các vị Bà-la-môn lớn tuổi, bậc thầy truyền dạy rằng những vị là bậc A-la-hán, bậc Chánh Đẳng Giác, sẽ tự thể hiện mình khi được tán thán. Vậy ta hãy dùng những vần kệ thích hợp để tán thán Sa-môn Gotama trước mặt ngài."
 
-15. Then the brahmin Sela thought: "The recluse Gotama is endowed with the thirty-two marks of a Great Man; they are complete, not incomplete. But I do not know whether he is a Buddha or not. However, I have heard from elder aged brahmins who speak according to the lineage of teachers that those who are the Accomplished Ones, Fully Enlightened Ones, reveal themselves as such when their praise is spoken. Suppose I extol the recluse Gotama to his face with fitting stanzas."
+Rồi ông tán thán Đức Thế Tôn trước mặt ngài bằng những vần kệ thích hợp:
 
-Then he extolled the Blessed One to his face with fitting stanzas:
+16\. Sela
 
-16. Sela
+"Thân ngài toàn hảo, thật ưa nhìn,
+Hình dáng cân đối, đẹp tuyệt vời;
+Này Đức Thế Tôn, sắc vàng kim,
+Răng trắng tinh, ngài thật mạnh mẽ.
+Những nét tướng tốt của người sinh ra cao quý
+Đều hiện rõ trên thân ngài;
+Đây là những dấu hiệu của bậc Đại Nhân.
 
-"O perfect in body, well favoured, Well fashioned and lovely to behold; O Blessed One, golden is your colour, And white your teeth; you are strong. The features are seen one and all That distinguish a man as well born;
+Mắt trong sáng, gương mặt rạng ngời,
+Oai nghiêm, thẳng tắp như ngọn lửa,
+Giữa hội chúng Sa-môn này
+Ngài tỏa sáng như mặt trời rực rỡ.
 
-They are all to be found on your body, These marks that reveal a Great Man.
+Một vị tỳ kheo đẹp đẽ dường ấy
+Với làn da ánh sắc vàng kim –
+Với vẻ đẹp hiếm có như vậy, sao ngài
+Lại bằng lòng với đời sống Sa-môn?
 
-With eyes clear, with countenance bright, Majestic, erect as a flame,
+Ngài xứng đáng làm vua, làm chủ chiến xa,
+Một Chuyển Luân Thánh Vương,
+Người chiến thắng khắp bốn phương
+Và làm chủ cõi Diêm-phù-đề (Jambudīpa - tên cổ của Ấn Độ). [^868] [109]
 
-In the midst of this body of recluses
+Các chiến binh và vương tử cao quý
+Đều hết lòng phụng sự ngài,
+Này Gotama, ngài nên trị vì
+Là vua của loài người, vua trên các vua."
 
-You shine like the blazing sun.
+17\. Phật
 
-A bhikkhu so lovely to look on
+"Ta đã là vua rồi, này Sela,"
+Đức Thế Tôn trả lời.
+"Ta là vua tối thượng của Chánh pháp,
+Ta chuyển bánh xe Chánh pháp (Wheel of Dhamma - sự vận hành, truyền bá giáo pháp),
+Bánh xe không ai có thể ngăn lại."
 
-With skin of so golden a sheen -
+18\. Sela
 
-With beauty so rare why should you
+"Ngài tự nhận là bậc Chánh Đẳng Giác," Bà-la-môn Sela nói,
+"Ngài nói với tôi, này Gotama,
+'Ta là vua tối thượng của Chánh pháp,
+Ta chuyển bánh xe Chánh pháp.'
 
-Be content with the life of a recluse?
+Ai là vị tướng quân của ngài, vị đệ tử
+Nối gót theo đường lối của Bậc Đạo Sư?
+Ai là người giúp ngài chuyển
+Bánh xe mà ngài đã khởi động?"
 
-You are fit to be a king, a lord of chariots,
+19\. Phật
+
+"Bánh xe do ta khởi động,"
+Đức Thế Tôn trả lời,
+"Bánh xe Chánh pháp tối thượng ấy,
+Sāriputta (Xá-lợi-phất), con của Như Lai (Tathāgata - danh hiệu chỉ Đức Phật, nghĩa là 'người đã đến như vậy' hoặc 'người đã đi như vậy'),
+Giúp ta trong việc chuyển bánh xe này.
 
-A monarch who makes the wheel turn,
-
-A victor in all the four quarters
-
-And lord of the Jambu-tree Grove. [^868] [109]
-
-With warriors and great princes
-
-All devoted to your service,
-
-O Gotama, you should reign
-
-As ruler of men, king above all kings."
-
-17. Buddha
-
-"I am already a king, O Sela,"
-
-the Blessed One replied.
-
-"I am supreme king of the Dhamma,
-
-I make the Wheel of Dhamma revolve,
-
-The wheel that none can stop."
-
-18. Sela
-
-"You claim full enlightenment," the brahmin Sela said,
-
-"You tell me, O Gotama,
-
-'I am supreme king of the Dhamma,
-
-I make the Wheel of Dhamma revolve.'
-
-Who is your general, that disciple
-
-Who follows in the Master's own way?
-
-Who is it who helps you to turn
-
-The wheel set in motion by you?"
-
-19. Buddha
-
-"The wheel set in motion by me,"
-
-The Blessed One replied,
-"That same supreme Wheel of Dhamma, Sāriputta the Tathāgata's son
-
-Helps me in turning this wheel.
-
-What must be known is directly known, What must be developed has been developed, What must be abandoned has been abandoned, Therefore, brahmin, I am a Buddha.
-
-So let your doubts about me cease
-
-And let decision take their place,
-
-For it is always hard to gain
-
-Sight of the Enlightened Ones. [110]
-
-I am the one whose presence in the world
-
-Is very rarely come upon,
-
-I am the Fully Enlightened One,
-
-I, O brahmin, am the supreme physician.
-
-I am the holy one beyond compare
-
-Who has crushed all Māra's teeming hordes;
-
-Having defeated all my enemies,
-
-I rejoice free from fear."
-
-20. Sela
-
-"O sirs, hear this, hear what he says,
-
-The man of vision, the physician,
-
-The mighty hero who roars
-
-Like a lion in the forest.
-
-Who, even though of outcast birth,
-
-Would not believe him when he saw
-
-That he is the holy one beyond compare
-
-Who has crushed all Māra's teeming hordes?
-
-Now let him follow me who wants
-
-And who wants not, let him depart.
-
-For I will go forth under him,
-
-This man of lofty wisdom."
-
-21. Pupils
-
-"If, O sir, you now approve
-
-This teaching of the Enlightened One,
-
-We too will go forth under him,
-
-This man of lofty wisdom."
-
-22. Sela
-
-"There are three hundred brahmins here
-
-Who with uplifted hands implore:
-
-'O may we live the holy life
-
-Under you, O Blessed One.'"
-
-23. Buddha
-
-"The holy life is well proclaimed,
-
-O Sela," said the Blessed One,
-
-"To be seen here and not delayed;
-
-One who trains with diligence
-
-Will find a fruitful going forth."
-
-24. Then the brahmin Sela and his assembly received the going forth under the Blessed One, and they received the full admission.
-
-25. Then, when the night had ended, the matted-hair ascetic Keṇiya had good food of various kinds prepared in his own hermitage [111] and had the time announced to the Blessed One: "It is time, Master Gotama, the meal is ready." Then, it being morning, the Blessed One dressed, and taking his bowl and outer robe, he went with the Sangha of bhikkhus to the hermitage of the matted-hair ascetic Keṇiya and sat down on the seat made ready. Then, with his own hands, the matted-hair ascetic Keṇiya served and satisfied the Sangha of bhikkhus headed by the Buddha with various kinds of good food. When the Blessed One had eaten and had withdrawn his hand from the bowl, the matted-hair ascetic Keṇiya took a low seat and sat down on one side. Thereupon the Blessed One gave him his blessing with these stanzas:
-
-26. "Burnt offerings are the glory of fires,
-
-Sāvitrī the glory of Vedic hymns,
-
-Glory of human beings, a king,
-
-Glory of flowing rivers, the sea;
-
-The moon is the glory of the stars,
-
-The sun is the glory of all that shine;
-
-Merit is the glory of all who aspire;
-
-The Sangha, glory of those who give."
-
-When the Blessed One had given his blessing with these stanzas, he rose from his seat and departed.
-
-27. Then, not long after their full admission, dwelling alone, withdrawn, diligent, ardent, and resolute, the venerable Sela and his assembly, [112] by realising for themselves with direct knowledge, here and now entered upon and abided in that supreme goal of the holy life for the sake of which clansmen rightly go forth from the home life into homelessness. They directly knew: "Birth is destroyed, the holy life has been lived, what had to be done has been done, there is no more coming to any state of being." And the venerable Sela together with his assembly became arahants.
-
-28. Then the venerable Sela together with his assembly went to the Blessed One. Having arranged his upper robe on one shoulder, extending his hands in reverential greeting towards the Blessed One, he addressed him with these stanzas:
-
-"Eight days have passed, All-Seeing One, Since we went to you for refuge.
-
-In these seven nights, O Blessed One, We have been tamed in your teaching.
-
-You are the Buddha, you are the Teacher, You are the Sage, the conqueror of Māra. Having cut off all evil tendencies, You have crossed and guide humanity across.
-
-You have surmounted all attachments, You have removed all the taints.
-
-You are a lion free from clinging, You have abandoned fear and dread.
-
-Here these three hundred bhikkhus stand With hands held out in adoration.
-
-O Hero, extend your feet, And let these great beings worship the Teacher."
+Điều cần phải biết, đã được trực tiếp biết,
+Điều cần tu tập, đã được tu tập,
+Điều cần từ bỏ, đã được từ bỏ,
+Vì vậy, này Bà-la-môn, ta là Phật.
+
+Vậy hãy dứt bỏ nghi ngờ về ta
+Và hãy để sự xác quyết thay thế,
+Vì thật khó để được thấy
+Các bậc Giác Ngộ. [110]
+
+Ta là người mà sự hiện diện trên đời
+Rất hiếm khi gặp được,
+Ta là bậc Chánh Đẳng Giác,
+Ta, này Bà-la-môn, là vị lương y tối thượng.
+
+Ta là bậc thánh không ai sánh bằng
+Đã nghiền nát tất cả đạo quân của Ma vương (Māra - hiện thân của cám dỗ, sự chết, và các chướng ngại trên con đường giác ngộ);
+Đã chiến thắng mọi kẻ thù,
+Ta hoan hỷ, không còn sợ hãi."
+
+20\. Sela
+
+"Này các vị, hãy nghe điều này, hãy nghe lời ngài nói,
+Người có tuệ nhãn, vị lương y,
+Bậc anh hùng vĩ đại rống lên
+Như sư tử giữa rừng sâu.
+
+Ai, dù thuộc dòng dõi hạ tiện,
+Lại không tin ngài khi thấy
+Ngài là bậc thánh không ai sánh bằng
+Đã nghiền nát tất cả đạo quân của Ma vương?
+
+Bây giờ, ai muốn hãy theo ta
+Và ai không muốn, hãy cứ rời đi.
+Vì ta sẽ xuất gia theo ngài,
+Bậc trí tuệ cao vời này."
+
+21\. Các đệ tử
+
+"Thưa thầy, nếu thầy chấp thuận
+Giáo pháp này của bậc Giác Ngộ,
+Chúng con cũng sẽ xuất gia theo ngài,
+Bậc trí tuệ cao vời này."
+
+22\. Sela
+
+"Ở đây có ba trăm vị Bà-la-môn
+Đang chắp tay cầu xin:
+'Xin cho chúng con được sống đời phạm hạnh (holy life - đời sống thanh tịnh, hướng đến giải thoát)
+Dưới sự dẫn dắt của ngài, ôi Đức Thế Tôn.'"
+
+23\. Phật
+
+"Đời sống phạm hạnh đã được khéo giảng,"
+Đức Thế Tôn nói, "Này Sela,
+"Có thể thấy ngay tại đây, không mất thời gian;
+Người tinh tấn tu tập
+Sẽ thấy sự xuất gia có kết quả."
+
+24\. Sau đó, Bà-la-môn Sela và hội chúng của ông đã nhận sự xuất gia dưới sự hướng dẫn của Đức Thế Tôn, và họ đã nhận sự cụ túc giới (full admission - lễ thọ giới chính thức để trở thành tỳ kheo).
+
+25\. Rồi, khi đêm đã qua, đạo sĩ bện tóc Keṇiya cho chuẩn bị nhiều loại vật thực ngon lành trong am thất của mình [111] và cho người báo giờ đến Đức Thế Tôn: "Đã đến giờ, thưa Tôn giả Gotama, bữa ăn đã sẵn sàng." Bấy giờ, vào buổi sáng, Đức Thế Tôn đắp y, mang bát, cùng Tăng đoàn tỳ kheo đi đến am thất của đạo sĩ bện tóc Keṇiya và ngồi vào chỗ đã soạn sẵn. Sau đó, đạo sĩ bện tóc Keṇiya tự tay phục vụ và cúng dường các loại vật thực ngon lành cho Tăng đoàn tỳ kheo do Đức Phật dẫn đầu cho đến khi các vị hài lòng. Khi Đức Thế Tôn đã thọ thực xong và rời tay khỏi bát, đạo sĩ bện tóc Keṇiya lấy một chiếc ghế thấp và ngồi xuống một bên. Bấy giờ, Đức Thế Tôn chúc phúc cho ông bằng những vần kệ này:
+
+26\. "Tế lửa vinh quang nhờ lễ vật,
+Kinh Vệ-đà vinh quang nhờ Sāvitrī,
+Loài người vinh quang nhờ có vua,
+Sông ngòi vinh quang nhờ biển cả;
+
+Mặt trăng là vinh quang của các vì sao,
+Mặt trời là vinh quang của mọi vật chiếu sáng;
+Công đức (Merit - phước báu tạo ra từ hành động thiện lành) là vinh quang của mọi người mong cầu;
+Tăng đoàn, vinh quang của những người bố thí."
+
+Sau khi Đức Thế Tôn chúc phúc bằng những vần kệ này, ngài từ chỗ ngồi đứng dậy và rời đi.
+
+27\. Sau đó, không lâu sau khi thọ cụ túc giới, Tôn giả Sela và hội chúng của ông, [112] sống một mình, ẩn dật, tinh cần, nhiệt tâm, và quyết chí, đã tự mình chứng ngộ bằng trí tuệ trực tiếp (direct knowledge - sự hiểu biết trực tiếp, không qua trung gian), ngay trong hiện tại, đạt đến và an trú vào mục đích tối thượng của đời sống phạm hạnh mà vì đó các thiện nam tử chân chính xuất gia, từ bỏ đời sống gia đình, sống không gia đình. Họ trực tiếp biết rằng: "Sanh đã tận, phạm hạnh đã thành, việc cần làm đã làm xong, không còn trở lại trạng thái nào nữa." Và Tôn giả Sela cùng với hội chúng của ông đã trở thành các bậc A-la-hán.
+
+28\. Bấy giờ, Tôn giả Sela cùng với hội chúng của ông đến gặp Đức Thế Tôn. Đắp y lệch một bên vai, chắp tay cung kính hướng về Đức Thế Tôn, ông bạch với ngài bằng những vần kệ này:
+
+"Tám ngày đã qua, Bậc Toàn Giác,
+Kể từ khi chúng con quy y ngài.
+Trong bảy đêm này, ôi Đức Thế Tôn,
+Chúng con đã được điều phục trong giáo pháp của ngài.
+
+Ngài là Phật, ngài là Bậc Đạo Sư,
+Ngài là Bậc Thánh, người chiến thắng Ma vương.
+Đã đoạn trừ mọi khuynh hướng xấu ác (evil tendencies - các xu hướng tâm lý bất thiện, còn gọi là tùy miên hay ngủ ngầm),
+Ngài đã vượt qua và dẫn dắt nhân loại vượt qua.
+
+Ngài đã vượt lên mọi chấp thủ (attachments - sự bám víu, dính mắc vào các đối tượng),
+Ngài đã loại trừ mọi lậu hoặc (taints - những ô nhiễm tinh thần sâu kín làm chúng sinh trôi lăn trong luân hồi).
+Ngài là sư tử không còn vướng mắc,
+Ngài đã từ bỏ sợ hãi và kinh hoàng.
+
+Nơi đây ba trăm vị tỳ kheo đứng
+Với đôi tay chắp lại tôn thờ.
+Ôi Bậc Anh Hùng, xin duỗi chân ra,
+Để những bậc vĩ đại này đảnh lễ Bậc Đạo Sư."
+
+<!--pg-->
+Từ ngữ:
+- tỳ kheo / bhikkhu / monks-bhikkhus: Nhà sư Phật giáo nam đã thọ giới cụ túc (giới luật cao nhất).
+- A-la-hán / arahant / arahant: Bậc Thánh đã đạt được sự giác ngộ hoàn toàn, chấm dứt mọi phiền não và vòng luân hồi sinh tử, xứng đáng được tôn kính và cúng dường.
+- Chánh Đẳng Giác / sammāsambuddha / fully enlightened: Bậc giác ngộ hoàn toàn và viên mãn do tự mình tìm ra chân lý, không thầy chỉ dạy (như Đức Phật Thích Ca).
+- Minh Hạnh Túc / vijjācaraṇasampanna / perfect in true knowledge and conduct: Người đã hoàn hảo cả về trí tuệ (minh) và đức hạnh, hành vi (hạnh).
+- Thiện Thệ / sugata / sublime/well-gone: Người đã đi đến nơi tốt đẹp, tức là Niết-bàn, không còn trở lại khổ đau.
+- Thế Gian Giải / lokavidū / knower of worlds: Người hiểu biết tường tận về mọi cảnh giới, mọi loại chúng sinh và các quy luật vận hành của thế gian.
+- Vô Thượng Sĩ Điều Ngự Trượng Phu / anuttaro purisadammasārathi / incomparable leader of persons to be tamed: Bậc tối cao không ai sánh bằng trong việc giáo hóa, dẫn dắt những chúng sinh cần được điều phục để hướng đến giải thoát.
+- Thiên Nhân Sư / satthā devamanussānaṃ / teacher of gods and humans: Bậc thầy của cả các vị trời (deva) và loài người (manussa).
+- Phật / buddha / enlightened/buddha: Bậc Giác Ngộ, người đã tỉnh thức hoàn toàn khỏi vô minh, thấy rõ chân lý.
+- Thế Tôn / bhagavā / blessed: Bậc được tôn kính tối thượng, người có đầy đủ phước đức, trí tuệ và uy lực, người đã chiến thắng mọi ma chướng.
+- Pháp / Dhamma / Dhamma: Chân lý vũ trụ; Giáo lý do Đức Phật khám phá và giảng dạy để giúp chúng sinh thoát khổ.
+- Bà-la-môn / brāhmaṇa / brahmins: Giai cấp tu sĩ, học giả và tế lễ trong xã hội Ấn Độ cổ đại, được xem là giai cấp cao nhất, chuyên trách về kinh Vệ-đà và các nghi thức tôn giáo.
+- Ba tập Vệ-đà / tayo vedā / Three Vedas: Ba bộ kinh cổ xưa chính của Ấn Độ giáo là Rigveda, Samaveda và Yajurveda, chứa đựng các bài thánh ca, nghi lễ và triết lý. (Atharvaveda đôi khi được tính là bộ thứ tư).
+- tướng của bậc Đại Nhân / mahāpurisa lakkhaṇāni / marks of a Great Man: 32 dấu hiệu đặc biệt trên thân thể của một người phi thường, được tin là chỉ xuất hiện ở một vị Phật hoặc một vị Chuyển Luân Thánh Vương.
+- Chuyển Luân Thánh Vương / cakkavatti rāja / Wheel-turning Monarch: Vị vua lý tưởng trong truyền thống Ấn Độ, cai trị toàn cõi đất bằng Chánh pháp (Dhamma), không dùng bạo lực, và sở hữu bảy báu vật quý giá.
+- âm mã tàng / kosohita-vatthaguyha / male organ enclosed in a sheath: Một trong 32 tướng tốt của bậc Đại Nhân, chỉ bộ phận sinh dục nam được bao bọc kín đáo trong một lớp vỏ bọc, không lộ ra ngoài.
+- thần thông / iddhi / supernormal power: Năng lực phi thường, siêu nhiên vượt ngoài khả năng thông thường của con người, có thể đạt được qua tu tập thiền định sâu sắc hoặc do nghiệp lực từ quá khứ.
+- bánh xe Chánh pháp / Dhammacakka / Wheel of Dhamma: Biểu tượng cho sự vận hành và truyền bá giáo pháp của Đức Phật. Việc "chuyển bánh xe pháp" nghĩa là bắt đầu giảng dạy chân lý để đưa chúng sinh đến giác ngộ.
+- Như Lai / Tathāgata / Tathāgata: Một danh hiệu tôn quý của Đức Phật, thường được hiểu là "Người đã đến như vậy" (đến với chân lý) hoặc "Người đã đi như vậy" (đi đến Niết-bàn), thể hiện sự chứng ngộ chân lý như thật.
+- Ma vương / Māra / Māra: Trong Phật giáo, Māra là hiện thân của các thế lực cản trở sự giác ngộ, bao gồm cám dỗ dục lạc, phiền não, sự chết, và các chướng ngại tâm lý.
+- đời sống phạm hạnh / brahmacariya / holy life: Đời sống thanh tịnh, trong sạch, đặc biệt là đời sống xuất gia, từ bỏ các thú vui thế tục để chuyên tâm tu tập hướng đến mục tiêu giải thoát khỏi khổ đau và luân hồi.
+- cụ túc giới / upasampadā / full admission: Lễ truyền giới chính thức và đầy đủ để một người trở thành thành viên chính thức của Tăng đoàn, tức là một vị tỳ kheo (nam) hoặc tỳ kheo ni (nữ).
+- công đức / puñña / Merit: Phước báu, năng lượng thiện lành được tích lũy thông qua các hành động tốt đẹp về thân (hành động), khẩu (lời nói), và ý (suy nghĩ), mang lại kết quả an vui trong hiện tại và tương lai.
+- trí tuệ trực tiếp / abhiññā / direct knowledge: Sự hiểu biết siêu việt, thấu suốt thực tại một cách trực tiếp, không qua suy luận hay khái niệm, thường bao gồm các năng lực như thiên nhãn, thiên nhĩ, tha tâm thông, túc mạng thông, lậu tận thông.
+- khuynh hướng xấu ác / anusaya / evil tendencies: Các xu hướng tâm lý bất thiện tiềm ẩn, ngủ ngầm sâu trong tâm thức (như tham, sân, si, mạn, nghi, tà kiến), là gốc rễ của phiền não và khổ đau, dễ dàng trỗi dậy khi gặp điều kiện thích hợp.
+- chấp thủ / upādāna / attachments: Sự bám víu, dính mắc một cách mạnh mẽ vào các đối tượng, quan điểm hoặc kinh nghiệm (như dục lạc, tà kiến, giới cấm thủ, ngã luận), được xem là nguyên nhân trực tiếp dẫn đến khổ đau (dukkha).
+- lậu hoặc / āsava / taints: Những ô nhiễm tinh thần sâu kín, vi tế, như dòng chảy ngầm làm chúng sinh trôi lăn trong vòng luân hồi (saṃsāra). Thường được kể là bốn loại: dục lậu (kāmāsava), hữu lậu (bhavāsava), kiến lậu (diṭṭhāsava), và vô minh lậu (avijjāsava). Đoạn trừ lậu hoặc là mục tiêu cuối cùng của tu tập Phật giáo.
