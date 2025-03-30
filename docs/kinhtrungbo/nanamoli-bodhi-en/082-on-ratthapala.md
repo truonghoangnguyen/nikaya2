@@ -49,7 +49,7 @@ For the second time...For the third time his friends said to him: "Friend Raṭt
 
 Then the clansman Raṭthapāla's friends went to him and told him: "Get up, friend Raṭthapāla. Your parents permit you to go forth from the home life into homelessness. But when you have gone forth, you must visit your parents."
 
-12\. The clansman Raṭthapāla then got up, and when he had regained his strength, he went to the Blessed One, and after paying homage to him, he sat down at one side and told him: "Venerable sir, I have my parents' permission to go forth from the home life into homelessness. Let the Blessed One give me the going forth." Then the clansman Raṭthapāla received the going forth under the Blessed One, and he received the full admission. ${ }^{796}$
+12\. The clansman Raṭthapāla then got up, and when he had regained his strength, he went to the Blessed One, and after paying homage to him, he sat down at one side and told him: "Venerable sir, I have my parents' permission to go forth from the home life into homelessness. Let the Blessed One give me the going forth." Then the clansman Raṭthapāla received the going forth under the Blessed One, and he received the full admission. [^796]
 
 13\. Then not long after the venerable Raṭthapāla had received the full admission, a half-month after he had received the full
 admission, the Blessed One, having stayed at Thullakoṭthita as long as he chose, set out to wander towards Sāvatthī. Wandering by stages, he eventually arrived at Sāvatthī, and there [61] he lived at Sāvatthī in Jeta's Grove, Anāthapiṇ̣̣ika's Park.
@@ -104,7 +104,7 @@ then, dear, [64] abandon the training and return to the low life, enjoy the weal
 
 Then, with his own hands, the venerable Ratṭhapāla's father served and satisfied him with the various kinds of good food. When the venerable Raṭthapāla had eaten and had withdrawn his hand from the bowl, he stood up and uttered these stanzas:
 
-25\. "Behold a puppet here pranked out, ${ }^{800}$
+25\. "Behold a puppet here pranked out, [^800]
 
 A body built up out of sores,
 

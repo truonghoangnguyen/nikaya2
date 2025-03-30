@@ -28,7 +28,7 @@ Ngang thầy trong các cuộc luận đàm. [117]
 3\. Một tranh chấp đã nảy sinh giữa chúng con, thưa Gotama,
 Về vấn đề dòng dõi và giai cấp:
 Bhāradvāja nói người ta là bà-la-môn do sinh (birth - jāti - sự sinh ra, dòng dõi),
-Còn con giữ quan điểm là bà-la-môn do hành động (action - kamma - nghiệp, hành vi tạo tác). ${901}$
+Còn con giữ quan điểm là bà-la-môn do hành động (action - kamma - nghiệp, hành vi tạo tác). [^901]
 Xin Ngài, bậc thấy biết, hiểu cho cuộc tranh luận này.
 
 4\. Vì không ai thuyết phục được người kia,
@@ -109,11 +109,11 @@ Như ở các loài sinh khác. [119]
 18\. Trong thân thể con người tự nó
 Không thể tìm thấy điều gì đặc trưng.
 Sự phân biệt giữa con người
-Hoàn toàn chỉ là danh xưng quy ước (verbal designation - samaññā - sự gọi tên, đặt tên dựa trên lời nói, quy ước xã hội). ${902}$
+Hoàn toàn chỉ là danh xưng quy ước (verbal designation - samaññā - sự gọi tên, đặt tên dựa trên lời nói, quy ước xã hội). [^902]
 
 10.
 
-19\. "Ai kiếm sống giữa loài người ${903}$
+19\. "Ai kiếm sống giữa loài người [^903]
 Bằng nông nghiệp, con nên biết
 Được gọi là nông dân, Vāsetṭha;
 Người ấy không phải bà-la-môn.
@@ -158,7 +158,7 @@ Người ấy không phải bà-la-môn.
 27\. "Ta không gọi người là bà-la-môn
 Vì nguồn gốc và dòng dõi của họ.
 Nếu trở ngại (impediments - kiñcana - những chướng ngại, phiền não vi tế) vẫn còn ẩn náu trong họ,
-Họ chỉ là người nói 'Thưa ngài'. ${904}$
+Họ chỉ là người nói 'Thưa ngài'. [^904]
 Người không còn trở ngại và không còn chấp thủ (clings - upādāna - sự bám víu, dính mắc):
 Người ấy Ta gọi là bà-la-môn.
 
@@ -316,7 +316,7 @@ Cũng không phải không-bà-la-môn do sinh.
 Do hành động mà người ta là bà-la-môn,
 Do hành động mà người ta là không-bà-la-môn.
 
-58\. Vì con người là nông dân do hành động của họ, ${905}$
+58\. Vì con người là nông dân do hành động của họ, [^905]
 Và do hành động của họ cũng là thợ thủ công;
 Và con người là thương nhân do hành động của họ,
 Và do hành động của họ cũng là người phục vụ.
@@ -331,7 +331,7 @@ Và do hành động của họ cũng là vua chúa. [123]
 60\. "Vậy đó là cách người thực sự trí tuệ (truly wise - medhāvī - người có trí tuệ)
 Thấy hành động đúng như thật,
 Những bậc thấy duyên khởi (dependent origination - paṭiccasamuppāda - lý thuyết về sự phát sinh phụ thuộc lẫn nhau của các hiện tượng),
-Tinh thông về hành động và kết quả của nó (action and its results - kammavipāka - nghiệp và quả báo của nghiệp). ${906}$
+Tinh thông về hành động và kết quả của nó (action and its results - kammavipāka - nghiệp và quả báo của nghiệp). [^906]
 
 61\. Hành động làm thế giới quay vòng,
 Hành động làm thế hệ này xoay chuyển.
@@ -341,7 +341,7 @@ Như bánh xe bởi cái chốt.
 62\. Khổ hạnh (asceticism - tapa - sự tu tập ép xác, khổ luyện), phạm hạnh (holy life - brahmacariya - đời sống trong sạch, tu tập giải thoát),
 Tự chủ (self-control - saṃyama - sự kiểm soát bản thân) và rèn luyện nội tâm (inner training - dama - sự điều phục tâm) -
 Nhờ đó người ta trở thành bà-la-môn,
-Ở đó phẩm hạnh bà-la-môn tối thượng (supreme brahminhood - brāhmaññaṃ uttamaṃ - phẩm chất cao quý nhất của Bà-la-môn) nằm. ${907}$
+Ở đó phẩm hạnh bà-la-môn tối thượng (supreme brahminhood - brāhmaññaṃ uttamaṃ - phẩm chất cao quý nhất của Bà-la-môn) nằm. [^907]
 
 63\. Người sở hữu tam minh (triple knowledge - tevijja - ba loại trí tuệ siêu việt: túc mạng minh, thiên nhãn minh, lậu tận minh),
 An tịnh (peaceful - santa - trạng thái bình an, tịch tĩnh), với sự hiện hữu đã hoàn toàn hủy diệt:

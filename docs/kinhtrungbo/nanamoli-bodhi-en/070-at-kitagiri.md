@@ -3,16 +3,18 @@
 
 1\. Thus have I heard. On one occasion the Blessed One was wandering in the Kāsi country together with a large Sangha of bhikkhus. There he addressed the bhikkhus thus:
 
-2\. "Bhikkhus, I abstain from eating at night. By so doing, I am free from illness and affliction, and I enjoy health, strength, and a comfortable abiding. Come, bhikkhus, abstain from eating at night. By so doing, you too will be free from illness and affliction, and you will enjoy health, strength, and a comfortable abiding." ${ }^{696}$
+2\. "Bhikkhus, I abstain from eating at night. By so doing, I am free from illness and affliction, and I enjoy health, strength, and a comfortable abiding. Come, bhikkhus, abstain from eating at night. By so doing, you too will be free from illness and affliction, and you will enjoy health, strength, and a comfortable abiding." [^696]
 
 "Yes, venerable sir," they replied.
 
 3\. Then, as the Blessed One was wandering by stages in the Kāsi country, he eventually arrived at a Kāsi town called Kīṭāgiri. There he lived in this Kāsi town, Kīṭāgiri.
 
+<!--pg-->
 4\. Now on that occasion the bhikkhus named Assaji and Punabbasuka were residing at Kīṭāgiri. [^697] Then a number of bhikkhus went and told them: "Friends, the Blessed One and the Sangha of bhikkhus now abstain from eating at night. By so doing, they are free from illness and affliction, and they enjoy health, strength, and a comfortable abiding. Come, friends, abstain from eating at night. By so doing, you too will be free. from illness and affliction, and you will enjoy health, strength, and a comfortable abiding." [474] When this was said, the bhikkhus Assaji and Punabbasuka told those bhikkhus: "Friends, we eat in the evening, in the morning, and in the day outside the proper time. By so doing, we are free from illness and affliction, and we enjoy health, strength, and a comfortable abiding. Why should we abandon [a benefit] visible here and now to pursue [a benefit to be achieved] at a future time? We shall eat in the evening, in the morning, and in the day outside the proper time."
 
 5\. Since the bhikkhus were unable to convince the bhikkhus Assaji and Punabbasuka, they went to the Blessed One. After paying homage to him, they sat down at one side and told him all that had occurred, adding: "Venerable sir, since we were unable to convince the bhikkhus Assaji and Punabbasuka, we have reported this matter to the Blessed One."
 
+<!--pg-->
 6\. Then the Blessed One addressed a certain bhikkhu thus: "Come, bhikkhu, tell the bhikkhus Assaji and Punabbasuka in my name that the Teacher calls them."
 
 "Yes, venerable sir," he replied, and he went to the bhikkhus Assaji and Punabbasuka and told them: "The Teacher calls you, friends."
@@ -21,9 +23,11 @@
 
 "Bhikkhus, have you known me to teach the Dhamma in such a way as this: 'Whatever this person experiences, whether pleasant or painful or neither-painful-nor-pleasant, unwholesome states diminish in him and wholesome states increase'?"698 "No, venerable sir."
 
+<!--pg-->
 7\. "Bhikkhus, have you not known me to teach the Dhamma in such a way as this: 'Here, when someone feels a certain kind of pleasant feeling, unwholesome states increase in him and wholesome states diminish; but when someone feels another kind of pleasant feeling, unwholesome states diminish in him and wholesome states increase. [^699] Here, when someone feels a certain kind of painful feeling, unwholesome states increase in him and wholesome states diminish; but when someone feels another kind of painful feeling, unwholesome states diminish in him and wholesome states increase. Here, when someone feels a certain kind of neither-painful-nor-pleasant feeling, unwholesome states increase in him and wholesome states diminish; but when someone feels another kind of neither-painful-nor-pleasant
 feeling, unwholesome states diminish in him and wholesome states increase'?" - "Yes, venerable sir."
 
+<!--pg-->
 8\. "Good, bhikkhus. [^700] And if it were unknown by me, unseen, unfound, unrealised, uncontacted by wisdom thus: 'Here, when someone feels a certain kind of pleasant feeling, unwholesome states increase in him and wholesome states diminish,' would it be fitting for me, not knowing that, to say: 'Abandon such a kind of pleasant feeling'?" - "No, venerable sir."
 
 "But because it is known by me, seen, found, realised, contacted by wisdom thus: 'Here, when someone feels a certain kind of pleasant feeling [476], unwholesome states increase in him and wholesome states diminish,' that I therefore say: 'Abandon such a kind of pleasant feeling.'
@@ -39,12 +43,14 @@ feeling, unwholesome states diminish in him and wholesome states increase'?" - "
 10\. "If it were unknown by me...But because it is known by me...contacted by wisdom thus: 'Here, when someone feels a certain kind of neither-painful-nor-pleasant feeling, unwholesome states increase in him and wholesome states diminish,' that I therefore say: 'Abandon such a kind of neither-painful-nor-pleasant feeling.'
 "If it were unknown by me...But because it is known by me...contacted by wisdom thus: 'Here, when someone feels another kind of neither-painful-nor-pleasant feeling, unwholesome states diminish in him and wholesome states increase,' that I therefore say: [477] 'Enter upon and abide in such a kind of neither-painful-nor-pleasant feeling.'
 
+<!--pg-->
 11\. "Bhikkhus, I do not say of all bhikkhus that they still have work to do with diligence; nor do I say of all bhikkhus that they have no more work to do with diligence.
 
 12\. "I do not say of those bhikkhus who are arahants with taints destroyed, who have lived the holy life, done what had to be done, laid down the burden, reached the true goal, destroyed the fetters of being, and are completely liberated through final knowledge, that they still have work to do with diligence. Why is that? They have done their work with diligence; they are no more capable of being negligent.
 
 13\. "I say of such bhikkhus who are in higher training, whose minds have not yet reached the goal, and who are still aspiring to the supreme security from bondage, that they still have work to do with diligence. Why is that? Because when those venerable ones make use of suitable resting places and associate with good friends and balance their spiritual faculties, they may by realising for themselves with direct knowledge here and now enter upon and abide in that supreme goal of the holy life for the sake of which clansmen rightly go forth from the home life into homelessness. Seeing this fruit of diligence for these bhikkhus, I say that they still have work to do with diligence.
 
+<!--pg-->
 14\. "Bhikkhus, there are seven kinds of persons to be found existing in the world. [^701] What seven? They are: one liberated-inboth ways, one liberated-by-wisdom, a body-witness, one attained-to-view, one liberated-by-faith, a Dhamma-follower, and a faith-follower.
 
 15\. "What kind of person is one liberated-in-both-ways? Here some person contacts with the body and abides in those liberations that are peaceful and immaterial, transcending forms, and his taints are destroyed by his seeing with wisdom. This kind of person is called one liberated-in-both-ways. [^702] I do not say of such a bhikkhu that he still has work to do with diligence. Why is that? He has done his work with diligence; he is no more capable of being negligent.
@@ -66,7 +72,7 @@ Seeing this fruit of diligence for such a bhikkhu, I say that he still has work 
 22\. "Bhikkhus, I do not say that final knowledge is achieved all at once. On the contrary, final knowledge is achieved by gradual training, by gradual practice, by gradual progress. [480]
 
 23\. "And how does there come to be gradual training, gradual practice, gradual progress? Here one who has faith [in a teacher] visits him; when he visits him, he pays respect to him; when he pays respect to him, he gives ear; one who gives ear hears the Dhamma; having heard the Dhamma, he memorises it; he
-examines the meaning of the teachings he has memorised; when he examines their meaning, he gains a reflective acceptance of those teachings; when he has gained a reflective acceptance of those teachings, zeal springs up in him; when zeal has sprung up, he applies his will; having applied his will, he scrutinises; having scrutinised, he strives; resolutely striving, he realises with the body the ultimate truth and sees it by penetrating it with wisdom. ${ }^{708}$
+examines the meaning of the teachings he has memorised; when he examines their meaning, he gains a reflective acceptance of those teachings; when he has gained a reflective acceptance of those teachings, zeal springs up in him; when zeal has sprung up, he applies his will; having applied his will, he scrutinises; having scrutinised, he strives; resolutely striving, he realises with the body the ultimate truth and sees it by penetrating it with wisdom. [^708]
 
 24\. "There has not been that faith, [^709] bhikkhus, and there has not been that visiting, and there has not been that paying of respect, and there has not been that giving ear, and there has not been that hearing of the Dhamma, and there has not been that memorising of the Dhamma, and there has not been that examination of the meaning, and there has not been that reflective acceptance of the teachings, and there has not been that zeal, and there has not been that application of will, and there has not been that scrutiny, and there has not been that striving. Bhikkhus, you have lost your way; bhikkhus, you have been practising the wrong way. How far you have strayed, misguided men, from this Dhamma and Discipline!
 

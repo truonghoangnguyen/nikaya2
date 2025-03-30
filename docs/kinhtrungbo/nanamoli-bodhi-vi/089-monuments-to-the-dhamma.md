@@ -54,7 +54,7 @@
 
 "Này Đại vương, bây giờ là lúc ngài làm những gì ngài thấy là hợp thời."
 
-Sau đó, vua Pasenadi xứ Kosala từ chỗ ngồi đứng dậy, đảnh lễ Đức Thế Tôn, đi quanh ngài theo chiều bên phải (thân người bên phải hướng về phía ngài), rồi ra về. ${843}$
+Sau đó, vua Pasenadi xứ Kosala từ chỗ ngồi đứng dậy, đảnh lễ Đức Thế Tôn, đi quanh ngài theo chiều bên phải (thân người bên phải hướng về phía ngài), rồi ra về. [^843]
 
 21\. Rồi ngay sau khi vua rời đi, Đức Thế Tôn bảo các vị tỳ kheo: "Này các tỳ kheo, trước khi từ chỗ ngồi đứng dậy và ra về, vua Pasenadi này đã nói lên những Pháp Bảo Tháp (Monuments to the Dhamma - những biểu hiện, bằng chứng sống động về sự thật của Giáo Pháp). [^844] Hãy học thuộc những Pháp Bảo Tháp này, này các tỳ kheo; hãy tinh thông [125] những Pháp Bảo Tháp này; hãy ghi nhớ những Pháp Bảo Tháp này. Những Pháp Bảo Tháp này có lợi ích, này các tỳ kheo, và thuộc về những nền tảng của đời sống phạm hạnh."
 

@@ -3,7 +3,7 @@
 
 1\.  Tôi nghe như vầy. Một thời, Thế Tôn du hành ở xứ Videha cùng với đại chúng tỳ kheo (monks-bhikkhus-nhà sư), khoảng năm trăm vị.
 
-2\.  Lúc bấy giờ, bà la môn Brahmāyu sống tại thành Mithilā. Ông đã già, tuổi cao, nhiều năm trôi qua, cuộc đời đã đến giai đoạn cuối; ông đã một trăm hai mươi tuổi. Ông tinh thông Ba Kinh Vệ Đà cùng với từ vựng, nghi lễ, ngữ âm, từ nguyên, và lịch sử là phần thứ năm; ông giỏi về ngữ văn và văn phạm, thông suốt triết học tự nhiên và các tướng của bậc Đại Nhân. ${850}$
+2\.  Lúc bấy giờ, bà la môn Brahmāyu sống tại thành Mithilā. Ông đã già, tuổi cao, nhiều năm trôi qua, cuộc đời đã đến giai đoạn cuối; ông đã một trăm hai mươi tuổi. Ông tinh thông Ba Kinh Vệ Đà cùng với từ vựng, nghi lễ, ngữ âm, từ nguyên, và lịch sử là phần thứ năm; ông giỏi về ngữ văn và văn phạm, thông suốt triết học tự nhiên và các tướng của bậc Đại Nhân. [^850]
 
 3\.  Bà la môn Brahmāyu nghe rằng: "Sa môn Gotama, người con của dòng họ Thích Ca, xuất gia từ dòng họ Thích Ca, đang du hành ở xứ Videha cùng với đại chúng tỳ kheo, khoảng năm trăm vị. Tiếng lành về Tôn giả Gotama đã được đồn xa như sau: ‘Thế Tôn là bậc ứng cúng (accomplished-arahant-người xứng đáng được cúng dường), chánh đẳng giác (fully enlightened-người giác ngộ hoàn toàn), minh hạnh túc (perfect in true knowledge and conduct-người hoàn hảo về trí tuệ và đức hạnh), thiện thệ (sublime-người khéo đi), thế gian giải (knower of worlds-người hiểu biết thế gian), vô thượng sĩ điều ngự trượng phu (incomparable leader of persons to be tamed-bậc tối cao dẫn dắt người cần được huấn luyện), thiên nhân sư (teacher of gods and humans-thầy của trời và người), Phật (enlightened-người giác ngộ), Thế Tôn (blessed-người được tôn kính).’ Ngài tuyên bố về thế giới này với các vị trời, Ma vương, và Phạm thiên, thế hệ này với các sa môn và bà la môn, với các hoàng tử và dân chúng, điều mà Ngài đã tự mình chứng ngộ bằng thắng trí (direct knowledge-trí tuệ trực tiếp). Ngài giảng dạy Giáo Pháp (Dhamma-lời dạy của Đức Phật) tốt đẹp ở phần đầu, tốt đẹp ở phần giữa, và tốt đẹp ở phần cuối, với ý nghĩa và lời lẽ đúng đắn, và Ngài trình bày một đời sống phạm hạnh (holy life-đời sống trong sạch, cao thượng) hoàn toàn viên mãn và thanh tịnh. Thật tốt đẹp thay khi được gặp những bậc A la hán (arahants-những người đã đạt được giải thoát hoàn toàn) như vậy." [134]
 
@@ -55,7 +55,7 @@ Lông trên thân ngài mọc riêng lẻ, mỗi sợi lông mọc một mình t
 
 Ngài có thân thể thẳng như Phạm thiên...
 
-Ngài có bảy chỗ đầy đặn... ${855}$
+Ngài có bảy chỗ đầy đặn... [^855]
 
 Ngài có thân trên như sư tử...
 
@@ -65,7 +65,7 @@ Ngài có thân cân đối như cây bàng; sải tay bằng chiều cao thân,
 
 Cổ và vai ngài cân đối...
 
-Khả năng nếm vị của ngài cực kỳ nhạy bén... ${856}$
+Khả năng nếm vị của ngài cực kỳ nhạy bén... [^856]
 
 Ngài có hàm như sư tử...[137]
 
@@ -87,7 +87,7 @@ Ngài có lông mi như lông mi bò...
 
 Ngài có lông mọc giữa hai chân mày, màu trắng và óng ánh như bông gòn mềm...
 
-Đầu ngài có hình như chiếc khăn xếp - đây là một tướng của bậc Đại Nhân ở Tôn giả Gotama. ${857}$
+Đầu ngài có hình như chiếc khăn xếp - đây là một tướng của bậc Đại Nhân ở Tôn giả Gotama. [^857]
 
 Tôn giả Gotama sở hữu ba mươi hai tướng này của bậc Đại Nhân.
 
@@ -99,7 +99,7 @@ Tôn giả Gotama sở hữu ba mươi hai tướng này của bậc Đại Nhâ
 
 13\. "Khi nhận nước rửa bát, ngài không nâng hay hạ bát, không nghiêng bát về phía trước hay phía sau. Ngài nhận nước không quá ít cũng không quá nhiều. Ngài rửa bát không gây tiếng động éclab éclab. Ngài rửa bát không xoay tròn bát. Ngài không đặt bát xuống sàn để rửa tay: khi tay được rửa sạch, bát cũng được rửa sạch; và khi bát được rửa sạch, tay cũng được rửa sạch. Ngài đổ nước rửa bát không quá xa cũng không quá gần và không đổ vung vãi.
 
-14\. "Khi nhận cơm, ngài không nâng hay hạ bát, không nghiêng bát về phía trước hay phía sau. Ngài nhận cơm không quá ít cũng không quá nhiều. Ngài thêm thức ăn kèm với tỷ lệ vừa phải; ngài không dùng quá nhiều thức ăn kèm trong một miếng ăn. Ngài nhai miếng cơm hai hoặc ba lần trong miệng rồi mới nuốt, và không hạt cơm nào vào cơ thể mà chưa được nhai kỹ, và không hạt cơm nào còn sót lại trong miệng; sau đó ngài mới dùng miếng khác. Ngài dùng thức ăn, cảm nhận vị ngon, nhưng không tham đắm (attachment-sự dính mắc, ham muốn) vị ngon đó. Thức ăn ngài dùng có tám yếu tố: không phải để vui đùa, không phải để say sưa, không phải vì vẻ đẹp thể chất và sự hấp dẫn, mà chỉ để duy trì và bảo tồn cơ thể này, để chấm dứt sự khó chịu, và để hỗ trợ đời sống phạm hạnh; [139] ngài quán xét: 'Như vậy, ta sẽ chấm dứt cảm giác cũ mà không khởi lên cảm giác mới, và ta sẽ khỏe mạnh, không bị chê trách và sống thoải mái.' ${1858}$
+14\. "Khi nhận cơm, ngài không nâng hay hạ bát, không nghiêng bát về phía trước hay phía sau. Ngài nhận cơm không quá ít cũng không quá nhiều. Ngài thêm thức ăn kèm với tỷ lệ vừa phải; ngài không dùng quá nhiều thức ăn kèm trong một miếng ăn. Ngài nhai miếng cơm hai hoặc ba lần trong miệng rồi mới nuốt, và không hạt cơm nào vào cơ thể mà chưa được nhai kỹ, và không hạt cơm nào còn sót lại trong miệng; sau đó ngài mới dùng miếng khác. Ngài dùng thức ăn, cảm nhận vị ngon, nhưng không tham đắm (attachment-sự dính mắc, ham muốn) vị ngon đó. Thức ăn ngài dùng có tám yếu tố: không phải để vui đùa, không phải để say sưa, không phải vì vẻ đẹp thể chất và sự hấp dẫn, mà chỉ để duy trì và bảo tồn cơ thể này, để chấm dứt sự khó chịu, và để hỗ trợ đời sống phạm hạnh; [139] ngài quán xét: 'Như vậy, ta sẽ chấm dứt cảm giác cũ mà không khởi lên cảm giác mới, và ta sẽ khỏe mạnh, không bị chê trách và sống thoải mái.' [^1858]
 
 15\. "Khi đã ăn xong và nhận nước rửa bát, ngài không nâng hay hạ bát, không nghiêng bát về phía trước hay phía sau. Ngài nhận nước không quá ít cũng không quá nhiều. Ngài rửa bát không gây tiếng động éclab éclab. Ngài rửa bát không xoay tròn bát. Ngài không đặt bát xuống sàn để rửa tay: khi tay được rửa sạch, bát cũng được rửa sạch; và khi bát được rửa sạch, tay cũng được rửa sạch. Ngài đổ nước rửa bát không quá xa cũng không quá gần và không đổ vung vãi.
 
@@ -146,7 +146,7 @@ Trên thân Ngài đó, Gotama.
 
 Phải chăng vật cần che bằng vải
 Ẩn trong vỏ bọc, hỡi Đấng Tối Cao?
-Dù gọi bằng từ giống cái, ${861}$
+Dù gọi bằng từ giống cái, [^861]
 Lưỡi Ngài có lẽ là lưỡi hùng anh?
 
 Lưỡi Ngài có lẽ cũng rộng lớn,
@@ -182,7 +182,7 @@ Bất cứ điều gì ông mong biết."
 32\. Lúc đó, bà la môn Brahmāyu nghĩ: "Sa môn Gotama đã cho phép ta. Ta nên hỏi ngài về điều gì: điều tốt đẹp trong đời này hay điều tốt đẹp trong các đời sau?" Rồi ông nghĩ: "Ta giỏi về điều tốt đẹp trong đời này, và những người khác cũng hỏi ta về điều tốt đẹp trong đời này. Tại sao ta không chỉ hỏi ngài về điều tốt đẹp trong các đời sau?" Sau đó, ông nói kệ với Thế Tôn:
 
 "Làm sao để trở thành bà la môn?
-Và làm sao để đạt được tri kiến? ${863}$
+Và làm sao để đạt được tri kiến? [^863]
 Làm sao để có được tam minh?
 Và làm sao để trở thành bậc thánh học?
 

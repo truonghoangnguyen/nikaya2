@@ -14,7 +14,7 @@ The Blessed One sat down on the seat that had been made ready and addressed the 
 5\. "Once, Ānanda, in this place there was a prosperous and busy market town called Vebhalinga, with many inhabitants and crowded with people. Now the Blessed One Kassapa, accomplished and fully enlightened, lived near the market town Vebhalinga. It was here, in fact, that the Blessed One Kassapa,
 accomplished and fully enlightened, had his monastery; it was here, in fact, that the Blessed One Kassapa, accomplished and fully enlightened, resided [46] and advised the Sangha of bhikkhus.
 
-6\. "In Vebhalinga the Blessed One Kassapa, accomplished and fully enlightened, had as a supporter, as his chief supporter, a potter named Ghaṭikāra. Ghaṭikāra the potter had as a friend, as his close friend, a brahmin student named Jotipāla. ${ }^{790}$
+6\. "In Vebhalinga the Blessed One Kassapa, accomplished and fully enlightened, had as a supporter, as his chief supporter, a potter named Ghaṭikāra. Ghaṭikāra the potter had as a friend, as his close friend, a brahmin student named Jotipāla. [^790]
 
 "One day the potter Ghaṭikāra addressed the brahmin student Jotipāla thus: 'My dear Jotipāla, let us go and see the Blessed One Kassapa, accomplished and fully enlightened. I hold that it is good to see that Blessed One, accomplished and fully enlightened.' The brahmin student Jotipāla replied: 'Enough, my dear Ghaṭikāra, what is the use of seeing that bald-pated recluse?'
 
@@ -22,7 +22,7 @@ accomplished and fully enlightened, had his monastery; it was here, in fact, tha
 
 7\. "So the potter Ghaṭikāra and the brahmin student Jotipāla took a loofah and bath powder and went to the river to bathe. Then Ghaṭikāra said to Jotipāla: 'My dear Jotipāla, there is the monastery of the Blessed One Kassapa, accomplished and fully enlightened, quite nearby. Let us go and see the Blessed One Kassapa, accomplished and fully enlightened. I hold that it is good to see that Blessed One, accomplished and fully enlightened.' Jotipāla replied: 'Enough, my dear Ghaṭikāra, what is [47] the use of seeing that bald-pated recluse?'
 
-"A second and a third time Ghaṭikāra said: 'My dear Jotipāla, there is the monastery of the Blessed One Kassapa...' And a second and a third time the brahmin student Jotipāla replied: 'Enough, my dear Ghaṭikāra, what is the use of seeing that baldpated recluse? ${ }^{791}$
+"A second and a third time Ghaṭikāra said: 'My dear Jotipāla, there is the monastery of the Blessed One Kassapa...' And a second and a third time the brahmin student Jotipāla replied: 'Enough, my dear Ghaṭikāra, what is the use of seeing that baldpated recluse? [^791]
 
 8\. "Then the potter Ghaṭikāra seized the brahmin student Jotipāla by the belt and said: 'My dear Jotipāla, there is the monastery of the Blessed One Kassapa, accomplished and fully enlightened, quite nearby. Let us go and see the Blessed One
 
@@ -39,7 +39,7 @@ Kassapa, accomplished and fully enlightened. I hold that it is good to see that 
 11\. "Then Jotipāla asked Ghaṭikāra: 'Now that you have heard this Dhamma, my dear Ghaṭikāra, why don't you go
 forth from the home life into homelessness?' - 'My dear Jotipāla, don't you know that I support my blind and aged parents?' 'Then, my dear Ghațikāra, I shall go forth from the home life into homelessness.'
 
-12\. "So Ghațikāra the potter and Jotipāla the brahmin student went to the Blessed One Kassapa, accomplished and fully enlightened. [49] After paying homage to him, they sat down at one side and Ghațikāra the potter said to the Blessed One Kassapa, accomplished and fully enlightened: 'Venerable sir, this is the brahmin student Jotipāla, my friend, my close friend. Let the Blessed One give him the going forth.' And the brahmin student Jotipāla received the going forth from the Blessed One Kassapa, accomplished and fully enlightened, and he received the full admission. ${ }^{793}$
+12\. "So Ghațikāra the potter and Jotipāla the brahmin student went to the Blessed One Kassapa, accomplished and fully enlightened. [49] After paying homage to him, they sat down at one side and Ghațikāra the potter said to the Blessed One Kassapa, accomplished and fully enlightened: 'Venerable sir, this is the brahmin student Jotipāla, my friend, my close friend. Let the Blessed One give him the going forth.' And the brahmin student Jotipāla received the going forth from the Blessed One Kassapa, accomplished and fully enlightened, and he received the full admission. [^793]
 
 13\. "Then not long after Jotipāla the brahmin student had received the full admission, a half-month after he had received the full admission, the Blessed One Kassapa, accomplished and fully enlightened, having stayed at Vebhalinga as long as he chose, set out to wander towards Benares. Wandering by stages, he eventually arrived at Benares, and there he went to live in the Deer Park at Isipatana.
 
@@ -82,7 +82,7 @@ the vessel and sauce from the saucepan, eaten and gone away?" - "My dear, the Bl
 
 "'It is a gain for the potter Ghațikāra, it is a great gain for him that the Blessed One Kassapa, accomplished and fully enlightened, relies on him thus.'
 
-22\. "Then King Kikī of Kāsi dispatched to the potter Ghaṭikāra five hundred cartloads of red rice stored in the sheaf, and also sauce materials to go with it. Then the king's men went to the potter Ghațikāra and told him: 'Venerable sir, there are five hundred cartloads of red rice stored in the sheaf, and also sauce materials to go with it, dispatched to you by King Kikī of Kāsi; please accept them.' - 'The king is very busy and has much to do. I have enough. Let this be for the king himself. ${ }^{1795}$
+22\. "Then King Kikī of Kāsi dispatched to the potter Ghaṭikāra five hundred cartloads of red rice stored in the sheaf, and also sauce materials to go with it. Then the king's men went to the potter Ghațikāra and told him: 'Venerable sir, there are five hundred cartloads of red rice stored in the sheaf, and also sauce materials to go with it, dispatched to you by King Kikī of Kāsi; please accept them.' - 'The king is very busy and has much to do. I have enough. Let this be for the king himself. [^1795]
 
 23\. "Now, Ānanda, you may think thus: 'Certainly, someone else was the brahmin student Jotipāla on that occasion.' But it should not be regarded thus. I was the brahmin student Jotipāla on that occasion."
 

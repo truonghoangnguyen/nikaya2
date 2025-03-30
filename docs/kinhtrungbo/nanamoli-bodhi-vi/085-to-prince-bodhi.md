@@ -3,7 +3,7 @@
 
 [91] 1. Như vầy tôi nghe. Một thời Đức Thế Tôn đang trú tại xứ Bhagga, ở Sumsumāragira, trong rừng Bhesakaḷa, Vườn Nai.
 
-2\. Vào lúc ấy, một cung điện tên là Kokanada vừa mới được xây xong cho Hoàng tử Bodhi, và chưa có ai ở, dù là vị ẩn sĩ (recluse - người tu hành sống ẩn dật), bà-la-môn (brahmin - tu sĩ hoặc người thuộc giai cấp Bà-la-môn Ấn Độ) hay bất kỳ người nào khác. ${816}$
+2\. Vào lúc ấy, một cung điện tên là Kokanada vừa mới được xây xong cho Hoàng tử Bodhi, và chưa có ai ở, dù là vị ẩn sĩ (recluse - người tu hành sống ẩn dật), bà-la-môn (brahmin - tu sĩ hoặc người thuộc giai cấp Bà-la-môn Ấn Độ) hay bất kỳ người nào khác. [^816]
 
 3\. Khi ấy, Hoàng tử Bodhi nói với người học trò Bà-la-môn tên là Sañjikāputta rằng: "Này, Sañjikāputta thân mến, hãy đến gặp Đức Thế Tôn, thay mặt ta đảnh lễ dưới chân Ngài và hỏi thăm Ngài có ít bệnh, ít não, khỏe mạnh, có sức lực và an trú thoải mái không, rằng: 'Bạch Thế Tôn, Hoàng tử Bodhi xin đảnh lễ dưới chân Ngài và hỏi thăm Ngài có ít bệnh... và an trú thoải mái không.' Rồi thưa tiếp: 'Bạch Thế Tôn, xin Đức Thế Tôn cùng với Tăng đoàn tỳ kheo (Sangha of bhikkhus - cộng đồng các nhà sư Phật giáo) nhận lời mời dùng bữa ngày mai của Hoàng tử Bodhi.'"
 
@@ -17,11 +17,11 @@
 
 6\. Rồi, vào buổi sáng, Đức Thế Tôn đắp y, mang bát và y ngoài, đi đến tư dinh của Hoàng tử Bodhi.
 
-7\. Lúc ấy, Hoàng tử Bodhi đang đứng ở cổng ngoài đợi Đức Thế Tôn. Khi thấy Đức Thế Tôn từ xa đi tới, Hoàng tử ra đón và đảnh lễ Ngài; rồi để Đức Thế Tôn đi trước, Hoàng tử đi theo sau đến cung điện Kokanada. Nhưng Đức Thế Tôn dừng lại ở bậc thang thấp nhất. Hoàng tử Bodhi thưa với Ngài: "Bạch Thế Tôn, xin Ngài hãy bước lên tấm vải, xin Đấng Thiện Thệ (Sublime One - một danh hiệu tôn kính của Đức Phật, nghĩa là người đã đi đến nơi tốt đẹp) hãy bước lên tấm vải, để con được lợi ích và hạnh phúc lâu dài." Khi được thưa như vậy, Đức Thế Tôn im lặng. ${817}$
+7\. Lúc ấy, Hoàng tử Bodhi đang đứng ở cổng ngoài đợi Đức Thế Tôn. Khi thấy Đức Thế Tôn từ xa đi tới, Hoàng tử ra đón và đảnh lễ Ngài; rồi để Đức Thế Tôn đi trước, Hoàng tử đi theo sau đến cung điện Kokanada. Nhưng Đức Thế Tôn dừng lại ở bậc thang thấp nhất. Hoàng tử Bodhi thưa với Ngài: "Bạch Thế Tôn, xin Ngài hãy bước lên tấm vải, xin Đấng Thiện Thệ (Sublime One - một danh hiệu tôn kính của Đức Phật, nghĩa là người đã đi đến nơi tốt đẹp) hãy bước lên tấm vải, để con được lợi ích và hạnh phúc lâu dài." Khi được thưa như vậy, Đức Thế Tôn im lặng. [^817]
 
 Lần thứ hai... Lần thứ ba Hoàng tử Bodhi thưa với Ngài: "Bạch Thế Tôn, xin Ngài hãy bước lên tấm vải, xin Đấng Thiện Thệ hãy bước lên tấm vải, để con được lợi ích và hạnh phúc lâu dài."
 
-Đức Thế Tôn nhìn Tôn giả Ānanda. [93] Tôn giả Ānanda thưa với Hoàng tử Bodhi: "Thưa Hoàng tử, xin hãy dẹp tấm vải đi. Đức Thế Tôn sẽ không bước lên dải vải; Đức Như Lai (Tathāgata - một danh hiệu của Đức Phật, nghĩa là người đã đến như vậy hoặc đi như vậy) còn nghĩ đến các thế hệ tương lai." ${818}$
+Đức Thế Tôn nhìn Tôn giả Ānanda. [93] Tôn giả Ānanda thưa với Hoàng tử Bodhi: "Thưa Hoàng tử, xin hãy dẹp tấm vải đi. Đức Thế Tôn sẽ không bước lên dải vải; Đức Như Lai (Tathāgata - một danh hiệu của Đức Phật, nghĩa là người đã đến như vậy hoặc đi như vậy) còn nghĩ đến các thế hệ tương lai." [^818]
 
 8\. Vậy là Hoàng tử Bodhi cho dẹp tấm vải đi và cho soạn chỗ ngồi ở lầu trên của cung điện Kokanada. Đức Thế Tôn và Tăng đoàn tỳ kheo đi lên cung điện Kokanada và ngồi vào chỗ đã soạn.
 

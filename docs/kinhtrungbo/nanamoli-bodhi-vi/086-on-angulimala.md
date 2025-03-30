@@ -3,7 +3,7 @@
 
 1\.  Như vầy tôi nghe. Một thời Đức Thế Tôn trú tại thành Xá-vệ (Sāvatthī), trong Vườn cây Kỳ-đà (Jeta's Grove), khu vườn của ông Cấp Cô Độc (Anāthapiṇḍika).
 
-2\.  Bấy giờ, trong vương quốc của vua Ba-tư-nặc (Pasenadi) xứ Kosala, có một tên cướp tên là Angulimāla. Hắn là kẻ sát nhân, tay vấy máu, chuyên đả thương và hung bạo, không chút lòng thương xót chúng sinh (living beings - các loài hữu tình). Làng mạc, thị trấn, [98] và các quận huyện đều bị hắn tàn phá. Hắn liên tục giết người và đeo một vòng hoa kết bằng ngón tay của họ. ${820}$
+2\.  Bấy giờ, trong vương quốc của vua Ba-tư-nặc (Pasenadi) xứ Kosala, có một tên cướp tên là Angulimāla. Hắn là kẻ sát nhân, tay vấy máu, chuyên đả thương và hung bạo, không chút lòng thương xót chúng sinh (living beings - các loài hữu tình). Làng mạc, thị trấn, [98] và các quận huyện đều bị hắn tàn phá. Hắn liên tục giết người và đeo một vòng hoa kết bằng ngón tay của họ. [^820]
 
 3\.  Rồi vào buổi sáng, Đức Thế Tôn đắp y, mang bát, vào thành Xá-vệ để khất thực. Sau khi đi khất thực trong thành Xá-vệ trở về, dùng bữa xong, Ngài dọn dẹp chỗ nghỉ, rồi mang bát và y, lên đường hướng về phía Angulimāla. Những người chăn bò, chăn cừu, và nông dân đi ngang qua thấy Đức Thế Tôn đang đi trên con đường dẫn đến chỗ Angulimāla liền nói với Ngài: "Xin ngài đừng đi con đường này, thưa vị sa môn (recluse - người xuất gia tu hành). Trên con đường này có tên cướp Angulimāla, kẻ sát nhân, tay vấy máu, chuyên đả thương và hung bạo, không chút lòng thương xót chúng sinh. Làng mạc, thị trấn, và các quận huyện đều bị hắn tàn phá. Hắn liên tục giết người và đeo một vòng hoa kết bằng ngón tay của họ. Đã có những người đi con đường này thành từng nhóm mười, hai mươi, ba mươi, thậm chí bốn mươi người, nhưng vẫn rơi vào tay Angulimāla." Khi nghe vậy, Đức Thế Tôn vẫn im lặng tiếp tục đi.
 
@@ -30,7 +30,7 @@
     Đó là vì sao Ta đã dừng, còn ngươi thì chưa." [100]
 
     "Ôi, cuối cùng thì vị sa môn này, một bậc ẩn sĩ đáng kính,
-    Đã vì ta mà đến khu rừng lớn này. ${821}$
+    Đã vì ta mà đến khu rừng lớn này. [^821]
     Nghe kệ ngôn của ngài dạy về Chánh pháp (Dhamma - Giáo pháp của Đức Phật, sự thật),
     Con xin nguyện từ bỏ điều ác mãi mãi."
 
@@ -42,7 +42,7 @@
     Đấng Giác Ngộ, Bậc Thánh Trí đầy lòng bi mẫn,
     Bậc Thầy của thế giới cùng chư thiên,
     Nói với ông bằng những lời này: "Hãy đến, tỳ kheo (bhikkhu - nhà sư Phật giáo đã thọ giới cụ túc)."
-    Và như thế, ông đã trở thành một vị tỳ kheo. ${822}$
+    Và như thế, ông đã trở thành một vị tỳ kheo. [^822]
 
 7\.  Sau đó, Đức Thế Tôn bắt đầu cuộc du hành trở về Xá-vệ cùng với Angulimāla làm thị giả. Đi qua nhiều chặng đường, cuối cùng Ngài đã về đến Xá-vệ, và Ngài trú tại Xá-vệ trong Vườn cây Kỳ-đà, khu vườn của ông Cấp Cô Độc.
 
@@ -92,9 +92,9 @@
 
 16\. Không bao lâu sau, Tôn giả Angulimāla sống một mình, ẩn dật, tinh cần, nhiệt tâm, và quyết chí, đã tự mình chứng ngộ bằng trí tuệ trực tiếp (direct knowledge - abhiññā - thắng trí, sự hiểu biết siêu việt có được qua tu tập), ngay tại đây và bây giờ, đạt đến và an trú vào mục tiêu tối thượng của đời sống phạm hạnh (supreme goal of the holy life - anuttaraṃ brahmacariyapariyosānaṃ - mục đích cao nhất của đời tu, tức Niết-bàn/A-la-hán quả), mục tiêu mà vì đó các thiện nam tử chân chính từ bỏ đời sống gia đình, sống đời không gia đình. Vị ấy biết rõ: "Sanh đã tận, phạm hạnh đã thành, việc cần làm đã làm xong, không còn trở lui trạng thái này nữa." [104] Và Tôn giả Angulimāla đã trở thành một trong các vị A-la-hán (arahants - bậc thánh đã đoạn trừ hoàn toàn phiền não, chấm dứt tái sinh).
 
-17\. Rồi vào buổi sáng, Tôn giả Angulimāla đắp y, mang bát, vào thành Xá-vệ để khất thực. Bấy giờ, có người ném một cục đất trúng vào thân Tôn giả Angulimāla, người khác ném một cây gậy trúng vào thân ngài, và người khác nữa ném một mảnh sành trúng vào thân ngài. Thế rồi, với đầu bị thương chảy máu, bát bị vỡ, và y bị rách, Tôn giả Angulimāla đi đến chỗ Đức Thế Tôn. Đức Thế Tôn thấy ngài từ xa đi tới liền bảo: "Hãy chịu đựng, này Bà-la-môn! Hãy chịu đựng, này Bà-la-môn! Ông đang trải nghiệm ngay tại đây và bây giờ kết quả của những nghiệp (deeds - kamma - hành động có chủ ý và quả báo hay kết quả của hành động đó) mà vì chúng ông có thể đã bị đọa đày trong địa ngục (hell - niraya - cõi khổ đau cùng cực trong các cõi tái sinh) nhiều năm, nhiều trăm năm, nhiều ngàn năm." ${824}$
+17\. Rồi vào buổi sáng, Tôn giả Angulimāla đắp y, mang bát, vào thành Xá-vệ để khất thực. Bấy giờ, có người ném một cục đất trúng vào thân Tôn giả Angulimāla, người khác ném một cây gậy trúng vào thân ngài, và người khác nữa ném một mảnh sành trúng vào thân ngài. Thế rồi, với đầu bị thương chảy máu, bát bị vỡ, và y bị rách, Tôn giả Angulimāla đi đến chỗ Đức Thế Tôn. Đức Thế Tôn thấy ngài từ xa đi tới liền bảo: "Hãy chịu đựng, này Bà-la-môn! Hãy chịu đựng, này Bà-la-môn! Ông đang trải nghiệm ngay tại đây và bây giờ kết quả của những nghiệp (deeds - kamma - hành động có chủ ý và quả báo hay kết quả của hành động đó) mà vì chúng ông có thể đã bị đọa đày trong địa ngục (hell - niraya - cõi khổ đau cùng cực trong các cõi tái sinh) nhiều năm, nhiều trăm năm, nhiều ngàn năm." [^824]
 
-18\. Sau đó, khi Tôn giả Angulimāla đang độc cư, an hưởng niềm hạnh phúc giải thoát (bliss of deliverance - vimuttisukha - sự an lạc do giải thoát khỏi phiền não), ngài đã thốt lên những lời cảm hứng này: ${825}$
+18\. Sau đó, khi Tôn giả Angulimāla đang độc cư, an hưởng niềm hạnh phúc giải thoát (bliss of deliverance - vimuttisukha - sự an lạc do giải thoát khỏi phiền não), ngài đã thốt lên những lời cảm hứng này: [^825]
 
     "Người nào trước sống buông lung (negligence - pamāda - sự lơ là, thiếu chú tâm, phóng dật)
     Sau không buông lung nữa,
@@ -153,7 +153,7 @@
     Dù ta đã làm nhiều nghiệp dẫn đến
     Tái sinh trong các đường ác (evil realms - apāya/duggati - các cõi khổ như địa ngục, ngạ quỷ, súc sinh),
     Nhưng quả báo của chúng đã đến với ta ngay bây giờ,
-    Nên ta thọ thực không nợ (eat free from debt - anaṇo bhuñjati - dùng vật cúng dường mà không mắc nợ thí chủ do đã tu hành thanh tịnh, xứng đáng với sự cúng dường). ${827}$
+    Nên ta thọ thực không nợ (eat free from debt - anaṇo bhuñjati - dùng vật cúng dường mà không mắc nợ thí chủ do đã tu hành thanh tịnh, xứng đáng với sự cúng dường). [^827]
 
     Họ là kẻ ngu si và không có trí tuệ
     Khi buông thả mình trong sự buông lung,

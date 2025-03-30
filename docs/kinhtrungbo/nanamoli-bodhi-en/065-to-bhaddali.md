@@ -110,7 +110,7 @@ for disciples in order to ward off those things that are the basis for taints.
 
 The Blessed One said this:
 
-33\. "Bhaddāli, suppose a clever horse-trainer obtains a fine thoroughbred colt. He first makes him get used to wearing the bit. While the colt is being made to get used to wearing the bit, because he is doing something that he has never done before, he displays some contortion, writhing, and vacillation, but through constant repetition and gradual practice, he becomes peaceful in that action. ${ }^{668}$
+33\. "Bhaddāli, suppose a clever horse-trainer obtains a fine thoroughbred colt. He first makes him get used to wearing the bit. While the colt is being made to get used to wearing the bit, because he is doing something that he has never done before, he displays some contortion, writhing, and vacillation, but through constant repetition and gradual practice, he becomes peaceful in that action. [^668]
 
 "When the colt has become peaceful in that action, the horsetrainer further makes him get used to wearing the harness. While the colt is being made to get used to wearing the harness, because he is doing something that he has never done before, he displays some contortion, writhing, and vacillation, but through constant repetition and gradual practice, he becomes peaceful in that action.
 

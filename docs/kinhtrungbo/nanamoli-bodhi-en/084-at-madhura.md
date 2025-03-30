@@ -1,7 +1,7 @@
 # 84. At Madhurā
 ***(Madhurā Sutta)***
 
-1\. Thus have I heard. On one occasion the venerable Mahā Kaccāna was living at Madhurā in the Gundā Grove. ${ }^{814}$
+1\. Thus have I heard. On one occasion the venerable Mahā Kaccāna was living at Madhurā in the Gundā Grove. [^814]
 
 2\. King Avantiputta of Madhurā heard: "The recluse Kaccāna is living at Madhurā in the Gundā Grove. Now a good report of Master Kaccāna has been spread to this effect: 'He is wise, discerning, sagacious, learned, articulate, and perspicacious; he is aged and he is an arahant. It is good to see such arahants."
 

@@ -1,7 +1,7 @@
 # 84. Tại Madhurā
 ***(Kinh Madhurā - Madhurā Sutta)***
 
-1\.  Như vầy tôi nghe. Một thời, Tôn giả Ma-ha Ca-chiên-diên (Mahā Kaccāna) đang trú tại Madhurā (Ma-thâu-la), trong rừng Gundā. ${814}$
+1\.  Như vầy tôi nghe. Một thời, Tôn giả Ma-ha Ca-chiên-diên (Mahā Kaccāna) đang trú tại Madhurā (Ma-thâu-la), trong rừng Gundā. [^814]
 
 2\.  Vua Avantiputta (A-van-ti-put-ta) xứ Madhurā nghe tin: "Sa-môn Ca-chiên-diên đang trú tại Madhurā trong rừng Gundā. Tiếng lành đồn xa về Tôn giả Ca-chiên-diên như sau: 'Ngài là bậc trí tuệ, thông suốt, uyên bác, có tài hùng biện, và sáng suốt; Ngài đã lớn tuổi và là một vị A-la-hán (arahant - bậc đã giác ngộ hoàn toàn, giải thoát khỏi khổ đau và vòng luân hồi). Thật tốt lành thay khi được gặp những vị A-la-hán như vậy.'"
 

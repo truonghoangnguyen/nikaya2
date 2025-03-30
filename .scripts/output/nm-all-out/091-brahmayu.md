@@ -3,7 +3,7 @@
 
 1. Thus have I heard. On one occasion the Blessed One was wandering in the country of the Videhans with a large Sangha of bhikkhus, with five hundred bhikkhus.
 
-2. Now on that occasion the brahmin Brahmāyu was living at Mithilā. He was old, aged, burdened with years, advanced in life, and come to the last stage; he was in his hundred and twentieth year. He was a master of the Three Vedas with their vocabularies, liturgy, phonology, and etymology, and the histories as a fifth; skilled in philology and grammar, he was fully versed in natural philosophy and in the marks of a Great Man. ${ }^{850}$
+2. Now on that occasion the brahmin Brahmāyu was living at Mithilā. He was old, aged, burdened with years, advanced in life, and come to the last stage; he was in his hundred and twentieth year. He was a master of the Three Vedas with their vocabularies, liturgy, phonology, and etymology, and the histories as a fifth; skilled in philology and grammar, he was fully versed in natural philosophy and in the marks of a Great Man. [^850]
 
 3. The brahmin Brahmāyu heard: "The recluse Gotama, the son of the Sakyans who went forth from a Sakyan clan, has been wandering in the country of the Videhans with a large Sangha of bhikkhus, with five hundred bhikkhus. Now a good report of Master Gotama has been spread to this effect: 'The Blessed One is accomplished, fully enlightened, perfect in true knowledge and conduct, sublime, knower of worlds, incomparable leader of persons to be tamed, teacher of gods and humans, enlightened, blessed. He declares this world with its gods, its Māras, and its Brahmās, this generation with its recluses and brahmins, with its princes and its people, which he has himself realised with direct knowledge. He teaches the Dhamma that is good in the beginning, good in the middle, and good in the end, with the right meaning and phrasing, and he reveals a holy life that is utterly perfect and pure.' Now it is good to see such arahants." [134]
 
@@ -57,7 +57,7 @@ The tips of his body-hairs turn up; the up-turned body-hairs are blue-black, the
 
 He has the straight limbs of a Brahmā...
 
-He has seven convexities... ${ }^{855}$
+He has seven convexities... [^855]
 
 He has the torso of a lion...
 
@@ -67,7 +67,7 @@ He has the spread of a banyan tree; the span of his arms equals the height of hi
 
 His neck and his shoulders are even...
 
-His taste is supremely acute... ${ }^{856}$
+His taste is supremely acute... [^856]
 
 He is lion-jawed...[137]
 
@@ -89,7 +89,7 @@ He has the eyelashes of an ox...
 
 He has hair growing in the space between his eyebrows, which is white with the sheen of soft cotton...
 
-His head is shaped like a turban - this is a mark of a Great Man in Master Gotama. ${ }^{857}$
+His head is shaped like a turban - this is a mark of a Great Man in Master Gotama. [^857]
 
 Master Gotama is endowed with these thirty-two marks of a Great Man.
 
@@ -102,7 +102,7 @@ straight down. He does not walk looking about. He looks a plough-yoke's length b
 
 13. "When he receives the water for the bowl, he does not raise or lower the bowl or tip it forwards or backwards. He receives neither too little nor too much water for the bowl. He washes the bowl without making a splashing noise. He washes the bowl without turning it round. He does not put the bowl on the floor to wash his hands: when his hands are washed, the bowl is washed; and when the bowl is washed, his hands are washed. He pours the water for the bowl neither too far nor too near and he does not pour it about.
 
-14. "When he receives rice, he does not raise or lower the bowl or tip it forwards or backwards. He receives neither too little rice nor too much rice. He adds sauces in the right proportion; he does not exceed the right amount of sauce in the mouthful. He turns the mouthful over two or three times in his mouth and then swallows it, and no rice kernel enters his body unchewed, and no rice kernel remains in his mouth; then he takes another mouthful. He takes his food experiencing the taste, though not experiencing greed for the taste. The food he takes has eight factors: it is neither for amusement nor for intoxication nor for the sake of physical beauty and attractiveness, but only for the endurance and continuance of his body, for the ending of discomfort, and for assisting the holy life; [139] he considers: 'Thus I shall terminate old feelings without arousing new feelings and I shall be healthy and blameless and shall live in comfort. ${ }^{1858}$
+14. "When he receives rice, he does not raise or lower the bowl or tip it forwards or backwards. He receives neither too little rice nor too much rice. He adds sauces in the right proportion; he does not exceed the right amount of sauce in the mouthful. He turns the mouthful over two or three times in his mouth and then swallows it, and no rice kernel enters his body unchewed, and no rice kernel remains in his mouth; then he takes another mouthful. He takes his food experiencing the taste, though not experiencing greed for the taste. The food he takes has eight factors: it is neither for amusement nor for intoxication nor for the sake of physical beauty and attractiveness, but only for the endurance and continuance of his body, for the ending of discomfort, and for assisting the holy life; [139] he considers: 'Thus I shall terminate old feelings without arousing new feelings and I shall be healthy and blameless and shall live in comfort. [^1858]
 
 15. "When he has eaten and receives water for the bowl, he does not raise or lower the bowl or tip it forwards or backwards.
 
@@ -159,7 +159,7 @@ Is what should be concealed by cloth
 
 Hid in a sheath, greatest of men?
 
-Though called by a word of feminine gender, ${ }^{861}$
+Though called by a word of feminine gender, [^861]
 
 Perhaps your tongue is a manly one?
 
@@ -212,7 +212,7 @@ Whatever you aspire to know."
 
 "How does one become a brahmin?
 
-And how does one attain to knowledge? ${ }^{863}$
+And how does one attain to knowledge? [^863]
 
 How has one the triple knowledge?
 

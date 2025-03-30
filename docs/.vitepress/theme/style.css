@@ -162,3 +162,9 @@ body {
   margin-right: 0;
 } */
 
+/* Add styles for the navbar controls container */
+.nav-controls {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}

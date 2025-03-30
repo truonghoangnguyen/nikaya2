@@ -64,7 +64,7 @@ do not want.' Then the man cut the woman in two and [110] committed suicide, thi
 
 "It was with reference to this, sire, that the Blessed One who knows and sees, accomplished and fully enlightened, said: 'Sorrow, lamentation, pain, grief, and despair are born from those who are dear, arise from those who are dear.'"
 
-29. "It is wonderful, Mallikā, it is marvellous how far [112] the Blessed One penetrates with wisdom and sees with wisdom! Come, Mallikā, give me the ablution water." ${ }^{830}$
+29. "It is wonderful, Mallikā, it is marvellous how far [112] the Blessed One penetrates with wisdom and sees with wisdom! Come, Mallikā, give me the ablution water." [^830]
 
 Then King Pasenadi of Kosala rose from his seat, and arranging his upper robe on one shoulder, he extended his hands in reverential salutation towards the Blessed One and uttered this exclamation three times: "Honour to the Blessed One, accomplished and fully enlightened! Honour to the Blessed One, accomplished and fully enlightened! Honour to the Blessed One, accomplished and fully enlightened!"
 

@@ -57,7 +57,7 @@ venerable Ānanda: "If, venerable sir, the venerable Ānanda has no urgent busin
 
 13\. "Now, venerable Ānanda, does the Blessed One praise only the abandoning of all unwholesome states?"
 
-"The Tathāgata, great king, has abandoned all unwholesome states and he possesses wholesome states." ${ }^{833}$
+"The Tathāgata, great king, has abandoned all unwholesome states and he possesses wholesome states." [^833]
 
 14\. "Now, venerable Ānanda, what kind of bodily behaviour is uncensured by wise recluses and brahmins?"
 

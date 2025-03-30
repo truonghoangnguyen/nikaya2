@@ -37,7 +37,7 @@ is birth, there is ageing, there is death, there are sorrow, lamentation, pain, 
 
 "Therefore, Mālunkyāputta, [432] remember what I have left undeclared as undeclared, and remember what I have declared as declared."
 
-That is what the Blessed One said. The venerable Mālunkyāputta was satisfied and delighted in the Blessed One's words. ${ }^{648}$
+That is what the Blessed One said. The venerable Mālunkyāputta was satisfied and delighted in the Blessed One's words. [^648]
 
 ## Notes
 

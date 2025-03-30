@@ -55,7 +55,7 @@ blind men each in touch with the next: the first one does not see, the middle on
 
 15\. "But, Master Gotama, in what way is there the preservation of truth? [^886] How does one preserve truth? We ask Master Gotama about the preservation of truth."
 
-"If a person has faith, Bhāradvāja, he preserves truth when he says: 'My faith is thus'; but he does not yet come to the definite conclusion: 'Only this is true, anything else is wrong.' In this way, Bhāradvāja, there is the preservation of truth; in this way he preserves truth; in this way we describe the preservation of truth. But as yet there is no discovery of truth. ${ }^{887}$
+"If a person has faith, Bhāradvāja, he preserves truth when he says: 'My faith is thus'; but he does not yet come to the definite conclusion: 'Only this is true, anything else is wrong.' In this way, Bhāradvāja, there is the preservation of truth; in this way he preserves truth; in this way we describe the preservation of truth. But as yet there is no discovery of truth. [^887]
 
 "If a person approves of something...if he receives an oral tradition...if he [reaches a conclusion based on] reasoned cogitation...if he gains a reflective acceptance of a view, he preserves truth when he says: 'My reflective acceptance of a view is thus'; but he does not yet come to the definite conclusion: 'Only this is true, anything else is wrong.' In this way too, Bhāradvāja, there is the preservation of truth; in this way he preserves truth; in
 this way we describe the preservation of truth. But as yet there is no discovery of truth."

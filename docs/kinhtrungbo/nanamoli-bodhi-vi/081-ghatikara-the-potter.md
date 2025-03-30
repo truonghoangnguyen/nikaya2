@@ -13,7 +13,7 @@
 
 5\. "Này Ānanda, xưa kia tại nơi này có một thị trấn tên là Vebhalinga, trù phú, sầm uất, đông dân cư. Khi ấy, Đức Thế Tôn Ca Diếp, bậc A La Hán, Chánh Đẳng Giác, sống gần thị trấn Vebhalinga. Chính tại nơi này, Đức Thế Tôn Ca Diếp, bậc A La Hán, Chánh Đẳng Giác, đã có tu viện của ngài; chính tại nơi này, Đức Thế Tôn Ca Diếp, bậc A La Hán, Chánh Đẳng Giác, đã cư ngụ [46] và khuyên dạy Tăng đoàn tỳ kheo.
 
-6\. "Tại Vebhalinga, Đức Thế Tôn Ca Diếp, bậc A La Hán, Chánh Đẳng Giác, có một người hộ trì, là người hộ trì chính yếu, tên là Ghaṭikāra, một người thợ gốm. Người thợ gốm Ghaṭikāra có một người bạn, một người bạn thân, là một sinh viên Bà la môn tên là Jotipāla. ${790}$
+6\. "Tại Vebhalinga, Đức Thế Tôn Ca Diếp, bậc A La Hán, Chánh Đẳng Giác, có một người hộ trì, là người hộ trì chính yếu, tên là Ghaṭikāra, một người thợ gốm. Người thợ gốm Ghaṭikāra có một người bạn, một người bạn thân, là một sinh viên Bà la môn tên là Jotipāla. [^790]
 
 "Một hôm, người thợ gốm Ghaṭikāra nói với sinh viên Bà la môn Jotipāla: 'Này bạn Jotipāla thân mến, chúng ta hãy đi đến yết kiến Đức Thế Tôn Ca Diếp, bậc A La Hán, Chánh Đẳng Giác. Tôi nghĩ rằng thật tốt đẹp được yết kiến Đức Thế Tôn ấy, bậc A La Hán, Chánh Đẳng Giác.' Sinh viên Bà la môn Jotipāla đáp: 'Thôi đi, bạn Ghaṭikāra thân mến, gặp ông sa môn trọc đầu ấy thì có ích gì?'
 
@@ -21,7 +21,7 @@
 
 7\. "Thế là người thợ gốm Ghaṭikāra và sinh viên Bà la môn Jotipāla lấy xơ mướp và bột tắm rồi đi ra sông tắm. Bấy giờ, Ghaṭikāra nói với Jotipāla: 'Này bạn Jotipāla thân mến, tu viện của Đức Thế Tôn Ca Diếp, bậc A La Hán, Chánh Đẳng Giác, ở rất gần đây. Chúng ta hãy đi đến yết kiến Đức Thế Tôn Ca Diếp, bậc A La Hán, Chánh Đẳng Giác. Tôi nghĩ rằng thật tốt đẹp được yết kiến Đức Thế Tôn ấy, bậc A La Hán, Chánh Đẳng Giác.' Jotipāla đáp: 'Thôi đi, bạn Ghaṭikāra thân mến, [47] gặp ông sa môn trọc đầu ấy thì có ích gì?'
 
-"Lần thứ hai và lần thứ ba, Ghaṭikāra nói: 'Này bạn Jotipāla thân mến, tu viện của Đức Thế Tôn Ca Diếp ở rất gần đây...' Và lần thứ hai, lần thứ ba, sinh viên Bà la môn Jotipāla đáp: 'Thôi đi, bạn Ghaṭikāra thân mến, gặp ông sa môn trọc đầu ấy thì có ích gì?' ${791}$
+"Lần thứ hai và lần thứ ba, Ghaṭikāra nói: 'Này bạn Jotipāla thân mến, tu viện của Đức Thế Tôn Ca Diếp ở rất gần đây...' Và lần thứ hai, lần thứ ba, sinh viên Bà la môn Jotipāla đáp: 'Thôi đi, bạn Ghaṭikāra thân mến, gặp ông sa môn trọc đầu ấy thì có ích gì?' [^791]
 
 8\. "Bấy giờ, người thợ gốm Ghaṭikāra nắm lấy thắt lưng của sinh viên Bà la môn Jotipāla và nói: 'Này bạn Jotipāla thân mến, tu viện của Đức Thế Tôn Ca Diếp, bậc A La Hán, Chánh Đẳng Giác, ở rất gần đây. Chúng ta hãy đi đến yết kiến Đức Thế Tôn Ca Diếp, bậc A La Hán, Chánh Đẳng Giác. Tôi nghĩ rằng thật tốt đẹp được yết kiến Đức Thế Tôn ấy, bậc A La Hán, Chánh Đẳng Giác.' Bấy giờ, sinh viên Bà la môn Jotipāla cởi thắt lưng ra và nói: 'Thôi đi, bạn Ghaṭikāra thân mến, gặp ông sa môn trọc đầu ấy thì có ích gì?'
 
@@ -35,7 +35,7 @@
 
 11\. "Bấy giờ, Jotipāla hỏi Ghaṭikāra: 'Này bạn Ghaṭikāra thân mến, sau khi đã nghe Giáo Pháp này, tại sao bạn không xuất gia, từ bỏ đời sống gia đình, sống không nhà (go forth from the home life into homelessness - từ bỏ cuộc sống tại gia để trở thành người tu hành không nhà cửa)?' - 'Này bạn Jotipāla thân mến, bạn không biết rằng tôi phải nuôi dưỡng cha mẹ già và mù lòa sao?' 'Vậy thì, bạn Ghaṭikāra thân mến, tôi sẽ xuất gia, từ bỏ đời sống gia đình, sống không nhà.'
 
-12\. "Thế là người thợ gốm Ghaṭikāra và sinh viên Bà la môn Jotipāla đi đến yết kiến Đức Thế Tôn Ca Diếp, bậc A La Hán, Chánh Đẳng Giác. [49] Sau khi đảnh lễ ngài, họ ngồi xuống một bên và người thợ gốm Ghaṭikāra bạch Đức Thế Tôn Ca Diếp, bậc A La Hán, Chánh Đẳng Giác: 'Bạch Thế Tôn, đây là sinh viên Bà la môn Jotipāla, bạn con, bạn thân của con. Xin Thế Tôn hãy cho anh ấy xuất gia.' Và sinh viên Bà la môn Jotipāla đã được Đức Thế Tôn Ca Diếp, bậc A La Hán, Chánh Đẳng Giác, cho xuất gia, và anh ta đã thọ cụ túc giới (upasampadā - lễ thọ giới cao nhất để trở thành tỳ kheo). ${793}$
+12\. "Thế là người thợ gốm Ghaṭikāra và sinh viên Bà la môn Jotipāla đi đến yết kiến Đức Thế Tôn Ca Diếp, bậc A La Hán, Chánh Đẳng Giác. [49] Sau khi đảnh lễ ngài, họ ngồi xuống một bên và người thợ gốm Ghaṭikāra bạch Đức Thế Tôn Ca Diếp, bậc A La Hán, Chánh Đẳng Giác: 'Bạch Thế Tôn, đây là sinh viên Bà la môn Jotipāla, bạn con, bạn thân của con. Xin Thế Tôn hãy cho anh ấy xuất gia.' Và sinh viên Bà la môn Jotipāla đã được Đức Thế Tôn Ca Diếp, bậc A La Hán, Chánh Đẳng Giác, cho xuất gia, và anh ta đã thọ cụ túc giới (upasampadā - lễ thọ giới cao nhất để trở thành tỳ kheo). [^793]
 
 13\. "Sau đó không lâu, khi sinh viên Bà la môn Jotipāla đã thọ cụ túc giới, nửa tháng sau khi thọ cụ túc giới, Đức Thế Tôn Ca Diếp, bậc A La Hán, Chánh Đẳng Giác, sau khi ở Vebhalinga tùy ý thích, đã lên đường du hành về Ba La Nại (Benares). Du hành từng chặng, cuối cùng ngài đến Ba La Nại, và ở đó ngài đến sống tại Vườn Lộc Uyển ở Isipatana.
 

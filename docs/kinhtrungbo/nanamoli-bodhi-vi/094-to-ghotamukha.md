@@ -44,13 +44,13 @@
 
 "Này Bà la môn, vua xứ Anga trợ cấp cho ông khoản thường xuyên như thế nào?"
 
-"Năm trăm đồng kahāpana, thưa Tôn giả Udena." ${878}$
+"Năm trăm đồng kahāpana, thưa Tôn giả Udena." [^878]
 
 "Chúng tôi không được phép nhận vàng bạc, thưa Bà la môn."
 
 "Nếu Tôn giả Udena không được phép nhận, tôi sẽ xây một tu viện cho Tôn giả Udena."
 
-"Này Bà la môn, nếu ông muốn xây một tu viện cho tôi, hãy xây một giảng đường cho Tăng đoàn (Sangha - cộng đồng các vị sư) tại Pātaliputta (Hoa Thị Thành)." ${879}$
+"Này Bà la môn, nếu ông muốn xây một tu viện cho tôi, hãy xây một giảng đường cho Tăng đoàn (Sangha - cộng đồng các vị sư) tại Pātaliputta (Hoa Thị Thành)." [^879]
 
 "Tôi càng hài lòng và hoan hỷ hơn khi Tôn giả Udena gợi ý tôi cúng dường cho Tăng đoàn. Vậy, với khoản trợ cấp thường xuyên này và một khoản trợ cấp thường xuyên khác nữa, tôi sẽ xây một giảng đường cho Tăng đoàn tại Pātaliputta."
 

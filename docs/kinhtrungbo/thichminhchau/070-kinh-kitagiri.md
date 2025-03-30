@@ -13,6 +13,7 @@ Tỷ-kheo, do ăn, từ bỏ ăn ban đêm, các Ông sẽ cảm thấy ít bệ
 
 -- Thưa vâng, bạch Thế Tôn.
 
+<!--pg-->
 Các Tỷ-kheo ấy vâng đáp Thế Tôn. Rồi Thế Tôn tiếp tục du hành ở Kasi và đến một thị trấn xứ Kasi tên
 là Kitagiri. Rồi Thế Tôn ở tại Kitagiri, một thị trấn xứ Kasi. Lúc bấy giờ Tỷ-kheo Assaji và
 Punabbasuka đang ở Kitagiri. Rồi một số đông Tỷ-kheo đi đến chỗ Tỷ-kheo Assaji và Tỷ-kheo
@@ -40,6 +41,7 @@ với chúng con như sau: "Chư Hiền, chúng tôi ăn chiều, ăn sáng, ăn
 sẽ ăn chiều, ăn sáng, ăn ban ngày và ăn phi thời". Bạch Thế Tôn, vì chúng con không thể làm cho Tỷ-
 kheo Assaji và Tỷ-kheo Punabbasuka chấp thuận, nên chúng con trình sự việc này lên Thế Tôn.
 
+<!--pg-->
 Rồi Thế Tôn bảo một Tỷ-kheo:
 
 -- Này Tỷ-kheo, hãy đi và nhân danh Ta, bảo Tỷ-kheo Assaji và Tỷ-kheo Punabbasuka: "Bậc Ðạo Sư
@@ -75,6 +77,7 @@ tăng trưởng"?
 
 -- Thưa không, bạch Thế Tôn.
 
+<!--pg-->
 -- Này các Tỷ-kheo, các Ông có hiểu pháp Ta dạy như sau: "Ở đây đối với một người, khi cảm thọ lạc
 thọ như vậy, các bất thiện pháp được tăng trưởng, các thiện pháp bị đoạn diệt; ở đây, đối với một người,
 khi cảm thọ lạc thọ như vậy, các bất thiện pháp bị đoạn diệt, các thiện pháp được tăng trưởng. Ở đây,
@@ -86,6 +89,7 @@ bất lạc thọ như vậy, các bất thiện pháp bị đoạn diệt, các
 
 -- Thưa vâng, bạch Thế Tôn.
 
+<!--pg-->
 -- Lành thay, này các Tỷ-kheo ! Này các Tỷ-kheo, nếu sự việc này Ta không biết, không thấy, không
 giác, không chứng, không liễu giải với trí tuệ rằng: "Ở đây, đối với một người, khi cảm thọ lạc thọ như
 vậy, các bất thiện pháp được tăng trưởng, các thiện pháp bị đoạn diệt", có thể chăng, này các Tỷ-kheo,
@@ -132,6 +136,7 @@ Ta chăng?
 tuệ rằng: "Ở đây, đối với một người, khi cảm thọ bất khổ bất lạc thọ như vậy, các thiện pháp được tăng
 trưởng, các bất thiện pháp bị đoạn diệt", do vậy Ta nói: "Hãy chứng và trú bất khổ bất lạc thọ như vậy".
 
+<!--pg-->
 Này các Tỷ-kheo, Ta không nói rằng đối với tất cả Tỷ-kheo, có sự việc cần phải làm, nhờ không phóng
 dật. Này các Tỷ-kheo, Ta không nói rằng đối với tất cả Tỷ-kheo không có sự việc cần phải làm, nhờ
 không phóng dật. Này các Tỷ-kheo, đối với những Tỷ-kheo là bậc A-la-hán, các lậu hoặc đã đoạn tận, tu
@@ -149,6 +154,7 @@ vì mục đích này, các Thiện gia nam tử chân chánh xuất gia, từ b
 này các Tỷ-kheo, đối với những Tỷ-kheo này, vì thấy quả này của không phóng dật nên Ta nói có sự
 việc cần phải làm, nhờ không phóng dật.
 
+<!--pg-->
 Này các Tỷ-kheo có bảy hạng người sống trong đời này. Thế nào là bảy? Bậc câu phần giải thoát, bậc
 tuệ giải thoát, bậc thân chứng, bậc kiến đáo, bậc tín giải thoát, bậc tùy pháp hành, bậc tùy tín hành.
 
@@ -203,7 +209,6 @@ với trí tuệ, nhưng các lậu hoặc không được đoạn trừ một c
 thuyết (chỉ) được vị này chấp nhận một cách vừa phải với trí tuệ, dầu cho vị này có những pháp như là
 tín căn, tấn căn, niệm căn, định căn, tuệ căn. Này các Tỷ-kheo, vị này được gọi là người tùy pháp hành.
 Này các Tỷ-kheo, đối với Tỷ-kheo này, Ta nói có sự việc cần phải làm, nhờ không phóng dật. Vì sao
-
 vậy? Dầu cho trong khi Tôn giả này thọ dụng các sàng tọa đúng pháp, thân cận các thiện hữu, chế ngự
 các căn, vị này (cần phải) tự mình với thượng trí, chứng ngộ, chứng đạt và an trú ngay trong hiện tại
 mục đích vô thượng của Phạm hạnh, vì mục đích này các Thiện gia nam tử đã chơn chánh xuất gia, từ
@@ -254,7 +259,6 @@ hoàn toàn không liên hệ với các tài vật. Này các Tỷ-kheo, đối
 Ðạo sư và sống thể nhập giáo pháp ấy, thời tùy pháp (anudhamma) được khởi lên: "Bậc Ðạo sư là Thế
 Tôn, đệ tử là tôi. Thế Tôn biết, tôi không biết". Này các Tỷ-kheo, đến với một đệ tử, có lòng tin giáo
 pháp bậc Ðạo sư và sống thể nhập giáo pháp ấy, thời giáo pháp bậc Ðạo sư được hưng thịnh được nhiều
-
 sinh lực. Này các Tỷ-kheo, đối với đệ tử có lòng tin giáo pháp bậc Ðạo Sư và sống thể nhập giáo pháp
 ấy, thời tùy pháp này được khởi lên: "Dầu chỉ còn da, gân và xương, dầu thịt và máu trên thân bị khô
 héo, mong rằng sẽ có tinh tấn lực để chứng đắc những gì chưa chứng đắc, nhờ trượng phu nhẫn nại, nhờ

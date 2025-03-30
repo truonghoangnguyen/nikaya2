@@ -13,7 +13,7 @@
 
 4. Then the venerable Rāhula considered thus: "Who would go into the town for alms today when personally admonished by the Blessed One?" Thus he turned back and sat down at the root of a tree, folding his legs crosswise, setting his body erect, and establishing mindfulness in front of him.
 
-5. The venerable Sāriputta saw him sitting there and addressed him thus: "Rāhula, develop mindfulness of breathing. When mindfulness of breathing is developed and cultivated, it is of great fruit and great benefit." ${ }^{642}$
+5. The venerable Sāriputta saw him sitting there and addressed him thus: "Rāhula, develop mindfulness of breathing. When mindfulness of breathing is developed and cultivated, it is of great fruit and great benefit." [^642]
 
 6. Then, when it was evening, the venerable Rāhula rose from meditation and went to the Blessed One. After paying homage to him, he sat down at one side and asked the Blessed One:
 
@@ -58,7 +58,7 @@ you develop meditation on compassion, any cruelty will be abandoned.
 
 24. "Rāhula, develop meditation on mindfulness of breathing. When mindfulness of breathing is developed and cultivated, it is of great fruit and great benefit. And how is mindfulness of breathing developed and cultivated, so that it is of great fruit and great benefit?
 
-25. "Here, Rāhula, a bhikkhu, gone to the forest or to the root of a tree or to an empty hut, sits down; having folded his legs crosswise, set his body erect, and established mindfulness in front of him, ever mindful he breathes in, mindful he breathes out. ${ }^{646}$
+25. "Here, Rāhula, a bhikkhu, gone to the forest or to the root of a tree or to an empty hut, sits down; having folded his legs crosswise, set his body erect, and established mindfulness in front of him, ever mindful he breathes in, mindful he breathes out. [^646]
 
 26. "Breathing in long, he understands: 'I breathe in long'; or breathing out long, he understands: 'I breathe out long.' Breathing in short, he understands: 'I breathe in short'; or breathing out short, he understands: 'I breathe out short.' He trains thus: 'I shall breathe in experiencing the whole body [of breath]'; he trains thus: 'I shall breathe out experiencing the whole body [of breath].' He trains thus: 'I shall breathe in tranquillising the bodily formation'; he trains thus: 'I shall breathe out tranquillising the bodily formation.'
 

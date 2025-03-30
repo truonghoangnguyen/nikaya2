@@ -5,6 +5,7 @@ import Theme from 'vitepress/theme'
 import TextCompare from '../components/TextCompare.vue'
 import CompareButton from '../components/CompareButton.vue'
 import NotePopup from '../components/NotePopup.vue'
+import NavFontSizeButton from './NavFontSizeButton.vue'
 import './style.css'
 
 export default {
@@ -19,7 +20,10 @@ export default {
   Layout() {
     return h(Theme.Layout, null, {
       'layout-bottom': () => h(NotePopup),
-      'nav-bar-content-after': () => h(CompareButton)
+      'nav-bar-content-after': () => h('div', { class: 'nav-controls' }, [
+        h(CompareButton),
+        h(NavFontSizeButton)
+      ])
     })
   }
 }

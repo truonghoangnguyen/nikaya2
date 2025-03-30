@@ -5,7 +5,7 @@
 
 2. "Bhikkhus, do you remember the five lower fetters as taught by me?"
 
-When this was said, the venerable Mālunkyāputta replied: "Venerable sir, I remember the five lower fetters as taught by the Blessed One." ${ }^{649}$
+When this was said, the venerable Mālunkyāputta replied: "Venerable sir, I remember the five lower fetters as taught by the Blessed One." [^649]
 
 "But, Mālunkyāputta, in what way do you remember the five lower fetters as taught by me?"
 
@@ -59,7 +59,7 @@ space, aware that 'consciousness is infinite,' a bhikkhu enters upon and abides 
 
 16. "Venerable sir, if this is the path, the way to the abandoning of the five lower fetters, then how is it that some bhikkhus here [are said to] gain deliverance of mind and some [are said to] gain deliverance by wisdom?"
 
-"The difference here, Ānanda, is in their faculties, I say." ${ }^{659}$
+"The difference here, Ānanda, is in their faculties, I say." [^659]
 
 That is what the Blessed One said. The venerable Ānanda was satisfied and delighted in the Blessed One's words.
 

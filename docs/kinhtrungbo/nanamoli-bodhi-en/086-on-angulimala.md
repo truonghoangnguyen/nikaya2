@@ -3,7 +3,7 @@
 
 1\. Thus have I heard. On one occasion the Blessed One was living at Sāvatthī in Jeta's Grove, Anāthapiṇ̣ika's Park.
 
-2\. Now on that occasion there was a bandit in the realm of King Pasenadi of Kosala named Angulimāla, who was murderous, bloody-handed, given to blows and violence, merciless to living beings. Villages, towns, [98] and districts were laid waste by him. He was constantly murdering people and he wore their fingers as a garland. ${ }^{820}$
+2\. Now on that occasion there was a bandit in the realm of King Pasenadi of Kosala named Angulimāla, who was murderous, bloody-handed, given to blows and violence, merciless to living beings. Villages, towns, [98] and districts were laid waste by him. He was constantly murdering people and he wore their fingers as a garland. [^820]
 
 3\. Then, when it was morning, the Blessed One dressed, and taking his bowl and outer robe, went into Sāvatthī for alms. When he had wandered for alms in Sāvatthī and had returned from his almsround, after his meal he set his resting place in order, and taking his bowl and outer robe, set out on the road leading towards Angulimāla. Cowherds, shepherds, and ploughmen passing by saw the Blessed One walking along the road leading towards Angulimāla and told him: "Do not take this road, recluse. On this road is the bandit Angulimāla, who is murderous, bloody-handed, given to blows and violence, merciless to living beings. Villages, towns, and districts have been laid waste by him. He is constantly murdering people and he wears their fingers as a garland. Men have come along this road in groups of ten, twenty, thirty, and even forty, but still they have fallen into Angulimāla's hands." When this was said the Blessed One went on in silence.
 
@@ -38,7 +38,7 @@ That is why I have stopped and you have not." [100]
 
 "Oh, at long last this recluse, a venerated sage,
 
-Has come to this great forest for my sake. ${ }^{821}$
+Has come to this great forest for my sake. [^821]
 
 Having heard your stanza teaching me the Dhamma,
 
@@ -46,7 +46,7 @@ I will indeed renounce evil forever."
 
 So saying, the bandit took his sword and weapons And flung them in a gaping chasm's pit; The bandit worshipped the Sublime One's feet, And then and there asked for the going forth.
 
-The Enlightened One, the Sage of Great Compassion, The Teacher of the world with [all] its gods, Addressed him with these words, "Come, bhikkhu." And that was how he came to be a bhikkhu. ${ }^{822}$
+The Enlightened One, the Sage of Great Compassion, The Teacher of the world with [all] its gods, Addressed him with these words, "Come, bhikkhu." And that was how he came to be a bhikkhu. [^822]
 
 7\. Then the Blessed One set out to wander back to Sāvatthī with Angulimāla as his attendant. Wandering by stages, he eventually arrived at Sāvatthī, and there he lived at Sāvatthī in Jeta's Grove, Anāthapiṇ̣̣ika's Park.
 
@@ -100,9 +100,9 @@ When he had wandered for alms in Sāvatthī and had returned from his almsround,
 16\. Before long, dwelling alone, withdrawn, diligent, ardent, and resolute, the venerable Angulimāla, by realising for himself with direct knowledge, here and now entered upon and abided in that supreme goal of the holy life for the sake of which
 clansmen rightly go forth from the home life into homelessness. He directly knew: "Birth is destroyed, the holy life has been lived, what had to be done has been done, there is no more coming to any state of being." [104] And the venerable Angulimāla became one of the arahants.
 
-17\. Then, when it was morning, the venerable Angulimāla dressed, and taking his bowl and outer robe, went into Sāvatthī for alms. Now on that occasion someone threw a clod and hit the venerable Angulimāla's body, someone else threw a stick and hit his body, and someone else threw a potsherd and hit his body. Then, with blood running from his cut head, with his bowl broken, and with his outer robe torn, the venerable Angulimāla went to the Blessed One. The Blessed One saw him coming in the distance and told him: "Bear it, brahmin! Bear it, brahmin! You are experiencing here and now the result of deeds because of which you might have been tortured in hell for many years, for many hundreds of years, for many thousands of years." ${ }^{824}$
+17\. Then, when it was morning, the venerable Angulimāla dressed, and taking his bowl and outer robe, went into Sāvatthī for alms. Now on that occasion someone threw a clod and hit the venerable Angulimāla's body, someone else threw a stick and hit his body, and someone else threw a potsherd and hit his body. Then, with blood running from his cut head, with his bowl broken, and with his outer robe torn, the venerable Angulimāla went to the Blessed One. The Blessed One saw him coming in the distance and told him: "Bear it, brahmin! Bear it, brahmin! You are experiencing here and now the result of deeds because of which you might have been tortured in hell for many years, for many hundreds of years, for many thousands of years." [^824]
 
-18\. Then, while the venerable Angulimāla was alone in retreat experiencing the bliss of deliverance, he uttered this exclamation: ${ }^{825}$
+18\. Then, while the venerable Angulimāla was alone in retreat experiencing the bliss of deliverance, he uttered this exclamation: [^825]
 
 "Who once did live in negligence
 
@@ -145,7 +145,7 @@ And though I once lived as a bandit With the name of 'Finger-garland,' One whom 
 
 And though I once was bloody-handed With the name of 'Finger-garland,' See the refuge I have found: The bond of being has been cut.
 
-While I did many deeds that lead To rebirth in the evil realms, Yet their result has reached me now, And so I eat free from debt. ${ }^{827}$
+While I did many deeds that lead To rebirth in the evil realms, Yet their result has reached me now, And so I eat free from debt. [^827]
 
 They are fools and have no sense
 

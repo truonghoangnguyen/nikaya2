@@ -47,7 +47,7 @@ Lần thứ hai... Lần thứ ba, bạn bè anh nói với anh: "Bạn Raṭṭ
 
 Sau đó, bạn bè của thanh niên Raṭṭhapāla đến gặp anh và nói với anh: "Dậy đi, bạn Raṭṭhapāla. Cha mẹ bạn cho phép bạn xuất gia từ bỏ đời sống gia đình, sống không nhà cửa. Nhưng khi đã xuất gia, bạn phải về thăm cha mẹ."
 
-12\. Thanh niên Raṭṭhapāla sau đó đứng dậy, và khi đã lấy lại sức, anh đến gặp Đức Thế Tôn, sau khi đảnh lễ Ngài, anh ngồi xuống một bên và thưa với Ngài: "Bạch ngài, con đã được cha mẹ cho phép xuất gia từ bỏ đời sống gia đình, sống không nhà cửa. Xin Đức Thế Tôn cho con được xuất gia." Sau đó, thanh niên Raṭṭhapāla đã được xuất gia dưới sự hướng dẫn của Đức Thế Tôn, và anh đã nhận được cụ túc giới. ${796}$
+12\. Thanh niên Raṭṭhapāla sau đó đứng dậy, và khi đã lấy lại sức, anh đến gặp Đức Thế Tôn, sau khi đảnh lễ Ngài, anh ngồi xuống một bên và thưa với Ngài: "Bạch ngài, con đã được cha mẹ cho phép xuất gia từ bỏ đời sống gia đình, sống không nhà cửa. Xin Đức Thế Tôn cho con được xuất gia." Sau đó, thanh niên Raṭṭhapāla đã được xuất gia dưới sự hướng dẫn của Đức Thế Tôn, và anh đã nhận được cụ túc giới. [^796]
 
 13\. Rồi không lâu sau khi tôn giả Raṭṭhapāla nhận cụ túc giới, nửa tháng sau khi nhận cụ túc giới, Đức Thế Tôn, sau khi ở lại Thullakoṭṭhita bao lâu tùy ý, đã lên đường du hành về Xá-vệ (Sāvatthī). Đi qua nhiều chặng đường, cuối cùng Ngài đến Xá-vệ, và ở đó [61] Ngài trú tại Xá-vệ trong Vườn Kỳ-đà (Jeta's Grove), Công viên của ông Cấp Cô Độc (Anāthapiṇḍika's Park).
 
@@ -99,7 +99,7 @@ Sau đó, mẹ của tôn giả Raṭṭhapāla đến gặp cha ngài và nói:
 
 Sau đó, cha của tôn giả Raṭṭhapāla tự tay dọn và mời ngài dùng các loại thức ăn ngon. Khi tôn giả Raṭṭhapāla đã ăn xong và rút tay khỏi bát, ngài đứng dậy và đọc những câu kệ này:
 
-25\. "Hãy nhìn hình hài được tô điểm này, ${800}$
+25\. "Hãy nhìn hình hài được tô điểm này, [^800]
 Một thân thể được tạo thành từ vết thương,
 Bệnh tật, một đối tượng đáng lo ngại,
 Nơi không có sự ổn định nào tồn tại.

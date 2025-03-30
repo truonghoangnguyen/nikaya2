@@ -33,7 +33,7 @@
 
     "Do đó, Mālunkyāputta, [432] hãy ghi nhớ những gì Ta không tuyên bố là không tuyên bố, và ghi nhớ những gì Ta đã tuyên bố là đã tuyên bố."
 
-Đức Thế Tôn đã nói như vậy. Tôn giả Mālunkyāputta đã hoan hỷ và tín thọ lời dạy của Đức Thế Tôn. ${ }^{648}$
+Đức Thế Tôn đã nói như vậy. Tôn giả Mālunkyāputta đã hoan hỷ và tín thọ lời dạy của Đức Thế Tôn. [^648]
 
 <!--pg-->
 Từ ngữ:

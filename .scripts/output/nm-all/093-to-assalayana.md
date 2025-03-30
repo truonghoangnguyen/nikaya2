@@ -125,7 +125,7 @@ seers gone? Where have those worthy brahmin seers gone?' Then the seven brahmin 
 "'But, sirs, do you know how the conception of an embryo in a womb comes about?'
 
 "'Sir, we know how the conception of an embryo in a womb comes about. [157] Here, there is a union of the mother and
-father, and it is the mother's season, and the being to be reborn is present. Thus the conception of an embryo in a womb comes about through the union of these three things. ${ }^{875}$
+father, and it is the mother's season, and the being to be reborn is present. Thus the conception of an embryo in a womb comes about through the union of these three things. [^875]
 
 "‘Then, sirs, do you know for sure whether that being to be reborn is a noble, or a brahmin, or a merchant, or a worker?'
 

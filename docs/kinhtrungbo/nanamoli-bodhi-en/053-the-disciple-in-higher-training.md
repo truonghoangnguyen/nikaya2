@@ -39,14 +39,14 @@ might invade him, he practises the way of its restraint, he guards the mind facu
 
 12\. "He has shame; he is ashamed of misconduct in body, speech, and mind, ashamed of engaging in evil unwholesome deeds.
 
-13\. "He has fear of wrongdoing; he is afraid of misconduct in body, speech, and mind, afraid of engaging in evil unwholesome deeds. ${ }^{559}$
+13\. "He has fear of wrongdoing; he is afraid of misconduct in body, speech, and mind, afraid of engaging in evil unwholesome deeds. [^559]
 
 14\. "He has learned much, remembers what he has learned, and consolidates what he has learned. Such teachings as are good in the beginning, good in the middle, and good in the end,
 with the right meaning and phrasing, and affirm a holy life that is utterly perfect and pure - such teachings as these he has learned much of, remembered, recited verbally, investigated with the mind and penetrated well by view.
 
 15\. "He is energetic in abandoning unwholesome states and in undertaking wholesome states; he is steadfast, firm in striving, not remiss in developing wholesome states.
 
-16\. "He has mindfulness; he possesses the highest mindfulness and skill; he recalls and recollects what was done long ago and spoken long ago. ${ }^{560}$
+16\. "He has mindfulness; he possesses the highest mindfulness and skill; he recalls and recollects what was done long ago and spoken long ago. [^560]
 
 17\. "He is wise; he possesses wisdom regarding rise and disappearance that is noble and penetrative and leads to the complete destruction of suffering. [^561] That is how a noble disciple possesses seven good qualities.
 
@@ -54,7 +54,7 @@ with the right meaning and phrasing, and affirm a holy life that is utterly perf
 
 19\. "When a noble disciple has thus become one who is possessed of virtue, who guards the doors of his sense faculties, who is moderate in eating, who is devoted to wakefulness, who possesses seven good qualities, [357] who obtains at will, without trouble or difficulty, the four jhānas that constitute the higher mind and provide a pleasant abiding here and now, he is called one in higher training who has entered upon the way. His eggs are unspoiled; he is capable of breaking out, capable of enlightenment, capable of attaining the supreme security from bondage.
 
-"Suppose there were a hen with eight or ten or twelve eggs, which she had covered, incubated, and nurtured properly. ${ }^{562}$
+"Suppose there were a hen with eight or ten or twelve eggs, which she had covered, incubated, and nurtured properly. [^562]
 
 Even though she did not wish: 'Oh, that my chicks might pierce their shells with the points of their claws and beaks and hatch out safely!' yet the chicks are capable of piercing their shells with the points of their claws and beaks and hatching out safely. So too, when a noble disciple has thus become one who is possessed of virtue...he is called one in higher training who has entered upon the way. His eggs are unspoiled; he is capable of breaking out, capable of enlightenment, capable of attaining the supreme security from bondage.
 
@@ -62,9 +62,9 @@ Even though she did not wish: 'Oh, that my chicks might pierce their shells with
 
 21\. "Having arrived at that same supreme mindfulness whose purity is due to equanimity, with the divine eye, which is purified and surpasses the human, this noble disciple sees beings passing away and reappearing...(as Sutta 51, §25)...he understands how beings pass on according to their actions. This is his second breaking out like that of the hen's chicks from their shells.
 
-22\. "Having arrived at that same supreme mindfulness whose purity is due to equanimity, by realising for himself with direct knowledge, this noble disciple here and now enters upon and abides in the deliverance of mind and deliverance by wisdom that are taintless with the destruction of the taints. [358] This is his third breaking out like that of the hen's chicks from their shells. ${ }^{564}$
+22\. "Having arrived at that same supreme mindfulness whose purity is due to equanimity, by realising for himself with direct knowledge, this noble disciple here and now enters upon and abides in the deliverance of mind and deliverance by wisdom that are taintless with the destruction of the taints. [358] This is his third breaking out like that of the hen's chicks from their shells. [^564]
 
-23\. "When a noble disciple is possessed of virtue, that is his conduct. When he guards the doors of his sense faculties, that is his conduct. When he is moderate in eating, that is his conduct. When he is devoted to wakefulness, that is his conduct. When he possesses seven good qualities, that is his conduct. When he is one who obtains at will, without trouble or difficulty, the four jhānas that constitute the higher mind and provide a pleasant abiding here and now, that is his conduct. ${ }^{565}$
+23\. "When a noble disciple is possessed of virtue, that is his conduct. When he guards the doors of his sense faculties, that is his conduct. When he is moderate in eating, that is his conduct. When he is devoted to wakefulness, that is his conduct. When he possesses seven good qualities, that is his conduct. When he is one who obtains at will, without trouble or difficulty, the four jhānas that constitute the higher mind and provide a pleasant abiding here and now, that is his conduct. [^565]
 
 24\. "When he recollects his manifold past lives...with their aspects and particulars, that is his true knowledge. When, with the divine eye...he sees beings passing away and reappearing and understands how beings pass on according to their actions, that is his true knowledge. When, by realising for himself with
 direct knowledge, he here and now enters upon and abides in the deliverance of mind and deliverance by wisdom that are taintless with the destruction of the taints, that is his true knowledge.

@@ -63,7 +63,7 @@ honoured me...with the thought: 'The recluse Gotama is content with any kind of 
 
 #### (1. The Four Foundations of Mindfulness)
 
-15. "Again, Udāyin, I have proclaimed to my disciples the way to develop the four foundations of mindfulness. [^762] Here a bhikkhu abides contemplating the body as a body, ardent, fully aware, and mindful, having put away covetousness and grief for the world. He abides contemplating feelings as feelings...He abides contemplating mind as mind...He abides contemplating mind-objects as mind-objects, ardent, fully aware, and mindful, having put away covetousness and grief for the world. And thereby many disciples of mine abide having reached the consummation and perfection of direct knowledge. ${ }^{763}$
+15. "Again, Udāyin, I have proclaimed to my disciples the way to develop the four foundations of mindfulness. [^762] Here a bhikkhu abides contemplating the body as a body, ardent, fully aware, and mindful, having put away covetousness and grief for the world. He abides contemplating feelings as feelings...He abides contemplating mind as mind...He abides contemplating mind-objects as mind-objects, ardent, fully aware, and mindful, having put away covetousness and grief for the world. And thereby many disciples of mine abide having reached the consummation and perfection of direct knowledge. [^763]
 
 #### (2. The Four Right Kinds of Striving)
 

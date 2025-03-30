@@ -43,6 +43,6 @@ Prince Abhaya then reported to the Blessed One his entire conversation with the 
 "Venerable sir, I am well known as a charioteer skilled in the parts of a chariot. All the parts of a chariot are well known to me. That answer would occur to me on the spot."
 
 11. "So too, prince, when learned nobles, learned brahmins, learned householders, and learned recluses, after formulating a question, then come to the Tathāgata and pose it, the answer occurs to the Tathāgata on the spot. Why is that? That element
-of things has been fully penetrated by the Tathāgata, through the full penetration of which the answer occurs to the Tathāgata on the spot." ${ }^{614}$
+of things has been fully penetrated by the Tathāgata, through the full penetration of which the answer occurs to the Tathāgata on the spot." [^614]
 
 12. When this was said, Prince Abhaya said: "Magnificent, venerable sir! Magnificent, venerable sir! The Blessed One has made the Dhamma clear in many ways...From today let the Blessed One remember me as a lay follower who has gone to him for refuge for life."

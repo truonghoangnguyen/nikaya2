@@ -58,7 +58,7 @@ was testing these inspectors, Isidatta and Purāna, I happened to put up in very
 
 "Now is the time, great king, to do as you think fit."
 
-Then King Pasenadi of Kosala rose from his seat, and after paying homage to the Blessed One, keeping him on his right, he departed. ${ }^{843}$
+Then King Pasenadi of Kosala rose from his seat, and after paying homage to the Blessed One, keeping him on his right, he departed. [^843]
 
 21\. Then soon after he had left, the Blessed One addressed the bhikkhus thus: "Bhikkhus, before rising from his seat and departing, this King Pasenadi uttered monuments to the Dhamma. [^844] Learn the monuments to the Dhamma, bhikkhus; mástèr [125] the monuments to the Dhamma; remember the monuments to the Dhamma. The monuments to the Dhamma are beneficial, bhikkhus, and they belong to the fundamentals of the holy life."
 

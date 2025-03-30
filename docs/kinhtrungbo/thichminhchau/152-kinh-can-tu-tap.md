@@ -47,6 +47,7 @@ tập trong giới luật bậc Thánh. Sau khi nghe Thế Tôn, các vị Tỷ-
 
 Tôn giả Ananda vâng đáp Thế Tôn. Thế Tôn nói như sau:
 
+<!--pg-->
 -- Này Ananda, thế nào là vô thượng căn tu tập trong giới luật bậc Thánh? Ở đây, này Ananda, vị Tỷ-
 kheo, mắt thấy sắc, khởi lên khả ý, khởi lên bất khả ý, khởi lên khả ý bất khả ý. Vị ấy tuệ tri như sau:
 "Khả ý này khởi lên nơi ta, bất khả ý này khởi lên, khả ý bất khả ý này khởi lên. Cái này khởi lên, vì là
@@ -55,7 +56,6 @@ lên là khả ý, bất khả ý hay khả ý và bất khả ý, tất cả đ
 Ananda, như một người có mắt, sau khi mở mắt, lại nhắm mắt lại, hay sau khi nhắm mắt, lại mở mắt ra;
 cũng vậy, như vậy là tốc độ, như vậy là sự mau chóng, như vậy là sự dễ dàng đối với cái gì đã khởi lên,
 khả ý bất khả ý hay khả ý bất khả ý, (tất cả) đều đoạn diệt (trong vị ấy), và xả tồn tại. Trong giới luật bậc
-
 Thánh, này Ananda, như vậy gọi là vô thượng căn tu tập đối với các sắc do mắt nhận thức.
 
 Lại nữa, này Ananda, Tỷ-kheo tai nghe tiếng khởi lên khả ý, khởi lên bất khả ý, khởi lên khả ý bất khả
@@ -96,6 +96,7 @@ cái gì đã khởi lên, khả ý, bất khả ý hay khả ý bất khả ý,
 Trong giới luật bậc Thánh, này Ananda, như vậy gọi là vô thượng căn tu tập đối với các xúc do thân
 nhận thức.
 
+<!--pg-->
 Lại nữa, này Ananda, Tỷ-kheo, ý nhận thức các pháp khởi lên khả ý, khởi lên bất khả ý. Khởi lên khả ý
 bất khả ý. Vị ấy tuệ tri như sau: "khả ý này khởi lên nơi ta, bất khả ý này khởi lên, khả ý bất khả ý này
 khởi lên. Cái này khởi lên, vì là hữu vi nên thô. (Nhưng) cái này là an tịnh, cái này là thù diệu, tức là
@@ -108,6 +109,7 @@ Thánh, này Ananda, như vậy gọi là vô thượng căn tu tập đối v�
 
 Như vậy, này Ananda, là vô thượng căn tu tập trong giới luật bậc Thánh.
 
+<!--pg-->
 Và này Ananda, thế nào là đạo lộ của vị hữu học? Ở đây, này Ananda, Tỷ-kheo mắt thấy sắc khởi lên
 khả ý, khởi lên bất khả ý, khởi lên khả ý bất khả ý. Vì rằng có khả ý khởi lên, có bất khả ý khởi lên, có
 khả ý bất khả ý khởi lên, vị ấy ưu não, tàm quý, ghét bỏ. Sau khi tai nghe tiếng..., mũi ngửi hương...,
@@ -115,6 +117,7 @@ lưỡi nếm vị..., thân cảm xúc..., sau khi ý nhận thức pháp, vị
 lên khả ý bất khả ý . Vì rằng có khả ý khởi lên, có bất khả ý khởi lên, có khả ý bất khả ý khởi lên, vị ấy
 ưu não, tàm quý, ghét bỏ. Như vậy, này Ananda là đạo lộ của vị hữu học.
 
+<!--pg-->
 Và này Ananda, thế nào là bậc Thánh, các căn được tu tập? Ở đây, này Ananda, sau khi mắt thấy sắc, vị
 Tỷ-kheo khởi lên khả ý, khởi lên bất khả ý, khởi lên khả ý bất khả ý. Nếu vị ấy khởi lên ước muốn:
 "Mong rằng tôi an trú với tưởng không yếm ly đối với (sự vật) yếm ly", thời ở đây, vị ấy an trú với
@@ -139,6 +142,7 @@ trú xả, chánh niệm, tỉnh giác", thời ở đây, vị ấy an trú x�
 
 Như vậy, này Ananda, là bậc Thánh, các căn được tu tập.
 
+<!--pg-->
 Như vậy, này Ananda, Ta đã giảng vô thượng căn tu tập trong giới luật bậc Thánh, đã giảng đạo lộ của
 bậc hữu học, đã giảng bậc Thánh, các căn được tu tập. Này Ananda, những gì một bậc Ðạo sư phải làm,
 vì lòng từ mẫn, mưu cầu hạnh phúc cho các đệ tử, những điều ấy Ta đã làm cho các Ông. Này Ananda,

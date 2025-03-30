@@ -13,7 +13,7 @@
 
 4\.  Rồi Đại đức La-hầu-la suy nghĩ thế này: "Ai lại đi vào thành khất thực hôm nay khi được chính Đức Thế Tôn trực tiếp khuyên dạy chứ?" Thế là ngài quay lại và ngồi xuống gốc cây, xếp chân kiết già, giữ thân thẳng, và an trú chánh niệm (mindfulness - sự chú tâm, tỉnh giác vào giây phút hiện tại, không phán xét) trước mặt.
 
-5\.  Đại đức Xá-lợi-phất (Sāriputta) thấy ngài ngồi đó và bảo ngài như sau: "Này La-hầu-la, hãy phát triển niệm hơi thở (mindfulness of breathing - sự chú tâm vào hơi thở vào ra). Khi niệm hơi thở được phát triển và tu tập, nó mang lại quả lớn, lợi ích lớn." ${ }^{642}$
+5\.  Đại đức Xá-lợi-phất (Sāriputta) thấy ngài ngồi đó và bảo ngài như sau: "Này La-hầu-la, hãy phát triển niệm hơi thở (mindfulness of breathing - sự chú tâm vào hơi thở vào ra). Khi niệm hơi thở được phát triển và tu tập, nó mang lại quả lớn, lợi ích lớn." [^642]
 
 6\.  Rồi, vào buổi chiều, Đại đức La-hầu-la xả thiền và đi đến Đức Thế Tôn. Sau khi đảnh lễ ngài, ngài ngồi xuống một bên và hỏi Đức Thế Tôn:
 
@@ -55,7 +55,7 @@
 
 24\. "Này La-hầu-la, hãy phát triển thiền định về niệm hơi thở. Khi niệm hơi thở được phát triển và tu tập, nó mang lại quả lớn, lợi ích lớn. Và làm thế nào để niệm hơi thở được phát triển và tu tập, để nó mang lại quả lớn, lợi ích lớn?
 
-25\. "Ở đây, này La-hầu-la, một vị tỳ kheo (bhikkhu - nhà sư nam đã thọ giới cụ túc trong Phật giáo), đi vào rừng hoặc đến gốc cây hoặc đến một ngôi cốc/chòi trống (empty hut - suññāgāra - nơi vắng vẻ, yên tĩnh thích hợp cho việc tu tập thiền định), ngồi xuống; xếp chân kiết già, giữ thân thẳng, và an trú chánh niệm trước mặt, luôn tỉnh thức vị ấy thở vào, tỉnh thức vị ấy thở ra. ${ }^{646}$
+25\. "Ở đây, này La-hầu-la, một vị tỳ kheo (bhikkhu - nhà sư nam đã thọ giới cụ túc trong Phật giáo), đi vào rừng hoặc đến gốc cây hoặc đến một ngôi cốc/chòi trống (empty hut - suññāgāra - nơi vắng vẻ, yên tĩnh thích hợp cho việc tu tập thiền định), ngồi xuống; xếp chân kiết già, giữ thân thẳng, và an trú chánh niệm trước mặt, luôn tỉnh thức vị ấy thở vào, tỉnh thức vị ấy thở ra. [^646]
 
 26\. "Thở vào dài, vị ấy biết: 'Tôi thở vào dài'; hoặc thở ra dài, vị ấy biết: 'Tôi thở ra dài.' Thở vào ngắn, vị ấy biết: 'Tôi thở vào ngắn'; hoặc thở ra ngắn, vị ấy biết: 'Tôi thở ra ngắn.' Vị ấy tập luyện như vầy: 'Tôi sẽ thở vào, cảm nhận toàn thân [hơi thở]'; vị ấy tập luyện như vầy: 'Tôi sẽ thở ra, cảm nhận toàn thân [hơi thở].' Vị ấy tập luyện như vầy: 'Tôi sẽ thở vào, làm an tịnh thân hành (bodily formation - kāya-saṅkhāra - ở đây chỉ hơi thở vào ra, được xem là yếu tố thuộc về thân, làm thân hoạt động)'; vị ấy tập luyện như vầy: 'Tôi sẽ thở ra, làm an tịnh thân hành.'
 

@@ -141,4 +141,4 @@ aspects and particulars he recollects his manifold past lives. This too, Udāyin
 46. When this was said, the wanderer Sakuludāyin's assembly
 addressed him thus: "Do not lead the holy life under the recluse Gotama, Master Udāyin. Having been a teacher, Master Udāyin, do not live as a pupil. For Master Udāyin to do so would be as if a water jug were to become a pitcher. Do not lead the holy life under the recluse Gotama, Master Udāyin. Having been a teacher, Master Udāyin, do not live as a pupil."
 
-That is how the wanderer Sakuludāyin's assembly obstructed him from leading the holy life under the Blessed One. ${ }^{796}$
+That is how the wanderer Sakuludāyin's assembly obstructed him from leading the holy life under the Blessed One. [^796]

@@ -59,7 +59,7 @@ Khi ông đã ngồi yên, Đức Thế Tôn hỏi: "Này Udāyin, các vị đa
 
 #### (1. Bốn Nền Tảng Chánh Niệm)
 
-15\. "Lại nữa, này Udāyin, ta đã tuyên thuyết cho các đệ tử của ta con đường phát triển bốn nền tảng chánh niệm (cattāro satipaṭṭhānā / four foundations of mindfulness - bốn lĩnh vực quán niệm). [^762] Ở đây, vị tỳ kheo trú quán thân trên thân, nhiệt tâm (ātāpī - nỗ lực, tinh tấn), tỉnh giác (sampajāno - nhận biết rõ ràng), chánh niệm (satimā - sự chú tâm, ghi nhớ), loại bỏ tham ái và ưu phiền đối với thế gian (abhijjhādomanassaṁ loke - lòng tham và nỗi buồn liên quan đến đời). Vị ấy trú quán thọ trên các cảm thọ... Vị ấy trú quán tâm trên tâm... Vị ấy trú quán pháp trên các pháp, nhiệt tâm, tỉnh giác, chánh niệm, loại bỏ tham ái và ưu phiền đối với thế gian. Và nhờ đó, nhiều đệ tử của ta trú trong trạng thái đã đạt đến sự viên mãn và hoàn hảo của thắng trí. ${763}$
+15\. "Lại nữa, này Udāyin, ta đã tuyên thuyết cho các đệ tử của ta con đường phát triển bốn nền tảng chánh niệm (cattāro satipaṭṭhānā / four foundations of mindfulness - bốn lĩnh vực quán niệm). [^762] Ở đây, vị tỳ kheo trú quán thân trên thân, nhiệt tâm (ātāpī - nỗ lực, tinh tấn), tỉnh giác (sampajāno - nhận biết rõ ràng), chánh niệm (satimā - sự chú tâm, ghi nhớ), loại bỏ tham ái và ưu phiền đối với thế gian (abhijjhādomanassaṁ loke - lòng tham và nỗi buồn liên quan đến đời). Vị ấy trú quán thọ trên các cảm thọ... Vị ấy trú quán tâm trên tâm... Vị ấy trú quán pháp trên các pháp, nhiệt tâm, tỉnh giác, chánh niệm, loại bỏ tham ái và ưu phiền đối với thế gian. Và nhờ đó, nhiều đệ tử của ta trú trong trạng thái đã đạt đến sự viên mãn và hoàn hảo của thắng trí. [^763]
 
 #### (2. Bốn Sự Cố Gắng Chân Chính)
 

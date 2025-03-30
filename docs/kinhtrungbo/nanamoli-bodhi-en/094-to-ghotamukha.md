@@ -46,7 +46,7 @@ accomplished and fully enlightened. If we heard that Master Gotama was within tw
 
 "What kind of regular donation does the king of Anga give you, brahmin?"
 
-"Five hundred kahāpanas, Master Udena." ${ }^{878}$
+"Five hundred kahāpanas, Master Udena." [^878]
 
 "It is not allowable for us to accept gold and silver, brahmin."
 

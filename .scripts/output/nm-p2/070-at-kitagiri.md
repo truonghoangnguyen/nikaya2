@@ -3,7 +3,7 @@
 
 1. Thus have I heard. On one occasion the Blessed One was wandering in the Kāsi country together with a large Sangha of bhikkhus. There he addressed the bhikkhus thus:
 
-2. "Bhikkhus, I abstain from eating at night. By so doing, I am free from illness and affliction, and I enjoy health, strength, and a comfortable abiding. Come, bhikkhus, abstain from eating at night. By so doing, you too will be free from illness and affliction, and you will enjoy health, strength, and a comfortable abiding." ${ }^{696}$
+2. "Bhikkhus, I abstain from eating at night. By so doing, I am free from illness and affliction, and I enjoy health, strength, and a comfortable abiding. Come, bhikkhus, abstain from eating at night. By so doing, you too will be free from illness and affliction, and you will enjoy health, strength, and a comfortable abiding." [^696]
 
 "Yes, venerable sir," they replied.
 
@@ -66,7 +66,7 @@ Seeing this fruit of diligence for such a bhikkhu, I say that he still has work 
 22. "Bhikkhus, I do not say that final knowledge is achieved all at once. On the contrary, final knowledge is achieved by gradual training, by gradual practice, by gradual progress. [480]
 
 23. "And how does there come to be gradual training, gradual practice, gradual progress? Here one who has faith [in a teacher] visits him; when he visits him, he pays respect to him; when he pays respect to him, he gives ear; one who gives ear hears the Dhamma; having heard the Dhamma, he memorises it; he
-examines the meaning of the teachings he has memorised; when he examines their meaning, he gains a reflective acceptance of those teachings; when he has gained a reflective acceptance of those teachings, zeal springs up in him; when zeal has sprung up, he applies his will; having applied his will, he scrutinises; having scrutinised, he strives; resolutely striving, he realises with the body the ultimate truth and sees it by penetrating it with wisdom. ${ }^{708}$
+examines the meaning of the teachings he has memorised; when he examines their meaning, he gains a reflective acceptance of those teachings; when he has gained a reflective acceptance of those teachings, zeal springs up in him; when zeal has sprung up, he applies his will; having applied his will, he scrutinises; having scrutinised, he strives; resolutely striving, he realises with the body the ultimate truth and sees it by penetrating it with wisdom. [^708]
 
 24. "There has not been that faith, [^709] bhikkhus, and there has not been that visiting, and there has not been that paying of respect, and there has not been that giving ear, and there has not been that hearing of the Dhamma, and there has not been that memorising of the Dhamma, and there has not been that examination of the meaning, and there has not been that reflective acceptance of the teachings, and there has not been that zeal, and there has not been that application of will, and there has not been that scrutiny, and there has not been that striving. Bhikkhus, you have lost your way; bhikkhus, you have been practising the wrong way. How far you have strayed, misguided men, from this Dhamma and Discipline!
 

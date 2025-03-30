@@ -103,7 +103,7 @@
 
 Đức Thế Tôn dạy điều này:
 
-33\.  "Bhaddāli, giả sử một người luyện ngựa tài giỏi có được một con ngựa non thuần chủng tốt. Đầu tiên, ông ta tập cho nó quen với việc đeo hàm thiếc (bit). Trong khi con ngựa đang được tập quen với việc đeo hàm thiếc, vì nó đang làm điều chưa từng làm trước đây, nó tỏ ra vặn vẹo, quằn quại, và dao động, nhưng qua sự lặp đi lặp lại liên tục và thực hành dần dần, nó trở nên thuần thục trong hành động đó. ${668}$
+33\.  "Bhaddāli, giả sử một người luyện ngựa tài giỏi có được một con ngựa non thuần chủng tốt. Đầu tiên, ông ta tập cho nó quen với việc đeo hàm thiếc (bit). Trong khi con ngựa đang được tập quen với việc đeo hàm thiếc, vì nó đang làm điều chưa từng làm trước đây, nó tỏ ra vặn vẹo, quằn quại, và dao động, nhưng qua sự lặp đi lặp lại liên tục và thực hành dần dần, nó trở nên thuần thục trong hành động đó. [^668]
 
 "Khi con ngựa đã trở nên thuần thục trong hành động đó, người luyện ngựa tiếp tục tập cho nó quen với việc đeo bộ yên cương (harness). Trong khi con ngựa đang được tập quen với việc đeo bộ yên cương, vì nó đang làm điều chưa từng làm trước đây, nó tỏ ra vặn vẹo, quằn quại, và dao động, nhưng qua sự lặp đi lặp lại liên tục và thực hành dần dần, nó trở nên thuần thục trong hành động đó.
 

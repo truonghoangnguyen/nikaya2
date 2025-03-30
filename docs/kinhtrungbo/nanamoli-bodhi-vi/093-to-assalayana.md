@@ -118,7 +118,7 @@ Khi nghe vậy, thanh niên Bà-la-môn Assalāyana ngồi im lặng, bối rố
 
 "'Nhưng, thưa quý vị, quý vị có biết sự thụ thai (conception of an embryo - gabbhassa avakkanti - quá trình hình thành bào thai trong bụng mẹ) trong bụng mẹ diễn ra như thế nào không?'
 
-"'Thưa ngài, chúng tôi biết sự thụ thai trong bụng mẹ diễn ra như thế nào. [157] Ở đây, có sự giao hợp của cha và mẹ, và đó là lúc người mẹ có thể thụ thai, và chúng sanh sắp tái sanh (being to be reborn - gandhabba - thực thể trung gian giữa hai kiếp sống, chờ đợi điều kiện để nhập thai) có mặt. Như vậy, sự thụ thai trong bụng mẹ diễn ra thông qua sự kết hợp của ba yếu tố này.' ${875}$
+"'Thưa ngài, chúng tôi biết sự thụ thai trong bụng mẹ diễn ra như thế nào. [157] Ở đây, có sự giao hợp của cha và mẹ, và đó là lúc người mẹ có thể thụ thai, và chúng sanh sắp tái sanh (being to be reborn - gandhabba - thực thể trung gian giữa hai kiếp sống, chờ đợi điều kiện để nhập thai) có mặt. Như vậy, sự thụ thai trong bụng mẹ diễn ra thông qua sự kết hợp của ba yếu tố này.' [^875]
 
 "'Vậy thì, thưa quý vị, quý vị có biết chắc chắn rằng chúng sanh sắp tái sanh đó là người quý tộc, Bà-la-môn, thương gia, hay người lao động không?'
 

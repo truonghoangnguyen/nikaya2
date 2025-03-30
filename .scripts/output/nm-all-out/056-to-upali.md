@@ -249,7 +249,7 @@ Having severed conceit, he is the hero:
 
 The Blessed One is he, and I am his disciple.
 
-The leader of the herd, he cannot be measured, his depths are unfathomed, he attained to the silence; ${ }^{593}$
+The leader of the herd, he cannot be measured, his depths are unfathomed, he attained to the silence; [^593]
 
 Provider of safety, possessor of knowledge, he stands in the Dhamma, inwardly restrained;
 
@@ -262,7 +262,7 @@ The immaculate tusker, living in remoteness, with fetters all shattered, fully f
 Skilled in discussion, imbued with wisdom,
 his banner lowered, [^594] he no longer lusts;
 
-Having tamed himself, he no more proliferates: ${ }^{595}$
+Having tamed himself, he no more proliferates: [^595]
 
 The Blessed One is he, and I am his disciple.
 
@@ -276,7 +276,7 @@ The Blessed One is he, and I am his disciple.
 
 He is the Noble One, developed in mind, who has gained the goal and expounds the truth;
 
-Endowed with mindfulness and penetrative insight, he leans neither forwards nor back; ${ }^{597}$
+Endowed with mindfulness and penetrative insight, he leans neither forwards nor back; [^597]
 
 Free from perturbation, attained to mastery:
 
@@ -284,7 +284,7 @@ The Blessed One is he, and I am his disciple.
 
 He has fared rightly and abides in meditation, inwardly undefiled, in purity perfect;
 
-He is independent and altogether fearless, ${ }^{598}$
+He is independent and altogether fearless, [^598]
 
 living secluded, attained to the summit;
 
@@ -312,7 +312,7 @@ The Blessed One is he, and I am his disciple."
 
 "Venerable sir, suppose there were a great heap of many kinds of flowers, [387] and then a clever garland-maker or garland-maker's apprentice were to knot them into a multicoloured garland; so too, venerable sir, the Blessed One has many praiseworthy qualities, many hundred praiseworthy qualities. Who, venerable sir, would not praise the praiseworthy?"
 
-31. Then, since the Niganṭha Nātaputta was unable to bear this honour done to the Blessed One, hot blood then and there gushed from his mouth. ${ }^{599}$
+31. Then, since the Niganṭha Nātaputta was unable to bear this honour done to the Blessed One, hot blood then and there gushed from his mouth. [^599]
 
 ## Notes
 

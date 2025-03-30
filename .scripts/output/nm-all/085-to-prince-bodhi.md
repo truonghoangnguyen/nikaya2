@@ -3,7 +3,7 @@
 
 [91] 1. Thus have I heard. On one occasion the Blessed One was living in the Bhagga country at Sumsumāragira in the Bhesakaḷa Grove, the Deer Park.
 
-2. Now on that occasion a palace named Kokanada had recently been built for Prince Bodhi, and it had not yet been inhabited by any recluse or brahmin or any human being at all. ${ }^{816}$
+2. Now on that occasion a palace named Kokanada had recently been built for Prince Bodhi, and it had not yet been inhabited by any recluse or brahmin or any human being at all. [^816]
 
 3. Then Prince Bodhi addressed the brahmin student Sañjikāputta thus: "Come, my dear Sañjikāputta, go to the Blessed One and pay homage in my name with your head at his feet, and ask whether he is free from illness and affliction and is healthy, strong, and abiding in comfort, saying: 'Venerable sir, Prince Bodhi pays homage with his head at the Blessed One's feet, and he asks whether the Blessed One is free from illness...and abiding in comfort.' Then say this: 'Venerable sir, let the Blessed One together with the Sangha of bhikkhus consent to accept tomorrow's meal from Prince Bodhi."
 
@@ -18,7 +18,7 @@ the Kokanada Palace spread with white cloth down to the last step of the stairca
 
 6. Then, it being morning, the Blessed One dressed, and taking his bowl and outer robe, went to Prince Bodhi's residence.
 
-7. Now on that occasion Prince Bodhi was standing in the outer porch waiting for the Blessed One. When he saw the Blessed One coming in the distance, he went out to meet him and paid homage to him; and then, allowing the Blessed One to precede him, he proceeded to the Kokanada Palace. But the Blessed One stopped at the lowest step of the staircase. Prince Bodhi said to him: "Venerable sir, let the Blessed One step on the cloth, let the Sublime One step on the cloth, that it may lead to my welfare and happiness for a long time." When this was said, the Blessed One was silent. ${ }^{817}$
+7. Now on that occasion Prince Bodhi was standing in the outer porch waiting for the Blessed One. When he saw the Blessed One coming in the distance, he went out to meet him and paid homage to him; and then, allowing the Blessed One to precede him, he proceeded to the Kokanada Palace. But the Blessed One stopped at the lowest step of the staircase. Prince Bodhi said to him: "Venerable sir, let the Blessed One step on the cloth, let the Sublime One step on the cloth, that it may lead to my welfare and happiness for a long time." When this was said, the Blessed One was silent. [^817]
 
 A second time... A third time Prince Bodhi said to him: "Venerable sir, let the Blessed One step on the cloth, let the Sublime One step on the cloth, that it may lead to my welfare and happiness for a long time."
 

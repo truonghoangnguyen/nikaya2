@@ -3,7 +3,7 @@
 
 1. Thus have I heard. On one occasion the Blessed One was living at Vesālī in the Great Wood in the Hall with the Peaked Roof.
 
-2. Now on that occasion the wanderer Vacchagotta was staying in the Wanderers' Park of the Single White-lotus Mango Tree. ${ }^{712}$
+2. Now on that occasion the wanderer Vacchagotta was staying in the Wanderers' Park of the Single White-lotus Mango Tree. [^712]
 
 3. Then, when it was morning, the Blessed One dressed, and taking his bowl and outer robe, went into Vesālī for alms. Then the Blessed One thought: "It is still too early to wander for alms in Vesālī. Suppose I went to the wanderer Vacchagotta in the Wanderers' Park of the Single White-lotus Mango Tree."
 

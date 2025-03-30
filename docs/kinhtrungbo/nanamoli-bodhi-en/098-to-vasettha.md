@@ -31,7 +31,7 @@ Skilled in philology and grammar
 
 We match our teachers in discussion. [117]
 
-3\. A dispute has arisen between us, Gotama, Concerning the question of birth and class: Bhāradvāja says one is a brahmin by birth, While I hold one is a brahmin by action. ${ }^{901}$
+3\. A dispute has arisen between us, Gotama, Concerning the question of birth and class: Bhāradvāja says one is a brahmin by birth, While I hold one is a brahmin by action. [^901]
 
 Know this, O Seer, as our debate.
 
@@ -75,11 +75,11 @@ Make a distinctive mark in them.
 
 17\. Nor in the hands nor in the feet Nor in the fingers or the nails Nor in the knees nor in the thighs Nor in their colour or in voice: Here birth makes no distinctive mark As with the other kinds of birth. [119]
 
-18\. In human bodies in themselves Nothing distinctive can be found. Distinction among human beings Is purely verbal designation. ${ }^{902}$
+18\. In human bodies in themselves Nothing distinctive can be found. Distinction among human beings Is purely verbal designation. [^902]
 
 10.
 
-19\. "Who makes his living among men ${ }^{903}$
+19\. "Who makes his living among men [^903]
 
 By agriculture, you should know
 
@@ -231,7 +231,7 @@ By action is one a brahmin,
 
 By action is one a non-brahmin.
 
-58\. For men are farmers by their acts, ${ }^{905}$
+58\. For men are farmers by their acts, [^905]
 
 And by their acts are craftsmen too;
 
@@ -247,7 +247,7 @@ And men are chaplains by their acts, And by their acts are rulers too. [123]
 
 See action as it really is,
 
-Seers of dependent origination, Skilled in action and its results. ${ }^{906}$
+Seers of dependent origination, Skilled in action and its results. [^906]
 
 61\. Action makes the world go round, Action makes this generation turn.
 
@@ -261,7 +261,7 @@ Self-control and inner training -
 
 By this one becomes a brahmin,
 
-In this supreme brahminhood lies. ${ }^{907}$
+In this supreme brahminhood lies. [^907]
 
 63\. One possessing the triple knowledge,
 
