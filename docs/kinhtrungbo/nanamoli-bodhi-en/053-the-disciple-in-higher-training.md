@@ -22,21 +22,28 @@ down by the western wall facing the east, with the Blessed One before them. And 
 
 Then the Blessed One prepared his patchwork cloak folded in four and lay down on his right side in the lion's pose, with one foot overlapping the other, mindful and fully aware, after noting in his mind the time for rising.
 
+<!--pg-->
 6\. Then the venerable Ānanda addressed Mahānāma the Sakyan thus:
 
 "Mahānāma, here a noble disciple is possessed of virtue, guards the doors of his sense faculties, is moderate in eating, and devoted to wakefulness; he possesses seven good qualities; and he is one who obtains at will, without trouble or difficulty, the four jhānas that constitute the higher mind and provide a pleasant abiding here and now. [355]
 
+<!--pg-->
 7\. "And how is a noble disciple possessed of virtue? Here a noble disciple is virtuous, he dwells restrained with the restraint of the Pātimokkha, he is perfect in conduct and resort, and seeing fear in the slightest fault, he trains by undertaking the training precepts. This is how a noble disciple is possessed of virtue.
 
+<!--pg-->
 8\. "And how does a noble disciple guard the doors of his sense faculties? On seeing a form with the eye, a noble disciple does not grasp at its signs and features. Since, if he left the eye faculty unguarded, evil unwholesome states of covetousness and grief might invade him, he practises the way of its restraint, he guards the eye faculty, he undertakes the restraint of the eye faculty. On hearing a sound with the ear...On smelling an odour with the nose...On tasting a flavour with the tongue...On touching a tangible with the body...on cognizing a mind-object with the mind, a noble disciple does not grasp at its signs and features. Since, if he left the mind faculty unguarded, evil unwholesome states of covetousness and grief
 might invade him, he practises the way of its restraint, he guards the mind faculty, he undertakes the restraint of the mind faculty. That is how a noble disciple guards the doors of his sense faculties.
 
+<!--pg-->
 9\. "And how is a noble disciple moderate in eating? Here, reflecting wisely, a noble disciple takes food neither for amusement nor for intoxication nor for the sake of physical beauty and attractiveness, but only for the endurance and continuance of this body, for ending discomfort, and for assisting the holy life, considering: 'Thus I shall terminate old feelings without arousing new feelings and I shall be healthy and blameless and shall live in comfort.' That is how a noble disciple is moderate in eating.
 
+<!--pg-->
 10\. "And how is a noble disciple devoted to wakefulness? Here, during the day, while walking back and forth and sitting, a noble disciple purifies his mind of obstructive states. In the first watch of the night, while walking back and forth and sitting, he purifies his mind of obstructive states. In the middle watch of the night he lies down on the right side in the lion's pose with one foot overlapping the other, mindful and fully aware, after noting in his mind the time for rising. After rising, in the third watch of the night, while walking back and forth and sitting, he purifies his mind of obstructive states. That is how a noble disciple is devoted to wakefulness. [356]
 
+<!--pg-->
 11\. "And how does a noble disciple possess seven good qualities? Here a noble disciple has faith; he places his faith in the Tathāgata's enlightenment thus: 'The Blessed One is accomplished, fully enlightened, perfect in true knowledge and conduct, sublime, knower of worlds, incomparable leader of persons to be tamed, teacher of gods and humans, enlightened, blessed.'
 
+<!--pg-->
 12\. "He has shame; he is ashamed of misconduct in body, speech, and mind, ashamed of engaging in evil unwholesome deeds.
 
 13\. "He has fear of wrongdoing; he is afraid of misconduct in body, speech, and mind, afraid of engaging in evil unwholesome deeds. [^559]
@@ -54,6 +61,7 @@ with the right meaning and phrasing, and affirm a holy life that is utterly perf
 
 19\. "When a noble disciple has thus become one who is possessed of virtue, who guards the doors of his sense faculties, who is moderate in eating, who is devoted to wakefulness, who possesses seven good qualities, [357] who obtains at will, without trouble or difficulty, the four jhānas that constitute the higher mind and provide a pleasant abiding here and now, he is called one in higher training who has entered upon the way. His eggs are unspoiled; he is capable of breaking out, capable of enlightenment, capable of attaining the supreme security from bondage.
 
+<!--pg-->
 "Suppose there were a hen with eight or ten or twelve eggs, which she had covered, incubated, and nurtured properly. [^562]
 
 Even though she did not wish: 'Oh, that my chicks might pierce their shells with the points of their claws and beaks and hatch out safely!' yet the chicks are capable of piercing their shells with the points of their claws and beaks and hatching out safely. So too, when a noble disciple has thus become one who is possessed of virtue...he is called one in higher training who has entered upon the way. His eggs are unspoiled; he is capable of breaking out, capable of enlightenment, capable of attaining the supreme security from bondage.

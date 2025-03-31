@@ -12,6 +12,7 @@ việc. Rồi gia chủ Dasama, người ở thành Atthaka (Bát thành) đi đ
 Tỷ-kheo, đảnh lễ vị này, rồi ngồi xuống một bên. Sau khi ngồi xuống một bên, gia chủ Dasama, người ở
 thành Atthaka thưa với Tỷ-kheo ấy:
 
+<!--pg-->
 -- Bạch Tôn giả, Tôn giả Ananda nay an trú ở đâu? Chúng con muốn gặp Tôn giả Ananda.
 
 -- Này Gia chủ, Tôn giả Ananda nay ở Vesali, tại ấp Beluvagamaka.
@@ -35,6 +36,7 @@ Chánh Ðẳng Giác tuyên bố, nếu có Tỷ-kheo nào không phóng dật, 
 pháp ấy, thời tâm chưa giải thoát của vị ấy được giải thoát, và các lậu hoặc chưa được đoạn trừ đi đến
 đoạn trừ, và pháp vô thượng an ổn khỏi các ách phược chưa được chứng đạt được chứng đạt?
 
+<!--pg-->
 -- Ở đây, này Gia chủ, Tỷ-kheo ly dục, ly bất thiện pháp chứng và trú Thiền thứ nhất, một trạng thái hỷ
 lạc do ly dục sanh, có tầm, có tứ. Vị ấy suy tư và được biết: "Sơ Thiền này là pháp hữu vi, do suy tư tác
 thành. Phàm sự vật gì là pháp hữu vi, do suy tư tác thành, thời sự vật ấy là vô thường, chịu sự đoạn
@@ -50,7 +52,6 @@ Lại nữa, này Gia chủ, vị Tỷ-kheo diệt tầm và tứ, chứng và t
 định sanh, không tầm không tứ, nội tĩnh nhất tâm, vị ấy suy tư và được biết: "Thiền thứ hai này là pháp
 hữu vi, do suy tư tác thành. Phàm sự vật gì là pháp hữu vi, do suy tư tác thành, thời sự vật ấy là vô
 thường, chịu sự đoạn diệt". Vị ấy vững trú ở đây, đoạn trừ được các lậu hoặc. Và nếu các lậu hoặc chưa
-
 được đoạn trừ, do tham luyến pháp này, do hoan hỷ pháp này, vị ấy đoạn trừ được năm hạ phần kiết sử,
 được hóa sanh, nhập Niết-bàn tại cảnh giới ấy, khỏi phải trở lui đời này. Này Gia chủ, như vậy là pháp
 độc nhất do Thế Tôn bậc Tri Giả, Kiến Giả, bậc A-la-hán, Chánh Ðẳng Giác tuyên bố. Nếu Tỷ-kheo nào
@@ -80,6 +81,7 @@ phóng dật, nhiệt tâm, tinh cần, sống hành trì pháp ấy, thời tâ
 các lậu hoặc chưa được đoạn trừ đi đến đoạn trừ, và pháp vô thượng an ổn khỏi các ách phược chưa
 chứng đạt được chứng đạt.
 
+<!--pg-->
 Lại nữa, này Gia chủ, Tỷ-kheo an trú biến mãn một phương với tâm câu hữu với từ; cũng vậy phương
 thứ hai, cũng vậy phương thứ ba, cũng vậy phương thứ tư. Như vậy cùng khắp thế giới, trên dưới bề
 ngang, hết thảy phương xứ, cùng khắp vô biên giới, vị ấy an trú biến mãn với tâm câu hữu với từ, quảng
@@ -102,11 +104,11 @@ suy tư tác thành, thời sự vật ấy là vô thường, chịu sự đo�
 lậu hoặc. Và nếu các lậu hoặc chưa được đoạn trừ, do tham luyến pháp này, do hoan hỷ pháp này, vị ấy
 đoạn trừ được năm hạ phần kiết sử, được hóa sanh, nhập Niết-bàn tại cảnh giới ấy, khỏi phải trở lui đời
 này. Này Gia chủ, như vậy là pháp độc nhất do Thế Tôn bậc Tri Giả, Kiến Giả, bậc A-la-hán, Chánh
-
 Ðẳng Giác tuyên bố. Nếu Tỷ-kheo nào không phóng dật, nhiệt tâm, tinh cần, sống hành trì pháp ấy, thời
 tâm vị ấy chưa giải thoát được giải thoát, và các lậu hoặc chưa được đoạn trừ đi đến đoạn trừ, và pháp
 vô thượng an ổn khỏi các ách phược chưa chứng đạt được chứng đạt.
 
+<!--pg-->
 Lại nữa, này Gia chủ, Tỷ-kheo vượt lên mọi sắc tưởng, diệt trừ mọi chướng ngại tưởng, không tác ý đối
 với dị tưởng, Tỷ-kheo nghĩ rằng: "Hư không là vô biên", chứng và trú Không vô biên xứ. Vị này suy tư
 và được biết: "Không vô biên xứ định này là pháp hữu vi, do suy tư tác thành. Phàm sự vật gì là pháp
@@ -140,6 +142,7 @@ nhiệt tâm, tinh cần, sống hành trì pháp ấy, thời tâm vị ấy ch
 chưa được đoạn trừ đi đến đoạn trừ, pháp vô thượng an ổn khỏi các ách phược chưa được chứng đạt
 được chứng đạt.
 
+<!--pg-->
 Khi được nghe nói vậy, Gia chủ Dasama, người ở thành Atthaka bạch Tôn giả Ananda:
 
 -- Bạch Tôn giả Ananda, như người tìm một kho tàng cất dấu, trong một lúc tìm được mười một kho

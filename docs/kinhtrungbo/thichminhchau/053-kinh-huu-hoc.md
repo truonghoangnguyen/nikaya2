@@ -1,4 +1,4 @@
-# 53. KINH HỮU HỌC
+    # 53. KINH HỮU HỌC
 
 **53. KINH HỮU HỌC**
 ***(Sekha Sutta)***
@@ -43,18 +43,20 @@ Tôn giả Ananda vâng đáp Thế Tôn. Rồi Thế Tôn trải đại y gấp
 hữu như dáng nằm con sư tử chân gác trên chân với nhau, chánh niệm tỉnh giác, hướng niệm đến lúc
 ngồi dậy lại.
 
+<!--pg-->
 Rồi Tôn giả Ananda nói với Sakya Mahanama:
 
 -- Ở đây, này Mahanama, vị Thánh đệ tử, thành tựu giới hạnh, hộ trì các căn, biết tiết độ trong ăn uống,
 chú tâm cảnh giác, thành tựu bảy diệu pháp, hiện tại lạc trú bốn Thiền, thuộc tăng thượng tâm, chứng
 đắc không khó khăn, chứng đắc không mệt nhọc, chứng đắc không phí sức.
 
+<!--pg-->
 Và này Mahanama, thế nào là vị Thánh đệ tử thành tựu giới hạnh ? Ở đây, này Mahanama, vị Thánh đệ
-
 tử có giới hạnh, sống chế ngự với sự chế ngự của giới bổn Patimokkha, đầy đủ oai nghi chánh hạnh,
 thấy nguy hiểm trong những lỗi nhỏ nhặt, thọ lãnh và tu học các học pháp. Này Mahanama, như vậy là
 vị Thánh đệ tử thành tựu giới hạnh.
 
+<!--pg-->
 Và này Mahanama, thế nào là vị Thánh đệ tử hộ trì các căn ? Ở đây, này Mahanama, vị Thánh đệ tử, khi
 mắt thấy sắc, không nắm giữ tướng chung, không nắm giữ tướng riêng. Những nguyên nhân gì vì nhãn
 căn không được chế ngự, khiến tham ưu, các ác, bất thiện pháp khởi lên, vị ấy tự chế ngự nguyên nhân
@@ -64,6 +66,7 @@ Những nguyên nhân gì vì ý căn không được chế ngự, khiến tham 
 ấy chế ngự nguyên nhân ấy, hộ trì ý căn, thực hành sự hộ trì ý căn. Này Mahanama, như vậy là vị Thánh
 đệ tử hộ trì các căn.
 
+<!--pg-->
 Và này Mahanama, thế nào là vị Thánh đệ tử biết tiết độ trong ăn uống ? Ở đây, này Mahanama, vị
 Thánh đệ tử chơn chánh giác sát, thọ dụng món ăn, không phải để vui đùa, không phải để đam mê,
 không phải để trang sức, không phải để tự làm đẹp mình, chỉ để thân này được duy trì, được bảo dưỡng,
@@ -71,6 +74,7 @@ khỏi bị gia hại, để chấp trì Phạm hạnh, nghĩ rằng: "Như vậ
 lên các cảm thọ mới; và ta sẽ không phạm lỗi lầm, sống được an ổn". Này Mahanama, như vậy là vị
 Thánh đệ tử biết tiết độ trong sự ăn uống.
 
+<!--pg-->
 Và này Mahanama, thế nào là vị Thánh đệ tử chú tâm cảnh giác ? Ở đây, này Mahanama, vị Thánh đệ tử
 ban ngày trong khi đi kinh hành và trong khi đang ngồi, gột sạch tâm trí khỏi các chướng ngại pháp, ban
 đêm trong canh một, trong khi đi kinh hành và trong khi đang ngồi, gột sạch tâm trí khỏi các chướng
@@ -79,6 +83,7 @@ chân gác trên chân với nhau, chánh niệm tỉnh giác, hướng niệm �
 canh cuối, khi đã thức dậy, trong khi đi kinh hành và trong khi đang ngồi, gột sạch tâm trí khỏi các
 chướng ngại pháp. Này Mahanama, như vậy là vị Thánh đệ tử chú tâm cảnh giác.
 
+<!--pg-->
 Và này Mahanama, thế nào là vị Thánh đệ tử thành tựu bảy diệu pháp ? Ở đây, này Mahanama, vị
 Thánh đệ tử có lòng tin, có lòng tin ở sự giác ngộ của Như Lai: Ngài là Thế Tôn, bậc A-la-hán, Chánh
 Ðẳng Giác, Minh Hạnh Túc, Thiện Thệ, Thế Gian Giải, Vô Thượng Sĩ, Ðiều Ngự Trượng Phu, Thiên
@@ -93,6 +98,7 @@ tựu niệm tuệ tối thắng, nhớ lại, nhớ lại nhiều lần những
 thành tựu trí tuệ về sanh diệt, thành tựu Thánh thể nhập đưa đến chơn chánh đoạn tận khổ đau. Này
 Mahanama, như vậy vị Thánh đệ tử thành tựu bảy diệu pháp.
 
+<!--pg-->
 Và này, Mahanama, thế nào là vị Thánh đệ tử hiện tại lạc trú bốn Thiền, thuộc tăng thượng tâm, chứng
 đắc không khó khăn, chứng đắc không mệt nhọc, chứng đắc không phí sức? Ở đây, này Mahanama, (vị
 ấy) ly dục, ly bất thiện pháp, chứng và trú Sơ thiền, một trạng thái hỷ lạc do ly dục sanh, có tầm, có tứ.
@@ -110,6 +116,7 @@ phí sức như vậy, này Mahanama, vị Thánh đệ tử ấy được gọi
 trứng không bị hư hoại, có khả năng phá vỡ, có khả năng giác ngộ, có khả năng chứng đạt vô thượng an
 ổn khỏi các ách phược.
 
+<!--pg-->
 Này Mahanama, ví như có tám, có mười hay có mười hai trứng gà, được gà mái khéo ấp ngồi, khéo ấp
 nóng, khéo ấp dưỡng; dầu cho con gà mái ấy không khởi lên ý muốn: "Mong rằng, các con gà con của
 ta, sau khi phá vỡ vỏ trứng với móng chân, hay với mỏ của chúng, thoát ra ngoài một cách an toàn".
