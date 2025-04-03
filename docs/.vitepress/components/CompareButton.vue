@@ -76,7 +76,7 @@ function toHomeCompare(url) {
   return finalURL;
 }
 
-function sayHello() {
+function toComparePage() {
   const currentURL = window.location.pathname; // Get the current URL from the browser
     //  console.log(currentURL);
 
@@ -84,14 +84,17 @@ function sayHello() {
 
   if (newURL) {
     console.log("Generated URL:", newURL);
-    window.location.href = newURL;
+    window.open(newURL, '_blank');
+  }
+  else{
+    window.location.href = "/compare";
   }
 }
 </script>
 
 <template>
   <div class="compare-button-container">
-    <button class="compare-button" @click="sayHello" title="Compare translations">
+    <button class="compare-button" @click="toComparePage" title="Compare translations">
       <svg class="icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
         <path d="M16 3l4 4-4 4"></path>
         <path d="M20 7H4"></path>

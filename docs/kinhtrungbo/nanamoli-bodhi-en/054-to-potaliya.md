@@ -28,6 +28,7 @@ A third time the Blessed One said to him: "There are seats, householder, sit dow
 
 "Yes, venerable sir," Potaliya the householder replied. The Blessed One said this:
 
+<!--pg-->
 4\. "Householder, there are these eight things in the Noble One's Discipline that lead to the cutting off of affairs. What are the eight? With the support of the non-killing of living beings, the killing of living beings is to be abandoned. With the support of taking only what is given, the taking of what is not given is to be abandoned. With the support of truthful speech, false speech is to be abandoned. With the support of unmalicious speech, malicious speech is to be abandoned. With the support of refraining from rapacious greed, [^567] rapacious greed is to be abandoned. With the support of refraining from spiteful scolding, spiteful scolding is to be abandoned. With the support of refraining from angry despair, angry despair is to be abandoned. With the support of non-arrogance, arrogance is to be abandoned. These are the eight things, stated in brief without being expounded in detail, that lead to the cutting off of affairs in the Noble One's Discipline."
 
 5\. "Venerable sir, it would be good if, out of compassion, the Blessed One would expound to me in detail these eight things that lead to the cutting off of affairs in the Noble One's Discipline, which have been stated in brief by the Blessed One without being expounded in detail."
@@ -35,6 +36,7 @@ A third time the Blessed One said to him: "There are seats, householder, sit dow
 "Then listen, householder, and attend closely to what I shall say."
 "Yes, venerable sir," Potaliya the householder replied. The Blessed One said this: [361]
 
+<!--pg-->
 6\. "'With the support of the non-killing of living beings, the killing of living beings is to be abandoned.' So it was said. And with reference to what was this said? Here a noble disciple considers thus: 'I am practising the way to the abandoning and cutting off of those fetters because of which I might kill living beings. If I were to kill living beings, I would blame myself for doing so; the wise, having investigated, would censure me for doing so; and on the dissolution of the body, after death, because of killing living beings an unhappy destination would be expected. But this killing of living beings is itself a fetter and a hindrance. [^568] And while taints, vexation, and fever might arise through the killing of living beings, there are no taints, vexation, and fever in one who abstains from killing living beings.' So it is with reference to this that it was said: 'With the support of the non-killing of living beings, the killing of living beings is to be abandoned.'
 
 7\. "'With the support of taking only what is given, the taking of what is not given is to be abandoned.' So it was said...
@@ -52,6 +54,7 @@ A third time the Blessed One said to him: "There are seats, householder, sit dow
 13\. "'With the support of non-arrogance, arrogance is to be abandoned.' So it was said. And with reference to what was this said? Here a noble disciple considers thus: 'I am practising the way to the abandoning and cutting off of those fetters because of which I might be arrogant. If I were to be arrogant, I would blame myself for this; the wise, having investigated, would censure me for this; and on the dissolution of the body, after death, because of being arrogant an unhappy destination would be expected. But this arrogance is itself a fetter and a hindrance. And while taints, vexation, and fever might arise through arro-
 gance, there are no taints, vexation, and fever for one who is not arrogant.' So it is with reference to this that it was said: 'With the support of non-arrogance, arrogance is to be abandoned. [^1569] [364]
 
+<!--pg-->
 14\. "These eight things that lead to the cutting off of affairs in the Noble One's Discipline have now been expounded in detail. But the cutting off of affairs in the Noble One's Discipline has not yet been achieved entirely and in all ways."
 
 "Venerable sir, how is the cutting off of affairs in the Noble One's Discipline achieved entirely and in all ways? It would be good, venerable sir, if the Blessed One would teach me the Dhamma, showing me how the cutting off of affairs in the Noble One's Discipline is achieved entirely and in all ways."
@@ -97,6 +100,7 @@ by the Blessed One; they provide much suffering and much despair, while the dang
 "Yes, venerable sir."
 "So too, householder, a noble disciple considers thus: 'Sensual pleasures have been compared to a fruit tree by the Blessed One; they provide much suffering and much despair, while the danger in them is great.' Having seen this thus as it actually is with proper wisdom, he avoids the equanimity that is diversified, based on diversity, and develops the equanimity that is unified, based on unity, where clinging to the material things of the world utterly ceases without remainder.
 
+<!--pg-->
 22\. "Having arrived at that same supreme mindfulness whose purity is due to equanimity, this noble disciple recollects his manifold past lives, that is, one birth, two births...(as Sutta 51, §24)...Thus with their aspects and particulars he recollects his manifold past lives.
 
 23\. "Having arrived at that same supreme mindfulness whose purity is due to equanimity, with the divine eye, which is purified and surpasses the human, this noble disciple sees beings passing away and reappearing, inferior and superior, fair and ugly, fortunate and unfortunate...(as Sutta 51, §25)...and he understands how beings pass on according to their actions.

@@ -57,6 +57,7 @@ không bằng được, ý phạt không bằng được.
 Như vậy Thế Tôn trong cuộc đàm thoại này đã làm Nigantha Dighatapassi xác nhận cho đến lần thứ ba
 quan điểm (của mình).
 
+<!--pg-->
 Khi nghe nói vậy, Nigantha Dighatapassi nói với Thế Tôn:
 
 -- Hiền giả Gotama, Hiền giả chủ trương có bao nhiêu loại phạt để tác thành ác nghiệp, để diễn tiến ác
@@ -98,6 +99,7 @@ không bằng được.
 Như vậy Nigantha Dighatapassi trong cuộc đàm thoại này, sau khi đã làm Thế Tôn xác nhận cho đến lần
 thứ ba quan điểm (của mình), liền từ chỗ ngồi đứng dậy và đi đến chỗ Nigantha Nataputta.
 
+<!--pg-->
 Lúc bấy giờ, Nigantha Nataputta đang ngồi với một đại chúng gia chủ rất đông, do Upali (Ưu-ba-ly)
 người thuộc làng Balaka cầm đầu. Nigantha Nataputta thấy Nigantha Dighatapassi từ xa đi đến, sau khi
 
@@ -121,6 +123,7 @@ tử đa văn đã hiểu đúng đắn lời dạy bậc Ðạo sư. Làm sao m
 với thân phạt cường đại này được? Thân phạt thật là tối trọng để tác thành ác nghiệp, để diễn tiến ác
 nghiệp, khẩu nghiệp không bằng được, ý nghiệp không bằng được.
 
+<!--pg-->
 Khi được nói vậy, gia chủ Upali thưa với Nigantha Nataputta:
 
 -- Tốt lành thay, tốt lành thay, Tôn giả Tapassi! Sa-môn Gotama đã được Tôn giả Tapassi trả lời như
@@ -141,6 +144,7 @@ Gotama. Thưa Tôn giả, con sẽ đi và luận chiến với Sa-môn Gotama t
 -- Này Gia chủ, hãy đi và luận chiến với Sa-môn Gotama trong cuộc đàm thoại này. Vì rằng, này Gia
 chủ, chỉ có ta hay Nigantha Dighatapassi, hay Ông mới có thể luận chiến với Sa-môn Gotama.
 
+<!--pg-->
 Khi được nói vậy, Nigantha Dighatapassi nói với Nigantha Nataputta:
 
 -- Thưa Tôn giả, con không được hài lòng để Gia chủ Upali luận chiến với Sa-môn Gotama. Thưa Tôn
@@ -165,6 +169,7 @@ thể luận chiến với Sa-môn Gotama!
 
 -- Thưa vâng, Tôn giả.
 
+<!--pg-->
 Gia chủ Upali vâng đáp Nigantha Nataputta, từ chỗ ngồi đứng dậy, đảnh lễ Nigantha Nataputta, thân
 hữu hướng về Nigantha Nataputta, và đi đến rừng xoài Pavarika, chỗ Thế Tôn ở, sau khi đến, đảnh lễ
 Thế Tôn rồi ngồi xuống một bên. Sau khi ngồi xuống một bên, gia chủ Upali bạch Thế Tôn:
@@ -192,6 +197,7 @@ chúng ta.
 
 -- Bạch Thế Tôn, con sẽ đàm luận y cứ trên sự thật. Mong rằng ở đây có cuộc đàm thoại giữa chúng ta.
 
+<!--pg-->
 -- Này Gia chủ, Ông nghĩ thế nào? Ở đây, có người Nigantha, bệnh hoạn, đau khổ, bạo bệnh, từ chối
 nước lạnh, chỉ uống nước nóng. Người này, vì không được nước lạnh nên mệnh chung. Này Gia chủ,
 theo Nigantha Nataputta, người ấy tái sanh chỗ nào?
@@ -202,7 +208,6 @@ sao vậy? Bạch Thế Tôn, vì người ấy chấp trước ý nên mệnh c
 -- Gia chủ, Gia chủ! Sau khi suy nghĩ kỹ. Ông hãy trả lời. Lời nói trước của Ông không phù hợp lời nói
 sau của Ông! Lời nói sau của Ông không phù hợp lời nói trước của Ông! Thế mà này Gia chủ, Ông đã
 nói như sau: "Bạch Thế Tôn, con sẽ đàm luận y cứ trên sự thật. Mong rằng ở đây sẽ có cuộc đàm thoại
-
 giữa chúng ta".
 
 -- Bạch Thế Tôn, dầu Thế Tôn có nói như vậy, nhưng chỉ có thân phạt mới là tối trọng để tác thành ác
@@ -284,6 +289,7 @@ của Ông, lời nói sau của Ông không phù hợp lời nói trước củ
 như sau: "Bạch Thế Tôn, con sẽ đàm luận y cứ trên sự thật. Mong rằng ở đây sẽ có cuộc đàm luận giữa
 chúng ta".
 
+<!--pg-->
 -- Bạch Thế Tôn, với ví dụ đầu tiên, con đã hoan hỷ, con đã thỏa mãn. Những gì con muốn nghe các vấn
 đáp sai biệt của Thế Tôn, nên con mới nghĩ đóng vai trò đối lập với Thế Tôn. Thật vi diệu thay, bạch
 Thế Tôn! Thật vị diệu thay, bạch Thế Tôn! Như người dựng đứng lại những gì bị quăng ngã xuống, phơi
@@ -316,6 +322,7 @@ và chúng con ở đây sẽ biết thời nên làm. Bạch Thế Tôn, lần 
 và quy y chúng Tỷ-kheo Tăng. Mong Thế Tôn nhận con làm cư sĩ, từ nay cho đến mạng chung, con trọn
 đời quy ngưỡng.
 
+<!--pg-->
 Rồi Thế Tôn thuận thứ thuyết pháp cho gia chủ Upali, tức là thuyết về bố thí, thuyết về giới, thuyết về
 các cõi trời, trình bày sự nguy hiểm, sự hạ liệt, sự nhiễm ô các dục lạc, những lợi ích của xuất ly. Khi
 Thế Tôn biết gia chủ Upali tâm đã sẵn sàng, tâm đã nhu thuận, tâm không triền cái, tâm được phấn khởi,
@@ -330,6 +337,7 @@ chủ Upali bạch Thế Tôn:
 
 -- Này Gia chủ, Ông hãy làm những gì Ông nghĩ là hợp thời.
 
+<!--pg-->
 Rồi Gia chủ Upali hoan hỷ tín thọ lời Thế Tôn dạy, từ chỗ ngồi đứng dậy, đảnh lễ Thế Tôn, thân bên
 hữu hướng về Ngài, rồi đi về trú xá của mình, sau khi đến bèn nói với người giữ cửa như sau:
 
@@ -443,6 +451,7 @@ Nataputta:
 
 Rồi Nigantha Nataputta với đại chúng Nigantha đi đến căn phòng ở giữa, có cửa.
 
+<!--pg-->
 Gia chủ Upali lúc trước mỗi khi thấy Nigantha Nataputta từ xa đi đến, sau khi thấy liền đi ra nghinh tiếp
 vào tại chỗ nào có chỗ ngồi tối thượng, tối tôn, tối cao và tối thắng, liền lấy thượng y lau chỗ ngồi ấy,
 giữ lấy và mời Nigantha Nataputta ngồi trên chỗ ngồi ấy. Nhưng tại chỗ có chỗ ngồi tối thượng, tối tôn,

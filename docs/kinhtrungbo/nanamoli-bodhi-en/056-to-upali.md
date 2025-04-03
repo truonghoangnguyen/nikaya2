@@ -34,6 +34,7 @@
 
 Thus the Blessed One made the Niganṭha Dīgha Tapassi maintain his statement up to the third time. [373]
 
+<!--pg-->
 4\. Then the Niganṭha Dīgha Tapassi asked the Blessed One: "And you, friend Gotama, how many kinds of rod do you describe for the performance of evil action, for the perpetration of evil action?"
 
 "Tapassi, the Tathāgata is not accustomed to use the description 'rod, rod'; the Tathāgata is accustomed to use the description 'action, action.'"
@@ -63,6 +64,7 @@ Thus the Blessed One made the Niganṭha Dīgha Tapassi maintain his statement u
 
 Thus the Niganṭha Dīgha Tapassi made the Blessed One maintain his statement up to the third time, after which he rose from his seat and went to the Niganṭha Nātaputta.
 
+<!--pg-->
 5\. Now on that occasion the Niganṭha Nātaputta was seated together with a very large assembly of laymen from Bālaka, most prominent among them being Upāli. The Niganṭha Nātaputta saw the Niganṭha Dīgha Tapassi coming in the distance and asked him: "Now where are you coming from in the middle of the day, Tapassi?"
 
 "I am coming from the presence of the recluse Gotama, venerable sir."
@@ -77,11 +79,13 @@ Then the Niganṭha Dīgha Tapassi related to the Niganṭha Nātaputta his enti
 
 6\. When this was said, the Niganṭha Nātaputta told him: "Good, good, Tapassi! The Niganṭha Dīgha Tapassi has answered the recluse Gotama like a well-taught disciple who understands his teacher's dispensation rightly. What does the trivial mental rod count for in comparison with the gross bodily rod? On the contrary, the bodily rod is the most reprehensible for the performance of evil action, for the perpetration of evil action, and not so much the verbal rod and the mental rod."
 
+<!--pg-->
 7\. When this was said, the householder Upāli said to the Niganṭha Nātaputta: "Good, good, venerable sir, [on the part of] Digha Tapassi! The venerable Tapassi has answered the recluse Gotama like a well-taught disciple who understands his
 teacher's dispensation rightly. What does the trivial mental rod count for in comparison with the gross bodily rod? On the contrary, the bodily rod is the most reprehensible for the performance of evil action, for the perpetration of evil action, and not so much the verbal rod and the mental rod. Now, venerable sir, I shall go and refute the recluse Gotama's doctrine on the basis of this statement. If the recluse Gotama maintains before me what the venerable Dīgha Tapassi made him maintain, then just as a strong man [^582] might seize a long-haired ram by the hair and drag him to and drag him fro and drag him round about, so in debate I will drag the recluse Gotama to and drag him fro and drag him round about. Just as a strong brewer's workman might throw a big brewer's sieve into a deep water tank, and taking it by the corners, might drag it to and drag it fro and drag it round about, so in debate I will drag the recluse Gotama to and drag him fro and drag him round about. Just as a strong brewer's mixer might take a strainer by the corners and shake it down and shake it up and thump it about, so in debate I will shake the recluse Gotama down [375] and shake him up and thump him about. And just as a sixty-year-old elephant might plunge into a deep pond and enjoy playing the game of hemp-washing, so I shall enjoy playing the game of hemp-washing with the recluse Gotama. Venerable sir, I shall go and refute the recluse Gotama's doctrine on the basis of this statement."
 
 "Go, householder, and refute the recluse Gotama's doctrine on the basis of this statement. For either I should refute the recluse Gotama's doctrine or else the Niganṭha Dīgha Tapassi or you yourself."
 
+<!--pg-->
 8\. When this was said, the Niganṭha Dīgha Tapassi said to the Niganṭha Nātaputta: "Venerable sir, I do not think that the householder Upāli should [try to] refute the recluse Gotama's doctrine. For the recluse Gotama is a magician and knows a converting magic by which he converts disciples of other sectarians."
 
 "It is impossible, Tapassi, it cannot happen that the householder Upāli should go over to discipleship under the recluse Gotama; but it is possible, it can happen that the recluse Gotama might come over to discipleship under the householder Upāli. Go, householder, and refute the recluse Gotama's doctrine. For either I should refute the recluse Gotama's doctrine or else the Niganṭha Dīgha Tapassi or you yourself."
@@ -90,6 +94,7 @@ For the second time...For the third time, the Nigantha Dīgha Tapassi said to th
 
 "It is impossible, Tapassi, it cannot happen that the householder Upāli should go over to discipleship under the recluse Gotama; but it is possible, it can happen that the recluse Gotama might come over to discipleship under the householder Upāli. Go, householder, and refute the recluse Gotama's doctrine. For either I should refute the recluse Gotama's doctrine or else the Niganṭha Dīgha Tapassi or you yourself."
 
+<!--pg-->
 9\. "Yes, venerable sir," the householder Upāli replied, and he rose from his seat, and after paying homage to the Niganṭha Nātaputta, keeping him on his right, he left to go to the Blessed One in Pāvārika's Mango Grove. [376] There, after paying homage to the Blessed One, he sat down at one side and asked the Blessed One: "Venerable sir, did the Niganṭha Dīgha Tapassi come here?"
 
 "The Niganṭha Dīgha Tapassi came here, householder."
@@ -108,6 +113,7 @@ Then the Blessed One related to the householder Upāli his entire conversation w
 
 "I will debate on the basis of truth, venerable sir, so let us have some conversation about this."
 
+<!--pg-->
 11\. "What do you think, householder? Here some Niganṭha might be afflicted, suffering, and gravely ill [with an illness
 needing treatment by cold water, which his vows prohibit] and he might refuse cold water [though mentally longing for it] and use only [the permissible] hot water [thus keeping his vows bodily and verbally]. Because he does not get cold water he might die. Now, householder, where would the Niganṭha Nātaputta describe his rebirth [as taking place]?"
 
@@ -153,6 +159,7 @@ evil action, for the perpetration of evil action, and not so much the verbal rod
 14\. "What do you think, householder? Have you heard how the Daṇdaka, Kālinga, Mejjha, and Mātanga forests became forests?"587 - "Yes, venerable sir." - "As you heard it, how did they become forests?" - "Venerable sir, I heard that they became forests by means of a mental act of hate on the part of the seers."
 "Householder, householder, pay attention how you reply! What you said before does not agree with what you said afterwards, nor does what you said afterwards agree with what you said before. Yet you made this statement: 'I will debate on the basis of truth, venerable sir, so let us have some conversation about this.'"
 
+<!--pg-->
 15\. "Venerable sir, I was satisfied and pleased by the Blessed One's very first simile. Nevertheless, I thought I would oppose the Blessed One thus since I desired to hear the Blessed One's varied solutions to the problem. Magnificent, venerable sir! Magnificent, venerable sir! The Blessed One has made the Dhamma clear in many ways, as though he were turning upright what had been overthrown, revealing what was hidden, showing the way to one who was lost, or holding up a lamp in the dark for those with eyesight to see forms. Venerable sir, I go to the Blessed One for refuge [379] and to the Dhamma and to the Sangha of bhikkhus. Let the Blessed One remember me as a lay follower who has gone to him for refuge for life."
 
 16\. "Investigate thoroughly, householder. It is good for such well-known people like you to investigate thoroughly."
@@ -165,10 +172,12 @@ evil action, for the perpetration of evil action, and not so much the verbal rod
 
 Only what is given to my disciples is very fruitful, not what is given to others' disciples.' But, on the contrary, the Blessed One encourages me to give gifts to the Niganthas. Anyway we shall know the time for that, venerable sir. So for the third time, venerable sir, I go to the Blessed One for refuge and to the Dhamma and to the Sangha of bhikkhus. Let the Blessed One remember me as a lay follower who has gone to him for refuge for life."
 
+<!--pg-->
 18\. Then the Blessed One gave the householder Upāli progressive instruction, that is, talk on giving, talk on virtue, talk on the heavens; he explained the danger, degradation, and defilement in sensual pleasures and the blessing of renunciation. When he knew that the householder Upāli's mind [380] was ready, receptive, free from hindrances, elated, and confident, he expounded to him the teaching special to the Buddhas: suffering, its origin, its cessation, and the path. Just as a clean cloth with all marks removed would take dye evenly, so too, while the householder Upāli sat there, the spotless immaculate vision of the Dhamma arose in him: "All that is subject to arising is subject to cessation. [^588] Then the householder Upāli saw the Dhamma, attained the Dhamma, understood the Dhamma, fathomed the Dhamma; he crossed beyond doubt, did away with perplexity, gained intrepidity, and became independent of others in the Teacher's Dispensation. [^589] Then he said to the Blessed One: "Now, venerable sir, we must go. We are busy and have much to do."
 
 "Now is the time, householder, to do as you think fit."
 
+<!--pg-->
 19\. Then the householder Upāli, having delighted and rejoiced in the Blessed One's words, rose from his seat, and after paying homage to the Blessed One, keeping him on his right, he left to return to his own house. There he addressed the doorkeeper thus: "Good doorkeeper, from today on I close my door to the Niganthas and the Niganthīs, and I open my door to the Blessed One's bhikkhus, bhikkhunīs, men lay followers, and women lay followers. If any Nigantha comes, then tell him thus: 'Wait, venerable sir, do not enter. From today on the householder Upāli has gone over to discipleship under the recluse Gotama. He has closed his door to the Niganthas and Niganthī, and he has opened it to the Blessed One's bhikkhus, bhikkhunīs, men lay followers, and women lay followers. Venerable sir, if you need alms, wait here; they will bring it to you here.'" - "Yes, venerable sir," the doorkeeper replied.
 
 20\. The Niganṭha Dīgha Tapassi heard: "The householder Upāli has gone over to discipleship under the recluse Gotama." Then he went to the Niganṭha Nātaputta and told him: "Venerable sir, I have heard thus: 'The householder Upāli has gone over to discipleship under the recluse Gotama.'"
@@ -202,6 +211,7 @@ A second time...And a third time the Niganṭha Digha Tapassi told the Niganṭh
 
 "Yes, venerable sir," he replied, and after he had made seats ready in the hall of the central door, he returned to the householder Upāli and told him: "Venerable sir, the seats are made ready in the hall of the central door. Now it is time to do as you think fit."
 
+<!--pg-->
 23\. Then the householder Upāli [383] went to the hall of the central door and sat down on the highest, best, chief, most excellent seat there. Then he told the doorkeeper: "Now, good doorkeeper, go to the Niganṭha Nātaputta and tell him:
 'Venerable sir, the householder Upāli says: "Enter, venerable sir, if you wish."'"
 

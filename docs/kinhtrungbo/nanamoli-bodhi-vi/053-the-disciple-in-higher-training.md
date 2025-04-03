@@ -75,10 +75,10 @@ Dù cho nó không mong muốn: 'Mong sao gà con của ta có thể dùng mỏ 
 
 25\. "Vị thánh đệ tử này như vậy được gọi là người viên mãn về minh, viên mãn về hạnh, viên mãn cả minh lẫn hạnh. Và bài kệ này đã được Phạm thiên Sanankumāra (Brahmā Sanankumāra) nói lên:
 
-'Dòng dõi quý tộc (Khattiya) được xem là
-Tối thượng giữa người đời xét theo dòng dõi;
-Nhưng giữa trời và người, bậc tối thắng là
-Người viên mãn minh và hạnh.'
+*'Dòng dõi quý tộc (Khattiya) được xem là*<br>
+*Tối thượng giữa người đời xét theo dòng dõi;*<br>
+*Nhưng giữa trời và người, bậc tối thắng là*<br>
+*Người viên mãn minh và hạnh.'*<br>
 
 "Bài kệ đó đã được Phạm thiên Sanankumāra khéo hát lên, không phải vụng hát; đã được khéo nói lên, không phải vụng nói; bài kệ đó có ý nghĩa, không vô nghĩa; và đã được Thế Tôn chấp thuận." [^566]
 

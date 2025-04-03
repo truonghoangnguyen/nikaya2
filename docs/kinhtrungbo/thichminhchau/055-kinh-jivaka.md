@@ -25,6 +25,7 @@ trường hợp này, thịt không được thọ dụng. Này Jivaka, Ta nói 
 không thấy, không nghe và không nghi (vì mình mà giết). Này Jivaka, Ta nói trong ba trường hợp này,
 thịt được thọ dụng.
 
+<!--pg-->
 Ở đây, này Jivaka, Tỷ-kheo sống dựa vào một làng hay một thị trấn nào, vị ấy biến mãn một phương với
 tâm có lòng từ, và an trú; cũng vậy phương thứ hai, phương thứ ba, cũng vậy phương thứ tư. Như vậy
 cùng khắp thế giới, trên dưới bề ngang, hết thảy phương xứ, cùng khắp vô biên giới, vị ấy biến mãn với
@@ -52,6 +53,7 @@ trong tương lai. Này Jivaka, nếu như vậy là ý nghĩa Ông muốn nói,
 
 -- Bạch Thế Tôn, như vậy thật là ý nghĩa con muốn nói.
 
+<!--pg-->
 -- Ở đây, này Jivaka, Tỷ-kheo sống dựa vào một làng nào hay một thị trấn nào. Vị ấy biến mãn một
 phương với tâm có lòng bi... với tâm có lòng hỷ... với tâm có lòng xả và an trú; cũng vậy phương thứ
 hai, cũng vậy phương thứ ba, cũng vậy phương thứ tư. Như vậy cùng khắp thế giới, trên dưới bề ngang,
@@ -67,6 +69,7 @@ không tham trước, không tham đắm, không đam mê, thấy rõ các tai h
 Jivaka, Ông nghĩ thế nào ? Tỷ-kheo kia, trong thời gian ấy có nghĩ đến hại mình, hay nghĩ đến hại
 người, hay nghĩ đến hại cả hai ?
 
+<!--pg-->
 -- Thưa không, bạch Thế Tôn.
 
 -- Này Jivaka, vị Tỷ-kheo kia, trong thời gian ấy, có phải dùng các món ăn không có lỗi lầm ?
@@ -80,6 +83,7 @@ trong tương lai. Này Jivaka, nếu như vậy thì ý nghĩa Ông muốn nói
 
 -- Bạch Thế Tôn, như vậy thật là ý nghĩa con muốn nói.
 
+<!--pg-->
 -- Này Jivaka, người nào vì Như Lai, hay vì đệ tử Như Lai mà giết hại sinh vật, người ấy chất chứa
 nhiều phi công đức do năm nguyên nhân. Khi người ấy nói như sau: "Hãy đi và dắt con thú này đến", đó
 là nguyên nhân thứ nhứt, người ấy chất chứa nhiều phi công đức. Con thú ấy, khi bị dắt đi, vì bị kéo lôi

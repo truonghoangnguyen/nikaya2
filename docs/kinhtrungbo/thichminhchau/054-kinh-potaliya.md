@@ -57,6 +57,7 @@ lành thay, nếu Thế Tôn thuyết pháp cho tôi về sự đoạn tận cá
 
 Gia chủ Potaliya vâng đáp Thế Tôn. Thế Tôn thuyết giảng như sau:
 
+<!--pg-->
 -- Này Gia chủ. tám pháp này đưa đến sự đoạn tận các tục sự trong giới luật bậc Thánh. Thế nào là tám?
 Y cứ không sát sanh, sát sanh cần phải từ bỏ. Y cứ không lấy của không cho, lấy của không cho cần phải
 từ bỏ. Y cứ lời chân thật, nói láo cần phải từ bỏ. Y cứ không nói hai lưỡi, nói hai lưỡi cần phải từ bỏ. Y
@@ -75,6 +76,7 @@ thương tưởng, giải thích rộng rãi tám pháp này.
 
 Gia chủ Potaliya vâng đáp Thế Tôn. Thế Tôn thuyết giảng như sau:
 
+<!--pg-->
 -- Khi được nói: "Y cứ không sát sanh, sát sanh cần phải từ bỏ", do duyên gì, lời nói như vậy được nói
 lên? Ở đây, này gia chủ, vị Thánh đệ tử suy nghĩ như sau: "Do nhơn những kiết sử nào ta có thể sát
 sanh, ta đoạn tận, thành tựu sự từ bỏ của các kiết sử ấy. Nếu ta sát sanh, không những ta tự trách mắng ta
@@ -101,7 +103,6 @@ láo, các bậc có trí, sau khi tìm hiểu, cũng sẽ khiển trách ta vì
 chung, ác thú sẽ chờ đợi ta, vì duyên nói láo. Thật là một kiết sử, thật là một triền cái, chính nói láo này.
 Những lậu hoặc phiền lao nhiệt não có thể khởi lên, do duyên nói láo, đối với vị đã từ bỏ nói láo, những
 lậu hoặc phiền lao nhiệt não như vậy không còn nữa". "Y cứ lời chân thật nói láo cần phải từ bỏ", do
-
 duyên như vậy, lời nói như vậy được nói lên.
 
 Khi được nói: "Y cứ không nói hai lưỡi, nói hai lưỡi cần phải từ bỏ", do duyên gì, lời nói như vậy được
@@ -151,9 +152,9 @@ mạn này. Những lậu hoặc, phiền lao nhiệt não có thể khởi lên
 mạn, các lậu hoặc phiền lao nhiệt não như vậy không còn nữa". "Y cứ không quá mạn, quá mạn cần phải
 từ bỏ", do duyên như vậy, lời nói như vậy được nói lên.
 
+<!--pg-->
 Này Gia chủ, tám pháp được nói lên vắn tắt và được giải thích rộng rãi này, đưa đến sự đoạn tận các tục
 sự trong giới luật bậc Thánh, nhưng thật sự chưa phải là sự đoạn tận toàn diện, toàn bộ và toàn mặt tất cả
-
 tục sự trong giới luật bậc Thánh.
 
 -- Bạch Thế Tôn, như thế nào là sự đoạn tận toàn diện, toàn bộ và toàn mặt tất cả tục sự trong giới luật
@@ -255,10 +256,10 @@ sẽ bị chết hay đi đến đau khổ gần như chết.
 -- Cũng vậy, này Gia chủ, vị Thánh đệ tử suy nghĩ như sau: "Thế Tôn đã nói, dục được ví như cây có
 trái, khổ nhiều, não nhiều, tai họa ở đây càng nhiều hơn". Sau khi thấy như chân như vậy với trí tuệ, sau
 khi từ bỏ loại xả thuộc loại đa chủng, y cứ đa chủng, đối với loại xả thuộc loại nhứt chủng, y cứ nhứt
-
 chủng, ở đây mọi chấp thủ đối với thế vật được đoạn trừ hoàn toàn, không có dư tàn, vị ấy tu tập loại xả
 như vậy.
 
+<!--pg-->
 Này Gia chủ, vị Thánh đệ tử ấy, sau khi thành tựu xả niệm thanh tịnh vô thượng này, nhớ đến các đời
 sống trước, như một đời, hai đời, ba đời, bốn đời, năm đời, hai mươi đời, bốn mươi đời, năm mươi đời,
 một trăm đời, một ngàn đời, một trăm ngàn đời, nhiều hoại kiếp, nhiều thành kiếp. Vị ấy nhớ rằng: "Tại

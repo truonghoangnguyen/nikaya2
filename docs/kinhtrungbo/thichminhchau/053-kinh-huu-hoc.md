@@ -175,10 +175,10 @@ trú ngay trong hiện tại vô lậu tâm giải thoát, tuệ giải thoát, 
 Như vậy, này Mahanama, vị Thánh đệ tử được gọi là minh cụ túc, hạnh cụ túc, minh hạnh cụ túc. Này
 Mahanama, Phạm thiên Sanankumara (Thường Ðồng Hình Phạm thiên) có nói bài kệ như sau:
 
-*Chúng sanh tin giai cấp*
-*Vương tộc là tối thượng.*
-*Vị minh hạnh cụ túc,*
-*Tối thắng ở Nhơn Thiên.*
+*Chúng sanh tin giai cấp*<br>
+*Vương tộc là tối thượng.*<br>
+*Vị minh hạnh cụ túc,*<br>
+*Tối thắng ở Nhơn Thiên.*<br>
 
 Này Mahanama, bài kệ ấy được Phạm thiên Sanankumara khéo hát, không phải vụng hát, khéo nói,
 không phải vụng nói, có ý nghĩa, không phải vô nghĩa, và được Thế Tôn ấn khả.
