@@ -42,6 +42,7 @@ Tôn giả, bất khổ bất lạc thọ này, Thế Tôn thuyết là tối th
 Như vậy, Tôn giả Udayi không thể thuyết phục được thọ mộc Pancakanga. Và thợ mộc Pancakanga
 cũng không thể thuyết phục được Tôn giả Udayi.
 
+<!--pg-->
 Tôn giả Ananda nghe được cuộc đàm thoại này giữa Tôn giả Udayi với thợ mộc Panacakanga. Rồi Tôn
 giả Ananda đi đến Thế Tôn, sau khi đến đảnh lễ Thế Tôn rồi ngồi xuống một bên, sau khi ngồi xuống
 một bên, Tôn giả Ananda thuật lại Thế Tôn rõ toàn diện cuộc đàm thoại giữa Tôn giả Udayi và thợ mộc
@@ -50,7 +51,6 @@ Pancakanga. Khi nghe nói vậy, Thế Tôn nói với Tôn giả Ananda:
 -- Này Ananda, dầu cho pháp môn của Udayi là đúng, nhưng thợ mộc Pancakanga không chấp nhận.
 Dầu cho pháp môn của người thợ mộc Pancakanga là đúng, nhưng Udayi không chấp nhận. Này
 Ananda, hai thọ được Ta nói đến tùy theo một pháp môn; ba thọ được Ta nói đến tùy theo một pháp
-
 môn; năm thọ được Ta nói đến tùy theo một pháp môn; sáu thọ được Ta nói đến tùy theo một pháp môn;
 mười tám thọ được Ta nói đến tùy theo một pháp môn; ba mươi sáu thọ được Ta nói đến tùy theo một
 pháp môn; một trăm lẻ tám thọ được Ta nói đến tùy theo một pháp môn. Như vậy, này Ananda, pháp
@@ -64,6 +64,7 @@ vì pháp được Ta thuyết giảng tùy theo pháp môn như vậy, nên đ�
 hỷ những điều được khéo nói, khéo thuyết, khéo trình bày cùng nhau, thời sự kiện này sẽ xẩy ra: họ sẽ
 sống hòa hợp, tán đồng, tùy hỷ với nhau, như nước với sữa, và nhìn nhau với cặp mắt tương ái.
 
+<!--pg-->
 Này Ananda, có năm dục trưởng dưỡng này. Thế nào là năm? Các sắc do mắt nhận thức, khả ái, khả lạc,
 khả ý, khả hỷ, tương ứng với dục, hấp dẫn, các tiếng do tai nhận thức... các hương do mũi nhận thức...
 các vị do lưỡi nhận thức... các xúc do thân cảm xúc, khả ái, khả lạc, khả ý, khả hỷ, tương ứng với dục,
@@ -92,6 +93,7 @@ Này Ananda, ai nói như sau: "Lạc và hỷ này là tối thượng...",... 
 không khổ không lạc, xả niệm thanh tịnh. Này Ananda, lạc này khác với lạc kia, vi diệu hơn và thù
 thắng hơn.
 
+<!--pg-->
 Này Ananda, ai nói như sau: "Lạc và hỷ này là tối thượng...",... vi diệu hơn và thù thắng hơn là gì? Ở
 đây, này Ananda, vị Tỷ-kheo vượt qua toàn diện sắc tưởng, diệt trừ hữu đối tưởng, không tư niệm sai
 biệt tưởng, nghĩ rằng: "Hư không là vô biên", chứng và trú Hư không vô biên xứ. Này Ananda, lạc này

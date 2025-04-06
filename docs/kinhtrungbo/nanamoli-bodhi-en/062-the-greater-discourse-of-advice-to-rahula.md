@@ -19,6 +19,7 @@
 
 7\. "Venerable sir, how is mindfulness of breathing developed and cultivated, so that it is of great fruit and great benefit?"
 
+<!--pg-->
 #### (THE FOUR GREAT ELEMENTS)
 
 8\. "Rāhula, [^643] whatever internally, belonging to oneself, is solid, solidified, and clung-to, that is, head-hairs, body-hairs, nails, teeth, skin, flesh, sinews, bones, bone-marrow, kidneys, heart, liver, diaphragm, spleen, lungs, large intestines, small intestines, contents of the stomach, feces, or whatever else internally, belonging to oneself, is solid, solidified, and clung-to: this is called the internal earth element. Now both the internal earth element and the external earth element are simply earth element. And that should be seen as it actually is with proper wisdom thus: 'This is not mine, this I am not, this is not my self.' [422] When one sees it thus as it actually is with proper wisdom, one becomes disenchanted with the earth element and makes the mind dispassionate towards the earth element.
@@ -32,6 +33,7 @@ actually is with proper wisdom, one becomes disenchanted with the fire element a
 
 12\. "What, Rāhula, is the space element? [^644] The space element may be either internal or external. What is the internal space element? Whatever internally, belonging to oneself, is space, spatial, and clung-to, that is, the holes of the ears, the nostrils, the door of the mouth, and that [aperture] whereby what is eaten, drunk, consumed, and tasted gets swallowed, and where it collects, and whereby it is excreted from below, or whatever else internally, belonging to oneself, is space, spatial, and clung-to: this is called the internal space element. Now both the internal space element and the external space element are simply space element. And that should be seen as it actually is with proper wisdom thus: 'This is not mine, this I am not, this is not my self.' When one sees it thus as it actually is with proper wisdom, one becomes disenchanted with the space element and makes the mind dispassionate towards the space element.
 
+<!--pg-->
 13\. "Rāhula, develop meditation that is like the earth; for when you develop meditation that is like the earth, arisen agreeable and disagreeable contacts will not invade your mind and remain. [^645] Just as people throw clean things and dirty things, excrement, urine, spittle, pus, and blood on the earth, and the earth is not horrified, humiliated, and disgusted because of that, so too, Rāhula, develop meditation that is like the earth; for when
 you develop meditation that is like the earth, arisen agreeable and disagreeable contacts will not invade your mind and remain.
 
@@ -43,6 +45,7 @@ you develop meditation that is like the earth, arisen agreeable and disagreeable
 
 17\. "Rāhula, develop meditation that is like space; for when you develop meditation that is like space, arisen agreeable and disagreeable contacts will not invade your mind and remain. Just as space is not established anywhere, so too, Rāhula, develop meditation that is like space; for when you develop meditation that is like space, arisen agreeable and disagreeable contacts will not invade your mind and remain.
 
+<!--pg-->
 18\. "Rāhula, develop meditation on loving-kindness; for when you develop meditation on loving-kindness, any ill will will be abandoned.
 
 19\. "Rāhula, develop meditation on compassion; for when
@@ -56,6 +59,7 @@ you develop meditation on compassion, any cruelty will be abandoned.
 
 23\. "Rāhula, develop meditation on the perception of impermanence; [425] for when you develop meditation on the perception of impermanence, the conceit 'I am' will be abandoned.
 
+<!--pg-->
 24\. "Rāhula, develop meditation on mindfulness of breathing. When mindfulness of breathing is developed and cultivated, it is of great fruit and great benefit. And how is mindfulness of breathing developed and cultivated, so that it is of great fruit and great benefit?
 
 25\. "Here, Rāhula, a bhikkhu, gone to the forest or to the root of a tree or to an empty hut, sits down; having folded his legs crosswise, set his body erect, and established mindfulness in front of him, ever mindful he breathes in, mindful he breathes out. [^646]

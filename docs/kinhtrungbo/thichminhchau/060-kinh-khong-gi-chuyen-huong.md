@@ -33,6 +33,7 @@ hướng này mà thực hành. Này các Gia chủ, pháp không gì chuyển h
 thành tựu, sẽ đưa đến hạnh phúc an lạc lâu dài cho các Ông. Và này các Gia chủ, thế nào là pháp "không
 gì chuyển hướng"?
 
+<!--pg-->
 ***(I. Thuyết hư vô)***
 
 Này các Gia chủ, có một số Sa-môn, Bà-la-môn có những lập thuyết như sau, có những quan điểm như
@@ -81,6 +82,7 @@ bất hạnh: ngay trong hiện tại, bị những người có trí quở trá
 vào cõi dữ, ác thú, đoạn xứ, địa ngục. Như vậy pháp "không gì chuyển hướng" này bị chấp trì, bị thực
 hành sai lạc, bởi vị này chỉ có chấp nhận một phía, và bỏ phía thiện pháp.
 
+<!--pg-->
 Ở đây, này các Gia chủ, những Sa-môn, Bà-la-môn nào có lập thuyết như sau, có quan điểm như sau:
 "Có (kết quả của) bố thí, có (kết quả của) lễ hy sinh, có (kết quả của) tế tự, có kết quả, quả báo của các
 nghiệp thiện ác, có đời này, có đời sau, có mẹ, có cha, có các loại hóa sanh, trên đời có những vị Sa-
@@ -102,7 +104,6 @@ thuyết phục thuận với diệu pháp, sự không khen mình chê người
 khởi lên, do duyên chánh kiến.
 
 Ở đây, này các Gia chủ, vị có trí suy nghĩ như sau: Nếu có đời sau, thời vị này sau khi thân hoại mạng
-
 chung sẽ được sanh lên thiện thú, Thiên giới, cõi đời này. Nếu muốn cho đời sau không có đi nữa, nếu
 lời nói của các vị Sa-môn, Bà-la-môn ấy là đúng sự thật, thời vị này ngay trong hiện tại được những
 người có trí tán thán: "Người này theo thiện giới, có chánh kiến, chủ trương hữu luận". Còn nếu có đời
@@ -111,6 +112,7 @@ khi thân hoại mạng chung, sẽ sanh lên thiện thú, Thiên giới, cõi 
 chuyển hướng" này được chấp trì, được thực hành đúng đắn bởi vị này chấp nhận cả hai phía, bỏ qua hai
 phía bất thiện pháp.
 
+<!--pg-->
 ***(II. Thuyết vô tác dụng)***
 
 Này các Gia chủ, có một số Sa-môn, Bà-la-môn, có lập thuyết như sau, có quan điểm như sau: "Tự làm
@@ -142,6 +144,7 @@ Vì sao vậy? này các Gia chủ, có phải những Sa-môn, Bà-la-môn này
 
 -- Thưa vâng, bạch Thế Tôn.
 
+<!--pg-->
 -- Ở đây, này các Gia chủ, có những Sa-môn, Bà-la-môn có lập thuyết như sau, có quan điểm như sau:
 "Tự làm hay khiến người làm,... (như trên)... không đưa đến phước báo". Ðối với những vị này, sự kiện
 này chờ đợi sẽ xảy ra: Sau khi từ bỏ ba thiện pháp thân thiện hành, khẩu thiện hành, ý thiện hành, và sau
@@ -195,6 +198,7 @@ thân hoại mạng chung, sẽ sanh lên thiện thú, Thiên giới, cõi đ�
 hướng" này được chấp trì, được thực hành đúng đắn, bởi vị này chấp nhận cả hai phía, và bỏ qua phía
 bất thiện pháp.
 
+<!--pg-->
 ***(III. Thuyết vô nhân duyên)***
 
 Này các Gia chủ, có một số Sa-môn, Bà-la-môn có lập thuyết như sau, có quan điểm như sau: "Không
@@ -218,6 +222,7 @@ Bà-la-môn này nói lên những lời mâu thuẫn, đối nghịch nhau?
 
 -- Thưa vâng, bạch Thế Tôn.
 
+<!--pg-->
 -- Ở đây này các Gia chủ, những Sa-môn, Bà-la-môn nào có lập thuyết như sau, có quan điểm như sau:
 "Không có nhân, không có duyên... (như trên)... họ cảm thọ khổ lạc..". Ðối với những vị này, sự kiện
 này chờ đợi sẽ xảy ra: Sau khi từ bỏ ba thiện pháp thân thiện hành, khẩu thiện hành, ý thiện hành, và sau
@@ -270,6 +275,7 @@ mạng chung, sẽ sanh vào thiện thú, Thiên giới, cõi đời này". Nh�
 này được chấp trì, được thực hành đúng đắn, bởi vị này chấp nhận cả hai phía và bỏ qua phía bất thiện
 pháp.
 
+<!--pg-->
 ***(IV. Thuyết Không có cõi vô sắc)***
 
 Này các Gia chủ, có một số Sa-môn, Bà-la-môn có luận thuyết như sau, có quan điểm như sau: "Tuyệt
@@ -295,6 +301,7 @@ Do duyên với cái gì có sắc, chấp gậy, chấp kiếm, đấu tranh, t
 ngữ, vọng ngữ đều được thấy. Nhưng sẽ không có những sự việc này trong cõi vô sắc". Do suy tư như
 vậy, vị ấy thành tựu sự yểm ly, sự ly tham, sự diệt tận các sắc pháp.
 
+<!--pg-->
 ***(V. Thuyết Không có Ðoạn diệt)***
 
 Này các Gia chủ, có một số Sa-môn. Bà-la-môn có lập thuyết như sau, có quan điểm như sau: "Không
@@ -324,6 +331,7 @@ quan điểm như sau: "Có thể có sự hữu diệt toàn diện", thời qu
 tham, gần với không kiết phược, gần với không ái lạc, gần với không chấp trước, gần với không chấp
 thủ". Do suy tư như vậy, vị ấy thành tựu sự yểm ly, sự vô tham, sự diệt tận đối với các hữu.
 
+<!--pg-->
 ***(Bốn hạng người)***
 
 Này các Gia chủ, có bốn hạng người này có mặt ở trong đời. Thế nào là bốn? Ở đây, này các Gia chủ, có
@@ -361,7 +369,6 @@ Như vậy, này các Gia chủ, được gọi là hạng người tự hành k
 
 Và này các Gia chủ, thế nào là hạng người hành khổ người, chuyên tâm hành khổ người? Ở đây, này các
 Gia chủ, có người là người đồ tể giết trâu bò, là người đồ tể giết heo, là người giết vịt, săn thú, là thợ
-
 săn, thợ đánh cá, ăn trộm, người xử tử các người ăn trộm, cai ngục  và những người làm các nghề ác độc
 khác. Như vậy, này các Gia chủ, được gọi là người hành khổ người, chuyên tâm hành khổ người.
 
@@ -384,6 +391,7 @@ Và này các Gia chủ, thế nào là hạng người vừa không tự hành 
 mình, vừa không hành khổ người, không chuyên tâm hành khổ người; ngay trong hiện tại không có
 tham dục, không có khao khát, tịch tịnh, cảm thấy mát lạnh, cảm giác lạc thọ, thân trú vào Phạm thể?
 
+<!--pg-->
 Ở đây, này các Gia chủ, Như Lai xuất hiện ở đời là bậc A-la-hán, Chánh Biến Tri, Minh Hạnh Túc,
 Thiện Thệ, Thế Gian Giải, Vô Thượng Sĩ, Ðiều Ngự Trượng Phu, Thiên Nhân Sư, Phật, Thế Tôn. Như
 Lai sau khi riêng tự chứng ngộ với thượng trí, thế giới này là Thiên giới, Ma giới, Phạm thiên giới, gồm
@@ -413,7 +421,6 @@ chuyện chia rẽ ở những người kia. Như vậy, vị ấy sống hòa h
 kẻ hòa hợp, hoan hỷ trong hòa hợp, thích thú trong hòa hợp, hân hoan trong hòa hợp, nói những lời đưa
 đến hòa hợp. Vị ấy từ bỏ nói độc ác, tránh xa lời nói độc ác, nói những lời nói dịu hiền, đẹp tai, dễ
 thương, thông cảm đến tâm, tao nhã, đẹp lòng nhiều người; vị ấy nói những lời nói như vậy. Vị ấy từ bỏ
-
 lời nói phù phiếm, tránh xa lời nói phù phiếm, nói đúng thời, nói chân thật, nói có ý nghĩa, nói pháp, nói
 luật, nói những lời đáng được gìn giữ, những lời hợp thời, hợp lý có mạch lạc hệ thống, có ích lợi.
 
@@ -464,7 +471,6 @@ Vị ấy diệt tầm và tứ, chứng và trú Thiền thứ hai, một trạ
 tứ, nội tĩnh nhất tâm.
 
 Vị ấy ly hỷ trú xả, chánh niệm tỉnh giác, thân cảm sự lạc thọ mà các bậc Thánh gọi là xả niệm lạc trú,
-
 chứng và an trú Thiền thứ ba.
 
 Vị ấy xả lạc, xả khổ, diệt hỷ ưu đã cảm thọ trước, chứng và trú Thiền thứ tư, không khổ, không lạc, xả

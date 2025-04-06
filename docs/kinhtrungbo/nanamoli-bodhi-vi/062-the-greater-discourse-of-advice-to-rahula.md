@@ -7,9 +7,9 @@
 
 3\.  Bấy giờ, Đức Thế Tôn nhìn lại và bảo Đại đức La-hầu-la như sau: [^641] "Này La-hầu-la, bất kỳ loại sắc (material form) nào, dù là quá khứ, tương lai, hay hiện tại, bên trong hay bên ngoài, thô hay tế, thấp kém hay cao thượng, xa hay gần, tất cả sắc nên được thấy như nó thực sự là bằng trí tuệ đúng đắn rằng: 'Cái này không phải của tôi, cái này không phải là tôi, cái này không phải tự ngã (self - cái tôi thường hằng, độc lập, không thay đổi) của tôi.'"
 
-    "Chỉ có sắc thôi sao, bạch Đức Thế Tôn? Chỉ có sắc thôi sao, bạch Đức Thiện Thệ?"
+"Chỉ có sắc thôi sao, bạch Đức Thế Tôn? Chỉ có sắc thôi sao, bạch Đức Thiện Thệ?"
 
-    "Sắc, này La-hầu-la, và thọ (feeling - cảm giác dễ chịu, khó chịu hay trung tính), tưởng (perception - sự nhận biết, ghi nhận đối tượng qua các giác quan), hành (formations - các hoạt động tâm lý có chủ ý, tạo tác nghiệp), và thức (consciousness - tâm biết đối tượng qua các giác quan)."
+"Sắc, này La-hầu-la, và thọ (feeling - cảm giác dễ chịu, khó chịu hay trung tính), tưởng (perception - sự nhận biết, ghi nhận đối tượng qua các giác quan), hành (formations - các hoạt động tâm lý có chủ ý, tạo tác nghiệp), và thức (consciousness - tâm biết đối tượng qua các giác quan)."
 
 4\.  Rồi Đại đức La-hầu-la suy nghĩ thế này: "Ai lại đi vào thành khất thực hôm nay khi được chính Đức Thế Tôn trực tiếp khuyên dạy chứ?" Thế là ngài quay lại và ngồi xuống gốc cây, xếp chân kiết già, giữ thân thẳng, và an trú chánh niệm (mindfulness - sự chú tâm, tỉnh giác vào giây phút hiện tại, không phán xét) trước mặt.
 
@@ -19,6 +19,7 @@
 
 7\.  "Bạch Thế Tôn, làm thế nào để phát triển và tu tập niệm hơi thở, để nó mang lại quả lớn, lợi ích lớn?"
 
+<!--pg-->
 #### (BỐN ĐẠI)
 
 8\.  "Này La-hầu-la, [^643] bất cứ cái gì bên trong, thuộc về bản thân, là thể rắn, đông đặc, và bị chấp thủ (clung-to - bị dính mắc, nắm giữ bởi tâm do tham ái và tà kiến), đó là, tóc, lông, móng, răng, da, thịt, gân, xương, tủy xương, thận, tim, gan, cơ hoành, lá lách, phổi, ruột già, ruột non, đồ ăn trong dạ dày, phân, hay bất cứ cái gì khác bên trong, thuộc về bản thân, là thể rắn, đông đặc, và bị chấp thủ: đây gọi là địa đại (earth element - yếu tố đất) bên trong. Cả địa đại bên trong và địa đại bên ngoài đều chỉ là địa đại. Và điều đó nên được thấy như nó thực sự là bằng trí tuệ đúng đắn rằng: 'Cái này không phải của tôi, cái này không phải là tôi, cái này không phải tự ngã của tôi.' [422] Khi thấy như vậy như nó thực sự là bằng trí tuệ đúng đắn, người đó trở nên nhàm chán (disenchanted - sự chán ngán, không còn hứng thú với đối tượng thế tục do thấy rõ bản chất vô thường, khổ, vô ngã của nó) đối với địa đại và làm cho tâm ly tham (dispassionate - sự từ bỏ lòng tham ái, không còn đam mê, dính mắc) đối với địa đại.
@@ -31,6 +32,7 @@
 
 12\. "Này La-hầu-la, không đại (space element - yếu tố không gian) là gì? [^644] Không đại có thể là bên trong hoặc bên ngoài. Không đại bên trong là gì? Bất cứ cái gì bên trong, thuộc về bản thân, là không gian, có tính không gian, và bị chấp thủ, đó là, lỗ tai, lỗ mũi, cửa miệng, và cái [lỗ] qua đó những gì được ăn, uống, nhai, nếm được nuốt vào, và nơi nó tụ lại, và qua đó nó được bài tiết ra từ bên dưới, hay bất cứ cái gì khác bên trong, thuộc về bản thân, là không gian, có tính không gian, và bị chấp thủ: đây gọi là không đại bên trong. Cả không đại bên trong và không đại bên ngoài đều chỉ là không đại. Và điều đó nên được thấy như nó thực sự là bằng trí tuệ đúng đắn rằng: 'Cái này không phải của tôi, cái này không phải là tôi, cái này không phải tự ngã của tôi.' Khi thấy như vậy như nó thực sự là bằng trí tuệ đúng đắn, người đó trở nên nhàm chán đối với không đại và làm cho tâm ly tham đối với không đại.
 
+<!--pg-->
 13\. "Này La-hầu-la, hãy phát triển thiền định giống như đất; vì khi con phát triển thiền định giống như đất, những xúc chạm (contacts - phassa - sự tiếp xúc giữa căn (giác quan), trần (đối tượng) và thức (tâm biết), tạo ra cảm thọ) dễ chịu và khó chịu đã khởi lên sẽ không xâm chiếm tâm con và lưu lại. [^645] Cũng như người ta ném đồ sạch và đồ dơ, phân, nước tiểu, nước bọt, mủ, và máu lên đất, và đất không kinh sợ, hổ thẹn, và ghê tởm vì điều đó, cũng vậy, này La-hầu-la, hãy phát triển thiền định giống như đất; vì khi con phát triển thiền định giống như đất, những xúc chạm dễ chịu và khó chịu đã khởi lên sẽ không xâm chiếm tâm con và lưu lại.
 
 14\. "Này La-hầu-la, hãy phát triển thiền định giống như nước; vì khi con phát triển thiền định giống như nước, những xúc chạm dễ chịu và khó chịu đã khởi lên sẽ không xâm chiếm tâm con và lưu lại. Cũng như người ta rửa đồ sạch và đồ dơ, phân, nước tiểu, nước bọt, mủ, và máu trong nước, và nước không kinh sợ, hổ thẹn, và ghê tởm vì điều đó, cũng vậy, [424] này La-hầu-la, hãy phát triển thiền định giống như nước; vì khi con phát triển thiền định giống như nước, những xúc chạm dễ chịu và khó chịu đã khởi lên sẽ không xâm chiếm tâm con và lưu lại.
@@ -41,6 +43,7 @@
 
 17\. "Này La-hầu-la, hãy phát triển thiền định giống như không gian; vì khi con phát triển thiền định giống như không gian, những xúc chạm dễ chịu và khó chịu đã khởi lên sẽ không xâm chiếm tâm con và lưu lại. Cũng như không gian không trụ vào đâu cả, cũng vậy, này La-hầu-la, hãy phát triển thiền định giống như không gian; vì khi con phát triển thiền định giống như không gian, những xúc chạm dễ chịu và khó chịu đã khởi lên sẽ không xâm chiếm tâm con và lưu lại.
 
+<!--pg-->
 18\. "Này La-hầu-la, hãy phát triển thiền định về tâm từ (loving-kindness - mettā - lòng mong muốn cho tất cả chúng sinh được an vui, hạnh phúc); vì khi con phát triển thiền định về tâm từ, mọi sân hận (ill will - byāpāda - ác ý, thù ghét, mong muốn làm hại người khác) sẽ được từ bỏ.
 
 19\. "Này La-hầu-la, hãy phát triển thiền định về tâm bi (compassion - karuṇā - lòng mong muốn cho tất cả chúng sinh thoát khỏi khổ đau); vì khi con phát triển thiền định về tâm bi, mọi sự tàn nhẫn (cruelty - vihiṃsā - hành động hoặc ý nghĩ làm hại, gây đau khổ cho người khác) sẽ được từ bỏ.
@@ -53,6 +56,7 @@
 
 23\. "Này La-hầu-la, hãy phát triển thiền định về tưởng về vô thường (perception of impermanence - anicca-saññā - sự nhận biết, ghi nhớ rằng mọi thứ đều thay đổi, không bền vững, sinh rồi diệt); [425] vì khi con phát triển thiền định về tưởng về vô thường, ngã mạn 'tôi là' (conceit 'I am' - asmimāna - sự kiêu ngạo vi tế dựa trên ý niệm sai lầm về một cái 'tôi' thường hằng, độc lập) sẽ được từ bỏ.
 
+<!--pg-->
 24\. "Này La-hầu-la, hãy phát triển thiền định về niệm hơi thở. Khi niệm hơi thở được phát triển và tu tập, nó mang lại quả lớn, lợi ích lớn. Và làm thế nào để niệm hơi thở được phát triển và tu tập, để nó mang lại quả lớn, lợi ích lớn?
 
 25\. "Ở đây, này La-hầu-la, một vị tỳ kheo (bhikkhu - nhà sư nam đã thọ giới cụ túc trong Phật giáo), đi vào rừng hoặc đến gốc cây hoặc đến một ngôi cốc/chòi trống (empty hut - suññāgāra - nơi vắng vẻ, yên tĩnh thích hợp cho việc tu tập thiền định), ngồi xuống; xếp chân kiết già, giữ thân thẳng, và an trú chánh niệm trước mặt, luôn tỉnh thức vị ấy thở vào, tỉnh thức vị ấy thở ra. [^646]
@@ -110,3 +114,64 @@ Từ ngữ:
 - quán chiếu sự phai nhạt / virāgānupassī / contemplating fading away: Sự thực hành nhìn sâu vào sự tan biến của tham ái, dính mắc.
 - quán chiếu sự đoạn diệt / nirodhānupassī / contemplating cessation: Sự thực hành nhìn sâu vào sự chấm dứt hoàn toàn của khổ đau và nguyên nhân khổ đau (Niết-bàn).
 - quán chiếu sự từ bỏ / paṭinissaggānupassī / contemplating relinquishment: Sự thực hành nhìn sâu vào việc buông bỏ mọi chấp thủ, mọi gánh nặng của năm uẩn và phiền não.
+
+### Các bước thực hành (Theo bài giảng):
+**Mục tiêu:** Dưới đây là ghi lại các bước theo lời kinh.
+
+**Bước 0: Chuẩn bị**
+
+1.  **Chọn nơi:** Tìm một nơi yên tĩnh, vắng vẻ (như trong rừng, gốc cây, hoặc một căn phòng trống).
+2.  **Tư thế:** Ngồi xuống, tốt nhất là thế kiết già (hai chân xếp chéo lên nhau) hoặc bán già (một chân đặt lên đùi chân kia), hoặc bất kỳ tư thế ngồi nào bạn thấy thoải mái nhưng lưng phải thẳng. Giữ thân thẳng nhưng không gồng cứng.
+3.  **Thiết lập tâm:** Đặt sự chú tâm (chánh niệm) ngay trước mặt (nghĩa là tập trung vào đối tượng thiền là hơi thở). Luôn giữ trạng thái tỉnh thức, biết rõ mình đang làm gì.
+
+**Bước 1: Nhận biết Hơi thở Vật lý (Tập trung vào Thân)**
+
+*   **Trọng tâm:** Chỉ đơn thuần nhận biết sự tồn tại và đặc tính vật lý của hơi thở mà không can thiệp.
+*   **Thực hành:**
+    *   **Biết rõ Hơi thở vào/ra:** "Luôn tỉnh thức vị ấy thở vào, tỉnh thức vị ấy thở ra." -> Khi thở vào, bạn *biết* mình đang thở vào. Khi thở ra, bạn *biết* mình đang thở ra. Chỉ cần biết vậy thôi.
+    *   **Biết rõ Độ dài:** "Thở vào dài, vị ấy biết: ‘Tôi thở vào dài’..." -> Nếu hơi thở vào tự nhiên dài, hãy nhận biết "Đây là hơi thở vào dài". Tương tự với thở ra dài, thở vào ngắn, thở ra ngắn. **Không cố ý kéo dài hay rút ngắn hơi thở**, chỉ đơn giản là ghi nhận độ dài tự nhiên của nó.
+    *   **Cảm nhận Toàn thân [hơi thở]:** "...‘Tôi sẽ thở vào, cảm nhận toàn thân [hơi thở]’..." -> Mở rộng sự chú ý để cảm nhận toàn bộ quá trình hơi thở diễn ra trong cơ thể, từ lúc bắt đầu vào cho đến lúc kết thúc, và tương tự khi thở ra. Cảm nhận sự phồng xẹp của bụng, sự chuyển động của ngực, hoặc cảm giác của hơi thở đi qua mũi/môi trên.
+    *   **Làm an tịnh Hơi thở:** "...‘Tôi sẽ thở vào, làm an tịnh thân hành’..." -> Khi đã nhận biết rõ ràng, hãy nhẹ nhàng hướng ý đến việc làm cho hơi thở trở nên nhẹ nhàng hơn, êm dịu hơn, tự nhiên hơn cả khi thở vào và thở ra. Đây là bước *bắt đầu* có sự chủ ý nhẹ nhàng, nhưng vẫn dựa trên nền tảng quan sát.
+
+**Bước 2: Cảm nhận Trạng thái Tâm (Liên kết Hơi thở và Cảm xúc/Tâm)**
+
+*   **Trọng tâm:** Nhận biết các trạng thái tâm (cảm giác, cảm xúc) vi tế xuất hiện *cùng lúc* với hơi thở.
+*   **Thực hành:**
+    *   **Cảm nhận Hỷ (Pīti):** "...‘Tôi sẽ thở vào, cảm nhận hỷ’..." -> Trong khi thở, hãy chú ý xem có cảm giác vui thích, phấn khởi, hay lâng lâng (hỷ) nào xuất hiện trong tâm hay thân không. Nếu có, hãy ghi nhận nó cùng với hơi thở. Nếu không, cứ tiếp tục quan sát hơi thở.
+    *   **Cảm nhận Lạc (Sukha):** "...‘Tôi sẽ thở vào, cảm nhận lạc’..." -> Tương tự, chú ý đến cảm giác dễ chịu, hạnh phúc, bình an (lạc) vi tế hơn hỷ. Ghi nhận sự có mặt (hoặc vắng mặt) của nó cùng hơi thở.
+    *   **Cảm nhận Tâm hành (Citta-saṅkhāra):** "...‘Tôi sẽ thở vào, cảm nhận tâm hành’..." -> Chú ý đến các hoạt động tinh thần khác đang diễn ra cùng hơi thở, chủ yếu là các *cảm thọ* (dễ chịu, khó chịu, trung tính) và *tư tưởng* (suy nghĩ, hình ảnh). Chỉ cần nhận biết chúng đang có mặt.
+    *   **Làm an tịnh Tâm hành:** "...‘Tôi sẽ thở vào, làm an tịnh tâm hành’..." -> Hướng ý đến việc làm lắng dịu những cảm thọ và suy nghĩ này, không để chúng khuấy động tâm, giữ tâm bình lặng cùng với hơi thở.
+
+**Bước 3: Làm việc Trực tiếp với Tâm (Chủ động Phát triển Tâm)**
+
+*   **Trọng tâm:** Chuyển từ việc chỉ nhận biết sang việc chủ động sử dụng hơi thở để nuôi dưỡng các trạng thái tâm tích cực và sự tập trung.
+*   **Thực hành:**
+    *   **Cảm nhận Tâm:** "...‘Tôi sẽ thở vào, cảm nhận tâm’..." -> Đây là sự nhận biết *trạng thái chung* của tâm ngay lúc đó (ví dụ: tâm đang xao lãng, tâm đang bình tĩnh, tâm đang buồn ngủ, tâm đang sáng suốt...). Nhận biết tâm như nó là, cùng với hơi thở. (Đúng như bạn nhận định, đây là cảm nhận sâu hơn về trạng thái tâm trí).
+    *   **Làm Tâm Hoan hỷ:** "...‘Tôi sẽ thở ra, làm tâm hoan hỷ.’" -> **Chủ động** hướng tâm đến sự vui tươi, tích cực khi thở. Nếu tâm đang nặng nề, hãy dùng hơi thở ra như một cơ hội để tạo ra cảm giác nhẹ nhàng, hoan hỷ. (Đúng như bạn nhận định, đây là lúc chủ động điều khiển, nuôi dưỡng cảm giác).
+    *   **Định Tâm:** "...‘Tôi sẽ thở vào, định tâm’..." -> **Chủ động** hướng tâm vào sự tập trung, an trụ tâm vững chắc trên đối tượng hơi thở khi thở vào và thở ra. Làm cho tâm không còn chạy lung tung.
+    *   **Giải thoát Tâm:** "...‘Tôi sẽ thở vào, giải thoát tâm’..." -> **Chủ động** hướng tâm đến sự buông bỏ mọi ràng buộc, căng thẳng, phiền não ngay trong từng hơi thở. Cảm nhận sự tự do, không vướng mắc khi thở vào và thở ra.
+
+**Bước 4: Quán chiếu Trí tuệ (Phát triển Vipassanā)**
+
+*   **Trọng tâm:** Sử dụng hơi thở làm nền tảng vững chắc để quán chiếu, nhìn sâu vào bản chất thật sự của các pháp (mọi hiện tượng thân, tâm, và thế giới).
+*   **Thực hành:** (Trong khi vẫn duy trì nhận biết hơi thở)
+    *   **Quán Vô thường (Anicca):** "...‘Tôi sẽ thở vào, quán chiếu vô thường’..." -> Nhìn thấy rằng hơi thở luôn thay đổi (lúc dài lúc ngắn, lúc vào lúc ra), thân thể thay đổi, cảm xúc thay đổi, tâm trí thay đổi. Mọi thứ đều không ngừng biến đổi, không có gì là thường hằng.
+    *   **Quán Sự Phai nhạt (Virāga):** "...‘Tôi sẽ thở vào, quán chiếu sự phai nhạt’..." -> Nhìn thấy rằng sự ham muốn, dính mắc vào các đối tượng (kể cả những cảm giác dễ chịu trong thiền) cuối cùng cũng sẽ phai nhạt và tan biến. Thấy được sự nguy hiểm của tham ái.
+    *   **Quán Sự Đoạn diệt (Nirodha):** "...‘Tôi sẽ thở vào, quán chiếu sự đoạn diệt’..." -> Nhìn thấy rằng khi nguyên nhân (tham ái, phiền não) chấm dứt, thì kết quả (khổ đau) cũng sẽ chấm dứt. Quán chiếu về khả năng đạt đến sự chấm dứt hoàn toàn khổ đau (Niết-bàn).
+    *   **Quán Sự Từ bỏ (Paṭinissagga):** "...‘Tôi sẽ thở vào, quán chiếu sự từ bỏ’..." -> Nhìn thấy lợi ích của việc buông bỏ mọi gánh nặng, mọi chấp thủ (về cái tôi, về sở hữu, về quan điểm...). Thực hành sự buông xả ngay trong từng hơi thở.
+
+**Lưu ý quan trọng:**
+
+*   **Tuần tự:** Các bước này được trình bày theo trình tự phát triển tự nhiên, từ đơn giản đến phức tạp, từ định tĩnh đến trí tuệ. Người mới bắt đầu nên tập trung làm tốt các bước đầu tiên (đặc biệt là Bước 1). Khi tâm đã đủ định tĩnh và nhạy bén, mới dần dần thực hành các bước sau.
+*   **Không ép buộc:** Đừng cố gắng tạo ra những trạng thái (như hỷ, lạc) nếu chúng chưa tự nhiên xuất hiện. Việc quan trọng là *nhận biết* và *ghi nhận* những gì đang có mặt. Đối với các bước "làm tâm hoan hỷ", "định tâm", "giải thoát tâm", đó là sự *hướng ý*, *nuôi dưỡng* một cách nhẹ nhàng, không phải là sự gồng mình ép buộc.
+*   **Kiên nhẫn:** Thiền định là một quá trình đòi hỏi sự kiên trì và thực hành đều đặn. Sẽ có lúc tâm xao lãng, đó là chuyện bình thường. Khi nhận ra mình đang suy nghĩ lan man, hãy nhẹ nhàng quay lại với hơi thở mà không tự trách mình.
+*   **Linh hoạt:** Bạn có thể dành toàn bộ thời thiền cho một bước (ví dụ chỉ tập trung vào độ dài hơi thở), hoặc di chuyển qua các bước tùy theo trạng thái tâm và sự định tĩnh của mình.
+
+Khi nhắm mắt ngồi thiền, hãy bắt đầu bằng việc **cảm nhận hơi thở vào ra tự nhiên ở vùng mũi hoặc bụng**. Sau đó, bạn có thể tuần tự đi qua các bước trên, lấy hơi thở làm **điểm neo** cho tâm trí.
+
+*   **Bước 1:** Tâm bạn chỉ cần *biết* hơi thở dài/ngắn, cảm nhận nó trong toàn thân, làm nó dịu lại.
+*   **Bước 2:** Tâm bạn *quan sát* xem có hỷ/lạc/tâm hành nào đi kèm hơi thở không, rồi làm dịu chúng.
+*   **Bước 3:** Tâm bạn *chủ động* dùng hơi thở để làm tâm vui, tập trung, hoặc buông xả.
+*   **Bước 4:** Tâm bạn dùng sự định tĩnh có được để *nhìn sâu* vào bản chất vô thường, khổ, vô ngã của mọi thứ, ngay trong hơi thở.
+
+Chúc bạn thực hành tinh tấn và an lạc!

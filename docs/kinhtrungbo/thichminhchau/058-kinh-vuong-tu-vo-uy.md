@@ -35,6 +35,7 @@ nào, người ấy không có thể nhả ra, cũng không có thể nuốt và
 Gotama khi vị Vương tử hỏi câu hỏi hai móc như vậy, sẽ không có thể nhả ra, cũng không có thể nuốt
 vào.
 
+<!--pg-->
 -- Thưa vâng, Tôn giả.
 
 Vương tử Abhaya vâng đáp Nigantha Nataputta, từ chỗ ngồi đứng dậy, đảnh lễ Nigantha Nataputta, thân
@@ -56,6 +57,7 @@ Tôn thỏa mãn với những món ăn thượng vị, loại cứng và loại
 sau khi đã dùng xong, tay đã rời khỏi bát, liền lấy một ghế thấp khác rồi ngồi xuống một bên. Sau khi
 ngồi một bên, Vương tử Abhaya bạch Thế Tôn:
 
+<!--pg-->
 -- Bạch Thế Tôn, Như Lai có thể nói những lời, do những lời ấy người khác không ưa, không thích
 chăng?
 
@@ -97,6 +99,7 @@ của người vú hầu, thọc một cái que hay nuốt một hòn đá vào 
 trái con nắm đầu nó lại, với tay mặt lấy ngón tay làm như cái móc, con sẽ móc cho vật ấy ra, dầu có phải
 chảy máu. Vì sao vậy? Bạch Thế Tôn, vì con có lòng thương tưởng đứa trẻ.
 
+<!--pg-->
 -- Cũng vậy, này Vương tử, lời nói nào Như Lai biết không như thật, không như chân, không tương ứng
 với mục đích, và lời nói ấy khiến những người khác không ưa, không thích, thời Như Lai không nói lời
 nói ấy. Lời nói nào Như Lai biết là như thật, như chân, không tương ứng với mục đích, và lời nói ấy

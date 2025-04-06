@@ -34,6 +34,7 @@ Rồi Tôn giả Rahula, vào buổi chiều, sau khi từ Thiền tịnh đứn
 -- Bạch Thế Tôn, niệm hơi thở vô hơi thở ra được tu tập như thế nào? Làm cho sung mãn, (pháp môn
 này) như thế nào là để được quả lớn, được lợi ích lớn?
 
+<!--pg-->
 -- Này Rahula, cái gì thuộc nội thân, thuộc cá nhân, kiên cứng, thô phù, bị chấp thủ, như tóc, lông,
 móng, răng, da, thịt, gân, xương, tủy, thận, tim, gan, hoành cách mô, lá lách, phổi, ruột, màng ruột, bao
 tử, phân và bất cứ vật gì khác, thuộc nội thân, thuộc cá nhân, kiên cứng, thô phù, bị chấp thủ; như vậy,
@@ -83,6 +84,7 @@ như thật với chánh trí tuệ như sau: "Cái này không phải của ta,
 phải tự ngã của ta," Sau khi như thật quán sát hư không giới với chánh trí tuệ như vậy, vị ấy sanh yểm ly
 đối với hư không giới, tâm từ bỏ hư không giới.
 
+<!--pg-->
 Này Rahula, hãy tu tập sự tu tập như đất. Này Rahula, do tu tập sự tu tập như đất, các xúc khả ái, không
 khả ái được khởi lên, không có nắm giữ tâm, không có tồn tại. Này Rahula, ví như trên đất người ta
 quăng đồ tịnh, quăng đồ không tịnh, quăng phân uế, quăng nước tiểu, nhổ nước miếng, quăng mủ và
@@ -115,6 +117,7 @@ không không bị trú tại một chỗ nào; cũng vậy, này Rahula, hãy t
 Rahula, do tu tập sự tu tập như hư không, các xúc khả ái không khả ái được khởi lên, không có nắm giữ
 tâm, không có tồn tại.
 
+<!--pg-->
 Này Rahula, hãy tu tập sự tu tập về lòng từ. Này Rahula, do tu tập sự tu tập về lòng từ, cái gì thuộc sân
 tâm sẽ được trừ diệt . Này Rahula, hãy tu tập sự tu tập về lòng bi. Này Rahula, do tu tập sự tu tập về
 lòng bi, cái gì thuộc hại tâm sẽ được trừ diệt. Này Rahula, hãy tu tập sự tu tập về hỷ. Này Rahula, do tu
@@ -124,6 +127,7 @@ về bất tịnh. Này Rahula, do tu tập sự tu tập về bất tịnh, cá
 hãy tu tập sự tu tập về vô thường. Này Rahula, do tu tập sự tu tập về vô thường, cái gì thuộc ngã mạn
 được trừ diệt.
 
+<!--pg-->
 Này Rahula, hãy tu tập sự tu tập về niệm hơi thở vô hơi thở ra. Này Rahula, do tu tập niệm hơi thở vô
 hơi thở ra, làm cho sung mãn, nên được quả lớn, được lợi ích lớn. Và này Rahula, thế nào là tu tập niệm
 hơi thở vô hơi thở ra, làm cho sung mãn nên được quả lớn, được lợi ích lớn?

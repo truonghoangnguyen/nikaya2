@@ -24,6 +24,7 @@ sử do Thế Tôn giảng dạy. Bạch Thế Tôn, con thọ trì dục tham l
 Bạch Thế Tôn, con thọ trì sân là hạ phần kiết sử do Thế Tôn giảng dạy. Như vậy, bạch Thế Tôn, con thọ
 trì năm hạ phần kiết sử do Thế Tôn giảng dạy.
 
+<!--pg-->
 -- Này Malunkyaputta, vì vấn đề gì (hay vì ai) Ông thọ trì năm hạ phần kiết này do Ta giảng dạy? Này
 Malunkyaputta, có phải các tu sĩ ngoại đạo cật vấn Ông với ví dụ này về đứa con nít? Này
 Malunkyaputta, nếu một đứa con nít ngây thơ đang nằm ngủ không có tự thân, thời đâu nó có thể khởi
@@ -49,8 +50,8 @@ phần kiết sử. Sau khi nghe Thế Tôn, các Tỷ-kheo sẽ thọ trì.
 
 Tôn giả Ananda vâng đáp Thế Tôn. Thế Tôn giảng như sau:
 
+<!--pg-->
 -- Ở đây, này Ananda, có kẻ vô văn phàm phu, không đến yết kiến các bậc Thánh, không thuần thục
-
 pháp các bậc Thánh, không tu tập pháp các bậc Thánh, không đến yết kiến các bậc Chân nhân, không
 thuần thục pháp các bậc Chân nhân, không tu tập pháp các bậc Chân nhân, sống với tâm bị triền phược
 bởi thân kiến, bị chi phối bởi thân kiến, và không như thật tuệ tri sự xuất ly thân kiến đã khởi lên. Thân
@@ -102,17 +103,18 @@ của vị ấy không thích thú, không hoan hỷ, không có định tĩnh, 
 được xem là giống người ốm yếu kia.
 
 Này Ananda, ví như sông Hằng, nước lớn, đầy tràn, con quạ có thể uống được. Rồi một người lực sĩ đi
-
 đến và nghĩ như sau: "Sau khi lội cắt ngang dòng sông Hằng, với tay của ta, ta sẽ đến bờ bên kia an
 toàn". Người ta có thể sau khi lội cắt ngang dòng sông Hằng với tay của người ấy, đến được bờ bên kia
 an toàn. Cũng vậy, này Ananda, bất cứ ai, khi được giảng pháp để được đoạn trừ thân kiến, nếu tâm của
 vị ấy thích thú, hoan hỷ, có định tĩnh, có giải thoát, thời vị ấy được xem là giống như người lực sĩ kia
 
+<!--pg-->
 Và này Ananda, thế nào là con đường, thế nào là lộ trình đưa đến sự đoạn trừ năm hạ phần kiết sử? Ở
 đây, này Ananda, Tỷ-kheo do viễn ly các sanh y (Upadhiviveka) do đoạn trừ các bất thiện pháp, do làm
 cho an tịnh thân thô ác hành một cách toàn diện, ly dục, ly bất thiện pháp, chứng và trú Thiền thứ nhất,
 một trạng thái hỷ lạc do ly dục sanh, có tầm, có tứ.
 
+<!--pg-->
 Vị này chánh quán mọi sắc pháp, thọ pháp, tưởng pháp, hành pháp, thức pháp là vô thường, khổ, như
 bệnh, như cục bướu, như mũi tên, như điều bất hạnh, như bệnh chướng, như kẻ địch, như phá hoại, là
 không, là vô ngã. Vị này giải thoát tâm khỏi các pháp ấy. Sau khi giải thoát tâm khỏi các pháp ấy, vị ấy
@@ -123,11 +125,13 @@ sự tham pháp, hỷ pháp của mình, thời do sự đoạn tận năm hạ 
 Niết-bàn ở đấy, không phải trở lui đời này nữa. Này Ananda, đây là con đường, đây là lộ trình đưa đến
 sự đoạn trừ năm hạ phần kiết sử.
 
+<!--pg-->
 Lại nữa, này Ananda, Tỷ-kheo diệt tầm và tứ, chứng và trú Thiền thứ hai, một trạng thái hỷ lạc do định
 sanh, không tầm, không tứ, nội tĩnh nhứt tâm...  ly hỷ trú xả, chánh niệm tỉnh giác, thân cảm sự lạc thọ
 mà các bậc Thánh gọi là xả niệm lạc trú, chứng và an trú Thiền thứ ba... xả lạc, xả khổ, diệt hỷ ưu đã
 cảm thọ từ trước, chứng và trú Thiền thứ tư không khổ không lạc, xả niệm thanh tịnh.
 
+<!--pg-->
 Vị này chánh quán mọi sắc pháp, thọ pháp, tưởng pháp, hành pháp, thức pháp là vô thường , khổ, như
 bệnh, như cục bướu, như mũi tên, như điều bất hạnh, như bệnh chướng, như kẻ địch, như phá hoại, là
 không, là vô ngã. Vị này giải thoát tâm khỏi các pháp ấy. Sau khi giải thoát tâm khỏi các pháp ấy, vị ấy
@@ -138,6 +142,7 @@ sự tham pháp, hỷ pháp của mình, thời do sự đoạn tận năm hạ 
 Niết-bàn ở đấy, không phải trở lui đời này nữa. Này Ananda, đây là con đường, đây là lộ trình đưa đến
 sự đoạn trừ năm hạ phần kiết sử.
 
+<!--pg-->
 Lại nữa, này Ananda, Tỷ-kheo vượt lên mọi sắc tưởng, diệt trừ mọi chướng ngại tưởng, không tác ý đối
 với dị tưởng, vị Tỷ-kheo nghĩ rằng: "Hư không là vô biên", chứng và trú Hư không vô biên xứ. Vị này
 chánh quán mọi sắc pháp, thọ pháp, tưởng pháp, hành pháp, thức pháp là vô thường... (như trên)...
@@ -154,9 +159,9 @@ tức là sự an chỉ tất cả hành, sự xả ly tất cả sanh y, sự �
 vững chắc ở đây, vị này đạt đến sự đoạn tận các lậu hoặc. Nếu vị ấy không đạt đến sự đoạn tận các lậu
 hoặc, thời do sự tham pháp, hỷ pháp của mình, do sự đoạn tận năm hạ phần kiết sử, vị ấy được hóa sanh,
 nhập Niết-bàn ở đấy, không phải trở lui đời này nữa. Này Ananda, đây là con đường, đây là lộ trình đưa
-
 đến sự đoạn trừ năm hạ phần kiết sử.
 
+<!--pg-->
 -- Bạch Thế Tôn, nếu đây là con đường, đây là lộ trình đưa đến sự đoạn trừ năm hạ phần kiết sử thời do
 hành trì như thế nào mà một số vị Tỷ-kheo chứng tâm giải thoát, một số chứng tuệ giải thoát?
 

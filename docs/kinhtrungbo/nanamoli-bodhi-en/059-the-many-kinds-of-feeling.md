@@ -13,6 +13,7 @@
 
 A second time and a third time the venerable Udāyin stated his position, and a second time and a third time the carpenter Pañcakanga stated his. But the venerable Udāyin could not convince the carpenter Pañcakanga nor could the carpenter Pañcakanga convince the venerable Udāyin.
 
+<!--pg-->
 4\. The venerable Ānanda heard their conversation. Then he went to the Blessed One, and after paying homage to him, he sat down at one side and reported to the Blessed One the entire conversation between the venerable Udāyin and the carpenter Pañcakanga. When he had finished, the Blessed One told the venerable Ānanda:
 
 5\. "Ānanda, it was actually a true presentation that the carpenter Pañcakanga would not accept from Udāyin, and it was actually a true presentation that Udāyin would not accept from
@@ -20,6 +21,7 @@ the carpenter Pañcakanga. I have stated two kinds of feeling in one presentatio
 
 "When the Dhamma has thus been shown by me in [different] presentations, it may be expected of those who will not concede, allow, and accept what is well stated and well spoken by others that they will take to quarreling, brawling, and disputing, stabbing each other with verbal daggers. But it may be expected of those who concede, allow, and accept what is well stated and well spoken by others that they will live in concord, with mutual appreciation, without disputing, blending like milk and water, viewing each other with kindly eyes.
 
+<!--pg-->
 6\. "Ânanda, there are these five cords of sensual pleasure. What are the five? Forms cognizable by the eye that are wished for, desired, agreeable, and likeable, connected with sensual desire and provocative of lust. Sounds cognizable by the ear... Odours cognizable by the nose...Flavours cognizable by the tongue...Tangibles cognizable by the body that are wished for, desired, agreeable, and likeable, connected with sensual desire and provocative of lust. These are the five cords of sensual pleasure. Now the pleasure and joy that arise dependent on these five cords of sensual pleasure are called sensual pleasure.
 
 7\. "Should anyone say: 'That is the utmost pleasure and joy that beings experience,' I would not concede that to him. Why is that? Because there is another kind of pleasure loftier and more sublime than that pleasure. And what is that other kind of pleasure? Here, Ânanda, quite secluded from sensual pleasures, secluded from unwholesome states, a bhikkhu enters upon and abides in the first jhāna, which is accompanied by applied and sustained thought, with rapture and pleasure born of seclusion. This is that other kind of pleasure loftier and more sublime than the previous pleasure.
@@ -32,6 +34,7 @@ Why is that? Because there is another kind of pleasure loftier and more sublime 
 
 10\. "Should anyone say...And what is that other kind of pleasure? Here, Ānanda, with the abandoning of pleasure and pain, and with the previous disappearance of joy and grief, a bhikkhu enters upon and abides in the fourth jhāna, which has neither-pain-nor-pleasure and purity of mindfulness due to equanimity. This is that other kind of pleasure loftier and more sublime than the previous pleasure. [^617]
 
+<!--pg-->
 11\. "Should anyone say...And what is that other kind of pleasure? Here, Ānanda, with the complete surmounting of perceptions of form, with the disappearance of perceptions of sensory impact, with non-attention to perceptions of diversity, aware that 'space is infinite,' a bhikkhu enters upon and abides in the base of infinite space. This is that other kind of pleasure loftier and more sublime than the previous pleasure.
 
 12\. "Should anyone say...And what is that other kind of pleasure? Here, Ānanda, by completely surmounting the base of infinite space, aware that 'consciousness is infinite,' a bhikkhu enters upon and abides in the base of infinite consciousness. This is that other kind of pleasure loftier and more sublime than the previous pleasure.

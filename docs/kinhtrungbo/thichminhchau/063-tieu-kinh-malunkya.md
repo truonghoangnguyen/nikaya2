@@ -62,6 +62,7 @@ không không tồn tại sau khi chết". Nếu Thế Tôn không biết: "Như
 chết," hay "Như Lai không tồn tại và không không tồn tại sau khi chết", thời không biết, không thấy, hãy
 thẳng thắn trả lời: "Ta không biết, Ta không thấy".
 
+<!--pg-->
 -- Này Malunkyaputta, Ta nào có nói với Ông: Này Malunkyaputta, hãy đến và sống Phạm hạnh theo
 Ta, Ta sẽ trả lời cho Ông: "Thế giới là thường còn," hay "Thế giới là vô thường... (như trên)... Như Lai
 không có tồn tại và không không tồn tại sau khi chết"?
@@ -100,7 +101,6 @@ cung ấy làm bằng cây leo, hay cây lau, hay một thứ gân, hay một th
 Người ấy có thể nói như sau: "Tôi sẽ không rút mũi tên này ra khi nào tôi chưa biết cái tên mà tôi bị bắn,
 cái tên ấy thuộc một loại cây lau này hay cây lau khác". Người ấy có thể nói như sau: "Tôi sẽ không rút
 mũi tên này ra khi nào tôi chưa biết cái tên mà tôi bị bắn, mũi tên ấy có kết lông gì, hoặc lông con kên,
-
 hoặc lông con cò, hoặc lông con ó, hoặc lông con công, hoặc lông một loại két". Người ấy có thể nói
 như sau: "Tôi sẽ không rút mũi tên này ra khi nào tôi chưa biết cái tên mà tôi bị bắn, cái tên ấy được
 cuốn (parikkhittam) bởi loại gân nào, hoặc là gân bò cái, hoặc là gân trâu, hoặc là gân nai, hoặc là gân
@@ -145,13 +145,13 @@ có quan điểm "Như Lai có tồn tại và không có tồn tại sau khi ch
 không có tồn tại và không không tồn tại sau khi chết", thời vẫn có sanh, có già, có chết, có sầu, bi, khổ,
 ưu, não mà Ta giảng dạy sự đoạn trừ ngay trong hiện tại".
 
+<!--pg-->
 Do vậy, này Malunkyaputta, hãy thọ trì là không trả lời những gì Ta không trả lời. Hãy thọ trì là có trả
 lời những gì Ta có trả lời. Và này Malunkyaputta, điều gì Ta không trả lời? "Thế giới là thường còn",
 này Malunkyaputta là điều Ta không trả lời. "Thế giới là vô thường" là điều Ta không trả lời. "Thế giới
 là hữu biên" là điều Ta không trả lời. "Thế giới là vô biên" là điều Ta không trả lời. "Sinh mạng này và
 thân này là một" là điều Ta không trả lời. "Sinh mạng này và thân này khác" là điều Ta không trả lời.
 "Như Lai có tồn tại sau khi chết" là điều Ta không trả lời. "Như Lai không có tồn tại sau khi chết" là
-
 điều Ta không trả lời. "Như Lai có tồn tại và không tồn tại sau khi chết" là điều Ta không trả lời. "Như
 Lai không có tồn tại và không không tồn tại sau khi chết" là điều Ta không trả lời.
 
