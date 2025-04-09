@@ -48,9 +48,9 @@ Anuruddha, vì lòng tin, xuất gia từ bỏ gia đình, sống không gia đ�
 
 -- Thưa vâng, bạch Thế Tôn.
 
+<!--pg-->
 -- Và xuất gia như vậy, này các Anuruddha, người Thiện gia nam tử cần phải làm gì? Này các
 Anuruddha, ly dục, ly bất thiện pháp. Nếu không chứng được hỷ lạc hay một trạng thái khác an tịnh hơn,
-
 thời dục tham xâm chiếm tâm và an trú, sân xâm chiếm tâm và an trú, hôn trầm, thụy miên... trạo cử, hối
 quá... nghi hoặc... bất lạc... giải đãi xâm chiếm tâm và an trú. Này các Anuruddha, khi chưa ly dục, chưa
 ly bất thiện pháp, vị ấy không chứng được hỷ lạc hay một trạng thái khác an tịnh hơn. Này các
@@ -92,6 +92,7 @@ này".
 nương tựa Thế Tôn làm y cứ. Bạch Thế Tôn, tốt lành thay nếu Thế Tôn thuyết giảng cho ý nghĩa này.
 Sau khi được nghe Thế Tôn, các Tỷ-kheo sẽ thọ trì.
 
+<!--pg-->
 -- Này các Anuruddha, Như Lai không vì mục đích lường gạt quần chúng, không vì mục đích nịnh hót
 quần chúng, không vì mục đích lợi lộc, trọng vọng, danh xưng, quyền lợi vật chất, không vì với ý nghĩ:
 Như vậy quần chúng sẽ biết Ta"; mà Như Lai giải thích sự tái sanh các vị đệ tử đã từ trần đã mệnh
@@ -101,7 +102,6 @@ như vậy, sẽ chú tâm trên như thật (Tathata). Như vậy, này các An
 cho các vị ấy.
 
 Ở đây, này các Anuruddha, Tỷ-kheo có nghe: "Tỷ-kheo với tên như thế này đã mệnh chung. Thế Tôn có
-
 tuyên bố về vị này: "Vị ấy an trú chánh trí". Vị Tôn giả ấy đã được thấy hay đã được nghe: "Tôn giả này
 có giới hạnh như vậy, Tôn giả này có pháp như vậy, Tôn giả này có trí tuệ như vậy, Tôn giả này có an
 trú như vậy, Tôn giả này có giải thoát như vậy". Tỷ-kheo khi nhớ đến lòng tin, giới hạnh, đa văn, bố thí

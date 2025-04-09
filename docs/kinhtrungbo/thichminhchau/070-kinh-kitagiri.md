@@ -226,6 +226,7 @@ chứng đạt và an trú ngay trong hiện tại mục đích vô thượng c�
 gia nam tử chơn chánh xuất gia, từ bỏ gia đình, sống không gia đình. Do vậy, này các Tỷ-kheo, vì thấy
 quả này của phóng dật, nên đối với Tỷ-kheo này, Ta nói có sự việc cần phải làm, nhờ không phóng dật.
 
+<!--pg-->
 Này các Tỷ-kheo, Ta không nói rằng trí tuệ được hoàn thành lập tức. Nhưng này các Tỷ-kheo, trí tuệ
 được hoàn thành nhờ học từ từ, hành từ từ, thực tập từ từ.
 

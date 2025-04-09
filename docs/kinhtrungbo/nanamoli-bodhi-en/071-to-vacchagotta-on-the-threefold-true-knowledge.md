@@ -26,6 +26,7 @@ by me, but misrepresent me with what is untrue and contrary to fact."714
 
 10\. "If you answer thus: 'The recluse Gotama has the threefold true knowledge,' [483] you will be saying what has been said by me and will not misrepresent me with what is contrary to fact. You will explain in accordance with the Dhamma in such a way that nothing which provides a ground for censure can be legitimately deduced from your assertion."
 
+<!--pg-->
 11\. When this was said, the wanderer Vacchagotta asked the Blessed One: "Master Gotama, is there any householder who, without abandoning the fetter of householdership, on the dissolution of the body has made an end of suffering?"715
 
 "Vaccha, there is no householder who, without abandoning the fetter of householdership, on the dissolution of the body has made an end of suffering."

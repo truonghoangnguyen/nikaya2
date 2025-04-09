@@ -57,6 +57,7 @@ như sau: "Thế Tôn thật sự là vị đã đoạn trừ nhiều khổ phá
 lại nhiều lạc pháp cho chúng ta. Thế Tôn thật sự là vị đã đoạn trừ nhiều bất thiện pháp cho chúng ta. Thế
 Tôn thật sự là vị đã mang lại nhiều thiện pháp cho chúng ta".
 
+<!--pg-->
 -- Tuy vậy, này Udayi, ở đây có một số người ngu si; khi Ta nói: "Hãy trừ bỏ việc này", liền nói như
 sau: "Có sá gì sự việc tiểu tiết, nhỏ mọn này. Sa-môn này đặt quá nặng về cấm đoán đoạn giảm". Họ
 không chịu từ bỏ và gây lên bất mãn chống Ta và chống những Tỷ-kheo muốn (thực hành) học giới. Sự
@@ -139,6 +140,7 @@ giảm!" Và họ không chịu từ bỏ và gây lên bất mãn chống Ta v�
 học giới. Sự việc này, này Udayi, đối với họ, trở thành một trói buộc mạnh mẽ, một trói buộc vững chắc,
 một trói buộc kiên cường, một trói buộc không mục nát, một khúc gỗ to lớn.
 
+<!--pg-->
 Ví như, này Udayi, một gia chủ hay con người gia chủ, giàu có, tài sản lớn, tiền của lớn, vô số vàng bạc,
 vô số gạo thóc, vô số ruộng nương, vô số đất đai, vô số thê thiếp, vô số đầy tớ nam, vô số nữ tỳ. Vị này
 thấy một Tỷ-kheo trong một tinh xá, tay chân lau rửa sạch sẽ, sau khi ăn bữa cơm ngon lành, đang ngồi
@@ -167,6 +169,7 @@ tùy thuộc những người khác (bố thí), sống với một tâm như co
 họ, sự trói buộc ấy không có chắc mạnh, sự trói buộc ấy yếu ớt, sự trói buộc ấy bị mục nát, sự trói buộc
 ấy không có vững chắc.
 
+<!--pg-->
 Này Udayi, có bốn hạng người có mặt trên đời. Thế nào là bốn?
 
 Ở đây, này Udayi, có người sống, hướng đến sự đoạn trừ sanh y, sự từ bỏ sanh y. Nhưng trong khi vị
@@ -204,7 +207,6 @@ nhận thức,... xúc do thân cảm xúc, khả ái, khả hỷ, khả lạc, 
 pháp này, này Udayi, là năm dục trưởng dưỡng.
 
 Này Udayi, phàm có lạc gì, hỷ gì khởi lên, do duyên năm dục trưởng dưỡng này, lạc hỷ ấy được gọi là
-
 dục lạc, ô uế lạc, phàm phu lạc, phi Thánh lạc, không nên thực hiện, không nên tu tập, không nên làm
 cho sung mãn. Ta nói rằng lạc ấy đáng phải sợ hãi.
 
@@ -255,7 +257,6 @@ nói: "Hãy vượt qua đi". Và này Udayi, vị ấy cần vượt qua cái g
 
 Ở đây, này Udayi, Tỷ-kheo vượt lên mọi Hư không vô biên xứ, nghĩ rằng: "Thức là vô biên", chứng và
 trú Thức vô biên xứ. Ðây là điều vị ấy cần phải vượt qua. Thiền này, này Udayi, Ta nói: "Chưa được
-
 hoàn toàn", Ta nói: "Hãy từ bỏ đi", Ta nói: "Hãy vượt qua đi". Và này Udayi, vị ấy cần vượt qua cái gì?
 
 Ở đây, này Udayi, Tỷ-kheo vượt lên mọi Thức vô biên xứ, nghĩ rằng: "Không có vật gì", chứng và trú

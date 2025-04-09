@@ -90,6 +90,7 @@ Vaccha, Ta không có tri kiến như sau: "Như Lai không có tồn tại và 
 chỉ như vậy là chơn, ngoài ra là hư vọng" Tôn giả Gotama thấy có sự nguy hại gì mà Ngài không chấp
 nhận hoàn toàn những tri kiến này như vậy?
 
+<!--pg-->
 -- Này Vaccha, nghĩ rằng: "Thế giới là thường trú", như vậy là tà kiến, kiến trù lâm, kiến hoang vu, kiến
 hý luận, kiến tranh chấp, kiến kiết phược, đi đôi với khổ, với tàn hại, với não hại, với nhiệt não, không
 hướng đến yểm ly, ly tham, đoạn diệt, an tịnh, thắng trí, giác ngộ, Niết-bàn.
@@ -101,7 +102,6 @@ sau khi chết"... Này Vaccha, nghĩ rằng: "Như Lai không có tồn tại v
 như vậy là tà kiến, kiến trù lâm, kiến hoang vu, kiến hý luận, kiến tranh chấp, kiến kiết phược, đi đôi với
 khổ, với tàn hại, với não hại, với nhiệt não, không hướng đến yểm ly, ly tham, đoạn diệt, an tịnh, thắng
 trí, giác ngộ, Niết-bàn. Này Vaccha, Ta thấy có sự nguy hại này mà Ta không chấp nhận hoàn toàn
-
 những tri kiến như vậy.
 
 -- Nhưng Tôn giả Gotama có tà kiến nào không?
@@ -146,6 +146,7 @@ hành trì khác, đạo sư khác. Và này Vaccha, nay Ta trở lại hỏi Ô
 Vaccha, Ông nghĩ thế nào? Nếu một ngọn lửa cháy đỏ trước mặt Ông, Ông có biết: "Ngọn lửa này cháy
 đỏ trước mặt tôi?"
 
+<!--pg-->
 -- Tôn giả Gotama, nếu một ngọn lửa cháy đỏ trước mặt tôi, tôi có biết: "Ngọn lửa này cháy đỏ trước
 mặt tôi".
 

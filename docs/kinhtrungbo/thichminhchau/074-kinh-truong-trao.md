@@ -25,6 +25,7 @@ như vậy.
 Aggivessana, nếu thiểu số người ở trong đời đã nói như sau: "Thời đây cũng giống như vậy, thời đây
 cũng giống như vậy", thời họ sẽ từ bỏ tri kiến ấy và không chấp thủ một tri kiến khác.
 
+<!--pg-->
 Này Aggivessana, một số Sa-môn, Bà-la-môn có lý thuyết như sau, có tri kiến như sau: "Tất cả đều làm
 cho tôi thích thú". Này Aggivessana, một số Sa-môn, Bà-la-môn có lý thuyết như sau, có tri kiến như
 sau: "Tất cả đều làm cho tôi không thích thú". Này Aggivessana, một số Sa-môn, Bà-la-môn có lý thuyết
@@ -50,7 +51,6 @@ không đắm trước, gần không chấp thủ.
 làm tôi thích thú", và nếu ta cố chấp, kiên chấp tri kiến này và nói: "Ðây là sự thật, ngoài ra là hư vọng",
 như vậy là đối nghịch với hai hạng người: Sa-môn hay Bà-la-môn nào có lý thuyết như sau, có tri kiến
 như sau: "Tất cả đều làm cho tôi không thích thú", và Sa-môn hay Bà-la-môn nào có lý thuyết như sau,
-
 có tri kiến như sau: "Một phần làm tôi thích thú, một phần làm tôi không thích thú". Ta sẽ đối nghịch
 với hai hạng người này. Khi nào có đối nghịch thời có tranh luận; khi nào có tranh luận thời có chống
 đối; khi nào có chống đối thời có bực mình". Như vậy, vị này vì thấy sự đối nghịch, tranh luận, chống
@@ -79,6 +79,7 @@ thời có tranh luận; khi nào có tranh luận thời có chống đối, kh
 vậy, vị này vì thấy sự đối nghịch tranh luận, chống đối và bực mình, nên từ bỏ tri kiến ấy, không chấp
 thủ tri kiến khác. Như vậy là sự đoạn trừ những tri kiến này, như vậy là sự hủy bỏ những tri kiến này.
 
+<!--pg-->
 Nhưng này Aggivessana, thân này có sắc, do bốn đại thành, do cha mẹ sanh, nhờ cơm cháo nuôi dưỡng,
 vô thường, biến hoại, phân toái, đoạn tuyệt, hoại diệt, cần phải được quán sát là vô thường, khổ, như
 bệnh, như cục bướu, như mũi tên, như điều bất hạnh, như bệnh chướng, như kẻ địch, như phá hoại, là

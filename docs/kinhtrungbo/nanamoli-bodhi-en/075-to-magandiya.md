@@ -27,6 +27,7 @@ When this was said, the brahmin, awestruck and with his hair standing on end, re
 
 7\. But this discussion between the Blessed One and the brahmin of the Bhāradvāja clan was left unfinished, for then the wanderer Māgandiya, while walking and wandering for exercise, came to the brahmin's fire chamber and went up to the Blessed One. He exchanged greetings with the Blessed One, and when this courteous and amiable talk was finished, he sat down at one side. The Blessed One said to him:
 
+<!--pg-->
 8\. "Māgandiya, the eye delights in forms, takes delight in forms, rejoices in forms; that has been tamed by the Tathāgata, guarded, protected, and restrained, and he teaches the Dhamma for its restraint. Was it with reference to this that you said: 'The recluse Gotama is a destroyer of growth'?"
 
 "It was with reference to this, Master Gotama, that I said: 'The recluse Gotama is a destroyer of growth.' Why is that? Because that is recorded in our scriptures."

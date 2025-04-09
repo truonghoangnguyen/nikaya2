@@ -42,6 +42,7 @@ Chớ để về sau, lại càng khó khăn hơn cho Hiền giả.
 
 -- Thưa vâng, chư Hiền.
 
+<!--pg-->
 Tôn giả Bhaddali vâng đáp các Tỷ-kheo ấy, đi đến chỗ Thế Tôn, sau khi đến đảnh lễ Thế Tôn rồi ngồi
 xuống một bên. Sau khi ngồi xuống một bên, Tôn giả Bhaddali bạch Thế Tôn:
 
@@ -81,6 +82,7 @@ tương lai.
 -- Này Bhaddali, thật sự một lỗi lầm đã chiếm đoạt Ông, thật là ngu ngốc, thật là si mê, thật là bất thiện.
 Trong khi chúng Tỷ-kheo chấp hành học giới đã được Ta chế định, Ông đã tuyên bố sự bất lực của Ông.
 
+<!--pg-->
 Này Bhaddali, Ông nghĩ thế nào? Ở đây, có Tỷ-kheo câu phần giải thoát. Ta nói với vị ấy như sau: "Này
 Tỷ-kheo, hãy đến và tự làm cầu cho Ta qua khỏi đám bùn". Vị ấy tự đến làm cầu, hay tránh né thân chỗ
 khác, hay nói: "Không"?
@@ -151,7 +153,6 @@ Vì sao vậy? Sở dĩ như vậy, này Bhaddali, là vì vị ấy thực hàn
 Ðạo Sư. Vị ấy với tâm định tĩnh, thuần tịnh, không cấu nhiễm, không phiền não, nhu nhuyến, dễ sử
 dụng, vững chắc, bình tĩnh như vậy, dẫn tâm hướng tâm đến trí tuệ về sanh tử của chúng sanh. Vị ấy với
 thiên nhãn thuần tịnh, siêu nhân, thấy sự sống và sự chết của chúng sanh. Vị ấy biết rõ rằng, chúng sanh
-
 là người hạ liệt kẻ cao sang, người đẹp đẽ, kẻ thô xấu, người may mắn, kẻ bất hạnh... đều do hạnh
 nghiệp của họ? Vì sao vậy? Sở dĩ như vậy, này Bhaddali, là vì vị ấy thực hành trọn vẹn học giới trong
 giáo pháp của bậc Ðạo Sư.
@@ -168,6 +169,7 @@ vậy? Sở dĩ như vậy, này Bhaddali, là vì vị ấy thực hành trọn
 
 Ðược nghe nói vậy, Tôn giả Bhaddali bạch Thế Tôn:
 
+<!--pg-->
 -- Bạch Thế Tôn, do nhân gì, do duyên gì, ở đây (chúng Tăng) luôn luôn kết tội Tỷ-kheo? Bạch Thế
 Tôn, lại do nhân gì, do duyên gì ở đây, (chúng Tăng) không luôn luôn kết tội Tỷ-kheo như vậy?
 
@@ -202,7 +204,6 @@ Tỷ-kheo nói, tránh né câu hỏi này bằng một câu hỏi khác, hướ
 phẫn nộ, sân hận và bất mãn, không xử sự chơn chánh, không có tự lắng dịu, không có chấm dứt giới
 tội, không có nói: "Tôi phải làm gì để chúng Tăng hoan hỷ?" Tốt lành thay, nếu chư Tôn giả, sau khi
 điều tra nhiều lần Tỷ-kheo này, chớ có giải tội một cách mau chóng". Như vậy, này Bhaddali, các Tỷ-
-
 kheo sau khi điều tra nhiều lần Tỷ-kheo ấy, không giải tội ấy một cách mau chóng.
 
 Nhưng ở đây, này Bhaddali, lại có Tỷ-kheo không thường phạm giới tội, không phạm nhiều giới tội, khi
@@ -231,6 +232,7 @@ Vậy chúng ta hãy đừng để cho chút ít lòng tin, chút ít lòng thư
 Này Bhaddali, do nhân này, do duyên này, ở đây (chúng Tăng) luôn luôn kết tội Tỷ-kheo. Do nhân này,
 do duyên này, ở đây, (chúng Tăng) không luôn luôn kết tội vị Tỷ-kheo.
 
+<!--pg-->
 -- Bạch Thế Tôn, do nhân gì, do duyên gì, lúc xưa các học giới tuy ít hơn, nhưng các Tỷ-kheo đã ngộ
 nhập chánh trí nhiều hơn. Bạch Thế Tôn, lại do nhân gì, do duyên gì, ngày nay các học giới nhiều hơn,
 nhưng các Tỷ-kheo ngộ nhập chánh trí ít hơn?
@@ -269,6 +271,7 @@ nghiệm kỹ, Ta sẽ giảng.
 
 Tôn giả Bhaddali, vâng đáp Thế Tôn. Thế Tôn giảng như sau:
 
+<!--pg-->
 -- Này Bhaddali, ví như một người điều mã sư thiện xảo, có nhận được một con lương mã hiền thiện,
 trước hết phải huấn luyện con ngựa ấy cho quen với dây cương. Trong khi huấn luyện nó cho quen với
 dây cương, nếu nó có vùng vẫy, nhảy chồm, nhảy ngược, chống cự, vì chưa quen sự huấn luyện trước

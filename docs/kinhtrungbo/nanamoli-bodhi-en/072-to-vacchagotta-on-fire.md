@@ -46,6 +46,7 @@
 
 13\. "How is it then, Master Gotama? When Master Gotama is asked each of these ten questions, he replies: 'I do not hold that view.' What danger does Master Gotama see that he does not take up any of these speculative views?"
 
+<!--pg-->
 14\. "Vaccha, the speculative view that the world is eternal is a thicket of views, a wilderness of views, a contortion of views, a vacillation of views, a fetter of views. It is beset by suffering, by vexation, by despair, and by fever, and it does not lead to disenchantment, to dispassion, to cessation, to peace, to direct knowledge, to enlightenment, to Nibbāna.
 
 "The speculative view that the world is not eternal...that the world is finite...that the world is infinite...that the soul and the body are the same...that the soul is one thing and the body another...that after death a Tathāgata exists [486]...that after death a Tathāgata does not exist...that after death a Tathāgata both exists and does not exist...that after death a Tathāgata neither exists nor does not exist is a thicket of views, a wilderness of views, a contortion of views, a vacillation of views, a fetter of
@@ -77,6 +78,7 @@ views. It is beset by suffering, by vexation, by despair, and by fever, and it d
 
 19\. "What do you think, Vaccha? Suppose a fire were burning before you. Would you know: 'This fire is burning before me'?"
 
+<!--pg-->
 "I would, Master Gotama."
 
 "If someone were to ask you, Vaccha: 'What does this fire burning before you burn in dependence on?' - being asked thus, what would you answer?"

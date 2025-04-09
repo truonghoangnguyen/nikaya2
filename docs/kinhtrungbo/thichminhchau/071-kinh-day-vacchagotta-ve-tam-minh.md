@@ -50,7 +50,6 @@ Này Vaccha, khi nào Ta muốn, Ta sẽ nhớ đến nhiều đời sống quá
 này, giai cấp như thế này, ăn uống như thế này, thọ khổ lạc như thế này, tuổi thọ đến mức như thế này.
 Sau khi tại chỗ kia, ta được sanh ra tại chỗ nọ. Tại chỗ ấy, ta có tên như thế này, dòng họ như thế này,
 giai cấp như thế này, ăn uống như thế này, thọ khổ lạc như thế này, tuổi thọ đến mức như thế này. Sau
-
 khi chết tại chỗ nọ, ta được sanh ra ở đây". Như vậy Ta sẽ nhớ đến những đời sống quá khứ, cùng với
 các nét đại cương và các chi tiết.
 
@@ -74,6 +73,7 @@ Thế Tôn đúng với điều đã được nói, mới không vu khống Th�
 về Thế Tôn đúng pháp và tùy pháp, và mới không có một vị đồng hành pháp nào nói lời đúng pháp có
 thể lấy cớ để quở trách.
 
+<!--pg-->
 Khi được nói vậy, du sĩ Vacchagotta bạch Thế Tôn:
 
 -- Tôn giả Gotama, có thể có vị tại gia nào không đoạn trừ kiết sử tại gia mà khi thân hoại mạng chung

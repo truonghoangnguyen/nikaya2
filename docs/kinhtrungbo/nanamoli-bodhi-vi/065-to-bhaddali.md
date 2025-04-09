@@ -17,6 +17,7 @@
 
 6\.  Bấy giờ, Tôn giả Bhaddāli đến gặp các tỳ kheo ấy, chào hỏi họ, và sau khi cuộc nói chuyện lịch sự và thân mật kết thúc, ông ngồi xuống một bên. Khi ông đã ngồi yên, họ nói với ông: "Này hiền giả Bhaddāli, chiếc y này đang được may cho Đức Thế Tôn. Khi y của Ngài may xong, vào cuối ba tháng [mùa mưa], Đức Thế Tôn sẽ lên đường du hành. Xin hiền giả Bhaddāli hãy xem xét lại lời tuyên bố của mình một cách đúng đắn. Đừng để sau này mọi việc trở nên khó khăn hơn cho hiền giả."
 
+<!--pg-->
 7\.  "Vâng, thưa các hiền giả," ông đáp, rồi ông đến gặp Đức Thế Tôn, sau khi đảnh lễ Ngài, ông ngồi xuống một bên và bạch rằng: "Bạch Thế Tôn, một sự vi phạm (transgression - sự phạm lỗi, vượt qua giới luật) đã xâm chiếm con, như một kẻ ngu si, mê mờ, lầm lỗi, khi một học giới đang được Đức Thế Tôn công bố, con đã công khai tuyên bố trong Tăng đoàn rằng con không muốn thực hành học giới đó. Bạch Thế Tôn, xin Thế Tôn tha thứ cho sự vi phạm của con, khi con đã thấy đó là vi phạm, vì lợi ích của sự thu thúc (restraint - sự kiểm soát, tự chế) trong tương lai."
 
 8\.  "Chắc chắn rồi, Bhaddāli, một sự vi phạm đã xâm chiếm ông, như một kẻ ngu si, mê mờ, lầm lỗi, khi một học giới đang được Ta công bố, ông đã công khai tuyên bố trong Tăng đoàn rằng ông không muốn thực hành học giới đó.
@@ -35,6 +36,7 @@
 
 "Chắc chắn rồi, Bhaddāli, một sự vi phạm đã xâm chiếm ông, như một kẻ ngu si, mê mờ, lầm lỗi, khi một học giới đang được Ta công bố, ông đã công khai tuyên bố trong Tăng đoàn rằng ông không muốn thực hành học giới đó.
 
+<!--pg-->
 11\. "Ông nghĩ sao, Bhaddāli? Giả sử ở đây có một tỳ kheo là bậc câu phần giải thoát (liberated-in-both-ways / ubhatobhāgavimutta - người giải thoát cả hai phần, tức là giải thoát khỏi các trói buộc về thân thông qua các tầng thiền sắc và vô sắc, và giải thoát khỏi các lậu hoặc bằng trí tuệ), [^664] và Ta bảo vị ấy: 'Này Tỳ kheo, hãy làm tấm ván cho Ta đi qua vũng bùn.' Vị ấy sẽ tự mình bước qua, [^665] hay sẽ sắp đặt thân mình cách khác, hay sẽ nói 'Không'?"
 
 "Không, bạch Thế Tôn."
@@ -68,7 +70,7 @@
 20\. "Khi tâm định tĩnh của vị ấy đã được thanh lọc và sáng tỏ... đạt đến trạng thái bất động, vị ấy hướng tâm đến lậu tận minh (knowledge of the destruction of the taints / āsavakkhayañāṇa - trí tuệ đoạn trừ các lậu hoặc). Vị ấy hiểu như thật: 'Đây là khổ (suffering / dukkha - sự đau khổ, bất toại nguyện)'... (như Kinh 51, §26)... Vị ấy hiểu như thật: 'Đây là con đường đưa đến sự diệt tận các lậu hoặc (taints / āsava - những ô nhiễm làm tâm rỉ chảy, trói buộc trong luân hồi: dục lậu - ham muốn giác quan, hữu lậu - ham muốn tồn tại, vô minh lậu - sự thiếu hiểu biết Tứ Diệu Đế).'
 
 21\. "Khi vị ấy biết và thấy như vậy, tâm vị ấy được giải thoát (liberated / vimutti - sự giải thoát khỏi khổ đau và tái sinh) khỏi dục lậu, khỏi hữu lậu, và khỏi vô minh lậu. Khi tâm đã giải thoát, trí tuệ khởi lên: 'Đã giải thoát.' Vị ấy hiểu rõ: 'Sanh đã tận, phạm hạnh đã thành, việc cần làm đã làm, không còn trở lui trạng thái này nữa.' Tại sao vậy? Đó là như vậy đối với người hoàn thành việc tu tập trong Giáo pháp của Bậc Đạo Sư."
-
+<!--pg-->
 22\.  Sau đó, Tôn giả Bhaddāli hỏi: "Bạch Thế Tôn, đâu là nguyên nhân, đâu là lý do, vì sao họ có hành động xử lý đối với một tỳ kheo nào đó ở đây bằng cách khiển trách liên tục? Đâu là nguyên nhân, đâu là lý do, vì sao họ không có hành động như vậy đối với một tỳ kheo nào đó ở đây bằng cách khiển trách liên tục?"
 
 23\.  "Này Bhaddāli, ở đây có tỳ kheo nào đó là người thường xuyên phạm lỗi với nhiều lỗi lầm. Khi bị các tỳ kheo sửa lỗi, vị ấy quanh co, nói lảng sang chuyện khác, tỏ ra bất mãn, sân hận, cay đắng; vị ấy không hành xử đúng đắn, không tuân theo, không tự thanh minh, không nói: 'Tôi sẽ hành động sao cho Tăng đoàn hài lòng.' [443] Các Tỳ kheo, xem xét vấn đề này, nghĩ rằng: 'Sẽ tốt hơn nếu các Tôn giả xem xét tỳ kheo này theo cách mà vụ việc chống lại vị ấy không được giải quyết quá nhanh.' Và các tỳ kheo xem xét tỳ kheo đó theo cách mà vụ việc chống lại vị ấy không được giải quyết quá nhanh.
@@ -83,6 +85,7 @@
 
 28\.  "Đây là nguyên nhân, đây là lý do, vì sao họ có hành động xử lý đối với một tỳ kheo nào đó ở đây bằng cách khiển trách liên tục; đây là nguyên nhân, đây là lý do, vì sao họ không có hành động như vậy đối với một tỳ kheo nào đó ở đây bằng cách khiển trách liên tục."
 
+<!--pg-->
 29\.  "Bạch Thế Tôn, đâu là nguyên nhân, đâu là lý do, vì sao trước đây [445] có ít học giới hơn mà lại có nhiều tỳ kheo đạt được chánh trí (final knowledge / aññā - trí tuệ cuối cùng, sự giác ngộ hoàn toàn, trí tuệ của bậc A-la-hán)? Đâu là nguyên nhân, đâu là lý do, vì sao bây giờ có nhiều học giới hơn mà lại có ít tỳ kheo đạt được chánh trí hơn?"
 
 30\.  "Đúng là như vậy, Bhaddāli. Khi chúng sinh đang suy thoái và Chánh pháp (true Dhamma / saddhamma - giáo pháp chân chính của Đức Phật) đang biến mất, thì có nhiều học giới hơn và ít tỳ kheo đạt được chánh trí hơn. Bậc Đạo Sư không công bố học giới cho các đệ tử cho đến khi những điều làm căn cứ cho lậu hoặc phát sinh (basis for taints / āsavaṭṭhāniyā dhammā - những điều kiện, hoàn cảnh làm phát sinh các ô nhiễm, phiền não) biểu hiện rõ ràng trong Tăng đoàn; [^667] nhưng khi những điều làm căn cứ cho lậu hoặc phát sinh biểu hiện rõ ràng trong Tăng đoàn, thì Bậc Đạo Sư mới công bố học giới cho các đệ tử để ngăn chặn những điều làm căn cứ cho lậu hoặc phát sinh đó.
@@ -103,6 +106,7 @@
 
 Đức Thế Tôn dạy điều này:
 
+<!--pg-->
 33\.  "Bhaddāli, giả sử một người luyện ngựa tài giỏi có được một con ngựa non thuần chủng tốt. Đầu tiên, ông ta tập cho nó quen với việc đeo hàm thiếc (bit). Trong khi con ngựa đang được tập quen với việc đeo hàm thiếc, vì nó đang làm điều chưa từng làm trước đây, nó tỏ ra vặn vẹo, quằn quại, và dao động, nhưng qua sự lặp đi lặp lại liên tục và thực hành dần dần, nó trở nên thuần thục trong hành động đó. [^668]
 
 "Khi con ngựa đã trở nên thuần thục trong hành động đó, người luyện ngựa tiếp tục tập cho nó quen với việc đeo bộ yên cương (harness). Trong khi con ngựa đang được tập quen với việc đeo bộ yên cương, vì nó đang làm điều chưa từng làm trước đây, nó tỏ ra vặn vẹo, quằn quại, và dao động, nhưng qua sự lặp đi lặp lại liên tục và thực hành dần dần, nó trở nên thuần thục trong hành động đó.

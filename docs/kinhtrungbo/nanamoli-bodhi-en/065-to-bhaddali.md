@@ -18,6 +18,7 @@
 6\. Then the venerable Bhaddāli went to those bhikkhus and exchanged greetings with them, and when this courteous and
 amiable talk was finished, he sat down at one side. When he had done so, they said to him: "Friend Bhaddāli, this robe is being made up for the Blessed One. With his robe completed, at the end of the three months [of the Rains], the Blessed One will set out wandering. Please, friend Bhaddāli, give proper attention to your declaration. Do not let it become more difficult for you later on."
 
+<!--pg-->
 7\. "Yes, friends," he replied, and he went to the Blessed One, and after paying homage to him, he sat down at one side and said: "Venerable sir, a transgression overcame me, in that like a fool, confused and blundering, when a training precept was being made known by the Blessed One, I publicly declared in the Sangha of bhikkhus my unwillingness to undertake the training. Venerable sir, may the Blessed One forgive my transgression seen as such for the sake of restraint in the future."
 
 8\. "Surely, Bhaddāli, a transgression overcame you, in that like a fool, confused and blundering, when a training precept was being made known by me, you publicly declared in the Sangha of bhikkhus your unwillingness to undertake the training.
@@ -37,6 +38,7 @@ at Sāvatthī for the Rains, and they too will know me thus: "The bhikkhu named 
 
 "Surely, Bhaddāli, a transgression overcame you, in that like a fool, confused and blundering, when a training precept was being made known by me, you publicly declared in the Sangha of bhikkhus your unwillingness to undertake the training.
 
+<!--pg-->
 11\. "What do you think, Bhaddāli? Suppose a bhikkhu here were one liberated-in-both-ways, [^664] and I told him: 'Come, bhikkhu, be a plank for me to walk across the mud.' Would he walk across himself, [^665] or would he dispose his body otherwise, or would he say 'No'?"
 
 "No, venerable sir."
@@ -74,6 +76,7 @@ state, a distinction in knowledge and vision worthy of the noble ones.
 21\. "When he knows and sees thus, his mind is liberated from the taint of sensual desire, from the taint of being, and from the taint of ignorance. When it is liberated there comes the knowledge: 'It is liberated.' He understands: 'Birth is destroyed, the holy life has been lived, what had to be done has been done, there is no more coming to any state of being.' Why is that? That
 is how it is with one who fulfils the training in the Teacher's Dispensation."
 
+<!--pg-->
 22\. Thereupon the venerable Bhaddāli asked: "Venerable sir, what is the cause, what is the reason, why they take action against some bhikkhu here by repeatedly admonishing him? What is the cause, what is the reason, why they do not take such action against some bhikkhu here by repeatedly admonishing him?"
 
 23\. "Here, Bhaddāli, some bhikkhu is a constant offender with many offences. When he is corrected by the bhikkhus, he prevaricates, leads the talk aside, shows disturbance, hate, and bitterness; he does not proceed rightly, he does not comply, he does not clear himself, he does not say: 'Let me so act that the Sangha will be satisfied.' [443] Bhikkhus, taking account of this matter, think: 'It would be good if the venerable ones examine this bhikkhu in such a way that this litigation against him is not settled too quickly.' And the bhikkhus examine that bhikkhu in such a way that the litigation against him is not settled too quickly.
@@ -89,6 +92,7 @@ bhikkhu progresses by a measure of faith and love. Let him not lose that measure
 
 28\. "This is the cause, this is the reason, why they take action against some bhikkhu here by repeatedly admonishing him; this is the cause, this is the reason, why they do not take such action against some bhikkhu here by repeatedly admonishing him."
 
+<!--pg-->
 29\. "Venerable sir, what is the cause, what is the reason, why there were previously [445] fewer training rules and more bhikkhus became established in final knowledge? What is the cause, what is the reason, why there are now more training rules and fewer bhikkhus become established in final knowledge?"
 
 30\. "That is how it is, Bhaddāli. When beings are deteriorating and the true Dhamma is disappearing, then there are more training rules and fewer bhikkhus become established in final knowledge. The Teacher does not make known the training rule for disciples until certain things that are the basis for taints become manifest here in the Sangha; [^667] but when certain things that are the basis for taints become manifest here in the Sangha, then the Teacher makes known the training rule for disciples in order to ward off those things that are the basis for taints.
@@ -110,6 +114,7 @@ for disciples in order to ward off those things that are the basis for taints.
 
 The Blessed One said this:
 
+<!--pg-->
 33\. "Bhaddāli, suppose a clever horse-trainer obtains a fine thoroughbred colt. He first makes him get used to wearing the bit. While the colt is being made to get used to wearing the bit, because he is doing something that he has never done before, he displays some contortion, writhing, and vacillation, but through constant repetition and gradual practice, he becomes peaceful in that action. [^668]
 
 "When the colt has become peaceful in that action, the horsetrainer further makes him get used to wearing the harness. While the colt is being made to get used to wearing the harness, because he is doing something that he has never done before, he displays some contortion, writhing, and vacillation, but through constant repetition and gradual practice, he becomes peaceful in that action.

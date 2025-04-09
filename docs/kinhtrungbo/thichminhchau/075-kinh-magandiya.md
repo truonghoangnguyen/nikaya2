@@ -58,6 +58,7 @@ Bharadvaja, đến tại chỗ Thế Tôn, sau khi đến, nói lên những l�
 khi nói lên những lời chào đón hỏi thăm thân hữu liền ngồi xuống một bên. Rồi Thế Tôn nói với du sĩ
 Magandiya đang ngồi một bên:
 
+<!--pg-->
 -- Này Magandiya, con mắt ưa thích sắc, ái lạc sắc, hoan hỷ sắc, và Như Lai nhiếp phục, thủ hộ, hộ trì
 con mắt và thuyết pháp để phòng hộ con mắt. Này Magandiya, có phải vì vậy mà Ông nói: "Sa-môn
 Gotama là người phá hoại sự sống?"
@@ -100,7 +101,6 @@ công giúp vui và không bước xuống khỏi lâu đài ấy.
 
 Rồi Ta sau một thời gian, sau khi như chơn biết được sự tập khởi, sự đoạn diệt, vị ngọt, sự nguy hiểm và
 sự xuất ly của các dục vọng, sau khi đoạn tận dục ái, sau khi trừ diệt nhiệt não của các dục, Ta trú với
-
 khát ái được đoạn trừ, với nội tâm an tịnh. Rồi Ta thấy các chúng sanh khác, chưa xả ly tham ái đối với
 các dục đang bị các dục ái nhai nghiến, đang bị dục nhiệt não thiêu đốt, đang chạy theo các dục. Ta
 không ước vọng được như họ; ở đây, Ta không ham thích. Vì sao vậy? Vì rằng, này Magandiya, có hỷ

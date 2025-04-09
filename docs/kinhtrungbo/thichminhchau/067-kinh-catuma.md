@@ -129,6 +129,7 @@ thể lãnh đạo chúng Tỷ-kheo được.
 
 Rồi Thế Tôn cho gọi các Tỷ-kheo:
 
+<!--pg-->
 -- Này các Tỷ-kheo, có bốn điều đáng sợ hãi chờ đợi những ai lội xuống nước. Thế nào là bốn? Sợ hãi
 về sóng, sợ hãi về cá sấu, sợ hãi về nước xoáy, sợ hãi về cá dữ. Này các Tỷ-kheo, bốn điều đáng sợ hãi
 này chờ đợi những ai lội xuống nước. Cũng vậy, này các Tỷ-kheo, có bốn điều đáng sợ hãi này, ở đây,

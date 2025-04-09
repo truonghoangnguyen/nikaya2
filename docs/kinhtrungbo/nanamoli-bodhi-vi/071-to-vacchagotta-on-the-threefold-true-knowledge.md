@@ -11,11 +11,11 @@
 
 5\.  “Bạch Ngài, con nghe nói rằng: ‘Sa-môn Cồ-đàm (recluse Gotama - nhà tu khổ hạnh Gotama) tự nhận là bậc toàn tri (omniscient - sabbaññū - người biết tất cả mọi thứ) và toàn kiến (all-seeing - sabbadassāvī - người thấy tất cả mọi thứ), có tri kiến hoàn toàn (complete knowledge and vision - ñāṇadassana sampanna - sự hiểu biết và cái thấy trọn vẹn) như sau: “Dù đang đi, đứng, ngủ hay thức, tri kiến (knowledge and vision - ñāṇadassana - sự hiểu biết và cái thấy) luôn có mặt nơi tôi một cách liên tục, không gián đoạn.”’ [^713] Bạch Ngài, những người nói như vậy có phải là nói đúng lời Đức Thế Tôn đã dạy, không xuyên tạc Ngài bằng điều không đúng sự thật không? Họ có giải thích đúng theo Giáo Pháp (Dhamma - lời dạy của Đức Phật, chân lý) để không ai có thể dựa vào lời khẳng định của họ mà suy diễn ra điều gì đáng khiển trách không?”
 
-    “Này Vaccha, những người nói như vậy không phải nói đúng lời ta đã dạy, mà họ xuyên tạc ta bằng điều không đúng sự thật, sai sự thật.” [^714]
+“Này Vaccha, những người nói như vậy không phải nói đúng lời ta đã dạy, mà họ xuyên tạc ta bằng điều không đúng sự thật, sai sự thật.” [^714]
 
 6\.  “Bạch Ngài, vậy con nên trả lời thế nào để nói đúng lời Đức Thế Tôn đã dạy và không xuyên tạc Ngài bằng điều không đúng sự thật? Làm sao con có thể giải thích đúng theo Giáo Pháp, để không ai có thể dựa vào lời khẳng định của con mà suy diễn ra điều gì đáng khiển trách?”
 
-    “Này Vaccha, nếu ông trả lời rằng: ‘Sa-môn Cồ-đàm có tam minh (threefold true knowledge - tevijja - ba loại trí tuệ chân thật),’ thì ông sẽ nói đúng lời ta đã dạy và không xuyên tạc ta bằng điều không đúng sự thật. Ông sẽ giải thích đúng theo Giáo Pháp, để không ai có thể dựa vào lời khẳng định của ông mà suy diễn ra điều gì đáng khiển trách.”
+“Này Vaccha, nếu ông trả lời rằng: ‘Sa-môn Cồ-đàm có tam minh (threefold true knowledge - tevijja - ba loại trí tuệ chân thật),’ thì ông sẽ nói đúng lời ta đã dạy và không xuyên tạc ta bằng điều không đúng sự thật. Ông sẽ giải thích đúng theo Giáo Pháp, để không ai có thể dựa vào lời khẳng định của ông mà suy diễn ra điều gì đáng khiển trách.”
 
 7\.  “Vì rằng, khi ta muốn, ta nhớ lại vô số đời quá khứ của mình, nghĩa là một đời, hai đời...(như trong Kinh 51, §24)... Như vậy, ta nhớ lại vô số đời quá khứ với các khía cạnh và chi tiết của chúng.
 
@@ -25,25 +25,26 @@
 
 10\. “Nếu ông trả lời rằng: ‘Sa-môn Cồ-đàm có tam minh,’ [483] thì ông sẽ nói đúng lời ta đã dạy và không xuyên tạc ta bằng điều không đúng sự thật. Ông sẽ giải thích đúng theo Giáo Pháp, để không ai có thể dựa vào lời khẳng định của ông mà suy diễn ra điều gì đáng khiển trách.”
 
+<!--pg-->
 11\. Khi nghe vậy, du sĩ Vacchagotta hỏi Đức Thế Tôn: “Thưa Tôn giả Cồ-đàm (Master Gotama - cách gọi tôn kính dành cho Gotama), có người gia chủ (householder - gahapati - người tại gia, sống đời sống gia đình) nào, mà không từ bỏ sự ràng buộc của đời sống gia đình (fetter of householdership - gihisamyojana - những trói buộc liên quan đến đời sống tại gia như gia đình, tài sản, danh vọng), sau khi thân hoại mạng chung, đã chấm dứt khổ đau (made an end of suffering - dukkhassantaṃ akāsi - đạt đến sự kết thúc hoàn toàn của khổ, tức Niết Bàn) không?” [^715]
 
-    “Này Vaccha, không có người gia chủ nào, mà không từ bỏ sự ràng buộc của đời sống gia đình, sau khi thân hoại mạng chung, lại chấm dứt được khổ đau.”
+“Này Vaccha, không có người gia chủ nào, mà không từ bỏ sự ràng buộc của đời sống gia đình, sau khi thân hoại mạng chung, lại chấm dứt được khổ đau.”
 
 12\. “Thưa Tôn giả Cồ-đàm, có người gia chủ nào, mà không từ bỏ sự ràng buộc của đời sống gia đình, sau khi thân hoại mạng chung, đã được sinh lên cõi trời (gone to heaven - saggaṃ gato - tái sinh vào các cõi thiện lành, hạnh phúc như cõi trời dục giới hoặc sắc giới) không?”
 
-    “Này Vaccha, không chỉ một trăm, hai trăm, ba trăm, bốn trăm hay năm trăm, mà còn nhiều hơn thế nữa những người gia chủ, dù không từ bỏ sự ràng buộc của đời sống gia đình, sau khi thân hoại mạng chung, đã được sinh lên cõi trời.”
+“Này Vaccha, không chỉ một trăm, hai trăm, ba trăm, bốn trăm hay năm trăm, mà còn nhiều hơn thế nữa những người gia chủ, dù không từ bỏ sự ràng buộc của đời sống gia đình, sau khi thân hoại mạng chung, đã được sinh lên cõi trời.”
 
 13\. “Thưa Tôn giả Cồ-đàm, có người theo phái Ājīvaka (Ājīvaka - một trường phái tu khổ hạnh cùng thời với Đức Phật, nổi tiếng với thuyết định mệnh, cho rằng mọi sự đã được an bài, không thể thay đổi bởi nỗ lực cá nhân) nào, sau khi thân hoại mạng chung, đã chấm dứt khổ đau không?” [^716]
 
-    “Này Vaccha, không có người theo phái Ājīvaka nào, sau khi thân hoại mạng chung, lại chấm dứt được khổ đau.”
+“Này Vaccha, không có người theo phái Ājīvaka nào, sau khi thân hoại mạng chung, lại chấm dứt được khổ đau.”
 
 14\. “Thưa Tôn giả Cồ-đàm, có người theo phái Ājīvaka nào, sau khi thân hoại mạng chung, đã được sinh lên cõi trời không?”
 
-    “Này Vaccha, khi ta nhớ lại chín mươi mốt đại kiếp (aeons - kappa/kalpa - những khoảng thời gian vũ trụ cực kỳ dài, một kiếp trái đất hình thành và hoại diệt) đã qua, ta không nhớ có người theo phái Ājīvaka nào, sau khi thân hoại mạng chung, được sinh lên cõi trời, ngoại trừ một người duy nhất, và người đó tin vào thuyết nghiệp báo (doctrine of the moral efficacy of action - kammavāda - học thuyết cho rằng hành động (nghiệp) có kết quả đạo đức, thiện có quả lành, ác có quả dữ), tin vào kết quả của hành động (doctrine of the moral efficacy of deeds - kiriyavāda - học thuyết cho rằng hành động có hiệu quả, có thể tạo ra thay đổi, đối lập với thuyết định mệnh).” [^717]
+“Này Vaccha, khi ta nhớ lại chín mươi mốt đại kiếp (aeons - kappa/kalpa - những khoảng thời gian vũ trụ cực kỳ dài, một kiếp trái đất hình thành và hoại diệt) đã qua, ta không nhớ có người theo phái Ājīvaka nào, sau khi thân hoại mạng chung, được sinh lên cõi trời, ngoại trừ một người duy nhất, và người đó tin vào thuyết nghiệp báo (doctrine of the moral efficacy of action - kammavāda - học thuyết cho rằng hành động (nghiệp) có kết quả đạo đức, thiện có quả lành, ác có quả dữ), tin vào kết quả của hành động (doctrine of the moral efficacy of deeds - kiriyavāda - học thuyết cho rằng hành động có hiệu quả, có thể tạo ra thay đổi, đối lập với thuyết định mệnh).” [^717]
 
 15\. “Nếu vậy, thưa Tôn giả Cồ-đàm, thì các trường phái ngoại đạo (other sectarians - aññatitthiya - những người theo các giáo lý khác ngoài Phật giáo vào thời Đức Phật) này trống rỗng, ngay cả cơ hội được sinh lên cõi trời [cũng không có].”
 
-    “Đúng vậy đó, Vaccha. Các trường phái ngoại đạo này trống rỗng, ngay cả cơ hội được sinh lên cõi trời [cũng không có].”
+“Đúng vậy đó, Vaccha. Các trường phái ngoại đạo này trống rỗng, ngay cả cơ hội được sinh lên cõi trời [cũng không có].”
 
 Đức Thế Tôn đã nói như vậy. Du sĩ Vacchagotta hoan hỷ và tín thọ lời dạy của Đức Thế Tôn.
 
