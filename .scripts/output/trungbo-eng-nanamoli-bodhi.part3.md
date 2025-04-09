@@ -1880,7 +1880,7 @@ That is what the venerable Ānanda said. The Teacher approved. The bhikkhus were
 
 "Friend Kassapa, in the eighty years since I went forth I do not recall any perception of sensual desire to have ever arisen in me."
 
-[That in the eighty years since he went forth the venerable Bakkula did not recall any perception of sensual desire to have ever arisen in him - this we remember as a wonderful and marvellous quality of the venerable Bakkula. $]^{1168}$
+[That in the eighty years since he went forth the venerable Bakkula did not recall any perception of sensual desire to have ever arisen in him - this we remember as a wonderful and marvellous quality of the venerable Bakkula. [^1168]
 
 4-5. "Friend, in the eighty years since I went forth I do not recall any perception of ill will...any perception of cruelty to have ever arisen in me."
 
@@ -1927,7 +1927,7 @@ full admission...ever having given dependence...ever having had a novice wait on
 
 41. Then, seated in the midst of the Sangha of bhikkhus, the venerable Bakkula attained final Nibbāna. [^1172]
 
-[That seated in the midst of the Sangha of bhikkhus, the venerable Bakkula attained final Nibbāna - this too we remember as a wonderful and marvellous quality of the venerable Bakkula. $]^{1173}$
+[That seated in the midst of the Sangha of bhikkhus, the venerable Bakkula attained final Nibbāna - this too we remember as a wonderful and marvellous quality of the venerable Bakkula. [^1173]
 
 # 125 Dantabhūmi Sutta The Grade of the Tamed
 

@@ -9,11 +9,11 @@
 
 4\.  "Này thanh niên, chúng sanh là chủ nhân của nghiệp (kamma - hành động có chủ ý và kết quả của nó), là thừa tự của nghiệp; nghiệp là thai tạng, nghiệp là quyến thuộc, nghiệp là điểm tựa. Chính nghiệp phân chia chúng sanh thành các hạng thấp kém và cao thượng."
 
-    "Con không hiểu chi tiết ý nghĩa lời Tôn giả Gotama nói, Ngài chỉ nói tóm tắt mà không giải thích chi tiết. Mong Tôn giả Gotama hãy giảng Pháp (Dhamma - Giáo pháp, lời dạy của Đức Phật) cho con để con có thể hiểu chi tiết ý nghĩa lời Ngài."
+"Con không hiểu chi tiết ý nghĩa lời Tôn giả Gotama nói, Ngài chỉ nói tóm tắt mà không giải thích chi tiết. Mong Tôn giả Gotama hãy giảng Pháp (Dhamma - Giáo pháp, lời dạy của Đức Phật) cho con để con có thể hiểu chi tiết ý nghĩa lời Ngài."
 
-    "Vậy thì, này thanh niên, hãy lắng nghe và chú tâm kỹ, Ta sẽ nói."
+"Vậy thì, này thanh niên, hãy lắng nghe và chú tâm kỹ, Ta sẽ nói."
 
-    "Vâng, thưa Ngài," thanh niên Bà-la-môn Subha đáp. Đức Thế Tôn nói như sau:
+"Vâng, thưa Ngài," thanh niên Bà-la-môn Subha đáp. Đức Thế Tôn nói như sau:
 
 5\.  "Ở đây, này thanh niên, có người đàn ông hay đàn bà sát sanh, tay lấm máu, quen dùng đao trượng, tàn nhẫn, không có lòng thương xót chúng sanh. Do thực hiện và tích lũy nghiệp như vậy, sau khi thân hoại mạng chung, người ấy tái sanh vào cõi khổ, ác thú, đọa xứ, địa ngục. Nhưng nếu sau khi thân hoại mạng chung, người ấy không tái sanh vào cõi khổ, ác thú, đọa xứ, địa ngục, mà được trở lại làm người, thì dù sanh ở đâu, người ấy cũng bị đoản thọ. [^1224] Này thanh niên, đây là con đường dẫn đến đoản thọ: sát sanh, tay lấm máu, quen dùng đao trượng, tàn nhẫn, không có lòng thương xót chúng sanh.
 

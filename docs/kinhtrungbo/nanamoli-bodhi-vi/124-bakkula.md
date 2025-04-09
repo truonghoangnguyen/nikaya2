@@ -7,41 +7,41 @@
 
 3\.  "Này hiền giả Bakkula, hiền giả xuất gia (went forth - pabbajjā - rời bỏ đời sống gia đình để tu hành) đã bao lâu rồi?"
 
-    "Này hiền giả, tôi xuất gia đã tám mươi năm rồi."
+"Này hiền giả, tôi xuất gia đã tám mươi năm rồi."
 
-    "Này hiền giả Bakkula, trong tám mươi năm này, hiền giả đã thực hiện việc giao hợp bao nhiêu lần?"
+"Này hiền giả Bakkula, trong tám mươi năm này, hiền giả đã thực hiện việc giao hợp bao nhiêu lần?"
 
-    "Này hiền giả Ca-diếp, hiền giả không nên hỏi tôi câu như vậy. Hiền giả nên hỏi tôi câu như thế này: 'Này hiền giả Bakkula, trong tám mươi năm này, những tưởng về dục vọng (perceptions of sensual desire - kāmasaññā - sự nhận biết, hình dung về các đối tượng ham muốn) đã khởi lên trong hiền giả bao nhiêu lần?'"
+"Này hiền giả Ca-diếp, hiền giả không nên hỏi tôi câu như vậy. Hiền giả nên hỏi tôi câu như thế này: 'Này hiền giả Bakkula, trong tám mươi năm này, những tưởng về dục vọng (perceptions of sensual desire - kāmasaññā - sự nhận biết, hình dung về các đối tượng ham muốn) đã khởi lên trong hiền giả bao nhiêu lần?'"
 
-    "Này hiền giả Bakkula, trong tám mươi năm này, những tưởng về dục vọng đã khởi lên trong hiền giả bao nhiêu lần?"
+"Này hiền giả Bakkula, trong tám mươi năm này, những tưởng về dục vọng đã khởi lên trong hiền giả bao nhiêu lần?"
 
-    "Này hiền giả Ca-diếp, trong tám mươi năm kể từ khi xuất gia, tôi không nhớ là có bất kỳ tưởng về dục vọng nào từng khởi lên trong tôi."
+"Này hiền giả Ca-diếp, trong tám mươi năm kể từ khi xuất gia, tôi không nhớ là có bất kỳ tưởng về dục vọng nào từng khởi lên trong tôi."
 
-    [Việc Tôn giả Bakkula không nhớ có bất kỳ tưởng về dục vọng nào từng khởi lên trong tám mươi năm xuất gia – điều này chúng tôi ghi nhận là một phẩm chất kỳ diệu và phi thường của Tôn giả Bakkula. $]^{1168}$
+[Việc Tôn giả Bakkula không nhớ có bất kỳ tưởng về dục vọng nào từng khởi lên trong tám mươi năm xuất gia – điều này chúng tôi ghi nhận là một phẩm chất kỳ diệu và phi thường của Tôn giả Bakkula. [^1168]
 
 4-5. "Này hiền giả, trong tám mươi năm kể từ khi xuất gia, tôi không nhớ là có bất kỳ tưởng về sân hận (perception of ill will - byāpādasaññā - sự nhận biết, hình dung mang tính tức giận, ghét bỏ)... bất kỳ tưởng về làm hại (perception of cruelty - vihiṃsāsaññā - sự nhận biết, hình dung về việc gây tổn hại cho chúng sinh) nào từng khởi lên trong tôi."
 
-    [Việc Tôn giả Bakkula không nhớ có bất kỳ tưởng về sân hận... bất kỳ tưởng về làm hại nào từng khởi lên trong tám mươi năm xuất gia – điều này chúng tôi ghi nhận là một phẩm chất kỳ diệu và phi thường của Tôn giả Bakkula.]
+[Việc Tôn giả Bakkula không nhớ có bất kỳ tưởng về sân hận... bất kỳ tưởng về làm hại nào từng khởi lên trong tám mươi năm xuất gia – điều này chúng tôi ghi nhận là một phẩm chất kỳ diệu và phi thường của Tôn giả Bakkula.]
 
 6\.  "Này hiền giả, trong tám mươi năm kể từ khi xuất gia, tôi không nhớ là có bất kỳ tư duy về dục vọng (thought of sensual desire - kāmavitakka - suy nghĩ, tầm tư liên quan đến ham muốn) nào từng khởi lên trong tôi."
 
-    [...điều này chúng tôi cũng ghi nhận là một phẩm chất kỳ diệu và phi thường của Tôn giả Bakkula.]
+[...điều này chúng tôi cũng ghi nhận là một phẩm chất kỳ diệu và phi thường của Tôn giả Bakkula.]
 
 7-8. "Này hiền giả, trong tám mươi năm kể từ khi xuất gia, tôi không nhớ là có bất kỳ tư duy về sân hận (thought of ill will - byāpādavitakka - suy nghĩ, tầm tư mang tính tức giận, ghét bỏ)... bất kỳ tư duy về làm hại (thought of cruelty - vihiṃsāvitakka - suy nghĩ, tầm tư về việc gây tổn hại cho chúng sinh) nào từng khởi lên trong tôi."
 
-    [...điều này chúng tôi cũng ghi nhận là một phẩm chất kỳ diệu và phi thường của Tôn giả Bakkula.] [126]
+[...điều này chúng tôi cũng ghi nhận là một phẩm chất kỳ diệu và phi thường của Tôn giả Bakkula.] [126]
 
 9-15. "Này hiền giả, trong tám mươi năm kể từ khi xuất gia, tôi không nhớ là đã từng nhận y từ một người cư sĩ tại gia (householder - gahapati - người chủ gia đình, người tại gia) [^1169]... đã từng mặc y do người cư sĩ tại gia cúng dường... đã từng dùng dao cắt y... đã từng dùng kim may y... đã từng nhuộm y bằng thuốc nhuộm... đã từng may y trong mùa lễ dâng y Kathina (kathina - lễ cúng dường y đặc biệt sau mùa an cư)... đã từng tham gia làm y cho các vị đồng phạm hạnh (companions in the holy life - sabrahṃacārī - những người cùng thực hành đời sống thánh thiện)."
 
-    [...điều này chúng tôi cũng ghi nhận là một phẩm chất kỳ diệu và phi thường của Tôn giả Bakkula.]
+[...điều này chúng tôi cũng ghi nhận là một phẩm chất kỳ diệu và phi thường của Tôn giả Bakkula.]
 
 16-19. "Này hiền giả, trong tám mươi năm kể từ khi xuất gia, tôi không nhớ là đã từng nhận lời mời dùng bữa... đã từng khởi lên ý nghĩ: 'Ồ, mong sao có ai đó mời mình dùng bữa!'... đã từng ngồi trong nhà dân... đã từng ăn trong nhà dân."
 
-    [...điều này chúng tôi cũng ghi nhận là một phẩm chất kỳ diệu và phi thường của Tôn giả Bakkula.]
+[...điều này chúng tôi cũng ghi nhận là một phẩm chất kỳ diệu và phi thường của Tôn giả Bakkula.]
 
 20-25. "Này hiền giả, trong tám mươi năm kể từ khi xuất gia, tôi không nhớ là đã từng nắm bắt tướng chung và tướng riêng (signs and features - nimitta, anubyañjana - các đặc điểm tổng quát và chi tiết có thể khơi dậy ham muốn) của một người nữ... đã từng giảng Pháp (Dhamma - giáo lý của Đức Phật) cho một người nữ, dù chỉ là một bài kệ bốn câu... đã từng đi đến nơi ở của các tỳ-kheo-ni (bhikkhunīs - nữ tu sĩ Phật giáo đã thọ đại giới)... đã từng giảng Pháp cho một vị tỳ-kheo-ni... đã từng giảng Pháp cho một vị thức-xoa-ma-na (female probationer - sikkhamānā - nữ tập sự, giai đoạn chuẩn bị trước khi thọ giới tỳ-kheo-ni)... đã từng giảng Pháp cho một vị sa-di-ni (female novice - sāmaṇerī - nữ tu sĩ Phật giáo đã thọ giới sa-di)."
 
-    [...điều này chúng tôi cũng ghi nhận là một phẩm chất kỳ diệu và phi thường của Tôn giả Bakkula.]
+[...điều này chúng tôi cũng ghi nhận là một phẩm chất kỳ diệu và phi thường của Tôn giả Bakkula.]
 
 26-29. "Này hiền giả, trong tám mươi năm kể từ khi xuất gia, tôi không nhớ là đã từng cho người khác xuất gia... đã từng cho người khác thọ cụ túc giới (full admission - upasampadā - lễ truyền giới chính thức để trở thành tỳ-kheo hoặc tỳ-kheo-ni)... đã từng cho người khác nương tựa (dependence - nissaya - sự hướng dẫn, bảo trợ của thầy tế độ đối với đệ tử)... đã từng có một vị sa-di (novice - sāmaṇera - nam tu sĩ Phật giáo đã thọ giới sa-di) hầu hạ."
 
@@ -49,20 +49,20 @@
 
 30-37. "Này hiền giả, trong tám mươi năm kể từ khi xuất gia, tôi không nhớ là đã từng tắm trong nhà tắm... đã từng tắm bằng bột thơm... đã từng làm việc xoa bóp chân tay cho các vị đồng phạm hạnh [127]... đã từng bị bệnh tật (affliction - ābādha - sự đau đớn, bệnh hoạn) dù chỉ trong khoảng thời gian vắt sữa một con bò... đã từng uống thuốc, dù chỉ bằng một miếng trái诃子 (quả myrobalan)... đã từng dùng gối dựa... đã từng dọn giường nằm... đã từng nhập hạ (Rains - vassa - mùa an cư kiết hạ của Tăng đoàn) tại một nơi trú ngụ trong một ngôi làng."
 
-    [...điều này chúng tôi cũng ghi nhận là một phẩm chất kỳ diệu và phi thường của Tôn giả Bakkula.]
+[...điều này chúng tôi cũng ghi nhận là một phẩm chất kỳ diệu và phi thường của Tôn giả Bakkula.]
 
 38\.  "Này hiền giả, trong bảy ngày sau khi xuất gia, tôi đã thọ dụng vật thực của đàn na tín thí như một người mắc nợ (debtor - iṇa - người mắc nợ, ý nói chưa xứng đáng với sự cúng dường vì chưa đắc đạo); đến ngày thứ tám, trí tuệ cuối cùng (final knowledge - aññā - trí tuệ giác ngộ hoàn toàn của bậc A-la-hán) đã khởi lên." [^1170]
 
-    [Việc Tôn giả Bakkula đã thọ dụng vật thực của đàn na tín thí như một người mắc nợ trong bảy ngày, và vào ngày thứ tám, trí tuệ cuối cùng đã khởi lên – điều này chúng tôi cũng ghi nhận là một phẩm chất kỳ diệu và phi thường của Tôn giả Bakkula.]
+[Việc Tôn giả Bakkula đã thọ dụng vật thực của đàn na tín thí như một người mắc nợ trong bảy ngày, và vào ngày thứ tám, trí tuệ cuối cùng đã khởi lên – điều này chúng tôi cũng ghi nhận là một phẩm chất kỳ diệu và phi thường của Tôn giả Bakkula.]
 
 39\.  [Khi ấy, A-tu-la Ca-diếp nói:] "Tôi muốn được xuất gia trong Giáo Pháp và Giới Luật (Dhamma and Discipline - dhammavinaya - giáo lý và các quy tắc ứng xử do Đức Phật chế định) này, tôi muốn được thọ cụ túc giới." Và A-tu-la Ca-diếp đã được xuất gia trong Giáo Pháp và Giới Luật này, đã được thọ cụ túc giới. [^1171] Và không lâu sau khi thọ cụ túc giới, Tôn giả Ca-diếp sống một mình, ẩn dật, tinh cần, nhiệt tâm, quyết chí, đã tự mình chứng ngộ bằng thắng trí (direct knowledge - abhiññā - trí tuệ siêu việt, sự hiểu biết trực tiếp), ngay trong đời này, chứng đạt và an trú vào mục đích tối thượng của đời sống phạm hạnh (supreme goal of the holy life - brahmacariyapariyosāna - đích đến cuối cùng của con đường tu tập, tức là Niết-bàn) mà vì mục đích đó các thiện nam tử (clansmen - kulaputta - người con trai xuất thân từ gia đình tốt, có niềm tin) chân chính xuất gia, từ bỏ đời sống gia đình, sống không gia đình. Vị ấy biết rõ: "Sanh đã tận, phạm hạnh đã thành, việc cần làm đã làm, không còn trở lui trạng thái này nữa." Và Tôn giả Ca-diếp đã trở thành một trong các vị A-la-hán (arahants - bậc thánh đã đạt giác ngộ hoàn toàn, chấm dứt luân hồi).
 
 40\.  Rồi vào một dịp khác, Tôn giả Bakkula cầm chìa khóa đi từ cốc này sang cốc khác, nói rằng: "Xin mời các Tôn giả ra khỏi cốc; xin mời các Tôn giả ra khỏi cốc. Hôm nay tôi sẽ nhập đại Niết-bàn (final Nibbāna - parinibbāna - sự tịch diệt hoàn toàn, không còn tái sinh của một vị Phật hay A-la-hán)."
-    [Việc Tôn giả Bakkula cầm chìa khóa đi từ cốc này sang cốc khác nói rằng: "Xin mời các Tôn giả ra khỏi cốc; xin mời các Tôn giả ra khỏi cốc. Hôm nay tôi sẽ nhập đại Niết-bàn" – điều này chúng tôi cũng ghi nhận là một phẩm chất kỳ diệu và phi thường của Tôn giả Bakkula.] [128]
+[Việc Tôn giả Bakkula cầm chìa khóa đi từ cốc này sang cốc khác nói rằng: "Xin mời các Tôn giả ra khỏi cốc; xin mời các Tôn giả ra khỏi cốc. Hôm nay tôi sẽ nhập đại Niết-bàn" – điều này chúng tôi cũng ghi nhận là một phẩm chất kỳ diệu và phi thường của Tôn giả Bakkula.] [128]
 
 41\.  Sau đó, ngồi giữa Tăng đoàn các tỳ-kheo (Sangha of bhikkhus - bhikkhusaṅgha - cộng đồng các vị sư nam đã thọ cụ túc giới), Tôn giả Bakkula đã nhập đại Niết-bàn. [^1172]
 
-    [Việc Tôn giả Bakkula ngồi giữa Tăng đoàn các tỳ-kheo và nhập đại Niết-bàn – điều này chúng tôi cũng ghi nhận là một phẩm chất kỳ diệu và phi thường của Tôn giả Bakkula. $]^{1173}$
+[Việc Tôn giả Bakkula ngồi giữa Tăng đoàn các tỳ-kheo và nhập đại Niết-bàn – điều này chúng tôi cũng ghi nhận là một phẩm chất kỳ diệu và phi thường của Tôn giả Bakkula. [^1173]
 
 <!--pg-->
 Từ ngữ:

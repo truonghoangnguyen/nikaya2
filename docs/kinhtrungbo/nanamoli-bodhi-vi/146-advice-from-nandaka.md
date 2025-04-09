@@ -7,53 +7,53 @@
 
 3\.  Vào lúc đó, các trưởng lão tỳ kheo (bhikkhus - nhà sư) đang thay phiên nhau khuyên dạy các tỳ kheo ni, nhưng Tôn giả Nan-đa-ka (Nandaka) lại không muốn khuyên dạy họ khi đến lượt mình. [^1318] Bấy giờ, Đức Thế Tôn gọi Tôn giả A-nan-đa (Ānanda): "Này A-nan-đa, hôm nay đến phiên ai khuyên dạy các tỳ kheo ni?"
 
-    "Bạch Thế Tôn, hôm nay đến phiên Tôn giả Nan-đa-ka khuyên dạy các tỳ kheo ni, nhưng ngài ấy không muốn khuyên dạy dù đã đến lượt."
+"Bạch Thế Tôn, hôm nay đến phiên Tôn giả Nan-đa-ka khuyên dạy các tỳ kheo ni, nhưng ngài ấy không muốn khuyên dạy dù đã đến lượt."
 
 4\.  Rồi Đức Thế Tôn gọi Tôn giả Nan-đa-ka: "Này Nan-đa-ka, hãy khuyên dạy các tỳ kheo ni. Này Nan-đa-ka, hãy chỉ dạy các tỳ kheo ni. Này Bà-la-môn, hãy thuyết một bài Pháp cho các tỳ kheo ni."
 
-    "Vâng, bạch Thế Tôn," [271] Tôn giả Nan-đa-ka đáp lời. Rồi, vào buổi sáng, Tôn giả Nan-đa-ka đắp y, mang bát và thượng y, vào thành Xá-vệ để khất thực. Sau khi khất thực ở Xá-vệ và trở về, dùng bữa xong, ngài cùng một vị tỳ kheo khác đi đến vườn Rājaka. Các tỳ kheo ni thấy Tôn giả Nan-đa-ka từ xa đi tới liền dọn chỗ ngồi và đặt nước rửa chân. Tôn giả Nan-đa-ka ngồi xuống chỗ đã soạn sẵn và rửa chân. Các tỳ kheo ni đảnh lễ ngài rồi ngồi sang một bên. Khi họ đã ngồi yên, Tôn giả Nan-đa-ka nói với các tỳ kheo ni:
+"Vâng, bạch Thế Tôn," [271] Tôn giả Nan-đa-ka đáp lời. Rồi, vào buổi sáng, Tôn giả Nan-đa-ka đắp y, mang bát và thượng y, vào thành Xá-vệ để khất thực. Sau khi khất thực ở Xá-vệ và trở về, dùng bữa xong, ngài cùng một vị tỳ kheo khác đi đến vườn Rājaka. Các tỳ kheo ni thấy Tôn giả Nan-đa-ka từ xa đi tới liền dọn chỗ ngồi và đặt nước rửa chân. Tôn giả Nan-đa-ka ngồi xuống chỗ đã soạn sẵn và rửa chân. Các tỳ kheo ni đảnh lễ ngài rồi ngồi sang một bên. Khi họ đã ngồi yên, Tôn giả Nan-đa-ka nói với các tỳ kheo ni:
 
 5\.  "Này các sư tỷ, bài pháp này sẽ theo hình thức hỏi đáp. Khi hiểu, các sư tỷ nên nói: 'Chúng tôi hiểu'; khi không hiểu, nên nói: 'Chúng tôi không hiểu'; khi nghi ngờ hay phân vân, các sư tỷ nên hỏi tôi: 'Việc này là thế nào, bạch Tôn giả? Nghĩa là gì?'"
 
-    "Bạch Tôn giả, chúng tôi hài lòng và hoan hỷ khi được Tôn giả Nan-đa-ka mời chúng tôi tham gia theo cách này."
+"Bạch Tôn giả, chúng tôi hài lòng và hoan hỷ khi được Tôn giả Nan-đa-ka mời chúng tôi tham gia theo cách này."
 
 6\.  "Này các sư tỷ, các sư tỷ nghĩ sao? Mắt là thường còn hay vô thường (impermanent - không tồn tại mãi mãi, luôn thay đổi)?" - "Là vô thường, bạch Tôn giả." - "Cái gì vô thường thì là khổ (suffering - sự đau khổ, bất toại nguyện, không hoàn hảo vốn có trong mọi sự tồn tại) hay vui?" - "Là khổ, bạch Tôn giả." - "Cái gì vô thường, khổ, và phải chịu biến đổi thì có đáng để xem là: 'Cái này là của tôi, cái này là tôi, cái này là tự ngã của tôi (self - cái tôi, bản ngã thường hằng, độc lập)' không?" - "Không, bạch Tôn giả."
 
-    "Này các sư tỷ, các sư tỷ nghĩ sao? Tai... mũi... lưỡi... thân... ý là thường còn hay vô thường?" - "Là vô thường, bạch Tôn giả." - "Cái gì vô thường thì là khổ hay vui?" - "Là khổ, bạch Tôn giả." - "Cái gì vô thường, khổ, [272] và phải chịu biến đổi thì có đáng để xem là: 'Cái này là của tôi, cái này là tôi, cái này là tự ngã của tôi' không?" - "Không, bạch Tôn giả. Tại sao vậy? Bởi vì, bạch Tôn giả, chúng tôi đã thấy rõ điều này đúng như thật bằng trí tuệ chân chính (proper wisdom - sự hiểu biết đúng đắn, thấy rõ bản chất sự vật) rằng: 'Sáu nội xứ (six internal bases - mắt, tai, mũi, lưỡi, thân, ý) này là vô thường.'"[^1319]
+"Này các sư tỷ, các sư tỷ nghĩ sao? Tai... mũi... lưỡi... thân... ý là thường còn hay vô thường?" - "Là vô thường, bạch Tôn giả." - "Cái gì vô thường thì là khổ hay vui?" - "Là khổ, bạch Tôn giả." - "Cái gì vô thường, khổ, [272] và phải chịu biến đổi thì có đáng để xem là: 'Cái này là của tôi, cái này là tôi, cái này là tự ngã của tôi' không?" - "Không, bạch Tôn giả. Tại sao vậy? Bởi vì, bạch Tôn giả, chúng tôi đã thấy rõ điều này đúng như thật bằng trí tuệ chân chính (proper wisdom - sự hiểu biết đúng đắn, thấy rõ bản chất sự vật) rằng: 'Sáu nội xứ (six internal bases - mắt, tai, mũi, lưỡi, thân, ý) này là vô thường.'"[^1319]
 
-    "Lành thay, lành thay, các sư tỷ! Vị Thánh đệ tử (noble disciple - người đã đạt được một trong các tầng Thánh quả) nào thấy rõ điều này đúng như thật bằng trí tuệ chân chính thì cũng như vậy."
+"Lành thay, lành thay, các sư tỷ! Vị Thánh đệ tử (noble disciple - người đã đạt được một trong các tầng Thánh quả) nào thấy rõ điều này đúng như thật bằng trí tuệ chân chính thì cũng như vậy."
 
 7\.  "Này các sư tỷ, các sư tỷ nghĩ sao? Sắc... thanh... hương... vị... xúc... pháp là thường còn hay vô thường?" - "Là vô thường, bạch Tôn giả." - "Cái gì vô thường thì là khổ hay vui?" - "Là khổ, bạch Tôn giả." - "Cái gì vô thường, khổ, và phải chịu biến đổi thì có đáng để xem là: 'Cái này là của tôi, cái này là tôi, cái này là tự ngã của tôi' không?" - "Không, bạch Tôn giả. Tại sao vậy? Bởi vì, bạch Tôn giả, chúng tôi đã thấy rõ điều này đúng như thật bằng trí tuệ chân chính rằng: 'Sáu ngoại xứ (six external bases - sắc, thanh, hương, vị, xúc, pháp) này là vô thường.'"
 
-    "Lành thay, lành thay, các sư tỷ! Vị Thánh đệ tử nào thấy rõ điều này đúng như thật bằng trí tuệ chân chính thì cũng như vậy."
+"Lành thay, lành thay, các sư tỷ! Vị Thánh đệ tử nào thấy rõ điều này đúng như thật bằng trí tuệ chân chính thì cũng như vậy."
 
 8\.  "Này các sư tỷ, các sư tỷ nghĩ sao? Nhãn thức... [273]... nhĩ thức... tỷ thức... thiệt thức... thân thức... ý thức là thường còn hay vô thường?" - "Là vô thường, bạch Tôn giả." - "Cái gì vô thường thì là khổ hay vui?" - "Là khổ, bạch Tôn giả." - "Cái gì vô thường, khổ, và phải chịu biến đổi thì có đáng để xem là: 'Cái này là của tôi, cái này là tôi, cái này là tự ngã của tôi' không?" - "Không, bạch Tôn giả. Tại sao vậy? Bởi vì, bạch Tôn giả, chúng tôi đã thấy rõ điều này đúng như thật bằng trí tuệ chân chính rằng: 'Sáu loại thức (six classes of consciousness - nhận thức qua mắt, tai, mũi, lưỡi, thân, ý) này là vô thường.'"
 
-    "Lành thay, lành thay, các sư tỷ! Vị Thánh đệ tử nào thấy rõ điều này đúng như thật bằng trí tuệ chân chính thì cũng như vậy."
+"Lành thay, lành thay, các sư tỷ! Vị Thánh đệ tử nào thấy rõ điều này đúng như thật bằng trí tuệ chân chính thì cũng như vậy."
 
 9\.  "Này các sư tỷ, giả sử có một ngọn đèn dầu đang cháy: dầu của nó vô thường và chịu biến đổi, tim đèn (bấc) của nó vô thường và chịu biến đổi, ngọn lửa của nó vô thường và chịu biến đổi, và ánh sáng của nó vô thường và chịu biến đổi. Vậy có ai nói đúng không nếu người đó nói rằng: 'Khi ngọn đèn dầu này đang cháy, dầu, tim đèn và ngọn lửa của nó là vô thường và chịu biến đổi, nhưng ánh sáng của nó thì thường còn, vĩnh cửu, bất biến, không chịu biến đổi'?"
 
-    "Không, bạch Tôn giả. Tại sao vậy? Bởi vì, bạch Tôn giả, khi ngọn đèn dầu đó đang cháy, dầu, tim đèn và ngọn lửa của nó là vô thường và chịu biến đổi, nên ánh sáng của nó cũng phải vô thường và chịu biến đổi."
+"Không, bạch Tôn giả. Tại sao vậy? Bởi vì, bạch Tôn giả, khi ngọn đèn dầu đó đang cháy, dầu, tim đèn và ngọn lửa của nó là vô thường và chịu biến đổi, nên ánh sáng của nó cũng phải vô thường và chịu biến đổi."
 
-    "Cũng vậy, này các sư tỷ, có ai nói đúng không nếu người đó nói rằng: 'Sáu nội xứ này là vô thường và chịu biến đổi, nhưng cảm thọ (feeling - cảm giác dễ chịu, khó chịu, hay trung tính) vui, khổ, hay không khổ không vui mà người ta trải nghiệm tùy thuộc vào sáu nội xứ ấy lại là thường còn, vĩnh cửu, bất biến, không chịu biến đổi'?"
+"Cũng vậy, này các sư tỷ, có ai nói đúng không nếu người đó nói rằng: 'Sáu nội xứ này là vô thường và chịu biến đổi, nhưng cảm thọ (feeling - cảm giác dễ chịu, khó chịu, hay trung tính) vui, khổ, hay không khổ không vui mà người ta trải nghiệm tùy thuộc vào sáu nội xứ ấy lại là thường còn, vĩnh cửu, bất biến, không chịu biến đổi'?"
 
-    "Không, bạch Tôn giả. Tại sao vậy? Bởi vì mỗi cảm thọ sinh khởi tùy thuộc vào điều kiện tương ứng của nó, [^1320] [274] và khi điều kiện tương ứng đó chấm dứt, cảm thọ cũng chấm dứt."
+"Không, bạch Tôn giả. Tại sao vậy? Bởi vì mỗi cảm thọ sinh khởi tùy thuộc vào điều kiện tương ứng của nó, [^1320] [274] và khi điều kiện tương ứng đó chấm dứt, cảm thọ cũng chấm dứt."
 
-    "Lành thay, lành thay, các sư tỷ! Vị Thánh đệ tử nào thấy rõ điều này đúng như thật bằng trí tuệ chân chính thì cũng như vậy."
+"Lành thay, lành thay, các sư tỷ! Vị Thánh đệ tử nào thấy rõ điều này đúng như thật bằng trí tuệ chân chính thì cũng như vậy."
 
 10\. "Này các sư tỷ, giả sử có một cây lớn có lõi cây chắc đang đứng đó: rễ của nó vô thường và chịu biến đổi, thân của nó vô thường và chịu biến đổi, cành lá của nó vô thường và chịu biến đổi, và bóng của nó vô thường và chịu biến đổi. Vậy có ai nói đúng không nếu người đó nói rằng: 'Rễ, thân, cành lá của cây lớn có lõi cây chắc này là vô thường và chịu biến đổi, nhưng bóng của nó thì thường còn, vĩnh cửu, bất biến, không chịu biến đổi'?"
 
-    "Không, bạch Tôn giả. Tại sao vậy? Bởi vì, bạch Tôn giả, rễ, thân, cành lá của cây lớn có lõi cây chắc này là vô thường và chịu biến đổi, nên bóng của nó cũng phải vô thường và chịu biến đổi."
+"Không, bạch Tôn giả. Tại sao vậy? Bởi vì, bạch Tôn giả, rễ, thân, cành lá của cây lớn có lõi cây chắc này là vô thường và chịu biến đổi, nên bóng của nó cũng phải vô thường và chịu biến đổi."
 
-    "Cũng vậy, này các sư tỷ, có ai nói đúng không nếu người đó nói rằng: 'Sáu ngoại xứ này là vô thường và chịu biến đổi, nhưng cảm thọ vui, khổ, hay không khổ không vui mà người ta trải nghiệm tùy thuộc vào sáu ngoại xứ ấy lại là thường còn, vĩnh cửu, bất biến, không chịu biến đổi'?"
+"Cũng vậy, này các sư tỷ, có ai nói đúng không nếu người đó nói rằng: 'Sáu ngoại xứ này là vô thường và chịu biến đổi, nhưng cảm thọ vui, khổ, hay không khổ không vui mà người ta trải nghiệm tùy thuộc vào sáu ngoại xứ ấy lại là thường còn, vĩnh cửu, bất biến, không chịu biến đổi'?"
 
-    "Không, bạch Tôn giả. Tại sao vậy? Bởi vì mỗi cảm thọ sinh khởi tùy thuộc vào điều kiện tương ứng của nó, và khi điều kiện tương ứng đó chấm dứt, cảm thọ cũng chấm dứt."
+"Không, bạch Tôn giả. Tại sao vậy? Bởi vì mỗi cảm thọ sinh khởi tùy thuộc vào điều kiện tương ứng của nó, và khi điều kiện tương ứng đó chấm dứt, cảm thọ cũng chấm dứt."
 
-    "Lành thay, lành thay, các sư tỷ! Vị Thánh đệ tử nào thấy rõ điều này đúng như thật bằng trí tuệ chân chính thì cũng như vậy."
+"Lành thay, lành thay, các sư tỷ! Vị Thánh đệ tử nào thấy rõ điều này đúng như thật bằng trí tuệ chân chính thì cũng như vậy."
 
 11\. "Này các sư tỷ, giả sử một người đồ tể lành nghề hoặc đệ tử của ông ta giết một con bò và dùng dao mổ sắc bén để xẻ thịt nó. Không làm hư hại khối thịt bên trong và không làm hư hại lớp da bên ngoài, ông ta sẽ cắt, chặt, và lóc bỏ các gân, dây chằng và dây nối bên trong bằng con dao mổ sắc bén đó. [275] Sau khi đã cắt, chặt, và lóc bỏ tất cả những thứ đó, ông ta lột lớp da bên ngoài ra và lấy chính lớp da đó phủ lại con bò. Liệu ông ta có nói đúng không nếu nói rằng: 'Con bò này dính liền với lớp da này y như trước'?"
 
-    "Không, bạch Tôn giả. Tại sao vậy? Bởi vì nếu người đồ tể lành nghề đó hoặc đệ tử của ông ta giết một con bò... và cắt, chặt, lóc bỏ tất cả những thứ đó, thì dù ông ta có phủ lại con bò bằng chính lớp da đó và nói: 'Con bò này dính liền với lớp da này y như trước,' con bò đó vẫn đã bị tách rời khỏi lớp da đó."
+"Không, bạch Tôn giả. Tại sao vậy? Bởi vì nếu người đồ tể lành nghề đó hoặc đệ tử của ông ta giết một con bò... và cắt, chặt, lóc bỏ tất cả những thứ đó, thì dù ông ta có phủ lại con bò bằng chính lớp da đó và nói: 'Con bò này dính liền với lớp da này y như trước,' con bò đó vẫn đã bị tách rời khỏi lớp da đó."
 
 12\. "Này các sư tỷ, Ta đã đưa ra ví dụ này để truyền đạt một ý nghĩa. Ý nghĩa là như vầy: 'Khối thịt bên trong' là chỉ cho sáu nội xứ. 'Lớp da bên ngoài' là chỉ cho sáu ngoại xứ. 'Gân, dây chằng và dây nối bên trong' là chỉ cho hỷ lạc và tham ái (delight and lust - sự thích thú và ham muốn). 'Con dao mổ sắc bén' là chỉ cho trí tuệ bậc Thánh (noble wisdom - trí tuệ siêu việt giúp đoạn trừ phiền não) – trí tuệ bậc Thánh cắt, chặt, và lóc bỏ những phiền não (defilements - những tâm bất thiện làm ô nhiễm tâm), trói buộc (fetters - những thứ ràng buộc chúng sinh vào vòng luân hồi), và ràng buộc (bonds - tương tự fetters) bên trong."
 
@@ -65,7 +65,7 @@
 
 16-26. Rồi Đức Thế Tôn gọi Tôn giả Nan-đa-ka: "Vậy thì, Nan-đa-ka, ngày mai nữa ông hãy khuyên dạy các tỳ kheo ni đó đúng theo cách tương tự."
 
-    "Vâng, bạch Thế Tôn," Tôn giả Nan-đa-ka đáp lời. Rồi, sáng hôm sau, Tôn giả Nan-đa-ka đắp y... (lặp lại nguyên văn từ §4 đến §14 ở trên, cho đến...) [277]... Rồi các tỳ kheo ni đảnh lễ Đức Thế Tôn và ra về, giữ ngài ở bên phải mình.
+"Vâng, bạch Thế Tôn," Tôn giả Nan-đa-ka đáp lời. Rồi, sáng hôm sau, Tôn giả Nan-đa-ka đắp y... (lặp lại nguyên văn từ §4 đến §14 ở trên, cho đến...) [277]... Rồi các tỳ kheo ni đảnh lễ Đức Thế Tôn và ra về, giữ ngài ở bên phải mình.
 
 27\. Ngay sau khi họ rời đi, Đức Thế Tôn nói với các tỳ kheo: "Này các tỳ kheo, cũng như vào ngày Bố-tát thứ mười lăm, người ta không nghi ngờ hay phân vân mặt trăng tròn hay khuyết, vì lúc đó mặt trăng rõ ràng là đã tròn, cũng vậy, các tỳ kheo ni này hài lòng với bài Pháp của Nan-đa-ka và ý nguyện của họ đã được viên mãn. Này các tỳ kheo, trong số năm trăm vị tỳ kheo ni đó, vị tiến bộ ít nhất cũng là bậc Nhập lưu (stream-enterer - người đã bước vào dòng Thánh, tầng Thánh đầu tiên), không còn bị đọa vào cảnh khổ (perdition - các cõi thấp như địa ngục, ngạ quỷ, súc sinh), chắc chắn [đạt giải thoát], hướng đến giác ngộ (enlightenment - sự tỉnh thức hoàn toàn, Niết-bàn)." [^1322]
 

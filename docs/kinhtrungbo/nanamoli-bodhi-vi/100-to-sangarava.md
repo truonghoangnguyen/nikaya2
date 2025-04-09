@@ -7,17 +7,17 @@
 
 3\.  Lúc đó, có một thanh niên Bà-la-môn tên là Sangārava đang ở tại Caṇḍalakappa. Anh ta là bậc thầy về Tam Vệ Đà, bao gồm từ vựng, nghi lễ, âm vị học, từ nguyên học, và lịch sử là phần thứ năm; thông thạo ngữ văn và ngữ pháp, anh ta hoàn toàn tinh thông triết học tự nhiên và các tướng của bậc Đại Nhân. Nghe thấy nữ Bà-la-môn Dhānañjānī thốt lên những lời đó, anh ta nói với bà: "Nữ Bà-la-môn Dhānañjānī này hẳn là kẻ ô nhục và hèn hạ, vì khi có các Bà-la-môn ở đây mà bà ta lại ca ngợi ông sa môn (recluse - người xuất gia tu hành, thường không theo truyền thống Bà-la-môn) đầu trọc đó."
 
-    [Bà đáp:] "Thưa ngài, ngài không biết giới đức và trí tuệ của Đức Thế Tôn. Nếu ngài biết giới đức và trí tuệ của Đức Thế Tôn đó, thưa ngài, ngài sẽ không bao giờ nghĩ đến việc lăng mạ và phỉ báng Ngài."
+[Bà đáp:] "Thưa ngài, ngài không biết giới đức và trí tuệ của Đức Thế Tôn. Nếu ngài biết giới đức và trí tuệ của Đức Thế Tôn đó, thưa ngài, ngài sẽ không bao giờ nghĩ đến việc lăng mạ và phỉ báng Ngài."
 
-    "Vậy thì, thưa bà, khi nào sa môn Gotama đến Caṇḍalakappa, xin hãy báo cho tôi biết."
+"Vậy thì, thưa bà, khi nào sa môn Gotama đến Caṇḍalakappa, xin hãy báo cho tôi biết."
 
-    "Vâng, thưa ngài," nữ Bà-la-môn Dhānañjānī đáp.
+"Vâng, thưa ngài," nữ Bà-la-môn Dhānañjānī đáp.
 
 4\.  Sau đó, sau khi du hành qua từng chặng đường trong xứ Kosala, Đức Thế Tôn cuối cùng đã đến Caṇḍalakappa. Tại Caṇḍalakappa, Đức Thế Tôn trú trong Vườn Xoài của dòng họ Bà-la-môn Todeyya.
 
 5\.  Nữ Bà-la-môn Dhānañjānī nghe tin Đức Thế Tôn đã đến, liền đi đến gặp thanh niên Bà-la-môn Sangārava và báo: "Thưa ngài, Đức Thế Tôn đã đến Caṇḍalakappa và đang trú tại đây, trong Vườn Xoài của dòng họ Bà-la-môn Todeyya. Bây giờ là lúc, thưa ngài, để ngài làm những gì ngài thấy phù hợp."
 
-    "Vâng, thưa bà," anh ta đáp. Rồi anh ta đi đến gặp Đức Thế Tôn và chào hỏi Ngài. Sau khi cuộc nói chuyện lịch sự [211] và thân mật kết thúc, anh ta ngồi xuống một bên và nói:
+"Vâng, thưa bà," anh ta đáp. Rồi anh ta đi đến gặp Đức Thế Tôn và chào hỏi Ngài. Sau khi cuộc nói chuyện lịch sự [211] và thân mật kết thúc, anh ta ngồi xuống một bên và nói:
 
 6\.  "Thưa Tôn giả Gotama, có một số sa môn và Bà-la-môn tuyên bố [dạy] những điều căn bản của đời sống phạm hạnh (holy life - đời sống thanh tịnh, hướng đến giải thoát) sau khi đã đạt đến sự viên mãn và hoàn hảo của trí tuệ trực tiếp (consummation and perfection of direct knowledge - sự thành tựu cao nhất và hoàn thiện của việc biết trực tiếp không qua trung gian) ngay trong hiện tại. [^918] Trong số các vị sa môn và Bà-la-môn này, Tôn giả Gotama đứng ở vị trí nào?"
 
@@ -35,15 +35,15 @@
 
 42\.  Khi nghe vậy, thanh niên Bà-la-môn Sangārava nói với Đức Thế Tôn: "Sự tinh tấn của Tôn giả Gotama thật không lay chuyển, sự tinh tấn của Tôn giả Gotama là sự tinh tấn của bậc chân nhân, xứng đáng là của một bậc A-la-hán, Chánh Đẳng Giác. Nhưng thưa Tôn giả Gotama, có chư thiên (gods - các vị trời, chúng sinh ở cõi cao hơn cõi người) không?"
 
-    "Ta biết rõ trường hợp đó, Bhāradvāja, rằng có chư thiên."
+"Ta biết rõ trường hợp đó, Bhāradvāja, rằng có chư thiên."
 
-    "Nhưng tại sao lại như vậy, thưa Tôn giả Gotama, khi được hỏi, 'Có chư thiên không?' Ngài lại nói: 'Ta biết rõ trường hợp đó, Bhāradvāja, rằng có chư thiên'? Nếu vậy, chẳng phải điều Ngài nói là trống rỗng và sai sự thật sao?"[^921]
+"Nhưng tại sao lại như vậy, thưa Tôn giả Gotama, khi được hỏi, 'Có chư thiên không?' Ngài lại nói: 'Ta biết rõ trường hợp đó, Bhāradvāja, rằng có chư thiên'? Nếu vậy, chẳng phải điều Ngài nói là trống rỗng và sai sự thật sao?"[^921]
 
-    "Này Bhāradvāja, khi một người được hỏi, 'Có chư thiên không?' [213] dù người đó trả lời, 'Có chư thiên,' hay 'Ta biết rõ trường hợp đó [rằng có chư thiên],' một người có trí tuệ vẫn có thể đi đến kết luận chắc chắn rằng có chư thiên."
+"Này Bhāradvāja, khi một người được hỏi, 'Có chư thiên không?' [213] dù người đó trả lời, 'Có chư thiên,' hay 'Ta biết rõ trường hợp đó [rằng có chư thiên],' một người có trí tuệ vẫn có thể đi đến kết luận chắc chắn rằng có chư thiên."
 
-    "Nhưng tại sao Tôn giả Gotama không trả lời con theo cách thứ nhất?"
+"Nhưng tại sao Tôn giả Gotama không trả lời con theo cách thứ nhất?"
 
-    "Vì trên thế gian này, Bhāradvāja, người ta chấp nhận rộng rãi rằng có chư thiên."
+"Vì trên thế gian này, Bhāradvāja, người ta chấp nhận rộng rãi rằng có chư thiên."
 
 43\.  Khi nghe vậy, thanh niên Bà-la-môn Sangārava nói với Đức Thế Tôn: "Thật vi diệu thay, thưa Tôn giả Gotama! Thật vi diệu thay, thưa Tôn giả Gotama! Tôn giả Gotama đã làm sáng tỏ Giáo Pháp bằng nhiều cách, như thể lật ngửa những gì bị úp xuống, tiết lộ những gì bị che giấu, chỉ đường cho người lạc lối, hay giơ cao ngọn đèn trong bóng tối cho những ai có mắt để thấy các hình sắc. Con xin quy y (refuge - nương tựa, tìm nơi ẩn náu tinh thần) Tôn giả Gotama, quy y Giáo Pháp và quy y Tăng đoàn tỳ kheo. Xin Tôn giả Gotama ghi nhận con là một người cận sự nam (lay follower - người nam cư sĩ tại gia theo Phật) đã quy y trọn đời."
 

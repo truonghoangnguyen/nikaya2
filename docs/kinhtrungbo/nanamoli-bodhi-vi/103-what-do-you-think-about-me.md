@@ -5,13 +5,13 @@
 
 2\.  "Này các Tỳ kheo, các thầy nghĩ gì về Ta? Rằng Sa môn Cồ Đàm giảng Pháp (Dhamma - giáo lý, sự thật) vì muốn có y áo? Hay Sa môn Cồ Đàm giảng Pháp vì muốn có vật thực khất thực? Hay Sa môn Cồ Đàm giảng Pháp vì muốn có chỗ ở? Hay Sa môn Cồ Đàm giảng Pháp vì một cảnh giới tốt đẹp hơn nào đó (some better state of being - ý chỉ sự tái sinh vào cõi trời hoặc cảnh giới an lành hơn, nhưng không phải Niết Bàn)?"
 
-    "Bạch Thế Tôn, chúng con không nghĩ về Đức Thế Tôn như vậy: 'Sa môn Cồ Đàm giảng Pháp vì muốn có y áo, hay vì muốn có vật thực khất thực, hay vì muốn có chỗ ở, hay vì một cảnh giới tốt đẹp hơn nào đó.'"
+"Bạch Thế Tôn, chúng con không nghĩ về Đức Thế Tôn như vậy: 'Sa môn Cồ Đàm giảng Pháp vì muốn có y áo, hay vì muốn có vật thực khất thực, hay vì muốn có chỗ ở, hay vì một cảnh giới tốt đẹp hơn nào đó.'"
 
-    "Vậy, này các Tỳ kheo, các thầy không nghĩ về Ta như vậy: 'Sa môn Cồ Đàm giảng Pháp vì muốn có y áo... hay vì một cảnh giới tốt đẹp hơn nào đó.' Thế thì các thầy nghĩ gì về Ta?"
+"Vậy, này các Tỳ kheo, các thầy không nghĩ về Ta như vậy: 'Sa môn Cồ Đàm giảng Pháp vì muốn có y áo... hay vì một cảnh giới tốt đẹp hơn nào đó.' Thế thì các thầy nghĩ gì về Ta?"
 
-    "Bạch Thế Tôn, chúng con nghĩ về Đức Thế Tôn như vầy: 'Đức Thế Tôn có lòng bi mẫn và mong cầu hạnh phúc cho chúng con; Ngài giảng Pháp vì lòng bi mẫn.'"
+"Bạch Thế Tôn, chúng con nghĩ về Đức Thế Tôn như vầy: 'Đức Thế Tôn có lòng bi mẫn và mong cầu hạnh phúc cho chúng con; Ngài giảng Pháp vì lòng bi mẫn.'"
 
-    "Vậy, này các Tỳ kheo, các thầy nghĩ về Ta như vầy: 'Đức Thế Tôn có lòng bi mẫn và mong cầu hạnh phúc cho chúng con; Ngài giảng Pháp vì lòng bi mẫn.'
+"Vậy, này các Tỳ kheo, các thầy nghĩ về Ta như vầy: 'Đức Thế Tôn có lòng bi mẫn và mong cầu hạnh phúc cho chúng con; Ngài giảng Pháp vì lòng bi mẫn.'
 
 3\.  "Vậy, này các Tỳ kheo, những pháp này mà Ta đã dạy cho các thầy sau khi tự mình chứng ngộ (directly knowing - thắng tri, biết rõ một cách trực tiếp không qua trung gian) - tức là, bốn nền tảng chánh niệm (four foundations of mindfulness - cattāro satipaṭṭhānā - bốn lĩnh vực quán chiếu: thân, thọ, tâm, pháp), bốn loại nỗ lực chân chính (four right kinds of striving - cattāro sammappadhānā - bốn chánh cần: ngăn ngừa ác pháp chưa sanh, đoạn trừ ác pháp đã sanh, phát triển thiện pháp chưa sanh, duy trì thiện pháp đã sanh), bốn nền tảng thần thông (four bases for spiritual power - cattāro iddhipādā - bốn như ý túc: dục, cần, tâm, thẩm), năm căn (five faculties - pañcindriyāni - năm năng lực tinh thần: tín, tấn, niệm, định, tuệ), năm lực (five powers - pañca balāni - năm sức mạnh tinh thần tương ứng với năm căn, khi đã phát triển mạnh mẽ), bảy yếu tố giác ngộ (seven enlightenment factors - satta bojjhaṅgā - bảy chi phần dẫn đến giác ngộ: niệm, trạch pháp, tinh tấn, hỷ, khinh an, định, xả), Bát Chánh Đạo (Noble Eightfold Path - ariyo aṭṭhaṅgiko maggo - con đường tám nhánh dẫn đến giải thoát: chánh kiến, chánh tư duy, chánh ngữ, chánh nghiệp, chánh mạng, chánh tinh tấn, chánh niệm, chánh định) - đối với những pháp này, tất cả các thầy nên cùng nhau tu tập trong hòa hợp, hoan hỷ với nhau, không tranh cãi.
 
@@ -39,11 +39,11 @@
 
 15\. "Trong khi các thầy đang tu tập trong hòa hợp, hoan hỷ với nhau, không tranh cãi, có thể nảy sinh sự cọ xát bằng lời nói lẫn nhau, những quan điểm áp đặt, sự khó chịu trong tâm, sự cay đắng, và sự chán nản. Lúc ấy, nên đến gặp vị tỳ kheo nào mà các thầy cho là có lý nhất trong số những vị cùng phe và nói như sau: 'Này hiền giả, trong khi chúng ta đang tu tập trong hòa hợp, hoan hỷ với nhau, không tranh cãi, đã nảy sinh sự cọ xát bằng lời nói lẫn nhau, những quan điểm áp đặt, sự khó chịu trong tâm, sự cay đắng, và sự chán nản. Nếu Sa môn (Đức Phật) biết được, ngài có khiển trách điều đó không?' [^1974] Trả lời đúng, vị tỳ kheo ấy sẽ đáp: 'Này hiền giả, trong khi chúng ta đang tu tập... Nếu Sa môn biết được, ngài sẽ khiển trách điều đó.'
 
-    "'Nhưng, này hiền giả, không từ bỏ điều đó, liệu có thể chứng ngộ Niết Bàn (Nibbāna - Nirvana - sự chấm dứt hoàn toàn khổ đau, mục tiêu tối hậu của đạo Phật) không?' Trả lời đúng, vị tỳ kheo ấy sẽ đáp: 'Này hiền giả, không từ bỏ điều đó, không thể chứng ngộ Niết Bàn.' [^1975]
+"'Nhưng, này hiền giả, không từ bỏ điều đó, liệu có thể chứng ngộ Niết Bàn (Nibbāna - Nirvana - sự chấm dứt hoàn toàn khổ đau, mục tiêu tối hậu của đạo Phật) không?' Trả lời đúng, vị tỳ kheo ấy sẽ đáp: 'Này hiền giả, không từ bỏ điều đó, không thể chứng ngộ Niết Bàn.' [^1975]
 
 16\. "Sau đó, nên đến gặp vị tỳ kheo nào mà các thầy cho là có lý nhất trong số những vị cùng phe đối lập và nói như sau: 'Này hiền giả, trong khi chúng ta đang tu tập trong hòa hợp, hoan hỷ với nhau, không tranh cãi, đã nảy sinh sự cọ xát bằng lời nói lẫn nhau, những quan điểm áp đặt, sự khó chịu trong tâm, sự cay đắng, và sự chán nản. Nếu Sa môn biết được, ngài có khiển trách điều đó không?' Trả lời đúng, vị tỳ kheo ấy sẽ đáp: 'Này hiền giả, trong khi chúng ta đang tu tập... Nếu Sa môn biết được, ngài sẽ khiển trách điều đó.'
 
-    "'Nhưng, này hiền giả, không từ bỏ điều đó, liệu có thể chứng ngộ Niết Bàn không?' Trả lời đúng, vị tỳ kheo ấy sẽ đáp: [243] 'Này hiền giả, không từ bỏ điều đó, không thể chứng ngộ Niết Bàn.'
+"'Nhưng, này hiền giả, không từ bỏ điều đó, liệu có thể chứng ngộ Niết Bàn không?' Trả lời đúng, vị tỳ kheo ấy sẽ đáp: [243] 'Này hiền giả, không từ bỏ điều đó, không thể chứng ngộ Niết Bàn.'
 
 17\. "Nếu những người khác hỏi vị tỳ kheo ấy như vầy: 'Có phải chính tôn giả đã giúp các vị tỳ kheo kia thoát khỏi điều bất thiện và an trú vào điều thiện không?' Trả lời đúng, vị tỳ kheo ấy sẽ đáp: 'Này các hiền giả, tôi đã đến gặp Đức Thế Tôn. Đức Thế Tôn đã giảng Pháp cho tôi. Sau khi nghe Pháp đó, tôi đã nói lại cho các vị tỳ kheo kia. Các vị tỳ kheo ấy nghe Pháp đó, và họ đã thoát khỏi điều bất thiện và an trú vào điều thiện.' Trả lời như vậy, vị tỳ kheo không tán dương mình cũng không chê bai người khác; vị ấy trả lời đúng theo Pháp theo cách mà không ai có thể suy diễn một cách hợp lý điều gì đáng khiển trách từ lời khẳng định của vị ấy."
 

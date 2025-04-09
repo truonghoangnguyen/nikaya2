@@ -74,7 +74,7 @@ Ta theo chánh hạnh. Ðiều ta nói có tương ưng. Ðiều Ông nói khôn
 của Ông đã bị bài bác. Ông đã bị thuyết bại. Hãy đến giải vây lời nói (ấy) nếu có thể được, gắng thoát
 khỏi lối bí". Như vậy, Purana Kassapa không được các đệ tử cung kính, tôn trọng, kính lễ, cúng dường.
 Và sau khi cung kính tôn trọng, các đệ tử đã không sống nương tựa Purana Kassapa. Trái lại, Purana
-Kassapa đã bị mạ lới những lời mắng nhiếc vì hành động của mình.
+Kassapa đã bị mạ với những lời mắng nhiếc vì hành động của mình.
 
 Có một số người đã nói như sau: "Vị Makkhali Gosala này... Vị Ajita Kesakambali... Vị Pukudha
 Kaccayana... Vị Sanjaya Belatthiputta... Vị Nigantha Nataputta này là bậc lãnh đạo hội chúng, bậc lãnh
@@ -122,6 +122,7 @@ Sa-môn Gotama.
 -- Này Udayi, Ông thấy nơi ta có bao nhiêu pháp mà do các pháp này, các đệ tử cung kính, tôn trọng,
 kính lễ, cúng dường Ta và sau khi cung kính tôn trọng, sống nương tựa vào Ta?
 
+<!--pg-->
 -- Bạch Thế Tôn, con thấy nơi Thế Tôn có năm pháp mà do năm pháp này, các đệ tử cung kính, tôn
 trọng, kính lễ, cúng dường Thế Tôn, và sau khi cung kính, tôn trọng, sống nương tựa vào Thế Tôn. Thế
 nào là năm? Bạch Thế Tôn, Thế Tôn ăn ít và tán thán hạnh ăn ít. Bạch Thế Tôn, Thế Tôn ăn ít và tán
@@ -223,6 +224,7 @@ Ta và không cung kính, tôn trọng, không sống nương tựa vào Ta.
 Này Udayi, lại có năm pháp khác, do năm pháp này, các đệ tử của Ta cung kính, tôn trọng, kính lễ, cúng
 dường, và sau khi cung kính, tôn trọng, sống nương tựa (vào Ta). Thế nào là năm?
 
+<!--pg-->
 ***(I. Giới hạnh tăng thượng)***
 
 Ở đây, này Udayi, các đệ tử của Ta thán phục Tăng thượng giới: "Sa-môn Gotama là vị có giới hạnh và
@@ -231,6 +233,7 @@ thành tựu giới uẩn tối thượng". Này Udayi, chính đệ tử của 
 các đệ tử của Ta cung kính, tôn trọng, kính lễ, cúng dường Ta và sau khi cung kính , tôn trọng, sống
 nương tựa vào Ta.
 
+<!--pg-->
 ***(II. Tri kiến vi diệu)***
 
 Lại nữa, này Udayi, các đệ tử của Ta thán phục tri kiến vi diệu. Khi nói: "Ta biết", nghĩa là Sa-môn
@@ -244,6 +247,7 @@ duyên, không phải không có nhơn duyên. Sa-môn Gotama thuyết pháp có
 không có thần thông lực". Ðây là pháp thứ hai này Udayi, các đệ tử của Ta cung kính, tôn trọng, kính lễ,
 cúng dường Ta và sau khi cung kính, tôn trọng, sống nương tựa vào Ta.
 
+<!--pg-->
 ***(III. Trí tuệ tăng thượng)***
 
 Lại nữa, này Udayi, đệ tử của Ta thán phục Tăng thượng trí tuệ và sự kiện này không thể xảy ra khi họ
@@ -257,13 +261,13 @@ chừng không?
 
 -- Này Udayi, Ta không chờ đợi sự giáo giới từ nơi những đệ tử của Ta. Trái lại, chính những đệ tử của
 Ta chờ đợi sự giáo giới từ nơi Ta. Do vậy, này Udayi, sự kiện này không thể xảy ra khi các đệ tử của Ta
-
 thán phục Tăng thượng trí tuệ và suy nghĩ: "Sa-môn Gotama là bậc có trí tuệ và thành tựu tuệ uẩn tối
 thắng. (Tuy vậy) Ngài không thấy (trước) một luận đạo nào ở tương lai, hay một luận nạn ngoại đạo nào
 khởi lên (trong hiện tại) mà Ngài không luận phá, sau khi khéo léo nạn phá với chánh pháp". Ðây là
 pháp thứ ba, này Udayi, mà các đệ tử của Ta cung kính, tôn trọng, kính lễ, cúng dường Ta, và sau khi
 cung kính, tôn trọng, sống nương tựa vào Ta.
 
+<!--pg-->
 ***(IV. Tứ diệu đế)***
 
 Lại nữa, này Udayi, những đệ tử của Ta bị đắm chìm trong đau khổ, bị đau khổ chi phối, đến Ta và hỏi
@@ -272,6 +276,7 @@ câu trả lời của Ta. Họ hỏi Ta về Khổ tập, Khổ diệt, Khổ d
 tâm của họ thỏa mãn với câu trả lời của Ta. Ðây là pháp thứ tư, này Udayi, mà các đệ tử của Ta cung
 kính, tôn trọng, kính lễ, cúng dường Ta và sau khi cung kính, tôn trọng, sống nương tựa vào Ta.
 
+<!--pg-->
 ***(V. Con đường hành trì)***
 
 ***(1. Tứ Niệm xứ)***
@@ -283,6 +288,7 @@ các tâm... quán pháp trên các pháp, nhiệt tâm, tỉnh giác, chánh ni
 ở đây các đệ tự của Ta, phần đông an trú, sau khi chứng ngộ nhờ thắng trí và chứng đắc cứu cánh viên
 mãn.
 
+<!--pg-->
 ***(2. Tứ Chánh cần)***
 
 Lại nữa, này Udayi, Ta thuyết giảng con đường tu hành cho các đệ tử. Và các đệ tử của Ta y cứ con
@@ -295,6 +301,7 @@ sanh có thể duy trì, không có mù mờ, được tăng trưởng, được
 khởi lên ý muốn cố gắng, tinh tấn, sách tâm, trì tâm... Và ở đây, các đệ tử của Ta phần đông an trú, sau
 khi chứng ngộ nhờ thắng trí và chứng đắc cứu cánh viên mãn.
 
+<!--pg-->
 ***(3. Tứ Thần túc)***
 
 Lại nữa, này Udayi, Ta thuyết giảng con đường tu hành cho các đệ tử. Và các đệ tử của Ta y cứ theo
@@ -303,15 +310,16 @@ Thiền định tinh cần hành... tinh tấn Thiền định... tâm Thiền �
 Thiền định tinh cần hành. Và ở đây, các đệ tử của Ta phần đông an trú, sau khi chứng ngộ nhờ thắng trí
 và chứng đắc cứu cánh viên mãn.
 
+<!--pg-->
 ***(4. Ngũ căn)***
 
 Lại nữa, này Udayi, Ta thuyết giảng con đường tu hành cho các đệ tử. Và các đệ tử của Ta y cứ theo
 đường tu hành này tu tập Năm Căn. Ở đây, này Udayi, vị Tỷ-kheo tu tập tín căn hướng đến an tịnh, đưa
 đến giác ngộ, tu tập tinh tấn căn... tu tập niệm căn... tu tập định căn... tu tập tuệ căn, hướng đến an tịnh,
 đưa đến giác ngộ. Và ở đây, này Udayi, các đệ tử của Ta phần đông an trú, sau khi chứng ngộ nhờ thắng
-
 trí và chứng đắc cứu cánh viên mãn.
 
+<!--pg-->
 ***(5. Ngũ lực)***
 
 Lại nữa, này Udayi, Ta thuyết giảng con đường tu hành cho các đệ tử. Và các đệ tử của Ta y cứ theo
@@ -320,6 +328,7 @@ Lại nữa, này Udayi, Ta thuyết giảng con đường tu hành cho các đ�
 đưa đến giác ngộ. Ở đây, này Udayi, các đệ tử của Ta phần đông an trú, sau khi chứng ngộ nhờ thắng trí,
 và chứng đắc cứu cánh viên mãn.
 
+<!--pg-->
 ***(6. Thất Giác chi)***
 
 Lại nữa, này Udayi, Ta thuyết giảng con đường tu hành cho các đệ tử. Và các đệ tử của Ta y cứ con
@@ -329,6 +338,7 @@ tập hỷ giác chi... tu tập khinh an giác chi... tu tập định giác ch
 tham, y chỉ diệt, hướng đến xả. Và ở đây, này Udayi, các đệ tử của Ta phần đông an trú, sau khi chứng
 ngộ nhờ thắng trí, và chứng đắc cứu cánh viên mãn.
 
+<!--pg-->
 ***(7. Bát Chánh đạo)***
 
 Lại nữa, này Udayi, Ta thuyết giảng con đường tu hành cho các đệ tử. Và các đệ tử của Ta y cứ con
@@ -337,6 +347,7 @@ tập chánh tư duy, tu tập chánh ngữ, tu tập chánh nghiệp, tu tập 
 chánh niệm, tu tập chánh định. Và ở đây, này Udayi, các vị đệ tử của Ta phần đông an trú, sau khi
 chứng ngộ nhờ thắng trí và chứng đắc cứu cánh viên mãn.
 
+<!--pg-->
 ***(8. Tám Giải thoát)***
 
 Lại nữa, này Udayi, Ta thuyết giảng con đường tu hành cho các đệ tử. Và đệ tử của Ta y cứ con đường
@@ -351,6 +362,7 @@ tưởng phi phi tưởng xứ, đó là giải thoát thứ bảy. Vượt hoà
 trú Diệt thọ tưởng, đó là giải thoát thứ tám. Và ở đây, này Udayi, các đệ tử của Ta phần đông an trú, sau
 khi chứng ngộ nhờ thắng trí, và chứng đắc cứu cánh viên mãn.
 
+<!--pg-->
 ***(9. Tám Thắng xứ)***
 
 Lại nữa, này Udayi, Ta thuyết giảng con đường tu hành cho các đệ tử. Và các đệ tử của Ta y cứ con
@@ -361,7 +373,6 @@ khi nhiếp thắng chúng, ta biết, ta thấy", đó là thắng xứ thứ h
 các loại ngoại sắc có hạn lượng, đẹp, xấu. Vị ấy nhận thức rằng: "Sau khi nhiếp thắng chúng, ta biết, ta
 thấy", đó là thắng xứ thứ ba. Một vị quán tưởng vô sắc ở nội tâm, thấy các loại ngoại sắc vô lượng, đẹp,
 xấu. Vị ấy nhận thức rằng: "Sau khi nhiếp thắng chúng, ta biết, ta thấy", đó là thắng xứ thứ tư. Một vị
-
 quán tưởng vô sắc ở nội tâm, thấy các loại ngoại sắc màu xanh, sắc màu xanh, hình sắc xanh, ánh sáng
 xanh... như bông gai màu xanh, sắc màu xanh, hình sắc xanh, ánh sáng xanh... như lụa Ba la nại, cả hai
 mặt láng trơn, màu xanh, sắc màu xanh, hình sắc xanh, ánh sáng xanh. Như vậy vị này quán tưởng vô
@@ -384,6 +395,7 @@ hình sắc trắng, ánh sáng trắng. Vị ấy nhận thức rằng: "Sau kh
 thắng xứ thứ tám. Và ở đây, này Udayi, các đệ tử của Ta phần đông an trú, sau khi chứng ngộ nhờ thắng
 trí, và chứng đắc cứu cánh viên mãn.
 
+<!--pg-->
 ***(10. Mười Biến xứ)***
 
 Lại nữa, này Udayi, Ta thuyết giảng con đường tu hành cho các đệ tử. Và các đệ tử của Ta y cứ con
@@ -394,6 +406,7 @@ biến... Một vị biết được hư không biến... Một vị biết đư
 lượng. Và ở đây, này Udayi, các đệ tử của Ta phần đông an trú, sau khi chứng ngộ nhờ thắng trí, và
 chứng đắc cứu cánh viên mãn.
 
+<!--pg-->
 ***(11. Bốn Thiền-na)***
 
 Lại nữa, này Udayi, Ta thuyết giảng con đường tu hành cho các đệ tử. Và các đệ tử của Ta y cứ con
@@ -413,7 +426,6 @@ mãn, tràn đầy thân mình với hỷ lạc do định sanh, không một ch
 do định sanh ấy thấm nhuần. Này Udayi, ví như một hồ nước, nước từ trong dâng lên, phương Ðông
 không có lỗ nước chảy ra, phương Tây không có lỗ nước chảy ra, phương Bắc không có lỗ nước chảy ra,
 phương Nam không có lỗ nước chảy ra, và thỉnh thoảng trời lại mưa lớn. Suối nước mát từ hồ nước ấy
-
 phun ra thấm nhuần, tẩm ướt, làm cho sung mãn tràn đầy hồ nước ấy, với nước mát lạnh, không một chỗ
 nào của hồ nước ấy không được nước mát lạnh ấy thấm nhuần; cũng vậy, này Udayi, vị Tỷ-kheo thấm
 nhuần; tẩm ướt, làm cho sung mãn tràn đầy thân mình với hỷ lạc do định sanh, không một chỗ nào trên
@@ -439,6 +451,7 @@ tâm thuần tịnh, trong sáng, không một chỗ nào trên toàn thân khô
 thấm nhuần. Và ở đây, này Udayi, các đệ tử của Ta phần đông an trú, sau khi chứng ngộ nhờ thắng trí và
 chứng đắc cứu cánh viên mãn.
 
+<!--pg-->
 ***(12. Tuệ tri)***
 
 Lại nữa, này Udayi. Ta thuyết giảng con đường tu hành cho các đệ tử. Và các đệ tử của Ta y cứ con
@@ -456,6 +469,7 @@ thường, biến hoại, phấn toái, đoạn tuyệt, hoại diệt, trong th
 ở đây, này Udayi, các đệ tử của Ta phần đông an trú, sau khi chứng ngộ nhờ thắng trí và chứng đắc cứu
 cánh viên mãn.
 
+<!--pg-->
 ***(13. Thân do ý)***
 
 Lại nữa, này Udayi, Ta thuyết giảng con đường tu hành cho các đệ tử. Và các đệ tử của Ta y cứ con
@@ -465,13 +479,13 @@ như, này Udayi, một người rút một cây lau ra ngoài vỏ, người �
 khác, cây lau khác, và cây lau từ vỏ rút ra". Ví như, này Udayi, một người rút thanh kiếm từ bao kiếm.
 Người ấy nghĩ: "Ðây là thanh kiếm, đây là bao kiếm; thanh kiếm khác, bao kiếm khác; và thanh kiếm từ
 nơi bao kiếm rút ra. Ví như, này Udayi, một người lột xác một con rắn. Người ấy nghĩ: "Ðây là con rắn,
-
 đây là xác rắn; con rắn khác, xác rắn khác; và con rắn từ nơi xác rắn được lột ra". Cũng vậy, này Udayi,
 Ta thuyết giảng con đường tu hành cho các đệ tử . Và các đệ tử của Ta y cứ con đường tu hành này, chú
 tâm, hướng tâm đến sự hóa hiện một thân do ý làm ra. Vị ấy tạo một thân khác từ nơi thân này, cũng là
 sắc pháp, do ý làm ra, đầy đủ các chi tiết lớn nhỏ,không thiếu một căn nào. Và ở đây, này Udayi, các đệ
 tử của Ta phần đông an trú, sau khi chứng ngộ nhờ thắng trí và chứng đắc cứu cánh viên mãn.
 
+<!--pg-->
 ***(14. Thần túc thông)***
 
 Lại nữa, này Udayi, Ta thuyết giảng con đường tu hành cho các đệ tử. Và các đệ tử của Ta y cứ con
@@ -493,6 +507,7 @@ con chim; với bàn tay chạm và rờ mặt trời và mặt trăng, những 
 có thể tự thân bay đến cõi Phạm thiên. Và ở đây, này Udayi, các đệ tử của Ta phần đông an trú, sau khi
 chứng ngộ nhờ thắng trí và chứng đắc cứu cánh viên mãn.
 
+<!--pg-->
 ***(15. Thiên nhĩ thông)***
 
 Lại nữa, này Udayi, Ta thuyết giảng con đường tu hành cho các đệ tử. Và các đệ tử của Ta y cứ con
@@ -504,6 +519,7 @@ hành cho các đệ tử. Và các đệ tử của Ta, y cứ con đường tu
 nhân, có thể nghe được hai loại tiếng, chư Thiên và Người, xa và gần. Và ở đây, này Udayi, các đệ tử
 của Ta phần đông an trú, sau khi chứng ngộ nhờ thắng trí và chứng đắc cứu cánh viên mãn.
 
+<!--pg-->
 ***(16. Tha tâm thông)***
 
 Lại nữa, này Udayi, Ta thuyết giảng con đường tu hành cho các đệ tử. Và các đệ tử của Ta y cứ con
@@ -517,7 +533,6 @@ không Thiền định, biết là tâm không Thiền định. Tâm giải tho�
 thoát, biết là tâm không giải thoát. Ví như, này Udayi, một người đàn bà, một người đàn ông, một thiếu
 niên trẻ hay một thanh niên ưa trang sức, nhìn mặt của mình trong tấm gương trong sạch sáng suốt, hay
 một chậu nước trong; nếu mặt có tỳ vết, liền biết mặt có tỳ vếtà; nếu mặt không có tỳ vết, liền biết mặt
-
 không có tỳ vết". Cũng vậy, này Udayi, Ta thuyết giảng con đường tu hành cho các đệ tử. Và các đệ tử
 của Ta, y cứ con đường tu hành này, sau khi đi sâu vào tâm của chúng sanh, của loài người với tâm của
 mình được biết như sau: "Tâm tham, biết là tâm tham; tâm không tham biết là tâm không tham. Tâm
@@ -529,6 +544,7 @@ Thiền định; tâm không Thiền định, biết là tâm không Thiền đ�
 tâm không giải thoát, biết là tâm không giải thoát". Và ở đây, này Udayi, các đệ tử của Ta phần đông an
 trú, sau khi chứng ngộ nhờ thắng trí và chứng đắc cứu cánh viên mãn.
 
+<!--pg-->
 ***(17. Túc mạng thông)***
 
 Lại nữa, này Udayi, Ta thuyết giảng con đường tu hành cho các đệ tử. Và các đệ tử của Ta y cứ con
@@ -548,6 +564,7 @@ quá khứ như một đời, hai đời... Như vậy các vị ấy nhớ đ�
 cương và các chi tiết. Và ở đây, này Udayi, các đệ tử của Ta phần đông an trú, sau khi chứng ngộ nhờ
 thắng trí chứng đắc cứu cánh viên mãn.
 
+<!--pg-->
 ***(18. Thiên nhãn thông)***
 
 Lại nữa, này Udayi, Ta thuyết giảng con đường tu hành cho các đệ tử. Và các đệ tử của Ta y cứ con
@@ -570,6 +587,7 @@ rằng chúng sanh, người hạ liệt kẻ cao sang, người đẹp đẽ k�
 do hạnh nghiệp của họ. Và ở đây, này Udayi, các đệ tử của Ta phần đông an trú sau khi chứng ngộ nhờ
 thắng trí chứng đắc cứu cánh viên mãn.
 
+<!--pg-->
 ***(19. Lậu tận thông)***
 
 Lại nữa, này Udayi, Ta thuyết giảng con đường tu hành cho các đệ tử. Và các đệ tử của Ta y cứ con

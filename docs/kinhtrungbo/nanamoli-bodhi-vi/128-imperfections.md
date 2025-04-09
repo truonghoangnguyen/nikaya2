@@ -9,61 +9,61 @@
 
 4\.  Sau đó, Thế Tôn đến gặp các vị tỳ kheo ấy và nói: "Thôi đủ rồi, các tỳ kheo, đừng tranh cãi, bất hòa, gây gổ, hay mâu thuẫn nữa." Khi Ngài nói vậy, một vị tỳ kheo thưa với Thế Tôn: "Xin dừng lại, bạch Thế Tôn! Xin Thế Tôn, bậc Pháp Vương (Lord of the Dhamma - Bậc Tôn Chủ của Giáo Pháp), hãy an trú thoải mái trong hiện tại. Chúng con sẽ chịu trách nhiệm về việc tranh cãi, bất hòa, gây gổ và mâu thuẫn này."
 
-    Lần thứ hai... Lần thứ ba Thế Tôn nói: "Thôi đủ rồi, các tỳ kheo, đừng tranh cãi, bất hòa, gây gổ, hay mâu thuẫn nữa." Lần thứ ba, vị tỳ kheo kia lại thưa với Thế Tôn: "Xin dừng lại, bạch Thế Tôn!... Chúng con sẽ chịu trách nhiệm về việc tranh cãi, bất hòa, gây gổ và mâu thuẫn này."
+Lần thứ hai... Lần thứ ba Thế Tôn nói: "Thôi đủ rồi, các tỳ kheo, đừng tranh cãi, bất hòa, gây gổ, hay mâu thuẫn nữa." Lần thứ ba, vị tỳ kheo kia lại thưa với Thế Tôn: "Xin dừng lại, bạch Thế Tôn!... Chúng con sẽ chịu trách nhiệm về việc tranh cãi, bất hòa, gây gổ và mâu thuẫn này."
 
 5\.  Rồi, vào buổi sáng, Thế Tôn đắp y, mang bát, vào thành Kosambī để khất thực. Sau khi khất thực ở Kosambī và trở về, dùng bữa xong, Ngài dọn dẹp chỗ nghỉ, lấy bát và y, rồi đứng đọc những vần kệ này: [154]
 
 6\.  "Khi bao tiếng nói cùng la lối
-    Chẳng ai tự thấy mình ngu si;
-    Dù cho Tăng đoàn (Sangha - cộng đồng tu sĩ Phật giáo) đang chia rẽ
-    Chẳng ai nghĩ mình có lỗi chi.
+Chẳng ai tự thấy mình ngu si;
+Dù cho Tăng đoàn (Sangha - cộng đồng tu sĩ Phật giáo) đang chia rẽ
+Chẳng ai nghĩ mình có lỗi chi.
 
-    Họ quên lời nói chánh niệm rồi,
-    Chỉ nói lời ám ảnh suông thôi.
-    Miệng không kiềm chế, la hét mãi;
-    Chẳng biết điều gì khiến làm vậy.
+Họ quên lời nói chánh niệm rồi,
+Chỉ nói lời ám ảnh suông thôi.
+Miệng không kiềm chế, la hét mãi;
+Chẳng biết điều gì khiến làm vậy.
 
-    'Nó mắng tôi, nó đánh tôi, [^1187]
-    Nó thắng tôi, nó cướp của tôi' -
-    Người ôm giữ ý nghĩ như thế
-    Hận thù không bao giờ nguôi ngoai.
+'Nó mắng tôi, nó đánh tôi, [^1187]
+Nó thắng tôi, nó cướp của tôi' -
+Người ôm giữ ý nghĩ như thế
+Hận thù không bao giờ nguôi ngoai.
 
-    Vì trong đời này, hận thù không
-    Bao giờ diệt được bằng hận thù.
-    Chỉ có không-hận thù diệt được:
-    Đó là định luật ngàn xưa nay.
+Vì trong đời này, hận thù không
+Bao giờ diệt được bằng hận thù.
+Chỉ có không-hận thù diệt được:
+Đó là định luật ngàn xưa nay.
 
-    Những người kia không nhận ra rằng
-    Ở đây ta phải tự kiềm chế.
-    Nhưng người trí tuệ hiểu điều này
-    Lập tức chấm dứt mọi hận thù.
+Những người kia không nhận ra rằng
+Ở đây ta phải tự kiềm chế.
+Nhưng người trí tuệ hiểu điều này
+Lập tức chấm dứt mọi hận thù.
 
-    Kẻ đập xương, kẻ giết người,
-    Kẻ trộm bò, ngựa, và tài sản,
-    Kẻ cướp phá cả vương quốc -
-    Khi họ còn có thể hợp tác
-    Sao các ông lại không thể làm?
+Kẻ đập xương, kẻ giết người,
+Kẻ trộm bò, ngựa, và tài sản,
+Kẻ cướp phá cả vương quốc -
+Khi họ còn có thể hợp tác
+Sao các ông lại không thể làm?
 
-    Nếu tìm được bạn hiền xứng đáng,
-    Người đức hạnh, vững vàng đồng hành,
-    Hãy vượt qua mọi hiểm nguy
-    Cùng đi với bạn, vui, chánh niệm.
+Nếu tìm được bạn hiền xứng đáng,
+Người đức hạnh, vững vàng đồng hành,
+Hãy vượt qua mọi hiểm nguy
+Cùng đi với bạn, vui, chánh niệm.
 
-    Nhưng nếu không tìm được bạn hiền,
-    Không người đức hạnh, vững vàng đồng hành,
-    Như vua bỏ lại nước đã chiếm,
-    Hãy đi một mình như voi đầu đàn trong rừng.
+Nhưng nếu không tìm được bạn hiền,
+Không người đức hạnh, vững vàng đồng hành,
+Như vua bỏ lại nước đã chiếm,
+Hãy đi một mình như voi đầu đàn trong rừng.
 
-    Thà đi một mình còn hơn,
-    Không bầu bạn với kẻ ngu si.
-    Đi một mình, không làm điều ác,
-    Thảnh thơi như voi đầu đàn trong rừng."
+Thà đi một mình còn hơn,
+Không bầu bạn với kẻ ngu si.
+Đi một mình, không làm điều ác,
+Thảnh thơi như voi đầu đàn trong rừng."
 
 7\.  Sau khi đứng đọc những vần kệ này, Thế Tôn đi đến làng Bālakaloṇakāra. Vào lúc ấy [155], Đại đức (venerable - tôn xưng các vị tỳ kheo) Bhagu đang sống tại làng Bālakaloṇakāra. Khi Đại đức Bhagu thấy Thế Tôn từ xa đi tới, ông đã chuẩn bị chỗ ngồi và đặt sẵn nước rửa chân. Thế Tôn ngồi xuống chỗ đã soạn sẵn và rửa chân. Đại đức Bhagu đảnh lễ Thế Tôn rồi ngồi sang một bên, và Thế Tôn hỏi ông: "Này tỳ kheo, ông vẫn khỏe chứ, ông có thoải mái không, ông có gặp khó khăn gì trong việc khất thực không?"
 
-    "Con vẫn khỏe, bạch Thế Tôn, con vẫn thoải mái, và con không gặp khó khăn gì trong việc khất thực."
+"Con vẫn khỏe, bạch Thế Tôn, con vẫn thoải mái, và con không gặp khó khăn gì trong việc khất thực."
 
-    Sau đó, Thế Tôn đã giảng dạy, khích lệ, làm phấn chấn và khuyến khích Đại đức Bhagu bằng một bài pháp thoại (talk on the Dhamma - bài nói chuyện về Giáo Pháp), rồi Ngài đứng dậy rời khỏi chỗ ngồi và đi đến Công viên Trúc Lâm phía Đông (Eastern Bamboo Park).
+Sau đó, Thế Tôn đã giảng dạy, khích lệ, làm phấn chấn và khuyến khích Đại đức Bhagu bằng một bài pháp thoại (talk on the Dhamma - bài nói chuyện về Giáo Pháp), rồi Ngài đứng dậy rời khỏi chỗ ngồi và đi đến Công viên Trúc Lâm phía Đông (Eastern Bamboo Park).
 
 8\.  Vào lúc ấy, Đại đức Anuruddha, Đại đức Nandiya và Đại đức Kimbila đang sống tại Công viên Trúc Lâm phía Đông. [^1168] Người giữ vườn thấy Thế Tôn từ xa đi tới liền nói với Ngài: "Này vị ẩn sĩ (recluse - người sống ẩn dật, tu hành), xin đừng vào công viên này. Có ba vị thuộc dòng dõi quý tộc đang ở đây tìm cầu lợi ích cho bản thân. Xin đừng làm phiền họ."
 
@@ -75,31 +75,31 @@
 
 11\. "Này Anuruddha, Ta hy vọng các ông đang sống hòa hợp, quý mến lẫn nhau, không tranh cãi, hòa thuận như nước với sữa, nhìn nhau bằng ánh mắt từ ái."
 
-    "Chắc chắn rồi, bạch Thế Tôn, chúng con đang sống hòa hợp, quý mến lẫn nhau, không tranh cãi, hòa thuận như nước với sữa, nhìn nhau bằng ánh mắt từ ái."
+"Chắc chắn rồi, bạch Thế Tôn, chúng con đang sống hòa hợp, quý mến lẫn nhau, không tranh cãi, hòa thuận như nước với sữa, nhìn nhau bằng ánh mắt từ ái."
 
-    "Nhưng, này Anuruddha, làm thế nào các ông sống được như vậy?"
+"Nhưng, này Anuruddha, làm thế nào các ông sống được như vậy?"
 
 12\. "Bạch Thế Tôn, về điều đó, con suy nghĩ thế này: 'Thật là lợi ích cho con, thật là lợi ích lớn lao cho con khi được sống cùng những bạn đồng tu (companions in the holy life - những người bạn cùng thực hành đời sống phạm hạnh) như vậy.' Con duy trì những hành động thân ái (bodily acts of loving-kindness - hành động thân thể thể hiện lòng từ ái) đối với các vị Đại đức này, cả công khai lẫn riêng tư; con duy trì những hành động khẩu ái (verbal acts of loving-kindness - lời nói thể hiện lòng từ ái) đối với họ, cả công khai lẫn riêng tư; con duy trì những hành động ý ái (mental acts of loving-kindness - ý nghĩ thể hiện lòng từ ái) đối với họ, cả công khai lẫn riêng tư. Con suy xét: 'Tại sao mình không gác lại điều mình muốn làm và làm điều các vị Đại đức này muốn làm?' Rồi con gác lại điều mình muốn làm và làm điều các vị Đại đức này muốn làm. Chúng con tuy thân khác nhau, bạch Thế Tôn, nhưng tâm thì là một."
 
-    Đại đức Nandiya và Đại đức Kimbila mỗi vị cũng nói tương tự, và thêm rằng: "Đó là cách chúng con sống hòa hợp, bạch Thế Tôn, chúng con đang sống hòa hợp, quý mến lẫn nhau, không tranh cãi, hòa thuận như nước với sữa, nhìn nhau bằng ánh mắt từ ái."
+Đại đức Nandiya và Đại đức Kimbila mỗi vị cũng nói tương tự, và thêm rằng: "Đó là cách chúng con sống hòa hợp, bạch Thế Tôn, chúng con đang sống hòa hợp, quý mến lẫn nhau, không tranh cãi, hòa thuận như nước với sữa, nhìn nhau bằng ánh mắt từ ái."
 
 13\. "Tốt lắm, tốt lắm, Anuruddha. Ta hy vọng các ông luôn sống tinh tấn (diligent - siêng năng, nỗ lực), nhiệt tâm (ardent - hăng hái, sốt sắng), và quyết tâm (resolute - sự quyết tâm vững chắc, không dao động). [157]"
 
-    "Chắc chắn rồi, bạch Thế Tôn, chúng con luôn sống tinh tấn, nhiệt tâm, và quyết tâm."
+"Chắc chắn rồi, bạch Thế Tôn, chúng con luôn sống tinh tấn, nhiệt tâm, và quyết tâm."
 
-    "Nhưng, này Anuruddha, làm thế nào các ông sống được như vậy?"
+"Nhưng, này Anuruddha, làm thế nào các ông sống được như vậy?"
 
 14\. "Bạch Thế Tôn, về điều đó, ai trong chúng con đi khất thực từ làng về trước sẽ chuẩn bị chỗ ngồi, đặt sẵn nước uống và nước rửa, và đặt thùng rác vào đúng chỗ. Ai trong chúng con về sau cùng, nếu muốn, sẽ ăn phần thức ăn còn lại; nếu không thì đổ bỏ ở nơi không có cây cỏ hoặc thả xuống nước nơi không có sinh vật. Vị ấy cất dọn chỗ ngồi, nước uống và nước rửa. Vị ấy cất thùng rác đi sau khi rửa sạch, và quét dọn nhà ăn. Ai thấy các bình nước uống, nước rửa, hoặc nước trong nhà vệ sinh sắp hết hoặc đã cạn thì lo liệu.
 
-    Nếu bình quá nặng đối với một người, vị ấy ra hiệu bằng tay gọi người khác và họ cùng nhau khiêng đi, nhưng vì việc này chúng con không nói chuyện với nhau. Nhưng cứ mỗi năm ngày, chúng con lại ngồi cùng nhau suốt đêm để thảo luận về Giáo Pháp (Dhamma - Giáo Pháp của Đức Phật). Đó là cách chúng con sống tinh tấn, nhiệt tâm, và quyết tâm."
+Nếu bình quá nặng đối với một người, vị ấy ra hiệu bằng tay gọi người khác và họ cùng nhau khiêng đi, nhưng vì việc này chúng con không nói chuyện với nhau. Nhưng cứ mỗi năm ngày, chúng con lại ngồi cùng nhau suốt đêm để thảo luận về Giáo Pháp (Dhamma - Giáo Pháp của Đức Phật). Đó là cách chúng con sống tinh tấn, nhiệt tâm, và quyết tâm."
 
 15\. "Tốt lắm, tốt lắm, Anuruddha. Nhưng khi sống tinh tấn, nhiệt tâm, và quyết tâm như vậy, các ông có đạt được trạng thái siêu phàm (superhuman states - những trạng thái tâm thức vượt ngoài người thường) nào không, có sự chứng đắc đặc biệt nào về tri kiến (knowledge and vision - sự hiểu biết và thấy biết) xứng đáng với bậc thánh (noble ones - những bậc đã giác ngộ hoặc đang trên đường giác ngộ), một sự an trú thoải mái nào không?"
 
-    "Bạch Thế Tôn, khi chúng con sống tinh tấn, nhiệt tâm, và quyết tâm ở đây, chúng con nhận biết được cả ánh sáng (light - obhāsa - ánh sáng xuất hiện trong thiền định) lẫn hình ảnh các sắc tướng (vision of forms - rūpa nimitta - sự thấy các hình ảnh, đối tượng trong thiền định). [^1189] Nhưng ngay sau đó, ánh sáng và hình ảnh các sắc tướng biến mất, và chúng con chưa tìm ra nguyên nhân của việc đó."
+"Bạch Thế Tôn, khi chúng con sống tinh tấn, nhiệt tâm, và quyết tâm ở đây, chúng con nhận biết được cả ánh sáng (light - obhāsa - ánh sáng xuất hiện trong thiền định) lẫn hình ảnh các sắc tướng (vision of forms - rūpa nimitta - sự thấy các hình ảnh, đối tượng trong thiền định). [^1189] Nhưng ngay sau đó, ánh sáng và hình ảnh các sắc tướng biến mất, và chúng con chưa tìm ra nguyên nhân của việc đó."
 
 16\. "Các ông nên tìm ra nguyên nhân của việc đó, [^1190] Anuruddha. Trước khi Ta giác ngộ (enlightenment - bodhi - sự chứng ngộ hoàn toàn), khi còn là một vị Bồ Tát (Bodhisatta - người đang trên đường tu tập để thành Phật) chưa giác ngộ, Ta cũng nhận biết được cả ánh sáng lẫn hình ảnh các sắc tướng.
 
-    Ngay sau đó, ánh sáng [158] và hình ảnh các sắc tướng biến mất. Ta đã nghĩ: 'Nguyên nhân và điều kiện nào khiến ánh sáng và hình ảnh các sắc tướng biến mất?' Rồi Ta suy xét thế này: 'Sự nghi ngờ (doubt - vicikicchā - sự hoài nghi, không chắc chắn về pháp hành) đã khởi lên trong Ta, và vì nghi ngờ nên định lực (concentration - samādhi - sự tập trung tâm ý vào một đối tượng) của Ta suy giảm; khi định lực suy giảm, ánh sáng và hình ảnh các sắc tướng biến mất. Ta sẽ hành động sao cho sự nghi ngờ không khởi lên trong Ta nữa.'"
+Ngay sau đó, ánh sáng [158] và hình ảnh các sắc tướng biến mất. Ta đã nghĩ: 'Nguyên nhân và điều kiện nào khiến ánh sáng và hình ảnh các sắc tướng biến mất?' Rồi Ta suy xét thế này: 'Sự nghi ngờ (doubt - vicikicchā - sự hoài nghi, không chắc chắn về pháp hành) đã khởi lên trong Ta, và vì nghi ngờ nên định lực (concentration - samādhi - sự tập trung tâm ý vào một đối tượng) của Ta suy giảm; khi định lực suy giảm, ánh sáng và hình ảnh các sắc tướng biến mất. Ta sẽ hành động sao cho sự nghi ngờ không khởi lên trong Ta nữa.'"
 
 17\. "Này Anuruddha, khi Ta đang sống tinh tấn, nhiệt tâm, và quyết tâm, Ta nhận biết được cả ánh sáng lẫn hình ảnh các sắc tướng. Ngay sau đó, ánh sáng và hình ảnh các sắc tướng biến mất. Ta đã nghĩ: 'Nguyên nhân và điều kiện nào khiến ánh sáng và hình ảnh các sắc tướng biến mất?' Rồi Ta suy xét thế này: 'Sự không chú tâm (inattention - amanasikāra - sự thiếu chú ý, xao lãng) đã khởi lên trong Ta, và vì không chú tâm nên định lực của Ta suy giảm; khi định lực suy giảm, ánh sáng và hình ảnh các sắc tướng biến mất. Ta sẽ hành động sao cho cả nghi ngờ lẫn sự không chú tâm không khởi lên trong Ta nữa.'"
 

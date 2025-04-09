@@ -5,7 +5,7 @@
 
 2\.  Khi ấy, người thợ mộc Pañcakanga nói với một người đàn ông: "Này bạn, hãy đến gặp Tôn giả A-nu-lâu-đà (Anuruddha), [145] thay mặt tôi đảnh lễ dưới chân ngài và thưa rằng: 'Kính bạch Tôn giả, người thợ mộc Pañcakanga xin đảnh lễ dưới chân Tôn giả A-nu-lâu-đà và xin thưa: "Kính mong Tôn giả cùng ba vị khác nhận lời mời dùng bữa vào ngày mai của người thợ mộc Pañcakanga; và xin Tôn giả A-nu-lâu-đà đến đúng giờ vì người thợ mộc Pañcakanga rất bận rộn và có nhiều việc phải làm cho nhà vua."'"
 
-    "Vâng, thưa ông," người đàn ông đó đáp lời, rồi đi đến chỗ Tôn giả A-nu-lâu-đà. Sau khi đảnh lễ Tôn giả A-nu-lâu-đà, ông ngồi xuống một bên và chuyển lời nhắn. Tôn giả A-nu-lâu-đà im lặng nhận lời.
+"Vâng, thưa ông," người đàn ông đó đáp lời, rồi đi đến chỗ Tôn giả A-nu-lâu-đà. Sau khi đảnh lễ Tôn giả A-nu-lâu-đà, ông ngồi xuống một bên và chuyển lời nhắn. Tôn giả A-nu-lâu-đà im lặng nhận lời.
 
 3\.  Rồi, khi đêm đã tàn, vào buổi sáng, Tôn giả A-nu-lâu-đà đã mặc y, mang bát và thượng y, đi đến nhà người thợ mộc Pañcakanga và ngồi vào chỗ đã soạn sẵn. Sau đó, người thợ mộc Pañcakanga đã đích thân dâng cúng và phục vụ Tôn giả A-nu-lâu-đà các món ăn ngon đủ loại cho đến khi ngài hài lòng. Khi Tôn giả A-nu-lâu-đà đã dùng xong và rời tay khỏi bát, người thợ mộc Pañcakanga lấy một chiếc ghế thấp, ngồi xuống một bên và thưa với Tôn giả A-nu-lâu-đà:
 
@@ -13,7 +13,7 @@
 
 5\.  "Này gia chủ, ông cứ giải thích theo cách ông hiểu. Sau đó, vấn đề sẽ được làm sáng tỏ cho ông."
 
-    "Kính bạch Tôn giả, con nghĩ thế này: tâm giải thoát vô lượng và tâm giải thoát cao thượng – hai trạng thái này là một về ý nghĩa và chỉ khác nhau về tên gọi."
+"Kính bạch Tôn giả, con nghĩ thế này: tâm giải thoát vô lượng và tâm giải thoát cao thượng – hai trạng thái này là một về ý nghĩa và chỉ khác nhau về tên gọi."
 
 6\.  "Này gia chủ, tâm giải thoát vô lượng và tâm giải thoát cao thượng – hai trạng thái này khác nhau về ý nghĩa và khác nhau về tên gọi. Và nên hiểu sự khác biệt về ý nghĩa và tên gọi của hai trạng thái này như sau.
 
@@ -31,31 +31,31 @@
 
 13\. Khi nghe vậy, Tôn giả A-bhi-da Ca-chiên-diên (Abhiya Kaccāna) thưa với Tôn giả A-nu-lâu-đà: "Lành thay, thưa Tôn giả A-nu-lâu-đà, nhưng con còn có điều muốn hỏi thêm: Có phải tất cả các vị chư thiên quang minh đó đều là chư thiên Quang Minh Hữu Hạn, hay một số trong đó là chư thiên Quang Minh Vô Lượng?"
 
-    "Này hiền giả Ca-chiên-diên (Kaccāna), tùy thuộc vào yếu tố [tạo nghiệp tái sanh], một số là chư thiên Quang Minh Hữu Hạn, một số là chư thiên Quang Minh Vô Lượng."
+"Này hiền giả Ca-chiên-diên (Kaccāna), tùy thuộc vào yếu tố [tạo nghiệp tái sanh], một số là chư thiên Quang Minh Hữu Hạn, một số là chư thiên Quang Minh Vô Lượng."
 
 14\. "Thưa Tôn giả A-nu-lâu-đà, do nguyên nhân và duyên cớ gì mà trong số các vị chư thiên đã tái sanh vào cùng một cõi trời, [149] một số là chư thiên Quang Minh Hữu Hạn, một số là chư thiên Quang Minh Vô Lượng?"
 
-    "Về điều đó, này hiền giả Ca-chiên-diên, tôi sẽ hỏi lại ông một câu. Ông hãy trả lời tùy ý. Này hiền giả Ca-chiên-diên, ông nghĩ sao? Khi một vị tỳ kheo an trú, chú tâm vào một vùng rộng bằng gốc một cây, biến mãn vùng đó là cao thượng, và một vị tỳ kheo khác an trú, chú tâm vào một vùng rộng bằng gốc hai hoặc ba cây, biến mãn vùng đó là cao thượng – việc tu tập tâm nào trong hai loại này là cao thượng hơn?" - "Loại thứ hai, thưa Tôn giả."
+"Về điều đó, này hiền giả Ca-chiên-diên, tôi sẽ hỏi lại ông một câu. Ông hãy trả lời tùy ý. Này hiền giả Ca-chiên-diên, ông nghĩ sao? Khi một vị tỳ kheo an trú, chú tâm vào một vùng rộng bằng gốc một cây, biến mãn vùng đó là cao thượng, và một vị tỳ kheo khác an trú, chú tâm vào một vùng rộng bằng gốc hai hoặc ba cây, biến mãn vùng đó là cao thượng – việc tu tập tâm nào trong hai loại này là cao thượng hơn?" - "Loại thứ hai, thưa Tôn giả."
 
-    "Này hiền giả Ca-chiên-diên, ông nghĩ sao? Khi một vị tỳ kheo an trú, chú tâm vào một vùng rộng bằng gốc hai hoặc ba cây, biến mãn vùng đó là cao thượng, và một vị tỳ kheo khác an trú, chú tâm vào một vùng rộng bằng một ngôi làng, biến mãn vùng đó là cao thượng... một vùng rộng bằng một ngôi làng và một vùng rộng bằng hai hoặc ba ngôi làng... một vùng rộng bằng hai hoặc ba ngôi làng [150] và một vùng rộng bằng một vương quốc lớn... một vùng rộng bằng một vương quốc lớn và một vùng rộng bằng hai hoặc ba vương quốc lớn... một vùng rộng bằng hai hoặc ba vương quốc lớn và một vùng rộng bằng trái đất cho đến biển cả, biến mãn vùng đó là cao thượng – việc tu tập tâm nào trong hai loại này là cao thượng hơn?" - "Loại thứ hai, thưa Tôn giả."
+"Này hiền giả Ca-chiên-diên, ông nghĩ sao? Khi một vị tỳ kheo an trú, chú tâm vào một vùng rộng bằng gốc hai hoặc ba cây, biến mãn vùng đó là cao thượng, và một vị tỳ kheo khác an trú, chú tâm vào một vùng rộng bằng một ngôi làng, biến mãn vùng đó là cao thượng... một vùng rộng bằng một ngôi làng và một vùng rộng bằng hai hoặc ba ngôi làng... một vùng rộng bằng hai hoặc ba ngôi làng [150] và một vùng rộng bằng một vương quốc lớn... một vùng rộng bằng một vương quốc lớn và một vùng rộng bằng hai hoặc ba vương quốc lớn... một vùng rộng bằng hai hoặc ba vương quốc lớn và một vùng rộng bằng trái đất cho đến biển cả, biến mãn vùng đó là cao thượng – việc tu tập tâm nào trong hai loại này là cao thượng hơn?" - "Loại thứ hai, thưa Tôn giả."
 
-    "Đây là nguyên nhân và duyên cớ, này hiền giả Ca-chiên-diên, tại sao trong số các vị chư thiên đã tái sanh vào cùng một cõi trời, một số là chư thiên Quang Minh Hữu Hạn, một số là chư thiên Quang Minh Vô Lượng."
+"Đây là nguyên nhân và duyên cớ, này hiền giả Ca-chiên-diên, tại sao trong số các vị chư thiên đã tái sanh vào cùng một cõi trời, một số là chư thiên Quang Minh Hữu Hạn, một số là chư thiên Quang Minh Vô Lượng."
 
 15\. "Lành thay, thưa Tôn giả A-nu-lâu-đà, nhưng con còn có điều muốn hỏi thêm: Có phải tất cả các vị chư thiên quang minh đó đều là chư thiên Quang Minh Ô Nhiễm, hay một số trong đó là chư thiên Quang Minh Thanh Tịnh?" [151]
 
-    "Này hiền giả Ca-chiên-diên, tùy thuộc vào yếu tố [tạo nghiệp tái sanh], một số là chư thiên Quang Minh Ô Nhiễm, một số là chư thiên Quang Minh Thanh Tịnh."
+"Này hiền giả Ca-chiên-diên, tùy thuộc vào yếu tố [tạo nghiệp tái sanh], một số là chư thiên Quang Minh Ô Nhiễm, một số là chư thiên Quang Minh Thanh Tịnh."
 
 16\. "Thưa Tôn giả A-nu-lâu-đà, do nguyên nhân và duyên cớ gì mà trong số các vị chư thiên đã tái sanh vào cùng một cõi trời, một số là chư thiên Quang Minh Ô Nhiễm, một số là chư thiên Quang Minh Thanh Tịnh?"
 
-    "Về điều đó, này hiền giả Ca-chiên-diên, tôi sẽ đưa ra một ví dụ, vì một số người trí ở đây hiểu ý nghĩa của lời nói qua ví dụ. Giả sử một ngọn đèn dầu đang cháy với dầu không sạch và tim đèn không sạch; do dầu và tim đèn không sạch nên nó cháy leo lét (mờ). Cũng vậy, ở đây có vị tỳ kheo an trú, chú tâm và biến mãn [một vùng với] quang minh ô nhiễm. Sự trì trệ của thân (bodily inertia - sự nặng nề, uể oải của cơ thể) nơi vị ấy chưa hoàn toàn lắng dịu, hôn trầm và thụy miên (thīna-middha - sloth and torpor - trạng thái tâm trí lờ đờ, buồn ngủ) chưa hoàn toàn loại bỏ, trạo cử và hối quá (uddhacca-kukkucca - restlessness and remorse - sự bồn chồn và hối tiếc) chưa hoàn toàn trừ diệt; vì thế, vị ấy thiền định, có thể nói là, một cách mờ nhạt. [^1184] Sau khi thân hoại mạng chung, vị ấy tái sanh vào cõi chư thiên Quang Minh Ô Nhiễm.
+"Về điều đó, này hiền giả Ca-chiên-diên, tôi sẽ đưa ra một ví dụ, vì một số người trí ở đây hiểu ý nghĩa của lời nói qua ví dụ. Giả sử một ngọn đèn dầu đang cháy với dầu không sạch và tim đèn không sạch; do dầu và tim đèn không sạch nên nó cháy leo lét (mờ). Cũng vậy, ở đây có vị tỳ kheo an trú, chú tâm và biến mãn [một vùng với] quang minh ô nhiễm. Sự trì trệ của thân (bodily inertia - sự nặng nề, uể oải của cơ thể) nơi vị ấy chưa hoàn toàn lắng dịu, hôn trầm và thụy miên (thīna-middha - sloth and torpor - trạng thái tâm trí lờ đờ, buồn ngủ) chưa hoàn toàn loại bỏ, trạo cử và hối quá (uddhacca-kukkucca - restlessness and remorse - sự bồn chồn và hối tiếc) chưa hoàn toàn trừ diệt; vì thế, vị ấy thiền định, có thể nói là, một cách mờ nhạt. [^1184] Sau khi thân hoại mạng chung, vị ấy tái sanh vào cõi chư thiên Quang Minh Ô Nhiễm.
 
-    "Giả sử một ngọn đèn dầu đang cháy với dầu sạch và tim đèn sạch; do dầu và tim đèn sạch nên nó không cháy leo lét (mờ). Cũng vậy, ở đây có vị tỳ kheo an trú, chú tâm và biến mãn [một vùng với] quang minh thanh tịnh. Sự trì trệ của thân nơi vị ấy đã hoàn toàn lắng dịu, hôn trầm và thụy miên đã hoàn toàn loại bỏ, trạo cử và hối quá đã hoàn toàn trừ diệt; vì thế, vị ấy thiền định, có thể nói là, một cách sáng tỏ. Sau khi thân hoại mạng chung, vị ấy tái sanh vào cõi chư thiên Quang Minh Thanh Tịnh. [152]
+"Giả sử một ngọn đèn dầu đang cháy với dầu sạch và tim đèn sạch; do dầu và tim đèn sạch nên nó không cháy leo lét (mờ). Cũng vậy, ở đây có vị tỳ kheo an trú, chú tâm và biến mãn [một vùng với] quang minh thanh tịnh. Sự trì trệ của thân nơi vị ấy đã hoàn toàn lắng dịu, hôn trầm và thụy miên đã hoàn toàn loại bỏ, trạo cử và hối quá đã hoàn toàn trừ diệt; vì thế, vị ấy thiền định, có thể nói là, một cách sáng tỏ. Sau khi thân hoại mạng chung, vị ấy tái sanh vào cõi chư thiên Quang Minh Thanh Tịnh. [152]
 
-    "Đây là nguyên nhân và duyên cớ, này hiền giả Ca-chiên-diên, tại sao trong số các vị chư thiên đã tái sanh vào cùng một cõi trời, một số là chư thiên Quang Minh Ô Nhiễm, một số là chư thiên Quang Minh Thanh Tịnh."
+"Đây là nguyên nhân và duyên cớ, này hiền giả Ca-chiên-diên, tại sao trong số các vị chư thiên đã tái sanh vào cùng một cõi trời, một số là chư thiên Quang Minh Ô Nhiễm, một số là chư thiên Quang Minh Thanh Tịnh."
 
 17\. Khi nghe vậy, Tôn giả A-bhi-da Ca-chiên-diên thưa với Tôn giả A-nu-lâu-đà: "Lành thay, thưa Tôn giả A-nu-lâu-đà. Tôn giả A-nu-lâu-đà không nói: 'Tôi nghe như vầy' hay 'Nó nên là như vậy.' Thay vào đó, Tôn giả A-nu-lâu-đà nói: 'Các vị trời này là thế này và các vị trời kia là thế kia.' Thưa Tôn giả, con nghĩ rằng Tôn giả A-nu-lâu-đà chắc chắn đã từng giao tiếp với các vị chư thiên đó, đã nói chuyện và đàm đạo với họ."
 
-    "Chắc chắn rồi, này hiền giả Ca-chiên-diên, lời nói của ông có phần xúc phạm và thiếu lễ độ, nhưng tôi vẫn sẽ trả lời ông. Trong một thời gian dài, tôi đã giao tiếp với các vị chư thiên đó, đã nói chuyện và đàm đạo với họ."[^1185]
+"Chắc chắn rồi, này hiền giả Ca-chiên-diên, lời nói của ông có phần xúc phạm và thiếu lễ độ, nhưng tôi vẫn sẽ trả lời ông. Trong một thời gian dài, tôi đã giao tiếp với các vị chư thiên đó, đã nói chuyện và đàm đạo với họ."[^1185]
 
 18\. Khi nghe vậy, Tôn giả A-bhi-da Ca-chiên-diên nói với người thợ mộc Pañcakanga: "Thật là một lợi ích cho ông, gia chủ, thật là một lợi ích lớn lao cho ông khi ông đã từ bỏ được trạng thái nghi ngờ (vicikicchā - doubt - sự hoài nghi, không chắc chắn) của mình và có cơ hội nghe bài Pháp thoại này."
 

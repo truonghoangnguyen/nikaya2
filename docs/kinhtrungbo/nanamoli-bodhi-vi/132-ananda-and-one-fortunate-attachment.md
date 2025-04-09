@@ -5,11 +5,11 @@
 
 2\.  Lúc bấy giờ, Đại đức Ānanda đang ở trong giảng đường, dùng Pháp thoại (talk on the Dhamma - buổi nói chuyện về giáo pháp) để dạy bảo, khích lệ, sách tấn và làm cho các vị tỳ kheo (bhikkhus - nhà sư) phấn khởi. [190] Ngài đang đọc lại phần tóm tắt và phần giải thích chi tiết về 'Nhất Dạ Hiền Giả' (Bhaddekaratta - người sống một đêm an lành/hạnh phúc, người biết an trú trong hiện tại).
 
-    Rồi vào buổi chiều, Đức Thế Tôn rời khỏi thiền định (meditation - sự tĩnh tâm, trạng thái tập trung cao độ) và đi đến giảng đường. Ngài ngồi xuống chỗ đã soạn sẵn và hỏi các vị tỳ kheo: "Này các tỳ kheo, ai đã ở trong giảng đường dùng Pháp thoại để dạy bảo, khích lệ, sách tấn và làm cho các tỳ kheo phấn khởi? Ai đã đọc lại phần tóm tắt và phần giải thích chi tiết về 'Nhất Dạ Hiền Giả'?"
+Rồi vào buổi chiều, Đức Thế Tôn rời khỏi thiền định (meditation - sự tĩnh tâm, trạng thái tập trung cao độ) và đi đến giảng đường. Ngài ngồi xuống chỗ đã soạn sẵn và hỏi các vị tỳ kheo: "Này các tỳ kheo, ai đã ở trong giảng đường dùng Pháp thoại để dạy bảo, khích lệ, sách tấn và làm cho các tỳ kheo phấn khởi? Ai đã đọc lại phần tóm tắt và phần giải thích chi tiết về 'Nhất Dạ Hiền Giả'?"
 
-    "Bạch Thế Tôn, đó là Đại đức Ānanda."
+"Bạch Thế Tôn, đó là Đại đức Ānanda."
 
-    Khi ấy, Đức Thế Tôn hỏi Đại đức Ānanda: "Này Ānanda, con đã dùng Pháp thoại để dạy bảo, khích lệ, sách tấn và làm cho các tỳ kheo phấn khởi như thế nào? Con đã đọc lại phần tóm tắt và phần giải thích chi tiết về 'Nhất Dạ Hiền Giả' như thế nào?"
+Khi ấy, Đức Thế Tôn hỏi Đại đức Ānanda: "Này Ānanda, con đã dùng Pháp thoại để dạy bảo, khích lệ, sách tấn và làm cho các tỳ kheo phấn khởi như thế nào? Con đã đọc lại phần tóm tắt và phần giải thích chi tiết về 'Nhất Dạ Hiền Giả' như thế nào?"
 
 §3-10$. "Bạch Thế Tôn, con đã làm như sau: [191]
 

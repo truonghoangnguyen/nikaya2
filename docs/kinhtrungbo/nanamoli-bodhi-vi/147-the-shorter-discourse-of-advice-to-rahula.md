@@ -5,23 +5,23 @@
 
 2\.  Rồi, khi Đức Thế Tôn đang độc cư thiền định, một ý nghĩ khởi lên trong tâm Ngài như sau: "Các trạng thái chín muồi cho sự giải thoát đã chín muồi nơi La Hầu La. Ta nên dẫn dắt nó thêm nữa đến sự đoạn trừ các lậu hoặc (āsavakkhaya - the destruction of the taints/outflows - sự phá hủy các ô nhiễm/phiền não tiềm ẩn)."
 
-    Rồi, vào buổi sáng, Đức Thế Tôn đắp y, mang bát và thượng y, đi vào thành Xá Vệ để khất thực. Sau khi khất thực ở Xá Vệ và trở về, sau bữa ăn, Ngài gọi Tôn giả La Hầu La:
+Rồi, vào buổi sáng, Đức Thế Tôn đắp y, mang bát và thượng y, đi vào thành Xá Vệ để khất thực. Sau khi khất thực ở Xá Vệ và trở về, sau bữa ăn, Ngài gọi Tôn giả La Hầu La:
 
-    "La Hầu La, hãy mang tọa cụ của con theo; chúng ta hãy đến Rừng Người Mù [278] để nghỉ ban ngày."
+"La Hầu La, hãy mang tọa cụ của con theo; chúng ta hãy đến Rừng Người Mù [278] để nghỉ ban ngày."
 
-    "Vâng, bạch Thế Tôn," Tôn giả La Hầu La đáp, và mang theo tọa cụ, đi theo sát gót Đức Thế Tôn.
+"Vâng, bạch Thế Tôn," Tôn giả La Hầu La đáp, và mang theo tọa cụ, đi theo sát gót Đức Thế Tôn.
 
-    Lúc bấy giờ, nhiều ngàn vị chư thiên đi theo Đức Thế Tôn, nghĩ rằng: "Hôm nay Đức Thế Tôn sẽ dẫn dắt Tôn giả La Hầu La thêm nữa đến sự đoạn trừ các lậu hoặc." Rồi Đức Thế Tôn đi vào Rừng Người Mù và ngồi xuống dưới gốc một cây trên chỗ đã soạn sẵn. Và Tôn giả La Hầu La đảnh lễ Đức Thế Tôn rồi ngồi xuống một bên. Đức Thế Tôn bèn nói với Tôn giả La Hầu La:
+Lúc bấy giờ, nhiều ngàn vị chư thiên đi theo Đức Thế Tôn, nghĩ rằng: "Hôm nay Đức Thế Tôn sẽ dẫn dắt Tôn giả La Hầu La thêm nữa đến sự đoạn trừ các lậu hoặc." Rồi Đức Thế Tôn đi vào Rừng Người Mù và ngồi xuống dưới gốc một cây trên chỗ đã soạn sẵn. Và Tôn giả La Hầu La đảnh lễ Đức Thế Tôn rồi ngồi xuống một bên. Đức Thế Tôn bèn nói với Tôn giả La Hầu La:
 
 3\.  "Này La Hầu La, con nghĩ sao? Mắt là thường hằng hay vô thường?" – "Bạch Thế Tôn, là vô thường." – "Cái gì vô thường là khổ hay lạc?" – "Bạch Thế Tôn, là khổ." "Cái gì vô thường, khổ, và chịu sự biến đổi, có đáng để xem là: 'Cái này là của tôi, cái này là tôi, cái này là tự ngã của tôi' không?" – "Bạch Thế Tôn, không."
 
-    "Này La Hầu La, con nghĩ sao? Các sắc... Nhãn thức... [279]... Nhãn xúc... Bất kỳ cảm thọ nào, bất kỳ tưởng nào, bất kỳ hành nào, bất kỳ thức nào phát sinh với nhãn xúc làm duyên là thường hằng hay vô thường?" – "Bạch Thế Tôn, là vô thường." – "Cái gì vô thường là khổ hay lạc?" – "Bạch Thế Tôn, là khổ." – "Cái gì vô thường, khổ, và chịu sự biến đổi, có đáng để xem là: 'Cái này là của tôi, cái này là tôi, cái này là tự ngã của tôi' không?" – "Bạch Thế Tôn, không."
+"Này La Hầu La, con nghĩ sao? Các sắc... Nhãn thức... [279]... Nhãn xúc... Bất kỳ cảm thọ nào, bất kỳ tưởng nào, bất kỳ hành nào, bất kỳ thức nào phát sinh với nhãn xúc làm duyên là thường hằng hay vô thường?" – "Bạch Thế Tôn, là vô thường." – "Cái gì vô thường là khổ hay lạc?" – "Bạch Thế Tôn, là khổ." – "Cái gì vô thường, khổ, và chịu sự biến đổi, có đáng để xem là: 'Cái này là của tôi, cái này là tôi, cái này là tự ngã của tôi' không?" – "Bạch Thế Tôn, không."
 
 4-8. "Này La Hầu La, con nghĩ sao? Tai là thường hằng hay vô thường?... Mũi là thường hằng hay vô thường?... Lưỡi là thường hằng hay vô thường?... Thân là thường hằng hay vô thường?... Các pháp (đối tượng của tâm)... Ý thức... Ý xúc... Bất kỳ cảm thọ nào, bất kỳ tưởng nào, bất kỳ hành nào, bất kỳ thức nào phát sinh với ý xúc làm duyên là thường hằng hay vô thường?" – "Bạch Thế Tôn, là vô thường." – "Cái gì vô thường là khổ hay lạc?" – "Bạch Thế Tôn, là khổ." – "Cái gì vô thường, khổ, và chịu sự biến đổi, có đáng để xem là: 'Cái này là của tôi, cái này là tôi, cái này là tự ngã của tôi' không?" – "Bạch Thế Tôn, không."
 
 9\.  "Thấy như vậy, này La Hầu La, vị thánh đệ tử đã được khéo dạy trở nên nhàm chán (nibbidā - feeling weary or disgusted with worldly life due to understanding its impermanent and suffering nature - cảm giác mệt mỏi hoặc ghê tởm với đời sống thế gian do hiểu rõ bản chất vô thường và khổ đau của nó) với mắt, nhàm chán với các sắc, nhàm chán với nhãn thức, nhàm chán với nhãn xúc, và nhàm chán với bất kỳ cảm thọ nào, bất kỳ tưởng nào, bất kỳ hành nào, bất kỳ thức nào phát sinh với nhãn xúc làm duyên.
 
-    "Vị ấy trở nên nhàm chán với tai... nhàm chán với mũi... nhàm chán với lưỡi... nhàm chán với thân... nhàm chán với ý, nhàm chán với các pháp, nhàm chán với ý thức, nhàm chán với ý xúc, [280] và nhàm chán với bất kỳ cảm thọ nào, bất kỳ tưởng nào, bất kỳ hành nào, bất kỳ thức nào phát sinh với ý xúc làm duyên.
+"Vị ấy trở nên nhàm chán với tai... nhàm chán với mũi... nhàm chán với lưỡi... nhàm chán với thân... nhàm chán với ý, nhàm chán với các pháp, nhàm chán với ý thức, nhàm chán với ý xúc, [280] và nhàm chán với bất kỳ cảm thọ nào, bất kỳ tưởng nào, bất kỳ hành nào, bất kỳ thức nào phát sinh với ý xúc làm duyên.
 
 10\. "Do nhàm chán, vị ấy trở nên ly tham (virāga - fading away of passion/lust; detachment - sự phai nhạt của đam mê/tham ái; sự không dính mắc). Nhờ ly tham, [tâm] được giải thoát (vimutti - release; freedom from suffering and rebirth - sự giải thoát; sự tự do khỏi khổ đau và tái sanh). Khi đã giải thoát, trí tuệ khởi lên: 'Đã được giải thoát.' Vị ấy hiểu rõ: 'Sanh đã tận, phạm hạnh đã thành, việc nên làm đã làm, không còn trở lui trạng thái nào nữa.'"
 

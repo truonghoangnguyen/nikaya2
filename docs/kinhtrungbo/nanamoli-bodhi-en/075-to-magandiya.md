@@ -57,6 +57,7 @@ sensual pleasure: with forms cognizable by the eye...with tangibles cognizable b
 
 14\. "So too, Māgandiya, formerly when I lived the home life...(as in §12)...Since I take delight in that, I do not envy what is inferior, nor do I delight therein. [507]
 
+<!--pg-->
 15\. "Suppose, Māgandiya, there was a leper with sores and blisters on his limbs, being devoured by worms, scratching the scabs off the openings of his wounds with his nails, cauterising his body over a burning charcoal pit. Then his friends and companions, his kinsmen and relatives, brought a physician to treat
 him. The physician would make medicine for him, and by means of that medicine the man would be cured of his leprosy and would become well and happy, independent, master of himself, able to go where he likes. Then two strong men would seize him by both arms and drag him towards a burning charcoal pit. What do you think, Mägandiya? Would that man twist his body this way and that?"
 
@@ -75,13 +76,12 @@ pleasures; the more such beings indulge in sensual pleasures, the more their cra
 
 "Good, Māgandiya. I too have never seen or heard of a king or a king's minister enjoying himself, provided and endowed with the five cords of sensual pleasure who, without abandoning craving for sensual pleasures, without removing fever for sensual pleasures, was able to abide free from thirst, with a mind inwardly at peace, or who is able or who will be able to so abide. On the contrary, Māgandiya, those recluses or brahmins who abided or abide or will abide free from thirst, with a mind inwardly at peace, all do so after having understood as they actually are the origin, the disappearance, the gratification, the danger, and the escape in the case of sensual pleasures, and it is after abandoning craving for sensual pleasures and removing fever for sensual pleasures that they abided or abide or will abide free from thirst, with a mind inwardly at peace."
 
+<!--pg-->
 19\. Then at that point the Blessed One uttered this exclamation:
 
-"The greatest of all gains is health, Nibbāna is the greatest bliss,
-
-The eightfold path is the best of paths
-
-For it leads safely to the Deathless."
+*"The greatest of all gains is health, Nibbāna is the greatest bliss,*<br>
+*The eightfold path is the best of paths*<br>
+*For it leads safely to the Deathless."*<br>
 
 When this was said, the wanderer Māgandiya said to the Blessed One: "It is wonderful, Master Gotama, it is marvellous how well that has been expressed by Master Gotama: [509]
 
@@ -99,15 +99,13 @@ When this was said, the wanderer Māgandiya rubbed his limbs with his hands and 
 
 21\. "So too, Māgandiya, the wanderers of other sects are blind and visionless. They do not know health, they do not see Nibbāna, yet they utter this stanza thus:
 
-'The greatest of all gains is health, Nibbāna is the greatest bliss.'
+*'The greatest of all gains is health, Nibbāna is the greatest bliss.'*
 
 This stanza was uttered by the earlier Accomplished Ones, Fully Enlightened Ones, thus:
 
-'The greatest of all gains is health, Nibbāna is the greatest bliss,
-
-The eightfold path is the best of paths
-
-For it leads safely to the Deathless.'
+*'The greatest of all gains is health, Nibbāna is the greatest bliss,*<br>
+*The eightfold path is the best of paths*<br>
+*For it leads safely to the Deathless.'*<br>
 
 Now it has gradually become current among ordinary people. [^745] And although this body, Māgandiya, is a disease, a tumour, a dart, a calamity, and an affliction, referring to this body you say: 'This is that health, Master Gotama, this is that Nibbāna.' You do not have that noble vision, Māgandiya, by means of which you might know health and see Nibbāna."
 

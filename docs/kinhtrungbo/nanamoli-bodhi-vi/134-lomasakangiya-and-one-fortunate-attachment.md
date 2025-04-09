@@ -5,60 +5,60 @@
 
 2\.  Rồi, khi đêm đã về khuya, vị trời trẻ Candana, với dung sắc xinh đẹp, tỏa sáng khắp Vườn Nigrodha, đã đến gặp Đại đức Lomasakangiya. Sau khi đến, vị trời trẻ Candana đứng sang một bên và nói với Đại đức:
 
-    "Này Tỳ kheo (bhikkhu - nhà sư nam đã thọ giới cụ túc trong Phật giáo Theravada), ngài có nhớ bài tóm tắt và giải thích về 'Người Có Một Đêm An Lành' (Bhaddekaratta - Người sống trọn vẹn với hiện tại, không nuối tiếc quá khứ, không mơ tưởng tương lai) không?" [200]
+"Này Tỳ kheo (bhikkhu - nhà sư nam đã thọ giới cụ túc trong Phật giáo Theravada), ngài có nhớ bài tóm tắt và giải thích về 'Người Có Một Đêm An Lành' (Bhaddekaratta - Người sống trọn vẹn với hiện tại, không nuối tiếc quá khứ, không mơ tưởng tương lai) không?" [200]
 
-    "Này bạn, tôi không nhớ bài tóm tắt và giải thích về 'Người Có Một Đêm An Lành.' Nhưng này bạn, bạn có nhớ bài tóm tắt và giải thích về 'Người Có Một Đêm An Lành' không?"
+"Này bạn, tôi không nhớ bài tóm tắt và giải thích về 'Người Có Một Đêm An Lành.' Nhưng này bạn, bạn có nhớ bài tóm tắt và giải thích về 'Người Có Một Đêm An Lành' không?"
 
-    "Này Tỳ kheo, tôi cũng không nhớ bài tóm tắt và giải thích về 'Người Có Một Đêm An Lành.' Nhưng này Tỳ kheo, ngài có nhớ bài kệ về 'Người Có Một Đêm An Lành' không?"
+"Này Tỳ kheo, tôi cũng không nhớ bài tóm tắt và giải thích về 'Người Có Một Đêm An Lành.' Nhưng này Tỳ kheo, ngài có nhớ bài kệ về 'Người Có Một Đêm An Lành' không?"
 
-    "Này bạn, tôi không nhớ bài kệ về 'Người Có Một Đêm An Lành.' Nhưng này bạn, bạn có nhớ bài kệ về 'Người Có Một Đêm An Lành' không?"
+"Này bạn, tôi không nhớ bài kệ về 'Người Có Một Đêm An Lành.' Nhưng này bạn, bạn có nhớ bài kệ về 'Người Có Một Đêm An Lành' không?"
 
-    "Này Tỳ kheo, tôi nhớ bài kệ về 'Người Có Một Đêm An Lành.'"
+"Này Tỳ kheo, tôi nhớ bài kệ về 'Người Có Một Đêm An Lành.'"
 
-    "Nhưng này bạn, bạn nhớ bài kệ về 'Người Có Một Đêm An Lành' như thế nào?"
+"Nhưng này bạn, bạn nhớ bài kệ về 'Người Có Một Đêm An Lành' như thế nào?"
 
-    "Này Tỳ kheo, có một lần Đức Thế Tôn trú giữa các vị trời ở cõi trời Ba Mươi Ba (Tāvatiṃsa - một trong các cõi trời dục giới trong Phật giáo), trên Phiến đá Hồng Ngọc (Paṇḍukambalasilā - phiến đá nơi Đế Thích thường ngồi) dưới gốc cây Pāricchattaka. [^1222] Tại đó, Đức Thế Tôn đã đọc bài tóm tắt và giải thích về 'Người Có Một Đêm An Lành' cho các vị trời ở cõi trời Ba Mươi Ba nghe:
+"Này Tỳ kheo, có một lần Đức Thế Tôn trú giữa các vị trời ở cõi trời Ba Mươi Ba (Tāvatiṃsa - một trong các cõi trời dục giới trong Phật giáo), trên Phiến đá Hồng Ngọc (Paṇḍukambalasilā - phiến đá nơi Đế Thích thường ngồi) dưới gốc cây Pāricchattaka. [^1222] Tại đó, Đức Thế Tôn đã đọc bài tóm tắt và giải thích về 'Người Có Một Đêm An Lành' cho các vị trời ở cõi trời Ba Mươi Ba nghe:
 
 3\.  'Đừng tìm về quá khứ,
-    Đừng ước vọng tương lai;
-    Quá khứ đã đoạn tận,
-    Tương lai lại chưa đến.
+Đừng ước vọng tương lai;
+Quá khứ đã đoạn tận,
+Tương lai lại chưa đến.
 
-    Chỉ có pháp hiện tại,
-    Tuệ quán (vipassanā - sự thấy biết sâu sắc, trực tiếp về bản chất của sự vật) chính ở đây.
-    Thấy rõ pháp hiện tại,
-    Bất động, không lay chuyển.
+Chỉ có pháp hiện tại,
+Tuệ quán (vipassanā - sự thấy biết sâu sắc, trực tiếp về bản chất của sự vật) chính ở đây.
+Thấy rõ pháp hiện tại,
+Bất động, không lay chuyển.
 
-    Hôm nay cần tinh tấn,
-    Ai biết chết ngày mai?
-    Không ai mặc cả được,
-    Với đại quân thần chết.
+Hôm nay cần tinh tấn,
+Ai biết chết ngày mai?
+Không ai mặc cả được,
+Với đại quân thần chết.
 
-    Người sống nhiệt tâm như vậy,
-    Không mỏi mệt đêm ngày -
-    Xứng gọi: Người biết sống,
-    Một đêm thật an lành,
-    Bậc Thánh Tĩnh Lặng dạy.'
+Người sống nhiệt tâm như vậy,
+Không mỏi mệt đêm ngày -
+Xứng gọi: Người biết sống,
+Một đêm thật an lành,
+Bậc Thánh Tĩnh Lặng dạy.'
 
 4\.  "Này Tỳ kheo, tôi nhớ bài kệ về 'Người Có Một Đêm An Lành' như vậy đó. Này Tỳ kheo, hãy học thuộc lòng bài tóm tắt và giải thích về 'Người Có Một Đêm An Lành.' Này Tỳ kheo, hãy nắm vững bài tóm tắt và giải thích về 'Người Có Một Đêm An Lành.' Này Tỳ kheo, hãy ghi nhớ bài tóm tắt và giải thích về 'Người Có Một Đêm An Lành.' Này Tỳ kheo, bài tóm tắt và giải thích về 'Người Có Một Đêm An Lành' là lợi ích, thuộc về căn bản của đời sống phạm hạnh (brahmacariya - đời sống trong sạch, cao thượng, thường liên quan đến việc tu tập giải thoát)."
 
-    Vị trời trẻ Candana nói như vậy, rồi biến mất ngay lập tức.
+Vị trời trẻ Candana nói như vậy, rồi biến mất ngay lập tức.
 
 5\.  Rồi, khi đêm đã mãn, Đại đức Lomasakangiya dọn dẹp chỗ ở, mang y bát, lên đường đi khất thực từng chặng đến Sāvatthī. [201] Cuối cùng, ngài đến Sāvatthī, vào Vườn Jeta, khu vườn của Anāthapiṇ̣ika, đảnh lễ Đức Thế Tôn. Sau khi đảnh lễ, ngài ngồi xuống một bên, kể lại toàn bộ sự việc đã xảy ra cho Đức Thế Tôn nghe, và thưa: "Bạch Thế Tôn, thật lành thay nếu Đức Thế Tôn dạy cho con bài tóm tắt và giải thích về 'Người Có Một Đêm An Lành'."
 
 6\.  "Này Tỳ kheo, ông có biết vị trời trẻ đó không?"
 
-    "Bạch Thế Tôn, con không biết."
+"Bạch Thế Tôn, con không biết."
 
-    "Này Tỳ kheo, vị trời trẻ đó tên là Candana. Vị ấy lắng nghe Giáo Pháp (Dhamma - lời dạy của Đức Phật, chân lý), chú tâm vào Giáo Pháp, toàn tâm toàn ý với Giáo Pháp, lắng tai nghe Giáo Pháp. Vậy, này Tỳ kheo, hãy lắng nghe và chú tâm kỹ những gì Ta sẽ nói."
+"Này Tỳ kheo, vị trời trẻ đó tên là Candana. Vị ấy lắng nghe Giáo Pháp (Dhamma - lời dạy của Đức Phật, chân lý), chú tâm vào Giáo Pháp, toàn tâm toàn ý với Giáo Pháp, lắng tai nghe Giáo Pháp. Vậy, này Tỳ kheo, hãy lắng nghe và chú tâm kỹ những gì Ta sẽ nói."
 
-    "Thưa vâng, bạch Thế Tôn," Đại đức Lomasakangiya vâng đáp Đức Thế Tôn. Đức Thế Tôn nói điều này:
+"Thưa vâng, bạch Thế Tôn," Đại đức Lomasakangiya vâng đáp Đức Thế Tôn. Đức Thế Tôn nói điều này:
 
 7-14. "Đừng tìm về quá khứ...
 
-    (Lặp lại toàn bộ từ đoạn 3 đến đoạn 10 của Kinh 131 cho đến:) [202]
+(Lặp lại toàn bộ từ đoạn 3 đến đoạn 10 của Kinh 131 cho đến:) [202]
 
-    Người có một đêm an lành."
+Người có một đêm an lành."
 
 Đức Thế Tôn đã nói như vậy. Đại đức Lomasakangiya hoan hỷ và tín thọ lời Đức Thế Tôn dạy.
 

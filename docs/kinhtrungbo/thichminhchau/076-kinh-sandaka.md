@@ -62,6 +62,7 @@ thiện.
 Chánh Ðẳng Giác tuyên bố, và ở đây người có trí không thể tự mình sống Phạm hạnh, và nếu sống, thời
 không thể thành đạt (chánh) đạo, pháp và (chí) thiện; bốn pháp phi phạm hạnh trú ấy là gì?
 
+<!--pg-->
 -- Ở đây, này Sandaka, có vị Ðạo sư có thuyết lý như sau, có quan điểm như sau: "Không có bố thí,
 không có lễ hy sinh, không có tế tự, không có quả dị thục các nghiệp thiện ác, không có đời này, không
 có đời khác, không có mẹ, không có cha, không có loại hóa sanh, ở đời không có những vị Sa-môn, Bà-
@@ -89,6 +90,7 @@ Như vậy, này Sandaka là phi phạm hạnh trú thứ nhất, được Thế
 hán, Chánh Ðẳng Giác tuyên bố và ở đây người có trí không thể tự mình sống theo hạnh ấy, và nếu
 sống, thời không thể thành đạt (chánh) đạo, pháp và (chí) thiện.
 
+<!--pg-->
 Lại nữa, này Sandaka, ở đây có vị Ðạo sư có thuyết lý như sau, có quan điểm như sau: "Tự làm hay
 khiến người làm, chém giết hay khiến người chém giết, đốt nấu hay khiến người đốt nấu, gây phiền
 muộn, hay khiến người gây phiền muộn, gây áo não hay khiến người gây áo não, tự mình gây sợ hãi hay
@@ -112,6 +114,7 @@ Như vậy, này Sandaka là phi phạm hạnh trú thứ hai, được Thế T�
 Chánh Ðẳng Giác đã tuyên bố và ở đây người có trí không thể tự mình sống theo hạnh ấy, và nếu sống,
 thời không thể thành đạt (chánh) đạo, pháp và (chí) thiện.
 
+<!--pg-->
 Lại nữa, này Sandaka, ở đây, có vị Ðạo sư có thuyết lý như vậy, có quan điểm như vầy: "Không có
 nhân, không có duyên, các loài hữu tình bị nhiễm ô; không có nhân, không có duyên, các loài hữu tình
 sẽ bị nhiễm ô. Không có nhân, không có duyên, các loài hữu tình được thanh tịnh, không nhân không
@@ -131,6 +134,7 @@ Như vậy, này Sandaka là phi phạm hạnh trú thứ ba, được Thế Tô
 Chánh Ðẳng Giác tuyên bố, và ở đây người có trí không thể tự mình sống theo hạnh ấy, và nếu sống thời
 không thể thành đạt (chánh) đạo, pháp và (chí) thiện.
 
+<!--pg-->
 Lại nữa, này Sandaka, ở đây có vị Ðạo sư có thuyết lý như vầy, có quan điểm như vầy: "Có bảy thân này
 không bị làm ra, không làm ra, không bị sáng tạo, không sáng tạo, không sanh sản, thường tại như đảnh
 núi, đứng thẳng như trụ đá. Chúng bất động, không chuyển biến, không xâm hại nhau. Chúng không thể
@@ -152,7 +156,6 @@ hạnh này, hay với Phạm hạnh này, tôi sẽ làm cho chín muồi nhữ
 trừ diệt những nghiệp đã được thuần thục, bởi những nhẫn thọ liên tục không thể đo lường, khổ và lạc
 với những vật đo lường, trong luân hồi không có tăng giảm, không có cao thấp. Ví như cuộn chỉ được
 tung ra sẽ được kéo dài đến một mức độ nào đó. Cũng như vậy, kẻ ngu và người trí, sau khi lưu chuyển
-
 luân hồi sẽ chấm dứt khổ đau".
 
 Ở đây, này Sandaka, người có trí suy tư như sau: "Vị Tôn sư này có lý thuyết như vầy, có quan điểm
@@ -180,6 +183,7 @@ lý, pháp, và (chí) thiện. Tôn giả Ananda, thế nào là bốn pháp b�
 Giả, Kiến Giả, bậc A-la-hán, Chánh Ðẳng Giác tuyên bố, và ở đây người có trí không thể tự mình sống
 theo hạnh ấy, và nếu sống, thời không thể thành đạt (chánh) đạo, pháp, và (chí) thiện?
 
+<!--pg-->
 Ở đây, này Sandaka, có bậc Ðạo sư nhứt thiết tri, nhứt thiết kiến, tự xem đã chứng được tri kiến hoàn
 toàn: "Khi ta đi, ta đứng, ta ngủ và ta thức, tri, kiến được an trú ở trong ta, liên tục, không gián đoạn". Vị
 ấy đi vào một nhà trống, không nhận được đồ ăn khất thực, và con chó cắn vị ấy, vị ấy gặp voi dữ, gặp
@@ -198,6 +202,7 @@ Này Sandaka, đây là bất an phạm hạnh thứ nhất, được Thế Tôn
 Chánh Ðẳng Giác tuyên bố, và ở đây người có trí không thể tự mình sống theo hạnh ấy, và nếu sống thời
 không thể thành đạt (chánh) đạo, pháp và (chí) thiện.
 
+<!--pg-->
 Lại nữa, này Sandaka, ở đây, có vị Ðạo sư y cứ truyền thuyết, (xem) truyền thuyết là chân thật, vị này
 thuyết pháp theo truyền thuyết, theo tương truyền và truyền thống, theo uy tín (Thánh) tạng. Này
 Sandaka, nếu vị Ðạo sư y cứ truyền thuyết, xem truyền thuyết là chân thật, vị ấy (có phần) khéo nhớ, (có
@@ -213,6 +218,7 @@ Này Sandaka, đây là bất an phạm hạnh thứ hai, được Thế Tôn, b
 Chánh Ðẳng Giác tuyên bố, và ở đây người có trí không thể tự mình sống theo hạnh ấy, và nếu sống,
 thời không thể thành đạt (chánh) đạo, pháp, và (chí) thiện.
 
+<!--pg-->
 Lại nữa, này Sandaka, ở đây có vị Ðạo sư là nhà lý luận, là nhà suy luận. Do sự đả phá của lý luận và y
 cứ theo suy luận, vị này thuyết pháp theo nguyên tắc tự mình sáng tác. Này Sandaka, nếu vị Ðạo sư là
 nhà lý luận, là nhà suy luận, vị ấy (có phần) khéo lý luận, (có phần) không khéo lý luận, (khi thì) như thế
@@ -227,6 +233,7 @@ Này Sandaka đây là bất an phạm hạnh thứ ba, được Thế Tôn, b�
 Chánh Ðẳng Giác tuyên bố, và ở đây người có trí không thể tự mình sống theo hạnh ấy, và nếu sống thì
 không thể thành đạt (chánh) lý, pháp, và (chí) thiện.
 
+<!--pg-->
 Lại nữa, này Sandaka, ở đây có vị Ðạo sư là người đần độn, là người ngu si. Vì đần độn ngu si, khi được
 hỏi về vấn đề này, vấn đề khác, vị ấy dùng những lời ngụy biện trườn uốn như con lươn: "Theo tôi
 không phải như vậy, theo tôi không phải như kia, theo tôi không khác như thế, theo tôi không phải như
@@ -250,10 +257,10 @@ hạnh, và ở đây người trí không thể tự mình sống theo hạnh �
 mà ở đây, người có trí có thể tự mình sống Phạm hạnh, và khi sống, có thể thành đạt (chánh) lý, pháp, và
 (chí) thiện?
 
+<!--pg-->
 -- Ở đây, này Sandaka, Như Lai xuất hiện ở đời là bậc A-la-hán, Chánh Biến Tri, Minh Hạnh Túc, Thiện
 Thệ, Thế Gian Giải, Vô Thượng Sĩ, Ðiều Ngự Trượng Phu, Thiên Nhân Sư, Phật, Thế Tôn. Như Lai sau
 khi riêng tự chứng ngộ với thượng trí, thế giới này là Thiên giới, Ma giới, Phạm thiên giới, gồm cả thế
-
 giới này với Sa-môn, Bà-la-môn, Thiên, Nhơn, lại tuyên bố điều Ngài đã chứng ngộ. Ngài thuyết pháp
 sơ thiện, trung thiện, hậu thiện, đầy đủ văn nghĩa, Ngài truyền dạy Phạm hạnh hoàn toàn đầy đủ thanh
 tịnh.
@@ -323,6 +330,7 @@ tưởng hướng về ánh sáng, chánh niệm tỉnh giác, gột rửa tâm 
 quá, vị ấy sống không trạo cử, nội tâm trầm lặng, gột rửa tâm hết trạo cử, hối quá. Từ bỏ nghi ngờ, vị ấy
 sống thoát khỏi nghi ngờ, không phân vân lưỡng lự, gột rửa tâm hết nghi ngờ đối với thiện pháp.
 
+<!--pg-->
 Sau khi trừ bỏ năm triền cái này, các pháp làm tâm cấu uế, làm trí tuệ trở thành yếu ớt, vị ấy ly dục, ly
 bất thiện pháp, chứng đạt và an trú Sơ thiền, một trạng thái hỷ lạc do ly dục sanh, với tầm, với tứ. Này
 Sandaka, nếu một đệ tử chứng được ưu thắng đặc thù như vậy dưới một vị Ðạo sư, thời ở đây người có
@@ -356,6 +364,7 @@ thoát". Vị ấy biết: "Sanh đã diệt, Phạm hạnh đã thành, việc 
 Ðạo sư nào, thời ở đây người có trí có thể tự mình sống Phạm hạnh, và khi sống có thể thành đạt (chánh)
 đạo, pháp, và (chí) thiện.
 
+<!--pg-->
 -- Nhưng, thưa Tôn giả Ananda, một Tỷ-kheo nào là bậc A-la-hán, các lậu đã tận, tu hành thành mãn,
 các việc nên làm đã làm, đã đặt gánh nặng xuống, đã thành đạt lý tưởng, đã tận trừ hữu kiết sử, đã giải
 thoát nhờ chánh trí, vị Tỷ-kheo ấy có thể thọ dụng các dục vọng không?

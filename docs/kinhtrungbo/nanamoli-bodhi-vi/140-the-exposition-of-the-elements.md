@@ -5,25 +5,25 @@
 
 2\.  "Này Bhaggava, nếu không có gì bất tiện cho ông, Ta muốn ở lại một đêm trong xưởng của ông."
 
-    "Thưa ngài, không có gì bất tiện cho con cả, nhưng đã có một người xuất gia đang ở đó rồi. Nếu vị ấy đồng ý, thì xin ngài cứ ở lại bao lâu tùy thích." [238]
+"Thưa ngài, không có gì bất tiện cho con cả, nhưng đã có một người xuất gia đang ở đó rồi. Nếu vị ấy đồng ý, thì xin ngài cứ ở lại bao lâu tùy thích." [238]
 
 3\.  Lúc bấy giờ, có một thiện nam tử tên là Pukkusāti, vì lòng tin nơi Đức Thế Tôn mà đã từ bỏ đời sống gia đình, xuất gia sống không nhà cửa, và vào dịp đó, vị ấy đã ở trong xưởng của người thợ gốm. [^1264] Bấy giờ, Đức Thế Tôn đến gặp tôn giả Pukkusāti và nói: "Này tỳ kheo (bhikkhu - nhà sư Phật giáo đã thọ giới cụ túc), nếu không có gì bất tiện cho thầy, Ta muốn ở lại một đêm trong xưởng này."
 
-    "Xưởng thợ gốm đủ rộng, này bạn. [^1265] Xin mời ngài cứ ở lại bao lâu tùy thích."
+"Xưởng thợ gốm đủ rộng, này bạn. [^1265] Xin mời ngài cứ ở lại bao lâu tùy thích."
 
 4\.  Sau đó, Đức Thế Tôn vào xưởng thợ gốm, chuẩn bị một chỗ trải cỏ ở một góc, và ngồi xuống, xếp chân theo thế kiết già, giữ thân thẳng đứng, và an trú chánh niệm trước mặt. Rồi Đức Thế Tôn dành phần lớn đêm để ngồi thiền, và tôn giả Pukkusāti cũng dành phần lớn đêm để ngồi thiền. Bấy giờ, Đức Thế Tôn nghĩ: "Vị thiện nam tử này có phong thái đáng tin cậy. Ta thử hỏi vị ấy xem sao." Vì vậy, Ngài hỏi tôn giả Pukkusāti:
 
 5\.  "Này tỳ kheo, thầy xuất gia theo ai? Ai là thầy của thầy? Thầy tin theo Giáo Pháp (Dhamma - lời dạy của Đức Phật) của ai?"[^1266]
 
-    "Này bạn, có Sa-môn Gotama, là con trai của dòng họ Thích Ca (Sakyan), đã xuất gia từ dòng tộc Thích Ca. Tiếng lành về Đức Thế Tôn Gotama ấy đã được đồn xa như sau: 'Đức Thế Tôn ấy là bậc A-la-hán (accomplished - bậc đã hoàn thiện, xứng đáng được cúng dường), bậc Chánh Đẳng Chánh Giác (fully enlightened - bậc giác ngộ hoàn toàn và viên mãn), Minh Hạnh Túc (perfect in true knowledge and conduct - bậc có đầy đủ trí tuệ và đức hạnh), Thiện Thệ (sublime - bậc đã đi đến nơi tốt đẹp), Thế Gian Giải (knower of worlds - bậc hiểu biết thế gian), Vô Thượng Sĩ Điều Ngự Trượng Phu (incomparable leader of persons to be tamed - bậc lãnh đạo không ai sánh bằng của những người cần được điều phục), Thiên Nhân Sư (teacher of gods and humans - bậc thầy của trời và người), Phật (enlightened - bậc giác ngộ), Thế Tôn (blessed - bậc được tôn kính).' Tôi đã xuất gia theo Đức Thế Tôn ấy; Đức Thế Tôn ấy là thầy của tôi; tôi tin theo Giáo Pháp của Đức Thế Tôn ấy."
+"Này bạn, có Sa-môn Gotama, là con trai của dòng họ Thích Ca (Sakyan), đã xuất gia từ dòng tộc Thích Ca. Tiếng lành về Đức Thế Tôn Gotama ấy đã được đồn xa như sau: 'Đức Thế Tôn ấy là bậc A-la-hán (accomplished - bậc đã hoàn thiện, xứng đáng được cúng dường), bậc Chánh Đẳng Chánh Giác (fully enlightened - bậc giác ngộ hoàn toàn và viên mãn), Minh Hạnh Túc (perfect in true knowledge and conduct - bậc có đầy đủ trí tuệ và đức hạnh), Thiện Thệ (sublime - bậc đã đi đến nơi tốt đẹp), Thế Gian Giải (knower of worlds - bậc hiểu biết thế gian), Vô Thượng Sĩ Điều Ngự Trượng Phu (incomparable leader of persons to be tamed - bậc lãnh đạo không ai sánh bằng của những người cần được điều phục), Thiên Nhân Sư (teacher of gods and humans - bậc thầy của trời và người), Phật (enlightened - bậc giác ngộ), Thế Tôn (blessed - bậc được tôn kính).' Tôi đã xuất gia theo Đức Thế Tôn ấy; Đức Thế Tôn ấy là thầy của tôi; tôi tin theo Giáo Pháp của Đức Thế Tôn ấy."
 
-    "Nhưng này tỳ kheo, Đức Thế Tôn, bậc A-la-hán, Chánh Đẳng Chánh Giác ấy, hiện đang ở đâu?"
+"Nhưng này tỳ kheo, Đức Thế Tôn, bậc A-la-hán, Chánh Đẳng Chánh Giác ấy, hiện đang ở đâu?"
 
-    "Này bạn, có một thành phố ở phương bắc tên là Xá-vệ (Sāvatthī). Đức Thế Tôn, bậc A-la-hán, Chánh Đẳng Chánh Giác, hiện đang ở đó."
+"Này bạn, có một thành phố ở phương bắc tên là Xá-vệ (Sāvatthī). Đức Thế Tôn, bậc A-la-hán, Chánh Đẳng Chánh Giác, hiện đang ở đó."
 
-    "Nhưng này tỳ kheo, thầy đã từng gặp Đức Thế Tôn ấy trước đây chưa? Nếu gặp, thầy có nhận ra Ngài không?" [239]
+"Nhưng này tỳ kheo, thầy đã từng gặp Đức Thế Tôn ấy trước đây chưa? Nếu gặp, thầy có nhận ra Ngài không?" [239]
 
-    "Thưa không, này bạn, tôi chưa từng gặp Đức Thế Tôn ấy trước đây, và nếu gặp, tôi cũng sẽ không nhận ra Ngài."
+"Thưa không, này bạn, tôi chưa từng gặp Đức Thế Tôn ấy trước đây, và nếu gặp, tôi cũng sẽ không nhận ra Ngài."
 
 6\.  Bấy giờ, Đức Thế Tôn nghĩ: "Vị thiện nam tử này đã xuất gia theo Ta. Ta nên giảng Pháp cho vị ấy." Vì vậy, Đức Thế Tôn nói với tôn giả Pukkusāti: "Này tỳ kheo, Ta sẽ giảng Pháp cho thầy. Hãy lắng nghe và chú tâm kỹ vào những gì Ta sẽ nói." - "Vâng, này bạn," tôn giả Pukkusāti đáp. Đức Thế Tôn nói như sau:
 
@@ -81,21 +81,21 @@
 
 33\. Bấy giờ, tôn giả Pukkusāti nghĩ: "Thật vậy, Bậc Đạo Sư đã đến với ta! Bậc Thiện Thệ đã đến với ta! Bậc Chánh Đẳng Chánh Giác đã đến với ta!" Rồi vị ấy đứng dậy khỏi chỗ ngồi, sửa lại y trên một vai, và cúi đầu đảnh lễ dưới chân Đức Thế Tôn, thưa rằng: "Bạch Thế Tôn, một sự phạm lỗi (transgression / accaya - sự vượt quá, sự sai phạm, lỗi lầm) đã xâm chiếm con, vì như một kẻ ngu si, mê mờ [247] và vụng về, con đã dám gọi Đức Thế Tôn là 'bạn'. Bạch Thế Tôn, xin Đức Thế Tôn tha thứ cho sự phạm lỗi của con, khi con đã thấy đó là sự phạm lỗi, vì lợi ích của sự tự chế trong tương lai."
 
-    "Chắc chắn rồi, này tỳ kheo, một sự phạm lỗi đã xâm chiếm thầy, vì như một kẻ ngu si, mê mờ và vụng về, thầy đã dám gọi Ta là 'bạn'. Nhưng vì thầy thấy sự phạm lỗi của mình như vậy và sửa đổi theo đúng Pháp, chúng Ta tha thứ cho thầy. Vì đó là sự tăng trưởng trong Giới Luật của Bậc Thánh khi một người thấy sự phạm lỗi của mình như vậy, sửa đổi theo đúng Pháp, và thực hành sự tự chế trong tương lai."
+"Chắc chắn rồi, này tỳ kheo, một sự phạm lỗi đã xâm chiếm thầy, vì như một kẻ ngu si, mê mờ và vụng về, thầy đã dám gọi Ta là 'bạn'. Nhưng vì thầy thấy sự phạm lỗi của mình như vậy và sửa đổi theo đúng Pháp, chúng Ta tha thứ cho thầy. Vì đó là sự tăng trưởng trong Giới Luật của Bậc Thánh khi một người thấy sự phạm lỗi của mình như vậy, sửa đổi theo đúng Pháp, và thực hành sự tự chế trong tương lai."
 
 34\. "Bạch Thế Tôn, con muốn được thọ cụ túc giới (full admission / upasampadā - lễ xuất gia chính thức để trở thành một tỳ kheo) dưới sự hướng dẫn của Đức Thế Tôn."
 
-    "Nhưng này tỳ kheo, y bát của thầy đã đầy đủ chưa?"
+"Nhưng này tỳ kheo, y bát của thầy đã đầy đủ chưa?"
 
-    "Bạch Thế Tôn, y bát của con chưa đầy đủ."
+"Bạch Thế Tôn, y bát của con chưa đầy đủ."
 
-    "Này tỳ kheo, các đấng Như Lai (Tathāgata - danh hiệu của một vị Phật, có nghĩa là 'Người đã đến như vậy' hoặc 'Người đã đi như vậy') không ban lễ thọ cụ túc giới cho bất kỳ ai mà y bát chưa đầy đủ."
+"Này tỳ kheo, các đấng Như Lai (Tathāgata - danh hiệu của một vị Phật, có nghĩa là 'Người đã đến như vậy' hoặc 'Người đã đi như vậy') không ban lễ thọ cụ túc giới cho bất kỳ ai mà y bát chưa đầy đủ."
 
 35\. Sau đó, tôn giả Pukkusāti, hoan hỷ và vui mừng trước lời dạy của Đức Thế Tôn, đứng dậy khỏi chỗ ngồi, và sau khi đảnh lễ Đức Thế Tôn, đi vòng quanh Ngài theo chiều bên phải, rồi ra đi để tìm kiếm y và bát. Sau đó, trong khi tôn giả Pukkusāti đang tìm kiếm y và bát, một con bò đi lạc đã húc chết vị ấy.
 
 36\. Bấy giờ, một số tỳ kheo đến gặp Đức Thế Tôn, và sau khi đảnh lễ Ngài, họ ngồi xuống một bên và thưa: "Bạch Thế Tôn, thiện nam tử Pukkusāti, người đã được Đức Thế Tôn ban cho lời chỉ dạy ngắn gọn, đã qua đời. Đích đến của vị ấy là gì? Tương lai của vị ấy sẽ ra sao?"
 
-    "Này các tỳ kheo, thiện nam tử Pukkusāti là người có trí tuệ. Vị ấy đã thực hành đúng theo Pháp và không làm phiền Ta trong việc giải thích Pháp. Với sự đoạn trừ năm hạ phần kiết sử (five lower fetters / pañca orambhāgiyāni saṃyojanāni - năm loại trói buộc đầu tiên khiến chúng sinh bị ràng buộc vào các cõi thấp hơn: thân kiến, hoài nghi, giới cấm thủ, tham dục, sân hận), thiện nam tử Pukkusāti đã hóa sinh (spontaneously reappeared / opapātika - sinh ra một cách tự nhiên, không qua thai bào, thường ở các cõi trời hoặc địa ngục) [trong Cõi Tịnh Cư (Pure Abodes / Suddhāvāsa - các cõi trời dành riêng cho các bậc Bất Lai)] và sẽ đạt được Niết Bàn cuối cùng (final Nibbāna / parinibbāna - sự tịch diệt hoàn toàn, không còn tái sinh sau khi thân xác của một vị A-la-hán hay Phật tan rã) ở đó mà không bao giờ trở lại từ thế giới đó nữa."[^1287]
+"Này các tỳ kheo, thiện nam tử Pukkusāti là người có trí tuệ. Vị ấy đã thực hành đúng theo Pháp và không làm phiền Ta trong việc giải thích Pháp. Với sự đoạn trừ năm hạ phần kiết sử (five lower fetters / pañca orambhāgiyāni saṃyojanāni - năm loại trói buộc đầu tiên khiến chúng sinh bị ràng buộc vào các cõi thấp hơn: thân kiến, hoài nghi, giới cấm thủ, tham dục, sân hận), thiện nam tử Pukkusāti đã hóa sinh (spontaneously reappeared / opapātika - sinh ra một cách tự nhiên, không qua thai bào, thường ở các cõi trời hoặc địa ngục) [trong Cõi Tịnh Cư (Pure Abodes / Suddhāvāsa - các cõi trời dành riêng cho các bậc Bất Lai)] và sẽ đạt được Niết Bàn cuối cùng (final Nibbāna / parinibbāna - sự tịch diệt hoàn toàn, không còn tái sinh sau khi thân xác của một vị A-la-hán hay Phật tan rã) ở đó mà không bao giờ trở lại từ thế giới đó nữa."[^1287]
 
 37\. Đó là những gì Đức Thế Tôn đã nói. Các tỳ kheo hài lòng và hoan hỷ trước lời dạy của Đức Thế Tôn.
 

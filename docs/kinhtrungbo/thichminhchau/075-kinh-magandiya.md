@@ -136,6 +136,7 @@ không ước vọng được như họ; ở đây, Ta không ham thích. Vì sa
 lạc này, ly dục, ly bất thiện pháp, sau khi chứng đạt thiên lạc được an trú, hoan hỷ trong hỷ lạc ấy. Ta
 không ao ước cái gì thấp kém; ở đây, Ta không ham thích.
 
+<!--pg-->
 Ví như, này Magandiya, một người bị bệnh cùi; với thân (đầy) những lở lói, với thân hư thối, nứt chảy,
 bị các loại trùng đục khoét, đang cào rách miệng các vết thương với móng tay, hơ đốt thân mình trên hố
 than hừng. Các bạn bè thân hữu, bà con huyết thống của người ấy mời một y sĩ khoa mổ xẻ. Vị y sĩ khoa
@@ -217,6 +218,7 @@ tập khởi, sự đoạn diệt, vị ngọt, sự nguy hiểm và sự xuất
 dục nhiệt não được trừ diệt, đã trú, đang trú hay sẽ trú với khát ái được đoạn trừ, với nội tâm được an
 tịnh.
 
+<!--pg-->
 Rồi Thế Tôn, thời ấy nói lên cảm hứng ngữ như sau:
 
 *Không bệnh, lợi tối thắng,*

@@ -6,24 +6,24 @@
 2\.  "Này các Tỳ kheo, Ta sẽ dạy các ông phần tóm tắt và phần diễn giải về 'Người Có Một Đêm An Lành (One Fortunate Attachment - người có một sự gắn bó/đêm tốt lành, chỉ người an trú trong hiện tại với tuệ quán)'. [^1210] Hãy lắng nghe và chú tâm kỹ, Ta sẽ nói." - "Thưa vâng, bạch Thế Tôn," các Tỳ kheo đáp. Đức Thế Tôn nói điều này:
 
 3\.  "Đừng tìm về quá khứ,
-    Đừng ước vọng tương lai; [^1211]
-    Quá khứ đã đoạn tận,
-    Tương lai lại chưa đến.
+Đừng ước vọng tương lai; [^1211]
+Quá khứ đã đoạn tận,
+Tương lai lại chưa đến.
 
-    Chỉ có pháp (dhamma - hiện tượng, trạng thái tâm/vật lý) hiện tại,
-    Tuệ quán (vipassanā - sự nhìn sâu sắc, thấy rõ bản chất sự vật) chính là đây; [^1212]
-    Biết vậy, vững vàng nắm bắt lấy,
-    Không núng, không lay chuyển. [^1213]
+Chỉ có pháp (dhamma - hiện tượng, trạng thái tâm/vật lý) hiện tại,
+Tuệ quán (vipassanā - sự nhìn sâu sắc, thấy rõ bản chất sự vật) chính là đây; [^1212]
+Biết vậy, vững vàng nắm bắt lấy,
+Không núng, không lay chuyển. [^1213]
 
-    Hôm nay cần phải nỗ lực gấp;
-    Ai biết chết đến ngày mai?
-    Không ai mặc cả được
-    Với Tử thần và binh lực của nó.
+Hôm nay cần phải nỗ lực gấp;
+Ai biết chết đến ngày mai?
+Không ai mặc cả được
+Với Tử thần và binh lực của nó.
 
-    Người nào sống nhiệt tâm như vậy,
-    Không mệt mỏi ngày đêm –
-    Người ấy, Bậc Thánh Tĩnh Lặng (Muni - bậc hiền triết trầm lặng) gọi là, [^1214]
-    Người có một đêm an lành. [188]
+Người nào sống nhiệt tâm như vậy,
+Không mệt mỏi ngày đêm –
+Người ấy, Bậc Thánh Tĩnh Lặng (Muni - bậc hiền triết trầm lặng) gọi là, [^1214]
+Người có một đêm an lành. [188]
 
 4\.  "Này các Tỳ kheo, thế nào là tìm về quá khứ? Nghĩ rằng: 'Trong quá khứ, ta đã có sắc (rūpa - hình thể vật chất) như thế này,' người ấy tìm thấy sự thích thú trong đó. [^1215] Nghĩ rằng: 'Trong quá khứ, ta đã có thọ (vedanā - cảm giác dễ chịu, khó chịu, trung tính) như thế này,'... 'Trong quá khứ, ta đã có tưởng (saññā - sự nhận biết, ghi nhận đặc điểm) như thế này,'... 'Trong quá khứ, ta đã có hành (saṅkhārā - các hoạt động, ý định, khuynh hướng của tâm) như thế này,'... 'Trong quá khứ, ta đã có thức (viññāṇa - sự nhận biết đối tượng qua các giác quan và ý) như thế này,' người ấy tìm thấy sự thích thú trong đó. Như vậy là tìm về quá khứ.
 

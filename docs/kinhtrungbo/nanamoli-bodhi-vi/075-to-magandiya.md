@@ -53,6 +53,7 @@ Khi được hỏi vậy, vị bà-la-môn, kinh ngạc và dựng tóc gáy, tr
 
 14\. "Cũng vậy, Māgandiya, trước đây khi Ta còn sống đời sống tại gia...(như trong §12)...Vì Ta vui thích trong niềm vui đó, nên Ta không ghen tị với những gì thấp kém hơn, cũng không vui thích trong đó. [507]
 
+<!--pg-->
 15\. "Giả sử, Māgandiya, có một người bị bệnh phong cùi với lở loét và mụn nhọt trên chân tay, bị giòi bọ rúc rỉa, dùng móng tay gãi vảy ở miệng vết thương, hơ mình trên hố than hồng. Rồi bạn bè và người thân của ông ta mang một thầy thuốc đến điều trị cho ông. Thầy thuốc bào chế thuốc cho ông, và nhờ thuốc đó, người ấy được chữa khỏi bệnh phong cùi, trở nên khỏe mạnh và hạnh phúc, tự tại, làm chủ bản thân, có thể đi bất cứ đâu mình muốn. Rồi hai người đàn ông khỏe mạnh nắm lấy hai tay ông ta và kéo ông về phía hố than hồng. Ông nghĩ sao, Māgandiya? Người đàn ông đó có vùng vẫy thân mình không?"
 
 "Có, Tôn giả Gotama. Tại sao vậy? Bởi vì ngọn lửa đó quả thực đau đớn khi chạm vào, nóng bỏng và thiêu đốt."
@@ -69,41 +70,42 @@ Khi được hỏi vậy, vị bà-la-môn, kinh ngạc và dựng tóc gáy, tr
 
 "Tốt lắm, Māgandiya. Ta cũng chưa từng thấy hay nghe nói về một vị vua hay đại thần của vua nào đang hưởng thụ, được cung phụng và đầy đủ năm dục công đức mà, không từ bỏ ái dục đối với dục lạc, không dứt trừ phiền não nóng bức đối với dục lạc, đã có thể, đang có thể hoặc sẽ có thể an trú không còn khao khát, với tâm nội tĩnh lặng. Ngược lại, Māgandiya, những vị sa môn hay bà-la-môn nào đã, đang hoặc sẽ an trú không còn khao khát, với tâm nội tĩnh lặng, tất cả đều làm được như vậy sau khi đã hiểu rõ đúng như thật về sự sinh khởi, sự đoạn diệt, vị ngọt, sự nguy hiểm, và sự thoát ly của các dục lạc, và chính sau khi từ bỏ ái dục đối với dục lạc và dứt trừ phiền não nóng bức đối với dục lạc mà họ đã, đang hoặc sẽ an trú không còn khao khát, với tâm nội tĩnh lặng."
 
+<!--pg-->
 19\. Rồi ngay lúc đó, Đức Thế Tôn thốt lên lời cảm hứng này:
 
-"Sức khỏe là lợi ích lớn nhất,
-Niết-bàn là hạnh phúc tối thượng, (Nibbāna - trạng thái chấm dứt khổ đau, mục tiêu cuối cùng của Phật giáo)
-Con đường tám nhánh là con đường tốt nhất
-Vì nó dẫn đến Bất Tử an ổn." (Deathless - trạng thái không còn sinh tử, đồng nghĩa với Niết-bàn)
+*"Sức khỏe là lợi ích lớn nhất,*<br>
+*Niết-bàn là hạnh phúc tối thượng,*<br>
+*Con đường tám nhánh là con đường tốt nhất*<br>
+*Vì nó dẫn đến Bất Tử an ổn."*<br>
 
 Khi nghe vậy, du sĩ Māgandiya nói với Đức Thế Tôn: "Thật tuyệt vời, Tôn giả Gotama, thật kỳ diệu thay lời Tôn giả Gotama đã nói: [509]
 
-'Sức khỏe là lợi ích lớn nhất,
-Niết-bàn là hạnh phúc tối thượng.'
+*'Sức khỏe là lợi ích lớn nhất,*<br>
+*Niết-bàn là hạnh phúc tối thượng.'*<br>
 
 Chúng tôi cũng đã nghe điều này từ các du sĩ tiền bối theo truyền thống của các bậc thầy, và điều đó trùng khớp, Tôn giả Gotama."
 
 "Nhưng, Māgandiya, khi ông nghe điều đó từ các du sĩ tiền bối theo truyền thống của các bậc thầy, sức khỏe đó là gì, Niết-bàn đó là gì?"
 
-Khi được hỏi vậy, du sĩ Māgandiya xoa tay vào chân tay mình và nói: "Đây chính là sức khỏe, Tôn giả Gotama, đây chính là Niết-bàn; vì tôi bây giờ khỏe mạnh, hạnh phúc và không có gì làm tôi phiền muộn cả." [^744]
+Khi được hỏi vậy, du sĩ Māgandiya xoa tay vào chân tay mình và nói:"Đây chính là sức khỏe, Tôn giả Gotama, đây chính là Niết-bàn; vì tôi bây giờ khỏe mạnh, hạnh phúc và không có gì làm tôi phiền muộn cả." [^744]
 
-20\. "Māgandiya, giả sử có một người mù từ lúc sinh (man born blind - người không thấy được từ khi sinh ra), không thể thấy các hình sắc tối và sáng, không thể thấy các hình sắc xanh, vàng, đỏ, hay hồng, không thể thấy chỗ bằng phẳng và không bằng phẳng, không thể thấy các vì sao hay mặt trời và mặt trăng. Ông ta có thể nghe một người mắt sáng nói: 'Thưa quý vị, tấm vải trắng thật tốt, đẹp, không tì vết và sạch sẽ!' và ông ta sẽ đi tìm một tấm vải trắng. Rồi một người lừa ông ta bằng một chiếc áo bẩn thỉu, dơ dáy rằng: 'Này người tốt, đây là tấm vải trắng cho ông, đẹp, không tì vết và sạch sẽ.' Và ông ta nhận lấy, mặc vào, và hài lòng với nó, ông thốt lên những lời hài lòng rằng: 'Thưa quý vị, tấm vải trắng thật tốt, đẹp, không tì vết và sạch sẽ!' Ông nghĩ sao, Māgandiya? Khi người mù từ lúc sinh đó nhận chiếc áo bẩn thỉu, dơ dáy, mặc vào, và hài lòng với nó, thốt lên những lời hài lòng rằng: 'Thưa quý vị, tấm vải trắng thật tốt, đẹp, không tì vết và sạch sẽ!' - ông ta làm vậy là do biết và thấy, hay do lòng tin (faith - sự tin tưởng) vào người mắt sáng?"
+20\. "Māgandiya, giả sử có một người mù từ lúc sinh, không thể thấy các hình sắc tối và sáng, không thể thấy các hình sắc xanh, vàng, đỏ, hay hồng, không thể thấy chỗ bằng phẳng và không bằng phẳng, không thể thấy các vì sao hay mặt trời và mặt trăng. Ông ta có thể nghe một người mắt sáng nói: 'Thưa quý vị, tấm vải trắng thật tốt, đẹp, không tì vết và sạch sẽ!' và ông ta sẽ đi tìm một tấm vải trắng. Rồi một người lừa ông ta bằng một chiếc áo bẩn thỉu, dơ dáy rằng: 'Này người tốt, đây là tấm vải trắng cho ông, đẹp, không tì vết và sạch sẽ.' Và ông ta nhận lấy, mặc vào, và hài lòng với nó, ông thốt lên những lời hài lòng rằng: 'Thưa quý vị, tấm vải trắng thật tốt, đẹp, không tì vết và sạch sẽ!' Ông nghĩ sao, Māgandiya? Khi người mù từ lúc sinh đó nhận chiếc áo bẩn thỉu, dơ dáy, mặc vào, và hài lòng với nó, thốt lên những lời hài lòng rằng: 'Thưa quý vị, tấm vải trắng thật tốt, đẹp, không tì vết và sạch sẽ!' - ông ta làm vậy là do biết và thấy, hay do lòng tin (faith - sự tin tưởng) vào người mắt sáng?"
 
 "Thưa Tôn giả, ông ta làm vậy mà không biết không thấy, [510] do lòng tin vào người mắt sáng."
 
 21\. "Cũng vậy, Māgandiya, các du sĩ ngoại đạo là mù lòa, không có mắt tuệ. Họ không biết sức khỏe, họ không thấy Niết-bàn, nhưng họ lại đọc lên câu kệ này:
 
-'Sức khỏe là lợi ích lớn nhất,
-Niết-bàn là hạnh phúc tối thượng.'
+*'Sức khỏe là lợi ích lớn nhất,*<br>
+*Niết-bàn là hạnh phúc tối thượng.'*<br>
 
 Câu kệ này đã được các bậc A-la-hán, Chánh Đẳng Giác thời xưa nói lên như sau:
 
-'Sức khỏe là lợi ích lớn nhất,
-Niết-bàn là hạnh phúc tối thượng,
-Con đường tám nhánh là con đường tốt nhất
-Vì nó dẫn đến Bất Tử an ổn.'
+*'Sức khỏe là lợi ích lớn nhất,*<br>
+*Niết-bàn là hạnh phúc tối thượng,*<br>
+*Con đường tám nhánh là con đường tốt nhất*<br>
+*Vì nó dẫn đến Bất Tử an ổn.'*<br>
 
-Bây giờ nó dần dần trở nên phổ biến trong dân gian. [^745] Và mặc dù thân này, Māgandiya, là bệnh tật, là khối u, là mũi tên, là tai họa, là khổ nạn, nhưng chỉ vào thân này ông lại nói: 'Đây chính là sức khỏe, Tôn giả Gotama, đây chính là Niết-bàn.' Ông không có mắt tuệ cao quý (noble vision - trí tuệ thấy rõ chân lý) đó, Māgandiya, nhờ đó ông có thể biết sức khỏe và thấy Niết-bàn."
+Bây giờ nó dần dần trở nên phổ biến trong dân gian. [^745] Và mặc dù thân này, Māgandiya, là bệnh tật, là khối u, là mũi tên, là tai họa, là khổ nạn, nhưng chỉ vào thân này ông lại nói: 'Đây chính là sức khỏe, Tôn giả Gotama, đây chính là Niết-bàn.' Ông không có mắt tuệ cao quý mà ông có thể biết sức khỏe và thấy Niết-bàn."
 
 22\. "Con có lòng tin nơi Tôn giả Gotama rằng: 'Tôn giả Gotama có khả năng giảng dạy Giáo pháp cho con theo cách mà con có thể biết được sức khỏe và thấy được Niết-bàn.'"
 
