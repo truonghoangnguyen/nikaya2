@@ -21,26 +21,26 @@ Setavyà, từng đoàn, từng chúng, từng nhóm, đi về hướng Bắc, �
 Setavyà đi ra khỏi thành Setavyà, từng đoàn, từng chúng, từng nhóm đi về hướng Bắc, đến tại rừng
 Simsapà. Thấy vậy vua cho gọi quan hộ thành và hỏi:
 
-- Này Khanh, vì sao các Bà-la-môn và Gia chủ ở Setavyà đi ra khỏi thành Setavyà, từng đoàn, từng
+\- Này Khanh, vì sao các Bà-la-môn và Gia chủ ở Setavyà đi ra khỏi thành Setavyà, từng đoàn, từng
 chúng, từng nhóm, đi về hướng Bắc, đến tại rừng Simsapà như vậy?
 
-- Có Sa môn Kumàra Kassapa, đệ tử Sa môn Gotama đang du hành trong nước Kosala cùng với Ðại
+\- Có Sa môn Kumàra Kassapa, đệ tử Sa môn Gotama đang du hành trong nước Kosala cùng với Ðại
 chúng Tỷ kheo khoảng năm trăm vị, đã đến Setavyà, trú về phía Bắc thành này, trong rừng Simsapà.
 Tiếng đồn tốt đẹp sau đây về tôn giả Kumàra Kassapa được khởi lên: “Tôn giả là bậc học rộng, tài cao,
 diệu trí, đa văn, lời nói thấu tâm, thiện xảo, biện tài” và các vị ấy đi đến yết kiến tôn giả Kumàra
 Kassapa.
 
-- Này Khanh, hãy đi đến các Bà-la-môn và Gia chủ ấy và nói với họ như sau: “Vua Pàyàsi nói các Hiền
+\- Này Khanh, hãy đi đến các Bà-la-môn và Gia chủ ấy và nói với họ như sau: “Vua Pàyàsi nói các Hiền
 giả hãy đợi. Vua Pàyàsi cũng sẽ đến yết kiến Sa môn Kumàra Kassapa”. Sa môn Kumàra Kassapa có thể
 cảm hóa các Bà -la-môn và Gia chủ ở Setavyà ngu muội và kém khả năng theo quan điểm: “Có đời sau,
 có các loại hóa sanh, hành vi thiện ác có quả báo”. Này Khanh, sự thật không có đời sau, không có các
 loại hóa sanh, hành vi thiện ác không có quả báo.
 
-- Xin vâng, thưa Tôn chủ!
+\- Xin vâng, thưa Tôn chủ!
 
 Vị quan hộ thành vâng lời vua Pàyàsi, đi đến các Bà -la-môn và Gia chủ ở Setavyà và nói:
 
-- Chư Hiền giả hãy chờ đợi, vua Pàyàsi sẽ đến yết kiến Sa môn Kumàra Kassapa.
+\- Chư Hiền giả hãy chờ đợi, vua Pàyàsi sẽ đến yết kiến Sa môn Kumàra Kassapa.
 
 4\. Rồi Vua Pàyàsi được các Bà -la-môn và Gia chủ ở Setavyà hộ tống cùng đi đến rừng Simsapà chỗ trú
 của tôn giả Kumàra Kassapa. Sau khi đến, vua bèn nói lời thân ái, chào đón, chúc tụng rồi ngồi xuống
@@ -50,32 +50,32 @@ một bên. Có người chấp tay vái chào tôn giả Kumàra Kassapa rồi 
 tên họ rồi ngồi xuống một bên. Có người yên lặng ngồi xuống một bên.
 5\. Sau khi ngồi xuống một bên, vua Pàyàsi thưa với tôn giả Kumàra Kassapa:
 
-- Tôn giả Kassapa, tôi có chủ thuyết và tri kiến như sau: “Không có đời sau, không có các loại hóa sanh,
+\- Tôn giả Kassapa, tôi có chủ thuyết và tri kiến như sau: “Không có đời sau, không có các loại hóa sanh,
 hành vi thiện ác không có quả báo.”
 
-- Này Tôn chủ, tôi không thấy, không nghe quan điểm như vậy, tri kiến như vậy. Sao Tôn chủ lại nói:
+\- Này Tôn chủ, tôi không thấy, không nghe quan điểm như vậy, tri kiến như vậy. Sao Tôn chủ lại nói:
 “Không có đời sau, không có các loại hóa sanh, hành vi thiện ác không có quả báo”? Thưa Tôn chủ, tôi
 sẽ hỏi Tôn chủ một vài câu hỏi. Tôn chủ hãy tùy theo đó mà trả lời. Tôn chủ nghĩ thế nào? Mặt trời và
 mặt trăng này, chúng thuộc thế giới này hay thế giới khác? Chúng thuộc như Thiên hay loài Người?
 
-- Tôn giả Kassapa, mặt trời và mặt trăng thuộc thế giới khác, không phải thế giới này, chúng thuộc chư
+\- Tôn giả Kassapa, mặt trời và mặt trăng thuộc thế giới khác, không phải thế giới này, chúng thuộc chư
 Thiên, không thuộc loài Người.
 
-- Này Tôn chủ, sự kiện là như vậy, cần phải chấp nhận rằng: “Có đời sau, có các loại hóa sanh, hành vi
+\- Này Tôn chủ, sự kiện là như vậy, cần phải chấp nhận rằng: “Có đời sau, có các loại hóa sanh, hành vi
 thiện ác có quả báo”.
 
 6\. - Dầu Tôn giả Kassapa có nói như vậy, ở đây tôi vẫn chấp nhận: “Không có đời sau, không có các loại
 hóa sanh, hành vi thiện ác không có quả báo.”
 
-- Này Tôn chủ, sự kiện gì để chứng minh rằng: “Không có đời sau, không có các loài hóa sanh, hành vi
+\- Này Tôn chủ, sự kiện gì để chứng minh rằng: “Không có đời sau, không có các loài hóa sanh, hành vi
 thiện ác không có quả báo”?.
 
-- Tôn giả Kassapa, vâng, có sự kiện để chứng minh rằng: “Không có đời sau, không có các loại hóa
+\- Tôn giả Kassapa, vâng, có sự kiện để chứng minh rằng: “Không có đời sau, không có các loại hóa
 sanh, hành vi thiện ác không có quả báo.”
 
-- Này Tôn chủ, như thế nào?
+\- Này Tôn chủ, như thế nào?
 
-- Tôn giả Kassapa, tôi có những người bạn tri kỷ, thân tộc cùng một huyết thống. Những người này sát
+\- Tôn giả Kassapa, tôi có những người bạn tri kỷ, thân tộc cùng một huyết thống. Những người này sát
 sanh, lấy của không cho, tà dâm, nói láo, nói hai lưỡi, nói lời độc ác, nói lời phù phiếm, tham dục, sân
 hận và tà kiến. Những người này, sau một thời gian bị trọng bịnh, bị đau khổ, bị chứng tật. Khi tôi biết
 những vị ấy không thể khỏi những bệnh ấy được, tôi liền đi đến họ và nói: “Một số Sa môn, Bà -la-môn
@@ -104,11 +104,11 @@ ngồi xuống. Nay người ăn trộm ấy có thể xin người đem chém m
 được đi thăm thân bằng quyến thuộc ở tại làng này, hay xã này.” Hay những người ấy chặt ngay đầu
 người ăn trộm cầu xin như vậy?
 
-- Tôn giả Kassapa, người ăn trộm ấy không được những người đem chém mình cho phép: “Thưa quý vị,
+\- Tôn giả Kassapa, người ăn trộm ấy không được những người đem chém mình cho phép: “Thưa quý vị,
 quý vị cho phép tôi được đi thăm thân bằng quyến thuộc ở tại làng này, hay xã này.” Những người ấy
 chặt ngay đầu người ăn trộm cầu xin như vậy.
 
-- Này Tôn giả, người ăn trộm thuộc loài Người, không được phép người xử trảm mình cũng là loài
+\- Này Tôn giả, người ăn trộm thuộc loài Người, không được phép người xử trảm mình cũng là loài
 Người: “Thưa quý vị cho phép tôi được đi thăm thân bằng quyến thuộc ở làng này, hay ở xã này”, thời
 làm sao những người thân bằng quyến thuộc của Ngài, đã sát sanh, lấy của không cho, tà đâm, nói láo,
 nói hai lưỡi, nói lời độc ác, nói lời phù phiếm, tham dục, sân hận và tà kiến, sau khi thân hoại mạng
@@ -119,15 +119,15 @@ hóa sanh, hành vi thiện ác có quả báo.”
 8\. - Dầu Tôn giả Kassapa có nói như vậy, ở đây tôi vẫn chấp nhận: “Không có đời sau, không có các loại
 hóa sanh, hành vi thiện ác không có quả báo.”
 
-- Này Tôn chủ, có sự kiện gì để chứng minh rằng: “Không có đời sau, không có các loại hóa sanh, hành
+\- Này Tôn chủ, có sự kiện gì để chứng minh rằng: “Không có đời sau, không có các loại hóa sanh, hành
 vi thiện ác không có quả báo”?
 
-- Tôn giả Kassapa, vâng, có sự kiện để chứng minh rằng: “Không có đời sau, không có các loại hóa
+\- Tôn giả Kassapa, vâng, có sự kiện để chứng minh rằng: “Không có đời sau, không có các loại hóa
 sanh, hành vi thiện ác không có quả báo.”
 
-- Này Tôn chủ, như thế nào?
+\- Này Tôn chủ, như thế nào?
 
-- Tôn giả Kassapa, tôi có những thân bằng quyến thuộc gìn giữ không sát sanh, không lấy của không
+\- Tôn giả Kassapa, tôi có những thân bằng quyến thuộc gìn giữ không sát sanh, không lấy của không
 cho, không tà dâm, không nói láo, không nói hai lưỡi, không nói lời độc ác, không nói lời phù phiếm,
 không tham dục, không sân hận và không tà kiến. Những người này, sau một thời gian bị trọng bịnh, bị
 đau khổ, bị chứng tật. Khi tôi biết những vị ấy không thể khỏi những bệnh ấy được, tôi liền đi đến họ và
@@ -163,14 +163,14 @@ khéo thoa dầu, khéo sửa soạn râu tóc, khéo trang điểm với vòng 
 và cho hưởng năm món dục lạc như vậy, thử hỏi người kia có chịu đâm đầu vào hầm phân ấy nữa
 không?
 
-- Thưa không, Tôn giả Kassapa!
+\- Thưa không, Tôn giả Kassapa!
 
-- Vì sao không?
+\- Vì sao không?
 
-- Tôn giả Kassapa, hầm phân là bất tịnh và được xem là bất tịnh, xú uế và được xem là xú uế, ghê tởm
+\- Tôn giả Kassapa, hầm phân là bất tịnh và được xem là bất tịnh, xú uế và được xem là xú uế, ghê tởm
 và được xem là ghê tởm, yếm ố và được xem là yếm ố.
 
-- Này Tôn chủ, mùi hôi của loài Người khiến chư Thiên ghê tởm xa đến một trăm do tuần. Làm sao
+\- Này Tôn chủ, mùi hôi của loài Người khiến chư Thiên ghê tởm xa đến một trăm do tuần. Làm sao
 những người thân bằng quyến thuộc của Ngài, gìn giữ không sát sanh, không lấy của không cho, không
 tà dâm, không nói láo, không nói hai lưỡi, không nói lời độc ác, không nói lời phù phiếm, không tham
 dục, không sân hận và không tà kiến, sau khi thân hoại mạng chung, được sanh lên thiện thú, Thiên
@@ -181,15 +181,15 @@ quả báo”.
 10\. - Dầu Tôn giả Kasspa có nói như vậy, ở đây tôi vẫn chấp nhận: “Không có đời sau, không có các
 loại hóa sanh, hành vi thiện ác không có quả báo”.
 
-- Này Tôn chủ, có sự kiện gì để chứng minh rằng: “Không có đời sau, không có các loại hóa sanh, hành
+\- Này Tôn chủ, có sự kiện gì để chứng minh rằng: “Không có đời sau, không có các loại hóa sanh, hành
 vi thiện ác không có quả báo”?
 
-- Tôn giả Kassapa, vâng, có sự kiện để chứng minh rằng: “Không có đời sau, không có các loại hóa
+\- Tôn giả Kassapa, vâng, có sự kiện để chứng minh rằng: “Không có đời sau, không có các loại hóa
 sanh, hành vi thiện ác không có quả báo.”
 
-- Này Tôn chủ, như thế nào?
+\- Này Tôn chủ, như thế nào?
 
-- Tôn giả Kassapa, tôi có những người thân bằng quyến thuộc gìn giữ không sát sanh, không lấy của
+\- Tôn giả Kassapa, tôi có những người thân bằng quyến thuộc gìn giữ không sát sanh, không lấy của
 không cho, không tà dâm, không nói láo, không nói hai lưỡi, không nói lời độc ác, không nói lời phù
 phiếm, không tham dục, không sân hận và không tà kiến. Những người này sau một thời gian bị trọng
 bệnh, bị đau khổ, bị chứng tật. Khi tôi biết những vị ấy không thể khỏi những bệnh ấy được, tôi liền đi
@@ -218,12 +218,12 @@ sau sẽ đến Tôn chủ Pàyàsi và tin cho biết: “Có đời sau, có c
 báo.” Và những vị ấy có đến Ngài và tin cho biết: “Có đời sau, có loại hóa sanh, hành vi thiện ác có quả
 báo” không?
 
-- Thưa không, Tôn giả Kassapa! Tôn giả Kassapa, vì chúng tôi sẽ chết đã lâu rồi. Nhưng ai cho Tôn giả
+\- Thưa không, Tôn giả Kassapa! Tôn giả Kassapa, vì chúng tôi sẽ chết đã lâu rồi. Nhưng ai cho Tôn giả
 Kassapa biết: “Có chư Thiên ở Tam thập tam thiên, Hay chư Thiên ở Tam thập tam thiên tuổi thọ là như
 vậy”. Chúng tôi không tin người ấy, khi người ấy nói: “Có chư Thiên ở Tam thập tam thiên! Hay chư
 Thiên ở Tam thập tam thiên, tuổi thọ là như vậy!”
 
-- Này Tôn chủ, như có người sanh ra đã mù, không thấy được các sắc đen hay trắng, không thấy được
+\- Này Tôn chủ, như có người sanh ra đã mù, không thấy được các sắc đen hay trắng, không thấy được
 các sắc xanh, hay sắc vàng, các sắc đỏ, hay các sắc nâu, không thấy được các sắc tế nhị hay thô cứng,
 không thấy được các sao hay mặt trăng. Người ấy nói: “Không có các sắc đen hay trắng, không có người
 thấy các sắc đen hay trắng; không có sắc xanh, không có người thấy sắc xanh; không có sắc vàng, không
@@ -233,14 +233,14 @@ không có các sao, không có người thấy các sao; không có mặt trăn
 trăng mặt trời. Tôi không biết vật này, tôi không thấy vật này, nên vật này không có. Này Tôn chủ, nói
 như vậy có phải nói một cách hợp lý không?
 
-- Thưa không, Tôn giả Kassapa. Có các sắc đen hay trắng, có người thấy các sắc đen hay trắng; có các
+\- Thưa không, Tôn giả Kassapa. Có các sắc đen hay trắng, có người thấy các sắc đen hay trắng; có các
 sắc xanh, có người thấy các sắc xanh; có các sắc vàng, có người thấy các sắc vàng; có các sắc đỏ, có
 người thấy các sắc đỏ; có các sắc nâu, có người thấy các sắc nâu; có các vật tế nhị hay thô cứng, có
 người thấy các vật tế nhị hay thô cứng; có các vì sao, có người thấy các vì sao; có mặt trăng, mặt trời, có
 người thấy mặt trăng, mặt trời. “Tôi không biết vật này, tôi không thấy vật này, do vậy vật này không
 có.” Tôn giả Kassapa, ai nói như vậy là nói không hợp lý!
 
-- Cũng vậy này Tôn chủ, Ngài nói cũng giống người sinh ra đã mù khi Ngài nói với tôi: “Ai bảo Tôn giả
+\- Cũng vậy này Tôn chủ, Ngài nói cũng giống người sinh ra đã mù khi Ngài nói với tôi: “Ai bảo Tôn giả
 Kassapa biết rằng: “Có chư Thiên ở Tam thập tam thiên,” hay “Chư thiên ở Tam thập Tam thiên tuổi thọ
 là như vậy!” Chúng tôi không tin Tôn giả Kassapa, khi Tôn giả nói: “Có chư Thiên ở Tam thập tam
 thiên,” hay “Chư thiên ở Tam thập tam thiên tuổi thọ là như vậy”.
@@ -255,15 +255,15 @@ kiện là như vậy, nên tôi có tri kiến: “Có đời sau, có các lo�
 12\. - Dầu Tôn giả Kassapa có nói như vậy, ở đây tôi vẫn chấp nhận: “Không có đời sau, không có các
 loại hóa sanh, hành vi thiện ác không có quả báo.”
 
-- Này Tôn chủ, có sự kiện gì để chứng minh rằng: “Không có đời sau, không có các loại hóa sanh, hành
+\- Này Tôn chủ, có sự kiện gì để chứng minh rằng: “Không có đời sau, không có các loại hóa sanh, hành
 vi thiện ác không có quả báo”?
 
-- Tôn giả Kassapa, vâng, có sự kiện để chứng minh rằng: “Không có đời sau, không có các loại hóa
+\- Tôn giả Kassapa, vâng, có sự kiện để chứng minh rằng: “Không có đời sau, không có các loại hóa
 sanh, hành vi thiện ác không có quả báo.”
 
-- Này Tôn chủ, như thế nào?
+\- Này Tôn chủ, như thế nào?
 
-- Tôn giả Kassapa, ở đây tôi thấy có những Sa môn, Bà -la-môn giữ giới, thiện tánh, ham sống, ngại
+\- Tôn giả Kassapa, ở đây tôi thấy có những Sa môn, Bà -la-môn giữ giới, thiện tánh, ham sống, ngại
 chết, ham sướng, ngại khổ. Tôn giả Kassapa, rồi tôi nghĩ: “Nếu những Sa môn, Bà -la-môn này giữ giới,
 có thiện tánh, được biết: “Sau khi chúng ta chết rồi, đời chúng ta sẽ được tốt đẹp hơn.” Rồi những Sa
 môn, Bà -la-môn giữ giới, có thiện tánh ấy, hoặc uống thuốc độc, hoặc lấy kiếm đâm, hoặc tự giết mình
@@ -304,15 +304,15 @@ báo.”
 14\. - Dầu Tôn giả Kassapa có nói như vậy, ở đây tôi vẫn chấp nhận: “Không có đời sau, không có các
 loài hóa sanh, hành vi thiện ác không có quả báo.”
 
-- Này Tôn chủ, có sự kiện gì để chứng minh rằng: “Không có đời sau, không có các loại hóa sanh, hành
+\- Này Tôn chủ, có sự kiện gì để chứng minh rằng: “Không có đời sau, không có các loại hóa sanh, hành
 vi thiện ác không có quả báo”?
 
-- Tôn giả Kassapa, vâng, có sự kiện để chứng minh rằng: “Không có đời sau, không có các loại hóa
+\- Tôn giả Kassapa, vâng, có sự kiện để chứng minh rằng: “Không có đời sau, không có các loại hóa
 sanh, hành vi thiện ác không có quả báo.”
 
-- Này Tôn chủ, như thế nào?
+\- Này Tôn chủ, như thế nào?
 
-- Này Tôn giả Kassapa, ở đây có những người bắt được một người ăn trộm phạm tội và đem đến cho tôi
+\- Này Tôn giả Kassapa, ở đây có những người bắt được một người ăn trộm phạm tội và đem đến cho tôi
 và nói: “Tôn chủ, đây là người ăn trộm phạm tội. Hãy hình phạt anh ta như Ngài muốn. “Tôi nói với họ:
 “Các Hiền giả, hãy bỏ sống người này trong một cái chum, bịt miệng chum lại, dùng da ướt bao lại,
 dùng đất sét ướt quện lại trét trên miệng chum, nhắc chum ấy trên cái lò và nổi lửa đốt. Các người ấy
@@ -327,35 +327,35 @@ sanh, hành vi thiện ác không có quả báo”.
 nghỉ trưa, Ngài có chấp nhận Ngài có thấy những cảnh mộng hoan lạc ở vườn, ở rừng, ở đồng bằng, ở ao
 hồ không?
 
-- Tôn giả Kassapa, tôi xác nhận khi đi nghĩ trưa, tôi có thấy những cảnh mộng hoan lạc ở vườn, ở rừng,
+\- Tôn giả Kassapa, tôi xác nhận khi đi nghĩ trưa, tôi có thấy những cảnh mộng hoan lạc ở vườn, ở rừng,
 ở đồng bằng, ở ao hồ.
 
-- Trong khi ấy, có phải Ngài được một số người hầu hạ một bên, những người gù lưng, thấp lùn, thiếu
+\- Trong khi ấy, có phải Ngài được một số người hầu hạ một bên, những người gù lưng, thấp lùn, thiếu
 phụ và con gái?
 
-- Vâng, Tôn giả Kassapa, trong khi ấy, tôi được một số người hầu hạ một bên, những người gù lưng,
+\- Vâng, Tôn giả Kassapa, trong khi ấy, tôi được một số người hầu hạ một bên, những người gù lưng,
 thấp lùn, thiếu phụ và con gái.
 
-- Và họ thấy linh hồn của Ngài đi ra hay đi vào không?
+\- Và họ thấy linh hồn của Ngài đi ra hay đi vào không?
 
-- Tôn giả Kassapa, thưa không.
+\- Tôn giả Kassapa, thưa không.
 
-- Này Tôn chủ, họ không thấy linh hồn của Tôn chủ đi ra hay đi vào, thời làm sao Ngài có thể thấy linh
+\- Này Tôn chủ, họ không thấy linh hồn của Tôn chủ đi ra hay đi vào, thời làm sao Ngài có thể thấy linh
 hồn một người chết đi vào hay đi ra được? Này Tôn chủ, sự kiện là như vậy nên tôi chấp nhận: “Có đời
 sau, có các loại hóa sanh, hành vi thiện ác có quả báo.”
 
 16\. - Dầu Tôn giả Kassapa có nói như vậy, ở đây tôi vẫn chấp nhận: “Không có đời sau, không có các
 loại hóa sanh, hành vi thiện ác không có quả báo.”
 
-- Này Tôn chủ, có sự kiện gì để chứng minh rằng: “Không có đời sau, không có các loại hóa sanh, hành
+\- Này Tôn chủ, có sự kiện gì để chứng minh rằng: “Không có đời sau, không có các loại hóa sanh, hành
 vi thiện ác không có quả báo”?
 
-- Tôn giả Kassapa, vâng, có sự kiện để chứng minh rằng: “Không có đời sau, không có các loại hóa
+\- Tôn giả Kassapa, vâng, có sự kiện để chứng minh rằng: “Không có đời sau, không có các loại hóa
 sanh, hành vi thiện ác không có quả báo.”
 
-- Này Tôn chủ, như thế nào?
+\- Này Tôn chủ, như thế nào?
 
-- Tôn giả Kassapa, ở đời, có những người bắt được một người ăn trộm phạm tội và đem đến cho tôi:
+\- Tôn giả Kassapa, ở đời, có những người bắt được một người ăn trộm phạm tội và đem đến cho tôi:
 “Thưa Tôn chủ, đây là người ăn trộm phạm tội. Hãy hình phạt anh ta như Ngài muốn.” Tôi nói với họ:
 “Các khanh hãy đem cân sống anh ta đi, rồi lấy dây cung thắt cổ cho anh ta chết, xong đem cân lại.”
 Những người này vâng lời tôi và đáp: “Xin vâng!”, rồi họ đem cân sống người ăn trộm ấy, lấy dây cung
@@ -368,11 +368,11 @@ Này Tôn chủ, ví như người cân một hòn sắt được đốt nóng t
 thời khác cũng đem cân hòn sắt ấy nhưng nay đã nguội lạnh. Khi nào thì hòn sắt ấy nhẹ hơn, mềm mại
 hơn, hay nhu nhuyến hơn? Khi hòn sắt ấy đang cháy đỏ, hừng lửa, đỏ rực hay khi đã nguội lạnh?
 
-- Tôn giả Kassapa, khi hòn sắt ấy cháy đỏ, hừng lửa, đỏ rực, khi ấy hòn sắt nhẹ hơn, mềm mại hơn và
+\- Tôn giả Kassapa, khi hòn sắt ấy cháy đỏ, hừng lửa, đỏ rực, khi ấy hòn sắt nhẹ hơn, mềm mại hơn và
 nhu nhuyến hơn. Khi hòn sắt ấy không cháy đỏ, không hừng lửa, nguội lạnh rồi, khi đó hòn sắt nặng
 hơn, cứng hơn và không nhu nhuyến.
 
-- Này Tôn chủ, khi thân này có tuổi thọ, có sức nặng, có thức thì nó nhẹ hơn, mềm mại hơn và nhu
+\- Này Tôn chủ, khi thân này có tuổi thọ, có sức nặng, có thức thì nó nhẹ hơn, mềm mại hơn và nhu
 nhuyến hơn. Khi các thân này không có tuổi thọ, không có sức nóng và không có thức thời nó nặng hơn,
 cứng hơn và không nhu nhuyến. Này Tôn chủ, sự kiện là như vậy, nên tôi chấp nhập: “Có đời sau, có
 các loại hóa sanh, hành vi thiện ác có quả báo.”
@@ -380,15 +380,15 @@ các loại hóa sanh, hành vi thiện ác có quả báo.”
 18\. - Dầu Tôn giả Kassapa có nói như vậy, ở đây tôi vẫn chấp nhận: “Không có đời sau, không có các
 loại hóa sanh, hành vi thiện ác không có quả báo.”
 
-- Này Tôn chủ, có sự kiện gì để chứng minh rằng: “Không có đời sau, không có các loại hóa sanh, hành
+\- Này Tôn chủ, có sự kiện gì để chứng minh rằng: “Không có đời sau, không có các loại hóa sanh, hành
 vi thiện ác không có quả báo”?
 
-- Tôn giả Kassapa, vâng, có sự kiện để chứng minh rằng: “Không có đời sau, không có các loại hóa
+\- Tôn giả Kassapa, vâng, có sự kiện để chứng minh rằng: “Không có đời sau, không có các loại hóa
 sanh, hành vi thiện ác không có quả báo.”
 
-- Này Tôn chủ, như thế nào?
+\- Này Tôn chủ, như thế nào?
 
-- Tôn giả Kassapa, có những người bắt được một người ăn trộm phạm tội và đem đến cho tôi: “Thưa
+\- Tôn giả Kassapa, có những người bắt được một người ăn trộm phạm tội và đem đến cho tôi: “Thưa
 Tôn chủ, đây là người ăn trộm phạm tội. Hãy hình phạt anh ta như Ngài muốn.” Tôi nói với họ như sau:
 “Các khanh, hãy giết người này bằng cách lột da ngoài, da trong, thịt, gân, xương, và xương tủy của anh
 ta”. Những người này vâng lời tôi và đáp: “Xin vâng, Tôn chủ!” rồi họ bèn giết người ấy bằng cách lột
@@ -436,15 +436,15 @@ thiện ác có quả báo.”
 20\. - Dầu Tôn giả Kassapa có nói như vậy, ở đây tôi vẫn chấp nhận: “Không có đời sau, không có các
 loại hóa sanh, hành vi thiện ác không có quả báo.”
 
-- Này Tôn chủ, có sự kiện gì để chứng minh rằng: “Không có đời sau, không có các loại hóa sanh, hành
+\- Này Tôn chủ, có sự kiện gì để chứng minh rằng: “Không có đời sau, không có các loại hóa sanh, hành
 vi thiện ác không có quả báo”?
 
-- Tôn giả Kassapa, vâng, có sự kiện để chứng minh rằng: “Không có đời sau, không có các loại hóa
+\- Tôn giả Kassapa, vâng, có sự kiện để chứng minh rằng: “Không có đời sau, không có các loại hóa
 sanh, hành vi thiện ác không có quả báo.”
 
-- Này Tôn chủ, như thế nào?
+\- Này Tôn chủ, như thế nào?
 
-- Tôn giả Kassapa, nay có những người bắt được một tên ăn trộm phạm tội và đem đến cho tôi: “Thưa
+\- Tôn giả Kassapa, nay có những người bắt được một tên ăn trộm phạm tội và đem đến cho tôi: “Thưa
 Tôn chủ, đây là người ăn trộm phạm tội. Hãy hình phạt anh ta như Ngài muốn.” Tôi nói với họ như sau:
 “Các khanh hãy lột da anh ta, để chúng ta có thể thấy linh hồn của anh ta.” Chúng lột da của người ấy,
 nhưng chúng tôi không thấy linh hồn của anh ta. Rồi tôi bảo họ: “Các khanh hãy lột da trong của người
@@ -701,9 +701,9 @@ giống xuống, những hột giống ấy bị hư sứt, bị thúi mục, b�
 điều kiện thuận tiện, và thần mưa không cho mưa đúng thời. Vậy các hột giống ấy có thể lớn lên, trưởng
 thành lên và sum sê hoa lá lên hoặc người làm ruộng ấy gặt hái được nhiều kết quả không?
 
-- Tôn giả Kassapa, không thể được.
+\- Tôn giả Kassapa, không thể được.
 
-- Cũng vậy, này Tôn giả, tại tế đàn nào có trâu bò bị giết hay các loại dê bị giết, hay gà và heo bị giết,
+\- Cũng vậy, này Tôn giả, tại tế đàn nào có trâu bò bị giết hay các loại dê bị giết, hay gà và heo bị giết,
 hay các loại sinh vật khác bị giết, và những ai tham dự tế đàn ấy là những vị có tà kiến, tà tư duy, tà ngữ,
 tà nghiệp, tà mạng, tà tinh tấn, tà niệm, tà định. Này Tôn chủ, tế đàn ấy không đem lại quả báo lớn, lợi
 ích lớn, danh tiếng lớn, không được quảng bá rộng lớn. Này Tôn chủ, tại tế đàn nào không có trâu bò bị
@@ -717,9 +717,9 @@ không bị gió và sức nóng phá hại, thuận mùa, có điều kiện th
 Vậy các hột giống ấy có thể lớn lên, trưởng thành lên, sum sê hoa lá, hoặc người làm ruộng ấy gặt hái
 được nhiều kết quả không?
 
-- Tôn giả Kassapa, thật được như vậy.
+\- Tôn giả Kassapa, thật được như vậy.
 
-- Cũng vậy, này Tôn chủ, tại tế đàn nào mà không có trâu bò bị giết, không có các loại dê bị giết, không
+\- Cũng vậy, này Tôn chủ, tại tế đàn nào mà không có trâu bò bị giết, không có các loại dê bị giết, không
 có gà heo bị giết, không có các loại sanh vật khác bị giết, và những ai tham dự tế đàn ấy là những vị có
 Chánh kiến, Chánh tư duy, Chánh ngữ, Chánh nghiệp, Chánh mạng, Chánh tinh tấn, Chánh niệm, Chánh
 định; này Tôn chủ, tế đàn ấy đem lại quả báo lớn, lợi ích lớn, danh tiếng lớn, được quảng bá rộng lớn.
@@ -732,24 +732,24 @@ tên Uttàra bị bỏ qua. Sau khi cuộc bố thí đã xong, vị nầy nói 
 niên Uttàra sau khi cuộc bố thí đã xong, có nói ngạo: “Với cuộc bố thí này, ta được gặp Tôn chủ Pàyàsi
 trong đời này, nhưng không gặp trong đời sau,” liền cho mời thanh niên Uttàra và nói:
 
-- Này Thân hữu Uttàra, có thật chăng, sau khi cuộc bố thí đã xong, Ngươi có nói ngạo: “Với cuộc bố thí
+\- Này Thân hữu Uttàra, có thật chăng, sau khi cuộc bố thí đã xong, Ngươi có nói ngạo: “Với cuộc bố thí
 này, ta gặp được Tôn chủ Pàyàsi trong đời này, nhưng không gặp trong đời sau”?
 
-- Thật có vậy, này Tôn chủ!
+\- Thật có vậy, này Tôn chủ!
 
-- Này Thân hữu Uttàra, tại sao, sau cuộc bố thí Ngươi lại nói ngạo như vậy: “Với cuộc bố thí này, ta
+\- Này Thân hữu Uttàra, tại sao, sau cuộc bố thí Ngươi lại nói ngạo như vậy: “Với cuộc bố thí này, ta
 được gặp Tôn chủ Pàyàsi trong đời này, nhừng không gặp trong đời sau.”? Này Thân hữu Uttàra, có
 phải chúng ta đi tìm công đức đều trông mong kết quả của cuộc bố thí?
 
-- Này Tôn chủ, trong cuộc bố thí của Ngài, các món ăn như thế này được đem cho như cháo, đồ ăn phế
+\- Này Tôn chủ, trong cuộc bố thí của Ngài, các món ăn như thế này được đem cho như cháo, đồ ăn phế
 thải, các món ăn này được Ngài không muốn lấy bàn chân của Ngài đụng đến, huống nữa là ăn; vải thô
 với những nền bằng hình tròn, các thứ vải này Ngài không muốn lấy bàn chân của Ngài đụng đến,
 huống nữa là mặc. Tôn chủ, Ngài là người thân và kính mến của chúng tôi. Như thế nào, chúng tôi có
 thể phối hợp cái gì thân yêu và kính mến với cái gì không thân yêu?
 
-- Vậy này Thân hữu Uttàra, hãy phân phát các món ăn giống như các món tôi ăn, hãy phân phát các vải
+\- Vậy này Thân hữu Uttàra, hãy phân phát các món ăn giống như các món tôi ăn, hãy phân phát các vải
 mặc, giống như các thứ vải mà tôi mặc.
-- Xin vâng, Tôn chủ!
+\- Xin vâng, Tôn chủ!
 
 Thanh niên Uttàra vâng theo lời Tôn chủ Pàyàsi, đem phân phát những món ăn giống như các món tôn
 chủ Pàyàsi ăn, đem phân phát các thứ vải, giống như các thứ vải tôn chủ Pàyàsi mặc.
@@ -765,17 +765,17 @@ nhập chúng với chư Thiên ở Tam thập tam thiên.
 của Serisaka. Nay Thiên tử Pàyàssi đi đón tôn giả Gavampati, đảnh lễ ngài, và đứng một bên. Tôn giả
 Gavampati nói với Thiên tử Pàyàsi đang đứng một bên:
 
-- Bạch Tôn giả, con là tôn chủ Pàyàsi.
+\- Bạch Tôn giả, con là tôn chủ Pàyàsi.
 
-- Này Hiền giả, có phải Ngươi có tà kiến như sau: “Không có đời sau, không có các loại hóa sanh, hành
+\- Này Hiền giả, có phải Ngươi có tà kiến như sau: “Không có đời sau, không có các loại hóa sanh, hành
 vi thiện ác không có quả báo”?
 
-- Bạch Tôn giả, con có tà kiến như vậy: “Không có đời sau, không có các loại hóa sanh, hành vi thiên ác
+\- Bạch Tôn giả, con có tà kiến như vậy: “Không có đời sau, không có các loại hóa sanh, hành vi thiên ác
 không có quả báo”, nhưng nhờ tôn giả Kumàra Kassapa, con tự thoát ly ra khỏi ác tà kiến ấy.
 
-- Này Hiền giả, còn thanh niên Uttàra bị bỏ qua trong cuộc bố thí này, được thác sanh ở đâu?
+\- Này Hiền giả, còn thanh niên Uttàra bị bỏ qua trong cuộc bố thí này, được thác sanh ở đâu?
 
-- Bạch Tôn giả, thanh niên Uttàra bị bỏ qua trong cuộc bố thì này, vì đã bố thí một cách hoàn bị, vì đã
+\- Bạch Tôn giả, thanh niên Uttàra bị bỏ qua trong cuộc bố thì này, vì đã bố thí một cách hoàn bị, vì đã
 bố thí tự tay mình làm, vì đã bố thí có suy tư, vì đã bố thí các đồ không phế thải, sau khi thân hoại mạng
 chung, được sanh lên thiện thú, Thiên giới, nhập chúng với chư Thiên ở Tam thập tam thiên. Còn con, vì
 đã bố thí không tự tay mình làm, vì đã bố thí không có suy tư, vì đã bố thí các đồ phế thải, sau khi thân

@@ -22,7 +22,7 @@ toàn đầy đủ, thanh tịnh. Lành thay, nếu được yết kiến một 
 
 4\. Bà-la-môn Lohicca nói với Bhesika, người hớt tóc:
 
-- “Này thiện nhân Bhesika, hãy đi đến Sa-môn Gotama thay mặt ta hỏi thăm Sa-môn Gotama có được ít
+\- “Này thiện nhân Bhesika, hãy đi đến Sa-môn Gotama thay mặt ta hỏi thăm Sa-môn Gotama có được ít
 bệnh ít não, khinh an, khí lực sung mãn, lạc trú không: “Tôn giả Gotama, Bà-la-môn Lohicca hỏi thăm
 Thế Tôn có được ít bệnh, ít não, khinh an, khí lực sung mãn, lạc trú không?” và nói thêm: “Mong Thế
 Tôn nhận lời của Bà-la-môn Lohicca sáng mai đến dùng cơm cùng với đại chúng Tỷ-kheo!”.
@@ -32,7 +32,7 @@ Tôn nhận lời của Bà-la-môn Lohicca sáng mai đến dùng cơm cùng v�
 Bhesika người hớt tóc vâng theo lời của Bà-la-môn Lohicca đến với Thế Tôn và ngồi xuống một bên.
 Sau khi ngồi xuống một bên. Bhesika người hớt tóc bạch Thế Tôn:
 
-- Bạch Thế Tôn, Bà-la-môn Lohicca hỏi thăm “Thế Tôn có được ít bệnh, ít não, khinh an, khí lực sung
+\- Bạch Thế Tôn, Bà-la-môn Lohicca hỏi thăm “Thế Tôn có được ít bệnh, ít não, khinh an, khí lực sung
 mãn, lạc trú không?” và nói thêm: “Mong đức Thế Tôn nhận lời mời của Bà-la-môn Lohicca sáng mai
 đến dùng cơm với đại chúng Tỷ-kheo”.
 
@@ -41,17 +41,17 @@ mãn, lạc trú không?” và nói thêm: “Mong đức Thế Tôn nhận l�
 6\. Bhesika, người hớt tóc, được biết Thế Tôn nhận lời, từ chỗ ngồi đứng dậy, đảnh lễ Thế Tôn, thân phía
 hữu hướng về Ngài, đi đến Bà-la-môn Lohicca, khi đã đến, liền thưa với Bà-la-môn Lohicca:
 
-- Tôn giả, chúng tôi đã thay mặt Tôn giả thưa với Thế Tôn: “Bạch Thế Tôn, Bà-la-môn Lohicca hỏi
+\- Tôn giả, chúng tôi đã thay mặt Tôn giả thưa với Thế Tôn: “Bạch Thế Tôn, Bà-la-môn Lohicca hỏi
 thăm Thế Tôn Gotama có được ít bệnh, ít não, khinh an, khí lực sung mãn không” và nói thêm: “Mong
 Thế Tôn nhận lời của Bà-la-môn Lohicca sáng mai đến dùng cơm với đại chúng Tỷ-kheo” và Thế Tôn
 nhận lời.
 
 7\. Rồi Bà-la-môn, Lohicca sau khi đêm ấy đã mãn, làm sẵn sàng tại nhà các món ăn thượng vị, loại cứng
 và loại mềm rồi nói với Bhesika, người hớt tóc:
-- Này thiện nhân Bhesika, hãy đi đến Sa-môn Gotama, khi đã đến, hãy báo giờ cho Sa-môn Gotama:
+\- Này thiện nhân Bhesika, hãy đi đến Sa-môn Gotama, khi đã đến, hãy báo giờ cho Sa-môn Gotama:
 “Bạch Thế Tôn, cơm đã sẵn sàng”.
 
-- Tôn giả, xin vâng!
+\- Tôn giả, xin vâng!
 
 Bhesika người hớt tóc, vâng theo lời của Bà-la-môn Lohicca, đi đến Thế Tôn, khi đã đến, liền đảnh lễ
 Thế Tôn và đứng một bên. Sau khi đứng một bên, Bhesika người hớt tóc báo thời giờ cho Sa-môn
@@ -61,75 +61,75 @@ và cùng với chúng Tỷ-kheo đi đến Sàlavatikà.
 8\. Lúc bấy giờ, Bhesika, người hớt tóc, đang đi sau lưng Thế Tôn. Rồi Bhesika, người hớt tóc bạch Thế
 Tôn:
 
-- Bà-la-môn Lohicca có khởi lên ác kiến sau đây: “Ở đời có vị Sa-môn hay Bà-la-môn chứng được thiện
+\- Bà-la-môn Lohicca có khởi lên ác kiến sau đây: “Ở đời có vị Sa-môn hay Bà-la-môn chứng được thiện
 pháp, sau khi chúng được thiện pháp, không nên nói cho người khác biết, vì có ai lại làm giúp cho ai
 được? Ví như một người, sau khi cắt sợi dây trói buộc, lại tự làm một sợi dây mới khác nữa. Ta nói sự
 thành tựu là ác pháp, tham pháp. Vì có ai lại làm giúp cho ai được ?” Bạch Thế Tôn, lành thay, nếu Thế
 Tôn có thể giúp Bà-la-môn Lohicca trừ ác kiến ấy!
 
-- Này Bhesika, việc ấy có thể được. Này Bhesika, việc ấy có thể được.
+\- Này Bhesika, việc ấy có thể được. Này Bhesika, việc ấy có thể được.
 
 9\. Lúc bấy giờ, Thế Tôn đến tại cư xá của Bà-la-môn Lohicca, khi đến liền ngồi trên chỗ đã soạn sẵn.
 Bà-la-môn Lohicca tự tay làm cho chúng Tỷ-kheo với đức Phật là vị cầm đầu, thỏa mãn với những món
 thượng vị, loại cứng loại mềm Bà-la-môn Lohicca, sau khi biết Thế Tôn dùng cơm xong, tay đã rời khỏi
 bát, liền lấy một ghế ngồi thấp khác và ngồi xuống một bên. Rồi Thế Tôn nói với Bà-la-môn Lohicca:
 
-- Này Lohicca, có thật chăng, Ngươi khởi lên ác kiến như sau: “Ở đời, có vị Sa-môn hay Bà-la-môn
+\- Này Lohicca, có thật chăng, Ngươi khởi lên ác kiến như sau: “Ở đời, có vị Sa-môn hay Bà-la-môn
 chứng được thiện pháp, sau khi chứng được thiện pháp, không nên nói cho người khác biết, vì có ai lại
 làm giúp cho ai được? Ví như một người sau khi cắt sợi dây cũ trói buộc, lại tự làm một sợi dây mới
 khác nữa. Ta nói sự thành tựu ấy là ác pháp, tham pháp. Vì có ai lại làm giúp cho ai được?”
 
-- Vâng phải, Tôn giả Gotama!
+\- Vâng phải, Tôn giả Gotama!
 
 10\. - Này Lohicca, Ngươi nghĩ thế nào? Có phải Ngươi ở tại Sàlavatikà?
 
-- Vâng phải, Tôn giả Gotama!
+\- Vâng phải, Tôn giả Gotama!
 
-- Này Lohicca, nếu có người nói: “Bà-la-môn Lohicca sống ở Sàlavatikà. Hãy để Bà-la-môn Lohicca
+\- Này Lohicca, nếu có người nói: “Bà-la-môn Lohicca sống ở Sàlavatikà. Hãy để Bà-la-môn Lohicca
 hưởng một mình mọi sản phẩm của Sàlavatikà, không cho một ai khác”. Người nói vậy là người gây
 chướng ngại cho ai sống tùy thuộc vào Ngươi, có phải không?
 
-- Tôn giả Gotama, là người gây chướng ngại.
+\- Tôn giả Gotama, là người gây chướng ngại.
 
-- Này Lohicca, đã là người gây chướng ngại, người ấy có phải là người có từ tâm nghĩ đến lợi ích cho
+\- Này Lohicca, đã là người gây chướng ngại, người ấy có phải là người có từ tâm nghĩ đến lợi ích cho
 những người kia?
 
-- Tôn giả Gotama, là người không có từ tâm nghĩ đến lợi ích.
+\- Tôn giả Gotama, là người không có từ tâm nghĩ đến lợi ích.
 
-- Ðã không có từ tâm nghĩ đến lợi ích, người ấy an trú từ tâm hay an trú hại tâm?
-- Tôn giả Gotama, hại tâm!
+\- Ðã không có từ tâm nghĩ đến lợi ích, người ấy an trú từ tâm hay an trú hại tâm?
+\- Tôn giả Gotama, hại tâm!
 
-- Khi an trú hại tâm, như vậy là chánh kiến hay tà kiến?
+\- Khi an trú hại tâm, như vậy là chánh kiến hay tà kiến?
 
-- Tôn giả Gotama, là tà kiến!
+\- Tôn giả Gotama, là tà kiến!
 
-- Này Lohicca, Ta nói rằng, một người tà kiến sẽ sanh vào một trong hai ác thú sau đây: địa ngục hay
+\- Này Lohicca, Ta nói rằng, một người tà kiến sẽ sanh vào một trong hai ác thú sau đây: địa ngục hay
 súc sanh.
 
 11\. Này Lohicca, ngươi nghĩ thế nào? Có phải vua Pasenadi Kosala (Ba-tư-nặc-câu-tát-la) ở tại Kasi Kosala (Ca-Thi Câu-tát-la) không?
 
-- Tôn giả Gotama, vâng phải!
+\- Tôn giả Gotama, vâng phải!
 
-- Này Lohicca, nếu có người nói: “Vua Pasenadi Kosala sống ở Kasi-Kosala. Hãy để vua Pasenadi
+\- Này Lohicca, nếu có người nói: “Vua Pasenadi Kosala sống ở Kasi-Kosala. Hãy để vua Pasenadi
 Kosala hưởng một mình mọi sản phẩm của Kasi - Kosala, không một ai khác”. Người nói như vậy có
 phải là người gây chướng ngại cho những ai sống tùy thuộc vào vua Pasenadi Kosala, có phải không?
 
-- Tôn giả Gotama, là người đã gây chướng ngại.
+\- Tôn giả Gotama, là người đã gây chướng ngại.
 
-- Này Lohicca, đã là người gây chướng ngại, người ấy có phải là người có từ tâm nghĩ đến lợi ích cho
+\- Này Lohicca, đã là người gây chướng ngại, người ấy có phải là người có từ tâm nghĩ đến lợi ích cho
 những người kia hay là người không có từ tâm nghĩ đến lợi ích cho những người kia.
 
-- Tôn giả Gotama, là người không có từ tâm nghĩ đến lợi ích.
+\- Tôn giả Gotama, là người không có từ tâm nghĩ đến lợi ích.
 
-- Ðã không có từ tâm nghĩ đến lợi ích, người ấy an trú từ tâm hay an trú hại tâm?
+\- Ðã không có từ tâm nghĩ đến lợi ích, người ấy an trú từ tâm hay an trú hại tâm?
 
-- Tôn giả Gotama, hại tâm!
+\- Tôn giả Gotama, hại tâm!
 
-- Khi an trú hại tâm, như vậy là chánh kiến hay tà kiến?
+\- Khi an trú hại tâm, như vậy là chánh kiến hay tà kiến?
 
-- Tôn giả Gotama, là tà kiến!
+\- Tôn giả Gotama, là tà kiến!
 
-- Này Lohicca, ta nói rằng, một người tà kiến sẽ sanh vào một trong hai ác thú sau đây: địa ngục hay súc
+\- Này Lohicca, ta nói rằng, một người tà kiến sẽ sanh vào một trong hai ác thú sau đây: địa ngục hay súc
 sanh.
 
 12\. Này Lohicca, nếu có người nói: “Bà-la-môn Lohicca sống ở Sàlavatikà. Hãy để Bà-la-môn Lohicca
@@ -212,11 +212,11 @@ của vị này chơn chánh, hợp pháp, không lỗi lầm.
 
 19\. Khi nghe nói như vậy, Bà-la-môn Lohicca bạch đức Thế Tôn:
 
-- Tôn giả Gotama, ở đời có vị đạo sư nào không đáng bị chỉ trích?
+\- Tôn giả Gotama, ở đời có vị đạo sư nào không đáng bị chỉ trích?
 
-- Này Lohicca, ở đời có vị đạo sư không đáng bị chỉ trích.
+\- Này Lohicca, ở đời có vị đạo sư không đáng bị chỉ trích.
 
-- Tôn giả Gotama, ở đời, thế nào là đạo sư không đáng bị chỉ trích?
+\- Tôn giả Gotama, ở đời, thế nào là đạo sư không đáng bị chỉ trích?
 
 20\. - Này Lohicca, ở đời, đức Như Lai xuất hiện, là bậc A-la-hán, Chánh Biến Tri, Minh Hạnh Túc,
 Thiện Thệ, Thế Gian Giải, Vô Thượng Sĩ, Ðiều Ngự Trượng Phu, Thiên Nhân Sư, Phật, Thế Tôn... (như
@@ -254,7 +254,7 @@ không chơn chánh, không hợp pháp, và có lỗi lầm!
 
 78\. Khi nghe như vậy, Bà-la-môn Lohicca bạch đức Thế Tôn:
 
-- Như người nắm được tóc của một người sắp sửa rơi vào vực thẳm của địa ngục, nhắc bổng và đặt
+\- Như người nắm được tóc của một người sắp sửa rơi vào vực thẳm của địa ngục, nhắc bổng và đặt
 người ấy trên đất liền, cũng vậy Tôn giả Gotama đã nắm được tóc khi con sắp sửa rơi vào vực thẳm của
 địa ngục, nhắc bổng và đặt con trên đất liền. Thật vi diệu thay, Tôn giả Gotama! Thật vi diệu thay, Tôn
 giả Gotama! Tôn giả Gotama, như người dựng đứng lại những gì bị quăng ngã xuống, phơi bày ra

@@ -5,11 +5,11 @@
 Mandissa và Jàliya, đệ tử của Dàrupattika, đến tại chỗ đức Thế Tôn ở, nói lên những lời chúc tụng thân
 hữu và xã giao với Ngài rồi đứng một bên. Sau khi đứng một bên, hai vị xuất gia nói với Ngài như sau:
 
-- Này Hiền giả, mạng căn và thân thể là một hay là khác ?
+\- Này Hiền giả, mạng căn và thân thể là một hay là khác ?
 
-- Này Hiền giả, hãy nghe và khéo tác ý, Ta sẽ nói.
+\- Này Hiền giả, hãy nghe và khéo tác ý, Ta sẽ nói.
 
-- Vâng, Hiền giả!
+\- Vâng, Hiền giả!
 
 Hai vị xuất gia trả lời đức Thế Tôn như thế và Ngài nói như sau:
 

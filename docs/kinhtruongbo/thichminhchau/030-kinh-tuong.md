@@ -9,7 +9,7 @@
 giờ, Thế Tôn gọi các Tỷ-kheo: “Này các Tỷ-kheo”. - “Bạch Thế Tôn”, các vị Tỷ-kheo đáp lời Thế Tôn.
 Thế Tôn giảng như sau:
 
-- Này các Tỷ-kheo, những ai có đầy đủ ba mươi hai tướng Ðại Trượng phu này, những vị ấy sẽ chọn hai
+\- Này các Tỷ-kheo, những ai có đầy đủ ba mươi hai tướng Ðại Trượng phu này, những vị ấy sẽ chọn hai
 con đường này thôi, không có con đường nào khác. Nếu sống tại gia sẽ làm vị Chuyển luân Thánh
 vương, dùng Chánh pháp trị nước, bình định bốn phương, đem lại an toàn cho quốc độ, đầy đủ bảy món
 báu. Bảy món báu trở thành vật sở hữu của vị này, tức là xe báu, voi báu, ngựa báu, ngọc báu, nữ báu,

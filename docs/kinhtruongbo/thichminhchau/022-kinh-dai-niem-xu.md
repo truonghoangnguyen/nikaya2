@@ -7,7 +7,7 @@
 Kuru. Rồi Thế Tôn gọi các vị Tỷ kheo: “Này các Tỷ kheo.” Các Tỷ kheo trả lời Thế Tôn: “Bạch Thế
 Tôn.” Thế Tôn nói như sau:
 
-- Này các Tỷ kheo, đây là con đường độc nhất, đưa đến thanh tịnh cho chúng sanh, vượt khỏi sầu bi, diệt
+\- Này các Tỷ kheo, đây là con đường độc nhất, đưa đến thanh tịnh cho chúng sanh, vượt khỏi sầu bi, diệt
 trừ khổ ưu, thành tựu chánh lý, chứng ngộ Niết bàn. Ðó là Bốn niệm xứ.
 
 Thế nào là bốn? Này các Tỷ kheo, ở đây vị Tỷ kheo sống quán thân trên thân, nhiệt tâm, tỉnh giác, chánh

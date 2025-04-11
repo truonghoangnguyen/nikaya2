@@ -44,7 +44,7 @@ _Sẽ sanh làm chư Thiên._
 
 4\. Rồi Thế Tôn nói với các vị Tỷ-kheo:
 
-- Này các Tỷ-kheo, phần lớn chư Thiên mười phương thế giới tụ họp để chiêm ngưỡng Thế Tôn và
+\- Này các Tỷ-kheo, phần lớn chư Thiên mười phương thế giới tụ họp để chiêm ngưỡng Thế Tôn và
 chúng Tỷ-kheo. Này các Tỷ-kheo, những vị nào trong thời quá khứ đã là bậc A-la-hán, Chánh Ðẳng
 Giác, những vị này được một Thiên chúng tối thắng tụ hội xung quanh, như Ta hiện nay vậy. Này các
 Tỷ-kheo, những vị nào trong thời vị lai sẽ là bậc A-la-hán, Chánh Ðẳng Giác, những vị này cũng sẽ
@@ -52,7 +52,7 @@ Tỷ-kheo, những vị nào trong thời vị lai sẽ là bậc A-la-hán, Ch�
 bố danh tánh của chư Thiên. Này các Tỷ-kheo, Ta sẽ cáo tri danh tánh của chư Thiên. Này các Tỷ-kheo,
 Ta sẽ thuyết giảng danh tánh của chư Thiên. Hãy nghe và khéo tác ý, Ta sẽ giảng.
 
-- Xin vâng, bạch Thế Tôn! - Tỷ-kheo ấy vâng lời Thế Tôn.
+\- Xin vâng, bạch Thế Tôn! - Tỷ-kheo ấy vâng lời Thế Tôn.
 
 5\. Thế Tôn giảng như sau:
 

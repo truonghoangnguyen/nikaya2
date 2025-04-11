@@ -87,7 +87,7 @@ function toComparePage() {
     window.open(newURL, '_blank');
   }
   else{
-    window.location.href = "/compare";
+    window.location.href = "/compare.html";
   }
 }
 </script>

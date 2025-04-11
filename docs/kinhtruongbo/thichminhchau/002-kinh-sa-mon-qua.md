@@ -55,18 +55,18 @@ Videhi, vua nước Magadha yên lặng không nói gì.
 không xa bao nhiêu. Khi ấy Ajàtasattu, con bà Videhi, vua nước Magadha, nói với Jìvaka
 Komàrabhacca:
 
-- Này khanh Jìvaka, sao ngươi lại yên lặng như vậy?
+\- Này khanh Jìvaka, sao ngươi lại yên lặng như vậy?
 
-- Tâu Ðại vương, chính tại vườn xoài này của chúng con, có Thế Tôn, bậc A-la-hán, Chánh Ðẳng Chánh
+\- Tâu Ðại vương, chính tại vườn xoài này của chúng con, có Thế Tôn, bậc A-la-hán, Chánh Ðẳng Chánh
 Giác, hiện đang trú ngụ với đại chúng Tỷ-kheo một nghìn hai trăm năm mươi vị. Thế Tôn Gotama có
 tiếng đồn tốt đẹp sau đây lan rộng: “Ðây là Thế Tôn, bậc A-la-hán, Chánh Ðẳng Chánh Giác, Minh
 Hạnh Túc, Thiện Thệ, Thế Gian Giải, Vô Thượng Sĩ, Ðiều Ngự Trượng Phu, Thiên Nhân Sư, Phật, Thế
 Tôn”. Ðại vương hãy đến chiêm bái Thế Tôn này. Rất có thể, nhờ chiêm bái Thế Tôn, tâm của Ðại
 vương được tịnh tín.
 
-- Vậy khanh Jìvaka, hãy cho thắng kiệu voi.
+\- Vậy khanh Jìvaka, hãy cho thắng kiệu voi.
 
-- Vâng, tâu Ðại vương.
+\- Vâng, tâu Ðại vương.
 
 9\. Jìvaka Komàrabhacca vâng theo lời dạy của Ajàtasattu, con bà Videhi, vua nước Magadha, sai người
 thắng năm trăm con voi cái, và con vương tượng vua thường cởi, rồi tâu với Ajàtasattu, con bà Videhi,
@@ -80,38 +80,38 @@ Ràjagaha, dưới ánh sáng của các ngọn đuốc được cầm cao, vớ
 hoàng, tóc dựng lên. Lúc bấy giờ Ajàtasattu, con bà Videhi, vua nước Magadha sợ hãi, kinh hoàng, tóc
 dựng lên, nói với Jìvaka Komàrabhacca:
 
-- Này khanh Jìvaka, người phản ta chăng? Này khanh Jìvaka, người lường gạt ta chăng? Này khanh
+\- Này khanh Jìvaka, người phản ta chăng? Này khanh Jìvaka, người lường gạt ta chăng? Này khanh
 Jìvaka, ngươi nạp ta cho kẻ thù chăng? Tại sao trong một đại chúng lớn như thế này gần một nghìn hai
 trăm năm mươi vị, mà không có một tiếng đằng hắng, không có một tiếng ho, không một tiếng ồn?
 
-- Tâu Ðại vương, thần không phản lại Ngài, thần không lường gạt Ngài, tâu Ðại vương, thần không nạp
+\- Tâu Ðại vương, thần không phản lại Ngài, thần không lường gạt Ngài, tâu Ðại vương, thần không nạp
 Ngài cho kẻ thù, tâu Ðại Vương, hãy đi thẳng tới; tâu Ðại vương hãy đi thẳng tới. Tại chỗ kia trong căn
 nhà tròn chỗ có những ngọn đèn đang thắp sáng.
 
 11\. Lúc bấy giờ, Ajàtasattu, con bà Videhi, vua nước Magadha đi cho đến chỗ voi có thể đi được, rồi
 xuống voi đi đến cửa căn nhà tròn. Khi đến nơi liền nói với Jìvaka Komàrabhacca:
 
-- Này khanh Jìvaka, Thế Tôn ở tại đâu?
+\- Này khanh Jìvaka, Thế Tôn ở tại đâu?
 
-- Tâu Ðại vương, vị ấy là Thế Tôn. Tâu Ðại vương, Thế Tôn ngồi dựa vào cột chính giữa, mặt hướng
+\- Tâu Ðại vương, vị ấy là Thế Tôn. Tâu Ðại vương, Thế Tôn ngồi dựa vào cột chính giữa, mặt hướng
 phía Nam, ngồi trước mặt chúng Tỷ-kheo.
 
 12\. Ajàtasattu, con bà Videhi, vua nước Magadha liền tiến đến chỗ Thế Tôn. Khi đến rồi, vua đứng một
 bên. Sau đi đứng một bên, Ajàtasattu, con bà Videhi, vua nước Magadha nhìn khắp chúng Tỷ-kheo đang
 yên lặng an tịnh như một hồ nước trong, cảm hứng nói rằng: “Mong hoàng tử Udàyibhadda (Ưu-đà-dibạt-đà) cũng được sự trầm lặng như sự trầm lặng của các vị Tỷ-kheo này vậy”.
 
-- Ðại vương, hình như tâm trí của Ðại vương nặng nhiều về tình thương thì phải?
+\- Ðại vương, hình như tâm trí của Ðại vương nặng nhiều về tình thương thì phải?
 
-- Bạch Thế Tôn, con thương hoàng tử Udàyibhadda rất nhiều. Mong rằng hoàng tử Udàyibhadda cũng
+\- Bạch Thế Tôn, con thương hoàng tử Udàyibhadda rất nhiều. Mong rằng hoàng tử Udàyibhadda cũng
 được sự trầm lặng như sự trầm lặng của chúng Tỷ-kheo này vậy.
 
 13\. Lúc bấy giờ Ajàtasattu, con bà Videhi, vua nước Magadha, đảnh lễ Thế Tôn, chấp tay vái chào
 chúng Tỷ-kheo, và ngồi xuống một bên. Sau khi ngồi xuống một bên, Ajàtasattu, con bà Videhi, vua
 nước Magadha bạch Thế Tôn:
 
-- Bạch Thế Tôn, con muốn hỏi Thế Tôn một vấn đề này, nếu Ngài cho phép con hỏi.
+\- Bạch Thế Tôn, con muốn hỏi Thế Tôn một vấn đề này, nếu Ngài cho phép con hỏi.
 
-- Ðại vương cứ hỏi tùy theo ý muốn của Ðại vương.
+\- Ðại vương cứ hỏi tùy theo ý muốn của Ðại vương.
 
 14\. - Cũng như các công nghệ chức nghiệp này, như điều tượng sư, điều mã sư, xa thuật sư, quân thuật
 sư, quân kỳ binh, nguyên súy, chiến sĩ, thượng sĩ quan, thám tử, dõng sĩ can đảm như voi chúa, anh
@@ -126,14 +126,14 @@ Ngài có thể chỉ cho rõ ràng kết quả thiết thực, hiện tại c�
 
 15\. - Này Ðại vương, Ðại vương có nhớ đã hỏi câu hỏi ấy với các vị Sa-môn, Bà-la-môn khác chăng?
 
-- Bạch Ngài, con nhớ đã hỏi câu hỏi ấy với Sa-môn, Bà-la-môn khác.
+\- Bạch Ngài, con nhớ đã hỏi câu hỏi ấy với Sa-môn, Bà-la-môn khác.
 
-- Này Ðại vương, hãy nói lại cho nghe, các vị ấy đã trả lời với Ðại vương như thế nào, nếu Ðại vương
+\- Này Ðại vương, hãy nói lại cho nghe, các vị ấy đã trả lời với Ðại vương như thế nào, nếu Ðại vương
 không thấy gì trở ngại.
 
-- Bạch Thế Tôn, con không thấy gì trở ngại đối với đức Thế Tôn và các bậc như đức Thế Tôn.
+\- Bạch Thế Tôn, con không thấy gì trở ngại đối với đức Thế Tôn và các bậc như đức Thế Tôn.
 
-- Vậy Ðại vương hãy nói đi.
+\- Vậy Ðại vương hãy nói đi.
 
 16\. - Bạch Thế Tôn, một thời con đến Pùrana Kassapa, khi đến nơi, con nói lên những lời đón chào,
 chúc tụng thân hữu và xã giao với Pùrana Kassapa và ngồi xuống một bên. Sau khi ngồi xuống một bên,
@@ -322,7 +322,7 @@ Chúng giúp cho bạn bè được sống an lạc hạnh phúc. Chúng dâng c
 lạc, thác sanh lên cõi trời. Bạch Thế Tôn, Thế Tôn có thể cho biết kết quả thiết thực hiện tại của hạnh
 Sa-môn chăng?
 
-- Ðại vương có thể được. Này Ðại vương, ta sẽ hỏi Ðại vương về vấn đề này. Ðại vương hãy trả lời tùy
+\- Ðại vương có thể được. Này Ðại vương, ta sẽ hỏi Ðại vương về vấn đề này. Ðại vương hãy trả lời tùy
 theo ý muốn của Ðại vương.
 
 35\. Ðại vương nghĩ sao? Nếu Ðại vương có một người nô bộc, dậy sớm, thức khuya, thi hành mọi mệnh
@@ -349,16 +349,16 @@ lời nói kính ái chú ý từng nét mặt?”
 người ấy ngồi xuống ghế, cúng dường người ấy các dụng cụ như y, đồ ăn khất thực, sàng tọa, thuốc men
 trị bệnh và chúng con sẽ ra lệnh để bảo vệ, che chở người ấy đúng theo luật pháp.
 
-- Này Ðại vương, Ðại vương nghĩ thế nào? Nếu quả như vậy, thì đó có phải chăng là kết quả thiết thực
+\- Này Ðại vương, Ðại vương nghĩ thế nào? Nếu quả như vậy, thì đó có phải chăng là kết quả thiết thực
 hiện tại hạnh Sa-môn?
 
-- Bạch Thế Tôn, như vậy chính là kết quả thiết thực hiện tại của hạnh Sa-môn.
+\- Bạch Thế Tôn, như vậy chính là kết quả thiết thực hiện tại của hạnh Sa-môn.
 
-- Này Ðại vương đó là kết quả thiết thực hiện tại thứ nhất của hạnh Sa-môn mà Ta đã trình bày.
+\- Này Ðại vương đó là kết quả thiết thực hiện tại thứ nhất của hạnh Sa-môn mà Ta đã trình bày.
 
 37\. - Bạch Thế Tôn, có thể cho biết một kết quả thiết thực hiện tại khác hơn nữa của hạnh Sa-môn?
 
-- Này Ðại vương, có thể được. Này Ðại vương. Ta sẽ hỏi Ðại vương về vấn đề này. Ðại vương hãy trả
+\- Này Ðại vương, có thể được. Này Ðại vương. Ta sẽ hỏi Ðại vương về vấn đề này. Ðại vương hãy trả
 lời tùy theo ý muốn của Ðại vương. Ðại vương nghĩ sao? Nếu Ðại vương có một người nông phu, gia
 chủ, nạp thuế má, làm giàu công khố. Người ấy nghĩ: “Thật hy hữu thay! Thật kỳ diệu thay quả vị thác
 sanh của các công đức, quả vị thục của các công đức. Vị vua Ajàtasattu, con của bà Videhi, nước
@@ -379,19 +379,19 @@ với nhu cầu tối thiểu về ăn uống, y áo, hoan hỷ sống an tịnh
 người ấy ngồi xuống ghế, cúng dường người ấy các dụng cụ như y, đồ ăn khất thực, sàng tọa, thuốc men
 trị bịnh. Và chúng con sẽ ra lệnh để bảo vệ, che chở người ấy đúng theo luật pháp.
 
-- Này Ðại vương, Ðại vương nghĩ thế nào? Nếu quả như vậy thời đó có phải là kết quả thiết thực hiện tại
+\- Này Ðại vương, Ðại vương nghĩ thế nào? Nếu quả như vậy thời đó có phải là kết quả thiết thực hiện tại
 của hạnh Sa-môn chăng?
 
-- Bạch Thế Tôn, như vậy chính là kết quả thiết thực hiện tại của hạnh Sa-môn.
+\- Bạch Thế Tôn, như vậy chính là kết quả thiết thực hiện tại của hạnh Sa-môn.
 
-- Này Ðại vương, đó là kết quả thiết thực hiện tại của hạnh Sa-môn, mà Ta trình bày.
+\- Này Ðại vương, đó là kết quả thiết thực hiện tại của hạnh Sa-môn, mà Ta trình bày.
 
 39\. Bạch Thế Tôn, có thể cho biết một kết quả thiết thực hiện tại khác nữa của hạnh Sa-môn, vi diệu
 hơn, thù thắng hơn những kết quả thiết thực hiện tại của hạnh Sa-môn vừa kể trên?
 
-- Này Ðại vương có thể được. Này Ðại vương, hãy lóng tai nghe và khéo tác ý, Ta sẽ giảng.
+\- Này Ðại vương có thể được. Này Ðại vương, hãy lóng tai nghe và khéo tác ý, Ta sẽ giảng.
 
-- Vâng, Thế Tôn. Vua Ajàtasattu con bà Videhi vua xứ Magadha trả lời Thế Tôn. Thế Tôn nói:
+\- Vâng, Thế Tôn. Vua Ajàtasattu con bà Videhi vua xứ Magadha trả lời Thế Tôn. Thế Tôn nói:
 
 40\. - Này Ðại vương, nay ở đời, Như Lai xuất hiện là bậc A-la-hán, Chánh Biến Tri, Minh Hạnh Túc,
 Thiện Thệ, Thế Gian Giải, Vô Thượng Sĩ, Ðiều Ngự Trượng Phu, Thiên Nhơn Sư, Phật, Thế Tôn. Như
@@ -912,7 +912,7 @@ pháp của bậc Thánh, những ai thấy tội là tội, thú tội đúng v
 101\. Ðược nghe nói vậy, Ajàtasattu, con bà Videhi, vua nước Magadha bạch Thế Tôn: “Bạch Thế Tôn,
 nay chúng con phải cáo từ, chúng con có nhiều bổn phận, nhiều việc phải làm”.
 
-- Ðại vương hãy làm những gì Ðại vương nghĩ ra là phải thời.
+\- Ðại vương hãy làm những gì Ðại vương nghĩ ra là phải thời.
 
 Lúc bấy giờ, Ajàtasattu, con bà Videhi, vua nước Magadha hoan hỷ tán thán lời dạy của Thế Tôn, từ chỗ
 ngồi đứng dậy, đảnh lễ Thế Tôn, thân phía hữu hướng về Thế Tôn và từ biệt.
@@ -920,7 +920,7 @@ ngồi đứng dậy, đảnh lễ Thế Tôn, thân phía hữu hướng về T
 102\. Lúc bấy giờ, khi Ajàtasattu, con bà Videhi, vua nước Magadha đi chưa bao lâu, Thế Tôn liền bảo
 các Tỷ-kheo:
 
-- Này các Tỷ-kheo, tâm vua ấy rất ăn năn, này các Tỷ-kheo, tâm vua ấy rất hối lỗi. Nếu vua ấy không
+\- Này các Tỷ-kheo, tâm vua ấy rất ăn năn, này các Tỷ-kheo, tâm vua ấy rất hối lỗi. Nếu vua ấy không
 hại mạng vua cha, một vị vua rất chân chánh, thì tại ngay chỗ ngồi này, vua ấy đã chứng được pháp
 nhãn, không trần cấu, không ô uế.
 

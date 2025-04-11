@@ -12,7 +12,7 @@ vong”.
 2\. Rồi Ajàtasattu Vedehiputta, vua nước Magadha, nói với Bà-la-môn Vassakara (Vũ-xá), đại thần nước
 Magadha:
 
-- Này Bà-la-môn, hãy đi đến Thế Tôn, và nhân danh ta, cúi đầu đảnh lễ chân Ngài, vấn an. Ngài có thiểu
+\- Này Bà-la-môn, hãy đi đến Thế Tôn, và nhân danh ta, cúi đầu đảnh lễ chân Ngài, vấn an. Ngài có thiểu
 bệnh, thiểu não, khinh an, khỏe mạnh, lạc trú: “Bạch Thế Tôn, Ajàtasattu Vedehiputta, vua nước
 Magadha cúi đầu đảnh lễ chân Thế Tôn, vấn an Ngài có thiểu bệnh, thiểu não, khinh an, lạc trú”. Và
 khanh bạch tiếp: “Bạch Thế Tôn, Ajàtasattu Vedehiputta, vua nước Magadha muốn chinh phục dân
@@ -20,7 +20,7 @@ Vajjì, vua tự nói: “Ta quyết chinh phạt dân Vajjì này, dầu chúng
 làm cỏ dân Vajjì; ta sẽ tiêu diệt dân Vajjì; ta sẽ làm cho dân Vajjì bị hoại vong”. Thế Tôn trả lời khanh
 thế nào, hãy ghi nhớ kỹ và nói lại ta biết. Các bậc Thế Tôn không bao giờ nói lời hư vọng.
 
-- Ðại vương, xin vâng!
+\- Ðại vương, xin vâng!
 
 3\. Bà-la-môn Vassakara, đại thần nước Magadha vâng theo lời dạy của Ajàtasattu Vedehiputta, vua
 nước Magadha cho thắng những cỗ xe thù thắng, tự mình cỡi lên một chiếc, cùng với các cỗ xe ấy đi ra
@@ -28,7 +28,7 @@ khỏi Ràjagaha (Vương Xá), đến tại núi Linh Thứu, đi xe đến ch�
 đến chỗ Thế Tôn, khi đến liền nói những lời chào đón hỏi thăm xã giao với Thế Tôn rồi ngồi xuống một
 bên. Sau khi ngồi xuống một bên, Bà-la-môn Vassakara, đại thần nước Magadha, bạch Thế Tôn:
 
-- Tôn giả Gotama, Ajàtasattu Vedehiputta, vua nước Magadha cúi đầu đảnh lễ chân Tôn giả Gotama,
+\- Tôn giả Gotama, Ajàtasattu Vedehiputta, vua nước Magadha cúi đầu đảnh lễ chân Tôn giả Gotama,
 vấn an ngài có thiểu bệnh, thiểu não, khinh an, khỏe mạnh, lạc trú. Tôn giả Gotama, Ajàtasattu
 Vedehiputta, vua nước Magadha muốn chinh phục dân xứ Vajjì. Vua tự nói: “Ta quyết chinh phạt dân
 Vajjì này, dầu chúng có uy quyền, có hùng mạnh, ta quyết làm cỏ dân Vajjì, ta sẽ tiêu diệt dân Vajjì, ta
@@ -36,104 +36,104 @@ sẽ làm cho dân Vajjì bị hoại vọng”.
 
 4\. Lúc bấy giờ, Tôn giả Ananda đứng quạt sau lưng Thế Tôn. Thế Tôn nói với Tôn giả Ananda:
 
-- Này Ananda, Ngươi có nghe dân Vajjì thường hay tụ họp và tụ họp đông đảo với nhau không?
+\- Này Ananda, Ngươi có nghe dân Vajjì thường hay tụ họp và tụ họp đông đảo với nhau không?
 
-- Bạch Thế Tôn, con có nghe dân Vajjì thường hay tụ họp và tụ họp đông đảo.
+\- Bạch Thế Tôn, con có nghe dân Vajjì thường hay tụ họp và tụ họp đông đảo.
 
-- Này Ananda, khi nào dân Vajjì thường hay tụ họp và tụ họp đông đảo với nhau, thời này Ananda, dân
+\- Này Ananda, khi nào dân Vajjì thường hay tụ họp và tụ họp đông đảo với nhau, thời này Ananda, dân
 Vajjì sẽ được cường thịnh, không bị suy giảm. Này Ananda, Ngươi có nghe dân Vajjì tụ họp trong niệm
 đoàn kết giải tán trong niệm đoàn kết, và làm việc trong niệm đoàn kết không?
 
-- Bạch Thế Tôn, con có nghe dân Vajjì tụ họp trong niệm đoàn kết, giải tán trong niệm đoàn kết, và làm
+\- Bạch Thế Tôn, con có nghe dân Vajjì tụ họp trong niệm đoàn kết, giải tán trong niệm đoàn kết, và làm
 việc trong niệm đoàn kết.
 
-- Này Ananda, khi nào nghe dân Vajjì tụ họp trong niệm đoàn kết, giải tán trong niệm đoàn kết, và làm
+\- Này Ananda, khi nào nghe dân Vajjì tụ họp trong niệm đoàn kết, giải tán trong niệm đoàn kết, và làm
 việc trong niệm đoàn kết, này Ananda dân Vajjì sẽ được cường thịnh, không bị suy giảm. Này Ananda,
 Ngươi có nghe dân Vajjì không ban hành những luật lệ không được ban hành, không hủy bỏ những luật
 lệ đã được ban hành, sống đúng với truyền thống của dân Vajjì như đã ban hành thời xưa không?
 
-- Bạch Thế Tôn, con nghe dân Vajjì không ban hành những luật lệ không được ban hành, không hủy bỏ
+\- Bạch Thế Tôn, con nghe dân Vajjì không ban hành những luật lệ không được ban hành, không hủy bỏ
 những luật lệ đã được ban hành, sống đúng với truyền thống của dân Vajjì như đã ban hành thuở xưa.
 
-- Này Ananda khi nào dân Vajjì, không ban hành những luật lệ không được ban hành, không hủy bỏ
+\- Này Ananda khi nào dân Vajjì, không ban hành những luật lệ không được ban hành, không hủy bỏ
 những luật lệ đã được ban hành, sống đúng với truyền thống của dân Vajjì như đã ban hành thuở xưa
 thời, này Ananda, dân Vajjì sẽ được cường thịnh, không bị suy giảm. Này Ananda, Ngươi có nghe dân
 Vajjì tôn sùng, kính trọng, đảnh lễ, cúng dường các bậc trưởng lão Vajjì và nghe theo lời dạy của những
 vị này không?
 
-- Bạch Thế Tôn, con có nghe dân Vajjì tôn sùng, kính trọng, đảnh lễ, cúng dường các bậc trưởng lão
+\- Bạch Thế Tôn, con có nghe dân Vajjì tôn sùng, kính trọng, đảnh lễ, cúng dường các bậc trưởng lão
 Vajjì và nghe theo lời dạy của những vị này.
 
-- Này Ananda, khi nào dân Vajjì tôn sùng, kính trọng, đảnh lễ, cúng dường các bậc trưởng lão Vajjì và
+\- Này Ananda, khi nào dân Vajjì tôn sùng, kính trọng, đảnh lễ, cúng dường các bậc trưởng lão Vajjì và
 nghe theo lời dạy của những vị này, thời dân Vajjì sẽ được cường thịnh, không bị suy giảm. Này
 Ananda, Ngươi có nghe dân Vajjì không có bắt cóc và cưỡng ép những phụ nữ và thiếu nữ Vajjì phải
 sống với mình không?
 
-- Bạch Thế Tôn, con có nghe dân Vajjì không có bắt khóc và cưỡng ép những phụ nữ và thiếu nữ Vajjì
+\- Bạch Thế Tôn, con có nghe dân Vajjì không có bắt khóc và cưỡng ép những phụ nữ và thiếu nữ Vajjì
 phải sống với mình.
 
-- Này Ananda, khi nào Vajjì không có bắt cóc và cưỡng ép những phụ nữ và thiếu nữ Vajjì phải sống
+\- Này Ananda, khi nào Vajjì không có bắt cóc và cưỡng ép những phụ nữ và thiếu nữ Vajjì phải sống
 với mình thời, này Ananda, dân Vajjì sẽ được cường thịnh, không bị suy giảm. Này Ananda, Ngươi có
 nghe dân Vajjì tôn sùng, kính trọng, đảnh lễ, cúng dường các tự miếu của Vajjì ở tỉnh thành và ngoài
 tỉnh thành, không bỏ phế các cúng lễ đã cúng từ trước, đã làm từ trước đúng với quy pháp không?
 
-- Bạch Thế Tôn, con có nghe dân Vajjì tôn sùng, kính trọng, đảnh lễ, cúng dường các tự miếu của Vajjì
+\- Bạch Thế Tôn, con có nghe dân Vajjì tôn sùng, kính trọng, đảnh lễ, cúng dường các tự miếu của Vajjì
 ở tỉnh thành và ngoài tỉnh thành, không bỏ phế các cúng lễ đã cúng từ trước, đã làm từ trước đúng với
 quy pháp.
 
-- Này Ananda, khi nào dân Vajjì tôn sùng, kính trọng, đảnh lễ, cúng dường các tự miếu của Vajjì ở tỉnh
+\- Này Ananda, khi nào dân Vajjì tôn sùng, kính trọng, đảnh lễ, cúng dường các tự miếu của Vajjì ở tỉnh
 thành và ngoài tỉnh thành, không bỏ phế các cúng lễ đã cúng từ trước, đã làm từ trước đúng với quy
 pháp, thời này Ananda, dân Vajjì sẽ được cường thịnh, không bị suy giảm. Này Ananda, Ngươi có nghe
 dân Vajjì bảo hộ, che chở, ủng hộ đúng pháp các vị A-la-hán ở tại Vajjì khiến các vị A-la-hán chưa đến
 sẽ đến trong xứ, và những vị A-la-hán đã đến được sống an lạc không?
 
-- Bạch Thế Tôn, con nghe dân Vajjì bảo hộ, che chở, ủng hộ đúng pháp các vị A-la-hán ở tại Vajjì khiến
+\- Bạch Thế Tôn, con nghe dân Vajjì bảo hộ, che chở, ủng hộ đúng pháp các vị A-la-hán ở tại Vajjì khiến
 các vị A-la-hán chưa đến sẽ đến trong xứ, và những vị A-la-hán đã đến được sống an lạc.
 
-- Này Ananda, khi nào dân Vajjì bảo hộ, che chở, ủng hộ đúng pháp các vị A-la-hán ở tại Vajjì khiến
+\- Này Ananda, khi nào dân Vajjì bảo hộ, che chở, ủng hộ đúng pháp các vị A-la-hán ở tại Vajjì khiến
 các vị A-la-hán chưa đến sẽ đến trong xứ, và những vị A-la-hán chưa đến sẽ đến trong xứ và những vị
 A-la-hán đã đến được sống an lạc, thời này Ananda, dân Vajjì sẽ được cường thịnh, không bị suy giảm.
 
 5\. Rồi Thế Tôn nói với Bà-la-môn Vassakara, đại thần nước Magadha:
 
-- Này Bà-la-môn, một thời Ta sống ở Vesàli tại tự miếu Sàrandada, Ta dạy cho dân Vajjì bảy pháp bất
+\- Này Bà-la-môn, một thời Ta sống ở Vesàli tại tự miếu Sàrandada, Ta dạy cho dân Vajjì bảy pháp bất
 thối này. Này Bà-la-môn, khi nào bảy pháp bất thối được duy trì giữa dân Vajjì, khi nào dân Vajjì được
 giảng dạy bảy pháp bất thối này, thời Bà-la-môn, dân Vajjì sẽ được cường thịnh, không bị suy giảm.
 
 Khi được nói vậy, Bà-la-môn Vassakara, đại thần nước Magadha bạch Thế Tôn:
 
-- Tôn giả Gotama, nếu dân Vajjì chỉ hội đủ một pháp bất thối này, thời dân Vajjì nhất định được cường
+\- Tôn giả Gotama, nếu dân Vajjì chỉ hội đủ một pháp bất thối này, thời dân Vajjì nhất định được cường
 thịnh, không bị suy giảm, huống nữa là đủ cả bảy pháp bất thối. Tôn giả Gotama, Ajàtasattu
 Vedehiputta, vua nước Magadha không thể đánh bại dân Vajjì ở chiến trận trừ phi dùng ngoại giao hay
 kế ly gián. Tôn giả Gotama, nay chúng con phải đi, chúng con có nhiều việc và có nhiều bổn phận.
 
-- Này Bà-la-môn, Người hãy làm những gì Người nghĩ là hợp thời.
+\- Này Bà-la-môn, Người hãy làm những gì Người nghĩ là hợp thời.
 
 Bà-la-môn Vassakara, vị đại thần nước Magadha hoan hỷ, tán thán lời dạy của Thế Tôn, từ chỗ ngồi
 đứng dậy và từ biệt.
 
 6\. Khi Bà-la-môn Vassakara đi chưa bao lâu, Thế Tôn nói với Tôn giả Ananda:
 
-- Này Ananda, hãy đi và tập họp tại giảng đường tất cả những vị Tỷ-kheo sống gần Ràjagaha (Vương
+\- Này Ananda, hãy đi và tập họp tại giảng đường tất cả những vị Tỷ-kheo sống gần Ràjagaha (Vương
 Xá).
 
-- Xin vâng, bạch Thế Tôn!
+\- Xin vâng, bạch Thế Tôn!
 
 Tôn giả Ananda vâng theo lời dạy Thế Tôn, đi tập họp tất cả những vị Tỷ-kheo sống gần Vương Xá rồi
 đi đến Thế Tôn, đảnh lễ Ngài, đứng một bên và bạch Thế Tôn:
 
-- Bạch Thế Tôn, Tỷ-kheo Tăng đã tu họp. Bạch Thế Tôn, Ngài hãy làm những gì Ngài nghĩ là hợp thời.
+\- Bạch Thế Tôn, Tỷ-kheo Tăng đã tu họp. Bạch Thế Tôn, Ngài hãy làm những gì Ngài nghĩ là hợp thời.
 
 Rồi Thế Tôn, từ chỗ ngồi đứng dậy, đi đến giảng đường, ngồi trên chỗ ngồi đã soạn sẵn và nói với các vị
 Tỷ-kheo:
 
-- Này các Tỷ-kheo, Ta sẽ giảng bảy pháp bất thối. Hãy nghe và suy nghiệm kỹ. Ta sẽ giảng.
+\- Này các Tỷ-kheo, Ta sẽ giảng bảy pháp bất thối. Hãy nghe và suy nghiệm kỹ. Ta sẽ giảng.
 
-- Xin vâng, bạch Thế Tôn!
+\- Xin vâng, bạch Thế Tôn!
 
 Những vị Tỷ-kheo ấy trả lời Thế Tôn. Thế Tôn giảng như sau:
 
-- Này các Tỷ-kheo, khi nào chúng Tỷ-kheo thường hay tụ họp và tụ họp đông đảo với nhau, thời này các
+\- Này các Tỷ-kheo, khi nào chúng Tỷ-kheo thường hay tụ họp và tụ họp đông đảo với nhau, thời này các
 Tỷ-kheo, chúng Tỷ-kheo sẽ được cường thịnh, không bị suy giảm.
 
 Này các Tỷ-kheo, khi nào chúng Tỷ-kheo tụ họp trong niệm đoàn kết, giải tán trong niệm đoàn kết, và
@@ -162,7 +162,7 @@ bị suy giảm.
 
 7\. Này các Tỷ-kheo, Ta sẽ giảng bày pháp bất thối khác, hãy nghe và suy nghiệm kỹ. Ta sẽ nói.
 
-- Xin vâng, bạch Thế Tôn!
+\- Xin vâng, bạch Thế Tôn!
 
 Những vị Tỷ-kheo đáp ứng Thế Tôn. Thế Tôn nói:
 
@@ -193,10 +193,10 @@ bị suy giảm.
 
 8\. Này các Tỷ-kheo, Ta sẽ giảng bảy pháp bất thối khác, hãy nghe và suy nghiệm kỹ. Ta sẽ nói.
 
-- Xin vâng, bạch Thế Tôn!
+\- Xin vâng, bạch Thế Tôn!
 Những vị Tỷ-kheo ấy đáp ứng Thế Tôn. Thế Tôn nói:
 
-- Này các Tỷ-kheo, khi nào chúng Tỷ-kheo có tín tâm, có tàm, có quý, có nghe nhiều, có tinh tấn, có
+\- Này các Tỷ-kheo, khi nào chúng Tỷ-kheo có tín tâm, có tàm, có quý, có nghe nhiều, có tinh tấn, có
 chánh niệm, có trí tuệ, thời này các Tỷ-kheo, chúng Tỷ-kheo sẽ được cường thịnh, không bị suy giảm.
 
 Này các Tỷ-kheo, khi nào bảy pháp bất thối này được duy trì giữa các vị Tỷ-kheo, khi nào các vị Tỷkheo được dạy bảy pháp bất thối này, thời này các Tỷ-kheo, chúng Tỷ-kheo sẽ được cường thịnh, không
@@ -204,11 +204,11 @@ bị suy giảm.
 
 9\. Này các Tỷ-kheo, Ta sẽ giảng bảy pháp bất thối khác, hãy nghe và suy nghiệm kỹ. Ta sẽ nói.
 
-- Xin vâng, bạch Thế Tôn!
+\- Xin vâng, bạch Thế Tôn!
 
 Chư Tỷ-kheo đáp ứng. Thế Tôn nói:
 
-- Này các Tỷ-kheo, khi nào chúng Tỷ-kheo tụ tập niệm giác chi, tụ tập trạch pháp giác chi, tu tập tinh
+\- Này các Tỷ-kheo, khi nào chúng Tỷ-kheo tụ tập niệm giác chi, tụ tập trạch pháp giác chi, tu tập tinh
 tấn giác chi, tu tập khinh an giác chi, tu tập định giác chi, tu tập xả giác chi, thời này các Tỷ-kheo, chúng
 Tỷ-kheo sẽ được cường thịnh, không bị suy giảm.
 
@@ -217,11 +217,11 @@ bị suy giảm.
 
 10\. Này các Tỷ-kheo, Ta sẽ giảng bảy pháp bất thối khác, hãy nghe và suy nghiệm kỹ. Ta sẽ nói.
 
-- Xin vâng bạch Thế Tôn!
+\- Xin vâng bạch Thế Tôn!
 
 Những vị Tỷ-kheo ấy đáp ứng Thế Tôn. Thế Tôn nói:
 
-- Này các Tỷ-kheo, khi nào chúng Tỷ-kheo tụ tập vô thường tưởng, tu tập vô ngã tưởng, tu tập bất tịnh
+\- Này các Tỷ-kheo, khi nào chúng Tỷ-kheo tụ tập vô thường tưởng, tu tập vô ngã tưởng, tu tập bất tịnh
 tưởng, tu tập nguy hiểm tưởng, tu tập xả ly tưởng, tu tập vô tham tưởng, tu tập diệt tưởng, thời này các
 Tỷ-kheo, chúng Tỷ-kheo sẽ được cường thịnh, không bị suy giảm.
 
@@ -230,11 +230,11 @@ bị suy giảm.
 
 11\. Này các Tỷ-kheo, Ta sẽ giảng sáu pháp bất thối, hãy nghe và suy nghiệm kỹ. Ta sẽ giảng.
 
-- Xin vâng, bạch Thế Tôn!
+\- Xin vâng, bạch Thế Tôn!
 
 Những vị Tỷ-kheo ấy đáp ứng Thế Tôn. Thế Tôn nói:
 
-- Này các, Tỷ-kheo khi nào các vị Tỷ-kheo đối với các vị đồng tu phạm hạnh, tại chỗ đông người và
+\- Này các, Tỷ-kheo khi nào các vị Tỷ-kheo đối với các vị đồng tu phạm hạnh, tại chỗ đông người và
 vắng người, gìn giữ thân nghiệp từ hòa, thời này các Tỷ-kheo, chúng Tỷ-kheo sẽ được cường thịnh,
 không bị suy giảm.
 
@@ -269,24 +269,24 @@ toàn các món lậu hoặc tức là dục lậu, hữu lậu (tri kiến lậ
 
 13\. Thế Tôn ở Vương Xá cho đến khi Ngài xem là vừa đủ, rồi Ngài gọi tôn giả Ananda:
 
-- Này Ananda, chúng ta hãy đi đến Ambalatthikà.
+\- Này Ananda, chúng ta hãy đi đến Ambalatthikà.
 
-- Xin vâng, bạch Thế Tôn!
+\- Xin vâng, bạch Thế Tôn!
 
 Tôn giả Ananda đáp ứng Thế Tôn. Rồi Thế Tôn cùng với đại chúng Tỷ-kheo đi đến Ambalatthikà.
 
 14\. Tại Ambalatthikà, Thế Tôn thân trú tại nhà nghỉ mát của vua. Trong thời gian Thế Tôn ở
 Ambalatthikà, tại nhà nghỉ mát của vua, pháp thoại này được giảng cho chúng Tỷ-kheo.
 
-- Ðây là Giới, đây là Ðịnh, đây là Tuệ, Ðịnh cùng tu với Giới sẽ đưa đến quả vị lớn, lợi ích lớn. Tuệ
+\- Ðây là Giới, đây là Ðịnh, đây là Tuệ, Ðịnh cùng tu với Giới sẽ đưa đến quả vị lớn, lợi ích lớn. Tuệ
 cùng tu với Ðịnh sẽ đưa đến quả vị lớn, lợi ích lớn. Tâm cùng tu với Tuệ sẽ đưa đến giải thoát hoàn toàn
 các món lậu hoặc, tức là dục lậu, hữu lậu (tri kiến lậu), vô minh lậu.
 
 15\. Thế Tôn ở Ambalatthikà cho đến khi Ngài xem là vừa đủ, rồi Ngài bảo tôn giả Ananda:
 
-- Này Ananda, chúng ta hãy đi đến Nalandà.
+\- Này Ananda, chúng ta hãy đi đến Nalandà.
 
-- Xin vâng, bạch Thế Tôn!
+\- Xin vâng, bạch Thế Tôn!
 
 Tôn giả Ananda vâng lời Thế Tôn. Rồi Thế Tôn cùng với đại chúng Tỷ-kheo đi đến Nalandà. Tại đây,
 Thế Tôn ở Pavarikambavana (Ba-ba-lợi Âm-bà-lâm).
@@ -294,32 +294,32 @@ Thế Tôn ở Pavarikambavana (Ba-ba-lợi Âm-bà-lâm).
 16\. Tôn giả Sàriputta (Xá-lợi-phất) đến tại chỗ Thế Tôn, đảnh lễ Ngài và xuống một bên. Tôn giả
 Sàriputta bạch Thế Tôn:
 
-- Bạch Thế Tôn, con tin tưởng Thế Tôn đến nỗi con nghĩ rằng, ở quá khứ, ở tương lai cũng như ở hiện
+\- Bạch Thế Tôn, con tin tưởng Thế Tôn đến nỗi con nghĩ rằng, ở quá khứ, ở tương lai cũng như ở hiện
 tại không thể có một Sa-môn, một Bà-la-môn nào có thể vĩ đại hơn, sáng suốt hơn Thế Tôn về phương
 diện chánh giác.
 
-- Này Sàriputta, lời nói của Ngươi thật là đại ngôn, thật là gan dạ. Ngươi thật đã rống tiếng rống con sư
+\- Này Sàriputta, lời nói của Ngươi thật là đại ngôn, thật là gan dạ. Ngươi thật đã rống tiếng rống con sư
 tử: “Con tin tưởng Thế Tôn đến nỗi con nghĩ rằng, ở quá khứ, ở tương lai cũng như ở hiện tại không thể
 có một Sa-môn, một Bà-la-môn nào có thể vĩ đại hơn, sáng suốt hơn Thế Tôn về phương diện chánh
 giác”. Này Sàriputta, có phải Ngươi đã biết tất cả những Thế Tôn, Ứng Cúng, Chánh Biến Tri ở quá
 khứ, Ngươi đã biết tâm những Vị này nói với tâm của Ngươi: “Những Thế Tôn này ở quá khứ có giới
 đức như vậy, có thiền định như vậy, có trí tuệ như vậy, có hạnh trú như vậy, có giải thoát như vậy”?
 
-- Bạch Thế Tôn, không!
+\- Bạch Thế Tôn, không!
 
-- Này Sàriputta, có phải Ngươi đã biết tất cả những Thế Tôn, Ứng Cúng, Chánh Biến Tri ở tương lai,
+\- Này Sàriputta, có phải Ngươi đã biết tất cả những Thế Tôn, Ứng Cúng, Chánh Biến Tri ở tương lai,
 Ngươi đã biết tâm những vị này với tâm của Ngươi: “Những Thế Tôn này ở tương lai có giới đức như
 vậy, có thiền định như vậy, có trí tuệ như vậy, có hạnh trú như vậy, có giải thoát như vậy”?
 
-- Bạch Thế Tôn, không!
+\- Bạch Thế Tôn, không!
 
-- Này Sàriputta, có phải Ngươi biết Ta là bậc Ứng Cúng, Chánh Biến Tri ở hiện tại, Ngươi đã biết tâm
+\- Này Sàriputta, có phải Ngươi biết Ta là bậc Ứng Cúng, Chánh Biến Tri ở hiện tại, Ngươi đã biết tâm
 Ta với tâm của Ngươi. “Thế Tôn có giới đức như vậy, có thiền định như vậy, có trí tuệ như vậy, có hạnh
 trú như vậy, có giải thoát như vậy”?
 
-- Bạch Thế Tôn, không!
+\- Bạch Thế Tôn, không!
 
-- Này Sàriputta, như vậy Ngươi không có tha tâm thông đối với các vị Ứng Cúng, Chánh Biến Tri ở quá
+\- Này Sàriputta, như vậy Ngươi không có tha tâm thông đối với các vị Ứng Cúng, Chánh Biến Tri ở quá
 khứ, tương lai và hiện tại. Như vậy, này Sàriputta, vì sao Ngươi lại thốt ra những lời đại ngôn, lời nói
 gan dạ, rống lên tiếng rống con sư tử: “Bạch Thế Tôn, con tin tưởng Thế Tôn đến nỗi con nghĩ rằng, ở
 quá khứ, ở tương lai cũng như ở hiện tại không thể có một Sa-môn, một Bà-la-môn nào có thể vĩ đại
@@ -345,15 +345,15 @@ khiến cho trí tuệ yết ớt, đã an trú tâm vào Bốn Niệm xứ, đ�
 18\. Trong thời gian Thế Tôn ở tại Nalandà, rừng Pavarikamba, pháp thoại này được giảng cho chúng
 Tỷ-kheo.
 
-- Ðây là Giới, đây là Ðịnh, đây là Tuệ. Ðịnh cùng tu với Giới sẽ đưa đến quả vị lớn, lợi ích lớn. Tuệ
+\- Ðây là Giới, đây là Ðịnh, đây là Tuệ. Ðịnh cùng tu với Giới sẽ đưa đến quả vị lớn, lợi ích lớn. Tuệ
 cùng tu với Ðịnh sẽ đưa đến quả vị lớn, lợi ích lớn. Tâm cùng tu với Tuệ sẽ đưa đến giải thoát hoàn toàn
 các món lậu hoặc, tức là dục lậu, hữu lậu (tri kiến lậu), vô minh lậu.
 
 19\. Thế Tôn ở Nalandà cho đến khi Ngài xem là vừa đủ, rồi gọi tôn giả Ananda:
 
-- Này Ananda, chúng ta hãy đi đến Pàtaligàma.
+\- Này Ananda, chúng ta hãy đi đến Pàtaligàma.
 
-- Xin vâng, bạch Thế Tôn!
+\- Xin vâng, bạch Thế Tôn!
 
 Tôn giả Ananda vâng lời Thế Tôn. Rồi Thế Tôn cùng với đại chúng Tỷ-kheo đi đến Pàtaligàma.
 
@@ -367,7 +367,7 @@ hữu hướng về Ngài và từ biệt. Các cư sĩ này đi đến nghỉ m
 ngồi, đặt ghè nước, chuẩn bị dầu đèn rồi đi đến Thế Tôn, đảnh lễ Ngài và đứng một bên, các cư sĩ ở
 Pàtaligàma bạch Thế Tôn:
 
-- Bạch Thế Tôn, tất cả nhà nghỉ mát đã được rãi cát, các chỗ ngồi đã được sắp đặt, ghè nước đã đặt sẵn,
+\- Bạch Thế Tôn, tất cả nhà nghỉ mát đã được rãi cát, các chỗ ngồi đã được sắp đặt, ghè nước đã đặt sẵn,
 dầu đèn đã được chuẩn bị. Bạch Thế Tôn, Ngài hãy làm những gì Ngài nghĩ là phải thời.
 
 22\. Rồi Thế Tôn đắp y, cầm y bát, cùng với đại chúng Tỷ-kheo đi đến nhà nghỉ mát, sau khi đến liền rửa
@@ -376,7 +376,7 @@ Tây, đối diện Thế Tôn.
 
 23\. Thế Tôn nói với các cư sĩ ở Pataligama:
 
-- Này các Gia chủ, có năm sự nguy hiểm cho những ai phạm giới, sống trái giới luật. Thế nào là năm?
+\- Này các Gia chủ, có năm sự nguy hiểm cho những ai phạm giới, sống trái giới luật. Thế nào là năm?
 
 Ở đây, này các Gia chủ, người phạm giới, sống trái giới luật sẽ bị tiêu hao tiền của rất nhiều vì sống
 phóng dật. Ðó là điều nguy hiểm thứ nhất cho những ai phạm giới, sống trái giới luật.
@@ -417,9 +417,9 @@ sanh vào thiện thú, thiên giới. Ðó là sự lợi ích thứ năm cho n
 25\. Thế Tôn giảng pháp cho những cư sĩ ở Pàtaligàma cho đến khuya, khích lệ, làm cho phấn khởi,
 khiến tâm hoan hỷ rồi bảo các cư sĩ ấy:
 
-- Này các Gia chủ, đêm đã khuya, nay các Ngươi hãy làm những gì các Ngươi nghĩ là phải thời.
+\- Này các Gia chủ, đêm đã khuya, nay các Ngươi hãy làm những gì các Ngươi nghĩ là phải thời.
 
-- Xin vâng, bạch Thế Tôn!
+\- Xin vâng, bạch Thế Tôn!
 
 Các người cư sĩ của Pàtaligàma vâng lời Thế Tôn, từ chỗ ngồi đứng dậy, đảnh lễ Thế Tôn, thân phía hữu
 hướng về Ngài từ tạ ra về. Thế Tôn, sau khi các cư sĩ ở Pàtaligàma đi không bao lâu, liền trở vào phòng
@@ -435,8 +435,8 @@ vị này khiến tâm các vua chúa, các đại thần bậc hạ đẳng hư
 27\. Thế Tôn với thiên nhãn, thanh tịnh, siêu nhân thấy hàng ngàn các thiên thần tụ họp tại các trú địa ở
 Pàtaligàma, Thế Tôn thức dậy khi đêm chưa tàn và nói với tôn giả Ananda:
 
-- Này Ananda, ai đang xây dựng thành trì ở Pataligama?
-- Sunidha và Vassakara, bạch Thế Tôn, hai vị đại thần xứ Magadha, đang xây dựng thành trì ở
+\- Này Ananda, ai đang xây dựng thành trì ở Pataligama?
+\- Sunidha và Vassakara, bạch Thế Tôn, hai vị đại thần xứ Magadha, đang xây dựng thành trì ở
 Pataligama để ngăn chận dân Vajjì.
 
 28\. Này Ananda, thật giống như đã hỏi ý kiến các vị thiên thần ở cõi trời Ba mươi ba, các đại thần ở
@@ -483,7 +483,7 @@ ngồi đứng dậy và ra về.
 
 32\. Sunidha và Vassakara, hai vị đại thần xứ Magadha đi sau lưng Thế Tôn và nói:
 
-- “Hôm nay Sa-môn Gotama đi ra cửa nào cửa ấy sẽ được đặt tên là Gotama; Sa-môn Gotama lội qua
+\- “Hôm nay Sa-môn Gotama đi ra cửa nào cửa ấy sẽ được đặt tên là Gotama; Sa-môn Gotama lội qua
 sông từ bến nào, bến ấy sẽ được đặt tên là Gotama. Và cửa Sa-môn Gotama đi ra được đặt tên là cửa
 Gotama”.
 33\. Rồi Thế Tôn đi đến sông Gangà (sông Hằng). Lúc bây giờ, sông Gangà tràn ngập nước đến bờ đến
@@ -502,11 +502,11 @@ _Những người ấy thật là những vị trí tuệ được giải thoát
 
 1\. Rồi Thế Tôn gọi tôn giả Ananda: “Này Ananda, chúng ta hãy đi đến Kotigàma”
 
-- “Xin vâng, bạch Thế Tôn”. Tôn giả Ananda đáp ứng Thế Tôn. Rồi Thế Tôn cùng với đại chúng Tỷkheo đi đến Kotigàma. Tại đây, Thế Tôn ở tại Kotigàma.
+\- “Xin vâng, bạch Thế Tôn”. Tôn giả Ananda đáp ứng Thế Tôn. Rồi Thế Tôn cùng với đại chúng Tỷkheo đi đến Kotigàma. Tại đây, Thế Tôn ở tại Kotigàma.
 
 2\. Thế Tôn nói với các vị Tỷ-kheo:
 
-- Này các Tỷ-kheo, chính vì không giác ngộ, không thông hiểu Bốn Thánh đế mà chúng ta phải lưu
+\- Này các Tỷ-kheo, chính vì không giác ngộ, không thông hiểu Bốn Thánh đế mà chúng ta phải lưu
 chuyển luân hồi lâu năm, Ta và các Ngươi. Bốn Thánh đế ấy là gì?
 
 Này các Tỷ-kheo, chính vì không giác ngộ, không thông hiểu Khổ Thánh đế mà chúng ta phải lưu
@@ -528,20 +528,20 @@ dẫn đến một đời sống được đoạn tuyệt, nay không còn hậu
 
 3\. Thế Tôn thuyết như vậy. Thiện Thệ lại nói thêm:
 
-- Chính vì không thấy như thật Bốn Thánh đế nên có sự luân chuyển lâu ngày trong nhiều đời. Khi
+\- Chính vì không thấy như thật Bốn Thánh đế nên có sự luân chuyển lâu ngày trong nhiều đời. Khi
 những sự thực này được nhận thức, nguyên nhân của một đời sống khác được trừ diệt, khi khổ căn được
 đoạn trừ, sẽ không còn một đời sống khác nữa.
 
 4\. Trong thời gian Thế Tôn ở Kotigama, pháp thoại này được giảng cho chúng Tỷ-kheo:
-- Ðây là Giới, đây là Ðịnh, đây là Tuệ. Ðịnh cùng tu với Giới sẽ đưa đến quả vị lớn, lợi ích lớn. Tuệ
+\- Ðây là Giới, đây là Ðịnh, đây là Tuệ. Ðịnh cùng tu với Giới sẽ đưa đến quả vị lớn, lợi ích lớn. Tuệ
 cùng tu với Ðịnh sẽ đưa đến quả vị lớn, lợi ích lớn. Tâm cùng tu với Tuệ sẽ đưa đến giải thoát hoàn toàn
 các món lậu hoặc, tức là dục lậu, hữu lậu (tri kiến lậu), vô minh lậu.
 
 5\. Thế Tôn, sau khi ở Kotigama cho đến khi Ngài xem là vừa đủ, liền bảo tôn giả Ananda:
 
-- Này Ananda, chúng ta hãy đi đến Nadika.
+\- Này Ananda, chúng ta hãy đi đến Nadika.
 
-- Xin vâng, bạch Thế Tôn!
+\- Xin vâng, bạch Thế Tôn!
 
 Tôn giả Ananda vâng lời Thế Tôn. Rồi Thế Tôn cùng với đại chúng Tỷ-kheo đi đến. Nadika, tại ngôi
 nhà gạch (Ginjakàvasatha).
@@ -549,7 +549,7 @@ nhà gạch (Ginjakàvasatha).
 6\. Rồi Tôn giả Ananda đến chỗ Thế Tôn, đảnh lễ Ngài và ngồi xuống một bên. Tôn giả Ananda bạch
 Thế Tôn:
 
-- Bạch Thế Tôn, Tỷ-kheo Salada mệnh chung tại Nadika đã được sanh ở cõi nào, hậu thế trạng thái như
+\- Bạch Thế Tôn, Tỷ-kheo Salada mệnh chung tại Nadika đã được sanh ở cõi nào, hậu thế trạng thái như
 thế nào? Tỷ-kheo ni Nandà mệnh chung tại Nadika đã được sanh ở cõi nào, hậu thế trạng thái như thế
 nào? Bạch Thế Tôn, cư sĩ Sudatta mệnh chung tại Nàdika đã được sanh cõi nào, hậu thế trạng thái như
 thế nào? Bạch Thế Tôn, nữ cư sĩ Sujàtà mệnh chung tại Nàdika đã được sanh ở cõi nào, hậu thế trạng
@@ -603,22 +603,22 @@ quỷ, đọa xứ, ác thú. Ta đã chứng quả Dự lưu, nhứt định kh
 
 10\. Khi Thế Tôn ở Nàdika, pháp thoại này được giảng cho chúng Tỷ-kheo:
 
-- Ðây là Giới, đây là Ðịnh, đây là Tuệ. Ðịnh cùng tu với Giới sẽ đưa đến quả vị lớn, lợi ích lớn. Tuệ
+\- Ðây là Giới, đây là Ðịnh, đây là Tuệ. Ðịnh cùng tu với Giới sẽ đưa đến quả vị lớn, lợi ích lớn. Tuệ
 cùng tu với Ðịnh sẽ đưa đến quả vị lớn, lợi ích lớn. Tâm cùng tu với Tuệ sẽ đưa đến giải thoát hoàn toàn
 các món lậu hoặc, tức là dục lậu, hữu lậu (tri kiến lậu), vô minh lậu.
 
 11\. Rồi Thế Tôn, sau khi ở Nàdika cho đến khi Ngài xem là vừa đủ, liền bảo tôn giả Ananda:
 
-- Này Ananda, chúng ta hãy đi đến Vesàli.
+\- Này Ananda, chúng ta hãy đi đến Vesàli.
 
-- Xin vâng, bạch Thế Tôn!
+\- Xin vâng, bạch Thế Tôn!
 
 Tôn giả Ananda vâng lời Thế Tôn. Rồi Thế Tôn cùng với đại chúng Tỷ-kheo đi đến Vasali. Ở đây, Thế
 Tôn trú tại vườn Ambapàli.
 
 12\. Thế Tôn bảo các vị Tỷ-kheo:
 
-- Này các Tỷ-kheo, các Ngươi phải sống an trú chánh niệm, tỉnh giác. Ðó là lời dạy của Ta cho các
+\- Này các Tỷ-kheo, các Ngươi phải sống an trú chánh niệm, tỉnh giác. Ðó là lời dạy của Ta cho các
 Ngươi.
 
 Này các Tỷ-kheo, thế nào là Tỷ-kheo an trú chánh niệm? Này các Tỷ-kheo, Tỷ-kheo đối với thân, quán
@@ -640,7 +640,7 @@ dâm nữ Ambapàli đang ngồi một bên, giảng dạy, khích lệ, làm ch
 Dâm nữ Ambapàli sau khi được Thế Tôn giảng dạy, khích lệ, làm cho phấn khởi, khiến tâm hoan hỷ,
 liền bạch Thế Tôn:
 
-- Bạch Thế Tôn, mong Thế Tôn ngày mai nhận lời mời dùng cơm của chúng con với chúng Tỷ-kheo.
+\- Bạch Thế Tôn, mong Thế Tôn ngày mai nhận lời mời dùng cơm của chúng con với chúng Tỷ-kheo.
 
 Thế Tôn im lặng nhận lời. Dâm nữ Ambapali được biết Thế Tôn đã nhận lời, từ chỗ ngồi đứng dậy,
 đảnh lễ Ngài, thân bên phải hướng về đức Phật và từ biệt.
@@ -655,19 +655,19 @@ trắng, màu sắc trắng, mặc vải màu trắng, mang đồ trang sức m�
 16\. Lúc bấy giờ dâm nữ Ambapàli đánh xe va chạm với các thanh niên Licchavi, trục xe chạm với trục
 xe, bánh xe chạm với bánh xe, gọng xe chạm với gọng xe. Các Licchavi nói với dâm nữ Ambapàli:
 
-- Này Ambapàli, tại sao nàng lại đánh xe va chạm với các thanh niên Licchavi, trục xe chạm với trục xe,
+\- Này Ambapàli, tại sao nàng lại đánh xe va chạm với các thanh niên Licchavi, trục xe chạm với trục xe,
 bánh xe chạm với bánh xe, gọng xe chạm với gọng xe?
 
-- Này quý Công tử của tôi, tôi vừa mới mời Thế Tôn cùng chúng Tỷ-kheo ngày mai đến dùng cơm.
+\- Này quý Công tử của tôi, tôi vừa mới mời Thế Tôn cùng chúng Tỷ-kheo ngày mai đến dùng cơm.
 
-- Này Ambapàli, hãy nhường cho chúng ta bữa cơm ấy đổi lấy một trăm ngàn.
+\- Này Ambapàli, hãy nhường cho chúng ta bữa cơm ấy đổi lấy một trăm ngàn.
 
-- Dầu quý Công tử có cho tôi cả thành Vesàli cùng với các đất phụ thuộc, tôi cũng không nhường bữa
+\- Dầu quý Công tử có cho tôi cả thành Vesàli cùng với các đất phụ thuộc, tôi cũng không nhường bữa
 cơm quan trọng này.
 
 Các vị Licchavi này tức tối búng ngón tay và nói:
 
-- Chúng ta bị cô thiếu nữ xoài này đả thắng! Chúng ta bị cô thiếu nữ xoài này phổng tay trên. Và các vị
+\- Chúng ta bị cô thiếu nữ xoài này đả thắng! Chúng ta bị cô thiếu nữ xoài này phổng tay trên. Và các vị
 Licchavi này cùng đi đến vườn Ambapàli.
 
 17\. Thế Tôn từ xa thấy các vị Licchavi liền nói với các Tỷ-kheo: “Này các Tỷ-kheo nếu có vị Tỷ-kheo
@@ -680,9 +680,9 @@ Tôn, khi đến, liền đảnh lễ Ngài và ngồi xuống một bên. Thế
 
 Các vị Licchavi sau khi được Thế Tôn giảng dạy, khích lệ, làm cho phấn khởi, khiến tâm hoan hỷ liền
 bạch Thế Tôn:
-- Bạch Thế Tôn, mong Thế Tôn ngày mai nhận lời mời dùng cơm của chúng con với chúng Tỷ-kheo.
+\- Bạch Thế Tôn, mong Thế Tôn ngày mai nhận lời mời dùng cơm của chúng con với chúng Tỷ-kheo.
 
-- Này các Licchavi, ngày mai Ta đã nhận lời mời dùng cơm của dâm nữ Ambapàli rồi.
+\- Này các Licchavi, ngày mai Ta đã nhận lời mời dùng cơm của dâm nữ Ambapàli rồi.
 
 Các vị Licchavi này tức tối búng ngón tay và nói: “Chúng ta bị cô thiếu nữ xoài này đả thắng! Chúng ta
 bị cô thiếu nữ xoài này phổng tay trên... “
@@ -705,25 +705,25 @@ khiến tâm hoan hỷ, rồi đứng dậy ra về.
 
 20\. Trong thời gian Thế Tôn ở Vesàli, pháp thoại này được giảng cho chúng Tỷ-kheo:
 
-- Ðây là Giới, đây là Ðịnh, đây là Tuệ. Ðịnh cùng tu với Giới sẽ đưa đến quả vị lớn, lợi ích lớn. Tuệ
+\- Ðây là Giới, đây là Ðịnh, đây là Tuệ. Ðịnh cùng tu với Giới sẽ đưa đến quả vị lớn, lợi ích lớn. Tuệ
 cùng tu với Ðịnh sẽ đưa đến quả vị lớn, lợi ích lớn. Tâm cùng tu với Tuệ sẽ đưa đến giải thoát hoàn toàn
 các món lậu hoặc, tức là dục lậu, hữu lậu (tri kiến lậu), vô minh lậu.
 
 21\. Rồi Thế Tôn, sau khi ở Vesàli cho đến khi Ngài xem là vừa đủ, liền bảo tôn giả Ananda:
 
-- Này Ananda, chúng ta hãy đi đến làng Baluvà.
+\- Này Ananda, chúng ta hãy đi đến làng Baluvà.
 
-- Xin vâng, bạch Thế Tôn!
+\- Xin vâng, bạch Thế Tôn!
 
 Tôn giả Ananda vâng lời Thế Tôn. Rồi Thế Tôn cùng với đại chúng Tỷ-kheo đi đến làng Baluvà. Và
 Thế Tôn trú tại làng này.
 
 22\. Thế Tôn nói với các Tỷ-kheo:
 
-- Này các Tỷ Kheo hãy an cư trong mùa mưa xung quanh Vesàli tại chỗ có bạn bè quen thuộc và thân
+\- Này các Tỷ Kheo hãy an cư trong mùa mưa xung quanh Vesàli tại chỗ có bạn bè quen thuộc và thân
 tín. Còn Ta sẽ an cư ở đây, tại làng Baluvà.
 
-- Xin vâng, bạch Thế Tôn!
+\- Xin vâng, bạch Thế Tôn!
 
 Những Tỷ Kheo này vâng đáp Thế Tôn và tìm chỗ an cư mùa mưa xung quanh Vesàli tại chỗ có bạn bè
 quyến thuộc và thân tín. Còn Thế Tôn an cư tại làng Baluvà.
@@ -738,7 +738,7 @@ và tiếp tục sống”. Và Thế Tôn với sức tinh tấn, nhiếp phụ
 đã soạn sẵn, trong bóng mát của ngôi tịnh xá. Lúc bấy giờ tôn giả Ananda đến tại chỗ Thế Tôn, đảnh lễ
 Ngài và ngồi xuống một bên. Sau khi ngồi xuống một bên, tôn giả Ananda bạch Thế Tôn:
 
-- Bạch Thế Tôn, con được thấy Thế Tôn khỏe mạnh. Bạch Thế Tôn, con được thấy Thế Tôn kham nhẫn,
+\- Bạch Thế Tôn, con được thấy Thế Tôn khỏe mạnh. Bạch Thế Tôn, con được thấy Thế Tôn kham nhẫn,
 bạch Thế Tôn, thấy Thế Tôn bệnh hoạn, thân con cảm thấy yếu ớt như lau sậy, mắt con mờ mịt không
 thấy rõ phương hướng, dầu cho, bạch Thế Tôn, con được một chút an ủi rằng, Thế Tôn sẽ không diệt độ,
 nếu Ngài chưa có lời di giáo lại cho chúng Tỷ-kheo.
@@ -778,15 +778,15 @@ hàng Tỷ-kheo của Ta, nếu những vị ấy tha thiết học hỏi.
 1\. Rồi Thế Tôn vào buổi sáng đắp y, đem theo y bát, vào Vesàli để khất thực. Sau khi khất thực ở
 Vesàli, ăn xong và trên đường khất thực trở về Ngài nói với tôn giả Ananda:
 
-- Này Ananda, hãy lấy tọa cụ. Ta muốn đi đến điện thờ Càpàla, để nghỉ trưa.
-- Xin vâng, bạch Thế Tôn!
+\- Này Ananda, hãy lấy tọa cụ. Ta muốn đi đến điện thờ Càpàla, để nghỉ trưa.
+\- Xin vâng, bạch Thế Tôn!
 
 Tôn giả Ananda vâng đáp Thế Tôn, lấy tọa cụ và đi theo sau lưng Thế Tôn.
 
 2\. Thế Tôn đi đến điện thờ Càpàla, khi đến Ngài ngồi trên chỗ đã soạn sẵn. Tôn giả Ananda đảnh lễ Thế
 Tôn và ngồi xuống một bên. Thế Tôn nói với Tôn giả Ananda đang ngồi một bên:
 
-- Này Ananda, khả ái thay Vesàli, khả ái thay điện thờ Udena, khả ái thay điện thờ Gotamaka, khả ái
+\- Này Ananda, khả ái thay Vesàli, khả ái thay điện thờ Udena, khả ái thay điện thờ Gotamaka, khả ái
 thay điện thờ Sàttambaka, khả ái thay điện thờ Bahuputta, khả ái thay điện thờ Sàrandada, khả ái thay
 điện thờ Càpàla.
 
@@ -804,7 +804,7 @@ vương ám ảnh.
 
 5\. Lần thứ hai Thế Tôn... lần thứ ba Thế Tôn nói với tôn giả Ananda:
 
-- Này Ananda, khả ái thay Vesàli, khả ái thay điện thờ Udena, khả ái thay điện thờ Gotamaka, khả ái
+\- Này Ananda, khả ái thay Vesàli, khả ái thay điện thờ Udena, khả ái thay điện thờ Gotamaka, khả ái
 thay điện thờ Sattambaka, khả ái thay điện thờ Bahuputta, khả ái thay điện thờ Sàrandada, khả ái thay
 điện thờ Capala!” Này Ananda, những ai đã tu bốn thần túc, tu tập nhiều lần, thật lão luyện, thật chắc
 chắn, thật bền vững, điêu luyện, thiện xảo thời, nếu người ấy muốn, có thể sống đến một kiếp hay phần
@@ -820,16 +820,16 @@ ma ám ảnh.
 
 6\. Rồi Thế Tôn nói với tôn giả Ananda:
 
-- Này Ananda hãy đi và làm những gì Ngươi nghĩ là phải thời.
+\- Này Ananda hãy đi và làm những gì Ngươi nghĩ là phải thời.
 
-- Xin vâng, bạch Thế Tôn!
+\- Xin vâng, bạch Thế Tôn!
 
 Tôn giả Ananda vâng lời Thế Tôn, từ chỗ ngồi đứng dậy, đảnh lễ Ngài, thân bên hữu hướng về Thế Tôn
 và đi ra.
 
 7\. Tôn giả Ananda đi ra chưa bao lâu, Ác ma liền đến chỗ Thế Tôn, khi đến xong liền đứng một bên.
 Sau khi đứng một bên, Ác ma nói với Thế Tôn.
-- Bạch Thế Tôn, nay Thế Tôn hãy diệt độ, Thiện Thệ hãy diệt độ. Bạch Thế Tôn, nay đã đến thời Thế
+\- Bạch Thế Tôn, nay Thế Tôn hãy diệt độ, Thiện Thệ hãy diệt độ. Bạch Thế Tôn, nay đã đến thời Thế
 Tôn diệt độ. Bạch Thế Tôn, đây là lời Thế Tôn đã nói: “Này Ác ma, Ta sẽ không diệt độ khi nào những
 Tỷ-kheo của Ta chưa trở thành những vị đệ tử chân chánh, sáng suốt, có kỷ luật, sẵn sàng, đa văn, duy
 trì Chánh pháp, thành tựu Chánh pháp và tùy pháp, sống chân chánh, sống theo Chánh pháp, sau khi học
@@ -896,7 +896,7 @@ chấn động như vậy?”.
 12\. Rồi tôn giả Ananda đến tại chỗ Thế Tôn, đảnh lễ Ngài và ngồi xuống một bên. Khi ngồi xuống một
 bên, tôn giả Ananda bạch Thế Tôn:
 
-- Bạch Thế Tôn, thật là kỳ diệu! Bạch Thế Tôn thật là hy hữu! Ðại địa chấn động, đại địa rung động như
+\- Bạch Thế Tôn, thật là kỳ diệu! Bạch Thế Tôn thật là hy hữu! Ðại địa chấn động, đại địa rung động như
 vậy, ghê rợn, tóc lông dựng ngược và sấm trời vang dậy. Bạch Thế Tôn, do nhân gì, do duyên gì, đại địa
 chấn động như vậy?
 
@@ -1020,7 +1020,7 @@ Thệ hãy diệt độ. Bạch Thế Tôn nay đã đến thời Thế Tôn di�
 
 35\. Này Ananda, khi được nói vậy, Ta nói với Ác ma:
 
-- “Này Ác ma, Ta sẽ không diệt độ khi nào những Tỷ-kheo của ta chưa thành những đệ tử chơn chánh,
+\- “Này Ác ma, Ta sẽ không diệt độ khi nào những Tỷ-kheo của ta chưa thành những đệ tử chơn chánh,
 sáng suốt, có kỷ luật, sẵn sàng, đa văn, duy trì Chánh pháp, thành tựu Chánh pháp và Tùy pháp, sống
 chơn chánh, sống theo Chánh pháp, sau khi học hỏi giáo lý chưa có thể tuyên bố, diễn giảng, trình bày,
 xác định, khai minh, phân tách và giải thích rõ ràng Chánh pháp; khi có tà đạo khởi lên, chưa có thể chất
@@ -1080,35 +1080,35 @@ Này Ananda, hôm nay tại điện thờ Càpàla, Như Lai chánh niệm, tỉ
 trì mạng sống lâu hơn nữa).
 38\. Khi được nói vậy, tôn giả Ananda bạch Thế Tôn:
 
-- Bạch Thế Tôn, Thế Tôn hãy ở lại cho đến trọn kiếp, Thiện Thệ hãy ở lại cho đến trọn kiếp, vì lợi ích
+\- Bạch Thế Tôn, Thế Tôn hãy ở lại cho đến trọn kiếp, Thiện Thệ hãy ở lại cho đến trọn kiếp, vì lợi ích
 cho chúng sanh, vì hạnh phúc cho chúng sanh, vì lòng thương tưởng cho đời, vì lợi ích, vì hạnh phúc
 cho loài Trời và loài Người.
 
-- Thôi đi, này Ananda, đừng có thỉnh cầu Như Lai nữa. Này Ananda, nay thỉnh cầu Như Lai không còn
+\- Thôi đi, này Ananda, đừng có thỉnh cầu Như Lai nữa. Này Ananda, nay thỉnh cầu Như Lai không còn
 kịp thời.
 
 39\. Lần thứ hai, tôn giả Ananda... Lần thứ ba, tôn giả Ananda bạch Thế Tôn:
 
-- Bạch Thế Tôn, Thế Tôn hãy ở lại cho đến trọn kiếp, Thiện Thệ hãy ở lại cho đến trọn kiếp, vì lợi ích
+\- Bạch Thế Tôn, Thế Tôn hãy ở lại cho đến trọn kiếp, Thiện Thệ hãy ở lại cho đến trọn kiếp, vì lợi ích
 cho chúng sanh, vì hạnh phúc cho chúng sanh, vì lòng thương tưởng cho đời, vì lợi ích, vì hạnh phúc, vì
 an lạc cho loài Trời và loài Người.
 
-- Này Ananda, Ngươi có tin sự giác ngộ Thế Tôn không?
+\- Này Ananda, Ngươi có tin sự giác ngộ Thế Tôn không?
 
-- Bạch Thế Tôn, con có tin!
+\- Bạch Thế Tôn, con có tin!
 
-- Vậy, này Ananda, sao Ngươi lại làm phiền Như Lai đến ba lần.
+\- Vậy, này Ananda, sao Ngươi lại làm phiền Như Lai đến ba lần.
 
 40\. - Bạch Thế Tôn, chính con được tận mặt, đích thân nghe Thế Tôn dạy như sau: “Này Ananda, những
 ai đã tu bốn thần túc, tu tập nhiều lần, thật lão luyện, thật chắc chắn, thật bền vững, điêu luyện, thiện xảo
 thời, nếu muốn, người ấy có thể sống đến một kiếp, hay phần kiếp còn lại. Này Ananda, nay Như Lai đã
 tu bốn thần túc... Như Lai có thể sống đến một kiếp hay phần kiếp còn lại”.
 
-- Này Ananda, Ngươi có tin tưởng không?
+\- Này Ananda, Ngươi có tin tưởng không?
 
-- Bạch Thế Tôn, con có tin tưởng!
+\- Bạch Thế Tôn, con có tin tưởng!
 
-- Này Ananda, như vậy là lỗi của Ngươi, như vậy là khuyết điểm của Ngươi, đã không nhận hiểu sự gợi
+\- Này Ananda, như vậy là lỗi của Ngươi, như vậy là khuyết điểm của Ngươi, đã không nhận hiểu sự gợi
 ý quá rõ ràng, sự hiện tướng quá rõ ràng của Như Lai, Ngươi không thỉnh cầu Thế Tôn: “Bạch Thế Tôn,
 Thế Tôn hãy ở lại cho đến trọn kiếp, Thiện Thệ hãy ở lại cho đến trọn kiếp, vì lợi ích cho chúng sanh, vì
 hạnh phúc cho chúng sanh, vì lòng thương tưởng cho đời, vì lợi ích, vì hạnh phúc, vì an lạc cho loài Trời
@@ -1193,27 +1193,27 @@ Lai sẽ diệt độ”. Nói rằng Như Lai vì muốn sống mà phản lạ
 
 Này Ananda, chúng ta hãy đi đến giảng đường Kùtagàra tại rừng Ðại Lâm.
 
-- Xin vâng, bạch Thế Tôn!
+\- Xin vâng, bạch Thế Tôn!
 
 Tôn giả Ananda vâng lời Thế Tôn.
 
 49\. Rồi Thế Tôn cùng tôn giả Ananda đi đến giảng đường Kùtagàra vườn Ðại Lâm, khi đi đến, Thế Tôn
 nói với tôn giả Ananda:
 
-- Này Ananda, hãy đi mời tất cả Tỷ-kheo sống ở gần Vesàli tụ họp tại giảng đường này.
+\- Này Ananda, hãy đi mời tất cả Tỷ-kheo sống ở gần Vesàli tụ họp tại giảng đường này.
 
-- Xin vâng, bạch Thế Tôn!
+\- Xin vâng, bạch Thế Tôn!
 
 Tôn giả Ananda vâng lời Thế Tôn, đi mời tất cả vị Tỷ-kheo sống ở gần Vesàli tụ họp tại giảng đường,
 rồi đi đến chỗ Thế Tôn, đảnh lễ Ngài và đứng một bên. Sau khi đứng một bên, tôn giả Ananda bạch Thế
 Tôn:
 
-- Bạch Thế Tôn, chúng Tỷ-kheo đã tụ họp. Bạch Thế Tôn, Ngài hãy làm những gì Ngài nghĩ là hợp thời.
+\- Bạch Thế Tôn, chúng Tỷ-kheo đã tụ họp. Bạch Thế Tôn, Ngài hãy làm những gì Ngài nghĩ là hợp thời.
 
 50\. Thế Tôn liền đi đến giảng đường và ngồi trên chỗ đã soạn sẵn. Sau khi ngồi, Thế Tôn nói với các vị
 Tỷ-kheo:
 
-- Này các Tỷ-kheo, nay những pháp do Ta chứng ngộ và giảng dạy cho các Ngươi, các Ngươi phải khéo
+\- Này các Tỷ-kheo, nay những pháp do Ta chứng ngộ và giảng dạy cho các Ngươi, các Ngươi phải khéo
 học hỏi, thực chứng tu tập và truyền rộng để phạm hạnh được trường tồn, vĩnh cửu, vì hạnh phúc cho
 chúng sanh, vì an lạc cho chúng sanh, vì lòng thương tưởng cho đời, vì lợi ích, vì hạnh phúc, vì an lạc
 cho loài Trời và loài Người. Này các Tỷ-kheo, thế nào là các pháp do Ta chứng ngộ và giảng dạy, các
@@ -1227,7 +1227,7 @@ lợi ích, vì hạnh phúc, vì an lạc cho loài Trời và loài Người.
 
 51\. Rồi Thế Tôn nói với các Tỷ-kheo:
 
-- Này các Tỷ-kheo, đây là lời Ta nhắn nhủ các Ngươi. Các hành là vô thường. Hãy tinh tấn lên để tự giải
+\- Này các Tỷ-kheo, đây là lời Ta nhắn nhủ các Ngươi. Các hành là vô thường. Hãy tinh tấn lên để tự giải
 thoát, không lâu Như Lai sẽ diệt độ. Sau ba tháng bắt đầu từ hôm nay, Như Lai sẽ diệt độ.
 Ðó là lời Thế Tôn dạy. Sau khi nói vậy, Thiện Thệ lại nói thêm:
 
@@ -1245,17 +1245,17 @@ _Sẽ diệt sanh tử, chấm dứt khổ đau._
 Vesàli, ăn xong và trên đường khất thực trở về, Thế Tôn nhìn Vesàli với cái nhìn của con voi chúa rồi
 nói với tôn giả Ananda:
 
-- Này Ananda, lần này là lần cuối cùng, Như Lai nhìn Vesàli. Này Ananda, chúng ta hãy đi đến làng
+\- Này Ananda, lần này là lần cuối cùng, Như Lai nhìn Vesàli. Này Ananda, chúng ta hãy đi đến làng
 Bhandagàma.
 
-- Xin vâng, bạch Thế Tôn!
+\- Xin vâng, bạch Thế Tôn!
 
 Tôn giả Ananda vâng lời Thế Tôn. Rồi Thế Tôn cùng với đại chúng Tỷ-kheo đi đến Bhandagàma. Tại
 đây, Thế Tôn ở tại Bhandagàma.
 
 2\. Rồi Thế Tôn nói với Tỷ-kheo:
 
-- Này các Tỷ-kheo, chính vì không giác ngộ, không chứng đạt bốn Pháp mà Ta và các Ngươi lâu đời
+\- Này các Tỷ-kheo, chính vì không giác ngộ, không chứng đạt bốn Pháp mà Ta và các Ngươi lâu đời
 phải trôi lăn trong biển sanh tử. Thế nào là bốn? Này các Tỷ-kheo, chính vì không giác ngộ không
 chứng đạt Thánh Giới mà Ta và các Ngươi lâu đời phải trôi lăn trong biển sanh tử. Này các Tỷ-kheo,
 chính vì không giác ngộ, không chứng đạt Thánh Ðịnh mà Ta và các Ngươi lâu đời phải trôi lăn trong
@@ -1276,12 +1276,12 @@ _Ðạo Sư diệt khổ, pháp nhãn, tịnh lạc._
 
 4\. Trong thời gian Thế Tôn ở tại Bhandagàma, pháp thoại này được giảng cho chúng Tỷ-kheo:
 
-- Ðây là Giới, đây là Ðịnh, đây là Tuệ, Ðịnh cùng tu với Giới sẽ đưa đến quả vị lớn, lợi ích lớn. Tuệ
+\- Ðây là Giới, đây là Ðịnh, đây là Tuệ, Ðịnh cùng tu với Giới sẽ đưa đến quả vị lớn, lợi ích lớn. Tuệ
 cùng tu với Ðịnh sẽ đưa đến quả vị lớn, lợi ích lớn. Tâm cùng tu với Tuệ sẽ đưa đến giải thoát hoàn toàn
 các món lậu hoặc, tức là dục lậu, hữu lậu (tri kiến lậu), vô minh lậu.
 5\. Rồi Thế Tôn, sau khi ở Bhandagàma cho đến khi Ngài xem là vừa đủ, liền nói với tôn giả Ananda:
 
-- Này Ananda, chúng ta hãy đi đến Hatthigam... Ambagama... Jambugama..., hãy đi đến Bhoganagara.
+\- Này Ananda, chúng ta hãy đi đến Hatthigam... Ambagama... Jambugama..., hãy đi đến Bhoganagara.
 
 6\. - Xin vâng, bạch Thế Tôn!
 
@@ -1289,9 +1289,9 @@ Tôn giả Ananda vâng đáp Thế Tôn. Rồi Thế Tôn cùng với đại ch
 
 7\. Tại đây, Thế Tôn ở Bhoganagara tại đền Ananda, Ngài nói với các Tỷ-kheo:
 
-- Này các Tỷ-kheo, Ta sẽ giảng bốn Ðại giáo pháp, hãy nghe và suy nghiệm kỹ, Ta sẽ giảng.
+\- Này các Tỷ-kheo, Ta sẽ giảng bốn Ðại giáo pháp, hãy nghe và suy nghiệm kỹ, Ta sẽ giảng.
 
-- Xin vâng, bạch Thế Tôn!
+\- Xin vâng, bạch Thế Tôn!
 
 Các Tỷ-kheo ấy vâng lời Thế Tôn, Thế Tôn giảng như sau:
 
@@ -1344,15 +1344,15 @@ Này các Tỷ-kheo, bốn Ðại giáo pháp này, các Ngươi hãy thọ trì
 
 12\. Trong khi Thế Tôn ở tại Bhoganagara, pháp thoại này được giảng cho chúng Tỷ-kheo:
 
-- Ðây là Giới, đây là Ðịnh, đây là Tuệ, Ðịnh cùng tu với Giới sẽ đưa đến quả vị lớn, lợi ích lớn. Tuệ
+\- Ðây là Giới, đây là Ðịnh, đây là Tuệ, Ðịnh cùng tu với Giới sẽ đưa đến quả vị lớn, lợi ích lớn. Tuệ
 cùng tu với Ðịnh sẽ đưa đến quả vị lớn, lợi ích lớn. Tâm cùng tu với Tuệ sẽ đưa đến giải thoát hoàn toàn
 các món lậu hoặc, tức là dục lậu, hữu lậu (tri kiến lậu), vô minh lậu.
 
 13\. Rồi Thế Tôn, sau khi ở tại Bhoganagara cho đến khi Ngài xem là vừa đủ, liền bảo tôn giả Ananda:
 
-- Này Ananda, chúng ta sẽ đi đến Pàvà.
+\- Này Ananda, chúng ta sẽ đi đến Pàvà.
 
-- Xin vâng, bạch Thế Tôn!
+\- Xin vâng, bạch Thế Tôn!
 
 Tôn giả Ananda vâng lời Thế Tôn. Và Thế Tôn cùng với đại chúng Tỷ-kheo đi đến Pàvà, tại vườn xoài
 của Cunda, một người thợ sắt.
@@ -1375,19 +1375,19 @@ loại mềm và nhiều thứ Sùkara-maddave (một loại mộc nhĩ), và b�
 18\. Và Thế Tôn buổi sáng đắp y, mang theo y bát, cùng với chúng Tỷ-kheo đến nhà thợ sắt Cunda, khi
 đến xong liền ngồi trên chỗ đã soạn sẵn. Sau khi ngồi. Thế Tôn nói với thợ sắt Cunda:
 
-- Này Cunda, loại mộc nhĩ đã soạn sẵn, hãy dọn cho ta. Còn các món ăn khác đã soạn sẵn, loại cứng và
+\- Này Cunda, loại mộc nhĩ đã soạn sẵn, hãy dọn cho ta. Còn các món ăn khác đã soạn sẵn, loại cứng và
 loại mềm, hãy dọn cho chúng Tỷ-kheo.
-- Xin vâng, bạch Thế Tôn!
+\- Xin vâng, bạch Thế Tôn!
 
 Thợ sắt Cunda vâng lời Thế Tôn, dọn cho Thế Tôn các món mộc nhĩ đã soạn sẵn, và dọn cho chúng Tỷkheo các món ăn khác, loại cứng và loại mềm.
 
 19\. Rồi Thế Tôn nói với thợ sắt Cunda:
 
-- Này Cunda, món ăn mộc nhĩ còn lại. Ngươi hãy đem chôn vào một lỗ. Này Cunda, Ta không thấy một
+\- Này Cunda, món ăn mộc nhĩ còn lại. Ngươi hãy đem chôn vào một lỗ. Này Cunda, Ta không thấy một
 ai ở cõi Trời, cõi Người, ở Ma giới, ở Phạm thiên giới, không một người nào trong chúng Sa-môn và
 chúng Bà-la-môn, giữa những Thiên, Nhân, ăn món mộc nhĩ này mà có thể tiêu hóa được, trừ Như Lai.
 
-- Xin vâng, bạch Thế Tôn!
+\- Xin vâng, bạch Thế Tôn!
 
 Thợ sắt Cunda vâng theo Thế Tôn, đem chôn món ăn mộc nhĩ còn lại vào một lỗ, đi đến chỗ Thế Tôn,
 đảnh lễ Ngài và ngồi xuống một bên. Rồi Thế Tôn thuyết pháp cho thợ sắt Cunda đang ngồi xuống một
@@ -1398,9 +1398,9 @@ bên, khích lệ, làm cho phấn khởi, khiến tâm hoan hỷ rồi từ ch�
 
 Rồi Thế Tôn nói với tôn giả Ananda:
 
-- Này Ananda, chúng ta hãy đi đến Kusinàra.
+\- Này Ananda, chúng ta hãy đi đến Kusinàra.
 
-- Xin vâng, bạch Thế Tôn!
+\- Xin vâng, bạch Thế Tôn!
 
 Tôn giả Ananda vâng lời Thế Tôn.
 
@@ -1413,37 +1413,37 @@ _“Ta đi đến thành Kusinàra”._
 
 21\. Rồi Thế Tôn bước xuống đường, đến một gốc cây và nói với Tôn giả Ananda:
 
-- Này Ananda, hãy xếp tư áo Sanghàti. Ta cảm thấy mệt mỏi và muốn ngồi nghỉ, này Ananda.
+\- Này Ananda, hãy xếp tư áo Sanghàti. Ta cảm thấy mệt mỏi và muốn ngồi nghỉ, này Ananda.
 
-- Xin vâng, bạch Thế Tôn!
+\- Xin vâng, bạch Thế Tôn!
 
 Tôn giả Ananda vâng lời Thế Tôn và xếp tư áo Sanghàti lại.
 
 22\. Thế Tôn ngồi trên chỗ đã soạn sẵn, và nói với Tôn giả Ananda:
 
-- Này Ananda, hãy đem nước cho Ta. Này Ananda, Ta nay đang khát và muốn uống nước.
+\- Này Ananda, hãy đem nước cho Ta. Này Ananda, Ta nay đang khát và muốn uống nước.
 
 Khi được nói vậy, tôn giả Ananda bạch Thế Tôn:
 
-- Bạch Thế Tôn, vừa mới có khoảng năm trăm cỗ xe chạy qua. Do bánh xe khuấy lên, nước trở thành
+\- Bạch Thế Tôn, vừa mới có khoảng năm trăm cỗ xe chạy qua. Do bánh xe khuấy lên, nước trở thành
 nông cạn, khuấy động và vẩn đục. Bạch Thế Tôn, sông Kakutthà không xa ở đây, nước thuần tịnh, dễ
 chịu, mát mẻ, trong sáng, dễ đến và khả ái. Tại đó, Thế Tôn có thể uống nước và làm dịu mát chân tay.
 
 23\. Lần thứ hai, Thế Tôn nói với tôn giả Ananda:
 
-- Này Ananda, hãy đem nước uống cho Ta. Này Ananda, Ta nay đang khát và muốn uống nước.
+\- Này Ananda, hãy đem nước uống cho Ta. Này Ananda, Ta nay đang khát và muốn uống nước.
 
 Lần thứ hai tôn giả Ananda bạch Thế Tôn:
 
-- Bạch Thế Tôn, vừa mới có khoảng năm trăm cỗ xe chạy qua. Do bánh xe khuấy lên, nước trở thành
+\- Bạch Thế Tôn, vừa mới có khoảng năm trăm cỗ xe chạy qua. Do bánh xe khuấy lên, nước trở thành
 nông cạn, khuấy động và vẩn đục. Bạch Thế Tôn, sông Kakutthà không xa ở đây, nước thuần tịnh, dễ
 chịu, mát mẻ, trong sáng, dễ đến và khả ái. Tại đó, Thế Tôn có thể uống nước và làm dịu mát chân tay.
 
 24\. Lần thứ ba, Thế Tôn nói với tôn giả Ananda:
 
-- Này Ananda, hãy đem nước uống cho Ta. Này Ananda, Ta nay đang khát và muốn uống nước.
+\- Này Ananda, hãy đem nước uống cho Ta. Này Ananda, Ta nay đang khát và muốn uống nước.
 
-- Xin vâng, bạch Thế Tôn!
+\- Xin vâng, bạch Thế Tôn!
 
 Tôn giả Ananda vâng lời Thế Tôn, lấy bát và đi đến con sông nhỏ. Con sông đang chảy nông cạn, khuấy
 động và vẩn đục, khi tôn giả Ananda đến, liền trở thành trong trẻo, sáng lặng, không vẩn đục.
@@ -1452,7 +1452,7 @@ Tôn giả Ananda vâng lời Thế Tôn, lấy bát và đi đến con sông nh
 sông nhỏ đang chảy nông cạn, khuấy động và vẩn đục này, khi ta đến, liền trở thành trong trẻo, sáng
 lặng và không vẩn đục”. Sau khi dùng bát lấy nước, tôn giả Ananda đến chỗ Thế Tôn và bạch với Ngài:
 
-- Bạch Thế Tôn, thật là kỳ diệu! Bạch Thế Tôn thật là hy hữu. Bạch Thế Tôn, con sông nhỏ đang chảy
+\- Bạch Thế Tôn, thật là kỳ diệu! Bạch Thế Tôn thật là hy hữu. Bạch Thế Tôn, con sông nhỏ đang chảy
 nông cạn, khuấy động và vẩn đục này, khi con đến, liền trở thành trong trẻo, sáng lặng và không vẩn
 đục. Xin thỉnh Thế Tôn dùng nước. Xin thỉnh Thiện Thệ dùng nước!
 
@@ -1464,7 +1464,7 @@ Kusinàra đến Pàvà.
 Pukkusa, dòng họ Mallà thấy Thế Tôn ngồi dưới gốc cây, liền đến chỗ Thế Tôn, đảnh lễ Ngài và ngồi
 xuống một bên. Sau khi ngồi xuống một bên, Pukkusa, dòng họ Mallà, bạch Thế Tôn:
 
-- Bạch Thế Tôn, thật là kỳ diệu, bạch Thế Tôn thật là hy hữu, trạng thái trầm tĩnh của một vị xuất gia!
+\- Bạch Thế Tôn, thật là kỳ diệu, bạch Thế Tôn thật là hy hữu, trạng thái trầm tĩnh của một vị xuất gia!
 
 27\. Bạch Thế Tôn, thuở xưa, ngài Alàra Kàlàma đang đi trên đường. Rồi ngài bước xuống đường và
 ngồi xuống một gốc cây, không xa con đường để nghỉ trưa. Bạch Thế Tôn, lúc ấy có khoảng năm trăm
@@ -1516,7 +1516,7 @@ nơi Ta, người ấy đảnh lễ Ta, thân phía hữu hướng về phía Ta
 
 34\. Khi được nói vậy, Pukkusa, dòng họ Mallà bạch Thế Tôn:
 
-- Bạch Thế Tôn, sự tin tưởng của con đối với ngài Alàra, Kàlàma, nay con đem rải rắc trước luồng gió
+\- Bạch Thế Tôn, sự tin tưởng của con đối với ngài Alàra, Kàlàma, nay con đem rải rắc trước luồng gió
 lớn, nay con đem thả trôi vào dòng nước cuốn. Kỳ diệu thay, bạch Thế Tôn! Hy hữu thay bạch Thế Tôn!
 Bạch Thế Tôn, như người dựng đứng lại những gì bị quăng ngã xuống, phơi bày ra những gì bị che kín,
 chỉ đường cho người bị lạc hướng, đem đèn sáng vào trong bóng tối để những ai có mắt có thể thấy sắc.
@@ -1531,12 +1531,12 @@ và đem đến một cặp áo màu kim sắc, vàng chói và sẵn sàng đ�
 Rồi Pukkusa, dòng họ Mallà đem dâng một cặp áo màu kim sắc, vàng chói và sẵn sàng để mặc ấy cho
 Thế Tôn và nói:
 
-- Bạch Thế Tôn, cặp áo màu kim sắc, vàng chói và sẵn sàng để mặc. Mong Thế Tôn vì thương xót con
+\- Bạch Thế Tôn, cặp áo màu kim sắc, vàng chói và sẵn sàng để mặc. Mong Thế Tôn vì thương xót con
 mà thâu nhận cho.
 
-- Này Pukkusa, hãy đắp cho Ta một áo và đắp cho Ananda một áo.
+\- Này Pukkusa, hãy đắp cho Ta một áo và đắp cho Ananda một áo.
 
-- Xin vâng, bạch Thế Tôn!
+\- Xin vâng, bạch Thế Tôn!
 
 Pukkusa, dòng họ Mallà vân lời Thế Tôn, đắp một áo cho Ngài và đắp một áo cho tôn giả Ananda.
 
@@ -1549,11 +1549,11 @@ và từ biệt.
 chói và sẵn sàng để mặc này đặt trên thân Thế Tôn, và khi cặp áo này được đặt trên thân Thế Tôn, màu
 sắc sáng chói của áo như bị lu mờ đi. Và Tôn giả Ananda bạch Thế Tôn:
 
-- Bạch Thế Tôn, thật là kỳ diệu, bạch Thế Tôn thật là hy hữu, sự thanh tịnh và sáng chói màu da của
+\- Bạch Thế Tôn, thật là kỳ diệu, bạch Thế Tôn thật là hy hữu, sự thanh tịnh và sáng chói màu da của
 Như Lai! Bạch Thế Tôn, khi con đặt trên thân Thế Tôn, cặp áo màu kim sắc vàng chói và sẵn sàng để
 mặc này, màu sắc sáng chói của áo như bị lu mờ đi.
 
-- Thật vậy, này Ananda. Này Ananda, có hai trường hợp, màu da của Như Lai hết sức thanh tịnh và sáng
+\- Thật vậy, này Ananda. Này Ananda, có hai trường hợp, màu da của Như Lai hết sức thanh tịnh và sáng
 chói. Thế nào là hai? Này Ananda, trong đêm Như Lai chứng vô thượng Chánh Ðẳng Giác và trong đêm
 Như Lai sắp diệt độ, nhập Niết-bàn giới, không còn dư y sanh tử nữa. Này Ananda, đó là hai trường
 hợp, màu da của Như Lai hết sức thanh tịnh và sáng chói.
@@ -1562,7 +1562,7 @@ hợp, màu da của Như Lai hết sức thanh tịnh và sáng chói.
 dòng họ Mallà, giữa hai cây sàla song thọ, Như Lai sẽ diệt độ. Này Ananda, chúng ta hãy đi đến sông
 Kakutthà.
 
-- Xin vâng, bạch Thế Tôn!
+\- Xin vâng, bạch Thế Tôn!
 
 Tôn giả Ananda vâng lời Thế Tôn:
 
@@ -1574,8 +1574,8 @@ _Da Ðạo Sư sáng chói._
 39\. Rồi Thế Tôn cùng với đại chúng Tỷ-kheo đi đến con sông Kakutthà, xuống sông tắm và uống nước
 rồi lội qua bờ bên kia, đi đến rừng xoài và tại đây, nói với đại đức Cundaka:
 
-- Này Cundaka, hãy xếp áo Sanghàti làm bốn cho Ta. Này Cundaka, Ta nay mệt mỏi, muốn nằm nghỉ.
-- Xin vâng, bạch Thế Tôn!
+\- Này Cundaka, hãy xếp áo Sanghàti làm bốn cho Ta. Này Cundaka, Ta nay mệt mỏi, muốn nằm nghỉ.
+\- Xin vâng, bạch Thế Tôn!
 
 Ðại đức Cundaka vâng lời Thế Tôn và xếp áo Sanghàti làm bốn.
 
@@ -1616,7 +1616,7 @@ _Ngồi ngay phía trước mặt._
 
 42\. Rồi Thế Tôn nói với Tôn giả Ananda:
 
-- Này Ananda, rất có thể có người làm cho thợ sắt Cunda hối hận: “Này Hiền giả Cunda, thật không lợi
+\- Này Ananda, rất có thể có người làm cho thợ sắt Cunda hối hận: “Này Hiền giả Cunda, thật không lợi
 ích gì cho Ngươi, thật là tai hại cho Ngươi, vì Như Lai dùng bữa ăn cuối cùng từ Ngươi cúng dường, và
 nhập diệt”. Này Ananda, cần phải làm tiêu tan sự hối hận ấy của thợ sắt Cunda: “Này Hiền giả, thật là
 công đức cho bạn, vì được Như Lai dùng bữa ăn cuối cùng từ bạn cúng dường, và nhập diệt. Này Hiền
@@ -1647,20 +1647,20 @@ _Tâm giải thoát thanh tịnh._
 
 1\. Rồi Thế Tôn nói với Tôn giả Ananda:
 
-- Này Ananda, chúng ta hãy đi qua bờ bên kia sông Hirannavati, đến ở Kusinàrà - Upavatama - rừng
+\- Này Ananda, chúng ta hãy đi qua bờ bên kia sông Hirannavati, đến ở Kusinàrà - Upavatama - rừng
 Sàlà của dòng họ Màllà.
 
-- Xin vâng, bạch Thế Tôn!
+\- Xin vâng, bạch Thế Tôn!
 
 Tôn giả Ananda vâng lời Thế Tôn.
 
 Rồi Thế Tôn, cùng với đại chúng Tỷ-kheo đi đến bên kia sông Hirannavati, tại Kusinàrà Upavattana,
 rừng Sàlà của dòng họ Mallà, khi đi đến nơi liền nói với Tôn giả Ananda:
 
-- Này Ananda, hãy trải chỗ nằm, đầu hướng về phía Bắc giữa hai cây sàlà song thọ: này Ananda, Ta nay
+\- Này Ananda, hãy trải chỗ nằm, đầu hướng về phía Bắc giữa hai cây sàlà song thọ: này Ananda, Ta nay
 mệt mỏi, muốn nằm nghỉ.
 
-- Xin vâng, bạch Thế Tôn!
+\- Xin vâng, bạch Thế Tôn!
 
 Tôn giả Ananda vâng lời Thế Tôn, trải chỗ nằm, đầu hướng về phía Bắc giữa hai cây sàlà song thọ. Và
 Thế Tôn nằm xuống, về phía hông bên phải, như dáng nằm con sư tử, hai chân để lên nhau chánh niệm
@@ -1713,7 +1713,7 @@ Ananda, các chư Thiên than phiền như vậy.
 
 6\. -- Bạch Thế Tôn, Thế Tôn đang nghĩ đến hạng chư Thiên nào?
 
-- Này Ananda, có hạng chư Thiên ở trên hư không nhưng có tâm tư thế tục, những vị này khóc than, ới
+\- Này Ananda, có hạng chư Thiên ở trên hư không nhưng có tâm tư thế tục, những vị này khóc than, ới
 đầu bù tóc rối, khóc than với cánh tay duỗi cao, khóc than thân bổ nhoài dưới đất, lăn lộn qua lại: “Thế
 Tôn nhập diệt quá sớm, Thiện Thệ nhập diệt quá sớm, Pháp nhãn biến mất ở trên đời quá sớm”.
 
@@ -1907,10 +1907,10 @@ mười là lời kêu gọi: “Hãy uống đi, hãy ăn đi”.
 19\. Này Ananda, hãy đi vào Kusinàrà và nói với dân Mallà Kusinàrà: “Này các Vàsetthà, đêm nay, vào
 canh cuối cùng, Như Lai sẽ diệt độ”.
 
-- Này Vàsetthà, các Ngươi hãy đến. Này Vàsetthà, các Ngươi hãy đến. Về sau chớ có hối hận: “Như Lai
+\- Này Vàsetthà, các Ngươi hãy đến. Này Vàsetthà, các Ngươi hãy đến. Về sau chớ có hối hận: “Như Lai
 đã diệt độ tại làng vườn chúng ta mà chúng ta không được chiêm ngưỡng Như Lai”.
 
-- Thưa vâng, bạch Thế Tôn!
+\- Thưa vâng, bạch Thế Tôn!
 
 Tôn giả Ananda vâng lời Thế Tôn, đắp y, đem theo y bát và cùng một vị khác làm bạn đồng hành đi vào
 Kusinàrà.
@@ -1918,7 +1918,7 @@ Kusinàrà.
 20\. Lúc bấy giờ, dân Mallà ở Kusinàrà đang tụ họp tại giảng đường vì một vài công sự. Tôn giả Ananda
 đến tại giảng đường của dân Mallà ở Kusinàrà. Sau khi đến, tôn giả liền nói vói dân Mallà ở Kusinàrà:
 
-- Này Vàsetthà, đêm nay, vào canh cuối cùng Như Lai sẽ diệt độ, Này Vàsetthà, các Ngươi hãy đến. Này
+\- Này Vàsetthà, đêm nay, vào canh cuối cùng Như Lai sẽ diệt độ, Này Vàsetthà, các Ngươi hãy đến. Này
 Vàsetthà, các Ngươi hãy đến. Về sau chớ có hối hận: “Như Lai đã diệt độ tại làng vườn chúng ta mà
 chúng ta không được chiêm ngưỡng Như Lai”.
 
@@ -1934,7 +1934,7 @@ khu rừng Sàlà của dòng họ Mallà và đến chỗ tôn giả Ananda.
 đêm sẽ tàn trước khi Thế Tôn được tất cả dân Mallà đảnh lễ. Vậy ta hãy để dân Mallà ở Kusinàrà đảnh
 lễ theo từng gia tộc”.
 
-- Bạch Thế Tôn, gia tộc Mallà này với vợ con, đồ chúng, bạn bè đến cúi đầu đảnh lễ chân Thế Tôn.
+\- Bạch Thế Tôn, gia tộc Mallà này với vợ con, đồ chúng, bạn bè đến cúi đầu đảnh lễ chân Thế Tôn.
 
 Và tôn giả Ananda, theo phương tiện này trong canh một, khiến dân Mallà ở Kusinàrà đảnh lễ Thế Tôn.
 
@@ -1949,51 +1949,51 @@ Gotama có thể thuyết pháp và giải được nghi vấn cho ta”.
 24\. Rồi du sĩ ngoại đạo Subhadda đi đến Upavattana, khu rừng Sàla của dân Mallà, đến tại chỗ tôn giả
 Ananda và thưa với tôn giả:
 
-- Hiền giả Ananda, tôi nghe các du sĩ ngoại đạo, niên cạo lạp lớn, sư trưởng và đệ tử nói rằng: “Như Lai,
+\- Hiền giả Ananda, tôi nghe các du sĩ ngoại đạo, niên cạo lạp lớn, sư trưởng và đệ tử nói rằng: “Như Lai,
 Ứng Cúng, Chánh Biến Tri xuất hiện ra đời thật là hy hữu, và đêm nay, vào canh cuối cùng, Sa-môn
 Gotama sẽ diệt độ”. Nay có nghi vấn này khởi lên trong tâm tôi. Tôi tin Sa-môn Gotama có thể thuyết
 pháp giải được nghi vấn cho tôi. Hiền giả Ananda, hãy cho phép tôi được yết kiến Sa-môn Gotama.
 
 Khi được nói vậy, tôn giả Ananda nói với du sĩ ngoại đạo Subhadda:
 
-- Thôi đi Hiền giả Subhadda, chớ có phiền nhiễu Như Lai. Thế Tôn đang mệt.
+\- Thôi đi Hiền giả Subhadda, chớ có phiền nhiễu Như Lai. Thế Tôn đang mệt.
 
 Lần thứ hai, du sĩ ngoại đạo Subhadda ... Lần thứ ba, du sĩ ngoại đạo Subhadda nói với tôn giả Ananda:
 
-- Hiền giả Ananda, tôi nghe các du sĩ ngoại đạo, niên cạo lạp lớn, sư trưởng và đệ tử nói rằng: “Như Lai,
+\- Hiền giả Ananda, tôi nghe các du sĩ ngoại đạo, niên cạo lạp lớn, sư trưởng và đệ tử nói rằng: “Như Lai,
 Ứng Cúng, Chánh Biến Tri xuất hiện ra đời thật là hy hữu, và đêm nay, vào canh cuối cùng, Sa-môn
 Gotama sẽ diệt độ”. Nay có nghi vấn này khởi lên trong tâm tôi. Tôi tin Sa-môn Gotama có thể thuyết
 pháp giải được nghi vấn cho tôi. Hiền giả Ananda, hãy cho phép tôi được yết kiến Sa-môn Gotama.
 
 Lần thứ ba, tôn giả Ananda nói với du sĩ ngoại đạo Subhadda:
 
-- Thôi đi Hiền giả Subhadda, chớ có phiền nhiễu Như Lai. Thế Tôn đang mệt.
+\- Thôi đi Hiền giả Subhadda, chớ có phiền nhiễu Như Lai. Thế Tôn đang mệt.
 
 25\. Thế Tôn nghe được câu chuyện của tôn giả Ananda với du sĩ ngoại đạo Subhadda, Ngài liền nói với
 tôn giả Ananda:
 
-- Thôi Ananda, chớ có ngăn trở Subhadda, Ananda, hãy để cho Subhadda được phép yết kiến Như Lai.
+\- Thôi Ananda, chớ có ngăn trở Subhadda, Ananda, hãy để cho Subhadda được phép yết kiến Như Lai.
 Những gì Subhadda hỏi Ta là hỏi để hiểu biết chớ không phải để phiền nhiễu Ta. Và những gì ta trả lời
 các câu hỏi, Subhadda sẽ hiểu ý nghĩa một cách mau lẹ.
 
 Tôn giả Ananda liền nói với du sĩ ngoại đạo Subhadda:
 
-- Này Hiền giả Subhadda, hãy vào. Thế Tôn đã cho phép Hiền giả.
+\- Này Hiền giả Subhadda, hãy vào. Thế Tôn đã cho phép Hiền giả.
 
 26\. Rồi du sĩ ngoại đạo Subhadda đến chỗ Thế Tôn, nói lên những lời chúc tụng hỏi thăm xã giao, rồi
 ngồi xuống một bên. Sau khi ngồi một bên, du sĩ ngoại đạo Subhadda bạch Thế Tôn:
 
-- Tôn giả Gotama, có những Sa-môn, Bà-la-môn là những vị hội chủ, vị giáo trưởng, vị sư trưởng giáo
+\- Tôn giả Gotama, có những Sa-môn, Bà-la-môn là những vị hội chủ, vị giáo trưởng, vị sư trưởng giáo
 hội, có tiếng tốt, có danh vọng, khai tổ giáo phái, được quần chúng tôn sùng, như các ngài Pàrana
 Kassapa, Makkhali Gosàla, Ajita Kesakambalì, Pakadha Kaccàyana, Sanjaya Belatthiputta, Nigantha
 Nàthaputta, tất cả những vị này có phải là giác ngộ như các vị đã tự cho như vậy, hay tất cả chưa giác
 ngộ, hay một số đã giác ngộ và một số chưa giác ngộ?
 
-- Thôi Subhadda, hãy để vấn đề này yên một bên: “Tất cả những vị này có phải là đã giác ngộ như các vị
+\- Thôi Subhadda, hãy để vấn đề này yên một bên: “Tất cả những vị này có phải là đã giác ngộ như các vị
 đã tự cho như vậy, hay tất cả chưa giác ngộ, hay một số đã giác ngộ và một số chưa giác ngộ”. Này
 Subhadda, Ta sẽ thuyết pháp cho Ngươi. Hãy nghe và suy nghiệm kỹ, Ta sẽ giảng.
 
-- Thưa vâng, bạch Thế Tôn!
+\- Thưa vâng, bạch Thế Tôn!
 
 Du sĩ ngoại đạo Subhadda vâng lời Thế Tôn. Thế Tôn nói như sau:
 
@@ -2015,11 +2015,11 @@ Subhadda, nếu những Tỷ-kheo sống chơn chánh, thì đời này không v
 
 28\. Khi được nói vậy, du sĩ ngoại đạo Subhadda bạch Thế Tôn:
 
-- Thật hy hữu thay, bạch Thế Tôn! Thật vi diệu thay, bạch Thế Tôn! Như người dựng đứng lại những gì
+\- Thật hy hữu thay, bạch Thế Tôn! Thật vi diệu thay, bạch Thế Tôn! Như người dựng đứng lại những gì
 bị quăng ngã xuống, phơi bày ra những gì bị che kín, chỉ đường cho người bị lạc hướng, đem đèn sáng
 vào trong bóng tối để những ai có mắt có thể thấy sắc. Cũng vậy, chánh pháp đã được Thế Tôn dùng
 nhiều phương tiện trình bày, giải thích. Bạch Thế Tôn, con xin quy y Thế Tôn, quy y Pháp và quy y Tỷkheo Tăng. Mong con được xuất gia với Thế Tôn. Con xin thọ đại giới.
-- Này Subhadda, ai trước kia là ngoại đạo, nay muốn xuất gia muốn thọ đại giới trong Pháp, Luật này
+\- Này Subhadda, ai trước kia là ngoại đạo, nay muốn xuất gia muốn thọ đại giới trong Pháp, Luật này
 phải sống bốn tháng biệt trú. Sau khi sống bốn tháng biệt trú, các vị Tỷ-kheo nếu đồng ý sẽ cho xuất gia,
 cho thọ đại giới để thành vị Tỷ-kheo. Nhưng Ta nhận thấy cá tánh con người sai biệt nhau.
 
@@ -2030,15 +2030,15 @@ năm, nếu các vị Tỷ-kheo đồng ý, hãy cho con xuất gia, cho con th�
 
 Và Thế Tôn nói với tôn giả Ananda:
 
-- Này Ananada, hãy xuất gia cho Subhadda.
+\- Này Ananada, hãy xuất gia cho Subhadda.
 
-- Xin vâng, bạch Thế Tôn!
+\- Xin vâng, bạch Thế Tôn!
 
 Tôn giả Ananda vâng lời Thế Tôn.
 
 30\. Du sĩ ngoại đạo Subhadda nói với tôn giả Ananda:
 
-- Thật là lợi ích, thưa Tôn giả Ananda, thật là thiện lợi, thưa Tôn giả Ananda, được thọ lễ quán đảnh làm
+\- Thật là lợi ích, thưa Tôn giả Ananda, thật là thiện lợi, thưa Tôn giả Ananda, được thọ lễ quán đảnh làm
 đệ tử trước mặt bậc Ðạo Sư!
 
 Và du sĩ ngoại đạo Subhadda được xuất gia được thọ đại giới với Thế Tôn. Thọ đại giới không bao lâu,
@@ -2053,7 +2053,7 @@ Và đại đức Subhadda trở thành một A-la-hán nữa. Ðại đức là
 
 1\. Lúc bấy giờ, Thế Tôn nói với Tôn giả Ananda:
 
-- Này Ananda, nếu trong các ngươi có người nghĩ rằng: “Lời nói của bậc Ðạo sư không còn nữa. Chúng
+\- Này Ananda, nếu trong các ngươi có người nghĩ rằng: “Lời nói của bậc Ðạo sư không còn nữa. Chúng
 ta không có Ðạo sư (giáo chủ)”. Này Ananda, chớ có những tư tưởng như vậy. Này Ananda, Pháp và
 Luật, Ta đã giảng dạy và trình bày, sau khi Ta diệt độ, chính Pháp và Luật ấy sẽ là Ðạo Sư của các
 Ngươi.
@@ -2067,21 +2067,21 @@ hay Ðại đức.
 tiết.
 
 4\. Này Ananda, sau khi Ta diệt độ, hãy hành tội Phạm đàn (Brahmadanda) đối với Tỷ-kheo Channa.
-- Bạch Thế Tôn, thế nào là Phạm đàn?
+\- Bạch Thế Tôn, thế nào là Phạm đàn?
 
-- Này Ananda, Tỷ-kheo Channa muốn nói gì thì nói. Chúng Tỷ-kheo sẽ không nói, sẽ không giảng dạy,
+\- Này Ananda, Tỷ-kheo Channa muốn nói gì thì nói. Chúng Tỷ-kheo sẽ không nói, sẽ không giảng dạy,
 sẽ không giáo giới Tỷ-kheo Channa.
 
 5\. Rồi Thế Tôn nói với các Tỷ-kheo:
 
-- Này các Tỷ-kheo, nếu có Tỷ-kheo nào nghi ngờ hay phân vân gì về đức Phật, Pháp, chúng Tăng, đạo
+\- Này các Tỷ-kheo, nếu có Tỷ-kheo nào nghi ngờ hay phân vân gì về đức Phật, Pháp, chúng Tăng, đạo
 hay phương pháp, thời này các Tỷ-kheo các Người hãy hỏi đi. Sau chớ có hối tiếc: “Bậc Ðạo Sư có mặt
 trước chúng ta mà chúng ta không tận mặt hỏi Thế Tôn”.
 
 Khi được nói vậy, các Tỷ-kheo ấy im lặng. Một lần thứ hai, Thế Tôn.... Một lần thứ ba, Thế Tôn nói với
 các Tỷ-kheo:
 
-- Này các Tỷ-kheo, nếu có một Tỷ-kheo có nghi ngờ hay phân vân gì về đức Phật, Pháp, chúng Tăng,
+\- Này các Tỷ-kheo, nếu có một Tỷ-kheo có nghi ngờ hay phân vân gì về đức Phật, Pháp, chúng Tăng,
 đạo hay phương pháp, thời này các Tỷ-kheo, các ngươi hãy hỏi đi. Sau chớ có hối tiếc: “Bậc Ðạo Sư có
 mặt trước chúng ta mà chúng ta không tận mặt hỏi Thế Tôn”.
 
@@ -2089,25 +2089,25 @@ Lần thứ ba, các Tỷ-kheo ấy giữ im lặng.
 
 Rồi Thế Tôn nói với các Tỷ-kheo:
 
-- Này các Tỷ-kheo, nếu có vị nào vì lòng kính trọng bậc Ðạo Sư mà không hỏi, thời này các Tỷ-kheo,
+\- Này các Tỷ-kheo, nếu có vị nào vì lòng kính trọng bậc Ðạo Sư mà không hỏi, thời này các Tỷ-kheo,
 giữa bạn đồng tu, hãy hỏi nhau.
 
 Khi được nói vậy, những vị Tỷ-kheo ấy giữ im lặng.
 
 6\. Rồi tôn giả Ananda bạch Thế Tôn:
 
-- Bạch Thế Tôn, thật kỳ diệu thay, bạch Thế Tôn, thật hy hữu thay! Bạch Thế Tôn, con tin rằng trong
+\- Bạch Thế Tôn, thật kỳ diệu thay, bạch Thế Tôn, thật hy hữu thay! Bạch Thế Tôn, con tin rằng trong
 chúng Tỷ-kheo này, không có một Tỷ-kheo nào có nghi ngờ hay phân vân gì đối với Phật, Pháp, chúng
 Tăng, đạo hay phương pháp.
 
-- Này Ananda, ngươi có tín nhiệm nên nói vậy. Nhưng ở đây, này Ananda, Như Lai biết rằng trong
+\- Này Ananda, ngươi có tín nhiệm nên nói vậy. Nhưng ở đây, này Ananda, Như Lai biết rằng trong
 chúng Tỷ-kheo này, không có một Tỷ-kheo nào có nghi ngờ hay phân vân gì đối với Phật, Pháp, chúng
 Tăng, đạo hay phương pháp. Này Ananda, trong năm trăm Tỷ-kheo này, Tỷ-kheo thấp nhất đã chứng
 được quả Dự lưu, không còn đọa lạc, chắc chắn hướng đến Chánh giác.
 
 7\. Và Thế Tôn nói với các Tỷ-kheo:
 
-- Này các Tỷ-kheo, nay Ta khuyên dạy các ngươi: “Các pháp hữu vi là vô thường, hãy tinh tấn, chớ có
+\- Này các Tỷ-kheo, nay Ta khuyên dạy các ngươi: “Các pháp hữu vi là vô thường, hãy tinh tấn, chớ có
 phóng dật”.
 
 Ðó là lời cuối cùng Như Lai.
@@ -2119,9 +2119,9 @@ xứ. Xuất Vô Sở hữu xứ, Ngài nhập định Phi tưởng phi phi tư�
 Ngài nhập Diệt thọ tưởng định.
 Khi ấy tôn giả Ananda nói với tôn giả Anuruddha:
 
-- Thưa Tôn giả, Thế Tôn đã diệt độ.
+\- Thưa Tôn giả, Thế Tôn đã diệt độ.
 
-- Này Hiền giả Ananda, Thế Tôn chưa diệt độ. Ngài mới nhập Diệt thọ tưởng định.
+\- Này Hiền giả Ananda, Thế Tôn chưa diệt độ. Ngài mới nhập Diệt thọ tưởng định.
 
 9\. Rồi xuất Diệt thọ tưởng định, Ngài nhập Phi tưởng phi phi tưởng xứ định. Xuất Phi tưởng phi phi
 tưởng xứ, Ngài nhập Vô sở hữu xứ định. Xuất Vô sở hữu xứ, Ngài nhập Thức vô biên xứ định. Xuất
@@ -2174,14 +2174,14 @@ sự kiện ấy?”
 
 11\. Lúc bấy giờ, tôn giả Anuruddha nói với các Tỷ-kheo:
 
-- Thôi các Hiền giả, chớ có sầu não, chớ có khóc than. Này các Hiền giả, phải chăng Thế Tôn đã tuyên
+\- Thôi các Hiền giả, chớ có sầu não, chớ có khóc than. Này các Hiền giả, phải chăng Thế Tôn đã tuyên
 bố ngay từ ban đầu rằng mọi vật ưu ái thân tình đều phải sanh biệt, tử biệt và dị biệt. Này các Hiền giả,
 làm sao có thể được như vầy:”Những gì sanh, tồn tại, hữu vi, chịu sự biến hoại mà lại mong khỏi có sự
 biến dịch? Thật không có sự trạng ấy”. Này các Hiền giả, chính chư Thiên đang trách đó.
 
-- Thưa Tôn giả Anuruddha, Tôn giả đang nghĩ đến hạng chư Thiên nào?
+\- Thưa Tôn giả Anuruddha, Tôn giả đang nghĩ đến hạng chư Thiên nào?
 
-- Hiền giả Ananda, có hạng chư Thiên ở trên hư không nhưng có tâm tư thế tục, những vị này khóc than
+\- Hiền giả Ananda, có hạng chư Thiên ở trên hư không nhưng có tâm tư thế tục, những vị này khóc than
 với đầu bù tóc rối, khóc than với cánh tay duỗi cao, khóc than thân bổ nhoài dưới đất, lăn lộn qua lại:
 “Thế Tôn nhập diệt quá sớm, Thiện Thệ nhập diệt quá sớm, Pháp nhãn biến mất ở trên đời quá sớm”.
 
@@ -2194,10 +2194,10 @@ thường, làm sao có thể khác được?”
 12\. Tôn giả Anuruddha và tôn giả Ananda luận bàn về Chánh pháp suốt cả đêm còn lại. Rồi tôn giả
 Anuruddha nói với tôn giả Ananda:
 
-- Hiền giả Ananda, hãy vào thành Kusinàrà: “Này Vàsetthà, Thế Tôn đã diệt độ, hãy làm những gì các
+\- Hiền giả Ananda, hãy vào thành Kusinàrà: “Này Vàsetthà, Thế Tôn đã diệt độ, hãy làm những gì các
 ngươi nghĩ phải làm”.
 
-- Tôn giả, xin vâng!
+\- Tôn giả, xin vâng!
 
 Tôn giả Ananda vâng lời tôn giả Anuruddha, buổi sáng đắp y, đem theo y bát cùng một thị giả, vào
 thành Kusinàrà.
@@ -2232,14 +2232,14 @@ xá lợi Thế Tôn ra ngoài thành về phía Nam và làm lễ thiêu thân 
 Lúc bấy giờ tám vị tộc trưởng Mallà gội đầu, mặc áo mới với ý định khiêng nổi thân xá lợi Như Lai
 nhưng khiêng không nổi được. Các vị Mallà ở Kusinàrà bạch Tôn giả Anuruddha:
 
-- Bạch Tôn giả, do nhân gì, do duyên gì tám vị tộc trưởng Mallà này gội đầu, mặc áo mới với ý định
+\- Bạch Tôn giả, do nhân gì, do duyên gì tám vị tộc trưởng Mallà này gội đầu, mặc áo mới với ý định
 khiêng nổi thân xá lợi Như Lai, nhưng không khiêng nổi được?
 
-- Này Vàsetthà, vì ý định của các Ngươi khác, ý định của chư Thiên khác.
+\- Này Vàsetthà, vì ý định của các Ngươi khác, ý định của chư Thiên khác.
 
 15\. - Bạch Tôn giả, ý định của chư Thiên là gì?
 
-- Này các Vàsetthà, ý định của các Ngươi như sau:
+\- Này các Vàsetthà, ý định của các Ngươi như sau:
 
 “Chúng ta đã tôn trọng, cung kính, đảnh lễ, cúng dường thân xá lợi Thế Tôn với các điệu múa, hát, nhạc,
 tràng hoa, hương. Nay chúng ta hãy chở thân xá lợi Thế Tôn ra ngoài thành về phía Nam và làm lễ thiêu
@@ -2252,7 +2252,7 @@ Bắc, hãy khiêng qua Trung tâm của thành, rồi hướng về phía Ðôn
 Sau khi khiêng qua cửa phía Ðông, hãy khiêng đến phía Ðông của thành, tại đền của dân Mallà tên là
 Makuta-bandhana và chúng ta sẽ thiêu thân Thế Tôn tại chỗ ấy”.
 
-- Bạch Tôn giả, ý định của chư Thiên thế nào, ý định của chúng con cũng vậy.
+\- Bạch Tôn giả, ý định của chư Thiên thế nào, ý định của chúng con cũng vậy.
 
 16\. Lúc ấy, khắp cả Kusinàrà cho đến đống bụi, đống rác, được rải la liệt lên đến đầu gối toàn hoa
 Mandaràva. Rồi chư Thiên và các dân Mallà ở Kusinàrà, sau khi đã tôn trọng, cung kính, đảnh lễ, cúng
@@ -2264,13 +2264,13 @@ cửa phía Ðông, liền khiêng đến phía Ðông của thành, tại đề
 
 17\. Rồi dân Mallà bạch tôn giả Ananda:
 
-- Bạch Tôn giả Ananda, chúng con nay phải xử sự như thế nào đối với thân xá lợi Như Lai?
-- Này các Vàsetthà, xử sự thân Chuyển luân Thánh vương như thế nào, hãy xử sự thân xá lợi Như Lai
+\- Bạch Tôn giả Ananda, chúng con nay phải xử sự như thế nào đối với thân xá lợi Như Lai?
+\- Này các Vàsetthà, xử sự thân Chuyển luân Thánh vương như thế nào, hãy xử sự thân xá lợi Như Lai
 như vậy.
 
-- Bạch Tôn giả Ananda, xử sự thân Chuyển luân Thánh vương phải như thế nào?
+\- Bạch Tôn giả Ananda, xử sự thân Chuyển luân Thánh vương phải như thế nào?
 
-- Này cá Vàsetthà, thân Chuyển luân Thánh vương được vấn tròn với vải mới. Sau khi vấn vải mới, lại
+\- Này cá Vàsetthà, thân Chuyển luân Thánh vương được vấn tròn với vải mới. Sau khi vấn vải mới, lại
 được vấn thêm với vải gai bện. Sau khi vấn với vải gai bện, lại vấn thêm với vải mới và tiếp tục như vậy
 cho đến năm trăm lớp cả hai loại vải. Rồi thân được đặt trong một hòm dầu bằng sắt, hòm sắt này được
 một hòm sắt khác đậy kín. Xong một giàn hỏa gồm mọi loại hương được xây dựng lên, thân vị Chuyển
@@ -2284,7 +2284,7 @@ tháp), thời những người ấy sẽ được lợi ích, hạnh phúc lâu
 
 18\. Và các người Mallà ở Kusinàrà sai những người làm công:
 
-- Hãy đem lại tất cả vải gai bện của Mallà .
+\- Hãy đem lại tất cả vải gai bện của Mallà .
 
 Rồi những người Mallà ở Kusinàrà vấn tròn thân Thế Tôn với vải mới. Sau khi vấn vải mới xong, lại
 vấn thêm với vải gai bện. Sau khi vấn với vải gai bện lại vấn thêm với vải mới và tiếp tục như vậy cho
@@ -2300,9 +2300,9 @@ Lúc bấy giờ có một tà mạng ngoại đạo lấy một hoa Mandàrava 
 Tôn giả Mallà Kassapa thấy tà mạng ngoại đạo đi từ đàng xa đến. Thấy vậy, tôn giả liền hỏi tà mạng
 ngoại đạo ấy:
 
-- Này Hiền giả, Hiền giả có biết bậc Ðạo sư chúng tôi không?
+\- Này Hiền giả, Hiền giả có biết bậc Ðạo sư chúng tôi không?
 
-- Này Hiền giả, tôi có biết. Sa-môn Gotama đã diệt độ cách hôm nay một tuần. Từ chỗ ấy, tôi được hoa
+\- Này Hiền giả, tôi có biết. Sa-môn Gotama đã diệt độ cách hôm nay một tuần. Từ chỗ ấy, tôi được hoa
 Mandàrava này.
 
 Lúc ấy những Tỷ-kheo chưa giải thoát tham ái, có vị thì khóc than với cánh tay duỗi cao, có vị thì khóc
@@ -2313,7 +2313,7 @@ trú chánh niệm, tỉnh giác nhẫn nại suy tư: “Các hành là vô th�
 20\. Lúc bấy giờ, Subhadda được xuất gia khi đã lớn tuổi đang ngồi trong hội chúng này. Subhadda được
 xuất gia khi đã lớn tuổi nói với những Tỷ-kheo ấy:
 
-- Thôi các Hiền giả, chớ có sầu não, chớ có khóc than. Chúng ta đã được thoát khỏi hoàn toàn vị Ðại Sa
+\- Thôi các Hiền giả, chớ có sầu não, chớ có khóc than. Chúng ta đã được thoát khỏi hoàn toàn vị Ðại Sa
 
 -----
 
@@ -2323,7 +2323,7 @@ không muốn, chúng ta không làm.
 
 Tôn giả Mahà Kassapa mới nói với các vị Tỷ-kheo:
 
-- Thôi các Hiền giả, chớ có sầu não, chớ có khóc than. Này các Hiền giả, phải chăng Thế Tôn đã tuyên
+\- Thôi các Hiền giả, chớ có sầu não, chớ có khóc than. Này các Hiền giả, phải chăng Thế Tôn đã tuyên
 bố ngay từ ban đầu rằng mọi vật ưu ái thân tình đều phải bị sanh biệt, tử biệt và dị biệt. Này các Hiền
 giả, làm sao có thể được như vầy: Những gì sanh, tồn tại, hữu vi, chịu sự biến hoại mà lại mong khỏi có
 sự biến dịch? Thật không có sự trạng ấy.
@@ -2333,18 +2333,18 @@ Tôn nhưng châm lửa không cháy.
 
 Các vị Mallà ở Kusinàrà bạch tôn giả Anuruddha:
 
-- Bạch Tôn giả, do nhân gì, do duyên gì, bốn vị tộc trưởng Mallà này gội đầu, mặc áo mới với ý định
+\- Bạch Tôn giả, do nhân gì, do duyên gì, bốn vị tộc trưởng Mallà này gội đầu, mặc áo mới với ý định
 châm lửa thiêu giàn hỏa Thế Tôn, nhưng châm lửa không cháy?
 
-- Này các Vàsetthà, ý định của chư Thiên khác.
+\- Này các Vàsetthà, ý định của chư Thiên khác.
 
-- Bạch Tôn giả, ý định của chư Thiên như thế nào?
+\- Bạch Tôn giả, ý định của chư Thiên như thế nào?
 
-- Này các vàsetthà, ý định của chư Thiên như sau: “Tôn giả Mahà Kassapa nay đang đi giữa đường giữa
+\- Này các vàsetthà, ý định của chư Thiên như sau: “Tôn giả Mahà Kassapa nay đang đi giữa đường giữa
 Pàvà và Kusinàrà cùng với đại chúng Tỷ-kheo khoảng năm trăm vị. Giàn hỏa Thế Tôn chỉ được đốt
 cháy khi tôn giả Mahà Kassapa cúi đầu đảnh lễ Thế Tôn”.
 
-- Bạch Tôn giả, ý định chư Thiên như thế nào, hãy làm y như vậy.
+\- Bạch Tôn giả, ý định chư Thiên như thế nào, hãy làm y như vậy.
 
 22\. Rồi Tôn giả Mahà Kassapa đến tại đền Makuta Bandhana của những vị Mallà tại giàn hỏa Thế Tôn,
 khi đến xong liền choàng áo phía một bên vai, chấp tay, đi nhiễu phía tay phải xung quanh giàn hỏa ba
@@ -2407,7 +2407,7 @@ Tôn”.
 
 25\. Khi được nói vây các người Mallà ở Kusinàrà liền tuyên bố giữa đại chúng:
 
-- Thế Tôn đã diệt độ tại làng vườn của chúng tôi, chúng tôi sẽ không cho phần xá lợi nào của Thế Tôn.
+\- Thế Tôn đã diệt độ tại làng vườn của chúng tôi, chúng tôi sẽ không cho phần xá lợi nào của Thế Tôn.
 
 Khi nghe vậy. Bà-la-môn Dona nói với chúng:
 
@@ -2420,14 +2420,14 @@ _Hoan hỷ chia xá lợi tám phần._
 _Chúng ta hãy dựng tháp mọi phương,_
 _Ðại chúng mười phương tin Pháp nhãn..._
 
-- Này Tôn giả Bà-la-môn, Ngài hãy phân chia xá lợi ra tám phần đồng đều.
+\- Này Tôn giả Bà-la-môn, Ngài hãy phân chia xá lợi ra tám phần đồng đều.
 
-- Xin vâng, các Tôn giả.
+\- Xin vâng, các Tôn giả.
 
 Bà-la-môn Dona vâng lời hội chúng ấy, phân chia xá-lợi Thế Tôn thành tám phần đồng đều rồi thưa hội
 chúng:
 
-- Các Tôn giả, hãy cho tôi cái bình dùng để đông chia xá-lợi này. Tôi sẽ dựng tháp và tổ chức các nghi
+\- Các Tôn giả, hãy cho tôi cái bình dùng để đông chia xá-lợi này. Tôi sẽ dựng tháp và tổ chức các nghi
 lễ cho cái bình.
 
 Và hội chúng ấy tặng Bà-la-môn Dona cái bình.

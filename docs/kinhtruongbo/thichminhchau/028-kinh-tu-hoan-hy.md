@@ -6,11 +6,11 @@
 1\. Một thời, Thế Tôn ở tại Nàlandà, trong rừng Pàvàrikambavana. Lúc bấy giờ, tôn giả Sàriputta (Xálợi-phất) đến tại chỗ Thế Tôn ở, đảnh lễ Thế Tôn và ngồi xuốn một bên. Khì ngồi xuống một bên, tôn
 giả Sàriputta bạch Thế Tôn!
 
-- Bạch Thế Tôn, con tin tưởng Thế Tôn đến nỗi con nghĩ rằng ở quá khứ, ở tương lai cũng như ở hiện
+\- Bạch Thế Tôn, con tin tưởng Thế Tôn đến nỗi con nghĩ rằng ở quá khứ, ở tương lai cũng như ở hiện
 tại, không thể có một vị Sa môn, một vị Bà-la-môn khác nào có thể vĩ đại hơn Thế Tôn, sáng suốt hơn
 Thế Tôn, về phương diện giác ngộ.
 
-- Này Sàriputta, lời nói của Ngươi thật là đại ngôn, thật là gan dạ. Ngươi thật là rống tiếng rống con sư
+\- Này Sàriputta, lời nói của Ngươi thật là đại ngôn, thật là gan dạ. Ngươi thật là rống tiếng rống con sư
 tử khi Ngươi nói: “Bạch Thế Tôn, con tin tưởng Thế Tôn đến nỗi con nghĩ rằng, ở quá khứ, ở tương lai
 cũng như ở hiện tại, không thể có một vị Sa môn, một vị Bà-la-môn nào có thể vĩ đại hơn Thế Tôn, sáng
 suốt hơn Thế Tôn, về phương diện giác ngộ.” Này Sàriputta, có phải Ngươi đã được biết, trong quá khứ,
@@ -18,23 +18,23 @@ các vị A-la-hán, Chánh Ðẳng Giác, với tâm của Ngươi biết đư�
 đức chư vị Thế Tôn là như vậy, Pháp chư vị Thế Tôn là như vậy, Trí tuệ chư vị Thế Tôn là như vậy, An
 trú chư vị Thế Tôn là như vậy, Giải thoát chư vị Thế Tôn là như vậy?
 
-- Bạch Thế Tôn, không!
+\- Bạch Thế Tôn, không!
 
-- Này Sàriputta, có phải Ngươi đã được biết, trong tương lai, các vị A-la-hán, Chánh Ðẳng Giác, với tâm
+\- Này Sàriputta, có phải Ngươi đã được biết, trong tương lai, các vị A-la-hán, Chánh Ðẳng Giác, với tâm
 của Ngươi biết được tâm của tất cả các vị Thế Tôn - Giới đức chư vị Thế Tôn là như vậy, Pháp chư vị
 Thế Tôn là như vậy, Trí tuệ chư vị Thế Tôn là như vậy, An trú chư vị Thế Tôn là như vậy, Giải thoát
 chư vị Thế Tôn là như vậy?
 
-- Bạch Thế Tôn, không!
+\- Bạch Thế Tôn, không!
 
-- Này Sàriputta, có phải Ngươi đã được biết, trong hiện tại Ta là vị A-la-hán, Chánh Ðẳng Giác, với tâm
+\- Này Sàriputta, có phải Ngươi đã được biết, trong hiện tại Ta là vị A-la-hán, Chánh Ðẳng Giác, với tâm
 của Ngươi biết được tâm của Thế Tôn - Giới đức chư vị Thế Tôn là như vậy, Pháp chư vị Thế Tôn là
 như vậy, Trí tuệ chư vị Thế Tôn là như vậy, An trú chư vị Thế Tôn là như vậy, Giải thoát Thế Tôn là
 như vậy?
 
-- Bạch Thế Tôn, không!
+\- Bạch Thế Tôn, không!
 
-- Này Sàriputta, hãy xem! Ngươi không có trí tuệ biết được tâm tư của chư vị A-la-hán, Chánh Ðẳng
+\- Này Sàriputta, hãy xem! Ngươi không có trí tuệ biết được tâm tư của chư vị A-la-hán, Chánh Ðẳng
 Giác ở quá khứ, ở hiện tại và ở tương lai! Vậy sao, này Sàriputta, lời nói của Ngươi tuyên bố thật là đại
 ngôn, thật là gan dạ. Ngươi thật đã rống tiếng rống con sư tử khi Ngươi nói: “Bạch Thế Tôn, con tin
 tưởng Thế Tôn đến nỗi con nghĩ rằng, ở quá khứ, ở tương lai cũng như ở hiện tại, không thể có một vị
@@ -341,20 +341,20 @@ sau. Sự kiện như vậy không thể xảy ra”. Bạch Thế Tôn, có ph�
 nói lên đúng ý với Thế Tôn, không có sai lạc, không có hiểu lầm Thế Tôn? Có phải con đã trả lời thuận
 pháp, đúng pháp? Có phải không một đối phương hợp pháp nào có thể tìm ra lý do để chỉ trích phê
 bình?
-- Này Sàriputta, được hỏi và trả lời như vậy, Ngươi đã nói lên đúng ý với Ta, không có sai lạc, không có
+\- Này Sàriputta, được hỏi và trả lời như vậy, Ngươi đã nói lên đúng ý với Ta, không có sai lạc, không có
 hiểu lầm Ta. Ngươi đã trả lời thuận pháp và đúng pháp. Không một đối phương hợp pháp nào có thể tìm
 ra lý do để chỉ trích, phê bình.
 
 20\. Ðược nghe nói vậy, Tôn giả Udàyi bạch Thế Tôn:
 
-- Thật là hy hữu, bạch Thế Tôn! Thật là kỳ diệu, bạch Thế Tôn! Như Lai thiểu dục như vậy, tri túc như
+\- Thật là hy hữu, bạch Thế Tôn! Thật là kỳ diệu, bạch Thế Tôn! Như Lai thiểu dục như vậy, tri túc như
 vậy, nghiêm túc như vậy; trong khi Như Lai có đại thần lực như vậy, có đại uy lực như vậy, mà không
 tự mình tỏ lộ. Bạch Thế Tôn, nếu có một du sĩ ngoại đạo nào, tự thấy mình chứng được dầu chỉ có một
 pháp, họ đã dương cờ (gióng trống) lên rồi. Thật là hy hữu, bạch Thế Tôn! Thật là kỳ diệu, bạch Thế
 Tôn! Như Lai thiểu dục như vậy, tri túc như vậy, nghiêm túc như vậy; trong khi Như Lai có đại thần lực
 như vậy, có đại uy lực như vậy, mà không tự mình tỏ lộ.
 
-- Hãy ghi nhận, này Udàyi! Như Lai thiểu dục như vậy, tri túc như vậy, nghiêm túc như vậy; trong khi
+\- Hãy ghi nhận, này Udàyi! Như Lai thiểu dục như vậy, tri túc như vậy, nghiêm túc như vậy; trong khi
 Như Lai có đại thần lực như vậy, có đại uy lực như vậy, mà không tự mình tỏ lộ. Này Udàyi, nếu có một
 du sĩ ngoại đạo nào, tự thấy mình dầu chỉ có một pháp như vậy, họ đã dương cờ (gióng trống) lên rồi.
 Này Udàyi hãy ghi nhận! Như Lai thiểu dục như vậy, tri túc như vậy, nghiêm túc như vậy; trong khi
@@ -362,7 +362,7 @@ Như Lai có đại thần lực như vậy, có đại uy lực như vậy, mà
 
 21\. Rồi Thế Tôn bảo tôn giả Sàriputta:
 
-- Vậy Sàriputta, Ngươi phải luôn luôn thuyết pháp phân biệt này cho các Tỷ kheo, Tỷ kheo ni, các Nam
+\- Vậy Sàriputta, Ngươi phải luôn luôn thuyết pháp phân biệt này cho các Tỷ kheo, Tỷ kheo ni, các Nam
 cư sĩ và các Nữ cư sĩ. Này Sàriputta, nếu có những kẻ ngu nào còn nghi ngờ hay ngần ngại đối với Như
 Lai, nếu họ được nghe pháp phân biệt này, nghi ngờ hay ngần ngại của họ đối với Như Lai sẽ được diệt
 trừ.

@@ -37,7 +37,7 @@ ngồi thảo luận? Vấn đề gì đang nói mà bị gián đoạn?”
 
 6\. Khi nghe nói vậy du sĩ ngoại đạo Potthapàda bạch Thế Tôn:
 
-- Bạch Thế Tôn, hãy gác một bên câu chuyện chúng tôi đang ngồi bàn luận, bạch Thế Tôn, lát nữa Thế
+\- Bạch Thế Tôn, hãy gác một bên câu chuyện chúng tôi đang ngồi bàn luận, bạch Thế Tôn, lát nữa Thế
 Tôn nghe lại cũng không khó khăn gì. Bạch Thế Tôn, thuở xưa xưa lắm, nhiều vị Sa-môn, Bà-la-môn
 ngoại đạo tụ họp, ngồi hội thảo trong giảng đường nêu lên vấn đề sự diệt tận các tăng thượng tưởng.
 
@@ -71,7 +71,7 @@ chính do sự học tập, một loại tưởng diệt.
 
 Và Thế Tôn nói:
 
-- Sự học tập ấy là gì? Này Potthapàda, nay ở đời Như Lai xuất hiện, là bậc A-la-hán, Chánh Biến Tri...
+\- Sự học tập ấy là gì? Này Potthapàda, nay ở đời Như Lai xuất hiện, là bậc A-la-hán, Chánh Biến Tri...
 (như kinh Sa-môn quả, đoạn kinh số 40-43 trừ đoạn kết của mỗi đoạn) thân nghiệp, ngữ nghiệp thanh
 tịnh, mạng sống trong sạch, giới hạnh đầy đủ, hộ trì các căn, chánh niệm tỉnh giác và biết tri túc. Này
 Potthapàda, thế nào là Tỷ-kheo giới hạnh đầy đủ? Ở đây này Potthapàda, Tỷ-kheo từ bỏ sát sanh, tránh
@@ -148,24 +148,24 @@ Potthapàda, là sự chứng đạt trí tuệ diệt trừ dần dần các t�
 18\. Này Potthapàda, ngươi nghĩ thế nào? Trước đây ngươi đã nghe sự chứng đạt trí tuệ diệt trừ dần dần
 các tăng thượng tưởng này không?
 
-- Bạch Thế Tôn, con không có nghe. Bạch Thế Tôn, nhưng nay con hiểu lời nói của Thế Tôn.
+\- Bạch Thế Tôn, con không có nghe. Bạch Thế Tôn, nhưng nay con hiểu lời nói của Thế Tôn.
 
-- Này Potthapàda, khi Tỷ-kheo ở đây tự mình khởi tưởng, vị này tiếp tục đi từ tưởng này đến tưởng khác
+\- Này Potthapàda, khi Tỷ-kheo ở đây tự mình khởi tưởng, vị này tiếp tục đi từ tưởng này đến tưởng khác
 cho đến tưởng tột đỉnh. Và vị này, khi đứng lại tưởng tột đỉnh có thể nghĩ: “Tâm còn suy tưởng, có hại
 cho ta, tâm không suy tưởng mới tốt cho ta. Nếu ta cứ tiếp tục suy tưởng khi những tưởng này của ta
 diệt đi, các thô tưởng khác lại khởi lên. Vậy ta hãy đừng có suy tưởng”. Và vị này không có suy tưởng.
 Do không có suy tưởng, các tưởng kia diệt tận và các thô tưởng khác cũng không khởi lên. Vị ấy cảm
 thọ sự diệt tận. Như vậy này Potthapàda là sự chứng đạt trí tuệ diệt trừ dần dần các tăng thượng tưởng.
 
-- Như vậy là phải, này Potthapàda!
+\- Như vậy là phải, này Potthapàda!
 
 19\. - Bạch Thế Tôn, Thế Tôn chỉ nói đến một tưởng tuyệt đỉnh hay nhiều tưởng tuyệt đỉnh?
 
-- Này Potthapàda, Ta nói đến một tưởng tuyệt đỉnh và cũng nói đến nhiều tưởng tuyệt đỉnh.
+\- Này Potthapàda, Ta nói đến một tưởng tuyệt đỉnh và cũng nói đến nhiều tưởng tuyệt đỉnh.
 
-- Bạch Thế Tôn, làm sao Thế Tôn nói đến một tưởng tuyệt đỉnh và cũng nói đến nhiều tưởng tuyệt đỉnh?
+\- Bạch Thế Tôn, làm sao Thế Tôn nói đến một tưởng tuyệt đỉnh và cũng nói đến nhiều tưởng tuyệt đỉnh?
 
-- Này Potthapàda, tùy theo vị ấy cảm thọ sự diệt tận (của một tưởng) sau tưởng khác, vị ấy đạt tới nhiều
+\- Này Potthapàda, tùy theo vị ấy cảm thọ sự diệt tận (của một tưởng) sau tưởng khác, vị ấy đạt tới nhiều
 tuyệt đỉnh sai khác, cái này tiếp theo cái kia cho đến tuyệt đỉnh cuối cùng mà Ta nói đến nhiều tưởng
 tuyệt đỉnh. Này Potthapàda như vậy Ta nói đến một tưởng tuyệt đỉnh và cũng nói đến nhiều tưởng tuyệt
 đỉnh.
@@ -173,17 +173,17 @@ tuyệt đỉnh. Này Potthapàda như vậy Ta nói đến một tưởng tuy�
 20\. - Bạch Thế Tôn, tưởng khởi trước, trí khởi sau; hay trí khởi trước tưởng khởi sau; hay tưởng và trí
 cùng khởi một lần không trước không sau?
 
-- Này Potthapàda, tưởng khởi trước trí mới khởi sau, do tưởng sanh, trí mới sanh. Vị ấy tuệ tri: “Do
+\- Này Potthapàda, tưởng khởi trước trí mới khởi sau, do tưởng sanh, trí mới sanh. Vị ấy tuệ tri: “Do
 duyên tưởng, trí sanh ra nơi ta”. Này Potthapàda, với lời dạy này cần phải hiểu tưởng sanh trước trí sanh
 sau, tưởng sanh trí mới sanh.
 
 21\. - Bạch Thế Tôn, tưởng có phải là tự ngã của con người hay tưởng khác, tự ngã khác?
 
-- Này Potthapàda, ngươi hiểu tự ngã như thế nào?
+\- Này Potthapàda, ngươi hiểu tự ngã như thế nào?
 
-- Bạch Thế Tôn, con hiểu tự ngã là thô phù, có sắc, do bốn đại hình thành, và do đoàn thực nuôi dưỡng.
+\- Bạch Thế Tôn, con hiểu tự ngã là thô phù, có sắc, do bốn đại hình thành, và do đoàn thực nuôi dưỡng.
 
-- Này Potthapàda, nếu tự ngã là thô phù, có sắc, do bốn đại hình thành và do đoàn thực nuôi dưỡng, như
+\- Này Potthapàda, nếu tự ngã là thô phù, có sắc, do bốn đại hình thành và do đoàn thực nuôi dưỡng, như
 vậy này Potthapàda, tưởng khác và tự ngã khác. Này Potthapàda, với sự nhận thức này, cần phải hiểu,
 tưởng khác và tự ngã khác. Này Potthapàda, giả sử tự ngã ấy là thô phù, có sắc, do bốn đại hình thành và
 do đoàn thực nuôi dưỡng, tuy vậy một vài tưởng khác của người ấy khởi lên, một vài tưởng khác diệt
@@ -191,12 +191,12 @@ xuống. Này Potthapàda, với sự nhận thức này cần phải hiểu tư
 
 22\. - Bạch Thế Tôn, con hiểu tự ngã là do ý sở thành, đầy đủ mọi chi tiết lớn nhỏ, đầy đủ các căn.
 
-- Này Potthapàda, nếu tự ngã là do ý sở thành, đầy đủ mọi chi tiết lớn nhỏ, đầy đủ các căn, như vậy này
+\- Này Potthapàda, nếu tự ngã là do ý sở thành, đầy đủ mọi chi tiết lớn nhỏ, đầy đủ các căn, như vậy này
 Potthapàda, với sự nhận thức này, cần phải hiểu tưởng khác, tự ngã khác. Này Potthapàda, giả sự tự ngã
 ấy là do ý sở thành, đầy đủ mọi chi tiết lớn nhỏ, đầy đủ các căn, tuy vậy một vài tưởng khác của người
 ấy khởi lên, một vài tưởng khác diệt xuống. Này Potthapàda, với sự nhận thức này, cần phải hiểu tưởng
 khác, tự ngã khác.
-- Bạch Thế Tôn, con hiểu tự ngã là vô sắc, do tưởng sở thành.
+\- Bạch Thế Tôn, con hiểu tự ngã là vô sắc, do tưởng sở thành.
 
 23\. - Này Potthapàda, nếu tự ngã là vô sắc, do tưởng sở thành, với sự nhận thức này Potthapàda, cần
 phải hiểu tưởng khác, tự ngã khác. Này Potthapàda, giả sự tự ngã là vô sắc, do tưởng sở thành, tuy vậy,
@@ -206,7 +206,7 @@ thức này, cần phải hiểu tưởng khác, tự ngã khác.
 24\. - Bạch Thế Tôn, con có thể hiểu được chăng “tưởng là tự ngã của con người” hay “tưởng khác, tự
 ngã khác”?
 
-- Này Potthapàda, thật khó cho ngươi biết được “tưởng là tự ngã của con người” hay “tưởng khác, tự
+\- Này Potthapàda, thật khó cho ngươi biết được “tưởng là tự ngã của con người” hay “tưởng khác, tự
 ngã khác”, vì ngươi có dị kiến, có tin tưởng khác, có lý tưởng khác, có thiên tư khác, có hạnh nguyện
 khác.
 
@@ -215,80 +215,80 @@ tự ngã khác” vì con có dị kiến khác, có tin tưởng khác, có l�
 nguyện khác, thời bạch Thế Tôn, thế giới có phải là thường còn không? Chỉ có quan niệm này là đúng
 sự thực, ngoài ra là mê muội không?
 
-- Này Potthapàda, Ta không trả lời: “Thế giới là thường còn, chỉ có quan điểm này là đúng sự thực,
+\- Này Potthapàda, Ta không trả lời: “Thế giới là thường còn, chỉ có quan điểm này là đúng sự thực,
 ngoài ra là mê muội”.
 
-- Bạch Thế Tôn, có phải thế giới là vô thường, chỉ có quan điểm này là đúng sự thực, ngoài ra là mê
+\- Bạch Thế Tôn, có phải thế giới là vô thường, chỉ có quan điểm này là đúng sự thực, ngoài ra là mê
 muội không?
 
-- Này Potthapàda, Ta không trả lời: “Thế giới là vô thường, chỉ có quan điểm này là đúng sự thực, ngoài
+\- Này Potthapàda, Ta không trả lời: “Thế giới là vô thường, chỉ có quan điểm này là đúng sự thực, ngoài
 ra là mê muội”.
 
-- Bạch Thế Tôn, có phải thế giới này là hữu biên, chỉ có quan điểm này là đúng sự thực, ngoài ra là mê
+\- Bạch Thế Tôn, có phải thế giới này là hữu biên, chỉ có quan điểm này là đúng sự thực, ngoài ra là mê
 muội không?
 
-- Này Potthapàda, Ta không trả lời: “Thế giới là hữu biên, chỉ có quan điểm này là đúng sự thực, ngoài
+\- Này Potthapàda, Ta không trả lời: “Thế giới là hữu biên, chỉ có quan điểm này là đúng sự thực, ngoài
 ra là mê muội”.
 
-- Bạch Thế Tôn, có phải thế giới là vô biên, chỉ có quan điểm này là đúng sự thực, ngoài ra là mê muội
+\- Bạch Thế Tôn, có phải thế giới là vô biên, chỉ có quan điểm này là đúng sự thực, ngoài ra là mê muội
 không?
 
-- Này Potthapàda, Ta không trả lời: “Thế giới là vô biên, chỉ có quan điểm này là đúng sự thực, ngoài ra
+\- Này Potthapàda, Ta không trả lời: “Thế giới là vô biên, chỉ có quan điểm này là đúng sự thực, ngoài ra
 là mê muội”.
 
 26\. - Bạch Thế Tôn, có phải sinh mạng và thân thể là một, chỉ có quan điểm này là đúng sự thật, ngoài ra
 là mê muội không?
 
-- Này Potthapàda, Ta không trả lời: “Thân thể và sinh mạng là một, chỉ có quan điểm này là đúng sự
+\- Này Potthapàda, Ta không trả lời: “Thân thể và sinh mạng là một, chỉ có quan điểm này là đúng sự
 thực, ngoài ra là mê muội”.
 
-- Bạch Thế Tôn, có phải sinh mạng khác, thân thể khác? Chỉ có quan điểm này là đúng sự thực, ngoài ra
+\- Bạch Thế Tôn, có phải sinh mạng khác, thân thể khác? Chỉ có quan điểm này là đúng sự thực, ngoài ra
 là mê muội không?
 
-- Này Potthapàda, Ta không trả lời: “Sinh mạng khác, thân thể khác. Chỉ có quan điểm này là đúng sự
+\- Này Potthapàda, Ta không trả lời: “Sinh mạng khác, thân thể khác. Chỉ có quan điểm này là đúng sự
 thực, ngoài ra là mê muội”.
 
 27\. - Bạch Thế Tôn, có phải Như Lai tồn tại sau khi chết? Chỉ có quan điểm này là đúng sự thực, ngoài
 ra là mê muội không?
 
-- Này Potthapàda, Ta không trả lời: “Như Lai tồn tại sau khi chết. Chỉ có quan điểm này là đúng sự thực,
+\- Này Potthapàda, Ta không trả lời: “Như Lai tồn tại sau khi chết. Chỉ có quan điểm này là đúng sự thực,
 ngoài ra là mê muội”.
 
-- Bạch Thế Tôn, có phải Như Lai không tồn tại sau khi chết không? Chỉ có quan điểm này là đúng sự
+\- Bạch Thế Tôn, có phải Như Lai không tồn tại sau khi chết không? Chỉ có quan điểm này là đúng sự
 thực, ngoài ra là mê muội không?
 
-- Này Potthapàda, Ta không trả lời: “Như Lai không tồn tại sau khi chết. Chỉ có quan điểm này là đúng
+\- Này Potthapàda, Ta không trả lời: “Như Lai không tồn tại sau khi chết. Chỉ có quan điểm này là đúng
 sự thực, ngoài ra là mê muội”.
 
-- Bạch Thế Tôn, có phải Như Lai tồn tại và không tồn tại sau khi chết. Chỉ có quan điểm này là đúng sự
+\- Bạch Thế Tôn, có phải Như Lai tồn tại và không tồn tại sau khi chết. Chỉ có quan điểm này là đúng sự
 thực, ngoài ra là mê muội không?
 
-- Này Potthapàda, Ta không trả lời: “Như Lai tồn tại và không tồn tại sau khi chết. Chỉ có quan điểm
+\- Này Potthapàda, Ta không trả lời: “Như Lai tồn tại và không tồn tại sau khi chết. Chỉ có quan điểm
 này là đúng sự thực, ngoài ra là mê muội”.
 
-- Bạch Thế Tôn, có phải Như Lai không tồn tại và không không tồn tại sau khi chết. chỉ có quan điểm
+\- Bạch Thế Tôn, có phải Như Lai không tồn tại và không không tồn tại sau khi chết. chỉ có quan điểm
 này là đúng sự thực, ngoài ra là mê muội không?
 
-- Này Potthapàda, Ta không trả lời: “Như Lai không tồn tại và không không tồn tại sau khi chết. Chỉ có
+\- Này Potthapàda, Ta không trả lời: “Như Lai không tồn tại và không không tồn tại sau khi chết. Chỉ có
 quan điểm này là đúng sự thực, ngoài ra là mê muội”.
 
 28\. - Bạch Thế Tôn, vì sao Thế Tôn không trả lời?
 
-- Này Potthapàda, câu hỏi này không thuộc về đích giải thoát, không thuộc về Pháp, không thuộc căn
+\- Này Potthapàda, câu hỏi này không thuộc về đích giải thoát, không thuộc về Pháp, không thuộc căn
 bản của phạm hạnh, không đưa đến yểm ly, đến ly tham, đến tịch diệt, đến tịch tịnh, đến thắng trí, đến
 giác ngộ, đến Niết bàn. Vì vậy, Ta không trả lời.
 
 29\. - Bạch Thế Tôn, vậy Thế Tôn trả lời những gì?
 
-- Này Potthapàda, Ta trả lời: “Ðây là khổ”. Ta trả lời: “Ðây là khổ tập”. “Ta trả lời: “Ðây là khổ diệt”.
+\- Này Potthapàda, Ta trả lời: “Ðây là khổ”. Ta trả lời: “Ðây là khổ tập”. “Ta trả lời: “Ðây là khổ diệt”.
 Ta trả lời: “Ðây là con đường đưa đến khổ diệt”.
 
 30\. - Bạch Thế Tôn, vì sao Thế Tôn trả lời?
 
-- Này Potthapàda, câu hỏi này thuộc về đích giải thoát, thuộc về Pháp, thuộc căn bản của phạm hạnh,
+\- Này Potthapàda, câu hỏi này thuộc về đích giải thoát, thuộc về Pháp, thuộc căn bản của phạm hạnh,
 đưa đến yểm ly, đến ly tham, đến tịch diệt, đến thắng trí, đến giác ngộ, đến Niết bàn. Vì vậy Ta trả lời.
 
-- Bạch Thế Tôn, như vậy là phải. Bạch Thiên Thệ, như vậy là phải. Bạch Thế Tôn, nay đã đến thời Ngài
+\- Bạch Thế Tôn, như vậy là phải. Bạch Thiên Thệ, như vậy là phải. Bạch Thế Tôn, nay đã đến thời Ngài
 làm gì Ngài xem là phải làm.
 
 Và Thế Tôn từ chỗ ngồi đứng dậy ra về.
@@ -304,7 +304,7 @@ sau khi chết”, hay “Như Lai không tồn tại và cũng không không t�
 
 Khi được nói vậy, du sĩ ngoại đạo Potthapàda nói với các du sĩ ngoại đạo kia:
 
-- Này các Tôn giả, tôi cũng không được biết Sa-môn Gotama đã thuyết trình dứt khoát những vấn đề sau
+\- Này các Tôn giả, tôi cũng không được biết Sa-môn Gotama đã thuyết trình dứt khoát những vấn đề sau
 đây: “Thế giới là thường còn”, hay “Thế giới là vô thường”, hay “Thế giới là hữu biên”, hay “Thế giới
 là vô biên”, hay “Sinh mạng và thân thể là một”, hay “Sinh mạng khác, thân thể khác”, hay “Như Lai có
 tồn tại sau khi chết”, hay “Như Lai không có tồn tại sau khi chết”, hay “Như Lai có tồn tại và cũng
@@ -318,7 +318,7 @@ nơi, Citta Hatthisàriputta đảnh lễ Thế Tôn và ngồi xuống một b�
 những lời chào đón hỏi thăm xã giao với Thế Tôn và ngồi xuống một bên. Sau khi ngồi một bên, du sĩ
 ngoại đạo Potthapàda bạch Thế Tôn:
 
-- Bạch Thế Tôn, khi Thế Tôn rời khỏi chưa bao lâu những du sĩ ngoại đạo liền bao vây xung quanh con
+\- Bạch Thế Tôn, khi Thế Tôn rời khỏi chưa bao lâu những du sĩ ngoại đạo liền bao vây xung quanh con
 và tuôn ra những lời nói mỉa mai gay gắt: “Potthapàda này là như vậy. Những gì Sa-môn Gotama nói
 đều được Potthapàda tán thành: “Bạch Thế Tôn, như vậy là phải, Bạch Thiện Thệ như vậy là phải”.
 Chúng tôi không được biết Sa-môn Gotama đã thuyết trình dứt khoát những vấn đề sau đây: “Thế giới là
@@ -390,7 +390,7 @@ trả lời không biết. Có người hỏi: “Này bạn, như vậy có ph�
 không biết, Ông không thấy?” Ðược hỏi vậy vị ấy trả lời phải. Này Potthapàda, ngươi nghĩ thế nào? Sự
 kiện là như vậy, thời có phải lời nói của người kia là không chánh xác hợp lý?
 
-- Vâng phải, bạch Thế Tôn! Sự kiện là như vậy, thời lời nói của người kia là không chánh xác, hợp lý.
+\- Vâng phải, bạch Thế Tôn! Sự kiện là như vậy, thời lời nói của người kia là không chánh xác, hợp lý.
 
 36\. - Như vậy này Potthapàda, những Sa-môn, Bà-la-môn có chủ trương như thế này, có chủ kiến như
 thế này: “Sau khi chết tự ngã hoàn toàn hạnh phúc, vô bệnh”, Ta đến những vị ấy và hỏi: “Có phải quý
@@ -407,7 +407,7 @@ hạnh phúc! Này các vị, chúng tôi đã thực hành, đã sanh vào mộ
 Khi được hỏi vậy, các vị ấy trả lời là không. Này Potthapàda, Ngươi nghĩ thế nào? Sự kiện là như vậy,
 thời có phải lời nói của những Sa-môn, Bà-la-môn kia là không chánh xác, hợp lý?
 
-- Vâng phải, bạch Thế Tôn sự kiện là như vậy, theo lời nói của người kia là không chánh xác, hợp lý.
+\- Vâng phải, bạch Thế Tôn sự kiện là như vậy, theo lời nói của người kia là không chánh xác, hợp lý.
 
 37\. - Này Potthapàda, như một người muốn xây tại ngã tư đường một cái thang để leo lên lầu. Có người
 hỏi: “Này bạn, Ông muốn xây một cái thang để leo lên lầu, vậy Ông có biết lầu ấy là về hướng Ðông,
@@ -417,7 +417,7 @@ hay về hướng Tây, hay về hướng Bắc, hay về hướng Nam? Nhà l�
 Potthapàda ngươi nghĩ thế nào? Sự kiện là như vậy thời có phải lời nói của người kia là không chánh
 xác, hợp lý?
 
-- Vâng phải, bạch Thế Tôn! Sự kiện là như vậy, thời lời nói của người kia là không chánh xác, hợp lý.
+\- Vâng phải, bạch Thế Tôn! Sự kiện là như vậy, thời lời nói của người kia là không chánh xác, hợp lý.
 
 38\. - Như vậy này Potthapàda, những Sa-môn, Bà-la-môn có chủ trương như thế này, có chủ kiến như
 thế này: “Sau khi chết, tự ngã hoàn toàn hạnh phúc, vô bệnh”. Ta đến những vị ấy và hỏi: “Có phải quý
@@ -434,7 +434,7 @@ phúc. Này các vị, chúng tôi đã thực hành, đã sanh vào một thế
 được nói vậy, các vị ấy trả lời là không. Này Potthapàda, ngươi nghĩ như thế nào? Sự kiện là như vậy,
 thời có phải lời nói của những Sa-môn, Bà-la-môn, kia là không chánh xác, hợp lý.
 
-- Vâng phải, bạch Thế Tôn! Sự kiện là như vậy, thời lời nói của người kia không chánh đáng, hợp lý.
+\- Vâng phải, bạch Thế Tôn! Sự kiện là như vậy, thời lời nói của người kia không chánh đáng, hợp lý.
 
 39\. - Này Potthapàda, có ba loại ngã chấp: thô phù ngã chấp, ý sở thành ngã chấp, vô sắc ngã chấp. Này
 Potthapàda, thế nào là thô phù ngã chấp? Có sắc, do bốn đại hình thành, do đoàn thực nuôi dưỡng là thô
@@ -503,7 +503,7 @@ hướng Tây, hay hướng Bắc? Nhà lầu ấy cao, hay thấp, hay trung b�
 giả, cái lầu mà tôi xây thang để leo lên chính tại dưới chân lầu này”. Này Potthapàda, ngươi nghĩ thế
 nào? Sự kiện là như vậy thời có phải lời nói ấy là chính xác, hợp chăng?
 
-- Vâng phải, bạch Thế Tôn, sự kiện là như vậy thời lời nói của người kia là chánh xác, hợp lý!
+\- Vâng phải, bạch Thế Tôn, sự kiện là như vậy thời lời nói của người kia là chánh xác, hợp lý!
 
 47\. - Như vậy, này Potthapàda, và có những người ngoài hỏi chúng tôi: “Này Hiền giả, thô phù ngã chấp
 là gì?... Này Hiền giả, ý sở thành ngã chấp là gì?... Này Hiền giả, vô sắc ngã chấp ấy là gì mà Hiền giả
@@ -514,13 +514,13 @@ tôi thuyết pháp để diệt trừ, khiến các người thực hành theo 
 pháp được tăng trưởng và ngay hiện tại, tự mình giác ngộ với thắng trí chứng đạt và an trú trí tuệ sung
 mãn quảng đại”.
 
-- Này Potthapàda, ngươi nghĩ thế nào? Sự kiện là như vậy, thời có phải lời nói ấy là chánh xác, hợp lý?
+\- Này Potthapàda, ngươi nghĩ thế nào? Sự kiện là như vậy, thời có phải lời nói ấy là chánh xác, hợp lý?
 
-- Vâng phải, bạch Thế Tôn, sự kiện là nha vậy, thời lời nói của người kia là chánh xác, hợp lý!
+\- Vâng phải, bạch Thế Tôn, sự kiện là nha vậy, thời lời nói của người kia là chánh xác, hợp lý!
 
 48\. Khi nghe nói vậy, Citta Hatthisàriputta bạch Thế Tôn:
 
-- Bạch Thế Tôn, trong khi có thô phù ngã chấp, phải chăng không có ý sở thành ngã chấp, không có vô
+\- Bạch Thế Tôn, trong khi có thô phù ngã chấp, phải chăng không có ý sở thành ngã chấp, không có vô
 sắc ngã chấp? Thô phù ngã chấp khi ấy thật có tồn tại. Bạch Thế Tôn, trong khi sở thành ngã chấp, phải
 chăng không có thô phù ngã chấp, không có vô sắc ngã chấp? Ý sở thành ngã chấp khi ấy thật có tồn tại.
 Bạch Thế Tôn, trong khi có vô sắc ngã chấp, phải chăng không có thô phù ngã chấp, không có ý sở
@@ -534,7 +534,7 @@ chấp, không thuộc ý sở thành ngã chấp, chính khi ấy thuộc vô s
 Người: “Ngươi đã có tồn tại ở quá khứ hay không? Ngươi sẽ tồn tại ở tương lai hay không? Ngươi có
 tồn tại ở hiện tại không?” Này Citta, được hỏi vậy, ngươi trả lời như thế nào?
 
-- Bạch Thế Tôn, nếu có người hỏi con: “Ngươi đã có tồn tại ở quá khứ hay không? Ngươi sẽ tồn tại ở
+\- Bạch Thế Tôn, nếu có người hỏi con: “Ngươi đã có tồn tại ở quá khứ hay không? Ngươi sẽ tồn tại ở
 tương lai hay không? Ngươi có tồn tại ở hiện tại hay không?” Bạch Thế Tôn được hỏi vậy, con sẽ trả
 lời: “Tôi đã có tồn tại ở quá khứ, không phải không tồn tại; tôi sẽ tồn tại ở tương lai, không phải không
 tồn tại; tôi tồn tại ở hiện tại, không phải không tồn tại”. Bạch Thế Tôn, nếu được hỏi như vậy, con sẽ trả
@@ -546,7 +546,7 @@ chấp mà Ngươi sẽ có, có phải ngã chấp ấy đối với Ngươi l�
 chấp hiện tại không tồn tại? Hiện tại ngã chấp mà Ngươi hiện có, có phải ngã chấp ấy đối với Ngươi là
 thật có, ngã chấp quá khứ không tồn tại, ngã chấp tương lai không tồn tại?” Này Citta, được hỏi vậy,
 Ngươi trả lời thế nào?
-- Bạch Thế Tôn, nếu có người hỏi con: “Quá khứ ngã chấp mà Ngươi đã có, có phải ngã chấp ấy đối với
+\- Bạch Thế Tôn, nếu có người hỏi con: “Quá khứ ngã chấp mà Ngươi đã có, có phải ngã chấp ấy đối với
 Ngươi là thật có, ngã chấp tương lai không tồn tại, ngã chấp hiện tại không tồn tại? Tương lai ngã chấp
 mà Ngươi sẽ có, có phải ngã chấp ấy đối với Ngươi là thật có, ngã chấp quá khứ không tồn tại, ngã chấp
 hiện tại không tồn tại? Hiện tại ngã chấp mà Ngươi hiện có, có phải ngã chấp ấy đối với Ngươi là thật
@@ -577,7 +577,7 @@ chúng.
 
 54\. Ðược nghe nói vậy du sĩ ngoại đạo Potthapàda bạch Thế Tôn:
 
-- Thật vi diệu thay, bạch Thế Tôn! Thật vi diệu thay, bạch Thế Tôn! Như người dựng lại những gì bị
+\- Thật vi diệu thay, bạch Thế Tôn! Thật vi diệu thay, bạch Thế Tôn! Như người dựng lại những gì bị
 quăng ngã xuống, phơi bày những gì bị che kín, chỉ đường cho những người lạc hướng, đem đèn sáng
 vào trong bóng tối để những ai có mắt có thể thấy sắc. Cũng vậy chánh pháp đã được Thế Tôn dùng
 nhiều phương tiện trình bày, giải thích. Bạch Thế Tôn, con xin quy y Thế Tôn, quy y Pháp và quy y
@@ -586,7 +586,7 @@ ngưỡng.
 
 55\. Và Citta Hatthisàriputta cũng bạch Thế Tôn:
 
-- Thật vi diệu thay, bạch Thế Tôn! Thật vi diệu thay, bạch Thế Tôn! Như người dựng đứng lại những gì
+\- Thật vi diệu thay, bạch Thế Tôn! Thật vi diệu thay, bạch Thế Tôn! Như người dựng đứng lại những gì
 bị quăng ngã xuống, phơi bày ra những gì bị che kín, chỉ đường cho những người đi lạc hướng, đem đèn
 sáng vào trong bóng tối để những ai có mắt có thể thấy sắc. Cũng vậy, chánh pháp đã được Thế Tôn
 dùng nhiều phương tiện trình bày giải thích. Con xin quy y Thế Tôn, quy y Pháp và quy y chúng Tăng.

@@ -8,10 +8,10 @@ giòng họ Càn-thát-bà (Gandhabba), với dung mạo đoan chánh, chói sá
 tại chỗ Thế Tôn, sau khi đến, đảnh lễ Ngài và đứng một bên. Sau khi đứng một bên, Pancasikha, thuộc
 giòng họ Càn-thát-bà bạch Thế Tôn:
 
-- Bạch Thế Tôn, những điều con đã tự thân nghe và chấp nhận trước mặt chư Thiên ở Tam thập tam
+\- Bạch Thế Tôn, những điều con đã tự thân nghe và chấp nhận trước mặt chư Thiên ở Tam thập tam
 thiên, bạch Thế Tôn con muốn bạch lại Thế Tôn.
 
-- Này Pancasikha, hãy nói cho ta nghe! - Thế Tôn nói như vậy.
+\- Này Pancasikha, hãy nói cho ta nghe! - Thế Tôn nói như vậy.
 
 2\. - Bạch Thế Tôn, trong những ngày xưa, những ngày xa xưa, nhân đêm trăng rằm Bố-tát (Uposatha),
 trong tháng nhập cư mùa mưa, toàn thể chư Thiên ở cõi Tam thập tam thiên ngồi hội họp tại Thiện Pháp
@@ -352,14 +352,14 @@ với chúng tôi!
 “Sáu vị Sát đế lỵ này, vâng theo lời của Bà la môn Mahà Govinda, đến tại chỗ của hoàng tử Renu, khi
 đến xong liền thưa với hoàng tử Renu:
 
-- Chúng tôi là những bạn hữu thân tình, thân ái, tâm đầu ý hợp với Thiện hữu Renu, chúng tôi sung
+\- Chúng tôi là những bạn hữu thân tình, thân ái, tâm đầu ý hợp với Thiện hữu Renu, chúng tôi sung
 sướng khi Thiện hữu sung sướng, chúng tôi đau khổ khi thiện hữu đau khổ. Nay vua Disampati đã già,
 trọng tuổi, lớn tuổi, đã đến thời, đã đến hạn cuối cuộc đời. Này Thiện hữu, ai có thể biết được thọ mạng
 của vua. Sự việc này có thể xảy ra. Nếu vua Disampati mệnh chung, thời những vị có trách nhiệm phong
 vua, hãy phong hoàng tử Renu lên vương vị. Nếu Thiện hữu Renu lên vương vị, hãy chia vương vị với
 chúng tôi!
 
-- Chư Thiện hữu, có ai khác có quyền hưởng an lạc trong quốc độ của tôi, ngoài Quý vị? Nếu tôi được
+\- Chư Thiện hữu, có ai khác có quyền hưởng an lạc trong quốc độ của tôi, ngoài Quý vị? Nếu tôi được
 lên vương vị, tôi sẽ chia xẻ vương vị cho Quý vị.
 
 34\. “Chư Thiện hữu, sau một thời gian vua Disampati mệnh chung. Khi vua Disampati mệnh chung,
@@ -817,7 +817,7 @@ sự có hiệu quả, có tiến bộ.
 
 61\. Thế Tôn có nhớ không?
 
-- Này Pancasikha, Ta có nhớ. Ta thuở ấy là Mahà Govinda. Ta dạy cho các đệ tử của Ta con đường đưa
+\- Này Pancasikha, Ta có nhớ. Ta thuở ấy là Mahà Govinda. Ta dạy cho các đệ tử của Ta con đường đưa
 đến sự thân hữu ở Phạm thiên quốc. Nhưng này Pancasikha, con đường phạm hạnh ấy không đưa đến
 yểm ly, ly dục, tịch diệt, an tịnh, thắng trí, giác ngộ và Niết-bàn. Con đường ấy chỉ đưa sanh lên cõi
 Phạm thiên. Này Pancasikha, con đường phạm hạnh của Ta hoàn toàn đưa đến yểm ly, ly dục, tịch diệt,

@@ -14,8 +14,10 @@ features:
     details: Truy cập nhiều bộ Kinh điển Phật giáo với bản dịch của chúng
   - title: Nhiều bản dịch
     details: So sánh văn bản gốc với nhiều bản dịch tiếng Việt khác nhau
+
   - title: So sánh song song
     details: So sánh bản dịch trực tiếp để hiểu rõ sự khác biệt và tinh tế
+    link: /compare.html
 
 ---
 

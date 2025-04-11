@@ -22,25 +22,25 @@ Chánh Ðẳng Giác tuyên thuyết, pháp y chỉ đã bị đổ vỡ, không
 sau khi đến, đảnh lễ tôn giả Ananda (A-nan) và ngồi xuống một bên. Sau khi ngồi xuống một bên. Sa-di
 Cunda bạch tôn giả Ananda:
 
-- Bạch Tôn giả, Nigantha Nàthaputta đã từ trần ở Pàvà sau khi vị này tạ thế, các Nigantha chia ra làm
+\- Bạch Tôn giả, Nigantha Nàthaputta đã từ trần ở Pàvà sau khi vị này tạ thế, các Nigantha chia ra làm
 hai phái... Pháp y chỉ đã bị đổ vỡ, không có chỗ y chỉ.
 
 Khi nghe nói vậy, tôn giả Ananda nói với Sa-di Cunda:
 
-- Này Hiền giả Cunda, đây là vấn đề đáng đưa ra để yết kiến Thế Tôn. Này Hiền giả Cunda, chúng ta
+\- Này Hiền giả Cunda, đây là vấn đề đáng đưa ra để yết kiến Thế Tôn. Này Hiền giả Cunda, chúng ta
 hãy đi yết kiến Thế Tôn; sau khi đến xong, chúng ta hãy trình bày vấn đề này để Thế Tôn biết.
 
-- Bạch Tôn giả, vâng!
+\- Bạch Tôn giả, vâng!
 
 Sa-di Cunda vâng lời tôn giả Ananda.
 
 3\. Rồi tôn giả Ananda cùng với Sa-di Cunda, đi đến yết kiến Thế Tôn, sau khi đến, đảnh lễ Ngài và ngồi
 xuống một bên. Sau khi ngồi xuống một bên, tôn giả Ananda bạch Thế Tôn:
 
-- Bạch Thế Tôn, Sa-di Cunda có nói: “Nigantha Nàthaputta đã từ trần ờ Pàvà. Sau khi vị này từ trần, các
+\- Bạch Thế Tôn, Sa-di Cunda có nói: “Nigantha Nàthaputta đã từ trần ờ Pàvà. Sau khi vị này từ trần, các
 vị Nigantha chia ra làm hai phái... pháp y chỉ đã bị đổ vỡ, không có chỗ y chỉ.”
 
-- Này Cunda, như vậy ở đây pháp luật đã được trình bày tuyên bố một cách vụng về, không có hiệu năng
+\- Này Cunda, như vậy ở đây pháp luật đã được trình bày tuyên bố một cách vụng về, không có hiệu năng
 hướng dẫn, không hướng đến an tịnh, không do vị Chánh Ðẳng Giác tuyên thuyết.
 
 4\. Này Cunda, ở đây có vị đạo sư không phải là Chánh Ðẳng Giác, có pháp luật đã được trình bày tuyên
@@ -527,11 +527,11 @@ trình bày.
 41\. Lúc bấy giờ, Tôn giả Upavàna đang đứng sau lưng hầu quạt Thế Tôn. Tôn giả Upavàna bạch Thế
 Tôn:
 
-- Thật hy hữu thay, bạch Thế Tôn! Thật kỳ diệu thay, bạch Thế Tôn! Bạch Thế Tôn, pháp thoại này thật
+\- Thật hy hữu thay, bạch Thế Tôn! Thật kỳ diệu thay, bạch Thế Tôn! Bạch Thế Tôn, pháp thoại này thật
 là thanh tịnh! Bạch Thế Tôn, pháp thoại này thật là tuyệt đối thanh tịnh! Bạch Thế Tôn, pháp thoại này
 tên là gì?
 
-- Này Upavàna, pháp thoại này là Thanh tịnh (Pàsàdikà), hãy như vậy mà phụng trì.
+\- Này Upavàna, pháp thoại này là Thanh tịnh (Pàsàdikà), hãy như vậy mà phụng trì.
 
 Thế Tôn thuyết dạy như vậy. Tôn giả Upavàna hoan hỷ, tín thọ lời dạy của Thế Tôn.
 

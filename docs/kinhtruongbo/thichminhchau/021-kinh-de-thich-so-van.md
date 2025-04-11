@@ -14,19 +14,19 @@ chủ Sakka thấy Thế Tôn trú tại Magadha, phía Ðông thành Vương X�
 Ambasanda, trên ngọn núi Vediya, phía Bắc ngôi làng trong hang Indasala. Thấy vậy, Thiên chủ Sakka
 nói với chư Thiên ở Tam thập tam thiên:
 
-- Này Quý vị, Thế Tôn trú ngụ tại Magadha, phía Ðông thành Vương Xá, tại làng Bà La Môn tên
+\- Này Quý vị, Thế Tôn trú ngụ tại Magadha, phía Ðông thành Vương Xá, tại làng Bà La Môn tên
 Ambasanda, trên ngọn núi Veidya, phía Bắc ngôi làng, trong hang núi Indasala. Này quí vị, chúng ta hãy
 đến chiêm ngưỡng Thế Tôn, bậc A La Hán, Chánh Ðẳng Giác.
 
-- Xin vâng, mong an lành đến cho Ngài. - Chư Thiên ở Tam thập tam thiên trả lời Thiên chủ Sakka.
+\- Xin vâng, mong an lành đến cho Ngài. - Chư Thiên ở Tam thập tam thiên trả lời Thiên chủ Sakka.
 
 2\. Rồi Thiên chủ Sakka, nói với Pancasikha (Ngũ Kế), con của Càn Thát Bà:
 
-- Này Khanh Pancasikha, Thế Tôn nay trú tại Magadha, phía Ðông thành Vương Xá, tại làng Bà La
+\- Này Khanh Pancasikha, Thế Tôn nay trú tại Magadha, phía Ðông thành Vương Xá, tại làng Bà La
 Môn tên Ambasanda, trên ngọn núi Vediya phía Bắc ngôi làng, trong hang núi Indasàla. Này Khanh
 Pancasikha, chúng ta hãy đến chiêm ngưỡng Thế Tôn, bậc A La Hán, Chánh Ðẳng Giác.
 
-- Xin vâng, mong an lành đến cho Ngài.
+\- Xin vâng, mong an lành đến cho Ngài.
 
 Pancasikha, con của Càn Thát Bà, vâng lời Thiên chủ Sakka, cầm cây đàn cầm bằng gỗ vàng Beluva và
 đi theo Thiên chủ Sakka.
@@ -39,19 +39,19 @@ Ambasandà và đứng trên núi Vediya, phía Bắc ngôi làng.
 3\. Lúc bấy giờ núi Vediya chói hào quang rực rỡ, ngôi làng Bà La Môn Ambasandà cũng vậy, đều nhờ
 thần lực chư Thiên. Và dân chúng ở những làng xung quanh nói rằng:
 
-- Núi Vediya hôm nay thật sự bị cháy, núi Veidya hôm nay thật sự có lửa đỏ rực, núi Vediya lại chói hào
+\- Núi Vediya hôm nay thật sự bị cháy, núi Veidya hôm nay thật sự có lửa đỏ rực, núi Vediya lại chói hào
 quang rực rỡ, làng Bà La Môn Ambasandà cũng vậy.
 
 Và dân chúng lo âu, lông tóc dựng ngược.
 
 4\. Rồi Thiên chủ Sakka nói với Pancasikha, con của Càn Thát Bà:
 
-- Này Khanh Pancasikha, chư Như Lai thật khó lại gần đối với người như ta. Các Ngài nhập Thiền, hoan
+\- Này Khanh Pancasikha, chư Như Lai thật khó lại gần đối với người như ta. Các Ngài nhập Thiền, hoan
 hỷ trong Thiền, và với mục đích ấy, an lặng tịnh cư. Vậy Khanh Pancasikha trước tiên làm cho Thế Tôn
 hoan hỷ, sau sự hoan hỷ do Khanh tác động, chúng ta mới đến yết kiến Thế Tôn, bậc A La Hán, Chánh
 Ðẳng Giác.
 
-- Xin vâng, mong an lành đến với Ngài.
+\- Xin vâng, mong an lành đến với Ngài.
 
 Pancasikha, con của Càn Thát Bà vâng lời Thiên chủ Sakka, cầm cây đàn cầm bằng gỗ vàng Beluva và
 đến tại hang núi Indasala. Khi đến xong, Pancasikha đứng lại một bên và suy nghĩ: “Ta đứng đây, không
@@ -125,13 +125,13 @@ _Vì sanh nàng vẹn toàn!_
 
 6\. Khi được nghe vậy, Thế Tôn nói với Pancasikha, con của Càn Thát Bà:
 
-- Này Pancasikha, huyền âm của Ngươi khéo hòa điệu với giọng ca của Ngươi, và giọng ca của Ngươi
+\- Này Pancasikha, huyền âm của Ngươi khéo hòa điệu với giọng ca của Ngươi, và giọng ca của Ngươi
 khéo hòa điệu với huyền âm của Ngươi. Này Pancasikha, do vậy huyền âm của Ngươi không thêm mầu
 sắc cho giọng ca, hay giọng ca của Ngươi không thêm màu sắc cho huyền âm của Ngươi. Này
 Pancasikha, Ngươi học tại chỗ nào những bài kệ liên hệ đến Phật, Pháp, đến A La Hán, đến ái dục như
 vậy?
 
-- Bạch Thế Tôn, một thời Thế Tôn an trú ở Uruvelà, bên bờ sông Neranjara (Ni-liên-thiền), dưới gốc cây
+\- Bạch Thế Tôn, một thời Thế Tôn an trú ở Uruvelà, bên bờ sông Neranjara (Ni-liên-thiền), dưới gốc cây
 Ajapàla-Nigrodha, khi mới thành Chánh Ðẳng Giác. Lúc bấy giờ, con yêu con gái của Timbaru, vua Càn
 Thát Bà, tên là Bhaddà với biệt hiệu Suriya Vaccasà. Nhưng bạch Thế Tôn, thiếu nữ lại yêu một người
 khác, tên là Sikhaddhi, con của Màtali người đánh xe. Bạch Thế Tôn, con không có phương tiện nào
@@ -217,16 +217,16 @@ vậy”.
 
 Rồi Thiên chủ Sakka nói với Pancasikha, con của Càn Thát Bà:
 
-- Này Khanh Pancasikha, hãy thay mặt ta, đảnh lễ Thế Tôn và nói: “Bạch Thế Tôn, Thiên chủa Sakka
+\- Này Khanh Pancasikha, hãy thay mặt ta, đảnh lễ Thế Tôn và nói: “Bạch Thế Tôn, Thiên chủa Sakka
 cùng với đình thần và thuộc hạ đầu diện tiếp tục đảnh lễ Thế Tôn”.
 
-- Xin vâng, mong an lành đến cho Ngài.
+\- Xin vâng, mong an lành đến cho Ngài.
 
 Pancasikha, con của Càn Thát Bà vâng theo lời dặn của Thiên chủ Sakka, đảnh lễ Thế Tôn và nói:
 
-- Bạch Thế Tôn, Thiên chủ Sakka cùng với đình thần và thuộc hạ, đầu diện tiếp túc đảnh lễ Thế Tôn.
+\- Bạch Thế Tôn, Thiên chủ Sakka cùng với đình thần và thuộc hạ, đầu diện tiếp túc đảnh lễ Thế Tôn.
 
-- Này Pancasikha, mong hạnh phúc đến với Thiên chủ Sakka, với các đình thần và các thuộc hạ! Chư
+\- Này Pancasikha, mong hạnh phúc đến với Thiên chủ Sakka, với các đình thần và các thuộc hạ! Chư
 Thiên, loài Người, Asurà, Nàgà, Gandhabba, đều ao ước hạnh phúc. Các loại chúng sanh khác cũng vậy.
 
 Như vậy, các Như Lai chào đón thượng chúng. Ðược chào đón như vậy, Thiên chủ Sakka bước vào
@@ -238,10 +238,10 @@ hang Indasàla, đảnh lễ Thế Tôn và đứng một bên.
 hẹp được làm cho rộng rãi, trong hang tối tăm có hào quang chiếu sáng, đó là nhờ thần lực của chư
 Thiên. Rồi Thế Tôn nói với Thiên chủ Sakka:
 
-- Thật là hy hữu, Ðại đức Kosiya! Thật là kỳ diệu, Ðại đức Kosiya, tuy có nhiều trách nhiệm phải gánh
+\- Thật là hy hữu, Ðại đức Kosiya! Thật là kỳ diệu, Ðại đức Kosiya, tuy có nhiều trách nhiệm phải gánh
 vác, có nhiều công tác phải làm, mà vẫn đến đây được!
 
-- Bạch Thế Tôn, đã từ lâu con muốn đến để yết kiến Thế Tôn, nhưng bị ngăn trở bởi các công việc này,
+\- Bạch Thế Tôn, đã từ lâu con muốn đến để yết kiến Thế Tôn, nhưng bị ngăn trở bởi các công việc này,
 công việc khác phải làm cho chư Thiên ở Tam thập tam thiên, và do vậy không thể đến yết kiến Thế Tôn
 được. Bạch Thế Tôn, một thời, Thế Tôn trú ở Sàvatthi (Xá Vệ), tại cốc Salala. Bạch Thế Tôn, rồi con
 đến Sàvatthi để yết kiến Thế Tôn.
@@ -262,7 +262,7 @@ Sakka cùng đình thần và thuộc hạ đầu diện tiếp tục đảnh l�
 Bạch Thế Tôn, không hiểu Bhunjãti có thay mặt con đảnh lễ Thế Tôn không? Thế Tôn có nhớ lời bà ấy
 nói không?
 
-- Này Thiên chủ, bà ấy có đảnh lễ Ta. Ta có nhớ lời bà ấy nói. Chính tiếng bánh xe của Ngài đã khiến
+\- Này Thiên chủ, bà ấy có đảnh lễ Ta. Ta có nhớ lời bà ấy nói. Chính tiếng bánh xe của Ngài đã khiến
 Ta xuất định.
 
 11\. Bạch Thế Tôn, có chư Thiên được sanh lên Tam thập tam thiên trước chúng con, chính chúng con
@@ -386,49 +386,49 @@ _Ta làm Ngươi thỏa mãn._
 
 1\. Sau khi được phép, Thiên chủ Sakka hỏi Thế Tôn câu hỏi đầu tiên:
 
-- Bạch Thế Tôn, do kiết sử gì, các loài Thiên, Nhân, Asurà, Nàgà, Càn Thát Bà, và tất cả những loài
+\- Bạch Thế Tôn, do kiết sử gì, các loài Thiên, Nhân, Asurà, Nàgà, Càn Thát Bà, và tất cả những loài
 khác, dân chúng ao ước: “Không hận thù, không đả thương, không thù nghịch, không ác ý, chúng ta
 sống với nhau không hận thù”. Thế mà với hận thù, với đả thương, với thù nghịch, với ác ý, họ sống với
 nhau trong hận thù?
 
 Ðó là hình thức câu hỏi thứ nhất, Thiên chủ Sakka hỏi Thế Tôn. Và Thế Tôn trả lời câu hỏi ấy như sau:
 
-- Do tật đố và xan tham, các loài Thiên, Nhân Asurà, Nàgà, Càn Thát Bà và tất cả những loài khác, dân
+\- Do tật đố và xan tham, các loài Thiên, Nhân Asurà, Nàgà, Càn Thát Bà và tất cả những loài khác, dân
 chúng ao ước: “Không hận thù, không đả thương, không thù nghịch, không ác ý, chúng ta sống với nhau
 không hận thù”. Thế mà với hận thù, với đả thương, với thù nghịch, với ác ý, họ sống với nhau trong
 hận thù.
 
 Ðó là hình thức Thế Tôn trả lời cho câu hỏi Thiên chủ Sakka. Sung sướng, Thiên chủ Sakka hoan hỷ tín
 thọ lời dạy Thế Tôn và nói:
-- Như vậy là phải, bạch Thế Tôn! Như vậy là phải, bạch Thiện Thệ! Khi nghe Thế Tôn trả lời câu hỏi,
+\- Như vậy là phải, bạch Thế Tôn! Như vậy là phải, bạch Thiện Thệ! Khi nghe Thế Tôn trả lời câu hỏi,
 nghi ngờ của con diệt tận, do dự của con tiêu tan.
 
 2\. Thiên chủ Sakka, sau khi hoan hỷ, tín thọ câu trả lời Thế Tôn, liền hỏi câu hỏi tiếp:
 
-- Bạch Thế Tôn, tật đố, xan tham, do nhân duyên gì, do tập khởi gì, cái gì khiến chúng sanh khởi, cái gì
+\- Bạch Thế Tôn, tật đố, xan tham, do nhân duyên gì, do tập khởi gì, cái gì khiến chúng sanh khởi, cái gì
 khiến chúng hiện hữu, cái gì có mặt thì tật đố, xan tham có mặt? Cái gì không có mặt, thì tật đố xan
 tham không có mặt?
 
-- Này Thiên chủ, tật đố và xan tham do ưa ghét làm nhân duyên, do ưa ghét làm tập khởi, ưa ghét khiến
+\- Này Thiên chủ, tật đố và xan tham do ưa ghét làm nhân duyên, do ưa ghét làm tập khởi, ưa ghét khiến
 chúng sanh khởi, ưa ghét khiến chúng hiện hữu, ưa ghét có mặt thì tật đố, xan tham có mặt; ưa ghét
 không có mặt thì tật đố, xan tham không có mặt.
 
-- Bạch Thế Tôn, ưa ghét do nhân duyên gì, do tập khởi gì? Cái gì khiến chúng sanh khởi, cái gì khiến
+\- Bạch Thế Tôn, ưa ghét do nhân duyên gì, do tập khởi gì? Cái gì khiến chúng sanh khởi, cái gì khiến
 chúng hiện hữu, cái gì có mặt thì ưa ghét có mặt? Cái gì không có mặt thì ưa ghét không có mặt?
 
-- Này Thiên chủ, ưa ghét do dục làm nhân duyên, do dục làm tập khởi, dục khiến chúng sanh khởi, dục
+\- Này Thiên chủ, ưa ghét do dục làm nhân duyên, do dục làm tập khởi, dục khiến chúng sanh khởi, dục
 khiến chúng hiện hữu. Dục có mặt thì ưa ghét có mặt; dục không có mặt thì ưa ghét không có mặt.
 
-- Bạch Thế Tôn, nhưng dục do nhân duyên gì, do tập khởi gì? Cái gì khiến dục sanh khởi, cái gì khiến
+\- Bạch Thế Tôn, nhưng dục do nhân duyên gì, do tập khởi gì? Cái gì khiến dục sanh khởi, cái gì khiến
 dục hiện hữu? Cái gì có mặt thì dục có mặt? Cái gì không có mặt thì dục không có mặt?
 
-- Này Thiên chủ, dục do tầm làm nhân duyên, do tầm làm tập khởi; tầm khiến dục sanh khởi, tầm khiến
+\- Này Thiên chủ, dục do tầm làm nhân duyên, do tầm làm tập khởi; tầm khiến dục sanh khởi, tầm khiến
 dục hiện hữu. Tầm có mặt thì dục có mặt; tầm không có mặt thì dục không có mặt.
 
-- Bạch Thế Tôn, tầm lấy gì làm nhân duyên, lấy gì làm tập khởi? Cái gì khiến tầm sanh khởi, cái gì
+\- Bạch Thế Tôn, tầm lấy gì làm nhân duyên, lấy gì làm tập khởi? Cái gì khiến tầm sanh khởi, cái gì
 khiến tầm hiện hữu? Cái gì có mặt thì tầm có mặt? Cái gì không có mặt thì tầm không có mặt?
 
-- Này Thiên chủ, tầm lấy cái loại vọng tưởng hý luận làm nhân duyên, lấy các loại vọng tưởng hý luận
+\- Này Thiên chủ, tầm lấy cái loại vọng tưởng hý luận làm nhân duyên, lấy các loại vọng tưởng hý luận
 làm tập khởi. Các loại vọng tướng hý luận khiến tầm sanh khởi, các loại vọng tưởng hý luận khiến tầm
 hiện hữu. Do các loại vọng tướng hý luận có mặt thì tầm có mặt. Do các loại vọng tưởng hý luận không
 có mặt thì tầm không có mặt”.
@@ -436,7 +436,7 @@ có mặt thì tầm không có mặt”.
 3\. Bạch Thế Tôn, vị Tỷ Kheo phải chứng đạt như thế nào? Phải thành tựu con đường nào thích hợp và
 hướng dẫn diệt trừ các loại vọng tướng hý luận?
 
-- Này Thiên chủ, Ta nói hý luận có hai loại, một loại phải thân cận, một loại phải tránh xa. Này Thiên
+\- Này Thiên chủ, Ta nói hý luận có hai loại, một loại phải thân cận, một loại phải tránh xa. Này Thiên
 chủ, Ta nói ưu cũng có hai loại, một loại phải thân cận, một loại phải tránh xa. Này Thiên chủ, Ta nói xả
 cũng có hai loại, một loại phải thân cận, một loại phải tránh xa.
 
@@ -475,12 +475,12 @@ và hướng dẫn đến sự diệt trừ các vọng tưởng hý luận.
 Ðó là hình thức câu trả lời Thế Tôn cho câu hỏi Thiên chủ Sakka. Sung sướng, Thiên chủ Sakka hoan
 hỷ, tín thọ lời dạy Thế Tôn và nói:
 
-- Như vậy là phải, bạch Thế Tôn! Như vậy là phải, bạch Thiện Thệ! Khi nghe Thế Tôn trả lời câu hỏi,
+\- Như vậy là phải, bạch Thế Tôn! Như vậy là phải, bạch Thiện Thệ! Khi nghe Thế Tôn trả lời câu hỏi,
 nghi ngờ của con được diệt tận, do dự của con được tiêu tan.
 
 4\. Thiên chủ Sakka, sau khi hoan hỷ tín thọ câu trả lời của Thế Tôn liền hỏi câu hỏi tiếp:
 
-- Bạch Thế Tôn, vị Tỷ Kheo phải thành tựu như thế nào, phải thành tựu biệt giải thoát luật nghi như thế
+\- Bạch Thế Tôn, vị Tỷ Kheo phải thành tựu như thế nào, phải thành tựu biệt giải thoát luật nghi như thế
 nào?
 
 Này Thiên chủ, Ta nói rằng thân hành có hai loại, một loại nên thân cận, một loại nên tránh xa. Này
@@ -519,21 +519,21 @@ Này Thiên chủ, vị Tỷ Kheo phải thành tựu như vậy, phải thành 
 Ðó là hình thức Thế Tôn trả lời câu hỏi Thiên chủ Sakka. Sung sướng, Thiên chủ Sakka hoan hỷ, tín thọ
 lời dạy Thế Tôn và nói:
 
-- Như vậy là phải, bạch Thế Tôn! Như vậy là phải, bạch Thiện Thệ! Sau khi nghe Thế Tôn trả lời câu
+\- Như vậy là phải, bạch Thế Tôn! Như vậy là phải, bạch Thiện Thệ! Sau khi nghe Thế Tôn trả lời câu
 hỏi, nghi ngờ con được diệt tận, do dự con được tiêu tan.
 
 5\. Thiên chủ Sakka, sau khi hoan hỷ tín thọ lời dạy Thế Tôn liền hỏi câu hỏi tiếp:
 
-- Bạch Thế Tôn, vị Tỷ Kheo phải thành tựu như thế nào, phải thành tựu hộ trì các căn như thế nào?
+\- Bạch Thế Tôn, vị Tỷ Kheo phải thành tựu như thế nào, phải thành tựu hộ trì các căn như thế nào?
 
-- Này Thiên chủ, sắc do mắt phân biệt. Ta nói rằng có hai loại, một loại nên thân cận, một loại nên tránh
+\- Này Thiên chủ, sắc do mắt phân biệt. Ta nói rằng có hai loại, một loại nên thân cận, một loại nên tránh
 xa. Này Thiên chủ, tiếng do tai phân biệt... hương do mũi phân biệt... vị do lưỡi phân biệt... xúc do thân
 phân biệt... Này Thiên chủ, pháp do ý phân biệt, Ta nói rằng có hai loại, một loại nên thân cận, một loại
 nên tránh xa.
 
 Ðược nghe như vậy, Thiên chủ Sakka bạch Thế Tôn:
 
-- Bạch Thế Tôn, vấn đề Thế Tôn nói một cách tóm tắt được con hiểu một cách rộng rãi. Bạch Thế Tôn,
+\- Bạch Thế Tôn, vấn đề Thế Tôn nói một cách tóm tắt được con hiểu một cách rộng rãi. Bạch Thế Tôn,
 loại sắc do mắt phân biệt, khi con thân cận mà bất thiện pháp tăng trưởng, thiện pháp suy giảm, thời loại
 sắc do mắt phân biệt ấy nên tránh xa. Bạch Thế Tôn, loại sắc nào do mắt phân biệt, khi con thân cận, bất
 thiện pháp suy giảm, thiện pháp tăng trưởng, thời loại sắc do mắt phân biệt ấy nên thân cận. Bạch Thế
@@ -546,30 +546,30 @@ trả lời câu hỏi, nghi ngờ của con tiêu tan, do dự của con diệt
 
 6\. Như vậy sau khi hoan hỷ tín thọ lời dạy Thế Tôn, Thiên chủ Sakka lại hỏi câu hỏi tiếp:
 
-- Bạch Thế Tôn, có phải tất cả vị Sa Môn, Bà La Môn đều đồng một tư tưởng, đồng một giới hạnh, đồng
+\- Bạch Thế Tôn, có phải tất cả vị Sa Môn, Bà La Môn đều đồng một tư tưởng, đồng một giới hạnh, đồng
 một mong cầu, đồng một chí hướng?
-- Này Thiên chủ, tất cả Sa Môn, Bà La Môn không đồng một tư tưởng, không đồng một giới hạnh,
+\- Này Thiên chủ, tất cả Sa Môn, Bà La Môn không đồng một tư tưởng, không đồng một giới hạnh,
 không đồng một mong cầu, không đồng một chí hướng!
 
-- Bạch Thế Tôn, vì sao cả Sa Môn, Bà La Môn không đồng một giới hạnh, không đồng một mong cầu,
+\- Bạch Thế Tôn, vì sao cả Sa Môn, Bà La Môn không đồng một giới hạnh, không đồng một mong cầu,
 không đồng một chí hướng?
 
-- Này Thiên chủ, thế giới này gồm có nhiều loại giới, nhiều giới sai biệt. Trong thế giới gồm có nhiều
+\- Này Thiên chủ, thế giới này gồm có nhiều loại giới, nhiều giới sai biệt. Trong thế giới gồm có nhiều
 loại giới và nhiều giới sai biệt này, các loại hữu tình tự nhiên thiên chấp một loại giới nào, và khi đã
 thiên chấp, trở thành Kiên trì, cố thủ, với định kiến: “Ðây là sự thật, ngoài ra toàn là si mê”. Do vậy, tất
 cả Sa Môn, Bà La Môn không đồng một tư tưởng, không đồng một giới hạnh, không đồng một cứu
 cánh, không đồng một mong cầu, không đồng một chí hướng.
 
-- Bạch Thế Tôn, có phải tất cả vị Sa Môn, Bà La Môn đều đồng một cứu cánh, đồng một an ổn, đồng
+\- Bạch Thế Tôn, có phải tất cả vị Sa Môn, Bà La Môn đều đồng một cứu cánh, đồng một an ổn, đồng
 một phạm hạnh, đồng một mục đích?
 
-- Này Thiên chủ, tất cả vị Sa Môn, Bà La Môn không đồng một cứu cánh, không đồng một an ổn, không
+\- Này Thiên chủ, tất cả vị Sa Môn, Bà La Môn không đồng một cứu cánh, không đồng một an ổn, không
 đồng một phạm hạnh, không đồng một mục đích.
 
 Bạch Thế Tôn, vì sao tất cả Sa môn, Bà la môn, không đồng một cứu cánh, không đồng một an ổn,
 không đồng một phạm hạnh, không đồng một mục đích?
 
-- Này Thiên chủ, chỉ những vị Sa môn Bà la môn nào đã giải thoát tham ái, những vị ấy mới đồng một
+\- Này Thiên chủ, chỉ những vị Sa môn Bà la môn nào đã giải thoát tham ái, những vị ấy mới đồng một
 cứu cánh, đồng một an ổn, đồng một phạm hạnh, đồng một mục đích. Do vậy, tất cả vị Sa môn, Bà la
 môn không đồng một cứu cánh, không đồng một an ổn, không đồng một phạm hạnh, không đồng một
 mục đích.
@@ -577,28 +577,28 @@ mục đích.
 Ðó là hình thức câu trả lời Thế Tôn cho câu hỏi Thiên chủ Sakka. Sung sướng, Thiên chủ Sakka hoan
 hỷ, tín thọ lời dạy Thế Tôn và nói:
 
-- Như vậy là phải, bạch Thế Tôn! Như vậy là phải, bạch Thiện Thệ! Sau khi nghe Thế Tôn trả lời câu
+\- Như vậy là phải, bạch Thế Tôn! Như vậy là phải, bạch Thiện Thệ! Sau khi nghe Thế Tôn trả lời câu
 hỏi, nghi ngờ con được diệt tận, do dự con được tiêu tan.
 
 7\. Thiên chủ Sakka, sau khi hoan hỷ, tín thọ lời dạy Thế Tôn liền hỏi câu tiếp:
 
-- Bạch Thế Tôn, tham ái là bệnh tật, tham ái là mụn nhọt, tham ái là mũi tên, tham ái dắt dẫn con người
+\- Bạch Thế Tôn, tham ái là bệnh tật, tham ái là mụn nhọt, tham ái là mũi tên, tham ái dắt dẫn con người
 tái sanh đời này, đời khác, khiến con người khi cao, khi thấp. Bạch Thế Tôn, trong khi các Sa môn, Bà
 la môn khác ngoài giáo phái của Ngài không cho con dịp để hỏi những câu hỏi, thời Thế Tôn lại trả lời
 những câu hỏi ấy cho con, giảng giải rất lâu cho con, khiến mũi tên nghi ngờ, do dự của con được Thế
 Tôn rút nhổ đi.
 
-- Này Thiên chủ, Ngươi có biết những câu hỏi ấy cũng được Ngươi hỏi các vị Sa môn, Bà la môn khác
+\- Này Thiên chủ, Ngươi có biết những câu hỏi ấy cũng được Ngươi hỏi các vị Sa môn, Bà la môn khác
 không?
 
-- Bạch Thế Tôn, con được biết những câu hỏi ấy cũng được con hỏi các vị Sa môn, Bà la môn khác.
+\- Bạch Thế Tôn, con được biết những câu hỏi ấy cũng được con hỏi các vị Sa môn, Bà la môn khác.
 
-- Này Thiên chủ, những vị ấy trả lời với Ngươi như thế nào, nếu không gì trở ngại hãy nói cho biết.
+\- Này Thiên chủ, những vị ấy trả lời với Ngươi như thế nào, nếu không gì trở ngại hãy nói cho biết.
 
-- Bạch Thế Tôn, không gì trở ngại cho con, khi Thế Tôn ngồi nghe hay những vị như Thế Tôn.
+\- Bạch Thế Tôn, không gì trở ngại cho con, khi Thế Tôn ngồi nghe hay những vị như Thế Tôn.
 
-- Này Thiên chủ, vậy Ngươi hãy nói đi.
-- Bạch Thế Tôn, những vị Sa môn, Bà la môn mà con nghĩ là những vị sống trong rừng an tịnh, xa vắng,
+\- Này Thiên chủ, vậy Ngươi hãy nói đi.
+\- Bạch Thế Tôn, những vị Sa môn, Bà la môn mà con nghĩ là những vị sống trong rừng an tịnh, xa vắng,
 con đi đến những vị ấy và hỏi những câu hỏi ấy. Các vị này không trả lời cho con, không trả lời lại hỏi
 ngược con: “Tôn giả tên gì?” Ðược hỏi vậy con trả lời: “Chư Hiền giả, tên là Thiên chủ Sakka.” Rồi
 những vị ấy lại hỏi thêm con câu nữa: “Do công việc gì Tôn giả Thiên chủ lại đến chỗ này?” Con liền
@@ -608,15 +608,15 @@ cho chúng tôi.” Không những vậy, các vị này trở thành đệ tử
 các vị ấy. Bạch Thế Tôn, nhưng con là đệ tử của Thế Tôn, đã chứng Dự lưu, không còn bị rơi vào đọa
 xứ, chắc chắn sẽ được giác ngộ.
 
-- Này Thiên chủ, Ngươi có biết trước kia Ngươi không bao giờ có sự thoải mái như vậy, có được sự hỷ
+\- Này Thiên chủ, Ngươi có biết trước kia Ngươi không bao giờ có sự thoải mái như vậy, có được sự hỷ
 lạc như vậy?
 
-- Bạch Thế Tôn, trước kia con không bao giờ có sự thoải mái như vậy, có được an lạc như vậy.
+\- Bạch Thế Tôn, trước kia con không bao giờ có sự thoải mái như vậy, có được an lạc như vậy.
 
-- Này Thiên chủ, như thế nào, Ngươi biết được trước kia không bao giờ có sự thoải mái như vậy, có
+\- Này Thiên chủ, như thế nào, Ngươi biết được trước kia không bao giờ có sự thoải mái như vậy, có
 được sự hỷ lạc như vậy?
 
-- Bạch Thế Tôn, thuở xưa, một trận chiến tranh xẩy ra giữa chư Thiên và các vị Asurà. Bạch Thế Tôn,
+\- Bạch Thế Tôn, thuở xưa, một trận chiến tranh xẩy ra giữa chư Thiên và các vị Asurà. Bạch Thế Tôn,
 trong trận chiến tranh này, chư Thiên thắng trận, các loài Asurà bại trận. Bạch Thế Tôn sau khi thắng
 trận, con là người thắng trận, con suy nghĩ: “Nay cam lồ của chư Thiên và cam lồ của Asurà, cả hai loại
 cam lồ, chư Thiên sẽ được nếm.” Bạch Thế Tôn, thoải mái ấy, hỷ lạc ấy do gậy trượng đem lại, do đao
@@ -627,7 +627,7 @@ Tôn, thoải mái này, hỷ lạc này nhờ nghe Chánh pháp Thế Tôn đem
 8\. - Này Thiên chủ, khi Ngươi cam thọ sự thoải mái và hỷ lạc như vậy, Ngươi cảm thấy những lợi ích
 gì?
 
-- Bạch Thế Tôn, khi con cảm thọ thoải mái và hỷ lạc như vậy, con cảm thấy có sáu lợi ích như sau:
+\- Bạch Thế Tôn, khi con cảm thọ thoải mái và hỷ lạc như vậy, con cảm thấy có sáu lợi ích như sau:
 
 _Nay con đứng tại đây,_
 _Với thân một vị Thiên._
@@ -710,7 +710,7 @@ _Không ai so sánh Ngài!_
 
 10\. Rồi Thiên chủ Sakka nói với Pancasikha, con của Càn thát bà:
 
-- Này Khanh Pancasikha, Ngươi đã giúp ta nhiều việc. Trước nhờ Ngươi làm Thế Tôn bằng lòng, sau
+\- Này Khanh Pancasikha, Ngươi đã giúp ta nhiều việc. Trước nhờ Ngươi làm Thế Tôn bằng lòng, sau
 khi Ngươi làm cho bằng lòng, ta mới đến yết kiến Thế Tôn, bậc A la hán, Chánh Ðẳng Giác. Ta sẽ đóng
 vai trò thân phụ cho Ngươi, Ngươi sẽ là Vua loài Càn thát bà. Ta sẽ cho Ngươi Bhaddà Suriya Vaccasà,
 người mà ngươi ao ước.

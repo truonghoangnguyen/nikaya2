@@ -5,10 +5,10 @@
 Kammassadhamma (Kiếm-ma-sắt-đàm). Tôn giả Ananda (A Nan) đến tại chỗ Thế Tôn ở, sau khi đến,
 đảnh lễ Thế Tôn và ngồi xuống một bên. Sau khi ngồi xuống một bên, Tôn giả Ananda bạch Thế Tôn:
 
-- Hy hữu thay, bạch Thế Tôn! Kỳ diệu thay, bạch Thế Tôn! Bạch Thế Tôn, giáo pháp Duyên khởi này
+\- Hy hữu thay, bạch Thế Tôn! Kỳ diệu thay, bạch Thế Tôn! Bạch Thế Tôn, giáo pháp Duyên khởi này
 thâm thúy, thật sự thâm thúy, và giáo pháp này đối với con hết sức minh bạch rõ ràng.
 
-- Này Ananda, chớ có nói vậy! Này Ananda chớ có nói vậy! Này Ananda, giáo pháp Duyên khởi này
+\- Này Ananda, chớ có nói vậy! Này Ananda chớ có nói vậy! Này Ananda, giáo pháp Duyên khởi này
 thâm thúy, thật sự thâm thúy. Này Ananda, chính vì không giác ngộ, không thâm hiểu giáo pháp này mà
 chúng sanh hiện tại bị rối loạn như một ổ kén, rối ren như một ống chỉ, giống như cỏ munja và lau sậy
 babaja (ba-ba-la) không thể nào ra khỏi khổ xứ, ác thú, đọa xứ, sanh tử.
@@ -51,9 +51,9 @@ Thiên giới, Càn-thát-bà hay Càn-thát-bà-giới, Dạ-xoa hay Dạ Xoa g
 Người hay Nhân giới, loại bốn chân hay tứ túc giới, loài chim hay điểu giới, loài trùng xà hay trùng xà
 giới. Này Ananda, nếu không có sanh cho tất cả, do sanh diệt thời lão tử có thể hiện hữu không?
 
-- Bạch Thế Tôn, không!
+\- Bạch Thế Tôn, không!
 
-- Này Ananda, như vậy là nhơn, như vậy là duyên, như vậy là tập khởi, như vậy là nhơn duyên của lão
+\- Này Ananda, như vậy là nhơn, như vậy là duyên, như vậy là tập khởi, như vậy là nhơn duyên của lão
 tử, tức là sanh.
 
 5\. Trước đã nói: “Do duyên hữu, sanh sanh ra”. Này Ananda, phải hiểu như thế nào câu nói: “Do duyên
@@ -61,36 +61,36 @@ hữu, sanh sanh ra”? Này Ananda, nếu hữu không có bất cứ loại n�
 dục hữu, sắc hữu hay vô sắc hữu. Nếu không có hữu cho tất cả, do hữu diệt thời sanh có thể hiện hữu
 không?
 
-- Bạch Thế Tôn, không!
+\- Bạch Thế Tôn, không!
 
-- Này Ananda, như vậy là nhơn, như vậy là duyên, như vậy là tập khởi, như vậy là nhơn duyên của sanh,
+\- Này Ananda, như vậy là nhơn, như vậy là duyên, như vậy là tập khởi, như vậy là nhơn duyên của sanh,
 tức là hữu.
 
 6\. Trước đã nói: “Do duyên thủ, hữu sanh”. Này Ananda, phải hiểu như thế nào câu hỏi: “Do duyên thủ,
 hữu sanh”? Này Ananda, nếu thủ không có bất cứ loại nào, bất cứ chỗ nào, như dục thủ, kiến thủ, giới
 cấm thủ hay ngã chấp thủ. Nếu không có thủ cho tất cả, do thủ diệt thời hữu có thể hiện hữu không?
 
-- Bạch Thế Tôn, không!
+\- Bạch Thế Tôn, không!
 
-- Này Ananda, như vậy là nhơn, như vậy là duyên, như vậy là tập khởi, như vậy là nhơn duyên của hữu,
+\- Này Ananda, như vậy là nhơn, như vậy là duyên, như vậy là tập khởi, như vậy là nhơn duyên của hữu,
 tức là thủ.
 
 7\. Trước đã nói: “Do duyên ái, thủ sanh”. Này Ananda, phải hiểu như thế nào câu nói: “Do duyên ái, thủ
 sanh”? Này Ananda, nếu ái không có bất cứ loại nào, bất cứ chỗ nào, như sắc ái, thanh ái, hương ái, vị
 ái, xúc ái hay pháp ái. Nếu không có ái cho tất cả, do ái diệt thời thủ có thể hiện hữu không?
 
-- Bạch Thế Tôn, không!
+\- Bạch Thế Tôn, không!
 
-- Này Ananda, như vậy là nhơn, như vậy là duyên, như vậy là tập khởi, như vậy là nhơn duyên của thủ,
+\- Này Ananda, như vậy là nhơn, như vậy là duyên, như vậy là tập khởi, như vậy là nhơn duyên của thủ,
 tức là ái.
 
 8\. Trước đã nói: “Do duyên thọ, ái sanh”. Này Ananda, nếu thọ không có bất cứ loại nào, bất cứ chỗ
 nào, như nhãn xúc sở sanh thọ, nhĩ xúc sở sanh thọ, tỷ xúc sở sanh thọ, thiệt xúc sở sanh thọ, tỷ xúc sở
 sanh thọ, ý xúc sở sanh thọ. Nếu không có thọ cho tất cả, nếu thọ diệt thời ái có thể hiện hữu không?
 
-- Bạch Thế Tôn, không!
+\- Bạch Thế Tôn, không!
 
-- Này Ananda, như vậy là nhơn, như vậy là duyên, như vậy là tập khởi, như vậy là nhơn duyên của ái,
+\- Này Ananda, như vậy là nhơn, như vậy là duyên, như vậy là tập khởi, như vậy là nhơn duyên của ái,
 tức là thọ.
 
 9\. Này Ananda, như vậy do duyên thọ, ái sanh; do duyên ái, tìm cầu sanh; do duyên tìm cầu, lợi sanh; do
@@ -106,9 +106,9 @@ nào, bất cứ chỗ nào, nếu không có thủ hộ cho tất cả, nếu t
 chấp trượng, chấp kiếm, tranh đấu, tranh luận, đấu khẩu, khẩu chiến, ác khẩu, vọng ngữ có thể hiện hữu
 được không?
 
-- Bạch Thế Tôn, không!
+\- Bạch Thế Tôn, không!
 
-- Này Ananda, như vậy là nhơn, như vậy là duyên, như vậy là tập khởi, như vậy là nhơn duyên của một
+\- Này Ananda, như vậy là nhơn, như vậy là duyên, như vậy là tập khởi, như vậy là nhơn duyên của một
 số ác, bất thiện pháp như chấp trượng, chấp kiếm, tranh đấu, tranh luận, đấu khẩu, khẩu chiến, ác khẩu,
 vọng ngữ, tức là thủ hộ.
 
@@ -116,70 +116,70 @@ vọng ngữ, tức là thủ hộ.
 duyên hà tiện thủ hộ sanh”? Này Ananda, nếu hà tiện không có bất cứ loại nào, bất cứ chỗ nào, nếu
 không có hà tiện, cho tất cả, nếu hà tiện diệt thời thủ hộ có thể hiện hữu không?
 
-- Bạch Thế Tôn, không!
+\- Bạch Thế Tôn, không!
 
-- Này Ananda, như vậy là nhơn, như vậy là duyên, như vậy là tập khởi, như vậy là nhơn duyên của thủ
+\- Này Ananda, như vậy là nhơn, như vậy là duyên, như vậy là tập khởi, như vậy là nhơn duyên của thủ
 hộ, tức là hà tiện.
 
 12\. Trước đã nói: “Do duyên chấp thủ, hà tiện sanh”. Này Ananda, phải hiểu như thế nào câu nói: “Do
 duyên chấp thủ, hà tiện sanh”? Này Ananda, nếu chấp thủ không có bất cứ loại nào, bất cứ chỗ nào, nếu
 không chấp thủ cho tất cả, nếu chấp thủ diệt thời hà tiện có thể hiện hữu được không?
 
-- Bạch Thế Tôn, không!
+\- Bạch Thế Tôn, không!
 
-- Này Ananda, như vậy là nhơn, như vậy là duyên, như vậy là tập khởi, như vậy là nhơn duyên của hà
+\- Này Ananda, như vậy là nhơn, như vậy là duyên, như vậy là tập khởi, như vậy là nhơn duyên của hà
 tiện, tức là chấp thủ.
 
 13\. Trước đã nói: “Do duyên đam trước, chấp thủ sanh”. Này Ananda, phải hiểu như thế nào câu nói:
 “Do duyên đam trước, chấp thủ sanh”? Này Ananda, nếu đam trước không có bất cứ loại nào, bất cứ chỗ
 nào, nếu không có đam trước cho tất cả, nếu đam trước diệt thời chấp thủ có thể hiện hữu được không?
 
-- Bạch Thế Tôn, không!
+\- Bạch Thế Tôn, không!
 
-- Này Ananda, như vậy là nhơn, như vậy là duyên, như vậy là tập khởi, như vậy là nhơn duyên của chấp
+\- Này Ananda, như vậy là nhơn, như vậy là duyên, như vậy là tập khởi, như vậy là nhơn duyên của chấp
 thủ, tức là đam mê.
 
 14\. Trước đã nói: “Do duyên tham dục, đam trước sanh”. Này Ananda, phải hiểu như thế nào câu nói:
 “Do duyên tham dục, đam trước sanh”? Này Ananda, nếu tham dục không có bất cứ loại nào, bất cứ chỗ
 nào, nếu không có tham dục cho tất cả, nếu tham dục diệt thời đam trước có thể hiện hữu được không?
 
-- Bạch Thế Tôn, không!
+\- Bạch Thế Tôn, không!
 
-- Này Ananda, như vậy là nhơn, như vậy là duyên, như vậy là tập khởi, như vậy là nhơn duyên của đam
+\- Này Ananda, như vậy là nhơn, như vậy là duyên, như vậy là tập khởi, như vậy là nhơn duyên của đam
 trước, tức là tham dục.
 15\. Trước đã nói: “Do duyên quyết định, tham dục sanh”. Này Ananda, phải hiểu như thế nào câu nói:
 “Do duyên quyết định tham dục sanh”? Này Ananda, nếu quyết định không có bất cứ loại nào, bất cứ
 chỗ nào, nếu không có quyết định cho tất cả, nếu quyết định diệt thời tham dục có thể hiện hữu được
 không?
 
-- Bạch Thế Tôn, không!
+\- Bạch Thế Tôn, không!
 
-- Này Ananda, như vậy là nhơn, như vậy là duyên, như vậy là tập khởi, như vậy là nhơn duyên của tham
+\- Này Ananda, như vậy là nhơn, như vậy là duyên, như vậy là tập khởi, như vậy là nhơn duyên của tham
 dục tức là quyết định.
 
 16\. Trước đã nói: “Do duyên lợi, quyết định sanh”. Này Ananda, phải hiểu như thế nào câu nói: “Do
 duyên lợi quyết định sanh”? Này Ananda, nếu lợi không có không có bất cứ loại nào, bất cứ chỗ nào,
 nếu lợi không có cho tất cả, nếu lợi diệt thời quyết định có thể hiện hữu được không?
 
-- Bạch Thế Tôn, không!
+\- Bạch Thế Tôn, không!
 
-- Này Ananda, như vậy là nhơn, như vậy là duyên, như vậy là tập khởi, như vậy là nhơn duyên của
+\- Này Ananda, như vậy là nhơn, như vậy là duyên, như vậy là tập khởi, như vậy là nhơn duyên của
 quyết định, tức là lợi.
 
 17\. Trước đã nói: “Do duyên tầm cầu, lợi sanh”. Này Ananda, phải hiểu như thế nào câu nói: “Do duyên
 tầm cầu, lợi sanh”? Này Ananda, nếu tầm cầu không có bất cứ loại nào, bất cứ chỗ nào, nếu tầm cầu
 không có cho tất cả, nếu tầm cầu diệt thời lợi có thể hiện hữu được không?
 
-- Bạch Thế Tôn, không!
+\- Bạch Thế Tôn, không!
 
-- Này Ananda, như vậy là nhơn, như vậy là duyên, như vậy là tập khởi, như vậy là nhơn duyên của lợi,
+\- Này Ananda, như vậy là nhơn, như vậy là duyên, như vậy là tập khởi, như vậy là nhơn duyên của lợi,
 tức là tầm cầu.
 
 18\. Trước đã nói: “Do duyên ái, tầm cầu sanh”. Này Ananda, phải hiểu như thế nào câu nói: “Do duyên
 ái, tầm cầu sanh”? Này Ananda, nếu không có bất cứ loại nào, bất cứ chỗ nào, nếu ái không có cho tất
 cả, nếu ái diệt thời tầm cầu có thể hiện hữu được không?- Bạch Thế Tôn, không!
 
-- Này Ananda, như vậy là nhơn, như vậy là duyên, như vậy là tập khởi, như vậy là nhơn duyên của tầm
+\- Này Ananda, như vậy là nhơn, như vậy là duyên, như vậy là tập khởi, như vậy là nhơn duyên của tầm
 cầu, tức là ái.
 
 Này Ananda, như vậy hai phương diện (của ái) tuy hai nhưng hòa hợp thành một, nhờ thọ (làm duyên
@@ -190,9 +190,9 @@ xúc, thọ sanh”? Này Ananda, nếu xúc không có bất cứ loại nào, 
 tỷ xúc, thiệt xúc, thân xúc, ý xúc, nếu xúc không có cho tất cả, nếu xúc diệt thời thọ có thể hiện hữu
 không?
 
-- Bạch Thế Tôn, không!
+\- Bạch Thế Tôn, không!
 
-- Này Ananda, như vậy là nhơn, như vậy là duyên, như vậy là tập khởi, như vậy là nhơn duyên của thọ,
+\- Này Ananda, như vậy là nhơn, như vậy là duyên, như vậy là tập khởi, như vậy là nhơn duyên của thọ,
 tức là xúc.
 
 20\. Trước đã nói: “Do duyên danh sắc, xúc sanh”. Này Ananda, phải hiểu như thế nào câu nói: “Do
@@ -200,24 +200,24 @@ duyên danh sắc, xúc sanh”? Này Ananda, nếu những hình, những sắc
 mà danh thân và sắc thân thi thiết; nếu những hình, những sắc, những tướng, những mạo ấy không có,
 thời danh mục xúc trong sắc thân có thể hiện hữu được không?
 
-- Bạch Thế Tôn, không!
+\- Bạch Thế Tôn, không!
 
-- Này Ananda, những hình, những sắc, những tướng, những mạo ấy nhờ đó mà sắc thân được thi thiết,
+\- Này Ananda, những hình, những sắc, những tướng, những mạo ấy nhờ đó mà sắc thân được thi thiết,
 nếu những hình, những sắc, những tướng, những mạo ấy không có, thời hữu đối xúc trong danh thân có
 thể hiện hữu được không?
 
-- Bạch Thế Tôn, không!
+\- Bạch Thế Tôn, không!
 
-- Này Ananda, những hình, những sắc, những tướng, những mạo nhờ đó mà danh thân và sắc thân được
+\- Này Ananda, những hình, những sắc, những tướng, những mạo nhờ đó mà danh thân và sắc thân được
 thi thiết, nếu những hình, những sắc, những tướng, những mạo ấy không có, thời danh mục xúc hay hữu
 đối xúc có thể hiện hữu được không?
 
-- Bạch Thế Tôn, không!
+\- Bạch Thế Tôn, không!
 
-- Này Ananda, những hình, những sắc, những tướng, những mạo nhờ đó mà danh sắc được thi thiết, nếu
+\- Này Ananda, những hình, những sắc, những tướng, những mạo nhờ đó mà danh sắc được thi thiết, nếu
 những hình, những sắc, những tướng, những mạo ấy không có thì xúc có thể hiện hữu được không?
 
-- Bạch Thế Tôn, không!
+\- Bạch Thế Tôn, không!
 
 Do vậy, này Ananda, như vậy là nhơn, như vậy là duyên, như vậy là tập khởi, như vậy là nhơn duyên
 của xúc, tức là danh sắc.
@@ -226,30 +226,30 @@ của xúc, tức là danh sắc.
 duyên thức, danh sắc sanh”? Này Ananda, nếu thức không đi vào trong bụng của người mẹ, thời danh
 sắc có thể hình thành trong bụng bà mẹ không?
 
-- Bạch Thế Tôn, không!
+\- Bạch Thế Tôn, không!
 
-- Này Ananda, nếu thức đi vào trong bụng bà mẹ rồi bị tiêu diệt, thời danh sắc có thể hình thành trạng
+\- Này Ananda, nếu thức đi vào trong bụng bà mẹ rồi bị tiêu diệt, thời danh sắc có thể hình thành trạng
 thái này, trạng thái khác không?
 
-- Bạch Thế Tôn, không!
+\- Bạch Thế Tôn, không!
 
-- Này Ananda, nếu thức bị đoạn trừ trong đứa con nít, hoặc là đồng nam hay đồng nữ, thời danh sắc có
+\- Này Ananda, nếu thức bị đoạn trừ trong đứa con nít, hoặc là đồng nam hay đồng nữ, thời danh sắc có
 thể lớn hơn, trưởng thành và thành mãn được không?
 
-- Bạch Thế Tôn, không!
+\- Bạch Thế Tôn, không!
 
-- Do vậy, này Ananda, như vậy là nhơn, như vậy là duyên, như vậy là tập khởi, như vậy là nhơn duyên
+\- Do vậy, này Ananda, như vậy là nhơn, như vậy là duyên, như vậy là tập khởi, như vậy là nhơn duyên
 của danh sắc, tức là thức.
 
 22\. Trước đã nói: “Do duyên danh sắc, thức sanh”. Này Ananda, phải hiểu như thế nào câu nói: “Do
 duyên sanh sắc thức sanh “? Này Ananda, nếu thức không an trú được trong danh sắc, thời trong tương
 lai, có thể hiện hữu sự hình thành của sanh, lão, tử, khổ, tập không?
 
-- Bạch Thế Tôn, không!
-- Do vậy, này Ananda, như vậy là nhơn, như vậy là duyên, như vậy là tập khởi, như vậy là nhơn duyên
+\- Bạch Thế Tôn, không!
+\- Do vậy, này Ananda, như vậy là nhơn, như vậy là duyên, như vậy là tập khởi, như vậy là nhơn duyên
 của thức, tức là danh sắc.
 
-- Này Ananda, trong giới hạn con người được sanh, con người được già, con người được chết, con người
+\- Này Ananda, trong giới hạn con người được sanh, con người được già, con người được chết, con người
 được diệt, hay con người được tái sanh, trong giới hạn ấy là danh mục đạo, trong giới hạn ấy là ngôn
 ngữ đạo, trong giới hạn ấy là thi thiết đạo, trong giới hạn ấy là tuệ giới, trong giới hạn ấy là lưu chuyển
 luân hồi hiện hữu trạng thái này trạng thái khác nghĩa là danh sắc và thức.
@@ -339,9 +339,9 @@ quan niệm “Ngã của tôi là thọ”.
 ấy cần được trả lời: “Này Hiền giả, chỗ nào không có một cảm thọ gì cả, chỗ ấy có thể xem là “Tôi có”
 được không?
 
-- Bạch Thế Tôn, không!
+\- Bạch Thế Tôn, không!
 
-- Do vậy, này Ananda, không thể chấp nhận quan niệm “Ngã của tôi không phải là thọ, ngã của tôi
+\- Do vậy, này Ananda, không thể chấp nhận quan niệm “Ngã của tôi không phải là thọ, ngã của tôi
 không có cảm thọ”.
 
 31\. Này Ananda, ai nói như sau: “Ngã của tôi không phải là thọ, ngã của tôi không phải không có cảm
@@ -349,9 +349,9 @@ thọ; ngã của tôi có cảm thọ, ngã của tôi có khả năng cảm th
 nếu tất cả mọi loại cảm thọ đều đoạn diệt hoàn toàn, khi không còn một loại cảm thọ nào cả, khi thọ đã
 tận diệt, thời ở tại chỗ ấy, có thể nói: “Tôi là như vậy” chăng?”
 
-- Bạch Thế Tôn, không!
+\- Bạch Thế Tôn, không!
 
-- Do vậy, này Ananda, không thể chấp nhận quan niệm “Ngã của tôi không phải là thọ, ngã của tôi
+\- Do vậy, này Ananda, không thể chấp nhận quan niệm “Ngã của tôi không phải là thọ, ngã của tôi
 không phải không có cảm thọ; ngã của tôi có cảm thọ, ngã của tôi có khả năng cảm thọ”.
 
 32\. Này Ananda, khi có một vị Tỷ-kheo không quan niệm ngã là thọ, không quan niệm ngã không phải
@@ -398,29 +398,29 @@ chư Thiên và một số hữu tình trong địa ngục. Này Ananda nếu c�
 tập khởi, hiểu được sự đoạn diệt, hiểu được vị ngọt, hiểu được sự nguy hiểm và hiểu được sự xuất ly của
 trú xứ này, một vị như vậy có thể còn hoan hỷ ưa thích trú xứ này không?
 
-- Bạch Thế Tôn, không!
+\- Bạch Thế Tôn, không!
 
-- Này Ananda, trong thức trú xứ thứ hai ... thứ ba ... thứ tư ... thứ năm ... thứ sáu ... Này Ananda, trong
+\- Này Ananda, trong thức trú xứ thứ hai ... thứ ba ... thứ tư ... thứ năm ... thứ sáu ... Này Ananda, trong
 thức trú xứ thứ bảy, hoàn toàn vượt ra khỏi Thức vô biên xứ, chỉ có tưởng “Vô sở hữu”, được sanh vào
 cõi Vô sở hữu xứ. Này Ananda nếu có ai hiểu được trú xứ này, hiểu được sự tập khởi, hiểu được sự đoạn
 diệt, hiểu được sự tập khởi, hiểu được sự đoạn diệt, hiểu được vị ngọt, hiểu được sự nguy hiểm và hiểu
 được sự xuất ly của trú xứ này, một vị như vậy có thể còn hoan hỷ ưa thích trú xứ này không?
 
-- Bạch Thế Tôn, không!
+\- Bạch Thế Tôn, không!
 
-- Này Ananda, với Vô tưởng hữu tình xứ này, này Ananda, nếu có ai hiểu được trú xứ này, hiểu được sự
+\- Này Ananda, với Vô tưởng hữu tình xứ này, này Ananda, nếu có ai hiểu được trú xứ này, hiểu được sự
 tập khởi, hiểu được sự đoạn diệt, hiểu được vị ngọt, hiểu được sự nguy hiểm và hiểu được sự xuất ly của
 trú xứ này, một vị như vậy có thể còn hoan hỷ ưa thích trú xứ này không?
 
-- Bạch Thế Tôn, không!
+\- Bạch Thế Tôn, không!
 
-- Này Ananda, với Phi tưởng phi phi tưởng xứ này, này Ananda nếu có ai hiểu được trú xứ này, hiểu
+\- Này Ananda, với Phi tưởng phi phi tưởng xứ này, này Ananda nếu có ai hiểu được trú xứ này, hiểu
 được sự tập khởi, hiểu được sự đoạn diệt, hiểu được vị ngọt, hiểu được sự nguy hiểm và hiểu được sự
 xuất ly của trú xứ này, một vị như vậy có thể còn hoan hỷ ưa thích trú xứ này không?
 
-- Bạch Thế Tôn, không!
+\- Bạch Thế Tôn, không!
 
-- Này Ananda, bởi bảy thức trú xứ và hai xứ này, nếu có vị Tỷ-kheo đã như chơn hiểu được tập khởi,
+\- Này Ananda, bởi bảy thức trú xứ và hai xứ này, nếu có vị Tỷ-kheo đã như chơn hiểu được tập khởi,
 đoạn trừ, vị ngọt, sự nguy hiểm, xuất ly của chúng, nhờ không còn chấp thủ, vị này được giải thoát. Này
 Ananda, vị Tỷ-kheo như vậy được gọi là Tuệ giải thoát.
 

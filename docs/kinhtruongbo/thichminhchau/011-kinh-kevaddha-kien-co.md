@@ -5,35 +5,35 @@
 tuổi Kevaddha đến tại chỗ Thế Tôn, đảnh lễ Ngài và ngồi xuống một bên. Sau khi ngồi xuống một bên,
 cư sĩ trẻ tuổi Kevaddha bạch Thế Tôn:
 
-- Bạch Thế Tôn, Nalandà này có uy tín và phồn thịnh, nhân dân đông đúc và tín kính Thế Tôn. Bạch Thế
+\- Bạch Thế Tôn, Nalandà này có uy tín và phồn thịnh, nhân dân đông đúc và tín kính Thế Tôn. Bạch Thế
 Tôn, lành thay nếu Thế Tôn chỉ giáo cho một Tỷ-kheo thị hiện thượng nhân pháp, thần thông biến hóa.
 Nhờ vậy Nalandà này sẽ được nhiều người tín kính Thế Tôn hơn nữa.
 
 Ðược nghe nói vậy, Thế Tôn nói với cư sĩ trẻ tuổi Kevaddha:
 
-- Kevaddha, Ta không dạy cho các Tỷ-kheo pháp này: “Này các Tỷ-kheo các Ngươi hãy thị hiện thượng
+\- Kevaddha, Ta không dạy cho các Tỷ-kheo pháp này: “Này các Tỷ-kheo các Ngươi hãy thị hiện thượng
 nhân pháp, thần thông biến hóa cho các cư sĩ áo trắng”.
 
 2\. Lần thứ hai, cư sĩ trẻ tuổi Kevaddha bạch Thế Tôn:
 
-- Bạch Thế Tôn, con không muốn phiền nhiễu Thế Tôn. Con chỉ nói: “Bạch Thế Tôn, Nalandà này có uy
+\- Bạch Thế Tôn, con không muốn phiền nhiễu Thế Tôn. Con chỉ nói: “Bạch Thế Tôn, Nalandà này có uy
 tín và phồn thịnh, nhân dân đông đúc và tín kính Thế Tôn. Bạch Thế Tôn, lành thay nếu Thế Tôn chỉ
 giáo cho một Tỷ-kheo thị hiện thượng nhân pháp, thần thông biến hóa. Nhờ vậy Nalandà này sẽ được
 nhiều người tín kính Thế Tôn hơn nữa”.
 
 Lần thứ hai, Thế Tôn nói với cư sĩ trẻ tuổi Kevaddha:
 
-- Này Kevaddha, Ta không dạy cho các Tỷ-kheo pháp này: “Này các Tỷ-kheo, các Ngươi hãy hiện
+\- Này Kevaddha, Ta không dạy cho các Tỷ-kheo pháp này: “Này các Tỷ-kheo, các Ngươi hãy hiện
 thượng nhân pháp, thần thông biến hóa cho các cư sĩ áo trắng”.
 
 3\. Lần thứ ba, cư sĩ trẻ tuổi Kevaddha Bạch Thế Tôn:
 
-- Bạch Thế Tôn, con không muốn phiền nhiễu Thế Tôn. Con chỉ nói: “Bạch Thế Tôn, Nalandà này có uy
+\- Bạch Thế Tôn, con không muốn phiền nhiễu Thế Tôn. Con chỉ nói: “Bạch Thế Tôn, Nalandà này có uy
 tín và phồn thịnh, nhân dân đông đúc và tín kính Thế Tôn. Bạch Thế Tôn, lành thay nếu Thế Tôn chỉ
 giáo cho một Tỷ-kheo thị hiện thượng nhân pháp, thần thông biến hóa. Nhờ vậy Nalandà này sẽ được
 nhiều người tín kính Thế Tôn hơn nữa”.
 
-- Này Kevaddha, có ba pháp thần thông này Ta đã tự mình giác ngộ và tuyên thuyết. Thế nào là ba? Tức
+\- Này Kevaddha, có ba pháp thần thông này Ta đã tự mình giác ngộ và tuyên thuyết. Thế nào là ba? Tức
 là biến hóa thần thông, tha tâm thần thông, giáo hóa thần thông.
 
 4\. Này Kevaddha, thế nào là biến hóa thần thông? Này Kevaddha, ở đời có Tỷ-kheo chứng được các
@@ -54,9 +54,9 @@ Tôn giả, có một chú thuật gọi là Gandhhàrì. Nhờ chú thuật hi�
 thân... có thể tự thân bay đến cõi Phạm thiên”. Này Kevaddha, ngươi nghĩ thế nào? Người không có
 lòng tín thành có thể nói với người có lòng tín thành như vậy không?
 
-- Bạch Thế Tôn, có thể nói như vậy.
+\- Bạch Thế Tôn, có thể nói như vậy.
 
-- Này Kevaddha chính vì ta thấy sự nguy hiểm trong sự biến hóa thần thông mà ta nhàm chán, hổ thẹn,
+\- Này Kevaddha chính vì ta thấy sự nguy hiểm trong sự biến hóa thần thông mà ta nhàm chán, hổ thẹn,
 ghê sợ biến hóa thần thông.
 
 6\. Này Kevaddha, thế nào là tha tâm thần thông? Này Kevaddha, ở đời có Tỷ-kheo nói lên tâm, nói lên
@@ -74,9 +74,9 @@ của các loài hữu tình khác, của các người khác... “Thế này l
 Này Kevaddha, Ngươi nghĩ thế nào? Người không có lòng tín thành có thể nói với Ngươi có lòng tín
 thành như vậy không?
 
-- Bạch Thế Tôn, có thể nói như vậy?
+\- Bạch Thế Tôn, có thể nói như vậy?
 
-- Này Kevaddha chính Ta thấy sự nguy hiểm trong sự tha tâm thần thông mà Ta nhàm chán, hổ thẹn,
+\- Này Kevaddha chính Ta thấy sự nguy hiểm trong sự tha tâm thần thông mà Ta nhàm chán, hổ thẹn,
 ghê sợ tha tâm thần thông.
 
 8\. Này Kevaddha, thế nào là giáo hóa thần thông? Ở đời có Tỷ-kheo giáo hóa như sau: “Hãy suy tư như
@@ -221,9 +221,9 @@ Thượng đế, Sáng tạo chủ, Hóa sanh chủ, Ðại tôn, Chúa tể m�
 chúng sanh đã và sẽ sanh. Vị này ưu thế hơn, thù thắng hơn chúng tôi. Vị này có thể biết bốn đại chủng
 này địa đại... phong đại - đi đâu, sau khi biến diệt hoàn toàn”.
 
-- Này Hiền giả, hiện nay Ðại Phạm thiên ấy ở đâu?
+\- Này Hiền giả, hiện nay Ðại Phạm thiên ấy ở đâu?
 
-- Này Tỷ-kheo, chúng tôi không biết Phạm thiên ở đâu, vì sao có Phạm thiên và Phạm thiên từ đâu đến.
+\- Này Tỷ-kheo, chúng tôi không biết Phạm thiên ở đâu, vì sao có Phạm thiên và Phạm thiên từ đâu đến.
 Nhưng này Tỷ-kheo, khi nào triệu tướng hiện, khi nào ánh sáng sanh, khi nào hào quang hiển, thời
 Phạm thiên xuất hiện. Ánh sáng xanh, hào quang hiển là tướng Phạm thiên xuất hiện từ trước là như
 vậy.

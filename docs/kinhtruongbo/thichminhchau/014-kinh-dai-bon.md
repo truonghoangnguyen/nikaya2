@@ -12,23 +12,23 @@ tiền thân được khởi lên: “Ðây là tiền thân, đây là tiền t
 Rồi Thế Tôn, từ chỗ ngồi đứng dậy, đi đến Hoa Lâm viên đường. Khi đến xong, Ngài ngồi trên ghế đã
 soạn sẵn. Sau khi ngồi, Thế Tôn hỏi các Tỷ-kheo:
 
-- Này các Tỷ-kheo, câu chuyện gì, các người đang ngồi bàn? Câu chuyện gì đã bị gián đoạn giữa các
+\- Này các Tỷ-kheo, câu chuyện gì, các người đang ngồi bàn? Câu chuyện gì đã bị gián đoạn giữa các
 người?
 
 Khi được nói vậy, những Tỷ-kheo ấy bạch Thế Tôn:
 
-- Bạch Thế Tôn, chúng con đi khất thực về, sau khi dùng bữa xong, cùng ngồi và tụ họp tại Hoa Lâm
+\- Bạch Thế Tôn, chúng con đi khất thực về, sau khi dùng bữa xong, cùng ngồi và tụ họp tại Hoa Lâm
 viên đường, pháp thoại về tiền thân được khởi lên: “Ðây là tiền thân, đây là tiền thân”. Bạch Thế Tôn,
 đó là câu chuyện đang được bàn đến giữa chúng con thời Thế Tôn đến.
 
 3\. - Này các Tỷ-kheo, các người có muốn nghe pháp thuộc thoại về tiền thân không?
 
-- Bạch Thế Tôn, thật là đúng thời; bạch Thiện Thệ, thật là đúng thời để Thế Tôn giảng pháp thoại thuộc
+\- Bạch Thế Tôn, thật là đúng thời; bạch Thiện Thệ, thật là đúng thời để Thế Tôn giảng pháp thoại thuộc
 về tiền thân. Sau khi nghe Thế Tôn, các Tỷ-kheo sẽ thọ trì.
 
-- Vậy này các Tỷ-kheo, các người hãy nghe và khéo tác ý, Ta sẽ giảng.
+\- Vậy này các Tỷ-kheo, các người hãy nghe và khéo tác ý, Ta sẽ giảng.
 
-- Dạ vâng, bạch Thế Tôn.
+\- Dạ vâng, bạch Thế Tôn.
 
 Các Tỷ-kheo này đáp lời Thế Tôn. Thế Tôn giảng như sau:
 
@@ -153,7 +153,7 @@ Thế Tôn thuyết giảng như vậy. Giảng xong Thiện Thệ từ chỗ ng
 
 13\. Thế Tôn đi ra chẳng bao lâu cuộc đàm thoại sau đây khởi lên giữa những Tỷ-kheo ấy:
 
-- Này các Hiền giả, thật hy hữu thay! Này các liền giả, thật kỳ diệu thay, đại thần lực, đại oai lực của
+\- Này các Hiền giả, thật hy hữu thay! Này các liền giả, thật kỳ diệu thay, đại thần lực, đại oai lực của
 Như Lai! Như Lai nhớ được chư Phật quá khứ, những vị này đã nhập Niết bàn, đã đoạn các chướng
 ngại, đã đoạn các chướng đạo, đã chấm dứt sự luân hồi, đã thoát ly mọi đau khổ. Như Lai cũng nhớ đến
 chủng tánh của những vị này, cũng nhớ đến danh tánh, cũng nhớ đến tộc tánh, cũng nhớ đến tuổi thọ,
@@ -178,11 +178,11 @@ Như vậy là cuộc đàm thoại đang khởi lên giữa những Tỷ-kheo �
 14\. Bấy giờ Thế Tôn, vào buổi chiều tối, sau khi xuất định, liền đến Hoa Lâm viên đường, ngồi trên chỗ
 đã soạn sẵn. Sau khi ngồi xong, Thế Tôn nói với các Tỷ-kheo:
 
-- Này các Tỷ-kheo, nay các Ngươi ngồi luận bàn vấn đề gì? Ðề tài gì đã được luận bàn giữa các Ngươi?
+\- Này các Tỷ-kheo, nay các Ngươi ngồi luận bàn vấn đề gì? Ðề tài gì đã được luận bàn giữa các Ngươi?
 
 Khi được hỏi vậy, các Tỷ-kheo ấy bạch Thế Tôn:
 
-- Bạch Thế Tôn, Thế Tôn đi ra chẳng bao lâu, cuộc đàm thoại sau đây đã khởi lên giữa chúng con: “Này
+\- Bạch Thế Tôn, Thế Tôn đi ra chẳng bao lâu, cuộc đàm thoại sau đây đã khởi lên giữa chúng con: “Này
 các Hiền giả, thật hy hữu thay! Này các hiền giả thật kỳ diệu thay đại thần lực, đại oai lực của Như Lai!
 Như Lai nhớ được chư Phật quá khứ, những vị này đã nhập Niết Bàn, đã đoạn các chướng ngại, đã đoạn
 các chướng đạo, đã chấm dứt sự luân hồi, đã thoát ly mọi đau khổ. Như Lai cũng nhớ đến chủng tánh
@@ -221,7 +221,7 @@ như vậy”.
 
 Này các Tỷ-kheo, vậy hãy nghe và suy nghiệm kỹ, Ta sẽ giảng.
 
-- Thưa vâng, Bạch Thế Tôn.
+\- Thưa vâng, Bạch Thế Tôn.
 
 Các Tỷ-kheo ấy vâng lời Thế Tôn, Thế Tôn giảng như sau:
 
@@ -534,7 +534,7 @@ về cung”. - “Thưa vâng, Hoàng tử”. Con vâng theo lời Hoàng tử
 vương, Hoàng tử về trong cung, đau khổ, sầu muộn và suy nghĩ: “Sỉ nhục thay, cái gọi là sanh! Và ai
 sanh ra, cũng phải già, cũng phải bệnh!”.
 
-- Này các Tỷ-kheo, khi ấy vua Bandhumà suy nghĩ: “Không thể để cho Hoàng tử Vipassì từ chối không
+\- Này các Tỷ-kheo, khi ấy vua Bandhumà suy nghĩ: “Không thể để cho Hoàng tử Vipassì từ chối không
 trị vì! Không thể để cho Hoàng tử Vipassì xuất gia! Không thể để cho lời của các vị Bà-la-môn đoán
 tướng trở thành sự thật”. Này các Tỷ-kheo, rồi vua Bandhuma, lại sắp đặt cho hoàng tử Vipassì đầy đủ
 năm món dục lạc nhiều hơn nữa, để hoàng tử Vipassì có thể trị vì, để hoàng tử Vipassì không thể xuất
@@ -598,7 +598,7 @@ Và ai sanh ra cũng phải già, cũng phải bệnh, cũng phải chết như 
 không trị vì! Không thể để cho hoàng tử Vipassì xuất gia. Không thể để cho lời các vị Bà-la-môn đoán
 tướng trở thành sự thật”.
 
-- Này các Tỷ-kheo, rồi vua Bandhumà lại sắp đặt cho hoàng tử Vipassì đầy đủ năm món dục lạc nhiều
+\- Này các Tỷ-kheo, rồi vua Bandhumà lại sắp đặt cho hoàng tử Vipassì đầy đủ năm món dục lạc nhiều
 hơn nữa, để hoàng tử Vipassì có tể trị vì, để hoàng tử Vipassì không thể xuất gia, để cho lời các vị Bàla-môn đoán tướng không đúng sự thật. Và này các Tỷ-kheo, Hoàng tử Vipassì sống tận hưởng, đầy đủ,
 sung túc năm món dục lạc.
 
@@ -1003,7 +1003,7 @@ bậc A-la-hán, Chánh Ðẳng Giác, lưng bên hữu hướng về Ngài và 
 24\. Này các Tỷ-kheo, rồi Thế Tôn Vipassi, bậc A-la-hán, Chánh Ðẳng Giác, vào buổi chiều xuất định
 đứng dậy và nói với các vị Tỷ-kheo:
 
-- Này các Tỷ-kheo, trong khi Ta yên lặng tịnh cư tại chỗ thanh vắng, ý nghĩ sau đây khởi lên: “Nay đại
+\- Này các Tỷ-kheo, trong khi Ta yên lặng tịnh cư tại chỗ thanh vắng, ý nghĩ sau đây khởi lên: “Nay đại
 chúng Tỷ-kheo khoảng sáu trăm tám mươi vạn vị trú tại kinh thành Bandhamatì. Sao Ta lại không
 khuyến dạy các Tỷ-kheo ấy: “Này các Tỷ-kheo, hãy đi cùng khắp vì hạnh phúc cho đại chúng, vì an lạc
 cho đại chúng, vì lòng thương tưởng cho đời, vì hạnh phúc, vì lợi ích, vì an lạc cho loài Người, loài

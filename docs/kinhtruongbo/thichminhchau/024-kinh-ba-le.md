@@ -12,17 +12,17 @@ này.” Thế Tôn liền đi đến tịnh xá du sĩ Bhaggava.
 
 2\. Rồi du sĩ Bhaggava bạch Thế Tôn:
 
-- Thế Tôn hãy đến gần! Xin chào đón Thế Tôn. Ðã lâu, Thế Tôn mới có dịp đến đây. Mời Thế Tôn ngồi,
+\- Thế Tôn hãy đến gần! Xin chào đón Thế Tôn. Ðã lâu, Thế Tôn mới có dịp đến đây. Mời Thế Tôn ngồi,
 đây là chỗ ngồi đã soạn sẵn.
 
 Thế Tôn ngồi trên chỗ đã soạn sẵn, và du sĩ Bhaggava lấy một ghế ngồi khác thấp hơn rồi ngồi xuống
 một bên. Sau khi ngồi xuống một bên, du sĩ Bhaggava bạch Thế Tôn:
 
-- Bạch Thế Tôn, ngày xưa và nhiều ngày xưa nữa, Sunakkhatta (Thiện Tịnh) thuộc bộ lạc Licchavi (Lyxa tử) đến con và nói như sau: “Này Bhaggava, nay tôi từ bỏ Thế Tôn! Nay tôi không sống dưới sự chỉ
+\- Bạch Thế Tôn, ngày xưa và nhiều ngày xưa nữa, Sunakkhatta (Thiện Tịnh) thuộc bộ lạc Licchavi (Lyxa tử) đến con và nói như sau: “Này Bhaggava, nay tôi từ bỏ Thế Tôn! Nay tôi không sống dưới sự chỉ
 dẫn của Thế Tôn nữa.” Bạch Thế Tôn, sự việc có phải như Sunakkhatta, thuộc bộ lạc Licchavi nói hay
 không?
 
-- Này Bhaggava, sự việc thật như Sunakkhatta thuộc bộ lạc Licchavi đã nói.
+\- Này Bhaggava, sự việc thật như Sunakkhatta thuộc bộ lạc Licchavi đã nói.
 
 3\. Này Bhaggava, thuở xưa và rất xa xưa, Sunakkhatta thuộc bộ lạc Licchavi đến thăm Ta. Sau khi đến,
 đảnh lễ Ta và ngồi xuống một bên. Này Bhaggava, Sumakkhatta, thuộc bộ lạc Licchavi bạch với Ta:
@@ -157,7 +157,7 @@ thác sanh của tôi. Tôi sẽ thác sanh thuộc loại Kàlakanjà, một tr
 
 8\. Này Bhaggava, Sunakkhatta thuộc bộ lạc Licchavi, đi đến lõa thể Korakkhattiya và nói:
 
-- Này bạn Korakkhattiya, Sa môn Gotama có nói như sau: “Lõa thể Korakkhattiya sau bảy ngày sẽ bị
+\- Này bạn Korakkhattiya, Sa môn Gotama có nói như sau: “Lõa thể Korakkhattiya sau bảy ngày sẽ bị
 trúng thực mà chết, sau khi chết sẽ tái sanh thuộc loại Kàlakanjà, một trong loại Asura (A-tu-la) thấp
 kém nhất. Sau khi chết, ông ta sẽ bị quăng trong nghĩa địa, đặt trên đống cỏ Birana”. Này Bạn
 Korakkhattiya, vậy Bạn hãy ăn cho có tiết độ, vậy Bạn hãy uống cho có tiết độ, để lời nói của Sa môn
@@ -589,7 +589,7 @@ không có gì khác.
 
 “- Bạch Thế Tôn, sự kiện là như vậy, thì pháp thượng nhân thần thông đã được thực hiện, không phải
 không thực hiện.
-- “Này kẻ ngu kia, như vậy là pháp thượng nhân thần thông đã được Ta thực hiện, thế mà Ngươi lại nói:
+\- “Này kẻ ngu kia, như vậy là pháp thượng nhân thần thông đã được Ta thực hiện, thế mà Ngươi lại nói:
 “Bạch Thế Tôn, Thế Tôn không thực hiện pháp thượng nhân thần thông.” Này kẻ ngu kia, hãy thấy sự
 lỗi lầm của Ngươi như vậy là như thế nào!”
 
@@ -707,7 +707,7 @@ trí?”
 
 Ðược Ta hỏi vậy, quý vị ấy trả lời:
 
-- “Vâng”.
+\- “Vâng”.
 
 Ta nói với quý vị ấy:
 
@@ -777,15 +777,15 @@ vật là bất tịnh”. Nhưng này Bhaggava, Ta không có nói như vậy: 
 thoát, khi ấy vị ấy biết mọi vật là bất tịnh.” Này Bhaggava, Ta nói như sau: “Khi một ai đạt đến thanh
 tịnh, giải thoát, khi ấy vị ấy biết mọi vật là thanh tịnh”
 
-- Bạch Thế Tôn, chính họ là điên đảo khi họ chỉ trích Thế Tôn và các Tỷ kheo là điên đảo. Con tin tưởng
+\- Bạch Thế Tôn, chính họ là điên đảo khi họ chỉ trích Thế Tôn và các Tỷ kheo là điên đảo. Con tin tưởng
 hoan hỷ đối với Thế Tôn khiến con tin rằng Thế Tôn có thể dạy cho con đến thanh tịnh giải thoát.
 
-- Này Bhaggava, thật khó cho Ngươi khi Ngươi theo các kiến giải sai khác, kham nhẫn các sự việc sai
+\- Này Bhaggava, thật khó cho Ngươi khi Ngươi theo các kiến giải sai khác, kham nhẫn các sự việc sai
 khác, theo dõi những mục tiêu sai khác, đeo đuổi những mục đích sai khác, được huấn luyện theo các
 phương pháp sai khác để có thể đạt được thanh tịnh, giải thoát. Này Bhaggava, hãy đặt nặng lòng tin ở
 nơi Ta, hãy khéo gìn giữ lòng tin tưởng ấy.
 
-- Bạch Thế Tôn, nếu thật khó cho con, khi con theo các kiến giải sai khác, kham nhẫn các sự việc sai
+\- Bạch Thế Tôn, nếu thật khó cho con, khi con theo các kiến giải sai khác, kham nhẫn các sự việc sai
 khác, theo dõi những mục tiêu sai khác, đeo đuổi những mục đích sai khác, được huấn luyện theo các
 phương pháp sai khác, để có thể đạt được thanh tịnh giải thoát, thời Bạch Thế Tôn, ít nhất con cũng đặt
 nặng lòng tin vào Thế Tôn, và con sẽ khéo gìn giữ lòng tin tưởng ấy.

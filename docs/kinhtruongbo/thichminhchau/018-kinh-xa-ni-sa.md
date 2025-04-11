@@ -8,7 +8,7 @@ Tôn thường hay tuyên bố về vấn đề tái sanh của những tín đ�
 trong các bộ lạc xung quanh như bộ lạc Kàsi (Ca-thi), Kosala (Câu-tát-la), Vajjì (Bạt-kỳ), Malla (Mạtla), Ceti (Chi-đề), Vansa (Bạt-sa), Kuru (Câu-lâu), Pancàla (Ban-giá-la), Maccha (Bà-sá-la) Sùrasena
 (Mậu-ba-tây-na):
 
-- Vị này sanh ra tại chỗ này! Vị kia sanh ra tại chỗ kia. Hơn năm mươi vị tín đồ ở Nàdika đã từ trần, đã
+\- Vị này sanh ra tại chỗ này! Vị kia sanh ra tại chỗ kia. Hơn năm mươi vị tín đồ ở Nàdika đã từ trần, đã
 mệnh chung với năm hạ phần kiết sử đã được đoạn trừ, được hóa sanh (thiên giới) từ đó nhập Niết-bàn
 không còn trở lại đời này nữa. Hơn chín mươi vị ở Nàdikà, đã từ trần, đã mệnh chung, với ba kiết sử đã
 được đoạn trừ, với tham, sân, si được giảm thiểu, chứng quả Nhất lai, sau khi trở lại đời này một lần nữa
@@ -58,7 +58,7 @@ Tôn có thể không trả lời được?”.
 dậy đến tại chỗ Thế Tôn ở, khi đến xong đảnh lễ Ngài và ngồi xuống một bên. Sau khi ngồi xuống một
 bên, tôn giả Ananda bạch Thế Tôn:
 
-- Bạch Thế Tôn con có nghe: Thế Tôn thường hay tuyên bố về vấn đề tái sanh của những tín đồ đã từ
+\- Bạch Thế Tôn con có nghe: Thế Tôn thường hay tuyên bố về vấn đề tái sanh của những tín đồ đã từ
 trần, đã mệnh chung trong các bộ lạc xung quanh, như bộ lạc Kàsi, Kosala, Vajjì, Malla, Ceit, Vamsa,
 Kuru, Pancàla, Macchà, Sùrasena: “Vị này sanh ra tại chỗ này, vị kia sanh ra tại chỗ kia. Hơn năm mươi
 vị tín đồ ở Nadikà đã mệnh chung với năm hạ phần kiết sử đã được nhập Niết-bàn không còn trở lại đời
@@ -98,7 +98,7 @@ ngồi trên chỗ đã soạn sẵn, dưới bóng ngôi nhà.
 8\. Rồi Tôn giả Ananda đến tại chỗ Thế Tôn ở, lúc đến xong, đảnh lễ Ngài và ngồi xuống một bên. Sau
 khi ngồi xuống một bên, tôn giả Ananda bạch Thế Tôn:
 
-- Bạch Thế Tôn, Thế Tôn ngó thật là an tịnh; diện sắc của Thế Tôn như là sáng chói nhờ các căn thật sự
+\- Bạch Thế Tôn, Thế Tôn ngó thật là an tịnh; diện sắc của Thế Tôn như là sáng chói nhờ các căn thật sự
 thanh tịnh. Bạch Thế Tôn Thế Tôn hôm nay an trú có được hoan hỷ không?
 
 9\. - Này Ananda, sau khi Ngươi, vì các tín đồ ở Magadha đã nói trước mặt Ta như vậy và đứng dậy ra
@@ -110,7 +110,7 @@ Này Ananda, lúc bấy giờ một vị Dạ-xoa (Yakkha) ẩn mình lớn ti�
 là Janavasabha. Bạch Thiện Thệ, con là Janavasabha”. Này Ananda, Ngươi từ trước đã từng được nghe
 ai tên là Janavasabha (Xà-ni-sa) chưa?
 
-- Bạch Thế Tôn, còn trừ trước chưa từng được nghe ai tên Janavasabha. Bạch Thế Tôn, khi con nghe tên
+\- Bạch Thế Tôn, còn trừ trước chưa từng được nghe ai tên Janavasabha. Bạch Thế Tôn, khi con nghe tên
 Janavasabha, con có cảm giác râu tóc bị dựng ngược, Bạch Thế Tôn, con tự nghĩ: “Vị Dạ-xoa này không
 phải là hạng tầm thường, vì đã mang tên Janavasabha”.
 

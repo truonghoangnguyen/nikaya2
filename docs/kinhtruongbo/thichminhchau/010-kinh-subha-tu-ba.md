@@ -9,7 +9,7 @@ Bà-la-môn Subha Todeyyaputta ở tại Sàvatthi vì một vài công việc.
 
 2\. Rồi thanh niên Bà-la-môn Subha Todeyyaputta gọi một thanh niên Bà-la-môn khác:
 
-- Này thanh niên Bà-la-môn, hãy đi đến chỗ Sa-môn Ananda ở, thay mặt ta hỏi thăm Sa-môn Ananda có
+\- Này thanh niên Bà-la-môn, hãy đi đến chỗ Sa-môn Ananda ở, thay mặt ta hỏi thăm Sa-môn Ananda có
 ít bệnh ít não, khinh an, khí lực an ổn: “Thanh niên Bà-la-môn Subha Todeyyaputta hỏi thăm Tôn giả
 Ananda có ít bệnh ít não, khinh an, khí lực an ổn”, và nói thêm: “Hân hạnh thay, nếu Tôn giả Ananda có
 lòng từ mẫn đến tại trú xứ của thanh niên Subha Todeyyaputta”.
@@ -25,13 +25,13 @@ Todeyyaputta”.
 
 4\. Khi được nói vậy Tôn giả Ananda nói với thanh niên Bà-la-môn ấy:
 
-- Này thanh niên Bà-la-môn, nay không phải thời, vì hôm nay tôi vừa mới uống thuốc. Ngày mai tôi sẽ
+\- Này thanh niên Bà-la-môn, nay không phải thời, vì hôm nay tôi vừa mới uống thuốc. Ngày mai tôi sẽ
 đến, vừa hợp thời, hợp nghi.
 
 Rồi thanh niên Bà-la-môn ấy từ chỗ ngồi đứng dậy, đến tại chỗ của thanh niên Bà-la-môn Subha
 Todeyyaputta; khi đến xong, liền thưa với thanh niên Bà-la-môn Subha Todeyyaputta:
 
-- Chúng tôi đã thay mặt Tôn giả thưa với Tôn giả Ananda: “Thanh niên Bà-la-môn Subha Todeyyaputta
+\- Chúng tôi đã thay mặt Tôn giả thưa với Tôn giả Ananda: “Thanh niên Bà-la-môn Subha Todeyyaputta
 hỏi thăm Ðại đức Ananda có ít bệnh ít não, khinh an, khí lực an ổn. Hân hạnh thay, nếu Tôn giả Ananda
 có lòng từ mẫn đến tại trú xá của thanh niên Bà-la-môn, Subha Todeyyaputta”. Này Tôn giả, khi được
 nói vậy Sa-môn Ananda nói với tôi: “Này thanh niên Bà-la-môn, nay không phải thời, vì hôm nay tôi
@@ -45,7 +45,7 @@ Ananda, sau khi đến, nói lên những lời chúc tụng thân hữu và xã
 xuống một bên. Sau khi ngồi xuống một bên, thanh niên Bà-la-môn Subha Todeyyaputta nói với Tôn giả
 Ananda:
 
-- Tôn giả Ananda đã lâu ngày là thị giả của Tôn giả Gotama, sống gần và ở một bên Ngài. Tôn giả
+\- Tôn giả Ananda đã lâu ngày là thị giả của Tôn giả Gotama, sống gần và ở một bên Ngài. Tôn giả
 Ananda chắc biết Tôn giả Gotama đã tán thán những pháp nào và Ngài đã khích lệ, khuyến đạo, y chỉ
 mọi người theo những pháp ấy. Tôn giả Ananda, những pháp Tôn giả Gotama tán thán là những pháp gì
 và Ngài đã khích lệ, khuyến đạo, y chỉ mọi người theo những pháp ấy?
@@ -55,7 +55,7 @@ mọi người theo những pháp ấy. Ba pháp ấy là gì? Chính là Thánh
 uẩn. Thế Tôn tán thán ba pháp uẩn ấy. Ngài đã khích lệ, khuyến đạo, y chỉ mọi người theo những pháp
 ấy.
 
-- Tôn giả Ananda, thế nào là Thánh giới uẩn, Tôn giả Gotama tán thán và Ngài đã khích lệ, khuyến đạo,
+\- Tôn giả Ananda, thế nào là Thánh giới uẩn, Tôn giả Gotama tán thán và Ngài đã khích lệ, khuyến đạo,
 y chỉ mọi người theo pháp ấy?
 
 7\. - Này thanh niên Bà-la-môn, ở đây Như Lai sanh ra đời, vị A-la-hán. Chánh Ðẳng Giác... như vậy này
@@ -64,7 +64,7 @@ thanh niên Bà-la-môn là Tỷ-kheo đầy đủ giới đức. (Xem kinh Sa-m
 8\. - Này thanh niên Bà-la-môn, đó là Thánh giới uẩn Thế Tôn tán thán và Ngài đã khích lệ khuyến đạo,
 y chỉ mọi người theo pháp ấy. Và còn pháp uẩn khác cao thượng hơn cần phải hành trì?
 
-- Thật vi diệu thay, Tôn giả Ananda, thật hy hữu thay, Tôn giả Ananda, Thánh giới uẩn này thật viên
+\- Thật vi diệu thay, Tôn giả Ananda, thật hy hữu thay, Tôn giả Ananda, Thánh giới uẩn này thật viên
 mãn, không phải không viên mãn; Tôn giả Ananda, tôi không thấy Thánh giới uẩn viên mãn này ở
 những Sa-môn, Bà-la-môn nào ngoài giáo hội này. Tôn giả Ananda, và nếu những Sa-môn, Bà-la-môn
 khác có thấy Thánh uẩn này tự nơi mình, các vị này cũng đã thỏa mãn với pháp ấy: “Hành trì như vậy là
@@ -77,7 +77,7 @@ phải hành trì”.
 1\. Tôn giả Ananda, thế nào là Thánh định uẩn, Tôn giả Gotama tán thán và Ngài đã khích lệ, khuyến đạo
 y chỉ mọi người theo pháp ấy?
 
-- Này thanh niên Bà-la-môn, thế nào là Tỷ-kheo hộ trì các căn?... Không một chỗ nào trên toàn thân
+\- Này thanh niên Bà-la-môn, thế nào là Tỷ-kheo hộ trì các căn?... Không một chỗ nào trên toàn thân
 không được hỷ lạc do y dục sanh ấy thấm nhuần.
 
 (xem kinh Sa-môn quả, đoạn kinh số 64 - 76).
@@ -98,7 +98,7 @@ kinh số 79-82)... Ðó là thiền định của vị ấy.
 
 19\. Này thanh niên Bà-la-môn, đó là Thánh định uẩn Tôn giả Gotama tán thán và Ngài đã khích lệ,
 khuyến đạo, y chỉ mọi người theo pháp ấy và còn pháp uẩn khác cao thượng hơn cần phải hành trì.
-- Thật vi diệu thay, Tôn giả Ananda! Thật hy hữu thay, Tôn giả Ananda! Thánh định uẩn này thật viên
+\- Thật vi diệu thay, Tôn giả Ananda! Thật hy hữu thay, Tôn giả Ananda! Thánh định uẩn này thật viên
 mãn, không phải không viên mãn; Tôn giả Ananda, tôi không thấy Thánh định uẩn viên mãn này ở
 những Sa-môn, Bà-la-môn nào ngoài giáo hội này. Tôn giả Ananda, và nếu những Sa-môn khác có thấy
 Thánh định uẩn này tự nơi mình, các vị này cũng đã thỏa mãn với pháp ấy: “Hành trì như vậy là đầy đủ.
@@ -108,7 +108,7 @@ Nhưng Tôn giả Ananda còn nói: “Còn pháp uẩn cao thượng hơn cần
 20\. Tôn giả Ananda, thế nào là Thánh tuệ uẩn, Tôn giả Gotama tán thán và Ngài đã khích lệ, khuyến
 đạo, y chỉ mọi người theo pháp ấy?
 
-- Với tâm định tĩnh, thuần tịnh, không cấu nhiễm... và bị trói buộc (xem kinh Sa-môn quả, đoạn kinh số
+\- Với tâm định tĩnh, thuần tịnh, không cấu nhiễm... và bị trói buộc (xem kinh Sa-môn quả, đoạn kinh số
 83-84).
 
 22\. Này thanh niên Bà-la-môn, với tâm định tĩnh, thuần tịnh, không cấu nhiễm, không phiền não, nhu
@@ -136,7 +136,7 @@ làm, sau đời hiện tại, không có đời sống nào khác nữa”. Ð�
 37\. Này thanh niên Bà-la-môn, đó là Thánh tuệ uẩn, Thế Tôn tán thán và Ngài đã khích lệ, khuyến đạo,
 y chỉ mọi người theo pháp ấy. Không còn pháp nào cao thượng hơn cần phải hành trì.
 
-- Thật vi diệu thay, Tôn giả Ananda, thật hy hữu thay, Tôn giả Ananda! Tôn giả Ananda, Thánh tuệ uẩn
+\- Thật vi diệu thay, Tôn giả Ananda, thật hy hữu thay, Tôn giả Ananda! Tôn giả Ananda, Thánh tuệ uẩn
 này thật viên mãn, không phải không viên mãn. Tôn giả Ananda, tôi không thấy Thánh tuệ uẩn viên mãn
 này ở những Sa-môn, Bà-la-môn nào ngoài giáo hội này. Không còn pháp nào cao thượng hơn cần phải
 hành trì. Thật vi diệu thay, Tôn giả Ananda! Thật vi diệu thay, Tôn giả Ananda! Như người dựng đứng

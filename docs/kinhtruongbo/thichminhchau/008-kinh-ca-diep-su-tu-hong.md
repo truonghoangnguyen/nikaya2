@@ -106,7 +106,7 @@ Này Kassapa, chính con đường này, chính phương pháp này khiến ai t
 
 14\. Nghe nói vậy, lõa thể Kassapa bạch đức Thế Tôn:
 
-- Hiền giả Gotama, những pháp khổ hạnh này được những Sa-môn và Bà-la-môn công nhận là đưa đến
+\- Hiền giả Gotama, những pháp khổ hạnh này được những Sa-môn và Bà-la-môn công nhận là đưa đến
 Sa-môn quả và Bà-la-môn quả: Sống lõa thể, - Sống phóng túng, không theo lễ nghi (như đứng mà đi
 đại tiểu tiện, đứng ăn, không chịu ngồi theo lễ nghi), - Liếm tay cho sạch (sau khi ăn, không chịu rửa), Ði khất thực không chịu bước tới (theo yêu cầu để thí chủ bỏ đồ ăn vào bát), - Không nhận đồ ăn mang
 đến (cho mình, trước khi đi khất thực), - Không nhận đồ ăn đặc biệt nấu cho mình. - Không nhận mời đi
@@ -166,9 +166,9 @@ gọi là Sa-môn, được gọi là Bà-la-môn.
 
 16\. Khi nghe nói đến đây, lõa thể Kassapa bạch Thế Tôn:
 
-- Tôn giả Gotama, khó hành thay Sa-môn hạnh! Khó hành thay Bà-la-môn hạnh!
+\- Tôn giả Gotama, khó hành thay Sa-môn hạnh! Khó hành thay Bà-la-môn hạnh!
 
-- Này Kassapa, đó là lời nói thường tình ở đời: “Khó hành thay Sa-môn hạnh! Khó hành thay Bà-la-môn
+\- Này Kassapa, đó là lời nói thường tình ở đời: “Khó hành thay Sa-môn hạnh! Khó hành thay Bà-la-môn
 hạnh! Này Kassapa, như một người sống lõa thể, sống phóng túng không theo lễ nghi, liếm tay... như
 vậy sống theo hạnh tiết chế ăn uống, cho đến nửa tháng chỉ ăn một lần. Này Kassapa, nếu sự khó hành,
 sự rất khó hành của Sa-môn hạnh, của Bà-la-môn hạnh chỉ tùy thuộc khổ hạnh này và chỉ tùy thuộc sự
@@ -208,9 +208,9 @@ Sa-môn, được gọi là Bà-la-môn.
 
 17\. Khi nghe nói vậy, lão thể Kassapa bạch đức Thế Tôn:
 
-- Tôn giả Gotama, khó biết thay một vị Sa-môn! Khó biết thay một Bà-la-môn!
+\- Tôn giả Gotama, khó biết thay một vị Sa-môn! Khó biết thay một Bà-la-môn!
 
-- Này Kassapa, đó là lời nói thường tình ở đời: “Khó biết thay một Sa-môn! Khó biết thay một Bà-lamôn!” Này Kassapa, nếu một người sống lõa thể, sống phóng túng không theo lễ nghi, liếm tay... như
+\- Này Kassapa, đó là lời nói thường tình ở đời: “Khó biết thay một Sa-môn! Khó biết thay một Bà-lamôn!” Này Kassapa, nếu một người sống lõa thể, sống phóng túng không theo lễ nghi, liếm tay... như
 vậy sống theo hạnh tiết chế ăn uống, cho đến nửa tháng chỉ ăn một lần. Này Kassapa, nếu trở thành một
 Sa-môn, nếu trở thành một Bà-la-môn chỉ tùy thuộc khổ hạnh này, và chỉ tùy thuộc sự thi hành khổ hạnh
 này, thời thật không xứng mà nói: “Khó biết thay một Sa-môn! Khó biết thay một Bà-la-môn!” Một
@@ -254,9 +254,9 @@ hoặc, tự giác chứng và an trú ngay hiện tại, tâm giải thoát, tu
 
 18\. Khi nghe nói vậy, lõa thể Kassapa bạch đức Thế Tôn:
 
-- Tôn giả Gotama, thế nào là giới cụ túc? Thế là tâm cụ túc? Thế nào là tuệ cụ túc?
+\- Tôn giả Gotama, thế nào là giới cụ túc? Thế là tâm cụ túc? Thế nào là tuệ cụ túc?
 
-- Này Kassapa, nay ở đời, Như Lai xuất hiện, là bậc A-la-hán, Chánh Biến Tri... (xem Kinh Sa-môn quả,
+\- Này Kassapa, nay ở đời, Như Lai xuất hiện, là bậc A-la-hán, Chánh Biến Tri... (xem Kinh Sa-môn quả,
 đoạn kinh số 40-42)... thấy nguy hiểm trong những lỗi nhỏ nhặt, thọ lãnh và tu học trong giới pháp, thân
 nghiệp, ngữ nghiệp thanh tịnh, sanh hoạt trong sạch, giới hạnh cụ túc, thủ hộ các căn, đầy đủ chánh
 niệm, chánh trí và biết tri túc.
@@ -358,7 +358,7 @@ người ta đem ra thực hành”. Này Kassapa, nên nói với chúng như v
 khổ hạnh tên là Nigrodha đến hỏi về tối thắng khổ hạnh yểm ly. Khi được hỏi về tối thắng khổ hạnh yểm
 ly, Ta đã trả lời. Và khi được Ta trả lời, vị ấy phát tâm hoan hỷ như với một hoan lạc tối thượng.
 
-- Bạch Ðại đức, ai có thể sau khi nghe Thế Tôn thuyết pháp, lại không hoan hỷ như với một hoan lạc tối
+\- Bạch Ðại đức, ai có thể sau khi nghe Thế Tôn thuyết pháp, lại không hoan hỷ như với một hoan lạc tối
 thượng? Thật vi diệu thay, bạch Ðại đức! Thật vi diệu thay, bạch Ðại đức! Bạch Ðại đức, như người
 dựng đứng lại những gì bị quăng ngã xuống, phơi bày ra những gì bị che kín, chỉ đường cho kẻ lạc
 hướng, đem đèn sáng vào trong bóng tối để những ai có mắt có thể thấy sắc. Cũng vậy, chánh pháp đã
@@ -369,7 +369,7 @@ quy y Tỷ-kheo Tăng. Bạch Ðại đức, con xin xuất gia với Thế Tôn
 này phải sống bốn tháng biệt trú. Sau khi sống bốn tháng biệt trú, chúng Tăng nếu đồng ý sẽ cho xuất
 gia, cho thọ đại giới để thành vị Tỷ-kheo. Nhưng ta nhận thấy cá tánh con người sai biệt nhau.
 
-- Bạch Ðại đức, nếu những người xưa kia là ngoại đạo, nay muốn xuất gia, muốn thọ đại giới trong pháp
+\- Bạch Ðại đức, nếu những người xưa kia là ngoại đạo, nay muốn xuất gia, muốn thọ đại giới trong pháp
 và luật này phải sống bốn tháng biệt trú, sau khi sống bốn tháng biệt trú chúng Tăng nếu đồng ý sẽ cho
 xuất gia, cho thọ đại giới, thời con sẽ xin sống biệt trú bốn năm, sau khi sống biệt trú bốn năm, nếu
 chúng Tăng đồng ý, mong chúng Tăng xuất gia cho con, thọ đại giới cho con để thành vị Tỷ-kheo.

@@ -11,28 +11,28 @@ dưới bóng ngôi lầu.
 2\. Vàsettha thấy Thế Tôn vào buổi chiều, từ thiền tịnh khởi dậy, bước xuống khỏi ngôi lầu, đi qua lại
 giữa trời, dưới bóng ngôi lầu. Thấy vậy Vàsettha nói với Bhàradvàja:
 
-- Này bạn Bhàradvàja, Thế Tôn vào buổi chiều, từ thiền tịnh khởi dậy, bước xuống khỏi lầu, đi qua lại
+\- Này bạn Bhàradvàja, Thế Tôn vào buổi chiều, từ thiền tịnh khởi dậy, bước xuống khỏi lầu, đi qua lại
 giữa trời, dưới bóng ngôi lầu. Này bạn Bhàradvàja, chúng ta hãy đến yết kiến Thế Tôn. Rất có thể chúng
 ta được nghe một thời pháp từ Thế Tôn.
 
-- Thưa vâng, Hiền giả!
+\- Thưa vâng, Hiền giả!
 
 Bhàradvàja vâng theo lời Vàsettha. Rồi cả Vàsettha và Bhàradvàja cùng đến gần Thế Tôn, khi đến xong
 đảnh lễ Ngài và đi theo sau lưng Thế Tôn, khi Ngài đang đi qua đi lại.
 
 3\. Rồi Thế Tôn nói với Vàsettha:
 
-- Này Vàsettha, Ngươi sanh trưởng là Bà-la-môn và thuộc gia tộc Bà-la-môn, xuất gia từ bỏ gia đình,
+\- Này Vàsettha, Ngươi sanh trưởng là Bà-la-môn và thuộc gia tộc Bà-la-môn, xuất gia từ bỏ gia đình,
 sống không gia đình từ gia tộc Bà-la-môn. Này Vàsettha, người Bà-la-môn có chỉ trích Ngươi, phỉ báng
 Ngươi chăng?
 
-- Bạch Thế Tôn, các vị Bà-la-môn thật có chỉ trích chúng con, phỉ báng chúng con, với những lời phỉ
+\- Bạch Thế Tôn, các vị Bà-la-môn thật có chỉ trích chúng con, phỉ báng chúng con, với những lời phỉ
 báng thật chí tình, phỉ báng thật toàn diện, chớ không phải không toàn diện.
 
-- Này Vàsettha, các vị Bà-la-môn dùng lời lẽ như thế nào để chỉ trích các Ngươi, phỉ báng các Ngươi,
+\- Này Vàsettha, các vị Bà-la-môn dùng lời lẽ như thế nào để chỉ trích các Ngươi, phỉ báng các Ngươi,
 với những lời phỉ báng thật chí tình, phỉ báng thật toàn diện, chớ không phải không toàn diện?
 
-- Bạch Thế Tôn, các vị Bà-la-môn đã nói như sau: “Bà-la-môn là giai cấp tối thượng, giai cấp khác là hạ
+\- Bạch Thế Tôn, các vị Bà-la-môn đã nói như sau: “Bà-la-môn là giai cấp tối thượng, giai cấp khác là hạ
 liệt. Chỉ có giai cấp Bà-la-môn là da trắng, giai cấp khác là da đen. Chỉ có Bà-la-môn là thuần túy, các
 giai cấp phi Bà-la-môn không phải như vậy. Chỉ có Bà-la-môn mới là con chính tông của Phạm thiên,
 sanh từ miệng Phạm thiên, do Phạm thiên sanh, do Phạm thiên tạo ra, là con cháu thừa tự của Phạm
@@ -195,32 +195,32 @@ sáng cho buổi ăn sáng? Sao ta lại không tìm lúa một lần cho cả b
 Vàsettha, loài hữu tình ấy tìm lúa một lần cho cả buổi ăn chiều, cả buổi ăn sáng. Một hữu tình khác đến
 vị hữu tình này và nói:
 
-- Này Bạn, chúng ta hãy đi tìm lúa!
+\- Này Bạn, chúng ta hãy đi tìm lúa!
 
-- Này Bạn, tôi đã tìm lúa một lần, cả cho buổi chiều và buổi sáng.
+\- Này Bạn, tôi đã tìm lúa một lần, cả cho buổi chiều và buổi sáng.
 
 Này Vàsettha, vị này noi theo vị hữu tình kia, đi tìm lúa một lần đủ cho cả hai ngày.
-- Này Bạn, như vậy là tốt.
+\- Này Bạn, như vậy là tốt.
 
 Này Vàsettha, rồi một hữu tình khác đến vị hữu tình ấy và nói:
 
-- Này Bạn chúng ta hãy đi tìm lúa.
+\- Này Bạn chúng ta hãy đi tìm lúa.
 
-- Này Bạn, tôi đã tìm lúa một lần đủ cho cả hai ngày rồi.
+\- Này Bạn, tôi đã tìm lúa một lần đủ cho cả hai ngày rồi.
 
 Này Vàsettha, vị hữu tình này noi theo gương vị hữu tình kia, liền đi tìm lúa một lần đủ cho bốn ngày.
 
-- Này Bạn, như vậy là tốt.
+\- Này Bạn, như vậy là tốt.
 
 Này Vàsettha, một vị hữu tình khác lại đến vị hữu tình này và nói:
 
-- Này Bạn, chúng ta hữu đi tìm lúa!
+\- Này Bạn, chúng ta hữu đi tìm lúa!
 
-- Này Bạn, tôi đã tìm lúa một lần đủ cho cả bốn ngày!
+\- Này Bạn, tôi đã tìm lúa một lần đủ cho cả bốn ngày!
 
 Này Vàsettha, vị hữu tình này noi theo gương vị hữu tình kia, liền đi tìm lúa một lần đủ cho tám ngày.
 
-- Này Bạn, như vậy là tốt.
+\- Này Bạn, như vậy là tốt.
 
 Này Vàsettha, những vị hữu tình kia, bắt đầu tích trữ lúa để ăn, và cám bắt đầu bao bọc hột gạo trơn
 nhẵn và vỏ lúa bao bọc hột lúa; và các cây lúa bị cắt không lớn lên được; và như vậy có sự gián đoạn; và
@@ -228,7 +228,7 @@ cây lúa mọc lên từng cụm, từng chùm.
 
 18\. Này Vàsettha, các loài hữu tình ấy hội họp lại và than phiền:
 
-- Này các Bạn, các ác pháp đã hiện ra giữa các loài hữu tình. Chúng ta trước kia do ý sanh, nuôi sống
+\- Này các Bạn, các ác pháp đã hiện ra giữa các loài hữu tình. Chúng ta trước kia do ý sanh, nuôi sống
 bằng hỷ, tự chiếu hào quang phi hành trên hư không, sống trong sự quang vinh và sống như vậy trong
 một thời gian khá dài. Ðối với chúng ta, sau một thời gian khá dài, vị của đất hiện ra. Vị đất này có sắc,
 có hương và có vị. Chúng ta bắt đầu bẻ đất từng cục bằng tay để ăn vị đất. Vì bắt đầu bẻ đất bằng tay
@@ -257,16 +257,16 @@ Này Vàsettha, các loại hữu tình ấy phân chia lúa và đắp đê là
 19\. Này Vàsettha, có vị hữu tình, bản tánh biếng nhác, gìn giữ phần của mình, đánh cắp phần của người
 khác và thưởng thức phần ấy. Người ta bắt người ấy và nói:
 
-- Này Ngươi, Ngươi đã làm ác pháp, gìn giữ phần của mình, đánh cắp phần không cho của người khác
+\- Này Ngươi, Ngươi đã làm ác pháp, gìn giữ phần của mình, đánh cắp phần không cho của người khác
 và thưởng thức phần ấy. Nhà Ngươi chớ có làm như vậy nữa.
 
-- Thưa Bạn, vâng!
+\- Thưa Bạn, vâng!
 
 Này Vàsettha, người này vâng theo lời nói của những người ấy. Này Vàsettha, một lần thứ hai... Này
 Vàsettha một lần thứ ba, người này gìn giữ phần của mình, đánh cắp phần không cho của người khác và
 thưởng thức phần ấy. Người ta bắt người này và nói:
 
-- Này Ngươi, Ngươi đã làm điều ác, vì Ngươi gìn giữ phần của mình, đánh cắp phần không cho của
+\- Này Ngươi, Ngươi đã làm điều ác, vì Ngươi gìn giữ phần của mình, đánh cắp phần không cho của
 người khác và thưởng thức phần ấy... Ngươi chớ có làm như vậy nữa.
 
 Có người đập anh ta bằng tay, có người đập anh ta bằng đá, có người đập anh ta bằng gậy. Này
@@ -275,12 +275,12 @@ Vàsettha, bắt đầu như vậy, lấy của không cho xuất hiện, quở 
 
 20\. Này Vàsettha, những loài hữu tình ấy hội họp lại và than khóc:
 
-- Này Tôn giả, ác pháp đã khởi lên giữa các loài hữu tình, trong hình thức lấy của không cho xuất hiện,
+\- Này Tôn giả, ác pháp đã khởi lên giữa các loài hữu tình, trong hình thức lấy của không cho xuất hiện,
 quở trách xuất hiện, nói láo xuất hiện, hình phạt xuất hiện. Chúng ta hãy đề cử một người. Người ấy sẽ
 tức giận khi đáng phải tức giận, khiển trách khi đáng phải khiển trách, hay tẩn xuất khi đáng phải tẩn
 xuất. Chúng tôi sẽ dành cho Người một phần lúa của chúng tôi.
 
-- Xin vâng, các Tôn giả!
+\- Xin vâng, các Tôn giả!
 
 Này Vàsettha, vị hữu tình này vâng theo các vị hữu tình kia, tức giận khi đáng tức giận, khiển trách khi
 đáng khiển trách, tẩn xuất khi đáng tẩn xuất. Và các vị hữu tình kia chia cho vị này một phần lúa.
@@ -295,7 +295,7 @@ thượng ở đời, trong hiện tại và cả cho đời sau.
 
 22\. Này Vàsettha, một số các vị hữu tình suy nghĩ:
 
-- Này các Tôn giả, các ác, bất thiện pháp đã hiện ra giữa các loại hữu tình, như lấy của không cho, khiển
+\- Này các Tôn giả, các ác, bất thiện pháp đã hiện ra giữa các loại hữu tình, như lấy của không cho, khiển
 trách, nói láo, hình phạt, tẩn xuất. Chúng ta hãy loại bỏ các ác, bất thiện pháp.
 
 Vác vị ấy loại bỏ các ác, bất thiện pháp, tức là Bràhmanà (Bà-la-môn), và chữ Bràhmanà là danh từ đầu
@@ -305,7 +305,7 @@ buổi chiều lo buổi ăn chiều, buổi sáng lo buổi ăn sáng; họ đi
 thực. Khi họ xin được đồ ăn rồi, họ lại vào các chòi lá trong các khu rừng để tu thiền. Các người khác
 thấy vậy, nói như sau:
 
-- Này các Tôn giả, những loài hữu tình này lập lên những chòi bằng lá tại các khu rừng và tu thiền trong
+\- Này các Tôn giả, những loài hữu tình này lập lên những chòi bằng lá tại các khu rừng và tu thiền trong
 những chòi bằng lá ấy.
 
 Ðối với họ, than đỏ được dập tắt, khói được tiêu tan, cối và chầy rơi ngã nghiêng, buổi chiều lo ăn buổi

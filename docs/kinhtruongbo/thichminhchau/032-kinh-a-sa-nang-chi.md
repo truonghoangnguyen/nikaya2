@@ -13,7 +13,7 @@ xuống một bên; có vị im lặng, rồi ngồi xuống một bên.
 
 2\. Sau khi ngồi xuống một bên, đại vương Vessavana (Tỳ-sa-môn) bạch Thế Tôn:
 
-- Bạch Thế Tôn, có những thượng phẩm Dạ-xoa không tin tưởng Thế Tôn; bạch Thế Tôn có những
+\- Bạch Thế Tôn, có những thượng phẩm Dạ-xoa không tin tưởng Thế Tôn; bạch Thế Tôn có những
 thượng phẩm Dạ-xoa tin tưởng Thế Tôn, Bạch Thế Tôn, có những trung phẩm Dạ-xoa không tin tưởng
 Thế Tôn; bạch Thế Tôn, có những trung phẩm Dạ-xoa tin tưởng Thế Tôn. Bạch Thế Tôn, có những hạ
 phẩm Dạ-xoa không tin tưởng Thế Tôn, có những hạ phẩm Dạ-xoa tin tưởng Thế Tôn. Bạch Thế Tôn,
@@ -338,7 +338,7 @@ này làm hại tôi, Dạ-xoa này không thả tôi ra”.
 
 Thưa Tôn giả, nay chúng tôi cần phải đi, chúng tôi có nhiều việc, có nhiều bổn phận.
 
-- Ðại vương, Ðại vương hãy làm điều gì Ðại vương nghĩ là phải thời.
+\- Ðại vương, Ðại vương hãy làm điều gì Ðại vương nghĩ là phải thời.
 
 Rồi bốn vị đại vương, từ chỗ ngồi đứng dậy đảnh lễ Thế Tôn, thân bên hữu hướng về phía Ngài rồi biến
 mất tại đấy.
@@ -350,7 +350,7 @@ biến mất tại chỗ.
 
 12\. Rồi Thế Tôn sau khi đêm đã mãn, liền gọi các vị Tỷ-kheo:
 
-- Này các Tỷ-kheo, khi hôm, bốn vị đại vương cùng với đại quân sư Dạ-xoa:
+\- Này các Tỷ-kheo, khi hôm, bốn vị đại vương cùng với đại quân sư Dạ-xoa:
 _“Ðảnh lễ Vipassi (Tỳ-bà-thi)_
 _sáng suốt và huy hoàng;_
 _Ðảnh lễ đấng Sikhi, (Thi-khí)_

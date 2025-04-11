@@ -16,7 +16,7 @@ vị. Ngài đến tại Pàvà, trú tại đấy, trong rừng xoài của th�
 Thế Tôn ở, sau khi đến, đảnh lễ Ngài rồi ngồi xuống một bên. Sau khi ngồi xuống một bên, các vị Mallà
 ở Pàvà bạch Thế Tôn:
 
-- Bạch Thế Tôn, ở đây một hội trường tên là Ubbhataka mới được dựng lên giữa dân chúng Mallà ở
+\- Bạch Thế Tôn, ở đây một hội trường tên là Ubbhataka mới được dựng lên giữa dân chúng Mallà ở
 Pàvà, và hội trường này chưa có vị Sa-môn, Bà-la-môn, hay một người nào khác an trú. Bạch Thế Tôn,
 mong Thế Tôn là người đến dùng hội trường này trước tiên. Nhờ Thế Tôn dùng trước tiên, dân chúng
 Mallà ở Pàvà sẽ được hạnh phúc an lạc lâu dài.
@@ -28,7 +28,7 @@ thân phía hữu hướng đến Ngài, từ tạ đi đến hội trường. S
 soạn các ghế ngồi, đặt sẵn một ghè nước, treo cây đèn dầu, rồi đến chỗ Thế Tôn ở. Sau khi đến, các vị
 này đảnh lễ Ngài và đứng một bên. Sau khi đứng một bên, các vị Mallà ở Pàvà bạch Thế Tôn:
 
-- Bạch Thế Tôn, hội trường đã được trải nệm tất cả, các ghế ngồi đã được sửa soạn, ghè nước đã được
+\- Bạch Thế Tôn, hội trường đã được trải nệm tất cả, các ghế ngồi đã được sửa soạn, ghè nước đã được
 đặt sẵn, cây đèn dầu đã được treo lên, Thế Tôn hãy làm gì Ngài nghĩ là phải thời.
 
 4\. Rồi Thế Tôn đắp y, cầm y bát cùng với chúng Tỷ-kheo đến tại hội trường. Khi đến xong Ngài rửa
@@ -38,19 +38,19 @@ Thế Tôn. Các vị Mallà ở Pàvà cũng rửa chân, đi vào hội trư�
 Ðông, mặt hướng phía Tây, trước mặt có Thế Tôn. Rồi Thế Tôn, cho đến đêm thật khuya, thuyết pháp
 cho dân Mallà ở Pàvà, giảng dạy, giải thích, khích lệ, làm cho hứng khởi rồi bảo các vị ấy về:
 
-- Này Vàsetthà, đêm đã quá khuya. Các Ngươi hãy làm những gì các Ngươi xem là phải thời.
+\- Này Vàsetthà, đêm đã quá khuya. Các Ngươi hãy làm những gì các Ngươi xem là phải thời.
 
-- Thưa vâng, bạch Thế Tôn!
+\- Thưa vâng, bạch Thế Tôn!
 
 Các vị Mallà ở Pàvà vâng lời Thế Tôn, từ chỗ ngồi đứng dậy, đảnh lễ Ngài, thân phía hữu hướng về
 Ngài và ra đi.
 
 5\. Thế Tôn, khi dân Mallà đi chưa bao lâu, nhìn chúng Tỷ-kheo đang yên lặng, rồi bảo tôn giả Sàriputta:
 
-- Này Sàriputta, chúng Tỷ-kheo không có hôn trầm thụy miên. Này Sàriputta, hãy thuyết pháp cho
+\- Này Sàriputta, chúng Tỷ-kheo không có hôn trầm thụy miên. Này Sàriputta, hãy thuyết pháp cho
 chúng Tỷ-kheo. Ta cảm thấy đau lưng! Ta muốn nằm nghỉ.
 
-- Thưa vâng, bạch Thế Tôn! - Tôn giả Sàriputta vâng lời Thế Tôn.
+\- Thưa vâng, bạch Thế Tôn! - Tôn giả Sàriputta vâng lời Thế Tôn.
 
 Rồi Thế Tôn, xếp y Sanghàti (Tăng-già-lê) gấp bốn và nằm xuống như cách nằm con sư tử, thân phía
 hữu, hai chân để trên nhau, chánh niệm tỉnh giác, với tâm nghĩ đến lúc ngồi dậy.
@@ -69,7 +69,7 @@ Chánh Ðẳng Giác tuyên thuyết, tháp y chỉ đã bị đổ vỡ, không
 
 7\. Rồi tôn giả Sàriputta bảo các Tỷ-kheo:
 
-- Này Hiền giả, Niganthà Nàthaputta vừa mới từ trần không bao lâu. Sau khi vị này từ trần, các Nigantha
+\- Này Hiền giả, Niganthà Nàthaputta vừa mới từ trần không bao lâu. Sau khi vị này từ trần, các Nigantha
 (Ni-kiền-tử) chia làm hai phe... và không có chỗ y chỉ.
 
 Nhưng với chúng ta, này các Hiền giả, pháp này được Thế Tôn khéo giảng dạy, khéo trình bày, một
@@ -1572,7 +1572,7 @@ tưởng cho dời, vì lợi ích, vì hạnh phúc, vì an lạc cho chư Thi�
 
 4\. Rồi Thế Tôn ngồi dậy và bảo tôn giả Sàriputta:
 
-- Lành thay, lành thay Sàriputta! Này Sàriputta, Ngươi đã khéo giảng, khéo tụng kinh này cho chúng Tỷ
+\- Lành thay, lành thay Sàriputta! Này Sàriputta, Ngươi đã khéo giảng, khéo tụng kinh này cho chúng Tỷ
 kheo.
 
 Tôn giả Sàriputta thuyết giảng như vậy. Bậc Ðạo Sư chấp thuận. Các vị Tỷ kheo ấy hoan hỷ tín thọ lời

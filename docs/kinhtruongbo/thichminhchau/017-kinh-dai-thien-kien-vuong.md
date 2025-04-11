@@ -11,7 +11,7 @@ giòng họ Mallà, giữa hai cây Sàla song thọ, khi ngài sắp nhập Ni�
 2\. Lúc ấy, tôn giả Ananda đến tại chỗ Thế Tôn, đảnh lễ Ngày ngồi xuống một bên. Tôn giả Ananda bạch
 Thế Tôn:
 
-- Bạch thế Tôn, Thế Tôn chớ có diệt độ tại đô thị nhỏ bé này, tại đô thị hoang vu này, tại đô thị phụ
+\- Bạch thế Tôn, Thế Tôn chớ có diệt độ tại đô thị nhỏ bé này, tại đô thị hoang vu này, tại đô thị phụ
 thuộc này. Bạch Thế Tôn, có những đô thị khác to lớn hơn như Campà (Chiêm-bà), Ràjagahà (Vương
 Xá) Sàvatthi (Xá-vệ), Sàketa (Sa-kỳ), Kosambi (Kiêu-thưởng-di), Bàrànasi (Ba-la-nại). Thế Tôn hãy
 diệt độ tại những chỗ ấy. Tại những chỗ ấy có đại chúng Sát đế lỵ, có đại chúng Bà la môn, có đại chúng
@@ -133,20 +133,20 @@ thích nghi tài sản Ðại vương”.
 Này Ananda, thuở xưa vua Ðại Thiện Kiến muốn thử gia chủ báu này, liền cỡi thuyền, chèo gia giữa
 sông Hằng và bảo gia chủ báu:
 
-- Này Gia chủ, ta cần vàng.
+\- Này Gia chủ, ta cần vàng.
 
-- Tâu Ðại vương, Ðại vương hãy cho chèo thuyền gần bờ nào cũng được.
+\- Tâu Ðại vương, Ðại vương hãy cho chèo thuyền gần bờ nào cũng được.
 
-- Này Gia chủ, Ta cần vàng ngay tại đây.
+\- Này Gia chủ, Ta cần vàng ngay tại đây.
 
 Này Ananda, khi ấy gia chủ báu thọc hai tay xuống nước nhắc lên một ghè đầy cả vàng ròng rồi tâu với
 vua Ðại Thiện Kiến:
 
-- Tâu Ðại vương, như vậy đã đủ chưa. Tâu Ðại vương, làm như vậy đã được chưa?
+\- Tâu Ðại vương, như vậy đã đủ chưa. Tâu Ðại vương, làm như vậy đã được chưa?
 
 Vua Ðại Thiện Kiến trả lời:
 
-- Này Gia chủ, như vậy là đủ. Này Gia chủ, làm như vậy là được rồi. Này Gia chủ, cúng dường như vậy
+\- Này Gia chủ, như vậy là đủ. Này Gia chủ, làm như vậy là được rồi. Này Gia chủ, cúng dường như vậy
 là được rồi.
 
 Này Ananda, như vậy là sự xuất hiện gia chủ báu của vua Ðại Thiện Kiến.
@@ -157,7 +157,7 @@ sáng suốt, có khả năng khuyến cáo. Vua Ðại Thiện Kiến khi đán
 
 Vị này đến tâu vua Ðại Thiện Kiến:
 
-- Tâu Ðại vương, Ðại vương chớ có âu lo, Thần sẽ cố vấn Ðại vương.
+\- Tâu Ðại vương, Ðại vương chớ có âu lo, Thần sẽ cố vấn Ðại vương.
 
 Này Ananda, như vậy là sự xuất hiện tướng quân báu của vua Ðại Thiện Kiến.
 
@@ -218,10 +218,10 @@ cho những ai cần bạc, và vàng cho những ai cần vàng.
 
 24\. Này Ananda, các Gia chủ, Bà-la-môn đem theo nhiều tiền bạc đến vua Ðại Thiện Kiến và tâu vua:
 
-- Tâu Ðại vương, chúng tôi có đem nhiều tiền của này để Ðại vương dùng. Mong đại vương hãy thâu
+\- Tâu Ðại vương, chúng tôi có đem nhiều tiền của này để Ðại vương dùng. Mong đại vương hãy thâu
 nhận lấy.
 
-- Này các Khanh, ta có đầy đủ nhiều tiền bạc do đánh thuế đúng pháp đem lại. Hãy giữ tiền bạc của
+\- Này các Khanh, ta có đầy đủ nhiều tiền bạc do đánh thuế đúng pháp đem lại. Hãy giữ tiền bạc của
 Khanh lại, và đem theo nhiều nữa cho các Khanh!
 
 Các vị này khi bị vua từ chối, liền đứng qua một bên và suy nghĩ: “Nếu nay chúng ta đem tiền của này
@@ -229,23 +229,23 @@ về nhà chúng ta thời thật không phải. Chúng ta hãy xây dựng nhà
 
 Các vị ấy liền đến vua Ðại Thiện Kiến và tâu:
 
-- Ðại vương, chúng tôi định xây dựng nhà cửa cho Ðại vương.
+\- Ðại vương, chúng tôi định xây dựng nhà cửa cho Ðại vương.
 
 Này Ananda, vua Ðại Thiện Kiến im lặng nhận lời.
 
 25\. Này Ananda, Thiên chủ Sakka biết được tư tưởng của vua Ðại Thiện Kiến với tư tưởng của mình,
 liền gọi Thiên tử Vissakamma (Tỳ-thủ-yết-ma) và nói:
 
-- Này Vissakamma, hãy đến đây và xây dựng một lâu đài cho vua Ðại Thiện Kiến, đặt tên là Dhamma
+\- Này Vissakamma, hãy đến đây và xây dựng một lâu đài cho vua Ðại Thiện Kiến, đặt tên là Dhamma
 (Pháp).
 
-- Xin vâng, Tôn giả.
+\- Xin vâng, Tôn giả.
 
 Này Ananda, Thiên tử Vissakamma vâng lời Thiên chủ Sakka, như người lực sĩ duỗi ra cánh tay đang
 co, hay co lại cánh tay duổi ra, Thiên tử Vissakamma biến mất từ chư Thiên ở Tavatimsa và hiện ra
 trước mặt vua Ðại Thiện Kiến. Rồi này Ananda, Thiên tử Vissakamma tâu với vua Ðại Thiện Kiến:
 
-- Ðại vương, tôi sẽ xây dựng một lâu đài tên là Dhamma cho Ðại vương!
+\- Ðại vương, tôi sẽ xây dựng một lâu đài tên là Dhamma cho Ðại vương!
 Này Ananda, vua Ðại Thiện Kiến im lặng nhận lời. Và này Ananda, Thiên tử Vissakamma xây dựng lâu
 đài tên là Dhamma cho vua Ðại Thiện Kiến.
 
@@ -409,10 +409,10 @@ Nay ta hãy để cho chúng đến, cứ cách một trăm năm thời bốn v�
 
 Này Ananda, rồi vua Ðại Thiện Kiến bảo Tướng quân báu:
 
-- Này Hiền giả, nay tám vạn bốn ngàn con voi này, sáng chiều đến phục vụ ta. Nay hãy để cho chúng
+\- Này Hiền giả, nay tám vạn bốn ngàn con voi này, sáng chiều đến phục vụ ta. Nay hãy để cho chúng
 đến, cứ cách một trăm năm, mỗi lần cho bốn vạn hai ngàn con đến.
 
-- Tâu Ðại vương, vâng!
+\- Tâu Ðại vương, vâng!
 
 Này Ananda, vị tướng quân báu vâng lời vua Ðại Thiện Kiến. Này Ananda, từ đó về sau, cứ mỗi một
 trăm năm, bốn vạn hai ngàn con voi lần lượt đến với vua Ðại Thiện Kiến.
@@ -422,25 +422,25 @@ trăm năm, bốn vạn hai ngàn con voi lần lượt đến với vua Ðại 
 
 Này Ananda, rồi hoàng hậu Subhaddà nói với các cung nữ:
 
-- Các Ngươi hãy gọi đầu, mặc áo vàng. Cách đây đã lâu, chúng ta được thấy vua Ðại Thiện Kiến. Vậy
+\- Các Ngươi hãy gọi đầu, mặc áo vàng. Cách đây đã lâu, chúng ta được thấy vua Ðại Thiện Kiến. Vậy
 nay chúng ta sẽ đi yết kiến vua Ðại Thiện Kiến.
 
-- Tâu Hoàng hậu, vâng!
+\- Tâu Hoàng hậu, vâng!
 
-- Này Ananda, các cung nữ vâng lời hoàng hậu Subhaddà (Thiện Hiền phi), gội đầu, mặc áo vàng và đi
+\- Này Ananda, các cung nữ vâng lời hoàng hậu Subhaddà (Thiện Hiền phi), gội đầu, mặc áo vàng và đi
 đến hoàng hậu Subhaddà.
 
 Này Ananda, rồi hoàng hậu Subhaddà cho gọi Tướng quân báu:
 
-- Này Khanh, hãy cho sắp đặt bốn loại binh chủng. Cách đây đã lâu chúng ta được thấy vua Ðại Thiện
+\- Này Khanh, hãy cho sắp đặt bốn loại binh chủng. Cách đây đã lâu chúng ta được thấy vua Ðại Thiện
 Kiến. Vậy nay chúng ta sẽ đi yết kiến vua Ðại Thiện Kiến.
 
-- Tâu Hoàng hậu, vâng!
+\- Tâu Hoàng hậu, vâng!
 
 Này Ananda, tướng quân báu vâng lời hoàng hậu Subhaddà, cho sắp đặt bốn loại binh chủng và tâu
 Hoàng hậu:
 
-- Tâu Hoàng hậu, bốn loại binh chủng đã sắp đặt xong. Hãy làm gì Hoàng hậu nghĩ là phải thời.
+\- Tâu Hoàng hậu, bốn loại binh chủng đã sắp đặt xong. Hãy làm gì Hoàng hậu nghĩ là phải thời.
 
 8\. Này Ananda, hoàng hậu Subhaddà cùng với bốn loại binh chủng và các cung nữ đi đến lâu đài
 Dhamma, leo lên lâu đài ấy, đến tại cao đường Ðại Trang Nghiêm và đứng dựa vào cánh cửa của cao
@@ -449,14 +449,14 @@ Này Ananda, vua Ðại Thiện Kiến suy nghĩ: “Nay tiếng gì ồn ào nh
 đảo?” Vua bèn bước ra khỏi cao đường Ðại Trang Nghiêm và thấy hoàng hậu Subhaddà đang đứng dựa
 vào cửa. Thấy vậy, vua liền nói với hoàng hậu Subhaddà:
 
-- Hoàng hậu hãy đứng ở đây, chớ có vào!
+\- Hoàng hậu hãy đứng ở đây, chớ có vào!
 
 9\. Này Ananda, vua Ðại Thiện Kiến liền bảo một người hầu cận:
 
-- Ngươi hãy nhắc giường bằng vàng ra khỏi cao đường Ðại Trang Nghiêm và đặt trong khu rừng cây
+\- Ngươi hãy nhắc giường bằng vàng ra khỏi cao đường Ðại Trang Nghiêm và đặt trong khu rừng cây
 sàla bằng vàng.
 
-- Tâu Ðại vương, vâng!
+\- Tâu Ðại vương, vâng!
 
 Này Ananda, người ấy vâng lời dạy của vua Ðại Thiện Kiến, nhắc sàng tọa bằng vàng ra khỏi cao đường
 Ðại Trang Nghiêm và đặt trong khu rừng cây sàla bằng vàng.
@@ -469,7 +469,7 @@ da thật là thanh tịnh, trong sáng. Mong rằng vua Ðại Thiện Kiến c
 
 Rồi hoàng hậu tâu với vua Ðại Thiện Kiến:
 
-- Tâu Ðại vương, tám ván bốn ngàn kinh thành này với kinh thành Kusàvati là đệ nhất, đều thuộc của
+\- Tâu Ðại vương, tám ván bốn ngàn kinh thành này với kinh thành Kusàvati là đệ nhất, đều thuộc của
 Ðại vương. Ðại vương hãy khởi tâm ái dục đối với chúng. Ðại vương hãy ái luyến đời sống!
 
 Tâu Ðại vương, tám vạn bốn ngàn lâu đài này với lâu đài Dhamma là đệ nhất, đều thuộc của Ðại vương.
@@ -517,12 +517,12 @@ Tâu Ðại vương, tám vạn bốn ngàn loại cháo sữa, và buổi chi�
 
 11\. Này Ananda, vua Ðại Thiện Kiến nghe hoàng hậu Subhaddà nói vậy liền trả lời:
 
-- Ðã từ lâu Hoàng hậu nói với ta với những lời dễ chịu, hòa ái và dịu dàng. Thế mà nay, trong lần cuối
+\- Ðã từ lâu Hoàng hậu nói với ta với những lời dễ chịu, hòa ái và dịu dàng. Thế mà nay, trong lần cuối
 cùng này, Hoàng hậu lại nói với ta bằng những lời không dễ chịu, không hòa ái, không dịu dàng!
 
-- Tâu Ðại vương, thiếp phải đối với Ðại vương thế nào?
+\- Tâu Ðại vương, thiếp phải đối với Ðại vương thế nào?
 
-- Này Hoàng hậu, Hoàng hậu phải nói với ta như thế này:
+\- Này Hoàng hậu, Hoàng hậu phải nói với ta như thế này:
 
 “Tất cả mọi sự vật khả ái, khả lạc đều thay đổi, không có thực thể, chịu sự biến hóa. Ðại vương chớ có
 mệnh chung với tâm quyến luyến của chúng. Ðau khổ thay, sự mệnh chung với tâm còn ái luyến. Ðáng
@@ -581,7 +581,7 @@ sống!
 12\. Này Ananda, khi nghe nói vậy, hoàng hậu Subhaddà buồn khóc, rơi nước mắt và tâu với vua Ðại
 Thiện Kiến:
 
-- Tâu Ðại vương, tất cả mọi sự vật khả ái, khả lạc đều thay đổi, không có thực thể, thực sự biến hóa. Ðại
+\- Tâu Ðại vương, tất cả mọi sự vật khả ái, khả lạc đều thay đổi, không có thực thể, thực sự biến hóa. Ðại
 vương chớ có mệnh chung với tâm quyến luyến chúng. Ðau khổ thay, sự mệnh chung với tâm còn ái
 luyến! Ðáng trách thay, sự mệnh chung với tâm còn ái luyến! Tâu Ðại vương, tám vạn bốn ngàn lâu đài
 này với lâu đài Dhamma là đệ nhất, đều thuộc của Ðại vương. Ðại vương hãy từ bỏ lòng ái dục đối với

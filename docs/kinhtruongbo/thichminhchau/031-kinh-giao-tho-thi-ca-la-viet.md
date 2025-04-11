@@ -13,23 +13,23 @@ chủ tử, dậy sớm, ra khỏi thành Vương Xá, với áo thấm nước,
 phương hướng, hướng Ðông, hướng Nam, hướng Tây, hướng Bắc, hướng Hạ, hướng Thượng. Thấy vậy
 Ngài nói với Singàlaka, gia chủ tử:
 
-- Này Gia chủ tử, vì sao Ngươi dậy sớm, ra khỏi thành Vương Xá, với áo thấm ướt, với tóc thấm ướt
+\- Này Gia chủ tử, vì sao Ngươi dậy sớm, ra khỏi thành Vương Xá, với áo thấm ướt, với tóc thấm ướt
 chấp tay đảnh lễ các phương hướng, hướng Ðông... hướng Thượng?
 
-- Bạch Thế Tôn, thân phụ con khi gần chết có dặn con: “Này con thân yêu, hãy đảnh lễ các phương
+\- Bạch Thế Tôn, thân phụ con khi gần chết có dặn con: “Này con thân yêu, hãy đảnh lễ các phương
 hướng”. Bạch Thế Tôn, con kính tín, cung kính, tôn trọng, đảnh lễ lời nói của thân phụ con, buổi sáng
 dậy sớm, ra khỏi thành Vương Xá, với áo thấm ướt, với tóc thấm ướt, chấp tay đảnh lễ các phương
 hướng, hướng Ðông... hướng Thượng.
 
-- Này Gia chủ tử, trong luật pháp của bậc Thánh, lễ bái sáu phương không phải như vậy.
+\- Này Gia chủ tử, trong luật pháp của bậc Thánh, lễ bái sáu phương không phải như vậy.
 
-- Bạch Thế Tôn, trong luật pháp của bậc Thánh, thế nào là lễ bái sáu phương? Bạch Thế Tôn, trong luật
+\- Bạch Thế Tôn, trong luật pháp của bậc Thánh, thế nào là lễ bái sáu phương? Bạch Thế Tôn, trong luật
 pháp của bậc Thánh, đảnh lễ sáu phương phải như thế nào? Lành thay! Thế Tôn hãy giảng pháp ấy cho
 con!
 
-- Này Gia chủ tử, hãy nghe và suy nghiệm kỹ, Ta sẽ giảng.
+\- Này Gia chủ tử, hãy nghe và suy nghiệm kỹ, Ta sẽ giảng.
 
-- Thưa vâng, bạch Thế Tôn.
+\- Thưa vâng, bạch Thế Tôn.
 
 Singàlaka, gia chủ tử vâng lời Thế Tôn. Thế Tôn giảng như sau:
 

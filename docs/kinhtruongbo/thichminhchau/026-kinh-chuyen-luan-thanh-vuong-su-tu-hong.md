@@ -7,7 +7,7 @@
 chư Tỷ kheo: “Này các Tỷ kheo!”. Các vị Tỷ kheo ấy Bạch Thế Tôn: “Thưa vâng, bạch Thế Tôn”. Thế
 Tôn giảng như sau:
 
-- Này các Tỷ kheo, hãy sống tự mình là ngọn đèn cho chính mình, tự mình nương tựa mình, không
+\- Này các Tỷ kheo, hãy sống tự mình là ngọn đèn cho chính mình, tự mình nương tựa mình, không
 nương tựa một ai khác, lấy Chánh pháp làm ngọn đèn, lấy Chánh pháp làm nơi nương tựa, không nương
 tựa một gì khác!
 
@@ -37,21 +37,21 @@ dùng kiếm.
 3\. Này các Tỷ kheo, sau nhiều năm, nhiều trăm năm, nhiều ngàn năm, vua Dalhanemi cho gọi một người
 và bảo:
 
-- Này khanh, khi nào khanh thấy Thiên luân báu có lặn xuống một ít, có rời khỏi vị trí cũ, thì báo cho Ta
+\- Này khanh, khi nào khanh thấy Thiên luân báu có lặn xuống một ít, có rời khỏi vị trí cũ, thì báo cho Ta
 biết.
 
-- Tâu Ðại vương, xin vâng!
+\- Tâu Ðại vương, xin vâng!
 
 Này các Tỷ kheo người ấy vâng theo lời dạy vua Dalhanemi.
 
 Này các Tỷ kheo, sau nhiều năm, nhiều trăm năm, nhiều ngàn năm, người ấy thấy Thiên luân báu lặn
 xuống một ít, có rời khỏi vị trí cũ. Thấy vậy, người ấy liền đến vua Dalhanemi, khi đến xong, liền báo
 cho vua biết:
-- Ðại vương có biết chăng, xe báu cõi trời của Ngài đã lặn xuống một ít, đã rời khỏi vị trí cũ?
+\- Ðại vương có biết chăng, xe báu cõi trời của Ngài đã lặn xuống một ít, đã rời khỏi vị trí cũ?
 
 Này các Tỷ kheo, vua Dalhanemi liền cho mời thái tử và nói rằng:
 
-- Này thái tử thân yêu, xe báu cõi trời của ta đã lặn xuống một ít, đã rời khỏi vị trí cũ. Ta nghe nói như
+\- Này thái tử thân yêu, xe báu cõi trời của ta đã lặn xuống một ít, đã rời khỏi vị trí cũ. Ta nghe nói như
 sau: “Nếu xe báu cõi Trời của Chuẩn luận Pháp vương lặn xuống và rời khỏi vị trí cũ, thời vua còn sống
 không bao lâu nữa”. Ta đã thọ hưởng dục lạc loài Người một cách đầy đủ. Nay đã đến lúc tìm cầu dục
 lạc chư Thiên. Này thái tử thân yêu, hãy trị vì trái đất này cho đến hải biên. Ta sẽ cạo bỏ râu tóc, đắp áo
@@ -64,23 +64,23 @@ sĩ xuất gia bảy ngày, xe báu cõi Trời liền biến mất.
 4\. Này các Tỷ kheo, một người khác đi đến vua Quán đảnh Sát đế lỵ, khi đến xong liền tâu vua Quán
 đảnh Sát đế lỵ:
 
-- Tâu Ðại vương, Ngài đã biết xe báu cõi Trời đa biến mất chưa?
+\- Tâu Ðại vương, Ngài đã biết xe báu cõi Trời đa biến mất chưa?
 
 Này các Tỷ kheo, khi vua Quán đảnh Sát đế lỵ nghe tin xe báu cõi Trời đã biến mất, liền không được
 vui, cảm thấy sầu muộn. Rồi vua ấy đến chỗ vua ẩn sĩ ở, khi đến xong, thưa với vua ẩn sĩ:
 
-- Ðại vương có biết chăng, xe báu cõi Trời đã biến mất?
+\- Ðại vương có biết chăng, xe báu cõi Trời đã biến mất?
 
 Này các Tỷ kheo, khi nghe nói vậy, vua ẩn sĩ nói với vua Quán đảnh Sát đế lỵ:
 
-- Này thái tử thân yêu, chớ có không vui vẻ, chớ có sầu muộn. Này thái tử thân yêu, xe báu cõi Trời
+\- Này thái tử thân yêu, chớ có không vui vẻ, chớ có sầu muộn. Này thái tử thân yêu, xe báu cõi Trời
 không phải là gia bảo tổ tiên để lại. Này thái tử thân yêu, hãy hành trì Thánh vương Chánh pháp. Sự tình
 này sẽ xảy ra, khi con hành trì Thánh vương Chánh pháp vào ngày rằm bố-tát, con gội đầu trai giới, đi
 lên lầu cao, thì xe báu cõi Trời sẽ hiện ra đầy đủ ngàn tăm, vành xe, trục xe và đầy đủ các bộ phận.
 
 5\. - Tâu Ðại vương, thế nào là Thánh vương Chánh pháp?
 
-- Này thái tử thân yêu, con y cứ vào Pháp, kính trọng Pháp, cung kính Pháp, đảnh lễ Pháp, cúng dường
+\- Này thái tử thân yêu, con y cứ vào Pháp, kính trọng Pháp, cung kính Pháp, đảnh lễ Pháp, cúng dường
 Pháp, tôn trọng Pháp, tự con trở thành Pháp tràng, Pháp kỳ, xem Pháp là thầy, tự trở thành người bảo vệ
 hợp pháp cho thứ dân, cho quân đội, cho Sát đế lỵ, cho quần thần, cho Bà la môn, cho gia chủ, cho thị
 dân, thôn dân, cho Sa môn, Bà la môn, cho các loài thú và loài chim. Chớ có làm gì phi pháp trong quốc
@@ -92,7 +92,7 @@ thế nào đem lại bất lợi và đau khổ cho tôi lâu ngày, hành đ�
 cho tôi lâu ngày?” Con hãy nghe họ và ngăn chận họ khỏi sự bất thiện và khuyến khích họ làm điều
 thiện. Này con thân yêu, như vậy là Thánh vương Chánh pháp.
 
-- Thưa vâng, tâu Ðại vương!
+\- Thưa vâng, tâu Ðại vương!
 
 Này các Tỷ kheo, vua Quán đảnh Sát đế lỵ trả lời vua ẩn sĩ và thực hành Thánh vương Chánh pháp. Khi
 thực hành Thánh vương Chánh pháp vào ngày rằm bố-tát, vua gội đầu trai giới, đi lên lầu cao, thì xe báu
@@ -108,12 +108,12 @@ này các Tỷ kheo, chỗ nào xe báu ấy dừng lại, chỗ ấy Chuyển l
 loại chủng binh. Này các Tỷ kheo, các vị vua chư hầu ở hướng đông đều đến yết kiến Chuyển luân
 Thánh vương và nói:
 
-- Hãy đến đây, Ðại vương! Thiện lai. Ðại vương! Tất cả đều thuộc của Ðại vương! Ðại vương hãy
+\- Hãy đến đây, Ðại vương! Thiện lai. Ðại vương! Tất cả đều thuộc của Ðại vương! Ðại vương hãy
 thuyết giảng!
 
 Chuyển luân Thánh vương bèn nói:
 
-- Chớ có sát sanh! Chớ có lấy của không cho! Chớ có sống tà hạnh trong các dục! Chớ có nói láo! Chớ
+\- Chớ có sát sanh! Chớ có lấy của không cho! Chớ có sống tà hạnh trong các dục! Chớ có nói láo! Chớ
 có uống rượu! Và hãy thọ hưởng theo những gì đã có để thọ hưởng!
 
 Này các Tỷ kheo, các vị vua thù nghịch ở hướng Ðông đều trở thành chư hầu của Chuyển luân Thánh
@@ -126,12 +126,12 @@ Và này các Tỷ kheo, chỗ nào xe báu ấy dừng lại, chỗ ấy Chuy�
 loại binh chủng. Này các Tỷ kheo, các vị vua chư hầu ở hướng Bắc đều đến yết kiến Chuyển luân Thánh
 vương và nói:
 
-- Hãy đến đây, Ðại vương! Thiện lai, Ðại vương! Tất cả đều thuộc của Ðại vương! Ðại vương hãy
+\- Hãy đến đây, Ðại vương! Thiện lai, Ðại vương! Tất cả đều thuộc của Ðại vương! Ðại vương hãy
 thuyết giảng!
 
 Chuyển luân Thánh vương bèn nói:
 
-- Chớ có sát sanh! Chớ có lấy của không cho! Chớ có sống tà hạnh trong các dục! Chớ có nói láo! Chớ
+\- Chớ có sát sanh! Chớ có lấy của không cho! Chớ có sống tà hạnh trong các dục! Chớ có nói láo! Chớ
 có uống rượu! Và hãy thọ hưởng những gì đã có để thọ hưởng!
 
 Này các Tỷ kheo, các vua thù nghịch ở hướng Bắc đều trở thành chư hầu Chuyển luân Thánh vương.
@@ -146,10 +146,10 @@ Chuyển luân Thánh vương... Này các Tỷ kheo, lần thứ sau Chuyển l
 kheo, lần thứ bảy, Chuyển luân Thánh vương sau nhiều năm, nhiều trăm năm, nhiều ngàn năm cho gọi
 một người và bảo:
 
-- Này Khanh, khi nào Khanh thấy xe báu cõi Trời có lặn xuống một ít, có rời khỏi vị trí cũ, thì báo cho
+\- Này Khanh, khi nào Khanh thấy xe báu cõi Trời có lặn xuống một ít, có rời khỏi vị trí cũ, thì báo cho
 ta biết.
 
-- Tâu Ðại vương, xin vâng!
+\- Tâu Ðại vương, xin vâng!
 
 Này các Tỷ kheo, người ấy vâng theo lời dạy Chuyển luân Thánh vương.
 
@@ -157,11 +157,11 @@ Này các Tỷ kheo, sau nhiều năm, nhiều trăm năm, nhiều ngàn năm, n
 xuống một ít, có rời khỏi vị trí cũ. Thấy vậy, người ấy liền đến Chuyển luân Thánh vương, khi đến xong
 liền báo cho vua biết:
 
-- Ðại vương có biết chăng, xe báu cõi Trời của Ngài đã lặn xuống một ít, đã rời khỏi vị trí cũ?
+\- Ðại vương có biết chăng, xe báu cõi Trời của Ngài đã lặn xuống một ít, đã rời khỏi vị trí cũ?
 
 Này các Tỷ kheo, Chuyển luân Thánh vương liền cho mời thái tử và nói rằng:
 
-- Này thái tử thân yêu, xe báu cõi Trời của Ta đã lặn xuống một ít, đã rời khỏi vị trí cũ. Ta nghe như sau:
+\- Này thái tử thân yêu, xe báu cõi Trời của Ta đã lặn xuống một ít, đã rời khỏi vị trí cũ. Ta nghe như sau:
 “Nếu thiên bảo luân của Chuyển luân THánh vương có lặn xuống một ít, và rời khỏi vị trí cũ, thì vua
 còn sống không bao lâu nữa.” Ta đã thọ hưởng dục lạc loài Người một cách đầy đủ. Nay đã đến lúc tìm
 cầu dục lạc chư Thiên. Này thái tử thân yêu, hãy trị vì trái đất này cho đến hải biên. Ta sẽ cạo bỏ râu tóc,
@@ -174,7 +174,7 @@ Này các Tỷ kheo, sau khi Chuyển luân Thánh vương xuất gia bảy ngà
 
 9\. Này các Tỷ kheo, một người khác đi đến vua Quán đảnh Sát đế lỵ, khi đến nơi liền tâu với vua:
 
-- Ðại vương có biết chăng, xe báu cõi Trời đã biến mất?
+\- Ðại vương có biết chăng, xe báu cõi Trời đã biến mất?
 
 Này các Tỷ kheo, khi vua Quán đảnh Sát đế lỵ nghe tin xe báu cõi Trời đã biến mất, liền không được vui
 vẻ và cảm thấy sầu muộn. Vua ấy không đến chỗ vua ẩn sĩ và hỏi về Thánh vương Chánh pháp. Vị ấy tự
@@ -184,7 +184,7 @@ thịnh như trong thời xưa, khi các vua chúa cai trị theo Thánh vương
 Này các Tỷ kheo, rồi các vị đại thần, cận thần, tài chánh quan, các cận vệ, các thủ môn quan, các vị sống
 bằng bùa chú tụ họp lại, cùng đến vua Quán đảnh Sát đế lỵ và nói:
 
-- Tâu Ðại vương, vì Ðại vương cai trị quốc gia theo ý Ðại vương, nên quốc gia không được hưng thịnh,
+\- Tâu Ðại vương, vì Ðại vương cai trị quốc gia theo ý Ðại vương, nên quốc gia không được hưng thịnh,
 như trong thời xưa, các vua chúa cai trị theo Thánh vương Chánh pháp. Nay có các vị đại thần, cận thần,
 tài chánh quan, các cận vệ, các thủ môn quan, các vị sống bằng bùa chú, chúng tôi và một số các vị khác
 thọ trì Thánh vương Chánh pháp. Tâu Ðại vương, nếu Ðại vương hỏi chúng tôi về Thánh vương Chánh
@@ -196,53 +196,53 @@ vị này được hỏi, đã trả lời về Thánh vương Chánh pháp. Khi
 trì, ngăn chận, che chở, nhưng không cho người nghèo tiền của. Và vì vậy, nghèo đói được lan rộng. Vì
 nghèo đói được lan rộng, một người đã lấy vật không cho của những người khác, và hành động ấy được
 gọi là ăn trộm. Người ta bắt anh ta và dẫn đến trước vua Quán đảnh Sát đế lỵ và tâu vua:
-- Tâu Ðại vương, người này lấy vật không cho của những người khác, hành động này được gọi là ăn
+\- Tâu Ðại vương, người này lấy vật không cho của những người khác, hành động này được gọi là ăn
 trộm.
 
 Này các Tỷ kheo, khi nghe vậy vua Quán đảnh Sát đế lỵ nói với người ấy:
 
-- Này Ngươi, có phải Ngươi lấy vật không cho của những người khác, tức là ăn trộm?
+\- Này Ngươi, có phải Ngươi lấy vật không cho của những người khác, tức là ăn trộm?
 
-- Tâu Ðại vương, sự thật có vậy.
+\- Tâu Ðại vương, sự thật có vậy.
 
-- Sao lại làm vậy?
+\- Sao lại làm vậy?
 
-- Tâu Ðại vương, con không có gì sống!
+\- Tâu Ðại vương, con không có gì sống!
 
 Này các Tỷ kheo, vua Quán đảnh Sát đế lỵ liền cho người ấy tiền của và nói:
 
-- Này Ngươi, với tiền của này Ngươi hãy tự nuôi dưỡng, nuôi dưỡng cha mẹ, nuôi dưỡng vợ con, tiến
+\- Này Ngươi, với tiền của này Ngươi hãy tự nuôi dưỡng, nuôi dưỡng cha mẹ, nuôi dưỡng vợ con, tiến
 hành các công việc, thực hiện sự cúng dường với công đức tối thượng cho các vị Sa môn, mà kết quả là
 hưởng lạc thọ hiện tại và sanh Thiên giới trong tương lai...
 
 Này các Tỷ kheo, người ấy vâng theo lời vua Quán đảnh Sát đế lỵ và tâu:
 
-- Thưa vâng, Ðại vương!
+\- Thưa vâng, Ðại vương!
 
 11\. Này các Tỷ kheo, rồi một người khác lấy của không cho của những người khác, tức là ăn trộm.
 Người ta bắt anh ta và dẫn đến trước mặt vua Quán đảnh Sát đế lỵ và tâu vua:
 
-- Tâu Ðại vương, người này lấy vật không cho của những người khác, tức là ăn trộm.
+\- Tâu Ðại vương, người này lấy vật không cho của những người khác, tức là ăn trộm.
 
 Này các Tỷ kheo, khi nghe vậy, vua Quán đảnh Sát đế lỵ nói với người ấy:
 
-- Này Ngươi, có phải Ngươi lấy của không cho của những người khác không, tức là ăn trộm?
+\- Này Ngươi, có phải Ngươi lấy của không cho của những người khác không, tức là ăn trộm?
 
-- Tâu Ðại vương, sự thật có vậy.
+\- Tâu Ðại vương, sự thật có vậy.
 
-- Sao lại làm vậy?
+\- Sao lại làm vậy?
 
-- Tâu Ðại vương, con không có gì để sống!
+\- Tâu Ðại vương, con không có gì để sống!
 
 Này các Tỷ kheo, vua Quán đảnh Sát đế lỵ liền cho người ấy tiền của và nói:
 
-- Này Ngươi, với tiền của này, Ngươi hãy tự nuôi dưỡng, nuôi dưỡng cha mẹ, nuôi dưỡng vợ con, tiến
+\- Này Ngươi, với tiền của này, Ngươi hãy tự nuôi dưỡng, nuôi dưỡng cha mẹ, nuôi dưỡng vợ con, tiến
 hành các công việc, thực hiện sự cúng dường với công đức tối thắng cho các vị Sa môn, Bà la môn, mà
 kết quả là lạc thọ hiện tại và sanh thiên giới trong tương lai.
 
 Này các Tỷ kheo, người ấy vâng theo lời vua Quán đảnh Sát đế lỵ và tâu:
 
-- Thưa vâng, Ðại vương!
+\- Thưa vâng, Ðại vương!
 
 12\. Này các Tỷ kheo, nhiều người nghe: “Những ai lấy vật không cho của những người khác, tức là ăn
 trộm, vua cho những người ấy tiền của.” Nghe vậy, họ nghĩ: “Chúng ta hãy lấy vật không cho của những
@@ -251,17 +251,17 @@ người khác, tức là ăn trộm.”
 Này các Tỷ kheo, lại một người khác lấy vật không cho của những người khác, tức là ăn trộm. Người ta
 bắt anh ta và dẫn đến trước vua Quán đảnh Sát đế lỵ và tâu vua:
 
-- Tâu Ðại vương, người này lấy vật không cho của những người khác, tức là ăn trộm.
+\- Tâu Ðại vương, người này lấy vật không cho của những người khác, tức là ăn trộm.
 
 Này các Tỷ kheo, khi nghe nói vậy vua Quán đảnh Sát đến lỵ nói với người ấy:
 
-- Này Ngươi, có phải Ngươi lấy vật không cho của những người khác, tức là ăn trộm?
+\- Này Ngươi, có phải Ngươi lấy vật không cho của những người khác, tức là ăn trộm?
 
-- Tâu Ðại vương, sự thật có vậy?
+\- Tâu Ðại vương, sự thật có vậy?
 
-- Sao lại làm vậy?
+\- Sao lại làm vậy?
 
-- Tâu Ðại vương, con không có gì để sống!
+\- Tâu Ðại vương, con không có gì để sống!
 
 Này các Tỷ kheo, vua Quán đảnh Sát đế lỵ suy nghĩ: “Nếu ai lấy vật không cho của những người khác
 tức là ăn trộm và ta cho họ tiền của, thì lấy vật không cho như vậy tăng trưởng. Nay ta phải ngăn chận
@@ -269,11 +269,11 @@ triệt để người ấy, hình phạt thích đáng và chặt đầu nó!�
 
 Này các Tỷ kheo, vua Quán đảnh Sát đế lỵ ra lệnh cho các người:
 
-- Này các Khanh, hãy lấy dây thật chắc, cột tay ra đàng sau với gút thật chặt, cạo đầu nó, dắt nó đi với
+\- Này các Khanh, hãy lấy dây thật chắc, cột tay ra đàng sau với gút thật chặt, cạo đầu nó, dắt nó đi với
 tiếng trống khe khắt, từ đường này đến đường khác, từ ngã tư này đến ngã tư khác, dắt nó ra khỏi cửa
 phía Nam, ngăn chận triệt để người ấy, hình phạt thích đáng và chặt đầu nó.
 
-- Tâu Ðại vương, thưa vâng!
+\- Tâu Ðại vương, thưa vâng!
 
 Này các Tỷ kheo, các người ấy vâng theo lệnh của vua Quán đảnh Sát đế lỵ, lấy dây thật chắc cột tay ra
 đàng sau với gút thật chặt, cạo đầu anh ta, dắt anh ta đi với tiếng trống khe khắt, từ đường này đến
@@ -300,13 +300,13 @@ giảm thiểu, nên loài Người tuổi thọ đến tám vạn năm và con 
 Này các Tỷ kheo, khi loài Người thọ bốn vạn năm, một người khác lấy vật không cho tức là ăn trộm.
 Người ta bắt người này lại, dẫn đến trước vua Quán đảnh Sát đế lỵ và thưa:
 
-- Tâu Ðại vương, người này lất vật không cho của những người khác, tức là ăn trộm.
+\- Tâu Ðại vương, người này lất vật không cho của những người khác, tức là ăn trộm.
 
 Này các Tỷ kheo, khi nghe nói vậy, vua Quán đảnh Sát đế lỵ nói với người ấy:
 
-- Này Ngươi, có thật Ngươi lấy vật không cho của những người khác, tức là ăn trộm không?
+\- Này Ngươi, có thật Ngươi lấy vật không cho của những người khác, tức là ăn trộm không?
 
-- Tâu Ðại vương, không!
+\- Tâu Ðại vương, không!
 
 Người ấy cố ý nói không thật.
 
@@ -319,7 +319,7 @@ Người tuổi thọ đến bốn vạn năm và con của họ thọ hai vạn
 Này các Tỷ kheo, khi loài Người tuôi thọ đến hai vạn năm, một người khác lấy vật không cho của những
 người khác, tức là ăn trộm. Một người khác báo với vua Quán đảnh Sát đế lỵ về người ấy:
 
-- Tâu Ðại vương, người này đã lấy vật không cho của những người khác, tức là ăn trộm.
+\- Tâu Ðại vương, người này đã lấy vật không cho của những người khác, tức là ăn trộm.
 
 Như vậy người ấy đã bị nói xấu.
 
