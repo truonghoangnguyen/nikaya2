@@ -1,0 +1,50 @@
+## The Chapter on What Occupies the Mind
+
+### N 1.1--10 *Cittapariyādānavagga*
+
+1\. [So I have heard.]{.smallcaps} At one time the Buddha was staying near
+[Sāvatthī]{lang="sa"} in Jeta's Grove, [Anāthapiṇḍika]{lang="sa"}'s
+monastery. There the Buddha addressed the mendicants, "Mendicants!"
+
+<!--pg-->
+"Venerable sir," they replied. The Buddha said this:
+
+"Mendicants, I do not see a single sight that occupies a man's mind like
+the sight of a woman. The sight of a woman occupies a man's mind."
+
+2\. "Mendicants, I do not see a single sound that occupies a man's mind like
+the sound of a woman. The sound of a woman occupies a man's mind."
+
+<!--pg-->
+3\. "Mendicants, I do not see a single smell that occupies a man's mind like
+the smell of a woman. The smell of a woman occupies a man's mind."
+
+<!--pg-->
+4\. "Mendicants, I do not see a single taste that occupies a man's mind like
+the taste of a woman. The taste of a woman occupies a man's mind."
+
+<!--pg-->
+5\. "Mendicants, I do not see a single touch that occupies a man's mind like
+the touch of a woman. The touch of a woman occupies a man's mind."
+
+<!--pg-->
+6\. "Mendicants, I do not see a single sight that occupies a woman's mind
+like the sight of a man. The sight of a man occupies a woman's mind."
+
+<!--pg-->
+7\. "Mendicants, I do not see a single sound that occupies a woman's mind
+like the sound of a man. The sound of a man occupies a woman's mind."
+
+<!--pg-->
+8\. "Mendicants, I do not see a single smell that occupies a woman's mind
+like the smell of a man. The smell of a man occupies a woman's mind."
+
+<!--pg-->
+9\. "Mendicants, I do not see a single taste that occupies a woman's mind
+like the taste of a man. The taste of a man occupies a woman's mind."
+
+<!--pg-->
+10\. "Mendicants, I do not see a single touch that occupies a woman's mind
+like the touch of a man. The touch of a man occupies a woman's mind."
+
+<!--pg-->

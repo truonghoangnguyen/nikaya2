@@ -1,0 +1,69 @@
+# XVIII. Khoảnh Khắc Búng Tay [^194]
+
+394 (1)
+
+"Này các Tỳ-kheo (Bhikkhus - Tỳ-kheo, vị tu sĩ Phật giáo), nếu một Tỳ-kheo chỉ trong khoảnh khắc búng tay tu tập Sơ thiền (first meditative absorption - thiền định bậc nhất), vị ấy được gọi là Tỳ-kheo không thiếu thiền định, thực hành lời dạy của Đức Đạo Sư (Teacher - Đức Phật), vâng theo lời khuyên của Ngài, và không ăn cơm thí của quốc gia một cách uổng phí. Huống hồ những vị tu tập nhiều hơn!"
+
+395 (2)-401 (8)
+
+"Này các Tỳ-kheo, nếu một Tỳ-kheo chỉ trong khoảnh khắc búng tay tu tập (395) Nhị thiền (second meditative absorption)... (396) Tam thiền (third meditative absorption)... (397) Tứ thiền (fourth meditative absorption)... (398) giải thoát tâm bằng Từ (liberation of mind by lovingkindness - tâm từ bi)... (399) giải thoát tâm bằng Bi (liberation of mind by compassion - tâm thương xót)... [39] (400) giải thoát tâm bằng Hỷ (liberation of mind by altruistic joy - tâm vui lây)... (401) giải thoát tâm bằng Xả (liberation of mind by equanimity - tâm bình thản), [^195] vị ấy được gọi là Tỳ-kheo không thiếu thiền định, thực hành lời dạy của Đức Đạo Sư, vâng theo lời khuyên của Ngài, và không ăn cơm thí của quốc gia một cách uổng phí. Huống hồ những vị tu tập nhiều hơn!"
+
+402 (9)-405 (12) [^196]
+
+"...(402) an trú quán thân trên thân (dwells contemplating the body in the body - quán sát thân thể), nhiệt tâm, tỉnh giác, chánh niệm, nhiếp phục tham ưu ở đời... (403) an trú quán thọ trên thọ (dwells contemplating feelings in feelings - quán sát cảm thọ)... (404) an trú quán tâm trên tâm (dwells contemplating mind in mind - quán sát tâm ý)... (405) an trú quán pháp trên pháp (dwells contemplating phenomena in phenomena - quán sát các pháp), nhiệt tâm, tỉnh giác, chánh niệm, nhiếp phục tham ưu ở đời..."
+
+406 (13)-409 (16)
+
+"...(406) phát khởi ý muốn (generates desire), tinh tấn, nỗ lực, thúc giục tâm, gắng sức để các ác bất thiện pháp (bad unwholesome qualities - phẩm chất xấu, không lành mạnh) chưa sanh không sanh khởi... (407) phát khởi ý muốn, tinh tấn, nỗ lực, thúc giục tâm, gắng sức để các ác bất thiện pháp đã sanh được đoạn trừ... (408) phát khởi ý muốn, tinh tấn, nỗ lực, thúc giục tâm, gắng sức để các thiện pháp (wholesome qualities - phẩm chất tốt, lành mạnh) chưa sanh được sanh khởi... (409) phát khởi ý muốn, tinh tấn, nỗ lực, thúc giục tâm, gắng sức để các thiện pháp đã sanh được an trú, không tiêu biến, tăng trưởng, quảng đại, viên mãn bằng sự tu tập..."
+
+410 (17)-413 (20)
+
+"...(410) tu tập Như Ý Túc (basis for psychic power - nền tảng cho năng lực tâm linh) có câu hữu với dục (desire), với định (concentration), với tinh tấn hành (activities of striving)... (411) tu tập Như Ý Túc có câu hữu với tinh tấn (energy), với định, với tinh tấn hành... (412) tu tập Như Ý Túc có câu hữu với tâm (mind), với định, với tinh tấn hành... (413) tu tập Như Ý Túc có câu hữu với tư duy (investigation), với định, với tinh tấn hành..."
+
+414 (21)-423 (30)
+
+"...(414) tu tập Tín căn (faculty of faith - năng lực niềm tin)... (415) tu tập Tấn căn (faculty of energy - năng lực tinh tấn)... (416) tu tập Niệm căn (faculty of mindfulness - năng lực chánh niệm)... (417) tu tập Định căn (faculty of concentration - năng lực định tâm)... (418) tu tập Tuệ căn (faculty of wisdom - năng lực trí tuệ)... (419) tu tập Tín lực (power of faith - sức mạnh niềm tin)... (420) tu tập Tấn lực (power of energy - sức mạnh tinh tấn)... (421) tu tập Niệm lực (power of mindfulness - sức mạnh chánh niệm)... (422) tu tập Định lực (power of concentration - sức mạnh định tâm)... (423) tu tập Tuệ lực (power of wisdom - sức mạnh trí tuệ)..."
+
+424 (31)-430 (37)
+
+"...(424) tu tập Niệm giác chi (enlightenment factor of mindfulness - yếu tố giác ngộ về chánh niệm)... (425) tu tập Trạch pháp giác chi (enlightenment factor of discrimination of phenomena - yếu tố giác ngộ về phân biệt các pháp)... (426) tu tập Tinh tấn giác chi (enlightenment factor of energy - yếu tố giác ngộ về tinh tấn) [40]... (427) tu tập Hỷ giác chi (enlightenment factor of rapture - yếu tố giác ngộ về hỷ lạc)... (428) tu tập Khinh an giác chi (enlightenment factor of tranquility - yếu tố giác ngộ về khinh an)... (429) tu tập Định giác chi (enlightenment factor of concentration - yếu tố giác ngộ về định tâm)... (430) tu tập Xả giác chi (enlightenment factor of equanimity - yếu tố giác ngộ về xả ly)..."
+
+431 (38)-438 (45)
+
+"...(431) tu tập Chánh kiến (right view - hiểu biết đúng đắn)... (432) tu tập Chánh tư duy (right intention - suy nghĩ đúng đắn)... (433) tu tập Chánh ngữ (right speech - lời nói đúng đắn)... (434) tu tập Chánh nghiệp (right action - hành động đúng đắn)... (435) tu tập Chánh mạng (right livelihood - cách sống đúng đắn)... (436) tu tập Chánh tinh tấn (right effort - sự cố gắng đúng đắn)... (437) tu tập Chánh niệm (right mindfulness - sự ghi nhớ đúng đắn)... (438) tu tập Chánh định (right concentration - sự tập trung đúng đắn)..."
+
+439 (46)-446 (53) [^199]
+
+"...(439) nội có tưởng sắc (percipient of forms internally - có nhận thức về sắc bên trong), thấy các sắc bên ngoài (sees forms externally - thấy các hình sắc bên ngoài), có giới hạn (limited), đẹp hay xấu (beautiful or ugly), và sau khi vượt qua chúng, vị ấy có tưởng như sau: 'Tôi biết, tôi thấy'... (440) nội có tưởng sắc, thấy các sắc bên ngoài, vô lượng (measureless), đẹp hay xấu, và sau khi vượt qua chúng, vị ấy có tưởng như sau: 'Tôi biết, tôi thấy'... (441) nội không có tưởng sắc (not percipient of forms internally - không có nhận thức về sắc bên trong), thấy các sắc bên ngoài, có giới hạn, đẹp hay xấu, và sau khi vượt qua chúng, vị ấy có tưởng như sau: 'Tôi biết, tôi thấy'... (442) nội không có tưởng sắc, thấy các sắc bên ngoài, vô lượng, đẹp hay xấu, và sau khi vượt qua chúng, vị ấy có tưởng như sau: 'Tôi biết, tôi thấy'... (443) nội không có tưởng sắc, thấy các sắc bên ngoài, màu xanh (blue), màu xanh da trời, có sắc xanh, có vẻ xanh, và sau khi vượt qua chúng, vị ấy có tưởng như sau: 'Tôi biết, tôi thấy'... (444) nội không có tưởng sắc, thấy các sắc bên ngoài, màu vàng (yellow), màu vàng, có sắc vàng, có vẻ vàng, và sau khi vượt qua chúng, vị ấy có tưởng như sau: 'Tôi biết, tôi thấy'... (445) nội không có tưởng sắc, thấy các sắc bên ngoài, màu đỏ (red), màu đỏ, có sắc đỏ, có vẻ đỏ, và sau khi vượt qua chúng, vị ấy có tưởng như sau: 'Tôi biết, tôi thấy'... (446) nội không có tưởng sắc, thấy các sắc bên ngoài, màu trắng (white), màu trắng, có sắc trắng, có vẻ trắng, và sau khi vượt qua chúng, vị ấy có tưởng như sau: 'Tôi biết, tôi thấy'..."
+
+447 (54)-454 (61) [^199]
+
+"... (447) có sắc thấy các sắc (possessing form sees forms - có hình sắc thấy các hình sắc) ... [41] (448) nội không có tưởng sắc thấy các sắc bên ngoài (not percipient of forms internally sees forms externally - không có nhận thức về sắc bên trong thấy các hình sắc bên ngoài) ... (449) chỉ chú tâm vào 'đẹp' (is focused only on 'beautiful')... (450) với sự vượt qua hoàn toàn các tưởng về sắc (with the complete surmounting of perceptions of forms), với sự diệt trừ các tưởng về đối ngại (with the passing away of perceptions of sensory impingement), với sự không tác ý đến các tưởng về sai biệt (with non-attention to perceptions of diversity), [quán tưởng] 'không gian là vô biên' ([perceiving] 'space is infinite'), vị ấy nhập và an trú Không Vô Biên Xứ (base of the infinity of space - cõi Không Vô Biên)... (451) với sự vượt qua hoàn toàn Không Vô Biên Xứ, [quán tưởng] 'thức là vô biên' ([perceiving] 'consciousness is infinite'), vị ấy nhập và an trú Thức Vô Biên Xứ (base of the infinity of consciousness - cõi Thức Vô Biên)... (452) với sự vượt qua hoàn toàn Thức Vô Biên Xứ, [quán tưởng] 'không có gì cả' ([perceiving] 'there is nothing'), vị ấy nhập và an trú Vô Sở Hữu Xứ (base of nothingness - cõi Vô Sở Hữu)... (453) với sự vượt qua hoàn toàn Vô Sở Hữu Xứ, vị ấy nhập và an trú Phi Tưởng Phi Phi Tưởng Xứ (base of neither-perception-nor-non-perception - cõi Phi Tưởng Phi Phi Tưởng)... (454) với sự vượt qua hoàn toàn Phi Tưởng Phi Phi Tưởng Xứ, vị ấy nhập và an trú Diệt Thọ Tưởng Định (cessation of perception and feeling - trạng thái diệt trừ cảm thọ và nhận thức)..."
+
+455 (62)-464 (71)
+
+"... (455) tu tập Địa Biến Xứ (earth kasina - thiền biến xứ đất) ... [^200] (456) tu tập Thủy Biến Xứ (water kasina - thiền biến xứ nước)... (457) tu tập Hỏa Biến Xứ (fire kasina - thiền biến xứ lửa)... (458) tu tập Phong Biến Xứ (air kasina - thiền biến xứ gió)... (459) tu tập Xanh Biến Xứ (blue kasina - thiền biến xứ màu xanh)... (460) tu tập Vàng Biến Xứ (yellow kasina - thiền biến xứ màu vàng)... (461) tu tập Đỏ Biến Xứ (red kasina - thiền biến xứ màu đỏ)... (462) tu tập Trắng Biến Xứ (white kasina - thiền biến xứ màu trắng)... (463) tu tập Không Biến Xứ (space kasina - thiền biến xứ không gian)... (464) tu tập Thức Biến Xứ (consciousness kasina - thiền biến xứ thức)..."
+
+465 (72)-474 (81)
+
+"...(465) tu tập tưởng bất tịnh (perception of unattractiveness - nhận thức về sự không hấp dẫn)... (466) tu tập tưởng tử thi (perception of death - nhận thức về cái chết)... (467) tu tập tưởng thực vật bất tịnh (perception of the repulsiveness of food - nhận thức về sự ghê tởm của thức ăn)... (468) tu tập tưởng bất lạc toàn thế gian (perception of non-delight in the entire world - nhận thức về sự không ưa thích toàn bộ thế gian)... (469) tu tập tưởng vô thường (perception of impermanence - nhận thức về sự vô thường)... (470) tu tập tưởng khổ trong vô thường (perception of suffering in the impermanent - nhận thức về sự khổ trong cái vô thường)... (471) tu tập tưởng vô ngã trong cái khổ (perception of non-self in what is suffering - nhận thức về vô ngã trong cái khổ)... (472) tu tập tưởng đoạn trừ (perception of abandoning - nhận thức về sự từ bỏ)... (473) tu tập tưởng ly tham (perception of dispassion - nhận thức về sự ly tham)... (474) tu tập tưởng diệt (perception of cessation - nhận thức về sự chấm dứt)..."
+
+475 (82)-484 (91)
+
+"...(475) tu tập tưởng vô thường (perception of impermanence - nhận thức về sự vô thường)... (476) tu tập tưởng vô ngã (perception of non-self - nhận thức về vô ngã)...[42] (477) tu tập tưởng tử thi (perception of death - nhận thức về cái chết)... (478) tu tập tưởng thực vật bất tịnh (perception of the repulsiveness of food - nhận thức về sự ghê tởm của thức ăn)... (479) tu tập tưởng bất lạc toàn thế gian (perception of non-delight in the entire world - nhận thức về sự không ưa thích toàn bộ thế gian)... (480) tu tập tưởng bộ xương (perception of a skeleton - nhận thức về bộ xương)... (481) tu tập tưởng tử thi bị giòi bọ (perception of a worm-infested corpse - nhận thức về tử thi bị giòi bọ)... (482) tu tập tưởng tử thi bầm tím (perception of a livid corpse - nhận thức về tử thi bầm tím)... (483) tu tập tưởng tử thi nứt nẻ (perception of a fissured corpse - nhận thức về tử thi nứt nẻ)... (484) tu tập tưởng tử thi trương phình (perception of a bloated corpse - nhận thức về tử thi trương phình)... [^201]
+
+485 (92)-494 (101)
+
+"...(485) tu tập niệm Phật (recollection of the Buddha - ghi nhớ về Đức Phật)... (486) tu tập niệm Pháp (recollection of the Dhamma - ghi nhớ về Giáo Pháp)... (487) tu tập niệm Tăng (recollection of the Sangha - ghi nhớ về Tăng Đoàn)... (488) tu tập niệm giới (recollection of virtuous behavior - ghi nhớ về giới hạnh)... (489) tu tập niệm thí (recollection of generosity - ghi nhớ về sự bố thí)... (490) tu tập niệm thiên (recollection of the deities - ghi nhớ về chư thiên)... (491) tu tập niệm hơi thở (mindfulness of breathing - chánh niệm về hơi thở)... (492) tu tập niệm chết (mindfulness of death - chánh niệm về cái chết)... (493) tu tập niệm thân (mindfulness directed to the body - chánh niệm hướng về thân thể)... (494) tu tập niệm tịch tịnh (recollection of peace - ghi nhớ về sự an tịnh)..."
+
+495 (102)-534 (141)
+
+"...(495) tu tập Tín căn (faculty of faith - năng lực niềm tin) có câu hữu với Sơ thiền (first meditative absorption)... (496) tu tập Tấn căn (faculty of energy)... (497) tu tập Niệm căn (faculty of mindfulness)... (498) tu tập Định căn (faculty of concentration)... (499) tu tập Tuệ căn (faculty of wisdom)... (500) tu tập Tín lực (power of faith)... (501) tu tập Tấn lực (power of energy)... (502) tu tập Niệm lực (power of mindfulness)... (503) tu tập Định lực (power of concentration)... (504) tu tập Tuệ lực (power of wisdom) có câu hữu với Sơ thiền..."
+
+"...(505)-(514) tu tập Tín căn... Tuệ lực có câu hữu với Nhị thiền (second meditative absorption)... (515)-(524) tu tập Tín căn... Tuệ lực có câu hữu với Tam thiền (third meditative absorption)... (525)-(534) tu tập Tín căn... Tuệ lực có câu hữu với Tứ thiền (fourth meditative absorption)..."202
+
+535 (142)-574 (181)
+
+"...(535) tu tập Tín căn (faculty of faith) có câu hữu với Từ (lovingkindness - tâm từ)... (536) tu tập Tấn căn (faculty of energy)... (537) tu tập Niệm căn (faculty of mindfulness)... (538) tu tập Định căn (faculty of concentration)... (539) tu tập Tuệ căn (faculty of wisdom)... (540) tu tập Tín lực (power of faith)... (541) tu tập Tấn lực (power of energy)... (542) tu tập Niệm lực (power of mindfulness)... (543) tu tập Định lực (power of concentration)... (544) tu tập Tuệ lực (power of wisdom) có câu hữu với Từ..."
+
+"...(545)-(554) tu tập Tín căn... Tuệ lực có câu hữu với Bi (compassion - tâm bi)... (555)-(564) tu tập Tín căn... Tuệ lực có câu hữu với Hỷ (altruistic joy - tâm hỷ)... (565)-(574) tu tập Tín căn... Tuệ lực có câu hữu với Xả (equanimity - tâm xả) [^203]...[43]... vị ấy được gọi là Tỳ-kheo không thiếu thiền định, thực hành lời dạy của Đức Đạo Sư, vâng theo lời khuyên của Ngài, và không ăn cơm thí của quốc gia một cách uổng phí. Huống hồ những vị tu tập nhiều hơn!"

@@ -6,6 +6,8 @@ import TextCompare from '../components/TextCompare.vue'
 import CompareButton from '../components/CompareButton.vue'
 import NotePopup from '../components/NotePopup.vue'
 import NavFontSizeButton from './NavFontSizeButton.vue'
+import HomePageLayout from './components/HomePageLayout.vue'
+import IndexButton from '../components/IndexButton.vue'
 import './style.css'
 
 export default {
@@ -16,12 +18,15 @@ export default {
     app.component('TextCompare', TextCompare)
     app.component('CompareButton', CompareButton)
     app.component('NotePopup', NotePopup)
+    app.component('HomePageLayout', HomePageLayout)
+    app.component('IndexButton', IndexButton)
   },
   Layout() {
     return h(Theme.Layout, null, {
       'layout-bottom': () => h(NotePopup),
       'nav-bar-content-after': () => h('div', { class: 'nav-controls' }, [
         h(CompareButton),
+        h(IndexButton),
         h(NavFontSizeButton)
       ])
     })

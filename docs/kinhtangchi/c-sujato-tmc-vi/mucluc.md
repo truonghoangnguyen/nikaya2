@@ -1,0 +1,3 @@
+- [I. Phẩm Sắc](/kinhtangchi/c-sujato-tmc-vi/01-001-pham-sac)
+- [II. Phẩm Ðoạn Triền Cái](/kinhtangchi/c-sujato-tmc-vi/01-002-pham-doan-trien-cai)
+- [III. Phẩm Khó Sử Dụng](/kinhtangchi/c-sujato-tmc-vi/01-003-pham-kho-su-dung)
