@@ -47,7 +47,7 @@ export default defineConfig({
         name: 'copy-markdown-files',
         // This hook runs at the end of the build process
         closeBundle() {
-          const sourceDirs = ['./docs/kinhtruongbo/', './docs/kinhtrungbo/']; // Directories with your MD files
+          const sourceDirs = ['./docs/kinhtruongbo/', './docs/kinhtrungbo/', './docs/kinhtangchi/']; // Directories with your MD files
           //@ts-ignore
           const outputDir = path.resolve(__dirname, 'dist/');
 
@@ -103,46 +103,6 @@ export default defineConfig({
  */
   transformPageData(pageData) {
     // --- Configuration ---
-
-    // url /<book>/<author>/<chapter(opt)>/file.md, eg: /kinhtruongbo/thichminhchau/001-mot-phap.md
-    // step 2/4: add supported book identifiers (derived from the first part of the path)
-    // const SUPPORTED_BOOKS = ['kinhtruongbo', 'kinhtrungbo', 'kinhtangchi'];
-
-    // List of supported author/translator identifiers found in paths.
-    // IMPORTANT: List paths from most specific to least specific to ensure correct matching.
-    // e.g., 'nanamoli-bodhi-en/intro' must come before 'nanamoli-bodhi-en'.
-    // step 3/4: add author/*chapter url
-    // const SUPPORTED_AUTHORS = [
-    //   'thichminhchau',
-    //   'nanamoli-bodhi-vi/intro',
-    //   'nanamoli-bodhi-vi',
-    //   'nanamoli-bodhi-en/intro',
-    //   'nanamoli-bodhi-en',
-    //   'bhikkhu-sujato-en',
-    //   'bhikkhu-sujato-vi',
-    // ];
-
-    // step 4/4: Mapping of book identifiers to their respective author navigation data.
-    // Assumes `mn_thichminhchau`, `dn_thichminhchau`, etc., are imported arrays
-    // of objects like { text: 'Chapter Title', link: '/path/to/chapter.md' }
-    // const BOOK_AUTHOR_NAV_DATA = {
-    //   kinhtrungbo: {
-    //     'thichminhchau': mn_thichminhchau,
-    //     'nanamoli-bodhi-en': nanamoli_bodhi_en,
-    //     'nanamoli-bodhi-en/intro': nanamoli_bodhi_en_intro,
-    //     'nanamoli-bodhi-vi': nanamoli_bodhi_vi,
-    //     'nanamoli-bodhi-vi/intro': nanamoli_bodhi_vi_intro,
-    //   },
-    //   kinhtruongbo: {
-    //     'thichminhchau': dn_thichminhchau,
-    //     // Add other authors for kinhtruongbo here if needed
-    //   },
-    //   kinhtangchi: {
-    //     'thichminhchau': kinhtangchi_thichminhchau,
-    //   //  'bhikkhu-sujato-en': kinhtangchi_sujato_en,
-    //   //  'bhikkhu-sujato-vi': kinhtangchi_sujato_vi,
-    //   },
-    // };
 
     const BOOK_AUTHOR_NAV_DATA2 = {
         'kinhtrungbo/thichminhchau': mn_thichminhchau,
