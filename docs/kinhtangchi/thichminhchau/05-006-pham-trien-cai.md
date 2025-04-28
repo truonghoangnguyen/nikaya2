@@ -2,7 +2,8 @@
 
 **(I) (51) Ngăn Chặn**
 
-1. Như vậy tôi nghe:
+<!--pg-->
+1\. Như vậy tôi nghe:
 
 Một thời Thế Tôn trú ở Sàvatthi, tại Jetavana, khu vườn của ông Anàthapindika. Tại đấy,
 Thế Tôn gọi các Tỷ-kheo:
@@ -13,10 +14,12 @@ Thế Tôn gọi các Tỷ-kheo:
 
 Các vị Tỷ-kheo ấy vâng đáp Thế Tôn. Thế Tôn nói như sau:
 
-2. - Có năm chướng ngại, triền cái này, này các Tỷ-kheo, bao phủ tâm, làm yếu ớt trí tuệ.
+<!--pg-->
+2\. - Có năm chướng ngại, triền cái này, này các Tỷ-kheo, bao phủ tâm, làm yếu ớt trí tuệ.
 Thế nào là năm?
 
-3. Dục tham, này các Tỷ-kheo, là chướng ngại triền cái boa phủ tâm, làm yếu ớt trí tuệ. Sân,
+<!--pg-->
+3\. Dục tham, này các Tỷ-kheo, là chướng ngại triền cái boa phủ tâm, làm yếu ớt trí tuệ. Sân,
 này các Tỷ-kheo, là chướng ngại triền cái bao phủ tâm làm yếu ớt trí tuệ. Hôn trầm thụy
 miên, này các Tỷ-kheo, là chướng ngại, triền cái bao phủ tâm, làm yếu ớt trí tuệ. Trạo hối,
 này các Tỷ-kheo, là chướng ngại, triền cái bao phủ tâm, làm yếu ớt trí tuệ. Nghi, này các
@@ -25,7 +28,8 @@ Tỷ-kheo, là chướng ngại, triền cái bao phủ tâm, làm yếu ớt tr
 Những pháp này, này các Tỷ-kheo, là năm chướng ngại, triền cái bao phủ tâm, làm yếu ớt
 trí tuệ.
 
-4. Này các Tỷ-kheo, Tỷ-kheo ấy không đoạn tận năm chướng ngại triền cái này bao phủ
+<!--pg-->
+4\. Này các Tỷ-kheo, Tỷ-kheo ấy không đoạn tận năm chướng ngại triền cái này bao phủ
 tâm, làm yếu ớt trí tuệ. Không có sức mạnh, và trí tuệ yếu kém, sẽ biết lợi ích của mình, hay
 sẽ biết lợi ích của người, hay có thể biết lợi ích của cả hai, hay sẽ chứng ngộ được pháp
 Thượng nhân, tri kiến thù thắng xứng đáng bậc Thánh; sự kiện này không xảy ra.
@@ -40,7 +44,8 @@ phủ tâm, làm yếu ớt trí tuệ. Không có sức mạnh và trí tuệ y
 mình, của cả hai, sẽ chứng ngộ được pháp thượng nhân, trí kiến thù thắng, xứng đáng bậc
 Thánh; sự kiện này không xảy ra.
 
-5. Này các Tỷ-kheo, vị Tỷ-kheo ấy, sau khi đoạn tận năm chướng ngại triền cái này bao phủ
+<!--pg-->
+5\. Này các Tỷ-kheo, vị Tỷ-kheo ấy, sau khi đoạn tận năm chướng ngại triền cái này bao phủ
 tâm, làm yếu ớt trí tuệ. Có sức mạnh và có trí tuệ, sẽ biết được lợi ích của mình, hay sẽ biết
 lợi ích của người, hay sẽ biết được lợi ích cả hai, sẽ chứng ngộ được pháp thượng nhân, tri
 kiến thù thắng, xứng đáng bậc Thánh; sự kiện này có xảy ra.
@@ -56,11 +61,13 @@ xứng đáng bậc Thánh; sự kiện này có xảy ra.
 
 **(II) (52) Ðống**
 
-1. - Nói đến một đống bất thiện, này các Tỷ-kheo, nói một cách chơn chánh là nói đến năm
+<!--pg-->
+1\. - Nói đến một đống bất thiện, này các Tỷ-kheo, nói một cách chơn chánh là nói đến năm
 triền cái. Thật vậy, này các Tỷ-kheo, toàn bộ đống triền cái. Thật vậy, này các Tỷ-kheo,
 toàn bộ đống bất thiện tức là năm triền cái. Thế nào là năm?
 
-2. Dục tham triền cái, sân triền cái, hôn trầm thụy miên triền cái, trạo hối triền cái, nghi
+<!--pg-->
+2\. Dục tham triền cái, sân triền cái, hôn trầm thụy miên triền cái, trạo hối triền cái, nghi
 triền cái.
 
 Nói đến một đống bất thiện, này các Tỷ-kheo, nói một cách chơn chánh là nói đến năm triền
@@ -69,9 +76,11 @@ cái.
 
 **(III) (53) Các Chi Phần**
 
-1. - Này các Tỷ-kheo, có năm chi phần tinh cần này. Thế nào là năm?
+<!--pg-->
+1\. - Này các Tỷ-kheo, có năm chi phần tinh cần này. Thế nào là năm?
 
-2. Ở đây, này các Tỷ-kheo, vị Tỷ-kheo có lòng tin, tin tưởng ở sự giác ngộ của Như Lai:
+<!--pg-->
+2\. Ở đây, này các Tỷ-kheo, vị Tỷ-kheo có lòng tin, tin tưởng ở sự giác ngộ của Như Lai:
 “Ðây là Thế Tôn, bậc A-la-hán, Chánh Ðẳng Giác, Minh Hạnh Túc. Thiện Thệ, Thế Gian
 Giải, Vô Thượng Sĩ, điều Ngự Trượng Phu, Phật, Thế Tôn. Ngài ít bệnh, ít não, sự tiêu hóa
 được điều hòa, không lạnh quá, không nóng quá, trung bình hợp với tinh tấn. Ngài không
@@ -87,42 +96,53 @@ Các pháp này, này các Tỷ-kheo, là năm chi phần tinh cần.
 
 1.- Có năm phi thần để tinh cần, này các Tỷ-kheo. Thế nào là năm?
 
-2. Ở đây, này các Tỷ-kheo, Tỷ-kheo già yếu, bị già chinh phục. Này các Tỷ-kheo, đây là phi
+<!--pg-->
+2\. Ở đây, này các Tỷ-kheo, Tỷ-kheo già yếu, bị già chinh phục. Này các Tỷ-kheo, đây là phi
 thời thứ nhất để tinh cần.
 
-3. Lại nữa, này các Tỷ-kheo, Tỷ-kheo bệnh hoạn, bị bệnh hoạn chinh phục. Này các Tỷkheo, đây là phi thời thứ hai để tinh cần.
+<!--pg-->
+3\. Lại nữa, này các Tỷ-kheo, Tỷ-kheo bệnh hoạn, bị bệnh hoạn chinh phục. Này các Tỷkheo, đây là phi thời thứ hai để tinh cần.
 
-4. Lại nữa, này các Tỷ-kheo, khi có nạn đói, mất mùa, đồ ăn khất thực khó được, không dễ
+<!--pg-->
+4\. Lại nữa, này các Tỷ-kheo, khi có nạn đói, mất mùa, đồ ăn khất thực khó được, không dễ
 gì để nuôi sống bằng khất thực nỗ lực. Này các Tỷ-kheo, đây là thời gian phi thời thứ ba để
 tinh cần.
-5. Lại nữa, này các Tỷ-kheo, có sự sợ hãi về giặc cướp rừng, dân chúng trong nước leo lên
+<!--pg-->
+5\. Lại nữa, này các Tỷ-kheo, có sự sợ hãi về giặc cướp rừng, dân chúng trong nước leo lên
 xe đi trốn. Này các Tỷ-kheo, đây là phi thời thứ tư để tinh cần.
 
-6. Lại nữa, này các Tỷ-kheo, chúng Tăng bị chia rẽ. Khi chúng Tăng bị chia rẽ, này các Tỷkheo, có sự mắng nhiếc lẫn nhau, có sự đấu khẩu lẫn nhau, có sự kết tội lẫn nhau, có sự tẩn
+<!--pg-->
+6\. Lại nữa, này các Tỷ-kheo, chúng Tăng bị chia rẽ. Khi chúng Tăng bị chia rẽ, này các Tỷkheo, có sự mắng nhiếc lẫn nhau, có sự đấu khẩu lẫn nhau, có sự kết tội lẫn nhau, có sự tẩn
 xuất lẫn nhau. Ai không có tịnh tín, không tìm được tịnh tín, và những ai có tịnh tín có thể
 đổi khác. Này các Tỷ-kheo, đây là phi thời thứ năm để tinh cần.
 
 Các pháp này, này các Tỷ-kheo, là năm phi thời để tinh cần.
 
-7. Này các Tỷ-kheo, có năm đúng thời này để tinh cần. Thế nào là năm?
+<!--pg-->
+7\. Này các Tỷ-kheo, có năm đúng thời này để tinh cần. Thế nào là năm?
 
-8. Ở đây, này các Tỷ-kheo, Tỷ-kheo còn trẻ, niên thiếu, còn thanh niên, tóc đen nhánh,
+<!--pg-->
+8\. Ở đây, này các Tỷ-kheo, Tỷ-kheo còn trẻ, niên thiếu, còn thanh niên, tóc đen nhánh,
 trong tuổi thanh xuân, trong sơ kỳ tuổi đời. Này các Tỷ-kheo, đây là đúng thời thứ nhất để
 tinh cần.
 
-9. Lại nữa, này các Tỷ-kheo, Tỷ-kheo ít bệnh, ít não, sự tiêu hóa được điều hòa, không quá
+<!--pg-->
+9\. Lại nữa, này các Tỷ-kheo, Tỷ-kheo ít bệnh, ít não, sự tiêu hóa được điều hòa, không quá
 lạnh, không quá nóng, trung bình, hợp với tinh tấn. Này các Tỷ-kheo, đây là đúng thời thứ
 hai để tinh cần.
 
-10. Lại nữa, này các Tỷ-kheo, khi ăn uống được đấy đủ, được mùa, đồ ăn khất thực kiếm
+<!--pg-->
+10\. Lại nữa, này các Tỷ-kheo, khi ăn uống được đấy đủ, được mùa, đồ ăn khất thực kiếm
 được thật dễ dàng để nuôi sống bằng khất thực nỗ lực. Này các Tỷ-kheo, đây là đúng thời
 thứ ba để tinh cần.
 
-11. Lại nữa, này các Tỷ kheo, các Thầy sống với nhau thuận hoà, thân hữu, không cãi lộn
+<!--pg-->
+11\. Lại nữa, này các Tỷ kheo, các Thầy sống với nhau thuận hoà, thân hữu, không cãi lộn
 nhau, hoà hợp như nước với sữa, nhìn nhau với cặp mắt ái kính. Này các Tỷ kheo, đây là
 đúng thời thứ tư để tinh cần.
 
-12. Lại nữa, này các Tỷ-kheo, chúng Tăng hoà hợp, cùng nhau hòa hợp, không tranh luận
+<!--pg-->
+12\. Lại nữa, này các Tỷ-kheo, chúng Tăng hoà hợp, cùng nhau hòa hợp, không tranh luận
 nhau, sống thoải mái cùng chung một lời dạy. Này các Tỷ-kheo, giữa chúng Tăng hòa hợp,
 không có mắng nhiếc lẫn nhau, không có đấu khẩu lẫn nhau, không có kết tội lẫn nhau,
 không có sự tẩn xuất lẫn nhau. Ở đây, những ai không có tịnh tín, tìm được tịnh tín, những
@@ -133,14 +153,16 @@ Những pháp này, này các Tỷ-kheo, là năm đúng thời để tinh cần
 
 **(V) (55) Mẹ Và Con**
 
-1. Một thời, Thế Tôn trú ở Sàvatthi tại Jetavana, khu vườn ông Anàthapindika. Lúc bấy giờ,
+<!--pg-->
+1\. Một thời, Thế Tôn trú ở Sàvatthi tại Jetavana, khu vườn ông Anàthapindika. Lúc bấy giờ,
 tại Sàvatthi, cả hai mẹ và con đều an cư vào mùa mưa, nhân danh Tỷ-kheo và Tỷ-kheo-ni,
 họ thường xuyên muốn thấy mặt nhau. Mẹ thường xuyên muốn thấy mặt con, và con cũng
 thường xuyên muốn thấy mặt mẹ. Vì họ luôn luôn thấy nhau, nên có sự liên hệ. Do có sự
 liên hệ, nên có sự thân mật. Do có sự thân mật, nên có sự sa ngã. Với tâm sa ngã, buông bỏ
 sự học tập, làm lộ liễu sự yếu đuối, họ rơi vào thông dâm với nhau.
 
-2. Rồi một số đông Tỷ-kheo đi đến Thế Tôn, sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống
+<!--pg-->
+2\. Rồi một số đông Tỷ-kheo đi đến Thế Tôn, sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống
 một bên. Ngồi xuống một bên, các Tỷ-kheo ấy bạch Thế Tôn:
 
 − Ở đây, bạch Thế Tôn, tại Sàvatthi, cả hai mẹ con cùng an cư vào mùa mưa, nhân danh Tỷkheo và Tỷ-kheo-ni, họ thường xuyên muốn thấy mặt nhau, mẹ thường xuyên muốn thấy
@@ -200,14 +222,16 @@ _Ðạt được lậu hoặc tận._
 
 **(VI) (56) Thân Giáo Sư**
 
-1. Rồi một Tỷ-kheo đi đến vị giáo thọ của mình, sau khi đến, thưa với vị giáo thọ của mình
+<!--pg-->
+1\. Rồi một Tỷ-kheo đi đến vị giáo thọ của mình, sau khi đến, thưa với vị giáo thọ của mình
 như sau:
 
 − Bạch Thượng tọa, nay thân con cảm thấy như bị say ngọt, con không thấy rõ phương
 hướng, pháp không được con nhớ đến. Hôn trầm thụy miên chinh phục tâm con và an trú.
 Không có hoan hỷ, con sống Phạm hạnh. Con có những nghi ngờ đối với Chánh pháp.
 
-2. Rồi Tỷ-kheo ấy đem theo một vị Tỷ-kheo cộng trú, đi đến Thế Tôn, sau khi đến, đảnh lễ
+<!--pg-->
+2\. Rồi Tỷ-kheo ấy đem theo một vị Tỷ-kheo cộng trú, đi đến Thế Tôn, sau khi đến, đảnh lễ
 Thế Tôn rồi ngồi xuống một bên. Ngồi xuống một bên, Tỷ-kheo ấy bạch Thế Tôn:
 
 − Bạch Thế Tôn, Tỷ-kheo này nói như sau: “Bạch Thế Tôn, thân con cảm thấy như bị say
@@ -226,7 +250,8 @@ nhìn các Thiện pháp, trước đêm và sau đêm ta sẽ sống chuyên ch
 
 Như vậy, này các Tỷ-kheo, các Thầy cần phải học tập.
 
-4. Rồi Tỷ-kheo ấy được Thế Tôn giáo giới với lời giáo giới này, từ chỗ ngồi đứng dậy, đảnh
+<!--pg-->
+4\. Rồi Tỷ-kheo ấy được Thế Tôn giáo giới với lời giáo giới này, từ chỗ ngồi đứng dậy, đảnh
 lễ Thế Tôn, thân phía hữu hướng về Ngài rồi ra đi. Rồi Tỷ-kheo ấy sống một mình, an tịnh,
 không phóng dật, nhiệt tâm, tin cần, không bao lâu chứng được mục đích mà các thiện nam
 tử chơn chánh xuất gia, từ bỏ gia đình, sống không gia đình, chính là vô thượng cứu cánh
@@ -241,7 +266,8 @@ vị giáo thọ sư của mình:
 phương hướng. Pháp được con nhớ rõ. Với tâm hoan hỷ, con sống Phạm hạnh, Con không
 còn nghi nhờ đối với các thiện pháp.
 
-6. Rồi Tỷ-kheo ấy đem theo một Tỷ-kheo cộng trú; đi đến Thế Tôn, sau khi đến, đảnh lễ
+<!--pg-->
+6\. Rồi Tỷ-kheo ấy đem theo một Tỷ-kheo cộng trú; đi đến Thế Tôn, sau khi đến, đảnh lễ
 Thế Tôn rồi ngồi xuống một bên. Ngồi xuống một bên, Tỷ-kheo ấy bạch Thế Tôn:
 -Bạch Thế Tôn, vị Tỷ-kheo này nói như sau: “Bạch Thế tôn, nay thân con không cảm thấy
 như bị say ngọt, con thấy rõ các phương hướng, pháp được con nhớ rõ. Với tâm hoan hỷ,
@@ -263,7 +289,8 @@ Như vậy, này các Tỷ-kheo, các Thầy cần phải học tập.
 1.- Có năm sự kiện này, này các Tỷ-kheo, cần phải thường xuyên quán sát bởi nữ nhân hay
 nam nhân, bởi tại gia hay xuất gia. Thế nào là năm?
 
-2. “Ta phải bị già, không thoát khỏi già” là sự kiện cần phải thường xuyên quán sát bởi nữ
+<!--pg-->
+2\. “Ta phải bị già, không thoát khỏi già” là sự kiện cần phải thường xuyên quán sát bởi nữ
 nhân hay nam nhân, bởi tại gia hay xuất gia. “Ta phải bị bệnh, không thoát khỏi bệnh” là sự
 kiện cần phải thường xuyên quán sát bởi nữ nhân hay nam nhân, bởi tại gia hay xuất gia.
 “Ta phải bị chết, không thoát khỏi chết” là sự kiện cần phải thường xuyên quán sát bởi nữ
@@ -276,7 +303,8 @@ nhân, bởi tại gia hay xuất gia. Và do duyên lợi ích như thế nào,
 bị già, không thoát khỏi già”, là sự kiện cần phải thường xuyên quán sát bởi nữ nhân hay
 nam nhân, bởi tại gia hay xuất gia.
 
-3. Có những loài hữu tình, này các Tỷ-kheo, đang còn trẻ, kiêu mãn trong tuổi trẻ, say đắm
+<!--pg-->
+3\. Có những loài hữu tình, này các Tỷ-kheo, đang còn trẻ, kiêu mãn trong tuổi trẻ, say đắm
 trong kiêu mạn ấy, thân làm ác, miệng nói ác, ý nghĩ ác. Do vị ấy thường xuyên quán sát sự
 kiện này, sự kiêu mạn tuổi trẻ trong tuổi trẻ được hoàn toàn đoạn tận hay được giảm thiểu.
 
@@ -285,7 +313,8 @@ thường xuyên quán sát như vậy bởi nữ nhân hay nam nhân, bởi t�
 duyên lợi ích như thế nào, này các Tỷ-kheo, “Ta phải bị bệnh, ta không thoát khỏi bệnh” là
 sự kiện cần phải thường xuyên quán sát bởi nữ nhân hay nam nhân, bởi tại gia hay xuất gia?
 
-4. Có những loài hữu tình khỏe mạnh, này các Tỷ-kheo, kiêu mạn trong khỏe mạnh. Do say
+<!--pg-->
+4\. Có những loài hữu tình khỏe mạnh, này các Tỷ-kheo, kiêu mạn trong khỏe mạnh. Do say
 đắm trong kiêu mạn ấy, thân làm ác, miệng nói ác, ý nghĩ ác. Do vị ấy thường xuyên quán
 sát sự kiện này, sự kiêu mạn khỏe mạnh trong khỏe mạnh được hoàn toàn đoạn tận hay
 được giảm thiểu.
@@ -295,7 +324,8 @@ thường xuyên quán sát như vậy bởi nữ nhân hay nam nhân, bởi t�
 duyên lợi ích như thế nào, này các Tỷ-kheo, “Ta phải bị chết, ta không thoát khỏi chết”, là
 sự kiện cần phải thường xuyên quán sát bởi nữ nhân hay nam nhân, bởi tại gia hay xuất gia?
 
-5. Có những lời hữu tình đang sống, này các Tỷ-kheo, kiêu mạn trong sự sống. Do say đắm
+<!--pg-->
+5\. Có những lời hữu tình đang sống, này các Tỷ-kheo, kiêu mạn trong sự sống. Do say đắm
 trong kiêu mạn ấy, thân làm ác, miệng nói ác, ý nghĩ ác. Do vị ấy thường xuyên quán sát sự
 kiện này, sự kiêu mạn sự sống trong sự sống được hoàn toàn đoạn tận hay được giảm thiểu.
 
@@ -305,7 +335,8 @@ duyên lợi ích như thế nào, này các Tỷ-kheo, “Tất cả pháp kh�
 đổi khác, sẽ phải biến diệt” là sự kiện cần phải thường xuyên quán sát bởi nữ nhân hay nam
 nhân, bởi tại gia hay xuất gia?
 
-6. Có những loài hữu tình, này các Tỷ-kheo, có lòng tham dục đối với các vật khả ái. Do
+<!--pg-->
+6\. Có những loài hữu tình, này các Tỷ-kheo, có lòng tham dục đối với các vật khả ái. Do
 say đắm với lòng tham dục ấy, thân làm ác, miệng nói ác, ý nghĩ ác Do vị ấy thường xuyên
 quán sát sự kiện ấy, nên tham dục đối với các vật khả ái được đoạn tận hoàn toàn hay được
 giảm thiểu.
@@ -317,14 +348,16 @@ của nghiệp, là thừa tự của nghiệp, nghiệp là thai tạng, nghi�
 điểm tựa. Phàm nghiệp nào ta sẽ làm, thiện hay ác, ta sẽ thừa tự nghiệp ấy” là sự kiện cần
 phải thường xuyên quán sát bởi nữ nhân hay nam nhân, bởi tại gia hay xuất gia?
 
-7. Có những loài hữu tình, này các Tỷ-kheo, thân làm ác, miệng nói ác, ý nghĩ ác. Do vị ấy
+<!--pg-->
+7\. Có những loài hữu tình, này các Tỷ-kheo, thân làm ác, miệng nói ác, ý nghĩ ác. Do vị ấy
 thường xuyên quán sát như vậy, ác hạnh được hoàn toàn đoạn tận hay được giảm thiểu. Do
 duyên lợi ích này, này các Tỷ-kheo, “Ta là chủ nhân của nghiệp, là thừa tự của nghiệp,
 nghiệp là thai tạng, nghiệp là quyến thuộc, nghiệp là điểm tựa. Phàm nghiệp nào ta sẽ làm,
 thiện hay ác, ta sẽ thừa tự nghiệp ấy” là sự kiện cần phải thường xuyên quán sát bởi nữ nhân
 hay nam nhân, bởi tại gia hay xuất gia.
 
-8. Nếu vị Thánh đệ tử, này các Tỷ-kheo, suy tư như sau: “Không phải chỉ một mình ta già,
+<!--pg-->
+8\. Nếu vị Thánh đệ tử, này các Tỷ-kheo, suy tư như sau: “Không phải chỉ một mình ta già,
 không thoát khỏi già, nhưng phàm có những loài hữu tình nào có đến, có đi, có diệt, có
 sanh, tất cả loài hữu tình ấy phải bị già, không thoát khỏi già”. Do vị ấy thường xuyên quán
 sát sự kiện ấy, con đường được sanh khởi. Vị ấy sử dụng con đường ấy, tu tập, làm cho
@@ -377,7 +410,8 @@ _Chứng cứu cánh Phạm hạnh._
 
 **(VIII) (58) Thanh Niên Licchavi**
 
-1. Một thời, Thế Tôn trú ở Vesàli, tại Ðại Lâm, tại giảng đường có nóc nhọn. Rồi Thế Tôn
+<!--pg-->
+1\. Một thời, Thế Tôn trú ở Vesàli, tại Ðại Lâm, tại giảng đường có nóc nhọn. Rồi Thế Tôn
 vào buổi sáng đắp y, cầm y bát đi vào Vesàli để khất thực. Sau khi khất thực ở Vesàli xong,
 sau bữa ăn, trên con đường khất thực trở về, Ngài đi sâu vào Ðại lâm, và ngồi xuống một
 gốc cây để nghỉ ban ngày.
@@ -405,7 +439,8 @@ tướng trong quân đội hay là vị thôn trưởng ở làng, hay là vị
 những vị có quyền thế trong gia tộc, thời được chờ đợi là sự tăng trưởng, không phải là
 giảm thiểu. Thế nào là năm?
 
-2. Ở đây, này Mahànàma, thiện nam tử, với những tài sản thâu hoạch được do nỗ lực tinh
+<!--pg-->
+2\. Ở đây, này Mahànàma, thiện nam tử, với những tài sản thâu hoạch được do nỗ lực tinh
 tấn, tích lũy được do sức mạnh cách tay, do mồ hôi đổ ra đúng pháp, thâu hoạch đúng pháp,
 cung kính, tôn trọng, đảnh lễ, cúng dường cha mẹ. Cha mẹ được người ấy cung kính, tôn
 trọng, đảnh lễ, cúng dường với thiện ý, khởi lên lòng thương mến người ấy: “Mong rằng
@@ -413,7 +448,8 @@ trọng, đảnh lễ, cúng dường với thiện ý, khởi lên lòng thươ
 một thiện nam tử được cha mẹ thương tưởng, chờ đợi là sự tăng trưởng, không phải là giảm
 tiếu.
 
-3. Lại nữa, này Mahànàma, thiện nam tử với những tài sản thâu hoạch được do nỗ lực tinh
+<!--pg-->
+3\. Lại nữa, này Mahànàma, thiện nam tử với những tài sản thâu hoạch được do nỗ lực tinh
 tấn... đúng pháp, thâu hoạch đúng pháp, cung kính, tôn trọng, đảnh lễ, cúng dường vợ con,
 người phục vụ, người làm công và vợ con người phục vụ người làm công. Vợ con, người
 phục vụ, người làm công và vợ con người phục vụ, người làm công và được người ấy cung
@@ -422,18 +458,21 @@ kính, tôn trọng đảnh lễ, cúng dường với thiện ý, khởi lên l
 Mahànàma, một thiện nam tử được vợ con, người phục vụ, người làm công thương tưởng,
 chờ đợi là sự tăng trưởng không phải là giảm thiểu.
 
-4. Lại nữa, này Mahànama, vị thiện nam tử với những tài sản thâu hoạch được do nỗ lực
+<!--pg-->
+4\. Lại nữa, này Mahànama, vị thiện nam tử với những tài sản thâu hoạch được do nỗ lực
 tinh tấn, đúng pháp, thâu hoạch đúng pháp, cung kính, tôn trọng, đảng lễ, cúng dường các
 người làm ruộng các chức sắc ở biên cương. Những người làm ruộng các chức sắc ở biên
 cương được người ấy cung kính, tôn trọng, đảnh lễ, cúng dường... chờ đợi là sự tăng trưởng,
 không có giảm thiểu.
 
-5. Lại nữa, này Mahànama, thiện nam tử với những tải sản thâu hoạch được do nỗ lực tinh
+<!--pg-->
+5\. Lại nữa, này Mahànama, thiện nam tử với những tải sản thâu hoạch được do nỗ lực tinh
 tấn... đúng pháp, thâu hoạch đúng pháp, cung kính, tôn trọng, đảnh lễ, cúng dường chư
 thiên nhận lãnh các vật cúng tế. Chư Thiên nhận lãnh các vật cúng tế được người ấy cung
 kính, tôn trọng, đảnh lễ, cúng dường... chờ đợi là sự tăng trưởng, không có giảm thiểu.
 
-6. Lại nữa, này Mahànama, thiện nam tử với những tài sản thâu hoạch được do nỗ lực tinh
+<!--pg-->
+6\. Lại nữa, này Mahànama, thiện nam tử với những tài sản thâu hoạch được do nỗ lực tinh
 tấn, tích lũy được do sức mạnh cánh tay, do mồ hôi đổ ra đúng pháp, thâu hoạch đúng pháp,
 tôn trọng, cung kính, đảnh lễ, cúng dường các Sa-môn, Bà-la-môn. Các Sa-môn, Bà-la-môn
 được người ấy cung kính, tôn trọng, đảnh lễ, cúng dường với thiện ý, khởi lên trong lòng
@@ -467,7 +506,8 @@ _Trong cảnh giới chư Thiên._
 
 **(IX) (59) Khó Tìm Ðược (1)**
 
-1. - Này các Tỷ-kheo, thật khó tìm được một người xuất gia lớn tuổi lại thành tựu năm pháp
+<!--pg-->
+1\. - Này các Tỷ-kheo, thật khó tìm được một người xuất gia lớn tuổi lại thành tựu năm pháp
 này. Thế nào là năm?
 
 2, Thật khó tìm được, này các Tỷ-kheo, một người xuất gia tuổi lại tế nhị; thật khó tìm được
@@ -479,10 +519,12 @@ này.
 
 **(X) (60) Khó Tìm Ðược (2)**
 
-1. Này các Tỷ-kheo, thật khó tìm được một người xuất gia lớn tuổi lại thành tựu năm pháp
+<!--pg-->
+1\. Này các Tỷ-kheo, thật khó tìm được một người xuất gia lớn tuổi lại thành tựu năm pháp
 này. Thế nào là năm?
 
-2. Thật khó tìm được, này các tỷ-kheo, một người xuất gia lớn tuổi lại khéo nói; thật khó
+<!--pg-->
+2\. Thật khó tìm được, này các tỷ-kheo, một người xuất gia lớn tuổi lại khéo nói; thật khó
 tìm được một người có khả năng nắm giữ cái gì khéo năm giữ; thật khó tìm được một người
 có cử chỉ tốt đẹp; thật khó tìm được một người thuyết pháp; thật khó tìm được một người trì
 luật.

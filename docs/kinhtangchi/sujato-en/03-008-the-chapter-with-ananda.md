@@ -1,9 +1,9 @@
-## The Chapter with Ānanda
+# The Chapter with Ānanda
 
 ### N 3.71 With Channa  *Channasutta*
 
-At one time the Buddha was staying near [Sāvatthī]{lang="sa"} in Jeta's
-Grove, [Anāthapiṇḍika]{lang="sa"}'s monastery. Then the wanderer Channa
+At one time the Buddha was staying near Sāvatthī in Jeta's
+Grove, Anāthapiṇḍika's monastery. Then the wanderer Channa
 went up to Venerable Ānanda and exchanged greetings with him. When the
 greetings and polite conversation were over, he sat down to one side and
 said to Ānanda:
@@ -63,11 +63,12 @@ practice for giving up that greed, hate, and delusion."
 "This is a fine path, a fine practice, for giving up that greed, hate,
 and delusion. Just this much is enough to be diligent."
 
+<!--pg-->
 ### N 3.72 A Disciple of the Ājīvakas  *Ājīvakasutta*
 
-At one time Venerable Ānanda was staying near [Kosambī]{lang="sa"}, in
+At one time Venerable Ānanda was staying near Kosambī, in
 Ghosita's Monastery. Then a householder who was a disciple of the
-[Ājīvaka]{lang="sa"} ascetics went up to Venerable Ānanda, bowed, sat
+Ājīvaka ascetics went up to Venerable Ānanda, bowed, sat
 down to one side, and said to Ānanda:
 
 "Honorable Ānanda, whose teaching is well explained? Who in the world is
@@ -115,15 +116,16 @@ revealing the hidden, or pointing out the path to the lost, or lighting
 a lamp in the dark so people with clear eyes can see what's there,
 Master Ānanda has made the teaching clear in many ways. I go for refuge
 to the Buddha, to the teaching, and to the mendicant
-[Saṅgha]{lang="sa"}. From this day forth, may Master Ānanda remember me
+Saṅgha. From this day forth, may Master Ānanda remember me
 as a lay follower who has gone for refuge for life."
 
+<!--pg-->
 ### N 3.73 With Mahānāma the Sakyan  *Mahānāmasakkasutta*
 
-[So I have heard.]{.smallcaps} At one time the Buddha was staying in the
+So I have heard.At one time the Buddha was staying in the
 land of the Sakyans, near Kapilavatthu in the Banyan Tree Monastery. Now
 at that time the Buddha had recently recovered from an illness. Then
-[Mahānāma]{lang="sa"} the Sakyan went up to the Buddha, bowed, sat down
+Mahānāma the Sakyan went up to the Buddha, bowed, sat down
 to one side, and said to him:
 
 "For a long time, sir, I have understood your teaching like this:
@@ -132,12 +134,12 @@ But, sir, does immersion come first, then knowledge? Or does knowledge
 come first, then immersion?"
 
 Then Venerable Ānanda thought, "The Buddha has recently recovered from
-an illness, and this [Mahānāma]{lang="sa"} asks him a question that's
+an illness, and this Mahānāma asks him a question that's
 too deep. Why don't I take him off to one side and teach him the
 Dhamma?"
 
-Then Ānanda took [Mahānāma]{lang="sa"} by the arm, led him off to one
-side, and said to him, "[Mahānāma]{lang="sa"}, the Buddha has spoken of
+Then Ānanda took Mahānāma by the arm, led him off to one
+side, and said to him, "Mahānāma, the Buddha has spoken of
 the ethics, immersion, and wisdom of a trainee; and the ethics,
 immersion, and wisdom of an adept. What is the ethics of a trainee? It's
 when a mendicant is ethical, restrained in the monastic code, conducting
@@ -164,14 +166,15 @@ insight due to the ending of defilements.
 In this way the Buddha has spoken of the ethics, immersion, and wisdom
 of both a trainee and an adept."
 
+<!--pg-->
 ### N 3.74 Jains  *Nigaṇṭhasutta*
 
-At one time Venerable Ānanda was staying near [Vesālī]{lang="sa"}, at
+At one time Venerable Ānanda was staying near Vesālī, at
 the Great Wood, in the hall with the peaked roof. Then the Licchavis
-Abhaya and [Paṇḍitakumāra]{lang="sa"} went up to Venerable Ānanda,
+Abhaya and Paṇḍitakumāra went up to Venerable Ānanda,
 bowed, sat down to one side, and said to him:
 
-"Sir, the Jain ascetic of the [Ñātika]{lang="sa"} clan claims to be
+"Sir, the Jain ascetic of the Ñātika clan claims to be
 all-knowing and all-seeing, to know and see everything without
 exception, thus: 'Knowledge and vision are constantly and continually
 present to me, while walking, standing, sleeping, and waking.' He
@@ -219,13 +222,14 @@ themselves.
 These are the three kinds of purification by wearing away that have been
 rightly explained by the Buddha ... in order to realize extinguishment."
 
-When he said this, [Paṇḍitakumāra]{lang="sa"} said to Abhaya, "Dear
+When he said this, Paṇḍitakumāra said to Abhaya, "Dear
 Abhaya, is there anything in what Ānanda has said so well that you would
 disagree with?"
 
 "How could I not agree with what was said so well by Ānanda? If anyone
 didn't agree with him, their head would explode!"
 
+<!--pg-->
 ### N 3.75 Support  *Nivesakasutta*
 
 Then Venerable Ānanda went up to the Buddha, bowed, and sat down to one
@@ -245,10 +249,10 @@ by the Buddha---apparent in the present life, immediately effective,
 inviting inspection, relevant, so that sensible people can know it for
 themselves.'
 
-Experiential confidence in the [Saṅgha]{lang="sa"}: 'The
-[Saṅgha]{lang="sa"} of the Buddha's disciples is practicing the way
+Experiential confidence in the Saṅgha: 'The
+Saṅgha of the Buddha's disciples is practicing the way
 that's good, sincere, systematic, and proper. It consists of the four
-pairs, the eight individuals. This is the [Saṅgha]{lang="sa"} of the
+pairs, the eight individuals. This is the Saṅgha of the
 Buddha's disciples that is worthy of offerings dedicated to the gods,
 worthy of hospitality, worthy of a religious donation, worthy of
 greeting with joined palms, and is the supreme field of merit for the
@@ -262,7 +266,7 @@ realm: this is quite impossible.
 
 There might be change in the four principal states---earth, water, air,
 and fire---but a noble disciple with experiential confidence in the
-teaching ... or the [Saṅgha]{lang="sa"} would never change. In this
+teaching ... or the Saṅgha would never change. In this
 context, 'change' means that such a noble disciple will be reborn in
 hell, the animal realm, or the ghost realm: this is quite impossible.
 
@@ -270,6 +274,7 @@ Those who you have sympathy for, and those worth listening to---friends
 and colleagues, relatives and family---should be encouraged, supported,
 and established in these three things."
 
+<!--pg-->
 ### N 3.76 Continued Existence (1st)  *Paṭhamabhavasutta*
 
 Then Venerable Ānanda went up to the Buddha, bowed, sat down to one
@@ -309,6 +314,7 @@ ignorance and fettered by craving---is established in a higher realm.
 That's how there is rebirth into a new state of existence in the future.
 That's how continued existence is defined."
 
+<!--pg-->
 ### N 3.77 Continued Existence (2nd)  *Dutiyabhavasutta*
 
 Then Venerable Ānanda went up to the Buddha, bowed, sat down to one
@@ -348,6 +354,7 @@ ignorance and fettered by craving---is established in a higher realm.
 That's how there is rebirth into a new state of existence in the future.
 That's how continued existence is defined."
 
+<!--pg-->
 ### N 3.78 Precepts and Observances  *Sīlabbatasutta*
 
 Then Venerable Ānanda went up to the Buddha, bowed, and sat down to one
@@ -372,6 +379,7 @@ before leaving. Then, not long after Ānanda had left, the Buddha
 addressed the mendicants: "Mendicants, Ānanda is a trainee, but it's not
 easy to find his equal in wisdom."
 
+<!--pg-->
 ### N 3.79 Fragrances  *Gandhajātasutta*
 
 Then Venerable Ānanda went up to the Buddha, bowed, sat down to one
@@ -388,7 +396,7 @@ the wind, and against it, and both ways?"
 "So what, sir, is that kind of fragrance?"
 
 "It's when, Ānanda, in some village or town, a woman or man has gone for
-refuge to the Buddha, the teaching, and the [Saṅgha]{lang="sa"}. They
+refuge to the Buddha, the teaching, and the Saṅgha. They
 don't kill living creatures, steal, commit sexual misconduct, lie, or
 consume beer, wine, and liquor intoxicants. They're ethical, of good
 character. They live at home with a heart rid of the stain of
@@ -406,14 +414,15 @@ with the wind, and against it, and both.
 > \>spreads against the wind;\
 > a true person's virtue spreads in every direction."
 
+<!--pg-->
 ### N 3.80 Lesser  *Cūḷanikāsutta*
 
 Then Venerable Ānanda went up to the Buddha, bowed, sat down to one
 side, and said to him:
 
 "Sir, I have heard and learned this in the presence of the Buddha:
-'Ānanda, the Buddha [Sikhī]{lang="sa"} had a disciple called
-[Abhibhū]{lang="sa"}. Standing in the realm of divinity, he could make
+'Ānanda, the Buddha Sikhī had a disciple called
+Abhibhū. Standing in the realm of divinity, he could make
 his voice heard throughout the thousandfold galaxy.' I wonder how far a
 Blessed One, a perfected one, a fully awakened Buddha can make their
 voice heard?"
@@ -468,12 +477,12 @@ far as he wants."
 When he said this, Venerable Ānanda said, "I'm so fortunate, so very
 fortunate, to have a teacher with such power and might!"
 
-When he said this, Venerable [Udāyī]{lang="sa"} said to Venerable
+When he said this, Venerable Udāyī said to Venerable
 Ānanda, "What is it to you, Reverend Ānanda, if your teacher has such
 power and might?"
 
-When he said this, the Buddha said to Venerable [Udāyī]{lang="sa"}, "Not
-so, [Udāyī]{lang="sa"}, not so! If Ānanda were to die while still not
+When he said this, the Buddha said to Venerable Udāyī, "Not
+so, Udāyī, not so! If Ānanda were to die while still not
 free of greed, he would rule as king of the gods for seven lifetimes, or
 as king of the Black Plum Tree Land for seven lifetimes, because of the
 confidence of his heart. However, Ānanda will be fully extinguished in

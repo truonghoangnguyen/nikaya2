@@ -2,41 +2,52 @@
 
 **(I) (1) Thắng Tri Tham Ái (1)**
 
-1. - Này các Tỷ-kheo, muốn thắng tri tham ái, tám pháp cần phải tu tập. Thế nào là tám?
+<!--pg-->
+1\. - Này các Tỷ-kheo, muốn thắng tri tham ái, tám pháp cần phải tu tập. Thế nào là tám?
 
-2. Chánh tri kiến, chánh tư duy, chánh ngữ, chánh nghiệp, chánh mạng, chánh tinh tấn, chánh niệm,
+<!--pg-->
+2\. Chánh tri kiến, chánh tư duy, chánh ngữ, chánh nghiệp, chánh mạng, chánh tinh tấn, chánh niệm,
 chánh định.
 
 Này các Tỷ-kheo, muốn thắng tri tham ái, tám pháp này cần phải tu tập.
 
 **(I) (1) Thắng Tri Tham Ái (2)**
 
-1. - Này các Tỷ-kheo, muốn thắng tri tham ái, tám pháp cần phải tu tập. Thế nào là tám?
+<!--pg-->
+1\. - Này các Tỷ-kheo, muốn thắng tri tham ái, tám pháp cần phải tu tập. Thế nào là tám?
 
-2. Một vị quán tưởng nội sắc, thấy các ngoại sắc có hạn lượng, đẹp xấu. Vị ấy nhận thức rằng: “Sau khi
+<!--pg-->
+2\. Một vị quán tưởng nội sắc, thấy các ngoại sắc có hạn lượng, đẹp xấu. Vị ấy nhận thức rằng: “Sau khi
 nhiếp thắng chúng, ta biết, ta thấy”. Ðó là thắng xứ thứ nhất.
 
-3. Một vị quán tưởng nội sắc, thấy các loại ngoại sắc không có hạn lượng, đẹp xấu. Vị ấy nhận thức
+<!--pg-->
+3\. Một vị quán tưởng nội sắc, thấy các loại ngoại sắc không có hạn lượng, đẹp xấu. Vị ấy nhận thức
 rằng: “Sau khi nhiếp thắng chúng, ta biết, ta thấy”. Ðó là thắng xứ thứ hai.
 
-4. Một vị quán tưởng vô sắc ở nội tâm, thấy các loại ngoại sắc có hạn lượng, đẹp xấu. Vị ấy nhận thức
+<!--pg-->
+4\. Một vị quán tưởng vô sắc ở nội tâm, thấy các loại ngoại sắc có hạn lượng, đẹp xấu. Vị ấy nhận thức
 rằng: “Sau khi nhiếp thắng chúng, ta biết, ta thấy”. Ðó là thắng xứ thứ ba.
 
-5. Một vị quán tưởng vô sắc ở nội tâm, thấy các loại ngoại sắc vô lượng, đẹp xấu. Vị ấy nhận thức rằng:
+<!--pg-->
+5\. Một vị quán tưởng vô sắc ở nội tâm, thấy các loại ngoại sắc vô lượng, đẹp xấu. Vị ấy nhận thức rằng:
 “Sau khi nhiếp thắng chúng, ta biết, ta thấy”. Ðó là thắng xứ thứ tư.
 
-6. Một vị quán tưởng vô sắc ở nội tâm, thấy các loại ngoại sắc màu xanh, sắc màu xanh, tướng sắc xanh,
+<!--pg-->
+6\. Một vị quán tưởng vô sắc ở nội tâm, thấy các loại ngoại sắc màu xanh, sắc màu xanh, tướng sắc xanh,
 hình sắc xanh, ánh sáng xanh. Vị ấy nhận thức rằng: “Sau khi nhiếp thắng chúng, ta biết, ta thấy”. Ðó là
 thắng xứ thứ năm.
 
-7. Một vị quán tưởng vô sắc ở nội tâm, thấy các loại ngoại sắc màu vàng, tướng sắc vàng, hình sắc vàng,
+<!--pg-->
+7\. Một vị quán tưởng vô sắc ở nội tâm, thấy các loại ngoại sắc màu vàng, tướng sắc vàng, hình sắc vàng,
 ánh sáng vàng. Vị ấy nhận thức rằng: “Sau khi nhiếp thắng chúng, ta biết, ta thấy”. Ðó là thắng xứ thứ
 sáu.
 
-8. Một vị quán tưởng vô sắc ở nội tâm, thấy các loại ngoại sắc màu đỏ, tướng sắc đỏ, hình sắc đỏ, ánh
+<!--pg-->
+8\. Một vị quán tưởng vô sắc ở nội tâm, thấy các loại ngoại sắc màu đỏ, tướng sắc đỏ, hình sắc đỏ, ánh
 sáng đỏ. Vị ấy nhận thức rằng: “Sau khi nhiếp thắng chúng, ta biết, ta thấy”. Ðó là thắng xứ thứ bảy.
 
-9. Một vị quán tưởng vô sắc ở nội tâm, thấy các loại ngoại sắc màu trắng, tướng sắc trắng, hình sắc
+<!--pg-->
+9\. Một vị quán tưởng vô sắc ở nội tâm, thấy các loại ngoại sắc màu trắng, tướng sắc trắng, hình sắc
 trắng, ánh sáng trắng. Vị ấy nhận thức rằng: “Sau khi nhiếp thắng chúng, ta biết, ta thấy”. Ðó là thắng
 xứ thứ tám.
 
@@ -44,9 +55,11 @@ Này các Tỷ-kheo, muốn thăng tri tham ái, tám pháp này cần phải tu
 
 **(III) (3) Thắng Tri Tham Ái (3)**
 
-1. - Này các Tỷ-kheo, muốn thắng tri tham ái, tám pháp này cần phải tu tập. Thế nào là tám?
+<!--pg-->
+1\. - Này các Tỷ-kheo, muốn thắng tri tham ái, tám pháp này cần phải tu tập. Thế nào là tám?
 
-2. Tự mình có sắc, thấy các sắc, quán tưởng nội sắc là vô sắc, thấy các ngoại sắc; chú tâm trên suy tưởng
+<!--pg-->
+2\. Tự mình có sắc, thấy các sắc, quán tưởng nội sắc là vô sắc, thấy các ngoại sắc; chú tâm trên suy tưởng
 (sắc là) tịnh. Vượt khỏi hoàn toàn sắc tưởng, diệt trừ các tưởng hữu đối, không tác ý đến những khác
 biệt với suy tư hư không là vô biên, chúng và trú Không vô biên xứ, với suy tư “Thức là vô biên”, chứng
 và trú Thức vô biên xứ. Vượt khỏi hoàn toàn Thức vô biên xứ, với suy tư “không có vật gì”, chúng và

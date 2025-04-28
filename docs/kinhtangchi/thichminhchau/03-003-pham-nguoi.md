@@ -2,8 +2,7 @@
 
 **21.- Chứng Thực Với Thân**
 
-## Như vầy tôi nghe.
-Một thời Thế Tôn trú ở Savatthi, tại Jetanava, vườn ông Anàthapindika. Rồi Tôn giả Savittha, Tôn giả
+Như vầy tôi nghe. Một thời Thế Tôn trú ở Savatthi, tại Jetanava, vườn ông Anàthapindika. Rồi Tôn giả Savittha, Tôn giả
 Mahàkotthita đi đến Tôn giả Sàriputta; sau khi đến nói lên với Tôn giả những lời chào đón hỏi thăm ...
 Tôn giả Sàriputta nói với Tôn giả Savittha đang ngồi xuống một bên:
 
@@ -69,6 +68,7 @@ người thân chứng này là hạng người Nhất Lai hay Bất Lai.
 Ở đây, này Sàriputta, thật không dễ gì để trả lời một chiều rằng hạng người này là hy hữu hơn và thù
 diệu hơn trong ba hạng người kia?
 
+<!--pg-->
 **22.- Người Bệnh**
 
 − Có mặt ba hạng người bệnh này, này các Tỷ-kheo, có mặt, xuất hiện ở đời. Thế nào là ba?
@@ -117,6 +117,7 @@ nhận, và chính do duyên hạng người này, này các Tỷ-kheo, pháp đ
 
 Ba hạng người này, này các Tỷ-kheo, có mặt, xuất hiện ở đời được ví dụ với ba hạng người bệnh.
 
+<!--pg-->
 **23.- Chất Chứa.**
 
 − Có ba hạng người này, này các Tỷ-kheo, có mặt, xuất hiện ở đời. Thế nào là ba?
@@ -143,6 +144,7 @@ và một loại sanh trong đọa xứ.
 
 Ba hạng người này, này các Tỷ-kheo, có mặt, xuất hiện ở đời.
 
+<!--pg-->
 **24.- Nhiều Lợi Ích**
 
 − Có ba hạng người này, này các Tỷ-kheo, làm nhiều lợi ích cho người khác. Thế nào là ba?
@@ -163,6 +165,7 @@ nào khác làm lợi ích nhiều hơn cho người bằng ba hạng người n
 khéo trả ơn cho ba hạng người kia, như đảnh lễ, đứng dậy, chắp tay, hành động thân thiện, bố thí các vật
 dụng như y, đồ ăn khất thực, sàng tọa, thuốc trị bệnh ...
 
+<!--pg-->
 **25.- Vết Thương Làm Mủ**
 
 − Có ba hạng người này, này các Tỷ-kheo, có mặt, xuất hiện ở đời. Thế nào là ba? Hạng người với tâm
@@ -186,6 +189,7 @@ ví dụ như kim cang.
 
 Ba hạng người này, này các Tỷ-kheo, có mặt, xuất hiện ở đời.
 
+<!--pg-->
 **26.- Cần Phải Thân Cận**
 
 − Có ba hạng người này, này các Tỷ-kheo, có mặt, xuất hiện ở đời. Thế nào là ba? Có hạng người này,
@@ -218,15 +222,16 @@ này, sau khi cung kính tôn trọng, nên gần gũi, nên sống chung, nên 
 
 Ba hạng người này, này các Tỷ-kheo, có mặt, xuất hiện ở đời.
 
-_Người gần kẻ hạ liệt_
-_Rồi cũng bị hạ liệt_
-_Thân cận người đồng đẳng_
-_Ðược khỏi bị thối đọa_
-_Ai gần bậc thù thắng_
-_Mau chóng được thăng tiến_
-_Do vậy hãy sống chung_
+_Người gần kẻ hạ liệt_\
+_Rồi cũng bị hạ liệt_\
+_Thân cận người đồng đẳng_\
+_Ðược khỏi bị thối đọa_\
+_Ai gần bậc thù thắng_\
+_Mau chóng được thăng tiến_\
+_Do vậy hãy sống chung_\
 _Bậc ưu thắng hơn mình_
 
+<!--pg-->
 **27.- Ðáng Ghê Tởm**
 
 − Có ba hạng người này, này các Tỷ-kheo, có mặt, xuất hiện ở đời. Thế nào là ba? Có hạng người đáng
@@ -272,15 +277,16 @@ sống chung, cần phải hầu hạ cúng dường.
 
 Ba hạng người này, này các Tỷ-kheo, có mặt, xuất hiện ở đời.
 
-_Người gần kẻ hạ liệt_
-_Rồi cũng bị hạ liệt_
-_Thân cận người đồng đẳng_
-_Ðược khỏi bị thối đọa_
-_Ai gần bậc thù thắng_
-_Mau chóng được thăng tấn_
-_Do vậy hãy sống chung_
+_Người gần kẻ hạ liệt_\
+_Rồi cũng bị hạ liệt_\
+_Thân cận người đồng đẳng_\
+_Ðược khỏi bị thối đọa_\
+_Ai gần bậc thù thắng_\
+_Mau chóng được thăng tấn_\
+_Do vậy hãy sống chung_\
 _Bậc ưu thắng hơn mình_
 
+<!--pg-->
 **28.- Nói Như Hoa**
 
 − Có ba hạng người này, này các Tỷ-kheo, có mặt, xuất hiện ở đời. Thế nào là ba? Hạng người nói như
@@ -308,6 +314,7 @@ ngữ, từ bỏ lời nói ác ngữ. Lời nói của người ấy không h�
 
 Ba hạng người này, này các Tỷ-kheo, có mặt, xuất hiện ở đời.
 
+<!--pg-->
 **29.- Mù Lòa**
 
 − Ba hạng người này, này các Tỷ-kheo, có mặt, xuất hiện ở đời. Thế nào là ba? Người mù, người một
@@ -333,37 +340,38 @@ người có hai mắt.
 
 Ba hạng người này, này các Tỷ-kheo, có mặt, xuất hiện ở đời.
 
-_Kẻ mù, mắt bị hư_
-_Cả hai đều bất hạnh_
-_Vừa công đức không làm_
-_Vừa không được tài sản_
-_Thứ đến là hạng người_
-_Ðược gọi là một mắt_
-_Liên hệ pháp phi pháp_
-_Tầm cầu các tài sản_
-_Với trộm và man trá_
-_Cùng với cả nói láo_
-_Vừa khéo góp tài sản_
-_Vừa giỏi hưởng dục lạc_
-_Từ đây đến địa ngục_
-_Người một mắt bị hại._
-
-_Còn vị có hai mắt_
-_Ðược gọi người tối thượng_
-_Thâu hoạch các tài sản_
-_Một cách đúng chánh pháp_
-_Các tài sản đã có,_
-_Tăng trưởng đúng chánh pháp_
-_Bố thí, ý tốt đẹp_
-_Không phân vân ngập ngừng_
-_Ðược sanh chỗ hiền thiện_
-_Ði chỗ ấy không sầu_
-
-_Vậy hãy tránh thật xa_
-_Người mù, người một mắt_
-_Thân cận bậc hai mắt_
+_Kẻ mù, mắt bị hư_\
+_Cả hai đều bất hạnh_\
+_Vừa công đức không làm_\
+_Vừa không được tài sản_\
+_Thứ đến là hạng người_\
+_Ðược gọi là một mắt_\
+_Liên hệ pháp phi pháp_\
+_Tầm cầu các tài sản_\
+_Với trộm và man trá_\
+_Cùng với cả nói láo_\
+_Vừa khéo góp tài sản_\
+_Vừa giỏi hưởng dục lạc_\
+_Từ đây đến địa ngục_\
+_Người một mắt bị hại._\
+\
+_Còn vị có hai mắt_\
+_Ðược gọi người tối thượng_\
+_Thâu hoạch các tài sản_\
+_Một cách đúng chánh pháp_\
+_Các tài sản đã có,_\
+_Tăng trưởng đúng chánh pháp_\
+_Bố thí, ý tốt đẹp_\
+_Không phân vân ngập ngừng_\
+_Ðược sanh chỗ hiền thiện_\
+_Ði chỗ ấy không sầu_\
+\
+_Vậy hãy tránh thật xa_\
+_Người mù, người một mắt_\
+_Thân cận bậc hai mắt_\
 _Bậc tối thắng trượng phu!_
 
+<!--pg-->
 **30.- Lộn Ngược**
 
 − Ba hạng người này, này các Tỷ-kheo, có mặt, xuất hiện ở đời. Thế nào là ba? Hạng người với trí tuệ
@@ -401,41 +409,40 @@ có tác ý đến đoạn đầu ... có tác ý đến đoạn cuối. Này c�
 lớn.
 
 Ba hạng người này, này các Tỷ-kheo, có mặt, xuất hiện ở đời.
-_Hạng trí tuệ lộn ngược_
-_Không thông minh, không mắt_
-_Họ thường thường đi đến_
-_Ðến gần các Tỷ-kheo_
-_Ðoạn đầu của bài giảng_
-_Ðoạn giữa và đoạn cuối_
-_Họ không học được gì,_
-_Họ không có trí tuệ_
-
-_Hạng trí tuệ bắp vế_
-_Ðược gọi là tốt hơn_
-_Họ thường thường đi đến_
-_Ðến gần các Tỷ-kheo_
-_Ðoạn đầu của bài giảng_
-_Ðoạn giữa và đoạn cuối_
-_Ngồi trên chỗ mình ngồi_
-_Nắm giữ được lời văn_
-_Ðứng dậy không hiểu rõ_
-_Quên mất điều đã nắm_
-
-_Bậc trí tuệ rộng lớn_
-_Ðược gọi tốt hơn cả_
-_Họ thường thường đi đến_
-_Ðến gần các Tỷ-kheo_
-_Ðoạn đầu của bài giảng_
-_Ðoạn giữa và đoạn cuối_
-_Ngồi trên chỗ mình ngồi_
-_Nắm giữ được lời văn_
-_Thọ trì điều được nghe_
-_Suy tư điều tối thắng_
-_Với ý không dao động_
-_Là hạng người như vậy_
-_Thực hành pháp, tùy pháp_
+_Hạng trí tuệ lộn ngược_\
+_Không thông minh, không mắt_\
+_Họ thường thường đi đến_\
+_Ðến gần các Tỷ-kheo_\
+_Ðoạn đầu của bài giảng_\
+_Ðoạn giữa và đoạn cuối_\
+_Họ không học được gì,_\
+_Họ không có trí tuệ_\
+\
+_Hạng trí tuệ bắp vế_\
+_Ðược gọi là tốt hơn_\
+_Họ thường thường đi đến_\
+_Ðến gần các Tỷ-kheo_\
+_Ðoạn đầu của bài giảng_\
+_Ðoạn giữa và đoạn cuối_\
+_Ngồi trên chỗ mình ngồi_\
+_Nắm giữ được lời văn_\
+_Ðứng dậy không hiểu rõ_\
+_Quên mất điều đã nắm_\
+\
+_Bậc trí tuệ rộng lớn_\
+_Ðược gọi tốt hơn cả_\
+_Họ thường thường đi đến_\
+_Ðến gần các Tỷ-kheo_\
+_Ðoạn đầu của bài giảng_\
+_Ðoạn giữa và đoạn cuối_\
+_Ngồi trên chỗ mình ngồi_\
+_Nắm giữ được lời văn_\
+_Thọ trì điều được nghe_\
+_Suy tư điều tối thắng_\
+_Với ý không dao động_\
+_Là hạng người như vậy_\
+_Thực hành pháp, tùy pháp_\
 _Có thể đoạn khổ đau._
 
-**31. Ngang Bằng Với Phạm Thiên**
 
 

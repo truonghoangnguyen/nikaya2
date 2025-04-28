@@ -1,6 +1,4 @@
-## The Chapter on Giving Up the Hindrances
-
-### N 1\.11--20 \*Nīvaraṇappahānavagga\* \{#n-1\.1120-nīvaraṇappahānavagga \.unnumbered\}
+# The Chapter on Giving Up the Hindrances
 
 ### N 1.11--20 *Nīvaraṇappahānavagga*
 

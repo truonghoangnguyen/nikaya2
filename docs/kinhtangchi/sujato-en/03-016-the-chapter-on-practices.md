@@ -1,4 +1,4 @@
-## The Chapter on Practices
+# The Chapter on Practices
 
 ### N 3.156--162 Untitled Discourses on Three Practices  *Acelakavagga*
 
@@ -49,6 +49,7 @@ called the middle practice.
 
 These are the three practices.
 
+<!--pg-->
 Mendicants, there are three practices. What three? The addicted
 practice, the scorching practice, the middle practice.
 

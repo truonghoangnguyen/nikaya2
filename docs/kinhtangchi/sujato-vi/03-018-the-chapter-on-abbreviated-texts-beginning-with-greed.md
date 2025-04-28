@@ -1,0 +1,60 @@
+# Chương về các Bài Kinh Tóm Tắt Bắt Đầu với Tham
+
+### N 3.183--352 Các Bài Kinh Không Có Tựa Đề về Tham, v.v. *Rāgapeyyāla*
+
+"Để có *tuệ quán* (insight / sự hiểu biết sâu sắc, trí tuệ) về *tham* (greed / lòng tham), ba pháp cần được phát triển. Ba pháp đó là gì?
+*Không định* (emptiness immersion / sự tập trung vào tánh không); *vô tướng định* (signless immersion / sự tập trung vào tánh vô tướng); và *vô nguyện định* (undirected immersion / sự tập trung vào tánh vô nguyện). Để có tuệ quán về tham, ba pháp này cần được phát triển.
+
+Để *liễu tri* (complete understanding / sự hiểu biết trọn vẹn) về tham... *đoạn tận* (complete ending / sự chấm dứt hoàn toàn)... *từ bỏ* (giving up / sự buông bỏ)... *chấm dứt* (ending / sự kết thúc)... *tiêu mất* (vanishing / sự tan biến)... *ly tham* (fading away / sự phai nhạt)... *đoạn diệt* (cessation / sự diệt trừ)... *xả ly* (giving away / sự buông xả)... *giải thoát* (letting go / sự giải thoát, buông bỏ hoàn toàn)...
+
+*sân* (hate / lòng sân hận)... *si* (delusion / sự si mê, vô minh)... *phẫn nộ* (anger / sự tức giận)... *oán hận* (acrimony / sự thù hằn)... *hiềm hận* (disdain / sự khinh miệt)... *não hại* (contempt / sự coi thường, làm tổn hại)... *tật đố* (jealousy / sự ganh tị)... *xan tham* (stinginess / sự keo kiệt)... *man trá* (deceitfulness / sự lừa dối)... *xảo quyệt* (deviousness / sự gian xảo)... *ngoan cố* (obstinacy / sự bướng bỉnh)... *hiềm khích* (aggression / sự gây hấn)... *mạn* (conceit / sự kiêu ngạo)... *quá mạn* (arrogance / sự kiêu căng)... *kiêu mạn* (vanity / sự tự phụ)... *phóng dật* (negligence / sự lơ là, dễ duôi)... tuệ quán... liễu tri... đoạn tận... từ bỏ... chấm dứt... tiêu mất... ly tham... đoạn diệt... xả ly... Để giải thoát khỏi phóng dật, ba pháp này cần được phát triển."
+
+Đó là những gì *Đức Phật* (Buddha / Bậc Giác Ngộ) đã dạy. Các vị *Tỳ kheo* (mendicants / các vị khất sĩ, tu sĩ Phật giáo) hoan hỷ, tín thọ lời Đức Phật dạy.
+
+::: Center
+HẾT TẬP BA PHÁP.
+:::
+
+## Lời Bạt
+
+<!--pg-->
+### Người Dịch
+
+*Tỳ kheo* (Bhikkhu / vị khất sĩ nam) Sujato, thế danh Anthony Aidan Best, sinh ngày 4/11/1966 tại Perth, Tây Úc. Ngài lớn lên ở vùng ngoại ô dễ chịu của Mt Lawley và Attadale cùng với em gái Nicola, một người con ngoan. Mẹ ngài, bà Margaret Lorraine Huntsman nhũ danh Pinder, nói rằng "nó sẽ trở thành một linh mục hoặc một nhà thơ", trong khi cha ngài, ông Anthony Thomas Best, khuyên ngài "đừng bao giờ làm bất cứ điều gì vì tiền". Ngài theo học tại Aquinas College, một trường Công giáo, nơi ngài quyết định trở thành người vô thần. Tại Đại học Tây Úc, ngài học triết học, với mục đích tìm hiểu xem mình muốn làm gì với cuộc đời. Nhận thấy điều mình muốn làm là chơi guitar, ngài đã bỏ học. Ban nhạc chính của ngài tên là Martha's Vineyard, đã đạt được thành công khiêm tốn trong giới nhạc indie.
+
+Một cuộc gặp gỡ tưởng chừng ngẫu nhiên với một chú chuột túi con bên đường đã đưa ngài đến Thái Lan, nơi ngài tham gia *khóa thiền* (meditation retreat / kỳ nhập thất tu thiền) đầu tiên tại *Wat* (Wat / Chùa - tiếng Thái) Ram Poeng, Chieng Mai vào năm 1992. Cảm nhận được tiếng gọi của con đường Phật đạo, ngài đã thọ đại giới tại Wat Pa Nanachat vào năm 1994, nơi các vị thầy của ngài là *Ajahn* (Ajahn / Thầy, vị trưởng lão - tiếng Thái) Pasanno và Ajahn Jayasaro. Năm 1997, ngài trở về Perth để tu học với Ajahn Brahm tại Tu viện Bodhinyana.
+
+Ngài đã dành nhiều năm tu tập ẩn dật ở Malaysia và Thái Lan trước khi thành lập Tu viện Rừng Santi ở Bundanoon, NSW, vào năm 2003. Tại đây, ngài đóng vai trò quan trọng trong việc hỗ trợ thành lập dòng *Tỳ kheo ni* (Bhikkhuni / vị khất sĩ nữ) *Theravāda* (Theravada / Phật giáo Nguyên thủy) ở Úc và vận động cho quyền của phụ nữ. Ngài tiếp tục giảng dạy ở Úc và trên toàn cầu, đặc biệt quan tâm đến các hàm ý đạo đức của biến đổi khí hậu và các hình thức hủy hoại môi trường khác. Ngài đã xuất bản một loạt sách nghiên cứu độc đáo và đột phá về Phật giáo sơ kỳ.
+
+Năm 2005, ngài đồng sáng lập *SuttaCentral* (SuttaCentral / tên trang web) cùng với Rod Bucknell và John Kelly. Năm 2015, nhận thấy sự cần thiết của một bản dịch tiếng Anh đầy đủ, chính xác, dễ hiểu các kinh văn *Pali* (Pali / Ngôn ngữ Pali), ngài đã đảm nhận nhiệm vụ này, dành gần ba năm ẩn cư trên đảo Thất Mỹ ngoài khơi bờ biển Đài Loan. Ngài đã hoàn thành bốn bộ *Nikāya* (Nikāyas / Bộ kinh) chính vào năm 2018, và các cuốn đầu tiên của *Tiểu Bộ Kinh* (Khuddaka Nikāya / Bộ kinh nhỏ) được hoàn thành vào năm 2021. Tất cả công trình này được dành tặng cho *phạm vi công cộng* (public domain / tài sản công cộng) và hoàn toàn không có *ràng buộc bản quyền* (copyright encumbrance / vướng mắc về bản quyền).
+
+Năm 2019, ngài trở lại Sydney và thành lập Lokanta *Vihara* (Vihara / Tịnh xá, tu viện) (Tu viện Nơi Tận Cùng Thế Giới).
+
+<!--pg-->
+### Quá trình Thực hiện
+
+Nguồn chính là ấn bản kỹ thuật số Mahāsaṅgīti của *Tam Tạng* (Tipiṭaka / Ba tạng kinh điển) Pali. Dịch từ tiếng Pali, có tham khảo một số bản dịch tiếng Anh, đặc biệt là của Tỳ kheo Bodhi.
+
+<!--pg-->
+### Bản Dịch
+
+Bản dịch này là một phần của dự án dịch bốn bộ Nikāya Pali với các mục tiêu sau: tiếng Anh giản dị, dễ tiếp cận; thuật ngữ nhất quán; chuyển ngữ chính xác từ tiếng Pali; không có bản quyền. Bản dịch được thực hiện trong giai đoạn 2016-2018 khi Tỳ kheo Sujato đang ở tại Thất Mỹ, Đài Loan.
+
+<!--pg-->
+### Về SuttaCentral
+
+SuttaCentral xuất bản các kinh văn Phật giáo sơ kỳ. Từ năm 2005, chúng tôi đã cung cấp các *văn bản gốc* (root texts / các bản kinh gốc) bằng tiếng Pali, tiếng Hán, tiếng Phạn, tiếng Tây Tạng và các ngôn ngữ khác, *các bản tương đương* (parallels / các bản kinh tương ứng) giữa các văn bản này, và các bản dịch sang nhiều ngôn ngữ hiện đại. Dựa trên công trình của nhiều thế hệ học giả, chúng tôi cống hiến đóng góp của mình một cách tự do.
+
+SuttaCentral được thúc đẩy bởi sự đóng góp của các tình nguyện viên, và ngoài ra chúng tôi còn thuê các nhà phát triển chuyên nghiệp. Chúng tôi cung cấp một chương trình tài trợ cho các bản dịch chất lượng cao từ các ngôn ngữ gốc. Hỗ trợ tài chính cho SuttaCentral được quản lý bởi SuttaCentral Development Trust, một quỹ từ thiện đã đăng ký tại Úc.
+
+<!--pg-->
+### Về Bilara
+
+"*Bilara*" (Bilara / tên phần mềm) có nghĩa là "con mèo" trong tiếng Pali, và đó là tên của phần mềm *CAT (Dịch thuật có Máy tính Hỗ trợ)* (CAT (Computer Assisted Translation) / phần mềm hỗ trợ dịch thuật) của chúng tôi. Bilara là một ứng dụng web cho phép người dịch dịch các kinh văn Phật giáo sơ kỳ sang ngôn ngữ của họ. Các bản dịch này được xuất bản trên SuttaCentral với văn bản gốc và bản dịch song song.
+
+<!--pg-->
+### Về Ấn bản SuttaCentral
+
+Dự án Ấn bản SuttaCentral tạo ra những cuốn sách chất lượng cao từ các bản dịch chọn lọc của Bilara. Chúng được xuất bản ở các định dạng bao gồm HTML, EPUB, PDF và bản in.
+
+Bạn có thể tự do in bất kỳ Ấn bản nào của chúng tôi.

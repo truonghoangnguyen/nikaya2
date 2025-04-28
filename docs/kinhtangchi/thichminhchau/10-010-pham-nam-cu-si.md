@@ -2,53 +2,66 @@
 
 **(I) (91) Người Hưởng Dục**
 
-1. **Một thời, Thế Tôn trú ở Sàvatthi, tại Jetavana, khu vườn ông Anàhapindika. Rồi nam cư sĩ**
+<!--pg-->
+1\. **Một thời, Thế Tôn trú ở Sàvatthi, tại Jetavana, khu vườn ông Anàhapindika. Rồi nam cư sĩ**
 Anàthapindika đi đến Thế Tôn, sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Thế tôn nói với
 Anàthapindika đang ngồi một bên:
 
-2. - Này Gia chủ, có mười người hưởng dục này có mặt hiện hữu ở đời. Thế nào là mười?
+<!--pg-->
+2\. - Này Gia chủ, có mười người hưởng dục này có mặt hiện hữu ở đời. Thế nào là mười?
 
-3. Ở đây, này Gia chủ, có hạng người hưởng dục, tầm cầu tài sản phi pháp với sứ mạnh. Sau khi tầm cầu
+<!--pg-->
+3\. Ở đây, này Gia chủ, có hạng người hưởng dục, tầm cầu tài sản phi pháp với sứ mạnh. Sau khi tầm cầu
 tài sản chi pháp với sức mạnh, vị ấy không tự mình được an lạc, hân hoan, không có chia xẻ, không làm
 các công đức.
 
-4. Ở đây, này Gia chủ, có hạng người hưởng dục, tầm cầu tài sản phi pháp với sức mạnh. Sau khi tầm
+<!--pg-->
+4\. Ở đây, này Gia chủ, có hạng người hưởng dục, tầm cầu tài sản phi pháp với sức mạnh. Sau khi tầm
 cầu tài sản phi pháp với sức mạnh, vị ấy tự mình được an lạc, hân hoan, không có chia xẻ, không làm
 các công đức.
 
-5. Ở đây, này Gia chủ, có hạng người hưởng dục, tầm cầu tài sản phi pháp với sức mạnh, sau khi tầm
+<!--pg-->
+5\. Ở đây, này Gia chủ, có hạng người hưởng dục, tầm cầu tài sản phi pháp với sức mạnh, sau khi tầm
 cầu tài sản phi pháp với sức mạnh, tự mình được an lạc, hân hoan, chia xẻ, làm các công đức.
 
-6. Ở đây, này Gia chủ, có hạng người hưởng dục, tầm cầu tài sản đúng pháp và phi pháp với sức mạnh
+<!--pg-->
+6\. Ở đây, này Gia chủ, có hạng người hưởng dục, tầm cầu tài sản đúng pháp và phi pháp với sức mạnh
 và không với sức mạnh. Sau khi tầm cầu tài sản đúng pháp và phi pháp với sức mạnh và không với sức
 mạnh, vị ấy không tự mình được an lạc, hân hoan, không có chia xẻ, không làm các công đức.
 
-7. Ở đây, này Gia chủ, có hạng người hướng dục, tầm cầu tài sản đúng pháp và phi pháp với sức mạnh
+<!--pg-->
+7\. Ở đây, này Gia chủ, có hạng người hướng dục, tầm cầu tài sản đúng pháp và phi pháp với sức mạnh
 và không sức mạnh. Sau khi tầm cầu tài sản đúng pháp và phi pháp với sức mạnh và không với sức
 mạnh, tự mình được an lạc hân hoan, nhưng không chia xẻ, không làm các công đức.
-8. Ở đây, này Gia Chủ, có hạng người hưởng dục, tầm cầu tài sản đúng pháp và phi pháp với sức mạnh
+<!--pg-->
+8\. Ở đây, này Gia Chủ, có hạng người hưởng dục, tầm cầu tài sản đúng pháp và phi pháp với sức mạnh
 và không với sức mạnh. Sau khi tầm cầu tài sản đúng pháp và phi pháp với sức mạnh và không với sức
 mạnh, vị ấy tự mình được an lạc, hân hoan, có chia xẻ, có làm các công đức.
 
-9. Ở đây, này Gia chủ, có hạng người hưởng dục, tầm cầu tài sản đúng pháp không với sức mạnh; sau
+<!--pg-->
+9\. Ở đây, này Gia chủ, có hạng người hưởng dục, tầm cầu tài sản đúng pháp không với sức mạnh; sau
 khi tầm cầu tài sản đúng pháp không với sức mạnh, vị ấy không tự mình được an lạc, hân hoan, không
 chia xẻ, không làm các công đức.
 
-10. Ở đây, này Gia chủ, có người hưởng dục tầm cầu tải sản đúng pháp không với sức mạnh. Sau khi
+<!--pg-->
+10\. Ở đây, này Gia chủ, có người hưởng dục tầm cầu tải sản đúng pháp không với sức mạnh. Sau khi
 tầm cầu tài sản đúng pháp không với sức mạnh, vị ấy tự mình được an lạc, hân hoan, không chia xẻ,
 không làm các công đức.
 
-11. Ở đây, này Gia chủ, có người hưởng dục, tầm cầu tài sản đúng pháp không với sức mạnh. Sau khi
+<!--pg-->
+11\. Ở đây, này Gia chủ, có người hưởng dục, tầm cầu tài sản đúng pháp không với sức mạnh. Sau khi
 tầm cầu tài sản đúng pháp không với sức mạnh, vị ấy tự mình an lạc, hân hoan, chia xẻ, làm các công
 đức. Và vị này hưởng thụ các tài sản ấy với tâm tham trước, đắm say, mê loạn, không thấy sự nguy hại,
 không với trí tuệ xuất ly.
 
-12. Ở đây, này Gia chủ, có người hưởng dục, tầm cầu tài sản đúng pháp không với sức mạnh. Sau khi
+<!--pg-->
+12\. Ở đây, này Gia chủ, có người hưởng dục, tầm cầu tài sản đúng pháp không với sức mạnh. Sau khi
 tầm cầu tài sản đúng pháp không với sức mạnh, vị ấy tự mình an lạc, hân hoan, chia xẻ, làm các công
 đức. Và vị này hưởng thụ các tài sản ấy, không với tâm tham trước, không đắm say, không mê loạn, thấy
 sự nguy hại, với trí tuệ xuất ly.
 
-13. Tại đây, này Gia chủ, vị hưởng dục này, tầm cầu tài sản phi pháp và dùng sức mạnh; Sau khi tầm
+<!--pg-->
+13\. Tại đây, này Gia chủ, vị hưởng dục này, tầm cầu tài sản phi pháp và dùng sức mạnh; Sau khi tầm
 cầu tài sản phi pháp và dùng sức mạnh, vị ấy không tự mình an lạc, hân hoan, không chia xẻ, không làm
 các công đức. Này Gia chủ, vị hưởng dục này do ba điều bị quở trách: “Tầm cầu tài sản phi pháp, dùng
 sức mạnh là điều thứ nhất, bị khiển trách; không tự mình an lạc hân hoan là điều thứ hai, bị khiển trách;
@@ -56,7 +69,8 @@ không chia xẻ, không làm công đức là điều thứ ba, bị khiển tr
 
 Này Gia chủ, vị hưởng dục này có ba điều bị quở trách.
 
-14. Tại đây, này Gia chủ, vị hưởng dục này, tầm cầu tài sản phi pháp, dùng sức mạnh. Sau khi tầm cầu
+<!--pg-->
+14\. Tại đây, này Gia chủ, vị hưởng dục này, tầm cầu tài sản phi pháp, dùng sức mạnh. Sau khi tầm cầu
 tài sản phi pháp và dùng sức mạnh, vị ấy tự mình an lạc hân hoan, không chia xẻ, không làm các công
 đức. Này gia chủ, vị hưởng dục này có hai điều bị quở trách, và một điều được tán thán. Vị ấy tầm cầu
 tài sản phi pháp và dùng sức mạnh do điều thứ nhất này, bị quở trách. vị ấy tự mình an lạc, hân hoan, do
@@ -65,7 +79,8 @@ trích.
 
 Vị hưởng dục này, này gia chủ, có hai điều này bị chỉ trích, và một điều này được tán thán.
 
-15. Tại đấy, này Gia chủ, vị hưởng dục này, tầm cầu tài sản phi pháp và dùng sức mạnh. Sau khi tầm
+<!--pg-->
+15\. Tại đấy, này Gia chủ, vị hưởng dục này, tầm cầu tài sản phi pháp và dùng sức mạnh. Sau khi tầm
 cầu tài sản phi pháp và dùng sức mạnh, vị ấy tự mình an lạc, hân hoan, san sẻ và làm các công đức. Vị
 hưởng dục này, này Gia chủ, do một điều bị chỉ trích, do hai điều được tán thán. Vị ấy tầm cầu tài sản
 một cách phi pháp và dùng sức mạnh, do một điều này, bị chỉ trích. Vị ấy tự mình an lạc, hân hoan, do
@@ -73,7 +88,8 @@ một cách phi pháp và dùng sức mạnh, do một điều này, bị chỉ 
 
 Vị hưởng dục này, này Gia chủ, có một điều bị chỉ trích, và hai điều được tán thán.
 
-16. Tại đây, này Gia chủ, vị hưởng dục này, tầm cầu tài sản đúng pháp và phi pháp, dùng sức mạnh và
+<!--pg-->
+16\. Tại đây, này Gia chủ, vị hưởng dục này, tầm cầu tài sản đúng pháp và phi pháp, dùng sức mạnh và
 không dùng sức mạnh. Sau khi tầm cầu tài sản đúng pháp và phi pháp, dùng sức mạnh và không dùng
 sức mạnh, vị ấy không tự mình an lạc, hân hoan, không chia xẻ, không làm các công đức. Vị hưởng dục
 này, này gia chủ, có một điều được tán thán, có ba đièu bị chỉ trích. Vị ấy tấm cầu tài sản đúng pháp
@@ -83,7 +99,8 @@ Vị ấy không chia xẻ, không làm các công đức, do điều thứ ba n
 
 Vị hưởng dục này, này Gia chủ, có một điều này được tán thán, và ba điều này bị chỉ trích.
 
-17. Tại đây, này Gia chủ, người hưởng dục này, tầm cầu tài sản đúng pháp và phi pháp, dùng sức mạnh
+<!--pg-->
+17\. Tại đây, này Gia chủ, người hưởng dục này, tầm cầu tài sản đúng pháp và phi pháp, dùng sức mạnh
 và không dùng sức mạnh. Sau khi tầm cầu tài sản đúng pháp và phi pháp, dùng sức mạnh và không dùng
 sức mạnh, vị ấy tự mình an lạc, hân hoan, chia sẻ và làm các công đức. Vị hưởng dục này, này Gia chủ,
 có ba điều được tán thán, và một điều bị chỉ trích. Vị ấy tầm cầu tài sản đúng pháp và không dùng sức
@@ -93,7 +110,8 @@ sẻ, không làm các công đức đo điều thứ hai naỳ bị chỉ tríc
 
 Vị hưởng dục này, này Gia chủ, có hai điều này được tán thán, và hai điều này bị chỉ trích.
 
-18. Tại đây, này Gia chủ, người hưởng dục này, tầm cầu tài sản đúng pháp và phi pháp, dùng sức mạnh
+<!--pg-->
+18\. Tại đây, này Gia chủ, người hưởng dục này, tầm cầu tài sản đúng pháp và phi pháp, dùng sức mạnh
 và không dùng sức mạnh. Sau khi, tầm cầu tài sản đúng pháp và phi pháp, dùng sức mạnh và không
 dùng sức mạnh, vị ấy tự mình an lạc, hân hoan, chia xẻ và làm các công đức. Vị hưởng dục này, này Gia
 chủ, có ba điều được tán thán, và một điều bị trích. Vị ấy tầm cầu tài sản đúng pháp và không dùng sức
@@ -103,7 +121,8 @@ và làm các công đức, do điều thứ ba này, được tán thán.
 
 Vị hưởng dục này, này Gia chủ, có ba điều này được tán thán, và một điều này trích.
 
-19. Tại đây, này Gia chủ, vị hưởng dục này, tầm cầu tài sản đúng pháp và không dùng sức mạnh. Sau
+<!--pg-->
+19\. Tại đây, này Gia chủ, vị hưởng dục này, tầm cầu tài sản đúng pháp và không dùng sức mạnh. Sau
 khi tầm cầu tài sản đứng pháp và không dùng sức mạnh, vị ấy không tự mình an lạc, hân hoan, không
 chia xẻ và làm các công đức. vị hưởng dục này, này Gia chủ, có một điều được tán thán, và hai điều bị
 chỉ trích. Vị ấy tầm cầu tài sản đúng pháp và không dùng sức mạnh, do điều này được tán thán. Vị ấy
@@ -112,7 +131,8 @@ công đức, do điều thứ hai này, bị chỉ trích.
 
 Vị hưởng dục này, này Gia chủ, có một điều này được tán thán, và hai điều này bị chỉ trích.
 
-20. Tại đây, này Gia chủ, người hường dục này, tầm cầu tài sản đúng pháp và không dùng sức mạnh.
+<!--pg-->
+20\. Tại đây, này Gia chủ, người hường dục này, tầm cầu tài sản đúng pháp và không dùng sức mạnh.
 Sau khi tầm cầu tài sản đúng pháp và không dùng sức mạnh, vị ấy tự mình an lạc, hân hoan, không chia
 xẻ, không làm các công đức. Vị hưởng dục này, này Gia chủ, có hai điều được tán thán, và một điều bị
 chỉ trích. Vị ấy tầm cầu tài sản đúng pháp và không dùng sức mạnh, do điều thứ nhất này được tán thán.
@@ -121,7 +141,8 @@ công đức, do điều thứ nhất này, bị chỉ trích.
 
 Vị hưởng dục này, này Gia chủ, có hai điều được tán thán, và một điều bị chỉ trích.
 
-21. Tại đây, này gia chủ, người hưởng dục này tầm cầu tài sản đúng pháp và không dùng sức mạnh. Sau
+<!--pg-->
+21\. Tại đây, này gia chủ, người hưởng dục này tầm cầu tài sản đúng pháp và không dùng sức mạnh. Sau
 khi tầm cầu tài sản đúng pháp và không dùng sức mạnh, vị ấy tự mình an lạc, hân hoan, chia xẻ và làm
 các công đức. Và người ấy thọ hưởng các tài sản ấy tham đàm, đắm say, mê loạn, không thấy sự nguy
 hại, không có xuất ly với trí tuệ. Người hưởng dục này, này Gia chủ, có ba điều được tán thán, và một
@@ -132,7 +153,8 @@ thấy sự nguy hại, không có xuất ly với trí tuệ, do một điều 
 
 Vị hưởng dục này, này Gia chủ, có ba điều này được tán thán, và một điều này bị chỉ trích.
 
-22. Tại đây, này Gia chủ, vị hưởng dục này, tầm cầu tài sản đúng pháp và không dùng sức mạnh. Sau
+<!--pg-->
+22\. Tại đây, này Gia chủ, vị hưởng dục này, tầm cầu tài sản đúng pháp và không dùng sức mạnh. Sau
 khi tầm cầu tài sản đứng pháp và không dùng sức mạnh, vị ấy tự mình an lạc, hân hoan, chia xẻ và làm
 các công đức. Người ấy hưởng thọ các tài sản ấy, không có tham đắm, không có đắm say, không có mê
 loạn, thấy được sự nguy hại, có xuất ly với trí tuệ. Vị hưởng dục này, này Gia chủ, có bốn điều được tán
@@ -145,7 +167,8 @@ Vị hưởng dục này, này Gia chủ, có bốn điều này được tán t
 
 Này Gia chủ, mười hạng người hưởng dục này có mặt, hiện ở đời.
 
-23. Trong mười hạng người hưởng dục này, này Gia củ, người hưởng dục tầm cầu tài sản đúng pháp,
+<!--pg-->
+23\. Trong mười hạng người hưởng dục này, này Gia củ, người hưởng dục tầm cầu tài sản đúng pháp,
 không dùng sức mạnh, Sau khi tầm cầu tài sản đúng pháp, không dùng sức mạnh, vị ấy tự mình an lạc,
 hân hoan, chia xẻ, làm các công đức, hưởng thọ các tài sản ấy, không tham đắm, không đắm say, không
 mê loạn thấy được sự nguy hại, có xuất ly với trí tuệ. Trong mười hạng người hưởng dục này, hạng
@@ -161,21 +184,25 @@ thượng và tối tôn.
 
 **(II) (32) Sợ Hãi Và Hận Thù**
 
-1. Bấy giờ có gia chủ Anàthapindika đi đến Thế Tôn, ... Thế Tôn nói với Gia chủ Anàthapindika đang
+<!--pg-->
+1\. Bấy giờ có gia chủ Anàthapindika đi đến Thế Tôn, ... Thế Tôn nói với Gia chủ Anàthapindika đang
 ngồi xuống một bên.
 
-2. - Này Gia chủ, khi nào vị Thánh đệ tử làm cho lắng dịu năm sợ hãi hận thù, thành tựu bốn chi phần
+<!--pg-->
+2\. - Này Gia chủ, khi nào vị Thánh đệ tử làm cho lắng dịu năm sợ hãi hận thù, thành tựu bốn chi phần
 Dự lưu, khéo thấy, khéo thể nhập Thánh lý với trí tuệ; nếu vị ấy muốn, có thể tự trả lời với mình rằng:
 “Ta đã đoạn tận địa ngục; ta đã đoạn tận bàng sanh; ta đã đoạn tận ngạ quỷ; Ta đã đoạn tận các cõi dữ,
 ác thú, đọa xứ; ta đã chứng Dự lưu, không còn bị đọa lạc, quyết chắc cứu cánh được giác ngộ.” Thế nào
 là năm sợ hãi hận thù được làm cho lắng dịu?
 
-3. Này Gia chủ, sát sanh, do duyên sát sanh tạo ra sợ hãi hận thù ngay trong hiện tại, tạo ra sợ hãi hận
+<!--pg-->
+3\. Này Gia chủ, sát sanh, do duyên sát sanh tạo ra sợ hãi hận thù ngay trong hiện tại, tạo ra sợ hãi hận
 thù trong tương lai, khiến tâm cảm thọ khổ ưu. Người từ bỏ sát sanh, không tạo ra sợ hãi hận thù trong
 hiện tại, không tạo ra sợ hãi hận thù ngay trong tương lai, không khiến tâm cảm thọ khổ ưu. Người từ bỏ
 sát sanh, làm lắng dịu sợ hãi hận thứ này.
 
-4. Này Gia chủ, lấy của không cho... tà hạnh trong các dục... nói láo... đắm say trong rượu men, rượu
+<!--pg-->
+4\. Này Gia chủ, lấy của không cho... tà hạnh trong các dục... nói láo... đắm say trong rượu men, rượu
 nấu; do duyên đắm say trong rượu men, rượu nấu, tạo ra sợ hãi hận ngay trong hiện tại, tạo ra sợ hãi hận
 thù trong tương lai, khiến cảm thọ khổ ưu về tâm. Người từ bỏ không đắm say trong rượu men, rượu
 nấu, không tạo ra sợ hãi thù hận ngay hiện tại, tạo ra sợ hãi hận thù trong tương lai, không khiến cảm thọ
@@ -183,7 +210,8 @@ khổ ưu về tâm. Với người từ bỏ đắm say rượu men, rượu n�
 
 Năm sợ hãi hận thù này được lắng dịu. Thế nào là thành tựu bốn Dự lưu phần?
 
-5. - Ở đây, này Gia chủ, vị Thánh đệ tử thành tựu tịnh tín bất động đối với đức Phật.
+<!--pg-->
+5\. - Ở đây, này Gia chủ, vị Thánh đệ tử thành tựu tịnh tín bất động đối với đức Phật.
 
 Ðây là Thế Tôn, bậc A-la-hán, Chánh Ðẳng Giác, Minh Hạnh Túc, Thiện Thệ, Thế Gian giải, Vô
 thượng sĩ, Ðiều Ngự Trượng Phu, Thiên Nhân Sư, Phật, Thế tôn. Vị ấy thành tựu tịnh tín bất động đối
@@ -199,7 +227,8 @@ không bị chấp trước, đưa đến Thiền định.
 Ðây là thành tựu bốn chi phần Dự lưu này. Thế nào Thánh chánh lý được khéo thấy, khéo thể nhập với
 trí tuệ?
 
-6. - Ở đây, này Gia chủ, vị Thánh đệ tử quán sát như sau: “Do cái này có, cái kia có. Do cái này sanh,
+<!--pg-->
+6\. - Ở đây, này Gia chủ, vị Thánh đệ tử quán sát như sau: “Do cái này có, cái kia có. Do cái này sanh,
 cái kia sanh. Do cái này không có, cái kia không có. Do cái này diệt, cái kia diệt. Tức là do duyên vô
 minh, có các hành. Do duyên các hành có thức. Do duyên thức có danh sắc. Do duyên danh sắc có sáu
 nhập. Do duyên sáu nhập có xúc. do duyên xúc có thọ. Do duyên thọ có ái. Do duyên ái có thủ. Do
@@ -218,14 +247,16 @@ chứng đạt cứu cánh giác ngộ.”
 
 **(III) (93) Kiến**
 
-1. Một thời, Thế Tôn trú ở Sàvatthi, Jetavana, tại khu vườn Anàthapindika. Bấy giờ có gia chủ
+<!--pg-->
+1\. Một thời, Thế Tôn trú ở Sàvatthi, Jetavana, tại khu vườn Anàthapindika. Bấy giờ có gia chủ
 Anàthapindika, vào buổi sáng thật sớm đi ra hỏi Sàvatthi để yết kiến Thế Tôn. Rồi gia chủ
 Anàthapindika suy nghĩ: “Nay không phải thời để yết kiến Thế Tôn. Thế Tôn đang Thiền tịnh. Cũng
 không phải thời để yến kiến các vị Tỷ-kheo đang tu tập về ý, các Tỷ-kheo tu tập về ý đang Thiền tịnh.
 Vậy ta hãy đi đến khu vườn các du sĩ ngoại đạo”. Vậy gia chủ Anàthapindika đi đến khu vườn các du sĩ
 ngoại đạo.
 
-2. Lúc bấy giờ, các du sĩ ngoại đạo đang ngồi hội họp, đang tụ họp ồn ào, cao tiếng, lớn tiếng bàn luận
+<!--pg-->
+2\. Lúc bấy giờ, các du sĩ ngoại đạo đang ngồi hội họp, đang tụ họp ồn ào, cao tiếng, lớn tiếng bàn luận
 những vấn đề phù phiếm. các du sĩ ngoại đạo ấy thấy gia chủ Anàthapindika từ xa đi đến, khi thấy vậy
 liền dặn dò bảo với nhau: “Hãy bớt ồn ào, các Tôn giả chớ có làm ồn, các tôn giả. Gia chủ
 Anàthapindika này đang đến, một đệ tử của Sa-môn Gotama, trong những đệ tử của Sa-môn Gotama có
@@ -233,7 +264,8 @@ gia đình mặc áo trắng ở Sàvatthi, gia chủ Anàthapindika là một t
 được huấn luyện trong ít ồn ào, tán thán ít ồn ào. Nếu vị ấy thấy hội chúng ít ồn ào, vị ấy có thể nghĩ đến
 thăm ở đây”. Rồi các du sĩ ngoại đạo ấy giữ im lặng.
 
-3. Rồi Gia chủ Anàthapinidika đi đến các du sĩ đạo ấy, sau khi đến, nói lên với các du sĩ ngoại đạo ấy
+<!--pg-->
+3\. Rồi Gia chủ Anàthapinidika đi đến các du sĩ đạo ấy, sau khi đến, nói lên với các du sĩ ngoại đạo ấy
 những lời chào đón hỏi thăm, sau khi nói lên những lời chào đón hỏi thăm thân hữu, liền ngồi xuống
 một bên. Các du sĩ ngoại đạo ấy nói với Gia chủ Anàthapidika đang ngồi một bên:
 
@@ -252,7 +284,8 @@ cả kiến của các Tỷ-kheo. Vậy này Gia chủ, hãy nói về kiến c�
 − Thưa các Tôn giả, thật không khó gì để chúng tôi trả lời về kiến của chúng tôi. Nhưng các Tôn hãy trả
 lời về kiến của các Tôn giả trước. Rồi sau thật không khó gì để chúng tôi trả lời về kiến của chúng tôi.
 
-4. Khi được nói vậy, một du sĩ ngoại đạo nói với gia chủ Anàthapindika: “Thường còn là thể giới. Kiến
+<!--pg-->
+4\. Khi được nói vậy, một du sĩ ngoại đạo nói với gia chủ Anàthapindika: “Thường còn là thể giới. Kiến
 này là sự thật. Kiến nào khác là hư vọng. Này Gia chủ, như vậy là kiến của tôi”. Một du sĩ ngoại đạo
 khác nói với gia chủ Anàthapindika: “Vô thường là thế giới. Kiến này là sự thật. Kiến nào khác là hư
 vọng. Như vậy là kiến của tôi.” Rồi một du sĩ ngoại đạo khác nói với gia chủ Anàthapindika: “Có biên tế
@@ -261,7 +294,8 @@ khác... Như Lai có tồn tại sau khi chết... Như Lai không có tồn t�
 không có tồn tại sau khi chết... Như Lai không có tồn tại và không tồn tại sau khi chết. Kiến này là sự
 thật. Kiến nào khác là hư vọng. Này Gia chủ, như vậy là kiến của tôi”.
 
-5. Khi nghe nói vậy, gia chủ Anàthapindika nói với các du sĩ ngoại đạo ấy:
+<!--pg-->
+5\. Khi nghe nói vậy, gia chủ Anàthapindika nói với các du sĩ ngoại đạo ấy:
 
 − Thưa các Tôn giả, Tôn giả nào nói như sau: “Thường còn là thế giới. Kiến này là sự thật. Kiến nào
 khác là hư vọng. Này Gia chủ, như vậy là kiến của tôi”. Kiến này của Tôn giả ấy, hoặc nhân tự mình tác
@@ -276,7 +310,8 @@ Gia chủ, như vậy là kiến của tôi”. Kiến này của Tôn giả ấ
 do duyên nghe tiếng người khác nói. kiến như vậy được sanh, được tác thành, do tâm suy tư, do duyên
 khởi lên. Và cái gì được sanh, được tác thành, do tâm suy tư, do duyên khởi lên, cái ấy là vô thường; cái
 gì vô thường, cái ấy là khổ; cái (khổ) ấy, Tôn giả chấp trước; cái khổ ấy Tôn giả chấp nhận.
-6. Khi được nói vậy, các du sĩ ngoại đạo ấy nói với gia chủ Anàthapindika:
+<!--pg-->
+6\. Khi được nói vậy, các du sĩ ngoại đạo ấy nói với gia chủ Anàthapindika:
 
 − Này Gia chủ, tất cả kiến của chúng tôi đã được nói lên. Này Gia chủ, hãy nói lên kiến của gia chủ là
 gì?
@@ -295,7 +330,8 @@ không phải là tôi, cái này không phải tự ngã của tôi”. Như v�
 Và tư nơi khổ ấy, tôi như thật rõ biết sự xuất ly hơn thế nữa. Khi nghe nói như vậy, các du sĩ ngoại đạo
 ấy ngồi im lặng, hoang mang, thụt vai, cúi đầu, sững sờ, không nói lên lời.
 
-7. Rồi gia chủ Anàthapinika, sau khi biết các du sĩ ngoại đạo ấy im lặng, hoang mang, thụt vai, cúi đầu,
+<!--pg-->
+7\. Rồi gia chủ Anàthapinika, sau khi biết các du sĩ ngoại đạo ấy im lặng, hoang mang, thụt vai, cúi đầu,
 sững sờ, không nói lên lời, tư chỗ ngồi đứng dậy, đi đến Thế Tôn, sau khi đến, đảnh lễ Thế tôn rồi
 xuống một bên. Ngồi xuống một bên, gia chủ Anàthapindika, câu chuyện với các du sĩ ngoại đạo ấy như
 thế nào thuật lại tất cả cho Thế Tôn rõ:
@@ -306,7 +342,8 @@ cho phấn khởi, làm cho hoan hỷ Gia chủ Anàthapindika. Rồi Gia chủ 
 Tôn với bài pháp thuyết giảng, khích lệ, làm cho phấn khởi, làm cho hoan hỷ, từ chỗ ngồi đứng dậy
 đảnh lễ Thế Tôn, thân bên hữu hướng về Ngài rồi ra đi.
 
-8. Rồi Thế Tôn, sau khi gia chủ Anàthapindika ra đi không bao lâu, bảo các vị Tỷ-kheo:
+<!--pg-->
+8\. Rồi Thế Tôn, sau khi gia chủ Anàthapindika ra đi không bao lâu, bảo các vị Tỷ-kheo:
 
 − Tỷ-kheo nào dầu đã được đầy đủ 100 năm an cư mùa mưa trong Pháp và Luật này, vị ấy cần phải như
 vậy, thường thường bác bỏ các du sĩ ngoại đạo, với sự khéo bác bỏ nhờ Chánh pháp, như gia chủ
@@ -314,19 +351,22 @@ Anàhtapindika đã khéo bác bỏ.
 
 **(IV) (94) Vajjiyamahita**
 
-1. Một thời, Thế Tôn trú ở Campà trên bờ ao Gaggarà. Rồi gia chủ Vajjiyamàhita, vào buổi sáng sớm đi
+<!--pg-->
+1\. Một thời, Thế Tôn trú ở Campà trên bờ ao Gaggarà. Rồi gia chủ Vajjiyamàhita, vào buổi sáng sớm đi
 ra khỏi Campà, đến yết kiến Thế Tôn. rồi gia chủ Vajjiyamàhita suy nghĩ: “Nay không phải thời để yết
 kiến Thế tôn, Thế Tôn đang thiền tịnh. Cũng không phải thời để yết kiến các Tỷ-kheo đang tu tập về ý,
 các Tỷ-kheo đang tu tập về ý đang thiền tịnh. Vậy hãy đi đến khu vườn các tu sĩ ngoại đạo” Rồi gia chủ
 Vajjiyamàhita đi đến khu vườn các du sĩ ngoại đạo.
 
-2. Lúc bấy giờ, các du sĩ ngoại đạo đang ngồi hội họp đang tụ họp, ồn ào, cao tiếng, lớn tiếng bàn luận
+<!--pg-->
+2\. Lúc bấy giờ, các du sĩ ngoại đạo đang ngồi hội họp đang tụ họp, ồn ào, cao tiếng, lớn tiếng bàn luận
 những vấn đề phù phiếm. các du sĩ ngoại đạo ấy thấy gia chủ Vajjiyamàhita từ xa đi đến, khi thấy vậy,
 liền dặn dò bảo với nhau: “Hãy bớt ồn ào, các tôn giả, chớ làm ồn, các Tôn giả, gia chủ Vajjiyamàhita
 này đang đến, một đệ tử của Sa-mô Gotama, có gia đình mặt trắng ở Campà. Gia chủ Vajjiyamàhita là
 một trong những vị ấy, các vị ấy ưa ít ồn ào, được huấn luyện trong ít ồn ào, tán thán ít ồn ào. Nếu vị ấy
 thấy hội chúng ít ồn ào, vị ấy có thể nghĩ đến thăm ở đây.” Rồi các du sĩ ngoại đạo ấy giữ im lặng.
-3. Rồi gai chủ Vajjiyamàhita đi đến các du sĩ ngoại đạo ấy; sau khi đến, nói lên với các du sĩ ngoại đạo
+<!--pg-->
+3\. Rồi gai chủ Vajjiyamàhita đi đến các du sĩ ngoại đạo ấy; sau khi đến, nói lên với các du sĩ ngoại đạo
 ấy những lời chào đón hỏi thăm, sau khi nói lên những lời chào đón hỏi thăm thân hữu, liền ngồi xuống
 một bên. Các di sĩ ngoại đạo ấy nói với gia chủ Vajjiyamàhita đang ngồi một bên:
 
@@ -338,7 +378,8 @@ hạnh, mọi nếp sống kham khổ. Thưa các Tôn giả, Thế tôn chỉ t
 đáng tán thán. Thưa các Tôn giả, Thế Tôn chỉ trích cái gì đáng chỉ trích, tán thán cái gì đáng tán thán,
 như vậy Thế Tôn là người phân tích luận, không phải là người nhất hướng luận (nói một chiều).
 
-4. Ðược nói vậy, một du sĩ nói với gia chủ Vajjiyamàhita: “Thôi chờ ở đây, này Gia chủ, Gia chủ tán
+<!--pg-->
+4\. Ðược nói vậy, một du sĩ nói với gia chủ Vajjiyamàhita: “Thôi chờ ở đây, này Gia chủ, Gia chủ tán
 thán Sa-môn Gotama và Sa-môn Gotama là người hư vô, một người không bao giờ có định nghĩa rõ
 ràng.
 
@@ -348,12 +389,14 @@ thiện, đây là bất thiện, Thế tôn đã định nghĩa. Thế tôn là
 phải là người chủ trương hư vô, không phải là người không có định nghĩa rõ ràng”. Khi được nói vậy,
 các du sĩ ấy im lặng, hoang mang, thụt vai, cúi đầu, sững sờ, không nói nên lời.
 
-5. Rồi gia chủ Vajjiyamàhita, sau khi biết các du sĩ ngoại đạo ấy im lặng, hoang mang, thụt cai, cúi đầu,
+<!--pg-->
+5\. Rồi gia chủ Vajjiyamàhita, sau khi biết các du sĩ ngoại đạo ấy im lặng, hoang mang, thụt cai, cúi đầu,
 sững sờ không nói nên lời, từ chỗ ngồi đứng dậy, đi đến Thế Tôn, sau khi đến, đảnh lễ Thế Tôn rồi ngồi
 xuống một bên. Ngồi xuống một bên, gia chủ Vajjiyamàhita, câu chuyện với các du sĩ ngoại đạo như thế
 nào, tất cả đều thuật lại cho Thế Tôn rõ.
 
-6. - Lành thay, lành thay, này Gia chủ, những kẻ ngu si ấy thường thường cần phải được bác bỏ với sự
+<!--pg-->
+6\. - Lành thay, lành thay, này Gia chủ, những kẻ ngu si ấy thường thường cần phải được bác bỏ với sự
 khéo bác bỏ nhờ Chánh pháp. Này Gia chủ, Ta không nói rõ rằng, tất cả khổ hạnh cần phải hành trì. Này
 Gia chủ, Ta cũng không nói rằng tất cả sự chấp trì cần phải được chấp trì. Này Gia chủ, Ta cũng không
 nói rằng tất cả sự chấp trì không nên chấp trì. Này Gia chủ, Ta cũng không nói rằng tất cả sự tinh cần
@@ -362,7 +405,8 @@ Ta cũng không nói rằng, tất cả sự từ bỏ nên từ bỏ. Này Gia 
 không nên từ bỏ. Này Gia chủ, Ta cũng không nói rằng tất cả sự giải thoát nên giải thoát. Này Gia chủ,
 Ta cũng không nói rằng, tất cả sự giải thoát không nên giải thoát.
 
-7. Này Gia chủ, phàm hành trì khổ hạnh nào, các pháp bất thiện tăng trưởng, các pháp thiện tổn giảm,
+<!--pg-->
+7\. Này Gia chủ, phàm hành trì khổ hạnh nào, các pháp bất thiện tăng trưởng, các pháp thiện tổn giảm,
 khổ hạnh ấy, Ta nói, không nên hành trì. Nhưng này Gia chủ, phàm hành trì khổ hạnh nào, cá pháp bất
 thiện tổn giảm, các pháp thiện tăng trưởng, khổ hạnh ấy Ta nói nên hành trì. Này Gia chủ, phàm chấp trì
 nào, các pháp bất thiện tăng trưởng, các pháp thiện tổn giảm, chấp trì ấy, Ta nói, không nêm chấp hành.
@@ -425,7 +469,8 @@ nào khác là hư vọng.”
 ngộ”, thời do vậy, cả thế giới này sẽ đi ra khỏi, hay chỉ có một nữa, hay chỉ có một phần ba? Ðược nghe
 nói vậy, Thế Tôn im lặng.
 
-3. Rồi Tôn giả Ananda suy nghĩ như sau: “Chớ có để cho du sĩ Uttiya có ác tà kiến rằng: “Sa-môn
+<!--pg-->
+3\. Rồi Tôn giả Ananda suy nghĩ như sau: “Chớ có để cho du sĩ Uttiya có ác tà kiến rằng: “Sa-môn
 Gotama khi được nghe ta hỏi câu hỏi tối ư quan trọng lại tránh né, không có trả lời, không dám trả lời,
 và như vậy là bất hạnh, là đau khổ lau dài cho du sĩ Uttiya.” Rồi Tôn giả Ananda nói với du sĩ Uttiya:
 
@@ -447,7 +492,8 @@ Tôn đứng trên một lập trường khác. Ðó là lý do tại sao Thế 
 
 **(VI) (96) Kokanuda**
 
-1. Một thời, Tôn giả Ananda trú ở Ràjagaha, tại suối nước nóng Tapodàràma. Rồi Tôn giả Ananda khi
+<!--pg-->
+1\. Một thời, Tôn giả Ananda trú ở Ràjagaha, tại suối nước nóng Tapodàràma. Rồi Tôn giả Ananda khi
 đêm vừa mới sáng, thức dậy đi đến Tapodàràma để rửa tay chân. Rửa tay chân xong, ở Tapodà, sau khi
 ra khỏi, Tôn giả đứng đắp một y để phơi tay chân cho khô. Bấy giờ có tu sĩ Kokanuda, khi đêm vừa mới
 sáng, thức dậy đi đến Tapodà để rửa tay chân. Du sĩ Kokanuda thấy Tôn giả Ananda từ xa đi đến, sau
@@ -466,7 +512,8 @@ khi thấy, nói với Tôn giả Ananda:
 − Nếu Hiền giả cho tôi cơ hội để trả lời câu hỏi, thì nay Hiền giả, hãy hỏi đi. Sau khi nghe, chúng tôi sẻ
 được biết.
 
-2. - Thưa Hiền giả, có phải: “Thế giới là thường còn. Kiến này là sự thật, kiến nào khác là hư vọng, kiến
+<!--pg-->
+2\. - Thưa Hiền giả, có phải: “Thế giới là thường còn. Kiến này là sự thật, kiến nào khác là hư vọng, kiến
 là như vậy.” Có phải không Hiền giả?
 
 − Thưa Hiền giả, tôi không có kiến như vậy: “Thế giới là thường còn. Kiến này là sự thật, kiến nào khác
@@ -492,7 +539,8 @@ Kiến này là sự thật, kiến nào khác là hư vọng”.
 − Thưa Hiền giả, không phải tôi không hết, không phải tôi không thấy. Thưa Hiền giả, tôi có biết, tôi có
 thấy.
 
-3. - Có phải thưa Hiền giả, “Thế giới là thường còn. Kiến này là sự thật, kiến nào khác là hư vọng”?
+<!--pg-->
+3\. - Có phải thưa Hiền giả, “Thế giới là thường còn. Kiến này là sự thật, kiến nào khác là hư vọng”?
 Ðược hỏi vậy, Hiền giả nói: “Thưa Hiền giả, tôi không có kiến như vậy: “Thế giới là thường còn. Kiến
 này là sự thật, kiến nào là khác là hư vọng”. Có phải thưa Hiền giả: “Thế giới là vô thường. Kiến này là
 sự thật, kiến nào khác là hư vọng”? ... “Thế giới là có biên tế... Thế giới là vô biên... “Sinh mạng và thân
@@ -505,7 +553,8 @@ Hiền giả không thấy? “Ðược hỏi vậy, Hiền giả nói: “Thưa
 phải tôi không thấy. Thưa Hiền giả: tôi có biết, tôi có thấy”. Vậy thưa hiền giả, “cần phải hiểu như thế
 nào, ý nghĩa lời nói này? “
 
-4. - “Thế giới là thường còn. Kiến này là sự thật, kiến nào khác là hư vọng”. Thưa Hiền giả, đây là tà
+<!--pg-->
+4\. - “Thế giới là thường còn. Kiến này là sự thật, kiến nào khác là hư vọng”. Thưa Hiền giả, đây là tà
 kiến. “Thế giới là vô thường. Kiến này là sự thật, kiến nào khác là hư vọng”. Thưa Hiền giả, đây là tà
 kiến. “Thế giới có biên tế... “Thế giới không biên tế... “Sinh mạng và thân thể là một... “Sinh mạng và
 thân thể là khác... “Như Lai có tồn tại sau khi chết... “Như Lai không có tồn tại sau khi chết... “Như Lai
@@ -524,29 +573,37 @@ Tôn giả Ananda, tôi đã không nói nhiều như vậy, mong Tôn giả Ana
 
 **(VII) (97) Ðáng Ðảnh Lễ**
 
-1. - Thành tựu mười pháp, này các Tỷ-kheo, Tỷ-kheo đáng được cung kính, đáng được tôn trọng, đáng
+<!--pg-->
+1\. - Thành tựu mười pháp, này các Tỷ-kheo, Tỷ-kheo đáng được cung kính, đáng được tôn trọng, đáng
 được đảnh lễ, đáng được chắp tay, là phước điền vô thượng ở đời. Thế nào là muời?
-2. Ở đây, này các Tỷ-kheo, Tỷ-kheo có giới sống chế ngự với sự chế ngự cửa giới bổn Pàtimokkha, đầy
+<!--pg-->
+2\. Ở đây, này các Tỷ-kheo, Tỷ-kheo có giới sống chế ngự với sự chế ngự cửa giới bổn Pàtimokkha, đầy
 đủ uy nghi chánh hạnh, thấy sợ hãi trong các lỗi nhỏ nhặt, chấp nhận và học tập trong học pháp.
 
-3. Là vị nghe nhiều, thọ trì điều đã nghe, cất chứa điều đã nghe. Các pháp nào sơ thiện, trung thiện, hậu
+<!--pg-->
+3\. Là vị nghe nhiều, thọ trì điều đã nghe, cất chứa điều đã nghe. Các pháp nào sơ thiện, trung thiện, hậu
 thiện, có nghĩa, có văn, tán thán đời sống Phạm hạnh hoàn toàn viên mãn thanh tịnh, các pháp như vậy
 nghe hiểu, được thọ trì, được tụng đọc bằng lời, được quán sát với ý, được khéo thể nhập với chánh
 kiến.
 
-4. Là người bạn với thiện, là thân hữu với thiện thiết với thiện.
+<!--pg-->
+4\. Là người bạn với thiện, là thân hữu với thiện thiết với thiện.
 
-5. Có chánh kiến, thành tựu chánh tri kiến.
+<!--pg-->
+5\. Có chánh kiến, thành tựu chánh tri kiến.
 
-6. Chứng được nhiều loại thần thông, một thân hiện ra nhiều thân, nhiều thân hiện ra một thân; hiện
+<!--pg-->
+6\. Chứng được nhiều loại thần thông, một thân hiện ra nhiều thân, nhiều thân hiện ra một thân; hiện
 hình, biến hình đi ngang qua vách, qua tường, qua núi, như đi ngang qua hư không; độn thổ, trồi lên qua
 đất liền như ở trong nước; đi trong nước không chìm như đi trên đất liền; ngồi kiết già du hành trên hư
 không như con chim; với bàn tay chạm rờ mặt trăng và mặt trời, những vật có đại oai lực, đại oai thần
 như vậy, có thể tự thân bay đến cõi Phạm thiên.
 
-7. Có thiên nhĩ thanh tịnh siêu nhân, có thể nghe hai loại tiếng chư thiên và Loài Người, xa và gần.
+<!--pg-->
+7\. Có thiên nhĩ thanh tịnh siêu nhân, có thể nghe hai loại tiếng chư thiên và Loài Người, xa và gần.
 
-8. Sau khi đi sâu vào tâm của chúng sanh, của lời Người với tâm của mình, vị ấy được biết như sau:
+<!--pg-->
+8\. Sau khi đi sâu vào tâm của chúng sanh, của lời Người với tâm của mình, vị ấy được biết như sau:
 “Tâm có tham biết là tâm có tham; tâm không tham biết là tâm không tham.” “Tâm có sân biết là tâm có
 sân; tâm không sân biết là tâm không sân.” “Tâm có si biết là tâm có si; tâm không si biết biết là tâm
 không si.” “Tâm chuyên chú biết là tâm chuyên chú; tâm tán loạn biết là tâm tán loạn; “Ðại hành tâm
@@ -554,7 +611,8 @@ biết là đại hành tâm, không phải đạt hành tâm, biết là không
 biết là tâm vô thượng.” “Tâm Thiền định biết là tâm không Thiền định.” “Tâm giải thoát biết là tâm tâm
 giải thoát; tâm không giải thoát biết là tâm không giải thoát.”
 
-9. Vị ấy nhớ đến nhiều đời sống quá khứ, như một đời, hai đời, ba đời, bốn đời, năm đời, mười đời, hai
+<!--pg-->
+9\. Vị ấy nhớ đến nhiều đời sống quá khứ, như một đời, hai đời, ba đời, bốn đời, năm đời, mười đời, hai
 mươi đời, ba mươi đời, bốn mươi đời, năm mươi đời, một trăm đời, hai trăm đời, một ngàn đời, một
 trăm ngàn đời, nhiều hoại kiếp, nhiều thành kiếp, nhiều loại và thành kiếp. Vị ấy nhớ rằng: “Tại chỗ kia
 ta có tên như thế này, dòng họ như thế này, giai cấp như thế này, đồ ăn uống như thế này, thọ khổ lạc
@@ -563,7 +621,8 @@ như thế này, tuổi thọ đến mức như thế này. Sau khi chết tại
 thế này, tuổi thọ đến mức như thế này. Sau khi chết tại chỗ nọ, ta được sanh ở đây”. Như vậy, ta nhớ đến
 nhiều đời sống quá khứ cùng với các nét đại cương và các chi tiết.
 
-10. Vị ấy với thiên nhãn thanh tịnh siêu nhân, biết trí tuệ về sanh tử của chúng sanh, thấy sự sống và
+<!--pg-->
+10\. Vị ấy với thiên nhãn thanh tịnh siêu nhân, biết trí tuệ về sanh tử của chúng sanh, thấy sự sống và
 chết của chúng sanh. Vị ấy biết rõ rằng chúng sanh người hạ liệt, kẻ cao sang, người đẹp đẽ, kẻ thô xấu,
 người may mắn, kẻ bất hạnh đều do hạnh nghiệp của họ. Này các Hiền giả, những vị này, làm những ác
 hạnh về thân, ngữ và ý, phỉ báng các bậc Thánh, theo tà kiến, tạo các nghiệp theo tà kiến. Những vị này,
@@ -574,17 +633,20 @@ lên các thiện thú, cõi Trời, trên đời này. Như vậy, vị ấy v�
 chết của chúng sanh. Vị ấy biết rõ rằng chúng sang, người hạ liệt, kẻ cao sang, người đẹp đẽ, kẻ thô xấu,
 người may mắn, kẻ bất hạnh đều do hạnh nghiệp của họ.
 
-11. Do đoạn tận các lậu hoặc, vị ấy ngay trong hiện tại, tự mình với thắng trí, chứng ngộ chứng đạt, và
+<!--pg-->
+11\. Do đoạn tận các lậu hoặc, vị ấy ngay trong hiện tại, tự mình với thắng trí, chứng ngộ chứng đạt, và
 an trú vô lậu tâm giải thoát, tuệ giải thoát.
 Này các Tỷ-kheo, thành tựu mười pháp này vị Tỷ-kheo đáng được cung kính, đáng được tôn trọng, đáng
 được đảnh lễ, đáng được cúng dường, đáng được chắp tay, là phước điền vô thượng ở đời.
 
 **(VIII) (98) Vị Trưởng Lão**
 
-1. Thành tựu mười pháp này, này các Tỷ-kheo, vị trưởng lão tại địa phương bài vị ấy trú, vị ấy trú an ổn.
+<!--pg-->
+1\. Thành tựu mười pháp này, này các Tỷ-kheo, vị trưởng lão tại địa phương bài vị ấy trú, vị ấy trú an ổn.
 Thế nào là mười?
 
-2. Vị trưởng lão đã lâu ngày được biết đến, xuất gia đã lâu ngày có giới... chấp nhận và học hỏi trong
+<!--pg-->
+2\. Vị trưởng lão đã lâu ngày được biết đến, xuất gia đã lâu ngày có giới... chấp nhận và học hỏi trong
 các học pháp; là vị nghe nhiều.... khéo thể nhập với chánh kiến; cả hai giới bổn Pàtimokkha được khéo
 truyền đạt một cách rộng rãi, được khéo phân tích, khéo thông hiểu, khéo quốc doanh theo kinh, theo chi
 tiết, vị ấy thiện xảo trong sự sanh khởi và chấm dứt các tránh sự, ưa thích pháp; dùng lời ái ngữ, hết sức
@@ -599,17 +661,20 @@ sống được an ổn.
 
 **(IX) (99) Upàli**
 
-1. Bấy giờ có Tôn gia Upàli đi đến Thế Tôn, sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Ngồi
+<!--pg-->
+1\. Bấy giờ có Tôn gia Upàli đi đến Thế Tôn, sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Ngồi
 xuống một bên, Tôn giả Upàli bạch Thế Tôn:
 
 − Bạch Thế Tôn, con muốn sống trong rừng núi cao nguyên, tại các trú xứ xa vắng.
 
-2. Này Upàli, không dễ dàng là sống tại các rừng núi cao nguyên, các trú xứ xa vắng, kk1 là đời sống
+<!--pg-->
+2\. Này Upàli, không dễ dàng là sống tại các rừng núi cao nguyên, các trú xứ xa vắng, kk1 là đời sống
 viễn ly, khó ưa thích là đời sống độc cư. Ta nghĩ rằng: “Các ngôi rừng làm loạn ý Tỷ-kheo chưa được
 Thiền định, tôi sẽ sống tại các rừng núi cao nguyên, tại các trú xứ xa vắng”, thời người ấy được chờ đợi
 như sau: “Vị ấy sẽ chìm xuống (đáy) hay nổi lên (mặt nước)”.
 
-3. Ví như, này Upàli, một hồ nước lớn, có con voi lớn đi đến, bảy thước hay tám thước cao. Con voi ấy
+<!--pg-->
+3\. Ví như, này Upàli, một hồ nước lớn, có con voi lớn đi đến, bảy thước hay tám thước cao. Con voi ấy
 suy nghĩ: “Ta hãy lặn vào hồ nước này, rồi chơi trò chơi rửa tai, rồi chơi trò chơi rửa lưng; sau khi chơi
 trò rửa tai, sau khi chơi trò chơi rửa lưng, sau khi tắm, sau khi uống nước, sau khi từ hồ bước lên, ta đi
 chỗ nào ta muốn”. Rồi con voi ấy lặn vào hồ nước ấy, có thể chơi trò chơi rửa tai, có thể chơi trò chơi
@@ -629,7 +694,8 @@ hồ bước lên, ta sẽ đi chỗ nào ta muốn”. Rồi nó nhảy vào h�
 trong các rừng núi cao nguyên, tại các trú xứ xa vắng: “. Với vị ấy, được chờ đợi rằng: “Nó sẽ chìm
 xuống hay nổi trên mặt nước”.
 
-4. Ví như: này Upàli, một đứa trẻ, còn nhỏ, còn yếu, nằm ngửa, chơi với phân và nước tiểu của mình.
+<!--pg-->
+4\. Ví như: này Upàli, một đứa trẻ, còn nhỏ, còn yếu, nằm ngửa, chơi với phân và nước tiểu của mình.
 Thầy nghĩ thế nào, này Upàli, trò chơi con nít này có thiệt là toàn diện đầy đủ không?
 
 − Thưa có vậy, bạch Thế Tôn.
@@ -649,7 +715,8 @@ này, so sánh với các trò chơi trước có thù diệu hơn, thù thắng
 
 − Thưa có vậy, bạch Thế Tôn.
 
-5. Ở đây, này Upàli, Như Lai xuất hiện ở đồi, là bậc A-la-hán, Chánh Ðẳng Giác, Minh Hạnh Túc, Thiện
+<!--pg-->
+5\. Ở đây, này Upàli, Như Lai xuất hiện ở đồi, là bậc A-la-hán, Chánh Ðẳng Giác, Minh Hạnh Túc, Thiện
 Thệ, Thế Gian Giải, Vô Thượng Sĩ, Ðiều Ngự Trượng Phu, Thiên Nhân Sư, Phật, Thế Tôn. Như Lai sau
 khi tự chứng ngộ với thắng trí, tuyên bố cho biết về thế giới này, các chư Thiên, các ma, các Phạm thiên,
 với chúng Sa-Môn, Bà-la-môn, chư Thiên và loài Người. Ngài thuyết pháp sơ thiện, trung thiện, hậu
@@ -686,7 +753,8 @@ nào cũng mang theo hai cánh; cũng vậy, vị ấy bằng lòng với tấm 
 nuôi bụng, đi đến chỗ nào cũng mang theo. Vị ấy thành tựu với thành tựu giới uẩn này, nội tâm cảm thọ
 sự an lạc không có phạm lỗi.
 
-6. Vị ấy, khi mắt thấy sắc, không nắm giữ tướng chung, không nắm giữ tướng rei6ng. những nguyên
+<!--pg-->
+6\. Vị ấy, khi mắt thấy sắc, không nắm giữ tướng chung, không nắm giữ tướng rei6ng. những nguyên
 nhân gì, vì nhãn căn không được chế ngự, khiến tham ái ưu bi, các ác bất thiện pháp khỏi lên, vị ấy tự
 chế ngự nguyên nhân ấy, hộ trì nhãn căn, thật hành sự hộ trì nhãn căn. Khi tai nghe tiếng... mũi ngửi
 hương... lưỡi nếm vị... thân cảm xúc... ý nhận thức các pháp, vị ấy không nắm giữ tướng chung, không
@@ -694,7 +762,8 @@ nắm giữ tướng riêng. Những nguyên nhân gì ý căn không được c
 thiện pháp khởi lên, vị ấy chế ngự nguyên nhân ấy, hộ trì ý căn, thật hành sự hộ trì ý căn. Vị ấy thành
 tựu Thánh hộ trì các căn này, nên hưởng lạc thọ nội tâm, không có xen lẫn.
 
-7. Vị ấy khi đi tới, khi đi lui đều tỉnh giác; khi nhìn thẳng, khi nhìn quanh đều tỉnh giác; khi co tay; khi
+<!--pg-->
+7\. Vị ấy khi đi tới, khi đi lui đều tỉnh giác; khi nhìn thẳng, khi nhìn quanh đều tỉnh giác; khi co tay; khi
 duỗi tay đều tỉnh giác; khi mang y kép, bình bát, thượng y đều tỉnh giác; khi ăn, uống, nhai nuốt đều tỉnh
 giác; khi đi, đứng, ngồi, nằm, thức, nói, yên lặng đều tỉnh giác. Vị ấy thành tựu với Thánh giới uẩn này,
 thành tựu với Thánh hộ trì các căn này, thành tựu với Thánh chánh niệm tỉnh giác này, chọn một trú xứ
@@ -708,7 +777,8 @@ miên. Sau khi đoạn tận trạo hối, sống không trạo hối, với n�
 hối tiếc. Sau khi đoạn tận nghi ngờ, vị ấy sống thoát ly nghi ngờ, không phân vân lưỡng lự, gột rửa tâm
 hết nghi ngờ đối với thiện pháp.
 
-8. Vị ấy sau khi đoạn tận năm triền cái này, những pháp làm uế nhiễm tâm, làm hèn yếu trí tuệ, ly dục,
+<!--pg-->
+8\. Vị ấy sau khi đoạn tận năm triền cái này, những pháp làm uế nhiễm tâm, làm hèn yếu trí tuệ, ly dục,
 ly các pháp bất thiện, chứng đạt và an trú Thiền thứ nhất, một trạng thái hỷ lạc do ly dục sanh, có tầm,
 có tứ. Vì sao, này Upàli, có phải sự an trú này, sánh với các an trú trước, được thù diệu hơn, thù thắng
 hơn?
@@ -720,7 +790,8 @@ trú xứ xa vắng, cho đến khi mục đích của mình chưa đạt, thờ
 đích của mình chưa đạt, tức là định chưa đạt; thời không sống trong rừng núi cao nguyên tại các trú xứ
 xa vắng).
 
-9. Lại nữa, này Upàli, Tỷ-kheo làm cho tịnh chỉ tầm và tứ... chứng đạt và an trú Thiền thứ hai. Thầy
+<!--pg-->
+9\. Lại nữa, này Upàli, Tỷ-kheo làm cho tịnh chỉ tầm và tứ... chứng đạt và an trú Thiền thứ hai. Thầy
 nghĩ thế nào, này Upàli, có phải sự an trú này, sánh với những an trú trước, được thù diệu hơn, được thù
 thắng hơn?
 
@@ -729,7 +800,8 @@ thắng hơn?
 − Này Upàli, các đệ từ của Ta, khi quán thấy Pháp này trên tự ngã, họ mới đến ở các rừng núi cao
 nguyên, các trú xứ xa vắng. Họ sẽ không trú nếu mục đích của mình chưa đạt được.
 
-10. Lại nữa, này Upàli, Tỷ-kheo ly hỷ... chứng và trú Thiền thứ ba. Thầy nghĩ thế nào, này Upàli, có
+<!--pg-->
+10\. Lại nữa, này Upàli, Tỷ-kheo ly hỷ... chứng và trú Thiền thứ ba. Thầy nghĩ thế nào, này Upàli, có
 phải sự an trú này, sánh với những an trú trước, được thù diệu hơn, được thù thắng hơn?
 
 − Thưa có vậy, bạch Thế Tôn.
@@ -737,14 +809,17 @@ phải sự an trú này, sánh với những an trú trước, được thù di
 − Này Upàli, các đệ từ của Ta, khi quán thấy Pháp này trên tự ngã, họ mới đến ở các rừng núi, cao
 nguyên, các trú xứ xa vắng. Họ sẽ không trú nếu mục đích của mình chưa đạt được.
 
-11. Lại nữa, này Upàli, Tỷ-kheo đoạn lạc... chứng đạt và an trú Thiền thứ tư. Thầy nghĩ thế nào, này
+<!--pg-->
+11\. Lại nữa, này Upàli, Tỷ-kheo đoạn lạc... chứng đạt và an trú Thiền thứ tư. Thầy nghĩ thế nào, này
 Upàli... chưa đạt được...? ...
 
-12. Lại nữa, này Upàli, Tỷ-kheo vượt qua các sắc tưởng một cách hoàn toàn, chấm dứt các tưởng đối
+<!--pg-->
+12\. Lại nữa, này Upàli, Tỷ-kheo vượt qua các sắc tưởng một cách hoàn toàn, chấm dứt các tưởng đối
 ngại, không tác ý đến các tưởng sai biệt, nghĩ rằng: “Hư không là vô biên”, chứng đạt và an trú Không
 vô biên xứ. Thầy nghĩ thế nào, này Upàli...? ... mục đích của mình chưa đạt được.
 
-13. Lại nữa, này Upàli, Tỷ-kheo vượt qua một cách hoàn toàn Không vô biên xứ, nghĩ rằng: “Thức là vô
+<!--pg-->
+13\. Lại nữa, này Upàli, Tỷ-kheo vượt qua một cách hoàn toàn Không vô biên xứ, nghĩ rằng: “Thức là vô
 biên”, chứng đạt và an trú Thức vô biên xứ. Thầy nghĩ thế nào, này Upàli...? ... mục đích của mình chưa
 đạt được.
 
@@ -758,7 +833,8 @@ sự an trú này sanh với các an trú trước, được thù diệu hơn, �
 
 − Thưa có vậy, bạch Thế Tôn... mục đích của mình chưa đạt được.
 
-14. Lại nữa, này Upàli, Tỷ-kheo sau khi vượt qua một cách hoàn toàn Phi tưởng phi phi tưởng xứ, chứng
+<!--pg-->
+14\. Lại nữa, này Upàli, Tỷ-kheo sau khi vượt qua một cách hoàn toàn Phi tưởng phi phi tưởng xứ, chứng
 đạt và an trú Diệt thọ tưởng định, vị ấy sau khi thấy với trí tuệ, các lậu hoặc được đoạn tận. Thầy nghĩ
 thế nào, này Upàli, có phải sự an trú này sánh với các an trú trước, được thù diệu hơn, được thù thắng
 hơn?
@@ -772,15 +848,19 @@ Vậy này Upàli, Thầy hãy sống giữa chúng Tăng. Sống giữa chúng 
 
 **(X) (100) Không Thể Tăng Trưởng**
 
-1. Này các Tỷ-kheo, không đoạn tận mười pháp này, không có thể chứng ngộ quả A-la-hán. Thế nào là
+<!--pg-->
+1\. Này các Tỷ-kheo, không đoạn tận mười pháp này, không có thể chứng ngộ quả A-la-hán. Thế nào là
 mười?
 
-2. Tham, sân, si, phẫn nộ, hiềm hận, gièm pha, não hại, tật đố, xan tham, mạn.
+<!--pg-->
+2\. Tham, sân, si, phẫn nộ, hiềm hận, gièm pha, não hại, tật đố, xan tham, mạn.
 Không đoạn tận mười pháp này, này các Tỷ-kheo, không có thể chứng ngộ quả A-la-hán.
 
-3. Ðoạn tận mười pháp này, này các Tỷ-kheo, có thể chứng ngộ quả A-la-hán. Thế nào là mười?
+<!--pg-->
+3\. Ðoạn tận mười pháp này, này các Tỷ-kheo, có thể chứng ngộ quả A-la-hán. Thế nào là mười?
 
-4. Tham, sân, si, phẫn nộ, hiềm hận, gièm pha, não hại, tật đố, xan tham, mạn.
+<!--pg-->
+4\. Tham, sân, si, phẫn nộ, hiềm hận, gièm pha, não hại, tật đố, xan tham, mạn.
 
 Ðoạn tận mười pháp này, này các Tỷ-kheo, có thể chứng ngộ quả A-la-hán.
 

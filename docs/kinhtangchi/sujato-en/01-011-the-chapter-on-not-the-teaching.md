@@ -1,4 +1,4 @@
-## The Chapter on Not the Teaching
+# The Chapter on Not the Teaching
 
 ### N 1.140--149 *Adhammavagga*
 

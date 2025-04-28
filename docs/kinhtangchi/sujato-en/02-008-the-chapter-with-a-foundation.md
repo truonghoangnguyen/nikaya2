@@ -1,4 +1,4 @@
-## The Chapter with a Foundation
+# The Chapter with a Foundation
 
 ### N 2.77--86 *Sanimittavagga*
 
@@ -51,4 +51,3 @@ unskillful qualities do not occur."
 not without a conditioned basis. By giving up that conditioned basis,
 those bad, unskillful qualities do not occur."
 
-<!--pg-->

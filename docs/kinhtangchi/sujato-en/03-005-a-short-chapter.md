@@ -1,4 +1,4 @@
-## A Short Chapter
+# A Short Chapter
 
 ### N 3.41 Present  *Sammukhībhāvasutta*
 
@@ -8,6 +8,7 @@ present, and when those worthy of a religious donation are present. When
 these three things are present, a faithful gentleman creates much
 merit."
 
+<!--pg-->
 ### N 3.42 Three Grounds  *Tiṭhānasutta*
 
 "There are three grounds, mendicants, by which a person with faith and
@@ -22,6 +23,7 @@ grounds by which a person with faith and confidence can be known.
 > they've driven out the stain of stinginess:\
 > that's who's called a person of faith."
 
+<!--pg-->
 ### N 3.43 Good Reasons  *Atthavasasutta*
 
 "Mendicants, taking three reasons into consideration provides quite
@@ -33,6 +35,7 @@ audience understand the meaning and the teaching.
 Taking these three reasons into consideration provides quite enough
 motivation to teach Dhamma to another."
 
+<!--pg-->
 ### N 3.44 When Conversation Flows  *Kathāpavattisutta*
 
 "In three situations, mendicants, conversation flows. What three? When
@@ -41,6 +44,7 @@ understands the meaning and the teaching. When both the teacher and the
 audience understand the meaning and the teaching. These are the three
 situations in which conversation flows."
 
+<!--pg-->
 ### N 3.45 Recommended by the Astute  *Paṇḍitasutta*
 
 "Mendicants, these three things are recommended by astute true persons.
@@ -57,6 +61,7 @@ father. These are the three things recommended by astute true persons.
 > A noble one, having vision,\
 > will enjoy a world of grace."
 
+<!--pg-->
 ### N 3.46 Ethical  *Sīlavantasutta*
 
 "Mendicants, when ethical renunciates are supported by a town or
@@ -65,6 +70,7 @@ By way of body, speech, and mind. When ethical renunciates are supported
 by a town or village, the people there create much merit in these three
 ways."
 
+<!--pg-->
 ### N 3.47 Characteristics of the Conditioned  *Saṅkhatalakkhaṇasutta*
 
 "Mendicants, the conditioned has these three characteristics. What
@@ -79,6 +85,7 @@ arising is evident, no vanishing is evident, and no change while
 persisting is evident. These are the three characteristics of the
 unconditioned."
 
+<!--pg-->
 ### N 3.48 The King of Mountains  *Pabbatarājasutta*
 
 "Mendicants, great sal trees grow in three ways supported by the
@@ -113,6 +120,7 @@ these three ways supported by a family head with faith.
 > they delight in the heavenly realm,\
 > enjoying all the pleasures they desire."
 
+<!--pg-->
 ### N 3.49 Keen  *Ātappakaraṇīyasutta*
 
 "In three situations, mendicants, you should be keen. What three? You
@@ -128,6 +136,7 @@ keen to endure physical pain---sharp, severe, acute, unpleasant,
 disagreeable, life-threatening. This is called a mendicant who is keen,
 alert, and mindful so as to rightly make an end of suffering."
 
+<!--pg-->
 ### N 3.50 A Master Thief  *Mahācorasutta*
 
 "Mendicants, a master thief with three factors breaks into houses,
@@ -176,8 +185,4 @@ That's how a bad mendicant relies on powerful individuals.
 When a bad mendicant has these three qualities, they keep themselves
 broken and damaged. They deserve to be blamed and criticized by sensible
 people, and they create much wickedness."
-
-::: center
-*[the second fifty]{.smallcaps}*
-:::
 

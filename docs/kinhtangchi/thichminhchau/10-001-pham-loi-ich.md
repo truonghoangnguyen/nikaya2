@@ -2,7 +2,8 @@
 
 **(I) (1) Ý Nghĩa Gì**
 
-1. Như vầy tôi nghe:
+<!--pg-->
+1\. Như vầy tôi nghe:
 
 Một thời, Thế Tôn trú ở Savatthi, tại Jeta-vana, khu vườn ông Anàthapindika. Rồi Tôn gia Ananda đi
 đến Thế Tôn; sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên, Tôn giả Ananda bạch Thế Tôn:
@@ -43,7 +44,8 @@ hân hoan, có lợi ích hân hoan.
 
 Này Ananda, nhàm chán, ly tham có ý nghĩa giải thoát tri kiến, có lợi ích giải thoát tri kiến.
 
-2. Như vậy, này Ananda, các thiện giới có ý nghĩa không hối tiếc, có lợi ích không hối tiếc, không hối
+<!--pg-->
+2\. Như vậy, này Ananda, các thiện giới có ý nghĩa không hối tiếc, có lợi ích không hối tiếc, không hối
 tiếc có ý nghĩa hân hoan, có lợi ích hân hoan. Hân hoan có ý nghĩa hoan hỷ, có lợi ích khinh an. Khinh
 an có ý nghĩa an lạc, có lợi ích an lạc. An lạc có ý nghĩa định, có lợi ích định. Ðịnh có ý nghĩa như thật
 tri kiến, có lợi ích như thật tri kiến. Như thật tri kiến có ý nghĩa nhàm chán, ly tham, có lợi ích nhàm
@@ -53,7 +55,8 @@ này Ananda, các thiện giới thứ lớp dẫn tới tối thượng. Như v
 
 **(II) (2) Nghĩ Với Dụng Ý**
 
-1. - Này các Tỷ-kheo, với người có giới, có giới đầy đủ, không cần phải làm với dụng ý rằng: “Mong
+<!--pg-->
+1\. - Này các Tỷ-kheo, với người có giới, có giới đầy đủ, không cần phải làm với dụng ý rằng: “Mong
 rằng không hối tiếc sẽ sanh khởi nơi ta”. Pháp nhĩ là vậy, này Tỷ-kheo, với người có giới, có giới đầy
 đủ, không hối tiếc sanh khởi. Này các Tỷ-kheo, với người không hối tiếc, không cần phải làm với dụng
 ý rằng: “Mong rằng hân hoan sẽ sanh khởi nơi ta”. Pháp nhĩ là vậy, này các Tỷ-kheo, với người có
@@ -73,7 +76,8 @@ và ly tham. Này các Tỷ-kheo, người nhàm chán, ly tham không cần ph�
 sẽ chứng ngộ giải thoát tri kiến”. Pháp nhĩ là vậy, này các Tỷ-kheo, người nhàm chán, ly tham, chứng
 ngộ giải thoát tri kiến.
 
-2. Như vậy, này các Tỷ-kheo, nhàm chán lý tham có ý nghĩa giải thoát tri kiến, có lợi ích giải thoát tri
+<!--pg-->
+2\. Như vậy, này các Tỷ-kheo, nhàm chán lý tham có ý nghĩa giải thoát tri kiến, có lợi ích giải thoát tri
 kiến; như thật tri kiến có ý nghĩa nhàm chán, ly tham, có lợi ích nhàm chán, ly tham; định có ý nghĩa
 như thật tri kiến, có lợi như thật tri kiến; an lạc có ý nghĩa định, có lợi ích định; khinh an có ý nghĩa an
 lạc có lợi ích an lạc; hỷ có ý nghĩa khinh an, có lợi ích khinh an; hân hoan có ý nghĩa hỷ, có lợi ích hỷ;
@@ -83,7 +87,8 @@ pháp khiến các pháp khác viên mãn, đưa từ bờ bên này qua bờ b�
 
 **(III) (3) Sở Y**
 
-1. - Này các Tỷ-kheo, với ác giới, với phá giới, không hối tiếc, sơ y bị diệt. Với không có không hối tiếc,
+<!--pg-->
+1\. - Này các Tỷ-kheo, với ác giới, với phá giới, không hối tiếc, sơ y bị diệt. Với không có không hối tiếc,
 với hối tiếc không đầy đủ, hân hoan sở y bị diệt. Với hân hoan không có, với hân hoan không đầy đủ, hỷ
 sở y bị diệt. Với hỷ không có, với hỷ không đầy đủ, khinh an sở y bị diệt. Với khinh an không có, với
 khinh an không đầy đủ, an lạc sở y bị diệt. Với an lạc không có, với an lạc không đầy đủ, chánh định sở
@@ -115,7 +120,8 @@ _(Như kinh 3, chỉ khác ở đây là Tôn giả Ananda thuyết)._
 
 **(VI) (6) Ðịnh Do Bậc Ðạo Sư Thuyết**
 
-1. Bấy giờ Tôn giả Ananda đi đến Thế Tôn, sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Ngồi
+<!--pg-->
+1\. Bấy giờ Tôn giả Ananda đi đến Thế Tôn, sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Ngồi
 xuống một bên, Tôn giả Ananda bạch Thế Tôn:
 
 − Bạch Thế Tôn, có thể có chăng một Tỷ-kheo khi chứng được Thiền định như vậy, vị ấy có thể đi trong
@@ -133,7 +139,8 @@ tưởng phi phi tưởng xứ, không tưởng đến Phi tưởng phi phi tư�
 tưởng đến thế giới hiện tại; trong thế giới đời sau, không tưởng đến thế giới đời sau. Tuy vậy, vị ấy vẫn
 có tưởng.
 
-2. - Nhưng bạch Thế Tôn, như thế nào một Tỷ-kheo khi chứng được Thiền định như vậy, vị ấy có thể
+<!--pg-->
+2\. - Nhưng bạch Thế Tôn, như thế nào một Tỷ-kheo khi chứng được Thiền định như vậy, vị ấy có thể
 trong đất, không tưởng đến đất... trong thế giới đời sau, không tưởng đến thế giới đời sau; tuy vậy, vị ấy
 vẫn có tưởng?
 
@@ -145,7 +152,8 @@ tưởng.
 
 **(VII) (7) Ðịnh Do Tôn Giả Sariputta Thuyết**
 
-1. Bấy giờ Tôn giả Ananda đi đến Tôn giả Sàriputta, sau khi đến, nói lên với Tôn giả Sàriputta những lời
+<!--pg-->
+1\. Bấy giờ Tôn giả Ananda đi đến Tôn giả Sàriputta, sau khi đến, nói lên với Tôn giả Sàriputta những lời
 chào đón hỏi thăm, sau khi nói lên những lời chào đón hỏi thăm thân hữu, liền ngồi xuống một bên.
 Ngồi xuống một bên, Tôn giả Ananda nói với Tôn giả Sàriputta:
 
@@ -174,12 +182,14 @@ có tưởng.
 
 **(VIII) (8) Người Có Lòng Tin**
 
-1. - Vị Tỷ-kheo có lòng tin, này các Tỷ-kheo, nhưng không có giới. Như vậy, vị ấy về chi phần này
+<!--pg-->
+1\. - Vị Tỷ-kheo có lòng tin, này các Tỷ-kheo, nhưng không có giới. Như vậy, vị ấy về chi phần này
 không được viên mãn. Vị ấy cần phải làm cho viên mãn chi phần ấy, nghĩ rằng: “Làm thế nào để ta có
 lòng tin và có giới nữa? “. Này các Tỷ-kheo, khi nào Tỷ-kheo có lòng tin và có giới, như vậy về chi
 phần ấy, Tỷ-kheo có viên mãn.
 
-2. Và này các Tỷ-kheo, Tỷ-kheo có lòng tin, có giới nhưng không có nghe nhiều... có nghe nhiều nhưng
+<!--pg-->
+2\. Và này các Tỷ-kheo, Tỷ-kheo có lòng tin, có giới nhưng không có nghe nhiều... có nghe nhiều nhưng
 không có nói pháp... có nói pháp nhưng không thường tham gia với hội chúng... thường tham gia với hội
 chúng, nhưng không vô úy thuyết pháp chúng nhưng không trì luật... có trì luật, nhưng không phải là
 người ở rừng, ở các trú xứ xa vắng, là người ở rừng, ở các trú xứ xa vắng, nhưng đối với bốn Thiền

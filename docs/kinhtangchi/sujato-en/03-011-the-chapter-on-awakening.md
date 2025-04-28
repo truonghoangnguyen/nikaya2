@@ -1,4 +1,4 @@
-## The Chapter on Awakening
+# The Chapter on Awakening
 
 ### N 3.103 Before Awakening  *Pubbevasambodhasutta*
 
@@ -18,18 +18,19 @@ escape.'
 As long as I didn't truly understand the world's gratification,
 drawback, and escape in this way for what they are, I didn't announce my
 supreme perfect awakening in this world with its gods,
-[Māras]{lang="sa"}, and Divinities, this population with its ascetics
+Māras, and Divinities, this population with its ascetics
 and brahmins, its gods and humans.
 
 But when I did truly understand the world's gratification, drawback, and
 escape in this way for what they are, I announced my supreme perfect
-awakening in this world with its gods, [Māras]{lang="sa"}, and
+awakening in this world with its gods, Māras, and
 Divinities, this population with its ascetics and brahmins, its gods and
 humans.
 
 Knowledge and vision arose in me: 'My freedom is unshakable; this is my
 last rebirth; now there'll be no more future lives.'"
 
+<!--pg-->
 ### N 3.104 Gratification (1st)  *Paṭhamaassādasutta*
 
 "Mendicants, I went in search of the world's gratification, and I found
@@ -41,18 +42,19 @@ seen clearly with wisdom the full extent of escape from the world.
 
 As long as I didn't truly understand the world's gratification,
 drawback, and escape for what they are, I didn't announce my supreme
-perfect awakening in this world with its gods, [Māras]{lang="sa"}, and
+perfect awakening in this world with its gods, Māras, and
 Divinities, this population with its ascetics and brahmins, its gods and
 humans.
 
 But when I did truly understand the world's gratification, drawback, and
 escape for what they are, I announced my supreme perfect awakening in
-this world with its gods, [Māras]{lang="sa"}, and Divinities, this
+this world with its gods, Māras, and Divinities, this
 population with its ascetics and brahmins, its gods and humans.
 
 Knowledge and vision arose in me: 'My freedom is unshakable; this is my
 last rebirth; now there'll be no more future lives.'"
 
+<!--pg-->
 ### N 3.105 Gratification (2nd)  *Dutiyaassādasutta*
 
 "Mendicants, if there were no gratification in the world, sentient
@@ -69,17 +71,18 @@ escape from it.
 
 As long as sentient beings don't truly understand the world's
 gratification, drawback, and escape for what they are, they haven't
-escaped from this world---with its gods, [Māras]{lang="sa"}, and
+escaped from this world---with its gods, Māras, and
 Divinities, this population with its ascetics and brahmins, its gods and
 humans---and they don't live detached, liberated, with a mind free of
 limits.
 
 But when sentient beings truly understand the world's gratification,
 drawback, and escape for what they are, they've escaped from this
-world---with its gods, [Māras]{lang="sa"}, and Divinities, this
+world---with its gods, Māras, and Divinities, this
 population with its ascetics and brahmins, its gods and humans---and
 they live detached, liberated, with a mind free of limits."
 
+<!--pg-->
 ### N 3.106 Ascetics and Brahmins  *Samaṇabrāhmaṇasutta*
 
 "Mendicants, there are ascetics and brahmins who don't truly understand
@@ -94,6 +97,7 @@ true ascetics and brahmins. Those venerables realize the goal of life as
 an ascetic or brahmin, and live having realized it with their own
 insight."
 
+<!--pg-->
 ### N 3.107 Wailing  *Ruṇṇasutta*
 
 "Singing is regarded as wailing in the training of the Noble One.
@@ -101,15 +105,17 @@ Dancing is regarded as madness. Too much laughter, showing the teeth, is
 regarded as childish. So break off singing and dancing; and when you're
 appropriately pleased, it's enough to simply smile."
 
+<!--pg-->
 ### N 3.108 Satisfaction  *Atittisutta*
 
 "Mendicants, there are three indulgences that never satisfy. What three?
 Sleep, drinking beer and wine, and sexual intercourse. These are the
 three indulgences that never satisfy."
 
+<!--pg-->
 ### N 3.109 Unprotected  *Arakkhitasutta*
 
-Then the householder [Anāthapiṇḍika]{lang="sa"} went up to the Buddha,
+Then the householder Anāthapiṇḍika went up to the Buddha,
 bowed, and sat down to one side. The Buddha said to him:
 
 "Householder, when the mind is unprotected, deeds of body, speech, and
@@ -136,10 +142,11 @@ In the same way, when the mind is protected, bodily, verbal, and mental
 deeds are protected. ... Someone whose deeds of body, speech, and mind
 aren't rotten will have a good death."
 
+<!--pg-->
 ### N 3.110 Fallen  *Byāpannasutta*
 
 Seated to one side, the Buddha said to the householder
-[Anāthapiṇḍika]{lang="sa"}:
+Anāthapiṇḍika:
 
 "Householder, when the mind is fallen, bodily, verbal, and mental deeds
 are fallen. Someone whose deeds of body, speech, and mind are fallen
@@ -156,6 +163,7 @@ mind is not fallen, bodily, verbal, and mental deeds are not fallen.
 Someone whose deeds of body, speech, and mind are not fallen will have a
 good death."
 
+<!--pg-->
 ### N 3.111 Sources (1st)  *Paṭhamanidānasutta*
 
 "Mendicants, there are these three sources that give rise to deeds. What
@@ -165,6 +173,7 @@ originated from greed, hate, or delusion---is unskillful, blameworthy,
 results in suffering, and leads to the creation of more deeds, not their
 cessation. These are three sources that give rise to deeds.
 
+<!--pg-->
 There are these three sources that give rise to deeds. What three?
 Contentment, love, and understanding are sources that give rise to
 deeds. Any deed that emerges from contentment, love, or
@@ -173,6 +182,7 @@ understanding---is skillful, blameless, results in happiness, and leads
 to the cessation of more deeds, not their creation. These are three
 sources that give rise to deeds."
 
+<!--pg-->
 ### N 3.112 Sources (2nd)  *Dutiyanidānasutta*
 
 "Mendicants, there are these three sources that give rise to deeds. What
@@ -189,6 +199,7 @@ desire and greed in the past, future, or present.
 
 These are three sources that give rise to deeds.
 
+<!--pg-->
 There are these three sources that give rise to deeds. What three?
 Desire doesn't come up for things that stimulate desire and greed in the
 past, future, or present. And how does desire not come up for things

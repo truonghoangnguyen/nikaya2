@@ -1,4 +1,4 @@
-## The Chapter on Negligence (2nd)
+# The Chapter on Negligence (2nd)
 
 ### N 1.98--139 *Dutiyapamādādivagga*
 

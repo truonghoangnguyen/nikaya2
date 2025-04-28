@@ -2,13 +2,15 @@
 
 **(I) (41) Trở Thành Giàu**
 
-1. Như vầy tôi nghe:
+<!--pg-->
+1\. Như vầy tôi nghe:
 
 Một thời, Thế Tôn trú ở Sàvatthi, tại Jetavana, khu vườn ông Anàthapindika. Rồi gia chủ Anàthapindika
 đi đến Thế Tôn, sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Thế Tôn nói với gia chủ
 Anàthapindika đang ngồi một bên:
 
-2. - Này Gia chủ, có năm lý do này để gầy dựng tài sản. Thế nào là năm?
+<!--pg-->
+2\. - Này Gia chủ, có năm lý do này để gầy dựng tài sản. Thế nào là năm?
 
 Ở đây, này Gia chủ, vị Thánh đệ tử được tài sản nhờ nỗ lực tinh tấn, thâu góp với sức mạnh bàn tay,
 kiếm được do đổ mồ hôi ra, thâu được một cách hợp pháp; tự làm mình an lạc, hoan hỷ và chơn chánh
@@ -16,21 +18,25 @@ duy trì sự an lạc; làm cho mẹ cha an lạc, hoan hỷ và chơn chánh d
 phục vụ, các người làm công được an lạc, hoan hỷ và chơn chánh duy trì sự an lạc. Ðây là lý do thứ nhất
 để gây dựng tài sản.
 
-3. Lại nữa, này Gia chủ, vị Thánh đệ tử được tài sản nhờ nỗ lực tinh tấn, thâu góp với sức mạnh bàn tay,
+<!--pg-->
+3\. Lại nữa, này Gia chủ, vị Thánh đệ tử được tài sản nhờ nỗ lực tinh tấn, thâu góp với sức mạnh bàn tay,
 kiếm được do đổ mồ hôi ra, thâu được một cách hợp pháp. Vị ấy làm cho bạn bè thân hữu an lạc, hoan
 hỷ và chơn chánh duy trì sự an lạc. Ðây là lý do thứ hai để gầy dựng tài sản.
 
-4. Lại nữa, này Gia chủ, vị Thánh đệ tử được tài sản nhờ nỗ lực tinh tấn, thâu góp với sức mạnh bàn tay,
+<!--pg-->
+4\. Lại nữa, này Gia chủ, vị Thánh đệ tử được tài sản nhờ nỗ lực tinh tấn, thâu góp với sức mạnh bàn tay,
 kiếm được do đổ mổ hôi ra, thâu được một cách hợp pháp. Các tai họa từ lửa, từ nước, từ vua, từ ăn
 trộm, từ kẻ thù hay từ các người thừa tự được chận đứng, và vị ấy giữ tài sản được an toàn cho vị ấy.
 Ðây là lý do thứ ba để gầy dựng tài sản.
 
-5. Lại nữa, này Gia chủ, vị Thánh đệ tử được tài sản nhờ nỗ lực tinh tấn, thâu góp với sức mạnh bàn tay,
+<!--pg-->
+5\. Lại nữa, này Gia chủ, vị Thánh đệ tử được tài sản nhờ nỗ lực tinh tấn, thâu góp với sức mạnh bàn tay,
 kiếm được do đổ mồ hôi ra, thâu được một cách hợp pháp, có thể làm năm hiến cúng. Hiến cúng cho bà
 con, hiến cúng cho khách, hiến cúng cho hương linh đã chết (peta), hiến cúng cho vua, hiến cúng cho
 chư Thiên. Ðây là lý do thứ tư để gầy dựng tài sản.
 
-6. Lại nữa, này Gia chủ, vị Thánh đệ tử được tài sản nhờ nỗ lực tinh tấn, thâu góp với sức mạnh bàn tay,
+<!--pg-->
+6\. Lại nữa, này Gia chủ, vị Thánh đệ tử được tài sản nhờ nỗ lực tinh tấn, thâu góp với sức mạnh bàn tay,
 kiếm được do đổ mồ hôi ra, thâu được một cách hợp pháp, đối với các Sa-môn, Bà-la-môn nào ly kiêu
 mạn, ly phóng dật, an trú nhẫn nhục, nhu hòa, nhiếp phục tự mình, an tịnh tự mình, làm lắng dịu tự
 mình, đối với những Sa-môn, Bà-la-môn như vậy vị ấy tổ chức sự cúng dường tối thượng, đưa đến cảnh
@@ -38,7 +44,8 @@ giới chư Thiên, được quả dị thục, đưa đến cõi trời. Ðây 
 
 Này Gia chủ, có năm lý do này để gầy dựng tài sản.
 
-7. Này Gia chủ, đối với vị Thánh đệ tử gầy dựng tài sản với năm lý do này, khi tài sản đi đến hoại diệt,
+<!--pg-->
+7\. Này Gia chủ, đối với vị Thánh đệ tử gầy dựng tài sản với năm lý do này, khi tài sản đi đến hoại diệt,
 vị ấy suy nghĩ như sau: “Các tài sản do những lý do để gầy dựng, ta đã gầy dựng chúng. Nay các tài sản
 ấy của ta đi đến hoại diệt”, vị ấy không có hối hận. Này Gia chủ, đối với vị Thánh đệ gầy dựng tài sản
 với năm lý do này, nếu tài sản ấy đi đến tăng trưởng, vị ấy suy nghĩ như sau: “Các tài sản do những lý
@@ -65,12 +72,14 @@ _Trên cảnh giới chư Thiên._
 
 **(II) (42) Bậc Chân Nhân**
 
-1. - Bậc Chân nhân, này các Tỷ-kheo, sinh ra trong gia đình, đưa lại lợi ích, hạnh phúc và an lạc cho
+<!--pg-->
+1\. - Bậc Chân nhân, này các Tỷ-kheo, sinh ra trong gia đình, đưa lại lợi ích, hạnh phúc và an lạc cho
 nhiều người; đưa lại lợi ích, hạnh phúc và an lạc cho mẹ cha; đưa lại lợi ích, hạnh phúc và an lạc cho vợ
 con; đưa lại lợi ích, hạnh phúc và an lạc cho các người hầu hạ, làm công; đưa lại lợi ích, hạnh phúc và
 an lạc cho các bạn bè, thân hữu; đưa lại lợi ích, hạnh phúc và an lạc cho các Sa-môn, Bà-la-môn.
 
-2. Này các Tỷ-kheo, ví như trận mưa lớn đem lại các mùa gặt được nhiều chín muồi, đưa lại lợi ích,
+<!--pg-->
+2\. Này các Tỷ-kheo, ví như trận mưa lớn đem lại các mùa gặt được nhiều chín muồi, đưa lại lợi ích,
 hạnh phúc và an lạc cho nhiều người. Cũng vậy, này các Tỷ-kheo, bậc Chân nhân sanh ra trong gia đình,
 đưa lại lợi ích, hạnh phúc và an lạc cho nhiều người; đưa lại lợi ích, hạnh phúc và an lạc cho mẹ cha;
 đưa lại lợi ích, hạnh phúc và an lạc cho vợ con; đưa lại lợi ích, hạnh phúc và an lạc cho các người hầu
@@ -94,10 +103,12 @@ _Phạm Thiên cũng tán thán._
 
 **(III) (43) Khả Lạc**
 
-1. Rồi Gia chủ Anàthapindika đi đến Thế Tôn; sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên.
+<!--pg-->
+1\. Rồi Gia chủ Anàthapindika đi đến Thế Tôn; sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên.
 Thế Tôn nói với Gia chủ Anàthapindika đang ngồi một bên:
 
-2. - Có năm pháp này, này Gia chủ, khả lạc, khả hỷ, khả ý, khó tìm được ở đời. Thế nào là năm?
+<!--pg-->
+2\. - Có năm pháp này, này Gia chủ, khả lạc, khả hỷ, khả ý, khó tìm được ở đời. Thế nào là năm?
 
 Tuổi thọ khả lạc, khả hỷ, khả ý khó tìm được ở đời; dung sắc khả lạc, khả hỷ, khả ý khó tìm được ở đời;
 an lạc khả lạc, khả hỷ, khả ý khó tìm được ở đời; tiếng đồn tốt khả lạc, khả hỷ, khả ý khó tìm được ở
@@ -106,29 +117,34 @@ an lạc khả lạc, khả hỷ, khả ý khó tìm được ở đời; tiến
 Này Gia chủ, năm pháp này, khả lạc, khả ý khó tìm được ở đời. Này Gia chủ, năm pháp khả lạc, khả hỷ,
 khả ý khó tìm được ở đời này, Ta tuyên bố không phải do nhân cầu xin, không phải do nhân ước vọng
 mà có được.
-3. Này Gia chủ, nếu năm pháp khả lạc, khả hỷ, khả ý khó tìm được ở đời này, do nhân cầu xin, do nhân
+<!--pg-->
+3\. Này Gia chủ, nếu năm pháp khả lạc, khả hỷ, khả ý khó tìm được ở đời này, do nhân cầu xin, do nhân
 ước vọng mà có được, thời ai ở đời này lại héo mòn vì một lẽ gì? Này Gia chủ, vị Thánh đệ tử muốn có
 thọ mạng, không có thể do cầu xin thọ mạng hay tán thán để làm nhân đem lại thọ mạng. Vị Thánh đệ tử
 muốn có thọ mạng cần phải thực hành con đường dẫn đến thọ mạng. Do vị ấy thực hành con đường dẫn
 đến thọ mạng, sự thực hành ấy đưa vị ấy nhận lãnh được thọ mạng, vị ấy nhận lãnh được thọ mạng hoặc
 Chư Thiên, hoặc loài Người.
 
-4. Này Gia chủ, vị Thánh đệ tử muốn có dung sắc, không có thể do cầu xin dung sắc hay tán thán để làm
+<!--pg-->
+4\. Này Gia chủ, vị Thánh đệ tử muốn có dung sắc, không có thể do cầu xin dung sắc hay tán thán để làm
 nhân đem lại dung sắc. Vị Thánh đệ tử muốn có dung sắc cần phải thực hành con đường dẫn đến dung
 sắc. Do vị ấy thực hành con đường dẫn đến dung sắc, sự thực hành ấy đưa vị ấy nhận lãnh được dung
 sắc, vị ấy nhận lãnh được dung sắc hoặc Chư Thiên, hoặc loài Người.
 
-5. Này Gia chủ, vị Thánh đệ tử muốn có an lạc, không có thể do cầu xin an lạc hay tán thán để làm nhân
+<!--pg-->
+5\. Này Gia chủ, vị Thánh đệ tử muốn có an lạc, không có thể do cầu xin an lạc hay tán thán để làm nhân
 đem đến an lạc. Vị Thánh đệ tử muốn có an lạc cần phải thực hành con đường dẫn đến an lạc. Do vị ấy
 thực hành con đường dẫn đến an lạc, sự thực hành ấy đưa đến vị ấy nhận lãnh được an lạc, vị ấy nhận
 lãnh được an lạc hoặc chư Thiên, hoặc loài Người.
 
-6. Này Gia chủ, vị Thánh đệ tử muốn có tiếng tốt, không có thể do cầu xin tiếng tốt hay tán thán để làm
+<!--pg-->
+6\. Này Gia chủ, vị Thánh đệ tử muốn có tiếng tốt, không có thể do cầu xin tiếng tốt hay tán thán để làm
 nhân đem đến tiếng tốt. Vị Thánh đệ tử muốn có tiếng tốt cần phải thực hành con đường dẫn đến tiếng
 tốt. Do vị ấy thực hành con đường dẫn đến tiếng tốt, sự thực hành ấy đưa vị ấy nhận lãnh được tiếng tốt,
 vị ấy nhận lãnh được tiếng tốt hoặc chư Thiên, hoặc loài Người
 
-7. Này Gia chủ, vị Thánh đệ tử muốn có được Thiên giới, không có do cầu xin Thiên giới hay tán thán
+<!--pg-->
+7\. Này Gia chủ, vị Thánh đệ tử muốn có được Thiên giới, không có do cầu xin Thiên giới hay tán thán
 để làm nhân đem đến Thiên giới. Vị thánh đệ tử muốn có Thiên giới cần phải thực hành con đường dẫn
 đến Thiên giới. Do vị ấy thực hành con đường dẫn đến Thiên giới, sự thực hành ấy đưa vị ấy nhận lãnh
 được Thiên giới, vị ấy nhận lãnh được Thiên giới.
@@ -152,11 +168,13 @@ _Bậc Trí giả, Hiền giả._
 
 **(VI) (44) Cho Các Vật Khả Ái**
 
-1. Một thời, Thế Tôn trú ở Vesàlì, rừng Ðại Lâm, tại giảng đường có nóc nhọn. Rồi Thế Tôn, vào buổi
+<!--pg-->
+1\. Một thời, Thế Tôn trú ở Vesàlì, rừng Ðại Lâm, tại giảng đường có nóc nhọn. Rồi Thế Tôn, vào buổi
 sáng đắp y, cầm y bát đi đến trú xứ của gia chủ Ugga người Vesàlì, sau khi đến, ngồi xuống trên chỗ đã
 soạn sẵn. Rồi gia chủ Ugga, người Vesàlì đi đến Thế Tôn, sau khi đến, đảnh lễ Thế Tôn, rồi ngồi xuống
 một bên. Ngồi xuống một bên, gia chủ Ugga, người Vesàlì bạch Thế Tôn:
-2. - Bạch Thế Tôn, con nghe như sau từ miệng Thế Tôn, con có nhận lãnh như sau từ miệng Thế Tôn:
+<!--pg-->
+2\. - Bạch Thế Tôn, con nghe như sau từ miệng Thế Tôn, con có nhận lãnh như sau từ miệng Thế Tôn:
 “Ai cho vật khả ý, nhận được điều khả ý”. Bạch Thế Tôn, con có cháo nấu từ hoa cây sàla thật là khả ý,
 có thể ăn được. Mong Thế Tôn nhận lấy cháo ấy, vì lòng từ ái!
 
@@ -243,11 +261,13 @@ _Tại chỗ vị ấy sanh._
 
 **(V) (45) Phước Ðiền**
 
-1. - Này các Tỷ-kheo, có năm nguồn sanh phước, nguồn sanh thiện này, là món ăn an lạc, thuộc Thiên
+<!--pg-->
+1\. - Này các Tỷ-kheo, có năm nguồn sanh phước, nguồn sanh thiện này, là món ăn an lạc, thuộc Thiên
 giới, là quả lạc di thục, dẫn đến cõi Trời, đưa đến khả lạc, khả hỷ, khả ý, hạng phúc, an lạc. Thế nào là
 năm?
 
-2. Này các Tỷ-kheo, vị Tỷ-kheo trong khi hưởng thọ y của ai, đạt đến và an trú vô lượng tâm định, như
+<!--pg-->
+2\. Này các Tỷ-kheo, vị Tỷ-kheo trong khi hưởng thọ y của ai, đạt đến và an trú vô lượng tâm định, như
 vậy là nguồn sanh phước vô lượng cho người ấy, là nguồn sanh thiện, là món ăn an lạc, thuộc Thiên
 giới, là quả lạc di thục, dẫn đến cõi Trời, đưa đến khả lạc, khả hỷ, khả ý, hạng phúc, an lạc.
 
@@ -261,7 +281,8 @@ cõi Trời, đưa đến khả lạc, khả hỷ, khả ý, hạnh phúc, an l�
 Này các Tỷ-kheo, năm nguồn sanh phước, nguồn sanh thiện này là món ăn an lạc, thuộc Thiên giới, dẫn
 đến cõi Trời, đưa đến khả lạc, khả hỷ, khả ý, hạnh phúc, an lạc.
 
-3. Và này các Tỷ-kheo, vị Thánh đệ tử thành tựu năm nguồn sanh phước, nguồn sanh thiện này, thời
+<!--pg-->
+3\. Và này các Tỷ-kheo, vị Thánh đệ tử thành tựu năm nguồn sanh phước, nguồn sanh thiện này, thời
 không dễ gì để nắm lấy một số lượng phước thiện, và nói rằng: “Có chừng ấy nguồn sanh phước, nguồn
 sanh thiện, món ăn an lạc, thuộc Thiên giới, là quả lạc dị thục dẫn đến cõi Trời, đưa đến khả lạc, khả hỷ,
 khả ý, hạnh phúc, an lạc”. Vì rằng cả khối phước thiện lớn được xem là vô số, vô lượng.
@@ -304,20 +325,25 @@ Những pháp này, này các Tỷ-kheo là năm cụ túc.
 1.- Này các Tỷ-kheo, có năm tài sản này. Thế nào là năm? Tín tài, giới tài, văn tài, thí tài, tuệ tài. Và này
 các Tỷ-kheo, thế nào là tín tài?
 
-2. Ở đây, này các Tỷ-kheo, vị Thánh đệ tử có lòng tin, tin tưởng vào sự giác ngộ của Như Lai: “Ðây là
+<!--pg-->
+2\. Ở đây, này các Tỷ-kheo, vị Thánh đệ tử có lòng tin, tin tưởng vào sự giác ngộ của Như Lai: “Ðây là
 Thế Tôn, Bậc La-hán, Chánh Ðẳng Giác,... Thiên Nhân Sư, Phật, Thế Tôn”. Này các Tỷ-kheo, đây gọi
 là tín tài. Và này các Tỷ-kheo, thế nào là giới tài?
 
-3. Ở đây, này các Tỷ-kheo, vị Thánh đệ tử từ bỏ sát sanh... từ bỏ đắm say rượu men, rượu nấu. Này các
+<!--pg-->
+3\. Ở đây, này các Tỷ-kheo, vị Thánh đệ tử từ bỏ sát sanh... từ bỏ đắm say rượu men, rượu nấu. Này các
 Tỷ-kheo, đây gọi là giới tài. Và này các Tỷ-kheo, thế nào là văn tài?
 
-4. Ở đây, này các Tỷ-kheo, vị Thánh đệ tử nghe được nhiều... khéo thể nhập với tri kiến. Này các Tỷkheo, đây gọi là văn tai. Và này các Tỷ-kheo, thế nào là thí tài?
+<!--pg-->
+4\. Ở đây, này các Tỷ-kheo, vị Thánh đệ tử nghe được nhiều... khéo thể nhập với tri kiến. Này các Tỷkheo, đây gọi là văn tai. Và này các Tỷ-kheo, thế nào là thí tài?
 
-5. Ở đây, này các Tỷ-kheo, vị Thánh đệ tử sống ở gia đình, tâm không bị cấu uế xan tham chi phối, bố
+<!--pg-->
+5\. Ở đây, này các Tỷ-kheo, vị Thánh đệ tử sống ở gia đình, tâm không bị cấu uế xan tham chi phối, bố
 thí rộng rãi, với bàn tay rộng mở, ưa thích từ bỏ, sẵn sàng để được yêu cầu, ưa thích phân phát vật bố
 thí. Này các Tỷ-kheo, đây gọi là thí tài. Và này các Tỷ-kheo, thế nào là tuệ tài?
 
-6. Ở đây, này các Tỷ-kheo, vị Thánh đệ tử có trí tuệ, thành tựu trí tuệ đối với sanh diệt và sự thể nhập
+<!--pg-->
+6\. Ở đây, này các Tỷ-kheo, vị Thánh đệ tử có trí tuệ, thành tựu trí tuệ đối với sanh diệt và sự thể nhập
 bậc Thánh đưa đến đoạn tận khổ đau. Này các Tỷ-kheo, đây gọi là tuệ tài.
 
 Các pháp này, này các Tỷ-kheo là năm tài sản.
@@ -340,12 +366,14 @@ _Nhớ đến lời Phật dạy._
 1.- Này các Tỷ-kheo, có năm sự kiện này không thể có được bởi Sa-môn hay Bà-la-môn, bởi Ma hay
 Phạm thiên, hay bởi một ai ở đời. Thế nào là năm?
 
-2. Phải bị già, muốn khỏi già, là một sự kiện không thể có được bởi một Sa-môn hay Bà-la-môn, bởi Ma
+<!--pg-->
+2\. Phải bị già, muốn khỏi già, là một sự kiện không thể có được bởi một Sa-môn hay Bà-la-môn, bởi Ma
 hay Phạm thiên, hay bởi một ai ở đời. Phải bị bệnh, muốn không bệnh... Phải bị chết, muốn không chết...
 Phải hoại diệt, muốn không hoại diệt... Phải bị tiêu diệt, muốn không tiêu diệt. là một sự kiện không thể
 có dược bởi một Sa môn hay Bà la môn, bởi Ma hay Phạm Thiên, hay bởi một ai ở đời.
 
-3. Với kẻ phàm phu không học, này các Tỷ-kheo, phải bị già và già đến; khi già đến, kẻ ấy không suy tư:
+<!--pg-->
+3\. Với kẻ phàm phu không học, này các Tỷ-kheo, phải bị già và già đến; khi già đến, kẻ ấy không suy tư:
 “Không phải chỉ một mình ta phải bị già và già đến, nhưng đối với loài hữu tình, có đến, có đi, có diệt,
 có sanh, tất cả loài hữu tình đều phải bị già và già đến. Và nếu phải bị già và khi già đến, ta lại sầu, bi,
 than khóc, đập ngực, đi đến bất tỉnh, thời ăn uống không làm ta ưa thích, thân ta trở thành xấu xí; các
@@ -354,7 +382,8 @@ bi, than khóc, đập ngực, đi đến bất tỉnh.
 
 Này các Tỷ-kheo, đây gọi là kẻ phàm phu không học bị mũi tên sầu muộn tẩm thuốc độc bắn trúng, kẻ
 ấy tự làm mình ưu não.
-4. Lại nữa, này các Tỷ-kheo, với kẻ phàm phu, không học phải bị bệnh và bệnh đến... phải bị chết và
+<!--pg-->
+4\. Lại nữa, này các Tỷ-kheo, với kẻ phàm phu, không học phải bị bệnh và bệnh đến... phải bị chết và
 chết đến... phải bị hoại diệt và hoại diệt đến... phải bị tiêu diệt và tiêu diệt đến; khi tiêu diệt đến, kẻ ấy
 không suy tư: “Không phải chỉ một mình ta phải bị tiêu diệt và tiêu diệt đến, nhưng đối với các loài hữu
 tình, có đến, có đi, có diệt, có sanh, tất cả loài hữu tình đều phải bị tiêu diệt và tiêu diệt đến. Và nếu phải
@@ -365,7 +394,8 @@ buồn”. Kẻ ấy phải bị tiêu diệt, khi tiêu diệt đến, sầu, b
 Này các Tỷ-kheo, đây gọi là kẻ phàm phu không học, bị mũi tên sầu muộn tẩm thuốc độc bắn trúng, kẻ
 ấy tự làm mình ưu não.
 
-5. Với vị Thánh đệ tử có học, này các Tỷ-kheo. phải bị già và già đến; khi già đến, vị ấy suy tư như sau:
+<!--pg-->
+5\. Với vị Thánh đệ tử có học, này các Tỷ-kheo. phải bị già và già đến; khi già đến, vị ấy suy tư như sau:
 “Không phải chỉ một mình ta phải bị già và già đến. Nhưng đối với các loài hữu tình, có đến, có đi, có
 diệt, có sanh, tất cả các loài hữu tình đều phải bị già, và già đến. Và nếu phải bị già và già đến, ta lại sầu,
 bi, than khóc, đập ngực, đi đến bất tỉnh, thời ăn uống không làm ta ưa thích, thân ta trở thành xấu xí; các
@@ -376,7 +406,8 @@ Này các Tỷ-kheo, đây gọi là vị Thánh đệ tử có học, được 
 mà kẻ phàm phu không học bị bắn trúng, tự làm mình ưu não. Không sầu muộn, không bị tên bắn, vị
 Thánh đệ tử làm cho chính mình được hoàn toàn tịch tịnh.
 
-6. Lại nữa, này các Tỷ-kheo, với vị Thánh đệ tử có học, phải bị bệnh và bệnh đến... phải bị chết và chết
+<!--pg-->
+6\. Lại nữa, này các Tỷ-kheo, với vị Thánh đệ tử có học, phải bị bệnh và bệnh đến... phải bị chết và chết
 đến... phải bị hoại diệt và hoại diệt đến...phải bị tiêu diệt và tiêu diệt đến; khi tiêu diệt đến, vị ấy suy tư
 như sau: “Không phải chỉ một mình ta phải bị tiêu diệt và tiêu diệt đến. Nhưng đối với các loài hữu tình,
 có đến, có đi, có diệt, có sanh, tất cả các loài hữu tình đều phải bị tiêu diệt và tiêu diệt đến. Và nếu phải
@@ -417,7 +448,8 @@ _Phải kiên trì thế nào?_
 
 **(IX) (49) Người Kosala**
 
-1. Một thời, Thế Tôn trú ở Sàvatthi (Xá-vệ), tại Jetavana (Thắng Lâm), khu vườn ông Anàthapindika.
+<!--pg-->
+1\. Một thời, Thế Tôn trú ở Sàvatthi (Xá-vệ), tại Jetavana (Thắng Lâm), khu vườn ông Anàthapindika.
 Rồi vua Pasenadi nước Kosala đi đến Thế Tôn, sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên.
 
 Lúc bấy giờ hoành hậu Mallikà mệnh chung. Rồi một người đi đến Pasenadi nước Kosala; sau khi đến,
@@ -426,7 +458,8 @@ báo tin kề bên tai vua Pasenadi nước Kosala: “Tâu Ðại vương, hoà
 lời. Rồi Thế Tôn biết được vua Pasenadi nước Kosala đang đau khổ, ưu tư, thụt vai, cúi đầu, sững sờ,
 không nói nên lời, liền nói với vua Pasenadi nước Kosala:
 
-2. - Thưa Ðại vương, có năm sự kiện này không thể có được bởi một Sa-môn hay Bà-la-môn, bởi Ma
+<!--pg-->
+2\. - Thưa Ðại vương, có năm sự kiện này không thể có được bởi một Sa-môn hay Bà-la-môn, bởi Ma
 hay Phạm thiên hay bởi một ai ở đời. Thế nào là năm?
 
 _... (Hoàn toàn giống như kinh trước cho đến câu: “... Phải kiên trì thế nào”, với những thay_
@@ -434,7 +467,8 @@ _đổi cần thiết nếu có...)._
 
 **(X) (50) Tôn Giả Nàrada**
 
-1. Một thời, Tôn giả Nàrada trú ở Pàtaliputta tại khu vườn Kukkuta (Kê Viên). Lúc bấy giờ,
+<!--pg-->
+1\. Một thời, Tôn giả Nàrada trú ở Pàtaliputta tại khu vườn Kukkuta (Kê Viên). Lúc bấy giờ,
 hoàng hậu Bhaddà của vua Munda mệnh chung, được ái luyến thương yêu. Vì quá thương
 yêu hoàng hậu Bhaddà, vua không tắm rửa, không thoa dầu, không ăn uống, không lo các
 công việc, ngày đêm sầu muộn, ôm ấp thân của hoàng hậu Bhaddà. Rồi vua Munda bảo
@@ -499,7 +533,8 @@ vua Munda:
 − Tâu Ðại vương, các cỗ xe tốt đẹp đã thắng xong. Nay Ðại vương hãy làm những gì Ðại
 vương nghĩ là phải thời.
 
-2. Rồi vua Munda leo lên cỗ xe tốt đẹp, cùng với các cỗ xe tốt đẹp khác đi đến khu vườn
+<!--pg-->
+2\. Rồi vua Munda leo lên cỗ xe tốt đẹp, cùng với các cỗ xe tốt đẹp khác đi đến khu vườn
 Kukkuta với uy nghi oai lực của nhà vua để yết kiến Tôn giả Nàrada. Vua đi xe xa cho đến
 đường đất xe có thể đi được, rồi xuống xe, đi bộ vào khu vườn. Rồi vua Munda đi đến Tôn
 giả Nàrada, sau khi đến, đảnh lễ Tôn giả Nàrada rồi ngồi xuống một bên. Rồi Tôn giả
@@ -508,12 +543,14 @@ Nàrada nói với vua đang ngồi một bên.
 − Thưa Ðại vương, có năm sự kiện này không thể có được bởi một Sa-môn, hay Bà-la-môn,
 bởi Ma hay Phạm thiên, hay bởi một ai ở đời. Thế nào là năm?
 
-3. Bị già và muốn không già, là một sự kiện không thể có được bởi một Sa-môn hay Bà-lamôn, bởi Ma hay Phạm thiên, hay bởi một ai ở đời. Bị bệnh và muốn không bệnh... bị chết
+<!--pg-->
+3\. Bị già và muốn không già, là một sự kiện không thể có được bởi một Sa-môn hay Bà-lamôn, bởi Ma hay Phạm thiên, hay bởi một ai ở đời. Bị bệnh và muốn không bệnh... bị chết
 và muốn không chết... bị hoại diệt và muốn không hoại diệt... bị hoại diệt và muốn không
 tiêu diệt, là một sự kiện không thể có được bởi một Sa-môn hay Bà-la-môn, bởi Ma hay
 Phạm thiên, hay bởi một ai ở đời.
 
-4. Với phàm phu không học, thưa Ðại vương, phải bị già và già đến; và khi già đến, kẻ ấy
+<!--pg-->
+4\. Với phàm phu không học, thưa Ðại vương, phải bị già và già đến; và khi già đến, kẻ ấy
 không suy tư: “Không phải chỉ một mình ta phải bị già và già đến. Nhưng đối với loài hữu
 tình, có đến, có đi, có diệt, có sanh, tất cả loài hữu tình đều phải bị già và già đến. Và nếu
 phải bị già và khi già đến, ta lại sầu, bi, than khóc, đập ngực, đi đến bất tỉnh, thời ăn uống,
@@ -524,7 +561,8 @@ hoan hỷ; bạn bè sẽ lo buồn”. Kẻ ấy phải bị già, khi già đ�
 Thưa Ðại Vương, đây gọi là kẻ phàm phu không học bị mũi tên sầu muộn tẩm thuốc độc
 bắn trùng, kẻ ấy tự làm mình ưu não.
 
-5. Lại nữa, thưa Ðại vương, với kẻ phàm phu không học, phải bị bệnh và bệnh đến... phải bị
+<!--pg-->
+5\. Lại nữa, thưa Ðại vương, với kẻ phàm phu không học, phải bị bệnh và bệnh đến... phải bị
 chết và chết đến... phải bị hoại diệt và hoại diệt đến... phải bị tiêu diệt và tiêu diệt đến; khi
 tiêu diệt đến, kẻ ấy không suy tư: “Không phải chỉ một mình ta phải bị tiêu diệt và tiêu diệt
 đến. Nhưng đối với các loài hữu tình có đến, có đi, có diệt, có sanh, tất cả loài hữu tình đều
@@ -536,7 +574,8 @@ bị tiêu diệt, khi tiêu diệt đến, sầu, bi than khóc, đập ngực,
 Thưa Ðại vương, đây gọi là kẻ phàm phu không học bị mũi tên sầu muộn tẩm thuốc độc bắn
 trúng, vị ấy tự làm mình ưu não.
 
-6. Với vị Thánh đệ tử có học, thưa Ðại vương, bị già đến; và già đến; khi già đến, vị ấy có
+<!--pg-->
+6\. Với vị Thánh đệ tử có học, thưa Ðại vương, bị già đến; và già đến; khi già đến, vị ấy có
 suy tư: “Không phải chỉ một mình ta phải bị già và già đến. Nhưng đối với các loài hữu tình
 có đến, có đi; có diệt, có sanh, tất cả các loài hữu tình đều phải bị già và già đến. Và nếu
 phải bị già và khi già đến, ta lại sầu, bi, than khóc, đập ngực, đi đến bất tỉnh, thời ăn uống
@@ -548,7 +587,8 @@ Thưa Ðại vương, đây gọi là vị Thánh đệ tử có học, được
 tẩm thuốc độc, mà kẻ phàm phu không học bị bắn trúng, tự làm mình ưu não. Không sầu
 muộn, không bị tên bắn trúng, vị Thánh đệ tử tự làm mình được hoàn toàn tịch tịnh.
 
-7. Lại nữa, thưa Ðại vương, với vị Thánh đệ tử có học phải bị bệnh và bệnh đến... phải bị
+<!--pg-->
+7\. Lại nữa, thưa Ðại vương, với vị Thánh đệ tử có học phải bị bệnh và bệnh đến... phải bị
 chết và chết đến... phải bị hoại diệt và hoại diệt đến... phải bị tiêu diệt và tiêu diệt đến; khi
 tiêu diệt đến, vị ấy có suy tư: “Không phải chỉ một mình ta phải bị tiêu diệt và tiêu diệt đến.
 Nhưng đối với các loài hữu tình, có đến, có đi, có diệt, có sanh, tất cả các loài hữu tình đều
@@ -587,7 +627,8 @@ _Mong vị ấy nghĩ rằng:_
 _Nay ta phải làm gì?_
 _Phải kiên trì thế nào?_
 
-8. Sau khi được nghe như vậy, vua Munda thưa với Tôn giả Nàrada:
+<!--pg-->
+8\. Sau khi được nghe như vậy, vua Munda thưa với Tôn giả Nàrada:
 
 − Thưa Tôn giả, pháp thoại này tên gì?
 

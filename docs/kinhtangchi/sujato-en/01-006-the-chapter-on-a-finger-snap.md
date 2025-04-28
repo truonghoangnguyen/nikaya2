@@ -1,4 +1,4 @@
-## The Chapter on a Finger-Snap
+# The Chapter on a Finger-Snap
 
 ### N 1.51--60 *Accharāsaṅghātavagga*
 

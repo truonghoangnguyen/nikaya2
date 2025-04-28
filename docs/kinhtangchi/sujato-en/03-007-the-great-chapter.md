@@ -1,4 +1,4 @@
-## The Great Chapter
+# The Great Chapter
 
 ### N 3.61 Sectarian Tenets  *Titthāyatanasutta*
 
@@ -176,6 +176,7 @@ is irrefutable, uncorrupted, beyond reproach, and is not scorned by
 sensible ascetics and brahmins.' That's what I said, and this is why I
 said it."
 
+<!--pg-->
 ### N 3.62 Perils  *Bhayasutta*
 
 "Mendicants, an unlearned ordinary person speaks of three perils that
@@ -249,31 +250,32 @@ is the practice that leads to giving up and going beyond the three
 perils that don't tear mothers and children apart, and the three perils
 that do tear mothers and children apart."
 
+<!--pg-->
 ### N 3.63 At Venāgapura  *Venāgapurasutta*
 
 At one time the Buddha was wandering in the land of the Kosalans
-together with a large [Saṅgha]{lang="sa"} of mendicants when he arrived
-at a village of the Kosalan brahmins named [Venāgapura]{lang="sa"}. The
-brahmins and householders of [Venāgapura]{lang="sa"} heard:
+together with a large Saṅgha of mendicants when he arrived
+at a village of the Kosalan brahmins named Venāgapura. The
+brahmins and householders of Venāgapura heard:
 
 "It seems the ascetic Gotama---a Sakyan, gone forth from a Sakyan
-family---has arrived at [Venāgapura]{lang="sa"}. He has this good
+family---has arrived at Venāgapura. He has this good
 reputation: 'That Blessed One is perfected, a fully awakened Buddha,
 accomplished in knowledge and conduct, holy, knower of the world,
 supreme guide for those who wish to train, teacher of gods and humans,
 awakened, blessed.' He has realized with his own insight this
-world---with its gods, [Māras]{lang="sa"}, and divinities, this
+world---with its gods, Māras, and divinities, this
 population with its ascetics and brahmins, gods and humans---and he
 makes it known to others. He proclaims a teaching that is good in the
 beginning, good in the middle, and good in the end, meaningful and
 well-phrased. And he reveals a spiritual practice that's entirely full
 and pure. It's good to see such perfected ones."
 
-Then the brahmins and householders of [Venāgapura]{lang="sa"} went up to
+Then the brahmins and householders of Venāgapura went up to
 the Buddha. Before sitting down to one side, some bowed, some exchanged
 greetings and polite conversation, some held up their joined palms
 toward the Buddha, some announced their name and clan, while some kept
-silent. Then the brahmin Vacchagotta of [Venāgapura]{lang="sa"} said to
+silent. Then the brahmin Vacchagotta of Venāgapura said to
 the Buddha:
 
 "It's incredible, Mister Gotama, it's amazing, how your faculties are so
@@ -391,34 +393,35 @@ overturned, or revealing the hidden, or pointing out the path to the
 lost, or lighting a lamp in the dark so people with clear eyes can see
 what's there, Mister Gotama has made the teaching clear in many ways. We
 go for refuge to Mister Gotama, to the teaching, and to the mendicant
-[Saṅgha]{lang="sa"}. From this day forth, may Mister Gotama remember us
+Saṅgha. From this day forth, may Mister Gotama remember us
 as lay followers who have gone for refuge for life."
 
+<!--pg-->
 ### N 3.64 With Sarabha  *Sarabhasutta*
 
-[So I have heard.]{.smallcaps} At one time the Buddha was staying near
-[Rājagaha]{lang="sa"}, on the Vulture's Peak Mountain.
+So I have heard.At one time the Buddha was staying near
+Rājagaha, on the Vulture's Peak Mountain.
 
 Now at that time a wanderer called Sarabha had recently left this
-teaching and training. He was telling a crowd in [Rājagaha]{lang="sa"},
+teaching and training. He was telling a crowd in Rājagaha,
 "I learned the teaching of the ascetics who follow the Sakyan, then I
 left their teaching and training."
 
 Then several mendicants robed up in the morning and, taking their bowls
-and robes, entered [Rājagaha]{lang="sa"} for alms. They heard what
+and robes, entered Rājagaha for alms. They heard what
 Sarabha was saying.
 
 Then, after the meal, when they returned from almsround, they went up to
 the Buddha, bowed, sat down to one side, and said to him, "The wanderer
 called Sarabha has recently left this teaching and training. He was
-telling a crowd in [Rājagaha]{lang="sa"}: 'I learned the teaching of the
+telling a crowd in Rājagaha: 'I learned the teaching of the
 ascetics who follow the Sakyan, then I left their teaching and
 training.' Sir, please go to the wanderers' monastery on the banks of
-the [Sappinī]{lang="sa"} river to see Sarabha the wanderer out of
+the Sappinī river to see Sarabha the wanderer out of
 sympathy." The Buddha consented with silence.
 
 Then in the late afternoon, the Buddha came out of retreat and went to
-the wanderers' monastery on the banks of the [Sappinī]{lang="sa"} river
+the wanderers' monastery on the banks of the Sappinī river
 to visit Sarabha the wanderer. He sat on the seat spread out, and said
 to the wanderer Sarabha, "Is it really true, Sarabha, that you've been
 saying: 'I learned the teaching of the ascetics who follow the Sakyan,
@@ -474,7 +477,7 @@ bitterness. Or they'd sit silent, dismayed, shoulders drooping,
 downcast, depressed, with nothing to say, like Sarabha."
 
 Then the Buddha, having roared his lion's roar three times in the
-wanderers' monastery on the bank of the [Sappinī]{lang="sa"} river, rose
+wanderers' monastery on the bank of the Sappinī river, rose
 into the air and flew away.
 
 Soon after the Buddha left, those wanderers beset Sarabha on all sides
@@ -494,23 +497,24 @@ empty. In the same way, you only thought to bellow when the ascetic
 Gotama wasn't here." That's how those wanderers beset Sarabha on all
 sides with sneering and jeering.
 
+<!--pg-->
 ### N 3.65 With the Kālāmas of Kesamutta  *Kesamuttisutta*
 
-[So I have heard.]{.smallcaps} At one time the Buddha was wandering in
-the land of the Kosalans together with a large [Saṅgha]{lang="sa"} of
-mendicants when he arrived at a town of the [Kālāmas]{lang="sa"} named
-Kesamutta. The [Kālāmas]{lang="sa"} of Kesamutta heard:
+So I have heard.At one time the Buddha was wandering in
+the land of the Kosalans together with a large Saṅgha of
+mendicants when he arrived at a town of the Kālāmas named
+Kesamutta. The Kālāmas of Kesamutta heard:
 
 "It seems the ascetic Gotama---a Sakyan, gone forth from a Sakyan
 family---has arrived at Kesamutta. He has this good reputation: 'That
 Blessed One is perfected, a fully awakened Buddha ...' It's good to see
 such perfected ones."
 
-Then the [Kālāmas]{lang="sa"} went up to the Buddha. Before sitting down
+Then the Kālāmas went up to the Buddha. Before sitting down
 to one side, some bowed, some exchanged greetings and polite
 conversation, some held up their joined palms toward the Buddha, some
 announced their name and clan, while some kept silent. Seated to one
-side the [Kālāmas]{lang="sa"} said to the Buddha:
+side the Kālāmas said to the Buddha:
 
 "There are, sir, some ascetics and brahmins who come to Kesamutta. They
 explain and promote only their own doctrine, while they attack,
@@ -521,10 +525,10 @@ smear the doctrines of others. So, sir, we're doubting and uncertain: 'I
 wonder who of these respected ascetics and brahmins speaks the truth,
 and who speaks falsehood?'"
 
-"It is enough, [Kālāmas]{lang="sa"}, for you to be doubting and
+"It is enough, Kālāmas, for you to be doubting and
 uncertain. Doubt has come up in you about an uncertain matter.
 
-Please, [Kālāmas]{lang="sa"}, don't go by oral transmission, don't go by
+Please, Kālāmas, don't go by oral transmission, don't go by
 lineage, don't go by testament, don't go by canonical authority, don't
 rely on logic, don't rely on inference, don't go by reasoned train of
 thought, don't go by the acceptance of a view after deliberation, don't
@@ -534,7 +538,7 @@ unskillful, blameworthy, criticized by sensible people, and when you
 undertake them, they lead to harm and suffering', then you should give
 them up.
 
-What do you think, [Kālāmas]{lang="sa"}? Does greed come up in a person
+What do you think, Kālāmas? Does greed come up in a person
 for their welfare or harm?"
 
 "Harm, sir."
@@ -545,7 +549,7 @@ for their lasting harm and suffering?"
 
 "Yes, sir."
 
-"What do you think, [Kālāmas]{lang="sa"}? Does hate come up in a person
+"What do you think, Kālāmas? Does hate come up in a person
 for their welfare or harm?"
 
 "Harm, sir."
@@ -556,7 +560,7 @@ for their lasting harm and suffering?"
 
 "Yes, sir."
 
-"What do you think, [Kālāmas]{lang="sa"}? Does delusion come up in a
+"What do you think, Kālāmas? Does delusion come up in a
 person for their welfare or harm?"
 
 "Harm, sir."
@@ -567,7 +571,7 @@ that for their lasting harm and suffering?"
 
 "Yes, sir."
 
-"What do you think, [Kālāmas]{lang="sa"}, are these things skillful or
+"What do you think, Kālāmas, are these things skillful or
 unskillful?"
 
 "Unskillful, sir."
@@ -586,7 +590,7 @@ how do you see this?"
 "When you undertake them, they lead to harm and suffering. That's how we
 see it."
 
-"So, [Kālāmas]{lang="sa"}, when I said: 'Please, don't go by oral
+"So, Kālāmas, when I said: 'Please, don't go by oral
 transmission, don't go by lineage, don't go by testament, don't go by
 canonical authority, don't rely on logic, don't rely on inference, don't
 go by reasoned train of thought, don't go by the acceptance of a view
@@ -597,7 +601,7 @@ sensible people, and when you undertake them, they lead to harm and
 suffering", then you should give them up.' That's what I said, and this
 is why I said it.
 
-Please, [Kālāmas]{lang="sa"}, don't go by oral transmission, don't go by
+Please, Kālāmas, don't go by oral transmission, don't go by
 lineage, don't go by testament, don't go by canonical authority, don't
 rely on logic, don't rely on inference, don't go by reasoned train of
 thought, don't go by the acceptance of a view after deliberation, don't
@@ -607,7 +611,7 @@ skillful, blameless, praised by sensible people, and when you undertake
 them, they lead to welfare and happiness', then you should acquire them
 and keep them.
 
-What do you think, [Kālāmas]{lang="sa"}? Does contentment come up in a
+What do you think, Kālāmas? Does contentment come up in a
 person for their welfare or harm?"
 
 "Welfare, sir."
@@ -618,14 +622,14 @@ the same. Is that for their lasting welfare and happiness?"
 
 "Yes, sir."
 
-"What do you think, [Kālāmas]{lang="sa"}? Does love come up in a person
+"What do you think, Kālāmas? Does love come up in a person
 for their welfare or harm? ... Does understanding come up in a person
 for their welfare or harm? ... Is that for their lasting welfare and
 happiness?"
 
 "Yes, sir."
 
-"What do you think, [Kālāmas]{lang="sa"}, are these things skillful or
+"What do you think, Kālāmas, are these things skillful or
 unskillful?"
 
 "Skillful, sir."
@@ -644,7 +648,7 @@ Or how do you see this?"
 "When you undertake them, they lead to welfare and happiness. That's how
 we see it."
 
-"So, [Kālāmas]{lang="sa"}, when I said: 'Please, don't go by oral
+"So, Kālāmas, when I said: 'Please, don't go by oral
 transmission, don't go by lineage, don't go by testament, don't go by
 canonical authority, don't rely on logic, don't rely on inference, don't
 go by reasoned train of thought, don't go by the acceptance of a view
@@ -712,21 +716,22 @@ disciple has a mind that's free of enmity and ill will, undefiled and
 purified, they've won these four consolations in this very life. ...
 
 Excellent, sir! Excellent! ... We go for refuge to the Buddha, to the
-teaching, and to the mendicant [Saṅgha]{lang="sa"}. From this day forth,
+teaching, and to the mendicant Saṅgha. From this day forth,
 may the Buddha remember us as lay followers who have gone for refuge for
 life."
 
+<!--pg-->
 ### N 3.66 With Sāḷha and His Friend  *Sāḷhasutta*
 
-[So I have heard.]{.smallcaps} Now at that time Venerable Nandaka was
-staying near [Sāvatthī]{lang="sa"} in the stilt longhouse of
-[Migāra]{lang="sa"}'s mother in the Eastern Monastery. Then
-[Sāḷha]{lang="sa"}, [Migāra]{lang="sa"}'s grandson, and
-[Rohaṇa]{lang="sa"}, [Pekhuṇiya]{lang="sa"}'s grandson went up to
+So I have heard.Now at that time Venerable Nandaka was
+staying near Sāvatthī in the stilt longhouse of
+Migāra's mother in the Eastern Monastery. Then
+Sāḷha, Migāra's grandson, and
+Rohaṇa, Pekhuṇiya's grandson went up to
 Venerable Nandaka, bowed, and sat down to one side. Then Venerable
-Nandaka said to [Sāḷha]{lang="sa"}:
+Nandaka said to Sāḷha:
 
-"Please, [Sāḷha]{lang="sa"} and friend, don't go by oral transmission,
+"Please, Sāḷha and friend, don't go by oral transmission,
 don't go by lineage, don't go by testament, don't go by canonical
 authority, don't rely on logic, don't rely on inference, don't go by
 reasoned train of thought, don't go by the acceptance of a view after
@@ -736,7 +741,7 @@ yourselves: 'These things are unskillful, blameworthy, criticized by
 sensible people, and when you undertake them, they lead to harm and
 suffering', then you should give them up.
 
-What do you think, [Sāḷha]{lang="sa"}? Is greed real?"
+What do you think, Sāḷha? Is greed real?"
 
 "Yes, sir."
 
@@ -747,7 +752,7 @@ suffering?"
 
 "Yes, sir."
 
-"What do you think, [Sāḷha]{lang="sa"}? Is hate real?"
+"What do you think, Sāḷha? Is hate real?"
 
 "Yes, sir."
 
@@ -757,7 +762,7 @@ to do the same. Is that for their lasting harm and suffering?"
 
 "Yes, sir."
 
-"What do you think, [Sāḷha]{lang="sa"}? Is delusion real?"
+"What do you think, Sāḷha? Is delusion real?"
 
 "Yes, sir."
 
@@ -768,7 +773,7 @@ suffering?"
 
 "Yes, sir."
 
-"What do you think, [Sāḷha]{lang="sa"}, are these things skillful or
+"What do you think, Sāḷha, are these things skillful or
 unskillful?"
 
 "Unskillful, sir."
@@ -787,7 +792,7 @@ how do you see this?"
 "When you undertake them, they lead to harm and suffering. That's how we
 see it."
 
-"So, [Sāḷha]{lang="sa"} and friend, when I said: 'Please, don't go by
+"So, Sāḷha and friend, when I said: 'Please, don't go by
 oral transmission, don't go by lineage, don't go by testament, don't go
 by canonical authority, don't rely on logic, don't rely on inference,
 don't go by reasoned train of thought, don't go by the acceptance of a
@@ -798,7 +803,7 @@ sensible people, and when you undertake them, they lead to harm and
 suffering", then you should give them up.' That's what I said, and this
 is why I said it.
 
-Please, [Sāḷha]{lang="sa"} and friend, don't go by oral transmission,
+Please, Sāḷha and friend, don't go by oral transmission,
 don't go by lineage, don't go by testament, don't go by canonical
 authority, don't rely on logic, don't rely on inference, don't go by
 reasoned train of thought, don't go by the acceptance of a view after
@@ -829,7 +834,7 @@ others to do the same. Is that for their lasting welfare and happiness?"
 
 "Yes, sir."
 
-"What do you think, [Sāḷha]{lang="sa"}? Is understanding real?"
+"What do you think, Sāḷha? Is understanding real?"
 
 "Yes, sir."
 
@@ -839,7 +844,7 @@ others to do the same. Is that for their lasting welfare and happiness?"
 
 "Yes, sir."
 
-"What do you think, [Sāḷha]{lang="sa"}, are these things skillful or
+"What do you think, Sāḷha, are these things skillful or
 unskillful?"
 
 "Skillful, sir."
@@ -858,7 +863,7 @@ Or how do you see this?"
 "When you undertake them, they lead to welfare and happiness. That's how
 we see it."
 
-"So, [Sāḷha]{lang="sa"} and friend, when I said: 'Please, don't go by
+"So, Sāḷha and friend, when I said: 'Please, don't go by
 oral transmission, don't go by lineage, don't go by testament, don't go
 by canonical authority, don't rely on logic, don't rely on inference,
 don't go by reasoned train of thought, don't go by the acceptance of a
@@ -896,6 +901,7 @@ delusion, which was unskillful. Now there is none, so that's skillful.'
 So they live without wishes in this very life, quenched, cooled,
 experiencing bliss, with self become divine."
 
+<!--pg-->
 ### N 3.67 Topics of Discussion  *Kathāvatthusutta*
 
 "There are, mendicants, these three topics of discussion. What three?
@@ -989,6 +995,7 @@ the liberation of the mind by not grasping.
 > Knowing this, an intelligent person\
 > would consult without arrogance."
 
+<!--pg-->
 ### N 3.68 Followers of Other Religions  *Aññatitthiyasutta*
 
 "Mendicants, if wanderers of other religions were to ask: 'There are
@@ -1053,6 +1060,7 @@ delusion doesn't arise, or if it's already arisen it's given up. This is
 the cause, this is the reason why delusion doesn't arise, or if it's
 already arisen it's given up.'"
 
+<!--pg-->
 ### N 3.69 Unskillful Roots  *Akusalamūlasutta*
 
 "Mendicants, there are these three unskillful roots. What three? Greed,
@@ -1168,20 +1176,22 @@ and they're also extinguished in this very life.
 
 These are the three skillful roots."
 
+
+<!--pg-->
 ### N 3.70 Sabbath  *Uposathasutta*
 
-[So I have heard.]{.smallcaps} At one time the Buddha was staying near
-[Sāvatthī]{lang="sa"} in the stilt longhouse of [Migāra]{lang="sa"}'s
+So I have heard.At one time the Buddha was staying near
+Sāvatthī in the stilt longhouse of Migāra's
 mother in the Eastern Monastery.
 
-Then [Visākhā]{lang="sa"}, [Migāra]{lang="sa"}'s mother, went up to the
+Then Visākhā, Migāra's mother, went up to the
 Buddha, bowed, and sat down to one side. The Buddha said to her, "So,
-[Visākhā]{lang="sa"}, where are you coming from in the middle of the
+Visākhā, where are you coming from in the middle of the
 day?"
 
 "Today, sir, I'm observing the sabbath."
 
-"There are, [Visākhā]{lang="sa"}, these three sabbaths. What three? The
+"There are, Visākhā, these three sabbaths. What three? The
 sabbath of the cowherds, the sabbath of the Jains, and the sabbath of
 the noble ones.
 
@@ -1273,14 +1283,14 @@ mind is cleaned by applying effort.
 
 A corrupt mind is cleaned by applying effort. And how is a corrupt mind
 cleaned by applying effort? It's when a noble disciple recollects the
-[Saṅgha]{lang="sa"}: 'The [Saṅgha]{lang="sa"} of the Buddha's disciples
+Saṅgha: 'The Saṅgha of the Buddha's disciples
 is practicing the way that's good, sincere, systematic, and proper. It
 consists of the four pairs, the eight individuals. This is the
-[Saṅgha]{lang="sa"} of the Buddha's disciples that is worthy of
+Saṅgha of the Buddha's disciples that is worthy of
 offerings dedicated to the gods, worthy of hospitality, worthy of a
 religious donation, worthy of greeting with joined palms, and is the
 supreme field of merit for the world.' As they recollect the
-[Saṅgha]{lang="sa"}, their mind becomes clear, joy arises, and mental
+Saṅgha, their mind becomes clear, joy arises, and mental
 corruptions are given up. It's just like cleaning a dirty cloth by
 applying effort.
 
@@ -1290,17 +1300,17 @@ dirty cloth is cleaned by applying effort. In the same way, a corrupt
 mind is cleaned by applying effort.
 
 And how is a corrupt mind cleaned by applying effort? It's when a noble
-disciple recollects the [Saṅgha]{lang="sa"}: 'The [Saṅgha]{lang="sa"} of
+disciple recollects the Saṅgha: 'The Saṅgha of
 the Buddha's disciples is practicing the way that's good, direct,
 systematic, and proper. It consists of the four pairs, the eight
-individuals. This [Saṅgha]{lang="sa"} of the Buddha's disciples is
+individuals. This Saṅgha of the Buddha's disciples is
 worthy of offerings dedicated to the gods, worthy of hospitality, worthy
 of a religious donation, and worthy of veneration with joined palms. It
 is the supreme field of merit for the world.' As they recollect the
-[Saṅgha]{lang="sa"}, their mind becomes clear, joy arises, and mental
+Saṅgha, their mind becomes clear, joy arises, and mental
 corruptions are given up. This is called: 'A noble disciple who observes
-the sabbath of the [Saṅgha]{lang="sa"}, living together with the
-[Saṅgha]{lang="sa"}. And because they think of the [Saṅgha]{lang="sa"}
+the sabbath of the Saṅgha, living together with the
+Saṅgha. And because they think of the Saṅgha\.
 their mind becomes clear, joy arises, and mental corruptions are given
 up.' That's how a corrupt mind is cleaned by applying effort.
 
@@ -1421,10 +1431,10 @@ is observed like this it's very fruitful and beneficial and splendid and
 bountiful.
 
 How much so? Suppose you were to rule as sovereign lord over these
-sixteen great countries---[Aṅga]{lang="sa"}, Magadha, [Kāsi]{lang="sa"},
-Kosala, Vajji, Malla, [Cetī]{lang="sa"}, Vaccha, Kuru,
-[Pañcāla]{lang="sa"}, Maccha, [Sūrasena]{lang="sa"}, Assaka, Avanti,
-[Gandhāra]{lang="sa"}, and Kamboja---full of the seven treasures. This
+sixteen great countries---Aṅga, Magadha, Kāsi,
+Kosala, Vajji, Malla, Cetī, Vaccha, Kuru,
+Pañcāla, Maccha, Sūrasena, Assaka, Avanti,
+Gandhāra, and Kamboja---full of the seven treasures. This
 wouldn't be worth a sixteenth part of the sabbath with its eight
 factors. Why is that? Because human kingship is a poor thing compared to
 the happiness of the gods.

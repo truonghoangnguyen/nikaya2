@@ -1,19 +1,20 @@
 # XIV. Phẩm Kẻ Chiến Sĩ
+
 **131.- Kẻ Chiến Sĩ**
 
-1. - Ðầy đủ ba đức tánh, này các Tỷ-kheo, một kẻ chiến sĩ xứng đáng cho vua sử dụng, thuộc sở hữu của
+1\. - Ðầy đủ ba đức tánh, này các Tỷ-kheo, một kẻ chiến sĩ xứng đáng cho vua sử dụng, thuộc sở hữu của
 vua, là biểu tượng của vua.
 
 Ở đây, này các Tỷ-kheo, kẽ chiến sĩ là người bắn xa, bắn như chớp nhoáng và đâm thủng được vật lớn.
 Ðầy đủ ba đức tánh này, này các Tỷ-kheo, một kẻ chiến sĩ xứng đáng cho vua sử dụng, thuộc sở hữu của
 vua, là biểu tượng của vua.
 
-2. Cũng vậy, này các Tỷ-kheo, đầy đủ ba đức tánh, Tỷ-kheo đáng được cung kính, đáng được tôn trọng,
+2\. Cũng vậy, này các Tỷ-kheo, đầy đủ ba đức tánh, Tỷ-kheo đáng được cung kính, đáng được tôn trọng,
 đáng được cúng dường, đáng được chắp tay, là ruộng phước vô thượng ở đời. Thế nào là ba?
 
 Ở đây, này các Tỷ-kheo, Tỷ-kheo là kẻ bắn xa, bắn như chớp nhoáng và đâm thủng được vật to lớn.
 
-3. Và này các Tỷ-kheo, thế nào là Tỷ-kheo bắn xa?
+3\. Và này các Tỷ-kheo, thế nào là Tỷ-kheo bắn xa?
 
 Ở đây, này các Tỷ-kheo, Tỷ-kheo phàm có sắc gì, quá khứ, vị lai, hiện tại, hoặc nội hay ngoại, hoặc thô
 hay tế, hoặc liệt hay thắng, hoặc xa hay gần, tất cả sắc, vị ấy thấy như thật với chánh trí tuệ rằng: “Cái
@@ -35,61 +36,65 @@ Phàm có thức gì, quá khứ, vị lai, hiện tại, hoặc nội hay ngo�
 xa hay gần, tất cả các thức, vị ấy thấy như thật với chánh trí tuệ rằng: “Cái này không phải của tôi, cái
 này không phải là tôi, cái này không phải tự ngã của tôi”.
 
-4. Và này các Tỷ-kheo, thế nào là Tỷ-kheo bắn như chớp nhoáng?
+4\. Và này các Tỷ-kheo, thế nào là Tỷ-kheo bắn như chớp nhoáng?
 
 Ở đây, này các Tỷ-kheo, Tỷ-kheo như thật tuệ tri: “Ðây là khổ”, như thật tuệ tri: “Ðây là khổ tập”; như
 thật tuệ tri: “Ðây là khổ diệt”; như thật tuệ tri: “Ðây là con đường đưa đến khổ diệt”; Như vậy, này các
 Tỷ-kheo, là Tỷ-kheo bắn như chớp nhoáng.
 
-5. Và này các Tỷ-kheo, thế nào là Tỷ-kheo đâm thủng vật to lớn?
+5\. Và này các Tỷ-kheo, thế nào là Tỷ-kheo đâm thủng vật to lớn?
 
 Ở đây, này các Tỷ-kheo, Tỷ-kheo đâm thủng vô minh uẩn to lớn. Như vậy, này các Tỷ-kheo, là Tỷ-kheo
 đâm thủng vật to lớn. Ðầy đủ ba đức tánh này, này các Tỷ-kheo, Tỷ-kheo đáng được cung kính, đáng
 được tôn trọng, đáng được cúng dường, đáng được chắp tay, là ruộng phước vô thượng ở đời.
 
+<!--pg-->
 **132 .- Hội Chúng**
 − Này các Tỷ-kheo, có ba hội chúng này. Thế nào là ba?
 
 Hội chúng điêu luyện về khoa trương, hội chúng điêu luyện về chất vấn, hội chúng điêu luyện về tùy
 theo sở thích. Này các Tỷ-kheo, có ba hội chúng này.
 
+<!--pg-->
 **133.- Bạn**
 
 − Này các Tỷ-kheo, có đầy đủ ba đức tánh, một người bạn cần được thân cận. Thế nào là ba?
 
 Ở đây, này các Tỷ-kheo, Tỷ-kheo cho điều khó cho, làm điều khó làm, nhẫn điều khó nhẫn. Này các Tỷkheo, đầy đủ ba đức tánh, một người bạn cần được thân cận.
 
+<!--pg-->
 **134.- Xuất Hiện**
 
-1. - Này các Tỷ-kheo, dầu các Như Lai có xuất hiện hay không xuất hiện, vẫn được an trú là pháp trú
+1\. - Này các Tỷ-kheo, dầu các Như Lai có xuất hiện hay không xuất hiện, vẫn được an trú là pháp trú
 tánh của giới ấy, là pháp quyết định tánh, tức là: “Tất cả các hành là vô thường”. Vấn đề này, Như Lai
 chánh giác tri, chánh giác ngộ, sau khi chánh giác tri, chánh giác ngộ, Như Lai tuyên bố, thuyết giảng,
 tuyên thuyết, xác nhận, khai thị, phân biệt, hiển thị: “Tất cả các hành là vô thường”.
 
-2. Này các Tỷ-kheo, dầu các Như Lai có xuất hiện hay không xuất hiện, vẫn được an trú là pháp trú tánh
+2\. Này các Tỷ-kheo, dầu các Như Lai có xuất hiện hay không xuất hiện, vẫn được an trú là pháp trú tánh
 của giới ấy, là pháp quyết định tánh, tức là: “Tất cả các hành là khổ”. Về vấn đề này, Như Lai chánh
 giác tri, chánh giác ngộ, sau khi chánh giác tri, chánh giác ngộ, Như Lai tuyên bố, thuyết giảng, tuyên
 thuyết, xác nhận, khai thị, phân biệt, hiển thị: “Tất cả các hành là khổ”.
 
-3. Này các Tỷ-kheo, dầu các Như Lai có xuất hiện hay không xuất hiện, vẫn được an trú là pháp trú tánh
+3\. Này các Tỷ-kheo, dầu các Như Lai có xuất hiện hay không xuất hiện, vẫn được an trú là pháp trú tánh
 của giới ấy, là pháp quyết định tánh, tức là: “Tất cả các pháp là vô ngã”. Về vấn đề này, Như Lai chánh
 giác tri, chánh giác ngộ. Sau khi chánh giác tri, chánh giác ngộ, Như Lai tuyên bố, thuyết giảng, tuyên
 thuyết, xác nhận, khai thị, phân biệt, hiển thị: “Tất cả các pháp là vô ngã”.
 
+<!--pg-->
 **135.- Mền Bằng Tóc.**
 
-1. - Ví như, này các Tỷ-kheo, trong tất cả loại vải được dệt, mền được dệt bằng tóc được xem là hạ liệt
+1\. - Ví như, này các Tỷ-kheo, trong tất cả loại vải được dệt, mền được dệt bằng tóc được xem là hạ liệt
 nhất. Mền được dệt bằng tóc, này các Tỷ-kheo, khi trời lạnh thì lạnh, khi trời nóng thì nóng, xấu xí, có
 mùi hôi, xúc chạm khó chịu. Cũng vậy, này các Tỷ-kheo, trong các chủ thuyết của các Sa-môn ngoại
 đạo tuyên bố, chủ thuyết của Makkhali được xem là hèn hạ nhất. Này các Tỷ-kheo, Makkhali, kẻ ngu si
 có thuyết như sau; có kiến như sau :”Không có nghiệp, không có nghiệp quả, không có tinh tấn”.
 
-2. Này các Tỷ-kheo, những ai là các vị A-la-hán trong thời quá khứ, các vị Chánh Ðẳng Giác, các bậc
+2\. Này các Tỷ-kheo, những ai là các vị A-la-hán trong thời quá khứ, các vị Chánh Ðẳng Giác, các bậc
 Thế Tôn; các vị ấy đều chủ trương có nghiệp, đều chủ trương có nghiệp quả, đều chủ trương có tinh tấn.
 Nhưng này các Tỷ-kheo, chỉ có Makkhali, kẻ ngu si nói phản lại tất cả: “Không có nghiệp, không có
 nghiệp quả, không có tinh tấn”.
 
-3. Này các Tỷ-kheo, những ai là các vị A-la-hán trong thời vị lai, các vị Chánh Ðẳng Giác, các bậc Thế
+3\. Này các Tỷ-kheo, những ai là các vị A-la-hán trong thời vị lai, các vị Chánh Ðẳng Giác, các bậc Thế
 Tôn; các vị ấy đều chủ trương có nghiệp, đều chủ trương có nghiệp quả, đều chủ trương có tinh tấn.
 Nhưng này các Tỷ-kheo, chỉ có Makkhali, kẻ ngu si nói phản lại tất cả: “Không có nghiệp, không có
 nghiệp quả, không có tinh tấn”.
@@ -97,10 +102,11 @@ nghiệp quả, không có tinh tấn”.
 Còn Ta, này các Tỷ-kheo, nay là bậc A-la-hán, Chánh Ðẳng Giác cũng chủ trương có nghiệp, chủ
 trương có nghiệp quả, chủ trương có tinh tấn. Nhưng này các Tỷ-kheo, chỉ có Makkhali, kẻ ngu si nói
 phản lại tất cả: “Không có nghiệp, không có nghiệp quả, không có tinh tấn”.
-5. Ví như, này các Tỷ-kheo, tại cửa sông, có người đặt một cái sập bẫy cá đem đến bất hạnh, đau khổ,
+5\. Ví như, này các Tỷ-kheo, tại cửa sông, có người đặt một cái sập bẫy cá đem đến bất hạnh, đau khổ,
 tổn hại, nguy hại cho các loại cá. Cũng vậy, này các Tỷ-kheo, Makkhali, kẻ ngu si xuất hiện ở đời như
 cái bẫy sập người, đem lại bất hạnh, đau khổ, tổn hại, nguy hại cho nhiều loài hữu tình.
 
+<!--pg-->
 **136.- Thành Tựu Tăng Trưởng**
 
 − Này các Tỷ-kheo, có ba sự thành tựu này. Thế nào là ba?
@@ -112,9 +118,10 @@ Này các Tỷ-kheo, có ba sự tăng trưởng. Thế nào là ba?
 Tăng trưởng về tín, tăng trưởng về giới, tăng trưởng về tuệ. Này các Tỷ-kheo, ba pháp này là ba tăng
 trưởng.
 
+<!--pg-->
 **137.- Ngựa Chưa Ðược Ðiều Phục**
 
-1. - Này các Tỷ-kheo, Ta sẽ giảng về ba loại ngựa chưa được điều phục và Ta sẽ giảng về ba hạng người
+1\. - Này các Tỷ-kheo, Ta sẽ giảng về ba loại ngựa chưa được điều phục và Ta sẽ giảng về ba hạng người
 chưa được điều phục. Hãy lắng nghe và khéo tác ý, Ta sẽ nói.
 
 − Thưa vâng, bạch Thế Tôn.
@@ -136,7 +143,7 @@ không có cân đối. Nhưng ở đây, có hạng người chưa được đi
 không có cân đối. Nhưng ở đây, này các Tỷ-kheo, có hạng người chưa được điều phục, có tốc lực, có
 sắc đẹp, và cân đối. Ba loại này, này các Tỷ-kheo, là ba hạng người chưa được điều phục.
 
-2. Thế nào, này các Tỷ-kheo, là hạng người chưa được điều phục, có tốc lực, nhưng không có sắc đẹp,
+2\. Thế nào, này các Tỷ-kheo, là hạng người chưa được điều phục, có tốc lực, nhưng không có sắc đẹp,
 không có cân đối?
 
 Ở đây, này các Tỷ-kheo, Tỷ-kheo như thật rõ biết: “Ðây là khổ”; như thật rõ biết: “Ðây là khổ tập”; như
@@ -145,7 +152,7 @@ nghĩa có tốc lực. Nhưng khi được hỏi về thắng pháp thắng lu�
 Ðây Ta nói trong nghĩa không có sắc đẹp. Vị ấy không có nhận được các đồ tư dụng, như y áo, đồ ăn
 khất thực, sàng tọa, dược phẩm trị bệnh. Ðây Ta nói trong nghĩa không có cân đối. Như vậy, này các Tỷkheo, là người chưa có điều phục, có tốc lực, nhưng không có sắc đẹp, không có cân đối.
 
-3. Như thế nào, này các Tỷ-kheo, là hạng người chưa được điều phục, có tốc lực, có sắc đẹp, nhưng
+3\. Như thế nào, này các Tỷ-kheo, là hạng người chưa được điều phục, có tốc lực, có sắc đẹp, nhưng
 không cân đối?
 
 Ở đây, này các Tỷ-kheo, Tỷ-kheo như thật rõ biết: “Ðây là khổ”; như thật rõ biết: “Ðây là khổ tập”; như
@@ -155,7 +162,7 @@ nghĩa có tốc lực. Nhưng khi được hỏi về thắng pháp thắng lu�
 sàng tọa, dược phẩm trị bệnh. Ðây Ta nói trong nghĩa không có cân đối. Như vậy, này các Tỷ-kheo, là
 người chưa có điều phục, có tốc lực, có sắc đẹp, nhưng không có cân đối.
 
-4. Như thế nào, này các Tỷ-kheo, là hạng người chưa được điều phục, có tốc lực, có sắc đẹp, có cân đối?
+4\. Như thế nào, này các Tỷ-kheo, là hạng người chưa được điều phục, có tốc lực, có sắc đẹp, có cân đối?
 
 Ở đây, này các Tỷ-kheo, Tỷ-kheo như thật rõ biết: “Ðây là khổ”; như thật rõ biết: “Ðây là khổ tập”; như
 thật rõ biết: “Ðây là khổ diệt”; như thật rõ biết: “Ðây là con đường đưa đến khổ diệt”. Ðây Ta nói trong
@@ -165,9 +172,10 @@ tọa, dược phẩm trị bệnh. Ðây Ta nói trong nghĩa có cân đối. 
 có điều phục, có tốc lực, có sắc đẹp, có cân đối. Những hạng người này, này các Tỷ-kheo, là ba hạng
 người chưa có cân đối.
 
+<!--pg-->
 **138.- Ngựa Ðược Ðiều Phục**
 
-1. - Này các Tỷ-kheo, Ta sẽ giảng về ba loại ngựa được điều phục và Ta sẽ giảng về ba hạng người chưa
+1\. - Này các Tỷ-kheo, Ta sẽ giảng về ba loại ngựa được điều phục và Ta sẽ giảng về ba hạng người chưa
 được điều phục. Hãy lắng nghe và khéo tác ý, Ta sẽ nói.
 
 − Thưa vâng, bạch Thế Tôn.
@@ -181,14 +189,14 @@ Các Tỷ-kheo ấy vâng đáp Thế Tôn, Thế Tôn nói như sau:
 có cân đối. Nhưng ở đây, này các Tỷ-kheo, có loại ngựa được điều phục, có tốc lực, có sắc đẹp, và cân
 đối. Ba loại này, này các Tỷ-kheo, là ba loại ngựa được điều phục.
 
-2. Và này các Tỷ-kheo, thế nào là ba hạng người được điều phục?
+2\. Và này các Tỷ-kheo, thế nào là ba hạng người được điều phục?
 
 Ở đây, này các Tỷ-kheo, có hạng người được điều phục, có tốc lực, nhưng không có sắc đẹp, không có
 cân đối. Nhưng ở đây, này các Tỷ kheo, có hạng người được điều phục, có tốc lực, có sắc đẹp, nhưng
 không có cân đối. Nhưng ở đây, này các Tỷ-kheo, có hạng người được điều phục, có tốc lực, có sắc đẹp,
 và cân đối. Ba loại này, này các Tỷ-kheo, là ba hạng người chưa được điều phục.
 
-3. Và này các Tỷ-kheo, thế nào là hạng người được điều phục, có tốc lực, người không có sắc đẹp,
+3\. Và này các Tỷ-kheo, thế nào là hạng người được điều phục, có tốc lực, người không có sắc đẹp,
 không có cân đối?
 
 Ở đây, này các Tỷ-kheo, Tỷ-kheo do đoạn diệt năm hạ phần kiết sử, được hóa sanh, tại đấy được nhập
@@ -198,7 +206,7 @@ thắng pháp thắng luật, vị ấy ngập ngừng, vị ấy không có tr�
 Ðây Ta nói trong nghĩa không có cân đối. Như vậy, này các Tỷ-kheo, là hạng người được điều phục, có
 tốc lực, nhưng không có sắc đẹp, không có cân đối.
 
-4. Và này các Tỷ-kheo, thế nào là hạng người được điều phục, có tốc lực, có sắc đẹp, nhưng không có
+4\. Và này các Tỷ-kheo, thế nào là hạng người được điều phục, có tốc lực, có sắc đẹp, nhưng không có
 cân đối?
 
 Ở đây, này các Tỷ-kheo, Tỷ-kheo do đoạn diệt năm hạ phần kiết sử, được hóa sanh, tại đấy được nhập
@@ -208,7 +216,7 @@ không nhận được các đồ tư dụng, như y áo, đồ ăn khất thự
 trong nghĩa không có cân đối. Như vậy, này các Tỷ-kheo, là hạng người được điều phục, có tốc lực, có
 sắc đẹp, nhưng không có cân đối.
 
-5. Và này các Tỷ-kheo, thế nào là hạng người được điều phục, có tốc lực, có sắc đẹp, có cân đối?
+5\. Và này các Tỷ-kheo, thế nào là hạng người được điều phục, có tốc lực, có sắc đẹp, có cân đối?
 
 Ở đây, này các Tỷ-kheo, Tỷ-kheo do đoạn diệt năm hạ phần kiết sử, được hóa sanh, tại đấy được nhập
 Niết-bàn, không còn phải trở lui đời ấy nữa. Ðây Ta nói trong nghĩa có tốc lực. Nhưng khi được hỏi về
@@ -218,9 +226,10 @@ cân đối. Như vậy, này các Tỷ-kheo, là hạng người được đi�
 
 Những hạng người này, này các Tỷ-kheo, là ba hạng người được điều phục.
 
+<!--pg-->
 **139. Các Loại Ngựa Thuần Thục.**
 
-1. - Này các Tỷ-kheo, Ta sẽ thuyết giảng về ba loại ngựa hiền thiện, thuần thục, ba hạng người hiền
+1\. - Này các Tỷ-kheo, Ta sẽ thuyết giảng về ba loại ngựa hiền thiện, thuần thục, ba hạng người hiền
 thiện, thuần thục. Hãy nghe và khéo tác ý, Ta sẽ nói.
 
 Và này các Tỷ-kheo, thế nào là ba loại ngựa hiền thiện, thuần thục?
@@ -237,7 +246,7 @@ không có cân đối. Ở đây, này các Tỷ-kheo, có hạng người hi�
 nhưng không có cân đối. Ở đây, này các Tỷ-kheo, có hạng người hiền thiện, thuần thục, có tốc lực, có
 sắc đẹp, có cân đối. Những hạng người này, này các Tỷ-kheo, là ba hạng người hiền thiện, thuần thục.
 
-2. Như thế nào, này các Tỷ-kheo, là hạng người hiền thiện, thuần thục, có tốc lực, nhưng không có sắc
+2\. Như thế nào, này các Tỷ-kheo, là hạng người hiền thiện, thuần thục, có tốc lực, nhưng không có sắc
 đẹp, không có cân đối?
 
 Ở đây, này các Tỷ-kheo, Tỷ-kheo do đoạn diệt các lậu hoặc ngay trong hiện tại, tự mình với thắng trí
@@ -246,7 +255,7 @@ Khi được hỏi về thắng pháp và thắng luật, vị ấy ngập ngừ
 không có sắc đẹp. Vị ấy không nhận được các đồ tư dụng, như y áo, đồ ăn khất thực, sàng tọa, dược
 phẩm trị bệnh. Ðây Ta nói trong nghĩa không có cân đối. Như vậy, này các Tỷ-kheo, là hạng người hiền
 thiện, thần thục, có tốc lực, nhưng không có sắc đẹp, không có cân đối.
-3. Như thế nào, này các Tỷ-kheo, là hạng người hiền thiện, thuần thục, có tốc lực, có sắc đẹp, nhưng
+3\. Như thế nào, này các Tỷ-kheo, là hạng người hiền thiện, thuần thục, có tốc lực, có sắc đẹp, nhưng
 không có cân đối?
 
 Ở đây, này các Tỷ-kheo, Tỷ-kheo do đoạn diệt các lậu hoặc ngay trong hiện tại, tự mình với thắng trí
@@ -256,7 +265,7 @@ nghĩa có sắc đẹp. Vị ấy không nhận được các đồ tư dụng,
 phẩm trị bệnh. Ðây Ta nói trong nghĩa không có cân đối. Như vậy, này các Tỷ-kheo, là hạng người hiền
 thiện, thần thục, có tốc lực, có sắc đẹp, nhưng không có cân đối.
 
-4. Như thế nào, này các Tỷ-kheo, là hạng người hiền thiện, thuần thục, có tốc lực, có sắc đẹp, có cân
+4\. Như thế nào, này các Tỷ-kheo, là hạng người hiền thiện, thuần thục, có tốc lực, có sắc đẹp, có cân
 đối?
 
 Ở đây, này các Tỷ-kheo, Tỷ-kheo do đoạn diệt các lậu hoặc ngay trong hiện tại, tự mình với thắng trí
@@ -268,9 +277,10 @@ sắc đẹp, có cân đối.
 
 Ba hạng người này, này các Tỷ-kheo, là ba hạng người hiền thiện, thuần thục.
 
+<!--pg-->
 **140- Morannivàpa**
 
-1. Một thời, Thế Tôn ở Ràjagaha tại Moranivàpa. Tại đấy, Thế Tôn gọi các Tỷ-kheo:
+1\. Một thời, Thế Tôn ở Ràjagaha tại Moranivàpa. Tại đấy, Thế Tôn gọi các Tỷ-kheo:
 
 − Này các Tỷ-kheo.
 
@@ -284,7 +294,8 @@ Với vô học giới uẩn, với vô học định uẩn, với vô học tu�
 Tỷ-kheo là tột cùng tối hảo, tột cùng an ổn khỏi các khổ ách, tột cùng Phạm hạnh, tột cùng cứu cánh,
 bậc tối thượng giữa chư Thiên và loài Người.
 
-2. Ðầy đủ với ba pháp này, này các Tỷ-kheo, một Tỷ-kheo là tột cùng tối hảo, tột cùng an ổn khỏi các
+<!--pg-->
+2\. Ðầy đủ với ba pháp này, này các Tỷ-kheo, một Tỷ-kheo là tột cùng tối hảo, tột cùng an ổn khỏi các
 khổ ách, tột cùng Phạm hạnh, tột cùng cứu cánh, bậc tối thượng giữa chư Thiên và loài Người. Thế nào
 là ba?
 
@@ -292,7 +303,8 @@ Với thần biến thần thông, với ký thuyết thần thông, với giáo
 này các Tỷ-kheo, vị Tỷ-kheo là tột cùng tối hảo, tột cùng an ổn khỏi các khổ ách, tột cùng Phạm hạnh,
 tột cùng cứu cánh, bậc tối thượng giữa chư Thiên và loài Người
 
-3. Ðầy đủ với ba pháp này, này các Tỷ-kheo, một Tỷ-kheo là tột cùng tối hảo, tột cùng an ổn khỏi các
+<!--pg-->
+3\. Ðầy đủ với ba pháp này, này các Tỷ-kheo, một Tỷ-kheo là tột cùng tối hảo, tột cùng an ổn khỏi các
 khổ ách, tột cùng Phạm hạnh, tột cùng cứu cánh, bậc tối thượng giữa chư Thiên và loài Người. Thế nào
 là ba?
 Với chánh tri kiến, với chánh trí, với chánh giải thoát, đầy đủ với ba pháp này, này các Tỷ-kheo, một

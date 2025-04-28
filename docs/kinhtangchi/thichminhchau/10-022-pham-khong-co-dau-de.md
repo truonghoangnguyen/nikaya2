@@ -2,25 +2,31 @@
 
 **(I) (210) Mười Pháp**
 
-1. Thành tựu mười pháp, này các Tỷ-kheo, như vậy tương xứng bị rơi vào địa ngục Thế nào là mười?
+<!--pg-->
+1\. Thành tựu mười pháp, này các Tỷ-kheo, như vậy tương xứng bị rơi vào địa ngục Thế nào là mười?
 
-2. Sát sanh, lấy của không cho, tà hạnh trong các dục, nói láo, nói hai lưỡi, nói lời thô ác, nói lời phù
+<!--pg-->
+2\. Sát sanh, lấy của không cho, tà hạnh trong các dục, nói láo, nói hai lưỡi, nói lời thô ác, nói lời phù
 phiếm, tham ái, sân tâm, tà kiến.
 Thành tựu mười pháp này, này các Tỷ-kheo, như vậy tương xứng bị rơi vào địa ngục.
 
-3. Thành tựu mười pháp, này các Tỷ-kheo, như vậy tương xứng được sanh lên Thiên giới. Thế nào là
+<!--pg-->
+3\. Thành tựu mười pháp, này các Tỷ-kheo, như vậy tương xứng được sanh lên Thiên giới. Thế nào là
 mười?
 
-4. Từ bỏ sát sanh, từ bỏ lấy của không cho, từ bỏ tà hạnh trong các dục, từ bỏ nói láo, từ bỏ nói hai lưỡi,
+<!--pg-->
+4\. Từ bỏ sát sanh, từ bỏ lấy của không cho, từ bỏ tà hạnh trong các dục, từ bỏ nói láo, từ bỏ nói hai lưỡi,
 từ bỏ nói lời thô ác, từ bỏ nói lời phù phiếm, không tham, không sân, tâm chánh kiến.
 
 Thành tựu mười pháp này, này các Tỷ-kheo, như vậy tương xứng được sanh lên Thiên giới.
 
 **(II) (211) Hai Mươi Pháp**
 
-1. Thành tựu hai mươi pháp, như vậy tương xứng bị rơi vào địa ngục. Thế nào là hai mươi?
+<!--pg-->
+1\. Thành tựu hai mươi pháp, như vậy tương xứng bị rơi vào địa ngục. Thế nào là hai mươi?
 
-2. Tự mình sát sanh, khuyến khích người khác sát sanh; tự mình lấy của không cho, khuyến khích người
+<!--pg-->
+2\. Tự mình sát sanh, khuyến khích người khác sát sanh; tự mình lấy của không cho, khuyến khích người
 khác lấy của không cho; tự mình tà hạnh trong các dục; khuyến khích người khác tà hạnh trong các dục;
 tự mình nói láo và khuyến khích người khác nói láo; tự mình nói hai lưỡi; tự mình nói lời thô ác và
 khuyến khích người khác nói lời thô ác; tự mình nói lời phù phiếm và khuyến khích người khác nói lời
@@ -29,10 +35,12 @@ khác có sân tâm; tự mình có tà kiến và khuyến khích người khá
 
 Thành tựu hai mươi pháp này, này các Tỷ-kheo, như vậy tương xứng bị rơi vào địa ngục.
 
-3. Thành tựu hai mươi pháp này, này các Tỷ-kheo, như vậy tương xứng được sanh lên Thiên giới. Thế
+<!--pg-->
+3\. Thành tựu hai mươi pháp này, này các Tỷ-kheo, như vậy tương xứng được sanh lên Thiên giới. Thế
 nào là hai mươi?
 
-4. Tự mình từ bỏ sát sanh và khuyến khích người khác từ bỏ sát sanh; tự mình từ bỏ lấy của không cho,
+<!--pg-->
+4\. Tự mình từ bỏ sát sanh và khuyến khích người khác từ bỏ sát sanh; tự mình từ bỏ lấy của không cho,
 khuyến khích người khác từ bỏ lấy của không cho; tự mình từ bỏ tà hạnh trong các dục; khuyến khích
 người khác từ bỏ tà hạnh trong các dục; tự mình từ bỏ nói láo và khuyến khích người khác từ bỏ nói láo;
 tự mình từ bỏ nói hai lưỡi và khuyến khích người khác từ bỏ nói hai lưỡi; tự mình từ bỏ nói lời thô ác và
@@ -45,10 +53,12 @@ Thành tựu hai mươi pháp này, này các Tỷ-kheo, như vậy tương xứ
 
 **(III) (212) Ba Mươi Pháp**
 
-1. Thành tựu ba mươi pháp, này các Tỷ-kheo, như vậy tương xứng bị rơi vào địa ngục. Thế nào là ba
+<!--pg-->
+1\. Thành tựu ba mươi pháp, này các Tỷ-kheo, như vậy tương xứng bị rơi vào địa ngục. Thế nào là ba
 mươi?
 
-2. Tự mình sát sanh, khuyến khích người khác sát sanh, và tùy thuận sát sanh; tự mình lấy của không
+<!--pg-->
+2\. Tự mình sát sanh, khuyến khích người khác sát sanh, và tùy thuận sát sanh; tự mình lấy của không
 cho, khuyến khích người khác lấy của không cho, và tùy thuận lấy của không cho; tự mình tà hạnh trong
 các dục; khuyến khích người khác tà hạnh trong các dục, và tùy thuận tà hạnh trong các dục; tự mình nói
 láo; khuyến khích người khác nói láo, và tùy thuận nói láo; tự mình nói hai lưỡi; khuyến khích người
@@ -60,10 +70,12 @@ tà kiến và khuyến khích người khác có tà kiến, và tùy thuận t
 
 Thành tựu với ba mươi pháp này, này các Tỷ-kheo, như vậy tương xứng bị rơi vào địa ngục.
 
-3. Thành tựu với ba mươi pháp này, này các Tỷ-kheo, như vậy tương xứng được sanh lên Thiên giới.
+<!--pg-->
+3\. Thành tựu với ba mươi pháp này, này các Tỷ-kheo, như vậy tương xứng được sanh lên Thiên giới.
 Thế nào là ba mươi?
 
-4. Tự mình từ bỏ sát sanh, khuyến khích người khác từ bỏ sát sanh, và không tùy thuận sát sanh; tự mình
+<!--pg-->
+4\. Tự mình từ bỏ sát sanh, khuyến khích người khác từ bỏ sát sanh, và không tùy thuận sát sanh; tự mình
 từ bỏ lấy của không cho, khuyến khích người khác từ bỏ lấy của không cho, và không tùy thuận lấy của
 không cho; tự mình từ bỏ tà hạnh trong các dục; khuyến khích người khác từ bỏ tà hạnh trong các dục,
 và không tùy thuận tà hạnh trong các dục; tự mình từ bỏ nói láo; khuyến khích người khác từ bỏ nói láo,
@@ -79,10 +91,12 @@ Thành tựu với ba mươi pháp này, này các Tỷ-kheo, như vậy tương
 
 **(IV) (213) Bốn Mươi Pháp**
 
-1. Thành tựu với bốn mươi pháp, này các Tỷ-kheo, như vậy tương xứng bị rơi vào địa ngục. Thế nào là
+<!--pg-->
+1\. Thành tựu với bốn mươi pháp, này các Tỷ-kheo, như vậy tương xứng bị rơi vào địa ngục. Thế nào là
 bốn mươi?
 
-2. Tự mình sát sanh, khuyến khích người khác sát sanh, tùy thuận sát sanh, và tán thán sát sanh; tự mình
+<!--pg-->
+2\. Tự mình sát sanh, khuyến khích người khác sát sanh, tùy thuận sát sanh, và tán thán sát sanh; tự mình
 lấy của không cho, khuyến khích người khác lấy của không cho, tùy thuận lấy của không cho, và tán
 thán lấy của không cho; tự mình tà hạnh trong các dục; khuyến khích người khác tà hạnh trong các dục,
 tùy thuận tà hạnh trong các dục, và tán thán tà hạnh trong các dục; tự mình nói láo; khuyến khích người
@@ -96,9 +110,11 @@ khuyến khích người khác có tà kiến, tùy thuận có tà kiến, và 
 
 Thành tựu bốn mươi pháp này, này các Tỷ-kheo, như vậy tương xứng bị rơi vào địa ngục.
 
-3. Thành tựu với bốn mươi pháp, như vậy tương xứng được sanh lên Thiên giới. Thế nào là bốn mươi?
+<!--pg-->
+3\. Thành tựu với bốn mươi pháp, như vậy tương xứng được sanh lên Thiên giới. Thế nào là bốn mươi?
 
-4. Tự mình từ bỏ sát sanh, không khuyến khích người khác sát sanh, không tùy thuận sát sanh, và không
+<!--pg-->
+4\. Tự mình từ bỏ sát sanh, không khuyến khích người khác sát sanh, không tùy thuận sát sanh, và không
 tán thán sát sanh; tự mình từ bỏ lấy của không cho, không khuyến khích người khác lấy của không cho,
 không tùy thuận lấy của không cho, và không tán thán lấy của không cho; tự mình từ bỏ tà hạnh trong
 các dục; không khuyến khích người khác tà hạnh trong các dục, không tùy thuận tà hạnh trong các dục,
@@ -141,36 +157,44 @@ Thành tựu với mười pháp này, này các Tỷ-kheo, người hiền trí
 
 **(VIII) (217) Tham Ái (1)**
 
-1. Ðể thắng tri tham ái, này các Tỷ-kheo, mười pháp cần phải tu tập. Thế nào là mười?
+<!--pg-->
+1\. Ðể thắng tri tham ái, này các Tỷ-kheo, mười pháp cần phải tu tập. Thế nào là mười?
 
-2. Bất tịnh tưởng, tưởng chết, tưởng nhàm chán trong các món ăn, tưởng không hoan hỷ đối với tất cả
+<!--pg-->
+2\. Bất tịnh tưởng, tưởng chết, tưởng nhàm chán trong các món ăn, tưởng không hoan hỷ đối với tất cả
 thế giới, tưởng vô thường, tưởng khổ trong vô thường, tưởng vô ngã trong khổ, tưởng đoạn tận, tưởng ly
 tham, tưởng đoạn diệt.
 
 Ðể thắng tri tham, này các Tỷ-kheo, mười pháp này cần phải tu tập.
 
-3. Ðể thắng tri tham ái, này các Tỷ-kheo, mười pháp cần phải tu tập. Thế nào là mười?
+<!--pg-->
+3\. Ðể thắng tri tham ái, này các Tỷ-kheo, mười pháp cần phải tu tập. Thế nào là mười?
 
-4. Tưởng vô thường, tưởng vô ngã, tưởng nhàm chán trong các món ăn, tưởng không hoan hỷ đối với tất
+<!--pg-->
+4\. Tưởng vô thường, tưởng vô ngã, tưởng nhàm chán trong các món ăn, tưởng không hoan hỷ đối với tất
 cả thế giới, tưởng bộ xương, tưởng trùng ăn, tưởng xanh ứ, tưởng nước mủ chảy ra, tưởng nứt nẻ, tưởng
 trương phồng lên.
 Ðể thắng tri tham, này các Tỷ-kheo, mười pháp này cần phải tu tập.
 
 **(IX) (218) Tham Ái (2)**
 
-1. Ðể thắng tri tham ái, này các Tỷ-kheo, mười pháp cần phải tu tập. Thế nào là mười?
+<!--pg-->
+1\. Ðể thắng tri tham ái, này các Tỷ-kheo, mười pháp cần phải tu tập. Thế nào là mười?
 
-2. Chánh tri kiến, chánh tư duy, chánh ngữ, chánh nghiệp, chánh mạng, chánh tinh tấn, chánh niệm,
+<!--pg-->
+2\. Chánh tri kiến, chánh tư duy, chánh ngữ, chánh nghiệp, chánh mạng, chánh tinh tấn, chánh niệm,
 chánh định, chánh trí, chánh giải thoát.
 
 Ðể thắng tri tham ái, này các Tỷ-kheo, mười pháp cần phải tu tập.
 
 **(X) (219) Tham Ái, Sân**
 
-1. Này các Tỷ-kheo, để biến tri, để biến diệt, để đoạn tận, để trừ diệt, để hủy diệt, để ly tham, để đoạn
+<!--pg-->
+1\. Này các Tỷ-kheo, để biến tri, để biến diệt, để đoạn tận, để trừ diệt, để hủy diệt, để ly tham, để đoạn
 diệt, để an tịnh, để bỏ đi, để từ bỏ tham, mười pháp này cần phải tu tập...
 
-2. Ðể biến tri, để biến diệt, để đoạn tận, để trừ diệt, để hủy diệt, để ly tham, để đoạn diệt, để an tịnh, để
+<!--pg-->
+2\. Ðể biến tri, để biến diệt, để đoạn tận, để trừ diệt, để hủy diệt, để ly tham, để đoạn diệt, để an tịnh, để
 bỏ đi, để từ bỏ sân, si, phẫn nộ, hiềm hận, gièm pha, não hại, tật đố, xan tham, mê hoặc, gian trá, cứng
 đầu, bồng bột, mạn, quá mạn, đắm say, phóng dật, mười pháp này cần phải tu tập.
 

@@ -1,4 +1,4 @@
-## The Chapter on Messengers of the Gods
+# The Chapter on Messengers of the Gods
 
 ### N 3.31 With Divinity  *Sabrahmakasutta*
 
@@ -35,6 +35,7 @@ them, nurture them, and show them the world.
 > in this life they're praised by the astute,\
 > and they depart to rejoice in heaven."
 
+<!--pg-->
 ### N 3.32 With Ānanda  *Ānandasutta*
 
 Then Venerable Ānanda went up to the Buddha, bowed, sat down to one
@@ -72,7 +73,7 @@ I-making, mine-making, and the underlying tendency to conceit are no
 more.
 
 And Ānanda, this is what I was referring to in 'The Way to the Far
-Shore', in 'The Questions of [Puṇṇaka]{lang="sa"}' when I said:
+Shore', in 'The Questions of Puṇṇaka. ' when I said:
 
 > 'Having appraised the world high and low,\
 > there is nothing in the world that disturbs them.\
@@ -80,9 +81,10 @@ Shore', in 'The Questions of [Puṇṇaka]{lang="sa"}' when I said:
 > \>with no need for hope---\
 > they've crossed over rebirth and old age, I declare.'"
 
+<!--pg-->
 ### N 3.33 With Sāriputta  *Sāriputtasutta*
 
-Then Venerable [Sāriputta]{lang="sa"} went up to the Buddha, bowed, and
+Then Venerable Sāriputta.  went up to the Buddha, bowed, and
 sat down to one side. The Buddha said to him, "Maybe I'll teach Dhamma
 in brief, maybe in detail, maybe both in brief and in detail. But it's
 hard to find anyone who understands."
@@ -91,7 +93,7 @@ hard to find anyone who understands."
 teach Dhamma in brief, in detail, and both in brief and in detail. There
 will be those who understand the teaching!"
 
-"So, [Sāriputta]{lang="sa"}, you should train like this: 'There'll be no
+"So, Sāriputta. , you should train like this: 'There'll be no
 I-making, mine-making, or underlying tendency to conceit for this
 conscious body; and no I-making, mine-making, or underlying tendency to
 conceit for all external stimuli; and we'll live having achieved the
@@ -108,7 +110,7 @@ more---they're called a mendicant who has cut off craving, untied the
 fetters, and by rightly comprehending conceit has made an end of
 suffering.
 
-And [Sāriputta]{lang="sa"}, this is what I was referring to in 'The Way
+And Sāriputta. , this is what I was referring to in 'The Way
 to the Far Shore', in 'The Questions of Udaya' when I said:
 
 > 'The giving up of both\
@@ -121,6 +123,7 @@ to the Far Shore', in 'The Questions of Udaya' when I said:
 > this, I declare, is liberation by enlightenment,\
 > the smashing of ignorance.'"
 
+<!--pg-->
 ### N 3.34 Sources  *Nidānasutta*
 
 "Mendicants, there are these three sources that give rise to deeds. What
@@ -208,13 +211,14 @@ These are three sources that give rise to deeds.
 > of the outcome of greed, hate, and delusion,\
 > would cast off all bad destinies."
 
+<!--pg-->
 ### N 3.35 With Hatthaka  *Hatthakasutta*
 
-[So I have heard.]{.smallcaps} At one time the Buddha was staying near
-[Āḷavī]{lang="sa"}, on a mat of leaves by a cow-path in a grove of
+So I have heard.At one time the Buddha was staying near
+Āḷavī. , on a mat of leaves by a cow-path in a grove of
 Indian Rosewood.
 
-Then as Hatthaka of [Āḷavī]{lang="sa"} was going for a walk he saw the
+Then as Hatthaka of Āḷavī.  was going for a walk he saw the
 Buddha sitting on that mat of leaves. He went up to the Buddha, bowed,
 sat down to one side, and said, "Sir, I trust the Buddha slept well?"
 
@@ -273,6 +277,7 @@ That's why I sleep at ease.
 > the peaceful sleep at ease,\
 > having found peace of mind."
 
+<!--pg-->
 ### N 3.36 Messengers of the Gods  *Devadūtasutta*
 
 "There are, mendicants, these three messengers of the gods. What three?
@@ -431,6 +436,7 @@ myself.
 > They've gone beyond all threats and perils,\
 > and risen above all suffering."
 
+<!--pg-->
 ### N 3.37 The Four Great Kings (1st)  *Catumahārājasutta*
 
 "On the eighth day of the fortnight, mendicants, the ministers and
@@ -491,6 +497,7 @@ appropriate to say:
 Why is that? Because that mendicant is free of greed, hate, and
 delusion."
 
+<!--pg-->
 ### N 3.38 The Four Great Kings (2nd)  *Dutiyacatumahārājasutta*
 
 "Once upon a time, mendicants, Sakka, lord of gods, guiding the gods of
@@ -526,6 +533,7 @@ Why is that? Because that mendicant is exempt from rebirth, old age, and
 death, from sorrow, lamentation, pain, sadness, and distress. He is
 exempt from suffering, I say."
 
+<!--pg-->
 ### N 3.39 A Delicate Lifestyle  *Sukhumālasutta*
 
 "My lifestyle was delicate, mendicants, most delicate, extremely
@@ -534,8 +542,8 @@ delicate.
 In my father's home, lotus ponds were made just for me. In some, blue
 water lilies blossomed, while in others, there were pink or white
 lotuses, just for my benefit. I only used sandalwood from
-[Kāsi]{lang="sa"}, and my turbans, jackets, sarongs, and upper robes
-also came from [Kāsi]{lang="sa"}. And a white parasol was held over me
+Kāsi. , and my turbans, jackets, sarongs, and upper robes
+also came from Kāsi. . And a white parasol was held over me
 night and day, with the thought: 'Don't let cold, heat, grass, dust, or
 damp bother him.'
 
@@ -573,6 +581,7 @@ be appropriate for me to be horrified, embarrassed, and disgusted, when
 I see someone else who is dead.' Reflecting like this, I entirely gave
 up the vanity of life.
 
+<!--pg-->
 There are these three vanities. What three? The vanity of youth, of
 health, and of life.
 
@@ -616,6 +625,7 @@ rejects the training and returns to a lesser life.
 > there's no turning back,\
 > I'm committed to the spiritual life."
 
+<!--pg-->
 ### N 3.40 In Charge  *Ādhipateyyasutta*
 
 "There are, mendicants, these three things to put in charge. What three?
@@ -633,7 +643,7 @@ for me to seek sensual pleasures like those I abandoned when I went
 forth, or even worse.' Then they reflect: 'My energy shall be roused up
 and unflagging, mindfulness shall be established and lucid, my body
 shall be tranquil and undisturbed, and my mind shall be immersed in
-[samādhi]{lang="sa"}.' Putting themselves in charge, they give up the
+samādhi. .' Putting themselves in charge, they give up the
 unskillful and develop the skillful, they give up the blameworthy and
 develop the blameless, and they keep themselves pure. This is called
 putting oneself in charge.
@@ -664,7 +674,7 @@ to homelessness, but he's living mixed up with bad, unskillful
 qualities."' Then they reflect: 'My energy shall be roused up and
 unflagging, mindfulness shall be established and lucid, my body shall be
 tranquil and undisturbed, and my mind shall be immersed in
-[samādhi]{lang="sa"}.' Putting the world in charge, they give up the
+samādhi. .' Putting the world in charge, they give up the
 unskillful and develop the skillful, they give up the blameworthy and
 develop the blameless, and they keep themselves pure. This is called
 putting the world in charge.
@@ -684,7 +694,7 @@ that I've gone forth in this well explained teaching and training, it
 would not be appropriate for me to live lazy and heedless.' Then they
 reflect: 'My energy shall be roused up and unflagging, mindfulness shall
 be established and lucid, my body shall be tranquil and undisturbed, and
-my mind shall be immersed in [samādhi]{lang="sa"}.' Putting the teaching
+my mind shall be immersed in samādhi. .' Putting the teaching
 in charge, they give up the unskillful and develop the skillful, they
 give up the blameworthy and develop the blameless, and they keep
 themselves pure. This is called putting the teaching in charge.
@@ -710,7 +720,7 @@ These are the three things to put in charge.
 > \>live in line with that teaching:\
 > a sage who tries for the truth doesn't deteriorate.
 >
-> [Māra]{lang="sa"}'s conquered; the terminator's overcome:\
+> Māra. 's conquered; the terminator's overcome:\
 > one who strives reaches the end of rebirth.\
 > Unaffected, intelligent, knowing the world---\
 > that sage is determined by nothing at all."

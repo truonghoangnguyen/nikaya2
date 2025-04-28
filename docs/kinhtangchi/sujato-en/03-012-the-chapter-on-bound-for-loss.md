@@ -1,4 +1,4 @@
-## The Chapter on Bound for Loss
+# The Chapter on Bound for Loss
 
 ### N 3.113 Bound for Loss  *Āpāyikasutta*
 
@@ -13,6 +13,7 @@ pleasures,' so they throw themselves into sensual pleasures.
 These are the three who are bound for a place of loss, bound for hell,
 if they don't give up this fault."
 
+<!--pg-->
 ### N 3.114 Rare  *Dullabhasutta*
 
 "Mendicants, the appearance of three people is rare in the world. What
@@ -21,6 +22,7 @@ teacher of the teaching and training proclaimed by a Realized One. A
 person who is grateful and thankful. The appearance of these three
 people is rare in the world."
 
+<!--pg-->
 ### N 3.115 Immeasurable  *Appameyyasutta*
 
 "Mendicants, these three people are found in the world. What three?
@@ -43,6 +45,7 @@ and has ended defilements. This is called 'an immeasurable person'.
 
 These are the three people found in the world."
 
+<!--pg-->
 ### N 3.116 Imperturbable  *Āneñjasutta*
 
 "Mendicants, these three people are found in the world. What three?
@@ -91,6 +94,7 @@ an unlearned ordinary person as regards their place of rebirth.
 
 These are the three people found in the world."
 
+<!--pg-->
 ### N 3.117 Failures and Accomplishments  *Vipattisampadāsutta*
 
 "Mendicants, there are three failures. What three? Failure in ethics,
@@ -139,6 +143,7 @@ because of accomplishment in ethics, mind, or view.
 
 These are the three accomplishments."
 
+<!--pg-->
 ### N 3.118 Unfailing Dice  *Apaṇṇakasutta*
 
 "Mendicants, there are three failures. What three? Failure in ethics,
@@ -196,6 +201,7 @@ mind, or view.
 
 These are the three accomplishments."
 
+<!--pg-->
 ### N 3.119 Action  *Kammantasutta*
 
 "Mendicants, there are three failures. What three? Failure in action,
@@ -241,6 +247,7 @@ is called 'accomplishment in view'.
 
 These are the three accomplishments."
 
+<!--pg-->
 ### N 3.120 Purity (1st)  *Paṭhamasoceyyasutta*
 
 "Mendicants, there are these three kinds of purity. What three? Purity
@@ -259,6 +266,7 @@ and has right view. This is called 'purity of mind'.
 
 These are the three kinds of purity."
 
+<!--pg-->
 ### N 3.121 Purity (2nd)  *Dutiyasoceyyasutta*
 
 "Mendicants, there are these three kinds of purity. What three? Purity
@@ -314,6 +322,7 @@ These are the three kinds of purity.
 > A pure person, blessed with purity,\
 > has washed off all bad things, they say."
 
+<!--pg-->
 ### N 3.122 Sagacity  *Moneyyasutta*
 
 "Mendicants, there are these three kinds of sagacity. What three?

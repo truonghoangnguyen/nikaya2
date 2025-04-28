@@ -1,4 +1,4 @@
-## The Chapter on Ascetics
+# The Chapter on Ascetics
 
 ### N 3.81 Ascetics  *Samaṇasutta*
 
@@ -10,6 +10,7 @@ So you should train like this: 'We will have keen enthusiasm for
 undertaking the training in the higher ethics, the higher mind, and the
 higher wisdom.' That's how you should train."
 
+<!--pg-->
 ### N 3.82 The Donkey  *Gadrabhasutta*
 
 "Suppose, mendicants, a donkey followed behind a herd of cattle,
@@ -19,16 +20,17 @@ follows behind a herd of cattle, thinking: 'I can moo too! I can moo
 too!'
 
 In the same way, some mendicant follows behind the mendicant
-[Saṅgha]{lang="sa"}, thinking: 'I'm a monk too! I'm a monk too!' But
+Saṅgha, thinking: 'I'm a monk too! I'm a monk too!' But
 they don't have the same enthusiasm for undertaking the training in the
 higher ethics, the higher mind, and the higher wisdom as the other
-mendicants. Still they follow behind the mendicant [Saṇgha]{lang="sa"},
+mendicants. Still they follow behind the mendicant Saṇgha,
 thinking: 'I'm a monk too! I'm a monk too!'
 
 So you should train like this: 'We will have keen enthusiasm for
 undertaking the training in the higher ethics, the higher mind, and the
 higher wisdom.' That's how you should train."
 
+<!--pg-->
 ### N 3.83 Fields  *Khettasutta*
 
 "Mendicants, a farmer has three primary duties. What three? A farmer
@@ -44,9 +46,10 @@ So you should train like this: 'We will have keen enthusiasm for
 undertaking the training in the higher ethics, the higher mind, and the
 higher wisdom.' That's how you should train."
 
+<!--pg-->
 ### N 3.84 The Vajji  *Vajjiputtasutta*
 
-At one time the Buddha was staying near [Vesālī]{lang="sa"}, at the
+At one time the Buddha was staying near Vesālī, at the
 Great Wood, in the hall with the peaked roof. Then a certain Vajji monk
 went up to the Buddha, bowed, sat down to one side, and said to him:
 
@@ -68,6 +71,7 @@ After some time that monk trained in the higher ethics, the higher mind,
 and the higher wisdom. He gave up greed, hate, and delusion. Then he
 didn't do anything unskillful, or practice anything bad.
 
+<!--pg-->
 ### N 3.85 A Trainee  *Sekkhasutta*
 
 Then a mendicant went up to the Buddha, bowed, sat down to one side, and
@@ -90,6 +94,7 @@ the higher wisdom. They train, that's why they're called 'a trainee'.
 > with the end of the fetters of continued existence:\
 > 'My freedom is unshakable.'"
 
+<!--pg-->
 ### N 3.86 Training (1st)  *Paṭhamasikkhāsutta*
 
 "Mendicants, each fortnight over a hundred and fifty training rules come
@@ -139,6 +144,7 @@ So, mendicants, if you practice partially you succeed partially. If you
 practice fully you succeed fully. These training rules are not a waste,
 I say."
 
+<!--pg-->
 ### N 3.87 Training (2nd)  *Dutiyasikkhāsutta*
 
 "Mendicants, each fortnight over a hundred and fifty training rules come
@@ -170,7 +176,7 @@ they're incapable of that. But they're constant and steady in their
 precepts regarding the training rules that are fundamental, befitting
 the spiritual path. They keep the rules they've undertaken. With the
 ending of the five lower fetters they head upstream, going to the
-[Akaniṭṭha]{lang="sa"} realm. With the ending of the five lower fetters
+Akaniṭṭha realm. With the ending of the five lower fetters
 they're extinguished with extra effort. With the ending of the five
 lower fetters they're extinguished without extra effort. With the ending
 of the five lower fetters they're extinguished upon landing. With the
@@ -190,6 +196,7 @@ So, mendicants, if you practice partially you succeed partially. If you
 practice fully you succeed fully. These training rules are not a waste,
 I say."
 
+<!--pg-->
 ### N 3.88 Training (3rd)  *Tatiyasikkhāsutta*
 
 "Mendicants, each fortnight over a hundred and fifty training rules come
@@ -222,7 +229,7 @@ If they don't penetrate so far, with the ending of the five lower
 fetters they're extinguished with extra effort.
 
 If they don't penetrate so far, with the ending of the five lower
-fetters they head upstream, going to the [Akaniṭṭha]{lang="sa"} realm.
+fetters they head upstream, going to the Akaniṭṭha realm.
 
 If they don't penetrate so far, with the ending of three fetters, and
 the weakening of greed, hate, and delusion, they're a once-returner.
@@ -244,6 +251,7 @@ So, mendicants, if you practice fully you succeed fully. If you practice
 partially you succeed partially. These training rules are not a waste, I
 say."
 
+<!--pg-->
 ### N 3.89 Three Trainings (1st)  *Paṭhamasikkhattayasutta*
 
 "Mendicants, these are the three trainings. What three? The training in
@@ -267,6 +275,7 @@ the cessation of suffering' ... 'This is the practice that leads to the
 cessation of suffering'. This is called the training in the higher
 wisdom. These are the three trainings."
 
+<!--pg-->
 ### N 3.90 Three Trainings (2nd)  *Dutiyasikkhattayasutta*
 
 "Mendicants, these are the three trainings. What three? The training in
@@ -315,21 +324,22 @@ wisdom. These are the three trainings.
 > the liberation of their heart\
 > is like a lamp going out."
 
+<!--pg-->
 ### N 3.91 At Paṅkadhā  *Saṅkavāsutta*
 
 At one time the Buddha was wandering in the land of the Kosalans
-together with a large [Saṅgha]{lang="sa"} of mendicants. He arrived at a
-town of the Kosalans named [Paṅkadhā]{lang="sa"}, and stayed there.
+together with a large Saṅgha of mendicants. He arrived at a
+town of the Kosalans named Paṅkadhā, and stayed there.
 
 Now, at that time a monk called Kassapagotta was resident at
-[Paṅkadhā]{lang="sa"}. There the Buddha educated, encouraged, fired up,
+Paṅkadhā. There the Buddha educated, encouraged, fired up,
 and inspired the mendicants with a Dhamma talk about the training rules.
 Kassapagotta became quite impatient and bitter, thinking, "This ascetic
 is much too strict."
 
-When the Buddha had stayed in [Paṅkadhā]{lang="sa"} as long as he
-pleased, he set out for [Rājagaha]{lang="sa"}. Traveling stage by stage,
-he arrived at [Rājagaha]{lang="sa"}, and stayed there.
+When the Buddha had stayed in Paṅkadhā as long as he
+pleased, he set out for Rājagaha. Traveling stage by stage,
+he arrived at Rājagaha, and stayed there.
 
 Soon after the Buddha left, Kassapagotta became quite remorseful and
 regretful, thinking, "It's my loss, my misfortune, that when the Buddha
@@ -338,8 +348,8 @@ bitter, thinking he was much too strict. Why don't I go to the Buddha
 and confess my mistake to him?"
 
 Then Kassapagotta set his lodgings in order and, taking his bowl and
-robe, set out for [Rājagaha]{lang="sa"}. Eventually he came to
-[Rājagaha]{lang="sa"} and the Vulture's Peak. He went up to the Buddha,
+robe, set out for Rājagaha. Eventually he came to
+Rājagaha and the Vulture's Peak. He went up to the Buddha,
 bowed, sat down to one side, and told him what had happened, saying:
 
 "I have made a mistake, sir. It was foolish, stupid, and unskillful of

@@ -2,11 +2,13 @@
 
 **(I) (31) Sumanà, Con Gái Vua**
 
-1. Một thời, Thế Tôn trú ở Sàvatthi, Jetavana, tại khu vườn của Anàthapindika. Rồi Sumanà, con gái
+<!--pg-->
+1\. Một thời, Thế Tôn trú ở Sàvatthi, Jetavana, tại khu vườn của Anàthapindika. Rồi Sumanà, con gái
 vua, với năm trăm thiếu nữ hộ tống trên năm trăm cổ xe, đi đến Thế Tôn, sau khi đến, đảnh lễ Thế Tôn
 rồi ngồi xuống một bên. Ngồi xuống một bên, Sumanà, con gái vua bạch Thế Tôn:
 
-2. - Ở đây, bạch Thế Tôn, có hai đệ tử của Thế Tôn đồng đẳng về tín, đồng đẳng về giới, đồng đẳng về
+<!--pg-->
+2\. - Ở đây, bạch Thế Tôn, có hai đệ tử của Thế Tôn đồng đẳng về tín, đồng đẳng về giới, đồng đẳng về
 tuệ, một có bố thí, một không bố thí. Sau khi thân hoại mạng chung, cả hai được sanh lên cõi lành Thiên
 giới. Giữa hai vị thiên ấy, có sự đặc thù gì, có sự sai khác gì?
 
@@ -14,29 +16,34 @@ Thế Tôn đáp:
 
 − Có sự sai biệt, này Sumanà.
 
-3. Người có bố thí, khi được làm vị Thiên, vượt qua vị Thiên không có bố thí trên năm phương diện. Về
+<!--pg-->
+3\. Người có bố thí, khi được làm vị Thiên, vượt qua vị Thiên không có bố thí trên năm phương diện. Về
 thiên thọ mạng, về thiên sắc, về thiên lạc, về thiên danh xưng, về thiên tăng thượng. Người có bố thí,
 này Sumanà, khi được làm vị Thiên, vượt qua vị Thiên không bố thí trên năm phương diện này.
 
-4. - Bạch Thế Tôn, nếu họ từ đây mạng chung, trở lại trạng thái này, khi họ trở lại làm người, bạch Thế
+<!--pg-->
+4\. - Bạch Thế Tôn, nếu họ từ đây mạng chung, trở lại trạng thái này, khi họ trở lại làm người, bạch Thế
 Tôn, có sự đặc thù gì, có sự sai khác gì?
 
 Thế Tôn đáp:
 
 − Có sự sai biệt, này Sumanà.
 
-5. Người có bố thí, khi được làm người, vượt qua vị làm người không bố thí trên năm phương diện: Về
+<!--pg-->
+5\. Người có bố thí, khi được làm người, vượt qua vị làm người không bố thí trên năm phương diện: Về
 nhân thọ mạng, về nhân sắc, về nhân lạc, về nhân danh xưng, về nhân tăng thượng. Người có bố thí, này
 Sumanà, khi được làm người, vượt qua vị làm người không bố thí trên năm phương diện này
 
-6. - Bạch Thế Tôn, nếu cả hai đều xuất gia, từ bỏ gia đình, sống không gia đình. Giữa hai người xuất gia
+<!--pg-->
+6\. - Bạch Thế Tôn, nếu cả hai đều xuất gia, từ bỏ gia đình, sống không gia đình. Giữa hai người xuất gia
 ấy, bạch Thế Tôn có thể có những đặc thù gì, những sai khác gì?
 
 Thế Tôn đáp:
 
 − Có sự sai biệt, này Sumanà.
 
-7. Người có bố thí, khi được xuất gia, vượt qua vị xuất gia không có bố thí trên năm phương diện:
+<!--pg-->
+7\. Người có bố thí, khi được xuất gia, vượt qua vị xuất gia không có bố thí trên năm phương diện:
 Thường hay được yêu cầu nhận y, ít khi không được yêu cầu; thường hay được yêu cầu nhận đồ ăn khất
 thực, ít khi không được yêu cầu; thường hay được yêu cầu nhận sàng tọa, ít khi không được yêu cầu;
 thường hay được yêu cầu nhận dược phẩm trị bệnh, ít khi không được yêu cầu. Vị ấy sống với những vị
@@ -45,12 +52,15 @@ không khả ái, với nhiều khẩu nghiệp khả ái, với ít khẩu nghi
 với ít ý nghiệp không khả ái, giúp đỡ với nhiều giúp đỡ khả ái, với ít giúp đỡ không khả ái. Này
 Sumanà, người có bố thí khi được xuất gia, vượt qua người không có bố thí trên năm phương diện này.
 
-8. - Nhưng bạch Thế Tôn, nếu cả hai đều chứng quả A-la-hán. Với hai vị chứng đạt A-la-hán ấy, bạch
+<!--pg-->
+8\. - Nhưng bạch Thế Tôn, nếu cả hai đều chứng quả A-la-hán. Với hai vị chứng đạt A-la-hán ấy, bạch
 Thế Tôn có sự đặc thù nào, có sự sai khác nào?
 
-9. - Ở đây, này Sumanà, Ta nói không có sự sai khác nào, tức là so sánh giải thoát với giải thoát.
+<!--pg-->
+9\. - Ở đây, này Sumanà, Ta nói không có sự sai khác nào, tức là so sánh giải thoát với giải thoát.
 
-10. - Thật vi diệu thay, bạch Thế Tôn! Thật hy hữu thay, bạch Thế Tôn! Xa cho đến như vậy là vừa đủ
+<!--pg-->
+10\. - Thật vi diệu thay, bạch Thế Tôn! Thật hy hữu thay, bạch Thế Tôn! Xa cho đến như vậy là vừa đủ
 để bố thí, là vừa đủ để làm cho các công đức. Vì rằng chúng là những giúp đỡ, những công đức cho chư
 Thiên, chúng là những giúp đỡ, những công đức cho loài Người, chúng là những giúp đỡ, những công
 đức cho các người xuất gia.
@@ -59,7 +69,8 @@ Thiên, chúng là những giúp đỡ, những công đức cho loài Người,
 Chúng là những giúp ích, những công đức cho chư Thiên. Chúng là những giúp ích, những công đức
 cho loài Người. Chúng là những giúp ích, những công đức cho những người xuất gia.
 
-11. Thế Tôn thuyết như vậy. Bậc Thiện Thệ nói như vậy xong, bậc Ðạo Sư lại nói thêm:
+<!--pg-->
+11\. Thế Tôn thuyết như vậy. Bậc Thiện Thệ nói như vậy xong, bậc Ðạo Sư lại nói thêm:
 
 _Như mặt trăng không uế,_
 _Ði giữa hư không giới,_
@@ -84,11 +95,13 @@ _Chết hưởng hỷ lạc thiên._
 
 **(II) (32) Cundì, Con Gái Vua**
 
-1. Một thời, Thế Tôn ở Ràjagaha (Vương Xá), Veluvana (Trúc Lâm), chỗ nuôi dưỡng các con sóc. Rồi
+<!--pg-->
+1\. Một thời, Thế Tôn ở Ràjagaha (Vương Xá), Veluvana (Trúc Lâm), chỗ nuôi dưỡng các con sóc. Rồi
 Cundì, con gái vua, với năm trăm thiếu nữ hộ tống trên năm trăm cỗ xe đi đến Thế Tôn, sau khi đến,
 đảnh lễ Thế Tôn ngồi xuống một bên. Ngồi xuống một bên, Cundì, con gái vua bạch Thế Tôn:
 
-2. - Anh của chúng con, bạch Thế Tôn, hoàng tử Cunda nói như sau: “Nếu có người đàn bà hay người
+<!--pg-->
+2\. - Anh của chúng con, bạch Thế Tôn, hoàng tử Cunda nói như sau: “Nếu có người đàn bà hay người
 đàn ông quy y Phật, quy y Pháp, quy y chúng Tăng, từ bỏ sát sanh, từ bỏ lấy của không cho, từ bỏ tà
 hạnh trong các dục, từ bỏ nói láo, từ bỏ say đắm rượu men, rượu nấu, người ấy, sau khi thân hoại mạng
 chung, nhất định sanh lên cõi lành, không vào cõi dữ”. Nhưng bạch Thế Tôn, con xin hỏi Thế Tôn: Với
@@ -98,23 +111,27 @@ cõi lành, không vào cõi dữ? Với lòng tin Pháp như thế nào, sau kh
 chung, nhất định được sanh lên cõi lành, không vào cõi dữ? Làm cho đầy đủ các giới như thế nào, sau
 khi thân loại mạng chung, nhất định được sanh lên cõi lành, không vào cõi dữ?
 
-3. - Dầu cho các loại hữu tình nào, này Cundì, không chân hay hai chân, bốn chân hay nhiều chân, có
+<!--pg-->
+3\. - Dầu cho các loại hữu tình nào, này Cundì, không chân hay hai chân, bốn chân hay nhiều chân, có
 sắc hay không sắc, có tưởng hay không tưởng, hay phi tưởng phi phi tưởng, Thế Tôn, bậc A-la-hán,
 Chánh Ðẳng Giác được xem là tối thượng. Những ai đặt lòng tin vào đức Phật, họ đặt lòng tin vào tối
 thượng. Vơi những ai đặt lòng tin vào tối thượng, họ được quả dị thục tối thượng.
-4. Dầu cho loại pháp nào, này Cundì, hữu vi hay vô vi, ly tham được xem là tối thượng trong tất cả
+<!--pg-->
+4\. Dầu cho loại pháp nào, này Cundì, hữu vi hay vô vi, ly tham được xem là tối thượng trong tất cả
 pháp, (tức là) sự chiếc phục kiêu mạn, dự nhiếp phục khao khát, sự nhổ lên dục ái, sự chặt đứt tái sanh,
 sự đoạn diệt tham ái, sự ly tham, đoạn diệt, Niết-bàn. Những ai đặt lòng tin vào pháp ly tham, này
 Cundĩ, họ đặt lòng tin vào tối thượng. Với những ai đặt lòng tin vào tối thượng, họ được quả dị thục tối
 thượng.
 
-5. Dầu cho loại chúng Tăng hay Hội chúng nào, này Cundì, chúng Tăng đệ tử của Như Lai, được xem là
+<!--pg-->
+5\. Dầu cho loại chúng Tăng hay Hội chúng nào, này Cundì, chúng Tăng đệ tử của Như Lai, được xem là
 tối thượng trong tất cả hội chúng ấy, tức là bốn đôi tám vị. Chúng Tăng đệ tử của Như Lai đáng được
 cung kính, đáng được tôn trọng, đáng được cúng đường, đáng được chắp tay, là vô thượng phước điền ở
 đời. Những ai đặt lòng tin vào chúng Tăng, này Cundì, họ đặt lòng tin vào tối thượng. Với những ai đặt
 lòng tin vào tối thượng, họ được quả dị thục tối thượng.
 
-6. Dầu cho loại giới nào, này Cundì, các giới được bậc Thánh ái kính được gọi là tối thượng trong các
+<!--pg-->
+6\. Dầu cho loại giới nào, này Cundì, các giới được bậc Thánh ái kính được gọi là tối thượng trong các
 giới ấy, tức là giới không bị bể vụn, không bị sứt mẻ, không bị vết chấm, không bị uế nhiễm, đem lại
 giải thoát, được bậc trí tán thán, không bị chấp thủ, đưa đến chánh định. Với những ai làm cho đầy đủ
 trong các giới luật được các bậc Thánh ái kính, họ làm cho đầy đủ những gì tối thượng. Với những ai đặt
@@ -141,17 +158,20 @@ _Ðạt được hỷ tối thượng._
 
 **(III) (33) Uggaha, Người Gia Chủ**
 
-1. Một thời, Thế Tôn trú ở Bhaddiya, trong rừng Jàti. Rồi Uggaha, cháu trai của Mendaka đi đến Thế
+<!--pg-->
+1\. Một thời, Thế Tôn trú ở Bhaddiya, trong rừng Jàti. Rồi Uggaha, cháu trai của Mendaka đi đến Thế
 Tôn, sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Ngồi xuống một bên, Uggaha, cháu trai của
 Mendaka bạch Thế Tôn:
 
-2. - Bạch Thế Tôn, Thế Tôn hãy nhận lời mời của con, ngày mai đến dùng bữa ăn, với Thế Tôn là người
+<!--pg-->
+2\. - Bạch Thế Tôn, Thế Tôn hãy nhận lời mời của con, ngày mai đến dùng bữa ăn, với Thế Tôn là người
 thứ tư.
 
 Thế Tôn im lặng nhận lời. Rồi Uggaha, cháu trai của Mendaka biết được Thế Tôn đã nhận lời, từ chỗ
 ngồi đứng dậy, đảnh lễ Thế Tôn, thân bên hữu hướng về Ngài rồi ra đi.
 
-3. Rồi Thế Tôn, sau khi đêm ấy đã mãn, vào buổi sáng đắp y, cầm y bát, đi đến trú xứ của Uggaha, cháu
+<!--pg-->
+3\. Rồi Thế Tôn, sau khi đêm ấy đã mãn, vào buổi sáng đắp y, cầm y bát, đi đến trú xứ của Uggaha, cháu
 trai của Mendaka; sau khi đến, ngồi xuống trên chỗ đã soạn sẵn. Rồi Uggaha, cháu trai của Mendaka,
 với tay của mình thân mời và làm cho thỏa mãn Thế Tôn với các món ăn thượng vị loại cứng và loại
 mềm. Rồi Uggaha, cháu trai của Mendaka, sau khi Thế Tôn dùng bữa ăn xong, tay rời khỏi bát, liền ngồi
@@ -160,29 +180,34 @@ xuống một bên. Ngồi xuống một bên, Uggaha, cháu trai của Mendaka 
 − Những đứa con gái này của con, bạch Thế Tôn, sẽ đi về nhà chồng. Bạch Thế Tôn, Thế Tôn hãy giáo
 giới chúng. Bạch Thế Tôn, Thế Tôn hãy khuyên dạy chúng, để chúng được hạnh phúc an lạc lâu dài.
 
-4. Rồi Thế Tôn nói với các người con gái ấy:
+<!--pg-->
+4\. Rồi Thế Tôn nói với các người con gái ấy:
 
 − Này các thiếu nữ, các Con hãy học tập như sau: “Ðối với những người chồng nào, mẹ cha cho các con,
 vì muốn lợi ích, vì tìm hạnh phúc, vì lòng thương tưởng, vì lòng từ mẫn khởi lên, đối với vị ấy, chúng ta
 sẽ thức dậy trước, chúng ta sẽ đi ngủ sau cùng, vui lòng nhận làm mọi công việc, xử sự đẹp lòng, lời nói
 dễ thương.” Như vậy, này các Thiếu nữ, các Con cần phải học tập.
 
-5. Do vậy, này các Thiếu nữ, các Con cần phải học tập như sau: “Những ai, chồng ta kính trọng, như
+<!--pg-->
+5\. Do vậy, này các Thiếu nữ, các Con cần phải học tập như sau: “Những ai, chồng ta kính trọng, như
 mẹ, cha, Sa-môn, Bà-la-môn, chúng ta sẽ tôn trọng, đảnh lễ, cúng dường và khi họ đến, chúng ta sẽ dâng
 hiến họ chỗ ngồi và nước.” Như vậy, này các Thiếu nữ, các Con cần phải học tập.
 
-6. Do vậy, này các Thiếu nữ, các Con cần phải học tập như sau: “Phàm có những công nghiệp trong nhà,
+<!--pg-->
+6\. Do vậy, này các Thiếu nữ, các Con cần phải học tập như sau: “Phàm có những công nghiệp trong nhà,
 hoặc thuộc về len vải hay vải bông, ở đây, chúng ta sẽ phải thông thạo, không được biếng nhác, tự tìm
 hiểu phương pháp làm, vừa đủ để tự mình làm, vừa đủ để sắp đặt người làm.” Như vậy, này các Thiếu
 nữ, các Con cần phải học tập.
 
-7. Do vậy, này các Thiếu nữ, các Con cần phải học tập như sau: “Trong nhà người chồng, phàm có nô tỳ
+<!--pg-->
+7\. Do vậy, này các Thiếu nữ, các Con cần phải học tập như sau: “Trong nhà người chồng, phàm có nô tỳ
 nào, hay người đưa tin, hay người công thợ, chúng ta sẽ phải biết công việc của họ với công việc đã làm;
 chúng ta sẽ phải biết sự thiếu sót của họ với công việc không làm. Chúng ta sẽ biết sức mạnh hay sức
 không mạnh của những người đau bệnh. Chúng ta sẽ chia các đồ ăn, loại cứng và loại mềm, mỗi người
 tùy theo phần của mình”. Như vậy, này các Thiếu nữ, các Con cần phải học tập.
 
-8. Do vậy, này các Thiếu nữ, các Con cần phải học tập như sau: “Phàm có tiền bạc, lúa gạo, bạc và vàng
+<!--pg-->
+8\. Do vậy, này các Thiếu nữ, các Con cần phải học tập như sau: “Phàm có tiền bạc, lúa gạo, bạc và vàng
 người chống đem về, chúng ta cần phải phòng hộ, bảo vệ chúng, và sẽ gìn giữ để khỏi ăn trộm, ăn cắp,
 kẻ uống rượu, kẻ phá hoại”. Như vậy, này các Thiếu nữ, các con cần phải học tập. Thành tựu năm pháp
 này, này các Thiếu nữ, người đàn bà, sau khi thân hoại mạng chung, được sanh cộng trú với chư Thiên
@@ -210,7 +235,8 @@ _Các chư thiên khả ái._
 
 **(IV) (34) Ðại Tướng Sìha**
 
-1. Một thời, Thế Tôn ở Vesàlì, tại Ðại Lâm ở giảng đường có nóc nhọn. Rồi tướng quân Sìha đi đến thế
+<!--pg-->
+1\. Một thời, Thế Tôn ở Vesàlì, tại Ðại Lâm ở giảng đường có nóc nhọn. Rồi tướng quân Sìha đi đến thế
 Tôn, sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Ngồi xuống một bên, tướng quân Sìha bạch
 Thế Tôn:
 
@@ -218,28 +244,34 @@ Thế Tôn:
 
 Thế Tôn đáp:
 
-2. - Có thể được, này Sìha! Người bố thí, này Sìha, người thí chủ được quần chúng ái mộ và ưa thích.
+<!--pg-->
+2\. - Có thể được, này Sìha! Người bố thí, này Sìha, người thí chủ được quần chúng ái mộ và ưa thích.
 Này Sìha, người bố thí, người thí chủ được quần chúng ái mộ và ưa thích, đây quả bố thí thiết thực hiện
 tại
 
-3. Lại nữa, này Sìha! Bậc thiện, bậc Chân nhân thân cận người bố thí, người thí chủ. Này Sìha, bậc
+<!--pg-->
+3\. Lại nữa, này Sìha! Bậc thiện, bậc Chân nhân thân cận người bố thí, người thí chủ. Này Sìha, bậc
 Thiện, bậc Chân nhân, thân cận người bố thí, người thí chủ. Này Sìha, đây là quả bố thí thiết thực hiện
 tại.
 
-4. Lại nữa, này Sìha! Người bố thí, người thí chủ được đồn tốt đẹp truyền đi. Này Sìha, người bố thí,
+<!--pg-->
+4\. Lại nữa, này Sìha! Người bố thí, người thí chủ được đồn tốt đẹp truyền đi. Này Sìha, người bố thí,
 người thí chủ được tiếng đồn tốt đẹp truyền đi. Này Sìha, đây là quả bố thí thiết thực hiện tại.
 
-5. Lại nữa, này Sìha, người bố thí, người thí chủ đi đến hội chúng nào, hoặc hội chúng Sát-đế-ly, hoặc
+<!--pg-->
+5\. Lại nữa, này Sìha, người bố thí, người thí chủ đi đến hội chúng nào, hoặc hội chúng Sát-đế-ly, hoặc
 hội chúng Bà-la-môn, hoặc hội chúng gia chủ, hoặc hội chúng Sa-môn. Vị ấy đi đến với tự tín, không có
 do dự hoang mang. Này Sìha, người bố thí, người thí đi đến hội chung nào, hoặc hội chúng Sát Ðế Lỵ,
 hoặc hội chúng Bà-la-môn, hoặc hội chúng gia chủ, hoặc hội chúng Sa-môn; vị ấy đi đến với tự tin,
 không có do dự hoang mang. Này Sìha, đây là quả bố thí thiết thực hiện tại.
 
-6. Lại nữa, Sìha! Người bố thì, người thí chủ, sau khi thân hoại mạng chung được sanh lên cõi lành,
+<!--pg-->
+6\. Lại nữa, Sìha! Người bố thì, người thí chủ, sau khi thân hoại mạng chung được sanh lên cõi lành,
 Thiên giới. Người bố thí, người thí chủ, này Sìha, sau khi thân hoại mạng chung, được sanh lên cõi lành,
 Thiên giới. Này Sìha, đây là quả bố thí thiết thực hiện tại.
 
-7. Ðược nói vậy, tướng quân Sìha bạch Thế Tôn:
+<!--pg-->
+7\. Ðược nói vậy, tướng quân Sìha bạch Thế Tôn:
 
 − Bốn quả bố thí thiết thực hiện tại này, bạch Thế Tôn, được Thế Tôn nói đến, con không nhờ chúng đi
 đến lòng tin Thế Tôn. Con biết được chúng. Bạch Thế Tôn, con là người bố thì, là thí chủ được quần
@@ -346,7 +378,8 @@ _Tại chỗ được tái sanh._
 
 **(VIII) (38) Sự Lợi Ích Lòng Tin**
 
-1. - Này các Tỷ-kheo, có năm lợi ích này cho thiên nam tử có lòng tin. Thế nào là năm?
+<!--pg-->
+1\. - Này các Tỷ-kheo, có năm lợi ích này cho thiên nam tử có lòng tin. Thế nào là năm?
 
 Các Thiện nhân, các Chân nhân, trước hết có lòng thương tưởng đến vị có lòng tin, không có như vậy
 đối với vị không có lòng tin; khi đến thăm, trước hết họ đến thăm vị có lòng tin, không có như vậy đối
@@ -355,7 +388,8 @@ tin, không từ những người không có lòng tin; họ thuyết pháp trư
 không cho những người không có lòng tin; người có lòng tin, sau khi thân hoại mạng chung, được sanh
 lên cõi lành, cõi Trời. Những pháp này, này các Tỷ-kheo, là năm lợi ích cho thiên nam tử có lòng tin.
 
-2. Ví như, này các Tỷ-kheo, trên khoảnh đất tốt, tại ngã tư đường, có cây bàng to lớn là chỗ nương tựa
+<!--pg-->
+2\. Ví như, này các Tỷ-kheo, trên khoảnh đất tốt, tại ngã tư đường, có cây bàng to lớn là chỗ nương tựa
 cho các loài chim chung quanh. Cũng vậy, này các Tỷ-kheo, thiện nam tử có lòng tin là chỗ nương tựa
 cho quần chúng, cho các Tỷ-kheo, Tỷ-kheo-ni, cho nam cư sĩ và cho nữ cư sĩ.
 

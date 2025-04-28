@@ -15,6 +15,7 @@ import nanamoli_bodhi_vi_intro  from '../kinhtrungbo/nanamoli-bodhi-vi/intro/fil
 import kinhtangchi_thichminhchau from '../kinhtangchi/thichminhchau/filelist';
 import kinhtangchi_sujato_en from '../kinhtangchi/sujato-en/filelist';
 import kinhtangchi_sujato_vi from '../kinhtangchi/sujato-vi/filelist';
+import kinhtangchi_sujato_vi_intro from '../kinhtangchi/sujato-vi/intro/filelist';
 
 //@ts-ignore
 import fs from 'fs';
@@ -157,6 +158,7 @@ export default defineConfig({
       //  'kinhtangchi/bodhi-en': kinhtangchi_bodhi_en,
         'kinhtangchi/sujato-en': kinhtangchi_sujato_en,
         'kinhtangchi/sujato-vi': kinhtangchi_sujato_vi,
+        'kinhtangchi/sujato-vi/intro': kinhtangchi_sujato_vi_intro,
 
     };
 

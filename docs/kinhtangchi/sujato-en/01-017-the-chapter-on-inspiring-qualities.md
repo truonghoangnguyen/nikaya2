@@ -1,4 +1,4 @@
-## The Chapter on Inspiring Qualities
+# The Chapter on Inspiring Qualities
 
 ### N 1.378--393 *Pasādakaradhammavagga*
 

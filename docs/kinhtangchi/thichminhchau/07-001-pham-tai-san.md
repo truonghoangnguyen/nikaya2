@@ -2,7 +2,8 @@
 
 **(I) (1) Ðược Ái Mộ (1)**
 
-1. Như vầy tôi nghe:
+<!--pg-->
+1\. Như vầy tôi nghe:
 
 Một thời, Thế Tôn trú ở Sàvathì, Jetavana, khu vườn ông Anàthapindika. Tại đấy, Thế Tôn gọi các Tỷkheo:
 
@@ -12,19 +13,23 @@ Một thời, Thế Tôn trú ở Sàvathì, Jetavana, khu vườn ông Anàthap
 
 Các Tỷ-kheo ấy vâng đáp Thế Tôn. Thế Tôn nói như sau:
 
-2. - Thành tựu bảy pháp, này các Tỷ-kheo, Tỷ-kheo không được các đồng Phạm hạnh ái mộ, không được
+<!--pg-->
+2\. - Thành tựu bảy pháp, này các Tỷ-kheo, Tỷ-kheo không được các đồng Phạm hạnh ái mộ, không được
 khả ý, không được kính trọng, không được bắt chước tu tập theo. Thế nào là bảy?
 
-3. Ở đây, này các Tỷ-kheo, vị Tỷ-kheo ưa muốn lợi dưỡng, ưa muốn tôn kính, ưa muốn được tán thán,
+<!--pg-->
+3\. Ở đây, này các Tỷ-kheo, vị Tỷ-kheo ưa muốn lợi dưỡng, ưa muốn tôn kính, ưa muốn được tán thán,
 không xấu hổ, không sợ hãi, ác dục và tà kiến.
 
 Thành tựu bảy pháp này, này các Tỷ-kheo, Tỷ-kheo không được các đồng Phạm hạnh ái mộ, không
 được khả ý, không được kính trọng, không được bắt chước tu tập theo.
 
-4. Thành tựu bảy pháp, này các Tỷ-kheo, Tỷ-kheo được các đồng Phạm hạnh ái mộ, được khả ý, được
+<!--pg-->
+4\. Thành tựu bảy pháp, này các Tỷ-kheo, Tỷ-kheo được các đồng Phạm hạnh ái mộ, được khả ý, được
 kính trọng, được bắt chước tu tập theo. Thế nào là bảy?
 
-5. Ở đây, này các Tỷ-kheo, Tỷ-kheo không ưa muốn lợi dưỡng, không ưa muốn tôn kính, không ưa
+<!--pg-->
+5\. Ở đây, này các Tỷ-kheo, Tỷ-kheo không ưa muốn lợi dưỡng, không ưa muốn tôn kính, không ưa
 muốn được tán thán, có xấu hổ, có sợ hãi, ít dục và chánh kiến.
 
 Thành tựu bảy pháp này, này các Tỷ-kheo, Tỷ-kheo được các đồng Phạm hạnh ái mộ, được khả ý, được
@@ -36,9 +41,11 @@ kính trọng, được bắt chước tu tập theo.
 
 **(III) (3) Các Sức Mạnh Tóm Tắt**
 
-1. - Này các Tỷ-kheo, có bảy sức mạnh này. Thế nào là bảy?
+<!--pg-->
+1\. - Này các Tỷ-kheo, có bảy sức mạnh này. Thế nào là bảy?
 
-2. Tín lực, tấn lực, tàm lực, quý lực, niệm lực, định lực, tuệ lực. Này các Tỷ-kheo, có bảy sức mạnh này.
+<!--pg-->
+2\. Tín lực, tấn lực, tàm lực, quý lực, niệm lực, định lực, tuệ lực. Này các Tỷ-kheo, có bảy sức mạnh này.
 
 _Tín lực và tấn lực,_
 _Tàm lực và quý lực,_
@@ -54,44 +61,53 @@ _Với tâm được giải thoát._
 
 **(IV) (4) Các Sức Mạnh rộng Thuyết**
 
-1. - Này các Tỷ-kheo, có bảy sức mạnh này. Thế nào là bảy?
+<!--pg-->
+1\. - Này các Tỷ-kheo, có bảy sức mạnh này. Thế nào là bảy?
 
-2. Tín lực, tấn lực, tàm lực, quý lực, niệm lực, định lực, tuệ lực.
+<!--pg-->
+2\. Tín lực, tấn lực, tàm lực, quý lực, niệm lực, định lực, tuệ lực.
 
 Và này các Tỷ-kheo, thế nào là tín lực?
 
-3. Ở đây, này các Tỷ-kheo, Thánh đệ tử có lòng tin, tin tưởng ở sự giác ngộ của Như Lai: “Ðây là Thế
+<!--pg-->
+3\. Ở đây, này các Tỷ-kheo, Thánh đệ tử có lòng tin, tin tưởng ở sự giác ngộ của Như Lai: “Ðây là Thế
 Tôn, bậc A-la-hán, Chánh Ðẳng Giác, Minh Hạnh Túc, Thiện Thệ, Thế Gian Giải, Vô Thượng Sĩ, Ðiều
 Ngự Trượng Phu, Thiên Nhơn Sư, Phật Thế Tôn”. Này các Tỷ-kheo, đây gọi là tín lực.
 
 Và này các Tỷ-kheo, thế nào là tấn lực?
 
-4. Ở đây, này các Tỷ-kheo, Thánh đệ tử sống tinh cần tinh tấn để đoạn tận các pháp bất thiện, làm sanh
+<!--pg-->
+4\. Ở đây, này các Tỷ-kheo, Thánh đệ tử sống tinh cần tinh tấn để đoạn tận các pháp bất thiện, làm sanh
 khởi các pháp thiện, nỗ lực, kiên trì, không có bỏ rơi gánh nặng đối với các pháp thiện. Này các Tỷkheo, đây gọi là tấn lực.
 
 Và này các Tỷ-kheo, thế nào là tàm lực?
 
-5. Ở đây, này các Tỷ-kheo, Thánh đệ tử có lòng xấu hổ, xấu hổ với thân làm ác, miệng nói ác, ý nghĩ ác,
+<!--pg-->
+5\. Ở đây, này các Tỷ-kheo, Thánh đệ tử có lòng xấu hổ, xấu hổ với thân làm ác, miệng nói ác, ý nghĩ ác,
 xấu hổ vì đã thành tựu các pháp ác, bất thiện. Này các Tỷ-kheo, đây gọi là tàm lực.
 
 Và này các Tỷ-kheo, thế nào là quý lực?
 
-6. Ở đây, này các Tỷ-kheo, Thánh đệ tử có lòng sợ hãi, sợ hãi đối với thân làm ác, miệng nói ác, ý nghĩ
+<!--pg-->
+6\. Ở đây, này các Tỷ-kheo, Thánh đệ tử có lòng sợ hãi, sợ hãi đối với thân làm ác, miệng nói ác, ý nghĩ
 sợ hãi vì thành tựu các pháp ác, bất thiện. Này các Tỷ-kheo, đây gọi là quý lực.
 
 Và này các Tỷ-kheo, thế nào là niệm lực?
 
-7. Ở đây, này các Tỷ-kheo, Thánh đệ tử đầy đủ niệm, thành tựu niệm tuệ tối thắng, ức nhớ, tùy niệm
+<!--pg-->
+7\. Ở đây, này các Tỷ-kheo, Thánh đệ tử đầy đủ niệm, thành tựu niệm tuệ tối thắng, ức nhớ, tùy niệm
 những điều làm đã lâu, nói đã lâu. Này các Tỷ-kheo, đây gọi là niệm lực.
 
 Và này các Tỷ-kheo, thế nào là định lực?
 
-8. Ở đây, này các Tỷ-kheo, Thánh đệ tử ly dục, ly các pháp ác bất thiện... chứng đạt và an trú vào sơ
+<!--pg-->
+8\. Ở đây, này các Tỷ-kheo, Thánh đệ tử ly dục, ly các pháp ác bất thiện... chứng đạt và an trú vào sơ
 Thiền, ... Thiền thứ hai ... Thiền thứ ba ... Thiền thứ tư. Này các Tỷ-kheo, đây gọi là định lực.
 
 Và này các Tỷ-kheo, thế nào là tuệ lực?
 
-9. Ở đây, này các Tỷ-kheo, Thánh đệ tử có trí tuệ, có trí tuệ về sanh diệt, thành tựu Thánh thể nhập
+<!--pg-->
+9\. Ở đây, này các Tỷ-kheo, Thánh đệ tử có trí tuệ, có trí tuệ về sanh diệt, thành tựu Thánh thể nhập
 (quyết trạch) đưa đến chơn chánh đoạn diệt khổ đau. Này các Tỷ-kheo, đây gọi là tuệ lực.
 Các pháp này, này các Tỷ-kheo, là bảy pháp.
 
@@ -108,9 +124,11 @@ _Với tâm được giải thoát._
 
 **(V) (5) Các Tài Sản Tóm Tắt**
 
-1. - Này các Tỷ-kheo, có bảy tài sản này. Thế nào là bảy?
+<!--pg-->
+1\. - Này các Tỷ-kheo, có bảy tài sản này. Thế nào là bảy?
 
-2. Tín tài, giới tài, tàm tài, quý tài, văn tài, thí tài, tuệ tài.
+<!--pg-->
+2\. Tín tài, giới tài, tàm tài, quý tài, văn tài, thí tài, tuệ tài.
 
 Này các Tỷ-kheo, đây là bảy tài sản.
 
@@ -129,42 +147,51 @@ _ức niệm lời Phật dạy._
 
 **(VI) (6) Các Tài Sản Rộng Thuyết**
 
-1. - Này các Tỷ-kheo, có bảy tài sản này. Thế nào là bảy?
+<!--pg-->
+1\. - Này các Tỷ-kheo, có bảy tài sản này. Thế nào là bảy?
 
-2. Tín tài, giới tài, tàm tài, quý tài, văn tài, thí tài, tuệ tài. Và này các Tỷ-kheo, thế nào là tín tài?
+<!--pg-->
+2\. Tín tài, giới tài, tàm tài, quý tài, văn tài, thí tài, tuệ tài. Và này các Tỷ-kheo, thế nào là tín tài?
 
-3. Ở đây, này các Tỷ-kheo, Thánh đệ tử có lòng tin, tin tưởng ở sự giác ngộ của Như Lai: “Ðây là Thế
+<!--pg-->
+3\. Ở đây, này các Tỷ-kheo, Thánh đệ tử có lòng tin, tin tưởng ở sự giác ngộ của Như Lai: “Ðây là Thế
 Tôn, bậc A-la-hán... Phật, Thế Tôn”. Này các Tỷ-kheo, đây gọi là tín tài.
 
 Và này các Tỷ-kheo, thế nào là giới tài?
 
-4. Ở đây, này các Tỷ-kheo, Thánh đệ tử từ bỏ sát sanh... từ bỏ đắm say rượu men rượu nấu. Này các Tỷkheo, đây gọi là giới tài.
+<!--pg-->
+4\. Ở đây, này các Tỷ-kheo, Thánh đệ tử từ bỏ sát sanh... từ bỏ đắm say rượu men rượu nấu. Này các Tỷkheo, đây gọi là giới tài.
 
 Và này các Tỷ-kheo, thế nào là tàm tài?
-5. Ở đây, này các Tỷ-kheo, Thánh đệ tử có xấu hổ, xấu hổ đối với thân làm ác, miệng nói ác, ý nghĩ ác,
+<!--pg-->
+5\. Ở đây, này các Tỷ-kheo, Thánh đệ tử có xấu hổ, xấu hổ đối với thân làm ác, miệng nói ác, ý nghĩ ác,
 xấu hổ vì đã thành tựu các pháp các, bất thiện. Này các Tỷ-kheo, đây gọi là tàm tài.
 
 Và này các Tỷ-kheo, thế nào là quý tài?
 
-6. Ở đây, này các Tỷ-kheo, Thánh đệ tử có lòng sợ hãi, sợ hãi đối với thân làm ác, miệng nói ác, ý nghĩ
+<!--pg-->
+6\. Ở đây, này các Tỷ-kheo, Thánh đệ tử có lòng sợ hãi, sợ hãi đối với thân làm ác, miệng nói ác, ý nghĩ
 sợ hãi vì thành tựu các pháp ác, bất thiện. Này các Tỷ-kheo, đây gọi là quý tài.
 
 Và này các Tỷ-kheo, thế nào là văn tài?
 
-7. Ở đây, này các Tỷ-kheo, Thánh đệ tử nghe nhiều, gìn giữ những gì đã nghe, chất chứa những gì đã
+<!--pg-->
+7\. Ở đây, này các Tỷ-kheo, Thánh đệ tử nghe nhiều, gìn giữ những gì đã nghe, chất chứa những gì đã
 nghe, những pháp ấy, sơ thiện, trung thiện, hậu thiện, nghĩa văn đầy đủ, đề cao đời sống Phạm hạnh
 hoàn toàn đầy đủ thanh tịnh; những pháp ấy, vị ấy nghe nhiều, đã nắm giữ, đã ghi nhớ tụng đọc nhiều
 lần, chuyên ý quán sát, khéo thành tựu nhờ chánh kiến. Này các Tỷ-kheo, đây gọi là văn tài.
 
 Và này các Tỷ-kheo, thế nào là thí tài?
 
-8. Ở đây, này các Tỷ-kheo, Thánh đệ tử với tâm từ bỏ cấu uế của xan tham, sống tại gia phóng xả, với
+<!--pg-->
+8\. Ở đây, này các Tỷ-kheo, Thánh đệ tử với tâm từ bỏ cấu uế của xan tham, sống tại gia phóng xả, với
 bàn tay rộng mở, ưa thích xả bỏ, sẵn sàng để được yêu cầu, ưa thích san sẻ vật bố thí. Này các Tỷ-kheo,
 đây gọi là thí tài.
 
 Và này các Tỷ-kheo, thế nào là tuệ tài?
 
-9. Ở đây, này các Tỷ-kheo, Thánh đệ tử có trí tuệ, có trí tuệ về sanh diệt, thành tựu Thánh thể nhập
+<!--pg-->
+9\. Ở đây, này các Tỷ-kheo, Thánh đệ tử có trí tuệ, có trí tuệ về sanh diệt, thành tựu Thánh thể nhập
 (quyết trạch) đưa đến chơn chánh đoạn diệt khổ đau. Này các Tỷ-kheo, đây gọi là tuệ tài.
 
 Này các Tỷ-kheo, đây gọi là bảy tài sản.
@@ -184,7 +211,8 @@ _ức niệm lời Phật dạy._
 
 **(VII) (7) Ugga**
 
-1. Bấy giờ Ugga, vị Ðại thần của vua đi đến Thế Tôn, sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một
+<!--pg-->
+1\. Bấy giờ Ugga, vị Ðại thần của vua đi đến Thế Tôn, sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một
 bên. Ngồi xuống một bên, Ugga, vị đại thần của vua, bạch Thế Tôn:
 
 − Thật vi diệu thay, bạch Thế Tôn! Thật hy hữu thay, bạch Thế Tôn! Giàu có đến như vậy, đại phú đến
@@ -214,16 +242,20 @@ _ức niệm lời Phật dạy._
 
 **(VIII) (8) Các Kiết Sử**
 
-1. - Này các Tỷ-kheo, có bảy kiết sử này. Thế nào là bảy?
+<!--pg-->
+1\. - Này các Tỷ-kheo, có bảy kiết sử này. Thế nào là bảy?
 
-2. Tùy tham kiết sử, sân kiết sử, kiến kiết sử, nghi kiết sử, mạn kiết sử, hữu tham kiết sử, vô minh kiết
+<!--pg-->
+2\. Tùy tham kiết sử, sân kiết sử, kiến kiết sử, nghi kiết sử, mạn kiết sử, hữu tham kiết sử, vô minh kiết
 sử. Này các Tỷ-kheo có bảy kiết sử này.
 
 **(IX) (9) Ðoạn Tận**
 
-1. Này các Tỷ-kheo, do đoạn tận, do cắt đứt bảy kiết sử, Phạm hạnh được sống. Thế nào là bảy?
+<!--pg-->
+1\. Này các Tỷ-kheo, do đoạn tận, do cắt đứt bảy kiết sử, Phạm hạnh được sống. Thế nào là bảy?
 
-2. Do đoạn tận, cắt đứt tùy tham kiết sử, Phạm hạnh được sống... sân kiết sử... kiến thiết sử... nghi kiết
+<!--pg-->
+2\. Do đoạn tận, cắt đứt tùy tham kiết sử, Phạm hạnh được sống... sân kiết sử... kiến thiết sử... nghi kiết
 sử... mạn kiết sử... hữu tham kiết sử... do đoạn tận, do cắt đứt vô minh kiết sử, Phạm hạnh được sống.
 
 Này các Tỷ-kheo, do đoạn tận, cắt đứt bảy kiết sử này, Phạm hạnh được sống. Này các Tỷ-kheo, khi nào
@@ -233,8 +265,10 @@ khát ái, đã giải tỏa kiết sử, và chơn chánh hiện quán kiêu m�
 
 **(X) (10) Xan Tham**
 
-1. - Này các Tỷ-kheo, có bảy kiết sử này. Thế nào là bảy?
+<!--pg-->
+1\. - Này các Tỷ-kheo, có bảy kiết sử này. Thế nào là bảy?
 
-2. Tùy tham kiết sử, sân kiết sử, kiến kiết sử, nghi kiết sử, mạn kiết sử, tật đố kiết sử, xan tham kiết sử.
+<!--pg-->
+2\. Tùy tham kiết sử, sân kiết sử, kiến kiết sử, nghi kiết sử, mạn kiết sử, tật đố kiết sử, xan tham kiết sử.
 Này các Tỷ-kheo, có bảy kiết sử này.
 

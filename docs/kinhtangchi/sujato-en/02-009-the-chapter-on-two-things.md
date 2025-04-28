@@ -1,4 +1,4 @@
-## The Chapter on Two Things
+# The Chapter on Two Things
 
 ### N 2.87--97 *Dhammavagga*
 

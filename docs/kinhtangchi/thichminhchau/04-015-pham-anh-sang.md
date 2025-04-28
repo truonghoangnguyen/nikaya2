@@ -54,7 +54,8 @@ Này các Tỷ-kheo, có bốn loại thời gian này.
 
 **(VII) (147) Thời Gian (2)**
 
-1. - Có bốn thời gian này, này các Tỷ-kheo, nếu khéo tu tập, nếu khéo vận chuyển, tuần tự đưa đến sự
+<!--pg-->
+1\. - Có bốn thời gian này, này các Tỷ-kheo, nếu khéo tu tập, nếu khéo vận chuyển, tuần tự đưa đến sự
 đoạn diệt các lậu hoặc. Thế nào là bốn?
 
 Nghe pháp đúng thời, đàm luận về pháp đúng thời, chỉ đúng thời, quán đúng thời.
@@ -62,7 +63,8 @@ Nghe pháp đúng thời, đàm luận về pháp đúng thời, chỉ đúng th
 Bốn thời gian này, này các Tỷ-kheo, nếu khéo tu tập, khéo vận chuyển, tuần tự đưa đến sự đoạn diệt các
 lậu hoặc.
 
-2. Ví như, này các Tỷ-kheo, trên đỉnh núi, trời mưa nặng hột, và nước chảy theo triền thấp, tràn đầy
+<!--pg-->
+2\. Ví như, này các Tỷ-kheo, trên đỉnh núi, trời mưa nặng hột, và nước chảy theo triền thấp, tràn đầy
 hang núi, khe núi, thung lũng. Khi các hang núi, khe núi, thung lũng được tràn đầy, thời ao nhỏ được
 tràn đầy. Ao nhỏ được tràn đầy, thời ao lớn được tràn đầy. Ao lớn được tràn đầy, thời sông nhỏ được
 tràn đầy. Sông nhỏ được tràn đầy, thời sông lớn được tràn đầy. Sông lớn được tràn đầy, thời biển lớn đại

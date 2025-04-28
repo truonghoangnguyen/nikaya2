@@ -1,7 +1,8 @@
-## The Chapter on Disciplinary Issues
+# The Chapter on Disciplinary Issues
 
 ### N 2.11--20 *Adhikaraṇavagga*
 
+<!--pg-->
 11\. "There are, mendicants, these two powers. What two? The power of
 reflection and the power of development. And what, mendicants, is the
 power of reflection? It's when someone reflects: 'Bad conduct of body,
@@ -10,13 +11,13 @@ next.' Reflecting like this, they give up bad conduct by way of body,
 speech, and mind, and develop good conduct by way of body, speech, and
 mind, keeping themselves pure. This is called the power of reflection.
 
-<!--pg-->
 And what, mendicants, is the power of development? In this context, the
 power of development is the power of the trainees. For when you rely on
 the power of a trainee, you give up greed, hate, and delusion. Then you
 don't do anything unskillful, or practice anything bad. This is called
 the power of development. These are the two powers."
 
+<!--pg-->
 12\. "There are, mendicants, these two powers. What two? The power of
 reflection and the power of development. And what, mendicants, is the
 power of reflection? It's when someone reflects: 'Bad conduct of body,
@@ -25,7 +26,6 @@ next.' Reflecting like this, they give up bad conduct by way of body,
 speech, and mind, and develop good conduct by way of body, speech, and
 mind, keeping themselves pure. This is called the power of reflection.
 
-<!--pg-->
 And what, mendicants, is the power of development? It's when a mendicant
 develops the awakening factors of mindfulness, investigation of
 principles, energy, rapture, tranquility, immersion, and equanimity,
@@ -33,6 +33,7 @@ which rely on seclusion, fading away, and cessation, and ripen as
 letting go. This is called the power of development. These are the two
 powers."
 
+<!--pg-->
 13\. "There are, mendicants, these two powers. What two? The power of
 reflection and the power of development. And what, mendicants, is the
 power of reflection? It's when someone reflects: 'Bad conduct of body,
@@ -41,7 +42,6 @@ next.' Reflecting like this, they give up bad conduct by way of body,
 speech, and mind, and develop good conduct by way of body, speech, and
 mind, keeping themselves pure. This is called the power of reflection.
 
-<!--pg-->
 And what, mendicants, is the power of development? It's when a
 mendicant, quite secluded from sensual pleasures, secluded from
 unskillful qualities, enters and remains in the first absorption, which
@@ -59,6 +59,7 @@ the fourth absorption, without pleasure or pain, with pure equanimity
 and mindfulness. This is called the power of development. These are the
 two powers."
 
+<!--pg-->
 14\. "Mendicants, the Realized One has two ways of teaching the Dhamma. What
 two? In brief and in detail. These are the Realized One's two ways of
 teaching the Dhamma."
@@ -72,7 +73,6 @@ offending mendicant and the accusing mendicant carefully check
 themselves, you can expect that issue won't lead to lasting acrimony and
 enmity, and the mendicants will live comfortably.
 
-<!--pg-->
 And how, mendicants, does an offending mendicant carefully check
 themselves? An offending mendicant reflects: 'I have committed a certain
 unskillful offense with the body. That mendicant saw me do this. If I
@@ -101,11 +101,11 @@ mendicant and the accusing mendicant carefully checks themselves, you
 can expect that issue won't lead to lasting acrimony and enmity, and the
 mendicants will live comfortably."
 
+<!--pg-->
 16\. Then a certain brahmin went up to the Buddha and exchanged greetings
 with him. When the greetings and polite conversation were over, he sat
 down to one side and said to the Buddha:
 
-<!--pg-->
 "What is the cause, Mister Gotama, what is the reason why some sentient
 beings, when their body breaks up, after death, are reborn in a place of
 loss, a bad place, the underworld, hell?"
@@ -127,14 +127,14 @@ overturned, or revealing the hidden, or pointing out the path to the
 lost, or lighting a lamp in the dark so people with clear eyes can see
 what's there, Mister Gotama has made the teaching clear in many ways. I
 go for refuge to Mister Gotama, to the teaching, and to the mendicant
-[Saṅgha]{lang="sa"}. From this day forth, may Mister Gotama remember me
+Saṅgha\. . From this day forth, may Mister Gotama remember me
 as a lay follower who has gone for refuge for life."
 
-17\. Then the brahmin [Jānussoṇi]{lang="sa"} went up to the Buddha, and
+<!--pg-->
+17\. Then the brahmin Jānussoṇi\.  went up to the Buddha, and
 exchanged greetings with him. When the greetings and polite conversation
 were over, he sat down to one side and said to the Buddha:
 
-<!--pg-->
 "What is the cause, Mister Gotama, what is the reason why some sentient
 beings, when their body breaks up, after death, are reborn in a place of
 loss, a bad place, the underworld, hell?"
@@ -157,7 +157,7 @@ matter in detail so I can understand the meaning."
 
 "Well then, brahmin, listen and apply your mind well, I will speak."
 
-"Yes sir," [Jānussoṇi]{lang="sa"} replied. The Buddha said this:
+"Yes sir," Jānussoṇi replied. The Buddha said this:
 
 "Firstly, brahmin, someone has done bad things and not done good things
 by way of body, speech, and mind. So what they've done and what they've
@@ -171,11 +171,11 @@ after death, are reborn in a good place, a heavenly realm."
 "Excellent, Mister Gotama! ... From this day forth, may Mister Gotama
 remember me as a lay follower who has gone for refuge for life."
 
+<!--pg-->
 18\. Then Venerable Ānanda went up to the Buddha, bowed, and sat down to one
 side. The Buddha said to him, "Ānanda, I absolutely say that you should
 not do bad things by way of body, speech, and mind."
 
-<!--pg-->
 "But, sir, if someone does these things that should not be done, what
 drawbacks should they expect?"
 
@@ -197,6 +197,7 @@ They don't feel lost when they die. And when the body breaks up, after
 death, they are reborn in a good place, a heavenly realm. These are the
 benefits they should expect."
 
+<!--pg-->
 19\. "Mendicants, give up the unskillful. It is possible to give up the
 unskillful. If it wasn't possible, I wouldn't say: 'Give up the
 unskillful.' But it is possible, and so I say: 'Give up the unskillful.'
@@ -204,7 +205,6 @@ And if giving up the unskillful led to harm and suffering, I would not
 say: 'Give up the unskillful.' But giving up the unskillful leads to
 welfare and happiness, so I say: 'Give up the unskillful.'
 
-<!--pg-->
 Mendicants, develop the skillful. It is possible to develop the
 skillful. If it wasn't possible, I wouldn't say: 'Develop the skillful.'
 But it is possible, and so I say: 'Develop the skillful.' If developing
@@ -212,13 +212,13 @@ the skillful led to harm and suffering I wouldn't say: 'Develop the
 skillful.' But developing the skillful leads to welfare and happiness,
 so I say: 'Develop the skillful.'"
 
+<!--pg-->
 20\. "These two things, mendicants, lead to the decline and disappearance of
 the true teaching. What two? The words and phrases are misplaced, and
 the meaning is misinterpreted. When the words and phrases are misplaced,
 the meaning is misinterpreted. These two things lead to the decline and
 disappearance of the true teaching.
 
-<!--pg-->
 These two things lead to the continuation, persistence, and enduring of
 the true teaching. What two? The words and phrases are well organized,
 and the meaning is correctly interpreted. When the words and phrases are

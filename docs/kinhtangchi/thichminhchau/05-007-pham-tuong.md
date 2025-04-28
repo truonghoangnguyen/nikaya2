@@ -1,10 +1,12 @@
 # VII. Phẩm Tưởng
 
 **(I) (61) Các Tưởng (1)**
-1. - Có năm tưởng này, này các Tỷ-kheo, được tu tập, được làm cho sung mãn, đưa đến quả
+<!--pg-->
+1\. - Có năm tưởng này, này các Tỷ-kheo, được tu tập, được làm cho sung mãn, đưa đến quả
 lớn, lợi ích lớn, thể nhập vào bất tử, đưa đến cứu cánh bất tử. Thế nào là năm?
 
-2. Tưởng bất định, tưởng chết, tưởng nguy hại, tưởng ghê tởm các món ăn, tưởng không có
+<!--pg-->
+2\. Tưởng bất định, tưởng chết, tưởng nguy hại, tưởng ghê tởm các món ăn, tưởng không có
 hân hoan đối với tất cả thế giới.
 
 Năm tưởng này, này các Tỷ-kheo, được tu tập, được làm cho sung mãn, đưa đến quả lớn,
@@ -12,10 +14,12 @@ lợi ích lớn, thể nhập vào bất tử, đưa đến cứu cánh bất t
 
 **(II) (62) Các Tưởng (2)**
 
-1. - Có năm tưởng này, này các Tỷ-kheo, được tu tập, được làm cho sung mãn, đưa đến quả
+<!--pg-->
+1\. - Có năm tưởng này, này các Tỷ-kheo, được tu tập, được làm cho sung mãn, đưa đến quả
 lớn lợi ích, thể nhập vào bất tử, đưa đến cứu cánh bất tử. Thế nào là năm?
 
-2. Tưởng vô thường, tưởng vô ngã, tưởng chết, tưởng ghê tởm các món ăn, tưởng không có
+<!--pg-->
+2\. Tưởng vô thường, tưởng vô ngã, tưởng chết, tưởng ghê tởm các món ăn, tưởng không có
 hân hoan đối với tất cả thế giới.
 
 Những pháp này là năm tưởng, này các Tỷ-kheo, được tu tập, được làm cho sung mãn, đưa
@@ -23,10 +27,12 @@ Những pháp này là năm tưởng, này các Tỷ-kheo, được tu tập, đ
 
 **(III) (63) Tăng Trưởng (1)**
 
-1. - Này các Tỷ-kheo, tăng trưởng với năm tăng trưởng, vị Thánh đệ tử tăng trưởng, với
+<!--pg-->
+1\. - Này các Tỷ-kheo, tăng trưởng với năm tăng trưởng, vị Thánh đệ tử tăng trưởng, với
 Thánh tăng trưởng đem lại kiên cố, đem lại thù thắng cho tự thân. Thế nào là năm?
 
-2. Tăng trưởng với lòng tin, tăng trưởng với giới, tăng trưởng với học hỏi, tăng trưởng với
+<!--pg-->
+2\. Tăng trưởng với lòng tin, tăng trưởng với giới, tăng trưởng với học hỏi, tăng trưởng với
 bố thí, tăng trưởng với trí tuệ.
 
 Tăng trưởng với năm tăng trưởng này, này các Tỷ-kheo, vị Thánh đệ tử tăng trưởng với
@@ -39,10 +45,12 @@ _Tự thân được kiên cố._
 
 **(IV) (64) Tăng Trưởng (2)**
 
-1. - Này các Tỷ-kheo, tăng trưởng với năm tăng trưởng, vị nữ Thánh đệ tử tăng trưởng với Thánh tăng
+<!--pg-->
+1\. - Này các Tỷ-kheo, tăng trưởng với năm tăng trưởng, vị nữ Thánh đệ tử tăng trưởng với Thánh tăng
 trưởng, đem lại kiên cố, đem lại thù thắng cho tự thân. Thế nào là năm?
 
-2. Tăng trưởng với lòng tin, tăng trưởng với giới, tăng trưởng với học hỏi, tăng trưởng với bố thí, tăng
+<!--pg-->
+2\. Tăng trưởng với lòng tin, tăng trưởng với giới, tăng trưởng với học hỏi, tăng trưởng với bố thí, tăng
 trưởng với trí tuệ.
 
 Tăng trưởng với năm tăng trưởng này, này các Tỷ-kheo, vị nữ Thánh đệ tử tăng trưởng với Thánh tăng
@@ -57,10 +65,12 @@ _Ngay liền trong đời này_
 
 **(V) (65) Nói Chuyện**
 
-1. - Thành tựu năm pháp, này các Tỷ-kheo, Tỷ-kheo đủ khả năng nói chuyện với các vị đồng Phạm
+<!--pg-->
+1\. - Thành tựu năm pháp, này các Tỷ-kheo, Tỷ-kheo đủ khả năng nói chuyện với các vị đồng Phạm
 hạnh. Thế nào là năm?
 
-2. Ở đây, này các Tỷ-kheo, vị Tỷ-kheo tự mình đầy đủ giới, trả lời câu hỏi đề cập đến từ câu chuyện về
+<!--pg-->
+2\. Ở đây, này các Tỷ-kheo, vị Tỷ-kheo tự mình đầy đủ giới, trả lời câu hỏi đề cập đến từ câu chuyện về
 giới cụ túc, tự mình đầy đủ định, trả lời câu hỏi được đề cập đến từ câu chuyện về định cụ túc; tự mình
 đầy đủ tuệ, trả lời câu hỏi được đề cập đến từ câu chuyện về tuệ; tự mình đầy đủ giải thoát, trả lời câu
 hỏi được đề cập đến từ câu chuyện về giải thoát; tự mình đầy đủ giải thoát tri kiến, trả lời câu hỏi được
@@ -71,10 +81,12 @@ hạnh.
 
 **(VI) (66) Ðời Sống**
 
-1. - Thành tựu năm pháp này, này các Tỷ-kheo, một Tỷ-kheo với đời sống (của mình) làm gương cho
+<!--pg-->
+1\. - Thành tựu năm pháp này, này các Tỷ-kheo, một Tỷ-kheo với đời sống (của mình) làm gương cho
 các vị đồng Phạm hạnh. Thế nào là năm?
 
-2. Ở đây, Tỷ-kheo tự mình đầy đủ giới, trả lời câu hỏi được nói đến từ câu chuyện về giới cụ túc... (như
+<!--pg-->
+2\. Ở đây, Tỷ-kheo tự mình đầy đủ giới, trả lời câu hỏi được nói đến từ câu chuyện về giới cụ túc... (như
 trên)... từ câu chuyện về giải thoát tri kiến.
 
 Thành tựu năm pháp này, này các Tỷ-kheo, Tỷ-kheo đủ khả năng, với đời sống của mình, làm gương
@@ -82,11 +94,13 @@ cho các vị đồng Phạm hạnh.
 
 **(VII) (67) Thần Thông (1)**
 
-1. - Tỷ-kheo hay Tỷ-kheo-ni nào, này các Tỷ-kheo, tu tập năm pháp, làm cho sung mãn năm pháp, được
+<!--pg-->
+1\. - Tỷ-kheo hay Tỷ-kheo-ni nào, này các Tỷ-kheo, tu tập năm pháp, làm cho sung mãn năm pháp, được
 chờ đợi là vị ấy được một trong hai quả, ngay trong hiện tại được chánh trí, hay nếu có dư y, chứng
 được Bất lai. Thế nào là năm?
 
-2. Ở đây, này các Tỷ-kheo, Tỷ-kheo tu tập thần túc câu hữu với dục định tinh cần hành, tu tập thần túc
+<!--pg-->
+2\. Ở đây, này các Tỷ-kheo, Tỷ-kheo tu tập thần túc câu hữu với dục định tinh cần hành, tu tập thần túc
 câu hữu với tinh tấn định tinh cần hành, tu tập thần túc câu hữu với tâm định tinh cần hành, tu tập thần
 túc câu hữu với tư duy định tinh cần hành, và thứ năm là tăng thượng tinh tấn.
 
@@ -96,10 +110,12 @@ lai.
 
 **(VIII) (68) Thần Thông (2)**
 
-1. - Trước khi Ta giác ngộ, này các Tỷ-kheo, khi Ta chưa Chánh đẳng Chánh giác, còn là Bồ-tát, Ta đã
+<!--pg-->
+1\. - Trước khi Ta giác ngộ, này các Tỷ-kheo, khi Ta chưa Chánh đẳng Chánh giác, còn là Bồ-tát, Ta đã
 tu tập năm pháp, làm cho sung mãn năm pháp. Thế nào là năm?
 
-2. Ta đã tu tập thần túc câu hữu với dục định tinh cần hành, đã tu tập túc, câu hữu với tinh tấn định tinh
+<!--pg-->
+2\. Ta đã tu tập thần túc câu hữu với dục định tinh cần hành, đã tu tập túc, câu hữu với tinh tấn định tinh
 cần hành, đã tu tập thần túc câu hữu với tâm định tinh cần hành, đã tu tập thần túc câu hữu với tư duy
 định tinh cần hành, và thứ năm là tăng thượng tinh tấn. Này các Tỷ-kheo, do Ta tu tập và làm cho sung
 mãn các pháp với tăng thượng tinh tấn là thứ năm, tùy theo Ta hướng tâm đến pháp nào cần được chứng
@@ -111,10 +127,12 @@ thoát, tại đấy, Ta có thể đạt đến pháp ấy, dầu thuộc hành
 
 **(IX) (69) Nhàm Chán (1)**
 
-1. - Có năm pháp này, này các Tỷ-kheo, được tu tập, được làm cho sung mãn, đưa đến nhứt hướng nhàm
+<!--pg-->
+1\. - Có năm pháp này, này các Tỷ-kheo, được tu tập, được làm cho sung mãn, đưa đến nhứt hướng nhàm
 chán, ly tham, đoạn diệt, an tịnh, thắng trí, giác ngộ, Niết-bàn. Thế nào là năm?
 
-2. Ở đây, này các Tỷ-kheo, vị Tỷ-kheo trú quán bất tịnh trên thân, với tưởng ghê tớm với các món ăn,
+<!--pg-->
+2\. Ở đây, này các Tỷ-kheo, vị Tỷ-kheo trú quán bất tịnh trên thân, với tưởng ghê tớm với các món ăn,
 với tưởng không hoan hỉ đối với tất cả thế giới, quán vô thường đối với tất cả hành, và tưởng về chết,
 nội tâm khéo an trú.
 
@@ -123,10 +141,12 @@ ly tham, đoạn diệt, an tịnh, thắng trí, giác ngộ, Niết-bàn.
 
 **(X) (70) Nhàm Chán (2)**
 
-1. - Năm pháp này, này các Tỷ-kheo, được tu tập, được làm cho sung mãn, đưa đến đoạn diệt các lậu
+<!--pg-->
+1\. - Năm pháp này, này các Tỷ-kheo, được tu tập, được làm cho sung mãn, đưa đến đoạn diệt các lậu
 hoặc. Thế nào là năm?
 
-2. Ở đây, này các Tỷ-kheo, vị Tỷ-kheo trú quán bất tịnh trên thân, với tưởng ghê tởm đối với các món
+<!--pg-->
+2\. Ở đây, này các Tỷ-kheo, vị Tỷ-kheo trú quán bất tịnh trên thân, với tưởng ghê tởm đối với các món
 ăn, với tưởng không hoan hỷ đối với tất cả thế giới, quán vô thường đối với tất cả hành, với tưởng về
 chết, nội tâm khéo an trú.
 

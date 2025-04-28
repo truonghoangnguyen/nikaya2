@@ -2,9 +2,11 @@
 
 **(I) (167) Sự Xuất Ly Của Bậc Thánh (1)**
 
-1. (Xem kinh 119, đoạn số 1, từ: Lúc bấy giờ... cho đến Thế Tôn nói như sau).
+<!--pg-->
+1\. (Xem kinh 119, đoạn số 1, từ: Lúc bấy giờ... cho đến Thế Tôn nói như sau).
 
-2. Ở đây, này Bà-la-môn, vị Thánh đệ tử suy xét như sau: “Sát sanh đưa đến ác dị thục trong đời này và
+<!--pg-->
+2\. Ở đây, này Bà-la-môn, vị Thánh đệ tử suy xét như sau: “Sát sanh đưa đến ác dị thục trong đời này và
 trong đời sau”. Sau khi suy xét như vậy, vị ấy từ bỏ sát sanh, ra khỏi sát sanh... “Lấy của không cho đưa
 đến ác dị thục... từ bỏ lấy của không cho, ra khỏi lấy của không cho.. Tà hạnh trong cái dục, đưa đến ác
 dị thục trong đời này và trong đời sau... từ bỏ tà hạnh trong các dục, ra khỏi tà hạnh trong các dục... Nói
@@ -15,20 +17,23 @@ Tham dục đưa đến ác dị thục... từ bỏ tham dục, ra khỏi tham 
 và trong đời này và trong đời sau”. Vị ấy sau khi suy xét như vậy, từ bỏ tà kiến, ra khỏi tà kiến. Như
 vậy, này Bà-la-môn, là sự xuất ly trong Luật của bậc Thánh.
 
-3. Thưa Tôn giả, sai khác là sự xuất ly của các Bà-la-môn, sai khác là sự xuất ly trong Luật của bậc
+<!--pg-->
+3\. Thưa Tôn giả, sai khác là sự xuất ly của các Bà-la-môn, sai khác là sự xuất ly trong Luật của bậc
 Thánh. Thưa Tôn giả Gotama, sự xuất ly của các Bà-la-môn không đánh giá một phần mười sáu sự xuất
 ly trong Luật của bậc Thánh. Thật vi diệu thay, Tôn giả Gotama...! Xin Tôn giả Gotama bắt đầu từ nay
 nhận con làm đệ tử cư sĩ. Từ này cho đến mạng chung, con trọn đời quy ngưỡng.
 
 **(II) (168) Sự Xuất Ly Của Bậc Thánh (2)**
 
-1. Này các Tỷ-kheo, Ta sẽ giảng về sự xuất ly của bậc Thánh...
+<!--pg-->
+1\. Này các Tỷ-kheo, Ta sẽ giảng về sự xuất ly của bậc Thánh...
 
 Thế Tôn nói như sau:
 
 − Và này các Tỷ-kheo, thế nào là sự xuất ly của bậc Thánh?
 
-2. Ở đây, này các Tỷ-kheo, vị Thánh đệ tử suy xét như sau: “Sát sanh đưa đến ác dị thục ngay trong hiện
+<!--pg-->
+2\. Ở đây, này các Tỷ-kheo, vị Thánh đệ tử suy xét như sau: “Sát sanh đưa đến ác dị thục ngay trong hiện
 tại và trong tương lai”. Sau khi suy xét như vậy, vị ấy từ bỏ sát sanh, ra khỏi sát sanh... Tà kiến đưa đến
 ác dị thục ngay trong hiện tại và trong tương lai. Sau khi suy xét như vậy, vị ấy từ bỏ tà kiến, ra khỏi tà
 kiến.
@@ -41,7 +46,8 @@ Này các Tỷ-kheo, đây là sự xuất ly của bậc Thánh.
 thăm... ngồi xuống một bên, Bà-la-môn Sangàrava bạch Thế Tôn:
 
 − Thưa Tôn giả Gotama, thế nào là bờ bên này, thế nào là bờ bên kia?
-2. Này Bà-la-môn, sát sanh là bờ bên này, từ bỏ sát sanh là bờ bên kia. Lấy của không cho, này Bà-lamôn, là bờ bên này, từ bỏ lấy của không cho là bờ bên kia. Tà hạnh trong các dục là bờ bên này, từ bỏ tà
+<!--pg-->
+2\. Này Bà-la-môn, sát sanh là bờ bên này, từ bỏ sát sanh là bờ bên kia. Lấy của không cho, này Bà-lamôn, là bờ bên này, từ bỏ lấy của không cho là bờ bên kia. Tà hạnh trong các dục là bờ bên này, từ bỏ tà
 hạnh trong các dục là bờ bên kia. Nói láo là bờ bên này, từ bỏ nói láo là bờ bên kia. Nói hai lưỡi là bờ
 bên này, từ bỏ nói hai lưỡi là bờ bên kia. Nói lời độc ác là bờ bên này, từ bỏ nói lời độc ác là bờ bên kia.
 Nói phù phiếm là bờ bên này, từ bỏ nói lời phù phiếm là bờ bên kia. Tham là bờ bên này, không tham là
@@ -74,25 +80,30 @@ _Sống tịch tịnh ở đời._
 
 **(IV) (170) Bờ Bên Này và Bờ Bên Kia**
 
-1. Này các Tỷ-kheo, Ta sẽ thuyết về bờ bên này và bờ bên kia, hãy nghe... và này các Tỷ-kheo, thế nào
+<!--pg-->
+1\. Này các Tỷ-kheo, Ta sẽ thuyết về bờ bên này và bờ bên kia, hãy nghe... và này các Tỷ-kheo, thế nào
 là bờ bên này, và thế nào là bờ bên kia?
 
-2. Sát sanh, này các Tỷ-kheo, là bờ bên này...
+<!--pg-->
+2\. Sát sanh, này các Tỷ-kheo, là bờ bên này...
 
 _(Như kinh trước, kể cả bài kệ)._
 
 **(V) (171) Pháp và Phi Pháp (1)**
 
-1. Phi pháp và phi mục đích, này các Tỷ-kheo, cần phải hiểu biết. Pháp và mục đích cần phải hiểu biết.
+<!--pg-->
+1\. Phi pháp và phi mục đích, này các Tỷ-kheo, cần phải hiểu biết. Pháp và mục đích cần phải hiểu biết.
 Sau khi biết phi pháp và phi mục đích, sau khi biết pháp và mục đích, pháp như thế nào, mục đích như
 thế nào, như thế ấy, cần phải thực hành. Và này các Tỷ-kheo, thế nào là phi pháp và phi mục đích?
 
-2. Sát sanh, lấy của không cho, tà hạnh trong các dục, nói láo, nói hai lưỡi, nói lời độc ác, nói lời phù
+<!--pg-->
+2\. Sát sanh, lấy của không cho, tà hạnh trong các dục, nói láo, nói hai lưỡi, nói lời độc ác, nói lời phù
 phiếm, tham, sân, tà kiến.
 Này các Tỷ-kheo, đây gọi là phi pháp và phi mục đích. Và này các Tỷ-kheo, thế nào là pháp và mục
 đích?
 
-3. Từ bỏ sát sanh, từ bỏ lấy của không cho... từ bỏ nói lời phù phiếm, không tham, không sân, chánh
+<!--pg-->
+3\. Từ bỏ sát sanh, từ bỏ lấy của không cho... từ bỏ nói lời phù phiếm, không tham, không sân, chánh
 kiến.
 
 Này các Tỷ-kheo, đây là pháp và mục đích.
@@ -111,25 +122,29 @@ không sân, chánh kiến).
 
 **(VII) (173) Pháp và Phi Pháp (3)**
 
-1. Phi pháp và pháp, này các Tỷ-kheo, cần phải hiểu biết. Phi mục đích và mục đích, cần phải hiểu biết.
+<!--pg-->
+1\. Phi pháp và pháp, này các Tỷ-kheo, cần phải hiểu biết. Phi mục đích và mục đích, cần phải hiểu biết.
 Sau khi biết phi pháp và phi mục đích, sau khi biết pháp và mục đích, pháp như thế nào, mục đích như
 thế nào, như thế ấy, cần phải thực hành. Và này các Tỷ-kheo, thế nào là phi pháp, thế nào là pháp, thế
 nào là phi mục đích, thế nào là mục đích?
 
-2. Sát sanh, này các Tỷ-kheo, là phi pháp, từ bỏ sát sanh là pháp. Những pháp ác bất thiện do duyên sát
+<!--pg-->
+2\. Sát sanh, này các Tỷ-kheo, là phi pháp, từ bỏ sát sanh là pháp. Những pháp ác bất thiện do duyên sát
 sanh khởi lên, đây là phi mục đích. Những pháp thiện do duyên từ bỏ sát sanh, đi đến viên mãn trong tu
 tập, đây là mục đích. Lấy của không cho... tà hạnh trong các dục... nói láo... nói hai lưỡi... nói lời độc
 ác... nói phù phiếm... tham... sân... tà kiến, này các Tỷ-kheo là phi pháp, từ bỏ kiến là pháp. Những pháp
 ác bất thiện, do duyên tà kiến khởi lên, đây là phi mục đích. Những pháp thiện, do duyên chánh kiến đi
 đến viên mãn trong tu tập, đây là mục đích.
 
-3. Phi pháp và pháp, này các Tỷ-kheo, cần phải hiểu biết. Phi mục đích và mục đích, này các Tỷ-kheo,
+<!--pg-->
+3\. Phi pháp và pháp, này các Tỷ-kheo, cần phải hiểu biết. Phi mục đích và mục đích, này các Tỷ-kheo,
 cần phải hiểu biết. Sau khi biết phi pháp và pháp, sau khi biết phi mục đích và mục đích, pháp như thế
 nào, mục đích như thế nào, như thế ấy, cần phải thực hành.
 
 **(VIII) (174) Do Tham Sân Si**
 
-1. Này các Tỷ-kheo, Ta nói sát sanh có ba: do nhân tham, do nhân sân, do nhân si. Này các Tỷ-kheo, Ta
+<!--pg-->
+1\. Này các Tỷ-kheo, Ta nói sát sanh có ba: do nhân tham, do nhân sân, do nhân si. Này các Tỷ-kheo, Ta
 nói lấy của không cho có ba: do nhân tham, do nhân sân, do nhân si.
 
 Này các Tỷ-kheo, Ta nói tà hạnh trong các dục có ba: do nhân tham, do nhân sân, do nhân si.
@@ -141,18 +156,21 @@ nhân tham, do nhân sân, do nhân si. Này các Tỷ-kheo, Ta nói, nói tham 
 nhân sân, do nhân si. Này các Tỷ-kheo, Ta nói, nói sân có ba: do nhân tham, do nhân sân, do nhân si.
 Này các Tỷ-kheo, Ta nói, nói tà kiến có ba: do nhân tham, do nhân sân, do nhân si.
 
-2. Như vậy, này các Tỷ-kheo, tham là nhân duyên cho nghiệp sanh khởi, sân là nhân duyên cho nghiệp
+<!--pg-->
+2\. Như vậy, này các Tỷ-kheo, tham là nhân duyên cho nghiệp sanh khởi, sân là nhân duyên cho nghiệp
 sanh khởi, si là nhân duyên cho nghiệp sanh khởi, do tham đoạn diệt, là nhân duyên cho nghiệp đoạn
 diệt, do si đoạn diệt, là nhân duyên cho nghiệp đoạn diệt, do si đoạn diệt, là nhân duyên cho nghiệp đoạn
 diệt.
 
 **(IX) (175) Thoát Ly**
 
-1. Pháp này, này các Tỷ-kheo, có con đường thoát ly, pháp này không phải không có con đường thoát ly.
+<!--pg-->
+1\. Pháp này, này các Tỷ-kheo, có con đường thoát ly, pháp này không phải không có con đường thoát ly.
 Và này các Tỷ-kheo, thế nào pháp này có con đường thoát ly, pháp này không phải không có con đường
 thoát ly?
 
-2. Từ bỏ sát sanh, này các Tỷ-kheo, là con đường thoát ly sát sanh. Từ bỏ lấy của không cho, này các
+<!--pg-->
+2\. Từ bỏ sát sanh, này các Tỷ-kheo, là con đường thoát ly sát sanh. Từ bỏ lấy của không cho, này các
 Tỷ-kheo, là con đường thoát ly lấy của không cho. Từ bỏ tà hạnh trong các dục, này các Tỷ-kheo, là con
 đường thoát ly tà hạnh trong các dục. Từ bỏ nói láo, này các Tỷ-kheo, là con đường thoát ly nói láo. Từ
 bỏ nói hai lưỡi, là con đường thoát ly nói hai lưỡi. Từ bỏ nói lời độc ác, này các Tỷ-kheo, là con đường
@@ -166,7 +184,8 @@ thoát ly.
 
 **(X) (176) Cunda Người Thợ Rèn**
 
-1. Một thời, Thế Tôn trú ở Pàvà, trong vườn xoài của Cunda, con người thợ rèn. Rồi Cunda, con người
+<!--pg-->
+1\. Một thời, Thế Tôn trú ở Pàvà, trong vườn xoài của Cunda, con người thợ rèn. Rồi Cunda, con người
 thợ rèn đi đến Thế Tôn, sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Thế Tôn nói với Cunda,
 còn người thợ rèn đang ngồi một bên:
 
@@ -203,10 +222,12 @@ Thế Tôn thuyết pháp cho con về lễ tịnh hạnh trong Luật của b�
 
 Cunda con người thợ rèn vâng đáp Thế Tôn. Thế Tôn nói như sau:
 
-2. Này cunda, thân không tịnh hạnh có ba, lời không tịnh hạnh có bốn, ý không tịnh hạnh có ba. Và này
+<!--pg-->
+2\. Này cunda, thân không tịnh hạnh có ba, lời không tịnh hạnh có bốn, ý không tịnh hạnh có ba. Và này
 Cunda, thế nào là thân không tịnh hạnh có ba?
 
-3. Ở đây, này Cunda, có người sát sanh, hung bạo, tay lắm máu, tâm chuyên sát hại, đả thương, tâm
+<!--pg-->
+3\. Ở đây, này Cunda, có người sát sanh, hung bạo, tay lắm máu, tâm chuyên sát hại, đả thương, tâm
 không từ bi đối với các loại hữu tình. (Người này) lấy của không cho, bất cứ tài vật gì của người khác,
 hoặc tại thôn làng, hoặc tại rừng núi, không cho người ấy; người ấy lấy trộm tài vật ấy. Người ấy sống tà
 hạnh đối với các dục, tà hạnh với các hạng nữ nhân có mẹ che chở, có cha che chở, có mẹ cha che chở,
@@ -215,7 +236,8 @@ gộc bảo vệ, cho đến những nữ nhân được trang sức bằng vòn
 
 Như vậy, này Cunda, bất tịnh hạnh về thân có ba. Và này Cunda, thế nào là bất tịnh hạnh về lời có bốn?
 
-4. Ở đây, này Cunda, có người nói láo, đến chỗ tập hội, hay đến chỗ chúng tôi, hay đến giữa các thân
+<!--pg-->
+4\. Ở đây, này Cunda, có người nói láo, đến chỗ tập hội, hay đến chỗ chúng tôi, hay đến giữa các thân
 tộc, hay đến giữa các tổ hợp, hay đến giữa các vương tộc, khi bị dẫn xuất làm chứng và được hỏi: “Này
 người kia, hãy nói những gì ông biết”. Dầu cho vị ấy không biết, vị ấy nói: “Tôi biết”. Dầu cho vị ấy
 biết, vị ấy nói: “Tôi không biết”. Hay dầu cho vị ấy không thấy, vị ấy nói: “Tôi thấy”. Hay dầu cho vị ấy
@@ -233,7 +255,8 @@ giữ. Vì nói phi thời, nên lời nói không có thuận lý, không có m
 Như vậy, này Cunda, không tịnh hạnh về lời có bốn. Và này Cunda, thế nào là không tịnh hạnh về ý có
 ba?
 
-5. Ở đây, này Cunda, có người có tham ái, tham lam tài vật kẻ khác, nghĩ rằng: “Ôi, mong rằng mọi tài
+<!--pg-->
+5\. Ở đây, này Cunda, có người có tham ái, tham lam tài vật kẻ khác, nghĩ rằng: “Ôi, mong rằng mọi tài
 vật của người khác trở thành của mình! “. Có người có sân tâm, khởi lên hại ý, hại niệm như sau: “Mong
 rằng những loài hữu tình này bị giết, hay bị tàn sát, hay bị tiêu diệt, hay bị tai hại, hay mong chúng
 không còn tồn tại! “. Lại có người có tà kiến, có tưởng điên đảo, như: “không có bố thí, không có cúng
@@ -244,7 +267,8 @@ sau”.
 
 Như vậy, này Cunda, không tịnh hạnh về ý có ba.
 
-6. Này Cunda, có mười bất thiện nghiệp đạo này. Này Cunda, với ai thành tựu mười bất thiện nghiệp
+<!--pg-->
+6\. Này Cunda, có mười bất thiện nghiệp đạo này. Này Cunda, với ai thành tựu mười bất thiện nghiệp
 đạo này, có thể dậy sớm và từ giường nếu vị ấy chạm đất, vị ấy vẫn bất tịnh. Dầu cho vị ấy không chạm
 xuống đất, vị ấy vẫn bất tịnh. Nếu vị ấy chạm phân bò ướt, vị ấy vẫn bất tịnh. Nếu vị ấy không chạm
 phân bò ướt, vị ấy vẫn bất tịnh. Nếu vị ấy chạm cỏ xanh, vị ấy vẫn bất tịnh. Nếu vị ấy không chạm cỏ
@@ -255,10 +279,12 @@ sao? Này Cunda, mười bất thiện nghiệp đạo này là bất tịnh, kh
 thành tựu mười bất thiện nghiệp đạo này, địa ngục được trình bày, bàng sanh được trình bày, ngạ quỉ
 được trình bày hay là ác thú khác.
 
-7. Này Cunda, tịnh hạnh về thân có ba, tịnh hạnh về lời có bốn, tịnh hạnh về ý có ba. Này Cunda, thế
+<!--pg-->
+7\. Này Cunda, tịnh hạnh về thân có ba, tịnh hạnh về lời có bốn, tịnh hạnh về ý có ba. Này Cunda, thế
 nào là tịnh hạnh về thân có ba?
 
-8. Ở đây, này Cunda, có người đoạn tận sát sanh, từ bỏ sát sanh, bỏ trượng, bỏ kiếm, biết tàm quý, có
+<!--pg-->
+8\. Ở đây, này Cunda, có người đoạn tận sát sanh, từ bỏ sát sanh, bỏ trượng, bỏ kiếm, biết tàm quý, có
 lòng từ, sống thương xót đến hạnh phúc tất cả chúng sanh, và loài hữu tình. Ðoạn tận lấy của không cho,
 từ bỏ lấy của không cho; bất cứ vật gì của người khác, hoặc tại thôn làng, hoặc tại rừng núi, không có
 người ấy, người ấy không lấy với ý niệm trộm cắp. Ðoạn tận tà hạnh trong các dục, từ bỏ tà hạnh tong
@@ -268,7 +294,8 @@ sức bằng vòng hoa (đám cưới).
 
 Như vậy, này Cunda, tịnh hạnh về thân có ba. Và này Cunda, thế nào là tịnh hạnh về lời có bốn?
 
-9. Ở đây, này Cunda có người đoạn tận nói láo, từ bỏ nói láo, đến chỗ tập hội hay đến chỗ chúng tội, hay
+<!--pg-->
+9\. Ở đây, này Cunda có người đoạn tận nói láo, từ bỏ nói láo, đến chỗ tập hội hay đến chỗ chúng tội, hay
 đến giữa các thân tộc, hay đến giữa các tổ hợp, hay đến giữa các vương tộc, khi bị dẫn xuất làm chứng
 và được hỏi: “Này người kia, hãy nói những gì người biết”. Nếu không biết, người ấy nói: “Tôi không
 biết”. Nếu biết, người ấy nói: “Tôi biết”. Hay nếu không thấy, người ấy nói: “Tôi không thấy”. Nếu
@@ -285,7 +312,8 @@ thống, lợi ích.
 
 Như vậy, này Cunda, tịnh hạnh về lời nói có bốn. Và này Cunda, thế nào là tịnh hạnh về ý có ba?
 
-10. Ở đây, này Cunda, có người không tham ái, không tham lam tài vật kẻ khác, không nghĩ rằng: “Ôi!
+<!--pg-->
+10\. Ở đây, này Cunda, có người không tham ái, không tham lam tài vật kẻ khác, không nghĩ rằng: “Ôi!
 Mong rằng mọi tài vật của người khác trở thành của mình”. Không có sân tâm, khởi lên hại ý, hại niệm,
 nhưng nghĩ rằng: “Mong rằng những loài hữu tình này sống lo tự ngã, không thù hận, không sân hận,
 không nhiễm loạn, được an lạc”. Có chánh kiến, không có tư tưởng điên đảo: “Có bố thí, có cúng thí, có
@@ -295,7 +323,8 @@ lại tuyên bố cho đời này và cho đời sau”.
 
 Như vậy, này Cunda, tịnh hạnh về ý có ba.
 
-11. Này Cunda, có mười thiện nghiệp đạo này. Này Cunda, ai thành tựu mười bất thiện nghiệp đạo này,
+<!--pg-->
+11\. Này Cunda, có mười thiện nghiệp đạo này. Này Cunda, ai thành tựu mười bất thiện nghiệp đạo này,
 Nếu có dậy sớm và từ giường chạm đất, vị ấy vẫn trong sạch. Nếu vị ấy không chạm xuống đất, vị ấy
 vẫn trong sạch. Nếu vị ấy chạm phân bò ướt, vị ấy vẫn trong sạch. Nếu vị ấy không chạm phân bò ướt,
 vị ấy vẫn trong sạch. Nếu vị ấy chạm cỏ xanh, vị ấy vẫn trong sạch. Nếu vị ấy không chạm cỏ xanh, vị
@@ -306,14 +335,16 @@ sao? Này Cunda, mười thiện nghiệp đạo này là trong sạch, tác th�
 mười thiện nghiệp đạo này, chư Thiên được tuyên bố loài Người được tuyên bố, hay bất cứ thiện thú nào
 khác.
 
-12. Ðược nói vậy, Cunda, con người thợ rèn thưa với Thế Tôn:
+<!--pg-->
+12\. Ðược nói vậy, Cunda, con người thợ rèn thưa với Thế Tôn:
 
 − Thật vi diệu thay, bạch Thế Tôn...! Mong Thế Tôn nhận con làm đệ tử cư sĩ, từ nay cho đến mạng
 chung, con trọn đời quy ngưỡng.
 
 **(XI) (177) Jànussoni**
 
-1. Rồi Bà-la-môn Jànussoni đi đến Thế Tôn, sau khi đến, nói lên với Thế Tôn những lời chào đón hỏi
+<!--pg-->
+1\. Rồi Bà-la-môn Jànussoni đi đến Thế Tôn, sau khi đến, nói lên với Thế Tôn những lời chào đón hỏi
 thăm, sau khi nói lên những lời chào đón hỏi thăm thân hữu, liền ngồi xuống một bên, Bà-la-môn
 Jànussoni bạch Thế Tôn:
 
@@ -326,36 +357,42 @@ Các bà con huyết thống đã chết có được thọ hưởng bố thí �
 
 − Thưa Tôn giả Gotama, thế nào là tương ưng xứ, thế nào là không tương ưng xứ?
 
-2. Ở đây, này Bà-la-môn, có người sát sanh, lấy của không cho, sống tà hạnh trong các dục, nói láo, nói
+<!--pg-->
+2\. Ở đây, này Bà-la-môn, có người sát sanh, lấy của không cho, sống tà hạnh trong các dục, nói láo, nói
 hai lưỡi, nói lời độc ác, nói lời phù phiếm, có tham ái, có sân, có tà kiến. Vị ấy, sau khi thân hoại mạng
 chung, sanh vào địa ngục ăn. Món ăn của chúng sanh ở địa ngục ăn, tại đấy, vị ấy nuôi sống với món ăn
 ấy; tại đấy, vị ấy tồn tại với món ăn ấy. Này Bà-la-môn, đây là không tương ưng xứ, trú ở nơi đây, vị ấy
 không được lợi ích của bố thí ấy.
 
-3. Ở đây, này Bà-la-môn, có người sát sanh... có tà kiến. Sau khi thân hoại mạng chung, vị ấy sanh vào
+<!--pg-->
+3\. Ở đây, này Bà-la-môn, có người sát sanh... có tà kiến. Sau khi thân hoại mạng chung, vị ấy sanh vào
 loại bàng sanh. Món ăn của chúng sanh ở bàng sanh ăn, tại đấy, vị ấy nuôi sống với món ăn ấy; tại đấy,
 vị ấy tồn tại với món ăn ấy. Này Bà-la-môn, đây là không tương ưng xứ; trú ở đây, vị ấy không được lợi
 ích của bố thí ấy.
 
-4. Ở đây, này Bà-la-môn, có người từ bỏ sát sanh, từ bỏ lấy của không cho, từ bỏ tà hạnh trong các dục,
+<!--pg-->
+4\. Ở đây, này Bà-la-môn, có người từ bỏ sát sanh, từ bỏ lấy của không cho, từ bỏ tà hạnh trong các dục,
 từ bỏ nói láo, từ bỏ nói hai lưỡi, từ bỏ nói lời độc ác, từ bỏ nói lời phù phiếm, không có tham ái, không
 có tâm sân hận, có chánh kiến. Người ấy, sau khi thân hoại mạng chung, sanh cộng trú với loài Người.
 Món ăn của loài người như thế nào, tại đấy, vị ấy nuôi sống với món ăn ấy; tại đấy, vị ấy tồn tại với món
 ăn ấy. Này Bà-la-môn, đây là không tương ưng xứ, trú ở đây, vị ấy không được lợi ích của bố thí ấy.
 
-5. Ở đây, này Bà-la-môn, có người từ bỏ sát sanh... có chánh kiến. Người ấy, sau khi thân hoại mạng
+<!--pg-->
+5\. Ở đây, này Bà-la-môn, có người từ bỏ sát sanh... có chánh kiến. Người ấy, sau khi thân hoại mạng
 chung được sanh cộng trú với chư Thiên. Món ăn của chư Thiên như thế nào, tại đấy, vị ấy nuôi sống
 với món ăn ấy; tại đấy, vị ấy tồn tại với món ăn ấy. Này Bà La môn đây là không tương ưng xứ, trú ở
 đây, vị ấy không được lợi ích của bố thí ấy.
 
-6. Ở đây, này Bà-la-môn, có người từ bỏ sát sanh... có tà kiến. Người ấy, sau khi thân hoại mạng chung,
+<!--pg-->
+6\. Ở đây, này Bà-la-môn, có người từ bỏ sát sanh... có tà kiến. Người ấy, sau khi thân hoại mạng chung,
 sanh vào cõi ngạ qủy. Món ăn của chúng sanh ngạ qủy như thế nào, tại đấy, vị ấy nuôi sống với món ăn
 ấy; tại đấy, vị ấy tồn tại với món ăn ấy. Món ăn nào các bạn bè, hoặc than hữu, hoặc bà con, hoặc người
 cùng huyết thống từ đấy muốn hướng cúng cho vị ấy, tại đấy vị ấy sống với món ăn ấy; tại đấy, vị ấy
 tồn tại với món ăn ấy.Này Bà-la-môn, đây là không tương ưng xứ, trú ở đây, vị ấy được lợi ích của bố
 thí ấy.
 
-7. Thưa Tôn giả Gotama, nếu bà con huyết thống ấy đã chết, không sanh vào chỗ ấy, thời ai hưởng bố
+<!--pg-->
+7\. Thưa Tôn giả Gotama, nếu bà con huyết thống ấy đã chết, không sanh vào chỗ ấy, thời ai hưởng bố
 thí ấy?
 
 − Này Bà-la-môn, các bà con huyết thống khác đã chết, được sanh vào chỗ ấy, những người ấy được
@@ -407,7 +444,8 @@ uống, vải mặc, xe cộ, các vòng hoa, hương liệu, phấn sáp, giư�
 vị ấy được năm dục công đức của chư Thiên. Tuy nhiên, này Bà-la-môn, người bố thí không phải không
 có kết quả.
 
-8. Thật vi diệu thay, Tôn giả Gotama! Thật hy hữu thay, Tôn giả Gotama! Cho đến như thế này, thưa
+<!--pg-->
+8\. Thật vi diệu thay, Tôn giả Gotama! Thật hy hữu thay, Tôn giả Gotama! Cho đến như thế này, thưa
 Tôn giả Gotama, là vừa đủ để bố thí, là vừa đủ để tổ chức các tín thí. Vì rằng, ở đấy, người bố thí không
 phải không có kết quả (như đã được nói).
 

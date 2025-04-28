@@ -1,4 +1,4 @@
-## The Chapter on Ways of Performing Deeds
+# The Chapter on Ways of Performing Deeds
 
 ### N 3.163--182 Untitled Discourses on Three Qualities  *Kammapathapeyyāla*
 

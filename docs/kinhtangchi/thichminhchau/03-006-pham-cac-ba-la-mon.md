@@ -16,21 +16,22 @@ bệnh, chết dắt dẫn. Thế giới đã bị già, bệnh, chết dắt d�
 chế ngự lời nói, chế ngự ý trong đời này, đối với kẻ đã đi đến cõi chết, phải là chỗ nương tựa, là hang trú
 ẩn, là hòn cù lao (hay ngọn đèn), là chỗ quy y và là đích xứ nó đến.
 
-_Ðời sống bị dắt dẫn_
-_Mạng sống chẳng là bao_
-_Bị già kéo dẫn đi_
-_Không có nơi nương tựa_
-_Hãy luôn luôn quán tưởng_
-_Sợ hãi tử vong này_
-_Hãy làm các công đức_
-_Ðưa đến chơn an lạc._
-_Ở đây chế ngự thân,_
-_Chế ngự lời và ý,_
-_Kẻ ấy dầu có chết,_
-_Cũng được hưởng an lạc,_
-_Vì khi còn đang sống_
+_Ðời sống bị dắt dẫn_\
+_Mạng sống chẳng là bao_\
+_Bị già kéo dẫn đi_\
+_Không có nơi nương tựa_\
+_Hãy luôn luôn quán tưởng_\
+_Sợ hãi tử vong này_\
+_Hãy làm các công đức_\
+_Ðưa đến chơn an lạc._\
+_Ở đây chế ngự thân,_\
+_Chế ngự lời và ý,_\
+_Kẻ ấy dầu có chết,_\
+_Cũng được hưởng an lạc,_\
+_Vì khi còn đang sống_\
 _Ðã làm các công đức._
 
+<!--pg-->
 **52.- (b) Hai Người**
 
 Rồi Bà-la-môn già yếu, trưởng lão, tuổi lớn ... đi đến Thế Tôn, bạch Thế Tôn:
@@ -42,21 +43,23 @@ Gotama hãy giảng dạy chúng tôi. Nhờ vậy, chúng tôi sẽ được h�
 
 − Thật vậy, các ông là những Bà-la-môn già yếu, ... đã 120 tuổi, nhưng các Ông không làm điều lành ...
 là chỗ quy y và là đích xứ nó đến.
-_Trong ngôi nhà bị cháy,_
-_Ðồ đạc được đem ra,_
-_Ðồ ấy lợi cho nó,_
-_Không phải đồ bị cháy,_
-_Cũng vậy đời bị cháy,_
-_Do già chết thiêu đốt,_
-_Nhờ bố thí tự cứu_
-_Khéo cứu, đồ bố thí._
-_Ở đây, chế ngự thân,_
-_Chế ngự lời và ý,_
-_Kẻ ấy dầu có chết,_
-_Cũng được hưởng an lạc,_
-_Vì khi còn đang sống_
+
+_Trong ngôi nhà bị cháy,_\
+_Ðồ đạc được đem ra,_\
+_Ðồ ấy lợi cho nó,_\
+_Không phải đồ bị cháy,_\
+_Cũng vậy đời bị cháy,_\
+_Do già chết thiêu đốt,_\
+_Nhờ bố thí tự cứu_\
+_Khéo cứu, đồ bố thí._\
+_Ở đây, chế ngự thân,_\
+_Chế ngự lời và ý,_\
+_Kẻ ấy dầu có chết,_\
+_Cũng được hưởng an lạc,_\
+_Vì khi còn đang sống_\
 _Ðã làm các công đức._
 
+<!--pg-->
 **53.- Vị Bà La Môn**
 
 Rồi một Bà-la-môn đi đến Thế Tôn, sau khi đến, nói lên với Thế Tôn những lời chào đón hỏi thăm ...
@@ -85,6 +88,7 @@ không có thời gian, đến để mà thấy, có khả năng hướng thư�
 − Thật vi diệu thay, thưa Tôn giả Gotama! Xin Tôn giả Gotama nhận con làm đệ tử cư sĩ, từ nay cho đến
 mạng chung, con xin trọn đời quy ngưỡng.
 
+<!--pg-->
 **54.- Bà La Môn Cư Sĩ**
 
 Rồi một Bà-la-môn du sĩ đi đến; Thế Tôn, sau khi đến, ... Ngồi xuống một bên, Bà-la-môn du sĩ bạch
@@ -127,6 +131,7 @@ của cả hai
 Như vậy, này Bà-la-môn, pháp là thiết thực hiện tại, không có thời gian, đến để mà thấy, có khả năng
 hướng thượng, được người trí tự mình giác hiểu.
 
+<!--pg-->
 **55.- Niết-bàn**
 
 Rồi Bà-la-môn Jànussoni đi đến Thế Tôn ... Ngồi xuống một bên, Bà-la-môn Jànussoni bạch Thế Tôn:
@@ -156,6 +161,7 @@ thực hiện tại, không có thời gian, ... được người trí tự mì
 − Thật vi diệu thay, thưa Tôn giả Gotama! Mong Tôn giả Gotama nhận con làm đệ tử cư sĩ, từ nay cho
 đến mạng chung, con xin trọn đời quy ngưỡng.
 
+<!--pg-->
 **56.- Người Giàu Có**
 
 Rồi một Bà-la-môn giàu có lớn đi đến Thế Tôn, ... Ngồi xuống một bên, Bà-la-môn giàu có lớn bạch
@@ -190,6 +196,7 @@ phải quốc độ.
 − Thật vi diệu thay, thưa Tôn giả Gotama! ... Tôn giả Gotama hãy nhận con làm đệ tử cư sĩ, từ nay cho
 đến mạng chung, con xin trọn đời quy ngưỡng.
 
+<!--pg-->
 **57.- Vacchagotta**
 Rồi du sĩ Vacchagotta đi đến Thế Tôn, ... Ngồi xuống một bên, du sĩ Vacchagotta thưa với Thế Tôn:
 
@@ -228,49 +235,50 @@ Năm pháp nào đã được đầy đủ?
 đầy đủ vô học giải thoát tri kiến uẩn. Vị ấy được đầy đủ năm pháp này. Ở đây, Ta tuyên bố rằng, bố thí
 cho người đoạn tận năm pháp, đầy đủ năm pháp có quả lớn.
 
-_Như trong một đàn bò,_
-_Có con đen, trắng, đỏ_
-_Màu hung hay có đốm,_
-_Có con màu bồ câu_
-_Dầu con bò màu gì,_
-_Kiếm được con bò thuần,_
-_Con vật kéo sức mạnh,_
-_Ðẹp, lanh và hăng hái,_
-_Mặc kệ nó màu gì,_
-_Liền mắc vào gánh nặng,_
-_Cũng vậy, giữa loài người,_
-_Dầu có sinh chỗ nào,_
-_Hoàng tộc, Bà-la-môn_
-_Thương gia hay nô bộc,_
-_Kẻ không có giai cấp,_
-_Hay hạ cấp đổ phân,_
-_Giữa những người như vậy._
-_Ai điều phục thuần thục,_
-_Ngay thẳng, đủ giới đức_
-_Nói thực, biết tàm quý,_
-_Sanh tử đã đoạn tận,_
-_Phạm hạnh được vẹn toàn_
-_Gánh nặng đã hạ xuống,_
-_Không còn bị trói buộc,_
-_Việc cần làm đã làm,_
-_Không còn bị lậu hoặc,_
-_Ðã đến bờ bên kia,_
-_Không chấp pháp tịch tịnh,_
-_Phước điền ấy vô cấu._
-_Quả lớn đáng cúng dường;_
-_Như kẻ ngu không biết,_
-_Thiếu trí, ít nghe nhiều,_
-_Chỉ bố thí bên ngoài,_
-_Không đến gần kẻ thiện,_
-_Những ai gần kẻ thiện,_
-_Có tuệ, tôn bực hiền_
-_Họ tin bậc Thiện Thệ,_
-_An trú tận gốc rễ._
-_Sanh Thiên hay ở đây_
-_Ðược sanh gia đình tốt_
-_Bậc trí tuần tự tiến_
+_Như trong một đàn bò,_\
+_Có con đen, trắng, đỏ_\
+_Màu hung hay có đốm,_\
+_Có con màu bồ câu_\
+_Dầu con bò màu gì,_\
+_Kiếm được con bò thuần,_\
+_Con vật kéo sức mạnh,_\
+_Ðẹp, lanh và hăng hái,_\
+_Mặc kệ nó màu gì,_\
+_Liền mắc vào gánh nặng,_\
+_Cũng vậy, giữa loài người,_\
+_Dầu có sinh chỗ nào,_\
+_Hoàng tộc, Bà-la-môn_\
+_Thương gia hay nô bộc,_\
+_Kẻ không có giai cấp,_\
+_Hay hạ cấp đổ phân,_\
+_Giữa những người như vậy._\
+_Ai điều phục thuần thục,_\
+_Ngay thẳng, đủ giới đức_\
+_Nói thực, biết tàm quý,_\
+_Sanh tử đã đoạn tận,_\
+_Phạm hạnh được vẹn toàn_\
+_Gánh nặng đã hạ xuống,_\
+_Không còn bị trói buộc,_\
+_Việc cần làm đã làm,_\
+_Không còn bị lậu hoặc,_\
+_Ðã đến bờ bên kia,_\
+_Không chấp pháp tịch tịnh,_\
+_Phước điền ấy vô cấu._\
+_Quả lớn đáng cúng dường;_\
+_Như kẻ ngu không biết,_\
+_Thiếu trí, ít nghe nhiều,_\
+_Chỉ bố thí bên ngoài,_\
+_Không đến gần kẻ thiện,_\
+_Những ai gần kẻ thiện,_\
+_Có tuệ, tôn bực hiền_\
+_Họ tin bậc Thiện Thệ,_\
+_An trú tận gốc rễ._\
+_Sanh Thiên hay ở đây_\
+_Ðược sanh gia đình tốt_\
+_Bậc trí tuần tự tiến_\
 _Chứng được cảnh Niết-bàn._
 
+<!--pg-->
 **58.- Tikanna**
 
 1-6
@@ -344,27 +352,27 @@ không có đời sống nào khác nữa”. Ðây là minh thứ ba đã đạ
 diệt, ánh sáng sanh, đối với vị an trú không phóng dật, nhiệt tâm, tinh cần.
 
 6.
-_Giới hạnh không cao thấp_
-_Khôn khéo và thiền tịnh,_
-_Với tâm được chinh phục,_
-_Nhứt tâm, khéo định tĩnh,_
-_Bậc trí đoạn mê ám,_
-_Ba minh, diệt tử thần,_
-_Vị ấy được tôn xưng,_
-_Ðại hạnh cho Trời Người,_
-_Bậc “Ðoạn tận tất cả”,_
-_Ðầy đủ cả ba minh_
-_An trú không mê vọng,_
-_Ðức Phật, bậc Giác Ngộ,_
-_Bậc chứng thân tối hậu,_
-_Chúng lễ Gotama._
-_Ai biết được đời trước,_
-_Thấy Thiên giới, đọa giới,_
-_Vị ấy là đạo sĩ,_
-_Ðoạn sanh, đạt thắng trí_
-_Vị Bà-la-môn nào,_
-_Chứng được ba minh này,_
-_Ta gọi là ba minh_
+_Giới hạnh không cao thấp_\
+_Khôn khéo và thiền tịnh,_\
+_Với tâm được chinh phục,_\
+_Nhứt tâm, khéo định tĩnh,_\
+_Bậc trí đoạn mê ám,_\
+_Ba minh, diệt tử thần,_\
+_Vị ấy được tôn xưng,_\
+_Ðại hạnh cho Trời Người,_\
+_Bậc “Ðoạn tận tất cả”,_\
+_Ðầy đủ cả ba minh_\
+_An trú không mê vọng,_\
+_Ðức Phật, bậc Giác Ngộ,_\
+_Bậc chứng thân tối hậu,_\
+_Chúng lễ Gotama._\
+_Ai biết được đời trước,_\
+_Thấy Thiên giới, đọa giới,_\
+_Vị ấy là đạo sĩ,_\
+_Ðoạn sanh, đạt thắng trí_\
+_Vị Bà-la-môn nào,_\
+_Chứng được ba minh này,_\
+_Ta gọi là ba minh_\
 _Không như thường được gọi._
 
 Như vậy, này Bà-la-môn, là ba minh trong Luật của bậc Thánh.
@@ -373,6 +381,7 @@ Như vậy, này Bà-la-môn, là ba minh trong Luật của bậc Thánh.
 bậc Thánh! Và thưa Tôn giả Gotama, người có được ba minh của các Bà-la-môn không sánh bằng một
 phần mười sáu của vị chứng minh trong Luật của bậc Thánh.
 
+<!--pg-->
 **59. - Jànussoni**
 
 1-4
@@ -421,17 +430,17 @@ chắc, bình thản như vậy, vị ấy dẫn tâm, hướng tâm đến lậ
 “... không có đời sống nào khác nữa.” Ðây là minh thứ ba đã đạt được, vô minh diệt, minh khởi bóng tối
 diệt, ánh sánh sanh, đối với vị không phóng dật, an trú, nhiệt tâm, tinh cần.
 
-_Ai đầy đủ giới hạnh_
-_Tinh cần và định tĩnh_
-_Với tầm được chinh phục_
-_Nhứt tâm khéo định tĩnh_
-_Ai biết được đời trước_
-_Thấy Thiên giới đọa xứ_
-_Vị ấy là đạo sĩ_
-_Ðoạn sanh, đạt thắng trí_
-_Vị Bà-la-môn nào,_
-_Chứng được ba minh này,_
-_Ta gọi là ba minh_
+_Ai đầy đủ giới hạnh_\
+_Tinh cần và định tĩnh_\
+_Với tầm được chinh phục_\
+_Nhứt tâm khéo định tĩnh_\
+_Ai biết được đời trước_\
+_Thấy Thiên giới đọa xứ_\
+_Vị ấy là đạo sĩ_\
+_Ðoạn sanh, đạt thắng trí_\
+_Vị Bà-la-môn nào,_\
+_Chứng được ba minh này,_\
+_Ta gọi là ba minh_\
 _Không như thường được gọi._
 
 Như vậy, này Bà-la-môn, là ba minh trong Luật của bậc Thánh.
@@ -441,6 +450,7 @@ bậc Thánh! Và thưa Tôn giả Gotama, người có được ba minh của c
 phần mười sáu của vị chứng ba minh trong Luật của bậc Thánh! Thật vi diệu thay, Tôn giả Gotama! ...
 mong Tôn giả Gotama nhận con làm đệ tử, từ nay cho đến mạng chung, con xin trọn đời quy ngưỡng?
 
+<!--pg-->
 **60.- Sangàrava**
 
 1-7
@@ -497,7 +507,7 @@ Lần thứ ba, Bà-la-môn Sangàrava nói với Tôn giả Ananda:
 
 − Như Tôn giả Gotama và Tôn giả Ananda, cả hai đối với tôi là đáng kính lễ và đáng tán thán.
 
-3. Rồi Thế Tôn suy nghĩ như sau: “Cho đến lần thứ ba, Bà-la-môn Sangàrava, được hỏi một câu đúng
+3\. Rồi Thế Tôn suy nghĩ như sau: “Cho đến lần thứ ba, Bà-la-môn Sangàrava, được hỏi một câu đúng
 pháp lại tránh né, không trả lời. Vậy Ta hãy giải tỏa việc này”.
 
 Rồi Thế Tôn nói với Bà-la-môn Sangàrava:
@@ -511,7 +521,7 @@ nhân, các thần thông thần biến được thị hiện. Ngày nay, các T
 pháp thượng nhân, các thần thông thần biến được thị hiện.” Thưa Tôn giả Gotama, đấy là câu chuyện đã
 khởi lên hôm nay trong cung điện nhà vua, khi hội chúng nhà vua ngồi tụ họp lại.
 
-4. - Này Bà-la-môn, có ba loại thần thông. Thế nào là ba? Thần thông biến hóa, thần thông ký thuyết,
+4\. - Này Bà-la-môn, có ba loại thần thông. Thế nào là ba? Thần thông biến hóa, thần thông ký thuyết,
 thần thông giáo hóa, và Bà-la-môn, thế nào là thần thông biến hóa?
 
 Ở đây, này Bà-la-môn, có người chứng được các loại thần thông, một thân hiện ra nhiều thân, nhiều thân
@@ -520,7 +530,7 @@ không, độn thổ, trồi lên ngang qua đất liền như ở trong nước
 liền, ngồi kiết già, đi trên hư không như con chim, với bàn tay, chạm và rờ mặt trăng và mặt trời, những
 vật có đại oai lực, đại oai thần như vậy, có thể tự thân bay đến cõi Phạm Thiên.
 
-5. Và này Bà-la-môn, thế nào là thần thông ký thuyết?
+5\. Và này Bà-la-môn, thế nào là thần thông ký thuyết?
 
 Ở đây, này Bà-la-môn, có người nói lên nhờ tướng: “Như vầy là ý của Ông, như thế này là ý của Ông,
 như thế này là tà tâm của Ông”. Nếu vị ấy nói lên có nhiều, cũng chỉ là như vậy, không có gì khác.
@@ -541,7 +551,7 @@ của người khác tùy theo hành ý của vị Tôn giả này hướng đ�
 tầm đến chỗ ấy. Nếu vị ấy nói lên có nhiều, cũng chỉ là như vậy, không có gì khác. Này Bà-la-môn, đây
 gọi là thần thông ký thuyết.
 
-6. Và như thế nào, này Bà-la-môn, là thần thông giáo hóa?
+6\. Và như thế nào, này Bà-la-môn, là thần thông giáo hóa?
 
 Ở đây, này Bà-la-môn, có người giáo giới như sau: “Hãy suy nghĩ như thế này, chớ suy nghĩ như vậy!
 Hãy tác ý như thế vậy, chớ tác ý như vậy! Hãy từ bỏ cái này! Hãy đạt đến cái này và an trú!”. Này Bàla-môn, đây gọi là thần thông giáo hóa. Nay Bà-la-môn, có ba loại thần thông này.
@@ -567,7 +577,7 @@ của vị Tôn giả này hướng đến chỗ nào, thời tâm của vị n�
 giáo giới như sau: “Hãy suy nghĩ như thế này, chớ suy nghĩ như vậy! Hãy tác ý như vậy, chớ tác ý như
 vậy! Hãy từ bỏ cái này, hãy đạt đến cái này và an trú!”.
 
-7. -Thật vậy, này Bà-la-môn, lời nói của Ông trước như là chống ta, sau xích lại gần ta. Và Ta sẽ trả lời
+7\. -Thật vậy, này Bà-la-môn, lời nói của Ông trước như là chống ta, sau xích lại gần ta. Và Ta sẽ trả lời
 cho Ông. Này Bà-la-môn, ta chứng được nhiều loại thần thông ... này Bà-la-môn, ta thành tựu được định
 không tầm không tứ, với tâm của mình rõ biết tâm của người khác, tùy theo ý hành của vị Tôn giả này
 hướng đến chỗ nào, thời tâm của vị này lập tức suy tầm đến chỗ ấy. Tôn giả Gotama có thể giáo giới

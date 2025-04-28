@@ -1,11 +1,13 @@
 # VII. Phẩm Nghiệp Công Ðức
 
+<!--pg-->
 **(I) (61) Bốn Nghiệp Công Ðức**
 
-1. Rồi gia chủ Anàthapindika đi đến Thế Tôn, sau khi đến, đảnh lễ Thế Tôn, rồi ngồi xuống một bên.
+1\. Rồi gia chủ Anàthapindika đi đến Thế Tôn, sau khi đến, đảnh lễ Thế Tôn, rồi ngồi xuống một bên.
 Thế Tôn nói với gia chủ Anàthapindika đang ngồi một bên:
 
-2. - Có bốn pháp này, này Gia chủ, khả lạc, khả hỷ, khả ý, khó được ở đời. Thế nào là bốn?
+<!--pg-->
+2\. - Có bốn pháp này, này Gia chủ, khả lạc, khả hỷ, khả ý, khó được ở đời. Thế nào là bốn?
 
 “Mong rằng tài sản khởi lên cho ta đúng pháp”. Ðây là pháp thứ nhất, khả lạc, khả hỷ, khả ý, khó được ở
 đời. “Tài sản đã được đúng pháp, mong rằng tiếng tốt được đồn về ta, cùng với bà con, và các bậc
@@ -17,31 +19,37 @@ mạng chung, ta sanh lên cõi thiện, cõi Trời, cõi đời này”. Ðây
 
 Bốn pháp này, này Gia chủ, khả lạc, khả hỷ, khả ý, khó tìm được ở đời.
 
-3. Này Gia chủ, đối với bốn pháp khả lạc, khả hỷ, khả ý, khó được ở đời này, có bốn pháp đưa đến
+<!--pg-->
+3\. Này Gia chủ, đối với bốn pháp khả lạc, khả hỷ, khả ý, khó được ở đời này, có bốn pháp đưa đến
 chứng được những pháp ấy. Thế nào là bốn?
 
 Ðầy đủ lòng tin, đầy đủ giới, đầy đủ bố thí, đầy đủ trí tuệ.
 
-4. Và này Gia chủ, thế nào là đầy đủ lòng tin? Ở đây, này Gia chủ, vị Thánh đệ tử có lòng tin, tin tưởng
+<!--pg-->
+4\. Và này Gia chủ, thế nào là đầy đủ lòng tin? Ở đây, này Gia chủ, vị Thánh đệ tử có lòng tin, tin tưởng
 ở sự giác ngộ của Như Lai: Vị này là bậc A-la-hán, Chánh Ðẳng Giác, Minh Hạnh Túc, Thiện Thệ, Thế
 Gian Giải, Vô Thượng Sĩ, Ðiều Ngự Trượng Phu, Thiên Nhân Sư, Phật, Thế Tôn. Này Gia chủ, đây gọi
 là đầy đủ lòng tin.
 
-5. Và này Gia chủ, thế nào là đầy đủ giới? Ở đây, này Gia chủ, vị Thánh đệ tử từ bỏ sát sanh... từ bỏ
+<!--pg-->
+5\. Và này Gia chủ, thế nào là đầy đủ giới? Ở đây, này Gia chủ, vị Thánh đệ tử từ bỏ sát sanh... từ bỏ
 đắm say rượu men, rượu nấu. Này Gia chủ, đây gọi là đầy đủ giới.
 
-6. Và này Gia chủ, thế nào là đầy đủ bố thí? Ở đây, này Gia chủ, vị Thánh đệ tử sống ở gia đình, tâm
+<!--pg-->
+6\. Và này Gia chủ, thế nào là đầy đủ bố thí? Ở đây, này Gia chủ, vị Thánh đệ tử sống ở gia đình, tâm
 không bị cấu uế xan tham chi phối, bố thí rộng rãi, với bàn tay rộng mở, ưa thích từ bỏ, sẵn sàng để
 được yêu cầu, vui thích san sẻ vật bố thí. Này Gia chủ, đây gọi là đầy đủ bố thí.
 
-7. Và này Gia chủ, thế nào là đầy đủ trí tuệ? Này Gia chủ, sống với tâm vị dục tham chinh phục, làm
+<!--pg-->
+7\. Và này Gia chủ, thế nào là đầy đủ trí tuệ? Này Gia chủ, sống với tâm vị dục tham chinh phục, làm
 việc không nên làm, không làm việc nên làm. Do làm việc không nên làm, không làm việc nên làm, vị
 ấy rời khỏi danh tiếng và an lạc. Này Gia chủ, sống với tâm vị sân hận chinh phục... sống với tâm bị hôn
 trầm thụy miên chinh phục... sống với tâm bị trạo hối chinh phục... sống với tâm bị nghi chinh phục, làm
 việc không nên làm, không làm việc đáng làm; do làm việc không nên làm, không làm việc đáng làm, vị
 ấy rời khỏi danh tiếng và an lạc.
 
-8. Này Gia chủ, Thánh đệ tử ấy, sau khi biết được dục tham là uế nhiễm của tâm, từ bỏ dục tham uế
+<!--pg-->
+8\. Này Gia chủ, Thánh đệ tử ấy, sau khi biết được dục tham là uế nhiễm của tâm, từ bỏ dục tham uế
 nhiễm của tâm; sau khi biết được sân hận là uế nhiễm của tâm, từ bỏ sân hận, uế nhiễm của tâm; sau khi
 biết được hôn trầm thụy miên là uế nhiễm của tâm; sau khi biết được trạo hối là uế nhiễm của tâm; sau
 khi biết được nghi là uế nhiễm của tâm, từ bỏ nghi, uế nhiễm của tâm; này Gia chủ, đây gọi là vị Thánh
@@ -51,34 +59,40 @@ tuệ.
 Này Gia chủ, đối với bốn pháp khả lạc, khả hỷ, khả ý, khó được ở đời này, có bốn pháp này đưa đến
 chứng được những pháp ấy.
 
-9. Vị Thánh đệ tử ấy, này Gia chủ, với tài sản thâu hoạch được do nỗ lực tinh tấn, tích lũy do sức mạnh
+<!--pg-->
+9\. Vị Thánh đệ tử ấy, này Gia chủ, với tài sản thâu hoạch được do nỗ lực tinh tấn, tích lũy do sức mạnh
 cánh tay, do mồ hôi đổ ra, đúng pháp, thâu hoạch đúng pháp, là người đã làm bốn hành động. Thế nào là
 bốn?
 
-10. Ở đây, này Gia chủ, Thánh đệ tử, với tài sản thâu hoạch được do nỗ lực tinh tấn, tích lũy được do
+<!--pg-->
+10\. Ở đây, này Gia chủ, Thánh đệ tử, với tài sản thâu hoạch được do nỗ lực tinh tấn, tích lũy được do
 sức mạnh cánh tay, do mồ hôi đổ ra đúng pháp, thâu hoạch đúng pháp, tự làm mình an lạc, hoan hỷ,
 chơn chánh đem lại an lạc, giúp cha mẹ được an lạc hoan hỷ, giúp vợ con, người phục vụ, người làm
 công được an lạc, hoan hỷ, chơn chánh đem lại an lạc, giúp bạn bè thân hữu được an lạc hoan hỷ, là
 người chơn chánh đem lại an lạc. Này Gia chủ, đây là trường hợp thứ nhất, vị ấy đi đến được, đạt được
 sự hưởng thọ đúng phương xứ.
 
-11. Lại nữa, này Gia chủ, Thánh đệ tử, với tài sản thâu hoạch được do nỗ lực tinh tấn, tích lũy được do
+<!--pg-->
+11\. Lại nữa, này Gia chủ, Thánh đệ tử, với tài sản thâu hoạch được do nỗ lực tinh tấn, tích lũy được do
 sức mạnh cánh tay, do mồ hôi đổ ra đúng pháp, thâu hoạch đúng pháp, với tài sản ấy, tự làm cho mình
 được an toàn, chống lại những tai họa từ lửa đến, từ nước đến, từ vua đến, từ ăn trộm đến, từ các thừa tự
 thù nghịch đến. Này Gia chủ, đây là trường hợp thứ hai vị ấy đi đến được, đạt được sự hưởng thọ đúng
 phương xứ.
 
-12. Lại nữa, này Gia chủ, vị Thánh đệ tử với tài sản... thâu hoạch đúng pháp. Với tài sản ấy, vị ấy tổ
+<!--pg-->
+12\. Lại nữa, này Gia chủ, vị Thánh đệ tử với tài sản... thâu hoạch đúng pháp. Với tài sản ấy, vị ấy tổ
 chức năm loại lễ hiến cúng, hiến cúng cho bà con, hiến cúng cho khách, hiến cúng cho các vong linh quá
 khứ, hiến cúng cho vua, hiến cúng cho chư Thiên. Này Gia chủ, đây là trường hợp thứ ba vị ấy đi đến
 được, đạt được sự hưởng thọ đúng phương xứ.
 
-13. Lại nữa, này Gia chủ, Thánh đệ tử với tài sản... thâu hoạch đúng pháp, đối với những vị Sa-môn, Bàla-môn sống từ bỏ kiêu mạn, phóng dật, an trú trên nhẫn nhục, nhu hòa, an tịnh tự mình, nhiếp phục tự
+<!--pg-->
+13\. Lại nữa, này Gia chủ, Thánh đệ tử với tài sản... thâu hoạch đúng pháp, đối với những vị Sa-môn, Bàla-môn sống từ bỏ kiêu mạn, phóng dật, an trú trên nhẫn nhục, nhu hòa, an tịnh tự mình, nhiếp phục tự
 mình, làm lắng dịu tự mình; đối với những Sa-môn, Bà-la-môn như vậy, vị ấy tổ chức sự cúng dường tối
 thượng, thuộc về cõi Trời, đem đến quả lạc dị thục, đưa đến Thiên giới. Này Gia chủ, đây là trường hợp
 thứ tư vị ấy đi đến được, đạt được sự hưởng thọ đúng phương xứ.
 
-14. Vị Thánh đệ tử ấy, này Gia chủ, với tài sản thâu hoạch được do nỗ lực tinh tấn, tích lũy được do sức
+<!--pg-->
+14\. Vị Thánh đệ tử ấy, này Gia chủ, với tài sản thâu hoạch được do nỗ lực tinh tấn, tích lũy được do sức
 mạnh cánh tay, do mồ hôi đổ ra đúng pháp, thâu hoạch đúng pháp; với tài sản ấy, vị ấy là người đã làm
 được bốn hành động này. Nếu tài sản của ai, này Gia chủ, được tiêu dùng không đúng với bốn hành
 động này, những tài sản này được gọi là tài sản đi đến không lợi ích, đi đến không thành đạt, đạt được sự
@@ -104,33 +118,39 @@ _Ðời này được tán thán,_
 _Ðời sau được hoan hỷ,_
 _Trên cảnh giới chư Thiên._
 
+<!--pg-->
 **(II) (62) Không Nợ**
 
-1. Rồi gia chủ Anàthapindika đi đến Thế Tôn, sau khi đến, ngồi xuống một bên. Thế Tôn nói với gia chủ
+1\. Rồi gia chủ Anàthapindika đi đến Thế Tôn, sau khi đến, ngồi xuống một bên. Thế Tôn nói với gia chủ
 Anàthapindika đang ngồi một bên:
-2. - Có bốn loại an lạc này, ngày Gia chủ, người tại gia thọ hưởng các dục thâu hoạch được, tùy thời
+<!--pg-->
+2\. - Có bốn loại an lạc này, ngày Gia chủ, người tại gia thọ hưởng các dục thâu hoạch được, tùy thời
 gian, tùy thời cơ khởi lên cho vị ấy. Thế nào là bốn? Lạc sở hữu, lạc thọ dụng, lạc không mắc nợ, lạc
 không phạm tội.
 
-3. Và này Gia chủ, thế nào là lạc sở hữu?
+<!--pg-->
+3\. Và này Gia chủ, thế nào là lạc sở hữu?
 
 Ở đây, này Gia chủ, tài sản của người thiện nam tử, thâu hoạch được do nỗ lực tinh tấn, tích lũy được do
 sức mạnh cánh tay, do mồ hôi đổ ra đúng pháp, thâu hoạch đúng pháp. Vị ấy suy nghĩ: “Ta có tài sản,
 thâu hoạch được do nỗ lực tinh tấn, tích lũy được do sức mạnh cánh tay... thâu hoạch đúng pháp.” Nghĩ
 vậy, vị ấy được lạc, được hỷ. Này Gia chủ, đây gọi là lạc sở hữu.
 
-4. Và này, thế nào là lạc tài sản?
+<!--pg-->
+4\. Và này, thế nào là lạc tài sản?
 
 Ở đây, này Gia chủ, thiện nam tử thọ hưởng những tài sản thâu hoạch được do nỗ lực tinh tấn, tích lũy
 được... thâu hoạch đúng pháp và làm các việc phước đức. Vị ấy nghĩ rằng: “Ta thọ hưởng những tài sản
 thâu hoạch được do nỗ lực tinh tấn... thâu hoạch đúng pháp và ta làm các phước đức.” Nghĩ vậy vị ấy
 được lạc, được hỷ. Này Gia chủ, đây gọi là lạc tài sản.
 
-5. Và này Gia chủ, thế nào là lạc không mắc nợ? Ở đây, này Gia chủ, vị thiện gia nam tử không có mắc
+<!--pg-->
+5\. Và này Gia chủ, thế nào là lạc không mắc nợ? Ở đây, này Gia chủ, vị thiện gia nam tử không có mắc
 nợ ai một điều gì, ít hay nhiều. Vị ấy nghĩ rằng: “Ta không có mắc nợ ai một điều gì, ít hay nhiều.” Nghĩ
 vậy, vị ấy được lạc, được hỷ. Này Gia chủ, đây gọi là lạc không mắc nợ.
 
-6. Và này Gia chủ, thế nào là lạc không phạm tội?
+<!--pg-->
+6\. Và này Gia chủ, thế nào là lạc không phạm tội?
 
 Ở đây, này Gia chủ, vị Thánh đệ tử thành tựu thân hành không phạm tội, thành tựu khẩu hành không
 phạm tội, thành tựu ý hành không phạm tội. Vị ấy nghĩ rằng: “Ta thành tựu thân hành không phạm tội,
@@ -150,9 +170,10 @@ _Lạc vậy chỉ bằng được,_
 _Bằng một phần mười sáu,_
 _Lạc không có phạm tội._
 
+<!--pg-->
 **(III) (63) Bằng Với Phạm Thiên**
 
-1. - Những gia đình nào, này các Tỷ-kheo, các cha mẹ được các con đảnh lễ cúng dường ở trong nhà,
+1\. - Những gia đình nào, này các Tỷ-kheo, các cha mẹ được các con đảnh lễ cúng dường ở trong nhà,
 những gia đình ấy được xem là giống như Phạm thiên. Những gia đình nào, này các Tỷ-kheo, các cha
 mẹ được các con đảnh lễ cúng dường ở trong nhà, những gia đình ấy được xem là giống như bậc Ðạo sư
 thời xưa. Những gia đình nào, này các Tỷ-kheo, các cha mẹ được các con đảnh lễ cúng dường ở trong
@@ -160,7 +181,8 @@ nhà, những gia đình ấy, này các Tỷ-kheo, được xem là giống nh�
 nào, này các Tỷ-kheo, các cha mẹ được các con đảnh lễ cúng dường ở trong nhà, những gia đình ấy
 được xem là đáng được cúng dường.
 
-2. Phạm Thiên, này các Tỷ-kheo, là đồng nghĩa với mẹ cha; các bậc Ðạo sư thời xưa, này các Tỷ-kheo,
+<!--pg-->
+2\. Phạm Thiên, này các Tỷ-kheo, là đồng nghĩa với mẹ cha; các bậc Ðạo sư thời xưa, này các Tỷ-kheo,
 là đồng nghĩa với mẹ cha; chư Thiên thuở xưa, này các Tỷ-kheo, là đồng nghĩa với mẹ cha; đáng được
 cung kính cúng dường, này các Tỷ-kheo, là đồng nghĩa với mẹ cha. Vì cớ sao? Này các Tỷ-kheo, vì mẹ
 cha giúp đỡ rất nhiều cho các con, nuôi dưỡng chúng lớn và giới thiệu chúng vào đời này.
@@ -180,9 +202,10 @@ _Ðối với mẹ và cha,_
 _Ðời này người hiền khen,_
 _Ðời sau hưởng Thiên lạc._
 
+<!--pg-->
 **(IV) (64) Ðịa Ngục**
 
-1. - Thành tựu với bốn pháp, này các Tỷ-kheo, như vậy tương xứng bị rời vào địa ngục. Với bốn pháp
+1\. - Thành tựu với bốn pháp, này các Tỷ-kheo, như vậy tương xứng bị rời vào địa ngục. Với bốn pháp
 gì? sát sanh, lấy của không cho, tà hạnh trong các dục, nói láo.
 
 Thành tựu với bốn pháp này, này các Tỷ-kheo, như vậy tương xứng bị rơi vào địa ngục.
@@ -194,9 +217,10 @@ _Cái được gọi nói láo,_
 _Và đi đến vợ người,_
 _Bậc trí không tán thán._
 
+<!--pg-->
 **(V) (65) Hình Thức Bên Ngoài**
 
-1. - Có bốn hạng người này, này các Tỷ-kheo, có mặt, hiện hữu ở đời. Thế nào là bốn?
+1\. - Có bốn hạng người này, này các Tỷ-kheo, có mặt, hiện hữu ở đời. Thế nào là bốn?
 
 Hạng người đo lường sắc và thỏa mãn với sắc; hạng người đo lường tiếng và thỏa mãn với tiếng; hạng
 người đo lường với thô và thỏa mãn với thô; hạng người đo lường với pháp và thỏa mãn với pháp. Bốn
@@ -223,7 +247,8 @@ _Không bị tiếng chi phối._
 
 **(VI) (66) Tham Ái**
 
-1. - Có bốn hạng người này, này các Tỷ-kheo, có mặt, hiện hữu ở đời. Thế nào là bốn? Có tham, có sân,
+<!--pg-->
+1\. - Có bốn hạng người này, này các Tỷ-kheo, có mặt, hiện hữu ở đời. Thế nào là bốn? Có tham, có sân,
 có si, có mạn. Bốn hạng người này, này các Tỷ-kheo, có mặt hiện hữu ở đời.
 
 2.
@@ -246,12 +271,14 @@ _Ta có thể như vậy._
 
 **(VII) (67) Vua Các Loài Rắn**
 
-1. Một thời, Thế Tôn trú ở Sàvatthi, tại Jetavana, khu vườn ông Anàthapindika.
+<!--pg-->
+1\. Một thời, Thế Tôn trú ở Sàvatthi, tại Jetavana, khu vườn ông Anàthapindika.
 
 Lúc bấy giờ, một Tỷ-kheo ở Sàvatthi bị rắn cắn chết. Rồi nhiều Tỷ-kheo đi đến Thế Tôn, sau khi đến,
 đảnh lễ Thế Tôn, rồi ngồi xuống một bên. Ngồi xuống một bên, các Tỷ-kheo ấy bạch Thế Tôn:
 
-2. - Ở đây, bạch Thế Tôn, một Tỷ-kheo ở Sàvatthi bị rắn cắn đã mệnh chung.
+<!--pg-->
+2\. - Ở đây, bạch Thế Tôn, một Tỷ-kheo ở Sàvatthi bị rắn cắn đã mệnh chung.
 
 − Tỷ-kheo ấy, này các Tỷ-kheo, với từ tâm đã không hướng đến bốn gia đình vua các loài rắn. Nếu Tỷkheo ấy, này các Tỷ-kheo, với từ tâm có hướng đến bốn gia đình vua các loài rắn, thời này các Tỷ-kheo,
 vị ấy có thể không bị rắn cắn mà mạng chung. Thế nào là bốn gia đình vua các loài rắn?
@@ -301,7 +328,8 @@ Tôn. Ta đảnh lễ bảy vị Chánh Ðẳng Giác.”
 
 **(VIII) (68) Devadatta**
 
-1. Một thời, Thế Tôn trú ở Ràjagaha, tại núi Gijjhakùta sau khi Devadatta bỏ đi không bao lâu. Tại đấy,
+<!--pg-->
+1\. Một thời, Thế Tôn trú ở Ràjagaha, tại núi Gijjhakùta sau khi Devadatta bỏ đi không bao lâu. Tại đấy,
 Thế Tôn nhơn việc Devadatta bảo các Tỷ-kheo:
 
 − Ðem đến hại mình, này các Tỷ-kheo, khi lợi dưỡng, cung kính, danh vọng khởi lên cho Devadatta;
@@ -328,27 +356,32 @@ _Thai tạng hại con la._
 
 **(IX) (69) Tinh Cần**
 
-1. - Này các Tỷ-kheo, có bốn tinh cần này, thế nào là bốn?
+<!--pg-->
+1\. - Này các Tỷ-kheo, có bốn tinh cần này, thế nào là bốn?
 
 Tinh cần chế ngự, tinh cần đoạn tận, tinh cần tu tập, tinh cần hộ trì.
 
-2. Này các Tỷ-kheo, thế nào là tinh cần chế ngự?
+<!--pg-->
+2\. Này các Tỷ-kheo, thế nào là tinh cần chế ngự?
 
 Ở đây, này các Tỷ-kheo, Tỷ-kheo với mục đích khiến cho các ác bất thiện pháp từ trước chưa sanh
 không cho sanh khởi, khởi lên ý muốn cố gắng, tinh tấn, sách tâm, trì tâm. Này các Tỷ-kheo, đây gọi là
 tinh cần chế ngự.
 
-3. Và này các Tỷ-kheo, thế nào là tinh cần đoạn tận?
+<!--pg-->
+3\. Và này các Tỷ-kheo, thế nào là tinh cần đoạn tận?
 
 Ở đây, này các Tỷ-kheo, Tỷ-kheo với mục đích đoạn tận các ác bất thiện pháp, khởi lên ý muốn cố gắng,
 tinh tấn, sách tâm, trì tâm. Này các Tỷ-kheo, đây gọi là tinh cần đoạn tận.
 
-4. Và này các Tỷ-kheo, thế nào là tinh cần tu tập?
+<!--pg-->
+4\. Và này các Tỷ-kheo, thế nào là tinh cần tu tập?
 
 Ở đây, này các Tỷ-kheo, Tỷ-kheo với mục đích làm cho sanh khởi các thiện pháp chưa sanh, khởi lên ý
 muốn cố gắng, tinh tấn, sách tâm, trì tâm. Này các Tỷ-kheo, đây gọi là tinh cần tu tập.
 
-5. Và này các Tỷ-kheo, thế nào là tinh cần hộ trì?
+<!--pg-->
+5\. Và này các Tỷ-kheo, thế nào là tinh cần hộ trì?
 
 Ở đây, này các Tỷ-kheo, Tỷ-kheo với mục đích khiến cho các thiện pháp đã được sanh có thể duy trì,
 không có mù mờ, được tăng trưởng, được quảng đại, được tu tập, được viên mãn, khởi lên ý muốn cố
@@ -368,7 +401,8 @@ _Ðạt được khổ đoạn diệt._
 
 **(X) (70) Phi Pháp**
 
-1. - Khi nào, này các Tỷ-kheo, các vua phi pháp có mặt, khi ấy, các đại thần phi pháp của vua có mặt.
+<!--pg-->
+1\. - Khi nào, này các Tỷ-kheo, các vua phi pháp có mặt, khi ấy, các đại thần phi pháp của vua có mặt.
 Khi nào các đại thần phi pháp của vua có mặt, khi ấy các Bà-la-môn gia chủ phi pháp có mặt. Khi nào
 các Bà-la-môn gia chủ phi pháp có mặt, khi ấy dân chúng thị thành và dân chúng các làng trở thành phi
 pháp. Khi nào dân chúng thị thành và ở các làng là phi pháp, khi ấy mặt trăng, mặt trời đi sai quỹ đạo.
@@ -381,7 +415,8 @@ mưa không có điều hòa. Khi nào trời mưa không có điều hòa, khi 
 khi nào lúa chín trái mùa, khi ấy các loài Người nuôi sống với loại lúa ấy, thì thọ mạng sẽ ngăn, dung
 sắc xấu, yếu sức và nhiều bệnh.
 
-2. Khi nào, này các Tỷ-kheo, các vua đúng pháp có mặt, thì khi ấy các vị đại thần đúng pháp có mặt.
+<!--pg-->
+2\. Khi nào, này các Tỷ-kheo, các vua đúng pháp có mặt, thì khi ấy các vị đại thần đúng pháp có mặt.
 Khi nào các vị đại thần đúng pháp của vua có mặt, khi ấy các Bà-la-môn gia chủ đúng pháp có mặt. Khi
 nào các Bà-la-môn gia chủ đúng pháp có mặt, khi ấy dân chúng thị thành và dân chúng các làng trở
 thành đúng pháp. Khi nào dân chúng thị thành và ở các làng là đúng pháp, khi ấy mặt trăng, mặt trời đi

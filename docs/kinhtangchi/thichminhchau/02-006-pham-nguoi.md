@@ -5,39 +5,49 @@ số, an lạc cho đa số, lợi ích cho đa số, đưa lại hạnh phúc, 
 hai? Như Lai, bậc A-la-hán, Chánh Ðẳng Giác và Chuyển Luân Vương. Những người này, này các Tỷkheo, khi xuất hiện ở đời, sự xuất hiện đưa lại hạnh phúc cho đa số, an lạc cho đa số, lợi ích cho đa số,
 đưa lại hạnh phúc, an lạc cho chư Thiên và loài Người.
 
-2. Có hai hạng người này, này các Tỷ-kheo, khi xuất hiện ở đời, là sự xuất hiện của những người vi diệu.
+<!--pg-->
+2\. Có hai hạng người này, này các Tỷ-kheo, khi xuất hiện ở đời, là sự xuất hiện của những người vi diệu.
 Thế nào là hai? Như Lai và Chuyển Luân Vương. Những người này, này các Tỷ-kheo, khi xuất hiện ở
 đời, là sự xuất hiện của những người vi diệu.
 
-3. Có hai hạng người khi mệnh chung, này các Tỷ-kheo, đưa lại thương tiếc cho đa số. Thế nào là hai?
+<!--pg-->
+3\. Có hai hạng người khi mệnh chung, này các Tỷ-kheo, đưa lại thương tiếc cho đa số. Thế nào là hai?
 Như Lai, bậc A-la-hán, Chánh Ðẳng Giác và Chuyển Luân Vương. Hai hạng người này khi mạng chung,
 này các Tỷ-kheo, đưa lại thương tiếc cho đa số.
 
-4. Hai hạng người này, này các Tỷ-kheo, xứng đáng để xây tháp. Thế nào là hai? Như Lai và Chuyển
+<!--pg-->
+4\. Hai hạng người này, này các Tỷ-kheo, xứng đáng để xây tháp. Thế nào là hai? Như Lai và Chuyển
 Luân Vương. Hai hạng người này, này các Tỷ-kheo, xứng đáng để xây tháp.
 
-5. Có hai bậc Giác ngộ này, này các Tỷ-kheo. Thế nào là hai? Như Lai, bậc ng Cúng, Chánh Ðẳng Giác,
+<!--pg-->
+5\. Có hai bậc Giác ngộ này, này các Tỷ-kheo. Thế nào là hai? Như Lai, bậc ng Cúng, Chánh Ðẳng Giác,
 và Ðộc Giác Phật. Những vị này, này các Tỷ-kheo, là hai bậc Giác ngộ.
 
-6. Hai (sanh) loại này, này các Tỷ-kheo, không bị sét đánh làm cho sợ hãi. Thế nào là hai? Tỷ-kheo đoạn
+<!--pg-->
+6\. Hai (sanh) loại này, này các Tỷ-kheo, không bị sét đánh làm cho sợ hãi. Thế nào là hai? Tỷ-kheo đoạn
 tận các lậu hoặc và con voi thuần chủng. Hai (sanh) loại này, này các Tỷ-kheo, không bị sét đánh làm
 cho sợ hãi.
 
-7. Hai (sanh) loại này, này các Tỷ-kheo, không bị sét đánh làm cho sợ hãi. Thế nào là hai? Tỷ-kheo đoạn
+<!--pg-->
+7\. Hai (sanh) loại này, này các Tỷ-kheo, không bị sét đánh làm cho sợ hãi. Thế nào là hai? Tỷ-kheo đoạn
 tận các lậu hoặc và con ngựa nòi giống tốt. Hai (sanh) loại này, này các Tỷ-kheo, không bị sét đánh làm
 cho sợ hãi.
 
-8. ... (như trên, chỉ thay vào “Tỷ-kheo đoạn tận các lậu hoặc và con sư tử, vua các loài thú”) ...
+<!--pg-->
+8\. ... (như trên, chỉ thay vào “Tỷ-kheo đoạn tận các lậu hoặc và con sư tử, vua các loài thú”) ...
 
-9. Do thấy hai lý do này, này các Tỷ-kheo, các loài Kimpurisà (phi nhân, khẩn-na-la) không nói lên
+<!--pg-->
+9\. Do thấy hai lý do này, này các Tỷ-kheo, các loài Kimpurisà (phi nhân, khẩn-na-la) không nói lên
 tiếng người. Thế nào là hai? “Chúng ta chớ có nói láo và chúng ta chớ có xuyên tạc người khác với điều
 không thật”. Do thấy hai lý do này, này các Tỷ-kheo, các loài Kimpurisà không nói lên tiếng người.
 
-10. Có hai điều, này các Tỷ-kheo, người phụ nữ khi lâm chung chưa được thỏa mãn, chưa được vừa đủ.
+<!--pg-->
+10\. Có hai điều, này các Tỷ-kheo, người phụ nữ khi lâm chung chưa được thỏa mãn, chưa được vừa đủ.
 Thế nào là hai? Sự giao cấu và sanh con. Hai điều này, này các Tỷ-kheo, người phụ nữ khi lâm chung
 chưa được thỏa mãn, chưa được vừa đủ.
 
-11. Ta sẽ giảng cho các Thầy, này các Tỷ-kheo, về sự cộng trú của người bất thiện và sự cộng trú của
+<!--pg-->
+11\. Ta sẽ giảng cho các Thầy, này các Tỷ-kheo, về sự cộng trú của người bất thiện và sự cộng trú của
 người thiện. Hãy nghe và khéo tác ý, ta sẽ nói.
 
 − Thưa vâng, bạch Thế Tôn.
@@ -70,7 +80,8 @@ Này các Tỷ-kheo, vị tân học Tỷ-kheo suy nghĩ như sau: “Mong rằn
 niên nói với ta, vị tân học nói với ta...., và nếu thấy vị ấy nói đúng, ta sẽ đáp ứng thích hợp”. Như vậy,
 này các Tỷ-kheo, là sự cộng trú của người thiện và như vậy là người thiện cộng trú với nhau.
 
-12. Trong cuộc tranh tụng nào, này các Tỷ-kheo, cả hai phía có lời qua tiếng lại, có những quan điểm
+<!--pg-->
+12\. Trong cuộc tranh tụng nào, này các Tỷ-kheo, cả hai phía có lời qua tiếng lại, có những quan điểm
 ngoan cố, với tâm hiềm hận, ưu não, uất ức, nội tâm không an tịnh, thời sự tranh tụng ấy, này các Tỷkheo, được chờ đợi rằng sẽ đưa đến kéo dài, gay gắt, thô bạo, và các Tỷ-kheo sẽ sống không an lạc.
 
 Và này các Tỷ-kheo, trong cuộc tranh tụng nào, này các Tỷ-kheo, cả hai phía có lời qua tiếng lại, có

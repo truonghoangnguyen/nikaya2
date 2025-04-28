@@ -1,12 +1,12 @@
-## The Chapter on the Peaceful Mind
+# The Chapter on the Peaceful Mind
 
 ### N 2.32--41 *Samacittavagga*
 
+<!--pg-->
 32\. "Mendicants, I will teach you the level of the untrue person and the
 level of the true person. Listen and apply your mind well, I will
 speak."
 
-<!--pg-->
 "Yes, sir," they replied. The Buddha said this:
 
 "What is the level of the untrue person? The untrue person is ungrateful
@@ -16,10 +16,10 @@ and thankless. The true person is grateful and thankful, for the
 virtuous only know how to be grateful and thankful. It is totally the
 level of a true person to be grateful and thankful."
 
+<!--pg-->
 33\. "Mendicants, I say that these two people cannot easily be repaid. What
 two? Mother and father.
 
-<!--pg-->
 You would not have done enough to repay your mother and father even if
 you were to carry your mother around on one shoulder and your father on
 the other, and if you lived like this for a hundred years, and if you
@@ -37,12 +37,12 @@ encourage, settle, and ground unfaithful parents in faith, unethical
 parents in ethical conduct, stingy parents in generosity, or ignorant
 parents in wisdom."
 
+<!--pg-->
 34\. Then a certain brahmin went up to the Buddha, and exchanged greetings
 with him. When the greetings and polite conversation were over, he sat
 down to one side and said to the Buddha, "What does Mister Gotama teach?
 What does he explain?"
 
-<!--pg-->
 "Brahmin, I teach action and inaction."
 
 "But in what way does Mister Gotama teach action and inaction?"
@@ -55,12 +55,12 @@ things. This is the kind of action and inaction that I teach."
 "Excellent, Mister Gotama! ... From this day forth, may Mister Gotama
 remember me as a lay follower who has gone for refuge for life."
 
-35\. Then the householder [Anāthapiṇḍika]{lang="sa"} went up to the Buddha,
+<!--pg-->
+35\. Then the householder Anāthapiṇḍika went up to the Buddha,
 bowed, sat down to one side, and said to the Buddha, "How many in the
 world are worthy of a religious donation? And where should a gift be
 given?"
 
-<!--pg-->
 "Householder, there are two in the world who are worthy of a religious
 donation: the trainee and the adept. These two in the world are worthy
 of a religious donation, and that's where you should give a gift."
@@ -75,22 +75,22 @@ say:
 > This is the field for sponsors of sacrifice---\
 > what's given here is very fruitful."
 
-36\. [So I have heard.]{.smallcaps} At one time the Buddha was staying near
-[Sāvatthī]{lang="sa"} in Jeta's Grove, [Anāthapiṇḍika]{lang="sa"}'s
+<!--pg-->
+36\. So I have heard.At one time the Buddha was staying near
+Sāvatthī in Jeta's Grove, Anāthapiṇḍika's
 monastery.
 
-<!--pg-->
-Now at that time Venerable [Sāriputta]{lang="sa"} was staying near
-[Sāvatthī]{lang="sa"} in the stilt longhouse of [Migāra]{lang="sa"}'s
-mother in the Eastern Monastery. There [Sāriputta]{lang="sa"} addressed
+Now at that time Venerable Sāriputta was staying near
+Sāvatthī in the stilt longhouse of Migāra's
+mother in the Eastern Monastery. There Sāriputta addressed
 the mendicants: "Reverends, mendicants!"
 
-"Reverend," they replied. [Sāriputta]{lang="sa"} said this:
+"Reverend," they replied. Sāriputta said this:
 
 "I will teach you about a person fettered internally and one fettered
 externally. Listen and apply your mind well, I will speak."
 
-"Yes, reverend," they replied. [Sāriputta]{lang="sa"} said this:
+"Yes, reverend," they replied. Sāriputta said this:
 
 "Who is a person fettered internally? It's a mendicant who is ethical,
 restrained in the monastic code, conducting themselves well and
@@ -124,33 +124,33 @@ this place."
 
 Then several peaceful-minded deities went up to the Buddha, bowed, stood
 to one side, and said to the Buddha, "Sir, Venerable
-[Sāriputta]{lang="sa"} is in the stilt longhouse of
-[Migāra]{lang="sa"}'s mother in the Eastern Monastery, where he is
+Sāriputta is in the stilt longhouse of
+Migāra's mother in the Eastern Monastery, where he is
 teaching the mendicants about a person with internal fetters and one
 with external fetters. The assembly is overjoyed! Sir, please go to
-Venerable [Sāriputta]{lang="sa"} out of sympathy." The Buddha consented
+Venerable Sāriputta out of sympathy." The Buddha consented
 with silence.
 
 Then the Buddha, as easily as a strong person would extend or contract
 their arm, vanished from Jeta's Grove and reappeared in the stilt
-longhouse of [Migāra]{lang="sa"}'s mother in the Eastern Monastery, in
-front of [Sāriputta]{lang="sa"}. He sat on the seat spread out.
-[Sāriputta]{lang="sa"} bowed to the Buddha and sat down to one side. The
+longhouse of Migāra's mother in the Eastern Monastery, in
+front of Sāriputta. He sat on the seat spread out.
+Sāriputta bowed to the Buddha and sat down to one side. The
 Buddha said to him:
 
-"Just now, [Sāriputta]{lang="sa"}, several peaceful-minded deities came
+"Just now, Sāriputta, several peaceful-minded deities came
 up to me, bowed, and stood to one side. Those deities said to me: 'Sir,
-Venerable [Sāriputta]{lang="sa"} is in the stilt longhouse of
-[Migāra]{lang="sa"}'s mother in the Eastern Monastery, where he is
+Venerable Sāriputta is in the stilt longhouse of
+Migāra's mother in the Eastern Monastery, where he is
 teaching the mendicants about a person with internal fetters and one
 with external fetters. The assembly is overjoyed! Sir, please go to
-Venerable [Sāriputta]{lang="sa"} out of sympathy.'
+Venerable Sāriputta out of sympathy.'
 
 Those deities, though they number ten, twenty, thirty, forty, fifty, or
 sixty, can stand on the point of a needle without bumping up against
 each other.
 
-[Sāriputta]{lang="sa"}, you might think: 'Surely those deities, since so
+Sāriputta, you might think: 'Surely those deities, since so
 many of them can stand on the point of a needle without bumping up
 against each other, must have developed their minds in that place.' But
 you should not see it like this. It was right here that those deities
@@ -162,20 +162,20 @@ mind are peaceful, your acts of body, speech, and mind will be peaceful,
 thinking: 'We shall present the gift of peace to our spiritual
 companions.' That's how you should train.
 
-Those wanderers of other religions, [Sāriputta]{lang="sa"}, who have not
+Those wanderers of other religions, Sāriputta, who have not
 heard this exposition of the teaching are lost."
 
-37\. [So I have heard.]{.smallcaps} At one time Venerable
-[Mahākaccāna]{lang="sa"} was staying at [Varaṇā]{lang="sa"}, on the bank
+<!--pg-->
+37\. So I have heard.At one time Venerable
+Mahākaccāna was staying at Varaṇā, on the bank
 of the Kaddama Lake.
 
-<!--pg-->
-Then the brahmin [Ārāmadaṇḍa]{lang="sa"} went up to
-[Mahākaccāna]{lang="sa"}, and exchanged greetings with him. When the
+Then the brahmin Ārāmadaṇḍa went up to
+Mahākaccāna, and exchanged greetings with him. When the
 greetings and polite conversation were over, he sat down to one side and
-said to [Mahākaccāna]{lang="sa"}:
+said to Mahākaccāna:
 
-"What is the cause, Mister [Kaccāna]{lang="sa"}, what is the reason why
+"What is the cause, Mister Kaccāna, what is the reason why
 aristocrats fight with aristocrats, brahmins fight with brahmins, and
 householders fight with householders?"
 
@@ -183,13 +183,13 @@ householders fight with householders?"
 avarice, and attachment, that aristocrats fight with aristocrats,
 brahmins fight with brahmins, and householders fight with householders."
 
-"What is the cause, Mister [Kaccāna]{lang="sa"}, what is the reason why
+"What is the cause, Mister Kaccāna, what is the reason why
 ascetics fight with ascetics?"
 
 "It is because of their insistence on views, their shackles, avarice,
 and attachment, that ascetics fight with ascetics."
 
-"Mister [Kaccāna]{lang="sa"}, is there anyone in the world who has gone
+"Mister Kaccāna, is there anyone in the world who has gone
 beyond the insistence on sensual desire and the insistence on views?"
 
 "There is, brahmin."
@@ -197,12 +197,12 @@ beyond the insistence on sensual desire and the insistence on views?"
 "Who in the world has gone beyond the insistence on sensual desire and
 the insistence on views?"
 
-"In the eastern lands there is a city called [Sāvatthī]{lang="sa"}.
+"In the eastern lands there is a city called Sāvatthī.
 There the Blessed One is now staying, the perfected one, the fully
 awakened Buddha. He, brahmin, has gone beyond the insistence on sensual
 desire and the insistence on views."
 
-When this was said, the brahmin [Ārāmadaṇḍa]{lang="sa"} got up from his
+When this was said, the brahmin Ārāmadaṇḍa got up from his
 seat, arranged his robe over one shoulder, knelt on his right knee,
 raised his joined palms toward the Buddha, and expressed this heartfelt
 sentiment three times:
@@ -219,32 +219,32 @@ Buddha!
 He who has gone beyond the insistence on sensual desire and the
 insistence on views.
 
-Excellent, Mister [Kaccāna]{lang="sa"}! Excellent! As if he were
+Excellent, Mister Kaccāna! Excellent! As if he were
 righting the overturned, or revealing the hidden, or pointing out the
 path to the lost, or lighting a lamp in the dark so people with clear
-eyes can see what's there, Mister [Kaccāna]{lang="sa"} has made the
+eyes can see what's there, Mister Kaccāna has made the
 teaching clear in many ways. I go for refuge to Mister Gotama, to the
-teaching, and to the mendicant [Saṅgha]{lang="sa"}. From this day forth,
-may Mister [Kaccāna]{lang="sa"} remember me as a lay follower who has
+teaching, and to the mendicant Saṅgha. From this day forth,
+may Mister Kaccāna remember me as a lay follower who has
 gone for refuge for life."
 
-38\. At one time Venerable [Mahākaccāna]{lang="sa"} was staying near
-[Madhurā]{lang="sa"}, in Gunda's Grove.
-
 <!--pg-->
-Then the brahmin [Kandarāyana]{lang="sa"} went up to
-[Mahākaccāna]{lang="sa"}, and exchanged greetings with him ... He sat
-down to one side and said to [Mahākaccāna]{lang="sa"}:
+38\. At one time Venerable Mahākaccāna was staying near
+Madhurā, in Gunda's Grove.
 
-"I have heard, Mister [Kaccāna]{lang="sa"}, that the ascetic
-[Kaccāna]{lang="sa"} doesn't bow to old brahmins, the elderly and
+Then the brahmin Kandarāyana went up to
+Mahākaccāna, and exchanged greetings with him ... He sat
+down to one side and said to Mahākaccāna:
+
+"I have heard, Mister Kaccāna, that the ascetic
+Kaccāna doesn't bow to old brahmins, the elderly and
 senior, who are advanced in years and have reached the final stage of
 life; nor does he rise in their presence or offer them a seat. And this
-is indeed the case, for the ascetic [Kaccāna]{lang="sa"} does not bow to
+is indeed the case, for the ascetic Kaccāna does not bow to
 old brahmins, elderly and senior, who are advanced in years and have
 reached the final stage of life; nor does he rise in their presence or
 offer them a seat. This is not appropriate, Mister
-[Kaccāna]{lang="sa"}."
+Kaccāna."
 
 "There is the stage of an elder and the stage of youth as explained by
 the Blessed One, who knows and sees, the perfected one, the fully
@@ -257,46 +257,47 @@ life, does not dwell in the midst of sensual pleasures, enjoying them,
 consumed by thoughts of them, burning with fever for them, and eagerly
 seeking more, they are reckoned as astute, a senior."
 
-When this was said, the brahmin [Kandarāyana]{lang="sa"} got up from his
+When this was said, the brahmin Kandarāyana got up from his
 seat, placed his robe over one shoulder, and bowed with his head at the
 feet of the young mendicants, saying, "The good sirs are elders, at the
 stage of the elder; we are youths, at the stage of youth.
 
-Excellent, Mister [Kaccāna]{lang="sa"}! ... From this day forth, may
-Mister [Kaccāna]{lang="sa"} remember me as a lay follower who has gone
+Excellent, Mister Kaccāna! ... From this day forth, may
+Mister Kaccāna remember me as a lay follower who has gone
 for refuge for life."
 
+<!--pg-->
 39\. "At a time when bandits are strong, kings are weak. Then the king is not
 at ease when going out or coming back or when touring the provinces. The
 brahmins and householders, likewise, are not at ease when going out or
 coming back, or when inspecting their business activities. In the same
 way, at a time when bad mendicants are strong, good-hearted mendicants
 are weak. Then the good-hearted mendicants continually adhere to silence
-in the midst of the [Saṅgha]{lang="sa"}, or they stay in the
+in the midst of the Saṅgha, or they stay in the
 borderlands. This is for the detriment and suffering of the people,
 against the people, for the harm, detriment, and suffering of gods and
 humans.
 
-<!--pg-->
 At a time when kings are strong, bandits are weak. Then the king is at
 ease when going out or coming back or when inspecting the provinces. The
 brahmins and householders, likewise, are at ease when going out or
 coming back, or when inspecting their business activities. In the same
 way, at a time when good-hearted mendicants are strong, bad mendicants
 are weak. Then the bad mendicants continually adhere to silence in the
-midst of the [Saṅgha]{lang="sa"}, or they leave for some place or other.
+midst of the Saṅgha, or they leave for some place or other.
 This is for the welfare and happiness of the people, for the people, for
 the benefit, welfare, and happiness of gods and humans."
 
+<!--pg-->
 40\. "Mendicants, I don't praise wrong practice for these two, for laypeople
 and renunciates. Because of wrong practice, neither laypeople nor
 renunciates succeed in completing the system of the skillful teaching.
 
-<!--pg-->
 I praise right practice for these two, for laypeople and renunciates.
 Because of right practice, both laypeople and renunciates succeed in
 completing the system of the skillful teaching."
 
+<!--pg-->
 41\. "Mendicants, by memorizing the discourses incorrectly, taking only a
 semblance of the phrasing, some mendicants shut out the meaning and the
 teaching. They act for the detriment and suffering of the people,
@@ -304,7 +305,6 @@ against the people, for the harm, detriment, and suffering of gods and
 humans. They create much wickedness and make the true teaching
 disappear.
 
-<!--pg-->
 But by memorizing the discourses well, not taking only a semblance of
 the phrasing, some mendicants reinforce the meaning and the teaching.
 They act for the welfare and happiness of the people, for the people,

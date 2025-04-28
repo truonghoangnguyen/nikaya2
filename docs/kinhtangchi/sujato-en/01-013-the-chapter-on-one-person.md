@@ -1,4 +1,4 @@
-## The Chapter on One Person
+# The Chapter on One Person
 
 ### N 1.170--187 *Ekapuggalavagga*
 
@@ -54,7 +54,7 @@ non-return, and perfection."
 <!--pg-->
 187\. "Mendicants, I do not see a single other person who rightly keeps
 rolling the supreme Wheel of Dhamma that was rolled forth by the
-Realized One like [Sāriputta]{lang="sa"}. [Sāriputta]{lang="sa"} rightly
+Realized One like Sāriputta\. . Sāriputta\.  rightly
 keeps rolling the supreme Wheel of Dhamma that was rolled forth by the
 Realized One."
 

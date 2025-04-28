@@ -1,4 +1,4 @@
-## The Chapter of Abbreviated Texts Beginning With Anger
+# The Chapter of Abbreviated Texts Beginning With Anger
 
 ### N 2.180--229 *Kodhapeyyālavagga*
 

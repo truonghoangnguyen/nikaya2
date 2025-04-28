@@ -2,16 +2,19 @@
 
 **(I) (31) Upàli Và Giới Bổn**
 
-1. **Bấy giờ có tôn giả Upàli đi đến Thế Tôn, sau khi đến đảnh lễ Thế Tôn rồi xuống một bên. Ngồi**
+<!--pg-->
+1\. **Bấy giờ có tôn giả Upàli đi đến Thế Tôn, sau khi đến đảnh lễ Thế Tôn rồi xuống một bên. Ngồi**
 xuống một bên, Tôn giả Upàli bạch Thế Tôn:
 
-2. - Bạch Thế Tôn, do duyên bao nhiêu mục đích, các học pháp thiết lập cho các đệ tử Như Lai và giới
+<!--pg-->
+2\. - Bạch Thế Tôn, do duyên bao nhiêu mục đích, các học pháp thiết lập cho các đệ tử Như Lai và giới
 bổn Pàtimokkha được tuyên đọc?
 
 − Này Upàli, do duyên mười mục đích, các học pháp được thiết lập cho các đệ tử Như Lai và giới bổn
 Pàtimokkha được tuyên đọc. Thế nào là mười?
 
-3. Ðể tăng chúng được cực thiện, để Tăng chúng được an ổn, để chận đứng các người cứng đầu, để các
+<!--pg-->
+3\. Ðể tăng chúng được cực thiện, để Tăng chúng được an ổn, để chận đứng các người cứng đầu, để các
 thiện Tỷ-kheo được sống an ổn, để chế ngự các lậu hoặc ngay trong hiện tại, để chận đứng các lậu hoặc
 trong tương lai, để đem lại tịnh tín cho những người không tin, để làm tịnh tín tăng trưởng cho những
 người có lòng tin, để diệu pháp được tồn tại, để luật được chấp nhận.
@@ -19,11 +22,13 @@ người có lòng tin, để diệu pháp được tồn tại, để luật đ
 Do duyên mười mục đích này, này Upàli, các học pháp được thiết lập cho các đệ tử Như Lai, và giới
 bổn Pàtimokkha được tuyên đọc.
 
-4. - Bạch Thế Tôn, có bao nhiêu trường hợp, giới bổn Pàtimokkha bị ngưng tuyên đọc?
+<!--pg-->
+4\. - Bạch Thế Tôn, có bao nhiêu trường hợp, giới bổn Pàtimokkha bị ngưng tuyên đọc?
 
 − Này Upàli, có mười trường hợp, giới bổn Pàtimokkha bị ngưng tuyên đọc. Thế nào là mười?
 
-5. Khi có người phạm Ba-la-di tội ngồi trong hội chúng ấy, khi thảo luận về người phạm Ba-la-di tôi
+<!--pg-->
+5\. Khi có người phạm Ba-la-di tội ngồi trong hội chúng ấy, khi thảo luận về người phạm Ba-la-di tôi
 chưa chấm dứt, khi có người nào thọ cụ túc giới ngồi trong hội chúng ấy, khi thảo luận về người chưa
 thọ cụ túc giới chưa chấm dứt, khi một người từ bỏ học pháp ngồi xuống trong hội chúng, khi cuộc thảo
 luận về con người từ bỏ học pháp chưa chấm dứt, khi có người thiếu nam căn còn ngồi trong hội chúng
@@ -34,10 +39,12 @@ Này Upàli, đây là mười trường hợp giới bổn Pàtimokkha bị ng�
 
 **(II) (32) Người Ðoạn Sự**
 
-1. - Bạch Thế Tôn, một Tỷ-kheo thành tựu bao nhiêu pháp để được làm người đoạn sự viên?
+<!--pg-->
+1\. - Bạch Thế Tôn, một Tỷ-kheo thành tựu bao nhiêu pháp để được làm người đoạn sự viên?
 − Này Upàli, một Tỷ-kheo thành tựu mười pháp để được làm người đoạn sự viên. Thế nào là mười?
 
-2. Ở đây, này Upàli, vị Tỷ-kheo giữ giới sống chế ngự với sự chế ngự của giới bổn Pàtimokkha, đầu đủ
+<!--pg-->
+2\. Ở đây, này Upàli, vị Tỷ-kheo giữ giới sống chế ngự với sự chế ngự của giới bổn Pàtimokkha, đầu đủ
 uy nghi chánh hạnh, thấy sợ hãi trong những lỗi nhỏ nhặt, chấp nhận và học tập trong các học pháp, là
 người nghe nhiều, thọ trì điều đã nghe, cất chứa điều đã nghe. Những pháp nào, sơ thiện, trung thiện,
 hậu thiện, có nghĩa, có văn, tán thán Phạm hạnh hoàn toàn viên mãn thanh tịnh, những pháp như vậy, vị
@@ -52,11 +59,13 @@ Thành tựu mười pháp này, này Upàli, Tỷ-kheo được xem là khả n
 
 **(III) (33) Cụ Túc Giới**
 
-1. - Bạch Thế Tôn, thành tựu bao nhiêu pháp, một Tỷ-kheo có khả năng trao truyền cụ túc giới?
+<!--pg-->
+1\. - Bạch Thế Tôn, thành tựu bao nhiêu pháp, một Tỷ-kheo có khả năng trao truyền cụ túc giới?
 
 − Thành tựu mười pháp, này Upàli, vị Tỷ-kheo có khả năng trao truyền cụ túc giới. Thế nào là mười?
 
-2. Ở đây, này Upàli, Tỷ-kheo có giới, sống được chế ngự với sự chế ngự của giới bổn Pàtimokkha, đầy
+<!--pg-->
+2\. Ở đây, này Upàli, Tỷ-kheo có giới, sống được chế ngự với sự chế ngự của giới bổn Pàtimokkha, đầy
 đủ uy nghi chánh hạnh thấy sợ hãi trong các lỗi nhỏ nhặt, chấp nhận và học tập trong các học pháp, là
 người nghe nhiều, thọ trì điều đã được nghe, cất chứa điều đã được nghe... khéo thông hiểu, khéo quyết
 định, theo kinh, theo chi tiết. Vị ấy có khả năng nuôi dưỡng bệnh nhân hay khiến người nuôi dưỡng, có
@@ -68,13 +77,15 @@ Thành tựu mười pháp này, này Upàli, một Tỷ-kheo có khả năng tr
 
 **(VI) (34) Y Chỉ Sa Di**
 
-1. - Thành tựu bao nhiêu pháp, bạch Thế Tôn, một Tỷ-kheo có thể trao truyền y chỉ,...có khả năng nuôi
+<!--pg-->
+1\. - Thành tựu bao nhiêu pháp, bạch Thế Tôn, một Tỷ-kheo có thể trao truyền y chỉ,...có khả năng nuôi
 dưỡng Sa-di?
 
 − Thành tựu mười pháp, này Upàli, này Upàli, một Tỷ-kheo có thể trao tuyền y chỉ...có khả năng nuôi
 dưỡng Sa-di. Thế nào là mười?
 
-2. Ở đây, này Upàli, vị Tỷ-kheo có giới...chấp nhận và học tập trong các học pháp. Là vị nghe nhiều...
+<!--pg-->
+2\. Ở đây, này Upàli, vị Tỷ-kheo có giới...chấp nhận và học tập trong các học pháp. Là vị nghe nhiều...
 khéo thể nhập với chánh kiến. Cả hai giới bổn Pàtimokkha, khéo truyền đạt một cách rộng rãi, khéo
 phân tích, khéo thông hiểu, khéo quyết định, theo kinh, theo chi tiết. Vị ấy có khả năng nuôi dưỡng nhân
 hay khiến người nuôi dưỡng; có khả năng làm cho tịnh chỉ bất mãn hay khiến người khác tịnh chỉ bất
@@ -85,10 +96,12 @@ khích lệ trong tăng thượng tuệ.
 Thành tựu mười pháp này, này Upàli., một Tỷ-kheo có khả năng nuôi dưỡng Sa-di.
 
 **(V) (35) Phá Hòa Hợp Tăng**
-1. - Phá hòa hợp tăng, phá hòa hợp tăng, bạch Thế Tôn được nói đến như vậy. Cho đến như thế nào,
+<!--pg-->
+1\. - Phá hòa hợp tăng, phá hòa hợp tăng, bạch Thế Tôn được nói đến như vậy. Cho đến như thế nào,
 bạch Thế Tôn là phá hòa hợp Tăng?
 
-2. - Ở đây, này Upáli, các Tỷ-kheo thuyết phi pháp là pháp; thuyết pháp là phi pháp; thuyết phi luật là
+<!--pg-->
+2\. - Ở đây, này Upáli, các Tỷ-kheo thuyết phi pháp là pháp; thuyết pháp là phi pháp; thuyết phi luật là
 luật; thuyết luật là phi luật; thuyết điều Như Lai không nói, không thuyết, là điều Như Lai nói, Như Lai
 thuyết; thuyết điều Như Lai có nói, có thuyết, là điều Như Lai không nói, không thuyết; thuyết điều Như
 Lai thường không sở hành là điều Như Lai thường sở hành; thuyết điều Như Lai thường sở hành là điều
@@ -100,10 +113,12 @@ Pátimokkha khác biệt. Cho đến như vậy, này Upàli, là chúng Tăng b
 
 **(VI) (36) Hòa Hợp Tăng**
 
-1. - Tăng hòa hợp, Tăng hòa hợp. Bạch Thế Tôn, được nói đến như vậy. Cho đến như thế nào, bạch Thế
+<!--pg-->
+1\. - Tăng hòa hợp, Tăng hòa hợp. Bạch Thế Tôn, được nói đến như vậy. Cho đến như thế nào, bạch Thế
 Tôn, là Tăng hòa hợp?
 
-2. - Ở đây, này Upàli, các Tỷ-kheo thuyết phi pháp là phi pháp; thuyết pháp là pháp; thuyết luật là luật;
+<!--pg-->
+2\. - Ở đây, này Upàli, các Tỷ-kheo thuyết phi pháp là phi pháp; thuyết pháp là pháp; thuyết luật là luật;
 thuyết phi luật là phi luật; thuyết điều Như Lai không nói, không thuyết, là điều Như Lai không nói,
 không thuyết; thuyết điều Như Lai có nói, có thuyết là điều Như Lai có nói, có thuyết; điều Như Lai
 thường không sở hành là điều Như Lai thường không sở hành; thuyết điều Như Lai thường sở hành là
@@ -120,13 +135,17 @@ là Tăng chúng được hòa hợp.
 
 **(VIII) (38) Quả Của Phá Hòa Hợp Tăng**
 
-1. - Phá hoại Tăng hòa hợp, đem lại kết quả gì?
+<!--pg-->
+1\. - Phá hoại Tăng hòa hợp, đem lại kết quả gì?
 
-2. - Này Ananda, đem lại tội ác kéo dài đến một kiếp.
+<!--pg-->
+2\. - Này Ananda, đem lại tội ác kéo dài đến một kiếp.
 
-3. - Bạch Thế Tôn, tội ác gì kéo dài một kiếp?
+<!--pg-->
+3\. - Bạch Thế Tôn, tội ác gì kéo dài một kiếp?
 
-4. - Này Ananda, bị nấu trong địa ngục một kiếp.
+<!--pg-->
+4\. - Này Ananda, bị nấu trong địa ngục một kiếp.
 
 _Kẻ phá hòa hợp Tăng_
 _Bị rơi vào đọa xứ,_
@@ -149,11 +168,14 @@ _Bị địa ngục nung nấu._
 
 1.- Bạch Thế Tôn, với chúng Tăng bị phá, làm cho hòa hợp lại, đem đến kết quả gì?
 
-2. - Này Ananda, đem đến phạm công đức!
+<!--pg-->
+2\. - Này Ananda, đem đến phạm công đức!
 
-3. - Bạch Thế Tôn, thế nào là phạm công đức?
+<!--pg-->
+3\. - Bạch Thế Tôn, thế nào là phạm công đức?
 
-4. - Này Ananda, trong một kiếp, được sống hoan hỷ ở Thiên giới.
+<!--pg-->
+4\. - Này Ananda, trong một kiếp, được sống hoan hỷ ở Thiên giới.
 
 _Sống an lạc là người,_
 _Làm hòa hợp chúng Tăng;_

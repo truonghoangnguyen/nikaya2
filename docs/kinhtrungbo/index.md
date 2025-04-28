@@ -113,34 +113,6 @@ features:
 </div>
 
 
-## Hướng Dẫn Sử Dụng
-
-<div class="usage-guide">
-  <div class="guide-step">
-    <div class="step-number">1</div>
-    <div class="step-content">
-      <h4>Chọn Bản Dịch</h4>
-      <p>Chọn bản dịch bạn muốn đọc từ danh sách các bản dịch ở trên.</p>
-    </div>
-  </div>
-
-  <div class="guide-step">
-    <div class="step-number">2</div>
-    <div class="step-content">
-      <h4>So Sánh Các Bản Dịch</h4>
-      <p>Sử dụng các trang so sánh để đối chiếu các bản dịch khác nhau của cùng một bài kinh.</p>
-    </div>
-  </div>
-
-  <div class="guide-step">
-    <div class="step-number">3</div>
-    <div class="step-content">
-      <h4>Ghi Chú và Bình Luận</h4>
-      <p>Xem các ghi chú và bình luận có sẵn ở cuối mỗi bài kinh để hiểu sâu hơn về nội dung.</p>
-    </div>
-  </div>
-</div>
-
 <div class="closing-message">
   <p>Chúc bạn có những giờ phút nghiên cứu và thực hành giáo pháp an lạc!</p>
 </div>

@@ -1,4 +1,4 @@
-## Another Chapter on a Finger-Snap
+# Another Chapter on a Finger-Snap
 
 ### N 1.394--574 *Aparaaccharāsaṅghātavagga*
 
@@ -126,7 +126,7 @@ corpse ...
 
 <!--pg-->
 485--494\. They develop the recollection of the Buddha ... the recollection of the
-teaching ... the recollection of the [Saṅgha]{lang="sa"} ... the
+teaching ... the recollection of the Saṅgha\.  ... the
 recollection of ethical conduct ... the recollection of generosity ...
 the recollection of the deities ... mindfulness of breathing ... the
 recollection of death ... mindfulness of the body ... the recollection

@@ -50,6 +50,12 @@ export default {
 
 
 # kinh Tăng Chi bộ 14-4-2025
+- Hướng dẫn cách thực hiện:
+  1. Vì các bản dịch khác nhau có cách chia phẩm khác nhau nên cách chia là lấy các phẩm gộp chia ra (tách file) chứ không làm theo kiểu gộp nhiều file lại.
+  2. Tên số thứ tự của file sẽ giữ nguyên ví dụ: file đầu là 01-002-xxx (chương 1, phẩm 2) thì chia ra sẽ là 01-002-xxx-1.md, 01-002-xxx-2.md
+  3. sau đó dịch eng-> vi để dò
+  4. Khi đổi thì đổi bộ tiếng anh
+
 
 - Bản tiếng anh chỉ tìm thấy bản dịch của Bhikkhu Sujato là đánh số tương tự như của TMC
 - Việc phân chia thành từng phần gặp khó khăn về độ dài có lẽ nên chia theo https://www.budsas.org/uni/u-kinh-tangchibo/tangchi00.htm
@@ -68,12 +74,9 @@ https://theravada.vn/book/the-numerical-discourses-of-the-buddha-anguttara-bhikk
 Woodward-Hare:
 https://theravada.vn/wp-content/uploads/2020/09/an-pts_v1.1.pdf
 
-Các chương của thầy TMC và Woodward-Hare giống nhau, nhưng không đánh số vì vậy dùng sách của Sujato
-- Phần 1 phải đổi vì các thứ tự không giống nhau ?
-- Sujato
- - Chương 1, phẩm 16 chương sẽ chia làm 4 file (Four Chapters on One Thing)
-Thích Minh Châu:
- - Chương 1,
+#### Chương 1 done
+  Thích Minh Châu:
+  - Chương 1, 23 phẩm
     - phẩm Thứ Mười Một -> Thành Phẩm Phi Pháp
     - Phẩm 20 Thiền Định -> Chia làm 2 Phần
         1. Sự thật Sự Là Vậy
@@ -81,19 +84,31 @@ Thích Minh Châu:
     - Phẩm 21 Thiền Đinh 2 chia làm 2
         1. Thân hành niệm
         2. Bất tử (Lấy tên theo bản tiếng anh)
-   Ngày 17-4-2025 Đổi sang sách của Bhikkhu Bodhi vì bản dịch của AI ra kết quả dễ đọc hơn
-   Chương 1 chia làm 20 phẩm, so
-   - sau khi chi thành từng phẩm, thử dịch
-   - Tìm tiêu đề phẩm `^#+ ([IVXLCDM]+\. .*$)`
-   - Tìm đánh số phẩm `^#*\s*(\d+ .*)`
 
-  - Chương 2,
+Các chương của thầy TMC và Woodward-Hare giống nhau, nhưng không đánh số vì vậy dùng sách của Sujato
+- Phần 1 phải đổi vì các thứ tự không giống nhau ?
+- Sujato
+  - Chương 1, phẩm 16 chương sẽ chia làm 4 file (Four Chapters on One Thing)
+
+  - Ngày 17-4-2025 Đổi sang sách của Bhikkhu Bodhi vì bản dịch của AI ra kết quả dễ đọc hơn
+    - Chương 1 chia làm 20 phẩm, so
+    - sau khi chi thành từng phẩm, thử dịch
+    - Tìm tiêu đề phẩm `^#+ ([IVXLCDM]+\. .*$)`
+    - Tìm đánh số phẩm `^#*\s*(\d+ .*)`
+  - Ngày 20-4-2025 Chuyển lại sang sách của Sujato vì dữ liệu được nguyên bản text
+
+#### chương 2 done
+- Sujato 19 phẩm
+- TMC 17 phẩm ->
   Phẩm 16 - phẫn nộ
-  TMC 17 files
-  Bodhi 19 files
   TMC 02-16 phẩm 1-50 = Bodhi 02-16: phẩm 1-50
   TMC 02-16 phẩm 51-100 = Bodhi 02-17: phẩm 51-100
   TMC 02-17 phẩm 1-2 =  Bodhi 02-18 phẩm 280-309
   TMC 02-17 phẩm 3-5 =  Bodhi 02-19 phẩm 310-320
   --> Chia TMC 02-16 ra 2 file, 02-16-1 (02-16), 02-16-2 (02-17)
   --> Chia TMC 02-17 ra 2 file, 02-17-1 (02-18), 02-17-2 (02-19)
+
+#### chương 3 done
+- Sujato 18 phẩm
+- TMC 16 phẩm ->
+  /03-004- 2 đoạn cuối không thấy bên Sujato

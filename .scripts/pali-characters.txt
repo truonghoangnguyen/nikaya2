@@ -36,3 +36,16 @@ IVXLCDM
 
 ^#+ ([IVXLCDM]+\. .*$) -> tìm các phẩm
 ^#*\s*(\d+ .*) -> tìm các mục-phẩm
+
+tim \[([\p{L}]+)\]\{lang="sa"\}
+--- tìm tiêu đề file
+^(### .*)
+
+--- pg titile
+^(\*\*.*\*\*)$
+<!--pg-->
+$1
+
+--- rem pg number
+<!--pg-->
+^(\d+)

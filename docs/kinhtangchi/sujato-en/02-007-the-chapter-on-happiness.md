@@ -1,4 +1,4 @@
-## The Chapter on Happiness
+# The Chapter on Happiness
 
 ### N 2.64--76 *Sukhavagga*
 
@@ -77,5 +77,3 @@ two kinds of happiness is happiness that relies on equanimity."
 Happiness that relies on form and happiness that relies on the formless.
 These are the two kinds of happiness. The better of these two kinds of
 happiness is happiness that relies on the formless."
-
-<!--pg-->

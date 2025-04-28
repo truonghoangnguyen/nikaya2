@@ -14,7 +14,8 @@ mạnh của người hữu học. Do sức mạnh tu học, vị ấy từ bỏ
 từ bỏ sân, từ bỏ si, vị ấy không làm các điều bất thiện, không phục vụ các điều ác. Này các Tỷ-kheo, đây
 gọi là sức mạnh tu tập. Những pháp này, này các Tỷ-kheo, là hai sức mạnh.
 
-2. Này các Tỷ kheo, có hai sức mạnh. Thế nào là hai? Sức mạnh tư sát và sức mạnh tu tập. Và này các
+<!--pg-->
+2\. Này các Tỷ kheo, có hai sức mạnh. Thế nào là hai? Sức mạnh tư sát và sức mạnh tu tập. Và này các
 Tỷ-kheo, thế nào là sức mạnh tư sát? ... (như trên) ... Này các Tỷ-kheo, đây gọi là sức mạnh tư sát.
 
 Và này các Tỷ-kheo, thế nào là sức mạnh tu tập? Ở đây, này các Tỷ-kheo, Tỷ-kheo tu tập niệm Niệm
@@ -23,7 +24,8 @@ pháp giác chi ... tu tập Tinh tấn giác chi ... tu tập Hỷ giác chi ..
 giác chi ... tu tập Xả giác chi, liên hệ đến viễn ly, liên hệ đến ly tham, liên hệ đến đoạn diệt, hướng đến
 từ bỏ. Này các Tỷ-kheo, đây gọi là sức mạnh tu tập. Những pháp này, này các Tỷ-kheo, là hai sức mạnh.
 
-3. Này càc Tỷ kheo, có hai sức mạnh.... (như số 1 ở trên). Và này các Tỷ-kheo, thế nào là sức mạnh tu
+<!--pg-->
+3\. Này càc Tỷ kheo, có hai sức mạnh.... (như số 1 ở trên). Và này các Tỷ-kheo, thế nào là sức mạnh tu
 tập? Ở đây, này các Tỷ-kheo, vị Tỷ-kheo ly dục, ly pháp bất thiện, chứng đạt và an trú sơ Thiền, một
 trạng thái hỷ lạc do ly dục sanh, có tầm có tứ. Làm cho tịnh chỉ tầm và tứ, chứng đạt và an trú Thiền thứ
 hai, một trạng thái hỷ lạc do định sanh, không tầm không tứ, nội tĩnh nhất tâm. Ly hỷ, trú xả, chánh
@@ -32,10 +34,12 @@ ba. Xả lạc, xả khổ, diệt hỷ ưu đã cảm thọ trước, chứng v
 niệm thanh tịnh. Này các Tỷ-kheo, đây gọi là sức mạnh tu tập. Những pháp này, này các Tỷ-kheo, là hai
 sức mạnh.
 
-4. Có hai cách thuyết pháp này của Như Lai, này các Tỷ-kheo. Thế nào là hai? Lược thuyết và rộng
+<!--pg-->
+4\. Có hai cách thuyết pháp này của Như Lai, này các Tỷ-kheo. Thế nào là hai? Lược thuyết và rộng
 thuyết. Hai pháp này, này các Tỷ-kheo, là hai cách thuyết pháp của Như Lai.
 
-5. Trong bất cứ tranh tụng nào, này các Tỷ-kheo, Tỷ-kheo phạm tội và Tỷ-kheo buộc tội, không có tự
+<!--pg-->
+5\. Trong bất cứ tranh tụng nào, này các Tỷ-kheo, Tỷ-kheo phạm tội và Tỷ-kheo buộc tội, không có tự
 mình khéo quán sát lấy mình, thời tranh tụng ấy được chờ đợi là sẽ đưa đến kéo dài, gay gắt, ác liệt, và
 các Tỷ-kheo sẽ sống không được an lạc. Và trong bất cứ cuộc tranh tụng nào, này các Tỷ-kheo, Tỷ-kheo
 phạm tội và Tỷ-kheo buộc tội, có tự mình khéo quán sát lấy mình, thời tranh tụng ấy, này các Tỷ-kheo,
@@ -63,7 +67,8 @@ Tỷ-kheo sẽ sống không được an lạc. Và trong bất cứ cuộc tran
 phạm tội và Tỷ-kheo buộc tội, có tự mình khéo quán sát lấy mình, thời tranh tụng ấy, này các Tỷ-kheo,
 được chờ đợi là không đưa đến kéo dài, gay gắt, ác liệt, và các Tỷ-kheo sẽ sống được an lạc.
 
-6. Rồi một Bà-la-môn đi đến Thế Tôn; sau khi đến, nói lên với Thế Tôn những lời chào đón hỏi thăm,
+<!--pg-->
+6\. Rồi một Bà-la-môn đi đến Thế Tôn; sau khi đến, nói lên với Thế Tôn những lời chào đón hỏi thăm,
 sau khi nói lên những lời chào đón hỏi thăm thân hữu, liền ngồi xuống một bên. Ngồi xuống một bên,
 Bà-la-môn ấy bạch Thế Tôn:
 
@@ -85,7 +90,8 @@ sáng vào trong bóng tối để những ai có mắt có thể thấy sắc. 
 nhiều phương tiện trình bày giải thích. Con nay xin quy y Tôn giả Gotama, quy y Pháp, quy y chúng Tỷkheo Tăng! Mong Tôn giả Gotama nhận con làm đệ tử, từ nay cho đến mạng chung, con trọn đời quy
 ngưỡng!
 
-7. Rồi Bà-la-môn Jànussoni đi đến Thế Tôn; sau khi đến, nói lên với Thế Tôn những lời chào đón hỏi
+<!--pg-->
+7\. Rồi Bà-la-môn Jànussoni đi đến Thế Tôn; sau khi đến, nói lên với Thế Tôn những lời chào đón hỏi
 thăm, sau khi nói lên những lời chào đón hỏi thăm thân hữu rồi ngồi xuống một bên. Ngồi xuống một
 bên, Bà-la-môn Jànussoni bạch Thế Tôn:
 
@@ -122,7 +128,8 @@ không nói ác, ý nghĩ thiện, ý không nghĩ ác. Như vậy, này Bà-la-
 
 − Thật vi diệu thay, Tôn giả Gotama ... từ nay cho đến mạng chung, con trọn đời quy ngưỡng!
 
-8. Rồi Tôn giả Ananda đi đến Thế Tôn; sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Thế Tôn
+<!--pg-->
+8\. Rồi Tôn giả Ananda đi đến Thế Tôn; sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Thế Tôn
 nói với Tôn giả Ananda đang ngồi xuống một bên:
 
 − Ta tuyên bố một cách dứt khoát rằng, này Ananda, thân làm ác, miệng nói ác, ý nghĩ ác là điều không
@@ -152,7 +159,8 @@ mạng chung; sau khi thân hoại mạng chung, được sanh vào cõi Thiện
 Ananda, Ta đã tuyên bố một cách dứt khoát rằng, thân làm thiện, miệng nói thiện, ý nghĩ thiện là điều
 nên làm. Nếu làm những điều nên làm ấy, thời có những lợi ích như vậy được chờ đợi.
 
-9. Này các Tỷ-kheo, hãy từ bỏ bất thiện, này các Tỷ-kheo, từ bỏ bất thiện có thể làm được. Nếu từ bỏ bất
+<!--pg-->
+9\. Này các Tỷ-kheo, hãy từ bỏ bất thiện, này các Tỷ-kheo, từ bỏ bất thiện có thể làm được. Nếu từ bỏ bất
 thiện không thể làm được thời ta đã không nói như sau: “Này các Tỷ-kheo, hãy từ bỏ bất thiện”. Vì rằng,
 này các Tỷ-kheo, từ bỏ bất thiện có thể làm được, do vậy Ta mới nói rằng: “Này các Tỷ-kheo, hãy từ bỏ
 bất thiện”. Và nếu, này các Tỷ-kheo, từ bỏ bất thiện đưa đến bất hạnh, đau khổ, thời ta không nói như
@@ -165,11 +173,13 @@ thiện”. Vì rằng, này các Tỷ-kheo, tu tập thiện có thể làm đ�
 không nói như sau: “Này các Tỷ-kheo, hãy tu tập thiện”. Và vì rằng, này các Tỷ-kheo, tu tập thiện đưa
 đến hạnh phúc, an lạc, nên Ta đã nói như sau: “Này các Tỷ-kheo, hãy tu tập thiện”.
 
-10. Hai pháp này, này các Tỷ-kheo, đưa đến sự hỗn loạn (mê mờ) và biến mất của diệu pháp. Thế nào là
+<!--pg-->
+10\. Hai pháp này, này các Tỷ-kheo, đưa đến sự hỗn loạn (mê mờ) và biến mất của diệu pháp. Thế nào là
 hai? Văn cú bị đảo ngược và ý nghĩa bị hiểu lầm. Nếu văn cú bị đảo ngược thời ý nghĩa bị hiểu lầm.
 Những pháp này, này các Tỷ-kheo, là hai pháp đưa đến hỗn loạn và biến mất của diệu pháp.
 
-11. Hai pháp này, này các Tỷ-kheo, đưa đến an trú, không biến loạn, không biến mất của diệu pháp. Thế
+<!--pg-->
+11\. Hai pháp này, này các Tỷ-kheo, đưa đến an trú, không biến loạn, không biến mất của diệu pháp. Thế
 nào là hai? Văn cú phối trí chơn chánh và ý nghĩa được hiểu chơn chánh. nếu văn cú được phối trí chơn
 chánh thời ý nghĩa được hiểu chơn chánh. Những pháp này, này các Tỷ-kheo, là hai pháp đưa đến an trú,
 không hỗn loạn, không biến mất của diệu pháp.

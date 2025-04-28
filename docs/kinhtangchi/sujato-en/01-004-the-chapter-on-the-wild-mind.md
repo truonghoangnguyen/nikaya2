@@ -1,4 +1,4 @@
-## The Chapter on the Wild Mind
+# The Chapter on the Wild Mind
 
 ### N 1.31--40 *Adantavagga*
 

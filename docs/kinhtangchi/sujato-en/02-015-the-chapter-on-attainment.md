@@ -1,4 +1,4 @@
-## The Chapter on Attainment
+# The Chapter on Attainment
 
 ### N 2.163--179 *Samāpattivagga*
 

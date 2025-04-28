@@ -35,7 +35,8 @@ bệnh; tự mình bị chết, tầm cầu cái bị chết; tự mình bị u�
 
 Này các Tỷ-kheo, có bốn pháp phi thánh cầu này.
 
-2. Này các Tỷ-kheo, có bốn pháp thánh cầu này. Thế nào là bốn?
+<!--pg-->
+2\. Này các Tỷ-kheo, có bốn pháp thánh cầu này. Thế nào là bốn?
 
 Ở đây, này các Tỷ-kheo, có người tự mình bị già, sau khi biết sự nguy hại của bị già, tầm cầu cái không
 bị già, vô thượng an ổn khỏi các khổ ách, Niết-bàn; tự mình bị bệnh, sau khi biết sự nguy hại của bị
@@ -56,7 +57,8 @@ Này các Tỷ-kheo, có bốn nhiếp pháp này.
 
 **(IV) (254) Con của Màlunkyàputta**
 
-1. Rồi Tôn giả Màlunkyàputta đi đến Thế Tôn; sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên.
+<!--pg-->
+1\. Rồi Tôn giả Màlunkyàputta đi đến Thế Tôn; sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên.
 Ngồi xuống một bên, Tôn giả Màlunkyàputta bạch Thế Tôn:
 
 − Lành thay, bạch Thế Tôn, nếu Thế Tôn thuyết pháp vằn tắt cho con; sau khi nghe thuyết pháp con sẽ
@@ -67,7 +69,8 @@ là bậc trưởng thượng, lại cầu Như Lai giáo giới một cách v�
 
 − Bạch Thế Tôn, Thế Tôn hãy thuyết pháp vắn tắt cho con, chắc chắn con sẽ hiểu được ý nghĩa lời nói
 của Thế Tôn, chắc chắn con sẽ trở thành người thừa tự lời của Thế Tôn.
-2. Này Màlunkyàputta, có bốn ái sanh này, ở đây, ái được sanh cho Tỷ-kheo. Thế nào là bốn?
+<!--pg-->
+2\. Này Màlunkyàputta, có bốn ái sanh này, ở đây, ái được sanh cho Tỷ-kheo. Thế nào là bốn?
 
 Hoặc do nhân y, này Màlunkyàputta, có ái sanh, do ở đây, ái được sanh cho Tỷ-kheo. Hoặc do nhân đồ
 ăn khất thực ... hoặc do nhân sàng tọa ... hoặc do nhân sanh hữu này hay sanh hữu khác. Này
@@ -80,7 +83,8 @@ làm cho không thể tái sanh, làm cho không thể sanh khởi trong tương
 được gọi là vị Tỷ-kheo đã đoạn diệt khát ái, đã thoát ly kiết sử, chơn chánh minh kiến kiêu mạn, đã diệt
 tận khổ đau.
 
-3. Rồi Tôn giả Màlunkyàputta, sau khi nghe Thế Tôn giáo giới với lời giáo giới này, từ chỗ ngồi đứng
+<!--pg-->
+3\. Rồi Tôn giả Màlunkyàputta, sau khi nghe Thế Tôn giáo giới với lời giáo giới này, từ chỗ ngồi đứng
 dậy, đảnh lễ Thế Tôn, thân bên hữu hướng về phía Ngài rồi ra đi.
 
 Rồi Tôn giả Màlunkyàputta, sống một mình, viễn ly, không phóng dật, nhiệt tâm tinh cần, không bao
@@ -101,7 +105,8 @@ các tài sản, không được tồn tại lâu dài; tất cả đều do b�
 Phàm những gia đình nào, này các Tỷ-kheo, đạt đến sự lớn mạnh trong các tài sản, được tồn tại lâu dài;
 tất cả đều do bốn sự kiện ấy hay là một trong những sự kiện này. Thế nào là bốn?
 
-2. Tìm những gì đã mất; sửa lại cái gì đã già yếu; ăn và uống không quá độ; đặt ác giới nữ nhân, nam
+<!--pg-->
+2\. Tìm những gì đã mất; sửa lại cái gì đã già yếu; ăn và uống không quá độ; đặt ác giới nữ nhân, nam
 nhân có giới trong địa vị tối thắng. Phàm những gia đình nào, này các Tỷ-kheo, đạt đến sự lớn mạnh
 trong các tài sản, được tồn tại lâu dài; tất cả đều do bốn sự kiện ấy hay là một trong những sự kiện này.
 
@@ -117,7 +122,8 @@ con ngựa của vua, hiền thiện, thuần chủng, xứng đáng để vua d
 
 Cũng vậy, này các Tỷ-kheo, đầy đủ với bốn pháp, môt Tỷ-kheo đáng được cung kính, đáng đư ợc tô n
 trọng, đáng được cúng dường, đáng được chắp tay, là ruộng phước vô thượng ở đời. Thế nào là bốn?
-2. Ở đây, này các Tỷ-kheo, Tỷ-kheo đầy đủ sắc đẹp, đầy đủ với sức mạnh, đầy đủ với tốc lực, đầy đủ với
+<!--pg-->
+2\. Ở đây, này các Tỷ-kheo, Tỷ-kheo đầy đủ sắc đẹp, đầy đủ với sức mạnh, đầy đủ với tốc lực, đầy đủ với
 cân đối.
 
 Và này các Tỷ-kheo, thế nào là Tỷ-kheo đầy đủ sắc đẹp?
@@ -132,7 +138,8 @@ Và này các Tỷ-kheo, thế nào là Tỷ-kheo đầy đủ sức mạnh?
 tựu đầy đủ các pháp thiện, nỗ lực, kiên trì, dõng mãnh, không từ bỏ trách nhiệm đối với các pháp thiện.
 Như vậy, này các Tỷ-kheo, là Tỷ-kheo đầy đủ sức mạnh.
 
-3. Và này các Tỷ-kheo, thế nào là Tỷ-kheo đầy đủ tốc lực?
+<!--pg-->
+3\. Và này các Tỷ-kheo, thế nào là Tỷ-kheo đầy đủ tốc lực?
 
 Ở đây, này các Tỷ-kheo, vị Tỷ-kheo như thật rõ biết: “Ðây là khổ”; như thật rõ biết: “Ðây là khổ tập”;
 như thật rõ biết: “Ðây là khổ diệt”; như thật rõ biết: “Ðây là con đường đưa đến khổ diệt”. Như vậy, này
@@ -184,7 +191,8 @@ rậm rạp, các trú xứ xa vắng.
 
 **(X) (260) Hành Ðộng**
 
-1. - Thành tựu với bốn pháp này, này các Tỷ-kheo, kẻ ngu si, không thông minh, không là bậc Chân
+<!--pg-->
+1\. - Thành tựu với bốn pháp này, này các Tỷ-kheo, kẻ ngu si, không thông minh, không là bậc Chân
 nhân, tự mình xử sự như kẻ bị mất gốc, không sinh lực, có tội, bị người trí quở trách, tạo nhiều vô
 phước. Thế nào là bốn?
 
@@ -193,7 +201,8 @@ Với thân nghiệp có tội, với khẩu nghiệp có tội, với ý nghi�
 Thành tựu với bốn pháp này, này các Tỷ-kheo, kẻ ngu si, không thông minh, không là bậc Chân nhân, tự
 mình xử sự như kẻ bị mất gốc, không sinh lực, có tội, bị người trí quở trách, tạo nhiều vô phước.
 
-2. Thành tựu với bốn pháp này, này các Tỷ-kheo, bậc Hiền trí, thông minh, là bậc Chân nhân, tự mình
+<!--pg-->
+2\. Thành tựu với bốn pháp này, này các Tỷ-kheo, bậc Hiền trí, thông minh, là bậc Chân nhân, tự mình
 xử sự không như người mất gốc, có sinh lực, không có tội, không bị người trí quở trách, và tạo nhiều
 phước đức. Thế nào là bốn?
 

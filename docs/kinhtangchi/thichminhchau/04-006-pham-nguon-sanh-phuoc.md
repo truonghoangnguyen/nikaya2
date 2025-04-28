@@ -1,10 +1,13 @@
 # VI. Phẩm Nguồn Sanh Phước
 
+<!--pg-->
 **(I) (51) Phẩm Nguồn Sanh Phước (Với Cư Sĩ) (1)**
 
-1. Nhân duyên ở Sàvatthi
 
-2. - Có bốn nguồn sanh phước, nguồn sanh thiện này đem lại an lạc, thuộc Thiên giới, là quả lạc dị thục,
+1\. Nhân duyên ở Sàvatthi
+
+<!--pg-->
+2\. - Có bốn nguồn sanh phước, nguồn sanh thiện này đem lại an lạc, thuộc Thiên giới, là quả lạc dị thục,
 dẫn đến cõi Trời, đưa đến khả lạc, khả hỷ, khả ý, hạnh phúc, an lạc. Thế nào là bốn?
 
 Này các Tỷ-kheo, Tỷ-kheo trong khi hưởng thọ y của ai, đạt đến và an trú vô lượng tâm định, như vậy là
@@ -17,12 +20,14 @@ ai, đạt đến và an trú vô lượng tâm định, như vậy là nguồn 
 sanh thiện đem lại an lạc, thuộc Thiên giới, là quả lạc dị thục, dẫn đến cõi Trời, đưa đến khả lạc, khả hỷ,
 khả ý, hạnh phúc, an lạc.
 
-2. Này các Tỷ-kheo, vị Thánh đệ tử thành tựu bốn nguồn sanh phước, nguồn sanh thiện này, thời không
+<!--pg-->
+2\. Này các Tỷ-kheo, vị Thánh đệ tử thành tựu bốn nguồn sanh phước, nguồn sanh thiện này, thời không
 dễ gì để nắm lấy một số lượng phước thiện, và nói rằng: “Có chừng ấy nguồn sanh phước, nguồn sanh
 thiện, đem lại an lạc, thuộc thiên giới, là quả lạc dị thục đem đến cõi trời, đưa đến khả lạc, khả hỷ, khả ý,
 hạnh phúc, an lạc”; vì rằng cả khối phước thiện lớn được xem là vô số vô lượng.
 
-3. Ví như, này các Tỷ-kheo, trong biển lớn, thật không dễ gì để nắm lấy một số lượng nước và nói rằng:
+<!--pg-->
+3\. Ví như, này các Tỷ-kheo, trong biển lớn, thật không dễ gì để nắm lấy một số lượng nước và nói rằng:
 “Có chừng ấy thùng nước, hay có chừng ấy trăm thùng nước, hay có chừng ấy ngàn thùng nước, hay có
 chừng ấy trăm ngàn thùng nước”; vì rằng cả khối lượng lớn nước được xem là vô số, vô lượng. Cũng
 vậy, này các Tỷ-kheo, vị Thánh đệ tử thành tựu bốn nguồn sanh phước, nguồn sanh thiện này, thời
@@ -49,9 +54,10 @@ _Phước đức ùa chảy đến,_
 _Như sông dẫn dòng nước,_
 _Ùa chảy vào bể cả._
 
+<!--pg-->
 **(II) (52) Nguồn Sanh Phước (Với Cư Sĩ) (2)**
 
-1. - Này các Tỷ-kheo, có bốn nguồn sanh phước, nguồn sanh thiện... hạnh phúc, an lạc. Thế nào là bốn?
+1\. - Này các Tỷ-kheo, có bốn nguồn sanh phước, nguồn sanh thiện... hạnh phúc, an lạc. Thế nào là bốn?
 
 Ở đây, này các Tỷ-kheo, vị Thánh đệ tử thành tựu với lòng tịnh tín bất động đối với Phật; bậc Thế Tôn
 ấy là bậc ng Cúng, Chánh Biến Tri, Minh Hạnh Túc, Thiện Thệ, Thế Gian Giải, Vô Thượng Sĩ, Ðiều
@@ -94,20 +100,23 @@ _Tịnh tín và thắng pháp,_
 _Bậc trí chú tâm niệm,_
 _Lời dạy của chư Phật._
 
+<!--pg-->
 **(III) (53) Sống Chung (1)**
 
-1. Một thời, Thế Tôn đang đi trên con đường giữa Madhurà và Veranja. Và nhiều nam gia chủ và nữ gia
+1\. Một thời, Thế Tôn đang đi trên con đường giữa Madhurà và Veranja. Và nhiều nam gia chủ và nữ gia
 chủ cũng đang đi trên con đường giữa Madhurà và Veranja. Rồi Thế Tôn từ trên đường bước xuống, đến
 ngồi dưới một gốc cây, trên chỗ đã được sửa soạn. Các nam gia chủ và nữ gia chủ thấy Thế Tôn ngồi
 dưới gốc cây, đi đến Thế Tôn, sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Thế Tôn nói với
 các nam cư sĩ, nữ cư sĩ đang ngồi một bên:
 
-2. - Này các Gia chủ, có bốn loại sống chung này. Thế nào là bốn?
+<!--pg-->
+2\. - Này các Gia chủ, có bốn loại sống chung này. Thế nào là bốn?
 
 Ðê tiện nam sống chung với đê tiện nữ. Ðê tiện nam sống chúng với Thiên nữ. Thiên nam sống chúng
 với đê tiện nữ. Thiên nam sống chung với Thiên nữ.
 
-3. Và này các Gia chủ, thế nào là đê tiện nam sống chung với đê tiện nữ?
+<!--pg-->
+3\. Và này các Gia chủ, thế nào là đê tiện nam sống chung với đê tiện nữ?
 
 Ở đây, này các Gia chủ, người chồng sát sanh, lấy của không cho, sống tà hạnh trong các dục, nói láo,
 đắm say rượu men rượu nấu, ác giới, tánh ác, sống ở gia đình với một tâm bị cấu uế xan tham chi phối,
@@ -115,18 +124,21 @@ nhiếc mắng chưởi rủa các Sa-môn, Bà-la-môn. Còn người vợ cũn
 hạnh trong các dục, nói láo, đắm say rượu men rượu nấu, ác giới, tánh ác, sống ở gia đình với một tâm
 bị cấu uế xan tham chi phối. Như vậy, này các Gia chủ là đê tiện nam sống chung với đê tiện nữ.
 
-4. Và này các Gia chủ, thế nào là đê tiện nam sống chung với Thiên nữ?
+<!--pg-->
+4\. Và này các Gia chủ, thế nào là đê tiện nam sống chung với Thiên nữ?
 
 Ở đây, này gia chủ, người chồng sát sanh... nhiếc mắng chưởi rủa các Sa-môn, Bà-la-môn. Còn người vợ
 từ bỏ sát sanh, từ bỏ lấy của không cho, từ bỏ nói láo, từ bỏ đắm say rượu men rượu nấu, có giới, thiện
 tánh, sống ở gia đình không với tâm bị cấu uế xan tham chi phối, không có nhiếc mắng chưởi rủa các
 Sa-môn, Bà-la-môn. Như vậy, này các Gia chủ, là đê tiện nam sống chung với Thiên nữ.
 
-5. Và này các Gia chủ, thế nào là Thiên nam sống chung với một đê tiện nữ?
+<!--pg-->
+5\. Và này các Gia chủ, thế nào là Thiên nam sống chung với một đê tiện nữ?
 
 Ở đây, này các gia chủ, người chồng từ bỏ sát sanh... không có nhiếc mắng chưởi rủa các Sa-môn, Bàla-môn. Nhưng người vợ là người sát sanh, lấy của không cho... nhiếc mắng chưởi rủa các Sa-môn, Bàla-môn. Như vậy, này các Gia chủ là Thiên nam sống chung với đê tiện nữ.
 
-6. Và này các Gia chủ, thế nào là Thiên nam sống chung với Thiên nữ?
+<!--pg-->
+6\. Và này các Gia chủ, thế nào là Thiên nam sống chung với Thiên nữ?
 
 Ở đây, này các Gia chủ, người chồng từ bỏ sát sanh... không nhiếc mắng chưởi rủa các Sa-môn, Bà-lamôn, và người vợ cũng là người không sát sanh... không nhiếc mắng chưởi rủa các Sa-môn, Bà-la-môn.
 
@@ -163,14 +175,16 @@ _Sống hoan hỷ Thiên giới,_
 _Hân hoan được thỏa mãn,_
 _Ðúng với điều cầu mong._
 
+<!--pg-->
 **(IV) (54) Sống Chung (2)**
 
-1. - Này các Tỷ-kheo, có bốn loại sống chung này. Thế nào là bốn?
+1\. - Này các Tỷ-kheo, có bốn loại sống chung này. Thế nào là bốn?
 
 Ðê tiện nam sống chung với đê tiện nữ. Ðê tiện nam sống chung với Thiên nữ. Thiên nam sống chung
 với đê tiện nữ. Thiên nam sống chung với Thiên nữ.
 
-2. Và này các Tỷ-kheo, thế nào là đê tiện nam sống chung với đê tiện nữ?
+<!--pg-->
+2\. Và này các Tỷ-kheo, thế nào là đê tiện nam sống chung với đê tiện nữ?
 
 Ở đây, này các Tỷ-kheo, người chồng là người sát sanh, lấy của không cho, sống tà hạnh trong các dục,
 nói láo, nói hai lưỡi, nói lời thô ác, nói lời phù phiếm, tham lam, sân tâm, tà kiến, ác giới, ác tánh, sống
@@ -179,7 +193,8 @@ người vợ cũng sát sanh, lấy của không cho, sống tà hạnh trong c
 ác, nói lời phù phiếm, tham lam, sân tâm, tà kiến, ác giới, ác tánh, sống ở gia đình với một tâm bị cấu uế
 xan tham chi phối. Như vậy, này các Gia chủ, là đê tiện nam chung sống với đê tiện nữ.
 
-3. Và này các Gia chủ, thế nào là đê tiện nam sống chung với Thiên nữ?
+<!--pg-->
+3\. Và này các Gia chủ, thế nào là đê tiện nam sống chung với Thiên nữ?
 
 Ở đây, này các Gia chủ, người chồng sát sanh... nhiếc mắng, chưởi rủa các Sa-môn, Bà-la-môn. Còn
 người vợ từ bỏ sát sanh, từ bỏ lấy của không cho, từ bỏ nói láo, từ bỏ nói hai lưỡi, từ bỏ nói lời thô ác, từ
@@ -187,11 +202,13 @@ bỏ nói lời phù phiếm, không tham, không có sân tâm, chánh kiến, 
 không với tâm vị cấu uế xan tham chi phối, không có nhiếc mắng chưởi rủa các Sa-môn, Bà-la-môn.
 Như vậy, này các Gia chủ, là đê tiện nam sống chung với Thiên nữ.
 
-4. Và này các Gia chủ, thế nào là Thiên nam sống chung với đê tiện nữ?
+<!--pg-->
+4\. Và này các Gia chủ, thế nào là Thiên nam sống chung với đê tiện nữ?
 
 Ở đây, này các Gia chủ, người chồng từ bỏ sát sanh... không có nhiếc mắng chưởi rủa các Sa-môn, Bàla-môn. Nhưng người vợ là người sát sanh, lấy của không cho... nhiếc mắng chưởi rủa các Sa-môn, Bàla-môn. Như vậy, này các Gia chủ, là Thiên nam sống chung với đê tiện nữ.
 
-5. Và này các Gia chủ, thế nào là Thiên nam sống chung với Thiên nữ?
+<!--pg-->
+5\. Và này các Gia chủ, thế nào là Thiên nam sống chung với Thiên nữ?
 
 Ở đây, này các Gia chủ, người chồng từ bỏ sát sanh... không nhiếc mắng chưởi rủa các Sa-môn, Bà-lamôn; và người vợ cũng là người không sát sanh... không nhiếc mắng chưởi rủa các Sa-môn, Bà-la-môn.
 
@@ -230,14 +247,16 @@ _Sống hoan hỷ Thiên giới,_
 _Hân hoan được thỏa mãn,_
 _Ðúng với điều cầu mong._
 
+<!--pg-->
 **(V) (55) Xứng Ðôi (1)**
 
-1. Một thời, Thế Tôn trú ở giữa dân chúng Bhagga tại núi Sumsumàra, rừng Bhesakalà, ở vườn Nai. Rồi
+1\. Một thời, Thế Tôn trú ở giữa dân chúng Bhagga tại núi Sumsumàra, rừng Bhesakalà, ở vườn Nai. Rồi
 Thế Tôn, vào buổi sáng đắp y, cầm y bát, đi đến trú xứ gia chủ cha Nakulà, sau khi đến, ngồi xuống trên
 chỗ đã soạn sẵn. Rồi gia chủ cha Nakulà và nữ gia chủ mẹ Nakulà đi đến Thế Tôn, sau khi đến, đảnh lễ
 Thế Tôn rồi ngồi xuống một bên. Ngồi xuống một bên, gia chủ cha Nakulà bạch Thế Tôn:
 
-2. - Từ khi nữ gia chủ mẹ Nakulà được đem về đây cho con khi con còn trẻ nhỏ, con không bao giờ biết
+<!--pg-->
+2\. - Từ khi nữ gia chủ mẹ Nakulà được đem về đây cho con khi con còn trẻ nhỏ, con không bao giờ biết
 con có điều gì xâm phạm đến vợ con, cho đến ý nghĩ cũng không, chớ đừng nói gì đến thân. Vì rằng
 bạch Thế Tôn, chúng con muốn thấy mặt nhau trong đời này, mà còn muốn thấy mặt nhau trong đời sau
 nữa.
@@ -268,20 +287,23 @@ _Sống hoan hỷ Thiên giới,_
 _Hân hoan được thỏa mãn,_
 _Ðúng với điều sở cầu._
 
+<!--pg-->
 **(VI) (56) Xứng Ðôi (2)**
 
 _(Kinh này giống như kinh trước, nhưng chỉ bắt đầu với lời của Thế Tôn dạy và nói cho các Tỷ-kheo)._
 
+<!--pg-->
 **(VII) (57) Suppavàsà**
 
-1. Một thời, Thế Tôn trú ở giữa dân chúng Koli tại thị trấn của dân chúng Koli tên là Sajjanela. Rồi Thế
+1\. Một thời, Thế Tôn trú ở giữa dân chúng Koli tại thị trấn của dân chúng Koli tên là Sajjanela. Rồi Thế
 Tôn vào buổi sáng, đắp y cầm y bát, đi đến trú xứ của Suppavàsà, người dân Koli, sau khi đến, ngồi
 xuống trên chỗ đã soạn sẵn. Rồi Suppavàsà người dân Koli, sau khi tự tay mời Thế Tôn dùng cho đến
 thỏa mãn các món ăn loại cứng và loại mềm, rồi Suppavàsà, thuộc dân tộc Koli, sau khi Thế Tôn ăn đã
 xong, tay đã rời khỏi bát, liền ngồi xuống một bên. Thế Tôn nói với Suppavàsà, người dân Koli, đang
 ngồi một bên:
 
-2. - Các Thánh nữ đệ tử khi bố thí đồ ăn, này Suppavàsà, bố thí bốn sự cho những người nhận. Thế nào
+<!--pg-->
+2\. - Các Thánh nữ đệ tử khi bố thí đồ ăn, này Suppavàsà, bố thí bốn sự cho những người nhận. Thế nào
 là bốn?
 
 Cho thọ mạng, cho dung sắc, cho an lạc, cho sức mạnh. Sau khi cho thọ mạng, người cho được chia
@@ -310,12 +332,14 @@ _Nhiếp phục gốc xan tham,_
 _Không bị ai chỉ trích,_
 _Chứng đạt được cõi Trời._
 
+<!--pg-->
 **(VIII) (58) Sudatta**
 
-1. Rồi gia chủ Anàthapindika đi đến Thế Tôn, sau khi đến, đảnh lễ Thế Tôn, rồi ngồi xuống một bên.
+1\. Rồi gia chủ Anàthapindika đi đến Thế Tôn, sau khi đến, đảnh lễ Thế Tôn, rồi ngồi xuống một bên.
 Thế Tôn nói với gia chủ Anàthapindika đang ngồi một bên:
 
-2. - Này Gia chủ, bậc Thánh đệ tử bố thí đồ ăn, bố thí bốn sự cho người nhận. Thế nào là bốn?
+<!--pg-->
+2\. - Này Gia chủ, bậc Thánh đệ tử bố thí đồ ăn, bố thí bốn sự cho người nhận. Thế nào là bốn?
 
 Cho thọ mạng, cho dung sắc, cho an lạc, cho sức mạnh. Sau khi cho thọ mạng, người cho được chia
 phần thọ mạng, thuộc chư Thiên hay loài Người. Sau khi cho dung sắc, người cho được chia phần dung
@@ -339,9 +363,10 @@ _Người bố thí sức mạnh,_
 _Thọ mạng dài, danh xưng,_
 _Dầu sanh tại chỗ nào._
 
+<!--pg-->
 **(IX) (59) Các Ðồ Ăn**
 
-1. - Người bố thí đồ ăn, này các Tỷ-kheo, bố thí bốn sự cho người nhận. Thế nào là bốn?
+1\. - Người bố thí đồ ăn, này các Tỷ-kheo, bố thí bốn sự cho người nhận. Thế nào là bốn?
 
 Cho thọ mạng, cho dung sắc, cho an lạc, cho sức mạnh. Sau khi cho thọ mạng, người cho được chia
 phần thọ mạng, thuộc chư Thiên hay loài Người. Sau khi cho dung sắc... cho an lạc... Sau khi cho sức
@@ -366,6 +391,7 @@ _Người bố thí sức mạnh,_
 _Thọ mạng dài, danh xưng,_
 _Dầu sanh tại chỗ nào._
 
+<!--pg-->
 **(X) (60) Bổn Phận Người Gia Chủ**
 
 Rồi gia chủ Anàthapindika đi đến Thế Tôn, sau khi đến, đảnh lễ Thế Tôn, rồi ngồi xuống một bên. Thế

@@ -1,4 +1,4 @@
-## The Chapter on Arousing Energy
+# The Chapter on Arousing Energy
 
 ### N 1.61--70 *Vīriyārambhādivagga*
 

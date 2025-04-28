@@ -2,28 +2,34 @@
 
 **(I) (11) Chưa Ðược Nghe**
 
-1. - Này các Tỷ-kheo, Ta tự cho là đã đạt được sự cứu cánh với thắng trí đối với các pháp từ trước Ta
+<!--pg-->
+1\. - Này các Tỷ-kheo, Ta tự cho là đã đạt được sự cứu cánh với thắng trí đối với các pháp từ trước Ta
 chưa từng được nghe. Này các Tỷ-kheo, có năm sức mạnh này của Như Lai. Thành tựu các đã đạt được
 vị trí Ngưu vương, rống tiếng rống con sư tử giữa các hội chúng, làm vận chuyển bánh xe Phạm thiên.
 Thế nào là năm?
 
-2. Tín lực, tàm lực, quý lực, tinh tấn lực, tuệ lực. Có năm Như Lai lực này của Như Lai, này các Tỷkheo. Thành tựu các sức mạnh ấy, Như Lai tự xem đã được vị trí Ngưu vương, rống tiếng rống con sư tử
+<!--pg-->
+2\. Tín lực, tàm lực, quý lực, tinh tấn lực, tuệ lực. Có năm Như Lai lực này của Như Lai, này các Tỷkheo. Thành tựu các sức mạnh ấy, Như Lai tự xem đã được vị trí Ngưu vương, rống tiếng rống con sư tử
 giữa các hội chúng, làm vận chuyển bánh xe Phạm thiên.
 
 **(II) (12) Nóc Nhọn**
 
-1. - Này các Tỷ-kheo, có năm sức mạnh này của bậc hữu học. Thế nào là năm?
+<!--pg-->
+1\. - Này các Tỷ-kheo, có năm sức mạnh này của bậc hữu học. Thế nào là năm?
 
-2. Tín lực, tàm lực, quý lực, tinh tấn lực, tuệ lực. này các Tỷ-kheo, có năm sức mạnh này của bậc Hữu
+<!--pg-->
+2\. Tín lực, tàm lực, quý lực, tinh tấn lực, tuệ lực. này các Tỷ-kheo, có năm sức mạnh này của bậc Hữu
 học. Trong năm sức mạnh của bậc Hữu học này, này các Tỷ-kheo, cái này là tối thượng, cái này là tổng
 nhiếp, cái này là tổng thâu tóm, tức là tuệ lực.
 
-3. Ví như, này các Tỷ-kheo, với ngôi nhà có nóc nhọn, cái này là tối thượng, cái này là tổng nhiếp, cái
+<!--pg-->
+3\. Ví như, này các Tỷ-kheo, với ngôi nhà có nóc nhọn, cái này là tối thượng, cái này là tổng nhiếp, cái
 này là tổng thâu tóm, tức là cái nóc. Cũng vậy, này các Tỷ-kheo, trong năm sức mạnh này của bậc hữu
 học, cái này là tối thượng, cái này là tổng nhiếp, cái này là tổng thâu tóm, tức là tuệ lực. Do vậy, này các
 Tỷ-kheo, cần phải học tập như sau:
 
-4. “Tôi sẽ thành tựu tín lực, được gọi là hữu học lực. Tôi sẽ thành tàm lực, được gọi là hữu học lực. Tôi
+<!--pg-->
+4\. “Tôi sẽ thành tựu tín lực, được gọi là hữu học lực. Tôi sẽ thành tàm lực, được gọi là hữu học lực. Tôi
 sẽ thành tựu quý lực... tinh tấn lực... tuệ lực, được gọi là hữu học lực.” Như vậy, này các Tỷ-kheo, các
 Thầy cần phải học tập.
 
@@ -33,30 +39,36 @@ Thầy cần phải học tập.
 Này các Tỷ-kheo, có năm lực này.
 
 **(IV) (14) Các Sức Mạnh Rộng Thuyết**
-1. - Này các Tỷ-kheo, có năm sức mạnh này. Thế nào là năm?
+<!--pg-->
+1\. - Này các Tỷ-kheo, có năm sức mạnh này. Thế nào là năm?
 
-2. Tín lực, tấn lực, niệm lực, định lực, tuệ lực.
+<!--pg-->
+2\. Tín lực, tấn lực, niệm lực, định lực, tuệ lực.
 
 Này các Tỷ-kheo, thế nào là tín lực?
 
-3. Ở đây, này các Tỷ-kheo, vị Thánh đệ tử có lòng tin, tin tưởng ở sự giác ngộ của Như Lai: “Ðây là Thế
+<!--pg-->
+3\. Ở đây, này các Tỷ-kheo, vị Thánh đệ tử có lòng tin, tin tưởng ở sự giác ngộ của Như Lai: “Ðây là Thế
 Tôn, bậc A-la-hán, Chánh Ðẳng Giác, Minh Hạnh Túc, Thiện Thệ, Thế Gian Giải, Vô Thượng sĩ, Ðiều
 Ngự Trượng Phu, Thiên Nhân Sư, Phật, Thế Tôn”. Như vậy, này các Tỷ-kheo, được gọi là tín lực.
 
 Và này các Tỷ-kheo, thế nào là tấn lực?
 
-4. Ở đây, này các Tỷ-kheo, vị Thánh đệ tử sống tinh cần tinh tấn, từ bỏ các pháp bất thiện, thành tựu các
+<!--pg-->
+4\. Ở đây, này các Tỷ-kheo, vị Thánh đệ tử sống tinh cần tinh tấn, từ bỏ các pháp bất thiện, thành tựu các
 thiện pháp, nỗ lực kiên trì tinh tấn, không từ bỏ gánh nặng đối với thiện pháp. Như vậy, này các Tỷkheo, được gọi là tấn lực.
 
 Và này các Tỷ-kheo, thế nào là niệm lực?
 
-5. Ở đây, này các Tỷ-kheo, vị Thánh đệ tử có chánh niệm, thành tựu tối thắng niệm và tuệ. Vị ấy nhớ và
+<!--pg-->
+5\. Ở đây, này các Tỷ-kheo, vị Thánh đệ tử có chánh niệm, thành tựu tối thắng niệm và tuệ. Vị ấy nhớ và
 gợi lại trong trí nhớ những điều đã nói và đã làm lâu ngày về trước. Như vậy, này các Tỷ-kheo, được gọi
 là niệm lực.
 
 Và này các Tỷ-kheo, thế nào là định lực?
 
-6. Ở đây, này các Tỷ-kheo, vị Thánh đệ tử ly các dục, ly các bất thiện pháp, chứng đạt và an trú Thiền
+<!--pg-->
+6\. Ở đây, này các Tỷ-kheo, vị Thánh đệ tử ly các dục, ly các bất thiện pháp, chứng đạt và an trú Thiền
 thứ nhất, một trạng thái hỷ lạc do ly dục sanh, có tầm, có tứ. Làm cho tịnh chỉ tầm và tứ, chứng đạt và
 an trú Thiền thứ hai, một trạng thái hỷ lạc do định sanh, không tầm, không tứ, nội tĩnh nhất tâm. Ly hỷ,
 trú xả, chánh niệm, tỉnh giác, thân cảm lạc thọ, được các bậc Thánh gọi là xả niệm lạc trú, chứng đạt và
@@ -65,7 +77,8 @@ thứ tư, không khổ, không lạc, xả niệm thanh tịnh. Như vậy, nà
 
 Và này các Tỷ-kheo, thế nào là tuệ lực?
 
-7. Ở đây, này các Tỷ-kheo, vị Thánh đệ tử có trí tuệ, thành tựu trí tuệ về sanh diệt, với sự thể nhập bậc
+<!--pg-->
+7\. Ở đây, này các Tỷ-kheo, vị Thánh đệ tử có trí tuệ, thành tựu trí tuệ về sanh diệt, với sự thể nhập bậc
 Thánh vào con đường đoạn tận khổ đau. Này các Tỷ-kheo, đây gọi là tuệ lực.
 
 Này các Tỷ-kheo, các pháp này là năm lực.

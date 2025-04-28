@@ -10,7 +10,8 @@ Tỷ-kheo chấp nhận, không có từ bỏ, không có tẩy sạch, không c
 hữu; này các Tỷ-kheo, nếu Tỷ-kheo khi đang nằm, thức có sở hành như vậy, vị ấy được gọi là người
 không có nhiệt tình, không có xấu hổ, liên tục thường hằng biếng nhác, tinh tấn hạ liệt.
 
-2. Này các Tỷ-kheo, Nếu Tỷ-kheo khi đang đi khởi lên dục tầm, hay sân tầm, hai hại tầm mà nếu Tỷkheo không chấp nhận, từ bỏ, tẩy sạch, chấm dứt, đi đến không hiện hữu; này các Tỷ-kheo, nếu Tỷ-kheo
+<!--pg-->
+2\. Này các Tỷ-kheo, Nếu Tỷ-kheo khi đang đi khởi lên dục tầm, hay sân tầm, hai hại tầm mà nếu Tỷkheo không chấp nhận, từ bỏ, tẩy sạch, chấm dứt, đi đến không hiện hữu; này các Tỷ-kheo, nếu Tỷ-kheo
 đang đi có sở hành như vậy, vị ấy được gọi là người có nhiệt tình, có xấu hổ, liên tục thường hằng, tinh
 cần tinh tấn, siêng năng. Này các Tỷ-kheo, nếu Tỷ-kheo khi đang đứng ... khi đang ngồi ... khi đang
 nằm, thức khởi lên dục tầm, hay sân tầm, hai hại tầm mà nếu Tỷ-kheo không chấp nhận, từ bỏ, tẩy sạch,
@@ -31,6 +32,7 @@ _Yêu thích tầm chỉ định_
 _Vị Tỷ-kheo như vậy_
 _Chứng được Vô thượng giác_
 
+<!--pg-->
 **(II) (12) Chế Ngự**
 
 − Này các Tỷ-kheo, hãy sống đầy đủ giới, đầy đủ giới bổn Pàtimokkha, được chế ngự với sự chế ngự của
@@ -66,6 +68,7 @@ _Thường xuyên chuyên học tập_
 _Liên tục, hằng siêng năng_
 _Tỷ-kheo được gọi vậy._
 
+<!--pg-->
 **(III) (13) Chánh Cần**
 − Này các Tỷ-kheo, có bốn chánh cần này. Thế nào là bốn?
 
@@ -86,6 +89,7 @@ _Chúng thắng Ma, Ma quân_
 _Mọi lực namuci_
 _Chúng thoát ly an lạc._
 
+<!--pg-->
 **(IV) (14) Chế Ngự**
 
 − Này các Tỷ-kheo, có bốn tinh cần này. Thế nào là bốn? Tinh cần chế ngự, tinh cần đoạn tận, tinh cần
@@ -124,6 +128,7 @@ _Ở đời vị Tỷ-kheo_
 _Nhiệt tình đối với chúng_
 _Ðạt được diệt khổ tận_
 
+<!--pg-->
 **(V) (15) Thi Thiết**
 
 − Này các Tỷ-kheo, có bốn thi thiết tối thượng này. Thế nào là bốn?
@@ -148,6 +153,7 @@ _Khắp sanh thú ở đời_
 _Trong thế giới chư Thiên_
 _Phật được gọi tối thượng._
 
+<!--pg-->
 **(VI) (16).- Trí Tế Nhị**
 
 − Này các Tỷ-kheo, có bốn trí tế nhị này. Thế nào là bốn?
@@ -173,6 +179,7 @@ _Tịch tịnh, ưu tịch tịnh_
 _Thọ trì thân tối hậu_
 _Thắng Ma và Ma quân._
 
+<!--pg-->
 **(VI) (17) Sanh Thú Không Nên Ði**
 
 − Này các Tỷ-kheo, có bốn sanh thú này không nên đi mà đi. Thế nào là bốn?
@@ -187,6 +194,7 @@ _Thời danh xưng người ấy_
 _Bị tổn hại hư hại_
 _Như trăng trong thời tối._
 
+<!--pg-->
 **(VIII) (18) Sanh Thú Nên Ði**
 
 − Này các Tỷ-kheo, có bốn sanh thú này nên đi mà đi. Thế nào là bốn?
@@ -201,10 +209,12 @@ _Thời danh xưng người ấy_
 _Ðược đầy đủ vuông tròn_
 _Như trăng trong thời sáng_
 
+<!--pg-->
 **(IX) (19) Không Nên Ði**
 
 _(Kinh này là kinh 17 và kinh 18 hợp lại)._
 
+<!--pg-->
 **(X) (20) Người Ðầu Bếp**
 
 − Thành tựu bốn pháp này, này các Tỷ-kheo, người đầu bếp như vậy tương xứng bị quăng vào địa ngục.

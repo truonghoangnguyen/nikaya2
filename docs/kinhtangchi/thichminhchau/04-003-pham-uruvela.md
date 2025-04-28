@@ -1,8 +1,7 @@
 # III. Phẩm Uruvelà
 
 **(I) (21) Tại Uruvelà (1)**
-
-1. Một thời, Thế Tôn trú ở Sàvatthi, tại Jetavana, ở khu vườn ông Anàthapindika. Tại đấy, Thế Tôn gọi
+1\. Một thời, Thế Tôn trú ở Sàvatthi, tại Jetavana, ở khu vườn ông Anàthapindika. Tại đấy, Thế Tôn gọi
 các Tỷ-kheo:
 
 − Này các Tỷ-kheo.
@@ -28,7 +27,8 @@ hay loài Người, không có một vị Sa-môn hay Bà-la-môn nào khác v�
 sống cung kính, đảnh lễ, sống y chỉ”. Rồi này các Tỷ-kheo, ta suy nghĩ như sau: “Với pháp này mà Ta
 đã chơn chánh giác ngộ, Ta hãy cung kính đảnh lễ và sống y chỉ pháp ấy”.
 
-2. Rồi Phạm thiên Sahampati với tâm tư của mình biết tâm tư của ta, như một nhà lực sĩ duỗi cánh tay
+<!--pg-->
+2\. Rồi Phạm thiên Sahampati với tâm tư của mình biết tâm tư của ta, như một nhà lực sĩ duỗi cánh tay
 đang co lại, hay co lại bàn tay đang duỗi ra. Cũng như vậy, Phạm thiên Sahampati biến mất ở Phạm
 thiên giới và hiện ra trước mặt ta.
 
@@ -61,9 +61,11 @@ Này các Tỷ-kheo, Phạm Thiên Sahampati nói như vậy; nói vậy xong, �
 ta rồi biến mất tại chỗ. Rồi này các Tỷ-kheo, sau khi biết được thỉnh nguyện của Phạm thiên, và thích
 ứng với Ta, Ta sống cung kính, tôn trọng và y chỉ pháp ấy và ta đã tự Chánh Ðẳng Giác. Và này các Tỷkheo, vì rằng chúng Tăng thành tựu sự cao cả nên ta tôn trọng đặc biệt chúng Tăng.
 
+<!--pg-->
 **(II) (22) Tại Uruvelà (2)**
 
-1. Một thời, này các Tỷ-kheo, Ta trú ở Uruvelà, trên bờ sống Neranjarà, dưới cây bàng Nigrodha, khi
+<!--pg-->
+1\. Một thời, này các Tỷ-kheo, Ta trú ở Uruvelà, trên bờ sống Neranjarà, dưới cây bàng Nigrodha, khi
 mới thành Chánh giác. Rồi này các Tỷ-kheo, rất nhiều Bà-la-môn già cả, trưởng lão, các bậc trưởng
 thượng, đã đi quá nửa cuộc đời, đã đạt cuối mức tuổi đời, đi đến ta; sau khi đến, nói lên với ta những lời
 chào đón hỏi thăm; sau khi nói lên những lời chào đón hỏi thăm thân hữu rồi ngồi xuống một bên. Ngồi
@@ -74,7 +76,8 @@ mức tuổi đời”. Thưa Tôn giả Gotama, có phải sự tình là như 
 không có kính lễ, không có đứng dậy, không có lấy ghế mời ngồi các bậc Bà-la-môn già cả, trưởng lão,
 các bậc trưởng thượng đã đi quá nửa cuộc đời, đã đạt cuối mức tuổi đời, sự tình như vậy, thưa Tôn giả
 Gotama là không được tốt đẹp”.
-2. Này các Tỷ-kheo, về vấn đề ấy, Ta suy nghĩ như sau: “Các Tôn giả này không hiểu gì về trưởng lão,
+<!--pg-->
+2\. Này các Tỷ-kheo, về vấn đề ấy, Ta suy nghĩ như sau: “Các Tôn giả này không hiểu gì về trưởng lão,
 hay các pháp tác thành vị trưởng lão”.
 
 Nếu trưởng lão, này các Tỷ-kheo, là 80 tuổi, hay 90 tuổi, hay 100 tuổi đời, và nếu vị ấy nói phi thời, nói
@@ -85,7 +88,8 @@ trong tuổi hiền thiện của đời, còn trong tuổi thanh xuân, vị �
 có nghĩa, nói lời đúng pháp, nói lời đúng luật, nói những lời đáng giữ gìn, lời nói hợp thời cơ, hợp lý, có
 giới hạn, liên hệ đến mục đích, thời vị ấy chỉ được gọi là vị trưởng lão hiền trí.
 
-3. Này các Tỷ-kheo, có bốn pháp tác thành trưởng lão này. Thế nào là bốn?
+<!--pg-->
+3\. Này các Tỷ-kheo, có bốn pháp tác thành trưởng lão này. Thế nào là bốn?
 
 Ở đây, này các Tỷ-kheo, vị Tỷ-kheo có giới, sống chế ngự với sự chế ngự của giới bổn Pàtimokkha, đầy
 đủ uy nghi chánh hạnh, thấy sợ hãi trong các lỗi nhỏ nhặt, chấp nhận và học tập trong các học pháp. Là
@@ -117,21 +121,25 @@ _Trưởng lão không lậu hoặc_
 _Do đoạn trừ lậu hoặc_
 _Ðược gọi là trưởng lão._
 
+<!--pg-->
 **(III) (23). Thế Giới.**
 
-1. - Này các Tỷ-kheo, thế giới được Như Lai Chánh Ðẳng Giác, Như Lai không hệ lụy đối với đời. Này
+<!--pg-->
+1\. - Này các Tỷ-kheo, thế giới được Như Lai Chánh Ðẳng Giác, Như Lai không hệ lụy đối với đời. Này
 các Tỷ-kheo, thế giới tập khởi được Như Lai Chánh Ðẳng Giác. Thế giới tập khởi được Như Lai đoạn
 tận. Này các Tỷ-kheo, thế giới đoạn diệt được Như Lai Chánh Ðẳng Giác. Thế giới đoạn diệt được Như
 Lai đoạn tận. Thế giới đoạn diệt được Như Lai giác ngộ. Này các Tỷ-kheo, con đường đưa đến thế giới
 đoạn diệt được Như Lai Chánh Ðẳng Giác. Con đường đưa đến thế giới đoạn diệt được Như Lai tu tập.
-2. Cái gì, này các Tỷ-kheo, trong toàn thế giới với Thiên giới, Ma giới, Phạm thiên giới, cùng với quần
+<!--pg-->
+2\. Cái gì, này các Tỷ-kheo, trong toàn thế giới với Thiên giới, Ma giới, Phạm thiên giới, cùng với quần
 chúng Sa-môn, Bà-la-môn, chư Thiên và loài Người, được thấy, được nghe, được cảm giác, được thức
 tri, được đạt đến, được tầm cầu, được ý tư sát, tất cả đều được Như Lai Chánh Ðẳng Giác. Do vậy, được
 gọi là Như Lai. Từ đêm, này các Tỷ-kheo, Như Lai được Chánh Ðẳng Giác, đến đêm Như Lai nhập
 Niết-bàn, trong thời gian ấy, điều gì Như Lai nói, nói lên, tuyên bố, tất cả là như vậy, không có khác
 được. Do vậy, được gọi là Như Lai.
 
-3. Này các Tỷ-kheo, Như Lai nói gì thì làm vậy, làm gì thì nói vậy. Vì rằng nói gì thì làm vậy, làm gì thì
+<!--pg-->
+3\. Này các Tỷ-kheo, Như Lai nói gì thì làm vậy, làm gì thì nói vậy. Vì rằng nói gì thì làm vậy, làm gì thì
 nói vậy, nên được gọi là Như Lai.
 
 Này các Tỷ-kheo, trong toàn thể thế giới với Thiên giới, Ma giới, Phạm thiên giới, cùng với quần chúng
@@ -173,8 +181,10 @@ _Vĩ đại, không sanh hữu_
 _Thiên giới, thế giới này_
 _Không ai được bằng ngài._
 
+<!--pg-->
 **(IV) (24) Kàlaka**
-1. Một thời, Thế Tôn trú ở Sàketa, tại khu vườn Kàlaka. Tại đấy, Thế Tôn gọi các Tỷ-kheo:
+<!--pg-->
+1\. Một thời, Thế Tôn trú ở Sàketa, tại khu vườn Kàlaka. Tại đấy, Thế Tôn gọi các Tỷ-kheo:
 
 − Này các Tỷ-kheo.
 
@@ -219,6 +229,7 @@ _Ta biết và Ta thấy_
 _Các đức Phật Như Lai_
 _Không tham đắm như vậy._
 
+<!--pg-->
 **(V) (25) Phạm Hạnh**
 
 1.- Phạm hạnh được sống, này các Tỷ-kheo, không vì mục đích lừa dối quần chúng, không vì mục đính
@@ -242,6 +253,7 @@ _Ðúng như lời Phật dạy,_
 _Sẽ chấm dứt khổ đau,_
 _Làm theo Ðạo Sư dạy._
 
+<!--pg-->
 **(VI) (26) Kẻ Lừa Dối.**
 
 1.- Những vị Tỷ-kheo nào, này các Tỷ-kheo, lừa dối cứng đầu, lắm mồm lắm miệng, hoang dâm, hỗn
@@ -266,9 +278,11 @@ _Chúng tăng trưởng các pháp,_
 _Ðược bậc Chánh Ðẳng Giác,_
 _Tuyên bố và thuyết giảng._
 
+<!--pg-->
 **(VII) (27) Biết Ðủ**
 
-1. - Này các Tỷ-kheo, có bốn pháp này là không quan trọng, dễ được và không có phạm lỗi. Thế nào là
+<!--pg-->
+1\. - Này các Tỷ-kheo, có bốn pháp này là không quan trọng, dễ được và không có phạm lỗi. Thế nào là
 bốn?
 
 Trong các loại y, này các Tỷ-kheo, y phấn tảo (y lượm từ đống rác) là không quan trọng, dễ được và
@@ -298,9 +312,11 @@ _Với vị biết vừa đủ,_
 _Với vị không phóng dật,_
 _Tinh cần trong học tập._
 
+<!--pg-->
 **(VIII) (28) Truyền Thống.**
 
-1. - Có bốn truyền thống bậc Thánh này, này các Tỷ-kheo, được biết là tối sơ, có đã lâu đời, được biết là
+<!--pg-->
+1\. - Có bốn truyền thống bậc Thánh này, này các Tỷ-kheo, được biết là tối sơ, có đã lâu đời, được biết là
 truyền thống, kỳ cựu, không có tạp nhiễm, trước không bị tạp nhiễm, nay không bị tạp nhiễm, sẽ không
 bị tạp nhiễm, không bị các Sa-môn, Bà-la-môn có trí quở trách. Thế nào là bốn?
 
@@ -335,7 +351,8 @@ Bốn truyền thống bậc Thánh này, này các Tỷ-kheo, được biết l
 thống kỳ cựu, không có tạp nhiễm, trước không bị tạp nhiễm, nay không bị tạp nhiễm, sẽ không bị tạp
 nhiễm, không bị các Sa-môn, Bà-la-môn có trí quở trách.
 
-2. Thành tựu bốn Thánh truyền thống này, này các Tỷ-kheo, nếu Tỷ-kheo trú ở phương Ðông, vị ấy
+<!--pg-->
+2\. Thành tựu bốn Thánh truyền thống này, này các Tỷ-kheo, nếu Tỷ-kheo trú ở phương Ðông, vị ấy
 nhiếp phục không hoan hỷ, không hoan hỷ không nhiếp phục vị ấy. Nếu trú ở phương Tây, vị ấy nhiếp
 phục không hoan hỷ, không hoan hỷ không nhiếp phục vị ấy. Nếu trú ở phương Bắc, vị ấy nhiếp phục
 không hoan hỷ, không hoan hỷ không nhiếp phục vị ấy. Nếu trú ở phương Nam, vị ấy nhiếp phục không
@@ -357,9 +374,11 @@ _Ai xứng đáng cất giữ?_
 _Chư Thiên khen vị ấy,_
 _Phạm thiên cũng tán thán._
 
+<!--pg-->
 **(IX) (29) Pháp Cú**
 
-1. - Có bốn pháp cú này, này các Tỷ-kheo, được biết là tối sơ, có đã lâu đời, được biết là truyền thống,
+<!--pg-->
+1\. - Có bốn pháp cú này, này các Tỷ-kheo, được biết là tối sơ, có đã lâu đời, được biết là truyền thống,
 kỳ cựu, không có tạp nhiễm, trước không bị tạp nhiễm, nay không bị tạp nhiễm, sẽ không bị tạp nhiễm,
 không bị các Sa-môn, Bà-la-môn có trí quở trách. Thế nào là bốn?
 
@@ -377,9 +396,11 @@ _Với tâm không có sân,_
 _Chánh niệm và nhất tâm,_
 _Nội tâm khéo định tĩnh._
 
+<!--pg-->
 **(X) (30) Các Du Sĩ**
 
-1. Một thời, Thế Tôn trú ở Ràjagaha (Vương Xá), tại núi Gijihakùta (Linh Thứu). Lúc bấy giờ, nhiều du
+<!--pg-->
+1\. Một thời, Thế Tôn trú ở Ràjagaha (Vương Xá), tại núi Gijihakùta (Linh Thứu). Lúc bấy giờ, nhiều du
 sĩ danh tiếng, có danh tiếng, sống tại khu vườn du sĩ trên bờ sông Sappini, như các du sĩ Annabhàra,
 Varadhara, Sakuludàyi, và một số du sĩ có danh tiếng khác.
 
@@ -387,12 +408,14 @@ Rồi Thế Tôn vào buổi chiều, từ chỗ Thiền tịnh đứng dậy, �
 Sappini, sau khi đến, ngồi xuống trên chỗ đã soạn sẵn. Ngồi xuống, Thế Tôn nói với các du sĩ ngoại đạo
 ấy như sau:
 
-2. Có bốn pháp cú này, này các Du sĩ, được biết là tối sơ... (giống như kinh số 29, chỉ khác là kinh này
+<!--pg-->
+2\. Có bốn pháp cú này, này các Du sĩ, được biết là tối sơ... (giống như kinh số 29, chỉ khác là kinh này
 _nói với các Du sĩ, không phải với các Tỷ-kheo như kinh trước và không có bài kệ)..._
 
 Này các Du sĩ, có bốn pháp cú này được biết là tối sơ... không bị quở trách.
 
-3. Này các Du sĩ, ai nói như sau: “Nhưng tôi sẽ chỉ ra một Sa-môn hay Bà-la-môn, dầu cho vị này có tự
+<!--pg-->
+3\. Này các Du sĩ, ai nói như sau: “Nhưng tôi sẽ chỉ ra một Sa-môn hay Bà-la-môn, dầu cho vị này có tự
 chứng được pháp cú không tham này; tuy vậy vị ấy vẫn có lòng tham, tham đắm sắc bén trong các dục”.
 Ðối với người ấy, Ta có thể nói như thế này: “Hãy để vị ấy nói lên. Hãy để vị ấy trả lời, rồi Ta thấy uy
 đức của vị ấy”. Thật vậy, này các Du sĩ, sự kiện này không xảy ra, rằng một Sa-môn hay Bà-la-môn như
@@ -412,7 +435,8 @@ Ta có thể nói như thế này: “Hãy để vị ấy nói lên. Hãy để
 Thật vậy, này các Du sĩ, sự kiện này không xảy ra, rằng một Sa-môn hay Bà-la-môn đã tự mình chứng
 được pháp cú chánh định, sẽ được nêu rõ là không định tĩnh, tâm vẫn dao động.
 
-4. Này các Du sĩ, nếu có ai nghĩ rằng, cần phải chỉ trích, cần phải bài xích bốn pháp cú này, thời ngay
+<!--pg-->
+4\. Này các Du sĩ, nếu có ai nghĩ rằng, cần phải chỉ trích, cần phải bài xích bốn pháp cú này, thời ngay
 trong hiện tại, bốn sự phản kháng chỉ trích xứ đúng pháp được khởi lên cho vị ấy. Thế nào là bốn?
 
 Nếu Tôn giả chỉ trích, bài xích pháp cú không tham, thời các Sa-môn hay Bà-la-môn nào có lòng tham,
@@ -421,7 +445,8 @@ Tôn giả tán thán. Nếu Tôn giả chỉ trích pháp cú không sân.. ch�
 pháp cú chánh định, thời các Sa-môn hay Bà-la-môn nào không định tâm, tâm bị dao động, các vị ấy cần
 phải được Tôn giả đảnh lễ, các vị ấy cần phải được Tôn giả tán thán.
 
-5. - Này các Du sĩ, ai nghĩ rằng cần phải chỉ trích, cần phải bài xích bốn pháp cú này, thời ngay trong
+<!--pg-->
+5\. - Này các Du sĩ, ai nghĩ rằng cần phải chỉ trích, cần phải bài xích bốn pháp cú này, thời ngay trong
 hiện tại, bốn sự phản kháng chỉ trích xứ đúng pháp này, được khởi lên cho vị ấy. Này các Du sĩ, cho đến
 các dân chúng ở Ukkala và dân chúng Vassà, dân chúng Bhannà theo vô nhân luận, theo vô tác luận,
 theo hư vô luận, những vị ấy cũng đã không nghĩ rằng bốn pháp cú này cần phải chỉ trích, cần phải bài

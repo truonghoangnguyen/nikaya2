@@ -1,8 +1,9 @@
 # I. Phẩm Người Ngu
 
+
 **1-10 Người Ngu**
 
-1.- Như vầy tôi nghe.
+1\. Như vầy tôi nghe.
 
 Một thời Thế Tôn trú ở Sàvatthi, Jetanava, tại vườn ông Anàthapindika. Lúc bấy giờ, Thế Tôn gọi các
 Tỷ-kheo:
@@ -34,7 +35,8 @@ Do vậy, ở đây, cần phải học tập như sau: Thành tựu với ba ph
 vậy, hãy từ bỏ ba pháp ấy. Thành tựu với ba pháp nào, một người trí được biết là như vậy, hãy chấp
 nhận ba pháp ấy và thực hành chúng. Như vậy, này các Tỷ-kheo, cần phải học tập.
 
-Này các Tỷ-kheo, tướng của người ngu ở trong hành động (của mình); tướng của người trí ở trong hành
+<!--pg-->
+2\. Này các Tỷ-kheo, tướng của người ngu ở trong hành động (của mình); tướng của người trí ở trong hành
 động (của mình). Trí tuệ chói sáng trong nếp sống (của mình)
 
 Thành tựu với ba pháp, này các Tỷ-kheo, người ngu được biết đến. Thế nào là ba? Thân làm ác, miệng
@@ -49,7 +51,8 @@ Do vậy, này các Tỷ-kheo, cần phải học tập như sau: Thành tựu v
 đến, hãy từ bỏ ba pháp ấy; thành tựu với ba pháp nào, người trí được biết đến; hãy chấp nhận ba pháp
 ấy, và thực hành chúng. Như vậy, này các Tỷ-kheo, cần phải học tập.
 
-3.- Có những pháp này, này các Tỷ-kheo, là đặc tính của người ngu, là tướng trạng của người ngu, là ẩn
+<!--pg-->
+3\. Có những pháp này, này các Tỷ-kheo, là đặc tính của người ngu, là tướng trạng của người ngu, là ẩn
 tích của người ngu. Thế nào là ba? Ở đây, này các Tỷ-kheo, kẻ ngu suy nghĩ ác, nói ác và làm ác. Nếu
 người ngu này, này các Tỷ-kheo, không suy nghĩ ác, không nói ác và không làm ác, thời lấy gì người
 hiền trí biết được: “Người này là kẻ ngu, không phải là bậc chân nhân”? Vì rằng, này các Tỷ-kheo người
@@ -65,7 +68,8 @@ rằng, này các Tỷ-kheo người hiền trí suy nghĩ thiện, nói thiện
 được: “Người này là người hiền trí, là bậc chân nhân”. Có những pháp này, này các Tỷ-kheo, là đặc tánh
 của người hiền trí, là tướng trạng của người hiền trí, là ấn tích của người hiền trí.
 
-4.- Thành tựu với ba pháp này, này các Tỷ-kheo, người ngu được biết đến. Thế nào là ba? Phạm tội,
+<!--pg-->
+4\. Thành tựu với ba pháp này, này các Tỷ-kheo, người ngu được biết đến. Thế nào là ba? Phạm tội,
 không thấy là có phạm tội; phạm tội sau khi thấy là có phạm tội, không như pháp sám hối; được người
 khác pháp lộ có tội, không như pháp chấp nhận. Thành tựu với ba pháp này, này các Tỷ-kheo, người ngu
 được biết đến.
@@ -74,7 +78,8 @@ Thành tựu với ba pháp này, này các Tỷ-kheo, người hiền trí đư
 thấy là có phạm tội; phạm tội sau khi thấy là có phạm tội, như pháp sám hối; được người khác pháp lộ
 có tội, như pháp chấp nhận. Thành tựu với ba pháp này, này các Tỷ-kheo, người hiền trí được biết đến.
 
-5.-Thành tựu với ba pháp, này các Tỷ-kheo, người ngu được biết đến. Thế nào là ba? Không như lý suy
+<!--pg-->
+5\. Thành tựu với ba pháp, này các Tỷ-kheo, người ngu được biết đến. Thế nào là ba? Không như lý suy
 tư, đặt câu hỏi; không như lý suy tư, trả lời câu hỏi; khi người khác như lý trả lời câu hỏi với những câu,
 những chữ vuông tròn, với những hành văn trơn tru chải chuốt, không có chấp nhận. Thành tựu với ba
 pháp này, này các Tỷ-kheo, người ngu được biết đến.
@@ -84,7 +89,8 @@ câu hỏi; Như lý suy tư, trả lời câu hỏi; khi người khác như l�
 vuông tròn, với những hành văn trơn tru chải chuốt, liền chấp nhận. Thành tựu với ba pháp này, này các
 Tỷ-kheo, người hiền trí được biết đến.
 
-6.-Thành tựu với ba pháp này, này các Tỷ-kheo, người ngu được biết đến. Thế nào là ba? Thân làm bất
+<!--pg-->
+6\. Thành tựu với ba pháp này, này các Tỷ-kheo, người ngu được biết đến. Thế nào là ba? Thân làm bất
 thiện, miệng nói bất thiện, ý nghĩ bất thiện. Thành tựu với ba pháp này, này các Tỷ-kheo, người ngu
 được biết đến.
 
@@ -92,20 +98,23 @@ Thành tựu với ba pháp này, này các Tỷ-kheo, người hiền trí đư
 thiện, miệng nói thiện, ý nghĩ thiện. Thành tựu ba pháp này, này các Tỷ-kheo, người hiền trí được biết
 đến.
 
-7.-Thành tựu với ba pháp này, này các Tỷ-kheo, người ngu được biết đến. Thế nào là ba? Thân làm có
+<!--pg-->
+7\. Thành tựu với ba pháp này, này các Tỷ-kheo, người ngu được biết đến. Thế nào là ba? Thân làm có
 tội, miệng nói có tội, ý nghĩ có tội. Thành tựu với ba pháp này, này các Tỷ-kheo, người ngu được biết
 đến.
 Thành tựu với ba pháp này, này các Tỷ-kheo, người hiền trí được biết đến. Thế nào là ba? Thân làm
 không có tội, miệng nói không có tội, ý nghĩ không có tội. Thành tựu với ba pháp này, này các Tỷ-kheo,
 người hiền trí được biết đến.
 
-8.-Thành tựu với ba pháp này, này các Tỷ-kheo, người ngu được biết đến. Thế nào là ba? Thân làm có
+<!--pg-->
+8\. Thành tựu với ba pháp này, này các Tỷ-kheo, người ngu được biết đến. Thế nào là ba? Thân làm có
 não hại, miệng nói có não hại, ý nghĩ có não hại. ... (như trên)
 
 Thành tựu với ba pháp này, này các Tỷ-kheo, người hiền trí được biết đến. Thế nào là ba? Thân làm
 không có não hại, miệng nói không có não hại, ý nghĩ không có não hại. ... (như trên)
 
-9.-Thành tựu với ba pháp này, này các Tỷ-kheo, người ngu vụng về, không phải bậc chân nhân, tự mình
+<!--pg-->
+9\ .Thành tựu với ba pháp này, này các Tỷ-kheo, người ngu vụng về, không phải bậc chân nhân, tự mình
 xử sự như một kẻ mất gốc, bị thương tích, phạm tội, bị kẻ trí quở trách và tạo nên nhiều điều vô phước.
 Thế nào là ba? Thân làm ác, miệng nói ác, ý nghĩ ác (như trên) ...
 
@@ -113,7 +122,8 @@ Thành tựu với ba pháp này, này các Tỷ-kheo, người hiền trí khô
 xử sự không như một kẻ mất gốc, không bị thương tích, không phạm tội, không bị kẻ trí quở trách và tạo
 nên nhiều phước đức ... (như trên) ...
 
-10.- Do thành tựu ba pháp, này các Tỷ-kheo, do không đoạn tận ba cấu uế, tương xứng như vậy, bị
+<!--pg-->
+10\. Do thành tựu ba pháp, này các Tỷ-kheo, do không đoạn tận ba cấu uế, tương xứng như vậy, bị
 quăng vào địa ngục. Thế nào là ba? Ác giới và cấu uế của ác giới không được đoạn tận; tật đố và cấu uế
 của tật đố không được đoạn tận; xan tham và cấu uế của xan tham không được đoạn tận. Thành tựu với
 ba pháp này, này các Tỷ-kheo, do không đoạn tận ba cấu uế này, như vậy bị quăng vào địa ngục tương

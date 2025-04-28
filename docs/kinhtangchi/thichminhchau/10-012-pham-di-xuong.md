@@ -2,33 +2,39 @@
 
 **(I) (113) Phi Pháp**
 
-1. Phi pháp và phi mục đích này, này các Tỷ-kheo, cần phải hiểu biết; pháp và mục đích cần phải hiểu
+<!--pg-->
+1\. Phi pháp và phi mục đích này, này các Tỷ-kheo, cần phải hiểu biết; pháp và mục đích cần phải hiểu
 biết. Sau khi biết phi pháp và phi mục đích, sau khi biết pháp và mục đích, pháp như thế nào, mục đích
 như thế nào, như thế ấy, cần phải thực hành. Này các Tỷ-kheo, thế nào là phi pháp và phi mục đích?
 
-2. Tà kiến, tà tư duy, tà ngữ, tà nghiệp, tà mạng, tà tinh tấn, tà niệm, tà định, tà trí, tà giải thoát.
+<!--pg-->
+2\. Tà kiến, tà tư duy, tà ngữ, tà nghiệp, tà mạng, tà tinh tấn, tà niệm, tà định, tà trí, tà giải thoát.
 
 Này các Tỷ-kheo, đây gọi là phi pháp và phi mục đích. Và này các Tỷ-kheo, thế nào là pháp và mục
 đích?
 
-3. Chánh kiến, chánh tư duy, chánh ngữ, chánh nghiệp, chánh mạng, chánh tinh tấn, chánh niệm, chánh
+<!--pg-->
+3\. Chánh kiến, chánh tư duy, chánh ngữ, chánh nghiệp, chánh mạng, chánh tinh tấn, chánh niệm, chánh
 định, chánh trí, chánh giải thoát.
 
 Này các Tỷ-kheo, đây gọi là pháp và mục đích.
 
-4. Và này các Tỷ-kheo, phi pháp và phi mục đích cần phải hiểu biết; pháp và mục đích cần phải hiểu
+<!--pg-->
+4\. Và này các Tỷ-kheo, phi pháp và phi mục đích cần phải hiểu biết; pháp và mục đích cần phải hiểu
 biết. Sau khi hiểu biết phi pháp và phi mục đích sau khi hiểu biết pháp và mục đích, pháp như thế nào,
 mục đích như thế nào, như thế ấy, cần phải thực hành. Ðược nói đến như vậy là do duyên này được nói
 đến.
 
 **(II) (114) Không Phải Mục Ðích**
 
-1. Phi pháp và pháp, này các Tỷ-kheo, cần phải hiểu biết, phi mục đích và mục đích cần phải hiểu biết.
+<!--pg-->
+1\. Phi pháp và pháp, này các Tỷ-kheo, cần phải hiểu biết, phi mục đích và mục đích cần phải hiểu biết.
 Sau khi biết phi pháp và pháp, sau khi biết phi mục đích và mục đích, pháp như thế nào, mục đích như
 thế nào, như thế ấy cần phải thực hành. Và này các Tỷ-kheo, thế nào là phi pháp? Thế nào là pháp, thế
 nào là phi mục đích và thế nào là mục đích?
 
-2. Tà kiến, này các Tỷ-kheo, là phi pháp; chánh kiến là pháp. Những pháp ác bất thiện nào do duyên tà
+<!--pg-->
+2\. Tà kiến, này các Tỷ-kheo, là phi pháp; chánh kiến là pháp. Những pháp ác bất thiện nào do duyên tà
 kiến được sanh, đây là phi mục đích. Những pháp thiện do duyên chánh kiến đi đến đầy đủ trong tu tập,
 đây là mục đích. Tà tư duy, này các Tỷ-kheo, là phi pháp; chánh tư duy là pháp. Những pháp ác bất
 thiện nào do duyên tà tư duy được sanh, đây là phi mục đích. Những pháp thiện do duyên chánh tư duy
@@ -52,20 +58,23 @@ Tỷ-kheo, là phi pháp; chánh giải thoát là pháp. Những pháp ác bấ
 khởi, đây là phi mục đích. Những pháp thiện do duyên chánh giải thoát đi đến đầy đủ trong tu tập, đây là
 mục đích. Và những thiện pháp do duyên chánh giải thoát đi đến đầy đủ trong tu tập, đây là mục đích.
 
-3. Phi pháp và pháp, này các Tỷ-kheo, cần phải hiểu biết; phi mục đích và mục đích cần phải hiểu biết.
+<!--pg-->
+3\. Phi pháp và pháp, này các Tỷ-kheo, cần phải hiểu biết; phi mục đích và mục đích cần phải hiểu biết.
 Sau khi biết phi pháp và pháp, sau khi biết phi mục đích và mục đích, pháp như thế nào, mục đích như
 thế nào, như thế ấy cần phải thực hành. Ðược nói như vậy, do duyên này được nói đến như vậy.
 
 **(III) (115) Phi Pháp**
 
-1. Phi pháp và pháp, này các Tỷ-kheo, cần phải hiểu biết; phi mục đích và mục đích cần phải hiểu biết.
+<!--pg-->
+1\. Phi pháp và pháp, này các Tỷ-kheo, cần phải hiểu biết; phi mục đích và mục đích cần phải hiểu biết.
 Sau khi biết phi pháp và pháp, sau khi biết phi mục đích và mục đích, pháp như thế nào, mục đích như
 thế nào, như thế ấy cần phải thực hành.
 
 Thế Tôn thuyết như vậy. Thuyết như vậy xong, bậc Thiện Thệ từ chỗ ngồi đứng dậy và bước vào tinh
 xá.
 
-2. Rồi các Tỷ-kheo ấy, sau khi Thế Tôn đi không bao lâu, suy nghĩ như sau: “Này chư Hiền, Thế Tôn đã
+<!--pg-->
+2\. Rồi các Tỷ-kheo ấy, sau khi Thế Tôn đi không bao lâu, suy nghĩ như sau: “Này chư Hiền, Thế Tôn đã
 nói lên một cách vắn tắt lời tuyên bố này, không phân tích ý nghĩa một cách rộng rãi, từ chỗ ngồi đứng
 dậy, đã đi vào tinh xá: “Phi pháp và pháp, này các Tỷ-kheo, cần phải hiểu biết, phi mục đích và mục
 đích cần phải hiểu biết. Sau khi biết phi pháp và pháp, sau khi biết phi mục đích và mục đích, pháp như
@@ -77,7 +86,8 @@ vắn tắt, không phân tích ý nghĩa một cách rộng rãi, có thể ph�
 đi đến Tôn giả Ananda, sau khi đến, sẽ hỏi Tôn giả Ananda về ý nghĩa này. Tôn giả Ananda trả lời cho
 chúng ta như thế nào, chúng ta sẽ như vậy thọ trì”.
 
-3. Rồi các Tỷ-kheo ấy đi đến Tôn giả Ananda, sau khi đến nói lên với Tôn giả Ananda những lời chào
+<!--pg-->
+3\. Rồi các Tỷ-kheo ấy đi đến Tôn giả Ananda, sau khi đến nói lên với Tôn giả Ananda những lời chào
 đón hỏi thăm, sau khi nói lên những lời chào đón hỏi thăm thân hữu, liền ngồi xuống một bên. Ngồi
 xuống một bên, các Tỷ-kheo ấy nói với Tôn giả Ananda:
 
@@ -98,7 +108,8 @@ chúng ta hãy đi đến Tôn giả Ananda, sau khi đến, sẽ hỏi Tôn gi�
 Ananda trả lời cho chúng ta như thế nào, chúng ta sẽ như vậy thọ trì”. Thưa Tôn giả Ananda, hãy phân
 tích cho.
 
-4. Chư Hiền, cũng ví như một người cần thiết lõi cây, tìm lõi cây, đi khắp mọi nơi tìm lõi cây, đến một
+<!--pg-->
+4\. Chư Hiền, cũng ví như một người cần thiết lõi cây, tìm lõi cây, đi khắp mọi nơi tìm lõi cây, đến một
 cây to lớn, đứng thẳng và có lõi cây. Người này bỏ qua rễ, bỏ qua thân cây, nghĩ rằng: “Phải tìm lõi cây
 ở nơi cành lá”. Cũng vậy, là hành động của chư Tôn giả, đứng trước mặt Thế Tôn, quí vị bỏ qua Thế
 Tôn, nghĩ rằng: “Cần phải hỏi tôi về ý nghĩa này”. Chư Hiền, Thế Tôn biết những gì cần phải biết, thấy
@@ -106,7 +117,8 @@ những gì cần phải thấy. Ngài đã trở thành vị có mắt, trở t
 Phạm thiên, vị thuyết giả, vị diễn giả, vị đem lại mục tiêu, vị trao cho bất tử, vị Pháp chủ. Thế Tôn giải
 thích quý vị như thế nào, quí vị hãy như vậy thọ trì.
 
-5. Hiền giả Ananda, chắc chắn Thế Tôn biết những gì cần phải biết, thấy những gì cần phải thấy. Ngài
+<!--pg-->
+5\. Hiền giả Ananda, chắc chắn Thế Tôn biết những gì cần phải biết, thấy những gì cần phải thấy. Ngài
 đã trở thành vị có mắt, trở thành vị có trí, trở thành Chánh pháp, trở thành Phạm thiên, vị thuyết giả, vị
 diễn giả, vị đem lại mục tiêu, vị trao cho bất tử, vị Pháp chủ, Như Lai. Chúng tôi phải tùy thời hỏi Thế
 Tôn ý nghĩa này. Những gì Thế Tôn giải thích cho chúng tôi, chúng tôi sẽ như vậy thọ trì. nhưng Hiền
@@ -114,7 +126,8 @@ giả Ananda được Thế Tôn tán thán, được các vị đồng Phạm h
 thể giải thích rộng rãi ý nghĩa lời giảng dạy được Thế Tôn nói lên một cách vắn tắt và giải thích rõ ràng
 ý nghĩa. Mong Hiền giả Ananda giải thích, nếu không có sự gì phiền muộn.
 
-6. Vậy chư Hiền, hãy nghe và suy nghiệm kỹ, tôi sẽ giảng.
+<!--pg-->
+6\. Vậy chư Hiền, hãy nghe và suy nghiệm kỹ, tôi sẽ giảng.
 
 − Thưa vâng Hiền giả.
 
@@ -125,7 +138,8 @@ phải hiểu biết, phi mục đích và mục đích cần phải hiểu bi�
 phi mục đích và mục đích, pháp như thế nào, mục đích như thế nào, như thế ấy cần phải thực hành.” Và
 này chư Hiền, thế nào là phi pháp, thế nào là pháp, thế nào là phi mục đích và thế nào là mục đích?
 
-7. Tà kiến, này chư Hiền, là phi pháp; chánh kiến là pháp, những pháp ác bất thiện gì do duyên tà kiến
+<!--pg-->
+7\. Tà kiến, này chư Hiền, là phi pháp; chánh kiến là pháp, những pháp ác bất thiện gì do duyên tà kiến
 khởi lên, đây là phi mục đích. Và những pháp thiện gì đi đến viên mãn trong tu tập, đây là mục đích. Tà
 tư duy, này chư Hiền, là phi pháp; chánh tư duy là pháp... Tà ngữ là phi pháp; chánh ngữ là pháp... Tà
 nghiệp là phi pháp; chánh nghiệp là pháp... Tà mạng là phi pháp; chánh mạng là pháp... Tà tinh tấn là
@@ -146,7 +160,8 @@ lời như thế nào, hãy như vậy thọ trì.
 Các Tỷ-kheo ấy hoan hỷ tín thọ lời Tôn giả Ananda, từ chỗ ngồi đứng dậy, đi đến Thế Tôn, sau khi đến,
 đảnh lễ Thế Tôn rồi ngồi xuống một bên. Ngồi xuống một bên, các Tỷ-kheo ấy bạch Thế Tôn:
 
-8. Bạch Thế Tôn, Thế Tôn sau khi nói lên lời tuyên bố một cách vắn tắt mà không có phân tích ý nghĩa
+<!--pg-->
+8\. Bạch Thế Tôn, Thế Tôn sau khi nói lên lời tuyên bố một cách vắn tắt mà không có phân tích ý nghĩa
 một cách rộng rãi, từ chỗ ngồi đứng dậy và đi vào tinh xá: “Phi pháp và pháp, này các Tỷ-kheo, cần phải
 hiểu biết, phi mục đích và mục đích cần phải hiểu biết. Sau khi biết phi pháp và pháp, sau khi biết phi
 mục đích và mục đích, pháp như thế nào, mục đích như thế nào, như thế ấy cần phải thực hành”. Bạch
@@ -161,13 +176,15 @@ cách rộng rãi. Vậy chúng ta hãy đi đến Tôn giả Aụnanda và hỏ
 của chúng được Tôn giả Ananda khéo phân tích với những lý do như thế này, với những chữ như thế
 này, với những chữ như thế này, với những câu văn như thế này.
 
-9. Lành thay, lành thay, này các Tỷ-kheo, Hiền trí là Hiền giả Ananda! Ðại tuệ là Hiền giả Ananda! Này
+<!--pg-->
+9\. Lành thay, lành thay, này các Tỷ-kheo, Hiền trí là Hiền giả Ananda! Ðại tuệ là Hiền giả Ananda! Này
 các Tỷ-kheo, nếu các Thầy đến hỏi Ta về ý nghĩa này, Ta cũng trả lời như vậy, như đã được Ananda trả
 lời. Ðây là ý nghĩa của lời ấy, hãy như vậy thọ trì.
 
 **(IV) (116) Ajita**
 
-1. Bấy giờ có du sĩ Ajita đi đến Thế Tôn, sau khi đến, nói lên với Thế Tôn những lời chào đón hỏi thăm,
+<!--pg-->
+1\. Bấy giờ có du sĩ Ajita đi đến Thế Tôn, sau khi đến, nói lên với Thế Tôn những lời chào đón hỏi thăm,
 sau khi nói lên những lời chào đón hỏi thăm thân hữu, liền ngồi xuống một bên. Ngồi xuống một bên, du
 sĩ Ajita nói với Thế Tôn:
 − Thưa Tôn giả Gotama, chúng tôi có người đồng Phạm hạnh là vị Hiền trí, vị này có nghĩ đến năm trăm
@@ -185,27 +202,33 @@ Tỷ-kheo sẽ thọ trí!
 
 Các Tỷ-kheo ấy vâng đáp Thế Tôn, Thế Tôn nói như sau:
 
-2. Ở đây, này các Tỷ-kheo, có người với lời phi pháp, bài xích, công kích lời phi pháp. Với lời ấy, vị ấy
+<!--pg-->
+2\. Ở đây, này các Tỷ-kheo, có người với lời phi pháp, bài xích, công kích lời phi pháp. Với lời ấy, vị ấy
 kích thích một hội chúng phi pháp đến la cao tiếng lớn tiếng rằng: “Vị Tôn giả thật là một Hiền trí! Vị
 Tôn giả thật là một Hiền trí! “.
 
-3. Nhưng ở đây, này các Tỷ-kheo, có người với lời phi pháp bài xích, công kích lời đúng pháp. Với lời
+<!--pg-->
+3\. Nhưng ở đây, này các Tỷ-kheo, có người với lời phi pháp bài xích, công kích lời đúng pháp. Với lời
 ấy, vị ấy kích thích một hội chúng phi pháp đến la cao tiếng lớn tiếng rằng: “Vị Tôn giả thật là một Hiền
 trí! Vị Tôn giả thật là một Hiền trí! “.
 
-4. Nhưng ở đây, này các Tỷ-kheo, có người với lời phi pháp bài xích, công kích lời đúng pháp và lời phi
+<!--pg-->
+4\. Nhưng ở đây, này các Tỷ-kheo, có người với lời phi pháp bài xích, công kích lời đúng pháp và lời phi
 pháp. Với lời ấy, vị ấy kích thích một hội chúng phi pháp đến la cao tiếng, lớn tiếng rằng: “Vị Tôn giả
 thật là một Hiền trí! Vị Tôn giả thật là một Hiền trí! “.
 
-5. Nhưng ở đây, này các Tỷ-kheo, có người với lời đúng pháp bài xích, công kích lời phi pháp. Với lời
+<!--pg-->
+5\. Nhưng ở đây, này các Tỷ-kheo, có người với lời đúng pháp bài xích, công kích lời phi pháp. Với lời
 ấy, vị ấy kích thích một hội chúng phi pháp đến la cao tiếng, lớn tiếng rằng: “Vị Tôn giả thật là một
 Hiền trí! Vị Tôn giả thật là một Hiền trí! “.
 
-6. Phi pháp và pháp, này các Tỷ-kheo, cần phải hiểu biết; phi mục đích và mục đích, cần phải hiểu biết;
+<!--pg-->
+6\. Phi pháp và pháp, này các Tỷ-kheo, cần phải hiểu biết; phi mục đích và mục đích, cần phải hiểu biết;
 phi mục đích và mục đích, cần phải hiểu biết. Sau khi biết phi pháp và pháp, sau khi biết phi mục đích
 và mục đích, pháp như thế nào, mục đích như thế nào, như thế ấy, cần phải thực hành. Và này các Tỷkheo, thế nào là phi pháp, thế nào là pháp, thế nào là phi mục đích, thế nào là mục đích?
 
-7. Tà kiến, này các Tỷ-kheo, là phi pháp, chánh kiến là pháp, do duyên tà kiến, các pháp ác bất thiện nào
+<!--pg-->
+7\. Tà kiến, này các Tỷ-kheo, là phi pháp, chánh kiến là pháp, do duyên tà kiến, các pháp ác bất thiện nào
 khởi lên, đây là phi mục đích; do duyên chánh kiến, các pháp thiện đi đến viên mãn trong tu tập, đây là
 mục đích. Tà tư duy, này các Tỷ-kheo, là phi pháp, chánh tư duy là pháp... Tà ngữ, này các Tỷ-kheo, là
 phi pháp, chánh ngữ là pháp... Tà nghiệp, này các Tỷ-kheo, là phi pháp, chánh nghiệp là pháp... Tà
@@ -221,13 +244,15 @@ Sau khi biết phi pháp và pháp, sau khi biết phi mục đích và mục đ
 thế nào, như thế ấy, cần phải thực hành. Ðược noí đến như vậy, do duyên này được nói đến như vậy.
 **(V) (117) Sangàrava**
 
-1. Bấy giờ có Bà-la-môn Sangàrava đi đến Thế Tôn, sau khi đến, nói với Thế Tôn những lời chào đón
+<!--pg-->
+1\. Bấy giờ có Bà-la-môn Sangàrava đi đến Thế Tôn, sau khi đến, nói với Thế Tôn những lời chào đón
 hỏi thăm, sau khi nói lên những lời chào đón hỏi thăm thân hữu, liền ngồi xuống một bên. Ngồi xuống
 một bên, Bà-la-môn Sangàrava bạch Thế Tôn:
 
 − Thưa Tôn giả Gotama, thế nào là bờ bên này? Thế nào là bờ bên kia?
 
-2. Tà kiến, này Bà-la-môn, là bờ bên này, chánh kiến là bờ bên kia. Tà tư duy là bờ bên này, chánh tư
+<!--pg-->
+2\. Tà kiến, này Bà-la-môn, là bờ bên này, chánh kiến là bờ bên kia. Tà tư duy là bờ bên này, chánh tư
 duy là bờ bên kia. Tà ngữ... chánh ngữ... Tà nghiệp... chánh nghiệp... Tà mạng... chánh mạng... Tà tinh
 tấn... chánh tinh tấn... Tà niệm... chánh niệm... Tà định... chánh định... Tà trí... chánh trí... Tà giải thoát,
 này Bà-la-môn, là bờ bên này, chánh giải thoát là bờ bên kia.
@@ -265,7 +290,8 @@ _Sống tịch tịnh ở đời._
 
 Các Tỷ-kheo ấy vâng đáp Thế Tôn, Thế Tôn nói như sau:
 
-2. Này các Tỷ-kheo, thế nào là bờ bên này, và thế nào là bờ bên kia?
+<!--pg-->
+2\. Này các Tỷ-kheo, thế nào là bờ bên này, và thế nào là bờ bên kia?
 
 Tà kiến, này các Tỷ-kheo, là bờ bên này, chánh kiến là bờ bên kia... Tà giải thoát là bờ bên này, chánh
 giải thoát là bờ bên kia. Này các Tỷ-kheo, đây là bờ bên này, đây là bờ bên kia.
@@ -294,7 +320,8 @@ _Sống tịch tịnh ở đời._
 
 **(VII) (119) Sự Xuất Ly của Bậc Thánh (1)**
 
-1. Lúc bấy giờ, Bà-la-môn Jànussoni, nhân ngày trai giới Uposatha, sau khi gội đầu và mặc đôi áo lụa
+<!--pg-->
+1\. Lúc bấy giờ, Bà-la-môn Jànussoni, nhân ngày trai giới Uposatha, sau khi gội đầu và mặc đôi áo lụa
 mới, tay cầm nắm cỏ kusa ướt, đứng không xa Thế Tôn bao nhiêu. Thế Tôn thấy Bà-la-môn Jànussoni,
 nhân ngày trai giới Uposatha, sau khi gội đầu và mặc đôi áo lụa mới, tay cầm nắm cỏ kusa ướt, đứng
 một bên không xa bao nhiêu, thấy vậy liền nói với Bà-la-môn Jànussoni:
@@ -323,7 +350,8 @@ Gotama thuyết pháp cho chúng tôi thế nào là trong Luật của bậc Th
 
 Bà-la-môn Jànussoni vâng đáp Thế Tôn, Thế Tôn nói như sau:
 
-2. Ở đây, này Bà-la-môn, vị Thánh đệ tử suy xét như sau: “Tà kiến đưa đến ác quả dị thục ngay trong
+<!--pg-->
+2\. Ở đây, này Bà-la-môn, vị Thánh đệ tử suy xét như sau: “Tà kiến đưa đến ác quả dị thục ngay trong
 hiện tại và trong tương lai”. Sau khi suy xét như vậy, vị ấy từ bỏ tà kiến, ra khỏi tà kiến... Tà tư duy đưa
 đến ác quả dị thục ngay trong hiện tại và trong tương lai... Tà ngữ đưa đến ác quả dị thục ngay trong
 hiện tại và trong tương lai... Tà nghiệp đưa đến ác quả dị thục ngay trong hiện tại và trong tương lai... Tà
@@ -332,16 +360,19 @@ ngay trong hiện tại và trong tương lai... Tà niệm... Tà định... T�
 ngay trong hiện tại và trong tương lai. Sau khi suy xét như vậy, vị ấy từ bỏ tà giải thoát. Như vậy, này
 Bà-la-môn, là sự xuất ly trong Luật của bậc Thánh.
 
-3. Sự khác, thưa Tôn giả Gotama, là lễ đi xuống của các Bà-la-môn. Sai khác là sự xuất ly trong Luật
+<!--pg-->
+3\. Sự khác, thưa Tôn giả Gotama, là lễ đi xuống của các Bà-la-môn. Sai khác là sự xuất ly trong Luật
 của bậc Thánh. Thưa Tôn giả Gotama, sự xuất ly của các Bà-la-môn không bằng giá trị của phần mười
 sáu, so với sự xuất ly trong Luật bậc Thánh. Thật vi diệu thay, thưa Tôn giả Gotama! ... Mong Tôn giả
 Gotama bắt đầu từ nay nhận con làm đệ tử cư sĩ, từ nay cho đến mạng chung con xin quy ngưỡng.
 
 **(VIII) (120) Sự Xuất Ly Của Bậc Thánh (2)**
 
-1. Này các Tỷ-kheo, Ta sẽ thuyết cho các Thầy về sự xuất ly của bậc Thánh. Hãy nghe... và này các Tỷkheo, thế nào là sự xuất ly của bậc Thánh?
+<!--pg-->
+1\. Này các Tỷ-kheo, Ta sẽ thuyết cho các Thầy về sự xuất ly của bậc Thánh. Hãy nghe... và này các Tỷkheo, thế nào là sự xuất ly của bậc Thánh?
 
-2. Ở đây, này các Tỷ-kheo, vị Thánh đệ tử suy xét như sau: 'Tà kiến đưa đến ác quỷ dị thục trong hiện
+<!--pg-->
+2\. Ở đây, này các Tỷ-kheo, vị Thánh đệ tử suy xét như sau: 'Tà kiến đưa đến ác quỷ dị thục trong hiện
 tại và trong tương lai”. Sau khi suy xét như vậy, vị ấy từ bỏ tà kiến, ra khỏi tà kiến... Tà tư duy... Tà
 ngữ... Tà nghiệp... Tà mạng... Tà tinh tấn... Tà niệm... Tà định... Tà trí... Tà giải thoát, đưa đến ác quả dị
 thục trong đời này và trong đời sau”. Sau khi suy xét như vậy, vị ấy từ bỏ tà giải thoát, ra khỏi tà giải
@@ -351,21 +382,25 @@ Này các Tỷ-kheo, đây gọi là sự xuất ly của bậc Thánh.
 
 **(IX) (121) Ðiềm Báo Trước**
 
-1. Khi mặt trời mọc, này các Tỷ-kheo, cái này đi trước, cái này là tướng báo trước, tức là rạng đông.
+<!--pg-->
+1\. Khi mặt trời mọc, này các Tỷ-kheo, cái này đi trước, cái này là tướng báo trước, tức là rạng đông.
 Cũng vậy, này các Tỷ-kheo, đối với các thiện pháp, cái này là đi trước, cái này là tướng trước, tức là
 chánh tri kiến.
 
-2. Từ chánh tri kiến, này các Tỷ-kheo, có chánh tư duy. Từ chánh tư duy, có chánh ngữ. Từ chánh ngữ,
+<!--pg-->
+2\. Từ chánh tri kiến, này các Tỷ-kheo, có chánh tư duy. Từ chánh tư duy, có chánh ngữ. Từ chánh ngữ,
 có chánh nghiệp. Từ chánh nghiệp, có chánh mạng. Từ chánh mạng, có chánh tinh tấn. Từ chánh tinh
 tấn, có chánh niệm. Từ chánh niệm, có chánh định. Từ chánh định, có chánh trí. Từ chánh trí, có chánh
 giải thoát.
 
 **(X) (122) Các Lậu Hoặc**
 
-1. Có mười pháp này, này các Tỷ-kheo, được tu tập, được làm cho sung mãn, đưa đến các lậu hoặc được
+<!--pg-->
+1\. Có mười pháp này, này các Tỷ-kheo, được tu tập, được làm cho sung mãn, đưa đến các lậu hoặc được
 đoạn diệt. Thế nào là mười?
 
-2. Chánh kiến, chánh tư duy, chánh ngữ, chánh nghiệp, chánh mạng, chánh tinh tấn, chánh niệm, chánh
+<!--pg-->
+2\. Chánh kiến, chánh tư duy, chánh ngữ, chánh nghiệp, chánh mạng, chánh tinh tấn, chánh niệm, chánh
 định, chánh trí, chánh giải thoát.
 Mười pháp này, này các Tỷ-kheo, được tu tập, được làm cho sung mãn, đưa đến các lậu hoặc được đoạn
 diệt.

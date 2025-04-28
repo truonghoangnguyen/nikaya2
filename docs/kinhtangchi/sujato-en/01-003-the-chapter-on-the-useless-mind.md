@@ -1,4 +1,4 @@
-## The Chapter on the Useless Mind
+# The Chapter on the Useless Mind
 
 ### N 1.21--30 *Akammaniyavagga*
 

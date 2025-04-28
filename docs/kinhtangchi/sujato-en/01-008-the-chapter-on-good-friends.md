@@ -1,4 +1,4 @@
-## The Chapter on Good Friends
+# The Chapter on Good Friends
 
 ### N 1.71--81 *Kalyāṇamittādivagga*
 

@@ -2,9 +2,11 @@
 
 **(I) (31) Bố Thí (1)**
 
-1. - Này các Tỷ-kheo, có tám bố thí này. Thế nào là tám?
+<!--pg-->
+1\. - Này các Tỷ-kheo, có tám bố thí này. Thế nào là tám?
 
-2. Vì có người đến, nên bố thí; Vì sợ hãi, nên bố thí; Vì nghĩ rằng: “Người ấy đã cho ta, nên bố thí; Vì
+<!--pg-->
+2\. Vì có người đến, nên bố thí; Vì sợ hãi, nên bố thí; Vì nghĩ rằng: “Người ấy đã cho ta, nên bố thí; Vì
 nghĩ rằng: “Người ấy sẽ cho ta, nên bố thí; Vì nghĩ rằng: “Bố thí là tốt”, nên bố thí; Vì nghĩ rằng: “Ta
 nấu, những người này không nấu. Thật Ta không xứng đáng là người nấu lại không cho người không
 nấu” nên bố thí; Vì nghĩ rằng: “Do ta cho bố thí này, nên tiếng tốt được truyền đi” nên bố thí; Vì trang
@@ -20,9 +22,11 @@ Những pháp thiện sĩ cầu
 
 **(III) (33) Căn Bản Ðể Bố Thí**
 
-1. - Này các Tỷ-kheo, có tám căn bản để bố thí. Thế nào là tám?
+<!--pg-->
+1\. - Này các Tỷ-kheo, có tám căn bản để bố thí. Thế nào là tám?
 
-2. Vì lòng dục nên bố thí; vì sân hận nên bố thí; vì ngu si nên bố thí; vì sợ hãi nên bố thí; vì nghĩ rằng:
+<!--pg-->
+2\. Vì lòng dục nên bố thí; vì sân hận nên bố thí; vì ngu si nên bố thí; vì sợ hãi nên bố thí; vì nghĩ rằng:
 “Trước tổ tiên đã bố thí, trước đã làm. Ta không xứng đáng là người để truyền thống này bị bỏ phế” nên
 bố thí; vì nghĩ rằng: “Sau khi cho bố thí này, khi thân hoại mạng chung, sẽ được sanh lên thiện phú,
 Thiên giới, cõi đời này “nên bố thí. Vì nghĩ rằng: “Khi ta bố thí này, tâm được tịnh tín, do hân hoan, hỷ
@@ -35,27 +39,32 @@ Này các Tỷ-kheo, có tám căn bản để bố thí này.
 1.- Này các Tỷ-kheo, hột giống được gieo vào thửa ruộng thành tựu tám chi phần được xem là không
 quả lớn, không vị ngọt lớn, không phải địa điểm tăng thịnh. Thế nào là thành tựu tám chi phần?
 
-2. Này các Tỷ-kheo, ở đây thửa ruộng lồi lên lõm xuống, đầy đá và sạn, đất mặn, không có bề sâu,
+<!--pg-->
+2\. Này các Tỷ-kheo, ở đây thửa ruộng lồi lên lõm xuống, đầy đá và sạn, đất mặn, không có bề sâu,
 không có chỗ nước chảy ra, không có chỗ nước chảy vào, không có nước chảy, không có bờ đê. Như
 vậy, này các Tỷ-kheo, hột giống được gieo vào thửa ruộng thành tựu được tám chi phần được xem là
 không quả lớn, không vị ngọt lớn, không phải địa điểm tăng thịnh. Cũng vậy, này các Tỷ-kheo, bố thí
 giữa những Sa-môn, Bà-la-môn thành tựu tám chi phần, không có quả lớn, không lợi ích lớn, không có
 rung cảm lớn. Thế nào là thành tựu tám chi phần?
 
-3. Ở đây, này các Tỷ-kheo, các Sa-môn, các Bà-la-môn có tà kiến, tà tư duy, tà ngữ, tà nghiệp, tà mạng,
+<!--pg-->
+3\. Ở đây, này các Tỷ-kheo, các Sa-môn, các Bà-la-môn có tà kiến, tà tư duy, tà ngữ, tà nghiệp, tà mạng,
 tà tinh tấn, tà niệm, tà định. Như vậy, này các Tỷ-kheo, bố thí giữa những Sa-môn, Bà-la-môn thành tựu
 tám chi phần, không có quả lớn, không lợi ích lớn, không có rung cảm lớn.
 
-4. Này các Tỷ-kheo, hột giống được gieo vào thửa ruộng thành tựu tám chi phần được xem là có quả
+<!--pg-->
+4\. Này các Tỷ-kheo, hột giống được gieo vào thửa ruộng thành tựu tám chi phần được xem là có quả
 lớn, có vị ngọt lớn, là địa điểm tăng thịnh. Thế nào là thành tựu tám chi phần?
 
-5. Này các Tỷ-kheo, ở đây thửa ruộng không lồi lên lõm xuống, không có đầy đá và sạn, không có đất
+<!--pg-->
+5\. Này các Tỷ-kheo, ở đây thửa ruộng không lồi lên lõm xuống, không có đầy đá và sạn, không có đất
 mặn, có bề sâu, có chỗ nước chảy ra, có chỗ nước chảy vào, có nước chảy, có bờ đê. Như vậy, này các
 Tỷ-kheo, hột giống được gieo vào thửa ruộng thành tựu tám chi phần được xem là có quả lớn, có vị ngọt
 lớn, là địa điểm tăng thịnh. Cũng vậy, này các Tỷ-kheo, bố thí giữa những Sa-môn, Bà-la-môn thành tựu
 tám chi phần, có quả lớn, lợi ích lớn, có rực rỡ lớn, có rung cảm lớn. Thế nào là thành tựu tám chi phần?
 
-6. Ở đây, này các Tỷ-kheo, các Sa-môn, các Bà-la-môn có chánh kiến, chánh tư duy, chánh ngữ, chánh
+<!--pg-->
+6\. Ở đây, này các Tỷ-kheo, các Sa-môn, các Bà-la-môn có chánh kiến, chánh tư duy, chánh ngữ, chánh
 nghiệp, chánh mạng, chánh tinh tấn, chánh niệm, chánh định. Như vậy, này các Tỷ-kheo, bố thí giữa
 những Sa-môn, Bà-la-môn thành tựu tám chi phần, có quả lớn, lợi ích lớn, có rực rỡ lớn, có rung cảm
 lớn.
@@ -92,9 +101,11 @@ _Tức đầy đủ vẹn toàn._
 
 **(V) (35) Thọ Sanh Do Bố Thí**
 
-1. - Này các Tỷ-kheo, có tám thọ sanh do bố thí. Thế nào là tám?
+<!--pg-->
+1\. - Này các Tỷ-kheo, có tám thọ sanh do bố thí. Thế nào là tám?
 
-2. Ở đây, này các Tỷ-kheo, có người bố thí cho Sa-môn hay Bà-la-môn với đồ ăn, đồ uống, vải mặc, xe
+<!--pg-->
+2\. Ở đây, này các Tỷ-kheo, có người bố thí cho Sa-môn hay Bà-la-môn với đồ ăn, đồ uống, vải mặc, xe
 cộ, vòng hoa, hương, dầu thoa, đồ nằm, trú xứ, đèn đuốc. Người ấy bố thí và mong hưởng quả. Thấy các
 Sát-đế-lỵ đại phú hay các Bà-la-môn đại phú, hay các gia chủ đại phú, sung túc, đầy đủ, thọ hưởng năm
 dục trưởng dưỡng, người ấy suy nghĩ như sau: “Mong rằng, sau khi thân hoại mạng chung, được sanh
@@ -104,6 +115,7 @@ thượng, sau khi thân hoại mạng chung, được sanh cọng trú với S�
 phú, hay với gia chủ đại phú. Ta nói rằng: “Người ấy là người giữ giới, không phải là người ác giới”.
 Này các Tỷ-kheo, người giữ giới thành công, vì tâm hướng đến thanh tịnh.
 
+<!--pg-->
 3-4. Ở đây, này các Tỷ-kheo, có người bố thí cho Sa-môn hay Bà-la-môn với đồ ăn, đồ uống, vải mặc,
 xe cộ, vòng hoa, hương, dầu thoa, đồ nằm, trú xứ, đèn đuốc. Người ấy bố thí và mong hưởng qua. Nghe
 rằng: “Bốn Thiên vương thiên sống lâu, có dung sắc, được nhiều an lạc”, người ấy suy nghĩ như sau:
@@ -116,7 +128,8 @@ vương ... ở cõi Tha hóa Tự tại thiên, hay với Bà-la-môn đại ph
 “Người ấy là người giữ giới, không phải là người ác giới”. Này các Tỷ-kheo, người giữ giới thành công,
 vì tâm hướng đến thanh tịnh.
 
-5. Ở đây, này các Tỷ-kheo, có người bố thí cho Sa-môn, Bà-la-môn với đồ ăn, đồ uống... Nghe rằng: “:
+<!--pg-->
+5\. Ở đây, này các Tỷ-kheo, có người bố thí cho Sa-môn, Bà-la-môn với đồ ăn, đồ uống... Nghe rằng: “:
 “Chư Thiên ở Phạm chúng thiên sống lâu, có dung sắc, được nhiều an lạc”, người ấy suy nghĩ như sau:
 “Mong rằng..” ....hay với gia chủ đại phú. Ta nói rằng: “Người ấy là người không giữ giới, không phải là
 người ác giới, là người ly tham, không phải là người có tham”. Này các Tỷ-kheo, người giữ giới thành
@@ -127,17 +140,21 @@ tham. Này các Tỷ-kheo, tám pháp này là tám pháp thọ sanh do bố th�
 
 1.- Này các Tỷ-kheo, có ba căn bản làm phước. Thế nào là ba?
 
-2. Căn bản làm phước do bố thí, căn bản làm phước do giới đức, căn bản làm phước do tu tập.
+<!--pg-->
+2\. Căn bản làm phước do bố thí, căn bản làm phước do giới đức, căn bản làm phước do tu tập.
 
-3. Ở đây, này các Tỷ-kheo, có hạng người căn bản làm phước do bố thí trên một quy mô nhỏ, căn bản
+<!--pg-->
+3\. Ở đây, này các Tỷ-kheo, có hạng người căn bản làm phước do bố thí trên một quy mô nhỏ, căn bản
 làm phước do giới đức trên một quy mô nhỏ, căn bản làm phước do tu tập trên một quy mô nhỏ. Người
 ấy, sau khi thân hoại mạng chung, được sanh làm người không may mắn.
 
-4. Ở đây, này các Tỷ-kheo, có hạng người căn bản làm phước do bố thí trên một quy mô vừa, căn bản
+<!--pg-->
+4\. Ở đây, này các Tỷ-kheo, có hạng người căn bản làm phước do bố thí trên một quy mô vừa, căn bản
 làm phước do giới đức trên một quy vừa, không đạt được căn bản làm phước do tu tập. Người ấy, sau
 khi thân hoại mạng chung được sanh làm người có may mắn.
 
-5. Ở đây, này các Tỷ-kheo, có hạng người căn bản làm phước do bố thí trên một quy mô to lớn, căn bản
+<!--pg-->
+5\. Ở đây, này các Tỷ-kheo, có hạng người căn bản làm phước do bố thí trên một quy mô to lớn, căn bản
 làm phước do giới đức trên một quy mô to lớn, nhưng không đạt được căn bản làm phước do tu tập.
 Người ấy, sau khi thân hoại mạng chung, được sanh cọng trú với chư Thiên ở Tam thập Tam thiên. Tại
 đây, này các Tỷ-kheo, Thiên chủ Sakka sau khi làm thật nhiều căn bản phước nghiệp do bố thí, sau khi
@@ -145,7 +162,8 @@ làm thật nhiều căn bản phước nghiệp do giới đức, vượt qua B
 chư Thiên, dung sắc chư Thiên, an lạc chư Thiên, danh tiếng chư Thiên, Tăng thượng lực chư Thiên,
 thiên sắc, thiên hương, thiên vị, thiên xúc.
 
-6. Ở đây, này các Tỷ-kheo, có hạng người căn bản làm phước do bố thí trên một quy mô to lớn, căn bản
+<!--pg-->
+6\. Ở đây, này các Tỷ-kheo, có hạng người căn bản làm phước do bố thí trên một quy mô to lớn, căn bản
 làm phước do giới đức trên một quy mô to lớn, nhưng không đạt được căn bản làm phước do tu tập.
 Người ấy, sau khi thân hoại mạng chung, được sanh cọng trú với chư Thiên ở Tam thập Tam thiên. Tại
 đây, này các Tỷ-kheo, Thiên chủ Sakka sau khi làm thật nhiều căn bản phước nghiệp do bố thí, sau khi
@@ -153,27 +171,31 @@ làm thật nhiều căn bản phước nghiệp do giới đức, vượt qua c
 thọ chư Thiên, dung sắc chư Thiên, an lạc chư Thiên, danh tiếng chư Thiên, Tăng thượng lực chư Thiên,
 thiên sắc, thiên hương, thiên vị, thiên xúc.
 
-7. Ở đây, này các Tỷ-kheo, có hạng người căn bản làm phước do bố thí trên một quy mô to lớn, căn bản
+<!--pg-->
+7\. Ở đây, này các Tỷ-kheo, có hạng người căn bản làm phước do bố thí trên một quy mô to lớn, căn bản
 làm phước do giới đức trên một quy mô to lớn, nhưng không đạt được căn bản làm phước do tu tập.
 Người ấy, sau khi thân hoại mạng chung, được sanh cọng trú với chư Thiên ở Yàma thiên. Tại đây, này
 các Tỷ-kheo, Thiên tử Suyàma sau khi làm thật nhiều căn bản phước nghiệp do bố thí, sau khi làm thật
 nhiều căn bản phước nghiệp do giới đức, vượt qua chư Thiên ở Yàma trên mười điểm: tuổi thọ chư
 Thiên, ... thiên vị, thiên xúc.
-8. Ở đây, này các Tỷ-kheo, có hạng người căn bản làm phước do bố thí trên một quy mô to lớn, căn bản
+<!--pg-->
+8\. Ở đây, này các Tỷ-kheo, có hạng người căn bản làm phước do bố thí trên một quy mô to lớn, căn bản
 làm phước do giới đức trên một quy mô to lớn, nhưng không đạt được căn bản làm phước do tu tập.
 Người ấy, sau khi thân hoại mạng chung, được sanh cọng trú với chư Thiên ở Tusità thiên. Tại đây, này
 các Tỷ-kheo, Thiên tử Santusità, sau khi làm thật nhiều căn bản phước nghiệp do bố thí, sau khi làm thật
 nhiều căn bản phước nghiệp do giới đức, vượt qua chư Thiên ở Tusità trên mười điểm: tuổi thọ chư
 Thiên, ... thiên vị, thiên xúc.
 
-9. Ở đây, này các Tỷ-kheo, có hạng người căn bản làm phước do bố thí trên một quy mô to lớn, căn bản
+<!--pg-->
+9\. Ở đây, này các Tỷ-kheo, có hạng người căn bản làm phước do bố thí trên một quy mô to lớn, căn bản
 làm phước do giới đức trên một quy mô to lớn, nhưng không đạt được căn bản làm phước do tu tập.
 Người ấy, sau khi thân hoại mạng chung, được sanh cọng trú với chư Thiên ở Hóa lạc thiên. Tại đây,
 này các Tỷ-kheo, Thiên tử Sunimmita, sau khi làm thật nhiều căn bản phước nghiệp do bố thí, sau khi
 làm thật nhiều căn bản phước nghiệp do giới đức, vượt qua chư Thiên ở Hóa lạc thiên trên mười điểm:
 tuổi thọ chư Thiên, ... thiên vị, thiên xúc.
 
-10. Ở đây, này các Tỷ-kheo, có hạng người căn bản làm phước do bố thí trên một quy mô to lớn, căn
+<!--pg-->
+10\. Ở đây, này các Tỷ-kheo, có hạng người căn bản làm phước do bố thí trên một quy mô to lớn, căn
 bản làm phước do giới đức trên một quy mô to lớn, nhưng không đạt được căn bản làm phước do tu tập.
 Người ấy, sau khi thân hoại mạng chung, được sanh cọng trú với chư Thiên ở Tha hóa tự tại thiên. Tại
 đây, này các Tỷ-kheo, Thiên tử Vasavattì, sau khi làm thật nhiều căn bản phước nghiệp do bố thí, sau
@@ -184,9 +206,11 @@ Này các Tỷ-kheo, có ba căn bản phước nghiệp này.
 
 **(VII) (37) Người Chân Nhân (1)**
 
-1. - Này các Tỷ-kheo, có tám bố thí này của bậc chân nhân. Thế nào là tám?
+<!--pg-->
+1\. - Này các Tỷ-kheo, có tám bố thí này của bậc chân nhân. Thế nào là tám?
 
-2. Cho vật trong sạch; cho vật thù diệu; cho đúng thời; cho vật thích ứng; cho với sự cẩn thận; cho luôn
+<!--pg-->
+2\. Cho vật trong sạch; cho vật thù diệu; cho đúng thời; cho vật thích ứng; cho với sự cẩn thận; cho luôn
 luôn; tâm cho được tịnh tín; sau khi cho được hoan hỷ.
 
 Này các Tỷ-kheo, có tám bố thí này của bậc chân nhân:
@@ -208,14 +232,16 @@ _Bậc trí sanh ở đời._
 
 **(VIII) (38) Người Chân Nhân (2)**
 
-1. - Này các Tỷ-kheo, bậc chân nhân sinh ra trong gia đình nào, đem lại lợi ích, hạnh phúc, an lạc cho
+<!--pg-->
+1\. - Này các Tỷ-kheo, bậc chân nhân sinh ra trong gia đình nào, đem lại lợi ích, hạnh phúc, an lạc cho
 nhiều người; đem lại lợi ích, hạnh phúc, an lạc cho cha mẹ; đem lại lợi ích, hạnh phúc, an lạc cho vợ
 con; đem lại lợi ích, hạnh phúc, an lạc cho người phục vụ, người làm công; đem lại lợi ích, hạnh phúc,
 an lạc cho bạn bè thân hữu; đem lại lợi ích, hạnh phúc, an lạc cho các hương linh đã mất; đem lại lợi ích,
 hạnh phúc, an lạc cho vua chúa; đem lại lợi ích, hạnh phúc, an lạc cho chư Thiên; đem lại lợi ích, hạnh
 phúc, an lạc cho Sa-môn, Bà-la-môn.
 
-2. Ví như, này các Tỷ-kheo, một cơn mưa lớn làm cho các loại mùa màng đều thành tựu đầy đủ, đem lại
+<!--pg-->
+2\. Ví như, này các Tỷ-kheo, một cơn mưa lớn làm cho các loại mùa màng đều thành tựu đầy đủ, đem lại
 lợi ích, hạnh phúc, an lạc cho nhiều người. Cũng vậy, này các Tỷ-kheo, bậc Chân nhân sinh ra trong gia
 đình nào, đem lại lợi ích, hạnh phúc, an lạc cho nhiều người; đem lại lợi ích, hạnh phúc, an lạc cho cha
 mẹ; đem lại lợi ích, hạnh phúc, an lạc cho vợ con; đem lại lợi ích, hạnh phúc, an lạc cho người phục vụ,
@@ -249,20 +275,25 @@ _Hưởng cuộc đời hạnh phúc._
 nhơn sanh Thiên, quả dị thục an lạc, đưa đến cõi trời, dẫn đến khả ái, khả hỷ, khả ý, hạnh phúc, an lạc.
 Thế nào là tám?
 
-2. Ở đây, này các Tỷ-kheo, Thánh đệ tử quy y Phật. Này các Tỷ-kheo, đây là nguồn nước công đức thứ
+<!--pg-->
+2\. Ở đây, này các Tỷ-kheo, Thánh đệ tử quy y Phật. Này các Tỷ-kheo, đây là nguồn nước công đức thứ
 nhất, là nguồn nước thiện ... hạnh phúc, an lạc.
 
-3. Lại nữa, này các Tỷ-kheo, Thánh đệ tử quy y Pháp. Này các Tỷ-kheo, đây là nguồn nước công đức
+<!--pg-->
+3\. Lại nữa, này các Tỷ-kheo, Thánh đệ tử quy y Pháp. Này các Tỷ-kheo, đây là nguồn nước công đức
 thứ hai, là nguồn nước thiện ... hạnh phúc, an lạc.
 
-4. Lại nữa, này các Tỷ-kheo, Thánh đệ tử quy y Tăng. Này các Tỷ-kheo, đây là nguồn nước công đức
+<!--pg-->
+4\. Lại nữa, này các Tỷ-kheo, Thánh đệ tử quy y Tăng. Này các Tỷ-kheo, đây là nguồn nước công đức
 thứ ba, là nguồn nước thiện ... hạnh phúc, an lạc.
 
-5. Này các Tỷ-kheo, có năm bố thí này, là đại bố thí, được biết là tối sơ, được biết là lâu ngày, được biết
+<!--pg-->
+5\. Này các Tỷ-kheo, có năm bố thí này, là đại bố thí, được biết là tối sơ, được biết là lâu ngày, được biết
 là truyền thống cổ xưa, trước không tạp loạn, hiện tại không tạp loạn, tương lai không tạp loạn, không bị
 những Sa-môn, những Bà-la-môn có trí khinh thường. Thế nào là năm?
 
-6. Ở đây, này các Tỷ-kheo, Thánh đệ tử đoạn tận sát sanh, từ bỏ sát sanh, Này các Tỷ Kheo vị Thánh đệ
+<!--pg-->
+6\. Ở đây, này các Tỷ-kheo, Thánh đệ tử đoạn tận sát sanh, từ bỏ sát sanh, Này các Tỷ Kheo vị Thánh đệ
 tử từ bỏ sát sanh, đem cho không sợ hãi cho vô lượng chúng sanh, đem cho không hận thù cho vô lượng
 chúng sanh, đem cho không hại cho vô lượng chúng sanh; sau khi cho vô lượng chúng sanh, không sợ
 hãi, không hận thù, không hại, vị ấy sẽ được san sẽ vô lượng không sợ hãi, không hận thù, không hại.
@@ -270,7 +301,8 @@ Này các Tỷ-kheo, đây là bố thí thứ nhất, là đại bố thí, đ�
 bị những Sa-môn, những Bà-la-môn có trí khinh thường. Này các Tỷ-kheo, đây là nguồn nước công đức
 thứ tư, là nguồn nước thiện ... dẫn đến khả ái, khả hỷ, khả ý, hạnh phúc, an lạc.
 
-7. Lại nữa, này các Tỷ-kheo, Thánh đệ tử đoạn tận lấy của không cho, từ bỏ lấy của không cho ... đoạn
+<!--pg-->
+7\. Lại nữa, này các Tỷ-kheo, Thánh đệ tử đoạn tận lấy của không cho, từ bỏ lấy của không cho ... đoạn
 tận tà hạnh trong các dục, từ bỏ tà hạnh trong các dục ... đoạn tận nói láo, từ bỏ nói láo ... đoạn tận đắm
 say rượu men, rượu nấu,từ bỏ đắm say rượu mem rượu nấu. Này các Tỷ kheo Thành Ðệ Tử đoạn tận
 đắm say rượu men, rượu nấu,từ bỏ đắm say rượu mem rượu nấu, đem cho không sợ hãi cho vô lượng
@@ -290,30 +322,37 @@ sanh Thiên, quả dị thục an lạc, đưa đến cõi trời, dẫn đến 
 đưa đến loại bàng sanh, đưa đến cõi ngạ quỷ. Quả dị thục hết sức nhẹ của sát sanh là được làm người với
 tuổi thọ ngắn.
 
-2. Này các Tỷ-kheo, lấy của không cho được thực hiện, được tu tập, được làm cho sung mãn, đưa đến
+<!--pg-->
+2\. Này các Tỷ-kheo, lấy của không cho được thực hiện, được tu tập, được làm cho sung mãn, đưa đến
 địa ngục, đưa đến loại bàng sanh, đưa đến cõi ngạ quỷ. Quả dị thục hết sức nhẹ của lấy của không cho là
 được làm người với sự tổn hại tài sản.
 
-3. Này các Tỷ-kheo, tà hạnh trong các dục được thực hiện, được tu tập, được làm cho sung mãn, đưa đến
+<!--pg-->
+3\. Này các Tỷ-kheo, tà hạnh trong các dục được thực hiện, được tu tập, được làm cho sung mãn, đưa đến
 địa ngục, đưa đến loại bàng sanh, đưa đến cõi ngạ quỷ. Quả dị thục hết sức nhẹ của tà hạnh trong các
 dục là được làm người với sự oán thù của kẻ địch.
 
-4. Này các Tỷ-kheo, nói láo được thực hiện, được tu tập, được làm cho sung mãn, đưa đến địa ngục, đưa
+<!--pg-->
+4\. Này các Tỷ-kheo, nói láo được thực hiện, được tu tập, được làm cho sung mãn, đưa đến địa ngục, đưa
 đến loại bàng sanh, đưa đến cõi ngạ quỷ. Quả dị thục hết sức nhẹ của nói láo là được làm người bị vu
 cáo không đúng sự thật.
 
-5. Này các Tỷ-kheo, nói hai lưỡi được thực hiện, được tu tập, được làm cho sung mãn, đưa đến địa ngục,
+<!--pg-->
+5\. Này các Tỷ-kheo, nói hai lưỡi được thực hiện, được tu tập, được làm cho sung mãn, đưa đến địa ngục,
 đưa đến loại bàng sanh, đưa đến cõi ngạ quỷ. Quả dị thục hết sức nhẹ của nói hai lưỡi là được làm người
 với bạn bè bị đổ vỡ.
 
-6. Này các Tỷ-kheo, nói ác khẩu được thực hiện, được tu tập, được làm cho sung mãn, đưa đến địa ngục,
+<!--pg-->
+6\. Này các Tỷ-kheo, nói ác khẩu được thực hiện, được tu tập, được làm cho sung mãn, đưa đến địa ngục,
 đưa đến loại bàng sanh, đưa đến cõi ngạ quỷ. Quả dị thục hết sức nhẹ của nói ác khẩu là được làm người
 và được nghe những tiếng không khả ý.
-7. Này các Tỷ-kheo, nói lời phù phiếm được thực hiện, được tu tập, được làm cho sung mãn, đưa đến địa
+<!--pg-->
+7\. Này các Tỷ-kheo, nói lời phù phiếm được thực hiện, được tu tập, được làm cho sung mãn, đưa đến địa
 ngục, đưa đến loại bàng sanh, đưa đến cõi ngạ quỷ. Quả dị thục hết sức nhẹ của nói lời phù phiếm là
 được làm người và được nghe những lời khó chấp nhận.
 
-8. Này các Tỷ-kheo, uống men rượu, rượu nấu, được thực hiện, được tu tập, được làm cho sung mãn,
+<!--pg-->
+8\. Này các Tỷ-kheo, uống men rượu, rượu nấu, được thực hiện, được tu tập, được làm cho sung mãn,
 đưa đến địa ngục, đưa đến loại bàng sanh, đưa đến cõi ngạ quỷ. Quả dị thục hết sức nhẹ của uống rượu
 mem rượu nấu là được làm người với tâm điên loạn.
 

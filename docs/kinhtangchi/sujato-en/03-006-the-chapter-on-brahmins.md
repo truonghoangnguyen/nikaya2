@@ -1,4 +1,4 @@
-## The Chapter on Brahmins
+# The Chapter on Brahmins
 
 ### N 3.51 Two Brahmins (1st)  *Paṭhamadvebrāhmaṇasutta*
 
@@ -31,6 +31,7 @@ refuge, and haven for the departed.
 > leads the departed to happiness,\
 > as the good deeds done while living."
 
+<!--pg-->
 ### N 3.52 Two Brahmins (2nd)  *Dutiyadvebrāhmaṇasutta*
 
 Then two old brahmins---elderly and senior, who were advanced in years
@@ -65,6 +66,7 @@ refuge, and haven for the departed.
 > leads the departed to happiness,\
 > as the good deeds done while living."
 
+<!--pg-->
 ### N 3.53 A Certain Brahmin  *Aññatarabrāhmaṇasutta*
 
 Then a brahmin went up to the Buddha, and exchanged greetings with him.
@@ -104,9 +106,10 @@ overturned, or revealing the hidden, or pointing out the path to the
 lost, or lighting a lamp in the dark so people with clear eyes can see
 what's there, Mister Gotama has made the teaching clear in many ways. I
 go for refuge to Mister Gotama, to the teaching, and to the mendicant
-[Saṅgha]{lang="sa"}. From this day forth, may Mister Gotama remember me
+Saṅgha. From this day forth, may Mister Gotama remember me
 as a lay follower who has gone for refuge for life."
 
+<!--pg-->
 ### N 3.54 A Wanderer  *Paribbājakasutta*
 
 Then a brahmin wanderer went up to the Buddha ... Seated to one side he
@@ -154,9 +157,10 @@ that sensible people can know it for themselves."
 Mister Gotama remember me as a lay follower who has gone for refuge for
 life."
 
+<!--pg-->
 ### N 3.55 Quenched  *Nibbutasutta*
 
-Then the brahmin [Jānussoṇi]{lang="sa"} went up to the Buddha, bowed,
+Then the brahmin Jānussoṇi went up to the Buddha, bowed,
 sat down to one side, and said to the Buddha:
 
 "Mister Gotama, they say that 'extinguishment is apparent in the present
@@ -187,6 +191,7 @@ sensible people can know it for themselves."
 Mister Gotama remember me as a lay follower who has gone for refuge for
 life."
 
+<!--pg-->
 ### N 3.56 Falling Apart  *Palokasutta*
 
 Then a well-to-do Brahmin went up to the Buddha, and seated to one side
@@ -220,6 +225,7 @@ dwindled."
 Mister Gotama remember me as a lay follower who has gone for refuge for
 life."
 
+<!--pg-->
 ### N 3.57 With Vacchagotta  *Vacchagottasutta*
 
 Then the wanderer Vacchagotta went up to the Buddha, and exchanged
@@ -316,11 +322,12 @@ possesses these five factors is very fruitful.
 > Gradually those astute ones\
 > reach extinguishment."
 
+<!--pg-->
 ### N 3.58 With Tikaṇṇa  *Tikaṇṇasutta*
 
-Then [Tikaṇṇa]{lang="sa"} the brahmin went up to the Buddha, and
+Then Tikaṇṇa the brahmin went up to the Buddha, and
 exchanged greetings with him. Seated to one side, in front of the
-Buddha, [Tikaṇṇa]{lang="sa"} praised the brahmins who were proficient in
+Buddha, Tikaṇṇa praised the brahmins who were proficient in
 the three Vedas, "Such are the brahmins, masters of the three Vedic
 knowledges! Thus are the brahmins, masters of the three Vedic
 knowledges!"
@@ -347,7 +354,7 @@ training of the Noble One? Mister Gotama, please teach me this."
 
 "Well then, brahmin, listen and apply your mind well, I will speak."
 
-"Yes sir," [Tikaṇṇa]{lang="sa"} replied. The Buddha said this:
+"Yes sir," Tikaṇṇa replied. The Buddha said this:
 
 "Brahmin, it's when a mendicant, quite secluded from sensual pleasures,
 secluded from unskillful qualities, enters and remains in the first
@@ -364,7 +371,7 @@ giving up of pleasure and pain, and the ending of former happiness and
 sadness, they enter and remain in the fourth absorption, without
 pleasure or pain, with pure equanimity and mindfulness.
 
-When their mind has become immersed in [samādhi]{lang="sa"} like
+When their mind has become immersed in samādhi like
 this---purified, bright, flawless, rid of corruptions, pliable,
 workable, steady, and imperturbable---they extend it toward recollection
 of past lives. They recollect many kinds of past lives. That is: one,
@@ -383,7 +390,7 @@ This is the first knowledge that they attain. Ignorance is destroyed and
 knowledge has arisen; darkness is destroyed and light has arisen, as
 happens for a meditator who is diligent, keen, and resolute.
 
-When their mind has become immersed in [samādhi]{lang="sa"} like
+When their mind has become immersed in samādhi like
 this---purified, bright, flawless, rid of corruptions, pliable,
 workable, steady, and imperturbable---they extend it toward knowledge of
 the death and rebirth of sentient beings. With clairvoyance that is
@@ -406,7 +413,7 @@ is the second knowledge that they attain. Ignorance is destroyed and
 knowledge has arisen; darkness is destroyed and light has arisen, as
 happens for a meditator who is diligent, keen, and resolute.
 
-When their mind has become immersed in [samādhi]{lang="sa"} like
+When their mind has become immersed in samādhi like
 this---purified, bright, flawless, rid of corruptions, pliable,
 workable, steady, and imperturbable---they extend it toward knowledge of
 the ending of defilements. They truly understand: 'This is suffering'
@@ -464,9 +471,10 @@ the three knowledges in the training of the Noble One.
 Excellent, Mister Gotama! Excellent! ... From this day forth, may Mister
 Gotama remember me as a lay follower who has gone for refuge for life."
 
+<!--pg-->
 ### N 3.59 With Jānussoṇi  *Jāṇussoṇisutta*
 
-Then the brahmin [Jānussoṇi]{lang="sa"} went up to the Buddha, and
+Then the brahmin Jānussoṇi went up to the Buddha, and
 exchanged greetings with him. Seated to one side he said to the Buddha:
 
 "Mister Gotama, whoever has a sacrifice, an offering of food for
@@ -496,12 +504,12 @@ training of the Noble One? Mister Gotama, please teach me this."
 
 "Well then, brahmin, listen and apply your mind well, I will speak."
 
-"Yes sir," [Jānussoṇi]{lang="sa"} replied. The Buddha said this:
+"Yes sir," Jānussoṇi replied. The Buddha said this:
 
 "Brahmin, it's when a mendicant, quite secluded from sensual pleasures
 ... enters and remains in the fourth absorption.
 
-When their mind has become immersed in [samādhi]{lang="sa"} like
+When their mind has become immersed in samādhi like
 this---purified, bright, flawless, rid of corruptions, pliable,
 workable, steady, and imperturbable---they extend it toward recollection
 of past lives. They recollect many kinds of past lives, with features
@@ -509,7 +517,7 @@ and details. This is the first knowledge that they attain. Ignorance is
 destroyed and knowledge has arisen; darkness is destroyed and light has
 arisen, as happens for a meditator who is diligent, keen, and resolute.
 
-When their mind has become immersed in [samādhi]{lang="sa"} like
+When their mind has become immersed in samādhi like
 this---purified, bright, flawless, rid of corruptions, pliable,
 workable, steady, and imperturbable---they extend it toward knowledge of
 the death and rebirth of sentient beings. With clairvoyance that is
@@ -519,7 +527,7 @@ they attain. Ignorance is destroyed and knowledge has arisen; darkness
 is destroyed and light has arisen, as happens for a meditator who is
 diligent, keen, and resolute.
 
-When their mind has become immersed in [samādhi]{lang="sa"} like
+When their mind has become immersed in samādhi like
 this---purified, bright, flawless, rid of corruptions, pliable,
 workable, steady, and imperturbable---they extend it toward knowledge of
 the ending of defilements. They truly understand: 'This is suffering'
@@ -567,9 +575,10 @@ the three knowledges in the training of the Noble One.
 Excellent, Mister Gotama! Excellent! ... From this day forth, may Mister
 Gotama remember me as a lay follower who has gone for refuge for life."
 
+<!--pg-->
 ### N 3.60 With Saṅgārava  *Saṅgāravasutta*
 
-Then [Saṅgārava]{lang="sa"} the brahmin went up to the Buddha, and
+Then Saṅgārava the brahmin went up to the Buddha, and
 exchanged greetings with him. When the greetings and polite conversation
 were over, he sat down to one side and said to the Buddha:
 
@@ -601,34 +610,34 @@ one person or for many people on account of going forth?"
 "This being so, Mister Gotama, they are doing good for many people on
 account of going forth."
 
-When he said this, Venerable Ānanda said to [Saṅgārava]{lang="sa"},
+When he said this, Venerable Ānanda said to Saṅgārava,
 "Brahmin, which of these two practices do you believe has fewer
 requirements and undertakings, yet is more fruitful and beneficial?"
 
-[Saṅgārava]{lang="sa"} said to Ānanda, "Those such as misters Gotama and
+Saṅgārava said to Ānanda, "Those such as misters Gotama and
 Ānanda are honored and praised by me!"
 
-For a second time, Ānanda said to [Saṅgārava]{lang="sa"}, "Brahmin, I
+For a second time, Ānanda said to Saṅgārava, "Brahmin, I
 didn't ask you who you honor and praise. I asked you which of these two
 practices do you believe has fewer requirements and undertakings, yet is
 more fruitful and beneficial?"
 
-For a second time [Saṅgārava]{lang="sa"} said to Ānanda, "Those such as
+For a second time Saṅgārava said to Ānanda, "Those such as
 misters Gotama and Ānanda are honored and praised by me!"
 
-For a third time, Ānanda said to [Saṅgārava]{lang="sa"}, "Brahmin, I
+For a third time, Ānanda said to Saṅgārava, "Brahmin, I
 didn't ask you who you honor and praise. I asked you which of these two
 practices do you believe has fewer requirements and undertakings, yet is
 more fruitful and beneficial?"
 
-For a third time [Saṅgārava]{lang="sa"} said to Ānanda, "Those such as
+For a third time Saṅgārava said to Ānanda, "Those such as
 misters Gotama and Ānanda are honored and praised by me!"
 
 Then it occurred to the Buddha, "Though Ānanda asked him a sensible
-question three times, [Saṅgārava]{lang="sa"} falters without answering.
+question three times, Saṅgārava falters without answering.
 Why don't I give him a way out?"
 
-So the Buddha said to [Saṅgārava]{lang="sa"}, "Brahmin, what came up in
+So the Buddha said to Saṅgārava, "Brahmin, what came up in
 the conversation among the king's retinue today, sitting together in the
 royal compound?"
 
@@ -731,13 +740,13 @@ many more than that."
 
 "But where are these mendicants now staying?"
 
-"Right here, brahmin, in this [Saṅgha]{lang="sa"} of mendicants."
+"Right here, brahmin, in this Saṅgha of mendicants."
 
 "Excellent, Mister Gotama! Excellent! As if he were righting the
 overturned, or revealing the hidden, or pointing out the path to the
 lost, or lighting a lamp in the dark so people with clear eyes can see
 what's there, Mister Gotama has made the teaching clear in many ways. I
 go for refuge to Mister Gotama, to the teaching, and to the mendicant
-[Saṅgha]{lang="sa"}. From this day forth, may Mister Gotama remember me
+Saṅgha. From this day forth, may Mister Gotama remember me
 as a lay follower who has gone for refuge for life."
 

@@ -11,20 +11,23 @@ hữu của vua, là biểu tượng của vua. Thế nào là bốn?
 Thành tựu bốn chi phần này, này các Tỷ-kheo, một chiến sĩ xứng đáng để cho vua sử dụng, thuộc sở hữu
 của vua, là biểu tượng của vua.
 
-2. Cũng vậy, này các Tỷ-kheo, thành tựu bốn pháp này, Tỷ-kheo đáng được cung kính, xứng đáng được
+<!--pg-->
+2\. Cũng vậy, này các Tỷ-kheo, thành tựu bốn pháp này, Tỷ-kheo đáng được cung kính, xứng đáng được
 tôn trọng, xứng đáng được cúng dường, xứng đáng được chắp tay, là ruộng phước vô thượng ở đời. Thế
 nào là bốn?
 
 Ở đây, này các Tỷ-kheo, Tỷ-kheo thiện xảo về xạ trình, là người bắn xa, bắn như chớp nhoáng, và đâm
 thủng được vật lớn.
 
-3. Và này các Tỷ-kheo, thế nào là Tỷ-kheo thiện xảo về xạ trình?
+<!--pg-->
+3\. Và này các Tỷ-kheo, thế nào là Tỷ-kheo thiện xảo về xạ trình?
 
 Ở đây, này các Tỷ-kheo, vị Tỷ-kheo là người có giới, sống chế ngự với sự chế ngự của giới bổn
 Patimokkha, có uy nghi chánh hạnh, thấy sợ hãi trong những lỗi nhỏ, chấp nhận và học tập các học
 pháp. Như vậy, này các Tỷ-kheo, là Tỷ-kheo thiện xảo về xạ trình.
 
-4. Và này các Tỷ-kheo, thế nào là Tỷ-kheo bắn xa?
+<!--pg-->
+4\. Và này các Tỷ-kheo, thế nào là Tỷ-kheo bắn xa?
 
 Ở đây, này các Tỷ-kheo, Tỷ-kheo phàm sắc gì thuộc về quá khứ, vị lai, hiện tại, nội hay ngoại, thô hay
 tế, liệt hay thắng, xa hay gần, tất cả sắc, vị ấy thấy như thật với chánh trí tuệ rằng: “Cái này không phải
@@ -46,13 +49,15 @@ Phàm có thức gì thuộc quá khứ, vị lai, hiện tại, nội hay ngo�
 cả các thức, vị ấy thấy như thật với chánh trí tuệ rằng: “Cái này không phải của tôi, cái này không phải
 là tôi, cái này không phải tự ngã của tôi”.
 
-5. Và này các Tỷ-kheo, thế nào là Tỷ-kheo bắn như chớp nhoáng?
+<!--pg-->
+5\. Và này các Tỷ-kheo, thế nào là Tỷ-kheo bắn như chớp nhoáng?
 
 Ở đây, này các Tỷ-kheo, Tỷ-kheo như thật quán tri: “Ðây là khổ”, như thật quán tri: “Ðây là khổ tập”;
 như thật quán tri: “Ðây là khổ diệt”, như thật quán tri “Ðây là con đường đưa đến khổ diệt”. Như vậy,
 này các Tỷ-kheo, là Tỷ-kheo bắn như chớp nhoáng.
 
-6. Và này các Tỷ-kheo, như thế nào là Tỷ-kheo đâm thủng vật to lớn?
+<!--pg-->
+6\. Và này các Tỷ-kheo, như thế nào là Tỷ-kheo đâm thủng vật to lớn?
 
 Ở đây, này các Tỷ-kheo, Tỷ-kheo đâm thủng vô minh uẩn to lớn. Như vậy, này các Tỷ-kheo, là Tỷ-kheo
 đâm thủng vật to lớn.
@@ -66,13 +71,16 @@ trọng, xứng đáng được cúng dường, xứng đáng được chắp ta
 có được sự an toàn đối với bốn pháp. Thế nào là bốn?
 
 Bản tánh bị già, mong rằng không già, không một Sa-môn, Bà-la-môn, Thiên, Nhân ... đối với pháp này.
-2. Bản tánh bị bệnh, mong rằng không bệnh, không một Sa-môn, Bà-la-môn, Thiên, Nhân ... đối với
+<!--pg-->
+2\. Bản tánh bị bệnh, mong rằng không bệnh, không một Sa-môn, Bà-la-môn, Thiên, Nhân ... đối với
 pháp này.
 
-3. Bản tánh bị chết, mong rằng không bị chết, không một Sa-môn, Bà-la-môn, Thiên, Nhân ... đối với
+<!--pg-->
+3\. Bản tánh bị chết, mong rằng không bị chết, không một Sa-môn, Bà-la-môn, Thiên, Nhân ... đối với
 pháp này.
 
-4. Khổ quả của những ác nghiệp ấy (những nghiệp) tạp nhiễm, đưa đến tái sanh, đem lại phiền muộn,
+<!--pg-->
+4\. Khổ quả của những ác nghiệp ấy (những nghiệp) tạp nhiễm, đưa đến tái sanh, đem lại phiền muộn,
 đem lại khổ quả dị thục sanh, già, chết trong tương lai, kết quả của những nghiện ngập ấy mong rằng
 không có hiện hữu. không một Sa-môn, Bà-la-môn, Thiên, Nhân, Màra, Phạm thiên hay một ai ở đời có
 được sự an toàn đối với bốn pháp này.
@@ -82,7 +90,8 @@ Này các Tỷ-kheo, không một Sa-môn, Bà-la-môn, Thiên, Nhân, Màra, Ph
 
 **(III) (183) Ðiều Ðược Nghe**
 
-1. Một thời, Thế Tôn trú ở Ràjagaha (Vương Xá) tại Veluvana (Trúc Lâm), chỗ nuôi dưỡng các con sóc.
+<!--pg-->
+1\. Một thời, Thế Tôn trú ở Ràjagaha (Vương Xá) tại Veluvana (Trúc Lâm), chỗ nuôi dưỡng các con sóc.
 Rồi Bà-la-môn Vassakàra, vị đại thần nước Magadha đi đến Thế Tôn, sau khi đến, nói lên với Thế Tôn
 những lời chào đón thăm hỏi. Sau khi nói lên với Thế Tôn những lời chào đón thăm hỏi thân hữu, Bà-lamôn Vassakàra, vị đại thần nước Magadha bạch Thế Tôn:
 
@@ -92,14 +101,16 @@ Do vậy, người ấy không có lỗi gì. Khi người nào nói lên điề
 Do vậy, người ấy không có lỗi gì. Khi người nào nói lên điều mình thức tri: “Tôi thức tri như vậy”. Do
 vậy, người ấy không có lỗi gì”.
 
-2. - Này Bà-la-môn, Ta không nói rằng: “Tất cả điều được thấy cần phải nói ra”. Này Bà-la-môn, Ta
+<!--pg-->
+2\. - Này Bà-la-môn, Ta không nói rằng: “Tất cả điều được thấy cần phải nói ra”. Này Bà-la-môn, Ta
 không nói rằng: “Tất cả điều được thấy không nên nói ra”. Này Bà-la-môn, Ta không nói rằng: “Tất cả
 điều được nghe nên nói ra”. Này Bà-la-môn, Ta không nói rằng: “Tất cả điều được nghe không nên nói
 ra”. Này Bà-la-môn, Ta không nói rằng: “Tất cả điều được cảm giác nên nói ra”. Ta không nói rằng:
 “Tất cả điều được cảm giác không nên nói ra”. Ta không nói rằng: “Tất cả điều được thức tri nên nói
 ra”. Ta không nói rằng: “Tất cả điều được thức tri không nên nói ra”.
 
-3. Này Bà-la-môn, phàm nói lên điều thấy gì, các pháp bất thiện tăng trưởng, các pháp thiện tổn giảm,
+<!--pg-->
+3\. Này Bà-la-môn, phàm nói lên điều thấy gì, các pháp bất thiện tăng trưởng, các pháp thiện tổn giảm,
 Ta nói rằng điều thấy như vậy không nên nói ra. Và này Bà-la-môn, phàm nói lên điều thấy gì, các pháp
 bất thiện tổn giảm, các pháp thiện tăng trưởng, Ta nói rằng điều thấy như vậy nên nói ra. Này Bà-lamôn, phàm nói ra điều nghe gì ... phàm nói ra điều cảm giác gì ... phàm nói ra điều thức tri gì ... các
 pháp bất thiện tăng trưởng, các pháp thiện tổn giảm, Ta nói rằng điều thức tri như vậy không nên nói ra.
@@ -111,14 +122,16 @@ dậy rồi ra đi.
 
 **(IV) (184) Không Sợ Hãi**
 
-1. Rồi Bà-la-môn Jànussoni đi đến Thế Tôn; sau khi đến, nói lên với Thế Tôn những lời chào đón hỏi
+<!--pg-->
+1\. Rồi Bà-la-môn Jànussoni đi đến Thế Tôn; sau khi đến, nói lên với Thế Tôn những lời chào đón hỏi
 thăm ... Ngồi xuống một bên, Bà-la-môn Jànussoni bạch Thế Tôn:
 − Thưa Tôn giả Gotama, tôi nói như sau, tôi thấy như sau: “Không có một ai bản tánh bị chết mà không
 sợ hãi, không rơi vào run sợ, khi nghĩ đến chết”.
 
 − Này Bà-la-môn, có người bản tánh bị chết, sợ hãi, rơi vào run sợ khi nghĩ đến chết. Nhưng này Bà-lamôn, có người bản tánh bị chết, không sợ hãi, không rơi vào run sợ khi nghĩ đến chết.
 
-2. Và này Bà-la-môn, thế nào là người bản tánh bị chết, sợ hãi, rơi vào run sợ khi nghĩ đến chết?
+<!--pg-->
+2\. Và này Bà-la-môn, thế nào là người bản tánh bị chết, sợ hãi, rơi vào run sợ khi nghĩ đến chết?
 
 Ở đây, này Bà-la-môn, có người không ly tham đối với các dục, không ly ham muốn, không ly luyến ái,
 không ly khát ái, không ly nhiệt não, không ly tham ái. Rồi một chứng bệnh trầm trọng khởi lên cho
@@ -126,13 +139,15 @@ người ấy. Người ấy bị cảm thọ chứng bệnh trầm trọng ấy
 bỏ ta”, hay “Ta sẽ từ bỏ các dục khả ái”. Người ấy sầu muộn, than vãn, khóc lóc, đập ngực, rơi vào bất
 tỉnh. Này Bà-la-môn, đây là người bản tánh bị chết, sợ hãi, rơi vào run sợ khi nghĩ đến chết.
 
-3. Lại nữa, này Bà-la-môn, ở đây có người không ly tham đối với thân ... Rồi một chứng bệnh trầm
+<!--pg-->
+3\. Lại nữa, này Bà-la-môn, ở đây có người không ly tham đối với thân ... Rồi một chứng bệnh trầm
 trọng khởi lên cho người ấy. Người ấy bị cảm thọ bởi chứng bệnh trầm trọng ấy, suy nghĩ như sau:
 “Thật sự thân khả ái sẽ bỏ ta”, hay “Ta sẽ từ bỏ thân khả ái”. Người ấy sầu muộn, than vãn, khóc lóc,
 đập ngực, rơi vào bất tỉnh. Này Bà-la-môn, đây là người bản tánh bị chết, sợ hãi, rơi vào run sợ khi nghĩ
 đến chết.
 
-4. Lại nữa, này Bà-la-môn, ở đây có hạng người không làm điều lành, không làm điều thiện, không che
+<!--pg-->
+4\. Lại nữa, này Bà-la-môn, ở đây có hạng người không làm điều lành, không làm điều thiện, không che
 chở kẻ sợ hãi, làm điều ác, làm điều hung bạo, làm điều phạm pháp. Rồi một chứng bệnh trầm trọng
 khởi lên cho người ấy. Người ấy bị cảm thọ bởi chứng bệnh trầm trọng ấy, suy nghĩ như sau: “Thật sự ta
 không làm điều lành, không làm điều thiện, không che chở kẻ sợ hãi, làm điều ác, làm điều hung bạo,
@@ -141,13 +156,15 @@ không che chở kẻ sợ hãi, làm điều ác, làm điều hung bạo, làm
 đến sanh thú ấy. Người ấy sầu muộn, than vãn, khóc lóc, đập ngực, rơi vào bất tỉnh. Này Bà-la-môn, đây
 là người bản tánh bị chết, sợ hãi, rơi vào run sợ khi nghĩ đến chết.
 
-5. Lại nữa, này Bà-la-môn, ở đây có hạng người nghi ngờ do dự, không đi đến kết luận đối với diệu
+<!--pg-->
+5\. Lại nữa, này Bà-la-môn, ở đây có hạng người nghi ngờ do dự, không đi đến kết luận đối với diệu
 pháp. Rồi một chứng bệnh trầm trọng khởi lên cho người ấy. Người ấy bị cảm thọ bởi chứng bệnh trầm
 trọng ấy, suy nghĩ như sau: “Thật sự ta có nghi ngờ do dự, không đi đến kết luận đối với diệu pháp”.
 Người ấy sầu muộn, than vãn, khóc lóc, đập ngực, rơi vào bất tỉnh. Này Bà-la-môn, đây là bốn hạng
 người bản tánh bị chết, sợ hãi, rơi vào run sợ khi nghĩ đến chết.
 
-6. Và này Bà-la-môn, thế nào là người bản tánh bị chết, không sợ hãi, không rơi vào run sợ khi nghĩ đến
+<!--pg-->
+6\. Và này Bà-la-môn, thế nào là người bản tánh bị chết, không sợ hãi, không rơi vào run sợ khi nghĩ đến
 chết?
 
 Ở đây, này Bà-la-môn, có hạng người ly tham đối với các dục, ly ham muốn, ly luyến ái ... Rồi một
@@ -156,12 +173,14 @@ nghĩ như sau: “Thật sự các dục khả ái sẽ bỏ ta”, hay “Ta s
 muộn, không than vãn, không khóc lóc, không đập ngực, không rơi vào bất tỉnh. Này Bà-la-môn, đây là
 người bản tánh bị chết, không sợ hãi, không rơi vào run sợ khi nghĩ đến chết.
 
-7. Lại nữa, này Bà-la-môn, ở đây có người không ly tham đối với thân, ly ham muốn, ly luyến ái ... Rồi
+<!--pg-->
+7\. Lại nữa, này Bà-la-môn, ở đây có người không ly tham đối với thân, ly ham muốn, ly luyến ái ... Rồi
 một chứng bệnh trầm trọng khởi lên cho người ấy. Người ấy bị cảm thọbởi chứng bệnh trầm trọng ấy,
 suy nghĩ như sau: “Thật sự thân khả ái sẽ bỏ ta”, hay “Ta sẽ từ bỏ thân khả ái”. Người ấy không sầu
 muộn, không than vãn, không khóc lóc, không đập ngực, không rơi vào bất tỉnh. Này Bà-la-môn, đây là
 hạng người bản tánh bị chết, không sợ hãi, không rơi vào run sợ khi nghĩ đến chết.
-8. Lại nữa, này Bà-la-môn, ở đây có hạng người không làm ác, không làm điều hung bạo, không làm
+<!--pg-->
+8\. Lại nữa, này Bà-la-môn, ở đây có hạng người không làm ác, không làm điều hung bạo, không làm
 điều phạm pháp, làm điều lành, làm điều thiện, có che chở kẻ sợ hãi. Rồi một chứng bệnh trầm trọng
 khởi lên cho người ấy. Người ấy bị cảm thọ bởi chứng bệnh trầm trọng ấy, suy nghĩ như sau: “Thật sự ta
 không làm ác, không làm điều hung bạo, không làm điều phạm pháp, làm điều lành, làm điều thiện, có
@@ -171,7 +190,8 @@ không làm điều phạm pháp, làm điều lành, làm điều thiện, có 
 rơi vào bất tỉnh. Này Bà-la-môn, đây là hạng người bản tánh bị chết, không sợ hãi, không rơi vào run sợ
 khi nghĩ đến chết.
 
-9. Lại nữa, này Bà-la-môn, ở đây có hạng người không có nghi ngờ, không có do dự, đi đến kết luận đối
+<!--pg-->
+9\. Lại nữa, này Bà-la-môn, ở đây có hạng người không có nghi ngờ, không có do dự, đi đến kết luận đối
 với diệu pháp. Rồi một chứng bệnh trầm trọng khởi lên cho người ấy. Người ấy bị cảm thọ bởi chứng
 bệnh trầm trọng ấy, suy nghĩ như sau: “Thật sự ta không có nghi ngờ, không có do dự, đi đến kết luận
 đối với diệu pháp”. Người ấy không có sầu muộn, không có than vãn, không có khóc lóc, không có đập
@@ -186,7 +206,8 @@ nay cho đến mạng chung, con trọn đời quy ngưỡng.
 
 **(V) (185) Các Sự Thật Bà La Môn**
 
-1. Một thời, Thế Tôn trú ở Ràjagaha (Vương Xá), núi Gijjhakùta (Linh Thứu). Lúc bấy giờ, nhiều vị du
+<!--pg-->
+1\. Một thời, Thế Tôn trú ở Ràjagaha (Vương Xá), núi Gijjhakùta (Linh Thứu). Lúc bấy giờ, nhiều vị du
 sĩ có danh tiếng, có danh tiếng sống ở khu vườn của các du sĩ trên bờ sông Sappini như Annabhàra,
 Varadhara, Sakuludàyi, và những vị du sĩ có danh tiếng, có danh tiếng khác.
 
@@ -194,7 +215,8 @@ Rồi Thế Tôn vào buổi chiều từ Thiền Tịnh đứng dậy, đi đ�
 Sappini. Lúc bấy giờ, giữa các du sĩ ngoại đạo ấy đang ngồi tập họp, câu chuyện này được khởi lên:
 “Ðây là những sự thật Bà-la-môn, đây là những sự thật Bà-la-môn”.
 
-2. Rồi Thế Tôn đi đến các du sĩ ấy, sau khi đến, ngồi xuống trên chỗ đã soạn sẵn. Ngồi xong, Thế Tôn
+<!--pg-->
+2\. Rồi Thế Tôn đi đến các du sĩ ấy, sau khi đến, ngồi xuống trên chỗ đã soạn sẵn. Ngồi xong, Thế Tôn
 nói với các du sĩ ấy:
 
 − Nay câu chuyện gì được khởi lên, này các du sĩ, khi các Ông đang ngồi họp ở đây? Câu chuyện gì chưa
@@ -210,19 +232,22 @@ bố lên. Thế nào là bốn?
 “Bà-la-môn”, không nghĩ đến: “Ta hơn (các người khác)”, không nghĩ đến: “Ta bằng (các người khác)”,
 không nghĩ đến: “Ta là hạ liệt”. Lại nữa do thắng tri sự thật hàm chứa ở đấy, người ấy thực hành lòng
 thương tưởng, lòng từ mẫn đối với các loài hữu tình.
-4. Lại nữa, này các du sĩ, Bà-la-môn nói như sau: “Mọi dục là vô thường, khổ, chịu sự biến hoại”. Người
+<!--pg-->
+4\. Lại nữa, này các du sĩ, Bà-la-môn nói như sau: “Mọi dục là vô thường, khổ, chịu sự biến hoại”. Người
 Bà-la-môn nói như vậy là nói sự thật, không nói láo. Do vậy, vị ấy không nghĩ đến “Sa-môn”, không
 nghĩ đến “Bà-la-môn”, không nghĩ đến: “Ta hơn (các người khác)”, không nghĩ đến: “Ta bằng (các
 người khác)”, không nghĩ đến: “Ta là hạ liệt”. Lại nữa do thắng tri sự thật hàm chứa ở đấy, (trong lời nói
 ấy), người ấy thực hành nhàm chán, ly tham, đoạn diệt đối với các dục.
 
-5. Lại nữa, này các du sĩ, Bà-la-môn nói như sau: “Tất cả hữu là vô thường, khổ, chịu sự biến hoại”.
+<!--pg-->
+5\. Lại nữa, này các du sĩ, Bà-la-môn nói như sau: “Tất cả hữu là vô thường, khổ, chịu sự biến hoại”.
 Người Bà-la-môn nói như vậy là nói sự thật, không nói láo. Do vậy, vị ấy không nghĩ đến “Sa-môn”,
 không nghĩ đến “Bà-la-môn”, không nghĩ đến: “Ta hơn (các người khác)”, không nghĩ đến: “Ta bằng
 (các người khác)”, không nghĩ đến: “Ta là hạ liệt”. Lại nữa do thắng tri sự thật hàm chứa ở đấy, người
 ấy thực hiện nhàm chán, ly tham, đoạn diệt đối với các hữu.
 
-6. Lại nữa, này các du sĩ, người Bà-la-môn nói như sau: “Ta không là bất cứ ai, bất cứ thuộc ai, bất cứ là
+<!--pg-->
+6\. Lại nữa, này các du sĩ, người Bà-la-môn nói như sau: “Ta không là bất cứ ai, bất cứ thuộc ai, bất cứ là
 gì. Trong ấy, không có cái gì được gọi là của ta, bất cứ ở đâu, bất cứ là gì”. Người Bà-la-môn nói như
 vậy là nói sự thật, không nói láo. Do vậy, vị ấy không nghĩ đến “Sa-môn”, không nghĩ đến “Bà-la-môn”,
 không nghĩ đến: “Ta hơn (các người khác)”, không nghĩ đến: “Ta bằng (các người khác)”, không nghĩ
@@ -233,7 +258,8 @@ Này các du sĩ, có bốn sự thật Bà-la-môn này, Ta đã tự mình ch�
 
 **(VI) (186) Con Ðường Sai Lạc**
 
-1. Rồi một Tỷ-kheo đi đến Thế Tôn; sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Ngồi xuống
+<!--pg-->
+1\. Rồi một Tỷ-kheo đi đến Thế Tôn; sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Ngồi xuống
 một bên, Tỷ-kheo ấy bạch Thế Tôn:
 
 − Bạch Thế Tôn, thế giới do cái gì hướng dẫn, thế giới do cái gì được diễn tiến, đi đến sự thuần phục của
@@ -248,7 +274,8 @@ dẫn, thế giới do cái gì được diễn tiến, đi đến sự thuần 
 − Này Tỷ-kheo, thế giới do tâm hướng dẫn. Thế giới do tâm được diễn tiến, đi đến sự thuần phục của
 tâm được khởi lên.
 
-2. - Lành thay, bạch Thế Tôn.
+<!--pg-->
+2\. - Lành thay, bạch Thế Tôn.
 
 Tỷ-kheo ấy sau khi hoan hỷ, tín thọ lời Thế Tôn dạy, lại hỏi Thế Tôn một câu khác:
 
@@ -265,7 +292,8 @@ nghe nhiều, trì pháp?”
 thị thuyết, Bổn sanh, Vị tằng hữu, Phương quảng. Này Tỷ-kheo, nếu ai hiểu nghĩa một bài kệ có bốn
 câu, hiểu pháp và thực hành pháp tùy pháp, người ấy được gọi là vị nghe nhiều, trì pháp.
 
-3. - Lành thay, bạch Thế Tôn.
+<!--pg-->
+3\. - Lành thay, bạch Thế Tôn.
 
 Tỷ-kheo sau khi hoan hỷ ... lại hỏi thêm câu nữa:
 
@@ -303,7 +331,8 @@ hai, lợi toàn thể thế giới. Như vậy, này Tỷ-kheo, là Bậc Hiề
 
 **(VII) (187) Vassakàra**
 
-1. Một thời, Thế Tôn trú ở Ràjagaha (Vương Xá), tại Trúc Lâm, chỗ nuôi dưỡng các con sóc. Rồi Bà-lamôn Vassakàra, một đại thần nước Magadha đi đến Thế Tôn, sau khi đến, nói lên với Thế Tôn những lời
+<!--pg-->
+1\. Một thời, Thế Tôn trú ở Ràjagaha (Vương Xá), tại Trúc Lâm, chỗ nuôi dưỡng các con sóc. Rồi Bà-lamôn Vassakàra, một đại thần nước Magadha đi đến Thế Tôn, sau khi đến, nói lên với Thế Tôn những lời
 chào đón thăm hỏi. Sau khi nói lên với Thế Tôn những lời chào đón thăm hỏi thân hữu, Bà-la-môn
 Vassakàra, bậc đại thần nước Magadha bạch Thế Tôn:
 
@@ -324,13 +353,15 @@ biết một người chân nhân: “Vị này là bậc chân nhân”.
 − Có trường hợp, này Bà-la-môn, có cơ hội để một người chân nhân có thể biết một người phải chân
 nhân: “Vị này là bậc chân nhân”.
 
-4. - Nhưng thưa Tôn giả Gotama, có trường hợp một người chân nhân biết một người không phải là chân
+<!--pg-->
+4\. - Nhưng thưa Tôn giả Gotama, có trường hợp một người chân nhân biết một người không phải là chân
 nhân: “Vị này không phải là bậc chân nhân”?
 
 − Có trường hợp, này Bà-la-môn, có cơ hội để một người chân nhân có thể biết một người không phải là
 chân nhân: “Vị này không phải là bậc chân nhân”.
 
-5. - Thật vi diệu thay, thưa Tôn giả Gotama, thật hy hữu thay, thưa Tôn giả Gotama! Thật khéo là lời nói
+<!--pg-->
+5\. - Thật vi diệu thay, thưa Tôn giả Gotama, thật hy hữu thay, thưa Tôn giả Gotama! Thật khéo là lời nói
 này của Tôn giả Gotama: “Không có trường hợp này, này Bà-la-môn, không có cơ hội để một người
 không phải chân nhân có thể biết một người không phải chân nhân: “Vị này không phải là bậc chân
 nhân”. Không có trường hợp này, này Bà-la-môn, không có cơ hội để một người không phải chân nhân
@@ -339,7 +370,8 @@ có thể biết một người chân nhân: “Vị này là bậc chân nhân�
 hợp, này Bà-la-môn, có cơ hội để một người chân nhân có thể biết một người không phải là chân nhân:
 “Vị này không phải là bậc chân nhân”.
 
-6. Một thời, thưa Tôn giả Gotama, hội chúng của Bà-la-môn Todeyya đang nói lên những lời nhiếc
+<!--pg-->
+6\. Một thời, thưa Tôn giả Gotama, hội chúng của Bà-la-môn Todeyya đang nói lên những lời nhiếc
 mắng người khác như sau: “Ngu si là vua Eleyya, đã quá hoan hỷ với Sa-môn Ràmaputta, đã làm những
 cử chỉ hết sức hạ liệt như sau đối với Sa-môn Ràmaputta, tức là đảnh lễ, từ chỗ ngồi đứng dậy, chắp tay,
 đối xử thân thiện. Lại nữa, những tập đoàn này của vua Eleyya là ngu si, như Yamaka, Moggalla, Ugga,
@@ -375,7 +407,8 @@ cần được giải thích; do vậy tập đoàn của vua Eleyya đã quá h
 những cử chỉ hết sức hạ liệt như sau đối với Sa-môn Ràmaputta, tức là đảnh lễ, từ chỗ ngồi đứng dậy,
 chắp tay, đối xử thân thiện.
 
-7. - Thật vi diệu thay, thưa Tôn giả Gotama, thật hy hữu thay, thưa Tôn giả Gotama! Thật khéo là lời nói
+<!--pg-->
+7\. - Thật vi diệu thay, thưa Tôn giả Gotama, thật hy hữu thay, thưa Tôn giả Gotama! Thật khéo là lời nói
 này của Tôn giả Gotama: “Không có trường hợp này, này Bà-la-môn, không có cơ hội để một người
 không phải bậc chân nhân có thể biết một người không phải chân nhân: “Vị này không phải là bậc chân
 nhân”. Không có trường hợp này, này Bà-la-môn, không có cơ hội để một người không phải bậc chân
@@ -393,7 +426,8 @@ dậy rồi ra đi.
 
 **(VIII) (188) Upaka**
 
-1. Một thời, Thế Tôn trú ở Ràjagaha, tại Gijjhakùta. Rồi Upaka Mandikàputta đi đến Thế Tôn; sau khi
+<!--pg-->
+1\. Một thời, Thế Tôn trú ở Ràjagaha, tại Gijjhakùta. Rồi Upaka Mandikàputta đi đến Thế Tôn; sau khi
 đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Ngồi xuống một bên, Upaka Mandikàputta bạch Thế Tôn:
 
 − Bạch Thế Tôn, con nói như sau, con thấy như sau: “Ai bắt đầu mắng nhiếc người khác và tiếp tục như
@@ -406,7 +440,8 @@ quở trách, đáng bị phạm tội! Này Upaka, Ông bắt đầu mắng nhi
 về mọi phương diện không thể bênh vực lập trường của mình, do không thể bênh vực lập trường của
 mình, Ông đáng bị quở trách, đáng bị phạm tội!
 
-2. - Ví như, bạch Thế Tôn, một người bắt con vật của mình săn với một bẫy sập lớn, khi con vật thò đầu
+<!--pg-->
+2\. - Ví như, bạch Thế Tôn, một người bắt con vật của mình săn với một bẫy sập lớn, khi con vật thò đầu
 ra. Cũng vậy, con bị Thế Tôn bắt với cái bẫy sập lớn bằng chữ khi con vừa mới mở miệng (khi con vừa
 mới thò đầu ra).
 
@@ -418,7 +453,8 @@ với vô lượng thuyết pháp của Thế Tôn: “Ðây là pháp thiện�
 Upaka, Ta nêu rõ như vậy với vô lượng câu, với vô lượng chữ, với vô lượng thuyết pháp của Thế Tôn:
 “Ðây, pháp thiện này cần phải tu tập”.
 
-3. Rồi Upaka Mandikàputta hoan hỷ tín thọ lời Thế Tôn dạy, từ chỗ ngồi đứng dậy, đảnh lễ Thế Tôn,
+<!--pg-->
+3\. Rồi Upaka Mandikàputta hoan hỷ tín thọ lời Thế Tôn dạy, từ chỗ ngồi đứng dậy, đảnh lễ Thế Tôn,
 thân hữu hướng về phía Ngài, rồi đi đến Ajàtasattu Vedehiputta, vua nước Magadha. Sau khi đến, Upaka
 tường thuật lại cho Ajàtasattu Vedehiputta, vua nước Magadha nghe tất cả cuộc đàm luận với Thế Tôn.
 
@@ -436,21 +472,26 @@ Này các Tỷ-kheo, có pháp cần phải chứng ngộ bằng thân; có phá
 bằng niệm; có pháp, này các Tỷ-kheo, cần phải chứng ngộ bằng mắt; có pháp, này các Tỷ-kheo, cần
 phải chứng ngộ bằng trí tuệ.
 
-2. Và này các Tỷ-kheo, thế nào là các pháp cần phải chứng ngộ bằng thân? Tám giải thoát, này các Tỷkheo, cần phải chứng ngộ bằng thân.
+<!--pg-->
+2\. Và này các Tỷ-kheo, thế nào là các pháp cần phải chứng ngộ bằng thân? Tám giải thoát, này các Tỷkheo, cần phải chứng ngộ bằng thân.
 
-3. Và này các Tỷ-kheo, thế nào là các pháp cần phải chứng ngộ bằng niệm? Ðời sống trước, này các Tỷkheo, cần phải chứng ngộ bằng niệm.
+<!--pg-->
+3\. Và này các Tỷ-kheo, thế nào là các pháp cần phải chứng ngộ bằng niệm? Ðời sống trước, này các Tỷkheo, cần phải chứng ngộ bằng niệm.
 
-4. Và này các Tỷ-kheo, thế nào là các pháp cần phải chứng ngộ bằng con mắt? Sanh tử của chúng sanh,
+<!--pg-->
+4\. Và này các Tỷ-kheo, thế nào là các pháp cần phải chứng ngộ bằng con mắt? Sanh tử của chúng sanh,
 này các Tỷ-kheo, cần phải chứng ngộ bằng con mắt.
 
-5. Và này các Tỷ-kheo, thế nào là các pháp cần phải chứng ngộ bằng trí tuệ? Sự đoạn diệt các lậu hoặc,
+<!--pg-->
+5\. Và này các Tỷ-kheo, thế nào là các pháp cần phải chứng ngộ bằng trí tuệ? Sự đoạn diệt các lậu hoặc,
 này các Tỷ-kheo, cần phải chứng ngộ bằng trí tuệ.
 
 Này các Tỷ-kheo, có bốn pháp này cần phải chứng ngộ.
 
 **(X) (190) Ngày Trai Giới**
 
-1. Một thời, Thế Tôn trú ở Sàvatthi, tại Pubbàràma trong lâu đài của mẹ Migàrà. Lúc bấy giờ, Thế Tôn
+<!--pg-->
+1\. Một thời, Thế Tôn trú ở Sàvatthi, tại Pubbàràma trong lâu đài của mẹ Migàrà. Lúc bấy giờ, Thế Tôn
 nhân ngày lễ trai giới, đang ngồi có chúng Tỷ-kheo vây quanh. Sau khi nhìn quanh chúng Tỷ-kheo đang
 im lặng, im lặng, rồi Thế Tôn bảo các Tỷ-kheo:
 
@@ -463,17 +504,20 @@ cho nhiều, lại được lợi nhiều hơn nữa. Chúng Tỷ-kheo này như
 như vậy, này các Tỷ-kheo! Hội chúng này như vậy, nếu phải đi một do tuần để được yết kiến cũng nên
 đi, dầu có phải mang theo trên vai túi đựng đồ ăn. Như vậy, này các Tỷ-kheo, là chúng Tỷ-kheo này.
 
-2. Có những Tỷ-kheo, này các Tỷ-kheo, trong chúng Tỷ-kheo này, sống đạt được địa vị chư Thiên. Có
+<!--pg-->
+2\. Có những Tỷ-kheo, này các Tỷ-kheo, trong chúng Tỷ-kheo này, sống đạt được địa vị chư Thiên. Có
 những Tỷ-kheo, này các Tỷ-kheo, trong chúng Tỷ-kheo này, sống đạt được địa vị Phạm Thiên. Có
 những Tỷ-kheo, này các Tỷ-kheo, trong chúng Tỷ-kheo này, sống đạt được địa vị Bất động. Có những
 Tỷ-kheo, này các Tỷ-kheo, trong chúng Tỷ-kheo này, sống đạt được Thánh vị.
 
-3. Và này các Tỷ-kheo, thế nào là Tỷ-kheo sống đạt được địa vị chư Thiên?
+<!--pg-->
+3\. Và này các Tỷ-kheo, thế nào là Tỷ-kheo sống đạt được địa vị chư Thiên?
 
 Ở đây, này các Tỷ-kheo, Tỷ-kheo ly dục ... chứng và trú Sơ Thiền ... Thiền thứ hai ... Thiền thứ ba ...
 chứng và trú Thiền thứ tư và an trú. Như vậy, này các Tỷ-kheo, là Tỷ-kheo đạt được địa vị chư Thiên.
 
-4. Và này các Tỷ-kheo, thế nào là Tỷ-kheo sống đạt được địa vị Phạm Thiên?
+<!--pg-->
+4\. Và này các Tỷ-kheo, thế nào là Tỷ-kheo sống đạt được địa vị Phạm Thiên?
 
 Ở đây, này các Tỷ-kheo, Tỷ-kheo với tâm cùng khởi với từ - biến mãn một phương và an trú ... với tâm
 cùng khởi với bi ... với tâm cùng khởi với hỷ ... với tâm cùng khởi với xả, biến mãn một phương và an
@@ -481,7 +525,8 @@ trú. Cũng vậy phương thứ hai, cũng vậy phương thứ ba, cũng vậy
 thế giới, trên, dưới, bề ngang, hết thảy phương xứ, cùng khắp vô biên thế giới, vị ấy biến mãn với tâm
 cùng khởi với xả, quảng đại, đại hành, vô biên, không hận, không sân. Như vậy, này các Tỷ-kheo, là Tỷkheo sống đạt được địa vị Phạm Thiên.
 
-5. Và này các Tỷ-kheo, thế nào là Tỷ-kheo sống đạt được địa vị Bất động?
+<!--pg-->
+5\. Và này các Tỷ-kheo, thế nào là Tỷ-kheo sống đạt được địa vị Bất động?
 
 Ở đây, này các Tỷ-kheo, vị Tỷ-kheo sau khi vượt qua các sắc tưởng một cách hoàn toàn, sau khi chấm
 dứt các tưởng chướng ngại, sau khi không tác ý các tưởng sai biệt, nghĩ rằng: “Hư không là vô biên”
@@ -491,7 +536,8 @@ cách hoàn toàn, nghĩ rằng: “Không có vật gì” chứng đạt và a
 hữu xứ một cách hoàn toàn, chứng đạt và an trú Phi tưởng phi phi tưởng xứ. Như vậy, này các Tỷ-kheo,
 là Tỷ-kheo khéo chứng đạt Bất động.
 
-6. - Và này các Tỷ-kheo, thế nào là Tỷ-kheo chứng đạt địa vị bậc Thánh?
+<!--pg-->
+6\. - Và này các Tỷ-kheo, thế nào là Tỷ-kheo chứng đạt địa vị bậc Thánh?
 
 ở đây, này các Tỷ-kheo, Tỷ-kheo như thật quán tri: “Ðây là khổ” ... “Ðây là khổ tập” ... “Ðây là Khổ
 diệt” ... như thật quán tri: “Ðây là con Ðường đưa đến khổ diệt”. Như vậy, này các Tỷ-kheo, là Tỷ-kheo

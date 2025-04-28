@@ -15,7 +15,8 @@ này các Tỷ-kheo, tức là không biết ơn, không nhớ ơn. Còn bậc C
 là nhớ ơn. Ðối với những thiện nhân, đây là đặc tánh của họ được biết đến, này các Tỷ-kheo, tức là biết
 ơn, nhớ ơn. Ðây hoàn toàn là địa vị bậc Chân nhân, này các Tỷ-kheo, tức là biết ơn, nhớ ơn.
 
-2. Có hai hạng người, này các Tỷ-kheo, ta nói không thể trả ơn được. Thế nào là hai? Mẹ và Cha. Nếu
+<!--pg-->
+2\. Có hai hạng người, này các Tỷ-kheo, ta nói không thể trả ơn được. Thế nào là hai? Mẹ và Cha. Nếu
 một bên vai cõng mẹ, này các Tỷ-kheo, nếu một bên vai cõng cha, làm vậy suốt trăm năm, cho đến trăm
 tuổi; nếu đấm bóp, thoa xức, tắm rửa, xoa gội, và dầu tại đấy, mẹ cha có vãi tiểu tiện đại tiện, như vậy,
 này các Tỷ-kheo, cũng chưa làm đủ hay trả ơn đủ mẹ và cha. Hơn nữa, này các Tỷ-kheo, nếu có an trí
@@ -28,7 +29,8 @@ khuyến khích, hướng dẫn, an trú các vị ấy vào bố thí; đối v
 hướng dẫn, an trú các vị ấy vào trí tuệ. Cho đến như vậy, này các Tỷ-kheo, là làm đủ và trả ơn đủ mẹ và
 cha.
 
-3. Rồi một Bà-la-môn đi đến Thế Tôn; sau khi đến, nói với Thế Tôn những lời chào đón hỏi thăm... ngồi
+<!--pg-->
+3\. Rồi một Bà-la-môn đi đến Thế Tôn; sau khi đến, nói với Thế Tôn những lời chào đón hỏi thăm... ngồi
 xuống một bên. Bà-la-môn ấy nói với Thế Tôn:
 
 − Tôn giả Gotama đã nói gì, đã thuyết gì?
@@ -44,7 +46,8 @@ vậy, này Bà-la-môn, ta thuyết về hành động và thuyết về không
 
 − Thật vi diệu thay, Tôn giả Gotama ... từ nay cho đến mạng chung, con trọn đời quy ngưỡng!
 
-4. Rồi gia chủ Anàthapindika đi đến Thế Tôn; sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên.
+<!--pg-->
+4\. Rồi gia chủ Anàthapindika đi đến Thế Tôn; sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên.
 Ngồi xuống một bên, gia chủ Anàthapindika bạch Thế Tôn:
 
 − Có bao nhiêu người, bạch Thế Tôn, đáng được cúng dường ở đời? Và chỗ nào cần phải bố thí cúng
@@ -63,7 +66,8 @@ _Cả lời nói ý nghĩ_
 _Phước điền người dâng cúng_
 _Ðây thí có quả lớn._
 
-5. Như vầy tôi nghe.
+<!--pg-->
+5\. Như vầy tôi nghe.
 
 Một thời, Thế Tôn ở tại Sàvatthi, Thắng Lâm, khu vườn ông Anàthapindika. Lúc bấy giờ, Tôn giả
 Sàriputta trú ở Sàvatthi, tại Ðông Viên, ngôi lâu đài của mẹ Migàra. Tại đấy, Tôn giả Sàriputta gọi các
@@ -131,7 +135,8 @@ an tịnh, khẩu nghiệp được an tịnh, ý nghiệp được an tịnh. �
 hạnh một quà tặng an tịnh”. Như vậy, này Sàriputta, các Thầy cần phải học tập. Các du sĩ ngoại đạo nào,
 này Sàriputta, không được nghe pháp môn này, họ sẽ bị thiệt hại.
 
-6- Như vầy tôi nghe.
+<!--pg-->
+6\. Như vầy tôi nghe.
 
 Một thời Tôn giả Mahà Kaccàna ở tại Vanara, trên bờ sông Kaddamada. Rồi Bà-la-môn Aràmadanda đi
 đến Tôn giả Mahà Kaccàna, sau khi đến, nói lên với Tôn giả Mahà Kaccàna những lời chào đón hỏi
@@ -177,7 +182,8 @@ vậy, chánh pháp đã được Tôn giả Kaccàna dùng nhiều pháp môn �
 con nay xin quy y Tôn giả Gotama, quy y Pháp, quy y chúng Tỷ-kheo Tăng! Mong Tôn giả Kaccàna
 chấp nhận con làm cư sĩ, từ nay cho đến mạng chung, con trọn đời quy ngưỡng!
 
-7. Một thời, Tôn giả Mahà Kaccàna trú ở Madhurà, tại rừng Gundhà. Rồi Bà-la-môn Kandaràyana đi
+<!--pg-->
+7\. Một thời, Tôn giả Mahà Kaccàna trú ở Madhurà, tại rừng Gundhà. Rồi Bà-la-môn Kandaràyana đi
 đến Tôn giả Mahà Kaccàna; sau khi đến, nói lên với Tôn giả Mahà Kaccàna những lời chào đón hỏi
 thăm, sau khi nói lên với Tôn giả Mahà Kaccàna những lời chào đón hỏi thăm thân hữu rồi ngồi xuống
 một bên. Sau khi ngồi xuống một bên, Bà-la-môn Kandaràyana thưa với Tôn giả Mahà Kaccàna:
@@ -207,7 +213,8 @@ tuổi.
 Thật vi diệu, Tôn giả Kaccàna, ... Mong Tôn giả Kaccàna chấp nhận con làm cư sĩ, từ nay cho đến mạng
 chung, con trọn đời quy ngưỡng!
 
-8. - Khi nào các người ăn trộm cường mạnh, này các Tỷ-kheo, trong khi ấy, các vua chúa yếu đuối,
+<!--pg-->
+8\. - Khi nào các người ăn trộm cường mạnh, này các Tỷ-kheo, trong khi ấy, các vua chúa yếu đuối,
 trong khi ấy, thật không an toàn cho các vua chúa để đi qua lại, đi ra, đi quan sát các biên cương. Và
 trong khi ấy, thật không an toàn cho các Bà-la-môn, các gia chủ để đi qua lại, đi ra, đi giám sát các công
 việc làm ở ngoài. Cũng vậy, này các Tỷ-kheo, khi các ác Tỷ-kheo cường mạnh, trong khi ấy, các thuần
@@ -224,7 +231,8 @@ Trong khi ấy, này các Tỷ-kheo, các ác Tỷ-kheo giữ thái độ im l�
 hoặc đi các chỗ khác. Và như vậy, này các Tỷ-kheo, là hạnh phúc cho đa số, là an lạc cho đa số, là lợi
 ích cho đa số, là hạnh phúc, an lạc cho chư Thiên và loài Người.
 
-9. Ta không tán thán hai loại tà hạnh, này các Tỷ-kheo, ở người gia chủ hay ở người xuất gia. Người gia
+<!--pg-->
+9\. Ta không tán thán hai loại tà hạnh, này các Tỷ-kheo, ở người gia chủ hay ở người xuất gia. Người gia
 chủ, này các Tỷ-kheo, hay người xuất gia theo tà hạnh, do nhân duyên tà hạnh, không thể đem lại chánh
 lý, thiện pháp.
 
@@ -232,7 +240,8 @@ Ta tán thán hai loại chánh hạnh, này các Tỷ-kheo, ở người gia ch
 này các Tỷ-kheo, hay người xuất gia theo chánh hạnh, do nhân duyên chánh hạnh, có thể đem lại chánh
 lý, thiện pháp.
 
-10. Những Tỷ-kheo nào, này các Tỷ-kheo, chặn đứng cả văn và nghĩa, bằng cách nắm giữ sai lạc các
+<!--pg-->
+10\. Những Tỷ-kheo nào, này các Tỷ-kheo, chặn đứng cả văn và nghĩa, bằng cách nắm giữ sai lạc các
 kinh điển và những văn tự thích ứng, thì những Tỷ-kheo ấy, này các Tỷ-kheo, chịu trách nhiệm về bất
 hạnh cho đa số, không an lạc cho đa số, không lợi ích cho đa số, bất hạnh, đau khổ cho chư Thiên và
 loài Người. Ngoài ra, các Tỷ-kheo ấy, này các Tỷ-kheo, chất chứa nhiều vô phước làm cho diệu pháp

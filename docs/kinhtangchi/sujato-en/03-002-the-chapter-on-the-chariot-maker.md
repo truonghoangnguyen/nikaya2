@@ -1,4 +1,4 @@
-## The Chapter on the Chariot-maker
+# The Chapter on the Chariot-maker
 
 ### N 3.11 Well-known  *Ñātasutta*
 
@@ -21,6 +21,7 @@ A well-known mendicant who has these three qualities is acting for the
 welfare and happiness of the people, for the people, for the benefit,
 welfare, and happiness of gods and humans."
 
+<!--pg-->
 ### N 3.12 Commemoration  *Sāraṇīyasutta*
 
 "An anointed aristocratic king should commemorate three places as long
@@ -48,6 +49,7 @@ it with their own insight due to the ending of defilements. This is the
 third place. These are the three places a mendicant should commemorate
 as long as they live."
 
+<!--pg-->
 ### N 3.13 Hopes  *Āsaṁsasutta*
 
 "These three people are found in the world. What three? The hopeless,
@@ -116,6 +118,7 @@ has now died down. This is called a person who has done away with hope.
 
 These are the three people found among the mendicants."
 
+<!--pg-->
 ### N 3.14 The Wheel-Turning Monarch  *Cakkavattisutta*
 
 "Mendicants, even a wheel-turning monarch, a just and principled king,
@@ -155,8 +158,9 @@ And when a Realized One, a perfected one, a fully awakened Buddha has
 provided just protection and security regarding actions of body, speech,
 and mind, he rolls forth the supreme Wheel of Dhamma. And that wheel
 cannot be rolled back by any ascetic or brahmin or god or
-[Māra]{lang="sa"} or divinity or by anyone in the world."
+Māra\.  or divinity or by anyone in the world."
 
+<!--pg-->
 ### N 3.15 About Pacetana  *Sacetanasutta*
 
 At one time the Buddha was staying near Varanasi, in the deer park at
@@ -228,6 +232,7 @@ like the wheel that was finished in six days less than six months.
 So you should train like this: 'We will give up the crooks, flaws, and
 defects of body, speech, and mind.' That's how you should train."
 
+<!--pg-->
 ### N 3.16 Unfailing  *Apaṇṇakasutta*
 
 "Mendicants, when a mendicant has three things their practice is
@@ -271,6 +276,7 @@ mendicant is dedicated to wakefulness.
 When a mendicant has these three things their practice is unfailing, and
 they have laid the groundwork for ending the defilements."
 
+<!--pg-->
 ### N 3.17 Hurting Yourself  *Attabyābādhasutta*
 
 "These three things, mendicants, lead to hurting yourself, hurting
@@ -287,6 +293,7 @@ speech, and mind.
 These are three things that don't lead to hurting yourself, hurting
 others, or hurting both."
 
+<!--pg-->
 ### N 3.18 The Realm of the Gods  *Devalokasutta*
 
 "Mendicants, if wanderers who follow another religion were to ask you:
@@ -301,6 +308,7 @@ lifespan, beauty, happiness, glory, and sovereignty. How much more then
 should you be horrified, embarrassed, and disgusted by bad conduct by
 way of body, speech, and mind."
 
+<!--pg-->
 ### N 3.19 A Shopkeeper (1st)  *Paṭhamapāpaṇikasutta*
 
 "Mendicants, a shopkeeper who has three factors is unable to acquire
@@ -337,6 +345,7 @@ A mendicant who has these three qualities is able to acquire more
 skillful qualities or to increase the skillful qualities they've already
 acquired."
 
+<!--pg-->
 ### N 3.20 A Shopkeeper (2nd)  *Dutiyapāpaṇikasutta*
 
 "Mendicants, a shopkeeper who has three factors soon acquires great and

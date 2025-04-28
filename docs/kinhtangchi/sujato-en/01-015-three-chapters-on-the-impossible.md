@@ -1,4 +1,4 @@
-## Three Chapters on the Impossible
+# Three Chapters on the Impossible
 
 ### N 1.268--277 *Paṭhamavagga*
 
@@ -40,9 +40,9 @@ malicious intent."
 
 <!--pg-->
 275\. "It is impossible, mendicants, it cannot happen for a person
-accomplished in view to cause a schism in the [Saṅgha]{lang="sa"}. But
+accomplished in view to cause a schism in the Saṅgha\. . But
 it is possible for an ordinary person to cause a schism in the
-[Saṅgha]{lang="sa"}."
+Saṅgha\. ."
 
 <!--pg-->
 276\. "It is impossible, mendicants, it cannot happen for a person
@@ -76,8 +76,8 @@ wheel-turning monarch."
 
 <!--pg-->
 281--283\. "It is impossible, mendicants, it cannot happen for a woman to perform
-the role of Sakka, [Māra]{lang="sa"}, or the Divinity. But it is
-possible for a man to perform the role of Sakka, [Māra]{lang="sa"}, or
+the role of Sakka, Māra\. , or the Divinity. But it is
+possible for a man to perform the role of Sakka, Māra\. , or
 the Divinity."
 
 <!--pg-->

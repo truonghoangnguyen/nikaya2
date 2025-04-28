@@ -1,4 +1,4 @@
-## The Chapter on Welcome
+# The Chapter on Welcome
 
 ### N 2.151--162 *Santhāravagga*
 

@@ -2,9 +2,11 @@
 
 **(I) (200) Ðịa Ngục, Thiên Giới**
 
-1. Thành tựu mười pháp, tương xứng như vậy, như vậy bị rơi vào địa ngục. Thế nào là mười?
+<!--pg-->
+1\. Thành tựu mười pháp, tương xứng như vậy, như vậy bị rơi vào địa ngục. Thế nào là mười?
 
-2. Ở đây, này các Tỷ-kheo, có người sát sanh, hung bạo, tay lấm máu, tâm chuyên sát hại đả thương, tâm
+<!--pg-->
+2\. Ở đây, này các Tỷ-kheo, có người sát sanh, hung bạo, tay lấm máu, tâm chuyên sát hại đả thương, tâm
 không từ bi đối với tất cả loài hữu tình sinh vật. (Người này) lấy của không cho, bất cứ tài vật gì của
 người khác, hoặc tại thôn làng, hoặc tại rừng núi, không cho người ấy, người ấy lấy trộm tài vật ấy.
 Người ấy sống tà hạnh trong các dục, tà hạnh với các hạng nữ nhân có mẹ che chở, có cha che chở, có
@@ -33,10 +35,12 @@ chánh hành trì, chân chánh thành tựu, sau khi tự minh chứng ngộ v�
 và cho đời sau”.
 Thành tựu mười pháp này, người ấy như vậy tương xứng rơi vào địa ngục.
 
-3. Thành tựu mười pháp, này các Tỷ-kheo, như vậy tương xứng, được sanh lên cõi Trời. Thế nào là
+<!--pg-->
+3\. Thành tựu mười pháp, này các Tỷ-kheo, như vậy tương xứng, được sanh lên cõi Trời. Thế nào là
 mười?
 
-4. Ở đây, này các Tỷ-kheo, có người đoạn tận sát sanh, từ bỏ sát sanh, bỏ trượng, bỏ kiếm; biết tàm quý,
+<!--pg-->
+4\. Ở đây, này các Tỷ-kheo, có người đoạn tận sát sanh, từ bỏ sát sanh, bỏ trượng, bỏ kiếm; biết tàm quý,
 có lòng từ, sống thương xót đến hạnh phúc tất cả chúng sanh và các loài hữu tình và sinh vật; đoạn tận
 lấy của không cho, từ bỏ lấy của không cho, bất cứ vật gì của người khác, hoặc tại thôn làng, hoặc tại
 rừng núi, không cho người ấy, người ấy không lấy trộm tài vật ấy; đoạn tận tà hạnh trong các dục, từ bỏ
@@ -72,18 +76,22 @@ cho đời này và cho đời sau”.
 
 **(III) (202) Nữ Nhân**
 
-1. Này các Tỷ-kheo, thành tựu mười pháp, nữ nhân như vậy tương xứng bị rơi vào địa ngục. Thế nào là
+<!--pg-->
+1\. Này các Tỷ-kheo, thành tựu mười pháp, nữ nhân như vậy tương xứng bị rơi vào địa ngục. Thế nào là
 mười?
 
-2. Sát sanh... lấy của không cho... tà hạnh trong các dục... nói láo... nói hai lưỡi... nói lời thô ác... nói lời
+<!--pg-->
+2\. Sát sanh... lấy của không cho... tà hạnh trong các dục... nói láo... nói hai lưỡi... nói lời thô ác... nói lời
 phù phiếm... tham ái... sân tâm... tà kiến...
 
 Thành tựu mười pháp này, này các Tỷ-kheo, nữ nhân như vậy tương xứng bị rơi vào địa ngục.
 
-3. Thành tựu mười pháp này, này các Tỷ-kheo, nữ nhân như vậy tương xứng được sanh lên Thiên giới.
+<!--pg-->
+3\. Thành tựu mười pháp này, này các Tỷ-kheo, nữ nhân như vậy tương xứng được sanh lên Thiên giới.
 Thế nào là mười?
 
-4. Ðoạn tận sát sanh... đoạn tận lấy của không cho... đoạn tận tà hạnh trong các dục... đoạn tận nói láo...
+<!--pg-->
+4\. Ðoạn tận sát sanh... đoạn tận lấy của không cho... đoạn tận tà hạnh trong các dục... đoạn tận nói láo...
 đoạn tận nói hai lưỡi... đoạn tận nói lời thô ác... đoạn tận nói lời phù phiếm... đoạn tận tham ái... đoạn
 tận sân tâm... chánh kiến...
 
@@ -95,35 +103,42 @@ Thành tựu mười pháp này, này các Tỷ-kheo, nữ nhân như vậy tư�
 
 **(204) Sợ Hãi Và Vô Úy**
 
-1. Thành tựu mười pháp, này các Tỷ-kheo, người nữ cư sĩ sống ở gia đình không có vô úy. Thế nào là
+<!--pg-->
+1\. Thành tựu mười pháp, này các Tỷ-kheo, người nữ cư sĩ sống ở gia đình không có vô úy. Thế nào là
 mười?
 
-2. Sát sanh... có tà kiến...
+<!--pg-->
+2\. Sát sanh... có tà kiến...
 
 Thành tựu mười pháp, này các Tỷ-kheo, người nữ cư sĩ sống ở gia đình không có vô úy.
 
-3. Thành tựu mười pháp này, này các Tỷ-kheo, người nữ cư sĩ sống ở gia đình, không có sợ hãi.
+<!--pg-->
+3\. Thành tựu mười pháp này, này các Tỷ-kheo, người nữ cư sĩ sống ở gia đình, không có sợ hãi.
 
-4. Ðoạn tận sát sanh... có chánh tri kiến.
+<!--pg-->
+4\. Ðoạn tận sát sanh... có chánh tri kiến.
 
 Thành tựu mười pháp này, này các Tỷ-kheo, người nữ cư sĩ sống ở gia đình không có sợ hãi.
 
 **(VI) (205) Pháp Môn Quanh Co**
 
-1. Này các Tỷ-kheo, Ta sẽ thuyết về pháp môn quanh co và pháp môn Chánh pháp. Hãy nghe và khéo
+<!--pg-->
+1\. Này các Tỷ-kheo, Ta sẽ thuyết về pháp môn quanh co và pháp môn Chánh pháp. Hãy nghe và khéo
 tác ý, Ta sẽ giảng.
 
 − Thưa vâng, bạch Thế Tôn.
 
 Các Tỷ-kheo ấy vâng đáp Thế Tôn. Thế Tôn nói như sau:
 
-2. Thế nào là pháp môn quanh co, này các Tỷ-kheo, thế nào là pháp môn Chánh pháp?
+<!--pg-->
+2\. Thế nào là pháp môn quanh co, này các Tỷ-kheo, thế nào là pháp môn Chánh pháp?
 
 Này các Tỷ-kheo, các chúng sanh là chủ của nghiệp, là thừa tự của nghiệp, là sanh căn của nghiệp, là bà
 con của nghiệp, là chỗ nương tựa của nghiệp. Phàm họ làm nghiệp gì, thiện hay ác, họ là những kẻ thừa
 tự của nghiệp ấy.
 
-3. Ở đây, này các Tỷ-kheo, có người sát sanh, bạo ngược, bàn tay lấm máu, tâm chuyên sát hại đả
+<!--pg-->
+3\. Ở đây, này các Tỷ-kheo, có người sát sanh, bạo ngược, bàn tay lấm máu, tâm chuyên sát hại đả
 thương, tâm không từ bi đối với tất cả loài hữu tình, sinh vật. Vị ấy quanh co với thân, quanh co với lời,
 quanh co với ý. Thân nghiệp của vị ấy quanh co, ngữ nghiệp của vị ấy quanh co, ý nghiệp của vị ấy
 quanh co, sanh thú quanh co, sanh thành quanh co. Với người có sanh thú quanh co, này các Tỷ-kheo,
@@ -134,7 +149,8 @@ nào, khi thấy người, trường bò mà đi. Như vậy, này các Tỷ-khe
 vật. Do làm như thế nào, như vậy được sanh ra và được sanh như thế nào, thời có những cảm xúc như
 vậy. Này các Tỷ-kheo, Ta nói rằng các chúng sanh ấy là những kẻ thừa tự nghiệp của mình.
 
-4. Ở đây, này các Tỷ-kheo, có người lấy của không cho... có tà hạnh trong các dục... nói láo... nói hai
+<!--pg-->
+4\. Ở đây, này các Tỷ-kheo, có người lấy của không cho... có tà hạnh trong các dục... nói láo... nói hai
 lưỡi... nói lời thô ác... nói lời phù phiếm... có tham ái... có sân tâm... có tà kiến, có kiến điên đảo rằng:
 “Không có bố thí, không có cúng thí, không có tế tự; không có kết quả dị thục các nghiệp thiện ác;
 không có đời này, không có đời sau; không có mẹ; không có cha; không có các loài hóa sanh; ở đời
@@ -147,7 +163,8 @@ rằng... Như vậy này các Tỷ-kheo, Ta nói rằng các chúng sanh ấy l
 Này các Tỷ-kheo, các chúng sanh là chủ của nghiệp, là thừa tự của nghiệp, là sanh căn của nghiệĩp, là bà
 con của nghiệp, là chỗ nương tựa của nghiệp. Phàm là nghiệp gì, thiện hay ác, họ thừa tự nghiệp ấy.
 
-5. Ở đây, này các Tỷ-kheo, có người sau khi đoạn tận sát sanh, từ bỏ sát sanh, bỏ trượng, bỏ kiếm, biết
+<!--pg-->
+5\. Ở đây, này các Tỷ-kheo, có người sau khi đoạn tận sát sanh, từ bỏ sát sanh, bỏ trượng, bỏ kiếm, biết
 tàm quý, có lòng từ, sống thương xót đến hạnh phúc của tất cả chúng sanh và các loài hữu tình. Vị ấy
 không quanh co với ý, thân nghiệp của vị ấy chánh trực, ngữ nghiệp chánh trực, ý nghiệp chánh trực,
 sanh thú chánh trực, sanh thành chánh trực. Với người có sanh thú chánh trực, này các Tỷ-kheo, có sanh
@@ -157,7 +174,8 @@ vật thọ dụng lớn, vàng bạc nhiều, tài vật nhiều, tài sản l�
 sanh ra, và được sinh như thế nào, thời có những cảm xúc như vậy. Này các Tỷ-kheo, Ta nói rằng các
 chúng sanh ấy là những kẻ thừa tự nghiệp của mình.
 
-6. Ở đây, này các Tỷ-kheo, có người đoạn tận lấy của không cho. từ bỏ lấy của không cho... đoạn tận tà
+<!--pg-->
+6\. Ở đây, này các Tỷ-kheo, có người đoạn tận lấy của không cho. từ bỏ lấy của không cho... đoạn tận tà
 hạnh trong các dục, từ bỏ tà hạnh trong các dục... đoạn tận nói láo, từ bỏ nói láo... đoạn tận nói hai lưỡi,
 từ bỏ nói hai lưỡi... đoạn tận nói lời thô ác, từ bỏ nói lời thô ác... đoạn tận nói lời phù phiếm, từ bỏ nói
 lời phù phiếm... không có tham dục... không có sân tâm, có chánh kiến, không có các kiến điên đảo. Có
@@ -178,7 +196,8 @@ những kẻ thừa tự của nghiệp ấy.
 
 **(VII) (206) Ngọc Ma-Ni**
 
-1. Ta tuyên bố rằng, này các Tỷ-kheo, các nghiệp đã tư niệm, đã làm, đã tích tập, nếu không cảm thọ
+<!--pg-->
+1\. Ta tuyên bố rằng, này các Tỷ-kheo, các nghiệp đã tư niệm, đã làm, đã tích tập, nếu không cảm thọ
 (kết quả) thời không có chấm dứt, dầu kết quả ấy sanh khởi ngay trong đời hiện tại hay trong đời sau. Ta
 tuyên bố rằng, này các Tỷ-kheo, các nghiệp đã tư niệm, đã làm, đã tích tập, nếu không cảm thọ (kết
 quả), thời khổ không có thể chấm dứt được.
@@ -188,7 +207,8 @@ quả), thời khổ không có thể chấm dứt được.
 đến khổ dị thục. Và này các Tỷ-kheo, thế nào là ba phần lầm lỗi, phạm tội của thân nghiệp đã bất thiện
 tư niệm, dẫn đến khổ, đưa đến khổ dị thục?
 
-2. Ở đây, này các này các Tỷ-kheo, có người sát sanh hung bạo, tay lấm máu, tâm chuyên sát hại đả
+<!--pg-->
+2\. Ở đây, này các này các Tỷ-kheo, có người sát sanh hung bạo, tay lấm máu, tâm chuyên sát hại đả
 thương, tâm không từ bi đối với tất cả các loài hữu tình, các sinh vật. Lấy của không cho, bất cứ tài vật
 gì của người khác, hoặc tại thôn làng, hoặc tại rừng núi, không cho người ấy, người ấy lấy trộm tài vật
 ấy. Sống tà hạnh trong các dục vọng, tà hạnh với hạng nữ nhân có mẹ che chở, có cha che chở, có mệ
@@ -199,7 +219,8 @@ Như vậy, này các Tỷ-kheo, ba phần là lầm lỗi phạm tội của th
 khổ, đưa đến khổ dị thục. Như thế nào, này các Tỷ-kheo, bốn phần là lầm lỗi, phạm tội của ngữ nghiệp,
 đã bất thiện tư niệm, dẫn đến khổ, đưa đến khổ dị thục?
 
-3. Người ấy nói láo, đến chỗ tập hội, hay đến chỗ chúng tôi, hay đến giữa các thân tộc, hay đến giữa các
+<!--pg-->
+3\. Người ấy nói láo, đến chỗ tập hội, hay đến chỗ chúng tôi, hay đến giữa các thân tộc, hay đến giữa các
 tổ hợp, hay đến giữa các vương tộc, khi bị dẫn xuất làm chứng và được hỏi: “Này người kia, hãy nói
 những gì người biết”; dầu cho vị ấy không biết, vị ấy nói: “Tôi biết”; dầu cho vị ấy biết, vị ấy nói: “Tôi
 không biết”. Hay dầu cho vị ấy không thấy, vị ấy nói: “Tôi có thấy”; hay dầu cho vị ấy thấy, vị ấy nói:
@@ -218,7 +239,8 @@ Như vậy, này các Tỷ-kheo, bốn phần là lầm lỗi, phạm tội củ
 khổ, đưa đến khổ dị thục. Như thế nào, này các Tỷ-kheo, ba phần là lầm lỗi, và phạm tội của ý nghiệp,
 đã bất thiện tư niệm, đã dẫn đến khổ, đưa đến khổ dị thục.
 
-4. Ở đây, này các Tỷ-kheo, có người ấy có tham ái, tham lam tài vật kẻ khác, nghĩ rằng: “Ôi, mong rằng
+<!--pg-->
+4\. Ở đây, này các Tỷ-kheo, có người ấy có tham ái, tham lam tài vật kẻ khác, nghĩ rằng: “Ôi, mong rằng
 mọi tài vật của người khác trở thành của mình! “. Có sân tâm, khởi lên hại ý, hại niệm như sau: “Mong
 rằng những loài hữu tình này bị giết, hay bị tàn sát, hay bị tiêu diệt, hay bị tàn hại, hay mong chúng
 không còn tồn tại! “. Người ấy có tà kiến, có tưởng điên đảo, như: “Không có bố thí, không có cúng thí,
@@ -228,14 +250,16 @@ chân chánh hành trì, chân chánh thành tựu, sau khi tự mình với th�
 tuyên bố”. Như vậy, này các Tỷ-kheo, ba phần là lầm lỗi, phạm tội của ý nghiệp, đã bất thiện tư niệm,
 đã dẫn đến khổ, đưa đến khổ dị thục.
 
-5. Này các này các Tỷ-kheo, do nhân bất thiện tư niệm, sự lầm lỗi và phạm tội của thân nghiệp có ba
+<!--pg-->
+5\. Này các này các Tỷ-kheo, do nhân bất thiện tư niệm, sự lầm lỗi và phạm tội của thân nghiệp có ba
 phần, các chúng sanh, sau khi thân hoại mạng chung sanh vào cõi dữ, ác thú, đọa xứ, địa ngục. Hay là
 này các Tỷ-kheo, do nhân bất thiện tư niệm, lầm lỗi phạm tội của ngữ nghiệp có bốn phần, các chúng
 sanh, sau khi thân hoại mạng chung, sanh vào cõi dữ, ác thú, đọa xứ, địa ngục. Hay là này các Tỷ-kheo,
 do nhân bất thiện tư niệm, lầm lỗi phạm tội của ý nghiệp có ba phần, các chúng sanh, sau khi thân hoại
 mạng chung, sanh vào cõi dữ, ác thú, đọa xứ, địa ngục.
 
-6. Ví như, này các Tỷ-kheo, một hòn ngọc ma ni viên mãn, được quăng lên và rơi xuống chỗ nào, tại
+<!--pg-->
+6\. Ví như, này các Tỷ-kheo, một hòn ngọc ma ni viên mãn, được quăng lên và rơi xuống chỗ nào, tại
 chỗ ấy nó khéo an lập. Cũng vậy, này các Tỷ-kheo, do nhân bất thiện tư niệm, lầm lỗi phạm tội của thân
 nghiệp có ba phần, các chúng sanh, sau khi thân hoại mạng chung, sanh vào cõi dữ, ác thú, đọa xứ, địa
 ngục. Hay là này các Tỷ-kheo, do nhân bất thiện tư niệm, lầm lỗi phạm tội của ngữ nghiệp có bốn phần,
@@ -243,7 +267,8 @@ các chúng sanh, sau khi thân hoại mạng chung, sanh vào cõi dữ, ác th
 Tỷ-kheo, do nhân bất thiện tư niệm, lầm lỗi phạm tội của ý nghiệp có ba phần, các chúng sanh, sau khi
 thân hoại mạng chung, sanh vào cõi dữ, ác thú, đọa xứ, địa ngục.
 
-7. Ta tuyên bố rằng, này các Tỷ-kheo, các nghiệp được tư niệm, được làm, được tích tập, nếu không cảm
+<!--pg-->
+7\. Ta tuyên bố rằng, này các Tỷ-kheo, các nghiệp được tư niệm, được làm, được tích tập, nếu không cảm
 thọ (kết quả) thời không có chấm dứt, dầu quả ấy thuộc trong đời hiện tại, hay trong đời sau. Ta tuyên
 bố rằng, này các Tỷ-kheo, các nghiệp được tư niệm, được làm, được tích tập, nếu không cảm thọ (kết
 quả) thời khổ không có chấm dứt. Ở đây, này các Tỷ-kheo, ba phần là thành đạt của thân nghiệp đã thiện
@@ -252,7 +277,8 @@ tư niệm, dẫn đến lạc, đưa đến lạc dị thục, bốn phần là
 dị thục. Và như thế nào, này các Tỷ-kheo, ba phần là thành đạt của thân nghiệp đã thiện tư niệm, dẫn
 đến lạc, đưa đến lạc dị thục?
 
-8. Ở đây, này các Tỷ-kheo, có người đoạn tận sát sanh, từ bỏ sát sanh, bỏ trượng, bỏ kiếm, biết tàm quý,
+<!--pg-->
+8\. Ở đây, này các Tỷ-kheo, có người đoạn tận sát sanh, từ bỏ sát sanh, bỏ trượng, bỏ kiếm, biết tàm quý,
 có lòng từ, sống thương xót đến hạnh phúc của tất cả chúng sanh và các loài hữu tình. Ðoạn tận lấy của
 không cho, từ bỏ lấy của không cho, bất cứ vật gì của người khác, hoặc tại thôn làng, hoặc tại rừng núi,
 không cho người ấy, người ấy không lấy trộm tài vật ấy. Ðoạn tận Sống tà hạnh trong các dục, không
@@ -262,7 +288,8 @@ có chị che chở, có bà con che chở, có pháp che chở, đã có chồn
 2thành đạt của thân nghiệp, dẫn đến lạc, đưa đến lạc dị thục. Và này các Tỷ-kheo, thế nào là bốn phần là
 thành đạt của ngữ nghiệp, dẫn đến lạc, đưa đến lạc dị thục?
 
-9. Ở đây, này các Tỷ-kheo có người đoạn tận nói láo, từ bỏ nói láo, đến chỗ tập hội hay đến chỗ chúng
+<!--pg-->
+9\. Ở đây, này các Tỷ-kheo có người đoạn tận nói láo, từ bỏ nói láo, đến chỗ tập hội hay đến chỗ chúng
 hội, hay đến giữa các thân tộc, hay đến giữa các tổ hợp, hay đến giữa các vương tộc, khi bị dẫn xuất làm
 chứng và được hỏi: “Này người kia, hãy nói những gì người biết”, nếu biết, người ấy nói: “Tôi biết”,
 nếu không biết, người ấy nói: “Tôi không biết”; hay nếu không thấy, người ấy nói: “Tôi không thấy”;
@@ -280,7 +307,8 @@ các Tỷ-kheo, bốn phần là sự thành đạt của ngữ nghiệp đã th
 Và này các Tỷ-kheo, thế nào là ba phần là thành đạt của ý nghiệp đã thiện tư niệm, dẫn đến lạc, đưa đến
 lạc dị thục?
 
-10. Ở đây, này các Tỷ-kheo, có người không tham ái, không tham lam tài vật của kẻ khác, không có
+<!--pg-->
+10\. Ở đây, này các Tỷ-kheo, có người không tham ái, không tham lam tài vật của kẻ khác, không có
 nghĩ rằng: “Ôi! Mong rằng món tài vật của người khác trở thành của mình! “. Lại có người không có sân
 tâm, không khởi lên hại ý, hại niệm, nhưng nghĩ rằng: “Mong rằng những loài hữu tình này sống không
 thù hận, không oán thù, không nhiễm loạn, được an lạc, lo nghĩ tự thân! “. Có chánh kiến, không có tư
@@ -292,21 +320,24 @@ bố”.
 Như vậy, này các Tỷ-kheo, ba phần là thành đạt của ý nghiệp đã thiện tư niệm, dẫn đến lạc, đưa đến lạc
 dị thục.
 
-11. Này các Tỷ-kheo, do nhân ba phần là thành đạt của thân nghiệp, đã thiện tư niệm, dẫn đến lạc, đưa
+<!--pg-->
+11\. Này các Tỷ-kheo, do nhân ba phần là thành đạt của thân nghiệp, đã thiện tư niệm, dẫn đến lạc, đưa
 đến lạc dị thục, các chúng sanh sau khi thân hoại mạng chung, được sanh thiện thú, Thiên giới, cõi đời
 này. Này các Tỷ-kheo, do nhân bốn phần là thành đạt của ngữ nghiệp, đã thiện tư niệm, dẫn đến lạc, đưa
 đến lạc dị thục, các chúng sanh sau khi thân hoại mạng chung, được sanh thiện thú, Thiên giới, cõi đời
 này. Này các Tỷ-kheo, do nhân ba phần là thành đạt của ý nghiệp, đã thiện tư niệm, dẫn đến lạc, đưa đến
 lạc dị thục, các chúng sanh sau khi thân hoại mạng chung, được sanh thiện thú, Thiên giới, cõi đời này.
 
-12. Ví như, này các Tỷ-kheo, hòn ngọc ma-ni viên mãn, được quăng lên và rơi xuống chỗ nào, tại chỗ ấy
+<!--pg-->
+12\. Ví như, này các Tỷ-kheo, hòn ngọc ma-ni viên mãn, được quăng lên và rơi xuống chỗ nào, tại chỗ ấy
 nó khéo an lập. Cũng vậy, này các Tỷ-kheo, do nhân thiện tư niệm, thành đạt của thân nghiệp có ba
 phần, các chúng sanh, sau khi thân hoại mạng chung sanh vào thiện thú, thiên giới, cõi đời này. Hay là
 do nhân thiện tư niệm, thành đạt của ngữ nghiệp có bốn phần, các chúng sanh, sau khi thân hoại mạng
 chung sanh vào thiện thú, Thiên giới, cõi đời này. Hay là do nhân thiện tư niệm, thành đạt của ý nghiệp
 có ba phần, các chúng sanh, sau khi thân hoại mạng chung sanh vào thiện thú, Thiên giới, cõi đời này.
 
-13. Này các Tỷ-kheo, Ta tuyên bố rằng các nghiệp đã tư niệm, đã làm, đã tích tập, nếu chưa lãnh thọ
+<!--pg-->
+13\. Này các Tỷ-kheo, Ta tuyên bố rằng các nghiệp đã tư niệm, đã làm, đã tích tập, nếu chưa lãnh thọ
 (kết quả) thời không chấm dứt, dầu cho quả ấy thuộc đời hiện tại, hay trong đời sau, và này các Tỷ-kheo,
 Ta tuyên bố rằng các nghiệp đã tư niệm, đã được làm, đã được tích tập, nếu chưa lãnh thọ (kết quả) thời
 khổ không được chấm dứt.
@@ -317,7 +348,8 @@ khổ không được chấm dứt.
 
 **(IX) (208) Phạm Thiên Trú**
 
-1. Ta tuyên bố rằng, này các Tỷ-kheo, các nghiệp được tư niệm, được làm, được tích tập, nếu không cảm
+<!--pg-->
+1\. Ta tuyên bố rằng, này các Tỷ-kheo, các nghiệp được tư niệm, được làm, được tích tập, nếu không cảm
 thọ (kết quả) thời không có chấm dứt, dầu quả ấy thuộc trong đời hiện tại, hay thuộc trong đời sau. Ta
 tuyên bố rằng, này các Tỷ-kheo, các nghiệp được tư niệm, được làm, được tích tập, nếu không cảm thọ
 (kết quả) thời không có chấm dứt. Vị Thánh đệ tử ấy, này các Tỷ-kheo, như vậy từ bỏ tham, từ bỏ sân,
@@ -335,14 +367,16 @@ không?
 − Do không làm điều ác, nó có cảm giác khổ hay không?
 − Thưa không, bạch Thế Tôn. Không làm điều ác, bạch Thế Tôn, từ đâu nó sẽ cảm giác khổ được?
 
-2. Này các Tỷ-kheo, từ tâm giải thoát này cần phải tu tập bởi nữ nhân hay nam nhân. Này các Tỷ-kheo,
+<!--pg-->
+2\. Này các Tỷ-kheo, từ tâm giải thoát này cần phải tu tập bởi nữ nhân hay nam nhân. Này các Tỷ-kheo,
 thân này không bị nam nhân hay nữ nhân cầm lấy rồi mang đi. Này các Tỷ-kheo, con đường phải chết
 này ở giữa những tư tưởng. Vị ấy rõ biết như sau: “Phàm ác nghiệp nào do ta làm từ trước với cái thân
 do nghiệp làm ra này, tất cả cần phải cảm thọ ở đây, nó không thể theo ta và được hiện hữu về sau”. Như
 vậy, này các Tỷ-kheo, từ tâm giải thoát được tu tập đưa đến không có trở lui, đối với Tỷ-kheo có trí tuệ,
 có được trong đời này, nhưng vị ấy chưa thể nhập sự giải thoát hơn thế nữa.
 
-3. Với tâm câu hữu với bi... với tâm hầu hữu với hỷ... với tâm câu hữu với xả, vị ấy biến mãn một
+<!--pg-->
+3\. Với tâm câu hữu với bi... với tâm hầu hữu với hỷ... với tâm câu hữu với xả, vị ấy biến mãn một
 phương và an trú, như vậy phương thứ hai, như vậy phương thứ ba, như vậy phương thứ tư. Như vậy
 phía trên, phía dưới, bề ngang, hết thảy phương xứ, cùng khắp vô biên giới, vị ấy an trú biến mãn với
 tâm câu hữu với xả, quảng đại, vô biên, không hận, không sân. Vị ấy biết rõ như sau: “Trước kia, tâm
@@ -357,7 +391,8 @@ giải thoát, nó có thể làm nghiệp ác không?
 
 − Thưa không, bạch Thế Tôn. Không làm điều ác, bạch Thế Tôn, từ đâu nó sẽ cảm giác khổ được.
 
-4. Này các Tỷ-kheo, xả tâm giải thoát này cần phải tu tập bởi nữ nhân hay nam nhân. Này các Tỷ-kheo,
+<!--pg-->
+4\. Này các Tỷ-kheo, xả tâm giải thoát này cần phải tu tập bởi nữ nhân hay nam nhân. Này các Tỷ-kheo,
 thân này không bị nam nhân hay nữ nhân cầm lấy rồi đem đi. Này các Tỷ-kheo, con người phải chết này
 ở giữa những tư tưởng. Vị ấy rõ biết như sau: “Phàm ác nghiệp nào do ta làm từ trước với cái thân do
 nghiệp làm ra này, tất cả cần phải cảm thọ ở đây, nó không thể theo và được hiện hữu về sau”. Như vậy,
@@ -366,7 +401,8 @@ trong đời này, nhưng vị ấy chưa thể nhập sự giải thoát hơn t
 
 **(X) (209) Sau Khi Chết**
 
-1. Rồi một Bà-la-môn đi đến Thế Tôn, sau khi đến, nói lên với Thế Tôn những lời chào đón hỏi thăm,
+<!--pg-->
+1\. Rồi một Bà-la-môn đi đến Thế Tôn, sau khi đến, nói lên với Thế Tôn những lời chào đón hỏi thăm,
 sau khi nói lên những lời chào đón hỏi thăm thân hữu, liền ngồi xuống một bên. Ngồi xuống một bên, vị
 Bà-la-môn ấy bạch Thế Tôn:
 
@@ -392,7 +428,8 @@ rộng rãi lời nói vắn tắt này của Sa-môn Gotama.
 
 Vị Bà-la-môn ấy vâng đáp Tôn giả Gotama. Tôn giả Gotama nói như sau:
 
-2. Này Bà-la-môn, phi pháp hành, bất bình đẳng hành về thân có ba; phi pháp hành, bất bình đẳng hành
+<!--pg-->
+2\. Này Bà-la-môn, phi pháp hành, bất bình đẳng hành về thân có ba; phi pháp hành, bất bình đẳng hành
 về lời có bốn; phi pháp hành, bất bình đẳng hành về ý có ba. Và này các Tỷ-kheo, thế nào là phi pháp
 hành, bất bình đẳng hành về thân có ba? ... (Xem kinh 206, đoạn 2).
 
@@ -406,7 +443,8 @@ Như vậy, này Bà-la-môn, phi pháp hành, bất bình đẳng hành về ý
 Như vậy, do nhân phi hành pháp, bất bình đẳng hành, này Bà-la-môn như vậy ở đây có các loài chúng
 sanh, sau khi thân hoại mạng chung bị sanh vào cõi dữ, ác thú, đọa xứ, địa ngục.
 
-3. Này Bà-la-môn, pháp hành, bình đẳng hành về thân có ba; pháp hành, bình đẳng hành về lời có bốn;
+<!--pg-->
+3\. Này Bà-la-môn, pháp hành, bình đẳng hành về thân có ba; pháp hành, bình đẳng hành về lời có bốn;
 pháp hành, bình đẳng hành về ý có ba. Như thế nào, này Bà-la-môn, pháp hành, bình đẳng hành về thân
 có ba? ... (như kinh trước 206, đoạn 8)...
 

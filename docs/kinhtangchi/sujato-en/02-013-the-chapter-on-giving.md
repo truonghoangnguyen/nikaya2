@@ -1,4 +1,4 @@
-## The Chapter on Giving
+# The Chapter on Giving
 
 ### N 2.141--150 *Dānavagga*
 

@@ -1,9 +1,9 @@
-## The Chapter on What Occupies the Mind
+# The Chapter on What Occupies the Mind
 
 ### N 1.1--10 *Cittapariyādānavagga*
 
-1\. [So I have heard.]{.smallcaps} At one time the Buddha was staying near
-[Sāvatthī]{lang="sa"} in Jeta's Grove, [Anāthapiṇḍika]{lang="sa"}'s
+1\. So I have heard. At one time the Buddha was staying near
+Sāvatthī in Jeta's Grove, Anāthapiṇḍika's
 monastery. There the Buddha addressed the mendicants, "Mendicants!"
 
 <!--pg-->

@@ -1,4 +1,4 @@
-## The Chapter on Fools
+# The Chapter on Fools
 
 ### N 2.98--117 *Bālavagga*
 
@@ -103,9 +103,3 @@ training as not the training. These are the two whose defilements grow."
 is not the training as not the training, and one who perceives what is
 the training as the training. These are the two whose defilements don't
 grow."
-
-<!--pg-->
-::: center
-*[the third fifty]{.smallcaps}*
-:::
-

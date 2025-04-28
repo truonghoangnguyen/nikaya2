@@ -5,23 +5,33 @@ này các Tỷ-kheo, là hai pháp.
 
 _... Cũng vậy đối với các pháp kế tiếp như:_
 
-2. Tinh tấn và nhất tâm.
+<!--pg-->
+2\. Tinh tấn và nhất tâm.
 
-3. Danh và sắc.
+<!--pg-->
+3\. Danh và sắc.
 
-4. Minh và giải thoát.
+<!--pg-->
+4\. Minh và giải thoát.
 
-5. Hữu kiến và vô hữu kiến.
+<!--pg-->
+5\. Hữu kiến và vô hữu kiến.
 
-6. Vô tàm và vô quý.
+<!--pg-->
+6\. Vô tàm và vô quý.
 
-7. Tàm và quý.
-8. Khó nói và ác hữu.
+<!--pg-->
+7\. Tàm và quý.
+<!--pg-->
+8\. Khó nói và ác hữu.
 
-9. Dễ nói và thiện hữu.
+<!--pg-->
+9\. Dễ nói và thiện hữu.
 
-10. Giới thiện xảo và tác ý thiện xảo.
+<!--pg-->
+10\. Giới thiện xảo và tác ý thiện xảo.
 
-11. Này các Tỷ-kheo, có hai pháp này. Thế nào là hai? Phạm thiện xảo và xuất Phạm thiện xảo. Những
+<!--pg-->
+11\. Này các Tỷ-kheo, có hai pháp này. Thế nào là hai? Phạm thiện xảo và xuất Phạm thiện xảo. Những
 pháp này, này các Tỷ-kheo, là hai pháp.
 

@@ -2,7 +2,8 @@
 
 **(I) (19) Tại Sàrandada**
 
-1. **Một thời, Thế Tôn trú ở giữa dân chúng Vajjì, tại điện thờ Sàrandada. Bấy giờ có nhiều người**
+<!--pg-->
+1\. **Một thời, Thế Tôn trú ở giữa dân chúng Vajjì, tại điện thờ Sàrandada. Bấy giờ có nhiều người**
 Licchavì đi đến Thế Tôn, sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Thế Tôn nói với các
 người Licchavì đang ngồi một bên:
 
@@ -13,7 +14,8 @@ nghiệm kỹ, Ta sẽ giảng.
 
 Các người Licchavì ấy vâng đáp Thế Tôn. Thế Tôn nói như sau:
 
-2. - Và này các Licchavì, thế nào là bảy pháp không làm cho suy giảm? Này các Licchavì, khi nào dân
+<!--pg-->
+2\. - Và này các Licchavì, thế nào là bảy pháp không làm cho suy giảm? Này các Licchavì, khi nào dân
 Vajjì thường hay tụ họp, và tụ họp đông đảo với nhau, thời này các Licchavì, dân Vajjì sẽ được lớn
 mạnh, không bị suy giảm. Này các Licchavì, khi nào dân Vajjì tụ họp trong niệm đoàn kết, giải tán trong
 niệm đoàn kết, và làm việc trong niệm đoàn kết, này các Licchavì, dân Vajjì được lớn mạnh, không bị
@@ -34,7 +36,8 @@ nào dân chúng Vajjì sẽ được thấy giữa bảy pháp không làm suy 
 Vajjì sẽ được lớn mạnh, không bị suy giảm.
 **(II) (20) Vassakàra**
 
-1. Như vầy tôi nghe:
+<!--pg-->
+1\. Như vầy tôi nghe:
 
 Một thời, Thế Tôn trú ở Ràjagaha (Vương Xá), trên núi Gijjhakùta (Linh Thứu). Lúc bấy giờ,
 Ajàtasattu, con bà Videhi vua nước Magadha muốn chinh phạt dân chúng Vajjì. Vua nói như sau:
@@ -68,7 +71,8 @@ Videhi, vua nước Magadha muốn chinh phạt dân xứ Vajjì, vua tự nói:
 này, dù họ có uy quyền, có hùng mạnh. Ta quyết làm cỏ dân Vajjì. Ta sẽ tiêu diệt dân Vajjì. Ta sẽ làm
 cho dân Vajjì bị hoại vong”.
 
-2. Lúc bấy giờ, Tôn giả Ananda đứng quạt phía sau lưng Thế Tôn. Thế Tôn nói với Tôn giả Ananda:
+<!--pg-->
+2\. Lúc bấy giờ, Tôn giả Ananda đứng quạt phía sau lưng Thế Tôn. Thế Tôn nói với Tôn giả Ananda:
 
 − Này Ananda, Thầy có nghe dân Vajjì thường hay tụ họp và tụ họp đông đảo với nhau không?
 
@@ -128,14 +132,16 @@ khiến các vị A-la-hán chưa đến sẽ đến trong xứ, và những v�
 các vị A-la-hán chưa đến sẽ đến trong xứ, và những vị A-la-hán đã đến được sống an lạc, thời này
 Ananda, dân Vajjì sẽ được lớn mạnh, không bị suy giảm.
 
-3. Rồi Thế Tôn nói với Bà-la-môn Vassakàra đại thần nước Magadha:
+<!--pg-->
+3\. Rồi Thế Tôn nói với Bà-la-môn Vassakàra đại thần nước Magadha:
 
 − Này Bà-la-môn, một thời, Ta sống ở Vesàli, tại tự miến Sàrandada, Ta dạy cho dân Vajjì bảy pháp
 không bị suy giảm này. Này Bà-la-môn, khi nào bảy pháp không bị suy giảm, được duy trì giữa dân
 Vajjì, khi nào dân Vajjì được giảng dạy bảy pháp không bị suy giảm này, thời này Bà-la-môn, dân Vajjì
 sẽ được lớn mạnh, không bị suy giảm.
 
-4. Khi được nói vậy, Bà-la-môn Vassakàra, vị đại thần nước Magadha bạch Thế Tôn:
+<!--pg-->
+4\. Khi được nói vậy, Bà-la-môn Vassakàra, vị đại thần nước Magadha bạch Thế Tôn:
 
 − Thưa Tôn giả Gotama, nếu dân Vajjì chỉ hội đủ một pháp không bị suy giảm này, thời dân Vajjì nhất
 định được lớn mạnh, không bị suy giảm, huống nữa là đủ các bảy pháp không bị suy giảm. Thưa Tôn
@@ -150,7 +156,8 @@ Rồi Bà-la-môn Vassakàra, vị đại thần nước Magadha hoan hỷ tán 
 
 **(III) (21) Vị Tỷ Kheo**
 
-1. Như vầy tôi nghe:
+<!--pg-->
+1\. Như vầy tôi nghe:
 
 Một thời, Thế Tôn trú ở Vương Xá, tại núi Linh Thứu (Gijjhakùta). Tại đấy, Thế Tôn gọi các Tỷ-kheo:
 
@@ -160,7 +167,8 @@ Một thời, Thế Tôn trú ở Vương Xá, tại núi Linh Thứu (Gijjhakù
 
 Các Tỷ-kheo ấy vâng đáp Thế Tôn. Thế Tôn nói như sau:
 
-2. - Và này các Tỷ-kheo, thế nào là bảy pháp không bị suy giảm? Này các Tỷ-kheo, khi nào chúng Tỷkheo thường hay tụ họp và tụ họp đông đảo với nhau, thời này các Tỷ-kheo, chúng Tỷ-kheo sẽ được lớn
+<!--pg-->
+2\. - Và này các Tỷ-kheo, thế nào là bảy pháp không bị suy giảm? Này các Tỷ-kheo, khi nào chúng Tỷkheo thường hay tụ họp và tụ họp đông đảo với nhau, thời này các Tỷ-kheo, chúng Tỷ-kheo sẽ được lớn
 mạnh, không bị suy giảm.
 
 Này các Tỷ-kheo, khi nàc chúng Tỷ-kheo tụ họp trong niệm đoàn kết, giải tán trong niệm đoàn kết, và
@@ -190,9 +198,11 @@ lớn mạnh, không bị suy giảm.
 
 **(IV) (22) Công Việc**
 
-1. - Này các Tỷ-kheo, có bảy pháp không làm suy giảm này... Ta sẽ giảng...
+<!--pg-->
+1\. - Này các Tỷ-kheo, có bảy pháp không làm suy giảm này... Ta sẽ giảng...
 
-2. Và này các Tỷ-kheo, thế nào là bảy pháp không làm suy giảm?
+<!--pg-->
+2\. Và này các Tỷ-kheo, thế nào là bảy pháp không làm suy giảm?
 
 Này các Tỷ-kheo, khi nào chúng Tỷ-kheo không ưa thích làm thế sự, không hoan hỷ làm thế sự, không
 đam mê làm thế sự, thời này các Tỷ-kheo, chúng Tỷ-kheo sẽ được lớn mạnh, không bị suy giảm.
@@ -223,13 +233,15 @@ mạnh, không bị suy giảm.
 
 **(V) (23) Tin Tưởng**
 
-1. - Này các Tỷ-kheo, có bảy pháp không bị suy giảm, hãy lắng nghe và khéo tác ý, Ta sẽ giảng.
+<!--pg-->
+1\. - Này các Tỷ-kheo, có bảy pháp không bị suy giảm, hãy lắng nghe và khéo tác ý, Ta sẽ giảng.
 
 − Xin vâng, bạch Thế Tôn.
 
 Các vị Tỷ-kheo ấy vâng đáp Thế Tôn. Thế Tôn nói như sau:
 
-2. - Và này các Tỷ-kheo, thế nào là bảy pháp không bị suy giảm?
+<!--pg-->
+2\. - Và này các Tỷ-kheo, thế nào là bảy pháp không bị suy giảm?
 Này các Tỷ-kheo, khi nào chúng Tỷ-kheo có tín tâm, có tàm, có quý, có nghe nhiều, có tinh tấn, có
 chánh niệm, có trí tuệ, thời này các Tỷ-kheo, chúng Tỷ-kheo sẽ được lớn mạnh, không bị suy giảm.
 
@@ -239,9 +251,11 @@ mạnh, không bị suy giảm.
 
 **(VI) (24) Giác Chi**
 
-1. - Này các Tỷ-kheo, có bảy pháp không làm suy giảm này... Ta sẽ giảng... (như trên).
+<!--pg-->
+1\. - Này các Tỷ-kheo, có bảy pháp không làm suy giảm này... Ta sẽ giảng... (như trên).
 
-2. Và này các Tỷ-kheo, thế nào là bảy pháp không làm suy giảm?
+<!--pg-->
+2\. Và này các Tỷ-kheo, thế nào là bảy pháp không làm suy giảm?
 
 Này các Tỷ-kheo, khi nào chúng Tỷ-kheo tu tập niệm giác chi, tu tập trạch pháp giác chi, tu tập tinh tấn
 giác chi, tu tập hỷ giác chi, tu tập khinh an giác chi, tu tập định giác chi, tu tập xả giác chi, thời này các
@@ -253,9 +267,11 @@ mạnh, không bị suy giảm.
 
 **(VII) (25) Tưởng**
 
-1. - Này các Tỷ-kheo, có bảy pháp không làm suy giảm này... Ta sẽ giảng... (như trên).
+<!--pg-->
+1\. - Này các Tỷ-kheo, có bảy pháp không làm suy giảm này... Ta sẽ giảng... (như trên).
 
-2. Và này các Tỷ-kheo, thế nào là bảy pháp không làm suy giảm?
+<!--pg-->
+2\. Và này các Tỷ-kheo, thế nào là bảy pháp không làm suy giảm?
 
 Này các Tỷ-kheo, khi nào chúng Tỷ-kheo tu tập vô thường tưởng, tu tập vô ngã tưởng, tu tập bất tịnh
 tưởng, tu tập nguy hại tưởng, tu tập đoạn diệt tưởng, tu tập vô tham tưởng, tu tập diệt tưởng, thời này
@@ -267,35 +283,43 @@ mạnh, không bị suy giảm.
 
 **(VIII) (26) Hữu Học**
 
-1. - Bảy pháp này, này các Tỷ-kheo, đưa đến sự thối đọa cho vị Tỷ-kheo hữu học. Thế nào là bảy?
+<!--pg-->
+1\. - Bảy pháp này, này các Tỷ-kheo, đưa đến sự thối đọa cho vị Tỷ-kheo hữu học. Thế nào là bảy?
 
-2. Ưa thích công việc; ưa thích nói chuyện; ưa thích ngủ nghỉ; ưa thích hội chúng; các căn không phòng
+<!--pg-->
+2\. Ưa thích công việc; ưa thích nói chuyện; ưa thích ngủ nghỉ; ưa thích hội chúng; các căn không phòng
 hộ; ăn uống không tiết độ; khi chúng Tăng có sự việc, tại đấy, Tỷ-kheo hữu học không có suy tư: “Giữa
 Tăng chúng có các trưởng lão có nhiều kinh nghiệm, xuất gia đã lâu năm, gánh vác chức vụ. Họ sẽ được
 biết đến vì những chức vụ này”, và không có tự mình chuyên tâm.
 
 Bảy pháp này, này các Tỷ-kheo, đưa vị Tỷ-kheo hữu học đến thối đọa.
 
-3. Bảy pháp này, này các Tỷ-kheo, đưa Tỷ-kheo hữu học đến không thối đọa. Thế nào là bảy?
+<!--pg-->
+3\. Bảy pháp này, này các Tỷ-kheo, đưa Tỷ-kheo hữu học đến không thối đọa. Thế nào là bảy?
 
-4. Không ưa thích công việc; không ưa thích nói chuyện; không ưa thích ngủ nghỉ; không ưa thích hội
+<!--pg-->
+4\. Không ưa thích công việc; không ưa thích nói chuyện; không ưa thích ngủ nghỉ; không ưa thích hội
 chúng; các căn được phòng hộ; ăn uống có tiết độ; khi chúng Tăng có sự việc, tại đấy, Tỷ-kheo hữu học
 có suy tư: “Giữa Tăng chúng, có các trưởng lão có nhiều kinh nghiệm, xuất gia đã lâu năm, gánh vác
 chức vụ. Họ sẽ được biết đến vì những chức vụ này” và có tự mình chuyên tâm.
 
 **(IX) (27) Thối Ðọa**
 
-1. - Bảy pháp này, này các Tỷ-kheo, đưa một nam cư sĩ đến thối đọa. Thế nào là bảy?
+<!--pg-->
+1\. - Bảy pháp này, này các Tỷ-kheo, đưa một nam cư sĩ đến thối đọa. Thế nào là bảy?
 
-2. Quên, không đến thăm Tỷ-kheo; phóng túng nghe diệu pháp; không tu tập tăng trưởng giới; ít tin
+<!--pg-->
+2\. Quên, không đến thăm Tỷ-kheo; phóng túng nghe diệu pháp; không tu tập tăng trưởng giới; ít tin
 tưởng các Tỷ-kheo trưởng lão, trung niên, tân nhập; nghe pháp với tâm cật nạn, tìm tòi các khuyết điểm;
 tìm người xứng đáng cúng dường ngoài Tăng chúng; tại đấy phục vụ trước.
 
 Bảy pháp này, này các Tỷ-kheo, đưa một nam cư sĩ đến thối đọa.
 
-3. Bảy pháp này, này các Tỷ-kheo, đưa một nam cư sĩ đến không thối đọa. Thế nào là bảy?
+<!--pg-->
+3\. Bảy pháp này, này các Tỷ-kheo, đưa một nam cư sĩ đến không thối đọa. Thế nào là bảy?
 
-4. Không quên đến thăm vị Tỷ-kheo; không phóng túng nghe diệu pháp; tu tập tăng thượng giới; nhiều
+<!--pg-->
+4\. Không quên đến thăm vị Tỷ-kheo; không phóng túng nghe diệu pháp; tu tập tăng thượng giới; nhiều
 tin tưởng đối với các Tỷ-kheo trưởng lão, trung niên, tân nhập; nghe pháp với tâm không cật nạn, không
 tìm tòi các khuyết điểm; không tìm người xứng đáng cùng dường ngoài Tăng chúng; ở đấy phục vụ
 trước.
@@ -338,11 +362,13 @@ _Diệu pháp không suy giảm._
 
 **(X-XII) (28-30) Bất Hạnh Thối Ðọa**
 
-1. - Này các Tỷ-kheo, có bảy bất hạnh này của người cư sĩ... Này các Tỷ-kheo, có bảy điều may mắn của
+<!--pg-->
+1\. - Này các Tỷ-kheo, có bảy bất hạnh này của người cư sĩ... Này các Tỷ-kheo, có bảy điều may mắn của
 người cư sĩ... Này các Tỷ-kheo, có bảy thối đọa này của người cư sĩ... Này các Tỷ-kheo, có bảy thắng
 tiến này của người cư sĩ... Thế nào là bảy?
 
-2. Không quên đến thăm vị Tỷ-kheo; không phóng túng nghe diệu pháp; tu tập tăng thượng giới, nhiều
+<!--pg-->
+2\. Không quên đến thăm vị Tỷ-kheo; không phóng túng nghe diệu pháp; tu tập tăng thượng giới, nhiều
 tin tưởng đối với các vị Tỷ-kheo trưởng lão, trung niên, tân nhập; nghe pháp với tâm không cật nạn,
 không tìm tòi các khuyết điểm; không tìm người xứng đáng cùng dường ngoài Tăng chúng; tại đấy phục
 vụ trước.

@@ -1,4 +1,4 @@
-## The Chapter on Freedom From Death
+# The Chapter on Freedom From Death
 
 ### N 1.616--627 *Amatavagga*
 

@@ -2,16 +2,19 @@
 
 **(I) (178) Thiện, Bất Thiện**
 
-1. Này các Tỷ-kheo, Ta sẽ thuyết về lành và không lành. Hãy nghe và khéo tác ý, Ta sẽ nói.
+<!--pg-->
+1\. Này các Tỷ-kheo, Ta sẽ thuyết về lành và không lành. Hãy nghe và khéo tác ý, Ta sẽ nói.
 
 − Thưa vâng, bạch Thế Tôn.
 
 Các Tỷ-kheo ấy vâng đáp Thế Tôn. Thế Tôn nói như sau:
 
-2. Này các Tỷ-kheo, thế nào là không lành? Sát sanh, lấy của không cho... tà kiến. Này các Tỷ-kheo đây
+<!--pg-->
+2\. Này các Tỷ-kheo, thế nào là không lành? Sát sanh, lấy của không cho... tà kiến. Này các Tỷ-kheo đây
 gọi là không lành.
 
-3. Và này các Tỷ-kheo, thế nào là lành? Từ bỏ sát sanh... có chánh kiến.
+<!--pg-->
+3\. Và này các Tỷ-kheo, thế nào là lành? Từ bỏ sát sanh... có chánh kiến.
 
 Này các Tỷ-kheo, đây gọi là lành.
 

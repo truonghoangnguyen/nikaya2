@@ -1,4 +1,4 @@
-## The Chapter on a Lump of Salt
+# The Chapter on a Lump of Salt
 
 ### N 3.92 Urgent  *Accāyikasutta*
 
@@ -24,6 +24,7 @@ So you should train like this: 'We will have keen enthusiasm for
 undertaking the training in the higher ethics, the higher mind, and the
 higher wisdom.' That's how you should train."
 
+<!--pg-->
 ### N 3.93 Seclusion  *Pavivekasutta*
 
 "Mendicants, wanderers of other religions advocate three kinds of
@@ -71,6 +72,7 @@ giving up defilements, being secluded from them: they're called a
 mendicant who has reached the peak and the pith, being pure and
 consolidated in the core."
 
+<!--pg-->
 ### N 3.94 Autumn  *Saradasutta*
 
 "In the autumn, the heavens are clear and cloudless. And as the sun is
@@ -88,6 +90,7 @@ bliss born of seclusion, while placing the mind and keeping it
 connected. If that noble disciple passed away at that time, they're
 bound by no fetter that might return them to this world."
 
+<!--pg-->
 ### N 3.95 Assemblies  *Parisāsutta*
 
 "Mendicants, these are the three assemblies. What three? An assembly of
@@ -117,7 +120,7 @@ At that time the mendicants live in a divine dwelling, that is, the
 heart's release by rejoicing. When they're joyful, rapture springs up.
 When the mind is full of rapture, the body becomes tranquil. When the
 body is tranquil, they feel bliss. And when they're blissful, the mind
-becomes immersed in [samādhi]{lang="sa"}.
+becomes immersed in samādhi.
 
 It's like when the heavens rain heavily on a mountain top, and the water
 flows downhill to fill the hollows, crevices, and creeks. As they become
@@ -132,10 +135,11 @@ mendicants live in a divine dwelling, that is, the heart's release by
 rejoicing. When they're joyful, rapture springs up. When the mind is
 full of rapture, the body becomes tranquil. When the body is tranquil,
 they feel bliss. And when they're blissful, the mind becomes immersed in
-[samādhi]{lang="sa"}.
+samādhi.
 
 These are the three assemblies."
 
+<!--pg-->
 ### N 3.96 The Thoroughbred (1st)  *Paṭhamaājānīyasutta*
 
 "Mendicants, a fine royal thoroughbred with three factors is worthy of a
@@ -172,6 +176,7 @@ to the gods, worthy of hospitality, worthy of a religious donation,
 worthy of veneration with joined palms, and is the supreme field of
 merit for the world."
 
+<!--pg-->
 ### N 3.97 The Thoroughbred (2nd)  *Dutiyaājānīyasutta*
 
 "Mendicants, a fine royal thoroughbred with three factors is worthy of a
@@ -208,6 +213,7 @@ to the gods, worthy of hospitality, worthy of a religious donation,
 worthy of veneration with joined palms, and is the supreme field of
 merit for the world."
 
+<!--pg-->
 ### N 3.98 The Thoroughbred (3rd)  *Tatiyaājānīyasutta*
 
 "Mendicants, a fine royal thoroughbred with three factors is worthy of a
@@ -244,6 +250,7 @@ to the gods, worthy of hospitality, worthy of a religious donation,
 worthy of veneration with joined palms, and is the supreme field of
 merit for the world."
 
+<!--pg-->
 ### N 3.99 Jute  *Potthakasutta*
 
 "Jute canvas is ugly, unpleasant to touch, and worthless whether it's
@@ -268,28 +275,29 @@ they're ugly, I say. ... If you associate with, accompany, and attend to
 that person, following their example, it'll be for your lasting harm and
 suffering. ...
 
-If such a senior mendicant speaks among the [Saṅgha]{lang="sa"}, the
+If such a senior mendicant speaks among the Saṅgha, the
 mendicants say: 'What's an incompetent fool like you got to say? How on
 earth could you imagine you've got something worth saying!' That person
 becomes angry and upset, and blurts out things that make the
-[Saṅgha]{lang="sa"} throw them out, as if they were throwing jute canvas
+Saṅgha throw them out, as if they were throwing jute canvas
 away on the rubbish heap.
 
-Cloth from [Kāsi]{lang="sa"} is beautiful, pleasant to touch, and
+<!--pg-->
+Cloth from Kāsi is beautiful, pleasant to touch, and
 valuable whether it's new, worn in, or worn out. They use worn out cloth
-from [Kāsi]{lang="sa"} for wrapping, or else they place it in a fragrant
+from Kāsi for wrapping, or else they place it in a fragrant
 casket.
 
 In the same way, if a junior mendicant is ethical, of good character,
 this is how they're beautiful, I say. That person is just as beautiful
-as cloth from [Kāsi]{lang="sa"}. If you associate with, accompany, and
+as cloth from Kāsi. If you associate with, accompany, and
 attend to such a person, following their example, it will be for your
 lasting welfare and happiness. This is how they're pleasant to touch, I
 say. That person is just as pleasant to touch as cloth from
-[Kāsi]{lang="sa"}. Any robes, almsfood, lodgings, and medicines and
+Kāsi. Any robes, almsfood, lodgings, and medicines and
 supplies for the sick that they receive are very fruitful and beneficial
 for the donor. This is how they're valuable, I say. That person is just
-as valuable as cloth from [Kāsi]{lang="sa"}.
+as valuable as cloth from Kāsi.
 
 If a middle mendicant is ethical, of good character, this is how they're
 beautiful, I say. ...
@@ -298,12 +306,13 @@ If a senior mendicant is ethical, of good character, this is how they're
 beautiful, I say. ...
 
 If such a senior mendicant speaks in the midst of the
-[Saṅgha]{lang="sa"}, the mendicants say: 'Venerables, be quiet! The
+Saṅgha, the mendicants say: 'Venerables, be quiet! The
 senior mendicant is speaking on the teaching and training.'
 
 So you should train like this: 'We will be like cloth from
-[Kāsi]{lang="sa"}, not like jute canvas.' That's how you should train."
+Kāsi, not like jute canvas.' That's how you should train."
 
+<!--pg-->
 ### N 3.100 A Lump of Salt  *Loṇakapallasutta*
 
 "Mendicants, suppose you say: 'No matter how this person performs a
@@ -399,6 +408,7 @@ experience the result as it should be experienced.' This being so, the
 spiritual life can be lived, and there is a chance of making a complete
 end of suffering."
 
+<!--pg-->
 ### N 3.101 A Panner  *Paṁsudhovakasutta*
 
 "Native gold has coarse corruptions: sand, soil, and gravel. A panner or
@@ -435,7 +445,7 @@ teaching are left. That immersion is not peaceful or sublime or tranquil
 or unified, but is held in place by forceful suppression.
 
 But there comes a time when that mind is stilled internally; it settles,
-unifies, and becomes immersed in [samādhi]{lang="sa"}. That immersion is
+unifies, and becomes immersed in samādhi. That immersion is
 peaceful and sublime and tranquil and unified, not held in place by
 forceful suppression. They extend the mind to realize by insight each
 and every thing that can be realized by insight; and they are capable of
@@ -465,9 +475,9 @@ and mind without delusion as "mind without delusion"; constricted mind
 as "constricted mind", and scattered mind as "scattered mind"; expansive
 mind as "expansive mind", and unexpansive mind as "unexpansive mind";
 mind that is not supreme as "mind that is not supreme", and mind that is
-supreme as "mind that is supreme"; mind immersed in [samādhi]{lang="sa"}
-as "mind immersed in [samādhi]{lang="sa"}", and mind not immersed in
-[samādhi]{lang="sa"} as "mind not immersed in [samādhi]{lang="sa"}";
+supreme as "mind that is supreme"; mind immersed in samādhi\.
+as "mind immersed in samādhi", and mind not immersed in
+samādhi as "mind not immersed in samādhi";
 freed mind as "freed mind", and unfreed mind as "unfreed mind".' They
 are capable of realizing these things, since each and every one is
 within range.
@@ -509,6 +519,7 @@ by wisdom in this very life, and live having realized it with my own
 insight due to the ending of defilements.' They are capable of realizing
 these things, since each and every one is within range."
 
+<!--pg-->
 ### N 3.102 Basis  *Nimittasutta*
 
 "Mendicants, a mendicant committed to the higher mind should focus on
@@ -522,13 +533,13 @@ If they focus solely on the basis of exertion, it's likely their mind
 will incline to restlessness.
 
 If they focus solely on the basis of equanimity, it's likely their mind
-won't properly become immersed in [samādhi]{lang="sa"} for the ending of
+won't properly become immersed in samādhi for the ending of
 defilements.
 
 But when a mendicant dedicated to the higher mind focuses from time to
 time on the basis of immersion, the basis of exertion, and the basis of
 equanimity, their mind becomes pliable, workable, and radiant, not
-brittle, and has become rightly immersed in [samādhi]{lang="sa"} for the
+brittle, and has become rightly immersed in samādhi for the
 ending of defilements.
 
 It's like when a goldsmith or a goldsmith's apprentice prepares a forge,
@@ -552,7 +563,7 @@ exertion, and the basis of equanimity. ...
 When a mendicant dedicated to the higher mind focuses from time to time
 on the basis of immersion, the basis of exertion, and the basis of
 equanimity, their mind becomes pliable, workable, and radiant, not
-brittle, and has become rightly immersed in [samādhi]{lang="sa"} for the
+brittle, and has become rightly immersed in samādhi for the
 ending of defilements. They extend the mind to realize by insight each
 and every thing that can be realized by insight; and they are capable of
 realizing those things, since each and every one is within range.

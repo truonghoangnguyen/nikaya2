@@ -15,12 +15,14 @@ Các tỷ-kheo ấy vâng đáp Thế Tôn. Thế tôn nói như sau:
 2.- Này các Tỷ-kheo, do không giác ngộ, không thể nhập bốn pháp, như vậy phải chạy dài, luân chuyển
 trong một thời gian dài, đối với Ta và đối với các Thầy! Thế nào là bốn?
 
-3. Này các Tỷ-kheo, do không giác ngộ, không thể nhập Thánh giới, như vậy phải chạy dài, phải luân
+<!--pg-->
+3\. Này các Tỷ-kheo, do không giác ngộ, không thể nhập Thánh giới, như vậy phải chạy dài, phải luân
 chuyển trong một thời gian dài, đối với Ta và đối với các Thầy. Này các Tỷ-kheo, do không giác ngộ,
 không thể nhập Thánh định, ... Thánh tuệ, ... Thánh giải thoát, như vậy phải chạy dài, phải luân chuyển
 trong một thời gian dài, đối với Ta và đối với các Thầy.
 
-4. Này các Tỷ-kheo, khi nào Thánh giới này được giác ngộ, được thể nhập; Thánh tuệ được giác ngộ,
+<!--pg-->
+4\. Này các Tỷ-kheo, khi nào Thánh giới này được giác ngộ, được thể nhập; Thánh tuệ được giác ngộ,
 được thể nhập; Thánh định được giác ngộ, được thể nhập; Thánh giải thoát được giác ngộ, được thể
 nhập; hữu ái được chặt đứt, dây cột của hữu được đoạn tận, nay không còn tái sanh.
 
@@ -35,6 +37,7 @@ _Thuyết pháp cho Tỷ-kheo_
 _Ðạo sư đoạn tận khổ_
 _Bậc Tuệ nhãn tịch tịnh._
 
+<!--pg-->
 **(II) (2) Rời Khỏi**
 
 1.- Người không thành tựu bốn pháp này, này các Tỷ-kheo, được gọi là bị rời khỏi pháp luật này. Thế
@@ -45,9 +48,11 @@ Thánh Thiền định, này các Tỷ-kheo, ... không thành tựu Thánh Trí
 tựu Thánh giải thoát, này các Tỷ-kheo, được gọi là bị rời khỏi pháp luật này.
 
 Không thành tựu bốn pháp này, này các Tỷ-kheo, được gọi là bị rời khỏi pháp luật này.
-2. Thành tựu bốn pháp này, này các Tỷ-kheo, được gọi là không rời khỏi pháp luật này. Thế nào là bốn?
+<!--pg-->
+2\. Thành tựu bốn pháp này, này các Tỷ-kheo, được gọi là không rời khỏi pháp luật này. Thế nào là bốn?
 
-3. Thành tựu Thánh giới, này các Tỷ-kheo, được gọi là không rời khỏi pháp luật này. Thành tựu Thánh
+<!--pg-->
+3\. Thành tựu Thánh giới, này các Tỷ-kheo, được gọi là không rời khỏi pháp luật này. Thành tựu Thánh
 định, này các Tỷ-kheo, ... thành tựu Thánh Trí tuệ, này các Tỷ-kheo ... thành tựu Thánh giải thoát, này
 các Tỷ-kheo, được gọi là không rời khỏi pháp luật này.
 
@@ -62,11 +67,13 @@ _Ðã thích việc đáng thích_
 _Người ấy được an lạc_
 _Do an lạc đưa đến_
 
+<!--pg-->
 **(III) (3) Mất Gốc (1)**
 
 − Tán thán, không tán thán, tín nhiệm, không tín nhiệm.
 
-1. Thành tựu bốn pháp này, này các Tỷ-kheo, kẻ ngu, không thông minh, không phải bậc Chân nhân, tự
+<!--pg-->
+1\. Thành tựu bốn pháp này, này các Tỷ-kheo, kẻ ngu, không thông minh, không phải bậc Chân nhân, tự
 mình sử xự như môt kẻ mất gốc, bị thương tích, phạm tội, bị kẻ trí quở trách, và tạo nên nhiều điều vô
 phước. Thế nào là bốn?
 
@@ -79,7 +86,8 @@ Thành tựu bốn pháp này, này các Tỷ-kheo, kẻ ngu, không thông minh
 mình sử xự như môt kẻ mất gốc, bị thương tích, phạm tội, bị kẻ trí quở trách, và tạo nên nhiều điều vô
 phước.
 
-2. Thành tựu bốn pháp này, này các Tỷ-kheo, bậc Hiền trí, thông minh, là bậc Chân nhân, tự mình sử xự
+<!--pg-->
+2\. Thành tựu bốn pháp này, này các Tỷ-kheo, bậc Hiền trí, thông minh, là bậc Chân nhân, tự mình sử xự
 như môt người không mất gốc, không bị thương tích, không phạm tội, không bị kẻ trí quở trách, và tạo
 nên nhiều điều phước đức. Thế nào là bốn?
 
@@ -115,6 +123,7 @@ _Trong suốt thời gian ấy_
 _Nếu mắng nhiếc bậc Thánh_
 _Với lời, ý, nguyện ác._
 
+<!--pg-->
 **(IV) (4) Mất Gốc (2)**
 
 1.- Do tà hạnh trong bốn sự, này các Tỷ-kheo, kẻ ngu, không thông minh, không phải bậc Chân nhân, tự
@@ -127,7 +136,8 @@ tử của Như Lai, này các Tỷ-kheo....., kẻ ngu, không thông minh, kh�
 nên nhiều điều vô phước. Tà hạnh trong bốn pháp này, này các Tỷ-kheo, kẻ ngu, không thông minh, ...
 tạo nên nhiều điều vô phước.
 
-2. Chánh hạnh trong bốn sự này, này các Tỷ-kheo, bậc Hiền trí, thông minh, là bậc Chân nhân, tự mình
+<!--pg-->
+2\. Chánh hạnh trong bốn sự này, này các Tỷ-kheo, bậc Hiền trí, thông minh, là bậc Chân nhân, tự mình
 sử xự không như người mất gốc, không bị thương tích, không phạm tội, không bị kẻ trí quở trách, và tạo
 nên nhiều điều phước đức. Thế nào là chánh hạnh trong bốn sự?
 
@@ -160,6 +170,7 @@ _Ðối với mẹ và cha_
 _Ðời này, bậc trí khen_
 _Ðời sau hưởng Thiên giới_
 
+<!--pg-->
 **(V) (5) Thuận Dòng**
 
 1.- Có bốn hạng người này, này các Tỷ-kheo, hiện hữu có mặt ở đời. Thế nào là bốn? Hạng người đi
@@ -228,6 +239,7 @@ _Chỗ tận cùng thế giới_
 _Bậc đã đến bờ kia._
 
 
+<!--pg-->
 **(VI) (6) Học Hỏi Ít.**
 
 1.- Có bốn hạng người này, này các Tỷ-kheo, có mặt, hiện hữu ở đời. Thế nào là bốn? Nghe ít, điều đã
@@ -291,6 +303,7 @@ _Ai có thể chỉ trích?_
 _Chư thiên khen vị ấy_
 _Phạm thiên cũng ngợi khen_
 
+<!--pg-->
 **(VI I) (7) Chói Sáng Tăng Chúng**
 
 − Có bốn hạng người này, này các Tỷ-kheo, thông minh, được huấn luyện, không sợ hãi, nghe nhiều, trì
@@ -315,6 +328,7 @@ _Bậc cư sĩ tín nữ_
 _Họ chói sáng Tăng chúng_
 _Là ánh sáng Tăng chúng_
 
+<!--pg-->
 **(VIII ) (8) Vô Sở Úy**
 
 − Có bốn vô sở úy của Như Lai, này các Tỷ-kheo, do thành tựu bốn vô sở úy này, Như Lai tự nhận cho
@@ -364,6 +378,7 @@ _Tối thắng giữa Thiên nhân_
 _Mọi chúng sanh đảnh lễ_
 _Bậc vượt quan sanh hữu._
 
+<!--pg-->
 **(IX) (9) Khát Ái**
 
 − Có bốn ái sanh khởi này, này các Tỷ-kheo, khi nào ái sanh, có thể sanh khởi nơi vị Tỷ-kheo. Thế nào
@@ -387,6 +402,7 @@ _Không nắm giữ chấp thủ_
 _An trú, không thất niệm_
 _Vị ấy sống xuất gia._
 
+<!--pg-->
 **(X) (10) Các Ách**
 
 1.- Này các Tỷ-kheo, có bốn ách này. Thế nào là bốn? Dục ách, hữu ách, kiến ách, vô minh ách.
@@ -424,7 +440,8 @@ Bị trói buộc bởi các ác bất thiện pháp, các phiền não, các ph
 thục trong tương lai, bởi sanh già, chết, do vậy được gọi là không an ổn khỏi các ách. Này các Tỷ-kheo,
 có bốn ách này.
 
-2. Này các Tỷ-kheo, có bốn ách ly này. Thế nào là bốn? Ly dục ách, ly hữu ách, ly kiến ách, ly vô minh
+<!--pg-->
+2\. Này các Tỷ-kheo, có bốn ách ly này. Thế nào là bốn? Ly dục ách, ly hữu ách, ly kiến ách, ly vô minh
 ách.
 
 Và này các Tỷ-kheo, thế nào là ly dục ách?

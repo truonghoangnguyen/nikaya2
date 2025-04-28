@@ -2,20 +2,23 @@
 
 **(I) (134) Lành Và Không Lành**
 
-1. Này các Tỷ-kheo, Ta sẽ thuyết cho các Thầy về lành và không lành. Hãy nghe và khéo tác ý, Ta sẽ
+<!--pg-->
+1\. Này các Tỷ-kheo, Ta sẽ thuyết cho các Thầy về lành và không lành. Hãy nghe và khéo tác ý, Ta sẽ
 nói.
 
 − Thưa vâng, bạch Thế Tôn.
 
 Các Tỷ-kheo ấy vâng đáp Thế Tôn. Thế Tôn nói như sau:
 
-2. Này các Tỷ-kheo, thế nào là không lành?
+<!--pg-->
+2\. Này các Tỷ-kheo, thế nào là không lành?
 
 Tà kiến... tà giải thoát.
 
 Này các Tỷ-kheo, như vậy là không lành.
 
-3. Và này các Tỷ-kheo, thế nào là lành?
+<!--pg-->
+3\. Và này các Tỷ-kheo, thế nào là lành?
 
 Chánh kiến... chánh giải thoát.
 
@@ -23,19 +26,23 @@ Này các Tỷ-kheo, đây gọi là lành.
 
 **(II) (135) Thánh vả Phi Thánh**
 
-1. Này các Tỷ-kheo, Ta sẽ giảng về Thánh pháp và phi Thánh pháp. Hãy nghe và khéo tác ý, Ta sẽ nói.
+<!--pg-->
+1\. Này các Tỷ-kheo, Ta sẽ giảng về Thánh pháp và phi Thánh pháp. Hãy nghe và khéo tác ý, Ta sẽ nói.
 
 − Thưa vâng, bạch Thế Tôn.
 
 Các Tỷ-kheo ấy vâng đáp Thế Tôn, Thế Tôn nói như sau:
 
-2. Và này các Tỷ-kheo, thế nào là phi Thánh pháp?
+<!--pg-->
+2\. Và này các Tỷ-kheo, thế nào là phi Thánh pháp?
 
 Tà kiến... tà giải thoát. Như vậy, này các Tỷ-kheo, gọi là phi Thánh pháp.
 
-3. Và này các Tỷ-kheo, thế nào là Thánh pháp?
+<!--pg-->
+3\. Và này các Tỷ-kheo, thế nào là Thánh pháp?
 
-4. Chánh kiến... chánh giải thoát.
+<!--pg-->
+4\. Chánh kiến... chánh giải thoát.
 Này các Tỷ-kheo, đây gọi là Thánh pháp.
 
 **(III) (136) Thiện và Bất Thiện**

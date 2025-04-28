@@ -1,4 +1,7 @@
 const kinhtangchi_thichminhchau = [
+  { text: "Bìa", link: "/kinhtangchi/thichminhchau/cover.md" },
+  { text: "Giới thiệu", link: "/kinhtangchi/thichminhchau/index.md" },
+  { text: "Mục Lục", link: "/kinhtangchi/thichminhchau/mucluc.md" },
   { text: "I. Phẩm Sắc", link: "/kinhtangchi/thichminhchau/01-001-pham-sac.md" },
   { text: "II. Phẩm Ðoạn Triền Cái", link: "/kinhtangchi/thichminhchau/01-002-pham-doan-trien-cai.md" },
   { text: "III. Phẩm Khó Sử Dụng", link: "/kinhtangchi/thichminhchau/01-003-pham-kho-su-dung.md" },
@@ -56,7 +59,9 @@ const kinhtangchi_thichminhchau = [
   { text: "XIII. Phẩm Kusinàra", link: "/kinhtangchi/thichminhchau/03-013-pham-kusinara.md" },
   { text: "XIV. Phẩm Kẻ Chiến Sĩ", link: "/kinhtangchi/thichminhchau/03-014-pham-ke-chien-si.md" },
   { text: "XV. Phẩm Cát Tường", link: "/kinhtangchi/thichminhchau/03-015-pham-cat-tuong.md" },
-  { text: "XVI. Phẩm Lõa Thể", link: "/kinhtangchi/thichminhchau/03-016-pham-loa-the.md" },
+  { text: "XVI. Phẩm Lõa Thể", link: "/kinhtangchi/thichminhchau/03-016-1-pham-loa-the.md" },
+  { text: "XVI. Phẩm Lõa Thể (2)", link: "/kinhtangchi/thichminhchau/03-016-2-pham-loa-the.md" },
+  { text: "XVI. Phẩm Lõa Thể (3)", link: "/kinhtangchi/thichminhchau/03-016-3-pham-loa-the.md" },
   { text: "I. Phẩm Bhandagana", link: "/kinhtangchi/thichminhchau/04-001-pham-bhandagana.md" },
   { text: "II. Phẩm Hành", link: "/kinhtangchi/thichminhchau/04-002-pham-hanh.md" },
   { text: "III. Phẩm Uruvelà", link: "/kinhtangchi/thichminhchau/04-003-pham-uruvela.md" },

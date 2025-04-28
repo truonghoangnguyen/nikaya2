@@ -1,4 +1,4 @@
-## The Chapter on Persons
+# The Chapter on Persons
 
 ### N 2.52--63 *Puggalavagga*
 
@@ -62,7 +62,6 @@ of these two things."
 62\. "Mendicants, I will teach you about living with bad people and living
 with good people. Listen and apply your mind well, I will speak."
 
-<!--pg-->
 "Yes, sir," they replied. The Buddha said this:
 
 "What is it like living with bad people? How do bad people live
@@ -110,7 +109,6 @@ exasperation is not settled, you can expect that this disciplinary issue
 will lead to lasting acrimony and enmity, and the mendicants will not
 live comfortably.
 
-<!--pg-->
 In any disciplinary issue where on both sides the endless talk, contempt
 for each other's views, resentment, bitterness, and exasperation is well
 settled, you can expect that this disciplinary issue won't lead to

@@ -2,36 +2,43 @@
 
 **(I) (81) Bàhuna**
 
-1. Một thời, Thế Tôn trú ở Campá, trên bờ hồ Gaggarà. Rồi Tôn giả Bàhuna đi đến Thế Tôn, sau khi
+<!--pg-->
+1\. Một thời, Thế Tôn trú ở Campá, trên bờ hồ Gaggarà. Rồi Tôn giả Bàhuna đi đến Thế Tôn, sau khi
 đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Ngồi xuống một bên, Tôn giả Bàhuna bạch Thế Tôn:
 
 − Từ bao nhiêu pháp, Như Lai sống xuất ly, ly hệ, giải thoát với tâm không hạn cuộc.
 
-2. - Từ mười pháp, này Bàhuna, Như Lai sống xuất ly, ly hệ. giải thoát với tâm không hạn cuộc. Thế nào
+<!--pg-->
+2\. - Từ mười pháp, này Bàhuna, Như Lai sống xuất ly, ly hệ. giải thoát với tâm không hạn cuộc. Thế nào
 là mười?
 
-3. Từ sắc, này Bàhuna, Như Lai sống xuất ly, ly hệ, giải thoát với tâm không hạn cuộc. Từ thọ, này
+<!--pg-->
+3\. Từ sắc, này Bàhuna, Như Lai sống xuất ly, ly hệ, giải thoát với tâm không hạn cuộc. Từ thọ, này
 Bàhuna... Từ tưởng, này Bàhuna... Từ các hành, này Bàhuna... Từ thức, này Bàhuna... Từ sanh, này
 Bàhuna... Từ già, này Bàhuna...Từ chết, này Bàhuna...Từ các khổ này Bàhuna.... Từ các phiền não, này
 Bàhuna, Như Lai sống xuất ly, ly hệ, giải thoát với tâm không hạn cuộc.
 
-4. Ví như, này Bàhuna, hoa sen xanh, hay hoa sen hồng, hay hoa sen trắng, sanh ra trong nước, lớn lên
+<!--pg-->
+4\. Ví như, này Bàhuna, hoa sen xanh, hay hoa sen hồng, hay hoa sen trắng, sanh ra trong nước, lớn lên
 trong nước, vươn lên mặt nước và đứng, không có dính nước. Cũng vậy, này Bàhuna, từ mười pháp này,
 Như Lai sống xuất ly, ly hệ, giải thoát với tâm không hạn cuộc.
 
 **(II) (82) Ananda**
 
-1. Rồi Tôn giả Ananda đi đến Thế Tôn, sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Thế Tôn
+<!--pg-->
+1\. Rồi Tôn giả Ananda đi đến Thế Tôn, sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Thế Tôn
 với Tôn giả Ananda đang ngồi một bên:
 
-2. - Này Abada, Tỷ-kheo nào không có lòng tin, sẽ được tăng trưởng, lớn mạnh, lớn rộng trong pháp luật
+<!--pg-->
+2\. - Này Abada, Tỷ-kheo nào không có lòng tin, sẽ được tăng trưởng, lớn mạnh, lớn rộng trong pháp luật
 này, sự kiện này không xảy ra. Này Ananda, Tỷ-kheo nào ác giới... không nghe pháp... khó nói... làm
 bạn với ác... biếng nhác... thất niệm... không biết đủ... ác dục.. này Ananda, Tỷ-kheo nào có tà kiến sẽ
 được tăng trưởng lớn mạnh, lớn rộng trong pháp luật này, sự kiện không xảy ra.
 Này Ananda, Tỷ-kheo nào thành tựu mười pháp này, sẽ được tăng trưởng, lớn mạnh, lớn rộng trong
 Pháp và Luật này, sự kiện này có xảy ra.
 
-3. Này Ananda, Tỷ-kheo nào có lòng tin, sẽ được tăng trưởng, lớn mạnh, lớn rộng trong Pháp và Luật
+<!--pg-->
+3\. Này Ananda, Tỷ-kheo nào có lòng tin, sẽ được tăng trưởng, lớn mạnh, lớn rộng trong Pháp và Luật
 này, sự kiện này có xảy ra, Này Ananda, Tỷ-kheo nào có giới... nghe pháp, thọ trì điều đã nghe... dễ
 nói... làm bạn với thiện... tinh thần, tinh tấn... trú niệm... biết đủ... ít dục... Này Ananda, Tỷ-kheo nào có
 chánh tri kiến, sẽ được tăng trưởng, lớn mạnh, lớn rộng trong Pháp và Luật này, sự kiện này có xảy ra.
@@ -41,7 +48,8 @@ và Luật này, sự kiện này có xảy ra.
 
 **(III) (83) Punniya**
 
-1. Rồi Tôn giả Punniya đi đến Thế Tôn, sau khi đến, đảnh lễ Thế Tôn rồi xuống một bên. Ngồi xuống
+<!--pg-->
+1\. Rồi Tôn giả Punniya đi đến Thế Tôn, sau khi đến, đảnh lễ Thế Tôn rồi xuống một bên. Ngồi xuống
 một bên, Tôn giả Punniya bạch Thế Tôn:
 
 − Bạch Thế Tôn, do nhân gì, do duyên gì, có khi Thế Tôn thuyết pháp, có khi Thế Tôn không thuyết
@@ -58,7 +66,8 @@ thành tựu các lời tao nhả, nói lên ý nghĩa phân biệt rõ ràng, n
 lệ, không có làm cho phấn chấn, không có làm cho hoan hỷ các vị đồng Phạm hạnh, cho đến như vậy,
 Như lai không thuyết pháp.
 
-3. Và này Punniya, Tỷ-kheo có lòng tin, có đi đến yết kiến, có hầu hạ, có hỏi, có lóng tai nghe; sau khi
+<!--pg-->
+3\. Và này Punniya, Tỷ-kheo có lòng tin, có đi đến yết kiến, có hầu hạ, có hỏi, có lóng tai nghe; sau khi
 nghe, có thọ trì pháp, có suy nghĩ ý nghĩa các pháp đã được thọ trì; sau khi biết ý nghĩa, sau khi biết
 pháp, có thực hành pháp đúng pháp, khéo nói, khéo phát ngôn, thành tựu các lời tao nhã, nói lên ý nghĩa
 phân biệt rõ ràng và có thuyết trình, có khích lệ, có làm cho phấn chấn, có làm cho hoan hỷ các vị đồng
@@ -68,7 +77,8 @@ Thành tựu mười pháp này, này Punniya Như Lai thế nào cũng thuyết
 
 **(VI) (84) Nói Lên Chánh Trí**
 
-1. Ở đây, Tôn giả Mahàmoggallàna gọi các Tỷ-kheo:
+<!--pg-->
+1\. Ở đây, Tôn giả Mahàmoggallàna gọi các Tỷ-kheo:
 
 − Này các hiền giả Tỷ-kheo.
 
@@ -76,7 +86,8 @@ Thành tựu mười pháp này, này Punniya Như Lai thế nào cũng thuyết
 
 Các Tỷ-kheo ấy vâng đáp Tôn giả Mahàmoggallàna. Tôn giả Mahàmoggallàna nói như sau:
 
-2. - Ở đây, này các Hiền giả, Tỷ-kheo nói lên chánh trí: “Tôi rõ biết: “Sanh đã tận, Phạm hạnh đã thành,
+<!--pg-->
+2\. - Ở đây, này các Hiền giả, Tỷ-kheo nói lên chánh trí: “Tôi rõ biết: “Sanh đã tận, Phạm hạnh đã thành,
 những việc nên làm đã làm, không còn trở lui trạng thái này nữa””. Rồi Như Lai hay đệ tử Như Lai, là vị
 hành thiền, thiện xảo trong thiền chứng, thiện xảo trong tâm người khác, thiện xảo trong hành tướng tâm
 người khác, thẩm vấn, gạn hỏi, thảo luận. Vị ấy bị Như Lai hay đệ tử Như Lai, những vị hành thiền,
@@ -96,13 +107,15 @@ Tôn giả này... Dầu cho còn nhiều việc (cao thượng hơn) cần ph�
 nhưng chỉ là phần nhỏ lại đứng lại giữa đường; đứng lại giữa đường này nghĩa là tổn giảm trong Pháp
 Luật do Như Lai thuyết giảng.”
 
-3. Tỷ-kheo ấy, chư Hiền, do không đoạn tận mười pháp này, đi đến được tăng trưởng, lớn mạnh, lớn
+<!--pg-->
+3\. Tỷ-kheo ấy, chư Hiền, do không đoạn tận mười pháp này, đi đến được tăng trưởng, lớn mạnh, lớn
 rộng trong Pháp và Luật này, sự kiện này không xảy ra. Tỷ-kheo ấy, này chư Hiền, do đoạn tận mười
 pháp này, đi đến được tăng trưởng lớn mạnh, lớn rộng trong Pháp và Luật này, sự kiện này có xảy ra.
 
 **(V) (85) Khoe Khoang**
 
-1. Một thời, Tôn giả Mahàcunda trú giữa dân chúng Cetì, tại Sahajati. Tại đây, Tôn giả Mahàcunda bảo
+<!--pg-->
+1\. Một thời, Tôn giả Mahàcunda trú giữa dân chúng Cetì, tại Sahajati. Tại đây, Tôn giả Mahàcunda bảo
 các Tỷ-kheo:
 
 − Này chư Hiền Tỷ-kheo!
@@ -111,7 +124,8 @@ các Tỷ-kheo:
 
 Các Tỷ-kheo ấy vâng đáp Tôn giả Mahàcunda. Tôn giả Mahàcunda nói như sau:
 
-2. - Ở đây, này chư Hiền, Tỷ-kheo là hạng khoe khoang, khoa trương những chứng đắc của mình: “Tôi
+<!--pg-->
+2\. - Ở đây, này chư Hiền, Tỷ-kheo là hạng khoe khoang, khoa trương những chứng đắc của mình: “Tôi
 chứng nhập, tôi xuất ly sơ thiền. Tôi chứng nhập, tôi xuất ly thiền thư hai. Tôi chứng nhập, tôi xuất ly
 thiền thứ ba. Tôi chứng nhập, tôi xuất ly thiền thư tư. Tôi chứng nhập, tôi xuất ly Không vô biên xứ. Tơi
 chứng nhập, tôi xuất ly Thức vô biên xứ. Tôi chứng nhập, tôi xuất ly Vô sở hữu xứ. Tôi chứng nhập, tôi
@@ -136,7 +150,8 @@ biếng nhác... thất niệm là do Tôn giả này, và tánh thất niệm..
 giả này, và tánh gian xảo... khó nuôi dưỡng là Tôn giả này, và tánh khó nuôi dưỡng... ác tuệ là tôn giả
 naỳ, và tánh ác tuệ có nghĩa là tổn giảm trong Pháp và Luật do Như Lai thuyết giảng.””
 
-3. Ví như, này chư Hiền, một người bạn nói với người của mình: “Này Bạn, khi nào Bạn cần đến tài sản,
+<!--pg-->
+3\. Ví như, này chư Hiền, một người bạn nói với người của mình: “Này Bạn, khi nào Bạn cần đến tài sản,
 hãy xin tôi tài sản và tôi sẽ cho Bạn tài sản.” Người bạn kia khi cần đến tài sản liền nói với người bạn
 như sau: “Này Bạn, nay tôi cần đến tài sản, hãy cho tôi tài sản”. Vị ấy trả lời như sau: “Vậy này Bạn,
 hãy đào ở đây”. Vị kia tại đấy đào lên và không tìm được gì. Vị kia nói: “Này Bạn, Bạn đã nói láo với
@@ -169,13 +184,15 @@ Tôn giả này và tánh thất niệm... gian xảo là Tôn giả này và t�
 này và tánh khó nuôi dưỡng... Ác tuệ là Tôn giả này và tánh ác tuệ là tổn giảm trong Pháp và Luật do
 Như Lai thuyết giảng.”
 
-4. Tỷ-kheo ấy, này chư Hiền, không đoạn tận mười pháp này sẽ tăng trưởng, lớn mạnh, lớn rộng trong
+<!--pg-->
+4\. Tỷ-kheo ấy, này chư Hiền, không đoạn tận mười pháp này sẽ tăng trưởng, lớn mạnh, lớn rộng trong
 Pháp và Luật này, sự kiện này không xảy ra Tỷ-kheo ấy, này chư Hiền, sau khi đoạn tận mười pháp này,
 sẽ được tăng trưởng, lớn mạnh, lớn rộng trong Pháp và Luật này, sự kiện này có xảy ra.
 
 **(VI) (86) Câu Hỏi Về Chánh Trí**
 
-1. Một thời, Tôn giả Mahàkassapa ở tại Ràjagaha (Vương Xá), Trúc Lâm, tại vườn nuôi dưỡng các con
+<!--pg-->
+1\. Một thời, Tôn giả Mahàkassapa ở tại Ràjagaha (Vương Xá), Trúc Lâm, tại vườn nuôi dưỡng các con
 sáo. Tại đấy, Tôn giả Kassapa gọi các Tỷ-kheo:
 
 − Này chư Hiền Tỷ-kheo
@@ -183,7 +200,8 @@ sáo. Tại đấy, Tôn giả Kassapa gọi các Tỷ-kheo:
 
 Các Tỷ-kheo ấy vâng đáp Tôn giả Mahàkassapa. Tôn giả Mahàkassapa nói như sau:
 
-2. - Ở đây, này chư Hiền Tỷ-kheo nói lên chánh tri, nói rằng: “Tôi biết rõ như sau: “Sanh đã tận, Phạm
+<!--pg-->
+2\. - Ở đây, này chư Hiền Tỷ-kheo nói lên chánh tri, nói rằng: “Tôi biết rõ như sau: “Sanh đã tận, Phạm
 hạnh đã thành, những việc nên làm đã làm, không còn trở lui trạng thái này nữa””. Như Lai hay đệ tử
 Như Lai, những vị hành thiền, thiện xảo trong thiện chứng, thiện xảo trong tâm người khác, thiện xảo
 trong hành tướng tâm người khác, thẩm vấn, gạn hỏi, thảo luận. Vị ấy khi bị Như Lai, hay đệ tử Như
@@ -227,14 +245,16 @@ chúng có nghĩa là tổn giảm trong Pháp và Luật do Như Lai thuyết g
 nhỏ, lại đứng lại giữa đường; đứng lại giữa đường, có nghĩa là tổn giảm trong Pháp Luật do Như Lai
 thuyết giảng.”
 
-3. Tỷ-kheo ấy, này chư Hiền, không đoạn tận mười pháp này, sẽ được tăng trưởng, lớn mạnh, lớn rộng
+<!--pg-->
+3\. Tỷ-kheo ấy, này chư Hiền, không đoạn tận mười pháp này, sẽ được tăng trưởng, lớn mạnh, lớn rộng
 trong Pháp và Luật do Như Lai thuyết giảng, sự kiện này không xảy ra. Tỷ-kheo ấy, này chư Hiền, đoạn
 tận mười pháp này, sẽ được tăng trưởng lớn mạnh, lớn rộng trong Pháp và Luật do Như Lai thuyết
 giảng, sự kiện này có xảy ra.
 
 **(VII) (87) Tỷ Kheo Kàlaka**
 
-1. Tại đấy, nhân việc của Tỷ-kheo Kàlaka Thế tôn gọi các Tỷ-kheo:
+<!--pg-->
+1\. Tại đấy, nhân việc của Tỷ-kheo Kàlaka Thế tôn gọi các Tỷ-kheo:
 
 − Này các Tỷ-kheo.
 
@@ -242,49 +262,61 @@ giảng, sự kiện này có xảy ra.
 
 Các Tỷ-kheo ấy vâng đáp Thế Tôn, Thế Tôn nói như sau:
 
-2. - Ở đây, này các Tỷ-kheo, Tỷ-kheo ưa thích kiện tụng, không tán thán làm lắng dịu các cuộc kiện
+<!--pg-->
+2\. - Ở đây, này các Tỷ-kheo, Tỷ-kheo ưa thích kiện tụng, không tán thán làm lắng dịu các cuộc kiện
 tụng. Này các Tỷ-kheo, Tỷ-kheo ưa thích kiện tụng, không tán thán làm lắng dịu các cuộc kiện tụng,
 pháp này không đưa đến thân ái, không đưa đến kính trọng, không đưa đến bắt chước (được làm quen),
 không đưa đến hòa đồng, không đưa đến nhất trí.
 
-3. Lại nữa, này các Tỷ-kheo không ưa học tập, không tán thán chấp nhận các học pháp. Này các Tỷkheo, Tỷ-kheo không ưa học tập, không tán thán chấp nhận các học pháp, pháp này không đưa đến thân
+<!--pg-->
+3\. Lại nữa, này các Tỷ-kheo không ưa học tập, không tán thán chấp nhận các học pháp. Này các Tỷkheo, Tỷ-kheo không ưa học tập, không tán thán chấp nhận các học pháp, pháp này không đưa đến thân
 ái... không đưa đến nhất trí.
 
-4. Lại nữa, này các Tỷ-kheo, Tỷ-kheo ác dục, không tán thán nhiếp phục ác dục. Này các Tỷ-kheo, Tỷkheo ác dục, không tán thán nhiếp phục ác dục, pháp này không đưa đến thân ái... không đưa đến nhất
+<!--pg-->
+4\. Lại nữa, này các Tỷ-kheo, Tỷ-kheo ác dục, không tán thán nhiếp phục ác dục. Này các Tỷ-kheo, Tỷkheo ác dục, không tán thán nhiếp phục ác dục, pháp này không đưa đến thân ái... không đưa đến nhất
 trí.
 
-5. Lại nữa, này các Tỷ-kheo, Tỷ-kheo phẫn nộ không tán thán nhiếp phục phẫn nộ. Này các Tỷ-kheo,
+<!--pg-->
+5\. Lại nữa, này các Tỷ-kheo, Tỷ-kheo phẫn nộ không tán thán nhiếp phục phẫn nộ. Này các Tỷ-kheo,
 Tỷ-kheo phẫn nộ, không tán thán nhiếp phục phẫn nộ, pháp này không đưa đến thân ái... không đưa đến
 nhất trí.
 
-6. Lại nữa, này các Tỷ-kheo, Tỷ-kheo gièm pha không tán thán nhiếp phục gièm pha. Này các Tỷ-kheo,
+<!--pg-->
+6\. Lại nữa, này các Tỷ-kheo, Tỷ-kheo gièm pha không tán thán nhiếp phục gièm pha. Này các Tỷ-kheo,
 Tỷ-kheo gièm pha, không tán thán nhiếp phục gièm pha, pháp này không đưa đến thân ái... không đưa
 đến nhất trí.
 
-7. Lại nữa, này các Tỷ-kheo, Tỷ-kheo lừa đảo, không tán thán nhiếp phục lừa đảo. Này các Tỷ-kheo, Tỷkheo lừa đảo, không tán thán nhiếp phục lừa đảo, pháp này không đưa đến thân ái... không đưa đến nhất
+<!--pg-->
+7\. Lại nữa, này các Tỷ-kheo, Tỷ-kheo lừa đảo, không tán thán nhiếp phục lừa đảo. Này các Tỷ-kheo, Tỷkheo lừa đảo, không tán thán nhiếp phục lừa đảo, pháp này không đưa đến thân ái... không đưa đến nhất
 trí.
 
-8. Lại nữa, này các Tỷ-kheo, Tỷ-kheo man trá không tán thán nhiếp phục man trá. Này các Tỷ-kheo, Tỷkheo man trá, không tán thán nhiếp phục man trá, pháp này không đưa đến thân ái... không đưa đến nhất
+<!--pg-->
+8\. Lại nữa, này các Tỷ-kheo, Tỷ-kheo man trá không tán thán nhiếp phục man trá. Này các Tỷ-kheo, Tỷkheo man trá, không tán thán nhiếp phục man trá, pháp này không đưa đến thân ái... không đưa đến nhất
 trí.
 
-9. Lại nữa, này các Tỷ-kheo, Tỷ-kheo tánh không vâng theo Chánh pháp, tánh tán thán vâng theo Chánh
+<!--pg-->
+9\. Lại nữa, này các Tỷ-kheo, Tỷ-kheo tánh không vâng theo Chánh pháp, tánh tán thán vâng theo Chánh
 pháp. Này các Tỷ-kheo, Tỷ-kheo tánh không vâng theo Chánh pháp, tánh không tán thán vâng theo
 Chánh pháp, pháp này không đưa đến thân ái... không đưa đến nhất trí.
 
-10. Lại nữa, này các Tỷ-kheo, Tỷ-kheo không thiền tịnh, không tán thán thiền tịnh. Này các Tỷ-kheo,
+<!--pg-->
+10\. Lại nữa, này các Tỷ-kheo, Tỷ-kheo không thiền tịnh, không tán thán thiền tịnh. Này các Tỷ-kheo,
 Tỷ-kheo không thiền tịnh, không tán thán thiền tịnh, pháp này không đưa đến thân ái... không đưa đến
 nhất trí.
 
-11. Lại nữa, này các Tỷ-kheo, Tỷ-kheo không có tiếp đón các vị đồng Phạm hạnh, không tán thán việc
+<!--pg-->
+11\. Lại nữa, này các Tỷ-kheo, Tỷ-kheo không có tiếp đón các vị đồng Phạm hạnh, không tán thán việc
 đón tiếp tốt đẹp. Này các Tỷ-kheo, Tỷ-kheo không có tiếp đón tốt đẹp các vị đồng Phạm hạnh, không
 tán thán việc tiếp đón tốt đẹp, pháp này không đưa đến thân ái... không đưa đến nhất trí.
 
-12. Này các Tỷ-kheo, với Tỷ-kheo như vậy, nếu có ước muốn nào khởi lên: “Ôi mong rằng các vị đồng
+<!--pg-->
+12\. Này các Tỷ-kheo, với Tỷ-kheo như vậy, nếu có ước muốn nào khởi lên: “Ôi mong rằng các vị đồng
 phạm hạnh cung kính, tôn trọng, đảnh lễ, cúng dường tôi”, nhưng các vị đồng Phạm hạnh không có cung
 kính, không có tôn trọng, không có đảnh lễ cúng đường vị ấy. Vì sao? Này các Tỷ-kheo, vì rằng các vị
 đồng Phạm hạnh có trí quán thấy các pháp ác bất thiện không được đoạn tận trong vị ấy.
 
-13. Ví như, này các Tỷ-kheo, có loại ngựa không thuần phục, dầu cho có khởi lên ý muốn như sau:
+<!--pg-->
+13\. Ví như, này các Tỷ-kheo, có loại ngựa không thuần phục, dầu cho có khởi lên ý muốn như sau:
 “Mong rằng loài Người sẽ đặt ta trong vị trí của con ngựa đã được thuần thục, cho ta ăn với các đồ ăn
 dành cho con ngựa thuần phục, điều phục ta với sự điều phục dành cho con ngựa thuần thục”. Nhưng
 loài Người không đặt nó trong vị trí của con ngựa thuần thục, không cho nó ăn trong vị trí của con ngựa
@@ -294,45 +326,57 @@ kính, tôn trọng, đảnh lễ, cúng đường ta”, nhưng các vị đồ
 tôn trọng, không có đảnh lễ, không có cúng dường vị ấy. Vì sao? Này các Tỷ-kheo, vì rằng các vị đồng
 Phạm hạnh có trí quán thấy các pháp ác bất thiện không được đoạn tận trong vị ấy.
 
-14. Nhưng ở đây, này các Tỷ-kheo, Tỷ-kheo không ưa thích kiện tụng, tán thán làm lắng dịu các cuộc
+<!--pg-->
+14\. Nhưng ở đây, này các Tỷ-kheo, Tỷ-kheo không ưa thích kiện tụng, tán thán làm lắng dịu các cuộc
 kiện tụng. Này các Tỷ-kheo, Tỷ-kheo không ưa thích kiện tụng, tán thán làm lắng dịu các cuộc kiện
 tụng. Pháp này đưa đến thân ái, đưa đến kính trọng, đưa đến muốn làm quen, đưa đến hòa đồng, đưa đến
 nhất trí.
 
-15. Lại nữa, này các Tỷ-kheo, Tỷ-kheo ưa thích họa tập, tán thán chấp nhận học pháp. Này các Tỷ-kheo,
+<!--pg-->
+15\. Lại nữa, này các Tỷ-kheo, Tỷ-kheo ưa thích họa tập, tán thán chấp nhận học pháp. Này các Tỷ-kheo,
 Tỷ-kheo ưa thích học tập, tán thán chấp nhận học pháp. Pháp này đưa đến thân ái... đưa đến nhất trí.
 
-16. Lại nữa, này các Tỷ-kheo, Tỷ-kheo ít dục, tán thán nhiếp phục các dục. Này các Tỷ-kheo, Tỷ-kheo ít
+<!--pg-->
+16\. Lại nữa, này các Tỷ-kheo, Tỷ-kheo ít dục, tán thán nhiếp phục các dục. Này các Tỷ-kheo, Tỷ-kheo ít
 dục, tán thán nhiếp nhục phục các dục. Pháp này đưa đến nhất trí.
 
-17. Lại nữa, này các Tỷ-kheo, Tỷ-kheo không phẫn nộ, tán thán nhiếp phục phẫn nộ. Này các Tỷ-kheo,
+<!--pg-->
+17\. Lại nữa, này các Tỷ-kheo, Tỷ-kheo không phẫn nộ, tán thán nhiếp phục phẫn nộ. Này các Tỷ-kheo,
 Tỷ-kheo không phẫn nộ, tán thán nhiếp phục phẫn nộ. Pháp này đưa đến thân ái... đưa đến nhất trí.
 
-18. Lại nữa, này các Tỷ-kheo, Tỷ-kheo không gièm pha, tán thán nhiếp phục gièm pha. Này các Tỷkheo, Tỷ-kheo không gièm pha, tán thán nhiếp phục gièm pha. Pháp này đưa đến thân ái... đưa đến nhất
+<!--pg-->
+18\. Lại nữa, này các Tỷ-kheo, Tỷ-kheo không gièm pha, tán thán nhiếp phục gièm pha. Này các Tỷkheo, Tỷ-kheo không gièm pha, tán thán nhiếp phục gièm pha. Pháp này đưa đến thân ái... đưa đến nhất
 trí.
 
-19. Lại nữa, này các Tỷ-kheo, Tỷ-kheo không lừa đảo, tán thán nhiếp phục lừa đảo. Này các Tỷ-kheo,
+<!--pg-->
+19\. Lại nữa, này các Tỷ-kheo, Tỷ-kheo không lừa đảo, tán thán nhiếp phục lừa đảo. Này các Tỷ-kheo,
 Tỷ-kheo không lừa đảo, tán thán nhiếp phục lừa đảo. Pháp này đưa đến thân ái... đưa đến nhất trí.
 
-20. Lại nữa, này các Tỷ-kheo, Tỷ-kheo không man trá, tán thán nhiếp phục man trá. Này cá Tỷ-kheo,
+<!--pg-->
+20\. Lại nữa, này các Tỷ-kheo, Tỷ-kheo không man trá, tán thán nhiếp phục man trá. Này cá Tỷ-kheo,
 Tỷ-kheo không man trá, tán thán nhiếp phục man trá. Pháp này đưa đến thân ái... đưa đến nhất trí.
 
-21. Lại nữa, này các Tỷ-kheo, Tỷ-kheo vâng theo Chánh pháp, tán thán vâng theo Chánh pháp. Này các
+<!--pg-->
+21\. Lại nữa, này các Tỷ-kheo, Tỷ-kheo vâng theo Chánh pháp, tán thán vâng theo Chánh pháp. Này các
 Tỷ-kheo, Tỷ-kheo vâng theo Chánh pháp, tán thán vâng theo Chánh pháp. Pháp này đưa đến thân ái...
 đưa đến nhất trí.
 
-22. Lại nữa, này các Tỷ-kheo, Tỷ-kheo thiền tịnh, tán thán thiền tịnh. Này các Tỷ-kheo, Tỷ-kheo thiền
+<!--pg-->
+22\. Lại nữa, này các Tỷ-kheo, Tỷ-kheo thiền tịnh, tán thán thiền tịnh. Này các Tỷ-kheo, Tỷ-kheo thiền
 tịnh, tán thán thiền tịnh. Pháp này đưa đến thân ái... đưa đến nhất trí.
-23. Lại nữa, này các Tỷ-kheo, Tỷ-kheo tiếp đón tốt đẹp các vị đồng phạm hạnh, tán thán việc tiếp đón
+<!--pg-->
+23\. Lại nữa, này các Tỷ-kheo, Tỷ-kheo tiếp đón tốt đẹp các vị đồng phạm hạnh, tán thán việc tiếp đón
 tốt đẹp các vị đồng Phạm hạnh. Này các Tỷ-kheo, Tỷ-kheo tiếp đón tốt đẹp các vị đồng Phạm hạnh, tán
 thán việc tiếp đón tốt đẹp các vị đồng Phạm hạnh. Pháp này đưa đến thân ái... đưa đến nhất trí.
 
-24. Này các Tỷ-kheo, Tỷ-kheo như vậy, nếu không có ước muốn nào khởi lên: “Ôi mong rằng các vị
+<!--pg-->
+24\. Này các Tỷ-kheo, Tỷ-kheo như vậy, nếu không có ước muốn nào khởi lên: “Ôi mong rằng các vị
 đồng Phạm hạnh cung kính, tôn trọng, đảnh lễ, cúng dường ta”, nhưng các vị đồng Phạm hạnh cũng vẫn
 cung kính, tôn trọng, đảnh lễ, cúng dường vị ấy. Vì sao? Này các Tỷ-kheo, vì rằng các vị đồng Phạm
 hạnh có trí quán thấy các pháp ác bất thiện đã được tận nơi vị ấy.
 
-25. Ví như, này các Tỷ-kheo, một con ngựa thuần phục, dầu cho không khởi lên ý muốn như sau:
+<!--pg-->
+25\. Ví như, này các Tỷ-kheo, một con ngựa thuần phục, dầu cho không khởi lên ý muốn như sau:
 “Mong rằng loài Người sẽ đặt ta trong vị trí của con ngựa đã thuần thục, cho ta ăn với các đồ ấm dành
 cho con ngựa thuần thục, điều phục ta với điều phục dành cho ngựa thuần thục”. Nhưng loài Người vẫn
 đặt nó trong vị trí của con ngựa thuần thục, điều phục. Vì sao? Vì những người có trí thấy rõ được
@@ -343,11 +387,13 @@ các pháp ác bất thiện ấy đã được tận nơi vị ấy.
 
 **(VIII) (88) Tai Nạn**
 
-1. - Này các Tỷ-kheo, nếu Tỷ-kheo nào mạ ly, khiến trách, nhiếc mắng các vị Thánh và những vị đồng
+<!--pg-->
+1\. - Này các Tỷ-kheo, nếu Tỷ-kheo nào mạ ly, khiến trách, nhiếc mắng các vị Thánh và những vị đồng
 Phạm hạnh, thật sự không thể không xảy ra được, không thể không có lúc để vị ấy khỏi phải gặp một
 trong mười tai nạn này. Thế nào là mười?
 
-2. Không chứng đắc điều chưa được chứng đắc, điều đã chứng đắc bị thối thất, không được sáng suốt
+<!--pg-->
+2\. Không chứng đắc điều chưa được chứng đắc, điều đã chứng đắc bị thối thất, không được sáng suốt
 đối với diệu pháp, tăng thượng mạn trong diệu pháp, sống Phạm hạnh không được hoan hỷ, vi phạm một
 uế tội, cảm xúc bệnh nặng, đạt đến điên cuồng loạn tâm, khi chết bị bất tỉnh (hôn mê), hay sau khi thân
 hoại mạng chung, sanh vào cõi dữ, ác thú, đọa xứ, địa ngục.
@@ -358,7 +404,8 @@ nạn này.
 
 **(IX) (89) Tỷ Kheo Kokàlika**
 
-1. Bấy giờ có Tỷ-kheo Kokàlika đi đến Thế Tôn, sau khi đến, đảnh lễ Thế Tôn ngồi xuống một bên.
+<!--pg-->
+1\. Bấy giờ có Tỷ-kheo Kokàlika đi đến Thế Tôn, sau khi đến, đảnh lễ Thế Tôn ngồi xuống một bên.
 Ngồi xuống một bên, Tôn giả Kokàlika bạch Thế Tôn:
 
 − Bạch Thế Tôn, Sàriputta và Moggallàna là ác dục, bị ác dục chinh phục.
@@ -376,7 +423,8 @@ Sàripuuta và Moggallàna. Hiền thiện là Sàriputta và Moggallàna.
 
 Lần thứ ba, Tỷ-kheo Kokàlika bạch Thế Tôn: ... Hiền thiện là Sàriputta và Moggallàna.
 
-2. Rồi Tỷ-kheo Kokàlika từ chỗ ngồi đứng dậy, đảnh lễ Thế Tôn, thân bên hữu hướng về Thế Tôn rồi đi
+<!--pg-->
+2\. Rồi Tỷ-kheo Kokàlika từ chỗ ngồi đứng dậy, đảnh lễ Thế Tôn, thân bên hữu hướng về Thế Tôn rồi đi
 ra. Tỷ-kheo Kokàlika ra đi không bao lâu, toàn thân củ Tỷ-kheo Kokàlika nổi lên những mụt to bằng hạt
 cải: sau khi lớn bằng hạt cải, chúng lớn lên bằng hột đậu; sau khi lớn lên bằng hột đậu, chúng lớn lên
 bằng hạt đậu lớn; sau khi lớn bằng hột đậu lớn, chúng lớn lên bằng hòn sỏi; sau khi lớn bằng hòn sỏi
@@ -384,7 +432,8 @@ Kolatthi, chúng lớn lên bằng hột táo; sau khi lớn lên bằng hột t
 dưa vilva, chúng lớn lên bằng trái billa (trái dưa đã chín); sau khi lớn lên bằng trái billa, chúng bị phá
 vỡ, mủ và máu chảy ra. Tại đây, nó nằm trên lá chuối, như con cá ăn phải đồ độc.
 
-3. Lúc ấy có độc giác Phạm thiên Tudu đi đến Tỷ-kheo Kokàlika, sau khi đến, đứng trên hư không và
+<!--pg-->
+3\. Lúc ấy có độc giác Phạm thiên Tudu đi đến Tỷ-kheo Kokàlika, sau khi đến, đứng trên hư không và
 nói với Tỷ-kheo Kokàlika:
 
 − Này Kokàlika, hãy đặt tâm tịnh tín nơi Sàriputta và Moggallàna! Hiền thiện là Sàriputta và
@@ -428,14 +477,16 @@ _Với năm a-bu-đa,_
 _Phải sanh vào địa ngục_
 _Chịu khổ đau tại đấy._
 
-4. Rồi Tỷ-kheo Kokàlika, do chứng bệnh ấy mệnh chung. Sau khi chết, Tỷ-kheo Kokàlika sanh vào địa
+<!--pg-->
+4\. Rồi Tỷ-kheo Kokàlika, do chứng bệnh ấy mệnh chung. Sau khi chết, Tỷ-kheo Kokàlika sanh vào địa
 ngục sen hồng vì tâm khởi ác ý đối với Sàriputta và Moggallàna. Rồi Phạm thiên Sahampati, sau khi
 đêm gần mãn, với dung sắc thù thắng chói sáng toàn vùng Jetavana, đi đến Thế Tôn; sau khi đến, đảnh
 lễ Thế Tôn rồi đứng một bên, đứng một bên, Phạm thiên Sahampati bạch Thế Tôn: “Bạch Thế Tôn, Tỷkheo Kokàlika đã mệnh chung. Bạch Thế Tôn, Tỷ-kheo Kokàlika mệnh chung, phải sanh vào địa ngục
 sen hồng, vì tâm khởi ác ý đối với Sàriputta và Moggallàna”. Phạm thiên Sahampati nói như vậy. Nói
 như vậy xong, đảnh lễ Thế Tôn, thân phía hữu hướng về Thế Tôn rồi biến mất tại chỗ.
 
-5. Rồi Thế Tôn, sau khi đêm đã qua, bảo các Tỷ-kheo:
+<!--pg-->
+5\. Rồi Thế Tôn, sau khi đêm đã qua, bảo các Tỷ-kheo:
 
 − Này các Tỷ-kheo, đêm nay Phạm thiên Sahampati khi đêm đã gần mãn, với dung sắc thù thắng chói
 sáng toàn vùng Jetavana, đi đến Ta; sau khi đến, đảnh lễ Ta rồi đứng một bên, đứng một bên, này các tỷkheo, Phạm thiên Sahampati thưa với Ta: “Bạch Thế Tôn, Tỷ-kheo Kokàlika đã mệnh chung “, “Bạch
@@ -443,7 +494,8 @@ Thế Tôn Tỷ-kheo Kokàika đã mệnh chung, phải sanh vào địa ngục 
 Sàripuuta và Moggallàna”. Này các Tỷ-kheo, Phạm thiên Sahampati nói như vậy. Nói như vậy xong,
 đảnh lễ Ta, thân phía hữu hướng về Ta rồi biến mất tại chỗ.
 
-6. Khi nghe nói vậy, một Tỷ-kheo bạch Thế Tôn:
+<!--pg-->
+6\. Khi nghe nói vậy, một Tỷ-kheo bạch Thế Tôn:
 
 − Bạch Thế Tôn, lâu dài bao nhiêu, là tuổi thọ ở địa ngục sen hồng?
 
@@ -497,7 +549,8 @@ _Chịu khổ đau tại đấy._
 
 **(X) (90) Những Sức Mạnh**
 
-1. Bấy giờ có Tôn giả Sàriputta đi đến Thế Tôn, sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên.
+<!--pg-->
+1\. Bấy giờ có Tôn giả Sàriputta đi đến Thế Tôn, sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên.
 Thế Tôn nói với Tôn giả Sàriputta đang ngồi xuống một bên:
 
 − Này Sàriputta, Tỷ-kheo đã đoạn tận các lậu hoặc, có bao nhiêu sức mạnh? Thành tựu với những sức
@@ -508,28 +561,33 @@ mạnh ấy. Tỷ-kheo đã đoạn tận các lâu hoặc tự nhận biết s�
 ấy, Tỷ-kheo đoạn tận các lậu hoặc, tự nhận biết sự đoạn diệt các lậu hoặc: “Các lậu hoặc đã được đoạn
 tận nơi ta”. Thế nào là mười?
 
-2. Ở đây, bạch Thế Tôn, Tỷ-kheo đoạn tận các lậu hoặc, đã khéo như thật thấy với chánh trí tuệ, các
+<!--pg-->
+2\. Ở đây, bạch Thế Tôn, Tỷ-kheo đoạn tận các lậu hoặc, đã khéo như thật thấy với chánh trí tuệ, các
 hành là vô thường. Bạch thế Tôn, Tỷ-kheo đoạn tận các lậu hoặc, đã khéo thấy như thật với chánh trí
 tuệ, tất cả các hành là vô thường. Bạch Thế Tôn, Tỷ-kheo đã đoạn tận các lậu hoặc đã khéo thấy như
 thật với chánh trí tuệ, tất cả các hành là vô thường. Bạch Thế Tôn, đây là sức mạnh của Tỷ-kheo đoạn
 tận các lậu hoặc. Dựa trên sức mạnh này, Tỷ-kheo đoạn tận các lậu hoặc tự nhận biết sự đoạn tận diệt
 các hoặc: “Các lậu hoặc đã được tận nơi ta.”
 
-3. Lại nữa, bạch Thế Tôn, Tỷ-kheo đoạn tận các lậu hoặc đã khéo thấy như thật với chánh trí tuệ, các
+<!--pg-->
+3\. Lại nữa, bạch Thế Tôn, Tỷ-kheo đoạn tận các lậu hoặc đã khéo thấy như thật với chánh trí tuệ, các
 dục được ví như hố than hừng. Bạch thế Tôn, Tỷ-kheo đoạn tận các lậu hoặc, đã khéo thấy như thật với
 chánh trí tuệ, các dục được ví như hố than hừng. Bạch Thế Tôn, đây là sức mạnh của Tỷ-kheo đoạn tận
 các lậu hoặc. do sức mạnh này, Tỷ kheo đoạn tận các lậu hoặc tự nhận biết sự đoạn diệt các lậu hoặc:
 “Các lậu hoặc đã được đoạn tận nơi ta.”
 
-4. Lại nữa, bạch Thế tôn, Tỷ-kheo, Tỷ-kheo đoạn tận các lậu hoặc, với tâm hướng về viễn ly, thiên về
+<!--pg-->
+4\. Lại nữa, bạch Thế tôn, Tỷ-kheo, Tỷ-kheo đoạn tận các lậu hoặc, với tâm hướng về viễn ly, thiên về
 viễn ly, xuôi về viễn ly, trú vào viễn ly, ưa thích xuất ly, chấm dứt hoàn toàn các pháp làm trú xứ cho
 các lậu hoặc. Bạch Thế Tôn, ... đây là sức mạnh của Tỷ-kheo đoạn tận các lậu hoặc... “... được đoạn tận
 nơi ta.”
 
-5. Lại nữa, bạch thế Tôn, Tỷ-kheo đoạn tận các lậu hoặc tu tập, khéo tu tập Bốn niệm xứ. Bạch Thế tôn,
+<!--pg-->
+5\. Lại nữa, bạch thế Tôn, Tỷ-kheo đoạn tận các lậu hoặc tu tập, khéo tu tập Bốn niệm xứ. Bạch Thế tôn,
 Tỷ-kheo đoạn tận các lậu hoặc tu tập, khéo tu tập Bốn niệm xứ. Bạch Thế tôn đây là sức mạnh của tỷkhoe đoạn tận các lậu hoặc... “... đã được đoạn tận nơi ta.”
 
-6. Lại nữa, bạch thế Tôn, Tỷ-kheo, Tỷ-kheo đoạn tận các lậu hoặc khéo tu tập Bốn chánh cần... tu tập
+<!--pg-->
+6\. Lại nữa, bạch thế Tôn, Tỷ-kheo, Tỷ-kheo đoạn tận các lậu hoặc khéo tu tập Bốn chánh cần... tu tập
 khéo tu tập Bốn như ý túc... tu tập, khéo tu tập Năm căn... tu tập, khéo tu tập Năm lực... tu tập, khéo tu
 tập Bảy giác chi... tu tập, khéo tu tập Thánh đạo tám ngành. Bạch Thế Tôn, Tỷ kheo đoạn tận các lậu
 hoặc tu tập, khéo tu tập Thánh đạo tám ngành. Bạch Thế Tôn, đây là sức mạnh của tỷ-kheo đoạn tận các

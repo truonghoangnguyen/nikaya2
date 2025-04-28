@@ -37,25 +37,32 @@ Thứ đệ khinh an, thứ đệ khinh an, này Hiền giả, được nói đ�
 
 **(X) (61) Thứ Ðệ Ðoạn Diệt**
 
-1. - “Thứ đệ đoạn diệt, thứ đệ đoạn diệt”, này Hiền giả, được nói đến như vậy. Cho đến như thế nào, này
+<!--pg-->
+1\. - “Thứ đệ đoạn diệt, thứ đệ đoạn diệt”, này Hiền giả, được nói đến như vậy. Cho đến như thế nào, này
 Hiền giả, thứ đệ đoạn diệt được Thế Tôn nói đến?
 
-2. - Ở đây, này Hiền giả, Tỷ-kheo ly dục... chứng đạt và an trú Thiền thứ nhất, ... cho đến như vậy, này
+<!--pg-->
+2\. - Ở đây, này Hiền giả, Tỷ-kheo ly dục... chứng đạt và an trú Thiền thứ nhất, ... cho đến như vậy, này
 Hiền giả, thứ đệ đoạn diệt được Thế Tôn nói đến với pháp môn.
 
-3. Lại nữa, này Hiền giả, Tỷ-kheo vượt qua Phi tưởng phi phi tưởng xứ một cách hoàn toàn, chứng đạt
+<!--pg-->
+3\. Lại nữa, này Hiền giả, Tỷ-kheo vượt qua Phi tưởng phi phi tưởng xứ một cách hoàn toàn, chứng đạt
 và an trú Diệt thọ tưởng định; sau khi thấy với trí tuệ, các lậu hoặc được đoạn tận. Cho đến như vậy, này
 Hiền giả là thứ đệ đoạn diệt được Thế Tôn nói đến với phi pháp môn.
 
 **(XI) (62) Có Khả Năng**
 
-1. - Này các Tỷ-kheo, có chín pháp không đoạn trừ thì không có thể chứng ngộ quả A-la-hán. Thế nào là
+<!--pg-->
+1\. - Này các Tỷ-kheo, có chín pháp không đoạn trừ thì không có thể chứng ngộ quả A-la-hán. Thế nào là
 chín?
 
-2. Tham sân, si, phẫn nộ, hiềm hận, giả dối, não hại, tật đố, xan tham.
+<!--pg-->
+2\. Tham sân, si, phẫn nộ, hiềm hận, giả dối, não hại, tật đố, xan tham.
 
 Chín pháp này, này các Tỷ-kheo, không đoạn trừ thì không có thể chứng ngộ quả A-la-hán.
 
-3. Chín pháp này, này các Tỷ-kheo, được đoạn trừ thì có thể chứng ngộ quả A-la-hán. Thế nào là chín?
+<!--pg-->
+3\. Chín pháp này, này các Tỷ-kheo, được đoạn trừ thì có thể chứng ngộ quả A-la-hán. Thế nào là chín?
 
-4. Tham, sân, si, phẫn nộ, hiềm hận, giả dối, não hại, tật đố, xan tham.
+<!--pg-->
+4\. Tham, sân, si, phẫn nộ, hiềm hận, giả dối, não hại, tật đố, xan tham.

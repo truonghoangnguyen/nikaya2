@@ -1,29 +1,30 @@
-## The Chapter on Aspiration
+# The Chapter on Aspiration
 
 ### N 2.130--140 *Āyācanavagga*
 
+<!--pg-->
 130\. "A faithful monk would rightly aspire: 'May I be like
-[Sāriputta]{lang="sa"} and [Moggallāna]{lang="sa"}!' These are a
+Sāriputta and Moggallāna!' These are a
 standard and a measure for my monk disciples, that is,
-[Sāriputta]{lang="sa"} and [Moggallāna]{lang="sa"}."
+Sāriputta and Moggallāna."
 
 <!--pg-->
 131\. "A faithful nun would rightly aspire: 'May I be like the nuns
-[Khemā]{lang="sa"} and [Uppalavaṇṇā]{lang="sa"}!' These are a standard
-and a measure for my nun disciples, that is, the nuns [Khemā]{lang="sa"}
-and [Uppalavaṇṇā]{lang="sa"}."
+Khemā and Uppalavaṇṇā!' These are a standard
+and a measure for my nun disciples, that is, the nuns Khemā\.
+and Uppalavaṇṇā."
 
 <!--pg-->
 132\. "A faithful layman would rightly aspire: 'May I be like the householder
-Citta and Hatthaka of [Ãḷavī]{lang="sa"}!' These are a standard and a
+Citta and Hatthaka of Ãḷavī!' These are a standard and a
 measure for my male lay followers, that is, the householder Citta and
-Hatthaka of [Ãḷavī]{lang="sa"}."
+Hatthaka of Ãḷavī."
 
 <!--pg-->
 133\. "A faithful laywoman would rightly aspire: 'May I be like the laywomen
-[Khujjuttarā]{lang="sa"} and [Veḷukaṇṭakī]{lang="sa"}, Nanda's mother!'
+Khujjuttarā and Veḷukaṇṭakī, Nanda's mother!'
 These are a standard and a measure for my female lay disciples, that is,
-the laywomen [Khujjuttarā]{lang="sa"} and [Veḷukaṇṭakī]{lang="sa"},
+the laywomen Khujjuttarā and Veḷukaṇṭakī,
 Nanda's mother."
 
 <!--pg-->
@@ -36,7 +37,6 @@ untrue person has these two qualities they keep themselves broken and
 damaged. They deserve to be blamed and criticized by sensible people,
 and they create much wickedness.
 
-<!--pg-->
 When an astute, competent true person has two qualities they keep
 themselves intact and unscathed. They don't deserve to be blamed and
 criticized by sensible people, and they create much merit. What two?
@@ -46,6 +46,7 @@ competent true person has these two qualities they keep themselves
 intact and unscathed. They don't deserve to be blamed and criticized by
 sensible people, and they create much merit."
 
+<!--pg-->
 135\. "When a foolish, incompetent untrue person has two qualities they keep
 themselves broken and damaged. They deserve to be blamed and criticized
 by sensible people, and they create much wickedness. What two? Without
@@ -55,7 +56,6 @@ foolish, incompetent untrue person has these two qualities they keep
 themselves broken and damaged. They deserve to be blamed and criticized
 by sensible people, and they create much wickedness.
 
-<!--pg-->
 When an astute, competent true person has two qualities they keep
 themselves intact and unscathed. They don't deserve to be blamed and
 criticized by sensible people, and they create much merit. What two?
@@ -65,6 +65,7 @@ an astute, competent true person has these two qualities they keep
 themselves intact and unscathed. They don't deserve to be blamed and
 criticized by sensible people, and they create much merit."
 
+<!--pg-->
 136\. "When a foolish, incompetent untrue person acts wrongly toward two
 people they keep themselves broken and damaged. They deserve to be
 blamed and criticized by sensible people, and they create much
@@ -73,7 +74,6 @@ untrue person acts wrongly toward these two people they keep themselves
 broken and damaged. They deserve to be blamed and criticized by sensible
 people, and they create much wickedness.
 
-<!--pg-->
 When an astute, competent true person acts rightly toward two people
 they keep themselves intact and unscathed. They don't deserve to be
 blamed and criticized by sensible people, and they create much merit.
@@ -82,6 +82,7 @@ rightly toward these two people they keep themselves intact and
 unscathed. They don't deserve to be blamed and criticized by sensible
 people, and they create much merit."
 
+<!--pg-->
 137\. "When a foolish, incompetent untrue person acts wrongly toward two
 people they keep themselves broken and damaged. They deserve to be
 blamed and criticized by sensible people, and they create much
@@ -91,7 +92,6 @@ people they keep themselves broken and damaged. They deserve to be
 blamed and criticized by sensible people, and they create much
 wickedness.
 
-<!--pg-->
 When an astute, competent true person acts rightly toward two people
 they keep themselves intact and unscathed. They don't deserve to be
 blamed and criticized by sensible people, and they create much merit.
@@ -100,6 +100,7 @@ astute, competent true person acts rightly toward these two people they
 keep themselves intact and unscathed. They don't deserve to be blamed
 and criticized by sensible people, and they create much merit."
 
+<!--pg-->
 138\. "There are these two things. What two? Cleaning your own mind, and not
 grasping at anything in the world. These are the two things."
 
@@ -111,4 +112,3 @@ two things."
 140\. "There are these two things. What two? Dispelling anger and dispelling
 acrimony. These are the two things."
 
-<!--pg-->

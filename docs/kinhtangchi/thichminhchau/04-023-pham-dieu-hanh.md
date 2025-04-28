@@ -8,7 +8,8 @@ Nói láo, nói hai lưỡi, nói lời thô ác, nói lời phù phiếm.
 
 Này các Tỷ-kheo, có bốn lời ác hành này.
 
-2. Này các Tỷ-kheo, có bốn lời thiện hành này. Thế nào là bốn?
+<!--pg-->
+2\. Này các Tỷ-kheo, có bốn lời thiện hành này. Thế nào là bốn?
 
 Nói thật, không nói hai lưỡi, nói lời nhu nhuyến, nói lời thông tuệ.
 
@@ -16,7 +17,8 @@ Này các Tỷ-kheo, có bốn lời thiện hành này.
 
 **(II) (222) Kiến**
 
-1. - Thành tựu với bốn pháp này, này các Tỷ-kheo, kẻ ngu si, không thông minh, không phải Chân nhân,
+<!--pg-->
+1\. - Thành tựu với bốn pháp này, này các Tỷ-kheo, kẻ ngu si, không thông minh, không phải Chân nhân,
 tự mình xử sự như một kẻ mất gốc, không có sinh khí, có tội, bị các người trí quở trách, và tạo nhiều vô
 phước. Thế nào là với bốn?
 
@@ -26,7 +28,8 @@ Thành tựu với bốn pháp này, này các Tỷ-kheo, kẻ ngu si, không th
 mình xử sự như một kẻ mất gốc, không có sinh khí, có tội, bị các người trí quở trách, và tạo nhiều vô
 phước.
 
-2. Thành tựu với bốn pháp này, này các Tỷ-kheo, bậc Hiền trí thông minh, là bậc Chân nhân, tự mình xử
+<!--pg-->
+2\. Thành tựu với bốn pháp này, này các Tỷ-kheo, bậc Hiền trí thông minh, là bậc Chân nhân, tự mình xử
 sự không như một kẻ mất gốc, một kẻ có sinh khí, không có tội, không bị các người trí quở trách, và tạo
 nhiều phước đức. Thế nào là với bốn?
 

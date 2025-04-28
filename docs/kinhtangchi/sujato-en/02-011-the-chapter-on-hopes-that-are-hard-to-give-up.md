@@ -1,4 +1,4 @@
-## The Chapter on Hopes That Are Hard to Give Up
+# The Chapter on Hopes That Are Hard to Give Up
 
 ### N 2.118--129 *Āsāduppajahavagga*
 
@@ -59,5 +59,3 @@ offenses."
 129\. "There are these two offenses. What two? An offense requiring
 rehabilitation and an offense not requiring rehabilitation. These are
 the two offenses."
-
-<!--pg-->

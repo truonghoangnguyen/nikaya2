@@ -1,4 +1,4 @@
-## The Chapter on Negligence
+# The Chapter on Negligence
 
 ### N 1.82--97 *Pamādādivagga*
 

@@ -14,7 +14,8 @@ gọi là hội chúng thâm sâu.
 Này các Tỷ-kheo, có hai hội chúng này. Hội chúng tối thượng giữa hai hội chúng này, này các Tỷ-kheo,
 tức là hội chúng thâm sâu.
 
-2. Có hai loại hội chúng này, này các Tỷ-kheo. Thế nào là hai? Hội chúng bất hòa và hội chúng hòa hợp.
+<!--pg-->
+2\. Có hai loại hội chúng này, này các Tỷ-kheo. Thế nào là hai? Hội chúng bất hòa và hội chúng hòa hợp.
 Và này các Tỷ-kheo, thế nào là hội chúng bất hòa? Ở đây, này các Tỷ-kheo, tại hội chúng nào, các Tỷkheo sống cạnh tranh, luận tranh, đấu tranh, đả thương nhau bằng binh khí miệng lưỡi, này các Tỷ-kheo,
 đây gọi là hội chúng bất hòa.
 
@@ -24,7 +25,8 @@ Và này các Tỷ-kheo, thế nào là hội chúng hòa hợp? Ở đây, này
 Này các Tỷ-kheo, có hai hội chúng này. Hội chúng tối thượng giữa hai hội chúng này, này các Tỷ-kheo,
 tức là hội chúng hòa hợp.
 
-3. Có hai loại hội chúng này, này các Tỷ-kheo. Thế nào là hai? Hội chúng không thù thắng và hội chúng
+<!--pg-->
+3\. Có hai loại hội chúng này, này các Tỷ-kheo. Thế nào là hai? Hội chúng không thù thắng và hội chúng
 thù thắng. Và này các Tỷ-kheo, thế nào là hội chúng không thù thắng? Ở đây, này các Tỷ-kheo, tại hội
 chúng nào, các trưởng lão Tỷ-kheo sống trong sự đầy đủ, lười biếng, dẫn đầu về đọa lạc, bỏ rơi gánh
 nặng sống viễn ly, không có gia sức tinh tấn để đạt đến những gì chưa đạt, để chứng được những gì chưa
@@ -43,7 +45,8 @@ ngộ.. Này các Tỷ-kheo, đây gọi là hội chúng thù thắng.
 Này các Tỷ-kheo, có hai hội chúng này. Hội chúng tối thắng trong hai hội chúng này, này các Tỷ-kheo,
 tức là hội chúng thù thắng.
 
-4. Này các Tỷ-kheo, có hai hội chúng này. Thế nào là hai? Hội chúng không phải Thánh và hội chúng
+<!--pg-->
+4\. Này các Tỷ-kheo, có hai hội chúng này. Thế nào là hai? Hội chúng không phải Thánh và hội chúng
 bậc Thánh. Và này các Tỷ-kheo, thế nào là hội chúng không phải Thánh? Ở đây, này các Tỷ-kheo, tại
 hội chúng nào, các Tỷ-kheo không như thật rõ biết: “Ðây là khổ”; không như thật rõ biết: “Ðây là khổ
 tập”; không như thật rõ biết: “Ðây là khổ diệt”; không như thật rõ biết: “Ðây là con đường đưa đến khổ
@@ -56,7 +59,8 @@ Thánh.
 Này các Tỷ-kheo, có hai hội chúng này. Hội chúng tối thắng trong hai hội chúng này, này các Tỷ-kheo,
 tức là hội chúng bậc Thánh.
 
-5. Này các Tỷ-kheo, có hai loại hội chúng này. Thế nào là hai? Hội chúng cặn bã và hội chúng tinh ba.
+<!--pg-->
+5\. Này các Tỷ-kheo, có hai loại hội chúng này. Thế nào là hai? Hội chúng cặn bã và hội chúng tinh ba.
 Và này các Tỷ-kheo, thế nào là hội chúng cặn bã? Ở đây, này các Tỷ-kheo, tại hội chúng nào, các Tỷkheo đi đến con đường dục, đi đến con đường sân, đi đến con đường si, đi đến con đường sợ hãi, này
 các Tỷ-kheo, đây gọi là hội chúng cặn bã.
 
@@ -65,7 +69,8 @@ Và này các Tỷ-kheo, thế nào là hội chúng tinh ba? Ở đây, này c�
 
 Này các Tỷ-kheo, đây là hai hội chúng này. Hội chúng tối thắng trong hai hội chúng này, này các Tỷkheo, tức là hội chúng tinh ba.
 
-6. Này các Tỷ-kheo, có hai hội chúng này. Thế nào là hai? Hội chúng được huấn luyện trong khoa
+<!--pg-->
+6\. Này các Tỷ-kheo, có hai hội chúng này. Thế nào là hai? Hội chúng được huấn luyện trong khoa
 trương, không được huấn luyện trong chất vấn và hội chúng được huấn luyện trong chất vấn, không
 được huấn luyện trong khoa trương. Và này các Tỷ-kheo, thế nào là hội chúng được huấn luyện trong
 khoa trương, không được huấn luyện trong chất vấn? Ở đây, này các Tỷ-kheo, tại hội chúng nào, các
@@ -97,7 +102,8 @@ là hội chúng được huấn luyện trong chất vấn, không được hu�
 Này các Tỷ-kheo, có hai hội chúng này. Hội chúng tối thắng trong hai hội chúng này, này các Tỷ-kheo,
 tức là hội chúng được huấn luyện trong chất vấn, không được huấn luyện trong khoa trương.
 
-7. Này các Tỷ-kheo, có hai loại hội chúng này. Thế nào là hai? Hội chúng tôn trọng tài vật, không tôn
+<!--pg-->
+7\. Này các Tỷ-kheo, có hai loại hội chúng này. Thế nào là hai? Hội chúng tôn trọng tài vật, không tôn
 trọng diệu pháp và hội chúng tôn trong diệu pháp, không tôn trọng tài vật. Và này các Tỷ-kheo, thế nào
 là hội chúng tôn trọng tài vật, không tôn trọng diệu pháp? Ở đây, này các Tỷ-kheo, tại hội chúng nào,
 các Tỷ-kheo trước mặt các gia chủ bận áo trắng, tự tán thán lẫn nhau như sau: “Tỷ-kheo này là bậc giải
@@ -117,7 +123,8 @@ không bị trói buộc, không bị mê say, không đắm trước, thấy c�
 các lợi dưỡng ấy. Này các Tỷ-kheo, đây gọi là hội chúng tôn trọng diệu pháp, không tôn trọng tài vật.
 Này các Tỷ-kheo, có hai loại hội chúng này. Hội chúng tối thắng trong hai hội chúng này, này các Tỷkheo, tức là hội chúng tôn trọng diệu pháp, không tôn trọng tài vật.
 
-8. Này các Tỷ-kheo, có hai loại hội chúng này. Thế nào là hai? Hội chúng không đồng đẳng và hội
+<!--pg-->
+8\. Này các Tỷ-kheo, có hai loại hội chúng này. Thế nào là hai? Hội chúng không đồng đẳng và hội
 chúng đồng đẳng. Và này các Tỷ-kheo, thế nào là hội chúng không đồng đẳng? Ở đây, này các Tỷ-kheo,
 tại hội chúng nào, nghiệp phi pháp được thi hành, nghiệp đúng pháp không được thi hành, nghiệp phi
 luật được thi hành, nghiệp đúng luật không được thi hành, nghiệp phi pháp được phát huy, nghiệp đúng
@@ -131,10 +138,12 @@ phát huy, nghiệp đúng luật được phát huy, nghiệp phi luật không
 gọi là hội chúng đồng đẳng. Này các Tỷ Kheo, có hai loại hội chúng này. Hội chúng tối thắng trong hai
 hội chúng này tứ là hội chúng đồng đẳng.
 
-9. Này các Tỷ-kheo, có hai loại hội chúng này. Thế nào là hai? Hội chúng phi pháp và hội chúng đúng
+<!--pg-->
+9\. Này các Tỷ-kheo, có hai loại hội chúng này. Thế nào là hai? Hội chúng phi pháp và hội chúng đúng
 pháp. Này các Tỷ-kheo, có hai hội chúng này. Hội chúng tối thắng trong hai hội chúng này, này các Tỷkheo, tức là hội chúng đúng pháp.
 
-10. Này các Tỷ-kheo, có hai loại hội chúng này. Thế nào là hai? Hội chúng thuyết phi pháp và hội chúng
+<!--pg-->
+10\. Này các Tỷ-kheo, có hai loại hội chúng này. Thế nào là hai? Hội chúng thuyết phi pháp và hội chúng
 thuyết đúng pháp. Và này các Tỷ-kheo, thế nào là hội chúng thuyết phi pháp? Ở đây, này các Tỷ-kheo,
 tại hội chúng nào, các Tỷ-kheo khởi sự tranh tụng hợp pháp hay phi pháp. Sau khi khởi lên sự tranh tụng
 ấy, họ không tin cho nhau biết và không tìm cách tin cho nhau biết, họ không hòa giải cùng nhau và

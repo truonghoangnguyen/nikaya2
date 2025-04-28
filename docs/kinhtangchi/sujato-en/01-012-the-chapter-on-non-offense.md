@@ -1,4 +1,4 @@
-## The Chapter on Non-offense
+# The Chapter on Non-offense
 
 ### N 1.150--169 *Anāpattivagga*
 

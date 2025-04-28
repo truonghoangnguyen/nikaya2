@@ -48,7 +48,8 @@ Tôn giả Sona vâng đáp Thế Tôn. Rồi Thế Tôn sau khi giáo giới T�
 nhà lực sĩ duỗi cánh tay đang co lại, hay co lại cánh tay đang duỗi ra, cũng vậy, Thế Tôn biến mất tại
 rừng Sìta và hiện ra ở núi Gijjhakùta.
 
-2. Rồi Tôn giả Sona, sau một thời gian an trú tinh tấn một cách bình đẳng, thể nhập các căn một cách
+<!--pg-->
+2\. Rồi Tôn giả Sona, sau một thời gian an trú tinh tấn một cách bình đẳng, thể nhập các căn một cách
 bình đẳng và tại đấy nắm giữ tướng. Rồi Tôn giả Sona sống độc cư, an tịnh, không phóng dật, nhiệt tâm,
 tinh cần, không bao lâu, do mục đích gì các thiện nam tử chơn chánh xuất gia từ bỏ gia đình sống không
 gia đình, vị ấy ngay trong hiện tại, tự mình với thắng trí chứng ngộ và chứng đạt vô thượng cứu cánh
@@ -58,25 +59,29 @@ Sona suy nghĩ như sau: “Ta hãy đi đến Thế Tôn; sau khi đến, ta s�
 Rồi Tôn giả Sona đi đến Thế Tôn; sau khi đến, đảnh lễ Thế Tôn, rồi ngồi xuống một bên. Ngồi xuống
 một bên, Tôn giả Sona bạch Thế Tôn:
 
-3. - Bạch Thế Tôn, Tỷ-kheo nào là bậc A-la-hán, đã đoạn tận các lậu hoặc, Phạm hạnh đã thành, đã làm
+<!--pg-->
+3\. - Bạch Thế Tôn, Tỷ-kheo nào là bậc A-la-hán, đã đoạn tận các lậu hoặc, Phạm hạnh đã thành, đã làm
 những việc cần làm, đã đặt gánh nặng xuống, đã đạt được mục đích, hữu kiết sử đã trừ diệt, đã được giải
 thoát nhờ chánh trí; vị ấy có sáu chỗ để xu hướng, xu hướng xuất ly, xu hướng viễn ly, xu hướng vô sân,
 xu hướng ái diệt, xu hướng thủ diệt, xu hướng vô si.
 
-4. Bạch Thế Tôn, có thể ở đây, một số Tôn giả suy nghĩ như sau: “Có Tôn giả này hoàn toàn chỉ y cứ
+<!--pg-->
+4\. Bạch Thế Tôn, có thể ở đây, một số Tôn giả suy nghĩ như sau: “Có Tôn giả này hoàn toàn chỉ y cứ
 trên tín, có xu hướng xuất ly”. Vị Tôn giả ấy chớ có quan điểm như vậy! Tỷ-kheo đã đoạn tận các lậu
 hoặc, bạch Thế Tôn, Phạm hạnh đã thành, các việc nên làm đã làm, không còn thấy trong mình còn cái
 gì cần làm, hay còn cái gì cần phải làm thêm; do đoạn diệt tham ái, do viễn ly tham ái, vị ấy hướng tâm
 đến xu hướng xuất ly; do đoạn diệt sân, do viễn ly sân, vị ấy hướng tâm đến xu hướng xuất ly; do đoạn
 diệt si, do viễn ly si, vị ấy hướng tâm đến xu hướng xuất ly.
 
-5. Bạch Thế Tôn, có thể ở đây một số Tôn giả suy nghĩ như sau: “Tôn giả này do tham muốn lợi dưỡng,
+<!--pg-->
+5\. Bạch Thế Tôn, có thể ở đây một số Tôn giả suy nghĩ như sau: “Tôn giả này do tham muốn lợi dưỡng,
 cung kính, danh tiếng nên hướng tâm về xu hướng viễn ly”. Tôn giả ấy chớ có quan niệm như vậy! Bạch
 Thế Tôn, Tỷ-kheo đã đoạn tận các lậu hoặc, đã thành tựu Phạm hạnh, đã làm những việc phải làm,
 không còn thấy trong mình còn cái gì cần làm hay còn cái gì cần phải làm thêm; do đoạn diệt tham ái,
 do viễn ly tham ái, vị ấy hướng tâm đến xu hướng viễn ly; do đoạn diệt sân, do viễn ly sân, vị ấy hướng
 tâm đến xu hướng viễn ly; do đoạn diệt si, do viễn ly si, vị ấy hướng tâm đến xu hướng viễn ly.
 
+<!--pg-->
 6-9. Bạch Thế Tôn, có thể đây một số Tôn giả suy nghĩ như sau: “Do đi ngược trở lại tối thắng giới cấm
 thủ, Tôn giả này hướng tâm đến xu hướng vô sân”. Tôn giả ấy chớ có quan điểm như vậy! Bạch Thế
 Tôn, Tỷ-kheo đã đoạn tận các lậu hoặc, đã thành tựu Phạm hạnh, đã làm những việc phải làm, không
@@ -91,14 +96,16 @@ xu hướng thủ diệt. Do đoạn diệt tham ái, do viễn ly tham ái, v�
 đoạn diệt sân, do viễn ly sân, vị ấy hướng tâm đến xu hướng vô si; do đoạn diệt si, do viễn ly si, vị ấy
 hướng tâm đến xu hướng vô si.
 
-10. Như vậy, với Tỷ-kheo có tâm chơn chánh giải thoát, bạch Thế Tôn, nếu nhiều sắc do mắt nhận thức
+<!--pg-->
+10\. Như vậy, với Tỷ-kheo có tâm chơn chánh giải thoát, bạch Thế Tôn, nếu nhiều sắc do mắt nhận thức
 đi vào trong giới vức của mắt, chúng không chinh phục tâm vị ấy, và tâm vị ấy không lộn xộn, an trú,
 đạt được không dao động, quán thấy tánh diệt của chúng. Nếu nhiều tiếng do tai nhận thức... nếu nhiều
 hương do mũi nhận thức... nếu nhiều vị do lưỡi nhận thức... nếu nhiều xúc do thân nhận thức... nếu
 nhiều pháp do ý nhận thức đi vào trong giới vực của ý, chúng không chinh phục tâm của vị ấy, và tâm vị
 ấy không lộn xộn, an trú, đạt được không dao động, quán thấy tánh diệt của chúng.
 
-11. Ví như, bạch Thế Tôn, một hòn núi đá, không có rạn nứt, không có trống bọng, một tảng đá lớn, nếu
+<!--pg-->
+11\. Ví như, bạch Thế Tôn, một hòn núi đá, không có rạn nứt, không có trống bọng, một tảng đá lớn, nếu
 từ phương Ðông mưa to gió lớn đến, không có làm rung động, rung chuyển, chuyển động mạnh núi đá
 ấy. Nếu từ phương Tây mưa to gió lớn đến... nếu từ phương Bắc mưa to gió lớn đến.... nếu từ phương
 Nam mưa to gió lớn đến không có làm rung động, rung chuyển, chuyển động mạnh núi đá ấy.
@@ -135,7 +142,8 @@ _Thấy tánh diệt của chúng._
 
 **(II) (56) Phagguna**
 
-1. Lúc bấy giờ, Tôn giả Phagguna bị bệnh, khổ đau, bị trọng bệnh. Rồi Tôn giả Ananda đi đến Thế Tôn;
+<!--pg-->
+1\. Lúc bấy giờ, Tôn giả Phagguna bị bệnh, khổ đau, bị trọng bệnh. Rồi Tôn giả Ananda đi đến Thế Tôn;
 sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Ngồi xuống một bên, Tôn giả Ananda bạch Thế
 Tôn:
 
@@ -176,7 +184,8 @@ gia tăng được thấy rõ, không có giảm thiểu.
 Rồi Thế Tôn, với pháp thoại, nói lên cho Tôn giả Phagguna biết, khích lệ, làm cho phấn khởi, làm cho
 hoan hỉ, từ chỗ ngồi, đứng dậy và ra đi.
 
-2. Rồi Tôn giả Phagguna, sau khi Thế Tôn ra đi không bao lâu, liền mệnh chung. Trong khi Tôn giả lâm
+<!--pg-->
+2\. Rồi Tôn giả Phagguna, sau khi Thế Tôn ra đi không bao lâu, liền mệnh chung. Trong khi Tôn giả lâm
 chung, các căn được sáng chói. Rồi Tôn giả Ananda đi đến Thế Tôn, sau khi đến, đảnh lễ Thế Tôn rồi
 ngồi xuống một bên, Tôn giả Ananda bạch Thế Tôn:
 
@@ -187,38 +196,44 @@ Tôn giả mệnh chung, các căn được sáng chói.
 giải thoát khỏi năm hạ phần kiết sử. Có sáu lợi ích này, này Ananda, nếu nghe pháp đúng thời, và thẩm
 sát ý nghĩa đúng thời. Thế nào là sáu?
 
-3. Ở đây, này Ananda, Tỷ-kheo tâm chưa được giải thoát khỏi năm hạ phần kiết sử, vị ấy trong khi mạng
+<!--pg-->
+3\. Ở đây, này Ananda, Tỷ-kheo tâm chưa được giải thoát khỏi năm hạ phần kiết sử, vị ấy trong khi mạng
 chung, được thấy Thế Tôn. Thế Tôn thuyết pháp cho vị ấy, sơ thiện, trung thiện, hậu thiện, có nghĩa, có
 văn, đề cao đời sống Phạm hạnh hoàn toàn đầy đủ thanh tịnh. Sau khi nghe thuyết pháp, tâm vị ấy được
 giải thoát khỏi năm hạ phần kiết sử. Ðây là lợi ích thứ nhất, này Ananda, khi được nghe pháp đúng thời.
 
-4. Lại nữa, này Ananda, Tỷ-kheo với tâm chưa được giải thoát khỏi năm hạ phần kiết sử, vị ấy trong khi
+<!--pg-->
+4\. Lại nữa, này Ananda, Tỷ-kheo với tâm chưa được giải thoát khỏi năm hạ phần kiết sử, vị ấy trong khi
 mệnh chung, không được thấy Thế Tôn, nhưng chỉ được thấy đệ tử Như Lai. Ðệ tử Như Lai thuyết pháp
 cho vị ấy, sơ thiện, trung thiện, hậu thiện, có nghĩa, có văn, đề cao đời sống Phạm hạnh hoàn toàn đầy
 đủ thanh tịnh. Sau khi nghe thuyết pháp, tâm vị ấy được giải thoát khỏi năm hạ phần kiết sử. Này
 Ananda, đây là lợi ích thứ hai khi được nghe pháp đúng thời.
 
-5. Lại nữa, này Ananda, Tỷ-kheo với tâm chưa được giải thoát khỏi năm hạ phần kiết sử, vị ấy trong khi
+<!--pg-->
+5\. Lại nữa, này Ananda, Tỷ-kheo với tâm chưa được giải thoát khỏi năm hạ phần kiết sử, vị ấy trong khi
 mệnh chung, không được thấy Như Lai, cũng không được thấy đệ tử của Như Lai. Nhưng với tâm tùy
 tầm, tùy tứ, với ý tùy quán pháp như đã được nghe, như đã được học một cách thông suốt; do vị ấy, với
 tâm tùy tầm, tùy tứ, với ý tùy quán pháp như đã được nghe, như đã được học một cách thông suốt, nên
 tâm được giải thoát khỏi năm hạ phần kiết sử. Này Ananda, đây là lợi ích thứ ba khi thẩm sát ý nghĩa
 đúng thời.
 
-6. Ở đây, này Ananda, Tỷ-kheo với tâm đã được giải thoát khỏi năm hạ phần kiết sử, nhưng tâm chưa
+<!--pg-->
+6\. Ở đây, này Ananda, Tỷ-kheo với tâm đã được giải thoát khỏi năm hạ phần kiết sử, nhưng tâm chưa
 giải thoát đối với vô thượng đoạn diệt sanh y, vị ấy trong khi mệnh chung được thấy Như Lai. Và Như
 Lai thuyết pháp cho vị ấy, sơ thiện, trung thiện, hậu thiện, có nghĩa, có văn, đề cao đời sống Phạm hạnh
 hoàn toàn viên mãn thanh tịnh. Sau khi được nghe thuyết pháp, tâm vị ấy được giải thoát đối với vô
 thượng đoạn diệt sanh y. Này Ananda, đây là lợi ích thứ tư khi được nghe pháp đúng thời.
 
-7. Lại nữa, này Ananda, Tỷ-kheo với tâm đã được giải thoát khỏi năm hạ phần kiết sử, nhưng tâm chưa
+<!--pg-->
+7\. Lại nữa, này Ananda, Tỷ-kheo với tâm đã được giải thoát khỏi năm hạ phần kiết sử, nhưng tâm chưa
 giải thoát đối với vô thượng đoạn diệt sanh y, vị ấy trong khi mạng chung không được thấy Như Lai, chỉ
 được thấy đệ tử của Như Lai. Ðệ tử Như Lai thuyết pháp cho vị ấy, sơ thiện, trung thiện, hậu thiện, có
 nghĩa, có văn, đề cao đời sống Phạm hạnh hoàn toàn viên mãn thanh tịnh. Sau khi được nghe thuyết
 pháp, tâm vị ấy được giải thoát đối với vô thượng đoạn diệt sanh y. Này Ananda, đây là lợi ích thứ năm
 khi được nghe pháp đúng thời.
 
-8. Lại nữa, này Ananda, Tỷ-kheo với tâm được giải thoát khỏi năm hạ phần kiết sử, nhưng tâm chưa giải
+<!--pg-->
+8\. Lại nữa, này Ananda, Tỷ-kheo với tâm được giải thoát khỏi năm hạ phần kiết sử, nhưng tâm chưa giải
 thoát đối với vô thượng đoạn diệt sanh y, vị ấy trong khi mệnh chung không được thấy Như Lai, cũng
 không được thấy đệ tử Như Lai. Nhưng với tâm tùy tầm, tùy tứ, với ý tùy quán pháp như đã được học
 thông suốt, do vị ấy với tâm tùy tầm, tùy tứ, với ý tùy quán pháp như đã được nghe, như đã được học
@@ -229,11 +244,13 @@ Có sáu lợi ích này, này Ananda, khi được nghe pháp đúng thời, v�
 
 **(III) (57) Sáu Sanh Loại**
 
-1. Một thời, Thế Tôn trú ở Ràijagaha (Vương Xá), tại núi Gijjhakùta (Linh Thứu). Rồi Tôn giả Ananda
+<!--pg-->
+1\. Một thời, Thế Tôn trú ở Ràijagaha (Vương Xá), tại núi Gijjhakùta (Linh Thứu). Rồi Tôn giả Ananda
 đi đến Thế Tôn; sau khi đến đảnh lễ Thế Tôn rồi ngồi xuống một bên. Ngồi xuống một bên, Tôn giả
 Ananda bạch Thế Tôn:
 
-2. - Bạch Thế Tôn, Tôn giả Pùrana Kassapa trình bày sáu sanh loại: sanh loại đen, sanh loại xanh, sanh
+<!--pg-->
+2\. - Bạch Thế Tôn, Tôn giả Pùrana Kassapa trình bày sáu sanh loại: sanh loại đen, sanh loại xanh, sanh
 loại đỏ, sanh loại vàng, sanh loại trắng, sanh loại hết sức trắng. Ở đây, bạch Thế Tôn, đây là loại sanh
 đen do Pùrana Kassapa trình bày: “Kẻ giết cừu, kẻ giết heo, kẻ giết chim, kẻ săn thú, kẻ hung bạo, người
 đánh cá, kẻ ăn trộm, kẻ ăn trộm giết người, kẻ ngục tốt và những người khác theo nghề tàn ác”. Ở đây,
@@ -246,7 +263,8 @@ bày: “Các tà mạng ngoại đạo và đệ tử của họ”. Ở đây,
 do Pùrana Kassapa trình bày: “Nanda Vaccha, Kisa Sankicca và Makkhali Gosàla”. Bạch Thế Tôn, sáu
 sanh loại này do Pùrana Kassapa trình bày.
 
-3. - Này Ananda, có phải toàn thế giới đều đồng ý chấp nhận sự trình bày thành sáu sanh loại này của
+<!--pg-->
+3\. - Này Ananda, có phải toàn thế giới đều đồng ý chấp nhận sự trình bày thành sáu sanh loại này của
 Pùrana Kassapa không?
 
 − Thưa không, bạch Thế Tôn.
@@ -263,14 +281,16 @@ Tôn giả Ananda vâng đáp Thế Tôn. Thế Tôn nói như sau:
 
 − Này Ananda, thế nào là sáu sanh loại?
 
-4. Ở đây, này Ananda, có một số sanh loại đen, sanh ra các pháp đen. Nhưng ở đây, này Ananda, có một
+<!--pg-->
+4\. Ở đây, này Ananda, có một số sanh loại đen, sanh ra các pháp đen. Nhưng ở đây, này Ananda, có một
 số sanh loại đen sanh ra pháp trắng. Ở đây, này Ananda, có một số sanh loại đen sanh ra Niết-bàn,
 không đen không trắng. Ở đây, này Ananda, có một số sanh loại trắng sanh ra pháp đen. Ở đây, này
 Ananda, có một số sanh loại trắng sanh ra pháp trắng. Ở đây, này Ananda, có một số sanh loại trắng
 sanh ra Niết-bàn, không đen không trắng. Và này, Ananda, thế nào là một số sanh loại đen sanh ra pháp
 đen?
 
-5. Ở đây, này Ananda, có một số người sanh ra trong gia đình thấp kém, gia đình người đổ phân hay gia
+<!--pg-->
+5\. Ở đây, này Ananda, có một số người sanh ra trong gia đình thấp kém, gia đình người đổ phân hay gia
 đình người thợ săn, hay gia đình người đan tre, hay gia đình người đóng xe, hay gia đình người quét rác,
 hay trong gia đình một người nghèo khổ, khó tìm được đồ ăn uống để sống, khó tìm cho được đồ ăn đồ
 mặc. Và người ấy xấu xí, khó nhìn, lùn thấp, nhiều bệnh hoạn, đui một mắt, tàn tật, còm, què, hay đi
@@ -280,20 +300,23 @@ về thân, về lời, về ý, sau khi thân hoại mạng chung sanh vào cõ
 này Ananda, là hạng sanh loại đen sanh ra pháp đen. Và này Ananda, thế nào là hạng sanh loại đen sanh
 ra pháp trắng?
 
-6. Ở đây, này Ananda, có hạng người sanh ra trong gia đình thấp kém... chỗ nằm, chỗ ở và đèn. Người
+<!--pg-->
+6\. Ở đây, này Ananda, có hạng người sanh ra trong gia đình thấp kém... chỗ nằm, chỗ ở và đèn. Người
 ấy làm thiện hạnh về thân, làm thiện hạnh về lời, làm thiện hạnh về ý. Người ấy do làm thiện hạnh về
 thân, về lời, về ý, sau khi thân hoại mạng chung sanh vào cõi lành, Thiên giới, thế giới này. Như vậy,
 này Ananda, là hạng sanh loại đen sanh ra pháp trắng. Và này Ananda, thế nào là hạng sanh loại đen
 sanh ra Niết-bàn, không đen không trắng?
 
-7. Ở đây, này Ananda, có hạng người sanh ra trong gia đình thấp kém... và người ấy xấu xí, khó nhìn,
+<!--pg-->
+7\. Ở đây, này Ananda, có hạng người sanh ra trong gia đình thấp kém... và người ấy xấu xí, khó nhìn,
 lùn thấp. Người ấy, sau khi cạo bỏ râu tóc, đắp áo cà sa, xuất gia từ bỏ gia đình, sống không gia đình. Vị
 ấy xuất gia như vậy, sau khi đoạn tận năm triền cái, làm cho muội lược các kiết sử về tâm với trí tuệ, trú
 tâm trên Bốn niệm xứ, như thật tu tập Bảy giác chi, sanh ra Niết-bàn không đen không trắng. Như vậy,
 này Ananda là hạng sanh loại đen sanh ra Niết-bàn, không đen không trắng. Và này Ananda, thế nào là
 sanh loại trắng sanh ra pháp đen?
 
-8. Ở đây, này Ananda, có hạng người sanh ra trong gia đình cao quý, trong gia đình Sát-đế-lỵ đại phú,
+<!--pg-->
+8\. Ở đây, này Ananda, có hạng người sanh ra trong gia đình cao quý, trong gia đình Sát-đế-lỵ đại phú,
 hay trong gia đình Bà-la-môn đại phú, hay trong gia đình gia chủ đại phú, phú hào, có tiền của lớn, tài
 sản lớn, có nhiều vàng bạc, có nhiều tài sản, vật dụng, nhiều tiền của, ngũ cốc. Người ấy lại đẹp trai, dễ
 nhìn, dễ thương, với màu da tuyệt đẹp, mỹ miều. Người ấy lại được ăn đồ ăn, đồ uống, áo mặc, xe cộ,
@@ -303,13 +326,15 @@ sau khi thân hoại mạng chung sanh, sanh vào cõi dữ, ác thú, đạo x�
 hạng sanh loại trắng sanh ra pháp đen. Và này Ananda, thế nào là hạng sanh loại trắng sanh ra pháp
 trắng?
 
-9. Ở đây, này Ananda, có hạng người sanh ra trong gia đình cao quý, trong gia đình Sát-đế-lỵ đại phú...
+<!--pg-->
+9\. Ở đây, này Ananda, có hạng người sanh ra trong gia đình cao quý, trong gia đình Sát-đế-lỵ đại phú...
 chỗ trú, đèn đuốc. Người ấy làm thiện hạnh về thân, làm thiện hạnh về lời, làm thiện hạnh về ý. Người
 ấy do làm thiện hạnh về thân, do làm thiện hạnh về lời, do làm thiện hạnh về ý, sau khi thân hoại mạng
 chung sanh lên thiện thú, Thiên giới, cõi đời này. Như vậy, này Ananda, là hạng sanh loại trắng sanh ra
 pháp trắng. Và này Ananda, thế nào là hạng sanh loại trắng sanh ra Niết-bàn, không đen không trắng?
 
-10. Ở đây, này Ananda, có hạng người sanh ra trong gia đình cao quý, trong gia đình Sát-đế-lỵ đại phú...
+<!--pg-->
+10\. Ở đây, này Ananda, có hạng người sanh ra trong gia đình cao quý, trong gia đình Sát-đế-lỵ đại phú...
 chỗ trú, đèn đuốc. Vị ấy, sau khi cạo bỏ râu tóc, đắp áo cà sa, xuất gia, từ bỏ gia đình, sống không gia
 đình. Vị ấy xuất gia như vậy, sau khi đoạn tận năm triền cái, làm cho muội lược các kiết sử về tâm với
 trí tuệ, trú tâm trên Bốn niệm xứ, như thật tu tập Bảy giác chi, sanh ra Niết-bàn không đen không trắng.
@@ -319,17 +344,20 @@ Này Ananda, đây là sáu sanh loại.
 
 **(IV) (58) Các Lậu Hoặc**
 
-1. - Thành tựu sáu pháp, này các Tỷ-kheo, Tỷ-kheo đáng được cung kính, đáng được tôn trọng, đáng
+<!--pg-->
+1\. - Thành tựu sáu pháp, này các Tỷ-kheo, Tỷ-kheo đáng được cung kính, đáng được tôn trọng, đáng
 được cúng dường, đáng được chắp tay, là phước điền vô thượng ở đời. Thế nào là sáu?
 
-2. Ở đầy, này các Tỷ-kheo, Tỷ-kheo đối với các lậu hoặc phải do phòng hộ mà được đoạn trừ, chúng đã
+<!--pg-->
+2\. Ở đầy, này các Tỷ-kheo, Tỷ-kheo đối với các lậu hoặc phải do phòng hộ mà được đoạn trừ, chúng đã
 được đoạn trừ do phòng hộ; đối với các lậu hoặc phải do thọ dụng mà được đoạn trừ, chúng đã được
 đoạn trừ do thọ dụng; đối với các lậu hoặc phải do kham nhẫn mà được đoạn trừ, chúng đã được đoạn
 trừ do kham nhẫn; đối với các lậu hoặc phải do tránh né mà được đoạn trừ, chúng đã được đoạn trừ do
 tránh né; đối với các lậu hoặc phải do trừ diệt mà được đoạn trừ, chúng đã được đoạn trừ do trừ diệt; đối
 với các lậu hoặc phải do tu tập mà được đoạn trừ, chúng đã được đoạn trừ do tu tập. Và này các Tỷkheo, thế nào là các lậu hoặc phải do phòng hộ mà được đoạn trừ, chúng đã được đoạn trừ do phòng hộ?
 
-3. Ở đây, này các Tỷ-kheo, Tỷ-kheo chơn chánh giác sát, sống phòng hộ với sự phòng hộ nhãn căn. Này
+<!--pg-->
+3\. Ở đây, này các Tỷ-kheo, Tỷ-kheo chơn chánh giác sát, sống phòng hộ với sự phòng hộ nhãn căn. Này
 các Tỷ-kheo, nếu Tỷ-kheo ấy sống không phòng hộ với sự phòng hộ nhãn căn, các lậu hoặc tàn hại và
 nhiệt não có thể khởi lên. Nếu vị ấy sống phòng hộ với sự phòng hộ nhãn căn, các lậu hoặc tàn hại và
 nhiệt não ấy không còn nữa. Vị chơn chánh giác sát, sống phòng hộ với sự phòng hộ nhĩ căn... sống
@@ -345,7 +373,8 @@ Này các Tỷ-kheo, đây gọi là các lậu hoặc phải do phòng hộ mà
 nhờ phòng hộ. Và này các Tỷ-kheo, thế nào là các lậu hoặc phải do thọ dụng mà được đoạn trừ, chúng
 đã được đoạn trừ nhờ thọ dụng?
 
-4. Này các Tỷ-kheo, ở đây, Tỷ-kheo chơn chánh giác sát thọ dụng y phục chỉ để ngăn ngừa lạnh, ngăn
+<!--pg-->
+4\. Này các Tỷ-kheo, ở đây, Tỷ-kheo chơn chánh giác sát thọ dụng y phục chỉ để ngăn ngừa lạnh, ngăn
 ngừa nóng, ngăn ngừa sự xúc chạm của ruồi, muỗi, gió, sức nóng mặt trời, các loài bò sát, chỉ với mục
 đích che đậy sự hổ thẹn. Vị ấy chơn chánh giác sát thọ dụng món ăn khất thực, không phải để vui đùa,
 không phải để đam mê, không phải để trang sức, không phải để tự làm đẹp mình, mà chỉ để thân này
@@ -362,7 +391,8 @@ Này các Tỷ-kheo, đây gọi là các lậu hoặc phải do thọ dụng m�
 nhờ thọ dụng. Và này các Tỷ-kheo, thế nào là các lậu hoặc phải do kham nhẫn mà được đoạn trừ, chúng
 đã được đoạn trừ nhờ kham nhẫn?
 
-5. Này các Tỷ-kheo, ở đây có Tỷ-kheo chơn chánh giác sát kham nhẫn lạnh nóng, đói khát, sự xúc chạm
+<!--pg-->
+5\. Này các Tỷ-kheo, ở đây có Tỷ-kheo chơn chánh giác sát kham nhẫn lạnh nóng, đói khát, sự xúc chạm
 của ruồi, muỗi, gió, sức nóng mặt trời, các loài bò sát, kham nhẫn những cách nói mạ lỵ phỉ báng, vị ấy
 có tánh kham nhẫn các cảm thọ về thân, những cảm thọ thống khổ, khốc liệt, đau nhói, nhức nhối không
 sung sướng, không thích thú, chết điếng người. Này các Tỷ-kheo, nếu vị ấy không kham nhẫn như vậy,
@@ -372,7 +402,8 @@ nhiệt não ấy không còn nữa.
 Này các Tỷ-kheo, đây gọi là các lậu hoặc phải do kham nhẫn mà được đoạn trừ, chúng đã được đoạn trừ
 nhờ kham nhẫn. Và này các Tỷ-kheo, thế nào là các lậu hoặc phải do tránh né mà được đoạn trừ, chúng
 đã được đoạn trừ nhờ tránh né?
-6. Này các Tỷ-kheo, ở đây Tỷ-kheo chơn chánh giác sát, tránh né voi dữ, tránh né ngựa dữ, tránh né bò
+<!--pg-->
+6\. Này các Tỷ-kheo, ở đây Tỷ-kheo chơn chánh giác sát, tránh né voi dữ, tránh né ngựa dữ, tránh né bò
 dữ, tránh né chó dữ, rắn, khúc cây, gai góc, hố sâu, vực núi, ao nước nhớp, vũng nước. Những chỗ ngồi
 không xứng đáng nếu ngồi, những trú xứ không nên lai vãng nếu đến, những bạn bè ác độc, nếu giao du
 bị các vị đồng Phạm hạnh có trí nghi ngờ khinh thường. Vị chơn chánh giác sát tránh né chỗ ngồi không
@@ -384,7 +415,8 @@ Này các Tỷ-kheo, đây gọi là các lậu hoặc phải do tránh né mà 
 nhờ tránh né. Và này các Tỷ-kheo, thế nào là các lậu hoặc phải do trừ diệt mà được đoạn trừ, chúng đã
 được đoạn trừ nhờ trừ diệt?
 
-7. Này các Tỷ-kheo, ở đây vị Tỷ-kheo chơn chánh giác sát không chấp nhận dục niệm đã khởi lên, từ bỏ,
+<!--pg-->
+7\. Này các Tỷ-kheo, ở đây vị Tỷ-kheo chơn chánh giác sát không chấp nhận dục niệm đã khởi lên, từ bỏ,
 trừ khử, diệt tận, không cho tồn tại dục niệm ấy; không chấp nhận sân niệm đã khởi lên, từ bỏ, trừ khử,
 diệt tận, không cho tồn tại sân niệm ấy; không chấp nhận hại niệm đã khởi lên, từ bỏ, trừ khử, diệt tận,
 không cho tồn tại hại niệm ấy; không chấp nhận các ác bất thiện pháp luôn luôn khởi lên, từ bỏ, trừ khử,
@@ -396,7 +428,8 @@ Này các Tỷ-kheo, đây gọi là các lậu hoặc phải do trừ diệt m�
 nhờ trừ diệt. Và này các Tỷ-kheo, thế nào là các lậu hoặc phải do tu tập mà được đoạn trừ, chúng đã
 được đoạn trừ nhờ tu tập?
 
-8. Này các Tỷ-kheo, ở đây Tỷ-kheo chơn chánh giác sát tu tập niệm giác chi, niệm giác chi này y xuất y,
+<!--pg-->
+8\. Này các Tỷ-kheo, ở đây Tỷ-kheo chơn chánh giác sát tu tập niệm giác chi, niệm giác chi này y xuất y,
 y ly tham, y diệt tận, đưa đến từ bỏ, chơn chánh giác sát tu tập trạch pháp giác chi... (như trên)... tu tập
 tinh tấn giác chi... tu tập hỷ giác chi... tu tập khinh an giác chi... tu tập định giác chi... tu tập xả giác chi;
 xả giác chi này y xuất ly, y ly tham, y diệt tận, đưa đến từ bỏ. Này các Tỷ-kheo, nếu vị ấy không tu tập
@@ -411,18 +444,21 @@ Này các Tỷ-kheo, thành tựu sáu pháp này, Tỷ-kheo đáng được cun
 
 **(V) (59) Người Bán Củi**
 
-1. Như vầy tôi nghe:
+<!--pg-->
+1\. Như vầy tôi nghe:
 
 Một thời, Thế Tôn ở Nàdika, tại giảng đường bằng gạch. Bấy giờ có gia chủ bán củi đi đến Thế Tôn, sau
 khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Thế Tôn nói với người bán củi đang ngồi xuống một
 bên:
 
-2. - Này Gia chủ, trong gia đình Ông có bố thí không?
+<!--pg-->
+2\. - Này Gia chủ, trong gia đình Ông có bố thí không?
 
 − Bạch Thế Tôn, trong gia đình con có bố thí. Những Tỷ-kheo là vị sống ở rừng, theo hạnh khất thực,
 mặc áo lấy vải lượm từ đống rác, bậc A-la-hán, hay thực hành A-la-hán đạo, những Tỷ-kheo như vậy,
 bạch Thế Tôn, đều được bố thí.
-3. - Nhưng chắc chắn, này Gia chủ, đây thực là một sự khó khăn cho Ông, một người tại gia thọ dụng
+<!--pg-->
+3\. - Nhưng chắc chắn, này Gia chủ, đây thực là một sự khó khăn cho Ông, một người tại gia thọ dụng
 các dục, bị con cháu trói buộc, được dùng hương chiên đàn từ Kàsi, được đeo và thoa với vòng hoa,
 hương, hương liệu, được tiêu dùng vàng và bạc để có thể nói ai là bậc A-la-hán, ai là bậc thực hành Ala-hán đạo. Tỷ-kheo trú tại rừng núi, này Gia chủ, nếu tháo động, kiêu căng dao động, lắm mồm, lắm
 miệng, lắm lời, thất niệm, không tỉnh giác, không định tĩnh, tâm tán loạn, các căn thả lỏng, thời vị ấy về
@@ -445,7 +481,8 @@ hoại mạng chung, sẽ được sanh lên thiện thú, Thiên giới, cõi �
 
 **(VI) (60) Hatthisàriputta**
 
-1. Như vầy tôi nghe:
+<!--pg-->
+1\. Như vầy tôi nghe:
 
 Một thời, Thế Tôn trú ở Bàrànasi tại Isipatana, vườn Lộc Uyển. Lúc bấy giờ, nhiều vị Tỷ-kheo trưởng
 lão, sau buổi ăn, sau khi đi khất thực trở về, ngồi tụ họp tại ngôi nhà hình tròn và thuyết về Thắng pháp
@@ -461,7 +498,8 @@ nói xen vào chặng giữa! Tôn giả Citta hãy chờ cho đến cuối câu
 Hiền trí. Tôn giả Citta Hatthisàriputta có thể nói chuyện về Thắng pháp luận với các Tỷ-kheo trưởng lão
 và thật rất khó lòng cho các Hiền giả để biết được tâm tư của người khác.
 
-2. Ở đây, thưa các Hiền giả, có hạng người, khi còn sống gần vị Bổn sư hay sống gần một vị đồng Phạm
+<!--pg-->
+2\. Ở đây, thưa các Hiền giả, có hạng người, khi còn sống gần vị Bổn sư hay sống gần một vị đồng Phạm
 hạnh đóng vai trò y chỉ sư, trong khi ấy, là người nhu hòa nhất trong những người nhu hòa, là người
 khiêm tốn nhất trong những người khiêm tốn, là người an tịnh nhất trong những người an tịnh. Khi
 người ấy rời khỏi bậc Ðạo Sư, rời khỏi các vị đồng Phạm hạnh đóng vai trò y chỉ sư, vị ấy sống giao
@@ -483,7 +521,8 @@ thiệp với các Tỷ-kheo, các Tỷ-kheo-ni, với các nam cư sĩ, nữ c�
 vua, với các ngoại đạo, các đệ tử ngoại đạo. Do vị ấy sống giao thiệp, phóng túng, thô lỗ, đam mê nói
 chuyện, tham ái tấn công tâm vị ấy. Vị ấy, với tâm bị tham ái tấn công, liền từ bỏ học pháp và hoàn tục.
 
-3. Ví như có hạng người ly dục..., chứng và trú sơ Thiền. Với tư tưởng: “Ta đã được sơ Thiền”, vị ấy
+<!--pg-->
+3\. Ví như có hạng người ly dục..., chứng và trú sơ Thiền. Với tư tưởng: “Ta đã được sơ Thiền”, vị ấy
 sống giao thiệp với các Tỷ-kheo... từ bỏ học pháp và hoàn tục. Ví như, này các Hiền giả, một cơn mưa
 to lớn xảy ra tại ngã tư đường, khiến cho bụi bặm biến mất và bùn hiện ra. Này các Hiền giả, nếu có ai
 nói như sau: “Nay tại ngã tư đường này, bụi sẽ không hiện ra nữa”. Người ấy nói như vậy có nói một
@@ -495,7 +534,8 @@ qua, hay có trâu bò đi qua, hay gió và nóng có thể làm cho khô khí 
 − Cũng như vậy, thưa các Hiền giả, ở đây có hạng người ly dục... chứng và trú Thiền thứ nhất. Vị ấy, với
 ý nghĩa: “Ta đã chứng sơ thiền”, sống giao thiệp với các Tỷ-kheo... từ bỏ học pháp và hoàn tục.
 
-4. Ở đây, này các Hiền giả, có hạng người làm cho tịnh chỉ tầm và tứ... chứng và trú Thiền thứ hai. Vị
+<!--pg-->
+4\. Ở đây, này các Hiền giả, có hạng người làm cho tịnh chỉ tầm và tứ... chứng và trú Thiền thứ hai. Vị
 ấy, với ý nghĩa: “Ta đã chứng được Thiền thứ hai”, giao thiệp với các Tỷ-kheo... từ bỏ học pháp và hoàn
 tục. Ví như, thưa các Hiền giả, một hồ nước lớn gần một làng hay thị trấn. Tại đấy, một cơn mưa to xảy
 đến, khiến cho các loài sò ốc, các đá sỏi biến mất.
@@ -511,7 +551,8 @@ uống, hay loài trâu bò có thể uống, hay gió và sức nóng có thể
 hai. Vị ấy với ý nghĩ: “Ta đã chứng được Thiền thứ hai”, giao thiệp với các Tỷ-kheo... từ bỏ học pháp và
 hoàn tục.
 
-5. Ở đây, thưa các Hiền giả, có hạng người từ bỏ hỷ... chứng và trú Thiền thứ ba. Vị ấy với ý nghĩ: “Ta
+<!--pg-->
+5\. Ở đây, thưa các Hiền giả, có hạng người từ bỏ hỷ... chứng và trú Thiền thứ ba. Vị ấy với ý nghĩ: “Ta
 đã chứng được Thiền thứ ba”, giao thiệp với các Tỷ-kheo... từ bỏ học pháp và hoàn tục. Ví như, thưa các
 Hiền giả, có người đã ăn đồ ăn thượng vị, không ưa thích các đồ ăn hôm qua để lại. Thưa các Hiền giả,
 nếu ai nói như sau: “Nay người này không còn ưa thích đồ ăn nữa”, thưa các Hiền giả, người ấy nói như
@@ -523,7 +564,8 @@ làm vị ấy ưa thích. Cho đến khi chất dinh dưỡng tiêu mất, khi 
 − Cũng vậy, này các Hiền giả, ở đây có hạng người từ bỏ hỷ... chứng và trú Thiền thứ ba, vị ấy với ý
 nghĩ: “Ta đã chứng được Thiền thứ ba”, giao thiệp với các Tỷ-kheo... từ bỏ học pháp và hoàn tục.
 
-6. Ví như, này các Hiền giả, có hạng người từ bỏ lạc, từ bỏ khổ... chứng đạt và an trú Thiền thứ tư. Vị ấy
+<!--pg-->
+6\. Ví như, này các Hiền giả, có hạng người từ bỏ lạc, từ bỏ khổ... chứng đạt và an trú Thiền thứ tư. Vị ấy
 với ý nghĩ: “Ta đã chứng được Thiền thứ tư”, giao thiệp với các Tỷ-kheo... từ bỏ học pháp và hoàn tục.
 Ví như, này các Hiền giả, một hồ nước trong khe núi, không có gió, không có sóng. Rồi thưa các Hiền
 giả, nếu có ai nói như sau: “Nay trong hồ nước này sẽ không hiện ra sóng nữa”, người ấy, thưa các Hiền
@@ -537,7 +579,8 @@ Nam, mưa to gió lớn đến, mưa to gió lớn ấy làm cho hồ nước �
 tư. Vị ấy với ý nghĩ: “Ta đã chứng được Thiền thứ tư”, giao thiệp với Tỷ-kheo... từ bỏ học pháp và hoàn
 tục.
 
-7. Ở đây, này các Hiền giả, có hạng người không tác ý tất cả các tướng, chứng đạt và an trú vô tướng
+<!--pg-->
+7\. Ở đây, này các Hiền giả, có hạng người không tác ý tất cả các tướng, chứng đạt và an trú vô tướng
 tâm định. Vị ấy, với ý nghĩ: “Ta đã chứng đạt được vô tướng tâm định”, sống giao thiệp với các Tỷkheo, các Tỷ-kheo-ni, với các nam cư sĩ, nữ cư sĩ, với các vua chúa, đại thần các vua chúa, với các ngoại
 đạo, các đệ tử ngoại đạo. Do vị ấy sống giao thiệp, phóng túng, thô lỗ, đam mê nói chuyện, nên tham ái
 tấn công tâm vị ấy. Vị ấy, với tâm bị tham ái tấn công, liền từ bỏ học pháp và hoàn tục. Ví như, thưa các
@@ -555,7 +598,8 @@ vô tướng tâm định. Vị ấy, với ý nghĩ: “Ta đạt được vô 
 đạo, các đệ tử ngoại đạo. Do vị ấy sống giao thiệp, phóng túng, thô lỗ, đam mê nói chuyện, nên tham ái
 tấn công tâm vị ấy. Vị ấy, với tâm bị tham ái tấn công, liền từ bỏ học pháp và hoàn tục.
 
-8. Rồi Tôn giả Citta Hatthisàriputta sau một thời gian từ bỏ học pháp và hoàn tục. Rồi các Tỷ-kheo, bạn
+<!--pg-->
+8\. Rồi Tôn giả Citta Hatthisàriputta sau một thời gian từ bỏ học pháp và hoàn tục. Rồi các Tỷ-kheo, bạn
 của Tôn giả Citta Hatthisàriputta đi đến Tôn giả Mahàkotthita, sau khi đến nói với Tôn giả
 Mahàkotthita:
 
@@ -575,7 +619,8 @@ pháp và hoàn tục.
 
 − Này các Tỷ-kheo, Citta không bao lâu sẽ nghĩ đến xuất ly.
 
-9. Rồi Citta Hatthisàriputta không bao lâu cạo bỏ râu tóc, đắp áo cà sa, xuất gia, từ bỏ gia đình, sống
+<!--pg-->
+9\. Rồi Citta Hatthisàriputta không bao lâu cạo bỏ râu tóc, đắp áo cà sa, xuất gia, từ bỏ gia đình, sống
 không gia đình. Rồi Tôn giả Citta Hatthisàriputta sống một mình, an tịnh, không phóng dật, nhiệt tâm,
 tinh cần, không bao lâu chứng được mục đích mà các thiện nam tử chân chánh xuất gia, từ bỏ gia đình,
 sống không gia đình, hướng đến. Ðó là vô thượng cứu cánh Phạm hạnh, vị ấy ngay trong hiện tại đã tự
@@ -586,7 +631,8 @@ Và Tôn giả Citta Hatthisàriputta trở thành một vị A-la-hán.
 
 **(VII) (61) Con Ðường Ði Ðến Bờ Bên Kia**
 
-1. Như vầy tôi nghe:
+<!--pg-->
+1\. Như vầy tôi nghe:
 
 Một thời Thế Tôn trú ở Bàrànasi, tại Isipatana, vườn Lộc Uyển. Lúc bấy giờ, nhiều Tỷ-kheo trưởng lão,
 sau bữa ăn, trên con đường đi khất thực trở về, ngồi tụ họp tại ngôi nhà hình tròn, và câu chuyện sau đây
@@ -602,38 +648,45 @@ _Ðây, vượt người dệt vải._
 − Thưa Hiền giả, thế nào là một cực đoan? Thế nào là cực đoan thứ hai? Thế nào là chặng giữa? Thế nào
 là người dệt vải?
 
-2. Ðược nói vậy, một Tỷ-kheo thưa với các Tỷ-kheo trưởng lão:
+<!--pg-->
+2\. Ðược nói vậy, một Tỷ-kheo thưa với các Tỷ-kheo trưởng lão:
 
 − Thưa chư Hiền, xúc là một cực đoan. Xúc tập khởi là cực đoan thứ hai. Xúc diệt là chặng giữa. Ái là
 người thợ dệt; vì rằng ái dệt, nên khiến cho vị ấy phải sanh ở hữu này. Cho đến như vậy, thưa chư Hiền,
 Tỷ-kheo thắng tri được điều có thể thắng tri, liễu tri được điều có thể liễu tri. Do thắng tri được điều có
 thể thắng tri, do liễu tri được điều có thể liễu tri, ngay trong hiện tại, vị ấy có thể chấm dứt khổ đau.
 
-3. Ðược nói vậy, một Tỷ-kheo khác thưa với các Tỷ-kheo trưởng lão:
+<!--pg-->
+3\. Ðược nói vậy, một Tỷ-kheo khác thưa với các Tỷ-kheo trưởng lão:
 
 − Quá khứ, thưa chư Hiền, là một cực đoan. Tương lai là cực đoan thứ hai. Hiện tại là chặng giữa. Ái là
 người dệt vải. Do ái dệt, nên khiến cho vị ấy phải sanh ở hữu này. Cho đến như vậy, thưa chư Hiền, Tỷkheo thắng tri được điều có thể tri... vị ấy có thể chấm dứt khổ đau.
 
-4. Ðược nói vậy, một Tỷ-kheo khác thưa với các Tỷ-kheo trưởng lão:
+<!--pg-->
+4\. Ðược nói vậy, một Tỷ-kheo khác thưa với các Tỷ-kheo trưởng lão:
 − Lạc, thưa chư Hiền, là một cực đoan. Khổ là cực đoan thứ hai. Không khổ không lạc là chặng giữa. Ái
 là người dệt vải. Do ái dệt, nên khiến cho vị ấy phải sanh ở hữu này... có thể chấm dứt khổ đau.
 
-5. Ðược nói vậy, một Tỷ-kheo khác thưa với các Tỷ-kheo trưởng lão:
+<!--pg-->
+5\. Ðược nói vậy, một Tỷ-kheo khác thưa với các Tỷ-kheo trưởng lão:
 
 − Danh, thưa chư Hiền, là một cực đoan. Sắc là cực đoan thứ hai. Thức là chặng giữa. Ái là người dệt
 vải. Do ái dệt... có thể chấm dứt khổ đau.
 
-6. Ðược nói vậy, một Tỷ-kheo khác thưa với các Tỷ-kheo trưởng lão:
+<!--pg-->
+6\. Ðược nói vậy, một Tỷ-kheo khác thưa với các Tỷ-kheo trưởng lão:
 
 − Sáu nội xứ, thưa chư Hiền, là một cực đoan. Sáu ngoại xứ là cực đoan thứ hai. Thức là chặng giữa. Ái
 là người dệt vải. Do ái dệt... có thể chấm dứt khổ đau.
 
-7. Ðược nói vậy, một Tỷ-kheo khác thưa với các Tỷ-kheo trưởng lão:
+<!--pg-->
+7\. Ðược nói vậy, một Tỷ-kheo khác thưa với các Tỷ-kheo trưởng lão:
 
 − Thân, thưa chư Hiền, là một cực đoan. Thân tập khởi là cực đoan thứ hai. Thân kiến diệt là chặng giữa.
 Ái là người dệt vải. Do ái dệt... có thể chấm dứt khổ đau.
 
-8. Ðược nói vậy, một Tỷ-kheo khác thưa với các Tỷ-kheo trưởng lão:
+<!--pg-->
+8\. Ðược nói vậy, một Tỷ-kheo khác thưa với các Tỷ-kheo trưởng lão:
 
 − Thưa chư Hiền, tất cả chúng tôi đã trả lời tùy theo sự hiểu biết của chúng tôi. Thưa chư Hiền, chúng ta
 sẽ đi đến Thế Tôn, sau khi đến, chúng ta sẽ hỏi Thế Tôn về ý nghĩa này. Thế Tôn trả lời cho chúng ta
@@ -666,7 +719,8 @@ người dệt vải; vì rằng ái dệt nên khiến cho vị ấy phải san
 điều có thể thắng tri, liễu tri được điều có thể liễu tri, ngay trong hiện tại, vị ấy có thể chấm dứt khổ đau.
 **(VIII) (62) Lời Cảm Hứng**
 
-1. Như vầy tôi nghe:
+<!--pg-->
+1\. Như vầy tôi nghe:
 
 Một thời, Thế Tôn đang du hành giữa dân chúng Kosala với đại chúng Tỷ-kheo, đi đến một thị trấn của
 dân chúng Kosala tên là Dandakappaka. Rồi Thế Tôn từ trên đường bước xuống, ngồi xuống trên chỗ đã
@@ -674,7 +728,8 @@ dân chúng Kosala tên là Dandakappaka. Rồi Thế Tôn từ trên đường 
 giả Aụnanda cùng với một số đông Tỷ-kheo, đi đến sông Aciravatì để rửa tay chân, sau khi rửa tay chân
 ở sông Aciravatì xong, ra khỏi sông, đứng trên bờ đắp một y để phơi tay chân cho khô.
 
-2. Rồi một Tỷ-kheo đi đến Tôn giả Ananda, sau khi đến, thưa với Tôn giả Ananda:
+<!--pg-->
+2\. Rồi một Tỷ-kheo đi đến Tôn giả Ananda, sau khi đến, thưa với Tôn giả Ananda:
 
 − Có phải Thế Tôn tập trung tất cả tâm, thưa Tôn giả Ananda, để tuyên bố về Devadatta như sau:
 “Devadatta phải sanh vào đọa xứ, phải sanh vào địa ngục cho đến một kiếp, không thể cứu hộ được” hay
@@ -719,7 +774,8 @@ con người, sau khi nghe Thế Tôn, các Tỷ-kheo sẽ thọ trì.
 
 Tôn giả Ananda vâng đáp Thế Tôn. Thế Tôn nói như sau:
 
-3. - Ở đây, này Ananda, với tâm của Ta, Ta rõ biết tâm của một người khác: “Trong người này, có
+<!--pg-->
+3\. - Ở đây, này Ananda, với tâm của Ta, Ta rõ biết tâm của một người khác: “Trong người này, có
 những pháp thiện, có những pháp bất thiện”. Sau một thời gian khác, cũng vậy, với tâm của Ta, Ta rõ
 biết tâm của người ấy: “Trong người này, các pháp thiện đã biến mất, các pháp bất thiện đang hiện hữu,
 nhưng còn có cội gốc thiện chưa bị cắt đứt. Và pháp thiện sẽ khởi lên từ cội gốc thiện ấy”. Như vậy
@@ -738,7 +794,8 @@ người này sẽ không bị thối đọa trong tương lai. Như vậy, này
 được tâm của loài Người. Cũng vậy, này Ananda, Như Lai với tâm của mình đã biết được các căn trí của
 người. Cũng vậy, này Ananda, Như Lai với tâm của mình biết được pháp sanh khởi trong tương lai.
 
-4. Ở đây, này Ananda, với tâm của Ta, Ta rõ biết tâm của một người khác: “Trong người này, có những
+<!--pg-->
+4\. Ở đây, này Ananda, với tâm của Ta, Ta rõ biết tâm của một người khác: “Trong người này, có những
 pháp thiện, có những pháp bất thiện”. Sau một thời gian khác, cũng vậy, với tâm của Ta, Ta rõ biết tâm
 của người ấy: “Trong người này, các pháp bất thiện đã biến mất, các pháp thiện đang hiện hữu, nhưng
 còn có cội gốc bất thiện chưa bị cắt đứt và các pháp bất thiện sẽ khởi lên từ cội gốc bất thiện ấy”. Như
@@ -758,7 +815,8 @@ mình, đã biết được tâm của loài Người. Cũng vậy, này Ananda,
 các căn trí của người. Cũng vậy, này Ananda, Như Lai với tâm của mình biết được pháp sanh khởi trong
 tương lai.
 
-5. Ở đây, này Ananda, với tâm của Ta, Ta rõ biết tâm của người khác: “Trong người này, có những pháp
+<!--pg-->
+5\. Ở đây, này Ananda, với tâm của Ta, Ta rõ biết tâm của người khác: “Trong người này, có những pháp
 thiện, có những pháp bất thiện”. Sau một thời gian, cũng vậy, với tâm của Ta, Ta rõ biết tâm của người
 ấy: “Người này không có pháp trắng cho đến nhỏ như đầu sợi lông đuôi ngựa. Người này thành tựu với
 những pháp bất thiện, chỉ một mặt màu đen, sau khi thân hoại mạng chung sanh vào cõi dữ, ác thú, đọa
@@ -784,7 +842,8 @@ Khi được nói vậy, Tôn giả Ananda bạch Thế Tôn:
 
 Thế Tôn nói như sau:
 
-6. - Ở đây, này Ananda, với tâm của Ta, Ta rõ biết tâm của người khác như sau: “Trong người này, có
+<!--pg-->
+6\. - Ở đây, này Ananda, với tâm của Ta, Ta rõ biết tâm của người khác như sau: “Trong người này, có
 những pháp thiện, có những pháp bất thiện”. Sau một thời gian, cũng vậy, với tâm của Ta, Ta rõ biết tâm
 của người ấy: “Trong người này, các pháp thiện đã biến mất, các pháp bất thiện đang hiện khởi; và cội
 gốc thiện chưa bị cắt đứt và nhưng đi đến hoàn toàn bị nhổ lên bởi người ấy. Như vậy, người này sẽ đi
@@ -812,7 +871,8 @@ này sẽ đi đến thối đọa trong tương lai”. Cũng vậy, này Aụn
 với tâm của mình. Cũng vậy, này Ananda, Như Lai với tâm của mình đã biết được các căn trí của người.
 Cũng vậy, này Ananda, Như Lai với tâm của mình, biết được pháp sanh khởi trong tương lai.
 
-7. Ở đây, này Ananda, với tâm của Ta, Ta rõ biết tâm của người khác như sau: “Trong người này, có
+<!--pg-->
+7\. Ở đây, này Ananda, với tâm của Ta, Ta rõ biết tâm của người khác như sau: “Trong người này, có
 những pháp thiện, có những pháp bất thiện”. Sau một thời gian, cũng vậy, với tâm của Ta, Ta rõ biết tâm
 của người ấy: “Trong người này, các pháp bất thiện đã biến mất, các pháp thiện hiện khởi; cội gốc bất
 thiện chưa bị cắt đứt, nhưng đi đến hoàn toàn bị nhổ lên bởi người ấy. Như vậy, người này sẽ không
@@ -840,7 +900,8 @@ này sẽ không phải bị thối đọa trong tương lai”. Cũng vậy, n�
 Người với tâm của mình. Cũng vậy, này Ananda, Như Lai với tâm của mình đã biết được các căn trí của
 người. Cũng vậy, này Ananda, Như Lai với tâm của mình, biết được pháp sanh khởi trong tương lai.
 
-8. Ở đây, này Ananda, với tâm của Ta, Ta rõ biết tâm của người khác như sau: “Trong người này, có
+<!--pg-->
+8\. Ở đây, này Ananda, với tâm của Ta, Ta rõ biết tâm của người khác như sau: “Trong người này, có
 những pháp thiện, cũng có những pháp bất thiện”. Sau một thời gian, cũng vậy, với tâm của Ta, Ta rõ
 biết tâm của người ấy: “Trong người này không có pháp bất thiện cho đến nhỏ như đầu sợi lông đuôi
 ngựa. Người này thành tựu với những pháp thuần túy trắng, những pháp không có lỗi lầm, ngay trong
@@ -863,14 +924,16 @@ tâm của mình. Cũng vậy, này Ananda, Như Lai với tâm của mình đã
 người này không phải bị thối đọa, một phải bị thối đọa, một được nhập Niết-bàn.
 
 **(IX) (63) Một Pháp Môn Quyết Trạch**
-1. - Này các Tỷ-kheo, Ta sẽ thuyết cho các Thầy pháp môn thể nhập, pháp môn pháp. Hãy nghe và tác ý,
+<!--pg-->
+1\. - Này các Tỷ-kheo, Ta sẽ thuyết cho các Thầy pháp môn thể nhập, pháp môn pháp. Hãy nghe và tác ý,
 Ta sẽ giảng.
 
 − Thưa vâng, bạch Thế Tôn.
 
 Các vị Tỷ-kheo ấy vâng đáp Thế Tôn. Thế Tôn nói như sau:
 
-2. - Và này các Tỷ-kheo, thế nào là pháp môn thể nhập (quyết trạch), pháp môn pháp?
+<!--pg-->
+2\. - Và này các Tỷ-kheo, thế nào là pháp môn thể nhập (quyết trạch), pháp môn pháp?
 
 Này các Tỷ-kheo, cần phải biết các dục, cần phải biết duyên khởi các dục, cần phải biết các dục sai biệt,
 cần phải biết các dục dị thục, cần phải biết các dục đoạn diệt, cần phải biết con đường đưa đến các dục
@@ -887,7 +950,8 @@ nghiệp sai biệt, cần phải biết các nghiệp dị thục, cần phải
 phải biết khổ sai biệt, cần phải biết khổ dị thục, cần phải biết khổ đoạn diệt, cần phải biết con đường đưa
 đến khổ đoạn diệt.
 
-3. Này các Tỷ-kheo, cần phải biết các dục, cần phải biết các dục duyên khởi, cần phải biết các dục sai
+<!--pg-->
+3\. Này các Tỷ-kheo, cần phải biết các dục, cần phải biết các dục duyên khởi, cần phải biết các dục sai
 biệt, cần phải biết các dục dị thục, cần phải biết các dục đoạn diệt, cần phải biết con đường đưa đến các
 dục đoạn diệt, đã được nói như vậy. Và do duyên gì được nói như vậy?
 
@@ -908,7 +972,8 @@ _Như vậy ở trên đời,_
 _Ở đây những bậc Trí,_
 _Nhiếp phục được lòng dục._
 
-4. Này các Tỷ-kheo, thế nào là các dục duyên khởi? Xúc, này các Tỷ-kheo, là các dục duyên khởi.
+<!--pg-->
+4\. Này các Tỷ-kheo, thế nào là các dục duyên khởi? Xúc, này các Tỷ-kheo, là các dục duyên khởi.
 
 Và này các Tỷ-kheo, thế nào là các dục sai biệt? Này các Tỷ-kheo, dục trên các sắc là khác, dục trên các
 tiếng là khác, dục trên các hương là khác, dục trên các vị là khác, dục trên các xúc là khác. Này các Tỷkheo, đây là các dục sai biệt.
@@ -925,12 +990,14 @@ các dục đoạn diệt như vậy, khi ấy, vị ấy được rõ biết Ph
 Này các Tỷ-kheo, cần phải biết các dục... cần phải biết con đường đưa đến dục đoạn diệt, Ðoạn diệt đã
 được nói như vậy. Chính do duyên này, đã được nói như vậy.
 
-5. Này các Tỷ-kheo, cần phải biết các cảm thọ... cần phải biết con đường đưa đến các cảm thọ đoạn diệt,
+<!--pg-->
+5\. Này các Tỷ-kheo, cần phải biết các cảm thọ... cần phải biết con đường đưa đến các cảm thọ đoạn diệt,
 đã được nói như vậy. Do duyên gì đã được nói như vậy?
 
 Này các Tỷ-kheo, có ba cảm thọ này: lạc thọ, khổ thọ, phi khổ phi lạc thọ.
 
-6. Và này các Tỷ-kheo, thế nào là các cảm thọ sanh khởi? Xúc, này các Tỷ-kheo, là các cảm thọ sanh
+<!--pg-->
+6\. Và này các Tỷ-kheo, thế nào là các cảm thọ sanh khởi? Xúc, này các Tỷ-kheo, là các cảm thọ sanh
 khởi. Và này các Tỷ-kheo, thế nào là các cảm thọ sai biệt? Này các Tỷ-kheo, có các lạc thọ liên hệ đến
 vật chất có các lạc thọ không liên hệ đến vật chất; có các khổ thọ không liên hệ đến vật chất, có các khổ
 lạc thọ không liên hệ đến vật chất; có các cảm thọ không khổ không lạc liên hệ đến vật chất, có các cảm
@@ -950,13 +1017,15 @@ thọ đoạn diệt.
 Này các Tỷ-kheo, cần phải biết các cảm thọ... cần phải biết con đường đưa đến các cảm thọ đoạn diệt, đã
 nói như vậy. Chính do duyên này, đã được nói như vậy.
 
-7. Này các Tỷ-kheo, cần phải biết các tưởng...cần phải biết con đường đưa đến các tưởng đoạn diệt, đã
+<!--pg-->
+7\. Này các Tỷ-kheo, cần phải biết các tưởng...cần phải biết con đường đưa đến các tưởng đoạn diệt, đã
 được nói như vậy. Do duyên gì đã được nói như vậy?
 
 Này các Tỷ-kheo, có sáu tưởng này: Sắc tưởng, thanh tưởng, hương tưởng, vị tưởng, xúc tưởng, pháp
 tưởng.
 
-8. Và này các Tỷ-kheo, thế nào là tưởng sanh khởi? Này các Tỷ-kheo, xúc là các tưởng sanh khởi.
+<!--pg-->
+8\. Và này các Tỷ-kheo, thế nào là tưởng sanh khởi? Này các Tỷ-kheo, xúc là các tưởng sanh khởi.
 
 Và này các Tỷ-kheo, thế nào là các tưởng sai biệt? Này các Tỷ-kheo, các tưởng trong các sắc là khác,
 các tưởng trong các hương là khác, các tưởng trong các vị là khác, các tưởng trong các xúc là khác, các
@@ -975,11 +1044,13 @@ này như là các tưởng đoạn diệt.
 Này các Tỷ-kheo, cần phải biết các tưởng... cần phải biết con đường đưa đến các tưởng đoạn diệt, đã
 được nói như vậy. Chính do duyên này đã được nói như vậy.
 
-9. Này các Tỷ-kheo, cần phải biết các lậu hoặc... cần phải biết con đường đưa đến các lậu hoặc đoạn
+<!--pg-->
+9\. Này các Tỷ-kheo, cần phải biết các lậu hoặc... cần phải biết con đường đưa đến các lậu hoặc đoạn
 diệt, đã được nói như vậy. Chính do duyên nào đã được nói như vậy? Này các Tỷ-kheo, có ba lậu hoặc
 này: dục lậu, hữu lậu, vô minh lậu.
 
-10. Và này các Tỷ-kheo, thế nào là các lậu hoặc sanh khởi? Vô minh, này các Tỷ-kheo, là các lậu hoặc
+<!--pg-->
+10\. Và này các Tỷ-kheo, thế nào là các lậu hoặc sanh khởi? Vô minh, này các Tỷ-kheo, là các lậu hoặc
 sanh khởi.
 
 Và này các Tỷ-kheo, thế nào là các lậu hoặc sai biệt? Này các Tỷ-kheo, có các lậu hoặc đưa đến địa
@@ -1001,12 +1072,14 @@ vị ấy được rõ biết Phạm hạnh thể nhập này như là các lậ
 Này các Tỷ-kheo, cần phải biết các lậu hoặc... cần phải biết con đường đưa đến các lậu hoặc đoạn diệt,
 đã được nói như vậy. Chính do duyên này đã được nói như vậy.
 
-11. Này các Tỷ-kheo, cần phải biết các nghiệp... cần phải biết con đường đưa đến các nghiệp đoạn diệt
+<!--pg-->
+11\. Này các Tỷ-kheo, cần phải biết các nghiệp... cần phải biết con đường đưa đến các nghiệp đoạn diệt
 được nói như vậy. Do duyên gì được nói như vậy?
 
 Này các Tỷ-kheo, Ta tuyên bố rằng suy tư là nghiệp; sau khi suy tư, tạo nghiệp về thân, về lời, về ý.
 
-12. Và này các Tỷ-kheo, thế nào là các nghiệp sanh khởi? Này các Tỷ-kheo, xúc là các nghiệp sanh
+<!--pg-->
+12\. Và này các Tỷ-kheo, thế nào là các nghiệp sanh khởi? Này các Tỷ-kheo, xúc là các nghiệp sanh
 khởi.
 
 − Và này các Tỷ-kheo, thế nào là các nghiệp sai biệt? Này các Tỷ-kheo, có nghiệp đưa đến cảm thọ ở địa
@@ -1026,14 +1099,16 @@ thể nhập này như là các nghiệp đoạn diệt.
 Này các Tỷ-kheo, cần phải biết các nghiệp... cần phải rõ biết con đường đưa đến các nghiệp đoạn diệt,
 đã được nói như vậy. Chính do duyên này đã được nói như vậy.
 
-13. Này các Tỷ-kheo, cần phải biết khổ, cần phải biết khổ sanh khởi, cần phải biết khổ sai biệt, cần phải
+<!--pg-->
+13\. Này các Tỷ-kheo, cần phải biết khổ, cần phải biết khổ sanh khởi, cần phải biết khổ sai biệt, cần phải
 biết khổ dị thục, cần phải biết khổ đoạn diệt, cần phải biết con đường đưa đến khổ đoạn diệt, đã được
 nói như vậy. Chính do duyên gì đã được nói như vậy?
 
 Sanh là khổ, già là khổ, bệnh là khổ, chết là khổ, sầu bi khổ não là khổ, cầu không được là khổ, tóm lại
 năm thủ uẩn là khổ.
 
-14. Và này các Tỷ-kheo, thế nào là khổ sanh khởi? Ái, này các Tỷ-kheo, là khổ sanh khởi.
+<!--pg-->
+14\. Và này các Tỷ-kheo, thế nào là khổ sanh khởi? Ái, này các Tỷ-kheo, là khổ sanh khởi.
 
 Và này các Tỷ-kheo, thế nào là khổ sai biệt? Này các Tỷ-kheo có khổ lớn, có khổ nhỏ, có khổ chậm
 biến, có khổ mau biến. Này các Tỷ-kheo, đây là khổ sai biệt.
@@ -1060,32 +1135,39 @@ như vậy. Chính do duyên này, đã được nói như vậy.
 Này các Tỷ-kheo, đây là thể nhập pháp môn, pháp pháp môn.
 
 **(X) (64) Tiếng Rống Con Sư Tử**
-1. - Này các Tỷ-kheo, có sáu Như Lai lực của Như Lai, do thành tựu các lực này, Như Lai tự nhận cho
+<!--pg-->
+1\. - Này các Tỷ-kheo, có sáu Như Lai lực của Như Lai, do thành tựu các lực này, Như Lai tự nhận cho
 mình địa vị ngư vương, rống tiếng rống con sư tử trong các hội chúng, chuyển bánh xe pháp. Thế nào là
 sáu?
 
-2. Ở đây, này các Tỷ-kheo, Như Lai như thật rõ biết xứ là xứ, phi xứ là phi xứ. Này các Tỷ-kheo, Như
+<!--pg-->
+2\. Ở đây, này các Tỷ-kheo, Như Lai như thật rõ biết xứ là xứ, phi xứ là phi xứ. Này các Tỷ-kheo, Như
 Lai như thật rõ biết xứ là xứ, phi xứ là phi xứ, như vậy là Như Lai lực của Như Lai. Chính nhờ Như Lai
 lực này, Như Lai tự nhận cho mình địa vị ngưu vương, rống tiếng rống con sư tử trong các hội chúng,
 chuyển bánh xe pháp.
 
-3. Lại nữa, này các Tỷ kheo, Như Lai như thật rõ biết quả báo tùy thuộc sở do, tùy thuộc sở nhân của
+<!--pg-->
+3\. Lại nữa, này các Tỷ kheo, Như Lai như thật rõ biết quả báo tùy thuộc sở do, tùy thuộc sở nhân của
 các thọ nghiệp quá khứ, vị lai, hiện tại. Này các Tỷ kheo, Như Lai như thật rõ biết quả báo tùy thuộc sở
 do, tùy theo sở nhân của các hành nghiệp quá khứ, vị lai, hiện tại, như vậy là Như Lai lực của Như
 Lai.... chuyển bánh xe pháp.
 
-4. Lại nữa, này các Tỷ-kheo, Như Lai như thật rõ biết sự tạp nhiễm, sự thanh tịnh, sự xuất khởi của
+<!--pg-->
+4\. Lại nữa, này các Tỷ-kheo, Như Lai như thật rõ biết sự tạp nhiễm, sự thanh tịnh, sự xuất khởi của
 những thành đạt về Thiền, về giải thoát, về định. Này các Tỷ-kheo, Như Lai như thật biết... và chuyển
 bánh xe pháp.
 
-5. Lại nữa, này các Tỷ-kheo, Như Lai nhớ đến các đời sống quá khứ, như một đời, hai đời... Như vậy,
+<!--pg-->
+5\. Lại nữa, này các Tỷ-kheo, Như Lai nhớ đến các đời sống quá khứ, như một đời, hai đời... Như vậy,
 Như Lai nhớ đến nhiều đời sống quá khứ cùng với các nét đại cương và các chi tiết. này các Tỷ-kheo,
 Như Lai như thật rõ biết... và chuyển bánh xe pháp.
 
-6. Lại nữa, này các Tỷ-kheo, Như Lai với thiên nhãn thuần tịnh, siêu nhân, thấy sự sống và chết của
+<!--pg-->
+6\. Lại nữa, này các Tỷ-kheo, Như Lai với thiên nhãn thuần tịnh, siêu nhân, thấy sự sống và chết của
 chúng sanh... Này các Tỷ-kheo, Như Lai như thật rõ biết... và chuyển bánh xe pháp.
 
-7. Lại nữa, này các Tỷ-kheo, Như Lai nhờ đoạn trừ các lậu hoặc, tự mình với thắng trí, chứng ngộ thành
+<!--pg-->
+7\. Lại nữa, này các Tỷ-kheo, Như Lai nhờ đoạn trừ các lậu hoặc, tự mình với thắng trí, chứng ngộ thành
 tựu và an trú ngay trong hiện tại vô lậu tâm giải thoát, tuệ giải thoát. Này các Tỷ-kheo, Như Lai nhờ
 đoạn trừ các lậu hoặc, tự mình với thắng trí, chứng ngộ, thành tựu và an trú ngay trong hiện tại vô lậu
 tâm giải thoát, tuệ giải thoát. Chính nhờ Như Lai lực này, Như Lai tự nhận cho mình địa vị ngư vương,
@@ -1094,39 +1176,46 @@ rống tiếng con sư tử trong các hội chúng và chuyển bánh xe pháp.
 Này các Tỷ-kheo, có sáu Như Lai lực này của Như Lai, do thành tựu các lực này, Như Lai tự nhận cho
 mình địa vị ngư vương, rống tiếng rống con sư tử trong các hội chúng, chuyển bánh xe chánh pháp.
 
-8. Ở đây, này các Tỷ-kheo, nếu có những người khác đến hỏi Như Lai các câu hỏi liên hệ đến như thật
+<!--pg-->
+8\. Ở đây, này các Tỷ-kheo, nếu có những người khác đến hỏi Như Lai các câu hỏi liên hệ đến như thật
 trí về xứ là xứ, phi xứ là phi xứ, này các Tỷ-kheo, tùy theo, tùy theo như thật trí hiểu biết của Như Lai
 về xứ là xứ, phi xứ là phi xứ; tùy theo như vậy, tùy theo như vậy, Như Lai trả lời các câu hỏi liên hệ đến
 như thật trí về xứ là xứ, phi xứ là phi xứ.
 
-9. Ở đây, này các Tỷ-kheo, nếu có những người khác đến hỏi Như Lai các câu hỏi liên hệ đến như thật
+<!--pg-->
+9\. Ở đây, này các Tỷ-kheo, nếu có những người khác đến hỏi Như Lai các câu hỏi liên hệ đến như thật
 trí về quả báo tùy thuộc sở do, tùy theo sở nhân của các thọ nghiệp quá khứ, vị lai, hiện tại, này các Tỷkheo, tùy theo, tùy theo như thật trí hiểu biết của Như Lai về quả báo tùy thuộc sờ do, tùy theo sở nhân
 của các thọ nghiệp quá khứ, vị lai, hiện tại; tùy theo như vậy, tùy theo như vậy, Như Lai trả lời các câu
 hỏi liên hệ đến như thật trí về quả báo tùy thuộc sở do, tùy thuộc sở nhân của các thọ nghiệp quá khứ, vị
 lai, hiện tại.
 
-10. Ở đây, này các Tỷ-kheo, nếu có những người khác đến hỏi Như Lai các câu hỏi liên hệ đến sự tạp
+<!--pg-->
+10\. Ở đây, này các Tỷ-kheo, nếu có những người khác đến hỏi Như Lai các câu hỏi liên hệ đến sự tạp
 nhiễm, sự thanh tịnh, sự xuất khởi của những thành đạt về thiền, về giải thoát, về định, này các Tỷ-kheo;
 tùy theo, tùy theo như thật trí hiểu biết của Như Lai về sự tạp nhiễm, sự thanh tịnh, sự xuất khởi của
 thành tựu về Thiền, về giải thoát, về định; tùy theo như vậy, tùy theo như vậy, Như Lai trả lời các câu
 hỏi liên hệ đến như thật trí về sự tạp nhiễm, sự thanh tịnh, sự xuất khởi của những thành đạt về Thiền, về
 giải thoát, về định.
 
-11. Ở đây, này các Tỷ-kheo, nếu có những người khác đến hỏi Như lai các câu hỏi liên hệ đến như thật
+<!--pg-->
+11\. Ở đây, này các Tỷ-kheo, nếu có những người khác đến hỏi Như lai các câu hỏi liên hệ đến như thật
 trí về nhớ đến các đời sống quá khứ, này các Tỷ-kheo, tùy theo, tùy theo như thật trí hiểu biết của Như
 Lai, về nhớ đến các đời sống quá khứ; tùy theo như vậy, tùy theo như vậy, Như Lai trả lời các câu hỏi
 liên hệ đến như thật trí về nhớ đến các đời sống quá khứ.
 
-12. Ở đây, này các Tỷ-kheo, nếu có những người khác đến hỏi Như Lai các câu hỏi liên hệ đến như thật
+<!--pg-->
+12\. Ở đây, này các Tỷ-kheo, nếu có những người khác đến hỏi Như Lai các câu hỏi liên hệ đến như thật
 trí về sự sanh diệt của các chúng sanh, này các Tỷ-kheo, tùy theo, tùy theo như thật trí hiểu biết của Như
 Lai về sự sanh diệt của các chúng sanh; tùy theo như vậy, tùy theo như vậy, Như Lai trả lời các câu hỏi
 liên hệ đến như thật trí về sự sanh diệt của các chúng sanh.
 
-13. Ở đây, này các Tỷ-kheo nếu có những người khác đến hỏi Như Lai các câu hỏi liên hệ đến như thật
+<!--pg-->
+13\. Ở đây, này các Tỷ-kheo nếu có những người khác đến hỏi Như Lai các câu hỏi liên hệ đến như thật
 trí... về sự đoạn diệt các lậu hoặc; hiểu biết của Như Lai về sự đoạn diệt các lậu hoặc; tùy theo như vậy,
 tùy theo như vậy, Như Lai trả lời các câu hỏi liên hệ đến như thật trí về sự đoạn diệt các lậu hoặc.
 
-14. Ở đây, này các Tỷ-kheo, liên hệ đến như thật trí này, về xứ là xứ, phi xứ là phi xứ, Ta tuyên bố rằng
+<!--pg-->
+14\. Ở đây, này các Tỷ-kheo, liên hệ đến như thật trí này, về xứ là xứ, phi xứ là phi xứ, Ta tuyên bố rằng
 trí ấy chỉ có đối với người có Thiền định, không phải với người không Thiền định. Liên hệ đến như thật
 trí về quả báo tùy thuộc sở do, tùy theo sở nhân của các thọ nghiệp quá khứ, vị lai, hiện tại, Ta tuyên bố
 rằng trí ấy chỉ có đối với người có Thiền định, không phải với người không có Thiền định. Liên hệ đến

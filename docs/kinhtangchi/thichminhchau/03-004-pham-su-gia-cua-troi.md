@@ -1,6 +1,7 @@
 # IV. Phẩm Sứ Giả Của Trời
 
 
+**31. Ngang Bằng Với Phạm Thiên**
 
 − Những gia đình nào, này các Tỷ-kheo, trong ấy, các con cái kính lễ mẹ cha ở trong nhà, những gia
 đình ấy được chấp nhận ngang bằng với Phạm Thiên. Những gia đình nào, này các Tỷ-kheo, trong ấy,
@@ -13,24 +14,25 @@ Phạm Thiên, này các Tỷ-kheo, là đồng nghĩa với cha mẹ. Các Ð�
 Giúp đỡ rất nhiều, này các Tỷ-kheo, là cha mẹ đối với con cái, nuôi chúng lớn, dưỡng dục chúng, giới
 thiệu chúng vào đời.
 
-_Mẹ cha gọi Phạm Thiên,_
-_Bậc Ðạo sư thời trước_
-_Xứng đáng được cúng dường_
-_Vì thương đến con cháu_
-_Do vậy, bậc Hiền triết_
-_Ðảnh lễ và tôn trọng_
-_Dâng đồ ăn đồ uống_
-_Vải mặc và giường nằm_
-_Thoa bóp (cả thân mình)_
-_Tắm rửa cả tay chân_
-_Với sở hành như vậy,_
-_Ðối với mẹ cha_
-_Ðời này người Hiền khen_
+_Mẹ cha gọi Phạm Thiên,_\
+_Bậc Ðạo sư thời trước_\
+_Xứng đáng được cúng dường_\
+_Vì thương đến con cháu_\
+_Do vậy, bậc Hiền triết_\
+_Ðảnh lễ và tôn trọng_\
+_Dâng đồ ăn đồ uống_\
+_Vải mặc và giường nằm_\
+_Thoa bóp (cả thân mình)_\
+_Tắm rửa cả tay chân_\
+_Với sở hành như vậy,_\
+_Ðối với mẹ cha_\
+_Ðời này người Hiền khen_\
 _Ðời sau hưởng Thiên lạc_
 
+<!--pg-->
 **32. Ananda**
 
-1. Rồi Tôn giả Ananda đi đến Thế Tôn, sau khi đến, đảnh lễ Thế Tôn, rồi ngồi xuống một bên; ngồi
+1\. Rồi Tôn giả Ananda đi đến Thế Tôn, sau khi đến, đảnh lễ Thế Tôn, rồi ngồi xuống một bên; ngồi
 xuống một bên, Tôn giả Ananda bạch Thế Tôn:
 
 − Rất có thể, bạch Thế Tôn, một Tỷ-kheo được định như vậy, trong cái thân có thức này, không có ngã
@@ -51,18 +53,18 @@ Tỷ-kheo được định như vậy, ... có thể chứng đạt và an trú 
 Lại nữa, này Ananda, liên hệ đến vấn đề này, Ta đã nói như sau trong kinh tên là “Những câu hỏi của
 Punnaka”, chương về Pàràyana.
 
-_Do phân tích ở đời_
-_Những vật cao và thấp_
-_Với vị không dao động_
-_Bởi vật gì ở đời,_
-_An tịnh, không tối mù,_
-_Không phiền muộn, không cầu_
-_Ta nói người như vậy,_
+_Do phân tích ở đời_\
+_Những vật cao và thấp_\
+_Với vị không dao động_\
+_Bởi vật gì ở đời,_\
+_An tịnh, không tối mù,_\
+_Không phiền muộn, không cầu_\
+_Ta nói người như vậy,_\
 _Ðã vượt khỏi sanh già._
 
+<!--pg-->
 **Sãriputta**
-
-2. - Rồi Tôn giả Sàriputta đi đến Thế Tôn; sau khi đến đảnh lễ Thế Tôn rồi ngồi xuống một bên. Thế
+2\. - Rồi Tôn giả Sàriputta đi đến Thế Tôn; sau khi đến đảnh lễ Thế Tôn rồi ngồi xuống một bên. Thế
 Tôn nói với Tôn giả Sàriputta đang ngồi xuống một bên:
 − Này Sàriputta, Ta có thể thuyết pháp một cách tóm lược. Này, Sàriputta, ta có thể thuyết pháp một
 cách rộng rãi. Này Sàriputta, ta có thể thuyết pháp một cách tóm lược và rộng rãi. Và những người hiểu
@@ -84,18 +86,19 @@ vị ấy chứng đạt và an trú tâm giải thoát, tuệ giải thoát ấ
 − Lại nữa, này Sàriputta, liên hệ đến vấn đề này, ta đã nói như sau trong kinh tên là “Những câu hỏi của
 Udaya” trong chương Pàràyana.
 
-_Ðoạn tận cả hai pháp_
-_Dục tham và sân hận_
-_Và từ bỏ hôn trầm_
-_Chận đứng mọi trạo hối_
-_Với xả niệm thanh tịnh_
-_Chạy trước pháp tư duy?_
-_Ta nói trí giải thoát_
+_Ðoạn tận cả hai pháp_\
+_Dục tham và sân hận_\
+_Và từ bỏ hôn trầm_\
+_Chận đứng mọi trạo hối_\
+_Với xả niệm thanh tịnh_\
+_Chạy trước pháp tư duy?_\
+_Ta nói trí giải thoát_\
 _Vô minh được phá tận._
 
+<!--pg-->
 **33.- Các Nguyên Nhân**
 
-1. - Có ba nguyên nhân này, này các Tỷ-kheo, khởi lên các nghiệp. Thế nào là ba? Tham là nguyên nhân
+1\. - Có ba nguyên nhân này, này các Tỷ-kheo, khởi lên các nghiệp. Thế nào là ba? Tham là nguyên nhân
 khởi lên các nghiệp. Sân là nguyên nhân khởi lên các nghiệp. Si là nguyên nhân khởi lên các nghiệp.
 
 Phàm nghiệp nào được làm vì tham, này các Tỷ-kheo, sanh ra từ tham, duyên khởi từ tham, tập khởi từ
@@ -114,7 +117,7 @@ này các Tỷ-kheo, phàm nghiệp nào được làm vì tham ... hay trong m�
 nữa.
 Có ba nguyên nhân này, này các Tỷ-kheo, khởi lên các nghiệp.
 
-2. Có ba nguyên nhân này, này các Tỷ-kheo, khởi lên các nghiệp. Thế nào là ba? Không tham là nguyên
+2\. Có ba nguyên nhân này, này các Tỷ-kheo, khởi lên các nghiệp. Thế nào là ba? Không tham là nguyên
 nhân khởi lên các nghiệp. Không sân là nguyên nhân khởi lên các nghiệp. Không si là nguyên nhân khởi
 lên các nghiệp.
 
@@ -139,17 +142,18 @@ lai. Phàm nghiệp nào được làm từ không si ... không thể sanh kh�
 
 Có ba nguyên nhân này, này các Tỷ-kheo, khởi lên các nghiệp:
 
-_Phàm có hạnh nghiệp nào,_
-_Sanh từ tham sân si,_
-_Do kẻ vô trí làm_
-_Dầu có ít hay nhiều_
-_tại đây được cảm thọ,_
-_Không phải tại chỗ khác_
-_Do vậy vị Tỷ-kheo_
-_Từ bỏ tham, sân, si_
-_Làm khởi lên minh trí,_
+_Phàm có hạnh nghiệp nào,_\
+_Sanh từ tham sân si,_\
+_Do kẻ vô trí làm_\
+_Dầu có ít hay nhiều_\
+_tại đây được cảm thọ,_\
+_Không phải tại chỗ khác_\
+_Do vậy vị Tỷ-kheo_\
+_Từ bỏ tham, sân, si_\
+_Làm khởi lên minh trí,_\
 _Từ bỏ mọi ác thú._
 
+<!--pg-->
 **34.- Về Alavì**
 
 Như vầy tôi nghe.
@@ -203,14 +207,16 @@ nhiệt não về thân hay tâm do sân sanh ... do si sanh. Bị nung đốt b
 sanh, cảm thấy đau khổ. Si ấy, Như Lai đã đoạn tận, cắt đứt từ gốc rễ, làm cho như thân cây tala, làm
 cho không thể hiện hữu, làm cho không thể sanh khởi trong tương lai. Do vậy ta cảm thấy an lạc.
 
-_Luôn luôn được an lạc,_
-_Vi phạm chí tịch tịnh_
-_Không bị dục uế nhiễm_
-_Trong mát, không sanh y,_
-_Mọi tham trước dứt đoạn,_
-_Nhiếp phục tâm sầu khổ,_
-_An tịnh, cảm thọ lạc_
+_Luôn luôn được an lạc,_\
+_Vi phạm chí tịch tịnh_\
+_Không bị dục uế nhiễm_\
+_Trong mát, không sanh y,_\
+_Mọi tham trước dứt đoạn,_\
+_Nhiếp phục tâm sầu khổ,_\
+_An tịnh, cảm thọ lạc_\
 _Với tâm đạt an tịnh._
+
+<!--pg-->
 **35.- Diêm Vương**
 
 1-6
@@ -258,7 +264,8 @@ Thật vậy, này người kia, chúng sẽ làm cho ngươi, đúng theo sự 
 ngươi, không phải mẹ làm, không phải cha làm, không phải anh làm, không phải chị làm, không phải
 bạn bè thân hữu làm, không phải bà con huyết thống làm, không phải chư Thiên làm, không phải Samôn làm, Bà-la-môn làm. Ác nghiệp ấy chính do ngươi làm và Ngươi sẽ thọ lãnh quả dị thục của ác
 nghiệp ấy.
-2. Rồi vua Yama, này các Tỷ-kheo, sau khi chất vấn, cật vấn, nạn vấn người ấy về vị Thiên sứ thứ nhất,
+
+2\. Rồi vua Yama, này các Tỷ-kheo, sau khi chất vấn, cật vấn, nạn vấn người ấy về vị Thiên sứ thứ nhất,
 liền chất vấn, cật vấn, nạn vấn người ấy về vị Thiên sứ thứ hai:
 
 − “Này người kia, người có thấy vị Thiên sứ thứ hai hiện ra giữa loài người không?”
@@ -291,7 +298,7 @@ Rồi này các Tỷ-kheo, vua Yama nói với người ấy:
 − “Này người kia, chính vì do phóng dật, ngươi đã không làm các điều lành về thân, về lời nói, về ý.
 Thật vậy, này người kia ... ngươi sẽ thọ lãnh quả dị thục của các nghiệp ấy.”
 
-3. Rồi vua Yama, này các Tỷ-kheo, sau khi chất vấn, cật vấn, nạn vấn người ấy về vị Thiên sứ thứ hai,
+3\. Rồi vua Yama, này các Tỷ-kheo, sau khi chất vấn, cật vấn, nạn vấn người ấy về vị Thiên sứ thứ hai,
 liền chất vấn, cật vấn, nạn vấn người ấy về vị Thiên sứ thứ ba:
 
 − “Này người kia, người có thấy vị Thiên sứ thứ ba hiện ra giữa loài người không?”
@@ -323,7 +330,8 @@ Rồi này các Tỷ-kheo, vua Yama nói với người ấy:
 − “Này người kia, chính vì do phóng dật, ngươi đã không làm các điều lành về thân, về lời nói, về ý.
 Thật vậy, này người kia ... ngươi sẽ thọ lãnh quả dị thục của các nghiệp ấy.”
 
-4. Rồi vua Yama, này các Tỷ-kheo, sau khi chất vấn, cật vấn, nạn vấn người ấy về vị Thiên sứ thứ ba,
+
+4\. Rồi vua Yama, này các Tỷ-kheo, sau khi chất vấn, cật vấn, nạn vấn người ấy về vị Thiên sứ thứ ba,
 rồi giữ im lặng.
 
 Rồi này các Tỷ-kheo, những người lính địa ngục bắt người ấy chịu hình phạt gọi là năm cọc. Họ lấy cọc
@@ -345,13 +353,13 @@ thì trôi dạt ngang. Người ấy ở đây thọ lãnh các cảm giác đa
 người ấy không thể mệnh chung cho đến khi ác nghiệp của người ấy được tiêu trừ. Rồi này các Tỷ-kheo,
 những người lính địa ngục quăng người ấy vào Ðại địa ngục. Này các Tỷ-kheo, Ðại địa ngục ấy:
 
-_Có bốn góc, bốn cửa_
-_Chia thành phần bằng nhau,_
-_Xung quanh có tường sắt,_
-_Mái sắt lợp lên trên_
-_Nền địa ngục bằng sắt_
-_Nung đỏ cháy đỏ rực_
-_Ðứng thẳng luôn có mặt_
+_Có bốn góc, bốn cửa_\
+_Chia thành phần bằng nhau,_\
+_Xung quanh có tường sắt,_\
+_Mái sắt lợp lên trên_\
+_Nền địa ngục bằng sắt_\
+_Nung đỏ cháy đỏ rực_\
+_Ðứng thẳng luôn có mặt_\
 _Rộng một trăm do tuần_
 
 Một thời xưa lắm, này các Tỷ-kheo, vua Yama suy nghĩ như sau: “Những ai làm ác nghiệp ở đời, phải
@@ -364,25 +372,26 @@ Này các Tỷ-kheo, điều ta đang nói, không phải ta nghe từ một Sa-
 
 6.
 
-_Dầu Thiên sứ báo động,_
-_Thanh niên vẫn phóng dật_
-_Họ ưu buồn lâu dài,_
-_Sanh làm người hạ liệt._
-_Ở đây, bậc Chân nhân,_
-_Ðược Thiên sứ báo động,_
-_Không bao giờ phóng dật_
-_Trong diệu pháp bậc thánh_
-_Thấy sợ trong chấp thủ_
-_Trong hiện hữu sanh tử_
-_Ðược giải thoát không thủ_
-_Sanh tử được đoạn trừ_
-_Ðược yên ổn không lạc_
-_Ngay hiện tại tịch tịnh_
-_Mọi oán hận sợ hãi_
-_Các vị ấy vượt qua_
-_Mọi đau đớn khổ sầu_
+_Dầu Thiên sứ báo động,_\
+_Thanh niên vẫn phóng dật_\
+_Họ ưu buồn lâu dài,_\
+_Sanh làm người hạ liệt._\
+_Ở đây, bậc Chân nhân,_\
+_Ðược Thiên sứ báo động,_\
+_Không bao giờ phóng dật_\
+_Trong diệu pháp bậc thánh_\
+_Thấy sợ trong chấp thủ_\
+_Trong hiện hữu sanh tử_\
+_Ðược giải thoát không thủ_\
+_Sanh tử được đoạn trừ_\
+_Ðược yên ổn không lạc_\
+_Ngay hiện tại tịch tịnh_\
+_Mọi oán hận sợ hãi_\
+_Các vị ấy vượt qua_\
+_Mọi đau đớn khổ sầu_\
 _Thảy đều được siêu thoát._
 
+<!--pg-->
 **36.- Bốn Bậc Ðại Vương**
 
 − Này các Tỷ-kheo, trong ngày thứ tám của nửa tháng, các vị Ðại thần cố vấn cho bốn Ðại vương, đi du
@@ -416,16 +425,17 @@ Rồi này các Tỷ-kheo, chư Thiên ở cõi trời thứ ba mươi ba hoan h
 
 − “Thật vậy, Thiên chúng sẽ được sung mãn, còn các Asura chúng sẽ bị tổn giảm.
 
+<!--pg-->
 **37.- Sakka**
 
 Thuở xưa, này các Tỷ-kheo, Thiên chủ Sakka đang thuyết giảng cho chư Thiên ở cõi Trời thứ Ba mươi
 ba, trong khi ấy, nói lên bài kệ như sau:
 
-_Ngày mười bốn, ngày rằm_
-_Ngày tám trong nửa tháng_
-_Kể cả phần đặc biệt_
-_Khéo đầy đủ cả tám_
-_Theo làm lễ Bố-tát_
+_Ngày mười bốn, ngày rằm_\
+_Ngày tám trong nửa tháng_\
+_Kể cả phần đặc biệt_\
+_Khéo đầy đủ cả tám_\
+_Theo làm lễ Bố-tát_\
 _Vị ấy giống như ta._
 
 Bài kệ ấy, này các Tỷ-kheo, đã bị Thiên chủ Sakka hát sai, không hát đúng, nói sai, không nói đúng. Vì
@@ -434,11 +444,11 @@ các Tỷ-kheo, là bậc A-la-hán, lậu hoặc đã đoạn tận, Phạm h�
 nặng đã đặt xuống, mục đích đã thành đạt, hữu kiết sử đã đoạn tận, chánh trí giải thoát. Với vị Tỷ-kheo
 ấy, này các Tỷ-kheo, lời nói này mới là thích đáng.
 
-_Ngày mười bốn, ngày rằm_
-_Ngày tám trong nửa tháng_
-_Kể cả phần đặc biệt_
-_Khéo đầy đủ cả tám_
-_Theo làm lễ Bố-tát_
+_Ngày mười bốn, ngày rằm_\
+_Ngày tám trong nửa tháng_\
+_Kể cả phần đặc biệt_\
+_Khéo đầy đủ cả tám_\
+_Theo làm lễ Bố-tát_\
 _Vị ấy giống như ta._
 
 Vì cớ sao? Vị Tỷ-kheo ấy, này các Tỷ-kheo, đã ly tham, đã ly sân, đã ly si.
@@ -446,29 +456,30 @@ Vì cớ sao? Vị Tỷ-kheo ấy, này các Tỷ-kheo, đã ly tham, đã ly s�
 Thuở xưa, này các Tỷ-kheo, Thiên chủ Sakka đang thuyết giảng cho chư Thiên ở cõi Trời thứ Ba mươi
 ba, trong khi ấy nói lên bài kệ như sau:
 
-_Ngày mười bốn, ngày rằm_
-_Ngày tám trong nửa tháng_
-_Kể cả phần đặc biệt_
-_Khéo đầy đủ cả tám_
-_Theo làm lễ Bố-tát_
+_Ngày mười bốn, ngày rằm_\
+_Ngày tám trong nửa tháng_\
+_Kể cả phần đặc biệt_\
+_Khéo đầy đủ cả tám_\
+_Theo làm lễ Bố-tát_\
 _Vị ấy giống như ta._
 
 Bài kệ ấy, này các Tỷ-kheo, đã bị Thiên chủ Sakka hát sai, không hát đúng ... Vì cớ sao? Ta nói rằng
 Thiên chủ Sakka, này các Tỷ-kheo, chưa giải thoát khỏi sanh, già, chết, sầu, bi, khổ, ưu, não. Còn vị Tỷkheo, này các Tỷ-kheo, là bậc A-la-hán ... chánh trí giải thoát. Với vị Tỷ-kheo ấy, này các Tỷ-kheo, lời
 nói này mới là thích đáng:
-_Ngày mười bốn, ngày rằm_
-_Ngày tám trong nửa tháng_
-_Kể cả phần đặc biệt_
-_Khéo đầy đủ cả tám_
-_Theo làm lễ Bố-tát_
+_Ngày mười bốn, ngày rằm_\
+_Ngày tám trong nửa tháng_\
+_Kể cả phần đặc biệt_\
+_Khéo đầy đủ cả tám_\
+_Theo làm lễ Bố-tát_\
 _Vị ấy giống như ta._
 
 Vì cớ sao? Ta nói rằng, vị Tỷ-kheo ấy, này các Tỷ-kheo, đã thoát khỏi sanh, già, chết, sầu, bi, khổ, ưu,
 não, giải thoát khỏi khổ đau.
 
+<!--pg-->
 **38.- Ðược Nuôi Dưỡng Tế Nhị**
 
-1. - Này các Tỷ-kheo, Ta được nuôi dưỡng tế nhị, tối thắng nuôi dưỡng tế nhị, cứu cánh nuôi dưỡng tế
+1\. - Này các Tỷ-kheo, Ta được nuôi dưỡng tế nhị, tối thắng nuôi dưỡng tế nhị, cứu cánh nuôi dưỡng tế
 nhị. Này các Tỷ-kheo, trong nhà Phụ vương ta, các hồ nước được xây lên, trong một hồ có hoa sen xanh,
 trong một hồ có hoa sen đỏ, trong một hồ có hoa sen trắng, tất cả phục vụ cho ta. Không một hương
 chiên đàn nào ta dùng, này các Tỷ-kheo, là không từ Kàsi đến. Bằng vải Kàsi là khăn của ta, này các Tỷkheo. Bằng vải kàsi là áo cánh, bằng vải kàsi là nội y, bằng vải kàsi là thượng y. Ðêm và ngày, một lọng
@@ -497,9 +508,10 @@ người khác chết, ta có thể bực phiền, hổ thẹn, ghê tởm sao? 
 khi quan sát về ta như vậy, này các Tỷ-kheo, sự kiêu mạn của sự sống trong sự sống được đoạn trừ hoàn
 toàn.
 
+<!--pg-->
 **39. Kiêu Mạn**
 
-1. - Có ba kiêu mạn này, này các Tỷ-kheo, Thế nào là ba? Kiêu mạn của tuổi trẻ, Kiêu mạn của không
+1\. - Có ba kiêu mạn này, này các Tỷ-kheo, Thế nào là ba? Kiêu mạn của tuổi trẻ, Kiêu mạn của không
 bệnh, Kiêu mạn của sự sống.
 
 Say sưa trong Kiêu mạn của tuổi trẻ, này các Tỷ-kheo, kẻ vô văn phàm phu làm các ác hành về thân,
@@ -519,27 +531,28 @@ lui lại đời sống thế tục.
 
 2.
 
-_Bị bệnh và bị già_
-_Lại còn phải bị chết_
-_Kẻ phàm phu ghê tởm_
-_Người khác bị như vậy_
-_Nếu ta cũng ghê tởm_
-_Chúng sanh bị như vậy,_
-_Không xứng đáng cho ta,_
-_Với ta được sống vậy_
-_Nên ta sống như thật_
-_Biết pháp không sanh y_
-_Sự say sưa không bệnh_
-_Tuổi trẻ và sự sống_
-_Tất cả ta nhiếp phục_
-_Thấy xuất ly an ổn_
-_Nơi ta khởi tinh tấn_
-_Vì ta thấy Niết-bàn_
-_Ta không còn có thể_
-_Thọ hưởng các dục vọng_
-_ta sẽ không trở lui_
+_Bị bệnh và bị già_\
+_Lại còn phải bị chết_\
+_Kẻ phàm phu ghê tởm_\
+_Người khác bị như vậy_\
+_Nếu ta cũng ghê tởm_\
+_Chúng sanh bị như vậy,_\
+_Không xứng đáng cho ta,_\
+_Với ta được sống vậy_\
+_Nên ta sống như thật_\
+_Biết pháp không sanh y_\
+_Sự say sưa không bệnh_\
+_Tuổi trẻ và sự sống_\
+_Tất cả ta nhiếp phục_\
+_Thấy xuất ly an ổn_\
+_Nơi ta khởi tinh tấn_\
+_Vì ta thấy Niết-bàn_\
+_Ta không còn có thể_\
+_Thọ hưởng các dục vọng_\
+_ta sẽ không trở lui_\
 _Ðích Phạm hạnh ta đến_
 
+<!--pg-->
 **40.- Tăng Thượng**
 
 1-4
@@ -606,35 +619,35 @@ làm cho tăng thượng pháp, từ bỏ bất thiện, tu tập thiện, từ 
 thượng này.
 
 4.
-_Trên đời không giấu được_
-_Ác nghiệt tự mình làm_
-_Ngã của ngươi ta biết_
-_Là thật hay là giả_
-_Ngươi thật kinh thiện ngã_
-_Mặt giáp mặt chứng kiến_
-_Muốn che giấu tự ngã_
-_Ðiều ác tự ngã làm_
-_Chư Thiên và Như Lai_
-_Thấy rõ ở trong đời_
-_Sở hành của kẻ ngu_
-_Làm các hạng tà vạy_
-_Vậy vị ngã tăng thượng_
-_Sở hành phải chánh niệm_
-_Vị thế giới tăng thượng_
-_Hãy khôn khéo, Thiền tịnh_
-_Với vị pháp tăng thượng_
-_Hãy sống theo tùy pháp_
-_Ðại sĩ không thối thất_
-_Tinh cần theo chân lý_
-_Nhiếp phục được ma quân_
-_Chiến thắng được tử thần_
-_Với tinh cần tinh tấn_
-_sanh đã được đoạn tận._
-_Bậc đạo sĩ như vậy,_
-_Hiểu thế gian diệu chí_
-_Ðối với tất cả pháp_
+_Trên đời không giấu được_\
+_Ác nghiệt tự mình làm_\
+_Ngã của ngươi ta biết_\
+_Là thật hay là giả_\
+_Ngươi thật kinh thiện ngã_\
+_Mặt giáp mặt chứng kiến_\
+_Muốn che giấu tự ngã_\
+_Ðiều ác tự ngã làm_\
+_Chư Thiên và Như Lai_\
+_Thấy rõ ở trong đời_\
+_Sở hành của kẻ ngu_\
+_Làm các hạng tà vạy_\
+_Vậy vị ngã tăng thượng_\
+_Sở hành phải chánh niệm_\
+_Vị thế giới tăng thượng_\
+_Hãy khôn khéo, Thiền tịnh_\
+_Với vị pháp tăng thượng_\
+_Hãy sống theo tùy pháp_\
+_Ðại sĩ không thối thất_\
+_Tinh cần theo chân lý_\
+_Nhiếp phục được ma quân_\
+_Chiến thắng được tử thần_\
+_Với tinh cần tinh tấn_\
+_sanh đã được đoạn tận._\
+_Bậc đạo sĩ như vậy,_\
+_Hiểu thế gian diệu chí_\
+_Ðối với tất cả pháp_\
 _Không có gì xúc phạm._
 
-**41.- Sự Có Mặt**
+
 
 

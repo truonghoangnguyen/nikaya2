@@ -1,4 +1,4 @@
-## The Chapter on a Spike
+# The Chapter on a Spike
 
 ### N 1.41--50 *Paṇihitaacchavagga*
 

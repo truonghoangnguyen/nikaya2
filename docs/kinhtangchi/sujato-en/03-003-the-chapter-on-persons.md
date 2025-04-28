@@ -1,64 +1,64 @@
-## The Chapter on Persons
+# The Chapter on Persons
 
 ### N 3.21 With Saviṭṭha  *Samiddhasutta*
 
-[So I have heard.]{.smallcaps} At one time the Buddha was staying near
-[Sāvatthī]{lang="sa"} in Jeta's Grove, [Anāthapiṇḍika]{lang="sa"}'s
+So I have heard.At one time the Buddha was staying near
+Sāvatthī in Jeta's Grove, Anāthapiṇḍika's
 monastery.
 
-Then Venerable [Saviṭṭha]{lang="sa"} and Venerable
-[Mahākoṭṭhita]{lang="sa"} went up to Venerable [Sāriputta]{lang="sa"},
+Then Venerable Saviṭṭha and Venerable
+Mahākoṭṭhita went up to Venerable Sāriputta,
 and exchanged greetings with him.
 
 When the greetings and polite conversation were over, they sat down to
-one side and Venerable [Sāriputta]{lang="sa"} said to Venerable
-[Saviṭṭha]{lang="sa"}, "Reverend [Saviṭṭha]{lang="sa"}, these three
+one side and Venerable Sāriputta said to Venerable
+Saviṭṭha, "Reverend Saviṭṭha, these three
 people are found in the world. What three? The direct witness, the one
 attained to view, and the one freed by faith. These are the three people
 found in the world. Of these three people, who do you believe to be the
 finest?"
 
-"Reverend [Sāriputta]{lang="sa"}, these three people are found in the
+"Reverend Sāriputta, these three people are found in the
 world. What three? The direct witness, the one attained to view, and the
 one freed by faith. These are the three people found in the world. Of
 these three people, I believe the person freed by faith to be finest.
 Why is that? Because this person's faculty of faith is outstanding."
 
-Then [Sāriputta]{lang="sa"} said to [Mahākoṭṭhita]{lang="sa"}, "Reverend
-[Koṭṭhika]{lang="sa"}, these three people are found in the world. What
+Then Sāriputta said to Mahākoṭṭhita, "Reverend
+Koṭṭhika, these three people are found in the world. What
 three? The direct witness, the one attained to view, and the one freed
 by faith. These are the three people found in the world. Of these three
 people, who do you believe to be the finest?"
 
-"Reverend [Sāriputta]{lang="sa"}, these three people are found in the
+"Reverend Sāriputta, these three people are found in the
 world. What three? The direct witness, the one attained to view, and the
 one freed by faith. These are the three people found in the world. Of
 these three people, I believe the direct witness to be finest. Why is
 that? Because this person's faculty of immersion is outstanding."
 
-Then [Mahākoṭṭhita]{lang="sa"} said to [Sāriputta]{lang="sa"}, "Reverend
-[Sāriputta]{lang="sa"}, these three people are found in the world. What
+Then Mahākoṭṭhita said to Sāriputta, "Reverend
+Sāriputta, these three people are found in the world. What
 three? The direct witness, the one attained to view, and the one freed
 by faith. These are the three people found in the world. Of these three
 people, who do you believe to be the finest?"
 
-"Reverend [Koṭṭhika]{lang="sa"}, these three people are found in the
+"Reverend Koṭṭhika, these three people are found in the
 world. What three? The direct witness, the one attained to view, and the
 one freed by faith. These are the three people found in the world. Of
 these three people, I believe the person attained to view to be finest.
 Why is that? Because this person's faculty of wisdom is outstanding."
 
-Then [Sāriputta]{lang="sa"} said to [Saviṭṭha]{lang="sa"} and
-[Mahākoṭṭhita]{lang="sa"}, "Each of us has spoken from the heart. Come,
+Then Sāriputta said to Saviṭṭha and
+Mahākoṭṭhita, "Each of us has spoken from the heart. Come,
 reverends, let's go to the Buddha, and tell him about this. As he
 answers, so we'll remember it."
 
-"Yes, reverend," they replied. Then [Sāriputta]{lang="sa"},
-[Saviṭṭha]{lang="sa"}, and [Mahākoṭṭhita]{lang="sa"} went up to the
-Buddha, bowed, and sat down to one side. Then [Sāriputta]{lang="sa"}
+"Yes, reverend," they replied. Then Sāriputta,
+Saviṭṭha, and Mahākoṭṭhita went up to the
+Buddha, bowed, and sat down to one side. Then Sāriputta
 told the Buddha of all they had discussed.
 
-"In this matter, [Sāriputta]{lang="sa"}, it's not easy to categorically
+"In this matter, Sāriputta, it's not easy to categorically
 declare that one of these three people is finest. In some cases, a
 person who is freed by faith is practicing for perfection, while the
 direct witness and the one attained to view are once-returners or
@@ -77,6 +77,7 @@ witness are once-returners or non-returners.
 In this matter, it's not easy to categorically declare that one of these
 three people is finest."
 
+<!--pg-->
 ### N 3.22 Patients  *Gilānasutta*
 
 "These three patients are found in the world. What three?
@@ -121,6 +122,7 @@ of this person, the other people should be taught Dhamma.
 
 These are the three people similar to patients found in the world."
 
+<!--pg-->
 ### N 3.23 Choices  *Saṅkhārasutta*
 
 "These three people are found in the world. What three?
@@ -147,12 +149,13 @@ in the underworld.
 
 These are the three people found in the world."
 
+<!--pg-->
 ### N 3.24 Very Helpful  *Bahukārasutta*
 
 "Mendicants, these three people are very helpful to another. What three?
 
 The person who has enabled you to go for refuge to the Buddha, the
-teaching, and the [Saṅgha]{lang="sa"}. This person is very helpful to
+teaching, and the Saṅgha. This person is very helpful to
 another.
 
 Furthermore, the person who has enabled you to truly understand: 'This
@@ -174,6 +177,7 @@ palms, and observing proper etiquette for them; or by providing them
 with robes, almsfood, lodgings, and medicines and supplies for the
 sick."
 
+<!--pg-->
 ### N 3.25 Like Diamond  *Vajirūpamasutta*
 
 "These three people are found in the world. What three? A person with a
@@ -210,6 +214,7 @@ This is called a person with a mind like diamond.
 
 These are the three people found in the world."
 
+<!--pg-->
 ### N 3.26 Associates  *Sevitabbasutta*
 
 "These three people are found in the world. What three? There is a
@@ -254,8 +259,9 @@ These are the three people found in the world.
 > but associating with an equal, you'll never decline;\
 > following the best, you'll quickly rise up,\
 > so you should keep company\
-> \>with people better than you."
+> with people better than you."
 
+<!--pg-->
 ### N 3.27 You Should be Disgusted  *Jigucchitabbasutta*
 
 "These three people are found in the world. What three? There is a
@@ -311,8 +317,9 @@ These are the three people found in the world.
 > but associating with an equal, you'll never decline;\
 > following the best, you'll quickly rise up,\
 > so you should keep company\
-> \>with people better than you."
+> with people better than you."
 
+<!--pg-->
 ### N 3.28 Speech like Dung  *Gūthabhāṇīsutta*
 
 "These three people are found in the world. What three? One with speech
@@ -342,6 +349,7 @@ person with speech like honey.
 
 These are the three people found in the world."
 
+<!--pg-->
 ### N 3.29 Blind  *Andhasutta*
 
 "These three people are found in the world. What three? The blind, the
@@ -402,6 +410,7 @@ These are the three people found in the world.
 > But you should keep the two-eyed close,\
 > the best individual."
 
+<!--pg-->
 ### N 3.30 Upside-down  *Avakujjasutta*
 
 "These three people are found in the world. What three? One with

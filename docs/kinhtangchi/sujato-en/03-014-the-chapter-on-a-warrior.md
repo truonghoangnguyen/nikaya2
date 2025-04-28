@@ -1,4 +1,4 @@
-## The Chapter on a Warrior
+# The Chapter on a Warrior
 
 ### N 3.133 A Warrior  *Yodhājīvasutta*
 
@@ -50,6 +50,7 @@ to the gods, worthy of hospitality, worthy of a religious donation,
 worthy of veneration with joined palms, and is the supreme field of
 merit for the world."
 
+<!--pg-->
 ### N 3.134 Assemblies  *Parisāsutta*
 
 "Mendicants, there are these three assemblies. What three? An assembly
@@ -57,6 +58,7 @@ educated in fancy talk, an assembly educated in questioning, and an
 assembly educated to the fullest extent. These are the three
 assemblies."
 
+<!--pg-->
 ### N 3.135 A Friend  *Mittasutta*
 
 "Mendicants, you should associate with a friend who has three factors.
@@ -64,6 +66,7 @@ What three? They give what is hard to give, they do what is hard to do,
 and they bear what is hard to bear. You should associate with a friend
 who has these three factors."
 
+<!--pg-->
 ### N 3.136 Arising  *Uppādāsutta*
 
 "Mendicants, whether Realized Ones arise or not, this law of nature
@@ -85,6 +88,7 @@ all things are not-self. A Realized One understands this and comprehends
 it, then he explains, teaches, asserts, establishes, clarifies,
 analyzes, and reveals it: 'All things are not-self.'"
 
+<!--pg-->
 ### N 3.137 A Hair Blanket  *Kesakambalasutta*
 
 "Mendicants, a hair blanket is said to be the worst kind of woven cloth.
@@ -117,6 +121,7 @@ futile man the bamboo-staffed ascetic is a trap for humans, it seems to
 me. He has come into the world for the harm, suffering, calamity, and
 disaster of many beings."
 
+<!--pg-->
 ### N 3.138 Accomplishment  *Sampadāsutta*
 
 "Mendicants, there are three accomplishments. What three? Accomplishment
@@ -127,6 +132,7 @@ in faith, ethics, and wisdom. These are the three accomplishments."
 "Mendicants, there are three kinds of growth. What three? Growth in
 faith, ethics, and wisdom. These are the three kinds of growth."
 
+<!--pg-->
 ### N 3.140 A Wild Colt  *Assakhaḷuṅkasutta*
 
 "Mendicants, I will teach you about three wild colts and three wild
@@ -180,6 +186,7 @@ This is how a wild person is fast, beautiful, and well proportioned.
 
 These are the three wild people."
 
+<!--pg-->
 ### N 3.141 Excellent Horses  *Assaparassasutta*
 
 "Mendicants, I will teach you the three excellent horses and the three
@@ -231,6 +238,7 @@ beautiful, and well proportioned.
 
 These are the three excellent people."
 
+<!--pg-->
 ### N 3.142 The Thoroughbred  *Assājānīyasutta*
 
 "Mendicants, I will teach you the three fine thoroughbred horses, and
@@ -260,9 +268,10 @@ proportioned.
 
 These are the three fine thoroughbred people."
 
+<!--pg-->
 ### N 3.143 At the Peacocks' Feeding Ground (1st)  *Paṭhamamoranivāpasutta*
 
-At one time the Buddha was staying near [Rājagaha]{lang="sa"}, at the
+At one time the Buddha was staying near Rājagaha, at the
 monastery of the wanderers in the peacocks' feeding ground. There the
 Buddha addressed the mendicants, "Mendicants!"
 
@@ -277,6 +286,7 @@ A mendicant with these three qualities has reached the ultimate end, the
 ultimate sanctuary from the yoke, the ultimate spiritual life, the
 ultimate goal. They are the best among gods and humans."
 
+<!--pg-->
 ### N 3.144 At the Peacocks' Feeding Ground (2nd)  *Dutiyamoranivāpasutta*
 
 "Mendicants, a mendicant who has three qualities has reached the
@@ -289,6 +299,7 @@ A mendicant with these three qualities has reached the ultimate end, the
 ultimate sanctuary from the yoke, the ultimate spiritual life, the
 ultimate goal. They are the best among gods and humans."
 
+<!--pg-->
 ### N 3.145 At the Peacocks' Feeding Ground (3rd)  *Tatiyamoranivāpasutta*
 
 "Mendicants, a mendicant who has three qualities has reached the

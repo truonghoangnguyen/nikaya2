@@ -15,6 +15,7 @@ các pháp tùy thuận. Thành tựu với ba pháp này, này các Tỷ-kheo, 
 lại hạnh phúc cho đa số, an lạc cho đa số, lợi ích cho đa số, đem lại hạnh phúc, an lạc cho chư Thiên và
 loài người.
 
+<!--pg-->
 **12.- Ba Chỗ**
 
 − Ba pháp này, này các Tỷ-kheo, một vua Sát-đế-lỵ đã làm lễ quán đảnh cần phải trọn đời ghi nhớ. Thế
@@ -46,6 +47,7 @@ ba, này các Tỷ-kheo, Tỷ-kheo cần phải trọn đời ghi nhớ.
 
 Ba pháp này, này các Tỷ-kheo, một Tỷ-kheo cần phải trọn đời ghi nhớ.
 
+<!--pg-->
 **13.- Ba Hạng Người**
 
 − Có ba hạng người này, này các Tỷ-kheo, xuất hiện, có mặt ở đời. Thế nào là ba? Không hy vọng, có hy
@@ -98,6 +100,7 @@ người ly hy vọng.
 
 Ba hạng người này, này các Tỷ-kheo, xuất hiện, có mặt giữa các vị Tỷ-kheo.
 
+<!--pg-->
 **14.- Pháp**
 
 − Phàm vua Chuyển Luân nào, đúng pháp, pháp vương, vị ấy cũng chuyển bánh xe (cai trị), không phải
@@ -136,9 +139,10 @@ nghiệp ... đối với khẩu nghiệp ... đối với ý nghiệp ... chuy�
 ngăn chặn sự chuyển vận, bởi Sa-môn, Bà-la-môn, chư Thiên, Ác ma, Phạm thiên, hay bất cứ một ai ở
 đời.
 
+<!--pg-->
 **15.- Người Ðóng Xe Hay Pacetana.**
 
-1. Một thời Thế Tôn ở tại Bàranàsi, Isipatana, chỗ Vườn Nai, tại đấy, Thế Tôn gọi các Tỷ-kheo:
+1\. Một thời Thế Tôn ở tại Bàranàsi, Isipatana, chỗ Vườn Nai, tại đấy, Thế Tôn gọi các Tỷ-kheo:
 
 − Này các Tỷ-kheo.
 
@@ -220,6 +224,8 @@ Do vậy, này các Tỷ-kheo, hãy học tập như sau: “Chúng tôi sẽ đ
 khuyết điểm, chúng tôi sẽ đoạn tận lời nói cong, lời hư hỏng, lời nói khuyết điểm, chúng tôi sẽ đoạn tận
 ý cong, ý hư hỏng, ý khuyết điểm”. Như vậy, này các Tỷ-kheo, các Thầy cần phải học tập.
 
+
+<!--pg-->
 **16.- Con Ðường Không Có Lỗi Lầm**
 
 − Thành tựu ba pháp, này các Tỷ-kheo, Tỷ-kheo thực hành con đường không có lầm lỗi, và có những căn
@@ -255,6 +261,7 @@ ngồi, gột sạch tâm khỏi các triền cái. Như vậy, này các Tỷ-k
 Thành tựu ba pháp này, này các Tỷ-kheo, Tỷ-kheo thực hành con đường không có lỗi lầm, và có những
 căn bản thắng tấn để đoạn diệt các lậu hoặc.
 
+<!--pg-->
 **17.- Ba Pháp**
 
 − Có ba pháp này, này các Tỷ-kheo, đưa đến hại mình, đưa đến hại người, đưa đến hại cả hai. Thế nào là
@@ -264,6 +271,7 @@ người, đưa đến hại cả hai.
 Có ba pháp này, này các Tỷ-kheo, không đưa đến hại mình, không đưa đến hại người, không đưa đến
 hại cả hai. Thế nào là ba? Thân làm thiện, miệng nói thiện, ý nghĩ thiện. Có ba pháp này, này các Tỷkheo, không đưa đến hại mình, không đưa đến hại người, không đưa đến hại cả hai.
 
+<!--pg-->
 **18.- Thiên Giới**
 
 − Nếu các du sĩ ngoại đạo hỏi các thầy như sau: “Chư Hiền, có phải Sa-môn Gotama sống Phạm hạnh để
@@ -277,6 +285,7 @@ bực phiền, tủi nhục, chán ngấy đối với thiên sắc, thiên lạ
 này các Tỷ Kheo, đối vói thân làm ác, các Thầy bực phiền, tủi nhục, chán ngấy như thế nào, đối với
 miệng nói ác.... đối với ý nghĩ ác, các Thầy cảm thấy bực phiền, tủi nhục, chán ngấy như thế nào.
 
+<!--pg-->
 **19.- Người Buôn Bán**
 
 − Thành tựu ba chi phần, này các Tỷ-kheo, một người buôn bán không thâu nhận được tài sản chưa thâu
@@ -307,6 +316,7 @@ vào buổi chiều có nhiệt tâm chăm chú vào định tướng. Thành t�
 một Tỷ-kheo thâu nhận được thiện pháp chưa được thâu nhận, và tăng trưởng thiện pháp đã được thâu
 nhận.
 
+<!--pg-->
 **20.- Người Buôn Bán**
 
 − Thành tựu với ba chi phần, này các Tỷ-kheo, người buôn bán không bao lâu đạt được về tài sản lớn

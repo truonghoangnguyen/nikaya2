@@ -2,19 +2,23 @@
 
 **(I) (131) Chuyển Luân Vương**
 
-1. - Thành tựu năm chi phần, này các Tỷ-kheo, vua Chuyển Luân chuyển bánh xe với pháp; bánh xe ấy
+<!--pg-->
+1\. - Thành tựu năm chi phần, này các Tỷ-kheo, vua Chuyển Luân chuyển bánh xe với pháp; bánh xe ấy
 không một bàn tay ai có thể chuyển ngược lại, dầu là con của người thù địch. Thế nào là năm?
 
-2. Ở đây, này các Tỷ-kheo, vua Chuyển Luân biết nghĩa, biết pháp, biết vừa phải, biết thời và biết hội
+<!--pg-->
+2\. Ở đây, này các Tỷ-kheo, vua Chuyển Luân biết nghĩa, biết pháp, biết vừa phải, biết thời và biết hội
 chúng.
 
 Thành tựu năm chi phần, này các Tỷ-kheo, vua Chuyển Luân chuyển bánh xe với pháp; bánh xe ấy,
 không một bàn tay ai có thể chuyển ngược lại, dầu là con của người thù địch.
 
-3. Cũng vậy, này các Tỷ-kheo, thành tựu năm pháp, Như Lai, bậc A-la-hán, Chánh Ðẳng Giác chuyển
+<!--pg-->
+3\. Cũng vậy, này các Tỷ-kheo, thành tựu năm pháp, Như Lai, bậc A-la-hán, Chánh Ðẳng Giác chuyển
 Pháp luân Vô thượng với pháp; bánh xe ấy, không do một ai ở đời có thể chuyển ngược lại, dầu là Samôn, Bà-la-môn, Thiên, Ma, Phạm thiên hay bất cứ ai ở đời. Thế nào là năm?
 
-4. Ở đây, này các Tỷ-kheo, Như Lai, bậc A-la-hán, Chánh Ðẳng Giác biết nghĩa, biết pháp, biết vừa
+<!--pg-->
+4\. Ở đây, này các Tỷ-kheo, Như Lai, bậc A-la-hán, Chánh Ðẳng Giác biết nghĩa, biết pháp, biết vừa
 phải, biết thời và biết hội chúng.
 
 Thành tựu năm pháp này, này các Tỷ-kheo, Như Lai, bậc A-la-hán, Chánh Ðẳng Giác chuyển Pháp luân
@@ -23,21 +27,25 @@ Thiên, Ma, Phạm thiên hay bất cứ ai ở đời.
 
 **(II) (132) Chuyển Luân Vương (2)**
 
-1. - Thành tựu năm chi phần, này các Tỷ-kheo, con trưởng vua Chuyển Luân tiếp tục chuyển vận bánh
+<!--pg-->
+1\. - Thành tựu năm chi phần, này các Tỷ-kheo, con trưởng vua Chuyển Luân tiếp tục chuyển vận bánh
 xe pháp do phụ vương đã chuyển vận; bánh xe ấy, không một bàn tay ai có thể chuyển ngược lại, dầu là
 con của người thù địch. Thế nào là năm?
 
-2. Ở đây, này các Tỷ-kheo, con trưởng vua Chuyển Luân biết nghĩa, biết pháp, biết vừa phải, biết thời và
+<!--pg-->
+2\. Ở đây, này các Tỷ-kheo, con trưởng vua Chuyển Luân biết nghĩa, biết pháp, biết vừa phải, biết thời và
 biết hội chúng.
 
 Thành tựu năm chi phần này, này các Tỷ-kheo, con trưởng vua Chuyển Luân tiếp tục chuyển vận bánh
 xe pháp do phụ vương đã chuyển vận; bánh xe ấy, không một bàn tay ai có thể chuyển ngược lại, dầu là
 con của người thù địch.
 
-3. Cũng vậy, này các Tỷ-kheo, Sàriputta thành tựu năm pháp chơn chánh tiếp tục chuyển vận Vô thượng
+<!--pg-->
+3\. Cũng vậy, này các Tỷ-kheo, Sàriputta thành tựu năm pháp chơn chánh tiếp tục chuyển vận Vô thượng
 pháp luân do Như Lai đã chuyển vận; bánh xe ấy, không do một ai có thể chuyển ngược lại, dầu là Samôn, Bà-la-môn, Thiên, Ma, Phạm thiên hay bất cứ ai ở đời. Thế nào là năm?
 
-4. Ở đây, này các Tỷ-kheo Sàriputta biết nghĩa lợi, biết pháp, biết vừa đủ, biết thời và biết hội chúng.
+<!--pg-->
+4\. Ở đây, này các Tỷ-kheo Sàriputta biết nghĩa lợi, biết pháp, biết vừa đủ, biết thời và biết hội chúng.
 
 Thành tựu năm pháp này, này các Tỷ-kheo, Sàriputta chơn chánh tiếp tục chuyển vận Vô thượng pháp
 luân do Như Lai đã chuyển vận; bánh xe ấy, không do một ai có thể chuyển ngược lại, dầu là Sa-môn,
@@ -45,7 +53,8 @@ Bà-la-môn, Thiên, Ma, Phạm thiên hay bất cứ ai ở đời.
 
 **(III) (133) Chuyển Luân Vương (3)**
 
-1. - Này các Tỷ-kheo, ai là vua Chuyển Luân đúng pháp pháp vương, vị ấy chuyển vận bánh xe không
+<!--pg-->
+1\. - Này các Tỷ-kheo, ai là vua Chuyển Luân đúng pháp pháp vương, vị ấy chuyển vận bánh xe không
 phải không thuộc của vua.
 
 Khi nghe nói vậy, một vị Tỷ-kheo bạch Thế Tôn:
@@ -56,11 +65,13 @@ Khi nghe nói vậy, một vị Tỷ-kheo bạch Thế Tôn:
 
 Thế Tôn nói vậy.
 
-2. - Ở đây, này Tỷ-kheo, vua Chuyển Luân đúng pháp pháp vương, y cứ pháp, tôn kính pháp, kính trọng
+<!--pg-->
+2\. - Ở đây, này Tỷ-kheo, vua Chuyển Luân đúng pháp pháp vương, y cứ pháp, tôn kính pháp, kính trọng
 pháp, tôn trọng pháp, lấy pháp làm tràng phan, lấy pháp làm ngọn cờ, lấy pháp làm tăng thượng. Vị này
 sắp đặt một sự phòng hộ, bảo vệ, chế ngự đúng pháp cho dân chúng trong nước.
 
-3. Lại nữa, này Tỷ-kheo, vua Chuyển Luân đúng pháp pháp vương, y cứ pháp, tôn kính pháp, kính trọng
+<!--pg-->
+3\. Lại nữa, này Tỷ-kheo, vua Chuyển Luân đúng pháp pháp vương, y cứ pháp, tôn kính pháp, kính trọng
 pháp, tôn trọng pháp, lấy pháp làm tràng phan, lấy pháp làm ngọn cờ, lấy pháp làm tăng thượng. Vị này
 sắp đặt một sự phòng hộ, bảo vệ, chế ngự đúng pháp cho các Sát-đế-lỵ, tùy hành, cho quân đội, cho các
 Bà-la-môn gia chủ, cho dân chúng thị trấn và quốc độ, cho các Sa-môn, Bà-la-môn, cho các loài thú và
@@ -81,7 +92,8 @@ phải thực hành, khẩu nghiệp như vậy không nên thực hành; ý ngh
 nghiệp như vậy không nên thực hành; mạng sống như vậy cần phải thực hành, mạng sống như vậy
 không nên thực hành; làng, thị trấn như vậy cần phải đi đến; làng, thị trấn như vậy không nên đi đến.
 
-4. Lại nữa, này Tỷ-kheo, Như Lai, bậc A-la-hán, Chánh Ðẳng Giác đúng pháp pháp vương, y cứ pháp,
+<!--pg-->
+4\. Lại nữa, này Tỷ-kheo, Như Lai, bậc A-la-hán, Chánh Ðẳng Giác đúng pháp pháp vương, y cứ pháp,
 tôn kính pháp, kính trọng pháp, tôn trọng pháp, lấy pháp làm tràng phan, lấy pháp làm ngọn cờ, lấy pháp
 làm tăng thượng, sắp đặt một sự phòng hộ, bảo vệ, chế ngự đúng pháp giữa các Tỷ-kheo, giữa các Tỷkheo-ni, giữa các nam cư sĩ, giữa các nữ cư sĩ: Thân nghiệp như vậy cần phải thực hành, thân nghiệp
 như vậy không nên thực hành; khẩu nghiệp như vậy cần phải thực hành, khẩu nghiệp như vậy không nên
@@ -98,10 +110,12 @@ Như Lai làm cho chuyển vận Vô thượng pháp luân với pháp, bánh xe
 
 **(IV) (134) Tại Mỗi Phương Hướng**
 
-1. - Thành tựu năm chi phần, này các Tỷ-kheo, vua Sát-đế-lỵ đã làm lễ quán đảnh sống tại phương
+<!--pg-->
+1\. - Thành tựu năm chi phần, này các Tỷ-kheo, vua Sát-đế-lỵ đã làm lễ quán đảnh sống tại phương
 hướng nào, vị ấy sống trong lĩnh vực mình chiếm đoạt được. Thế nào là năm?
 
-2. Ở đây, này các Tỷ-kheo, vua Sát-đế-lỵ đã làm lễ quán đảnh, thiện sanh cả từ mẫu hệ và phụ hệ, huyết
+<!--pg-->
+2\. Ở đây, này các Tỷ-kheo, vua Sát-đế-lỵ đã làm lễ quán đảnh, thiện sanh cả từ mẫu hệ và phụ hệ, huyết
 thống thanh tịnh cho đến bảy đời tổ phụ, không một vết nhơ nào, một dèm pha nào về vấn đề huyết
 thống thọ sanh; là nhà giàu có, đại phú, sung túc tài sản, ngân khố, kho lúa sung mãn; có uy lực, đầy đủ
 bốn loại binh chủng trung thành và sẵn sàng tuân lệnh. Vị tư lệnh là bậc Hiền trí, tinh luyện, sáng suốt
@@ -112,7 +126,8 @@ lãnh vực mình chiếm đoạt được. Vì sao? Vì như vậy là địa h
 Cũng vậy, này các Tỷ-kheo, thành tựu nam pháp, Tỷ-kheo sống tại phương hướng nào, vị ấy sống với
 tâm giải thoát. Thế nào là năm?
 
-3. Ở đây, này các Tỷ-kheo, Tỷ-kheo có giới, sống hộ trì với sự hộ trì của giới bổn, đầy đủ oai nghi chánh
+<!--pg-->
+3\. Ở đây, này các Tỷ-kheo, Tỷ-kheo có giới, sống hộ trì với sự hộ trì của giới bổn, đầy đủ oai nghi chánh
 hạnh, thấy sợ hãi trong các lỗi nhỏ nhiệm, chấp nhận, và học tập trong các học pháp. Như vậy giống như
 vua Sát-đế-lỵ đã làm lễ quán đảnh, đầy đủ về thọ sanh. Vị ấy là bậc nghe nhiều, thọ trì điều được nghe,
 tích tập điều được nghe, đối với các pháp sơ thiện, trung thiện, hậu thiện, có nghĩa, có văn, tán thán
@@ -127,10 +142,12 @@ của vị ấy được chín muồi. Thành tựu với pháp giải thoát th
 thoát.
 
 **(V) (135) Mục Ðích(1)**
-1. - Thành tựu năm chi phần, này các Tỷ-kheo, con trưởng của vua Sát-đế-lỵ đã làm lễ quán đảnh có hy
+<!--pg-->
+1\. - Thành tựu năm chi phần, này các Tỷ-kheo, con trưởng của vua Sát-đế-lỵ đã làm lễ quán đảnh có hy
 vọng về quốc độ. Thế nào là năm?
 
-2. Ở đây, này các Tỷ-kheo, con trưởng của vua Sát-đế-l. đã làm lễ quán đảnh, thiện sanh cả từ mẫu hệ và
+<!--pg-->
+2\. Ở đây, này các Tỷ-kheo, con trưởng của vua Sát-đế-l. đã làm lễ quán đảnh, thiện sanh cả từ mẫu hệ và
 phụ hệ, huyết thống thanh tịnh cho đến bảy đời tổ phụ, không một vết nhơ nào, một dèm pha nào về vấn
 đề huyết thống thọ sanh; đẹp trai, khả ái, làm đẹp lòng mọi người với dung sắc thù thắng như hoa sen,
 được cha mẹ thương yêu ưa thích, được dân chúng quốc độ thị trấn thương yêu ưa thích; đối với các
@@ -148,7 +165,8 @@ Thành tựu năm chi phần này, này các Tỷ-kheo, con trưởng của vua 
 vọng vào quốc độ. Cũng vậy, này các Tỷ-kheo, thành tựu năm pháp, Tỷ-kheo đặt hy vọng vào sự đoạn
 diệt các lậu hoặc. Thế nào là năm?
 
-3. Ở đây, này các Tỷ-kheo, Tỷ kheo có lòng tin ở sự giác ngộ của Như Lai: “Ðây là Thế Tôn, bậc A-lahán, Chánh Ðẳng Giác, Minh Hạnh Túc, Thiện Thệ, Thế Gian Giải, Vô Thượng Sĩ, Ðiều Ngự Trượng
+<!--pg-->
+3\. Ở đây, này các Tỷ-kheo, Tỷ kheo có lòng tin ở sự giác ngộ của Như Lai: “Ðây là Thế Tôn, bậc A-lahán, Chánh Ðẳng Giác, Minh Hạnh Túc, Thiện Thệ, Thế Gian Giải, Vô Thượng Sĩ, Ðiều Ngự Trượng
 Phu, Thiên Nhân Sư, Phật Thế Tôn”. Tỷ-kheo ấy ít bệnh, ít não, sự tiêu hóa được điều hòa, không lạnh
 quá, không nóng quá, trung bình, hợp với tinh tấn. Tỷ-kheo ấy không lừa đảo, dối gạt, nêu rõ tự mình
 như chân đối với bậc Ðạo sư, đối với các vị sáng suốt, hay đối với các vị đồng Phạm hạnh. Tỷ-kheo ấy
@@ -169,10 +187,12 @@ Thành tựu năm pháp này, này các Tỷ-kheo, Tỷ-kheo đặt hy vọng v�
 
 **(VI) (136) Mục Ðích (2)**
 
-1. - Thành tựu năm chi phần, này các Tỷ-kheo, con trưởng của vua Sát-đế-lỵ đã làm lễ quán đảnh đặt hy
+<!--pg-->
+1\. - Thành tựu năm chi phần, này các Tỷ-kheo, con trưởng của vua Sát-đế-lỵ đã làm lễ quán đảnh đặt hy
 vọng về phó vương. Thế nào là năm?
 
-2. Ở đây, này các Tỷ-kheo, con trưởng của vua Sát-đế-lỵ đã làm lễ quán đảnh, thiện sanh cả từ mẫu hệ
+<!--pg-->
+2\. Ở đây, này các Tỷ-kheo, con trưởng của vua Sát-đế-lỵ đã làm lễ quán đảnh, thiện sanh cả từ mẫu hệ
 và phụ hệ, huyết thống thanh tịnh cho đến bảy đời tổ phụ, không một vết nhơ nào, một dèm pha nào về
 vấn đề huyết thống thọ sanh; đẹp trai, khả ái, làm đẹp lòng mọi người với dung sắc thù thắng như hoa
 sen; được cha mẹ thương yêu, ưa thích; được quân đội thương yêu, ưa thích; có trí tuệ, thiện xảo, thông
@@ -189,7 +209,8 @@ Thành tựu năm chi phần này, này các Tỷ-kheo, con trưởng của vua 
 vọng vào địa vị phó vương. Cũng vậy, này các Tỷ-kheo, Tỷ-kheo thành tựu năm pháp đặt hy vọng vào
 sự đoạn diệt các lậu hoặc. Thế nào là năm?
 
-3. Ở đây, này các Tỷ-kheo, Vị Tỷ-kheo có giới, sống hộ trì với sự hộ trì của giới bổn, đầy đủ oai nghi
+<!--pg-->
+3\. Ở đây, này các Tỷ-kheo, Vị Tỷ-kheo có giới, sống hộ trì với sự hộ trì của giới bổn, đầy đủ oai nghi
 chánh hạnh, thấy sợ hãi trong các lỗi nhỏ nhiệm, chấp nhận, và học tập trong các học pháp; là bậc nghe
 nhiều, giữ gìn điều được nghe, tích tập điều được nghe, đối với các pháp sơ thiện, trung thiện, hậu thiện,
 có nghĩa, có văn, tán thán Phạm hạnh hoàn toàn viên mãn thanh tịnh, đối với các pháp như vậy, được
@@ -214,9 +235,11 @@ Thành tựu năm pháp này, này các Tỷ-kheo, Tỷ-kheo đặt hy vọng v�
 
 **(VII) (137) Ngủ Rất Ít**
 
-1. - Năm hạng người này, này các Tỷ-kheo, ban đêm ngủ ít, thức nhiều. Thế nào là năm?
+<!--pg-->
+1\. - Năm hạng người này, này các Tỷ-kheo, ban đêm ngủ ít, thức nhiều. Thế nào là năm?
 
-2. Người đàn bà, này các Tỷ-kheo, thao thức đến đàn ông, ban đêm ngủ ít thức nhiều. Người đàn ông,
+<!--pg-->
+2\. Người đàn bà, này các Tỷ-kheo, thao thức đến đàn ông, ban đêm ngủ ít thức nhiều. Người đàn ông,
 này các Tỷ-kheo, thao thức đến đàn bà, ban đêm ngủ ít thức nhiều. Người ăn trộm, này các Tỷ-kheo,
 thao thức đến đồ ăn trộm, ban đêm ngủ ít thức nhiều. Vị vua, này các Tỷ-kheo, lo lắng các công việc của
 vua, ban đêm ngủ ít thức nhiều. Vị Tỷ-kheo, này các Tỷ-kheo, thao thức đến ly hệ phược, ban đêm ngủ
@@ -226,9 +249,11 @@ Năm hạng người này, này các Tỷ-kheo, ban đêm ngủ ít thức nhi�
 
 **(VIII) (138) Ăn Các Ðồ Thực Vật**
 
-1. - Thành tựu năm chi phần, này các Tỷ-kheo, một con voi của vua ăn đồ ăn nhiều, choán chiếm nhiều
+<!--pg-->
+1\. - Thành tựu năm chi phần, này các Tỷ-kheo, một con voi của vua ăn đồ ăn nhiều, choán chiếm nhiều
 chỗ, vung vãi đại tiện, nắm giữ thẻ đồ ăn được gọi là con voi của vua. Thế nào là năm?
-2. Ở đây, này các Tỷ-kheo, con voi của vua không kham nhẫn các sắc, không kham nhẫn các tiếng,
+<!--pg-->
+2\. Ở đây, này các Tỷ-kheo, con voi của vua không kham nhẫn các sắc, không kham nhẫn các tiếng,
 không kham nhẫn các hương, không kham nhẫn các vị, không kham nhẫn các xúc.
 
 Thành tựu năm chi phần, này các Tỷ-kheo, một con voi của vua ăn đồ ăn nhiều, choán chiếm nhiều chỗ,
@@ -236,7 +261,8 @@ vung vãi đại tiện, nắm giữ thẻ đồ ăn được gọi là con voi 
 năm pháp, Tỷ-kheo ăn đồ ăn nhiều, choán chiếm nhiều chỗ, làm đổ giường nằm và nắm giữ thẻ đồ ăn,
 được xem chỉ là một Tỷ-kheo. Thế nào là năm?
 
-3. Ở đây, này các Tỷ-kheo, Tỷ-kheo không kham nhẫn các sắc, không kham nhẫn các tiếng, không kham
+<!--pg-->
+3\. Ở đây, này các Tỷ-kheo, Tỷ-kheo không kham nhẫn các sắc, không kham nhẫn các tiếng, không kham
 nhẫn các hương, không kham nhẫn các vị, không kham nhẫn các xúc.
 
 Thành tựu năm pháp này, này các Tỷ-kheo, một Tỷ-kheo ăn đồ ăn nhiều, choán chiếm nhiều chỗ, làm đổ
@@ -244,35 +270,42 @@ giường nằm và nắm giữ phiếu đồ ăn, vị ấy được gọi ch�
 
 **(IX) (139) Không Có Thể Kham Nhẫn**
 
-1. - Thành tựu năm chi phần, này các Tỷ-kheo, con voi của vua không xứng đáng cho vua, không là tài
+<!--pg-->
+1\. - Thành tựu năm chi phần, này các Tỷ-kheo, con voi của vua không xứng đáng cho vua, không là tài
 sản của vua không được xem là một biểu tượng của vua. Thế nào là năm?
 
-2. Ở đây, này các Tỷ-kheo, con voi của vua không kham nhẫn các sắc, không kham nhẫn các tiếng,
+<!--pg-->
+2\. Ở đây, này các Tỷ-kheo, con voi của vua không kham nhẫn các sắc, không kham nhẫn các tiếng,
 không kham nhẫn các hương, không kham nhẫn các vị, không kham nhẫn các xúc. Và này các Tỷ-kheo,
 thế nào là con voi của vua không kham nhẫn các sắc?
 
-3. Ở đây, này các Tỷ-kheo, con voi của vua, khi đi đến chiến trận, thấy đoàn voi hay thấy đoàn ngựa,
+<!--pg-->
+3\. Ở đây, này các Tỷ-kheo, con voi của vua, khi đi đến chiến trận, thấy đoàn voi hay thấy đoàn ngựa,
 hay thấy đoàn xe, hay thấy đoàn bộ binh đã chùn chân, rủn chí, không còn can đảm, không thể tham gia
 chiến trận. Như vậy, này các Tỷ-kheo, con voi của vua không kham nhẫn đối với các sắc. Và này các
 Tỷ-kheo, thế nào là con voi của vua không kham nhẫn các tiếng?
 
-4. Ở đây, này các Tỷ-kheo, con voi của vua, đi đến chiến trận, khi nghe tiếng voi, nghe tiếng ngựa, nghe
+<!--pg-->
+4\. Ở đây, này các Tỷ-kheo, con voi của vua, đi đến chiến trận, khi nghe tiếng voi, nghe tiếng ngựa, nghe
 tiếng xe, nghe tiếng bộ binh, hay nghe tiếng trống lớn, thanh la, tiếng tù và, tiếng trống nhỏ, liền chùn
 chân, rủn chí, không còn can đảm, không thể tham gia chiến trận. Như vậy, này các Tỷ-kheo, con voi
 của vua không kham nhẫn các tiếng. Và này các Tỷ-kheo, thế nào là con voi của vua không kham nhẫn
 các hương?
 
-5. Ở đây, này các Tỷ-kheo, con voi của vua đi đến chiến trận, khi đó ngửi mùi phân và nước tiểu của các
+<!--pg-->
+5\. Ở đây, này các Tỷ-kheo, con voi của vua đi đến chiến trận, khi đó ngửi mùi phân và nước tiểu của các
 con voi của vua thuộc loại quý chủng đã quen chiến trận, liền chùn chân, rủn chí, không còn can đảm,
 không thể tham gia chiến trận. Như vậy, này các Tỷ-kheo, là con voi của vua không kham nhẫn các
 hương. Và này các Tỷ-kheo, thế nào là con voi của vua không kham nhẫn các vị?
 
-6. Ở đây, này các Tỷ-kheo, con voi của vua khi đi đến chiến trận, chán ngấy một máng cỏ và nước, hay
+<!--pg-->
+6\. Ở đây, này các Tỷ-kheo, con voi của vua khi đi đến chiến trận, chán ngấy một máng cỏ và nước, hay
 chán ngấy hai, ba, bốn hay năm máng cỏ và nước, liền chùn chân, rủn chí, không còn can đảm, không
 thể tham gia chiến trận. Như vậy, này các Tỷ-kheo, là con voi của vua không kham nhẫn các vị. Và này
 các Tỷ-kheo, thế nào là con voi của vua không kham nhẫn các xúc?
 
-7. Ở đây, này các Tỷ-kheo, con voi của vua đi đến chiến trận, khi bị trúng một mũi tên, hay hai, hay ba,
+<!--pg-->
+7\. Ở đây, này các Tỷ-kheo, con voi của vua đi đến chiến trận, khi bị trúng một mũi tên, hay hai, hay ba,
 hay bốn, hay năm mũi tên, liền chùn chân, rủn chí, không còn can đảm, không thể tham gia chiến trận.
 Như vậy, này các Tỷ-kheo, là con voi của vua không kham nhẫn các xúc.
 
@@ -281,60 +314,73 @@ sản của vua, không được xem là một biểu tượng của vua. Cũng 
 thành tựu năm pháp không đáng cung kính, không đáng tôn trọng, không đáng cúng dường, không đáng
 chắp tay, không còn là phước điền vô thượng ở đời. Thế nào là năm?
 
-8. Ở đây, này các Tỷ-kheo, Tỷ-kheo không kham nhẫn các sắc, không kham nhẫn các tiếng, không kham
+<!--pg-->
+8\. Ở đây, này các Tỷ-kheo, Tỷ-kheo không kham nhẫn các sắc, không kham nhẫn các tiếng, không kham
 nhẫn các hương, không kham nhẫn các vị, không kham nhẫn các xúc. Và này các Tỷ-kheo, thế nào là vị
 Tỷ-kheo không kham nhẫn các sắc?
 
-9. Ở đây, này các Tỷ-kheo, Tỷ-kheo khi mắt thấy sắc liền tham đắm các sắc khả ái, tâm không thể định
+<!--pg-->
+9\. Ở đây, này các Tỷ-kheo, Tỷ-kheo khi mắt thấy sắc liền tham đắm các sắc khả ái, tâm không thể định
 tĩnh. Như vậy, này các Tỷ-kheo, Tỷ-kheo không kham nhẫn các sắc. Và này các Tỷ-kheo, thế nào là Tỷkheo không kham nhẫn các tiếng?
 
-10. Ở đây, này các Tỷ-kheo, Tỷ-kheo khi tai nghe tiếng liền tham đắm các tiếng khả ái, tâm không thể
+<!--pg-->
+10\. Ở đây, này các Tỷ-kheo, Tỷ-kheo khi tai nghe tiếng liền tham đắm các tiếng khả ái, tâm không thể
 định tĩnh. Như vậy, này các Tỷ-kheo, Tỷ-kheo không kham nhẫn các tiếng. Và này các Tỷ-kheo, thế nào
 là Tỷ-kheo không kham nhẫn các hương?
 
-11. Ở đây, này các Tỷ-kheo, Tỷ-kheo khi mũi ngửi hương liền tham đắm các hương khả ái, tâm không
+<!--pg-->
+11\. Ở đây, này các Tỷ-kheo, Tỷ-kheo khi mũi ngửi hương liền tham đắm các hương khả ái, tâm không
 thể định tĩnh. Như vậy, này các Tỷ-kheo, là Tỷ-kheo không kham nhẫn các hương. Và này các Tỷ-kheo,
 thế nào là Tỷ-kheo không kham nhẫn các vị?
 
-12. Ở đây, này các Tỷ-kheo, Tỷ-kheo khi lưỡi nếm vị liền tham đắm các vị khả ái, tâm không thể định
+<!--pg-->
+12\. Ở đây, này các Tỷ-kheo, Tỷ-kheo khi lưỡi nếm vị liền tham đắm các vị khả ái, tâm không thể định
 tĩnh. Như vậy, này các Tỷ-kheo, là Tỷ-kheo không kham nhẫn các vị. Và này các Tỷ-kheo, thế nào là vị
 Tỷ-kheo không kham nhẫn các xúc?
 
-13. Ở đây, này Tỷ-kheo, Tỷ-kheo khi thân cảm xúc liền tham đắm các xúc khả ái, tâm không thể định
+<!--pg-->
+13\. Ở đây, này Tỷ-kheo, Tỷ-kheo khi thân cảm xúc liền tham đắm các xúc khả ái, tâm không thể định
 tĩnh. Như vậy, này các Tỷ-kheo, là Tỷ-kheo không kham nhẫn các xúc.
 
 Thành tựu năm pháp này, này các Tỷ-kheo, Tỷ-kheo không đáng được cung kính, không đáng được tôn
 trọng, không đáng được cúng dường, không đáng được chắp tay, không còn là vô thượng phước điền ở
 đời.
 
-14. Thành tựu năm chi phần, này các Tỷ-kheo, con voi của vua xứng đáng cho vua dùng, là tài sản của
+<!--pg-->
+14\. Thành tựu năm chi phần, này các Tỷ-kheo, con voi của vua xứng đáng cho vua dùng, là tài sản của
 vua, và được xem là một biểu tượng của vua. Thế nào là năm?
 
-15. Ở đây, này các Tỷ-kheo, con voi của vua kham nhẫn các sắc, kham nhẫn các tiếng, kham nhẫn các
+<!--pg-->
+15\. Ở đây, này các Tỷ-kheo, con voi của vua kham nhẫn các sắc, kham nhẫn các tiếng, kham nhẫn các
 hương, kham nhẫn các vị, kham nhẫn các xúc. Và này các Tỷ-kheo, thế nào là con voi của vua kham
 nhẫn các sắc?
 
-16. Ở đây, này các Tỷ-kheo, con voi của vua, đi đến chiến trận, khi thấy đoàn voi hay khi thấy đoàn
+<!--pg-->
+16\. Ở đây, này các Tỷ-kheo, con voi của vua, đi đến chiến trận, khi thấy đoàn voi hay khi thấy đoàn
 ngựa, hay khi thấy đoàn xe, hay khi thấy đoàn bộ binh, liền không chùn chân, rủn chí, có đủ can đảm, có
 thể tham gia chiến trận. Như vậy, này các Tỷ-kheo, con voi của vua kham nhẫn các sắc. Và thế nào, này
 các Tỷ-kheo, con voi của vua kham nhẫn các tiếng?
 
-17. Ở đây, này các Tỷ-kheo, con voi của vua, đi đến chiến trận, khi nghe tiếng voi, hay khi nghe tiếng
+<!--pg-->
+17\. Ở đây, này các Tỷ-kheo, con voi của vua, đi đến chiến trận, khi nghe tiếng voi, hay khi nghe tiếng
 ngựa, hay khi nghe tiếng xe, hay khi nghe tiếng bộ binh, hay khi nghe tiếng trống lớn, thanh la, tù và,
 trống nhỏ, không chùn chân, không rủn chí, có đủ can đảm, có thể tham gia chiến trận. Như vậy, này các
 Tỷ-kheo, là con voi của vua kham nhẫn các tiếng. Và này các Tỷ-kheo, thế nào là con voi của vua kham
 nhẫn các hương?
 
-18. Ở đây, này các Tỷ-kheo, con voi của vua đi đến chiến trận, đối với các con voi của vua thuộc loại
+<!--pg-->
+18\. Ở đây, này các Tỷ-kheo, con voi của vua đi đến chiến trận, đối với các con voi của vua thuộc loại
 quý chủng, quen thuộc chiến trận, khi nó ngửi mùi phân và nước tiểu của những con voi ấy, nó không
 chùn chân, không rủn chí, có đủ can đảm, có thể tham gia chiến trận. Như vậy, này các Tỷ-kheo, con voi
 của vua kham nhẫn các hương. Và này các Tỷ-kheo, thế nào là con voi của vua kham nhẫn các vị?
 
-19. Ở đây, này các Tỷ-kheo, con voi của vua đi đến chiến trận, khinh miệt một máng cỏ và nước, hoặc
+<!--pg-->
+19\. Ở đây, này các Tỷ-kheo, con voi của vua đi đến chiến trận, khinh miệt một máng cỏ và nước, hoặc
 hai, hoặc ba, hoặc bốn hoặc năm máng cỏ và nước, không chùn chân, không rủn chí, có đủ can đảm, có
 thể tham gia chiến trận. Như vậy, này các Tỷ-kheo, con voi của vua kham nhẫn các vị. Và này các Tỷkheo, thế nào là con voi của vua kham nhẫn các xúc?
 
-20. Ở đây, này các Tỷ-kheo, con voi của vua đi đến chiến trận, khi bị một mũi tên bắn trúng, hoặc hai,
+<!--pg-->
+20\. Ở đây, này các Tỷ-kheo, con voi của vua đi đến chiến trận, khi bị một mũi tên bắn trúng, hoặc hai,
 hoặc ba, hoặc bốn, hoặc năm, không chùn chân, không rủn chí, có đủ can đảm, có thể tham gia chiến
 trận. Như vậy, này các Tỷ-kheo, là con voi của vua kham nhẫn các xúc.
 
@@ -343,24 +389,30 @@ và được gọi là biểu tượng của vua. Cũng vậy, này các Tỷ-kh
 được cung kính, đáng được tôn trọng, đáng được cúng dường, đáng được chắp tay, là vô thượng phước
 điền ở đời. Thế nào là năm?
 
-21. Ở đây, này các Tỷ-kheo, Tỷ-kheo kham nhẫn các sắc, kham nhẫn các tiếng, kham nhẫn các hương,
+<!--pg-->
+21\. Ở đây, này các Tỷ-kheo, Tỷ-kheo kham nhẫn các sắc, kham nhẫn các tiếng, kham nhẫn các hương,
 kham nhẫn các vị, kham nhẫn các xúc. Và này các Tỷ-kheo, thế nào là Tỷ-kheo kham nhẫn các sắc?
 
-22. Ở đây, này các Tỷ-kheo, Tỷ-kheo khi mắt thấy sắc, không tham đắm các sắc khả ái, có thể giữ tâm
+<!--pg-->
+22\. Ở đây, này các Tỷ-kheo, Tỷ-kheo khi mắt thấy sắc, không tham đắm các sắc khả ái, có thể giữ tâm
 định tĩnh. Như vậy, này các Tỷ-kheo, Tỷ-kheo kham nhẫn các sắc. Và này các Tỷ-kheo, thế nào là Tỷkheo kham nhẫn các tiếng?
 
-23. Ở đây, này các Tỷ-kheo, Tỷ-kheo khi tai nghe tiếng, không tham đắm các tiếng khả ái, có thể giữ
+<!--pg-->
+23\. Ở đây, này các Tỷ-kheo, Tỷ-kheo khi tai nghe tiếng, không tham đắm các tiếng khả ái, có thể giữ
 tâm định tĩnh. Như vậy, này các Tỷ-kheo, Tỷ-kheo kham nhẫn các tiếng. Và này các Tỷ-kheo, thế nào là
 Tỷ-kheo kham nhẫn các hương?
 
-24. Ở đây, này các Tỷ-kheo, Tỷ-kheo khi mũi ngửi các hương, không tham đắm các hương khả ái, có thể
+<!--pg-->
+24\. Ở đây, này các Tỷ-kheo, Tỷ-kheo khi mũi ngửi các hương, không tham đắm các hương khả ái, có thể
 giữ tâm định tĩnh. Như vậy, này các Tỷ-kheo, Tỷ-kheo kham nhẫn các hương. Và này các Tỷ-kheo, thế
 nào là Tỷ-kheo kham nhẫn các vị?
 
-25. Ở đây, này các Tỷ-kheo, Tỷ-kheo khi lưỡi nếm các vị, không tham đắm các vị khả ái, có thể giữ tâm
+<!--pg-->
+25\. Ở đây, này các Tỷ-kheo, Tỷ-kheo khi lưỡi nếm các vị, không tham đắm các vị khả ái, có thể giữ tâm
 định tĩnh. Như vậy, này các Tỷ-kheo, Tỷ-kheo kham nhẫn các vị. Và thế nào, này các Tỷ-kheo, là Tỷkheo kham nhẫn các xúc?
 
-26. Ở đây, này các Tỷ-kheo, Tỷ-kheo khi thân cảm các xúc, không tham đắm các xúc khả ái, có thể giữ
+<!--pg-->
+26\. Ở đây, này các Tỷ-kheo, Tỷ-kheo khi thân cảm các xúc, không tham đắm các xúc khả ái, có thể giữ
 tâm định tĩnh. Như vậy, này các Tỷ-kheo, Tỷ-kheo kham nhẫn các xúc.
 
 Thành tựu năm pháp này, này các Tỷ-kheo, đáng được cung kính, đáng được tôn trọng, đáng được cúng
@@ -368,30 +420,37 @@ dường, đáng được chắp tay, là vô thượng phước điền ở đ�
 
 **(X) (140) Biết Nghe**
 
-1. - Thành tựu năm pháp này, này các Tỷ-kheo, con voi của vua xứng đáng cho vua, là tài sản của vua,
+<!--pg-->
+1\. - Thành tựu năm pháp này, này các Tỷ-kheo, con voi của vua xứng đáng cho vua, là tài sản của vua,
 và được xem là một biểu tượng của vua. Thế nào là năm?
 
-2. Ở đây, này các Tỷ-kheo, con voi của vua biết nghe, biết sát hại, biết phòng hộ, biết kham nhẫn, biết đi
+<!--pg-->
+2\. Ở đây, này các Tỷ-kheo, con voi của vua biết nghe, biết sát hại, biết phòng hộ, biết kham nhẫn, biết đi
 đến. Và này các Tỷ-kheo, thế nào là con voi của vua biết nghe?
-3. Ở đây, này các Tỷ-kheo, con voi của vua, khi người nài sai làm một công tác hoặc đã làm từ trước,
+<!--pg-->
+3\. Ở đây, này các Tỷ-kheo, con voi của vua, khi người nài sai làm một công tác hoặc đã làm từ trước,
 hoặc chưa làm từ trước, nhiệt tâm tác ý, hoàn toàn chú tâm, lóng tai và nghe. Như vậy, này các Tỷ-kheo,
 là con voi của vua biết nghe. Và này các Tỷ-kheo, thế nào là con voi của vua biết sát hại?
 
-4. Ở đây, này các Tỷ-kheo, con voi của vua đi đến chiến trận, giết voi, giết kẻ cưỡi voi, giết ngựa, giết
+<!--pg-->
+4\. Ở đây, này các Tỷ-kheo, con voi của vua đi đến chiến trận, giết voi, giết kẻ cưỡi voi, giết ngựa, giết
 kẻ cưỡi ngựa, phá xe, giết kẻ cưỡi xe, giết các bộ binh. Như vậy, này các Tỷ-kheo, là con voi của vua
 biết sát hại. Và này các Tỷ-kheo, thế nào là con voi của vua biết phòng hộ?
 
-5. Ở đây, này các Tỷ-kheo, đi đến chiến trận, con voi của vua phòng hộ phần thân trước, phòng hộ phần
+<!--pg-->
+5\. Ở đây, này các Tỷ-kheo, đi đến chiến trận, con voi của vua phòng hộ phần thân trước, phòng hộ phần
 thân sau, phòng hộ đầu, phòng hộ tai, phòng hộ ngà, phòng hộ vòi, phòng hộ đuôi, phòng hộ người cưỡi
 voi. Như vậy, này các Tỷ-kheo, con voi của vua biết phòng hộ. Và này các Tỷ-kheo, thế nào là con voi
 của vua biết kham nhẫn?
 
-6. Ở đây, này các Tỷ-kheo, con voi của vua khi lâm trận, kham nhẫn bị thương đâm, kham nhẫn bị kiếm
+<!--pg-->
+6\. Ở đây, này các Tỷ-kheo, con voi của vua khi lâm trận, kham nhẫn bị thương đâm, kham nhẫn bị kiếm
 đâm, kham nhẫn bị trúng tên, kham nhẫn các thứ tiếng, như tiếng trống lớn, tiếng thanh la, tiếng tù và,
 tiếng trống nhỏ. Như vậy, này các Tỷ-kheo, con voi của vua biết kham nhẫn. Này các Tỷ-kheo, thế nào
 là con voi của vua biết đi đến?
 
-7. Ở đây, này các Tỷ-kheo, con voi của vua, khi người nài (huấn luyện voi) sai đi về hướng nào, hoặc
+<!--pg-->
+7\. Ở đây, này các Tỷ-kheo, con voi của vua, khi người nài (huấn luyện voi) sai đi về hướng nào, hoặc
 trước kia đã có đi, hay trước kia chưa có đi, liền mau mắn đi về chỗ ấy. Như vậy, này các Tỷ-kheo, con
 voi của vua biết đi đến.
 
@@ -400,20 +459,24 @@ và được gọi là một biểu tượng của vua. Cũng vậy, này các T
 xứng đáng được cung kính, xứng đáng được tôn trọng, xứng đáng được cúng dường, xứng đáng được
 chắp tay, là vô thượng phước điền ở đời. Thế nào là năm?
 
-8. Ở đây, này các Tỷ-kheo, Tỷ-kheo là người biết nghe, biết sát hại, biết phòng hộ, biết kham nhẫn, biết
+<!--pg-->
+8\. Ở đây, này các Tỷ-kheo, Tỷ-kheo là người biết nghe, biết sát hại, biết phòng hộ, biết kham nhẫn, biết
 đi đến. Và này các Tỷ-kheo, thế nào là Tỷ-kheo biết nghe?
 
-9. Ở đây, này các Tỷ-kheo, Tỷ-kheo khi Pháp và Luật do Như Lai thuyết được thuyết giảng, nhiệt tâm,
+<!--pg-->
+9\. Ở đây, này các Tỷ-kheo, Tỷ-kheo khi Pháp và Luật do Như Lai thuyết được thuyết giảng, nhiệt tâm,
 tác ý, hoàn toàn chú tâm lắng tai nghe pháp. Như vậy, này các Tỷ-kheo, là Tỷ-kheo biết nghe. Và này
 các Tỷ-kheo, thế nào là Tỷ-kheo biết sát hại?
 
-10. Ở dây, này các Tỷ-kheo, Tỷ-kheo đối với các dục tâm đã khởi lên, không có gìn giữ, nhưng từ bỏ,
+<!--pg-->
+10\. Ở dây, này các Tỷ-kheo, Tỷ-kheo đối với các dục tâm đã khởi lên, không có gìn giữ, nhưng từ bỏ,
 gột sạch, làm cho hoại diệt, làm cho đi đến không hiện hữu; đối với sân tầm đã sanh...đối với các hại
 tầm đã sanh...đối với các pháp ác, bất thiện đã sanh hay chưa sanh, không có gìn giữ nhưng từ bỏ, gột
 sạch, làm cho hoại diệt, làm cho đi đến không hiện hữu. Như vậy, này các Tỷ-kheo, là Tỷ-kheo biết sát
 hại. Và thế nào, này các Tỷ-kheo, là Tỷ-kheo biết phòng hộ?
 
-11. Ở đây, này các Tỷ-kheo, Tỷ-kheo khi mắt thấy sắc, không nắm giữ tướng chung, không nắm giữ
+<!--pg-->
+11\. Ở đây, này các Tỷ-kheo, Tỷ-kheo khi mắt thấy sắc, không nắm giữ tướng chung, không nắm giữ
 tướng riêng. Những nguyên nhân gì vì nhãn căn không được bảo vệ, khiến cho tham ái, ưu bi, các ác bất
 thiện pháp khởi lên, Tỷ-kheo tự chế ngự nguyên nhân ấy hộ trì nhãn căn, thực hành sự hộ trì nhãn căn.
 Khi tai nghe tiếng...khi mũi ngửi hương...khi lưỡi nếm vị...khi thân cảm xúc...khi ý nhận thức các pháp,
@@ -422,12 +485,14 @@ vị ấy không nắm giữ tướng chung, không nắm giữ tướng riêng.
 ấy, hộ trì ý căn, thực hành sự hộ trì ý căn. Như vậy, này các Ty-kheo, là Tỷ-kheo biết phòng hộ. Và này
 các Tỷ-kheo, thế nào là Tỷ-kheo biết kham nhẫn?
 
-12. Ở đây, này các Tỷ-kheo, Tỷ-kheo kham nhẫn lạnh, nóng, đói khát, sự xúc phạm của ruồi, muỗi, gió,
+<!--pg-->
+12\. Ở đây, này các Tỷ-kheo, Tỷ-kheo kham nhẫn lạnh, nóng, đói khát, sự xúc phạm của ruồi, muỗi, gió,
 sức nóng mặt trời, các loài bò sát, những cách nói mạ lỵ, phỉ báng, các cảm thọ về thân, những cảm thọ
 thống khổ, khốc liệt, nhói đau, chói đau, không sung sướng, không thích thú, chết điếng người. Như vậy,
 này các Tỷ-kheo, là Tỷ-kheo kham nhẫn. Và này các Tỷ-kheo, thế nào là vị Tỷ-kheo biết đi đến?
 
-13. Ở đây, này các Tỷ-kheo, phương hướng nào trước kia chưa từng đi, tại đây mọi hành được chỉ tịnh,
+<!--pg-->
+13\. Ở đây, này các Tỷ-kheo, phương hướng nào trước kia chưa từng đi, tại đây mọi hành được chỉ tịnh,
 mọi sanh y được từ bỏ, ái được đoạn diệt, ly tham, hoại diệt, Niết-bàn, vị ấy đi đến chỗ ấy một cách mau
 chóng. Như vậy, này các Tỷ-kheo, là vị Tỷ-kheo biết đi đến.
 
