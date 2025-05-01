@@ -46,7 +46,6 @@
 - [The Chapter on Messengers of the Gods](/kinhtangchi/sujato-en/03-004-the-chapter-on-messengers-of-the-gods.md)
 - [A Short Chapter](/kinhtangchi/sujato-en/03-005-a-short-chapter.md)
 - [The Chapter on Brahmins](/kinhtangchi/sujato-en/03-006-the-chapter-on-brahmins.md)
-- [The Great Chapter](/kinhtangchi/sujato-en/03-007-the-great-chapter-copy.md)
 - [The Great Chapter](/kinhtangchi/sujato-en/03-007-the-great-chapter.md)
 - [The Chapter with Ānanda](/kinhtangchi/sujato-en/03-008-the-chapter-with-ananda.md)
 - [The Chapter on Ascetics](/kinhtangchi/sujato-en/03-009-the-chapter-on-ascetics.md)

@@ -1,6 +1,3 @@
-- [Bìa](/kinhtangchi/c-sujato-tmc-en/cover)
-- [Giới thiệu](/kinhtangchi/c-sujato-tmc-en/index)
-- [Mục Lục](/kinhtangchi/c-sujato-tmc-en/mucluc)
 - [I. Phẩm Sắc](/kinhtangchi/c-sujato-tmc-en/01-001-pham-sac)
 - [II. Phẩm Ðoạn Triền Cái](/kinhtangchi/c-sujato-tmc-en/01-002-pham-doan-trien-cai)
 - [III. Phẩm Khó Sử Dụng](/kinhtangchi/c-sujato-tmc-en/01-003-pham-kho-su-dung)
@@ -87,3 +84,5 @@
 - [XXIV. Phẩm Nghiệp](/kinhtangchi/c-sujato-tmc-en/04-024-pham-nghiep)
 - [XXV. Phẩm Sợ Hãi Phạm Tội](/kinhtangchi/c-sujato-tmc-en/04-025-pham-so-hai-pham-toi)
 - [XXVI. Phẩm Thắng Trí](/kinhtangchi/c-sujato-tmc-en/04-026-pham-thang-tri)
+- [XXVII. Phẩm Nghiệp Ðạo](/kinhtangchi/c-sujato-tmc-en/04-027-pham-nghiep-dao)
+- [XXVIII. Phẩm Tham](/kinhtangchi/c-sujato-tmc-en/04-028-pham-tham)
