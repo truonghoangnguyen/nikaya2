@@ -2,11 +2,9 @@
 
 **(I) (101) Kesi**
 
-<!--pg-->
 1\. Rồi Kesi, người đánh xe điều phục ngựa đi đến Thế tôn, sau khi đến, đảnh lễ Thế tôn rồi ngồi xuống
 một bên. Thế tôn nói với Kesi, người đánh xe điều phục ngựa đang ngồi một bên:
 
-<!--pg-->
 2\. - Này Kesi, Ông là người đánh xe điều phục ngựa, có chế ngự. Và này Kesi, Ông nhiếp phục ngựa
 như thế nào?
 
@@ -49,7 +47,6 @@ rắn, thời Thế tôn làm gì với người ấy?
 không chịu nhiếp phục với lời nói cúng rắn, không chịu nhiếp phục với lời nói vừa mềm mỏng vừa cứng
 rắn, này Kesi, thời Ta giết hại người ấy!
 
-<!--pg-->
 4\. - Nhưng bạch Thế tôn, sát sanh không xứng đáng với Thế tôn. Tuy vậy, Thế tôn nói: “Này Kesi, Ta
 giết hại người ấy”.
 
@@ -66,9 +63,9 @@ trí nghĩ rằng không đáng được nói đến, không đáng được gi�
 được nói đến, không đáng được giáo giới. Thật vi diệu thay, bạch Thế tôn! Thật vi diệu thay, bạch Thế
 tôn! ... bắt đầu từ nay, mong Thế tôn nhận con làm đệ tử cư sĩ, cho đến mạng chung, con trọn đời quy
 ngưỡng.
+<!--pg-->
 **(II) (112) Tốc Ðộ**
 
-<!--pg-->
 1\. - Thành tựu với bốn chi phần, này các Tỷ-kheo, một con ngựa thuần thục hiền thiện của vua, xứng
 đáng cho nhà vua, là vật sở hữu của vua, được xem là biểu tượng của vua. Thế nào là bốn? Với trực
 tánh, với tốc độ, với nhẫn nhục, với thiện ngôn.
@@ -76,7 +73,6 @@ tánh, với tốc độ, với nhẫn nhục, với thiện ngôn.
 Thành tựu với bốn chi phần này, này các Tỷ-kheo, một con ngựa thuần thục, hiền thiện của vua, xứng
 đáng cho nhà vua, là vật sở hữu của vua, được xem là biểu tượng của vua.
 
-<!--pg-->
 2\. Cũng vậy, này các Tỷ-kheo, thành tựu với bốn pháp, Tỷ-kheo xứng đáng được cung kính, xứng đáng
 được tôn trọng, xứng đáng được chắp tay, là ruộng phước vô thượng ở đời. Thế nào là với bốn? Với trực
 tánh, với tốc độ, với kham nhẫn, với thiện ngôn.
@@ -84,9 +80,9 @@ tánh, với tốc độ, với kham nhẫn, với thiện ngôn.
 Thành tựu với bốn pháp này, này các Tỷ-kheo, Tỷ-kheo xứng đáng được cung kính, xứng đáng được tôn
 trọng, xứng đáng được chắp tay, xứng đáng được cúng dường, là ruộng phước vô thượng ở đời.
 
+<!--pg-->
 **(III) (113) Gậy Thúc Ngựa**
 
-<!--pg-->
 1\. - Có bốn loài ngựa hiền thiện thuần thục này, này các Tỷ-kheo, có mặt, hiện hữu ở đời. Thế nào là
 bốn?
 
@@ -95,14 +91,12 @@ bốn?
 nào?” Như vậy, này các Tỷ-kheo, ở đây là loại ngựa hiền thiện thuần thục. Này các Tỷ-kheo, đây là loại
 ngựa hiền thiện thuần thục thứ nhất, có mặt, hiện hữu ở đời.
 
-<!--pg-->
 2\. Lại nữa, này các Tỷ-kheo, ở đây có loài ngựa hiền thiện thuần thục, thấy bóng cây gậy thúc ngựa,
 không bị dao động, kích thích. Nhưng khi bị gậy thúc ngựa đâm vào lông, nó liền bị dao động, kích
 thích, nghĩ rằng: “Hôm nay, người đánh xe điều ngự ngựa sẽ bảo ta làm gì, và ta đáp ứng thế nào?” Như
 vậy, này các Tỷ-kheo, ở đây là loài ngựa hiền thiện thuần thục. Này các Tỷ-kheo, đây là loài ngựa hiền
 thiện thuần thục thứ hai, có mặt, hiện hữu ở đời.
 
-<!--pg-->
 3\. Lại nữa, này các Tỷ-kheo, ở đây có loài ngựa hiền thiện thuần thục, thấy bóng cây gậy thúc ngựa,
 không bị dao động, kích thích. Khi bị gậy thúc ngựa đâm vào lông, nó không bị dao động, kích thích.
 Nhưng khi bị cây gậy thúc ngựa đâm vào thịt, liền bị dao động, kích thích, nghĩ rằng: “Hôm nay, người
@@ -110,7 +104,6 @@ Nhưng khi bị cây gậy thúc ngựa đâm vào thịt, liền bị dao độ
 ngựa hiền thiện, thuần thục. Này các Tỷ-kheo, đây là loài ngựa hiền thiện thuần thục thứ ba, có mặt,
 hiện hữu ở đời.
 
-<!--pg-->
 4\. Lại nữa, này các Tỷ-kheo, ở đây có loài ngựa hiền thiện thuần thục, thấy bóng cây gậy thúc ngựa,
 không bị dao động, kích thích; bị cây gậy thúc ngựa đâm vào lông, không bị dao động, kích thích; bị cây
 gậy thúc ngựa đâm vào thịt, không bị dao động, kích thích; bị cây gậy thúc ngựa đâm vào xương, bị dao
@@ -120,7 +113,6 @@ ngựa hiền thiện, thuần thục thứ tư, có mặt, hiện hữu ở đ�
 
 Này các Tỷ-kheo, có bốn loài ngựa hiền thiện, thuần thục, có mặt, hiện hữu ở đời.
 
-<!--pg-->
 5\. Cũng vậy, này các Tỷ-kheo, có bốn hạng người hiền thiện, thuần thục này có mặt, hiện hữu ở đời. Thế
 nào là bốn?
 Ở đây, này các Tỷ-kheo, có hạng người hiền thiện, thuần thục nghe tại một làng hay thị trấn kia, có
@@ -131,7 +123,6 @@ thuần thục ấy, thấy bóng cây gậy thúc ngựa, bị dao động kíc
 người hiền thiện thuần thục này giống như ví dụ ấy. Như vậy, này các Tỷ-kheo, ở đây có hạng người
 hiền thiện. Này các Tỷ-kheo, đây là hạng người hiền thiện thuần thục thứ nhất có mặt, hiện hữu ở đời.
 
-<!--pg-->
 6\. Lại nữa, này các Tỷ-kheo, ở đây có hạng người hiền thiện, thuần thục không có nghe tại một làng hay
 thị trấn kia, có người đàn bà hay người đàn ông bị đau khổ hay bị mệnh chung, nhưng khi tự mình thấy
 người đàn bà hay người đàn ông khổ đau hay mệnh chung, người ấy do vậy bị dao động, kích thích. Bị
@@ -142,7 +133,6 @@ con người hiền thiện thuần thục này giống như ví dụ ấy. Như
 người hiền thiện. Này các Tỷ-kheo, đây là hạng người hiền thiện thuần thục thứ hai có mặt, hiện hữu ở
 đời.
 
-<!--pg-->
 7\. Lại nữa, này các Tỷ-kheo, ở đây có hạng người hiền thiện, thuần thục không có nghe tại một làng hay
 thị trấn kia, có người đàn bà hay người đàn ông bị khổ đau hay bị mệnh chung, không có tự mình thấy
 người đàn bà hay người đàn ông khổ đau hay mệnh chung. Nhưng, khi có một người bà con hay người
@@ -153,7 +143,6 @@ khi bị cây gậy thúc ngựa đâm vào thịt, bị dao động, kích thí
 hiền thiện thuần thục này giống như ví dụ ấy. Như vậy, này các Tỷ-kheo, ở đây có hạng người hiền
 thiện. Này các Tỷ-kheo, đây là hạng người hiền thiện thuần thục thứ ba có mặt, hiện hữu ở đời.
 
-<!--pg-->
 8\. Lại nữa, này các Tỷ-kheo, ở đây có hạng người hiền thiện thuần thục không có nghe tại một làng hay
 thị trấn kia, có người đàn bà hay người đàn ông bị khổ đau hay mệnh chung, không có tự mình thấy
 người đàn bà hay người đàn ông khổ đau hay bị mệnh chung, không có người bà con hay người đồng
@@ -168,27 +157,24 @@ thuần thục thứ tư có mặt, hiện hữu ở đời.
 
 Này các Tỷ-kheo, có bốn hạng người hiền thiện thuần thục này có mặt, hiện hữu ở đời.
 
+<!--pg-->
 **(IV) (114) Con Voi**
 
-<!--pg-->
 1\. - Thành tựu bốn chi phần này, này các Tỷ-kheo, con voi của vua xứng đáng cho vua, là tài sản của
 Vua, được xem là biểu tượng của vua. Thế nào là bốn?
 
 Ở đây, này các Tỷ-kheo, con voi của vua biết nghe, biết sát hại, biết nhẫn, biết đi đến.
 
-<!--pg-->
 2\. Và này các Tỷ-kheo, thế nào là con voi của vua biết nghe?
 Ở đây, này các Tỷ-kheo, con voi của vua, khi người nài sai làm một công tác, hoặc đã làm từ trước hay
 chưa làm từ trước, sau khi nhiệt tâm tác ý, hoàn toàn chú tâm lóng tai và lắng nghe. Như vậy, này các
 Tỷ-kheo, là con voi của vua biết nghe.
 
-<!--pg-->
 3\. Và này các Tỷ-kheo, thế nào là con voi của vua biết sát hại?
 
 Ở đây, này các Tỷ-kheo, con voi của vua sau khi đi đến chiến trận, giết voi, giết người cưỡi voi, giết
 ngựa, giết người cưỡi ngựa, giết hại xe, giết hại người cưỡi xe, giết các bộ binh. Như vậy, này các Tỷkheo, là con voi của vua biết sát hại.
 
-<!--pg-->
 4\. Và này các Tỷ-kheo, thế nào là con voi của vua biết kham nhẫn?
 
 Ở đây, này các Tỷ-kheo, con voi của vua sau khi đi đến chiến trường, chịu đựng cây giáo đâm, chịu
@@ -196,7 +182,6 @@ ngựa, giết người cưỡi ngựa, giết hại xe, giết hại người c
 tù và, tiếng trống nhỏ và các tiếng ồn ào khác. Như vậy, này các Tỷ-kheo, là con voi của vua biết kham
 nhẫn.
 
-<!--pg-->
 5\. Và này các Tỷ-kheo, thế nào là con voi của vua biết đi đến?
 
 Ở đây, này các Tỷ-kheo, con voi của vua, khi người nài sai đi đến hướng nào, hoặc trước kia đã có đi
@@ -206,18 +191,15 @@ của vua biết đi đến.
 Thành tựu với bốn pháp này, này các Tỷ-kheo, là con voi của vua xứng đáng là của vua, là tài sản của
 vua, đi đến làm biểu tượng của vua.
 
-<!--pg-->
 6\. Cũng vậy, này các Tỷ-kheo, thành tựu với bốn pháp, Tỷ-kheo xứng đáng được cung kính, xứng đáng
 được tôn trọng, xứng đáng được chắp tay, xứng đáng được cúng dường, là ruộng phước vô thượng ở
 đời. Thế nào là bốn? Ở đây, này các Tỷ-kheo, Tỷ-kheo biết nghe, biết sát hại, biết nhẫn, biết đi đến.
 
-<!--pg-->
 7\. Và này các Tỷ-kheo, thế nào là Tỷ-kheo biết nghe?
 
 Ở đây, này các Tỷ-kheo, Tỷ-kheo khi Pháp và Luật do Như Lai thuyết được thế thuyết giảng, sau khi
 nhiệt tâm tác ý hoàn toàn, chú tâm và lắng nghe. Như vậy, này các Tỷ-kheo, là Tỷ-kheo biết nghe.
 
-<!--pg-->
 8\. Và này các Tỷ-kheo, thế nào là Tỷ-kheo biết sát hại?
 
 Ở đây, này các Tỷ-kheo, Tỷ-kheo không có chấp nhận dục tầm đã khởi lên, từ bỏ, gạn lọc, chấm dứt,
@@ -225,7 +207,6 @@ làm cho không hiện hữu, không có chấp nhận sân tầm đã khởi l�
 khởi lên, từ bỏ, gạn lọc, chấm dứt, làm cho không hiện hữu. Như vậy, này các Tỷ-kheo, là Tỷ-kheo biết
 sát hại.
 
-<!--pg-->
 9\. Và này các Tỷ-kheo, thế nào là Tỷ-kheo biết kham nhẫn?
 
 Ở đây, này các Tỷ-kheo, Tỷ-kheo kham nhẫn lạnh, kham nhẫn nóng, kham nhẫn đói, khát, sự xúc chạm
@@ -233,7 +214,6 @@ của ruồi, muỗi, gió, sức nóng mặt trời, các loài bò sát, kham 
 chịu đựng các cảm thọ về thân, khổ đau, nhói đau, mãnh liệt, không khả hỷ, không khả ý, chết điếng
 người. Như vậy, này các Tỷ-kheo, là Tỷ-kheo biết kham nhẫn.
 
-<!--pg-->
 10\. Và này các Tỷ-kheo, thế nào là Tỷ-kheo biết đi?
 Ở đây, này các Tỷ-kheo, Tỷ-kheo theo phương hướng nào từ trước chưa từng đi, tại đấy, mọi hành được
 chỉ tịnh, mọi sanh y được từ bỏ, ái được đoạn diệt. Niết-bàn, vị ấy đi đến chỗ ấy một cách mau chóng.
@@ -242,6 +222,7 @@ Như vậy, này các Tỷ-kheo, là Tỷ-kheo biết đi.
 Thành tựu với bốn pháp này, này các Tỷ-kheo, Tỷ-kheo xứng đáng được cung kính, xứng đáng được tôn
 trọng, xứng đáng được chắp tay, xứng đáng được cúng dường, là ruộng phước vô thượng ở đời.
 
+<!--pg-->
 **(V) (115) Các Trường Hợp**
 
 − Này các Tỷ-kheo, có bốn trường hợp này. Thế nào là bốn?
@@ -250,14 +231,12 @@ Có trường hợp, này các Tỷ-kheo, làm không thích ý, đưa đến kh
 hợp, này các Tỷ-kheo, làm không thích ý, đưa đến lợi ích cho người làm. Có trường hợp, này các Tỷkheo, làm được thích ý, không đưa đến lợi ích cho người làm. Có trường hợp, này các Tỷ-kheo, làm
 được thích ý, đưa đến lợi ích cho người làm.
 
-<!--pg-->
 2\. Tại đây, này các Tỷ-kheo, trường hợp này làm không thích ý; không đem lại lợi ích cho người làm;
 trong trường hợp này, này các Tỷ-kheo, nghĩ rằng về cả hai phương diện không nên làm. Trường hợp
 này làm không thích ý, đây là trường hợp nghĩ rằng không nên làm. Trường hợp làm không đem lại lợi
 ích cho người làm, đây là trường hợp nghĩ rằng không nên làm. Ðây là trường hợp, này các Tỷ-kheo,
 nghĩ rằng về cả hai phương diện không nên làm.
 
-<!--pg-->
 3\. Tại đây, này các Tỷ-kheo, trường hợp này làm không thích ý, nhưng đem lại lợi ích cho người làm;
 trong trường hợp này, này các Tỷ-kheo, người ta có thể biết kẻ ngu, bậc trí, về sức kiên trì của con
 người, tinh tấn của con người, nỗ lực của con người. Và này các Tỷ-kheo, người ngu không suy xét
@@ -267,7 +246,6 @@ Còn người trí, này các Tỷ-kheo, suy xét rằng: “Dầu trường h�
 trường hợp này đem lại lợi ích cho người làm”. Người ấy làm trường hợp này. Do làm trường hợp này,
 nên đem lại lợi ích cho người ấy.
 
-<!--pg-->
 4\. Tại đây, này các Tỷ-kheo, trường hợp này làm được thích ý, nhưng không đem lại lợi ích cho người
 làm; trong trường hợp này, này các Tỷ-kheo, người ta có thể biết kẻ ngu, bậc trí, về sức kiên trì của con
 người, tinh tấn của con người, nỗ lực của con người. Này các Tỷ-kheo, người ngu không suy xét rằng:
@@ -277,7 +255,6 @@ trường hợp này không đem lại lợi ích cho người ấy. Còn ngư�
 “Dầu trường hợp này làm được thích ý, nhưng không đem lại lợi ích cho người làm”. Vị ấy không làm
 trường hợp này, do không làm trường hợp này, nên đem lại lợi ích cho người ấy.
 
-<!--pg-->
 5\. Tại đây, này các Tỷ-kheo, trường hợp này làm được thích ý, và đem lại lợi ích cho người làm; trong
 trường hợp này, này các Tỷ-kheo, nghĩ rằng về cả hai phương diện đều nên làm. Trường hợp này, làm
 được thích ý, đây là trường hợp nghĩ rằng cần phải làm. Trường hợp này đem lại lợi ích cho người làm,
@@ -286,8 +263,8 @@ phương diện đều phải làm.
 
 Này các Tỷ-kheo, có bốn trường hợp này.
 
-**(VI) (116) Không Phóng Dật**
 <!--pg-->
+**(VI) (116) Không Phóng Dật**
 1\. - Trong bốn trường hợp, này các Tỷ-kheo, cần phải không phóng dật. Thế nào là bốn?
 
 Hãy từ bỏ thân làm ác, này các Tỷ-kheo, hãy tu tập thân làm lành, và ở đây chớ có phóng dật. Hãy từ bỏ
@@ -295,13 +272,12 @@ lời nói ác, này các Tỷ-kheo, hãy tu tập lời nói lành, và ở đ�
 các Tỷ-kheo, hãy tu tập ý nghĩ lành, và ở đây chớ có phóng dật. Hãy từ bỏ tà kiến, này các Tỷ-kheo, hãy
 tu tập chánh kiến, và ở đây chớ có phóng dật.
 
-<!--pg-->
 2\. Khi nào, này các Tỷ-kheo, Tỷ-kheo đã từ bỏ thân làm ác, tu tập thân làm lành ... (như trên) ... đã từ bỏ
 tà kiến, đã tu tập chánh kiến, vị ấy không sợ hãi về đời sau, về chết.
 
+<!--pg-->
 **(VII) (117) Hộ Trì**
 
-<!--pg-->
 1\. - Trong bốn trường hợp, này các Tỷ-kheo, không phóng dật, niệm và tâm hộ trì cần phải làm do tự
 mình. Thế nào là bốn?
 
@@ -312,16 +288,15 @@ pháp khiến cho si mê, tâm ta chớ có si mê!”, không phóng dật, ni�
 rằng đối với các pháp khiến cho say đắm, tâm ta chớ có say đắm!”, không phóng dật, niệm và tâm hộ trì
 cần phải làm do tự mình.
 
-<!--pg-->
 2\. Khi nào, này các Tỷ-kheo, Tỷ-kheo đối với các pháp khiến cho tham đắm, tâm không tham đắm, tự
 ngã được ly tham; đối với các pháp khiến cho sân hận, tâm không sân hận, tự ngã được ly sân đối với
 các pháp khiến cho si mê, tâm không si mê, tự ngã được ly si; đối với các pháp khiến cho say đắm, tâm
 không say đắm, tự ngã được ly đắm say; thời vị ấy không có sợ hãi, không có dao động, không có hốt
 hoảng, không rơi vào hoảng sợ, không có đi do nhân các Sa-môn có nói gì.
 
+<!--pg-->
 **(VIII) (118) Xúc Ðộng**
 
-<!--pg-->
 1\. - Có bốn trú xứ, này các Tỷ-kheo, khi một tín nam thấy cần phải xúc động mãnh liệt. Thế nào là bốn?
 
 Ở đây, này các Tỷ-kheo, Như Lai sanh. Ðây là trú xứ khi một tín nam thấy, cần phải xúc động mãnh liệt.
@@ -332,6 +307,7 @@ nhập Niết-bàn giới, không có dư. Ðây là trú xứ khi một tín na
 
 Có bốn trú xứ, này các Tỷ-kheo, khi một tín nam thấy cần phải xúc động mãnh liệt.
 
+<!--pg-->
 **(IX) (119) Sợ Hãi (1)**
 
 − Này các Tỷ-kheo, có bốn sự sợ hãi này. Thế nào là bốn? Sợ hãi về sanh, sợ hãi về già, sợ hãi về bệnh,
@@ -339,6 +315,7 @@ sợ hãi về chết.
 
 − Này các Tỷ-kheo, có bốn sự sợ hãi này.
 
+<!--pg-->
 **(X) (120) Sợ Hãi (2)**
 
 − Này các Tỷ-kheo, có bốn sự sợ hãi này. Thế nào là bốn? Sợ hãi về lửa, sợ hãi về nước, sợ hãi về vua,

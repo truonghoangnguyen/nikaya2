@@ -1,31 +1,26 @@
 # X. Phẩm Asura (A-tu-la)
 
 **(I) (91) Các A Tu La**
-<!--pg-->
 1\. - Này các Tỷ-kheo, có bốn hạng người này có mặt, hiện hữu ở đời. Thế nào là bốn?
 
 A-tu-la với quyến thuộc A-tu-la, A-tu-la với quyến thuộc chư Thiên; chư Thiên với quyến thuộc A-tu-la;
 chư Thiên với quyến thuộc chư Thiên.
 
-<!--pg-->
 2\. Và này các Tỷ-kheo, thế nào là hạng người A-tu-la với quyến thuộc A-tu-la?
 
 Ở đây, này các Tỷ-kheo, có hạng người ác giới, theo ác pháp, hội chúng của người ấy cũng ác giới, theo
 ác pháp. Như vậy, này các Tỷ-kheo, là hạng người A-tu-la với quyến thuộc A-tu-la.
 
-<!--pg-->
 3\. Và này các Tỷ-kheo, thế nào là hạng người A-tu-la với quyến thuộc chư Thiên?
 
 Ở đây, này các Tỷ-kheo, có hạng người ác giới, theo ác pháp, nhưng hội chúng của người ấy có giới,
 theo pháp hành. Như vậy này các Tỷ-kheo, là hạng người A-tu-la với quyến thuộc chư Thiên.
 
-<!--pg-->
 4\. Và này các Tỷ-kheo, thế nào là hạng người chư Thiên với quyến thuộc A-tu-la?
 
 Ở đây, này các Tỷ-kheo, có hạng người giữ giới, theo pháp lành, còn hội chúng của người ấy ác giới,
 theo ác pháp. Như vậy, này các Tỷ-kheo, là hạng người chư Thiên với quyến thuộc A-tu-la.
 
-<!--pg-->
 5\. Và này các Tỷ-kheo, thế nào là hạng chư Thiên với quyến thuộc chư Thiên?
 
 Ở đây, này các Tỷ-kheo, có hạng người có giới, theo pháp lành, và hội chúng của người ấy cũng có giới,
@@ -33,6 +28,7 @@ theo pháp lành. Như vậy, này các Tỷ-kheo, là hạng người chư Thi�
 
 Bốn hạng người này, này các Tỷ-kheo, có mặt, hiện hữu ở đời.
 
+<!--pg-->
 **(II) (92) Ðịnh (1)**
 
 − Có bốn hạng người này, này các Tỷ-kheo, có mặt, hiện hữu ở đời. Thế nào là bốn?
@@ -45,9 +41,9 @@ pháp quán.
 
 Này các Tỷ-kheo, bốn hạng người này có mặt, hiện hữu ở đời.
 
+<!--pg-->
 **(III) (93) Ðịnh (2)**
 
-<!--pg-->
 1\. - Có bốn hạng người này, này các Tỷ-kheo, có mặt, hiện hữu ở đời. Thế nào là bốn?
 
 Ở đây, này các Tỷ-kheo, có hạng người được nội tâm chỉ, không được tăng thượng tuệ pháp quán. Ở
@@ -55,17 +51,14 @@ Này các Tỷ-kheo, bốn hạng người này có mặt, hiện hữu ở đ�
 Ở đây, này các Tỷ-kheo, có hạng người không được nội tâm chỉ, không được tăng thượng tuệ pháp
 quán. Ở đây, này các Tỷ-kheo, có hạng người được nội tâm chỉ, cũng được tăng thượng tuệ pháp quán.
 
-<!--pg-->
 2\. Tại đấy, này các Tỷ-kheo, hạng người này được nội tâm chỉ, không được tăng thượng tuệ pháp quán.
 Sau khi người ấy an trú nội tâm chỉ, chú tâm thực hành tăng thượng tuệ pháp quán, người ấy, sau một
 thời gian được nội tâm chỉ, và được tăng thượng tuệ pháp quán.
 
-<!--pg-->
 3\. Tại đấy, này các Tỷ-kheo, hạng người này được tăng thượng tuệ pháp quán, không được nội tâm chỉ.
 Sau khi người ấy an trú trên tăng thượng tuệ pháp quán, chú tâm thực hành nội tâm chỉ; người ấy sau
 một thời gian được tăng thượng tuệ pháp quán, và được nội tâm chỉ.
 
-<!--pg-->
 4\. Tại đấy, này các Tỷ-kheo, hạng người này, không được nội tâm chỉ, không được tăng thượng tuệ pháp
 quán. Người ấy, này các Tỷ-kheo, để chứng đắc các thiện pháp ấy, cần phải thực hiện tăng thượng ý
 muốn, tinh tấn, cố gắng, nỗ lực, tâm không thối chuyển, chánh niệm, tỉnh giác.
@@ -76,16 +69,15 @@ vậy, này các Tỷ-kheo, người ấy, để chứng đắc các thiện ph�
 muốn, tinh tấn, cố gắng, nỗ lực, tâm không thối chuyển, chánh niệm, tỉnh giác. Sau một thời gian, vị ấy
 thành người có được nội tâm chỉ và tăng thượng tuệ pháp quán.
 
-<!--pg-->
 5\. Tại đấy, này các Tỷ-kheo, hạng người này có được nội tâm chỉ, có được tăng thượng tuệ pháp quán,
 người ấy, này các Tỷ-kheo, sau khi an trú trong các thiện pháp ấy, cần phải chú tâm tu tập hơn nữa để
 đoạn diệt các lậu hoặc.
 
 Này các Tỷ-kheo, bốn hạng người này có mặt, hiện hữu ở đời.
 
+<!--pg-->
 **(IV) (94) Thiền Ðịnh**
 
-<!--pg-->
 1\. - Này các Tỷ-kheo, có bốn hạng người này có mặt, hiện hữu ở đời. Thế nào là bốn?
 
 Ở đây, này các Tỷ-kheo, có hạng người chứng được nội tâm chỉ, không chứng được tăng thượng tuệ
@@ -94,7 +86,6 @@ chứng được nội tâm chỉ. Ở đây, này các Tỷ-kheo, có hạng ng
 chứng được tăng thượng tuệ pháp quán. Ở đây, này các Tỷ-kheo, có hạng người chứng được nội tâm
 chỉ, chứng được tăng thượng tuệ pháp quán.
 
-<!--pg-->
 2\. Tại đây, này các Tỷ-kheo, hạng người này chứng được nội tâm chỉ... (xem 93, 2). Sau khi đi đến hạng
 người chứng được tăng thượng tuệ pháp quán, người này cần phải nói như sau: “Thưa Hiền giả, các
 hành cần phải thấy thế nào, các hành cần phải biết thế nào, các hành cần phải quán thế nào?”. Người ấy
@@ -102,7 +93,6 @@ trả lời cho vị này: “Như đã được thấy, như đã được bi�
 thấy; như vậy, các hành cần phải được biết; như vậy, các hành cần phải quán”. Vị này sau một thời gian,
 chứng được nội tâm chỉ, chứng được tăng thượng tuệ pháp quán.
 
-<!--pg-->
 3\. Tại đấy, này các Tỷ-kheo, hạng người này chứng được tăng thượng tuệ pháp quán, không chứng được
 nội tâm chỉ. Người này sau khi đi đến hạng người chứng được nội tâm chỉ này, cần phải nói như sau:
 “Thưa Hiền giả, tâm cần phải an lập thế nào? Tâm cần phải an trú thế nào. Tâm cần phải nhứt tâm thế
@@ -111,7 +101,6 @@ như vậy, thưa Hiền giả, tâm cần phải an lập; như vậy, tâm c�
 tâm; như vậy, tâm cần phải định tĩnh.” Vị ấy sau một thời gian, chứng được tăng thượng tuệ pháp quán,
 chứng được nội tâm chỉ.
 
-<!--pg-->
 4\. Tại đấy, này các Tỷ-kheo, hạng người này không chứng được nội tâm chỉ, không chứng được tăng
 thượng tuệ pháp quán. Người này, này các Tỷ-kheo, sau khi đi đến hạng người chứng nội tâm chỉ, chứng
 được tăng thượng tuệ pháp quán, người này cần phải nói như sau: “thưa Hiền giả, tâm cần phải an lập
@@ -122,34 +111,30 @@ an lập; như vậy, tâm cần phải an trú. Như vậy, tâm cần phải n
 như vậy, các hành cần phải thấy; như vậy, các hành cần phải biết; như vậy, các hành cần phải quán”. Vị
 ấy, sau một thời gian chứng được nội tâm chỉ, chứng được tăng thượng tuệ pháp quán.
 
-<!--pg-->
 5\. Tại đấy, này các Tỷ-kheo, hạng người này chứng được nội tâm chỉ, chứng được tăng thượng tuệ pháp
 quán. Vị này, này các Tỷ-kheo, sau khi an trú trong các thiện pháp, cần phải tu tập chú tâm vào sự đoạn
 diệt các lậu hoặc.
 
 Này các Tỷ-kheo, bốn hạng người này có mặt hiện hữu ở đời.
 
+<!--pg-->
 **(V) (95) Que Lửa**
 
-<!--pg-->
 1\. - Này các Tỷ-kheo, có bốn hạng người có mặt, hiện hữu ở đời. Thế nào là bốn?
 
 Không hướng đến lợi mình, lợi người; hướng đến lợi người, không lợi mình; hướng đến lợi mình, không
 lợi người; hướng đến lợi mình và lợi người.
 
-<!--pg-->
 2\. Ví như, này các Tỷ-kheo, một que lửa lấy từ đống lửa thiêu xác, hai đầu đều cháy đỏ, ở giữa được trét
 với phân, không có tác dụng là đồ chụm lửa ở làng, hay ở rừng. Này các Tỷ-kheo, Ta tuyên bố rằng
 người này giống như ví dụ ấy, tức là người không hướng đến lợi mình và lợi người.
 
-<!--pg-->
 3\. Tại đây, này các Tỷ-kheo, hạng người này hướng đến lợi người không lợi mình. Người này so với hai
 hạng người kia, vi diệu hơn, thù thắng hơn. Ở đây, này các Tỷ-kheo, hạng người này hướng đến lợi
 mình không lơị người. Hạng người này so với hai hạng người kia, vi diệu hơn thù thắng hơn. Tại đây,
 này các Tỷ-kheo, hạng người này hướng đến lợi mình và lợi người, hạng người này so với bốn hạng
 người trên, là tối thượng, tối thắng, thượng thủ, vô thượng và cực thắng.
 
-<!--pg-->
 4\. Ví như, này các Tỷ-kheo, từ bò có sữa, từ sữa có lạc, từ lạc có sanh tô, từ sanh tô có thục tô, từ thục tô
 có đề hồ và đây gọi là tối thượng. Cũng vậy, này các Tỷ-kheo, hạng người này hướng đến lợi mình và
 lợi người, hạng người này so với bốn hạng người trên là tối thượng, tối thắng, thượng thủ, vô thượng và
@@ -157,16 +142,15 @@ cực thắng.
 
 Bốn hạng người này, này các Tỷ-kheo, có mặt, hiện hữu ở đời.
 
+<!--pg-->
 **(VI) (96) Lợi Mình (1)**
 
-<!--pg-->
 1\. - Này các Tỷ-kheo, có bốn hạng người này có mặt, hiện hữu ở đời. Thế nào là bốn?
 
 Hạng người hướng đến lợi mình, không lợi người; hạng người hướng đến lợi người, không lợi mình;
 hạng người không hướng đến lợi mình, không hướng đến lợi người; hạng người hướng đến lợi mình và
 lợi người.
 
-<!--pg-->
 2\. Và này các Tỷ-kheo, thế nào là hạng người hướng đến lợi mình, không lợi người?
 
 Ở đây, này các Tỷ-kheo, có hạng người hướng đến nhiếp phục tham cho mình, không khích lệ người
@@ -174,7 +158,6 @@ khác nhiếp phục tham, hướng đến nhiếp phục sân cho mình... nhi�
 người khác nhiếp phục si. Như vậy, này các Tỷ-kheo, là hạng người hướng đến lợi mình, không lợi
 người.
 
-<!--pg-->
 3\. Và này các Tỷ-kheo, thế nào là hạng người hướng đến lợi người, không lợi mình?
 
 Ở đây, này các Tỷ-kheo, có hạng người không hướng đến nhiếp phục tham cho tự mình, khích lệ nhiếp
@@ -182,14 +165,12 @@ phục tham cho người, không hướng đến nhiếp phục sân cho tự m�
 cho tự mình, khích lệ nhiếp phục si cho người. Như vậy, này các Tỷ-kheo, là hạng người hướng đến lợi
 người, không lợi mình.
 
-<!--pg-->
 4\. Và này các Tỷ-kheo, thế nào là hạng người không hướng đến lợi mình, không hướng đến lợi người?
 
 Ở đây, này các Tỷ-kheo, có hạng người không hướng đến nhiếp phục tham cho tự mình, không khích lệ
 người khác nhiếp phục tham, không nhiếp phục sân cho tự mình, không khích lệ người khác nhiếp phục
 sân... không nhiếp phục si cho tự mình, không khích lệ người khác nhiếp phục si. Như vậy, này các Tỷkheo, là hạng người không hướng đến lợi mình, không hướng đến lợi người.
 
-<!--pg-->
 5\. Và này các Tỷ-kheo, thế nào là hạng người hướng đến lợi mình và lợi người?
 
 Ở đây, này các Tỷ-kheo, có hạng người hướng đến nhiếp phục tham cho tự mình, và khích lệ người khác
@@ -199,12 +180,11 @@ và cho người.
 
 Này các Tỷ-kheo, bốn hạng người này có mặt, hiện hữu ở đời.
 
+<!--pg-->
 **(VII) (97) Lợi Ích Cho Mình (2)**
 
-<!--pg-->
 1\. (Như kinh (96), đoạn đầu)
 
-<!--pg-->
 2\. - Và này các Tỷ-kheo, thế nào là hạng người hướng đến lợi mình, không lợi người?
 
 Ở đây, này các Tỷ-kheo, có hạng người, mau mắn nhận xét trong các thiện pháp, thọ trì các pháp đã
@@ -214,7 +194,6 @@ ràng, khiến cho nghĩa lý được minh bạch; không phải là người t
 khởi, làm cho hoan hỷ các vị đồng Phạm hạnh. Như vậy, này các Tỷ-kheo, là hạng người hướng đến lợi
 mình, không có lợi người.
 
-<!--pg-->
 3\. Và này các Tỷ-kheo, thế nào là hạng người hướng đến lợi người, không có lợi mình?
 
 Ở đây, này các Tỷ-kheo, có hạng người không mau mắn nhận xét trong các thiện pháp, không thọ trì các
@@ -224,7 +203,6 @@ xác rõ ràng, khiến cho nghĩa lý được minh bạch; là người thuy�
 cho hoan hỷ các vị đồng Phạm hạnh. Như vậy, này các Tỷ-kheo, là hạng người hướng đến lợi người,
 không có lợi mình.
 
-<!--pg-->
 4\. Và này các Tỷ-kheo, thế nào là hạng người, không hướng đến lợi mình và lợi người?
 
 Ở đây, này các Tỷ-kheo, có hạng người không có mau mắn nhận xét trong các thiện pháp... không có
@@ -232,7 +210,6 @@ sau khi hiểu nghĩa, hiểu pháp, thực hành pháp, tùy pháp; không ph�
 cho hoan hỷ các vị đồng Phạm hạnh. Như vậy này các Tỷ-kheo, là hạng người không hướng đến lợi
 mình và lợi người.
 
-<!--pg-->
 5\. Và này các Tỷ-kheo, thế nào là hạng người hướng đến lợi mình và lợi người?
 
 Ở đây, này các Tỷ-kheo, có hạng người mau mắn nhận xét trong các thiện pháp... sau khi hiểu nghĩa,
@@ -241,6 +218,7 @@ Phạm hạnh. Như vậy, này các Tỷ-kheo, là hạng người hướng đ�
 
 Này các Tỷ-kheo, có bốn hạng người có mặt, hiện hữu ở đời.
 
+<!--pg-->
 **(VIII) (98) Lợi Mình(3)**
 
 − Này các Tỷ-kheo, có bốn hạng người có mặt, hiện hữu ở đời. Thế nào là bốn?
@@ -250,15 +228,14 @@ lợi người; hướng đến lợi mình, lợi người.
 
 Này các Tỷ-kheo, có bốn hạng người này có mặt, hiện hữu ở đời.
 
+<!--pg-->
 **(IX) (99) Những Học Pháp**
 
-<!--pg-->
 1\. - Này các Tỷ-kheo, có bốn hạng người có mặt, hiện hữu ở đời. Thế nào là bốn?
 
 Hướng đến lợi mình, không lợi người; hướng đến lợi người, không lợi mình; không hướng đến lợi mình,
 lợi người; hướng đến lợi mình, lợi người.
 
-<!--pg-->
 2\. Và này các Tỷ-kheo, thế nào là hạng người hướng đến lợi mình, không lợi người?
 
 Ở đây, này các Tỷ-kheo, có hạng người tự mình từ bỏ sát sanh, không khích lệ người khác từ bỏ sát
@@ -267,7 +244,6 @@ bỏ tà hạnh trong các dục, không khích lệ người khác từ bỏ t�
 say rượu men, rượu nấu; nhưng không khích lệ người khác từ bỏ đắm say rượu men, rượu nấu. Như vậy,
 này các Tỷ-kheo, là hạng người hướng đến lợi mình, không lợi người.
 
-<!--pg-->
 3\. Và này các Tỷ-kheo, thế nào là hạng người hướng đến lợi người, không lợi mình?
 
 Ở đây, này các Tỷ-kheo, có hạng người tự mình không từ bỏ sát sanh, khích lệ người khác từ bỏ sát
@@ -276,7 +252,6 @@ không từ bỏ nói láo... tự mình không từ bỏ đắm say rượu men
 say rượu men, rượu nấu. Như vậy, này các Tỷ-kheo, là hạng người hướng đến lợi người, không lợi
 mình.
 
-<!--pg-->
 4\. Và này các Tỷ-kheo, thế nào là hạng người không hướng đến lợi mình, lợi người?
 
 Ở đây, này các Tỷ-kheo, có hạng người tự mình không từ bỏ sát sanh, không khích lệ người khác từ bỏ
@@ -285,7 +260,6 @@ mình không từ bỏ nói láo... tự mình không từ bỏ đắm say rư�
 khác từ bỏ đắm say rượu men, rượu nấu. Như vậy, này các Tỷ-kheo, là hạng người không hướng đến lợi
 mình, lợi người.
 
-<!--pg-->
 5\. Và này các Tỷ-kheo, thế nào là hạng người hướng đến lợi mình, lợi người?
 
 Ở đây, này các Tỷ-kheo, có hạng người tự mình từ bỏ sát sanh, khích lệ người khác từ bỏ sát sanh; tự
@@ -296,14 +270,13 @@ lợi mình và lợi người.
 
 Này các Tỷ-kheo, có bốn hạng người này có mặt, hiện hữu ở đời.
 
+<!--pg-->
 **(X) (100) Potaliya**
 
-<!--pg-->
 1\. Rồi du sĩ Potaliya đi đến Thế Tôn, sau khi đến, nói lên với Thế Tôn những lời chào đón hỏi thăm, sau
 khi nói lên những lời chào đón hỏi thăm thân hưu, rồi ngồi xuống một bên. Thế Tôn nói với du sĩ
 Potaliya đang ngồi một bên:
 
-<!--pg-->
 2\. - Này Potaliya, có bốn hạng người này có mặt, hiện hữu ở đời. Thế nào là bốn?
 
 Ở đây, này Potaliya, có hạng người nói lời không tán thán đối với người không đáng được tán thán,
@@ -317,7 +290,6 @@ có hạng người không nói lời không tán thán đối với hạng ngư
 không đáng tán thán, đúng sự kiện, đúng sự thật, đúng thời; và nói lời tán thán đối với hạng người đáng
 được tán thán, đúng sự kiện, đúng sự thật, đúng thời.
 
-<!--pg-->
 3\. Này Potaliya, có bốn hạng người này có mặt, hiện hữu ở đời. Này Potaliya, trong bốn hạng người này
 hạng người nào Ông chấp nhận là vi diệu hơn, thù thắng hơn?
 
@@ -340,7 +312,6 @@ với hạng người không đáng được tán thán, đúng sự kiện, đ�
 với tôi đáng được chấp nhận là vi diệu hơn, thù thắng hơn trong bốn hạng người trên. Vì cớ sao? Thưa
 Tôn giả Gotama, thật là vi diệu tức là xả này.
 
-<!--pg-->
 4\. - Này Potaliya, có bốn hạng người này có mặt, hiện hữu ở đời. Thế nào là bốn?... Này Potaliya, có
 bốn hạng người này... ở trong đời. Này Potaliya, trong bốn hạng người này, này Potaliya, hạng người
 này, nói lời không tán thán đối với hạng người không đáng được tán thán, đúng sự kiện, đúng sự thật,
@@ -348,7 +319,6 @@ này, nói lời không tán thán đối với hạng người không đáng đ
 hạng người này vi hơn, thù thắng hơn, đối với bốn hạng người trên. Vì cớ sao? Này Potaliya, thật là vi
 diệu, tức là tại đây, tại đây rõ biết đúng thời.
 
-<!--pg-->
 5\. - Thưa Tôn giả Gotama, có bốn hạng người... hiện hữu ở đời. Thế nào là bốn?... Thưa Tôn giả
 Gotama, có bốn hạng người này có mặt, hiện hữu ở đời. Trong bốn hạng người này, thưa Tôn giả
 Gotama, hạng người nói lời không tán thán đối với hạng người không đáng tán thán... nói lời tán thán

@@ -12,15 +12,33 @@ import nanamoli_bodhi_en_intro  from '../kinhtrungbo/nanamoli-bodhi-en/intro/fil
 import nanamoli_bodhi_vi        from '../kinhtrungbo/nanamoli-bodhi-vi/filelist';
 import nanamoli_bodhi_vi_intro  from '../kinhtrungbo/nanamoli-bodhi-vi/intro/filelist';
 
-import kinhtangchi_thichminhchau from '../kinhtangchi/thichminhchau/filelist';
-import kinhtangchi_sujato_en from '../kinhtangchi/sujato-en/filelist';
-import kinhtangchi_sujato_vi from '../kinhtangchi/sujato-vi/filelist';
-import kinhtangchi_sujato_vi_intro from '../kinhtangchi/sujato-vi/intro/filelist';
+import kinhtangchi_thichminhchau from '../kinhtangchi/thichminhchau/meta/filelist';
+import kinhtangchi_sujato_en from '../kinhtangchi/sujato-en/meta/filelist';
+import kinhtangchi_sujato_vi from '../kinhtangchi/sujato-vi/meta/filelist';
+// import kinhtangchi_sujato_vi_intro from '../kinhtangchi/sujato-vi/intro/filelist';
 
 //@ts-ignore
 import fs from 'fs';
 //@ts-ignore
 import path from 'path';
+
+const BOOK_NAV = {
+  'kinhtrungbo/thichminhchau': mn_thichminhchau,
+  'kinhtrungbo/nanamoli-bodhi-en': nanamoli_bodhi_en,
+  'kinhtrungbo/nanamoli-bodhi-en/intro': nanamoli_bodhi_en_intro,
+  'kinhtrungbo/nanamoli-bodhi-vi': nanamoli_bodhi_vi,
+  'kinhtrungbo/nanamoli-bodhi-vi/intro': nanamoli_bodhi_vi_intro,
+
+  'kinhtruongbo/thichminhchau': dn_thichminhchau,
+
+  'kinhtangchi/thichminhchau': kinhtangchi_thichminhchau,
+//  'kinhtangchi/bodhi-vi': kinhtangchi_bodhi_vi,
+//  'kinhtangchi/bodhi-en': kinhtangchi_bodhi_en,
+  'kinhtangchi/sujato-en': kinhtangchi_sujato_en,
+  'kinhtangchi/sujato-vi': kinhtangchi_sujato_vi,
+  'kinhtangchi/sujato-vi/intro': kinhtangchi_sujato_vi,
+
+};
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -47,6 +65,7 @@ export default defineConfig({
         name: 'copy-markdown-files',
         // This hook runs at the end of the build process
         closeBundle() {
+          return;
           const sourceDirs = ['./docs/kinhtruongbo/', './docs/kinhtrungbo/', './docs/kinhtangchi/']; // Directories with your MD files
           //@ts-ignore
           const outputDir = path.resolve(__dirname, 'dist/');
@@ -104,23 +123,6 @@ export default defineConfig({
   transformPageData(pageData) {
     // --- Configuration ---
 
-    const BOOK_AUTHOR_NAV_DATA2 = {
-        'kinhtrungbo/thichminhchau': mn_thichminhchau,
-        'kinhtrungbo/nanamoli-bodhi-en': nanamoli_bodhi_en,
-        'kinhtrungbo/nanamoli-bodhi-en/intro': nanamoli_bodhi_en_intro,
-        'kinhtrungbo/nanamoli-bodhi-vi': nanamoli_bodhi_vi,
-        'kinhtrungbo/nanamoli-bodhi-vi/intro': nanamoli_bodhi_vi_intro,
-
-        'kinhtruongbo/thichminhchau': dn_thichminhchau,
-
-        'kinhtangchi/thichminhchau': kinhtangchi_thichminhchau,
-      //  'kinhtangchi/bodhi-vi': kinhtangchi_bodhi_vi,
-      //  'kinhtangchi/bodhi-en': kinhtangchi_bodhi_en,
-        'kinhtangchi/sujato-en': kinhtangchi_sujato_en,
-        'kinhtangchi/sujato-vi': kinhtangchi_sujato_vi,
-        'kinhtangchi/sujato-vi/intro': kinhtangchi_sujato_vi_intro,
-
-    };
 
     // --- Input Validation and Parsing ---
 
@@ -140,20 +142,9 @@ export default defineConfig({
     //const currentBook = pathParts[0];
     const path = getPath(relativePath);
 
-    // console.log('ng-path', path, BOOK_AUTHOR_NAV_DATA2[path]);
-
-    // Exit early if the book is not supported
-    // if (!SUPPORTED_BOOKS.includes(currentBook)) {
-    //   console.log(currentBook, 'notfound');
-    //   return undefined; // Or return pageData if you prefer to keep unsupported pages
-    // }
-
-    const currentBook = BOOK_AUTHOR_NAV_DATA2[path];
+    const currentBook = BOOK_NAV[path];
 
     // Find the matching author identifier within the path
-    //const currentAuthor = SUPPORTED_AUTHORS.find(author => relativePath.includes(author));
-
-    // Exit if no supported author is found in the path
     if (!currentBook) {
       console.log(relativePath, 'notfound');
       return pageData;
@@ -161,11 +152,6 @@ export default defineConfig({
     //console.log('currentAuthor', currentAuthor);
 
     // --- Navigation Logic ---
-
-    // Get the navigation data for the current book and author
-    // const authorNavDataForBook = BOOK_AUTHOR_NAV_DATA[currentBook];
-    //const currentBook = authorNavDataForBook ? authorNavDataForBook[currentAuthor] : undefined;
-
     // Proceed only if navigation data exists for this author/book combination
     if (currentBook && Array.isArray(currentBook)) {
       const fileName = pathParts[pathParts.length - 1]; // Get the filename (e.g., '001-something.md')

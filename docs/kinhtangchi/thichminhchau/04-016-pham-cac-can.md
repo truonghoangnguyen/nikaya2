@@ -8,6 +8,7 @@ Tín căn, tấn căn, niệm căn, định căn.
 
 Này các Tỷ-kheo, có bốn căn này.
 
+<!--pg-->
 **(II) (152) Lực (1)**
 
 − Này các Tỷ-kheo, có bốn lực này. Thế nào là bốn?
@@ -16,6 +17,7 @@ Tín lực, tấn lực, niệm lực, định lực.
 
 Này các Tỷ-kheo, có bốn lực này.
 
+<!--pg-->
 **(III) (153) Lực (2)**
 
 − Này các Tỷ-kheo, có bốn lực này. Thế nào là bốn
@@ -23,6 +25,7 @@ Tuệ lực, tấn lực, vô tội lực, năng nhiếp lực.
 
 Này các Tỷ-kheo, có bốn lực này.
 
+<!--pg-->
 **(IV) (154) Lực (3)**
 
 − Này các Tỷ-kheo, có bốn lực này. Thế nào là bốn
@@ -31,6 +34,7 @@ Niệm lực, định lực, vô tội lực, năng nhiếp lực.
 
 Này các Tỷ-kheo, có bốn lực này.
 
+<!--pg-->
 **(V) (155) Lực (4)**
 
 − Này các Tỷ-kheo, có bốn lực này. Thế nào là bốn?
@@ -39,6 +43,7 @@ Giản trạch lực, tu tập lực, vô tội lực, năng nhiếp lực.
 
 Này các Tỷ-kheo, có bốn lực này.
 
+<!--pg-->
 **(VI) (156) Kiếp**
 
 − Này các Tỷ-kheo, có bốn vô lượng của kiếp này. Thế nào là bốn?
@@ -54,9 +59,9 @@ Khi kiếp đã chuyển hoại và dừng lại, này các Tỷ-kheo, thật kh
 
 Này các Tỷ-kheo, có bốn vô lượng của kiếp này.
 
+<!--pg-->
 **(VII) (157) Bệnh**
 
-<!--pg-->
 1\. - Này các Tỷ-kheo, có hai loại bệnh này. Thế nào là hai? Bệnh về thân và bệnh về tâm.
 
 Này các Tỷ-kheo, chúng ta thấy có chúng sanh tự nhận mình là không thân bệnh được một năm, tự nhận
@@ -66,7 +71,6 @@ nhận mình là không thân bệnh được một trăm năm. Các chúng sanh
 được ở đời là những chúng sanh tự nhận mình là không tâm bệnh dầu chỉ trong một khoảnh khắc, trừ
 những vị đã đoạn trừ các lậu hoặc.
 
-<!--pg-->
 2\. Này các Tỷ-kheo, có bốn loại bệnh này cho người xuất gia. Thế nào là bốn?
 
 Ở đây, này các Tỷ-kheo, người có dục lớn, bực bội tức tối, không tự bằng lòng với các đồ vật như y, đồ
@@ -78,7 +82,6 @@ vọng. Vị ấy sau khi tính toán, đi đến các gia đình; sau khi tính
 thuyết pháp; sau khi tính toán, ngưng nín tiểu tiện, đại tiện. Như vậy, này các Tỷ-kheo, là bốn chứng
 bệnh của người xuất gia.
 
-<!--pg-->
 3\. Do vậy, này các Tỷ-kheo, cần phải học tập như sau: “Ta sẽ không có dục lớn, bực bội tức tối, tự bằng
 lòng với các vật dụng như y, đồ ăn khất thực, sàng tọa, dược phẩm trị bệnh. Ta sẽ không khởi lên thèm
 khát, ác dục, muốn được các điều không đáng được tán thán, muốn được các lợi dưỡng, cung kính, danh
@@ -88,9 +91,9 @@ Ta sẽ kham nhẫn lạnh, nóng, đói, khát, sự xúc chạm với ruồi v
 lên khổ đau, nhói đau, mãnh liệt, kịch liệt, không khả hỷ, không khả ý, đứt mạng sống”. Như vậy, này
 các Tỷ-kheo, các Thầy cần phải học tập.
 
+<!--pg-->
 **(IX) (158) Thối Ðoạ**
 
-<!--pg-->
 1\. Tại đây, Tôn giả Sàriputta gọi các Tỷ-kheo:
 
 − Này các Hiền giả Tỷ-kheo.
@@ -108,7 +111,6 @@ nhãn soi thấu.
 Thưa các Hiền giả, Tỷ-kheo hay Tỷ-kheo-ni nào thấy trên tự thân có bốn pháp này, cần phải đi đến kết
 luận rằng: “Tôi thối đọa khỏi các thiện pháp “. Ðây được Thế Tôn gọi là thối đọa.
 
-<!--pg-->
 2\. Thưa các Hiền giả, Tỷ-kheo hay Tỷ-kheo-ni nào thấy trên tự thân có bốn pháp này, cần phải đi đến
 kết luận rằng: “Tôi không thối đọa khỏi các thiện pháp “. Ðây được Thế Tôn gọi là không thối đọa. Thế
 nào là bốn?
@@ -119,9 +121,9 @@ soi thấu.
 Thưa các Hiền giả, Tỷ-kheo hay Tỷ-kheo-ni nào thấy trên tự thân có bốn pháp này, cần phải đi đến kết
 luận rằng: “Ta không thối đọa khỏi các thiện pháp “. Ðây được Thế Tôn gọi là không thối đọa.
 
+<!--pg-->
 **(IX) (159) Tỷ Kheo Ni**
 
-<!--pg-->
 1\. Một thời, Tôn giả Ananda trú ở Kosambi, tại khu vườn Ghosita. Rồi một Tỷ-kheo ni gọi một người và
 nói:
 “- Hãy đến đây, thưa Ông. Hãy đi đến Tôn giả Ananda, và nhân danh tôi, với đầu đảnh lễ chân Tôn giả
@@ -136,18 +138,15 @@ Ananda, và nói như sau: “Thưa Tôn giả, lành thay, nếu Tôn giả đi
 
 Tôn giả Ananda im lặng nhận lời.
 
-<!--pg-->
 2\. Rồi Tôn giả Ananda, đắp y, cầm y bát, đi đến trú xứ Tỷ-kheo-ni. Tỷ-kheo-ni ấy thấy Tôn giả Ananda
 từ xa đi đến, sau khi thấy, liền trùm đầu và nằm trên giường. Rồi Tôn giả Ananda đi đến Tỷ-kheo-ni ấy,
 sau khi đến, ngồi trên chỗ đã soạn sẵn. Sau khi ngồi, Tôn giả Ananda nói với Tỷ-kheo-ni ấy:
 
-<!--pg-->
 3\. - Này chị, thân này do đồ ăn được tác thành, y cứ vào đồ ăn; đồ ăn cần phải đoạn tận. Này chị, thân
 này do ái được tác thành, y cứ vào ái; ái cần phải đoạn tận. Này chị, thân này do kiêu mạn được tác
 thành, y cứ vào kiêu mạn; kiêu mạn cần phải đoạn tận. Này chị, thân này do dâm dục được tác thành, y
 cứ vào dâm dục; dâm dục, sự phá đổ cây cầu được Thế Tôn nói đến.
 
-<!--pg-->
 4\. Này chị, thân này do đồ ăn được tác thành, y cứ vào đồ ăn; đồ ăn cần phải đoạn tận. Như vậy, được
 nói đến, chính do duyên này được nói đến. Này chị, ở đây, Tỷ-kheo như lý quán sát thọ dụng món ăn
 không phải để vui đùa, không phải để đam mê, không phải để trang sức, không phải để tự làm đẹp mình,
@@ -158,7 +157,6 @@ lỗi lầm, sống được an ổn”. Vị ấy sau một thời gian, dầu 
 Này chị, thân này do đồ ăn được tác thành, y cứ vào đồ ăn; đồ ăn cần phải đoạn tận. Như vậy, được nói
 đến, chính do duyên này được nói đến.
 
-<!--pg-->
 5\. Này chị, thân này do ái được tác thành, y cứ vào ái; ái cần phải đoạn tận. Như vậy, được nói đến, y cứ
 vào gì được nói đến như vậy? Ở đây, này chị, Tỷ-kheo nghe: “Tỷ-kheo tên này do đoạn diệt các lậu
 hoặc, ngay trong hiện tại, tự mình với thắng trí, chứng ngộ, chứng đạt và an trú vô lậu tâm giải thoát, tuệ
@@ -168,7 +166,6 @@ an trú vô lậu tâm giải thoát, tuệ giải thoát”. Vị ấy, sau m�
 Này chị, thân này do ái được tác thành, y cứ vào ái; ái cần phải đoạn tận. Như vậy, được nói đến, do
 duyên này được nói đến.
 
-<!--pg-->
 6\. Này chị, thân này do kiêu mạn được tác thành, y cứ vào kiêu mạn; kiêu mạn cần phải đoạn tận. Như
 vậy, được nói đến, y cứ vào gì được nói đến như vậy? Ở đây, này chị, Tỷ-kheo nghe: “Tỷ-kheo tên này
 do đoạn diệt các lậu hoặc ... vô lậu tâm giải thoát, tuệ giải thoát”. Vị ấy suy nghĩ: “Vậy sao ta không như
@@ -176,25 +173,22 @@ vậy?”. Vị ấy, sau một thời gian, dầu y cứ vào kiêu mạn, đo�
 
 Này chị, thân này do dâm dục tác thành, y cứ vaò kiêu mạn; kiêu mạn cần phải đọan tận. Như vâỵ được
 nói đến, do duyên này được nói đến.
-<!--pg-->
 7\. Này chị, thân này do dâm dục tác thành, dâm dục, sự phá đổ cây cầu được Thế Tôn nói đến.
 
-<!--pg-->
 8\. Rồi Tỷ-kheo-ni ấy, từ giường đứng dậy, đắp thượng y vào một bên vai, với đầu đảnh lễ chân Tôn giả
 Ananda, và thưa với Tôn giả Ananda:
 
 − Một lỗi con đã vi phạm, thưa Tôn giả, vì ngu đần, vì si mê, vì bất thiện. Thưa Tôn giả, mong Tôn giả
 Ananda chấp nhận cho con tội lỗi này là một tội lỗi để con ngăn ngừa trong tương lai!
 
-<!--pg-->
 9\. - Thật vậy, này chị, thật sự chị đã phạm tội vì ngu đần, vì si mê, vì bất thiện. Chị đã làm như vậy. Này
 chị, vì Chị thấy phạm tội là phạm tội, và như Pháp phát lộ, nên chúng tôi chấp nhận tội ấy cho chị. Này
 chị, như vậy Luật của bậc Thánh được tăng trưởng khi thấy được phạm tội là phạm tội, và như pháp phát
 lộ để ngăn giữ trong tương lai.
 
+<!--pg-->
 **(X) (160) Luật Của Bậc Thiện Thệ**
 
-<!--pg-->
 1\. - Này các Tỷ-kheo, khi bậc Thiện Thệ hay Luật của Thiện Thệ an trú ở đời là vì hạnh phúc cho quần
 chúng, vì an lạc cho quần chúng, vì lòng thương tưởng cho đời, vì lợi ích, vì hạnh phúc, vì an lạc cho
 chư Thiên và loài Người. Và này các Tỷ-kheo, thế nào là Thiện Thệ?
@@ -203,7 +197,6 @@ chư Thiên và loài Người. Và này các Tỷ-kheo, thế nào là Thiện 
 Thiện Thệ, Thế Gian Giải, Vô Thượng Sĩ, Ðiều Nghị Trượng Phu, Thiên Nhân sư, Phật, Thế Tôn. Này
 các Tỷ-kheo, đây là bậc Thiện Thệ.
 
-<!--pg-->
 2\. Và này các Tỷ-kheo, thế nào là Luật của bậc Thiện Thệ?
 
 Vị ấy thuyết pháp sơ thiện, trung thiện, hậu thiện, có nghĩa, có văn, nói lên Phạm hạnh, hoàn toàn đầy
@@ -213,24 +206,20 @@ Này các Tỷ-kheo, khi bậc Thiện Thệ hay Luật của Thiện Thệ an t
 chúng, vì an lạc cho quần chúng, vì lòng thương tưởng cho đời, vì lợi ích, vì hạnh phúc, vì an lạc cho
 chư Thiên và loài Người.
 
-<!--pg-->
 3\. Có bốn pháp này, này các Tỷ-kheo, đưa đến diệu pháp hỗn loạn. Thế nào là bốn?
 
 Ở đây, này các Tỷ-kheo, các Tỷ-kheo học thuộc lòng kinh, được lãnh thọ sai lầm, với văn cú sắp đặt bị
 đảo lộn. Do văn cú bị sắp đặt đảo lộn, này các Tỷ-kheo, nên nghĩa lý bị hướng dẫn sai lạc. Này các Tỷkheo, đây là pháp thứ nhất đưa đến Diệu pháp hỗn loạn và biến mất.
 
-<!--pg-->
 4\. Lại nữa, này các Tỷ-kheo, các Tỷ-kheo là những người khó nói, thành tựu với những pháp khiến cho
 trở thành khó nói, khó kham nhẫn. Họ không kính trọng lời giáo giới. Này các Tỷ-kheo, đây là pháp thứ
 hai đưa đến Diệu pháp hỗn loạn và biến mất.
 
-<!--pg-->
 5\. Lại nữa, này các Tỷ-kheo, đối với các Tỷ-kheo nghe nhiều, thông hiểu các tập A-hàm, bậc trì Pháp, trì
 Luật, trì toát yếu. Các vị ấy không nói lại kinh cho người khác một cách cẩn thận. Khi họ mệnh chung,
 kinh bị cắt đứt tại gốc rễ, không có chỗ ý cứ. Này các Tỷ-kheo, đây là pháp thứ ba đưa đến Diệu pháp
 hỗn loạn và biến mất.
 
-<!--pg-->
 6\. Lại nữa, này các Tỷ-kheo, các Trưởng lão Tỷ-kheo là những vị sống đầy đủ, lười biếng, dẫn đầu về
 đọa lạc, bỏ rơi gánh nặng sống viễn ly, không cố gắng tinh tấn để đạt được những gì chưa đạt được, để
 chứng đắc những gì chưa chứng đắc, để chứng ngộ những gì chưa chứng ngộ. Và những thế hệ sau tiếp
@@ -239,7 +228,6 @@ sống viễn ly, không cố gắng tinh tấn để đạt được những g�
 chứng đắc, để chứng ngộ những gì chưa chứng ngộ. Này các Tỷ-kheo, đây là pháp thứ tư đưa đến Diệu
 pháp hỗn loạn và biến mất.
 
-<!--pg-->
 7\. Này các Tỷ-kheo, có bốn pháp này đưa đến diệu pháp an trú, không hỗn loạn và không biến mất. Thế
 nào là bốn?
 
@@ -247,18 +235,15 @@ nào là bốn?
 đắn. Do văn cú được sắp đặt đúng đắn, này các Tỷ-kheo, nên nghĩa lý được hướng dẫn đúng đắn. Này
 các Tỷ-kheo, đây là pháp thứ nhất đưa đến Diệu pháp an trú không hỗn loạn và không biến mất.
 
-<!--pg-->
 8\. Lại nữa, này các Tỷ-kheo, các Tỷ-kheo là những người dễ nói, thành tựu với những pháp khiến cho
 trở thành dễ nói, kham nhẫn. Họ kính trọng những lời giáo giới. Này các Tỷ-kheo, đây là pháp thứ hai
 đưa đến Diệu pháp an trú không hỗn loạn và không biến mất.
 
-<!--pg-->
 9\. Lại nữa, này các Tỷ-kheo, đối với các Tỷ-kheo nghe nhiều, thông hiểu các tập A-hàm, bậc trì Pháp, trì
 Luật, trì toát yếu. Các vị ấy nói lại kinh cho người khác một cách cẩn thận. Khi họ mệnh chung, kinh
 không bị cắt đứt tại gốc rễ, có chỗ ý cứ. Này các Tỷ-kheo, đây là pháp thứ ba đưa đến Diệu pháp an trú
 không hỗn loạn và không biến mất.
 
-<!--pg-->
 10\. Lại nữa, này các Tỷ-kheo, các Trưởng lão Tỷ-kheo không là những vị sống đầy đủ, không lười
 biếng, không dẫn đầu về đọa lạc, không còn gánh nặng sống viễn ly, cố gắng, tinh tấn để đạt được
 những gì chưa đạt được, để chứng đắc những gì chưa chứng đắc, để chứng ngộ những gì chưa chứng

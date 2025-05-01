@@ -7,7 +7,9 @@
 1. từ file pdf -> file .md (.scripts/0pdf2md.ipynb)
 2. từ file .md thành chia thành nhiều file nhỏ (.scripts/0pdf2md.ipynb)
 2.2 Các file .md cần có tiêu đề h1 `#`
+## tạo NAV file
 3. Tạo navfile(next-back) và index.md
+## tạo So sánh
 3.1 Tạo file `filelist.js`, `index.md`  trong thư mục tương ứng (.scripts/3make_filelist.ipynb)
 
 filelist.js có format như sau:
@@ -18,6 +20,19 @@ const mn_thichminhchau = [
 filelist.js dùng để tạo next-back button trong mỗi bài, vitepress chỉ có next-back khi định nghĩa ở sidebar
 3.2 vào config.ts để thêm code
 
+Nếu 2 sách có số file khác nhau thì
+1 - nối file sách A : số lượng các file sẽ giống nhau
+2 - chia file sách B
+Chia ra hay nối lại đều giống nhau, chỉ cần đảm bảo số lượng file 2 bên giống nhau và đánh số giống nhau -> lấy theo TMC cho tiện
+Và thuật toán phải được đảm bảo không cần sửa
+
+# Dịch
+- Đưa vào thư mục working
+- Tạo bản so sánh (`c-author1-author2-vi`)
+- Dịch và so sánh
+- Vào thư mục working, copy ra ngoài
+- Tạo file NAV (next-back) cho thư mục  en/vi
+- Tạo bản so sánh (`c-author1-author2-vi`)
 ## 4. Tạo so sánh
 ### 4.1 tạo thư mục (sẽ là url path) vd: docs/kinhtangchi/c-bodhi-tmc-vi/
 copy 2 file `[slug].paths.js` và `[slug].md` vào thư mục

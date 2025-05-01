@@ -38,7 +38,7 @@ hero:
     <div class="translation-content">
       <p>Bản dịch tiếng Việt từ tác phẩm "Numbered Discourses - A sensible translation of the Aṅguttara Nikāya" của Bhikkhu Sujato.</p>
       <div class="card-actions">
-        <a href="/kinhtangchi/sujato-vi/cover.html" class="primary-button">Đọc</a>
+        <a href="/kinhtangchi/sujato-vi/intro/cover.html" class="primary-button">Đọc</a>
       </div>
     </div>
   </div>
@@ -51,7 +51,7 @@ hero:
     <div class="translation-content">
       <p>Bản dịch tiếng Anh "Numbered Discourses - A sensible translation of the Aṅguttara Nikāya" của Bhikkhu Sujato.</p>
       <div class="card-actions">
-        <a href="/kinhtangchi/sujato-en/cover.html" class="primary-button">Đọc</a>
+        <a href="/kinhtangchi/sujato-en/intro/cover.html" class="primary-button">Đọc</a>
       </div>
     </div>
   </div>

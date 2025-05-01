@@ -3,7 +3,15 @@ import thichminhchau from '../../kinhtrungbo/thichminhchau/filelist'
 // import nanamoli_bodhi from '../../kinhtrungbo/nanamoli-bodhi-en/filelist';
 
 /**
- * all support url to Base Compare Nanamoli Bodhi Vi - Thích Minh Châu
+ * 2 loại so sánh:
+ * 1. từ tác giả vd:
+ *    - /kinhtangchi/sujato-vi/acb.html -> /kinhtangchi/c-sujato-tmc-vi/acb.html
+ *    - /kinhtangchi/thichminhchau/acb.html -> /kinhtangchi/c-sujato-tmc-vi/acb.html
+ *    - /kinhtrungbo/nanamoli-bodhi-vi/acb.html -> /kinhtrungbo/c-nm-tmc-vi/acb.html
+ * 2. từ so sánh vd:
+ *    - /kinhtangchi/c-sujato-tmc-vi/acb.html -> /kinhtangchi/c-sujato-tmc-en/acb.html
+ *    - /kinhtangchi/c-sujato-tmc-en/acb.html -> /kinhtangchi/c-sujato-tmc-vi/acb.html
+ *    - /kinhtrungbo/c-nm-tmc-vi/acb.html -> /kinhtrungbo/c-nm-tmc-en/acb.html
  * Parses the URL, extracts relevant information, and generates a comparison URL.
  * @param {string} url - /kinhtrungbo/nanamoli-bodhi/001-the-root-of-all-things
  * @returns {string|null} The generated comparison URL or null if invalid.
@@ -26,19 +34,19 @@ function toHomeCompare(url) {
     return null; // Or handle the error as neededxxxxx
   }
 
-  const kinhTrungBo = urlParts[1];  // "kinhtrungbo"
-  const book = urlParts[2];      // "nanamoli-bodhi"
+  const book = urlParts[1];  // "kinhtrungbo"
+  const author = urlParts[2];      // "nanamoli-bodhi"
   const filename = urlParts[3];    // "001-the-root-of-all-things"
 
   // current url is compare page, switch from compare Vi-Vi <-> En-Vi
-  if (compareBooks.includes(book)){
-    const last2Chars = book.slice(-2);
+  if (compareBooks.includes(author)){
+    const last2Chars = author.slice(-2);
     const newLast2Chars = last2Chars === 'vi' ? 'en' : 'vi';
-    const newBook = book.slice(0, -2) + newLast2Chars;
-    return `/${kinhTrungBo}/${newBook}/${filename}`;
+    const newBook = author.slice(0, -2) + newLast2Chars;
+    return `/${book}/${newBook}/${filename}`;
   }
 
-  if (!baseBooks.includes(book)) {
+  if (!baseBooks.includes(author)) {
     //console.error("Unsupported author:", author);
     return null; // Or handle the error
   }
@@ -71,7 +79,7 @@ function toHomeCompare(url) {
   // (4) Generate the final URL
   const homeCompare = 'c-nm-tmc-vi' //authorCompareMap[author];
 //   console.log(compareAuthor); //c-nm-tmc
-  const finalURL = `/${kinhTrungBo}/${homeCompare}/${tmcFilename}`;
+  const finalURL = `/${book}/${homeCompare}/${tmcFilename}`;
 
   return finalURL;
 }

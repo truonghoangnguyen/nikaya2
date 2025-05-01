@@ -9,7 +9,6 @@ Có định tu tập, này các Tỷ-kheo, do tu tập, do làm cho sung mãn, �
 tập, này các Tỷ-kheo, do tu tập, do làm cho sung mãn, đưa đến chứng được tri kiến. Có định tu tập, này
 các Tỷ-kheo, do tu tập, do làm cho sung mãn, đưa đến chánh niệm tỉnh giác. Có định tu tập, này các Tỷkheo, được tu tập, được làm cho sung mãn, đưa đến đoạn tận các lậu hoặc.
 
-<!--pg-->
 2\. Và này các Tỷ-kheo, thế nào là định tu tập, do tu tập, do làm cho sung mãn, đưa đến hiện tại lạc trú?
 
 Ở đây, này các Tỷ-kheo, Tỷ-kheo ly dục, ly các pháp bất thiện... chứng đạt và an trú sơ thiền ... thiền thứ
@@ -17,7 +16,6 @@ hai ... thiền thứ ba ... thiền thứ tư.
 
 Này các Tỷ-kheo, đây gọi là định tu tập, do tu tập, do làm cho sung mãn, đưa đến hiện tại lạc trú.
 
-<!--pg-->
 3\. Và này các Tỷ-kheo, thế nào là định tu tập, do tu tập, do làm cho sung mãn, đưa đến chứng được tri
 kiến?
 
@@ -27,7 +25,6 @@ tập tâm đến chỗ sáng chói.
 
 Này các Tỷ-kheo, đây gọi là định tu tập, do tu tập, do làm cho sung mãn, đưa đến chứng được tri kiến.
 
-<!--pg-->
 4\. Và này các Tỷ-kheo, thế nào là định tu tập, do tu tập, do làm cho sung mãn, đưa đến chánh niệm tỉnh
 giác?
 
@@ -37,7 +34,6 @@ khởi lên được rõ biết, tầm an trú được rõ biết, tầm chấm
 
 Này các Tỷ-kheo, đây gọi là định tu tập, do tu tập, do làm cho sung mãn, đưa đến chánh niệm tỉnh giác.
 
-<!--pg-->
 5\. Và này các Tỷ-kheo, thế nào là định tu tập, do tu tập, do tàm cho sung mãn, đưa đến đoạn tận các lậu
 hoặc?
 
@@ -64,7 +60,6 @@ _Qua khỏi sanh và già._
 
 <!--pg-->
 **(II) (42) Các Câu Hỏi**
-
 
 1\. - Này các Tỷ-kheo, có bốn cách thức để trả lời câu hỏi. Thế nào là bốn?
 
@@ -105,7 +100,6 @@ trọng lợi dưỡng, không kính trọng diệu pháp; kính trọng cung k�
 
 Bốn hạng người này, này các Tỷ-kheo, có mặt, hiện hữu ở đời.
 
-<!--pg-->
 2\. Bốn hạng người này, này các Tỷ-kheo, có mặt, hiện hữu ở đời. Thế nào là bốn?
 
 Kính trọng diệu pháp, không kính trọng phẫn nộ; kính trọng diệu pháp, không kính trọng gièm pha; kính
@@ -135,7 +129,6 @@ trọng lợi dưỡng, không kính trọng diệu pháp; kính trọng cung k�
 
 Này các Tỷ-kheo, có bốn phi diệu pháp này.
 
-<!--pg-->
 2\. Này các Tỷ-kheo, có bốn diệu pháp này. Thế nào là bốn?
 
 Kính trọng diệu pháp, không kính trọng phẫn nộ; kính trọng diệu pháp, không kính trọng gièm pha; kính
@@ -158,9 +151,9 @@ _Trong Chánh pháp vi diệu,_\
 _Như dược thảo, dùng dầu,_\
 _Chữa trị lớn mạnh hơn._
 
+<!--pg-->
 **(V) (45) Rohitassa (1)**
 
-<!--pg-->
 1\. Một thời, Thế Tôn trú ở Sàvatthi, tại Jetavana, khu vườn ông Anàthapindika. Rồi Thiên tử Rohitassa
 sau khi đêm gần mãn, với dung sắc thù thắng chiếu sáng toàn vùng Jetavana, đi đến Thế Tôn, sau khi
 đến, đảnh lễ Thế Tôn rồi đứng một bên. Ðứng một bên, thiên tử Rohitassa bạch Thế Tôn:
@@ -173,7 +166,6 @@ giới không?
 có sanh khởi (đời khác), Ta tuyên bố rằng không có thể đi đến để thấy, để biết, để đạt đến chỗ tận cùng
 của thế giới.
 
-<!--pg-->
 2\. - Thật vi diệu thay, bạch Thế Tôn; thật hy hữu thay, bạch Thế Tôn; thật là khéo nói, bạch Thế Tôn, lời
 nói này của Thế Tôn: “Tại chỗ nào không bị sanh, không bị già, không bị chết, không có từ bỏ (đời này),
 không có sanh khởi (đời khác), Ta tuyên bố rằng không có thể đi đến để thấy, để biết, để đạt đến chỗ tận
@@ -190,7 +182,6 @@ Tôn, lời nói này của Thế Tôn: “Tại chỗ nào không bị sanh, kh
 (đời này), không có sanh khởi (đời khác), Ta tuyên bố rằng không đi đến để thấy, để biết, để đạt đến chỗ
 tận cùng của thế giới”.
 
-<!--pg-->
 3\. - Này Hiền giả, Ta tuyên bố rằng: “Tại chỗ nào không bị sanh, không bị già, không bị chết, không có
 từ bỏ (đời này), không có sanh khởi (đời khác), không có thể đi đến để thấy, để biết, để đạt đến chỗ tận
 cùng của thế giới”. Nhưng này Hiền giả, trong cái thân dài độ mấy tấc này, với những tưởng, những tư
@@ -361,7 +352,6 @@ không thanh tịnh, nghĩ là thanh tịnh, này các Tỷ-kheo, đó là tư�
 
 Này các Tỷ-kheo có bốn tưởng điên đảo, tâm điên đảo, kiến điên đảo này.
 
-<!--pg-->
 2\. Này các Tỷ-kheo có bốn tưởng không điên đảo, tâm không điên đảo, kiến không điên đảo này. Thế
 nào là bốn?
 
@@ -411,7 +401,6 @@ không có cháy sáng, không có chói sáng, không có rực sáng.
 Này các Tỷ-kheo, có bốn uế nhiễm này của mặt trăng, mặt trời, do những uế nhiễm này làm ô nhiễm,
 mặt trăng, mặt trời không có cháy sáng, không có chói sáng, không có rực sáng.
 
-<!--pg-->
 2\. Cũng vậy, này các Tỷ-kheo, có bốn uế nhiễm này của các Sa-môn, Bà-la-môn, do uế nhiễm này làm ô
 nhiễm, các Sa-môn, Bà-la-môn không có cháy sáng, không có chói sáng, không có rực sáng. Thế nào là
 bốn?

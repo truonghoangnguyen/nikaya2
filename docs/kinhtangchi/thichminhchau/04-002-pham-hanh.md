@@ -10,27 +10,26 @@ Tỷ-kheo chấp nhận, không có từ bỏ, không có tẩy sạch, không c
 hữu; này các Tỷ-kheo, nếu Tỷ-kheo khi đang nằm, thức có sở hành như vậy, vị ấy được gọi là người
 không có nhiệt tình, không có xấu hổ, liên tục thường hằng biếng nhác, tinh tấn hạ liệt.
 
-<!--pg-->
 2\. Này các Tỷ-kheo, Nếu Tỷ-kheo khi đang đi khởi lên dục tầm, hay sân tầm, hai hại tầm mà nếu Tỷkheo không chấp nhận, từ bỏ, tẩy sạch, chấm dứt, đi đến không hiện hữu; này các Tỷ-kheo, nếu Tỷ-kheo
 đang đi có sở hành như vậy, vị ấy được gọi là người có nhiệt tình, có xấu hổ, liên tục thường hằng, tinh
 cần tinh tấn, siêng năng. Này các Tỷ-kheo, nếu Tỷ-kheo khi đang đứng ... khi đang ngồi ... khi đang
 nằm, thức khởi lên dục tầm, hay sân tầm, hai hại tầm mà nếu Tỷ-kheo không chấp nhận, từ bỏ, tẩy sạch,
 chấm dứt, đi đến không hiện hữu; này các Tỷ-kheo, nếu Tỷ-kheo khi đang nằm, thức có sở hành như
 vậy, vị ấy được gọi là người có nhiệt tình, có xấu hổ, liên tục thường hằng, tinh cần tinh tấn, siêng năng.
-_Nếu khi đi khi đứng_
-_Khi ngồi hay khi nằm_
-_Khởi lên ác tầm tư_
-_Liên hệ đến gia đình_
-_Thực hành theo ác đạo_
-_Mờ ám bởi si mê_
-_Vị Tỷ-kheo như vậy_
-_Không chứng Vô thượng giác_
-_Ai khi đi khi đứng_
-_Khi ngồi hay khi nằm_
-_Ðiều phục được tâm tư_
-_Yêu thích tầm chỉ định_
-_Vị Tỷ-kheo như vậy_
-_Chứng được Vô thượng giác_
+_Nếu khi đi khi đứng_\
+_Khi ngồi hay khi nằm_\
+_Khởi lên ác tầm tư_\
+_Liên hệ đến gia đình_\
+_Thực hành theo ác đạo_\
+_Mờ ám bởi si mê_\
+_Vị Tỷ-kheo như vậy_\
+_Không chứng Vô thượng giác_\
+_Ai khi đi khi đứng_\
+_Khi ngồi hay khi nằm_\
+_Ðiều phục được tâm tư_\
+_Yêu thích tầm chỉ định_\
+_Vị Tỷ-kheo như vậy_\
+_Chứng được Vô thượng giác_\
 
 <!--pg-->
 **(II) (12) Chế Ngự**
@@ -53,20 +52,20 @@ sân, si được từ bỏ ... hôn trầm thụy miên, trạo hối, nghi đ�
 tĩnh nhất tâm. Này các Tỷ-kheo, nếu các Tỷ-kheo khi đang thức có sở hành như vậy; vị ấy được gọi là
 người có nhiệt tâm, có xấu hổ, liên tục thường hằng, tinh cần tinh tấn, siêng năng.
 
-_Ði đứng biết tự chế_
-_Ngồi nằm biết tự chế_
-_Tỷ-kheo biết tự chế_
-_Khi co tay, duỗi tay_
-_Phía trên, ngang cùng khắp_
-_Xa cho đến cùng tột_
-_Bất cứ sanh thú nào_
-_Ở tại thế giới này_
-_Khéo quán sát sanh diệt_
-_Của tất cả pháp uẩn_
-_Tâm chỉ tịnh chánh hạnh_
-_Thường xuyên chuyên học tập_
-_Liên tục, hằng siêng năng_
-_Tỷ-kheo được gọi vậy._
+_Ði đứng biết tự chế_\
+_Ngồi nằm biết tự chế_\
+_Tỷ-kheo biết tự chế_\
+_Khi co tay, duỗi tay_\
+_Phía trên, ngang cùng khắp_\
+_Xa cho đến cùng tột_\
+_Bất cứ sanh thú nào_\
+_Ở tại thế giới này_\
+_Khéo quán sát sanh diệt_\
+_Của tất cả pháp uẩn_\
+_Tâm chỉ tịnh chánh hạnh_\
+_Thường xuyên chuyên học tập_\
+_Liên tục, hằng siêng năng_\
+_Tỷ-kheo được gọi vậy._\
 
 <!--pg-->
 **(III) (13) Chánh Cần**
@@ -80,14 +79,14 @@ tấn, sách tâm, trì tâm; với mục đích khiến cho các thiện pháp 
 mờ, được tăng trưởng, được quảng đại, được tu tập, được viên mãn, khởi lên ý muốn, cố gắng, tinh tấn,
 sách tâm, trì tâm; này các Tỷ-kheo, đây là bốn chánh cần.
 
-_Với các pháp chánh cần_
-_Chúng chinh phục Ma giới_
-_Không dính chúng vượt qua_
-_Sợ hãi về sanh tử_
-_Hoan hỷ ly dục vọng_
-_Chúng thắng Ma, Ma quân_
-_Mọi lực namuci_
-_Chúng thoát ly an lạc._
+_Với các pháp chánh cần_\
+_Chúng chinh phục Ma giới_\
+_Không dính chúng vượt qua_\
+_Sợ hãi về sanh tử_\
+_Hoan hỷ ly dục vọng_\
+_Chúng thắng Ma, Ma quân_\
+_Mọi lực namuci_\
+_Chúng thoát ly an lạc._\
 
 <!--pg-->
 **(IV) (14) Chế Ngự**
@@ -119,14 +118,14 @@ thiện đã sanh, tướng bộ xương, tướng trùng ăn, tướng bầm xa
 tướng phồng trướng. Này các Tỷ-kheo, đây gọi là tinh cần hộ trì.
 
 Này các Tỷ-kheo, có bốn này tinh cần này.
-_Chế ngự và đoạn tận_
-_Tu tập và hộ trì_
-_Bốn loại tinh cần này_
-_Ðược bà con mặt trời_
-_Tuyên bố và thuyết giảng_
-_Ở đời vị Tỷ-kheo_
-_Nhiệt tình đối với chúng_
-_Ðạt được diệt khổ tận_
+_Chế ngự và đoạn tận_\
+_Tu tập và hộ trì_\
+_Bốn loại tinh cần này_\
+_Ðược bà con mặt trời_\
+_Tuyên bố và thuyết giảng_\
+_Ở đời vị Tỷ-kheo_\
+_Nhiệt tình đối với chúng_\
+_Ðạt được diệt khổ tận_\
 
 <!--pg-->
 **(V) (15) Thi Thiết**
@@ -140,18 +139,18 @@ Sa-môn, Bà-la-môn, chư Thiên và loài Người, này các Tỷ-kheo, Như 
 
 Này các Tỷ-kheo, có bốn sự thi thiết tối thượng này.
 
-_Ràhù là tối thượng_
-_Trong các vị tự ngã_
-_Mandhàtà tối thượng_
-_Trong các vị hưởng dục_
-_Màrà là tối thượng_
-_Giữa những bậc uy quyền_
-_Với thần túc danh xưng_
-_Vị ấy được chói sáng_
-_Phía trên, ngang phía dưới_
-_Khắp sanh thú ở đời_
-_Trong thế giới chư Thiên_
-_Phật được gọi tối thượng._
+_Ràhù là tối thượng_\
+_Trong các vị tự ngã_\
+_Mandhàtà tối thượng_\
+_Trong các vị hưởng dục_\
+_Màrà là tối thượng_\
+_Giữa những bậc uy quyền_\
+_Với thần túc danh xưng_\
+_Vị ấy được chói sáng_\
+_Phía trên, ngang phía dưới_\
+_Khắp sanh thú ở đời_\
+_Trong thế giới chư Thiên_\
+_Phật được gọi tối thượng._\
 
 <!--pg-->
 **(VI) (16).- Trí Tế Nhị**
@@ -168,16 +167,16 @@ hành, không thấy một trí tế nhị đối với hành nào khác tối t
 ấy. Vị ấy không có phát nguyện đạt đến một trí tế nhị đối với hành nào khác tối thượng hơn, thù diệu
 hơn trí tế nhị thù thắng ấy. Này các Tỷ-kheo, đây là bốn trí tế nhị.
 
-_Biết trí tế nhị sắc_
-_Biết hiện hữu các thọ_
-_Từ đâu tưởng sanh khởi_
-_Tại đâu tưởng chấm dứt_
-_Biết các hành biến khác_
-_Là không, không là ngã_
-_Nếu Tỷ-kheo thấy chánh_
-_Tịch tịnh, ưu tịch tịnh_
-_Thọ trì thân tối hậu_
-_Thắng Ma và Ma quân._
+_Biết trí tế nhị sắc_\
+_Biết hiện hữu các thọ_\
+_Từ đâu tưởng sanh khởi_\
+_Tại đâu tưởng chấm dứt_\
+_Biết các hành biến khác_\
+_Là không, không là ngã_\
+_Nếu Tỷ-kheo thấy chánh_\
+_Tịch tịnh, ưu tịch tịnh_\
+_Thọ trì thân tối hậu_\
+_Thắng Ma và Ma quân._\
 
 <!--pg-->
 **(VI) (17) Sanh Thú Không Nên Ði**
@@ -187,12 +186,12 @@ _Thắng Ma và Ma quân._
 Ði đến sanh thú vì dục, đi đến sanh thú vì sân, đi đến sanh thú vì si, đi đến sanh thú vì sợ hãi. Có bốn
 sanh thú không nên đi mà đi này.
 
-_Dắt dẫn bởi dục sân_
-_Bới sợ hãi si mê_
-_Ai vượt qua chánh pháp_
-_Thời danh xưng người ấy_
-_Bị tổn hại hư hại_
-_Như trăng trong thời tối._
+_Dắt dẫn bởi dục sân_\
+_Bới sợ hãi si mê_\
+_Ai vượt qua chánh pháp_\
+_Thời danh xưng người ấy_\
+_Bị tổn hại hư hại_\
+_Như trăng trong thời tối._\
 
 <!--pg-->
 **(VIII) (18) Sanh Thú Nên Ði**
@@ -202,17 +201,17 @@ _Như trăng trong thời tối._
 Không vì dục đi đến sanh thú, không vì sân đi đến sanh thú, không vì si đi đến sanh thú, không vì sợ hãi
 đi đến sanh thú. Này các Tỷ-kheo, có bốn sanh thú nên đi mà đi này.
 
-_Dắt dẫn bởi dục sân_
-_Bởi sợ hãi si mê_
-_Ai không vượt chánh pháp_
-_Thời danh xưng người ấy_
-_Ðược đầy đủ vuông tròn_
-_Như trăng trong thời sáng_
+_Dắt dẫn bởi dục sân_\
+_Bởi sợ hãi si mê_\
+_Ai không vượt chánh pháp_\
+_Thời danh xưng người ấy_\
+_Ðược đầy đủ vuông tròn_\
+_Như trăng trong thời sáng_\
 
 <!--pg-->
 **(IX) (19) Không Nên Ði**
 
-_(Kinh này là kinh 17 và kinh 18 hợp lại)._
+_(Kinh này là kinh 17 và kinh 18 hợp lại)._\
 
 <!--pg-->
 **(X) (20) Người Ðầu Bếp**
@@ -228,24 +227,24 @@ Trời. Thế nào là bốn?
 Không vì dục đi đến sanh thú, không vì sân đi đến sanh thú, không vì si đi đến sanh thú, không vì sợ hãi
 đi đến sanh thú. Thành tựu bốn pháp này, này các Tỷ-kheo, như vậy tương xứng được sanh lên cõi Trời.
 
-_Những ai đối với dục_
-_Hạng người không chế ngự_
-_Là hạng người phi pháp_
-_Tôn trọng điều phi pháp_
-_Họ đi bị dắt dẫn_
-_Bởi dục sân, sợ hãi_
-_Làm uế nhiễm hội chúng_
-_Họ được gọi như vậy_
-_Như vậy họ được gọi_
-_Bởi Sa-môn hiểu biết_
-_Do vậy bậc Chân nhân_
-_Các bậc đáng tán thán_
-_Họ trú vào Chánh pháp_
-_Họ không làm điều ác_
-_Họ đi, không bị dẫn_
-_Bởi dục, sân, sợ hãi_
-_Tinh hoa của hội chúng_
-_Họ được gọi nva_
-_Như vậy họ được gọi_
-_Bởi Sa-môn hiểu biết_
+_Những ai đối với dục_\
+_Hạng người không chế ngự_\
+_Là hạng người phi pháp_\
+_Tôn trọng điều phi pháp_\
+_Họ đi bị dắt dẫn_\
+_Bởi dục sân, sợ hãi_\
+_Làm uế nhiễm hội chúng_\
+_Họ được gọi như vậy_\
+_Như vậy họ được gọi_\
+_Bởi Sa-môn hiểu biết_\
+_Do vậy bậc Chân nhân_\
+_Các bậc đáng tán thán_\
+_Họ trú vào Chánh pháp_\
+_Họ không làm điều ác_\
+_Họ đi, không bị dẫn_\
+_Bởi dục, sân, sợ hãi_\
+_Tinh hoa của hội chúng_\
+_Họ được gọi nva_\
+_Như vậy họ được gọi_\
+_Bởi Sa-môn hiểu biết_\
 

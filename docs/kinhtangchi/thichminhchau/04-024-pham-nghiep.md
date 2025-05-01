@@ -1,4 +1,5 @@
 # XXIV. Phẩm Nghiệp
+
 **(I) (231) Tóm Tắt**
 
 − Có bốn nghiệp này, này các Tỷ-kheo, đã được ta chứng ngộ với thắng trí và thuyết giảng. Thế nào là
@@ -9,16 +10,15 @@ có nghiệp đen trắng, quả đen trắng, này các Tỷ kheo, có nghiệp
 không trắng, nghiệp đưa đến nghiệp đoạn diệt. Có bốn nghiệp này, này các Tỷ-kheo, đã được ta chứng
 ngộ với thắng trí và thuyết giảng.
 
+<!--pg-->
 **(II) (232) Với Chi Tiết**
 
-<!--pg-->
 1\. Có bốn nghiệp này, này các Tỷ-kheo, đã được ta chứng ngộ với thắng trí và thuyết giảng. Thế nào là
 bốn?
 
 Này các Tỷ-kheo, có nghiệp đen quả đen; này các, có nghiệp thắng quả trắng; có nghiệp đen trắng, quả
 đen trắng, có nghiệp không đen không trắng, quả không đen không trắng, nghiệp đưa đến đoạn diệt.
 
-<!--pg-->
 2\. Và này các Tỷ-kheo, thế nào là nghiệp đen quả đen?
 
 Ở đây, này các Tỷ-kheo, có người làm thân hành có tổn hại, làm khẩu hành có tổn hại, làm ý hành có tổn
@@ -27,7 +27,6 @@ ra ở thế giới có tổn hại. Do người ấy sanh ra ở thế giới c
 Người ấy được cảm xúc với những cảm xúc có tổn hại, nên cảm thọ những cảm thọ có tổn hại, thuần
 nhất khổ, như những chúng sanh trong địa ngục. Này các Tỷ-kheo, đây gọi là nghiệp đen quả đen.
 
-<!--pg-->
 3\. Và này các Tỷ-kheo, thế nào là nghiệp trắng quả trắng?
 
 Ở đây, này các Tỷ-kheo, có người làm thân hành không có tổn hại, làm khẩu hành không có tổn hại, làm
@@ -37,7 +36,6 @@ không có tổn hại, các cảm xúc không có tổn hại được cảm x�
 xúc không có tổn hại, nên cảm thọ những cảm thọ không có tổn hại, thuần nhất lạc, như chư Thiên ở
 Biến Tịnh Thiên. Này các Tỷ-kheo, đây gọi là nghiệp trắng quả trắng.
 
-<!--pg-->
 4\. Và này các Tỷ-kheo, thế nào là nghiệp đen trắng quả đen trắng?
 
 Ở đây, này các Tỷ-kheo, có người làm thân hành có tổn hại và không tổn hại, làm khẩu hành có tổn hại
@@ -49,7 +47,6 @@ có tổn hại và không tổn hại, nên cảm thọ những cảm thọ có
 lạc và khổ. Ví như một số người và chư Thiên, một số chúng sanh ở các đọa xứ. Này các Tỷ-kheo, đây
 gọi là nghiệp đen trắng quả đen trắng.
 
-<!--pg-->
 5\. Và này các Tỷ-kheo, thế nào là nghiệp không đen không trắng quả không đen không trắng, nghiệp
 đưa đến đoạn diệt?
 
@@ -59,9 +56,9 @@ sở nào để đoạn tận nghiệp trắng quả trắng này; phàm có tư
 trắng, nghiệp đưa đến đoạn diệt. Này các Tỷ-kheo, có bốn nghiệp này đã được Ta chứng ngộ với thắng
 trí và thuyết giảng.
 
+<!--pg-->
 **(III) (233) Sonakàyana**
 
-<!--pg-->
 1\. Rồi Bà-la-môn Sikha Moggallàna đi đến Thế Tôn; sau khi đến, nói lên với Thế Tôn những lời chào
 đón hỏi thăm rồi ngồi xuống một bên. Ngồi xuống một bên, Bà-la-môn Sikha Moggallàna thưa với Thế
 Tôn:
@@ -73,17 +70,16 @@ thiệt là có do nghiệp tác thành thế giới và được tồn tại do
 
 − Này Bà-la-môn, ta chưa từng thấy thanh niên Sonakàyana. Từ đâu lại có câu chuyện như vậy?
 
-<!--pg-->
 2\. Này Bà-la-môn, có bốn nghiệp này đã được ta chứng ngộ với thắng trí và tuyên bố. Thế nào là bốn?
 
 ... (Hoàn toàn giống như kinh 232).
 
+<!--pg-->
 **(IV) (234) Các Học Pháp**
 
 1.- Này các Tỷ-kheo, có bốn nghiệp này, đã được ta chứng ngộ với thắng trí và tuyên bố. Thế nào là
 bốn? (Như kinh 231)
 
-<!--pg-->
 2\. Và này các Tỷ-kheo, thế nào là nghiệp đen quả đen?
 
 Ở đây, này các Tỷ-kheo, có người sát sanh, lấy của không cho, có tà hạnh trong các dục, nói láo, đắm
@@ -91,7 +87,6 @@ say rượu men, rượu nấu.
 
 Này các Tỷ-kheo, đây là nghiệp đen quả đen.
 
-<!--pg-->
 3\. Và này các Tỷ-kheo, thế nào là nghiệp trắng quả trắng?
 
 Ở đây, này các Tỷ-kheo, có người từ bỏ sát sanh, từ bỏ lấy của không cho, từ bỏ tà hạnh trong các dục,
@@ -99,14 +94,12 @@ từ bỏ nói láo, từ bỏ đắm say rượu men, rượu nấu.
 
 Này các Tỷ-kheo, đây là nghiệp trắng quả trắng.
 
-<!--pg-->
 4\. Và này các Tỷ-kheo, thế nào là nghiệp đen trắng quả đen trắng?
 
 Ở đây, này các Tỷ-kheo, có người làm thân nghiệp có tổn hại và không tổn hại ... (như kinh 232.4).
 
 Này các Tỷ-kheo, đây gọi là nghiệp đen trắng quả đen trắng.
 
-<!--pg-->
 5\. Và này các Tỷ-kheo, thế nào là nghiệp không đen trắng, quả không đen trắng, nghiệp đưa đến nghiệp
 đoạn diệt?
 Tại đấy, này các Tỷ-kheo, phàm có nghiệp đen quả đen này ... (như kinh 232.5). Này các Tỷ-kheo, đây
@@ -120,7 +113,6 @@ Này các Tỷ-kheo, bốn nghiệp này đã được ta chứng ngộ với th
 Này các Tỷ-kheo, có nghiệp đen quả đen;, có nghiệp thắng quả trắng; có nghiệp không đen không
 trắng, quả không đen không trắng, nghiệp đưa đến nghiệp đoạn diệt.
 
-<!--pg-->
 7\. Và này các Tỷ-kheo, thế nào là nghiệp đen quả đen quả đen?
 
 Ở đây, này các Tỷ-kheo, có người đoạt mạng sống của mẹ, đoạt mạng sống của cha, đoạt mạng sống của
@@ -128,7 +120,6 @@ vị A-la-hán, với ác tâm làm Như Lai chảy máu, phá hòa hợp Tăng.
 
 Này các Tỷ-kheo, đây gọi là nghiệp đen quả đen.
 
-<!--pg-->
 8\. Và này các Tỷ-kheo, thế nào là nghiệp đen quả trắng quả trắng?
 
 Ở đây, này các Tỷ-kheo, có người từ bỏ sát sanh, từ bỏ lấy của không cho, từ bỏ tà hạnh trong các dục,
@@ -137,14 +128,12 @@ chánh kiến.
 
 Này các Tỷ-kheo, đây gọi là nghiệp trắng quả trắng.
 
-<!--pg-->
 9\. Và này các Tỷ-kheo, thế nào là nghiệp đen trắng quả đen trắng?
 
 Ở đây, này các Tỷ-kheo, có người làm thân nghiệp có tổn hại và không tổn hại ... (như kinh 232.4).
 
 Này các Tỷ-kheo, đây gọi là nghiệp đen trắng quả đen trắng.
 
-<!--pg-->
 10\. Và này các Tỷ-kheo, thế nào là nghiệp không đen trắng, quả không đen trắng, nghiệp đưa đến
 nghiệp đoạn diệt?
 
@@ -153,6 +142,7 @@ gọi là nghiệp không đen trắng, quả không đen trắng, nghiệp đư
 
 Có bốn loại nghiệp này, này các Tỷ-kheo, đã được ta chứng ngộ với thắng trí và tuyên thuyết.
 
+<!--pg-->
 **(V) (235) Thánh Ðạo**
 
 − Này các Tỷ-kheo, có bốn nghiệp này được ta chứng ngộ với thắng trí và tuyên thuyết. Thế nào là bốn?
@@ -166,20 +156,17 @@ Và này các Tỷ-kheo, thế nào là nghiệp không đen trắng, quả khô
 Này các Tỷ-kheo, đây là nghiệp không đen trắng, quả không đen trắng, nghiệp đưa đến nghiệp đoạn
 diệt.
 
+<!--pg-->
 **(VI) (236) Giác Chi**
 
 1.- Có bốn nghiệp này ... (như kinh 232.1).
 
-<!--pg-->
 2\. Này các Tỷ-kheo, thế nào là nghiệp đen quả đen? (như kinh 232.2).
 
-<!--pg-->
 3\. Này các Tỷ-kheo, thế nào là nghiệp trắng quả trắng? (như kinh 232.3).
 
-<!--pg-->
 4\. Này các Tỷ-kheo, thế nào là nghiệp đen trắng quả đen trắng? (như kinh 232.4).
 
-<!--pg-->
 5\. Này các Tỷ-kheo, thế nào là nghiệp không đen trắng, quả không đen trắng, nghiệp đưa đến nghiệp
 đoạn diệt?
 
@@ -191,6 +178,7 @@ diệt.
 
 Này các Tỷ-kheo, có bốn loại nghiệp này, đã được ta chứng ngộ với thắng trí và tuyên thuyết.
 
+<!--pg-->
 **(VII) (237) Ðáng Quở Trách**
 
 1.- Này các Tỷ-kheo, thành tựu với bốn pháp này, như vậy tương xứng bị rơi vào địa ngục. Thế nào là
@@ -200,7 +188,6 @@ Với thân nghiệp có tội, với ngữ nghiệp có tội, với ý nghiệ
 
 Thành tựu với bốn pháp này, này các Tỷ-kheo, như vậy tương xứng bị rơi vào địa ngục.
 
-<!--pg-->
 2\. Thành tựu với bốn pháp này, này các Tỷ-kheo, như vậy tương xứng được sanh lên cõi Trời. Thế nào
 là với bốn?
 
@@ -209,6 +196,7 @@ có tội.
 
 Thành tựu với bốn pháp này, này các Tỷ-kheo, như vậy tương xứng được sanh lên cõi Trời.
 
+<!--pg-->
 **(VIII) (238) Có Hại**
 
 1.- Này các Tỷ-kheo, thành tựu với bốn pháp này, như vậy tương xứng bị rơi vào địa ngục. Thế nào là
@@ -218,7 +206,6 @@ Với thân nghiệp có tổn hại, với khẩu nghiệp có tổn hại, v�
 
 Thành tựu với bốn pháp này, này các Tỷ-kheo, như vậy tương xứng bị rơi vào địa ngục.
 
-<!--pg-->
 2\. Thành tựu với bốn pháp này, này các Tỷ-kheo, như vậy tương xứng được sanh lên cõi Trời. Thế nào
 là với bốn?
 
@@ -227,31 +214,28 @@ kiến không có tổn hại.
 
 Thành tựu với bốn pháp này, này các Tỷ-kheo, như vậy tương xứng được sanh lên cõi Trời.
 
+<!--pg-->
 **(IX) (239) Vị Sa Môn**
 
 1.- Chỉ ở đây, này các Tỷ-kheo, có Sa-môn thứ nhất, có Sa-môn thứ hai, có Sa-môn thứ ba, có Sa-môn
 thứ tư, còn ngoại đạo khác không có Sa-môn. Như vậy, này các Tỷ kheo, các Thầy chơn chánh rống
 tiếng rống con sư tử.
 
-<!--pg-->
 2\. Và này các Tỷ-kheo, thế nào là Sa-môn thứ nhất?
 
 Ở đây, này các Tỷ-kheo, Tỷ-kheo do đoạn diệt ba kiết sử, là bậc Dự lưu, không bị rơi vào đọa xứ, chắc
 chắn hướng đến giác ngộ. Này các Tỷ-kheo, người này là Sa-môn thứ nhất.
 
-<!--pg-->
 3\. Và này các Tỷ-kheo, thế nào là Sa-môn thứ hai?
 
 Ở đây, này các Tỷ-kheo, Các Tỷ-kheo do đoạn diệt ba kiết sử, do làm cho nhẹ bớt tham và sân, là bậc
 Nhất Lai, còn đi lại thế giới này một lần nữa, rồi đoạn tận khổ đau. Này các Tỷ-kheo, đây là Sa-môn thứ
 hai.
 
-<!--pg-->
 4\. Và này các Tỷ-kheo, thế nào là Sa-môn thứ ba?
 
 Ở đây, này các Tỷ-kheo, Tỷ-kheo do đoạn diệt năm hạ phần kiết sử, được hóa sanh tại đấy, chứng Niếtbàn, không phải trở lui từ thế giới ấy. Này các Tỷ-kheo, đây là Sa-môn thứ ba.
 
-<!--pg-->
 5\. Và này các Tỷ-kheo, thế nào là Sa-môn thứ tư?
 
 Ở đây, này các Tỷ-kheo, Tỷ-kheo do đoạn diệt các lậu hoặc, tự mình với thắng trí ngay trong hiện tại,
@@ -261,6 +245,7 @@ Chỉ ở đây, này các Tỷ-kheo, có Sa-môn thứ nhất, Ở đây có Sa
 đây có Sa-môn thứ tư, còn ngoại đạo khác không có Sa-môn. Như vậy, này các Tỷ kheo là chơn chánh
 rống tiếng rống con sư tử này.
 
+<!--pg-->
 **(X) (240) Các Lợi Ích Nhờ Bậc Chân Nhân**
 
 − Nhờ y tựa bậc chân nhân, này các Tỷ-kheo, chờ đợi là bốn lợi ích. Thế nào là bốn?

@@ -15,26 +15,24 @@ Các tỷ-kheo ấy vâng đáp Thế Tôn. Thế tôn nói như sau:
 2.- Này các Tỷ-kheo, do không giác ngộ, không thể nhập bốn pháp, như vậy phải chạy dài, luân chuyển
 trong một thời gian dài, đối với Ta và đối với các Thầy! Thế nào là bốn?
 
-<!--pg-->
 3\. Này các Tỷ-kheo, do không giác ngộ, không thể nhập Thánh giới, như vậy phải chạy dài, phải luân
 chuyển trong một thời gian dài, đối với Ta và đối với các Thầy. Này các Tỷ-kheo, do không giác ngộ,
 không thể nhập Thánh định, ... Thánh tuệ, ... Thánh giải thoát, như vậy phải chạy dài, phải luân chuyển
 trong một thời gian dài, đối với Ta và đối với các Thầy.
 
-<!--pg-->
 4\. Này các Tỷ-kheo, khi nào Thánh giới này được giác ngộ, được thể nhập; Thánh tuệ được giác ngộ,
 được thể nhập; Thánh định được giác ngộ, được thể nhập; Thánh giải thoát được giác ngộ, được thể
 nhập; hữu ái được chặt đứt, dây cột của hữu được đoạn tận, nay không còn tái sanh.
 
 5.-Thế Tôn nói như vậy. Thiện Thệ sau khi nói vậy xong, bậc Ðạo sư lại nói thêm:
 
-_Giới, Thiền định, Trí tuệ_
-_Với giải thoát vô thượng_
-_Gotama danh xưng_
-_Giác ngộ những pháp này_
-_Ðức Phật thắng tri chúng_
-_Thuyết pháp cho Tỷ-kheo_
-_Ðạo sư đoạn tận khổ_
+_Giới, Thiền định, Trí tuệ_\
+_Với giải thoát vô thượng_\
+_Gotama danh xưng_\
+_Giác ngộ những pháp này_\
+_Ðức Phật thắng tri chúng_\
+_Thuyết pháp cho Tỷ-kheo_\
+_Ðạo sư đoạn tận khổ_\
 _Bậc Tuệ nhãn tịch tịnh._
 
 <!--pg-->
@@ -48,23 +46,22 @@ Thánh Thiền định, này các Tỷ-kheo, ... không thành tựu Thánh Trí
 tựu Thánh giải thoát, này các Tỷ-kheo, được gọi là bị rời khỏi pháp luật này.
 
 Không thành tựu bốn pháp này, này các Tỷ-kheo, được gọi là bị rời khỏi pháp luật này.
-<!--pg-->
+
 2\. Thành tựu bốn pháp này, này các Tỷ-kheo, được gọi là không rời khỏi pháp luật này. Thế nào là bốn?
 
-<!--pg-->
 3\. Thành tựu Thánh giới, này các Tỷ-kheo, được gọi là không rời khỏi pháp luật này. Thành tựu Thánh
 định, này các Tỷ-kheo, ... thành tựu Thánh Trí tuệ, này các Tỷ-kheo ... thành tựu Thánh giải thoát, này
 các Tỷ-kheo, được gọi là không rời khỏi pháp luật này.
 
 Thành tựu bốn pháp này, này các Tỷ-kheo, được gọi là không rời khỏi pháp luật này.
 
-_Sau khi chết họ rơi_
-_Bị rơi họ tham ái_
-_Do vậy họ trở lại_
-_Một lần nữa tái sanh_
-_Ðã làm việc phải làm_
-_Ðã thích việc đáng thích_
-_Người ấy được an lạc_
+_Sau khi chết họ rơi_\
+_Bị rơi họ tham ái_\
+_Do vậy họ trở lại_\
+_Một lần nữa tái sanh_\
+_Ðã làm việc phải làm_\
+_Ðã thích việc đáng thích_\
+_Người ấy được an lạc_\
 _Do an lạc đưa đến_
 
 <!--pg-->
@@ -72,7 +69,6 @@ _Do an lạc đưa đến_
 
 − Tán thán, không tán thán, tín nhiệm, không tín nhiệm.
 
-<!--pg-->
 1\. Thành tựu bốn pháp này, này các Tỷ-kheo, kẻ ngu, không thông minh, không phải bậc Chân nhân, tự
 mình sử xự như môt kẻ mất gốc, bị thương tích, phạm tội, bị kẻ trí quở trách, và tạo nên nhiều điều vô
 phước. Thế nào là bốn?
@@ -86,7 +82,6 @@ Thành tựu bốn pháp này, này các Tỷ-kheo, kẻ ngu, không thông minh
 mình sử xự như môt kẻ mất gốc, bị thương tích, phạm tội, bị kẻ trí quở trách, và tạo nên nhiều điều vô
 phước.
 
-<!--pg-->
 2\. Thành tựu bốn pháp này, này các Tỷ-kheo, bậc Hiền trí, thông minh, là bậc Chân nhân, tự mình sử xự
 như môt người không mất gốc, không bị thương tích, không phạm tội, không bị kẻ trí quở trách, và tạo
 nên nhiều điều phước đức. Thế nào là bốn?
@@ -98,29 +93,29 @@ chỗ đáng tín nhiệm. Thành tựu bốn pháp này, này các Tỷ-kheo, b
 nhân, tự mình sử xự như môt người không mất gốc, không bị thương tích, không phạm tội, không bị kẻ
 trí quở trách, và tạo nên nhiều phước đức.
 
-_Ai khen người đáng chê_
-_Ai chê người đáng khen_
-_Kẻ ấy với miệng lưỡi_
-_Chứa chấp điều bất hạnh_
-_Do vì bất hạnh ấy_
-_Không tìm được an lạc_
-_Nhỏ nhen không đáng kể_
-_Là loại bất hạnh này_
-_Bất hạnh do cờ bạc_
-_Phá hoại các tài sản_
-_Lớn hơn, lớn hơn nhiều_
-_Là loại bất hạnh này_
-_Cho tất cả mọi người_
-_Và cả với riêng mình_
-_Những ai với ác ý_
-_Ðối với bậc Thiện thệ_
-_Trải qua một trămngàn_
-_Thời Nirabbudà_
-_Và cộng ba mươi sáu_
-_Với năm Abbudà_
-_Bị sanh vào địa ngục_
-_Trong suốt thời gian ấy_
-_Nếu mắng nhiếc bậc Thánh_
+_Ai khen người đáng chê_\
+_Ai chê người đáng khen_\
+_Kẻ ấy với miệng lưỡi_\
+_Chứa chấp điều bất hạnh_\
+_Do vì bất hạnh ấy_\
+_Không tìm được an lạc_\
+_Nhỏ nhen không đáng kể_\
+_Là loại bất hạnh này_\
+_Bất hạnh do cờ bạc_\
+_Phá hoại các tài sản_\
+_Lớn hơn, lớn hơn nhiều_\
+_Là loại bất hạnh này_\
+_Cho tất cả mọi người_\
+_Và cả với riêng mình_\
+_Những ai với ác ý_\
+_Ðối với bậc Thiện thệ_\
+_Trải qua một trămngàn_\
+_Thời Nirabbudà_\
+_Và cộng ba mươi sáu_\
+_Với năm Abbudà_\
+_Bị sanh vào địa ngục_\
+_Trong suốt thời gian ấy_\
+_Nếu mắng nhiếc bậc Thánh_\
 _Với lời, ý, nguyện ác._
 
 <!--pg-->
@@ -136,7 +131,6 @@ tử của Như Lai, này các Tỷ-kheo....., kẻ ngu, không thông minh, kh�
 nên nhiều điều vô phước. Tà hạnh trong bốn pháp này, này các Tỷ-kheo, kẻ ngu, không thông minh, ...
 tạo nên nhiều điều vô phước.
 
-<!--pg-->
 2\. Chánh hạnh trong bốn sự này, này các Tỷ-kheo, bậc Hiền trí, thông minh, là bậc Chân nhân, tự mình
 sử xự không như người mất gốc, không bị thương tích, không phạm tội, không bị kẻ trí quở trách, và tạo
 nên nhiều điều phước đức. Thế nào là chánh hạnh trong bốn sự?
@@ -149,25 +143,25 @@ thông minh, ... tạo nhiều phước đức.
 
 3.
 
-_Ðối với mẹ và cha_
-_Ai hành xử tà vạy_
-_Với Như Lai Chánh Giác_
-_Hay với đệ tử Ngài_
-_Người xử sự như vậy_
-_Tạo nhiều điều vô phước_
-_Những ai có ác hạnh_
-_Ðối với mẹ và cha_
-_Ðời này, bậc trí trách_
-_Ðời sau sanh đọa xứ_
-_Ðối với mẹ và cha_
-_Ai hành xử chơn chánh_
-_Với Như Lai Chánh Giác_
-_Hay với đệ tử Ngài_
-_Người xử sự như vậy_
-_Tạo nhiều điều phước đức_
-_Những ai có chánh hạnh_
-_Ðối với mẹ và cha_
-_Ðời này, bậc trí khen_
+_Ðối với mẹ và cha_\
+_Ai hành xử tà vạy_\
+_Với Như Lai Chánh Giác_\
+_Hay với đệ tử Ngài_\
+_Người xử sự như vậy_\
+_Tạo nhiều điều vô phước_\
+_Những ai có ác hạnh_\
+_Ðối với mẹ và cha_\
+_Ðời này, bậc trí trách_\
+_Ðời sau sanh đọa xứ_\
+_Ðối với mẹ và cha_\
+_Ai hành xử chơn chánh_\
+_Với Như Lai Chánh Giác_\
+_Hay với đệ tử Ngài_\
+_Người xử sự như vậy_\
+_Tạo nhiều điều phước đức_\
+_Những ai có chánh hạnh_\
+_Ðối với mẹ và cha_\
+_Ðời này, bậc trí khen_\
 _Ðời sau hưởng Thiên giới_
 
 <!--pg-->
@@ -199,43 +193,43 @@ Bốn hạng người này, này các Tỷ-kheo, có mặt, hiện hữu ở đ�
 
 2.
 
-_Những ai sống ở đời_
-_Không chế ngự các dục_
-_Không từ bỏ ly tham_
-_Thọ hưởng các dục vọng_
-_Họ đi đến sanh già_
-_Ðến rồi lại đến nữa_
-_Bị khát ái trói buộc_
+_Những ai sống ở đời_\
+_Không chế ngự các dục_\
+_Không từ bỏ ly tham_\
+_Thọ hưởng các dục vọng_\
+_Họ đi đến sanh già_\
+_Ðến rồi lại đến nữa_\
+_Bị khát ái trói buộc_\
 _Họ đi thuận dòng đời_
+
 3.
 
+_Do vậy bậc có trí_\
+_Ở đời, trú chánh niệm_\
+_Không thọ hưởng các dục_\
+_Không hành trì điều ác_\
+_Dầu chịu sự khổ đau_\
+_Từ bỏ các dục vọng_\
+_Họ được gọi hạng người_\
+_Ði ngược lại dòng đời._\
 
-_Do vậy bậc có trí_
-_Ở đời, trú chánh niệm_
-_Không thọ hưởng các dục_
-_Không hành trì điều ác_
-_Dầu chịu sự khổ đau_
-_Từ bỏ các dục vọng_
-_Họ được gọi hạng người_
-_Ði ngược lại dòng đời._
-
-_Những ai quyết đoạn tận_
-_Năm phiền não kiết sử_
-_Bậc hữu học viên mãn_
-_Không còn bị thối thất_
-_Ðạt được tâm điều phục_
-_Các căn được định tĩnh_
-_Vị ấy được gọi là_
-_Người đã tự đứng lại_
-_Ðối các pháp thắng liệt_
-_Vị ấy được giác tri_
-_Ðã được quét, quạt sạch_
-_Các pháp được chấm dứt_
-_Vị ấy bậc trí giả_
-_Phạm hạnh được thành tựu_
-_Ðược tên gọi danh xưng_
-_Bậc đã đi đến nơi_
-_Chỗ tận cùng thế giới_
+_Những ai quyết đoạn tận_\
+_Năm phiền não kiết sử_\
+_Bậc hữu học viên mãn_\
+_Không còn bị thối thất_\
+_Ðạt được tâm điều phục_\
+_Các căn được định tĩnh_\
+_Vị ấy được gọi là_\
+_Người đã tự đứng lại_\
+_Ðối các pháp thắng liệt_\
+_Vị ấy được giác tri_\
+_Ðã được quét, quạt sạch_\
+_Các pháp được chấm dứt_\
+_Vị ấy bậc trí giả_\
+_Phạm hạnh được thành tựu_\
+_Ðược tên gọi danh xưng_\
+_Bậc đã đi đến nơi_\
+_Chỗ tận cùng thế giới_\
 _Bậc đã đến bờ kia._
 
 
@@ -276,31 +270,31 @@ Này các Tỷ-kheo, có bốn hạng người này có mặt, hiện hữu ở 
 
 2.
 
-_Nếu là người nghe ít_
-_Không định tĩnh trong giới_
-_Họ chỉ trích người ấy,_
-_Cả hai, giới và nghe_
+_Nếu là người nghe ít_\
+_Không định tĩnh trong giới_\
+_Họ chỉ trích người ấy,_\
+_Cả hai, giới và nghe_\
 
-_Nếu là người nghe ít_
-_Nhưng khéo định trong giới_
-_Họ khen về giới đức_
-_Về nghe không đầy đủ_
+_Nếu là người nghe ít_\
+_Nhưng khéo định trong giới_\
+_Họ khen về giới đức_\
+_Về nghe không đầy đủ_\
 
-_Nếu là người nghe nhiều_
-_Không định tĩnh trong giới_
-_Họ chỉ trích người ấy,_
-_Về nghe được đầy đủ_
+_Nếu là người nghe nhiều_\
+_Không định tĩnh trong giới_\
+_Họ chỉ trích người ấy,_\
+_Về nghe được đầy đủ_\
 
-_Nếu là người nghe nhiều_
-_Lại khéo định trong giới_
-_Họ tán thán người ấy_
-_Cả hai, giới và nghe_
+_Nếu là người nghe nhiều_\
+_Lại khéo định trong giới_\
+_Họ tán thán người ấy_\
+_Cả hai, giới và nghe_\
 
-_Phật đệ tử nghe nhiều_
-_Trì pháp, có trí tuệ_
-_Như vàng cõi diêm phủ_
-_Ai có thể chỉ trích?_
-_Chư thiên khen vị ấy_
+_Phật đệ tử nghe nhiều_\
+_Trì pháp, có trí tuệ_\
+_Như vàng cõi diêm phủ_\
+_Ai có thể chỉ trích?_\
+_Chư thiên khen vị ấy_\
 _Phạm thiên cũng ngợi khen_
 
 <!--pg-->
@@ -313,19 +307,19 @@ pháp, tùy pháp, chói sáng tăng chúng. Tỷ-kheo-ni, này các Tỷ-kheo, 
 nữ cư sĩ, này các Tỷ-kheo, thông minh, được huấn luyện, không sợ hãi, nghe nhiều, trì pháp, thực hành
 pháp, tùy pháp, chói sáng tăng chúng.
 
-_Ai là người thông minh_
-_Là người không sợ hãi_
-_Lại là người nghe nhiều_
-_Và cũng hạng trì pháp_
-_Ðối với chánh diệu pháp_
-_Thực hành pháp tùy pháp_
-_Người như vậy được gọi_
-_Vị chói sáng tăng chúng_
-_Vị Tỷ-kheo đủ giới_
-_Tỷ-kheo-ni nghe nhiều_
-_Bậc cư sĩ tín nam_
-_Bậc cư sĩ tín nữ_
-_Họ chói sáng Tăng chúng_
+_Ai là người thông minh_\
+_Là người không sợ hãi_\
+_Lại là người nghe nhiều_\
+_Và cũng hạng trì pháp_\
+_Ðối với chánh diệu pháp_\
+_Thực hành pháp tùy pháp_\
+_Người như vậy được gọi_\
+_Vị chói sáng tăng chúng_\
+_Vị Tỷ-kheo đủ giới_\
+_Tỷ-kheo-ni nghe nhiều_\
+_Bậc cư sĩ tín nam_\
+_Bậc cư sĩ tín nữ_\
+_Họ chói sáng Tăng chúng_\
 _Là ánh sáng Tăng chúng_
 
 <!--pg-->
@@ -361,21 +355,21 @@ Này các Tỷ-kheo, do Ta không thấy có trường hợp này, nên Ta trú,
 Bốn pháp không sợ hãi này của Như Lai, này các Tỷ-kheo, do thành tựu bốn vô sở úy này, Như Lai tự
 nhận cho mình địa vị ngưu vương, rống tiếng con sư tử trong các hội chúng và chuyển pháp luân.
 
-_Các loại luận đàm này,_
-_Ðược y chỉ rộng rãi_
-_Sa-môn, Bà-la-môn,_
-_Nương tựa, y chỉ họ_
-_Khi họ đến Như Lai_
-_Họ không còn tồn tại_
-_Các luận đàm được nói_
-_Họ run sợ, sợ hãi_
-_Ai chinh phục tất cả_
-_Chuyển vận được Pháp luân_
-_Vì lòng thương tất cả_
-_Mọi chúng sanh hữu tình_
-_Với những bậc như vậy_
-_Tối thắng giữa Thiên nhân_
-_Mọi chúng sanh đảnh lễ_
+_Các loại luận đàm này,_\
+_Ðược y chỉ rộng rãi_\
+_Sa-môn, Bà-la-môn,_\
+_Nương tựa, y chỉ họ_\
+_Khi họ đến Như Lai_\
+_Họ không còn tồn tại_\
+_Các luận đàm được nói_\
+_Họ run sợ, sợ hãi_\
+_Ai chinh phục tất cả_\
+_Chuyển vận được Pháp luân_\
+_Vì lòng thương tất cả_\
+_Mọi chúng sanh hữu tình_\
+_Với những bậc như vậy_\
+_Tối thắng giữa Thiên nhân_\
+_Mọi chúng sanh đảnh lễ_\
 _Bậc vượt quan sanh hữu._
 
 <!--pg-->
@@ -389,17 +383,17 @@ hay do nhận sàng tọa ... hay do nhận đây là hữu, đây là phi hữu
 
 Bốn ái sanh khởi này, này các Tỷ-kheo, khi nào ái sanh, có thể sanh khởi nơi vị Tỷ-kheo.
 
-_Người có ái làm bạn_
-_Sẽ luân chuyển dài dài_
-_Khi hiện hữu chỗ này_
-_Khi hiện hữu chỗ khác_
-_Người ấy không dừng được_
-_Sự luận chuyển tái sanh_
-_Rõ biết nguy hại này_
-_Chính ái sanh đau khổ_
-_Tỷ-kheo từ bỏ ái_
-_Không nắm giữ chấp thủ_
-_An trú, không thất niệm_
+_Người có ái làm bạn_\
+_Sẽ luân chuyển dài dài_\
+_Khi hiện hữu chỗ này_\
+_Khi hiện hữu chỗ khác_\
+_Người ấy không dừng được_\
+_Sự luận chuyển tái sanh_\
+_Rõ biết nguy hại này_\
+_Chính ái sanh đau khổ_\
+_Tỷ-kheo từ bỏ ái_\
+_Không nắm giữ chấp thủ_\
+_An trú, không thất niệm_\
 _Vị ấy sống xuất gia._
 
 <!--pg-->
@@ -440,7 +434,6 @@ Bị trói buộc bởi các ác bất thiện pháp, các phiền não, các ph
 thục trong tương lai, bởi sanh già, chết, do vậy được gọi là không an ổn khỏi các ách. Này các Tỷ-kheo,
 có bốn ách này.
 
-<!--pg-->
 2\. Này các Tỷ-kheo, có bốn ách ly này. Thế nào là bốn? Ly dục ách, ly hữu ách, ly kiến ách, ly vô minh
 ách.
 
@@ -478,17 +471,16 @@ khổ dị thục trong tương lai, bởi sanh già, chết, do vậy được 
 có bốn ly ách này.
 
 3.
-
-_Bị trói buộc cả hai_
-_Dục ách và hữu ách_
-_Bị trói buộc kiến ách_
-_Với vô minh thượng phủ_
-_Chúng sanh bị luân chuyển_
-_Ði đến sanh và chết_
-_Những ai liễu tri dục_
-_Và toàn bộ hữu ách_
-_Nhổ vất bỏ kiến ách_
-_Và từ bỏ vô minh_
-_Ly hệ tất cả ách_
+_Bị trói buộc cả hai_\
+_Dục ách và hữu ách_\
+_Bị trói buộc kiến ách_\
+_Với vô minh thượng phủ_\
+_Chúng sanh bị luân chuyển_\
+_Ði đến sanh và chết_\
+_Những ai liễu tri dục_\
+_Và toàn bộ hữu ách_\
+_Nhổ vất bỏ kiến ách_\
+_Và từ bỏ vô minh_\
+_Ly hệ tất cả ách_\
 _Họ vượt khỏi các ách_
 

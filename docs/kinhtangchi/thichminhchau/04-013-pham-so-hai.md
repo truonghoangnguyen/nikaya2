@@ -2,7 +2,6 @@
 
 **(I) (121) Tự Trách**
 
-<!--pg-->
 1\. - Này các Tỷ-kheo, có bốn sự sợ hãi này. Thế nào là bốn? Sợ hãi tự mình trách, sợ hãi người khác
 trách, sợ hãi hình phạt, sợ hãi ác thú.
 
@@ -13,7 +12,6 @@ ngã có thể trách ta về phương diện giới: “Sao lại làm nghiệp
 thân làm ác, tu tập thân làm lành, đoạn tận lời nói ác, tu tập lời nói lành, đoạn tận ý nghĩ ác, tu tập ý nghĩ
 lành; sống tự ngã trong sạch. Này các Tỷ-kheo, đây gọi là sợ hãi tự trách.
 
-<!--pg-->
 3\. Và này các Tỷ-kheo, thế nào là sợ hãi về người khác trách?
 
 Ở đây, này các Tỷ-kheo, có hạng người suy xét: “Nếu thân ta làm ác, lời nói ta ác, ý nghĩ ta ác, thời các
@@ -38,7 +36,6 @@ có đi trộm, cướp tài sản người khác.
 
 Này các Tỷ-kheo, đây gọi là sự sợ hãi hình phạt.
 
-<!--pg-->
 5\. Và này các Tỷ-kheo, thế nào là sự sợ hãi ác thú?
 
 Ở đây, này các Tỷ-kheo, có hạng người suy nghĩ như sau: “Với ai thân làm ác, có ác dị thục trong tương
@@ -48,18 +45,16 @@ tận thân làm ác, tu tập thân làm lành; đoạn tận lời nói ác, t
 nghĩ lành; sống với tự ngã trong sạch. Này các Tỷ-kheo, đây gọi là sợ hãi ác thú.
 Này các Tỷ-kheo, có bốn loại sợ hãi này.
 
+<!--pg-->
 **(II) (122) Sóng Biển**
 
-<!--pg-->
 1\. - Có bốn sự sợ hãi này, này các Tỷ-kheo, được chờ đợi với người đi xuống nước. Thế nào là bốn? Sợ
 hãi về sóng, sợ hãi về cá sấu, sợ hãi về nước xoáy, sợ hãi về cá dữ. Có bốn sự sợ hãi này, này các Tỷkheo, được chờ đợi với người đi xuống nước.
 
-<!--pg-->
 2\. Cũng vậy, này các Tỷ-kheo, ở đây, đối với một số thiện nam tử đã xuất gia, từ bỏ gia đình, sống
 không gia đình trong Pháp và Luật này, có bốn sự sợ hãi được chờ đợi. Thế nào là bốn? Sợ hãi về sóng,
 sợ hãi về cá sấu, sợ hãi về nước xoáy, sợ hãi về cá dữ.
 
-<!--pg-->
 3\. Và này các Tỷ-kheo, thế nào là sợ hãi về sóng?
 
 Ở đây, này các Tỷ-kheo, có thiện gia nam tử vì lòng tin xuất gia, từ bỏ gia đình, sống không gia đình. Vị
@@ -74,7 +69,6 @@ phải giảng dạy chúng ta, cần phải khuyên giáo chúng ta”. Vị �
 và trở về hoàn tục. Như vậy, này các Tỷ-kheo, người này được gọi là vị Tỷ-kheo bị sợ hãi về sóng. Naỳ
 các Tỷ Kheo sơ hãi về sóng là đồng nghĩa với phẫn não. Naỳ các Tỷ Kheo đây gọi là sợ hãi về sóng.
 
-<!--pg-->
 4\. Và này các Tỷ-kheo, thế nào là sợ hãi về cá sấu?
 
 Ở đây, này các Tỷ-kheo, có thiện gia nam tử vì lòng tin xuất gia, từ bỏ gia đình, sống không gia đình. Vị
@@ -134,9 +128,9 @@ Này các Tỷ-kheo, đây gọi là sợ hãi về cá dữ.
 Này các Tỷ-kheo, có bốn sự sợ hãi này, ở đây, một số thiện nam tử xuất gia, từ bỏ gia đình, sống không
 gia đình trong Pháp và Luật này.
 
+<!--pg-->
 **(III) (123) Hạng Người Sai Khác (1)**
 
-<!--pg-->
 1\. - Có bốn hạng người này có mặt, hiện hữu ở đời. Thế nào là bốn?
 
 Ở đây, này các Tỷ-kheo, có hạng người ly dục, ly pháp bất thiện, chứng đạt và an trú Thiền thứ nhất,
@@ -149,7 +143,6 @@ sanh, đi đến ngạ quỷ. Còn đệ tử Như Lai, tại đấy, sau khi an
 ấy, nhập Niết-bàn trong hiện hữu ấy. Này các Tỷ-kheo, đây là sự đặc thù, đây là sự thù thắng, đây là sự
 sai khác giữa Thánh đệ tử có nghe pháp và kẻ phàm phu không nghe pháp, tức là vấn đề sanh thú.
 
-<!--pg-->
 2\. Lại nữa, này các Tỷ-kheo, ở đây có hạng người làm cho tịnh chỉ tầm và tứ, chứng đạt và an trú Thiền
 thứ hai, một trạng thái hỷ lạc do định sanh, không tầm không tứ, nội tĩnh nhất tâm. Vị ấy nếm được vị
 ngọt của Thiền ấy ... được sanh cộng trú với chư Thiên ở cõi Quang âm Thiên. Hai kiếp này, này các
@@ -157,7 +150,6 @@ Tỷ-kheo, là tuổi thọ vô lượng của chư Thiên ở Quang âm thiên.
 Ðây là sự đặc thù, đây là sự thù thắng, đây là sự sai khác giữa Thánh đệ tử có nghe pháp và kẻ phàm phu
 không nghe pháp, tức là vấn đề sanh thú.
 
-<!--pg-->
 3\. Lại nữa, này các Tỷ-kheo, ở đây có hạng người ly hỷ trú xả, chánh niệm tỉnh giác, thân cảm sự lạc thọ
 mà các bậc Thánh gọi là xả niệm lạc trú, chứng đạt và an trú Thiền thứ ba, vị ấy nếm được vị ngọt của
 Thiền ấy ... được sanh cộng trú với chư Thiên ở Biến tịnh Thiên. Bốn kiếp, này các Tỷ-kheo, là tuổi thọ
@@ -165,7 +157,6 @@ vô lượng của chư Thiên ở Biến tịnh Thiên. Tại đấy, kẻ phà
 đây là sự thù thắng, đây là sự sai khác giữa Thánh đệ tử có nghe pháp và kẻ phàm phu không nghe pháp,
 tức là vấn đề sanh thú.
 
-<!--pg-->
 4\. Lại nữa, này các Tỷ-kheo, ở đây có hạng người xả lạc xả khổ, diệt hỷ ưu đã cảm thọ trước, chứng và
 trú Thiền thứ tư, không khổ, không lạc, xả niệm thanh tịnh. Vị ấy nếm được vị ngọt của Thiền ấy, ái
 luyến Thiền ấy và do vậy tìm được an lạc; an trú trên ấy, chú tâm trên ấy, sống phần lớn với Thiền ấy,
@@ -179,9 +170,9 @@ không nghe pháp, tức là vấn đề sanh thú.
 
 Này các Tỷ-kheo, có bốn hạng người này có mặt, hiện hữu ở đời.
 
+<!--pg-->
 **(IV) (124) Các Hạng Người Sai Khác (2)**
 
-<!--pg-->
 1\. - Có bốn hạng người này, này các Tỷ kheo, có mặt, hiện hữu ở đời. Thế nào là bốn?
 
 Ở đây, này các Tỷ-kheo, có hạng người ly dục, ly ác pháp, chứng đạt và an trú Thiền thứ nhất. Ở đây, về
@@ -190,7 +181,6 @@ là bệnh, là ung nhọt, là mũi tên, là bất hạnh, là bệnh hoạn, 
 vô ngã. Vị ấy, sau khi thân hoại mạng chung được sanh cộng trú với chư Thiên ở Tịnh cư Thiên. Sự
 sanh khởi này, này các Tỷ-kheo, không có chung cùng với các hàng phàm phu.
 
-<!--pg-->
 2\. Lại nữa, này các Tỷ-kheo, ở đây có hạng người làm cho tịnh chỉ tầm và tứ ... Thiền thứ hai ... Thiền
 thứ ba ... Thiền thứ tư và an trú. Vị ấy, ở đây về các pháp thuộc sắc, thuộc thọ, thuộc trưởng, thuộc hành,
 thuộc thức, vị ấy tùy quán là vô thường, là khổ, là bệnh, là ung nhọt, là mũi tên, là bất hạnh, là bệnh
@@ -200,9 +190,9 @@ các hàng phàm phu.
 
 Có bốn hạng người này, này các Tỷ-kheo, có mặt, hiện hữu ở đời.
 
+<!--pg-->
 **(V) (125) Từ (1)**
 
-<!--pg-->
 1\. - Có bốn hạng người này, này các Tỷ-kheo, có mặt, hiện hữu ở đời. Thế nào là bốn?
 
 Ở đây, này các Tỷ-kheo, có hạng người với tâm, cùng khởi với từ, biến mãn một phương rồi an trú; cũng
@@ -217,7 +207,6 @@ ngục, đi đến bàng sanh, đi đến ngạ quỷ. Còn đệ tử Như Lai,
 thọ ấy, sau khi sống trọn vẹn tuổi thọ của chư Thiên ấy, nhập Niết-bàn trong hiện hữu ấy . Này các Tỷkheo, đây là sự đặc thù, đây là sự thù thắng, đây là sự sai khác giữa Thánh đệ tử có nghe pháp và kẻ
 phàm phu không nghe pháp, tức là vấn đề sanh thú.
 
-<!--pg-->
 2\. Lại nữa, này các Tỷ-kheo, ở đây có hạng người với tâm cùng khởi với bi ... với tâm cùng khởi với
 hỷ ... với tâm cùng khởi với xả, biến mãn một phương rồi an trú; cũng vậy phương thứ hai, cũng vậy
 phương thứ ba, cũng vậy phương thứ tư, như vậy, cùng khắp thế giới, trên, dưới, bề ngang, hết thảy
@@ -236,6 +225,7 @@ khác giữa Thánh đệ tử có nghe pháp và kẻ phàm phu không nghe ph�
 
 Này các Tỷ-kheo, có bốn hạng người này có mặt, hiện hữu ở đời.
 
+<!--pg-->
 **(VI) (126) Từ (2)**
 
 − Có bốn hạng người này, này các Tỷ-kheo, có mặt, hiện hữu ở đời. Thế nào là bốn?
@@ -245,6 +235,7 @@ không sân. ... (như kinh 121, 1) là vô ngã. Vị ấy, sau khi thân hoạ
 chư Thiên ở Tịnh cư Thiên. Này các Tỷ-kheo, sự sanh khởi này, không có chung cùng các hàng phàm
 phu. Này các Tỷ-kheo, có bốn hạng người có mặt, hiện hữu ở đời.
 
+<!--pg-->
 **(VII) (127) Vi Diệu (1)**
 
 1- Này các Tỷ-kheo, khi Như Lai, bậc A-la-hán, xuất hiện, có bốn pháp vi diệu chưa từng có xuất hiện.
@@ -260,7 +251,6 @@ các chúng sanh, sanh tại đấy, nhờ hào quang ấy mới thấy nhau và
 sống ở đây”. Này các Tỷ-kheo, khi Như Lai, bậc A-la-hán, Chánh Ðẳng Giác xuất hiện, có bốn pháp vi
 diệu chưa từng thứ nhất có xuất hiện.
 
-<!--pg-->
 2\. Lại nữa, này các Tỷ-kheo, khi Bồ-tát chánh niệm tỉnh giác, từ bụng mẹ sanh ra, khi ấy, một hào quang
 vô lượng, thần diệu, thắng xa oai lực của chư Thiên hiện ra cùng khắp thế giới, gồm có thế giới của chư
 Thiên, thế giới Ma vương và Phạm thiên, quần chúng Sa-môn, Bà-la-môn, chư Thiên và loài Người.
@@ -271,12 +261,10 @@ trời với đại thần lực, đại oai đức như vậy cũng không th�
 Tỷ-kheo, khi Như Lai, bậc A-la-hán, Chánh Ðẳng Giác, xuất hiện, có bốn pháp vi diệu chưa từng có thứ
 hai xuất hiện.
 
-<!--pg-->
 3\. Lại nữa, này các Tỷ-kheo, khi Như Lai chứng ngộ được vô thượng Chánh Ðẳng Giác, khi ấy trong thế
 giới chư Thiên ... (như trên)... “Cũng có những chúng sanh khác sống ở đây”. Này các Tỷ-kheo, khi Như
 Lai, bậc A-la-hán, Chánh Ðẳng Giác, xuất hiện, đây là pháp vi diệu chưa từng có thứ ba xuất hiện.
 
-<!--pg-->
 4\. Lại nữa, này các Tỷ-kheo, khi Như Lai chuyển bánh xe pháp vô thượng, khi ấy trong thế giới chư
 Thiên.. (như trên)... “Cũng có những chúng sanh khác sống ở đây”. Này các Tỷ-kheo, khi Như Lai, bậc
 A-la-hán, Chá nh Ðẳng Giác, xuất hiện, đây là pháp vi diệu chưa từng có thứ tư xuất hiện.
@@ -284,9 +272,9 @@ A-la-hán, Chá nh Ðẳng Giác, xuất hiện, đây là pháp vi diệu chưa
 Này các Tỷ-kheo, khi Như Lai, bậc A-la-hán,Chánh Ðẳng Giác xuất hiện, có bốn pháp vi diệu chưa từng
 có này xuất hiện.
 
+<!--pg-->
 **(VIII) (128) Vi Diệu (2)**
 
-<!--pg-->
 1\. - Này các Tỷ-kheo, khi Như Lai, bậc A-la-hán, Chánh Ðẳng Giác xuất hiện, có bốn pháp vi diệu chưa
 từng có này xuất hiện. Thế nào là bốn?
 
@@ -294,17 +282,14 @@ Này các Tỷ-kheo, quần chúng ưa thích chấp giữ, thích thú chấp g
 chấp giữ được Như Lai thuyết giảng, họ khéo nghe, lắng tai, chánh trí an trú tâm. Này các Tỷ-kheo, khi
 Như Lai, bậc A-la-hán, Chánh Ðẳng Giác xuất hiện, đây là sự vi diệu chưa từng có thứ nhất xuất hiện.
 
-<!--pg-->
 2\. Này các Tỷ-kheo, quần chúng ưa thích kiêu mạn, thích thú kiêu mạn, hoan hỷ kiêu mạn, khi pháp
 không kiêu mạn được Như Lai thuyết giảng, họ khéo nghe, lắng tai, chánh trí an trú tâm. Này các Tỷkheo, khi Như Lai, bậc A-la-hán, Chánh Ðẳng Giác xuất hiện, đây là sự vi diệu chưa từng có thứ hai
 xuất hiện.
 
-<!--pg-->
 3\. Này các Tỷ-kheo, quần chúng ưa thích không an tịnh, thích thú không an tịnh, hoan hỷ không an tịnh,
 khi pháp an tịnh được Như Lai thuyết giảng, họ khéo nghe, lắng tai, chánh trí an trú tâm. Này các Tỷkheo, khi Như Lai, bậc A-la-hán, Chánh Ðẳng Giác xuất hiện, đây là sự vi diệu chưa từng có thứ ba xuất
 hiện.
 
-<!--pg-->
 4\. Này các Tỷ-kheo, quần chúng đi đến vô minh, trở thành mù quáng, bị trói buộc che đậy, khi Như Lai
 thuyết pháp nhiếp phục vô minh, họ khéo nghe, lắng tai, chánh trí an trú tâm. Này các Tỷ-kheo, khi Như
 Lai, bậc A-la-hán, Chánh Ðẳng Giác xuất hiện, đây là sự vi diệu chưa từng có thứ tư xuất hiện.
@@ -312,30 +297,29 @@ Lai, bậc A-la-hán, Chánh Ðẳng Giác xuất hiện, đây là sự vi di�
 Này các Tỷ-kheo, khi Như Lai, bậc A-la-hán, Chánh Ðẳng Giác xuất hiện, có bốn pháp vi diệu chưa
 từng có này xuất hiện.
 
-**(IX) (129) Vi Diệu (3)**
 <!--pg-->
+**(IX) (129) Vi Diệu (3)**
+
 1\. - Này các Tỷ-kheo, có bốn pháp vi diệu chưa từng có này xuất hiện. Thế nào là bốn?
 
 Này các Tỷ-kheo, nếu chúng Tỷ-kheo đi đến yết kiến Ananda, hội chúng ấy hoan hỷ được yết kiến
 Ananda. Ở đây, nếu Ananda thuyết pháp, hội chúng ấy hoan hỷ với lời thuyết giảng. Chúng Tỷ-kheo
 không được vui vẻ, này các Tỷ-kheo, nếu Ananda giữ im lặng.
 
-<!--pg-->
 2\. Này các Tỷ-kheo, nếu chúng Tỷ-kheo-ni ... nếu chúng nam cư sĩ ... nếu chúng nữ cư sĩ đi đến yết kiến
 Ananda. Hội chúng ấy hoan hỷ được yết kiến Ananda. Tại đấy, nếu Ananda thuyết pháp, hội chúng ấy
 được hoan hỷ với lời thuyết giảng. Chúng Tỷ-kheo-ni ... nếu chúng nam cư sĩ, chúng nữ cư sĩ sẽ không
 được vui vẻ, này các Tỷ-kheo, nếu Ananda giữ im lặng.
 
+<!--pg-->
 **(X) (130) Vi Diệu (4)**
 
-<!--pg-->
 1\. - Này các Tỷ-kheo, có bốn pháp vi diệu chưa từng có này về vua Chuyển Luân. Thế nào là bốn?
 
 Này các Tỷ-kheo, nếu có chúng Sát-đế-lỵ đến yết kiến vua Chuyển Luân, hội chúng ấy được hoan hỷ vì
 được yết kiến vua Chuyển Luân. Tại đấy, nếu vị vua Chuyển Luân nói chuyện, hội chúng được hoan hỷ
 với bài nói chuyện. Và nếu vua Chuyển Luân im lặng, chúng Sát-đế-lỵ bị thất vọng.
 
-<!--pg-->
 2\. Này các Tỷ-kheo, nếu có chúng Bà-la-môn, ... nếu có chúng gia chủ, nếu có chúng Sa-môn đến yết
 kiến vua Chuyển Luân, hội chúng ấy được hoan hỷ vì được yết kiến vua Chuyển Luân. Tại đấy, nếu vị
 vua Chuyển Luân nói chuyện, hội chúng được hoan hỷ với bài nói chuyện. Và nếu vua Chuyển Luân im
@@ -343,18 +327,14 @@ lặng, chúng Sa-môn bị thất vọng.
 
 Này các Tỷ-kheo, có bốn pháp vi diệu chưa từng có này về vua Chuyển Luân.
 
-<!--pg-->
 3\. Cũng vậy, này các Tỷ-kheo, có bốn pháp vi diệu chưa từng có này về Ananda. Thế nào là bốn?
 
 Này các Tỷ-kheo, nếu chúng Tỷ-kheo đến để yết kiến Ananda ... nếu Ananda giữ im lặng.
 
-<!--pg-->
 4\. Này các Tỷ-kheo, nếu chúng Tỷ-kheo-ni ...
 
-<!--pg-->
 5\. Này các Tỷ-kheo, nếu chúng nam cư sĩ ...
 
-<!--pg-->
 6\. Này các Tỷ-kheo, nếu chúng nữ cư sĩ ...
 
 Này các Tỷ-kheo, có bốn pháp vi diệu chưa từng có này về Ananda.

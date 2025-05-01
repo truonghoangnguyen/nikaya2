@@ -1,25 +1,25 @@
 # IX. Phẩm Không Có Rung Ðộng
 
+
 **(I) (81) Ăn Trộm**
 
-<!--pg-->
 1\. - Thành tựu với bốn pháp, này các Tỷ-kheo, như vậy tương xứng bị rơi vào địa ngục. Thế nào là bốn?
 Sát sanh, lấy của không cho, tà hạnh trong các dục, nói láo. Thành tựu với bốn pháp này, này các Tỷkheo, như vậy tương xứng bị rơi vào địa ngục.
 
-<!--pg-->
 2\. Thành tựu với bốn pháp, này các Tỷ-kheo, như vậy tương xứng được sanh lên cõi Trời. Thế nào là
 bốn?
 
 Từ bỏ sát sanh, từ bỏ lấy của không cho, từ bỏ tà hạnh trong các dục, từ bỏ nói láo. Thành tựu với bốn
 pháp, này các Tỷ-kheo, như vậy tương xứng được sanh lên cõi Trời.
 
+<!--pg-->
 **(II) (82) Nói Láo**
 
 _(Như kinh trên, (81), chỉ khác bốn pháp là: nói láo, nói hai lưỡi, nói lời thô ác, nói lời phù phiếm.)_
 
+<!--pg-->
 **(III) (83) Tán Thán**
 
-<!--pg-->
 1\. - Thành tựu với bốn pháp, này các Tỷ-kheo, như vậy tương xứng bị rơi vào địa ngục. Thế nào là bốn?
 
 Không suy tư, không thẩm sát, tán thán người không xứng đáng được tán thán; không suy tư, không
@@ -29,7 +29,7 @@ tưởng đối với những chỗ đáng tin tưởng.
 
 Thành tựu với bốn pháp này, này các Tỷ-kheo, như vậy tương xứng bị rơi vào địa ngục.
 
-<!--pg-->
+
 2\. Thành tựu với bốn pháp, này các Tỷ-kheo, như vậy tương xứng được sanh lên cõi Trời.
 
 Có suy tư, có thẩm sat, không tán thán người không xứng đáng được tán thán; có suy tư, có thẩm sát, tán
@@ -39,21 +39,23 @@ những chỗ đáng tin tưởng.
 
 Thành tựu với bốn pháp này, này các Tỷ-kheo, như vậy tương xứng được sanh lên cõi Trời.
 
+<!--pg-->
 **(IV) (84) Phẫn Nộ**
 
 _(Như kinh trên, (83), chỉ khác về bốn pháp: Tôn trọng phẫn nộ, không tôn trọng diệu pháp; tôn trọng_
 _gièm pha, không tôn trọng diệu pháp; tôn trọng lợi dưỡng, không tôn trọng diệu pháp; tôn trọng cung_
 _kính, không tôn trọng diệu pháp)._
 
+<!--pg-->
 **(V) (85) Tối Tăm**
 
-<!--pg-->
+
 1\. - Này các Tỷ-kheo, có bốn hạng người này có mặt, hiện hữu ở đời. Thế nào là bốn?
 
 Sống trong bóng tối, hướng đến bóng tối; sống trong bóng tối, hướng đến ánh sáng; sống trong ánh sáng,
 hướng đến bóng tối; sống trong ánh sáng, hướng đến ánh sáng.
 
-<!--pg-->
+
 2\. Và này các Tỷ-kheo, thế nào là hạng người sống trong bóng tối, hướng đến bóng tối?
 
 Ở đây, này các Tỷ-kheo, có người được sanh trong một gia đình hạ tiện, gia đình một người đổ phân,
@@ -66,7 +68,7 @@ thân làm ác, sống với miệng nói ác, sống với ý nghĩ ác. Sau kh
 với ý nghĩ ác, khi thân hoại mạng chung, người ấy sanh vào cõi dữ, ác thú, đọa xứ, địa ngục. Như vậy,
 này các Tỷ-kheo, là hạng người trong bóng tối hướng đến bóng tối.
 
-<!--pg-->
+
 3\. Và này các Tỷ-kheo, thế nào là hạng người sống trong bóng tối hướng đến ánh sáng?
 
 Ở đây, này các Tỷ-kheo, có người được sanh trong một gia đình hạ liệt... chỗ nằm, chỗ ở hay đèn. Người
@@ -74,7 +76,7 @@ này các Tỷ-kheo, là hạng người trong bóng tối hướng đến bóng
 lành, với miệng nói lành, với ý nghĩ lành, khi thân hoại mạng chung, được sanh lên cõi lành, cõi trời, cõi
 đời này. Như vậy, này các Tỷ-kheo, là hạng người sống trong bóng tối hướng đến ánh sáng.
 
-<!--pg-->
+
 4\. Và này các Tỷ-kheo, thế nào là hạng người sống trong ánh sáng hướng đến bóng tối?
 
 Ở đây, này các Tỷ-kheo, có hạng người được sanh trong một gia đình cao quý, trong gia đình Sát-đế-lỵ
@@ -86,7 +88,7 @@ miệng nói ác, ý nghĩ ác. Do thân làm ác, miệng nói ác, ý nghĩ á
 vào cõi dữ, ác thú, đọa xứ, địa ngục. Này các Tỷ-kheo, như vậy là hạng người sống trong ánh sáng
 hướng đến bóng tối.
 
-<!--pg-->
+
 5\. Và này các Tỷ-kheo, thế nào là người sống trong ánh sáng hướng đến ánh sáng?
 
 Ở đây, này các Tỷ-kheo, có người sanh ra trong gia đình cao quý, trong gia đình Sát-đế-lỵ giàu có, hay
@@ -98,21 +100,23 @@ lành, ý nghĩ lành. Do thân làm lành, miệng nói lành, ý nghĩ lành, 
 được sanh lê cõi lành, cõi trời, cõi đời này. Này các Tỷ-kheo, như vậy là người sống trong ánh sáng
 hướng đến ánh sáng.
 
+<!--pg-->
 **(VI) (86) Thấp Kém**
 
-<!--pg-->
+
 1\. - Có bốn hạng người này, này các Tỷ-kheo, có mặt, hiện hữu ở đời. Thế nào là bốn? Thấp và thấp,
 thấp và cao, cao và thấp, cao và cao.
 
 Có bốn hạng người này, này các Tỷ-kheo, có mặt hiện hữu ở đời.
 
+<!--pg-->
 **(VII) (87) Các Hạng Sa Môn (1)**
 
-<!--pg-->
+
 1\. - Có bốn hạng người này, này các Tỷ-kheo, có mặt, hiện hữu ở đời. Thế nào là bốn?
 
 Sa-môn bất động, Sa-môn sen trắng, Sa-môn sen hồng, Sa-môn tinh luyện trong các Sa-môn.
-<!--pg-->
+
 2\. Và này các Tỷ-kheo, thế nào là Sa-môn bất động?
 
 Ở đây, này các Tỷ-kheo, Tỷ-kheo là hạng hữu học, đang đi trên con đường, sống cố gắng hướng đến vô
@@ -120,21 +124,21 @@ thượng an ổn khỏi các ách nạn. Ví như, này các Tỷ-kheo, vị tr
 được làm lễ quán đảnh, nhưng chưa làm lễ quán đảnh, và đạt đến địa vị bất động. Cũng vậy, này các Tỷkheo, vị Tỷ-kheo hữu học, đang đi trên con đường, sống cố gắng hướng đến vô thượng an ổn khỏi các
 ách nạn. Cũng vậy, này các Tỷ-kheo, là hạng Sa-môn bất động.
 
-<!--pg-->
+
 3\. Và như thế nào, này các Tỷ-kheo, là hạng Sa-môn sen trắng?
 
 Ở đây, này các Tỷ-kheo, Tỷ-kheo do đoạn diệt các lậu hoặc, tự mình với thắng trí chứng ngộ, chứng đạt
 và an trú vô lậu tâm giải thoát, tuệ giải thoát, nhưng chưa với thân cảm giác được tâm giải thoát và an
 trú. Như vậy, này các Tỷ-kheo, là hạng Sa-môn sen trắng.
 
-<!--pg-->
+
 4\. Và như thế nào, này các Tỷ-kheo, là hạng Sa-môn sen hồng?
 
 Ở đây, này các Tỷ-kheo, Tỷ-kheo do đoạn diệt các lậu hoặc, tự mình với thắng trí chứng ngộ, chứng đạt
 và an trú tâm giải thoát, tuệ giải thoát, và với thân cảm giác được tâm giải thoát và an trú. Như vậy, này
 các Tỷ-kheo, là hạng Sa-môn sen hồng.
 
-<!--pg-->
+
 5\. Và này các Tỷ-kheo, như thế nào là hạng Sa-môn tinh luyện trong các hàng Sa-môn?
 
 Ở đây, này các Tỷ-kheo, Tỷ-kheo nhiều lần được yêu cầu nhận y, ít khi không được yêu cầu; nhiều lần
@@ -151,7 +155,7 @@ trú, có được không khó khăn, có được không mệt nhọc, có đư
 hoặc, ngay trong hiện tại, với thắng trí chứng ngộ, chứng đạt và an trú vô lậu tâm giải thoát, tuệ giải
 thoát. Như vậy, này các Tỷ-kheo, là hạng Sa-môn tinh luyện trong các hàng Sa-môn.
 
-<!--pg-->
+
 6\. Này các Tỷ-kheo, nếu nói một cách chơn chánh, nói về hạng Sa-môn tinh luyện giữa các Sa-môn, thời
 này các Tỷ-kheo, nói một cách chơn chánh là nói về Ta là hạng Sa-môn tinh luyện giữa các Sa-môn.
 Này các Tỷ-kheo, Ta nhiều lần được yêu cầu nhận y, ít khi không được yêu cầu; nhiều lần được yêu cầu
@@ -172,32 +176,33 @@ các Sa-môn.
 
 Này các Tỷ-kheo, đây là bốn hạng người có mặt, hiện hữu ở đời.
 
+<!--pg-->
 **(VIII) (88) Các Hạng Sa Môn (2)**
 
-<!--pg-->
+
 1\. - Này các Tỷ-kheo, có bốn hang người này có mặt, hiện hữu ở đời. Thế nào là bốn?
 
 Sa-môn bất động, Sa-môn sen trắng, Sa-môn sen hồng, Sa-môn tinh luyện.
 
-<!--pg-->
+
 2\. Và này các Tỷ-kheo, thế nào là hạng Sa-môn bất động?
 
 Ở đây, này các Tỷ-kheo, Tỷ-kheo do đoạn diệt ba kiết sử, là bậc Dự lưu, không còn bị đọa lạc, quyết
 chắc hướng đến giác ngộ. Như vậy, này các Tỷ-kheo, là hạng Sa-môn bất động.
 
-<!--pg-->
+
 3\. Và này các Tỷ-kheo, thế nào là hạng Sa-môn sen trắng?
 
 Ở đây, này các Tỷ-kheo, Tỷ-kheo sau khi đoạn diệt ba kiết sử, làm cho nhẹ bớt tham, sân, si, là bậc Nhất
 lai, chỉ có một lần trở lui đời này rồi chấm dứt khổ đau. Như vậy, này các Tỷ-kheo, là hạng Sa-môn sen
 trắng.
 
-<!--pg-->
+
 4\. Và này các Tỷ-kheo, thế nào là hạng Sa-môn sen hồng?
 
 Ở đây, này các Tỷ-kheo, vị Tỷ-kheo do đoạn diệt năm hạ phần kiết sử, là vị Bất lai, từ đấy nhập Niếtbàn, không phải trở lui từ thế giới ấy. Như vậy, này các Tỷ-kheo, là hạng Sa-môn sen hồng.
 
-<!--pg-->
+
 5\. Và này các Tỷ-kheo, thế nào là hạng Sa-môn tinh luyện giữa các Sa-môn?
 
 Ở đây, này các Tỷ-kheo, do đoạn tận các lậu hoặc, Tỷ-kheo ngay trong hiện tại với thắng trí chứng ngộ,
@@ -206,32 +211,33 @@ luyện giữa các Sa-môn.
 
 Này các Tỷ-kheo, bốn hạng Sa-môn này có mặt, xuất hiện ở đời.
 
+<!--pg-->
 **(IX) (89) Các Hạng Sa Môn**
 
-<!--pg-->
+
 1\. - Có bốn hạng người này, này các Tỷ-kheo, có mặt, xuất hiện ở đời. Thế nào là bốn?
 
 Sa-môn bất động, Sa-môn sen trắng, Sa-môn sen hồng, Sa-môn tinh luyện giữa các Sa-môn.
 
-<!--pg-->
+
 2\. Và này các Tỷ-kheo, thế nào là hạng Sa-môn bất động?
 
 Ở đây, này các Tỷ-kheo, Tỷ-kheo có chánh tri kiến, chánh tư duy, chánh ngữ, chánh nghiệp, chánh
 mạng, chánh tinh tấn, chánh niệm, chánh định. Như vậy, này các Tỷ-kheo, là hạng Sa-môn bất động.
 
-<!--pg-->
+
 3\. Và này các Tỷ-kheo, thế nào là hạng Sa-môn sen trắng?
 
 Ở đây, này các Tỷ-kheo, Tỷ-kheo có chánh tri kiến..., chánh định, chánh trí, chánh giải thoát, nhưng
 không có an trú với thân cảm giác tám giải thoát. Như vậy này các Tỷ-kheo, là hạng Sa-môn sen trắng.
 
-<!--pg-->
+
 4\. Và này các Tỷ-kheo, thế nào là hạng Sa-môn sen hồng?
 
 Ở đây, này các Tỷ-kheo, vị Tỷ-kheo có chánh tri kiến... chánh giải thoát, an trú với thân cảm giác tám
 giải thoát. Như vậy, này các Tỷ-kheo, là hạng Sa-môn sen hồng.
 
-<!--pg-->
+
 5\. Và này các Tỷ-kheo, như thế nào là hạng Sa-môn tinh luyện giữa các Sa-môn?
 
 Ở đây, này các Tỷ-kheo, Tỷ-kheo nhiều lần được yêu cầu nhận y, ít không được yêu cầu... Này các Tỷkheo, nếu nói một cách chơn chánh, nói về hạng Sa-môn tinh luyện giữa các Sa-môn, này các Tỷ-kheo,
@@ -239,20 +245,21 @@ nói một cách chơn chánh là nói về Ta, là hạng Sa-môn tinh luyện 
 
 Này các Tỷ-kheo, đây là bốn hạng người có mặt, hiện hữu ở đời.
 
+<!--pg-->
 **(X) (90) Các Hạng Sa Môn**
 
-<!--pg-->
+
 1\. - Này các Tỷ-kheo, có bốn hạng người này có mặt, hiện hữu ở đời. Thế nào là bốn?
 
 Sa-môn bất động, Sa-môn sen trắng, Sa-môn sen hồng, Sa-môn tinh luyện giữa các Sa-môn.
 
-<!--pg-->
+
 2\. Và này các Tỷ-kheo, thế nào là Sa-môn bất động?
 
 Ở đây, này các Tỷ-kheo, vị hữu học, ý chưa đạt được mục đích, đang sống hướng đến vô thượng an ổn
 khỏi các khổ ách. Như vậy, này các Tỷ-kheo, là hạng Sa-môn bất động.
 
-<!--pg-->
+
 3\. Và này các Tỷ-kheo, thế nào là hạng Sa-môn sen trắng?
 
 Ở đây, này các Tỷ-kheo, Tỷ-kheo sống tùy quán sự sanh diệt trong năm thủ uẩn: “Ðây là sắc, đây là sắc
@@ -260,13 +267,13 @@ tập khởi, đây là sắc chấm dứt; đây là thọ... đây là tưởn
 khởi, đây là thức chấm dứt”. Nhưng vị ấy chưa an trú với thân cảm giác tám giải thoát. Như vậy, này các
 Tỷ-kheo, là hạng Sa-môn sen trắng.
 
-<!--pg-->
+
 4\. Và này các Tỷ-kheo, thế nào là hạng Sa-môn sen hồng?
 
 Ở đây, này các Tỷ-kheo, vị Tỷ-kheo sống, tùy quán sanh diệt trong năm thủ uẩn: “Ðây là sắc... đây là
 thức chấm dứt”. Và vị ấy an trú với thân cảm giác tám giải thoát. Như vậy, này các Tỷ-kheo, là hạng Samôn sen hồng.
 
-<!--pg-->
+
 5\. Và này các Tỷ-kheo, thế nào là hạng Sa-môn tinh luyện giữa các Sa-môn?
 
 Ở đây, này các Tỷ-kheo, Tỷ-kheo nhiều lần được yêu cầu nhận y, ít khi không được yêu cầu... Này các

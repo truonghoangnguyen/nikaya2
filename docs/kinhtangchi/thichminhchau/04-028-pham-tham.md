@@ -39,6 +39,3 @@ tham, bốn pháp này cần phải tu tập.
 hiềm hận... gièm pha... nhiệt não... tật đố... xan tham... man trá... xảo trá... ngoan cố... bồng bột... mạn...
 quá mạn... say mê... phóng dật, bốn pháp này cần phải tu tập.
 
-**-ooOoo-**
-**CHƯƠNG V: CHƯƠNG NĂM PHÁP**
-
