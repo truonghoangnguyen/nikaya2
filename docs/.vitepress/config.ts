@@ -65,7 +65,7 @@ export default defineConfig({
         name: 'copy-markdown-files',
         // This hook runs at the end of the build process
         closeBundle() {
-          return;
+          //return;
           const sourceDirs = ['./docs/kinhtruongbo/', './docs/kinhtrungbo/', './docs/kinhtangchi/']; // Directories with your MD files
           //@ts-ignore
           const outputDir = path.resolve(__dirname, 'dist/');
