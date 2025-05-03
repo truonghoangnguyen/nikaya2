@@ -1,7 +1,7 @@
 # V. Phẩm Nhỏ
 
 
-**41.- Sự Có Mặt**
+### 41.- Sự Có Mặt
 − Do sự có mặt của ba pháp, này các Tỷ-kheo, một thiện nam tử có lòng tin tạo ra nhiều phước. Thế nào
 là ba?
 
@@ -12,7 +12,7 @@ các vị xứng đáng được cúng dường, này các Tỷ-kheo, một thi�
 Do sự có mặt của ba pháp này, này các Tỷ-kheo, một thiện nam tử có lòng tin tạo ra nhiều phước.
 
 <!--pg-->
-**42.- Sự Kiện**
+### 42.- Sự Kiện
 
 − Do ba sự kiện, này các Tỷ-kheo, một người được biết là có lòng tin. Thế nào là ba?
 
@@ -26,7 +26,7 @@ _Nhiếp phục uế xan tham_\
 _Vị ấy gọi có tin_
 
 <!--pg-->
-**43.- Ba Lợi Ích**
+### 43.- Ba Lợi Ích
 
 − Thấy rõ ba lợi ích này (lý do, lợi ích) là cần thiết cho một người thuyết pháp cho người khác. Thế nào
 là ba?
@@ -37,7 +37,7 @@ phải liễu giải pháp. Thấy rõ ba lợi ích này, này các Tỷ-kheo, 
 người khác.
 
 <!--pg-->
-**44.- Trường Hợp**
+### 44.- Trường Hợp
 
 − Có ba trường hợp, này các Tỷ-kheo, cuộc pháp thoại được diễn tiến có lợi ích. Thế nào là ba?
 
@@ -46,7 +46,7 @@ thuyết pháp và ai nghe pháp, cả hai cần phải liễu giải nghĩa và
 này, này các Tỷ-kheo, là cuộc pháp thoại được diễn tiến có lợi ích.
 
 <!--pg-->
-**45.- Bổn Phận**
+### 45.- Bổn Phận
 
 − Ba pháp này, này các Tỷ-kheo, được người Hiền trí tuyên bố, được bậc Chân nhân tuyên bố. Thế nào
 là ba?
@@ -66,7 +66,7 @@ _Bậc Thánh thấy rõ vậy_\
 _Ðạt được đời an lạc._
 
 <!--pg-->
-**46.- Bậc Giới Hạnh**
+### 46.- Bậc Giới Hạnh
 
 − Gần làng hay thị trấn nào, này các Tỷ-kheo, các bậc xuất gia có giới hạnh trú ở, tại chỗ ấy, các người
 nhờ ba sự kiện được gặt nhiều công đức. Thế nào là ba? Bởi thân, bởi lời nói, bởi ý.
@@ -75,7 +75,7 @@ Gần làng hay thị trấn nào, này các Tỷ-kheo, các bậc xuất gia c�
 nhờ ba sự kiện này, được gặt nhiều công đức.
 
 <!--pg-->
-**47.- Hửu Vi**
+### 47.- Hửu Vi
 − Có ba tướng hữu vi này, này các Tỷ-kheo, cho các pháp hữu vi. Thế nào là ba?
 
 Sanh được trình bày rõ, diệt được trình bày rõ, sự biến dị khi đang trú được trình bày rõ. Có ba tướng
@@ -87,7 +87,7 @@ Sanh không được trình bày rõ, diệt không được trình bày rõ, s�
 bày rõ. Có ba tướng vô vi này, này các Tỷ-kheo, cho các pháp vô vi.
 
 <!--pg-->
-**48.- Núi**
+### 48.- Núi
 
 − Dựa vào vua núi Tuyết Sơn, này các Tỷ-kheo, các cây sàlà to lớn được lớn lên ba sự tăng trưởng. Thế
 nào là ba?
@@ -122,7 +122,7 @@ _Trong Thiên giới hỷ lạc_\
 _Ước muốn được hoàn hỷ._
 
 <!--pg-->
-**49.- Nhiệt Tình Tinh Tấn**
+### 49.- Nhiệt Tình Tinh Tấn
 
 − Có ba trường hợp, này các Tỷ-kheo, nhiệt tình cần phải làm mạnh. Thế nào là ba?
 
@@ -138,7 +138,7 @@ sống, nhiệt tình làm mạnh. Tỷ-kheo ấy, này các Tỷ-kheo, được
 niệm để chơn chánh đoạn tận khổ đau.
 
 <!--pg-->
-**50.- Giặc Cướp**
+### 50.- Giặc Cướp
 
 − Do đầy đủ ba điều kiện, này các Tỷ-kheo, một tên cướp lớn có thể chặt được khóa cửa, mang đi được
 đồ ăn trộm, làm kể cướp trộm một nhà, làm kẻ đứng đường chận cướp. Thế nào là ba?

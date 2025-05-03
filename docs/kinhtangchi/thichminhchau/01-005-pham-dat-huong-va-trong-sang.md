@@ -1,6 +1,6 @@
 # V. Phẩm Ðặt Hướng và Trong Sáng
 
-**1-10 Tâm Ðặt Sai Hướng v.v...**
+### 1-10 Tâm Ðặt Sai Hướng v.v...
 
 1\. -Ví như, này các Tỷ-kheo, sợi râu của lúa mì, hay sợi râu của lúa mạch đặt sai hướng, khi bị tay hay
 chân đè vào, có thể đâm thủng tay hay chân, hay có thể làm đổ máu; sự tình này không xảy ra. Vì cớ

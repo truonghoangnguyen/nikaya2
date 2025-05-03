@@ -1,6 +1,6 @@
 # III. Phẩm Chỗ Cư Trú Của Hữu Tình
 
-**(I) (21) Trong Ba Phương Diện**
+### (I) (21) Trong Ba Phương Diện
 
 1.- Này các Tỷ-kheo, trong ba phương diện người Uttarakurukà (Bắc Cu-lô châu) thù thắng hơn chư
 Thiên cõi Ba mươi ba và loài Người ở Jambudìpa (Diêm-phù-đề). Thế nào là ba?
@@ -27,7 +27,7 @@ Họ là anh hùng, có trú niệm và sống Phạm hạnh ở đời này.
 Này các Tỷ-kheo, trong ba phương diện này, loài Người ở cõi Jambudìpa thù thắng hơn loài Người ở cõi
 Uttarakuruka và chư Thiên ở cõi trời Ba mươi ba.
 
-**(II) (22) Ngựa Chưa Ðược Ðiều Phục**
+### (II) (22) Ngựa Chưa Ðược Ðiều Phục
 
 1.- Này các Tỷ-kheo, Ta sẽ giảng về ba loại ngựa chưa được điều phục và ba hạng người chưa được điều
 phục; ba loại ngựa được điều phục, và ba hạng người được điều phục; ba loại ngựa hiền thiện thuần
@@ -172,7 +172,7 @@ thắng luật, vị ấy liền trả lời. Ðây Ta nói trong nghĩa có s�
 Tỷ-kheo, là hạng người hiền thiện thuần lương, có tốc lực, có sắc đẹp, có cân đối. Ba hạng người này,
 này các Tỷ-kheo, là ba hạng người hiền thiện thuần lương.
 
-**(III) (23) Ái**
+### (III) (23) Ái
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, Ta sẽ thuyết về chín pháp lấy ái làm cội gốc. Hãy nghe và khéo tác ý, Ta sẽ giảng.
@@ -186,7 +186,7 @@ trước; do duyên chấp trước nên có xan tham; do duyên xan tham nên c
 
 Này các Tỷ-kheo, đây là chín pháp lấy ái làm cội gốc.
 
-**(IV) (24) Các Loại Hữu Tình**
+### (IV) (24) Các Loại Hữu Tình
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, có chín chỗ cư trú của loài hữu tình. Thế nào là chín?
@@ -229,7 +229,7 @@ rằng: “Thức là vô biên”, chứng được Thức vô biên xứ. Ðó
 tưởng phi phi tưởng xứ. Ðó là hữu tình trú xứ thứ chín.
 
 Này các Tỷ-kheo, đây là chín chỗ cư trú của các loài hữu tình.
-**(V) (25) Trí Tuệ**
+### (V) (25) Trí Tuệ
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, khi nào tâm Tỷ-kheo được khéo tích tập với trí tuệ, thời thật hợp lý cho Tỷ-kheo
@@ -250,7 +250,7 @@ Này các Tỷ-kheo, khi nào tâm Tỷ-kheo được khéo tích tập với tr
 nói như sau: “Ta rõ biết: “Sanh đã tận, Phạm hạnh đã thành, những việc nên làm đã làm, không còn trở
 lui trạng thái này nữa”” .
 
-**(VI) (26) Trụ Ðá**
+### (VI) (26) Trụ Ðá
 
 <!--pg-->
 1\. Như vầy tôi nghe:
@@ -320,7 +320,7 @@ nhiễm, không bị lay động. Vị ấy tùy quán sự diệt tận của c
 các pháp do ý nhận thức mạnh mẽ đi vào giới vức của ý, các pháp không chinh phục tâm vị ấy, tâm
 được an trú, không bị tạp nhiễm, không bị lay động. Vị ấy tùy quán sự diệt tận của chúng.
 
-**(VII) (27) Sợ Hãi Hận Thù (1)**
+### (VII) (27) Sợ Hãi Hận Thù (1)
 
 <!--pg-->
 1\. Rồi gia chủ Anàthapindika đi đến Thế Tôn, sau khi đến đảnh lễ Thế Tôn rồi ngồi xuống một bên. Thế
@@ -375,11 +375,11 @@ phước điền ở trên đời. Các vị ấy đầy đủ các giới đứ
 bị hủy hoại, không có tỳ vết, không có vết nhơ, đưa đến tự do, được người trí tán thán, không bị nhiễm
 trước, đưa đến Thiền định. Bốn Dự lưu phần này được thành tựu.
 
-**(VIII) (28) Sợ Hãi Hận Thù (2)**
+### (VIII) (28) Sợ Hãi Hận Thù (2)
 
 (Thế Tôn thuyết lại kinh 26 cho các Tỷ-kheo).
 
-**(IX) (29) Xung Ðột Sự**
+### (IX) (29) Xung Ðột Sự
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, có chín xung đột sự. Thế nào là chín?
@@ -392,7 +392,7 @@ lợi cho người tôi không thương, không mến”... “Vị ấy đang l
 không thương, không mến”, xung đột khởi lên.
 
 Này các Tỷ-kheo, đây là chín xung đột sự.
-**(X) (30) Ðiều Phục Xung Ðột Sự**
+### (X) (30) Ðiều Phục Xung Ðột Sự
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, có chín điều phục xung đột sự. Thế nào là chín? “Vị ấy đã làm hại tôi; có ích lợi
@@ -405,7 +405,7 @@ có lợi ích gì mà nghĩ như vậy”, nhờ vậy xung đột được đi
 
 Này các Tỷ-kheo, đây là chín xung đột sự được điều phục.
 
-**(XI) (31) Chín Thứ Ðệ Diệt**
+### (XI) (31) Chín Thứ Ðệ Diệt
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, có chín thứ đệ diệt. Thế nào là chín?

@@ -1,6 +1,6 @@
 # XVII. Phẩm Ðạo Hạnh
 
-**(I) (161) Tóm Tằt**
+### (I) (161) Tóm Tằt
 
 − Này các Tỷ-kheo, có bốn đạo hành này. Thế nào là bốn?
 
@@ -10,7 +10,7 @@ lạc, thắng trí nhanh.
 Này các Tỷ-kheo, cố bốn đạo hành này.
 
 <!--pg-->
-**(II) (162) Với Chi Tiết**
+### (II) (162) Với Chi Tiết
 
 1\. - Này các Tỷ-kheo, có bốn đạo hành này. Thế nào là bốn?
 
@@ -49,7 +49,7 @@ dào, người ấy đạt được Vô gián định một cách nhanh chóng �
 đây gọi là đạo hành lạc, thắng trí nhanh. Này các Tỷ-kheo, có bốn đạo hành này.
 
 <!--pg-->
-**(III) (163) Bất Tịnh**
+### (III) (163) Bất Tịnh
 
 1.- Này các Tỷ-kheo, có bốn đạo hành này. Thế nào là bốn? Ðạo hành khổ, thắng trí chậm; Ðạo hành
 khổ, thắng trí nhanh; Ðạo hành lạc, thắng trí chậm; Ðạo hành lạc, thắng trí nhanh.
@@ -92,7 +92,7 @@ tuệ căn. Do năm căn mềm rất dồi dào này, vị ấy chứng được
 Này các Tỷ-kheo, có bốn đạo hành này.
 
 <!--pg-->
-**(IV) (164) Kham Nhẫn (1)**
+### (IV) (164) Kham Nhẫn (1)
 
 1.- Này các Tỷ-kheo, có bốn đạo hành này. Thế nào là bốn?
 
@@ -127,7 +127,7 @@ chấm dứt, khiến đi đến không sanh hữu. Này các Tỷ-kheo, đây g
 Này các Tỷ-kheo, có bốn đạo hành này.
 
 <!--pg-->
-**(V) (165) Kham Nhẫn (2)**
+### (V) (165) Kham Nhẫn (2)
 
 1.- Này các Tỷ-kheo, có bốn đạo hành này. Thế nào là bốn?
 
@@ -157,7 +157,7 @@ _164.4). Này các Tỷ-kheo, đây gọi là đạo hành nhiếp phục._
 Này các Tỷ-kheo, có bốn đạo hành này.
 
 <!--pg-->
-**(VI) (166) Với Các Chi Tiết**
+### (VI) (166) Với Các Chi Tiết
 
 1.- Này các Tỷ-kheo, có bốn đạo hành này. Thế nào là bốn? Ðạo hành khổ, thắng trí chậm; Ðạo hành
 khổ, thắng trí nhanh; Ðạo hành lạc, thắng trí chậm; Ðạo hành lạc, thắng trí nhanh.
@@ -180,7 +180,7 @@ này cả hai phương diện, được gọi là thù thắng.
 Này các Tỷ-kheo, có bốn đạo hành này.
 
 <!--pg-->
-**(VII) (167) Sàriputta Và Moggallàna**
+### (VII) (167) Sàriputta Và Moggallàna
 
 1\. Rồi Tôn giả Sàriputta đi đến Tôn giả Moggallàna, sau khi đến, nói lên với Tôn giả Moggallàna những
 lời chào đón hỏi thăm, sau khi nói lên những lời chào đón hỏi thăm thân hữu, liền ngồi xuống một bên.
@@ -204,7 +204,7 @@ hành này khổ, thắng trí nhanh. Do đi đến đạo hành này, tâm củ
 không có chấp thủ.
 
 <!--pg-->
-**(VIII) (168) Moggallàna và Sàriputta**
+### (VIII) (168) Moggallàna và Sàriputta
 
 1\. Tôn giả Moggallàna đi đến Tôn giả Sàriputta ... Ngồi xuống một bên, Tôn giả Moggallàna nói với
 Tôn giả Sàriputta:
@@ -222,7 +222,7 @@ lạc, thắng trí nhanh.
 Này Hiền giả, trong bốn đạo hành này, đạo hành này lạc, thắng trí nhanh. Do đi đến đạo hành này, tâm
 của tôi được giải thoát khỏi các lậu hoặc, không có chấp thủ.
 <!--pg-->
-**(IX) (169) Với Một Vài Nỗ Lực**
+### (IX) (169) Với Một Vài Nỗ Lực
 
 1\. - Này các Tỷ-kheo, có bốn hạng người này có mặt, hiện hữu ở đời. Thế nào là bốn?
 
@@ -265,7 +265,7 @@ Niết-bàn.
 Này các Tỷ-kheo, có bốn hạng người này có mặt, hiện hữu ở đời.
 
 <!--pg-->
-**(X) (170) Gắn Liền Cột Chặt**
+### (X) (170) Gắn Liền Cột Chặt
 
 1\. Một thời, Tôn giả Ananda sống ở Kosàmbi, tại khu vườn Ghosita. Tại đấy, Tôn giả Ananda gọi các
 Tỷ-kheo:

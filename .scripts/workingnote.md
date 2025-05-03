@@ -10,6 +10,7 @@
 ## tạo NAV file
 3. Tạo navfile(next-back) và index.md
 ## tạo So sánh
+
 3.1 Tạo file `filelist.js`, `index.md`  trong thư mục tương ứng (.scripts/3make_filelist.ipynb)
 
 filelist.js có format như sau:

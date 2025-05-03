@@ -1,6 +1,6 @@
 # XXI. Phẩm Thân Do Nghiệp Sanh
 
-**(I) (200) Ðịa Ngục, Thiên Giới**
+### (I) (200) Ðịa Ngục, Thiên Giới
 
 <!--pg-->
 1\. Thành tựu mười pháp, tương xứng như vậy, như vậy bị rơi vào địa ngục. Thế nào là mười?
@@ -70,11 +70,11 @@ cho đời này và cho đời sau”.
 
 “Thành tựu mười pháp này, này các Tỷ-kheo, như vậy tương xứng được sanh lên Thiên giới.
 
-**(II) (201) Ðịa Ngục Và Thiên Giới**
+### (II) (201) Ðịa Ngục Và Thiên Giới
 
 (Giống như kinh trước)
 
-**(III) (202) Nữ Nhân**
+### (III) (202) Nữ Nhân
 
 <!--pg-->
 1\. Này các Tỷ-kheo, thành tựu mười pháp, nữ nhân như vậy tương xứng bị rơi vào địa ngục. Thế nào là
@@ -97,11 +97,11 @@ tận sân tâm... chánh kiến...
 
 Thành tựu mười pháp này, này các Tỷ-kheo, nữ nhân như vậy tương xứng được sanh lên Thiên giới.
 
-**(IV) (203) Nữ Cư Sĩ**
+### (IV) (203) Nữ Cư Sĩ
 
 (Như kinh trên, chỉ thế nữ cư sĩ cho nữ nhân).
 
-**(204) Sợ Hãi Và Vô Úy**
+### (204) Sợ Hãi Và Vô Úy
 
 <!--pg-->
 1\. Thành tựu mười pháp, này các Tỷ-kheo, người nữ cư sĩ sống ở gia đình không có vô úy. Thế nào là
@@ -120,7 +120,7 @@ Thành tựu mười pháp, này các Tỷ-kheo, người nữ cư sĩ sống �
 
 Thành tựu mười pháp này, này các Tỷ-kheo, người nữ cư sĩ sống ở gia đình không có sợ hãi.
 
-**(VI) (205) Pháp Môn Quanh Co**
+### (VI) (205) Pháp Môn Quanh Co
 
 <!--pg-->
 1\. Này các Tỷ-kheo, Ta sẽ thuyết về pháp môn quanh co và pháp môn Chánh pháp. Hãy nghe và khéo
@@ -194,7 +194,7 @@ Này các Tỷ-kheo, các chúng sanh là chủ của nghiệp, là những kẻ
 nghiệp, là bà con của nghiệp, là chỗ nương tựa của nghiệp. Phàm làm nghiệp gì, thiện hay ác, họ là
 những kẻ thừa tự của nghiệp ấy.
 
-**(VII) (206) Ngọc Ma-Ni**
+### (VII) (206) Ngọc Ma-Ni
 
 <!--pg-->
 1\. Ta tuyên bố rằng, này các Tỷ-kheo, các nghiệp đã tư niệm, đã làm, đã tích tập, nếu không cảm thọ
@@ -342,11 +342,11 @@ có ba phần, các chúng sanh, sau khi thân hoại mạng chung sanh vào thi
 Ta tuyên bố rằng các nghiệp đã tư niệm, đã được làm, đã được tích tập, nếu chưa lãnh thọ (kết quả) thời
 khổ không được chấm dứt.
 
-**(VIII) (207) Tổn Giảm và Tăng Trưởng**
+### (VIII) (207) Tổn Giảm và Tăng Trưởng
 
 (kinh này giống hẳn như kinh trước 206).
 
-**(IX) (208) Phạm Thiên Trú**
+### (IX) (208) Phạm Thiên Trú
 
 <!--pg-->
 1\. Ta tuyên bố rằng, này các Tỷ-kheo, các nghiệp được tư niệm, được làm, được tích tập, nếu không cảm
@@ -399,7 +399,7 @@ nghiệp làm ra này, tất cả cần phải cảm thọ ở đây, nó không
 này các Tỷ-kheo, xả tâm này được tu tập, đưa đến không có trở lui, đối với Tỷ-kheo có trí tuệ, có được
 trong đời này, nhưng vị ấy chưa thể nhập sự giải thoát hơn thế nữa.
 
-**(X) (209) Sau Khi Chết**
+### (X) (209) Sau Khi Chết
 
 <!--pg-->
 1\. Rồi một Bà-la-môn đi đến Thế Tôn, sau khi đến, nói lên với Thế Tôn những lời chào đón hỏi thăm,

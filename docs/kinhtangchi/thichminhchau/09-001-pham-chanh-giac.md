@@ -1,6 +1,6 @@
 # I. Phẩm Chánh Giác
 
-**(I) (1) Chánh Giác**
+### (I) (1) Chánh Giác
 
 <!--pg-->
 1\. - Như vầy tôi nghe:
@@ -70,7 +70,7 @@ tu tập tưởng bất tịnh để đoạn tận tham ái, cần phải tu t�
 hơi thở vô, hơi thở ra để cắt đứt tầm, cần phải tu tập tưởng vô thường để phá hoại ngã mạn. Này các Tỷkheo, với Tỷ-kheo có tưởng vô thường, tưởng vô ngã được an trú; với Tỷ-kheo có tưởng vô ngã, ngã
 mạn bị phá hoại, ngay trong hiện tại, đạt được Niết-bàn.
 
-**(II) (2) Y Chỉ**
+### (II) (2) Y Chỉ
 
 <!--pg-->
 1\. Rồi một Tỷ-kheo đi đến Thế Tôn, sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Ngồi xuống
@@ -91,7 +91,7 @@ chỉ. Thế nào là bốn?
 kham nhẫn một sự, sau khi cân nhắc, từ bỏ một sự, sau khi cân nhắc, trừ sạch một sự. Như vậy, này các
 Tỷ-kheo, Tỷ-kheo đầy đủ y chỉ.
 
-**(III) (3) Tôn Gỉa Meghiya**
+### (III) (3) Tôn Gỉa Meghiya
 
 <!--pg-->
 1\. Một thời, Thế Tôn trú ở Càlikà, tại núi Càlikà. Lúc bấy giờ, Tôn giả Meghiya là người thị giả Thế
@@ -200,7 +200,7 @@ thở ra để cắt đứt tầm, tu tập tưởng vô thường để phá ho
 vô thưởng, tưởng vô ngã được tồn tại. Có tưởng vô ngã, thời ngã mạn bị phá hoại, ngay trong hiện tại
 đạt được Niết-bàn.
 
-**(IV) (4) Tôn Giả Nandaka**
+### (IV) (4) Tôn Giả Nandaka
 
 <!--pg-->
 1\. Một thời Thế Tôn trú ở Sàvathi, tại Jetavana, trong khu vườn ông Anàthapindika. Lúc bấy giờ, Tôn
@@ -291,7 +291,7 @@ trú. Này chư Hiền, đây là lợi ích thứ năm, do nghe pháp đúng th
 
 Này chư Hiền, đó là năm lợi ích do nghe pháp đúng thời, và do đàm luận về pháp đúng thời.
 
-**(V) (5) Những Sức Mạnh**
+### (V) (5) Những Sức Mạnh
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, có bốn sức mạnh này. Thế nào là bốn?
@@ -360,7 +360,7 @@ có thể sợ hãi sự sợ hãi về ác thú.”
 
 Thành tựu bốn lực ấy, này các Tỷ-kheo, Thánh đệ tử vượt qua năm sự sợ hãi này.
 
-**(VI) (6) Cần Phải Thân Cận**
+### (VI) (6) Cần Phải Thân Cận
 
 <!--pg-->
 1\. Ở đây, Tôn giả Sàriputta gọi các Tỷ-kheo: “Này chư Hiền”. - “Thưa Hiền giả”. Các không ấy vâng
@@ -463,7 +463,7 @@ trưởng; như vậy nên được tìm đến”.
 Này chư Hiền, quốc độ cần phải được hiểu biết theo hai phương diện: nên được tìm đến hay không nên
 được tìm đến, được nói đến như vậy, do duyên này được nói đến.
 
-**(VII) (7) Du Sĩ Sutavà**
+### (VII) (7) Du Sĩ Sutavà
 
 <!--pg-->
 1\. Như vậy tôi nghe:
@@ -500,7 +500,7 @@ sau: “Tỷ-kheo nào là bậc A-la-hán đã đoạn tận các lậu hoặc,
 làm, đã đặt gánh nặng xuống, mục đích đã đạt được, hữu kiết sử đã đoạn tận, chơn chánh giải thoát; vị
 ấy không có thể vi phạm năm sự”.
 
-**(VIII) (8) Du Sĩ Sajjha**
+### (VIII) (8) Du Sĩ Sajjha
 
 <!--pg-->
 1\. Như vầy tôi nghe:
@@ -541,7 +541,7 @@ có thể phủ nhận chúng tăng; Tỷ-kheo đã đoạn tận các lậu ho�
 đặt gánh nặng xuống, mục đích đã đạt được, hữu kiết sử đã đoạn tận, chơn chánh giải thoát; vị ấy không
 có thể vi phạm chín sự”.
 
-**(IX) (9) Các Hạng Người**
+### (IX) (9) Các Hạng Người
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, có chín hạng người này có mặt, hiện hữu ở đời. Thế nào là chín?
@@ -553,7 +553,7 @@ chứng đắc quả Dự lưu; kẻ phàm phu.
 
 Này các Tỷ-kheo, có chín hạng người này có mặt, hiện hữu ở đời.
 
-**(X) (10) Ðáng Cung Kính**
+### (X) (10) Ðáng Cung Kính
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, có chín hạng người này đáng được cung kính, đáng tôn trọng, đáng cúng dường,

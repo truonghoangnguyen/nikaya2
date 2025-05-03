@@ -1,6 +1,6 @@
 # XX. Phẩm Thiền Định (Búng Ngón Tay)
 
-**Búng Ngón Tay**
+### Búng Ngón Tay
 <!--pg-->
 2-9. Nếu chỉ trong thời gian búng ngón tay, này các Tỷ-kheo, vị Tỷ-kheo tu tập Thiền thứ nhất, vị này,
 này các Tỷ-kheo, được gọi là một Tỷ-kheo trú Thiền không phải uổng phí, đã làm theo lời dạy bậc Ðạo

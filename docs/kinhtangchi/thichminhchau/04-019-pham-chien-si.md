@@ -1,6 +1,6 @@
 # XIX. Phẩm Chiến Sĩ
 
-**(I) (181) Người Chiến Sĩ**
+### (I) (181) Người Chiến Sĩ
 
 1.- Thành tựu bốn chi phần này, này các Tỷ-kheo, một chiến sĩ xứng đáng để cho vua sử dụng, thuộc sở
 hữu của vua, là biểu tượng của vua. Thế nào là bốn?
@@ -61,7 +61,7 @@ này các Tỷ-kheo, là Tỷ-kheo bắn như chớp nhoáng.
 trọng, xứng đáng được cúng dường, xứng đáng được chắp tay, là ruộng phước vô thượng ở đời.
 
 <!--pg-->
-**(II) (182) An Toàn**
+### (II) (182) An Toàn
 
 1.- Này các Tỷ-kheo, không một Sa-môn, Bà-la-môn, Thiên, Nhân, Màra, Phạm thiên hay một ai ở đời
 có được sự an toàn đối với bốn pháp. Thế nào là bốn?
@@ -82,7 +82,7 @@ Này các Tỷ-kheo, không một Sa-môn, Bà-la-môn, Thiên, Nhân, Màra, Ph
 được sự an toàn đối với bốn pháp này.
 
 <!--pg-->
-**(III) (183) Ðiều Ðược Nghe**
+### (III) (183) Ðiều Ðược Nghe
 
 1\. Một thời, Thế Tôn trú ở Ràjagaha (Vương Xá) tại Veluvana (Trúc Lâm), chỗ nuôi dưỡng các con sóc.
 Rồi Bà-la-môn Vassakàra, vị đại thần nước Magadha đi đến Thế Tôn, sau khi đến, nói lên với Thế Tôn
@@ -112,7 +112,7 @@ Rồi Bà-la-môn Vassakàra, vị đại thần xứ Magadha, hoan hỷ, tín t
 dậy rồi ra đi.
 
 <!--pg-->
-**(IV) (184) Không Sợ Hãi**
+### (IV) (184) Không Sợ Hãi
 
 1\. Rồi Bà-la-môn Jànussoni đi đến Thế Tôn; sau khi đến, nói lên với Thế Tôn những lời chào đón hỏi
 thăm ... Ngồi xuống một bên, Bà-la-môn Jànussoni bạch Thế Tôn:
@@ -188,7 +188,7 @@ chết
 nay cho đến mạng chung, con trọn đời quy ngưỡng.
 
 <!--pg-->
-**(V) (185) Các Sự Thật Bà La Môn**
+### (V) (185) Các Sự Thật Bà La Môn
 
 1\. Một thời, Thế Tôn trú ở Ràjagaha (Vương Xá), núi Gijjhakùta (Linh Thứu). Lúc bấy giờ, nhiều vị du
 sĩ có danh tiếng, có danh tiếng sống ở khu vườn của các du sĩ trên bờ sông Sappini như Annabhàra,
@@ -236,7 +236,7 @@ con đường không có sự vật gì.
 Này các du sĩ, có bốn sự thật Bà-la-môn này, Ta đã tự mình chứng ngộ với thắng trí và tuyên bố lên.
 
 <!--pg-->
-**(VI) (186) Con Ðường Sai Lạc**
+### (VI) (186) Con Ðường Sai Lạc
 
 1\. Rồi một Tỷ-kheo đi đến Thế Tôn; sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Ngồi xuống
 một bên, Tỷ-kheo ấy bạch Thế Tôn:
@@ -307,7 +307,7 @@ người, không có nghĩ tự mình làm hại cả hai, có suy nghĩ điều
 hai, lợi toàn thể thế giới. Như vậy, này Tỷ-kheo, là Bậc Hiền trí, Ðại tuệ.
 
 <!--pg-->
-**(VII) (187) Vassakàra**
+### (VII) (187) Vassakàra
 
 1\. Một thời, Thế Tôn trú ở Ràjagaha (Vương Xá), tại Trúc Lâm, chỗ nuôi dưỡng các con sóc. Rồi Bà-lamôn Vassakàra, một đại thần nước Magadha đi đến Thế Tôn, sau khi đến, nói lên với Thế Tôn những lời
 chào đón thăm hỏi. Sau khi nói lên với Thế Tôn những lời chào đón thăm hỏi thân hữu, Bà-la-môn
@@ -398,7 +398,7 @@ Rồi Bà-la-môn Vassakàra, một đại thần xứ Magadha, hoan hỷ, tín 
 dậy rồi ra đi.
 
 <!--pg-->
-**(VIII) (188) Upaka**
+### (VIII) (188) Upaka
 
 1\. Một thời, Thế Tôn trú ở Ràjagaha, tại Gijjhakùta. Rồi Upaka Mandikàputta đi đến Thế Tôn; sau khi
 đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Ngồi xuống một bên, Upaka Mandikàputta bạch Thế Tôn:
@@ -436,7 +436,7 @@ Upaka Mandikàputta:
 nhiếc mắng Thế Tôn, bậc A-la-hán, Chánh Ðẳng Giác. Hãy đi đi, này Upaka! Chớ để Ta thấy Ông nữa!
 
 <!--pg-->
-**(IX) (189) Chứng Ngộ**
+### (IX) (189) Chứng Ngộ
 
 1.- Này các Tỷ-kheo, có bốn pháp này cần phải chứng ngộ. Thế nào là bốn?
 
@@ -457,7 +457,7 @@ này các Tỷ-kheo, cần phải chứng ngộ bằng trí tuệ.
 Này các Tỷ-kheo, có bốn pháp này cần phải chứng ngộ.
 
 <!--pg-->
-**(X) (190) Ngày Trai Giới**
+### (X) (190) Ngày Trai Giới
 
 1\. Một thời, Thế Tôn trú ở Sàvatthi, tại Pubbàràma trong lâu đài của mẹ Migàrà. Lúc bấy giờ, Thế Tôn
 nhân ngày lễ trai giới, đang ngồi có chúng Tỷ-kheo vây quanh. Sau khi nhìn quanh chúng Tỷ-kheo đang

@@ -1,6 +1,6 @@
 # VII. Phẩm Niệm Xứ
 
-**(I) (63) Học Tập**
+### (I) (63) Học Tập
 
 <!--pg-->
 1\. - Này các Tỷ-Kheo, có năm pháp làm suy yếu học tập này. Thế nào là năm?
@@ -19,7 +19,7 @@ nhiệt tâm, tỉnh giác, chánh niệm để nhiếp phục tham ưu ở đ�
 
 Này các Tỷ-kheo, để đoạn tận năm pháp làm suy yếu học tập này, Bốn niệm xứ cần phải tu tập
 
-**(II) (64) Triền Cái**
+### (II) (64) Triền Cái
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, có năm triền cái này. Thế nào là năm?
@@ -36,7 +36,7 @@ các Tỷ-kheo, có năm triền cái này.
 tỉnh giác, chánh niệm để nhiếp phục tham ưu ở đời. Này các Tỷ-kheo, để đoạn tận năm triền cái, Bốn
 niệm xứ cần phải tu tập
 
-**(III) (65) Dục Trưởng Dưỡng**
+### (III) (65) Dục Trưởng Dưỡng
 
 1.- Này các Tỷ-kheo, có năm dục trưởng dưỡng này. Thế nào là năm?
 
@@ -47,7 +47,7 @@ nhận thức khả lạc... hấp dẫn. Này các Tỷ-kheo, có năm dục tr
 <!--pg-->
 3\. Này các Tỷ-kheo, để đoạn tận năm dục trưởng dưỡng này, Bốn niệm xứ này phải tu tập.
 
-**(IV) (66) Thủ Uẩn**
+### (IV) (66) Thủ Uẩn
 
 <!--pg-->
 1\. - Này các Tỷ-kheo có năm thủ uẩn này. Thế nào là năm?
@@ -59,7 +59,7 @@ này.
 <!--pg-->
 3\. Này các Tỷ-kheo, để đoạn tận năm thù uẩn này, Bốn niệm xứ cần phải tu tập. Thế nào là bốn? .... Bốn
 niệm xứ cần phải tu tập
-**(V) (67) Năm Hạ Phần Kiết Sử**
+### (V) (67) Năm Hạ Phần Kiết Sử
 
 <!--pg-->
 1\. - Này các Tỷ-kheo có năm hạ phần kiết sử này. Thế nào là năm?
@@ -71,7 +71,7 @@ niệm xứ cần phải tu tập
 3\. Này các Tỷ-kheo, để đoạn tận tâm hạ phần kiết sử này, Bốn niệm xứ cần phải tu tập. Thế nào là
 bốn? ... Bốn niệm xứ này cần phải tu tập.
 
-**(VI) (68) Sanh Thú**
+### (VI) (68) Sanh Thú
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, có năm sanh thú này. Thế nào là năm?
@@ -83,7 +83,7 @@ bốn? ... Bốn niệm xứ này cần phải tu tập.
 3\. Này các Tỷ-kheo, để đoạn tận năm sanh thú này, Bốn niệm xứ cần phải tu tập. Thế nào là bốn? ... Bốn
 niệm xứ này cần phải tu tập.
 
-**(VII) (69) Xan Tham**
+### (VII) (69) Xan Tham
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, có năm xan tham này. Thế nào là năm?
@@ -95,7 +95,7 @@ niệm xứ này cần phải tu tập.
 3\. Này các Tỷ-kheo, để đoạn tận năm xan tham này, Bốn niệm xứ cần phải tu tập. Thế nào là bốn? ...
 Bốn niệm xứ này cần phải tu tập.
 
-**(VIII) (70) Năm Thượng Phần Kiết Sử**
+### (VIII) (70) Năm Thượng Phần Kiết Sử
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, có năm thượng phần kiết sử này. Thế nào là năm?
@@ -107,7 +107,7 @@ Bốn niệm xứ này cần phải tu tập.
 3\. Này các Tỷ-kheo, để đoạn tận năm thượng phần kiết sử này, cần phải tu tập Bốn niệm xứ. Thế nào là
 bốn? ... Bốn niệm xứ này cần phải tu tập.
 
-**(IX) (71) Năm Tâm Hoang Vu**
+### (IX) (71) Năm Tâm Hoang Vu
 
 <!--pg-->
 1\. - Có năm tâm hoang vu này. Thế nào là năm?
@@ -126,7 +126,7 @@ thần. Như vậy gọi là tân hoang vu thứ năm.
 <!--pg-->
 3\. Này các Tỷ-kheo, để đoạn tận năm tâm hoang vu này... Bốn niệm xứ cần phải tu tập
 
-**(X) (72) Tâm Phiền Trược**
+### (X) (72) Tâm Phiền Trược
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, có năm triền phược này. Thế nào là năm?

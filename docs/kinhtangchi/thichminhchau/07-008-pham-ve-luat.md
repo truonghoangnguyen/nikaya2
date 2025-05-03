@@ -1,6 +1,6 @@
 # VIII. Phẩm Về Luật
 
-**(I) (71) Trì Luật (1)**
+### (I) (71) Trì Luật (1)
 
 <!--pg-->
 1\. - Thành tựu bảy pháp, này các Tỷ-kheo, Tỷ-kheo là bậc trì Luật. Thế nào là bảy?
@@ -14,7 +14,7 @@ trong hiện tại chứng ngộ, chứng đạt vô lậu tâm giải thoát, t
 
 Thành tựu bảy pháp này, này các Tỷ-kheo, Tỷ-kheo là bậc trì Luật.
 
-**(II) (72) Trì Luật 2)**
+### (II) (72) Trì Luật 2)
 <!--pg-->
 1\. - Thành tựu bảy pháp, này các Tỷ-kheo, Tỷ-kheo là bậc trì Luật. Thế nào là bảy?
 
@@ -27,7 +27,7 @@ chứng đạt vô lậu tâm giải thoát, tuệ giải thoát.
 
 Thành tựu bảy pháp này, này các Tỷ-kheo, Tỷ-kheo là bậc trì Luật.
 
-**(III) (73) Trì Luật (3)**
+### (III) (73) Trì Luật (3)
 
 <!--pg-->
 1\. - Thành tựu bảy pháp, này các Tỷ-kheo, Tỷ-kheo là bậc trì Luật. Thế nào là bảy?
@@ -39,7 +39,7 @@ thoát.
 
 Thành tựu bảy pháp này, này các Tỷ-kheo, Tỷ-kheo là bậc trì Luật.
 
-**(IV) (74) Trì Luật (4)**
+### (IV) (74) Trì Luật (4)
 
 <!--pg-->
 1\. - Thành tựu bảy pháp, này các Tỷ-kheo, Tỷ-kheo là bậc trì Luật. Thế nào là bảy?
@@ -51,14 +51,14 @@ nhân... biết rõ chúng sanh; do đoạn trừ các lậu hoặc, tự mình.
 
 Thành tựu bảy pháp này, này các Tỷ-kheo, Tỷ-kheo là bậc trì Luật.
 
-**(V - VIII) (75-78) Chói Sáng**
+### (V - VIII) (75-78) Chói Sáng
 
 <!--pg-->
 1\. - Thành tựu bảy pháp, này các Tỷ-kheo, Tỷ-kheo là bậc trì Luật chói sáng. Thế nào là bảy?
 
 _(Như trên, 71 - 74, chỉ khác thêm chữ chói sáng)._
 
-**(IX) (79) Thông Ðiệp**
+### (IX) (79) Thông Ðiệp
 
 <!--pg-->
 1\. Rồi Tôn giả Upàli đi đến Thế Tôn; sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Ngồi xuống
@@ -74,7 +74,7 @@ hướng thọ trì là: “Ðây không phải Pháp, đây không phải Luậ
 Upàli, những pháp nào Thầy biết: “Những pháp này đưa đến nhất hướng, nhàm chán, ly tham, đoạn diệt,
 an tịnh, thắng trí, giác ngộ, Niết-bàn”, thời này Upàli, Thầy cần phải nhất hướng thọ trì là: “Ðây là Pháp,
 đây là Luật, đây là lời dạy Thế Tôn”.
-**(X) (80) Diệt Tránh Pháp**
+### (X) (80) Diệt Tránh Pháp
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, bảy pháp diệt tránh này đưa đến chấm dứt, làm cho an tịnh các tranh luận tiếp tục

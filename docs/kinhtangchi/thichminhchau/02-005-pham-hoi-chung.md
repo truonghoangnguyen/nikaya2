@@ -1,6 +1,6 @@
 # V. Phẩm Hội Chúng
 
-**1-10**
+### 1-10
 
 1.- Này các Tỷ-kheo, có hai loại hội chúng này. Thế nào là hai? Hội chúng nông nổi và hội chúng thâm
 sâu. Và này các Tỷ-kheo, thế nào là hội chúng nông nổi? Ở đây, này các Tỷ-kheo, tại hội chúng nào có

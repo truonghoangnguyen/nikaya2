@@ -1,6 +1,6 @@
 # II. Phẩm Tùy Miên
 
-**(I) (11) Tùy Miên(1)**
+### (I) (11) Tùy Miên(1)
 <!--pg-->
 1\. - Này các Tỷ-kheo, có bảy tùy niệm. Thế nào là bảy?
 
@@ -8,7 +8,7 @@
 2\. Dục tham tùy miên, sân tùy miên, kiến tùy miên, nghi tùy miên, mạn tùy miên, hữu tham tùy miên, vô
 minh tùy miên. Này các Tỷ-kheo, có bảy tùy miên này.
 
-**(II) (12) Tùy Miên (2)**
+### (II) (12) Tùy Miên (2)
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, do đoạn tận, do cắt đứt bảy tùy miên, Phạm hạnh được sống. Thế nào là bảy?
@@ -24,7 +24,7 @@ khi nào Tỷ-kheo nào đoạn tận dục tham tùy miên... vô minh tùy mi�
 thân cây sàla, làm cho không thể tái sanh, làm cho không thể sanh khởi trong tương lai, này các Tỷkheo, đây gọi là Tỷ-kheo đã chặt đứt khát ái, đã giải tỏa tùy miên, với chơn chánh hiện quán kiêu mạn,
 đã đoạn tận khổ đau.
 
-**(III) (13) Gia Ðình**
+### (III) (13) Gia Ðình
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, gia đình nào thành tựu bảy chi phần; nếu chưa đến thăm, thời không xứng đáng để
@@ -37,7 +37,7 @@ nhiều họ chí ít, từ đồ thù thắng, họ cho đồ thô xấu; họ 
 Này các Tỷ-kheo, gia đình nào thành tựu bảy chi phần này; nếu chưa đến, thời không xứng đáng để đến;
 nếu đã đến, thời không xứng đáng để ngồi xuống.
 
-**(IV) (14) Các Hạng Người**
+### (IV) (14) Các Hạng Người
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, có bảy hạng người đáng được cung kính, đáng được tôn trọng, đáng được cúng
@@ -50,7 +50,7 @@ hành.
 Bảy hạng người này, này các Tỷ-kheo, đáng được cung kính, đáng được tôn trọng, đáng được cúng
 dường, đáng được chắp tay, là ruộng phước vô thượng ở đời.
 
-**(V) (15) Ví Dụ Nước**
+### (V) (15) Ví Dụ Nước
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, có bảy hạng người được ví dụ với nước, có mặt hiện hữu ở đời. Thế pháp là bảy?
@@ -122,7 +122,7 @@ khi nổi lên đã bơi qua, đã đến bờ bên kia, đã đứng trên đ�
 
 Này các Tỷ-kheo, đây là bảy hạng người được ví dụ với nước, có mặt, hiện hữu ở đời.
 
-**(VI) (16) Không Thường Xuyên**
+### (VI) (16) Không Thường Xuyên
 
 <!--pg-->
 1\. - Có bảy hạng người này, này các Tỷ-kheo, đáng được cung kính, đáng được tôn trọng, đáng được
@@ -148,7 +148,7 @@ trọng, đáng được cúng dường, đáng được chắp tay, là ruộng
 
 Bảy hạng người này, này các Tỷ-kheo, đáng được cung kính... vô thượng ở đời.
 
-**(VII) (17) Khổ, Vô Ngã, Tịch Tịnh**
+### (VII) (17) Khổ, Vô Ngã, Tịch Tịnh
 
 <!--pg-->
 1\. - Có bảy hạng người này, này các Tỷ-kheo, đáng được cung kính... ở đời. Thế nào là bảy?
@@ -174,7 +174,7 @@ Vô hành Niết-bàn... chứng được Hữu hành Niết-bàn... chứng đ�
 Ðây là hạng người thứ bảy, này các Tỷ-kheo, đáng được cung kính... là ruộng phước vô thượng ở đời.
 Này các Tỷ-kheo, đây là bảy hạng người ở đời đáng được cung kính... là ruộng phước vô thượng ở đời.
 
-**(VIII) (18) Sự Thù Diệu**
+### (VIII) (18) Sự Thù Diệu
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, có bảy sự thù diệu này. Thế nào là bảy?

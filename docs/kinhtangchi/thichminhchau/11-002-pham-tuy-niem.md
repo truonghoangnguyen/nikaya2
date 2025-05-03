@@ -1,6 +1,6 @@
 # II. Phẩm Tùy Niệm
 
-**(I) (12) Mahànàma (1)**
+### (I) (12) Mahànàma (1)
 
 <!--pg-->
 1\. Một thời, Thế Tôn trú giữa dân chúng Sakka, tại Kapilavatthu, ở khu vườn Nigrodha. Lúc bấy giờ,
@@ -85,7 +85,7 @@ niệm tín, giới, nghe pháp, thí và tuệ của tự mình và chư Thiên
 ảnh, tâm không bị sân ám ảnh, không bị si ám ảnh; trong khi ấy, tâm vị ấy được chánh trực nhờ duyên
 chư Thiên... nhập được pháp lưu, tu tập chư Thiên tùy niệm.
 
-**(II) (13) Mahànàma (2)**
+### (II) (13) Mahànàma (2)
 
 <!--pg-->
 1\. Một thời, Thế Tôn trú ở giữa dân chúng Sakka tại Kapilavatthu, khu vườn Nigrodha. Lúc bấy giờ, họ
@@ -114,7 +114,7 @@ niệm chư Thiên này, này Mahànàma, Ông cần phải tu tập khi đi, Ô
 phải tu tập khi ngồi, Ông cần phải tu tập khi nằm, Ông cần phải tu tập khi ngươi chú tâm vào các công
 việc, Ông cần phải tu tập, khi Ông sống tại trú xứ đầy những con nít.
 
-**(II) (14) Nandiya**
+### (II) (14) Nandiya
 <!--pg-->
 1\. Một thời, Thế Tôn trú ở giữa dân chúng Sakka, tại Kapilavatthu, khu vườn Nigrodha. Lúc bấy giờ,
 Thế Tôn muốn an cư vào mùa mưa tại Sàvatthi. Họ Thích Nandiya được nghe: “Thế Tôn muốn an cư
@@ -179,7 +179,7 @@ như ngọn lửa đốt một khóm rừng đầy cỏ khô đã được cháy
 cháy. Cũng vậy, này Nandiya, thành tựu với mười một pháp này, vị Thánh đệ tử từ bỏ các ác bất thiện
 pháp không có chấp thủ chúng.
 
-**(VI) (15) Subhùti**
+### (VI) (15) Subhùti
 
 <!--pg-->
 1\. Rồi Tôn giả Subhùti, cùng với một Tỷ-kheo có lòng tin đi đến Thế Tôn, sau khi đến đảnh lễ Thế Tôn
@@ -310,7 +310,7 @@ giảng là có trong Tỷ-kheo này. Và Tỷ-kheo này được thấy là có
 Khi nào, này Subhùti Thầy muốn yết kiến Như Lai, hãy cùng với Tỷ-kheo có lòng tin này đi đến yết
 kiến Như Lai.
 
-**(V) (16) Từ**
+### (V) (16) Từ
 
 <!--pg-->
 1\. Này các Tỷ-kheo, từ tâm giải thoát được thực hành, được tu tập, được làm cho sung mãn, được tác
@@ -326,7 +326,7 @@ Này các Tỷ-kheo, từ tâm giải thoát được thực hành, được tu 
 cỗ xe, được tác thành căn cứ địa, được tiếp tục an trú, được tích tập, được khéo khởi sự thời được chờ
 đợi là mười một lợi ích.
 
-**(VI) (17) Gia Chủ Dasama**
+### (VI) (17) Gia Chủ Dasama
 
 <!--pg-->
 1\. Một thời, Tôn giả Ananda trú ở Vesàli, tại làng Beluvagàmaka. Lúc bấy giờ, gia chủ Dasama, trú ở
@@ -422,7 +422,7 @@ với các món ăn thượng vị loại cứng và loại mềm, tự tay dân
 mãn, và mỗi Tỷ-kheo cúng một đôi y. Nhưng riêng đối với Tôn giả Ananda, vị ấy cúng ba y đầy đủ và
 xây dựng một ngôi tinh xá giá trị 500 đồng tiền.
 
-**(VII) (18) Người Chăn Bò**
+### (VII) (18) Người Chăn Bò
 
 <!--pg-->
 1\. Thành tựu mười một chi phần, này các Tỷ-kheo, một người chăn bò không có thể lãnh đạo đàn bò và
@@ -629,7 +629,7 @@ bậc cha trong Tăng chúng, là bậc lãnh đạo trong Tăng chúng, với c
 Thành tựu với mười một pháp này, Tỷ-kheo không có thể tăng trưởng, tăng thịnh, tăng rộng rãi trong
 Pháp và Luật này.
 
-**(VIII) (19) Thiền Ðịnh (1)**
+### (VIII) (19) Thiền Ðịnh (1)
 
 <!--pg-->
 1\. Bấy giờ có một số đông Tỷ-kheo đi đến Thế Tôn, sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một
@@ -663,7 +663,7 @@ trong nước, không tưởng đến nước...; trong thế giới đời sau,
 những gì được thấy, được nghe, được cảm giác, được thức tri, được đạt đến, được tầm cầu, được ý suy
 tư, tại đấy, vị ấy có thể không có tưởng. Tuy vậy vị ấy vẫn có tưởng?
 
-**(IX) (20) Thiền Ðịnh (2)**
+### (IX) (20) Thiền Ðịnh (2)
 
 <!--pg-->
 1\. Tại đấy, Thế Tôn gọi các Tỷ-kheo:
@@ -692,13 +692,13 @@ Tỷ-kheo, Tỷ-kheo khi chứng được Thiền định như vậy, vị ấy 
 trong nước, không tưởng đến nước...; được ý suy tư, tại đấy, vị ấy có thể không có tưởng. Tuy vậy vị ấy
 vẫn có tưởng.
 
-**(X) (21) Thiền Ðịnh (3)**
+### (X) (21) Thiền Ðịnh (3)
 
 <!--pg-->
 1\. Rồi một số đông Tỷ-kheo đi đến Tôn giả Sàriputta... (như kinh số 7, chương mười pháp, chỉ khác đây
 _là Tôn giả Sàriputta)._
 
-**(XI) (22) Thiền Ðịnh (4)**
+### (XI) (22) Thiền Ðịnh (4)
 
 <!--pg-->
 1\. Tại đấy, Tôn giả Sàriputta nói với các Tỷ-kheo:

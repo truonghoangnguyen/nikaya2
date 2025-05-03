@@ -1,6 +1,6 @@
 # XIV. Phẩm Kẻ Chiến Sĩ
 
-**131.- Kẻ Chiến Sĩ**
+### 131.- Kẻ Chiến Sĩ
 
 1\. - Ðầy đủ ba đức tánh, này các Tỷ-kheo, một kẻ chiến sĩ xứng đáng cho vua sử dụng, thuộc sở hữu của
 vua, là biểu tượng của vua.
@@ -49,21 +49,21 @@ Tỷ-kheo, là Tỷ-kheo bắn như chớp nhoáng.
 được tôn trọng, đáng được cúng dường, đáng được chắp tay, là ruộng phước vô thượng ở đời.
 
 <!--pg-->
-**132 .- Hội Chúng**
+### 132 .- Hội Chúng
 − Này các Tỷ-kheo, có ba hội chúng này. Thế nào là ba?
 
 Hội chúng điêu luyện về khoa trương, hội chúng điêu luyện về chất vấn, hội chúng điêu luyện về tùy
 theo sở thích. Này các Tỷ-kheo, có ba hội chúng này.
 
 <!--pg-->
-**133.- Bạn**
+### 133.- Bạn
 
 − Này các Tỷ-kheo, có đầy đủ ba đức tánh, một người bạn cần được thân cận. Thế nào là ba?
 
 Ở đây, này các Tỷ-kheo, Tỷ-kheo cho điều khó cho, làm điều khó làm, nhẫn điều khó nhẫn. Này các Tỷkheo, đầy đủ ba đức tánh, một người bạn cần được thân cận.
 
 <!--pg-->
-**134.- Xuất Hiện**
+### 134.- Xuất Hiện
 
 1\. - Này các Tỷ-kheo, dầu các Như Lai có xuất hiện hay không xuất hiện, vẫn được an trú là pháp trú
 tánh của giới ấy, là pháp quyết định tánh, tức là: “Tất cả các hành là vô thường”. Vấn đề này, Như Lai
@@ -81,7 +81,7 @@ giác tri, chánh giác ngộ. Sau khi chánh giác tri, chánh giác ngộ, Nh�
 thuyết, xác nhận, khai thị, phân biệt, hiển thị: “Tất cả các pháp là vô ngã”.
 
 <!--pg-->
-**135.- Mền Bằng Tóc.**
+### 135.- Mền Bằng Tóc.
 
 1\. - Ví như, này các Tỷ-kheo, trong tất cả loại vải được dệt, mền được dệt bằng tóc được xem là hạ liệt
 nhất. Mền được dệt bằng tóc, này các Tỷ-kheo, khi trời lạnh thì lạnh, khi trời nóng thì nóng, xấu xí, có
@@ -107,7 +107,7 @@ tổn hại, nguy hại cho các loại cá. Cũng vậy, này các Tỷ-kheo, M
 cái bẫy sập người, đem lại bất hạnh, đau khổ, tổn hại, nguy hại cho nhiều loài hữu tình.
 
 <!--pg-->
-**136.- Thành Tựu Tăng Trưởng**
+### 136.- Thành Tựu Tăng Trưởng
 
 − Này các Tỷ-kheo, có ba sự thành tựu này. Thế nào là ba?
 
@@ -119,7 +119,7 @@ Tăng trưởng về tín, tăng trưởng về giới, tăng trưởng về tu�
 trưởng.
 
 <!--pg-->
-**137.- Ngựa Chưa Ðược Ðiều Phục**
+### 137.- Ngựa Chưa Ðược Ðiều Phục
 
 1\. - Này các Tỷ-kheo, Ta sẽ giảng về ba loại ngựa chưa được điều phục và Ta sẽ giảng về ba hạng người
 chưa được điều phục. Hãy lắng nghe và khéo tác ý, Ta sẽ nói.
@@ -173,7 +173,7 @@ có điều phục, có tốc lực, có sắc đẹp, có cân đối. Những 
 người chưa có cân đối.
 
 <!--pg-->
-**138.- Ngựa Ðược Ðiều Phục**
+### 138.- Ngựa Ðược Ðiều Phục
 
 1\. - Này các Tỷ-kheo, Ta sẽ giảng về ba loại ngựa được điều phục và Ta sẽ giảng về ba hạng người chưa
 được điều phục. Hãy lắng nghe và khéo tác ý, Ta sẽ nói.
@@ -227,7 +227,7 @@ cân đối. Như vậy, này các Tỷ-kheo, là hạng người được đi�
 Những hạng người này, này các Tỷ-kheo, là ba hạng người được điều phục.
 
 <!--pg-->
-**139. Các Loại Ngựa Thuần Thục.**
+### 139. Các Loại Ngựa Thuần Thục.
 
 1\. - Này các Tỷ-kheo, Ta sẽ thuyết giảng về ba loại ngựa hiền thiện, thuần thục, ba hạng người hiền
 thiện, thuần thục. Hãy nghe và khéo tác ý, Ta sẽ nói.
@@ -278,7 +278,7 @@ sắc đẹp, có cân đối.
 Ba hạng người này, này các Tỷ-kheo, là ba hạng người hiền thiện, thuần thục.
 
 <!--pg-->
-**140- Morannivàpa**
+### 140- Morannivàpa
 
 1\. Một thời, Thế Tôn ở Ràjagaha tại Moranivàpa. Tại đấy, Thế Tôn gọi các Tỷ-kheo:
 

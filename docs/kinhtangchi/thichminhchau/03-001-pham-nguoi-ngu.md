@@ -1,7 +1,7 @@
 # I. Phẩm Người Ngu
 
 
-**1-10 Người Ngu**
+### 1-10 Người Ngu
 
 1\. Như vầy tôi nghe.
 

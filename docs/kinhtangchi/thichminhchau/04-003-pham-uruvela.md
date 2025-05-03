@@ -1,6 +1,6 @@
 # III. Phẩm Uruvelà
 
-**(I) (21) Tại Uruvelà (1)**
+### (I) (21) Tại Uruvelà (1)
 1\. Một thời, Thế Tôn trú ở Sàvatthi, tại Jetavana, ở khu vườn ông Anàthapindika. Tại đấy, Thế Tôn gọi
 các Tỷ-kheo:
 
@@ -61,7 +61,7 @@ ta rồi biến mất tại chỗ. Rồi này các Tỷ-kheo, sau khi biết đ�
 ứng với Ta, Ta sống cung kính, tôn trọng và y chỉ pháp ấy và ta đã tự Chánh Ðẳng Giác. Và này các Tỷkheo, vì rằng chúng Tăng thành tựu sự cao cả nên ta tôn trọng đặc biệt chúng Tăng.
 
 <!--pg-->
-**(II) (22) Tại Uruvelà (2)**
+### (II) (22) Tại Uruvelà (2)
 
 1\. Một thời, này các Tỷ-kheo, Ta trú ở Uruvelà, trên bờ sống Neranjarà, dưới cây bàng Nigrodha, khi
 mới thành Chánh giác. Rồi này các Tỷ-kheo, rất nhiều Bà-la-môn già cả, trưởng lão, các bậc trưởng
@@ -120,7 +120,7 @@ _Do đoạn trừ lậu hoặc_\
 _Ðược gọi là trưởng lão._\
 
 <!--pg-->
-**(III) (23). Thế Giới.**
+### (III) (23). Thế Giới.
 
 
 1\. - Này các Tỷ-kheo, thế giới được Như Lai Chánh Ðẳng Giác, Như Lai không hệ lụy đối với đời. Này
@@ -180,7 +180,7 @@ _Thiên giới, thế giới này_\
 _Không ai được bằng ngài._\
 
 <!--pg-->
-**(IV) (24) Kàlaka**
+### (IV) (24) Kàlaka
 
 1\. Một thời, Thế Tôn trú ở Sàketa, tại khu vườn Kàlaka. Tại đấy, Thế Tôn gọi các Tỷ-kheo:
 
@@ -228,7 +228,7 @@ _Các đức Phật Như Lai_\
 _Không tham đắm như vậy._\
 
 <!--pg-->
-**(V) (25) Phạm Hạnh**
+### (V) (25) Phạm Hạnh
 
 1.- Phạm hạnh được sống, này các Tỷ-kheo, không vì mục đích lừa dối quần chúng, không vì mục đính
 mơn trớn quần chúng, không vì mục đích được lợi ích về lợi dưỡng, cung kính, danh vọng, không vì
@@ -252,7 +252,7 @@ _Sẽ chấm dứt khổ đau,_\
 _Làm theo Ðạo Sư dạy._\
 
 <!--pg-->
-**(VI) (26) Kẻ Lừa Dối.**
+### (VI) (26) Kẻ Lừa Dối.
 
 1.- Những vị Tỷ-kheo nào, này các Tỷ-kheo, lừa dối cứng đầu, lắm mồm lắm miệng, hoang dâm, hỗn
 hào, không có định tĩnh, những Tỷ-kheo ấy không phải là Tỷ-kheo của Ta. Những Tỷ-kheo ấy đã rơi
@@ -277,7 +277,7 @@ _Ðược bậc Chánh Ðẳng Giác,_\
 _Tuyên bố và thuyết giảng._\
 
 <!--pg-->
-**(VII) (27) Biết Ðủ**
+### (VII) (27) Biết Ðủ
 
 
 1\. - Này các Tỷ-kheo, có bốn pháp này là không quan trọng, dễ được và không có phạm lỗi. Thế nào là
@@ -311,7 +311,7 @@ _Với vị không phóng dật,_\
 _Tinh cần trong học tập._\
 
 <!--pg-->
-**(VIII) (28) Truyền Thống.**
+### (VIII) (28) Truyền Thống.
 
 
 1\. - Có bốn truyền thống bậc Thánh này, này các Tỷ-kheo, được biết là tối sơ, có đã lâu đời, được biết là
@@ -373,7 +373,7 @@ _Chư Thiên khen vị ấy,_\
 _Phạm thiên cũng tán thán._\
 
 <!--pg-->
-**(IX) (29) Pháp Cú**
+### (IX) (29) Pháp Cú
 
 
 1\. - Có bốn pháp cú này, này các Tỷ-kheo, được biết là tối sơ, có đã lâu đời, được biết là truyền thống,
@@ -395,7 +395,7 @@ _Chánh niệm và nhất tâm,_\
 _Nội tâm khéo định tĩnh._\
 
 <!--pg-->
-**(X) (30) Các Du Sĩ**
+### (X) (30) Các Du Sĩ
 
 
 1\. Một thời, Thế Tôn trú ở Ràjagaha (Vương Xá), tại núi Gijihakùta (Linh Thứu). Lúc bấy giờ, nhiều du

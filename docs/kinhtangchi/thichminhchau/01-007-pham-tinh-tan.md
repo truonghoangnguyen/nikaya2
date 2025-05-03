@@ -1,6 +1,6 @@
 # VII. Phẩm Tinh Tấn
 
-**1-10 Tinh Cần Tinh Tấn**
+### 1-10 Tinh Cần Tinh Tấn
 
 1.- Ta không thấy một pháp nào khác, này các Tỷ-kheo, do pháp ấy, các pháp thiện chưa sanh được
 sanh khởi, và các pháp bất thiện đã sanh được đoạn tận, này các Tỷ-kheo, như tinh tấn tinh cần. Với

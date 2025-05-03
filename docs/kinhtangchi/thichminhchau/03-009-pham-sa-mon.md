@@ -1,7 +1,7 @@
 # IX. Phẩm Sa-Môn
 
 
-**81.- Sa Môn**
+### 81.- Sa Môn
 
 1\. - Này các Tỷ-kheo, có ba hạnh Sa-môn cần phải làm này của Sa-môn. Thế nào là ba?
 
@@ -25,7 +25,7 @@ thượng giới học. Sắc bén sẽ là ước muốn chúng ta để thọ 
 muốn chúng ta để thọ trì tăng thượng tuệ học”. Như vậy, này các Tỷ-kheo, các Thầy cần phải học tập.
 
 <!--pg-->
-**82. Nghề Nông**
+### 82. Nghề Nông
 
 1\. Có ba việc này, này các Tỷ-kheo, một nông phu gia chủ cần phải làm trước. Thế nào là ba?
 
@@ -42,7 +42,7 @@ thượng tâm học. Sắc bén sẽ là ước muốn của tôi thọ trì t�
 các Thầy cần phải học tập.
 
 <!--pg-->
-**83.- Người Vajji.**
+### 83.- Người Vajji.
 
 1\. Như vầy tôi nghe.
 
@@ -68,7 +68,7 @@ thượng tuệ; do học tập tăng thượng giới, học tập tăng thư�
 không làm điều bất thiện, không theo điều ác.
 
 <!--pg-->
-**84.- Hữu Học (1)**
+### 84.- Hữu Học (1)
 
 1\. Rồi một Tỷ-kheo đi đến Thế Tôn; sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Ngồi xuống
 một bên, Tỷ-kheo bạch Thế Tôn:
@@ -91,7 +91,7 @@ _Bất động ta giải thoát_\
 _Hữu kiết sử đoạn tận._
 
 <!--pg-->
-**85.- Hữu Học (2)**
+### 85.- Hữu Học (2)
 
 1\. - Này các Tỷ-kheo, bản tụng đọc này gồm hơn 150 học giới cần phải đọc nửa tháng một lần, ở đây
 các người thiện nam tử muốn được lợi ích, học tập bản tụng ấy. Này các Tỷ-kheo, tất cả được thâu nhiếp
@@ -132,7 +132,7 @@ phần, thành tựu được toàn phần. Ta tuyên bố rằng, này các T�
 không.
 
 <!--pg-->
-**86.- Bản Tụng Ðọc (1)**
+### 86.- Bản Tụng Ðọc (1)
 
 1\. - Này các Tỷ-kheo, bản tụng đọc này gồm hơn 150 học giới cần phải đọc nửa tháng một lần, ở đây
 các người thiện nam tử muốn được lợi ích, học tập bản tụng ấy. Này các Tỷ-kheo, tất cả được thâu nhiếp
@@ -166,7 +166,7 @@ phần, thành tựu được toàn phần. Ta tuyên bố rằng, này các T�
 không.
 
 <!--pg-->
-**87.- Bản Tụng Ðọc (2)**
+### 87.- Bản Tụng Ðọc (2)
 
 1\. - Này các Tỷ-kheo, bản tụng đọc này ... (như kinh trước, đoạn số 1) ... này các Tỷ-kheo, thâu nhiếp tất
 cả.
@@ -193,7 +193,7 @@ phần, thành tựu được toàn phần. Ta tuyên bố rằng, này các T�
 không.
 
 <!--pg-->
-**88.- Học Giới**
+### 88.- Học Giới
 
 1\. - Có ba học giới này. Thế nào là ba? Tăng thượng giới học, tăng thượng tâm học, tăng thượng tuệ học.
 
@@ -210,7 +210,7 @@ tăng thượng tuệ học.
 Những pháp này, này các Tỷ-kheo, là ba học giới.
 
 <!--pg-->
-**89.- Học Pháp**
+### 89.- Học Pháp
 
 1\. - Này các Tỷ-kheo, có ba học pháp này. Thế nào là ba? Tăng thượng giới học, tăng thượng tâm học,
 tăng thượng tuệ học.
@@ -245,7 +245,7 @@ _Như đèn sáng tịch diệt_\
 _Tâm vị ấy giải thoát._
 
 <!--pg-->
-**90. Pankadhà**
+### 90. Pankadhà
 
 1\. Một thời Thế Tôn đang du hành giữa dân chúng Kosala cùng với đại chúng Tỷ-kheo, đi đến một thị
 trấn của dân chúng Kosala, tên là Pankadhà. Tại đấy, Thế Tôn trú ở Pankadhà. Pankadhà là một thị trấn

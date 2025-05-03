@@ -1,0 +1,13688 @@
+::::::::::: center
+::: large
+:::
+
+::: normalsize
+*translated and introduced by*
+:::
+
+::: LARGE
+[Bhikkhu Sujato]{.smallcaps}
+:::
+
+::: normalsize
+:::
+
+::: normalsize
+AN 5--6
+:::
+
+::: Large
+[]{.smallcaps}
+:::
+
+::: normalsize
+:::
+
+::: large
+[SuttaCentral]{.smallcaps}
+:::
+:::::::::::
+
+:::: footnotesize
+*Numbered Discourses* is a translation of the Aṅguttaranikāya by Bhikkhu
+Sujato.
+
+Creative Commons Zero (CC0)
+
+To the extent possible under law, Bhikkhu Sujato has waived all
+copyright and related or neighboring rights to *Numbered Discourses*.
+
+This work is published from Australia.
+
+::: center
+*This translation is an expression of an ancient spiritual text that has
+been passed down by the Buddhist tradition for the benefit of all
+sentient beings. It is dedicated to the public domain via Creative
+Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter,
+or otherwise make use of this translation. The translator respectfully
+requests that any use be in accordance with the values and principles of
+the Buddhist community.*
+:::
+
+Web publication date
+
+:   2018
+
+This edition
+
+:   2025-01-25 12:18:21
+
+Publication type
+
+:   paperback
+
+Edition
+
+:   ed5
+
+Number of volumes
+
+:   5
+
+Publication ISBN
+
+:   978-1-76132-037-8
+
+Volume ISBN
+
+:   978-1-76132-040-8
+
+Publication URL
+
+:   <https://suttacentral.net/editions/an/en/sujato>
+
+Source URL
+
+:   <https://github.com/suttacentral/bilara-data/tree/published/translation/en/sujato/sutta/an>
+
+Publication number
+
+:   scpub5
+
+Map of Jambudīpa is by Jonas David Mitja Lang, and is released by him
+under Creative Commons Zero (CC0).
+
+Published by SuttaCentral
+
+*SuttaCentral,\
+c/o Alwis & Alwis Pty Ltd\
+Kaurna Country,\
+Suite 12,\
+198 Greenhill Road,\
+Eastwood,\
+SA 5063,\
+Australia*
+::::
+
+# The Book of the Fives  {#the-book-of-the-fives .unnumbered}
+
+::: center
+*[the first fifty]{.smallcaps}*
+:::
+
+## The Chapter on Powers of a Trainee  {#the-chapter-on-powers-of-a-trainee .unnumbered}
+
+### N 5.1 In Brief  *Saṁkhittasutta* {#n-5.1-in-brief-saṁkhittasutta .unnumbered}
+
+[So I have heard.]{.smallcaps} At one time the Buddha was staying near
+[Sāvatthī]{lang="sa"} in Jeta's Grove, [Anāthapiṇḍika]{lang="sa"}'s
+monastery. There the Buddha addressed the mendicants, "Mendicants!"
+
+"Venerable sir," they replied. The Buddha said this:
+
+"Mendicants, there are these five powers of a trainee. What five? The
+powers of faith, conscience, prudence, energy, and wisdom. These are the
+five powers of a trainee.
+
+So you should train like this: 'We will have the trainee's powers of
+faith, conscience, prudence, energy, and wisdom.' That's how you should
+train."
+
+That is what the Buddha said. Satisfied, the mendicants approved what
+the Buddha said.
+
+### N 5.2 In Detail  *Vitthatasutta* {#n-5.2-in-detail-vitthatasutta .unnumbered}
+
+"Mendicants, there are these five powers of a trainee. What five? The
+powers of faith, conscience, prudence, energy, and wisdom.
+
+And what is the power of faith? It's when a noble disciple has faith in
+the Realized One's awakening: 'That Blessed One is perfected, a fully
+awakened Buddha, accomplished in knowledge and conduct, holy, knower of
+the world, supreme guide for those who wish to train, teacher of gods
+and humans, awakened, blessed.' This is called the power of faith.
+
+And what is the power of conscience? It's when a noble disciple has a
+conscience. They're conscientious about bad conduct by way of body,
+speech, and mind, and conscientious about having any bad, unskillful
+qualities. This is called the power of conscience.
+
+And what is the power of prudence? It's when a noble disciple is
+prudent. They're prudent when it comes to bad conduct by way of body,
+speech, and mind, and prudent when it comes to acquiring any bad,
+unskillful qualities. This is called the power of prudence.
+
+And what is the power of energy? It's when a noble disciple lives with
+energy roused up for giving up unskillful qualities and embracing
+skillful qualities. They're strong, staunchly vigorous, not slacking off
+when it comes to developing skillful qualities. This is called the power
+of energy.
+
+And what is the power of wisdom? It's when a noble disciple is wise.
+They have the wisdom of arising and passing away which is noble,
+penetrative, and leads to the complete ending of suffering. This is
+called the power of wisdom. These are the five powers of a trainee.
+
+So you should train like this: 'We will have the trainee's powers of
+faith, conscience, prudence, energy, and wisdom.' That's how you should
+train."
+
+### N 5.3 Suffering  *Dukkhasutta* {#n-5.3-suffering-dukkhasutta .unnumbered}
+
+"Mendicants, when a mendicant has five qualities they live unhappily in
+this very life---with distress, anguish, and fever---and when the body
+breaks up, after death, they can expect a bad rebirth. What five? It's
+when a mendicant is faithless, shameless, imprudent, lazy, and witless.
+When a mendicant has these five qualities they live unhappily in this
+very life---with distress, anguish, and fever---and when the body breaks
+up, after death, they can expect a bad rebirth.
+
+When a mendicant has five qualities they live happily in this very
+life---without distress, distress, or fever---and when the body breaks
+up, after death, they can expect a good rebirth. What five? It's when a
+mendicant is faithful, conscientious, prudent, energetic, and wise. When
+a mendicant has these five qualities they live happily in this very
+life---without distress, anguish, or fever---and when the body breaks
+up, after death, they can expect a good rebirth."
+
+### N 5.4 Cast Down  *Yathābhatasutta* {#n-5.4-cast-down-yathābhatasutta .unnumbered}
+
+"Mendicants, a mendicant with five qualities is cast down to hell. What
+five? It's when a mendicant is faithless, shameless, imprudent, lazy,
+and witless. A mendicant with these five qualities is cast down to hell.
+
+A mendicant with five qualities is raised up to heaven. What five? It's
+when a mendicant is faithful, conscientious, prudent, energetic, and
+wise. A mendicant with these five qualities is raised up to heaven."
+
+### N 5.5 Disrobing  *Sikkhāsutta* {#n-5.5-disrobing-sikkhāsutta .unnumbered}
+
+"Mendicants, any monk or nun who rejects the training and returns to a
+lesser life deserves rebuttal and criticism on five legitimate grounds
+in this very life. What five? 'You had no faith, conscience, prudence,
+energy, or wisdom regarding skillful qualities.' Any monk or nun who
+rejects the training and returns to a lesser life deserves rebuttal and
+criticism on these five legitimate grounds in this very life.
+
+Any monk or nun who lives the full and pure spiritual life in pain and
+sadness, weeping, with tearful face, deserves praise on five legitimate
+grounds in this very life. What five? 'You had faith, conscience,
+prudence, energy, and wisdom regarding skillful qualities.' Any monk or
+nun who lives the full and pure spiritual life in pain and sadness,
+weeping, with tearful face, deserves praise on these five legitimate
+grounds in this very life."
+
+### N 5.6 Becoming  *Samāpattisutta* {#n-5.6-becoming-samāpattisutta .unnumbered}
+
+"Mendicants, you don't become unskillful as long as faith is established
+in skillful qualities. But when faith vanishes and faithlessness takes
+over, you become unskillful.
+
+You don't become unskillful as long as conscience ... prudence ...
+energy ... wisdom is established in skillful qualities.
+
+But when wisdom vanishes and witlessness takes over, you become
+unskillful."
+
+### N 5.7 Sensual Pleasures  *Kāmasutta* {#n-5.7-sensual-pleasures-kāmasutta .unnumbered}
+
+"Mendicants, sentient beings are mostly charmed by sensual pleasures.
+When a gentleman has abandoned the scythe and flail and gone forth from
+the lay life to homelessness, they're qualified to be called 'a faithful
+renunciate from a good family'. Why is that? Because a youth can get
+sensual pleasures of this kind or that. Now, all sensual pleasures are
+just reckoned as 'sensual pleasures', regardless of whether they're
+inferior, average, or superior.
+
+Suppose there was a little baby boy who, because of his nursemaid's
+negligence, puts a stick or stone in his mouth. The nursemaid would very
+quickly notice and try to take it out. If that didn't work, she'd cradle
+his head with her left hand, and take it out using a hooked finger of
+her right hand, even if it drew blood. Why is that? I admit she'd know,
+'This will distress the child, there's no denying.' Still, it should be
+done by a nursemaid who wants what's best for him, out of kindness and
+sympathy. And when the boy has grown up and has enough sense, his
+nursemaid would not worry about him, thinking: 'The boy can look after
+himself. He won't be negligent.'
+
+In the same way, I still need to look after a mendicant who hasn't
+finished developing faith, conscience, prudence, energy, and wisdom
+regarding skillful qualities. But when a mendicant has finished
+developing faith, conscience, prudence, energy, and wisdom regarding
+skillful qualities, I need not be concerned, thinking: 'They can look
+after themselves. They won't be negligent.'"
+
+### N 5.8 Failure  *Cavanasutta* {#n-5.8-failure-cavanasutta .unnumbered}
+
+"Mendicants, a mendicant with five qualities fails, and doesn't
+establish themselves in the true teaching. What five? A mendicant who is
+faithless ... shameless ... imprudent ... lazy ... witless fails, and
+doesn't establish themselves in the true teaching. A mendicant with
+these five qualities fails, and doesn't establish themselves in the true
+teaching.
+
+A mendicant with five qualities doesn't fail, and establishes themselves
+in the true teaching. What five? A mendicant who is faithful ...
+conscientious ... prudent ... energetic ... wise doesn't fail, and
+establishes themselves in the true teaching. A mendicant with these five
+qualities doesn't fail, and establishes themselves in the true
+teaching."
+
+### N 5.9 Disrespect (1st)  *Paṭhamaagāravasutta* {#n-5.9-disrespect-1st-paṭhamaagāravasutta .unnumbered}
+
+"Mendicants, a disrespectful and irreverent mendicant with five
+qualities fails, and doesn't establish themselves in the true teaching.
+What five? A disrespectful and irreverent mendicant who is faithless ...
+shameless ... imprudent ... lazy ... witless fails, and doesn't
+establish themselves in the true teaching. A disrespectful and
+irreverent mendicant with these five qualities fails, and doesn't
+establish themselves in the true teaching.
+
+A respectful and reverent mendicant with five qualities doesn't fail,
+and establishes themselves in the true teaching. What five? A respectful
+and reverent mendicant who is faithful ... conscientious ... prudent ...
+energetic ... wise doesn't fail, and establishes themselves in the true
+teaching. A respectful and reverent mendicant with these five qualities
+doesn't fail, and establishes themselves in the true teaching."
+
+### N 5.10 Disrespect (2nd)  *Dutiyaagāravasutta* {#n-5.10-disrespect-2nd-dutiyaagāravasutta .unnumbered}
+
+"Mendicants, a disrespectful and irreverent mendicant with five
+qualities can't achieve growth, improvement, or maturity in this
+teaching and training. What five? A disrespectful and irreverent
+mendicant who is faithless ... shameless ... imprudent ... lazy ...
+witless can't achieve growth, improvement, or maturity in this teaching
+and training. A disrespectful and irreverent mendicant with these five
+qualities can't achieve growth, improvement, or maturity in this
+teaching and training.
+
+A respectful and reverent mendicant with five qualities can achieve
+growth, improvement, and maturity in this teaching and training. What
+five? A respectful and reverent mendicant who is faithful ...
+conscientious ... prudent ... energetic ... wise can achieve growth,
+improvement, and maturity in this teaching and training. A respectful
+and reverent mendicant with these five qualities can achieve growth,
+improvement, and maturity in this teaching and training."
+
+## The Chapter on Powers  {#the-chapter-on-powers .unnumbered}
+
+### N 5.11 Not Learned From Anyone Else  *Ananussutasutta* {#n-5.11-not-learned-from-anyone-else-ananussutasutta .unnumbered}
+
+"I claim to have attained perfection and consummation of insight
+regarding principles not learned before from another. The Realized One
+has five powers of a Realized One. With these he claims the bull's
+place, roars his lion's roar in the assemblies, and turns the divine
+wheel. What five? The powers of faith, conscience, prudence, energy, and
+wisdom. These are the five powers of a Realized One. With these he
+claims the bull's place, roars his lion's roar in the assemblies, and
+turns the divine wheel."
+
+### N 5.12 Peak  *Kūṭasutta* {#n-5.12-peak-kūṭasutta .unnumbered}
+
+"Mendicants, there are these five powers of a trainee. What five? The
+powers of faith, conscience, prudence, energy, and wisdom. These are the
+five powers of a trainee. Of these five powers of a trainee, the power
+of wisdom is the chief. It holds and binds everything together.
+
+It's like a bungalow. The roof-peak is the chief point, which holds and
+binds everything together. In the same way, of these five powers of a
+trainee, the power of wisdom is the chief. It holds and binds everything
+together.
+
+So you should train like this: 'We will have the trainee's powers of
+faith, conscience, prudence, energy, and wisdom.' That's how you should
+train."
+
+### N 5.13 In Brief  *Saṁkhittasutta* {#n-5.13-in-brief-saṁkhittasutta .unnumbered}
+
+"Mendicants, there are these five powers. What five? The powers of
+faith, energy, mindfulness, immersion, and wisdom. These are the five
+powers."
+
+### N 5.14 In Detail  *Vitthatasutta* {#n-5.14-in-detail-vitthatasutta .unnumbered}
+
+"Mendicants, there are these five powers. What five? The powers of
+faith, energy, mindfulness, immersion, and wisdom.
+
+And what is the power of faith? It's when a noble disciple has faith in
+the Realized One's awakening: 'That Blessed One is perfected, a fully
+awakened Buddha, accomplished in knowledge and conduct, holy, knower of
+the world, supreme guide for those who wish to train, teacher of gods
+and humans, awakened, blessed.' This is called the power of faith.
+
+And what is the power of energy? It's when a noble disciple lives with
+energy roused up for giving up unskillful qualities and embracing
+skillful qualities. They're strong, staunchly vigorous, not slacking off
+when it comes to developing skillful qualities. This is called the power
+of energy.
+
+And what is the power of mindfulness? It's when a noble disciple is
+mindful. They have utmost mindfulness and alertness, and can remember
+and recall what was said and done long ago. This is called the power of
+mindfulness.
+
+And what is the power of immersion? It's when a noble disciple, quite
+secluded from sensual pleasures, secluded from unskillful qualities,
+enters and remains in the first absorption, which has the rapture and
+bliss born of seclusion, while placing the mind and keeping it
+connected. As the placing of the mind and keeping it connected are
+stilled, they enter and remain in the second absorption, which has the
+rapture and bliss born of immersion, with internal clarity and mind at
+one, without placing the mind and keeping it connected. And with the
+fading away of rapture, they enter and remain in the third absorption,
+where they meditate with equanimity, mindful and aware, personally
+experiencing the bliss of which the noble ones declare, 'Equanimous and
+mindful, one meditates in bliss.' Giving up pleasure and pain, and
+ending former happiness and sadness, they enter and remain in the fourth
+absorption, without pleasure or pain, with pure equanimity and
+mindfulness. This is called the power of immersion.
+
+And what is the power of wisdom? It's when a noble disciple is wise.
+They have the wisdom of arising and passing away which is noble,
+penetrative, and leads to the complete ending of suffering. This is
+called the power of wisdom.
+
+These are the five powers."
+
+### N 5.15 Should Be Seen  *Daṭṭhabbasutta* {#n-5.15-should-be-seen-daṭṭhabbasutta .unnumbered}
+
+"Mendicants, there are these five powers. What five? The powers of
+faith, energy, mindfulness, immersion, and wisdom.
+
+And where should the power of faith be seen? In the four factors of
+stream-entry.
+
+And where should the power of energy be seen? In the four right efforts.
+
+And where should the power of mindfulness be seen? In the four kinds of
+mindfulness meditation.
+
+And where should the power of immersion be seen? In the four
+absorptions.
+
+And where should the power of wisdom be seen? In the four noble truths.
+
+These are the five powers."
+
+### N 5.16 The Peak, Again  *Punakūṭasutta* {#n-5.16-the-peak-again-punakūṭasutta .unnumbered}
+
+"Mendicants, there are these five powers. What five? The powers of
+faith, energy, mindfulness, immersion, and wisdom. These are the five
+powers. Of these five powers, the power of wisdom is the chief. It holds
+and binds everything together. It's like a bungalow. The roof-peak is
+the chief point, which holds and binds everything together. In the same
+way, of these five powers, the power of wisdom is the chief. It holds
+and binds everything together."
+
+### N 5.17 One's Own Welfare  *Paṭhamahitasutta* {#n-5.17-ones-own-welfare-paṭhamahitasutta .unnumbered}
+
+"Mendicants, a mendicant with five qualities is practicing for their own
+welfare, but not that of others. What five? It's when a mendicant is
+personally accomplished in ethics, immersion, wisdom, freedom, and the
+knowledge and vision of freedom. But they don't encourage others in
+these qualities. A mendicant with these five qualities is practicing for
+their own welfare, but not that of others."
+
+### N 5.18 Welfare of Others (2nd)  *Dutiyahitasutta* {#n-5.18-welfare-of-others-2nd-dutiyahitasutta .unnumbered}
+
+"Mendicants, a mendicant with five qualities is practicing for the
+welfare of others, but not their own. What five? It's when a mendicant
+is not personally accomplished in ethics, immersion, wisdom, freedom, or
+the knowledge and vision of freedom. But they encourage others in these
+qualities. A mendicant with these five qualities is practicing for the
+welfare of others, but not their own."
+
+### N 5.19 The Welfare of Neither  *Tatiyahitasutta* {#n-5.19-the-welfare-of-neither-tatiyahitasutta .unnumbered}
+
+"Mendicants, a mendicant with five qualities is practicing neither for
+their own welfare, nor that of others. What five? It's when a mendicant
+is not personally accomplished in ethics, immersion, wisdom, freedom, or
+the knowledge and vision of freedom. Nor do they encourage others in
+these qualities. A mendicant with these five qualities is practicing
+neither for their own welfare, nor that of others."
+
+### N 5.20 The Welfare of Both  *Catutthahitasutta* {#n-5.20-the-welfare-of-both-catutthahitasutta .unnumbered}
+
+"Mendicants, a mendicant with five qualities is practicing for both
+their own welfare and that of others. What five? It's when a mendicant
+is personally accomplished in ethics, immersion, wisdom, freedom, and
+the knowledge and vision of freedom. And they encourage others in these
+qualities. A mendicant with these five qualities is practicing both for
+their own welfare and that of others."
+
+## The Chapter on Five Factors  {#the-chapter-on-five-factors .unnumbered}
+
+### N 5.21 Disrespect (1st)  *Paṭhamaagāravasutta* {#n-5.21-disrespect-1st-paṭhamaagāravasutta .unnumbered}
+
+"Mendicants, it is quite impossible for a disrespectful and irreverent
+mendicant with incompatible lifestyle to fulfill the practice dealing
+with supplementary regulations regarding their spiritual companions.
+Without fulfilling the practice dealing with supplementary regulations,
+it's impossible to fulfill the practice of a trainee. Without fulfilling
+the practice of a trainee, it's impossible to fulfill ethics. Without
+fulfilling ethics, it's impossible to fulfill right view. Without
+fulfilling right view, it's impossible to fulfill right immersion.
+
+But it is quite possible for a respectful and reverent mendicant with
+compatible lifestyle to fulfill the practice dealing with supplementary
+regulations regarding their spiritual companions. Having fulfilled the
+practice dealing with supplementary regulations, it's possible to
+fulfill the practice of a trainee. Having fulfilled the practice of a
+trainee, it's possible to fulfill ethics. Having fulfilled ethics, it's
+possible to fulfill right view. Having fulfilled right view, it's
+possible to fulfill right immersion."
+
+### N 5.22 Disrespect (2nd)  *Dutiyaagāravasutta* {#n-5.22-disrespect-2nd-dutiyaagāravasutta .unnumbered}
+
+"Mendicants, it is quite impossible for a disrespectful and irreverent
+mendicant with incompatible lifestyle to fulfill the practice dealing
+with supplementary regulations regarding their spiritual companions.
+Without fulfilling the practice dealing with supplementary regulations,
+it's impossible to fulfill the practice of a trainee. Without fulfilling
+the practice of a trainee, it's impossible to fulfill the entire
+spectrum of ethics. Without fulfilling the entire spectrum of ethics,
+it's impossible to fulfill the entire spectrum of immersion. Without
+fulfilling the entire spectrum of immersion, it's impossible to fulfill
+the entire spectrum of wisdom.
+
+But it is quite possible for a respectful and reverent mendicant with
+compatible lifestyle to fulfill the practice dealing with supplementary
+regulations regarding their spiritual companions. Having fulfilled the
+practice dealing with supplementary regulations, it's possible to
+fulfill the practice of a trainee. Having fulfilled the practice of a
+trainee, it's possible to fulfill the entire spectrum of ethics. Having
+fulfilled the entire spectrum of ethics, it's possible to fulfill the
+entire spectrum of immersion. Having fulfilled the entire spectrum of
+immersion, it's possible to fulfill the entire spectrum of wisdom."
+
+### N 5.23 Corruptions  *Upakkilesasutta* {#n-5.23-corruptions-upakkilesasutta .unnumbered}
+
+"Mendicants, there are these five corruptions of native gold. When
+native gold is corrupted by these it's not pliable, workable, or
+radiant, but is brittle and not completely ready for working. What five?
+Iron, copper, tin, lead, and silver. When native gold is corrupted by
+these five corruptions it's not pliable, workable, or radiant, but is
+brittle and not completely ready for working.
+
+But when native gold is free of these five corruptions it becomes
+pliable, workable, and radiant, not brittle, and ready to be worked.
+Then the goldsmith can successfully create any kind of ornament they
+want, whether a ring, earrings, a necklace, or a golden garland.
+
+In the same way, there are these five corruptions of the mind. When the
+mind is corrupted by these it's not pliable, workable, or radiant. It's
+brittle, and not rightly immersed in [samādhi]{lang="sa"} for the ending
+of defilements. What five? Sensual desire, ill will, dullness and
+drowsiness, restlessness and remorse, and doubt. These are the five
+corruptions of the mind. When the mind is corrupted by these it's not
+pliable, workable, or radiant. It's brittle, and not rightly immersed in
+[samādhi]{lang="sa"} for the ending of defilements.
+
+But when the mind is free of these five corruptions it's pliable,
+workable, and radiant. It's not brittle, and is rightly immersed in
+[samādhi]{lang="sa"} for the ending of defilements. You become capable
+of realizing anything that can be realized by insight to which you
+extend the mind, since each and every one is within range.
+
+If you wish: 'May I wield the many kinds of psychic power---multiplying
+myself and becoming one again; appearing and disappearing; going
+unobstructed through a wall, a rampart, or a mountain as if through
+space; diving in and out of the earth as if it were water; walking on
+water as if it were earth; flying cross-legged through the sky like a
+bird; touching and stroking with the hand the sun and moon, so mighty
+and powerful, controlling the body as far as the realm of divinity.'
+You're capable of realizing it, since each and every one is within
+range.
+
+If you wish: 'With clairaudience that is purified and superhuman, may I
+hear both kinds of sounds, human and heavenly, whether near or far.'
+You're capable of realizing it, since each and every one is within
+range.
+
+If you wish: 'May I understand the minds of other beings and
+individuals, having comprehended them with my mind. May I understand
+mind with greed as "mind with greed", and mind without greed as "mind
+without greed"; mind with hate as "mind with hate", and mind without
+hate as "mind without hate"; mind with delusion as "mind with delusion",
+and mind without delusion as "mind without delusion"; constricted mind
+as "constricted mind", and scattered mind as "scattered mind"; expansive
+mind as "expansive mind", and unexpansive mind as "unexpansive mind";
+mind that is not supreme as "mind that is not supreme", and mind that is
+supreme as "mind that is supreme"; mind immersed in [samādhi]{lang="sa"}
+as "mind immersed in [samādhi]{lang="sa"}", and mind not immersed in
+[samādhi]{lang="sa"} as "mind not immersed in [samādhi]{lang="sa"}";
+freed mind as "freed mind", and unfreed mind as "unfreed mind".' You're
+capable of realizing it, since each and every one is within range.
+
+If you wish: 'May I recollect many kinds of past lives. That is: one,
+two, three, four, five, ten, twenty, thirty, forty, fifty, a hundred, a
+thousand, a hundred thousand rebirths; many eons of the world
+contracting, many eons of the world expanding, many eons of the world
+contracting and expanding. May I remember: "There, I was named this, my
+clan was that, I looked like this, and that was my food. This was how I
+felt pleasure and pain, and that was how my life ended. When I passed
+away from that place I was reborn somewhere else. There, too, I was
+named this, my clan was that, I looked like this, and that was my food.
+This was how I felt pleasure and pain, and that was how my life ended.
+When I passed away from that place I was reborn here." May I recollect
+my many past lives, with features and details.' You're capable of
+realizing it, since each and every one is within range.
+
+If you wish: 'With clairvoyance that is purified and superhuman, may I
+see sentient beings passing away and being reborn---inferior and
+superior, beautiful and ugly, in a good place or a bad place---and
+understand how sentient beings are reborn according to their deeds:
+"These dear beings did bad things by way of body, speech, and mind. They
+denounced the noble ones; they had wrong view; and they chose to act out
+of that wrong view. When their body breaks up, after death, they're
+reborn in a place of loss, a bad place, the underworld, hell. These dear
+beings, however, did good things by way of body, speech, and mind. They
+never denounced the noble ones; they had right view; and they chose to
+act out of that right view. When their body breaks up, after death,
+they're reborn in a good place, a heavenly realm." And so, with
+clairvoyance that is purified and superhuman, may I see sentient beings
+passing away and being reborn---inferior and superior, beautiful and
+ugly, in a good place or a bad place. And may I understand how sentient
+beings are reborn according to their deeds.' You're capable of realizing
+it, since each and every one is within range.
+
+If you wish: 'May I realize the undefiled freedom of heart and freedom
+by wisdom in this very life, and live having realized it with my own
+insight due to the ending of defilements.' You're capable of realizing
+it, since each and every one is within range."
+
+### N 5.24 Unethical  *Dussīlasutta* {#n-5.24-unethical-dussīlasutta .unnumbered}
+
+"Mendicants, an unethical person, who lacks ethics, has destroyed a
+vital condition for right immersion. When there is no right immersion,
+one who lacks right immersion has destroyed a vital condition for true
+knowledge and vision. When there is no true knowledge and vision, one
+who lacks true knowledge and vision has destroyed a vital condition for
+disillusionment and dispassion. When there is no disillusionment and
+dispassion, one who lacks disillusionment and dispassion has destroyed a
+vital condition for knowledge and vision of freedom.
+
+Suppose there was a tree that lacked branches and foliage. Its shoots,
+bark, softwood, and heartwood would not grow to fullness.
+
+In the same way, an unethical person, who lacks ethics, has destroyed a
+vital condition for right immersion. When there is no right immersion,
+one who lacks right immersion has destroyed a vital condition for true
+knowledge and vision. When there is no true knowledge and vision, one
+who lacks true knowledge and vision has destroyed a vital condition for
+disillusionment and dispassion. When there is no disillusionment and
+dispassion, one who lacks disillusionment and dispassion has destroyed a
+vital condition for knowledge and vision of freedom.
+
+An ethical person, who has fulfilled ethics, has fulfilled a vital
+condition for right immersion. When there is right immersion, one who
+has fulfilled right immersion has fulfilled a vital condition for true
+knowledge and vision. When there is true knowledge and vision, one who
+has fulfilled true knowledge and vision has fulfilled a vital condition
+for disillusionment and dispassion. When there is disillusionment and
+dispassion, one who has fulfilled disillusionment and dispassion has
+fulfilled a vital condition for knowledge and vision of freedom.
+
+Suppose there was a tree that was complete with branches and foliage.
+Its shoots, bark, softwood, and heartwood would all grow to fullness.
+
+In the same way, an ethical person, who has fulfilled ethics, has
+fulfilled a vital condition for right immersion. When there is right
+immersion, one who has fulfilled right immersion has fulfilled a vital
+condition for true knowledge and vision. When there is true knowledge
+and vision, one who has fulfilled true knowledge and vision has
+fulfilled a vital condition for disillusionment and dispassion. When
+there is disillusionment and dispassion, one who has fulfilled
+disillusionment and dispassion has fulfilled a vital condition for
+knowledge and vision of freedom."
+
+### N 5.25 Supported  *Anuggahitasutta* {#n-5.25-supported-anuggahitasutta .unnumbered}
+
+"Mendicants, when right view is supported by five factors it has freedom
+of heart and freedom by wisdom as its fruit and benefit.
+
+What five? It's when right view is supported by ethics, learning,
+discussion, serenity, and discernment. When right view is supported by
+these five factors it has freedom of heart and freedom by wisdom as its
+fruit and benefit."
+
+### N 5.26 Opportunities for Freedom  *Vimuttāyatanasutta* {#n-5.26-opportunities-for-freedom-vimuttāyatanasutta .unnumbered}
+
+"Mendicants, there are these five opportunities for freedom. If a
+mendicant stays diligent, keen, and resolute at these times, their mind
+is freed, their defilements are ended, and they arrive at the supreme
+sanctuary from the yoke. What five?
+
+Firstly, the Teacher or a respected spiritual companion teaches Dhamma
+to a mendicant. In whatever way the Teacher or a respected spiritual
+companion teaches Dhamma to that mendicant, they always feel inspired by
+the meaning and the teaching in that Dhamma. Feeling inspired, joy
+springs up. Being joyful, rapture springs up. When the mind is full of
+rapture, the body becomes tranquil. When the body is tranquil, one feels
+bliss. And when blissful, the mind becomes immersed in
+[samādhi]{lang="sa"}. This is the first opportunity for freedom. If a
+mendicant stays diligent, keen, and resolute at this time, their mind is
+freed, their defilements are ended, and they arrive at the supreme
+sanctuary from the yoke.
+
+Furthermore, it may be that neither the Teacher nor a respected
+spiritual companion teaches Dhamma to a mendicant. But the mendicant
+teaches Dhamma in detail to others as they learned and memorized it. In
+whatever way that mendicant teaches Dhamma in detail to others as they
+learned and memorized it, they always feel inspired by the meaning and
+the teaching in that Dhamma. Feeling inspired, joy springs up. Being
+joyful, rapture springs up. When the mind is full of rapture, the body
+becomes tranquil. When the body is tranquil, one feels bliss. And when
+blissful, the mind becomes immersed in [samādhi]{lang="sa"}. This is the
+second opportunity for freedom. ...
+
+Furthermore, it may be that neither the Teacher nor ... the mendicant
+teaches Dhamma. But the mendicant recites the teaching in detail as they
+learned and memorized it. In whatever way that mendicant recites the
+teaching in detail as they learned and memorized it, they always feel
+inspired by the meaning and the teaching in that Dhamma. Feeling
+inspired, joy springs up. Being joyful, rapture springs up. When the
+mind is full of rapture, the body becomes tranquil. When the body is
+tranquil, one feels bliss. And when blissful, the mind becomes immersed
+in [samādhi]{lang="sa"}. This is the third opportunity for freedom. ...
+
+Furthermore, it may be that neither the Teacher nor ... the mendicant
+teaches Dhamma ... nor does the mendicant recite the teaching. But the
+mendicant thinks about and considers the teaching in their heart,
+examining it with the mind as they learned and memorized it. In whatever
+way that mendicant thinks about and considers the teaching in their
+heart, examining it with the mind as they learned and memorized it, they
+always feel inspired by the meaning and the teaching in that Dhamma.
+Feeling inspired, joy springs up. Being joyful, rapture springs up. When
+the mind is full of rapture, the body becomes tranquil. When the body is
+tranquil, one feels bliss. And when blissful, the mind becomes immersed
+in [samādhi]{lang="sa"}. This is the fourth opportunity for freedom. ...
+
+Furthermore, it may be that neither the Teacher nor ... the mendicant
+teaches Dhamma ... nor does the mendicant recite the teaching ... or
+think about it. But a meditation subject as a basis of immersion is
+properly grasped, focused on, borne in mind, and comprehended with
+wisdom. In whatever way a mendicant's meditation subject as a basis of
+immersion is properly grasped, focused on, borne in mind, and
+comprehended with wisdom, they always feel inspired by the meaning and
+the teaching in that Dhamma. Feeling inspired, joy springs up. Being
+joyful, rapture springs up. When the mind is full of rapture, the body
+becomes tranquil. When the body is tranquil, one feels bliss. And when
+blissful, the mind becomes immersed in [samādhi]{lang="sa"}. This is the
+fifth opportunity for freedom. ...
+
+These are the five opportunities for freedom. If a mendicant stays
+diligent, keen, and resolute at these times, their mind is freed, their
+defilements are ended, and they arrive at the supreme sanctuary from the
+yoke."
+
+### N 5.27 Immersion  *Samādhisutta* {#n-5.27-immersion-samādhisutta .unnumbered}
+
+"Mendicants, develop limitless immersion, alert and mindful. When you
+develop limitless immersion, alert and mindful, five knowledges arise
+for you personally. What five?
+
+'This immersion is blissful now, and results in bliss in the future.'
+...
+
+'This immersion is noble and not of the flesh.' ...
+
+'This immersion is not cultivated by sinners.' ...
+
+'This immersion is peaceful and sublime and tranquil and unified, not
+held in place by forceful suppression.' ...
+
+'I mindfully enter into and emerge from this immersion.' ...
+
+Develop limitless immersion, alert and mindful. When you develop
+limitless immersion, alert and mindful, these five knowledges arise for
+you personally."
+
+### N 5.28 With Five Factors  *Pañcaṅgikasutta* {#n-5.28-with-five-factors-pañcaṅgikasutta .unnumbered}
+
+"Mendicants, I will teach you how to develop noble right immersion with
+five factors. Listen and apply your mind well, I will speak."
+
+"Yes, sir," they replied. The Buddha said this:
+
+"And how do you develop noble right immersion with five factors?
+
+Firstly, a mendicant, quite secluded from sensual pleasures, secluded
+from unskillful qualities, enters and remains in the first absorption.
+It has the rapture and bliss born of seclusion, while placing the mind
+and keeping it connected. They drench, steep, fill, and spread their
+body with rapture and bliss born of seclusion. There's no part of the
+body that's not spread with rapture and bliss born of seclusion. It's
+like when a deft bathroom attendant or their apprentice pours bath
+powder into a bronze dish, sprinkling it little by little with water.
+They knead it until the ball of bath powder is soaked and saturated with
+moisture, spread through inside and out; yet no moisture oozes out. In
+the same way, a mendicant drenches, steeps, fills, and spreads their
+body with rapture and bliss born of seclusion. There's no part of the
+body that's not spread with rapture and bliss born of seclusion. This is
+the first way to develop noble right immersion with five factors.
+
+Furthermore, as the placing of the mind and keeping it connected are
+stilled, a mendicant enters and remains in the second absorption. It has
+the rapture and bliss born of immersion, with internal clarity and mind
+at one, without placing the mind and keeping it connected. They drench,
+steep, fill, and spread their body with rapture and bliss born of
+immersion. There's no part of the body that's not spread with rapture
+and bliss born of immersion. It's like a deep lake fed by spring water.
+There's no inlet to the east, west, north, or south, and the heavens
+would not properly bestow showers from time to time. But the stream of
+cool water welling up in the lake drenches, steeps, fills, and spreads
+throughout the lake. There's no part of the lake that's not spread
+through with cool water. In the same way, a mendicant drenches, steeps,
+fills, and spreads their body with rapture and bliss born of immersion.
+There's no part of the body that's not spread with rapture and bliss
+born of immersion. This is the second way to develop noble right
+immersion with five factors.
+
+Furthermore, with the fading away of rapture, a mendicant enters and
+remains in the third absorption. They meditate with equanimity, mindful
+and aware, personally experiencing the bliss of which the noble ones
+declare, 'Equanimous and mindful, one meditates in bliss.' They drench,
+steep, fill, and spread their body with bliss free of rapture. There's
+no part of the body that's not spread with bliss free of rapture. It's
+like a pool with blue water lilies, or pink or white lotuses. Some of
+them sprout and grow in the water without rising above it, thriving
+underwater. From the tip to the root they're drenched, steeped, filled,
+and soaked with cool water. There's no part of them that's not spread
+through with cool water. In the same way, a mendicant drenches, steeps,
+fills, and spreads their body with bliss free of rapture. There's no
+part of the body that's not spread with bliss free of rapture. This is
+the third way to develop noble right immersion with five factors.
+
+Furthermore, giving up pleasure and pain, and ending former happiness
+and sadness, a mendicant enters and remains in the fourth absorption. It
+is without pleasure or pain, with pure equanimity and mindfulness. They
+sit spreading their body through with pure bright mind. There's no part
+of the body that's not spread with pure bright mind. It's like someone
+sitting wrapped from head to foot with white cloth. There's no part of
+the body that's not spread over with white cloth. In the same way, they
+sit spreading their body through with pure bright mind. There's no part
+of the body that's not spread with pure bright mind. This is the fourth
+way to develop noble right immersion with five factors.
+
+Furthermore, the meditation that is a basis for reviewing is properly
+grasped, focused on, borne in mind, and comprehended with wisdom by a
+mendicant. It's like when someone views someone else. Someone standing
+might view someone sitting, or someone sitting might view someone lying
+down. In the same way, the meditation that is a basis for reviewing is
+properly grasped, focused on, borne in mind, and comprehended with
+wisdom by a mendicant. This is the fifth way to develop noble right
+immersion with five factors.
+
+When the noble right immersion with five factors is developed and
+cultivated in this way, a mendicant extends the mind to realize by
+insight each and every thing that can be realized by insight; and they
+are capable of realizing those things, since each and every one is
+within range.
+
+Suppose a water jar was placed on a stand, full to the brim so a crow
+could drink from it. If a strong man was to tip it any which way, would
+water pour out?"
+
+"Yes, sir."
+
+"In the same way, when noble right immersion with five factors is
+developed and cultivated in this way, a mendicant extends the mind to
+realize by insight each and every thing that can be realized by insight;
+and they are capable of realizing those things, since each and every one
+is within range.
+
+Suppose there was a square, walled lotus pond on level ground, full to
+the brim so a crow could drink from it. If a strong man was to open the
+wall on any side, would water pour out?"
+
+"Yes, sir."
+
+"In the same way, when noble right immersion with five factors is
+developed and cultivated in this way, a mendicant extends the mind to
+realize by insight each and every thing that can be realized by insight;
+and they are capable of realizing those things, since each and every one
+is within range.
+
+Suppose a chariot stood harnessed to thoroughbreds at a level
+crossroads, with a goad ready. A deft horse trainer, a master
+charioteer, might mount the chariot, taking the reins in his right hand
+and goad in the left. He'd drive out and back wherever he wishes,
+whenever he wishes. In the same way, when noble right immersion with
+five factors is developed and cultivated in this way, a mendicant
+extends the mind to realize by insight each and every thing that can be
+realized by insight; and they are capable of realizing those things,
+since each and every one is within range.
+
+If you wish: 'May I wield the many kinds of psychic power: multiplying
+myself and becoming one again ... controlling the body as far as the
+realm of divinity.' You're capable of realizing it, since each and every
+one is within range.
+
+If you wish: 'With clairaudience that is purified and superhuman, may I
+hear both kinds of sounds, human and heavenly, whether near or far.'
+You're capable of realizing it, since each and every one is within
+range.
+
+If you wish: 'May I understand the minds of other beings and
+individuals, having comprehended them with my mind. May I understand
+mind with greed as "mind with greed", and mind without greed as "mind
+without greed"; mind with hate as "mind with hate", and mind without
+hate as "mind without hate"; mind with delusion as "mind with delusion",
+and mind without delusion as "mind without delusion"; constricted mind
+as "constricted mind", and scattered mind as "scattered mind"; expansive
+mind as "expansive mind", and unexpansive mind as "unexpansive mind";
+mind that is not supreme as "mind that is not supreme", and mind that is
+supreme as "mind that is supreme"; mind immersed in [samādhi]{lang="sa"}
+as "mind immersed in [samādhi]{lang="sa"}", and mind not immersed in
+[samādhi]{lang="sa"} as "mind not immersed in [samādhi]{lang="sa"}";
+freed mind as "freed mind", and unfreed mind as "unfreed mind".' You're
+capable of realizing it, since each and every one is within range.
+
+If you wish: 'May I recollect many kinds of past lives, with features
+and details.' You're capable of realizing it, since each and every one
+is within range.
+
+If you wish: 'With clairvoyance that is purified and superhuman, may I
+see sentient beings passing away and being reborn according to their
+deeds.' You're capable of realizing it, since each and every one is
+within range.
+
+If you wish: 'May I realize the undefiled freedom of heart and freedom
+by wisdom in this very life, and live having realized it with my own
+insight due to the ending of defilements.' You're capable of realizing
+it, since each and every one is within range."
+
+### N 5.29 Walking Meditation  *Caṅkamasutta* {#n-5.29-walking-meditation-caṅkamasutta .unnumbered}
+
+"Mendicants, there are five benefits of walking meditation. What five?
+You get fit for traveling, fit for striving in meditation, and healthy.
+What's eaten, drunk, chewed, and tasted is properly digested. And
+immersion gained while walking lasts long. These are the five benefits
+of walking meditation."
+
+### N 5.30 With Nāgita  *Nāgitasutta* {#n-5.30-with-nāgita-nāgitasutta .unnumbered}
+
+[So I have heard.]{.smallcaps} At one time the Buddha was wandering in
+the land of the Kosalans together with a large [Saṅgha]{lang="sa"} of
+mendicants when he arrived at a village of the Kosalan brahmins named
+[Icchānaṅgala]{lang="sa"}. He stayed in a forest near
+[Icchānaṅgala]{lang="sa"}. The brahmins and householders of
+[Icchānaṅgala]{lang="sa"} heard:
+
+"It seems the ascetic Gotama---a Sakyan, gone forth from a Sakyan
+family---has arrived at [Icchānaṅgala]{lang="sa"}. He is staying in a
+forest near [Icchānaṅgala]{lang="sa"}. He has this good reputation:
+'That Blessed One is perfected, a fully awakened Buddha, accomplished in
+knowledge and conduct, holy, knower of the world, supreme guide for
+those who wish to train, teacher of gods and humans, awakened, blessed.'
+He has realized with his own insight this world---with its gods,
+[Māras]{lang="sa"}, and divinities, this population with its ascetics
+and brahmins, gods and humans---and he makes it known to others. He
+proclaims a teaching that is good in the beginning, good in the middle,
+and good in the end, meaningful and well-phrased. And he reveals a
+spiritual practice that's entirely full and pure. It's good to see such
+perfected ones."
+
+Then, when the night had passed, they took many fresh and cooked foods
+and went to the forest near [Icchānaṅgala]{lang="sa"}, where they stood
+outside the gates making a dreadful racket.
+
+Now, at that time Venerable [Nāgita]{lang="sa"} was the Buddha's
+attendant. Then the Buddha said to [Nāgita]{lang="sa"},
+"[Nāgita]{lang="sa"}, who's making that dreadful racket? You'd think it
+was fishermen hauling in a catch!"
+
+"Sir, it's these brahmins and householders of [Icchānaṅgala]{lang="sa"}.
+They've brought many fresh and cooked foods, and they're standing
+outside the gates wanting to offer it specially to the Buddha and the
+mendicant [Saṅgha]{lang="sa"}."
+
+"[Nāgita]{lang="sa"}, may I never become famous. May fame not come to
+me. There are those who can't get the pleasure of renunciation, the
+pleasure of seclusion, the pleasure of peace, the pleasure of awakening
+when they want, without trouble or difficulty like I can. Let them enjoy
+the filthy, lazy pleasure of possessions, honor, and popularity."
+
+"Sir, may the Blessed One please relent now! May the Holy One relent!
+Now is the time for the Buddha to relent. Wherever the Buddha now goes,
+the brahmins and householders, and people of town and country will
+incline the same way. It's like when the heavens rain heavily and the
+water flows downhill. In the same way, wherever the Buddha now goes, the
+brahmins and householders, and people of town and country will incline
+the same way. Why is that? Because of the Buddha's ethics and wisdom."
+
+"[Nāgita]{lang="sa"}, may I never become famous. May fame not come to
+me. There are those who can't get the pleasure of renunciation, the
+pleasure of seclusion, the pleasure of peace, the pleasure of awakening
+when they want, without trouble or difficulty like I can. Let them enjoy
+the filthy, lazy pleasure of possessions, honor, and popularity.
+
+What you eat, drink, chew, and taste ends up as excrement and urine.
+This is its outcome.
+
+When loved ones decay and perish, sorrow, lamentation, pain, sadness,
+and distress arise. This is its outcome.
+
+When you pursue meditation on the feature of ugliness, revulsion at the
+feature of beauty becomes stabilized. This is its outcome.
+
+When you meditate observing impermanence in the six fields of contact,
+revulsion at contact becomes stabilized. This is its outcome.
+
+When you meditate observing rise and fall in the five grasping
+aggregates, revulsion at grasping becomes stabilized. This is its
+outcome."
+
+## The Chapter with Sumanā  {#the-chapter-with-sumanā .unnumbered}
+
+### N 5.31 With Sumanā  *Sumanasutta* {#n-5.31-with-sumanā-sumanasutta .unnumbered}
+
+At one time the Buddha was staying near [Sāvatthī]{lang="sa"} in Jeta's
+Grove, [Anāthapiṇḍika]{lang="sa"}'s monastery. Then Princess
+[Sumanā]{lang="sa"}, escorted by five hundred chariots and five hundred
+royal maidens, went up to the Buddha, bowed, sat down to one side, and
+said to him:
+
+"Sir, suppose there were two disciples equal in faith, ethics, and
+wisdom. One is a giver, one is not. When their body breaks up, after
+death, they're reborn in a good place, a heavenly realm. When they have
+become gods, would there be any distinction or difference between them?"
+
+"There would be, [Sumanā]{lang="sa"}," said the Buddha.
+
+"As a god, the one who was a giver surpasses the other in five respects:
+heavenly lifespan, beauty, happiness, glory, and sovereignty. As a god,
+the one who was a giver surpasses the other in these five respects."
+
+"But sir, if they pass away from there and come back to this place as
+human beings, would there still be any distinction or difference between
+them?"
+
+"There would be, [Sumanā]{lang="sa"}," said the Buddha.
+
+"As a human being, the one who was a giver would surpass the other in
+five respects: human lifespan, beauty, happiness, glory, and
+sovereignty. As a human being, the one who was a giver surpasses the
+other in these five respects."
+
+"But sir, if they both go forth from the lay life to homelessness, would
+there still be any distinction or difference between them?"
+
+"There would be, [Sumanā]{lang="sa"}," said the Buddha.
+
+"As a renunciate, the one who was a giver surpasses the other in five
+respects. They usually use only what they've been invited to
+accept---robes, almsfood, lodgings, and medicines and supplies for the
+sick---rarely using them without invitation. When living with other
+spiritual practitioners, they usually find themselves treated agreeably
+by them by way of body, speech, and mind, and rarely disagreeably. And
+they are usually presented with agreeable things by them, rarely with
+disagreeable ones. As a renunciate, the one who was a giver surpasses
+the other in these five respects."
+
+"But sir, if they both attain perfection, as perfected ones would there
+still be any distinction or difference between them?"
+
+"In that case, I say there is no difference between the freedom of one
+and the freedom of the other."
+
+"It's incredible, sir, it's amazing! This is quite enough to justify
+giving gifts and making merit. For merit is helpful for those who have
+become gods, human beings, and renunciates."
+
+"That's so true, [Sumanā]{lang="sa"}. It's quite enough to justify
+giving gifts and making merit. For merit is helpful for those who have
+become gods, human beings, and renunciates."
+
+That is what the Buddha said. Then the Holy One, the Teacher, went on to
+say:
+
+> "The moon so immaculate,\
+> journeying across the dimension of space;\
+> outshines with its radiance\
+> all the world's stars.
+>
+> So too, a faithful individual,\
+> perfect in ethics,\
+> outshines with their generosity\
+> all the world's stingy people.
+>
+> The thundering rain cloud,\
+> its hundred peaks wreathed in lightning,\
+> pours down over the rich earth,\
+> soaking the uplands and valleys.
+>
+> Even so, an astute person accomplished in vision,\
+> a disciple of the fully awakened Buddha,\
+> surpasses a stingy person\
+> in five respects:
+>
+> long life and fame,\
+> beauty and happiness.\
+> Lavished with riches,\
+> they depart to rejoice in heaven."
+
+### N 5.32 With Cundī  *Cundīsutta* {#n-5.32-with-cundī-cundīsutta .unnumbered}
+
+At one time the Buddha was staying near [Rājagaha]{lang="sa"}, in the
+Bamboo Grove, the squirrels' feeding ground. Then Princess
+[Cundī]{lang="sa"}, escorted by five hundred chariots and five hundred
+royal maidens, went up to the Buddha, bowed, sat down to one side, and
+said to him:
+
+"Sir, my brother, Prince Cunda, says this: 'Take a woman or man who goes
+for refuge to the Buddha, the teaching, and the [Saṅgha]{lang="sa"}, and
+doesn't kill living creatures, steal, commit sexual misconduct, lie, or
+consume beer, wine, and liquor intoxicants. Only then do they get reborn
+in a good place, not a bad place, when their body breaks up, after
+death.' And so I ask the Buddha: Sir, what kind of teacher should you
+have confidence in so as to be reborn in a good place, not a bad place,
+when the body breaks up, after death? Sir, what kind of teaching should
+you have confidence in so as to be reborn in a good place, not a bad
+place, when the body breaks up, after death? Sir, what kind of
+[Saṅgha]{lang="sa"} should you have confidence in so as to be reborn in
+a good place, not a bad place, when the body breaks up, after death?
+Sir, what kind of ethics should you fulfill so as to be reborn in a good
+place, not a bad place, when the body breaks up, after death?"
+
+"[Cundī]{lang="sa"}, the Realized One, the perfected one, the fully
+awakened Buddha, is said to be the best of all sentient beings---be they
+footless, with two feet, four feet, or many feet; with form or formless;
+with perception or without perception or with neither perception nor
+non-perception. Those who have confidence in the Buddha have confidence
+in the best. Having confidence in the best, the result is the best.
+
+The noble eightfold path is said to be the best of all conditioned
+things. Those who have confidence in the noble eightfold path have
+confidence in the best. Having confidence in the best, the result is the
+best.
+
+Fading away is said to be the best of all things whether conditioned or
+unconditioned. That is, the quelling of vanity, the removing of thirst,
+the uprooting of clinging, the breaking of the round, the ending of
+craving, fading away, cessation, extinguishment. Those who have
+confidence in the teaching of fading away have confidence in the best.
+Having confidence in the best, the result is the best.
+
+The [Saṅgha]{lang="sa"} of the Realized One's disciples is said to be
+the best of all communities and groups. It consists of the four pairs,
+the eight individuals. This is the [Saṅgha]{lang="sa"} of the Buddha's
+disciples that is worthy of offerings dedicated to the gods, worthy of
+hospitality, worthy of a religious donation, worthy of greeting with
+joined palms, and is the supreme field of merit for the world. Those who
+have confidence in the [Saṅgha]{lang="sa"} have confidence in the best.
+Having confidence in the best, the result is the best.
+
+The ethical conduct loved by the noble ones is said to be the best of
+all ethics. It is intact, impeccable, spotless, and unmarred,
+liberating, praised by sensible people, not mistaken, and leading to
+immersion. Those who fulfill the ethics loved by the noble ones fulfill
+the best. Fulfilling the best, the result is the best.
+
+> For those who, knowing the best teaching,\
+> base their confidence on the best---\
+> confident in the best Awakened One,\
+> supremely worthy of a religious donation;
+>
+> confident in the best teaching,\
+> the bliss of fading and stilling;\
+> confident in the best [Saṅgha]{lang="sa"},\
+> the supreme field of merit---
+>
+> giving gifts to the best,\
+> the best of merit grows:\
+> the best lifespan, beauty,\
+> fame, reputation, happiness, and strength.
+>
+> An intelligent person gives to the best,\
+> settled on the best teaching.\
+> When they become a god or human,\
+> they rejoice at reaching the best."
+
+### N 5.33 With Uggaha  *Uggahasutta* {#n-5.33-with-uggaha-uggahasutta .unnumbered}
+
+At one time the Buddha was staying near Bhaddiya, in [Jātiyā]{lang="sa"}
+Wood.
+
+Then Uggaha, [Meṇḍaka]{lang="sa"}'s grandson, went up to the Buddha,
+bowed, sat down to one side, and said to him, "Sir, may the Buddha
+please accept tomorrow's meal from me, together with three other monks."
+The Buddha consented with silence. Then, knowing that the Buddha had
+consented, Uggaha got up from his seat, bowed, and respectfully circled
+the Buddha, keeping him on his right, before leaving.
+
+Then when the night had passed, the Buddha robed up in the morning and,
+taking his bowl and robe, went to Uggaha's home, where he sat on the
+seat spread out. Then Uggaha served and satisfied the Buddha with his
+own hands with delicious fresh and cooked foods.
+
+When the Buddha had eaten and washed his hand and bowl, Uggaha sat down
+to one side, and said to him, "Sir, these girls of mine will be going to
+their husbands' families. May the Buddha please advise and instruct
+them. It will be for their lasting welfare and happiness."
+
+Then the Buddha said to those girls:
+
+"So, girls, you should train like this: 'Our parents will give us to a
+husband wanting what's best, out of kindness and sympathy. We will get
+up before him and go to bed after him, and be obliging, behaving nicely
+and speaking politely.' That's how you should train.
+
+So, girls, you should train like this: 'Those our husband
+respects---mother and father, ascetics and brahmins---we will honor,
+respect, revere, and venerate, and serve with a seat and a drink when
+they come as guests.' That's how you should train.
+
+So, girls, you should train like this: 'We will be deft and tireless in
+doing domestic duties for our husband, such as knitting and sewing. We
+will have an understanding of how to go about things in order to
+complete and organize the work.' That's how you should train.
+
+So, girls, you should train like this: 'We will know what work our
+husband's domestic bondservants, servants, and workers have completed,
+and what they've left incomplete. We will know who is sick, and who is
+fit or unwell. We will distribute to each a fair portion of fresh and
+cooked foods.' That's how you should train.
+
+So, girls, you should train like this: 'We will ensure that any income
+our husbands earn is guarded and protected, whether money, grain,
+silver, or gold. We will not overspend, steal, waste, or lose it.'
+That's how you should train. When they have these five qualities,
+females---when their body breaks up, after death---are reborn in company
+with the Gods of the Agreeable Host.
+
+> She'd never look down on her husband,\
+> who's always eager to work hard,\
+> always looking after her,\
+> and bringing whatever she wants.
+>
+> And a good woman never scolds her husband\
+> with jealous words.\
+> Being astute, she reveres\
+> those respected by her husband.
+>
+> She gets up early, works tirelessly,\
+> and manages the domestic help.\
+> She's agreeable to her husband,\
+> and preserves his wealth.
+>
+> A lady who fulfills these duties\
+> according to her husband's desire,\
+> is reborn among the gods\
+> called 'Agreeable'."
+
+### N 5.34 With General Sīha  *Sīhasenāpatisutta* {#n-5.34-with-general-sīha-sīhasenāpatisutta .unnumbered}
+
+At one time the Buddha was staying near [Vesālī]{lang="sa"}, at the
+Great Wood, in the hall with the peaked roof.
+
+Then General [Sīha]{lang="sa"} went up to the Buddha, bowed, sat down to
+one side, and asked him, "Sir, can you point out a fruit of giving
+that's apparent in the present life?"
+
+"I can, [Sīha]{lang="sa"}," said the Buddha.
+
+"A giver, a donor is dear and beloved to many people. This is a fruit of
+giving that's apparent in the present life.
+
+Furthermore, good and true persons associate with a giver. This is
+another fruit of giving that's apparent in the present life.
+
+Furthermore, a giver gains a good reputation. This is another fruit of
+giving that's apparent in the present life.
+
+Furthermore, a giver enters any kind of assembly bold and assured,
+whether it's an assembly of aristocrats, brahmins, householders, or
+ascetics. This is another fruit of giving that's apparent in the present
+life.
+
+Furthermore, when a giver's body breaks up, after death, they're reborn
+in a good place, a heavenly realm. This is a fruit of giving to do with
+lives to come."
+
+When he said this, General [Sīha]{lang="sa"} said to the Buddha, "When
+it comes to those four fruits of giving that are apparent in the present
+life, I don't have to rely on faith in the Buddha, for I know them too.
+I'm a giver, a donor, and am dear and beloved to many people. I'm a
+giver, and good and true persons associate with me. I'm a giver, and I
+have this good reputation: 'General [Sīha]{lang="sa"} gives, serves, and
+attends on the [Saṅgha]{lang="sa"}.' I'm a giver, and I enter any kind
+of assembly bold and assured, whether it's an assembly of aristocrats,
+brahmins, householders, or ascetics. When it comes to these four fruits
+of giving that are apparent in the present life, I don't have to rely on
+faith in the Buddha, for I know them too. But when the Buddha says:
+'When a giver's body breaks up, after death, they're reborn in a good
+place, a heavenly realm.' I don't know this, so I have to rely on faith
+in the Buddha."
+
+"That's so true, [Sīha]{lang="sa"}! That's so true! When a giver's body
+breaks up, after death, they're reborn in a good place, a heavenly
+realm.
+
+> Giving, you're loved and befriended by many people.\
+> You get a good reputation, and your fame grows.\
+> A generous man enters an assembly\
+> bold and assured.
+>
+> So an astute person, seeking happiness,\
+> \>would give gifts,\
+> having driven out the stain of stinginess.\
+> They live long in the heaven of the Three and Thirty,\
+> enjoying the company of the gods.
+>
+> Having taken the opportunity to do good,\
+> \>when they pass from here\
+> they wander radiant in the Garden of Delight.\
+> There they delight, rejoice, and enjoy themselves,\
+> provided with the five kinds of sensual stimulation.\
+> Having practiced the word of the unattached, the unaffected,\
+> disciples of the Holy One rejoice in heaven."
+
+### N 5.35 The Benefits of Giving  *Dānānisaṁsasutta* {#n-5.35-the-benefits-of-giving-dānānisaṁsasutta .unnumbered}
+
+"Mendicants, there are five benefits of giving. What five? A giver, a
+donor is dear and beloved by many people. Good and true persons
+associate with them. They get a good reputation. They don't neglect a
+layperson's duties. When their body breaks up, after death, they're
+reborn in a good place, a heavenly realm. These are the five benefits of
+giving.
+
+> Giving, one is loved,\
+> and follows the way of the good.\
+> The good, disciplined spiritual practitioners\
+> always associate with you.
+>
+> They teach you the Dhamma\
+> that dispels all suffering.\
+> Having understood this teaching,\
+> the undefiled one is fully extinguished."
+
+### N 5.36 Timely Gifts  *Kāladānasutta* {#n-5.36-timely-gifts-kāladānasutta .unnumbered}
+
+"Mendicants, there are these five timely gifts. What five? A gift to a
+visitor. A gift to someone setting out on a journey. A gift to someone
+who is sick. A gift at a time of famine. Presenting the freshly
+harvested grains and fruits first to those who are ethical. These are
+the five timely gifts.
+
+> The wise give at the right time,\
+> being bountiful and rid of stinginess.\
+> A religious donation at the right time\
+> to the noble ones, sincere and unaffected,
+>
+> given with a clear and confident mind,\
+> is indeed abundant.\
+> Those who rejoice at that,\
+> or do other services,\
+> don't miss out on the offering;\
+> they too have a share in the merit.
+>
+> So you should give without holding back,\
+> where a gift is very fruitful.\
+> The good deeds of sentient beings\
+> support them in the next world."
+
+### N 5.37 Food  *Bhojanasutta* {#n-5.37-food-bhojanasutta .unnumbered}
+
+"Mendicants, when a giver gives food, they give the recipients five
+things. What five? Long life, beauty, happiness, strength, and
+eloquence.
+
+Giving long life, they have long life as a god or human.
+
+Giving beauty, they have beauty as a god or human.
+
+Giving happiness, they have happiness as a god or human.
+
+Giving strength, they have strength as a god or human.
+
+Giving eloquence, they are eloquent as a god or human.
+
+When a giver gives food, they give the recipients five things.
+
+> Being attentive, one is a giver of life, strength,\
+> beauty, and eloquence.\
+> An intelligent giver of happiness\
+> gains happiness in return.
+>
+> Giving life, strength, beauty,\
+> happiness, and eloquence,\
+> they're long-lived and famous\
+> wherever they're reborn."
+
+### N 5.38 Faith  *Saddhasutta* {#n-5.38-faith-saddhasutta .unnumbered}
+
+"Mendicants, a faithful gentleman gets five benefits. What five? The
+true persons in the world show sympathy first to the faithful, not so
+much to the unfaithful. They first approach the faithful, not so much
+the unfaithful. They first receive alms from the faithful, not so much
+the unfaithful. They first teach Dhamma to the faithful, not so much the
+unfaithful. When their body breaks up, after death, the faithful are
+reborn in a good place, a heavenly realm. A faithful gentleman gets
+these five benefits.
+
+Suppose there was a great banyan tree at a level crossroads. It would
+become a refuge for birds from all around. In the same way, a faithful
+gentleman becomes a refuge for many people---monks, nuns, laywomen, and
+laymen.
+
+> With its branches, leaves, and fruit,\
+> a great tree with its strong trunk,\
+> firmly-rooted and fruit-bearing,\
+> supports many birds.
+>
+> It's a lovely place,\
+> frequented by the sky-soarers.\
+> Those that need shade go in the shade,\
+> those that need fruit enjoy the fruit.
+>
+> So too, a faithful individual\
+> is perfect in ethics,\
+> humble and amenable,\
+> sweet, courteous, and tender.
+>
+> Those free of greed, freed of hate,\
+> free of delusion, undefiled,\
+> fields of merit for the world,\
+> associate with such a person.
+>
+> They teach them the Dhamma,\
+> that dispels all suffering.\
+> Having understood this teaching,\
+> the undefiled one is fully extinguished."
+
+### N 5.39 A Child  *Puttasutta* {#n-5.39-a-child-puttasutta .unnumbered}
+
+"Mendicants, parents see five reasons to wish for the birth of a child
+in the family. What five? Since we looked after them, they'll look after
+us. They'll do their duty for us. The family traditions will last.
+They'll take care of the inheritance. Or else when we have passed away
+they'll give an offering on our behalf. Parents see these five reasons
+to wish for the birth of a child in the family.
+
+> Seeing five reasons,\
+> astute people wish for a child.\
+> Since we looked after them, they'll look after us.\
+> They'll do their duty for us.
+>
+> The family traditions will last.\
+> They'll take care of the inheritance.\
+> Or else when we have passed away\
+> they'll give an offering on our behalf.
+>
+> Seeing these five reasons\
+> astute people wish for a child.\
+> And so true persons,\
+> grateful and thankful,
+>
+> look after their parents,\
+> remembering past deeds.\
+> They do for their parents,\
+> as their parents did for them in the past.
+>
+> Following their advice,\
+> \>looking after those who raised them,\
+> the family traditions are not lost.\
+> Faithful, accomplished in ethics,\
+> such a child is praiseworthy."
+
+### N 5.40 Great Sal Trees  *Mahāsālaputtasutta* {#n-5.40-great-sal-trees-mahāsālaputtasutta .unnumbered}
+
+"Mendicants, great sal trees grow in five ways supported by the
+Himalayas, the king of mountains. What five? The branches, leaves, and
+foliage; the bark; the shoots; the softwood; and the hardwood. Great sal
+trees grow in these five ways supported by the Himalayas, the king of
+mountains.
+
+In the same way, a family grows in five ways supported by a family head
+with faith. What five? Faith, ethics, learning, generosity, and wisdom.
+A family grows in these five ways supported by a family head with faith.
+
+> Supported by the mountain crags\
+> in the wilds, the formidable forest,\
+> the tree grows\
+> to become lord of the forest.
+>
+> So too, when the family head\
+> is ethical and faithful,\
+> supported by them, they grow:\
+> children, partners, and kin,\
+> colleagues, relatives,\
+> and those dependent for their livelihood.
+>
+> Seeing the ethical conduct of the virtuous,\
+> the generosity and good deeds,\
+> those who see clearly\
+> do likewise.
+>
+> Having practiced the teaching here,\
+> the path that goes to a good place,\
+> they delight in the heavenly realm,\
+> enjoying all the pleasures they desire."
+
+## The Chapter with King Muṇḍa  {#the-chapter-with-king-muṇḍa .unnumbered}
+
+### N 5.41 Getting Rich  *Ādiyasutta* {#n-5.41-getting-rich-ādiyasutta .unnumbered}
+
+At one time the Buddha was staying near [Sāvatthī]{lang="sa"} in Jeta's
+Grove, [Anāthapiṇḍika]{lang="sa"}'s monastery. Then the householder
+[Anāthapiṇḍika]{lang="sa"} went up to the Buddha, bowed, and sat down to
+one side. The Buddha said to him:
+
+"Householder, there are these five reasons to get rich. What five?
+
+Firstly, with his legitimate wealth---earned by his efforts and
+initiative, built up with his own hands, gathered by the sweat of the
+brow---a noble disciple makes himself happy and pleased, keeping himself
+properly happy. He makes his mother and father happy ... He makes his
+children, partners, bondservants, workers, and staff happy ... This is
+the first reason to get rich.
+
+Furthermore, with his legitimate wealth he makes his friends and
+colleagues happy ... This is the second reason to get rich.
+
+Furthermore, with his legitimate wealth he protects himself against
+losses from such things as fire, water, kings, bandits, or unloved
+heirs. He keeps himself safe. This is the third reason to get rich.
+
+Furthermore, with his legitimate wealth he makes five spirit-offerings:
+to relatives, guests, ancestors, king, and deities. This is the fourth
+reason to get rich.
+
+Furthermore, with his legitimate wealth he establishes an uplifting
+religious donation for ascetics and brahmins---those who refrain from
+intoxication and negligence, are settled in patience and sweetness, and
+who tame, calm, and extinguish themselves---that's conducive to heaven,
+ripens in happiness, and leads to heaven. This is the fifth reason to
+get rich.
+
+These are the five reasons to get rich.
+
+Now if the riches a noble disciple gets for these five reasons run out,
+he thinks: 'So, the riches I have obtained for these reasons are running
+out.' And so he has no regrets.
+
+But if the riches a noble disciple gets for these five reasons increase,
+he thinks: 'So, the riches I have obtained for these reasons are
+increasing.' And so he has no regrets in both cases.
+
+> 'I've enjoyed my wealth,\
+> \>supporting those who depend on me;\
+> I've overcome losses;\
+> I've given uplifting religious donations;\
+> and made the five spirit-offerings.\
+> I have looked after the ethical and\
+> disciplined spiritual practitioners.
+>
+> I've achieved the purpose\
+> for which an astute lay person\
+> wishes to gain wealth.\
+> I don't regret what I've done.'
+>
+> A mortal person who recollects this\
+> stands firm in the teaching of the noble ones.\
+> They're praised in this life by the astute,\
+> and they depart to rejoice in heaven."
+
+### N 5.42 A True Person  *Sappurisasutta* {#n-5.42-a-true-person-sappurisasutta .unnumbered}
+
+"Mendicants, a true person is born in a family for the benefit, welfare,
+and happiness of the people. For the benefit, welfare, and happiness of
+mother and father; children and partners; bondservants, workers, and
+staff; friends and colleagues; and ascetics and brahmins.
+
+It's like a great rain cloud, which nourishes all the crops for the
+benefit, welfare, and happiness of the people. In the same way, a true
+person is born in a family for the benefit, welfare, and happiness of
+the people. ...
+
+> The gods protect one who is guarded by principle,\
+> who uses their wealth for the welfare of the many.\
+> One who is learned,\
+> \>with precepts and observances intact,\
+> and steady in principle, doesn't lose their reputation.
+>
+> Firm in principle, accomplished in ethical conduct,\
+> truthful, conscientious;\
+> like a pendant of Black Plum River gold,\
+> who is worthy to criticize them?\
+> Even the gods praise them,\
+> and by the Divinity, too, they're praised."
+
+### N 5.43 Likable  *Iṭṭhasutta* {#n-5.43-likable-iṭṭhasutta .unnumbered}
+
+Then the householder [Anāthapiṇḍika]{lang="sa"} went up to the Buddha,
+bowed, and sat down to one side. The Buddha said to him:
+
+"Householder, these five things, which are likable, desirable, and
+agreeable are hard to get in the world. What five? Long life, beauty,
+happiness, fame, and heaven. These are the five things, which are
+likable, desirable, and agreeable, but hard to get in the world.
+
+And I say that these five things are not got by praying or wishing for
+them. If they were, who would lack them?
+
+A noble disciple who wants to live long ought not pray for it, or hope
+for it, or pine for it. Instead, they should practice the way that leads
+to long life. For by practicing that way they gain long life as a god or
+a human being.
+
+A noble disciple who wants to be beautiful ought not pray for it, or
+hope for it, or pine for it. Instead, they should practice the way that
+leads to beauty. For by practicing that way they gain beauty as a god or
+a human being.
+
+A noble disciple who wants to be happy ought not pray for it, or hope
+for it, or pine for it. Instead, they should practice the way that leads
+to happiness. For by practicing that way they gain happiness as a god or
+a human being.
+
+A noble disciple who wants to be famous ought not pray for it, or hope
+for it, or pine for it. Instead, they should practice the way that leads
+to fame. For by practicing that way they gain fame as a god or a human
+being.
+
+A noble disciple who wants to go to heaven ought not pray for it, or
+hope for it, or pine for it. Instead, they should practice the way that
+leads to heaven. For by practicing that way they gain heaven, they are
+one who gains the heavens.
+
+> For one who desires a continuous flow\
+> of exceptional delights---\
+> long life, beauty, fame and reputation,\
+> heaven, and birth in an eminent family---
+>
+> the astute praise diligence\
+> in making merit.\
+> Being diligent, an astute person\
+> secures both benefits:
+>
+> the benefit in this life,\
+> and in lives to come.\
+> An attentive one, comprehending the meaning,\
+> is called 'astute'."
+
+### N 5.44 Agreeable  *Manāpadāyīsutta* {#n-5.44-agreeable-manāpadāyīsutta .unnumbered}
+
+At one time the Buddha was staying near [Vesālī]{lang="sa"}, at the
+Great Wood, in the hall with the peaked roof. Then the Buddha robed up
+in the morning and, taking his bowl and robe, went to the home of the
+householder Ugga of [Vesālī]{lang="sa"}, where he sat on the seat spread
+out.
+
+Then Ugga went up to the Buddha, bowed, sat down to one side, and said
+to him, "Sir, I have heard and learned this in the presence of the
+Buddha: 'The giver of the agreeable gets the agreeable.' My sal flower
+porridge is agreeable: may the Buddha please accept it from me out of
+sympathy." So the Buddha accepted it out of sympathy.
+
+"Sir, I have heard and learned this in the presence of the Buddha: 'The
+giver of the agreeable gets the agreeable.' My pork with jujube is
+agreeable: may the Buddha please accept it from me out of sympathy." So
+the Buddha accepted it out of sympathy.
+
+"... My fried vegetable stalks are agreeable: may the Buddha please
+accept them from me out of sympathy." So the Buddha accepted them out of
+sympathy.
+
+"... My boiled fine rice with the dark grains picked out, served with
+many soups and sauces is agreeable: may the Buddha please accept it from
+me out of sympathy." So the Buddha accepted it out of sympathy.
+
+"... My cloths imported from [Kāsi]{lang="sa"} are agreeable: may the
+Buddha please accept them from me out of sympathy." So the Buddha
+accepted them out of sympathy.
+
+"... My couch spread with woolen covers---shag-piled or embroidered with
+flowers---and spread with a fine deer hide, with a canopy above and red
+pillows at both ends is agreeable. But, sir, I know that this is not
+proper for the Buddha. However, this plank of sandalwood is worth over a
+thousand dollars. May the Buddha please accept it from me out of
+sympathy." So the Buddha accepted it out of sympathy.
+
+And then the Buddha rejoiced with Ugga with these verses of
+appreciation:
+
+> "The giver of the agreeable gets the agreeable,\
+> enthusiastically giving clothing, bedding,\
+> food and drink, and various requisites\
+> to those of sincere conduct.
+>
+> Knowing the perfected ones to be like a field\
+> for what's given, offered and not held back,\
+> a true person gives what's hard to give:\
+> the giver of the agreeable gets the agreeable."
+
+And then the Buddha, having rejoiced with Ugga with these verses of
+appreciation, got up from his seat and left.
+
+Then after some time Ugga passed away, and was reborn in a host of
+mind-made gods. At that time the Buddha was staying near
+[Sāvatthī]{lang="sa"} in Jeta's Grove, [Anāthapiṇḍika]{lang="sa"}'s
+monastery.
+
+Then, late at night, the glorious god Ugga, lighting up the entire
+Jeta's Grove, went up to the Buddha, bowed, and stood to one side. The
+Buddha said to him, "Ugga, I trust it is all you wished?"
+
+"Sir, it is indeed just as I wished." Then the Buddha addressed Ugga in
+verse:
+
+> "The giver of the agreeable gets the agreeable,\
+> the giver of the foremost gets the foremost,\
+> the giver of the excellent gets the excellent,\
+> the giver of the best gets the best.
+>
+> A person who gives the foremost,\
+> the excellent, the best:\
+> they're long-lived and famous\
+> wherever they're reborn."
+
+### N 5.45 Overflowing Merit  *Puññābhisandasutta* {#n-5.45-overflowing-merit-puññābhisandasutta .unnumbered}
+
+"Mendicants, there are these five kinds of overflowing merit,
+overflowing goodness. They nurture happiness and are conducive to
+heaven, ripening in happiness and leading to heaven. They lead to what
+is likable, desirable, agreeable, to welfare and happiness.
+
+What five? When a mendicant enters and remains in a limitless immersion
+of heart while using a robe ... almsfood ... lodging ... bed and chair
+... medicines and supplies for the sick, the overflowing of merit for
+the donor is limitless ...
+
+These are the five kinds of overflowing merit, overflowing goodness.
+They nurture happiness, and are conducive to heaven, ripening in
+happiness, and leading to heaven. They lead to what is likable,
+desirable, agreeable, to welfare and happiness.
+
+When a noble disciple has these five kinds of overflowing merit and
+goodness, it's not easy to grasp how much merit they have by saying that
+this is the extent of their overflowing merit ... that leads to
+happiness. It's simply reckoned as an incalculable, immeasurable, great
+mass of merit.
+
+It's like trying to grasp how much water is in the ocean. It's not easy
+to say: 'This is how many gallons, how many hundreds, thousands,
+hundreds of thousands of gallons there are.' It's simply reckoned as an
+incalculable, immeasurable, great mass of water.
+
+In the same way, when a noble disciple has these five kinds of
+overflowing merit and goodness, it's not easy to grasp how much merit
+they have: 'This is how much this overflowing merit ... leads to
+happiness.' It's simply reckoned as an incalculable, immeasurable, great
+mass of merit.
+
+> Hosts of people use the rivers,\
+> and though the rivers are many,\
+> all reach the great deep, the boundless ocean,\
+> the cruel sea that's home to precious gems.
+>
+> So too, when a person gives food, drink, and clothes;\
+> and they're a giver of beds, seats, and mats---\
+> the streams of merit reach that astute person,\
+> as the rivers bring their waters to the sea."
+
+### N 5.46 Success  *Sampadāsutta* {#n-5.46-success-sampadāsutta .unnumbered}
+
+"Mendicants, there are five accomplishments. What five? Accomplishment
+in faith, ethics, learning, generosity, and wisdom. These are the five
+accomplishments."
+
+### N 5.47 Wealth  *Dhanasutta* {#n-5.47-wealth-dhanasutta .unnumbered}
+
+"Mendicants, there are these five kinds of wealth. What five? The wealth
+of faith, ethics, learning, generosity, and wisdom.
+
+And what is the wealth of faith? It's when a noble disciple has faith in
+the Realized One's awakening: 'That Blessed One is perfected, a fully
+awakened Buddha, accomplished in knowledge and conduct, holy, knower of
+the world, supreme guide for those who wish to train, teacher of gods
+and humans, awakened, blessed.' This is called the wealth of faith.
+
+And what is the wealth of ethics? It's when a noble disciple doesn't
+kill living creatures, steal, commit sexual misconduct, lie, or consume
+beer, wine, and liquor intoxicants. This is called the wealth of ethics.
+
+And what is the wealth of learning? It's when a noble disciple is very
+learned, remembering and keeping what they've learned. These teachings
+are good in the beginning, good in the middle, and good in the end,
+meaningful and well-phrased, describing a spiritual practice that's
+totally full and pure. They are very learned in such teachings,
+remembering them, reciting them, mentally scrutinizing them, and
+comprehending them theoretically. This is called the wealth of learning.
+
+And what is the wealth of generosity? It's when a noble disciple lives
+at home rid of the stain of stinginess, freely generous, open-handed,
+loving to let go, committed to charity, loving to give and to share.
+This is called the wealth of generosity.
+
+And what is the wealth of wisdom? It's when a noble disciple is wise.
+They have the wisdom of arising and passing away which is noble,
+penetrative, and leads to the complete ending of suffering. This is
+called the wealth of wisdom.
+
+These are the five kinds of wealth.
+
+> Whoever has faith in the Realized One,\
+> unwavering and well grounded;\
+> whose ethical conduct is good,\
+> praised and loved by the noble ones;
+>
+> who has confidence in the [Saṅgha]{lang="sa"},\
+> and correct view:\
+> they're said to be prosperous,\
+> their life is not in vain.
+>
+> So let the wise devote themselves\
+> to faith, ethical behavior,\
+> confidence, and insight into the teaching,\
+> remembering the instructions of the Buddhas."
+
+### N 5.48 Things That Cannot Be Had  *Alabbhanīyaṭhānasutta* {#n-5.48-things-that-cannot-be-had-alabbhanīyaṭhānasutta .unnumbered}
+
+"Mendicants, there are five things that cannot be had by any ascetic or
+brahmin or god or [Māra]{lang="sa"} or divinity or by anyone in the
+world. What five? That someone liable to old age should not grow old.
+That someone liable to sickness should not get sick. ... That someone
+liable to death should not die. ... That someone liable to ending should
+not end. ... That someone liable to perishing should not perish. ...
+
+An unlearned ordinary person has someone liable to old age who grows
+old. But they don't reflect on old age: 'It's not just me who has
+someone liable to old age who grows old. For as long as sentient beings
+come and go, pass away and are reborn, they all have someone liable to
+old age who grows old. If I were to sorrow and wail and lament, beating
+my breast and falling into confusion, just because someone liable to old
+age grows old, I'd lose my appetite and my physical appearance would
+deteriorate. My work wouldn't get done, my enemies would be encouraged,
+and my friends would be dispirited.' And so, when someone liable to old
+age grows old, they sorrow and wail and lament, beating their breast and
+falling into confusion. This is called an unlearned ordinary person
+struck by sorrow's poisoned arrow, who only mortifies themselves.
+
+Furthermore, an unlearned ordinary person has someone liable to sickness
+... death ... ending ... perishing. But they don't reflect on perishing:
+'It's not just me who has someone liable to perishing who perishes. For
+as long as sentient beings come and go, pass away and are reborn, they
+all have someone liable to perishing who perishes. If I were to sorrow
+and wail and lament, beating my breast and falling into confusion, just
+because someone liable to perishing perishes, I'd lose my appetite and
+my physical appearance would deteriorate. My work wouldn't get done, my
+enemies would be encouraged, and my friends would be dispirited.' And
+so, when someone liable to perishing perishes, they sorrow and wail and
+lament, beating their breast and falling into confusion. This is called
+an unlearned ordinary person struck by sorrow's poisoned arrow, who only
+mortifies themselves.
+
+A learned noble disciple has someone liable to old age who grows old. So
+they reflect on old age: 'It's not just me who has someone liable to old
+age who grows old. For as long as sentient beings come and go, pass away
+and are reborn, they all have someone liable to old age who grows old.
+If I were to sorrow and wail and lament, beating my breast and falling
+into confusion, just because someone liable to old age grows old, I'd
+lose my appetite and my physical appearance would deteriorate. My work
+wouldn't get done, my enemies would be encouraged, and my friends would
+be dispirited.' And so, when someone liable to old age grows old, they
+don't sorrow and wail and lament, beating their breast and falling into
+confusion. This is called a learned noble disciple who has drawn out
+sorrow's poisoned arrow, struck by which unlearned ordinary people only
+mortify themselves. Sorrowless, free of thorns, that noble disciple only
+extinguishes themselves.
+
+Furthermore, a learned noble disciple has someone liable to sickness ...
+death ... ending ... perishing. So they reflect on perishing: 'It's not
+just me who has someone liable to perishing who perishes. For as long as
+sentient beings come and go, pass away and are reborn, they all have
+someone liable to perishing who perishes. If I were to sorrow and wail
+and lament, beating my breast and falling into confusion, just because
+someone liable to perishing perishes, I'd lose my appetite and my
+physical appearance would deteriorate. My work wouldn't get done, my
+enemies would be encouraged, and my friends would be dispirited.' And
+so, when someone liable to perishing perishes, they don't sorrow and
+wail and lament, beating their breast and falling into confusion. This
+is called a learned noble disciple who has drawn out sorrow's poisoned
+arrow, struck by which unlearned ordinary people only mortify
+themselves. Sorrowless, free of thorns, that noble disciple only
+extinguishes themselves.
+
+These are the five things that cannot be had by any ascetic or brahmin
+or god or [Māra]{lang="sa"} or divinity or by anyone in the world.
+
+> Sorrowing and lamenting\
+> doesn't do even a little bit of good.\
+> When they know that you're sad,\
+> your enemies are encouraged.
+>
+> When an astute person doesn't waver\
+> \>in the face of adversity,\
+> as they're able to evaluate what's beneficial,\
+> their enemies suffer,\
+> seeing that their normal expression doesn't change.
+>
+> Chants, recitations, fine sayings,\
+> charity or traditions:\
+> if by means of any such things you benefit,\
+> then by all means keep doing them.
+>
+> But if you understand that 'this good thing\
+> can't be had by me or by anyone else',\
+> you should accept it without sorrowing, thinking:\
+> 'The deed is powerful. What can I do now?'"
+
+### N 5.49 The King of Kosala  *Kosalasutta* {#n-5.49-the-king-of-kosala-kosalasutta .unnumbered}
+
+At one time the Buddha was staying near [Sāvatthī]{lang="sa"} in Jeta's
+Grove, [Anāthapiṇḍika]{lang="sa"}'s monastery. Then King Pasenadi of
+Kosala went up to the Buddha, bowed, and sat down to one side.
+
+Then a man went up to the king and whispered in his ear, "Your Majesty,
+Queen [Mallikā]{lang="sa"} has passed away."
+
+When this was said, King Pasenadi was miserable and sad. He sat with his
+shoulders drooping, downcast, depressed, with nothing to say.
+
+Knowing this, the Buddha said to him, "Great king, there are five things
+that cannot be had by any ascetic or brahmin or god or [Māra]{lang="sa"}
+or divinity or by anyone in the world. What five? That someone liable to
+old age should not grow old. ... Sorrowing and lamenting doesn't do even
+a little bit of good ... 'The deed is powerful. What can I do now?'"
+
+### N 5.50 With Nārada  *Nāradasutta* {#n-5.50-with-nārada-nāradasutta .unnumbered}
+
+At one time Venerable [Nārada]{lang="sa"} was staying near
+[Pāṭaliputta]{lang="sa"}, in the Chicken Monastery.
+
+Now at that time King [Muṇḍa]{lang="sa"}'s dear and beloved Queen
+[Bhaddā]{lang="sa"} had just passed away. And since that time, the king
+did not bathe, anoint himself, eat his meals, or apply himself to his
+work. Day and night he brooded over Queen [Bhaddā]{lang="sa"}'s corpse.
+
+Then King [Muṇḍa]{lang="sa"} addressed Piyaka, the keeper of the
+treasury,
+
+"So, my good Piyaka, please place Queen [Bhaddā]{lang="sa"}'s corpse in
+an iron case filled with oil. Then close it up with another case, so
+that we can view Queen [Bhaddā]{lang="sa"}'s body even longer."
+
+"Yes, Your Majesty," replied Piyaka, and he did as the king instructed.
+
+Then it occurred to Piyaka, "King [Muṇḍa]{lang="sa"}'s dear and beloved
+Queen [Bhaddā]{lang="sa"} has passed away. Since then the king does not
+bathe, anoint himself, eat his meals, or apply himself to his work. Day
+and night he broods over Queen [Bhaddā]{lang="sa"}'s corpse. Now, what
+ascetic or brahmin might the king pay homage to, whose teaching could
+help the king give up sorrow's arrow?"
+
+Then it occurred to Piyaka, "This Venerable [Nārada]{lang="sa"} is
+staying in the Chicken Monastery at [Pāṭaliputta]{lang="sa"}. He has
+this good reputation: 'He is astute, competent, intelligent, learned, a
+brilliant speaker, eloquent, mature, a perfected one.' What if King
+[Muṇḍa]{lang="sa"} was to pay homage to Venerable [Nārada]{lang="sa"}?
+Hopefully when he hears [Nārada]{lang="sa"}'s teaching, the king could
+give up sorrow's arrow."
+
+Then Piyaka went to the king and said to him, "Sire, this Venerable
+[Nārada]{lang="sa"} is staying in the Chicken Monastery at
+[Pāṭaliputta]{lang="sa"}. He has this good reputation: 'He is astute,
+competent, intelligent, learned, a brilliant speaker, eloquent, mature,
+a perfected one.' What if Your Majesty was to pay homage to Venerable
+[Nārada]{lang="sa"}? Hopefully when you hear [Nārada]{lang="sa"}'s
+teaching, you could give up sorrow's arrow."
+
+"Well then, my good Piyaka, let [Nārada]{lang="sa"} know. For how could
+one such as I presume to visit an ascetic or brahmin in my realm without
+first letting them know?"
+
+"Yes, Your Majesty," replied Piyaka. He went to [Nārada]{lang="sa"},
+bowed, sat down to one side, and said to him, "Sir, King
+[Muṇḍa]{lang="sa"}'s dear and beloved Queen [Bhaddā]{lang="sa"} has
+passed away. And since she passed away, the king has not bathed,
+anointed himself, eaten his meals, or got his business done. Day and
+night he broods over Queen [Bhaddā]{lang="sa"}'s corpse. Sir, please
+teach the king so that, when he hears your teaching, he can give up
+sorrow's arrow."
+
+"Please, Piyaka, let the king come when he likes."
+
+Then Piyaka got up from his seat, bowed, and respectfully circled
+Venerable [Nārada]{lang="sa"}, keeping him on his right, before going to
+the king and saying, "Sire, the request for an audience with Venerable
+[Nārada]{lang="sa"} has been granted. Please, Your Majesty, go at your
+convenience."
+
+"Well then, my good Piyaka, harness the finest chariots."
+
+"Yes, Your Majesty," replied Piyaka. He did so, then told the king:
+
+"Sire, the finest chariots are harnessed. Please, Your Majesty, go at
+your convenience."
+
+Then King [Muṇḍa]{lang="sa"} mounted a fine carriage and, along with
+other fine carriages, set out in full royal pomp to see Venerable
+[Nārada]{lang="sa"} at the Chicken Monastery. He went by carriage as far
+as the terrain allowed, then descended and entered the monastery on
+foot. Then the king went up to [Nārada]{lang="sa"}, bowed, and sat down
+to one side. Then [Nārada]{lang="sa"} said to him:
+
+"Great king, there are five things that cannot be had by any ascetic or
+brahmin or god or [Māra]{lang="sa"} or divinity or by anyone in the
+world. What five? That someone liable to old age should not grow old.
+... That someone liable to sickness should not get sick. ... That
+someone liable to death should not die. ... That someone liable to
+ending should not end. ... That someone liable to perishing should not
+perish. ...
+
+An unlearned ordinary person has someone liable to old age who grows
+old. But they don't reflect on old age: 'It's not just me who has
+someone liable to old age who grows old. For all sentient beings have
+someone liable to old age who grows old, as long as sentient beings come
+and go, pass away and are reborn. If I were to sorrow and wail and
+lament, beating my breast and falling into confusion, just because
+someone liable to old age grows old, I'd lose my appetite and my
+physical appearance would deteriorate. My work wouldn't get done, my
+enemies would be encouraged, and my friends would be dispirited.' And
+so, when someone liable to old age grows old, they sorrow and wail and
+lament, beating their breast and falling into confusion. This is called
+an unlearned ordinary person struck by sorrow's poisoned arrow, who only
+mortifies themselves.
+
+Furthermore, an unlearned ordinary person has someone liable to sickness
+... death ... ending ... perishing. But they don't reflect on perishing:
+'It's not just me who has someone liable to perishing who perishes. For
+all sentient beings have someone liable to perishing who perishes, as
+long as sentient beings come and go, pass away and are reborn. If I were
+to sorrow and wail and lament, beating my breast and falling into
+confusion, just because someone liable to perishing perishes, I'd lose
+my appetite and my physical appearance would deteriorate. My work
+wouldn't get done, my enemies would be encouraged, and my friends would
+be dispirited.' And so, when someone liable to perishing perishes, they
+sorrow and wail and lament, beating their breast and falling into
+confusion. This is called an unlearned ordinary person struck by
+sorrow's poisoned arrow, who only mortifies themselves.
+
+A learned noble disciple has someone liable to old age who grows old. So
+they reflect on old age: 'It's not just me who has someone liable to old
+age who grows old. For all sentient beings have someone liable to old
+age who grows old, as long as sentient beings come and go, pass away and
+are reborn. If I were to sorrow and wail and lament, beating my breast
+and falling into confusion, just because someone liable to old age grows
+old, I'd lose my appetite and my physical appearance would deteriorate.
+My work wouldn't get done, my enemies would be encouraged, and my
+friends would be dispirited.' And so, when someone liable to old age
+grows old, they don't sorrow and wail and lament, beating their breast
+and falling into confusion. This is called a learned noble disciple who
+has drawn out sorrow's poisoned arrow, struck by which unlearned
+ordinary people only mortify themselves. Sorrowless, free of thorns,
+that noble disciple only extinguishes themselves.
+
+Furthermore, a learned noble disciple has someone liable to sickness ...
+death ... ending ... perishing. So they reflect on perishing: 'It's not
+just me who has someone liable to perishing who perishes. For all
+sentient beings have someone liable to perishing who perishes, as long
+as sentient beings come and go, pass away and are reborn. If I were to
+sorrow and wail and lament, beating my breast and falling into
+confusion, just because someone liable to perishing perishes, I'd lose
+my appetite and my physical appearance would deteriorate. My work
+wouldn't get done, my enemies would be encouraged, and my friends would
+be dispirited.' And so, when someone liable to perishing perishes, they
+don't sorrow and wail and lament, beating their breast and falling into
+confusion. This is called a learned noble disciple who has drawn out
+sorrow's poisoned arrow, struck by which unlearned ordinary people only
+mortify themselves. Sorrowless, free of thorns, that noble disciple only
+extinguishes themselves.
+
+These are the five things that cannot be had by any ascetic or brahmin
+or god or [Māra]{lang="sa"} or divinity or by anyone in the world.
+
+> Sorrowing and lamenting\
+> doesn't do even a little bit of good.\
+> When they know that you're sad,\
+> your enemies are encouraged.
+>
+> When an astute person doesn't waver\
+> \>in the face of adversity,\
+> as they're able to evaluate what's beneficial,\
+> their enemies suffer,\
+> seeing that their normal expression doesn't change.
+>
+> Chants, recitations, fine sayings,\
+> charity or traditions:\
+> if by means of any such things you benefit,\
+> then by all means keep doing them.
+>
+> But if you understand that 'this good thing\
+> can't be had by me or by anyone else',\
+> you should accept it without sorrowing, thinking:\
+> 'The deed is powerful. What can I do now?'"
+
+When he said this, King [Muṇḍa]{lang="sa"} said to Venerable
+[Nārada]{lang="sa"}, "Sir, what is the name of this exposition of the
+teaching?"
+
+"Great king, this exposition of the teaching is called 'Pulling Out
+Sorrow's Arrow'."
+
+"Indeed, sir, this is the pulling out of sorrow's arrow! Hearing this
+exposition of the teaching, I've given up sorrow's arrow."
+
+Then King [Muṇḍa]{lang="sa"} addressed Piyaka, the keeper of the
+treasury, "Well then, my good Piyaka, cremate Queen
+[Bhaddā]{lang="sa"}'s corpse and build a monument. From this day forth,
+I will bathe, anoint myself, eat my meals, and apply myself to my work."
+
+::: center
+*[the second fifty]{.smallcaps}*
+:::
+
+## The Chapter on Hindrances  {#the-chapter-on-hindrances .unnumbered}
+
+### N 5.51 Obstacles  *Āvaraṇasutta* {#n-5.51-obstacles-āvaraṇasutta .unnumbered}
+
+[So I have heard.]{.smallcaps} At one time the Buddha was staying near
+[Sāvatthī]{lang="sa"} in Jeta's Grove, [Anāthapiṇḍika]{lang="sa"}'s
+monastery. There the Buddha addressed the mendicants, "Mendicants!"
+
+"Venerable sir," they replied. The Buddha said this:
+
+"Mendicants, there are these five obstacles and hindrances, parasites of
+the mind that weaken wisdom. What five? Sensual desire ... Ill will ...
+Dullness and drowsiness ... Restlessness and remorse ... Doubt ... These
+are the five obstacles and hindrances, parasites of the mind that weaken
+wisdom.
+
+Take a mendicant who has feeble and weak wisdom, not having given up
+these five obstacles and hindrances, parasites of the mind that weaken
+wisdom. It is quite impossible that they would know what's for their own
+good, the good of another, or the good of both; or that they would
+realize any superhuman distinction in knowledge and vision worthy of the
+noble ones.
+
+Suppose there was a mountain river that flowed swiftly, going far,
+carrying all before it. But then a man would open channels on both
+sides, so the mid-river current would be dispersed, displaced, and
+separated. The river would no longer flow swiftly, going far, carrying
+all before it.
+
+In the same way, take a mendicant who has feeble and weak wisdom, not
+having given up these five obstacles and hindrances, parasites of the
+mind that weaken wisdom. It is not possible that they would know what's
+for their own good, the good of another, or the good of both; or that
+they would realize any superhuman distinction in knowledge and vision
+worthy of the noble ones.
+
+Take a mendicant who has powerful wisdom, having given up these five
+obstacles and hindrances, parasites of the mind that weaken wisdom. It's
+quite possible that they would know what's for their own good, the good
+of another, or the good of both; or that they would realize any
+superhuman distinction in knowledge and vision worthy of the noble ones.
+
+Suppose there was a mountain river that flowed swiftly, going far,
+carrying all before it. But then a man would close up the channels on
+both sides, so the mid-river current would not be dispersed, displaced,
+and separated. The river would keep flowing swiftly for a long way,
+carrying all before it.
+
+In the same way, take a mendicant who has powerful wisdom, having given
+up these five obstacles and hindrances, parasites of the mind that
+weaken wisdom. It's quite possible that they would know what's for their
+own good, the good of another, or the good of both; or that they would
+realize any superhuman distinction in knowledge and vision worthy of the
+noble ones."
+
+### N 5.52 A Heap of the Unskillful  *Akusalarāsisutta* {#n-5.52-a-heap-of-the-unskillful-akusalarāsisutta .unnumbered}
+
+"Mendicants, rightly speaking, you'd call the five hindrances a 'heap of
+the unskillful'. For these five hindrances are entirely a heap of the
+unskillful. What five? The hindrances of sensual desire, ill will,
+dullness and drowsiness, restlessness and remorse, and doubt. Rightly
+speaking, you'd call these five hindrances a 'heap of the unskillful'.
+For these five hindrances are entirely a heap of the unskillful."
+
+### N 5.53 Factors That Support Meditation  *Padhāniyaṅgasutta* {#n-5.53-factors-that-support-meditation-padhāniyaṅgasutta .unnumbered}
+
+"Mendicants, there are these five factors that support meditation. What
+five?
+
+It's when a mendicant has faith in the Realized One's awakening: 'That
+Blessed One is perfected, a fully awakened Buddha, accomplished in
+knowledge and conduct, holy, knower of the world, supreme guide for
+those who wish to train, teacher of gods and humans, awakened, blessed.'
+
+They are rarely ill or unwell. Their stomach digests well, being neither
+too hot nor too cold, but just right, and fit for meditation.
+
+They're not devious or deceitful. They reveal themselves honestly to the
+Teacher or sensible spiritual companions.
+
+They live with energy roused up for giving up unskillful qualities and
+embracing skillful qualities. They're strong, staunchly vigorous, not
+slacking off when it comes to developing skillful qualities.
+
+They're wise. They have the wisdom of arising and passing away which is
+noble, penetrative, and leads to the complete ending of suffering.
+
+These are the five factors that support meditation."
+
+### N 5.54 Times Good for Meditation  *Samayasutta* {#n-5.54-times-good-for-meditation-samayasutta .unnumbered}
+
+"Mendicants, there are five times that are not good for meditation. What
+five?
+
+Firstly, a mendicant is old, overcome with old age. This is the first
+time that's not good for meditation.
+
+Furthermore, a mendicant is sick, overcome by sickness. This is the
+second time that's not good for meditation.
+
+Furthermore, there's a famine, a bad harvest, so it's hard to get
+almsfood, and not easy to keep going by collecting alms. This is the
+third time that's not good for meditation.
+
+Furthermore, there's peril due to turmoil in the wilds, so the
+countryfolk mount their vehicles and flee everywhere. This is the fourth
+time that's not good for meditation.
+
+Furthermore, there's a schism in the [Saṅgha]{lang="sa"}. When the
+[Saṅgha]{lang="sa"} is split, they abuse, insult, block, and forsake
+each other. This doesn't inspire confidence in those without it, and it
+causes some with confidence to change their minds. This is the fifth
+time that's not good for meditation.
+
+These are the five times that are not good for meditation.
+
+There are five times that are good for meditation. What five?
+
+Firstly, a mendicant is a youth, young, with pristine black hair,
+blessed with youth, in the prime of life. This is the first time that's
+good for meditation.
+
+Furthermore, they are rarely ill or unwell. Their stomach digests well,
+being neither too hot nor too cold, but just right, and fit for
+meditation. This is the second time that's good for meditation.
+
+Furthermore, there's plenty of food, a good harvest, so it's easy to get
+almsfood, and easy to keep going by collecting alms. This is the third
+time that's good for meditation.
+
+Furthermore, people live in harmony, appreciating each other, without
+quarreling, blending like milk and water, and regarding each other with
+kindly eyes. This is the fourth time that's good for meditation.
+
+Furthermore, the [Saṅgha]{lang="sa"} lives comfortably, in harmony,
+appreciating each other, without quarreling, with one recitation. When
+the [Saṅgha]{lang="sa"} is in harmony, they don't abuse, insult, block,
+or forsake each other. This inspires confidence in those without it, and
+increases confidence in those who have it. This is the fifth time that's
+good for meditation.
+
+These are the five times that are good for meditation."
+
+### N 5.55 Mother and Son  *Mātāputtasutta* {#n-5.55-mother-and-son-mātāputtasutta .unnumbered}
+
+At one time the Buddha was staying near [Sāvatthī]{lang="sa"} in Jeta's
+Grove, [Anāthapiṇḍika]{lang="sa"}'s monastery.
+
+Now, at that time a mother and son had both entered the rainy season
+residence at [Sāvatthī]{lang="sa"}, as a monk and a nun. They wanted to
+see each other often. The mother wanted to see her son often, and the
+son his mother. Seeing each other often, they became close. Being so
+close, they became intimate. And being intimate, lust overcame them.
+With their minds swamped by lust, without resigning the training and
+declaring their inability to continue, they had sex.
+
+Then several mendicants went up to the Buddha, bowed, sat down to one
+side, and told him what had happened.
+
+"Mendicants, how could that futile man imagine that a mother cannot lust
+for her son, or that a son cannot lust for his mother? Compared to the
+sight of a woman, I do not see a single sight that is so arousing,
+sensuous, intoxicating, captivating, and infatuating, and such an
+obstacle to reaching the supreme sanctuary from the yoke. Sentient
+beings are lustful, greedy, tied, infatuated, and attached to the sight
+of a woman. They sorrow for a long time under the sway of a woman's
+sight.
+
+Compared to the sound ... smell ... taste ... touch of a woman, I do not
+see a single touch that is so arousing, sensuous, intoxicating,
+captivating, and infatuating, and such an obstacle to reaching the
+supreme sanctuary from the yoke. Sentient beings are lustful, greedy,
+tied, infatuated, and attached to the touch of a woman. They sorrow for
+a long time under the sway of a woman's touch.
+
+When a woman walks, she occupies a man's mind. When a woman stands ...
+sits ... lies down ... laughs ... speaks ... sings ... cries ... is
+injured, she occupies a man's mind. Even when a woman is dead, she
+occupies a man's mind. For if anyone should be rightly called 'an
+all-round snare of [Māra]{lang="sa"}', it's females.
+
+> You might chat with someone who has knife in hand.\
+> You might even chat with a goblin.\
+> You might sit close by a viper,\
+> whose bite would take your life.\
+> But never should you chat\
+> one on one with a female.
+>
+> They captivate the unmindful\
+> with a glance and a smile.\
+> Or scantily clad,\
+> they speak charming words.\
+> It's not good to sit with such a person,\
+> even if she's injured or dead.
+>
+> These five kinds of sensual stimulation\
+> are apparent in a woman's body:\
+> sights, sounds, tastes, smells,\
+> and touches so delightful.
+>
+> Those swept away by the flood of sensual pleasures,\
+> not comprehending them,\
+> are governed by transmigration---\
+> time and destination, and life after life.
+>
+> But those who fully understand sensual pleasures\
+> live fearing nothing from any quarter.\
+> They are those in the world who've crossed over,\
+> having reached the ending of defilements."
+
+### N 5.56 Mentor  *Upajjhāyasutta* {#n-5.56-mentor-upajjhāyasutta .unnumbered}
+
+Then a mendicant went up to his own mentor, and said, "Now, sir, my body
+feels like it's drugged. I'm disorientated, the teachings don't spring
+to mind, and dullness and drowsiness fill my mind. I lead the spiritual
+life dissatisfied, and have doubts about the teachings."
+
+Then that mendicant took his protégé to the Buddha, bowed, sat down to
+one side, and said to him, "Sir, this mendicant says this: 'Now, sir, my
+body feels like it's drugged. I'm disorientated, the teachings don't
+spring to mind, and dullness and drowsiness fill my mind. I lead the
+spiritual life dissatisfied, and have doubts about the teachings.'"
+
+"That's how it is, mendicant, when your sense doors are unguarded, you
+eat too much, you're not dedicated to wakefulness, you're unable to
+discern skillful qualities, and you don't pursue the development of the
+qualities that lead to awakening in the evening and toward dawn. Your
+body feels like it's drugged. You're disorientated, the teachings don't
+spring to mind, and dullness and drowsiness fill your mind. You lead the
+spiritual life dissatisfied, and have doubts about the teachings.
+
+So you should train like this: 'I will guard my sense doors, eat in
+moderation, be dedicated to wakefulness, discern skillful qualities, and
+pursue the development of the qualities that lead to awakening in the
+evening and toward dawn.' That's how you should train."
+
+When that mendicant had been given this advice by the Buddha, he got up
+from his seat, bowed, and respectfully circled the Buddha, keeping him
+on his right, before leaving.
+
+Then that mendicant, living alone, withdrawn, diligent, keen, and
+resolute, soon realized the supreme culmination of the spiritual path in
+this very life. He lived having achieved with his own insight the goal
+for which gentlemen rightly go forth from the lay life to homelessness.
+
+He understood: "Rebirth is ended; the spiritual journey has been
+completed; what had to be done has been done; there is nothing further
+for this place." And that mendicant became one of the perfected.
+
+When that mendicant had attained perfection, he went up to his own
+mentor, and said, "Now, sir, my body doesn't feel like it's drugged. I'm
+not disorientated, the teachings spring to mind, and dullness and
+drowsiness don't fill my mind. I lead the spiritual life satisfied, and
+have no doubts about the teachings."
+
+Then that mendicant took his protégé to the Buddha, bowed, sat down to
+one side, and said to him, "Sir, this mendicant says this: 'Now, sir, my
+body doesn't feel like it's drugged. I'm not disorientated, the
+teachings spring to mind, and dullness and drowsiness don't fill my
+mind. I lead the spiritual life satisfied, and have no doubts about the
+teachings.'"
+
+"That's how it is, mendicant, when your sense doors are guarded, you're
+moderate in eating, you're dedicated to wakefulness, you're able to
+discern skillful qualities, and you pursue the development of the
+qualities that lead to awakening in the evening and toward dawn. Your
+body doesn't feel like it's drugged. You're not disorientated, the
+teachings spring to mind, and dullness and drowsiness don't fill your
+mind. You lead the spiritual life satisfied, and have no doubts about
+the teachings.
+
+So you should train like this: 'We will guard our sense doors, eat in
+moderation, be dedicated to wakefulness, discern skillful qualities, and
+pursue the development of the qualities that lead to awakening in the
+evening and toward dawn.' That's how you should train."
+
+### N 5.57 Subjects for Regular Reviewing  *Abhiṇhapaccavekkhitabbaṭhānasutta* {#n-5.57-subjects-for-regular-reviewing-abhiṇhapaccavekkhitabbaṭhānasutta .unnumbered}
+
+"Mendicants, a woman or a man, a layperson or a renunciate should often
+review these five subjects. What five?
+
+'I am liable to grow old, I am not exempt from old age.' A woman or a
+man, a layperson or a renunciate should often review this.
+
+'I am liable to get sick, I am not exempt from sickness.' ...
+
+'I am liable to die, I am not exempt from death.' ...
+
+'I must be parted and separated from all I hold dear and beloved.' ...
+
+'I am the owner of my deeds and heir to my deeds. Deeds are my womb, my
+relative, and my refuge.
+
+I shall be the heir of whatever deeds I do, whether good or bad.' A
+woman or a man, a layperson or a renunciate should often review this.
+
+What is the advantage for a woman or a man, a layperson or a renunciate
+of often reviewing this: 'I am liable to grow old, I am not exempt from
+old age'? There are sentient beings who, intoxicated with the vanity of
+youth, do bad things by way of body, speech, and mind. Reviewing this
+subject often, they entirely give up the vanity of youth, or at least
+reduce it. This is the advantage for a woman or a man, a layperson or a
+renunciate of often reviewing this: 'I am liable to grow old, I am not
+exempt from old age'.
+
+What is the advantage of often reviewing this: 'I am liable to get sick,
+I am not exempt from sickness'? There are sentient beings who, drunk on
+the vanity of health, do bad things by way of body, speech, and mind.
+Reviewing this subject often, they entirely give up the vanity of
+health, or at least reduce it. This is the advantage of often reviewing
+this: 'I am liable to get sick, I am not exempt from sickness'.
+
+What is the advantage of often reviewing this: 'I am liable to die, I am
+not exempt from death'? There are sentient beings who, drunk on the
+vanity of life, do bad things by way of body, speech, and mind.
+Reviewing this subject often, they entirely give up the vanity of life,
+or at least reduce it. This is the advantage of often reviewing this: 'I
+am liable to die, I am not exempt from death'.
+
+What is the advantage of often reviewing this: 'I must be parted and
+separated from all I hold dear and beloved'? There are sentient beings
+who, aroused by desire and lust for their dear and beloved, do bad
+things by way of body, speech, and mind. Reviewing this subject often,
+they entirely give up desire and lust for their dear and beloved, or at
+least reduce it. This is the advantage of often reviewing this: 'I must
+be parted and separated from all I hold dear and beloved'.
+
+What is the advantage of often reviewing like this: 'I am the owner of
+my deeds and heir to my deeds. Deeds are my womb, my relative, and my
+refuge. I shall be the heir of whatever deeds I do, whether good or
+bad'? There are sentient beings who do bad things by way of body,
+speech, and mind. Reviewing this subject often, they entirely give up
+bad conduct, or at least reduce it. This is the advantage for a woman or
+a man, a layperson or a renunciate of often reviewing like this: 'I am
+the owner of my deeds and heir to my deeds. Deeds are my womb, my
+relative, and my refuge. I shall be the heir of whatever deeds I do,
+whether good or bad.'
+
+Then that noble disciple reflects: 'It's not just me who is liable to
+grow old, not being exempt from old age. For all sentient beings grow
+old according to their nature, as long as they come and go, pass away
+and are reborn.' When they review this subject often, the path is born
+in them. They cultivate, develop, and make much of it. By doing so, they
+give up the fetters and eliminate the underlying tendencies.
+
+'It's not just me who is liable to get sick, not being exempt from
+sickness. For all sentient beings get sick according to their nature, as
+long as they come and go, pass away and are reborn.' When they review
+this subject often, the path is born in them. They cultivate, develop,
+and make much of it. By doing so, they give up the fetters and eliminate
+the underlying tendencies.
+
+'It's not just me who is liable to die, not being exempt from death. For
+all sentient beings die according to their nature, as long as they come
+and go, pass away and are reborn.' When they review this subject often,
+the path is born in them. They cultivate, develop, and make much of it.
+By doing so, they give up the fetters and eliminate the underlying
+tendencies.
+
+'It's not just me who must be parted and separated from all I hold dear
+and beloved. For all sentient beings must be parted and separated from
+all they hold dear and beloved, as long as they come and go, pass away
+and are reborn.' When they review this subject often, the path is born
+in them. They cultivate, develop, and make much of it. By doing so, they
+give up the fetters and eliminate the underlying tendencies.
+
+'It's not just me who shall be the owner of my deeds and heir to my
+deeds. For all sentient beings shall be the owners of their deeds and
+heirs to their deeds, as long as they come and go, pass away and are
+reborn.' When they review this subject often, the path is born in them.
+They cultivate, develop, and make much of it. By doing so, they give up
+the fetters and eliminate the underlying tendencies.
+
+> For others, sickness is natural,\
+> and so are old age and death.\
+> Though this is how their nature is,\
+> ordinary people feel disgusted.
+>
+> If I were to be disgusted\
+> with creatures whose nature is such,\
+> it would not be appropriate for me,\
+> since my life is just the same.
+>
+> Living in such a way,\
+> I understood the truth without attachments.\
+> I mastered all vanities---\
+> of health, of youth,
+>
+> and even of life---\
+> seeing renunciation as sanctuary.\
+> Zeal sprang up in me\
+> as I looked to extinguishment.
+>
+> Now I'm unable\
+> to indulge in sensual pleasures;\
+> there's no turning back,\
+> I'm committed to the spiritual life."
+
+### N 5.58 The Licchavi Youths  *Licchavikumārakasutta* {#n-5.58-the-licchavi-youths-licchavikumārakasutta .unnumbered}
+
+At one time the Buddha was staying near [Vesālī]{lang="sa"}, at the
+Great Wood, in the hall with the peaked roof.
+
+Then the Buddha robed up in the morning and, taking his bowl and robe,
+entered [Vesālī]{lang="sa"} for alms. Then after the meal, on his return
+from almsround, he plunged deep into the Great Wood and sat at the root
+of a tree for the day's meditation.
+
+Now at that time several Licchavi youths took strung bows and, escorted
+by a pack of hounds, were going for a walk in the Great Wood when they
+saw the Buddha seated at the root of a tree. When they saw him, they put
+down their strung bows, tied their hounds up to one side, and went up to
+him. They bowed and silently paid homage to the Buddha with joined
+palms.
+
+Now at that time [Mahānāma]{lang="sa"} the Licchavi was going for a walk
+in the Great Wood when he saw those Licchavi youths silently paying
+homage to the Buddha with joined palms. Seeing this, he went up to the
+Buddha, bowed, sat down to one side, and expressed this heartfelt
+sentiment, "They will become Vajjis! They will become Vajjis!"
+
+"But [Mahānāma]{lang="sa"}, why do you say that they will become
+Vajjis?"
+
+"Sir, these Licchavi youths are violent, harsh, and brash. Whenever
+sweets are left out for families---sugar-cane, jujube fruits, pancakes,
+pies, or fritters---they filch them and eat them up. And they hit women
+and girls of good families on their backs. But now they're silently
+paying homage to the Buddha with joined palms."
+
+"[Mahānāma]{lang="sa"}, you can expect only growth, not decline, when
+you find five qualities in any gentleman---whether he's an anointed
+aristocratic king, an appointed or hereditary official, an army general,
+a village chief, a guild chief, or a ruler of his own clan.
+
+What five?
+
+Firstly, a gentleman uses his legitimate wealth---earned by his efforts
+and initiative, built up with his own hands, gathered by the sweat of
+the brow---to honor, respect, esteem, and venerate his mother and
+father. Honored in this way, his mother and father love him with a good
+heart, wishing: 'Live long! Stay alive for a long time!' When a
+gentleman is loved by his mother and father, you can expect only growth,
+not decline.
+
+Furthermore, a gentleman uses his legitimate wealth to honor, respect,
+esteem, and venerate his wives and children, bondservants, workers, and
+staff. Honored in this way, his wives and children, bondservants,
+workers, and staff love him with a good heart, wishing: 'Live long! Stay
+alive for a long time!' When a gentleman is loved by his wives and
+children, bondservants, workers, and staff, you can expect only growth,
+not decline.
+
+Furthermore, a gentleman uses his legitimate wealth to honor, respect,
+esteem, and venerate those who work the neighboring fields, and those he
+does business with. Honored in this way, those who work the neighboring
+fields, and those he does business with love him with a good heart,
+wishing: 'Live long! Stay alive for a long time!' When a gentleman is
+loved by those who work the neighboring fields, and those he does
+business with, you can expect only growth, not decline.
+
+Furthermore, a gentleman uses his legitimate wealth to honor, respect,
+esteem, and venerate the deities who receive spirit-offerings. Honored
+in this way, the deities who receive spirit-offerings love him with a
+good heart, wishing: 'Live long! Stay alive for a long time!' When a
+gentleman is loved by the deities, you can expect only growth, not
+decline.
+
+Furthermore, a gentleman uses his legitimate wealth to honor, respect,
+esteem, and venerate ascetics and brahmins. Honored in this way,
+ascetics and brahmins love him with a good heart, wishing: 'Live long!
+Stay alive for a long time!' When a gentleman is loved by ascetics and
+brahmins, you can expect only growth, not decline.
+
+You can expect only growth, not decline, when you find these five
+qualities in any gentleman---whether he's an anointed aristocratic king,
+an appointed or hereditary official, an army general, a village chief, a
+guild chief, or a ruler of his own clan.
+
+> He's always dutiful to his mother and father,\
+> and for the good of his wives and children.\
+> He looks after those in his household,\
+> and those dependent on him for their livelihood.
+>
+> A kind and ethical person\
+> looks after the welfare of relatives---\
+> both those who have passed away,\
+> and those alive at present.
+>
+> While living at home, an astute person\
+> uses legitimate means to give rise to joy\
+> for ascetics, brahmins,\
+> and also the gods.
+>
+> Having done good,\
+> he's venerable and praiseworthy.\
+> They praise him in this life,\
+> and he departs to rejoice in heaven."
+
+### N 5.59 Gone Forth When Old (1st)  *Paṭhamavuḍḍhapabbajitasutta* {#n-5.59-gone-forth-when-old-1st-paṭhamavuḍḍhapabbajitasutta .unnumbered}
+
+"Mendicants, it's hard to find someone gone forth when old who has five
+qualities. What five? It's hard to find someone gone forth when old who
+is sophisticated, well-presented, and learned, who can teach Dhamma, and
+has memorized the monastic law. It's hard to find someone gone forth
+when old who has these five qualities."
+
+### N 5.60 Gone Forth When Old (2nd)  *Dutiyavuḍḍhapabbajitasutta* {#n-5.60-gone-forth-when-old-2nd-dutiyavuḍḍhapabbajitasutta .unnumbered}
+
+"Mendicants, it's hard to find someone gone forth when old who has five
+qualities. What five? It's hard to find someone gone forth when old who
+is easy to admonish, retains what they learn, and learns respectfully,
+who can teach the Dhamma, and has memorized the monastic law. It's hard
+to find someone gone forth when old who has these five qualities."
+
+## The Chapter on Perceptions  {#the-chapter-on-perceptions .unnumbered}
+
+### N 5.61 Perceptions (1st)  *Paṭhamasaññāsutta* {#n-5.61-perceptions-1st-paṭhamasaññāsutta .unnumbered}
+
+"Mendicants, these five perceptions, when developed and cultivated, are
+very fruitful and beneficial. They culminate in freedom from death and
+end in freedom from death. What five? The perceptions of ugliness,
+death, drawbacks, repulsiveness of food, and dissatisfaction with the
+whole world. These five perceptions, when developed and cultivated, are
+very fruitful and beneficial. They culminate in freedom from death and
+end in freedom from death."
+
+### N 5.62 Perceptions (2nd)  *Dutiyasaññāsutta* {#n-5.62-perceptions-2nd-dutiyasaññāsutta .unnumbered}
+
+"Mendicants, these five perceptions, when developed and cultivated, are
+very fruitful and beneficial. They culminate in freedom from death and
+end in freedom from death. What five? The perceptions of impermanence,
+not-self, death, repulsiveness of food, and dissatisfaction with the
+whole world. These five perceptions, when developed and cultivated, are
+very fruitful and beneficial. They culminate in freedom from death and
+end in freedom from death."
+
+### N 5.63 Growth (1st)  *Paṭhamavaḍḍhisutta* {#n-5.63-growth-1st-paṭhamavaḍḍhisutta .unnumbered}
+
+"Mendicants, a male noble disciple who grows in five ways grows nobly,
+taking on what is essential and excellent in this life. What five? He
+grows in faith, ethics, learning, generosity, and wisdom. A male noble
+disciple who grows in these five ways grows nobly, taking on what is
+essential and excellent in this life.
+
+> He who grows in faith and ethics,\
+> wisdom, and both generosity and learning---\
+> a good man such as he sees clearly,\
+> and takes on what is essential for himself in this life."
+
+### N 5.64 Growth (2nd)  *Dutiyavaḍḍhisutta* {#n-5.64-growth-2nd-dutiyavaḍḍhisutta .unnumbered}
+
+"Mendicants, a female noble disciple who grows in five ways grows nobly,
+taking on what is essential and excellent in this life. What five? She
+grows in faith, ethics, learning, generosity, and wisdom. A female noble
+disciple who grows in these five ways grows nobly, taking on what is
+essential and excellent in this life.
+
+> She who grows in faith and ethics,\
+> wisdom, and both generosity and learning---\
+> a virtuous laywoman such as she\
+> takes on what is essential for herself in this life."
+
+### N 5.65 Discussion  *Sākacchasutta* {#n-5.65-discussion-sākacchasutta .unnumbered}
+
+"Mendicants, a mendicant with five qualities is fit to hold a discussion
+with their spiritual companions. What five?
+
+A mendicant is personally accomplished in ethics, and answers questions
+that come up when discussing accomplishment in ethics.
+
+They're personally accomplished in immersion, and they answer questions
+that come up when discussing accomplishment in immersion.
+
+They're personally accomplished in wisdom, and they answer questions
+that come up when discussing accomplishment in wisdom.
+
+They're personally accomplished in freedom, and they answer questions
+that come up when discussing accomplishment in freedom.
+
+They're personally accomplished in the knowledge and vision of freedom,
+and they answer questions that come up when discussing accomplishment in
+the knowledge and vision of freedom.
+
+A mendicant with these five qualities is fit to hold a discussion with
+their spiritual companions."
+
+### N 5.66 Sharing Life  *Sājīvasutta* {#n-5.66-sharing-life-sājīvasutta .unnumbered}
+
+"Mendicants, a mendicant with five qualities is fit to share their life
+with their spiritual companions. What five?
+
+A mendicant is personally accomplished in ethics, and answers questions
+posed when discussing accomplishment in ethics.
+
+They're personally accomplished in immersion, and they answer questions
+posed when discussing accomplishment in immersion.
+
+They're personally accomplished in wisdom, and they answer questions
+posed when discussing accomplishment in wisdom.
+
+They're personally accomplished in freedom, and they answer questions
+posed when discussing accomplishment in freedom.
+
+They're personally accomplished in the knowledge and vision of freedom,
+and they answer questions posed when discussing accomplishment in the
+knowledge and vision of freedom.
+
+A mendicant with these five qualities is fit to share their life with
+their spiritual companions."
+
+### N 5.67 Bases of Psychic Power (1st)  *Paṭhamaiddhipādasutta* {#n-5.67-bases-of-psychic-power-1st-paṭhamaiddhipādasutta .unnumbered}
+
+"Mendicants, any monk or nun who develops and cultivates five qualities
+can expect one of two results: enlightenment in this very life, or if
+there's something left over, non-return.
+
+What five?
+
+A mendicant develops the basis of psychic power that has immersion due
+to enthusiasm, and active effort ...
+
+A mendicant develops the basis of psychic power that has immersion due
+to energy, and active effort ...
+
+A mendicant develops the basis of psychic power that has immersion due
+to mental development, and active effort ...
+
+A mendicant develops the basis of psychic power that has immersion due
+to inquiry, and active effort.
+
+And the fifth is sheer vigor.
+
+Any monk or nun who develops and cultivates these five qualities can
+expect one of two results: enlightenment in this very life, or if
+there's something left over, non-return."
+
+### N 5.68 Bases of Psychic Power (2nd)  *Dutiyaiddhipādasutta* {#n-5.68-bases-of-psychic-power-2nd-dutiyaiddhipādasutta .unnumbered}
+
+"Mendicants, before my awakening---when I was still not awake but intent
+on awakening---I developed and cultivated five things. What five?
+
+The basis of psychic power that has immersion due to enthusiasm, and
+active effort ... the basis of psychic power that has immersion due to
+energy, and active effort ... the basis of psychic power that has
+immersion due to mental development, and active effort ... the basis of
+psychic power that has immersion due to inquiry, and active effort. And
+the fifth is sheer vigor.
+
+When I had developed and cultivated these five things, with vigor as
+fifth, I extended the mind to realize by insight each and every thing
+that can be realized by insight; and I was capable of realizing those
+things, since each and every one was within range.
+
+If I wished: 'May I multiply myself and become one again ... controlling
+the body as far as the realm of divinity.' I was capable of realizing
+it, since each and every one is within range.
+
+If I wished: ... 'May I realize the undefiled freedom of heart and
+freedom by wisdom in this very life, and live having realized it with my
+own insight due to the ending of defilements.' I was capable of
+realizing it, since each and every one is within range."
+
+### N 5.69 Disillusionment  *Nibbidāsutta* {#n-5.69-disillusionment-nibbidāsutta .unnumbered}
+
+"Mendicants, these five things, when developed and cultivated, lead
+solely to disillusionment, dispassion, cessation, peace, insight,
+awakening, and extinguishment.
+
+What five? A mendicant meditates observing the ugliness of the body,
+perceives the repulsiveness of food, perceives dissatisfaction with the
+whole world, observes the impermanence of all conditions, and has well
+established the perception of their own death.
+
+These five things, when developed and cultivated, lead solely to
+disillusionment, dispassion, cessation, peace, insight, awakening, and
+extinguishment."
+
+### N 5.70 The Ending of Defilements  *Āsavakkhayasutta* {#n-5.70-the-ending-of-defilements-āsavakkhayasutta .unnumbered}
+
+"Mendicants, these five things, when developed and cultivated, lead to
+the ending of defilements. What five? A mendicant meditates observing
+the ugliness of the body, perceives the repulsiveness of food, perceives
+dissatisfaction with the whole world, observes the impermanence of all
+conditions, and has well established the perception of their own death.
+These five things, when developed and cultivated, lead to the ending of
+defilements."
+
+## The Chapter on a Warrior  {#the-chapter-on-a-warrior .unnumbered}
+
+### N 5.71 Freedom of Heart is the Fruit (1st)  *Paṭhamacetovimuttiphalasutta* {#n-5.71-freedom-of-heart-is-the-fruit-1st-paṭhamacetovimuttiphalasutta .unnumbered}
+
+"Mendicants, these five things, when developed and cultivated, have
+freedom of heart and freedom by wisdom as their fruit and benefit.
+
+What five? A mendicant meditates observing the ugliness of the body,
+perceives the repulsiveness of food, perceives dissatisfaction with the
+whole world, observes the impermanence of all conditions, and has well
+established the perception of their own death. These five things, when
+developed and cultivated, have freedom of heart and freedom by wisdom as
+their fruit and benefit. When a mendicant has freedom of heart and
+freedom by wisdom, such a mendicant is one who is called 'one who has
+lifted the cross-bar', 'one who has filled in the moat', 'one who has
+pulled up the pillar', 'one who is unimpeded', and also 'a noble one
+with banner lowered and burden dropped, detached'.
+
+And how has a mendicant lifted the cross-bar? It's when a mendicant has
+given up ignorance, cut it off at the root, made it like a palm stump,
+obliterated it, so it's unable to arise in the future. That's how a
+mendicant has lifted the cross-bar.
+
+And how has a mendicant filled in the moat? It's when a mendicant has
+given up transmigrating through births in future lives, cut it off at
+the root, made it like a palm stump, obliterated it, so it's unable to
+arise in the future. That's how a mendicant has filled in the moat.
+
+And how has a mendicant pulled up the pillar? It's when a mendicant has
+given up craving, cut it off at the root, made it like a palm stump,
+obliterated it, so it's unable to arise in the future. That's how a
+mendicant has pulled up the pillar.
+
+And how is a mendicant unimpeded? It's when a mendicant has given up the
+five lower fetters, cut them off at the root, made them like a palm
+stump, obliterated them, so they're unable to arise in the future.
+That's how a mendicant is unimpeded.
+
+And how is a mendicant a noble one with with banner lowered and burden
+dropped, detached? It's when a mendicant has given up the conceit 'I
+am', cut it off at the root, made it like a palm stump, obliterated it,
+so it's unable to arise in the future. That's how a mendicant is a noble
+one with banner lowered and burden dropped, detached."
+
+### N 5.72 Freedom of Heart is the Fruit (2nd)  *Dutiyacetovimuttiphalasutta* {#n-5.72-freedom-of-heart-is-the-fruit-2nd-dutiyacetovimuttiphalasutta .unnumbered}
+
+"Mendicants, these five things, when developed and cultivated, have
+freedom of heart and freedom by wisdom as their fruit and benefit. What
+five?
+
+The perception of impermanence, the perception of suffering in
+impermanence, the perception of not-self in suffering, the perception of
+giving up, and the perception of fading away.
+
+These five things, when developed and cultivated, have freedom of heart
+and freedom by wisdom as their fruit and benefit.
+
+When a mendicant has freedom of heart and freedom by wisdom, such a
+mendicant is one who is called 'one who has lifted the cross-bar', 'one
+who has filled in the moat', 'one who has pulled up the pillar', 'one
+who is unimpeded', and also 'a noble one with banner lowered and burden
+dropped, detached'. ..."
+
+### N 5.73 One Who Lives by the Teaching (1st)  *Paṭhamadhammavihārīsutta* {#n-5.73-one-who-lives-by-the-teaching-1st-paṭhamadhammavihārīsutta .unnumbered}
+
+Then a mendicant went up to the Buddha, bowed, sat down to one side, and
+said to him:
+
+"Sir, they speak of 'one who lives by the teaching'. How is a mendicant
+who lives by the teaching defined?"
+
+"Mendicant, take a mendicant who memorizes the teaching---statements,
+mixed prose & verse, discussions, verses, inspired exclamations,
+legends, stories of past lives, amazing stories, and elaborations. They
+spend too much time studying that teaching. They neglect retreat, and
+are not committed to internal serenity of heart. That mendicant is
+called one who studies a lot, not one who lives by the teaching.
+
+Furthermore, a mendicant teaches Dhamma in detail to others as they
+learned and memorized it. They spend too much time advocating that
+teaching. They neglect retreat, and are not committed to internal
+serenity of heart. That mendicant is called one who advocates a lot, not
+one who lives by the teaching.
+
+Furthermore, a mendicant recites the teaching in detail as they learned
+and memorized it. They spend too much time reciting that teaching. They
+neglect retreat, and are not committed to internal serenity of heart.
+That mendicant is called one who recites a lot, not one who lives by the
+teaching.
+
+Furthermore, a mendicant thinks about and considers the teaching in
+their heart, examining it with the mind as they learned and memorized
+it. They spend too much time thinking about that teaching. They neglect
+retreat, and are not committed to internal serenity of heart. That
+mendicant is called one who thinks a lot, not one who lives by the
+teaching.
+
+Take a mendicant who memorizes the teaching---statements, mixed prose &
+verse, discussions, verses, inspired exclamations, legends, stories of
+past lives, amazing stories, and elaborations. They don't spend too much
+time studying that teaching. They don't neglect retreat, and they're
+committed to internal serenity of heart. That's how a mendicant is one
+who lives by the teaching.
+
+So, mendicant, I've taught you the one who studies a lot, the one who
+advocates a lot, the one who recites a lot, the one who thinks a lot,
+and the one who lives by the teaching. Out of sympathy, I've done what a
+teacher should do who wants what's best for their disciples. Here are
+these roots of trees, and here are these empty huts. Practice
+absorption, mendicant! Don't be negligent! Don't regret it later! This
+is my instruction to you."
+
+### N 5.74 One Who Lives by the Teaching (2nd)  *Dutiyadhammavihārīsutta* {#n-5.74-one-who-lives-by-the-teaching-2nd-dutiyadhammavihārīsutta .unnumbered}
+
+Then a mendicant went up to the Buddha, bowed, sat down to one side, and
+said to him:
+
+"Sir, they speak of 'one who lives by the teaching'. How is a mendicant
+who lives by the teaching defined?"
+
+"Mendicant, take a mendicant who memorizes the teaching---statements,
+mixed prose & verse, discussions, verses, inspired exclamations,
+legends, stories of past lives, amazing stories, and elaborations. But
+they don't understand the higher meaning. That mendicant is called one
+who studies a lot, not one who lives by the teaching.
+
+Furthermore, a mendicant teaches Dhamma in detail to others as they
+learned and memorized it. But they don't understand the higher meaning.
+That mendicant is called one who advocates a lot, not one who lives by
+the teaching.
+
+Furthermore, a mendicant recites the teaching in detail as they learned
+and memorized it. But they don't understand the higher meaning. That
+mendicant is called one who recites a lot, not one who lives by the
+teaching.
+
+Furthermore, a mendicant thinks about and considers the teaching in
+their heart, examining it with the mind as they learned and memorized
+it. But they don't understand the higher meaning. That mendicant is
+called one who thinks a lot, not one who lives by the teaching.
+
+Take a mendicant who memorizes the teaching---statements, mixed prose &
+verse, discussions, verses, inspired exclamations, legends, stories of
+past lives, amazing stories, and elaborations. And they do understand
+the higher meaning. That's how a mendicant is one who lives by the
+teaching.
+
+So, mendicant, I've taught you the one who studies a lot, the one who
+advocates a lot, the one who recites a lot, the one who thinks a lot,
+and the one who lives by the teaching. Out of sympathy, I've done what a
+teacher should do who wants what's best for their disciples. Here are
+these roots of trees, and here are these empty huts. Practice
+absorption, mendicant! Don't be negligent! Don't regret it later! This
+is my instruction to you."
+
+### N 5.75 Warriors (1st)  *Paṭhamayodhājīvasutta* {#n-5.75-warriors-1st-paṭhamayodhājīvasutta .unnumbered}
+
+"Mendicants, these five warriors are found in the world. What five?
+
+Firstly, one warrior falters and founders at the mere sight of a cloud
+of dust. He doesn't stay firm, and fails to plunge into battle. Some
+warriors are like that. This is the first warrior found in the world.
+
+Furthermore, one warrior can prevail over a cloud of dust, but he
+falters and founders at the mere sight of a banner's crest. He doesn't
+stay firm, and fails to plunge into battle. Some warriors are like that.
+This is the second warrior found in the world.
+
+Furthermore, one warrior can prevail over a cloud of dust and a banner's
+crest, but he falters and founders at the mere sound of turmoil. He
+doesn't stay firm, and fails to plunge into battle. Some warriors are
+like that. This is the third warrior found in the world.
+
+Furthermore, one warrior can prevail over a cloud of dust and a banner's
+crest and turmoil, but he's killed or injured when blows are struck.
+Some warriors are like that. This is the fourth warrior found in the
+world.
+
+Furthermore, one warrior can prevail over a cloud of dust and a banner's
+crest and turmoil and being struck. He wins victory in battle,
+establishing himself as foremost in battle. Some warriors are like that.
+This is the fifth warrior found in the world.
+
+These are the five warriors found in the world.
+
+In the same way, these five people similar to warriors are found among
+the monks. What five?
+
+Firstly, one monk falters and founders at the mere sight of a cloud of
+dust. He doesn't stay firm, and fails to keep up the spiritual life.
+Declaring his inability to continue training, he rejects it and returns
+to a lesser life. What is his 'cloud of dust'? It's when a monk hears:
+'In such and such a village or town there's a women or a girl who is
+attractive, good-looking, lovely, of surpassing beauty.' Hearing this,
+he falters and founders. He doesn't stay firm, and fails to keep up the
+spiritual life. Declaring his inability to continue training, he rejects
+it and returns to a lesser life. This is his 'cloud of dust'.
+
+I say that this person is like the warrior who falters and founders at
+the mere sight of a cloud of dust. Some people are like that. This is
+the first person similar to a warrior found among the monks.
+
+Furthermore, one monk can prevail over a cloud of dust, but at the mere
+sight of a banner's crest he falters and founders. He doesn't stay firm,
+and fails to keep up the spiritual life. Declaring his inability to
+continue training, he rejects it and returns to a lesser life. What is
+his 'banner's crest'? It's when a monk doesn't hear: 'In such and such a
+village or town there's a women or a girl who is attractive,
+good-looking, lovely, of surpassing beauty.' But he sees for himself a
+women or a girl who is attractive, good-looking, lovely, of surpassing
+beauty. Seeing her, he falters and founders. He doesn't stay firm, and
+fails to keep up the spiritual life. Declaring his inability to continue
+training, he rejects it and returns to a lesser life. This is his
+'banner's crest'.
+
+I say that this person is like the warrior who can prevail over a cloud
+of dust, but he falters and founders at the mere sight of a banner's
+crest. Some people are like that. This is the second person similar to a
+warrior found among the monks.
+
+Furthermore, one monk can prevail over a cloud of dust and a banner's
+crest, but he falters and founders at the mere sound of turmoil. He
+doesn't stay firm, and fails to keep up the spiritual life. Declaring
+his inability to continue training, he rejects it and returns to a
+lesser life. What is his 'turmoil'? It's when a mendicant who has gone
+to a wilderness, or to the root of a tree, or to an empty hut is
+approached by a female. She smiles, chats, laughs, and teases him. He
+falters and founders. He doesn't stay firm, and fails to keep up the
+spiritual life. Declaring his inability to continue training, he rejects
+it and returns to a lesser life. This is his 'turmoil'.
+
+I say that this person is like the warrior who can prevail over a cloud
+of dust and a banner's crest, but he falters and founders at the mere
+sound of turmoil. Some people are like that. This is the third person
+similar to a warrior found among the monks.
+
+Furthermore, one monk can prevail over a cloud of dust and a banner's
+crest and turmoil, but he's killed or injured when blows are struck.
+What is his 'blows are struck'? It's when a mendicant who has gone to a
+wilderness, or to the root of a tree, or to an empty hut is approached
+by a female. She sits right by him, lies down, or embraces him. Without
+resigning the training and declaring his inability to continue, he has
+sex. This is his 'blows are struck'.
+
+I say that this person is like the warrior who can prevail over a cloud
+of dust and a banner's crest and turmoil, but is killed or injured when
+blows are struck. Some people are like that. This is the fourth person
+similar to a warrior found among the monks.
+
+Furthermore, one monk can prevail over a cloud of dust and a banner's
+crest and turmoil, and being struck. He wins victory in battle,
+establishing himself as foremost in battle. What is his 'victory in
+battle'? It's when a mendicant who has gone to a wilderness, or to the
+root of a tree, or to an empty hut is approached by a female. She sits
+right by him, lies down, or embraces him. But he disentangles and frees
+himself, and goes wherever he wants. He frequents a secluded lodging---a
+wilderness, the root of a tree, a hill, a ravine, a mountain cave, a
+charnel ground, a forest, the open air, a heap of straw.
+
+Gone to a wilderness, or to the root of a tree, or to an empty hut, he
+sits down cross-legged, sets his body straight, and establishes
+mindfulness in his presence. Giving up covetousness for the world, he
+meditates with a heart rid of covetousness, cleansing the mind of
+covetousness. Giving up ill will and malevolence, he meditates with a
+mind rid of ill will, full of sympathy for all living beings, cleansing
+the mind of ill will. Giving up dullness and drowsiness, he meditates
+with a mind rid of dullness and drowsiness, perceiving light, mindful
+and aware, cleansing the mind of dullness and drowsiness. Giving up
+restlessness and remorse, he meditates without restlessness, his mind
+peaceful inside, cleansing the mind of restlessness and remorse. Giving
+up doubt, he meditates having gone beyond doubt, not undecided about
+skillful qualities, cleansing the mind of doubt. He gives up these five
+hindrances, corruptions of the heart that weaken wisdom. Then, quite
+secluded from sensual pleasures, secluded from unskillful qualities, he
+enters and remains in the first absorption ... second absorption ...
+third absorption ... fourth absorption.
+
+When his mind has become immersed in [samādhi]{lang="sa"} like
+this---purified, bright, flawless, rid of corruptions, pliable,
+workable, steady, and imperturbable---he extends it toward knowledge of
+the ending of defilements. He truly understands: 'This is suffering' ...
+'This is the origin of suffering' ... 'This is the cessation of
+suffering' ... 'This is the practice that leads to the cessation of
+suffering'. He truly understands: 'These are defilements' ... 'This is
+the origin of defilements' ... 'This is the cessation of defilements'
+... 'This is the practice that leads to the cessation of defilements'.
+Knowing and seeing like this, his mind is freed from the defilements of
+sensuality, desire to be reborn, and ignorance. When it is freed, he
+knows it is freed.
+
+He understands: 'Rebirth is ended, the spiritual journey has been
+completed, what had to be done has been done, there is nothing further
+for this place.' This is his 'victory in battle'.
+
+I say that this person is like the warrior who can prevail over a cloud
+of dust and a banner's crest and turmoil and being struck. He wins
+victory in battle, establishing himself as foremost in battle. Some
+people are like that. This is the fifth person similar to a warrior
+found among the monks.
+
+These five people similar to warriors are found among the monks."
+
+### N 5.76 Warriors (2nd)  *Dutiyayodhājīvasutta* {#n-5.76-warriors-2nd-dutiyayodhājīvasutta .unnumbered}
+
+"Mendicants, these five warriors are found in the world. What five?
+
+Firstly, one warrior dons his sword and shield, fastens his bow and
+arrows, and plunges into the thick of battle. He strives and struggles
+in the battle, but his foes kill him and finish him off. Some warriors
+are like that. This is the first warrior found in the world.
+
+Furthermore, one warrior dons his sword and shield, fastens his bow and
+arrows, and plunges into the thick of battle. He strives and struggles
+in the battle, but his foes wound him. He's carried off and taken to his
+relatives, but he dies on the road before he reaches them. Some warriors
+are like that. This is the second warrior found in the world.
+
+Furthermore, one warrior dons his sword and shield, fastens his bow and
+arrows, and plunges into the thick of battle. He strives and struggles
+in the battle, but his foes wound him. He's carried off and taken to his
+relatives, who nurse him and care for him. But he dies of his injuries
+while in their care. Some warriors are like that. This is the third
+warrior found in the world.
+
+Furthermore, one warrior dons his sword and shield, fastens his bow and
+arrows, and plunges into the thick of battle. He strives and struggles
+in the battle, but his foes wound him. He's carried off and taken to his
+relatives, who nurse him and care for him. And while in their care, he
+recovers from his injuries. Some warriors are like that. This is the
+fourth warrior found in the world.
+
+Furthermore, one warrior dons his sword and shield, fastens his bow and
+arrows, and plunges into the thick of battle. He wins victory in battle,
+establishing himself as foremost in battle. Some warriors are like that.
+This is the fifth warrior found in the world. These are the five
+warriors found in the world.
+
+In the same way, these five people similar to warriors are found among
+the monks. What five? Firstly, a mendicant lives supported by a town or
+village. He robes up in the morning and, taking his bowl and robe,
+enters a village or town for alms without guarding body, speech, and
+mind, without establishing mindfulness, and without restraining the
+sense faculties. There he sees a female scantily clad, with revealing
+clothes. Lust infects his mind, and, without resigning the training and
+declaring his inability to continue, he has sex.
+
+I say that this person is like the warrior who is killed and finished
+off by his foes. Some people are like that. This is the first person
+similar to a warrior found among the monks.
+
+Furthermore, a mendicant lives supported by a town or village. He robes
+up in the morning and, taking his bowl and robe, enters a village or
+town for alms without guarding body, speech, and mind, without
+establishing mindfulness, and without restraining the sense faculties.
+There he sees a female scantily clad, with revealing clothes. Lust
+infects his mind, and his body and mind burn with it. He thinks: 'Why
+don't I visit the monastery and tell the monks:
+
+"Reverends, I am overcome with lust, mired in lust. I am unable to keep
+up the spiritual life. I declare my inability to continue training. I
+reject it and will return to a lesser life."' But while traveling on the
+road, before he reaches the monastery he declares his inability to
+continue training. He rejects it and returns to a lesser life.
+
+I say that this person is like the warrior who is taken to his relatives
+for care, but he dies on the road before he reaches them. Some people
+are like that. This is the second person similar to a warrior found
+among the monks.
+
+Furthermore, a mendicant lives supported by a town or village. He robes
+up in the morning and, taking his bowl and robe, enters a village or
+town for alms without guarding body, speech, and mind, without
+establishing mindfulness, and without restraining the sense faculties.
+There he sees a female scantily clad, with revealing clothes. Lust
+infects his mind, and his body and mind burn with it. He thinks: 'Why
+don't I visit the monastery and tell the monks:
+
+"Reverends, I am overcome with lust, mired in lust. I am unable to keep
+up the spiritual life. I declare my inability to continue training. I
+reject it and will return to a lesser life."' He goes to the monastery
+and tells the monks: 'Reverends, I am overcome with lust, mired in lust.
+I am unable to keep up the spiritual life. I declare my inability to
+continue training. I reject it and will return to a lesser life.'
+
+His spiritual companions advise and instruct him: 'Reverend, the Buddha
+says that sensual pleasures give little gratification and much suffering
+and distress, and they are all the more full of drawbacks. With the
+similes of a skeleton ... a scrap of meat ... a grass torch ... a pit of
+glowing coals ... a dream ... borrowed goods ... fruit on a tree ... a
+butcher's knife and chopping board ... swords and spears ... a snake's
+head, the Buddha says that sensual pleasures give little gratification
+and much suffering and distress, and they are all the more full of
+drawbacks. Be happy with the spiritual life. Venerable, please don't
+declare your inability to continue training, reject it and return to a
+lesser life.'
+
+When thus advised and instructed by his spiritual companions, he says:
+'Reverends, even though the Buddha says that sensual pleasures give
+little gratification and much suffering and distress, and they are all
+the more full of drawbacks, I am unable to keep up the spiritual life. I
+declare my inability to continue training. I reject it and will return
+to a lesser life.' Declaring his inability to continue training, he
+rejects it and returns to a lesser life.
+
+I say that this person is like the warrior who dies of his injuries
+while in the care of his relatives. Some people are like that. This is
+the third person similar to a warrior found among the monks.
+
+Furthermore, a mendicant lives supported by a town or village. He robes
+up in the morning and, taking his bowl and robe, enters a village or
+town for alms without guarding body, speech, and mind, without
+establishing mindfulness, and without restraining the sense faculties.
+There he sees a female scantily clad, with revealing clothes. Lust
+infects his mind, and his body and mind burn with it. He thinks: 'Why
+don't I visit the monastery and tell the monks:
+
+"Reverends, I am overcome with lust, mired in lust. I am unable to keep
+up the spiritual life. I declare my inability to continue training. I
+reject it and will return to a lesser life."' He goes to the monastery
+and tells the monks: 'Reverends, I am overcome with lust, mired in lust.
+I am unable to keep up the spiritual life. I declare my inability to
+continue training. I reject it and will return to a lesser life.'
+
+His spiritual companions advise and instruct him: 'Reverend, the Buddha
+says that sensual pleasures give little gratification and much suffering
+and distress, and they are all the more full of drawbacks. With the
+simile of a skeleton ... a scrap of meat ... a grass torch ... a pit of
+glowing coals ... a dream ... borrowed goods ... fruit on a tree ... a
+butcher's knife and chopping board ... swords and spears ... a snake's
+head, the Buddha says that sensual pleasures give little gratification
+and much suffering and distress, and they are all the more full of
+drawbacks. Be happy with the spiritual life. Venerable, please don't
+declare your inability to continue training, reject it and return to a
+lesser life.'
+
+When thus advised and instructed by his spiritual companions, he says:
+'I'll try, reverends, I'll struggle, I'll be happy. I won't now declare
+my inability to continue training, reject it and return to a lesser
+life.'
+
+I say that this person is like the warrior who recovers from his
+injuries while in the care of his relatives. Some people are like that.
+This is the fourth person similar to a warrior found among the monks.
+
+Furthermore, a mendicant lives supported by a town or village. He robes
+up in the morning and, taking his bowl and robe, enters a village or
+town, guarding body, speech, and mind, establishing mindfulness, and
+restraining the sense faculties. Seeing a sight with his eyes, he
+doesn't get caught up in the features and details. If the faculty of
+sight were left unrestrained, bad unskillful qualities of covetousness
+and displeasure would become overwhelming. For this reason, he practices
+restraint, protecting the faculty of sight, and achieving restraint over
+it. Hearing a sound with his ears ... Smelling an odor with his nose ...
+Tasting a flavor with his tongue ... Feeling a touch with his body ...
+Knowing an idea with his mind, he doesn't get caught up in the features
+and details. If the faculty of mind were left unrestrained, bad
+unskillful qualities of covetousness and displeasure would become
+overwhelming. For this reason, he practices restraint, protecting the
+faculty of mind, and achieving restraint over it. Then after the meal,
+on his return from almsround, he frequents a secluded lodging---a
+wilderness, the root of a tree, a hill, a ravine, a mountain cave, a
+charnel ground, a forest, the open air, a heap of straw. Gone to a
+wilderness, or to the root of a tree, or to an empty hut, he sits down
+cross-legged, sets his body straight, and establishes mindfulness in his
+presence. He gives up these five hindrances, corruptions of the heart
+that weaken wisdom. Then, quite secluded from sensual pleasures,
+secluded from unskillful qualities, he enters and remains in the first
+absorption ... second absorption ... third absorption ... fourth
+absorption.
+
+When his mind has become immersed in [samādhi]{lang="sa"} like
+this---purified, bright, flawless, rid of corruptions, pliable,
+workable, steady, and imperturbable---he extends it toward knowledge of
+the ending of defilements. He truly understands: 'This is suffering' ...
+'This is the origin of suffering' ... 'This is the cessation of
+suffering' ... 'This is the practice that leads to the cessation of
+suffering'. He truly understands: 'These are defilements' ... 'This is
+the origin of defilements' ... 'This is the cessation of defilements'
+... 'This is the practice that leads to the cessation of defilements'.
+Knowing and seeing like this, his mind is freed from the defilements of
+sensuality, desire to be reborn, and ignorance. When freed, he knows 'it
+is freed'. He understands: 'Rebirth is ended, the spiritual journey has
+been completed, what had to be done has been done, there is nothing
+further for this place.'
+
+I say that this person is like the warrior who dons his sword and
+shield, fastens his bow and arrows, and plunges into the thick of
+battle. He wins victory in battle, establishing himself as foremost in
+battle. Some people are like that. This is the fifth person similar to a
+warrior found among the monks.
+
+These five people similar to warriors are found among the monks."
+
+### N 5.77 Future Perils (1st)  *Paṭhamaanāgatabhayasutta* {#n-5.77-future-perils-1st-paṭhamaanāgatabhayasutta .unnumbered}
+
+"Mendicants, seeing these five future perils is quite enough for a
+wilderness mendicant to meditate diligently, keenly, and resolutely for
+attaining the unattained, achieving the unachieved, and realizing the
+unrealized.
+
+What five? Firstly, a wilderness mendicant reflects: 'Currently I'm
+living alone in a wilderness. While living here alone I might get bitten
+by a snake, a scorpion, or a centipede. And if I died from that it would
+be an obstacle to my progress. I'd better rouse up energy for attaining
+the unattained, achieving the unachieved, and realizing the unrealized.'
+This is the first future peril ...
+
+Furthermore, a wilderness mendicant reflects: 'Currently I'm living
+alone in a wilderness. While living here alone I might stumble off a
+cliff, or get food poisoning, or suffer a disturbance of bile, phlegm,
+or piercing winds. And if I died from that it would be an obstacle to my
+progress. I'd better rouse up energy for attaining the unattained,
+achieving the unachieved, and realizing the unrealized.' This is the
+second future peril ...
+
+Furthermore, a wilderness mendicant reflects: 'Currently I'm living
+alone in a wilderness. While living here alone I might encounter wild
+beasts---a lion, a tiger, a leopard, a bear, or a hyena---which might
+take my life. And if I died from that it would be an obstacle to my
+progress. I'd better rouse up energy for attaining the unattained,
+achieving the unachieved, and realizing the unrealized.' This is the
+third future peril ...
+
+Furthermore, a wilderness mendicant reflects: 'Currently I'm living
+alone in a wilderness. While living here alone I might encounter youths
+escaping a crime or on their way to commit one, and they might take my
+life. And if I died from that it would be an obstacle to my progress.
+I'd better rouse up energy for attaining the unattained, achieving the
+unachieved, and realizing the unrealized.' This is the fourth future
+peril ...
+
+Furthermore, a wilderness mendicant reflects: 'Currently I'm living
+alone in a wilderness. But in a wilderness there are savage monsters who
+might take my life. And if I died from that it would be an obstacle to
+my progress. I'd better rouse up energy for attaining the unattained,
+achieving the unachieved, and realizing the unrealized.' This is the
+fifth future peril ...
+
+These are the five future perils, seeing which is quite enough for a
+wilderness mendicant to meditate diligently, keenly, and resolutely for
+attaining the unattained, achieving the unachieved, and realizing the
+unrealized."
+
+### N 5.78 Future Perils (2nd)  *Dutiyaanāgatabhayasutta* {#n-5.78-future-perils-2nd-dutiyaanāgatabhayasutta .unnumbered}
+
+"Mendicants, seeing these five future perils is quite enough for a
+mendicant to meditate diligently, keenly, and resolutely for attaining
+the unattained, achieving the unachieved, and realizing the unrealized.
+What five?
+
+A mendicant reflects: 'Currently I'm a youth, young, with pristine black
+hair, blessed with youth, in the prime of life. But there will come a
+time when this body is struck with old age. When you're old, overcome by
+old age, it's not easy to focus on the instructions of the Buddhas, and
+it's not easy to frequent remote lodgings in the wilderness and the
+forest. Before that unlikable, undesirable, and disagreeable thing
+happens, I'd better preempt it by rousing up energy for attaining the
+unattained, achieving the unachieved, and realizing the unrealized. That
+way, when it happens, I'll live comfortably even though I'm old.' This
+is the first future peril ...
+
+Furthermore, a mendicant reflects: 'Currently, I'm rarely ill or unwell.
+My stomach digests well, being neither too hot nor too cold, but just
+right, and fit for meditation. But there will come a time when this body
+is struck with sickness. When you're sick, overcome by sickness, it's
+not easy to focus on the instructions of the Buddhas, and it's not easy
+to frequent remote lodgings in the wilderness and the forest. Before
+that unlikable, undesirable, and disagreeable thing happens, I'd better
+preempt it by rousing up energy for attaining the unattained, achieving
+the unachieved, and realizing the unrealized. That way, when it happens,
+I'll live comfortably even though I'm sick.' This is the second future
+peril ...
+
+Furthermore, a mendicant reflects: 'Currently, there's plenty of food, a
+good harvest, so it's easy to get almsfood, and easy to keep going by
+collecting alms. But there will come a time of famine, a bad harvest,
+when it's hard to get almsfood, and not easy to keep going by collecting
+alms. In a time of famine, people move to where there's plenty of food,
+where they live crowded and cramped together. When you live crowded and
+cramped together, it's not easy to focus on the instructions of the
+Buddhas, and it's not easy to frequent remote lodgings in the wilderness
+and the forest. Before that unlikable, undesirable, and disagreeable
+thing happens, I'd better preempt it by rousing up energy for attaining
+the unattained, achieving the unachieved, and realizing the unrealized.
+That way, when it happens, I'll live comfortably even though there's a
+famine.' This is the third future peril ...
+
+Furthermore, a mendicant reflects: 'Currently, people live in harmony,
+appreciating each other, without quarreling, blending like milk and
+water, and regarding each other with kindly eyes. But there will come a
+time of peril due to turmoil in the wilds, so the countryfolk mount
+their vehicles and flee everywhere. In a time of peril, people move to
+where there's sanctuary, where they live crowded and cramped together.
+When you live crowded and cramped together, it's not easy to focus on
+the instructions of the Buddhas, and it's not easy to frequent remote
+lodgings in the wilderness and the forest. Before that unlikable,
+undesirable, and disagreeable thing happens, I'd better preempt it by
+rousing up energy for attaining the unattained, achieving the
+unachieved, and realizing the unrealized. That way, when it happens,
+I'll live comfortably even in a time of peril.' This is the fourth
+future peril ...
+
+Furthermore, a mendicant reflects: 'Currently, the [Saṅgha]{lang="sa"}
+lives comfortably, in harmony, appreciating each other, without
+quarreling, with one recitation. But there will come a time of schism in
+the [Saṅgha]{lang="sa"}. When there is schism in the
+[Saṅgha]{lang="sa"}, it's not easy to focus on the instructions of the
+Buddhas, and it's not easy to frequent remote lodgings in the wilderness
+and the forest. Before that unlikable, undesirable, and disagreeable
+thing happens, I'd better preempt it by rousing up energy for attaining
+the unattained, achieving the unachieved, and realizing the unrealized.
+That way, when it happens, I'll live comfortably even though there's
+schism in the [Saṅgha]{lang="sa"}.' This is the fifth future peril ...
+
+These are the five future perils, seeing which is quite enough for a
+mendicant to meditate diligently, keenly, and resolutely for attaining
+the unattained, achieving the unachieved, and realizing the unrealized."
+
+### N 5.79 Future Perils (3rd)  *Tatiyaanāgatabhayasutta* {#n-5.79-future-perils-3rd-tatiyaanāgatabhayasutta .unnumbered}
+
+"Mendicants, these five future perils have not currently arisen, but
+they will arise in the future. You should look out for them and try to
+give them up.
+
+What five? In a future time there will be mendicants who have not
+developed their physical endurance, ethics, mind, and wisdom. They will
+ordain others, but be unable to guide them in the higher ethics, mind,
+and wisdom. They too will not develop their physical endurance, ethics,
+mind, and wisdom. They too will ordain others, but be unable to guide
+them in the higher ethics, mind, and wisdom. They too will not develop
+their physical endurance, ethics, mind, and wisdom. And that is how
+corrupt training comes from corrupt teachings, and corrupt teachings
+come from corrupt training. This is the first future peril that has not
+currently arisen, but will arise in the future ...
+
+Furthermore, in a future time there will be mendicants who have not
+developed their physical endurance, ethics, mind, and wisdom. They will
+give dependence to others, but be unable to guide them in the higher
+ethics, mind, and wisdom. They too will not develop their physical
+endurance, ethics, mind, and wisdom. They too will give dependence to
+others, but be unable to guide them in the higher ethics, mind, and
+wisdom. They too will not develop their physical endurance, ethics,
+mind, and wisdom. And that is how corrupt training comes from corrupt
+teachings, and corrupt teachings come from corrupt training. This is the
+second future peril that has not currently arisen, but will arise in the
+future ...
+
+Furthermore, in a future time there will be mendicants who have not
+developed their physical endurance, ethics, mind, and wisdom. In
+discussion about the teachings and elaborations they'll fall into dark
+ideas without realizing it. And that is how corrupt training comes from
+corrupt teachings, and corrupt teachings come from corrupt training.
+This is the third future peril that has not currently arisen, but will
+arise in the future ...
+
+Furthermore, in a future time there will be mendicants who have not
+developed their physical endurance, ethics, mind, and wisdom. When
+discourses spoken by the Realized One---deep, profound, transcendent,
+dealing with emptiness---are being recited they won't want to listen.
+They won't actively listen or try to understand, nor will they think
+those teachings are worth learning and memorizing. But when discourses
+composed by poets---poetry, with fancy words and phrases, composed by
+outsiders or spoken by disciples---are being recited they will want to
+listen. They'll actively listen and try to understand, and they'll think
+those teachings are worth learning and memorizing. And that is how
+corrupt training comes from corrupt teachings, and corrupt teachings
+come from corrupt training. This is the fourth future peril that has not
+currently arisen, but will arise in the future ...
+
+Furthermore, in a future time there will be mendicants who have not
+developed their physical endurance, ethics, mind, and wisdom. The senior
+mendicants will be indulgent and slack, leaders in backsliding,
+neglecting seclusion, not rousing energy for attaining the unattained,
+achieving the unachieved, and realizing the unrealized. Those who come
+after them will follow their example. They too will become indulgent and
+slack, leaders in backsliding, neglecting seclusion, not rousing energy
+for attaining the unattained, achieving the unachieved, and realizing
+the unrealized. And that is how corrupt training comes from corrupt
+teachings, and corrupt teachings come from corrupt training. This is the
+fifth future peril that has not currently arisen, but will arise in the
+future ...
+
+These are the five future perils that have not currently arisen, but
+will arise in the future. You should look out for them, and try to give
+them up."
+
+### N 5.80 Future Perils (4th)  *Catutthaanāgatabhayasutta* {#n-5.80-future-perils-4th-catutthaanāgatabhayasutta .unnumbered}
+
+"Mendicants, these five future perils have not currently arisen, but
+they will arise in the future. You should look out for them and try to
+give them up.
+
+What five? In a future time there will be mendicants who like nice
+robes. They will neglect the practice of wearing rag robes and the
+practice of frequenting remote lodgings in the wilderness and the
+forest. They will come down to the villages, towns, and capital cities
+and make their homes there. And they will try to get robes in many kinds
+of wrong and inappropriate ways. This is the first future peril that has
+not currently arisen, but will arise in the future ...
+
+Furthermore, in a future time there will be mendicants who like nice
+almsfood. They will neglect the practice of walking for almsfood and the
+practice of frequenting remote lodgings in the wilderness and the
+forest. They will come down to the villages, towns, and capital cities
+and make their homes there. And they will try to get almsfood in many
+kinds of wrong and inappropriate ways. This is the second future peril
+that has not currently arisen, but will arise in the future ...
+
+Furthermore, in a future time there will be mendicants who like nice
+lodgings. They will neglect the practice of staying at the root of a
+tree and the practice of frequenting remote lodgings in the wilderness
+and the forest. They will come down to the villages, towns, and capital
+cities and make their homes there. And they will try to get lodgings in
+many kinds of wrong and inappropriate ways. This is the third future
+peril that has not currently arisen, but will arise in the future ...
+
+Furthermore, in a future time there will be mendicants who mix closely
+with nuns, trainee nuns, and novice nuns. In such conditions, it can be
+expected that they will lead the spiritual life dissatisfied, or commit
+one of the corrupt offenses, or reject the training and return to a
+lesser life. This is the fourth future peril that has not currently
+arisen, but will arise in the future ...
+
+Furthermore, in a future time there will be mendicants who mix closely
+with monastery attendants and novices. In such conditions it can be
+expected that they will engage in storing up goods for their own use,
+and making obvious hints about digging the earth and cutting plants.
+This is the fifth future peril that has not currently arisen, but will
+arise in the future ...
+
+These are the five future perils that have not currently arisen, but
+will arise in the future. You should look out for them and try to give
+them up."
+
+## The Chapter on Senior Mendicants  {#the-chapter-on-senior-mendicants .unnumbered}
+
+### N 5.81 Desirable  *Rajanīyasutta* {#n-5.81-desirable-rajanīyasutta .unnumbered}
+
+"Mendicants, a senior mendicant with five qualities is unlikable and
+disagreeable to their spiritual companions, not respected or admired.
+What five? They desire the desirable, they hate the hateful, they're
+deluded by the delusory, they're annoyed by the annoying, and they're
+intoxicated by the intoxicating. A senior mendicant with these five
+qualities is unlikable and disagreeable by their spiritual companions,
+not respected or admired.
+
+A senior mendicant with five qualities is dear and beloved to their
+spiritual companions, respected and admired. What five? They don't
+desire the desirable, they don't hate the hateful, they're not deluded
+by the delusory, they're not annoyed by the annoying, and they're not
+intoxicated by the intoxicating. A senior mendicant with these five
+qualities is dear and beloved to their spiritual companions, respected
+and admired."
+
+### N 5.82 Free of Greed  *Vītarāgasutta* {#n-5.82-free-of-greed-vītarāgasutta .unnumbered}
+
+"Mendicants, a senior mendicant with five qualities is unlikable and
+disagreeable to their spiritual companions, not respected or admired.
+What five? They're not free of greed, hate, and delusion; they are
+offensive and contemptuous. A senior mendicant with these five qualities
+is unlikable and disagreeable to their spiritual companions, not
+respected or admired.
+
+A senior mendicant with five qualities is dear and beloved to their
+spiritual companions, respected and admired. What five? They're free of
+greed, hate, and delusion; they're not offensive and contemptuous. A
+senior mendicant with these five qualities is dear and beloved to their
+spiritual companions, respected and admired."
+
+### N 5.83 Deceiver  *Kuhakasutta* {#n-5.83-deceiver-kuhakasutta .unnumbered}
+
+"Mendicants, a senior mendicant with five qualities is unlikable and
+disagreeable to their spiritual companions, not respected or admired.
+What five? They use deceit, flattery, hinting, and belittling, and they
+use material things to chase after other material things. A senior
+mendicant with these five qualities is unlikable and disagreeable to
+their spiritual companions, not respected or admired.
+
+A senior mendicant with five qualities is dear and beloved to their
+spiritual companions, respected and admired. What five? They don't use
+deceit, flattery, hinting, or belittling, and they don't use material
+things to chase after other material things. A senior mendicant with
+these five qualities is dear and beloved to their spiritual companions,
+respected and admired."
+
+### N 5.84 Faithless  *Assaddhasutta* {#n-5.84-faithless-assaddhasutta .unnumbered}
+
+"Mendicants, a senior mendicant with five qualities is unlikable and
+disagreeable to their spiritual companions, not respected or admired.
+What five? They're faithless, shameless, imprudent, lazy, and witless. A
+senior mendicant with these five qualities is unlikable and disagreeable
+to their spiritual companions, not respected or admired.
+
+A senior mendicant with five qualities is dear and beloved to their
+spiritual companions, respected and admired. What five? They're
+faithful, conscientious, prudent, energetic, and wise. A senior
+mendicant with these five qualities is dear and beloved to their
+spiritual companions, respected and admired."
+
+### N 5.85 Cannot Endure  *Akkhamasutta* {#n-5.85-cannot-endure-akkhamasutta .unnumbered}
+
+"Mendicants, a senior mendicant with five qualities is unlikable and
+disagreeable to their spiritual companions, not respected or admired.
+What five? They can't endure sights, sounds, smells, tastes, and
+touches. A senior mendicant with these five qualities is unlikable and
+disagreeable to their spiritual companions, not respected or admired.
+
+A senior mendicant with five qualities is dear and beloved to their
+spiritual companions, respected and admired. What five? They can endure
+sights, sounds, smells, tastes, and touches. A senior mendicant with
+these five qualities is dear and beloved to their spiritual companions,
+respected and admired."
+
+### N 5.86 Attaining the Methods of Textual Analysis  *Paṭisambhidāpattasutta* {#n-5.86-attaining-the-methods-of-textual-analysis-paṭisambhidāpattasutta .unnumbered}
+
+"A senior mendicant with five qualities is dear and beloved to their
+spiritual companions, respected and admired. What five? They have
+attained the textual analysis of meaning, text, terminology, and
+eloquence. And they are deft and tireless in a diverse spectrum of
+duties for their spiritual companions, understanding how to go about
+things in order to complete and organize the work. A senior mendicant
+with these five qualities is dear and beloved to their spiritual
+companions, respected and admired."
+
+### N 5.87 Ethical  *Sīlavantasutta* {#n-5.87-ethical-sīlavantasutta .unnumbered}
+
+"A senior mendicant with five qualities is dear and beloved to their
+spiritual companions, respected and admired. What five?
+
+They're ethical, restrained in the monastic code, conducting themselves
+well and resorting for alms in suitable places. Seeing danger in the
+slightest fault, they keep the rules they've undertaken.
+
+They're very learned, remembering and keeping what they've learned.
+These teachings are good in the beginning, good in the middle, and good
+in the end, meaningful and well-phrased, describing a spiritual practice
+that's entirely full and pure. They are very learned in such teachings,
+remembering them, rehearsing them, mentally scrutinizing them, and
+comprehending them theoretically.
+
+They're a good speaker who enunciates well, with a polished, clear, and
+articulate voice that expresses the meaning.
+
+They get the four absorptions---blissful meditations in this life that
+belong to the higher mind---when they want, without trouble or
+difficulty.
+
+They realize the undefiled freedom of heart and freedom by wisdom in
+this very life. And they live having realized it with their own insight
+due to the ending of defilements.
+
+A senior mendicant with these five qualities is dear and beloved to
+their spiritual companions, respected and admired."
+
+### N 5.88 Senior Mendicants  *Therasutta* {#n-5.88-senior-mendicants-therasutta .unnumbered}
+
+"Mendicants, a senior mendicant who has five qualities is acting for the
+detriment and suffering of the people, against the people, for the harm,
+detriment, and suffering of of gods and humans.
+
+What five?
+
+They are senior and have long gone forth.
+
+They're well-known, famous, with a large following that includes both
+laypeople and renunciates.
+
+They receive robes, almsfood, lodgings, and medicines and supplies for
+the sick.
+
+They're very learned, remembering and keeping what they've learned.
+These teachings are good in the beginning, good in the middle, and good
+in the end, meaningful and well-phrased, describing a spiritual practice
+that's entirely full and pure. They are very learned in such teachings,
+remembering them, rehearsing them, mentally scrutinizing them, and
+comprehending them theoretically.
+
+But they have wrong view and distorted perspective. They draw many
+people away from the true teaching and establish them in false
+teachings.
+
+People follow their example, thinking that the senior mendicant is
+senior and has long gone forth. Or that they're well-known, famous, with
+a large following that includes both laypeople and renunciates. Or that
+they receive robes, almsfood, lodgings, and medicines and supplies for
+the sick. Or that they're very learned, remembering and keeping what
+they've learned. A senior mendicant who has these five qualities is
+acting for the detriment and suffering of the people, against the
+people, for the harm, detriment, and suffering of gods and humans.
+
+A senior mendicant who has five qualities is acting for the welfare and
+happiness of the people, for the people, for the benefit, welfare, and
+happiness of gods and humans.
+
+What five?
+
+They are senior and have long gone forth.
+
+They're well-known, famous, with a large following, including both
+laypeople and renunciates.
+
+They receive robes, almsfood, lodgings, and medicines and supplies for
+the sick.
+
+They're very learned, remembering and keeping what they've learned.
+These teachings are good in the beginning, good in the middle, and good
+in the end, meaningful and well-phrased, describing a spiritual practice
+that's entirely full and pure. They are very learned in such teachings,
+remembering them, rehearsing them, mentally scrutinizing them, and
+comprehending them theoretically.
+
+And they have right view and an undistorted perspective. They draw many
+people away from false teachings and establish them in the true
+teaching.
+
+People follow their example, thinking that the senior mendicant is
+senior and has long gone forth. Or that they're well-known, famous, with
+a large following that includes both laypeople and renunciates. Or that
+they receive robes, almsfood, lodgings, and medicines and supplies for
+the sick. Or that they're very learned, remembering and keeping what
+they've learned. A senior mendicant who has these five qualities is
+acting for the welfare and happiness of the people, for the people, for
+the benefit, welfare, and happiness of gods and humans."
+
+### N 5.89 A Trainee (1st)  *Paṭhamasekhasutta* {#n-5.89-a-trainee-1st-paṭhamasekhasutta .unnumbered}
+
+"These five things lead to the decline of a mendicant trainee. What
+five? They relish work, talk, sleep, and company. And they don't review
+the extent of their mind's freedom. These five things lead to the
+decline of a mendicant trainee.
+
+These five things don't lead to the decline of a mendicant trainee. What
+five? They don't relish work, talk, sleep, and company. And they review
+the extent of their mind's freedom. These five things don't lead to the
+decline of a mendicant trainee."
+
+### N 5.90 A Trainee (2nd)  *Dutiyasekhasutta* {#n-5.90-a-trainee-2nd-dutiyasekhasutta .unnumbered}
+
+"These five things lead to the decline of a mendicant trainee. What
+five?
+
+Firstly, a mendicant trainee has many duties and responsibilities, and
+is competent in many tasks. They neglect retreat, and are not committed
+to internal serenity of heart. This is the first thing that leads to the
+decline of a mendicant trainee.
+
+Furthermore, a mendicant trainee spends too much time doing trivial
+work. They neglect retreat, and are not committed to internal serenity
+of heart. This is the second thing that leads to the decline of a
+mendicant trainee.
+
+Furthermore, a mendicant trainee mixes closely with laypeople and
+renunciates, socializing inappropriately like a layperson. They neglect
+retreat, and are not committed to internal serenity of heart. This is
+the third thing that leads to the decline of a mendicant trainee.
+
+Furthermore, a mendicant trainee enters the town at the wrong time, and
+returns too late in the day. They neglect retreat, and are not committed
+to internal serenity of heart. This is the fourth thing that leads to
+the decline of a mendicant trainee.
+
+Furthermore, a mendicant trainee doesn't get to take part in talk about
+self-effacement that helps open the heart, when they want, without
+trouble or difficulty. That is, talk about fewness of wishes,
+contentment, seclusion, aloofness, arousing energy, ethics, immersion,
+wisdom, freedom, and the knowledge and vision of freedom. They neglect
+retreat, and are not committed to internal serenity of heart. This is
+the fifth thing that leads to the decline of a mendicant trainee.
+
+These five things lead to the decline of a mendicant trainee.
+
+These five things don't lead to the decline of a mendicant trainee. What
+five?
+
+Firstly, a mendicant trainee doesn't have many duties and
+responsibilities, even though they are competent in many tasks. They
+don't neglect retreat, and are committed to internal serenity of heart.
+This is the first thing that doesn't lead to the decline of a mendicant
+trainee.
+
+Furthermore, a mendicant trainee doesn't waste their day doing trivial
+work. They don't neglect retreat, and are committed to internal serenity
+of heart. This is the second thing that doesn't lead to the decline of a
+mendicant trainee.
+
+Furthermore, a mendicant trainee doesn't mix closely with laypeople and
+renunciates, socializing inappropriately like a layperson. They don't
+neglect retreat, and are committed to internal serenity of heart. This
+is the third thing that doesn't lead to the decline of a mendicant
+trainee.
+
+Furthermore, a mendicant trainee doesn't enter the village too early or
+return too late in the day. They don't neglect retreat, and are
+committed to internal serenity of heart. This is the fourth thing that
+doesn't lead to the decline of a mendicant trainee.
+
+Furthermore, a mendicant trainee gets to take part in talk about
+self-effacement that helps open the heart, when they want, without
+trouble or difficulty. That is, talk about fewness of wishes,
+contentment, seclusion, aloofness, arousing energy, ethics, immersion,
+wisdom, freedom, and the knowledge and vision of freedom. They don't
+neglect retreat, and are committed to internal serenity of heart. This
+is the fifth thing that doesn't lead to the decline of a mendicant
+trainee.
+
+These five things don't lead to the decline of a mendicant trainee."
+
+## The Chapter with Kakudha  {#the-chapter-with-kakudha .unnumbered}
+
+### N 5.91 Accomplishments (1st)  *Paṭhamasampadāsutta* {#n-5.91-accomplishments-1st-paṭhamasampadāsutta .unnumbered}
+
+"Mendicants, there are five accomplishments. What five? Accomplishment
+in faith, ethics, learning, generosity, and wisdom. These are the five
+accomplishments."
+
+### N 5.92 Accomplishment (2nd)  *Dutiyasampadāsutta* {#n-5.92-accomplishment-2nd-dutiyasampadāsutta .unnumbered}
+
+"Mendicants, there are five accomplishments. What five? Accomplishment
+in ethics, immersion, wisdom, freedom, and the knowledge and vision of
+freedom. These are the five accomplishments."
+
+### N 5.93 Declarations  *Byākaraṇasutta* {#n-5.93-declarations-byākaraṇasutta .unnumbered}
+
+"Mendicants, there are five ways of declaring enlightenment. What five?
+One declares enlightenment out of stupidity and folly. Or because of
+corrupt wishes, being of wishful temperament. Or because of madness and
+mental disorder. Or out of overestimation. Or one declares enlightenment
+rightly. These are the five ways of declaring enlightenment."
+
+### N 5.94 Living Comfortably  *Phāsuvihārasutta* {#n-5.94-living-comfortably-phāsuvihārasutta .unnumbered}
+
+"Mendicants, there are these five ways of living comfortably. What five?
+It's when a mendicant, quite secluded from sensual pleasures, secluded
+from unskillful qualities, enters and remains in the first absorption,
+which has the rapture and bliss born of seclusion, while placing the
+mind and keeping it connected. As the placing of the mind and keeping it
+connected are stilled, they enter and remain in the second absorption
+... third absorption ... fourth absorption ... They realize the
+undefiled freedom of heart and freedom by wisdom in this very life. And
+they live having realized it with their own insight due to the ending of
+defilements. These are the five ways of living comfortably."
+
+### N 5.95 Unshakable  *Akuppasutta* {#n-5.95-unshakable-akuppasutta .unnumbered}
+
+"Mendicants, a mendicant who has five things will soon penetrate the
+unshakable. What five? It's when a mendicant has attained the textual
+analysis of meaning, text, terminology, and eloquence, and they review
+the extent of their mind's freedom. A mendicant who has these five
+things will soon penetrate the unshakable."
+
+### N 5.96 Remembering What You've Learned  *Sutadharasutta* {#n-5.96-remembering-what-youve-learned-sutadharasutta .unnumbered}
+
+"Mendicants, a mendicant cultivating mindfulness of breathing who has
+five things will soon penetrate the unshakable. What five?
+
+It's when a mendicant has few requirements and duties, and is
+unburdensome and contented with life's necessities.
+
+They eat little, not devoted to filling their stomach.
+
+They are rarely drowsy, and are dedicated to wakefulness.
+
+They're very learned, remembering and keeping what they've learned.
+These teachings are good in the beginning, good in the middle, and good
+in the end, meaningful and well-phrased, describing a spiritual practice
+that's entirely full and pure. They are very learned in such teachings,
+remembering them, rehearsing them, mentally scrutinizing them, and
+comprehending them theoretically.
+
+They review the extent of their mind's freedom.
+
+A mendicant cultivating mindfulness of breathing who has these five
+things will soon penetrate the unshakable."
+
+### N 5.97 Talk  *Kathāsutta* {#n-5.97-talk-kathāsutta .unnumbered}
+
+"Mendicants, a mendicant developing mindfulness of breathing who has
+five things will soon penetrate the unshakable. What five?
+
+It's when a mendicant has few requirements and duties, and is
+unburdensome and contented with life's necessities.
+
+They eat little, not devoted to filling their stomach.
+
+They are rarely drowsy, and are dedicated to wakefulness.
+
+They get to take part in talk about self-effacement that helps open the
+heart, when they want, without trouble or difficulty. That is, talk
+about fewness of wishes, contentment, seclusion, keeping your distance,
+arousing energy, ethics, immersion, wisdom, freedom, and the knowledge
+and vision of freedom.
+
+They review the extent of their mind's freedom.
+
+A mendicant developing mindfulness of breathing who has these five
+things will soon penetrate the unshakable."
+
+### N 5.98 In the Wilderness  *Āraññakasutta* {#n-5.98-in-the-wilderness-āraññakasutta .unnumbered}
+
+"Mendicants, a mendicant practicing mindfulness of breathing who has
+five things will soon penetrate the unshakable. What five? It's when a
+mendicant has few requirements and duties, and is unburdensome and
+contented with life's necessities. They eat little, not devoted to
+filling their stomach. They are rarely drowsy, and are dedicated to
+wakefulness. They live in the wilderness, in remote lodgings. They
+review the extent of their mind's freedom. A mendicant practicing
+mindfulness of breathing who has these five things will soon penetrate
+the unshakable."
+
+### N 5.99 The Lion  *Sīhasutta* {#n-5.99-the-lion-sīhasutta .unnumbered}
+
+"Mendicants, towards evening the lion, king of beasts, emerges from his
+den, yawns, looks all around the four quarters, and roars his lion's
+roar three times. Then he sets out on the hunt. If he strikes an
+elephant, he does it carefully, not carelessly. If he strikes a buffalo
+... a cow ... a leopard ... or any smaller creatures---even a hare or a
+cat---he does it carefully, not carelessly. Why is that? Thinking: 'May
+I not lose my way.'
+
+'Lion' is a term for the Realized One, the perfected one, the fully
+awakened Buddha. When the Realized One teaches Dhamma to an assembly,
+this is his lion's roar. When the Realized One teaches the monks ...
+nuns ... laymen ... laywomen ... or ordinary people---even food-carriers
+and hunters---he teaches them carefully, not carelessly. Why is that?
+Because the Realized One has respect and reverence for the teaching."
+
+### N 5.100 With Kakudha  *Kakudhatherasutta* {#n-5.100-with-kakudha-kakudhatherasutta .unnumbered}
+
+[So I have heard.]{.smallcaps} At one time the Buddha was staying near
+[Kosambī]{lang="sa"}, in Ghosita's Monastery.
+
+At that time the Koliyan named Kakudha---Venerable
+[Mahāmoggallāna]{lang="sa"}'s supporter---had recently passed away and
+been reborn in a certain host of mind-made gods. He was reincarnated in
+a life-form that was two or three times the size of a Magadhan village
+with its fields. But with that life-form he didn't obstruct himself or
+others.
+
+Then the god Kakudha went up to Venerable [Mahāmoggallāna]{lang="sa"},
+bowed, stood to one side, and said to him, "Sir, this fixed desire arose
+in Devadatta: 'I shall lead the mendicant [Saṅgha]{lang="sa"}.' And as
+that thought arose, Devadatta lost that psychic power."
+
+That's what the god Kakudha said. Then he bowed and respectfully circled
+[Mahāmoggallāna]{lang="sa"}, keeping him on his right side, before
+vanishing right there.
+
+Then [Mahāmoggallāna]{lang="sa"} went up to the Buddha, bowed, sat down
+to one side, and told him what had happened.
+
+"But [Moggallāna]{lang="sa"}, did you comprehend the god Kakudha's mind,
+and know that everything he says is correct and not otherwise?"
+
+"Indeed I did, sir."
+
+"Mark these words, [Moggallāna]{lang="sa"}! Mark these words! Now that
+futile man Devadatta will expose himself by his own deeds.
+
+[Moggallāna]{lang="sa"}, there are these five teachers found in the
+world. What five?
+
+Firstly, some teacher with impure conduct claims: 'I am pure in ethics.
+My ethical conduct is pure, bright, uncorrupted.' But their disciples
+know: 'This teacher has impure ethical conduct, but claims to be
+ethically pure. They wouldn't like it if we were to tell the laypeople.
+And how could we treat them in a way that they don't like? But they
+consent to robes, almsfood, lodgings, and medicines and supplies for the
+sick. A person will be recognized by their own deeds.' The disciples of
+such a teacher cover up their teacher's conduct, and the teacher expects
+them to do so.
+
+Furthermore, some teacher with impure livelihood claims: 'I am pure in
+livelihood. My livelihood is pure, bright, uncorrupted.' But their
+disciples know: 'This teacher has impure livelihood, but claims to have
+pure livelihood. They wouldn't like it if we were to tell the laypeople.
+And how could we treat them in a way that they don't like? But they
+consent to robes, almsfood, lodgings, and medicines and supplies for the
+sick. A person will be recognized by their own deeds.' The disciples of
+such a teacher cover up their teacher's livelihood, and the teacher
+expects them to do so.
+
+Furthermore, some teacher with impure teaching claims: 'I am pure in
+teaching. My teaching is pure, bright, uncorrupted.' But their disciples
+know: 'This teacher has impure teaching, but claims to have pure
+teaching. They wouldn't like it if we were to tell the laypeople. And
+how could we treat them in a way that they don't like? But they consent
+to robes, almsfood, lodgings, and medicines and supplies for the sick. A
+person will be recognized by their own deeds.' The disciples of such a
+teacher cover up their teacher's teaching, and the teacher expects them
+to do so.
+
+Furthermore, some teacher with impure answers claims: 'I am pure in how
+I answer. My answers are pure, bright, uncorrupted.' But their disciples
+know: 'This teacher has impure answers, but claims to have pure answers.
+They wouldn't like it if we were to tell the laypeople. And how could we
+treat them in a way that they don't like? But they consent to robes,
+almsfood, lodgings, and medicines and supplies for the sick. A person
+will be recognized by their own deeds.' The disciples of such a teacher
+cover up their teacher's answers, and the teacher expects them to do so.
+
+Furthermore, some teacher with impure knowledge and vision claims: 'I am
+pure in knowledge and vision. My knowledge and vision are pure, bright,
+uncorrupted.' But their disciples know: 'This teacher has impure
+knowledge and vision, but claims to have pure knowledge and vision. They
+wouldn't like it if we were to tell the laypeople. And how could we
+treat them in a way that they don't like? But they consent to robes,
+almsfood, lodgings, and medicines and supplies for the sick. A person
+will be recognized by their own deeds.' The disciples of such a teacher
+cover up their teacher's knowledge and vision, and the teacher expects
+them to do so. These are the five teachers found in the world.
+
+But [Moggallāna]{lang="sa"}, I have pure ethical conduct, and I claim:
+'I am pure in ethical conduct. My ethical conduct is pure, bright,
+uncorrupted.' My disciples don't cover up my conduct, and I don't expect
+them to. I have pure livelihood, and I claim: 'I am pure in livelihood.
+My livelihood is pure, bright, uncorrupted.' My disciples don't cover up
+my livelihood, and I don't expect them to. I have pure teaching, and I
+claim: 'I am pure in teaching. My teaching is pure, bright,
+uncorrupted.' My disciples don't cover up my teaching, and I don't
+expect them to. I have pure answers, and I claim: 'I am pure in how I
+answer. My answers are pure, bright, uncorrupted.' My disciples don't
+cover up my answers, and I don't expect them to. I have pure knowledge
+and vision, and I claim: 'I am pure in knowledge and vision. My
+knowledge and vision are pure, bright, uncorrupted.' My disciples don't
+cover up my knowledge and vision, and I don't expect them to."
+
+::: center
+*[the third fifty]{.smallcaps}*
+:::
+
+## The Chapter on Living Comfortably  {#the-chapter-on-living-comfortably .unnumbered}
+
+### N 5.101 Assurance  *Sārajjasutta* {#n-5.101-assurance-sārajjasutta .unnumbered}
+
+"Mendicants, these five qualities make a trainee assured. What five?
+It's when a mendicant is faithful, ethical, learned, energetic, and
+wise.
+
+A person of faith doesn't have the insecurities of someone who lacks
+faith. So this quality makes a trainee assured.
+
+An ethical person doesn't have the insecurities of someone who is
+unethical. So this quality makes a trainee assured.
+
+A learned person doesn't have the insecurities of a person of little
+learning. So this quality makes a trainee assured.
+
+An energetic person doesn't have the insecurities of a lazy person. So
+this quality makes a trainee assured.
+
+A wise person doesn't have the insecurities of someone who is witless.
+So this quality makes a trainee assured.
+
+These are the five qualities that make a trainee assured."
+
+### N 5.102 Suspected  *Ussaṅkitasutta* {#n-5.102-suspected-ussaṅkitasutta .unnumbered}
+
+"Mendicants, even if a monk is of impeccable character, he might be
+suspected and distrusted as a 'bad monk' for five reasons.
+
+What five? It's when a monk resorts to prostitutes, widows, voluptuous
+girls, eunuchs, or nuns for alms.
+
+Even if a monk is of impeccable character, he might be suspected and
+distrusted as a 'bad monk' for these five reasons."
+
+### N 5.103 A Master Thief  *Mahācorasutta* {#n-5.103-a-master-thief-mahācorasutta .unnumbered}
+
+"Mendicants, a master thief with five factors breaks into houses,
+plunders wealth, steals from isolated buildings, and commits highway
+robbery. What five? A master thief relies on rough ground, on thick
+cover, and on powerful individuals; they pay bribes, and they act alone.
+
+And how does a master thief rely on rough ground? It's when a master
+thief relies on inaccessible riverlands or rugged mountains. That's how
+a master thief relies on rough ground.
+
+And how does a master thief rely on thick cover? It's when a master
+thief relies on thick grass, thick trees, a blind spot, or a large
+forest grove. That's how a master thief relies on thick cover.
+
+And how does a master thief rely on powerful individuals? It's when a
+master thief relies on rulers or their chief ministers. They think: 'If
+anyone accuses me of anything, these rulers or their chief ministers
+will speak in my defense in the case.' And that's exactly what happens.
+That's how a master thief relies on powerful individuals.
+
+And how does a master thief pay bribes? It's when a master thief is
+rich, affluent, and wealthy. They think: 'If anyone accuses me of
+anything, I'll settle it with a bribe.' And that's exactly what happens.
+That's how a master thief pays bribes.
+
+And how does a master thief act alone? It's when a master thief carries
+out robbery all alone. Why is that? So that their secret plans are not
+leaked to others. That's how a master thief acts alone.
+
+A master thief with these five factors breaks into houses, plunders
+wealth, steals from isolated buildings, and commits highway robbery.
+
+In the same way, when a bad mendicant has five qualities, they keep
+themselves broken and damaged. They deserve to be blamed and criticized
+by sensible people, and they create much wickedness. What five? A bad
+mendicant relies on rough ground, on thick cover, and on powerful
+individuals; they pay bribes, and they act alone.
+
+And how does a bad mendicant rely on rough ground? It's when a bad
+mendicant has unethical conduct by way of body, speech, and mind. That's
+how a bad mendicant relies on rough ground.
+
+And how does a bad mendicant rely on thick cover? It's when a bad
+mendicant has wrong view, he's attached to an extremist view. That's how
+a bad mendicant relies on thick cover.
+
+And how does a bad mendicant rely on powerful individuals? It's when a
+bad mendicant relies on rulers or their chief ministers. They think: 'If
+anyone accuses me of anything, these rulers or their chief ministers
+will speak in my defense in the case.' And that's exactly what happens.
+That's how a bad mendicant relies on powerful individuals.
+
+And how does a bad mendicant pay bribes? It's when a bad mendicant
+receives robes, almsfood, lodgings, and medicines and supplies for the
+sick. They think: 'If anyone accuses me of anything, I'll settle it with
+a bribe.' And that's exactly what happens. That's how a bad mendicant
+pays bribes.
+
+And how does a bad mendicant act alone? It's when a bad mendicant dwells
+alone in the borderlands. They visit families there to acquire material
+things. That's how a bad mendicant acts alone.
+
+When a bad mendicant has these five qualities, they keep themselves
+broken and damaged. They deserve to be blamed and criticized by sensible
+people, and they create much wickedness."
+
+### N 5.104 An Exquisite Ascetic of Ascetics  *Samaṇasukhumālasutta* {#n-5.104-an-exquisite-ascetic-of-ascetics-samaṇasukhumālasutta .unnumbered}
+
+"Mendicants, a mendicant with five qualities is an exquisite ascetic of
+ascetics.
+
+What five?
+
+It's when a mendicant usually uses only what they've been invited to
+accept---robes, almsfood, lodgings, and medicines and supplies for the
+sick---rarely using them without invitation.
+
+When living with other spiritual practitioners, they usually find
+themselves treated agreeably by them by way of body, speech, and mind,
+and rarely disagreeably. And they are usually presented with agreeable
+things by them, rarely with disagreeable ones.
+
+They're healthy, so the various unpleasant feelings---stemming from
+disorders of bile, phlegm, wind, or their conjunction; or caused by
+change in weather, by not taking care of themselves, by overexertion, or
+as the result of past deeds---usually don't come up.
+
+They get the four absorptions---blissful meditations in this life that
+belong to the higher mind---when they want, without trouble or
+difficulty.
+
+And they realize the undefiled freedom of heart and freedom by wisdom in
+this very life. And they live having realized it with their own insight
+due to the ending of defilements.
+
+A mendicant with these five qualities is an exquisite ascetic of
+ascetics.
+
+And if anyone should be rightly called an exquisite ascetic of ascetics,
+it's me. For I usually use only what I've been invited to accept. When
+living with other mendicants, I am usually treated agreeably by them.
+And I usually present them with agreeable things. I'm healthy. I get the
+four absorptions when I want, without trouble or difficulty. And I've
+realized the undefiled freedom of heart and freedom by wisdom in this
+very life. So if anyone should be rightly called an exquisite ascetic of
+ascetics, it's me."
+
+### N 5.105 Living Comfortably  *Phāsuvihārasutta* {#n-5.105-living-comfortably-phāsuvihārasutta .unnumbered}
+
+"Mendicants, there are these five ways of living comfortably. What five?
+
+It's when a mendicant consistently treats their spiritual companions
+with kindness by way of body, speech, and mind, both in public and in
+private.
+
+They live according to the precepts shared with their spiritual
+companions, both in public and in private. Those precepts are intact,
+impeccable, spotless, and unmarred, liberating, praised by sensible
+people, not mistaken, and leading to immersion.
+
+They live according to the view shared with their spiritual companions,
+both in public and in private. That view is noble and emancipating, and
+brings one who practices it to the complete ending of suffering.
+
+These are the five ways of living comfortably."
+
+### N 5.106 With Ānanda  *Ānandasutta* {#n-5.106-with-ānanda-ānandasutta .unnumbered}
+
+At one time the Buddha was staying near [Kosambī]{lang="sa"}, in
+Ghosita's Monastery.
+
+Then Venerable Ānanda went up to the Buddha, bowed, sat down to one
+side, and said to him, "Sir, how could a mendicant live comfortably
+while staying in a monastic community?"
+
+"It's when a mendicant is accomplished in their own ethical conduct, but
+they don't urge others to be ethical. That's how a mendicant could live
+comfortably while staying in a monastic community."
+
+"But sir, could there be another way for a mendicant to live comfortably
+while staying in a monastic community?"
+
+"There could, Ānanda. It's when a mendicant is accomplished in their own
+ethical conduct, but they don't urge others to be ethical. And they
+watch themselves, but don't watch others. That's how a mendicant could
+live comfortably while staying in a monastic community."
+
+"But sir, could there be another way for a mendicant to live comfortably
+while staying in a monastic community?"
+
+"There could, Ānanda. It's when a mendicant is accomplished in their own
+ethical conduct, but they don't urge others to be ethical. And they
+watch themselves, but don't watch others. And they're not well-known,
+but aren't bothered by that. That's how a mendicant could live
+comfortably while staying in a monastic community."
+
+"But sir, could there be another way for a mendicant to live comfortably
+while staying in a monastic community?"
+
+"There could, Ānanda. It's when a mendicant is accomplished in their own
+ethical conduct, but they don't urge others to be ethical. And they
+watch themselves, but don't watch others. And they're not well-known,
+but aren't bothered by that. And they get the four
+absorptions---blissful meditations in this life that belong to the
+higher mind---when they want, without trouble or difficulty. That's how
+a mendicant could live comfortably while staying in a monastic
+community."
+
+"But sir, might there be another way for a mendicant to live comfortably
+while staying in a monastic community?"
+
+"There could, Ānanda. It's when a mendicant is accomplished in their own
+ethical conduct, but they don't urge others to be ethical. And they
+watch themselves, but don't watch others. And they're not well-known,
+but aren't bothered by that. And they get the four
+absorptions---blissful meditations in this life that belong to the
+higher mind---when they want, without trouble or difficulty. And they
+realize the undefiled freedom of heart and freedom by wisdom in this
+very life. And they live having realized it with their own insight due
+to the ending of defilements. That's how a mendicant could live
+comfortably while staying in a monastic community.
+
+And I say that there is no better or finer way of living comfortably
+than this."
+
+### N 5.107 Ethics  *Sīlasutta* {#n-5.107-ethics-sīlasutta .unnumbered}
+
+"Mendicants, a mendicant with five qualities is worthy of offerings
+dedicated to the gods, worthy of hospitality, worthy of a religious
+donation, worthy of veneration with joined palms, and is the supreme
+field of merit for the world.
+
+What five? It's when a mendicant is accomplished in ethics, immersion,
+wisdom, freedom, and the knowledge and vision of freedom.
+
+A mendicant with these five qualities is worthy of offerings dedicated
+to the gods, worthy of hospitality, worthy of a religious donation,
+worthy of veneration with joined palms, and is the supreme field of
+merit for the world."
+
+### N 5.108 An adept  *Asekhasutta* {#n-5.108-an-adept-asekhasutta .unnumbered}
+
+"Mendicants, a mendicant with five qualities is worthy of offerings
+dedicated to the gods, worthy of hospitality, worthy of a religious
+donation, worthy of veneration with joined palms, and is the supreme
+field of merit for the world.
+
+What five? It's when they have the entire spectrum of the adept's
+ethics, immersion, wisdom, freedom, and knowledge and vision of freedom.
+A mendicant with these five qualities ... is the supreme field of merit
+for the world."
+
+### N 5.109 All Four Quarters  *Cātuddisasutta* {#n-5.109-all-four-quarters-cātuddisasutta .unnumbered}
+
+"Mendicants, a mendicant with five qualities is at ease in any quarter.
+What five?
+
+It's when mendicant is ethical, restrained in the monastic code,
+conducting themselves well and resorting for alms in suitable places.
+Seeing danger in the slightest fault, they keep the rules they've
+undertaken.
+
+They're very learned, remembering and keeping what they've learned.
+These teachings are good in the beginning, good in the middle, and good
+in the end, meaningful and well-phrased, describing a spiritual practice
+that's entirely full and pure. They are very learned in such teachings,
+remembering them, rehearsing them, mentally scrutinizing them, and
+comprehending them theoretically.
+
+They're content with any kind of robes, almsfood, lodgings, and
+medicines and supplies for the sick.
+
+They get the four absorptions---blissful meditations in this life that
+belong to the higher mind---when they want, without trouble or
+difficulty.
+
+They realize the undefiled freedom of heart and freedom by wisdom in
+this very life. And they live having realized it with their own insight
+due to the ending of defilements.
+
+A mendicant with these five qualities is at ease in any quarter."
+
+### N 5.110 Wilderness  *Araññasutta* {#n-5.110-wilderness-araññasutta .unnumbered}
+
+"Mendicants, when a mendicant has five qualities they're ready to
+frequent remote lodgings in the wilderness and the forest. What five?
+
+It's when a mendicant is ethical, restrained in the monastic code,
+conducting themselves well and resorting for alms in suitable places.
+Seeing danger in the slightest fault, they keep the rules they've
+undertaken.
+
+They're very learned, remembering and keeping what they've learned.
+These teachings are good in the beginning, good in the middle, and good
+in the end, meaningful and well-phrased, describing a spiritual practice
+that's totally full and pure. They are very learned in such teachings,
+remembering them, reciting them, mentally scrutinizing them, and
+comprehending them theoretically.
+
+They live with energy roused up. They're strong, staunchly vigorous, not
+slacking off when it comes to developing skillful qualities.
+
+They get the four absorptions---blissful meditations in this life that
+belong to the higher mind---when they want, without trouble or
+difficulty.
+
+They realize the undefiled freedom of heart and freedom by wisdom in
+this very life. And they live having realized it with their own insight
+due to the ending of defilements.
+
+When a mendicant has these five qualities they're ready to frequent
+remote lodgings in the wilderness and the forest."
+
+## The Chapter at Andhakavinda  {#the-chapter-at-andhakavinda .unnumbered}
+
+### N 5.111 Visiting Families  *Kulūpakasutta* {#n-5.111-visiting-families-kulūpakasutta .unnumbered}
+
+"Mendicants, a mendicant with five qualities who visits families is
+unlikable and disagreeable, not respected or admired. What five? They
+act as though they're close to people they hardly know. They give away
+things they don't own. They over-associate with close friends. They
+whisper in the ear. And they ask for too much. A mendicant with these
+five qualities who visits families is unlikable and disagreeable, not
+respected or admired.
+
+A mendicant with five qualities who visits families is dear and beloved,
+respected and admired. What five? They don't act as though they're close
+to people they hardly know. They don't give away things they don't own.
+They don't over-associate with close friends. They don't whisper in the
+ear. And they don't ask for too much. A mendicant with these five
+qualities who visits families is dear and beloved, respected and
+admired."
+
+### N 5.112 An Ascetic to Follow Behind on Almsround  *Pacchāsamaṇasutta* {#n-5.112-an-ascetic-to-follow-behind-on-almsround-pacchāsamaṇasutta .unnumbered}
+
+"Mendicants, you shouldn't take an ascetic with five qualities to follow
+behind on almsround. What five? They walk too far away or too close
+behind. They don't take your bowl when it's full. They don't warn you
+when your speech is bordering on an offense. They keep on interrupting
+while you're speaking. And they're witless, dull, and idiotic. You
+shouldn't take an ascetic with these five qualities to follow behind on
+almsround.
+
+You should take an ascetic with five qualities to follow behind on
+almsround. What five? They don't walk too far away or too close behind.
+They take your bowl when it is full. They warn you when your speech is
+bordering on an offense. They don't interrupt while you're speaking. And
+they're wise, bright, and clever. You should take an ascetic with these
+five qualities to follow behind on almsround."
+
+### N 5.113 Right Immersion  *Sammāsamādhisutta* {#n-5.113-right-immersion-sammāsamādhisutta .unnumbered}
+
+"Mendicants, a mendicant who has five qualities can't enter and remain
+in right immersion. What five? It's when a mendicant can't endure
+sights, sounds, smells, tastes, and touches. A mendicant who has these
+five qualities can't enter and remain in right immersion.
+
+A mendicant who has five qualities can enter and remain in right
+immersion. What five? It's when a mendicant can endure sights, sounds,
+smells, tastes, and touches. A mendicant who has these five qualities
+can enter and remain in right immersion."
+
+### N 5.114 At Andhakavinda  *Andhakavindasutta* {#n-5.114-at-andhakavinda-andhakavindasutta .unnumbered}
+
+At one time the Buddha was staying in the land of the Magadhans at
+Andhakavinda. Then Venerable Ānanda went up to the Buddha, bowed, and
+sat down to one side. The Buddha said to him:
+
+"Ānanda, those mendicants who are junior, recently gone forth, newly
+come to this teaching and training should be encouraged, supported, and
+established in five things. What five?
+
+They should be encouraged, supported, and established in restraint in
+the monastic code: 'Reverends, please be ethical. Live restrained in the
+monastic code, conducting yourselves well and resorting for alms in
+suitable places. Seeing danger in the slightest fault, keep the rules
+you've undertaken.'
+
+They should be encouraged, supported, and established in sense
+restraint: 'Reverends, please live with sense doors guarded, mindfully
+alert and on guard, with protected mind, having a heart protected by
+mindfulness.'
+
+They should be encouraged, supported, and established in limiting their
+speech: 'Reverends, please speak little. Put a limit on your speech.'
+
+They should be encouraged, supported, and established in retreat:
+'Reverends, please live in the wilderness. Frequent remote lodgings in
+the wilderness and the forest.'
+
+They should be encouraged, supported, and established in right
+perspective: 'Reverends, please hold right view and have right
+perspective.'
+
+Those mendicants who are junior, recently gone forth, newly come to this
+teaching and training should be encouraged, supported, and established
+in these five things."
+
+### N 5.115 Stingy  *Maccharinīsutta* {#n-5.115-stingy-maccharinīsutta .unnumbered}
+
+"Mendicants, a nun with five qualities is cast down to hell. What five?
+She is stingy with dwellings, families, material things, praise, and the
+teaching. A nun with these five qualities is cast down to hell.
+
+A nun with five qualities is raised up to heaven. What five? She is not
+stingy with dwellings, families, material things, praise, or the
+teaching. A nun with these five qualities is raised up to heaven."
+
+### N 5.116 Praise  *Vaṇṇanāsutta* {#n-5.116-praise-vaṇṇanāsutta .unnumbered}
+
+"Mendicants, a nun with five qualities is cast down to hell. What five?
+Without examining or scrutinizing, she praises those deserving of
+criticism, and criticizes those deserving of praise. She arouses faith
+in things that are dubious, and doesn't arouse faith in things that are
+inspiring. And she wastes gifts given in faith. A nun with these five
+qualities is cast down to hell.
+
+A nun with five qualities is raised up to heaven. What five? After
+examining and scrutinizing, she criticizes those deserving of criticism,
+and praises those deserving of praise. She doesn't arouse faith in
+things that are dubious, and does arouse faith in things that are
+inspiring. And she doesn't waste gifts given in faith. A nun with these
+five qualities is raised up to heaven."
+
+### N 5.117 Jealous  *Issukinīsutta* {#n-5.117-jealous-issukinīsutta .unnumbered}
+
+"Mendicants, a nun with five qualities is cast down to hell. What five?
+Without examining or scrutinizing, she praises those deserving of
+criticism, and criticizes those deserving of praise. She is jealous,
+stingy, and wastes gifts given in faith. A nun with these five qualities
+is cast down to hell.
+
+A nun with five qualities is raised up to heaven. What five? After
+examining and scrutinizing, she criticizes those deserving of criticism,
+and praises those deserving of praise. She is not jealous, or stingy,
+and doesn't waste gifts given in faith. A nun with these five qualities
+is raised up to heaven."
+
+### N 5.118 Having Wrong View  *Micchādiṭṭhikasutta* {#n-5.118-having-wrong-view-micchādiṭṭhikasutta .unnumbered}
+
+"Mendicants, a nun with five qualities is cast down to hell. What five?
+Without examining or scrutinizing, she praises those deserving of
+criticism, and criticizes those deserving of praise. She has wrong view
+and wrong thought, and wastes gifts given in faith. A nun with these
+five qualities is cast down to hell.
+
+A nun with five qualities is raised up to heaven. What five? After
+examining and scrutinizing, she criticizes those deserving of criticism,
+and praises those deserving of praise. She has right view and right
+thought, and doesn't waste gifts given in faith. A nun with these five
+qualities is raised up to heaven."
+
+### N 5.119 Wrong Speech  *Micchāvācāsutta* {#n-5.119-wrong-speech-micchāvācāsutta .unnumbered}
+
+"Mendicants, a nun with five qualities is cast down to hell. What five?
+Without examining or scrutinizing, she praises those deserving of
+criticism, and criticizes those deserving of praise. She has wrong
+speech and wrong action, and wastes gifts given in faith. A nun with
+these five qualities is cast down to hell.
+
+A nun with five qualities is raised up to heaven. What five? After
+examining and scrutinizing, she criticizes those deserving of criticism,
+and praises those deserving of praise. She has right speech and right
+action, and doesn't waste gifts given in faith. A nun with these five
+qualities is raised up to heaven."
+
+### N 5.120 Wrong Effort  *Micchāvāyāmasutta* {#n-5.120-wrong-effort-micchāvāyāmasutta .unnumbered}
+
+"Mendicants, a nun with five qualities is cast down to hell. What five?
+Without examining or scrutinizing, she praises those deserving of
+criticism, and criticizes those deserving of praise. She has wrong
+effort and wrong mindfulness, and wastes gifts given in faith. A nun
+with these five qualities is cast down to hell.
+
+A nun with five qualities is raised up to heaven. What five? After
+examining and scrutinizing, she criticizes those deserving of criticism,
+and praises those deserving of praise. She has right effort and right
+mindfulness, and doesn't waste gifts given in faith. A nun with these
+five qualities is raised up to heaven."
+
+## The Chapter on Sick  {#the-chapter-on-sick .unnumbered}
+
+### N 5.121 Sick  *Gilānasutta* {#n-5.121-sick-gilānasutta .unnumbered}
+
+At one time the Buddha was staying near [Vesālī]{lang="sa"}, at the
+Great Wood, in the hall with the peaked roof. Then in the late
+afternoon, the Buddha came out of retreat and went to the infirmary,
+where he saw a certain mendicant who was weak and sick. He sat down on
+the seat spread out, and addressed the mendicants:
+
+"Mendicants, if a weak and sick mendicant does not neglect five things,
+it can be expected that they will soon realize the undefiled freedom of
+heart and freedom by wisdom in this very life, and live having realized
+it with their own insight due to the ending of defilements.
+
+What five? It's when a mendicant meditates observing the ugliness of the
+body, perceives the repulsiveness of food, perceives dissatisfaction
+with the whole world, observes the impermanence of all conditions, and
+has well established the perception of their own death. If a weak and
+sick mendicant does not neglect these five things, it can be expected
+that they will soon realize the undefiled freedom of heart and freedom
+by wisdom in this very life, and live having realized it with their own
+insight due to the ending of defilements."
+
+### N 5.122 Mindfulness Well Established  *Satisūpaṭṭhitasutta* {#n-5.122-mindfulness-well-established-satisūpaṭṭhitasutta .unnumbered}
+
+"Mendicants, any monk or nun who develops and cultivates five qualities
+can expect one of two results: enlightenment in this very life, or if
+there's something left over, non-return.
+
+What five? It's when a mendicant has well established mindfulness inside
+themselves in order to understand the arising and passing away of
+phenomena, meditates observing the ugliness of the body, perceives the
+repulsiveness of food, perceives dissatisfaction with the whole world,
+and observes the impermanence of all conditions. Any monk or nun who
+develops and cultivates these five qualities can expect one of two
+results: enlightenment in this very life, or if there's something left
+over, non-return."
+
+### N 5.123 A Carer (1st)  *Paṭhamaupaṭṭhākasutta* {#n-5.123-a-carer-1st-paṭhamaupaṭṭhākasutta .unnumbered}
+
+"Mendicants, a patient with five qualities is hard to care for. What
+five? They do what is unsuitable. They don't know moderation in what is
+suitable. They don't take their medicine. Though their carer wants
+what's best for them, they don't accurately report their symptoms by
+saying when they're getting worse, getting better, or staying the same.
+And they cannot endure physical pain---sharp, severe, acute, unpleasant,
+disagreeable, and life-threatening. A patient with these five qualities
+is hard to care for.
+
+A patient with five qualities is easy to care for. What five? They do
+what is suitable. They know moderation in what is suitable. They take
+their medicine. Because their carer wants what's best for them, they
+accurately report their symptoms by saying when they're getting worse,
+getting better, or staying the same. And they can endure physical
+pain---sharp, severe, acute, unpleasant, disagreeable, and
+life-threatening. A patient with these five qualities is easy to care
+for."
+
+### N 5.124 A Carer (2nd)  *Dutiyaupaṭṭhākasutta* {#n-5.124-a-carer-2nd-dutiyaupaṭṭhākasutta .unnumbered}
+
+"Mendicants, a carer with five qualities is not competent to care for a
+patient. What five? They're unable to prepare medicine. They don't know
+what is suitable and unsuitable, so they supply what is unsuitable and
+remove what is suitable. They care for the sick for the sake of material
+benefits, not out of love. They're disgusted to remove feces, urine,
+vomit, or spit. They're unable to educate, encourage, fire up, and
+inspire the patient with a Dhamma talk from time to time. A carer with
+these five qualities is not competent to care for a patient.
+
+A carer with five qualities is competent to care for a patient. What
+five? They're able to prepare medicine. They know what is suitable and
+unsuitable, so they remove what is unsuitable and supply what is
+suitable. They care for the sick out of love, not for the sake of
+material benefits. They're not disgusted to remove feces, urine, vomit,
+or spit. They're able to educate, encourage, fire up, and inspire the
+patient with a Dhamma talk from time to time. A carer with these five
+qualities is competent to care for a patient."
+
+### N 5.125 Longevity (1st)  *Paṭhamaanāyussāsutta* {#n-5.125-longevity-1st-paṭhamaanāyussāsutta .unnumbered}
+
+"Mendicants, these five things impede longevity. What five? Doing what
+is unsuitable, not knowing moderation in what is suitable, eating food
+unfit for consumption, activity at unsuitable times, and unchastity.
+These are the five things that impede longevity.
+
+These five things promote longevity. What five? Doing what is suitable,
+knowing moderation in what is suitable, eating food fit for consumption,
+activity at suitable times, and celibacy. These are the five things that
+promote longevity."
+
+### N 5.126 Longevity (2nd)  *Dutiyaanāyussāsutta* {#n-5.126-longevity-2nd-dutiyaanāyussāsutta .unnumbered}
+
+"Mendicants, these five things impede longevity. What five? Doing what
+is unsuitable, not knowing moderation in what is suitable, eating food
+unfit for consumption, unethical behavior, and bad friends. These are
+the five things that impede longevity.
+
+These five things promote longevity. What five? Doing what is suitable,
+knowing moderation in what is suitable, eating food fit for consumption,
+ethical conduct, and good friends. These are the five things that
+promote longevity."
+
+### N 5.127 Living Apart  *Vapakāsasutta* {#n-5.127-living-apart-vapakāsasutta .unnumbered}
+
+"Mendicants, a mendicant with five qualities is not fit to live apart
+from a [Saṅgha]{lang="sa"} community. What five? It's when a mendicant
+is not content with any kind of robe, almsfood, lodging, and medicines
+and supplies for the sick. And they have a lot of sensual thoughts. A
+mendicant with these five qualities is not fit to live apart from a
+[Saṅgha]{lang="sa"} community.
+
+A mendicant with five qualities is fit to live apart from a
+[Saṅgha]{lang="sa"} community. What five? It's when a mendicant is
+content with any kind of robe, almsfood, lodging, and medicines and
+supplies for the sick. And they think a lot about renunciation. A
+mendicant with these five qualities is fit to live apart from a
+[Saṅgha]{lang="sa"} community."
+
+### N 5.128 An Ascetic's Happiness  *Samaṇasukhasutta* {#n-5.128-an-ascetics-happiness-samaṇasukhasutta .unnumbered}
+
+"Mendicants, there are these five kinds of suffering for an ascetic.
+What five? It's when a mendicant is not content with any kind of robe,
+almsfood, lodging, and medicines and supplies for the sick. And they
+lead the spiritual life dissatisfied. These are five kinds of suffering
+for an ascetic.
+
+There are these five kinds of happiness for an ascetic. What five? It's
+when a mendicant is content with any kind of robe, almsfood, lodging,
+and medicines and supplies for the sick. And they lead the spiritual
+life satisfied. These are five kinds of happiness for an ascetic."
+
+### N 5.129 Fatal Wounds  *Parikuppasutta* {#n-5.129-fatal-wounds-parikuppasutta .unnumbered}
+
+"Mendicants, these five fatal wounds lead to a place of loss, to hell.
+What five? Murdering your mother or father or a perfected one;
+maliciously shedding the blood of a Realized One; and causing a schism
+in the [Saṅgha]{lang="sa"}. These five fatal wounds lead to a place of
+loss, to hell."
+
+### N 5.130 Loss  *Byasanasutta* {#n-5.130-loss-byasanasutta .unnumbered}
+
+"Mendicants, there are these five losses. What five? Loss of relatives,
+wealth, health, ethics, and view. It is not because of loss of
+relatives, wealth, or health that sentient beings, when their body
+breaks up, after death, are reborn in a place of loss, a bad place, the
+underworld, hell. It is because of loss of ethics or view that sentient
+beings, when their body breaks up, after death, are reborn in a place of
+loss, a bad place, the underworld, hell. These are the five losses.
+
+There are these five endowments. What five? Endowment with relatives,
+wealth, health, ethics, and view. It is not because of endowment with
+relatives, wealth, or health that sentient beings, when their body
+breaks up, after death, are reborn in a good place, a heavenly realm. It
+is because of endowment with ethics or view that sentient beings, when
+their body breaks up, after death, are reborn in a good place, a
+heavenly realm. These are the five endowments."
+
+## The Chapter on Kings  {#the-chapter-on-kings .unnumbered}
+
+### N 5.131 Wielding Power (1st)  *Paṭhamacakkānuvattanasutta* {#n-5.131-wielding-power-1st-paṭhamacakkānuvattanasutta .unnumbered}
+
+"Mendicants, possessing five factors a wheel-turning monarch wields
+power only in a principled manner. And this power cannot be undermined
+by any human enemy.
+
+What five? A wheel-turning monarch knows what is right, knows principle,
+knows moderation, knows the right time, and knows the assembly. A
+wheel-turning monarch who possesses these five factors wields power only
+in a principled manner. And this power cannot be undermined by any human
+enemy.
+
+In the same way, possessing five qualities a Realized One, a perfected
+one, a fully awakened Buddha rolls forth the supreme Wheel of Dhamma
+only in a principled manner. And that wheel cannot be rolled back by any
+ascetic or brahmin or god or [Māra]{lang="sa"} or divinity or by anyone
+in the world.
+
+What five? A Realized One knows what is right, knows principle, knows
+moderation, knows the right time, and knows the assembly. Possessing
+these five qualities a Realized One, a perfected one, a fully awakened
+Buddha rolls forth the supreme Wheel of Dhamma only in a principled
+manner. And that wheel cannot be rolled back by any ascetic or brahmin
+or god or [Māra]{lang="sa"} or divinity or by anyone in the world."
+
+### N 5.132 Wielding Power (2nd)  *Dutiyacakkānuvattanasutta* {#n-5.132-wielding-power-2nd-dutiyacakkānuvattanasutta .unnumbered}
+
+"Mendicants, possessing five factors a wheel-turning monarch's eldest
+son continues to wield the power set in motion by his father only in a
+principled manner. And this power cannot be undermined by any human
+enemy.
+
+What five? A wheel-turning monarch's oldest son knows what is right,
+knows principle, knows moderation, knows the right time, and knows the
+assembly. A wheel-turning monarch's oldest son who possesses these five
+factors continues to wield the power set in motion by his father only in
+a principled manner. And this power cannot be undermined by any human
+enemy.
+
+In the same way, possessing five qualities [Sāriputta]{lang="sa"}
+rightly keeps rolling the supreme Wheel of Dhamma that was rolled forth
+by the Realized One. And that wheel cannot be turned back by any ascetic
+or brahmin or god or [Māra]{lang="sa"} or divinity or by anyone in the
+world.
+
+What five? [Sāriputta]{lang="sa"} knows what is right, knows principle,
+knows moderation, knows the right time, and knows the assembly.
+Possessing these five qualities [Sāriputta]{lang="sa"} rightly keeps
+rolling the supreme Wheel of Dhamma that was rolled forth by the
+Realized One. And that wheel cannot be turned back by any ascetic or
+brahmin or god or [Māra]{lang="sa"} or divinity or by anyone in the
+world."
+
+### N 5.133 A Principled King  *Dhammarājāsutta* {#n-5.133-a-principled-king-dhammarājāsutta .unnumbered}
+
+"Mendicants, even a wheel-turning monarch, a just and principled king,
+does not wield power without having their own king."
+
+When he said this, one of the mendicants asked the Buddha, "But who is
+the king of the wheel-turning monarch, the just and principled king?"
+
+"It is principle, monk," said the Buddha.
+
+"Monk, a wheel-turning monarch provides just protection and security for
+his court, relying only on principle---honoring, respecting, and
+venerating principle, having principle as his flag, banner, and
+authority.
+
+He provides just protection and security for his aristocrats, vassals,
+troops, brahmins and householders, people of town and country, ascetics
+and brahmins, beasts and birds. When he has done this, he wields power
+only in a principled manner. And this power cannot be undermined by any
+human enemy.
+
+In the same way, monk, a Realized One, a perfected one, a fully awakened
+Buddha, a just and principled king, provides just protection and
+security for the monks, relying only on principle---honoring,
+respecting, and venerating principle, having principle as his flag,
+banner, and authority. 'This kind of bodily action should be cultivated.
+This kind of bodily action should not be cultivated. This kind of verbal
+action should be cultivated. This kind of verbal action should not be
+cultivated. This kind of mental action should be cultivated. This kind
+of mental action should not be cultivated. This kind of livelihood
+should be cultivated. This kind of livelihood should not be cultivated.
+This kind of village or town should be cultivated. This kind of village
+or town should not be cultivated.'
+
+In the same way, monk, a Realized One, a perfected one, a fully awakened
+Buddha, a just and principled king, provides just protection and
+security for the nuns ... laymen ... laywomen, relying only on
+principle---honoring, respecting, and venerating principle, having
+principle as his flag, banner, and authority. 'This kind of bodily
+action should be cultivated. This kind of bodily action should not be
+cultivated. This kind of verbal action should be cultivated. This kind
+of verbal action should not be cultivated. This kind of mental action
+should be cultivated. This kind of mental action should not be
+cultivated. This kind of livelihood should be cultivated. This kind of
+livelihood should not be cultivated. This kind of village or town should
+be cultivated. This kind of village or town should not be cultivated.'
+
+When a Realized One, a perfected one, a fully awakened Buddha has
+provided just protection and security for the monks, nuns, laymen, and
+laywomen, he rolls forth the supreme Wheel of Dhamma only in a
+principled manner. And that wheel cannot be rolled back by any ascetic
+or brahmin or god or [Māra]{lang="sa"} or divinity or by anyone in the
+world."
+
+### N 5.134 In Whatever Region  *Yassaṁdisaṁsutta* {#n-5.134-in-whatever-region-yassaṁdisaṁsutta .unnumbered}
+
+"Mendicants, with five factors an anointed aristocratic king lives in
+his own realm, no matter what region he lives in.
+
+What five?
+
+An anointed aristocratic king is well born on both his mother's and
+father's side, of pure descent, with irrefutable and impeccable
+genealogy back to the seventh paternal generation.
+
+He is rich, affluent, and wealthy, with a full treasury and storehouses.
+
+He is powerful, having an army of four divisions that is obedient and
+carries out instructions.
+
+He has a commander who is astute, competent, and intelligent, able to
+think issues through as they bear upon the past, future, and present.
+
+These four things bring his glory to fruition.
+
+With these five qualities, including glory, an anointed aristocratic
+king lives in his own realm, no matter what direction he lives in. Why
+is that? Because that is how it is for victors.
+
+In the same way, a mendicant with five qualities lives with mind freed,
+no matter what region they live in. What five?
+
+It's when mendicant is ethical, restrained in the monastic code,
+conducting themselves well and resorting for alms in suitable places.
+Seeing danger in the slightest fault, they keep the rules they've
+undertaken. This is like the anointed aristocratic king's impeccable
+birth.
+
+They're very learned, remembering and keeping what they've learned.
+These teachings are good in the beginning, good in the middle, and good
+in the end, meaningful and well-phrased, describing a spiritual practice
+that's entirely full and pure. They are very learned in such teachings,
+remembering them, rehearsing them, mentally scrutinizing them, and
+comprehending them theoretically. This is like the anointed aristocratic
+king being rich, affluent, and wealthy, with full treasury and
+storehouses.
+
+They live with energy roused up for giving up unskillful qualities and
+embracing skillful qualities. They're strong, staunchly vigorous, not
+slacking off when it comes to developing skillful qualities. This is
+like the anointed aristocratic king having power.
+
+They're wise. They have the wisdom of arising and passing away which is
+noble, penetrative, and leads to the complete ending of suffering. This
+is like the anointed aristocratic king having a commander.
+
+These four qualities bring their freedom to fruition.
+
+With these five qualities, including freedom, they live in their own
+realm, no matter what region they live in. Why is that? Because that is
+how it is for those whose mind is free."
+
+### N 5.135 Aspiration (1st)  *Paṭhamapatthanāsutta* {#n-5.135-aspiration-1st-paṭhamapatthanāsutta .unnumbered}
+
+"Mendicants, an anointed aristocratic king's eldest son with five
+factors aspires to kingship. What five?
+
+It's when an anointed aristocratic king's eldest son is well born on
+both his mother's and father's side, of pure descent, with irrefutable
+and impeccable genealogy back to the seventh paternal generation.
+
+He is attractive, good-looking, lovely, of surpassing beauty.
+
+He is dear and beloved to his parents.
+
+He is dear and beloved to the people of town and country.
+
+He is trained and skilled in the arts of anointed aristocratic kings,
+such as elephant riding, horse riding, driving a chariot, archery, and
+swordsmanship.
+
+He thinks: 'I'm well born on both my mother's and father's side, of pure
+descent, with irrefutable and impeccable genealogy back to the seventh
+paternal generation. Why shouldn't I aspire to kingship? I'm attractive,
+good-looking, lovely, of surpassing beauty. Why shouldn't I aspire to
+kingship? I'm dear and beloved to my parents. Why shouldn't I aspire to
+kingship? I'm dear and beloved to the people of town and country. Why
+shouldn't I aspire to kingship? I'm trained and skilled in the arts of
+anointed aristocratic kings, such as elephant riding, horse riding,
+driving a chariot, archery, and swordsmanship. Why shouldn't I aspire to
+kingship?' An anointed aristocratic king's eldest son with these five
+factors aspires to kingship.
+
+In the same way, a mendicant with five qualities aspires to end the
+defilements. What five?
+
+It's when a mendicant has faith in the Realized One's awakening: 'That
+Blessed One is perfected, a fully awakened Buddha, accomplished in
+knowledge and conduct, holy, knower of the world, supreme guide for
+those who wish to train, teacher of gods and humans, awakened, blessed.'
+
+They are rarely ill or unwell. Their stomach digests well, being neither
+too hot nor too cold, but just right, and fit for meditation.
+
+They're not devious or deceitful. They reveal themselves honestly to the
+Teacher or sensible spiritual companions.
+
+They live with energy roused up for giving up unskillful qualities and
+embracing skillful qualities. They're strong, staunchly vigorous, not
+slacking off when it comes to developing skillful qualities.
+
+They're wise. They have the wisdom of arising and passing away which is
+noble, penetrative, and leads to the complete ending of suffering.
+
+They think: 'I am a person of faith; I have faith in the Realized One's
+awakening ... Why shouldn't I aspire to end the defilements? I'm rarely
+ill or unwell. My stomach digests well, being neither too hot nor too
+cold, but just right, and fit for meditation. Why shouldn't I aspire to
+end the defilements? I'm not devious or deceitful. I reveal myself
+honestly to the Teacher or sensible spiritual companions. Why shouldn't
+I aspire to end the defilements? I live with energy roused up for giving
+up unskillful qualities and embracing skillful qualities. I'm strong,
+staunchly vigorous, not slacking off when it comes to developing
+skillful qualities. Why shouldn't I aspire to end the defilements? I'm
+wise. I have the wisdom of arising and passing away which is noble,
+penetrative, and leads to the complete ending of suffering. Why
+shouldn't I aspire to end the defilements?'
+
+A mendicant with these five qualities aspires to end the defilements."
+
+### N 5.136 Aspiration (2nd)  *Dutiyapatthanāsutta* {#n-5.136-aspiration-2nd-dutiyapatthanāsutta .unnumbered}
+
+"Mendicants, an anointed aristocratic king's eldest son with five
+factors aspires to become a viceroy. What five?
+
+It's when an anointed aristocratic king's eldest son is well born on
+both his mother's and father's side, of pure descent, with irrefutable
+and impeccable genealogy back to the seventh paternal generation.
+
+He is attractive, good-looking, lovely, of surpassing beauty.
+
+He is dear and beloved to his parents.
+
+He is dear and beloved to the armed forces.
+
+He is astute, competent, and intelligent, able to think issues through
+as they bear upon the past, future, and present.
+
+He thinks: 'I'm well born ... attractive ... dear and beloved to my
+parents ... dear and beloved to the armed forces ... I'm astute,
+competent, and intelligent, able to think issues through as they bear
+upon the past, future, and present. Why shouldn't I aspire to become a
+viceroy?' An anointed aristocratic king's eldest son with these five
+factors aspires to become a viceroy.
+
+In the same way, a mendicant with five qualities aspires to end the
+defilements. What five?
+
+It's when a mendicant is ethical, restrained in the monastic code,
+conducting themselves well and resorting for alms in suitable places.
+Seeing danger in the slightest fault, they keep the rules they've
+undertaken.
+
+They're very learned, remembering and keeping what they've learned.
+These teachings are good in the beginning, good in the middle, and good
+in the end, meaningful and well-phrased, describing a spiritual practice
+that's totally full and pure. They are very learned in such teachings,
+remembering them, reciting them, mentally scrutinizing them, and
+comprehending them theoretically.
+
+Their mind is firmly established in the four kinds of mindfulness
+meditation.
+
+They live with energy roused up for giving up unskillful qualities and
+embracing skillful qualities. They're strong, staunchly vigorous, not
+slacking off when it comes to developing skillful qualities.
+
+They're wise. They have the wisdom of arising and passing away which is
+noble, penetrative, and leads to the complete ending of suffering.
+
+They think: 'I'm ethical ... learned ... mindful ... energetic ... wise.
+I have the wisdom of arising and passing away which is noble,
+penetrative, and leads to the complete ending of suffering. Why
+shouldn't I aspire to end the defilements?' A mendicant with these five
+qualities aspires to end the defilements."
+
+### N 5.137 Little Sleep  *Appaṁsupatisutta* {#n-5.137-little-sleep-appaṁsupatisutta .unnumbered}
+
+"Mendicants, these five sleep little at night, staying mostly awake.
+What five? A woman longing for a man. A man longing for a woman. A thief
+longing for their loot. A king busy with his duties. A mendicant longing
+for freedom from the yoke. These five sleep little at night, staying
+mostly awake."
+
+### N 5.138 Eating Food  *Bhattādakasutta* {#n-5.138-eating-food-bhattādakasutta .unnumbered}
+
+"Mendicants, a royal bull elephant with five factors eats food, takes up
+space, drops dung, and takes a ticket, yet is still considered to be a
+royal bull elephant. What five? It's when a royal bull elephant can't
+endure sights, sounds, smells, tastes, and touches. A royal bull
+elephant with these five factors eats food, takes up space, drops dung,
+and takes a ticket, yet is still considered to be a royal bull elephant.
+
+In the same way, a mendicant with five qualities eats food, takes up
+space, tramples beds and chairs, and takes a ticket, yet is still
+considered to be a mendicant. What five? It's when a mendicant can't
+endure sights, sounds, smells, tastes, and touches. A mendicant with
+these five qualities eats food, takes up space, tramples beds and
+chairs, and takes a ticket, yet is still considered to be a mendicant."
+
+### N 5.139 Cannot Endure  *Akkhamasutta* {#n-5.139-cannot-endure-akkhamasutta .unnumbered}
+
+"Mendicants, a royal bull elephant with five factors is not worthy of a
+king, not fit to serve a king, and is not considered a factor of
+kingship. What five? It's when a royal bull elephant can't endure
+sights, sounds, smells, tastes, and touches.
+
+And how is it that a royal bull elephant can't endure sights? It's when
+a royal bull elephant gone to battle falters and founders at the sight
+of a division of elephants, of cavalry, of chariots, or of infantry. It
+doesn't stay firm, and fails to plunge into battle. That's how a royal
+bull elephant can't endure sights.
+
+And how is it that a royal bull elephant can't endure sounds? It's when
+a royal bull elephant gone to battle falters and founders at the sound
+of a division of elephants, of cavalry, of chariots, or of infantry, or
+the thunder of the drums, kettledrums, horns, and cymbals. It doesn't
+stay firm, and fails to plunge into battle. That's how a royal bull
+elephant can't endure sounds.
+
+And how is it that a royal bull elephant can't endure smells? It's when
+a royal bull elephant gone to battle falters and founders when it smells
+the odor of the feces and urine of battle-hardened, pedigree royal bull
+elephants. It doesn't stay firm, and fails to plunge into battle. That's
+how a royal bull elephant can't endure smells.
+
+And how is it that a royal bull elephant can't endure tastes? It's when
+a royal bull elephant gone to battle falters and founders when it misses
+a meal of grass and water, or it misses two, three, four, or five meals.
+It doesn't stay firm, and fails to plunge into battle. That's how a
+royal bull elephant can't endure tastes.
+
+And how is it that a royal bull elephant can't endure touches? It's when
+a royal bull elephant gone to battle falters and founders when struck by
+a swift arrow, or by two, three, four, or five swift arrows. It doesn't
+stay firm, and fails to plunge into battle. That's how a royal bull
+elephant can't endure touches.
+
+A royal bull elephant with these five factors is not worthy of a king,
+not fit to serve a king, and is not considered a factor of kingship.
+
+In the same way, a mendicant with five qualities is not worthy of
+offerings dedicated to the gods, not worthy of hospitality, not worthy
+of a religious donation, not worthy of veneration with joined palms, and
+is not the supreme field of merit for the world. What five? It's when a
+mendicant can't endure sights, sounds, smells, tastes, and touches.
+
+And how is it that a mendicant can't endure sights? It's when a
+mendicant, seeing a sight with their eyes, is aroused by a desirable
+sight, so is not able to still the mind. That's how a mendicant can't
+endure sights.
+
+And how is it that a mendicant can't endure sounds? It's when a
+mendicant, hearing a sound with their ears, is aroused by a desirable
+sound, so is not able to still the mind. That's how a mendicant can't
+endure sounds.
+
+And how is it that a mendicant can't endure smells? It's when a
+mendicant, smelling an odor with their nose, is aroused by a desirable
+smell, so is not able to still the mind. That's how a mendicant can't
+endure smells.
+
+And how is it that a mendicant can't endure tastes? It's when a
+mendicant, tasting a flavor with their tongue, is aroused by desirable
+tastes, so is not able to still the mind. That's how a mendicant can't
+endure tastes.
+
+And how is it that a mendicant can't endure touches? It's when a
+mendicant, feeling a touch with their body, is aroused by a desirable
+touch, so is not able to still the mind. That's how a mendicant can't
+endure touches.
+
+A mendicant with these five qualities is not worthy of offerings
+dedicated to the gods, not worthy of hospitality, not worthy of a
+religious donation, not worthy of veneration with joined palms, and is
+not the supreme field of merit for the world.
+
+A royal bull elephant with five factors is worthy of a king, fit to
+serve a king, and is considered a factor of kingship. What five? It's
+when a royal bull elephant can endure sights, sounds, smells, tastes,
+and touches.
+
+And how is it that a royal bull elephant can endure sights? It's when a
+royal bull elephant gone to battle does not falter or founder at the
+sight of a division of elephants, of cavalry, of chariots, or of
+infantry. It stays firm, and plunges into battle. That's how a royal
+bull elephant can endure sights.
+
+And how is it that a royal bull elephant can endure sounds? It's when a
+royal bull elephant does not falter or founder at the sound of a
+division of elephants, of cavalry, of chariots, or of infantry, or the
+thunder of the drums, kettledrums, horns, and cymbals. It stays firm,
+and plunges into battle. That's how a royal bull elephant can endure
+sounds.
+
+And how is it that a royal bull elephant can endure smells? It's when a
+royal bull elephant gone to battle does not falter or founder when it
+smells the odor of the feces and urine of battle-hardened, pedigree
+royal bull elephants. It stays firm, and plunges into battle. That's how
+a royal bull elephant can endure smells.
+
+And how is it that a royal bull elephant can endure tastes? It's when a
+royal bull elephant gone to battle does not falter or founder when it
+misses a meal of grass and water, or it misses two, three, four, or five
+meals. It stays firm, and plunges into battle. That's how a royal bull
+elephant can endure tastes.
+
+And how is it that a royal bull elephant can endure touches? It's when a
+royal bull elephant gone to battle does not falter or founder when
+struck by a swift arrow, or by two, three, four, or five swift arrows.
+It stays firm, and plunges into battle. That's how a royal bull elephant
+can endure touches.
+
+A royal bull elephant with these five factors is worthy of a king, fit
+to serve a king, and is considered a factor of kingship.
+
+In the same way, a mendicant with five qualities is worthy of offerings
+dedicated to the gods, worthy of hospitality, worthy of a religious
+donation, worthy of veneration with joined palms, and is the supreme
+field of merit for the world. What five? It's when a mendicant can
+endure sights, sounds, smells, tastes, and touches.
+
+And how is it that a mendicant can endure sights? It's when a mendicant,
+seeing a sight with their eyes, is not aroused by a desirable sight, so
+is able to still the mind. That's how a mendicant can endure sights.
+
+And how is it that a mendicant can endure sounds? It's when a mendicant,
+hearing a sound with their ears, is not aroused by desirable sounds, so
+is able to still the mind. That's how a mendicant can endure sounds.
+
+And how is it that a mendicant can endure smells? It's when a mendicant,
+smelling an odor with their nose, is not aroused by a desirable smell,
+so is able to still the mind. That's how a mendicant can endure smells.
+
+And how is it that a mendicant can endure tastes? It's when a mendicant,
+tasting a flavor with their tongue, is not aroused by desirable tastes,
+so is able to still the mind. That's how a mendicant can endure tastes.
+
+And how is it that a mendicant can endure touches? It's when a
+mendicant, feeling a touch with their body, is not aroused by a
+desirable touch, so is able to still the mind. That's how a mendicant
+can endure touches.
+
+A mendicant with these five qualities is worthy of offerings dedicated
+to the gods, worthy of hospitality, worthy of a religious donation,
+worthy of veneration with joined palms, and is the supreme field of
+merit for the world."
+
+### N 5.140 A Listener  *Sotasutta* {#n-5.140-a-listener-sotasutta .unnumbered}
+
+"Mendicants, a royal bull elephant with five factors is worthy of a
+king, fit to serve a king, and is considered a factor of kingship. What
+five? A royal bull elephant listens, destroys, protects, endures, and
+goes fast.
+
+And how does a royal bull elephant listen? It's when a royal bull
+elephant pays attention, applies the mind, concentrates wholeheartedly,
+and actively listens to whatever task the elephant trainer has it do,
+whether or not it has done it before. That's how a royal bull elephant
+listens.
+
+And how does a royal bull elephant destroy? It's when a royal bull
+elephant in battle destroys elephants with their riders, horses with
+their riders, chariots and charioteers, and foot soldiers. That's how a
+royal bull elephant destroys.
+
+And how does a royal bull elephant protect? It's when a royal bull
+elephant in battle protects its fore-quarters and hind-quarters, its
+fore-feet and hind-feet, and its head, ears, tusks, trunk, tail, and
+rider. That's how a royal bull elephant protects.
+
+And how does a royal bull elephant endure? It's when a royal bull
+elephant in battle endures being struck by spears, swords, arrows, and
+axes; it endures the thunder of the drums, kettledrums, horns, and
+cymbals. That's how a royal bull elephant endures.
+
+And how does a royal bull elephant go fast? It's when a royal bull
+elephant swiftly goes in whatever direction the elephant trainer sends
+it, whether or not it has been there before. That's how a royal bull
+elephant goes fast.
+
+A royal bull elephant with these five factors is worthy of a king, fit
+to serve a king, and is considered a factor of kingship.
+
+In the same way, a mendicant with five qualities is worthy of offerings
+dedicated to the gods, worthy of hospitality, worthy of a religious
+donation, worthy of veneration with joined palms, and is the supreme
+field of merit for the world. What five? A mendicant listens, destroys,
+protects, endures, and goes fast.
+
+And how does a mendicant listen? It's when a mendicant pays attention,
+applies the mind, concentrates wholeheartedly, and actively listens when
+the teaching and training proclaimed by a Realized One is being taught.
+That's how a mendicant listens.
+
+And how does a mendicant destroy? It's when a mendicant doesn't tolerate
+a sensual, malicious, or cruel thought. They don't tolerate any bad,
+unskillful qualities that have arisen, but give them up, get rid of
+them, calm them, eliminate them, and obliterate them. That's how a
+mendicant destroys.
+
+And how does a mendicant protect? When a mendicant sees a sight with the
+eyes, they don't get caught up in the features and details. If the
+faculty of sight were left unrestrained, bad unskillful qualities of
+covetousness and displeasure would become overwhelming. For this reason,
+they practice restraint, protecting the faculty of sight, and achieving
+restraint over it. Hearing a sound with the ears ... Smelling an odor
+with the nose ... Tasting a flavor with the tongue ... Feeling a touch
+with the body ... Knowing an idea with the mind, they don't get caught
+up in the features and details. If the faculty of mind were left
+unrestrained, bad unskillful qualities of covetousness and displeasure
+would become overwhelming. For this reason, they practice restraint,
+protecting the faculty of mind, and achieving restraint over it. That's
+how a mendicant protects.
+
+And how does a mendicant endure? It's when a mendicant endures cold,
+heat, hunger, and thirst; the touch of flies, mosquitoes, wind, sun, and
+reptiles; rude and unwelcome criticism; and puts up with physical
+pain---sharp, severe, acute, unpleasant, disagreeable, and
+life-threatening. That's how a mendicant endures.
+
+And how does a mendicant go fast? It's when a mendicant swiftly goes in
+the direction they've never gone before in all this long time; that is,
+the stilling of all activities, the letting go of all attachments, the
+ending of craving, fading away, cessation, extinguishment. That's how a
+mendicant goes fast.
+
+A mendicant with these five qualities ... is the supreme field of merit
+for the world."
+
+## The Chapter at Tikaṇḍakī  {#the-chapter-at-tikaṇḍakī .unnumbered}
+
+### N 5.141 Scorn  *Avajānātisutta* {#n-5.141-scorn-avajānātisutta .unnumbered}
+
+"Mendicants, these five people are found in the world. What five? One
+gives then scorns, one lives together then scorns, one is gullible for
+gossip, one is impulsive, and one is dull and stupid.
+
+And how does a person give then scorn? It's when a person gives someone
+robes, almsfood, lodgings, and medicines and supplies for the sick. They
+think: 'I give; this one receives.' They give to that person, then they
+scorn them. That's how a person gives then scorns.
+
+And how does a person live together then scorn? It's when a person lives
+with someone else for two or three years. They live together with that
+person, then they scorn them. That's how a person live together then
+scorns.
+
+And how is a person gullible for gossip? It's when they're very quick to
+believe what a certain person says in praise or criticism of another.
+That's how a person is gullible for gossip.
+
+And how is a person impulsive? It's when a certain person is fickle in
+faith, devotion, fondness, and confidence. That's how a person is
+impulsive.
+
+And how is a person dull and stupid? It's when they don't know the
+difference between qualities that are skillful and unskillful,
+blameworthy and blameless, inferior and superior, and those on the side
+of dark and bright. That's how a person is dull and stupid.
+
+These are the five people found in the world."
+
+### N 5.142 Transgression  *Ārabhatisutta* {#n-5.142-transgression-ārabhatisutta .unnumbered}
+
+"Mendicants, these five people are found in the world. What five?
+
+One person transgresses and regrets it. And they don't truly understand
+the freedom of heart and freedom by wisdom where those arisen bad,
+unskillful qualities cease without anything left over.
+
+One person transgresses and doesn't regret it. And they don't understand
+...
+
+One person doesn't transgress yet still feels regret. And they don't
+understand ...
+
+One person neither transgresses nor regrets. But they don't understand
+...
+
+One person neither transgresses nor regrets. And they do understand
+where those arisen bad, unskillful qualities cease without anything left
+over.
+
+Take the case of the person who transgresses and regrets it. And they
+don't truly understand the freedom of heart and freedom by wisdom where
+those arisen bad, unskillful qualities cease without anything left over.
+They should be told: 'Venerable, the defilements born of transgression
+are found in you, and the defilements born of regret grow. You would do
+well to give up the defilements born of transgression and get rid of the
+defilements born of regret, and then develop the mind and wisdom. In
+this way you'll become just like the fifth person.'
+
+Take the case of the person who transgresses and doesn't regret it. And
+they don't understand... They should be told: 'Venerable, the
+defilements born of transgression are found in you, but the defilements
+born of regret don't grow. You would do well to give up the defilements
+born of transgression, and then develop the mind and wisdom. In this way
+you'll become just like the fifth person.'
+
+Take the case of the person who doesn't transgress yet feels regret. And
+they don't understand... They should be told: 'Venerable, the
+defilements born of transgression are not found in you, yet the
+defilements born of regret grow. You would do well to get rid of the
+defilements born of regret, and then develop the mind and wisdom. In
+this way you'll become just like the fifth person.'
+
+Take the case of the person who neither transgresses nor regrets. But
+they don't understand... They should be told: 'Venerable, the
+defilements born of transgression are not found in you, and the
+defilements born of regret don't grow. You would do well to develop the
+mind and wisdom. In this way you'll become just like the fifth person.'
+
+And so, mendicants, when these four people are advised and instructed by
+comparison with the fifth person, they gradually attain the ending of
+defilements."
+
+### N 5.143 At Sārandada  *Sārandadasutta* {#n-5.143-at-sārandada-sārandadasutta .unnumbered}
+
+At one time the Buddha was staying near [Vesālī]{lang="sa"}, at the
+Great Wood, in the hall with the peaked roof.
+
+Then the Buddha robed up in the morning and, taking his bowl and robe,
+entered [Vesālī]{lang="sa"} for alms.
+
+Now at that time around five hundred Licchavis were sitting together at
+the [Sārandada]{lang="sa"} shrine, and this discussion came up among
+them, "The appearance of five treasures is rare in the world. What five?
+The elephant-treasure, the horse-treasure, the jewel-treasure, the
+woman-treasure, and the householder-treasure. The appearance of these
+five treasures is rare in the world."
+
+Then those Licchavis sent a man out on to the road, saying, "Mister,
+please tell us when you see the Buddha."
+
+That man saw the Buddha coming off in the distance. He went to the
+Licchavis and said, "Sirs, the Blessed One, the perfected one, the fully
+awakened Buddha is coming. Please go at your convenience."
+
+Then those Licchavis went up to the Buddha, bowed, stood to one side,
+and said to him, "Please go to the [Sārandada]{lang="sa"} shrine, out of
+sympathy." The Buddha consented with silence.
+
+Then the Buddha went up to the [Sārandada]{lang="sa"} shrine, where he
+sat on the seat spread out, and said to the Licchavis, "Licchavis, what
+were you sitting talking about just now? What conversation was left
+unfinished?"
+
+"Well, Mister Gotama, this discussion came up among us while we were
+sitting together: 'The appearance of five treasures is rare in the
+world. ...'"
+
+"You Licchavis are so fixated on sensual pleasures, that's the only
+discussion that came up! Licchavis, the appearance of five treasures is
+rare in the world. What five?
+
+The appearance of a Realized One, a perfected one, a fully awakened
+Buddha.
+
+A teacher of the teaching and training proclaimed by a Realized One.
+
+A person who understands the teaching and training proclaimed by a
+Realized One.
+
+A person who practices in line with the teaching.
+
+A person who is grateful and thankful.
+
+The appearance of these five treasures is rare in the world."
+
+### N 5.144 At Tikaṇḍakī  *Tikaṇḍakīsutta* {#n-5.144-at-tikaṇḍakī-tikaṇḍakīsutta .unnumbered}
+
+At one time the Buddha was staying near [Sāketa]{lang="sa"}, in
+[Tikaṇḍakī]{lang="sa"} Wood. There the Buddha addressed the mendicants,
+"Mendicants!"
+
+"Venerable sir," they replied. The Buddha said this:
+
+1.  "Mendicants, a mendicant would do well to meditate from time to time
+    perceiving the following: the repulsive in the unrepulsive,
+
+2.  the unrepulsive in the repulsive,
+
+3.  the repulsive in both the unrepulsive and the repulsive, and
+
+4.  the unrepulsive in both the repulsive and the unrepulsive.
+
+5.  A mendicant would do well to meditate from time to time staying
+    equanimous, mindful and aware, rejecting both the repulsive and the
+    unrepulsive.
+
+For what reason should a mendicant meditate perceiving the repulsive in
+the unrepulsive? 'May greed not arise in me for things that arouse
+greed.' A mendicant should meditate perceiving the repulsive in the
+unrepulsive for this reason.
+
+For what reason should a mendicant meditate perceiving the unrepulsive
+in the repulsive? 'May hate not arise in me for things that provoke
+hate.' ...
+
+For what reason should a mendicant meditate perceiving the repulsive in
+both the unrepulsive and the repulsive? 'May greed not arise in me for
+things that arouse greed. May hate not arise in me for things that
+provoke hate.' ...
+
+For what reason should a mendicant meditate perceiving the unrepulsive
+in both the repulsive and the unrepulsive? 'May hate not arise in me for
+things that provoke hate. May greed not arise in me for things that
+arouse greed.' ...
+
+For what reason should a mendicant meditate staying equanimous, mindful
+and aware, rejecting both the repulsive and the unrepulsive? 'May no
+greed for things that arouse greed, hate for things that provoke hate,
+or delusion for things that promote delusion arise in me in any way at
+all.' For this reason a mendicant should meditate staying equanimous,
+mindful and aware, rejecting both the repulsive and the unrepulsive."
+
+### N 5.145 Hell  *Nirayasutta* {#n-5.145-hell-nirayasutta .unnumbered}
+
+"Mendicants, someone with five qualities is cast down to hell. What
+five? They kill living creatures, steal, commit sexual misconduct, lie,
+and consume beer, wine, and liquor intoxicants. Someone with these five
+qualities is cast down to hell.
+
+Someone with five qualities is raised up to heaven What five? They don't
+kill living creatures, steal, commit sexual misconduct, lie, or consume
+beer, wine, and liquor intoxicants. Someone with these five qualities is
+raised up to heaven."
+
+### N 5.146 A Friend  *Mittasutta* {#n-5.146-a-friend-mittasutta .unnumbered}
+
+"Mendicants, you shouldn't associate with a mendicant friend who has
+five qualities. What five? They start up work projects. They take up
+disciplinary issues. They conflict with leading mendicants. They like
+long and aimless wandering. They're unable to educate, encourage, fire
+up, and inspire you from time to time with a Dhamma talk. Mendicants,
+you shouldn't associate with a mendicant friend who has these five
+qualities.
+
+You should associate with a mendicant friend who has five qualities.
+What five? They don't start up work projects. They don't take up
+disciplinary issues. They don't conflict with leading mendicants. They
+don't like long and aimless wandering. They're able to educate,
+encourage, fire up, and inspire you from time to time with a Dhamma
+talk. You should associate with a mendicant friend who has these five
+qualities."
+
+### N 5.147 Gifts of an Untrue Person  *Asappurisadānasutta* {#n-5.147-gifts-of-an-untrue-person-asappurisadānasutta .unnumbered}
+
+"Mendicants, there are these five gifts of an untrue person. What five?
+They give carelessly. They give thoughtlessly. They don't give with
+their own hand. They give the dregs. They give without consideration for
+consequences. These are the five gifts of an untrue person.
+
+There are these five gifts of a true person. What five? They give
+carefully. They give thoughtfully. They give with their own hand. They
+don't give the dregs. They give with consideration for consequences.
+These are the five gifts of a true person."
+
+### N 5.148 Gifts of a True Person  *Sappurisadānasutta* {#n-5.148-gifts-of-a-true-person-sappurisadānasutta .unnumbered}
+
+"There are these five gifts of a true person. What five? They give a
+gift out of faith. They give a gift carefully. They give a gift at the
+right time. They give a gift with no strings attached. They give a gift
+without hurting themselves or others.
+
+Having given a gift out of faith, in whatever place the result of that
+gift manifests they become rich, affluent, and wealthy. And they're
+attractive, good-looking, lovely, of surpassing beauty.
+
+Having given a gift carefully, in whatever place the result of that gift
+manifests they become rich, affluent, and wealthy. And their children,
+wives, bondservants, servants, and workers want to listen. They actively
+listen and try to understand.
+
+Having given a gift at the right time, in whatever place the result of
+that gift manifests they become rich, affluent, and wealthy. And when
+the time is right, they get all that they need.
+
+Having given a gift with no strings attached, in whatever place the
+result of that gift manifests they become rich, affluent, and wealthy.
+And their mind tends to enjoy the five refined kinds of sensual
+stimulation.
+
+Having given a gift without hurting themselves or others, in whatever
+place the result of that gift manifests they become rich, affluent, and
+wealthy. And no damage comes to their property from anywhere, whether
+fire, flood, rulers, bandits, or unloved heirs.
+
+These are the five gifts of a true person."
+
+### N 5.149 Temporarily Free (1st)  *Paṭhamasamayavimuttasutta* {#n-5.149-temporarily-free-1st-paṭhamasamayavimuttasutta .unnumbered}
+
+"Mendicants, these five things lead to the decline of a mendicant who is
+temporarily free. What five? They relish work, talk, sleep, and company.
+And they don't review the extent of their mind's freedom. These five
+things lead to the decline of a mendicant who is temporarily free.
+
+These five things don't lead to the decline of a mendicant who is
+temporarily free. What five? They don't relish work, talk, sleep, and
+company. And they review the extent of their mind's freedom. These five
+things don't lead to the decline of a mendicant who is temporarily
+free."
+
+### N 5.150 Temporarily Free (2nd)  *Dutiyasamayavimuttasutta* {#n-5.150-temporarily-free-2nd-dutiyasamayavimuttasutta .unnumbered}
+
+"Mendicants, these five things lead to the decline of a mendicant who is
+temporarily free. What five? They relish work, talk, and sleep. They
+don't guard the sense doors and they eat too much. These five things
+lead to the decline of a mendicant who is temporarily free.
+
+These five things don't lead to the decline of a mendicant who is
+temporarily free. What five? They don't relish work, talk, and sleep.
+They guard the sense doors and they have moderation in eating. These
+five things don't lead to the decline of a mendicant who is temporarily
+free."
+
+::: center
+*[the fourth fifty]{.smallcaps}*
+:::
+
+## The Chapter on the True Teaching  {#the-chapter-on-the-true-teaching .unnumbered}
+
+### N 5.151 Surety in the Right Way (1st)  *Paṭhamasammattaniyāmasutta* {#n-5.151-surety-in-the-right-way-1st-paṭhamasammattaniyāmasutta .unnumbered}
+
+"Mendicants, someone with five qualities is unable to enter the sure
+path with regards to skillful qualities even when listening to the true
+teaching. What five? They disparage the talk, the speaker, or
+themselves. They listen with scattered and disunified mind. They apply
+the mind irrationally. Someone with these five qualities is unable to
+enter the sure path with regards to skillful qualities, even when
+listening to the true teaching.
+
+Someone with five qualities is able to enter the sure path with regards
+to skillful qualities when listening to the true teaching. What five?
+They don't disparage the talk, the speaker, or themselves. They listen
+with unscattered and unified mind. They apply the mind rationally.
+Someone with these five qualities is able to enter the sure path with
+regards to skillful qualities when listening to the true teaching."
+
+### N 5.152 Surety in the Right Way (2nd)  *Dutiyasammattaniyāmasutta* {#n-5.152-surety-in-the-right-way-2nd-dutiyasammattaniyāmasutta .unnumbered}
+
+"Mendicants, someone with five qualities is unable to enter the sure
+path with regards to skillful qualities even when listening to the true
+teaching. What five? They disparage the talk, the speaker, or
+themselves. They're witless, dull, and idiotic. They think they know
+what they don't know. Someone with these five qualities is unable to
+enter the sure path with regards to skillful qualities, even when
+listening to the true teaching.
+
+Someone with five qualities is able to enter the sure path with regards
+to skillful qualities when listening to the true teaching. What five?
+They don't disparage the talk, the speaker, or themselves. They're wise,
+bright, and clever. They don't think they know what they don't know.
+Someone with these five qualities is able to enter the sure path with
+regards to skillful qualities when listening to the true teaching."
+
+### N 5.153 Surety in the Right Way (3rd)  *Tatiyasammattaniyāmasutta* {#n-5.153-surety-in-the-right-way-3rd-tatiyasammattaniyāmasutta .unnumbered}
+
+"Mendicants, someone with five qualities is unable to enter the sure
+path with regards to skillful qualities even when listening to the true
+teaching. What five? They listen to the teaching bent only on putting it
+down. They listen to the teaching with a hostile, fault-finding mind.
+They're antagonistic to the teacher, planning to attack them. They're
+witless, dull, and idiotic. And they think they know what they don't
+know. Someone with these five qualities is unable to enter the sure path
+with regards to skillful qualities even when listening to the true
+teaching.
+
+Someone with five qualities is able to enter the sure path with regards
+to skillful qualities when listening to the true teaching. What five?
+They don't listen to the teaching bent only on putting it down. They
+don't listen to the teaching with a hostile, fault-finding mind. They're
+not antagonistic to the teacher, and not planning to attack them.
+They're wise, bright, and clever. And they don't think they know what
+they don't know. Someone with these five qualities is able to enter the
+sure path with regards to skillful qualities when listening to the true
+teaching."
+
+### N 5.154 The Decline of the True Teaching (1st)  *Paṭhamasaddhammasammosasutta* {#n-5.154-the-decline-of-the-true-teaching-1st-paṭhamasaddhammasammosasutta .unnumbered}
+
+"Mendicants, these five things lead to the decline and disappearance of
+the true teaching. What five? It's when mendicants don't carefully
+listen to the teachings, memorize them, and remember them. They don't
+carefully examine the meaning of teachings that they remember. And they
+don't carefully practice in line with the meaning and the teaching
+they've understood. These five things lead to the decline and
+disappearance of the true teaching.
+
+These five things lead to the continuation, persistence, and enduring of
+the true teaching. What five? It's when mendicants carefully listen to
+the teachings, memorize them, and remember them. They carefully examine
+the meaning of teachings that they remember. And they carefully practice
+in line with the meaning and the teaching they've understood. These five
+things lead to the continuation, persistence, and enduring of the true
+teaching."
+
+### N 5.155 The Decline of the True Teaching (2nd)  *Dutiyasaddhammasammosasutta* {#n-5.155-the-decline-of-the-true-teaching-2nd-dutiyasaddhammasammosasutta .unnumbered}
+
+"Mendicants, these five things lead to the decline and disappearance of
+the true teaching. What five?
+
+It's when the mendicants don't memorize the teaching---statements, mixed
+prose & verse, discussions, verses, inspired exclamations, legends,
+stories of past lives, amazing stories, and elaborations. This is the
+first thing that leads to the decline and disappearance of the true
+teaching.
+
+Furthermore, the mendicants don't explain the teaching in detail to
+others as they learned and memorized it. This is the second thing ...
+
+Furthermore, the mendicants don't make others recite the teaching in
+detail as they learned and memorized it. This is the third thing ...
+
+Furthermore, the mendicants don't recite the teaching in detail as they
+learned and memorized it. This is the fourth thing ...
+
+Furthermore, the mendicants don't think about and consider the teaching
+in their hearts, examining it with their minds as they learned and
+memorized it. This is the fifth thing that leads to the decline and
+disappearance of the true teaching.
+
+These five things lead to the decline and disappearance of the true
+teaching.
+
+These five things lead to the continuation, persistence, and enduring of
+the true teaching. What five?
+
+It's when the mendicants memorize the teaching---statements, mixed prose
+& verse, discussions, verses, inspired exclamations, legends, stories of
+past lives, amazing stories, and elaborations. This is the first thing
+that leads to the continuation, persistence, and enduring of the true
+teaching.
+
+Furthermore, the mendicants explain the teaching in detail to others as
+they learned and memorized it. This is the second thing ...
+
+Furthermore, the mendicants make others recite the teaching in detail as
+they learned and memorized it. This is the third thing ...
+
+Furthermore, the mendicants recite the teaching in detail as they
+learned and memorized it. This is the fourth thing ...
+
+Furthermore, the mendicants think about and consider the teaching in
+their hearts, examining it with their minds as they learned and
+memorized it. This is the fifth thing that leads to the continuation,
+persistence, and enduring of the true teaching.
+
+These five things lead to the continuation, persistence, and enduring of
+the true teaching."
+
+### N 5.156 The Decline of the True Teaching (3rd)  *Tatiyasaddhammasammosasutta* {#n-5.156-the-decline-of-the-true-teaching-3rd-tatiyasaddhammasammosasutta .unnumbered}
+
+"Mendicants, these five things lead to the decline and disappearance of
+the true teaching. What five?
+
+It's when the mendicants memorize discourses that they learned
+incorrectly, with misplaced words and phrases. When the words and
+phrases are misplaced, the meaning is misinterpreted. This is the first
+thing that leads to the decline and disappearance of the true teaching.
+
+Furthermore, the mendicants are hard to admonish, having qualities that
+make them hard to admonish. They're impatient, and don't take
+instruction respectfully. This is the second thing ...
+
+Furthermore, the mendicants who are very learned---inheritors of the
+heritage, who have memorized the teachings, the monastic law, and the
+outlines---don't carefully make others recite the discourses. When they
+pass away, the discourses are cut off at the root, with no-one to
+preserve them. This is the third thing ...
+
+Furthermore, the senior mendicants are indulgent and slack, leaders in
+backsliding, neglecting seclusion, not rousing energy for attaining the
+unattained, achieving the unachieved, and realizing the unrealized.
+Those who come after them follow their example. They too are indulgent
+and slack ... This is the fourth thing ...
+
+Furthermore, there's a schism in the [Saṅgha]{lang="sa"}. When the
+[Saṅgha]{lang="sa"} is split, they abuse, insult, block, and forsake
+each other. This doesn't inspire confidence in those without it, and it
+causes some with confidence to change their minds. This is the fifth
+thing that leads to the decline and disappearance of the true teaching.
+
+These five things lead to the decline and disappearance of the true
+teaching.
+
+These five things lead to the continuation, persistence, and enduring of
+the true teaching. What five? It's when the mendicants memorize
+discourses that have been learned correctly, with well placed words and
+phrases. When the words and phrases are well organized, the meaning is
+correctly interpreted. This is the first thing that leads to the
+continuation, persistence, and enduring of the true teaching.
+
+Furthermore, the mendicants are easy to admonish, having qualities that
+make them easy to admonish. They're patient, and take instruction
+respectfully. This is the second thing ...
+
+Furthermore, the mendicants who are very learned---inheritors of the
+heritage, who have memorized the teachings, the monastic law, and the
+outlines---carefully make others recite the discourses. When they pass
+away, the discourses aren't cut off at the root, and they have someone
+to preserve them. This is the third thing ...
+
+Furthermore, the senior mendicants are not indulgent and slack, leaders
+in backsliding, neglecting seclusion. They rouse energy for attaining
+the unattained, achieving the unachieved, and realizing the unrealized.
+Those who come after them follow their example. They too are not
+indulgent or slack ... This is the fourth thing ...
+
+Furthermore, the [Saṅgha]{lang="sa"} lives comfortably, in harmony,
+appreciating each other, without quarreling, with one recitation. When
+the [Saṅgha]{lang="sa"} is in harmony, they don't abuse, insult, block,
+or forsake each other. This inspires confidence in those without it, and
+increases confidence in those who have it. This is the fifth thing that
+leads to the continuation, persistence, and enduring of the true
+teaching.
+
+These five things lead to the continuation, persistence, and enduring of
+the true teaching."
+
+### N 5.157 Inappropriate Talk  *Dukkathāsutta* {#n-5.157-inappropriate-talk-dukkathāsutta .unnumbered}
+
+"Mendicants, it is inappropriate to speak to five kinds of person by
+comparing that person with someone else. What five?
+
+It's inappropriate to talk to an unfaithful person about faith. It's
+inappropriate to talk to an unethical person about ethics. It's
+inappropriate to talk to an unlearned person about learning. It's
+inappropriate to talk to a stingy person about generosity. It's
+inappropriate to talk to a witless person about wisdom.
+
+And why is it inappropriate to talk to an unfaithful person about faith?
+When an unfaithful person is spoken to about faith they lose their
+temper, becoming annoyed, hostile, and hard-hearted, and displaying
+annoyance, hate, and bitterness. Why is that? Not seeing that faith in
+themselves, they don't get the rapture and joy that faith brings. That's
+why it's inappropriate to talk to an unfaithful person about faith.
+
+And why is it inappropriate to talk to an unethical person about ethics?
+When an unethical person is spoken to about ethics they lose their
+temper ... Why is that? Not seeing that ethical conduct in themselves,
+they don't get the rapture and joy that ethical conduct brings. That's
+why it's inappropriate to talk to an unethical person about ethics.
+
+And why is it inappropriate to talk to an unlearned person about
+learning? When an unlearned person is spoken to about learning they lose
+their temper ... Why is that? Not seeing that learning in themselves,
+they don't get the rapture and joy that learning brings. That's why it's
+inappropriate to talk to an unlearned person about learning.
+
+And why is it inappropriate to talk to a stingy person about generosity?
+When a stingy person is spoken to about generosity they lose their
+temper ... Why is that? Not seeing that generosity in themselves, they
+don't get the rapture and joy that generosity brings. That's why it's
+inappropriate to talk to a stingy person about generosity.
+
+And why is it inappropriate to talk to a witless person about wisdom?
+When a witless person is spoken to about wisdom they lose their temper,
+becoming annoyed, hostile, and hard-hearted, and displaying annoyance,
+hate, and bitterness. Why is that? Not seeing that wisdom in themselves,
+they don't get the rapture and joy that wisdom brings. That's why it's
+inappropriate to talk to a witless person about wisdom.
+
+It is inappropriate to speak to these five kinds of person by comparing
+that person with someone else.
+
+It is appropriate to speak to five kinds of person by comparing that
+person with someone else. What five?
+
+It's appropriate to talk to a faithful person about faith. It's
+appropriate to talk to an ethical person about ethical conduct. It's
+appropriate to talk to a learned person about learning. It's appropriate
+to talk to a generous person about generosity. It's appropriate to talk
+to a wise person about wisdom.
+
+And why is it appropriate to talk to a faithful person about faith? When
+a faithful person is spoken to about faith they don't lose their temper,
+they don't get annoyed, hostile, and hard-hearted, or display annoyance,
+hate, and bitterness. Why is that? Seeing that faith in themselves, they
+get the rapture and joy that faith brings. That's why it's appropriate
+to talk to a faithful person about faith.
+
+And why is it appropriate to talk to an ethical person about ethical
+conduct? When an ethical person is spoken to about ethical conduct they
+don't lose their temper ... Why is that? Seeing that ethical conduct in
+themselves, they get the rapture and joy that ethical conduct brings.
+That's why it's appropriate to talk to an ethical person about ethical
+conduct.
+
+And why is it appropriate to talk to a learned person about learning?
+When a learned person is spoken to about learning they don't lose their
+temper ... Why is that? Seeing that learning in themselves, they get the
+rapture and joy that learning brings. That's why it's appropriate to
+talk to a learned person about learning.
+
+And why is it appropriate to talk to a generous person about generosity?
+When a generous person is spoken to about generosity they don't lose
+their temper ... Why is that? Seeing that generosity in themselves, they
+get the rapture and joy that generosity brings. That's why it's
+appropriate to talk to a generous person about generosity.
+
+And why is it appropriate to talk to a wise person about wisdom? When a
+wise person is spoken to about wisdom they don't lose their temper, they
+don't get annoyed, hostile, and hard-hearted, or display annoyance,
+hate, and bitterness. Why is that? Seeing that wisdom in themselves,
+they get the rapture and joy that wisdom brings. That's why it's
+appropriate to talk to a wise person about wisdom.
+
+It is appropriate to speak to these five kinds of person by comparing
+that person with someone else."
+
+### N 5.158 Timidity  *Sārajjasutta* {#n-5.158-timidity-sārajjasutta .unnumbered}
+
+"Mendicants, a mendicant with five qualities is overcome by timidity.
+What five? It's when a mendicant is faithless, unethical, with little
+learning, lazy, and witless. A mendicant with these five qualities is
+overcome by timidity.
+
+A mendicant with five qualities is self-assured. What five? It's when a
+mendicant is faithful, ethical, learned, energetic, and wise. A
+mendicant with these five qualities is self-assured."
+
+### N 5.159 With Udāyī  *Udāyīsutta* {#n-5.159-with-udāyī-udāyīsutta .unnumbered}
+
+[So I have heard.]{.smallcaps} At one time the Buddha was staying near
+[Kosambī]{lang="sa"}, in Ghosita's Monastery. Now, at that time
+Venerable [Udāyī]{lang="sa"} was sitting teaching Dhamma, surrounded by
+a large assembly of laypeople. Seeing this, Venerable Ānanda went up to
+the Buddha, bowed, sat down to one side, and said to him:
+
+"Sir, Venerable [Udāyī]{lang="sa"} is teaching Dhamma, surrounded by a
+large assembly of laypeople."
+
+"Ānanda, it's not easy to teach Dhamma to others. You should establish
+five things in yourself before teaching Dhamma to others. What five?
+
+You should teach Dhamma to others thinking: 'I will teach step by step.'
+...
+
+'I will teach showing my method.' ...
+
+'I will teach out of kindness.' ...
+
+'I will not teach while secretly hoping to profit.' ...
+
+'I will teach without hurting myself or others.'
+
+It's not easy to teach Dhamma to others. You should establish these five
+things in yourself before teaching Dhamma to others."
+
+### N 5.160 Hard to Get Rid Of  *Duppaṭivinodayasutta* {#n-5.160-hard-to-get-rid-of-duppaṭivinodayasutta .unnumbered}
+
+"Mendicants, these five things are hard to get rid of once they've
+arisen. What five? Greed, hate, delusion, the feeling of being inspired
+to speak out, and thoughts of traveling. These five things are hard to
+get rid of once they've arisen."
+
+## The Chapter on Resentment  {#the-chapter-on-resentment .unnumbered}
+
+### N 5.161 Getting Rid of Resentment (1st)  *Paṭhamaāghātapaṭivinayasutta* {#n-5.161-getting-rid-of-resentment-1st-paṭhamaāghātapaṭivinayasutta .unnumbered}
+
+"Mendicants, a mendicant should use these five methods to completely get
+rid of resentment when it has arisen toward anyone. What five?
+
+You should develop love for a person you resent. That's how to get rid
+of resentment for that person.
+
+You should develop compassion for a person you resent. ...
+
+You should develop equanimity for a person you resent. ...
+
+You should disregard a person you resent, paying no attention to them.
+...
+
+You should focus on the ownership of deeds regarding that person: 'This
+venerable is the owner of their deeds and heir to their deeds. Deeds are
+their womb, their relative, and their refuge. They shall be the heir of
+whatever deeds they do, whether good or bad.' That's how to get rid of
+resentment for that person.
+
+A mendicant should use these five methods to completely get rid of
+resentment when it has arisen toward anyone."
+
+### N 5.162 Getting Rid of Resentment (2nd)  *Dutiyaāghātapaṭivinayasutta* {#n-5.162-getting-rid-of-resentment-2nd-dutiyaāghātapaṭivinayasutta .unnumbered}
+
+There Venerable [Sāriputta]{lang="sa"} addressed the mendicants:
+"Reverends, mendicants!"
+
+"Reverend," they replied. [Sāriputta]{lang="sa"} said this:
+
+"Reverends, a mendicant should use these five methods to completely get
+rid of resentment when it has arisen toward anyone. What five?
+
+In the case of a person whose behavior by way of body is impure, but
+whose behavior by way of speech is pure, you should get rid of
+resentment for that kind of person.
+
+In the case of a person whose behavior by way of speech is impure, but
+whose behavior by way of body is pure, ...
+
+In the case of a person whose behavior by way of body and speech is
+impure, but who gets an openness and clarity of heart from time to time,
+...
+
+In the case of a person whose behavior by way of body and speech is
+impure, and who doesn't get an openness and clarity of heart from time
+to time, ...
+
+In the case of a person whose behavior by way of body and speech is
+pure, and who gets an openness and clarity of heart from time to time,
+you should get rid of resentment for that kind of person.
+
+How should you get rid of resentment for a person whose behavior by way
+of body is impure, but whose behavior by way of speech is pure? Suppose
+a mendicant wearing rag robes sees a rag by the side of the road. They'd
+hold it down with the left foot, spread it out with the right foot, tear
+out what was intact, and take it away with them. In the same way, at
+that time you should ignore that person's impure behavior by way of body
+and focus on their pure behavior by way of speech. That's how to get rid
+of resentment for that person.
+
+How should you get rid of resentment for a person whose behavior by way
+of speech is impure, but whose behavior by way of body is pure? Suppose
+there was a lotus pond covered with moss and aquatic plants. Then along
+comes a person struggling in the oppressive heat, weary, thirsty, and
+parched. They'd plunge into the lotus pond, sweep apart the moss and
+aquatic plants, drink from their cupped hands, and be on their way. In
+the same way, at that time you should ignore that person's impure
+behavior by way of speech and focus on their pure behavior by way of
+body. That's how to get rid of resentment for that person.
+
+How should you get rid of resentment for a person whose behavior by way
+of body and speech is impure, but who gets an openness and clarity of
+heart from time to time? Suppose there was a little water in a cow's
+hoofprint. Then along comes a person struggling in the oppressive heat,
+weary, thirsty, and parched. They might think: 'This little bit of water
+is in a cow's hoofprint. If I drink it with my cupped hands or a bowl,
+I'll stir it and disturb it, making it undrinkable. Why don't I get down
+on all fours and drink it up like a cow, then be on my way?' So that's
+what they do. In the same way, at that time you should ignore that
+person's impure behavior by way of speech and body, and focus on the
+fact that they get an openness and clarity of heart from time to time.
+That's how to get rid of resentment for that person.
+
+How should you get rid of resentment for a person whose behavior by way
+of body and speech is impure, and who doesn't get an openness and
+clarity of heart from time to time? Suppose a person was traveling along
+a road, and they were sick, suffering, gravely ill. And it was a long
+way to a village, whether ahead or behind. And they didn't have any
+suitable food or medicine, or a competent carer, or someone to bring
+them within a village. Another person traveling along the road might see
+them, and think of them with nothing but sympathy, kindness, and
+sympathy: 'Oh, may this person get suitable food or medicine, or a
+competent carer, or someone to bring them within a village. Why is that?
+So that they don't come to ruin right here.' In the same way, at that
+time you should ignore that person's impure behavior by way of speech
+and body, and the fact that they don't get an openness and clarity of
+heart from time to time, and think of them with nothing but compassion,
+kindness, and sympathy: 'Oh, may this person give up bad conduct by way
+of body, speech, and mind, and develop good conduct by way of body,
+speech, and mind. Why is that? So that, when their body breaks up, after
+death, they're not reborn in a place of loss, a bad place, the
+underworld, hell.' That's how to get rid of resentment for that person.
+
+How should you get rid of resentment for a person whose behavior by way
+of body and speech is pure, and who gets an openness and clarity of
+heart from time to time? Suppose there was a lotus pond with clear,
+sweet, cool water, clean, with smooth banks, delightful, and shaded by
+many trees. Then along comes a person struggling in the oppressive heat,
+weary, thirsty, and parched. They'd plunge into the lotus pond to bathe
+and drink. And after emerging they'd sit or lie down right there in the
+shade of the trees.
+
+In the same way, at that time you should focus on that person's pure
+behavior by way of body and speech, and on the fact that they get an
+openness and clarity of heart from time to time. That's how to get rid
+of resentment for that person. Relying on a person who is impressive all
+around, the mind becomes confident.
+
+A mendicant should use these five methods to completely get rid of
+resentment when it has arisen toward anyone."
+
+### N 5.163 Discussions  *Sākacchasutta* {#n-5.163-discussions-sākacchasutta .unnumbered}
+
+There Venerable [Sāriputta]{lang="sa"} addressed the mendicants:
+"Reverends, mendicants!"
+
+"Reverend," they replied. [Sāriputta]{lang="sa"} said this:
+
+"A mendicant with five qualities is fit to hold a discussion with their
+spiritual companions. What five?
+
+A mendicant is personally accomplished in ethics, and answers questions
+that come up when discussing accomplishment in ethics.
+
+They're personally accomplished in immersion, ...
+
+They're personally accomplished in wisdom, ...
+
+They're personally accomplished in freedom, ...
+
+They're personally accomplished in the knowledge and vision of freedom,
+and they answer questions that come up when discussing accomplishment in
+the knowledge and vision of freedom.
+
+A mendicant with these five qualities is fit to hold a discussion with
+their spiritual companions."
+
+### N 5.164 Sharing a Way of Life  *Sājīvasutta* {#n-5.164-sharing-a-way-of-life-sājīvasutta .unnumbered}
+
+There Venerable [Sāriputta]{lang="sa"} addressed the mendicants:
+
+"A mendicant with five qualities is fit to share their life with their
+spiritual companions. What five?
+
+A mendicant is personally accomplished in ethics, and answers questions
+that come up when discussing accomplishment in ethics.
+
+They're personally accomplished in immersion, ...
+
+They're personally accomplished in wisdom, ...
+
+They're personally accomplished in freedom, ...
+
+They're personally accomplished in the knowledge and vision of freedom,
+and they answer questions that come up when discussing accomplishment in
+the knowledge and vision of freedom.
+
+A mendicant with these five qualities is fit to share their life with
+their spiritual companions."
+
+### N 5.165 Asking Questions  *Pañhapucchāsutta* {#n-5.165-asking-questions-pañhapucchāsutta .unnumbered}
+
+There Venerable [Sāriputta]{lang="sa"} addressed the mendicants: ...
+"Whoever asks a question of another, does so for one or other of these
+five reasons. What five? Someone asks a question of another from
+stupidity and folly. Or they ask from corrupt wishes, being of wishful
+temperament. Or they ask in order to disparage. Or they ask wanting to
+understand. Or they ask with the thought, 'If they correctly answer the
+question I ask it's good. If not, I'll correctly answer it for them.'
+Whoever asks a question of another, does so for one or other of these
+five reasons. As for myself, I ask with the thought, 'If they correctly
+answer the question I ask it's good. If not, I'll correctly answer it
+for them.'"
+
+### N 5.166 Cessation  *Nirodhasutta* {#n-5.166-cessation-nirodhasutta .unnumbered}
+
+There Venerable [Sāriputta]{lang="sa"} addressed the mendicants:
+
+"Reverends, take a mendicant who is accomplished in ethics, immersion,
+and wisdom. They might enter into and emerge from the cessation of
+perception and feeling. That is possible. If they don't reach
+enlightenment in this very life, then, surpassing the company of gods
+that consume solid food, they're reborn in a certain host of mind-made
+gods. There they might enter into and emerge from the cessation of
+perception and feeling. That is possible."
+
+When he said this, Venerable [Udāyī]{lang="sa"} said to him, "This is
+not possible, Reverend [Sāriputta]{lang="sa"}, it cannot happen!"
+
+But for a second ... and a third time [Sāriputta]{lang="sa"} repeated
+his statement.
+
+And for a third time, [Udāyī]{lang="sa"} said to him, "This is not
+possible, Reverend [Sāriputta]{lang="sa"}, it cannot happen!"
+
+Then Venerable [Sāriputta]{lang="sa"} thought, "Venerable
+[Udāyī]{lang="sa"} disagrees with me three times, and not one mendicant
+agrees with me. Why don't I go to see the Buddha?"
+
+Then [Sāriputta]{lang="sa"} went up to the Buddha, bowed, sat down to
+one side, and said to the mendicants:
+
+"Reverends, take a mendicant who is accomplished in ethics, immersion,
+and wisdom. They might enter into and emerge from the cessation of
+perception and feeling. There is such a possibility. If they don't reach
+enlightenment in this very life, they're reborn in the company of a
+certain host of mind-made gods, who surpass the gods that consume solid
+food. There they might enter into and emerge from the cessation of
+perception and feeling. That is possible."
+
+When he said this, [Udāyī]{lang="sa"} said to him, "This is not
+possible, Reverend [Sāriputta]{lang="sa"}, it cannot happen!"
+
+But for a second ... and a third time [Sāriputta]{lang="sa"} repeated
+his statement.
+
+And for a third time, [Udāyī]{lang="sa"} said to him, "This is not
+possible, Reverend [Sāriputta]{lang="sa"}, it cannot happen!"
+
+Then Venerable [Sāriputta]{lang="sa"} thought, "Even in front of the
+Buddha Venerable [Udāyī]{lang="sa"} disagrees with me three times, and
+not one mendicant agrees with me. I'd better stay silent." Then
+[Sāriputta]{lang="sa"} fell silent.
+
+Then the Buddha said to Venerable [Udāyī]{lang="sa"}, "But
+[Udāyī]{lang="sa"}, do you believe in a mind-made body?"
+
+"For those gods, sir, who are formless, made of perception."
+
+"[Udāyī]{lang="sa"}, what has an incompetent fool like you got to say?
+How on earth could you imagine you've got something worth saying!"
+
+Then the Buddha said to Venerable Ānanda, "Ānanda! How can you just
+watch while a senior mendicant is being harassed? Don't you have any
+compassion for a senior mendicant who is being harassed?"
+
+Then the Buddha addressed the mendicants:
+
+"Mendicants, take a mendicant who is accomplished in ethics, immersion,
+and wisdom. They might enter into and emerge from the cessation of
+perception and feeling. That is possible. If they don't reach
+enlightenment in this very life, they're reborn in the company of a
+certain host of mind-made gods, who surpass the gods that consume solid
+food. There they might enter into and emerge from the cessation of
+perception and feeling. That is possible."
+
+That is what the Buddha said. When he had spoken, the Holy One got up
+from his seat and entered his dwelling.
+
+Then, not long after the Buddha had left, Venerable Ānanda went to
+Venerable [Upavāna]{lang="sa"} and said to him, "Reverend
+[Upavāna]{lang="sa"}, they've been harassing other senior mendicants,
+but I didn't question them. I wouldn't be surprised if the Buddha brings
+this up when he comes out of retreat later this afternoon. He might even
+call upon Venerable [Upavāna]{lang="sa"} himself. And right now I feel
+timid."
+
+Then in the late afternoon, the Buddha came out of retreat and went to
+the assembly hall, where he sat on the seat spread out, and said to
+[Upavāna]{lang="sa"}, "[Upavāna]{lang="sa"}, how many qualities should a
+senior mendicant have to be dear and beloved to their spiritual
+companions, respected and admired?"
+
+"Sir, a senior mendicant with five qualities is dear and beloved to
+their spiritual companions, respected and admired. What five?
+
+It's when a mendicant is ethical, restrained in the monastic code,
+conducting themselves well and resorting for alms in suitable places.
+Seeing danger in the slightest fault, they keep the rules they've
+undertaken.
+
+They're very learned, remembering and keeping what they've learned.
+These teachings are good in the beginning, good in the middle, and good
+in the end, meaningful and well-phrased, describing a spiritual practice
+that's totally full and pure. They are very learned in such teachings,
+remembering them, reciting them, mentally scrutinizing them, and
+comprehending them theoretically.
+
+They're a good speaker who enunciates well, with a polished, clear, and
+articulate voice that expresses the meaning.
+
+They get the four absorptions---blissful meditations in this life that
+belong to the higher mind---when they want, without trouble or
+difficulty.
+
+They realize the undefiled freedom of heart and freedom by wisdom in
+this very life. And they live having realized it with their own insight
+due to the ending of defilements.
+
+A senior mendicant with these five qualities is dear and beloved to
+their spiritual companions, respected and admired."
+
+"Good, good, [Upavāna]{lang="sa"}! A senior mendicant with these five
+qualities is dear and beloved to their spiritual companions, respected
+and admired. If these five qualities are not found in a senior
+mendicant, why would their spiritual companions honor, respect, revere,
+or venerate them? Because of their broken teeth, gray hair, and wrinkled
+skin? But since these five qualities are found in a senior mendicant,
+their spiritual companions honor, respect, revere, or venerate them."
+
+### N 5.167 Accusation  *Codanāsutta* {#n-5.167-accusation-codanāsutta .unnumbered}
+
+There [Sāriputta]{lang="sa"} addressed the mendicants: "Reverends, a
+mendicant who wants to accuse another should first establish five things
+in themselves.
+
+What five? I will speak at the right time, not at the wrong time. I will
+speak truthfully, not falsely. I will speak gently, not harshly. I will
+speak beneficially, not harmfully. I will speak lovingly, not from
+secret hate. A mendicant who wants to accuse another should first
+establish these five things in themselves.
+
+Take a case where I see a certain person being accused at the wrong
+time, not being disturbed at the right time. They're accused falsely,
+not disturbed truthfully. They're accused harshly, not disturbed gently.
+They're accused harmfully, not disturbed beneficially. They're accused
+with secret hate, not disturbed lovingly.
+
+The mendicant who is accused improperly should be reassured in five
+ways. 'Venerable, you were accused at the wrong time, not at the right
+time. There's no need for you to feel remorse. You were accused falsely,
+not truthfully. ... You were accused harshly, not gently. ... You were
+accused harmfully, not beneficially. ... You were accused with secret
+hate, not lovingly. There's no need for you to feel remorse.' A
+mendicant who is accused improperly should be reassured in these five
+ways.
+
+The mendicant who makes improper accusations should be chastened in five
+ways. 'Reverend, you made an accusation at the wrong time, not at the
+right time. There's a reason for you to feel remorse. You made an
+accusation falsely, not truthfully. ... You made an accusation harshly,
+not gently. ... You made an accusation harmfully, not beneficially. ...
+You made an accusation with secret hate, not lovingly. There's a reason
+for you to feel remorse.' The mendicant who makes improper accusations
+should be chastened in these five ways. Why is that? So that another
+mendicant wouldn't think to make a false accusation.
+
+Take a case where I see a certain person being accused at the right
+time, not being disturbed at the wrong time. They're accused truthfully,
+not disturbed falsely. They're accused gently, not disturbed harshly.
+They're accused beneficially, not disturbed harmfully. They're accused
+lovingly, not disturbed with secret hate.
+
+The mendicant who is accused properly should be chastened in five ways.
+'Venerable, you were accused at the right time, not at the wrong time.
+There's a reason for you to feel remorse. You were accused truthfully,
+not falsely. ... You were accused gently, not harshly. ... You were
+accused beneficially, not harmfully. ... You were accused lovingly, not
+with secret hate. There's a reason for you to feel remorse.' The
+mendicant who is accused properly should be chastened in these five
+ways.
+
+The mendicant who makes proper accusations should be reassured in five
+ways. 'Reverend, you made an accusation at the right time, not at the
+wrong time. There's no need for you to feel remorse. You made an
+accusation truthfully, not falsely. ... You made an accusation gently,
+not harshly. ... You made an accusation beneficially, not harmfully. ...
+You made an accusation lovingly, not with secret hate. There's no need
+for you to feel remorse.' The mendicant who makes proper accusations
+should be reassured in these five ways. Why is that? So that another
+mendicant would think to make a true accusation.
+
+A person who is accused should ground themselves in two things: truth
+and an even temper. Even if others accuse me---at the right time or the
+wrong time, truthfully or falsely, gently or harshly, beneficially or
+harmfully, lovingly or with secret hate---I will still ground myself in
+two things: truth and an even temper. If I know that that quality is
+found in me, I will tell them that it is. If I know that that quality is
+not found in me, I will tell them that it is not."
+
+"Even when you speak like this, [Sāriputta]{lang="sa"}, there are still
+some silly people here who do not respectfully take it up."
+
+"Sir, there are those faithless people who went forth from the lay life
+to homelessness not out of faith but to earn a livelihood. They're
+devious, deceitful, and sneaky. They're restless, insolent, fickle,
+scurrilous, and loose-tongued. They do not guard their sense doors or
+eat in moderation, and they are not dedicated to wakefulness. They don't
+care about the ascetic life, and don't keenly respect the training.
+They're indulgent and slack, leaders in backsliding, neglecting
+seclusion, lazy, and lacking energy. They're unmindful, lacking
+situational awareness and immersion, with straying minds, witless and
+idiotic. When I speak to them like this, they don't respectfully take it
+up.
+
+Sir, there are those gentlemen who went forth from the lay life to
+homelessness out of faith. They're not devious, deceitful, and sneaky.
+They're not restless, insolent, fickle, scurrilous, and loose-tongued.
+They guard their sense doors and eat in moderation, and they are
+dedicated to wakefulness. They care about the ascetic life, and keenly
+respect the training. They're not indulgent or slack, nor are they
+leaders in backsliding, neglecting seclusion. They're energetic and
+determined. They're mindful, with situational awareness, immersion, and
+unified minds; wise and clever. When I speak to them like this, they do
+respectfully take it up."
+
+"[Sāriputta]{lang="sa"}, those faithless people who went forth from the
+lay life to homelessness not out of faith but to earn a livelihood ...
+Leave them be.
+
+But those gentlemen who went forth from the lay life to homelessness out
+of faith ... You should speak to them. [Sāriputta]{lang="sa"}, you
+should advise your spiritual companions! You should instruct your
+spiritual companions! Thinking: 'I will draw my spiritual companions
+away from false teachings and ground them in true teachings.' That's how
+you should train."
+
+### N 5.168 Ethics  *Sīlasutta* {#n-5.168-ethics-sīlasutta .unnumbered}
+
+There Venerable [Sāriputta]{lang="sa"} addressed the mendicants:
+
+"Reverends, an unethical person, who lacks ethics, has destroyed a vital
+condition for right immersion. When there is no right immersion, one who
+lacks right immersion has destroyed a vital condition for true knowledge
+and vision. When there is no true knowledge and vision, one who lacks
+true knowledge and vision has destroyed a vital condition for
+disillusionment and dispassion. When there is no disillusionment and
+dispassion, one who lacks disillusionment and dispassion has destroyed a
+vital condition for knowledge and vision of freedom.
+
+Suppose there was a tree that lacked branches and foliage. Its shoots,
+bark, softwood, and heartwood would not grow to fullness.
+
+In the same way, an unethical person, who lacks ethics, has destroyed a
+vital condition for right immersion. When there is no right immersion,
+one who lacks right immersion has destroyed a vital condition for true
+knowledge and vision. When there is no true knowledge and vision, one
+who lacks true knowledge and vision has destroyed a vital condition for
+disillusionment and dispassion. When there is no disillusionment and
+dispassion, one who lacks disillusionment and dispassion has destroyed a
+vital condition for knowledge and vision of freedom.
+
+An ethical person, who has fulfilled ethics, has fulfilled a vital
+condition for right immersion. When there is right immersion, one who
+has fulfilled right immersion has fulfilled a vital condition for true
+knowledge and vision. When there is true knowledge and vision, one who
+has fulfilled true knowledge and vision has fulfilled a vital condition
+for disillusionment and dispassion. When there is disillusionment and
+dispassion, one who has fulfilled disillusionment and dispassion has
+fulfilled a vital condition for knowledge and vision of freedom.
+
+Suppose there was a tree that was complete with branches and foliage.
+Its shoots, bark, softwood, and heartwood would grow to fullness. In the
+same way, an ethical person, who has fulfilled ethics, has fulfilled a
+vital condition for right immersion.
+
+When there is right immersion, one who has fulfilled right immersion has
+fulfilled a vital condition for true knowledge and vision. When there is
+true knowledge and vision, one who has fulfilled true knowledge and
+vision has fulfilled a vital condition for disillusionment and
+dispassion. When there is disillusionment and dispassion, one who has
+fulfilled disillusionment and dispassion has fulfilled a vital condition
+for knowledge and vision of freedom."
+
+### N 5.169 Quick-witted  *Khippanisantisutta* {#n-5.169-quick-witted-khippanisantisutta .unnumbered}
+
+Then Venerable Ānanda went up to Venerable [Sāriputta]{lang="sa"}, and
+exchanged greetings with him. When the greetings and polite conversation
+were over, he sat down to one side and said to him:
+
+"Reverend [Sāriputta]{lang="sa"}, how are we to define a mendicant who
+is quick-witted when it comes to skillful teachings, who learns well,
+learns much, and does not forget what they've learned?"
+
+"Well, Venerable Ānanda, you're very learned. Why don't you clarify this
+yourself?"
+
+"Well then, Reverend [Sāriputta]{lang="sa"}, listen and apply your mind
+well, I will speak."
+
+"Yes, reverend," [Sāriputta]{lang="sa"} replied. Venerable Ānanda said
+this:
+
+"It's when a mendicant is skilled in the meaning, skilled in the
+teaching, skilled in terminology, skilled in phrasing, and skilled in
+sequence. That is how to define a mendicant who is quick-witted when it
+comes to skillful teachings, who learns well, learns much, and does not
+forget what they've learned."
+
+"It's incredible, it's amazing! How well this was said by Venerable
+Ānanda! And we will remember Venerable Ānanda as someone who has these
+five qualities: 'Reverend Ānanda is skilled in the meaning, skilled in
+the teaching, skilled in terminology, skilled in phrasing, and skilled
+in sequence.'"
+
+### N 5.170 With Bhaddaji  *Bhaddajisutta* {#n-5.170-with-bhaddaji-bhaddajisutta .unnumbered}
+
+At one time Venerable Ānanda was staying near [Kosambī]{lang="sa"}, in
+Ghosita's Monastery. Then Venerable Bhaddaji went up to Venerable
+Ānanda, and exchanged greetings with him. When the greetings and polite
+conversation were over, he sat down to one side, and Venerable Ānanda
+said to him:
+
+"Reverend Bhaddaji, what is the best sight, the best sound, the best
+happiness, the best perception, and the best state of existence?"
+
+"Reverend, there is this Divinity, the vanquisher, the unvanquished, the
+universal seer, the wielder of power. When you see the Divinity, that's
+the best sight. There are the gods called 'of streaming radiance', who
+are drenched and steeped in pleasure. Every so often they feel inspired
+to exclaim: 'Oh, what bliss! Oh, what bliss!' When you hear that, it's
+the best sound. There are the gods called 'of universal beauty'. Since
+they're truly content, they experience pleasure. This is the best
+happiness. There are the gods reborn in the dimension of nothingness.
+This is the best perception. There are the gods reborn in the dimension
+of neither perception nor non-perception. This is the best state of
+existence."
+
+"So, Venerable Bhaddaji, do you agree with what most people say about
+this?"
+
+"Well, Venerable Ānanda, you're very learned. Why don't you clarify this
+yourself?"
+
+"Well then, Reverend Bhaddaji, listen and apply your mind well, I will
+speak."
+
+"Yes, reverend," Bhaddaji replied. Ānanda said this:
+
+"What you see when the defilements end in the present life is the best
+sight. What you hear when the defilements end in the present life is the
+best sound. The happiness you feel when the defilements end in the
+present life is the best happiness. What you perceive when the
+defilements end in the present life is the best perception. The state of
+existence in which the defilements end in the present life is the best
+state of existence."
+
+## The Chapter on a Lay Follower  {#the-chapter-on-a-lay-follower .unnumbered}
+
+### N 5.171 Timidity  *Sārajjasutta* {#n-5.171-timidity-sārajjasutta .unnumbered}
+
+[So I have heard.]{.smallcaps} At one time the Buddha was staying near
+[Sāvatthī]{lang="sa"} in Jeta's Grove, [Anāthapiṇḍika]{lang="sa"}'s
+monastery. There the Buddha addressed the mendicants, "Mendicants!"
+
+"Venerable sir," they replied. The Buddha said this:
+
+"A lay follower with five qualities is overcome by timidity. What five?
+They kill living creatures, steal, commit sexual misconduct, lie, and
+consume beer, wine, and liquor intoxicants. A lay follower with these
+five qualities is overcome by timidity.
+
+A lay follower with five qualities is self-assured. What five? They
+don't kill living creatures, steal, commit sexual misconduct, lie, or
+consume beer, wine, and liquor intoxicants. A lay follower with these
+five qualities is self-assured."
+
+### N 5.172 Assured  *Visāradasutta* {#n-5.172-assured-visāradasutta .unnumbered}
+
+"A lay follower living at home with five qualities is not self-assured.
+What five? They kill living creatures, steal, commit sexual misconduct,
+lie, and consume beer, wine, and liquor intoxicants. A lay follower
+living at home with these five qualities is not self-assured.
+
+A lay follower living at home with these five qualities is self-assured.
+What five? They don't kill living creatures, steal, commit sexual
+misconduct, lie, or consume beer, wine, and liquor intoxicants. A lay
+follower living at home with these five qualities is self-assured."
+
+### N 5.173 Hell  *Nirayasutta* {#n-5.173-hell-nirayasutta .unnumbered}
+
+"Mendicants, a lay follower with five qualities is cast down to hell.
+What five? They kill living creatures, steal, commit sexual misconduct,
+lie, and consume beer, wine, and liquor intoxicants. A lay follower with
+these five qualities is cast down to hell.
+
+A lay follower with five qualities is raised up to heaven. What five?
+They don't kill living creatures, steal, commit sexual misconduct, lie,
+or consume beer, wine, and liquor intoxicants. A lay follower with these
+five qualities is raised up to heaven."
+
+### N 5.174 Threats  *Verasutta* {#n-5.174-threats-verasutta .unnumbered}
+
+Then the householder [Anāthapiṇḍika]{lang="sa"} went up to the Buddha,
+bowed, and sat down to one side. The Buddha said to him:
+
+"Householder, unless these five dangers and threats are given up, one is
+said to be unethical, and is reborn in hell. What five? Killing living
+creatures, stealing, committing sexual misconduct, lying, and consuming
+beer, wine, and liquor intoxicants. Unless these five dangers and
+threats are given up, one is said to be unethical, and is reborn in
+hell.
+
+Once these five dangers and threats are given up, one is said to be
+ethical, and is reborn in heaven. What five? Killing living creatures,
+stealing, committing sexual misconduct, lying, and consuming beer, wine,
+and liquor intoxicants. Once these five dangers and threats are given
+up, one is said to be ethical, and is reborn in heaven.
+
+Anyone who kills living creatures creates dangers and threats both in
+this life and in lives to come, and experiences mental pain and sadness.
+Anyone who refrains from killing living creatures creates no dangers and
+threats either in this life or in lives to come, and doesn't experience
+mental pain and sadness. So that danger and threat is quelled for anyone
+who refrains from killing living creatures.
+
+Anyone who steals ...
+
+Anyone who commits sexual misconduct ...
+
+Anyone who lies ...
+
+Anyone who consumes beer, wine, and liquor intoxicants creates dangers
+and threats both in this life and in lives to come, and experiences
+mental pain and sadness. Anyone who refrains from consuming beer, wine,
+and liquor intoxicants creates no dangers and threats either in this
+life or in lives to come, and doesn't experience mental pain and
+sadness. So that danger and threat is quelled for anyone who refrains
+from consuming beer, wine, and liquor intoxicants.
+
+> Take anyone in this world\
+> who kills living creatures,\
+> speaks falsely, steals,\
+> commits adultery,\
+> and indulges in drinking\
+> beer and wine.
+>
+> Unless they give up these five threats,\
+> they're said to be unethical.\
+> When their body breaks up, that witless person\
+> is reborn in hell.
+>
+> A person in the world doesn't kill living creatures,\
+> speak falsely,\
+> steal,\
+> commit adultery,\
+> or indulge in drinking\
+> beer and wine.
+>
+> Giving up these five threats,\
+> they're said to be ethical.\
+> When their body breaks up, that wise person\
+> is reborn in a good place."
+
+### N 5.175 Corpse-worker  *Caṇḍālasutta* {#n-5.175-corpse-worker-caṇḍālasutta .unnumbered}
+
+"Mendicants, a lay follower with five qualities is a corpse-worker, a
+stain, and a reject among lay followers. What five? They're faithless.
+They're unethical. They follow boisterous, superstitious rites,
+believing in omens rather than deeds. They seek outside of the Buddhist
+community for those worthy of religious donations. And they make
+offerings there first. A lay follower with these five qualities is a
+corpse-worker, a stain, and a reject among lay followers.
+
+A lay follower with five qualities is a gem, a pink lotus, and a white
+lotus among lay followers. What five? They're faithful. They're ethical.
+They don't practice boisterous, superstitious rites, and believe in
+deeds rather than omens. They don't seek outside of the Buddhist
+community for those worthy of religious donations. And they don't make
+offerings there first. A lay follower with these five qualities is a
+gem, a pink lotus, and a white lotus among lay followers."
+
+### N 5.176 Rapture  *Pītisutta* {#n-5.176-rapture-pītisutta .unnumbered}
+
+Then the householder [Anāthapiṇḍika]{lang="sa"}, escorted by around five
+hundred lay followers, went up to the Buddha, bowed, and sat down to one
+side. The Buddha said to him:
+
+"Householders, you have supplied the mendicant [Saṅgha]{lang="sa"} with
+robes, almsfood, lodgings, and medicines and supplies for the sick. But
+you should not be content with just this much. So you should train like
+this: 'How can we, from time to time, enter and dwell in the rapture of
+seclusion?' That's how you should train."
+
+When he said this, Venerable [Sāriputta]{lang="sa"} said to the Buddha,
+"It's incredible, sir, it's amazing! How well said this was by the
+Buddha: 'Householders, you have supplied the mendicant
+[Saṅgha]{lang="sa"} with robes, almsfood, lodgings, and medicines and
+supplies for the sick. But you should not be content with just this
+much. So you should train like this: "How can we, from time to time,
+enter and dwell in the rapture of seclusion?" That's how you should
+train.'
+
+At a time when a noble disciple enters and dwells in the rapture of
+seclusion, five things aren't present in him. The pain and sadness
+connected with sensual pleasures. The pleasure and happiness connected
+with sensual pleasures. The pain and sadness connected with the
+unskillful. The pleasure and happiness connected with the unskillful.
+The pain and sadness connected with the skillful. At a time when a noble
+disciple enters and dwells in the rapture of seclusion, these five
+things aren't present in him."
+
+"Good, good, [Sāriputta]{lang="sa"}! At a time when a noble disciple
+enters and dwells in the rapture of seclusion, five things aren't
+present in him. The pain and sadness connected with sensual pleasures.
+The pleasure and happiness connected with sensual pleasures. The pain
+and sadness connected with the unskillful. The pleasure and happiness
+connected with the unskillful. The pain and sadness connected with the
+skillful. At a time when a noble disciple enters and dwells in the
+rapture of seclusion, these five things aren't present in him."
+
+### N 5.177 Trades  *Vaṇijjāsutta* {#n-5.177-trades-vaṇijjāsutta .unnumbered}
+
+"Mendicants, a lay follower should not engage in these five trades. What
+five? Trade in weapons, living creatures, meat, intoxicants, and
+poisons. A lay follower should not engage in these five trades."
+
+### N 5.178 Kings  *Rājāsutta* {#n-5.178-kings-rājāsutta .unnumbered}
+
+"What do you think, mendicants? Have you ever seen or heard of a person
+who has given up killing living creatures, and the kings have them
+arrested for that, and execute, imprison, or banish them, or do what the
+case requires?"
+
+"No, sir."
+
+"Good, mendicants! I too have never seen or heard of such a thing.
+Rather, the kings are informed of someone's bad deed: 'This person has
+murdered a man or a woman.' The kings have them arrested for killing,
+and execute, imprison, or banish them, or do what the case requires.
+Have you ever seen or heard of such a case?"
+
+"Sir, we have seen it and heard of it, and we will hear of it again."
+
+"What do you think, mendicants? Have you ever seen or heard of a person
+who has given up stealing, and the kings have them arrested for that
+...?"
+
+"No, sir."
+
+"Good, mendicants! I too have never seen or heard of such a thing.
+Rather, the kings are informed of someone's bad deed: 'This person took
+something from a village or wilderness, with the intention to commit
+theft.' The kings have them arrested for stealing ... Have you ever seen
+or heard of such a case?"
+
+"Sir, we have seen it and heard of it, and we will hear of it again."
+
+"What do you think, mendicants? Have you ever seen or heard of a person
+who has given up sexual misconduct, and the kings have them arrested for
+that ...?"
+
+"No, sir."
+
+"Good, mendicants! I too have never seen or heard of such a thing.
+Rather, the kings are informed of someone's bad deed: 'This person had
+sexual relations with women or maidens under someone else's protection.'
+The kings have them arrested for that ... Have you ever seen or heard of
+such a case?"
+
+"Sir, we have seen it and heard of it, and we will hear of it again."
+
+"What do you think, mendicants? Have you ever seen or heard of a person
+who has given up lying, and the kings have them arrested for that ...?"
+
+"No, sir."
+
+"Good, mendicants! I too have never seen or heard of such a thing.
+Rather, the kings are informed of someone's bad deed: 'This person has
+ruined a householder or householder's child by lying.' The kings have
+them arrested for that ... Have you ever seen or heard of such a case?"
+
+"Sir, we have seen it and heard of it, and we will hear of it again."
+
+"What do you think, mendicants? Have you ever seen or heard of a person
+who has given up beer, wine, and liquor intoxicants, and the kings have
+them arrested for that, and execute, imprison, or banish them, or do
+what the case requires?"
+
+"No, sir."
+
+"Good, mendicants! I too have never seen or heard of such a thing.
+Rather, the kings are informed of someone's bad deed: 'While under the
+influence of beer, wine, and liquor intoxicants, this person murdered a
+woman or a man. Or they stole something from a village or wilderness. Or
+they had sexual relations with women or maidens under someone else's
+protection. Or they ruined a householder or householder's child by
+lying.' The kings have them arrested for being under the influence of
+beer, wine, and liquor intoxicants, and execute, imprison, or banish
+them, or do what the case requires. Have you ever seen or heard of such
+a case?"
+
+"Sir, we have seen it and heard of it, and we will hear of it again."
+
+### N 5.179 A Layperson  *Gihisutta* {#n-5.179-a-layperson-gihisutta .unnumbered}
+
+Then the householder [Anāthapiṇḍika]{lang="sa"}, escorted by around five
+hundred lay followers, went up to the Buddha, bowed, and sat down to one
+side. Then the Buddha said to Venerable [Sāriputta]{lang="sa"}:
+
+"You should know this, [Sāriputta]{lang="sa"}, about those white-clothed
+laypeople whose actions are restrained in the five precepts, and who get
+four blissful meditations in this life belonging to the higher mind when
+they want, without trouble or difficulty. They may, if they wish,
+declare of themselves: 'I've finished with rebirth in hell, the animal
+realm, and the ghost realm. I've finished with all places of loss, bad
+places, the underworld. I am a stream-enterer! I'm not liable to be
+reborn in the underworld, and am bound for awakening.'
+
+And what are the five precepts in which their actions are restrained?
+It's when a noble disciple doesn't kill living creatures, steal, commit
+sexual misconduct, lie, or consume beer, wine, and liquor intoxicants.
+These are the five precepts in which their actions are restrained.
+
+And what are the four blissful meditations in this life belonging to the
+higher mind that they get when they want, without trouble or difficulty?
+
+It's when a noble disciple has experiential confidence in the Buddha:
+'That Blessed One is perfected, a fully awakened Buddha, accomplished in
+knowledge and conduct, holy, knower of the world, supreme guide for
+those who wish to train, teacher of gods and humans, awakened, blessed.'
+This is the first blissful meditation in this life belonging to the
+higher mind, which they achieve in order to purify the unpurified mind
+and cleanse the unclean mind.
+
+Furthermore, a noble disciple has experiential confidence in the
+teaching: 'The teaching is well explained by the Buddha---apparent in
+the present life, immediately effective, inviting inspection, relevant,
+so that sensible people can know it for themselves.' This is the second
+blissful meditation ...
+
+Furthermore, a noble disciple has experiential confidence in the
+[Saṅgha]{lang="sa"}: 'The [Saṅgha]{lang="sa"} of the Buddha's disciples
+is practicing the way that's good, sincere, systematic, and proper. It
+consists of the four pairs, the eight individuals. This is the
+[Saṅgha]{lang="sa"} of the Buddha's disciples that is worthy of
+offerings dedicated to the gods, worthy of hospitality, worthy of a
+religious donation, worthy of greeting with joined palms, and is the
+supreme field of merit for the world.' This is the third blissful
+meditation ...
+
+Furthermore, a noble disciple's ethical conduct is loved by the noble
+ones, unbroken, impeccable, spotless, and unmarred, liberating, praised
+by sensible people, not mistaken, and leading to immersion. This is the
+fourth blissful meditation in this life belonging to the higher mind,
+which they achieve in order to purify the unpurified mind and cleanse
+the unclean mind. These are the four blissful meditations in this life
+belonging to the higher mind that they get when they want, without
+trouble or difficulty.
+
+You should know this, [Sāriputta]{lang="sa"}, about those white-clothed
+laypeople whose actions are restrained in the five precepts, and who get
+four blissful meditations in this life belonging to the higher mind when
+they want, without trouble or difficulty. They may, if they wish,
+declare of themselves: 'I've finished with rebirth in hell, the animal
+realm, and the ghost realm. I've finished with all places of loss, bad
+places, the underworld. I am a stream-enterer! I'm not liable to be
+reborn in the underworld, and am bound for awakening.'
+
+> Seeing the peril in the hells,\
+> you should shun bad deeds.\
+> Taking up the teaching of the noble ones,\
+> an astute person should shun them.
+>
+> You shouldn't harm living beings,\
+> so long as strength is found.\
+> Nor should you knowingly speak falsehood,\
+> or take what is not given.
+>
+> Content with your own partners,\
+> you should stay away from the partners of others.\
+> A man shouldn't drink wine or toddy,\
+> as they confuse the mind.
+>
+> You should recollect the Buddha,\
+> and reflect on the teaching.\
+> You should develop a harmless mind of welfare,\
+> which leads to the realms of gods.
+>
+> When suitable gifts to give are available\
+> to someone who seeks and needs merit,\
+> a religious donation is abundant\
+> if given first to the peaceful ones.
+>
+> I will tell of the peaceful ones,\
+> [Sāriputta]{lang="sa"}, listen to me.\
+> Cows may be black or white,\
+> red or tawny,
+>
+> mottled or uniform,\
+> or pigeon-colored.\
+> But when one is born among them,\
+> the bull that's tamed---
+>
+> a behemoth, powerful,\
+> well-paced in pulling forward---\
+> they yoke the load just to him,\
+> regardless of his color.
+>
+> So it is for humans,\
+> wherever they may be born---\
+> among aristocrats, brahmins, peasants,\
+> menials, or corpse-workers and scavengers---
+>
+> but when one is born among them,\
+> tamed, true to their vows.\
+> Firm in principle, accomplished in ethical conduct,\
+> truthful, conscientious,
+>
+> they've given up birth and death,\
+> and have completed the spiritual journey.\
+> With burden put down, detached,\
+> they've completed the task\
+> \>and are free of defilements.
+>
+> Gone beyond all things,\
+> they're quenched by not grasping.\
+> In that flawless field,\
+> a religious donation is abundant.
+>
+> Fools who don't understand---\
+> unlearned simpletons---\
+> give their gifts to those outside,\
+> and don't attend the peaceful ones.
+>
+> But those who do attend the peaceful ones---\
+> wise, esteemed as attentive---\
+> and whose faith in the Holy One\
+> has roots planted deep,
+>
+> they go to the realm of the gods,\
+> or are born here in a good family.\
+> Gradually those astute ones\
+> reach extinguishment."
+
+### N 5.180 About Gavesī  *Gavesīsutta* {#n-5.180-about-gavesī-gavesīsutta .unnumbered}
+
+At one time the Buddha was wandering in the land of the Kosalans
+together with a large [Saṅgha]{lang="sa"} of mendicants. While traveling
+along a road the Buddha saw a large sal grove in a certain spot. He left
+the road, went to the sal grove, and plunged deep into it. And at a
+certain spot he smiled.
+
+Then Venerable Ānanda thought, "What is the cause, what is the reason
+why the Buddha smiled? Realized Ones do not smile for no reason."
+
+So Venerable Ānanda said to the Buddha, "What is the cause, what is the
+reason why the Buddha smiled? Realized Ones do not smile for no reason."
+
+"Once upon a time, Ānanda, there was a city in this spot that was
+successful and prosperous, populous, full of people. And Kassapa, a
+blessed one, a perfected one, a fully awakened Buddha, lived supported
+by that city.
+
+He had a lay follower called [Gavesī]{lang="sa"} who had not fulfilled
+all the precepts. And the five hundred lay followers who were taught and
+advised by [Gavesī]{lang="sa"} also had not fulfilled all the precepts.
+Then [Gavesī]{lang="sa"} thought: 'I'm the helper, leader, and adviser
+of these five hundred lay followers, yet neither I nor they have
+fulfilled the precepts. We're the same, I'm in no way better. So let me
+do better.'
+
+Then [Gavesī]{lang="sa"} went to those five hundred lay followers and
+said to them: 'From this day forth may the venerables remember me as one
+who has fulfilled the precepts.' Then those five hundred lay followers
+thought: 'Master [Gavesī]{lang="sa"} is our helper, leader, and adviser,
+and now he will fulfill the precepts. Why don't we do the same?' Then
+those five hundred lay followers went to [Gavesī]{lang="sa"} and said to
+him: 'From this day forth may Master [Gavesī]{lang="sa"} remember these
+five hundred lay followers as having fulfilled the precepts.'
+
+Then [Gavesī]{lang="sa"} thought: 'I'm the helper, leader, and adviser
+of these five hundred lay followers, and both I and they have fulfilled
+the precepts. We're the same, I'm in no way better. So let me do
+better.'
+
+Then [Gavesī]{lang="sa"} went to those five hundred lay followers and
+said to them: 'From this day forth may the venerables remember me as one
+who is celibate, set apart, avoiding the vulgar act of sex.' Then those
+five hundred lay followers did the same. ...
+
+Then [Gavesī]{lang="sa"} thought: 'These five hundred lay followers ...
+are celibate, set apart, avoiding the vulgar act of sex. We're the same,
+I'm in no way better. So let me do better.'
+
+Then [Gavesī]{lang="sa"} went to those five hundred lay followers and
+said to them: 'From this day forth may the venerables remember me as one
+who eats in one part of the day, abstaining from eating at night, and
+from food at the wrong time.' Then those five hundred lay followers did
+the same. ...
+
+Then [Gavesī]{lang="sa"} thought: 'These five hundred lay followers ...
+eat in one part of the day, abstaining from eating at night, and food at
+the wrong time. We're the same, I'm in no way better. So let me do
+better.'
+
+Then the lay follower [Gavesī]{lang="sa"} went up to the blessed one
+Kassapa, the perfected one, the fully awakened Buddha and said to him:
+'Sir, may I receive the going forth, the ordination in the Buddha's
+presence?' And he received the going forth, the ordination in the
+Buddha's presence. Not long after his ordination, the mendicant
+[Gavesī]{lang="sa"}, living alone, withdrawn, diligent, keen, and
+resolute, realized the supreme culmination of the spiritual path in this
+very life. He lived having achieved with his own insight the goal for
+which gentlemen rightly go forth from the lay life to homelessness.
+
+He understood: 'Rebirth is ended; the spiritual journey has been
+completed; what had to be done has been done; there is nothing further
+for this place.' And the mendicant [Gavesī]{lang="sa"} became one of the
+perfected.
+
+Then those five hundred lay followers thought: 'Master
+[Gavesī]{lang="sa"} is our helper, leader, and adviser, He has shaved
+off his hair and beard, dressed in ocher robes, and gone forth from the
+lay life to homelessness. Why don't we do the same?' Then those five
+hundred lay followers went up to the blessed one Kassapa, the perfected
+one, the fully awakened Buddha and said to him: 'Sir, may we receive the
+going forth and ordination in the Buddha's presence?' And they did
+receive the going forth and ordination in the Buddha's presence.
+
+Then the mendicant [Gavesī]{lang="sa"} thought: 'I get the supreme bliss
+of freedom whenever I want, without trouble or difficulty. Oh, may these
+five hundred mendicants do the same!' Then those five hundred
+mendicants, living alone, withdrawn, diligent, keen, and resolute, soon
+realized the supreme culmination of the spiritual path in this very
+life. They lived having achieved with their own insight the goal for
+which gentlemen rightly go forth from the lay life to homelessness.
+
+They understood: 'Rebirth is ended, the spiritual journey has been
+completed, what had to be done has been done, there is nothing further
+for this place.'
+
+And so, Ānanda, those five hundred mendicants headed by
+[Gavesī]{lang="sa"}, trying to go higher and higher, better and better,
+realized the supreme bliss of freedom. So you should train like this:
+'Trying to go higher and higher, better and better, we will realize the
+supreme bliss of freedom.' That's how you should train."
+
+## The Chapter on Wilderness Dwellers  {#the-chapter-on-wilderness-dwellers .unnumbered}
+
+### N 5.181 Wilderness Dwellers  *Āraññikasutta* {#n-5.181-wilderness-dwellers-āraññikasutta .unnumbered}
+
+"Mendicants, there are these five kinds of wilderness dwellers. What
+five? A person may be wilderness dweller because of stupidity and folly.
+Or because of corrupt wishes, being of wishful temperament. Or because
+of madness and mental disorder. Or because it is praised by the Buddhas
+and their disciples. Or for the sake of having few wishes, for the sake
+of contentment, self-effacement, seclusion, and simplicity. These are
+the five kinds of wilderness dwellers. But the person who dwells in the
+wilderness for the sake of having few wishes is the foremost, best,
+chief, highest, and finest of the five.
+
+From a cow comes milk, from milk comes curds, from curds come butter,
+from butter comes ghee, and from ghee comes cream of ghee. And the cream
+of ghee is said to be the best of these. In the same way, the person who
+dwells in the wilderness for the sake of having few wishes is the
+foremost, best, chief, highest, and finest of the five."
+
+### N 5.182 Robes  *Cīvarasutta* {#n-5.182-robes-cīvarasutta .unnumbered}
+
+"Mendicants, these five wear rag robes. What five? A person may wear rag
+robes because of stupidity ... corrupt wishes ... madness ... because it
+is praised by the Buddhas ... or for the sake of having few wishes ...
+These are the five who wear rag robes."
+
+### N 5.183 Dwelling at the Root of a Tree  *Rukkhamūlikasutta* {#n-5.183-dwelling-at-the-root-of-a-tree-rukkhamūlikasutta .unnumbered}
+
+"Mendicants, there are these five who dwell at the root of a tree. What
+five? A person may dwell at the root of a tree because of stupidity ...
+corrupt wishes ... madness ... because it is praised by the Buddhas ...
+or for the sake of having few wishes ... These are the five who dwell at
+the root of a tree."
+
+### N 5.184 Charnel Ground Dwellers  *Sosānikasutta* {#n-5.184-charnel-ground-dwellers-sosānikasutta .unnumbered}
+
+"Mendicants, these five dwell in a charnel ground. What five? A person
+may dwell in a charnel ground because of stupidity ... corrupt wishes
+... madness ... because it is praised by the Buddhas ... or for the sake
+of having few wishes ... These are the five who dwell in a charnel
+ground."
+
+### N 5.185 Open Air Dwellers  *Abbhokāsikasutta* {#n-5.185-open-air-dwellers-abbhokāsikasutta .unnumbered}
+
+"These five dwell in the open air. ..."
+
+### N 5.186 Those Who Never Lie Down  *Nesajjikasutta* {#n-5.186-those-who-never-lie-down-nesajjikasutta .unnumbered}
+
+"These five never lie down. ..."
+
+### N 5.187 Those Who Sleep Wherever a Mat is Laid  *Yathāsanthatikasutta* {#n-5.187-those-who-sleep-wherever-a-mat-is-laid-yathāsanthatikasutta .unnumbered}
+
+"These five sleep wherever they lay their mat. ..."
+
+### N 5.188 Those Who Eat in One Sitting  *Ekāsanikasutta* {#n-5.188-those-who-eat-in-one-sitting-ekāsanikasutta .unnumbered}
+
+"These five eat in one sitting per day. ..."
+
+### N 5.189 Refusers of Late Food  *Khalupacchābhattikasutta* {#n-5.189-refusers-of-late-food-khalupacchābhattikasutta .unnumbered}
+
+"These five refuse to accept food offered after the meal has begun. ..."
+
+### N 5.190 Those Who Eat Only From the Almsbowl  *Pattapiṇḍikasutta* {#n-5.190-those-who-eat-only-from-the-almsbowl-pattapiṇḍikasutta .unnumbered}
+
+"Mendicants, these five eat only from the almsbowl. What five? A person
+may eat only from the almsbowl because of stupidity and folly. Or
+because of corrupt wishes, being of wishful temperament. Or because of
+madness and mental disorder. Or because it is praised by the Buddhas and
+their disciples. Or for the sake of having few wishes, for the sake of
+contentment, self-effacement, seclusion, and simplicity. These are the
+five kinds of people who eat only from the almsbowl. But the person who
+eats only from the almsbowl for the sake of having few wishes is the
+foremost, best, chief, highest, and finest of the five.
+
+From a cow comes milk, from milk comes curds, from curds come butter,
+from butter comes ghee, and from ghee comes cream of ghee. And the cream
+of ghee is said to be the best of these. In the same way, the person who
+eats only from the almsbowl for the sake of having few wishes is the
+foremost, best, chief, highest, and finest of the five."
+
+## The Chapter on Brahmins  {#the-chapter-on-brahmins .unnumbered}
+
+### N 5.191 Dogs  *Soṇasutta* {#n-5.191-dogs-soṇasutta .unnumbered}
+
+"Mendicants, these five ancient traditions of the brahmins are exhibited
+these days among dogs, but not among brahmins. What five?
+
+In the past brahmins had sex only with brahmin women, not with others.
+These days brahmins have sex with both brahmin women and others. But
+these days dogs have sex only with female dogs, not with other species.
+This is the first ancient tradition of the brahmins exhibited these days
+among dogs, but not among brahmins.
+
+In the past brahmins had sex only with brahmin women in the fertile
+phase of the menstrual cycle, not at other times. These days brahmins
+have sex with brahmin women both in the fertile phase of the menstrual
+cycle and at other times. But these days dogs have sex only with female
+dogs when they are in heat, not at other times. This is the second
+ancient tradition of the brahmins exhibited these days among dogs, but
+not among brahmins.
+
+In the past brahmins neither bought nor sold brahmin women. They lived
+together because they loved each other and wanted their family line to
+continue. These days brahmins both buy and sell brahmin women. They live
+together whether they love each other or not and they want their family
+line to continue. But these days dogs neither buy nor sell female dogs.
+They live together because they're attracted to each other and want
+their family line to continue. This is the third ancient tradition of
+the brahmins exhibited these days among dogs, but not among brahmins.
+
+In the past brahmins did not store up money, grain, silver, or gold.
+These days brahmins do store up money, grain, silver, and gold. But
+these days dogs don't store up money, grain, silver, or gold. This is
+the fourth ancient tradition of the brahmins exhibited these days among
+dogs, but not among brahmins.
+
+In the past brahmins went looking for almsfood for dinner in the
+evening, and for breakfast in the morning. These days brahmins eat as
+much as they like until their bellies are full, then take away the
+leftovers. But these days dogs go looking for dinner in the evening, and
+for breakfast in the morning. This is the fifth ancient tradition of the
+brahmins exhibited these days among dogs, but not among brahmins.
+
+These five ancient traditions of the brahmins are exhibited these days
+among dogs, but not among brahmins."
+
+### N 5.192 With the Brahmin Doṇa  *Doṇabrāhmaṇasutta* {#n-5.192-with-the-brahmin-doṇa-doṇabrāhmaṇasutta .unnumbered}
+
+Then [Doṇa]{lang="sa"} the brahmin went up to the Buddha, and exchanged
+greetings with him. When the greetings and polite conversation were
+over, [Doṇa]{lang="sa"} sat down to one side, and said to the Buddha:
+
+"Mister Gotama, I have heard that the ascetic Gotama doesn't bow to old
+brahmins, the elderly and senior, who are advanced in years and have
+reached the final stage of life; nor does he rise in their presence or
+offer them a seat. And this is indeed the case, for Mister Gotama does
+not bow to old brahmins, elderly and senior, who are advanced in years
+and have reached the final stage of life; nor does he rise in their
+presence or offer them a seat. This is not appropriate, Mister Gotama."
+
+"[Doṇa]{lang="sa"}, do you too claim to be a brahmin?"
+
+"Mister Gotama, if anyone should be rightly called a brahmin, it's me.
+For I am well born on both my mother's and father's side, of pure
+descent, with irrefutable and impeccable genealogy back to the seventh
+paternal generation. I recite and remember the hymns, and have mastered
+the three Vedas, together with their vocabularies and ritual
+performance, their phonology and word classification, and the testaments
+as fifth. I know them word-by-word, and their grammar. I am well versed
+in cosmology and the marks of a great man."
+
+"[Doṇa]{lang="sa"}, the ancient brahmin seers were [Aṭṭhaka]{lang="sa"},
+[Vāmaka]{lang="sa"}, [Vāmadeva]{lang="sa"}, [Vessāmitta]{lang="sa"},
+Yamadaggi, [Aṅgīrasa]{lang="sa"}, [Bhāradvāja]{lang="sa"},
+[Vāseṭṭha]{lang="sa"}, Kassapa, and Bhagu. They were the authors and
+propagators of the hymns, whose hymnal was sung and propagated and
+compiled in ancient times. These days, brahmins continue to sing and
+chant it. They continue chanting what was chanted, reciting what was
+recited, and teaching what was taught. Those seers described five kinds
+of brahmins. A brahmin who is equal to the Divinity, one who is equal to
+a god, one who toes the line, one who crosses the line, and the fifth is
+a brahmin corpse-worker. Which one of these are you, [Doṇa]{lang="sa"}?"
+
+"Mister Gotama, we don't know about these five kinds of brahmins. We
+just know the word 'brahmin'. Mister Gotama, please teach me this matter
+so I can learn about these five brahmins."
+
+"Well then, brahmin, listen and apply your mind well, I will speak."
+
+"Yes sir," [Doṇa]{lang="sa"} replied. The Buddha said this:
+
+"[Doṇa]{lang="sa"}, how is a brahmin equal to the Divinity?
+
+It's when a brahmin is well born on both the mother's and the father's
+sides, coming from a clean womb back to the seventh paternal generation,
+with irrefutable and impeccable genealogy. For forty-eight years he
+leads the boy's spiritual life studying the hymns. Then he seeks a fee
+for his tutor, but only by legitimate means, not illegitimate.
+
+In this context, [Doṇa]{lang="sa"}, what is legitimate? Not by farming,
+trade, raising cattle, archery, government service, or one of the
+professions, but solely by living on alms, not scorning the alms bowl.
+Having offered the fee to his tutor, he shaves off his hair and beard,
+dresses in ocher robes, and goes forth from the lay life to
+homelessness.
+
+Then they meditate spreading a heart full of love to one direction, and
+to the second, and to the third, and to the fourth. In the same way
+above, below, across, everywhere, all around, they spread a heart full
+of love to the whole world---abundant, expansive, limitless, free of
+enmity and ill will. They meditate spreading a heart full of compassion
+... rejoicing ... equanimity to one direction, and to the second, and to
+the third, and to the fourth. In the same way above, below, across,
+everywhere, all around, they spread a heart full of equanimity to the
+whole world---abundant, expansive, limitless, free of enmity and ill
+will. Having developed these four divine meditations, when the body
+breaks up, after death, they're reborn in a good place, a realm of
+divinity.
+
+That's how a brahmin is equal to the Divinity.
+
+And how is a brahmin equal to a god?
+
+It's when a brahmin is well born on both the mother's and the father's
+sides ... Having offered the fee to his tutor, he seeks a wife, but only
+by legitimate means, not illegitimate.
+
+In this context, [Doṇa]{lang="sa"}, what is legitimate? Not by buying or
+selling, he only accepts a brahmin woman by the pouring of water. He has
+sex only with a brahmin woman. He does not have sex with a woman from a
+family of aristocrats, peasants, menials, corpse-workers, hunters,
+bamboo-workers, chariot-makers, or scavengers. Nor does he have sex with
+women who are pregnant, breastfeeding, or outside the fertile phase of
+the menstrual cycle.
+
+And why does the brahmin not have sex with a pregnant woman? If a
+brahmin had sex with a pregnant woman, the boy or girl would be born in
+too much filth. That's why the brahmin doesn't have sex with a pregnant
+woman.
+
+And why does the brahmin not have sex with a breastfeeding woman? If a
+brahmin had sex with a breastfeeding woman, the boy or girl would drink
+back the semen. That's why the brahmin doesn't have sex with a
+breastfeeding woman.
+
+And why does the brahmin not have sex outside the fertile phase of the
+menstrual cycle? Because his brahmin wife is not there for sensual
+pleasure, fun, and enjoyment, but only for procreation. Having ensured
+his progeny through sex, he shaves off his hair and beard, dresses in
+ocher robes, and goes forth from the lay life to homelessness.
+
+When he has gone forth, quite secluded from sensual pleasures, secluded
+from unskillful qualities, he enters and remains in the first absorption
+... second absorption ... third absorption ... fourth absorption. Having
+developed these four absorptions, when the body breaks up, after death,
+they're reborn in a good place, a heavenly realm.
+
+That's how a brahmin is equal to god.
+
+And how does a brahmin toe the line?
+
+It's when a brahmin is well born on both the mother's and the father's
+sides ...
+
+Not by buying or selling, he only accepts a brahmin woman by the pouring
+of water. Having ensured his progeny through sex, his child makes him
+happy. Because of this attachment he stays in his family property, and
+does not go forth from the lay life to homelessness.
+
+As far as the line of the ancient brahmins extends, he doesn't cross
+over it. That's why he's called a brahmin who toes the line.
+
+That's how a brahmin toes the line.
+
+And how does a brahmin cross the line?
+
+It's when a brahmin is well born on both the mother's and the father's
+sides ...
+
+Having offered a fee for his tutor, he seeks a wife by both legitimate
+and illegitimate means. That is, by buying or selling, as well as
+accepting a brahmin woman by the pouring of water. He has sex with a
+brahmin woman, as well as with a woman from a family of aristocrats,
+peasants, menials, corpse-workers, hunters, bamboo workers,
+chariot-makers, or scavengers. And he has sex with women who are
+pregnant, breastfeeding, or outside the fertile phase of the menstrual
+cycle. His brahmin wife is there for sensual pleasure, fun, and
+enjoyment, as well as for procreation.
+
+As far as the line of the ancient brahmins extends, he crosses over it.
+That's why he's called a brahmin who crosses the line.
+
+That's how a brahmin crosses the line.
+
+And how is a brahmin a brahmin corpse-worker?
+
+It's when a brahmin is well born on both the mother's and the father's
+sides, coming from a clean womb back to the seventh paternal generation,
+with irrefutable and impeccable genealogy. For forty-eight years he
+leads the virginal spiritual life studying the hymns. Then he seeks a
+fee for his tutor by legitimate means and illegitimate means. By
+farming, trade, raising cattle, archery, government service, or one of
+the professions, not solely by living on alms, not scorning the alms
+bowl.
+
+Having offered a fee for his tutor, he seeks a wife by both legitimate
+and illegitimate means. That is, by buying or selling, as well as
+accepting a brahmin woman by the pouring of water. He has sex with a
+brahmin woman, as well as with a woman from a family of aristocrats,
+peasants, menials, corpse-workers, hunters, bamboo workers,
+chariot-makers, or scavengers. And he has sex with women who are
+pregnant, breastfeeding, or outside the fertile phase of the menstrual
+cycle. His brahmin wife is there for sensual pleasure, fun, and
+enjoyment, as well as for procreation.
+
+He earns a living by any kind of work. The brahmins say to him, 'My good
+man, why is it that you claim to be a brahmin, but you earn a living by
+any kind of work?'
+
+He says, 'It's like a fire that burns both pure and filthy things, but
+doesn't become corrupted by them. In the same way, my good man, if a
+brahmin earns a living by any kind of work, he is not corrupted by
+that.'
+
+A brahmin is called a brahmin corpse-worker because he earns a living by
+any kind of work.
+
+That's how a brahmin is a brahmin corpse-worker.
+
+[Doṇa]{lang="sa"}, the ancient brahmin seers were [Aṭṭhaka]{lang="sa"},
+[Vāmaka]{lang="sa"}, [Vāmadeva]{lang="sa"}, [Vessāmitta]{lang="sa"},
+Yamadaggi, [Aṅgīrasa]{lang="sa"}, [Bhāradvāja]{lang="sa"},
+[Vāseṭṭha]{lang="sa"}, Kassapa, and Bhagu. They were the authors and
+propagators of the hymns, whose hymnal was sung and propagated and
+compiled in ancient times. These days, brahmins continue to sing and
+chant it. They continue chanting what was chanted, reciting what was
+recited, and teaching what was taught.
+
+Those seers described five kinds of brahmins. A brahmin who is equal to
+the Divinity, one who is equal to a god, one who toes the line, one who
+crosses the line, and the fifth is a brahmin corpse-worker. Which one of
+these are you, [Doṇa]{lang="sa"}?"
+
+"This being so, Mister Gotama, I don't even qualify as a brahmin
+corpse-worker.
+
+Excellent, Mister Gotama! ... From this day forth, may Mister Gotama
+remember me as a lay follower who has gone for refuge for life."
+
+### N 5.193 With Saṅgārava  *Saṅgāravasutta* {#n-5.193-with-saṅgārava-saṅgāravasutta .unnumbered}
+
+Then [Saṅgārava]{lang="sa"} the brahmin went up to the Buddha, and
+exchanged greetings with him. When the greetings and polite conversation
+were over, [Saṅgārava]{lang="sa"} sat down to one side, and said to the
+Buddha:
+
+"What is the cause, Mister Gotama, what is the reason why sometimes even
+hymns that are long-practiced don't spring to mind, let alone those that
+are not practiced? And why is it that sometimes even hymns that are
+long-unpracticed spring to mind, let alone those that are practiced?"
+
+"Brahmin, there's a time when your heart is overcome and mired in
+sensual desire and you don't truly understand the escape from sensual
+desire that has arisen. At that time you don't truly know or see what is
+good for yourself, good for another, or good for both. Even hymns that
+are long-practiced don't spring to mind, let alone those that are not
+practiced. Suppose there was a bowl of water that was mixed with dye
+such as red lac, turmeric, indigo, or rose madder. Even a person with
+clear eyes checking their own reflection wouldn't truly know it or see
+it. In the same way, when your heart is overcome and mired in sensual
+desire ... Even hymns that are long-practiced don't spring to mind, let
+alone those that are not practiced.
+
+Furthermore, when your heart is overcome and mired in ill will ... Even
+hymns that are long-practiced don't spring to mind, let alone those that
+are not practiced. Suppose there was a bowl of water that was heated by
+fire, boiling and bubbling. Even a person with clear eyes checking their
+own reflection wouldn't truly know it or see it. In the same way, when
+your heart is overcome and mired in ill will ... Even hymns that are
+long-practiced don't spring to mind, let alone those that are not
+practiced.
+
+Furthermore, when your heart is overcome and mired in dullness and
+drowsiness ... Even hymns that are long-practiced don't spring to mind,
+let alone those that are not practiced. Suppose there was a bowl of
+water overgrown with moss and aquatic plants. Even a person with clear
+eyes checking their own reflection wouldn't truly know it or see it. In
+the same way, when your heart is overcome and mired in dullness and
+drowsiness ... Even hymns that are long-practiced don't spring to mind,
+let alone those that are not practiced.
+
+Furthermore, when your heart is overcome and mired in restlessness and
+remorse ... Even hymns that are long-practiced don't spring to mind, let
+alone those that are not practiced. Suppose there was a bowl of water
+stirred by the wind, churning, swirling, and rippling. Even a person
+with clear eyes checking their own reflection wouldn't truly know it or
+see it. In the same way, when your heart is overcome and mired in
+restlessness and remorse ... Even hymns that are long-practiced don't
+spring to mind, let alone those that are not practiced.
+
+Furthermore, when your heart is overcome and mired in doubt ... Even
+hymns that are long-practiced don't spring to mind, let alone those that
+are not practiced. Suppose there was a bowl of water that was cloudy,
+murky, and muddy, hidden in the darkness. Even a person with clear eyes
+checking their own reflection wouldn't truly know it or see it. In the
+same way, there's a time when your heart is overcome and mired in doubt
+and you don't truly understand the escape from doubt that has arisen. At
+that time you don't truly know or see what is good for yourself, good
+for another, or good for both. Even hymns that are long-practiced don't
+spring to mind, let alone those that are not practiced.
+
+There's a time when your heart is not overcome and mired in sensual
+desire and you truly understand the escape from sensual desire that has
+arisen. At that time you truly know and see what is good for yourself,
+good for another, and good for both. Even hymns that are
+long-unpracticed spring to mind, let alone those that are practiced.
+Suppose there was a bowl of water that was not mixed with dye such as
+red lac, turmeric, indigo, or rose madder. A person with clear eyes
+checking their own reflection would truly know it and see it. In the
+same way, when your heart is not overcome and mired in sensual desire
+... Even hymns that are long-unpracticed spring to mind, let alone those
+that are practiced.
+
+Furthermore, when your heart is not overcome and mired in ill will ...
+Even hymns that are long-unpracticed spring to mind, let alone those
+that are practiced. Suppose there was a bowl of water that's not heated
+by a fire, boiling and bubbling. A person with clear eyes checking their
+own reflection would truly know it and see it. In the same way, when
+your heart is not overcome and mired in ill will ... Even hymns that are
+long-unpracticed spring to mind, let alone those that are practiced.
+
+Furthermore, when your heart is not overcome and mired in dullness and
+drowsiness ... Even hymns that are long-unpracticed spring to mind, let
+alone those that are practiced. Suppose there was a bowl of water that's
+not overgrown with moss and aquatic plants. A person with clear eyes
+checking their own reflection would truly know it and see it. In the
+same way, when your heart is not overcome and mired in dullness and
+drowsiness ... Even hymns that are long-unpracticed spring to mind, let
+alone those that are practiced.
+
+Furthermore, when your heart is not overcome and mired in restlessness
+and remorse ... Even hymns that are long-unpracticed spring to mind, let
+alone those that are practiced. Suppose there was a bowl of water that's
+not stirred by the wind, churning, swirling, and rippling. A person with
+clear eyes checking their own reflection would truly know it and see it.
+In the same way, when your heart is not overcome and mired in
+restlessness and remorse ... Even hymns that are long-unpracticed spring
+to mind, let alone those that are practiced.
+
+Furthermore, when your heart is not overcome and mired in doubt ... Even
+hymns that are long-unpracticed spring to mind, let alone those that are
+practiced. Suppose there was a bowl of water that's transparent, clear,
+and unclouded, brought into the light. A person with clear eyes checking
+their own reflection would truly know it and see it. In the same way,
+there's a time when your heart is not overcome and mired in doubt and
+you truly understand the escape from doubt that has arisen. At that time
+you truly know and see what is good for yourself, good for another, and
+good for both. Even hymns that are long-unpracticed spring to mind, let
+alone those that are practiced.
+
+This is the cause, brahmin, this is the reason why sometimes even hymns
+that are long-practiced don't spring to mind, let alone those that are
+not practiced. And this is why sometimes even hymns that are
+long-unpracticed spring to mind, let alone those that are practiced."
+
+"Excellent, Mister Gotama! ... From this day forth, may Mister Gotama
+remember me as a lay follower who has gone for refuge for life."
+
+### N 5.194 With Kāraṇapālī  *Kāraṇapālīsutta* {#n-5.194-with-kāraṇapālī-kāraṇapālīsutta .unnumbered}
+
+At one time the Buddha was staying near [Vesālī]{lang="sa"}, at the
+Great Wood, in the hall with the peaked roof.
+
+Now at that time the brahmin [Kāraṇapālī]{lang="sa"} was working for the
+Licchavis. He saw the brahmin [Piṅgiyānī]{lang="sa"} coming off in the
+distance and said to him, "So, [Piṅgiyānī]{lang="sa"}, where are you
+coming from in the middle of the day?"
+
+"I'm coming, my good man, from the presence of the ascetic Gotama."
+
+"What do you think of the ascetic Gotama's lucidity of wisdom? Do you
+think he's astute?"
+
+"My good man, who am I to judge the ascetic Gotama's lucidity of wisdom?
+You'd really have to be on the same level to judge his lucidity of
+wisdom."
+
+"Mister [Piṅgiyānī]{lang="sa"} praises the ascetic Gotama with
+magnificent praise indeed."
+
+"Who am I to praise the ascetic Gotama? He is praised by the praised as
+the first among gods and humans."
+
+"But for what reason are you so devoted to the ascetic Gotama?"
+
+"Suppose a person was completely satisfied by the best tasting food.
+They wouldn't be attracted to anything that tasted inferior. In the same
+way, when you hear Mister Gotama's teaching---whatever it may be,
+whether statements, mixed prose & verse, discussions, or amazing
+stories---then you're not attracted to the doctrines of the various
+ascetics and brahmins.
+
+Suppose a person who was weak with hunger was to obtain a honey-cake.
+Wherever they taste it, they would enjoy a sweet, delicious flavor. In
+the same way, when you hear Mister Gotama's teaching---whatever it may
+be, whether statements, mixed prose & verse, discussions, or amazing
+stories---then you get a sense of uplift, a confidence of the heart.
+
+Suppose a person were to obtain a piece of sandalwood, whether yellow or
+red. Wherever they smelled it---whether at the root, the middle, or the
+top---they'd enjoy a delicious fragrance. In the same way, when you hear
+Mister Gotama's teaching---whatever it may be, whether statements, mixed
+prose & verse, discussions, or amazing stories---then you become filled
+with joy and happiness.
+
+Suppose there was a person who was sick, suffering, gravely ill. A good
+doctor would cure them on the spot. In the same way, when you hear
+Mister Gotama's teaching---whatever it may be, whether statements, mixed
+prose & verse, discussions, or amazing stories---then you make an end of
+sorrow, lamentation, pain, sadness, and distress.
+
+Suppose there was a lotus pond with clear, sweet, cool water, clean,
+with smooth banks, delightful. Then along comes a person struggling in
+the oppressive heat, weary, thirsty, and parched. They'd plunge into the
+lotus pond to bathe and drink. And all their stress, weariness, and heat
+exhaustion would die down. In the same way, when you hear Mister
+Gotama's teaching---whatever it may be, whether statements, mixed prose
+& verse, discussions, or amazing stories---then all your stress,
+weariness, and exhaustion die down."
+
+When this was said, the brahmin [Kāraṇapālī]{lang="sa"} got up from his
+seat, arranged his robe over one shoulder, knelt on his right knee,
+raised his joined palms toward the Buddha, and expressed this heartfelt
+sentiment three times:
+
+"Homage to that Blessed One, the perfected one, the fully awakened
+Buddha!
+
+Homage to that Blessed One, the perfected one, the fully awakened
+Buddha!
+
+Homage to that Blessed One, the perfected one, the fully awakened
+Buddha!
+
+Excellent, Mister [Piṅgiyānī]{lang="sa"}! Excellent! As if he were
+righting the overturned, or revealing the hidden, or pointing out the
+path to the lost, or lighting a lamp in the dark so people with clear
+eyes can see what's there, Mister [Piṅgiyānī]{lang="sa"} has made the
+teaching clear in many ways. I go for refuge to Mister Gotama, to the
+teaching, and to the mendicant [Saṅgha]{lang="sa"}. From this day forth,
+may Mister [Piṅgiyānī]{lang="sa"} remember me as a lay follower who has
+gone for refuge for life."
+
+### N 5.195 Piṅgiyānī  *Piṅgiyānīsutta* {#n-5.195-piṅgiyānī-piṅgiyānīsutta .unnumbered}
+
+At one time the Buddha was staying near [Vesālī]{lang="sa"}, at the
+Great Wood, in the hall with the peaked roof.
+
+Now at that time around five hundred Licchavis were visiting the Buddha.
+Some of the Licchavis were in blue, of blue color, clad in blue, adorned
+with blue. And some were similarly colored in yellow, red, or white. But
+the Buddha outshone them all in beauty and glory.
+
+Then the brahmin [Piṅgīyānī]{lang="sa"} got up from his seat, arranged
+his robe over one shoulder, raised his joined palms toward the Buddha,
+and said, "I feel inspired to speak, Blessed One! I feel inspired to
+speak, Holy One!"
+
+"Then speak as you feel inspired," said the Buddha. So the brahmin
+[Piṅgīyānī]{lang="sa"} extolled the Buddha in his presence with a
+fitting verse.
+
+> "Like a fragrant pink lotus\
+> that blooms in the morning, its fragrance unfaded---\
+> see [Aṅgīrasa]{lang="sa"} shine,\
+> bright as the sun in the sky!"
+
+Then those Licchavis clothed [Piṅgiyānī]{lang="sa"} with five hundred
+upper robes. And [Piṅgiyānī]{lang="sa"} clothed the Buddha with them.
+
+Then the Buddha said to the Licchavis:
+
+"Licchavis, the appearance of five treasures is rare in the world. What
+five? A Realized One, a perfected one, a fully awakened Buddha. A
+teacher of the teaching and training proclaimed by a Realized One. A
+person who understands the teaching and training proclaimed by a
+Realized One. A person who practices in line with the teaching. A person
+who is grateful and thankful. The appearance of these five treasures is
+rare in the world."
+
+### N 5.196 The Great Dreams  *Mahāsupinasutta* {#n-5.196-the-great-dreams-mahāsupinasutta .unnumbered}
+
+"Mendicants, before his awakening five great dreams appeared to the
+Realized One, the perfected one, the fully awakened Buddha, when he was
+still not awake but intent on awakening. What five?
+
+This great earth was his bed. Himalaya, king of mountains, was his
+pillow. His left hand was laid down in the eastern sea. His right hand
+was laid down in the western sea. And both his feet were laid down in
+the southern sea. This is the first great dream that appeared to the
+Realized One before his awakening.
+
+Next, a kind of grass called 'the crosser' grew up from his navel and
+stood pushing against the cloudy sky. This is the second great dream
+that appeared to the Realized One before his awakening.
+
+Next, white caterpillars with black heads crawled up from his feet and
+covered his knees. This is the third great dream that appeared to the
+Realized One before his awakening.
+
+Next, four birds of different colors came from the four quarters. They
+fell at his feet, turning pure white. This is the fourth great dream
+that appeared to the Realized One before his awakening.
+
+Next, he walked back and forth on top of a huge mountain of filth while
+remaining unsoiled. This is the fifth great dream that appeared to the
+Realized One before his awakening.
+
+Now, as to when, before his awakening, the Realized One, the perfected
+one, the fully awakened Buddha was still not awake but intent on
+awakening. This great earth was his bed. Himalaya, king of mountains,
+was his pillow. His left hand was laid down in the eastern sea. His
+right hand was laid down in the western sea. And both his feet were laid
+down in the southern sea. This was fulfilled when the Buddha awakened to
+the perfect awakening. This was the first great dream that appeared to
+him while he was still not awakened.
+
+As to when a kind of grass called 'the crosser' grew up from his navel
+and stood pushing against the cloudy sky. This was fulfilled when, after
+the Buddha had awakened to the noble eightfold path, it was well
+proclaimed wherever there are gods and humans. This was the second great
+dream that appeared to him while he was still not awakened.
+
+As to when white caterpillars with black heads crawled up from his feet
+and covered his knees. This was fulfilled when many white-clothed
+laypeople went for refuge to him for life. This was the third great
+dream that appeared to him while he was still not awakened.
+
+As to when four birds of different colors came from the four quarters.
+They fell at his feet, turning pure white. This was fulfilled when
+members of the four classes---aristocrats, brahmins, peasants, and
+menials---went forth from the lay life to homelessness in the teaching
+and training proclaimed by the Realized One and realized supreme
+freedom. This was the fourth great dream that appeared to him while he
+was still not awakened.
+
+As to when he walked back and forth on top of a huge mountain of filth
+while remaining unsoiled. This was fulfilled when the Realized One
+received robes, almsfood, lodgings, and medicines and supplies for the
+sick. And he used them untied, uninfatuated, unattached, seeing the
+drawbacks, and understanding the escape. This was the fifth great dream
+that appeared to him while he was still not awakened.
+
+Before his awakening these five great dreams appeared to the Realized
+One, the perfected one, the fully awakened Buddha, when he was still not
+awake but intent on awakening."
+
+### N 5.197 Obstacles to Rain  *Vassasutta* {#n-5.197-obstacles-to-rain-vassasutta .unnumbered}
+
+"Mendicants, there are these five obstacles to rain, which the
+forecasters don't know, and which their vision does not traverse. What
+five?
+
+In the upper atmosphere the fire element flares up, which disperses the
+clouds. This is the first obstacle to rain, which the forecasters don't
+know, and which their vision does not traverse.
+
+Furthermore, in the upper atmosphere the air element flares up, which
+disperses the clouds. This is the second obstacle to rain ...
+
+Furthermore, [Rāhu]{lang="sa"}, lord of titans, receives water in his
+hand and tosses it in the ocean. This is the third obstacle to rain ...
+
+Furthermore, the gods of the rain clouds become negligent. This is the
+fourth obstacle to rain ...
+
+Furthermore, humans become unprincipled. This is the fifth obstacle to
+rain, which the forecasters don't know, and which their vision does not
+traverse.
+
+These are the five obstacles to rain, which the forecasters don't know,
+and which their vision does not traverse."
+
+### N 5.198 Well-Spoken Words  *Vācāsutta* {#n-5.198-well-spoken-words-vācāsutta .unnumbered}
+
+"Mendicants, speech that has five factors is well spoken, not poorly
+spoken. It's blameless and is not criticized by sensible people. What
+five? It is speech that is timely, true, gentle, beneficial, and loving.
+Speech with these five factors is well spoken, not poorly spoken. It's
+blameless and is not criticized by sensible people."
+
+### N 5.199 Families  *Kulasutta* {#n-5.199-families-kulasutta .unnumbered}
+
+"When ethical renunciates come to a family, the people create much merit
+for five reasons. What five?
+
+When they see ethical renunciates coming to their family, the people
+bring up confidence in their hearts. At that time the family is
+practicing a path leading to heaven.
+
+When ethical renunciates come to their family, the people rise from
+their seats, bow down, and offer them a seat. At that time the family is
+practicing a path leading to a birth in an eminent family.
+
+When ethical renunciates come to their family, the people get rid of the
+stain of stinginess. At that time the family is practicing a path
+leading to being illustrious.
+
+When ethical renunciates come to their family, the people share what
+they have as best they can. At that time the family is practicing a path
+leading to great wealth.
+
+When ethical renunciates come to their family, the people ask questions
+and listen to the teachings. At that time the family is practicing a
+path leading to great wisdom.
+
+When ethical renunciates come to a family, the people create much merit
+for these five reasons."
+
+### N 5.200 Elements of Escape  *Nissāraṇīyasutta* {#n-5.200-elements-of-escape-nissāraṇīyasutta .unnumbered}
+
+"Mendicants, there are these five elements of escape. What five?
+
+Take a case where a mendicant focuses on sensual pleasures, but on that
+their mind does not leap forth, gain confidence, settle down, and become
+decided. But when they focus on renunciation, on that their mind leaps
+forth, gains confidence, settles down, and becomes decided. Their mind
+is in a good state, well developed, well risen, well freed, and well
+detached from sensual pleasures. They're freed from the distressing and
+feverish defilements that arise because of sensual pleasures, so they
+don't experience that kind of feeling. This is how the escape from
+sensual pleasures is explained.
+
+Take another case where a mendicant focuses on ill will, but their mind
+does not leap forth ... But when they focus on good will, their mind
+leaps forth ... Their mind is in a good state ... well detached from ill
+will. They're freed from the distressing and feverish defilements that
+arise because of ill will, so they don't experience that kind of
+feeling. This is how the escape from ill will is explained.
+
+Take another case where a mendicant focuses on harming, but their mind
+does not leap forth ... But when they focus on compassion, their mind
+leaps forth ... Their mind is in a good state ... well detached from
+harming. They're freed from the distressing and feverish defilements
+that arise because of harming, so they don't experience that kind of
+feeling. This is how the escape from harming is explained.
+
+Take another case where a mendicant focuses on form, but their mind does
+not leap forth ... But when they focus on the formless, their mind leaps
+forth ... Their mind is in a good state ... well detached from forms.
+They're freed from the distressing and feverish defilements that arise
+because of form, so they don't experience that kind of feeling. This is
+how the escape from forms is explained.
+
+Take a case where a mendicant focuses on substantial reality, but their
+mind does not leap forth, gain confidence, settle down, and become
+decided. But when they focus on the ending of substantial reality, their
+mind leaps forth, gains confidence, settles down, and becomes decided.
+Their mind is in a good state, well developed, well risen, well freed,
+and well detached from substantial reality. They're freed from the
+distressing and feverish defilements that arise because of substantial
+reality, so they don't experience that kind of feeling. This is how the
+escape from substantial reality is explained.
+
+Delight in sensual pleasures, ill will, harming, form, and substantial
+reality don't linger within them. That's why they're called a mendicant
+who is without underlying tendencies, who has cut off craving, untied
+the fetters, and by rightly comprehending conceit has made an end of
+suffering. These are the five elements of escape."
+
+::: center
+*[the fifth fifty]{.smallcaps}*
+:::
+
+## The Chapter with Kimbila  {#the-chapter-with-kimbila .unnumbered}
+
+### N 5.201 With Kimbila  *Kimilasutta* {#n-5.201-with-kimbila-kimilasutta .unnumbered}
+
+At one time the Buddha was staying near [Kimbilā]{lang="sa"} in the
+Freshwater Mangrove Wood. Then Venerable Kimbila went up to the Buddha,
+bowed, sat down to one side, and said to him:
+
+"What is the cause, sir, what is the reason why the true teaching does
+not last long after the final quenching of the Realized One?"
+
+"Kimbila, it's when the monks, nuns, laymen, and laywomen lack respect
+and reverence for the Teacher, the teaching, the [Saṅgha]{lang="sa"},
+the training, and each other after the final quenching of the Realized
+One. This is the cause, this is the reason why the true teaching does
+not last long after the final quenching of the Realized One."
+
+"What is the cause, sir, what is the reason why the true teaching does
+last long after the final quenching of the Realized One?"
+
+"Kimbila, it's when the monks, nuns, laymen, and laywomen maintain
+respect and reverence for the Teacher, the teaching, the
+[Saṅgha]{lang="sa"}, the training, and each other after the final
+quenching of the Realized One. This is the cause, this is the reason why
+the true teaching does last long after the final quenching of the
+Realized One."
+
+### N 5.202 Listening to the Teaching  *Dhammassavanasutta* {#n-5.202-listening-to-the-teaching-dhammassavanasutta .unnumbered}
+
+"Mendicants, there are these five benefits of listening to the teaching.
+What five? You learn new things, clarify what you've learned, get over
+uncertainty, correct your views, and inspire confidence in your mind.
+These are the five benefits of listening to the teaching."
+
+### N 5.203 A Thoroughbred  *Assājānīyasutta* {#n-5.203-a-thoroughbred-assājānīyasutta .unnumbered}
+
+"Mendicants, a fine royal thoroughbred with five factors is worthy of a
+king, fit to serve a king, and is considered a factor of kingship.
+
+What five? Integrity, speed, gentleness, patience, and sweetness. A fine
+royal thoroughbred with these five factors is worthy of a king. ... In
+the same way, a mendicant with five qualities is worthy of offerings
+dedicated to the gods, worthy of hospitality, worthy of a religious
+donation, worthy of veneration with joined palms, and is the supreme
+field of merit for the world.
+
+What five? Integrity, speed, gentleness, patience, and sweetness. A
+mendicant with these five qualities is worthy of offerings dedicated to
+the gods, worthy of hospitality, worthy of a religious donation, worthy
+of veneration with joined palms, and is the supreme field of merit for
+the world."
+
+### N 5.204 Powers  *Balasutta* {#n-5.204-powers-balasutta .unnumbered}
+
+"Mendicants, there are these five powers. What five? Faith, conscience,
+prudence, energy, and wisdom. These are the five powers."
+
+### N 5.205 Hard-heartedness  *Cetokhilasutta* {#n-5.205-hard-heartedness-cetokhilasutta .unnumbered}
+
+"Mendicants, there are these five kinds of hard-heartedness. What five?
+Firstly, a mendicant has doubts about the Teacher. They're uncertain,
+undecided, and lacking confidence. This being so, their mind doesn't
+incline toward keenness, commitment, persistence, and striving. This is
+the first kind of hard-heartedness.
+
+Furthermore, a mendicant has doubts about the teaching ... the
+[Saṅgha]{lang="sa"} ... the training ... A mendicant is angry and upset
+with their spiritual companions, resentful and closed off. This being
+so, their mind doesn't incline toward keenness, commitment, persistence,
+and striving. This is the fifth kind of hard-heartedness. These are the
+five kinds of hard-heartedness."
+
+### N 5.206 Shackles  *Vinibandhasutta* {#n-5.206-shackles-vinibandhasutta .unnumbered}
+
+"Mendicants, there are these five shackles of the heart. What five?
+Firstly, a mendicant isn't free of greed, desire, fondness, thirst,
+passion, and craving for sensual pleasures. This being so, their mind
+doesn't incline toward keenness, commitment, persistence, and striving.
+This is the first shackle of the heart.
+
+Furthermore, a mendicant isn't free of greed for the body ... They're
+not free of greed for form ... They eat as much as they like until their
+belly is full, then indulge in the pleasures of sleeping, lying down,
+and drowsing ... They lead the spiritual life hoping to be reborn in one
+of the orders of gods, thinking: 'By this precept or observance or
+fervent austerity or spiritual life, may I become one of the gods!' This
+being so, their mind doesn't incline toward keenness, commitment,
+persistence, and striving. This is the fifth shackle of the heart. These
+are the five shackles of the heart."
+
+### N 5.207 Porridge  *Yāgusutta* {#n-5.207-porridge-yāgusutta .unnumbered}
+
+"Mendicants, there are these five benefits of porridge. What five? It
+wards off hunger, quenches thirst, settles the wind, cleans the bladder,
+and helps digestion. These are the five benefits of porridge."
+
+### N 5.208 Chew Sticks  *Dantakaṭṭhasutta* {#n-5.208-chew-sticks-dantakaṭṭhasutta .unnumbered}
+
+"Mendicants, there are these five drawbacks of not using chew sticks.
+What five? It's not good for your eyes, you get bad breath, your
+taste-buds aren't cleaned, bile and phlegm cover your food, and you lose
+your appetite. These are the five drawbacks of not using chew sticks.
+
+There are these five benefits of using chew sticks. What five? It's good
+for your eyes, you don't get bad breath, your taste-buds are cleaned,
+bile and phlegm don't cover your food, and food agrees with you. These
+are the five benefits of using chew sticks."
+
+### N 5.209 The Sound of Singing  *Gītassarasutta* {#n-5.209-the-sound-of-singing-gītassarasutta .unnumbered}
+
+"Mendicants, there are these five drawbacks in reciting with a drawn-out
+singing voice. What five? You relish the sound of your own voice. Others
+relish the sound of your voice. Householders complain: 'These ascetics
+who follow the Sakyan, sing just like us!' When you're enjoying the
+melody, your immersion breaks up. Those who come after follow your
+example. These are the five drawbacks in reciting with a drawn-out
+singing voice."
+
+### N 5.210 Unmindful  *Muṭṭhassatisutta* {#n-5.210-unmindful-muṭṭhassatisutta .unnumbered}
+
+"Mendicants, there are these five drawbacks of falling asleep unmindful
+and unaware. What five? You sleep badly and wake miserably. You have bad
+dreams. The deities don't protect you. And you emit semen. These are the
+five drawbacks of falling asleep unmindful and unaware.
+
+There are these five benefits of falling asleep mindful and aware. What
+five? You sleep at ease and wake happily. You don't have bad dreams. The
+deities protect you. And you don't emit semen. These are the five
+benefits of falling asleep mindful and aware."
+
+## The Chapter on Abuse  {#the-chapter-on-abuse .unnumbered}
+
+### N 5.211 An Abuser  *Akkosakasutta* {#n-5.211-an-abuser-akkosakasutta .unnumbered}
+
+"Mendicants, a mendicant who abuses and insults their spiritual
+companions, denouncing the noble ones, can expect these five drawbacks.
+What five? They're expelled, cut off, blocked out; or they commit a
+corrupt offense; or they contract a severe illness. They feel lost when
+they die. And when their body breaks up, after death, they're reborn in
+a place of loss, a bad place, the underworld, hell. A mendicant who
+abuses and insults their spiritual companions, denouncing the noble
+ones, can expect these five drawbacks."
+
+### N 5.212 Starting Arguments  *Bhaṇḍanakārakasutta* {#n-5.212-starting-arguments-bhaṇḍanakārakasutta .unnumbered}
+
+"Mendicants, a mendicant who starts arguments, quarrels, disputes,
+debates, and disciplinary issues in the [Saṅgha]{lang="sa"} can expect
+five drawbacks. What five? They don't achieve the unachieved. What they
+have achieved falls away. They get a bad reputation. They feel lost when
+they die. And when their body breaks up, after death, they are reborn in
+a place of loss, a bad place, the underworld, hell. A mendicant who
+starts arguments, quarrels, disputes, debates, and disciplinary issues
+in the [Saṅgha]{lang="sa"} can expect these five drawbacks."
+
+### N 5.213 Ethics  *Sīlasutta* {#n-5.213-ethics-sīlasutta .unnumbered}
+
+"Mendicants, there are these five drawbacks for an unethical person
+because of their failure in ethics. What five?
+
+Firstly, an unethical person loses great wealth on account of
+negligence. This is the first drawback.
+
+Furthermore, an unethical person gets a bad reputation. This is the
+second drawback.
+
+Furthermore, an unethical person enters any kind of assembly timid and
+embarrassed, whether it's an assembly of aristocrats, brahmins,
+householders, or ascetics. This is the third drawback.
+
+Furthermore, an unethical person feels lost when they die. This is the
+fourth drawback.
+
+Furthermore, an unethical person, when their body breaks up, after
+death, is reborn in a place of loss, a bad place, the underworld, hell.
+This is the fifth drawback. These are the five drawbacks for an
+unethical person because of their failure in ethics.
+
+There are these five benefits for an ethical person because of their
+accomplishment in ethics. What five? Firstly, an ethical person gains
+great wealth on account of diligence. This is the first benefit.
+
+Furthermore, an ethical person gets a good reputation. This is the
+second benefit.
+
+Furthermore, an ethical person enters any kind of assembly bold and
+self-assured, whether it's an assembly of aristocrats, brahmins,
+householders, or ascetics. This is the third benefit.
+
+Furthermore, an ethical person dies not feeling lost. This is the fourth
+benefit.
+
+Furthermore, when an ethical person's body breaks up, after death,
+they're reborn in a good place, a heavenly realm. This is the fifth
+benefit.
+
+These are the five benefits for an ethical person because of their
+accomplishment in ethics."
+
+### N 5.214 Someone Who Talks a Lot  *Bahubhāṇisutta* {#n-5.214-someone-who-talks-a-lot-bahubhāṇisutta .unnumbered}
+
+"Mendicants, there are these five drawbacks for a person who talks a
+lot. What five? They use speech that's false, divisive, harsh, and
+nonsensical. When their body breaks up, after death, they're reborn in a
+place of loss, a bad place, the underworld, hell. These are the five
+drawbacks for a person who talks a lot.
+
+There are these five benefits for a person who talks thoughtfully. What
+five? They don't use speech that's false, divisive, harsh, and
+nonsensical. When their body breaks up, after death, they're reborn in a
+good place, a heavenly realm. These are the five benefits for a person
+who talks thoughtfully."
+
+### N 5.215 Intolerance (1st)  *Paṭhamaakkhantisutta* {#n-5.215-intolerance-1st-paṭhamaakkhantisutta .unnumbered}
+
+"Mendicants, there are these five drawbacks of intolerance. What five?
+Most people find you unlikable and disagreeable. You have lots of enmity
+and many faults. You feel lost when you die. And when your body breaks
+up, after death, you're reborn in a place of loss, a bad place, the
+underworld, hell. These are the five drawbacks to intolerance.
+
+There are these five benefits of tolerance. What five? Most people find
+you dear and agreeable. You have little enmity and few faults. You don't
+feel lost when you die. And when your body breaks up, after death,
+you're reborn in a good place, a heavenly realm. These are the five
+benefits of tolerance."
+
+### N 5.216 Intolerance (2nd)  *Dutiyaakkhantisutta* {#n-5.216-intolerance-2nd-dutiyaakkhantisutta .unnumbered}
+
+"Mendicants, there are these five drawbacks of intolerance. What five?
+Most people find you unlikable and disagreeable. You're cruel and
+remorseful. You feel lost when you die. And when your body breaks up,
+after death, you're reborn in a place of loss, a bad place, the
+underworld, hell. These are the five drawbacks to intolerance.
+
+There are these five benefits of tolerance. What five? Most people find
+you likable and agreeable. You're neither cruel nor remorseful. You
+don't feel lost when you die. And when your body breaks up, after death,
+you're reborn in a good place, a heavenly realm. These are the five
+benefits of tolerance."
+
+### N 5.217 Unimpressive Conduct (1st)  *Paṭhamaapāsādikasutta* {#n-5.217-unimpressive-conduct-1st-paṭhamaapāsādikasutta .unnumbered}
+
+"Mendicants, there are these five drawbacks of unimpressive conduct.
+What five? You blame yourself. After examination, sensible people
+criticize you. You get a bad reputation. You feel lost when you die. And
+when your body breaks up, after death, you're reborn in a place of loss,
+a bad place, the underworld, hell. These are the five drawbacks of
+unimpressive conduct.
+
+There are these five benefits of impressive conduct. What five? You
+don't blame yourself. After examination, sensible people praise you. You
+get a good reputation. You don't feel lost when you die. And when the
+body breaks up, after death, you're reborn in a good place, a heavenly
+realm. These are the five benefits of impressive conduct."
+
+### N 5.218 Unimpressive Conduct (2nd)  *Dutiyaapāsādikasutta* {#n-5.218-unimpressive-conduct-2nd-dutiyaapāsādikasutta .unnumbered}
+
+"Mendicants, there are these five drawbacks of unimpressive conduct.
+What five? You don't inspire confidence in those without it. You cause
+some with confidence to change their minds. You don't follow the
+Teacher's instructions. Those who come after you follow your example.
+And your mind doesn't become clear. These are the five drawbacks of
+unimpressive conduct.
+
+There are these five benefits of impressive conduct. What five? You
+inspire confidence in those without it. You increase confidence in those
+who have it. You follow the Teacher's instructions. Those who come after
+you follow your example. And your mind becomes clear. These are the five
+benefits of impressive conduct."
+
+### N 5.219 Fire  *Aggisutta* {#n-5.219-fire-aggisutta .unnumbered}
+
+"Mendicants, there are these five drawbacks of a fire. What five? It's
+bad for your eyes. It's bad for your complexion. It makes you weak. It
+draws in groups. And it encourages low talk. These are the five
+drawbacks of a fire."
+
+### N 5.220 About Madhurā  *Madhurāsutta* {#n-5.220-about-madhurā-madhurāsutta .unnumbered}
+
+"Mendicants, there are these five drawbacks of [Madhurā]{lang="sa"}.
+What five? The ground is uneven and dusty, the dogs are fierce, the
+native spirits are vicious, and it's hard to get almsfood. These are the
+five drawbacks of [Madhurā]{lang="sa"}."
+
+## The Chapter on Long Wandering  {#the-chapter-on-long-wandering .unnumbered}
+
+### N 5.221 Long Wandering (1st)  *Paṭhamadīghacārikasutta* {#n-5.221-long-wandering-1st-paṭhamadīghacārikasutta .unnumbered}
+
+"Mendicants, there are these five drawbacks for someone who likes long
+and aimless wandering. What five? You don't learn new things. You don't
+clarify what you've learned. You lack confidence in some things you have
+learned. You contract a severe illness. You don't have any friends.
+These are the five drawbacks for someone who likes long and aimless
+wandering.
+
+There are these five benefits of a reasonable amount of wandering. What
+five? You learn new things. You clarify what you've learned. You have
+confidence in some things you have learned. You don't contract severe
+illness. You have friends. These are the five benefits of a reasonable
+amount of wandering."
+
+### N 5.222 Long Wandering (2nd)  *Dutiyadīghacārikasutta* {#n-5.222-long-wandering-2nd-dutiyadīghacārikasutta .unnumbered}
+
+"Mendicants, there are these five drawbacks for someone who likes long
+and aimless wandering. What five? You don't achieve the unachieved. What
+you have achieved falls away. You lose confidence in some things you've
+achieved. You contract a severe illness. You don't have any friends.
+These are the five drawbacks for someone who likes long and aimless
+wandering.
+
+There are these five benefits of a reasonable amount of wandering. What
+five? You achieve the unachieved. What you have achieved doesn't fall
+away. You're confident in some things you've achieved. You don't
+contract severe illness. You have friends. These are the five benefits
+of a reasonable amount of wandering."
+
+### N 5.223 Overstaying  *Atinivāsasutta* {#n-5.223-overstaying-atinivāsasutta .unnumbered}
+
+"Mendicants, there are these five drawbacks of overstaying. What five?
+You have a lot of stuff and store it up. You have a lot of medicine and
+store it up. You have a lot of duties and responsibilities, and become
+capable in whatever needs to be done. You mix closely with laypeople and
+renunciates, socializing inappropriately like a layperson. And when you
+leave that monastery, you miss it. These are the five drawbacks of
+overstaying.
+
+There are these five benefits of staying for a reasonable length of
+time. What five? You don't have a lot of stuff and store it up. You
+don't have a lot of medicine and store it up. You don't have a lot of
+duties and responsibilities, or become capable in whatever needs to be
+done. You don't mix closely with laypeople and renunciates, socializing
+inappropriately like a layperson. And when you leave that monastery, you
+don't miss it. These are the five benefits of staying for a reasonable
+length of time."
+
+### N 5.224 Stingy  *Maccharīsutta* {#n-5.224-stingy-maccharīsutta .unnumbered}
+
+"Mendicants, there are these five drawbacks of overstaying. What five?
+You become stingy with dwellings, families, material things, praise, and
+the teaching. These are the five drawbacks of overstaying.
+
+There are these five benefits of staying for a reasonable length of
+time. What five? You're not stingy with dwellings, families, material
+things, praise, and the teaching. These are the five benefits of staying
+for a reasonable length of time."
+
+### N 5.225 Visiting Families (1st)  *Paṭhamakulūpakasutta* {#n-5.225-visiting-families-1st-paṭhamakulūpakasutta .unnumbered}
+
+"Mendicants, there are these five drawbacks of visiting families. What
+five? You fall into an offense for wandering without leave. You fall
+into an offense for sitting in a private place with someone of the
+opposite sex. You fall into an offense for sitting in a hidden place
+with someone of the opposite sex. You fall into an offense for teaching
+more than five or six sentences to someone of the opposite sex. You have
+a lot of sensual thoughts. These are the five drawbacks of visiting
+families."
+
+### N 5.226 Visiting Families (2nd)  *Dutiyakulūpakasutta* {#n-5.226-visiting-families-2nd-dutiyakulūpakasutta .unnumbered}
+
+"Mendicants, there are these five drawbacks for a mendicant who visits
+families for too long, mixing closely with them. What five? You often
+see members of the opposite sex. Seeing them, you become close. Being so
+close, you become intimate. Being intimate, lust overcomes you. When
+your mind is swamped by lust, you can expect that you will lead the
+spiritual life dissatisfied, or commit one of the corrupt offenses, or
+resign the training and return to a lesser life. These are the five
+drawbacks for a mendicant who visits families for too long, mixing
+closely with them."
+
+### N 5.227 Riches  *Bhogasutta* {#n-5.227-riches-bhogasutta .unnumbered}
+
+"Mendicants, there are these five drawbacks of riches. What five? Fire,
+water, kings, thieves, and unloved heirs all take a share. These are the
+five drawbacks of riches.
+
+There are these five benefits of riches. What five? Riches enable you to
+make yourself happy and pleased, to make your mother and father; your
+children, partners, bondservants, workers, and staff, and your friends
+and colleagues happy and pleased, and to keep them all happy. And they
+enable you to establish an uplifting religious donation for ascetics and
+brahmins that's conducive to heaven, ripens in happiness, and leads to
+heaven. These are the five benefits of riches."
+
+### N 5.228 Eating Late  *Ussūrabhattasutta* {#n-5.228-eating-late-ussūrabhattasutta .unnumbered}
+
+"Mendicants, there are these five drawbacks for a family who takes their
+meals late in the day. What five? When guests visit, they are not served
+on time. The deities who accept spirit-offerings are not served on time.
+Ascetics and brahmins who eat in one part of the day, abstaining from
+eating at night, and from food at the wrong time are not served on time.
+Bondservants, workers, and staff do their duties neglectfully. A meal
+eaten during the wrong period is not nutritious. These are the five
+drawbacks for a family who takes their meals late in the day.
+
+There are these five benefits for a family who takes their meals at a
+proper time. What five? When guests visit, they are served on time. The
+deities who accept spirit-offerings are served on time. Ascetics and
+brahmins who eat in one part of the day, abstaining from eating at
+night, and from food at the wrong time are served on time. Bondservants,
+workers, and staff do their duties attentively. A meal eaten during the
+proper period is nutritious. These are the five benefits for a family
+who takes their meals at a proper time."
+
+### N 5.229 Black Snakes (1st)  *Paṭhamakaṇhasappasutta* {#n-5.229-black-snakes-1st-paṭhamakaṇhasappasutta .unnumbered}
+
+"Mendicants, there are these five drawbacks of a black snake. What five?
+It's filthy, stinking, cowardly, frightening, and treacherous. These are
+the five dangers of a black snake.
+
+In the same way there are five drawbacks of a female. What five? She's
+filthy, stinking, cowardly, frightening, and treacherous. These are the
+five drawbacks of a female."
+
+### N 5.230 Black Snakes (2nd)  *Dutiyakaṇhasappasutta* {#n-5.230-black-snakes-2nd-dutiyakaṇhasappasutta .unnumbered}
+
+"Mendicants, there are these five drawbacks of a black snake. What five?
+It's irritable, acrimonious, venomous, fork-tongued, and treacherous.
+These are the five dangers of a black snake.
+
+In the same way there are five drawbacks of a female. What five? She's
+irritable, acrimonious, venomous, fork-tongued, and treacherous. This is
+a female's venom: usually she's very lustful. This is a female's forked
+tongue: usually she speaks divisively. This is a female's treachery:
+usually she's an adulteress. These are the five drawbacks of a female."
+
+## The Chapter on a Resident Mendicant  {#the-chapter-on-a-resident-mendicant .unnumbered}
+
+### N 5.231 A Resident Mendicant  *Āvāsikasutta* {#n-5.231-a-resident-mendicant-āvāsikasutta .unnumbered}
+
+"Mendicants, a resident mendicant with five qualities is not admirable.
+What five? They're not accomplished in being well-presented and doing
+their duties. They're not very learned and don't remember what they've
+learned. They're not self-effacing and don't enjoy self-effacement.
+They're not a good speaker and do not enunciate well. They're witless,
+dull, and idiotic. A resident mendicant with these five qualities is not
+admirable.
+
+A resident mendicant with these five qualities is admirable. What five?
+They're accomplished in being well-presented and doing their duties.
+They're very learned and remember what they've learned. They're
+self-effacing and enjoy self-effacement. They're a good speaker who
+enunciates well. They're wise, bright, and clever. A resident mendicant
+with these five qualities is admirable."
+
+### N 5.232 Liked  *Piyasutta* {#n-5.232-liked-piyasutta .unnumbered}
+
+"Mendicants, a resident mendicant with five qualities is dear and
+beloved to their spiritual companions, respected and admired. What five?
+
+They're ethical, restrained in the monastic code, conducting themselves
+well and resorting for alms in suitable places. Seeing danger in the
+slightest fault, they keep the rules they've undertaken.
+
+They're very learned, remembering and keeping what they've learned.
+These teachings are good in the beginning, good in the middle, and good
+in the end, meaningful and well-phrased, describing a spiritual practice
+that's entirely full and pure. They are very learned in such teachings,
+remembering them, rehearsing them, mentally scrutinizing them, and
+comprehending them theoretically.
+
+They're a good speaker who enunciates well, with a polished, clear, and
+articulate voice that expresses the meaning.
+
+They get the four absorptions---blissful meditations in this life that
+belong to the higher mind---when they want, without trouble or
+difficulty.
+
+They realize the undefiled freedom of heart and freedom by wisdom in
+this very life. And they live having realized it with their own insight
+due to the ending of defilements.
+
+A resident mendicant with these five qualities is dear and beloved to
+their spiritual companions, respected and admired."
+
+### N 5.233 Beautification  *Sobhanasutta* {#n-5.233-beautification-sobhanasutta .unnumbered}
+
+"Mendicants, a resident mendicant with five qualities beautifies the
+monastery. What five?
+
+They're ethical, restrained in the monastic code, conducting themselves
+well and resorting for alms in suitable places. Seeing danger in the
+slightest fault, they keep the rules they've undertaken.
+
+They're very learned, remembering and keeping what they've learned.
+These teachings are good in the beginning, good in the middle, and good
+in the end, meaningful and well-phrased, describing a spiritual practice
+that's totally full and pure. They are very learned in such teachings,
+remembering them, reciting them, mentally scrutinizing them, and
+comprehending them theoretically.
+
+They're a good speaker who enunciates well, with a polished, clear, and
+articulate voice that expresses the meaning.
+
+They're able to educate, encourage, fire up, and inspire those who
+approach them with a Dhamma talk.
+
+They get the four absorptions---blissful meditations in this life that
+belong to the higher mind---when they want, without trouble or
+difficulty.
+
+A resident mendicant with these five qualities beautifies the
+monastery."
+
+### N 5.234 Very Helpful  *Bahūpakārasutta* {#n-5.234-very-helpful-bahūpakārasutta .unnumbered}
+
+"Mendicants, a resident mendicant with five qualities is very helpful to
+the monastery. What five?
+
+They're ethical, restrained in the monastic code, conducting themselves
+well and resorting for alms in suitable places. Seeing danger in the
+slightest fault, they keep the rules they've undertaken.
+
+They're very learned, remembering and keeping what they've learned.
+These teachings are good in the beginning, good in the middle, and good
+in the end, meaningful and well-phrased, describing a spiritual practice
+that's totally full and pure. They are very learned in such teachings,
+remembering them, reciting them, mentally scrutinizing them, and
+comprehending them theoretically.
+
+They repair what is decayed and damaged.
+
+When a large mendicant [Saṅgha]{lang="sa"} is arriving with mendicants
+from abroad, they go to the lay people and announce:
+
+'A large mendicant [Saṅgha]{lang="sa"} is arriving with mendicants from
+abroad. Make merit! Now is the time to make merit!'
+
+They get the four absorptions---blissful meditations in this life that
+belong to the higher mind---when they want, without trouble or
+difficulty.
+
+A resident mendicant with these five qualities is very helpful to the
+monastery."
+
+### N 5.235 A Sympathetic Mendicant  *Anukampasutta* {#n-5.235-a-sympathetic-mendicant-anukampasutta .unnumbered}
+
+"Mendicants, a resident mendicant with five qualities shows sympathy to
+the lay people. What five? They encourage them in higher ethics. They
+equip them to see the truth of the teachings. When they are sick, they
+go to them and prompt their mindfulness, saying: 'Establish your
+mindfulness, good sirs, in what is worthy.' When a large mendicant
+[Saṅgha]{lang="sa"} is arriving with mendicants from abroad, they go to
+the lay people and announce: 'A large mendicant [Saṅgha]{lang="sa"} is
+arriving with mendicants from abroad. Make merit! Now is the time to
+make merit!' And they eat whatever food they give them, coarse or fine,
+not wasting a gift given in faith. A resident mendicant with these five
+qualities shows sympathy to the lay people."
+
+### N 5.236 Deserving Criticism (1st)  *Paṭhamaavaṇṇārahasutta* {#n-5.236-deserving-criticism-1st-paṭhamaavaṇṇārahasutta .unnumbered}
+
+"Mendicants, a resident mendicant with five qualities is cast down to
+hell. What five? Without examining or scrutinizing, they praise those
+deserving of criticism, and they criticize those deserving of praise.
+Without examining or scrutinizing, they arouse faith in things that are
+dubious, and they don't arouse faith in things that are inspiring. And
+they waste a gift given in faith. A resident mendicant with these five
+qualities is cast down to hell.
+
+A resident mendicant with five qualities is raised up to heaven. What
+five? After examining and scrutinizing, they criticize those deserving
+of criticism, and they praise those deserving of praise. They don't
+arouse faith in things that are dubious, and they do arouse faith in
+things that are inspiring. And they don't waste a gift given in faith. A
+resident mendicant with these five qualities is raised up to heaven."
+
+### N 5.237 Deserving Criticism (2nd)  *Dutiyaavaṇṇārahasutta* {#n-5.237-deserving-criticism-2nd-dutiyaavaṇṇārahasutta .unnumbered}
+
+"Mendicants, a resident mendicant with five qualities is cast down to
+hell. What five? Without examining or scrutinizing, they praise those
+deserving of criticism, and they criticize those deserving of praise.
+They're stingy and avaricious regarding monasteries. They're stingy and
+avaricious regarding families. And they waste a gift given in faith. A
+resident mendicant with these five qualities is cast down to hell.
+
+A resident mendicant with five qualities is raised up to heaven. What
+five? After examining and scrutinizing, they criticize those deserving
+of criticism, and they praise those deserving of praise. They're not
+stingy and avaricious regarding monasteries. They're not stingy and
+avaricious regarding families. And they don't waste a gift given in
+faith. A resident mendicant with these five qualities is raised up to
+heaven."
+
+### N 5.238 Deserving Criticism (3rd)  *Tatiyaavaṇṇārahasutta* {#n-5.238-deserving-criticism-3rd-tatiyaavaṇṇārahasutta .unnumbered}
+
+"Mendicants, a resident mendicant with five qualities is cast down to
+hell. What five? Without examining or scrutinizing, they praise those
+deserving of criticism, and they criticize those deserving of praise.
+They're stingy regarding monasteries, families, and material things. A
+resident mendicant with these five qualities is cast down to hell.
+
+A resident mendicant with five qualities is raised up to heaven. What
+five? After examining and scrutinizing, they criticize those deserving
+of criticism, and they praise those deserving of praise. They're not
+stingy regarding monasteries, families, and material things. A resident
+mendicant with these five qualities is raised up to heaven."
+
+### N 5.239 Stinginess (1st)  *Paṭhamamacchariyasutta* {#n-5.239-stinginess-1st-paṭhamamacchariyasutta .unnumbered}
+
+"Mendicants, a resident mendicant with five qualities is cast down to
+hell. What five? They're stingy regarding monasteries, families,
+material things, and praise. And they waste a gift given in faith. A
+resident mendicant with these five qualities is cast down to hell.
+
+A resident mendicant with five qualities is raised up to heaven. What
+five? They're not stingy regarding monasteries, families, material
+things, and praise. And they don't waste a gift given in faith. A
+resident mendicant with these five qualities is raised up to heaven."
+
+### N 5.240 Stinginess (2nd)  *Dutiyamacchariyasutta* {#n-5.240-stinginess-2nd-dutiyamacchariyasutta .unnumbered}
+
+"Mendicants, a resident mendicant with five qualities is cast down to
+hell. What five? They're stingy regarding monasteries, families,
+material things, praise, and the teachings. A resident mendicant with
+these five qualities is cast down to hell.
+
+A resident mendicant with five qualities is raised up to heaven. What
+five? They're not stingy regarding monasteries, families, material
+things, praise, and the teachings. A resident mendicant with these five
+qualities is raised up to heaven."
+
+## The Chapter on Bad Conduct  {#the-chapter-on-bad-conduct .unnumbered}
+
+### N 5.241 Bad Conduct (1st)  *Paṭhamaduccaritasutta* {#n-5.241-bad-conduct-1st-paṭhamaduccaritasutta .unnumbered}
+
+"Mendicants, there are these five drawbacks of bad conduct. What five?
+You blame yourself. After examination, sensible people criticize you.
+You get a bad reputation. You feel lost when you die. And when your body
+breaks up, after death, you're reborn in a place of loss, a bad place,
+the underworld, hell. These are the five drawbacks of bad conduct.
+
+There are these five benefits of good conduct. What five? You don't
+blame yourself. After examination, sensible people praise you. You get a
+good reputation. You don't feel lost when you die. When your body breaks
+up, after death, you're reborn in a good place, a heavenly realm. These
+are the five benefits of good conduct."
+
+### N 5.242 Bad Bodily Conduct (1st)  *Paṭhamakāyaduccaritasutta* {#n-5.242-bad-bodily-conduct-1st-paṭhamakāyaduccaritasutta .unnumbered}
+
+"Mendicants, there are these five drawbacks in bad bodily conduct ...
+benefits in good bodily conduct ..."
+
+### N 5.243 Bad Verbal Conduct (1st)  *Paṭhamavacīduccaritasutta* {#n-5.243-bad-verbal-conduct-1st-paṭhamavacīduccaritasutta .unnumbered}
+
+"Mendicants, there are these five drawbacks in bad verbal conduct ...
+benefits in good verbal conduct ..."
+
+### N 5.244 Bad Mental Conduct (1st)  *Paṭhamamanoduccaritasutta* {#n-5.244-bad-mental-conduct-1st-paṭhamamanoduccaritasutta .unnumbered}
+
+"Mendicants, there are these five drawbacks in bad mental conduct ...
+benefits in good mental conduct ..."
+
+### N 5.245 Bad Conduct (2nd)  *Dutiyaduccaritasutta* {#n-5.245-bad-conduct-2nd-dutiyaduccaritasutta .unnumbered}
+
+"Mendicants, there are these five drawbacks of bad conduct. What five?
+You blame yourself. After examination, sensible people criticize you.
+You get a bad reputation. You drift away from true teachings. You settle
+on untrue teachings. These are the five drawbacks of bad conduct.
+
+There are these five benefits of good conduct. What five? You don't
+blame yourself. After examination, sensible people praise you. You get a
+good reputation. You drift away from untrue teachings. You settle on
+true teachings. These are the five benefits of good conduct."
+
+### N 5.246 Bad Bodily Conduct (2nd)  *Dutiyakāyaduccaritasutta* {#n-5.246-bad-bodily-conduct-2nd-dutiyakāyaduccaritasutta .unnumbered}
+
+"Mendicants, there are these five drawbacks in bad bodily conduct ...
+benefits in good bodily conduct ..."
+
+### N 5.247 Bad Verbal Conduct (2nd)  *Dutiyavacīduccaritasutta* {#n-5.247-bad-verbal-conduct-2nd-dutiyavacīduccaritasutta .unnumbered}
+
+"Mendicants, there are these five drawbacks in bad verbal conduct ...
+benefits in good verbal conduct ..."
+
+### N 5.248 Bad Mental Conduct (2nd)  *Dutiyamanoduccaritasutta* {#n-5.248-bad-mental-conduct-2nd-dutiyamanoduccaritasutta .unnumbered}
+
+"Mendicants, there are these five drawbacks in bad mental conduct ...
+benefits in good mental conduct ..."
+
+### N 5.249 A Charnel Ground  *Sivathikasutta* {#n-5.249-a-charnel-ground-sivathikasutta .unnumbered}
+
+"Mendicants, there are these five drawbacks to a charnel ground. What
+five?
+
+It's filthy, stinking, frightening, a gathering place for savage
+monsters, and a weeping place for many people. These are the five
+drawbacks of a charnel ground.
+
+In the same way there are five drawbacks of a person like a charnel
+ground. What five? To start with, a person has filthy conduct by way of
+body, speech, and mind. This is how they're filthy, I say. That person
+is just as filthy as a charnel ground.
+
+Because of their filthy conduct, they get a bad reputation. This is how
+they're stinky, I say. That person is just as stinky as a charnel
+ground.
+
+Because of their filthy conduct, good-hearted spiritual companions avoid
+them from afar. That's how they're frightening, I say. That person is
+just as frightening as a charnel ground.
+
+Because of their filthy conduct, they live together with people of a
+similar character. This is how they gather with savage monsters, I say.
+That person is just as much a gathering place of savage monsters as a
+charnel ground.
+
+Because of their filthy conduct, when good-hearted spiritual companions
+see them they complain: 'Oh, it's so painful for us to have to live
+together with such as these.' This is how there's weeping, I say. This
+person is just as much a weeping place for many people as a charnel
+ground.
+
+These are the five drawbacks of a person like a charnel ground."
+
+### N 5.250 Faith in Individuals  *Puggalappasādasutta* {#n-5.250-faith-in-individuals-puggalappasādasutta .unnumbered}
+
+"Mendicants, there are these five drawbacks of placing faith in an
+individual. What five?
+
+The individual to whom a person is devoted falls into an offense such
+that the [Saṅgha]{lang="sa"} suspends them. It occurs to them: 'This
+person dear and beloved to me has been suspended by the
+[Saṅgha]{lang="sa"}.' They lose much of their faith in mendicants. So
+they don't frequent other mendicants, they don't hear the true teaching,
+and they fall away from the true teaching. This is the first drawback in
+placing faith in an individual.
+
+Furthermore, the individual to whom a person is devoted falls into an
+offense such that the [Saṅgha]{lang="sa"} makes them sit at the end of
+the line. ... This is the second drawback in placing faith in an
+individual.
+
+Furthermore, the individual to whom a person is devoted departs for
+another region ... disrobes ... passes away. It occurs to them: 'This
+person dear and beloved to me has passed away.' So they don't frequent
+other mendicants, they don't hear the true teaching, and they fall away
+from the true teaching. This is the fifth drawback in placing faith in
+an individual.
+
+These are the five drawbacks of placing faith in an individual."
+
+::: center
+*[the sixth fifty]{.smallcaps}*
+:::
+
+## The Chapter on Ordination  {#the-chapter-on-ordination .unnumbered}
+
+### N 5.251 Who Should Give Ordination  *Upasampādetabbasutta* {#n-5.251-who-should-give-ordination-upasampādetabbasutta .unnumbered}
+
+"Mendicants, ordination should be given by a mendicant with five
+qualities. What five? It's a mendicant who has the entire spectrum of an
+adept's ethics, immersion, wisdom, freedom, and the knowledge and vision
+of freedom. Ordination should be given by a mendicant with these five
+qualities."
+
+### N 5.252 Who Should Give Dependence  *Nissayasutta* {#n-5.252-who-should-give-dependence-nissayasutta .unnumbered}
+
+"Mendicants, dependence should be given by a mendicant with five
+qualities. What five? It's a mendicant who has the entire spectrum of an
+adept's ethics, immersion, wisdom, freedom, and the knowledge and vision
+of freedom. Dependence should be given by a mendicant with these five
+qualities."
+
+### N 5.253 Who Should Have a Novice as Attendant  *Sāmaṇerasutta* {#n-5.253-who-should-have-a-novice-as-attendant-sāmaṇerasutta .unnumbered}
+
+"Mendicants, a novice should attend on a mendicant with five qualities.
+What five? It's a mendicant who has the entire spectrum of an adept's
+ethics, immersion, wisdom, freedom, and the knowledge and vision of
+freedom. A novice should attend on a mendicant with these five
+qualities."
+
+### N 5.254 Five Kinds of Stinginess  *Pañcamacchariyasutta* {#n-5.254-five-kinds-of-stinginess-pañcamacchariyasutta .unnumbered}
+
+"Mendicants, there are these five kinds of stinginess. What five?
+Stinginess with dwellings, families, material things, praise, and the
+teachings. These are the five kinds of stinginess. The most contemptible
+of these five kinds of stinginess is stinginess with the teachings."
+
+### N 5.255 Giving Up Stinginess  *Macchariyappahānasutta* {#n-5.255-giving-up-stinginess-macchariyappahānasutta .unnumbered}
+
+"Mendicants, the spiritual life is lived to give up and cut out these
+five kinds of stinginess. What five? Stinginess with dwellings,
+families, material things, praise, and the teachings. The spiritual life
+is lived to give up and cut out these five kinds of stinginess."
+
+### N 5.256 The First Absorption  *Paṭhamajhānasutta* {#n-5.256-the-first-absorption-paṭhamajhānasutta .unnumbered}
+
+"Mendicants, without giving up these five qualities you can't enter and
+remain in the first absorption. What five? Stinginess with dwellings,
+families, material things, praise, and the teachings. Without giving up
+these five qualities you can't enter and remain in the first absorption.
+
+But after giving up these five qualities you can enter and remain in the
+first absorption. What five? Stinginess with dwellings, families,
+material things, praise, and the teachings. After giving up these five
+qualities you can enter and remain in the first absorption."
+
+### N 5.257--263 The Second Absorption, Etc.  *Dutiyajhānasuttādisattaka* {#n-5.257263-the-second-absorption-etc.-dutiyajhānasuttādisattaka .unnumbered}
+
+"Mendicants, without giving up these five qualities you can't enter and
+remain in the second absorption ... third absorption ... fourth
+absorption ... or realize the fruit of stream-entry ... the fruit of
+once-return ... the fruit of non-return ... perfection. What five?
+Stinginess with dwellings, families, material things, praise, and the
+teachings. Without giving up these five qualities you can't realize
+perfection.
+
+But after giving up these five qualities you can enter and remain in the
+second absorption ... third absorption ... fourth absorption ... and
+realize the fruit of stream-entry ... the fruit of once-return ... the
+fruit of non-return ... perfection. What five? Stinginess with
+dwellings, families, material things, praise, and the teachings. After
+giving up these five qualities you can realize perfection."
+
+### N 5.264 Another Discourse on the First Absorption  *Aparapaṭhamajhānasutta* {#n-5.264-another-discourse-on-the-first-absorption-aparapaṭhamajhānasutta .unnumbered}
+
+"Mendicants, without giving up these five qualities you can't enter and
+remain in the first absorption. What five? Stinginess with dwellings,
+families, material things, praise, and lack of gratitude and
+thankfulness. Without giving up these five qualities you can't enter and
+remain in the first absorption.
+
+But after giving up these five qualities you can enter and remain in the
+first absorption. What five? Stinginess with dwellings, families,
+material things, praise, and lack of gratitude and thankfulness. After
+giving up these five qualities you can enter and remain in the first
+absorption."
+
+### N 5.265--271 Another Discourse on the Second Absorption, Etc.  *Aparadutiyajhānasuttādi* {#n-5.265271-another-discourse-on-the-second-absorption-etc.-aparadutiyajhānasuttādi .unnumbered}
+
+"Mendicants, without giving up these five qualities you can't enter and
+remain in the second absorption ... third absorption ... fourth
+absorption ... or realize the fruit of stream-entry ... the fruit of
+once-return ... the fruit of non-return ... perfection. What five?
+Stinginess with dwellings, families, material things, praise, and lack
+of gratitude and thankfulness. Without giving up these five qualities
+you can't realize perfection.
+
+But after giving up these five qualities you can enter and remain in the
+second absorption ... third absorption ... fourth absorption ... and
+realize the fruit of stream-entry ... the fruit of once-return ... the
+fruit of non-return ... perfection. What five? Stinginess with
+dwellings, families, material things, praise, and lack of gratitude and
+thankfulness. After giving up these five qualities you can realize
+perfection."
+
+## Abbreviated Texts on Appointments  {#abbreviated-texts-on-appointments .unnumbered}
+
+### N 5.272 A Meal Designator  *Bhattuddesakasutta* {#n-5.272-a-meal-designator-bhattuddesakasutta .unnumbered}
+
+"Mendicants, a person with five qualities should not be appointed as
+meal designator. What five? They make decisions prejudiced by
+favoritism, hostility, stupidity, and cowardice. And they don't know if
+a meal has been assigned or not. A person with these five qualities
+should not be appointed as meal designator.
+
+A person with five qualities should be appointed as meal designator.
+What five? They don't make decisions prejudiced by favoritism,
+hostility, stupidity, and cowardice. And they know if a meal has been
+assigned or not. A person with these five qualities should be appointed
+as meal designator.
+
+A person with five qualities who has been appointed as meal designator
+should not be called upon ... should be called upon ... should be known
+as a fool ... should be known as astute ... they keep themselves broken
+and damaged ... they keep themselves unbroken and undamaged ... is cast
+down to hell ... is raised up to heaven. What five? They don't make
+decisions prejudiced by favoritism, hostility, stupidity, and cowardice.
+And they know if a meal has been assigned or not. A meal designator with
+these five qualities is raised up to heaven."
+
+### N 5.273--285 A Lodgings Assigner  *Senāsanapaññāpakasuttādi* {#n-5.273285-a-lodgings-assigner-senāsanapaññāpakasuttādi .unnumbered}
+
+"Mendicants, a person with five qualities should not be appointed as
+lodgings assigner ... they don't know if a lodging has been assigned or
+not ... A person with five qualities should be appointed as lodgings
+assigner ... they know if a lodging has been assigned or not ...
+
+A person should not be appointed as lodgings allocator ... they don't
+know if a lodging has been allocated or not ... A person should be
+appointed as lodgings allocator ... they know if a lodging has been
+allocated or not ...
+
+A person should not be appointed as storeperson ... they don't know if
+stores are protected or not ... A person should be appointed as
+storeperson ... they know if stores are protected or not ...
+
+... robe receiver ...
+
+... robe distributor ...
+
+... porridge distributor ...
+
+... fruit distributor ...
+
+... cake distributor ...
+
+... dispenser of minor accessories ...
+
+... allocator of bathing cloths ...
+
+... bowl allocator ...
+
+... supervisor of monastery staff ...
+
+... supervisor of novices ...
+
+What five? They don't make decisions prejudiced by favoritism,
+hostility, stupidity, and cowardice. And they know if a novice has been
+supervised or not. A supervisor of novices with these five qualities is
+raised up to heaven."
+
+## Abbreviated Texts on Training Rules  {#abbreviated-texts-on-training-rules .unnumbered}
+
+### N 5.286 A Monk  *Bhikkhusutta* {#n-5.286-a-monk-bhikkhusutta .unnumbered}
+
+"Mendicants, a monk with five qualities is cast down to hell. What five?
+He kills living creatures, steals, has sex, lies, and consumes beer,
+wine, and liquor intoxicants. A monk with these five qualities is cast
+down to hell.
+
+A monk with five qualities is raised up to heaven. What five? He doesn't
+kill living creatures, steal, have sex, lie, or consume beer, wine, and
+liquor intoxicants. A monk with these five qualities is raised up to
+heaven."
+
+### N 5.287--292 A Nun  *Bhikkhunīsuttādi* {#n-5.287292-a-nun-bhikkhunīsuttādi .unnumbered}
+
+"A nun ... trainee nun ... novice monk ... novice nun ... layman ...
+laywoman ... with five qualities is cast down to hell. What five? They
+kill living creatures, steal, commit sexual misconduct, lie, and consume
+beer, wine, and liquor intoxicants. With these five qualities they're
+cast down to hell.
+
+A nun ... trainee nun ... novice monk ... novice nun ... layman ...
+laywoman ... with five qualities is raised up to heaven. What five? They
+don't kill living creatures, steal, commit sexual misconduct, lie, or
+consume beer, wine, and liquor intoxicants. With these five qualities
+they're raised up to heaven."
+
+### N 5.293 An Ājīvaka  *Ājīvakasutta* {#n-5.293-an-ājīvaka-ājīvakasutta .unnumbered}
+
+"Mendicants, an [Ājīvaka]{lang="sa"} ascetic with five qualities is cast
+down to hell. What five? They kill living creatures, steal, have sex,
+lie, and consume beer, wine, and liquor intoxicants. An
+[Ājīvaka]{lang="sa"} ascetic with these five qualities is cast down to
+hell."
+
+### N 5.294--302 A Jain Ascetic, Etc.  *Nigaṇṭhasuttādi* {#n-5.294302-a-jain-ascetic-etc.-nigaṇṭhasuttādi .unnumbered}
+
+"A Jain ascetic ... disciple of the shavelings ... a matted-hair ascetic
+... a wanderer ... a follower of [Māgaṇḍiya]{lang="sa"} ... a
+trident-bearing ascetic ... a follower of the unobstructed ... a
+follower of Gotama ... a performer of rituals for the gods ... with five
+qualities is cast down to hell. What five? They kill living creatures,
+steal, commit sexual misconduct, lie, and consume beer, wine, and liquor
+intoxicants. With these five qualities they're cast down to hell."
+
+## Abbreviated Texts Beginning With Greed  {#abbreviated-texts-beginning-with-greed .unnumbered}
+
+### N 5.303 Untitled Discourse on Greed (1st)  *\~* {#n-5.303-untitled-discourse-on-greed-1st .unnumbered}
+
+"For insight into greed, five things should be developed. What five? The
+perceptions of ugliness, death, drawbacks, repulsiveness of food, and
+dissatisfaction with the whole world. For insight into greed, these five
+things should be developed."
+
+### N 5.304 Untitled Discourse on Greed (2nd)  *\~* {#n-5.304-untitled-discourse-on-greed-2nd .unnumbered}
+
+"For insight into greed, five things should be developed. What five? The
+perceptions of impermanence, not-self, death, repulsiveness of food, and
+dissatisfaction with the whole world. For insight into greed, these five
+things should be developed."
+
+### N 5.305 Untitled Discourse on Greed (3rd)  *\~* {#n-5.305-untitled-discourse-on-greed-3rd .unnumbered}
+
+"For insight into greed, five things should be developed. What five? The
+perception of impermanence, the perception of suffering in impermanence,
+the perception of not-self in suffering, the perception of giving up,
+and the perception of fading away. For insight into greed, these five
+things should be developed."
+
+### N 5.306 Untitled Discourse on Greed (4th)  *\~* {#n-5.306-untitled-discourse-on-greed-4th .unnumbered}
+
+"For insight into greed, five things should be developed. What five? The
+faculties of faith, energy, mindfulness, immersion, and wisdom. For
+insight into greed, these five things should be developed."
+
+### N 5.307 Untitled Discourse on Greed (5th)  *\~* {#n-5.307-untitled-discourse-on-greed-5th .unnumbered}
+
+"For insight into greed, five things should be developed. What five? The
+powers of faith, energy, mindfulness, immersion, and wisdom. For insight
+into greed, these five things should be developed."
+
+### N 5.308--1152 Untitled Discourses on Greed, Etc.  *\~* {#n-5.3081152-untitled-discourses-on-greed-etc. .unnumbered}
+
+"For the complete understanding ... finishing ... giving up ... ending
+... vanishing ... fading away ... cessation ... giving away ... letting
+go of greed, five things should be developed."
+
+"Of hate ... delusion ... anger ... acrimony ... disdain ... contempt
+... jealousy ... stinginess ... deceit ... deviousness ... obstinacy ...
+aggression ... conceit ... arrogance ... vanity ... negligence ... for
+insight ... complete understanding ... finishing ... giving up ...
+ending ... vanishing ... fading away ... cessation ... giving away ...
+letting go ... five things should be developed.
+
+What five? The powers of faith, energy, mindfulness, immersion, and
+wisdom. For the letting go of negligence, these five things should be
+developed."
+
+::: Center
+THE BOOK OF THE FIVES IS FINISHED.
+:::
+
+# The Book of the Sixes  {#the-book-of-the-sixes .unnumbered}
+
+::: center
+*[the first fifty]{.smallcaps}*
+:::
+
+## The Chapter on Worthy of Offerings  {#the-chapter-on-worthy-of-offerings .unnumbered}
+
+### N 6.1 Worthy of Offerings (1st)  *Paṭhamaāhuneyyasutta* {#n-6.1-worthy-of-offerings-1st-paṭhamaāhuneyyasutta .unnumbered}
+
+[So I have heard.]{.smallcaps} At one time the Buddha was staying near
+[Sāvatthī]{lang="sa"} in Jeta's Grove, [Anāthapiṇḍika]{lang="sa"}'s
+monastery. There the Buddha addressed the mendicants, "Mendicants!"
+
+"Venerable sir," they replied. The Buddha said this:
+
+"Mendicants, a mendicant with six qualities is worthy of offerings
+dedicated to the gods, worthy of hospitality, worthy of a religious
+donation, worthy of veneration with joined palms, and is the supreme
+field of merit for the world. What six?
+
+It's a mendicant who, when they see a sight with their eyes, is neither
+happy nor sad. They remain equanimous, mindful and aware.
+
+When they hear a sound with their ears ...
+
+When they smell an odor with their nose ...
+
+When they taste a flavor with their tongue ...
+
+When they feel a touch with their body ...
+
+When they know an idea with their mind, they're neither happy nor sad.
+They remain equanimous, mindful and aware.
+
+A mendicant with these six qualities is worthy of offerings dedicated to
+the gods, worthy of hospitality, worthy of a religious donation, worthy
+of veneration with joined palms, and is the supreme field of merit for
+the world."
+
+That is what the Buddha said. Satisfied, the mendicants approved what
+the Buddha said.
+
+### N 6.2 Worthy of Offerings (2nd)  *Dutiyaāhuneyyasutta* {#n-6.2-worthy-of-offerings-2nd-dutiyaāhuneyyasutta .unnumbered}
+
+"Mendicants, a mendicant with six qualities is worthy of offerings
+dedicated to the gods, worthy of hospitality, worthy of a religious
+donation, worthy of veneration with joined palms, and is the supreme
+field of merit for the world. What six?
+
+It's a mendicant who wields the many kinds of psychic power: multiplying
+themselves and becoming one again; appearing and disappearing; going
+unobstructed through a wall, a rampart, or a mountain as if through
+space; diving in and out of the earth as if it were water; walking on
+water as if it were earth; flying cross-legged through the sky like a
+bird; touching and stroking with the hand the sun and moon, so mighty
+and powerful. They control the body as far as the realm of divinity.
+
+With clairaudience that is purified and superhuman, they hear both kinds
+of sounds, human and heavenly, whether near or far.
+
+They understand the minds of other beings and individuals, having
+comprehended them with their own mind. They understand mind with greed
+as 'mind with greed', and mind without greed as 'mind without greed'.
+They understand mind with hate ... mind without hate ... mind with
+delusion ... mind without delusion ... constricted mind ... scattered
+mind ... expansive mind ... unexpansive mind ... mind that is not
+supreme ... mind that is supreme ... mind immersed in
+[samādhi]{lang="sa"} ... mind not immersed in [samādhi]{lang="sa"} ...
+freed mind ... They understand unfreed mind as 'unfreed mind'.
+
+They recollect many kinds of past lives. That is: one, two, three, four,
+five, ten, twenty, thirty, forty, fifty, a hundred, a thousand, a
+hundred thousand rebirths; many eons of the world contracting, many eons
+of the world expanding, many eons of the world contracting and
+expanding. They remember: 'There, I was named this, my clan was that, I
+looked like this, and that was my food. This was how I felt pleasure and
+pain, and that was how my life ended. When I passed away from that place
+I was reborn somewhere else. There, too, I was named this, my clan was
+that, I looked like this, and that was my food. This was how I felt
+pleasure and pain, and that was how my life ended. When I passed away
+from that place I was reborn here.' And so they recollect their many
+kinds of past lives, with features and details.
+
+With clairvoyance that is purified and superhuman, they see sentient
+beings passing away and being reborn---inferior and superior, beautiful
+and ugly, in a good place or a bad place. They understand how sentient
+beings are reborn according to their deeds: 'These dear beings did bad
+things by way of body, speech, and mind. They denounced the noble ones;
+they had wrong view; and they chose to act out of that wrong view. When
+their body breaks up, after death, they're reborn in a place of loss, a
+bad place, the underworld, hell. These dear beings, however, did good
+things by way of body, speech, and mind. They never denounced the noble
+ones; they had right view; and they chose to act out of that right view.
+When their body breaks up, after death, they're reborn in a good place,
+a heavenly realm.' And so, with clairvoyance that is purified and
+superhuman, they see sentient beings passing away and being
+reborn---inferior and superior, beautiful and ugly, in a good place or a
+bad place. They understand how sentient beings are reborn according to
+their deeds.
+
+They realize the undefiled freedom of heart and freedom by wisdom in
+this very life. And they live having realized it with their own insight
+due to the ending of defilements.
+
+A mendicant with these six qualities is worthy of offerings dedicated to
+the gods, worthy of hospitality, worthy of a religious donation, worthy
+of veneration with joined palms, and is the supreme field of merit for
+the world."
+
+### N 6.3 Faculties  *Indriyasutta* {#n-6.3-faculties-indriyasutta .unnumbered}
+
+"Mendicants, a mendicant with six qualities is worthy of offerings
+dedicated to the gods, worthy of hospitality, worthy of a religious
+donation, worthy of veneration with joined palms, and is the supreme
+field of merit for the world. What six? The faculties of faith, energy,
+mindfulness, immersion, and wisdom. And they realize the undefiled
+freedom of heart and freedom by wisdom in this very life, and live
+having realized it with their own insight due to the ending of
+defilements. A mendicant with these six qualities is worthy of offerings
+dedicated to the gods, worthy of hospitality, worthy of a religious
+donation, worthy of veneration with joined palms, and is the supreme
+field of merit for the world."
+
+### N 6.4 Powers  *Balasutta* {#n-6.4-powers-balasutta .unnumbered}
+
+"Mendicants, a mendicant with six qualities is worthy of offerings
+dedicated to the gods, worthy of hospitality, worthy of a religious
+donation, worthy of veneration with joined palms, and is the supreme
+field of merit for the world. What six? The powers of faith, energy,
+mindfulness, immersion, and wisdom. And they realize the undefiled
+freedom of heart and freedom by wisdom in this very life, and live
+having realized it with their own insight due to the ending of
+defilements. A mendicant with these six qualities is worthy of offerings
+dedicated to the gods, worthy of hospitality, worthy of a religious
+donation, worthy of veneration with joined palms, and is the supreme
+field of merit for the world."
+
+### N 6.5 The Thoroughbred (1st)  *Paṭhamaājānīyasutta* {#n-6.5-the-thoroughbred-1st-paṭhamaājānīyasutta .unnumbered}
+
+"Mendicants, a fine royal thoroughbred with six factors is worthy of a
+king, fit to serve a king, and is considered a factor of kingship.
+
+What six? It's when a fine royal thoroughbred can endure sights, sounds,
+smells, tastes, and touches. And it's beautiful. A fine royal
+thoroughbred with these six factors is worthy of a king, fit to serve a
+king, and is considered a factor of kingship.
+
+In the same way, a mendicant with six qualities is worthy of offerings
+dedicated to the gods, worthy of hospitality, worthy of a religious
+donation, worthy of veneration with joined palms, and is the supreme
+field of merit for the world. What six? It's when a mendicant can endure
+sights, sounds, smells, tastes, touches, and ideas. A mendicant with
+these six qualities is worthy of offerings dedicated to the gods, worthy
+of hospitality, worthy of a religious donation, worthy of veneration
+with joined palms, and is the supreme field of merit for the world."
+
+### N 6.6 The Thoroughbred (2nd)  *Dutiyaājānīyasutta* {#n-6.6-the-thoroughbred-2nd-dutiyaājānīyasutta .unnumbered}
+
+"Mendicants, a fine royal thoroughbred with six factors is worthy of a
+king, fit to serve a king, and is considered a factor of kingship. What
+six? It's when a fine royal thoroughbred can endure sights, sounds,
+smells, tastes, and touches. And it's strong. A fine royal thoroughbred
+with these six factors is worthy of a king, fit to serve a king, and is
+considered a factor of kingship.
+
+In the same way, a mendicant with six qualities is worthy of offerings
+dedicated to the gods, worthy of hospitality, worthy of a religious
+donation, worthy of veneration with joined palms, and is the supreme
+field of merit for the world. What six? It's when a mendicant can endure
+sights, sounds, smells, tastes, touches, and ideas. A mendicant with
+these six qualities is worthy of offerings dedicated to the gods, worthy
+of hospitality, worthy of a religious donation, worthy of veneration
+with joined palms, and is the supreme field of merit for the world."
+
+### N 6.7 The Thoroughbred (3rd)  *Tatiyaājānīyasutta* {#n-6.7-the-thoroughbred-3rd-tatiyaājānīyasutta .unnumbered}
+
+"Mendicants, a fine royal thoroughbred with six factors is worthy of a
+king, fit to serve a king, and is considered a factor of kingship. What
+six? It's when a fine royal thoroughbred can endure sights, sounds,
+smells, tastes, and touches. And it's fast. A fine royal thoroughbred
+with these six factors is worthy of a king, fit to serve a king, and is
+considered a factor of kingship.
+
+In the same way, a mendicant with six qualities is worthy of offerings
+dedicated to the gods, worthy of hospitality, worthy of a religious
+donation, worthy of veneration with joined palms, and is the supreme
+field of merit for the world. What six? It's when a mendicant can endure
+sights, sounds, smells, tastes, touches, and ideas. A mendicant with
+these six qualities is worthy of offerings dedicated to the gods, worthy
+of hospitality, worthy of a religious donation, worthy of veneration
+with joined palms, and is the supreme field of merit for the world."
+
+### N 6.8 Unsurpassable  *Anuttariyasutta* {#n-6.8-unsurpassable-anuttariyasutta .unnumbered}
+
+"Mendicants, these six things are unsurpassable. What six? The
+unsurpassable seeing, listening, acquisition, training, service, and
+recollection. These are the six unsurpassable things."
+
+### N 6.9 Topics for Recollection  *Anussatiṭṭhānasutta* {#n-6.9-topics-for-recollection-anussatiṭṭhānasutta .unnumbered}
+
+"Mendicants, there are these six topics for recollection. What six? The
+recollection of the Buddha, the teaching, the [Saṅgha]{lang="sa"},
+ethics, generosity, and the deities. These are the six topics for
+recollection."
+
+### N 6.10 With Mahānāma  *Mahānāmasutta* {#n-6.10-with-mahānāma-mahānāmasutta .unnumbered}
+
+At one time the Buddha was staying in the land of the Sakyans, near
+Kapilavatthu in the Banyan Tree Monastery. Then [Mahānāma]{lang="sa"}
+the Sakyan went up to the Buddha, bowed, sat down to one side, and said
+to him:
+
+"Sir, when a noble disciple has reached the fruit and understood the
+instructions, what kind of meditation do they frequently practice?"
+
+"[Mahānāma]{lang="sa"}, when a noble disciple has reached the fruit and
+understood the instructions they frequently practice this kind of
+meditation.
+
+Firstly, a noble disciple recollects the Realized One: 'That Blessed One
+is perfected, a fully awakened Buddha, accomplished in knowledge and
+conduct, holy, knower of the world, supreme guide for those who wish to
+train, teacher of gods and humans, awakened, blessed.' When a noble
+disciple recollects the Realized One their mind is not full of greed,
+hate, and delusion. At that time their mind is unswerving, based on the
+Realized One. A noble disciple whose mind is unswerving finds
+inspiration in the meaning and the teaching, and finds joy connected
+with the teaching. When they're joyful, rapture springs up. When the
+mind is full of rapture, the body becomes tranquil. When the body is
+tranquil, they feel bliss. And when they're blissful, the mind becomes
+immersed in [samādhi]{lang="sa"}. This is called a noble disciple who
+lives in balance among people who are unbalanced, and lives untroubled
+among people who are troubled. They've entered the stream of the
+teaching and develop the recollection of the Buddha.
+
+Furthermore, a noble disciple recollects the teaching: 'The teaching is
+well explained by the Buddha---apparent in the present life, immediately
+effective, inviting inspection, relevant, so that sensible people can
+know it for themselves.' When a noble disciple recollects the teaching
+their mind is not full of greed, hate, and delusion. ... This is called
+a noble disciple who lives in balance among people who are unbalanced,
+and lives untroubled among people who are troubled. They've entered the
+stream of the teaching and develop the recollection of the teaching.
+
+Furthermore, a noble disciple recollects the [Saṅgha]{lang="sa"}: 'The
+[Saṅgha]{lang="sa"} of the Buddha's disciples is practicing the way
+that's good, sincere, systematic, and proper. It consists of the four
+pairs, the eight individuals. This is the [Saṅgha]{lang="sa"} of the
+Buddha's disciples that is worthy of offerings dedicated to the gods,
+worthy of hospitality, worthy of a religious donation, worthy of
+greeting with joined palms, and is the supreme field of merit for the
+world.' When a noble disciple recollects the [Saṅgha]{lang="sa"} their
+mind is not full of greed, hate, and delusion. ... This is called a
+noble disciple who lives in balance among people who are unbalanced, and
+lives untroubled among people who are troubled. They've entered the
+stream of the teaching and develop the recollection of the
+[Saṅgha]{lang="sa"}.
+
+Furthermore, a noble disciple recollects their own ethical conduct,
+which is intact, impeccable, spotless, and unmarred, liberating, praised
+by sensible people, not mistaken, and leading to immersion. When a noble
+disciple recollects their ethical conduct their mind is not full of
+greed, hate, and delusion. ... This is called a noble disciple who lives
+in balance among people who are unbalanced, and lives untroubled among
+people who are troubled. They've entered the stream of the teaching and
+develop the recollection of ethics.
+
+Furthermore, a noble disciple recollects their own generosity: 'I'm so
+fortunate, so very fortunate! Among people full of the stain of
+stinginess I live at home rid of stinginess, freely generous,
+open-handed, loving to let go, committed to charity, loving to give and
+to share.' When a noble disciple recollects their own generosity their
+mind is not full of greed, hate, and delusion. ... This is called a
+noble disciple who lives in balance among people who are unbalanced, and
+lives untroubled among people who are troubled. They've entered the
+stream of the teaching and develop the recollection of generosity.
+
+Furthermore, a noble disciple recollects the deities: 'There are the
+gods of the four great kings, the gods of the thirty-three, the gods of
+Yama, the joyful gods, the gods who love to imagine, the gods who
+control what is imagined by others, the gods of the Divinity's host, and
+gods even higher than these. When those deities passed away from here,
+they were reborn there because of their faith, ethics, learning,
+generosity, and wisdom. I, too, have the same kind of faith, ethics,
+learning, generosity, and wisdom.' When a noble disciple recollects the
+faith, ethics, learning, generosity, and wisdom of both themselves and
+the deities their mind is not full of greed, hate, and delusion. At that
+time their mind is unswerving, based on the deities. A noble disciple
+whose mind is unswerving finds inspiration in the meaning and the
+teaching, and finds joy connected with the teaching. When you're joyful,
+rapture springs up. When the mind is full of rapture, the body becomes
+tranquil. When the body is tranquil, you feel bliss. And when you're
+blissful, the mind becomes immersed in [samādhi]{lang="sa"}. This is
+called a noble disciple who lives in balance among people who are
+unbalanced, and lives untroubled among people who are troubled. They've
+entered the stream of the teaching and develop the recollection of the
+deities.
+
+When a noble disciple has reached the fruit and understood the
+instructions this is the kind of meditation they frequently practice."
+
+## The Chapter on Warm-hearted  {#the-chapter-on-warm-hearted .unnumbered}
+
+### N 6.11 Warm-hearted (1st)  *Paṭhamasāraṇīyasutta* {#n-6.11-warm-hearted-1st-paṭhamasāraṇīyasutta .unnumbered}
+
+"Mendicants, there are these six warm-hearted qualities. What six?
+
+Firstly, a mendicant consistently treats their spiritual companions with
+bodily kindness, both in public and in private. This is a warm-hearted
+quality.
+
+Furthermore, a mendicant consistently treats their spiritual companions
+with verbal kindness, both in public and in private. This too is a
+warm-hearted quality.
+
+Furthermore, a mendicant consistently treats their spiritual companions
+with mental kindness ...
+
+Furthermore, a mendicant shares without reservation any material things
+they have gained by legitimate means, even the food placed in the
+alms-bowl, using them in common with their ethical spiritual companions.
+This too is a warm-hearted quality.
+
+Furthermore, a mendicant lives according to the precepts shared with
+their spiritual companions, both in public and in private. Those
+precepts are intact, impeccable, spotless, and unmarred, liberating,
+praised by sensible people, not mistaken, and leading to immersion. This
+too is a warm-hearted quality.
+
+Furthermore, a mendicant lives according to the view shared with their
+spiritual companions, both in public and in private. That view is noble
+and emancipating, and delivers one who practices it to the complete
+ending of suffering. This too is a warm-hearted quality.
+
+These are the six warm-hearted qualities."
+
+### N 6.12 Warm-hearted (2nd)  *Dutiyasāraṇīyasutta* {#n-6.12-warm-hearted-2nd-dutiyasāraṇīyasutta .unnumbered}
+
+"Mendicants, these six warm-hearted qualities make for fondness and
+respect, conducing to inclusion, harmony, and unity, without quarreling.
+What six?
+
+Firstly, a mendicant consistently treats their spiritual companions with
+bodily kindness, both in public and in private. This warm-hearted
+quality makes for fondness and respect, conducing to inclusion, harmony,
+and unity, without quarreling.
+
+Furthermore, a mendicant consistently treats their spiritual companions
+with verbal kindness ...
+
+Furthermore, a mendicant consistently treats their spiritual companions
+with mental kindness ...
+
+Furthermore, a mendicant shares without reservation any material things
+they have gained by legitimate means, even the food placed in the
+alms-bowl, using them in common with their ethical spiritual companions.
+This too is a warm-hearted quality.
+
+Furthermore, a mendicant lives according to the precepts shared with
+their spiritual companions, both in public and in private. Those
+precepts are intact, impeccable, spotless, and unmarred, liberating,
+praised by sensible people, not mistaken, and leading to immersion. This
+too is a warm-hearted quality.
+
+Furthermore, a mendicant lives according to the view shared with their
+spiritual companions, both in public and in private. That view is noble
+and emancipating, and delivers one who practices it to the complete
+ending of suffering. This warm-hearted quality makes for fondness and
+respect, conducing to inclusion, harmony, and unity, without quarreling.
+
+These six warm-hearted qualities make for fondness and respect,
+conducing to inclusion, harmony, and unity, without quarreling."
+
+### N 6.13 Elements of Escape  *Nissāraṇīyasutta* {#n-6.13-elements-of-escape-nissāraṇīyasutta .unnumbered}
+
+"Mendicants, there are these six elements of escape. What six?
+
+Take a mendicant who says: 'I've developed the heart's release by love.
+I've cultivated it, made it my vehicle and my basis, kept it up,
+consolidated it, and properly implemented it. Yet somehow ill will still
+occupies my mind.' They should be told, 'Not so, venerable! Don't say
+that. Don't misrepresent the Buddha, for misrepresentation of the Buddha
+is not good. And the Buddha would not say that. It's impossible,
+reverend, it cannot happen that the heart's release by love has been
+developed and properly implemented, yet somehow ill will still occupies
+the mind. For it is the heart's release by love that is the escape from
+ill will.'
+
+Take another mendicant who says: 'I've developed the heart's release by
+compassion. I've cultivated it, made it my vehicle and my basis, kept it
+up, consolidated it, and properly implemented it. Yet somehow the
+thought of harming still occupies my mind.' They should be told, 'Not
+so, venerable! ... For it is the heart's release by compassion that is
+the escape from thoughts of harming.'
+
+Take another mendicant who says: 'I've developed the heart's release by
+rejoicing. I've cultivated it, made it my vehicle and my basis, kept it
+up, consolidated it, and properly implemented it. Yet somehow discontent
+still occupies my mind.' They should be told, 'Not so, venerable! ...
+For it is the heart's release by rejoicing that is the escape from
+discontent.'
+
+Take another mendicant who says: 'I've developed the heart's release by
+equanimity. I've cultivated it, made it my vehicle and my basis, kept it
+up, consolidated it, and properly implemented it. Yet somehow desire
+still occupies my mind.' They should be told, 'Not so, venerable! ...
+For it is the heart's release by equanimity that is the escape from
+desire.'
+
+Take another mendicant who says: 'I've developed the signless release of
+the heart. I've cultivated it, made it my vehicle and my basis, kept it
+up, consolidated it, and properly implemented it. Yet somehow my
+consciousness still follows after signs.' They should be told, 'Not so,
+venerable! ... For it is the signless release of the heart that is the
+escape from all signs.'
+
+Take another mendicant who says: 'I'm rid of the conceit "I am". And I
+don't regard anything as "I am this". Yet somehow the dart of doubt and
+indecision still occupies my mind.' They should be told, 'Not so,
+venerable! Don't say that. Don't misrepresent the Buddha, for
+misrepresentation of the Buddha is not good. And the Buddha would not
+say that. It's impossible, reverend, it cannot happen that the conceit
+"I am" has been done away with, and nothing is regarded as "I am this",
+yet somehow the dart of doubt and indecision still occupies the mind.
+For it is the uprooting of the conceit "I am" that is the escape from
+the dart of doubt and indecision.'
+
+These are the six elements of escape."
+
+### N 6.14 A Good Death  *Bhaddakasutta* {#n-6.14-a-good-death-bhaddakasutta .unnumbered}
+
+There [Sāriputta]{lang="sa"} addressed the mendicants: "Reverends,
+mendicants!"
+
+"Reverend," they replied. [Sāriputta]{lang="sa"} said this:
+
+"A mendicant lives life so as to not have a good death. And how do they
+live life so as to not have a good death?
+
+Take a mendicant who relishes work, talk, sleep, company, closeness, and
+proliferation. They love these things and like to relish them. A
+mendicant who lives life like this does not have a good death. This is
+called a mendicant who enjoys substantial reality, who hasn't given up
+substantial reality to rightly make an end of suffering.
+
+A mendicant lives life so as to have a good death. And how do they live
+life so as to have a good death?
+
+Take a mendicant who doesn't relish work, talk, sleep, company,
+closeness, and proliferation. They don't love these things or like to
+relish them. A mendicant who lives life like this has a good death. This
+is called a mendicant who delights in extinguishment, who has given up
+substantial reality to rightly make an end of suffering.
+
+> A beast who likes to proliferate,\
+> enjoying proliferation,\
+> fails to win extinguishment,\
+> the supreme sanctuary from the yoke.
+>
+> But one who gives up proliferation,\
+> enjoying the state of non-proliferation,\
+> wins extinguishment,\
+> the supreme sanctuary from the yoke."
+
+### N 6.15 Regret  *Anutappiyasutta* {#n-6.15-regret-anutappiyasutta .unnumbered}
+
+There [Sāriputta]{lang="sa"} addressed the mendicants:
+
+"As a mendicant makes their bed, so they must lie in it, and die
+tormented by regrets. And how do they die tormented by regrets?
+
+Take a mendicant who relishes work, talk, sleep, company, closeness, and
+proliferation. They love these things and like to relish them. A
+mendicant who makes their bed like this must lie in it, and die
+tormented by regrets. This is called a mendicant who enjoys substantial
+reality, who hasn't given up substantial reality to rightly make an end
+of suffering.
+
+As a mendicant makes their bed, so they must lie in it, and die free of
+regrets. And how do they die free of regrets?
+
+Take a mendicant who doesn't relish work, talk, sleep, company,
+closeness, and proliferation. They don't love these things or like to
+relish them. A mendicant who makes their bed like this must lie in it,
+and die free of regrets. This is called a mendicant who delights in
+extinguishment, who has given up substantial reality to rightly make an
+end of suffering.
+
+> A beast who likes to proliferate,\
+> enjoying proliferation,\
+> fails to win extinguishment,\
+> the supreme sanctuary from the yoke.
+>
+> But one who gives up proliferation,\
+> enjoying the state of non-proliferation,\
+> wins extinguishment,\
+> the supreme sanctuary from the yoke."
+
+### N 6.16 Nakula's Father  *Nakulapitusutta* {#n-6.16-nakulas-father-nakulapitusutta .unnumbered}
+
+At one time the Buddha was staying in the land of the Bhaggas at
+Crocodile Hill, in the deer park at [Bhesakaḷā]{lang="sa"}'s Wood. Now
+at that time the householder Nakula's father was sick, suffering,
+gravely ill. Then the housewife Nakula's mother said to him:
+
+"Householder, don't pass away with concerns. Such concern is suffering,
+and it's criticized by the Buddha. Householder, you might think: 'When
+I've gone, the housewife Nakula's mother won't be able to provide for
+the children and keep up the household carpets.' But you should not see
+it like this. I'm skilled at spinning cotton and carding wool. I'm able
+to provide for the children and keep up the household carpets. So
+householder, don't pass away with concerns ...
+
+Householder, you might think: 'When I've gone, the housewife Nakula's
+mother will take another husband.' But you should not see it like this.
+Both you and I know that we have remained celibate while at home for the
+past sixteen years. So householder, don't pass away with concerns ...
+
+Householder, you might think: 'When I've gone, the housewife Nakula's
+mother won't want to see the Buddha and his [Saṅgha]{lang="sa"} of
+mendicants.' But you should not see it like this. When you've gone, I'll
+want to see the Buddha and his mendicant [Saṅgha]{lang="sa"} even more.
+So householder, don't pass away with concerns ...
+
+Householder, you might think: 'The housewife Nakula's mother won't
+fulfill ethics.' But you should not see it like this. I am one of those
+white-robed disciples of the Buddha who fulfills their ethics. Whoever
+doubts this can go and ask the Buddha. He is staying in the land of the
+Bhaggas at Crocodile Hill, in the deer park at [Bhesakaḷā]{lang="sa"}'s
+Wood. So householder, don't pass away with concerns ...
+
+Householder, you might think: 'The housewife Nakula's mother doesn't
+have internal serenity of heart.' But you should not see it like this. I
+am one of those white-robed disciples of the Buddha who has internal
+serenity of heart. Whoever doubts this can go and ask the Buddha. He is
+staying in the land of the Bhaggas at Crocodile Hill, in the deer park
+at [Bhesakaḷā]{lang="sa"}'s Wood. So householder, don't pass away with
+concerns ...
+
+Householder, you might think: 'The housewife Nakula's mother has not
+gained a basis, a firm basis, and solace in this teaching and training.
+She has not gone beyond doubt, got rid of indecision, and gained
+assurance. And she's not independent of others in the Teacher's
+instructions.' But you should not see it like this. I am one of those
+white-robed disciples of the Buddha who has gained a basis, a firm
+basis, and solace in this teaching and training. I have gone beyond
+doubt, got rid of indecision, and gained assurance. And I am independent
+of others in the Teacher's instructions. Whoever doubts this can go and
+ask the Buddha. He is staying in the land of the Bhaggas at Crocodile
+Hill, in the deer park at [Bhesakaḷā]{lang="sa"}'s Wood. So householder,
+don't pass away with concerns. Such concern is suffering, and it's
+criticized by the Buddha."
+
+And then, as Nakula's mother was giving this advice to Nakula's father,
+his illness died down on the spot. And that's how Nakula's father
+recovered from that illness. Soon after recovering, leaning on a staff
+he went to the Buddha, bowed, and sat down to one side. The Buddha said
+to him:
+
+"You're fortunate, householder, so very fortunate, to have the housewife
+Nakula's mother advise and instruct you out of kindness and sympathy.
+
+She is one of those white-robed disciples of the Buddha who fulfills
+their ethics.
+
+She is one of those white-robed disciples of the Buddha who has internal
+serenity of heart.
+
+She is one of those white-robed disciples of the Buddha who has gained a
+basis, a firm basis, and solace in this teaching and training. She has
+gone beyond doubt, got rid of indecision, and gained assurance. And she
+is independent of others in the Teacher's instructions.
+
+You're fortunate, householder, so very fortunate, to have the housewife
+Nakula's mother advise and instruct you out of kindness and sympathy."
+
+### N 6.17 Sleep  *Soppasutta* {#n-6.17-sleep-soppasutta .unnumbered}
+
+At one time the Buddha was staying near [Sāvatthī]{lang="sa"} in Jeta's
+Grove, [Anāthapiṇḍika]{lang="sa"}'s monastery.
+
+Then in the late afternoon, the Buddha came out of retreat, went to the
+assembly hall, and sat down on the seat spread out. Venerable
+[Sāriputta]{lang="sa"} also came out of retreat, went to the assembly
+hall, bowed to the Buddha and sat down to one side. Venerables
+[Mahāmoggallāna]{lang="sa"}, [Mahākassapa]{lang="sa"},
+[Mahākaccāna]{lang="sa"}, [Mahākoṭṭhita]{lang="sa"},
+[Mahācunda]{lang="sa"}, [Mahākappina]{lang="sa"}, Anuruddha, Revata, and
+Ānanda did the same. The Buddha spent much of the night sitting in
+meditation, then got up from his seat and entered his dwelling. And soon
+after the Buddha left those venerables each went to their own dwelling.
+
+But those mendicants who were junior, recently gone forth, newly come to
+this teaching and training slept until the sun came up, snoring. The
+Buddha saw them doing this, with his clairvoyance that is purified and
+superhuman. He went to the assembly hall, sat down on the seat spread
+out, and addressed the mendicants:
+
+"Mendicants, where is [Sāriputta]{lang="sa"}? Where are
+[Mahāmoggallāna]{lang="sa"}, [Mahākassapa]{lang="sa"},
+[Mahākaccāna]{lang="sa"}, [Mahākoṭṭhita]{lang="sa"},
+[Mahācunda]{lang="sa"}, [Mahākappina]{lang="sa"}, Anuruddha, Revata, and
+Ānanda? Where have these senior disciples gone?"
+
+"Soon after the Buddha left those venerables each went to their own
+dwelling."
+
+"So, mendicants, when the senior mendicants left, why did you sleep
+until the sun came up, snoring?
+
+What do you think, mendicants? Have you ever seen or heard of an
+anointed aristocratic king who rules his whole life, dear and beloved to
+the country, while indulging in the pleasures of sleeping, lying down,
+and drowsing as much as he likes?"
+
+"No, sir."
+
+"Good, mendicants! I too have never seen or heard of such a thing.
+
+What do you think, mendicants? Have you ever seen or heard of an
+appointed official ... a hereditary official ... a general ... a village
+chief ... or a guild head who runs the guild his whole life, dear and
+beloved to the guild, while indulging in the pleasures of sleeping,
+lying down, and drowsing as much as he likes?"
+
+"No, sir."
+
+"Good, mendicants! I too have never seen or heard of such a thing.
+
+What do you think, mendicants? Have you ever seen or heard of an ascetic
+or brahmin who indulges in the pleasures of sleeping, lying down, and
+drowsing as much as they like? Their sense doors are unguarded, they eat
+too much, they're not dedicated to wakefulness, they're unable to
+discern skillful qualities, and they don't pursue the development of the
+qualities that lead to awakening in the evening and toward dawn. Yet
+they realize the undefiled freedom of heart and freedom by wisdom in
+this very life. And they live having realized it with their own insight
+due to the ending of defilements."
+
+"No, sir."
+
+"Good, mendicants! I too have never seen or heard of such a thing.
+
+So you should train like this: 'We will guard our sense doors, eat in
+moderation, be dedicated to wakefulness, discern skillful qualities, and
+pursue the development of the qualities that lead to awakening in the
+evening and toward dawn.' That's how you should train."
+
+### N 6.18 A Fish Dealer  *Macchabandhasutta* {#n-6.18-a-fish-dealer-macchabandhasutta .unnumbered}
+
+At one time the Buddha was wandering in the land of the Kosalans
+together with a large [Saṅgha]{lang="sa"} of mendicants.
+
+While walking along the road he saw a fish dealer in a certain spot
+selling fish that he had killed himself. Seeing this he left the road,
+sat at the root of a tree on the seat spread out, and addressed the
+mendicants, "Mendicants, do you see that fish dealer selling fish that
+he killed himself?"
+
+"Yes, sir."
+
+"What do you think, mendicants? Have you ever seen or heard of a fish
+dealer selling fish that he killed himself who, by means of that work
+and livelihood, got to travel by elephant, horse, chariot, or vehicle,
+or to enjoy wealth, or to live off a large fortune?"
+
+"No, sir."
+
+"Good, mendicants! I too have never seen or heard of such a thing. Why
+is that? Because when the fish are led to the slaughter he regards them
+with bad intentions.
+
+What do you think, mendicants? Have you ever seen or heard of a butcher
+of cattle selling cattle that he killed himself who, by means of that
+work and livelihood, got to travel by elephant, horse, chariot, or
+vehicle, or to enjoy wealth, or to live off a large fortune?"
+
+"No, sir."
+
+"Good, mendicants! I too have never seen or heard of such a thing. Why
+is that? Because when the cattle are led to the slaughter he regards
+them with bad intentions.
+
+What do you think, mendicants? Have you ever seen or heard of a butcher
+of sheep ... a butcher of pigs ... a butcher of poultry ... or a
+deer-hunter selling deer which he killed himself who, by means of that
+work and livelihood, got to travel by elephant, horse, chariot, or
+vehicle, or to enjoy wealth, or to live off a large fortune?"
+
+"No, sir."
+
+"Good, mendicants! I too have never seen or heard of such a thing. Why
+is that? Because when the deer are led to the slaughter he regards them
+with bad intentions.
+
+By regarding even animals led to the slaughter with bad intentions he
+did not get to travel by elephant, horse, chariot, or vehicle, or to
+enjoy wealth, or to live off a large fortune. How much worse is someone
+who regards human beings brought to the slaughter with bad intentions!
+This will be for their lasting harm and suffering. When their body
+breaks up, after death, they're reborn in a place of loss, a bad place,
+the underworld, hell."
+
+### N 6.19 Mindfulness of Death (1st)  *Paṭhamamaraṇassatisutta* {#n-6.19-mindfulness-of-death-1st-paṭhamamaraṇassatisutta .unnumbered}
+
+At one time the Buddha was staying at [Ñātika]{lang="sa"} in the brick
+house. There the Buddha addressed the mendicants, "Mendicants!"
+
+"Venerable sir," they replied. The Buddha said this:
+
+"Mendicants, when mindfulness of death is developed and cultivated it's
+very fruitful and beneficial. It culminates in freedom from death and
+ends in freedom from death. But do you develop mindfulness of death?"
+
+When he said this, one of the mendicants said to the Buddha, "Sir, I
+develop mindfulness of death."
+
+"But mendicant, how do you develop it?"
+
+"In this case, sir, I think: 'Oh, if I'd only live for another day and
+night, I'd focus on the Buddha's instructions and I could really achieve
+a lot.' That's how I develop mindfulness of death."
+
+Another mendicant said to the Buddha, "Sir, I too develop mindfulness of
+death."
+
+"But mendicant, how do you develop it?"
+
+"In this case, sir, I think: 'Oh, if I'd only live for another day, I'd
+focus on the Buddha's instructions and I could really achieve a lot.'
+That's how I develop mindfulness of death."
+
+Another mendicant said to the Buddha, "Sir, I too develop mindfulness of
+death."
+
+"But mendicant, how do you develop it?"
+
+"In this case, sir, I think: 'Oh, if I'd only live as long as it takes
+to eat a meal of almsfood, I'd focus on the Buddha's instructions and I
+could really achieve a lot.' That's how I develop mindfulness of death."
+
+Another mendicant said to the Buddha, "Sir, I too develop mindfulness of
+death."
+
+"But mendicant, how do you develop it?"
+
+"In this case, sir, I think: 'Oh, if I'd only live as long as it takes
+to chew and swallow four or five mouthfuls, I'd focus on the Buddha's
+instructions and I could really achieve a lot.' That's how I develop
+mindfulness of death."
+
+Another mendicant said to the Buddha, "Sir, I too develop mindfulness of
+death."
+
+"But mendicant, how do you develop it?"
+
+"In this case, sir, I think: 'Oh, if I'd only live as long as it takes
+to chew and swallow a single mouthful, I'd focus on the Buddha's
+instructions and I could really achieve a lot.' That's how I develop
+mindfulness of death."
+
+Another mendicant said to the Buddha, "Sir, I too develop mindfulness of
+death."
+
+"But mendicant, how do you develop it?"
+
+"In this case, sir, I think: 'Oh, if I'd only live as long as it takes
+to breathe out after breathing in, or to breathe in after breathing out,
+I'd focus on the Buddha's instructions and I could really achieve a
+lot.' That's how I develop mindfulness of death."
+
+When this was said, the Buddha said to those mendicants:
+
+"As to the mendicants who develop mindfulness of death by wishing to
+live for a day and night ... or to live for a day ... or to live as long
+as it takes to eat a meal of almsfood ... or to live as long as it takes
+to chew and swallow four or five mouthfuls---these are called mendicants
+who live negligently. They slackly develop mindfulness of death for the
+ending of defilements.
+
+But as to the mendicants who develop mindfulness of death by wishing to
+live as long as it takes to chew and swallow a single mouthful ... or to
+live as long as it takes to breathe out after breathing in, or to
+breathe in after breathing out---these are called mendicants who live
+diligently. They keenly develop mindfulness of death for the ending of
+defilements.
+
+So you should train like this: 'We will live diligently. We will keenly
+develop mindfulness of death for the ending of defilements.' That's how
+you should train."
+
+### N 6.20 Mindfulness of Death (2nd)  *Dutiyamaraṇassatisutta* {#n-6.20-mindfulness-of-death-2nd-dutiyamaraṇassatisutta .unnumbered}
+
+At one time the Buddha was staying at [Ñātika]{lang="sa"} in the brick
+house. There the Buddha addressed the mendicants:
+
+"Mendicants, when mindfulness of death is developed and cultivated it's
+very fruitful and beneficial. It culminates in freedom from death and
+ends in freedom from death. And how is mindfulness of death developed
+and cultivated to be very fruitful and beneficial, to culminate in
+freedom from death and end in freedom from death?
+
+As day passes by and night draws close, a mendicant reflects: 'I might
+die of many causes. A snake might bite me, or a scorpion or centipede
+might sting me. And if I died from that it would be an obstacle to me.
+Or I might stumble off a cliff, or get food poisoning, or suffer a
+disturbance of bile, phlegm, or piercing winds. And if I died from that
+it would be an obstacle to my progress. ' That mendicant should reflect:
+'Are there any bad, unskillful qualities that I haven't given up, which
+might be an obstacle to my progress if I die tonight?'
+
+Suppose that, upon checking, a mendicant knows that there are such bad,
+unskillful qualities. Then in order to give them up they should apply
+intense enthusiasm, effort, zeal, vigor, perseverance, mindfulness, and
+situational awareness. Suppose your clothes or head were on fire. In
+order to extinguish it, you'd apply intense enthusiasm, effort, zeal,
+vigor, perseverance, mindfulness, and situational awareness. In the same
+way, in order to give up those bad, unskillful qualities, that mendicant
+should apply intense enthusiasm ...
+
+But suppose that, upon checking, a mendicant knows that there are no
+such bad, unskillful qualities. Then that mendicant should meditate with
+rapture and joy, training day and night in skillful qualities.
+
+Or else, as night passes by and day draws close, a mendicant reflects:
+'I might die of many causes. A snake might bite me, or a scorpion or
+centipede might sting me. And if I died from that it would be an
+obstacle to my progress. Or I might stumble off a cliff, or get food
+poisoning, or suffer a disturbance of bile, phlegm, or piercing winds.
+And if I died from that it would be an obstacle to my progress. ' That
+mendicant should reflect: 'Are there any bad, unskillful qualities that
+I haven't given up, which might be an obstacle to my progress if I die
+today?'
+
+Suppose that, upon checking, a mendicant knows that there are such bad,
+unskillful qualities. Then in order to give them up they should apply
+intense enthusiasm, effort, zeal, vigor, perseverance, mindfulness, and
+situational awareness. Suppose your clothes or head were on fire. In
+order to extinguish it, you'd apply intense enthusiasm, effort, zeal,
+vigor, perseverance, mindfulness, and situational awareness. In the same
+way, in order to give up those bad, unskillful qualities, that mendicant
+should apply intense enthusiasm ...
+
+But suppose that, upon checking, a mendicant knows that there are no
+such bad, unskillful qualities. Then that mendicant should meditate with
+rapture and joy, training day and night in skillful qualities.
+
+Mindfulness of death, when developed and cultivated in this way, is very
+fruitful and beneficial. It culminates in freedom from death and ends in
+freedom from death."
+
+## The Chapter on Unsurpassable  {#the-chapter-on-unsurpassable .unnumbered}
+
+### N 6.21 At Sāma Village  *Sāmakasutta* {#n-6.21-at-sāma-village-sāmakasutta .unnumbered}
+
+At one time the Buddha was staying in the land of the Sakyans near the
+little village of [Sāma]{lang="sa"}, by a lotus pond.
+
+Then, late at night, a glorious deity, lighting up the entire lotus
+pond, went up to the Buddha, bowed, stood to one side, and said to him,
+"Sir, three qualities lead to the decline of a mendicant. What three?
+Relishing work, talk, and sleep. These three qualities lead to the
+decline of a mendicant."
+
+That's what that deity said, and the teacher approved. Then that deity,
+knowing that the teacher approved, bowed, and respectfully circled the
+Buddha, keeping him on his right, before vanishing right there.
+
+Then, when the night had passed, the Buddha told the mendicants all that
+had happened, adding:
+
+"It's unfortunate for those of you who even the deities know are
+declining in skillful qualities. I will teach you three more qualities
+that lead to decline. Listen and apply your mind well, I will speak."
+
+"Yes, sir," they replied. The Buddha said this:
+
+"And what, mendicants, are three qualities that lead to decline?
+Enjoyment of company, being hard to admonish, and having bad friends.
+These three qualities lead to decline.
+
+Whether in the past, future, or present, all those who decline in
+skillful qualities do so because of these six qualities."
+
+### N 6.22 Non-decline  *Aparihāniyasutta* {#n-6.22-non-decline-aparihāniyasutta .unnumbered}
+
+"Mendicants, I will teach you these six principles that prevent decline.
+... And what, mendicants, are the six principles that prevent decline?
+Not relishing work, talk, sleep, and company, being easy to admonish,
+and having good friends. These six qualities prevent decline.
+
+Whether in the past, future, or present, all those who have not declined
+in skillful qualities do so because of these six qualities."
+
+### N 6.23 Dangers  *Bhayasutta* {#n-6.23-dangers-bhayasutta .unnumbered}
+
+"'Danger', mendicants, is a term for sensual pleasures. 'Suffering',
+'disease', 'boil', 'snare', and 'bog' are terms for sensual pleasures.
+
+And why is 'danger' a term for sensual pleasures? Someone who is
+besotted by sensual greed and shackled by lustful desire is not freed
+from dangers in this life or in lives to come. That is why 'danger' is a
+term for sensual pleasures.
+
+And why are 'suffering', 'disease', 'boil', 'snare', and 'bog' terms for
+sensual pleasures? Someone who is besotted by sensual greed and shackled
+by lustful desire is not freed from suffering, disease, boils, chains,
+or bogs in this life or in lives to come. That is why these are terms
+for sensual pleasures.
+
+> Danger, suffering, disease, boils,\
+> and snares and bogs both.\
+> These describe the sensual pleasures\
+> to which ordinary people are attached.
+>
+> Seeing the danger in grasping,\
+> the origin of birth and death,\
+> the unattached are freed\
+> with the ending of birth and death.
+>
+> Happy, they've come to a safe place,\
+> quenched in this very life.\
+> They've gone beyond all threats and dangers,\
+> and risen above all suffering."
+
+### N 6.24 The Himalaya  *Himavantasutta* {#n-6.24-the-himalaya-himavantasutta .unnumbered}
+
+"Mendicants, a mendicant who has six qualities could shatter Himalaya,
+the king of mountains, let alone this wretched ignorance! What six? It's
+when a mendicant is skilled in entering immersion, skilled in remaining
+in immersion, skilled in emerging from immersion, skilled in gladdening
+the mind for immersion, skilled in the meditation subjects for
+immersion, and skilled in projecting the mind purified by immersion. A
+mendicant who has these six qualities could shatter Himalaya, the king
+of mountains, let alone this wretched ignorance!"
+
+### N 6.25 Topics for Recollection  *Anussatiṭṭhānasutta* {#n-6.25-topics-for-recollection-anussatiṭṭhānasutta .unnumbered}
+
+"Mendicants, there are these six topics for recollection. What six?
+
+Firstly, a noble disciple recollects the Realized One: 'That Blessed One
+is perfected, a fully awakened Buddha, accomplished in knowledge and
+conduct, holy, knower of the world, supreme guide for those who wish to
+train, teacher of gods and humans, awakened, blessed.' When a noble
+disciple recollects the Realized One their mind is not full of greed,
+hate, and delusion. At that time their mind is unswerving. They've left
+behind greed; they're free of it and have risen above it. 'Greed' is a
+term for the five kinds of sensual stimulation. Relying on this, some
+sentient beings are purified in this way.
+
+Furthermore, a noble disciple recollects the teaching: 'The teaching is
+well explained by the Buddha---apparent in the present life, immediately
+effective, inviting inspection, relevant, so that sensible people can
+know it for themselves.' When a noble disciple recollects the teaching
+their mind is not full of greed, hate, and delusion. ...
+
+Furthermore, a noble disciple recollects the [Saṅgha]{lang="sa"}: 'The
+[Saṅgha]{lang="sa"} of the Buddha's disciples is practicing the way
+that's good, direct, systematic, and proper. It consists of the four
+pairs, the eight individuals. This is the [Saṅgha]{lang="sa"} of the
+Buddha's disciples that is worthy of offerings dedicated to the gods,
+worthy of hospitality, worthy of a religious donation, worthy of
+greeting with joined palms, and is the supreme field of merit for the
+world.' When a noble disciple recollects the [Saṅgha]{lang="sa"} their
+mind is not full of greed, hate, and delusion. ...
+
+Furthermore, a noble disciple recollects their own ethical precepts,
+which are intact, impeccable, spotless, and unmarred, liberating,
+praised by sensible people, not mistaken, and leading to immersion. When
+a noble disciple recollects their ethical precepts their mind is not
+full of greed, hate, and delusion. ...
+
+Furthermore, a noble disciple recollects their own generosity: 'I'm so
+fortunate, so very fortunate! Among people full of the stain of
+stinginess I live at home rid of the stain of stinginess, freely
+generous, open-handed, loving to let go, committed to charity, loving to
+give and to share.' When a noble disciple recollects their generosity
+their mind is not full of greed, hate, and delusion. ...
+
+Furthermore, a noble disciple recollects the deities: 'There are the
+gods of the four great kings, the gods of the thirty-three, the gods of
+Yama, the joyful gods, the gods who love to imagine, the gods who
+control what is imagined by others, the gods of the Divinity's host, and
+gods even higher than these. When those deities passed away from here,
+they were reborn there because of their faith, ethics, learning,
+generosity, and wisdom. I, too, have the same kind of faith, ethics,
+learning, generosity, and wisdom.'
+
+When a noble disciple recollects the faith, ethics, learning,
+generosity, and wisdom of both themselves and the deities their mind is
+not full of greed, hate, and delusion. At that time their mind is
+unswerving. They've left behind greed; they're free of it and have risen
+above it. 'Greed' is a term for the five kinds of sensual stimulation.
+Relying on this, some sentient beings are purified in this way.
+
+These are the six topics for recollection."
+
+### N 6.26 With Mahākaccāna  *Mahākaccānasutta* {#n-6.26-with-mahākaccāna-mahākaccānasutta .unnumbered}
+
+There [Mahākaccāna]{lang="sa"} addressed the mendicants: "Reverends,
+mendicants!"
+
+"Reverend," they replied. Venerable [Mahākaccāna]{lang="sa"} said this:
+
+"It's incredible, reverends, it's amazing! How this Blessed One who
+knows and sees, the perfected one, the fully awakened Buddha, has found
+an opening amid confinement; that is, the six topics for recollection.
+They are in order to purify sentient beings, to get past sorrow and
+crying, to make an end of pain and sadness, to discover the system, and
+to realize extinguishment. What six?
+
+Firstly, a noble disciple recollects the Realized One: 'That Blessed One
+is perfected, a fully awakened Buddha, accomplished in knowledge and
+conduct, holy, knower of the world, supreme guide for those who wish to
+train, teacher of gods and humans, awakened, blessed.' When a noble
+disciple recollects the Realized One their mind is not full of greed,
+hate, and delusion. At that time their mind is unswerving. They've left
+behind greed; they're free of it and have risen above it. 'Greed' is a
+term for the five kinds of sensual stimulation. That noble disciple
+meditates with a heart just like space, abundant, expansive, limitless,
+free of enmity and ill will. Relying on this, some sentient beings
+become pure in this way.
+
+Furthermore, a noble disciple recollects the teaching: 'The teaching is
+well explained by the Buddha---apparent in the present life, immediately
+effective, inviting inspection, relevant, so that sensible people can
+know it for themselves.' When a noble disciple recollects the teaching
+their mind is not full of greed, hate, and delusion. ...
+
+Furthermore, a noble disciple recollects the [Saṅgha]{lang="sa"}: 'The
+[Saṅgha]{lang="sa"} of the Buddha's disciples is practicing the way
+that's good, direct, systematic, and proper. It consists of the four
+pairs, the eight individuals. This is the [Saṅgha]{lang="sa"} of the
+Buddha's disciples that is worthy of offerings dedicated to the gods,
+worthy of hospitality, worthy of a religious donation, worthy of
+greeting with joined palms, and is the supreme field of merit for the
+world.' When a noble disciple recollects the [Saṅgha]{lang="sa"} their
+mind is not full of greed, hate, and delusion. ...
+
+Furthermore, a noble disciple recollects their own ethical precepts,
+which are intact, impeccable, spotless, and unmarred, liberating,
+praised by sensible people, not mistaken, and leading to immersion. When
+a noble disciple recollects their ethical precepts their mind is not
+full of greed, hate, and delusion. ...
+
+Furthermore, a noble disciple recollects their own generosity: 'I'm so
+fortunate, so very fortunate! Among people full of the stain of
+stinginess I live at home rid of the stain of stinginess, freely
+generous, open-handed, loving to let go, committed to charity, loving to
+give and to share.' When a noble disciple recollects their own
+generosity their mind is not full of greed, hate, and delusion. ...
+
+Furthermore, a noble disciple recollects the deities: 'There are the
+gods of the four great kings, the gods of the thirty-three, the gods of
+Yama, the joyful gods, the gods who love to imagine, the gods who
+control what is imagined by others, the gods of the Divinity's host, and
+gods even higher than these. When those deities passed away from here,
+they were reborn there because of their faith, ethics, learning,
+generosity, and wisdom. I, too, have the same kind of faith, ethics,
+learning, generosity, and wisdom.' When a noble disciple recollects the
+faith, ethics, learning, generosity, and wisdom of both themselves and
+the deities their mind is not full of greed, hate, and delusion. At that
+time their mind is unswerving. They've left behind greed; they're free
+of it and have risen above it. 'Greed' is a term for the five kinds of
+sensual stimulation. That noble disciple meditates with a heart just
+like space, abundant, expansive, limitless, free of enmity and ill will.
+Relying on this, some sentient beings become pure in this way.
+
+It's incredible, reverends, it's amazing! How this Blessed One who knows
+and sees, the perfected one, the fully awakened Buddha, has found an
+opening amid confinement; that is, the six topics for recollection. They
+are in order to purify sentient beings, to get past sorrow and crying,
+to make an end of pain and sadness, to discover the system, and to
+realize extinguishment."
+
+### N 6.27 Proper Occasions (1st)  *Paṭhamasamayasutta* {#n-6.27-proper-occasions-1st-paṭhamasamayasutta .unnumbered}
+
+Then a mendicant went up to the Buddha, bowed, sat down to one side, and
+said to him:
+
+"Sir, how many occasions are there for going to see an esteemed
+mendicant?"
+
+"Mendicant, there are six occasions for going to see an esteemed
+mendicant. What six?
+
+Firstly, there's a time when a mendicant's heart is overcome and mired
+in sensual desire, and they don't truly understand the escape from
+sensual desire that has arisen. On that occasion they should go to an
+esteemed mendicant and say: 'My heart is overcome and mired in sensual
+desire, and I don't truly understand the escape from sensual desire that
+has arisen. Venerable, please teach me how to give up sensual desire.'
+Then that esteemed mendicant teaches them how to give up sensual desire.
+This is the first occasion for going to see an esteemed mendicant.
+
+Furthermore, there's a time when a mendicant's heart is overcome and
+mired in ill will ... This is the second occasion for going to see an
+esteemed mendicant.
+
+Furthermore, there's a time when a mendicant's heart is overcome and
+mired in dullness and drowsiness ... This is the third occasion for
+going to see an esteemed mendicant.
+
+Furthermore, there's a time when a mendicant's heart is overcome and
+mired in restlessness and remorse ... This is the fourth occasion for
+going to see an esteemed mendicant.
+
+Furthermore, there's a time when a mendicant's heart is overcome and
+mired in doubt ... This is the fifth occasion for going to see an
+esteemed mendicant.
+
+Furthermore, there's a time when a mendicant doesn't understand what
+kind of meditation they need to focus on in order to end the defilements
+in the present life. On that occasion they should go to an esteemed
+mendicant and say: 'I don't understand what kind of meditation to focus
+on in order to end the defilements in the present life. Venerable,
+please teach me how to end the defilements.' Then that esteemed
+mendicant teaches them how to end the defilements. This is the sixth
+occasion for going to see an esteemed mendicant.
+
+These are the six occasions for going to see an esteemed mendicant."
+
+### N 6.28 Proper Occasions (2nd)  *Dutiyasamayasutta* {#n-6.28-proper-occasions-2nd-dutiyasamayasutta .unnumbered}
+
+At one time several senior mendicants were staying near Varanasi, in the
+deer park at Isipatana. Then after the meal, on their return from
+almsround, this discussion came up among them while sitting together in
+the pavilion.
+
+"Reverends, how many occasions are there for going to see an esteemed
+mendicant?"
+
+When this was said, one of the mendicants said to the senior mendicants:
+
+"Reverends, there's a time after an esteemed mendicant's meal when they
+return from almsround. Having washed their feet they sit down
+cross-legged, set their body straight, and establish mindfulness in
+their presence. That is the proper occasion for going to see an esteemed
+mendicant."
+
+When this was said, one of the mendicants said to that mendicant:
+
+"Reverend, that's not the proper occasion for going to see an esteemed
+mendicant. For at that time the fatigue from walking and from eating has
+not faded away. There's a time late in the afternoon when an esteemed
+mendicant comes out of retreat. They sit cross-legged in the shade of
+their porch , set their body straight, and establish mindfulness in
+their presence. That is the proper occasion for going to see an esteemed
+mendicant."
+
+When this was said, one of the mendicants said to that mendicant:
+
+"Reverend, that's not the proper occasion for going to see an esteemed
+mendicant. For at that time they are still practicing the same
+meditation subject as a basis of immersion that they focused on during
+the day. There's a time when an esteemed mendicant has risen at the
+crack of dawn. They sit down cross-legged, set their body straight, and
+establish mindfulness in their presence. That is the proper occasion for
+going to see an esteemed mendicant."
+
+When this was said, one of the mendicants said to that mendicant:
+
+"Reverend, that's not the proper occasion for going to see an esteemed
+mendicant. For at that time their body is full of vitality and they find
+it easy to focus on the instructions of the Buddhas."
+
+When this was said, Venerable [Mahākaccāna]{lang="sa"} said to those
+senior mendicants:
+
+"Reverends, I have heard and learned this in the presence of the Buddha:
+'Mendicants, there are six occasions for going to see an esteemed
+mendicant.
+
+What six? Firstly, there's a time when a mendicant's heart is overcome
+and mired in sensual desire, and they don't truly understand the escape
+from sensual desire that has arisen. On that occasion they should go to
+an esteemed mendicant and say:
+
+"My heart is overcome and mired in sensual desire, and I don't truly
+understand the escape from sensual desire that has arisen. Venerable,
+please teach me how to give up sensual desire." Then that esteemed
+mendicant teaches them how to give up sensual desire. This is the first
+occasion for going to see an esteemed mendicant.
+
+Furthermore, there's a time when a mendicant's heart is overcome and
+mired in ill will ... dullness and drowsiness ... restlessness and
+remorse ... doubt ...
+
+Furthermore, there's a time when a mendicant doesn't understand what
+kind of meditation they need to focus on in order to end the defilements
+in the present life. On that occasion they should go to an esteemed
+mendicant and say, "I don't understand what kind of meditation to focus
+on in order to end the defilements in the present life. Venerable,
+please teach me how to end the defilements." Then that esteemed
+mendicant teaches them how to end the defilements. This is the sixth
+occasion for going to see an esteemed mendicant.'
+
+Reverends, I have heard and learned this in the presence of the Buddha:
+'These are the six occasions for going to see an esteemed mendicant.'"
+
+### N 6.29 With Udāyī  *Udāyīsutta* {#n-6.29-with-udāyī-udāyīsutta .unnumbered}
+
+Then the Buddha said to [Udāyī]{lang="sa"}, "[Udāyī]{lang="sa"}, how
+many topics for recollection are there?"
+
+When he said this, [Udāyī]{lang="sa"} kept silent.
+
+And a second time ... and a third time, the Buddha said to him,
+"[Udāyī]{lang="sa"}, how many topics for recollection are there?"
+
+And a second time and a third time [Udāyī]{lang="sa"} kept silent.
+
+Then Venerable Ānanda said to Venerable [Udāyī]{lang="sa"}, "Reverend
+[Udāyī]{lang="sa"}, the teacher is addressing you."
+
+"Reverend Ānanda, I hear the Buddha.
+
+It's when a mendicant recollects many kinds of past lives. That is: one,
+two, three, four, five, ten, twenty, thirty, forty, fifty, a hundred, a
+thousand, a hundred thousand rebirths; many eons of the world
+contracting, many eons of the world expanding, many eons of the world
+contracting and expanding. They remember: 'There, I was named this, my
+clan was that, I looked like this, and that was my food. This was how I
+felt pleasure and pain, and that was how my life ended. When I passed
+away from that place I was reborn somewhere else. There, too, I was
+named this, my clan was that, I looked like this, and that was my food.
+This was how I felt pleasure and pain, and that was how my life ended.
+When I passed away from that place I was reborn here.' And so they
+recollect their many kinds of past lives, with features and details.
+This is a topic for recollection."
+
+Then the Buddha said to Venerable Ānanda: "Ānanda, I know that this
+futile man [Udāyī]{lang="sa"} is not committed to the higher mind.
+Ānanda, how many topics for recollection are there?"
+
+"Sir, there are five topics for recollection. What five?
+
+Firstly, a mendicant, quite secluded from sensual pleasures, secluded
+from unskillful qualities, enters and remains in the first absorption
+... second absorption ... third absorption. When this topic of
+recollection is developed and cultivated in this way it leads to
+blissful meditation in this very life.
+
+Furthermore, a mendicant focuses on the perception of light, focusing on
+the perception of day regardless of whether it's night or day. And so,
+with an open and unenveloped heart, they develop a mind that's full of
+radiance. When this topic of recollection is developed and cultivated in
+this way it leads to knowledge and vision.
+
+Furthermore, a mendicant examines their own body up from the soles of
+the feet and down from the tips of the hairs, wrapped in skin and full
+of many kinds of filth. 'In this body there is head hair, body hair,
+nails, teeth, skin, flesh, sinews, bones, bone marrow, kidneys, heart,
+liver, diaphragm, spleen, lungs, intestines, mesentery, undigested food,
+feces, bile, phlegm, pus, blood, sweat, fat, tears, grease, saliva,
+snot, synovial fluid, urine.' When this topic of recollection is
+developed and cultivated in this way it leads to giving up sensual
+desire.
+
+Furthermore, suppose a mendicant were to see a corpse thrown in a
+charnel ground. And it had been dead for one, two, or three days,
+bloated, livid, and festering. They'd compare it with their own body:
+'This body is also of that same nature, that same kind, and cannot go
+beyond that.'
+
+Or suppose they were to see a corpse thrown in a charnel ground being
+devoured by crows, hawks, vultures, dogs, jackals, and many kinds of
+little creatures. They'd compare it with their own body: 'This body is
+also of that same nature, that same kind, and cannot go beyond that.'
+
+Furthermore, suppose they were to see a corpse thrown in a charnel
+ground, a skeleton with flesh and blood, held together by sinews ... A
+skeleton without flesh but smeared with blood, and held together by
+sinews ... A skeleton rid of flesh and blood, held together by sinews
+... Bones rid of sinews scattered in every direction. Here a hand-bone,
+there a foot-bone, here a shin-bone, there a thigh-bone, here a
+hip-bone, there a rib-bone, here a back-bone, there an arm-bone, here a
+neck-bone, there a jaw-bone, here a tooth, there the skull ... White
+bones, the color of shells ... Decrepit bones, heaped in a pile ...
+Bones rotted and crumbled to powder. They'd compare it with their own
+body: 'This body is also of that same nature, that same kind, and cannot
+go beyond that.' When this topic of recollection is developed and
+cultivated in this way it leads to uprooting the conceit 'I am'.
+
+Furthermore, a mendicant, giving up pleasure and pain, and ending former
+happiness and sadness, enters and remains in the fourth absorption,
+without pleasure or pain, with pure equanimity and mindfulness. When
+this topic of recollection is developed and cultivated in this way it
+leads to the penetration of many elements. These are the five topics for
+recollection."
+
+"Good, good, Ānanda. Well then, Ānanda, you should also remember this
+sixth topic for recollection. In this case, a mendicant goes out
+mindfully, returns mindfully, stands mindfully, sits mindfully, lies
+down mindfully, and focuses on work mindfully. When this topic of
+recollection is developed and cultivated in this way it leads to
+mindfulness and situational awareness."
+
+### N 6.30 Unsurpassable  *Anuttariyasutta* {#n-6.30-unsurpassable-anuttariyasutta .unnumbered}
+
+"Mendicants, these six things are unsurpassable. What six? The
+unsurpassable seeing, listening, acquisition, training, service, and
+recollection.
+
+And what is the unsurpassable seeing? Some people go to see an
+elephant-treasure, a horse-treasure, a jewel-treasure, or a diverse
+spectrum of sights; or ascetics and brahmins of wrong view and wrong
+practice. There is such a seeing, I don't deny it. That seeing is low,
+crude, ordinary, ignoble, and pointless. It doesn't lead to
+disillusionment, dispassion, cessation, peace, insight, awakening, and
+extinguishment. The unsurpassable seeing is when someone with settled
+faith and love, sure and devoted, goes to see a Realized One or their
+disciple. This is in order to purify sentient beings, to get past sorrow
+and crying, to make an end of pain and sadness, to discover the system,
+and to realize extinguishment. This is called the unsurpassable seeing.
+Such is the unsurpassable seeing.
+
+But what of the unsurpassable hearing? Some people go to hear the sound
+of drums, arched harps, singing, or a diverse spectrum of sounds; or
+ascetics and brahmins of wrong view and wrong practice. There is such a
+hearing, I don't deny it. That hearing ... doesn't lead to
+extinguishment. The unsurpassable hearing is when someone with settled
+faith and love, sure and devoted, goes to hear the teaching of a
+Realized One or one of his disciples. ... This is called the
+unsurpassable hearing. Such is the unsurpassable seeing and hearing.
+
+But what of the unsurpassable acquisition? Some people acquire a child,
+a wife, wealth, or a diverse spectrum of things; or they acquire faith
+in an ascetic or brahmin of wrong view and wrong practice. There is such
+an acquisition, I don't deny it. That acquisition ... doesn't lead to
+extinguishment. The unsurpassable acquisition is when someone with
+settled faith and love, sure and devoted, acquires faith in a Realized
+One or their disciple. ... This is called the unsurpassable acquisition.
+Such is the unsurpassable seeing, hearing, and acquisition.
+
+But what of the unsurpassable training? Some people train in elephant
+riding, horse riding, chariot driving, archery, swordsmanship, or a
+diverse spectrum of things; or they train under an ascetic or brahmin of
+wrong view and wrong practice. There is such a training, I don't deny
+it. That training ... doesn't lead to extinguishment. The unsurpassable
+training is when someone with settled faith and love, sure and devoted,
+trains in the higher ethics, the higher mind, and the higher wisdom in
+the teaching and training proclaimed by a Realized One. ... This is
+called the unsurpassable training. Such is the unsurpassable seeing,
+hearing, acquisition, and training.
+
+But what of the unsurpassable service? Some people serve an aristocrat,
+a brahmin, a householder, or a diverse spectrum of people; or they serve
+ascetics and brahmins of wrong view and wrong practice. There is such
+service, I don't deny it. That service ... doesn't lead to
+extinguishment. The unsurpassable service is when someone with settled
+faith and love, sure and devoted, serves a Realized One or their
+disciple. ... This is called the unsurpassable service. Such is the
+unsurpassable seeing, listening, acquisition, training, and service.
+
+But what of the unsurpassable recollection? Some people recollect a
+child, a wife, wealth, or a diverse spectrum of things; or they
+recollect an ascetic or brahmin of wrong view and wrong practice. There
+is such recollection, I don't deny it. That recollection is low, crude,
+ordinary, ignoble, and pointless. It doesn't lead to disillusionment,
+dispassion, cessation, peace, insight, awakening, and extinguishment.
+The unsurpassable recollection is when someone with settled faith and
+love, sure and devoted, recollects a Realized One or their disciple. ...
+This is called the unsurpassable recollection.
+
+These are the six unsurpassable things.
+
+> They've gained the unsurpassed seeing,\
+> the unsurpassed hearing,\
+> and the unsurpassable acquisition.\
+> They enjoy the unsurpassable training
+>
+> and serve with care.\
+> Then they develop recollection\
+> connected with seclusion,\
+> which is safe, and leads to freedom from death.
+>
+> They rejoice in diligence,\
+> alert and ethically restrained.\
+> And in time they arrive\
+> at the place where suffering ceases."
+
+## The Chapter on Deities  {#the-chapter-on-deities .unnumbered}
+
+### N 6.31 A Trainee  *Sekhasutta* {#n-6.31-a-trainee-sekhasutta .unnumbered}
+
+"These six things lead to the decline of a mendicant trainee. What six?
+They relish work, talk, sleep, and company. They don't guard the sense
+doors, and they eat too much. These six things lead to the decline of a
+mendicant trainee.
+
+These six things don't lead to the decline of a mendicant trainee. What
+six? They don't relish work, talk, sleep, and company. They guard the
+sense doors, and they don't eat too much. These six things don't lead to
+the decline of a mendicant trainee."
+
+### N 6.32 Non-decline (1st)  *Paṭhamaaparihānasutta* {#n-6.32-non-decline-1st-paṭhamaaparihānasutta .unnumbered}
+
+Then, late at night, a glorious deity, lighting up the entire Jeta's
+Grove, went up to the Buddha, bowed, stood to one side, and said to him:
+
+"Sir, these six things don't lead to the decline of a mendicant. What
+six? Respect for the Teacher, for the teaching, for the
+[Saṅgha]{lang="sa"}, for the training, for diligence, and for
+hospitality. These six things don't lead to the decline of a mendicant."
+
+That's what that deity said, and the teacher approved. Then that deity,
+knowing that the teacher approved, bowed, and respectfully circled the
+Buddha, keeping him on his right, before vanishing right there.
+
+Then, when the night had passed, the Buddha told the mendicants all that
+had happened, adding:
+
+> "Respect for the Teacher and the teaching,\
+> and keen respect for the [Saṅgha]{lang="sa"};\
+> a mendicant who respects diligence\
+> and hospitality\
+> can't decline,\
+> and has drawn near to extinguishment."
+
+### N 6.33 Non-decline (2nd)  *Dutiyaaparihānasutta* {#n-6.33-non-decline-2nd-dutiyaaparihānasutta .unnumbered}
+
+"Tonight, a glorious deity, lighting up the entire Jeta's Grove, came to
+me, bowed, stood to one side, and said to me: 'Sir, these six things
+don't lead to the decline of a mendicant. What six? Respect for the
+Teacher, for the teaching, for the [Saṅgha]{lang="sa"}, for the
+training, for conscience, and for prudence. These six things don't lead
+to the decline of a mendicant.'
+
+That is what that deity said. Then he bowed and respectfully circled me,
+keeping me on his right side, before vanishing right there.
+
+> One respectful of the Teacher and the teaching,\
+> keenly respecting the [Saṅgha]{lang="sa"};\
+> endowed with conscience and prudence,\
+> reverential and respectful---\
+> it is impossible for them to decline;\
+> they have drawn near to extinguishment."
+
+### N 6.34 With Mahāmoggallāna  *Mahāmoggallānasutta* {#n-6.34-with-mahāmoggallāna-mahāmoggallānasutta .unnumbered}
+
+At one time the Buddha was staying near [Sāvatthī]{lang="sa"} in Jeta's
+Grove, [Anāthapiṇḍika]{lang="sa"}'s monastery.
+
+Then as Venerable [Mahāmoggallāna]{lang="sa"} was in private retreat
+this thought came to his mind, "Which gods know that they are
+stream-enterers, not liable to be reborn in the underworld, bound for
+awakening?"
+
+Now, at that time a monk called Tissa had recently passed away and been
+reborn in a realm of divinity. There they knew that The divinity Tissa
+was very mighty and powerful.
+
+And then Venerable [Mahāmoggallāna]{lang="sa"}, as easily as a strong
+person would extend or contract their arm, vanished from Jeta's Grove
+and reappeared in that realm of divinity.
+
+Tissa saw [Moggallāna]{lang="sa"} coming off in the distance, and said
+to him, "Come, my good [Moggallāna]{lang="sa"}! Welcome, my good
+[Moggallāna]{lang="sa"}! It's been a long time since you took the
+opportunity to come here. Sit, my good [Moggallāna]{lang="sa"}, this
+seat is for you." [Moggallāna]{lang="sa"} sat down on the seat spread
+out. Then Tissa bowed to [Moggallāna]{lang="sa"} and sat to one side.
+
+[Moggallāna]{lang="sa"} said to him, "Tissa, which gods know that they
+are stream-enterers, not liable to be reborn in the underworld, bound
+for awakening?"
+
+"The gods of the four great kings know this."
+
+"But do all of them know this?"
+
+"No, my good [Moggallāna]{lang="sa"}, not all of them. Those who lack
+experiential confidence in the Buddha, the teaching, and the
+[Saṅgha]{lang="sa"}, and lack the ethics loved by the noble ones, do not
+know that they are stream-enterers. But those who have experiential
+confidence in the Buddha, the teaching, and the [Saṅgha]{lang="sa"}, and
+have the ethics loved by the noble ones, do know that they are
+stream-enterers."
+
+"But Tissa, is it only the gods of the four great kings who know that
+they are stream-enterers, or do the gods of the thirty-three ... the
+gods of Yama ... the joyful gods ... the gods who love to imagine ...
+and the gods who control what is imagined by others know that they are
+stream-enterers, not liable to be reborn in the underworld, bound for
+awakening?"
+
+"The gods of these various classes know this."
+
+"But do all of them know this?"
+
+"No, my good [Moggallāna]{lang="sa"}, not all of them. Those who lack
+experiential confidence in the Buddha, the teaching, and the
+[Saṅgha]{lang="sa"}, and lack the ethics loved by the noble ones, do not
+know that they are stream-enterers. But those who have experiential
+confidence in the Buddha, the teaching, and the [Saṅgha]{lang="sa"}, and
+have the ethics loved by the noble ones, do know that they are
+stream-enterers."
+
+[Moggallāna]{lang="sa"} approved and agreed with what the divinity Tissa
+said. Then, as easily as a strong person would extend or contract their
+arm, he vanished from that realm of divinity and reappeared in Jeta's
+Grove.
+
+### N 6.35 Things That Play a Part in Realization  *Vijjābhāgiyasutta* {#n-6.35-things-that-play-a-part-in-realization-vijjābhāgiyasutta .unnumbered}
+
+"These six things play a part in realization. What six? The perception
+of impermanence, the perception of suffering in impermanence, the
+perception of not-self in suffering, the perception of giving up, the
+perception of fading away, and the perception of cessation. These are
+the six things that play a part in realization."
+
+### N 6.36 Roots of Arguments  *Vivādamūlasutta* {#n-6.36-roots-of-arguments-vivādamūlasutta .unnumbered}
+
+"Mendicants, there are these six roots of arguments. What six? Firstly,
+a mendicant is irritable and acrimonious. Such a mendicant lacks respect
+and reverence for the Teacher, the teaching, and the
+[Saṅgha]{lang="sa"}, and they don't fulfill the training. They create a
+dispute in the [Saṅgha]{lang="sa"}, which is for the detriment and
+suffering of the people, against the people, for the harm, detriment,
+and suffering of gods and humans. If you see such a root of arguments in
+yourselves or others, you should try to give up this bad thing. If you
+don't see it, you should practice so that it doesn't come up in the
+future. That's how to give up this bad root of arguments, so it doesn't
+come up in the future.
+
+Furthermore, a mendicant is offensive and contemptuous ... They're
+jealous and stingy ... devious and deceitful ... with corrupt wishes and
+wrong view ... They're attached to their own views, holding them tight,
+and refusing to let go. Such a mendicant lacks respect and reverence for
+the Teacher, the teaching, and the [Saṅgha]{lang="sa"}, and they don't
+fulfill the training. They create a dispute in the [Saṅgha]{lang="sa"},
+which is for the detriment and unhappiness of the people, against the
+people, for the harm, detriment, and suffering of gods and humans. If
+you see such a root of arguments in yourselves or others, you should try
+to give up this bad thing. If you don't see it, you should practice so
+that it doesn't come up in the future. That's how to give up this bad
+root of arguments, so it doesn't come up in the future. These are the
+six roots of arguments."
+
+### N 6.37 A Gift With Six Factors  *Chaḷaṅgadānasutta* {#n-6.37-a-gift-with-six-factors-chaḷaṅgadānasutta .unnumbered}
+
+At one time the Buddha was staying near [Sāvatthī]{lang="sa"} in Jeta's
+Grove, [Anāthapiṇḍika]{lang="sa"}'s monastery.
+
+Now at that time [Veḷukaṇṭakī]{lang="sa"}, Nanda's mother, was preparing
+a religious donation with six factors for the mendicant
+[Saṅgha]{lang="sa"} headed by [Sāriputta]{lang="sa"} and
+[Moggallāna]{lang="sa"}. The Buddha saw her doing this, with his
+clairvoyance that is purified and superhuman, and he addressed the
+mendicants:
+
+"This [Veḷukaṇṭakī]{lang="sa"}, Nanda's mother, is preparing a religious
+donation with six factors for the mendicant [Saṅgha]{lang="sa"} headed
+by [Sāriputta]{lang="sa"} and [Moggallāna]{lang="sa"}.
+
+And how does a religious donation have six factors? Three factors apply
+to the donor and three to the recipients.
+
+What three factors apply to the donor? It's when a donor is in a good
+mood before giving, while giving they feel confident, and after giving
+they're uplifted. These three factors apply to the donor.
+
+What three factors apply to the recipients? It's when the recipients are
+free of greed, hate, and delusion, or practicing to be free of them.
+These three factors apply to the recipients.
+
+Thus three factors apply to the donor and three to the recipients.
+That's how a religious donation has six factors.
+
+It's not easy to grasp the merit of such a six-factored donation by
+saying that this is the extent of their overflowing merit, overflowing
+goodness that nurtures happiness and is conducive to heaven, ripening in
+happiness and leading to heaven. And it leads to what is likable,
+desirable, agreeable, to welfare and happiness. It's simply reckoned as
+an incalculable, immeasurable, great mass of merit.
+
+It's like trying to grasp how much water is in the ocean. It's not easy
+to say how many gallons, how many hundreds, thousands, hundreds of
+thousands of gallons there are. It's simply reckoned as an incalculable,
+immeasurable, great mass of water. In the same way, it's not easy to
+grasp the merit of such a six-factored donation ...
+
+> A good mood before giving,\
+> confidence while giving,\
+> feeling uplifted after giving:\
+> this is the perfect sacrifice.
+>
+> Free of greed, free of hate,\
+> free of delusion, undefiled;\
+> this is the field for the perfect sacrifice,\
+> the disciplined spiritual practitioners.
+>
+> After rinsing,\
+> you give with your own hands.\
+> This sacrifice is very fruitful\
+> for both yourself and others.
+>
+> When an intelligent, faithful person,\
+> sacrifices like this, with a mind of letting go,\
+> that astute one is reborn\
+> in a happy, pleasing world."
+
+### N 6.38 One's Own Volition  *Attakārīsutta* {#n-6.38-ones-own-volition-attakārīsutta .unnumbered}
+
+Then a certain brahmin went up to the Buddha, and exchanged greetings
+with him. When the greetings and polite conversation were over, he sat
+down to one side and said to the Buddha:
+
+"Mister Gotama, this is my doctrine and view: One does not act of one's
+own volition, nor does one act of another's volition."
+
+"Brahmin, may I never see or hear of anyone holding such a doctrine or
+view! How on earth can someone who comes and goes on his own say that
+one does not act of one's own volition, nor does one act of another's
+volition?
+
+What do you think, brahmin, is there an element of initiative?"
+
+"Yes, sir."
+
+"Since this is so, do we find sentient beings who initiate activity?"
+
+"Yes, sir."
+
+"Since there is an element of initiative, and sentient beings who
+initiate activity are found, sentient beings act of their own volition
+or that of another.
+
+What do you think, brahmin, is there an element of persistence ...
+exertion ... strength ... endurance ... energy?"
+
+"Yes, sir."
+
+"Since this is so, do we find sentient beings who have energy?"
+
+"Yes, sir."
+
+"Since there is an element of energy, and sentient beings who have
+energy are found, sentient beings act of their own volition or that of
+another.
+
+Brahmin, may I never see or hear of anyone holding such a doctrine or
+view! How on earth can someone who comes and goes on his own say that
+one does not act of one's own volition, nor does one act of another's
+volition?"
+
+"Excellent, Mister Gotama! Excellent! ... From this day forth, may
+Mister Gotama remember me as a lay follower who has gone for refuge for
+life."
+
+### N 6.39 Sources  *Nidānasutta* {#n-6.39-sources-nidānasutta .unnumbered}
+
+"Mendicants, there are these three sources that give rise to deeds. What
+three? Greed, hate, and delusion are sources that give rise to deeds.
+Greed doesn't give rise to contentment. Rather, greed just gives rise to
+greed. Hate doesn't give rise to love. Rather, hate just gives rise to
+hate. Delusion doesn't give rise to understanding. Rather, delusion just
+gives rise to delusion. It's not because of deeds born of greed, hate,
+and delusion that gods, humans, or those in any other good places are
+found. Rather, it's because of deeds born of greed, hate, and delusion
+that hell, the animal realm, the ghost realm, or any other bad places
+are found. These are three sources that give rise to deeds.
+
+Mendicants, there are these three sources that give rise to deeds. What
+three? Contentment, love, and understanding are sources that give rise
+to deeds. Contentment doesn't give rise to greed. Rather, contentment
+just gives rise to contentment. Love doesn't give rise to hate. Rather,
+love just gives rise to love. Understanding doesn't give rise to
+delusion. Rather, understanding just gives rise to understanding. It's
+not because of deeds born of contentment, love, and understanding that
+hell, the animal realm, the ghost realm, or any other bad places are
+found. Rather, it's because of deeds born of contentment, love, and
+understanding that gods, humans, or those in any other good places are
+found. These are three sources that give rise to deeds."
+
+### N 6.40 With Kimbila  *Kimilasutta* {#n-6.40-with-kimbila-kimilasutta .unnumbered}
+
+[So I have heard.]{.smallcaps} At one time the Buddha was staying near
+[Kimbilā]{lang="sa"} in the Freshwater Mangrove Wood. Then Venerable
+Kimbila went up to the Buddha, bowed, sat down to one side, and said to
+him:
+
+"What is the cause, sir, what is the reason why the true teaching does
+not last long after the final quenching of the Realized One?"
+
+"Kimbila, it's when the monks, nuns, laymen, and laywomen lack respect
+and reverence for the Teacher, the teaching, the [Saṅgha]{lang="sa"},
+the training, diligence, and hospitality after the final quenching of
+the Realized One. This is the cause, this is the reason why the true
+teaching does not last long after the final quenching of the Realized
+One."
+
+"What is the cause, sir, what is the reason why the true teaching does
+last long after the final quenching of the Realized One?"
+
+"Kimbila, it's when the monks, nuns, laymen, and laywomen maintain
+respect and reverence for the Teacher, the teaching, the
+[Saṅgha]{lang="sa"}, the training, diligence, and hospitality after the
+final quenching of the Realized One. This is the cause, this is the
+reason why the true teaching does last long after the final quenching of
+the Realized One."
+
+### N 6.41 A Tree Trunk  *Dārukkhandhasutta* {#n-6.41-a-tree-trunk-dārukkhandhasutta .unnumbered}
+
+[So I have heard.]{.smallcaps} At one time Venerable
+[Sāriputta]{lang="sa"} was staying near [Rājagaha]{lang="sa"}, on the
+Vulture's Peak Mountain.
+
+Then Venerable [Sāriputta]{lang="sa"} robed up in the morning and,
+taking his bowl and robe, descended the Vulture's Peak together with
+several mendicants. At a certain spot he saw a large tree trunk, and he
+addressed the mendicants, "Reverends, do you see this large tree trunk?"
+
+"Yes, reverend."
+
+"If they wanted to, a mendicant with psychic powers who has mastered
+their mind could determine this tree trunk to be nothing but earth. Why
+is that? Because the earth element exists in the tree trunk. Relying on
+that a mendicant with psychic powers could determine it to be nothing
+but earth. If they wanted to, a mendicant with psychic powers who has
+mastered their mind could determine this tree trunk to be nothing but
+water. ... Or they could determine it to be nothing but fire ... Or they
+could determine it to be nothing but air ... Or they could determine it
+to be nothing but beautiful ... Or they could determine it to be nothing
+but ugly. Why is that? Because the element of ugliness exists in the
+tree trunk. Relying on that a mendicant with psychic powers could
+determine it to be nothing but ugly."
+
+### N 6.42 With Nāgita  *Nāgitasutta* {#n-6.42-with-nāgita-nāgitasutta .unnumbered}
+
+[So I have heard.]{.smallcaps} At one time the Buddha was wandering in
+the land of the Kosalans together with a large [Saṅgha]{lang="sa"} of
+mendicants when he arrived at a village of the Kosalan brahmins named
+[Icchānaṅgala]{lang="sa"}. He stayed in a forest near
+[Icchānaṅgala]{lang="sa"}. The brahmins and householders of
+[Icchānaṅgala]{lang="sa"} heard:
+
+"It seems the ascetic Gotama---a Sakyan, gone forth from a Sakyan
+family---has arrived at [Icchānaṅgala]{lang="sa"}. He is staying in a
+forest near [Icchānaṅgala]{lang="sa"}. He has this good reputation:
+'That Blessed One is perfected, a fully awakened Buddha, accomplished in
+knowledge and conduct, holy, knower of the world, supreme guide for
+those who wish to train, teacher of gods and humans, awakened, blessed.'
+He has realized with his own insight this world---with its gods,
+[Māras]{lang="sa"}, and divinities, this population with its ascetics
+and brahmins, gods and humans---and he makes it known to others. He
+proclaims a teaching that is good in the beginning, good in the middle,
+and good in the end, meaningful and well-phrased; and he explains a
+spiritual practice that's entirely full and pure. It's good to see such
+perfected ones." Then, when the night had passed, they took many fresh
+and cooked foods and went to the forest near [Icchānaṅgala]{lang="sa"},
+where they stood outside the gates making a dreadful racket.
+
+Now, at that time Venerable [Nāgita]{lang="sa"} was the Buddha's
+attendant. Then the Buddha said to [Nāgita]{lang="sa"},
+"[Nāgita]{lang="sa"}, who's making that dreadful racket? You'd think it
+was fishermen hauling in a catch!"
+
+"Sir, it's these brahmins and householders of [Icchānaṅgala]{lang="sa"}.
+They've brought many fresh and cooked foods, and they're standing
+outside the gates wanting to offer it specially to the Buddha and the
+mendicant [Saṅgha]{lang="sa"}."
+
+"[Nāgita]{lang="sa"}, may I never become famous. May fame not come to
+me. There are those who can't get the pleasure of renunciation, the
+pleasure of seclusion, the pleasure of peace, the pleasure of awakening
+when they want, without trouble or difficulty like I can. Let them enjoy
+the filthy, lazy pleasure of possessions, honor, and popularity."
+
+"Sir, may the Blessed One please relent now! May the Holy One relent!
+Now is the time for the Buddha to relent. Wherever the Buddha now goes,
+the brahmins and householders, and people of town and country will
+incline the same way. It's like when the heavens rain heavily and the
+water flows downhill. In the same way, wherever the Buddha now goes, the
+brahmins and householders, and people of town and country will incline
+the same way. Why is that? Because of the Buddha's ethics and wisdom."
+
+"[Nāgita]{lang="sa"}, may I never become famous. May fame not come to
+me. There are those who can't get the pleasure of renunciation, the
+pleasure of seclusion, the pleasure of peace, the pleasure of awakening
+when they want, without trouble or difficulty like I can. Let them enjoy
+the filthy, lazy pleasure of possessions, honor, and popularity.
+
+Take a mendicant living within a village who I see sitting immersed in
+[samādhi]{lang="sa"}. I think to myself: 'Now a monastery worker, a
+novice, or a fellow practitioner will make this venerable fall from
+immersion.' So I'm not pleased that that mendicant is living within a
+village.
+
+Take a mendicant in the wilderness who I see sitting nodding in
+meditation. I think to myself: 'Now this venerable, having dispelled
+that sleepiness and weariness, will focus just on the unified perception
+of wilderness.' So I'm pleased that that mendicant is living in the
+wilderness.
+
+Take a mendicant in the wilderness who I see sitting without being
+immersed in [samādhi]{lang="sa"}. I think to myself: 'Now if this
+venerable's mind is not immersed in [samādhi]{lang="sa"} they will
+immerse it, or if it is immersed in [samādhi]{lang="sa"}, they will
+preserve it.' So I'm pleased that that mendicant is living in the
+wilderness.
+
+Take a mendicant in the wilderness who I see sitting immersed in
+[samādhi]{lang="sa"}. I think to myself: 'Now this venerable will free
+the unfreed mind or preserve the freed mind.' So I'm pleased that that
+mendicant is living in the wilderness.
+
+Take a mendicant who I see living within a village receiving robes,
+almsfood, lodgings, and medicines and supplies for the sick. Enjoying
+possessions, honor, and popularity they neglect retreat, and they
+neglect remote lodgings in the wilderness and the forest. They come down
+to villages, towns, and capital cities and make their home there. So I'm
+not pleased that that mendicant is living within a village.
+
+Take a mendicant who I see in the wilderness receiving robes, almsfood,
+lodgings, and medicines and supplies for the sick. Fending off
+possessions, honor, and popularity they don't neglect retreat, and they
+don't neglect remote lodgings in the wilderness and the forest. So I'm
+pleased that that mendicant is living in the wilderness.
+
+[Nāgita]{lang="sa"}, when I'm walking along a road and I don't see
+anyone ahead or behind I feel relaxed, even if I need to urinate or
+defecate."
+
+## The Chapter with Dhammika  {#the-chapter-with-dhammika .unnumbered}
+
+### N 6.43 The Giant  *Nāgasutta* {#n-6.43-the-giant-nāgasutta .unnumbered}
+
+At one time the Buddha was staying near [Sāvatthī]{lang="sa"} in Jeta's
+Grove, [Anāthapiṇḍika]{lang="sa"}'s monastery.
+
+Then the Buddha robed up in the morning and, taking his bowl and robe,
+entered [Sāvatthī]{lang="sa"} for alms. Then, after the meal, on his
+return from almsround, he addressed Venerable Ānanda, "Come, Ānanda,
+let's go to the stilt longhouse of [Migāra]{lang="sa"}'s mother in the
+Eastern Monastery for the day's meditation."
+
+"Yes, sir," Ānanda replied.
+
+So the Buddha went with Ānanda to the Eastern Monastery. In the late
+afternoon the Buddha came out of retreat and addressed Ānanda, "Come,
+Ānanda, let's go to the eastern gate to bathe."
+
+"Yes, sir," Ānanda replied. So the Buddha went with Ānanda to the
+eastern gate to bathe. When he had bathed and emerged from the water he
+stood in one robe drying his limbs.
+
+Now, at that time King Pasenadi had a giant bull elephant called
+"White". It emerged from the eastern gate to the beating and playing of
+musical instruments.
+
+When people saw it they said, "The royal giant is so handsome! The royal
+giant is so good-looking! The royal giant is so lovely! The royal giant
+has such a huge body!"
+
+When they said this, Venerable [Udāyī]{lang="sa"} said to the Buddha,
+"Sir, is it only when they see elephants with such a huge, formidable
+body that people say: 'A giant, such a giant'? Or do they say it when
+they see any other creatures with huge, formidable bodies?"
+
+"[Udāyī]{lang="sa"}, when they see elephants with such a huge,
+formidable body people say: 'A giant, such a giant!'
+
+And also when they see a horse with a huge, formidable body ...
+
+When they see a bull with a huge, formidable body ...
+
+When they see a serpent with a huge, formidable body ...
+
+When they see a tree with a huge, formidable body ...
+
+And when they see a human being with such a huge, formidable body people
+say: 'A giant, such a giant!'
+
+But [Udāyī]{lang="sa"}, one who does nothing monstrous by way of body,
+speech, and mind is who I call a 'giant' in this world with its gods,
+[Māras]{lang="sa"}, and Divinities, this population with its ascetics
+and brahmins, its gods and humans."
+
+"It's incredible, sir, it's amazing! How well said this was by the
+Buddha: 'But [Udāyī]{lang="sa"}, one who does nothing monstrous by way
+of body, speech, and mind is who I call a "giant" in this world with its
+gods, [Māras]{lang="sa"}, and Divinities, this population with its
+ascetics and brahmins, its gods and humans.' And I celebrate the
+well-spoken words of the Buddha with these verses:
+
+> Awakened as a human being,\
+> self-tamed and immersed in [samādhi]{lang="sa"},\
+> following the spiritual path,\
+> he loves peace of mind.
+>
+> Revered by people,\
+> gone beyond all things,\
+> even the gods revere him;\
+> so I've heard from the perfected one.
+>
+> He has transcended all fetters\
+> and escaped from entanglements.\
+> Delighting to renounce sensual pleasures,\
+> he's freed like lustrous gold from stone.
+>
+> That giant outshines all,\
+> like the Himalaya beside other mountains.\
+> Of all those named 'giant',\
+> he is truly named, supreme.
+>
+> I shall extol the giant for you,\
+> for he does nothing monstrous.\
+> Sweetness and harmlessness\
+> are two feet of the giant.
+>
+> Fervor and celibacy\
+> are his two other feet.\
+> Faith is the giant's trunk,\
+> and equanimity his white tusks.
+>
+> Mindfulness is his neck, his head is wisdom---\
+> inquiry and thinking about principles.\
+> His belly is the sacred hearth of the Dhamma,\
+> and his tail is seclusion.
+>
+> Practicing absorption, enjoying the breath,\
+> he is serene within.\
+> The giant is serene when walking,\
+> the giant is serene when standing,
+>
+> the giant is serene when lying down,\
+> and when sitting, the giant is serene.\
+> The giant is restrained everywhere:\
+> this is the accomplishment of the giant.
+>
+> He eats blameless things,\
+> he doesn't eat blameworthy things.\
+> When he gets food and clothes,\
+> he avoids storing them up.
+>
+> Having severed all bonds,\
+> fetters large and small,\
+> wherever he goes,\
+> he goes without concern.
+>
+> A white lotus,\
+> fragrant and delightful,\
+> sprouts in water and grows there,\
+> but water does not stick to it.
+>
+> Just so the Buddha is born in the world,\
+> and lives in the world,\
+> but the world does not stick to him,\
+> as water does not stick to the lotus.
+>
+> A great blazing fire\
+> dies down when the fuel runs out.\
+> When the coals have gone out\
+> it's said to be 'quenched'.
+>
+> This simile is taught by the discerning\
+> to express the meaning clearly.\
+> Great giants will understand\
+> what the giant taught the giant.
+>
+> Free of greed, free of hate,\
+> free of delusion, undefiled;\
+> the giant, giving up his body,\
+> being undefiled, will be fully quenched."
+
+### N 6.44 With Migasālā  *Migasālāsutta* {#n-6.44-with-migasālā-migasālāsutta .unnumbered}
+
+Then Venerable Ānanda robed up in the morning and, taking his bowl and
+robe, went to the home of the laywoman [Migasālā]{lang="sa"}, where he
+sat on the seat spread out.
+
+Then the laywoman [Migasālā]{lang="sa"} went up to Ānanda, bowed, sat
+down to one side, and said to him, "Honorable Ānanda, how on earth are
+we supposed to understand the teaching taught by the Buddha, when the
+chaste and the unchaste are both reborn in exactly the same place in the
+next life?
+
+My father [Purāṇa]{lang="sa"} was celibate, set apart, avoiding the
+vulgar act of sex. When he passed away the Buddha declared that, since
+he was a once-returner, he was reborn in the host of joyful gods.
+
+But my uncle Isidatta was not celibate; he lived content with his wife.
+When he passed away the Buddha declared that, since he was also a
+once-returner, he was reborn in the host of joyful gods.
+
+How on earth are we supposed to understand the teaching taught by the
+Buddha, when the chaste and the unchaste are both reborn in exactly the
+same place in the next life?"
+
+"You're right, sister, but that's how the Buddha declared it."
+
+Then Ānanda, after receiving almsfood at [Migasālā]{lang="sa"}'s home,
+rose from his seat and left. Then after the meal, on his return from
+almsround, Ānanda went to the Buddha, bowed, sat down to one side, and
+told him what had happened.
+
+"Ānanda, who is this laywoman [Migasālā]{lang="sa"}, a foolish
+incompetent aunty, with an aunty's wit? And who is it that knows how to
+assess individuals? These six people are found in the world. What six?
+
+Take a certain person who is sweet-natured and pleasant to be with. And
+spiritual companions enjoy living together with them. And they've not
+listened or learned or comprehended theoretically or found even
+temporary freedom. When their body breaks up, after death, they're
+headed for a lower place, not a higher. They're going to a lower place,
+not a higher.
+
+Take another person who is sweet-natured and pleasant to be with. And
+spiritual companions enjoy living together with them. And they've
+listened and learned and comprehended theoretically and found temporary
+freedom. When their body breaks up, after death, they're headed for a
+higher place, not a lower. They're going to a higher place, not a lower.
+
+Judgmental people compare them, saying: 'This one has just the same
+qualities as the other, so why is one worse and one better?' This will
+be for their lasting harm and suffering.
+
+In this case, the person who is sweet-natured ... and has listened,
+learned, comprehended theoretically, and found temporary freedom is
+better and finer than the other person. Why is that? Because the stream
+of the teaching carries them along. But who knows the difference between
+them except a Realized One?
+
+So, Ānanda, don't be judgmental about people. Don't pass judgment on
+people. Those who pass judgment on people harm themselves. I, or someone
+like me, may pass judgment on people.
+
+Take another person who is angry and conceited, and from time to time
+has greedy thoughts. And they've not listened or learned or comprehended
+theoretically or found even temporary freedom. When their body breaks
+up, after death, they're headed for a lower place, not a higher. They're
+going to a lower place, not a higher.
+
+Take another person who is angry and conceited, and from time to time
+has greedy thoughts. ... Because the stream of the teaching carries them
+along. ... When their body breaks up, after death, they're headed for a
+higher place, not a lower. They're going to a higher place, not a lower.
+
+Judgmental people compare them ...
+
+I, or someone like me, may pass judgment on people.
+
+Take another person who is angry and conceited, and from time to time
+has the impulse to speak inappropriately. And they've not listened or
+learned or comprehended theoretically or found even temporary freedom.
+When their body breaks up, after death, they're headed for a lower
+place, not a higher. They're going to a lower place, not a higher.
+
+Take another person who is angry and conceited, and from time to time
+has the impulse to speak inappropriately. But they've listened and
+learned and comprehended theoretically and found temporary freedom. When
+their body breaks up, after death, they're headed for a higher place,
+not a lower. They're going to a higher place, not a lower.
+
+Judgmental people compare them, saying: 'This one has just the same
+qualities as the other, so why is one worse and one better?' This will
+be for their lasting harm and suffering.
+
+In this case, the person who is angry and conceited, but has listened,
+learned, comprehended theoretically, and found temporary freedom is
+better and finer than the other person. Why is that? Because the stream
+of the teaching carries them along. But who knows the difference between
+them except a Realized One?
+
+So, Ānanda, don't be judgmental about people. Don't pass judgment on
+people. Those who pass judgment on people harm themselves. I, or someone
+like me, may pass judgment on people.
+
+Who is this laywoman [Migasālā]{lang="sa"}, a foolish incompetent aunty,
+with an aunty's wit? And who is it that knows how to assess individuals?
+These six people are found in the world.
+
+If Isidatta had achieved [Purāṇa]{lang="sa"}'s level of ethical conduct,
+[Purāṇa]{lang="sa"} could not have even known Isidatta's destination.
+And if [Purāṇa]{lang="sa"} had achieved Isidatta's level of wisdom,
+Isidatta could not have even known [Purāṇa]{lang="sa"}'s destination. So
+both individuals were lacking in one respect."
+
+### N 6.45 Debt  *Iṇasutta* {#n-6.45-debt-iṇasutta .unnumbered}
+
+"Mendicants, isn't poverty suffering in the world for a person who
+enjoys sensual pleasures?"
+
+"Yes, sir."
+
+"When a poor, penniless person falls into debt, isn't being in debt also
+suffering in the world for a person who enjoys sensual pleasures?"
+
+"Yes, sir."
+
+"When a poor person who has fallen into debt agrees to pay interest,
+isn't the interest also suffering in the world for a person who enjoys
+sensual pleasures?"
+
+"Yes, sir."
+
+"When a poor person who has fallen into debt and agreed to pay interest
+fails to pay it when it falls due, they get a warning. Isn't being
+warned suffering in the world for a person who enjoys sensual
+pleasures?"
+
+"Yes, sir."
+
+"When a poor person fails to pay after getting a warning, they're
+prosecuted. Isn't being prosecuted suffering in the world for a person
+who enjoys sensual pleasures?"
+
+"Yes, sir."
+
+"When a poor person fails to pay after being prosecuted, they're
+imprisoned. Isn't being imprisoned suffering in the world for a person
+who enjoys sensual pleasures?"
+
+"Yes, sir."
+
+"So mendicants, poverty, debt, interest, warnings, prosecution, and
+imprisonment are suffering in the world for those who enjoy sensual
+pleasures. In the same way, whoever has no faith, conscience, prudence,
+energy, and wisdom when it comes to skillful qualities is called poor
+and penniless in the training of the Noble One.
+
+Since they have no faith, conscience, prudence, energy, or wisdom when
+it comes to skillful qualities, they do bad things by way of body,
+speech, and mind. This is how they're in debt, I say.
+
+In order to conceal the bad things they do by way of body, speech, and
+mind they harbor corrupt wishes. They wish, plan, speak, and act with
+the thought: 'May no-one find me out!' This is how they pay interest, I
+say.
+
+Good-hearted spiritual companions say this about them: 'This venerable
+acts like this, and behaves like that.' This is how they're warned, I
+say.
+
+When they go to a wilderness, the root of a tree, or an empty hut,
+they're beset by remorseful, unskillful thoughts. This is how they're
+prosecuted, I say.
+
+That poor, penniless person has done bad things by way of body, speech,
+and mind. When their body breaks up, after death, they're trapped in the
+prison of hell or the animal realm. I don't see a single prison that's
+as brutal, as vicious, and such an obstacle to reaching the supreme
+sanctuary from the yoke as the prison of hell or the animal realm.
+
+> Poverty is said to be suffering in the world,\
+> and so is being in debt.\
+> A poor person who has fallen into debt\
+> frets even when spending the loan.
+>
+> And then they're prosecuted,\
+> or even thrown in jail.\
+> Such imprisonment is true suffering\
+> for someone who prays for pleasure and possessions.
+>
+> In the same way, in the noble one's training\
+> whoever has no faith,\
+> no conscience or prudence,\
+> contemplates bad deeds.
+>
+> After doing bad things\
+> by way of body,\
+> speech, and mind,\
+> they wish, 'May no-one find me out!'
+>
+> Their behavior is creepy\
+> by body, speech, and mind.\
+> They pile up bad deeds\
+> on and on, life after life.
+>
+> That simpleton evildoer,\
+> knowing their own misdeeds,\
+> is a poor person who has fallen into debt,\
+> and frets even when spending the loan.
+>
+> And when in village or wilderness\
+> they're prosecuted\
+> by painful mental plans,\
+> which are born of remorse.
+>
+> That simpleton evildoer,\
+> knowing their own misdeeds,\
+> goes to one of the animal realms,\
+> or is trapped in hell.
+>
+> Such imprisonment is true suffering,\
+> from which the attentive are released.\
+> With confident heart, they give\
+> with wealth that is properly earned.
+>
+> That faithful householder\
+> holds a perfect hand on both counts:\
+> welfare and benefit in this life,\
+> and happiness in the next.\
+> This is how, for a householder,\
+> merit grows by generosity.
+>
+> In the same way, in the noble one's training,\
+> whoever is grounded in faith,\
+> with conscience and prudence,\
+> wise, and ethically restrained,
+>
+> is said to live happily\
+> in the noble one's training.\
+> After gaining pleasure not of the flesh,\
+> they concentrate on equanimity.
+>
+> They give up the five hindrances,\
+> constantly energetic,\
+> and enter the absorptions,\
+> unified, alert, and mindful.
+>
+> Truly knowing in this way\
+> regards the ending of all fetters,\
+> by not grasping in any way,\
+> their mind is rightly freed.
+>
+> To that unaffected one, rightly freed\
+> with the end of the fetters of continued existence,\
+> the knowledge comes:\
+> 'My freedom is unshakable.'
+>
+> This is the ultimate knowledge.\
+> This is the supreme happiness.\
+> Sorrowless, stainless, secure:\
+> this is the highest freedom from debt."
+
+### N 6.46 By Mahācunda  *Mahācundasutta* {#n-6.46-by-mahācunda-mahācundasutta .unnumbered}
+
+[So I have heard.]{.smallcaps} At one time Venerable
+[Mahācunda]{lang="sa"} was staying in the land of the Cetis at
+[Sahajāti]{lang="sa"}. There he addressed the mendicants: "Reverends,
+mendicants!"
+
+"Reverend," they replied. Venerable [Mahācunda]{lang="sa"} said this:
+
+"Take a case where mendicants who practice discernment of principles
+rebuke mendicants who practice absorption meditation: 'They say, "We
+practice absorption meditation! We practice absorption meditation!" And
+they meditate and concentrate and contemplate and ruminate. Why do they
+practice absorption meditation? In what way do they practice absorption
+meditation? How do they practice absorption meditation?' In this case
+the mendicants who practice discernment of principles are not inspired,
+and the mendicants who practice absorption meditation are not inspired.
+And they're not acting for the welfare and happiness of the people, for
+the people, for the benefit, welfare, and happiness of gods and humans.
+
+Now, take a case where mendicants who practice absorption meditation
+rebuke mendicants who practice discernment of principles: 'They say, "We
+practice discernment of principles! We practice discernment of
+principles!" But they're restless, insolent, fickle, scurrilous,
+loose-tongued, unmindful, lacking situational awareness and immersion,
+with straying minds and undisciplined faculties. Why do they practice
+discernment of principles? In what way do they practice discernment of
+principles? How do they practice discernment of principles?' In this
+case the mendicants who practice absorption meditation are not inspired,
+and the mendicants who practice discernment of principles are not
+inspired. And they're not acting for the welfare and happiness of the
+people, for the people, for the benefit, welfare, and happiness of gods
+and humans.
+
+Now, take a case where mendicants who practice discernment of principles
+praise only others like them, not mendicants who practice absorption
+meditation. In this case the mendicants who practice discernment of
+principles are not inspired, and the mendicants who practice absorption
+meditation are not inspired. And they're not acting for the welfare and
+happiness of the people, for the people, for the benefit, welfare, and
+happiness of gods and humans.
+
+And take a case where mendicants who practice absorption meditation
+praise only others like them, not mendicants who practice discernment of
+principles. In this case the mendicants who practice absorption
+meditation are not inspired, and the mendicants who practice discernment
+of principles are not inspired. And they're not acting for the welfare
+and happiness of the people, for the people, for the benefit, welfare,
+and happiness of gods and humans.
+
+So you should train like this: 'As mendicants who practice discernment
+of principles, we will praise mendicants who practice absorption
+meditation.' That's how you should train. Why is that? Because it's
+incredibly rare to find individuals in the world who have direct
+meditative experience of the element free of death.
+
+So you should train like this: 'As mendicants who practice absorption
+meditation, we will praise mendicants who practice discernment of
+principles.' That's how you should train. Why is that? Because it's
+incredibly rare to find individuals in the world who see the meaning of
+a deep saying with penetrating wisdom."
+
+### N 6.47 Apparent in the Present Life (1st)  *Paṭhamasandiṭṭhikasutta* {#n-6.47-apparent-in-the-present-life-1st-paṭhamasandiṭṭhikasutta .unnumbered}
+
+And then the wanderer [Moḷiyasīvaka]{lang="sa"} went up to the Buddha,
+and exchanged greetings with him. When the greetings and polite
+conversation were over, he sat down to one side and said to the Buddha:
+
+"Sir, they speak of 'a teaching apparent in the present life'. In what
+way is the teaching apparent in the present life, immediately effective,
+inviting inspection, relevant, so that sensible people can know it for
+themselves?"
+
+"Well then, [Sīvaka]{lang="sa"}, I'll ask you about this in return, and
+you can answer as you like. What do you think, [Sīvaka]{lang="sa"}? When
+there's greed in you, do you understand 'I have greed in me'? And when
+there's no greed in you, do you understand 'I have no greed in me'?"
+
+"Yes, sir."
+
+"Since you know this, this is how the teaching is apparent in the
+present life, immediately effective, inviting inspection, relevant, so
+that sensible people can know it for themselves.
+
+What do you think, [Sīvaka]{lang="sa"}? When there's hate ... delusion
+... greedy ideas ... hateful ideas ... When there are delusional ideas
+in you, do you understand 'I have delusional ideas in me'? And when
+there are no delusional ideas in you, do you understand 'I have no
+delusional ideas in me'?"
+
+"Yes, sir."
+
+"Since you know this, this is how the teaching is apparent in the
+present life, immediately effective, inviting inspection, relevant, so
+that sensible people can know it for themselves."
+
+"Excellent, sir! Excellent! From this day forth, may the Buddha remember
+me as a lay follower who has gone for refuge for life."
+
+### N 6.48 Apparent in the Present Life (2nd)  *Dutiyasandiṭṭhikasutta* {#n-6.48-apparent-in-the-present-life-2nd-dutiyasandiṭṭhikasutta .unnumbered}
+
+Then a certain brahmin went up to the Buddha, and exchanged greetings
+with him. When the greetings and polite conversation were over, he sat
+down to one side and said to the Buddha:
+
+"Mister Gotama, they speak of 'a teaching apparent in the present life'.
+In what way is the teaching apparent in the present life, immediately
+effective, inviting inspection, relevant, so that sensible people can
+know it for themselves?"
+
+"Well then, brahmin, I'll ask you about this in return, and you can
+answer as you like. What do you think, brahmin? When there's greed in
+you, do you understand 'I have greed in me'? And when there's no greed
+in you, do you understand 'I have no greed in me'?"
+
+"Yes, sir."
+
+"Since you know this, this is how the teaching is apparent in the
+present life, immediately effective, inviting inspection, relevant, so
+that sensible people can know it for themselves.
+
+What do you think, brahmin? When there's hate ... delusion ...
+corruption that leads to physical deeds ... corruption that leads to
+speech ... When there's corruption that leads to mental deeds in you, do
+you understand 'I have corruption that leads to mental deeds in me'? And
+when there's no corruption that leads to mental deeds in you, do you
+understand 'I have no corruption that leads to mental deeds in me'?"
+
+"Yes, sir."
+
+"Since you know this, this is how the teaching is apparent in the
+present life, immediately effective, inviting inspection, relevant, so
+that sensible people can know it for themselves."
+
+"Excellent, Mister Gotama! Excellent! ... From this day forth, may
+Mister Gotama remember me as a lay follower who has gone for refuge for
+life."
+
+### N 6.49 With Khema  *Khemasutta* {#n-6.49-with-khema-khemasutta .unnumbered}
+
+At one time the Buddha was staying near [Sāvatthī]{lang="sa"} in Jeta's
+Grove, [Anāthapiṇḍika]{lang="sa"}'s monastery.
+
+Now at that time Venerable Khema and Venerable Sumana were staying near
+[Sāvatthī]{lang="sa"} in the Dark Forest. Then they went up to the
+Buddha, bowed, and sat down to one side. Venerable Khema said to the
+Buddha:
+
+"Sir, a mendicant who is perfected---with defilements ended, who has
+completed the spiritual journey, done what had to be done, laid down the
+burden, achieved their own true goal, utterly ended the fetter of
+continued existence, and is rightly freed through enlightenment---does
+not think: 'There is someone better than me, or equal to me, or worse
+than me.'"
+
+That is what Khema said, and the teacher approved. Then Khema, knowing
+that the teacher approved, got up from his seat, bowed, and respectfully
+circled the Buddha, keeping him on his right, before leaving.
+
+And then, not long after Khema had left, Sumana said to the Buddha:
+
+"Sir, a mendicant who is perfected---with defilements ended, who has
+completed the spiritual journey, done what had to be done, laid down the
+burden, achieved their own true goal, utterly ended the fetter of
+continued existence, and is rightly freed through enlightenment---does
+not think: 'There is no-one better than me, or equal to me, or worse
+than me.'"
+
+That is what Sumana said, and the teacher approved. Then Sumana, knowing
+that the teacher approved, got up from his seat, bowed, and respectfully
+circled the Buddha, keeping him on his right, before leaving.
+
+And then, soon after Khema and Sumana had left, the Buddha addressed the
+mendicants: "Mendicants, this is how gentlemen declare enlightenment.
+The goal is spoken of, but the self is not involved. But it seems that
+there are some futile men here who declare enlightenment as a joke.
+Later they will fall into distress.
+
+> They don't represent themselves\
+> as being among superiors, inferiors, or equals.\
+> Rebirth is ended,\
+> \>the spiritual journey has been completed.\
+> They live freed from fetters."
+
+### N 6.50 Sense Restraint  *Indriyasaṁvarasutta* {#n-6.50-sense-restraint-indriyasaṁvarasutta .unnumbered}
+
+"Mendicants, when there is no sense restraint, one who lacks sense
+restraint has destroyed a vital condition for ethical conduct. When
+there is no ethical conduct, one who lacks ethics has destroyed a vital
+condition for right immersion. When there is no right immersion, one who
+lacks right immersion has destroyed a vital condition for true knowledge
+and vision. When there is no true knowledge and vision, one who lacks
+true knowledge and vision has destroyed a vital condition for
+disillusionment and dispassion. When there is no disillusionment and
+dispassion, one who lacks disillusionment and dispassion has destroyed a
+vital condition for knowledge and vision of freedom.
+
+Suppose there was a tree that lacked branches and foliage. Its shoots,
+bark, softwood, and heartwood would not grow to fullness.
+
+In the same way, when there is no sense restraint, one who lacks sense
+restraint has destroyed a vital condition for ethical conduct. ... One
+who lacks disillusionment and dispassion has destroyed a vital condition
+for knowledge and vision of freedom.
+
+When there is sense restraint, one who has fulfilled sense restraint has
+fulfilled a vital condition for ethical conduct. When there is ethical
+conduct, one who has fulfilled ethical conduct has fulfilled a vital
+condition for right immersion. When there is right immersion, one who
+has fulfilled right immersion has fulfilled a vital condition for true
+knowledge and vision. When there is true knowledge and vision, one who
+has fulfilled true knowledge and vision has fulfilled a vital condition
+for disillusionment and dispassion. When there is disillusionment and
+dispassion, one who has fulfilled disillusionment and dispassion has
+fulfilled a vital condition for knowledge and vision of freedom.
+
+Suppose there was a tree that was complete with branches and foliage.
+Its shoots, bark, softwood, and heartwood would all grow to fullness.
+
+In the same way, when there is sense restraint, one who has fulfilled
+sense restraint has fulfilled a vital condition for ethical conduct. ...
+One who has fulfilled disillusionment and dispassion has fulfilled a
+vital condition for knowledge and vision of freedom."
+
+### N 6.51 With Ānanda  *Ānandasutta* {#n-6.51-with-ānanda-ānandasutta .unnumbered}
+
+Then Venerable Ānanda went up to Venerable [Sāriputta]{lang="sa"}, and
+exchanged greetings with him. When the greetings and polite conversation
+were over, Ānanda sat down to one side, and said to
+[Sāriputta]{lang="sa"}:
+
+"Reverend [Sāriputta]{lang="sa"}, how does a mendicant get to hear a
+teaching they haven't heard before? How do they remember those teachings
+they have heard? How do they keep exercising the teachings with which
+they are already familiar? And how do they come to understand what they
+haven't understood before?"
+
+"Well, Venerable Ānanda, you're very learned. Why don't you clarify this
+yourself?"
+
+"Well then, Reverend [Sāriputta]{lang="sa"}, listen and apply your mind
+well, I will speak."
+
+"Yes, reverend," [Sāriputta]{lang="sa"} replied. Ānanda said this:
+
+"Reverend [Sāriputta]{lang="sa"}, take a mendicant who memorizes the
+teaching---statements, mixed prose & verse, discussions, verses,
+inspired exclamations, legends, stories of past lives, amazing stories,
+and elaborations.
+
+Then, just as they learned and memorized it, they teach others in
+detail, make them recite in detail, practice reciting in detail, and
+think about and consider the teaching in their heart, examining it with
+the mind.
+
+They enter the rains retreat in a monastery with senior mendicants who
+are very learned, inheritors of the heritage, who have memorized the
+teachings, the monastic law, and the outlines. From time to time they go
+up to those mendicants and ask them questions: 'Why, sir, does it say
+this? What does that mean?' Those venerables clarify what is unclear,
+reveal what is obscure, and dispel doubt regarding the many doubtful
+matters.
+
+This is how a mendicant gets to hear a teaching they haven't heard
+before. It's how they remember those teachings they have heard. It's how
+they keep exercising the teachings with which they are already familiar.
+And it's how they come to understand what they haven't understood
+before."
+
+"It's incredible, reverend, it's amazing! How well said this was by
+Venerable Ānanda! And we will remember Venerable Ānanda as someone who
+has these six qualities.
+
+For Ānanda memorizes the teaching ... statements, mixed prose & verse,
+discussions, verses, inspired exclamations, legends, stories of past
+lives, amazing stories, and elaborations. Those venerables clarify to
+Ānanda what is unclear, reveal what is obscure, and dispel doubt
+regarding the many doubtful matters."
+
+### N 6.52 Aristocrats  *Khattiyasutta* {#n-6.52-aristocrats-khattiyasutta .unnumbered}
+
+And then the brahmin [Jānussoṇi]{lang="sa"} went up to the Buddha, and
+exchanged greetings with him. When the greetings and polite conversation
+were over, he sat down to one side and said to the Buddha:
+
+"Aristocrats, Mister Gotama, have what as their ambition? What is their
+preoccupation? What are they fixated on? What do they insist on? What is
+their ultimate goal?"
+
+"Aristocrats, brahmin, have wealth as their ambition. They're
+preoccupied with wisdom. They're fixated on power. They insist on
+territory. Their ultimate goal is authority."
+
+"Brahmins, Mister Gotama, have what as their ambition? What is their
+preoccupation? What are they fixated on? What do they insist on? What is
+their ultimate goal?"
+
+"Brahmins have wealth as their ambition. They're preoccupied with
+wisdom. They're fixated on the hymns. They insist on sacrifice. Their
+ultimate goal is the realm of divinity."
+
+"Householders, Mister Gotama, have what as their ambition? What is their
+preoccupation? What are they fixated on? What do they insist on? What is
+their ultimate goal?"
+
+"Householders have wealth as their ambition. They're preoccupied with
+wisdom. They're fixated on their profession. They insist on work. Their
+ultimate goal is to complete their work."
+
+"Women, Mister Gotama, have what as their ambition? What is their
+preoccupation? What are they fixated on? What do they insist on? What is
+their ultimate goal?"
+
+"Women have a man as their ambition. They're preoccupied with
+adornments. They're fixated on their children. They insist on being
+without a co-wife. Their ultimate goal is authority."
+
+"Bandits, Mister Gotama, have what as their ambition? What is their
+preoccupation? What are they fixated on? What do they insist on? What is
+their ultimate goal?"
+
+"Bandits have theft as their ambition. They're preoccupied with a hiding
+place. They're fixated on their sword. They insist on darkness. Their
+ultimate goal is invisibility."
+
+"Ascetics, Mister Gotama, have what as their ambition? What is their
+preoccupation? What are they fixated on? What do they insist on? What is
+their ultimate goal?"
+
+"Ascetics have patience and sweetness as their ambition. They're
+preoccupied with wisdom. They're fixated on ethical conduct. They insist
+on owning nothing. Their ultimate goal is extinguishment."
+
+"It's incredible, Mister Gotama, it's amazing! Mister Gotama knows the
+ambition, preoccupation, fixation, insistence, and ultimate goal of
+aristocrats, brahmins, householders, women, bandits, and ascetics.
+Excellent, Mister Gotama! Excellent! ... From this day forth, may Mister
+Gotama remember me as a lay follower who has gone for refuge for life."
+
+### N 6.53 Diligence  *Appamādasutta* {#n-6.53-diligence-appamādasutta .unnumbered}
+
+Then a certain brahmin went up to the Buddha, and exchanged greetings
+with him. When the greetings and polite conversation were over, he sat
+down to one side and said to the Buddha:
+
+"Mister Gotama, is there one thing that, when developed and cultivated,
+secures benefits for both this life and lives to come?"
+
+"There is, brahmin."
+
+"So what is it?"
+
+"Diligence, brahmin, is one thing that, when developed and cultivated,
+secures benefits for both this life and lives to come.
+
+The footprints of all creatures that walk can fit inside an elephant's
+footprint. So an elephant's footprint is said to be the biggest of them
+all. In the same way, diligence is one thing that, when developed and
+cultivated, secures benefits for both this life and lives to come.
+
+The rafters of a bungalow all lean to the peak, slope to the peak, and
+meet at the peak, so the peak is said to be the topmost of them all. In
+the same way, diligence is one thing ...
+
+A reed-cutter, having cut the reeds, grabs them at the top and shakes
+them down, shakes them about, and shakes them off. In the same way,
+diligence is one thing ...
+
+When the stalk of a bunch of mangoes is cut, all the mangoes attached to
+the stalk will follow along. In the same way, diligence is one thing ...
+
+All lesser rulers are vassals of a wheel-turning monarch, so the
+wheel-turning monarch is said to be the foremost of them all. In the
+same way, diligence is one thing ...
+
+The radiance of all the stars is not worth a sixteenth part of the
+moon's radiance, so the moon's radiance is said to be the best of them
+all. In the same way, diligence is one thing that, when developed and
+cultivated, secures benefits for both this life and lives to come.
+
+This is the one thing that, when developed and cultivated, secures
+benefits for both this life and lives to come."
+
+"Excellent, Mister Gotama! Excellent! ... From this day forth, may
+Mister Gotama remember me as a lay follower who has gone for refuge for
+life."
+
+### N 6.54 About Dhammika  *Dhammikasutta* {#n-6.54-about-dhammika-dhammikasutta .unnumbered}
+
+At one time the Buddha was staying near [Rājagaha]{lang="sa"}, on the
+Vulture's Peak Mountain.
+
+Now at that time Venerable Dhammika was a resident in all seven
+monasteries of his native land. There he abused visiting mendicants; he
+insulted, harmed, attacked, and harassed them. The visiting mendicants
+who were treated in this way did not stay. They left, abandoning the
+monastery.
+
+Then the local lay followers thought to themselves, "We have supplied
+the mendicant [Saṅgha]{lang="sa"} with robes, almsfood, lodgings, and
+medicines and supplies for the sick. But the visiting mendicants don't
+stay. They leave, abandoning the monastery. What is the cause, what is
+the reason for this?"
+
+Then the local lay followers thought to themselves, "This Venerable
+Dhammika abuses visiting mendicants; he insults, harms, attacks, and
+harasses them. The visiting mendicants who were treated in this way do
+not stay. They leave, abandoning the monastery. Why don't we banish
+Venerable Dhammika?"
+
+Then the local lay followers went up to Venerable Dhammika and said to
+him, "Sir, please leave this monastery. You've stayed here long enough."
+
+Then Venerable Dhammika left and went to another monastery. There he
+abused visiting mendicants; he insulted, harmed, attacked, and harassed
+them. The visiting mendicants who were treated in this way did not stay.
+They left, abandoning the monastery.
+
+Then the local lay followers thought to themselves: ...
+
+They said to Venerable Dhammika, "Sir, please leave this monastery.
+You've stayed here long enough."
+
+Then Venerable Dhammika left and went to another monastery. There he
+abused visiting mendicants; he insulted, harmed, attacked, and harassed
+them. The visiting mendicants who were treated in this way did not stay.
+They left, abandoning the monastery.
+
+Then the local lay followers thought to themselves, "Why don't we banish
+Venerable Dhammika from all seven monasteries in our native land?"
+
+Then the local lay followers went up to Venerable Dhammika and said to
+him, "Sir, please leave all seven monasteries in our native land."
+
+Then Venerable Dhammika thought, "I've been banished by the local lay
+followers from all seven monasteries in my native land. Where am I to go
+now?" He thought, "Why don't I go to see the Buddha?"
+
+Then Venerable Dhammika took his bowl and robe and set out for
+[Rājagaha]{lang="sa"}. Eventually he came to [Rājagaha]{lang="sa"} and
+the Vulture's Peak. He went up to the Buddha, bowed, and sat down to one
+side. The Buddha said to him, "So, Brahmin Dhammika, where have you come
+from?"
+
+"Sir, I've been banished by the local lay followers from all seven
+monasteries in my native land."
+
+"Enough, Brahmin Dhammika, what's that to you? Now that you've been
+banished from all of those places, you have come to me.
+
+Once upon a time, some sea-merchants set sail for the ocean deeps,
+taking with them a land-spotting bird. When their ship was out of sight
+of land, they released the bird. It flew right away to the east, the
+west, the north, the south, upwards, and in-between. If it saw land on
+any side, it went there and stayed. But if it saw no land on any side it
+returned to the ship. In the same way, now that you've been banished
+from all of those places, you have come to me.
+
+Once upon a time, King Koravya had a royal banyan tree with five trunks
+called 'Well Planted'. It was shady and lovely. Its canopy spread over
+twelve leagues, while the network of roots spread for five leagues. Its
+fruits were as large as a rice pot. And they were as sweet as pure wild
+honey. The king and harem made use of one trunk, the troops another, the
+people of town and country another, ascetics and brahmins another, and
+beasts and birds another. No-one guarded the fruit, yet no-one damaged
+another's fruits.
+
+Then a certain person ate as much as he liked of the fruit, then broke
+off a branch and left. Then the deity haunting the royal banyan tree
+thought, 'Oh, how incredible, how amazing! How wicked this person is, to
+eat as much as they like, then break off a branch and leave! Why don't I
+make sure that the royal banyan tree gives no fruit in future?' Then the
+royal banyan tree gave no more fruit.
+
+Then King Koravya went up to Sakka, lord of gods, and said to him,
+'Please sir, you should know that the royal banyan tree called Well
+Planted gives no fruit.' Then Sakka used his psychic powers to will that
+a violent storm come. And it felled and uprooted the royal banyan tree.
+Then the deity haunting the tree stood to one side, miserable and sad,
+weeping, with a tearful face.
+
+Then Sakka went up to that deity, and said, 'Why, god, are you standing
+to one side, miserable and sad, weeping, with a tearful face?'
+
+'Because, my good sir, a violent storm came and felled and uprooted my
+home.'
+
+'Well, did you stand by your tree's duty when the storm came?'
+
+'But my good sir, how does a tree stand by its duty?'
+
+'It's when those who need the tree's roots, bark, leaves, flowers, or
+fruit take what they need. Yet the deity is not displeased or upset
+because of this. This is how a tree stands by its duty.'
+
+'I was not standing by a tree's duty when the storm came and felled and
+uprooted my home.'
+
+'God, if you were to stand by a tree's duty, your home may be as it was
+before.'
+
+'I will stand by a tree's duty! May my home be as it was before!'
+
+Then Sakka used his psychic power to will that a violent storm come. And
+it raised up that mighty banyan tree and the bark of the roots was
+healed.
+
+In the same way, Brahmin Dhammika, were you standing by an ascetic's
+duty when the local lay followers banished you from all seven of the
+monasteries in your native land?"
+
+"But sir, how do I stand by an ascetic's duty?"
+
+"When someone abuses, annoys, or argues with an ascetic, the ascetic
+doesn't abuse, annoy, or argue back at them. That's how an ascetic
+stands by an ascetic's duty."
+
+"I was not standing by an ascetic's duty when the local lay followers
+banished me from all seven of the monasteries in my native land."
+
+"Once upon a time, there was a Teacher called Sunetta. He was a
+religious founder and was free of desire for sensual pleasures. He had
+many hundreds of disciples. He taught them the path to rebirth in the
+company of Divinity. Those lacking confidence in Sunetta were---when
+their body broke up, after death---reborn in a place of loss, a bad
+place, the underworld, hell. Those full of confidence in Sunetta
+were---when their body broke up, after death---reborn in a good place, a
+heavenly realm.
+
+Once upon a time there was a teacher called [Mūgapakkha]{lang="sa"} ...
+Aranemi ... [Kuddālaka]{lang="sa"} ... [Hatthipāla]{lang="sa"} ...
+[Jotipāla]{lang="sa"}. He was a religious founder and was free of desire
+for sensual pleasures. He had many hundreds of disciples. He taught them
+the way to rebirth in the company of Divinity. Those lacking confidence
+in [Jotipāla]{lang="sa"} were---when their body broke up, after
+death---reborn in a place of loss, a bad place, the underworld, hell.
+Those full of confidence in [Jotipāla]{lang="sa"} were---when their body
+broke up, after death---reborn in a good place, a heavenly realm.
+
+What do you think, Brahmin Dhammika? If someone with malicious intent
+were to abuse and insult these six teachers with their hundreds of
+followers, would they not create much wickedness?"
+
+"Yes, sir."
+
+"They would indeed. But someone who abuses and insults a single person
+accomplished in view with malicious intent creates even more wickedness.
+Why is that? Brahmin Dhammika, I say that any injury done by those
+outside of the Buddhist community does not compare with what is done to
+one's own spiritual companions. So you should train like this: 'We will
+have no malicious intent for those who we want to have as our spiritual
+companions.' That is how you should train.
+
+> Sunetta and [Mūgapakkha]{lang="sa"},\
+> and Aranemi the brahmin,\
+> [Hatthipāla]{lang="sa"} the student,\
+> and [Kuddālaka]{lang="sa"} were Teachers.
+>
+> And [Jotipāla]{lang="sa"} Govinda\
+> was priest for seven kings.\
+> These six famous teachers,\
+> harmless ones of the past,
+>
+> were free of putrefaction, compassionate,\
+> gone beyond the fetter of sensuality.\
+> Detached from sensual desire,\
+> they were reborn in the realm of divinity.
+>
+> Many hundreds of\
+> their disciples were also\
+> free of putrefaction-stench, compassionate,\
+> gone beyond the fetter of sensuality.\
+> Detached from sensual desire,\
+> they were reborn in the realm of divinity.
+>
+> One who insults\
+> with malicious intent\
+> these non-Buddhist seers,\
+> free of desire, immersed in [samādhi]{lang="sa"};\
+> such a man\
+> creates much wickedness.
+>
+> But one who insults\
+> with malicious intent\
+> a single person accomplished in view,\
+> a mendicant disciple of the Buddha;\
+> that man\
+> creates even more wickedness.
+>
+> You shouldn't attack a holy person,\
+> who has given up the grounds for views.\
+> This person is called\
+> the seventh of the noble [Saṅgha]{lang="sa"}.
+>
+> They're not free of desire for sensual pleasures,\
+> and their faculties are still immature:\
+> faith, mindfulness, and energy,\
+> serenity and discernment.
+>
+> If you attack such a mendicant,\
+> you first hurt yourself.\
+> Having hurt yourself,\
+> you harm the other.
+>
+> But if you protect yourself,\
+> the other is also protected.\
+> So you should protect yourself.\
+> An astute person is always uninjured."
+
+::: center
+*[the second fifty]{.smallcaps}*
+:::
+
+## The Great Chapter  {#the-great-chapter .unnumbered}
+
+### N 6.55 With Soṇa  *Soṇasutta* {#n-6.55-with-soṇa-soṇasutta .unnumbered}
+
+[So I have heard.]{.smallcaps} At one time the Buddha was staying near
+[Rājagaha]{lang="sa"}, on the Vulture's Peak Mountain.
+
+Now at that time Venerable [Soṇa]{lang="sa"} was staying near
+[Rājagaha]{lang="sa"} in the Cool Grove. Then as he was in private
+retreat this thought came to his mind, "I am one of the Buddha's most
+energetic disciples. Yet my mind is not freed from defilements by not
+grasping. But my family has wealth. I could enjoy that wealth and make
+merit. Why don't I resign the training and return to a lesser life, so I
+can enjoy my wealth and make merit?"
+
+Then the Buddha knew what Venerable [Soṇa]{lang="sa"} was thinking. As
+easily as a strong person would extend or contract their arm, he
+vanished from the Vulture's Peak and reappeared in the Cool Grove in
+front of [Soṇa]{lang="sa"}, and sat on the seat spread out.
+[Soṇa]{lang="sa"} bowed to the Buddha and sat down to one side.
+
+The Buddha said to him, "[Soṇa]{lang="sa"}, as you were in private
+retreat didn't this thought come to your mind: 'I am one of the Buddha's
+most energetic disciples. Yet my mind is not freed from defilements by
+not grasping. But my family has wealth. I could enjoy that wealth and
+make merit. Why don't I resign the training and return to a lesser life,
+so I can enjoy my wealth and make merit?'"
+
+"Yes, sir."
+
+"What do you think, [Soṇa]{lang="sa"}? When you were still a layman,
+weren't you a good player of the arched harp?"
+
+"Yes, sir."
+
+"When your harp's strings were tuned too tight, was it resonant and
+playable?"
+
+"No, sir."
+
+"When your harp's strings were tuned too slack, was it resonant and
+playable?"
+
+"No, sir."
+
+"But when your harp's strings were tuned neither too tight nor too
+slack, but fixed at an even tension, was it resonant and playable?"
+
+"Yes, sir."
+
+"In the same way, [Soṇa]{lang="sa"}, when energy is too forceful it
+leads to restlessness. When energy is too slack it leads to laziness.
+So, [Soṇa]{lang="sa"}, you should focus on energy and serenity, find a
+balance of the faculties, and learn the pattern of this situation."
+
+"Yes, sir," [Soṇa]{lang="sa"} replied.
+
+After advising [Soṇa]{lang="sa"} like this, the Buddha, as easily as a
+strong person would extend or contract their arm, vanished from the Cool
+Grove and reappeared on the Vulture's Peak.
+
+After some time [Soṇa]{lang="sa"} focused on energy and serenity, found
+a balance of the faculties, and learned the pattern of this situation.
+Then [Soṇa]{lang="sa"}, living alone, withdrawn, diligent, keen, and
+resolute, soon realized the supreme culmination of the spiritual path in
+this very life. He lived having achieved with his own insight the goal
+for which gentlemen rightly go forth from the lay life to homelessness.
+
+He understood: "Rebirth is ended; the spiritual journey has been
+completed; what had to be done has been done; there is nothing further
+for this place." And Venerable [Soṇa]{lang="sa"} became one of the
+perfected.
+
+Then, when [Soṇa]{lang="sa"} had attained perfection, he thought, "Why
+don't I go to the Buddha and declare my enlightenment in his presence?"
+Then [Soṇa]{lang="sa"} went up to the Buddha, bowed, sat down to one
+side, and said to him:
+
+"Sir, a mendicant who is perfected---with defilements ended, who has
+completed the spiritual journey, done what had to be done, laid down the
+burden, achieved their own true goal, utterly ended the fetter of
+continued existence, and is rightly freed through enlightenment---is
+dedicated to six things. They are dedicated to renunciation, seclusion,
+kindness, the ending of craving, the ending of grasping, and mental
+clarity.
+
+It may be, sir, that one of the venerables here thinks: 'Maybe this
+venerable is dedicated to renunciation solely out of mere faith.' But it
+should not be seen like this. A mendicant with defilements ended does
+not see in themselves anything more to do, or anything that needs
+improvement. They're dedicated to renunciation because they're free of
+greed, hate, and delusion with the end of greed, hate, and delusion.
+
+It may be, sir, that one of the venerables here thinks: 'Maybe this
+venerable is dedicated to seclusion because they enjoy possessions,
+honor, and popularity.' But it should not be seen like this. ...
+
+It may be, sir, that one of the venerables here thinks: 'Maybe this
+venerable is dedicated to kindness because they believe that adhering to
+precepts and observances is essential.' But it should not be seen like
+this. ...
+
+They're dedicated to the ending of craving because they're free of
+greed, hate, and delusion with the end of greed, hate, and delusion.
+
+They're dedicated to the ending of grasping because they're free of
+greed, hate, and delusion with the end of greed, hate, and delusion.
+
+They're dedicated to clarity of mind because they're free of greed,
+hate, and delusion with the end of greed, hate, and delusion.
+
+When a mendicant's mind is rightly freed like this, even if compelling
+sights come into the range of vision they don't overcome their mind. The
+mind remains untainted. It is steady, imperturbable, observing
+disappearance. Even if compelling sounds ... smells ... tastes ...
+touches ... and ideas come into the range of the mind they don't
+overcome the mind. The mind remains untainted. It is steady,
+imperturbable, observing disappearance.
+
+Suppose there was a mountain that was one solid mass of rock, without
+cracks or holes. Even if violent storms were to blow up out of the east,
+the west, the north, and the south, they couldn't make it shake or rock
+or tremble.
+
+In the same way, when a mendicant's mind is rightly freed like this,
+even if compelling sights come into the range of vision they don't
+overcome their mind. ... The mind remains untainted. It is steady,
+imperturbable, observing disappearance.
+
+> When you're dedicated to renunciation\
+> and seclusion of the heart;\
+> when you're dedicated to kindness\
+> and the end of grasping;
+>
+> when you're dedicated to the ending of craving\
+> and clarity of heart;\
+> and you've seen the arising of the senses,\
+> your mind is rightly freed.
+>
+> For that one, rightly freed,\
+> a mendicant with peaceful mind,\
+> there's nothing to be improved,\
+> and nothing more to do.
+>
+> As the wind cannot stir\
+> a solid mass of rock,\
+> so too sights, tastes, sounds,\
+> smells, and touches---the lot---
+>
+> and ideas, whether liked or disliked,\
+> don't disturb the unaffected one.\
+> Their mind is steady and free\
+> as they observe disappearance."
+
+### N 6.56 With Phagguna  *Phaggunasutta* {#n-6.56-with-phagguna-phaggunasutta .unnumbered}
+
+Now at that time Venerable Phagguna was sick, suffering, gravely ill.
+Then Venerable Ānanda went up to the Buddha, bowed, sat down to one
+side, and said to him:
+
+"Sir, Venerable Phagguna is sick. Sir, please go to Venerable Phagguna
+out of sympathy." The Buddha consented with silence.
+
+Then in the late afternoon, the Buddha came out of retreat and went to
+Venerable Phagguna. Venerable Phagguna saw the Buddha coming off in the
+distance and tried to rise on his cot.
+
+The Buddha said to him, "It's all right, Phagguna, don't get up. There
+are some seats spread out by others, I will sit there."
+
+He sat on the seat spread out and said to Venerable Phagguna: "I hope
+you're keeping well, Phagguna; I hope you're all right. And I hope the
+pain is fading, not growing, that its fading is evident, not its
+growing."
+
+"Sir, I'm not keeping well, I'm not getting by. The pain is terrible and
+growing, not fading; its growing is evident, not its fading.
+
+The winds piercing my head are so severe, it feels like a strong man
+drilling into my head with a sharp point. I'm not keeping well.
+
+The pain in my head is so severe, it feels like a strong man tightening
+a tough leather strap around my head. I'm not keeping well.
+
+The winds slicing my belly are so severe, like a deft butcher or their
+apprentice were slicing open a cows's belly with a sharp meat cleaver.
+I'm not keeping well.
+
+The burning in my body is so severe, it feels like two strong men
+grabbing a weaker man by the arms to burn and scorch him on a pit of
+glowing coals. I'm not keeping well, I'm not getting by. The pain is
+terrible and growing, not fading; its growing is evident, not its
+fading."
+
+Then the Buddha educated, encouraged, fired up, and inspired Venerable
+Phagguna with a Dhamma talk, after which he got up from his seat and
+left.
+
+Not long after the Buddha left, Venerable Phagguna passed away. At the
+time of his death, his faculties were bright and clear. Then Venerable
+Ānanda went up to the Buddha, bowed, sat down to one side, and said to
+him, "Sir, soon after the Buddha left, Venerable Phagguna died. At the
+time of his death, his faculties were bright and clear."
+
+"And why shouldn't his faculties be bright and clear? The mendicant
+Phagguna's mind was not freed from the five lower fetters. But when he
+heard that teaching his mind was freed from them.
+
+Ānanda, there are these six benefits to hearing the teaching at the
+right time and examining the meaning at the right time. What six?
+
+Firstly, take the case of a mendicant whose mind is not freed from the
+five lower fetters. At the time of death they get to see the Realized
+One. The Realized One proclaims a teaching to them that is good in the
+beginning, good in the middle, and good in the end, meaningful and
+well-phrased. And he reveals a spiritual practice that's entirely full
+and pure. When they hear that teaching their mind is freed from the five
+lower fetters. This is the first benefit of listening to the teaching.
+
+Next, take the case of another mendicant whose mind is not freed from
+the five lower fetters. At the time of death they don't get to see the
+Realized One, but they get to see a Realized One's disciple. The
+Realized One's disciple teaches them Dhamma ... When they hear that
+teaching their mind is freed from the five lower fetters. This is the
+second benefit of listening to the teaching.
+
+Next, take the case of another mendicant whose mind is not freed from
+the five lower fetters. At the time of death they don't get to see the
+Realized One, or to see a Realized One's disciple. But they think about
+and consider the teaching in their heart, examining it with the mind as
+they learned and memorized it. As they do so their mind is freed from
+the five lower fetters. This is the third benefit of listening to the
+teaching.
+
+Next, take the case of a mendicant whose mind is freed from the five
+lower fetters, but not with the supreme ending of attachments. At the
+time of death they get to see the Realized One. The Realized One teaches
+them Dhamma ... When they hear that teaching their mind is freed with
+the supreme ending of attachments. This is the fourth benefit of
+listening to the teaching.
+
+Next, take the case of another mendicant whose mind is freed from the
+five lower fetters, but not with the supreme ending of attachments. At
+the time of death they don't get to see the Realized One, but they get
+to see a Realized One's disciple. The Realized One's disciple teaches
+them Dhamma ... When they hear that teaching their mind is freed with
+the supreme ending of attachments. This is the fifth benefit of
+listening to the teaching.
+
+Next, take the case of another mendicant whose mind is freed from the
+five lower fetters, but not with the supreme ending of attachments. At
+the time of death they don't get to see the Realized One, or to see a
+Realized One's disciple. But they think about and consider the teaching
+in their heart, examining it with the mind as they learned and memorized
+it. As they do so their mind is freed with the supreme ending of
+attachments. This is the sixth benefit of listening to the teaching.
+
+These are the six benefits to hearing the teaching at the right time and
+examining the meaning at the right time."
+
+### N 6.57 The Six Classes of Rebirth  *Chaḷabhijātisutta* {#n-6.57-the-six-classes-of-rebirth-chaḷabhijātisutta .unnumbered}
+
+At one time the Buddha was staying near [Rājagaha]{lang="sa"}, on the
+Vulture's Peak Mountain. Then Venerable Ānanda went up to the Buddha,
+bowed, sat down to one side, and said to him:
+
+"Sir, [Pūraṇa]{lang="sa"} Kassapa describes six classes of rebirth:
+black, blue, red, yellow, white, and ultimate white.
+
+The black class of rebirth consists of slaughterers of sheep, pigs,
+poultry, or deer, hunters or fishers, bandits, executioners, butchers of
+cattle, jailers, and any others with a cruel livelihood.
+
+The blue class of rebirth consists of mendicants whose life is thorny,
+and any others who teach the efficacy of deeds and action.
+
+The red class of rebirth consists of the Jain ascetics who wear one
+cloth.
+
+The yellow class of rebirth consists of the lay people dressed in white
+who are disciples of the naked ascetics.
+
+The white class of rebirth consists of male and female
+[Ājīvaka]{lang="sa"} ascetics.
+
+And the ultimate white class of rebirth consists of Nanda Vaccha, Kisa
+[Saṅkicca]{lang="sa"}, and the bamboo-staffed ascetic
+[Gosāla]{lang="sa"}.
+
+These are the six classes of rebirth that [Pūraṇa]{lang="sa"} Kassapa
+describes."
+
+"But Ānanda, did the whole world authorize [Pūraṇa]{lang="sa"} Kassapa
+to describe these six classes of rebirth?"
+
+"No, sir."
+
+"It's as if they were to force a chop on a poor, penniless person,
+telling them, 'Eat this meat and pay for it!' In the same way,
+[Pūraṇa]{lang="sa"} Kassapa has described these six classes of rebirth
+without the consent of those ascetics and brahmins. And he has done so
+in a foolish, incompetent, unskilled way, lacking common sense.
+
+I, however, also describe six classes of rebirth. Listen and apply your
+mind well, I will speak."
+
+"Yes, sir," Ānanda replied. The Buddha said this:
+
+"And what, Ānanda, are the six classes of rebirth? Someone born into a
+dark class gives rise to a dark result. Someone born into a dark class
+gives rise to a bright result. Someone born into a dark class gives rise
+to extinguishment, which is neither dark nor bright. Someone born into a
+bright class gives rise to a dark result. Someone born into a bright
+class gives rise to a bright result. Someone born into a bright class
+gives rise to extinguishment, which is neither dark nor bright.
+
+And how does someone born into a dark class give rise to a dark result?
+It's when someone is reborn in a low family---a family of
+corpse-workers, bamboo-workers, hunters, chariot-makers, or
+scavengers---poor, with little to eat or drink, where life is tough, and
+food and shelter are hard to find. And they're ugly, unsightly,
+deformed, sickly---one-eyed, crippled, lame, or half-paralyzed. They
+don't get to have food, drink, clothes, and vehicles; garlands,
+fragrance, and makeup; or bed, house, and lighting. And they do bad
+things by way of body, speech, and mind. When their body breaks up,
+after death, they're reborn in a place of loss, a bad place, the
+underworld, hell. That's how someone born into a dark class gives rise
+to a dark result.
+
+And how does someone born into a dark class give rise to a bright
+result? It's when some person is reborn in a low family ... But they do
+good things by way of body, speech, and mind. When their body breaks up,
+after death, they're reborn in a good place, a heavenly realm. That's
+how someone born into a dark class gives rise to a bright result.
+
+And how does someone born into a dark class give rise to extinguishment,
+which is neither dark nor bright? It's when some person is reborn in a
+low family ... They shave off their hair and beard, dress in ocher
+robes, and go forth from the lay life to homelessness. They give up the
+five hindrances, corruptions of the heart that weaken wisdom. They
+firmly establish their mind in the four kinds of mindfulness meditation.
+They truly develop the seven awakening factors. And then they give rise
+to extinguishment, which is neither dark nor bright. That's how someone
+born in a dark class gives rise to extinguishment, which is neither dark
+nor bright.
+
+And how does someone born into a bright class give rise to a dark
+result? It's when some person is reborn in an eminent family---a
+well-to-do family of aristocrats, brahmins, or householders---rich,
+affluent, and wealthy, with lots of gold and silver, lots of property
+and assets, and lots of money and grain. And they're attractive,
+good-looking, lovely, of surpassing beauty. They get to have food,
+drink, clothes, and vehicles; garlands, fragrance, and makeup; and bed,
+house, and lighting. But they do bad things by way of body, speech, and
+mind. When their body breaks up, after death, they're reborn in a place
+of loss, a bad place, the underworld, hell. That's how someone born into
+a bright class gives rise to a dark result.
+
+And how does someone born into a bright class give rise to a bright
+result? It's when some person is reborn in an eminent family ... And
+they do good things by way of body, speech, and mind. When their body
+breaks up, after death, they're reborn in a good place, a heavenly
+realm. That's how someone born into a bright class give rise to a bright
+result.
+
+And how does someone born into a bright class give rise to
+extinguishment, which is neither dark nor bright? It's when some person
+is reborn in an eminent family ... They shave off their hair and beard,
+dress in ocher robes, and go forth from the lay life to homelessness.
+They give up the five hindrances, corruptions of the heart that weaken
+wisdom. They firmly establish their mind in the four kinds of
+mindfulness meditation. They truly develop the seven awakening factors.
+And then they give rise to extinguishment, which is neither dark nor
+bright. That's how someone born into a bright class gives rise to
+extinguishment, which is neither dark nor bright.
+
+These are the six classes of rebirth."
+
+### N 6.58 Defilements  *Āsavasutta* {#n-6.58-defilements-āsavasutta .unnumbered}
+
+"Mendicants, a mendicant with six qualities is worthy of offerings
+dedicated to the gods, worthy of hospitality, worthy of a religious
+donation, worthy of veneration with joined palms, and is the supreme
+field of merit for the world. What six?
+
+It's a mendicant who, by restraint, has given up the defilements that
+should be given up by restraint. By using, they've given up the
+defilements that should be given up by using. By enduring, they've given
+up the defilements that should be given up by enduring. By avoiding,
+they've given up the defilements that should be given up by avoiding. By
+getting rid, they've given up the defilements that should be given up by
+getting rid. By developing, they've given up the defilements that should
+be given up by developing.
+
+And what are the defilements that should be given up by restraint? Take
+a mendicant who, reflecting rationally, lives restraining the eye
+faculty. For the distressing and feverish defilements that might arise
+in someone who lives without restraint of the eye faculty do not arise
+when there is such restraint. Reflecting rationally, they live
+restraining the ear faculty ... the nose faculty ... the tongue faculty
+... the body faculty ... the mind faculty. For the distressing and
+feverish defilements that might arise in someone who lives without
+restraint of the mind faculty do not arise when there is such restraint.
+These are called the defilements that should be given up by restraint.
+
+And what are the defilements that should be given up by using? Take a
+mendicant who, reflecting rationally, makes use of robes: 'Only for the
+sake of warding off cold and heat; for warding off the touch of flies,
+mosquitoes, wind, sun, and reptiles; and for covering up the private
+parts.' Reflecting rationally, they make use of almsfood: 'Not for fun,
+indulgence, adornment, or decoration, but only to sustain this body, to
+avoid harm, and to support spiritual practice. In this way, I shall put
+an end to old discomfort and not give rise to new discomfort, and I will
+have the means to keep going, blamelessness, and a comfortable abiding.'
+Reflecting rationally, they make use of lodgings: 'Only for the sake of
+warding off cold and heat; for warding off the touch of flies,
+mosquitoes, wind, sun, and reptiles; to shelter from harsh weather and
+to enjoy retreat.' Reflecting rationally, they make use of medicines and
+supplies for the sick: 'Only for the sake of warding off the pains of
+illness and to promote good health.' For the distressing and feverish
+defilements that might arise in someone who lives without using these
+things do not arise when they are used. These are called the defilements
+that should be given up by using.
+
+And what are the defilements that should be given up by enduring? Take a
+mendicant who, reflecting rationally, endures cold, heat, hunger, and
+thirst. They endure the touch of flies, mosquitoes, wind, sun, and
+reptiles. They endure rude and unwelcome criticism. And they put up with
+physical pain---sharp, severe, acute, unpleasant, disagreeable, and
+life-threatening. For the distressing and feverish defilements that
+might arise in someone who lives without enduring these things do not
+arise when they are endured. These are called the defilements that
+should be given up by enduring.
+
+And what are the defilements that should be given up by avoiding? Take a
+mendicant who, reflecting rationally, avoids a wild elephant, a wild
+horse, a wild ox, a wild dog, a snake, a stump, thorny ground, a pit, a
+cliff, a swamp, and a sewer. Reflecting rationally, they avoid sitting
+on inappropriate seats, walking in inappropriate neighborhoods, and
+mixing with bad friends---whatever sensible spiritual companions would
+believe to be a bad setting. For the distressing and feverish
+defilements that might arise in someone who lives without avoiding these
+things do not arise when they are avoided. These are called the
+defilements that should be given up by avoiding.
+
+And what are the defilements that should be given up by getting rid?
+Take a mendicant who, reflecting rationally, doesn't tolerate a sensual,
+malicious, or cruel thought that has arisen. They don't tolerate any
+bad, unskillful qualities that have arisen, but give them up, get rid of
+them, eliminate them, and obliterate them. For the distressing and
+feverish defilements that might arise in someone who lives without
+getting rid of these things do not arise when they are gotten rid of.
+These are called the defilements that should be given up by getting rid.
+
+And what are the defilements that should be given up by developing? Take
+a mendicant who, reflecting rationally, develops the awakening factors
+of mindfulness, investigation of principles, energy, rapture,
+tranquility, immersion, and equanimity, which rely on seclusion, fading
+away, and cessation, and ripen as letting go. For the distressing and
+feverish defilements that might arise in someone who lives without
+developing these things do not arise when they are developed. These are
+called the defilements that should be given up by developing.
+
+A mendicant with these six qualities is worthy of offerings dedicated to
+the gods, worthy of hospitality, worthy of a religious donation, worthy
+of veneration with joined palms, and is the supreme field of merit for
+the world."
+
+### N 6.59 With Dārukammika  *Dārukammikasutta* {#n-6.59-with-dārukammika-dārukammikasutta .unnumbered}
+
+[So I have heard.]{.smallcaps} At one time the Buddha was staying at
+[Ñātika]{lang="sa"} in the brick house.
+
+Then the householder [Dārukammika]{lang="sa"} went up to the Buddha,
+bowed, and sat down to one side. The Buddha said to him, "Householder, I
+wonder whether your family gives gifts?"
+
+"It does, sir. Gifts are given to those mendicants who are perfected or
+on the path to perfection; they live in the wilderness, eat only
+almsfood, and wear rag robes."
+
+"Householder, as a layman enjoying sensual pleasures, living at home
+with your children, using sandalwood imported from [Kāsi]{lang="sa"},
+wearing garlands, fragrance, and makeup, and accepting gold and
+currency, it's hard for you to know who is perfected or on the path to
+perfection.
+
+If a mendicant living in the wilderness is restless, insolent, fickle,
+scurrilous, loose-tongued, unmindful, lacking situational awareness and
+immersion, with straying mind and undisciplined faculties, then in this
+respect they're reprehensible. If a mendicant living in the wilderness
+is not restless, insolent, fickle, scurrilous, or loose-tongued, but has
+established mindfulness, situational awareness and immersion, with
+unified mind and restrained faculties, then in this respect they're
+praiseworthy.
+
+If a mendicant who lives within a village is restless ... then in this
+respect they're reprehensible. If a mendicant who lives within a village
+is not restless ... then in this respect they're praiseworthy.
+
+If a mendicant who eats only almsfood is restless ... then in this
+respect they're reprehensible. If a mendicant who eats only almsfood is
+not restless ... then in this respect they're praiseworthy.
+
+If a mendicant who accepts invitations is restless ... then in this
+respect they're reprehensible. If a mendicant who accepts invitations is
+not restless ... then in this respect they're praiseworthy.
+
+If a mendicant who wears rag robes is restless ... then in this respect
+they're reprehensible. If a mendicant who wears rag robes is not
+restless ... then in this respect they're praiseworthy.
+
+If a mendicant who wears robes offered by householders is restless,
+insolent, fickle, scurrilous, loose-tongued, unmindful, lacking
+situational awareness and immersion, with straying mind and
+undisciplined faculties, then in this respect they're reprehensible. If
+a mendicant who wears robes offered by householders is not restless,
+insolent, fickle, scurrilous, or loose-tongued, but has established
+mindfulness, situational awareness and immersion, with unified mind and
+restrained faculties, then in this respect they're praiseworthy.
+
+Go ahead, householder, give gifts to the [Saṅgha]{lang="sa"}. Your mind
+will become bright and clear, and when your body breaks up, after death,
+you'll be reborn in a good place, a heavenly realm."
+
+"Sir, from this day forth I will give gifts to the [Saṅgha]{lang="sa"}."
+
+### N 6.60 With Hatthisāriputta  *Hatthisāriputtasutta* {#n-6.60-with-hatthisāriputta-hatthisāriputtasutta .unnumbered}
+
+[So I have heard.]{.smallcaps} At one time the Buddha was staying near
+Varanasi, in the deer park at Isipatana.
+
+Now at that time several senior mendicants, after the meal, on their
+return from almsround, sat together in the pavilion talking about the
+teachings. Venerable Citta [Hatthisāriputta]{lang="sa"} interrupted them
+while they were talking.
+
+Then Venerable [Mahākoṭṭhita]{lang="sa"} said to Venerable Citta
+[Hatthisāriputta]{lang="sa"}, "Venerable, please don't interrupt the
+senior mendicants while they're talking about the teachings. Wait until
+the end of the discussion."
+
+When he said this, Citta [Hatthisāriputta]{lang="sa"}'s companions said
+to [Mahākoṭṭhita]{lang="sa"}, "Venerable, please don't rebuke Citta
+[Hatthisāriputta]{lang="sa"}. He is astute, and quite capable of talking
+about the teachings with the senior mendicants."
+
+"It's not easy to know this, reverends, for those who don't comprehend
+another's mind.
+
+Take a person who is the sweetest of the sweet, the most even-tempered
+of the even-tempered, the calmest of the calm, so long as they live
+relying on the Teacher or a spiritual companion in a teacher's role. But
+when they're separated from the Teacher or a spiritual companion in a
+teacher's role, they mix closely with monks, nuns, laymen, and laywomen;
+with rulers and their chief ministers, and with monastics of other
+religions and their disciples. As they mix closely, they become intimate
+and loose, spending time chatting, and so lust infects their mind. They
+resign the training and return to a lesser life.
+
+Suppose an ox fond of crops was tied up or shut in a pen. Would it be
+right to say that that ox will never again invade the crops?"
+
+"No it would not, reverend. For it's quite possible that that ox will
+snap the ropes or break out of the pen, and then invade the crops."
+
+"In the same way, take a person who is the sweetest of the sweet ... As
+they mix closely, they become intimate and loose, spending time
+chatting, and so lust infects their mind. They resign the training and
+return to a lesser life.
+
+And take a person who, quite secluded from sensual pleasures ... enters
+and remains in the first absorption. Thinking, 'I get the first
+absorption!' they mix closely with monks ... They resign the training
+and return to a lesser life.
+
+Suppose the heavens were raining heavily at the crossroads so that the
+dust vanished and mud appeared. Would it be right to say that now dust
+will never appear at this crossroad again?"
+
+"No it would not, reverend. For it is quite possible that people or
+cattle and so on will cross over the crossroad, or that the wind and sun
+will evaporate the moisture so that the dust appears again."
+
+"In the same way, take a person who, quite secluded from sensual
+pleasures ... enters and remains in the first absorption. Thinking, 'I
+get the first absorption!' they mix closely with monks ... They resign
+the training and return to a lesser life.
+
+And take a person who, as the placing of the mind and keeping it
+connected are stilled ... enters and remains in the second absorption.
+Thinking, 'I get the second absorption!' they mix closely with monks ...
+They resign the training and return to a lesser life.
+
+Suppose there was a large pond not far from a town or village. After the
+heavens have rained heavily there, the clams and mussels, and pebbles
+and gravel would vanish. Would it be right to say that now the clams and
+mussels, and pebbles and gravel will never appear here again?"
+
+"No it would not, reverend. For it's quite possible that people or
+cattle and so on will drink from the pond, or that the wind and sun will
+evaporate it so that the clams and mussels, and pebbles and gravel
+appear again."
+
+"In the same way, take a person who, as the placing of the mind and
+keeping it connected are stilled ... enters and remains in the second
+absorption. Thinking, 'I get the second absorption!' they mix closely
+with monks ... They resign the training and return to a lesser life.
+
+And take a person who, with the fading away of rapture ... enters and
+remains in the third absorption. Thinking, 'I get the third absorption!'
+they mix closely with monks ... They resign the training and return to a
+lesser life.
+
+Suppose a person had finished a delicious meal. They'd have no appetite
+for leftovers. Would it be right to say that now food will never appeal
+to this person again?"
+
+"No it would not, reverend. For it's quite possible that other food
+won't appeal to that person as long as the nourishment is still present.
+But when the nourishment vanishes food will appeal again."
+
+"In the same way, take a person who, with the fading away of rapture ...
+enters and remains in the third absorption. Thinking, 'I get the third
+absorption!' they mix closely with monks ... They resign the training
+and return to a lesser life.
+
+And take a person who, giving up pleasure and pain ... enters and
+remains in the fourth absorption. Thinking, 'I get the fourth
+absorption!' they mix closely with monks ... They resign the training
+and return to a lesser life.
+
+Suppose that in a mountain glen there was a lake, unruffled and free of
+waves. Would it be right to say that now waves will never appear in this
+lake again?"
+
+"No it would not, reverend. For it is quite possible that a violent
+storm could blow up out of the east, west, north, or south, and stir up
+waves in that lake."
+
+"In the same way, take a person who, giving up pleasure and pain ...
+enters and remains in the fourth absorption. Thinking, 'I get the fourth
+absorption!' they mix closely with monks ... They resign the training
+and return to a lesser life.
+
+And take a person who, not focusing on any signs, enters and remains in
+the signless immersion of the heart. Thinking, 'I get the signless
+immersion of the heart!' they mix closely with monks, nuns, laymen, and
+laywomen; with rulers and their chief ministers, and with monastics of
+other religions and their disciples. As they mix closely, they become
+intimate and loose, spending time chatting, and so lust infects their
+mind. They resign the training and return to a lesser life.
+
+Suppose a ruler or their chief minister, while walking along the road
+with an army of four divisions, was to arrive at a forest grove where
+they set up camp for the night. There, because of the noise of the
+elephants, horses, chariots, soldiers, and the drums, kettledrums,
+horns, and cymbals, the chirping of crickets would vanish. Would it be
+right to say that now the chirping of crickets will never be heard in
+this woodland grove again?"
+
+"No it would not, reverend. For it is quite possible that the ruler or
+their chief minister will depart from that woodland grove so that the
+chirping of crickets will be heard there again."
+
+"In the same way, take a person who, not focusing on any signs, enters
+and remains in the signless immersion of the heart ... They resign the
+training and return to a lesser life."
+
+Then after some time Venerable Citta [Hatthisāriputta]{lang="sa"}
+resigned the training and returned to a lesser life. Then the mendicants
+who were his companions went up to Venerable [Mahākoṭṭhita]{lang="sa"}
+and said, "Did Venerable [Mahākoṭṭhita]{lang="sa"} comprehend Citta
+[Hatthisāriputta]{lang="sa"}'s mind and know that he had gained such and
+such meditative attainments, yet he would still resign the training and
+return to a lesser life? Or did deities tell you about it?"
+
+"Reverends, I comprehended his mind and knew this. And deities also told
+me."
+
+Then the mendicants who were Citta [Hatthisāriputta]{lang="sa"}'s
+companions went up to the Buddha, bowed, sat down to one side, and said
+to him, "Sir, Citta [Hatthisāriputta]{lang="sa"}, who had gained such
+and such meditative attainments, has still resigned the training and
+returned to a lesser life."
+
+"Mendicants, soon Citta will remember renunciation."
+
+And not long after Citta [Hatthisāriputta]{lang="sa"} shaved off his
+hair and beard, dressed in ocher robes, and went forth from the lay life
+to homelessness. Then Citta [Hatthisāriputta]{lang="sa"}, living alone,
+withdrawn, diligent, keen, and resolute, soon realized the supreme
+culmination of the spiritual path in this very life. He lived having
+achieved with his own insight the goal for which gentlemen rightly go
+forth from the lay life to homelessness.
+
+He understood: "Rebirth is ended; the spiritual journey has been
+completed; what had to be done has been done; there is nothing further
+for this place." And Venerable Citta [Hatthisāriputta]{lang="sa"} became
+one of the perfected.
+
+### N 6.61 In the Middle  *Majjhesutta* {#n-6.61-in-the-middle-majjhesutta .unnumbered}
+
+[So I have heard.]{.smallcaps} At one time the Buddha was staying near
+Varanasi, in the deer park at Isipatana.
+
+Now at that time, after the meal, on return from almsround, several
+senior mendicants sat together in the pavilion and this discussion came
+up among them, "Reverends, this was said by the Buddha in 'The Way to
+the Far Shore', in 'The Questions of Metteyya':
+
+> 'The thoughtful one who has known both ends,\
+> and is not stuck in the middle:\
+> he is a great man, I declare,\
+> he has escaped the seamstress here.'
+
+But what is one end? What's the second end? What's the middle? And who
+is the seamstress?" When this was said, one of the mendicants said to
+the senior mendicants:
+
+"Contact, reverends, is one end. The origin of contact is the second
+end. The cessation of contact is the middle. And craving is the
+seamstress, for craving weaves one to being reborn in one state of
+existence or another. That's how a mendicant directly knows what should
+be directly known and completely understands what should be completely
+understood. Knowing and understanding thus they make an end of suffering
+in this very life."
+
+When this was said, one of the mendicants said to the senior mendicants:
+
+"The past, reverends, is one end. The future is the second end. The
+present is the middle. And craving is the seamstress ... That's how a
+mendicant directly knows ... an end of suffering in this very life."
+
+When this was said, one of the mendicants said to the senior mendicants:
+
+"Pleasant feeling, reverends, is one end. Painful feeling is the second
+end. Neutral feeling is the middle. And craving is the seamstress ...
+That's how a mendicant directly knows ... an end of suffering in this
+very life."
+
+When this was said, one of the mendicants said to the senior mendicants:
+
+"Name, reverends, is one end. Form is the second end. Consciousness is
+the middle. And craving is the seamstress ... That's how a mendicant
+directly knows ... an end of suffering in this very life."
+
+When this was said, one of the mendicants said to the senior mendicants:
+
+"The six interior sense fields, reverends, are one end. The six exterior
+sense fields are the second end. Consciousness is the middle. And
+craving is the seamstress ... That's how a mendicant directly knows ...
+an end of suffering in this very life."
+
+When this was said, one of the mendicants said to the senior mendicants:
+
+"Substantial reality, reverends, is one end. The origin of substantial
+reality is the second end. The cessation of substantial reality is the
+middle. And craving is the seamstress, for craving weaves one to being
+reborn in one state of existence or another. That's how a mendicant
+directly knows what should be directly known and completely understands
+what should be completely understood. Knowing and understanding thus
+they make an end of suffering in this very life."
+
+When this was said, one of the mendicants said to the senior mendicants:
+
+"Each of us has spoken from the heart. Come, reverends, let's go to the
+Buddha, and inform him about this. As he answers, so we'll remember it."
+
+"Yes, reverend," those senior mendicants replied. Then those senior
+mendicants went up to the Buddha, bowed, sat down to one side, and
+informed the Buddha of all they had discussed. They asked, "Sir, who has
+spoken well?"
+
+"Mendicants, you've all spoken well in a way. However, this is what I
+was referring to in 'The Way to the Far Shore', in 'The Questions of
+Metteyya' when I said:
+
+> 'The sage has known both ends,\
+> and is not stuck in the middle.\
+> He is a great man, I declare,\
+> he has escaped the seamstress here.'
+
+Listen and apply your mind well, I will speak."
+
+"Yes, sir," they replied. The Buddha said this:
+
+"Contact, mendicants, is one end. The origin of contact is the second
+end. The cessation of contact is the middle. And craving is the
+seamstress, for craving weaves one to being reborn in one state of
+existence or another. That's how a mendicant directly knows what should
+be directly known and completely understands what should be completely
+understood. Knowing and understanding thus they make an end of suffering
+in this very life."
+
+### N 6.62 Knowledge of the Faculties of Persons  *Purisindriyañāṇasutta* {#n-6.62-knowledge-of-the-faculties-of-persons-purisindriyañāṇasutta .unnumbered}
+
+[So I have heard.]{.smallcaps} At one time the Buddha was wandering in
+the land of the Kosalans together with a large [Saṅgha]{lang="sa"} of
+mendicants when he arrived at a town of the Kosalans named
+[Daṇḍakappaka]{lang="sa"}. The Buddha left the road and sat at the root
+of a tree on the seat spread out. The mendicants entered
+[Daṇḍakappaka]{lang="sa"} to look for a guest house.
+
+Then Venerable Ānanda together with several mendicants went to the
+[Aciravatī]{lang="sa"} River to bathe. When he had bathed and emerged
+from the water he stood in one robe drying his limbs.
+
+Then a certain mendicant went up to Venerable Ānanda, and said to him,
+"Reverend Ānanda, when the Buddha declared that Devadatta was going to a
+place of loss, to hell, there to remain for an eon, irredeemable, did he
+do so after wholeheartedly deliberating, or was this just a way of
+speaking?"
+
+"You're right, reverend, that's how the Buddha declared it."
+
+Then Venerable Ānanda went up to the Buddha, bowed, sat down to one
+side, and told him what had happened.
+
+"Ānanda, that mendicant must be junior, recently gone forth, or else a
+foolish, incompetent senior mendicant. How on earth can he take
+something that I have declared categorically to be ambiguous? I do not
+see a single other person about whom I have given such whole-hearted
+deliberation before making a declaration as I did in the case of
+Devadatta.
+
+As long as I saw even a fraction of a hair's tip of goodness in
+Devadatta I did not declare that he was going to a place of loss, to
+hell, there to remain for an eon, irredeemable. But when I saw that
+there was not even a fraction of a hair's tip of goodness in Devadatta I
+declared that he was going to a place of loss, to hell, there to remain
+for an eon, irredeemable.
+
+Suppose there was a sewer deeper than a man's height, full to the brim
+with feces, and someone was sunk into it over their head. Then along
+comes a person who wants to help make them safe, who wants to lift them
+out of that sewer. But circling all around the sewer they couldn't see
+even a fraction of a hair's tip of that person that was not smeared with
+feces.
+
+In the same way, when I saw that there was not even a fraction of a
+hair's tip of goodness in Devadatta I declared that he was going to a
+place of loss, to hell, there to remain for an eon, irredeemable. If you
+would all listen, Ānanda, I will analyze the Realized One's knowledges
+of the faculties of persons."
+
+"Now is the time, Blessed One! Now is the time, Holy One! Let the Buddha
+analyze the faculties of persons. The mendicants will listen and
+remember it."
+
+"Well then, Ānanda, listen and apply your mind well, I will speak."
+
+"Yes, sir," Ānanda replied. The Buddha said this:
+
+"Ānanda, when I've comprehended the mind of a person, I understand:
+'Both skillful and unskillful qualities are found in this person.' After
+some time I comprehend their mind and understand: 'The skillful
+qualities of this person have vanished, but the unskillful qualities are
+still present. Nevertheless, their skillful root is unbroken, and from
+that the skillful will appear. So this person is not liable to decline
+in the future.' Suppose some seeds were intact, unspoiled, not
+weather-damaged, fertile, and well-kept. They're sown in a
+well-prepared, productive field. Wouldn't you know that those seeds
+would grow, increase, and mature?"
+
+"Yes, sir."
+
+"In the same way, when I've comprehended the mind of a person, I
+understand ... This person is not liable to decline in the future ...
+This is how another individual is known to the Realized One by
+comprehending their mind. And this is how the Realized One knows a
+person's faculties by comprehending their mind. And this is how the
+Realized One knows the future origination of a person's qualities by
+comprehending their mind.
+
+When I've comprehended the mind of a person, I understand: 'Both
+skillful and unskillful qualities are found in this person.' After some
+time I comprehend their mind and understand: 'The unskillful qualities
+of this person have vanished, but the skillful qualities are still
+present. Nevertheless, their unskillful root is unbroken, and from that
+the unskillful will appear. So this person is still liable to decline in
+the future.' Suppose some seeds were intact, unspoiled, not
+weather-damaged, fertile, and well-kept. And they were sown on a broad
+rock. Wouldn't you know that those seeds would not grow, increase, and
+mature?"
+
+"Yes, sir."
+
+"In the same way, when I've comprehended the mind of a person, I
+understand ... This person is still liable to decline in the future ...
+This is how another individual is known to the Realized One ...
+
+When I've comprehended the mind of a person, I understand: 'Both
+skillful and unskillful qualities are found in this person.' After some
+time I comprehend their mind and understand: 'This person has not even a
+fraction of a hair's tip of goodness. They have exclusively dark,
+unskillful qualities. When their body breaks up, after death, they will
+be reborn in a place of loss, a bad place, the underworld, hell.'
+Suppose some seeds were broken, spoiled, weather-damaged. They're sown
+in a well-prepared, productive field. Wouldn't you know that those seeds
+would not grow, increase, and mature?"
+
+"Yes, sir."
+
+"In the same way, when I've comprehended the mind of a person, I
+understand ... 'This person has not even a fraction of a hair's tip of
+goodness. They have exclusively dark, unskillful qualities. When their
+body breaks up, after death, they will be reborn in a place of loss, a
+bad place, the underworld, hell.' ..."
+
+When he said this, Venerable Ānanda said to the Buddha, "Sir, can you
+describe three other persons who are counterparts of these three?"
+
+"I can, Ānanda," said the Buddha. "Ānanda, when I've comprehended the
+mind of a person, I understand: 'Both skillful and unskillful qualities
+are found in this person.' After some time I comprehend their mind and
+understand: 'The skillful qualities of this person have vanished, but
+the unskillful qualities are still present. Nevertheless, their skillful
+root is unbroken, but it's about to be totally destroyed. So this person
+is still liable to decline in the future.' Suppose that there were some
+burning coals, blazing and glowing. And they were placed on a broad
+rock. Wouldn't you know that those coals would not grow, increase, and
+spread?"
+
+"Yes, sir."
+
+"Or suppose it was the late afternoon and the sun was going down.
+Wouldn't you know that the light was about to vanish and darkness
+appear?"
+
+"Yes, sir."
+
+"Or suppose that it's nearly time for the midnight meal. Wouldn't you
+know that the light had vanished and the darkness appeared?"
+
+"Yes, sir."
+
+"In the same way, when I've comprehended the mind of a person, I
+understand ... This person is still liable to decline in the future ...
+
+When I've comprehended the mind of a person, I understand: 'Both
+skillful and unskillful qualities are found in this person.' After some
+time I comprehend their mind and understand: 'The unskillful qualities
+of this person have vanished, but the skillful qualities are still
+present. Nevertheless, their unskillful root is unbroken, but it's about
+to be totally destroyed. So this person is not liable to decline in the
+future.' Suppose that there were some burning coals, blazing and
+glowing. They were placed on a pile of grass or timber. Wouldn't you
+know that those coals would grow, increase, and spread?"
+
+"Yes, sir."
+
+"Suppose it's the crack of dawn and the sun is rising. Wouldn't you know
+that the dark will vanish and the light appear?"
+
+"Yes, sir."
+
+"Or suppose that it's nearly time for the midday meal. Wouldn't you know
+that the dark had vanished and the light appeared?"
+
+"Yes, sir."
+
+"In the same way, when I've comprehended the mind of a person, I
+understand ... This person is not liable to decline in the future ...
+
+When I've comprehended the mind of a person, I understand: 'Both
+skillful and unskillful qualities are found in this person.' After some
+time I comprehend their mind and understand: 'This person has not even a
+fraction of a hair's tip of unskillful qualities. They have exclusively
+bright, blameless qualities. They will become extinguished in this very
+life.' Suppose that there were some cool, quenched coals. They were
+placed on a pile of grass or timber. Wouldn't you know that those coals
+would not grow, increase, and spread?"
+
+"Yes, sir."
+
+"In the same way, when I've comprehended the mind of a person, I
+understand ... 'This person has not even a fraction of a hair's tip of
+unskillful qualities. They have exclusively bright, blameless qualities.
+They will become extinguished in this very life.' This is how another
+individual is known to the Realized One by comprehending their mind. And
+this is how the Realized One knows a person's faculties by comprehending
+their mind. And this is how the Realized One knows the future
+origination of a person's qualities by comprehending their mind.
+
+And so, Ānanda, of the first three people one is not liable to decline,
+one is liable to decline, and one is bound for a place of loss, hell.
+And of the second three people, one is liable to decline, one is not
+liable to decline, and one is bound to become extinguished."
+
+### N 6.63 Penetrative  *Nibbedhikasutta* {#n-6.63-penetrative-nibbedhikasutta .unnumbered}
+
+"Mendicants, I will teach you a penetrative exposition of the teaching.
+Listen and apply your mind well, I will speak."
+
+"Yes, sir," they replied. The Buddha said this:
+
+"Mendicants, what is the penetrative exposition of the teaching? Sensual
+pleasures should be known. And their source, diversity, result,
+cessation, and the practice that leads to their cessation should be
+known.
+
+Feelings should be known. And their source, diversity, result,
+cessation, and the practice that leads to their cessation should be
+known.
+
+Perceptions should be known. And their source, diversity, result,
+cessation, and the practice that leads to their cessation should be
+known.
+
+Defilements should be known. And their source, diversity, result,
+cessation, and the practice that leads to their cessation should be
+known.
+
+Deeds should be known. And their source, diversity, result, cessation,
+and the practice that leads to their cessation should be known.
+
+Suffering should be known. And its source, diversity, result, cessation,
+and the practice that leads to its cessation should be known.
+
+'Sensual pleasures should be known. And their source, diversity, result,
+cessation, and the practice that leads to their cessation should be
+known.' That's what I said, but why did I say it? There are these five
+kinds of sensual stimulation. Sights known by the eye, which are
+likable, desirable, agreeable, pleasant, sensual, and arousing. Sounds
+known by the ear ... Smells known by the nose ... Tastes known by the
+tongue ... Touches known by the body, which are likable, desirable,
+agreeable, pleasant, sensual, and arousing. However, these are not
+sensual pleasures. In the training of the Noble One they're called
+'kinds of sensual stimulation'.
+
+> Greedy intention is a person's sensual pleasure.\
+> The world's pretty things aren't sensual pleasures.\
+> Greedy intention is a person's sensual pleasure.\
+> The world's pretty things stay just as they are,\
+> but the attentive remove desire for them.
+
+And what is the source of sensual pleasures? Contact is their source.
+
+And what is the diversity of sensual pleasures? The sensual desire for
+sights, sounds, smells, tastes, and touches are all different. This is
+called the diversity of sensual pleasures.
+
+And what is the result of sensual pleasures? When one who desires
+sensual pleasures creates a corresponding incarnation, partaking of
+either good or bad deeds---this is called the result of sensual
+pleasures.
+
+And what is the cessation of sensual pleasures? When contact ceases,
+sensual pleasures cease. The practice that leads to the cessation of
+sensual pleasures is simply this noble eightfold path, that is: right
+view, right thought, right speech, right action, right livelihood, right
+effort, right mindfulness, and right immersion.
+
+When a noble disciple understands sensual pleasures in this way---and
+understands their source, diversity, result, cessation, and the practice
+that leads to their cessation---they understand that this penetrative
+spiritual life is the cessation of sensual pleasures. 'Sensual pleasures
+should be known. And their source, diversity, result, cessation, and the
+practice that leads to their cessation should be known.' That's what I
+said, and this is why I said it.
+
+'Feelings should be known. And their source, diversity, result,
+cessation, and the practice that leads to their cessation should be
+known.' That's what I said, but why did I say it? There are these three
+feelings: pleasant, painful, and neutral.
+
+And what is the source of feelings? Contact is their source.
+
+And what is the diversity of feelings? There are pleasant feelings of
+the flesh, pleasant feelings not of the flesh, painful feelings of the
+flesh, painful feelings not of the flesh, neutral feelings of the flesh,
+and neutral feelings not of the flesh. This is called the diversity of
+feelings.
+
+And what is the result of feelings? When one who feels creates a
+corresponding incarnation, partaking of either good or bad deeds---this
+is called the result of feelings.
+
+And what is the cessation of feelings? When contact ceases, feelings
+cease. The practice that leads to the cessation of feelings is simply
+this noble eightfold path, that is: right view, right thought, right
+speech, right action, right livelihood, right effort, right mindfulness,
+and right immersion.
+
+When a noble disciple understands feelings in this way ... they
+understand that this penetrative spiritual life is the cessation of
+feelings. 'Feelings should be known. And their source, diversity,
+result, cessation, and the practice that leads to their cessation should
+be known.' That's what I said, and this is why I said it.
+
+'Perceptions should be known. And their source, diversity, result,
+cessation, and the practice that leads to their cessation should be
+known.' That's what I said, but why did I say it? There are these six
+perceptions: perceptions of sights, sounds, smells, tastes, touches, and
+ideas.
+
+And what is the source of perceptions? Contact is their source.
+
+And what is the diversity of perceptions? The perceptions of sights,
+sounds, smells, tastes, touches, and ideas are all different. This is
+called the diversity of perceptions.
+
+And what is the result of perceptions? Communication is the result of
+perception, I say. You communicate something in whatever manner you
+perceive it, saying 'That's what I perceived.' This is called the result
+of perceptions.
+
+And what is the cessation of perception? When contact ceases, perception
+ceases. The practice that leads to the cessation of perceptions is
+simply this noble eightfold path, that is: right view, right thought,
+right speech, right action, right livelihood, right effort, right
+mindfulness, and right immersion.
+
+When a noble disciple understands perception in this way ... they
+understand that this penetrative spiritual life is the cessation of
+perception. 'Perceptions should be known. And their source, diversity,
+result, cessation, and the practice that leads to their cessation should
+be known.' That's what I said, and this is why I said it.
+
+'Defilements should be known. And their source, diversity, result,
+cessation, and the practice that leads to their cessation should be
+known.' That's what I said, but why did I say it? There are these three
+defilements: the defilements of sensuality, desire to be reborn, and
+ignorance.
+
+And what is the source of defilements? Ignorance is the source of
+defilements.
+
+And what is the diversity of defilements? There are defilements that
+lead to rebirth in hell, the animal realm, the ghost realm, the human
+world, and the world of the gods. This is called the diversity of
+defilements.
+
+And what is the result of defilements? When one who is ignorant creates
+a corresponding incarnation, partaking of either good or bad
+deeds---this is called the result of defilements.
+
+And what is the cessation of defilements? When ignorance ceases,
+defilements cease. The practice that leads to the cessation of
+defilements is simply this noble eightfold path, that is: right view,
+right thought, right speech, right action, right livelihood, right
+effort, right mindfulness, and right immersion.
+
+When a noble disciple understands defilements in this way ... they
+understand that this penetrative spiritual life is the cessation of
+defilements. 'Defilements should be known. And their source, diversity,
+result, cessation, and the practice that leads to their cessation should
+be known.' That's what I said, and this is why I said it.
+
+'Deeds should be known. And their source, diversity, result, cessation,
+and the practice that leads to their cessation should be known.' That's
+what I said, but why did I say it? It is intention that I call deeds.
+For after making a choice one acts by way of body, speech, and mind.
+
+And what is the source of deeds? Contact is their source.
+
+And what is the diversity of deeds? There are deeds that lead to rebirth
+in hell, the animal realm, the ghost realm, the human world, and the
+world of the gods. This is called the diversity of deeds.
+
+And what is the result of deeds? The result of deeds is threefold, I
+say: in this very life, on rebirth in the next life, or at some later
+time. This is called the result of deeds.
+
+And what is the cessation of deeds? When contact ceases, deeds cease.
+The practice that leads to the cessation of deeds is simply this noble
+eightfold path, that is: right view, right thought, right speech, right
+action, right livelihood, right effort, right mindfulness, and right
+immersion.
+
+When a noble disciple understands deeds in this way ... they understand
+that this penetrative spiritual life is the cessation of deeds. 'Deeds
+should be known. And their source, diversity, result, cessation, and the
+practice that leads to their cessation should be known.' That's what I
+said, and this is why I said it.
+
+'Suffering should be known. And its source, diversity, result,
+cessation, and the practice that leads to its cessation should be
+known.' That's what I said, but why did I say it? Rebirth is suffering;
+old age is suffering; illness is suffering; death is suffering; sorrow,
+lamentation, pain, sadness, and distress are suffering; not getting what
+you wish for is suffering. In brief, the five grasping aggregates are
+suffering.
+
+And what is the source of suffering? Craving is the source of suffering.
+
+And what is the diversity of suffering? There is suffering that is
+severe, mild, slow to fade, and quick to fade. This is called the
+diversity of suffering.
+
+And what is the result of suffering? It's when someone who is overcome
+and overwhelmed by suffering sorrows and wails and laments, beating
+their breast and falling into confusion. Or else, overcome by that
+suffering, they begin an external search, wondering: 'Who knows one or
+two phrases to stop this suffering?' The result of suffering is either
+confusion or a search, I say. This is called the result of suffering.
+
+And what is the cessation of suffering? When craving ceases, suffering
+ceases. The practice that leads to the cessation of suffering is simply
+this noble eightfold path, that is: right view, right thought, right
+speech, right action, right livelihood, right effort, right mindfulness,
+and right immersion.
+
+When a noble disciple understands suffering in this way ... they
+understand that this penetrative spiritual life is the cessation of
+suffering. 'Suffering should be known. And its source, diversity,
+result, cessation, and the practice that leads to its cessation should
+be known.' That's what I said, and this is why I said it.
+
+This is the penetrative exposition of the teaching."
+
+### N 6.64 The Lion's Roar  *Sīhanādasutta* {#n-6.64-the-lions-roar-sīhanādasutta .unnumbered}
+
+"Mendicants, the Realized One possesses six powers of a Realized One.
+With these he claims the bull's place, roars his lion's roar in the
+assemblies, and turns the divine wheel. What six?
+
+Firstly, the Realized One truly understands the possible as possible and
+the impossible as impossible. Since he truly understands this, this is a
+power of the Realized One. Relying on this he claims the bull's place,
+roars his lion's roar in the assemblies, and turns the divine wheel.
+
+Furthermore, the Realized One truly understands the result of deeds
+undertaken in the past, future, and present in terms of grounds and
+causes. Since he truly understands this, this is a power of the Realized
+One. ...
+
+Furthermore, the Realized One truly understands corruption, cleansing,
+and emergence regarding the absorptions, liberations, immersions, and
+attainments. Since he truly understands this, this is a power of the
+Realized One. ...
+
+Furthermore, the Realized One recollects many kinds of past lives. That
+is: one, two, three, four, five, ten, twenty, thirty, forty, fifty, a
+hundred, a thousand, a hundred thousand rebirths; many eons of the world
+contracting, many eons of the world expanding, many eons of the world
+contracting and expanding. He remembers: 'There, I was named this, my
+clan was that, I looked like this, and that was my food. This was how I
+felt pleasure and pain, and that was how my life ended. When I passed
+away from that place I was reborn somewhere else. There, too, I was
+named this, my clan was that, I looked like this, and that was my food.
+This was how I felt pleasure and pain, and that was how my life ended.
+When I passed away from that place I was reborn here.' And so he
+recollects his many kinds of past lives, with features and details.
+Since he truly understands this, this is a power of the Realized One.
+...
+
+Furthermore, with clairvoyance that is purified and superhuman, the
+Realized One sees sentient beings passing away and being
+reborn---inferior and superior, beautiful and ugly, in a good place or a
+bad place. He understands how sentient beings are reborn according to
+their deeds. Since he truly understands this, this is a power of the
+Realized One. ...
+
+Furthermore, the Realized One has realized the undefiled freedom of
+heart and freedom by wisdom in this very life. And he lives having
+realized it with his own insight due to the ending of defilements. Since
+he truly understands this, this is a power of the Realized One. Relying
+on this he claims the bull's place, roars his lion's roar in the
+assemblies, and turns the divine wheel. These are the six powers of a
+Realized One that the Realized One possesses. With these he claims the
+bull's place, roars his lion's roar in the assemblies, and turns the
+divine wheel.
+
+If others come to the Realized One and ask questions about his true
+knowledge of the possible as possible and the impossible as impossible,
+the Realized One answers them in whatever manner he has truly known it.
+
+If others come to the Realized One and ask questions about his true
+knowledge of the result of deeds undertaken in the past, future, and
+present in terms of grounds and causes, the Realized One answers them in
+whatever manner he has truly known it.
+
+If others come to the Realized One and ask questions about his true
+knowledge of corruption, cleansing, and emergence regarding the
+absorptions, liberations, immersions, and attainments, the Realized One
+answers them in whatever manner he has truly known it.
+
+If others come to the Realized One and ask questions about his true
+knowledge of recollection of past lives, the Realized One answers them
+in whatever manner he has truly known it.
+
+If others come to the Realized One and ask questions about his true
+knowledge of passing away and rebirth of sentient beings, the Realized
+One answers them in whatever manner he has truly known it.
+
+If others come to the Realized One and ask questions about his true
+knowledge of the ending of defilements, the Realized One answers them in
+whatever manner he has truly known it.
+
+And I say that true knowledge of the possible as possible and the
+impossible as impossible is for those with immersion, not for those
+without immersion. And true knowledge of the result of deeds undertaken
+in the past, future, and present in terms of grounds and causes is for
+those with immersion, not for those without immersion. And true
+knowledge of corruption, cleansing, and emergence regarding the
+absorptions, liberations, immersions, and attainments is for those with
+immersion, not for those without immersion. And true knowledge of the
+recollection of past lives is for those with immersion, not for those
+without immersion. And true knowledge of the passing away and rebirth of
+sentient beings is for those with immersion, not for those without
+immersion. And true knowledge of the ending of defilements is for those
+with immersion, not for those without immersion.
+
+And so, mendicants, immersion is the path. No immersion is the wrong
+path."
+
+## The Chapter on Deities  {#the-chapter-on-deities-1 .unnumbered}
+
+### N 6.65 The Fruit of Non-Return  *Anāgāmiphalasutta* {#n-6.65-the-fruit-of-non-return-anāgāmiphalasutta .unnumbered}
+
+"Mendicants, without giving up six things you can't realize the fruit of
+non-return. What six? Lack of faith, conscience, and prudence; laziness,
+unmindfulness, and witlessness. Without giving up these six things you
+can't realize the fruit of non-return.
+
+After giving up six things you can realize the fruit of non-return. What
+six? Lack of faith, conscience, and prudence; laziness, unmindfulness,
+and witlessness. After giving up these six things you can realize the
+fruit of non-return."
+
+### N 6.66 Perfection  *Arahattasutta* {#n-6.66-perfection-arahattasutta .unnumbered}
+
+"Mendicants, without giving up six things you can't realize perfection.
+What six? Dullness, drowsiness, restlessness, remorse, lack of faith,
+and negligence. Without giving up these six things you can't realize
+perfection.
+
+After giving up six things you can realize perfection. What six?
+Dullness, drowsiness, restlessness, remorse, lack of faith, and
+negligence. After giving up these six things you can realize
+perfection."
+
+### N 6.67 Friends  *Mittasutta* {#n-6.67-friends-mittasutta .unnumbered}
+
+"Mendicants, it is quite impossible that a mendicant with bad friends,
+companions, and associates, while frequenting, accompanying, and
+attending, and following their example, will fulfill the practice
+dealing with the supplementary regulations. Without fulfilling the
+practice dealing with supplementary regulations, it's impossible to
+fulfill the practice of a trainee. Without fulfilling the practice of a
+trainee, it's impossible to fulfill ethics. Without fulfilling ethics,
+it's impossible to give up sensual desire, or desire to be reborn in the
+realm of luminous form or in the formless realm.
+
+It's quite possible that a mendicant with good friends, companions, and
+associates, while frequenting, accompanying, and attending, and
+following their example, will fulfill the practice dealing with the
+supplementary regulations. Having fulfilled the practice dealing with
+supplementary regulations, it's possible to fulfill the practice of a
+trainee. Having fulfilled the practice of a trainee, it's possible to
+fulfill ethics. Having fulfilled ethics, it's possible to give up
+sensual desire, and desire to be reborn in the realm of luminous form
+and in the formless realm."
+
+### N 6.68 Enjoying Company  *Saṅgaṇikārāmasutta* {#n-6.68-enjoying-company-saṅgaṇikārāmasutta .unnumbered}
+
+"Mendicants, it is quite impossible that a mendicant who enjoys company
+and groups, who loves them and likes to enjoy them, should take pleasure
+in being alone in seclusion. Without taking pleasure in being alone in
+seclusion, it's impossible to learn the patterns of the mind. Without
+learning the patterns of the mind, it's impossible to fulfill right
+view. Without fulfilling right view, it's impossible to fulfill right
+immersion. Without fulfilling right immersion, it's impossible to give
+up the fetters. Without giving up the fetters, it's impossible to
+realize extinguishment.
+
+It's quite possible that a mendicant who doesn't enjoy company and
+groups, who doesn't love them and like to enjoy them, should take
+pleasure in being alone in seclusion. For someone who takes pleasure in
+being alone in seclusion, it's possible to learn the patterns of the
+mind. For someone who learns the patterns of the mind, it's possible to
+fulfill right view. Having fulfilled right view, it's possible to
+fulfill right immersion. Having fulfilled right immersion, it's possible
+to give up the fetters. Having given up the fetters, it's possible to
+realize extinguishment."
+
+### N 6.69 A God  *Devatāsutta* {#n-6.69-a-god-devatāsutta .unnumbered}
+
+Then, late at night, a glorious deity, lighting up the entire Jeta's
+Grove, went up to the Buddha, bowed, stood to one side, and said to him:
+
+"Sir, these six things don't lead to the decline of a mendicant. What
+six? Respect for the Teacher, for the teaching, for the
+[Saṅgha]{lang="sa"}, for the training; being easy to admonish, and good
+friendship. These six things don't lead to the decline of a mendicant."
+
+That's what that deity said, and the teacher approved. Then that deity,
+knowing that the teacher approved, bowed, and respectfully circled the
+Buddha, keeping him on his right, before vanishing right there.
+
+Then, when the night had passed, the Buddha addressed the mendicants:
+
+"Tonight, a glorious deity, lighting up the entire Jeta's Grove, came to
+me, bowed, stood to one side, and said to me: 'Sir, these six things
+don't lead to the decline of a mendicant. What six? Respect for the
+Teacher, for the teaching, for the [Saṅgha]{lang="sa"}, for the
+training; being easy to admonish, and good friendship. These six things
+don't lead to the decline of a mendicant.'
+
+That is what that deity said. Then he bowed and respectfully circled me,
+keeping me on his right side, before vanishing right there."
+
+When he said this, Venerable [Sāriputta]{lang="sa"} said to the Buddha:
+
+"Sir, this is how I understand the detailed meaning of the Buddha's
+brief statement. It's when a mendicant personally respects the Teacher
+and praises such respect. And they encourage other mendicants who lack
+such respect to respect the Teacher. And they praise other mendicants
+who respect the Teacher at the right time, truthfully and correctly.
+They personally respect the teaching ... They personally respect the
+[Saṅgha]{lang="sa"} ... They personally respect the training ... They
+are personally easy to admonish ... They personally have good friends,
+and praise such friendship. And they encourage other mendicants who lack
+good friends to develop good friendship. And they praise other
+mendicants who have good friends at the right time, truthfully and
+correctly. That's how I understand the detailed meaning of the Buddha's
+brief statement."
+
+"Good, good, [Sāriputta]{lang="sa"}! It's good that you understand the
+detailed meaning of what I've said in brief like this.
+
+It's when a mendicant personally respects the Teacher ... They
+personally respect the teaching ... They personally respect the
+[Saṅgha]{lang="sa"} ... They personally respect the training ... They
+are personally easy to admonish ... They personally have good friends,
+and praise such friendship. And they encourage other mendicants who lack
+good friends to develop good friendship. And they praise other
+mendicants who have good friends at the right time, truthfully and
+correctly. This is how to understand the detailed meaning of what I said
+in brief."
+
+### N 6.70 Immersion  *Samādhisutta* {#n-6.70-immersion-samādhisutta .unnumbered}
+
+"Mendicants, it is quite impossible that a mendicant without immersion
+that is peaceful, refined, tranquil, and unified will wield the many
+kinds of psychic power: multiplying themselves and becoming one again;
+appearing and disappearing; going unobstructed through a wall, a
+rampart, or a mountain as if through space; diving in and out of the
+earth as if it were water; walking on water as if it were earth; flying
+cross-legged through the sky like a bird; touching and stroking with the
+hand the sun and moon, so mighty and powerful. They control the body as
+far as the realm of divinity.
+
+It's impossible that with clairaudience that is purified and superhuman,
+they'll hear both kinds of sounds, human and heavenly, whether near or
+far.
+
+It's impossible that they'll understand the minds of other beings and
+individuals, having comprehended them with their own mind, understanding
+mind with greed as 'mind with greed' ... and freed mind as 'freed mind'.
+
+It's impossible that they'll recollect many kinds of past lives, with
+features and details.
+
+It's impossible that with clairvoyance that is purified and surpasses
+the human, they'll understand how sentient beings are reborn according
+to their deeds.
+
+It's impossible that they'll realize the undefiled freedom of heart and
+freedom by wisdom in this very life, and live having realized it with
+their own insight due to the ending of defilements.
+
+But it's quite possible that a mendicant who has immersion that is
+peaceful, refined, tranquil, and unified will wield the many kinds of
+psychic power ...
+
+It's possible that with clairaudience that is purified and superhuman,
+they'll hear both kinds of sounds ...
+
+It's possible that they'll understand the minds of other beings ...
+
+It's possible that they'll recollect many kinds of past lives, with
+features and details.
+
+It's possible that with clairvoyance that is purified and superhuman,
+they'll understand how sentient beings are reborn according to their
+deeds.
+
+It's possible that they'll realize the undefiled freedom of heart and
+freedom by wisdom in this very life, and live having realized it with
+their own insight due to the ending of defilements."
+
+### N 6.71 Capable of Realizing  *Sakkhibhabbasutta* {#n-6.71-capable-of-realizing-sakkhibhabbasutta .unnumbered}
+
+"Mendicants, a mendicant with six qualities is incapable of realizing
+anything that can be realized, since each and every one is within range.
+What six? It's when a mendicant doesn't truly understand which qualities
+make things worse, which keep things steady, which lead to distinction,
+and which lead to penetration. And they don't practice carefully or do
+what's suitable. A mendicant with these six qualities is incapable of
+realizing anything that can be realized, since each and every one is
+within range.
+
+A mendicant with six qualities is capable of realizing anything that can
+be realized, since each and every one is within range. What six? It's
+when a mendicant truly understands which qualities make things worse,
+which keep things steady, which lead to distinction, and which lead to
+penetration. And they practice carefully and do what's suitable. A
+mendicant with these six qualities is capable of realizing anything that
+can be realized, since each and every one is within range."
+
+### N 6.72 Strength  *Balasutta* {#n-6.72-strength-balasutta .unnumbered}
+
+"Mendicants, a mendicant who has six qualities can't attain strength in
+immersion. What six? It's when a mendicant is not skilled in entering
+immersion, skilled in remaining in immersion, or skilled in emerging
+from immersion. And they don't practice carefully and persistently, and
+they don't do what's suitable. A mendicant who has these six qualities
+can't attain strength in immersion.
+
+A mendicant who has six qualities can attain strength in immersion. What
+six? It's when a mendicant is skilled in entering immersion, skilled in
+remaining in immersion, and skilled in emerging from immersion. And they
+practice carefully and persistently, and do what's suitable. A mendicant
+who has these six qualities can attain strength in immersion."
+
+### N 6.73 First Absorption (1st)  *Paṭhamatajjhānasutta* {#n-6.73-first-absorption-1st-paṭhamatajjhānasutta .unnumbered}
+
+"Mendicants, without giving up these six qualities you can't enter and
+remain in the first absorption. What six? Desire for sensual pleasures,
+ill will, dullness and drowsiness, restlessness and remorse, and doubt.
+And the drawbacks of sensual pleasures have not been truly seen clearly
+with right wisdom. Without giving up these six qualities you can't enter
+and remain in the first absorption.
+
+But after giving up these six qualities you can enter and remain in the
+first absorption. What six? Desire for sensual pleasures, ill will,
+dullness and drowsiness, restlessness and remorse, and doubt. And the
+drawbacks of sensual pleasures have been truly seen clearly with right
+wisdom. After giving up these six qualities you can enter and remain in
+the first absorption."
+
+### N 6.74 First Absorption (2nd)  *Dutiyatajjhānasutta* {#n-6.74-first-absorption-2nd-dutiyatajjhānasutta .unnumbered}
+
+"Mendicants, without giving up these six qualities you can't enter and
+remain in the first absorption. What six? Sensual, malicious, and cruel
+thoughts; and sensual, malicious, and cruel perceptions. Without giving
+up these six qualities you can't enter and remain in the first
+absorption.
+
+But after giving up these six qualities you can enter and remain in the
+first absorption. What six? Sensual, malicious, and cruel thoughts; and
+sensual, malicious, and cruel perceptions. After giving up these six
+qualities you can enter and remain in the first absorption."
+
+## The Chapter on Perfection  {#the-chapter-on-perfection .unnumbered}
+
+### N 6.75 Suffering  *Dukkhasutta* {#n-6.75-suffering-dukkhasutta .unnumbered}
+
+"Mendicants, when a mendicant has six qualities they live unhappily in
+this very life---with distress, anguish, and fever---and when the body
+breaks up, after death, they can expect a bad rebirth. What six?
+Sensual, malicious, and cruel thoughts; and sensual, malicious, and
+cruel perceptions. When a mendicant has these six qualities they live
+unhappily in this very life---with distress, anguish, and fever---and
+when the body breaks up, after death, they can expect a bad rebirth.
+
+When a mendicant has six qualities they live happily in this very
+life---without distress, anguish, or fever---and when the body breaks
+up, after death, they can expect a good rebirth. What six? Thoughts of
+renunciation, good will, and harmlessness. And perceptions of
+renunciation, good will, and harmlessness. When a mendicant has these
+six qualities they live happily in this very life---without distress,
+anguish, or fever---and when the body breaks up, after death, they can
+expect a good rebirth."
+
+### N 6.76 Perfection  *Arahattasutta* {#n-6.76-perfection-arahattasutta .unnumbered}
+
+"Mendicants, without giving up six things you can't realize perfection.
+What six? Conceit, inferiority complex, superiority complex,
+overestimation, obstinacy, and groveling. Without giving up these six
+qualities you can't realize perfection.
+
+After giving up six things you can realize perfection. What six?
+Conceit, inferiority complex, superiority complex, overestimation,
+obstinacy, and groveling. After giving up these six things you can
+realize perfection."
+
+### N 6.77 Superhuman States  *Uttarimanussadhammasutta* {#n-6.77-superhuman-states-uttarimanussadhammasutta .unnumbered}
+
+"Mendicants, without giving up six qualities you can't realize a
+superhuman distinction in knowledge and vision worthy of the noble ones.
+What six? Lack of mindfulness and situational awareness, not guarding
+the sense doors, eating too much, deceit, and flattery. Without giving
+up these six qualities you can't realize a superhuman distinction in
+knowledge and vision worthy of the noble ones.
+
+But after giving up six qualities you can realize a superhuman
+distinction in knowledge and vision worthy of the noble ones. What six?
+Lack of mindfulness and situational awareness, not guarding the sense
+doors, eating too much, deceit, and flattery. After giving up these six
+qualities you can realize a superhuman distinction in knowledge and
+vision worthy of the noble ones."
+
+### N 6.78 Joy and Happiness  *Sukhasomanassasutta* {#n-6.78-joy-and-happiness-sukhasomanassasutta .unnumbered}
+
+"Mendicants, when a mendicant has six things they're full of joy and
+happiness in this very life, and they have laid the groundwork for
+ending the defilements. What six? It's when a mendicant enjoys the
+teaching, meditation, giving up, seclusion, kindness, and
+non-proliferation. When a mendicant has these six things they're full of
+joy and happiness in this very life, and they have laid the groundwork
+for ending the defilements."
+
+### N 6.79 Achievement  *Adhigamasutta* {#n-6.79-achievement-adhigamasutta .unnumbered}
+
+"Mendicants, a mendicant who has six qualities is unable to acquire more
+skillful qualities or to increase the skillful qualities they've already
+acquired. What six? It's when a mendicant is not skilled in progress,
+skilled in regress, or skilled in means. They don't generate enthusiasm
+to achieve skillful qualities not yet achieved. They don't protect
+skillful qualities they have achieved. And they don't try to persevere
+in the task. A mendicant who has these six qualities is unable to
+acquire more skillful qualities or to increase the skillful qualities
+they've already acquired.
+
+A mendicant who has six qualities is able to acquire more skillful
+qualities or to increase the skillful qualities they've already
+acquired. What six? It's when a mendicant is skilled in progress,
+skilled in regress, and skilled in means. They generate enthusiasm to
+achieve skillful qualities not yet achieved. They protect skillful
+qualities they have achieved. And they try to persevere in the task. A
+mendicant who has these six qualities is able to acquire more skillful
+qualities or to increase the skillful qualities they've already
+acquired."
+
+### N 6.80 Greatness  *Mahantattasutta* {#n-6.80-greatness-mahantattasutta .unnumbered}
+
+"Mendicants, a mendicant with six qualities soon acquires great and
+abundant good qualities. What six? It's when a mendicant is full of
+light, full of practice, full of inspiration, and full of eagerness.
+They don't slack off when it comes to developing skillful qualities.
+They reach further. A mendicant who has these six qualities soon
+acquires great and abundant good qualities."
+
+### N 6.81 Hell (1st)  *Paṭhamanirayasutta* {#n-6.81-hell-1st-paṭhamanirayasutta .unnumbered}
+
+"Mendicants, someone with six qualities is cast down to hell. What six?
+They kill living creatures, steal, commit sexual misconduct, and lie.
+And they have corrupt wishes and wrong view. Someone with these six
+qualities is cast down to hell.
+
+Someone with six qualities is raised up to heaven. What six? They don't
+kill living creatures, steal, commit sexual misconduct, or lie. And they
+have few desires and right view. Someone with these six qualities is
+raised up to heaven."
+
+### N 6.82 Hell (2nd)  *Dutiyanirayasutta* {#n-6.82-hell-2nd-dutiyanirayasutta .unnumbered}
+
+"Mendicants, someone with six qualities is cast down to hell. What six?
+They kill living creatures, steal, commit sexual misconduct, and lie.
+And they're greedy and rude. Someone with these six qualities is cast
+down to hell.
+
+Someone with six qualities is raised up to heaven. What six? They don't
+kill living creatures, steal, commit sexual misconduct, or lie. And
+they're not greedy or rude. Someone with these six qualities is raised
+up to heaven."
+
+### N 6.83 The Best Thing  *Aggadhammasutta* {#n-6.83-the-best-thing-aggadhammasutta .unnumbered}
+
+"Mendicants, a mendicant with six qualities can't realize the best
+thing, perfection. What six? It's when a mendicant is faithless,
+shameless, imprudent, lazy, and witless. And they're concerned with
+their body and their life. A mendicant with these six qualities can't
+realize the best thing, perfection.
+
+A mendicant with six qualities can realize the best thing, perfection.
+What six? It's when a mendicant is faithful, conscientious, prudent,
+energetic, and wise. And they have no concern for their body and their
+life. A mendicant with these six qualities can realize the best thing,
+perfection."
+
+### N 6.84 Day and Night  *Rattidivasasutta* {#n-6.84-day-and-night-rattidivasasutta .unnumbered}
+
+"Mendicants, a mendicant with six qualities can expect decline, not
+growth, in skillful qualities, whether by day or by night. What six?
+It's when a mendicant has many desires---they're frustrated and not
+content with any kind of robes, almsfood, lodgings, and medicines and
+supplies for the sick. And they're faithless, unethical, unmindful, and
+witless. A mendicant with these six qualities can expect decline, not
+growth, in skillful qualities, whether by day or by night.
+
+A mendicant with six qualities can expect growth, not decline, in
+skillful qualities, whether by day or by night. What six? It's when a
+mendicant doesn't have many desires---they're not frustrated but content
+with any kind of robes, almsfood, lodgings, and medicines and supplies
+for the sick. And they're faithful, ethical, mindful, and wise. A
+mendicant with these six qualities can expect growth, not decline, in
+skillful qualities, whether by day or by night."
+
+## The Chapter on Coolness  {#the-chapter-on-coolness .unnumbered}
+
+### N 6.85 Coolness  *Sītibhāvasutta* {#n-6.85-coolness-sītibhāvasutta .unnumbered}
+
+"Mendicants, a mendicant with six qualities can't realize supreme
+coolness. What six? It's when a mendicant doesn't keep their mind in
+check when they should. They don't exert their mind when they should.
+They don't encourage the mind when they should. They don't watch over
+the mind with equanimity when they should. They have bad convictions.
+They delight in substantial reality. A mendicant with these six
+qualities can't realize supreme coolness.
+
+A mendicant with six qualities can realize supreme coolness. What six?
+It's when a mendicant keeps their mind in check when they should. They
+exert their mind when they should. They encourage the mind when they
+should. They watch over the mind with equanimity when they should. They
+have excellent convictions. They delight in extinguishment. A mendicant
+with these six qualities can realize supreme coolness."
+
+### N 6.86 Obstacles  *Āvaraṇasutta* {#n-6.86-obstacles-āvaraṇasutta .unnumbered}
+
+"Mendicants, someone with six qualities is unable to enter the sure path
+with regards to skillful qualities even when listening to the true
+teaching. What six? They're obstructed by deeds, defilements, or
+results. And they're faithless, unenthusiastic, and witless. Someone
+with these six qualities is unable to enter the sure path with regards
+to skillful qualities, even when listening to the true teaching.
+
+Someone with six qualities is able to enter the sure path with regards
+to skillful qualities when listening to the true teaching. What six?
+They're not obstructed by deeds, defilements, or results. And they're
+faithful, enthusiastic, and wise. Someone with these six qualities is
+able to enter the sure path with regards to skillful qualities when
+listening to the true teaching."
+
+### N 6.87 A Murderer  *Voropitasutta* {#n-6.87-a-murderer-voropitasutta .unnumbered}
+
+"Mendicants, someone with six qualities is unable to enter the sure path
+with regards to skillful qualities even when listening to the true
+teaching. What six? They murder their mother or father or a perfected
+one. They maliciously shed the blood of a Realized One. They cause a
+schism in the [Saṅgha]{lang="sa"}. They're witless, dull, and idiotic.
+Someone with these six qualities is unable to enter the sure path with
+regards to skillful qualities, even when listening to the true teaching.
+
+Someone with six qualities is able to enter the sure path with regards
+to skillful qualities when listening to the true teaching. What six?
+They don't murder their mother or father or a perfected one. They don't
+maliciously shed the blood of a Realized One. They don't cause a schism
+in the [Saṅgha]{lang="sa"}. They're wise, bright, and clever. Someone
+with these six qualities is able to enter the sure path with regards to
+skillful qualities when listening to the true teaching."
+
+### N 6.88 Wanting to Listen  *Sussūsatisutta* {#n-6.88-wanting-to-listen-sussūsatisutta .unnumbered}
+
+"Mendicants, someone with six qualities is unable to enter the sure path
+with regards to skillful qualities even when listening to the true
+teaching. What six? When the teaching and practice proclaimed by the
+Realized One is being taught they don't want to listen. They don't
+actively listen or try to understand. They learn the incorrect meaning
+and reject the correct meaning. They accept views that contradict the
+teaching. Someone with these six qualities is unable to enter the sure
+path with regards to skillful qualities, even when listening to the true
+teaching.
+
+Someone with six qualities is able to enter the sure path with regards
+to skillful qualities when listening to the true teaching. What six?
+When the teaching and practice proclaimed by the Realized One is being
+taught they want to listen. They actively listen and try to understand.
+They learn the correct meaning and reject the incorrect meaning. They
+accept views that conform with the teaching. Someone with these six
+qualities is able to enter the sure path with regards to skillful
+qualities when listening to the true teaching."
+
+### N 6.89 Not Giving Up  *Appahāyasutta* {#n-6.89-not-giving-up-appahāyasutta .unnumbered}
+
+"Mendicants, without giving up six things you can't become accomplished
+in view. What six? Substantialist view, doubt, misapprehension of
+precepts and observances, and forms of greed, hate, and delusion that
+lead to rebirth in places of loss. Without giving up these six things
+you can't become accomplished in view.
+
+After giving up six things you can become accomplished in view. What
+six? Substantialist view, doubt, misapprehension of precepts and
+observances, and forms of greed, hate, and delusion that lead to rebirth
+in places of loss. After giving up these six things you can become
+accomplished in view."
+
+### N 6.90 Given Up  *Pahīnasutta* {#n-6.90-given-up-pahīnasutta .unnumbered}
+
+"Mendicants, a person accomplished in view has given up these six
+things. What six? Substantialist view, doubt, misapprehension of
+precepts and observances, and forms of greed, hate, and delusion that
+lead to rebirth in places of loss. A person accomplished in view has
+given up these six things."
+
+### N 6.91 Can't Give Rise  *Abhabbasutta* {#n-6.91-cant-give-rise-abhabbasutta .unnumbered}
+
+"Mendicants, a person accomplished in view can't give rise to six
+things. What six? Substantialist view, doubt, misapprehension of
+precepts and observances, and forms of greed, hate, and delusion that
+lead to rebirth in places of loss. A person accomplished in view can't
+give rise to these six things."
+
+### N 6.92 Things That Can't Be Done (1st)  *Paṭhamaabhabbaṭṭhānasutta* {#n-6.92-things-that-cant-be-done-1st-paṭhamaabhabbaṭṭhānasutta .unnumbered}
+
+"Mendicants, these six things can't be done. What six? A person
+accomplished in view can't live disrespectful and irreverent toward the
+Teacher, the teaching, the [Saṅgha]{lang="sa"}, or the training. They
+can't establish their belief on unreliable grounds. And they can't
+generate an eighth rebirth. These are the six things that can't be
+done."
+
+### N 6.93 Things That Can't Be Done (2nd)  *Dutiyaabhabbaṭṭhānasutta* {#n-6.93-things-that-cant-be-done-2nd-dutiyaabhabbaṭṭhānasutta .unnumbered}
+
+"Mendicants, these six things can't be done. What six? A person
+accomplished in view can't take conditions to be permanent. They cannot
+take conditions to be happiness. They cannot take anything to be the
+self. They can't do deeds with fixed result in the next life. They can't
+fall back on purification through boisterous, superstitious rites. They
+can't seek outside of the Buddhist community for those worthy of
+religious donations. These are the six things that can't be done."
+
+### N 6.94 Things That Can't Be Done (3rd)  *Tatiyaabhabbaṭṭhānasutta* {#n-6.94-things-that-cant-be-done-3rd-tatiyaabhabbaṭṭhānasutta .unnumbered}
+
+"Mendicants, these six things can't be done. What six? A person
+accomplished in view can't murder their mother or father or a perfected
+one. They can't maliciously shed the blood of the Realized One. They
+can't cause a schism in the [Saṅgha]{lang="sa"}. They can't dedicate
+themselves to another teacher. These are the six things that can't be
+done."
+
+### N 6.95 Things That Can't Be Done (4th)  *Catutthaabhabbaṭṭhānasutta* {#n-6.95-things-that-cant-be-done-4th-catutthaabhabbaṭṭhānasutta .unnumbered}
+
+"Mendicants, these six things can't be done. What six? A person
+accomplished in view can't fall back on the idea that pleasure and pain
+are made by oneself, or that they're made by another, or that they're
+made by both. Nor can they fall back on the idea that pleasure and pain
+arise by chance, not made by oneself, by another, or by both. Why is
+that? It is because a person accomplished in view has clearly seen
+causes and the phenomena that arise from causes. These are the six
+things that can't be done."
+
+## The Chapter on Benefit  {#the-chapter-on-benefit .unnumbered}
+
+### N 6.96 Appearance  *Pātubhāvasutta* {#n-6.96-appearance-pātubhāvasutta .unnumbered}
+
+"Mendicants, the appearance of six things is rare in the world. What
+six? A Realized One, a perfected one, a fully awakened Buddha. A teacher
+of the teaching and training proclaimed by a Realized One. Rebirth in a
+civilized region. Unimpaired sense faculties. Being bright and clever.
+Enthusiasm for skillful qualities. The appearance of these six things is
+rare in the world."
+
+### N 6.97 Benefit  *Ānisaṁsasutta* {#n-6.97-benefit-ānisaṁsasutta .unnumbered}
+
+"Mendicants, these are the six benefits of realizing the fruit of
+stream-entry. What six? You're bound for the true teaching. You're not
+liable to decline. You suffer only for a limited period. You have
+unshared knowledge. You've clearly seen causes and the phenomena that
+arise from causes. These are the six benefits of realizing the fruit of
+stream-entry."
+
+### N 6.98 Impermanence  *Aniccasutta* {#n-6.98-impermanence-aniccasutta .unnumbered}
+
+"Mendicants, it is quite impossible for a mendicant who regards any
+condition as permanent to accept views that conform with the teaching.
+Without accepting views that conform with the teaching, it's impossible
+to enter the sure path. Without entering the sure path, it's impossible
+to realize the fruit of stream-entry, once-return, non-return, or
+perfection.
+
+It's quite possible for a mendicant who regards all conditions as
+impermanent to accept views that conform with the teaching. Having
+accepted views that conform with the teaching, it's possible to enter
+the sure path. Having entered the sure path, it's possible to realize
+the fruit of stream-entry, once-return, non-return, or perfection."
+
+### N 6.99 Suffering  *Dukkhasutta* {#n-6.99-suffering-dukkhasutta .unnumbered}
+
+"Mendicants, it is quite impossible for a mendicant who regards any
+condition as pleasurable to accept views that agree with the teaching.
+... It's quite possible for a mendicant who regards all conditions as
+suffering to accept views that agree with the teaching. ..."
+
+### N 6.100 Not-Self  *Anattasutta* {#n-6.100-not-self-anattasutta .unnumbered}
+
+"Mendicants, it is quite impossible for a mendicant who regards any
+condition as self to accept views that agree with the teaching. ... It's
+quite possible for a mendicant who regards all things as not-self to
+accept views that agree with the teaching. ..."
+
+### N 6.101 Extinguished  *Nibbānasutta* {#n-6.101-extinguished-nibbānasutta .unnumbered}
+
+"Mendicants, it is quite impossible for a mendicant who regards
+extinguishment as suffering to accept views that conform with the
+teaching. ...
+
+It's quite possible for a mendicant who regards extinguishment as
+pleasurable to accept views that conform with the teaching. ..."
+
+### N 6.102 Transience  *Anavatthitasutta* {#n-6.102-transience-anavatthitasutta .unnumbered}
+
+"Mendicants, seeing six benefits is quite enough to establish the
+perception of impermanence in all conditions without qualification. What
+six? 'All conditions will appear to me as transient.' 'My mind will not
+delight anywhere in the world.' 'My mind will rise above the whole
+world.' 'My mind will incline to extinguishment.' 'My fetters will be
+given up.' 'I will achieve the ultimate goal of the ascetic life.'
+Seeing these six benefits is quite enough to establish the perception of
+impermanence in all conditions without qualification."
+
+### N 6.103 With a Drawn Sword  *Ukkhittāsikasutta* {#n-6.103-with-a-drawn-sword-ukkhittāsikasutta .unnumbered}
+
+"Mendicants, seeing six benefits is quite enough to establish the
+perception of suffering in all conditions without qualification. What
+six? 'Perception of disillusionment will be established in me for all
+conditions, like a killer with a drawn sword.' 'My mind will rise above
+the whole world.' 'I will see extinguishment as peaceful.' 'My
+underlying tendencies will be uprooted.' 'I will fulfill my duty.' 'I
+will have served my Teacher with love.' Seeing these six benefits is
+quite enough to establish the perception of suffering in all conditions
+without qualification."
+
+### N 6.104 Not Determined by Anything  *Atammayasutta* {#n-6.104-not-determined-by-anything-atammayasutta .unnumbered}
+
+"Mendicants, seeing six benefits is quite enough to establish the
+perception of not-self in all things without qualification. What six? 'I
+will not be determined by anything in the world.' 'My I-making will
+stop.' 'My mine-making will stop.' 'I will have unshared knowledge.' 'I
+will clearly see causes and the phenomena that arise from causes.'
+Seeing these six benefits is quite enough to establish the perception of
+not-self in all things without qualification."
+
+### N 6.105 States of Existence  *Bhavasutta* {#n-6.105-states-of-existence-bhavasutta .unnumbered}
+
+"Mendicants, you should give up these three states of existence. And you
+should train in three trainings. What are the three states of existence
+you should give up? Existence in the sensual realm, the realm of
+luminous form, and the formless realm. These are the three states of
+existence you should give up. What are the three trainings you should
+train in? The training in the higher ethics, the higher mind, and the
+higher wisdom. These are the three trainings you should train in. When a
+mendicant has given up these three states of existence and has trained
+in these three trainings they're called a mendicant who has cut off
+craving, untied the fetters, and by rightly comprehending conceit has
+made an end of suffering."
+
+### N 6.106 Craving  *Taṇhāsutta* {#n-6.106-craving-taṇhāsutta .unnumbered}
+
+"Mendicants, you should give up these three cravings and three conceits.
+What three cravings should you give up? Craving for sensual pleasures,
+craving to continue existence, and craving to end existence. These are
+the three cravings you should give up. What three conceits should you
+give up? Conceit, inferiority complex, and superiority complex. These
+are the three conceits you should give up. When a mendicant has given up
+these three cravings and these three conceits they're called a mendicant
+who has cut off craving, untied the fetters, and by rightly
+comprehending conceit has made an end of suffering."
+
+## The Chapter on Triads  {#the-chapter-on-triads .unnumbered}
+
+### N 6.107 Greed  *Rāgasutta* {#n-6.107-greed-rāgasutta .unnumbered}
+
+"Mendicants, there are these three things. What three? Greed, hate, and
+delusion. These are the three things. To give up these three things you
+should develop three things. What three? You should develop the
+perception of ugliness to give up greed, love to give up hate, and
+wisdom to give up delusion. These are the three things you should
+develop to give up those three things."
+
+### N 6.108 Bad Conduct  *Duccaritasutta* {#n-6.108-bad-conduct-duccaritasutta .unnumbered}
+
+"Mendicants, there are these three things. What three? Bad conduct by
+way of body, speech, and mind. These are the three things. To give up
+these three things you should develop three things. What three? You
+should develop good bodily conduct to give up bad bodily conduct, good
+verbal conduct to give up bad verbal conduct, and good mental conduct to
+give up bad mental conduct. These are the three things you should
+develop to give up those three things."
+
+### N 6.109 Thoughts  *Vitakkasutta* {#n-6.109-thoughts-vitakkasutta .unnumbered}
+
+"Mendicants, there are these three things. What three? Sensual,
+malicious, and cruel thoughts. These are the three things. To give up
+these three things you should develop three things. What three? You
+should develop thoughts of renunciation to give up sensual thoughts,
+thoughts of good will to give up malicious thoughts, and thoughts of
+harmlessness to give up cruel thoughts. These are the three things you
+should develop to give up those three things."
+
+### N 6.110 Perceptions  *Saññāsutta* {#n-6.110-perceptions-saññāsutta .unnumbered}
+
+"Mendicants, there are these three things. What three? Sensual,
+malicious, and cruel perceptions. These are the three things. To give up
+these three things you should develop three things. What three? You
+should develop perceptions of renunciation to give up sensual
+perceptions, perceptions of good will to give up malicious perceptions,
+and perceptions of harmlessness to give up cruel perceptions. These are
+the three things you should develop to give up those three things."
+
+### N 6.111 Elements  *Dhātusutta* {#n-6.111-elements-dhātusutta .unnumbered}
+
+"Mendicants, there are these three things. What three? The elements of
+sensuality, malice, and cruelty. These are the three things. To give up
+these three things you should develop three things. What three? You
+should develop the element of renunciation to give up the element of
+sensuality, the element of good will to give up the element of malice,
+and the element of harmlessness to give up the element of cruelty. These
+are the three things you should develop to give up those three things."
+
+### N 6.112 Gratification  *Assādasutta* {#n-6.112-gratification-assādasutta .unnumbered}
+
+"Mendicants, there are these three things. What three? The view that
+things are gratifying, the view of self, and wrong view. These are the
+three things. To give up these three things you should develop three
+things. What three? You should develop the perception of impermanence to
+give up the view that things are gratifying; the perception of not-self
+to give up the view of self; and right view to give up wrong view. These
+are the three things you should develop to give up those three things."
+
+### N 6.113 Discontent  *Aratisutta* {#n-6.113-discontent-aratisutta .unnumbered}
+
+"Mendicants, there are these three things. What three? Discontent,
+cruelty, and unprincipled conduct. These are the three things. To give
+up these three things you should develop three things. What three? You
+should develop rejoicing to give up discontent, harmlessness to give up
+cruelty, and principled conduct to give up unprincipled conduct. These
+are the three things you should develop to give up those three things."
+
+### N 6.114 Contentment  *Santuṭṭhitāsutta* {#n-6.114-contentment-santuṭṭhitāsutta .unnumbered}
+
+"Mendicants, there are these three things. What three? Lack of
+contentment, lack of situational awareness, and having many wishes.
+These are the three things. To give up these three things you should
+develop three things. What three? You should develop contentment to give
+up lack of contentment, situational awareness to give up lack of
+situational awareness, and having few wishes to give up having many
+wishes. These are the three things you should develop to give up those
+three things."
+
+### N 6.115 Hard to Admonish  *Dovacassatāsutta* {#n-6.115-hard-to-admonish-dovacassatāsutta .unnumbered}
+
+"Mendicants, there are these three things. What three? Being hard to
+admonish, bad friendship, and a scattered mind. These are the three
+things. To give up these three things you should develop three things.
+What three? You should develop being easy to admonish to give up being
+hard to admonish, good friendship to give up bad friendship, and
+mindfulness of breathing to give up a scattered mind. These are the
+three things you should develop to give up those three things."
+
+### N 6.116 Restlessness  *Uddhaccasutta* {#n-6.116-restlessness-uddhaccasutta .unnumbered}
+
+"Mendicants, there are these three things. What three? Restlessness,
+lack of restraint, and negligence. These are the three things. To give
+up these three things you should develop three things. What three? You
+should develop serenity to give up restlessness, restraint to give up
+lack of restraint, and diligence to give up negligence. These are the
+three things you should develop to give up those three things."
+
+## The Chapter on the Ascetic Life  {#the-chapter-on-the-ascetic-life .unnumbered}
+
+### N 6.117 Observing the Body  *Kāyānupassīsutta* {#n-6.117-observing-the-body-kāyānupassīsutta .unnumbered}
+
+"Mendicants, without giving up these six qualities you can't meditate
+observing an aspect of the body. What six? Relishing work, talk, sleep,
+and company, not guarding the sense doors, and eating too much. Without
+giving up these six qualities you can't meditate observing an aspect of
+the body.
+
+But after giving up these six qualities you can meditate observing an
+aspect of the body. What six? Relishing work, talk, sleep, and company,
+not guarding the sense doors, and eating too much. After giving up these
+six qualities you can meditate observing an aspect of the body."
+
+### N 6.118 Observing Principles, Etc.  *Dhammānupassīsutta* {#n-6.118-observing-principles-etc.-dhammānupassīsutta .unnumbered}
+
+"Mendicants, without giving up six things you can't meditate observing
+an aspect of the body internally ... body externally ... body internally
+and externally ... feelings internally ... feelings externally ...
+feelings internally and externally ... mind internally ... mind
+externally ... mind internally and externally ... principles internally
+... principles externally ... principles internally and externally. What
+six? Relishing work, talk, sleep, and company, not guarding the sense
+doors, and eating too much. After giving up these six qualities you can
+meditate observing an aspect of principles internally and externally."
+
+### N 6.119 About Tapussa  *Tapussasutta* {#n-6.119-about-tapussa-tapussasutta .unnumbered}
+
+"Mendicants, having six qualities the householder Tapussa is certain
+about the Realized One, sees freedom from death and lives having
+realized freedom from death. What six? Experiential confidence in the
+Buddha, the teaching, and the [Saṅgha]{lang="sa"}, and noble ethics,
+knowledge, and freedom. Having these six qualities the householder
+Tapussa is certain about the Realized One, sees freedom from death and
+lives having realized freedom from death."
+
+### N 6.120--139 About Bhallika, Etc.  *Bhallikādisutta* {#n-6.120139-about-bhallika-etc.-bhallikādisutta .unnumbered}
+
+"Mendicants, having six qualities the householders Bhallika ... Sudatta
+[Anāthapiṇḍika]{lang="sa"} ... Citta of [Macchikāsaṇḍa]{lang="sa"} ...
+Hatthaka of [Āḷavī]{lang="sa"} ... [Mahānāma]{lang="sa"} the Sakyan ...
+Ugga of [Vesālī]{lang="sa"} ... Uggata ... [Sūrambaṭṭha]{lang="sa"} ...
+[Jīvaka]{lang="sa"} [Komārabhacca]{lang="sa"} ... Nakula's father ...
+[Tavakaṇṇika]{lang="sa"} ... [Pūraṇa]{lang="sa"} ... Isidatta ...
+[Sandhāna]{lang="sa"} ... Vijaya ... [Vijayamāhita]{lang="sa"} ...
+[Meṇḍaka]{lang="sa"} ... the lay followers [Vāseṭṭha]{lang="sa"} ...
+[Ariṭṭha]{lang="sa"} ... and [Sāragga]{lang="sa"} are certain about the
+Realized One, see freedom from death and live having realized freedom
+from death. What six? Experiential confidence in the Buddha, the
+teaching, and the [Saṅgha]{lang="sa"}, and noble ethics, knowledge, and
+freedom. Having these six qualities the lay follower
+[Sāragga]{lang="sa"} is certain about the Realized One, sees freedom
+from death and lives having realized freedom from death."
+
+## Abbreviated Texts Beginning With Greed  {#abbreviated-texts-beginning-with-greed-1 .unnumbered}
+
+### N 6.140 Untitled Discourse on Greed (1st)  *\~* {#n-6.140-untitled-discourse-on-greed-1st .unnumbered}
+
+"For insight into greed, six things should be developed. What six? The
+unsurpassable seeing, listening, acquisition, training, service, and
+recollection. For insight into greed, these six things should be
+developed."
+
+### N 6.141 Untitled Discourse on Greed (2nd)  *\~* {#n-6.141-untitled-discourse-on-greed-2nd .unnumbered}
+
+"For insight into greed, six things should be developed. What six? The
+recollection of the Buddha, the teaching, the [Saṅgha]{lang="sa"},
+ethics, generosity, and the deities. For insight into greed, these six
+things should be developed."
+
+### N 6.142 Untitled Discourse on Greed (3rd)  *\~* {#n-6.142-untitled-discourse-on-greed-3rd .unnumbered}
+
+"For insight into greed, six things should be developed. What six? The
+perception of impermanence, the perception of suffering in impermanence,
+the perception of not-self in suffering, the perception of giving up,
+the perception of fading away, and the perception of cessation. For
+insight into greed, these six things should be developed."
+
+### N 6.143--169 Untitled Discourses on Greed, Etc.  *\~* {#n-6.143169-untitled-discourses-on-greed-etc. .unnumbered}
+
+"For the complete understanding of greed ... complete ending ... giving
+up ... ending ... vanishing ... fading away ... cessation ... giving
+away ... letting go of greed these six things should be developed."
+
+### N 6.170--649 Untitled Discourses on Hate, Etc.  *\~* {#n-6.170649-untitled-discourses-on-hate-etc. .unnumbered}
+
+"Of hate ... delusion ... anger ... acrimony ... disdain ... contempt
+... jealousy ... stinginess ... deceitfulness ... deviousness ...
+obstinacy ... aggression ... conceit ... arrogance ... vanity ... for
+insight into negligence ... complete understanding ... complete ending
+... giving up ... ending ... vanishing ... fading away ... cessation ...
+giving away ... letting go of negligence these six things should be
+developed."
+
+That is what the Buddha said. Satisfied, the mendicants approved what
+the Buddha said.
+
+::: Center
+THE BOOK OF THE SIXES IS FINISHED.
+:::
+
+## Colophon {#colophon .unnumbered}
+
+### The Translator {#the-translator .unnumbered}
+
+Bhikkhu Sujato was born as Anthony Aidan Best on 4/11/1966 in Perth,
+Western Australia. He grew up in the pleasant suburbs of Mt Lawley and
+Attadale alongside his sister Nicola, who was the good child. His
+mother, Margaret Lorraine Huntsman née Pinder, said "he'll either be a
+priest or a poet", while his father, Anthony Thomas Best, advised him to
+"never do anything for money". He attended Aquinas College, a Catholic
+school, where he decided to become an atheist. At the University of WA
+he studied philosophy, aiming to learn what he wanted to do with his
+life. Finding that what he wanted to do was play guitar, he dropped out.
+His main band was named Martha's Vineyard, which achieved modest success
+in the indie circuit.
+
+A seemingly random encounter with a roadside joey took him to Thailand,
+where he entered his first meditation retreat at Wat Ram Poeng, Chieng
+Mai in 1992. Feeling the call to the Buddha's path, he took full
+ordination in Wat Pa Nanachat in 1994, where his teachers were Ajahn
+Pasanno and Ajahn Jayasaro. In 1997 he returned to Perth to study with
+Ajahn Brahm at Bodhinyana Monastery.
+
+He spent several years practicing in seclusion in Malaysia and Thailand
+before establishing Santi Forest Monastery in Bundanoon, NSW, in 2003.
+There he was instrumental in supporting the establishment of the
+Theravada bhikkhuni order in Australia and advocating for women's
+rights. He continues to teach in Australia and globally, with a special
+concern for the moral implications of climate change and other forms of
+environmental destruction. He has published a series of books of
+original and groundbreaking research on early Buddhism.
+
+In 2005 he founded SuttaCentral together with Rod Bucknell and John
+Kelly. In 2015, seeing the need for a complete, accurate, plain English
+translation of the Pali texts, he undertook the task, spending nearly
+three years in isolation on the isle of Qi Mei off the coast of the
+nation of Taiwan. He completed the four main [Nikāyas]{lang="sa"} in
+2018, and the early books of the Khuddaka [Nikāya]{lang="sa"} were
+complete by 2021. All this work is dedicated to the public domain and is
+entirely free of copyright encumbrance.
+
+In 2019 he returned to Sydney where he established Lokanta Vihara (The
+Monastery at the End of the World).
+
+### Creation Process {#creation-process .unnumbered}
+
+Primary source was the digital [Mahāsaṅgīti]{lang="sa"} edition of the
+Pali [Tipiṭaka]{lang="sa"}. Translated from the Pali, with reference to
+several English translations, especially those of Bhikkhu Bodhi.
+
+### The Translation {#the-translation .unnumbered}
+
+This translation was part of a project to translate the four Pali
+[Nikāyas]{lang="sa"} with the following aims: plain, approachable
+English; consistent terminology; accurate rendition of the Pali; free of
+copyright. It was made during 2016--2018 while Bhikkhu Sujato was
+staying in Qimei, Taiwan.
+
+### About SuttaCentral {#about-suttacentral .unnumbered}
+
+SuttaCentral publishes early Buddhist texts. Since 2005 we have provided
+root texts in Pali, Chinese, Sanskrit, Tibetan, and other languages,
+parallels between these texts, and translations in many modern
+languages. Building on the work of generations of scholars, we offer our
+contribution freely.
+
+SuttaCentral is driven by volunteer contributions, and in addition we
+employ professional developers. We offer a sponsorship program for high
+quality translations from the original languages. Financial support for
+SuttaCentral is handled by the SuttaCentral Development Trust, a
+charitable trust registered in Australia.
+
+### About Bilara {#about-bilara .unnumbered}
+
+"Bilara" means "cat" in Pali, and it is the name of our Computer
+Assisted Translation (CAT) software. Bilara is a web app that enables
+translators to translate early Buddhist texts into their own language.
+These translations are published on SuttaCentral with the root text and
+translation side by side.
+
+### About SuttaCentral Editions {#about-suttacentral-editions .unnumbered}
+
+The SuttaCentral Editions project makes high quality books from selected
+Bilara translations. These are published in formats including HTML,
+EPUB, PDF, and print.
+
+You are welcome to print any of our Editions.

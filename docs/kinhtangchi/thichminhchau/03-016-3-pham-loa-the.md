@@ -1,6 +1,6 @@
 # XVI. Phẩm Lõa Thể (3)
 
-**163.- Ðịnh**
+### 163.- Ðịnh
 
 − Ðể thắng tri tham ái, này các Tỷ-kheo, ba pháp cần phải tu tập. Thế nào là ba?
 
@@ -17,5 +17,5 @@ thượng mạn... từ bỏ kiêu... từ bỏ phóng dật, ba pháp này, nà
 
 Thế Tôn thuyết giảng như vậy. Các vị Tỷ kheo ấy hoan hỷ tín thọ lời Thế Tôn dạy.
 
-**-ooOoo-**
+### -ooOoo-
 

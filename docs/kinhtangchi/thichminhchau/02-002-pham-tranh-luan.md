@@ -1,6 +1,6 @@
 # II. Phẩm Tranh Luận
 
-**1-10 Các Sức Mạnh**
+### 1-10 Các Sức Mạnh
 
 1.-- Có hai sức mạnh, này các Tỷ-kheo. Thế nào là hai? Sức mạnh tư sát và sức mạnh tu tập. Và này các
 Tỷ-kheo, thế nào là sức mạnh tư sát? Ở đây, này các Tỷ-kheo, có người tư sát như sau: “Với thân làm

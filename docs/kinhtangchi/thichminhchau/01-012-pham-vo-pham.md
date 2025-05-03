@@ -1,6 +1,6 @@
 # XII. Phẩm Vô Phạm
 
-**1-20 Vô Phạm**
+### 1-20 Vô Phạm
 
 1\. - Những Tỷ-kheo nào, này các Tỷ-kheo, nêu rõ không phạm là có phạm, những Tỷ-kheo ấy, này các
 Tỷ-kheo, với sở hành như vậy, đưa lại bất hạnh cho đa số, không an lạc cho đa số, không lợi ích cho đa

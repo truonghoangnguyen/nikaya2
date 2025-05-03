@@ -1,6 +1,6 @@
 # XVII. Phẩm Jànussoni
 
-**(I) (167) Sự Xuất Ly Của Bậc Thánh (1)**
+### (I) (167) Sự Xuất Ly Của Bậc Thánh (1)
 
 <!--pg-->
 1\. (Xem kinh 119, đoạn số 1, từ: Lúc bấy giờ... cho đến Thế Tôn nói như sau).
@@ -23,7 +23,7 @@ Thánh. Thưa Tôn giả Gotama, sự xuất ly của các Bà-la-môn không đ
 ly trong Luật của bậc Thánh. Thật vi diệu thay, Tôn giả Gotama...! Xin Tôn giả Gotama bắt đầu từ nay
 nhận con làm đệ tử cư sĩ. Từ này cho đến mạng chung, con trọn đời quy ngưỡng.
 
-**(II) (168) Sự Xuất Ly Của Bậc Thánh (2)**
+### (II) (168) Sự Xuất Ly Của Bậc Thánh (2)
 
 <!--pg-->
 1\. Này các Tỷ-kheo, Ta sẽ giảng về sự xuất ly của bậc Thánh...
@@ -40,7 +40,7 @@ kiến.
 
 Này các Tỷ-kheo, đây là sự xuất ly của bậc Thánh.
 
-**(III) (169) Sangàrava**
+### (III) (169) Sangàrava
 
 1, Rồi Bà-la-môn Sangàrava đi đến Thế Tôn. Sau khi đến, nói lên với Thế Tôn những lời chào đón hỏi
 thăm... ngồi xuống một bên, Bà-la-môn Sangàrava bạch Thế Tôn:
@@ -78,7 +78,7 @@ _Hoan hỷ không chấp thủ,_
 _Không lậu hoặc sáng chói,_
 _Sống tịch tịnh ở đời._
 
-**(IV) (170) Bờ Bên Này và Bờ Bên Kia**
+### (IV) (170) Bờ Bên Này và Bờ Bên Kia
 
 <!--pg-->
 1\. Này các Tỷ-kheo, Ta sẽ thuyết về bờ bên này và bờ bên kia, hãy nghe... và này các Tỷ-kheo, thế nào
@@ -89,7 +89,7 @@ là bờ bên này, và thế nào là bờ bên kia?
 
 _(Như kinh trước, kể cả bài kệ)._
 
-**(V) (171) Pháp và Phi Pháp (1)**
+### (V) (171) Pháp và Phi Pháp (1)
 
 <!--pg-->
 1\. Phi pháp và phi mục đích, này các Tỷ-kheo, cần phải hiểu biết. Pháp và mục đích cần phải hiểu biết.
@@ -112,7 +112,7 @@ Phi pháp và phi mục đích, này các Tỷ-kheo, cần phải hiểu biết.
 khi biết phi pháp và phi mục đích, sau khi biết pháp và mục đích, pháp như thế nào, mục đích như thế
 nào, như thế ấy, cần phải thực hành. Lời đã nói như vậy, chính duyên này, đã nói như vậy.
 
-**(VI) (172) Pháp và Phi Pháp (2)**
+### (VI) (172) Pháp và Phi Pháp (2)
 
 (Giống như kinh số 115, có hai sự sai khác: Một là trong kinh trước nói đến Tôn giả Ananda, trong kinh
 này nói đến Tôn giả Mahàkaccàna. Hai là trong kinh trước nói đến phi pháp là chỉ cho tà kiến đến tà giải
@@ -120,7 +120,7 @@ thoát, nói đến pháp là chỉ cho chánh kiến đến chánh giải thoá
 cho sát sanh cho đến tham, sân và tà kiến, Nói đến pháp là chỉ cho từ bỏ sát sanh cho đến không tham,
 không sân, chánh kiến).
 
-**(VII) (173) Pháp và Phi Pháp (3)**
+### (VII) (173) Pháp và Phi Pháp (3)
 
 <!--pg-->
 1\. Phi pháp và pháp, này các Tỷ-kheo, cần phải hiểu biết. Phi mục đích và mục đích, cần phải hiểu biết.
@@ -141,7 +141,7 @@ tập, đây là mục đích. Lấy của không cho... tà hạnh trong các d
 cần phải hiểu biết. Sau khi biết phi pháp và pháp, sau khi biết phi mục đích và mục đích, pháp như thế
 nào, mục đích như thế nào, như thế ấy, cần phải thực hành.
 
-**(VIII) (174) Do Tham Sân Si**
+### (VIII) (174) Do Tham Sân Si
 
 <!--pg-->
 1\. Này các Tỷ-kheo, Ta nói sát sanh có ba: do nhân tham, do nhân sân, do nhân si. Này các Tỷ-kheo, Ta
@@ -162,7 +162,7 @@ sanh khởi, si là nhân duyên cho nghiệp sanh khởi, do tham đoạn diệ
 diệt, do si đoạn diệt, là nhân duyên cho nghiệp đoạn diệt, do si đoạn diệt, là nhân duyên cho nghiệp đoạn
 diệt.
 
-**(IX) (175) Thoát Ly**
+### (IX) (175) Thoát Ly
 
 <!--pg-->
 1\. Pháp này, này các Tỷ-kheo, có con đường thoát ly, pháp này không phải không có con đường thoát ly.
@@ -182,7 +182,7 @@ Như vậy, này các Tỷ-kheo, là con đường thoát ly.
 Như vậy, này các Tỷ-kheo, pháp này có con đường thoát ly, pháp này không phải không có con đường
 thoát ly.
 
-**(X) (176) Cunda Người Thợ Rèn**
+### (X) (176) Cunda Người Thợ Rèn
 
 <!--pg-->
 1\. Một thời, Thế Tôn trú ở Pàvà, trong vườn xoài của Cunda, con người thợ rèn. Rồi Cunda, con người
@@ -341,7 +341,7 @@ khác.
 − Thật vi diệu thay, bạch Thế Tôn...! Mong Thế Tôn nhận con làm đệ tử cư sĩ, từ nay cho đến mạng
 chung, con trọn đời quy ngưỡng.
 
-**(XI) (177) Jànussoni**
+### (XI) (177) Jànussoni
 
 <!--pg-->
 1\. Rồi Bà-la-môn Jànussoni đi đến Thế Tôn, sau khi đến, nói lên với Thế Tôn những lời chào đón hỏi

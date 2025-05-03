@@ -1,6 +1,6 @@
 # IV. Ðại Phẩm
 
-**(I) (32) Chín Thứ Ðệ Trú (1)**
+### (I) (32) Chín Thứ Ðệ Trú (1)
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, có chín thứ đệ trú này. Thế nào là chín?
@@ -18,7 +18,7 @@ tưởng xứ. Sau khi vượt qua Phi tưởng phi phi tưởng xứ một các
 
 Này các Tỷ-kheo, đây là chín thứ đệ trú.
 
-**(II) (33) Chín Thứ Ðệ Trú (2)**
+### (II) (33) Chín Thứ Ðệ Trú (2)
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, Ta sẽ thuyết về chín Thiền chứng thứ đệ trú này. Hãy lắng nghe... Này các Tỷkheo, thế nào là chín thứ đệ trú Thiền chứng?
@@ -124,7 +124,7 @@ thay” sẽ đảnh lễ, chắp tay và hậu hạ.
 
 Này các Tỷ-kheo, đây chín là thứ đệ trú Thiền chứng.
 
-**(III) (34) Niết Bàn**
+### (III) (34) Niết Bàn
 
 <!--pg-->
 1\. Như vầy tôi nghe:
@@ -220,7 +220,7 @@ Niết-bàn là lạc.
 thọ tưởng định. Vị ấy, sau khi thấy với trí tuệ, các lậu hoặc được đoạn tận. Với pháp môn này, này chư
 Hiền, cần phải hiểu Niết-bàn là lạc.
 
-**(IV) (35) Con Bò Cái**
+### (IV) (35) Con Bò Cái
 
 <!--pg-->
 1\. - Ví như, này các Tỷ-kheo, một con bò cái sống ở rừng núi, ngu si, không thông minh, không biết
@@ -297,7 +297,7 @@ Thiên nhãn thuần tịnh siêu nhân... “Ta có thể rõ biết các loài
 tận các lậu hoặc... sau khi chứng ngộ, chứng đạt, vị ấy an trú. Tại đấy, tại đấy, vị ấy có khả năng chứng
 đạt được, dầu thuộc loại xứ nào.
 
-**(V) (36) Thiền**
+### (V) (36) Thiền
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, Ta nói rằng: “Y chỉ nơi sơ Thiền, các lậu hoặc được diệt tận”. Này các Tỷ-kheo,
@@ -392,7 +392,7 @@ các Tỷ-kheo, các xứ này, như Phi tưởng phi phi tưởng Thiền chứ
 Tỷ-kheo Thiền quán, khéo léo chứng nhập, khéo léo khởi xuất thiền chứng. Ta nói rằng : “Sau khi
 chứng nhập và khởi xuất, các xứ ấy cần phải được chơn chánh làm cho biết rõ”.
 
-**(VI) (37) Tôn Giả Ananda**
+### (VI) (37) Tôn Giả Ananda
 
 <!--pg-->
 1\. Như vầy tôi nghe:
@@ -453,7 +453,7 @@ Thiền định này được chánh trí là quả”.
 
 Thế Tôn nói như vậy, này Hiền giả, vị ấy có những tưởng như vậy, nhưng không cảm thọ xứ ấy.
 
-**(VII) (38) Các Bà-La-Môn**
+### (VII) (38) Các Bà-La-Môn
 
 <!--pg-->
 1\. Rồi hai vị Thuận thế Bà-la-môn đi đến Thế Tôn, sau khi đến, nói lên với Thế Tôn những lời chào đón
@@ -541,7 +541,7 @@ an trú Diệt thọ tưởng định, thời sau khi thấy với trí tuệ, c
 đây gọi là Tỷ-kheo sau khi đến tận cùng thế giới, trú trong tận cùng thế giới. Vị này đã vượt khỏi sự
 triền phược của thế giới.
 
-**(VIII) (39) Chư Thiên**
+### (VIII) (39) Chư Thiên
 
 <!--pg-->
 1\. - Thuở xưa, này các Tỷ-kheo, có trận chiến kịch liệt giữa chư Thiên và các loài Asurà. Trong trận
@@ -612,7 +612,7 @@ hoặc được đoạn tận. Này các Tỷ-kheo, như vậy gọi là Tỷ-kh
 của Màra, không còn dấu tích, khiến Ác ma không thấy đường đi lối về. Vị ấy đã vượt qua triền phược ở
 đời.
 
-**( IX) (40) Con Voi Lớn**
+### ( IX) (40) Con Voi Lớn
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, khi nào các con voi, các con voi cái, các con voi trẻ, các con voi con đi đến trước,
@@ -666,7 +666,7 @@ và an trú Phi tưởng phi phi tưởng xứ... sau khi vượt qua Phi tưở
 vị ấy chứng đạt và an trú Diệt thọ tưởng định, sau khi thấy với trí tuệ, các lậu hoặc được đoạn tận, vị ấy
 hoan hỷ vì đã đối trị được cơn ngứa.
 
-**(X) (41) Tapussa**
+### (X) (41) Tapussa
 
 <!--pg-->
 1\. Như vầy tôi nghe:

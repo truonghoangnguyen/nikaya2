@@ -1,6 +1,6 @@
 # XVII. Phẩm Chủng Tử
 
-**1-10. Tà Kiến v.v...**
+### 1-10. Tà Kiến v.v...
 
 1\. Ta không thấy một pháp nào khác, này các Tỷ-kheo, do pháp ấy, các pháp bất thiện chưa sanh được
 sanh khởi, và các pháp bất thiện đã sanh đi đến tăng trưởng, quảng đại, này các Tỷ-kheo, như tà kiến.

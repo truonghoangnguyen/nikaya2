@@ -1,6 +1,6 @@
 # I. Phẩm Sắc
 
-**1-10 Nữ Sắc v.v...**
+### 1-10 Nữ Sắc v.v...
 
 <!--pg-->
 1\. Tôi nghe như vầy.:

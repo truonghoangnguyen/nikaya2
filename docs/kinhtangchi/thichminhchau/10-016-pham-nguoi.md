@@ -1,6 +1,6 @@
 # XVI. Phẩm Người
 
-**(I) (155) Không Nên Thân Cận**
+### (I) (155) Không Nên Thân Cận
 
 <!--pg-->
 1\. Người thành tựu mười pháp này, này các Tỷ-kheo, là người không nên thân cận. Thế nào là mười?
@@ -18,7 +18,7 @@ Người thành tựu mười pháp này, này các Tỷ-kheo, là người khô
 
 Người thành tựu mười pháp này, này các Tỷ-kheo, là người nên thân cận.
 
-**(II) (156-166) Những Người Sai Khác**
+### (II) (156-166) Những Người Sai Khác
 
 <!--pg-->
 1\. Thành tựu với mười pháp này, này các Tỷ-kheo, một không nên giao thiệp... nên giao thiệp... không

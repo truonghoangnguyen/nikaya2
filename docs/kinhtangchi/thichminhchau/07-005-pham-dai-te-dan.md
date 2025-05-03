@@ -1,6 +1,6 @@
 # V. Phẩm Ðại Tế Ðàn
 
-**(I) (41) Thức Trú**
+### (I) (41) Thức Trú
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, có bảy thức trú này. Thế nào là bảy?
@@ -36,7 +36,7 @@ rằng: “Không có vật gì”. Ðây là thức trú thứ bảy.
 
 Này các Tỷ-kheo, có bảy thức trú này.
 
-**(II) (42) Tư Lương Cho Ðịnh**
+### (II) (42) Tư Lương Cho Ðịnh
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, có bảy tư lương này của định. Thế nào là bảy?
@@ -46,7 +46,7 @@ Này các Tỷ-kheo, có bảy thức trú này.
 Nhất tâm, này các Tỷ-kheo, được bảy chi phần này làn tư lương; đây được gọi là Thánh chánh định, này
 các Tỷ-kheo, với các sở ý, với các tư lương.
 
-**(III) (43) Lửa (1)**
+### (III) (43) Lửa (1)
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, có bảy loại lửa này. Thế nào là bảy?
@@ -56,7 +56,7 @@ các Tỷ-kheo, với các sở ý, với các tư lương.
 củi.
 
 Này các Tỷ-kheo, có bảy loại lửa này.
-**(IV) (44) Lửa (2)**
+### (IV) (44) Lửa (2)
 
 <!--pg-->
 1\. Một thời, Thế Tôn trú ở Sàvatthì, tại Jetavana, khu vườn của ông Anàthapindika. Lúc bấy giờ, một tế
@@ -204,7 +204,7 @@ chúng sống; con sẽ thả năm trăm con nghé cái và cho chúng sống; c
 chúng sống; con sẽ thả năm trăm con cừu và cho chúng sống. Hãy để chúng ăn cỏ xanh; hãy để chúng
 uống nước mát; hãy để gió thổi chúng mát.
 
-**(V) (45) Tưởng (1)**
+### (V) (45) Tưởng (1)
 
 <!--pg-->
 1\. - Có bảy tưởng này, này các Tỷ-kheo, được tu tập, được làm cho sung mãn, có quả lớn, có lợi ích lớn,
@@ -217,7 +217,7 @@ thế giới, tưởng vô thường, tưởng khổ trong vô thường, tưở
 Bảy tưởng này, này các Tỷ-kheo, được tu tập, được làm cho sung mãn, có quả lớn, có lợi ích lớn, thể
 nhập vào bất tử, lấy bất tử làm cứu cánh.
 
-**(VI) (46) Tướng (2)**
+### (VI) (46) Tướng (2)
 
 <!--pg-->
 1\. - Có bảy tưởng này, này các Tỷ-kheo, được tu tập, được làm cho sung mãn, có quả lớn, có lợi ích lớn,
@@ -331,7 +331,7 @@ vậy.
 Bảy tưởng này, này các Tỷ-kheo, được tu tập, được làm cho viên mãn, có quả lớn, có lợi ích lớn, thể
 nhập vào bất tử, lấy bất tử làm cứu cánh.
 
-**(VII) (47) Dâm Dục**
+### (VII) (47) Dâm Dục
 
 <!--pg-->
 1\. Bấy giờ có Bà-la-môn Jànussoni đi đến Thế Tôn, sau khi đến nói lên với Thế Tôn những lời chào đón
@@ -387,7 +387,7 @@ cùng. Nay không còn tái sanh nữa”.
 − Thật vi diệu thay, bạch Thế Tôn!... Mong Tôn giả Gotama nhận con làm đệ tử cư sĩ, từ này cho đến
 mạng chung, con trọn đời quy ngưỡng.
 
-**(VIII) (48) Hệ Lụy**
+### (VIII) (48) Hệ Lụy
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, Ta sẽ thuyết cho các Thầy pháp môn về hệ lụy, và ly hệ lụy, hãy lắng nghe... Và
@@ -434,7 +434,7 @@ Tỷ-kheo, là không hệ lụy.
 
 Này các Tỷ-kheo, đây là pháp môn hệ lụy và ly hệ lụy.
 
-**(IX) (49) Bố Thí**
+### (IX) (49) Bố Thí
 
 <!--pg-->
 1\. Một thời, Thế Tôn ở Campà, trên bờ hồ Gaggara. Bấy giờ có nhiều cư sĩ ở Campà đi đến Tôn giả
@@ -520,7 +520,7 @@ Này Sàriputta, đây là nhân, đây là duyên, khiến cho ở đây, một
 quả lớn, không được lợi ích lớn. Này Sàriputta, nhưng đây cũng là nhân, là duyên khiến cho ở đây, có
 hạng người bố thí như vậy, được quả lớn, được lợi ích lớn.
 
-**(X) (50) Mẹ Của Nanda**
+### (X) (50) Mẹ Của Nanda
 
 <!--pg-->
 1\. Như vầy tôi nghe:

@@ -1,6 +1,6 @@
 # XII. Phẩm Ði Xuống
 
-**(I) (113) Phi Pháp**
+### (I) (113) Phi Pháp
 
 <!--pg-->
 1\. Phi pháp và phi mục đích này, này các Tỷ-kheo, cần phải hiểu biết; pháp và mục đích cần phải hiểu
@@ -25,7 +25,7 @@ biết. Sau khi hiểu biết phi pháp và phi mục đích sau khi hiểu bi�
 mục đích như thế nào, như thế ấy, cần phải thực hành. Ðược nói đến như vậy là do duyên này được nói
 đến.
 
-**(II) (114) Không Phải Mục Ðích**
+### (II) (114) Không Phải Mục Ðích
 
 <!--pg-->
 1\. Phi pháp và pháp, này các Tỷ-kheo, cần phải hiểu biết, phi mục đích và mục đích cần phải hiểu biết.
@@ -63,7 +63,7 @@ mục đích. Và những thiện pháp do duyên chánh giải thoát đi đế
 Sau khi biết phi pháp và pháp, sau khi biết phi mục đích và mục đích, pháp như thế nào, mục đích như
 thế nào, như thế ấy cần phải thực hành. Ðược nói như vậy, do duyên này được nói đến như vậy.
 
-**(III) (115) Phi Pháp**
+### (III) (115) Phi Pháp
 
 <!--pg-->
 1\. Phi pháp và pháp, này các Tỷ-kheo, cần phải hiểu biết; phi mục đích và mục đích cần phải hiểu biết.
@@ -181,7 +181,7 @@ này, với những chữ như thế này, với những câu văn như thế n�
 các Tỷ-kheo, nếu các Thầy đến hỏi Ta về ý nghĩa này, Ta cũng trả lời như vậy, như đã được Ananda trả
 lời. Ðây là ý nghĩa của lời ấy, hãy như vậy thọ trì.
 
-**(IV) (116) Ajita**
+### (IV) (116) Ajita
 
 <!--pg-->
 1\. Bấy giờ có du sĩ Ajita đi đến Thế Tôn, sau khi đến, nói lên với Thế Tôn những lời chào đón hỏi thăm,
@@ -242,7 +242,7 @@ tu tập, đây là mục đích.
 Phi pháp và pháp, này các Tỷ-kheo, cần phải hiểu biết. Phi mục đích và mục đích, cần phải hiểu biết.
 Sau khi biết phi pháp và pháp, sau khi biết phi mục đích và mục đích, pháp như thế nào, mục đích như
 thế nào, như thế ấy, cần phải thực hành. Ðược noí đến như vậy, do duyên này được nói đến như vậy.
-**(V) (117) Sangàrava**
+### (V) (117) Sangàrava
 
 <!--pg-->
 1\. Bấy giờ có Bà-la-môn Sangàrava đi đến Thế Tôn, sau khi đến, nói với Thế Tôn những lời chào đón
@@ -282,7 +282,7 @@ _Hoan hỷ không chấp thủ,_
 _Không lậu hoặc sáng chói,_
 _Sống tịch tịnh ở đời._
 
-**(VI) (118) Bờ Bên Này Và Bờ Bên Kia**
+### (VI) (118) Bờ Bên Này Và Bờ Bên Kia
 
 − Và này các Tỷ-kheo, Ta sẽ giảng bờ bên này và bờ bên kia. Hãy nghe và khéo tác ý, Ta sẽ nói.
 
@@ -318,7 +318,7 @@ _Hoan hỷ không chấp thủ,_
 _Không lậu hoặc sáng chói,_
 _Sống tịch tịnh ở đời._
 
-**(VII) (119) Sự Xuất Ly của Bậc Thánh (1)**
+### (VII) (119) Sự Xuất Ly của Bậc Thánh (1)
 
 <!--pg-->
 1\. Lúc bấy giờ, Bà-la-môn Jànussoni, nhân ngày trai giới Uposatha, sau khi gội đầu và mặc đôi áo lụa
@@ -366,7 +366,7 @@ của bậc Thánh. Thưa Tôn giả Gotama, sự xuất ly của các Bà-la-m�
 sáu, so với sự xuất ly trong Luật bậc Thánh. Thật vi diệu thay, thưa Tôn giả Gotama! ... Mong Tôn giả
 Gotama bắt đầu từ nay nhận con làm đệ tử cư sĩ, từ nay cho đến mạng chung con xin quy ngưỡng.
 
-**(VIII) (120) Sự Xuất Ly Của Bậc Thánh (2)**
+### (VIII) (120) Sự Xuất Ly Của Bậc Thánh (2)
 
 <!--pg-->
 1\. Này các Tỷ-kheo, Ta sẽ thuyết cho các Thầy về sự xuất ly của bậc Thánh. Hãy nghe... và này các Tỷkheo, thế nào là sự xuất ly của bậc Thánh?
@@ -380,7 +380,7 @@ thoát.
 
 Này các Tỷ-kheo, đây gọi là sự xuất ly của bậc Thánh.
 
-**(IX) (121) Ðiềm Báo Trước**
+### (IX) (121) Ðiềm Báo Trước
 
 <!--pg-->
 1\. Khi mặt trời mọc, này các Tỷ-kheo, cái này đi trước, cái này là tướng báo trước, tức là rạng đông.
@@ -393,7 +393,7 @@ có chánh nghiệp. Từ chánh nghiệp, có chánh mạng. Từ chánh mạng
 tấn, có chánh niệm. Từ chánh niệm, có chánh định. Từ chánh định, có chánh trí. Từ chánh trí, có chánh
 giải thoát.
 
-**(X) (122) Các Lậu Hoặc**
+### (X) (122) Các Lậu Hoặc
 
 <!--pg-->
 1\. Có mười pháp này, này các Tỷ-kheo, được tu tập, được làm cho sung mãn, đưa đến các lậu hoặc được

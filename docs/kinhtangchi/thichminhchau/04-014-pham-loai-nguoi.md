@@ -1,6 +1,6 @@
 # XIV. Phẩm Loài Người
 
-**(I) (131) Kiết Sử**
+### (I) (131) Kiết Sử
 
 1\. Này các Tỷ-kheo, có bốn hạng người này có mặt, hiện hữu ở đời. Thế nào là bốn?
 
@@ -43,7 +43,7 @@ kiết sử khiến được sanh được đoạn tận, các kiết sử khi�
 Có bốn hạng người này, này các Tỷ-kheo, có mặt, hiện hữu ở đời.
 
 <!--pg-->
-**(II) (123) Trả Lời**
+### (II) (123) Trả Lời
 
 1\. Này các Tỷ-kheo, có bốn hạng người này có mặt, hiện hữu ở đời. Thế nào là bốn?
 
@@ -53,7 +53,7 @@ tự tại; trả lời không tương ứng và trả lời không tự tại.
 Có bốn hạng người này, này các Tỷ-kheo, có mặt, hiện hữu ở đời.
 
 <!--pg-->
-**(III) (133) Lanh Trí**
+### (III) (133) Lanh Trí
 
 1\. Có bốn hạng người này, này các Tỷ-kheo, có mặt, hiện hữu ở đời. Thế nào là bốn?
 
@@ -62,7 +62,7 @@ nghĩa.
 
 Có bốn hạng người này, này các Tỷ-kheo, có mặt, hiện hữu ở đời.
 <!--pg-->
-**(IV) (134) Nỗ Lực**
+### (IV) (134) Nỗ Lực
 
 − Có bốn hạng người này, này các Tỷ-kheo, có mặt, hiện hữu ở đời. Thế nào là bốn?
 
@@ -73,7 +73,7 @@ Sống không nhờ kết quả của nỗ lực và sống không nhờ kết q
 Có bốn hạng người này, này các Tỷ-kheo, có mặt, hiện hữu ở đời.
 
 <!--pg-->
-**(V) (135) Có Tội**
+### (V) (135) Có Tội
 
 1\. - Có bốn hạng người này, này các Tỷ-kheo, có mặt, hiện hữu ở đời. Thế nào là bốn?
 
@@ -105,7 +105,7 @@ không có tội.
 Có bốn hạng người này, này các Tỷ-kheo, có mặt, hiện hữu ở đời.
 
 <!--pg-->
-**(VI) (136) Có Giới (1)**
+### (VI) (136) Có Giới (1)
 
 1\. - Có bốn hạng người này, này các Tỷ-kheo, có mặt, hiện hữu ở đời. Thế nào là bốn?
 
@@ -116,7 +116,7 @@ các Tỷ-kheo, có hạng người đầy đủ về giới, đầy đủ về 
 Có bốn hạng người này, này các Tỷ-kheo, có mặt, hiện hữu ở đời.
 
 <!--pg-->
-**(VII) (137) Có Giới (2)**
+### (VII) (137) Có Giới (2)
 
 1\. - Có bốn hạng người này, này các Tỷ-kheo, có mặt, hiện hữu ở đời. Thế nào là bốn?
 
@@ -131,7 +131,7 @@ là tốt thượng, kính trọng định, xem định là tốt thượng, kí
 Có bốn hạng người này, này các Tỷ-kheo, có mặt, hiện hữu ở đời.
 
 <!--pg-->
-**(VIII) (138) Viễn Ly**
+### (VIII) (138) Viễn Ly
 
 1\. - Có bốn hạng người này, này các Tỷ-kheo, có mặt, hiện hữu ở đời. Thế nào là bốn?
 
@@ -165,7 +165,7 @@ hạng người thân viễn ly và tâm viễn ly.
 Có bốn hạng người này, này các Tỷ-kheo, có mặt, hiện hữu ở đời.
 
 <!--pg-->
-**(IX) (139) Thuyết Pháp**
+### (IX) (139) Thuyết Pháp
 1\. - Có bốn hạng người thuyết pháp này, này các Tỷ-kheo. Thế nào là bốn?
 
 Ở đây, này các Tỷ-kheo, có hạng người thuyết pháp, ít nói và không liên hệ đến vấn đề; và hội chúng
@@ -187,7 +187,7 @@ vị ấy được xem là hạng người thuyết pháp cho một hội chúng
 Này các Tỷ-kheo, có bốn hạng người thuyết pháp này.
 
 <!--pg-->
-**(X) (140) Hạng Thuyết Trình**
+### (X) (140) Hạng Thuyết Trình
 
 − Này các Tỷ-kheo, có bốn hạng thuyết trình này. Thế nào là bốn?
 

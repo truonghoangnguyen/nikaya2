@@ -1,6 +1,6 @@
 # III. Phẩm Người
 
-**21.- Chứng Thực Với Thân**
+### 21.- Chứng Thực Với Thân
 
 Như vầy tôi nghe. Một thời Thế Tôn trú ở Savatthi, tại Jetanava, vườn ông Anàthapindika. Rồi Tôn giả Savittha, Tôn giả
 Mahàkotthita đi đến Tôn giả Sàriputta; sau khi đến nói lên với Tôn giả những lời chào đón hỏi thăm ...
@@ -69,7 +69,7 @@ người thân chứng này là hạng người Nhất Lai hay Bất Lai.
 diệu hơn trong ba hạng người kia?
 
 <!--pg-->
-**22.- Người Bệnh**
+### 22.- Người Bệnh
 
 − Có mặt ba hạng người bệnh này, này các Tỷ-kheo, có mặt, xuất hiện ở đời. Thế nào là ba?
 
@@ -118,7 +118,7 @@ nhận, và chính do duyên hạng người này, này các Tỷ-kheo, pháp đ
 Ba hạng người này, này các Tỷ-kheo, có mặt, xuất hiện ở đời được ví dụ với ba hạng người bệnh.
 
 <!--pg-->
-**23.- Chất Chứa.**
+### 23.- Chất Chứa.
 
 − Có ba hạng người này, này các Tỷ-kheo, có mặt, xuất hiện ở đời. Thế nào là ba?
 
@@ -145,7 +145,7 @@ và một loại sanh trong đọa xứ.
 Ba hạng người này, này các Tỷ-kheo, có mặt, xuất hiện ở đời.
 
 <!--pg-->
-**24.- Nhiều Lợi Ích**
+### 24.- Nhiều Lợi Ích
 
 − Có ba hạng người này, này các Tỷ-kheo, làm nhiều lợi ích cho người khác. Thế nào là ba?
 
@@ -166,7 +166,7 @@ khéo trả ơn cho ba hạng người kia, như đảnh lễ, đứng dậy, ch
 dụng như y, đồ ăn khất thực, sàng tọa, thuốc trị bệnh ...
 
 <!--pg-->
-**25.- Vết Thương Làm Mủ**
+### 25.- Vết Thương Làm Mủ
 
 − Có ba hạng người này, này các Tỷ-kheo, có mặt, xuất hiện ở đời. Thế nào là ba? Hạng người với tâm
 ví dụ như vết thương, với tâm ví dụ như chớp sáng, với tâm ví dụ như kim cang.
@@ -190,7 +190,7 @@ ví dụ như kim cang.
 Ba hạng người này, này các Tỷ-kheo, có mặt, xuất hiện ở đời.
 
 <!--pg-->
-**26.- Cần Phải Thân Cận**
+### 26.- Cần Phải Thân Cận
 
 − Có ba hạng người này, này các Tỷ-kheo, có mặt, xuất hiện ở đời. Thế nào là ba? Có hạng người này,
 này các Tỷ-kheo, không nên gần gũi, không nên sống chung, không nên hầu hạ cúng dường. Có hạng
@@ -232,7 +232,7 @@ _Do vậy hãy sống chung_\
 _Bậc ưu thắng hơn mình_
 
 <!--pg-->
-**27.- Ðáng Ghê Tởm**
+### 27.- Ðáng Ghê Tởm
 
 − Có ba hạng người này, này các Tỷ-kheo, có mặt, xuất hiện ở đời. Thế nào là ba? Có hạng người đáng
 ghê tởm, không cần phải gần gũi, không cần phải sống chung, không cần phải hầu hạ cúng dường. Có
@@ -287,7 +287,7 @@ _Do vậy hãy sống chung_\
 _Bậc ưu thắng hơn mình_
 
 <!--pg-->
-**28.- Nói Như Hoa**
+### 28.- Nói Như Hoa
 
 − Có ba hạng người này, này các Tỷ-kheo, có mặt, xuất hiện ở đời. Thế nào là ba? Hạng người nói như
 phân, hạng người nói như hoa, hạng người nói như mật.
@@ -315,7 +315,7 @@ ngữ, từ bỏ lời nói ác ngữ. Lời nói của người ấy không h�
 Ba hạng người này, này các Tỷ-kheo, có mặt, xuất hiện ở đời.
 
 <!--pg-->
-**29.- Mù Lòa**
+### 29.- Mù Lòa
 
 − Ba hạng người này, này các Tỷ-kheo, có mặt, xuất hiện ở đời. Thế nào là ba? Người mù, người một
 mắt, người có hai mắt.
@@ -372,7 +372,7 @@ _Thân cận bậc hai mắt_\
 _Bậc tối thắng trượng phu!_
 
 <!--pg-->
-**30.- Lộn Ngược**
+### 30.- Lộn Ngược
 
 − Ba hạng người này, này các Tỷ-kheo, có mặt, xuất hiện ở đời. Thế nào là ba? Hạng người với trí tuệ
 lộn ngược, hạng người với trí tuệ bắp vế, hạng người với trí tuệ rộng lớn.

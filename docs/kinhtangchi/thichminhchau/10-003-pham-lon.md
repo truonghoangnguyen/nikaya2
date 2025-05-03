@@ -1,5 +1,5 @@
 # III. Phẩm Lớn
-**(I) (21) Con Sư Tử**
+### (I) (21) Con Sư Tử
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, con sư tử, vua các loài thú, vào buổi chiều, từ hang đi ra. Sau khi từ hang đi ra, nó
@@ -74,7 +74,7 @@ vương, rống tiếng rống con sư tử trong các hội chúng và chuyển
 Này các Tỷ-kheo, đây là những Như lai lực của Như lai, chính nhờ thành tựu những lực này, Như lai tự
 nhận cho mình địa vị Ngưu vương, rống tiếng rống con sư tử giữa các hội chúng và chuyển Phạm luân.
 
-**(II) (22) Những Tuyên Bố về Pháp**
+### (II) (22) Những Tuyên Bố về Pháp
 
 <!--pg-->
 1\. Bây giờ có Tôn giả Ananda đi đến Thế Tôn, sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên.
@@ -144,7 +144,7 @@ tiếng rống con sư tử trong các hội chúng và chuyển Phạm luân.
 − Này Ananda, đây là những Như Lai lực của Như Lai, chính nhờ thành tựu những lực này, Như Lai tự
 nhận cho mình địa vị Ngưu vương, rống tiếng rống con sư tử giữa các hội chúng và chuyển Phạm luân.
 
-**(III) (23) Với Thân**
+### (III) (23) Với Thân
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, có những pháp cần phải tận với thân, không phải với lời. Này các Tỷ-kheo, có
@@ -237,7 +237,7 @@ Tôn giả này rõ biết như thế nào để sân không có mặt... si... 
 xan tham... ác tật đố... ác dục không có mặt. Như vậy, ác dục không có chinh phục vị Tôn giả này và
 không phát triển.”
 
-**(IV) (24) Maha Cunda**
+### (IV) (24) Maha Cunda
 
 <!--pg-->
 1\. Một thời, Tôn giả Mahàcunda trú giữa dân chúng Cetì tại Sahajàti. Tại đấy, tôn giả Mahàcunda gọi
@@ -335,7 +335,7 @@ mặt. Như vậy tham không chinh phục vị này và tồn tại. Vị Tôn 
 có mặt... si... phẫn nộ... hiềm hận... gièm pha... não hại... xan tham... ác tật đố... ác dục không có mặt.
 Như vậy ác dục không chinh phục vị Tôn giả này và tồn tại”.
 
-**(V) (25) Thiền Án Xứ**
+### (V) (25) Thiền Án Xứ
 <!--pg-->
 1\. - Này các Tỷ-kheo, có mười Thiền xứ này. Thế nào là mười?
 
@@ -348,7 +348,7 @@ thức, phía trên, phía dưới, bề ngang, không hai, vô lượng.
 
 Này các Tỷ-kheo, có mười Thiền án cứ này.
 
-**(VI) (26) Kalì**
+### (VI) (26) Kalì
 
 <!--pg-->
 1\. Một thời, Tôn giả Mahàkaccàna trú giữa dân chúng Avanti, ở Kuraraghara, tại một vực núi cao. Bấy
@@ -401,7 +401,7 @@ _Không phải việc Ta làm.”_
 
 Này Nữ cư sĩ, Lời vắn tắt này của Thế Tôn cần phải được thấy ý nghĩa một cách rộng rãi như vậy.
 
-**(VII) (27) Những Câu Hỏi Lớn (1)**
+### (VII) (27) Những Câu Hỏi Lớn (1)
 
 <!--pg-->
 1\. Một thời, Thế Tôn trú ở Sàvatthi, tại Jetavana, ở khu vườn ông Anàthàpindika.Bấy giờ có rất nhiều
@@ -587,7 +587,7 @@ hiện tại, là người chấm dứt khổ đau.
 Mười câu hỏi, mười câu tuyên bố, mười câu trả lời, được nói lên như vậy. Do duyên này, được nói đến
 như vậy.
 
-**(VIII) (28) Những Câu Hỏi Lớn (2)**
+### (VIII) (28) Những Câu Hỏi Lớn (2)
 
 <!--pg-->
 1\. Một thời, Thế Tôn trú ở Kajangalà, tại Trúc Lâm. Bấy giờ có rất nhiều nam cư sĩ ở Kajangalà đi đến
@@ -692,7 +692,7 @@ nghĩa này, Ta cũng trả lời như vậy, như Tỷ-kheo-ni ở Kajangalà �
 
 Ðây là ý nghĩa của lời nói ấy, hãy như vậy thọ trì.
 
-**(IX) (29) Người Kosalà**
+### (IX) (29) Người Kosalà
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, xa trông như thế nào là nước Kàsi Kosalà, xa rộng như thế nào, là sự trị vì của vua
@@ -851,7 +851,7 @@ liễu tri các thọ”.
 17\. Và này các Tỷ-kheo, ta tuyên bố sự liễu tri các dục, Ta tuyên bố sự liễu tri các sắc, ta tuyên bố sự
 liễu tri các thọ, Ta tuyên ngay trong hiện tại sự vô dục, tịch diệt, thanh lương không chấp thủ, Bát-niếtbàn.
 
-**(X) (30) Kosalà (2)**
+### (X) (30) Kosalà (2)
 
 <!--pg-->
 1\. Một thời, Thế Tôn trú ở Sàvatthi, Jetavana, tại khu vườn của ông Anàthapindika. Lúc bấy giờ, vua

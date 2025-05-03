@@ -1,6 +1,6 @@
 # XII. Phẩm Ðọa Xứ
 
-**111.- Rơi Vào Ðọa Xứ**
+### 111.- Rơi Vào Ðọa Xứ
 
 − Này các Tỷ-kheo, ba hạng người này rơi vào đọa xứ, rơi vào địa ngục, trừ phi họ đoạn bỏ pháp này.
 Thế nào là ba?
@@ -12,7 +12,7 @@ người này, này các Tỷ-kheo, là ba hạng người rơi vào trong đọ
 pháp này.
 
 <!--pg-->
-**112.- Khó Tìm Ðược**
+### 112.- Khó Tìm Ðược
 
 − Sự xuất hiện của ba hạng người này, này các Tỷ-kheo, khó tìm được ở đời. Thế nào là ba?
 
@@ -23,7 +23,7 @@ biết ơn, khó tìm được ở đời.
 Sự xuất hiện của ba hạng người này, này các Tỷ-kheo, khó tìm được ở đời.
 
 <!--pg-->
-**113. Không Thể Ước Lượng**
+### 113. Không Thể Ước Lượng
 
 − Có ba hạng người này, này các Tỷ-kheo, có mặt, xuất hiện ở đời. Thế nào là ba? Dễ ước lượng, khó
 ước lượng và không thể ước lượng.
@@ -47,7 +47,7 @@ gọi là hạng người không thể ước lượng.
 Ba hạng người này, này các Tỷ-kheo, có mặt, xuất hiện ở đời.
 
 <!--pg-->
-**114.- Không Vô Biên Xứ**
+### 114.- Không Vô Biên Xứ
 
 − Có ba hạng người này, này các Tỷ-kheo, có mặt, xuất hiện ở đời. Thế nào là ba?
 
@@ -88,7 +88,7 @@ thú và tái sanh.
 Ba hạng người này, này các Tỷ-kheo, có mặt, xuất hiện ở đời.
 
 <!--pg-->
-**115.- Khiếm Khuyết Và Viên Mãn.**
+### 115.- Khiếm Khuyết Và Viên Mãn.
 
 1\. - Này các Tỷ-kheo, có ba sự khiếm khuyết này. Thế nào là ba? Khiếm khuyết về giới, khiếm khuyết
 về tâm, khiếm khuyết về tri kiến.
@@ -142,7 +142,7 @@ khi thân hoại mạng chung, sanh lên cõi thiện, cõi Trời, cõi đời 
 các Tỷ-kheo, các loại hữu tình, sau khi thân hoại mạng chung, sanh lên cõi thiện, cõi Trời, cõi đời này.
 Những pháp này, này các Tỷ-kheo, là ba viên mãn.
 <!--pg-->
-**116.- Chính Xác.**
+### 116.- Chính Xác.
 
 1.- Này các Tỷ kheo, có ba khiếm khuyết này, thế nào là ba?
 
@@ -163,7 +163,7 @@ tâm .... do nhân viên mãn về tri kiến, này các Tỷ kheo, các loại 
 được sanh lên cõi thiện, cõi trời, cõi đời này. Các pháp này, này các Tỷ kheo, là ba viên mãn.
 
 <!--pg-->
-**117.- Hành Ðộng**
+### 117.- Hành Ðộng
 
 1 - Này các Tỷ-kheo, có ba khiếm khuyết này. Thế nào là ba? Khiếm khuyết về hành động, khiếm
 khuyết về sanh kế, khiếm khuyết về tri kiến.
@@ -194,7 +194,7 @@ Và này các Tỷ-kheo, thế nào là viên mãn về hành động? ... (như
 
 Này các Tỷ-kheo, các pháp này là ba viên mãn.
 <!--pg-->
-**118.- Thanh Tịnh (1)**
+### 118.- Thanh Tịnh (1)
 
 − Này các Tỷ-kheo, có ba thanh tịnh này. Thế nào là ba? Thân thanh tịnh, lời nói thanh tịnh, ý thanh tịnh.
 
@@ -216,7 +216,7 @@ Này các Tỷ-kheo, đây gọi là ý thanh tịnh.
 Những pháp này, này các Tỷ-kheo, là ba thanh tịnh.
 
 <!--pg-->
-**119.- Thanh Tịnh (2)**
+### 119.- Thanh Tịnh (2)
 
 1\. - Này các Tỷ-kheo, có ba thanh tịnh này, Thế nào là ba? Thân thanh tịnh, lời nói thanh tịnh, ý thanh
 tịnh.
@@ -264,7 +264,7 @@ _Trong sạch được thanh tịnh_
 _Ðược gọi ác đoạn trừ._
 
 <!--pg-->
-**120.- Toàn Hảo.**
+### 120.- Toàn Hảo.
 
 − Này các Tỷ-kheo, có ba sự toàn hảo. Thế nào là ba? Toàn hảo về thân, toàn hảo về lời nói, toàn hảo về
 ý.

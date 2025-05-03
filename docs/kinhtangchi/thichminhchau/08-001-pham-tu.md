@@ -1,6 +1,6 @@
 # I. Phẩm Từ
 
-**(I) (1) Từ**
+### (I) (1) Từ
 
 <!--pg-->
 1\. Như vầy tôi nghe:
@@ -50,7 +50,7 @@ _Không giết, không bảo giết_
 _Không thắng, không bảo thắng_
 _Từ tâm mọi chúng sanh_
 _Không hận thù với ai._
-**(II) (2) Tuệ**
+### (II) (2) Tuệ
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, có tám nhân này, có tám duyên này, khiến căn bản Phạm hạnh chưa chứng được
@@ -142,7 +142,7 @@ Này các Tỷ-kheo, tám nhân này, tám duyên này khiến cho căn bản Ph
 chứng được với trí tuệ, nếu chứng được thời đưa đến tăng trưởng, tăng rộng, được tu tập, được viên
 mãn.
 
-**(III) (3) Các Pháp Không Ðược Ái Mộ (1)**
+### (III) (3) Các Pháp Không Ðược Ái Mộ (1)
 
 <!--pg-->
 1\. - Thành tựu tám pháp này, này các Tỷ-kheo, Tỷ-kheo không được các đồng Phạm hạnh ái mộ, thích ý,
@@ -168,7 +168,7 @@ dục và có chánh kiến.
 Thành tựu tám pháp này, này các Tỷ-kheo, Tỷ-kheo được các đồng Phạm hạnh ái mộ, thích ý, kính
 trọng và bắt chước.
 
-**(IV) (4) Các Pháp Không Ðược Ái Mộ (2)**
+### (IV) (4) Các Pháp Không Ðược Ái Mộ (2)
 <!--pg-->
 1\. - Thành tựu tám pháp này, này các Tỷ-kheo, Tỷ-kheo không được các đồng Phạm hạnh ái mộ, thích ý,
 cung kính và bắt chước. Thế nào là tám?
@@ -191,7 +191,7 @@ hạnh.
 Thành tựu tám pháp này, này các Tỷ-kheo, Tỷ-kheo được các đồng Phạm hạnh ái mộ, thích ý, cung kính
 và bắt chước.
 
-**(V) (5) Tùy Chuyển Thế Giới (1)**
+### (V) (5) Tùy Chuyển Thế Giới (1)
 
 <!--pg-->
 1\. - Tám pháp thế gian này, này các Tỷ-kheo, tùy chuyển thế giới. Thế giới tùy chuyển theo tám pháp
@@ -220,7 +220,7 @@ _Không trấn cấu không sầu_
 _Chơn chánh biết sanh hữu_
 _Ði đến bờ bên kia._
 
-**(VI) (6) Tùy Chuyẻn Thế Giới (2)**
+### (VI) (6) Tùy Chuyẻn Thế Giới (2)
 
 1.- Tám thế gian pháp này, này các Tỷ-kheo, tùy chuyển thế giới. Thế giới tùy chuyển theo tám pháp thế
 gian này. Thế nào là tám?
@@ -297,7 +297,7 @@ _Không trấn cấu không sầu_
 _Chơn chánh biết sanh hữu_
 _Ði đến bờ bên kia._
 
-**(VII) (7) Devadatta**
+### (VII) (7) Devadatta
 
 <!--pg-->
 1\. Một thời, Thế Tôn trú ở Ràjagaha (Vương Xá) trên núi Gijjhakùta (Linh Thứu) sau khi Devadatta bỏ
@@ -343,7 +343,7 @@ khởi lên ... không danh vọng được khởi lên ... cung kính được 
 lên ... ác dục được khởi lên ... ác bằng hữu được khởi lên”. Như vậy, này các Tỷ-kheo, các Thầy cần
 phải học tập.
 
-**(VIII) (8) Tôn Giả Uttara**
+### (VIII) (8) Tôn Giả Uttara
 
 <!--pg-->
 1\. Một thời, Thế Tôn trú ở Mahisavatthu, trên núi Sankheyyaka, tại Dhavajàlikà. Lúc bấy giờ, Tôn giả
@@ -450,7 +450,7 @@ nữ cư sĩ, pháp môn này không được một ai thiết lập. Thưa Tôn
 này. Thưa Tôn giả, Tôn giả Uttara hãy học thuộc lòng pháp môn này. Thưa Tôn giả, Tôn giả Uttara hãy
 thọ trì pháp môn này. Thưa Tôn giả, pháp môn này liên hệ đến mục đích, là căn bản Phạm hạnh.
 
-**(XI) (9) Tôn Giả Nanda**
+### (XI) (9) Tôn Giả Nanda
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, nói một cách chơn chánh về Nanda, có thể nói như sau: “Là Thiện nam tử”. Này
@@ -506,7 +506,7 @@ Này các Tỷ-kheo, đây là Nanda chánh niệm tỉnh giác.
 Này các Tỷ-kheo, ai khác ngoài Nanda, thành tựu chế ngự các căn, biết tiết độ trong ăn uống, chú tâm
 cảnh giác, chánh niệm tỉnh giác? Nhờ vậy, Nanda có thể hành Phạm hạnh đầy đủ thanh tịnh.
 
-**(X) (10) Các Ðồ Rác**
+### (X) (10) Các Ðồ Rác
 
 <!--pg-->
 1\. Một thời, Thế Tôn trú ở Campà, trên bờ hồ Gaggarà. Lúc bấy giờ, các Tỷ-kheo buộc tội một Tỷ-kheo

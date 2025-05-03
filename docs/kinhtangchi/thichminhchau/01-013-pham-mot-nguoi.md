@@ -1,6 +1,6 @@
 # XIII. Phẩm Một Người
 
-**1-7 Như Lai**
+### 1-7 Như Lai
 
 1\. - Một người, này các Tỷ-kheo, khi xuất hiện ở đời, sự xuất hiện đem lại hạnh phúc cho đa số, an lạc
 cho đa số, vì lòng thương tưởng cho đời, vì lợi ích, vì hạnh phúc, vì an lạc cho chư Thiên và loài Người.

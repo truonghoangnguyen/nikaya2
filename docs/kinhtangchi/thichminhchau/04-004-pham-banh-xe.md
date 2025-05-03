@@ -1,6 +1,6 @@
 # IV. Phẩm Bánh Xe
 
-**(I) (31) Bánh Xe.**
+### (I) (31) Bánh Xe.
 
 1\. Có bốn bánh xe này, này các Tỷ-kheo, thành tựu với chúng, bốn bánh xe được vận chuyển giữa chư
 Thiên và loài Người thành tựu với chúng, chư Thiên và loài nguời không bao lâu đạt đến sự lớn mạnh,
@@ -23,7 +23,7 @@ _Danh tiếng cùng an lạc,_\
 _Ðược đưa đến đầy đủ._
 
 <!--pg-->
-**(II) (32) Nhiếp Pháp**
+### (II) (32) Nhiếp Pháp
 
 1\. - Này các Tỷ-kheo, có bốn nhiếp pháp này. Thế nào là bốn?
 
@@ -51,9 +51,9 @@ _Nhờ vậy họ đạt được,_\
 _Sự cao lớn, tán thán._
 
 <!--pg-->
-**Quang Pham**
+### Quang Pham
 
-**(II) (33) Con Sư Tử**
+### (II) (33) Con Sư Tử
 
 1\. - Này các Tỷ-kheo, con sư tử, vua các loài thú, vào buổi chiều đi ra khỏi hang. Sau khi ra khỏi hang,
 nó duỗi thân mình và chân. Sau khi duỗi thân mình và chân, nó nhìn chung quang bốn phương. Sau khi
@@ -102,7 +102,7 @@ _Khi nghe lời ứng Cúng,_\
 _Ðược giải thoát như vậy._
 
 <!--pg-->
-**(IV) (34) Các Lòng Tin**
+### (IV) (34) Các Lòng Tin
 
 1\. - Này các Tỷ-kheo, có bốn lòng tin tối thượng này. Thế nào là bốn?
 
@@ -150,7 +150,7 @@ _Chư Thiên hay loài người,_\
 _Ðạt được hỷ tối thượng._
 
 <!--pg-->
-**(V) (35) Vassakàra**
+### (V) (35) Vassakàra
 
 1\. - Một thời, Thế Tôn trú ở Ràjagaha (Vương Xá), tại Veluvanna (Trúc Lâm) chỗ nuôi dưỡng các con
 sóc. Rồi Bà-la-môn Vassakàra, vị đại thần xứ Magadha, đi đến Thế Tôn, sau khi đến, nói lên với Thế
@@ -223,7 +223,7 @@ _Ngài được gọi tôn xưng,_\
 _Bậc Ðại tuệ, Ðại nhân._\
 
 <!--pg-->
-**(VI) (36) Tùy Thuộc Thế Giới**
+### (VI) (36) Tùy Thuộc Thế Giới
 
 1\. Một thời, Thế Tôn đang đi trên con đường giữa Ukkatthà và Setabbya. Bà-la-môn Dona cũng đang đi
 trên con đường giữa Ukkatthà và Setabbya. Bà-la-môn Dona thấy trên những dấu chân của Thế Tôn có
@@ -284,7 +284,7 @@ _Ta là Phật Chánh giác,_\
 _Hỡi này Bà-la-môn._\
 
 <!--pg-->
-**(VII) (37) Không Thể Rơi Xuống**
+### (VII) (37) Không Thể Rơi Xuống
 
 1\. - Thành tựu bốn pháp, này các Tỷ-kheo, Tỷ-kheo không có thể bị thối đọa, vị ấy gần Niết-bàn. Thế
 nào là bốn?
@@ -342,7 +342,7 @@ _Không có thể thối đọa,_\
 _Tỷ-kheo gần Niết-bàn._\
 
 <!--pg-->
-**(VIII) (38) Tránh Né**
+### (VIII) (38) Tránh Né
 
 1\. - Tỷ-kheo trừ khử sự thật cá nhân, này các Tỷ-kheo, đã từ bỏ hoàn toàn các tầm cầu hay thân hành
 được khinh an, vị ấy được gọi là vị độc hành.
@@ -396,7 +396,7 @@ _Vị ấy được danh xưng,_\
 _Bậc Giác ngộ độc cư._\
 
 <!--pg-->
-**(IX) (39) Ujjaya**
+### (IX) (39) Ujjaya
 
 1\. Rồi Bà-la-môn Ujjaya đi đến Thế Tôn, sau khi đến nói lên với Thế Tôn những lời chào đón hỏi thăm,
 sau khi nói lên những lời chào đón hỏi thăm thân hữu rồi ngồi xuống một bên. Ngồi xuống một bên, Bàla-môn Ujjaya bạch Thế Tôn:
@@ -443,7 +443,7 @@ _Tế đàn càng to lớn,_\
 _Chư Thiên càng hoan hỷ._\
 
 <!--pg-->
-**(X) (40) Udayi**
+### (X) (40) Udayi
 
 1\. Rồi Bà-la-môn Udàyi đi đến Thế Tôn; sau khi đến... Ngồi xuống một bên, Bà-la-môn Udàyi bạch Thế
 Tôn:

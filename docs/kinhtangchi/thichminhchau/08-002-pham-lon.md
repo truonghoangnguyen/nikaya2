@@ -1,6 +1,6 @@
 # II. Phẩm Lớn
 
-**(I) (11) Veranjà**
+### (I) (11) Veranjà
 
 <!--pg-->
 1\. Như vầy tôi nghe:
@@ -166,7 +166,7 @@ dùng nhiều phương tiện trình bày giải thích. Con xin quy y Tôn gi�
 Tỷ-kheo. Mong Tôn giả Gotama nhận con làm đệ tử cư sĩ, từ nay cho đến mạng chung, con trọn đời quy
 ngưỡng.
 
-**(II) (12) Tướng Quân Sìha**
+### (II) (12) Tướng Quân Sìha
 
 <!--pg-->
 1\. Một thời, Thế Tôn trú ở Vesàli (Tỳ-xá-ly), tại Mahàvana (Ðại Lâm), ở Kùtàgàrasàla (ngôi nhà có nóc
@@ -397,7 +397,7 @@ cầm đầu các món ăn thượng vị, loại cứng và mềm. Rồi tướ
 xong, bàn tay đã rời khỏi bát, liền ngồi xuống một bên, và Thế Tôn với bài pháp thoại thuyết giảng cho
 tướng quân Sìha, khích lệ, làm cho phấn khởi, làm cho hoan hỷ, rồi từ chỗ ngồi đứng dậy ra đi.
 
-**(III) (13) Con Ngựa Thuần Thục**
+### (III) (13) Con Ngựa Thuần Thục
 
 <!--pg-->
 1\. - Ðầy đủ với tám đức tánh, này các Tỷ-kheo, một con ngựa của vua hiền thiện, thuần thục, xứng đáng
@@ -438,7 +438,7 @@ nỗ lực có thể đạt được, nếu chưa đạt được thời tinh t�
 Thành tựu tám pháp này, này các Tỷ-kheo, Tỷ-kheo đáng được cung kính, đáng được tôn trọng, đáng
 được cúng dường, đáng được chắp tay, là ruộng phước vô thượng ở đời.
 
-**(IV) (14) Ngựa Chưa Ðiều Phục**
+### (IV) (14) Ngựa Chưa Ðiều Phục
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, Ta sẽ giảng về tám loại ngựa chưa điều phục, tám tánh xấu của con ngựa, tám
@@ -562,7 +562,7 @@ hỷ”. Này các Tỷ-kheo, ví như con ngựa chưa được điều phục 
 
 Này các Tỷ-kheo, đây là tám hạng người chưa được điều phục và tám tánh xấu của con người.
 
-**(V) (15) Các Cấu Uế**
+### (V) (15) Các Cấu Uế
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, có tám tâm cấu uế này, thế nào là tám?
@@ -589,7 +589,7 @@ _Hơn tất cả cấu uế_
 _Ðấy chính là vô minh_
 _Là cấu uế lớn nhất._
 
-**(VI) (16) Sứ Giả**
+### (VI) (16) Sứ Giả
 <!--pg-->
 1\. - Thành tựu tám pháp này, này các Tỷ-kheo, một Tỷ-kheo xứng đáng đi làm sứ giả. Thế nào là tám?
 
@@ -620,7 +620,7 @@ _Ðược hỏi không phẫn nộ_
 _Vị Tỷ-kheo như vậy,_
 _Xứng đáng đi sứ giả._
 
-**(VII) (17) Sự Trói Buộc Của Nữ Nhân**
+### (VII) (17) Sự Trói Buộc Của Nữ Nhân
 
 <!--pg-->
 1\. - Với tám hình tướng, này các Tỷ-kheo, nữ nhân trói buộc nam nhân. Thế nào là tám?
@@ -634,7 +634,7 @@ tặng; này các Tỷ-kheo, nữ nhân trói buộc nam nhân với xúc chạm
 Với tám hình tướng, này các Tỷ-kheo, nữ nhân trói buộc nam nhân. Các loài hữu tình bị khéo trói buộc
 bởi các hình tướng ấy, giống như trói buộc bởi bẫy sập.
 
-**(VIII) (18) Nam Nhân Trói Buộc**
+### (VIII) (18) Nam Nhân Trói Buộc
 
 <!--pg-->
 1\. - Với tám hình tướng, này các Tỷ-kheo, nam nhân trói buộc nữ nhân. Thế nào là tám?
@@ -648,7 +648,7 @@ tặng; này các Tỷ-kheo, nam nhân trói buộc nữ nhân với xúc chạm
 Với tám hình tướng, này các Tỷ-kheo, nam nhân trói buộc nữ nhân. Các loài hữu tình bị khéo trói buộc
 bởi các hình tướng ấy, giống như trói buộc bởi bẫy sập.
 
-**(IX) (19) A-Tu-La Pahàràda**
+### (IX) (19) A-Tu-La Pahàràda
 
 <!--pg-->
 1\. Một thời, Thế Tôn trú ở Veranjà, dưới gốc cây Nalerupucimanda. Rồi vua A-tu-la Pahàràda đi đến
@@ -795,7 +795,7 @@ trong Pháp và Luật này.
 Này Pahàràda, đây là tám pháp vi diệu, chưa từng có trong pháp và luật và do thấy vậy, do thấy vậy, các
 Tỷ-kheo thích thú trong Pháp và Luật này.
 
-**(X) (20) Ngày Trai Giới**
+### (X) (20) Ngày Trai Giới
 
 <!--pg-->
 1\. Như vầy tôi nghe:

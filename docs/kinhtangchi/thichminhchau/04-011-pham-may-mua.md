@@ -1,6 +1,6 @@
 # XI. Phẩm Mây Mưa
 
-**(I) (101) Mây Mưa (1)**
+### (I) (101) Mây Mưa (1)
 
 1\. Như vầy tôi nghe:
 
@@ -47,7 +47,7 @@ hạng người này giống như ví dụ ấy.
 Này các Tỷ-kheo, có bốn hạng người giống như loại mây này có mặt, hiện hữu ở đời.
 
 <!--pg-->
-**(II) (102) Mây Mưa (2)**
+### (II) (102) Mây Mưa (2)
 
 1\. - Này các Tỷ-kheo, có bốn loại mây mưa này. Thế nào là bốn? Có sấm, không có mưa; có mưa, không
 có sấm; không có sấm không có mưa; có sấm và có mưa. Này các Tỷ-kheo, có bốn loại mây mưa này.
@@ -91,7 +91,7 @@ các Tỷ-kheo, loại mây có sấm và có mưa ấy, Ta nói rằng, này c�
 Này các Tỷ-kheo, có bốn hạng người giống như loại mây này có mặt, hiện hữu ở đời.
 
 <!--pg-->
-**(III) (103) Cái Ghè**
+### (III) (103) Cái Ghè
 
 1\. - Này các Tỷ-kheo, có bốn loại ghè này. Thế nào là bốn?
 
@@ -136,12 +136,12 @@ nói rằng, này các Tỷ-kheo, người này giống như ví dụ ấy.
 Này các Tỷ-kheo, bốn hạng người giống như các loại ghè này có mặt, hiện hữu ở đời.
 
 <!--pg-->
-**(IV) (104) Hồ Nước (1)**
+### (IV) (104) Hồ Nước (1)
 
 − Này các Tỷ-kheo, có bốn loại hồ nước này. Thế nào là bốn? Cạn nhưng có vẻ sâu, sâu nhưng thấy cạn,
 cạn và thấy cạn, sâu và thấy sâu. Này các Tỷ-kheo, có bốn loại hồ nước này.
 
-**(V) (105) Các Hồ Nước (2)**
+### (V) (105) Các Hồ Nước (2)
 
 1\. - Này các Tỷ-kheo, có bốn loại hồ nước này. Thế nào là bốn? Cạn có vẻ sâu, sâu có vẻ cạn, cạn có vẻ
 cạn, sâu có vẻ sâu. Này các Tỷ-kheo, có bốn loại hồ nước này.
@@ -156,7 +156,7 @@ Cạn có vẻ sâu, sâu có vẻ cạn. Cạn có vẻ cạn, sâu có vẻ s�
 Ở đây, này các Tỷ-kheo, có hạng người có thái độ khả ái... (như kinh 103, từ số 3 cho đến số 6).
 
 <!--pg-->
-**(VI) (106) Các Trái Xoài**
+### (VI) (106) Các Trái Xoài
 
 1\. - Này các Tỷ-kheo, có bốn loại xoài này. Thế nào là bốn?
 
@@ -169,7 +169,7 @@ _(như kinh 103, từ số 3 đến số 6)._
 
 none
 <!--pg-->
-**Quang Pham(VII) (107) Các Loại Chuột**
+### Quang Pham(VII) (107) Các Loại Chuột
 
 1\. - Này các Tỷ-kheo, có bốn loại chuột này. Thế nào là bốn?
 
@@ -191,7 +191,7 @@ như ví dụ ấy.
 4\. Và này các Tỷ-kheo, thế nào là hạng người có ở, không đào hang? (xem như kinh 102).
 
 <!--pg-->
-**(VIII) (108) Các Loại Bò Ðực**
+### (VIII) (108) Các Loại Bò Ðực
 
 1\. - Này các Tỷ-kheo, có bốn loại bò đực này. Thế nào là bốn?
 
@@ -242,7 +242,7 @@ giống như ví dụ ấy.
 Này các Tỷ-kheo, có bốn hạng người được ví dụ với các loại bò đực này, có mặt, hiện hữu ở đời.
 
 <!--pg-->
-**(IX) (109) Các Cây**
+### (IX) (109) Các Cây
 
 1.- Này các Tỷ-kheo, có bốn loại cây này. Thế nào là bốn?
 
@@ -283,7 +283,7 @@ dụ ấy.
 Này các Tỷ-kheo, có bốn hạng người giống như ví dụ các cây này, có mặt hiện hữu ở đời.
 
 <!--pg-->
-**(X) (110) Các Con Rắn**
+### (X) (110) Các Con Rắn
 1\. - Này các Tỷ-kheo, có bốn loại rắn. Thế nào là bốn?
 
 Loại rắn có nọc độc, nhưng không ác độc; loại ác độc nhưng không nọc độc; loại có nọc độc và ác độc;

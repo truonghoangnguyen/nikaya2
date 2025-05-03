@@ -1,5 +1,5 @@
 # III. Phẩm Ba: Tổng Kết
-**(I) (23) Người Chăn Bó**
+### (I) (23) Người Chăn Bó
 
 <!--pg-->
 1\. Này các Tỷ-kheo, thành tựu với mười một chi phần, người chăn bò không có thể là người lãnh đạo bò
@@ -44,7 +44,7 @@ tăng trưởng. Thế nào là mười một?
 6\. Cũng vậy, này các Tỷ-kheo, thành tựu với mười một pháp, Tỷ-kheo có thể trú tùy quán vô thường
 trong con mắt... có thể trú tùy quán từ bỏ.
 
-**(II) (24) Tham Ái (1)**
+### (II) (24) Tham Ái (1)
 
 <!--pg-->
 1\. Ðể thắng tri tham ái, này các Tỷ-kheo, mười một pháp cần phải tu tập. Thế nào là mười một?
@@ -55,7 +55,7 @@ giải thoát, xả tâm giải thoát, Không vô biên xứ, Thức vô biên 
 
 Ðể thắng tri tham ái, này các Tỷ-kheo, mười một pháp cần phải tu tập.
 
-**(III) (25) Tham Ái (2)**
+### (III) (25) Tham Ái (2)
 <!--pg-->
 1\. Ðể thắng tri tham ái, này các Tỷ-kheo, để liễu tri, để liễu diệt, để đoạn tận, để hoại diệt, để hủy diệt,
 để ly tham, để đoạn diệt... để xả ly, để từ bỏ... mười một pháp cần phải tu tập.
@@ -68,6 +68,6 @@ tu tập.
 
 Thế Tôn thuyết như vậy, các Tỷ-kheo ấy hoan hỷ tín thọ lời Thế Tôn dạy
 
-**Hết Kinh Tăng Chi Bộ**
+### Hết Kinh Tăng Chi Bộ
 
-**-ooOoo-**
+### -ooOoo-

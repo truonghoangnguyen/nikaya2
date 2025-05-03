@@ -1,6 +1,6 @@
 # III. Phẩm Gia Chủ
 
-**(I) (21) Ugga Ở Vesali**
+### (I) (21) Ugga Ở Vesali
 
 <!--pg-->
 1\. Một thời, Thế Tôn trú ở Vesàli, tại Ðại Lâm, ở ngôi nhà có nóc nhọn. Tại đấy, Thế Tôn bảo các Tỷkheo:
@@ -100,7 +100,7 @@ có thể trả lời như vậy. Này Tỷ-kheo, ta đã nói gia chủ Ugga ng
 chưa từng có này. Này Tỷ-kheo, hãy thọ trì rằng gia chủ Ugga, người Vesàli, được thành tựu tám pháp
 vi diệu chưa từng có này.
 
-**(II) (22) Ugga Người Hatthigama**
+### (II) (22) Ugga Người Hatthigama
 
 <!--pg-->
 1\. Một thời, Thế Tôn trú ở giữa dân chúng Vajji, tại làng Hatthi. Tại đấy, Thế Tôn gọi các Tỷ-kheo ...
@@ -168,7 +168,7 @@ chánh, có thể trả lời như vậy. Này Tỷ-kheo, gia chủ Ugga ngườ
 chưa từng có này. Như ta đã nói, Này Tỷ-kheo, hãy thọ trì rằng gia chủ Ugga, người Hatthigàma, được
 thành tựu tám pháp vi diệu chưa từng có này.
 
-**(III) (23) Hatthaka, Người Alavì (1)**
+### (III) (23) Hatthaka, Người Alavì (1)
 
 <!--pg-->
 1\. Một thời, Thế Tôn trú ở Alavì, tại điện Phật Aggàlava. Tại đấy, Thế Tôn bảo các Tỷ-kheo:
@@ -228,7 +228,7 @@ vậy, bạch Thế Tôn, Hatthaka người xứ Alavì nói với con:
 thiện pháp của mình được người khác biết đến. Do vậy, này Tỷ-kheo, hãy thọ trì rằng, Hatthaka người
 xứ Alavì, có thành tựu bảy pháp vi diệu chưa từng có này, tức là ít dục.
 
-**(IV) (24) Hatthaka, Người Xứ ALavì (2)**
+### (IV) (24) Hatthaka, Người Xứ ALavì (2)
 
 <!--pg-->
 1\. Một thời, Thế Tôn trú ở Alavì, tại điện Phật Aggàlava. Rồi Hatthaka, người xứ Alavì cùng với năm
@@ -272,7 +272,7 @@ Alavì; ít dục, này các Tỷ-kheo, là Hatthaka người xứ Alavì!
 Này các Tỷ-kheo, hãy thọ trì rằng Hatthaka, người xứ Alavì thành tựu tám pháp vi diệu chưa từng có
 này.
 
-**(V) (25) Thích Tử Mahanama**
+### (V) (25) Thích Tử Mahanama
 
 <!--pg-->
 1\. Một thời, Thế Tôn trú ở giữa dân chúng Sakka, tại Kapilavatthu, ở khu vườn Nigrodha. Rồi Thích tử
@@ -316,7 +316,7 @@ thọ trì; sau khi tự mình biết nghĩa, biết pháp, thực hiện pháp 
 khi biết nghĩa biết pháp, thực hiện pháp đúng Chánh pháp. Cho đến như vậy, này Mahànàma, là nam cư
 sĩ thực hành vì tự lợi và lợi tha.
 
-**(VI) (26) Jìvaka Komàrabhacca**
+### (VI) (26) Jìvaka Komàrabhacca
 <!--pg-->
 1\. Một thời, Thế Tôn trú ở Ràjagaha (Vương xá), tại rừng xoài Jìvaka. Rồi Jìvaka Komàrabhacca đi đến
 Thế Tôn, sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Ngồi xuống một bên, Jìvaka
@@ -326,7 +326,7 @@ Komàrabhacca bạch Thế Tôn:
 
 − ... (giống như kinh trước 25, chỉ khác là Thích tử Mahànàma, nay là Jìvaka Komàrabhacca) .
 
-**(VII) (27) Sức Mạnh (1)**
+### (VII) (27) Sức Mạnh (1)
 
 1.- Này các Tỷ-kheo, có tám sức mạnh này. Thế nào là tám?
 
@@ -338,7 +338,7 @@ là nhẫn nhục.
 
 Này các Tỷ-kheo, đây là tám sức mạnh.
 
-**(VIII) (28) Sức Mạnh (2)**
+### (VIII) (28) Sức Mạnh (2)
 
 <!--pg-->
 1\. Rồi Tôn giả Sàriputta đi đến Thế Tôn, sau khi đến, đảnh lễ Thế Tôn, rồi ngồi xuống một bên. Thế Tôn
@@ -388,7 +388,7 @@ Bạch Thế Tôn, đây là tám sức mạnh của Tỷ-kheo đã đoạn tậ
 này, Tỷ-kheo đã đoạn tận các lậu hoặc. Do sức mạnh này, Tỷ-kheo đã đoạn tận các lậu hoặc, tự nhận
 mình đã đoạn diệt các lậu hoặc: “Các lậu hoặc đã được ta đoạn tận “.
 
-**(IX) (29) Không Phải Thời**
+### (IX) (29) Không Phải Thời
 
 <!--pg-->
 1\. - “Làm việc đúng thời là thế giới, làm việc đúng thời là thế giới “, này các Tỷ-kheo, kẻ vô văn phàm
@@ -477,7 +477,7 @@ _Ðến được bờ bên kia_
 _Và họ cũng đạt được_
 _Các lậu hoặc đoạn tận._
 
-**(X) (30) Tôn Giả Anuruddha**
+### (X) (30) Tôn Giả Anuruddha
 
 <!--pg-->
 1\. Một thời, Thế Tôn trú ở giữa dân chúng Bhagga, tại núi Sumsumàra, rừng Bhesakala, vườn Lộc

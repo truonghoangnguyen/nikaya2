@@ -1,6 +1,6 @@
 # VII. Phẩm Nghiệp Công Ðức
 
-**(I) (61) Bốn Nghiệp Công Ðức**
+### (I) (61) Bốn Nghiệp Công Ðức
 
 1\. Rồi gia chủ Anàthapindika đi đến Thế Tôn, sau khi đến, đảnh lễ Thế Tôn, rồi ngồi xuống một bên.
 Thế Tôn nói với gia chủ Anàthapindika đang ngồi một bên:
@@ -105,7 +105,7 @@ _Ðời sau được hoan hỷ,_\
 _Trên cảnh giới chư Thiên._\
 
 <!--pg-->
-**(II) (62) Không Nợ**
+### (II) (62) Không Nợ
 
 1\. Rồi gia chủ Anàthapindika đi đến Thế Tôn, sau khi đến, ngồi xuống một bên. Thế Tôn nói với gia chủ
 Anàthapindika đang ngồi một bên:
@@ -152,7 +152,7 @@ _Bằng một phần mười sáu,_\
 _Lạc không có phạm tội._\
 
 <!--pg-->
-**(III) (63) Bằng Với Phạm Thiên**
+### (III) (63) Bằng Với Phạm Thiên
 
 1\. - Những gia đình nào, này các Tỷ-kheo, các cha mẹ được các con đảnh lễ cúng dường ở trong nhà,
 những gia đình ấy được xem là giống như Phạm thiên. Những gia đình nào, này các Tỷ-kheo, các cha
@@ -183,7 +183,7 @@ _Ðời này người hiền khen,_\
 _Ðời sau hưởng Thiên lạc._\
 
 <!--pg-->
-**(IV) (64) Ðịa Ngục**
+### (IV) (64) Ðịa Ngục
 
 1\. - Thành tựu với bốn pháp, này các Tỷ-kheo, như vậy tương xứng bị rời vào địa ngục. Với bốn pháp
 gì? sát sanh, lấy của không cho, tà hạnh trong các dục, nói láo.
@@ -198,7 +198,7 @@ _Và đi đến vợ người,_\
 _Bậc trí không tán thán._\
 
 <!--pg-->
-**(V) (65) Hình Thức Bên Ngoài**
+### (V) (65) Hình Thức Bên Ngoài
 
 1\. - Có bốn hạng người này, này các Tỷ-kheo, có mặt, hiện hữu ở đời. Thế nào là bốn?
 
@@ -226,7 +226,7 @@ _Thấy rõ không chướng ngại,_\
 _Không bị tiếng chi phối._
 
 <!--pg-->
-**(VI) (66) Tham Ái**
+### (VI) (66) Tham Ái
 
 1\. - Có bốn hạng người này, này các Tỷ-kheo, có mặt, hiện hữu ở đời. Thế nào là bốn? Có tham, có sân,
 có si, có mạn. Bốn hạng người này, này các Tỷ-kheo, có mặt hiện hữu ở đời.
@@ -250,7 +250,7 @@ _Họ không thể nghĩ rằng,_\
 _Ta có thể như vậy._
 
 <!--pg-->
-**(VII) (67) Vua Các Loài Rắn**
+### (VII) (67) Vua Các Loài Rắn
 
 1\. Một thời, Thế Tôn trú ở Sàvatthi, tại Jetavana, khu vườn ông Anàthapindika.
 
@@ -306,7 +306,7 @@ Ta đã làm sự hộ trì. Ta đã làm sự che chở, mong rằng các loài
 Tôn. Ta đảnh lễ bảy vị Chánh Ðẳng Giác.”
 
 <!--pg-->
-**(VIII) (68) Devadatta**
+### (VIII) (68) Devadatta
 
 1\. Một thời, Thế Tôn trú ở Ràjagaha, tại núi Gijjhakùta sau khi Devadatta bỏ đi không bao lâu. Tại đấy,
 Thế Tôn nhơn việc Devadatta bảo các Tỷ-kheo:
@@ -334,7 +334,7 @@ _Cung kính hại người ngu,_\
 _Thai tạng hại con la._\
 
 <!--pg-->
-**(IX) (69) Tinh Cần**
+### (IX) (69) Tinh Cần
 
 1\. - Này các Tỷ-kheo, có bốn tinh cần này, thế nào là bốn?
 
@@ -375,7 +375,7 @@ _Nhiệt tâm và nỗ lực._\
 _Ðạt được khổ đoạn diệt._
 
 <!--pg-->
-**(X) (70) Phi Pháp**
+### (X) (70) Phi Pháp
 
 1\. - Khi nào, này các Tỷ-kheo, các vua phi pháp có mặt, khi ấy, các đại thần phi pháp của vua có mặt.
 Khi nào các đại thần phi pháp của vua có mặt, khi ấy các Bà-la-môn gia chủ phi pháp có mặt. Khi nào
@@ -424,6 +424,6 @@ _Còn nói gì người khác,_\
 _Cả nước được an vui,_\
 _Nếu vua sống đúng pháp._
 
-**(I) (71) Không Có Hý Luận**
+### (I) (71) Không Có Hý Luận
 
 

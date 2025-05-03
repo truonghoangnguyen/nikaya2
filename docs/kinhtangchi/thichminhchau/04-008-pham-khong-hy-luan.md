@@ -9,7 +9,7 @@ Thành tựu với bốn pháp này, này các Tỷ-kheo, Tỷ-kheo thực hành
 căn bản thẳng tấn để đoạn diệt các lậu hoặc.
 
 <!--pg-->
-**(II) (72) Chánh Kiến**
+### (II) (72) Chánh Kiến
 
 − Thành tựu bốn pháp này, này các Tỷ-kheo, vị Tỷ-kheo thực hành con đường thông suốt và có những
 căn bản thẳng tấn để đoạn diệt các lậu hoặc. Thế nào là bốn?
@@ -20,7 +20,7 @@ Thành tựu với bốn pháp này, này các Tỷ-kheo, Tỷ-kheo thực hành
 căn bản thẳng tấn để đoạn diệt các lậu hoặc.
 
 <!--pg-->
-**(III) (73) Bậc Chân Nhân**
+### (III) (73) Bậc Chân Nhân
 
 1\. - Thành tựu với bốn pháp, này các Tỷ-kheo, cần phải được hiểu không phải bậc Chân nhân. Thế nào
 là bốn?
@@ -82,7 +82,7 @@ không toàn bộ. Cần phải được hiểu, này các Tỷ-kheo, vị này 
 Thành tựu với bốn pháp này, này các Tỷ-kheo, cần phải được hiểu là bậc Chân nhân.
 
 <!--pg-->
-**(IV) (74) Người Vợ Trẻ**
+### (IV) (74) Người Vợ Trẻ
 
 1\. - Ví như, này các Tỷ-kheo, người vợ trẻ, trong đêm hay ngày, được đưa về nhà chồng, nàng cảm thấy
 hết sức xấu hổ, sợ hãi trước mặt mẹ chồng, cha chồng, trước mặt chồng, cho đến trước mặt các người
@@ -98,7 +98,7 @@ cho đến trước những người làm vườn và những Sa-di. Sau một t
 mới đến nhà chồng”. Như vậy, này các Tỷ-kheo, các Thầy cần phải học tập.
 
 <!--pg-->
-**(V) (75) Sự Tối Thượng**
+### (V) (75) Sự Tối Thượng
 
 1\. - Này các Tỷ-kheo, có bốn sự tối thượng này. Thế nào là bốn? Giới tối thượng, Ðịnh tối thượng, Tuệ
 tối thượng, Giải thoát tối thượng. Này các Tỷ-kheo, có bốn sự tối thượng này.
@@ -107,7 +107,7 @@ tối thượng, Giải thoát tối thượng. Này các Tỷ-kheo, có bốn s
 thượng, hữu tối thượng. Này các Tỷ-kheo, có bốn sự tối thượng này.
 
 <!--pg-->
-**(VI) (76) Kusinàrà**
+### (VI) (76) Kusinàrà
 
 1\. Một thời Thế Tôn trú ở Kusinàrà, tại Upavattana, trong rừng cây Sàla của dân chúng Mallà, giữa
 những cây Sàla song thọ, trong khi Ngài sắp sửa nhập Niết-bàn. Tại đấy, Thế Tôn gọi các Tỷ-kheo:
@@ -150,7 +150,7 @@ Tăng, Ðạo hay con đường thực hành. Này Ananda, trong 500 Tỷ-kheo n
 được quả Dự lưu, không còn bị thối đọa, chắc chắn hướng đến Chánh Giác.
 
 <!--pg-->
-**(VII) (77) Không Thể Nghĩ Ðược**
+### (VII) (77) Không Thể Nghĩ Ðược
 
 − Có bốn điều này không thể nghĩ đến được, này các Tỷ-kheo, nếu nghĩ đến, thời người suy nghĩ có thể
 đi đến cuồng loạn và thống khổ. Thế nào là bốn? Phật giới của các đức Phật, này các Tỷ-kheo, không
@@ -163,7 +163,7 @@ Tỷ-kheo, không thể nghĩ đến được, nếu nghĩ đến thời có th�
 loạn và thống khổ.
 
 <!--pg-->
-**(VII) (78) Thanh Tịnh Thí Vật**
+### (VII) (78) Thanh Tịnh Thí Vật
 
 1\. - Này các Tỷ-kheo, có bốn thanh tịnh thí vật này. Thế nào là bốn?
 
@@ -196,7 +196,7 @@ pháp. Như vậy, này các Tỷ-kheo, là bố thí, người cho thanh tịnh
 Này các Tỷ-kheo, có bốn loại bố thí thanh tịnh này.
 
 <!--pg-->
-**(IX) (79) Buôn Bán**
+### (IX) (79) Buôn Bán
 1\. Rồi Tôn giả Sàriputta... ngồi một bên, Tôn giả Sàriputta bạch Thế Tôn:
 
 − Bạch Thế Tôn, do nhân gì, do duyên gì, ở đây, có hạng người do buôn bán như vậy, đi đến thất bại?
@@ -231,7 +231,7 @@ thành tựu được như ý muốn. Ðây là nhân, đây là duyên, này S�
 bán như vậy được thành tựu ngoài ý muốn.
 
 <!--pg-->
-**(X) (80) Tinh Túy của Sự Nghiệp**
+### (X) (80) Tinh Túy của Sự Nghiệp
 
 1\. Một thời, Thế Tôn trú ở Kosambi, tại khu vườn Ghosita. Rồi Tôn giả Ananda đi đến Thế Tôn; sau khi
 đến, đảnh lễ Thế Tôn, rồi ngồi xuống một bên. Ngồi xuống một bên, Tôn giả Ananda bạch Thế Tôn:

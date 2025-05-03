@@ -1,6 +1,6 @@
 # XX. Phẩm Thiền Định (Thật Sự Là Vậy)
 
-**1-192 Thật Sự Là Vậy**
+### 1-192 Thật Sự Là Vậy
 
 <!--pg-->
 1\. Thật sự cái này là một trong những điều lợi, này các Tỷ-kheo, tức là sống trong rừng ... sống khất

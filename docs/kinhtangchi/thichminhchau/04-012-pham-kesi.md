@@ -1,6 +1,6 @@
 # XII. Phẩm Kesi
 
-**(I) (101) Kesi**
+### (I) (101) Kesi
 
 1\. Rồi Kesi, người đánh xe điều phục ngựa đi đến Thế tôn, sau khi đến, đảnh lễ Thế tôn rồi ngồi xuống
 một bên. Thế tôn nói với Kesi, người đánh xe điều phục ngựa đang ngồi một bên:
@@ -64,7 +64,7 @@ trí nghĩ rằng không đáng được nói đến, không đáng được gi�
 tôn! ... bắt đầu từ nay, mong Thế tôn nhận con làm đệ tử cư sĩ, cho đến mạng chung, con trọn đời quy
 ngưỡng.
 <!--pg-->
-**(II) (112) Tốc Ðộ**
+### (II) (112) Tốc Ðộ
 
 1\. - Thành tựu với bốn chi phần, này các Tỷ-kheo, một con ngựa thuần thục hiền thiện của vua, xứng
 đáng cho nhà vua, là vật sở hữu của vua, được xem là biểu tượng của vua. Thế nào là bốn? Với trực
@@ -81,7 +81,7 @@ Thành tựu với bốn pháp này, này các Tỷ-kheo, Tỷ-kheo xứng đán
 trọng, xứng đáng được chắp tay, xứng đáng được cúng dường, là ruộng phước vô thượng ở đời.
 
 <!--pg-->
-**(III) (113) Gậy Thúc Ngựa**
+### (III) (113) Gậy Thúc Ngựa
 
 1\. - Có bốn loài ngựa hiền thiện thuần thục này, này các Tỷ-kheo, có mặt, hiện hữu ở đời. Thế nào là
 bốn?
@@ -158,7 +158,7 @@ thuần thục thứ tư có mặt, hiện hữu ở đời.
 Này các Tỷ-kheo, có bốn hạng người hiền thiện thuần thục này có mặt, hiện hữu ở đời.
 
 <!--pg-->
-**(IV) (114) Con Voi**
+### (IV) (114) Con Voi
 
 1\. - Thành tựu bốn chi phần này, này các Tỷ-kheo, con voi của vua xứng đáng cho vua, là tài sản của
 Vua, được xem là biểu tượng của vua. Thế nào là bốn?
@@ -223,7 +223,7 @@ Thành tựu với bốn pháp này, này các Tỷ-kheo, Tỷ-kheo xứng đán
 trọng, xứng đáng được chắp tay, xứng đáng được cúng dường, là ruộng phước vô thượng ở đời.
 
 <!--pg-->
-**(V) (115) Các Trường Hợp**
+### (V) (115) Các Trường Hợp
 
 − Này các Tỷ-kheo, có bốn trường hợp này. Thế nào là bốn?
 
@@ -264,7 +264,7 @@ phương diện đều phải làm.
 Này các Tỷ-kheo, có bốn trường hợp này.
 
 <!--pg-->
-**(VI) (116) Không Phóng Dật**
+### (VI) (116) Không Phóng Dật
 1\. - Trong bốn trường hợp, này các Tỷ-kheo, cần phải không phóng dật. Thế nào là bốn?
 
 Hãy từ bỏ thân làm ác, này các Tỷ-kheo, hãy tu tập thân làm lành, và ở đây chớ có phóng dật. Hãy từ bỏ
@@ -276,7 +276,7 @@ tu tập chánh kiến, và ở đây chớ có phóng dật.
 tà kiến, đã tu tập chánh kiến, vị ấy không sợ hãi về đời sau, về chết.
 
 <!--pg-->
-**(VII) (117) Hộ Trì**
+### (VII) (117) Hộ Trì
 
 1\. - Trong bốn trường hợp, này các Tỷ-kheo, không phóng dật, niệm và tâm hộ trì cần phải làm do tự
 mình. Thế nào là bốn?
@@ -295,7 +295,7 @@ không say đắm, tự ngã được ly đắm say; thời vị ấy không có
 hoảng, không rơi vào hoảng sợ, không có đi do nhân các Sa-môn có nói gì.
 
 <!--pg-->
-**(VIII) (118) Xúc Ðộng**
+### (VIII) (118) Xúc Ðộng
 
 1\. - Có bốn trú xứ, này các Tỷ-kheo, khi một tín nam thấy cần phải xúc động mãnh liệt. Thế nào là bốn?
 
@@ -308,7 +308,7 @@ nhập Niết-bàn giới, không có dư. Ðây là trú xứ khi một tín na
 Có bốn trú xứ, này các Tỷ-kheo, khi một tín nam thấy cần phải xúc động mãnh liệt.
 
 <!--pg-->
-**(IX) (119) Sợ Hãi (1)**
+### (IX) (119) Sợ Hãi (1)
 
 − Này các Tỷ-kheo, có bốn sự sợ hãi này. Thế nào là bốn? Sợ hãi về sanh, sợ hãi về già, sợ hãi về bệnh,
 sợ hãi về chết.
@@ -316,7 +316,7 @@ sợ hãi về chết.
 − Này các Tỷ-kheo, có bốn sự sợ hãi này.
 
 <!--pg-->
-**(X) (120) Sợ Hãi (2)**
+### (X) (120) Sợ Hãi (2)
 
 − Này các Tỷ-kheo, có bốn sự sợ hãi này. Thế nào là bốn? Sợ hãi về lửa, sợ hãi về nước, sợ hãi về vua,
 sợ hãi về ăn trộm.

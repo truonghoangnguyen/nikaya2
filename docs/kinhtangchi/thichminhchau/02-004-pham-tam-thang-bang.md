@@ -1,6 +1,6 @@
 # IV. Phẩm Tâm Thăng Bằng
 
-**1-11 Ðất**
+### 1-11 Ðất
 
 1.- Này các Tỷ-kheo, ta sẽ giảng cho các Thầy về địa vị bậc không phải Chân nhân và địa vị bậc Chân
 nhân. Hãy nghe và khéo tác ý, Ta sẽ giảng.

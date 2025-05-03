@@ -1,6 +1,6 @@
 # XVI. Phẩm Lõa Thể
 
-**151.- Ðạo Lộ (1)**
+### 151.- Ðạo Lộ (1)
 
 1\. - Này các Tỷ-kheo, có ba đạo lộ này. Thế nào là ba? Thâm cố đạo lộ, kịch khổ đạo lộ, trung đạo lộ.
 Và này các Tỷ-kheo, thế nào là thâm cố đạo lộ?
@@ -42,7 +42,7 @@ tỉnh giác, chánh niệm, nhiếp nhục tham ưu ở đời. Này các Tỷ-
 Ba pháp này, này các Tỷ-kheo, là ba đạo lộ.
 
 <!--pg-->
-**152.- Ðạo Lộ (2)**
+### 152.- Ðạo Lộ (2)
 
 − Này các Tỷ-kheo, có ba đạo lộ này. Thế nào là ba? thâm cố đạo lộ, kịch khổ đạo lộ, trung đạo lộ.
 

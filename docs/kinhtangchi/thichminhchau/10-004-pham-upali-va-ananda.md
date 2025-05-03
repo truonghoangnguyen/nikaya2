@@ -1,9 +1,9 @@
 # IV. Phẩm Upàli Và Ananda
 
-**(I) (31) Upàli Và Giới Bổn**
+### (I) (31) Upàli Và Giới Bổn
 
 <!--pg-->
-1\. **Bấy giờ có tôn giả Upàli đi đến Thế Tôn, sau khi đến đảnh lễ Thế Tôn rồi xuống một bên. Ngồi**
+1\. ### Bấy giờ có tôn giả Upàli đi đến Thế Tôn, sau khi đến đảnh lễ Thế Tôn rồi xuống một bên. Ngồi
 xuống một bên, Tôn giả Upàli bạch Thế Tôn:
 
 <!--pg-->
@@ -37,7 +37,7 @@ ngồi trong hội chúng ấy, khi cuộc thảo luân về người ô nhục 
 
 Này Upàli, đây là mười trường hợp giới bổn Pàtimokkha bị ngưng tuyên đọc.
 
-**(II) (32) Người Ðoạn Sự**
+### (II) (32) Người Ðoạn Sự
 
 <!--pg-->
 1\. - Bạch Thế Tôn, một Tỷ-kheo thành tựu bao nhiêu pháp để được làm người đoạn sự viên?
@@ -57,7 +57,7 @@ biết tránh sự sanh khởi, biết tránh sự đoạn diệt, biết con đ
 
 Thành tựu mười pháp này, này Upàli, Tỷ-kheo được xem là khả năng làm vị đoạn sự viên.
 
-**(III) (33) Cụ Túc Giới**
+### (III) (33) Cụ Túc Giới
 
 <!--pg-->
 1\. - Bạch Thế Tôn, thành tựu bao nhiêu pháp, một Tỷ-kheo có khả năng trao truyền cụ túc giới?
@@ -75,7 +75,7 @@ có khả năng khích lệ trong tăng thượng tâm, có khả năng khích l
 
 Thành tựu mười pháp này, này Upàli, một Tỷ-kheo có khả năng trao duyên truyền cụ túc giới.
 
-**(VI) (34) Y Chỉ Sa Di**
+### (VI) (34) Y Chỉ Sa Di
 
 <!--pg-->
 1\. - Thành tựu bao nhiêu pháp, bạch Thế Tôn, một Tỷ-kheo có thể trao truyền y chỉ,...có khả năng nuôi
@@ -95,7 +95,7 @@ khích lệ trong tăng thượng tuệ.
 
 Thành tựu mười pháp này, này Upàli., một Tỷ-kheo có khả năng nuôi dưỡng Sa-di.
 
-**(V) (35) Phá Hòa Hợp Tăng**
+### (V) (35) Phá Hòa Hợp Tăng
 <!--pg-->
 1\. - Phá hòa hợp tăng, phá hòa hợp tăng, bạch Thế Tôn được nói đến như vậy. Cho đến như thế nào,
 bạch Thế Tôn là phá hòa hợp Tăng?
@@ -111,7 +111,7 @@ Như Lai có chế đặt là điều Như Lai không có chế đặt.
 Chính do mười sự này, họ phá hoại, họ chia rẽ, họ hành bất động yết-ma, họ tuyên đọc giới bốn
 Pátimokkha khác biệt. Cho đến như vậy, này Upàli, là chúng Tăng bị phá hoại.
 
-**(VI) (36) Hòa Hợp Tăng**
+### (VI) (36) Hòa Hợp Tăng
 
 <!--pg-->
 1\. - Tăng hòa hợp, Tăng hòa hợp. Bạch Thế Tôn, được nói đến như vậy. Cho đến như thế nào, bạch Thế
@@ -129,11 +129,11 @@ Với mười sự này, các Tỷ-kheo không phá hoại, các Tỷ-kheo khôn
 cộng yết-ma, các Tỷ-kheo không tuyên đọc giới bổn Pàtimkkha khác biệt. Cho đến như vậy, này Upàli,
 là Tăng chúng được hòa hợp.
 
-**(VII) (37) Phá Hòa Hợp Tăng**
+### (VII) (37) Phá Hòa Hợp Tăng
 
 (Tôn giả Ananda hỏi câu hỏi tương tợ và được câu trả lời tương tợ như kinh 25).
 
-**(VIII) (38) Quả Của Phá Hòa Hợp Tăng**
+### (VIII) (38) Quả Của Phá Hòa Hợp Tăng
 
 <!--pg-->
 1\. - Phá hoại Tăng hòa hợp, đem lại kết quả gì?
@@ -160,11 +160,11 @@ _Của Tăng chúng Tỷ-kheo,_
 _Trong một kiếp, người ấy,_
 _Bị địa ngục nung nấu._
 
-**(XI) (39) Hòa Hợp Tăng**
+### (XI) (39) Hòa Hợp Tăng
 
 (Ananda hỏi cùng một câu hỏi như ở kinh 36 và được trả lời tương tợ)
 
-**(X) (40) Quả Do Hòa Hợp Tăng Ðưa Lại**
+### (X) (40) Quả Do Hòa Hợp Tăng Ðưa Lại
 
 1.- Bạch Thế Tôn, với chúng Tăng bị phá, làm cho hòa hợp lại, đem đến kết quả gì?
 

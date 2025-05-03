@@ -58,9 +58,9 @@ không bị biến mất như vậy, này các Tỷ-kheo, như không phóng d�
 không như lý tác ý, như lý tác ý, không tỉnh giác, tỉnh giác, làm bạn với ác, làm bạn với thiện, hệ lụy với
 pháp bất thiện, không hệ lụy với pháp thiện, hệ lụy với pháp thiện, không hệ lụy với pháp bất thiện”).
 
-**Phẩm Phi Pháp (2)**
+### Phẩm Phi Pháp (2)
 
-**33-42 Phi Pháp**
+### 33-42 Phi Pháp
 
 <!--pg-->
 33\. - Những Tỷ-kheo nào, này các Tỷ-kheo, nêu rõ phi pháp là pháp, sở hành của những vị ấy, này các

@@ -1,6 +1,6 @@
 # X. Phẩm Kẻ Ngu
 
-**1-20 Kẻ Ngu**
+### 1-20 Kẻ Ngu
 
 1.- Này các Tỷ-kheo, có hai loại kẻ ngu này. Thế nào là hai? Người mang gánh nặng chưa đến và người
 không mang gánh nặng đã đến. Hai người này, này các Tỷ-kheo, là hai kẻ ngu.

@@ -1,6 +1,6 @@
 # XI. Phẩm Phi Pháp (3)
 
-**1-10 Phi Pháp**
+### 1-10 Phi Pháp
 
 <!--pg-->
 1\. - Những Tỷ-kheo nào, này các Tỷ-kheo, nêu rõ phi pháp là phi pháp, các Tỷ-kheo ấy, này các Tỷkheo, sở hành như vậy, đem lại hạnh phúc cho đa số, an lạc cho đa số, lợi ích cho đa số, đem lại hạnh

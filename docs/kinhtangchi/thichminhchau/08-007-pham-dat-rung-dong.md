@@ -1,6 +1,6 @@
 # VII. Phẩm Ðất Rung Ðộng
 
-**(I) (61) Dục**
+### (I) (61) Dục
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, có tám hạng người này có mặt, hiện hữu ở đời. Thế nào là tám?
@@ -74,7 +74,7 @@ dưỡng; được lợi dưỡng, không đắm say, không phóng dật, và k
 
 Này các Tỷ-kheo, có tám hạng người này sống có mặt, hiện hữu ở đời.
 
-**(II) (62) Vừa Ðủ**
+### (II) (62) Vừa Ðủ
 
 1.- Thành tựu sáu pháp này, này các Tỷ-kheo, Tỷ-kheo vừa đủ cho tự mình, vừa đủ cho các người khác.
 Thế nào là sáu?
@@ -182,7 +182,7 @@ pháp thoại, khích lệ, làm cho phấn khởi, làm cho hoan hỷ các đ�
 Thành tựu hai pháp này, này các Tỷ-kheo, Tỷ-kheo lả vừa đủ cho các người khác, không vừa đủ cho tự
 mình,.
 
-**(III) (63) Pháp Lược Thuyết**
+### (III) (63) Pháp Lược Thuyết
 
 <!--pg-->
 1\. Rồi một Tỷ-kheo đi đến Thế Tôn; sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Ngồi xuống
@@ -257,7 +257,7 @@ tâm, tinh cần, không bao lâu chứng đạt được mục đích mà các 
 sống không gia đình. Ðây là vô thượng cứu cánh Phạm hạnh, ngay trong hiện tại, tự mình chứng tri với
 thắng trí, chứng ngộ, chứng đạt và an trú. Vị ấy rõ biết: “Sanh đã tận, Phạm hạnh đã thành. Những việc
 nên làm đã làm, không còn trở lui trạng thái này nữa”. Tỷ-kheo ấy trở thành một vị A-la-hán.
-**(VI) (64) Tagayà**
+### (VI) (64) Tagayà
 
 <!--pg-->
 1\. Một thời, Thế Tôn trú ở Gayasisa. Ở đây, Thế Tôn gọi các Tỷ-kheo: “Này các Tỷ-kheo” - “Thưa
@@ -321,7 +321,7 @@ Ma giới, Phạm Thiên giới, với quần chúng Sa-môn, Bà-la-môn, chư 
 chứng ngộ Vô Thượng Chánh Ðẳng Giác. Tri kiến khởi lên nơi Ta: “Bất động là tâm giải thoát của Ta.
 Ðây là đời sống cuối cùng, không còn tái sanh nữa”.
 
-**(V) (65) Thắng Xứ**
+### (V) (65) Thắng Xứ
 
 1.- Này các Tỷ-kheo, có tám thắng xứ này. Thế nào là tám?
 
@@ -363,7 +363,7 @@ thắng xứ thứ năm.
 
 Này các Tỷ-kheo, những pháp này là tám thắng xứ.
 
-**(VI) (66) Các Giải Thoát**
+### (VI) (66) Các Giải Thoát
 
 1.- Này các Tỷ-kheo, có tám giải thoát này. Thế nào là tám?
 
@@ -397,7 +397,7 @@ tám.
 
 Này các Tỷ-kheo, có tám giải thoát này.
 
-**(VIII) (67) Phi Thánh Ngôn**
+### (VIII) (67) Phi Thánh Ngôn
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, có tám phi thánh ngôn này. Thế nào là tám?
@@ -408,7 +408,7 @@ thấy, nghe nói không nghe, nghĩ nói không nghĩ, biết nói không biế
 
 Này các Tỷ-kheo, đây là tám phi Thánh ngôn.
 
-**(VIII) (68) Thánh Ngôn**
+### (VIII) (68) Thánh Ngôn
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, có tám thánh ngôn này. Thế nào là tám?
@@ -419,7 +419,7 @@ không biết, thấy nói thấy, nghe nói nghe, nghĩ nói nghĩ, biết nói
 
 Này các Tỷ-kheo, đây là tám Thánh ngôn.
 
-**(IX) (69) Các Hội Chúng**
+### (IX) (69) Các Hội Chúng
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, có tám hội chúng này. Thế nào là tám?
@@ -450,7 +450,7 @@ biết Ta là ai. Họ nói: “Người biến mất này là ai, Thiên nhân 
 
 Này các Tỷ-kheo, đây là tám hội chúng.
 
-**(X) (70) Ðộng Ðất**
+### (X) (70) Ðộng Ðất
 
 <!--pg-->
 1\. Một thời, Thế Tôn trú ở Vesàli, tại Ðại Lâm, ở ngôi nhà có nóc nhọn. Rồi Thế Tôn vào buổi sáng đắp

@@ -1,6 +1,6 @@
 # X. Phẩm Hạt Muối
 
-**91.- Cấp Thiết**
+### 91.- Cấp Thiết
 
 1\. - Này các Tỷ-kheo, có ba việc cấp thiết này, người nông phu gia chủ cần phải làm. Thế nào là ba?
 
@@ -30,7 +30,7 @@ thượng giới học. Sắc bén sẽ là ước muốn của ta để chấp 
 muốn của ta để chấp hành tăng thượng tuệ học”. Như vậy, này các Tỷ-kheo, các Thầy cần phải học tập.
 
 <!--pg-->
-**62.- Sống Viễn Ly**
+### 62.- Sống Viễn Ly
 
 1\. - Có ba hạnh viễn ly này được các du sĩ ngoại đạo trình bày. Thế nào là ba? Viễn ly y áo, viễn ly đồ
 ăn khất thực, viễn ly sàng tọa.
@@ -79,7 +79,7 @@ dục sanh, có tầm có tứ. Trong thời gian ấy, này các Tỷ-kheo, v�
 không có kiết sử nào, do kiết sử ấy, vị Thánh đệ tử phải đi đến thế giới này nữa.
 
 <!--pg-->
-**93.- Hội Chúng**
+### 93.- Hội Chúng
 
 1\. - Có ba hội chúng này, này các Tỷ-kheo, Thế nào là ba? Hội chúng tối thượng, hội chúng không hòa
 hợp, hội chúng hòa hợp.
@@ -124,7 +124,7 @@ với ai cảm giác lạc thọ, tâm được định tĩnh.
 Những pháp này, này các Tỷ-kheo, là ba hội chúng.
 
 <!--pg-->
-**94.- Con Ngựa Thuần Thục**
+### 94.- Con Ngựa Thuần Thục
 1\. - Ðầy đủ với ba đức tánh, này các Tỷ-kheo, một con ngựa của vua, hiền thiện, thuần thục, xứng đáng
 để vua dùng, thuộc quyền sở hữu của vua, và được xem như một biểu tượng của vua. Thế nào là ba?
 
@@ -159,7 +159,7 @@ Tỷ-kheo, là Tỷ-kheo đầy đủ tốc lực.
 được cúng dường, đáng được chắp tay, và ruộng phước vô thượng ở đời.
 
 <!--pg-->
-**95.- Con Ngựa Thuần Thục**
+### 95.- Con Ngựa Thuần Thục
 
 1-4. ... (Hoàn toàn giống như kinh trên)
 
@@ -171,7 +171,7 @@ Tỷ-kheo, là Tỷ-kheo đầy đủ tốc lực.
 được cúng dường, đáng được chắp tay, và ruộng phước vô thượng ở đời.
 
 <!--pg-->
-**96.- Con Ngựa Thuần Thục**
+### 96.- Con Ngựa Thuần Thục
 
 1-4. ... (Hoàn toàn giống như kinh số 94, từ 1-4)
 
@@ -183,7 +183,7 @@ chứng ngộ và chứng đạt an trú vô lậu tâm giải thoát, tuệ gi�
 trọng, xúng đáng được cúng dường, xứng đáng được chắp tay, và ruộng phước vô thượng ở đời.
 
 <!--pg-->
-**97.- Vải Thô Bằng Vỏ Cây**
+### 97.- Vải Thô Bằng Vỏ Cây
 
 1\. - Này các Tỷ-kheo, có tấm vải bằng vỏ cây hoàn toàn mới, sắc xấu, cảm xúc khó chịu, và không có
 giá trị. Này các Tỷ-kheo, có tấm vải bằng vỏ cây bậc trung, sắc xấu, cảm xúc khó chịu, và không có giá
@@ -220,7 +220,7 @@ nộ, bất mãn, sẽ nói lên những lời này, chúng Tăng đuổi vị �
 bằng vỏ cây ấy trên đống rác.
 
 <!--pg-->
-**98.- Vải Ba-la-nại**
+### 98.- Vải Ba-la-nại
 
 1 - Này các Tỷ-kheo, có tấm vải kàsi (Ba-la-nại), hoàn toàn mới, có sắc đẹp, cảm xúc dễ chịu, và có giá
 trị lớn. Này các Tỷ-kheo, có tấm vải kàsi bậc trung, có sắc đẹp, cảm xúc dễ chịu, và có giá trị lớn. Này
@@ -257,7 +257,7 @@ Do vậy, này các Tỷ-kheo, hãy học tập như sau: “Chúng ta sẽ đư
 như ví dụ tấm vải bằng vỏ cây”. Như vậy, này các Tỷ-kheo, các Thầy cần phải học tập.
 
 <!--pg-->
-**99.- Hạt Muối.**
+### 99.- Hạt Muối.
 
 1\. - Ai nói như sau, này các Tỷ-kheo: “Người này làm nghiệp như thế nào, như thế nào, người ấy cảm
 thọ như vậy, như vậy”. Nếu sự kiện là vậy, này các Tỷ-kheo, thời không có đời sống Phạm hạnh, không
@@ -385,7 +385,7 @@ Nếu sự kiện là vậy, này các Tỷ-kheo, thời có đời sống Phạ
 chơn chánh đoạn diệt.
 
 <!--pg-->
-**100.- Kẻ Lọc Vàng**
+### 100.- Kẻ Lọc Vàng
 
 1\. - Này các Tỷ-kheo, có những uế nhiễm thô tạp của vàng như bụi, cát, đá, sạn và đá sỏi. Người đãi lọc
 bụi hay đệ tử của người đã lọc bụi đem đổ vào trong cái máng, rồi rửa sạch qua, rửa sạch lại, rửa sạch

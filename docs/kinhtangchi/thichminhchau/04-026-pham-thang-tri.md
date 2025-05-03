@@ -1,6 +1,6 @@
 # XXVI. Phẩm Thắng Trí
 
-**(I) (251) Thắng Trí**
+### (I) (251) Thắng Trí
 
 − Này các Tỷ-kheo, có bốn pháp này. Thế nào là bốn?
 
@@ -27,7 +27,7 @@ thắng trí.
 Này các Tỷ-kheo, có bốn pháp này.
 
 <!--pg-->
-**(II) (252) Tầm Cầu**
+### (II) (252) Tầm Cầu
 
 − Này các Tỷ-kheo, có bốn pháp phi Thánh cầu này. Thế nào là bốn?
 
@@ -49,7 +49,7 @@ khổ ách, Niết-bàn.
 Này các Tỷ-kheo, có bốn pháp Thánh cầu này.
 
 <!--pg-->
-**(III) (253) Nhiếp Pháp**
+### (III) (253) Nhiếp Pháp
 
 − Này các Tỷ-kheo, có bốn nhiếp này. Thế nào là bốn?
 
@@ -58,7 +58,7 @@ Này các Tỷ-kheo, có bốn pháp Thánh cầu này.
 Này các Tỷ-kheo, có bốn nhiếp pháp này.
 
 <!--pg-->
-**(IV) (254) Con của Màlunkyàputta**
+### (IV) (254) Con của Màlunkyàputta
 
 
 1\. Rồi Tôn giả Màlunkyàputta đi đến Thế Tôn; sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên.
@@ -97,7 +97,7 @@ rõ: “Sanh đã tận, Phạm hạnh đã thành, những việc nên làm đ�
 nữa”. Rồi Tôn giả Màlunkyàputta trở thành một vị A-la-hán nữa.
 
 <!--pg-->
-**(V) (255) Lợi Ích Cho Gia Ðình**
+### (V) (255) Lợi Ích Cho Gia Ðình
 
 1.- Phàm những gia đình nào, này các Tỷ-kheo, đạt đến sự lớn mạnh trong các tài sản, không được tồn
 tại lâu dài; tất cả đều do bốn sự kiện ấy hay là một trong những sự kiện này. Thế nào là bốn?
@@ -115,7 +115,7 @@ nhân có giới trong địa vị tối thắng. Phàm những gia đình nào,
 trong các tài sản, được tồn tại lâu dài; tất cả đều do bốn sự kiện ấy hay là một trong những sự kiện này.
 
 <!--pg-->
-**(VI) (256) Con Ngựa Thuần Chủng (1)**
+### (VI) (256) Con Ngựa Thuần Chủng (1)
 
 1.- Ðầy đủ với bốn đức tánh, này các Tỷ-kheo, một con ngựa của vua, hiền thiện, thuần chủng, xứng
 đáng để vua dùng, thuộc quyền sở hữu của vua, được xem như một biểu tượng của vua. Thế nào là bốn?
@@ -160,7 +160,7 @@ Tỷ-kheo xứng đáng được cung kính, được tôn trọng, được cú
 vô thượng ở đời.
 
 <!--pg-->
-**(VII) (257) Con Ngựa Thuần Chủng (2)**
+### (VII) (257) Con Ngựa Thuần Chủng (2)
 
 (Giống như kinh trước, chỉ khác định nghĩa về tốc độ của Tỷ-kheo, có thể giải thích khác như sau)
 
@@ -173,14 +173,14 @@ thắng trí, chứng đạt và an trú vô lậu tâm giải thoát, tuệ gi�
 _(các đức tánh khác như kinh trước)._
 
 <!--pg-->
-**(VIII) (258) Lực**
+### (VIII) (258) Lực
 
 − Này các Tỷ-kheo, có bốn lực này. Thế nào là bốn?
 
 Tấn lực, niệm lực, định lực, tuệ lực. Này các Tỷ-kheo, có bốn lực này.
 
 <!--pg-->
-**(IX) (259) Sống Trong Rừng**
+### (IX) (259) Sống Trong Rừng
 1.- Thành tựu với bốn pháp này, này các Tỷ-kheo, Tỷ-kheo không đủ điều kiện để sống trong rừng, các
 ngôi rừng rậm rạp, các trú xứ xa vắng. Thế nào là với bốn?
 
@@ -198,7 +198,7 @@ Thành tựu với bốn pháp này, này các Tỷ-kheo, Tỷ-kheo đủ điề
 rậm rạp, các trú xứ xa vắng.
 
 <!--pg-->
-**(X) (260) Hành Ðộng**
+### (X) (260) Hành Ðộng
 
 
 1\. - Thành tựu với bốn pháp này, này các Tỷ-kheo, kẻ ngu si, không thông minh, không là bậc Chân

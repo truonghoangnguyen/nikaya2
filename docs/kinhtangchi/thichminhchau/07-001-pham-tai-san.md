@@ -1,6 +1,6 @@
 # I. Phẩm Tài Sản
 
-**(I) (1) Ðược Ái Mộ (1)**
+### (I) (1) Ðược Ái Mộ (1)
 
 <!--pg-->
 1\. Như vầy tôi nghe:
@@ -35,11 +35,11 @@ muốn được tán thán, có xấu hổ, có sợ hãi, ít dục và chánh 
 Thành tựu bảy pháp này, này các Tỷ-kheo, Tỷ-kheo được các đồng Phạm hạnh ái mộ, được khả ý, được
 kính trọng, được bắt chước tu tập theo.
 
-**(II) (2) Ðược Ái Mộ(2)**
+### (II) (2) Ðược Ái Mộ(2)
 
 ... (như kinh 1, thay hai pháp cuối với “tật đố và xan tham” và với “không tật đố, không xan tham”).
 
-**(III) (3) Các Sức Mạnh Tóm Tắt**
+### (III) (3) Các Sức Mạnh Tóm Tắt
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, có bảy sức mạnh này. Thế nào là bảy?
@@ -59,7 +59,7 @@ _Quán rõ đích trí tuệ,_
 _Như ngọn lửa tàn diệt,_
 _Với tâm được giải thoát._
 
-**(IV) (4) Các Sức Mạnh rộng Thuyết**
+### (IV) (4) Các Sức Mạnh rộng Thuyết
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, có bảy sức mạnh này. Thế nào là bảy?
@@ -122,7 +122,7 @@ _Quán rõ đích trí tuệ,_
 _Như ngọn lửa tàn diệt,_
 _Với tâm được giải thoát._
 
-**(V) (5) Các Tài Sản Tóm Tắt**
+### (V) (5) Các Tài Sản Tóm Tắt
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, có bảy tài sản này. Thế nào là bảy?
@@ -145,7 +145,7 @@ _Tịnh tín và thấy pháp,_
 _Bậc trí chuyên chú tâm,_
 _ức niệm lời Phật dạy._
 
-**(VI) (6) Các Tài Sản Rộng Thuyết**
+### (VI) (6) Các Tài Sản Rộng Thuyết
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, có bảy tài sản này. Thế nào là bảy?
@@ -209,7 +209,7 @@ _Tịnh tín và thấy pháp,_
 _Bậc trí chuyên chú tâm,_
 _ức niệm lời Phật dạy._
 
-**(VII) (7) Ugga**
+### (VII) (7) Ugga
 
 <!--pg-->
 1\. Bấy giờ Ugga, vị Ðại thần của vua đi đến Thế Tôn, sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một
@@ -240,7 +240,7 @@ _Tịnh tín và thấy pháp,_
 _Bậc trí chuyên chú tâm,_
 _ức niệm lời Phật dạy._
 
-**(VIII) (8) Các Kiết Sử**
+### (VIII) (8) Các Kiết Sử
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, có bảy kiết sử này. Thế nào là bảy?
@@ -249,7 +249,7 @@ _ức niệm lời Phật dạy._
 2\. Tùy tham kiết sử, sân kiết sử, kiến kiết sử, nghi kiết sử, mạn kiết sử, hữu tham kiết sử, vô minh kiết
 sử. Này các Tỷ-kheo có bảy kiết sử này.
 
-**(IX) (9) Ðoạn Tận**
+### (IX) (9) Ðoạn Tận
 
 <!--pg-->
 1\. Này các Tỷ-kheo, do đoạn tận, do cắt đứt bảy kiết sử, Phạm hạnh được sống. Thế nào là bảy?
@@ -263,7 +263,7 @@ Tỷ-kheo đã đoạn tận tùy tham kiết sử, cắt đứt từ gốc rễ
 tái sanh, làm cho không thể sanh khởi trong tương lai, này các Tỷ-kheo, đây gọi là Tỷ-kheo đã chặt đứt
 khát ái, đã giải tỏa kiết sử, và chơn chánh hiện quán kiêu mạn, đã đoạn tận khổ đau.
 
-**(X) (10) Xan Tham**
+### (X) (10) Xan Tham
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, có bảy kiết sử này. Thế nào là bảy?

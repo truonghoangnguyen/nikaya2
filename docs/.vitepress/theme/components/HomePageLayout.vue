@@ -123,7 +123,7 @@
         <div class="book-grid">
           <div class="book-card">
             <div class="book-cover">
-              <img src="/kinh-truong-bo.jpg" alt="Kinh Tương Ưng - Thích Minh Châu">
+              <img src="/kinh-tang-chi-bo.jpg" alt="Kinh Tương Ưng - Thích Minh Châu">
             </div>
             <div class="book-info">
               <h3>Thích Minh Châu</h3>
@@ -131,18 +131,27 @@
               <a href="/kinhtangchi/thichminhchau/" class="book-link">Đọc bản dịch</a>
             </div>
           </div>
-          <div class="book-card comparison">
-            <div class="book-cover comparison-cover">
-              <div class="comparison-icon">
-                <span>⟷</span>
-              </div>
+          <div class="book-card">
+            <div class="book-cover">
+              <img src="/an-sujato-cover.jpg" alt="Kinh Tương Ưng - Thích Minh Châu">
             </div>
             <div class="book-info">
-              <h3>Bodhi-Thich Minh Châu </h3>
-              <p>Xem các bản dịch khác nhau song song để hiểu rõ hơn về nội dung và ý nghĩa của kinh.</p>
-              <a href="/kinhtangchi/c-bodhi-tmc-vi/mucluc.html" class="book-link">So sánh bản dịch</a>
+              <h3>Bhikkhu Sujato</h3>
+              <p>Bản dịch tiếng Việt từ bản tiếng Anh của Bhikkhu Sujato.</p>
+              <a href="/kinhtangchi/sujato-vi/" class="book-link">Đọc</a>
             </div>
           </div>
+          <div class="book-card">
+            <div class="book-cover">
+              <img src="/an-sujato-cover.jpg" alt="Kinh Tương Ưng - Thích Minh Châu">
+            </div>
+            <div class="book-info">
+              <h3>Bhikkhu Sujato</h3>
+              <p>Numbered Discourses.</p>
+              <a href="/kinhtangchi/sujato-en/" class="book-link">Đọc</a>
+            </div>
+          </div>
+
 
         </div>
 

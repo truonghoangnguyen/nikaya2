@@ -1,6 +1,6 @@
 # VII. Phẩm Lớn
 
-**61.- Sở y xứ.**
+### 61.- Sở y xứ.
 
 1\. Này các Tỷ-kheo, có ba y sứ này của ngoại đạo, dầu có bị các bậc Hiền giả cật vấn, nạn vấn lý do,
 thảo luận, vẫn kiên trì trong quan điểm truyền thống về vô vi (không hành động). Thế nào là ba?
@@ -142,7 +142,7 @@ có tội lỗi, không bị các Sa-môn, các Bà-la-môn có trí quở trác
 này được nói đến.
 
 <!--pg-->
-**62.- Các Sợ Hãi.**
+### 62.- Các Sợ Hãi.
 
 1\. - Có ba sợ hãi này, này các Tỷ-kheo, làm chia rẽ mẹ con, được người phàm phu không học nói đến.
 Thế nào là ba?
@@ -211,7 +211,7 @@ chánh mạng, chánh tinh tấn, chánh niệm, chánh định. Ðây là con �
 là đưa đến từ bỏ, vượt qua ba sợ hãi không làm chia rẽ mẹ con này, và ba sợ hãi làm chia rẽ mẹ con này.
 
 <!--pg-->
-**63.- Venaga**
+### 63.- Venaga
 
 1-7
 
@@ -330,7 +330,7 @@ thay, Tôn giả Gotama! Thưa Tôn giả, như người dựng đứng lại nh
 Tôn giả nhận con làm đệ tử cư sĩ, từ nay cho đến mạng chung, con trọn đời quy ngưỡng.
 
 <!--pg-->
-**64.- Sarabha**
+### 64.- Sarabha
 
 1-6
 
@@ -430,7 +430,7 @@ Như vậy, các du sĩ ấy bao vây du sĩ Sarabha, công kích du sĩ Sarabha
 như vậy.
 
 <!--pg-->
-**65.- Các Vị Ở Kesaputta**
+### 65.- Các Vị Ở Kesaputta
 
 1-17
 
@@ -627,7 +627,7 @@ chúng Tỷ-kheo. Mong Thế Tôn nhận chúng con làm đệ tử cư sĩ, t�
 xin trọn đời quy ngưỡng.
 
 <!--pg-->
-**66.- Sàlhà**
+### 66.- Sàlhà
 
 1-13
 
@@ -787,7 +787,7 @@ thiện. Nay ta không có nữa. Như vậy là thiện”. Như vậy, ngay tr
 thoát khỏi hy cầu, được tịch tịnh, được thanh lương, cảm thấy an lạc, tự mình an trú trong Phạm tánh.
 
 <!--pg-->
-**67.- Các Vấn Ðề Ðược Nói Ðến**
+### 67.- Các Vấn Ðề Ðược Nói Ðến
 
 
 1\. - Này các Tỷ-kheo, có ba vấn đề này được nói đến. Thế nào là ba? Có thể nói về quá khứ, này các Tỷkheo, nói rằng: “Như vầy đã xảy ra trong thời quá khứ. Có thể nói về tương lai, này các Tỷ-kheo, nói
@@ -878,7 +878,7 @@ _Bậc trí biết rõ vậy_\
 _Nói lời thật khiêm tốn_
 
 <!--pg-->
-**68. Du Sĩ Ngoại Ðạo.**
+### 68. Du Sĩ Ngoại Ðạo.
 
 1\. - Này các Tỷ-kheo, nếu các du sĩ ngoại đạo hỏi như sau: “Có ba pháp này, này các Hiền giả. Thế nào
 là ba? Tham, sân, si. Những pháp này, này các Hiền giả, là ba pháp. Trong ba pháp này, này các Hiền
@@ -943,7 +943,7 @@ sanh khởi được đoạn tận. Ðây là nhân, này các Hiền giả, đ�
 sanh khởi, hay si đã sanh khởi được đoạn tận.”
 
 <!--pg-->
-**69.- Các Căn Bản Bất Thiện**
+### 69.- Các Căn Bản Bất Thiện
 1\. - Này các Tỷ-kheo, có ba căn bản bất thiện này. Thế nào là ba? Tham là căn bản bất thiện, sân là căn
 bản bất thiện, si là căn bản bất thiện.
 
@@ -1046,7 +1046,7 @@ tại được Bát-niết-bàn
 Những pháp này, này các Tỷ-kheo, là ba căn bản của thiện.
 
 <!--pg-->
-**70.- Các Lễ Uposatha**
+### 70.- Các Lễ Uposatha
 
 Như vầy tôi nghe.
 

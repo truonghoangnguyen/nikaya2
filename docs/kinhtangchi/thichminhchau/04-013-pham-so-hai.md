@@ -1,6 +1,6 @@
 # XIII. Phẩm Sợ Hãi
 
-**(I) (121) Tự Trách**
+### (I) (121) Tự Trách
 
 1\. - Này các Tỷ-kheo, có bốn sự sợ hãi này. Thế nào là bốn? Sợ hãi tự mình trách, sợ hãi người khác
 trách, sợ hãi hình phạt, sợ hãi ác thú.
@@ -46,7 +46,7 @@ nghĩ lành; sống với tự ngã trong sạch. Này các Tỷ-kheo, đây g�
 Này các Tỷ-kheo, có bốn loại sợ hãi này.
 
 <!--pg-->
-**(II) (122) Sóng Biển**
+### (II) (122) Sóng Biển
 
 1\. - Có bốn sự sợ hãi này, này các Tỷ-kheo, được chờ đợi với người đi xuống nước. Thế nào là bốn? Sợ
 hãi về sóng, sợ hãi về cá sấu, sợ hãi về nước xoáy, sợ hãi về cá dữ. Có bốn sự sợ hãi này, này các Tỷkheo, được chờ đợi với người đi xuống nước.
@@ -129,7 +129,7 @@ Này các Tỷ-kheo, có bốn sự sợ hãi này, ở đây, một số thiệ
 gia đình trong Pháp và Luật này.
 
 <!--pg-->
-**(III) (123) Hạng Người Sai Khác (1)**
+### (III) (123) Hạng Người Sai Khác (1)
 
 1\. - Có bốn hạng người này có mặt, hiện hữu ở đời. Thế nào là bốn?
 
@@ -171,7 +171,7 @@ không nghe pháp, tức là vấn đề sanh thú.
 Này các Tỷ-kheo, có bốn hạng người này có mặt, hiện hữu ở đời.
 
 <!--pg-->
-**(IV) (124) Các Hạng Người Sai Khác (2)**
+### (IV) (124) Các Hạng Người Sai Khác (2)
 
 1\. - Có bốn hạng người này, này các Tỷ kheo, có mặt, hiện hữu ở đời. Thế nào là bốn?
 
@@ -191,7 +191,7 @@ các hàng phàm phu.
 Có bốn hạng người này, này các Tỷ-kheo, có mặt, hiện hữu ở đời.
 
 <!--pg-->
-**(V) (125) Từ (1)**
+### (V) (125) Từ (1)
 
 1\. - Có bốn hạng người này, này các Tỷ-kheo, có mặt, hiện hữu ở đời. Thế nào là bốn?
 
@@ -226,7 +226,7 @@ khác giữa Thánh đệ tử có nghe pháp và kẻ phàm phu không nghe ph�
 Này các Tỷ-kheo, có bốn hạng người này có mặt, hiện hữu ở đời.
 
 <!--pg-->
-**(VI) (126) Từ (2)**
+### (VI) (126) Từ (2)
 
 − Có bốn hạng người này, này các Tỷ-kheo, có mặt, hiện hữu ở đời. Thế nào là bốn?
 
@@ -236,7 +236,7 @@ chư Thiên ở Tịnh cư Thiên. Này các Tỷ-kheo, sự sanh khởi này, k
 phu. Này các Tỷ-kheo, có bốn hạng người có mặt, hiện hữu ở đời.
 
 <!--pg-->
-**(VII) (127) Vi Diệu (1)**
+### (VII) (127) Vi Diệu (1)
 
 1- Này các Tỷ-kheo, khi Như Lai, bậc A-la-hán, xuất hiện, có bốn pháp vi diệu chưa từng có xuất hiện.
 Thế nào là bốn?
@@ -273,7 +273,7 @@ Này các Tỷ-kheo, khi Như Lai, bậc A-la-hán,Chánh Ðẳng Giác xuất h
 có này xuất hiện.
 
 <!--pg-->
-**(VIII) (128) Vi Diệu (2)**
+### (VIII) (128) Vi Diệu (2)
 
 1\. - Này các Tỷ-kheo, khi Như Lai, bậc A-la-hán, Chánh Ðẳng Giác xuất hiện, có bốn pháp vi diệu chưa
 từng có này xuất hiện. Thế nào là bốn?
@@ -298,7 +298,7 @@ Này các Tỷ-kheo, khi Như Lai, bậc A-la-hán, Chánh Ðẳng Giác xuất 
 từng có này xuất hiện.
 
 <!--pg-->
-**(IX) (129) Vi Diệu (3)**
+### (IX) (129) Vi Diệu (3)
 
 1\. - Này các Tỷ-kheo, có bốn pháp vi diệu chưa từng có này xuất hiện. Thế nào là bốn?
 
@@ -312,7 +312,7 @@ Ananda. Hội chúng ấy hoan hỷ được yết kiến Ananda. Tại đấy, 
 được vui vẻ, này các Tỷ-kheo, nếu Ananda giữ im lặng.
 
 <!--pg-->
-**(X) (130) Vi Diệu (4)**
+### (X) (130) Vi Diệu (4)
 
 1\. - Này các Tỷ-kheo, có bốn pháp vi diệu chưa từng có này về vua Chuyển Luân. Thế nào là bốn?
 

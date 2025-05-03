@@ -1,6 +1,6 @@
 # VII. Phẩm Song Ðôi
 
-**(I) (61) Vô Minh**
+### (I) (61) Vô Minh
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, khởi điểm đầu tiên của vô minh không thể nêu rõ để có thể nói: “Trước điểm này,
@@ -91,7 +91,7 @@ mãn, thời làm viên mãn Bảy giác chi; Bảy giác chi được viên mã
 
 Như vậy là thức ăn của minh giải thoát, và như vậy là viên mãn.
 
-**(II ) (62) Hữu Ái**
+### (II ) (62) Hữu Ái
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, khởi điểm đầu tiên của hữu ái không thể nêu rõ để có thể nói: “Trước điểm này,
@@ -104,7 +104,7 @@ _hữu ái”._
 
 Như vậy. đây là thức ăn của hữu ái, và như vậy là sự viên mãn. (Số 4, 5, 6 còn lại giống như kinh trước).
 
-**(III) (63) Cứu Cánh**
+### (III) (63) Cứu Cánh
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, những ai đặt sự cứu cánh ở nơi Ta tất cả những ấy đầy đủ chánh kiến. Với những
@@ -124,7 +124,7 @@ Này các Tỷ-kheo, những ai đạt sự cứu cánh ở nơi ta, tất cả 
 những người đầy đủ chánh kiến, năm hạng người này đạt được cứu cánh ngay ở nơi đây. Năm hạng
 người này, sau khi từ bỏ đời này, đạt được cứu cánh.
 
-**(IV) (64) Bất Ðộng**
+### (IV) (64) Bất Ðộng
 
 <!--pg-->
 1\. Này các Tỷ-kheo, những ai có lòng tịnh tín bất động ở nơi Ta, tất cả những vị ấy là những bậc Dự lưu.
@@ -145,7 +145,7 @@ Này các Tỷ-kheo, những ai có lòng tịnh tín bất động ở nơi Ta,
 các hạng Dự lưu ấy, năm hạng người này đạt được cứu cánh ngay ở nơi đây. Năm hạng người này, sau
 khi từ bỏ đời này, đạt được cứu cánh.
 
-**(V) (65) Lạc Và Khổ (1)**
+### (V) (65) Lạc Và Khổ (1)
 
 <!--pg-->
 1\. Một thời, Tôn giả Sàriputta trú ở giữa dân chúng Magadha, tại làng Nàlàka. Rồi du sĩ Sàmandakàni đi
@@ -169,7 +169,7 @@ có xúc chạm với kiếm. Cho đến bà con bạn bè, khi gặp nhau, khi 
 
 Này Hiền giả, khi không có tái sanh, chờ đợi là lạc này.
 
-**(VI) (66) Lạc Và Khổ (2)**
+### (VI) (66) Lạc Và Khổ (2)
 
 <!--pg-->
 1\. Một thời, Tôn giả Sàriputta trú ở giữa dân chúng Magadha, tại Nàlalagàmaka. Rồi du sĩ Sàmandakàni
@@ -202,7 +202,7 @@ chỗ lộ thiên... khi đi đến giữa các Tỷ-kheo, có được lạc th
 
 Khi nào thích ý có mặt, này Hiền giả, chờ đợi là lạc thú này.
 
-**(VII) (67) Tại Nalakapàna (1)**
+### (VII) (67) Tại Nalakapàna (1)
 
 <!--pg-->
 1\. Một thời, Thế Tôn bộ hành giữa dân chúng Kosala, với đại chúng Tỷ-kheo, đi đến tại một thị trấn của
@@ -279,7 +279,7 @@ Hạng người có sợ hãi... Hạng người có tinh tấn... Hạng ngư�
 nộ... Hạng người không có hiềm hận... Hạng người ít dục... Hạng người thiện bằng hữu... Hạng người
 chánh tri kiến, này Sàriputta, tức là không tổn giảm.
 
-**(VIII) (68) Nalakapàna (2)**
+### (VIII) (68) Nalakapàna (2)
 
 <!--pg-->
 1\. Một thời, Thế Tôn trú ở Nalakapàna, tại Palàsavana. Lúc bấy giờ, Thế Tôn trong ngày trai giới
@@ -291,7 +291,7 @@ _pháp, không có xấu hổ, không có sợ hãi, không có trì pháp, khô
 _trì pháp, không có suy tư ý nghĩa, không có thực hành đúng pháp, không có phóng dật trong các thiện_
 _pháp)..._
 
-**(XI) (69) Những Ðề Tài Câu Chuyện (1)**
+### (XI) (69) Những Ðề Tài Câu Chuyện (1)
 
 <!--pg-->
 1\. Một thời, Thế Tôn trú ở Sàvatthi, tại Jetavana trong khu vườn của ông Anàthapindika. Lúc bấy giờ,
@@ -331,7 +331,7 @@ Này các Tỷ-kheo, có mười đề tài để nói chuyện này.
 này, thời các Thầy có thể với ánh sáng (của mình) đánh bạt ánh sáng của mặt trăng, mặt trời, những vật
 có đại thần lực, có uy lực, còn nói gì của các du sĩ ngoại đạo.
 
-**(X) (70) Những Ðề Tài Câu Chuyện (2)**
+### (X) (70) Những Ðề Tài Câu Chuyện (2)
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, có mười sự việc được tán thán này. Thế nào là mười?

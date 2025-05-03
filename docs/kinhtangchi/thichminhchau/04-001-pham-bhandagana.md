@@ -1,6 +1,6 @@
 # I. Phẩm Bhandagana
 
-**(I) (1) Giác Ngộ**
+### (I) (1) Giác Ngộ
 
 ## Như vậy, tôi nghe:
 
@@ -36,7 +36,7 @@ _Ðạo sư đoạn tận khổ_\
 _Bậc Tuệ nhãn tịch tịnh._
 
 <!--pg-->
-**(II) (2) Rời Khỏi**
+### (II) (2) Rời Khỏi
 
 1.- Người không thành tựu bốn pháp này, này các Tỷ-kheo, được gọi là bị rời khỏi pháp luật này. Thế
 nào là bốn?
@@ -65,7 +65,7 @@ _Người ấy được an lạc_\
 _Do an lạc đưa đến_
 
 <!--pg-->
-**(III) (3) Mất Gốc (1)**
+### (III) (3) Mất Gốc (1)
 
 − Tán thán, không tán thán, tín nhiệm, không tín nhiệm.
 
@@ -119,7 +119,7 @@ _Nếu mắng nhiếc bậc Thánh_\
 _Với lời, ý, nguyện ác._
 
 <!--pg-->
-**(IV) (4) Mất Gốc (2)**
+### (IV) (4) Mất Gốc (2)
 
 1.- Do tà hạnh trong bốn sự, này các Tỷ-kheo, kẻ ngu, không thông minh, không phải bậc Chân nhân, tự
 mình sử xự như môt kẻ mất gốc, bị thương tích, phạm tội, bị kẻ trí quở trách, và tạo nhiều điều vô
@@ -165,7 +165,7 @@ _Ðời này, bậc trí khen_\
 _Ðời sau hưởng Thiên giới_
 
 <!--pg-->
-**(V) (5) Thuận Dòng**
+### (V) (5) Thuận Dòng
 
 1.- Có bốn hạng người này, này các Tỷ-kheo, hiện hữu có mặt ở đời. Thế nào là bốn? Hạng người đi
 thuận dòng, hạng người đi nghịch dòng, hạng người tự đứng lại, vị Bà-la-môn đã vượt qua đến bờ biên
@@ -234,7 +234,7 @@ _Bậc đã đến bờ kia._
 
 
 <!--pg-->
-**(VI) (6) Học Hỏi Ít.**
+### (VI) (6) Học Hỏi Ít.
 
 1.- Có bốn hạng người này, này các Tỷ-kheo, có mặt, hiện hữu ở đời. Thế nào là bốn? Nghe ít, điều đã
 được nghe không khởi lên; Nghe ít, điều đã được nghe được khởi lên; Nghe nhiều, điều đã được nghe
@@ -298,7 +298,7 @@ _Chư thiên khen vị ấy_\
 _Phạm thiên cũng ngợi khen_
 
 <!--pg-->
-**(VI I) (7) Chói Sáng Tăng Chúng**
+### (VI I) (7) Chói Sáng Tăng Chúng
 
 − Có bốn hạng người này, này các Tỷ-kheo, thông minh, được huấn luyện, không sợ hãi, nghe nhiều, trì
 pháp, thực hành pháp, tùy pháp, chói sáng tăng chúng. Thế nào là bốn?
@@ -323,7 +323,7 @@ _Họ chói sáng Tăng chúng_\
 _Là ánh sáng Tăng chúng_
 
 <!--pg-->
-**(VIII ) (8) Vô Sở Úy**
+### (VIII ) (8) Vô Sở Úy
 
 − Có bốn vô sở úy của Như Lai, này các Tỷ-kheo, do thành tựu bốn vô sở úy này, Như Lai tự nhận cho
 mình địa vị ngưu vương, rống tiếng con sư tử trong các hội chúng và chuyển pháp luân. Thế nào là bốn?
@@ -373,7 +373,7 @@ _Mọi chúng sanh đảnh lễ_\
 _Bậc vượt quan sanh hữu._
 
 <!--pg-->
-**(IX) (9) Khát Ái**
+### (IX) (9) Khát Ái
 
 − Có bốn ái sanh khởi này, này các Tỷ-kheo, khi nào ái sanh, có thể sanh khởi nơi vị Tỷ-kheo. Thế nào
 là bốn?
@@ -397,7 +397,7 @@ _An trú, không thất niệm_\
 _Vị ấy sống xuất gia._
 
 <!--pg-->
-**(X) (10) Các Ách**
+### (X) (10) Các Ách
 
 1.- Này các Tỷ-kheo, có bốn ách này. Thế nào là bốn? Dục ách, hữu ách, kiến ách, vô minh ách.
 

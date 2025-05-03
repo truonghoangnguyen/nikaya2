@@ -1,6 +1,6 @@
 # XIV. Phẩm Thiện Lương
 
-**(I) (134) Lành Và Không Lành**
+### (I) (134) Lành Và Không Lành
 
 <!--pg-->
 1\. Này các Tỷ-kheo, Ta sẽ thuyết cho các Thầy về lành và không lành. Hãy nghe và khéo tác ý, Ta sẽ
@@ -24,7 +24,7 @@ Chánh kiến... chánh giải thoát.
 
 Này các Tỷ-kheo, đây gọi là lành.
 
-**(II) (135) Thánh vả Phi Thánh**
+### (II) (135) Thánh vả Phi Thánh
 
 <!--pg-->
 1\. Này các Tỷ-kheo, Ta sẽ giảng về Thánh pháp và phi Thánh pháp. Hãy nghe và khéo tác ý, Ta sẽ nói.
@@ -45,39 +45,39 @@ Tà kiến... tà giải thoát. Như vậy, này các Tỷ-kheo, gọi là phi 
 4\. Chánh kiến... chánh giải thoát.
 Này các Tỷ-kheo, đây gọi là Thánh pháp.
 
-**(III) (136) Thiện và Bất Thiện**
+### (III) (136) Thiện và Bất Thiện
 
 _(Giống như kinh trước, chỉ đổi thiện và bất thiện)._
 
-**(IV) (137) Mục Ðích và Phi Mục Ðích**
+### (IV) (137) Mục Ðích và Phi Mục Ðích
 
 _(Giống như kinh trước, chỉ đổi mục đích và phi mục đích)._
 
-**(V) (138) Pháp và Phi Pháp**
+### (V) (138) Pháp và Phi Pháp
 
 _(Giống như kinh trước, chỉ đổi pháp và phi pháp)._
 
-**(VI) (139) Hữu Lậu và Vô Lậu**
+### (VI) (139) Hữu Lậu và Vô Lậu
 
 _(Giống như kinh trước, chỉ đổi hữu lậu và vô lậu)._
 
-**(VII) (140) Có Tội và Vô Tội**
+### (VII) (140) Có Tội và Vô Tội
 
 _(Giống như kinh trước, chỉ đổi có tội và vô tội)._
 
-**(VIII) (141) Hối Hận và Không Hối Hận**
+### (VIII) (141) Hối Hận và Không Hối Hận
 
 _(Giống như kinh trước, chỉ đổi hối hận và không hối hận)._
 
-**(IX) (142) Ði Ðến Tích Tập và Không Tích Tập**
+### (IX) (142) Ði Ðến Tích Tập và Không Tích Tập
 
 _(Giống như kinh trước, chỉ đổi có tích tập và không tích tập)._
 
-**(X) (143) Dẫn Khổ và Không dẫn lạc**
+### (X) (143) Dẫn Khổ và Không dẫn lạc
 
 _(Giống như kinh trước, chỉ đổi có dẫn khổ và không dẫn lạc)._
 
-**(XI) (144) Khổ Dị Thục và Lạc Dị Thục**
+### (XI) (144) Khổ Dị Thục và Lạc Dị Thục
 
 _(Giống như kinh trước, chỉ đổi khổ dị thục và lạc dị thục)._
 

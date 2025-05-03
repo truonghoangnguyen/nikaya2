@@ -1,6 +1,6 @@
 # XVIII. Phẩm Makkhali
 
-**1-17 Một Pháp**
+### 1-17 Một Pháp
 
 1\. Có một người, này các Tỷ-kheo, khi xuất hiện ở đời, sự xuất hiện đưa lại bất hạnh cho đa số, bất lạc
 cho đa số, bất lợi cho đa số, đưa đến bất hạnh, đau khổ cho chư Thiên và loài Người. Một người ấy là

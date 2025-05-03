@@ -1,6 +1,6 @@
 # VI. Phẩm Búng Ngón Tay
 
-**1-10 Tâm Ðược Tu Tập**
+### 1-10 Tâm Ðược Tu Tập
 
 1\. - Tâm này, này các Tỷ-kheo, là sáng chói. Và tâm này bị ô nhiễm bởi các cấu uế từ ngoài vào. Kẻ
 phàm phu ít nghe, không như thật rõ biết tâm ấy. Do vậy, Ta nói rằng tâm kẻ phàm phu ít nghe, không

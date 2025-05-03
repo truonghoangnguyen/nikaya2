@@ -1,7 +1,7 @@
 # IV. Phẩm Sứ Giả Của Trời
 
 
-**31. Ngang Bằng Với Phạm Thiên**
+### 31. Ngang Bằng Với Phạm Thiên
 
 − Những gia đình nào, này các Tỷ-kheo, trong ấy, các con cái kính lễ mẹ cha ở trong nhà, những gia
 đình ấy được chấp nhận ngang bằng với Phạm Thiên. Những gia đình nào, này các Tỷ-kheo, trong ấy,
@@ -30,7 +30,7 @@ _Ðời này người Hiền khen_\
 _Ðời sau hưởng Thiên lạc_
 
 <!--pg-->
-**32. Ananda**
+### 32. Ananda
 
 1\. Rồi Tôn giả Ananda đi đến Thế Tôn, sau khi đến, đảnh lễ Thế Tôn, rồi ngồi xuống một bên; ngồi
 xuống một bên, Tôn giả Ananda bạch Thế Tôn:
@@ -63,7 +63,7 @@ _Ta nói người như vậy,_\
 _Ðã vượt khỏi sanh già._
 
 <!--pg-->
-**Sãriputta**
+### Sãriputta
 2\. - Rồi Tôn giả Sàriputta đi đến Thế Tôn; sau khi đến đảnh lễ Thế Tôn rồi ngồi xuống một bên. Thế
 Tôn nói với Tôn giả Sàriputta đang ngồi xuống một bên:
 − Này Sàriputta, Ta có thể thuyết pháp một cách tóm lược. Này, Sàriputta, ta có thể thuyết pháp một
@@ -96,7 +96,7 @@ _Ta nói trí giải thoát_\
 _Vô minh được phá tận._
 
 <!--pg-->
-**33.- Các Nguyên Nhân**
+### 33.- Các Nguyên Nhân
 
 1\. - Có ba nguyên nhân này, này các Tỷ-kheo, khởi lên các nghiệp. Thế nào là ba? Tham là nguyên nhân
 khởi lên các nghiệp. Sân là nguyên nhân khởi lên các nghiệp. Si là nguyên nhân khởi lên các nghiệp.
@@ -154,7 +154,7 @@ _Làm khởi lên minh trí,_\
 _Từ bỏ mọi ác thú._
 
 <!--pg-->
-**34.- Về Alavì**
+### 34.- Về Alavì
 
 Như vầy tôi nghe.
 
@@ -217,7 +217,7 @@ _An tịnh, cảm thọ lạc_\
 _Với tâm đạt an tịnh._
 
 <!--pg-->
-**35.- Diêm Vương**
+### 35.- Diêm Vương
 
 1-6
 
@@ -392,7 +392,7 @@ _Mọi đau đớn khổ sầu_\
 _Thảy đều được siêu thoát._
 
 <!--pg-->
-**36.- Bốn Bậc Ðại Vương**
+### 36.- Bốn Bậc Ðại Vương
 
 − Này các Tỷ-kheo, trong ngày thứ tám của nửa tháng, các vị Ðại thần cố vấn cho bốn Ðại vương, đi du
 hành trong thế giới này để xem trong loài người, có nhiều người có hiếu với mẹ, có hiếu với cha, có kính
@@ -426,7 +426,7 @@ Rồi này các Tỷ-kheo, chư Thiên ở cõi trời thứ ba mươi ba hoan h
 − “Thật vậy, Thiên chúng sẽ được sung mãn, còn các Asura chúng sẽ bị tổn giảm.
 
 <!--pg-->
-**37.- Sakka**
+### 37.- Sakka
 
 Thuở xưa, này các Tỷ-kheo, Thiên chủ Sakka đang thuyết giảng cho chư Thiên ở cõi Trời thứ Ba mươi
 ba, trong khi ấy, nói lên bài kệ như sau:
@@ -477,7 +477,7 @@ Vì cớ sao? Ta nói rằng, vị Tỷ-kheo ấy, này các Tỷ-kheo, đã tho
 não, giải thoát khỏi khổ đau.
 
 <!--pg-->
-**38.- Ðược Nuôi Dưỡng Tế Nhị**
+### 38.- Ðược Nuôi Dưỡng Tế Nhị
 
 1\. - Này các Tỷ-kheo, Ta được nuôi dưỡng tế nhị, tối thắng nuôi dưỡng tế nhị, cứu cánh nuôi dưỡng tế
 nhị. Này các Tỷ-kheo, trong nhà Phụ vương ta, các hồ nước được xây lên, trong một hồ có hoa sen xanh,
@@ -509,7 +509,7 @@ khi quan sát về ta như vậy, này các Tỷ-kheo, sự kiêu mạn của s�
 toàn.
 
 <!--pg-->
-**39. Kiêu Mạn**
+### 39. Kiêu Mạn
 
 1\. - Có ba kiêu mạn này, này các Tỷ-kheo, Thế nào là ba? Kiêu mạn của tuổi trẻ, Kiêu mạn của không
 bệnh, Kiêu mạn của sự sống.
@@ -553,7 +553,7 @@ _ta sẽ không trở lui_\
 _Ðích Phạm hạnh ta đến_
 
 <!--pg-->
-**40.- Tăng Thượng**
+### 40.- Tăng Thượng
 
 1-4
 

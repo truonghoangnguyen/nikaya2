@@ -1,6 +1,6 @@
 # XIII. Phẩm Bố Thí
 
-**1-10 Bố Thí**
+### 1-10 Bố Thí
 
 1.- Này các Tỷ-kheo, có hai loại bố thí này. Thế nào là hai? Bố thí tài vật và bố thí pháp. Những pháp
 này, này các Tỷ-kheo, là các loại bố thí. Tối thắng trong hai loại bố thí này, này các Tỷ-kheo, tức là

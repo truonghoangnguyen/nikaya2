@@ -1,6 +1,6 @@
 # XIX. Phẩm Không Phóng Dật
 
-**1-44 Một Pháp**
+### 1-44 Một Pháp
 
 <!--pg-->
 1\. Ví như trong cõi Jambudipa (Diêm-phủ-đề) này, số ít là các khu vườn khả ái, các khu rừng khả ái, các

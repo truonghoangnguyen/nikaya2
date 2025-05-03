@@ -1,6 +1,6 @@
 # V. Phẩm Ngày Trai Giới
 
-**(I) (41) Các Trai Giới**
+### (I) (41) Các Trai Giới
 
 <!--pg-->
 1\. Như vầy tôi nghe:
@@ -71,7 +71,7 @@ vị A-la-hán, ta sẽ thực hành ngày trai giới “. Ðây là chi phần
 Này các Tỷ-kheo, ngày trai giới thành tựu tám chi phần được thực hành như vậy, thời có được quả lớn,
 có lợi ích lớn, có rực rỡ lớn, có biến mãn lớn.
 
-**(II) (42) Ngày Trai Giới**
+### (II) (42) Ngày Trai Giới
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, ngày trai giới thành tựu tám chi phần, được thực hành thời có được quả lớn, có lợi
@@ -186,7 +186,7 @@ _Ðem lại nhiều an lạc_
 _Ðược sanh lên cõi trời_
 _Không bị người cười chê._
 
-**(III) (43) Visàkhà**
+### (III) (43) Visàkhà
 
 <!--pg-->
 1\. Một thời, Thế Tôn trú ở Sàvavatthì, tại Ðông Viên, lâu đài mẹ của Migàrà. Rồi Visàkhà, mẹ của
@@ -197,7 +197,7 @@ mẹ của Migàrà đang ngồi một bên:
 2\. - Này Visàkhà, ngày trai giới đầy đủ tám chi phần được thực hành, thời có được quả lớn, có lợi ích
 lớn, có rực rỡ lớn, có biến mãn lớn ... (giống như kinh 42 với cả bài kệ, với những thay đổi cần thiết ).
 
-**(IV) (44) Vàsettha**
+### (IV) (44) Vàsettha
 
 <!--pg-->
 1\. Một thời, Thế Tôn trú ở Vesàli, tại Mahàvana, ngôi nhà có nóc nhọn, rồi nam cư sĩ Vàsettha đi đến
@@ -221,7 +221,7 @@ Thiên, các ác ma, các Phạm thiên, hay quần chúng Sa-môn, Bà-la-môn,
 dài. Này Vàsettha, nếu các cây sàlà lớn này có thể thực hành ngày trai giới với đầy đủ tám chi phần, sẽ
 được hạnh phúc an lạc lâu dài, nếu chúng có tư duy, nói gì đến loài người.
 
-**(V) (45) Bojjhà**
+### (V) (45) Bojjhà
 
 <!--pg-->
 1\. Một thời, Thế Tôn trú ở Sàvavatthì, tại Jetanava, khu vườn ông Anàthapindika. Rồi nữ cư sĩ Bojjhà đi
@@ -231,7 +231,7 @@ ngồi xuống một bên:
 <!--pg-->
 2\. ... (Thế Tôn nói lại kinh 42, kể cả bài kệ, với những thay đổi cần thiết)...
 
-**(VI) (46) Tôn Gỉả Anuruddha**
+### (VI) (46) Tôn Gỉả Anuruddha
 
 <!--pg-->
 1\. Một thời, Thế Tôn trú ở Kosambi, tại khu vườn Ghosita. Lúc bấy giờ Tôn giả Anuruddha, đang đi
@@ -328,7 +328,7 @@ _Ưa thích của người chồng,_
 _Sẽ được sanh tại chỗ_
 _Các chư Thiên khả ái._
 
-**(VII) (47) Visàkhà**
+### (VII) (47) Visàkhà
 
 <!--pg-->
 1\. Một thời, Thế Tôn trú ở Sàvavatthì, tại Ðông viên, lâu đài mẹ của Migàrà. Rồi Visàkhà, mẹ của
@@ -338,7 +338,7 @@ mẹ của Migàrà đang ngồi một bên:
 <!--pg-->
 2\. ... (Thế Tôn thuyết như kinh số 46 và bài kệ, với những thay đổi cần thiết).
 
-**(VIII) (48) Nakulamàtà**
+### (VIII) (48) Nakulamàtà
 
 <!--pg-->
 1\. Một thời, Thế Tôn trú ở giữa dân chúng Bhagga, tại núi Summuràma, rừng Bhesakala, tại vườn Lộc
@@ -348,7 +348,7 @@ bên. Rồi Thế Tôn nói với nữ gia chủ Nakulamàtà đang ngồi một
 <!--pg-->
 2\. ... (Thế Tôn thuyết như kinh số 46 và bài kệ, với những thay đổi cần thiết) .
 
-**(IX) (49) Ở Ðời Này**
+### (IX) (49) Ở Ðời Này
 
 <!--pg-->
 1\. Một thời, Thế Tôn trú ở Sàvavatthì, tại Ðông viên, lâu đài mẹ của Migàrà. Rồi Visàkhà, mẹ của
@@ -438,7 +438,7 @@ _Nữ cư sĩ như vậy_
 _Với giới hạnh đầy đủ_
 _Sanh làm vị Thiên nữ_
 _Với thân thật khả ái._
-**(X) (50) Ðời Này**
+### (X) (50) Ðời Này
 
 ... (Thế Tôn nói lại kinh 49 và cả bài kệ cho các Tỷ-kheo).
 

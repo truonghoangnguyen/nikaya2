@@ -1,6 +1,6 @@
 # II. Phẩm Hành
 
-**I. (11) Hành.**
+### I. (11) Hành.
 
 1.- Này các Tỷ-kheo, Nếu Tỷ-kheo khi đang đi khởi lên dục tầm, hay sân tầm, hai hại tầm mà nếu Tỷkheo chấp nhận, không có từ bỏ, không có tẩy sạch, không có chấm dứt, không có đi đến không hiện
 hữu; này các Tỷ-kheo, nếu Tỷ-kheo đang đi có sở hành như vậy, vị ấy được gọi là người không có nhiệt
@@ -32,7 +32,7 @@ _Vị Tỷ-kheo như vậy_\
 _Chứng được Vô thượng giác_\
 
 <!--pg-->
-**(II) (12) Chế Ngự**
+### (II) (12) Chế Ngự
 
 − Này các Tỷ-kheo, hãy sống đầy đủ giới, đầy đủ giới bổn Pàtimokkha, được chế ngự với sự chế ngự của
 Pàtimokkha. Hãy sống đầy đủ uy nghi chánh hạnh, thấy sợ hãi trong các lỗi nhỏ nhặt, chấp nhận và học
@@ -68,7 +68,7 @@ _Liên tục, hằng siêng năng_\
 _Tỷ-kheo được gọi vậy._\
 
 <!--pg-->
-**(III) (13) Chánh Cần**
+### (III) (13) Chánh Cần
 − Này các Tỷ-kheo, có bốn chánh cần này. Thế nào là bốn?
 
 Ở đây, này các Tỷ-kheo, vị Tỷ-kheo với mục đích khiến cho các ác, bất thiện pháp từ trước chưa sanh
@@ -89,7 +89,7 @@ _Mọi lực namuci_\
 _Chúng thoát ly an lạc._\
 
 <!--pg-->
-**(IV) (14) Chế Ngự**
+### (IV) (14) Chế Ngự
 
 − Này các Tỷ-kheo, có bốn tinh cần này. Thế nào là bốn? Tinh cần chế ngự, tinh cần đoạn tận, tinh cần
 tu tập, tinh cần hộ trì.
@@ -128,7 +128,7 @@ _Nhiệt tình đối với chúng_\
 _Ðạt được diệt khổ tận_\
 
 <!--pg-->
-**(V) (15) Thi Thiết**
+### (V) (15) Thi Thiết
 
 − Này các Tỷ-kheo, có bốn thi thiết tối thượng này. Thế nào là bốn?
 
@@ -153,7 +153,7 @@ _Trong thế giới chư Thiên_\
 _Phật được gọi tối thượng._\
 
 <!--pg-->
-**(VI) (16).- Trí Tế Nhị**
+### (VI) (16).- Trí Tế Nhị
 
 − Này các Tỷ-kheo, có bốn trí tế nhị này. Thế nào là bốn?
 
@@ -179,7 +179,7 @@ _Thọ trì thân tối hậu_\
 _Thắng Ma và Ma quân._\
 
 <!--pg-->
-**(VI) (17) Sanh Thú Không Nên Ði**
+### (VI) (17) Sanh Thú Không Nên Ði
 
 − Này các Tỷ-kheo, có bốn sanh thú này không nên đi mà đi. Thế nào là bốn?
 
@@ -194,7 +194,7 @@ _Bị tổn hại hư hại_\
 _Như trăng trong thời tối._\
 
 <!--pg-->
-**(VIII) (18) Sanh Thú Nên Ði**
+### (VIII) (18) Sanh Thú Nên Ði
 
 − Này các Tỷ-kheo, có bốn sanh thú này nên đi mà đi. Thế nào là bốn?
 
@@ -209,12 +209,12 @@ _Ðược đầy đủ vuông tròn_\
 _Như trăng trong thời sáng_\
 
 <!--pg-->
-**(IX) (19) Không Nên Ði**
+### (IX) (19) Không Nên Ði
 
 _(Kinh này là kinh 17 và kinh 18 hợp lại)._\
 
 <!--pg-->
-**(X) (20) Người Ðầu Bếp**
+### (X) (20) Người Ðầu Bếp
 
 − Thành tựu bốn pháp này, này các Tỷ-kheo, người đầu bếp như vậy tương xứng bị quăng vào địa ngục.
 Thế nào là bốn?

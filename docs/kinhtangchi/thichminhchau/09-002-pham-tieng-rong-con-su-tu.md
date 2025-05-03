@@ -1,6 +1,6 @@
 # II. Phẩm Tiếng Rống Con Sư Tử
 
-**(I) (11) Sau Khi An Cư**
+### (I) (11) Sau Khi An Cư
 
 <!--pg-->
 1\. Như vậy tôi nghe:
@@ -123,7 +123,7 @@ Luật của bậc Thánh, những ai thấy tội là tội, phát lộ đúng 
 − Bạch Thế Tôn, con tha thứ cho Tôn giả ấy, nếu Tôn giả ấy nói với con: “Hãy tha thứ cho”, và cũng
 mong Tôn giả ấy tha thứ cho con.
 
-**(II) (12) Không Có Dư Y**
+### (II) (12) Không Có Dư Y
 
 <!--pg-->
 1\. Một thời, Thế Tôn trú ở Sàvatthi, tại Jetavana, khu vườn ông Anàthapindika, rồi Tôn giả Sàriputta vào
@@ -228,7 +228,7 @@ Sàriputta, cho đến nay, pháp môn này chưa được nói cho các Tỷ-kh
 các nữ cư sĩ. Vì cớ sao? Mong rằng khi nghe pháp môn này, họ không đem lại phóng dật. Lại nữa, này
 Sàriputta, pháp môn này được Ta nói đến vì Ta được hỏi đến.
 
-**(III) (13) Tôn Giả Mahàkotthita**
+### (III) (13) Tôn Giả Mahàkotthita
 
 <!--pg-->
 1\. Rồi Tôn giả Mahàkotthita đến Tôn giả Sàriputta, sau khi đến, chào đón hỏi thăm Tôn giả Sàriputta,
@@ -325,7 +325,7 @@ Thế Tôn. Thưa Hiền giả, đây là điều không được biết, không
 ngộ, không được hiện quán, với mục đích để được biết, được thấy, được đạt, được chứng ngộ, được hiện
 quán, mà Phạm hạnh được sống dưới Thế Tôn.
 
-**(IV) (14) Tôn Giả Samiddhi**
+### (IV) (14) Tôn Giả Samiddhi
 
 <!--pg-->
 1\. Rồi Tôn giả Samiddhi đi đến Tôn giả Sàriputta, sau khi đến, chào đón hỏi thăm Tôn giả Sàriputta, sau
@@ -382,7 +382,7 @@ chúng thể nhập vào gì?”, Hiền giả đáp: “Chúng thể nhập và
 này Samiddhi! Lành thay này Samiddhi! Hiền giả đã trả lời các câu hỏi. Nhưng Hiền giả chớ có kiêu
 mạn về vấn đề này.
 
-**(V) (15) Một Ung Nhọt**
+### (V) (15) Một Ung Nhọt
 
 <!--pg-->
 1\. - Ví như, này chư Hiền, một ung nhọt đã trái nhiều. Nó có chín miệng vết thương, có chín miệng nứt
@@ -399,7 +399,7 @@ nứt chảy, chắc chắn nhàm chán nứt chảy.
 
 Do vậy, này các Tỷ-kheo, các Thầy hãy nhàm chán thân này.
 
-**(VI) (16) Tưởng**
+### (VI) (16) Tưởng
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, có chín tưởng này được tu tập, được làm cho sung mãn, có quả lớn, có lợi ích lớn,
@@ -412,7 +412,7 @@ tham.
 Này các Tỷ-kheo, chín tưởng này được tu tập, được làm sung mãn, có quả lớn, có lợi ích lớn, thể nhập
 vào bất tử, lấy bất tử làm cứu cánh.
 
-**(VII) (17) Gia Ðình**
+### (VII) (17) Gia Ðình
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, gia đình nào thành tựu chín chi phần, nếu chưa đến thời không nên đến, nếu đã
@@ -438,7 +438,7 @@ nghe pháp, họ thưởng thức lời nói.
 Này các Tỷ-kheo, gia đình nào thành tựu chín chi phần này, nếu chưa đến thời nên đến, nếu đã đến thời
 nên ngồi xuống.
 
-**(VIII) (18) Từ Bi**
+### (VIII) (18) Từ Bi
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, ngày trai giới thành tựu chín chi phần được thực hành, có quả lớn, có lợi ích lớn,
@@ -506,7 +506,7 @@ và an trú, quảng đại, vô biên, không hận, không sân.
 Như vậy, này các Tỷ-kheo, được thực hành ngày trai giới thành tựu chín chi phần, có quả lớn, có lợi ích,
 có rực rỡ lớn, có biến mãn lớn.
 
-**(IX) (16) Chư Thiên**
+### (IX) (16) Chư Thiên
 
 <!--pg-->
 1\. - Ðêm nay, này các Tỷ-kheo, một số đông chư Thiên, sau khi đêm đã gần mãn, với dung sắc thù
@@ -546,7 +546,7 @@ thân thù thắng”.
 Này các Tỷ-kheo, đây là những gốc cây, đây là những ngôi nhà trống. Này các Tỷ-kheo, hãy Thiền định,
 chớ có phóng dật, chớ có hối tiếc về sau, như các Thiên nhân đã được nói đến trước đây.
 
-**(X) (20) Velàma**
+### (X) (20) Velàma
 
 <!--pg-->
 1\. Một thời, Thế Tôn trú ở Sàvatthi, tại Jetavana, vườn ông Anàthapindika. Rồi Tôn giả Anàthapindika

@@ -1,9 +1,9 @@
 # VI. Phẩm Gotamì
 
-**(I) (51) Mahàpajàpatì Gotamì**
+### (I) (51) Mahàpajàpatì Gotamì
 
 <!--pg-->
-1\. **Một thời, Thế Tôn trú ở giữa dân chúng Sakka, tại Kapilavatthu, khu vườn Nigrodha. Rồi**
+1\. ### Một thời, Thế Tôn trú ở giữa dân chúng Sakka, tại Kapilavatthu, khu vườn Nigrodha. Rồi
 Mahàpajàpatì Gotamì đi đến Thế Tôn; sau khi đến, đảnh lễ Thế Tôn rồi đứng một bên. Ðứng một bên,
 Mahàpajàpatì Gotamì bạch Thế Tôn:
 
@@ -154,7 +154,7 @@ xuất gia, từ bỏ gia đình, sống không gia đình trong Pháp và Luậ
 an trú lâu dài. Ví như, này Ananda, một người vì nghĩ đến tương lai xây dựng bờ đê cho một hồ nước
 lớn để nước không thể chảy qua, cũng vậy, này Ananda, vì nghĩ đến tương lai, Ta mới ban hành kính
 tám pháp này, cho các Tỷ-kheo-ni cho đến trọn đời không vượt qua.
-**(II) (52) Ai Giáo Giới?**
+### (II) (52) Ai Giáo Giới?
 
 <!--pg-->
 1\. Một thời, Thế Tôn trú ở Vesàli, tại Ðại Lâm, ở ngôi nhà có nóc nhọn. Rồi Tôn giả Ananda đi đến Thế
@@ -181,7 +181,7 @@ không có phạm trọng tội nào, được hai mươi tuổi an cư hay hơn
 
 Thành tựu tám pháp này, này Ananda, vị Tỷ-kheo được chấp nhận là vị giáo giới cho các Tỷ-kheo-ni.
 
-**(III) (53) Pháp Tóm Tắt**
+### (III) (53) Pháp Tóm Tắt
 
 <!--pg-->
 1\. Một thời, Thế Tôn trú ở Vesàli, tại Mahàvana, ở ngôi nhà có nóc nhọn. Rồi Mahàpajàpatì Gotamì đi
@@ -207,7 +207,7 @@ không phải lời dạy của bậc Ðạo sư”.
 khó nuôi dưỡng”. Này Gotamì, hãy thọ trì nhứt hướng rằng: “Ðó là phải Pháp, đó là phải Luật, đó là lời
 dạy của bậc Ðạo sư”.
 
-**(IV) (54) Dìghajanu, Người Koliya**
+### (IV) (54) Dìghajanu, Người Koliya
 <!--pg-->
 1\. Một thời, Thế Tôn trú ở giữa dân chúng Koliya, tại một thị trấn của dân chúng Koliya tên là
 Kakkarapatta. Rồi Koliya tử Dìghajànu (đầu gối dài) đi đến Thế Tôn; sau khi đến, đảnh lễ Thế Tôn rồi
@@ -331,7 +331,7 @@ _Và an lạc tương lai_
 _Ðây trú xứ gia chủ_
 _Bố thí, tăng công đức._
 
-**(V ) (55) Bà-La-Môn Ujjaya**
+### (V ) (55) Bà-La-Môn Ujjaya
 
 <!--pg-->
 1\. Rồi Bà-la-môn Ujjaya đi đến Thế Tôn; sau khi đến, nói lên với Thế Tôn những lời chào đón hỏi thăm;
@@ -345,7 +345,7 @@ hạnh phúc tương lai, an lạc tương lai.
 <!--pg-->
 2\. ... (như bài kinh 54 kể cả bài kệ, với những thay đổi cần thiết ).
 
-**(VI) (56) Sợ Hãi**
+### (VI) (56) Sợ Hãi
 
 1.- Sợ hãi, này các Tỷ-kheo, là đồng nghĩa với các dục. Ðau khổ, này các Tỷ-kheo, là đồng nghĩa với
 các dục. Bệnh tật, này các Tỷ-kheo, là đồng nghĩa với các dục. Cục bướu, này các Tỷ-kheo, là đồng
@@ -383,7 +383,7 @@ _Ðang sống trong sợ hãi_
 _Vì bị sanh và già_
 _Ám ảnh và chinh phục._
 
-**(VII) (57) Xứng Ðáng Ðược Cúng Dường (1)**
+### (VII) (57) Xứng Ðáng Ðược Cúng Dường (1)
 
 1.- Thành tựu tám pháp này, này các Tỷ-kheo, vị Tỷ-kheo đáng được cung kính, đáng được tôn trọng,
 đáng được chắp tay, là ruộng phước vô thượng ở đời. Thế nào là tám?
@@ -400,7 +400,7 @@ hoặc ... chứng ngộ, chứng đạt và an trú.
 Thành tựu tám pháp này, này các Tỷ-kheo, Tỷ-kheo đáng được cung kính ... là ruộng phước vô thượng ở
 đời.
 
-**(VIII) (58) Xứng Ðáng Ðược Cúng Dường (2)**
+### (VIII) (58) Xứng Ðáng Ðược Cúng Dường (2)
 
 1.- Thành tựu tám pháp này, này các Tỷ-kheo, vị Tỷ-kheo đáng được cung kính, đáng được tôn trọng,
 đáng được chắp tay, là ruộng phước vô thượng ở đời. Thế nào là tám?
@@ -416,7 +416,7 @@ mệt nhọc, chứng được không phí sức; do đoạn diệt các lậu h
 Thành tựu tám pháp này, này các Tỷ-kheo, Tỷ-kheo đáng được cung kính ... là ruộng phước vô thượng ở
 đời.
 
-**(IX) (59) Tám Hạng Người (1)**
+### (IX) (59) Tám Hạng Người (1)
 
 <!--pg-->
 1\. - Có tám hạng người này, này các Tỷ-kheo, đáng được cung kính, đáng được tôn trọng, đáng được
@@ -437,7 +437,7 @@ _Chúng sanh cầu phước đức_
 _Làm công đức tái sanh_
 _Tăng chúng tăng quả lớn._
 
-**(X) (60) Tám Hạng Người (2)**
+### (X) (60) Tám Hạng Người (2)
 
 <!--pg-->
 1-2. ... (giống như đoạn 1, 2 của kinh trên, chỉ có bài kệ hơi khác) ...

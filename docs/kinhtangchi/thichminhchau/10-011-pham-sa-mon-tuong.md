@@ -1,6 +1,6 @@
 # XI. Phẩm Sa Môn Tưởng
 
-**(I) (101) Tưởng**
+### (I) (101) Tưởng
 
 <!--pg-->
 1\. Có ba Sa-môn tưởng, này các Tỷ-kheo, được tụ tập, được làm cho sung mãn, làm cho đầy đủ bảy
@@ -20,7 +20,7 @@ mục đích sống tinh cần tinh tấn”.
 
 Này các Tỷ-kheo, có ba Sa-môn tưởng này tu tập, được làm cho sung mãn, làm cho đầy đủ bảy pháp.
 
-**(II) (102) Giác Chi**
+### (II) (102) Giác Chi
 
 <!--pg-->
 1\. Bảy giác chi này, này các Tỷ-kheo, được tu tập, được làm cho sung mãn, làm cho đầy đủ ba minh.
@@ -41,7 +41,7 @@ các chúng sanh, tùy thuộc hạnh nghiệp của họ. Do đoạn diệt cá
 
 Bảy giác chi này, này các Tỷ-kheo, được tu tập, được làm cho sung mãn, làm cho đầy đủ ba minh này.
 
-**(III) (103) Tà Tánh**
+### (III) (103) Tà Tánh
 
 <!--pg-->
 1\. Do tà tánh, này các Tỷ-kheo, nên thất bại, không thành công. Và này các Tỷ-kheo, thế nào là do tà
@@ -65,7 +65,7 @@ người chánh định, có chánh trí. Với người chánh trí, có chánh
 
 Như vậy, này các Tỷ-kheo, do chánh tánh đưa đến thành công, không đưa đến thất bại.
 
-**(IV) (104) Chủng Tử**
+### (IV) (104) Chủng Tử
 
 <!--pg-->
 1\. Này các Tỷ-kheo, với người đàn ông, với con người có tà kiến, có tà tư duy, có tà ngữ, có tà nghiệp,
@@ -95,7 +95,7 @@ thiện. VÍ như, này các Tỷ-kheo, hột giống cây mía, hay hột giố
 gieo vào đất ướt. Phàm vị gì nó lấy lên từ đất, phàm vị gì nó lấy lên từ nước, tất cả vị ấy đều đưa đến
 tánh ngon, tánh ngọt, tánh thuần chất của nó. Vì sao? Vì hột giống là hiền thiện. Cũng vậy, này các Tỷkheo, đối với người có chánh kiến, này các Tỷ-kheo, phàm mọi thân hành... vì tánh hiền thiện của kiến.
 
-**(V) (105) Với Mình**
+### (V) (105) Với Mình
 
 <!--pg-->
 1\. Khi nào vô minh dẫn đầu, này các Tỷ-kheo, đưa đến sự thành tựu các pháp bất thiện, thời vô tàm, vô
@@ -112,7 +112,7 @@ Với vị có chánh nghiệp, chánh mạng sanh. Với vị có chánh mạng
 tinh tấn, chánh niệm sanh. Với vị có chánh niệm, chánh định sanh. Với vị có chánh định, chánh trí sanh.
 Với vị có chánh trí, chánh giải thoát sanh.
 
-**(VI) (106) Nguyên Nhân Khiến Cho Tổn Giảm**
+### (VI) (106) Nguyên Nhân Khiến Cho Tổn Giảm
 
 <!--pg-->
 1\. Này các Tỷ-kheo, có mười tổn giảm sự này. Thế nào là mười?
@@ -129,7 +129,7 @@ duyên chánh giải thoát, các thiện pháp đi đến viên mãn trong tu t
 
 Này các Tỷ-kheo, có mười tổn giảm sự này.
 
-**(VII) (107) Tẩy Trần**
+### (VII) (107) Tẩy Trần
 
 <!--pg-->
 1\. Này các Tỷ-kheo, tại các quốc độ miền Nam, có lễ tẩy trần. Tại đấy có các món ăn, có các thức uống,
@@ -170,7 +170,7 @@ tẩy sạch. Và các pháp thiện do duyên chánh giải thoát, đi đến 
 giải thoát khỏi sanh; những chúng sanh bị già được giải thoát khỏi già, những chúng sanh bị chết được
 giải thoát khỏi chết; những chúng sanh bị sầu, bi, khổ, ưu, não được giải thoát khỏi sầu, bi, khổ, ưu, não.
 
-**(VIII) (108) Y Thuật**
+### (VIII) (108) Y Thuật
 
 <!--pg-->
 1\. Các y sư, này các Tỷ-kheo, cho thuốc xổ để chận đứng các bệnh khởi lên từ mật, để chận đứng các
@@ -207,11 +207,11 @@ thuốc xổ này nên các chúng sanh bị sanh được giải thoát khỏi 
 thoát khỏi già, các chúng sanh bị chết được giải thoát khỏi chết; các chúng sanh bị sầu, bi, khổ, ưu, não
 được giải thoát khỏi sầu, bi, khổ, ưu, não.
 
-**(IX) (109) Mửa**
+### (IX) (109) Mửa
 
 (Giống như kinh 108, kinh trước dùng chữ “xổ”, kinh này dùng chữ “mửa”).
 
-**(X) (110) Bài Tiết**
+### (X) (110) Bài Tiết
 <!--pg-->
 1\. Có mười pháp này, này các Tỷ-kheo, cần phải bài tiết. Thế nào là mười?
 
@@ -219,7 +219,7 @@ thoát khỏi già, các chúng sanh bị chết được giải thoát khỏi c
 2\. Với người có chánh kiến, này các Tỷ-kheo, tà kiến bị bài tiết ra, ... (giống như hai kinh trước, chỉ chữ
 _“bài tiết” thay cho chữ “xổ”)._
 
-**(XI) (111) Vô Học (1)**
+### (XI) (111) Vô Học (1)
 
 <!--pg-->
 1\. Bấy giờ có một Tỷ-kheo đi đến Thế Tôn, sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Ngồi
@@ -236,7 +236,7 @@ chánh trí, thành tựu vô học chánh giải thoát.
 
 Như vậy, này các Tỷ-kheo, là Tỷ-kheo vô học.
 
-**(XII) (112) Vô Học (2)**
+### (XII) (112) Vô Học (2)
 
 <!--pg-->
 1\. Này các Tỷ-kheo, có mười pháp vô học này. Thế nào là mười?

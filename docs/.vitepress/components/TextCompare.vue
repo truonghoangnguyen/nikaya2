@@ -1,7 +1,9 @@
 <script setup lang="ts">
 import { ref, onMounted, computed } from 'vue'
 import MarkdownIt from 'markdown-it'
-import MarkdownItFootnote from 'markdown-it-footnote'
+import anchor from 'markdown-it-anchor'
+// import MarkdownItFootnote from 'markdown-it-footnote'
+import slugify from '@sindresorhus/slugify';
 
 interface Props {
   leftPath: string
@@ -22,13 +24,21 @@ const mdLeft = new MarkdownIt({
   html: true,
   linkify: true,
   typographer: true
-}).use(MarkdownItFootnote);
+}).use(anchor, {
+    // only headings ≥ h2
+    level: [3,4],
+    permalink: anchor.permalink.ariaHidden({
+      symbol: '',
+        placement: 'before'
+      }),
+      slugify: (s) => slugify(s),
+  })//.use(MarkdownItFootnote);
 
 const mdRight = new MarkdownIt({
   html: true,
   linkify: true,
   typographer: true
-}).use(MarkdownItFootnote);
+});//.use(MarkdownItFootnote);
 
 const md = new MarkdownIt({
   html: true,

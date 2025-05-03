@@ -1,6 +1,6 @@
 # XXII. Phẩm Không Có Ðầu Ðề
 
-**(I) (210) Mười Pháp**
+### (I) (210) Mười Pháp
 
 <!--pg-->
 1\. Thành tựu mười pháp, này các Tỷ-kheo, như vậy tương xứng bị rơi vào địa ngục Thế nào là mười?
@@ -20,7 +20,7 @@ từ bỏ nói lời thô ác, từ bỏ nói lời phù phiếm, không tham, k
 
 Thành tựu mười pháp này, này các Tỷ-kheo, như vậy tương xứng được sanh lên Thiên giới.
 
-**(II) (211) Hai Mươi Pháp**
+### (II) (211) Hai Mươi Pháp
 
 <!--pg-->
 1\. Thành tựu hai mươi pháp, như vậy tương xứng bị rơi vào địa ngục. Thế nào là hai mươi?
@@ -51,7 +51,7 @@ khích người khác có chánh kiến.
 
 Thành tựu hai mươi pháp này, này các Tỷ-kheo, như vậy tương xứng được sanh lên Thiên giới.
 
-**(III) (212) Ba Mươi Pháp**
+### (III) (212) Ba Mươi Pháp
 
 <!--pg-->
 1\. Thành tựu ba mươi pháp, này các Tỷ-kheo, như vậy tương xứng bị rơi vào địa ngục. Thế nào là ba
@@ -89,7 +89,7 @@ tùy thuận chánh kiến.
 
 Thành tựu với ba mươi pháp này, này các Tỷ-kheo, như vậy tương xứng được sanh lên Thiên giới.
 
-**(IV) (213) Bốn Mươi Pháp**
+### (IV) (213) Bốn Mươi Pháp
 
 <!--pg-->
 1\. Thành tựu với bốn mươi pháp, này các Tỷ-kheo, như vậy tương xứng bị rơi vào địa ngục. Thế nào là
@@ -131,14 +131,14 @@ chánh kiến.
 
 Thành tựu bốn mươi pháp này, này các Tỷ-kheo, như vậy tương xứng được sanh lên Thiên giới.
 
-**(V) (214) Tổn Hại**
+### (V) (214) Tổn Hại
 
 − Thành tựu với mười pháp, này các Tỷ-kheo, đem theo mình một tự ngã bị tổn hại, bị hủy hoại... đem
 theo mình một tự ngã không bị tổn hại... không bị hủy hoại... thành tựu với hai mươi pháp, này các Tỷkheo... thành tựu với ba mươi pháp, này các Tỷ-kheo... thành tựu với bốn mươi pháp, này các Tỷ-kheo,
 đem theo mình một tự ngã bị tổn hại, bị hủy hoại... không đem theo mình một tự ngã bị tổn hại, bị hủy
 hoại.
 
-**(VI) (215) Sau Khi Chết (1)**
+### (VI) (215) Sau Khi Chết (1)
 
 − Thành tựu với mười pháp, này các Tỷ-kheo, ở đây có người sau khi thân hoại mạng chung, bị sanh vào
 cõi dữ, ác thú, đọa xứ, địa ngục... ở đây có người sau khi thân hoại mạng chung được sanh lên thiện thú,
@@ -147,7 +147,7 @@ Với bốn mươi pháp, này các Tỷ-kheo, ở đây có người sau khi th
 ác thú, đọa xứ, địa ngục... ở đây có người, sau khi thân hoại mạng chung được sanh lên thiện thú, Thiên
 giới, cõi đời này...
 
-**(VII) (216) Sau Khi Chết (2)**
+### (VII) (216) Sau Khi Chết (2)
 
 − Thành tựu với mười pháp, này các Tỷ-kheo, người ngu cần phải được biết... người hiền trí cần phải
 được biết... Với hai mươi pháp, này các Tỷ-kheo... Với ba mươi pháp, này các Tỷ-kheo... Với bốn mươi
@@ -155,7 +155,7 @@ pháp, này các Tỷ-kheo, người ngu cần phải được biết... ngườ
 
 Thành tựu với mười pháp này, này các Tỷ-kheo, người hiền trí cần phải được biết...
 
-**(VIII) (217) Tham Ái (1)**
+### (VIII) (217) Tham Ái (1)
 
 <!--pg-->
 1\. Ðể thắng tri tham ái, này các Tỷ-kheo, mười pháp cần phải tu tập. Thế nào là mười?
@@ -176,7 +176,7 @@ cả thế giới, tưởng bộ xương, tưởng trùng ăn, tưởng xanh ứ
 trương phồng lên.
 Ðể thắng tri tham, này các Tỷ-kheo, mười pháp này cần phải tu tập.
 
-**(IX) (218) Tham Ái (2)**
+### (IX) (218) Tham Ái (2)
 
 <!--pg-->
 1\. Ðể thắng tri tham ái, này các Tỷ-kheo, mười pháp cần phải tu tập. Thế nào là mười?
@@ -187,7 +187,7 @@ chánh định, chánh trí, chánh giải thoát.
 
 Ðể thắng tri tham ái, này các Tỷ-kheo, mười pháp cần phải tu tập.
 
-**(X) (219) Tham Ái, Sân**
+### (X) (219) Tham Ái, Sân
 
 <!--pg-->
 1\. Này các Tỷ-kheo, để biến tri, để biến diệt, để đoạn tận, để trừ diệt, để hủy diệt, để ly tham, để đoạn
@@ -198,6 +198,6 @@ diệt, để an tịnh, để bỏ đi, để từ bỏ tham, mười pháp nà
 bỏ đi, để từ bỏ sân, si, phẫn nộ, hiềm hận, gièm pha, não hại, tật đố, xan tham, mê hoặc, gian trá, cứng
 đầu, bồng bột, mạn, quá mạn, đắm say, phóng dật, mười pháp này cần phải tu tập.
 
-**-ooOoo-**
-**CHƯƠNG XI: CHƯƠNG MƯỜI MỘT PHÁP**
+### -ooOoo-
+### CHƯƠNG XI: CHƯƠNG MƯỜI MỘT PHÁP
 

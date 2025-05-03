@@ -1,6 +1,6 @@
 # XIV. Phẩm Ðón Chào
 
-**1-12 Ðón Chào**
+### 1-12 Ðón Chào
 
 1-12. (Như trên đối với các pháp sau đây:)
 

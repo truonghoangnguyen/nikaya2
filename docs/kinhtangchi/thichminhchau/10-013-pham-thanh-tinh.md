@@ -1,6 +1,6 @@
 # XIII. Phẩm Thanh Tịnh
 
-**(I) (123) Các Pháp Thanh Tịnh**
+### (I) (123) Các Pháp Thanh Tịnh
 
 <!--pg-->
 1\. Mười pháp này, này các Tỷ-kheo, thanh tịnh, trong sáng, chỉ có trong Luật của bậc Thiện Thệ. Thế
@@ -12,7 +12,7 @@ chánh định, chánh trí, chánh giải thoát.
 
 Mười pháp này, này các Tỷ-kheo, thanh tịnh, trong sáng, chỉ có trong Luật, của bậc Thiện Thệ.
 
-**(II) (124) Pháp Chưa Khởi**
+### (II) (124) Pháp Chưa Khởi
 
 <!--pg-->
 1\. Mười pháp này, này các Tỷ-kheo, chưa khởi, chỉ khởi lên trong Luật của của bậc Thiện Thệ. Thế nào
@@ -23,7 +23,7 @@ là mười?
 
 Mười pháp này, này các Tỷ-kheo, chưa khởi, chỉ khởi lên trong Luật của bậc Thánh.
 
-**(III) (125) Pháp Có Quả Lớn**
+### (III) (125) Pháp Có Quả Lớn
 
 <!--pg-->
 1\. Mười pháp này, này các Tỷ-kheo, có quả lớn, có lợi ích, chỉ có trong Luật của bậc Thiện Thệ. Thế
@@ -34,7 +34,7 @@ nào là mười?
 
 Mười pháp này, này các Tỷ-kheo, có quả lớn, có lợi ích lớn, chỉ có trong Luật của bậc Thiện Thệ.
 
-**(IV) (126) Cứu Cánh Nhiếp Phục Tham**
+### (IV) (126) Cứu Cánh Nhiếp Phục Tham
 
 <!--pg-->
 1\. Mười pháp này, này các Tỷ-kheo, cứu cánh là nhiếp phục tham, cứu cánh là nhiếp phục sân, cứu cánh
@@ -46,7 +46,7 @@ là nhiếp phục si, chỉ có mặt trong Luật của bậc Thiện Thệ. T
 Mười pháp này, này các Tỷ-kheo, cứu cánh là nhiếp phục tham, cứu cánh là nhiếp phục sân, cứu cánh là
 nhiếp phục si, chỉ có mặt trong Luật của bậc Thiện Thệ.
 
-**(V) (127) Nhất Hướng Nhàm Chán**
+### (V) (127) Nhất Hướng Nhàm Chán
 
 <!--pg-->
 1\. Mười pháp này, này các Tỷ-kheo, đưa đến nhất hướng nhàm chán, ly tham, đoạn diệt, an tịnh, thắng
@@ -57,7 +57,7 @@ trí, giác ngộ, Niết-bàn, chỉ có mặt trong Luật của bậc Thiện
 Mười pháp này, này các Tỷ-kheo, đưa đến nhất hướng nhàm chán, ly tham, đoạn diệt, an tịnh, thắng trí,
 giác ngộ, Niết-bàn, chỉ có mặt trong Luật của bậc Thiện Thệ.
 
-**(VI) (128) Ðược Tu Tập (1)**
+### (VI) (128) Ðược Tu Tập (1)
 
 Mười pháp này, này các Tỷ-kheo, được tu tập, được làm cho sung mãn, chưa khởi lên, chỉ khởi lên trong
 Luật của bậc Thiện Thệ.
@@ -69,7 +69,7 @@ Luật của bậc Thiện Thệ.
 3\. Mười pháp này, này các Tỷ-kheo, được tu tập, được làm cho sung mãn, chưa được khởi lên, chỉ khởi
 lên trong Luật của bậc Thiện Thệ.
 
-**(VII) (129) Ðược Tu Tập (2)**
+### (VII) (129) Ðược Tu Tập (2)
 
 <!--pg-->
 1\. Mười pháp này, này các Tỷ-kheo, được tu tập, được làm cho sung mãn, có quả lớn, có lợi ích lớn, chỉ
@@ -82,7 +82,7 @@ có mặt trong Luật của bậc Thiện Thệ. Thế nào là mười:
 3\. Mười pháp này, này các Tỷ-kheo, được tu tập, được làm cho sung mãn, có quả lớn, có lợi ích lớn, chỉ
 có mặt trong Luật của bậc Thiện Thệ.
 
-**(VIII) (130) Ðược Tu Tập (3)**
+### (VIII) (130) Ðược Tu Tập (3)
 
 <!--pg-->
 1\. Mười pháp này, này các Tỷ-kheo, được tu tập, được làm cho sung mãn, có quả lớn, có lợi ích lớn, cứu
@@ -96,7 +96,7 @@ Mười pháp này, này các Tỷ-kheo, được tu tập, được làm cho su
 cánh là nhiếp phục tham, cứu cánh là nhiếp phục sân, cứu cánh là nhiếp phục si, chỉ có được trong Luật
 của bậc Thiện Thệ.
 
-**(IX) (131) Ðược Tu Tập(4)**
+### (IX) (131) Ðược Tu Tập(4)
 
 <!--pg-->
 1\. Mười pháp này, này các Tỷ-kheo, được tu tập, được làm cho sung mãn, đưa đến nhất hướng nhàm
@@ -109,7 +109,7 @@ Thế nào là mười?
 Mười pháp này, này các Tỷ-kheo, được tu tập, được làm cho sung mãn, đưa đến nhất hướng nhàm chán,
 ly tham, đoạn diệt, an tịnh, thắng trí, giác ngộ, Niết-bàn, chỉ có mặt trong Luật của bậc Thiện Thệ.
 
-**(X) (132) Tà Tánh**
+### (X) (132) Tà Tánh
 
 <!--pg-->
 1\. Có mười tà tánh này, này các Tỷ-kheo. Thế nào là mười?
@@ -118,7 +118,7 @@ ly tham, đoạn diệt, an tịnh, thắng trí, giác ngộ, Niết-bàn, ch�
 
 Này các Tỷ-kheo, có mười tà tánh này.
 
-**(XI) (133) Chánh Tánh**
+### (XI) (133) Chánh Tánh
 
 <!--pg-->
 1\. Có mười chánh tánh này, này các Tỷ-kheo. Thế nào là mười?

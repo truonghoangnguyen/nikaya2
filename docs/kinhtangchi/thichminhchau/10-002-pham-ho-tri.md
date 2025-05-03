@@ -1,6 +1,6 @@
 # II. Phẩm Hộ Trì
 
-**(I) (11) Trú Xứ**
+### (I) (11) Trú Xứ
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, Tỷ-kheo thành tựu năm chi phần, thân cận, chia xẻ xứ thành tựu năm chi phần,
@@ -32,7 +32,7 @@ Này các Tỷ-kheo, Tỷ-kheo thành tựu năm chi phần, thân cận chia x�
 không bao lâu, do đoạn diệt các lậu hoặc, ngay trong hiện tại, tự mình với thắng trí có thể chứng ngộ
 chứng đạt và an trú vô lậu tâm giải thoát, tuệ giải thoát.
 
-**(II) (12) Các Chi Phần**
+### (II) (12) Các Chi Phần
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, Tỷ-kheo đoạn tận năm chi phần, thành tựu năm chi phần được gọi trong Pháp và
@@ -69,7 +69,7 @@ _Trong Pháp và Luật này,_
 _Ðược gọi vị đầy đủ_
 _Hoàn toàn mọi phương diện._
 
-**(III) (13) Các Kiết Sử**
+### (III) (13) Các Kiết Sử
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, có mười kiết sử này. Thế nào là mười?
@@ -89,7 +89,7 @@ Thế nào là năm thượng phần kiết sử?
 
 Này các Tỷ-kheo, đây là mười kiết sử.
 
-**(IV) (14) Tâm Hoang Vu**
+### (IV) (14) Tâm Hoang Vu
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, với Tỷ-kheo hay Tỷ-kheo-ni nào năm tâm hoang vu chưa đoạn tận, năm tâm triền
@@ -199,7 +199,7 @@ hình tròn, được tăng trưởng về ánh sáng, được tăng trưởng 
 này các Tỷ-kheo, Với Tỷ-kheo hay Tỷ-kheo-ni nào, năm tâm hoang vu đã được cắt đứt, với vị ấy, đêm
 đến hay ngày đến, chờ đợi là sự lớn mạnh trong các thiện pháp, không phải là tổn giảm.
 
-**(V) (15) Không Phóng Dật**
+### (V) (15) Không Phóng Dật
 
 <!--pg-->
 1\. Này các Tỷ-kheo, cho đến các loài hữu tình không chân, hay hai chân, hay nhiều chân, hay có sắc,
@@ -237,7 +237,7 @@ hướng nhập vào biển, biển lớn được gọi là tối thượng v�
 những thiện pháp nào, tất cà những pháp lấy không phóng dật làm căn bản, lấy không phóng dật làm chỗ
 quy tụ, không phóng dật được gọi là tối thượng trong các pháp ấy.
 
-**(VI) (16) Ðáng Ðược Cúng Dường**
+### (VI) (16) Ðáng Ðược Cúng Dường
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, mười hạng người này đáng được cung kính, đáng được tôn trọng, đáng được cúng
@@ -251,7 +251,7 @@ tánh.
 Này các Tỷ-kheo, mười hạng người này đáng được cung kính, đáng được tôn trọng, đáng được cúng
 dường, đáng được chắp tay, là ruộng phước vô thượng ở đời.
 
-**(VII) (17) Vị Hộ Trì (1)**
+### (VII) (17) Vị Hộ Trì (1)
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, hãy trú với vị hộ trì, chớ trú không có vị hộ trì. Này các Tỷ-kheo, đau khổ là
@@ -316,7 +316,7 @@ không có vị hộ trì.
 
 Này các Tỷ-kheo, đây là mười pháp tác thành vị hộ trì.
 
-**(VIII) (18) Vị Hộ Trì (2)**
+### (VIII) (18) Vị Hộ Trì (2)
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, hãy trú với vị hộ trì, chớ trú không có vị hộ trì. Ðau khổ, này các Tỷ-kheo, là
@@ -398,7 +398,7 @@ không có vị hộ trì.
 
 Này các Tỷ-khoe, đây là mười pháp tác thành vị hộ trì.
 
-**(IX) (19) Thánh Cư (1)**
+### (IX) (19) Thánh Cư (1)
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, có mặt Thánh cư này, với những Thánh cư này, các bậc Thánh đã sống, đang sống
@@ -412,7 +412,7 @@ thân hành được khinh an, tâm được khéo giải thoát, tuệ được
 Này các Tỷ-kheo, đây là mười Thánh cư, với những Thánh cư này, các bậc Thánh đã sống, đang sống và
 sẽ sống.
 
-**(X) (20) Thánh Cư (2)**
+### (X) (20) Thánh Cư (2)
 
 <!--pg-->
 1\. Một thời, Thế Tôn trú giữa dân chúng Kuru tại một thị trấn của dân tộc Kuru gọi là Kammàsadhama.

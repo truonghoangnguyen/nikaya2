@@ -1,6 +1,6 @@
 # I. Phẩm Hình Phạt
 
-**1-10 Hai Loại Tội**
+### 1-10 Hai Loại Tội
 
 1.- Như vầy tôi nghe.
 

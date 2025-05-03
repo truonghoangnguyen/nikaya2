@@ -51,6 +51,6 @@ niệm. Bất tử được chứng ngộ, này các Tỷ-kheo, đối với nh�
 
 Thế Tôn thuyết như vậy, các vị Tỷ-kheo ấy hoan hỷ tín thọ lời Thế Tôn dạy.
 
-**-ooOoo-**
-**CHƯƠNG II: CHƯƠNG HAI PHÁP**
+### -ooOoo-
+### CHƯƠNG II: CHƯƠNG HAI PHÁP
 

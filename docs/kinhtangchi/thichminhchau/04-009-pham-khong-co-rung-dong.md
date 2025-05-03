@@ -1,7 +1,7 @@
 # IX. Phẩm Không Có Rung Ðộng
 
 
-**(I) (81) Ăn Trộm**
+### (I) (81) Ăn Trộm
 
 1\. - Thành tựu với bốn pháp, này các Tỷ-kheo, như vậy tương xứng bị rơi vào địa ngục. Thế nào là bốn?
 Sát sanh, lấy của không cho, tà hạnh trong các dục, nói láo. Thành tựu với bốn pháp này, này các Tỷkheo, như vậy tương xứng bị rơi vào địa ngục.
@@ -13,12 +13,12 @@ Từ bỏ sát sanh, từ bỏ lấy của không cho, từ bỏ tà hạnh tron
 pháp, này các Tỷ-kheo, như vậy tương xứng được sanh lên cõi Trời.
 
 <!--pg-->
-**(II) (82) Nói Láo**
+### (II) (82) Nói Láo
 
 _(Như kinh trên, (81), chỉ khác bốn pháp là: nói láo, nói hai lưỡi, nói lời thô ác, nói lời phù phiếm.)_
 
 <!--pg-->
-**(III) (83) Tán Thán**
+### (III) (83) Tán Thán
 
 1\. - Thành tựu với bốn pháp, này các Tỷ-kheo, như vậy tương xứng bị rơi vào địa ngục. Thế nào là bốn?
 
@@ -40,14 +40,14 @@ những chỗ đáng tin tưởng.
 Thành tựu với bốn pháp này, này các Tỷ-kheo, như vậy tương xứng được sanh lên cõi Trời.
 
 <!--pg-->
-**(IV) (84) Phẫn Nộ**
+### (IV) (84) Phẫn Nộ
 
 _(Như kinh trên, (83), chỉ khác về bốn pháp: Tôn trọng phẫn nộ, không tôn trọng diệu pháp; tôn trọng_
 _gièm pha, không tôn trọng diệu pháp; tôn trọng lợi dưỡng, không tôn trọng diệu pháp; tôn trọng cung_
 _kính, không tôn trọng diệu pháp)._
 
 <!--pg-->
-**(V) (85) Tối Tăm**
+### (V) (85) Tối Tăm
 
 
 1\. - Này các Tỷ-kheo, có bốn hạng người này có mặt, hiện hữu ở đời. Thế nào là bốn?
@@ -101,7 +101,7 @@ lành, ý nghĩ lành. Do thân làm lành, miệng nói lành, ý nghĩ lành, 
 hướng đến ánh sáng.
 
 <!--pg-->
-**(VI) (86) Thấp Kém**
+### (VI) (86) Thấp Kém
 
 
 1\. - Có bốn hạng người này, này các Tỷ-kheo, có mặt, hiện hữu ở đời. Thế nào là bốn? Thấp và thấp,
@@ -110,7 +110,7 @@ thấp và cao, cao và thấp, cao và cao.
 Có bốn hạng người này, này các Tỷ-kheo, có mặt hiện hữu ở đời.
 
 <!--pg-->
-**(VII) (87) Các Hạng Sa Môn (1)**
+### (VII) (87) Các Hạng Sa Môn (1)
 
 
 1\. - Có bốn hạng người này, này các Tỷ-kheo, có mặt, hiện hữu ở đời. Thế nào là bốn?
@@ -177,7 +177,7 @@ các Sa-môn.
 Này các Tỷ-kheo, đây là bốn hạng người có mặt, hiện hữu ở đời.
 
 <!--pg-->
-**(VIII) (88) Các Hạng Sa Môn (2)**
+### (VIII) (88) Các Hạng Sa Môn (2)
 
 
 1\. - Này các Tỷ-kheo, có bốn hang người này có mặt, hiện hữu ở đời. Thế nào là bốn?
@@ -212,7 +212,7 @@ luyện giữa các Sa-môn.
 Này các Tỷ-kheo, bốn hạng Sa-môn này có mặt, xuất hiện ở đời.
 
 <!--pg-->
-**(IX) (89) Các Hạng Sa Môn**
+### (IX) (89) Các Hạng Sa Môn
 
 
 1\. - Có bốn hạng người này, này các Tỷ-kheo, có mặt, xuất hiện ở đời. Thế nào là bốn?
@@ -246,7 +246,7 @@ nói một cách chơn chánh là nói về Ta, là hạng Sa-môn tinh luyện 
 Này các Tỷ-kheo, đây là bốn hạng người có mặt, hiện hữu ở đời.
 
 <!--pg-->
-**(X) (90) Các Hạng Sa Môn**
+### (X) (90) Các Hạng Sa Môn
 
 
 1\. - Này các Tỷ-kheo, có bốn hạng người này có mặt, hiện hữu ở đời. Thế nào là bốn?

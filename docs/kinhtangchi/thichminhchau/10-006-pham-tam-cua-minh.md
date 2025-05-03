@@ -1,6 +1,6 @@
 # VI. Phẩm Tâm Của Mình
 
-**(I) (51) Tâm Của Mình (1)**
+### (I) (51) Tâm Của Mình (1)
 
 <!--pg-->
 1\. Một thời, Thế Tôn trú ở Sàvatthi, tại Jetavana, khu vườn ông Anàthapindika. Ở đây, Thế Tôn gọi các
@@ -52,7 +52,7 @@ sống nhiều với tâm không nhiễm ô; ta sống nhiều với thân khôn
 tấn, tinh cần; ta sống nhiều với tâm định tĩnh”, thời Tỷ-kheo ấy, sau khi an trú trong các thiện pháp ấy,
 rồi hơn nữa cần chú tâm đoạn diệt các lậu hoặc.
 
-**(II) (52) Tâm Của Mình (2)**
+### (II) (52) Tâm Của Mình (2)
 
 <!--pg-->
 1\. Rồi Tôn giả Sàriputta nói với các Tỷ-kheo:
@@ -64,7 +64,7 @@ rồi hơn nữa cần chú tâm đoạn diệt các lậu hoặc.
 Các Vị Tỷ-kheo ấy vâng đáp Tôn giả Sàriputta. Tôn giả Sàriputta nói như sau: (giống như kinh trước,
 _chỉ khác đây là tôn giả Sàriputta nói với các Tỷ-kheo)._
 
-**(III) (53) Ðứng Một Chỗ**
+### (III) (53) Ðứng Một Chỗ
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, Ta không tán thán đứng một chỗ trong các thiện pháp, còn nói gì tổn giảm. Này
@@ -96,7 +96,7 @@ nguyện rằng: “Ta sẽ thiện xảo trong hành tướng tâm của ta”.
 phải học tập. Và này các Tỷ-kheo, thế nào là Tỷ-kheo thiện xảo trong hành tướng tâm của mình? (như
 _kinh 51, từ đoạn số 3, 4, 5)._
 
-**(VI) (54) Tịnh Chỉ**
+### (VI) (54) Tịnh Chỉ
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, nếu Tỷ-kheo không thiện xảo trong hành tướng tâm của người khác, thời cũng
@@ -213,7 +213,7 @@ thiện tôn giảm”, thời người như vậy không nên sử dụng. Ở 
 Này các Tỷ-kheo, Ta nói rằng, người có hai loại: nên sử dụng và không nên sử dụng, như vậy được nói
 đến. Do duyên này được nói đến như vậy.
 
-**(V) (55) Tổn Giảm**
+### (V) (55) Tổn Giảm
 <!--pg-->
 1\. Ở đây, Tôn giả Sàriputta gọi các Tỷ-kheo:
 
@@ -299,7 +299,7 @@ thiện pháp ấy.
 Hiền, Tỷ-kheo ấy sau khi an trú trong tất cả thiện pháp này, cần phải nỗ lực chú tâm để đoạn diệt các lậu
 hoặc.
 
-**(VI) (56) Tưởng (1)**
+### (VI) (56) Tưởng (1)
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, mười tưởng này được tu tập, được làm cho sung mãn, đưa đến quả lớn, lợi ích
@@ -313,7 +313,7 @@ tham, tưởng đoạn diệt.
 Này các Tỷ-kheo, mười tưởng này, được tu tập, được làm cho sung mãn, đưa đến quả lớn, lợi ích lớn,
 thể nhập vào bất tử, lấy bất tử làm cứu cánh.
 
-**(VII) (57) Tưởng (2)**
+### (VII) (57) Tưởng (2)
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, có mười tưởng này, được tu tập, được làm cho sung mãn, đưa đến quả lớn, lợi ích
@@ -326,7 +326,7 @@ phồng.
 
 Này các Tỷ-kheo, mười tưởng này được tụ tập, được làm cho sung mãn, đưa đến quả lớn, lợi ích lớn, thể
 nhập vào bất tử, lấy bất tử làm cứu cánh.
-**(VIII) (58) Lấy Căn Bản Nơi Thế Tôn**
+### (VIII) (58) Lấy Căn Bản Nơi Thế Tôn
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, nếu các du sĩ ngoại đạo có thể hỏi như sau: “Này chư Hiền, tất cả pháp lấy gì làm
@@ -360,7 +360,7 @@ Niết-bản làm cứu cánh.”
 
 Này các Tỷ-kheo, được hỏi vậy, các Thầy có thể trả lời các du sĩ ngoại đạo ấy như vậy.
 
-**(IX) (59) Xuất Gia**
+### (IX) (59) Xuất Gia
 
 <!--pg-->
 1\. - Do vậy, này các Tỷ-kheo, các Thầy cần phải học tập như sau:
@@ -390,7 +390,7 @@ tâm được thực hành tích tập với tưởng ly tan rã tham; tâm đư
 Ðối với vị ấy, một trong hai quả này được chờ đợi, chánh trí ngay trong hiện tại hay nếu có dư y, chứng
 được Bất hoàn.
 
-**(X) (60) Girimananda**
+### (X) (60) Girimananda
 
 <!--pg-->
 1\. Một thời, Thế Tôn trú ở Sàvatthi, tại Jetavana, khu vườn của ông Anàthapindika. Lúc bấy giờ, Tôn

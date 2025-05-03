@@ -1,6 +1,6 @@
 # XVI. Phẩm Một Pháp
 
-**1-10. Niệm Phật**
+### 1-10. Niệm Phật
 
 1\. - Có một pháp, này các Tỷ-kheo, được tu tập, được làm cho sung mãn, đưa đến nhứt hướng nhàm
 chán, ly tham, đoạn diệt, an tịnh, thắng trí, giác ngộ, Niết -bàn. Một pháp ấy là gì? Chính là niệm Phật.

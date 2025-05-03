@@ -1,6 +1,6 @@
 # IX. Phẩm Niệm
 
-**(I) (81) Niệm**
+### (I) (81) Niệm
 
 <!--pg-->
 1\. - Khi chánh niệm, tỉnh giác không có, này các Tỷ-kheo, với người không có chánh niệm, tỉnh giác,
@@ -25,7 +25,7 @@ giới, chánh định đi đến đầy đủ. Khi chánh định có mặt, v�
 vỏ cây, giác cây và lõi cây đi đến thành mãn. Cũng vậy, này các Tỷ-kheo, khi chánh niệm, tỉnh giác có
 mặt, với người đầy đủ chánh niệm, tỉnh giác... giải thoát tri kiến đi đến đầy đủ.
 
-**(II) (82) Tôn Gỉả Punniya**
+### (II) (82) Tôn Gỉả Punniya
 
 <!--pg-->
 1\. Rồi Tôn giả Punniya đi đến Thế Tôn, sau khi đến... Ngồi xuống một bên, Tôn giả Punniya bạch Thế
@@ -47,7 +47,7 @@ có thuyết pháp.
 
 Thành tựu những pháp này, này Punniya, nhất định Như Lai thuyết pháp.
 
-**(III) (83) Cội rễ Của Sự Vật**
+### (III) (83) Cội rễ Của Sự Vật
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, nếu các du sĩ ngoại đạo đến hỏi: “Thưa Hiền giả, tất cả pháp lấy gì làm căn bản?
@@ -76,7 +76,7 @@ làm tập khởi. Tất cả pháp lấy thọ làm chỗ tụ hội. Tất c�
 niệm làm tăng thượng. Tất cả pháp lấy tuệ làm tối thượng. Tất cả pháp lấy giải thoát làm lõi cây”. Ðược
 hỏi như vậy, này các Tỷ-kheo, các Thầy hãy trả lời cho các du sĩ ngoại đạo ấy như vậy.
 
-**(IV) (84) Ðại Ăn Trộm**
+### (IV) (84) Ðại Ăn Trộm
 
 <!--pg-->
 1\. - Thành tựu tám chi phần, này các Tỷ-kheo, người ăn trộm lớn mau chóng đi đến đường cùng, không
@@ -100,7 +100,7 @@ khéo léo cất giấu.
 Thành tựu tám chi phần này, này các Tỷ-kheo, một người ăn trộm không mau chóng đi đến đường cùng,
 tồn tại được lâu dài.
 
-**(V) (85) Người Sa Môn**
+### (V) (85) Người Sa Môn
 
 <!--pg-->
 1\. - Sa-môn, này các Tỷ-kheo, là đồng nghĩa với Như Lai, bậc A-la-hán, Chánh Ðẳng Giác. Bà-la-môn,
@@ -123,7 +123,7 @@ _Giải thoát khỏi triền phược,_
 _Voi tối thượng nhiếp phục,_
 _Ta, vô học, tịch tịnh._
 
-**(VI) (86) Ðảnh Lễ**
+### (VI) (86) Ðảnh Lễ
 
 <!--pg-->
 1\. Một thời, Thế Tôn đang bộ hành giữa dân chúng Kosala với chúng Tỷ-kheo, đi đến một làng Bà-lamôn của dân chúng Kosala tên là Icchànangala. Tại đấy, Thế Tôn trú ở Icchànangala, tại khu rừng
@@ -209,7 +209,7 @@ này Nàgita, Ta hoan hỷ với Tỷ-kheo sống ở trong rừng.
 Khi nào, này Nàgita, Ta đi trên đường, không thấy một ai ở phía trước hay ở phía sau, này Nàgita, khi
 ấy, Ta cảm thấy sảng khoái cho đến vấn đề đại, tiểu tiện.
 
-**(VII) (87) Bình Bát**
+### (VII) (87) Bình Bát
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, nếu muốn, chúng Tăng có thể lật úp bình bát của một nam cư sĩ thành tựu tám
@@ -233,7 +233,7 @@ ly gián giữa các Tỷ-kheo, tán thán Phật, tán thán Pháp, tán thán 
 Này các Tỷ-kheo, nếu muốn, chúng Tăng có thể lật ngửa bình bát của một nam cư sĩ thành tựu tám pháp
 này.
 
-**(VIII) (88) Phản Ðối**
+### (VIII) (88) Phản Ðối
 
 <!--pg-->
 1\. - Ðối với nam cư sĩ thành tựu tám pháp, này các Tỷ-kheo, nếu Tỷ-kheo muốn, có thể nói lời phản đối.
@@ -258,7 +258,7 @@ Pháp, tán thán chúng Tăng, thấy người ấy tại các chỗ xứng đ�
 Ðối với nam cư sĩ thành tựu tám pháp này, này các Tỷ-kheo, nếu Tỷ-kheo muốn, có thể nói lời tùy
 thuận.
 
-**(IX) (89) Buộc Tội**
+### (IX) (89) Buộc Tội
 
 <!--pg-->
 1\. - Ðối với Tỷ-kheo thành tựu tám pháp, này các Tỷ-kheo, nếu chúng Tăng muốn, chúng Tăng có thể
@@ -283,7 +283,7 @@ chúng Tăng, thực hiện lời hứa đúng Pháp cho các gia chủ.
 
 Ðối với Tỷ-kheo thành tựu tám pháp, này các Tỷ-kheo, nếu chúng Tăng muốn, chúng Tăng có thể giải
 tỏa buộc tội Yết-ma.
-**(X) (90) Hành Xử Ðúng Pháp**
+### (X) (90) Hành Xử Ðúng Pháp
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, với Tỷ-kheo đã bị hành tìm tội Yết-ma, cần phải chơn chánh hành xử với vị ấy,
@@ -295,7 +295,7 @@ phép trở lại vị trí cũ bởi bất cứ lý do nào.
 Này các Tỷ-kheo, với Tỷ-kheo đã bị hành tìm tội Yết-ma, cần phải chơn chánh hành xử với vị ấy theo
 tám pháp này.
 
-**(X) (90b) Một Số Nữ Cư Sĩ**
+### (X) (90b) Một Số Nữ Cư Sĩ
 
 Bojjhà, Sirimà, Padumà, Sudhanà, Manujà, Uttarà, Muttà, Khemà, Somà Rùpì, Cundì Bimbì, Sumanà,
 Mallikà, Tissà, mẹ của Tissà, Sonà, mẹ Cunda Sonà, Kànà, mẹ của Kànà, Uttarà, mẹ của Nandà,

@@ -1,6 +1,6 @@
 # XI. Phẩm Các Hy Vọng
 
-**1-12 Hy Vọng**
+### 1-12 Hy Vọng
 
 1.- Có hai hy vọng này, này các Tỷ-kheo, khó được từ bỏ. Thế nào là hai? Hy vọng được lợi dưỡng và
 hy vọng được sống. Hai pháp này, này các Tỷ-kheo, là hai hy vọng khó được từ bỏ.

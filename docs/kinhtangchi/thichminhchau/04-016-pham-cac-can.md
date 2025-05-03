@@ -1,6 +1,6 @@
 # XVI. Phẩm Các Căn
 
-**(I) (151) Các Căn**
+### (I) (151) Các Căn
 
 − Này các Tỷ-kheo, có bốn căn này. Thế nào là bốn
 
@@ -9,7 +9,7 @@ Tín căn, tấn căn, niệm căn, định căn.
 Này các Tỷ-kheo, có bốn căn này.
 
 <!--pg-->
-**(II) (152) Lực (1)**
+### (II) (152) Lực (1)
 
 − Này các Tỷ-kheo, có bốn lực này. Thế nào là bốn?
 
@@ -18,7 +18,7 @@ Tín lực, tấn lực, niệm lực, định lực.
 Này các Tỷ-kheo, có bốn lực này.
 
 <!--pg-->
-**(III) (153) Lực (2)**
+### (III) (153) Lực (2)
 
 − Này các Tỷ-kheo, có bốn lực này. Thế nào là bốn
 Tuệ lực, tấn lực, vô tội lực, năng nhiếp lực.
@@ -26,7 +26,7 @@ Tuệ lực, tấn lực, vô tội lực, năng nhiếp lực.
 Này các Tỷ-kheo, có bốn lực này.
 
 <!--pg-->
-**(IV) (154) Lực (3)**
+### (IV) (154) Lực (3)
 
 − Này các Tỷ-kheo, có bốn lực này. Thế nào là bốn
 
@@ -35,7 +35,7 @@ Niệm lực, định lực, vô tội lực, năng nhiếp lực.
 Này các Tỷ-kheo, có bốn lực này.
 
 <!--pg-->
-**(V) (155) Lực (4)**
+### (V) (155) Lực (4)
 
 − Này các Tỷ-kheo, có bốn lực này. Thế nào là bốn?
 
@@ -44,7 +44,7 @@ Giản trạch lực, tu tập lực, vô tội lực, năng nhiếp lực.
 Này các Tỷ-kheo, có bốn lực này.
 
 <!--pg-->
-**(VI) (156) Kiếp**
+### (VI) (156) Kiếp
 
 − Này các Tỷ-kheo, có bốn vô lượng của kiếp này. Thế nào là bốn?
 
@@ -60,7 +60,7 @@ Khi kiếp đã chuyển hoại và dừng lại, này các Tỷ-kheo, thật kh
 Này các Tỷ-kheo, có bốn vô lượng của kiếp này.
 
 <!--pg-->
-**(VII) (157) Bệnh**
+### (VII) (157) Bệnh
 
 1\. - Này các Tỷ-kheo, có hai loại bệnh này. Thế nào là hai? Bệnh về thân và bệnh về tâm.
 
@@ -92,7 +92,7 @@ lên khổ đau, nhói đau, mãnh liệt, kịch liệt, không khả hỷ, kh�
 các Tỷ-kheo, các Thầy cần phải học tập.
 
 <!--pg-->
-**(IX) (158) Thối Ðoạ**
+### (IX) (158) Thối Ðoạ
 
 1\. Tại đây, Tôn giả Sàriputta gọi các Tỷ-kheo:
 
@@ -122,7 +122,7 @@ Thưa các Hiền giả, Tỷ-kheo hay Tỷ-kheo-ni nào thấy trên tự thân
 luận rằng: “Ta không thối đọa khỏi các thiện pháp “. Ðây được Thế Tôn gọi là không thối đọa.
 
 <!--pg-->
-**(IX) (159) Tỷ Kheo Ni**
+### (IX) (159) Tỷ Kheo Ni
 
 1\. Một thời, Tôn giả Ananda trú ở Kosambi, tại khu vườn Ghosita. Rồi một Tỷ-kheo ni gọi một người và
 nói:
@@ -187,7 +187,7 @@ chị, như vậy Luật của bậc Thánh được tăng trưởng khi thấy 
 lộ để ngăn giữ trong tương lai.
 
 <!--pg-->
-**(X) (160) Luật Của Bậc Thiện Thệ**
+### (X) (160) Luật Của Bậc Thiện Thệ
 
 1\. - Này các Tỷ-kheo, khi bậc Thiện Thệ hay Luật của Thiện Thệ an trú ở đời là vì hạnh phúc cho quần
 chúng, vì an lạc cho quần chúng, vì lòng thương tưởng cho đời, vì lợi ích, vì hạnh phúc, vì an lạc cho

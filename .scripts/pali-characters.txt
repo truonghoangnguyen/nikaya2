@@ -37,6 +37,11 @@ IVXLCDM
 ^#+ ([IVXLCDM]+\. .*$) -> tìm các phẩm
 ^#*\s*(\d+ .*) -> tìm các mục-phẩm
 
+([#.-0-9\p{L}]+) -> tuong duong .*
+\{([#0-9.\-\p{L}]+) \.unnumbered\}
+
+\[([\p{L}]+)\]\{lang="sa"\}
+
 tim \[([\p{L}]+)\]\{lang="sa"\}
 --- tìm tiêu đề file
 ^(### .*)
@@ -58,3 +63,16 @@ _$1_\
 
 (\d+)\.  (.*)
 $1\. $2\
+
+The following words should be used instead of Hán-Vietnamese words
+Hán-Vietnamese | Vietnamese
+Quý = Kính sợ
+Tàm = Xấu hổ
+Tín = Niềm tin
+Tấn = Siêng năng
+Tuệ = Trí tuệ
+Niệm = Tỉnh thức
+
+Use correct Vietnamese grammar:
+Tín lực = lực niềm tin
+Vô tàm = không xấu hổ

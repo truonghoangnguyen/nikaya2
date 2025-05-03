@@ -1,6 +1,6 @@
 # XVIII. Phẩm Thiện Lương
 
-**(I) (178) Thiện, Bất Thiện**
+### (I) (178) Thiện, Bất Thiện
 
 <!--pg-->
 1\. Này các Tỷ-kheo, Ta sẽ thuyết về lành và không lành. Hãy nghe và khéo tác ý, Ta sẽ nói.
@@ -18,7 +18,7 @@ gọi là không lành.
 
 Này các Tỷ-kheo, đây gọi là lành.
 
-**(II-XI) (179-188)**
+### (II-XI) (179-188)
 
 − Thánh và phi thánh. Thiện và bất thiện. Mục đích, phi mục đích. Pháp và phi pháp. Với lậu hoặc hay
 không với lậu hoặc. Phạm tội, không phạm tội. Hối quá và không hối quá. Tăng trưởng và tổn giảm.

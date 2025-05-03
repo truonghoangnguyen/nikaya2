@@ -1,7 +1,7 @@
 # VI. Phẩm Nguồn Sanh Phước
 
 
-**(I) (51) Phẩm Nguồn Sanh Phước (Với Cư Sĩ) (1)**
+### (I) (51) Phẩm Nguồn Sanh Phước (Với Cư Sĩ) (1)
 
 1\. Nhân duyên ở Sàvatthi
 
@@ -51,7 +51,7 @@ _Như sông dẫn dòng nước,_\
 _Ùa chảy vào bể cả._
 
 <!--pg-->
-**(II) (52) Nguồn Sanh Phước (Với Cư Sĩ) (2)**
+### (II) (52) Nguồn Sanh Phước (Với Cư Sĩ) (2)
 
 1\. - Này các Tỷ-kheo, có bốn nguồn sanh phước, nguồn sanh thiện... hạnh phúc, an lạc. Thế nào là bốn?
 
@@ -97,7 +97,7 @@ _Bậc trí chú tâm niệm,_\
 _Lời dạy của chư Phật._
 
 <!--pg-->
-**(III) (53) Sống Chung (1)**
+### (III) (53) Sống Chung (1)
 
 1\. Một thời, Thế Tôn đang đi trên con đường giữa Madhurà và Veranja. Và nhiều nam gia chủ và nữ gia
 chủ cũng đang đi trên con đường giữa Madhurà và Veranja. Rồi Thế Tôn từ trên đường bước xuống, đến
@@ -167,7 +167,7 @@ _Hân hoan được thỏa mãn,_\
 _Ðúng với điều cầu mong._
 
 <!--pg-->
-**(IV) (54) Sống Chung (2)**
+### (IV) (54) Sống Chung (2)
 
 1\. - Này các Tỷ-kheo, có bốn loại sống chung này. Thế nào là bốn?
 
@@ -235,7 +235,7 @@ _Hân hoan được thỏa mãn,_\
 _Ðúng với điều cầu mong._
 
 <!--pg-->
-**(V) (55) Xứng Ðôi (1)**
+### (V) (55) Xứng Ðôi (1)
 
 1\. Một thời, Thế Tôn trú ở giữa dân chúng Bhagga tại núi Sumsumàra, rừng Bhesakalà, ở vườn Nai. Rồi
 Thế Tôn, vào buổi sáng đắp y, cầm y bát, đi đến trú xứ gia chủ cha Nakulà, sau khi đến, ngồi xuống trên
@@ -274,12 +274,12 @@ _Hân hoan được thỏa mãn,_\
 _Ðúng với điều sở cầu._
 
 <!--pg-->
-**(VI) (56) Xứng Ðôi (2)**
+### (VI) (56) Xứng Ðôi (2)
 
 _(Kinh này giống như kinh trước, nhưng chỉ bắt đầu với lời của Thế Tôn dạy và nói cho các Tỷ-kheo)._
 
 <!--pg-->
-**(VII) (57) Suppavàsà**
+### (VII) (57) Suppavàsà
 
 1\. Một thời, Thế Tôn trú ở giữa dân chúng Koli tại thị trấn của dân chúng Koli tên là Sajjanela. Rồi Thế
 Tôn vào buổi sáng, đắp y cầm y bát, đi đến trú xứ của Suppavàsà, người dân Koli, sau khi đến, ngồi
@@ -318,7 +318,7 @@ _Không bị ai chỉ trích,_\
 _Chứng đạt được cõi Trời._
 
 <!--pg-->
-**(VIII) (58) Sudatta**
+### (VIII) (58) Sudatta
 
 1\. Rồi gia chủ Anàthapindika đi đến Thế Tôn, sau khi đến, đảnh lễ Thế Tôn, rồi ngồi xuống một bên.
 Thế Tôn nói với gia chủ Anàthapindika đang ngồi một bên:
@@ -348,7 +348,7 @@ _Thọ mạng dài, danh xưng,_\
 _Dầu sanh tại chỗ nào._
 
 <!--pg-->
-**(IX) (59) Các Ðồ Ăn**
+### (IX) (59) Các Ðồ Ăn
 
 1\. - Người bố thí đồ ăn, này các Tỷ-kheo, bố thí bốn sự cho người nhận. Thế nào là bốn?
 
@@ -376,7 +376,7 @@ _Thọ mạng dài, danh xưng,_\
 _Dầu sanh tại chỗ nào._
 
 <!--pg-->
-**(X) (60) Bổn Phận Người Gia Chủ**
+### (X) (60) Bổn Phận Người Gia Chủ
 
 Rồi gia chủ Anàthapindika đi đến Thế Tôn, sau khi đến, đảnh lễ Thế Tôn, rồi ngồi xuống một bên. Thế
 Tôn nói với gia chủ Anàthapindika đang ngồi một bên:

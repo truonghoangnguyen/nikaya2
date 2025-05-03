@@ -1,6 +1,6 @@
 # V. Phẩm Pancala
 
-**(I) (42) Pancalacanda**
+### (I) (42) Pancalacanda
 
 <!--pg-->
 1\. Như vầy tôi nghe:
@@ -91,7 +91,7 @@ Cái ở đây là Phi tưởng phi phi tưởng xứ chưa diệt. Chính cái 
 tưởng định. Sau khi thấy với trí tuệ, các lậu hoặc được đoạn diệt. Cho đến như vậy, này Hiền giả là giải
 thoát khỏi triền phược được Thế Tôn nói đến với phi pháp môn.
 
-**(II) (43) Vị Thân Chứng**
+### (II) (43) Vị Thân Chứng
 
 <!--pg-->
 1\. - “Thân chứng, thân chứng”, này Hiền giả, được nói đến như vậy. Cho đến như thế nào, này Hiền giả,
@@ -119,7 +119,7 @@ toàn, chứng đạt và an trú Diệt thọ tưởng định. Như thế nào
 như vậy, như vậy an trú xứ ấy. Cho đến như vậy, này Hiền giả, thân chứng được Thế Tôn nói đến pháp
 môn.
 
-**(III) (44) Tuệ Giải Thoát**
+### (III) (44) Tuệ Giải Thoát
 
 <!--pg-->
 1\. - “Tuệ giải thoát, tuệ giải thoát”, này Hiền giả, được nói đến như vậy. Cho đến như thế nào, này Hiền
@@ -134,7 +134,7 @@ như vậy, này các Hiền giả, tuệ giải thoát được Thế Tôn nói
 tưởng định; sau khi thấy với trí tuệ, các lậu hoặc được đoạn tận. Với trí tuệ, vị ấy rõ biết. Cho đến như
 vậy, này Hiền giả, tuệ giải thoát được Thế Tôn nói đến với phi pháp môn.
 
-**(IV) (45) Giải Thoát Cả Hai Phần**
+### (IV) (45) Giải Thoát Cả Hai Phần
 
 <!--pg-->
 1\. - “Giải thoát cả hai phần, giải thoát cả hai phần”, này Hiền giả, được nói đến. Cho đến như thế nào,
@@ -150,28 +150,28 @@ tưởng định; sau khi thấy với trí tuệ, các lậu hoặc được di
 xúc với thân, vị ấy như vậy, như vậy an trú xứ ấy; với trí tuệ, vị ấy rõ biết. Cho đến như vậy, này Hiền
 giả, tuệ giải thoát cả hai phần được Thế Tôn nói đến với phi pháp môn.
 
-**(V) (46) Chính Thực Mình Thấy (1)**
+### (V) (46) Chính Thực Mình Thấy (1)
 
 − “Pháp là chính thực mình thấy, pháp là thiết thực hiện tại”, này Hiền giả, được nói đến như vậy.
 
-**(VI) (47) Chính Thực Mình Thấy (2)**
+### (VI) (47) Chính Thực Mình Thấy (2)
 
 − “Niết-bàn là chính thực mình thấy, Niết-bàn là chính thực mình thấy”, này Hiền giả, được nói đến như
 vậy.
 
-**(VII) (48) Niết Bàn**
+### (VII) (48) Niết Bàn
 
 − “Niết-bàn, Niết-bàn”, này Hiền giả, được nói đến như vậy.
 
-**(VIII) (49) Hoàn Mãn Niết Bàn**
+### (VIII) (49) Hoàn Mãn Niết Bàn
 
 − “Hoàn mãn Niết-bàn, hoàn mãn Niết-bàn”, này Hiền giả, được nói đến như vậy.
 
-**(IX) (50) Hoàn Mãn Niét Bàn**
+### (IX) (50) Hoàn Mãn Niét Bàn
 
 − “Chi phần Niết-bàn, chi phần Niết-bàn”, này Hiền giả, được nói đến như vậy.
 
-**(X) (51) Thiết Thực Hiện Tại Niết Bàn**
+### (X) (51) Thiết Thực Hiện Tại Niết Bàn
 
 <!--pg-->
 1\. - “Thiết thực hiện tại Niết-bàn, Thiết thực hiện tại Niết-bàn”, này Hiền giả, được nói đến như vậy.

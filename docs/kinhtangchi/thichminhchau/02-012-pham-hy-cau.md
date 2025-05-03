@@ -1,6 +1,6 @@
 # XII. Phẩm Hy Cầu
 
-**1 - 11 Hy Cầu**
+### 1 - 11 Hy Cầu
 
 1.- Tỷ-kheo có tín tâm, này các Tỷ-kheo, nếu hy cầu một cách chơn chánh, sẽ hy cầu như sau: “Mong
 rằng ta sẽ như Sàriputta và Moggallàna”. Ðây là cán cân, này các Tỷ-kheo, đây là đồ đo lường đối với

@@ -13,5 +13,5 @@ trắc, cứng đầu, cuồng nhiệt, mạn, quá mạn, kiêu căng, phóng d
 để biết diệt, để ly tham, để đoạn diệt, để xả bỏ, để từ bỏ sân ... phóng dật, hai pháp này cần phải tu tập.
 Thế nào là hai? Chỉ và Quán ... hai pháp này cần phải tu tập.
 
-**-ooOoo-**
+### -ooOoo-
 

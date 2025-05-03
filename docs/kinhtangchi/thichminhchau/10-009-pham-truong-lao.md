@@ -1,6 +1,6 @@
 # IX. Phẩm Trưởng Lão
 
-**(I) (81) Bàhuna**
+### (I) (81) Bàhuna
 
 <!--pg-->
 1\. Một thời, Thế Tôn trú ở Campá, trên bờ hồ Gaggarà. Rồi Tôn giả Bàhuna đi đến Thế Tôn, sau khi
@@ -23,7 +23,7 @@ Bàhuna, Như Lai sống xuất ly, ly hệ, giải thoát với tâm không h�
 trong nước, vươn lên mặt nước và đứng, không có dính nước. Cũng vậy, này Bàhuna, từ mười pháp này,
 Như Lai sống xuất ly, ly hệ, giải thoát với tâm không hạn cuộc.
 
-**(II) (82) Ananda**
+### (II) (82) Ananda
 
 <!--pg-->
 1\. Rồi Tôn giả Ananda đi đến Thế Tôn, sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Thế Tôn
@@ -46,7 +46,7 @@ chánh tri kiến, sẽ được tăng trưởng, lớn mạnh, lớn rộng tro
 Này Anada, Tỷ-kheo nào thành tựu mười pháp này sẽ được tăng trưởng, lớn mạnh, lớn rộng trong Pháp
 và Luật này, sự kiện này có xảy ra.
 
-**(III) (83) Punniya**
+### (III) (83) Punniya
 
 <!--pg-->
 1\. Rồi Tôn giả Punniya đi đến Thế Tôn, sau khi đến, đảnh lễ Thế Tôn rồi xuống một bên. Ngồi xuống
@@ -75,7 +75,7 @@ Phạm hạnh, cho đến như vậy Như Lai có thuyết pháp.
 
 Thành tựu mười pháp này, này Punniya Như Lai thế nào cũng thuyết pháp.
 
-**(VI) (84) Nói Lên Chánh Trí**
+### (VI) (84) Nói Lên Chánh Trí
 
 <!--pg-->
 1\. Ở đây, Tôn giả Mahàmoggallàna gọi các Tỷ-kheo:
@@ -112,7 +112,7 @@ Luật do Như Lai thuyết giảng.”
 rộng trong Pháp và Luật này, sự kiện này không xảy ra. Tỷ-kheo ấy, này chư Hiền, do đoạn tận mười
 pháp này, đi đến được tăng trưởng lớn mạnh, lớn rộng trong Pháp và Luật này, sự kiện này có xảy ra.
 
-**(V) (85) Khoe Khoang**
+### (V) (85) Khoe Khoang
 
 <!--pg-->
 1\. Một thời, Tôn giả Mahàcunda trú giữa dân chúng Cetì, tại Sahajati. Tại đây, Tôn giả Mahàcunda bảo
@@ -189,7 +189,7 @@ Như Lai thuyết giảng.”
 Pháp và Luật này, sự kiện này không xảy ra Tỷ-kheo ấy, này chư Hiền, sau khi đoạn tận mười pháp này,
 sẽ được tăng trưởng, lớn mạnh, lớn rộng trong Pháp và Luật này, sự kiện này có xảy ra.
 
-**(VI) (86) Câu Hỏi Về Chánh Trí**
+### (VI) (86) Câu Hỏi Về Chánh Trí
 
 <!--pg-->
 1\. Một thời, Tôn giả Mahàkassapa ở tại Ràjagaha (Vương Xá), Trúc Lâm, tại vườn nuôi dưỡng các con
@@ -251,7 +251,7 @@ trong Pháp và Luật do Như Lai thuyết giảng, sự kiện này không x�
 tận mười pháp này, sẽ được tăng trưởng lớn mạnh, lớn rộng trong Pháp và Luật do Như Lai thuyết
 giảng, sự kiện này có xảy ra.
 
-**(VII) (87) Tỷ Kheo Kàlaka**
+### (VII) (87) Tỷ Kheo Kàlaka
 
 <!--pg-->
 1\. Tại đấy, nhân việc của Tỷ-kheo Kàlaka Thế tôn gọi các Tỷ-kheo:
@@ -385,7 +385,7 @@ cung kính, tôn trọng, đảnh lễ, cúng dường ta”, nhưng các vị �
 đảnh lễ, cúng dường vị ấy. Vì sao? Vì rằng, này các Tỷ-kheo, các vị đồng Phạm hạnh có trí thấy rằng
 các pháp ác bất thiện ấy đã được tận nơi vị ấy.
 
-**(VIII) (88) Tai Nạn**
+### (VIII) (88) Tai Nạn
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, nếu Tỷ-kheo nào mạ ly, khiến trách, nhiếc mắng các vị Thánh và những vị đồng
@@ -402,7 +402,7 @@ Này các Tỷ-kheo, Tỷ-kheo nào mạ lỵ, khiến trách, nhiếc mắng c�
 hạnh, thật sự không thể không xảy ra được, không thể không có lúc để vị ấy phải gặp một trong mười tai
 nạn này.
 
-**(IX) (89) Tỷ Kheo Kokàlika**
+### (IX) (89) Tỷ Kheo Kokàlika
 
 <!--pg-->
 1\. Bấy giờ có Tỷ-kheo Kokàlika đi đến Thế Tôn, sau khi đến, đảnh lễ Thế Tôn ngồi xuống một bên.
@@ -547,7 +547,7 @@ _Với năm a-bu-đa,_
 _Phải sanh vào địa ngục,_
 _Chịu khổ đau tại đấy._
 
-**(X) (90) Những Sức Mạnh**
+### (X) (90) Những Sức Mạnh
 
 <!--pg-->
 1\. Bấy giờ có Tôn giả Sàriputta đi đến Thế Tôn, sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên.

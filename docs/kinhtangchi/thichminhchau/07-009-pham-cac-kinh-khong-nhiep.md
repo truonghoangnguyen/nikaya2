@@ -1,8 +1,8 @@
 # IX. Phẩm Các Kinh Không Nhiếp
 
-**[I]**
+### [I]
 
-**(I) (1) Sự Phá Hoại**
+### (I) (1) Sự Phá Hoại
 
 1.- Do phá hoại bảy pháp, này các Tỷ-kheo, thành vị Tỷ-kheo. Thế nào là bảy?
 
@@ -12,7 +12,7 @@ phá hoại mạn.
 
 Do phá hoại bảy pháp này, này các Tỷ-kheo, thành vị Tỷ-kheo.
 
-**(II-VIII) (2-8) Các Pháp Khác**
+### (II-VIII) (2-8) Các Pháp Khác
 
 <!--pg-->
 1\. Này các Tỷ-kheo, do đoạn diệt bảy pháp, thành vị Sa-môn ... do vất bỏ bảy pháp, thành vị Bà-lamôn ... Do tiêu diệt bảy pháp, thành vị an lành ... Do gột sạch bảy pháp, thành vị đã gột sạch ... Do biết
@@ -25,7 +25,7 @@ chặn đứng si, chặn đứng mạn
 
 Do chặn đứng bảy pháp này, này các Tỷ-kheo, thành vị A-la-hán.
 
-**(IX) (9) Phi Diệu Pháp**
+### (IX) (9) Phi Diệu Pháp
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, có bảy phi diệp pháp này. Thế nào là bảy?
@@ -33,16 +33,16 @@ Do chặn đứng bảy pháp này, này các Tỷ-kheo, thành vị A-la-hán.
 <!--pg-->
 2\. Bất tín, không xấu hổ, không sợ hãi, không nghe nhiều, biếng nhác, thất niệm, ác tuệ. Này các Tỷkheo, có bảy phi diệu pháp này.
 
-**(X)(10) Diệu Pháp**
+### (X)(10) Diệu Pháp
 
 1.- Có bảy diệu pháp này, này các Tỷ-kheo. Thế nào là bảy?
 
 <!--pg-->
 2\. Tín, xấu hổ, sợ hãi, nghe nhiều, tinh tấn, chánh niệm, có trí tuệ. Này các Tỷ-kheo, có bảy diệu pháp
 này.
-**[II]**
+### [II]
 
-**(I) (1) Người Xứng Ðáng Ðược Cung Kính**
+### (I) (1) Người Xứng Ðáng Ðược Cung Kính
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, có bảy hạng người này, đáng được cung kính, đáng được tôn trọng, đáng được
@@ -70,7 +70,7 @@ Tỷ-kheo, đây là hạng người thứ bảy đáng được cung kính, đ�
 
 Này các Tỷ-kheo, bảy hạng người này đáng được cung kính ... là ruộng phước vô thượng ở đời.
 
-**(II) (2) Các Người Khác Ðáng Ðược Cung Kính**
+### (II) (2) Các Người Khác Ðáng Ðược Cung Kính
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, có bảy hạng người này, đáng được cung kính, ..... là ruộng phước vô thượng ở
@@ -93,16 +93,16 @@ uẩn ... sống tùy quán vô thường trên thức uẩn ... sống tùy qu�
 quán diệt tận ... sống tùy quán hoại diệt ... sống tùy quán ly tham ... sống tùy quán đoạn diệt ... sống tùy
 quán từ bỏ.
 
-**[III]**
+### [III]
 
-**(I) (1) Thắng Tri Tham (1)**
+### (I) (1) Thắng Tri Tham (1)
 1.- Này các Tỷ-kheo, để thắng tri tham, bảy pháp cần phải tu tập. Thế nào là bảy?
 
 <!--pg-->
 2\. Niệm giác chi, trạch pháp giác chi, tinh tấn giác chi, khinh an giác chi, định giác chi, xả giác chi. Này
 các Tỷ-kheo, để thắng tri tham, bảy pháp này cần phải tu tập.
 
-**(II) (2) Thắng Tri Tham (2)**
+### (II) (2) Thắng Tri Tham (2)
 
 1.- Này các Tỷ-kheo, để thắng tri tham, bảy pháp cần phải tu tập. Thế nào là bảy?
 
@@ -110,7 +110,7 @@ các Tỷ-kheo, để thắng tri tham, bảy pháp này cần phải tu tập.
 2\. Tưởng vô thường, tưởng vô ngã, tưởng bất tịnh, tưởng nguy hại, tưởng đoạn tận, tưởng ly tham,
 tưởng đoạn diệt. Này các Tỷ-kheo, để thắng tri tham, bảy pháp này cần phải tu tập.
 
-**(III) (3) Thắng Tri Tham (3)**
+### (III) (3) Thắng Tri Tham (3)
 
 1.- Này các Tỷ-kheo, để thắng tri tham, bảy pháp cần phải tu tập. Thế nào là bảy?
 
@@ -119,7 +119,7 @@ tưởng đoạn diệt. Này các Tỷ-kheo, để thắng tri tham, bảy phá
 tưởng vô thường, tưởng khổ trên vô thường, tưởng vô ngã trên khổ. Này các Tỷ-kheo, để thắng tri tham,
 bảy pháp này cần phải tu tập.
 
-**(IV) (4) Thắng Tri Tham (4)**
+### (IV) (4) Thắng Tri Tham (4)
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, để thắng tri tham ... để hoàn toàn diệt tận ... để đoạn tận ... để diệt tận ... để hoại
@@ -133,6 +133,6 @@ bỏ ... để từ bỏ tham. Bảy pháp này cần phải tu tập.
 
 Thế Tôn thuyết như vậy, các Tỷ-kheo hoan hỷ tín thọ lời Thế Tôn thuyết.
 
-**-ooOoo-**
-**CHƯƠNG VIII: CHƯƠNG TÁM PHÁP**
+### -ooOoo-
+### CHƯƠNG VIII: CHƯƠNG TÁM PHÁP
 

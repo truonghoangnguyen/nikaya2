@@ -1,6 +1,6 @@
 # XXIV. Phẩm Nghiệp
 
-**(I) (231) Tóm Tắt**
+### (I) (231) Tóm Tắt
 
 − Có bốn nghiệp này, này các Tỷ-kheo, đã được ta chứng ngộ với thắng trí và thuyết giảng. Thế nào là
 bốn?
@@ -11,7 +11,7 @@ không trắng, nghiệp đưa đến nghiệp đoạn diệt. Có bốn nghiệ
 ngộ với thắng trí và thuyết giảng.
 
 <!--pg-->
-**(II) (232) Với Chi Tiết**
+### (II) (232) Với Chi Tiết
 
 1\. Có bốn nghiệp này, này các Tỷ-kheo, đã được ta chứng ngộ với thắng trí và thuyết giảng. Thế nào là
 bốn?
@@ -57,7 +57,7 @@ trắng, nghiệp đưa đến đoạn diệt. Này các Tỷ-kheo, có bốn ng
 trí và thuyết giảng.
 
 <!--pg-->
-**(III) (233) Sonakàyana**
+### (III) (233) Sonakàyana
 
 1\. Rồi Bà-la-môn Sikha Moggallàna đi đến Thế Tôn; sau khi đến, nói lên với Thế Tôn những lời chào
 đón hỏi thăm rồi ngồi xuống một bên. Ngồi xuống một bên, Bà-la-môn Sikha Moggallàna thưa với Thế
@@ -75,7 +75,7 @@ thiệt là có do nghiệp tác thành thế giới và được tồn tại do
 ... (Hoàn toàn giống như kinh 232).
 
 <!--pg-->
-**(IV) (234) Các Học Pháp**
+### (IV) (234) Các Học Pháp
 
 1.- Này các Tỷ-kheo, có bốn nghiệp này, đã được ta chứng ngộ với thắng trí và tuyên bố. Thế nào là
 bốn? (Như kinh 231)
@@ -143,7 +143,7 @@ gọi là nghiệp không đen trắng, quả không đen trắng, nghiệp đư
 Có bốn loại nghiệp này, này các Tỷ-kheo, đã được ta chứng ngộ với thắng trí và tuyên thuyết.
 
 <!--pg-->
-**(V) (235) Thánh Ðạo**
+### (V) (235) Thánh Ðạo
 
 − Này các Tỷ-kheo, có bốn nghiệp này được ta chứng ngộ với thắng trí và tuyên thuyết. Thế nào là bốn?
 
@@ -157,7 +157,7 @@ Này các Tỷ-kheo, đây là nghiệp không đen trắng, quả không đen t
 diệt.
 
 <!--pg-->
-**(VI) (236) Giác Chi**
+### (VI) (236) Giác Chi
 
 1.- Có bốn nghiệp này ... (như kinh 232.1).
 
@@ -179,7 +179,7 @@ diệt.
 Này các Tỷ-kheo, có bốn loại nghiệp này, đã được ta chứng ngộ với thắng trí và tuyên thuyết.
 
 <!--pg-->
-**(VII) (237) Ðáng Quở Trách**
+### (VII) (237) Ðáng Quở Trách
 
 1.- Này các Tỷ-kheo, thành tựu với bốn pháp này, như vậy tương xứng bị rơi vào địa ngục. Thế nào là
 với bốn?
@@ -197,7 +197,7 @@ có tội.
 Thành tựu với bốn pháp này, này các Tỷ-kheo, như vậy tương xứng được sanh lên cõi Trời.
 
 <!--pg-->
-**(VIII) (238) Có Hại**
+### (VIII) (238) Có Hại
 
 1.- Này các Tỷ-kheo, thành tựu với bốn pháp này, như vậy tương xứng bị rơi vào địa ngục. Thế nào là
 với bốn?
@@ -215,7 +215,7 @@ kiến không có tổn hại.
 Thành tựu với bốn pháp này, này các Tỷ-kheo, như vậy tương xứng được sanh lên cõi Trời.
 
 <!--pg-->
-**(IX) (239) Vị Sa Môn**
+### (IX) (239) Vị Sa Môn
 
 1.- Chỉ ở đây, này các Tỷ-kheo, có Sa-môn thứ nhất, có Sa-môn thứ hai, có Sa-môn thứ ba, có Sa-môn
 thứ tư, còn ngoại đạo khác không có Sa-môn. Như vậy, này các Tỷ kheo, các Thầy chơn chánh rống
@@ -246,7 +246,7 @@ Chỉ ở đây, này các Tỷ-kheo, có Sa-môn thứ nhất, Ở đây có Sa
 rống tiếng rống con sư tử này.
 
 <!--pg-->
-**(X) (240) Các Lợi Ích Nhờ Bậc Chân Nhân**
+### (X) (240) Các Lợi Ích Nhờ Bậc Chân Nhân
 
 − Nhờ y tựa bậc chân nhân, này các Tỷ-kheo, chờ đợi là bốn lợi ích. Thế nào là bốn?
 

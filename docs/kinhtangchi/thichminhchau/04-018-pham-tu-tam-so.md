@@ -1,6 +1,6 @@
 # XVIII. Phẩm Tư Tâm Sở
 
-**(I) (171) Với Tư Tâm Sở**
+### (I) (171) Với Tư Tâm Sở
 
 − Này các Tỷ-kheo, khi nào có hành động về thân, do nhân thân tư tâm sở, khởi lên lạc khổ nội tâm. Khi
 nào có hành động về lời, do nhân tư tâm sở về lời, khởi lên lạc khổ nội tâm. Khi nào có hành động về ý,
@@ -31,7 +31,7 @@ khởi lên lạc khổ nội tâm cho người ấy. Thửa ruộng không có,
 không có, do duyên này khởi lên lạc khổ nội tâm cho người ấy.
 
 <!--pg-->
-**(II) (172) Ðược Ngã Tánh**
+### (II) (172) Ðược Ngã Tánh
 
 1.- Này các Tỷ-kheo, có bốn cách này để được ngã tánh. Thế nào là bốn?
 
@@ -83,7 +83,7 @@ Này Sàriputta, đây là nhân, đây là duyên, ở đây có hạng chúng 
 ấy ... đã không trở lui lại, không trở lui lại trạng thái này.
 
 <!--pg-->
-**(III) (173) Phân Tích**
+### (III) (173) Phân Tích
 
 Tại đây, Tôn giả Sàriputta gọi các Tỷ-kheo:
 
@@ -112,7 +112,7 @@ người ấy hỏi tôi và tôi trả lời người ấy, khi bậc Ðạo s�
 trong các pháp.
 
 <!--pg-->
-**(IV) (174) Kotthita**
+### (IV) (174) Kotthita
 
 1\. Rồi Tôn giả Mahàkotthita đi đến Tôn giả Sàriputta, sau khi đến, nói lên với Tôn giả Sàriputta những
 lời chào đón thăm hỏi ... ngồi xuống một bên, Tôn giả Mahàkotthita thưa với Tôn giả Sàriputta:
@@ -167,7 +167,7 @@ một bên. Ngồi xuống một bên, Tôn giả Ananda thưa với Tôn giả 
 .. (giống như đoạn trước, khi Sàriputta trả lời cho Mahàkotthita ... cho đến... “hý luận được chỉ tịnh”).
 
 <!--pg-->
-**(V) (175) Upavàna**
+### (V) (175) Upavàna
 
 1\. Rồi Tôn giả Upavàna đi đến Tôn giả Sàriputta, sau khi đến, nói với Tôn giả Sàriputta ... ngồi xuống
 một bên.
@@ -204,7 +204,7 @@ người phàm phu nhưng do có minh và hạnh, hạnh không có đầy đủ
 như thật thấy và biết, là người chấm dứt (đau khổ).
 
 <!--pg-->
-**(VI) (176) Mong Cầu**
+### (VI) (176) Mong Cầu
 
 1.- Này các Tỷ-kheo, Tỷ-kheo có lòng tin, nếu chơn chánh mong cầu, hãy mong cầu như sau: “Mong ta
 sẽ được như Sàriputta, Moggallàna”.
@@ -230,7 +230,7 @@ Này các Tỷ-kheo, họ là cán cân, là đồ để đo lường các đệ
 và Velukantaki, mẹ của Nandà.
 
 <!--pg-->
-**(VII) (177) Rahula**
+### (VII) (177) Rahula
 
 1\. Rồi Tôn giả Ràhula đi đến Thế Tôn; sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Thế Tôn
 nói với Tôn giả Ràhula đang ngồi xuống một bên:
@@ -251,7 +251,7 @@ này Ràhula, vị này được gọi là Tỷ-kheo đã cắt dứt ái, đã 
 kiêu mạn, đã chấm dứt khổ đau.
 
 <!--pg-->
-**(VIII) (178) Hồ Nước Ở Làng**
+### (VIII) (178) Hồ Nước Ở Làng
 
 1.- Này các Tỷ-kheo, có bốn hạng người này có mặt, xuất hiện ở đời. Thế nào là bốn?
 
@@ -292,7 +292,7 @@ giải thoát đối với phá hoại vô minh. Này các Tỷ-kheo, Tỷ-kheo 
 minh. Này các Tỷ-kheo, có bốn hạng người này có mặt, hiện hữu ở đời.
 
 <!--pg-->
-**(IX) (179) Niết Bàn**
+### (IX) (179) Niết Bàn
 
 1\. Rồi Tôn giả Ananda đi đến Tôn giả Sàriputta. sau khi đến ... ngồi xuống một bên. Tôn giả Ananda nói
 với Tôn giả Sàriputta:
@@ -315,7 +315,7 @@ thắng”, như thật quán tri: “Các tưởng này dự phần vào thể 
 giả Ananda, ở đây có các chúng sanh ngay trong hiện tại, chứng nhập Niết-bàn.
 
 <!--pg-->
-**(X) (180) Căn Cứ Ðịa**
+### (X) (180) Căn Cứ Ðịa
 
 1\. Một thời, Thế Tôn trú ở Bhoganagara, tại điện Ananda. Tại đấy, Thế Tôn gọi các Tỷ-kheo:
 

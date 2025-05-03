@@ -1,7 +1,7 @@
 # V. Phẩm Rohitassa
 
 
-**(I) (41) Ðịnh**
+### (I) (41) Ðịnh
 
 1\. - Này các Tỷ-kheo, có bốn định tu tập này. Thế nào là bốn?
 
@@ -59,7 +59,7 @@ _Ta nói vị ấy vượt,_\
 _Qua khỏi sanh và già._
 
 <!--pg-->
-**(II) (42) Các Câu Hỏi**
+### (II) (42) Các Câu Hỏi
 
 1\. - Này các Tỷ-kheo, có bốn cách thức để trả lời câu hỏi. Thế nào là bốn?
 
@@ -91,7 +91,7 @@ _Bậc Trí minh kiến nghĩa_\
 _Ðược gọi là bậc Trí._
 
 <!--pg-->
-**(III) (43) Phẫn Nộ (1)**
+### (III) (43) Phẫn Nộ (1)
 
 1\. Bốn hạng người này, này các Tỷ-kheo, có mặt, hiện hữu ở đời. Thế nào là bốn?
 
@@ -120,7 +120,7 @@ _Các vị ấy lớn mạnh_\
 _Trong pháp đức Phật thuyết._
 
 <!--pg-->
-**(IV) (44) Sự Phẫn Nộ (2)**
+### (IV) (44) Sự Phẫn Nộ (2)
 
 1\. - Này các Tỷ-kheo, có bốn phi diệu pháp này. Thế nào là bốn?
 
@@ -152,7 +152,7 @@ _Như dược thảo, dùng dầu,_\
 _Chữa trị lớn mạnh hơn._
 
 <!--pg-->
-**(V) (45) Rohitassa (1)**
+### (V) (45) Rohitassa (1)
 
 1\. Một thời, Thế Tôn trú ở Sàvatthi, tại Jetavana, khu vườn ông Anàthapindika. Rồi Thiên tử Rohitassa
 sau khi đêm gần mãn, với dung sắc thù thắng chiếu sáng toàn vùng Jetavana, đi đến Thế Tôn, sau khi
@@ -206,7 +206,7 @@ _Không mong cầu đời này,_\
 _Không mong cầu đời sau._
 
 <!--pg-->
-**(VI) (46) Rohitassa (2)**
+### (VI) (46) Rohitassa (2)
 
 1\. Rồi Thế Tôn, sau khi đêm ấy đã qua, bảo các Tỷ-kheo:
 
@@ -268,7 +268,7 @@ _Không mong cầu đời này,_\
 _Không mong cầu đời sau._
 
 <!--pg-->
-**(VII) (47) Rất Xa Xăm**
+### (VII) (47) Rất Xa Xăm
 
 1\. - Này các Tỷ-kheo, có bốn sự việc này, rất xa, rất xa với nhau. Thế nào là bốn?
 
@@ -301,7 +301,7 @@ _Do vậy pháp bậc thiện,_\
 _Rất xa pháp kẻ ác._
 
 <!--pg-->
-**(VIII) (48) Visàkhà**
+### (VIII) (48) Visàkhà
 
 1\. Một thời, Thế Tôn trú ở Sàvatthi, tại Jetavana, khu vườn ông Anàthapindika. Lúc bấy giờ, Tôn giả
 Visàkhà Pancàliputta, trong hội trường với pháp thoại, đang thuyết pháp cho các Tỷ-kheo, khích lệ, làm
@@ -340,7 +340,7 @@ _Và pháp là ngọn cờ,_\
 _Của những bậc ẩn sĩ._
 
 <!--pg-->
-**(IX) (49) Tưởng Ðiên Ðảo**
+### (IX) (49) Tưởng Ðiên Ðảo
 
 1\. - Này các Tỷ-kheo, có bốn tưởng điên đảo, tâm điên đảo, kiến điên đảo này. Thế nào là bốn?
 
@@ -387,7 +387,7 @@ _Do hành chánh tri kiến,_\
 _Vượt qua mọi đau khổ._
 
 <!--pg-->
-**(X) (50) Các Uế Nhiễm**
+### (X) (50) Các Uế Nhiễm
 
 1\. - Này các Tỷ-kheo, có bốn uế nhiễm này của mặt trăng, mặt trời. Do những uế nhiễm này làm ô
 nhiễm mặt trăng, mặt trời không có cháy sáng, không có chói sáng, không có rực sáng. Thế nào là bốn?

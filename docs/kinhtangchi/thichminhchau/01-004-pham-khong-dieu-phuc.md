@@ -1,6 +1,6 @@
 # IV. Phẩm Không Ðiều Phục
 
-**1-10 Tâm Không Ðiều Phục**
+### 1-10 Tâm Không Ðiều Phục
 
 1.- Ta không thấy một pháp nào khác, này các Tỷ-kheo, đưa đến bất lợi lớn, này các Tỷ-kheo, như tâm
 không được điều phục. Tâm không được diều phục, này các Tỷ-kheo, đưa đến bất lợi lớn.

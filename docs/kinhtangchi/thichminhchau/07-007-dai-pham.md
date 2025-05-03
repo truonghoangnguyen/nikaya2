@@ -22,7 +22,7 @@ tri kiến đi đến đầy đủ. Ví như, này các Tỷ-kheo, một cây c�
 thành mãn; vỏ trong, giác cây, lõi cây đi đến thành mãn. Cũng vậy, này các Tỷ-kheo, khi tàm quý có
 mặt, với người đầy đủ tàm quý ... giải thoát tri kiến đi đến đầy đủ.
 
-**(II) (62) Mặt Trời**
+### (II) (62) Mặt Trời
 
 <!--pg-->
 1\. Như vầy tôi nghe:
@@ -138,7 +138,7 @@ _Thuyết pháp cho Tỷ-kheo,_
 _Bậc Ðạo sư đoạn khổ,_
 _Bậc Pháp nhãn tịch tịnh._
 
-**(III) (63) Thành Trì**
+### (III) (63) Thành Trì
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, khi nào một thành trì biên địa của vua được khéo trang bị với bảy trang bị của một
@@ -314,7 +314,7 @@ Này các Tỷ-kheo, khi nào Thánh đệ tử thành tựu bảy diệu pháp 
 thương tâm, hiện tại lạc trú, có được không khó khăn, có được không mệt nhọc, có được không phí sức,
 này các Tỷ-kheo, đây gọi là Thánh đệ tử không bị ma chinh phục, không bị ác chinh phục.
 
-**(VI) (64) Pháp Trí**
+### (VI) (64) Pháp Trí
 
 <!--pg-->
 1\. - Thành tựu bảy pháp, này các Tỷ-kheo, Tỷ-kheo đáng được cung kính, đáng được tôn trọng... là
@@ -404,7 +404,7 @@ thắng liệt.
 Do thành tựu bảy pháp này, này các Tỷ-kheo, Tỷ-kheo đáng được cung kính... là phước điền vô thượng
 ở đời.
 
-**(V) (65) Cây Kovilàra Pàricchattaka**
+### (V) (65) Cây Kovilàra Pàricchattaka
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, khi nào cây Kovilàra Pàricchattaka của chư Thiên Tàvatimsa bắt đầu khô héo lá,
@@ -456,7 +456,7 @@ chứng đạt và an trú vô lậu tâm giải thoát, tuệ giải thoát”.
 
 Như vậy trong sát-ma ấy, trong giây phút ấy, tiếng ấy truyền đến Phạm thiên giới. Ðây là uy lực của Tỷkheo đã đoạn tận các lậu hoặc.
 
-**(VI) (66) Vị Tỷ Kheo Phải Kính Trọng Ai?**
+### (VI) (66) Vị Tỷ Kheo Phải Kính Trọng Ai?
 
 <!--pg-->
 1\. Rồi Tôn giả Sàriputta, trong khi sống một mình, Thiền tịnh, tâm tư suy nghĩ như sau khởi lên: “Vị Tỷkheo cung kính tôn trọng, sống nương tựa ai để có thể từ bỏ bất thiện, tu tập thiện?” Rồi Tôn giả
@@ -557,7 +557,7 @@ Tăng, cung kính Học pháp, cung kính Thiền định, cung kính không ph�
 đón thân tình. Này Sàriputta, lời nói vắn tắt này của Ta, ý nghĩa cần phải được thấy một cách rộng rãi
 như vậy.
 
-**(VII) (67) Sự Tu Tập**
+### (VII) (67) Sự Tu Tập
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, Tỷ-kheo không chí tâm trong sự tu tập khởi lên ước muốn như sau: “Mong rằng
@@ -627,7 +627,7 @@ nước mưa đổ xuống trong mùa mưa, chúng bị hư dần và mục nát
 Cũng vậy, này các Tỷ-kheo, Tỷ-kheo sống chú tâm trong sự tu tập, các kiết sử rất dễ bị yếu dần và mục
 nát.
 
-**(VIII) (68) Lửa**
+### (VIII) (68) Lửa
 
 <!--pg-->
 1\. Như vầy tôi nghe:
@@ -798,7 +798,7 @@ nóng từ miệng, có khoảng sáu mươi Tỷ-kheo từ bỏ học pháp và
 Tôn! Thật khó làm thay, Thế Tôn!”. Có khoảng sáu mươi Tỷ-kheo, với tâm được giải thoát, không chấp
 thủ các lậu hoặc.
 
-**(IX) (69) Sunetta**
+### (IX) (69) Sunetta
 
 <!--pg-->
 1\. - Thuở xưa, này các Tỷ-kheo, có Ðạo Sư tên là Sunetta, thuộc ngoại đạo, đã ly tham đối với các dục.
@@ -833,7 +833,7 @@ Vì cớ sao? Ta tuyên bố không kham nhẫn một người như vậy, từ 
 Phạm hạnh. Do vậy, này các Tỷ-kheo, các Thầy cần phải học tập như sau: “Chúng ta sẽ không có tâm ác
 độc đối với các vị đồng Phạm hạnh”. Này các Tỷ-kheo, các Thầy cần phải học tập như vậy.
 
-**(X) (70) Araka**
+### (X) (70) Araka
 
 <!--pg-->
 1\. - Thuở xưa, này các Tỷ-kheo, có Ðạo sư tên là Araka thuộc ngoại đạo đã ly tham đối với các dục. Này

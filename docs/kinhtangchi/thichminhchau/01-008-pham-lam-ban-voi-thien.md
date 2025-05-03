@@ -1,6 +1,6 @@
 # VIII. Phẩm Làm Bạn Với Thiện
 
-**1-11 Làm Bạn Với Thiện**
+### 1-11 Làm Bạn Với Thiện
 
 1\. - Ta không thấy một pháp nào khác, này các Tỷ-kheo, do pháp ấy, các pháp thiện chưa sanh được
 sanh khởi, và các pháp bất thiện đã sanh được đoạn tận, này các Tỷ-kheo, như làm bạn với thiện. Với

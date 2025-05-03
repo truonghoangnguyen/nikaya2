@@ -1,7 +1,7 @@
 # XXV. Phẩm Sợ Hãi Phạm Tội
 
 
-**(I) (241) Phạm Tội (1)**
+### (I) (241) Phạm Tội (1)
 
 1\. Một thời, Thế Tôn trú ở Kosambi, tại khu vườn Ghosita. Rồi Tôn giả Ananda đi đến Thế Tôn; sau khi
 đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Thế Tôn nói với Tôn giả Ananda đang ngồi xuống một
@@ -43,7 +43,7 @@ làm hại được ta”. Này Ananda, do thấy lợi ích thứ tư này, ác
 Do thấy bốn lợi ích này, này Ananda, kẻ ác Tỷ-kheo thích thú với phá hòa hợp Tăng.
 
 <!--pg-->
-**(II) (242) Phạm Tội (2)**
+### (II) (242) Phạm Tội (2)
 
 1.- Này các Tỷ-kheo, có bốn sợ hãi phạm tội này. Thế nào là bốn?
 
@@ -102,7 +102,7 @@ Nếu phạm tội thời sẽ như pháp sám hối, pháp pàtidesaniya.
 Này các Tỷ-kheo, có bốn sợ hãi phạm tội này.
 
 <!--pg-->
-**(III) (243) Lợi ích Học Tập**
+### (III) (243) Lợi ích Học Tập
 
 1\. - Phạm hạnh này được sống, được lợi ích trong học tập, được trí tuệ vô thượng, được giải thoát kiên
 cố, được niệm tăng thượng.
@@ -152,7 +152,7 @@ Phạm hạnh này được sống, này các Tỷ-kheo, để được lợi í
 giải thoát kiên cố, được niệm tăng thượng. Như vậy được nói đến, do duyên này được nói đến như vậy.
 
 <!--pg-->
-**(IV) (244) Cách Nằm**
+### (IV) (244) Cách Nằm
 
 − Này các Tỷ-kheo, có bốn cách nằm này. Thế nào là bốn?
 
@@ -181,7 +181,7 @@ Và này các Tỷ-kheo, thế nào là cách nằm của Như Lai?
 cách nằm của Như Lai. Này các Tỷ-kheo, có bốn cách nằm này.
 
 <!--pg-->
-**(V) (245) Xứng Ðáng Ðược Dựng Tháp**
+### (V) (245) Xứng Ðáng Ðược Dựng Tháp
 
 − Này các Tỷ-kheo, có bốn hạng người này xứng được để được dựng tháp. Thế nào là bốn?
 
@@ -192,7 +192,7 @@ dựng tháp.
 Có bốn hạng người này, này các Tỷ-kheo, xứng đáng được dựng tháp.
 
 <!--pg-->
-**(VI) (246) Trí Tuệ Tăng Trưởng**
+### (VI) (246) Trí Tuệ Tăng Trưởng
 
 1.- Bốn pháp này, này các Tỷ-kheo, đưa đến trí tuệ tăng trưởng. Thế nào là bốn?
 
@@ -208,7 +208,7 @@ Thân cận bậc Chân nhân, nghe diệu pháp, như lý tác ý, thực hành
 Bốn pháp này, này các Tỷ-kheo, giúp ích nhiều cho vị sanh ra làm người.
 
 <!--pg-->
-**(VII) (247) Cách Thức Nói (1)**
+### (VII) (247) Cách Thức Nói (1)
 
 − Này các Tỷ-kheo, có bốn ngôn thuyết phi Thánh này. Thế nào là bốn?
 − Không thấy nói thấy, không nghe nói nghe, không cảm giác nói cảm giác, không thức tri nói thức tri.
@@ -216,7 +216,7 @@ Bốn pháp này, này các Tỷ-kheo, giúp ích nhiều cho vị sanh ra làm 
 Này các Tỷ-kheo, có bốn ngôn thuyết phi Thánh này.
 
 <!--pg-->
-**(VIII) (248) Cách Thức Nói (2)**
+### (VIII) (248) Cách Thức Nói (2)
 
 − Này các Tỷ-kheo, có bốn ngôn thuyết bậc Thánh này. Thế nào là bốn?
 
@@ -226,7 +226,7 @@ thức tri nói không thức tri.
 Này các Tỷ-kheo, có bốn ngôn thuyết bậc Thánh này.
 
 <!--pg-->
-**(IX) (149) Cách Thức Nói (3)**
+### (IX) (149) Cách Thức Nói (3)
 
 − Này các Tỷ-kheo, có bốn ngôn thuyết phi Thánh này. Thế nào là bốn?
 
@@ -236,7 +236,7 @@ tri.
 Này các Tỷ-kheo, có bốn ngôn thuyết phi Thánh này.
 
 <!--pg-->
-**(X) (250) Cách Thúc Nói (4)**
+### (X) (250) Cách Thúc Nói (4)
 
 − Này các Tỷ-kheo, có bốn ngôn thuyết bậc Thánh này. Thế nào là bốn?
 

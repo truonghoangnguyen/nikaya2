@@ -1,6 +1,6 @@
 # XIII. Phẩm Kusinàra
 
-**121. Tại Kusinàra**
+### 121. Tại Kusinàra
 
 Một thời Thế Tôn trú ở Kusinàra, tại khóm rừng Bariharana. Tại đấy, Thế Tôn gọi các Tỷ-kheo:
 
@@ -37,7 +37,7 @@ các Tỷ-kheo, Ta nói rằng bố thí cho Tỷ-kheo như vậy có quả lớ
 không sống phóng dật.
 
 <!--pg-->
-**122.- Tranh Luận**
+### 122.- Tranh Luận
 
 − Tại phương hướng nào, này các Tỷ-kheo, các Tỷ-kheo sống cạnh tranh, luận tranh, đấu tranh, đả
 thương nhau với binh khí miệng lưỡi, thật không thoải mái cho ta, này các Tỷ-kheo, khi nghĩ đến
@@ -67,7 +67,7 @@ thoải mái cho ta, còn nói gì nghĩ đến phương hướng ấy. Ở đâ
 các Tỷ-kheo ấy đã từ bỏ ba pháp này và đã làm quá nhiều ba pháp này”.
 
 <!--pg-->
-**123.- Ðiện Thờ Gotama**
+### 123.- Ðiện Thờ Gotama
 
 Một thời, Thế Tôn trú ở Vesàli, tại điện thờ Gotama. Tại đấy, Thế Tôn gọi các Tỷ-kheo:
 
@@ -92,7 +92,7 @@ Thế Tôn thuyết giảng như vậy. Các Tỷ-kheo ấy hoan hỷ lời Th�
 này được nói lên, một ngàn thế giới đều rung động.
 
 <!--pg-->
-**124. Bharandu**
+### 124. Bharandu
 
 1\. Một thời, Thế Tôn đang du hành giữa dân chúng Kosala và đi đến Kapilavatthu. Họ Thích Mahànàma
 nghe tin Thế Tôn đã đến Kapilavatthu. Rồi họ Thích Mahànàma đi đến Thế Tôn; sau khi đến, đảnh lễ
@@ -170,7 +170,7 @@ Rồi Bharandu người Kàlàmà đi ra khỏi Kapilavatthu, một sự ra đi 
 trở lại nữa.
 
 <!--pg-->
-**125.- Hatthaka**
+### 125.- Hatthaka
 
 1\. Một thời Thế Tôn trú ở Sàvatthi, tại Jetanava, khu vườn của Anàthapindika.
 
@@ -222,7 +222,7 @@ _Thiên tử Hatthaka_\
 _Ðược sanh vô phiền thiên_
 
 <!--pg-->
-**126.- Thối Nát.**
+### 126.- Thối Nát.
 
 1\. Một thời, Thế Tôn trú ở Bàrànasi, tại Isipatana vườn Nai
 
@@ -275,7 +275,7 @@ _Sống an tịnh hạnh phúc_\
 _Mọi ruồi lằng diệt trừ_
 
 <!--pg-->
-**127. Anuruddha (1)**
+### 127. Anuruddha (1)
 
 1\. Rồi Tôn giả Anuruddha đi đến Thế Tôn, sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Ngồi
 xuống một bên, Tôn giả Anuruddha bạch Thế Tôn:
@@ -293,7 +293,7 @@ tâm bị ám ảnh cấu uế của dục tham. Do đầy đủ với ba pháp 
 thân hoại mạng chung, phải sanh vào cõi dữ, ác thú, đọa xứ, địa ngục.
 
 <!--pg-->
-**128.- Anuruddha (2)**
+### 128.- Anuruddha (2)
 
 1\. Rồi Tôn giả Anuruddha đi đến Tôn giả Sàriputta, sau khi đến, nói lên với Tôn giả Sàriputta những lời
 chào đón hỏi thăm thân hữu rồi ngồi xuống một bên. Ngồi xuống một bên, Tôn giả Anuruddha nói với
@@ -320,7 +320,7 @@ thắng trí, sau khi chứng ngộ, chứng đạt, vị ấy an trú. Vị ấ
 các việc nên làm đã làm, không còn trở lui trạng thái này nữa. Tôn giả Anuruddha trở thành một vị A-lahán nữa.
 
 <!--pg-->
-**129.- Che Giấu**
+### 129.- Che Giấu
 
 1\. - Này các Tỷ-kheo, có ba pháp này được che giấu khi thực hành, không có hiển lộ. Thế nào là ba?
 
@@ -335,7 +335,7 @@ chói sáng, được hiển lộ, không có che giấu. Pháp và Luật đư�
 chói sáng, được hiển lộ, không có che giấu. Ba pháp này chói sáng, được hiển lộ, không có che giấu.
 
 <!--pg-->
-**130.- Chữ Viết Trên Ðá, Trên Ðất, Trên Nước.**
+### 130.- Chữ Viết Trên Ðá, Trên Ðất, Trên Nước.
 
 1\. - Ba hạng người này, này các Tỷ-kheo, có mặt, xuất hiện ở đời. Thế nào là ba? Hạng người như chữ
 viết trên đá, hạng người như chữ viết trên đất, hạng người như chữ viết trên nước.

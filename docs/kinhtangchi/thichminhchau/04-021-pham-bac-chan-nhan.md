@@ -1,6 +1,6 @@
 # XXI. Phẩm Bậc Chân Nhân
 
-**(I) (201) Các Học Pháp**
+### (I) (201) Các Học Pháp
 
 1.- Này các Tỷ-kheo, Ta sẽ giảng cho các Thầy về người không Chân nhân và người không Chân nhân
 hơn cả người không Chân nhân; về bậc Chân nhân và bậc Chân nhân hơn cả bậc Chân nhân. Hãy nghe
@@ -38,7 +38,7 @@ bỏ nói láo, tự mình từ bỏ đắm say rượu men, rượu nấu và k
 rượu nấu. Người này, này các Tỷ-kheo, được gọi là bậc Chân nhân còn hơn cả bậc Chân nhân.
 
 <!--pg-->
-**(II) (202) Người Có Lòng Tin**
+### (II) (202) Người Có Lòng Tin
 
 1.- Và này các Tỷ-kheo, Ta sẽ giảng cho các Thầy về người không Chân nhân và người không Chân
 nhân hơn cả người không Chân nhân; về bậc Chân nhân và bậc Chân nhân còn hơn cả bậc Chân nhân.
@@ -82,7 +82,7 @@ lệ người khác có trí tuệ.
 Người này, này các Tỷ-kheo, được gọi là gọi là bậc Chân nhân còn hơn cả bậc Chân nhân.
 
 <!--pg-->
-**(III) (203) Kẻ Tàn Hại Chúng Sanh**
+### (III) (203) Kẻ Tàn Hại Chúng Sanh
 1.- Này các Tỷ-kheo, Ta sẽ giảng cho các Thầy về người không Chân nhân và người không Chân nhân
 còn hơn cả người không Chân nhân; về bậc Chân nhân và bậc Chân nhân còn hơn cả bậc Chân nhân.
 Hãy nghe và khéo tác ý, Ta sẽ nói.
@@ -127,12 +127,12 @@ người khác từ bỏ nói lời phù phiếm.
 Này các Tỷ-kheo, đây gọi là gọi là bậc Chân nhân còn hơn cả bậc Chân nhân.
 
 <!--pg-->
-**(IV) (204) Mười Hạnh**
+### (IV) (204) Mười Hạnh
 
 (Giống như kinh 203, chỉ thêm vào ba pháp sau là có tham, có sân và tà kiến).
 
 <!--pg-->
-**(V) (205) Con Ðường Tám Ngành**
+### (V) (205) Con Ðường Tám Ngành
 
 1.(Như kinh 203, 1).
 2.- Và này các Tỷ-kheo, thế nào là người không Chân nhân?
@@ -166,13 +166,13 @@ chánh định, còn khích lệ người khác có chánh định.
 Này các Tỷ-kheo, đây gọi là gọi là bậc Chân nhân còn hơn cả bậc Chân nhân.
 
 <!--pg-->
-**(VI) (206) Con Ðường Mười Ngành**
+### (VI) (206) Con Ðường Mười Ngành
 
 ... (Như kinh 205, chỉ thêm hai pháp: tà trí, tà giải thoát cho người không Chân nhân, và chánh trí, chánh
 giải thoát cho bậc Chân nhân)
 
 <!--pg-->
-**(VII) (207) Kẻ Ác Ðộc (1)**
+### (VII) (207) Kẻ Ác Ðộc (1)
 
 1.- Này các Tỷ-kheo, Ta sẽ giảng cho các Thầy về người độc ác và người độc ác hơn cả người độc ác; về
 người hiền thiện và người hiền thiện hơn cả người hiền thiện. Hãy nghe và khéo tác ý, Ta sẽ nói.
@@ -207,13 +207,13 @@ mình có chánh kiến, còn khích lệ người khác có chánh kiến.
 Người này, này các Tỷ-kheo, được gọi là người hiền thiện còn hơn cả bậc hiền thiện.
 
 <!--pg-->
-**(VIII) (208) Kẻ Ác Ðộc (2)**
+### (VIII) (208) Kẻ Ác Ðộc (2)
 
 (Giống như kinh 206 với mười đức tánh, chỉ khác ở đây có kẻ ác độc và người hiền thiện, kinh trước nói
 đến người không Chân nhân và bậc Chân nhân).
 
 <!--pg-->
-**(IX) (209) Ác Tánh**
+### (IX) (209) Ác Tánh
 
 1.- Này các Tỷ-kheo, Ta sẽ giảng cho các Thầy về có người ác tánh và người có ác tánh hơn cả người có
 ác tánh; về người có tánh hiền thiện và người có tánh hiền thiện hơn cả người có tánh hiền thiện. Hãy
@@ -249,7 +249,7 @@ mình có chánh tri kiến, còn khích lệ người khác có chánh tri ki�
 Người này, này các Tỷ-kheo, được gọi là người có tánh hiền thiện còn hơn cả người có tánh hiền thiện.
 
 <!--pg-->
-**(X) (210) Tánh Ác Ðộc**
+### (X) (210) Tánh Ác Ðộc
 
 _(Như kinh 208)_
 

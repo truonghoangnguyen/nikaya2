@@ -1,6 +1,6 @@
 # XV. Phẩm Ánh Sáng
 
-**(I) (141) Hào Quang.**
+### (I) (141) Hào Quang.
 
 − Này các Tỷ-kheo, có bốn loại hào quang. Thế nào là bốn?
 
@@ -10,7 +10,7 @@ Này các Tỷ-kheo, có bốn loại hào quang này. Và này các Tỷ-kheo, 
 quang là hào quang trí tuệ.
 
 <!--pg-->
-**(II) (142) Ánh Sáng**
+### (II) (142) Ánh Sáng
 
 − Này các Tỷ-kheo, có bốn loại ánh sáng. Thế nào là bốn?
 
@@ -19,7 +19,7 @@ Này các Tỷ-kheo, có bốn loại ánh sáng này. Và này các Tỷ-kheo, 
 là ánh sáng trí tuệ.
 
 <!--pg-->
-**(III) (143) Ánh Lửa**
+### (III) (143) Ánh Lửa
 
 − Này các Tỷ-kheo, có bốn loại ánh lửa. Thế nào là bốn?
 
@@ -29,7 +29,7 @@ Này các Tỷ-kheo, có bốn loại ánh lửa này. Và này các Tỷ-kheo, 
 ánh lửa trí tuệ.
 
 <!--pg-->
-**(IV) (144) Ánh Chiếu**
+### (IV) (144) Ánh Chiếu
 
 − Này các Tỷ-kheo, có bốn loại ánh chiếu. Thế nào là bốn?
 
@@ -39,7 +39,7 @@ Này các Tỷ-kheo, có bốn loại ánh chiếu này. Và này các Tỷ-kheo
 chiếu là ánh chiếu trí tuệ.
 
 <!--pg-->
-**(V) (145) Ánh Ðèn**
+### (V) (145) Ánh Ðèn
 
 − Này các Tỷ-kheo, có bốn loại ánh đèn. Thế nào là bốn?
 
@@ -49,7 +49,7 @@ Này các Tỷ-kheo, có bốn loại ánh đèn này. Và này các Tỷ-kheo, 
 là ánh đèn trí tuệ.
 
 <!--pg-->
-**(VI) (146) Thời Gian (1)**
+### (VI) (146) Thời Gian (1)
 
 − Có bốn loại thời gian này. Thế nào là bốn?
 
@@ -58,7 +58,7 @@ Nghe pháp đúng thời, đàm luận về pháp đúng thời, chỉ đúng th
 Này các Tỷ-kheo, có bốn loại thời gian này.
 
 <!--pg-->
-**(VII) (147) Thời Gian (2)**
+### (VII) (147) Thời Gian (2)
 
 
 1\. - Có bốn thời gian này, này các Tỷ-kheo, nếu khéo tu tập, nếu khéo vận chuyển, tuần tự đưa đến sự
@@ -78,7 +78,7 @@ dương được tràn đầy. Cũng vậy, này các Tỷ-kheo, bốn thời gi
 chuyển, tuần tự đưa đến sự đoạn diệt các lậu hoặc.
 
 <!--pg-->
-**(VIII) (148) Hạnh Ác Về Lời Nói**
+### (VIII) (148) Hạnh Ác Về Lời Nói
 
 − Này các Tỷ-kheo, có bốn hạnh ác về lời nói này. Thế nào là bốn?
 
@@ -87,7 +87,7 @@ Nói láo, nói hai lưỡi, nói lời thô ác, nói lời phù phiếm.
 Này các Tỷ-kheo, có bốn hạnh ác về lời nói này.
 
 <!--pg-->
-**(IX) (149) Hạnh Thiện Về Lời Nói.**
+### (IX) (149) Hạnh Thiện Về Lời Nói.
 
 − Này các Tỷ-kheo, có bốn hạnh thiện về lời nói này. Thế nào là bốn?
 
@@ -96,7 +96,7 @@ Nói thật, không nói hai lưỡi, nói lời nhu hòa, nói lời thông min
 Này các Tỷ-kheo, có bốn hạnh thiện về lời nói này.
 
 <!--pg-->
-**(X) (150) Lõi (Tinh túy)**
+### (X) (150) Lõi (Tinh túy)
 
 − Này các Tỷ-kheo, có bốn lõi này. Thế nào là bốn?
 

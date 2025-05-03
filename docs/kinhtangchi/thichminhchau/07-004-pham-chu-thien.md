@@ -32,7 +32,7 @@ _Chí thành kính nghinh đón,_
 _Không thể bị đọa lạc,_
 _Tỷ-kheo gần Niết-bàn._
 
-**(II) (32) Xấu Hổ**
+### (II) (32) Xấu Hổ
 
 <!--pg-->
 1\. - Ðêm này, này các Tỷ-kheo, một Thiên nhân, sau khi đêm đã gần mãn, với dung sắc thù thắng chói
@@ -51,12 +51,12 @@ _Tùy thuận và tôn kính,_
 _Không thể bị đọa lạc,_
 _Vị ấy gần Niết-bàn._
 
-**(III) (33) Dễ Nói (1)**
+### (III) (33) Dễ Nói (1)
 
 ... (Giống như kinh 32, chỉ khác là thay thế hai pháp cuối cùng tàm và quý bằng thiện ngôn (dễ nói) và
 thiện bằng hữu)...
 
-**(IV) (34) Dể Nói (2)**
+### (IV) (34) Dể Nói (2)
 
 <!--pg-->
 1\. - Ðêm nay, này các Tỷ-kheo, một Thiên nhân sau khi đêm ấy đã gần mãn, với dung sắc thù thắng chói
@@ -85,7 +85,7 @@ nghĩa một cách rộng rãi như vậy. Ở đây, này Sàriputta, Tỷ-kheo
 trên, với những thay đổi cần thiết)... một cách chơn thực, chơn chánh, đúng thời. Lời nói vắn tắt này của
 Ta, này Sàriputta, cần phải hiểu ý nghĩa một cách rộng rãi như vậy.
 
-**(V) (35) Bạn Hữu(1)**
+### (V) (35) Bạn Hữu(1)
 
 <!--pg-->
 1\. - Thành tựu bảy chi phần, này các Tỷ-kheo, một Tỷ-kheo cần phải thân cận như một người bạn. Thế
@@ -111,7 +111,7 @@ _Tìm được người như vậy,_
 _Với ai cần bạn hữu,_
 _Hãy gần bạn như vậy._
 
-**(VI) (36) Bạn Hữu (2)**
+### (VI) (36) Bạn Hữu (2)
 
 <!--pg-->
 1\. - Thành tựu bảy chi phần, này các Tỷ-kheo, là người bạn cần phải thân cận, cần phải giao thiệp, cần
@@ -139,7 +139,7 @@ _Với lòng từ ai mẫn._
 _Dầu có bị đuổi xua,_
 _Hãy thân cận bạn ấy._
 
-**(VII) (37) Vô Ngại Giải**
+### (VII) (37) Vô Ngại Giải
 
 <!--pg-->
 1\. - Thành tựu bảy pháp, này các Tỷ-kheo, Tỷ-kheo không bao lâu, với thắng trí tự mình chứng ngộ,
@@ -166,7 +166,7 @@ trú bốn vô ngại giải. Thế nào là bảy?
 khi nào tâm muội lược, như thật rõ biết: “Nội tâm ta muội lược”;... (như trên, số 2,... chứng đạt và an trú
 bốn vô ngại giải).
 
-**(VIII) (38) Ðiều Phục**
+### (VIII) (38) Ðiều Phục
 
 <!--pg-->
 1\. - Thành tựu bảy pháp, này các Tỷ-kheo, Tỷ-kheo điều phục tâm và không để mình bị tâm điều phục.
@@ -191,7 +191,7 @@ trong dẫn phát đến định.
 Thành tựu bảy pháp này, này các Tỷ-kheo, Sàriputta điều phục tâm và Sàriputta không để mình bị tâm
 điều phục.
 
-**(IX) (39) Sự Thù Diệu (1)**
+### (IX) (39) Sự Thù Diệu (1)
 
 <!--pg-->
 1\. Một thời, Thế Tôn trú ở Sàvatthì, tại Jetavana, trong khu vườn ông Anathapindika. Bấy giờ Tôn giả
@@ -246,7 +246,7 @@ Nếu trong ba mươi sáu năm hành trì Phạm hạnh viên mãn thanh tịnh
 đáng được tán thán!”. Nếu trong bốn mươi tám năm hành trì Phạm hạnh viên mãn thanh tịnh, thật là vừa
 đủ để nói: “Vị Tỷ-kheo đáng được tán thán!”
 
-**(X) (40) Sự Thù Diệu (2)**
+### (X) (40) Sự Thù Diệu (2)
 
 <!--pg-->
 1\. Như vầy tôi nghe:

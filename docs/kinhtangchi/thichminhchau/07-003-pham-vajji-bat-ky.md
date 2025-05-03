@@ -1,9 +1,9 @@
 # III. Phẩm Vajjì ( Bạt Kỳ)
 
-**(I) (19) Tại Sàrandada**
+### (I) (19) Tại Sàrandada
 
 <!--pg-->
-1\. **Một thời, Thế Tôn trú ở giữa dân chúng Vajjì, tại điện thờ Sàrandada. Bấy giờ có nhiều người**
+1\. ### Một thời, Thế Tôn trú ở giữa dân chúng Vajjì, tại điện thờ Sàrandada. Bấy giờ có nhiều người
 Licchavì đi đến Thế Tôn, sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Thế Tôn nói với các
 người Licchavì đang ngồi một bên:
 
@@ -34,7 +34,7 @@ hộ đúng pháp các vị A-la-hán ở tại Vajjì, khi các vị A-la-hán 
 Và này các Licchavì, cho đến khi nào bảy pháp không làm suy giảm này được tồn tại giữa dân Vajjì, khi
 nào dân chúng Vajjì sẽ được thấy giữa bảy pháp không làm suy giảm này, thời này các Licchavì, dân
 Vajjì sẽ được lớn mạnh, không bị suy giảm.
-**(II) (20) Vassakàra**
+### (II) (20) Vassakàra
 
 <!--pg-->
 1\. Như vầy tôi nghe:
@@ -154,7 +154,7 @@ việc và có nhiều bổn phận.
 Rồi Bà-la-môn Vassakàra, vị đại thần nước Magadha hoan hỷ tán thán lời dạy của Thế Tôn, từ chỗ ngồi
 đứng dậy và ra đi.
 
-**(III) (21) Vị Tỷ Kheo**
+### (III) (21) Vị Tỷ Kheo
 
 <!--pg-->
 1\. Như vầy tôi nghe:
@@ -196,7 +196,7 @@ Này các Tỷ-kheo, khi nào bảy pháp không làm suy giảm này được d
 các Tỷ-kheo được dạy bảy pháp không làm suy giảm này, thời này các Tỷ-kheo, chúng Tỷ-kheo sẽ được
 lớn mạnh, không bị suy giảm.
 
-**(IV) (22) Công Việc**
+### (IV) (22) Công Việc
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, có bảy pháp không làm suy giảm này... Ta sẽ giảng...
@@ -231,7 +231,7 @@ Này các Tỷ-kheo, khi nào bảy pháp không làm suy giảm này được d
 Tỷ-kheo được dạy bảy pháp không làm suy giảm này, thời này các Tỷ-kheo, chúng Tỷ-kheo sẽ được lớn
 mạnh, không bị suy giảm.
 
-**(V) (23) Tin Tưởng**
+### (V) (23) Tin Tưởng
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, có bảy pháp không bị suy giảm, hãy lắng nghe và khéo tác ý, Ta sẽ giảng.
@@ -249,7 +249,7 @@ Này các Tỷ-kheo, khi nào bảy pháp không làm suy giảm này được d
 Tỷ-kheo được dạy bảy pháp không làm suy giảm này, thời này các Tỷ-kheo, chúng Tỷ-kheo sẽ được lớn
 mạnh, không bị suy giảm.
 
-**(VI) (24) Giác Chi**
+### (VI) (24) Giác Chi
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, có bảy pháp không làm suy giảm này... Ta sẽ giảng... (như trên).
@@ -265,7 +265,7 @@ Này các Tỷ-kheo, khi nào bảy pháp không làm suy giảm này được d
 Tỷ-kheo được dạy bảy pháp không làm suy giảm này, thời này các Tỷ-kheo, chúng Tỷ-kheo sẽ được lớn
 mạnh, không bị suy giảm.
 
-**(VII) (25) Tưởng**
+### (VII) (25) Tưởng
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, có bảy pháp không làm suy giảm này... Ta sẽ giảng... (như trên).
@@ -281,7 +281,7 @@ Này các Tỷ-kheo, khi nào bảy pháp không làm suy giảm này được d
 Tỷ-kheo được dạy bảy pháp không làm suy giảm này, thời này các Tỷ-kheo, chúng Tỷ-kheo sẽ được lớn
 mạnh, không bị suy giảm.
 
-**(VIII) (26) Hữu Học**
+### (VIII) (26) Hữu Học
 
 <!--pg-->
 1\. - Bảy pháp này, này các Tỷ-kheo, đưa đến sự thối đọa cho vị Tỷ-kheo hữu học. Thế nào là bảy?
@@ -303,7 +303,7 @@ chúng; các căn được phòng hộ; ăn uống có tiết độ; khi chúng 
 có suy tư: “Giữa Tăng chúng, có các trưởng lão có nhiều kinh nghiệm, xuất gia đã lâu năm, gánh vác
 chức vụ. Họ sẽ được biết đến vì những chức vụ này” và có tự mình chuyên tâm.
 
-**(IX) (27) Thối Ðọa**
+### (IX) (27) Thối Ðọa
 
 <!--pg-->
 1\. - Bảy pháp này, này các Tỷ-kheo, đưa một nam cư sĩ đến thối đọa. Thế nào là bảy?
@@ -360,7 +360,7 @@ _Ðược khéo léo diễn giảng,_
 _Cư sĩ phục vụ chúng,_
 _Diệu pháp không suy giảm._
 
-**(X-XII) (28-30) Bất Hạnh Thối Ðọa**
+### (X-XII) (28-30) Bất Hạnh Thối Ðọa
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, có bảy bất hạnh này của người cư sĩ... Này các Tỷ-kheo, có bảy điều may mắn của
@@ -409,6 +409,6 @@ _Ðược khéo léo diễn giảng,_
 _Cư sĩ phục vụ chúng,_
 _Diệu pháp không suy giảm._
 
-**(I) (31) Không Phóng Dật**
+### (I) (31) Không Phóng Dật
 
 

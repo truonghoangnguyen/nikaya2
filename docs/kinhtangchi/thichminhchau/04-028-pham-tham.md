@@ -1,6 +1,6 @@
 # XXVIII. Phẩm Tham
 
-**(I) (271) Tham**
+### (I) (271) Tham
 
 <!--pg-->
 1\. - Ðể thắng tri tham, này các Tỷ-kheo, bốn pháp cần phải tu tập. Thế nào là bốn?

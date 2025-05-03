@@ -1,6 +1,6 @@
 # X. Phẩm Tham Ái
 
-**(I) (1) Thắng Tri Tham Ái (1)**
+### (I) (1) Thắng Tri Tham Ái (1)
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, muốn thắng tri tham ái, tám pháp cần phải tu tập. Thế nào là tám?
@@ -11,7 +11,7 @@ chánh định.
 
 Này các Tỷ-kheo, muốn thắng tri tham ái, tám pháp này cần phải tu tập.
 
-**(I) (1) Thắng Tri Tham Ái (2)**
+### (I) (1) Thắng Tri Tham Ái (2)
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, muốn thắng tri tham ái, tám pháp cần phải tu tập. Thế nào là tám?
@@ -53,7 +53,7 @@ xứ thứ tám.
 
 Này các Tỷ-kheo, muốn thăng tri tham ái, tám pháp này cần phải tu tập.
 
-**(III) (3) Thắng Tri Tham Ái (3)**
+### (III) (3) Thắng Tri Tham Ái (3)
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, muốn thắng tri tham ái, tám pháp này cần phải tu tập. Thế nào là tám?
@@ -68,13 +68,13 @@ khỏi hoàn toàn Phi tưởng phi phi tưởng xứ, chứng và trú Diệt t
 
 Này các Tỷ-kheo, muốn thắng tri tham ái, tám pháp này cần phải tu tập.
 
-**(IV) (4) Tham Ái**
+### (IV) (4) Tham Ái
 
 − Muốn liễu tri tham ái... muốn tận diệt tham ái... muốn đoạn tận tham ái... muốn trừ diệt tham ái... muốn
 hủy diệt tham ái... muốn ly tham tham ái... muốn đoạn diệt tham ái... muốn trừ khử tham ái... muốn từ bỏ
 tham ái, tám pháp này cần phải tu tập.
 
-**(V) (5) Các Pháp Khác**
+### (V) (5) Các Pháp Khác
 
 − Ðối với sân... đối với si... đối với phẫn nỗ... đối với hiềm hận... đối với giả dối... đối với não hại... đối
 với tật đố... đối với xan lẫn... đối với man trá... đối với phản bội... đối với ngoan cố.... đối với bồng bột
@@ -82,6 +82,6 @@ nông nổi... đối với mạn... đối với tăng thượng mạn... đố
 muốn liễu tri... muốn diệt tận... muốn đoạn tận... muốn trừ diệt... muốn hủy diệt... muốn ly tham... muốn
 đoạn diệt... muốn trừ khử... muốn xóa bỏ phóng dật, tám pháp này cần phải tu tập.
 
-**-ooOoo-**
-**CHƯƠNG IX: CHƯƠNG CHÍN PHÁP**
+### -ooOoo-
+### CHƯƠNG IX: CHƯƠNG CHÍN PHÁP
 

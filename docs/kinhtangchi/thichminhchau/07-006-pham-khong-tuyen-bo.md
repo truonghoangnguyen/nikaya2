@@ -1,6 +1,6 @@
 # VI. Phẩm Không Tuyên Bố
 
-**(I) (51) Không Tuyên Bố**
+### (I) (51) Không Tuyên Bố
 
 <!--pg-->
 1\. Bấy giờ một Tỷ-kheo đi đến Thế Tôn, sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Ngồi
@@ -46,7 +46,7 @@ có rung động, không có chấn động, không rơi vào hoảng sợ đố
 Này các Tỷ-kheo, đây là chơn, đây là duyên, đối với Thánh đệ có nghe nhiều, nghi ngờ nhiều khởi lên
 đối với những vấn đề không được tuyên bố.
 
-**(II) (52) Sanh Thú Của Loài Người**
+### (II) (52) Sanh Thú Của Loài Người
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, Ta sẽ giảng về bảy sanh thú của loài Người, và không chấp thủ Niết-bàn. Hãy
@@ -162,7 +162,7 @@ năm hạ phần kiết sử, vị ấy tự mình với thắng trí, ngay tron
 lậu tâm giải thoát, tuệ giải thoát. Này các Tỷ-kheo, đây gọi là Không chấp thủ Bát-niết-bàn. Và này các
 Tỷ-kheo, đây là bảy sanh thú của loài Người và Không chấp thủ Bát-niết-bàn.
 
-**(III) (53) Tissa**
+### (III) (53) Tissa
 
 <!--pg-->
 1\. Như vầy tôi nghe:
@@ -276,7 +276,7 @@ bằng hữu, do chế ngự các căn, vị ấy có thể ngay trong hiện t�
 từ bỏ gia đình, sống không gia đình”. Như vậy, này Moggallàna, các Thiên nhân ấy có trí ấy như sau:
 “Có dư y là có dư y”.
 
-**(IV) (54) Sìha**
+### (IV) (54) Sìha
 
 <!--pg-->
 1\. Như vầy tôi nghe:
@@ -375,7 +375,7 @@ chủ, sau khi thân hoại mạng chung, được sanh lên thiện thú, thiê
 − Như vậy là phải, này Sìha! Như vậy là phải, này Sìha! Sìha là người bố thí, là người thí chủ, sau khi
 thân hoại mạng chung, được sanh lên thiện thú, thiên giới, cõi đời này.
 
-**(V) (55) Không Có Che Ðậy**
+### (V) (55) Không Có Che Ðậy
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, có bốn điều Như Lai không phải che đậy, và đối với ba điều, Ngài không có phạm
@@ -416,7 +416,7 @@ không thấy có tướng này, Ta an trú, đạt được an ổn, đạt đ�
 Này các Tỷ-kheo, có bốn điều này, Như Lai không phải che đậy, và đối với ba điều này, Ngài không có
 phạm lỗi.
 
-**(VI) (56) Kimbila**
+### (VI) (56) Kimbila
 
 <!--pg-->
 1\. Như vầy tôi nghe:
@@ -441,7 +441,7 @@ kính, tùy thuận bậc Ðạo Sư, sống cung kính tùy thuận Pháp; số
 cung kính tùy thuận Thiền định; sống cung kính tùy thuận không phóng dật; sống cung kính tùy thuận
 nghinh đón. Này Kimbila, đây là nhân, đây là duyên, khi Như Lai nhập diệt, diệu pháp được tồn tại lâu
 dài.
-**(VII) (57) Bảy Pháp**
+### (VII) (57) Bảy Pháp
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, thành tựu bảy pháp, Tỷ-kheo không bao lâu diệt tận các lậu hoặc... chứng ngộ,
@@ -454,7 +454,7 @@ tinh tấn, có chánh niệm, có trí tuệ.
 Thành tựu bảy pháp này, này các Tỷ-kheo, Tỷ-kheo không bao lâu, do diệt tận các lậu hoặc chứng ngộ,
 chứng đạt và an trú.
 
-**(VIII) (58) Ngủ Gục**
+### (VIII) (58) Ngủ Gục
 
 <!--pg-->
 1\. Như vầy tôi nghe:
@@ -608,7 +608,7 @@ _Cầu vọng sự lớn mạnh,_
 _Hãy kính trọng diệu pháp,_
 _Hãy nhớ lời Phật dạy._
 
-**(IX) (59) Các Người Vợ**
+### (IX) (59) Các Người Vợ
 
 <!--pg-->
 1\. Một thời, Thế Tôn trú ở Sàvavatthì, tại Jetavana, khu vườn ông Anàthapindika. Rồi Thế Tôn đắp y,
@@ -724,7 +724,7 @@ Này Sujàtà, có bảy loại vợ này đối với người đàn ông. Con 
 − Bạch Thế Tôn, bắt đầu từ hôm nay, Thế Tôn hãy xem con là người vợ đối với chồng như người vợ nữ
 tỳ.
 
-**(X) (60) Sân Hận**
+### (X) (60) Sân Hận
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, có bảy pháp này được người thù địch ưa thích, tác thành kẻ thù địch đi đến người
@@ -863,6 +863,6 @@ _Ly tham, tật đố không,_
 _Nhiếp phục, đoạn phẫn nộ,_
 _Vô lậu, nhập Niết-bàn._
 
-**(I) (61) Xấu Hổ**
+### (I) (61) Xấu Hổ
 
 

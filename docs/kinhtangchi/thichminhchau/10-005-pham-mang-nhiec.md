@@ -1,6 +1,6 @@
 # V. Phẩm Mắng Nhiếc
 
-**(I) (41) Tranh Luận**
+### (I) (41) Tranh Luận
 
 <!--pg-->
 1\. Bấy giờ có Tôn giả Upàli đi đến Thế Tôn, sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Ngồi
@@ -13,7 +13,7 @@ tranh và Tỷ-kheo sống không an ổn?
 <!--pg-->
 3\. - Ở đây, này Upàli, các Tỷ-kheo thuyết phi pháp là pháp...(như kinh 35)...
 
-**(II-III) (42-43) Cội Gốc Của Tranh Luận**
+### (II-III) (42-43) Cội Gốc Của Tranh Luận
 
 <!--pg-->
 1\. - Bạch Thế Tôn, có bao nhiêu cội gốc của tranh luận?
@@ -23,7 +23,7 @@ tranh và Tỷ-kheo sống không an ổn?
 
 <!--pg-->
 3\. Ở đây, này Upàli, Tỷ-kheo thuyết phi pháp là pháp...(như kinh 35)...
-**(IV) (44) Tại Kusanàrà**
+### (IV) (44) Tại Kusanàrà
 
 <!--pg-->
 1\. Một thời, Thế Tôn trú ở Kusanàrà, trong khóm rừng Baliharana. Tại đấy, Thế Tôn gọi các Tỷ-kheo:
@@ -95,7 +95,7 @@ Năm pháp này cần phải an trú nội tâm.
 Này các Tỷ-kheo, Tỷ-kheo muốn buộc tội người khác, sau khi quán sát nội tâm về năm pháp này, sau
 khi an trú nội tâm về năm pháp này, hãy buộc tội người khác.
 
-**(V) (45) Ði Vào Hậu Cung**
+### (V) (45) Ði Vào Hậu Cung
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, vào hậu cung của vua có mười nguy hại này. Thế nào là mười?
@@ -152,7 +152,7 @@ Tỷ-kheo, đây là sự nguy hại thứ mười, khi vào hậu cung của vu
 
 Này các Tỷ-kheo, đây là mười sự nguy hại khi vào hậu cung của vua.
 
-**(VI) (46) Các Vị Sakya (Thích tử)**
+### (VI) (46) Các Vị Sakya (Thích tử)
 
 <!--pg-->
 1\. Một thời, Thế Tôn trú ở giữa các Thích tử tại Kapilavatthu, trong khu vườn Nigrodha. Bấy giờ có rất
@@ -227,7 +227,7 @@ rằng trong đời sống liên hệ đến sợ hãi về đau khổ, trong đ
 
 − Bạch Thế Tôn, vậy bắt đầu từ hôm nay chúng con sẽ hành trì ngày trai giới đầy đủ tám chi phần.
 
-**(VII) (47) Mahàli**
+### (VII) (47) Mahàli
 
 <!--pg-->
 1\. Một thời, Thế Tôn trú ở Vesàli, tại Ðại Lâm, tại ngôi nhà có nóc nhọn. Rồi Mahàli người Licchavi, đi
@@ -255,7 +255,7 @@ Và này Mahàli, nếu 10 pháp này không thực hiện hữu ở đời, th�
 hành, bất bình đẳng hành hay pháp hành, bình đẳng hành. Vì rằng, này Mahàli, mười pháp này hiện hữu
 ở đời, thời ở đây có lời tuyên bố về phi pháp hành bất bình đẳng hành, hay pháp hành, bình đẳng hành.
 
-**(VIII) (48) Các Pháp**
+### (VIII) (48) Các Pháp
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, có mười pháp này, vị xuất gia phải luôn luôn quán sát. Thế nào là mười?
@@ -277,7 +277,7 @@ hổ?”
 
 Này các Tỷ-kheo, mười pháp này, vị xuất gia cần phải luôn luôn quán sát.
 
-**(IX) (49) Trú Thân**
+### (IX) (49) Trú Thân
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, mười pháp này liên hệ đến thân. Thế nào là mười?
@@ -288,7 +288,7 @@ hành.
 
 Này các Tỷ-kheo, có mười pháp này liên hệ đến thân.
 
-**(X) (50) Ðấu Tranh**
+### (X) (50) Ðấu Tranh
 
 <!--pg-->
 1\. Một thời, Thế Tôn trú ở Sàvatthi, tại Jetavana, trong khu vườn của ông Anàthapindika. Lúc bấy giờ,

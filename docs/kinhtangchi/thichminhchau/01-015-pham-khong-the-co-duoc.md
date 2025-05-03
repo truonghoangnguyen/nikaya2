@@ -1,6 +1,6 @@
 # XV. Phẩm Không Thể Có Ðược
 
-**1-28. Chấp Nhận Các Hành Là Thường Còn**
+### 1-28. Chấp Nhận Các Hành Là Thường Còn
 
 1\. Sự kiện này không xảy ra, này các Tỷ-kheo, không có được: Một người thành tựu chánh kiến có thể
 chấp nhận các hành là thường còn, sự kiện này không xảy ra. Và sự kiện này có xảy ra, này các Tỷkheo, kẻ phàm phu có thể chấp nhận các hành là thường còn, sự kiện này có xảy ra.
@@ -57,7 +57,7 @@ của ý nghĩ ác, có thể là khả lạc, khả hỷ, khả ý, sự kiện
 Tỷ-kheo, là quả dị thục của miệng nói ác... của ý nghĩ ác, là không khả lạc, không khả hỷ, không khả ý,
 sự kiện này có xảy ra.
 
-**1-9 Không Thể Xẩy Ra**
+### 1-9 Không Thể Xẩy Ra
 
 <!--pg-->
 1\. - Sự kiện này không xảy ra, này các Tỷ-kheo, không có được: là quả dị thục của thân làm thiện có thể

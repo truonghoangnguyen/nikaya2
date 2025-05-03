@@ -2,7 +2,7 @@
 
 ## Những pháp đoạn trừ và nuôi dưỡng năm triền cái.
 
-**1-10 Tịnh Tướng v.v...**
+### 1-10 Tịnh Tướng v.v...
 
 1\.- Ta không thấy một phép nào khác, này các Tỷ-kheo, dẫn đến dục tham chưa sanh được sanh khởi,
 hay dục tham đã sanh được tăng trưởng quảng đại, này các Tỷ-kheo, như tịnh tướng. Tịnh tướng, này

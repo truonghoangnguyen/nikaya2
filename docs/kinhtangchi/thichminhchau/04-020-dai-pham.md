@@ -1,6 +1,6 @@
 # XX. Ðại Phẩm
 
-**(I) (191) Nghe Với Tai**
+### (I) (191) Nghe Với Tai
 
 1.- Này các Tỷ-kheo, các pháp do được nghe bằng tai, do tụng đọc bằng lời, do ý quan sát, do kiến khéo
 thể nhập, có bốn lợi ích được chờ đợi. Thế nào là bốn?
@@ -75,7 +75,7 @@ Này các Tỷ-kheo, do được nghe các pháp bằng tai, do tụng đọc b�
 nhập; có bốn lợi ích này được chờ đợi.
 
 <!--pg-->
-**(II) (192) Trường Hợp**
+### (II) (192) Trường Hợp
 
 1.- Này các Tỷ-kheo, có bốn trường hợp này, cần phải được hiểu với bốn trường hợp. Thế nào là bốn?
 
@@ -176,7 +176,7 @@ nói đến. Do duyên này được nói đến như vậy.
 Có bốn trường hợp này, này các Tỷ-kheo, cần phải được hiểu với bốn trường hợp này.
 
 <!--pg-->
-**(III) (193) Bhaddiya**
+### (III) (193) Bhaddiya
 
 1\. Một thời, Thế Tôn trú ở Vesàli tại Mahàvana trong ngôi nhà có nóc nhọn. Rồi Licchavii Bhaddiya đi
 đến Thế Tôn; sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Ngồi xuống một bên, Licchavii
@@ -343,7 +343,7 @@ thiện, để đầy đủ các pháp thiện, như vậy tất cả cây sala 
 gian dài nếu chúng có thể suy nghĩ được, còn nói gì với con người!
 
 <!--pg-->
-**(IV) (194) Các Vị Sàpùga**
+### (IV) (194) Các Vị Sàpùga
 
 1\. Một thời, Tôn giả Ananda trú ở giữa các dân chúng Koliya tại một thị trấn các Koliya tên là Sàpùgà.
 Rồi rất nhiều Koliya tử ở Sàpùgà đi đến Tôn giả Ananda; sau khi đến, đảnh lễ Tôn giả Ananda rồi ngồi
@@ -397,7 +397,7 @@ A-la-hán, Chánh Ðẳng Giác chơn chánh nói lên để chúng sanh đượ
 chấm dứt khổ ưu, để chứng đắc chánh lý, để chứng ngộ Niết-bàn!
 
 <!--pg-->
-**(V) (195) Vappa**
+### (V) (195) Vappa
 
 1\. Một thời, Thế Tôn ở giữa dân chúng Sakka, tại Kapilavatthu khu vườn Nigrodha. Rồi thích tử Vappa,
 đệ tử của Nigantha đi đến Tôn giả Mahàmoggalàna; sau khi đến, đảnh lễ Tôn giả Mahàmoggalàna rồi
@@ -518,7 +518,7 @@ lạnh cho nước cuốn đi.
 con trọn đời quy ngưỡng!
 
 <!--pg-->
-**(VI) (196) Sàlha**
+### (VI) (196) Sàlha
 
 1\. Một thời, Thế Tôn trú ở Vesàli (Tỳ-xá-ly) tại Ðại Lâm, trong ngôi nhà có nóc nhọn. Rồi Licchavì
 Sàlha và Licchavì Abhaya đi đến Thế Tôn; sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Ngồi
@@ -598,7 +598,7 @@ tử có chánh giải thoát. Vị Thánh đệ tử này Sàlhà, có chánh g
 lớn.
 
 <!--pg-->
-**(VII) (197) Mallika**
+### (VII) (197) Mallika
 
 1\. Một thời, Thế Tôn trú ở Sàvatthi (Xá-vệ), tại Jetavana (Thắng Lâm), khu vườn ông Anàthapinkida.
 Rồi hoàng hậu Mallikà đi đến Thế Tôn; sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Ngồi
@@ -680,7 +680,7 @@ Thật vi diệu thay, bạch Thế Tôn ... mong Thế Tôn nhận con làm đ�
 chung, con trọn đời quy ngưỡng!
 
 <!--pg-->
-**(VIII) (198) Tự Hành Hạ Mình**
+### (VIII) (198) Tự Hành Hạ Mình
 
 1.- Này các Tỷ-kheo, có bốn hạng người này có mặt, xuất hiện ở đời. Thế nào là bốn?
 
@@ -839,7 +839,7 @@ tự ngã trú vào Phạm thể.
 Này các Tỷ-kheo, có bốn hạng người này có mặt, hiện hữu ở đời.
 
 <!--pg-->
-**(IX) (199) Ái**
+### (IX) (199) Ái
 
 1.- Này các Tỷ-kheo, Ta sẽ giảng cho các Thầy về ái, lưới triền khiến cho lưu chuyển được rộng ra, bám
 dính vào; chính do ái ấy, thế giới này bị hoại vong, trói buộc, rối loạn như một cuộn chỉ, rối ren như một
@@ -887,7 +887,7 @@ chính do ái ấy, thế giới này bị hoại vong, trói buộc, rối lo�
 quyện lại như cỏ mujia và lau sậy babbaja, không thể nào ra khỏi khổ xứ, ác thú, đọa xứ, sanh tử.
 
 <!--pg-->
-**(X) (200) Luyến Ái**
+### (X) (200) Luyến Ái
 
 1.- Này các Tỷ-kheo, có bốn sự được sanh khởi này. Thế nào là bốn?
 

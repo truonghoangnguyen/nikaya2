@@ -1,6 +1,6 @@
 # X. Phẩm Asura (A-tu-la)
 
-**(I) (91) Các A Tu La**
+### (I) (91) Các A Tu La
 1\. - Này các Tỷ-kheo, có bốn hạng người này có mặt, hiện hữu ở đời. Thế nào là bốn?
 
 A-tu-la với quyến thuộc A-tu-la, A-tu-la với quyến thuộc chư Thiên; chư Thiên với quyến thuộc A-tu-la;
@@ -29,7 +29,7 @@ theo pháp lành. Như vậy, này các Tỷ-kheo, là hạng người chư Thi�
 Bốn hạng người này, này các Tỷ-kheo, có mặt, hiện hữu ở đời.
 
 <!--pg-->
-**(II) (92) Ðịnh (1)**
+### (II) (92) Ðịnh (1)
 
 − Có bốn hạng người này, này các Tỷ-kheo, có mặt, hiện hữu ở đời. Thế nào là bốn?
 
@@ -42,7 +42,7 @@ pháp quán.
 Này các Tỷ-kheo, bốn hạng người này có mặt, hiện hữu ở đời.
 
 <!--pg-->
-**(III) (93) Ðịnh (2)**
+### (III) (93) Ðịnh (2)
 
 1\. - Có bốn hạng người này, này các Tỷ-kheo, có mặt, hiện hữu ở đời. Thế nào là bốn?
 
@@ -76,7 +76,7 @@ người ấy, này các Tỷ-kheo, sau khi an trú trong các thiện pháp ấ
 Này các Tỷ-kheo, bốn hạng người này có mặt, hiện hữu ở đời.
 
 <!--pg-->
-**(IV) (94) Thiền Ðịnh**
+### (IV) (94) Thiền Ðịnh
 
 1\. - Này các Tỷ-kheo, có bốn hạng người này có mặt, hiện hữu ở đời. Thế nào là bốn?
 
@@ -118,7 +118,7 @@ diệt các lậu hoặc.
 Này các Tỷ-kheo, bốn hạng người này có mặt hiện hữu ở đời.
 
 <!--pg-->
-**(V) (95) Que Lửa**
+### (V) (95) Que Lửa
 
 1\. - Này các Tỷ-kheo, có bốn hạng người có mặt, hiện hữu ở đời. Thế nào là bốn?
 
@@ -143,7 +143,7 @@ cực thắng.
 Bốn hạng người này, này các Tỷ-kheo, có mặt, hiện hữu ở đời.
 
 <!--pg-->
-**(VI) (96) Lợi Mình (1)**
+### (VI) (96) Lợi Mình (1)
 
 1\. - Này các Tỷ-kheo, có bốn hạng người này có mặt, hiện hữu ở đời. Thế nào là bốn?
 
@@ -181,7 +181,7 @@ và cho người.
 Này các Tỷ-kheo, bốn hạng người này có mặt, hiện hữu ở đời.
 
 <!--pg-->
-**(VII) (97) Lợi Ích Cho Mình (2)**
+### (VII) (97) Lợi Ích Cho Mình (2)
 
 1\. (Như kinh (96), đoạn đầu)
 
@@ -219,7 +219,7 @@ Phạm hạnh. Như vậy, này các Tỷ-kheo, là hạng người hướng đ�
 Này các Tỷ-kheo, có bốn hạng người có mặt, hiện hữu ở đời.
 
 <!--pg-->
-**(VIII) (98) Lợi Mình(3)**
+### (VIII) (98) Lợi Mình(3)
 
 − Này các Tỷ-kheo, có bốn hạng người có mặt, hiện hữu ở đời. Thế nào là bốn?
 
@@ -229,7 +229,7 @@ lợi người; hướng đến lợi mình, lợi người.
 Này các Tỷ-kheo, có bốn hạng người này có mặt, hiện hữu ở đời.
 
 <!--pg-->
-**(IX) (99) Những Học Pháp**
+### (IX) (99) Những Học Pháp
 
 1\. - Này các Tỷ-kheo, có bốn hạng người có mặt, hiện hữu ở đời. Thế nào là bốn?
 
@@ -271,7 +271,7 @@ lợi mình và lợi người.
 Này các Tỷ-kheo, có bốn hạng người này có mặt, hiện hữu ở đời.
 
 <!--pg-->
-**(X) (100) Potaliya**
+### (X) (100) Potaliya
 
 1\. Rồi du sĩ Potaliya đi đến Thế Tôn, sau khi đến, nói lên với Thế Tôn những lời chào đón hỏi thăm, sau
 khi nói lên những lời chào đón hỏi thăm thân hưu, rồi ngồi xuống một bên. Thế Tôn nói với du sĩ

@@ -1,6 +1,6 @@
 # I. Phẩm Y Chỉ
 
-**(I) (1) Có Lợi Ích Gì**
+### (I) (1) Có Lợi Ích Gì
 
 <!--pg-->
 1\. Rồi Tôn giả Ananda đi đến Thế Tôn, sau khi đến đảnh lễ Thế Tôn rồi ngồi xuống một bên. Ngồi
@@ -54,27 +54,27 @@ có ý nghĩa khinh an, có lợi ích khinh an. Khinh an có ý nghĩa an lạc
 ý nghĩa giải thoát tri kiến, có lợi ích giải thoát tri kiến. Như vậy, này Ananda, các thiện giới thứ lớp dẫn
 đến tối thượng.
 
-**(II) (2) Nghĩ Với Dụng Ý**
+### (II) (2) Nghĩ Với Dụng Ý
 
 _(Giống như kinh số 2, Chương Mười Pháp, chỉ khác “nibbidà viràgatthà”, nhàm chán ly tham, chia 2_
 _nên thành 11 pháp)._
 
-**(III) (3) Sở Y, Do Bậc Ðạo Sư Thuyết**
+### (III) (3) Sở Y, Do Bậc Ðạo Sư Thuyết
 
 _(Tương tự kinh số 3, Chương Mười Pháp, chỉ khác “nibbidà viràgatthà”, nhàm chán ly tham, chia 2 nên_
 _thành 11 pháp)._
 
-**(IV) (4) Sở Y, Do Tôn Giả Sariputta Thuyết**
+### (IV) (4) Sở Y, Do Tôn Giả Sariputta Thuyết
 
 _(Tương tự kinh số 4, Chương Mười Pháp, chỉ khác “nibbidà viràgatthà”, nhàm chán ly tham, chia 2 nên_
 _thành 11 pháp)._
 
-**(V) (5) Sở Y, Do Tôn Giả Ananda Thuyết**
+### (V) (5) Sở Y, Do Tôn Giả Ananda Thuyết
 
 _(Tương tự kinh số 5, Chương Mười Pháp, chỉ khác “nibbidà viràgatthà”, nhàm chán ly tham, chia 2 nên_
 _thành 11 pháp)._
 
-**(VI) (6) Tai Họa**
+### (VI) (6) Tai Họa
 
 <!--pg-->
 1\. Này các Tỷ-kheo, nếu có Tỷ-kheo nào mắng nhiếc, chỉ trích quở trách các bậc Thánh là những vị
@@ -91,7 +91,7 @@ Này các Tỷ-kheo, nếu có Tỷ-kheo nào mắng nhiếc, chỉ trích, qu�
 Phạm hạnh, thời không có sự kiện, không có cơ hội rằng người ấy không gặp một trong mười một tai
 họa này.
 
-**(VII) (7) Tưởng Hay Tác Ý (1)**
+### (VII) (7) Tưởng Hay Tác Ý (1)
 
 <!--pg-->
 1\. Rồi Tôn giả Ananda đi đến Thế Tôn, sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Ngồi
@@ -128,7 +128,7 @@ Ananda, vị Tỷ-kheo khi chứng được Thiền định như vậy, vị ấ
 trong nước không tưởng đến nước... trong thế giới đời sau, không tưởng đến thế giới đời sau... vị ấy
 không có tưởng đến. Tuy vậy, vị ấy vẫn có tưởng.
 
-**(VIII) (8) Tưởng Hay Tác Ý (2)**
+### (VIII) (8) Tưởng Hay Tác Ý (2)
 
 Rồi Tôn giả Ananda đi đến Thế Tôn, sau khi hoan hỷ tín thọ lời Thế Tôn dạy, từ chỗ ngồi đứng dậy,
 đảnh lễ Thế Tôn, thân bên hữu hướng về Thế Tôn, rồi đi đến Tôn giả Sàriputta, sau khi đến, nói lên với
@@ -167,7 +167,7 @@ những lời thế này, đã trả lời về ý nghĩa này, giống như Tô
 Thật hy hữu thay, Hiền giả! Sự giải thích của Ðạo Sư và đệ tử sẽ tương hợp, sẽ tương hội, không tương
 phản nhau tức là về câu tối thượng.
 
-**(IX) (9) Tác Ý**
+### (IX) (9) Tác Ý
 
 <!--pg-->
 1\. Rồi Tôn giả Ananda đi đến Thế Tôn, sau khi đến đảnh lễ Thế Tôn rồi ngồi xuống một bên. Ngồi
@@ -199,7 +199,7 @@ hành, sự từ bỏ tất cả sanh y, sự đoạn diệt khát ái, ly tham,
 Tỷ-kheo khi chứng được Thiền định như vậy, vị ấy có thể không tác ý đến mắt, có thể không tác ý đến
 sắc... được ý suy nghĩ đến, vị ấy có thể không có tác ý. Tuy vậy, vị ấy vẫn có tác ý.
 
-**(X) (10) Sandha**
+### (X) (10) Sandha
 
 <!--pg-->
 1\. Một thời Thế Tôn trú ở Nàtika, tại ngôi nhà có lợp ngói. Rồi Tôn giả Sandha đi đến Thế Tôn, sau khi
@@ -300,7 +300,7 @@ _Con người bậc Thượng thủ,_
 _Y chỉ gì Ngài Thiền,_
 _Chúng tôi không được biết._
 
-**(XI) (11) Rừng Khổng Tước**
+### (XI) (11) Rừng Khổng Tước
 
 <!--pg-->
 1\. Một thời, Thế Tôn trú ở Ràjagaha (Vương Xá) tại chỗ nuôi dưỡng khổng tước ở khu vườn các du sĩ.

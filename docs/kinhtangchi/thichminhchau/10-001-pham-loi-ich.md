@@ -1,6 +1,6 @@
 # I. Phẩm Lợi Ích
 
-**(I) (1) Ý Nghĩa Gì**
+### (I) (1) Ý Nghĩa Gì
 
 <!--pg-->
 1\. Như vầy tôi nghe:
@@ -53,7 +53,7 @@ chán, ly tham. Nhàm chán ly tham có ý nghĩa giải thoát tri kiến, có 
 này Ananda, các thiện giới thứ lớp dẫn tới tối thượng. Như vậy, này Ananda, các thiện giới thứ lớp đưa
 đến tối thượng.
 
-**(II) (2) Nghĩ Với Dụng Ý**
+### (II) (2) Nghĩ Với Dụng Ý
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, với người có giới, có giới đầy đủ, không cần phải làm với dụng ý rằng: “Mong
@@ -85,7 +85,7 @@ không nuối tiếc có ý nghĩa hân hoan, có lợi ích hân hoan, các Thi
 lợi ích không hối tiếc. Như vậy, này các Tỷ-kheo, các pháp khiến cho các pháp (khác) tăng thịnh; các
 pháp khiến các pháp khác viên mãn, đưa từ bờ bên này qua bờ bên kia.
 
-**(III) (3) Sở Y**
+### (III) (3) Sở Y
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, với ác giới, với phá giới, không hối tiếc, sơ y bị diệt. Với không có không hối tiếc,
@@ -110,15 +110,15 @@ ly tham có đầy đủ, giải thoát tri kiến có sở y. Ví như này cá
 mầm non của cây ấy đi đến viên mãn, vỏ trong, giác cây, lõi cây đi đến viên mãn. Cũng vậy, này các Tỷkheo, với giới có mặt, với giới có đầy đủ, không hối tiếc có sở y. Với không hối tiếc có mặt, với không
 hối tiếc có đầy đủ... giải thoát tri kiến có sở y.
 
-**(IV) (4) Có Sở Y ( Do Sariputta Thuyết)**
+### (IV) (4) Có Sở Y ( Do Sariputta Thuyết)
 
 (Như kinh 3, chỉ khác ở đây là Tôn giả Sàriputta thuyết).
 
-**(V) (5) Có Sở Y (Do Tôn Giả Ananda Thuyết)**
+### (V) (5) Có Sở Y (Do Tôn Giả Ananda Thuyết)
 
 _(Như kinh 3, chỉ khác ở đây là Tôn giả Ananda thuyết)._
 
-**(VI) (6) Ðịnh Do Bậc Ðạo Sư Thuyết**
+### (VI) (6) Ðịnh Do Bậc Ðạo Sư Thuyết
 
 <!--pg-->
 1\. Bấy giờ Tôn giả Ananda đi đến Thế Tôn, sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Ngồi
@@ -150,7 +150,7 @@ Tỷ-kheo khi chứng được Thiền định như vậy, vị ấy có thể t
 không tưởng đến nước... trong thế giới đời sau, không tưởng đến thế giới đời sau. Tuy vậy, vị ấy vẫn có
 tưởng.
 
-**(VII) (7) Ðịnh Do Tôn Giả Sariputta Thuyết**
+### (VII) (7) Ðịnh Do Tôn Giả Sariputta Thuyết
 
 <!--pg-->
 1\. Bấy giờ Tôn giả Ananda đi đến Tôn giả Sàriputta, sau khi đến, nói lên với Tôn giả Sàriputta những lời
@@ -180,7 +180,7 @@ ngọn lửa khác diệt đi. Cũng vậy, này Hiền giả, một tưởng kh
 diệt là Niết-bàn.” Một tưởng khác diệt đi trong tôi: “Hữu diệt là Niết-bàn”. Tuy vậy, trong lúc ấy tôi vẫn
 có tưởng.
 
-**(VIII) (8) Người Có Lòng Tin**
+### (VIII) (8) Người Có Lòng Tin
 
 <!--pg-->
 1\. - Vị Tỷ-kheo có lòng tin, này các Tỷ-kheo, nhưng không có giới. Như vậy, vị ấy về chi phần này
@@ -212,7 +212,7 @@ với thắng trí chứng đạt và an trú vô lậu tâm giải thoát, tu�
 Thành tựu mười pháp này, này các Tỷ-kheo, Tỷ-kheo tịnh tín một cách phổ biến, và viên mãn trong mọi
 phương diện.
 
-**(IX) (9) Tịch Tịnh Giải Thoát**
+### (IX) (9) Tịch Tịnh Giải Thoát
 
 (Như kinh 8 ở trên, cho đến... là người ở rừng ở các trú xứ vắng...)
 
@@ -234,7 +234,7 @@ thoát; như vậy về chi phần này, vị ấy được viên mãn.
 Thành tựu mười pháp này, này các Tỷ-kheo, Tỷ-kheo tịnh tín một cách phổ biến, và viên mãn trong mọi
 phương diện.
 
-**(X) (10) Với Các Minh**
+### (X) (10) Với Các Minh
 
 _(Như kinh trước cho đến: Vị ấy trì luật...) là người trì luật, nhưng không nhớ đến rất nhiều đời sống_
 trước, một đời, hai đời... vị ấy nhớ nhiều đời sống trước với các chi tiết và các đặc điểm, nhớ đến rất

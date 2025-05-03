@@ -1,6 +1,6 @@
 # XIV. Phẩm Người Tối Thắng
 
-**1-10 Các Vị Tỷ Kheo**
+### 1-10 Các Vị Tỷ Kheo
 
 1\. - Trong các đệ tử Tỷ-kheo đã lâu ngày của Ta, này các Tỷ-kheo, tối thắng là Anna Kondanno (A-nhã
 Kiều-trần-như).
@@ -33,7 +33,7 @@ Kiều-trần-như).
 10\. Trong các đệ tử Tỷ-kheo của Ta, thuyết giảng rộng rãi những điều được nói lên một cách vắn tắt, tối
 thắng là Mahàkaccàna.
 
-**1-11 Các Vị Tỷ Kheo**
+### 1-11 Các Vị Tỷ Kheo
 
 <!--pg-->
 1\. - Trong các vị Tỷ-kheo của Ta có thể dùng ý hóa thân, này các Tỷ-kheo, tối thắng là Cullapanthaka.
@@ -68,7 +68,7 @@ thắng là Mahàkaccàna.
 <!--pg-->
 11\. Trong các đệ tử Tỷ-kheo có tín thắng giải, tối thắng là Vakkali.
 
-**1-10 Các Vị Tỷ Kheo**
+### 1-10 Các Vị Tỷ Kheo
 
 <!--pg-->
 1\. - Trong các đệ tử Tỷ-kheo của Ta, ưa thích học tập, tối thắng là Ràhula.
@@ -99,7 +99,7 @@ thắng là Mahàkaccàna.
 <!--pg-->
 10\. Trong các đệ tử Tỷ-kheo của Ta đạt được vô ngại giải, này các Tỷ-kheo, tối thắng là Màhàkotthita.
 
-**1-16 Các Vị Tỷ Kheo**
+### 1-16 Các Vị Tỷ Kheo
 
 <!--pg-->
 1\. Trong các vị đệ tử Tỷ-kheo của Ta, được nghe nhiều, này các Tỷ-kheo, tối thắng là Ananda.
@@ -147,7 +147,7 @@ thắng là Mahàkaccàna.
 <!--pg-->
 16\. Trong các vị đệ tử Tỷ-kheo của Ta mang thô y, này các Tỷ-kheo, tối thắng là Mogharàjà.
 
-**1-13 Nữ Ðệ Tử Tỷ Kheo Ni**
+### 1-13 Nữ Ðệ Tử Tỷ Kheo Ni
 
 <!--pg-->
 1\. Trong các vị nữ đệ tử Tỷ-kheo-ni đã lâu ngày của Ta, tối thắng là Màhàpàjapani Gotamì.
@@ -188,7 +188,7 @@ thắng là Mahàkaccàna.
 13\. Trong các vị nữ đệ tử Tỷ-kheo-ni của Ta. đầy đủ tin thắng giải, này các Tỷ-kheo, tối thắng là
 Sigalàmàtà.
 
-**1-10 Nam Cư Sĩ**
+### 1-10 Nam Cư Sĩ
 
 <!--pg-->
 1\. - Trong các vị đệ tử nam cư sĩ của Ta, này các Tỷ-kheo, đã quy y đầu tiên, tối thắng là các người buôn
@@ -222,7 +222,7 @@ Alavaka.
 10\. Trong các vị đệ tử nam cư sĩ của Ta, nói chuyện một cách thân mật, này các Tỷ-kheo, tối thắng là
 gia chủ Nakulapità.
 
-**1-10 Nữ Cư Sĩ**
+### 1-10 Nữ Cư Sĩ
 
 <!--pg-->
 1\. -Trong các vị đệ tử nữ cư sĩ của Ta, này các Tỷ-kheo, người đi đến quy y đầu tiên là Sujàtà

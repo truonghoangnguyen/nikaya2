@@ -1,6 +1,6 @@
 # VIII. Phẩm Ước Nguyện
 
-**(I) (71) Ước Nguyện**
+### (I) (71) Ước Nguyện
 
 <!--pg-->
 1\. Một thời, Thế Tôn trú ở Sàvatthi, tại Jetavana, khu vườn Anàthapindika. Ở đây, Thế Tôn gọi các Tỷkheo:
@@ -49,7 +49,7 @@ Này các Tỷ-kheo, hãy sống đầy đủ giới hạnh, đầy đủ giới
 bổn, đầy đủ uy nghi chánh hạnh, thấy sự nguy hiểm trong các lỗi nhỏ nhặt, chấp nhận và tu học trong
 các học pháp. Như vậy được nói đến, chính do duyên này được nói đến như vậy.
 
-**(II) (72) Cây Gai**
+### (II) (72) Cây Gai
 
 <!--pg-->
 1\. Một thời, Thế Tôn trú ở Vesàli, tại Ðại Lâm, ở ngôi nhà có nó nhọn, với rất nhiều các Thượng tọa có
@@ -95,7 +95,7 @@ Tỷ-kheo, hãy sống không phải là cây gai và rời khỏi cây gai. Nà
 A-la-hán. Này các Tỷ-kheo, rời khỏi cây gai là bậc A-la-hán. Này các Tỷ-kheo, vị không có gai và rời
 khỏi cây gai là bậc A-la-hán
 
-**(III) (73) Khả Lạc**
+### (III) (73) Khả Lạc
 
 <!--pg-->
 1\. - Có mười pháp này khả lạc, khả hỷ, khả ý, khó tìm được ở đời. Thế nào là mười?
@@ -134,7 +134,7 @@ tuệ. Chú tâm quán sát là thức ăn cho các pháp. Chánh hạnh là th�
 Này các Tỷ-kheo, đối với mười pháp khả lạc, khả hỷ, khả ý khó tìm được ở đời này, mười pháp này là
 những thức ăn.
 
-**(VI) (74) Tăng Trưởng**
+### (VI) (74) Tăng Trưởng
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, do tăng trưởng với mười tăng trưởng, vị Thánh đệ tử tăng trưởng Thánh tăng
@@ -165,7 +165,7 @@ _Chân nhân và có mắt,_
 _Ngay ở trong đời này,_
 _Tăng trưởng cả hai phần._
 
-**(V) (75) Migasàlà**
+### (V) (75) Migasàlà
 
 <!--pg-->
 1\. Một thời, Thế Tôn trú ở Sàvatthi, tại Jetavana, khu vườn ông Anathapindika. Rồi Tôn giả Ananda vào
@@ -307,7 +307,7 @@ Puràna có sanh thú khác với sanh thú của Isidatta. Tuệ như thế nà
 tựu, tuệ ấy Puràna chưa thành tựu. Do vậy, ở đây, Isidatta có sanh thú khác với sanh thú của Puràna.
 Như vậy, này Ananda, cả hai người này đều có thể thiếu sót một chi phần.
 
-**(VI) (76) Không Thể Tăng Trưởng**
+### (VI) (76) Không Thể Tăng Trưởng
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, nếu ba pháp không có mặt ở đời, thời Như Lai, bậc A-la-hán, Chánh Ðẳng Giác
@@ -503,7 +503,7 @@ giới cấm thủ. Người ấy do không có nghi hoặc, có thể đoạn t
 tận si. Vị ấy do đoạn tận tham, do đoạn tận sâu, do đoạn tận si, có thể đoạn tận sanh, có thể đoạn tận già,
 có thể đoạn tận chết.
 
-**(VII)(77) Con Quạ**
+### (VII)(77) Con Quạ
 
 1.- Này các Tỷ-kheo, con quạ thành tựu với mười tà pháp. Thế nào là mười?
 
@@ -522,7 +522,7 @@ và cất chứa tài sản.
 
 Này các Tỷ-kheo, vị ác Tỷ-kheo thành tựu với mười tà pháp này.
 
-**(VIII)(78) Ni Kiền Tử**
+### (VIII)(78) Ni Kiền Tử
 
 1.- Này các Tỷ-kheo, các Ni-kiền tử (Niganthàputta) thành tựu với mười tà pháp. Thế nào là mười?
 
@@ -536,7 +536,7 @@ các Ni-kiền tử. Theo tà kiến, này các Tỷ-kheo, là các Ni-kiền t�
 
 Này các Tỷ-kheo, thành tựu với mười tà pháp này là các Ni-kiền tử.
 
-**(IX) (79) Những Trường Hợp Hiềm Hận.**
+### (IX) (79) Những Trường Hợp Hiềm Hận.
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, có mười trường hợp hiềm hận. Thế nào là mười?
@@ -552,7 +552,7 @@ ta không yêu, người ta không mến”. Làm cho vị ấy tức giận kh�
 
 Này các Tỷ-kheo, có mười trường hợp hiềm hận này.
 
-**(X) (80) Nhiếp Phục Hiềm Hận**
+### (X) (80) Nhiếp Phục Hiềm Hận
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, có mười nhiếp phục hiềm hận này, Thế nào là mười?

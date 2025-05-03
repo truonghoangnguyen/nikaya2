@@ -10,7 +10,7 @@ giới, tưởng vô thường, tưởng khổ trên vô thường, tưởng vô
 
 Này các Tỷ-kheo, để thắng tri tham, chín pháp này cần phải tu tập.
 
-**(II) (94) Thắng Tri Tham**
+### (II) (94) Thắng Tri Tham
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, để thắng tri tham, chín pháp cần phải tu tập. Thế nào là chín?
@@ -21,7 +21,7 @@ xứ, Phi tương phi phi tưởng xứ, Diệt thọ tưởng định.
 
 Này các Tỷ-kheo, để thắng tri tham, chín pháp này cần phải tu tập.
 
-**(III) (95 - 100) Liễu Tri Tham**
+### (III) (95 - 100) Liễu Tri Tham
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, để liễu tri tham... để diệt tận... để đoạn tận... để trừ diệt... để ly tham... để đoạn
@@ -34,6 +34,6 @@ bồng bột, mạn, tăng thượng mạn, kiêu, phóng dật... để thắng
 
 Thế Tôn thuyết như vậy, các Tỷ-kheo ấy hoan hỷ tín thọ lời Thế Tôn dạy.
 
-**-ooOoo-**
-**CHƯƠNG X: CHƯƠNG MƯỜI PHÁP**
+### -ooOoo-
+### CHƯƠNG X: CHƯƠNG MƯỜI PHÁP
 

@@ -1,6 +1,6 @@
 # IV. Phẩm Bố Thí
 
-**(I) (31) Bố Thí (1)**
+### (I) (31) Bố Thí (1)
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, có tám bố thí này. Thế nào là tám?
@@ -13,14 +13,14 @@ nấu” nên bố thí; Vì nghĩ rằng: “Do ta cho bố thí này, nên ti�
 nghiêm tâm, trang bị tâm, nên bố thí.
 Này các Tỷ-kheo, có tám bố thí này.
 
-**(II) (32) Bố Thí (2)**
+### (II) (32) Bố Thí (2)
 
 Tín, tàm và thiện thí
 Những pháp thiện sĩ cầu
 Ðường này gọi Thiện đạo
 Ðường này đi Thiên giới
 
-**(III) (33) Căn Bản Ðể Bố Thí**
+### (III) (33) Căn Bản Ðể Bố Thí
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, có tám căn bản để bố thí. Thế nào là tám?
@@ -34,7 +34,7 @@ Thiên giới, cõi đời này “nên bố thí. Vì nghĩ rằng: “Khi ta b
 
 Này các Tỷ-kheo, có tám căn bản để bố thí này.
 
-**(IV) (34) Thửa Ruộng**
+### (IV) (34) Thửa Ruộng
 
 1.- Này các Tỷ-kheo, hột giống được gieo vào thửa ruộng thành tựu tám chi phần được xem là không
 quả lớn, không vị ngọt lớn, không phải địa điểm tăng thịnh. Thế nào là thành tựu tám chi phần?
@@ -99,7 +99,7 @@ _Ðạt Niết-bàn cụ túc_
 _Giải thoát mọi khổ đau_
 _Tức đầy đủ vẹn toàn._
 
-**(V) (35) Thọ Sanh Do Bố Thí**
+### (V) (35) Thọ Sanh Do Bố Thí
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, có tám thọ sanh do bố thí. Thế nào là tám?
@@ -136,7 +136,7 @@ người ác giới, là người ly tham, không phải là người có tham�
 công, vì tâm hướng đến thanh tịnh. Này các Tỷ-kheo, người giữ giới thành công, vì tâm hướng đến ly
 tham. Này các Tỷ-kheo, tám pháp này là tám pháp thọ sanh do bố thí.
 
-**(VI) (36) Phước Nghiệp Sự**
+### (VI) (36) Phước Nghiệp Sự
 
 1.- Này các Tỷ-kheo, có ba căn bản làm phước. Thế nào là ba?
 
@@ -204,7 +204,7 @@ mười điểm: tuổi thọ chư Thiên, ... thiên vị, thiên xúc.
 
 Này các Tỷ-kheo, có ba căn bản phước nghiệp này.
 
-**(VII) (37) Người Chân Nhân (1)**
+### (VII) (37) Người Chân Nhân (1)
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, có tám bố thí này của bậc chân nhân. Thế nào là tám?
@@ -230,7 +230,7 @@ _Với tâm tín, giải thoát_
 _Không hại, tâm an lạc_
 _Bậc trí sanh ở đời._
 
-**(VIII) (38) Người Chân Nhân (2)**
+### (VIII) (38) Người Chân Nhân (2)
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, bậc chân nhân sinh ra trong gia đình nào, đem lại lợi ích, hạnh phúc, an lạc cho
@@ -269,7 +269,7 @@ _Khéo an trú diệu pháp_
 _Nhiếp xan tham cấu uế_
 _Hưởng cuộc đời hạnh phúc._
 
-**(IX) (39) Nguồn Nước Công Ðức**
+### (IX) (39) Nguồn Nước Công Ðức
 
 1.- Này các Tỷ-kheo, có tám nguồn nước công đức này, là nguồn nước thiện, món ăn cho an lạc làm
 nhơn sanh Thiên, quả dị thục an lạc, đưa đến cõi trời, dẫn đến khả ái, khả hỷ, khả ý, hạnh phúc, an lạc.
@@ -316,7 +316,7 @@ khả hỷ, khả ý, hạnh phúc, an lạc.
 Này các Tỷ-kheo, có tám nguồn nước công đức này, là nguồn nước thiện, món ăn cho an lạc làm nhơn
 sanh Thiên, quả dị thục an lạc, đưa đến cõi trời, dẫn đến khả ái, khả hỷ, khả ý, hạnh phúc, an lạc.
 
-**(X) (40) Rất Là Nhẹ**
+### (X) (40) Rất Là Nhẹ
 
 1.- Này các Tỷ-kheo, sát sanh được thực hiện, được tu tập, được làm cho sung mãn, đưa đến địa ngục,
 đưa đến loại bàng sanh, đưa đến cõi ngạ quỷ. Quả dị thục hết sức nhẹ của sát sanh là được làm người với

@@ -1,6 +1,6 @@
 # VI. Phẩm Các Bà La Môn
 
-**51.- (a) Hai Người**
+### 51.- (a) Hai Người
 
 − Có hai vị Bà-la-môn già yếu, trưởng lão, tuổi lớn, cuộc đời đã được trải qua, đã đến đoạn cuối cuộc
 đời, đã 120 tuổi, đi đến Thế Tôn ... ngồi xuống một bên, những Bà-la-môn ấy bạch Thế Tôn:
@@ -32,7 +32,7 @@ _Vì khi còn đang sống_\
 _Ðã làm các công đức._
 
 <!--pg-->
-**52.- (b) Hai Người**
+### 52.- (b) Hai Người
 
 Rồi Bà-la-môn già yếu, trưởng lão, tuổi lớn ... đi đến Thế Tôn, bạch Thế Tôn:
 
@@ -60,7 +60,7 @@ _Vì khi còn đang sống_\
 _Ðã làm các công đức._
 
 <!--pg-->
-**53.- Vị Bà La Môn**
+### 53.- Vị Bà La Môn
 
 Rồi một Bà-la-môn đi đến Thế Tôn, sau khi đến, nói lên với Thế Tôn những lời chào đón hỏi thăm ...
 Ngồi xuống một bên, Bà-la-môn ấy bạch Thế Tôn:
@@ -89,7 +89,7 @@ không có thời gian, đến để mà thấy, có khả năng hướng thư�
 mạng chung, con xin trọn đời quy ngưỡng.
 
 <!--pg-->
-**54.- Bà La Môn Cư Sĩ**
+### 54.- Bà La Môn Cư Sĩ
 
 Rồi một Bà-la-môn du sĩ đi đến; Thế Tôn, sau khi đến, ... Ngồi xuống một bên, Bà-la-môn du sĩ bạch
 Thế Tôn:
@@ -132,7 +132,7 @@ Như vậy, này Bà-la-môn, pháp là thiết thực hiện tại, không có 
 hướng thượng, được người trí tự mình giác hiểu.
 
 <!--pg-->
-**55.- Niết-bàn**
+### 55.- Niết-bàn
 
 Rồi Bà-la-môn Jànussoni đi đến Thế Tôn ... Ngồi xuống một bên, Bà-la-môn Jànussoni bạch Thế Tôn:
 
@@ -162,7 +162,7 @@ thực hiện tại, không có thời gian, ... được người trí tự mì
 đến mạng chung, con xin trọn đời quy ngưỡng.
 
 <!--pg-->
-**56.- Người Giàu Có**
+### 56.- Người Giàu Có
 
 Rồi một Bà-la-môn giàu có lớn đi đến Thế Tôn, ... Ngồi xuống một bên, Bà-la-môn giàu có lớn bạch
 Thế Tôn:
@@ -197,7 +197,7 @@ phải quốc độ.
 đến mạng chung, con xin trọn đời quy ngưỡng.
 
 <!--pg-->
-**57.- Vacchagotta**
+### 57.- Vacchagotta
 Rồi du sĩ Vacchagotta đi đến Thế Tôn, ... Ngồi xuống một bên, du sĩ Vacchagotta thưa với Thế Tôn:
 
 − Tôi có được nghe, thưa Tôn giả Gotama, Sa-môn Gotama nói như sau: “Cần phải bố thí cho Ta, không
@@ -279,7 +279,7 @@ _Bậc trí tuần tự tiến_\
 _Chứng được cảnh Niết-bàn._
 
 <!--pg-->
-**58.- Tikanna**
+### 58.- Tikanna
 
 1-6
 
@@ -382,7 +382,7 @@ bậc Thánh! Và thưa Tôn giả Gotama, người có được ba minh của c
 phần mười sáu của vị chứng minh trong Luật của bậc Thánh.
 
 <!--pg-->
-**59. - Jànussoni**
+### 59. - Jànussoni
 
 1-4
 
@@ -451,7 +451,7 @@ phần mười sáu của vị chứng ba minh trong Luật của bậc Thánh! 
 mong Tôn giả Gotama nhận con làm đệ tử, từ nay cho đến mạng chung, con xin trọn đời quy ngưỡng?
 
 <!--pg-->
-**60.- Sangàrava**
+### 60.- Sangàrava
 
 1-7
 

@@ -1,6 +1,6 @@
 # VIII. Phẩm Song Ðôi
 
-**(I) (71) Lòng Tin (1)**
+### (I) (71) Lòng Tin (1)
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, một Tỷ-kheo có lòng tin nhưng có giới; như vậy, vị ấy không đày đủ chi phần
@@ -35,7 +35,7 @@ chứng ngộ, chứng đạt và an trú vô lậu tâm giải thoát, tuệ gi
 Thành tựu tám pháp này, này các Tỷ-kheo, Tỷ-kheo được tịnh tín hoàn toàn và được viên mãn về mọi
 phương diện.
 
-**(II) (72) Lòng Tin (2)**
+### (II) (72) Lòng Tin (2)
 <!--pg-->
 1\. - Này các Tỷ-kheo, Tỷ-kheo có lòng tin, nhưng không có giới; như vậy, vị ấy không đầy đủ chi phần
 này. Do vậy, cần phải làm cho đầy đủ chi phần ấy: “Làm thế nào để ta có lòng tin và có giới?” Và này
@@ -58,7 +58,7 @@ các lậu hoặc, ... chứng ngộ, chứng đạt và an trú; như vậy, v�
 Thành tựu tám chi phần này, này các Tỷ-kheo, Tỷ-kheo được tịnh tín hoàn toàn và được viên mãn về
 mọi phương diện.
 
-**(III) (73) Niệm Chết (1)**
+### (III) (73) Niệm Chết (1)
 
 <!--pg-->
 1\. Một thời, Thế Tôn trú ở Nàtika, tại Ginjakàvasatha. Tại đấy, Thế Tôn gọi các Tỷ-kheo: “Này các Tỷkheo”. “Thưa vâng, bạch Thế Tôn”.
@@ -175,7 +175,7 @@ tập rất sắc sảo niệm chết để đoạn diệt các lậu hoặc. Do
 
 Như vậy, này các Tỷ-kheo, các Thầy cần phải học tập.
 
-**(IV) (74) Niệm Chết (2)**
+### (IV) (74) Niệm Chết (2)
 
 <!--pg-->
 1\. Một thời, Thế Tôn trú ở Nàtika, tại Ginjakàvasatha. Tại đấy, Thế Tôn nói với các Tỷ-kheo:
@@ -226,7 +226,7 @@ học tập trong các thiện pháp.
 Này các Tỷ-kheo, niệm về chết tu tập như vậy làm cho sung mãn như vậy, được quả lớn, được lợi ích
 lớn, thể nhập vào bất tử, cứu cánh là bất tử.
 
-**(V) (75) Ðầy Ðủ (1)**
+### (V) (75) Ðầy Ðủ (1)
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, có tám đầy đủ này. Thế nào là tám?
@@ -254,7 +254,7 @@ _Và an lạc tương lai,_
 _Ðây trú xứ gia chủ,_
 _Bố thí tăng công đức._
 
-**(VI) (76) Ðầy Ðủ (2)**
+### (VI) (76) Ðầy Ðủ (2)
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, có tám đầy đủ này. Thế nào là tám?
@@ -339,7 +339,7 @@ _Và an lạc tương lai,_
 _Ðây trú xứ gia chủ,_
 _Bố thí tăng công đức._
 
-**(VII) (77) Dục**
+### (VII) (77) Dục
 
 <!--pg-->
 1\. Tại đấy, Tôn giả Sàriputta gọi các Tỷ-kheo: “Này các Hiền giả Tỷ-kheo”.
@@ -414,7 +414,7 @@ dưỡng ấy, không đắm say, không phóng dật, không rơi vào trạng 
 
 Này các Tỷ-kheo, có tám hạng người này sống có mặt, hiện hữu ở đời.
 
-**(VIII) (78) Vừa Ðủ**
+### (VIII) (78) Vừa Ðủ
 
 <!--pg-->
 1\. Tại đấy, Tôn giả Sàriputta gọi các Tỷ-kheo:
@@ -517,7 +517,7 @@ pháp thoại, khích lệ, làm cho phấn khởi, làm cho hoan hỷ các vị
 Thành tựu hai pháp này, này các Tỷ-kheo, Tỷ-kheo là vừa đủ cho người khác, không vừa đủ cho tự
 mình.
 
-**(IX) (79) Thối Ðọa**
+### (IX) (79) Thối Ðọa
 
 <!--pg-->
 1\. - Này các Tỷ-kheo, có tám pháp này đưa Tỷ-kheo hữu học đến thối đọa. Thế nào là tám?
@@ -536,7 +536,7 @@ Này các Tỷ-kheo, tám pháp này đưa Tỷ-kheo hữu học đến thối �
 chúng, các căn được phòng hộ, tiết độ trong ăn uống, không ưa thích giao thiệp, không ưa thích lý luận.
 
 Này các Tỷ-kheo, có tám pháp này đưa Tỷ-kheo hữu học đến không thối đọa.
-**(X) (80) Tám Căn Cứ Ðể Biếng Nhác và Tinh Tấn**
+### (X) (80) Tám Căn Cứ Ðể Biếng Nhác và Tinh Tấn
 
 <!--pg-->
 1\. Này các Tỷ-kheo, có tám căn cứ này để biếng nhác. Thế nào là tám?

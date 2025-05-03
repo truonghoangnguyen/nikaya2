@@ -1,9 +1,9 @@
 # X. Phẩm Nam Cư Sĩ
 
-**(I) (91) Người Hưởng Dục**
+### (I) (91) Người Hưởng Dục
 
 <!--pg-->
-1\. **Một thời, Thế Tôn trú ở Sàvatthi, tại Jetavana, khu vườn ông Anàhapindika. Rồi nam cư sĩ**
+1\. ### Một thời, Thế Tôn trú ở Sàvatthi, tại Jetavana, khu vườn ông Anàhapindika. Rồi nam cư sĩ
 Anàthapindika đi đến Thế Tôn, sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Thế tôn nói với
 Anàthapindika đang ngồi một bên:
 
@@ -182,7 +182,7 @@ xẻ và làm các công đức, thọ hưởng các tài sản ấy, không tha
 thấy được sự nguy hại, có xuất ly với trí tuệ. Hạng người này là tối thượng, tối thắng, thượng thủ, vô
 thượng và tối tôn.
 
-**(II) (32) Sợ Hãi Và Hận Thù**
+### (II) (32) Sợ Hãi Và Hận Thù
 
 <!--pg-->
 1\. Bấy giờ có gia chủ Anàthapindika đi đến Thế Tôn, ... Thế Tôn nói với Gia chủ Anàthapindika đang
@@ -245,7 +245,7 @@ thể tự mình trả lời về mình rằng: “Ta đã đoạn tận địa 
 quỷ; ta đã đoạn tận cõi dữ, ác thú, đọa xứ; ta đã chứng được Dự lưu, không còn bị đọa lạc, quyết chắc
 chứng đạt cứu cánh giác ngộ.”
 
-**(III) (93) Kiến**
+### (III) (93) Kiến
 
 <!--pg-->
 1\. Một thời, Thế Tôn trú ở Sàvatthi, Jetavana, tại khu vườn Anàthapindika. Bấy giờ có gia chủ
@@ -349,7 +349,7 @@ Tôn với bài pháp thuyết giảng, khích lệ, làm cho phấn khởi, là
 vậy, thường thường bác bỏ các du sĩ ngoại đạo, với sự khéo bác bỏ nhờ Chánh pháp, như gia chủ
 Anàhtapindika đã khéo bác bỏ.
 
-**(IV) (94) Vajjiyamahita**
+### (IV) (94) Vajjiyamahita
 
 <!--pg-->
 1\. Một thời, Thế Tôn trú ở Campà trên bờ ao Gaggarà. Rồi gia chủ Vajjiyamàhita, vào buổi sáng sớm đi
@@ -428,7 +428,7 @@ khởi, làm cho hoan hỷ, từ chỗ ngồi đứng dậy, đảnh lễ Thế 
 − Phàm Tỷ-kheo nào, đã lâu ngày với trần cầu ít trong Pháp và Luật này, vị ấy hãy như vậy bài bác các
 du sĩ ngoại đạo với sự khéo bài bác nhờ Chánh pháp, như gia chủ Vajjiyamàhita đã làm.
 
-**(V) (95) Uttiya**
+### (V) (95) Uttiya
 
 1 Bấy giờ có du sĩ ngoại đạo Uttiya đi đến Thế Tôn; sau khi đến nói lên với Thế Tôn những lời chào đón
 hỏi thăm, sau khi nói lên những lời chào đón hỏi thăm thân hữu, rồi ngồi xuống một bên. Ngồi xuống
@@ -490,7 +490,7 @@ tuệ, với tâm khéo an trú trên Bốn niệm xứ; sau khi như thật tu 
 thoát khỏi, đang thoát khỏi, sẽ thoát khỏi thế giới. Này Hiền giả Uttiya, về câu hỏi mà Thầy đã hỏi Thế
 Tôn đứng trên một lập trường khác. Ðó là lý do tại sao Thế Tôn không trả lời câu hỏi ấy cho Thầy?
 
-**(VI) (96) Kokanuda**
+### (VI) (96) Kokanuda
 
 <!--pg-->
 1\. Một thời, Tôn giả Ananda trú ở Ràjagaha, tại suối nước nóng Tapodàràma. Rồi Tôn giả Ananda khi
@@ -571,7 +571,7 @@ không biết,, tôi không thấy”! Thưa Hiền giả: “Tôi có biết, t
 − Ôi tôi đang nói chuyện với Tôn giả Ðại sư, mà tôi không biết là Tôn giả Ananda. Nếu chúng tôi biết là
 Tôn giả Ananda, tôi đã không nói nhiều như vậy, mong Tôn giả Ananda tha lỗi cho.
 
-**(VII) (97) Ðáng Ðảnh Lễ**
+### (VII) (97) Ðáng Ðảnh Lễ
 
 <!--pg-->
 1\. - Thành tựu mười pháp, này các Tỷ-kheo, Tỷ-kheo đáng được cung kính, đáng được tôn trọng, đáng
@@ -639,7 +639,7 @@ an trú vô lậu tâm giải thoát, tuệ giải thoát.
 Này các Tỷ-kheo, thành tựu mười pháp này vị Tỷ-kheo đáng được cung kính, đáng được tôn trọng, đáng
 được đảnh lễ, đáng được cúng dường, đáng được chắp tay, là phước điền vô thượng ở đời.
 
-**(VIII) (98) Vị Trưởng Lão**
+### (VIII) (98) Vị Trưởng Lão
 
 <!--pg-->
 1\. Thành tựu mười pháp này, này các Tỷ-kheo, vị trưởng lão tại địa phương bài vị ấy trú, vị ấy trú an ổn.
@@ -659,7 +659,7 @@ ngộ, chứng đạt và an trú vô lậu tâm giải thoát, tuệ giải tho
 Thành tựu mười pháp này, các Tỷ-kheo, Tỷ-kheo trưởng lão trú tại địa phương nào, tại địa phương nào,
 sống được an ổn.
 
-**(IX) (99) Upàli**
+### (IX) (99) Upàli
 
 <!--pg-->
 1\. Bấy giờ có Tôn gia Upàli đi đến Thế Tôn, sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Ngồi
@@ -846,7 +846,7 @@ nguyên, tại các trú xứ xa vắng, họ không trú nếu mục đích c�
 
 Vậy này Upàli, Thầy hãy sống giữa chúng Tăng. Sống giữa chúng Tăng, Thầy sẽ được an ổn.
 
-**(X) (100) Không Thể Tăng Trưởng**
+### (X) (100) Không Thể Tăng Trưởng
 
 <!--pg-->
 1\. Này các Tỷ-kheo, không đoạn tận mười pháp này, không có thể chứng ngộ quả A-la-hán. Thế nào là

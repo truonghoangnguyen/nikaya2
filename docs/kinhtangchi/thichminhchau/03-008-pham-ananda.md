@@ -1,7 +1,7 @@
 # VIII. Phẩm Ananda
 
 
-**71.- Channa**
+### 71.- Channa
 
 1\. Nhân duyên ở Sàvatthi.
 
@@ -64,7 +64,7 @@ thưa Hiền giả, đây là đạo lộ đưa đến đoạn tận tham, sân,
 vừa đủ, thưa Hiền giả Ananda, để áp dụng không phóng dật.
 
 <!--pg-->
-**72.- Tà Mạng Ðệ Tử**
+### 72.- Tà Mạng Ðệ Tử
 
 1\. Một thời, Tôn giả Ananda trú ở Kosambi, tại khu vườn Ghosità
 
@@ -122,7 +122,7 @@ Tăng. Mong Tôn giả Ananda nhận con làm đệ tử cơ sở, từ nay cho 
 quy ngưỡng!
 
 <!--pg-->
-**73.- Người Họ Thích**
+### 73.- Người Họ Thích
 
 1\. Một thời, Thế Tôn trú giữa dân chúng Thích tử, tại Kapilavatthu, ở khu vườn Nigrodha.
 
@@ -166,7 +166,7 @@ học được Thế Tôn thuyết, là định bậc Hữu học được Thế
 thuyết, là tuệ bậc Hữu học được Thế Tôn thuyết, là tuệ bậc Vô học được Thế Tôn thuyết.
 
 <!--pg-->
-**74.- Vị Lõa Thể**
+### 74.- Vị Lõa Thể
 
 1\. Một thời, Tôn giả Ananda trú tại Vesàli, rừng Ðại Lâm, trong ngôi giảng đường có góc nhọn. Rồi
 Abhaya người Licchavi và Panditakumàrako người Licchiva, đi đến Tôn giả Ananda, sau khi đến, đảnh
@@ -213,7 +213,7 @@ dứt ưu khổ, đạt được chánh lý, chứng được Niết bàn.
 tan, nếu ai không tín thọ lời khéo nói của Tôn giả Ananda là khéo nói.
 
 <!--pg-->
-**75.- Cần Phải Khích Lệ**
+### 75.- Cần Phải Khích Lệ
 
 1\. Rồi Tôn giả Ananda đi đến Thế Tôn; sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Thế Tôn
 nói với Tôn giả Ananda đang ngồi xuống một bên:
@@ -251,7 +251,7 @@ hữu, bà con hay cùng một huyết thống? Với những người ấy, nà
 phải hướng dẫn, cần phải an trú trong ba điểm này.
 
 <!--pg-->
-**76.- Hiện Hữu**
+### 76.- Hiện Hữu
 
 1\. Rồi Tôn giả Ananda đi đến Thế Tôn, sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Ngồi
 xuống một bên, Tôn giả Ananda bạch Thế Tôn:
@@ -287,7 +287,7 @@ minh che lấp, bị ái trói buộc, nên thức được an lập trong giớ
 sự tái sanh sanh khởi. Như vậy, này Ananda, hữu có mặt.
 
 <!--pg-->
-**77.- Tư và Khởi Ðiểm**
+### 77.- Tư và Khởi Ðiểm
 
 1\. Rồi Tôn giả Ananda đi đến Thế Tôn; sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên, Tôn giả
 Ananda bạch Thế Tôn:
@@ -301,7 +301,7 @@ trong tương lai có sự tái sanh sanh khởi. Như vậy, này Ananda, hữu
 _(Ðoạn còn lại như kinh trên, chỉ khác “thức” được “tư” và “khởi điểm” thay thế) ..._
 
 <!--pg-->
-**78.- Sự Hầu Hạ Giúp Ðỡ**
+### 78.- Sự Hầu Hạ Giúp Ðỡ
 
 _(Nhân duyên như kinh trên). Thế Tôn nói với Tôn giả Ananda đang ngồi một bên:_
 
@@ -327,7 +327,7 @@ Rồi Thế Tôn, khi Tôn giả Ananda ra đi không bao lâu, nói với các 
 − Này các Tỷ-kheo, Ananda còn là hữu học, nhưng không dễ gì tìm được người có trí tuệ ngang bằng.
 
 <!--pg-->
-**79.- Hương**
+### 79.- Hương
 
 1\. Rồi Tôn giả Ananda đi đến Thế Tôn; sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Ngồi
 xuống một bên, Tôn giả Ananda bạch Thế Tôn:
@@ -366,7 +366,7 @@ _Chỉ có Bậc Chân nhân_\
 _Biến mãn mọi phương trời._
 
 <!--pg-->
-**80.- Abhibhù**
+### 80.- Abhibhù
 
 1\. Rồi Tôn giả Ananda đi đến Thế Tôn; sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Ngồi
 xuống một bên, Tôn giả Ananda bạch Thế Tôn:

@@ -1,6 +1,6 @@
 # XI. Phẩm Chánh Giác
 
-**101.- Trước Khi Giác Ngộ**
+### 101.- Trước Khi Giác Ngộ
 
 1\. - Này các Tỷ-kheo, trước khi Ta giác ngộ, chưa chánh đẳng giác, còn là Bồ-tát, ta suy nghĩ như sau:
 “Cái gì là vị ngọt ở đời? Cái gì là nguy hại, cái gì là xuất ly?”. Rồi này các Tỷ-kheo, về vấn đề ấy, tư
@@ -33,7 +33,7 @@ Phạm thiên giới, cùng với quần chúng Sa-môn, Bà-la-môn, chư Thiê
 lên nơi ta: “Bất động là tâm giải thoát của ta. Ðây là đời sống cuối cùng. Nay không còn tái sanh nữa”.
 
 <!--pg-->
-**102.- Vị Ngọt.**
+### 102.- Vị Ngọt.
 
 1\. - Này các Tỷ-kheo, nếu không có vị ngọt ở đời, thời các loài hữu tình không có tham nhiễm đối với
 đời. Vì rằng, này các Tỷ-kheo, có vị ngọt ở đời, nên các loài hữu tình có tham nhiễm ở đời. Này các Tỷkheo, nếu không có nguy hại ở đời, thời các loài hữu tình không có nhàm chán đối với đời. Vì rằng, này
@@ -63,14 +63,14 @@ Tôn giả ấy, ngay trong hiện tại sẽ có chứng ngộ với thắng tr
 hạnh hay mục đích của Bà-la-môn hạnh.
 
 <!--pg-->
-**103.- Khóc Than**
+### 103.- Khóc Than
 
 − Này các Tỷ-kheo, đây được xem là khóc than trong giới luật bậc Thánh, tức là ca vịnh. Này các Tỷkheo, đây được xem là điên loạn trong giới luật bậc Thánh, tức là múa nhảy. Này các Tỷ-kheo, đây được
 xem là trẻ con trong giới luật bậc Thánh, tức là cười quá đáng để lộ cả răng. Do luật này, này các Tỷkheo, hãy phá cây cầu đi đến hát. Hãy phá cây cầu đi đến múa nhảy. Thật là vừa đủ nếu các Thầy được
 hoan hỷ đúng pháp, mỉm cười để tỏ là các Thầy được hoan hỷ.
 
 <!--pg-->
-**104.- Không Thoả Mãn**
+### 104.- Không Thoả Mãn
 
 − Này các Tỷ-kheo, hưởng thọ ba sự ở đời, không bao giờ thỏa mãn. Thế nào là ba?
 
@@ -79,7 +79,7 @@ Tỷ-kheo, không bao giờ thỏa mãn. Hưởng thọ sự dâm dục giao h�
 thỏa mãn.
 
 <!--pg-->
-**105.- Nóc Nhọn (1)**
+### 105.- Nóc Nhọn (1)
 
 Rồi gia chủ Anathapindika đi đến Thế Tôn; sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên; Thế
 Tôn nói với gia chủ Anathapindika đang ngồi xuống một bên:
@@ -113,13 +113,13 @@ bại. Cũng vậy, này gia chủ, khi tâm được phòng hộ, thời thân 
 nghiệp ... ý nghiệp không bị hủ bại, thời sự chết được hiền thiện, mạng chung được hiền thiện.
 
 <!--pg-->
-**106.- Nóc Nhọn (2)**
+### 106.- Nóc Nhọn (2)
 
 (Kinh này hoàn toàn giống như kinh trên, chỉ khác có một chữ. Chỗ nào kinh trên dùng chữ “không
 phòng hộ”, thời ở đây dùng chữ “thất thế, lung lay” với những thay đổi cần thiết).
 
 <!--pg-->
-**107.- Ba Nhân Duyên (1)**
+### 107.- Ba Nhân Duyên (1)
 
 − Có ba nhân duyên này, này các Tỷ-kheo, khiến các nghiệp tập khởi. Thế nào là ba?
 
@@ -135,7 +135,7 @@ nghiệp nào do si tác thành, này các Tỷ-kheo, sanh ra từ si, do si là
 tập khởi.
 
 <!--pg-->
-**108.- Ba Nhân Duyên (2)**
+### 108.- Ba Nhân Duyên (2)
 
 − Có ba nhân duyên này, này các Tỷ-kheo, khiến các nghiệp tập khởi. Thế nào là ba?
 
@@ -151,7 +151,7 @@ nghiệp ấy không đưa đến nghiệp tập khởi, nghiệp ấy đưa đ�
 Tỷ-kheo, là ba nhân duyên khiến các nghiệp tập khởi.
 
 <!--pg-->
-**109.- Nhân Duyên (3)**
+### 109.- Nhân Duyên (3)
 
 1\. - Có ba nhân duyên này, này các Tỷ-kheo, khiến các nghiệp tập khởi. Thế nào là ba?
 
@@ -187,7 +187,7 @@ là một kiết sử, vì tâm ấy có tham ái. Như vậy, này các Tỷ-kh
 dục tham trong hiện tại, ước muốn sanh khởi.
 
 <!--pg-->
-**110. Nhân Duyên (4)**
+### 110. Nhân Duyên (4)
 
 1\. - Có ba nhân duyên này, này các Tỷ-kheo, khiến các nghiệp tập khởi. Thế nào là ba?
 
