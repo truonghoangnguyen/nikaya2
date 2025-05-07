@@ -1,11 +1,11 @@
 const kinhtangchi_sujato_vi = [
   { text: "Cover", link: "/kinhtangchi/sujato-vi/intro/cover.md" },
-  { text: "The SuttaCentral Editions Series", link: "/kinhtangchi/sujato-vi/intro/00-000-quote.md" },
+  { text: "Quote", link: "/kinhtangchi/sujato-vi/intro/00-000-quote.md" },
   { text: "The SuttaCentral Editions Series", link: "/kinhtangchi/sujato-vi/intro/00-001-the-suttacentral-editions-series.md" },
   { text: "Preface", link: "/kinhtangchi/sujato-vi/intro/00-002-preface.md" },
   { text: "The Numbered Discourses: things that are useful every day", link: "/kinhtangchi/sujato-vi/intro/00-003-the-numbered-discourses-things-that-are-useful-every-day.md" },
   { text: "Acknowledgements", link: "/kinhtangchi/sujato-vi/intro/00-004-acknowledgements.md" },
-  { text: "Mục lục", link: "/kinhtangchi/sujato-vi/mucluc.md" },
+  { text: "Mục lục", link: "/kinhtangchi/sujato-vi/meta/mucluc.md" },
   { text: "Chương về Những Gì Chiếm Ngự Tâm Trí (Cittapariyādānavagga)", link: "/kinhtangchi/sujato-vi/01-001-the-chapter-on-what-occupies-the-mind.md" },
   { text: "Chương về Từ Bỏ Các Trở Ngại (Hindrances - Nīvaraṇa - Triền Cái)", link: "/kinhtangchi/sujato-vi/01-002-the-chapter-on-giving-up-the-hindrances.md" },
   { text: "Chương về Tâm Không Hiệu Quả", link: "/kinhtangchi/sujato-vi/01-003-the-chapter-on-the-useless-mind.md" },

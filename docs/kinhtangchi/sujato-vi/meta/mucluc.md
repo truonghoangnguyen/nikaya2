@@ -1,10 +1,11 @@
 # Intro
 
-- [Quote](/kinhtangchi/sujato-vi/00-000-quote.md)
-- [The SuttaCentral Editions Series](/kinhtangchi/sujato-vi/00-001-the-suttacentral-editions-series.md)
-- [Preface](/kinhtangchi/sujato-vi/00-002-preface.md)
-- [The Numbered Discourses: things that are useful every day](/kinhtangchi/sujato-vi/00-003-the-numbered-discourses-things-that-are-useful-every-day.md)
-- [Acknowledgements](/kinhtangchi/sujato-vi/00-004-acknowledgements.md)
+- [Quote](/kinhtangchi/sujato-vi/intro/00-000-quote.md)
+- [The SuttaCentral Editions Series](/kinhtangchi/sujato-vi/intro/00-001-the-suttacentral-editions-series.md)
+- [Preface](/kinhtangchi/sujato-vi/intro/00-002-preface.md)
+- [The Numbered Discourses: things that are useful every day](/kinhtangchi/sujato-vi/intro/00-003-the-numbered-discourses-things-that-are-useful-every-day.md)
+- [Acknowledgements](/kinhtangchi/sujato-vi/intro/00-004-acknowledgements.md)
+- [Mục Lục](/kinhtangchi/sujato-vi/meta/mucluc.md)
 
 # Chương 1
 - [Chương về Những Gì Chiếm Ngự Tâm Trí (Cittapariyādānavagga)](/kinhtangchi/sujato-vi/01-001-the-chapter-on-what-occupies-the-mind.md)
