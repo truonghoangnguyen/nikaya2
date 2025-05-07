@@ -76,3 +76,23 @@ Niệm = Tỉnh thức
 Use correct Vietnamese grammar:
 Tín lực = lực niềm tin
 Vô tàm = không xấu hổ
+
+# 10 kiết sử:
+Thân kiến (sakkàya-ditthi)[1]
+Hoài nghi (vicikicchà)[2]
+Giới cấm thủ (silabata-paràmàsa)[3]
+Tham đắm vào cõi dục (kàma-ràga)[4]
+Sân hận (vyàpàda)[5]
+
+Tham đắm vào cõi sắc (rùpa-ràga)[6]
+Tham đắm vào cõi vô sắc (arùpa-ràga)[7]
+Mạn (màna)[8][9]
+Trạo cử vi tế (uddhacca)[10]
+Vô minh (avijjà)[11]
+
+# Triền cai (https://thuvienhoasen.org/a10677/nam-trien-cai) U mê
+Tham dục (Kamacchanda)
+Sân hận (Vyapada)
+Hôn trầm (Thina-middha)
+Trạo cử (Uddhacca-kukkucca)
+Hoài nghi (Vicikiccha)

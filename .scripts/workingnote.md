@@ -1,4 +1,5 @@
 # Cách chuyển đổi
+Sau khi có thư mục các file thì tiếp theo là tạo file-nav và mucluc.md sau đó tạo file mucluc.md và tmc.js cho thu mục [c-xxx]
 
 1. Từ source pdf -> .md file -> clean format -> split file ->
     1.1.en               f`author-en`->3make_mucluc->f`c-author1-author2-en`->4make_compare_list->finish

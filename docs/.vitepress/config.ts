@@ -35,6 +35,7 @@ const BOOK_NAV = {
 //  'kinhtangchi/bodhi-vi': kinhtangchi_bodhi_vi,
 //  'kinhtangchi/bodhi-en': kinhtangchi_bodhi_en,
   'kinhtangchi/sujato-en': kinhtangchi_sujato_en,
+  'kinhtangchi/sujato-en/intro': kinhtangchi_sujato_en,
   'kinhtangchi/sujato-vi': kinhtangchi_sujato_vi,
   'kinhtangchi/sujato-vi/intro': kinhtangchi_sujato_vi,
 

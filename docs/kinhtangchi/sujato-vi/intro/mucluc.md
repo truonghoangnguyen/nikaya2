@@ -1,0 +1,4 @@
+- [The SuttaCentral Editions Series](/kinhtangchi/sujato-vi/00-001-the-suttacentral-editions-series.md)
+- [Preface](/kinhtangchi/sujato-vi/00-002-preface.md)
+- [The Numbered Discourses: things that are useful every day](/kinhtangchi/sujato-vi/00-003-the-numbered-discourses-things-that-are-useful-every-day.md)
+- [Acknowledgements](/kinhtangchi/sujato-vi/00-004-acknowledgements.md)

@@ -1,4 +1,3 @@
-
 # The SuttaCentral Editions Series
 
 Since 2005 SuttaCentral has provided access to the texts, translations,

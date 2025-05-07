@@ -1,3 +1,12 @@
+# Intro
+
+- [Quote](/kinhtangchi/sujato-vi/00-000-quote.md)
+- [The SuttaCentral Editions Series](/kinhtangchi/sujato-vi/00-001-the-suttacentral-editions-series.md)
+- [Preface](/kinhtangchi/sujato-vi/00-002-preface.md)
+- [The Numbered Discourses: things that are useful every day](/kinhtangchi/sujato-vi/00-003-the-numbered-discourses-things-that-are-useful-every-day.md)
+- [Acknowledgements](/kinhtangchi/sujato-vi/00-004-acknowledgements.md)
+
+# Chương 1
 - [Chương về Những Gì Chiếm Ngự Tâm Trí (Cittapariyādānavagga)](/kinhtangchi/sujato-vi/01-001-the-chapter-on-what-occupies-the-mind.md)
 - [Chương về Từ Bỏ Các Trở Ngại (Hindrances - Nīvaraṇa - Triền Cái)](/kinhtangchi/sujato-vi/01-002-the-chapter-on-giving-up-the-hindrances.md)
 - [Chương về Tâm Không Hiệu Quả](/kinhtangchi/sujato-vi/01-003-the-chapter-on-the-useless-mind.md)
@@ -21,6 +30,8 @@
 - [Một Chương Khác về Khoảnh Khắc Búng Ngón Tay](/kinhtangchi/sujato-vi/01-018-another-chapter-on-a-finger-snap.md)
 - [Chương về Niệm Thân](/kinhtangchi/sujato-vi/01-019-the-chapter-on-mindfulness-of-the-body.md)
 - [Chương về Sự Giải Thoát Khỏi Cái Chết](/kinhtangchi/sujato-vi/01-020-the-chapter-on-freedom-from-death.md)
+
+# Chương 2
 - [Phẩm Hình Phạt](/kinhtangchi/sujato-vi/02-001-the-chapter-on-punishments.md)
 - [Phẩm về các Vấn đề Tranh tụng](/kinhtangchi/sujato-vi/02-002-the-chapter-on-disciplinary-issues.md)
 - [Phẩm Kẻ Ngu](/kinhtangchi/sujato-vi/02-003-the-chapter-on-fools.md)
@@ -40,6 +51,8 @@
 - [Phẩm Kinh Rút Gọn Bắt Đầu Với Bất Thiện](/kinhtangchi/sujato-vi/02-017-the-chapter-of-abbreviated-texts-beginning-with-the-unskillful.md)
 - [Phẩm Về Các Đoạn Kinh Tóm Lược Về Luật](/kinhtangchi/sujato-vi/02-018-the-chapter-of-abbreviated-texts-on-monastic-law.md)
 - [Chương Các Kinh Tóm Lược Bắt Đầu Với Tham](/kinhtangchi/sujato-vi/02-019-the-chapter-of-abbreviated-texts-beginning-with-greed.md)
+
+# Chương 3
 - [Chương về Kẻ Ngu](/kinhtangchi/sujato-vi/03-001-the-chapter-on-fools.md)
 - [Chương về Thợ Làm Xe (The Chariot-maker)](/kinhtangchi/sujato-vi/03-002-the-chapter-on-the-chariot-maker.md)
 - [Chương về Các Hạng Người](/kinhtangchi/sujato-vi/03-003-the-chapter-on-persons.md)
@@ -58,6 +71,8 @@
 - [Chương về Các Pháp Hành](/kinhtangchi/sujato-vi/03-016-the-chapter-on-practices.md)
 - [Chương về Các Con Đường Hành Động](/kinhtangchi/sujato-vi/03-017-the-chapter-on-ways-of-performing-deeds.md)
 - [Chương về các Bài Kinh Tóm Tắt Bắt Đầu với Tham](/kinhtangchi/sujato-vi/03-018-the-chapter-on-abbreviated-texts-beginning-with-greed.md)
+
+# Chương 4
 - [Chương Tại Làng Beluva](/kinhtangchi/sujato-vi/04-001-the-chapter-at-wares-village.md)
 - [Chương về Đi Kinh Hành](/kinhtangchi/sujato-vi/04-002-the-chapter-on-walking.md)
 - [Chương Uruvelā (Ưu Lâu Tần Loa)](/kinhtangchi/sujato-vi/04-003-the-chapter-at-uruvela.md)
@@ -86,3 +101,45 @@
 - [Chương về Thắng Trí](/kinhtangchi/sujato-vi/04-026-the-chapter-on-direct-knowledges.md)
 - [Phẩm Về Cách Thực Hiện Các Hành Vi](/kinhtangchi/sujato-vi/04-027-the-chapter-on-ways-of-performing-deeds.md)
 - [Các Kinh Tóm Tắt Bắt Đầu Với Tham Ái](/kinhtangchi/sujato-vi/04-028-abbreviated-texts-beginning-with-greed.md)
+
+# Chương 5
+- [Chương Về Các Lực Của Bậc Hữu Học](/kinhtangchi/sujato-vi/05-001-the-chapter-on-powers-of-a-trainee.md)
+- [Chương Về Các Lực](/kinhtangchi/sujato-vi/05-002-the-chapter-on-powers.md)
+- [Chương Năm Pháp](/kinhtangchi/sujato-vi/05-003-the-chapter-on-five-factors.md)
+- [Chương về Sumanā](/kinhtangchi/sujato-vi/05-004-the-chapter-with-sumana.md)
+- [Chương về Vua Muṇḍa](/kinhtangchi/sujato-vi/05-005-the-chapter-with-king-munda.md)
+- [Chương về trói buộc](/kinhtangchi/sujato-vi/05-006-the-chapter-on-hindrances.md)
+- [Chương về Nhận Thức](/kinhtangchi/sujato-vi/05-007-the-chapter-on-perceptions.md)
+- [Chương về Chiến Sĩ](/kinhtangchi/sujato-vi/05-008-the-chapter-on-a-warrior.md)
+- [Chương về Các Vị Trưởng Lão Tỳ Kheo](/kinhtangchi/sujato-vi/05-009-the-chapter-on-senior-mendicants.md)
+- [Chương Kakudha](/kinhtangchi/sujato-vi/05-010-the-chapter-with-kakudha.md)
+- [Chương Về An Trú Thoải Mái](/kinhtangchi/sujato-vi/05-011-the-chapter-on-living-comfortably.md)
+- [Chương tại Andhakavinda](/kinhtangchi/sujato-vi/05-012-the-chapter-at-andhakavinda.md)
+- [Chương về Bệnh](/kinhtangchi/sujato-vi/05-013-the-chapter-on-sick.md)
+- [Chương về các Vị Vua](/kinhtangchi/sujato-vi/05-014-the-chapter-on-kings.md)
+- [Chương tại Tikaṇḍakī](/kinhtangchi/sujato-vi/05-015-the-chapter-at-tikandaki.md)
+- [Chương về Chánh Pháp](/kinhtangchi/sujato-vi/05-016-the-chapter-on-the-true-teaching.md)
+- [Chương về Sự Oán Giận](/kinhtangchi/sujato-vi/05-017-the-chapter-on-resentment.md)
+- [Chương về Người Cư Sĩ Tại Gia](/kinhtangchi/sujato-vi/05-018-the-chapter-on-a-lay-follower.md)
+- [Chương về Người Sống Trong Rừng](/kinhtangchi/sujato-vi/05-019-the-chapter-on-wilderness-dwellers.md)
+- [Chương về Bà la môn](/kinhtangchi/sujato-vi/05-020-the-chapter-on-brahmins.md)
+- [Chương về Kimbila](/kinhtangchi/sujato-vi/05-021-the-chapter-with-kimbila.md)
+- [Chương Về Sự Lăng Mạ](/kinhtangchi/sujato-vi/05-022-the-chapter-on-abuse.md)
+- [Chương Về Lang Thang Dài Ngày](/kinhtangchi/sujato-vi/05-023-the-chapter-on-long-wandering.md)
+- [Chương về Vị Tỳ Khưu Trú Xứ](/kinhtangchi/sujato-vi/05-024-the-chapter-on-a-resident-mendicant.md)
+- [Chương về Ác Hạnh](/kinhtangchi/sujato-vi/05-025-the-chapter-on-bad-conduct.md)
+- [Chương về Sự Thọ Giới](/kinhtangchi/sujato-vi/05-026-the-chapter-on-ordination.md)
+
+# Chương 6
+- [Chương về Xứng Đáng Được Cúng Dường](/kinhtangchi/sujato-vi/06-001-the-chapter-on-worthy-of-offerings.md)
+- [Chương về Pháp Đáng Nhớ Tưởng](/kinhtangchi/sujato-vi/06-002-the-chapter-on-warm-hearted.md)
+- [Chương Về Vô Thượng](/kinhtangchi/sujato-vi/06-003-the-chapter-on-unsurpassable.md)
+- [Chương về Chư Thiên](/kinhtangchi/sujato-vi/06-004-the-chapter-on-deities.md)
+- [Chương về Dhammika](/kinhtangchi/sujato-vi/06-005-the-chapter-with-dhammika.md)
+- [Chương Lớn](/kinhtangchi/sujato-vi/06-006-the-great-chapter.md)
+- [Chương Về Chư Thiên](/kinhtangchi/sujato-vi/06-007-the-chapter-on-deities.md)
+- [Chương về Sự Hoàn Hảo](/kinhtangchi/sujato-vi/06-008-the-chapter-on-perfection.md)
+- [Chương về Sự Tịch Tịnh](/kinhtangchi/sujato-vi/06-009-the-chapter-on-coolness.md)
+- [Chương về Lợi Ích](/kinhtangchi/sujato-vi/06-010-the-chapter-on-benefit.md)
+- [Chương Ba Pháp](/kinhtangchi/sujato-vi/06-011-the-chapter-on-triads.md)
+- [Chương về Đời sống Sa môn](/kinhtangchi/sujato-vi/06-012-the-chapter-on-the-ascetic-life.md)
