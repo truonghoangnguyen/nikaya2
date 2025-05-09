@@ -1,6 +1,6 @@
 # The Chapter on the Useless Mind
 
-### N 1.21--30 *Akammaniyavagga*
+### AN 1.21--30 *Akammaniyavagga*
 
 21\. "Mendicants, I do not see a single thing that, when it's not developed
 like this, is as unworkable as the mind. An undeveloped mind is

@@ -1,6 +1,6 @@
 # The Chapter on Mindfulness of the Body
 
-### N 1.575--615 *Kāyagatāsativagga*
+### AN 1.575--615 *Kāyagatāsativagga*
 
 575\. "Mendicants, anyone who brings into their mind the great ocean includes
 all of the streams that run into it. In the same way, anyone who has
@@ -87,4 +87,3 @@ extraordinary wisdom ... to vast wisdom ... to much wisdom ... to fast
 wisdom ... to light wisdom ... to laughing wisdom ... to swift wisdom
 ... to sharp wisdom ... to penetrating wisdom."
 
-<!--pg-->

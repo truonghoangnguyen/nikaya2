@@ -1,6 +1,6 @@
 # The Chapter of Abbreviated Texts on Monastic Law
 
-### N 2.280--309 *Vinayapeyyālavagga*
+### AN 2.280--309 *Vinayapeyyālavagga*
 
 280\. "For two reasons the Realized One laid down training rules for his
 disciples.
@@ -55,4 +55,32 @@ continuation of the true teaching and the support of the training.
 
 These are the two reasons why the Realized One laid down the settlement
 of a disciplinary matter by covering over with grass for his disciples."
+
+<!--pg-->
+# The Chapter of Abbreviated Texts Beginning with Greed
+
+### AN 2.310--479 *Rāgapeyyālavagga*
+
+310--319\. "For insight into greed, two things should be developed. What two?
+Serenity and discernment. For insight into greed, these two things
+should be developed."
+
+"For the complete understanding ... finishing ... giving up ... ending
+... vanishing ... fading away ... cessation ... giving away ... letting
+go of greed, two things should be developed."
+
+<!--pg-->
+320--479\. "Of hate ... delusion ... anger ... acrimony ... disdain ... contempt
+... jealousy ... stinginess ... deceit ... deviousness ... obstinacy ...
+aggression ... conceit ... arrogance ... vanity ... negligence ... for
+insight ... complete understanding ... finishing ... giving up ...
+ending ... vanishing ... fading away ... cessation ... giving away ...
+letting go ... two things should be developed. What two? Serenity and
+discernment. For the letting go of negligence, these two things should
+be developed."
+
+
+That is what the Buddha said. Satisfied, the mendicants approved what
+the Buddha said.
+
 

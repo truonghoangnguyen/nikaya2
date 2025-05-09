@@ -1,6 +1,6 @@
 # The Chapter on the Peaceful Mind
 
-### N 2.32--41 *Samacittavagga*
+### AN 2.32--41 *Samacittavagga*
 
 <!--pg-->
 32\. "Mendicants, I will teach you the level of the untrue person and the

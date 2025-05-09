@@ -1,6 +1,6 @@
 # Phẩm Người Chân Thật
 
-### N 4.201 Kinh Học Giới (Sikkhāpadasutta)
+### AN 4.201 Kinh Học Giới (Sikkhāpadasutta)
 
 "Này các Tỳ kheo, Ta sẽ giảng cho các ông về người không chân thật và người còn không chân thật hơn, về người chân thật và người còn chân thật hơn. Hãy lắng nghe và khéo tác ý, Ta sẽ nói."
 
@@ -15,7 +15,7 @@ Và thế nào là người chân thật? Đó là người không sát sanh, kh
 Và thế nào là người còn chân thật hơn? Đó là người không sát sanh, không trộm cắp, không tà dâm, không nói dối, không uống rượu và các chất say. Và họ còn khuyến khích người khác từ bỏ những việc này. Đây được gọi là người còn chân thật hơn."
 
 <!--pg-->
-### N 4.202 Kinh Không Đức Tin (Assaddhasutta)
+### AN 4.202 Kinh Không Đức Tin (Assaddhasutta)
 
 "Này các Tỳ kheo, Ta sẽ giảng cho các ông về người không chân thật và người còn không chân thật hơn, về người chân thật và người còn chân thật hơn.
 
@@ -28,7 +28,7 @@ Và thế nào là người chân thật? Đó là người *có đức tin* (fa
 Và thế nào là người còn chân thật hơn? Đó là người tự mình thành tựu đức tin, sự hổ thẹn, sự ghê sợ tội lỗi, sự nghe nhiều, tinh tấn, chánh niệm, và trí tuệ. Và họ còn khuyến khích người khác có những phẩm chất tương tự. Đây được gọi là người còn chân thật hơn."
 
 <!--pg-->
-### N 4.203 Kinh Bảy Nghiệp (Sattakammasutta)
+### AN 4.203 Kinh Bảy Nghiệp (Sattakammasutta)
 
 "Này các Tỳ kheo, Ta sẽ giảng cho các ông về người không chân thật và người còn không chân thật hơn, về người chân thật và người còn chân thật hơn.
 
@@ -41,7 +41,7 @@ Và thế nào là người chân thật? Đó là người không sát sanh, kh
 Và thế nào là người còn chân thật hơn? Đó là người không sát sanh, không trộm cắp, không tà dâm, không dùng lời nói dối, nói đâm thọc, nói lời thô ác, hay nói lời phù phiếm. Và họ còn khuyến khích người khác từ bỏ những việc này. Đây được gọi là người còn chân thật hơn."
 
 <!--pg-->
-### N 4.204 Kinh Mười Nghiệp (Dasakammasutta)
+### AN 4.204 Kinh Mười Nghiệp (Dasakammasutta)
 
 "Này các Tỳ kheo, Ta sẽ giảng cho các ông về người không chân thật và người còn không chân thật hơn, về người chân thật và người còn chân thật hơn.
 
@@ -54,7 +54,7 @@ Và thế nào là người chân thật? Đó là người không sát sanh, kh
 Và thế nào là người còn chân thật hơn? Đó là người không sát sanh, không trộm cắp, không tà dâm. Họ không dùng lời nói dối, nói đâm thọc, nói lời thô ác, hay nói lời phù phiếm. Họ không tham lam, không sân hận, có chánh kiến. Và họ còn khuyến khích người khác làm những việc này. Đây được gọi là người còn chân thật hơn."
 
 <!--pg-->
-### N 4.205 Kinh Bát Chánh Đạo (Aṭṭhaṅgikasutta)
+### AN 4.205 Kinh Bát Chánh Đạo (Aṭṭhaṅgikasutta)
 
 "Này các Tỳ kheo, Ta sẽ giảng cho các ông về người không chân thật và người còn không chân thật hơn, về người chân thật và người còn chân thật hơn.
 
@@ -67,7 +67,7 @@ Và thế nào là người chân thật? Đó là người có chánh kiến, *
 Và thế nào là người còn chân thật hơn? Đó là người có chánh kiến, chánh tư duy, chánh ngữ, chánh nghiệp, chánh mạng, chánh tinh tấn, chánh niệm, và chánh định. Và họ còn khuyến khích người khác có những phẩm chất tương tự. Đây được gọi là người còn chân thật hơn."
 
 <!--pg-->
-### N 4.206 Kinh Mười Yếu Tố Đạo (Dasamaggasutta)
+### AN 4.206 Kinh Mười Yếu Tố Đạo (Dasamaggasutta)
 
 "Này các Tỳ kheo, Ta sẽ giảng cho các ông về người không chân thật và người còn không chân thật hơn, về người chân thật và người còn chân thật hơn.
 
@@ -80,7 +80,7 @@ Và thế nào là người chân thật? Đó là người có chánh kiến, c
 Và thế nào là người còn chân thật hơn? Đó là người có chánh kiến, chánh tư duy, chánh ngữ, chánh nghiệp, chánh mạng, chánh tinh tấn, chánh niệm, chánh định, chánh trí, và chánh giải thoát. Và họ còn khuyến khích người khác có những phẩm chất tương tự. Đây được gọi là người còn chân thật hơn."
 
 <!--pg-->
-### N 4.207 Kinh Pháp Xấu Ác Thứ Nhất (Paṭhamapāpadhammasutta)
+### AN 4.207 Kinh Pháp Xấu Ác Thứ Nhất (Paṭhamapāpadhammasutta)
 
 "Này các Tỳ kheo, Ta sẽ giảng cho các ông về người xấu và người xấu hơn, người tốt và người tốt hơn.
 
@@ -93,7 +93,7 @@ Và ai là người tốt? Đó là người không sát sanh, không trộm c�
 Và ai là người tốt hơn? Đó là người không sát sanh, không trộm cắp, không tà dâm. Họ không dùng lời nói dối, nói đâm thọc, nói lời thô ác, hay nói lời phù phiếm. Họ không tham lam, không sân hận, có chánh kiến. Và họ còn khuyến khích người khác làm những việc này. Đây được gọi là người tốt hơn."
 
 <!--pg-->
-### N 4.208 Kinh Pháp Xấu Ác Thứ Hai (Dutiyapāpadhammasutta)
+### AN 4.208 Kinh Pháp Xấu Ác Thứ Hai (Dutiyapāpadhammasutta)
 
 "Này các Tỳ kheo, Ta sẽ giảng cho các ông về người xấu và người xấu hơn, người tốt và người tốt hơn.
 
@@ -106,7 +106,7 @@ Và ai là người tốt? Đó là người có chánh kiến, chánh tư duy, 
 Và ai là người tốt hơn? Đó là người có chánh kiến, chánh tư duy, chánh ngữ, chánh nghiệp, chánh mạng, chánh tinh tấn, chánh niệm, chánh định, chánh trí, và chánh giải thoát. Và họ còn khuyến khích người khác có những phẩm chất tương tự. Đây được gọi là người tốt hơn."
 
 <!--pg-->
-### N 4.209 Kinh Pháp Xấu Ác Thứ Ba (Tatiyapāpadhammasutta)
+### AN 4.209 Kinh Pháp Xấu Ác Thứ Ba (Tatiyapāpadhammasutta)
 
 "Này các Tỳ kheo, Ta sẽ giảng cho các ông về *pháp xấu ác* (bad character / phẩm chất xấu) và pháp xấu ác hơn, *pháp tốt lành* (good character / phẩm chất tốt) và pháp tốt lành hơn.
 
@@ -119,7 +119,7 @@ Và ai có pháp tốt lành? Đó là người không sát sanh, không trộm 
 Và ai có pháp tốt lành hơn? Đó là người không sát sanh, không trộm cắp, không tà dâm. Họ không dùng lời nói dối, nói đâm thọc, nói lời thô ác, hay nói lời phù phiếm. Họ không tham lam, không sân hận, có chánh kiến. Và họ còn khuyến khích người khác làm những việc này. Đây được gọi là người có pháp tốt lành hơn."
 
 <!--pg-->
-### N 4.210 Kinh Pháp Xấu Ác Thứ Tư (Catutthapāpadhammasutta)
+### AN 4.210 Kinh Pháp Xấu Ác Thứ Tư (Catutthapāpadhammasutta)
 
 "Này các Tỳ kheo, Ta sẽ giảng cho các ông về pháp xấu ác và pháp xấu ác hơn, pháp tốt lành và pháp tốt lành hơn.
 

@@ -1,6 +1,6 @@
 # The Chapter on a Spike
 
-### N 1.41--50 *Paṇihitaacchavagga*
+### AN 1.41--50 *Paṇihitaacchavagga*
 
 41\. "Mendicants, suppose a spike of rice or barley was pointing the wrong
 way. If you trod on it with hand or foot, it is impossible for it to

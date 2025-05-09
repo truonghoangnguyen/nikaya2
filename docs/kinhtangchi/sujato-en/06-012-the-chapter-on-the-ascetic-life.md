@@ -1,6 +1,6 @@
 # The Chapter on the Ascetic Life
 
-### N 6.117 Observing the Body  *Kāyānupassīsutta*
+### AN 6.117 Observing the Body  *Kāyānupassīsutta*
 
 "Mendicants, without giving up these six qualities you can't meditate
 observing an aspect of the body. What six? Relishing work, talk, sleep,
@@ -14,7 +14,7 @@ not guarding the sense doors, and eating too much. After giving up these
 six qualities you can meditate observing an aspect of the body."
 
 <!--pg-->
-### N 6.118 Observing Principles, Etc.  *Dhammānupassīsutta*
+### AN 6.118 Observing Principles, Etc.  *Dhammānupassīsutta*
 
 "Mendicants, without giving up six things you can't meditate observing
 an aspect of the body internally ... body externally ... body internally
@@ -27,7 +27,7 @@ doors, and eating too much. After giving up these six qualities you can
 meditate observing an aspect of principles internally and externally."
 
 <!--pg-->
-### N 6.119 About Tapussa  *Tapussasutta*
+### AN 6.119 About Tapussa  *Tapussasutta*
 
 "Mendicants, having six qualities the householder Tapussa is certain
 about the Realized One, sees freedom from death and lives having
@@ -38,7 +38,7 @@ Tapussa is certain about the Realized One, sees freedom from death and
 lives having realized freedom from death."
 
 <!--pg-->
-### N 6.120--139 About Bhallika, Etc.  *Bhallikādisutta*
+### AN 6.120--139 About Bhallika, Etc.  *Bhallikādisutta*
 
 "Mendicants, having six qualities the householders Bhallika ... Sudatta
 Anāthapiṇḍika ... Citta of Macchikāsaṇḍa ...
@@ -58,7 +58,7 @@ from death and lives having realized freedom from death."
 
 ## Abbreviated Texts Beginning With Greed
 
-### N 6.140 Untitled Discourse on Greed (1st)  *\~*
+### AN 6.140 Untitled Discourse on Greed (1st)  *\~*
 
 "For insight into greed, six things should be developed. What six? The
 unsurpassable seeing, listening, acquisition, training, service, and
@@ -66,7 +66,7 @@ recollection. For insight into greed, these six things should be
 developed."
 
 <!--pg-->
-### N 6.141 Untitled Discourse on Greed (2nd)  *\~*
+### AN 6.141 Untitled Discourse on Greed (2nd)  *\~*
 
 "For insight into greed, six things should be developed. What six? The
 recollection of the Buddha, the teaching, the Saṅgha,
@@ -74,7 +74,7 @@ ethics, generosity, and the deities. For insight into greed, these six
 things should be developed."
 
 <!--pg-->
-### N 6.142 Untitled Discourse on Greed (3rd)  *\~*
+### AN 6.142 Untitled Discourse on Greed (3rd)  *\~*
 
 "For insight into greed, six things should be developed. What six? The
 perception of impermanence, the perception of suffering in impermanence,
@@ -83,14 +83,14 @@ the perception of fading away, and the perception of cessation. For
 insight into greed, these six things should be developed."
 
 <!--pg-->
-### N 6.143--169 Untitled Discourses on Greed, Etc.  *\~*
+### AN 6.143--169 Untitled Discourses on Greed, Etc.  *\~*
 
 "For the complete understanding of greed ... complete ending ... giving
 up ... ending ... vanishing ... fading away ... cessation ... giving
 away ... letting go of greed these six things should be developed."
 
 <!--pg-->
-### N 6.170--649 Untitled Discourses on Hate, Etc.  *\~*
+### AN 6.170--649 Untitled Discourses on Hate, Etc.  *\~*
 
 "Of hate ... delusion ... anger ... acrimony ... disdain ... contempt
 ... jealousy ... stinginess ... deceitfulness ... deviousness ...

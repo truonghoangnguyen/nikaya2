@@ -1,6 +1,6 @@
 # The Chapter on Perceptions
 
-### N 5.61 Perceptions (1st)  *Paṭhamasaññāsutta*
+### AN 5.61 Perceptions (1st)  *Paṭhamasaññāsutta*
 
 "Mendicants, these five perceptions, when developed and cultivated, are
 very fruitful and beneficial. They culminate in freedom from death and
@@ -11,7 +11,7 @@ very fruitful and beneficial. They culminate in freedom from death and
 end in freedom from death."
 
 <!--pg-->
-### N 5.62 Perceptions (2nd)  *Dutiyasaññāsutta*
+### AN 5.62 Perceptions (2nd)  *Dutiyasaññāsutta*
 
 "Mendicants, these five perceptions, when developed and cultivated, are
 very fruitful and beneficial. They culminate in freedom from death and
@@ -22,7 +22,7 @@ very fruitful and beneficial. They culminate in freedom from death and
 end in freedom from death."
 
 <!--pg-->
-### N 5.63 Growth (1st)  *Paṭhamavaḍḍhisutta*
+### AN 5.63 Growth (1st)  *Paṭhamavaḍḍhisutta*
 
 "Mendicants, a male noble disciple who grows in five ways grows nobly,
 taking on what is essential and excellent in this life. What five? He
@@ -36,7 +36,7 @@ essential and excellent in this life.
 > and takes on what is essential for himself in this life."
 
 <!--pg-->
-### N 5.64 Growth (2nd)  *Dutiyavaḍḍhisutta*
+### AN 5.64 Growth (2nd)  *Dutiyavaḍḍhisutta*
 
 "Mendicants, a female noble disciple who grows in five ways grows nobly,
 taking on what is essential and excellent in this life. What five? She
@@ -50,7 +50,7 @@ essential and excellent in this life.
 > takes on what is essential for herself in this life."
 
 <!--pg-->
-### N 5.65 Discussion  *Sākacchasutta*
+### AN 5.65 Discussion  *Sākacchasutta*
 
 "Mendicants, a mendicant with five qualities is fit to hold a discussion
 with their spiritual companions. What five?
@@ -75,7 +75,7 @@ A mendicant with these five qualities is fit to hold a discussion with
 their spiritual companions."
 
 <!--pg-->
-### N 5.66 Sharing Life  *Sājīvasutta*
+### AN 5.66 Sharing Life  *Sājīvasutta*
 
 "Mendicants, a mendicant with five qualities is fit to share their life
 with their spiritual companions. What five?
@@ -100,7 +100,7 @@ A mendicant with these five qualities is fit to share their life with
 their spiritual companions."
 
 <!--pg-->
-### N 5.67 Bases of Psychic Power (1st)  *Paṭhamaiddhipādasutta*
+### AN 5.67 Bases of Psychic Power (1st)  *Paṭhamaiddhipādasutta*
 
 "Mendicants, any monk or nun who develops and cultivates five qualities
 can expect one of two results: enlightenment in this very life, or if
@@ -127,7 +127,7 @@ expect one of two results: enlightenment in this very life, or if
 there's something left over, non-return."
 
 <!--pg-->
-### N 5.68 Bases of Psychic Power (2nd)  *Dutiyaiddhipādasutta*
+### AN 5.68 Bases of Psychic Power (2nd)  *Dutiyaiddhipādasutta*
 
 "Mendicants, before my awakening---when I was still not awake but intent
 on awakening---I developed and cultivated five things. What five?
@@ -154,7 +154,7 @@ own insight due to the ending of defilements.' I was capable of
 realizing it, since each and every one is within range."
 
 <!--pg-->
-### N 5.69 Disillusionment  *Nibbidāsutta*
+### AN 5.69 Disillusionment  *Nibbidāsutta*
 
 "Mendicants, these five things, when developed and cultivated, lead
 solely to disillusionment, dispassion, cessation, peace, insight,
@@ -170,7 +170,7 @@ disillusionment, dispassion, cessation, peace, insight, awakening, and
 extinguishment."
 
 <!--pg-->
-### N 5.70 The Ending of Defilements  *Āsavakkhayasutta*
+### AN 5.70 The Ending of Defilements  *Āsavakkhayasutta*
 
 "Mendicants, these five things, when developed and cultivated, lead to
 the ending of defilements. What five? A mendicant meditates observing

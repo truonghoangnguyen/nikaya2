@@ -1,7 +1,7 @@
 # The Chapter on Deeds
 
 
-### N 4.232 Deeds In Brief *Saṁkhittasutta*
+### AN 4.232 Deeds In Brief *Saṁkhittasutta*
 
 "Mendicants, I declare these four kinds of deeds, having realized them
 with my own insight. What four?
@@ -19,7 +19,7 @@ These are the four kinds of deeds that I declare, having realized them
 with my own insight."
 
 <!--pg-->
-### N 4.233 Deeds in Detail *Vitthārasutta*
+### AN 4.233 Deeds in Detail *Vitthārasutta*
 
 "Mendicants, I declare these four kinds of deeds, having realized them
 with my own insight. What four?
@@ -68,7 +68,7 @@ These are the four kinds of deeds that I declare, having realized them
 with my own insight."
 
 <!--pg-->
-### N 4.234 About Soṇakāyana *Soṇakāyanasutta*
+### AN 4.234 About Soṇakāyana *Soṇakāyanasutta*
 
 Then Sikhāmoggallāna the brahmin went up to the Buddha, and
 exchanged greetings with him. When the greetings and polite conversation
@@ -125,7 +125,7 @@ These are the four kinds of deeds that I declare, having realized them
 with my own insight."
 
 <!--pg-->
-### N 4.235 Training Rules (1st) *Paṭhamasikkhāpadasutta*
+### AN 4.235 Training Rules (1st) *Paṭhamasikkhāpadasutta*
 
 "Mendicants, I declare these four kinds of deeds, having realized them
 with my own insight. What four?
@@ -165,7 +165,7 @@ These are the four kinds of deeds that I declare, having realized them
 with my own insight."
 
 <!--pg-->
-### N 4.236 Training Rules (2nd) *Dutiyasikkhāpadasutta*
+### AN 4.236 Training Rules (2nd) *Dutiyasikkhāpadasutta*
 
 "Mendicants, I declare these four kinds of deeds, having realized them
 with my own insight. What four?
@@ -206,7 +206,7 @@ These are the four kinds of deeds that I declare, having realized them
 with my own insight."
 
 <!--pg-->
-### N 4.237 The Noble Path *Ariyamaggasutta*
+### AN 4.237 The Noble Path *Ariyamaggasutta*
 
 "Mendicants, I declare these four kinds of deeds, having realized them
 with my own insight. What four?
@@ -244,7 +244,7 @@ These are the four kinds of deeds that I declare, having realized them
 with my own insight."
 
 <!--pg-->
-### N 4.238 Awakening Factors *Bojjhaṅgasutta*
+### AN 4.238 Awakening Factors *Bojjhaṅgasutta*
 
 "Mendicants, I declare these four kinds of deeds, having realized them
 with my own insight....
@@ -273,7 +273,7 @@ These are the four kinds of deeds that I declare, having realized them
 with my own insight."
 
 <!--pg-->
-### N 4.239 Blameworthy *Sāvajjasutta*
+### AN 4.239 Blameworthy *Sāvajjasutta*
 
 "Mendicants, someone with four qualities is cast down to hell. What
 four? Blameworthy deeds by way of body, speech, and mind, and
@@ -285,7 +285,7 @@ deeds by way of body, speech, and mind, and blameless view. Someone with
 these four qualities is raised up to heaven."
 
 <!--pg-->
-### N 4.240 Pleasing *Abyābajjhasutta*
+### AN 4.240 Pleasing *Abyābajjhasutta*
 
 "Mendicants, someone with four qualities is cast down to hell. What
 four? Hurtful deeds by way of body, speech, and mind, and hurtful view.
@@ -296,7 +296,7 @@ deeds by way of body, speech, and mind, and pleasing view. Someone with
 these four qualities is raised up to heaven."
 
 <!--pg-->
-### N 4.241 Ascetics *Samaṇasutta*
+### AN 4.241 Ascetics *Samaṇasutta*
 
 "'Only here is there a first ascetic, here a second ascetic, here a
 third ascetic, and here a fourth ascetic. Other sects are empty of
@@ -327,7 +327,7 @@ ascetic, and here a fourth ascetic. Other sects are empty of ascetics.'
 This, mendicants, is how you should rightly roar your lion's roar."
 
 <!--pg-->
-### N 4.242 Benefits of Relying on a True Person *Sappurisānisaṁsasutta*
+### AN 4.242 Benefits of Relying on a True Person *Sappurisānisaṁsasutta*
 
 "Mendicants, you can expect four benefits from relying on a true person.
 What four? Growth in noble ethics, immersion, wisdom, and freedom. You

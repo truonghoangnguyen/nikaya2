@@ -3,7 +3,8 @@ import { ref, onMounted, computed } from 'vue'
 import MarkdownIt from 'markdown-it'
 import anchor from 'markdown-it-anchor'
 // import MarkdownItFootnote from 'markdown-it-footnote'
-import slugify from '@sindresorhus/slugify';
+// import slugify from '@sindresorhus/slugify';
+import { slugAnchor } from '../utils';
 
 interface Props {
   leftPath: string
@@ -14,8 +15,8 @@ interface Props {
 }
 
 const props = withDefaults(defineProps<Props>(), {
-  leftTitle: 'Text 1',
-  rightTitle: 'Text 2',
+  leftTitle: 'Left',
+  rightTitle: 'Right',
   notePath: ''
 })
 
@@ -31,7 +32,7 @@ const mdLeft = new MarkdownIt({
       symbol: '',
         placement: 'before'
       }),
-      slugify: (s) => slugify(s),
+      slugify: (s) => slugAnchor(s),
   })//.use(MarkdownItFootnote);
 
 const mdRight = new MarkdownIt({

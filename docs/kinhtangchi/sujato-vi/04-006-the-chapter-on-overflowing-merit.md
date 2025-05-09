@@ -1,6 +1,6 @@
 # Chương về Phước Tuôn Chảy
 
-### N 4.51 Phước Tuôn Chảy (1) *Paṭhamapuññābhisandasutta*
+### AN 4.51 Phước Tuôn Chảy (1) *Paṭhamapuññābhisandasutta*
 
 Tại Sāvatthī.
 
@@ -34,7 +34,7 @@ Cũng vậy, khi một thánh đệ tử có được bốn loại dòng phướ
 > Như sông ngòi mang nước về biển cả."
 
 <!--pg-->
-### N 4.52 Phước Tuôn Chảy (2) *Dutiyapuññābhisandasutta*
+### AN 4.52 Phước Tuôn Chảy (2) *Dutiyapuññābhisandasutta*
 
 "Này các Tỳ kheo, có bốn loại dòng phước, dòng thiện này. Chúng nuôi dưỡng an lạc, đưa đến cõi trời, chín muồi trong an lạc và dẫn đến cõi trời. Chúng dẫn đến những gì đáng ưa thích, đáng mong muốn, đáng hài lòng, đến lợi ích và an lạc. Bốn loại đó là gì?
 
@@ -64,7 +64,7 @@ Lại nữa, *giới hạnh* (ethical conduct / hành vi đạo đức) của m�
 > Nhớ lời dạy của chư Phật."
 
 <!--pg-->
-### N 4.53 Chung Sống (1) *Paṭhamasaṁvāsasutta*
+### AN 4.53 Chung Sống (1) *Paṭhamasaṁvāsasutta*
 
 Có một thời Đức Phật đang đi trên con đường giữa Madhurā và Verañjā, cùng lúc đó cũng có nhiều *gia chủ* (householders / chủ nhà, người tại gia), cả nam lẫn nữ. Đức Phật rời khỏi con đường và ngồi dưới gốc cây, nơi các gia chủ nhìn thấy Ngài.
 
@@ -122,7 +122,7 @@ Và thế nào là một nam thiên sống với một nữ thiên? Đó là khi
 > Hưởng thụ mọi lạc thú mong muốn."
 
 <!--pg-->
-### N 4.54 Chung Sống (2) *Dutiyasaṁvāsasutta*
+### AN 4.54 Chung Sống (2) *Dutiyasaṁvāsasutta*
 
 "Này các Tỳ kheo, có bốn cách chung sống. Bốn cách đó là gì?
 
@@ -142,7 +142,7 @@ Và thế nào là một nam thiên sống với một nữ thiên? Đó là khi
 Đây là bốn cách chung sống." ...
 
 <!--pg-->
-### N 4.55 Đồng Đẳng (1) *Paṭhamasamajīvīsutta*
+### AN 4.55 Đồng Đẳng (1) *Paṭhamasamajīvīsutta*
 
 Như vầy tôi nghe. Một thời Đức Phật trú ở xứ Bhagga, tại Đồi Cá Sấu, trong vườn nai ở Rừng Bhesakaḷā.
 
@@ -170,12 +170,12 @@ Rồi Nakulamātā thưa với Đức Phật: "Bạch Thế Tôn, từ khi chún
 > Hưởng thụ mọi lạc thú mong muốn."
 
 <!--pg-->
-### N 4.56 Đồng Đẳng (2) *Dutiyasamajīvīsutta*
+### AN 4.56 Đồng Đẳng (2) *Dutiyasamajīvīsutta*
 
 "Này các Tỳ kheo, nếu vợ chồng muốn gặp lại nhau cả trong đời này và đời sau, họ nên đồng đẳng về tín, giới, thí, tuệ. ..."
 
 <!--pg-->
-### N 4.57 Suppavāsā *Suppavāsāsutta*
+### AN 4.57 Suppavāsā *Suppavāsāsutta*
 
 Một thời Đức Phật trú ở xứ Koliya, tại một thị trấn tên là Pajjanika.
 
@@ -197,7 +197,7 @@ Khi ấy, vào buổi sáng, Đức Phật đắp y, mang bát và y, đi đến
 > Không bị chê trách, họ đi đến cõi trời."
 
 <!--pg-->
-### N 4.58 Sudatta *Sudattasutta*
+### AN 4.58 Sudatta *Sudattasutta*
 
 Khi ấy, *gia chủ Anāthapiṇḍika* (householder Anāthapiṇḍika / Cấp Cô Độc) đến gần Đức Phật, đảnh lễ và ngồi xuống một bên. Đức Phật nói với ông:
 
@@ -215,12 +215,12 @@ Khi ấy, *gia chủ Anāthapiṇḍika* (householder Anāthapiṇḍika / Cấp
 > Bất cứ nơi nào họ tái sinh."
 
 <!--pg-->
-### N 4.59 Vật Thực *Bhojanasutta*
+### AN 4.59 Vật Thực *Bhojanasutta*
 
 "Này các Tỳ kheo, khi một người thí chủ cúng dường vật thực, họ trao cho người nhận bốn điều. Bốn điều đó là gì? Sống lâu, dung sắc, an lạc, và sức mạnh. ..."
 
 <!--pg-->
-### N 4.60 Phận Sự Cư Sĩ *Gihisāmīcisutta*
+### AN 4.60 Phận Sự Cư Sĩ *Gihisāmīcisutta*
 
 Khi ấy, gia chủ Anāthapiṇḍika đến gần Đức Phật, đảnh lễ và ngồi xuống một bên. Đức Phật nói với ông:
 

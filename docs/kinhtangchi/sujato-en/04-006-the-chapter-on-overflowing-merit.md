@@ -1,7 +1,7 @@
 # The Chapter on Overflowing Merit
 
 
-### N 4.51 Overflowing Merit *Paṭhamapuññābhisandasutta*
+### AN 4.51 Overflowing Merit *Paṭhamapuññābhisandasutta*
 
 At Sāvatthī.
 
@@ -58,7 +58,7 @@ great mass of merit.
 > as the rivers bring their waters to the sea."
 
 <!--pg-->
-### N 4.52 Overflowing Merit (2nd) *Dutiyapuññābhisandasutta*
+### AN 4.52 Overflowing Merit (2nd) *Dutiyapuññābhisandasutta*
 
 "Mendicants, there are these four kinds of overflowing merit,
 overflowing goodness. They nurture happiness and are conducive to
@@ -113,7 +113,7 @@ desirable, agreeable, to welfare and happiness.
 > remembering the instructions of the Buddhas."
 
 <!--pg-->
-### N 4.53 Living Together (1st) *Paṭhamasaṁvāsasutta*
+### AN 4.53 Living Together (1st) *Paṭhamasaṁvāsasutta*
 
 At one time the Buddha was traveling along the road between
 Madhurā and Verañjā, as were several
@@ -193,7 +193,7 @@ These are the four ways of living together.
 > enjoying all the pleasures they desire."
 
 <!--pg-->
-### N 4.54 Living Together (2nd) *Dutiyasaṁvāsasutta*
+### AN 4.54 Living Together (2nd) *Dutiyasaṁvāsasutta*
 
 "Mendicants, there are four ways of living together. What four?
 
@@ -234,7 +234,7 @@ character ... That's how a god lives with a goddess.
 These are the four ways of living together." ...
 
 <!--pg-->
-### N 4.55 Equality (1st) *Paṭhamasamajīvīsutta*
+### AN 4.55 Equality (1st) *Paṭhamasamajīvīsutta*
 
 So I have heard. At one time the Buddha was staying in the
 land of the Bhaggas at Crocodile Hill, in the deer park at
@@ -276,14 +276,14 @@ and wisdom.
 > enjoying all the pleasures they desire."
 
 <!--pg-->
-### N 4.56 Equality (2nd) *Dutiyasamajīvīsutta*
+### AN 4.56 Equality (2nd) *Dutiyasamajīvīsutta*
 
 "Mendicants, if wife and husband want to see each other in both this
 life and the next, they should be equals in faith, ethics, generosity,
 and wisdom. ..."
 
 <!--pg-->
-### N 4.57 Suppavāsā *Suppavāsāsutta*
+### AN 4.57 Suppavāsā *Suppavāsāsutta*
 
 At one time the Buddha was staying in the land of the Koliyans, where
 they have a town named Pajjanika.
@@ -317,7 +317,7 @@ these four things.
 > blameless, they go to a heavenly place."
 
 <!--pg-->
-### N 4.58 Sudatta *Sudattasutta*
+### AN 4.58 Sudatta *Sudattasutta*
 
 Then the householder Anāthapiṇḍika went up to the Buddha,
 bowed, and sat down to one side. The Buddha said to him:
@@ -340,13 +340,13 @@ they give the recipients these four things.
 > wherever they're reborn."
 
 <!--pg-->
-### N 4.59 Food *Bhojanasutta*
+### AN 4.59 Food *Bhojanasutta*
 
 "Mendicants, when a donor gives food, they give the recipients four
 things. What four? Long life, beauty, happiness, and strength. ..."
 
 <!--pg-->
-### N 4.60 Lay Practice *Gihisāmīcisutta*
+### AN 4.60 Lay Practice *Gihisāmīcisutta*
 
 Then the householder Anāthapiṇḍika went up to the Buddha,
 bowed, and sat down to one side. The Buddha said to him:

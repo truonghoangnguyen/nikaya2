@@ -1,7 +1,7 @@
 # The Chapter on Perils of Offenses
 
 
-### N 4.243 Schism in the Saṅgha *Saṁghabhedakasutta*
+### AN 4.243 Schism in the Saṅgha *Saṁghabhedakasutta*
 
 At one time the Buddha was staying near Kosambī, in
 Ghosita's Monastery. Then Venerable Ānanda went up to the Buddha, bowed,
@@ -49,7 +49,7 @@ A bad monk sees these four reasons to relish schism in the
 Saṅgha."
 
 <!--pg-->
-### N 4.244 Perils of Offenses *Āpattibhayasutta*
+### AN 4.244 Perils of Offenses *Āpattibhayasutta*
 
 "Mendicants, there are these four perils of offenses. What four?
 
@@ -105,7 +105,7 @@ they committed one they will deal with it properly.
 These are the four perils of offenses."
 
 <!--pg-->
-### N 4.245 The Benefits of Training *Sikkhānisaṁsasutta*
+### AN 4.245 The Benefits of Training *Sikkhānisaṁsasutta*
 
 "Mendicants, this spiritual life is lived with training as its benefit,
 with wisdom as its overseer, with freedom as its core, and with
@@ -152,7 +152,7 @@ as its overseer, with freedom as its core, and with mindfulness as its
 ruler.' That's what I said, and this is why I said it."
 
 <!--pg-->
-### N 4.246 Lying Postures *Seyyāsutta*
+### AN 4.246 Lying Postures *Seyyāsutta*
 
 "Mendicants, there are these four ways of lying down. What four? The
 ways a corpse, a pleasure seeker, a lion, and a Realized One lie down.
@@ -181,7 +181,7 @@ Realized One lies down.
 These are the four ways of lying down."
 
 <!--pg-->
-### N 4.247 Worthy of a Monument *Thūpārahasutta*
+### AN 4.247 Worthy of a Monument *Thūpārahasutta*
 
 "Mendicants, these four are worthy of a monument. What four? A Realized
 One, a perfected one, a fully awakened Buddha; an Independent Buddha; a
@@ -189,7 +189,7 @@ disciple of a Realized One; and a wheel-turning monarch. These four are
 worthy of a monument."
 
 <!--pg-->
-### N 4.248 The Growth of Wisdom *Paññāvuddhisutta*
+### AN 4.248 The Growth of Wisdom *Paññāvuddhisutta*
 
 "Mendicants, these four things lead to the growth of wisdom. What four?
 Associating with true persons, listening to the true teaching, rational
@@ -197,7 +197,7 @@ application of mind, and practicing in line with the teaching. These
 four things lead to the growth of wisdom."
 
 <!--pg-->
-### N 4.249 Very Helpful *Bahukārasutta*
+### AN 4.249 Very Helpful *Bahukārasutta*
 
 "Mendicants, these four things are very helpful to a human being. What
 four? Associating with true persons, listening to the true teaching,
@@ -205,28 +205,28 @@ rational application of mind, and practicing in line with the teaching.
 These four things are very helpful to a human being."
 
 <!--pg-->
-### N 4.250 Expressions (1st) *Paṭhamavohārasutta*
+### AN 4.250 Expressions (1st) *Paṭhamavohārasutta*
 
 "Mendicants, there are these four ignoble expressions. What four? Saying
 you've seen, heard, thought, or known something, but you haven't. These
 are the four ignoble expressions."
 
 <!--pg-->
-### N 4.251 Expressions (2nd) *Dutiyavohārasutta*
+### AN 4.251 Expressions (2nd) *Dutiyavohārasutta*
 
 "Mendicants, there are these four noble expressions. What four? Saying
 you haven't seen, heard, thought, or known something, and you haven't.
 These are the four noble expressions."
 
 <!--pg-->
-### N 4.252 Expressions (3rd) *Tatiyavohārasutta*
+### AN 4.252 Expressions (3rd) *Tatiyavohārasutta*
 
 "Mendicants, there are these four ignoble expressions. What four? Saying
 you haven't seen, heard, thought, or known something, and you have.
 These are the four ignoble expressions."
 
 <!--pg-->
-### N 4.253 Expressions (4th) *Catutthavohārasutta*
+### AN 4.253 Expressions (4th) *Catutthavohārasutta*
 
 "Mendicants, there are these four noble expressions. What four? Saying
 you've seen, heard, thought, or known something, and you have. These are

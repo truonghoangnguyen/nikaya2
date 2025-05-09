@@ -1,40 +1,34 @@
-# Chương về Tâm Không Được Điều Phục (Adantavagga)
+# Phẩm Về Tâm Chưa Thuần Phục
 
-31\. Này các Tỳ-kheo, Ta không thấy một pháp nào khác mà khi không được *điều phục* (tamed - danta), lại có hại nhiều như *tâm* (mind - citta). *Tâm* không được điều phục thì rất *có hại* (harmful - anatthasaṃhita).
+### AN 1.31--40 *Adantavagga*
 
-<!--pg-->
-32\. Này các Tỳ-kheo, Ta không thấy một pháp nào khác mà khi được *điều phục*, lại có lợi nhiều như *tâm*. *Tâm* được điều phục thì rất *có lợi* (beneficial - atthasaṃhita).
-
-<!--pg-->
-33\. Này các Tỳ-kheo, Ta không thấy một pháp nào khác mà khi không được *gìn giữ* (guarded - gutta), lại có hại nhiều như *tâm*. *Tâm* không được gìn giữ thì rất *có hại*.
+31\. "Này các Tỳ kheo, Ta không thấy một pháp nào khác, khi không được *thuần phục* (not tamed / không được rèn luyện hay điều phục), lại nguy hại nhiều như tâm. Tâm không được *thuần phục* thì rất nguy hại."
 
 <!--pg-->
-34\. Này các Tỳ-kheo, Ta không thấy một pháp nào khác mà khi được *gìn giữ*, lại có lợi nhiều như *tâm*. *Tâm* được gìn giữ thì rất *có lợi*.
+32\. "Này các Tỳ kheo, Ta không thấy một pháp nào khác, khi được *thuần phục* (tamed / được rèn luyện và điều phục), lại lợi ích nhiều như tâm. Tâm được *thuần phục* thì rất lợi ích."
 
 <!--pg-->
-35\. Này các Tỳ-kheo, Ta không thấy một pháp nào khác mà khi không được *bảo vệ* (protected - rakkhita), lại có hại nhiều như *tâm*. *Tâm* không được bảo vệ thì rất *có hại*.
+33\. "Này các Tỳ kheo, Ta không thấy một pháp nào khác, khi không được *hộ trì* (not guarded / không được trông nom, gìn giữ), lại nguy hại nhiều như tâm. Tâm không được *hộ trì* thì rất nguy hại."
 
 <!--pg-->
-36\. Này các Tỳ-kheo, Ta không thấy một pháp nào khác mà khi được *bảo vệ*, lại có lợi nhiều như *tâm*. *Tâm* được bảo vệ thì rất *có lợi*.
+34\. "Này các Tỳ kheo, Ta không thấy một pháp nào khác, khi được *hộ trì* (guarded / được trông nom, gìn giữ), lại lợi ích nhiều như tâm. Tâm được *hộ trì* thì rất lợi ích."
 
 <!--pg-->
-37\. Này các Tỳ-kheo, Ta không thấy một pháp nào khác mà khi không được *chế ngự* (restrained - saṃyata), lại có hại nhiều như *tâm*. *Tâm* không được chế ngự thì rất *có hại*.
+35\. "Này các Tỳ kheo, Ta không thấy một pháp nào khác, khi không được *phòng hộ* (not protected / không được che chở, giữ gìn), lại nguy hại nhiều như tâm. Tâm không được *phòng hộ* thì rất nguy hại."
 
 <!--pg-->
-38\. Này các Tỳ-kheo, Ta không thấy một pháp nào khác mà khi được *chế ngự*, lại có lợi nhiều như *tâm*. *Tâm* được chế ngự thì rất *có lợi*.
+36\. "Này các Tỳ kheo, Ta không thấy một pháp nào khác, khi được *phòng hộ* (protected / được che chở, giữ gìn), lại lợi ích nhiều như tâm. Tâm được *phòng hộ* thì rất lợi ích."
 
 <!--pg-->
-39\. Này các Tỳ-kheo, Ta không thấy một pháp nào khác mà khi không được *điều phục*, *gìn giữ*, *bảo vệ* và *chế ngự*, lại có hại nhiều như *tâm*. *Tâm* không được điều phục, gìn giữ, bảo vệ và chế ngự thì rất *có hại*.
+37\. "Này các Tỳ kheo, Ta không thấy một pháp nào khác, khi không được *thu thúc* (not restrained / không được kiềm chế, kiểm soát), lại nguy hại nhiều như tâm. Tâm không được *thu thúc* thì rất nguy hại."
 
 <!--pg-->
-40\. Này các Tỳ-kheo, Ta không thấy một pháp nào khác mà khi được *điều phục*, *gìn giữ*, *bảo vệ* và *chế ngự*, lại có lợi nhiều như *tâm*. *Tâm* được điều phục, gìn giữ, bảo vệ và chế ngự thì rất *có lợi*.
+38\. "Này các Tỳ kheo, Ta không thấy một pháp nào khác, khi được *thu thúc* (restrained / được kiềm chế, kiểm soát), lại lợi ích nhiều như tâm. Tâm được *thu thúc* thì rất lợi ích."
 
 <!--pg-->
-Từ ngữ:
-- tâm - mind - citta: Chỉ ý thức, khả năng nhận biết và suy nghĩ của con người.
-- điều phục - tamed - danta: Được huấn luyện, kiểm soát, đưa vào khuôn khổ.
-- có hại - harmful - anatthasaṃhita: Gây ra tổn thất, bất lợi, không mang lại điều tốt đẹp.
-- có lợi - beneficial - atthasaṃhita: Mang lại điều tốt đẹp, lợi ích, phúc lợi.
-- gìn giữ - guarded - gutta: Được trông coi, bảo vệ khỏi sự xâm nhập hoặc ảnh hưởng xấu từ bên ngoài.
-- bảo vệ - protected - rakkhita: Được che chở, giữ gìn an toàn khỏi nguy hiểm hoặc tổn thương.
-- chế ngự - restrained - saṃyata: Được kiểm soát, kiềm chế, không cho hành động theo ý muốn bốc đồng.
+39\. "Này các Tỳ kheo, Ta không thấy một pháp nào khác, khi không được thuần phục, không được hộ trì, không được phòng hộ, và không được thu thúc, lại nguy hại nhiều như tâm. Tâm không được thuần phục, không được hộ trì, không được phòng hộ, và không được thu thúc thì rất nguy hại."
+
+<!--pg-->
+40\. "Này các Tỳ kheo, Ta không thấy một pháp nào khác, khi được thuần phục, được hộ trì, được phòng hộ, và được thu thúc, lại lợi ích nhiều như tâm. Tâm được thuần phục, được hộ trì, được phòng hộ, và được thu thúc thì rất lợi ích."
+
+<!--pg-->

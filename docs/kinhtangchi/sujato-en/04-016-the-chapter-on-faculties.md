@@ -1,41 +1,41 @@
 # The Chapter on Faculties
 
 
-### N 4.151 Faculties *Indriyasutta*
+### AN 4.151 Faculties *Indriyasutta*
 
 "Mendicants, there are these four faculties. What four? The faculties of
 faith, energy, mindfulness, and immersion. These are the four
 faculties."
 
 <!--pg-->
-### N 4.152 The Power of Faith *Saddhābalasutta*
+### AN 4.152 The Power of Faith *Saddhābalasutta*
 
 "Mendicants, there are these four powers. What four? The powers of
 faith, energy, mindfulness, and immersion. These are the four powers."
 
 <!--pg-->
-### N 4.153 The Power of Wisdom *Paññābalasutta*
+### AN 4.153 The Power of Wisdom *Paññābalasutta*
 
 "Mendicants, there are these four powers. What four? The powers of
 wisdom, energy, blamelessness, and inclusiveness. These are the four
 powers."
 
 <!--pg-->
-### N 4.154 The Power of Mindfulness *Satibalasutta*
+### AN 4.154 The Power of Mindfulness *Satibalasutta*
 
 "Mendicants, there are these four powers. What four? The powers of
 mindfulness, immersion, blamelessness, and inclusiveness. These are the
 four powers."
 
 <!--pg-->
-### N 4.155 The Power of Reflection *Paṭisaṅkhānabalasutta*
+### AN 4.155 The Power of Reflection *Paṭisaṅkhānabalasutta*
 
 "Mendicants, there are these four powers. What four? The powers of
 reflection, development, blamelessness, and inclusiveness. These are the
 four powers."
 
 <!--pg-->
-### N 4.156 Eons *Kappasutta*
+### AN 4.156 Eons *Kappasutta*
 
 "Mendicants, an eon contains four uncountable periods. What four?
 
@@ -56,7 +56,7 @@ it takes.
 These are the four uncountable periods of an eon."
 
 <!--pg-->
-### N 4.157 Illness *Rogasutta*
+### AN 4.157 Illness *Rogasutta*
 
 "Mendicants, there are two kinds of illness. What two? Mental and
 physical. Some sentient beings are seen who can claim to be free of
@@ -94,7 +94,7 @@ severe, acute, unpleasant, disagreeable, and life-threatening.' That's
 how you should train."
 
 <!--pg-->
-### N 4.158 Decline *Parihānisutta*
+### AN 4.158 Decline *Parihānisutta*
 
 There Sāriputta addressed the mendicants: "Reverends,
 mendicants!"
@@ -118,7 +118,7 @@ skillful qualities are not declining. For this is what the Buddha calls
 non-decline.'"
 
 <!--pg-->
-### N 4.159 Nun *Bhikkhunīsutta*
+### AN 4.159 Nun *Bhikkhunīsutta*
 
 So I have heard. At one time Venerable Ānanda was staying
 near Kosambī, in Ghosita's Monastery.
@@ -191,7 +191,7 @@ for what it is, deal with it properly, and commit to restraint in the
 future."
 
 <!--pg-->
-### N 4.160 The Training of a Holy One *Sugatavinayasutta*
+### AN 4.160 The Training of a Holy One *Sugatavinayasutta*
 
 "Mendicants, a Holy One or a Holy One's training remain in the world for
 the welfare and happiness of the people, out of sympathy for the world,

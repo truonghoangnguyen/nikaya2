@@ -1,6 +1,6 @@
 # Chương về Thắng Trí
 
-### N 4.254 Tuệ Giác (*Abhiññāsutta*)
+### AN 4.254 Tuệ Giác (*Abhiññāsutta*)
 
 "Này các *tỳ-khưu* (mendicant / vị khất sĩ nam trong Phật giáo), có bốn pháp này. Thế nào là bốn? Có những pháp cần được *liễu tri* (completely understood / hiểu biết trọn vẹn) bằng *thắng trí* (direct knowledge / trí tuệ trực tiếp, sự hiểu biết siêu việt). Có những pháp cần được *đoạn tận* (given up / từ bỏ hoàn toàn) bằng thắng trí. Có những pháp cần được *tu tập* (developed / thực hành, rèn luyện) bằng thắng trí. Có những pháp cần được *chứng ngộ* (realized / đạt được bằng sự hiểu biết trực tiếp) bằng thắng trí.
 
@@ -15,19 +15,19 @@ Và này các tỳ-khưu, thế nào là những pháp cần được chứng ng
 Này các tỳ-khưu, đó là bốn pháp."
 
 <!--pg-->
-### N 4.255 Tìm Cầu (*Pariyesanāsutta*)
+### AN 4.255 Tìm Cầu (*Pariyesanāsutta*)
 
 "Này các tỳ-khưu, có bốn *sự tìm cầu không cao thượng* này. Thế nào là bốn? Ở đây, có người tự mình *có bản chất già*, lại chỉ tìm cầu cái có bản chất già. Tự mình *có bản chất bệnh*, lại chỉ tìm cầu cái có bản chất bệnh. Tự mình *có bản chất chết*, lại chỉ tìm cầu cái có bản chất chết. Tự mình *có bản chất ô nhiễm*, lại chỉ tìm cầu cái có bản chất ô nhiễm. Này các tỳ-khưu, đó là bốn sự tìm cầu không cao thượng.
 
 Này các tỳ-khưu, có bốn *sự tìm cầu cao thượng* này. Thế nào là bốn? Ở đây, có người tự mình có bản chất già, sau khi biết rõ *sự nguy hại* (drawback / điều bất lợi, tác hại) của cái có bản chất già, liền tìm cầu cái *không già*, *an ổn tối thượng khỏi các ách trược* (supreme sanctuary from the yoke / nơi nương tựa cao nhất thoát khỏi sự ràng buộc), *Niết-bàn* (extinguishment / sự dập tắt hoàn toàn khổ đau). Tự mình có bản chất bệnh, sau khi biết rõ sự nguy hại của cái có bản chất bệnh, liền tìm cầu cái *không bệnh*, an ổn tối thượng khỏi các ách trược, Niết-bàn. Tự mình có bản chất chết, sau khi biết rõ sự nguy hại của cái có bản chất chết, liền tìm cầu cái *bất tử*, an ổn tối thượng khỏi các ách trược, Niết-bàn. Tự mình có bản chất ô nhiễm, sau khi biết rõ sự nguy hại của cái có bản chất ô nhiễm, liền tìm cầu cái *không ô nhiễm* (undefiled / không bị phiền não làm dơ bẩn), an ổn tối thượng khỏi các ách trược, Niết-bàn. Này các tỳ-khưu, đó là bốn sự tìm cầu cao thượng."
 
 <!--pg-->
-### N 4.256 Pháp Nhiếp Thọ (*Saṅgahavatthusutta*)
+### AN 4.256 Pháp Nhiếp Thọ (*Saṅgahavatthusutta*)
 
 "Này các tỳ-khưu, có bốn *pháp nhiếp thọ* (ways of being inclusive / những cách thu phục lòng người) này. Thế nào là bốn? *Bố thí* (Giving / sự cho đi), *ái ngữ* (kindly words / lời nói dễ thương), *lợi hành* (taking care / hành động vì lợi ích người khác), và *đồng sự* (equality / cùng làm việc, đối xử bình đẳng). Này các tỳ-khưu, đó là bốn pháp nhiếp thọ."
 
 <!--pg-->
-### N 4.257 Với Māluṅkyaputta (*Mālukyaputtasutta*)
+### AN 4.257 Với Māluṅkyaputta (*Mālukyaputtasutta*)
 
 Rồi *Tôn giả* (Venerable / từ tôn xưng các vị trưởng lão) Māluṅkyaputta đi đến *Đức Phật* (Buddha / bậc giác ngộ), đảnh lễ Ngài, ngồi xuống một bên và bạch rằng:
 
@@ -44,14 +44,14 @@ Khi Tôn giả Māluṅkyaputta được Đức Phật khuyên dạy như vậy,
 Vị ấy hiểu rõ: "*Sanh đã tận* (Rebirth is ended / sự tái sinh đã chấm dứt); *phạm hạnh đã thành* (the spiritual journey has been completed / đời sống tu tập đã hoàn mãn); *việc nên làm đã làm* (what had to be done has been done / những gì cần làm đã được làm xong); *không còn trở lui trạng thái này nữa* (there is nothing further for this place / không còn tái sinh trong bất kỳ cảnh giới nào nữa)." Và Tôn giả Māluṅkyaputta đã trở thành một trong các vị *A-la-hán* (perfected / bậc đã giác ngộ hoàn toàn, thoát khỏi sinh tử luân hồi).
 
 <!--pg-->
-### N 4.258 Gia Đình (*Kulasutta*)
+### AN 4.258 Gia Đình (*Kulasutta*)
 
 "Này các tỳ-khưu, khi các gia đình không giữ được sự giàu có lâu dài, luôn luôn là do một hay nhiều trong bốn lý do này. Thế nào là bốn? Họ không tìm kiếm những gì đã mất; họ không sửa chữa những thứ cũ hỏng; họ ăn uống quá độ; hoặc họ giao quyền quản lý cho một người nam hay nữ *phi giới đức* (unethical / không có đạo đức, không giữ giới). Khi các gia đình không giữ được sự giàu có lâu dài, luôn luôn là do một hay nhiều trong bốn lý do này.
 
 Khi các gia đình giữ được sự giàu có lâu dài, luôn luôn là do một hay nhiều trong bốn lý do này. Thế nào là bốn? Họ tìm kiếm những gì đã mất; họ sửa chữa những thứ cũ hỏng; họ ăn uống có chừng mực; và họ giao quyền quản lý cho một người nam hay nữ *giới đức* (ethical / có đạo đức, giữ giới). Khi các gia đình giữ được sự giàu có lâu dài, luôn luôn là do một hay nhiều trong bốn lý do này."
 
 <!--pg-->
-### N 4.259 Ngựa Thuần Chủng (1) (*Paṭhamaājānīyasutta*)
+### AN 4.259 Ngựa Thuần Chủng (1) (*Paṭhamaājānīyasutta*)
 
 "Này các tỳ-khưu, một *con ngựa thuần chủng tốt của vua* (fine royal thoroughbred / ngựa quý, giống tốt của nhà vua) có bốn yếu tố thì xứng đáng với vua, thích hợp để phục vụ vua, và được xem là một *yếu tố của vương quyền* (factor of kingship / phần quan trọng tạo nên uy quyền của vua). Thế nào là bốn? Đó là khi con ngựa thuần chủng tốt của vua *xinh đẹp* (beautiful / có vẻ ngoài ưa nhìn), *mạnh mẽ* (strong / có sức lực), *nhanh nhẹn* (fast / chạy nhanh), và *cân đối* (well-proportioned / có hình dáng hài hòa). Một con ngựa thuần chủng tốt của vua có bốn yếu tố này thì xứng đáng với vua...
 
@@ -68,7 +68,7 @@ Và thế nào là vị tỳ-khưu có tướng tốt? Này các tỳ-khưu, ở
 Này các tỳ-khưu, một tỳ-khưu có bốn pháp này... là phước điền vô thượng cho đời."
 
 <!--pg-->
-### N 4.260 Ngựa Thuần Chủng (2) (*Dutiyaājānīyasutta*)
+### AN 4.260 Ngựa Thuần Chủng (2) (*Dutiyaājānīyasutta*)
 
 "Này các tỳ-khưu, một con ngựa thuần chủng tốt của vua có bốn yếu tố thì xứng đáng với vua, thích hợp để phục vụ vua, và được xem là một yếu tố của vương quyền. Thế nào là bốn? Đó là khi con ngựa thuần chủng tốt của vua xinh đẹp, mạnh mẽ, nhanh nhẹn, và cân đối. Một con ngựa thuần chủng tốt của vua có bốn yếu tố này thì xứng đáng với vua...
 
@@ -85,19 +85,19 @@ Và thế nào là vị tỳ-khưu có tướng tốt? Này các tỳ-khưu, ở
 Này các tỳ-khưu, một tỳ-khưu có bốn pháp này... là phước điền vô thượng cho đời."
 
 <!--pg-->
-### N 4.261 Lực (*Balasutta*)
+### AN 4.261 Lực (*Balasutta*)
 
 "Này các tỳ-khưu, có bốn *lực* (powers / sức mạnh nội tâm) này. Thế nào là bốn? *Tấn* (energy / sự tinh tấn, nỗ lực) lực, *niệm* (mindfulness / sự chú tâm, ghi nhớ) lực, *định* (immersion / sự tập trung tâm ý) lực, và *tuệ* (wisdom / sự hiểu biết đúng đắn) lực. Này các tỳ-khưu, đó là bốn lực."
 
 <!--pg-->
-### N 4.262 Rừng Núi (*Araññasutta*)
+### AN 4.262 Rừng Núi (*Araññasutta*)
 
 "Này các tỳ-khưu, khi một tỳ-khưu có bốn pháp này thì không sẵn sàng để *sống ở những trú xứ xa vắng trong rừng núi* (frequent remote lodgings in the wilderness and the forest / ở nơi hẻo lánh, ít người). Thế nào là bốn? Vị ấy có *dục tầm* (sensual thoughts / suy nghĩ liên quan đến ham muốn giác quan), *sân tầm* (malicious thoughts / suy nghĩ liên quan đến sân hận), và *hại tầm* (cruel thoughts / suy nghĩ liên quan đến làm hại); hoặc vị ấy *ngu si, đần độn, câm đặc* (witless, dull, and idiotic / thiếu trí tuệ, chậm lụt). Khi một tỳ-khưu có bốn pháp này thì không sẵn sàng để sống ở những trú xứ xa vắng trong rừng núi.
 
 Này các tỳ-khưu, khi một tỳ-khưu có bốn pháp này thì sẵn sàng để sống ở những trú xứ xa vắng trong rừng núi. Thế nào là bốn? Vị ấy có *ly dục tầm* (thoughts of renunciation / suy nghĩ về sự từ bỏ ham muốn), *vô sân tầm* (good will / suy nghĩ về lòng từ), và *bất hại tầm* (harmlessness / suy nghĩ về lòng bi, không làm hại); và vị ấy *có trí tuệ, không đần độn, không câm đặc* (wise, bright, and clever / sáng suốt, thông minh). Khi một tỳ-khưu có bốn pháp này thì sẵn sàng để sống ở những trú xứ xa vắng trong rừng núi."
 
 <!--pg-->
-### N 4.263 Nghiệp (*Kammasutta*)
+### AN 4.263 Nghiệp (*Kammasutta*)
 
 "Này các tỳ-khưu, khi một *người ngu, không có khả năng, không chân thật* (foolish, incompetent untrue person / người thiếu trí tuệ, kém cỏi, giả dối) có bốn pháp này, họ *tự mình bị thương tổn, hư hại* (keep themselves broken and damaged / tự làm hại chính mình). Họ *bị người trí khiển trách, chê bai* (deserve to be blamed and criticized by sensible people / đáng bị người có hiểu biết phê phán), và họ *tạo nhiều điều bất thiện* (create much wickedness / gây ra nhiều việc xấu ác). Thế nào là bốn? *Hành động đáng chê trách qua thân, khẩu, và ý* (Blameworthy deeds by way of body, speech, and mind / việc làm sai trái qua thân thể, lời nói và suy nghĩ), và *tà kiến đáng chê trách* (blameworthy view / quan điểm sai lầm đáng bị chỉ trích). Khi một người ngu, không có khả năng, không chân thật có bốn pháp này, họ tự mình bị thương tổn, hư hại. Họ bị người trí khiển trách, chê bai, và họ tạo nhiều điều bất thiện.
 

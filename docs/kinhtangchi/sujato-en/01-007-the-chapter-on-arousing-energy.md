@@ -1,6 +1,6 @@
 # The Chapter on Arousing Energy
 
-### N 1.61--70 *Vīriyārambhādivagga*
+### AN 1.61--70 *Vīriyārambhādivagga*
 
 61\. "Mendicants, I do not see a single thing that gives rise to skillful
 qualities, or makes unskillful qualities decline like arousing energy.

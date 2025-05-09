@@ -1,6 +1,6 @@
 # The Chapter at Andhakavinda
 
-### N 5.111 Visiting Families  *Kulūpakasutta*
+### AN 5.111 Visiting Families  *Kulūpakasutta*
 
 "Mendicants, a mendicant with five qualities who visits families is
 unlikable and disagreeable, not respected or admired. What five? They
@@ -19,7 +19,7 @@ qualities who visits families is dear and beloved, respected and
 admired."
 
 <!--pg-->
-### N 5.112 An Ascetic to Follow Behind on Almsround  *Pacchāsamaṇasutta*
+### AN 5.112 An Ascetic to Follow Behind on Almsround  *Pacchāsamaṇasutta*
 
 "Mendicants, you shouldn't take an ascetic with five qualities to follow
 behind on almsround. What five? They walk too far away or too close
@@ -37,7 +37,7 @@ they're wise, bright, and clever. You should take an ascetic with these
 five qualities to follow behind on almsround."
 
 <!--pg-->
-### N 5.113 Right Immersion  *Sammāsamādhisutta*
+### AN 5.113 Right Immersion  *Sammāsamādhisutta*
 
 "Mendicants, a mendicant who has five qualities can't enter and remain
 in right immersion. What five? It's when a mendicant can't endure
@@ -50,7 +50,7 @@ smells, tastes, and touches. A mendicant who has these five qualities
 can enter and remain in right immersion."
 
 <!--pg-->
-### N 5.114 At Andhakavinda  *Andhakavindasutta*
+### AN 5.114 At Andhakavinda  *Andhakavindasutta*
 
 At one time the Buddha was staying in the land of the Magadhans at
 Andhakavinda. Then Venerable Ānanda went up to the Buddha, bowed, and
@@ -87,7 +87,7 @@ teaching and training should be encouraged, supported, and established
 in these five things."
 
 <!--pg-->
-### N 5.115 Stingy  *Maccharinīsutta*
+### AN 5.115 Stingy  *Maccharinīsutta*
 
 "Mendicants, a nun with five qualities is cast down to hell. What five?
 She is stingy with dwellings, families, material things, praise, and the
@@ -98,7 +98,7 @@ stingy with dwellings, families, material things, praise, or the
 teaching. A nun with these five qualities is raised up to heaven."
 
 <!--pg-->
-### N 5.116 Praise  *Vaṇṇanāsutta*
+### AN 5.116 Praise  *Vaṇṇanāsutta*
 
 "Mendicants, a nun with five qualities is cast down to hell. What five?
 Without examining or scrutinizing, she praises those deserving of
@@ -115,7 +115,7 @@ inspiring. And she doesn't waste gifts given in faith. A nun with these
 five qualities is raised up to heaven."
 
 <!--pg-->
-### N 5.117 Jealous  *Issukinīsutta*
+### AN 5.117 Jealous  *Issukinīsutta*
 
 "Mendicants, a nun with five qualities is cast down to hell. What five?
 Without examining or scrutinizing, she praises those deserving of
@@ -130,7 +130,7 @@ and doesn't waste gifts given in faith. A nun with these five qualities
 is raised up to heaven."
 
 <!--pg-->
-### N 5.118 Having Wrong View  *Micchādiṭṭhikasutta*
+### AN 5.118 Having Wrong View  *Micchādiṭṭhikasutta*
 
 "Mendicants, a nun with five qualities is cast down to hell. What five?
 Without examining or scrutinizing, she praises those deserving of
@@ -145,7 +145,7 @@ thought, and doesn't waste gifts given in faith. A nun with these five
 qualities is raised up to heaven."
 
 <!--pg-->
-### N 5.119 Wrong Speech  *Micchāvācāsutta*
+### AN 5.119 Wrong Speech  *Micchāvācāsutta*
 
 "Mendicants, a nun with five qualities is cast down to hell. What five?
 Without examining or scrutinizing, she praises those deserving of
@@ -160,7 +160,7 @@ action, and doesn't waste gifts given in faith. A nun with these five
 qualities is raised up to heaven."
 
 <!--pg-->
-### N 5.120 Wrong Effort  *Micchāvāyāmasutta*
+### AN 5.120 Wrong Effort  *Micchāvāyāmasutta*
 
 "Mendicants, a nun with five qualities is cast down to hell. What five?
 Without examining or scrutinizing, she praises those deserving of

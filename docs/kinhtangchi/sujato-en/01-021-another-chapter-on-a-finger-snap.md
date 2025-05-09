@@ -1,6 +1,6 @@
 # Another Chapter on a Finger-Snap
 
-### N 1.394--574 *Aparaaccharāsaṅghātavagga*
+### AN 1.394--574 *Aparaaccharāsaṅghātavagga*
 
 394\. "If, mendicants, a mendicant develops the first absorption, even as long
 as a finger-snap, they are called a mendicant who does not lack
@@ -45,7 +45,6 @@ active effort, even for the time of a finger-snap ...
 faculty of mindfulness ... the faculty of immersion ... the faculty of
 wisdom, even for the time of a finger-snap ...
 
-<!--pg-->
 419--423\. If they develop the power of faith ... the power of energy ... the power
 of mindfulness ... the power of immersion ... the power of wisdom, even
 for the time of a finger-snap ...

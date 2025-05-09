@@ -9,6 +9,7 @@ số, đưa lại bất hạnh, đau khổ cho chư Thiên và loài Người. V
 <!--pg-->
 2\. (Như số 1 trên, chỉ thế vào: “nêu rõ có phạm là không phạm”)...
 
+<!--pg-->
 3-10 . Những Tỷ-kheo nào, này các Tỷ-kheo, nêu rõ tội nhẹ là tội nặng.... tội nặng là tội nhẹ... tội thô
 trọng là tội không thô trọng... tội không thô trọng là tội thô trọng... tội có dư tàn là tội không dư tàn...
 Tội không dư tàn là tội có dư tàn... tội có thể sám hối là tội không có thể sám hối... tội không có thể sám

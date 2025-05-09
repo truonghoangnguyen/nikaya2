@@ -1,6 +1,6 @@
 # Chương về Chứng Đắc
 
-### N 2.163--179 *Samāpattivagga* (Phẩm Chứng Đắc)
+### AN 2.163--179 *Samāpattivagga* (Phẩm Chứng Đắc)
 
 163\. "Có hai pháp này. Hai pháp gì? *Sự thiện xảo* (skill / sự khéo léo) trong *thiền chứng* (meditative attainments / sự chứng đắc thiền định) và sự thiện xảo trong *xuất thiền* (emerging from those attainments / sự ra khỏi thiền định). Đó là hai pháp."
 

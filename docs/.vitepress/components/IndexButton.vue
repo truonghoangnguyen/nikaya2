@@ -1,9 +1,19 @@
 <script setup>
 function goToIndex() {
   const parts = window.location.pathname.split('/');
+  const author = parts[2];      // "nanamoli-bodhi"
+
+  // current url is compare page, switch from compare Vi-Vi <-> En-Vi
+  if (author.substring(0, 2) == 'c-'){
+    const basePath = parts.join('/');
+    const newUrl =`${parts[0]}/${parts[1]}/${parts[2]}/mucluc.html`;
+    window.location.href = newUrl;
+    return;
+  }
+
   parts.pop();
   const basePath = parts.join('/');
-  const newUrl = `${basePath}/mucluc.html`;
+  const newUrl = `${parts[0]}/${parts[1]}/${parts[2]}/meta/mucluc.html`;
   window.location.href = newUrl;
 }
 </script>

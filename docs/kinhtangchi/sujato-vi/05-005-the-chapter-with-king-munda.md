@@ -1,6 +1,6 @@
 # Chương về Vua Muṇḍa
 
-### N 5.41 Làm Giàu *Ādiyasutta*
+### AN 5.41 Làm Giàu *Ādiyasutta*
 
 Một thời Đức Phật trú gần Sāvatthī, tại vườn ông Jeta, tu viện ông Anāthapiṇḍika. Rồi gia chủ Anāthapiṇḍika đến gặp Đức Phật, đảnh lễ rồi ngồi xuống một bên. Đức Phật nói với ông:
 
@@ -41,7 +41,7 @@ Nhưng nếu tài sản mà một thánh đệ tử có được vì năm lý do
 > và họ ra đi để vui hưởng ở cõi trời."
 
 <!--pg-->
-### N 5.42 Bậc Chân Nhân *Sappurisasutta*
+### AN 5.42 Bậc Chân Nhân *Sappurisasutta*
 
 "Này các Tỳ kheo, một *bậc chân nhân* (true person / người chân chính) sinh ra trong một gia đình vì *lợi ích, phúc lợi, và hạnh phúc* (benefit, welfare, and happiness / điều tốt, sự an vui, và niềm vui) của mọi người. Vì lợi ích, phúc lợi, và hạnh phúc của cha mẹ; con cái và vợ/chồng; người hầu, công nhân, và nhân viên; bạn bè và đồng nghiệp; và các sa môn và bà la môn.
 
@@ -61,7 +61,7 @@ Giống như một đám mây mưa lớn, nuôi dưỡng tất cả mùa màng v
 > và bởi *Phạm Thiên* nữa, họ cũng được ca ngợi."
 
 <!--pg-->
-### N 5.43 Đáng Ưa Thích *Iṭṭhasutta*
+### AN 5.43 Đáng Ưa Thích *Iṭṭhasutta*
 
 Rồi gia chủ Anāthapiṇḍika đến gặp Đức Phật, đảnh lễ, và ngồi xuống một bên. Đức Phật nói với ông:
 
@@ -95,7 +95,7 @@ Một thánh đệ tử muốn lên cõi trời không nên cầu nguyện cho �
 > được gọi là 'người sáng suốt'."
 
 <!--pg-->
-### N 5.44 Đáng Hài Lòng *Manāpadāyīsutta*
+### AN 5.44 Đáng Hài Lòng *Manāpadāyīsutta*
 
 Một thời Đức Phật trú gần Vesālī, tại Rừng Lớn, trong giảng đường có mái nhọn. Rồi Đức Phật đắp y vào buổi sáng, mang bát và y, đi đến nhà gia chủ Ugga ở Vesālī, nơi ngài ngồi trên chỗ đã soạn sẵn.
 
@@ -142,7 +142,7 @@ Rồi, vào lúc đêm khuya, vị trời Ugga huy hoàng, chiếu sáng toàn b
 > bất cứ nơi nào họ tái sinh."
 
 <!--pg-->
-### N 5.45 Dòng Phước *Puññābhisandasutta*
+### AN 5.45 Dòng Phước *Puññābhisandasutta*
 
 "Này các Tỳ kheo, có năm loại *dòng phước* (overflowing merit / phước báu tuôn chảy), *dòng thiện lành* (overflowing goodness / điều tốt lành tuôn chảy) này. Chúng *nuôi dưỡng hạnh phúc* và đưa đến cõi trời, trổ quả hạnh phúc và dẫn đến cõi trời. Chúng dẫn đến những gì đáng ưa thích, đáng mong muốn, đáng hài lòng, đến *phúc lợi và hạnh phúc*.
 
@@ -167,12 +167,12 @@ Cũng vậy, khi một thánh đệ tử có được năm loại dòng phước
 > như các dòng sông mang nước về biển."
 
 <!--pg-->
-### N 5.46 Thành Tựu *Sampadāsutta*
+### AN 5.46 Thành Tựu *Sampadāsutta*
 
 "Này các Tỳ kheo, có năm *thành tựu* (accomplishments / sự đạt được). Năm thành tựu nào? Thành tựu về *niềm tin*, *giới hạnh*, *học hỏi*, *bố thí*, và *trí tuệ*. Đây là năm thành tựu."
 
 <!--pg-->
-### N 5.47 Tài Sản *Dhanasutta*
+### AN 5.47 Tài Sản *Dhanasutta*
 
 "Này các Tỳ kheo, có năm loại *tài sản* này. Năm loại nào? Tài sản *niềm tin*, *giới hạnh*, *học hỏi*, *bố thí*, và *trí tuệ*.
 
@@ -204,7 +204,7 @@ Và tài sản trí tuệ là gì? Đó là khi một thánh đệ tử có trí
 > *ghi nhớ lời dạy của chư Phật*."
 
 <!--pg-->
-### N 5.48 Những Điều Không Thể Có Được *Alabbhanīyaṭhānasutta*
+### AN 5.48 Những Điều Không Thể Có Được *Alabbhanīyaṭhānasutta*
 
 "Này các Tỳ kheo, có năm điều *không thể có được* bởi bất kỳ *sa môn, bà la môn, chư thiên, Ma vương, Phạm thiên* nào hay bởi bất kỳ ai trên thế gian. Năm điều nào? Rằng người *phải chịu già* sẽ không già đi. ... Rằng người *phải chịu bệnh* sẽ không bị bệnh. ... Rằng người *phải chịu chết* sẽ không chết. ... Rằng người *phải chịu chấm dứt* sẽ không chấm dứt. ... Rằng người *phải chịu hoại diệt* sẽ không hoại diệt. ...
 
@@ -239,7 +239,7 @@ Lại nữa, một thánh đệ tử có học có người phải chịu bệnh
 > '*Nghiệp thật mạnh mẽ. Ta có thể làm gì bây giờ?*'"
 
 <!--pg-->
-### N 5.49 Vua Nước Kosala *Kosalasutta*
+### AN 5.49 Vua Nước Kosala *Kosalasutta*
 
 Một thời Đức Phật trú gần Sāvatthī, tại vườn ông Jeta, tu viện ông Anāthapiṇḍika. Rồi Vua Pasenadi nước Kosala đến gặp Đức Phật, đảnh lễ, và ngồi xuống một bên.
 
@@ -250,7 +250,7 @@ Khi nghe điều này, Vua Pasenadi đau khổ và buồn bã. Ông ngồi với
 Biết được điều này, Đức Phật nói với ông: "Đại vương, có năm điều không thể có được bởi bất kỳ sa môn, bà la môn, chư thiên, Ma vương, Phạm thiên nào hay bởi bất kỳ ai trên thế gian. Năm điều nào? Rằng người phải chịu già sẽ không già đi. ... Sầu muộn và than khóc không mang lại chút lợi ích nào ... 'Nghiệp thật mạnh mẽ. Ta có thể làm gì bây giờ?'"
 
 <!--pg-->
-### N 5.50 Cùng Nārada *Nāradasutta*
+### AN 5.50 Cùng Nārada *Nāradasutta*
 
 Một thời Tôn giả Nārada trú gần Pāṭaliputta, tại Tu viện Kê Viên (Chicken Monastery).
 

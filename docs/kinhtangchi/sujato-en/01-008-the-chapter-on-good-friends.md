@@ -1,6 +1,6 @@
 # The Chapter on Good Friends
 
-### N 1.71--81 *Kalyāṇamittādivagga*
+### AN 1.71--81 *Kalyāṇamittādivagga*
 
 71\. "Mendicants, I do not see a single thing that gives rise to skillful
 qualities, or makes unskillful qualities decline like good friends. When
@@ -41,10 +41,9 @@ thing to lose."
 77\. "Growth of relatives, mendicants, is a small thing. Wisdom is the best
 thing to grow.
 
-<!--pg-->
 So you should train like this: 'We will grow in wisdom.' That's how you
 should train."
-
+<!--pg-->
 78\. "Loss of wealth, mendicants, is a small thing. Wisdom is the worst thing
 to lose."
 
@@ -63,7 +62,6 @@ to lose."
 81\. "Growth of fame, mendicants, is a small thing. Wisdom is the best thing
 to grow.
 
-<!--pg-->
 So you should train like this: 'We will grow in wisdom.' That's how you
 should train."
 

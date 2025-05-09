@@ -1,46 +1,46 @@
 # Chương về Các Vị Trưởng Lão Tỳ Kheo
 
-### N 5.81 Đáng Ưa Thích *Kinh Rajanīya*
+### AN 5.81 Đáng Ưa Thích *Kinh Rajanīya*
 
 "Này các Tỳ kheo, một vị trưởng lão Tỳ kheo có năm phẩm chất sẽ không được các bạn đồng tu yêu mến và quý trọng, không được kính trọng hay ngưỡng mộ. Năm phẩm chất đó là gì? Vị ấy tham muốn những gì đáng tham muốn, ghét bỏ những gì đáng ghét bỏ, si mê bởi những gì gây si mê, bực bội bởi những gì gây bực bội, và say đắm bởi những gì gây say đắm. Một vị trưởng lão Tỳ kheo có năm phẩm chất này sẽ không được các bạn đồng tu yêu mến và quý trọng, không được kính trọng hay ngưỡng mộ.
 
 Một vị trưởng lão Tỳ kheo có năm phẩm chất sẽ được các bạn đồng tu yêu mến và quý trọng, được kính trọng và ngưỡng mộ. Năm phẩm chất đó là gì? Vị ấy không tham muốn những gì đáng tham muốn, không ghét bỏ những gì đáng ghét bỏ, không si mê bởi những gì gây si mê, không bực bội bởi những gì gây bực bội, và không say đắm bởi những gì gây say đắm. Một vị trưởng lão Tỳ kheo có năm phẩm chất này sẽ được các bạn đồng tu yêu mến và quý trọng, được kính trọng và ngưỡng mộ."
 
 <!--pg-->
-### N 5.82 Ly Tham *Kinh Vītarāga*
+### AN 5.82 Ly Tham *Kinh Vītarāga*
 
 "Này các Tỳ kheo, một vị trưởng lão Tỳ kheo có năm phẩm chất sẽ không được các bạn đồng tu yêu mến và quý trọng, không được kính trọng hay ngưỡng mộ. Năm phẩm chất đó là gì? Vị ấy không thoát khỏi tham lam, *tức giận* (hate / sự tức giận), và si mê; vị ấy hay xúc phạm và khinh thường người khác. Một vị trưởng lão Tỳ kheo có năm phẩm chất này sẽ không được các bạn đồng tu yêu mến và quý trọng, không được kính trọng hay ngưỡng mộ.
 
 Một vị trưởng lão Tỳ kheo có năm phẩm chất sẽ được các bạn đồng tu yêu mến và quý trọng, được kính trọng và ngưỡng mộ. Năm phẩm chất đó là gì? Vị ấy thoát khỏi tham lam, tức giận, và si mê; vị ấy không xúc phạm và khinh thường người khác. Một vị trưởng lão Tỳ kheo có năm phẩm chất này sẽ được các bạn đồng tu yêu mến và quý trọng, được kính trọng và ngưỡng mộ."
 
 <!--pg-->
-### N 5.83 Kẻ Lừa Dối *Kinh Kuhaka*
+### AN 5.83 Kẻ Lừa Dối *Kinh Kuhaka*
 
 "Này các Tỳ kheo, một vị trưởng lão Tỳ kheo có năm phẩm chất sẽ không được các bạn đồng tu yêu mến và quý trọng, không được kính trọng hay ngưỡng mộ. Năm phẩm chất đó là gì? Vị ấy dùng sự lừa dối, tâng bốc, ám chỉ, và hạ thấp người khác, và vị ấy dùng vật chất để theo đuổi vật chất khác. Một vị trưởng lão Tỳ kheo có năm phẩm chất này sẽ không được các bạn đồng tu yêu mến và quý trọng, không được kính trọng hay ngưỡng mộ.
 
 Một vị trưởng lão Tỳ kheo có năm phẩm chất sẽ được các bạn đồng tu yêu mến và quý trọng, được kính trọng và ngưỡng mộ. Năm phẩm chất đó là gì? Vị ấy không dùng sự lừa dối, tâng bốc, ám chỉ, hay hạ thấp người khác, và vị ấy không dùng vật chất để theo đuổi vật chất khác. Một vị trưởng lão Tỳ kheo có năm phẩm chất này sẽ được các bạn đồng tu yêu mến và quý trọng, được kính trọng và ngưỡng mộ."
 
 <!--pg-->
-### N 5.84 Không Niềm Tin *Kinh Assaddha*
+### AN 5.84 Không Niềm Tin *Kinh Assaddha*
 
 "Này các Tỳ kheo, một vị trưởng lão Tỳ kheo có năm phẩm chất sẽ không được các bạn đồng tu yêu mến và quý trọng, không được kính trọng hay ngưỡng mộ. Năm phẩm chất đó là gì? Vị ấy *không có niềm tin* (faithless / thiếu niềm tin), *không xấu hổ* (shameless / không biết xấu hổ), *không sợ điều ác* (imprudent / không biết sợ hãi việc ác), lười biếng, và *thiếu trí tuệ* (witless / không có trí tuệ). Một vị trưởng lão Tỳ kheo có năm phẩm chất này sẽ không được các bạn đồng tu yêu mến và quý trọng, không được kính trọng hay ngưỡng mộ.
 
 Một vị trưởng lão Tỳ kheo có năm phẩm chất sẽ được các bạn đồng tu yêu mến và quý trọng, được kính trọng và ngưỡng mộ. Năm phẩm chất đó là gì? Vị ấy *có niềm tin* (faithful / có niềm tin), *biết xấu hổ* (conscientious / biết hổ thẹn), *biết sợ điều ác* (prudent / biết sợ hãi việc ác), *siêng năng* (energetic / tinh tấn, siêng năng), và *có trí tuệ* (wise / có trí tuệ). Một vị trưởng lão Tỳ kheo có năm phẩm chất này sẽ được các bạn đồng tu yêu mến và quý trọng, được kính trọng và ngưỡng mộ."
 
 <!--pg-->
-### N 5.85 Không Kham Nhẫn *Kinh Akkhama*
+### AN 5.85 Không Kham Nhẫn *Kinh Akkhama*
 
 "Này các Tỳ kheo, một vị trưởng lão Tỳ kheo có năm phẩm chất sẽ không được các bạn đồng tu yêu mến và quý trọng, không được kính trọng hay ngưỡng mộ. Năm phẩm chất đó là gì? Vị ấy không thể chịu đựng được các cảnh sắc, âm thanh, mùi hương, vị nếm, và xúc chạm. Một vị trưởng lão Tỳ kheo có năm phẩm chất này sẽ không được các bạn đồng tu yêu mến và quý trọng, không được kính trọng hay ngưỡng mộ.
 
 Một vị trưởng lão Tỳ kheo có năm phẩm chất sẽ được các bạn đồng tu yêu mến và quý trọng, được kính trọng và ngưỡng mộ. Năm phẩm chất đó là gì? Vị ấy có thể chịu đựng được các cảnh sắc, âm thanh, mùi hương, vị nếm, và xúc chạm. Một vị trưởng lão Tỳ kheo có năm phẩm chất này sẽ được các bạn đồng tu yêu mến và quý trọng, được kính trọng và ngưỡng mộ."
 
 <!--pg-->
-### N 5.86 Đạt Được Các Phương Pháp Phân Tích Kinh Văn *Kinh Paṭisambhidāpatta*
+### AN 5.86 Đạt Được Các Phương Pháp Phân Tích Kinh Văn *Kinh Paṭisambhidāpatta*
 
 "Một vị trưởng lão Tỳ kheo có năm phẩm chất sẽ được các bạn đồng tu yêu mến và quý trọng, được kính trọng và ngưỡng mộ. Năm phẩm chất đó là gì? Vị ấy đã đạt được sự phân tích kinh văn về ý nghĩa, văn bản, thuật ngữ, và tài hùng biện (*tuệ phân tích* - textual analysis / khả năng phân tích và hiểu rõ kinh điển). Và vị ấy khéo léo và không mệt mỏi trong nhiều loại phận sự khác nhau đối với các bạn đồng tu, hiểu biết cách thức tiến hành công việc để hoàn thành và tổ chức tốt. Một vị trưởng lão Tỳ kheo có năm phẩm chất này sẽ được các bạn đồng tu yêu mến và quý trọng, được kính trọng và ngưỡng mộ."
 
 <!--pg-->
-### N 5.87 Giữ Giới *Kinh Sīlavanta*
+### AN 5.87 Giữ Giới *Kinh Sīlavanta*
 
 "Một vị trưởng lão Tỳ kheo có năm phẩm chất sẽ được các bạn đồng tu yêu mến và quý trọng, được kính trọng và ngưỡng mộ. Năm phẩm chất đó là gì?
 
@@ -57,7 +57,7 @@ Vị ấy thực chứng *tâm giải thoát* (freedom of heart / sự giải th
 Một vị trưởng lão Tỳ kheo có năm phẩm chất này sẽ được các bạn đồng tu yêu mến và quý trọng, được kính trọng và ngưỡng mộ."
 
 <!--pg-->
-### N 5.88 Các Vị Trưởng Lão Tỳ Kheo *Kinh Thera*
+### AN 5.88 Các Vị Trưởng Lão Tỳ Kheo *Kinh Thera*
 
 "Này các Tỳ kheo, một vị trưởng lão Tỳ kheo có năm phẩm chất đang hành động vì sự tổn hại và đau khổ của quần chúng, chống lại quần chúng, vì sự nguy hại, tổn hại và đau khổ của chư thiên và loài người.
 
@@ -92,14 +92,14 @@ Và vị ấy có *chánh kiến* (right view / cái thấy đúng đắn) và q
 Mọi người noi theo gương vị ấy, nghĩ rằng vị trưởng lão Tỳ kheo này là bậc trưởng thượng và đã xuất gia lâu năm. Hoặc rằng vị ấy nổi tiếng, có danh vọng, có đông đảo đồ chúng bao gồm cả cư sĩ và người xuất gia. Hoặc rằng vị ấy nhận được y phục, vật thực khất thực, chỗ ở, và thuốc men cùng vật dụng cho người bệnh. Hoặc rằng vị ấy đa văn, ghi nhớ và gìn giữ những gì đã học. Một vị trưởng lão Tỳ kheo có năm phẩm chất này đang hành động vì lợi ích và hạnh phúc của quần chúng, vì quần chúng, vì lợi lạc, lợi ích và hạnh phúc của chư thiên và loài người."
 
 <!--pg-->
-### N 5.89 Vị Hữu Học (1) *Kinh Paṭhamasekha*
+### AN 5.89 Vị Hữu Học (1) *Kinh Paṭhamasekha*
 
 "Năm điều này dẫn đến sự suy thoái của một vị Tỳ kheo *hữu học* (trainee / người đang còn phải tu học). Năm điều đó là gì? Vị ấy thích thú công việc, nói chuyện, ngủ nghỉ, và giao du. Và vị ấy không xem xét mức độ giải thoát của tâm mình. Năm điều này dẫn đến sự suy thoái của một vị Tỳ kheo hữu học.
 
 Năm điều này không dẫn đến sự suy thoái của một vị Tỳ kheo hữu học. Năm điều đó là gì? Vị ấy không thích thú công việc, nói chuyện, ngủ nghỉ, và giao du. Và vị ấy xem xét mức độ giải thoát của tâm mình. Năm điều này không dẫn đến sự suy thoái của một vị Tỳ kheo hữu học."
 
 <!--pg-->
-### N 5.90 Vị Hữu Học (2) *Kinh Dutiyasekha*
+### AN 5.90 Vị Hữu Học (2) *Kinh Dutiyasekha*
 
 "Năm điều này dẫn đến sự suy thoái của một vị Tỳ kheo hữu học. Năm điều đó là gì?
 

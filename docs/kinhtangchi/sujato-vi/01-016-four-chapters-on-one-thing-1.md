@@ -1,35 +1,17 @@
-# Bốn Chương về Một Pháp (1-Paṭhamavagga)
+# Bốn Phẩm Về Một Pháp (1-Phẩm Thứ Nhất)
+### AN 1.296--305 *Phẩm Thứ Nhất*
 
-### N 1.296--305 *Paṭhamavagga*
-
-296\. "Này các Tỳ-kheo, có một pháp, khi được tu tập và phát triển, chỉ đưa đến *sự nhàm chán, yếm ly* (disillusionment - nibbidā - sự chán ghét, không còn hứng thú với các pháp hữu vi), *sự ly tham, không còn dính mắc* (dispassion - virāga - trạng thái tâm không còn tham ái, dính mắc vào các đối tượng của giác quan và thế gian), *sự chấm dứt, đoạn diệt* (cessation - nirodha - sự kết thúc, sự diệt trừ khổ đau và các phiền não), *sự an tịnh, lắng dịu* (peace - upāsama - trạng thái tâm trí bình yên, tĩnh lặng, không bị xáo động bởi phiền não), *tuệ giác, sự hiểu biết sâu sắc* (insight - abhiññā - sự hiểu biết vượt trội, trí tuệ thấu suốt bản chất của sự vật, dẫn đến giải thoát), *sự giác ngộ* (awakening - sambodha - sự tỉnh thức hoàn toàn, đạt đến trí tuệ tối thượng của một vị Phật hoặc A-la-hán), và *sự tịch diệt, Niết-bàn* (extinguishment - nibbāna - trạng thái giải thoát tối thượng, chấm dứt mọi khổ đau, sinh tử luân hồi)."
-"Một pháp đó là gì?"
-"Đó là *sự tùy niệm, ghi nhớ* (recollection - anussati - sự ghi nhớ, quán tưởng liên tục về một đối tượng thiền định) về *Đức Phật* (Buddha - Phật - Bậc Giác Ngộ hoàn toàn, người đã tìm ra con đường giải thoát)."
-"Này các Tỳ-kheo, một pháp này, khi được tu tập và phát triển, chỉ đưa đến sự nhàm chán, yếm ly, sự ly tham, không còn dính mắc, sự chấm dứt, đoạn diệt, sự an tịnh, lắng dịu, tuệ giác, sự hiểu biết sâu sắc, sự giác ngộ, và sự tịch diệt, Niết-bàn."
+296\. "*Này các Tỳ kheo*, có *một pháp* (one thing / một pháp, một thực hành) này, khi được *tu tập và thực hành* (developed and cultivated / rèn luyện và phát triển), chỉ đưa đến *sự nhàm chán* (disillusionment / sự nhận ra tính vô vị của thế gian), *ly tham* (dispassion / sự buông bỏ ham muốn), *sự đoạn diệt* (cessation / sự chấm dứt khổ đau), *sự an tịnh* (peace / sự bình lặng của tâm), *thắng trí* (insight / trí tuệ thấy rõ sự thật), *giác ngộ* (awakening / sự tỉnh thức hoàn toàn), và *Niết bàn*. Một pháp đó là gì? *Niệm Phật.* (Recollection of the Buddha / nhớ nghĩ đến ân đức Phật). Pháp này, khi được tu tập và thực hành, chỉ đưa đến sự nhàm chán, ly tham, sự đoạn diệt, sự an tịnh, thắng trí, giác ngộ, và Niết bàn."
 
 <!--pg-->
-297--305\. "Này các Tỳ-kheo, có một pháp, khi được tu tập và phát triển, chỉ đưa đến sự nhàm chán, yếm ly, sự ly tham, không còn dính mắc, sự chấm dứt, đoạn diệt, sự an tịnh, lắng dịu, tuệ giác, sự hiểu biết sâu sắc, sự giác ngộ, và sự tịch diệt, Niết-bàn."
-"Một pháp đó là gì?"
-"Đó là sự tùy niệm về *Giáo Pháp* (Teaching - Dhamma - Lời dạy của Đức Phật, con đường dẫn đến giải thoát)... Sự tùy niệm về *Tăng đoàn* (Saṅgha - Tăng - Cộng đồng các đệ tử xuất gia của Đức Phật, cùng nhau tu tập và giữ gìn Giáo Pháp)... Sự tùy niệm về *giới hạnh, đạo đức* (ethical conduct - sīla - các nguyên tắc đạo đức, giới luật mà người Phật tử tuân giữ để thanh tịnh thân khẩu ý)... Sự tùy niệm về *sự bố thí, xả ly* (generosity - cāga - hành động cho đi, chia sẻ tài sản hoặc công sức, đồng thời là sự xả bỏ lòng tham lam, ích kỷ)... Sự tùy niệm về *chư thiên* (deities - devatā - các loài hữu tình sống trong cõi trời, có phước báu và tuổi thọ lâu dài hơn con người)... *Sự chánh niệm* (mindfulness - sati - khả năng ghi nhận, nhận biết rõ ràng những gì đang xảy ra trong hiện tại mà không phán xét) về *hơi thở vào ra* (breathing - ānāpāna - hơi thở tự nhiên của cơ thể, đối tượng thiền định trong pháp Quán hơi thở)... Sự chánh niệm về *cái chết* (death - maraṇa - sự chấm dứt sự sống của một hữu tình)... Sự chánh niệm về *thân thể* (body - kāya - cơ thể vật lý, bao gồm tứ đại và các thành phần khác)... Sự tùy niệm về sự an tịnh, lắng dịu."
-"Này các Tỳ-kheo, một pháp này, khi được tu tập và phát triển, chỉ đưa đến sự nhàm chán, yếm ly, sự ly tham, không còn dính mắc, sự chấm dứt, đoạn diệt, sự an tịnh, lắng dịu, tuệ giác, sự hiểu biết sâu sắc, sự giác ngộ, và sự tịch diệt, Niết-bàn."
-
-<!--pg-->
-Từ ngữ:
-- sự nhàm chán, yếm ly - disillusionment - nibbidā : sự chán ghét, không còn hứng thú với các pháp hữu vi. (cổ ngữ: yểm ly)
-- sự ly tham, không còn dính mắc - dispassion - virāga : trạng thái tâm không còn tham ái, dính mắc vào các đối tượng của giác quan và thế gian. (cổ ngữ: ly tham)
-- sự chấm dứt, đoạn diệt - cessation - nirodha : sự kết thúc, sự diệt trừ khổ đau và các phiền não. (cổ ngữ: diệt)
-- sự an tịnh, lắng dịu - peace - upāsama : trạng thái tâm trí bình yên, tĩnh lặng, không bị xáo động bởi phiền não. (cổ ngữ: tịch tịnh)
-- tuệ giác, sự hiểu biết sâu sắc - insight - abhiññā : sự hiểu biết vượt trội, trí tuệ thấu suốt bản chất của sự vật, dẫn đến giải thoát. (cổ ngữ: thắng trí)
-- sự giác ngộ - awakening - sambodha : sự tỉnh thức hoàn toàn, đạt đến trí tuệ tối thượng của một vị Phật hoặc A-la-hán. (cổ ngữ: giác ngộ)
-- sự tịch diệt, Niết-bàn - extinguishment - nibbāna : trạng thái giải thoát tối thượng, chấm dứt mọi khổ đau, sinh tử luân hồi. (cổ ngữ: Niết-bàn)
-- sự tùy niệm, ghi nhớ - recollection - anussati : sự ghi nhớ, quán tưởng liên tục về một đối tượng thiền định. (cổ ngữ: tùy niệm)
-- Đức Phật - Buddha - Phật : Bậc Giác Ngộ hoàn toàn, người đã tìm ra con đường giải thoát. (cổ ngữ: Phật)
-- Giáo Pháp - Teaching - Dhamma : Lời dạy của Đức Phật, con đường dẫn đến giải thoát. (cổ ngữ: Pháp)
-- Tăng đoàn - Saṅgha - Tăng : Cộng đồng các đệ tử xuất gia của Đức Phật, cùng nhau tu tập và giữ gìn Giáo Pháp. (cổ ngữ: Tăng)
-- giới hạnh, đạo đức - ethical conduct - sīla : các nguyên tắc đạo đức, giới luật mà người Phật tử tuân giữ để thanh tịnh thân khẩu ý. (cổ ngữ: giới)
-- sự bố thí, xả ly - generosity - cāga : hành động cho đi, chia sẻ tài sản hoặc công sức, đồng thời là sự xả bỏ lòng tham lam, ích kỷ. (cổ ngữ: bố thí)
-- chư thiên - deities - devatā : các loài hữu tình sống trong cõi trời, có phước báu và tuổi thọ lâu dài hơn con người. (cổ ngữ: chư thiên)
-- sự chánh niệm - mindfulness - sati : khả năng ghi nhận, nhận biết rõ ràng những gì đang xảy ra trong hiện tại mà không phán xét. (cổ ngữ: niệm)
-- hơi thở vào ra - breathing - ānāpāna : hơi thở tự nhiên của cơ thể, đối tượng thiền định trong pháp Quán hơi thở. (cổ ngữ: hơi thở)
-- cái chết - death - maraṇa : sự chấm dứt sự sống của một hữu tình. (cổ ngữ: tử)
-- thân thể - body - kāya : cơ thể vật lý, bao gồm tứ đại và các thành phần khác. (cổ ngữ: thân)
+297--305\. "Này các Tỳ kheo, có một pháp này, khi được tu tập và thực hành, chỉ đưa đến sự nhàm chán, ly tham, sự đoạn diệt, sự an tịnh, thắng trí, giác ngộ, và Niết bàn. Một pháp đó là gì?
+*Niệm Pháp...* (Recollection of the teaching / nhớ nghĩ đến Giáo Pháp)
+*Niệm Tăng...* (Recollection of the Saṅgha / nhớ nghĩ đến Tăng đoàn)
+*Niệm Giới...* (Recollection of ethical conduct / nhớ nghĩ đến giới đức của mình)
+*Niệm Thí...* (Recollection of generosity / nhớ nghĩ đến sự cho đi của mình)
+*Niệm Thiên...* (Recollection of the deities / nhớ nghĩ đến các vị trời và phẩm hạnh của họ để noi theo)
+*Niệm hơi thở...* (Mindfulness of breathing / chú tâm quan sát hơi thở)
+*Niệm sự chết...* (Mindfulness of death / chú tâm quán niệm về cái chết)
+*Niệm thân...* (Mindfulness of the body / chú tâm quan sát thân thể)
+*Niệm sự an tịnh.* (Recollection of peace / nhớ nghĩ đến sự an tịnh của Niết bàn hoặc tâm thanh tịnh).
+Pháp này, khi được tu tập và thực hành, chỉ đưa đến sự nhàm chán, ly tham, sự đoạn diệt, sự an tịnh, thắng trí, giác ngộ, và Niết bàn."

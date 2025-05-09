@@ -1,6 +1,6 @@
 # Chương Năm Pháp
 
-### N 5.21 Không Kính Trọng (1) *Paṭhamaagāravasutta*
+### AN 5.21 Không Kính Trọng (1) *Paṭhamaagāravasutta*
 
 "Này các *Tỳ kheo* (mendicant / vị khất sĩ), một Tỳ kheo không kính trọng, không nể vì, có lối sống không hòa hợp thì không thể nào hoàn thành được *pháp bổ túc* (supplementary regulations / các quy định phụ trợ) đối với các vị *đồng phạm hạnh* (spiritual companions / bạn tu).
 Không hoàn thành được pháp bổ túc, vị ấy không thể hoàn thành được *học pháp* (practice of a trainee / pháp của bậc hữu học). Không hoàn thành được học pháp, vị ấy không thể hoàn thành được *giới* (ethics / đạo đức). Không hoàn thành được giới, vị ấy không thể hoàn thành được *chánh kiến* (right view / thấy biết đúng đắn). Không hoàn thành được chánh kiến, vị ấy không thể hoàn thành được *chánh định* (right immersion / sự tập trung đúng đắn).
@@ -8,7 +8,7 @@ Không hoàn thành được pháp bổ túc, vị ấy không thể hoàn thàn
 Nhưng một Tỳ kheo có kính trọng, có nể vì, có lối sống hòa hợp thì hoàn toàn có thể hoàn thành được pháp bổ túc đối với các vị đồng phạm hạnh. Hoàn thành được pháp bổ túc, vị ấy có thể hoàn thành được học pháp. Hoàn thành được học pháp, vị ấy có thể hoàn thành được giới. Hoàn thành được giới, vị ấy có thể hoàn thành được chánh kiến. Hoàn thành được chánh kiến, vị ấy có thể hoàn thành được chánh định."
 
 <!--pg-->
-### N 5.22 Không Kính Trọng (2) *Dutiyaagāravasutta*
+### AN 5.22 Không Kính Trọng (2) *Dutiyaagāravasutta*
 
 "Này các Tỳ kheo, một Tỳ kheo không kính trọng, không nể vì, có lối sống không hòa hợp thì không thể nào hoàn thành được pháp bổ túc đối với các vị đồng phạm hạnh.
 Không hoàn thành được pháp bổ túc, vị ấy không thể hoàn thành được học pháp. Không hoàn thành được học pháp, vị ấy không thể hoàn thành được toàn bộ *giới uẩn* (entire spectrum of ethics / toàn bộ giới). Không hoàn thành được toàn bộ giới uẩn, vị ấy không thể hoàn thành được toàn bộ *định uẩn* (entire spectrum of immersion / toàn bộ định). Không hoàn thành được toàn bộ định uẩn, vị ấy không thể hoàn thành được toàn bộ *tuệ uẩn* (entire spectrum of wisdom / toàn bộ trí tuệ).
@@ -16,7 +16,7 @@ Không hoàn thành được pháp bổ túc, vị ấy không thể hoàn thàn
 Nhưng một Tỳ kheo có kính trọng, có nể vì, có lối sống hòa hợp thì hoàn toàn có thể hoàn thành được pháp bổ túc đối với các vị đồng phạm hạnh. Hoàn thành được pháp bổ túc, vị ấy có thể hoàn thành được học pháp. Hoàn thành được học pháp, vị ấy có thể hoàn thành được toàn bộ giới uẩn. Hoàn thành được toàn bộ giới uẩn, vị ấy có thể hoàn thành được toàn bộ định uẩn. Hoàn thành được toàn bộ định uẩn, vị ấy có thể hoàn thành được toàn bộ tuệ uẩn."
 
 <!--pg-->
-### N 5.23 Các uế nhiễm *Upakkilesasutta*
+### AN 5.23 Các uế nhiễm *Upakkilesasutta*
 
 "Này các Tỳ kheo, có năm *uế nhiễm* (corruptions / sự hư hỏng) này của vàng nguyên chất. Khi vàng nguyên chất bị những thứ này làm ô nhiễm, nó sẽ không *mềm dẻo* (pliable / dễ uốn), không *dễ chế tác* (workable / dễ làm), không *sáng chói* (radiant / chiếu sáng), mà trở nên *giòn* (brittle / dễ gãy) và không hoàn toàn *sẵn sàng để chế tác* (ready for working / sẵn sàng để làm). Năm thứ đó là gì? Sắt, đồng, thiếc, chì và bạc. Khi vàng nguyên chất bị năm uế nhiễm này làm ô nhiễm, nó sẽ không mềm dẻo, không dễ chế tác, không sáng chói, mà trở nên giòn và không hoàn toàn sẵn sàng để chế tác.
 
@@ -39,7 +39,7 @@ Nếu vị ấy mong muốn: 'Với *thiên nhãn* (clairvoyance / mắt thấy 
 Nếu vị ấy mong muốn: 'Mong rằng ta có thể chứng ngộ *tâm giải thoát* (freedom of heart / sự giải thoát của tâm) và *tuệ giải thoát* (freedom by wisdom / sự giải thoát bằng trí tuệ) *vô lậu* (undefiled / không còn ô nhiễm) ngay trong đời này, và sống sau khi đã chứng ngộ điều đó bằng thắng trí của chính mình nhờ sự đoạn trừ các lậu hoặc.' Vị ấy có khả năng chứng ngộ điều đó, vì mỗi điều và mọi điều đều nằm trong tầm tay."
 
 <!--pg-->
-### N 5.24 Phá Giới *Dussīlasutta*
+### AN 5.24 Phá Giới *Dussīlasutta*
 
 "Này các Tỳ kheo, một người *phá giới* (unethical / không giữ giới), thiếu giới hạnh, đã hủy hoại một *điều kiện thiết yếu* (vital condition / yếu tố quan trọng) cho chánh định. Khi không có chánh định, người thiếu chánh định đã hủy hoại một điều kiện thiết yếu cho *như thật tri kiến* (true knowledge and vision / thấy biết đúng như thật). Khi không có như thật tri kiến, người thiếu như thật tri kiến đã hủy hoại một điều kiện thiết yếu cho sự *nhàm chán* (disillusionment / sự chán ngán thế gian) và *ly tham* (dispassion / sự lìa bỏ tham ái). Khi không có sự nhàm chán và ly tham, người thiếu sự nhàm chán và ly tham đã hủy hoại một điều kiện thiết yếu cho *giải thoát tri kiến* (knowledge and vision of freedom / thấy biết về sự giải thoát).
 
@@ -54,14 +54,14 @@ Giống như một cái cây có đầy đủ cành và lá. Chồi, vỏ cây, 
 Cũng vậy, một người trì giới, đã hoàn thành giới hạnh, đã hoàn thành một điều kiện thiết yếu cho chánh định. Khi có chánh định, người đã hoàn thành chánh định đã hoàn thành một điều kiện thiết yếu cho như thật tri kiến. Khi có như thật tri kiến, người đã hoàn thành như thật tri kiến đã hoàn thành một điều kiện thiết yếu cho sự nhàm chán và ly tham. Khi có sự nhàm chán và ly tham, người đã hoàn thành sự nhàm chán và ly tham đã hoàn thành một điều kiện thiết yếu cho giải thoát tri kiến."
 
 <!--pg-->
-### N 5.25 Được Hỗ Trợ *Anuggahitasutta*
+### AN 5.25 Được Hỗ Trợ *Anuggahitasutta*
 
 "Này các Tỳ kheo, khi chánh kiến được hỗ trợ bởi năm yếu tố, nó sẽ có tâm giải thoát và tuệ giải thoát làm quả và lợi ích.
 
 Năm yếu tố đó là gì? Đó là khi chánh kiến được hỗ trợ bởi giới, *đa văn* (learning / nghe nhiều học rộng), thảo luận, *chỉ* (serenity / sự tĩnh lặng của tâm), và *quán* (discernment / sự quán chiếu, thấy rõ). Khi chánh kiến được hỗ trợ bởi năm yếu tố này, nó sẽ có tâm giải thoát và tuệ giải thoát làm quả và lợi ích."
 
 <!--pg-->
-### N 5.26 Các Cơ Hội Giải Thoát *Vimuttāyatanasutta*
+### AN 5.26 Các Cơ Hội Giải Thoát *Vimuttāyatanasutta*
 
 "Này các Tỳ kheo, có năm *cơ hội giải thoát* (opportunities for freedom / dịp để giải thoát) này. Nếu một Tỳ kheo duy trì sự *tinh cần* (diligent / siêng năng), *nhiệt tâm* (keen / hăng hái), và *quyết tâm* (resolute / ý chí vững chắc) vào những lúc này, tâm của vị ấy được giải thoát, các lậu hoặc của vị ấy được đoạn trừ, và vị ấy đạt đến *vô thượng an ổn khỏi các ách* (supreme sanctuary from the yoke / nơi an ổn tuyệt đối khỏi sự trói buộc). Năm cơ hội đó là gì?
 
@@ -78,7 +78,7 @@ Hơn nữa, có thể không phải Bậc Đạo Sư hay ... Tỳ kheo giảng P
 Đây là năm cơ hội giải thoát. Nếu một Tỳ kheo duy trì sự tinh cần, nhiệt tâm, và quyết tâm vào những lúc này, tâm của vị ấy được giải thoát, các lậu hoặc của vị ấy được đoạn trừ, và vị ấy đạt đến vô thượng an ổn khỏi các ách."
 
 <!--pg-->
-### N 5.27 Định *Samādhisutta*
+### AN 5.27 Định *Samādhisutta*
 
 "Này các Tỳ kheo, hãy phát triển *vô lượng định* (limitless immersion / định không giới hạn), *tỉnh giác* (alert / nhận biết rõ ràng) và *tỉnh thức* (mindful / nhớ nghĩ đúng đắn). Khi các ngươi phát triển vô lượng định, tỉnh giác và tỉnh thức, năm loại trí tuệ sẽ tự thân khởi lên nơi các ngươi. Năm loại đó là gì?
 
@@ -95,7 +95,7 @@ Hơn nữa, có thể không phải Bậc Đạo Sư hay ... Tỳ kheo giảng P
 Hãy phát triển vô lượng định, tỉnh giác và tỉnh thức. Khi các ngươi phát triển vô lượng định, tỉnh giác và tỉnh thức, năm loại trí tuệ này sẽ tự thân khởi lên nơi các ngươi."
 
 <!--pg-->
-### N 5.28 Với Năm Chi Phần *Pañcaṅgikasutta*
+### AN 5.28 Với Năm Chi Phần *Pañcaṅgikasutta*
 
 "Này các Tỳ kheo, Ta sẽ dạy các ngươi cách phát triển *chánh định thánh thiện gồm năm chi phần* (noble right immersion with five factors / sự tập trung đúng đắn cao thượng có năm yếu tố). Hãy lắng nghe và khéo tác ý, Ta sẽ nói."
 
@@ -142,12 +142,12 @@ Nếu vị ấy mong muốn: 'Với thiên nhãn thanh tịnh, siêu phàm, mong
 Nếu vị ấy mong muốn: 'Mong rằng ta có thể chứng ngộ tâm giải thoát và tuệ giải thoát vô lậu ngay trong đời này, và sống sau khi đã chứng ngộ điều đó bằng thắng trí của chính mình nhờ sự đoạn trừ các lậu hoặc.' Vị ấy có khả năng chứng ngộ điều đó, vì mỗi điều và mọi điều đều nằm trong tầm tay."
 
 <!--pg-->
-### N 5.29 Kinh Hành *Caṅkamasutta*
+### AN 5.29 Kinh Hành *Caṅkamasutta*
 
 "Này các Tỳ kheo, có năm lợi ích của việc *kinh hành* (walking meditation / đi thiền). Năm lợi ích đó là gì? Trở nên khỏe mạnh để đi đường xa, khỏe mạnh để *siêng năng* (striving / nỗ lực) thiền định, và ít bệnh tật. Những gì đã ăn, uống, nhai, nếm được tiêu hóa đúng cách. Và định có được trong khi kinh hành sẽ kéo dài. Đây là năm lợi ích của việc kinh hành."
 
 <!--pg-->
-### N 5.30 Với Ngài Nāgita *Nāgitasutta*
+### AN 5.30 Với Ngài Nāgita *Nāgitasutta*
 
 TÔI NGHE NHƯ VẦY. Một thời Đức Phật đang du hành trong xứ Kosala cùng với một *Tăng đoàn* (Saṅgha / cộng đồng Tỳ kheo) đông đảo thì đến một ngôi làng của các Bà la môn xứ Kosala tên là Icchānaṅgala. Ngài trú tại một khu rừng gần Icchānaṅgala. Các Bà la môn và gia chủ ở Icchānaṅgala nghe tin:
 

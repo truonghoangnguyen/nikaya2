@@ -1,20 +1,20 @@
 # The Chapter with Kakudha
 
-### N 5.91 Accomplishments (1st)  *Paṭhamasampadāsutta*
+### AN 5.91 Accomplishments (1st)  *Paṭhamasampadāsutta*
 
 "Mendicants, there are five accomplishments. What five? Accomplishment
 in faith, ethics, learning, generosity, and wisdom. These are the five
 accomplishments."
 
 <!--pg-->
-### N 5.92 Accomplishment (2nd)  *Dutiyasampadāsutta*
+### AN 5.92 Accomplishment (2nd)  *Dutiyasampadāsutta*
 
 "Mendicants, there are five accomplishments. What five? Accomplishment
 in ethics, immersion, wisdom, freedom, and the knowledge and vision of
 freedom. These are the five accomplishments."
 
 <!--pg-->
-### N 5.93 Declarations  *Byākaraṇasutta*
+### AN 5.93 Declarations  *Byākaraṇasutta*
 
 "Mendicants, there are five ways of declaring enlightenment. What five?
 One declares enlightenment out of stupidity and folly. Or because of
@@ -23,7 +23,7 @@ mental disorder. Or out of overestimation. Or one declares enlightenment
 rightly. These are the five ways of declaring enlightenment."
 
 <!--pg-->
-### N 5.94 Living Comfortably  *Phāsuvihārasutta*
+### AN 5.94 Living Comfortably  *Phāsuvihārasutta*
 
 "Mendicants, there are these five ways of living comfortably. What five?
 It's when a mendicant, quite secluded from sensual pleasures, secluded
@@ -37,7 +37,7 @@ they live having realized it with their own insight due to the ending of
 defilements. These are the five ways of living comfortably."
 
 <!--pg-->
-### N 5.95 Unshakable  *Akuppasutta*
+### AN 5.95 Unshakable  *Akuppasutta*
 
 "Mendicants, a mendicant who has five things will soon penetrate the
 unshakable. What five? It's when a mendicant has attained the textual
@@ -46,7 +46,7 @@ the extent of their mind's freedom. A mendicant who has these five
 things will soon penetrate the unshakable."
 
 <!--pg-->
-### N 5.96 Remembering What You've Learned  *Sutadharasutta*
+### AN 5.96 Remembering What You've Learned  *Sutadharasutta*
 
 "Mendicants, a mendicant cultivating mindfulness of breathing who has
 five things will soon penetrate the unshakable. What five?
@@ -71,7 +71,7 @@ A mendicant cultivating mindfulness of breathing who has these five
 things will soon penetrate the unshakable."
 
 <!--pg-->
-### N 5.97 Talk  *Kathāsutta*
+### AN 5.97 Talk  *Kathāsutta*
 
 "Mendicants, a mendicant developing mindfulness of breathing who has
 five things will soon penetrate the unshakable. What five?
@@ -95,7 +95,7 @@ A mendicant developing mindfulness of breathing who has these five
 things will soon penetrate the unshakable."
 
 <!--pg-->
-### N 5.98 In the Wilderness  *Āraññakasutta*
+### AN 5.98 In the Wilderness  *Āraññakasutta*
 
 "Mendicants, a mendicant practicing mindfulness of breathing who has
 five things will soon penetrate the unshakable. What five? It's when a
@@ -108,7 +108,7 @@ mindfulness of breathing who has these five things will soon penetrate
 the unshakable."
 
 <!--pg-->
-### N 5.99 The Lion  *Sīhasutta*
+### AN 5.99 The Lion  *Sīhasutta*
 
 "Mendicants, towards evening the lion, king of beasts, emerges from his
 den, yawns, looks all around the four quarters, and roars his lion's
@@ -126,7 +126,7 @@ and hunters---he teaches them carefully, not carelessly. Why is that?
 Because the Realized One has respect and reverence for the teaching."
 
 <!--pg-->
-### N 5.100 With Kakudha  *Kakudhatherasutta*
+### AN 5.100 With Kakudha  *Kakudhatherasutta*
 
 SO I HAVE HEARD. At one time the Buddha was staying near
 Kosambī, in Ghosita's Monastery.

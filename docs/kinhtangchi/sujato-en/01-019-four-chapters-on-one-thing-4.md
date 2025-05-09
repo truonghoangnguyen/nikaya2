@@ -1,6 +1,6 @@
 # Four Chapters on One Thing (4-Catutthavagga)
 
-### N 1.333--377 *Catutthavagga*
+### AN 1.333--377 *Catutthavagga*
 
 333\. "Just as, mendicants, in the Black Plum Tree Land the delightful parks,
 woods, meadows, and lotus ponds are few, while the hilly terrain,
@@ -12,7 +12,6 @@ in water are many.
 334\. ... so too the sentient beings reborn as humans are few, while those not
 reborn as humans are many.
 
-<!--pg-->
 335\. ... so too the sentient beings reborn in civilized countries are few,
 while those reborn in the borderlands, among uneducated foreigners, are
 many.
@@ -134,4 +133,3 @@ realm, or the ghost realm are many."
 few, while those who die as ghosts and are reborn in hell, or the animal
 realm, or the ghost realm are many."
 
-<!--pg-->

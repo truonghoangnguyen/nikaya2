@@ -125,7 +125,17 @@ Các chương của thầy TMC và Woodward-Hare giống nhau, nhưng không đ�
   --> Chia TMC 02-16 ra 2 file, 02-16-1 (02-16), 02-16-2 (02-17)
   --> Chia TMC 02-17 ra 2 file, 02-17-1 (02-18), 02-17-2 (02-19)
 
+  @9-5-2025
+  Chuyển ngược lại theo TMC 17 phẩm:
+  Nối 2 file Sujato
+    - 02-16 và 02-17 thành 02-16
+    - 02-18 và 02-19 thành 02-17
+
 #### chương 3 done
 - Sujato 18 phẩm
 - TMC 16 phẩm ->
   /03-004- 2 đoạn cuối không thấy bên Sujato
+
+@9-5-2025
+1. Hiện tại chia TMC 03-16 thành 3 file -> Nối trở lại như cũ
+2. Nối file Sujato 3 file cuối vào với nhau

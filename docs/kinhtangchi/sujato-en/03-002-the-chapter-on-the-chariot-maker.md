@@ -1,6 +1,6 @@
 # The Chapter on the Chariot-maker
 
-### N 3.11 Well-known  *Ñātasutta*
+### AN 3.11 Well-known  *Ñātasutta*
 
 "Mendicants, a well-known mendicant who has three qualities is acting
 for the detriment and suffering of the people, against the people, for
@@ -22,7 +22,7 @@ welfare and happiness of the people, for the people, for the benefit,
 welfare, and happiness of gods and humans."
 
 <!--pg-->
-### N 3.12 Commemoration  *Sāraṇīyasutta*
+### AN 3.12 Commemoration  *Sāraṇīyasutta*
 
 "An anointed aristocratic king should commemorate three places as long
 as he lives. What three? The place he was born. This is the first place.
@@ -50,7 +50,7 @@ third place. These are the three places a mendicant should commemorate
 as long as they live."
 
 <!--pg-->
-### N 3.13 Hopes  *Āsaṁsasutta*
+### AN 3.13 Hopes  *Āsaṁsasutta*
 
 "These three people are found in the world. What three? The hopeless,
 the hopeful, and the one who has done away with hope. And what,
@@ -119,7 +119,7 @@ has now died down. This is called a person who has done away with hope.
 These are the three people found among the mendicants."
 
 <!--pg-->
-### N 3.14 The Wheel-Turning Monarch  *Cakkavattisutta*
+### AN 3.14 The Wheel-Turning Monarch  *Cakkavattisutta*
 
 "Mendicants, even a wheel-turning monarch, a just and principled king,
 does not wield power without having their own king." When he said this,
@@ -161,7 +161,7 @@ cannot be rolled back by any ascetic or brahmin or god or
 Māra\.  or divinity or by anyone in the world."
 
 <!--pg-->
-### N 3.15 About Pacetana  *Sacetanasutta*
+### AN 3.15 About Pacetana  *Sacetanasutta*
 
 At one time the Buddha was staying near Varanasi, in the deer park at
 Isipatana. There the Buddha addressed the mendicants, "Mendicants!"
@@ -233,7 +233,7 @@ So you should train like this: 'We will give up the crooks, flaws, and
 defects of body, speech, and mind.' That's how you should train."
 
 <!--pg-->
-### N 3.16 Unfailing  *Apaṇṇakasutta*
+### AN 3.16 Unfailing  *Apaṇṇakasutta*
 
 "Mendicants, when a mendicant has three things their practice is
 unfailing, and they have laid the groundwork for ending the defilements.
@@ -277,7 +277,7 @@ When a mendicant has these three things their practice is unfailing, and
 they have laid the groundwork for ending the defilements."
 
 <!--pg-->
-### N 3.17 Hurting Yourself  *Attabyābādhasutta*
+### AN 3.17 Hurting Yourself  *Attabyābādhasutta*
 
 "These three things, mendicants, lead to hurting yourself, hurting
 others, and hurting both. What three? Bad conduct by way of body,
@@ -294,7 +294,7 @@ These are three things that don't lead to hurting yourself, hurting
 others, or hurting both."
 
 <!--pg-->
-### N 3.18 The Realm of the Gods  *Devalokasutta*
+### AN 3.18 The Realm of the Gods  *Devalokasutta*
 
 "Mendicants, if wanderers who follow another religion were to ask you:
 'Reverend, do you lead the spiritual life with the ascetic Gotama so
@@ -309,7 +309,7 @@ should you be horrified, embarrassed, and disgusted by bad conduct by
 way of body, speech, and mind."
 
 <!--pg-->
-### N 3.19 A Shopkeeper (1st)  *Paṭhamapāpaṇikasutta*
+### AN 3.19 A Shopkeeper (1st)  *Paṭhamapāpaṇikasutta*
 
 "Mendicants, a shopkeeper who has three factors is unable to acquire
 more wealth or to increase the wealth they've already acquired. What
@@ -346,7 +346,7 @@ skillful qualities or to increase the skillful qualities they've already
 acquired."
 
 <!--pg-->
-### N 3.20 A Shopkeeper (2nd)  *Dutiyapāpaṇikasutta*
+### AN 3.20 A Shopkeeper (2nd)  *Dutiyapāpaṇikasutta*
 
 "Mendicants, a shopkeeper who has three factors soon acquires great and
 abundant wealth. What three? It's when a shopkeeper sees clearly, is

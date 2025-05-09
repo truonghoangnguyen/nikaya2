@@ -1,6 +1,6 @@
 # The Chapter at Tikaṇḍakī
 
-### N 5.141 Scorn  *Avajānātisutta*
+### AN 5.141 Scorn  *Avajānātisutta*
 
 "Mendicants, these five people are found in the world. What five? One
 gives then scorns, one lives together then scorns, one is gullible for
@@ -32,7 +32,7 @@ of dark and bright. That's how a person is dull and stupid.
 These are the five people found in the world."
 
 <!--pg-->
-### N 5.142 Transgression  *Ārabhatisutta*
+### AN 5.142 Transgression  *Ārabhatisutta*
 
 "Mendicants, these five people are found in the world. What five?
 
@@ -87,7 +87,7 @@ comparison with the fifth person, they gradually attain the ending of
 defilements."
 
 <!--pg-->
-### N 5.143 At Sārandada  *Sārandadasutta*
+### AN 5.143 At Sārandada  *Sārandadasutta*
 
 At one time the Buddha was staying near Vesālī, at the
 Great Wood, in the hall with the peaked roof.
@@ -141,7 +141,7 @@ A person who is grateful and thankful.
 The appearance of these five treasures is rare in the world."
 
 <!--pg-->
-### N 5.144 At Tikaṇḍakī  *Tikaṇḍakīsutta*
+### AN 5.144 At Tikaṇḍakī  *Tikaṇḍakīsutta*
 
 At one time the Buddha was staying near Sāketa, in
 Tikaṇḍakī Wood. There the Buddha addressed the mendicants,
@@ -189,7 +189,7 @@ all.' For this reason a mendicant should meditate staying equanimous,
 mindful and aware, rejecting both the repulsive and the unrepulsive."
 
 <!--pg-->
-### N 5.145 Hell  *Nirayasutta*
+### AN 5.145 Hell  *Nirayasutta*
 
 "Mendicants, someone with five qualities is cast down to hell. What
 five? They kill living creatures, steal, commit sexual misconduct, lie,
@@ -202,7 +202,7 @@ beer, wine, and liquor intoxicants. Someone with these five qualities is
 raised up to heaven."
 
 <!--pg-->
-### N 5.146 A Friend  *Mittasutta*
+### AN 5.146 A Friend  *Mittasutta*
 
 "Mendicants, you shouldn't associate with a mendicant friend who has
 five qualities. What five? They start up work projects. They take up
@@ -221,7 +221,7 @@ talk. You should associate with a mendicant friend who has these five
 qualities."
 
 <!--pg-->
-### N 5.147 Gifts of an Untrue Person  *Asappurisadānasutta*
+### AN 5.147 Gifts of an Untrue Person  *Asappurisadānasutta*
 
 "Mendicants, there are these five gifts of an untrue person. What five?
 They give carelessly. They give thoughtlessly. They don't give with
@@ -234,7 +234,7 @@ don't give the dregs. They give with consideration for consequences.
 These are the five gifts of a true person."
 
 <!--pg-->
-### N 5.148 Gifts of a True Person  *Sappurisadānasutta*
+### AN 5.148 Gifts of a True Person  *Sappurisadānasutta*
 
 "There are these five gifts of a true person. What five? They give a
 gift out of faith. They give a gift carefully. They give a gift at the
@@ -267,7 +267,7 @@ fire, flood, rulers, bandits, or unloved heirs.
 These are the five gifts of a true person."
 
 <!--pg-->
-### N 5.149 Temporarily Free (1st)  *Paṭhamasamayavimuttasutta*
+### AN 5.149 Temporarily Free (1st)  *Paṭhamasamayavimuttasutta*
 
 "Mendicants, these five things lead to the decline of a mendicant who is
 temporarily free. What five? They relish work, talk, sleep, and company.
@@ -281,7 +281,7 @@ things don't lead to the decline of a mendicant who is temporarily
 free."
 
 <!--pg-->
-### N 5.150 Temporarily Free (2nd)  *Dutiyasamayavimuttasutta*
+### AN 5.150 Temporarily Free (2nd)  *Dutiyasamayavimuttasutta*
 
 "Mendicants, these five things lead to the decline of a mendicant who is
 temporarily free. What five? They relish work, talk, and sleep. They

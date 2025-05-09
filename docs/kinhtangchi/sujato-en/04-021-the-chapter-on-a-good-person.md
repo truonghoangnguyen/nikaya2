@@ -1,7 +1,7 @@
 # The Chapter on a Good Person
 
 
-### N 4.201 Training Rules *Sikkhāpadasutta*
+### AN 4.201 Training Rules *Sikkhāpadasutta*
 
 "Mendicants, I will teach you an untrue person and an even more untrue
 person, a true person and an even truer person. Listen and apply your
@@ -28,7 +28,7 @@ and liquor intoxicants. And they encourage others to refrain from these
 things. This is called an even truer person."
 
 <!--pg-->
-### N 4.202 Faithless *Assaddhasutta*
+### AN 4.202 Faithless *Assaddhasutta*
 
 "Mendicants, I will teach you an untrue person and an even more untrue
 person, a true person and an even truer person.
@@ -52,7 +52,7 @@ mindfulness, and wisdom. And they encourage others in these same
 qualities. This is called an even truer person."
 
 <!--pg-->
-### N 4.203 Seven Kinds of Deeds *Sattakammasutta*
+### AN 4.203 Seven Kinds of Deeds *Sattakammasutta*
 
 "Mendicants, I will teach you an untrue person and an even more untrue
 person, a true person and a truer person.
@@ -76,7 +76,7 @@ divisive, harsh, or nonsensical. And they encourage others to refrain
 from these things. This is called an even truer person."
 
 <!--pg-->
-### N 4.204 Ten Kinds of Deeds *Dasakammasutta*
+### AN 4.204 Ten Kinds of Deeds *Dasakammasutta*
 
 "Mendicants, I will teach you an untrue person and an even more untrue
 person, a true person and an even truer person.
@@ -104,7 +104,7 @@ kind-hearted, with right view. And they encourage others to do these
 things. This is called an even truer person."
 
 <!--pg-->
-### N 4.205 Eightfold *Aṭṭhaṅgikasutta*
+### AN 4.205 Eightfold *Aṭṭhaṅgikasutta*
 
 "Mendicants, I will teach you an untrue person and an even more untrue
 person, a true person and an even truer person.
@@ -129,7 +129,7 @@ right mindfulness, and right immersion. And they encourage others in
 these same qualities. This is called an even truer person."
 
 <!--pg-->
-### N 4.206 The Path with Ten Factors *Dasamaggasutta*
+### AN 4.206 The Path with Ten Factors *Dasamaggasutta*
 
 "Mendicants, I will teach you an untrue person and an even more untrue
 person, a true person and an even truer person.
@@ -157,7 +157,7 @@ And they encourage others in these same qualities. This is called an
 even truer person."
 
 <!--pg-->
-### N 4.207 Bad Character (1st) *Paṭhamapāpadhammasutta*
+### AN 4.207 Bad Character (1st) *Paṭhamapāpadhammasutta*
 
 "Mendicants, I will teach you who's bad and who's worse, who's good and
 who's better.
@@ -184,7 +184,7 @@ right view. And they encourage others to do these things. This is called
 better."
 
 <!--pg-->
-### N 4.208 Bad Character (2nd) *Dutiyapāpadhammasutta*
+### AN 4.208 Bad Character (2nd) *Dutiyapāpadhammasutta*
 
 "Mendicants, I will teach you who's bad and who's worse, who's good and
 who's better.
@@ -209,7 +209,7 @@ right immersion, right knowledge, and right freedom. And they encourage
 others in these same qualities. This is called better."
 
 <!--pg-->
-### N 4.209 Bad Character (3rd) *Tatiyapāpadhammasutta*
+### AN 4.209 Bad Character (3rd) *Tatiyapāpadhammasutta*
 
 "Mendicants, I will teach you bad character and worse character, good
 character and better character.
@@ -237,7 +237,7 @@ kind-hearted, with right view. And they encourage others to do these
 things. This is called better character."
 
 <!--pg-->
-### N 4.210 Bad Character (4th) *Catutthapāpadhammasutta*
+### AN 4.210 Bad Character (4th) *Catutthapāpadhammasutta*
 
 "Mendicants, I will teach you bad character and worse character, good
 character and better character.

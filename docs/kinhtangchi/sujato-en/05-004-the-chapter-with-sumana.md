@@ -1,6 +1,6 @@
 # The Chapter with Sumanā
 
-### N 5.31 With Sumanā  *Sumanasutta*
+### AN 5.31 With Sumanā  *Sumanasutta*
 
 At one time the Buddha was staying near Sāvatthī in Jeta's
 Grove, Anāthapiṇḍika's monastery. Then Princess
@@ -88,7 +88,7 @@ say:
 > they depart to rejoice in heaven."
 
 <!--pg-->
-### N 5.32 With Cundī  *Cundīsutta*
+### AN 5.32 With Cundī  *Cundīsutta*
 
 At one time the Buddha was staying near Rājagaha, in the
 Bamboo Grove, the squirrels' feeding ground. Then Princess
@@ -166,7 +166,7 @@ the best. Fulfilling the best, the result is the best.
 > they rejoice at reaching the best."
 
 <!--pg-->
-### N 5.33 With Uggaha  *Uggahasutta*
+### AN 5.33 With Uggaha  *Uggahasutta*
 
 At one time the Buddha was staying near Bhaddiya, in Jātiyā
 Wood.
@@ -239,7 +239,7 @@ with the Gods of the Agreeable Host.
 > called 'Agreeable'."
 
 <!--pg-->
-### N 5.34 With General Sīha  *Sīhasenāpatisutta*
+### AN 5.34 With General Sīha  *Sīhasenāpatisutta*
 
 At one time the Buddha was staying near Vesālī, at the
 Great Wood, in the hall with the peaked roof.
@@ -307,7 +307,7 @@ realm.
 > disciples of the Holy One rejoice in heaven."
 
 <!--pg-->
-### N 5.35 The Benefits of Giving  *Dānānisaṁsasutta*
+### AN 5.35 The Benefits of Giving  *Dānānisaṁsasutta*
 
 "Mendicants, there are five benefits of giving. What five? A giver, a
 donor is dear and beloved by many people. Good and true persons
@@ -327,7 +327,7 @@ giving.
 > the undefiled one is fully extinguished."
 
 <!--pg-->
-### N 5.36 Timely Gifts  *Kāladānasutta*
+### AN 5.36 Timely Gifts  *Kāladānasutta*
 
 "Mendicants, there are these five timely gifts. What five? A gift to a
 visitor. A gift to someone setting out on a journey. A gift to someone
@@ -353,7 +353,7 @@ the five timely gifts.
 > support them in the next world."
 
 <!--pg-->
-### N 5.37 Food  *Bhojanasutta*
+### AN 5.37 Food  *Bhojanasutta*
 
 "Mendicants, when a giver gives food, they give the recipients five
 things. What five? Long life, beauty, happiness, strength, and
@@ -382,7 +382,7 @@ When a giver gives food, they give the recipients five things.
 > wherever they're reborn."
 
 <!--pg-->
-### N 5.38 Faith  *Saddhasutta*
+### AN 5.38 Faith  *Saddhasutta*
 
 "Mendicants, a faithful gentleman gets five benefits. What five? The
 true persons in the world show sympathy first to the faithful, not so
@@ -424,7 +424,7 @@ laymen.
 > the undefiled one is fully extinguished."
 
 <!--pg-->
-### N 5.39 A Child  *Puttasutta*
+### AN 5.39 A Child  *Puttasutta*
 
 "Mendicants, parents see five reasons to wish for the birth of a child
 in the family. What five? Since we looked after them, they'll look after
@@ -460,7 +460,7 @@ to wish for the birth of a child in the family.
 > such a child is praiseworthy."
 
 <!--pg-->
-### N 5.40 Great Sal Trees  *Mahāsālaputtasutta*
+### AN 5.40 Great Sal Trees  *Mahāsālaputtasutta*
 
 "Mendicants, great sal trees grow in five ways supported by the
 Himalayas, the king of mountains. What five? The branches, leaves, and

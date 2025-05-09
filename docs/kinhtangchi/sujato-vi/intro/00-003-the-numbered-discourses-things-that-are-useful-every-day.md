@@ -1,1036 +1,229 @@
-# The Numbered Discourses: things that are useful every day
-
-::: flushright
-*Bhikkhu Sujato, 2019*
-:::
-
-The Aṅguttara Nikāya is the last and longest
-of the four primary divisions of the Sutta Piṭaka. The word
-*aṅguttara* means "up by one factor", i.e. "incremental".
-It refers to the fact that the discourses are arranged by numbered sets,
-with the numbers increasing by one. I have translated it as *Numbered
-Discourses*, while previously it has been translated as the *Numerical
-Discourses* or the *Gradual Sayings*.
-
-SuttaCentral follows Bhikkhu Bodhi's translation in counting 8122
-discourses in total. The summary verse at the end of the collection,
-however, says there are 9,557 suttas. This scribal remark does not say
-how this count was arrived at; it must have been quite a process to
-count so many discourses when dealing only with palm-leaf manuscripts.
-In any case, as with the Saṁyutta Nikāya, this
-count is largely a product of discourses repeated according to
-templates. Many of these consist only of a single word; indeed, the
-process of abbreviation is carried to such extremes that hundreds of
-suttas do not exist at all in the text; they are merely numbers to be
-filled out. Also, in the case of the Ones and Twos, most of the suttas
-are longer texts that have been divided to make the numbers. On
-SuttaCentral, these are treated as if one *vagga* was a sutta, and the
-abbreviated texts likewise are combined. If we count the files of the
-texts combined in this way, we arrive at more reasonable, but still very
-large, 1407 texts of substance.
-
-The focus of the *Numbered Discourses* is on practical matters of
-everyday relevance. Guidelines of ethics and character predominate. If
-the Saṁyutta Nikāya gathers the chief
-teachings on *doctrines*, the Aṅguttara gathers the
-teachings on *persons*. The concerns of the lay community are a major
-focus, and many teachings deal with how to teach.
-
-The use of numbered sets is found throughout the Buddhist texts, but
-here it becomes the main organizing principle. The typical
-Aṅguttara discourse consists of a statement that there is
-certain number of something; then an explanation of each item; then a
-conclusion that echoes the introduction. Sometimes a verse is added that
-summarizes the content. This formal pattern is highly optimized to
-reinforce learning and memorization. It is, in essence, the same format
-that is used in the nightly news: begin by listing the news items for
-today; give the stories of each of the items; and then summarize the
-highlights once more. The use of numbered sets remains popular today,
-with the "listicle" being a favorite format for internet articles.
-
-Unlike these modern examples, however, the sets of teachings in the
-Aṅguttara are strongly structured. They are not merely
-collections of items on a theme, but make up an integrated sequence. The
-first item is the most fundamental; the subsequent items evolve from or
-build upon that; and the final item caps off the sequence.
-
-For this reason the Aṅguttara provides an excellent entry
-point to the canon, especially for those with a limited amount of time.
-It only takes a few minutes to read a sutta, and it will contain within
-itself a complete and useful teaching.
-
-The Aṅguttara Nikāya has a counterpart in the
-Ekottarikāgama preserved in the Chinese canon (EA). The
-Ekottarikāgama is a peculiar text of uncertain (possibly
-Mahāsaṅghika) affiliation, and it differs from the Pali
-text to a much greater extent than the parallels for DN, MN, and SN. In
-addition, there are two partial Ekottarikas in Chinese, as well as
-several independent Ekottarika-style suttas. Moreover, a substantial
-portion of a Sanskrit Ekottarāgama was discovered at Gilgit
-and has been edited and partially reconstructed by
-Tripāṭhi. While it is difficult to generalize, it seems as
-if most of these materials lie closer to the Pali text than the main EA
-in Chinese.
-
-### How the Aṅguttara is Organized
-
-The Aṅguttara Nikāya consists of major "books"
-(*nipāta*) numbered one through eleven. Each of these
-contains discourses consisting of the corresponding number of items. As
-usual, the discourses are gathered into *vaggas*, which sometimes have a
-loose theme. Each *nipāta*, except the first, organizes its
-*vaggas* into *paṇṇāsas*.
-
-I don't know why the Aṅguttara counts to eleven; I would
-expect a round number. Eleven is shared in common with the Chinese
-Ekottarikāgama, which suggests it was an early feature, yet
-it does not appear to be driven by the texts themselves, as most of the
-items in the Book of the Elevens consist of teachings familiar
-elsewhere, with the addition of an item or two.
-
-It sometimes feels as if the Aṅguttara was assembled from
-leftovers. After the long suttas were gathered in the Majjhima and
-Dīgha, and the shorter suttas on central themes into the
-Saṁyutta, a large mass of texts remained that resisted easy
-categorization. This included many fascinating and profound teachings,
-as well as a large mass of stock repetitions, and it trailed off into
-odds and ends of increasingly obscure value. It's as if the redactors,
-faced with a warehouse of leftovers and bric-à-brac, tried their best to
-shelve and stack the items in a logical way, but were often left with
-just plonking things on shelves as best they could. Since the texts
-usually had a distinct number in the teaching, this was taken as the
-organizational principle, in lieu of anything more meaningful. Even
-texts that don't explicitly mention a number can often be analyzed into
-a set of items, so they could be included too. (See for example [AN
-3.31](https://suttacentral.net/an3.31) and [AN
-3.32](https://suttacentral.net/an3.32).)
-
-To be clear, it should not be thought that the Aṅguttara
-lacks the standard teachings familiar from the rest of the
-*nikāyas*. On the contrary, we find the four absorptions
-([AN 3.58](https://suttacentral.net/an3.58)), the four noble truths and
-dependent origination ([AN 3.61](https://suttacentral.net/an3.61)), the
-faculties and powers ([AN 4.163](https://suttacentral.net/an4.163); the
-latter in some detail at [AN
-5.12--16](https://suttacentral.net/an5.12)), the threefold training ([AN
-3.81](https://suttacentral.net/an3.81)), the divine meditations ([AN
-3.63](https://suttacentral.net/an3.63)), and many more. But such
-teachings are scattered throughout a large mass of suttas on a diverse
-range of topics.
-
-In the introduction to his translation, Bhikkhu Bodhi practically
-abandons any attempt to make sense of the structure. He gives an example
-of a chapter with several seemingly unrelated discourses, remarking:
-"With such apparently arbitrary organization, one cannot but wonder what
-the compilers had in mind." (*The Numerical Discourses of the Buddha*,
-introduction, p. 22). As a result, rather than analyze the content as it
-occurs in the Aṅguttara, he developed an extensive and
-carefully-considered thematic analysis. [This essay is available on
-SuttaCentral](https://suttacentral.net/an-introduction-bodhi), and I
-encourage anyone interested in a serious study of the
-Aṅguttara to read it.
-
-I would like to approach the material from a different perspective,
-however, one that lies closer to the experience of reading the text. I
-find Bhikkhu Bodhi's question an intriguing one: what were the redactors
-thinking?
-
-While there is no doubt that the sequence of suttas and ideas in the
-Aṅguttara is to some extent chaotic, is it plausible that
-the same body of people who displayed such rigorous dedication to
-classification in the Saṁyutta should simply abandon their
-efforts in the Aṅguttara? Perhaps to understand the
-redactors better, and through them the teachings that they worked with,
-we must approach the problem in a new way.
-
-Here are three organizational principles that I have noticed while
-reading the Aṅguttara:
-
-1.  Numerological meaning.
-
-2.  Thematic clusters, segues, and arcs.
-
-3.  Spaced repetition.
-
-Below I will show how these things work out over the first three
-*nipātas*. In this way, I hope to guide a reader through
-the wilds until they feel comfortable proceeding on their own.
-
-It is surely not the case that these are the only organizational
-principles at work. Nor is it the case that they fully explain all, or
-even most, of the randomness. But they do, I believe, hint at a guiding
-understanding that shaped the collection in the form we have it today.
-
-One general thought first. Much of how we organize and relate to the
-world is not through reason but through association. If we think of it
-in terms of the five aggregates, a collection such as the
-Saṁyutta Nikāya has an overall structure that
-is deliberately thought through and constructed, i.e. it is based on
-rational choices or *saṅkhārās*. Perhaps what we need to
-look for in the Aṅguttara is a different way of thinking,
-one based on perception, memory, and association (*saññā*).
-
-But why would such a large mass of texts be organized in such a way? The
-answer is not hard to find. Like so many of the principles that organize
-the texts, it is for memorization. For a reciter who has to keep
-hundreds of texts in order, *any* kind of connection works. It doesn't
-matter if it's the topic, a shared word, a syntax, a rhyme, or anything
-else. Perception recognizes patterns. It associates one thing with the
-next, regardless of how significant the connecting feature is.
-
-Imagine, if you will, that you're organizing your library. You could use
-a rational system: alphabetical order, subject matter, or size to fit
-your shelves. But it's your library, you can do what you want. Maybe on
-one shelf, you put books with blue covers; on another, books you haven't
-read; and on another, books whose smell reminds you of old friends. To
-anyone else it seems chaotic, but to you it makes perfect sense. You can
-find the book you need when you want to. Perception does the heavy
-lifting for you, without the cognitive strain of having to work through
-the rational system every time.
-
-#### The meaning of numbers
-
-For the most part the use of numbers in Buddhist texts is entirely
-pragmatic. Once you know that a set has a certain number of items, you
-can tell if you've forgotten something.
-
-Yet numbers have always been imbued with a significance and meaning that
-transcends mere accounting. They allow us to make sense of a complex
-cosmos through a simple set of conventions. Numbers are used in Buddhism
-to provoke awe, even fear, at the "astronomical" scope of
-transmigration. Is it possible that the symbolic meaning of numbers
-lends a sense of unity to the various *nipātas*?
-
-Symbolic meaning is, by its very nature, impossible to pin down with
-precision. Unlike rational definition, it does not serve to limit the
-scope of meaning but to amplify it through suggestion, hints, and
-connotations. The symbolic meaning of numbers has, so far as I know,
-mostly been ignored in Buddhist studies. Some numerological observations
-were made in the number entries in the Rhys Davids' and Stede's
-*Pali-English Dictionary*, but I am aware of little since then. However,
-we can make a few general observations.
-
-One
-
-:   The number of harmony, simplicity, and supremacy. It is especially
-    emphasized in the context of deep meditation (*jhāna*
-    or *samādhi*). However, unlike many spiritual contexts,
-    in Buddhism it never has a metaphysical sense: Nibbāna
-    is zero, not one; it is emptiness, not unity.
-
-Two
-
-:   Used for pairs, which may be partners---hands, eyes, man and
-    wife---opponents---good vs. evil, light vs. dark, pain vs.
-    pleasure---or successors---skill in entering meditation and skill in
-    leaving it. It represents the dualities of the world.
-
-Three
-
-:   Made up of 2 + 1. It adds an extra, often spiritual, dimension to
-    the worldly dualism of two. This is quite explicit in such sets as
-    "gratification, drawback, and escape", and more subtly in, say,
-    pleasant, painful, and neutral feelings. Three represents the
-    *other*; and it is the other which contains the seed of
-    transcendence.
-
-Four
-
-:   The most characteristic number of Buddhism, and the Book of the
-    Fours is the largest of the *nipātas*. Its primary
-    metaphor is the four quarters, and thus connotes totality and
-    balance, most obviously in the four noble truths. Multiples of four
-    have the same meaning at a higher order. Ten is similar, in that it
-    is derived from the four quarters, the four intermediate quarters,
-    and above and below.
-
-Five
-
-:   Stems from the hand, which is what we use to count; hence it divides
-    into 4 + 1 (fingers and thumb) rather than 2 + 3. The most obvious
-    example of this is the five "grasping" aggregates, where
-    consciousness stands against the other four. Likewise in, say, the
-    five faculties and powers, wisdom is the "thumb".
-
-Six
-
-:   Takes as its root metaphor the body: four limbs, torso, and head.
-    The general sense is a "large whole", and the most prominent set is
-    the six sense fields.
-
-Seven
-
-:   An astronomical number, derived from the lunar cycles and the
-    heavenly bodies (sun + moon + five visible planets). It is used
-    especially commonly in myth, and has the general sense of "the
-    entire cycle of life and death". It appears in this sense in the
-    story of the Bodhisatta's birth.
-
-I believe that we can indeed discern traces of these meanings in the
-Aṅguttara, and offer some examples below. In some cases,
-the texts of a certain number would have been simply imported into the
-collection, while in other cases the text would have been edited
-specifically to create the necessary numbered set. Either way, having
-some sense of these meanings gives us a perspective through which to see
-the *nipātas* as meaningful wholes.
-
-With such general meanings, and doubtless many exceptions and
-contradictions, it is not possible to establish beyond doubt that the
-numbers of the Aṅguttara have a symbolic meaning. If you
-dislike any attempt at reading symbolic meaning, I cannot prove you
-wrong. But it does, I believe, give us an approach through which to
-appreciate why the redactors dealt with their diverse and complex
-material in this way.
-
-#### Thematic clusters, segues, and arcs
-
-Despite its chaotic impression, suttas in the Aṅguttara are
-rarely isolated. Most of the time they appear in *thematic clusters*
-that deal with the same topic. This might be just a pair of suttas,
-though it's not uncommon to find an entire *vagga* on a specific theme.
-These are often closely related suttas, simply varying a few details
-from one to the next. Or they may have a loose thematic thread,
-featuring, for example, the same person, or group of persons. In several
-cases, *vaggas* of the same name and theme appear multiple times in the
-collection.
-
-Such thematic clusters are easy to recognize; but still, it often seems
-as if there is nothing that connects one cluster with the next. However,
-this is not always the case. Often the shift from one cluster to another
-happens through what might be called a *thematic segue*. When moving
-from one thematic cluster to the next, some common element is
-maintained. This might be a topic, or simply some formal feature---a
-question format, a word, a syntax, etc. Such hooks help smooth the
-transition from cluster to cluster.
-
-In such cases we find that there is some element in the first cluster
-\[A\], which is combined with a second element \[AB\] to form a new
-cluster or extend the old one. Then the second element is combined with
-something else to make yet another cluster \[BC\]. And perhaps later the
-second element is dropped altogether leaving just the third \[C\], or it
-is recombined with something new. If you compare the first element \[A\]
-with the third \[C\] there's nothing in common. Yet the progress from
-one to the other is gradual. And the frequency with which this occurs
-shows that it is by no means accidental.
-
-Similar techniques are a stock in trade of musical composition. After
-introducing a motif, the composer gradually transforms and develops it.
-Eventually, they might arrive at a new motif, which shares nothing in
-common with the original, but from which it evolved.
-
-A thematic segue is often a purely formal technique that says little
-about the subject matter. However, with careful attention we can see
-that thematic clusters, chained together with segues, sometimes evolve
-over larger spans of text to create a loosely organized *thematic arc*.
-Such arcs echo teaching frameworks that are familiar from elsewhere,
-such as the Gradual Training. This is used, for example, to inform the
-shape of the first 75 suttas of the Book of the Ones. Such arcs are by
-no means as clear and formally structured as the teachings on which they
-are based. Yet the progress from one topic to the next is undeniable.
-
-Indeed, each *nipāta* can be seen as forming its own arc,
-as they typically begin with basic practices, and end with realizing
-Nibbāna. The repetition series that round out each
-*nipāta* also have their internal arc, leading towards the
-highest qualities.
-
-#### Spaced repetition
-
-In the Dīgha and Majjhima Nikāyas, a student
-would spend a fair period of time memorizing one specific text,
-rehearsing it, and---if they are a good student---inquiring and
-questioning about the meaning. Only when it was mastered would they move
-on to the next. In the Saṁyutta, a student would learn
-dozens, even hundreds of suttas on the same topic, sharing similar
-passages and ideas, and often varying little one to the other. Such
-suttas may be memorized quickly, and interpretive problems often arise
-at the level of the topic rather than the individual text.
-
-But memorizing long texts, or many texts on the same subject, can get
-boring, for the mind is stimulated by variety and surprise. In the
-Aṅguttara, a student would learn one or two suttas on a
-topic, or maybe a few more, then something else, then back to the
-original topic, then a third. Now, as we have seen, various features
-help keep the sequence of texts straight. But perhaps there is something
-more to it: perhaps the very randomness and repetition help them to
-learn.
-
-This is a lot like the modern technique known as "spaced repetition",
-commonly used for language learning. A vocabulary of words is introduced
-one at a time in a random sequence. After learning one word, one moves
-on to another. But the first word is then re-introduced a little later
-to reinforce learning. And so it goes, with the same words coming back
-again and again. In terms of the sequence from one word to the next,
-everything is random. But the overall pattern is carefully optimized to
-reinforce and speed up memorization.
-
-Perhaps we could think of it like a school. The Saṁyutta is
-like a school *curriculum*: everything you need to know on a topic, all
-in one place. But the Aṅguttara is like a school *day*. One
-class follows the other, and there is no real rhyme and reason to it.
-Some things happen fairly regularly and predictably, while others seem
-to just pop up at random. Despite its more chaotic nature, it works:
-that's how we learn. No one would suggest that school subjects are best
-mastered by first learning the science curriculum, then the maths, then
-the history. Not only does the spaced repetition reinforce learning, but
-it provokes us to see new and unexpected connections between things.
-
-### The Book of the Ones
-
-I have suggested that the number one carries with it a specific set of
-connotations, notably harmony, simplicity, and supremacy. If this is
-framed as an overall theme, it might be something like this: keep your
-spiritual practice simple and focused to help your mind attain deep
-immersion, and in that way, you can realize the supreme Dhamma. Let us
-see how the Book of the Ones exemplifies these attributes.
-
-The Book of the Ones is a rather special case in that virtually the
-entire *nipāta* is constructed from fragments and
-templates. The collection begins with the striking assertion that no
-sight occupies a man's mind like that of a woman, or a woman's mind like
-that of a man. The remainder of the exterior senses are listed for each
-gender binary, making ten suttas in all for the first *vagga*. This very
-much has the appearance of a single sutta divided into ten. In the Fives
-([AN 5.55](https://suttacentral.net/an5.55)) we find a similar set of
-statements given in a particular context, dealing with the masculine
-perspective only. And in the Chinese, we find that the parallels at EA
-9.7 and EA 9.8 fit the two halves of this *vagga*. This supports the
-idea that these texts were originally combined to form a single sutta,
-or perhaps a pair of suttas.
-
-An even clearer example of this is provided by the three pairs of suttas
-at [AN 1.76](https://suttacentral.net/an1.76) to [AN
-1.81](https://suttacentral.net/an1.81). Each of the pairs follows the
-same pattern, exemplified by the first pair. [AN
-1.76](https://suttacentral.net/an1.76) says that the loss of relatives
-is a small thing, while wisdom is the worst thing to lose. [AN
-1.77](https://suttacentral.net/an1.77) presents the inverse: growth of
-relatives is a small thing, for wisdom is the best thing to grow. But it
-continues to round off the sutta by urging the mendicants to train to
-grow in wisdom. This conclusion is lacking in the first of the pair and
-is a clear sign that the text has been divided.
-
-One should not conclude from this that the text has been assembled
-haphazardly. On the contrary, we can identify a series of arcs that bind
-long series of suttas together. The opening chapters are designed to
-show the development of meditation, echoing the meditator's progress in
-the Gradual Training.
-
-- The first chapter, as we have seen already, deals with the restraint
-  of sexuality, one of the foundations of meditation.
-
-- The second chapter deals with the hindrances which must be abandoned
-  before entering deep meditation. This is linked via a thematic segue
-  from the previous chapter, the link being the phrase "I do not see a
-  single thing".
-
-- The third and fourth chapters deal with the advantages of the
-  developed mind, which has been purified through the process of
-  meditation: nothing brings greater happiness and benefit. They
-  continue using the phrase "I do not see a single thing".
-
-- The fifth chapter abandons the phrase "I do not see a single thing".
-  Here the thematic segue is the topic of "mind" (*citta*) and its
-  development.
-
-- The fifth chapter ends with two discourses that mention the famous
-  "radiant mind". These are fragments, and a more complete statement is
-  found in the following suttas that start the next chapter. It is
-  somewhat unusual to find such closely connected suttas broken over a
-  *vagga* boundary like this. Note that the "radiant mind" is not a
-  metaphysical term, and neither here nor anywhere else in the early
-  Buddhist texts is the mind said to be "intrinsically" or "naturally"
-  or "originally" radiant or luminous. On the contrary, the mind is
-  conditioned and hence is not "intrinsically" anything at all. The
-  radiant mind is simply a way of talking about meditative absorption or
-  *jhāna*.
-
-- The sixth chapter continues on the theme of absorption. However, it
-  changes theme at [AN 1.56](https://suttacentral.net/an1.56)---though
-  maintaining focus on "mind"---and continues by addressing the
-  causality of good and bad qualities. In context, these can be
-  understood as pertaining to the wisdom portion of meditation, as
-  treated in the fourth of the *satipaṭṭhānas*. This series
-  culminates at [AN 1.75](https://suttacentral.net/an1.75) with the
-  perfection of the awakening factors, thus signifying the completion of
-  the path.
-
-A structure such as this is particularly telling as it reveals the
-intent of the redactors. This thematic arc spanning 75 fragmentary
-suttas does not exist in the sources at all: it is purely implied by the
-choices of the redactors. Their method was to reduce the statements of
-the Dhamma to their simplest meaningful elements, then reassemble them
-according to the principles of the Dhamma as they understood them.
-
-And the redactors were even more subtle than that. For not only are
-these fragments assembled to form a coherent whole, but the choice of
-theme was quite deliberate. Of all the doctrinal contexts in Buddhism,
-it is *samādhi* or "unification of mind" where the number
-one is most prominent. In starting with the Ones, the redactors were
-sensitive to the use of numbers in the canon, and arranged their texts
-to bring the most important "one" to the fore.
-
-From here, the text shifts focus. As noted above, [AN
-1.76--81](https://suttacentral.net/an1.71-81) deals with pairs of gain
-and loss. Then from [AN 1.82](https://suttacentral.net/an1.82-97) we
-have a series of texts on those things that are harmful and beneficial,
-starting with the pair of negligence and diligence. While these
-teachings are of course common throughout the canon, it is fitting that
-they appear here to represent the Aṅguttara's special focus
-on the fundamentals of a good life. Here they exemplify the aspect of
-*simplicity*, helping a student to focus on just one aspect of Dhamma at
-a time.
-
-The same set of factors is treated a few times with slightly varying
-templates, the final of which says that each of these harmful things
-leads to the disappearance of Buddhism, while the good things lead to
-its continuation. This leads us up to [AN
-1.129](https://suttacentral.net/an1.98-139).
-
-From [AN 1.130--169](https://suttacentral.net/an1.98-139), the topic of
-the preservation of the Dhamma is continued, but applied to a new theme,
-one that is quite distinctive of the Aṅguttara: teaching
-the Dhamma. Specifically, those who present the Dhamma accurately make
-much merit and preserve Buddhism, while those who distort or
-misrepresent the Dhamma make bad karma and destroy Buddhism. This series
-of texts displays its inner structure, as it begins with simply the
-"teaching" and then continues to differentiate the Dhamma more and more
-finely, especially with the introduction of the Vinaya and a rather
-extensive list of technical terms for monastic discipline. It does not
-take much to see that an originally simple statement could have been
-drawn out by adding multiple aspects of the teaching, conveniently
-giving the students of the Aṅguttara some Vinaya material
-to learn.
-
-This series of suttas grows out of the former, with the theme of
-preserving Buddhism as the thematic segue. Thus we have, from [AN
-1.82](https://suttacentral.net/an1.82-97) through [AN
-1.169](https://suttacentral.net/an1.150-169), a second thematic arc
-consisting of 88 suttas.
-
-From [AN 1.170](https://suttacentral.net/an1.170-187) a new theme is
-introduced, one that also represents a key aspect of the
-Aṅguttara: persons. Buddhism is, of course, most famous for
-its teachings on not-self, and its impersonal analysis of psychological
-processes. But there is plenty of material throughout the suttas that
-deals with persons, or character types, and much of that is in the
-Aṅguttara. These texts were later assembled to form the
-Abhidhamma text the Puggalapaññatti, the "Description of
-Persons".
-
-Of all the persons in Buddhism, the incomparable one is the Buddha
-himself. While there is a series of Buddhas over the ages, in our age he
-is unique. Hence these suttas speak of the "one person" who arises in
-the world who is uniquely beneficial and transcendent. At [AN
-1.187](https://suttacentral.net/an1.170-187) the Buddha's chief
-disciple, Sāriputta, is praised as the one who continues to
-roll the wheel of Dhamma after the Buddha. This segues into the next
-series of suttas, which single out individual followers of the Buddha
-for particular praise. This is a rather fascinating list, in which
-appear many characters from all over the canon; not only the four
-*nikāyas*, but the Vinaya and the Khuddaka as well.
-Prominent monks appear in [AN
-1.188--234](https://suttacentral.net/an1.188-197); nuns from [AN
-1.235--247](https://suttacentral.net/an1.235-247); laymen from [AN
-1.248--257](https://suttacentral.net/an1.248-257); and laywomen, from
-[AN 1.258--267](https://suttacentral.net/an1.258-267). All of these
-people are "number one" in their field, exemplifying the sense of "one"
-as *supremacy*.
-
-The next chapter continues the theme of "persons", enumerating various
-things that are possible or impossible for various people. For example,
-it is impossible for one "attained to view"---that is, a
-stream-enterer---to take any condition as permanent. But from [AN
-1.284--295](https://suttacentral.net/an1.278-286), once again we find a
-thematic segue; the "person" vanishes and the theme of possible and
-impossible is applied rather on an impersonal level: good things cannot
-come from bad deeds.
-
-This makes up the third great thematic arc in the Ones, 126 suttas from
-[AN 1.170](https://suttacentral.net/an1.170-187) to [AN
-1.295](https://suttacentral.net/an1.287-295). The remainder of the Ones
-continues similarly, with fragmented suttas assembled along loose
-thematic lines. The themes remain similar, with one difference. As the
-Book draws closer to its end, the subject of Nibbāna, the
-final goal of Buddhism, becomes ever more prominent. The final *vagga*
-is called the "Chapter on the Deathless", and it deals directly with the
-path to full awakening. Thus the sense of thematic unity that has been
-evident in multiple sections of the Book of the Ones is also evident in
-its overall structure, assembled by the redactors to culminate in
-awakening.
-
-### The Book of the Twos
-
-The second *nipāta* is a kind of bridge between the "arcs
-of fragments" that characterize the first *nipāta* and the
-more complete suttas that become prominent in the remainder of the
-Aṅguttara. It echoes and amplifies the themes of the first
-*nipāta*, while also introducing new ideas.
-
-It begins with a series of suttas that speak of the fundamental
-principles of the good life: doing good and avoiding bad ([AN
-2.3--4](https://suttacentral.net/an2.1-10)) and the results of deeds in
-this life and the next ([AN 2.1](https://suttacentral.net/an2.1-10)).
-This, I think, announces what the redactors aimed to be the chief theme
-of this *nipāta*: the idea that there is a moral order in
-the world, there is good and evil, and if we comprehend this we can live
-our life well. The collection starts by emphasizing this fact, and the
-dire consequences of ignoring it.
-
-The second chapter builds on this, speaking on the "power of reflection"
-to look back and understand this moral order, and the "power of
-development" to move on from the bad and develop the good ([AN
-2.11--13](https://suttacentral.net/an2.11-20)). A specific example of
-this is given in the case of a disciplinary measure within the
-Saṅgha ([AN 2.15](https://suttacentral.net/an2.11-20); cp.
-[AN 2.21](https://suttacentral.net/an2.21-31)). When one mendicant
-accuses another of wrongdoing, both should "reflect" on what happened
-and their role in the affair, and only then can the issue be properly
-healed and everyone move on. This chapter also details in various
-respects the way that good and bad deeds lead to various results ([AN
-2.16](https://suttacentral.net/an2.11-20), [AN
-2.17](https://suttacentral.net/an2.11-20)), spelling out a series of
-results that pertain both to this life and the next ([AN
-2.18](https://suttacentral.net/an2.11-20)). The Buddha then introduces
-the idea of a deliberate practice: one should not only recognize these
-things and reflect on them within oneself but develop the good and give
-up the bad, for it is possible to do so ([AN
-2.19](https://suttacentral.net/an2.11-20)).
-
-These suttas (and others) build on the teachings found in the first
-*nipāta* that deal with basic principles. They conclude the
-opening arc that establishes the theme of this *nipāta*:
-the worldly duality of good and bad, which creates both a responsibility
-and an opportunity to respond.
-
-But it should not be thought that these chapters are fully coherent and
-systematic. One finds the occasional sutta that appears quite random,
-for example [AN 2.10](https://suttacentral.net/an2.1-10) on entering the
-rainy season retreat; or [AN 2.60](https://suttacentral.net/an2.52-63)
-on why fauns (*kimpurisa*) do not use human speech.
-
-Meanwhile, distinct themes from the first *nipāta* are also
-introduced, mixed up without clear order. [AN
-2.14](https://suttacentral.net/an2.11-20) mentions two ways of teaching
-Dhamma---in brief and in detail---while [AN
-2.20](https://suttacentral.net/an2.11-20) says that the survival of
-Buddhism depends on getting both the meaning and the phrasing of the
-texts correct (also see [AN 2.41](https://suttacentral.net/an2.32-41)).
-[AN 2.23](https://suttacentral.net/an2.21-31) reprises the theme that
-one who distorts the teaching misrepresents the Buddha and contributes
-to the ending of Buddhism. This applies to those who claim that things
-were spoken by the Buddha when they were not.
-
-[AN 2.24](https://suttacentral.net/an2.21-31) introduces the contrast
-between the discourses that require interpretation (*neyyattha*) and
-those whose meaning is explicit (*nītattha*). In some
-suttas (eg. [MN 133](https://suttacentral.net/mn133)), we find that the
-Buddha gives a brief statement which the mendicants do not understand,
-so they seek advice on how to interpret it. In other cases a verse or
-doctrinal statement is unclear and the mendicants discuss it. These
-examples show that the process of discussion and analysis of the
-Buddha's teaching was underway from the very beginning. This process was
-eventually to be formalized as the various sets of Abhidhamma texts and
-spelled out in the commentaries. But these later texts did not yet
-exist, and should not be read back into the suttas.
-
-[AN 2.31](https://suttacentral.net/an2.21-31) reintroduces another of
-the themes of the first *nipāta*: meditation. The pair of
-serenity (*samatha*) and discernment (or "insight",
-*vipassanā*) are said to play a part in realization:
-serenity develops the mind, while *vipassanā* develops
-wisdom. Together they lead to the two aspects of awakening: the freedom
-of heart and the freedom by wisdom.
-
-But this is, for the moment, an isolated text, for the next series of
-texts returns to the theme of persons. This theme was briefly introduced
-earlier, when [AN 2.2](https://suttacentral.net/an2.1-10) contrasted the
-efforts of lay folk and renunciants. [AN
-2.32](https://suttacentral.net/an2.32-41) says that a good person knows
-gratitude, while the bad one does not. [AN
-2.33](https://suttacentral.net/an2.32-41) speaks of the strongest and
-most emotional ties of gratitude, those of a child to their parents. The
-Buddha says that even by carrying your parents around for the rest of
-their lives, feeding and cleaning them, you cannot repay them the gift
-of life. Only by establishing them in the principles of the Dhamma can
-you repay them. The theme of respect for parents is further developed in
-[AN 3.31](https://suttacentral.net/an3.31).
-
-In [AN 2.35](https://suttacentral.net/an2.32-41) the Buddha tells a
-brahmin that the traditional religious donation
-(*dakkhiṇa*) is owed to those who are purified, that is,
-the trainee and master on the path. These replace the sacrifice of the
-brahmins. Next follow some teachings by disciples, in which both
-Sāriputta ([AN 2.36](https://suttacentral.net/an2.32-41))
-and Mahākaccāna ([AN
-2.38](https://suttacentral.net/an2.32-41)) make a distinction between
-inner and outer practice, while Mahākaccāna makes a shrewd
-observation: householders argue about sensual pleasures, but renunciants
-argue over views ([AN 2.37](https://suttacentral.net/an2.32-41)). In [AN
-2.39](https://suttacentral.net/an2.32-41) the Buddha makes a rather
-biting comparison between a kingdom overrun with bandits and a
-Saṅgha where the good mendicants are weak, cowed into
-silence. The following chapter ([AN
-2.42--51](https://suttacentral.net/an2.42-51)) expands on this by
-contrasting good and bad assemblies.
-
-From assemblies as groups of people, the text revisits yet another theme
-of the first *nipāta*: the Buddha as the supreme person.
-Here he is paired with his worldly counterpart, the wheel-turning
-emperor ([AN 2.52--55](https://suttacentral.net/an2.52-63)). Continuing
-with the theme of kinds of people, [AN
-2.62](https://suttacentral.net/an2.52-63) and [AN
-2.63](https://suttacentral.net/an2.52-63) describe procedures in the
-Saṅgha for settling disputes and living harmoniously.
-
-The next chapter is tightly constructed on the subject of happiness
-(*sukha*). It introduces the topic by contrasting the happiness of lay
-people and that of renunciants, of which the latter is better ([AN
-2.64](https://suttacentral.net/an2.64-76)). This continues the theme of
-persons, specifically the contrast between lay folk and renunciants,
-which was already stated in the second text of the
-*nipāta*. Here it is combined with the topic of happiness,
-which is new. A series of suttas expands on this theme, but it uses a
-thematic segue to move away from the focus on "persons" and speak of
-happiness in purely psychological terms more reminiscent of the
-Saṁyutta.
-
-This chapter itself forms another segue---a nested segue if you
-will---to the next series of chapters, the unifying characteristic being
-the tight integration of short suttas on a single pattern in a *vagga*,
-returning to the kind of "vagga as sutta" that we saw in the Book of the
-Ones. Chapter 8 deals with the causes for good and bad qualities;
-Chapter 9 deals with various miscellaneous pairs of "things"
-(*dhammā*); Chapter 10 deals with the contrast between the
-fool and the astute; and Chapter 11, while a little more diverse, caps
-off this series.
-
-[AN 2.130](https://suttacentral.net/an2.130-140)--[AN
-2.133](https://suttacentral.net/an2.130-140) eulogize great disciples,
-reminding us of the lists of the foremost disciples in the Book of the
-Ones. A few discourses then revisit the theme of good and bad people
-inheriting the results of their deeds ([AN
-2.134](https://suttacentral.net/an2.130-140)--[AN
-2.137](https://suttacentral.net/an2.130-140)). The remainder of the
-*nipāta* lists a long series of pairs of contrasted
-qualities. Particularly interesting is the series at [AN
-2.280--309](https://suttacentral.net/an2.280-309) where the Buddha gives
-the reasons for laying down rules for monastics. Normally this is a list
-of ten reasons, but here they are arranged as pairs. The final series
-speaks of developing deep understanding and letting go through the pair
-of serenity and discernment. Thus, despite its main focus on worldly
-ethics and results, the second *nipāta*, like the first,
-ends with the practices leading to awakening.
-
-### The Book of the Threes
-
-With this book we move on from the fragmentary assemblages of the Book
-of the Ones and partly the Book of the Twos, and find more
-conventionally unified suttas. Of course, this is never an absolute, as
-all the books of the Aṅguttara retain extensive repetition
-series. Still, the focus from now is clearly on the whole sutta; and as
-a consequence, the hand of the redactors is harder to discern.
-
-That does not mean, however, that there is a dramatic break from the
-first books. On the contrary, the Book of the Threes begins with a
-thematic *vagga* that focuses on the familiar contrasting pair of the
-fool and the astute. The number three is represented in the qualities
-that are said to characterize them. The Bālavagga (Chapter
-on the Fool) corresponds to the similarly-named third and tenth chapters
-of the Twos, as well as the second chapter of the Fives.
-
-Like the Books of the Ones and Twos, this *nipāta* begins
-by emphasizing the problematic situation that we are in, the tensions
-and struggles of our worldly situation. The second *vagga* shifts focus
-to what we can do about it.
-
-Thus in [AN 3.13](https://suttacentral.net/an3.13) we first see a clear
-example of the number three as a worldly binary and a transcendent
-dimension that resolves the contradiction. This sutta speaks of one
-without hope---someone afflicted by poverty and misery of station, as
-well as illness of body---and a hopeful person, who looks to a bright
-future. But then there is the one who has done away with hope: since
-they have achieved their goal, there is nothing to look forward to.
-
-[AN 3.14](https://suttacentral.net/an3.14) makes an important political
-point: even the greatest of rulers are subject to the rule of law
-(*dhamma*). Here the relevant group of three is action by body, speech,
-and mind. This triad---which is pre-Buddhist---expresses one of the
-fundamental principles of the Dhamma, the focus on ethical choices and
-good deeds. It is found constantly throughout the Threes. Whereas a
-worldly philosophy might take into consideration only a person's
-external acts of body and speech, for Buddhism the mind is always the
-most important. It is the mind that is ultimately responsible for what
-we do and say, and it is through the mind that freedom is found. Thus
-the mind here points to the transcendent dimension of escape.
-
-The next discourse continues with the threefold division of body,
-speech, and mind, giving some practical advice as to how to work for
-their proper development. For the first time the Aṅguttara
-ventures into narrative. It tells the story of a chariot maker of the
-past, who was commissioned by the king to make a new war chariot for a
-battle in six months. This is a rather striking setup: the scale of
-society is so small that it is unremarkable for a king to personally
-speak to a chariot-maker. And apparently, a single chariot is an
-adequate military build-up for war; a war that is, politely enough,
-scheduled precisely six months in advance. The small scale and low
-stakes of this charming story are a strong contrast with the elaborate
-and fanciful legends of the Dīgha.
-
-The chariot-maker completes the first wheel only six days before the
-battle and is urged to rush the second one. But time matters: the first
-wheel is well-formed and stable, while the second wobbles and crashes.
-The Buddha then goes on to identify himself as the chariot-maker. This
-too is remarkable, as it is one of the very few Jātaka
-stories in the four *nikāyas*. The Buddha-to-be's humble
-station as a lowly chariot-maker is unusual, as usually he is said to be
-a great king of the past. It's also noteworthy that his commission is
-morally dubious: he is an arms manufacturer. Later the
-Aṅguttara will say that trade in arms is one of the forms
-of wrong livelihood ([AN 5.177](https://suttacentral.net/an5.177)). One
-might argue that a chariot is not a weapon, but it is explicitly
-required as a war vehicle, and today we would not hesitate to count,
-say, tanks or fighter jets as weapons platforms. In the later
-Jātaka collection, it is not unusual for the Bodhisatta to
-break precepts or commit various acts of dubious morality; after all,
-the whole point is that he is not yet perfect. Still, this adds to the
-striking impression of this little tale, so much more down to earth and
-realistic than the other Jātakas in the
-*nikāyas*.
-
-[AN 3.16](https://suttacentral.net/an3.16) introduces the idea of the
-"guaranteed practice", which consists of three of the elements of the
-Gradual Training: sense restraint, eating in moderation, and
-wakefulness. These implicitly call back to the very first chapter of the
-Aṅguttara, here presented in a more standard form.
-
-One of the Aṅguttara's characteristic rhetorical devices is
-to contrast the worldly with the sacred; remember how [AN
-2.2](https://suttacentral.net/an2.1-10) spoke of the efforts of the lay
-and the renunciant. [AN 3.19](https://suttacentral.net/an3.19) expands
-this theme, comparing a shopkeeper who must work morning, noon, and
-night with a mendicant who applies themselves to their meditation
-morning, noon, and night. [AN 3.20](https://suttacentral.net/an3.20)
-applies the same metaphor in a different way. These suttas cap off the
-first arc, which deals with understanding the dangers of the world, and
-working to escape from it.
-
-The third chapter revisits the theme of "persons". It begins with a
-discussion among some senior mendicants regarding who is best out of
-three kinds of spiritually attained person; or in other words, who has
-best implemented the practice encouraged in the first two chapters ([AN
-3.21](https://suttacentral.net/an3.21)). An interesting comparison is
-made between the treatment of illness and providing spiritual
-assistance: you can't always help, but you should at least try ([AN
-3.22](https://suttacentral.net/an3.22)).
-
-Several suttas in the Threes share a pattern where the first item is a
-foundation, the second is the realization of the four noble truths, and
-the third is full awakening. This first appears at [AN
-3.12](https://suttacentral.net/an3.12), and is applied in different ways
-in [AN 3.24](https://suttacentral.net/an3.24) and [AN
-3.25](https://suttacentral.net/an3.25).
-
-Returning to the theme of meditative immersion with which the entire
-collection started, we are introduced to an intriguing teaching that
-reappears multiple times in the Aṅguttara, but nowhere else
-in the canon ([AN 3.32](https://suttacentral.net/an3.32), [AN
-10.6](https://suttacentral.net/an10.6), [AN
-10.7](https://suttacentral.net/an10.7), [AN
-11.7](https://suttacentral.net/an11.7), [AN
-11.18](https://suttacentral.net/an11.18)--[AN
-11.21](https://suttacentral.net/an11.21)). It begins with a question:
-could it be that a mendicant might attain a state of immersion that is
-free of all ego and conceit? Normally it is understood that the
-meditative absorptions are shared between ordinary people and
-enlightened beings on the path. The perfected ones are distinguished by
-having let go the cause of suffering, not because they have attained
-some special state of meditation. But these suttas, with their striking
-note of wonder, imply that there is a special meditative state attained
-only by the perfected ones.
-
-This discourse is also distinguished by the fact that it finishes by
-quoting a verse currently included in the Sutta Nipāta and
-even correctly names the chapter, the "The Way to the Beyond". It is not
-at all obvious that the verse was originally intended to refer to a
-state of meditation. This shows that free and imaginative readings of
-suttas were found even in the earliest times.
-
-The next discourse ([AN 3.33](https://suttacentral.net/an3.33))
-continues with the theme of going beyond ego and conceit, and it too
-quotes from "The Way to the Beyond". But it starts with the Buddha in
-what appears to be an uncharacteristically despondent mood, saying that
-whether he teaches in brief or in detail---harking back to [AN
-2.14](https://suttacentral.net/an2.11-20)---it's hard to find anyone who
-understands.
-
-[AN 3.35](https://suttacentral.net/an3.35) narrates a personal encounter
-with a fellow by the name of Hatthaka, who came across the Buddha
-meditating near his hometown of Āḷavī. He asks if the
-Buddha slept well, considering the harshness of his outdoor living. The
-Buddha replies that he is one of those who sleep well in the world, as
-he is rid of the greed, hate, and delusion that disturb people in their
-sleep.
-
-This is the second time this classic triad appears in the Threes. They
-first appeared in the previous sutta, [AN
-3.34](https://suttacentral.net/an3.34), as the source of deeds, and will
-recur in this sense in multiple suttas in this *nipāta*.
-Like the triad of body, speech, and mind, they can be seen to exemplify
-the 2 + 1 pattern. Greed and hate are a codependent pair, the ugly
-opposites. Delusion underlies them both; but at the same time, the
-counterpart of delusion is wisdom, and it is through wisdom that
-transcendence is possible.
-
-This narrative mood ventures into mythology in the next discourse, which
-gives the Buddhist account of the god Yama, lord of the dead. While one
-might expect a death god to be fearsome, here he takes a decidedly
-Buddhist approach to the afterlife. When the departed are brought to
-Yama, he neither judges nor punishes. Rather, he asks the departed
-whether he took heed of the messengers sent by the gods: an old person,
-a sick person, and a corpse. These, of course, are three of the four
-divine messengers seen by the Bodhisattva before he went forth
-(canonically found in the life of Vipassī; see [DN
-14](https://suttacentral.net/dn14)). When the departed one replies that
-he took no heed, Yama castigates him for his negligence and then falls
-silent. The departed is dragged off to endure the sufferings of hell,
-here recounted in a briefer form than [MN
-129](https://suttacentral.net/mn129) and [MN
-130](https://suttacentral.net/mn130). Yama goes on to lament the pitiful
-state of mortals, including himself and wishes he could be reborn as a
-human and practice Buddhism.
-
-The mythological mood continues in the next couple of suttas ([AN
-3.37](https://suttacentral.net/an3.37), [AN
-3.38](https://suttacentral.net/an3.38)), which introduce a new topic
-that will be very important for the Aṅguttara; namely, the
-*uposatha* or "sabbath". This was a special "holy day" for religious
-observance observed weekly or on certain special days. The ministers of
-the Four Great Kings survey the earth on such days to see if people are
-honoring their betters and doing good. If they are, they rejoice, for
-they know that such people will be reborn in heaven to swell the hosts
-of the gods, whereas if they are not they fear the hosts of the demons
-will increase. This will of course have serious military implications in
-the ongoing war between the two.
-
-The next couple of suttas deal with renunciation, first as the Buddha's
-recollection of his delicate upbringing ([AN
-3.39](https://suttacentral.net/an3.39)), then as a reflection for how a
-renunciate is to reflect with integrity on their choices ([AN
-3.40](https://suttacentral.net/an3.40)). [AN
-3.41](https://suttacentral.net/an3.41) and [AN
-3.42](https://suttacentral.net/an3.42) look at the other side of the
-coin, the qualities that make merit for a lay donor, especially faith
-and generosity as well as the desire to learn. Learning is taken up as
-the theme of the next two suttas ([AN
-3.43](https://suttacentral.net/an3.43) and [AN
-3.44](https://suttacentral.net/an3.44)). Then the themes of generosity,
-faith, and the worthy spiritual life that make merit fruitful are
-revisited ([AN 3.45](https://suttacentral.net/an3.45), [AN
-3.46](https://suttacentral.net/an3.46), [AN
-3.48](https://suttacentral.net/an3.48)). Mendicants are then urged to be
-diligent ([AN 3.49](https://suttacentral.net/an3.49)) and the nature of
-bad mendicants is disclosed ([AN
-3.50](https://suttacentral.net/an3.50)). Taken together, this series of
-12 suttas can be read as a small thematic arc on the relation between
-lay folk and renunciants, the need for both to have integrity and the
-proper sense of values in their sphere, and the mutual support of each
-other through generosity with material things and of teachings.
-
-Next begins a new *vagga*, "On Brahmins", which as one might expect,
-depicts the Buddha in conversation with brahmins. In [AN
-3.51](https://suttacentral.net/an3.51) and [AN
-3.52](https://suttacentral.net/an3.52), the Buddha is approached by two
-brahmins, who confess that they have not lived a good life, and now, in
-their dotage, seek for help. The Buddha acknowledges the brevity of life
-and urges restraint of body, speech, and mind. [AN
-3.53](https://suttacentral.net/an3.53) has the Buddha speaking to
-another brahmin on how the Dhamma is to be realized in this very life.
-He gives a similar teaching to a wanderer ([AN
-3.54](https://suttacentral.net/an3.54)) and to the brahmin
-Jāṇussoṇi ([AN 3.55](https://suttacentral.net/an3.55)).
-That the Buddha's teaching may be realized in this life is a stock
-characteristic of the Dhamma (*sandiṭṭhiko
-akāliko*), but it is easy to overlook how directly this was
-a rebuke of pre-existing religious traditions. They looked forward to
-rewards in the future---whether a heavenly rebirth or the eventual
-annihilation of suffering---but the Buddha, while not denying the
-reality and importance of future fruits, refocused spiritual life on the
-present.
-
-[AN 3.56](https://suttacentral.net/an3.56) gives a different kind of
-teaching to a brahmin. In a message with a special poignancy in our
-troubled times, the Buddha explains why civilizations collapse, namely,
-unbridled greed. In [AN 3.57](https://suttacentral.net/an3.57) the
-Buddha refutes the wanderer Vacchagotta's accusation that he only
-encourages giving to his followers. When the brahmin
-Tikaṇṇa ("Three-ear") praises true brahmins, the Buddha
-responds with his redefinition of a brahmin, rejecting the value of
-birth and Vedic learning, and giving the second part of the Gradual
-Training, starting with the absorptions ([AN
-3.58](https://suttacentral.net/an3.58); [AN
-3.59](https://suttacentral.net/an3.59) is similar). In [AN
-3.60](https://suttacentral.net/an3.60), the Buddha not only rejects the
-value of the Vedic sacrifice, but he also shows that by teaching Dhamma
-one can benefit many more people.
-
-The seventh *vagga* is titled the "Great Chapter", and it introduces a
-series of discourses on a larger scale. It begins with a thematic segue;
-[AN 3.61](https://suttacentral.net/an3.61) continues the theme of the
-relation between Buddhist and non-Buddhist theories, but it does so as a
-straight doctrinal discourse to the mendicants, rather than as an
-interfaith dialogue. This magnificent discourse offers an important
-framing of dependent origination and it deserves detailed study. This
-Great Chapter is unified by the length of the sutta rather than by
-subject; however several other suttas deal with non-Buddhist philosophy
-and relations ([AN 3.64](https://suttacentral.net/an3.64), [AN
-3.68](https://suttacentral.net/an3.68), [AN
-3.70](https://suttacentral.net/an3.70)), including the famous
-Kālāma Sutta ([AN 3.65](https://suttacentral.net/an3.65);
-also [AN 3.66](https://suttacentral.net/an3.66)).
-
-Here I will end my analysis, as I think enough examples have been given
-to illustrate both the connectedness and the chaos of this collection.
-Hopefully, the reader can find their way from here, and not feel so
-bewildered by the sudden shifts and changes they encounter.
-
-### A Brief Textual History
-
-The Aṅguttara Nikāya was edited by R. Morris
-(vols. 1 and 2) and E. Hardy (vols 3--5) based on manuscripts in
-Sinhalese and Burmese scripts; Hardy also made use of the then
-recently-published royal Thai edition. It was published in Latin script
-by the Pali Text Society from 1885 to 1900. Indexes by M. Hunt and Mrs.
-C.A.F. Rhys Davids were added in 1910. The first translation followed in
-1932--36 by F.L. Woodward (vols. 1, 2, and 5) and E.M. Hare (vols. 3 and
-4) under the title *The Book of the Gradual Sayings*.
-
-As was the case with the Majjhima and Saṁyutta, several
-disparate individual suttas from the Aṅguttara were
-published in book form or the web. However, a complete new translation
-had to wait for Bhikkhu Bodhi to complete his work on the
-Saṁyutta Nikāya. As described in the
-introduction to his translation, in the late 1990s Bhikkhu Bodhi
-collected Nyanaponika Thera's four-part series of Wheel booklets into a
-single volume for the International Sacred Literature Trust as *An
-Aṅguttara Nikāya Anthology*. He then added
-sixty more suttas and published a total of 208 suttas as *The Numerical
-Discourses of the Buddha: An Anthology of Suttas from the
-Aṅguttara Nikāya* with AltaMira Press in 1999.
-In 2012 he completed the full translation, which was published as *The
-Numerical Discourses of the Buddha* through Wisdom Publications. His
-Introduction was even more extensive than his previous works; less
-technical than the Saṁyutta introduction, the bulk of it
-focused on an overview of the teachings found in the
-Aṅguttara. As with his previous translations, this work
-constituted a major leap forward in accuracy and readability,
-introducing the Aṅguttara to a new generation.
-
-Where the Pali was unclear I frequently referred to the earlier work of
-Bodhi, and rarely to Woodward/Hare and various translations of specific
-texts. An article by Tse-fu Kuan ()---*Some Reflections on Translating
-the Pali Texts: Literary Conventions, Buddhist Thought, Cultural
-Background and Textual History*, 2019, Acta Orientalia Academiae
-Scientiarum Hungaricae, vol. 72 (1), pp. 1--23---provided helpful
-corrections in several passages.
+# Kinh Tăng Chi: những điều hữu ích hàng ngày
 
+*Tỳ kheo Sujato, 2019*
+
+Kinh Tăng Chi Bộ (Aṅguttara Nikāya) là bộ cuối cùng và dài nhất trong bốn bộ kinh chính của Tạng Kinh (Sutta Piṭaka). Từ *aṅguttara* có nghĩa là "tăng thêm một yếu tố", tức là "tăng dần". Nó đề cập đến việc các bài kinh được sắp xếp theo các bộ số, với các con số tăng dần lên một. Tôi đã dịch nó là *Kinh Tăng Chi*, trong khi trước đây nó đã được dịch là *Kinh Số Pháp* hoặc *Kinh Tăng Thứ*.
+
+SuttaCentral theo bản dịch của Tỳ kheo Bodhi, đếm được tổng cộng 8122 bài kinh. Tuy nhiên, câu kệ tóm tắt ở cuối bộ kinh lại nói rằng có 9.557 bài kinh. Ghi chú của người sao chép này không nói rõ cách đếm này được thực hiện như thế nào; hẳn đó phải là một quá trình khá phức tạp để đếm được nhiều bài kinh như vậy khi chỉ làm việc với các bản kinh viết trên lá bối. Dù sao đi nữa, cũng như với Kinh Tương Ưng Bộ (Saṁyutta Nikāya), con số này phần lớn là sản phẩm của các bài kinh được lặp lại theo các khuôn mẫu. Nhiều bài trong số này chỉ bao gồm một từ duy nhất; thực vậy, quá trình viết tắt được thực hiện đến mức cực đoan đến nỗi hàng trăm bài kinh hoàn toàn không tồn tại trong văn bản; chúng chỉ đơn thuần là những con số cần được điền vào. Ngoài ra, trong trường hợp của Chương Một Pháp và Chương Hai Pháp, hầu hết các bài kinh là những văn bản dài hơn đã được chia nhỏ để tạo ra các con số. Trên SuttaCentral, những bài này được coi như một *phẩm* (*vagga* / chương, phần) là một bài kinh, và các văn bản viết tắt tương tự cũng được kết hợp lại. Nếu chúng ta đếm các tập tin văn bản được kết hợp theo cách này, chúng ta sẽ có được một con số hợp lý hơn, nhưng vẫn rất lớn, là 1407 bài kinh có nội dung thực chất.
+
+Trọng tâm của *Kinh Tăng Chi* là các vấn đề thực tiễn liên quan đến đời sống hàng ngày. Các hướng dẫn về đạo đức và phẩm hạnh chiếm ưu thế. Nếu Kinh Tương Ưng Bộ tập hợp những lời dạy chính về *giáo lý* (*doctrines* / các nguyên lý, học thuyết), thì Kinh Tăng Chi Bộ tập hợp những lời dạy về *các hạng người* (*persons* / các loại cá nhân, tính cách). Mối quan tâm của cộng đồng cư sĩ tại gia là một trọng tâm chính, và nhiều lời dạy đề cập đến cách giảng dạy.
+
+Việc sử dụng các bộ số được tìm thấy trong toàn bộ kinh điển Phật giáo, nhưng ở đây nó trở thành nguyên tắc sắp xếp chính. Một bài kinh điển hình trong Tăng Chi Bộ bao gồm một lời phát biểu rằng có một số lượng nhất định của một điều gì đó; sau đó là giải thích về từng pháp; rồi đến một kết luận lặp lại phần giới thiệu. Đôi khi một câu kệ được thêm vào để tóm tắt nội dung. Khuôn mẫu hình thức này được tối ưu hóa cao độ để củng cố việc học và ghi nhớ. Về bản chất, nó giống như định dạng được sử dụng trong tin tức buổi tối: bắt đầu bằng cách liệt kê các mục tin tức cho ngày hôm nay; kể câu chuyện của từng mục; và sau đó tóm tắt lại những điểm nổi bật một lần nữa. Việc sử dụng các bộ số vẫn còn phổ biến ngày nay, với "bài viết dạng danh sách" là một định dạng yêu thích cho các bài viết trên mạng.
+
+Tuy nhiên, không giống như những ví dụ hiện đại này, các bộ pháp trong Tăng Chi Bộ có cấu trúc chặt chẽ. Chúng không chỉ đơn thuần là tập hợp các pháp theo một chủ đề, mà tạo thành một chuỗi tích hợp. Pháp đầu tiên là căn bản nhất; các pháp tiếp theo phát triển từ hoặc xây dựng trên đó; và pháp cuối cùng kết thúc chuỗi đó.
+
+Vì lý do này, Tăng Chi Bộ cung cấp một điểm khởi đầu tuyệt vời để đi vào kinh điển, đặc biệt đối với những người có ít thời gian. Chỉ mất vài phút để đọc một bài kinh, và nó sẽ chứa đựng trong đó một lời dạy hoàn chỉnh và hữu ích.
+
+Kinh Tăng Chi Bộ có một bản tương đương trong Kinh Tăng Nhất A-hàm (Ekottarikāgama) được lưu giữ trong Đại Tạng Kinh chữ Hán (EA). Kinh Tăng Nhất A-hàm là một văn bản đặc biệt không rõ trường phái (có thể là Đại Chúng Bộ (Mahāsaṅghika)), và nó khác biệt với văn bản Pāli ở mức độ lớn hơn nhiều so với các bản tương đương của Trường Bộ (DN), Trung Bộ (MN), và Tương Ưng Bộ (SN). Ngoài ra, còn có hai bản Tăng Nhất A-hàm không đầy đủ bằng chữ Hán, cũng như một số bài kinh theo phong cách Tăng Nhất A-hàm độc lập. Hơn nữa, một phần đáng kể của Kinh Tăng Nhất A-hàm tiếng Phạn đã được phát hiện tại Gilgit và đã được Tripāṭhi biên tập và tái tạo một phần. Mặc dù khó khái quát hóa, dường như hầu hết các tài liệu này gần gũi với văn bản Pāli hơn là bản Tăng Nhất A-hàm chính bằng chữ Hán.
+
+### Cách Tăng Chi Bộ được Tổ chức
+
+Kinh Tăng Chi Bộ bao gồm các "quyển" chính (*nipāta* / tập, chương lớn) được đánh số từ một đến mười một. Mỗi quyển này chứa các bài kinh bao gồm số lượng pháp tương ứng. Như thường lệ, các bài kinh được tập hợp thành các *phẩm* (vaggas), đôi khi có một chủ đề lỏng lẻo. Mỗi *nipāta* (tập), ngoại trừ quyển đầu tiên, sắp xếp các *phẩm* (vaggas) của mình thành các *tập năm mươi* (*paṇṇāsas* / tuyển tập gồm 50 bài kinh, hoặc một phần lớn hơn của một nipāta).
+
+Tôi không biết tại sao Tăng Chi Bộ lại đếm đến mười một; tôi mong đợi một số chẵn. Số mười một cũng tương tự với Kinh Tăng Nhất A-hàm chữ Hán, điều này cho thấy đó là một đặc điểm ban đầu, tuy nhiên dường như nó không bị chi phối bởi chính các văn bản, vì hầu hết các pháp trong Chương Mười Một Pháp bao gồm những lời dạy quen thuộc ở những nơi khác, với việc thêm vào một hoặc hai pháp.
+
+Đôi khi có cảm giác như Tăng Chi Bộ được tập hợp từ những phần còn sót lại. Sau khi các bài kinh dài được tập hợp trong Trung Bộ và Trường Bộ, và các bài kinh ngắn hơn về các chủ đề trung tâm vào Tương Ưng Bộ, một lượng lớn kinh văn còn lại khó phân loại một cách dễ dàng. Điều này bao gồm nhiều những lời dạy hấp dẫn và sâu sắc, cũng như một lượng lớn những đoạn lặp lại theo khuôn mẫu, và nó kéo theo những mẩu vụn vặt có giá trị ngày càng mơ hồ. Cứ như thể những người biên tập, đối mặt với một nhà kho chứa đầy đồ thừa và đồ lặt vặt, đã cố gắng hết sức để sắp xếp và chồng các mục một cách hợp lý, nhưng thường chỉ đặt mọi thứ lên kệ một cách tốt nhất có thể. Vì các bài kinh thường có một con số riêng biệt trong lời dạy, nên điều này được lấy làm nguyên tắc tổ chức, thay cho bất cứ điều gì có ý nghĩa hơn. Ngay cả những bài kinh không đề cập rõ ràng đến một con số cũng thường có thể được phân tích thành một bộ các pháp, vì vậy chúng cũng có thể được bao gồm. (Xem ví dụ [AN 3.31](https://suttacentral.net/an3.31) và [AN 3.32](https://suttacentral.net/an3.32).)
+
+Để rõ ràng, không nên nghĩ rằng Tăng Chi Bộ thiếu những lời dạy tiêu chuẩn quen thuộc từ phần còn lại của các *bộ kinh* (*nikāyas* / tập hợp các bài kinh). Ngược lại, chúng ta tìm thấy *bốn tầng thiền* (*four absorptions* / bốn trạng thái thiền định sâu) ([AN 3.58](https://suttacentral.net/an3.58)), *Tứ Diệu Đế* (*four noble truths* / bốn sự thật cao quý) và *duyên khởi* (*dependent origination* / sự phát sinh có điều kiện) ([AN 3.61](https://suttacentral.net/an3.61)), *các căn và các lực* (*faculties and powers* / khả năng và sức mạnh tinh thần) ([AN 4.163](https://suttacentral.net/an4.163); phần sau được trình bày chi tiết tại [AN 5.12--16](https://suttacentral.net/an5.12)), *tam học* (*threefold training* / ba môn học Giới-Định-Tuệ) ([AN 3.81](https://suttacentral.net/an3.81)), *Tứ Vô Lượng Tâm* (*divine meditations* / bốn trạng thái tâm thiền cao thượng: Từ, Bi, Hỷ, Xả) ([AN 3.63](https://suttacentral.net/an3.63)), và nhiều hơn nữa. Nhưng những lời dạy như vậy rải rác trong một khối lượng lớn các bài kinh về nhiều chủ đề đa dạng.
+
+Trong lời giới thiệu bản dịch của mình, Tỳ kheo Bodhi thực tế đã từ bỏ mọi nỗ lực để hiểu được cấu trúc. Ngài đưa ra một ví dụ về một chương với nhiều bài kinh có vẻ không liên quan, nhận xét: "Với sự sắp xếp tùy tiện rõ ràng như vậy, người ta không khỏi tự hỏi những người biên soạn đã nghĩ gì." (*Kinh Số Pháp của Đức Phật*, lời giới thiệu, tr. 22). Kết quả là, thay vì phân tích nội dung như nó xuất hiện trong Tăng Chi Bộ, ngài đã phát triển một phân tích theo chủ đề sâu rộng và được cân nhắc cẩn thận. [Bài luận này có trên SuttaCentral](https://suttacentral.net/an-introduction-bodhi), và tôi khuyến khích bất kỳ ai quan tâm đến việc nghiên cứu nghiêm túc về Tăng Chi Bộ hãy đọc nó.
+
+Tuy nhiên, tôi muốn tiếp cận tài liệu từ một góc độ khác, một góc độ gần gũi hơn với trải nghiệm đọc văn bản. Tôi thấy câu hỏi của Tỳ kheo Bodhi là một câu hỏi thú vị: những người biên tập đã nghĩ gì?
+
+Mặc dù không nghi ngờ gì rằng trình tự các bài kinh và ý tưởng trong Tăng Chi Bộ ở một mức độ nào đó là hỗn loạn, nhưng liệu có hợp lý không khi cùng một nhóm người đã thể hiện sự cống hiến nghiêm ngặt cho việc phân loại trong Tương Ưng Bộ lại đơn giản từ bỏ nỗ lực của họ trong Tăng Chi Bộ? Có lẽ để hiểu rõ hơn về những người biên tập, và qua họ là những lời dạy mà họ đã làm việc, chúng ta phải tiếp cận vấn đề theo một cách mới.
+
+Dưới đây là ba nguyên tắc tổ chức mà tôi đã nhận thấy khi đọc Tăng Chi Bộ:
+
+1\.  Ý nghĩa số học.
+
+2\.  Các cụm chủ đề, đoạn chuyển tiếp và vòng cung chủ đề.
+
+3\.  Lặp lại ngắt quãng.
+
+Dưới đây tôi sẽ chỉ ra cách những điều này hoạt động trong ba *nipāta* (tập) đầu tiên. Bằng cách này, tôi hy vọng sẽ hướng dẫn người đọc vượt qua những điều phức tạp cho đến khi họ cảm thấy thoải mái để tự mình tiếp tục.
+
+Chắc chắn không phải đây là những nguyên tắc tổ chức duy nhất đang hoạt động. Cũng không phải chúng giải thích đầy đủ tất cả, hoặc thậm chí hầu hết, sự ngẫu nhiên. Nhưng tôi tin rằng, chúng gợi ý về một sự hiểu biết dẫn dắt đã định hình bộ sưu tập theo hình thức chúng ta có ngày nay.
+
+Trước tiên là một suy nghĩ chung. Phần lớn cách chúng ta tổ chức và liên hệ với thế giới không phải thông qua lý trí mà thông qua sự liên tưởng. Nếu chúng ta nghĩ về nó theo thuật ngữ *năm uẩn* (*five aggregates* / năm nhóm yếu tố tạo thành cá nhân: sắc, thọ, tưởng, hành, thức), một bộ sưu tập như Kinh Tương Ưng Bộ có một cấu trúc tổng thể được suy nghĩ và xây dựng một cách có chủ ý, tức là nó dựa trên *những lựa chọn hợp lý hoặc các hành* (*rational choices or saṅkhārās* / các quyết định dựa trên lý trí hoặc các yếu tố tạo tác có chủ ý). Có lẽ điều chúng ta cần tìm kiếm trong Tăng Chi Bộ là một cách suy nghĩ khác, một cách dựa trên *nhận thức* (tưởng), *trí nhớ và sự liên tưởng* (*saññā* / tưởng, sự nhận biết, ghi nhớ và liên kết các ý niệm).
+
+Nhưng tại sao một khối lượng lớn kinh văn như vậy lại được tổ chức theo cách đó? Câu trả lời không khó tìm. Giống như rất nhiều nguyên tắc tổ chức kinh điển, đó là để ghi nhớ. Đối với một người tụng đọc phải giữ hàng trăm bài kinh theo thứ tự, bất kỳ kiểu kết nối nào cũng hiệu quả. Không quan trọng đó là chủ đề, một từ chung, một cú pháp, một vần điệu, hay bất cứ điều gì khác. Nhận thức (Tưởng) nhận ra các khuôn mẫu. Nó liên kết một điều với điều tiếp theo, bất kể đặc điểm kết nối có ý nghĩa như thế nào.
+
+Hãy tưởng tượng, nếu bạn muốn, rằng bạn đang sắp xếp thư viện của bạn. Bạn có thể sử dụng một hệ thống hợp lý: theo thứ tự bảng chữ cái, theo chủ đề, hoặc theo kích thước để vừa với kệ sách của bạn. Nhưng đó là thư viện của bạn, bạn có thể làm những gì bạn muốn. Có thể trên một kệ, bạn đặt những cuốn sách bìa xanh; trên một kệ khác, những cuốn sách bạn chưa đọc; và trên một kệ khác nữa, những cuốn sách có mùi hương gợi nhớ bạn bè cũ. Đối với bất kỳ ai khác, nó có vẻ hỗn loạn, nhưng đối với bạn, nó hoàn toàn có ý nghĩa. Bạn có thể tìm thấy cuốn sách bạn cần khi bạn muốn. Nhận thức (Tưởng) làm công việc nặng nhọc cho bạn, mà không cần căng thẳng nhận thức khi phải vận dụng hệ thống hợp lý mỗi lần.
+
+#### Ý nghĩa của các con số
+
+Phần lớn việc sử dụng các con số trong kinh điển Phật giáo hoàn toàn thực dụng. Một khi bạn biết rằng một bộ có một số lượng pháp nhất định, bạn có thể biết liệu mình có quên điều gì không.
+
+Tuy nhiên, các con số luôn thấm đẫm một ý nghĩa và tầm quan trọng vượt ra ngoài việc đếm thuần túy. Chúng cho phép chúng ta hiểu được một vũ trụ phức tạp thông qua một bộ quy ước đơn giản. Các con số được sử dụng trong Phật giáo để khơi gợi sự kính sợ, thậm chí là sợ hãi, trước phạm vi "khổng lồ" của *luân hồi* (*transmigration* / vòng sinh tử). Liệu có thể ý nghĩa biểu tượng của các con số mang lại cảm giác thống nhất cho các *nipāta* (tập) khác nhau không?
+
+Ý nghĩa biểu tượng, về bản chất, không thể xác định một cách chính xác. Không giống như định nghĩa hợp lý, nó không phục vụ để giới hạn phạm vi ý nghĩa mà là để khuếch đại nó thông qua gợi ý, ám chỉ và hàm ý. Theo như tôi biết, ý nghĩa biểu tượng của các con số hầu như đã bị bỏ qua trong các nghiên cứu Phật học. Một số quan sát về số học đã được thực hiện trong các mục từ về số trong *Từ điển Pāli-Anh của Rhys Davids và Stede*, nhưng tôi biết rất ít kể từ đó. Tuy nhiên, chúng ta có thể đưa ra một vài nhận xét chung.
+
+Một: Con số của sự hòa hợp, đơn giản và tối thượng. Nó đặc biệt được nhấn mạnh trong bối cảnh *thiền định sâu* (*jhāna* or *samādhi* / các tầng thiền hoặc định tâm). Tuy nhiên, không giống như nhiều bối cảnh tâm linh khác, trong Phật giáo nó không bao giờ có ý nghĩa siêu hình: *Niết-bàn* (Nibbāna / trạng thái giải thoát cuối cùng) là số không, không phải là một; đó là *tánh không* (emptiness / bản chất trống rỗng của vạn pháp), không phải là sự hợp nhất.
+
+Hai: Dùng cho các cặp, có thể là đối tác---tay, mắt, vợ chồng---đối thủ---thiện và ác, sáng và tối, đau khổ và an vui---hoặc những điều kế tiếp nhau---khéo léo trong việc nhập thiền và khéo léo trong việc xuất thiền. Nó đại diện cho tính nhị nguyên của thế giới.
+
+Ba: Được tạo thành từ 2 + 1. Nó thêm một chiều kích phụ, thường là tâm linh, vào tính nhị nguyên thế tục của số hai. Điều này khá rõ ràng trong các bộ như "*sự thỏa mãn, sự nguy hại và sự thoát ly*" (*gratification, drawback, and escape* / vị ngọt, sự nguy hiểm và lối thoát), và tinh tế hơn trong, chẳng hạn, cảm giác dễ chịu, đau đớn và trung tính. Số ba đại diện cho *cái khác*; và chính cái khác đó chứa đựng mầm mống của sự siêu việt.
+
+Bốn: Con số đặc trưng nhất của Phật giáo, và Chương Bốn Pháp là *nipāta* (tập) lớn nhất. Ẩn dụ chính của nó là bốn phương, và do đó bao hàm ý nghĩa toàn thể và cân bằng, rõ ràng nhất là trong Tứ Diệu Đế. Bội số của bốn có cùng ý nghĩa ở một bậc cao hơn. Mười cũng tương tự, ở chỗ nó bắt nguồn từ bốn phương chính, bốn phương phụ, và trên và dưới.
+
+Năm: Xuất phát từ bàn tay, thứ chúng ta dùng để đếm; do đó nó chia thành 4 + 1 (các ngón tay và ngón cái) chứ không phải 2 + 3. Ví dụ rõ ràng nhất về điều này là năm uẩn "chấp thủ", trong đó thức đứng riêng so với bốn uẩn còn lại. Tương tự như vậy, chẳng hạn, trong năm căn và năm lực, trí tuệ là "ngón cái".
+
+Sáu: Lấy thân thể làm ẩn dụ gốc: bốn chi, thân mình và đầu. Ý nghĩa chung là một "toàn thể lớn", và bộ nổi bật nhất là *sáu xứ* (*six sense fields* / sáu giác quan và đối tượng của chúng).
+
+Bảy: Một con số thiên văn, bắt nguồn từ các chu kỳ mặt trăng và các thiên thể (mặt trời + mặt trăng + năm hành tinh nhìn thấy được). Nó được sử dụng đặc biệt phổ biến trong thần thoại, và có ý nghĩa chung là "toàn bộ chu kỳ sinh tử". Nó xuất hiện theo nghĩa này trong câu chuyện về sự đản sinh của Bồ Tát (Bodhisatta).
+
+Tôi tin rằng chúng ta thực sự có thể nhận ra dấu vết của những ý nghĩa này trong Tăng Chi Bộ, và đưa ra một số ví dụ dưới đây. Trong một số trường hợp, các bài kinh của một số nhất định sẽ đơn giản được đưa vào bộ sưu tập, trong khi ở các trường hợp khác, văn bản sẽ được biên tập đặc biệt để tạo ra bộ số cần thiết. Dù bằng cách nào, việc có một chút cảm nhận về những ý nghĩa này cũng cho chúng ta một góc nhìn để thấy các *nipāta* (tập) như những tổng thể có ý nghĩa.
+
+Với những ý nghĩa chung chung như vậy, và chắc chắn có nhiều ngoại lệ và mâu thuẫn, không thể xác lập một cách chắc chắn rằng các con số của Tăng Chi Bộ có ý nghĩa biểu tượng. Nếu bạn không thích bất kỳ nỗ lực nào để đọc ý nghĩa biểu tượng, tôi không thể chứng minh bạn sai. Nhưng tôi tin rằng, nó cho chúng ta một cách tiếp cận để hiểu được tại sao những người biên tập lại xử lý khối tài liệu đa dạng và phức tạp của họ theo cách này.
+
+#### Các cụm chủ đề, đoạn chuyển tiếp và vòng cung chủ đề
+
+Mặc dù có ấn tượng hỗn loạn, các bài kinh trong Tăng Chi Bộ hiếm khi đứng riêng lẻ. Hầu hết thời gian chúng xuất hiện trong *các cụm chủ đề* (*thematic clusters* / nhóm các bài kinh có cùng chủ đề) xử lý cùng một chủ đề. Đây có thể chỉ là một cặp bài kinh, mặc dù không hiếm khi tìm thấy toàn bộ một *phẩm* (chương) về một chủ đề cụ thể. Đây thường là các bài kinh liên quan chặt chẽ, chỉ thay đổi một vài chi tiết từ bài này sang bài khác. Hoặc chúng có thể có một sợi chỉ chủ đề lỏng lẻo, ví dụ, có cùng một người, hoặc một nhóm người. Trong một số trường hợp, các *phẩm* (chương) cùng tên và chủ đề xuất hiện nhiều lần trong bộ sưu tập.
+
+Những cụm chủ đề như vậy rất dễ nhận ra; nhưng tuy nhiên, thường có vẻ như không có gì kết nối cụm này với cụm tiếp theo. Tuy nhiên, điều này không phải lúc nào cũng đúng. Thường thì sự chuyển đổi từ cụm này sang cụm khác xảy ra thông qua cái có thể gọi là một *đoạn chuyển tiếp chủ đề* (*thematic segue* / sự chuyển ý giữa các chủ đề). Khi chuyển từ một cụm chủ đề này sang cụm chủ đề khác, một yếu tố chung nào đó được duy trì. Đây có thể là một chủ đề, hoặc đơn giản là một đặc điểm hình thức nào đó---một dạng câu hỏi, một từ, một cú pháp, v.v. Những điểm nối này giúp làm dịu quá trình chuyển đổi từ cụm này sang cụm khác.
+
+Trong những trường hợp như vậy, chúng ta thấy rằng có một yếu tố nào đó trong cụm đầu tiên \[A\], được kết hợp với một yếu tố thứ hai \[AB\] để tạo thành một cụm mới hoặc mở rộng cụm cũ. Sau đó, yếu tố thứ hai được kết hợp với một cái gì đó khác để tạo thành một cụm khác nữa \[BC\]. Và có lẽ sau đó yếu tố thứ hai bị loại bỏ hoàn toàn chỉ còn lại yếu tố thứ ba \[C\], hoặc nó được kết hợp lại với một cái gì đó mới. Nếu bạn so sánh yếu tố đầu tiên \[A\] với yếu tố thứ ba \[C\] thì không có gì chung. Tuy nhiên, sự tiến triển từ yếu tố này sang yếu tố khác là dần dần. Và tần suất xảy ra điều này cho thấy nó hoàn toàn không phải là ngẫu nhiên.
+
+Những kỹ thuật tương tự là một phần không thể thiếu trong sáng tác âm nhạc. Sau khi giới thiệu một mô-típ, nhà soạn nhạc dần dần biến đổi và phát triển nó. Cuối cùng, họ có thể đi đến một mô-típ mới, không có gì chung với mô-típ ban đầu, nhưng lại phát triển từ đó.
+
+Một đoạn chuyển tiếp chủ đề thường là một kỹ thuật thuần túy hình thức ít nói về nội dung chủ đề. Tuy nhiên, với sự chú ý cẩn thận, chúng ta có thể thấy rằng các cụm chủ đề, được xâu chuỗi với nhau bằng các đoạn chuyển tiếp, đôi khi phát triển qua các đoạn văn bản lớn hơn để tạo ra một *vòng cung chủ đề* (*thematic arc* / một chuỗi chủ đề phát triển có tổ chức lỏng lẻo) được tổ chức lỏng lẻo. Những vòng cung như vậy phản ánh các khung sườn giáo lý quen thuộc từ những nơi khác, chẳng hạn như *Tuần Tự Huấn Luyện* (Gradual Training / sự thực hành tuần tự các pháp). Điều này được sử dụng, ví dụ, để định hình 75 bài kinh đầu tiên của Chương Một Pháp. Những vòng cung như vậy hoàn toàn không rõ ràng và có cấu trúc hình thức như những lời dạy mà chúng dựa trên. Tuy nhiên, sự tiến triển từ chủ đề này sang chủ đề khác là không thể phủ nhận.
+
+Thật vậy, mỗi *nipāta* (tập) có thể được xem là hình thành vòng cung riêng của nó, vì chúng thường bắt đầu bằng các pháp thực hành cơ bản, và kết thúc bằng việc chứng ngộ Niết-bàn. Các chuỗi lặp lại kết thúc mỗi *nipāta* (tập) cũng có vòng cung nội tại của chúng, dẫn đến những phẩm chất cao nhất.
+
+#### Lặp lại ngắt quãng
+
+Trong Kinh Trường Bộ và Kinh Trung Bộ, một người học sẽ dành một khoảng thời gian khá dài để ghi nhớ một bài kinh cụ thể, ôn luyện nó, và---nếu là một học trò giỏi---tìm hiểu và đặt câu hỏi về ý nghĩa. Chỉ khi đã thông thạo, họ mới chuyển sang bài tiếp theo. Trong Tương Ưng Bộ, một người học sẽ học hàng chục, thậm chí hàng trăm bài kinh về cùng một chủ đề, chia sẻ những đoạn văn và ý tưởng tương tự, và thường ít khác biệt nhau. Những bài kinh như vậy có thể được ghi nhớ nhanh chóng, và các vấn đề diễn giải thường phát sinh ở cấp độ chủ đề hơn là ở từng bài kinh riêng lẻ.
+
+Nhưng việc ghi nhớ các bài kinh dài, hoặc nhiều bài kinh về cùng một chủ đề, có thể trở nên nhàm chán, vì tâm trí được kích thích bởi sự đa dạng và bất ngờ. Trong Tăng Chi Bộ, một người học sẽ học một hoặc hai bài kinh về một chủ đề, hoặc có thể nhiều hơn một chút, sau đó là một chủ đề khác, rồi quay lại chủ đề ban đầu, rồi một chủ đề thứ ba. Bây giờ, như chúng ta đã thấy, nhiều đặc điểm khác nhau giúp giữ cho trình tự các bài kinh được mạch lạc. Nhưng có lẽ còn có điều gì đó hơn thế nữa: có lẽ chính sự ngẫu nhiên và lặp lại này giúp họ học.
+
+Điều này rất giống với kỹ thuật hiện đại được gọi là "lặp lại ngắt quãng", thường được sử dụng để học ngôn ngữ. Một bộ từ vựng được giới thiệu từng từ một theo một trình tự ngẫu nhiên. Sau khi học một từ, người ta chuyển sang từ khác. Nhưng từ đầu tiên sau đó được giới thiệu lại một chút để củng cố việc học. Và cứ thế tiếp diễn, với những từ tương tự quay trở lại nhiều lần. Về trình tự từ này sang từ khác, mọi thứ đều ngẫu nhiên. Nhưng khuôn mẫu tổng thể được tối ưu hóa cẩn thận để củng cố và tăng tốc độ ghi nhớ.
+
+Có lẽ chúng ta có thể nghĩ về nó như một trường học. Tương Ưng Bộ giống như một *chương trình học* ở trường: mọi thứ bạn cần biết về một chủ đề, tất cả ở một nơi. Nhưng Tăng Chi Bộ giống như một *ngày học* ở trường. Lớp này nối tiếp lớp kia, và không có trật tự hay lý do thực sự nào cho điều đó. Một số việc xảy ra khá đều đặn và có thể đoán trước được, trong khi những việc khác dường như chỉ xuất hiện ngẫu nhiên. Mặc dù bản chất hỗn loạn hơn, nó vẫn hiệu quả: đó là cách chúng ta học. Không ai cho rằng các môn học ở trường được nắm vững tốt nhất bằng cách học trước chương trình khoa học, sau đó là toán, rồi đến lịch sử. Lặp lại ngắt quãng không chỉ củng cố việc học, mà còn kích thích chúng ta nhìn thấy những kết nối mới và bất ngờ giữa các sự vật.
+
+### Chương Một Pháp
+
+Tôi đã gợi ý rằng số một mang theo một tập hợp các hàm ý cụ thể, đặc biệt là sự hòa hợp, đơn giản và tối thượng. Nếu điều này được đóng khung như một chủ đề tổng thể, nó có thể giống như thế này: giữ cho việc thực hành tâm linh của bạn đơn giản và tập trung để giúp tâm trí bạn đạt được sự nhập định sâu sắc, và bằng cách đó, bạn có thể chứng ngộ Pháp (Dhamma / Giáo pháp của Đức Phật) tối thượng. Chúng ta hãy xem Chương Một Pháp minh họa những thuộc tính này như thế nào.
+
+Chương Một Pháp là một trường hợp khá đặc biệt ở chỗ hầu như toàn bộ *nipāta* (tập) được xây dựng từ các đoạn rời rạc và khuôn mẫu. Bộ sưu tập bắt đầu với khẳng định nổi bật rằng không có hình sắc nào chiếm giữ tâm trí người đàn ông như hình sắc của người phụ nữ, hoặc tâm trí người phụ nữ như hình sắc của người đàn ông. Phần còn lại của các giác quan bên ngoài được liệt kê cho mỗi giới tính nhị phân, tạo thành tổng cộng mười bài kinh cho *phẩm* (chương) đầu tiên. Điều này rất giống với một bài kinh duy nhất được chia thành mười bài. Trong Chương Năm Pháp ([AN 5.55](https://suttacentral.net/an5.55)), chúng ta tìm thấy một bộ phát biểu tương tự được đưa ra trong một bối cảnh cụ thể, chỉ đề cập đến quan điểm của nam giới. Và trong kinh điển chữ Hán, chúng ta thấy rằng các đoạn tương đương ở EA 9.7 và EA 9.8 khớp với hai nửa của *phẩm* (chương) này. Điều này ủng hộ ý tưởng rằng những bài kinh này ban đầu được kết hợp để tạo thành một bài kinh duy nhất, hoặc có lẽ là một cặp bài kinh.
+
+Một ví dụ rõ ràng hơn về điều này được cung cấp bởi ba cặp bài kinh từ [AN 1.76](https://suttacentral.net/an1.76) đến [AN 1.81](https://suttacentral.net/an1.81). Mỗi cặp theo cùng một khuôn mẫu, được minh họa bởi cặp đầu tiên. [AN 1.76](https://suttacentral.net/an1.76) nói rằng mất người thân là chuyện nhỏ, trong khi mất trí tuệ là điều tồi tệ nhất. [AN 1.77](https://suttacentral.net/an1.77) trình bày điều ngược lại: sự tăng trưởng của người thân là chuyện nhỏ, vì trí tuệ là điều tốt nhất để tăng trưởng. Nhưng nó tiếp tục hoàn chỉnh bài kinh bằng cách thúc giục các *vị khất sĩ* (*mendicants* / người tu hành sống bằng khất thực) rèn luyện để tăng trưởng trí tuệ. Kết luận này bị thiếu trong bài kinh đầu tiên của cặp và là một dấu hiệu rõ ràng cho thấy bài kinh đã bị chia tách.
+
+Không nên kết luận từ điều này rằng văn bản đã được tập hợp một cách tùy tiện. Ngược lại, chúng ta có thể xác định một loạt các vòng cung chủ đề kết nối các chuỗi bài kinh dài lại với nhau. Các chương mở đầu được thiết kế để cho thấy sự phát triển của thiền định, phản ánh sự tiến bộ của thiền sinh trong Tuần Tự Huấn Luyện.
+
+-   Chương đầu tiên, như chúng ta đã thấy, đề cập đến sự chế ngự tình dục, một trong những nền tảng của thiền định.
+
+-   Chương thứ hai đề cập đến *các chướng ngại* (*hindrances* / những điều cản trở tâm thiền) phải được từ bỏ trước khi nhập thiền định sâu. Điều này được liên kết thông qua một đoạn chuyển tiếp chủ đề từ chương trước, mối liên kết là cụm từ "Ta không thấy một pháp nào khác".
+
+-   Chương thứ ba và thứ tư đề cập đến những lợi ích của tâm đã phát triển, đã được thanh lọc qua quá trình thiền định: không gì mang lại an vui và lợi ích lớn hơn. Chúng tiếp tục sử dụng cụm từ "Ta không thấy một pháp nào khác".
+
+-   Chương thứ năm bỏ cụm từ "Ta không thấy một pháp nào khác". Ở đây, đoạn chuyển tiếp chủ đề là chủ đề về "tâm" (*citta* / tâm thức) và sự phát triển của nó.
+
+-   Chương thứ năm kết thúc bằng hai bài kinh đề cập đến "tâm rạng ngời" nổi tiếng. Đây là các đoạn rời rạc, và một phát biểu đầy đủ hơn được tìm thấy trong các bài kinh tiếp theo bắt đầu chương kế tiếp. Khá bất thường khi tìm thấy những bài kinh liên kết chặt chẽ như vậy bị ngắt quãng qua ranh giới của một *phẩm* (chương) như thế này. Lưu ý rằng "tâm rạng ngời" không phải là một thuật ngữ siêu hình, và cả ở đây lẫn bất kỳ nơi nào khác trong các kinh điển Phật giáo sơ kỳ, tâm không được cho là "vốn có" hay "tự nhiên" hay "nguyên thủy" rạng ngời hay sáng chói. Ngược lại, tâm là *pháp hữu vi* (conditioned / do duyên sinh, có điều kiện) và do đó không "vốn có" bất cứ điều gì cả. Tâm rạng ngời chỉ đơn giản là một cách nói về sự nhập thiền hoặc *jhāna* (thiền định).
+
+-   Chương thứ sáu tiếp tục về chủ đề nhập thiền. Tuy nhiên, nó thay đổi chủ đề tại [AN 1.56](https://suttacentral.net/an1.56)---mặc dù vẫn tập trung vào "tâm"---và tiếp tục bằng cách đề cập đến tính nhân quả của các phẩm chất tốt và xấu. Trong bối cảnh này, những điều này có thể được hiểu là liên quan đến phần trí tuệ của thiền định, như được đề cập trong phần thứ tư của *Tứ Niệm Xứ* (*satipaṭṭhānas* / bốn lĩnh vực quán niệm). Chuỗi này đạt đến đỉnh điểm tại [AN 1.75](https://suttacentral.net/an1.75) với sự hoàn thiện của *các yếu tố giác ngộ* (*awakening factors* / thất giác chi), do đó biểu thị sự hoàn thành con đường tu tập.
+
+Một cấu trúc như thế này đặc biệt có ý nghĩa vì nó tiết lộ ý định của những người biên tập. Vòng cung chủ đề này kéo dài 75 bài kinh rời rạc hoàn toàn không tồn tại trong các nguồn tài liệu gốc: nó hoàn toàn được ngụ ý bởi sự lựa chọn của những người biên tập. Phương pháp của họ là rút gọn các phát biểu của Pháp xuống thành các yếu tố có ý nghĩa đơn giản nhất, sau đó tập hợp lại chúng theo các nguyên tắc của Pháp như họ hiểu.
+
+Và những người biên tập thậm chí còn tinh tế hơn thế. Vì không chỉ những đoạn rời rạc này được tập hợp để tạo thành một tổng thể mạch lạc, mà việc lựa chọn chủ đề cũng khá có chủ ý. Trong tất cả các bối cảnh giáo lý của Phật giáo, chính *samādhi* (định tâm) hay "sự hợp nhất của tâm" là nơi con số một nổi bật nhất. Khi bắt đầu với Chương Một Pháp, những người biên tập đã nhạy bén với việc sử dụng các con số trong kinh điển, và sắp xếp các bài kinh của họ để đưa "con số một" quan trọng nhất lên hàng đầu.
+
+Từ đây, văn bản chuyển trọng tâm. Như đã lưu ý ở trên, [AN 1.76--81](https://suttacentral.net/an1.71-81) đề cập đến các cặp được và mất. Sau đó, từ [AN 1.82](https://suttacentral.net/an1.82-97), chúng ta có một loạt các bài kinh về những điều có hại và có lợi, bắt đầu với cặp sao nhãng và siêng năng. Mặc dù những lời dạy này tất nhiên là phổ biến trong toàn bộ kinh điển, nhưng việc chúng xuất hiện ở đây là phù hợp để đại diện cho sự tập trung đặc biệt của Tăng Chi Bộ vào những nền tảng của một cuộc sống tốt đẹp. Ở đây chúng minh họa khía cạnh *đơn giản*, giúp người học tập trung vào chỉ một khía cạnh của Pháp tại một thời điểm.
+
+Cùng một bộ yếu tố được đề cập vài lần với các khuôn mẫu hơi khác nhau, trong đó khuôn mẫu cuối cùng nói rằng mỗi điều có hại này dẫn đến sự biến mất của Phật pháp, trong khi những điều tốt đẹp dẫn đến sự tiếp nối của Phật pháp. Điều này dẫn chúng ta đến [AN 1.129](https://suttacentral.net/an1.98-139).
+
+Từ [AN 1.130--169](https://suttacentral.net/an1.98-139), chủ đề về việc bảo tồn Pháp được tiếp tục, nhưng được áp dụng cho một chủ đề mới, một chủ đề khá đặc trưng của Tăng Chi Bộ: giảng dạy Pháp. Cụ thể, những người trình bày Pháp một cách chính xác sẽ tạo nhiều *phước đức* (*merit* / công đức, điều tốt lành) và bảo tồn Phật pháp, trong khi những người xuyên tạc hoặc trình bày sai Pháp sẽ tạo *nghiệp* (*karma* / hành động có chủ ý và kết quả của nó) xấu và hủy hoại Phật pháp. Chuỗi bài kinh này thể hiện cấu trúc bên trong của nó, khi nó bắt đầu đơn giản với "lời dạy" và sau đó tiếp tục phân biệt Pháp ngày càng tinh vi hơn, đặc biệt với sự giới thiệu của *Luật Tạng* (Vinaya / giới luật cho tu sĩ) và một danh sách khá phong phú các thuật ngữ kỹ thuật cho giới luật tu viện. Không khó để thấy rằng một phát biểu ban đầu đơn giản có thể đã được kéo dài ra bằng cách thêm nhiều khía cạnh của lời dạy, một cách thuận tiện cung cấp cho những người học Tăng Chi Bộ một số tài liệu Luật Tạng để học.
+
+Chuỗi bài kinh này phát triển từ chuỗi trước, với chủ đề bảo tồn Phật pháp làm đoạn chuyển tiếp chủ đề. Do đó, chúng ta có, từ [AN 1.82](https://suttacentral.net/an1.82-97) đến [AN 1.169](https://suttacentral.net/an1.150-169), một vòng cung chủ đề thứ hai bao gồm 88 bài kinh.
+
+Từ [AN 1.170](https://suttacentral.net/an1.170-187), một chủ đề mới được giới thiệu, một chủ đề cũng đại diện cho một khía cạnh quan trọng của Tăng Chi Bộ: các hạng người. Phật giáo, tất nhiên, nổi tiếng nhất với những lời dạy về *vô ngã* (*not-self* / không có một cái tôi thường hằng, bất biến), và sự phân tích phi cá nhân về các quá trình tâm lý. Nhưng có rất nhiều tài liệu trong các bài kinh đề cập đến các hạng người, hoặc các kiểu tính cách, và phần lớn trong số đó nằm trong Tăng Chi Bộ. Những bài kinh này sau đó được tập hợp để tạo thành bộ luận A-tỳ-đạt-ma (Abhidhamma) có tên là Nhân Chế Định (Puggalapaññatti), tức "Mô Tả Về Các Hạng Người".
+
+Trong tất cả các hạng người trong Phật giáo, người không thể sánh bằng chính là Đức Phật. Mặc dù có một chuỗi các vị Phật qua các thời đại, nhưng trong thời đại của chúng ta, Ngài là duy nhất. Do đó, những bài kinh này nói về "một người" xuất hiện trên thế gian, người mang lại lợi ích và sự siêu việt một cách độc đáo. Tại [AN 1.187](https://suttacentral.net/an1.170-187), vị đệ tử hàng đầu của Đức Phật, Xá Lợi Phất (Sāriputta), được ca ngợi là người tiếp tục chuyển bánh xe Pháp sau Đức Phật. Điều này chuyển tiếp sang chuỗi bài kinh tiếp theo, trong đó ca ngợi riêng từng vị đệ tử của Đức Phật về những điểm đặc biệt. Đây là một danh sách khá hấp dẫn, trong đó xuất hiện nhiều nhân vật từ khắp kinh điển; không chỉ bốn *bộ kinh* (nikāyas), mà cả Luật Tạng và Tiểu Bộ (Khuddaka Nikāya) nữa. Các vị Tỳ kheo nổi bật xuất hiện trong [AN 1.188--234](https://suttacentral.net/an1.188-197); các vị Tỳ kheo ni từ [AN 1.235--247](https://suttacentral.net/an1.235-247); các nam cư sĩ từ [AN 1.248--257](https://suttacentral.net/an1.248-257); và các nữ cư sĩ, từ [AN 1.258--267](https://suttacentral.net/an1.258-267). Tất cả những người này đều là "số một" trong lĩnh vực của họ, minh họa ý nghĩa của "một" là *tối thượng*.
+
+Chương tiếp theo tiếp tục chủ đề "các hạng người", liệt kê nhiều điều có thể hoặc không thể đối với những người khác nhau. Ví dụ, một người "đạt được chánh kiến"---tức là, một vị *Nhập Lưu* (stream-enterer / người đã vào dòng Thánh)---không thể coi bất kỳ điều kiện nào là thường hằng. Nhưng từ [AN 1.284--295](https://suttacentral.net/an1.278-286), một lần nữa chúng ta tìm thấy một đoạn chuyển tiếp chủ đề; "hạng người" biến mất và chủ đề về điều có thể và không thể được áp dụng ở cấp độ phi cá nhân hơn: những điều tốt đẹp không thể đến từ những hành động xấu xa.
+
+Điều này tạo thành vòng cung chủ đề lớn thứ ba trong Chương Một Pháp, 126 bài kinh từ [AN 1.170](https://suttacentral.net/an1.170-187) đến [AN 1.295](https://suttacentral.net/an1.287-295). Phần còn lại của Chương Một Pháp tiếp tục tương tự, với các bài kinh rời rạc được tập hợp theo các dòng chủ đề lỏng lẻo. Các chủ đề vẫn tương tự, với một điểm khác biệt. Khi Chương này tiến gần đến cuối, chủ đề về Niết-bàn, mục tiêu cuối cùng của Phật giáo, ngày càng trở nên nổi bật hơn. *Phẩm* (chương) cuối cùng được gọi là "Chương Bất Tử", và nó trực tiếp đề cập đến con đường dẫn đến sự giác ngộ hoàn toàn. Do đó, ý nghĩa về sự thống nhất chủ đề đã rõ ràng trong nhiều phần của Chương Một Pháp cũng rõ ràng trong cấu trúc tổng thể của nó, được những người biên tập tập hợp lại để đạt đến đỉnh điểm là sự giác ngộ.
+
+### Chương Hai Pháp
+
+*Nipāta* (tập) thứ hai là một loại cầu nối giữa "các vòng cung của những đoạn rời rạc" đặc trưng cho *nipāta* (tập) đầu tiên và các bài kinh hoàn chỉnh hơn trở nên nổi bật trong phần còn lại của Tăng Chi Bộ. Nó lặp lại và khuếch đại các chủ đề của *nipāta* (tập) đầu tiên, đồng thời giới thiệu những ý tưởng mới.
+
+Nó bắt đầu với một loạt các bài kinh nói về các nguyên tắc cơ bản của cuộc sống tốt đẹp: làm điều thiện và tránh điều ác ([AN 2.3--4](https://suttacentral.net/an2.1-10)) và kết quả của các hành động trong đời này và đời sau ([AN 2.1](https://suttacentral.net/an2.1-10)). Điều này, tôi nghĩ, công bố những gì mà những người biên tập nhắm đến là chủ đề chính của *nipāta* (tập) này: ý tưởng rằng có một trật tự đạo đức trên thế giới, có thiện và ác, và nếu chúng ta hiểu được điều này, chúng ta có thể sống tốt cuộc đời của mình. Bộ sưu tập bắt đầu bằng cách nhấn mạnh sự thật này, và những hậu quả thảm khốc của việc phớt lờ nó.
+
+Chương thứ hai xây dựng trên điều này, nói về "sức mạnh của sự quán chiếu" để nhìn lại và hiểu trật tự đạo đức này, và "sức mạnh của sự phát triển" để từ bỏ điều xấu và phát triển điều tốt ([AN 2.11--13](https://suttacentral.net/an2.11-20)). Một ví dụ cụ thể về điều này được đưa ra trong trường hợp một biện pháp kỷ luật trong Tăng đoàn (Saṅgha) ([AN 2.15](https://suttacentral.net/an2.11-20); so sánh [AN 2.21](https://suttacentral.net/an2.21-31)). Khi một vị khất sĩ buộc tội một vị khác làm điều sai trái, cả hai nên "quán chiếu" về những gì đã xảy ra và vai trò của họ trong vụ việc, và chỉ khi đó vấn đề mới có thể được giải quyết đúng đắn và mọi người mới có thể tiếp tục. Chương này cũng trình bày chi tiết về nhiều khía cạnh cách mà các hành động tốt và xấu dẫn đến các kết quả khác nhau ([AN 2.16](https://suttacentral.net/an2.11-20), [AN 2.17](https://suttacentral.net/an2.11-20)), nêu rõ một loạt các kết quả liên quan đến cả đời này và đời sau ([AN 2.18](https://suttacentral.net/an2.11-20)). Sau đó, Đức Phật giới thiệu ý tưởng về một sự thực hành có chủ ý: người ta không chỉ nên nhận ra những điều này và quán chiếu chúng trong chính mình mà còn phát triển điều tốt và từ bỏ điều xấu, vì điều đó là có thể ([AN 2.19](https://suttacentral.net/an2.11-20)).
+
+Những bài kinh này (và những bài khác) xây dựng trên những lời dạy được tìm thấy trong *nipāta* (tập) đầu tiên đề cập đến các nguyên tắc cơ bản. Chúng kết thúc vòng cung mở đầu thiết lập chủ đề của *nipāta* (tập) này: tính nhị nguyên thế tục của thiện và ác, điều tạo ra cả trách nhiệm và cơ hội để ứng phó.
+
+Nhưng không nên nghĩ rằng những chương này hoàn toàn mạch lạc và có hệ thống. Người ta thỉnh thoảng tìm thấy một bài kinh có vẻ khá ngẫu nhiên, ví dụ [AN 2.10](https://suttacentral.net/an2.1-10) về việc nhập hạ an cư mùa mưa; hoặc [AN 2.60](https://suttacentral.net/an2.52-63) về lý do tại sao các vị khẩn na la (*kimpurisa* / một loại chúng sinh nửa người nửa thú trong thần thoại) không nói tiếng người.
+
+Trong khi đó, các chủ đề riêng biệt từ *nipāta* (tập) đầu tiên cũng được giới thiệu, trộn lẫn không theo trật tự rõ ràng. [AN 2.14](https://suttacentral.net/an2.11-20) đề cập đến hai cách giảng dạy Pháp---tóm tắt và chi tiết---trong khi [AN 2.20](https://suttacentral.net/an2.11-20) nói rằng sự tồn tại của Phật pháp phụ thuộc vào việc hiểu đúng cả ý nghĩa và cách diễn đạt của kinh điển (xem thêm [AN 2.41](https://suttacentral.net/an2.32-41)). [AN 2.23](https://suttacentral.net/an2.21-31) lặp lại chủ đề rằng người xuyên tạc giáo pháp là xuyên tạc Đức Phật và góp phần vào sự kết thúc của Phật pháp. Điều này áp dụng cho những người tuyên bố rằng những điều đó do Đức Phật nói trong khi thực tế không phải vậy.
+
+[AN 2.24](https://suttacentral.net/an2.21-31) giới thiệu sự tương phản giữa các bài kinh cần được giải thích (*neyyattha* / nghĩa cần được dẫn giải) và những bài kinh có ý nghĩa rõ ràng (*nītattha* / nghĩa đã được xác định, liễu nghĩa). Trong một số bài kinh (ví dụ [MN 133](https://suttacentral.net/mn133)), chúng ta thấy rằng Đức Phật đưa ra một phát biểu ngắn gọn mà các vị khất sĩ không hiểu, vì vậy họ tìm kiếm lời khuyên về cách giải thích nó. Trong các trường hợp khác, một câu kệ hoặc một phát biểu giáo lý không rõ ràng và các vị khất sĩ thảo luận về nó. Những ví dụ này cho thấy quá trình thảo luận và phân tích giáo pháp của Đức Phật đã diễn ra ngay từ đầu. Quá trình này cuối cùng đã được chính thức hóa thành các bộ luận A-tỳ-đạt-ma khác nhau và được giải thích chi tiết trong các bộ *chú giải* (*commentaries* / các tác phẩm giải thích kinh điển). Nhưng những văn bản sau này chưa tồn tại, và không nên được đọc ngược lại vào các bài kinh.
+
+[AN 2.31](https://suttacentral.net/an2.21-31) giới thiệu lại một chủ đề khác của *nipāta* (tập) đầu tiên: thiền định. Cặp đôi *chỉ* (*samatha* / sự tĩnh lặng của tâm) và *quán* (hay "minh sát", *vipassanā* / sự thấy biết rõ ràng) được cho là đóng một vai trò trong sự chứng ngộ: chỉ phát triển tâm, trong khi quán phát triển trí tuệ. Cùng nhau, chúng dẫn đến hai khía cạnh của sự giác ngộ: *tâm giải thoát* (freedom of heart / sự giải thoát của tâm khỏi phiền não) và *tuệ giải thoát* (freedom by wisdom / sự giải thoát nhờ trí tuệ).
+
+Nhưng đây, vào lúc này, là một bài kinh riêng lẻ, vì chuỗi bài kinh tiếp theo quay trở lại chủ đề các hạng người. Chủ đề này đã được giới thiệu ngắn gọn trước đó, khi [AN 2.2](https://suttacentral.net/an2.1-10) đối chiếu nỗ lực của người tại gia và *người xuất gia* (*renunciants* / người từ bỏ đời sống thế tục để tu hành). [AN 2.32](https://suttacentral.net/an2.32-41) nói rằng người tốt biết ơn, trong khi người xấu thì không. [AN 2.33](https://suttacentral.net/an2.32-41) nói về những mối ràng buộc tri ân mạnh mẽ và tình cảm nhất, đó là của con cái đối với cha mẹ. Đức Phật nói rằng ngay cả khi cõng cha mẹ trên vai suốt đời, cho ăn và tắm rửa cho họ, bạn cũng không thể đền đáp được ơn sinh thành. Chỉ bằng cách giúp họ vững tin vào các nguyên tắc của Pháp, bạn mới có thể đền đáp họ. Chủ đề kính trọng cha mẹ được phát triển thêm trong [AN 3.31](https://suttacentral.net/an3.31).
+
+Trong [AN 2.35](https://suttacentral.net/an2.32-41), Đức Phật nói với một vị *Bà-la-môn* (*brahmin* / một thành viên của giai cấp tu sĩ Ấn Độ giáo) rằng sự cúng dường tôn giáo truyền thống (*dakkhiṇa* / vật phẩm cúng dường) nên dành cho những người đã thanh tịnh, tức là người đang tu học và bậc thầy trên con đường đạo. Những điều này thay thế cho sự tế lễ của các vị Bà-la-môn. Tiếp theo là một số lời dạy của các vị đệ tử, trong đó cả Xá Lợi Phất ([AN 2.36](https://suttacentral.net/an2.32-41)) và Ma Ha Ca Chiên Diên (Mahākaccāna) ([AN 2.38](https://suttacentral.net/an2.32-41)) đều phân biệt giữa thực hành bên trong và bên ngoài, trong khi Ma Ha Ca Chiên Diên đưa ra một nhận xét sắc sảo: người tại gia tranh cãi về các *dục lạc* (*sensual pleasures* / các thú vui giác quan), còn người xuất gia thì tranh cãi về các *quan điểm* (*views* / tà kiến, chấp thủ vào ý kiến) ([AN 2.37](https://suttacentral.net/an2.32-41)). Trong [AN 2.39](https://suttacentral.net/an2.32-41), Đức Phật đưa ra một sự so sánh khá gay gắt giữa một vương quốc bị bọn cướp hoành hành và một Tăng đoàn nơi những vị khất sĩ tốt bị yếu thế, bị dọa nạt đến im lặng. Chương tiếp theo ([AN 2.42--51](https://suttacentral.net/an2.42-51)) mở rộng về điều này bằng cách đối chiếu các hội chúng tốt và xấu.
+
+Từ các hội chúng là nhóm người, văn bản quay lại một chủ đề khác của *nipāta* (tập) đầu tiên: Đức Phật là người tối thượng. Ở đây, Ngài được ghép cặp với đối tác thế gian của mình, vị *Chuyển Luân Thánh Vương* (*wheel-turning emperor* / vị vua cai trị bằng Chánh pháp) ([AN 2.52--55](https://suttacentral.net/an2.52-63)). Tiếp tục với chủ đề về các hạng người, [AN 2.62](https://suttacentral.net/an2.52-63) và [AN 2.63](https://suttacentral.net/an2.52-63) mô tả các thủ tục trong Tăng đoàn để giải quyết tranh chấp và sống hòa hợp.
+
+Chương tiếp theo được xây dựng chặt chẽ về chủ đề *an vui* (*sukha* / hạnh phúc, lạc thú). Nó giới thiệu chủ đề bằng cách đối chiếu sự an vui của người tại gia và của người xuất gia, trong đó sự an vui của người xuất gia là tốt hơn ([AN 2.64](https://suttacentral.net/an2.64-76)). Điều này tiếp tục chủ đề về các hạng người, cụ thể là sự tương phản giữa người tại gia và người xuất gia, đã được nêu trong bài kinh thứ hai của *nipāta* (tập). Ở đây nó được kết hợp với chủ đề an vui, là một chủ đề mới. Một loạt các bài kinh mở rộng về chủ đề này, nhưng nó sử dụng một đoạn chuyển tiếp chủ đề để chuyển khỏi sự tập trung vào "các hạng người" và nói về an vui theo thuật ngữ tâm lý thuần túy gợi nhớ nhiều hơn đến Tương Ưng Bộ.
+
+Chính chương này tạo thành một đoạn chuyển tiếp khác---một đoạn chuyển tiếp lồng nhau nếu bạn muốn---đến chuỗi chương tiếp theo, đặc điểm thống nhất là sự tích hợp chặt chẽ của các bài kinh ngắn theo một khuôn mẫu duy nhất trong một *phẩm* (chương), quay trở lại kiểu "phẩm như một bài kinh" mà chúng ta đã thấy trong Chương Một Pháp. Chương 8 đề cập đến nguyên nhân của các phẩm chất tốt và xấu; Chương 9 đề cập đến các cặp "pháp" (*dhammā* / các hiện tượng, các đối tượng của tâm) khác nhau; Chương 10 đề cập đến sự tương phản giữa người ngu và người trí; và Chương 11, mặc dù đa dạng hơn một chút, kết thúc chuỗi này.
+
+[AN 2.130](https://suttacentral.net/an2.130-140)--[AN 2.133](https://suttacentral.net/an2.130-140) ca ngợi các vị đại đệ tử, nhắc nhở chúng ta về danh sách các vị đệ tử hàng đầu trong Chương Một Pháp. Một vài bài kinh sau đó xem lại chủ đề người tốt và người xấu thừa hưởng kết quả hành động của họ ([AN 2.134](https://suttacentral.net/an2.130-140)--[AN 2.137](https://suttacentral.net/an2.130-140)). Phần còn lại của *nipāta* (tập) liệt kê một chuỗi dài các cặp phẩm chất tương phản. Đặc biệt thú vị là chuỗi bài kinh tại [AN 2.280--309](https://suttacentral.net/an2.280-309), nơi Đức Phật đưa ra lý do để thiết lập giới luật cho các vị tu sĩ. Thông thường đây là danh sách mười lý do, nhưng ở đây chúng được sắp xếp thành các cặp. Chuỗi cuối cùng nói về việc phát triển sự hiểu biết sâu sắc và buông bỏ thông qua cặp đôi chỉ và quán. Do đó, mặc dù tập trung chính vào đạo đức và kết quả thế gian, *nipāta* (tập) thứ hai, giống như tập đầu tiên, kết thúc bằng các pháp thực hành dẫn đến giác ngộ.
+
+### Chương Ba Pháp
+
+Với quyển này, chúng ta chuyển từ những tập hợp rời rạc của Chương Một Pháp và một phần của Chương Hai Pháp, và tìm thấy những bài kinh thống nhất hơn theo cách thông thường. Tất nhiên, điều này không bao giờ là tuyệt đối, vì tất cả các quyển của Tăng Chi Bộ đều giữ lại các chuỗi lặp lại phong phú. Tuy nhiên, từ bây giờ, trọng tâm rõ ràng là toàn bộ bài kinh; và do đó, dấu tay của những người biên tập khó nhận ra hơn.
+
+Tuy nhiên, điều đó không có nghĩa là có một sự đoạn tuyệt đột ngột so với các quyển đầu tiên. Ngược lại, Chương Ba Pháp bắt đầu với một *phẩm* (chương) chủ đề tập trung vào cặp tương phản quen thuộc giữa người ngu và người trí. Số ba được thể hiện trong các phẩm chất được cho là đặc trưng cho họ. Phẩm Ngu Nhân (Bālavagga - Chương về Người Ngu) tương ứng với các chương thứ ba và thứ mười có tên tương tự của Chương Hai Pháp, cũng như chương thứ hai của Chương Năm Pháp.
+
+Giống như Chương Một Pháp và Chương Hai Pháp, *nipāta* (tập) này bắt đầu bằng cách nhấn mạnh tình huống có vấn đề mà chúng ta đang ở trong đó, những căng thẳng và đấu tranh của hoàn cảnh thế gian của chúng ta. *Phẩm* (chương) thứ hai chuyển trọng tâm sang những gì chúng ta có thể làm về điều đó.
+
+Do đó, trong [AN 3.13](https://suttacentral.net/an3.13), lần đầu tiên chúng ta thấy một ví dụ rõ ràng về số ba như một cặp nhị nguyên thế tục và một chiều kích siêu việt giải quyết mâu thuẫn. Bài kinh này nói về một người không có hy vọng---một người bị ảnh hưởng bởi nghèo đói và khổ sở về địa vị, cũng như bệnh tật của thân thể---và một người có hy vọng, người hướng tới một tương lai tươi sáng. Nhưng sau đó có người đã từ bỏ hy vọng: vì họ đã đạt được mục tiêu của mình, nên không có gì để mong đợi nữa.
+
+[AN 3.14](https://suttacentral.net/an3.14) đưa ra một điểm chính trị quan trọng: ngay cả những nhà cai trị vĩ đại nhất cũng phải tuân theo pháp luật (*dhamma* / ở đây có thể hiểu là quy luật đạo đức, công lý). Ở đây, nhóm ba liên quan là hành động của thân, khẩu và ý. Bộ ba này---vốn có từ trước Phật giáo---thể hiện một trong những nguyên tắc cơ bản của Pháp, đó là sự tập trung vào các lựa chọn đạo đức và hành động tốt. Nó được tìm thấy liên tục trong suốt Chương Ba Pháp. Trong khi một triết lý thế gian có thể chỉ xem xét các hành động bên ngoài của thân và khẩu của một người, thì đối với Phật giáo, tâm luôn là quan trọng nhất. Chính tâm cuối cùng chịu trách nhiệm cho những gì chúng ta làm và nói, và chính qua tâm mà sự giải thoát được tìm thấy. Do đó, tâm ở đây chỉ ra chiều kích siêu việt của sự thoát ly.
+
+Bài kinh tiếp theo tiếp tục với sự phân chia ba phần của thân, khẩu và ý, đưa ra một số lời khuyên thực tế về cách làm việc để phát triển chúng một cách đúng đắn. Lần đầu tiên Tăng Chi Bộ đi vào lối kể chuyện. Nó kể câu chuyện về một người thợ làm xe ngựa thời xưa, được vua giao nhiệm vụ làm một chiếc xe chiến mới cho một trận chiến trong sáu tháng nữa. Đây là một bối cảnh khá nổi bật: quy mô xã hội nhỏ đến mức việc một vị vua đích thân nói chuyện với một người thợ làm xe ngựa là điều không có gì đáng chú ý. Và rõ ràng, một chiếc xe ngựa duy nhất là đủ để chuẩn bị quân sự cho chiến tranh; một cuộc chiến, khá lịch sự, được lên kế hoạch chính xác trước sáu tháng. Quy mô nhỏ và mức độ không quan trọng của câu chuyện duyên dáng này là một sự tương phản mạnh mẽ với những truyền thuyết phức tạp và huyền ảo của Trường Bộ.
+
+Người thợ làm xe ngựa hoàn thành bánh xe đầu tiên chỉ sáu ngày trước trận chiến và bị thúc giục làm nhanh bánh xe thứ hai. Nhưng thời gian rất quan trọng: bánh xe đầu tiên được làm tốt và ổn định, trong khi bánh xe thứ hai bị chao đảo và vỡ. Sau đó, Đức Phật tự nhận mình là người thợ làm xe ngựa. Điều này cũng đáng chú ý, vì đây là một trong số rất ít các câu chuyện *Tiền Thân* (Jātaka / chuyện kể về các kiếp trước của Đức Phật) trong bốn *bộ kinh* (nikāyas). Địa vị khiêm tốn của vị Phật tương lai là một người thợ làm xe ngựa thấp kém là điều bất thường, vì thường Ngài được cho là một vị vua vĩ đại trong quá khứ. Cũng đáng chú ý là nhiệm vụ của ông có vấn đề về mặt đạo đức: ông là một nhà sản xuất vũ khí. Sau này, Tăng Chi Bộ sẽ nói rằng buôn bán vũ khí là một trong những hình thức *tà mạng* (*wrong livelihood* / sinh kế không chân chính) ([AN 5.177](https://suttacentral.net/an5.177)). Người ta có thể cho rằng xe ngựa không phải là vũ khí, nhưng nó được yêu cầu rõ ràng như một phương tiện chiến tranh, và ngày nay chúng ta sẽ không ngần ngại coi, chẳng hạn, xe tăng hoặc máy bay chiến đấu là các phương tiện mang vũ khí. Trong bộ sưu tập Tiền Thân sau này, không có gì lạ khi Bồ Tát phạm *giới luật* (*precepts* / các điều học, quy tắc đạo đức) hoặc thực hiện nhiều hành vi có đạo đức đáng ngờ; xét cho cùng, toàn bộ vấn đề là Ngài chưa hoàn hảo. Tuy nhiên, điều này làm tăng thêm ấn tượng nổi bật của câu chuyện nhỏ này, thực tế và gần gũi hơn nhiều so với các câu chuyện Tiền Thân khác trong các *bộ kinh* (nikāyas).
+
+[AN 3.16](https://suttacentral.net/an3.16) giới thiệu ý tưởng về "sự thực hành đảm bảo", bao gồm ba yếu tố của Tuần Tự Huấn Luyện: *thu thúc các căn* (sense restraint / kiểm soát các giác quan), ăn uống điều độ, và tỉnh giác. Những điều này ngầm gợi lại chương đầu tiên của Tăng Chi Bộ, ở đây được trình bày dưới một hình thức chuẩn mực hơn.
+
+Một trong những biện pháp tu từ đặc trưng của Tăng Chi Bộ là đối chiếu giữa thế tục và thiêng liêng; hãy nhớ [AN 2.2](https://suttacentral.net/an2.1-10) đã nói về nỗ lực của người tại gia và người xuất gia như thế nào. [AN 3.19](https://suttacentral.net/an3.19) mở rộng chủ đề này, so sánh một người bán hàng phải làm việc sáng, trưa và tối với một vị khất sĩ chuyên tâm thiền định sáng, trưa và tối. [AN 3.20](https://suttacentral.net/an3.20) áp dụng cùng một ẩn dụ theo một cách khác. Những bài kinh này kết thúc vòng cung đầu tiên, đề cập đến việc hiểu những nguy hiểm của thế gian, và nỗ lực để thoát khỏi nó.
+
+Chương thứ ba xem lại chủ đề "các hạng người". Nó bắt đầu bằng một cuộc thảo luận giữa một số vị khất sĩ cao niên về việc ai là người giỏi nhất trong ba loại người đã đạt được thành tựu tâm linh; hay nói cách khác, ai đã thực hành tốt nhất những điều được khuyến khích trong hai chương đầu ([AN 3.21](https://suttacentral.net/an3.21)). Một sự so sánh thú vị được đưa ra giữa việc điều trị bệnh tật và việc cung cấp sự hỗ trợ tinh thần: bạn không phải lúc nào cũng có thể giúp đỡ, nhưng ít nhất bạn nên cố gắng ([AN 3.22](https://suttacentral.net/an3.22)).
+
+Một số bài kinh trong Chương Ba Pháp có chung một khuôn mẫu, trong đó pháp đầu tiên là nền tảng, pháp thứ hai là sự chứng ngộ Tứ Diệu Đế, và pháp thứ ba là sự giác ngộ hoàn toàn. Điều này xuất hiện lần đầu tiên tại [AN 3.12](https://suttacentral.net/an3.12), và được áp dụng theo những cách khác nhau trong [AN 3.24](https://suttacentral.net/an3.24) và [AN 3.25](https://suttacentral.net/an3.25).
+
+Quay trở lại chủ đề nhập thiền mà toàn bộ bộ sưu tập đã bắt đầu, chúng ta được giới thiệu một lời dạy hấp dẫn xuất hiện nhiều lần trong Tăng Chi Bộ, nhưng không ở đâu khác trong kinh điển ([AN 3.32](https://suttacentral.net/an3.32), [AN 10.6](https://suttacentral.net/an10.6), [AN 10.7](https://suttacentral.net/an10.7), [AN 11.7](https://suttacentral.net/an11.7), [AN 11.18](https://suttacentral.net/an11.18)--[AN 11.21](https://suttacentral.net/an11.21)). Nó bắt đầu bằng một câu hỏi: liệu một vị khất sĩ có thể đạt được một trạng thái nhập định thoát khỏi mọi *ngã mạn* (ego and conceit / sự chấp ngã và kiêu căng) không? Thông thường, người ta hiểu rằng các tầng thiền định được chia sẻ giữa người thường và các bậc giác ngộ trên con đường đạo. Các bậc hoàn thiện được phân biệt bởi việc đã buông bỏ nguyên nhân của khổ đau, chứ không phải vì họ đã đạt được một trạng thái thiền định đặc biệt nào đó. Nhưng những bài kinh này, với giọng điệu ngạc nhiên nổi bật, ngụ ý rằng có một trạng thái thiền định đặc biệt chỉ những bậc hoàn thiện mới đạt được.
+
+Bài kinh này cũng đặc biệt ở chỗ nó kết thúc bằng cách trích dẫn một câu kệ hiện có trong Kinh Tập (Sutta Nipāta) và thậm chí còn nêu đúng tên chương, "Con Đường Đến Bờ Kia". Hoàn toàn không rõ ràng rằng câu kệ ban đầu được dùng để chỉ một trạng thái thiền định. Điều này cho thấy rằng những cách đọc tự do và giàu trí tưởng tượng về các bài kinh đã được tìm thấy ngay cả trong thời kỳ sớm nhất.
+
+Bài kinh tiếp theo ([AN 3.33](https://suttacentral.net/an3.33)) tiếp tục với chủ đề vượt qua ngã mạn, và nó cũng trích dẫn từ "Con Đường Đến Bờ Kia". Nhưng nó bắt đầu với Đức Phật trong một tâm trạng có vẻ chán nản bất thường, nói rằng dù Ngài dạy tóm tắt hay chi tiết---gợi lại [AN 2.14](https://suttacentral.net/an2.11-20)---cũng khó tìm được ai hiểu.
+
+[AN 3.35](https://suttacentral.net/an3.35) kể lại một cuộc gặp gỡ cá nhân với một người tên là Hatthaka, người đã tình cờ gặp Đức Phật đang thiền định gần quê nhà Āḷavī của ông. Ông hỏi liệu Đức Phật có ngủ ngon không, khi xét đến sự khắc nghiệt của cuộc sống ngoài trời của Ngài. Đức Phật trả lời rằng Ngài là một trong những người ngủ ngon trên thế gian, vì Ngài đã thoát khỏi *tham, sân, si* (greed, hate, and delusion / lòng tham, sự tức giận và sự mê lầm) vốn làm phiền mọi người trong giấc ngủ.
+
+Đây là lần thứ hai bộ ba kinh điển này xuất hiện trong Chương Ba Pháp. Chúng xuất hiện lần đầu tiên trong bài kinh trước, [AN 3.34](https://suttacentral.net/an3.34), với tư cách là nguồn gốc của các hành động, và sẽ tái diễn theo nghĩa này trong nhiều bài kinh trong *nipāta* (tập) này. Giống như bộ ba thân, khẩu và ý, chúng có thể được xem là minh họa cho khuôn mẫu 2 + 1. Tham và sân là một cặp phụ thuộc lẫn nhau, những mặt đối lập xấu xí. Si (mê lầm) làm nền tảng cho cả hai; nhưng đồng thời, đối nghịch của si là trí tuệ, và chính nhờ trí tuệ mà sự siêu việt mới có thể thực hiện được.
+
+Không khí kể chuyện này đi vào thần thoại trong bài kinh tiếp theo, đưa ra câu chuyện Phật giáo về thần Yama, chúa tể của cõi chết. Trong khi người ta có thể mong đợi một vị thần chết sẽ đáng sợ, ở đây ông lại có một cách tiếp cận Phật giáo rõ rệt đối với thế giới bên kia. Khi người đã khuất được đưa đến Yama, ông không phán xét cũng không trừng phạt. Thay vào đó, ông hỏi người đã khuất liệu họ có để ý đến những sứ giả do các vị trời gửi đến không: một người già, một người bệnh, và một xác chết. Đây, tất nhiên, là ba trong số bốn sứ giả của chư thiên mà Bồ Tát đã thấy trước khi xuất gia (theo kinh điển được tìm thấy trong cuộc đời của Phật Tỳ Bà Thi (Vipassī); xem [DN 14](https://suttacentral.net/dn14)). Khi người đã khuất trả lời rằng mình không để ý, Yama khiển trách người đó vì sự sao nhãng của mình rồi im lặng. Người đã khuất bị kéo đi để chịu đựng những đau khổ của địa ngục, ở đây được kể lại dưới dạng ngắn gọn hơn [MN 129](https://suttacentral.net/mn129) và [MN 130](https://suttacentral.net/mn130). Yama tiếp tục than thở về tình trạng đáng thương của những người trần tục, bao gồm cả chính ông và ước gì mình có thể tái sinh làm người và thực hành Phật pháp.
+
+Không khí thần thoại tiếp tục trong vài bài kinh tiếp theo ([AN 3.37](https://suttacentral.net/an3.37), [AN 3.38](https://suttacentral.net/an3.38)), giới thiệu một chủ đề mới sẽ rất quan trọng đối với Tăng Chi Bộ; đó là, ngày *Bố-tát* (*uposatha* / ngày trai giới, ngày sám hối và tụng giới của Tăng đoàn). Đây là một "ngày thánh" đặc biệt để thực hành tôn giáo được tuân thủ hàng tuần hoặc vào những ngày đặc biệt nhất định. Các vị đại thần của Tứ Đại Thiên Vương đi tuần tra trái đất vào những ngày như vậy để xem mọi người có tôn kính bậc trên và làm điều thiện không. Nếu có, họ vui mừng, vì họ biết rằng những người như vậy sẽ được tái sinh lên cõi trời để làm tăng thêm số lượng chư thiên, trong khi nếu không, họ sợ rằng số lượng ma quỷ sẽ tăng lên. Điều này tất nhiên sẽ có những hàm ý quân sự nghiêm trọng trong cuộc chiến đang diễn ra giữa hai bên.
+
+Vài bài kinh tiếp theo đề cập đến sự xuất gia, đầu tiên là hồi tưởng của Đức Phật về sự nuôi dưỡng tinh tế của Ngài ([AN 3.39](https://suttacentral.net/an3.39)), sau đó là sự quán chiếu về cách một người xuất gia nên quán chiếu một cách chính trực về những lựa chọn của mình ([AN 3.40](https://suttacentral.net/an3.40)). [AN 3.41](https://suttacentral.net/an3.41) và [AN 3.42](https://suttacentral.net/an3.42) nhìn vào mặt khác của vấn đề, những phẩm chất tạo nên phước đức cho một người cúng dường tại gia, đặc biệt là niềm tin và sự rộng lượng cũng như mong muốn học hỏi. Học hỏi được chọn làm chủ đề của hai bài kinh tiếp theo ([AN 3.43](https://suttacentral.net/an3.43) và [AN 3.44](https://suttacentral.net/an3.44)). Sau đó, các chủ đề về sự rộng lượng, niềm tin, và đời sống tâm linh xứng đáng làm cho phước đức có kết quả được xem lại ([AN 3.45](https://suttacentral.net/an3.45), [AN 3.46](https://suttacentral.net/an3.46), [AN 3.48](https://suttacentral.net/an3.48)). Các vị khất sĩ sau đó được thúc giục phải siêng năng ([AN 3.49](https://suttacentral.net/an3.49)) và bản chất của những vị khất sĩ xấu được tiết lộ ([AN 3.50](https://suttacentral.net/an3.50)). Tổng hợp lại, chuỗi 12 bài kinh này có thể được đọc như một vòng cung chủ đề nhỏ về mối quan hệ giữa người tại gia và người xuất gia, sự cần thiết cho cả hai phải có sự chính trực và ý thức đúng đắn về các giá trị trong phạm vi của họ, và sự hỗ trợ lẫn nhau thông qua sự rộng lượng về vật chất và giáo pháp.
+
+Tiếp theo bắt đầu một *phẩm* (chương) mới, "Về các vị Bà-la-môn", như người ta có thể mong đợi, mô tả Đức Phật trong cuộc trò chuyện với các vị Bà-la-môn. Trong [AN 3.51](https://suttacentral.net/an3.51) và [AN 3.52](https://suttacentral.net/an3.52), Đức Phật được hai vị Bà-la-môn tiếp cận, họ thú nhận rằng họ đã không sống một cuộc đời tốt đẹp, và bây giờ, khi đã già yếu, họ tìm kiếm sự giúp đỡ. Đức Phật thừa nhận sự ngắn ngủi của cuộc đời và thúc giục sự thu thúc thân, khẩu và ý. [AN 3.53](https://suttacentral.net/an3.53) có Đức Phật nói chuyện với một vị Bà-la-môn khác về cách Pháp được chứng ngộ ngay trong đời này. Ngài đưa ra một lời dạy tương tự cho một vị *du sĩ* (*wanderer* / người tu hành lang thang không cố định) ([AN 3.54](https://suttacentral.net/an3.54)) và cho vị Bà-la-môn Jāṇussoṇi ([AN 3.55](https://suttacentral.net/an3.55)). Việc giáo pháp của Đức Phật có thể được chứng ngộ ngay trong đời này là một đặc điểm cố hữu của Pháp (*sandiṭṭhiko akāliko* / thiết thực hiện tại, không có thời gian), nhưng dễ dàng bỏ qua việc điều này trực tiếp là một sự khiển trách đối với các truyền thống tôn giáo đã có từ trước. Họ mong đợi những phần thưởng trong tương lai---dù là tái sinh lên cõi trời hay sự đoạn diệt khổ đau cuối cùng---nhưng Đức Phật, trong khi không phủ nhận thực tại và tầm quan trọng của các quả vị tương lai, đã tái tập trung đời sống tâm linh vào hiện tại.
+
+[AN 3.56](https://suttacentral.net/an3.56) đưa ra một loại lời dạy khác cho một vị Bà-la-môn. Trong một thông điệp có sự sâu sắc đặc biệt trong thời đại đầy biến động của chúng ta, Đức Phật giải thích tại sao các nền văn minh sụp đổ, đó là do lòng tham không kiềm chế. Trong [AN 3.57](https://suttacentral.net/an3.57) Đức Phật bác bỏ lời buộc tội của du sĩ Vacchagotta rằng Ngài chỉ khuyến khích cúng dường cho các đệ tử của mình. Khi vị Bà-la-môn Tikaṇṇa ("Ba Tai") ca ngợi các vị Bà-la-môn chân chính, Đức Phật đáp lại bằng định nghĩa lại của Ngài về một vị Bà-la-môn, bác bỏ giá trị của dòng dõi và học vấn Vệ-đà, và đưa ra phần thứ hai của Tuần Tự Huấn Luyện, bắt đầu bằng các tầng thiền ([AN 3.58](https://suttacentral.net/an3.58); [AN 3.59](https://suttacentral.net/an3.59) tương tự). Trong [AN 3.60](https://suttacentral.net/an3.60), Đức Phật không chỉ bác bỏ giá trị của sự tế lễ Vệ-đà, mà Ngài còn cho thấy rằng bằng cách giảng dạy Pháp, người ta có thể mang lại lợi ích cho nhiều người hơn.
+
+*Phẩm* (chương) thứ bảy có tựa đề là "Đại Phẩm", và nó giới thiệu một loạt các bài kinh ở quy mô lớn hơn. Nó bắt đầu bằng một đoạn chuyển tiếp chủ đề; [AN 3.61](https://suttacentral.net/an3.61) tiếp tục chủ đề về mối quan hệ giữa các lý thuyết Phật giáo và phi Phật giáo, nhưng nó làm như vậy dưới dạng một bài giảng giáo lý trực tiếp cho các vị khất sĩ, chứ không phải là một cuộc đối thoại liên tôn. Bài kinh tuyệt vời này cung cấp một khung sườn quan trọng về duyên khởi và nó xứng đáng được nghiên cứu chi tiết. Đại Phẩm này được thống nhất bởi độ dài của bài kinh hơn là bởi chủ đề; tuy nhiên, một số bài kinh khác đề cập đến triết học và các mối quan hệ phi Phật giáo ([AN 3.64](https://suttacentral.net/an3.64), [AN 3.68](https://suttacentral.net/an3.68), [AN 3.70](https://suttacentral.net/an3.70)), bao gồm cả Kinh Kālāma nổi tiếng ([AN 3.65](https://suttacentral.net/an3.65); cũng như [AN 3.66](https://suttacentral.net/an3.66)).
+
+Đến đây tôi sẽ kết thúc phần phân tích của mình, vì tôi nghĩ đã có đủ ví dụ để minh họa cả tính kết nối và sự hỗn loạn của bộ sưu tập này. Hy vọng rằng, người đọc có thể tìm thấy con đường của mình từ đây, và không cảm thấy quá bối rối trước những thay đổi và chuyển biến đột ngột mà họ gặp phải.
+
+### Sơ lược Lịch sử Văn bản
+
+Kinh Tăng Chi Bộ được biên tập bởi R. Morris (tập 1 và 2) và E. Hardy (tập 3--5) dựa trên các bản thảo chữ Sinhala và Miến Điện; Hardy cũng sử dụng ấn bản hoàng gia Thái Lan mới được xuất bản khi đó. Nó được Hội Thánh Điển Pāli (Pali Text Society) xuất bản bằng chữ Latinh từ năm 1885 đến 1900. Các mục lục của M. Hunt và bà C.A.F. Rhys Davids được thêm vào năm 1910. Bản dịch đầu tiên được thực hiện vào năm 1932--36 bởi F.L. Woodward (tập 1, 2, và 5) và E.M. Hare (tập 3 và 4) với tựa đề *Kinh Tăng Thứ* (The Book of the Gradual Sayings).
+
+Cũng như trường hợp của Kinh Trung Bộ và Kinh Tương Ưng Bộ, một số bài kinh riêng lẻ khác nhau từ Tăng Chi Bộ đã được xuất bản dưới dạng sách hoặc trên mạng. Tuy nhiên, một bản dịch mới hoàn chỉnh phải đợi đến khi Tỳ kheo Bodhi hoàn thành công trình của mình về Kinh Tương Ưng Bộ. Như được mô tả trong lời giới thiệu bản dịch của mình, vào cuối những năm 1990, Tỳ kheo Bodhi đã tập hợp loạt bốn tập sách nhỏ Wheel của Trưởng lão Nyanaponika thành một tập duy nhất cho Quỹ Văn Học Thiêng Liêng Quốc Tế với tựa đề *Tuyển Tập Kinh Tăng Chi Bộ* (An Aṅguttara Nikāya Anthology). Sau đó, ngài đã thêm sáu mươi bài kinh nữa và xuất bản tổng cộng 208 bài kinh với tựa đề *Kinh Số Pháp của Đức Phật: Tuyển Tập Các Bài Kinh từ Tăng Chi Bộ* (The Numerical Discourses of the Buddha: An Anthology of Suttas from the Aṅguttara Nikāya) với nhà xuất bản AltaMira Press vào năm 1999. Năm 2012, ngài hoàn thành bản dịch đầy đủ, được xuất bản với tựa đề *Kinh Số Pháp của Đức Phật* (The Numerical Discourses of the Buddha) thông qua nhà xuất bản Wisdom Publications. Lời giới thiệu của ngài thậm chí còn phong phú hơn các công trình trước đó; ít kỹ thuật hơn lời giới thiệu của Kinh Tương Ưng Bộ, phần lớn tập trung vào việc tổng quan các lời dạy được tìm thấy trong Tăng Chi Bộ. Cũng như các bản dịch trước đó của ngài, công trình này tạo thành một bước tiến lớn về độ chính xác và dễ đọc, giới thiệu Tăng Chi Bộ đến một thế hệ mới.
+
+Khi văn bản Pāli không rõ ràng, tôi thường xuyên tham khảo công trình trước đó của Tỳ kheo Bodhi, và hiếm khi tham khảo Woodward/Hare và các bản dịch khác nhau của các bài kinh cụ thể. Một bài báo của Tse-fu Kuan ()---*Một Vài Suy Nghĩ về Việc Dịch Thuật Kinh Điển Pāli: Quy Ước Văn Học, Tư Tưởng Phật Giáo, Bối Cảnh Văn Hóa và Lịch Sử Văn Bản*, 2019, Acta Orientalia Academiae Scientiarum Hungaricae, tập 72 (1), trang 1--23---đã cung cấp những sửa chữa hữu ích trong một số đoạn văn.

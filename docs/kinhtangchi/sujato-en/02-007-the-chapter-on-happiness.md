@@ -1,6 +1,6 @@
 # The Chapter on Happiness
 
-### N 2.64--76 *Sukhavagga*
+### AN 2.64--76 *Sukhavagga*
 
 64\. "There are, mendicants, these two kinds of happiness. What two? The
 happiness of laypeople, and the happiness of renunciates. These are the

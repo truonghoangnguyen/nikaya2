@@ -1,6 +1,6 @@
 # Chương về Người Cư Sĩ Tại Gia
 
-### N 5.171 Rụt Rè *Sārajjasutta*
+### AN 5.171 Rụt Rè *Sārajjasutta*
 
 TÔI NGHE NHƯ VẦY. Một thời Đức Phật ở gần
 Sāvatthī, tại Rừng Jeta, Tu viện của Anāthapiṇḍika.
@@ -17,7 +17,7 @@ không sát sinh, không trộm cắp, không tà dâm, không nói dối, và k
 uống rượu bia, các chất gây say. Người cư sĩ tại gia có năm phẩm chất này sẽ tự tin."
 
 <!--pg-->
-### N 5.172 Tự Tin *Visāradasutta*
+### AN 5.172 Tự Tin *Visāradasutta*
 
 "Người cư sĩ tại gia sống ở nhà có năm phẩm chất sẽ không tự tin.
 Năm phẩm chất nào? Họ sát sinh, trộm cắp, tà dâm, nói dối, và
@@ -28,7 +28,7 @@ Năm phẩm chất nào? Họ không sát sinh, không trộm cắp, không tà 
 uống rượu bia, các chất gây say. Người cư sĩ tại gia sống ở nhà có năm phẩm chất này sẽ tự tin."
 
 <!--pg-->
-### N 5.173 Địa Ngục *Nirayasutta*
+### AN 5.173 Địa Ngục *Nirayasutta*
 
 "Này các vị khất sĩ, người cư sĩ tại gia có năm phẩm chất sẽ bị đọa xuống địa ngục.
 Năm phẩm chất nào? Họ sát sinh, trộm cắp, tà dâm, nói dối, và
@@ -39,7 +39,7 @@ Họ không sát sinh, không trộm cắp, không tà dâm, không nói dối, 
 uống rượu bia, các chất gây say. Người cư sĩ tại gia có năm phẩm chất này sẽ được nâng lên cõi trời."
 
 <!--pg-->
-### N 5.174 Mối Đe Dọa *Verasutta*
+### AN 5.174 Mối Đe Dọa *Verasutta*
 
 Khi ấy, gia chủ Anāthapiṇḍika đến gặp Đức Phật,
 đảnh lễ và ngồi xuống một bên. Đức Phật nói với ông:
@@ -84,14 +84,14 @@ Bất kỳ ai uống rượu bia, các chất gây say đều tạo ra những n
 > tái sinh vào nơi tốt đẹp."
 
 <!--pg-->
-### N 5.175 Người Làm Nghề Xác Chết *Caṇḍālasutta*
+### AN 5.175 Người Làm Nghề Xác Chết *Caṇḍālasutta*
 
 "Này các vị khất sĩ, người cư sĩ tại gia có năm phẩm chất là người làm nghề xác chết, là vết nhơ, và là kẻ bị loại bỏ giữa các cư sĩ tại gia. Năm phẩm chất nào? Họ *không có niềm tin* (faithless / không có niềm tin). Họ không có đạo đức. Họ theo các *nghi lễ ồn ào, mê tín* (boisterous, superstitious rites / nghi lễ ồn ào, mê tín), tin vào điềm báo hơn là hành động. Họ tìm kiếm bên ngoài cộng đồng Phật giáo những người *xứng đáng nhận cúng dường* (worthy of religious donations / xứng đáng nhận cúng dường). Và họ cúng dường ở đó trước tiên. Người cư sĩ tại gia có năm phẩm chất này là người làm nghề xác chết, là vết nhơ, và là kẻ bị loại bỏ giữa các cư sĩ tại gia.
 
 Người cư sĩ tại gia có năm phẩm chất là viên ngọc quý, là hoa sen hồng, và là hoa sen trắng giữa các cư sĩ tại gia. Năm phẩm chất nào? Họ có niềm tin. Họ có đạo đức. Họ không thực hành các nghi lễ ồn ào, mê tín, và tin vào hành động hơn là điềm báo. Họ không tìm kiếm bên ngoài cộng đồng Phật giáo những người xứng đáng nhận cúng dường. Và họ không cúng dường ở đó trước tiên. Người cư sĩ tại gia có năm phẩm chất này là viên ngọc quý, là hoa sen hồng, và là hoa sen trắng giữa các cư sĩ tại gia."
 
 <!--pg-->
-### N 5.176 Niềm Vui *Pītisutta*
+### AN 5.176 Niềm Vui *Pītisutta*
 
 Khi ấy, gia chủ Anāthapiṇḍika, cùng với khoảng năm trăm cư sĩ tại gia, đến gặp Đức Phật, đảnh lễ và ngồi xuống một bên. Đức Phật nói với ông:
 
@@ -104,12 +104,12 @@ Vào lúc một *thánh đệ tử* (noble disciple / người học trò cao qu
 "Lành thay, lành thay, Sāriputta! Vào lúc một thánh đệ tử nhập và an trú trong niềm vui của sự ẩn dật, năm điều này không có mặt nơi vị ấy. Nỗi đau khổ và buồn phiền liên quan đến dục lạc. Niềm vui và hạnh phúc liên quan đến dục lạc. Nỗi đau khổ và buồn phiền liên quan đến điều bất thiện. Niềm vui và hạnh phúc liên quan đến điều bất thiện. Nỗi đau khổ và buồn phiền liên quan đến điều thiện. Vào lúc một thánh đệ tử nhập và an trú trong niềm vui của sự ẩn dật, năm điều này không có mặt nơi vị ấy."
 
 <!--pg-->
-### N 5.177 Nghề Buôn Bán *Vaṇijjāsutta*
+### AN 5.177 Nghề Buôn Bán *Vaṇijjāsutta*
 
 "Này các vị khất sĩ, người cư sĩ tại gia không nên tham gia vào năm nghề buôn bán này. Năm nghề nào? Buôn bán vũ khí, chúng sinh, thịt, chất gây say, và chất độc. Người cư sĩ tại gia không nên tham gia vào năm nghề buôn bán này."
 
 <!--pg-->
-### N 5.178 Các Vị Vua *Rājāsutta*
+### AN 5.178 Các Vị Vua *Rājāsutta*
 
 "Này các vị khất sĩ, các vị nghĩ sao? Các vị đã từng thấy hay nghe về một người đã từ bỏ sát sinh, mà bị các vị vua bắt giữ vì điều đó, rồi xử tử, bỏ tù, hay trục xuất, hoặc làm những gì cần thiết theo luật pháp chưa?"
 
@@ -152,7 +152,7 @@ Vào lúc một *thánh đệ tử* (noble disciple / người học trò cao qu
 "Bạch Thế Tôn, chúng con đã thấy và đã nghe, và chúng con sẽ còn nghe nữa."
 
 <!--pg-->
-### N 5.179 Một Người Tại Gia *Gihisutta*
+### AN 5.179 Một Người Tại Gia *Gihisutta*
 
 Khi ấy, gia chủ Anāthapiṇḍika, cùng với khoảng năm trăm cư sĩ tại gia, đến gặp Đức Phật, đảnh lễ và ngồi xuống một bên. Rồi Đức Phật nói với Tôn giả Sāriputta:
 
@@ -249,7 +249,7 @@ Này Sāriputta, ông nên biết điều này về những cư sĩ áo trắng 
 > đạt đến *Niết-bàn* (extinguishment / sự dập tắt khổ đau)."
 
 <!--pg-->
-### N 5.180 Về Gavesī *Gavesīsutta*
+### AN 5.180 Về Gavesī *Gavesīsutta*
 
 Một thời Đức Phật đang du hành ở xứ Kosala cùng với một Tăng đoàn khất sĩ đông đảo. Khi đang đi trên đường, Đức Phật nhìn thấy một khu rừng sal lớn ở một nơi nọ. Ngài rời con đường, đi vào rừng sal, và đi sâu vào trong đó. Và tại một nơi nọ, Ngài mỉm cười.
 

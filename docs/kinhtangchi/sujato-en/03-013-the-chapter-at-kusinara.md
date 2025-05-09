@@ -1,6 +1,6 @@
 # The Chapter at Kusināra
 
-### N 3.123 At Kusinārā  *Kusinārasutta*
+### AN 3.123 At Kusinārā  *Kusinārasutta*
 
 At one time the Buddha was staying near Kusinārā, in the
 Forest of Offerings. There the Buddha addressed the mendicants,
@@ -44,7 +44,7 @@ mendicant is very fruitful, I say. Why is that? Because that mendicant
 is diligent."
 
 <!--pg-->
-### N 3.124 Arguments  *Bhaṇḍanasutta*
+### AN 3.124 Arguments  *Bhaṇḍanasutta*
 
 "Mendicants, I'm not even comfortable thinking about a place where
 mendicants argue---quarreling and disputing, continually wounding each
@@ -68,7 +68,7 @@ those venerables have given up three things and cultivated three
 things.'"
 
 <!--pg-->
-### N 3.125 The Gotamaka Shrine  *Gotamakacetiyasutta*
+### AN 3.125 The Gotamaka Shrine  *Gotamakacetiyasutta*
 
 At one time the Buddha was staying near Vesālī, at the
 Gotamaka Tree-shrine. There the Buddha addressed the mendicants,
@@ -89,7 +89,7 @@ the Buddha said. And while this discourse was being spoken, the
 thousandfold galaxy shook.
 
 <!--pg-->
-### N 3.126 Bharaṇḍu Kālāma  *Bharaṇḍukālāmasutta*
+### AN 3.126 Bharaṇḍu Kālāma  *Bharaṇḍukālāmasutta*
 
 At one time the Buddha was wandering in the land of the Kosalans when he
 arrived at Kapilavatthu.
@@ -158,7 +158,7 @@ don't I leave Kapilavatthu?" Then Bharaṇḍu the
 Kālāma left Kapilavatthu, never to return.
 
 <!--pg-->
-### N 3.127 With Hatthaka  *Hatthakasutta*
+### AN 3.127 With Hatthaka  *Hatthakasutta*
 
 At one time the Buddha was staying near Sāvatthī in Jeta's
 Grove, Anāthapiṇḍika's monastery.
@@ -204,7 +204,7 @@ things.
 > without getting enough of these three things."
 
 <!--pg-->
-### N 3.128 Bitter  *Kaṭuviyasutta*
+### AN 3.128 Bitter  *Kaṭuviyasutta*
 
 At one time the Buddha was staying near Varanasi, in the deer park at
 Isipatana.
@@ -254,7 +254,7 @@ flies will, without a doubt, plague and infest you.
 > since they've got rid of the flies."
 
 <!--pg-->
-### N 3.129 With Anuruddha (1st)  *Paṭhamaanuruddhasutta*
+### AN 3.129 With Anuruddha (1st)  *Paṭhamaanuruddhasutta*
 
 Then Venerable Anuruddha went up to the Buddha, bowed, sat down to one
 side, and said to him:
@@ -274,7 +274,7 @@ breaks up, after death, they are reborn in a place of loss, a bad place,
 the underworld, hell."
 
 <!--pg-->
-### N 3.130 With Anuruddha (2nd)  *Dutiyaanuruddhasutta*
+### AN 3.130 With Anuruddha (2nd)  *Dutiyaanuruddhasutta*
 
 Then Venerable Anuruddha went up to Venerable Sāriputta,
 and exchanged greetings with him. When the greetings and polite
@@ -309,7 +309,7 @@ completed; what had to be done has been done; there is nothing further
 for this place." And Venerable Anuruddha became one of the perfected.
 
 <!--pg-->
-### N 3.131 Under Cover  *Paṭicchannasutta*
+### AN 3.131 Under Cover  *Paṭicchannasutta*
 
 "Mendicants, three things are conveyed under cover, not in the open.
 What three? Females are married with a veil, not unveiled. Brahmin hymns
@@ -324,7 +324,7 @@ shine in the open, not under cover. These three things shine in the
 open, not under cover."
 
 <!--pg-->
-### N 3.132 Etchings  *Lekhasutta*
+### AN 3.132 Etchings  *Lekhasutta*
 
 "Mendicants, these three people are found in the world. What three? A
 person like a line drawn in stone, a person like a line drawn in sand,

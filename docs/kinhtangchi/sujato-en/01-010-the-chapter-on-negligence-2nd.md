@@ -1,6 +1,6 @@
 # The Chapter on Negligence (2nd)
 
-### N 1.98--139 *Dutiyapamādādivagga*
+### AN 1.98--139 *Dutiyapamādādivagga*
 
 98\. "Taking into account interior factors, mendicants, I do not see a single
 one that is so very harmful as negligence. Negligence is very harmful."

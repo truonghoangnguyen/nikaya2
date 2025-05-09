@@ -1,6 +1,6 @@
 # Phẩm Kẻ Ngu
 
-### N 2.21--31 *Bālavagga*
+### AN 2.21--31 *Bālavagga*
 
 21\. "Này các Tỳ kheo, có hai hạng người ngu. Thế nào là hai? Người không nhận ra khi mình phạm lỗi. Và người không chấp nhận đúng pháp lời thú tội của người đã phạm lỗi. Đó là hai hạng người ngu.
 

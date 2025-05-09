@@ -1,6 +1,6 @@
 # Chương về Sự Oán Giận
 
-### N 5.161 Đoạn Trừ Oán Giận (1) *Paṭhamaāghātapaṭivinayasutta*
+### AN 5.161 Đoạn Trừ Oán Giận (1) *Paṭhamaāghātapaṭivinayasutta*
 
 "Này các Tỳ kheo, một vị Tỳ kheo nên dùng năm phương pháp này để đoạn trừ hoàn toàn sự oán giận khi nó khởi lên đối với bất kỳ ai. Năm phương pháp đó là gì?
 
@@ -17,7 +17,7 @@ Con nên tập trung vào *nghiệp* (deeds / hành động và kết quả củ
 Một vị Tỳ kheo nên dùng năm phương pháp này để đoạn trừ hoàn toàn sự oán giận khi nó khởi lên đối với bất kỳ ai."
 
 <!--pg-->
-### N 5.162 Đoạn Trừ Oán Giận (2) *Dutiyaāghātapaṭivinayasutta*
+### AN 5.162 Đoạn Trừ Oán Giận (2) *Dutiyaāghātapaṭivinayasutta*
 
 Tại đó, Tôn giả Sāriputta nói với các Tỳ kheo:
 "Này chư Hiền, các Tỳ kheo!"
@@ -51,7 +51,7 @@ Cũng vậy, lúc đó con nên tập trung vào hành vi trong sạch qua thân
 Một vị Tỳ kheo nên dùng năm phương pháp này để đoạn trừ hoàn toàn sự oán giận khi nó khởi lên đối với bất kỳ ai."
 
 <!--pg-->
-### N 5.163 Thảo Luận *Sākacchasutta*
+### AN 5.163 Thảo Luận *Sākacchasutta*
 
 Tại đó, Tôn giả Sāriputta nói với các Tỳ kheo:
 "Này chư Hiền, các Tỳ kheo!"
@@ -73,7 +73,7 @@ Vị ấy tự mình thành tựu về *tri kiến giải thoát* (knowledge and
 Một vị Tỳ kheo có năm phẩm chất này thì xứng đáng để thảo luận với các bạn đồng tu."
 
 <!--pg-->
-### N 5.164 Chia Sẻ Đời Sống *Sājīvasutta*
+### AN 5.164 Chia Sẻ Đời Sống *Sājīvasutta*
 
 Tại đó, Tôn giả Sāriputta nói với các Tỳ kheo:
 
@@ -92,13 +92,13 @@ Vị ấy tự mình thành tựu về tri kiến giải thoát, và trả lời
 Một vị Tỳ kheo có năm phẩm chất này thì xứng đáng để chia sẻ đời sống với các bạn đồng tu."
 
 <!--pg-->
-### N 5.165 Đặt Câu Hỏi *Pañhapucchāsutta*
+### AN 5.165 Đặt Câu Hỏi *Pañhapucchāsutta*
 
 Tại đó, Tôn giả Sāriputta nói với các Tỳ kheo: ...
 "Bất cứ ai đặt câu hỏi cho người khác, đều làm vậy vì một trong năm lý do này. Năm lý do đó là gì? Có người đặt câu hỏi cho người khác vì ngu si và khờ dại. Hoặc họ hỏi vì *mong muốn xấu xa* (corrupt wishes / ý định không tốt), có tâm tính tham muốn. Hoặc họ hỏi để chê bai. Hoặc họ hỏi vì muốn hiểu. Hoặc họ hỏi với ý nghĩ: 'Nếu họ trả lời đúng câu hỏi ta đặt ra thì tốt. Nếu không, ta sẽ trả lời đúng cho họ.' Bất cứ ai đặt câu hỏi cho người khác, đều làm vậy vì một trong năm lý do này. Còn về phần ta, ta hỏi với ý nghĩ: 'Nếu họ trả lời đúng câu hỏi ta đặt ra thì tốt. Nếu không, ta sẽ trả lời đúng cho họ.'"
 
 <!--pg-->
-### N 5.166 Diệt *Nirodhasutta*
+### AN 5.166 Diệt *Nirodhasutta*
 Tại đó, Tôn giả Xá-lợi-phất nói với các Tỳ kheo:
 
 "Này chư Hiền, hãy xét một vị Tỳ kheo thành tựu về *giới* (ethics / đạo đức), *định* (immersion / sự tập trung tâm), và *trí tuệ* (wisdom / trí tuệ). Vị ấy có thể nhập và xuất *diệt thọ tưởng định* (cessation of perception and feeling / trạng thái dừng lại của cảm giác và nhận thức). Điều này có thể xảy ra. Nếu vị ấy không đạt được *giác ngộ* (enlightenment / sự tỉnh thức hoàn toàn) ngay trong đời này, thì sau khi vượt qua các chúng *chư thiên còn ăn vật thực cứng* (gods that consume solid food / các vị trời còn dùng thức ăn vật chất), vị ấy sẽ tái sinh vào một chúng *chư thiên do tâm tạo* (mind-made gods / các vị trời được tạo ra bởi tâm) nào đó. Tại đó, vị ấy có thể nhập và xuất diệt thọ tưởng định. Điều này có thể xảy ra."
@@ -162,7 +162,7 @@ Một vị Thượng tọa Tỳ kheo có năm phẩm chất này thì được c
 “Lành thay, lành thay, U-pa-va-na! Một vị Thượng tọa Tỳ kheo có năm phẩm chất này thì được các bạn đồng tu quý mến và yêu thương, kính trọng và ngưỡng mộ. Nếu năm phẩm chất này không được tìm thấy ở một vị Thượng tọa Tỳ kheo, tại sao các bạn đồng tu lại tôn kính, trọng vọng, quý mến hay sùng mộ vị ấy? Chỉ vì răng rụng, tóc bạc, da nhăn ư? Nhưng vì năm phẩm chất này được tìm thấy ở một vị Thượng tọa Tỳ kheo, nên các bạn đồng tu tôn kính, trọng vọng, quý mến và sùng mộ vị ấy.”
 
 <!--pg-->
-### N 5.167 Sự Khiển Trách *Codanāsutta*
+### AN 5.167 Sự Khiển Trách *Codanāsutta*
 
 Tại đó, Tôn giả Sāriputta nói với các Tỳ kheo: "Này chư Hiền, một vị Tỳ kheo muốn khiển trách người khác trước tiên nên tự mình thiết lập năm điều.
 
@@ -193,7 +193,7 @@ Thưa Ngài, có những thiện nam tử đã xuất gia vì niềm tin. Họ k
 Nhưng những thiện nam tử đã xuất gia vì niềm tin... Ông nên nói chuyện với họ. Sāriputta, ông nên khuyên bảo các bạn đồng tu của mình! Ông nên hướng dẫn các bạn đồng tu của mình! Nghĩ rằng: 'Ta sẽ kéo các bạn đồng tu của ta ra khỏi *tà giáo* (false teachings / những lời dạy sai lầm) và giúp họ vững chắc trong *chánh giáo* (true teachings / những lời dạy đúng đắn).' Đó là cách ông nên tu tập."
 
 <!--pg-->
-### N 5.168 Giới Hạnh *Sīlasutta*
+### AN 5.168 Giới Hạnh *Sīlasutta*
 
 Tại đó, Tôn giả Sāriputta nói với các Tỳ kheo:
 
@@ -210,7 +210,7 @@ Ví như có một cái cây đầy đủ cành và lá. Chồi, vỏ, giác câ
 Khi có chánh định, người đã hoàn thiện chánh định đã hoàn thiện một điều kiện thiết yếu cho chánh tri kiến. Khi có chánh tri kiến, người đã hoàn thiện chánh tri kiến đã hoàn thiện một điều kiện thiết yếu cho sự nhàm chán và ly tham. Khi có sự nhàm chán và ly tham, người đã hoàn thiện sự nhàm chán và ly tham đã hoàn thiện một điều kiện thiết yếu cho tri kiến giải thoát."
 
 <!--pg-->
-### N 5.169 Nhanh Trí *Khippanisantisutta*
+### AN 5.169 Nhanh Trí *Khippanisantisutta*
 
 Khi đó, Tôn giả Ānanda đến gặp Tôn giả Sāriputta và chào hỏi ngài. Sau khi chào hỏi và nói chuyện thân mật xong, ngài ngồi xuống một bên và nói với Tôn giả Sāriputta:
 
@@ -227,7 +227,7 @@ Khi đó, Tôn giả Ānanda đến gặp Tôn giả Sāriputta và chào hỏi 
 "Thật phi thường, thật kỳ diệu! Tôn giả Ānanda đã nói điều này thật hay! Và chúng ta sẽ nhớ đến Tôn giả Ānanda là người có năm phẩm chất này: 'Hiền giả Ānanda thông thạo về ý nghĩa, thông thạo về pháp, thông thạo về thuật ngữ, thông thạo về văn cú, và thông thạo về thứ lớp.'"
 
 <!--pg-->
-### N 5.170 Với Bhaddaji *Bhaddajisutta*
+### AN 5.170 Với Bhaddaji *Bhaddajisutta*
 
 Một thời, Tôn giả Ānanda đang ở gần Kosambī, tại Tu viện Ghosita. Khi đó, Tôn giả Bhaddaji đến gặp Tôn giả Ānanda và chào hỏi ngài. Sau khi chào hỏi và nói chuyện thân mật xong, ngài ngồi xuống một bên, và Tôn giả Ānanda nói với ngài:
 

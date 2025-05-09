@@ -1,6 +1,6 @@
 # Chương về Các Pháp Hành
 
-### N 3.156--162 Các Bài Kinh Không Có Tựa Đề về Ba Pháp Hành *Phẩm Acelaka*
+### AN 3.156--162 Các Bài Kinh Không Có Tựa Đề về Ba Pháp Hành *Phẩm Acelaka*
 
 "Này các Tỳ kheo, có ba pháp hành này. Thế nào là ba? Say đắm hạnh, khổ hạnh, và trung đạo.
 
@@ -34,3 +34,67 @@ Vị ấy tu tập *tín lực* (tín + *lực*: power / sức mạnh)... *tấn
 Vị ấy tu tập *niệm giác chi* (niệm + *giác chi*: awakening factor / yếu tố giác ngộ)... *trạch pháp giác chi* (*trạch pháp*: investigation of principles / sự phân tích, lựa chọn giáo pháp; giác chi)... *tinh tấn giác chi* (tấn + giác chi)... *hỷ giác chi* (*hỷ*: rapture / niềm vui, sự phấn khởi; giác chi)... *khinh an giác chi* (*khinh an*: tranquility / sự nhẹ nhàng, an tĩnh; giác chi)... *định giác chi* (định + giác chi)... *xả giác chi* (*xả*: equanimity / sự bình tâm, không thiên vị; giác chi)...
 
 Vị ấy tu tập *chánh kiến* (right view / thấy biết đúng đắn)... *chánh tư duy* (right thought / suy nghĩ đúng đắn)... *chánh ngữ* (right speech / lời nói đúng đắn)... *chánh nghiệp* (right action / hành động đúng đắn)... *chánh mạng* (right livelihood / nuôi mạng đúng đắn)... *chánh tinh tấn* (right effort / cố gắng đúng đắn)... *chánh niệm* (right mindfulness / ghi nhớ, chú tâm đúng đắn)... *chánh định* (right immersion / tập trung tâm ý đúng đắn)... Đây gọi là trung đạo. Đó là ba pháp hành."
+
+<!--pg-->
+# Chương về Các Con Đường Hành Động
+
+### AN 3.163--182 Các Bài Kinh Không Có Tựa Đề về Ba Pháp *Kammapathapeyyāla*
+
+"Người có ba pháp này sẽ bị rơi vào địa ngục. Ba pháp nào? Tự mình *sát sinh* (killing living creatures / giết hại chúng sinh). Khuyến khích người khác *sát sinh*. Và tán thành việc *sát sinh*.
+
+Người có ba pháp này sẽ bị rơi vào địa ngục.
+
+Người có ba pháp này sẽ được sinh lên cõi trời. Ba pháp nào? Tự mình không *sát sinh*. Khuyến khích người khác không *sát sinh*. Và tán thành việc không *sát sinh*.
+...
+
+Tự mình *trộm cắp* (stealing / lấy của không cho). Khuyến khích người khác *trộm cắp*. Và tán thành việc *trộm cắp*. ...
+
+Tự mình không *trộm cắp*. Khuyến khích người khác không *trộm cắp*. Và tán thành việc không *trộm cắp*. ...
+
+Tự mình *tà dâm* (sexual misconduct / hành vi tình dục sai trái). Khuyến khích người khác *tà dâm*. Và tán thành việc *tà dâm*. ...
+
+Tự mình không *tà dâm*. Khuyến khích người khác không *tà dâm*. Và tán thành việc không *tà dâm*. ...
+
+Tự mình *nói dối* (lying / nói lời không thật). Khuyến khích người khác *nói dối*. Và tán thành việc *nói dối*. ...
+
+Tự mình không *nói dối*. Khuyến khích người khác không *nói dối*. Và tán thành việc không *nói dối*. ...
+
+Tự mình *nói chia rẽ* (divisive speech / nói lời đâm thọc, gây chia rẽ). Khuyến khích người khác *nói chia rẽ*. Và tán thành việc *nói chia rẽ*. ...
+
+Tự mình không *nói chia rẽ*. Khuyến khích người khác không *nói chia rẽ*. Và tán thành việc không *nói chia rẽ*. ...
+
+Tự mình *nói lời thô ác* (harsh speech / nói lời mắng nhiếc, cay độc). Khuyến khích người khác *nói lời thô ác*. Và tán thành việc *nói lời thô ác*. ...
+
+Tự mình không *nói lời thô ác*. Khuyến khích người khác không *nói lời thô ác*. Và tán thành việc không *nói lời thô ác*. ...
+
+Tự mình *nói lời vô ích* (nonsense talk / nói lời phù phiếm, nhảm nhí). Khuyến khích người khác *nói lời vô ích*. Và tán thành việc *nói lời vô ích*. ...
+
+Tự mình không *nói lời vô ích*. Khuyến khích người khác không *nói lời vô ích*. Và tán thành việc không *nói lời vô ích*. ...
+
+Tự mình *tham lam* (covetousness / lòng tham muốn tài sản của người khác). Khuyến khích người khác *tham lam*. Và tán thành sự *tham lam*. ...
+
+Tự mình *không tham lam* (contentment / sự biết đủ, không tham lam). Khuyến khích người khác *không tham lam*. Và tán thành việc *không tham lam*. ...
+
+Tự mình có *sân hận* (ill will / tâm trạng ác ý, muốn hại người). Khuyến khích người khác có *sân hận*. Và tán thành việc có *sân hận*. ...
+
+Tự mình *không sân hận* (kind-heartedness / lòng từ bi, không ác ý). Khuyến khích người khác *không sân hận*. Và tán thành sự *không sân hận*. ...
+
+Tự mình có *tà kiến* (wrong view / cái thấy sai lầm, không đúng sự thật). Khuyến khích người khác có *tà kiến*. Và tán thành *tà kiến*. ...
+
+Tự mình có *chánh kiến* (right view / cái thấy đúng đắn, phù hợp sự thật). Khuyến khích người khác có *chánh kiến*. Và tán thành *chánh kiến*.
+
+Người có ba pháp này sẽ được sinh lên cõi trời."
+
+<!--pg-->
+# Chương về các Bài Kinh Tóm Tắt Bắt Đầu với Tham
+
+### AN 3.183--352 Các Bài Kinh Không Có Tựa Đề về Tham, v.v. *Rāgapeyyāla*
+
+"Để có *tuệ quán* (insight / sự hiểu biết sâu sắc, trí tuệ) về *tham* (greed / lòng tham), ba pháp cần được phát triển. Ba pháp đó là gì?
+*Không định* (emptiness immersion / sự tập trung vào tánh không); *vô tướng định* (signless immersion / sự tập trung vào tánh vô tướng); và *vô nguyện định* (undirected immersion / sự tập trung vào tánh vô nguyện). Để có tuệ quán về tham, ba pháp này cần được phát triển.
+
+Để *liễu tri* (complete understanding / sự hiểu biết trọn vẹn) về tham... *đoạn tận* (complete ending / sự chấm dứt hoàn toàn)... *từ bỏ* (giving up / sự buông bỏ)... *chấm dứt* (ending / sự kết thúc)... *tiêu mất* (vanishing / sự tan biến)... *ly tham* (fading away / sự phai nhạt)... *đoạn diệt* (cessation / sự diệt trừ)... *xả ly* (giving away / sự buông xả)... *giải thoát* (letting go / sự giải thoát, buông bỏ hoàn toàn)...
+
+*sân* (hate / lòng sân hận)... *si* (delusion / sự si mê, vô minh)... *phẫn nộ* (anger / sự tức giận)... *oán hận* (acrimony / sự thù hằn)... *hiềm hận* (disdain / sự khinh miệt)... *não hại* (contempt / sự coi thường, làm tổn hại)... *tật đố* (jealousy / sự ganh tị)... *xan tham* (stinginess / sự keo kiệt)... *man trá* (deceitfulness / sự lừa dối)... *xảo quyệt* (deviousness / sự gian xảo)... *ngoan cố* (obstinacy / sự bướng bỉnh)... *hiềm khích* (aggression / sự gây hấn)... *mạn* (conceit / sự kiêu ngạo)... *quá mạn* (arrogance / sự kiêu căng)... *kiêu mạn* (vanity / sự tự phụ)... *phóng dật* (negligence / sự lơ là, dễ duôi)... tuệ quán... liễu tri... đoạn tận... từ bỏ... chấm dứt... tiêu mất... ly tham... đoạn diệt... xả ly... Để giải thoát khỏi phóng dật, ba pháp này cần được phát triển."
+
+Đó là những gì *Đức Phật* (Buddha / Bậc Giác Ngộ) đã dạy. Các vị *Tỳ kheo* (mendicants / các vị khất sĩ, tu sĩ Phật giáo) hoan hỷ, tín thọ lời Đức Phật dạy.

@@ -1,6 +1,6 @@
 # The Chapter on Giving Up the Hindrances
 
-### N 1.11--20 *Nīvaraṇappahānavagga*
+### AN 1.11--20 *Nīvaraṇappahānavagga*
 
 11\. "Mendicants, I do not see a single thing that gives rise to sensual
 desire, or, when it has arisen, makes it increase and grow like the

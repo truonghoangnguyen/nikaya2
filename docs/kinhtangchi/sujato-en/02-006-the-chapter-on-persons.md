@@ -1,6 +1,6 @@
 # The Chapter on Persons
 
-### N 2.52--63 *Puggalavagga*
+### AN 2.52--63 *Puggalavagga*
 
 52\. "These two people, mendicants, arise in the world for the welfare and
 happiness of the people, for the people, for the benefit, welfare, and

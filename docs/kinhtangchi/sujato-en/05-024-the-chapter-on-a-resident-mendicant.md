@@ -1,6 +1,6 @@
 # The Chapter on a Resident Mendicant
 
-### N 5.231 A Resident Mendicant  *Āvāsikasutta*
+### AN 5.231 A Resident Mendicant  *Āvāsikasutta*
 
 "Mendicants, a resident mendicant with five qualities is not admirable.
 What five? They're not accomplished in being well-presented and doing
@@ -18,7 +18,7 @@ enunciates well. They're wise, bright, and clever. A resident mendicant
 with these five qualities is admirable."
 
 <!--pg-->
-### N 5.232 Liked  *Piyasutta*
+### AN 5.232 Liked  *Piyasutta*
 
 "Mendicants, a resident mendicant with five qualities is dear and
 beloved to their spiritual companions, respected and admired. What five?
@@ -49,7 +49,7 @@ A resident mendicant with these five qualities is dear and beloved to
 their spiritual companions, respected and admired."
 
 <!--pg-->
-### N 5.233 Beautification  *Sobhanasutta*
+### AN 5.233 Beautification  *Sobhanasutta*
 
 "Mendicants, a resident mendicant with five qualities beautifies the
 monastery. What five?
@@ -79,7 +79,7 @@ A resident mendicant with these five qualities beautifies the
 monastery."
 
 <!--pg-->
-### N 5.234 Very Helpful  *Bahūpakārasutta*
+### AN 5.234 Very Helpful  *Bahūpakārasutta*
 
 "Mendicants, a resident mendicant with five qualities is very helpful to
 the monastery. What five?
@@ -111,7 +111,7 @@ A resident mendicant with these five qualities is very helpful to the
 monastery."
 
 <!--pg-->
-### N 5.235 A Sympathetic Mendicant  *Anukampasutta*
+### AN 5.235 A Sympathetic Mendicant  *Anukampasutta*
 
 "Mendicants, a resident mendicant with five qualities shows sympathy to
 the lay people. What five? They encourage them in higher ethics. They
@@ -126,7 +126,7 @@ not wasting a gift given in faith. A resident mendicant with these five
 qualities shows sympathy to the lay people."
 
 <!--pg-->
-### N 5.236 Deserving Criticism (1st)  *Paṭhamaavaṇṇārahasutta*
+### AN 5.236 Deserving Criticism (1st)  *Paṭhamaavaṇṇārahasutta*
 
 "Mendicants, a resident mendicant with five qualities is cast down to
 hell. What five? Without examining or scrutinizing, they praise those
@@ -144,7 +144,7 @@ things that are inspiring. And they don't waste a gift given in faith. A
 resident mendicant with these five qualities is raised up to heaven."
 
 <!--pg-->
-### N 5.237 Deserving Criticism (2nd)  *Dutiyaavaṇṇārahasutta*
+### AN 5.237 Deserving Criticism (2nd)  *Dutiyaavaṇṇārahasutta*
 
 "Mendicants, a resident mendicant with five qualities is cast down to
 hell. What five? Without examining or scrutinizing, they praise those
@@ -162,7 +162,7 @@ faith. A resident mendicant with these five qualities is raised up to
 heaven."
 
 <!--pg-->
-### N 5.238 Deserving Criticism (3rd)  *Tatiyaavaṇṇārahasutta*
+### AN 5.238 Deserving Criticism (3rd)  *Tatiyaavaṇṇārahasutta*
 
 "Mendicants, a resident mendicant with five qualities is cast down to
 hell. What five? Without examining or scrutinizing, they praise those
@@ -177,7 +177,7 @@ stingy regarding monasteries, families, and material things. A resident
 mendicant with these five qualities is raised up to heaven."
 
 <!--pg-->
-### N 5.239 Stinginess (1st)  *Paṭhamamacchariyasutta*
+### AN 5.239 Stinginess (1st)  *Paṭhamamacchariyasutta*
 
 "Mendicants, a resident mendicant with five qualities is cast down to
 hell. What five? They're stingy regarding monasteries, families,
@@ -190,7 +190,7 @@ things, and praise. And they don't waste a gift given in faith. A
 resident mendicant with these five qualities is raised up to heaven."
 
 <!--pg-->
-### N 5.240 Stinginess (2nd)  *Dutiyamacchariyasutta*
+### AN 5.240 Stinginess (2nd)  *Dutiyamacchariyasutta*
 
 "Mendicants, a resident mendicant with five qualities is cast down to
 hell. What five? They're stingy regarding monasteries, families,

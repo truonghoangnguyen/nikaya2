@@ -1,6 +1,6 @@
 # The Chapter on Two Things
 
-### N 2.87--97 *Dhammavagga*
+### AN 2.87--97 *Dhammavagga*
 
 87\. "There are, mendicants, these two things. What two? Freedom of heart and
 freedom by wisdom. These are the two things."

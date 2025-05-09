@@ -1,6 +1,6 @@
 # The Chapter on a Lay Follower
 
-### N 5.171 Timidity  *Sārajjasutta*
+### AN 5.171 Timidity  *Sārajjasutta*
 
 SO I HAVE HEARD. At one time the Buddha was staying near
 Sāvatthī in Jeta's Grove, Anāthapiṇḍika's
@@ -19,7 +19,7 @@ consume beer, wine, and liquor intoxicants. A lay follower with these
 five qualities is self-assured."
 
 <!--pg-->
-### N 5.172 Assured  *Visāradasutta*
+### AN 5.172 Assured  *Visāradasutta*
 
 "A lay follower living at home with five qualities is not self-assured.
 What five? They kill living creatures, steal, commit sexual misconduct,
@@ -32,7 +32,7 @@ misconduct, lie, or consume beer, wine, and liquor intoxicants. A lay
 follower living at home with these five qualities is self-assured."
 
 <!--pg-->
-### N 5.173 Hell  *Nirayasutta*
+### AN 5.173 Hell  *Nirayasutta*
 
 "Mendicants, a lay follower with five qualities is cast down to hell.
 What five? They kill living creatures, steal, commit sexual misconduct,
@@ -45,7 +45,7 @@ or consume beer, wine, and liquor intoxicants. A lay follower with these
 five qualities is raised up to heaven."
 
 <!--pg-->
-### N 5.174 Threats  *Verasutta*
+### AN 5.174 Threats  *Verasutta*
 
 Then the householder Anāthapiṇḍika went up to the Buddha,
 bowed, and sat down to one side. The Buddha said to him:
@@ -109,7 +109,7 @@ from consuming beer, wine, and liquor intoxicants.
 > is reborn in a good place."
 
 <!--pg-->
-### N 5.175 Corpse-worker  *Caṇḍālasutta*
+### AN 5.175 Corpse-worker  *Caṇḍālasutta*
 
 "Mendicants, a lay follower with five qualities is a corpse-worker, a
 stain, and a reject among lay followers. What five? They're faithless.
@@ -128,7 +128,7 @@ offerings there first. A lay follower with these five qualities is a
 gem, a pink lotus, and a white lotus among lay followers."
 
 <!--pg-->
-### N 5.176 Rapture  *Pītisutta*
+### AN 5.176 Rapture  *Pītisutta*
 
 Then the householder Anāthapiṇḍika, escorted by around five
 hundred lay followers, went up to the Buddha, bowed, and sat down to one
@@ -168,14 +168,14 @@ skillful. At a time when a noble disciple enters and dwells in the
 rapture of seclusion, these five things aren't present in him."
 
 <!--pg-->
-### N 5.177 Trades  *Vaṇijjāsutta*
+### AN 5.177 Trades  *Vaṇijjāsutta*
 
 "Mendicants, a lay follower should not engage in these five trades. What
 five? Trade in weapons, living creatures, meat, intoxicants, and
 poisons. A lay follower should not engage in these five trades."
 
 <!--pg-->
-### N 5.178 Kings  *Rājāsutta*
+### AN 5.178 Kings  *Rājāsutta*
 
 "What do you think, mendicants? Have you ever seen or heard of a person
 who has given up killing living creatures, and the kings have them
@@ -253,7 +253,7 @@ a case?"
 "Sir, we have seen it and heard of it, and we will hear of it again."
 
 <!--pg-->
-### N 5.179 A Layperson  *Gihisutta*
+### AN 5.179 A Layperson  *Gihisutta*
 
 Then the householder Anāthapiṇḍika, escorted by around five
 hundred lay followers, went up to the Buddha, bowed, and sat down to one
@@ -395,7 +395,7 @@ reborn in the underworld, and am bound for awakening.'
 > reach extinguishment."
 
 <!--pg-->
-### N 5.180 About Gavesī  *Gavesīsutta*
+### AN 5.180 About Gavesī  *Gavesīsutta*
 
 At one time the Buddha was wandering in the land of the Kosalans
 together with a large Saṅgha of mendicants. While traveling

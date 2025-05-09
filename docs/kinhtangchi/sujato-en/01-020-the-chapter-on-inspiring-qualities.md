@@ -1,6 +1,6 @@
 # The Chapter on Inspiring Qualities
 
-### N 1.378--393 *Pasādakaradhammavagga*
+### AN 1.378--393 *Pasādakaradhammavagga*
 
 "Mendicants, this is definitely something worth having, that is, living
 in the wilderness ...

@@ -1,6 +1,6 @@
 # Chương tại Kusinārā
 
-### N 3.123 Tại Kusinārā *Kusinārasutta*
+### AN 3.123 Tại Kusinārā *Kusinārasutta*
 
 Một thời Thế Tôn trú gần Kusinārā, tại Rừng Dâng Cúng. Tại đây, Thế Tôn gọi các Tỳ kheo:
 "Này các Tỳ kheo!"
@@ -16,14 +16,14 @@ Lại nữa, này các Tỳ kheo, có trường hợp một Tỳ kheo sống nư
 Vị ấy không hề nghĩ: 'Thật tốt quá khi vị gia chủ hay con của vị ấy tự tay phục vụ và làm cho mình thỏa mãn với những món ăn ngon, cả tươi sống lẫn nấu chín.' Vị ấy không nghĩ: 'Mình thật mong vị gia chủ này cũng sẽ phục vụ mình với những món ăn ngon như vậy trong tương lai.' Vị ấy ăn món vật thực khất thực đó với tâm không bị trói buộc, không say đắm, không dính mắc, thấy rõ sự nguy hại, và hiểu rõ sự xuất ly. Vị ấy suy nghĩ về nó với những *tư duy xuất ly* (thoughts of renunciation / suy nghĩ về sự từ bỏ), *tư duy vô sân* (thoughts of good will / suy nghĩ không sân hận, tâm từ), hoặc *tư duy bất hại* (thoughts of harmlessness / suy nghĩ không làm hại, tâm bi). Ta nói rằng, sự cúng dường cho một Tỳ kheo như vậy có quả rất lớn. Tại sao vậy? Vì Tỳ kheo ấy sống *không phóng dật* (diligent / không lơ là, tinh cần)."
 
 <!--pg-->
-### N 3.124 Tranh Cãi *Bhaṇḍanasutta*
+### AN 3.124 Tranh Cãi *Bhaṇḍanasutta*
 
 "Này các Tỳ kheo, Ta thậm chí không thoải mái khi nghĩ đến một nơi mà các Tỳ kheo tranh cãi—cãi vã và tranh chấp, liên tục làm tổn thương nhau bằng lời nói như gai nhọn—huống nữa là đi đến đó. Ta đi đến kết luận về họ: 'Rõ ràng các vị tôn giả ấy đã từ bỏ ba pháp và tu tập ba pháp.' Ba pháp nào họ đã từ bỏ? Tư duy xuất ly, tư duy vô sân, và tư duy bất hại. Ba pháp nào họ đã tu tập? Tư duy dục lạc, tư duy sân hận, và tư duy não hại. ... Ta đi đến kết luận về họ: 'Rõ ràng các vị tôn giả ấy đã từ bỏ ba pháp và tu tập ba pháp.'
 
 Ta cảm thấy thoải mái khi đi đến một nơi mà các Tỳ kheo sống hòa hợp—quý trọng lẫn nhau, không cãi vã, hòa hợp như sữa với nước, và nhìn nhau bằng ánh mắt từ ái—huống nữa là nghĩ đến nơi đó. Ta đi đến kết luận về họ: 'Rõ ràng các vị tôn giả ấy đã từ bỏ ba pháp và tu tập ba pháp.' Ba pháp nào họ đã từ bỏ? Tư duy dục lạc, tư duy sân hận, và tư duy não hại. Ba pháp nào họ đã tu tập? Tư duy xuất ly, tư duy vô sân, và tư duy bất hại. ... Ta đi đến kết luận về họ: 'Rõ ràng các vị tôn giả ấy đã từ bỏ ba pháp và tu tập ba pháp.'"
 
 <!--pg-->
-### N 3.125 Tháp Gotamaka *Gotamakacetiyasutta*
+### AN 3.125 Tháp Gotamaka *Gotamakacetiyasutta*
 
 Một thời Thế Tôn trú gần Vesālī, tại Tháp Cây Gotamaka. Tại đây, Thế Tôn gọi các Tỳ kheo:
 "Này các Tỳ kheo!"
@@ -35,7 +35,7 @@ Một thời Thế Tôn trú gần Vesālī, tại Tháp Cây Gotamaka. Tại đ
 Đó là những gì Thế Tôn đã nói. Các Tỳ kheo hài lòng, tán thán lời Thế Tôn dạy. Và trong khi bài pháp này đang được nói lên, thiên hà nghìn thế giới rung chuyển.
 
 <!--pg-->
-### N 3.126 Bharaṇḍu Kālāma *Bharaṇḍukālāmasutta*
+### AN 3.126 Bharaṇḍu Kālāma *Bharaṇḍukālāmasutta*
 
 Một thời Thế Tôn đang du hành trong xứ Kosala thì đến Kapilavatthu.
 
@@ -72,7 +72,7 @@ Thế Tôn nói: "Hãy nói là khác nhau, này Mahānāma!"
 Lúc ấy, Bharaṇḍu nghĩ: "Thế Tôn đã khiển trách ta ba lần trước mặt vị Mahānāma danh tiếng này. Sao ta không rời khỏi Kapilavatthu?" Rồi Bharaṇḍu người Kālāma rời khỏi Kapilavatthu, không bao giờ trở lại.
 
 <!--pg-->
-### N 3.127 Với Hatthaka *Hatthakasutta*
+### AN 3.127 Với Hatthaka *Hatthakasutta*
 
 Một thời Thế Tôn trú gần Sāvatthī, tại Rừng Jeta, Tu viện của Anāthapiṇḍika.
 
@@ -101,7 +101,7 @@ Bạch Thế Tôn, con đã qua đời mà chưa thỏa mãn ba điều. Ba đi�
 > Mà chưa thỏa mãn ba điều này.
 
 <!--pg-->
-### N 3.128 Đắng Cay *Kaṭuviyasutta*
+### AN 3.128 Đắng Cay *Kaṭuviyasutta*
 
 Một thời Thế Tôn trú gần Varanasi, tại Vườn Nai ở Isipatana.
 
@@ -138,7 +138,7 @@ Khi Ngài nói vậy, một trong các Tỳ kheo hỏi Thế Tôn:
 > Vì đã loại bỏ ruồi nhặng.
 
 <!--pg-->
-### N 3.129 Với Anuruddha (1) *Paṭhamaanuruddhasutta*
+### AN 3.129 Với Anuruddha (1) *Paṭhamaanuruddhasutta*
 
 Rồi Tôn giả Anuruddha đi đến chỗ Thế Tôn, đảnh lễ, ngồi sang một bên và bạch rằng:
 
@@ -147,7 +147,7 @@ Rồi Tôn giả Anuruddha đi đến chỗ Thế Tôn, đảnh lễ, ngồi san
 "Này Anuruddha, khi người nữ có ba pháp, khi thân hoại mạng chung, họ tái sinh vào cõi dữ, ác thú, đọa xứ, địa ngục. Ba pháp nào? Một người nữ sống ở nhà với tâm đầy vết nhơ *san tham* (stinginess / sự keo kiệt, bỏn xẻn) vào buổi sáng, *đố kỵ* (jealousy / sự ganh tị) vào buổi trưa, và *dục ái* (sexual desire / ham muốn tình dục) vào buổi tối. Khi người nữ có ba pháp này, khi thân hoại mạng chung, họ tái sinh vào cõi dữ, ác thú, đọa xứ, địa ngục."
 
 <!--pg-->
-### N 3.130 Với Anuruddha (2) *Dutiyaanuruddhasutta*
+### AN 3.130 Với Anuruddha (2) *Dutiyaanuruddhasutta*
 
 Rồi Tôn giả Anuruddha đi đến chỗ Tôn giả Sāriputta, chào hỏi và trao đổi những lời thăm hỏi thân tình. Sau khi chào hỏi xong, ông ngồi sang một bên và nói:
 
@@ -160,14 +160,14 @@ Sau một thời gian, Anuruddha từ bỏ ba pháp này. Lờ chúng đi, ông 
 Ông hiểu rõ: "Sanh đã tận; phạm hạnh đã thành; việc cần làm đã làm; không còn trở lui trạng thái này nữa." Và Tôn giả Anuruddha trở thành một trong các vị *A-la-hán* (perfected / người đã hoàn thiện, đạt giác ngộ).
 
 <!--pg-->
-### N 3.131 Che Đậy *Paṭicchannasutta*
+### AN 3.131 Che Đậy *Paṭicchannasutta*
 
 "Này các Tỳ kheo, có ba điều được thực hiện một cách che đậy, không công khai. Ba điều nào? Phụ nữ kết hôn có che mạng, không để lộ mặt. Các bài tụng của Bà-la-môn được truyền dạy một cách che đậy, không công khai. *Tà kiến* (wrong view / cái thấy sai lầm) được truyền bá một cách che đậy, không công khai. Ba điều này được thực hiện một cách che đậy, không công khai.
 
 Có ba điều tỏa sáng một cách công khai, không che đậy. Ba điều nào? Mặt trăng tỏa sáng công khai, không che đậy. Mặt trời tỏa sáng công khai, không che đậy. Giáo pháp và giới luật do *Như Lai* (Realized One / người đã đến như vậy, danh hiệu Phật) tuyên thuyết tỏa sáng công khai, không che đậy. Ba điều này tỏa sáng một cách công khai, không che đậy."
 
 <!--pg-->
-### N 3.132 Những Vết Khắc *Lekhasutta*
+### AN 3.132 Những Vết Khắc *Lekhasutta*
 
 "Này các Tỳ kheo, có ba hạng người này được tìm thấy trên đời. Ba hạng nào? Người như vết khắc trên đá, người như vết vẽ trên cát, và người như vết vẽ trên nước.
 

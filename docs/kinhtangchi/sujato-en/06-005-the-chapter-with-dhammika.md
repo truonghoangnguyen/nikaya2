@@ -1,6 +1,6 @@
 # The Chapter with Dhammika
 
-### N 6.43 The Giant  *Nāgasutta*
+### AN 6.43 The Giant  *Nāgasutta*
 
 At one time the Buddha was staying near Sāvatthī in Jeta's
 Grove, Anāthapiṇḍika's monastery.
@@ -141,7 +141,7 @@ well-spoken words of the Buddha with these verses:
 > being undefiled, will be fully quenched."
 
 <!--pg-->
-### N 6.44 With Migasālā  *Migasālāsutta*
+### AN 6.44 With Migasālā  *Migasālāsutta*
 
 Then Venerable Ānanda robed up in the morning and, taking his bowl and
 robe, went to the home of the laywoman Migasālā, where he
@@ -255,7 +255,7 @@ Isidatta could not have even known Purāṇa's destination. So
 both individuals were lacking in one respect."
 
 <!--pg-->
-### N 6.45 Debt  *Iṇasutta*
+### AN 6.45 Debt  *Iṇasutta*
 
 "Mendicants, isn't poverty suffering in the world for a person who
 enjoys sensual pleasures?"
@@ -404,7 +404,7 @@ sanctuary from the yoke as the prison of hell or the animal realm.
 > this is the highest freedom from debt."
 
 <!--pg-->
-### N 6.46 By Mahācunda  *Mahācundasutta*
+### AN 6.46 By Mahācunda  *Mahācundasutta*
 
 SO I HAVE HEARD. At one time Venerable
 Mahācunda was staying in the land of the Cetis at
@@ -467,7 +467,7 @@ incredibly rare to find individuals in the world who see the meaning of
 a deep saying with penetrating wisdom."
 
 <!--pg-->
-### N 6.47 Apparent in the Present Life (1st)  *Paṭhamasandiṭṭhikasutta*
+### AN 6.47 Apparent in the Present Life (1st)  *Paṭhamasandiṭṭhikasutta*
 
 And then the wanderer Moḷiyasīvaka went up to the Buddha,
 and exchanged greetings with him. When the greetings and polite
@@ -505,7 +505,7 @@ that sensible people can know it for themselves."
 me as a lay follower who has gone for refuge for life."
 
 <!--pg-->
-### N 6.48 Apparent in the Present Life (2nd)  *Dutiyasandiṭṭhikasutta*
+### AN 6.48 Apparent in the Present Life (2nd)  *Dutiyasandiṭṭhikasutta*
 
 Then a certain brahmin went up to the Buddha, and exchanged greetings
 with him. When the greetings and polite conversation were over, he sat
@@ -545,7 +545,7 @@ Mister Gotama remember me as a lay follower who has gone for refuge for
 life."
 
 <!--pg-->
-### N 6.49 With Khema  *Khemasutta*
+### AN 6.49 With Khema  *Khemasutta*
 
 At one time the Buddha was staying near Sāvatthī in Jeta's
 Grove, Anāthapiṇḍika's monastery.
@@ -592,7 +592,7 @@ Later they will fall into distress.
 > They live freed from fetters."
 
 <!--pg-->
-### N 6.50 Sense Restraint  *Indriyasaṁvarasutta*
+### AN 6.50 Sense Restraint  *Indriyasaṁvarasutta*
 
 "Mendicants, when there is no sense restraint, one who lacks sense
 restraint has destroyed a vital condition for ethical conduct. When
@@ -633,7 +633,7 @@ One who has fulfilled disillusionment and dispassion has fulfilled a
 vital condition for knowledge and vision of freedom."
 
 <!--pg-->
-### N 6.51 With Ānanda  *Ānandasutta*
+### AN 6.51 With Ānanda  *Ānandasutta*
 
 Then Venerable Ānanda went up to Venerable Sāriputta, and
 exchanged greetings with him. When the greetings and polite conversation
@@ -689,7 +689,7 @@ lives, amazing stories, and elaborations. Those venerables clarify to
 regarding the many doubtful matters."
 
 <!--pg-->
-### N 6.52 Aristocrats  *Khattiyasutta*
+### AN 6.52 Aristocrats  *Khattiyasutta*
 
 And then the brahmin Jānussoṇi went up to the Buddha, and
 exchanged greetings with him. When the greetings and polite conversation
@@ -750,7 +750,7 @@ Excellent, Mister Gotama! Excellent! ... From this day forth, may Mister
 Gotama remember me as a lay follower who has gone for refuge for life."
 
 <!--pg-->
-### N 6.53 Diligence  *Appamādasutta*
+### AN 6.53 Diligence  *Appamādasutta*
 
 Then a certain brahmin went up to the Buddha, and exchanged greetings
 with him. When the greetings and polite conversation were over, he sat
@@ -799,7 +799,7 @@ Mister Gotama remember me as a lay follower who has gone for refuge for
 life."
 
 <!--pg-->
-### N 6.54 About Dhammika  *Dhammikasutta*
+### AN 6.54 About Dhammika  *Dhammikasutta*
 
 At one time the Buddha was staying near Rājagaha, on the
 Vulture's Peak Mountain.

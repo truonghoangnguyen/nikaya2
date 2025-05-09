@@ -1,6 +1,6 @@
 # Phẩm Hạnh Phúc
 
-### N 2.64--76 *Sukhavagga*
+### AN 2.64--76 *Sukhavagga*
 
 64\. "Này các Tỳ kheo, có hai loại hạnh phúc này. Thế nào là hai? Hạnh phúc của *người tại gia* (laypeople / người sống đời sống gia đình), và hạnh phúc của *người xuất gia* (renunciates / người từ bỏ đời sống gia đình để tu tập). Đây là hai loại hạnh phúc. Trong hai loại hạnh phúc này, hạnh phúc của người xuất gia là thù thắng hơn."
 

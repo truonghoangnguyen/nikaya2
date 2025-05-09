@@ -1,45 +1,34 @@
-# Chương về Tâm Không Hiệu Quả
+# Phẩm Về Tâm Không Thuần Thục
 
-N 1.21--30 *Phẩm Akammaniya*
+### Kinh Tăng Chi Bộ 1.21-30, Phẩm Akammaniya (Phẩm Về Tâm Không Thuần Thục)
 
-21\. Này các Tỳ-kheo, Ta không thấy một pháp nào khác, khi chưa được *tu tập* (developed - bhāvita - tu tập) như vậy, lại *không hiệu quả* (unworkable - akammaniya - không kham nhẫn) như tâm. Tâm chưa được tu tập thì không hiệu quả.
-
-<!--pg-->
-22\. Này các Tỳ-kheo, Ta không thấy một pháp nào khác, khi đã được tu tập như vậy, lại *hiệu quả* (workable - kammaniya - kham nhẫn) như tâm. Tâm đã được tu tập thì hiệu quả.
+21\. "Này các Tỳ kheo, Ta không thấy một pháp nào khác, khi không được *phát triển* (developed / rèn luyện, tu tập) như vậy, lại khó sử dụng như tâm. Tâm không được *phát triển* thì khó sử dụng."
 
 <!--pg-->
-23\. Này các Tỳ-kheo, Ta không thấy một pháp nào khác, khi chưa được tu tập như vậy, lại *rất có hại* (very harmful - anatthāvaha - bất lợi) như tâm. Tâm chưa được tu tập thì rất có hại.
+22\. "Này các Tỳ kheo, Ta không thấy một pháp nào khác, khi được *phát triển* như vậy, lại dễ sử dụng như tâm. Tâm được *phát triển* thì dễ sử dụng."
 
 <!--pg-->
-24\. Này các Tỳ-kheo, Ta không thấy một pháp nào khác, khi đã được tu tập như vậy, lại *rất có lợi* (very beneficial - atthāvaha - lợi ích) như tâm. Tâm đã được tu tập thì rất có lợi.
+23\. "Này các Tỳ kheo, Ta không thấy một pháp nào khác, khi không được *phát triển* như vậy, lại tai hại đến như vậy như tâm. Tâm không được *phát triển* thì rất tai hại."
 
 <!--pg-->
-25\. Này các Tỳ-kheo, Ta không thấy một pháp nào khác, khi chưa được tu tập, *chưa được phát huy* (with untapped potential - anabhiraddha - chưa được hân hoan) như vậy, lại rất có hại như tâm. Tâm chưa được tu tập, chưa được phát huy thì rất có hại.
+24\. "Này các Tỳ kheo, Ta không thấy một pháp nào khác, khi được *phát triển* như vậy, lại lợi ích đến như vậy như tâm. Tâm được *phát triển* thì rất lợi ích."
 
 <!--pg-->
-26\. Này các Tỳ-kheo, Ta không thấy một pháp nào khác, khi đã được tu tập, *đã được phát huy* (with its potential realized - abhiraddha - đã được hân hoan) như vậy, lại rất có lợi như tâm. Tâm đã được tu tập, đã được phát huy thì rất có lợi.
+25\. "Này các Tỳ kheo, Ta không thấy một pháp nào khác, khi không được *phát triển*, với tiềm năng chưa được khai phá như vậy, lại tai hại đến như vậy như tâm. Tâm không được *phát triển*, với tiềm năng chưa được khai phá, thì rất tai hại."
 
 <!--pg-->
-27\. Này các Tỳ-kheo, Ta không thấy một pháp nào khác, khi chưa được tu tập và *vun bồi* (cultivated - bahulīkata - làm cho sung mãn) như vậy, lại rất có hại như tâm. Tâm chưa được tu tập và vun bồi thì rất có hại.
+26\. "Này các Tỳ kheo, Ta không thấy một pháp nào khác, khi được *phát triển*, với tiềm năng được hiện thực hóa, lại lợi ích đến như vậy như tâm. Tâm được *phát triển*, với tiềm năng được hiện thực hóa, thì rất lợi ích."
 
 <!--pg-->
-28\. Này các Tỳ-kheo, Ta không thấy một pháp nào khác, khi đã được tu tập và vun bồi như vậy, lại rất có lợi như tâm. Tâm đã được tu tập và vun bồi thì rất có lợi.
+27\. "Này các Tỳ kheo, Ta không thấy một pháp nào khác, khi không được *phát triển* và *tu tập* (cultivated / vun bồi, rèn luyện) như vậy, lại tai hại đến như vậy như tâm. Tâm không được *phát triển* và *tu tập* thì rất tai hại."
 
 <!--pg-->
-29\. Này các Tỳ-kheo, Ta không thấy một pháp nào khác, khi chưa được tu tập và vun bồi như vậy, lại mang lại nhiều *khổ* (suffering - dukkha - khổ) như tâm. Tâm chưa được tu tập và vun bồi thì mang lại khổ.
+28\. "Này các Tỳ kheo, Ta không thấy một pháp nào khác, khi được *phát triển* và *tu tập* như vậy, lại lợi ích đến như vậy như tâm. Tâm được *phát triển* và *tu tập* thì rất lợi ích."
 
 <!--pg-->
-30\. Này các Tỳ-kheo, Ta không thấy một pháp nào khác, khi đã được tu tập và vun bồi như vậy, lại mang lại nhiều *an lạc* (happiness - sukha - lạc) như tâm. Tâm đã được tu tập và vun bồi thì mang lại an lạc.
+29\. "Này các Tỳ kheo, Ta không thấy một pháp nào khác, khi không được *phát triển* và *tu tập* như vậy, mang lại nhiều *khổ* (suffering / sự đau đớn, bất hạnh) như tâm. Tâm không được *phát triển* và *tu tập* mang lại *khổ*."
 
 <!--pg-->
-Từ ngữ:
-- tu tập - developed - bhāvita - sự rèn luyện, phát triển tâm trí theo Chánh pháp.
-- không hiệu quả - unworkable - akammaniya - trạng thái tâm trí không thể sử dụng để thực hành Chánh pháp, không linh hoạt, khó điều khiển. (Cổ ngữ: không kham nhẫn)
-- hiệu quả - workable - kammaniya - trạng thái tâm trí có thể sử dụng để thực hành Chánh pháp, linh hoạt, dễ điều khiển. (Cổ ngữ: kham nhẫn)
-- rất có hại - very harmful - anatthāvaha - mang lại điều bất lợi, tổn hại. (Cổ ngữ: bất lợi)
-- rất có lợi - very beneficial - atthāvaha - mang lại điều tốt đẹp, lợi ích. (Cổ ngữ: lợi ích)
-- chưa được phát huy - with untapped potential - anabhiraddha - chưa được khai mở, chưa được làm cho hân hoan, chưa phát huy hết khả năng. (Cổ ngữ: chưa được hân hoan)
-- đã được phát huy - with its potential realized - abhiraddha - đã được khai mở, đã được làm cho hân hoan, đã phát huy hết khả năng. (Cổ ngữ: đã được hân hoan)
-- vun bồi - cultivated - bahulīkata - làm cho tăng trưởng, làm cho sung mãn, phát triển mạnh mẽ. (Cổ ngữ: làm cho sung mãn)
-- khổ - suffering - dukkha - trạng thái đau khổ, bất toại nguyện, bản chất của sự tồn tại theo Tứ Diệu Đế.
-- an lạc - happiness - sukha - trạng thái dễ chịu, hạnh phúc, sung sướng, đối nghịch với khổ.
+30\. "Này các Tỳ kheo, Ta không thấy một pháp nào khác, khi được *phát triển* và *tu tập* như vậy, mang lại nhiều *an vui* (happiness / sự vui sướng, hạnh phúc) như tâm. Tâm được *phát triển* và *tu tập* mang lại *an vui*."
+
+<!--pg-->

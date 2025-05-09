@@ -1,7 +1,7 @@
 # The Chapter on Confirmed
 
 
-### N 4.81 Killing Living Creatures *Pāṇātipātasutta*
+### AN 4.81 Killing Living Creatures *Pāṇātipātasutta*
 
 "Mendicants, someone with four qualities is cast down to hell. What
 four? They kill living creatures, steal, commit sexual misconduct, and
@@ -12,7 +12,7 @@ don't kill living creatures, steal, commit sexual misconduct, or lie.
 Someone with these four qualities is raised up to heaven."
 
 <!--pg-->
-### N 4.82 Lying *Musāvādasutta*
+### AN 4.82 Lying *Musāvādasutta*
 
 "Mendicants, someone with four qualities is cast down to hell. What
 four? They use speech that's false, divisive, harsh, or nonsensical.
@@ -23,7 +23,7 @@ don't use speech that's false, divisive, harsh, or nonsensical. Someone
 with these four qualities is raised up to heaven."
 
 <!--pg-->
-### N 4.83 Where Criticism Takes You *Avaṇṇārahasutta*
+### AN 4.83 Where Criticism Takes You *Avaṇṇārahasutta*
 
 "Mendicants, someone with four qualities is cast down to hell. What
 four? Without examining or scrutinizing, they praise those deserving of
@@ -39,7 +39,7 @@ things that are dubious, and they do arouse faith in things that are
 inspiring. Someone with these four qualities is raised up to heaven."
 
 <!--pg-->
-### N 4.84 Valuing Anger *Kodhagarusutta*
+### AN 4.84 Valuing Anger *Kodhagarusutta*
 
 "Mendicants, someone with four qualities is cast down to hell. What
 four? They value anger, or denigration, or material things, or honor
@@ -52,7 +52,7 @@ things, or honor. Someone with these four qualities is raised up to
 heaven."
 
 <!--pg-->
-### N 4.85 From Darkness to Darkness *Tamotamasutta*
+### AN 4.85 From Darkness to Darkness *Tamotamasutta*
 
 "Mendicants, these four people are found in the world. What four?
 
@@ -102,7 +102,7 @@ bound for light.
 These are the four people found in the world."
 
 <!--pg-->
-### N 4.86 Sunk Low *Oṇatoṇatasutta*
+### AN 4.86 Sunk Low *Oṇatoṇatasutta*
 
 "These four people are found in the world. What four?
 
@@ -117,7 +117,7 @@ These are the four people found in the world."
 ... These are the four people found in the world."
 
 <!--pg-->
-### N 4.87 The Son *Puttasutta*
+### AN 4.87 The Son *Puttasutta*
 
 "Mendicants, these four people are found in the world. What four? The
 confirmed ascetic, the white lotus ascetic, the pink lotus ascetic, and
@@ -171,7 +171,7 @@ should be rightly called an exquisite ascetic of ascetics, it's me.
 These are the four people found in the world."
 
 <!--pg-->
-### N 4.88 Fetters *Saṁyojanasutta*
+### AN 4.88 Fetters *Saṁyojanasutta*
 
 "Mendicants, these four people are found in the world. What four? The
 confirmed ascetic, the white lotus ascetic, the pink lotus ascetic, and
@@ -202,7 +202,7 @@ exquisite ascetic of ascetics.
 These are the four people found in the world."
 
 <!--pg-->
-### N 4.89 Right View *Sammādiṭṭhisutta*
+### AN 4.89 Right View *Sammādiṭṭhisutta*
 
 "Mendicants, these four people are found in the world. What four? The
 confirmed ascetic, the white lotus ascetic, the pink lotus ascetic, and
@@ -231,7 +231,7 @@ it's me.
 These are the four people found in the world."
 
 <!--pg-->
-### N 4.90 Aggregates *Khandhasutta*
+### AN 4.90 Aggregates *Khandhasutta*
 
 "Mendicants, these four people are found in the world. What four? The
 confirmed ascetic, the white lotus ascetic, the pink lotus ascetic, and

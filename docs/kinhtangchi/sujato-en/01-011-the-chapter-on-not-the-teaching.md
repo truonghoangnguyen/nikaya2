@@ -1,6 +1,6 @@
 # The Chapter on Not the Teaching
 
-### N 1.140--149 *Adhammavagga*
+### AN 1.140--149 *Adhammavagga*
 
 140\. "Mendicants, those mendicants who explain what is not the teaching as
 not the teaching are acting for the welfare and happiness of the people,

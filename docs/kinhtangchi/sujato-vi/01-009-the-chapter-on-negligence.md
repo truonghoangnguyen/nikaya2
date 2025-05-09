@@ -1,69 +1,52 @@
-# Chương về Sự Buông Thả (Negligence - Pamāda)
+# Chương về Sao Nhãng
 
-N 1.82--97 *Pamādādivagga*
+### AN 1.82--97 *Phẩm Sao Nhãng, v.v.*
 
-82\. Này các Tỳ-kheo, Ta không thấy một pháp nào khác có hại nhiều như *sự buông thả* (negligence - pamāda - phóng dật). Sự buông thả có hại rất nhiều.
-
-<!--pg-->
-83\. Này các Tỳ-kheo, Ta không thấy một pháp nào khác có lợi nhiều như *sự không buông thả* (diligence - appamāda - bất phóng dật). Sự không buông thả có lợi rất nhiều.
+82\. "Này các Tỷ kheo, Ta không thấy một pháp nào khác tai hại đến như vậy như là *sao nhãng* (negligence / sự lơ là, thiếu chú tâm). Sao nhãng thật tai hại."
 
 <!--pg-->
-84\. Này các Tỳ-kheo, Ta không thấy một pháp nào khác có hại nhiều như *sự lười biếng* (laziness - kusīta - biếng nhác). Sự lười biếng có hại rất nhiều.
+83\. "Này các Tỷ kheo, Ta không thấy một pháp nào khác lợi ích đến như vậy như là *tinh cần* (diligence / sự siêng năng). Tinh cần thật lợi ích."
 
 <!--pg-->
-85\. Này các Tỳ-kheo, Ta không thấy một pháp nào khác có lợi nhiều như *sự tinh tấn* (arousing energy - āraddhavīriya - tinh tấn). Sự tinh tấn có lợi rất nhiều.
+84\. "Này các Tỷ kheo, Ta không thấy một pháp nào khác tai hại đến như vậy như là *lười biếng* (laziness / sự biếng nhác). Lười biếng thật tai hại."
 
 <!--pg-->
-86\. Này các Tỳ-kheo, Ta không thấy một pháp nào khác có hại nhiều như *sự có nhiều mong muốn* (having many wishes - mahicchatā - đa dục). Sự có nhiều mong muốn có hại rất nhiều.
+85\. "Này các Tỷ kheo, Ta không thấy một pháp nào khác lợi ích đến như vậy như là *tinh tấn* (arousing energy / sự nỗ lực siêng năng). Tinh tấn thật lợi ích."
 
 <!--pg-->
-87\. Này các Tỳ-kheo, Ta không thấy một pháp nào khác có lợi nhiều như *sự có ít mong muốn* (having few wishes - appicchatā - thiểu dục). Sự có ít mong muốn có lợi rất nhiều.
+86\. "Này các Tỷ kheo, Ta không thấy một pháp nào khác tai hại đến như vậy như là *tham muốn nhiều* (having many wishes / nhiều mong cầu). Tham muốn nhiều thật tai hại."
 
 <!--pg-->
-88\. Này các Tỳ-kheo, Ta không thấy một pháp nào khác có hại nhiều như *sự không biết đủ* (lack of contentment - asantuṭṭhitā - bất tri túc). Sự không biết đủ có hại rất nhiều.
+87\. "Này các Tỷ kheo, Ta không thấy một pháp nào khác lợi ích đến như vậy như là *ít mong muốn* (having few wishes / ít mong cầu). Ít mong muốn thật lợi ích."
 
 <!--pg-->
-89\. Này các Tỳ-kheo, Ta không thấy một pháp nào khác có lợi nhiều như *sự biết đủ* (contentment - santuṭṭhitā - tri túc). Sự biết đủ có lợi rất nhiều.
+88\. "Này các Tỷ kheo, Ta không thấy một pháp nào khác tai hại đến như vậy như là *không biết đủ* (lack of contentment / không hài lòng với cái mình có). Không biết đủ thật tai hại."
 
 <!--pg-->
-90\. Này các Tỳ-kheo, Ta không thấy một pháp nào khác có hại nhiều như *sự hướng tâm sai pháp* (irrational application of mind - ayoniso manasikāra - phi như lý tác ý). Sự hướng tâm sai pháp có hại rất nhiều.
+89\. "Này các Tỷ kheo, Ta không thấy một pháp nào khác lợi ích đến như vậy như là *biết đủ* (contentment / hài lòng với cái mình có). Biết đủ thật lợi ích."
 
 <!--pg-->
-91\. Này các Tỳ-kheo, Ta không thấy một pháp nào khác có lợi nhiều như *sự hướng tâm đúng pháp* (rational application of mind - yoniso manasikāra - như lý tác ý). Sự hướng tâm đúng pháp có lợi rất nhiều.
+90\. "Này các Tỷ kheo, Ta không thấy một pháp nào khác tai hại đến như vậy như là *không như lý tác ý* (irrational application of mind / hướng tâm sai pháp). Không như lý tác ý thật tai hại."
 
 <!--pg-->
-92\. Này các Tỳ-kheo, Ta không thấy một pháp nào khác có hại nhiều như *sự thiếu tỉnh giác* (lack of situational awareness - asampajañña - bất tỉnh giác). Sự thiếu tỉnh giác có hại rất nhiều.
+91\. "Này các Tỷ kheo, Ta không thấy một pháp nào khác lợi ích đến như vậy như là *như lý tác ý* (rational application of mind / hướng tâm đúng pháp). Như lý tác ý thật lợi ích."
 
 <!--pg-->
-93\. Này các Tỳ-kheo, Ta không thấy một pháp nào khác có lợi nhiều như *sự tỉnh giác* (situational awareness - sampajañña - tỉnh giác). Sự tỉnh giác có lợi rất nhiều.
+92\. "Này các Tỷ kheo, Ta không thấy một pháp nào khác tai hại đến như vậy như là *không tỉnh giác* (lack of situational awareness / thiếu nhận biết rõ). Không tỉnh giác thật tai hại."
 
 <!--pg-->
-94\. Này các Tỳ-kheo, Ta không thấy một pháp nào khác có hại nhiều như *bạn xấu* (bad friends - pāpamitta - ác hữu). Bạn xấu có hại rất nhiều.
+93\. "Này các Tỷ kheo, Ta không thấy một pháp nào khác lợi ích đến như vậy như là *tỉnh giác* (situational awareness / nhận biết rõ). Tỉnh giác thật lợi ích."
 
 <!--pg-->
-95\. Này các Tỳ-kheo, Ta không thấy một pháp nào khác có lợi nhiều như *bạn lành* (good friends - kalyāṇamitta - thiện hữu). Bạn lành có lợi rất nhiều.
+94\. "Này các Tỷ kheo, Ta không thấy một pháp nào khác tai hại đến như vậy như là *bạn xấu* (bad friends / bạn không tốt). Bạn xấu thật tai hại."
 
 <!--pg-->
-96\. Này các Tỳ-kheo, Ta không thấy một pháp nào khác có hại nhiều như *theo đuổi những thói quen xấu* (pursuing bad habits - pāpadhamma - ác pháp). Theo đuổi những thói quen xấu có hại rất nhiều.
+95\. "Này các Tỷ kheo, Ta không thấy một pháp nào khác lợi ích đến như vậy như là *bạn tốt* (good friends / bạn tốt). Bạn tốt thật lợi ích."
 
 <!--pg-->
-97\. Này các Tỳ-kheo, Ta không thấy một pháp nào khác có lợi nhiều như *theo đuổi những thói quen tốt* (pursuing good habits - kalyāṇadhamma - thiện pháp). Theo đuổi những thói quen tốt có lợi rất nhiều.
+96\. "Này các Tỷ kheo, Ta không thấy một pháp nào khác tai hại đến như vậy như là *theo đuổi điều ác, không theo đuổi điều thiện* (pursuing bad habits and not good habits / theo điều xấu, bỏ điều tốt). Theo đuổi điều ác, không theo đuổi điều thiện thật tai hại."
 
 <!--pg-->
-Từ ngữ:
-- sự buông thả - negligence - pamāda - phóng dật: trạng thái lơ là, cẩu thả, thiếu chú tâm vào việc tu tập hoặc những điều thiện lành.
-- sự không buông thả - diligence - appamāda - bất phóng dật: trạng thái chuyên cần, siêng năng, chú tâm vào việc tu tập và những điều thiện lành.
-- sự lười biếng - laziness - kusīta - biếng nhác: trạng thái không muốn làm việc, thiếu nỗ lực.
-- sự tinh tấn - arousing energy - āraddhavīriya - tinh tấn: sự nỗ lực, siêng năng, kiên trì trong việc thực hành thiện pháp.
-- sự có nhiều mong muốn - having many wishes - mahicchatā - đa dục: trạng thái có nhiều ham muốn, tham cầu không giới hạn.
-- sự có ít mong muốn - having few wishes - appicchatā - thiểu dục: trạng thái có ít ham muốn, không tham cầu quá mức.
-- sự không biết đủ - lack of contentment - asantuṭṭhitā - bất tri túc: trạng thái không hài lòng với những gì mình đang có, luôn cảm thấy thiếu thốn.
-- sự biết đủ - contentment - santuṭṭhitā - tri túc: trạng thái hài lòng với những gì mình đang có, không tham lam.
-- sự hướng tâm sai pháp - irrational application of mind - ayoniso manasikāra - phi như lý tác ý: cách suy nghĩ, xem xét sự vật, hiện tượng một cách sai lầm, không phù hợp với chân lý, dẫn đến phiền não.
-- sự hướng tâm đúng pháp - rational application of mind - yoniso manasikāra - như lý tác ý: cách suy nghĩ, xem xét sự vật, hiện tượng một cách đúng đắn, phù hợp với chân lý, dẫn đến sự hiểu biết và giải thoát.
-- sự thiếu tỉnh giác - lack of situational awareness - asampajañña - bất tỉnh giác: trạng thái không nhận biết rõ ràng, đầy đủ về bản thân, hoàn cảnh và những gì đang xảy ra xung quanh.
-- sự tỉnh giác - situational awareness - sampajañña - tỉnh giác: trạng thái nhận biết rõ ràng, đầy đủ về bản thân, hoàn cảnh và những gì đang xảy ra xung quanh, đặc biệt là trong quá trình tu tập.
-- bạn xấu - bad friends - pāpamitta - ác hữu: người bạn có ảnh hưởng tiêu cực, dẫn dắt đến những điều xấu.
-- bạn lành - good friends - kalyāṇamitta - thiện hữu: người bạn có ảnh hưởng tích cực, giúp đỡ và khuyến khích làm những điều thiện.
-- theo đuổi những thói quen xấu - pursuing bad habits - pāpadhamma - ác pháp: thực hành hoặc nuôi dưỡng những hành vi, tâm lý tiêu cực, có hại.
-- theo đuổi những thói quen tốt - pursuing good habits - kalyāṇadhamma - thiện pháp: thực hành hoặc nuôi dưỡng những hành vi, tâm lý tích cực, có lợi ích.
+97\. "Này các Tỷ kheo, Ta không thấy một pháp nào khác lợi ích đến như vậy như là *theo đuổi điều thiện, không theo đuổi điều ác* (pursuing good habits and not bad habits / theo điều tốt, bỏ điều xấu). Theo đuổi điều thiện, không theo đuổi điều ác thật lợi ích."
+
+<!--pg-->

@@ -1,6 +1,6 @@
 # The Chapter with Ānanda
 
-### N 3.71 With Channa  *Channasutta*
+### AN 3.71 With Channa  *Channasutta*
 
 At one time the Buddha was staying near Sāvatthī in Jeta's
 Grove, Anāthapiṇḍika's monastery. Then the wanderer Channa
@@ -64,7 +64,7 @@ practice for giving up that greed, hate, and delusion."
 and delusion. Just this much is enough to be diligent."
 
 <!--pg-->
-### N 3.72 A Disciple of the Ājīvakas  *Ājīvakasutta*
+### AN 3.72 A Disciple of the Ājīvakas  *Ājīvakasutta*
 
 At one time Venerable Ānanda was staying near Kosambī, in
 Ghosita's Monastery. Then a householder who was a disciple of the
@@ -120,7 +120,7 @@ Saṅgha. From this day forth, may Master Ānanda remember me
 as a lay follower who has gone for refuge for life."
 
 <!--pg-->
-### N 3.73 With Mahānāma the Sakyan  *Mahānāmasakkasutta*
+### AN 3.73 With Mahānāma the Sakyan  *Mahānāmasakkasutta*
 
 So I have heard.At one time the Buddha was staying in the
 land of the Sakyans, near Kapilavatthu in the Banyan Tree Monastery. Now
@@ -167,7 +167,7 @@ In this way the Buddha has spoken of the ethics, immersion, and wisdom
 of both a trainee and an adept."
 
 <!--pg-->
-### N 3.74 Jains  *Nigaṇṭhasutta*
+### AN 3.74 Jains  *Nigaṇṭhasutta*
 
 At one time Venerable Ānanda was staying near Vesālī, at
 the Great Wood, in the hall with the peaked roof. Then the Licchavis
@@ -230,7 +230,7 @@ disagree with?"
 didn't agree with him, their head would explode!"
 
 <!--pg-->
-### N 3.75 Support  *Nivesakasutta*
+### AN 3.75 Support  *Nivesakasutta*
 
 Then Venerable Ānanda went up to the Buddha, bowed, and sat down to one
 side. The Buddha said to him:
@@ -275,7 +275,7 @@ and colleagues, relatives and family---should be encouraged, supported,
 and established in these three things."
 
 <!--pg-->
-### N 3.76 Continued Existence (1st)  *Paṭhamabhavasutta*
+### AN 3.76 Continued Existence (1st)  *Paṭhamabhavasutta*
 
 Then Venerable Ānanda went up to the Buddha, bowed, sat down to one
 side, and said to him:
@@ -315,7 +315,7 @@ That's how there is rebirth into a new state of existence in the future.
 That's how continued existence is defined."
 
 <!--pg-->
-### N 3.77 Continued Existence (2nd)  *Dutiyabhavasutta*
+### AN 3.77 Continued Existence (2nd)  *Dutiyabhavasutta*
 
 Then Venerable Ānanda went up to the Buddha, bowed, sat down to one
 side, and said to him:
@@ -355,7 +355,7 @@ That's how there is rebirth into a new state of existence in the future.
 That's how continued existence is defined."
 
 <!--pg-->
-### N 3.78 Precepts and Observances  *Sīlabbatasutta*
+### AN 3.78 Precepts and Observances  *Sīlabbatasutta*
 
 Then Venerable Ānanda went up to the Buddha, bowed, and sat down to one
 side. The Buddha said to him: "Ānanda, are all precepts and observances,
@@ -380,7 +380,7 @@ addressed the mendicants: "Mendicants, Ānanda is a trainee, but it's not
 easy to find his equal in wisdom."
 
 <!--pg-->
-### N 3.79 Fragrances  *Gandhajātasutta*
+### AN 3.79 Fragrances  *Gandhajātasutta*
 
 Then Venerable Ānanda went up to the Buddha, bowed, sat down to one
 side, and said to him:
@@ -415,7 +415,7 @@ with the wind, and against it, and both.
 > a true person's virtue spreads in every direction."
 
 <!--pg-->
-### N 3.80 Lesser  *Cūḷanikāsutta*
+### AN 3.80 Lesser  *Cūḷanikāsutta*
 
 Then Venerable Ānanda went up to the Buddha, bowed, sat down to one
 side, and said to him:

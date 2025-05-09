@@ -1,6 +1,6 @@
 # Chương về Bậc Không Lay Chuyển
 
-### N 4.81 Sát Sanh *Pāṇātipātasutta*
+### AN 4.81 Sát Sanh *Pāṇātipātasutta*
 
 "Này các Tỷ-kheo, người có bốn pháp sẽ bị rơi vào *địa ngục* (hell / cõi khổ đau tột cùng). Bốn pháp gì?
 Họ sát sanh, trộm cắp, tà dâm, và nói dối. Người có bốn pháp này sẽ bị rơi vào địa ngục.
@@ -9,7 +9,7 @@ Người có bốn pháp sẽ được sanh lên *thiên giới* (heaven / cõi 
 Họ không sát sanh, không trộm cắp, không tà dâm, và không nói dối. Người có bốn pháp này sẽ được sanh lên thiên giới."
 
 <!--pg-->
-### N 4.82 Nói Dối *Musāvādasutta*
+### AN 4.82 Nói Dối *Musāvādasutta*
 
 "Này các Tỷ-kheo, người có bốn pháp sẽ bị rơi vào địa ngục. Bốn pháp gì?
 Họ nói lời dối trá, nói lời chia rẽ, nói lời độc ác, hoặc nói lời vô ích. Người có bốn pháp này sẽ bị rơi vào địa ngục.
@@ -18,7 +18,7 @@ Người có bốn pháp sẽ được sanh lên thiên giới. Bốn pháp gì?
 Họ không nói lời dối trá, không nói lời chia rẽ, không nói lời độc ác, hoặc không nói lời vô ích. Người có bốn pháp này sẽ được sanh lên thiên giới."
 
 <!--pg-->
-### N 4.83 Chê Trách Đưa Đến Đâu *Avaṇṇārahasutta*
+### AN 4.83 Chê Trách Đưa Đến Đâu *Avaṇṇārahasutta*
 
 "Này các Tỷ-kheo, người có bốn pháp sẽ bị rơi vào địa ngục. Bốn pháp gì?
 Không xem xét, không thẩm tra, họ tán thán người đáng bị chê trách, và họ chê trách người đáng được tán thán. Họ khởi lòng tin vào những điều đáng nghi ngờ, và họ không khởi lòng tin vào những điều đáng ngưỡng mộ. Người có bốn pháp này sẽ bị rơi vào địa ngục.
@@ -27,7 +27,7 @@ Người có bốn pháp sẽ được sanh lên thiên giới. Bốn pháp gì?
 Sau khi xem xét và thẩm tra, họ chê trách người đáng bị chê trách, và họ tán thán người đáng được tán thán. Họ không khởi lòng tin vào những điều đáng nghi ngờ, và họ khởi lòng tin vào những điều đáng ngưỡng mộ. Người có bốn pháp này sẽ được sanh lên thiên giới."
 
 <!--pg-->
-### N 4.84 Coi Trọng Sân Hận *Kodhagarusutta*
+### AN 4.84 Coi Trọng Sân Hận *Kodhagarusutta*
 
 "Này các Tỷ-kheo, người có bốn pháp sẽ bị rơi vào địa ngục. Bốn pháp gì?
 Họ coi trọng sân hận, hoặc sự phỉ báng, hoặc vật chất, hoặc danh dự hơn là *Chánh pháp* (true teaching / lời dạy chân chính của Đức Phật). Người có bốn pháp này sẽ bị rơi vào địa ngục.
@@ -36,7 +36,7 @@ Người có bốn pháp sẽ được sanh lên thiên giới. Bốn pháp gì?
 Họ coi trọng Chánh pháp hơn là sân hận, hoặc sự phỉ báng, hoặc vật chất, hoặc danh dự. Người có bốn pháp này sẽ được sanh lên thiên giới."
 
 <!--pg-->
-### N 4.85 Từ Bóng Tối Đến Bóng Tối *Tamotamasutta*
+### AN 4.85 Từ Bóng Tối Đến Bóng Tối *Tamotamasutta*
 
 "Này các Tỷ-kheo, có bốn hạng người này hiện hữu trên đời. Bốn hạng người nào?
 
@@ -56,7 +56,7 @@ Và thế nào là người sáng lạng đi đến sáng lạng? Ở đây, có
 Đó là bốn hạng người hiện hữu trên đời."
 
 <!--pg-->
-### N 4.86 Chìm Xuống *Oṇatoṇatasutta*
+### AN 4.86 Chìm Xuống *Oṇatoṇatasutta*
 
 "Có bốn hạng người này hiện hữu trên đời. Bốn hạng người nào?
 
@@ -68,7 +68,7 @@ Và thế nào là người sáng lạng đi đến sáng lạng? Ở đây, có
 ... Đó là bốn hạng người hiện hữu trên đời."
 
 <!--pg-->
-### N 4.87 Người Con *Puttasutta*
+### AN 4.87 Người Con *Puttasutta*
 
 "Này các Tỷ-kheo, có bốn hạng người này hiện hữu trên đời. Bốn hạng người nào? *Sa-môn không lay chuyển* (confirmed ascetic / vị tu sĩ đã vững chắc trên con đường tu tập), *sa-môn sen trắng* (white lotus ascetic / vị tu sĩ thanh tịnh như hoa sen trắng), *sa-môn sen hồng* (pink lotus ascetic / vị tu sĩ thanh tịnh như hoa sen hồng), và *sa-môn tinh tế giữa các sa-môn* (exquisite ascetic of ascetics / vị tu sĩ tuyệt vời nhất trong các vị tu sĩ).
 
@@ -85,7 +85,7 @@ Và nếu có ai đáng được gọi là sa-môn tinh tế giữa các sa-môn
 Đó là bốn hạng người hiện hữu trên đời."
 
 <!--pg-->
-### N 4.88 Kiết Sử *Saṁyojanasutta*
+### AN 4.88 Kiết Sử *Saṁyojanasutta*
 
 "Này các Tỷ-kheo, có bốn hạng người này hiện hữu trên đời. Bốn hạng người nào? Sa-môn không lay chuyển, sa-môn sen trắng, sa-môn sen hồng, và sa-môn tinh tế giữa các sa-môn.
 
@@ -100,7 +100,7 @@ Và thế nào là người sa-môn tinh tế giữa các sa-môn? Ở đây, v�
 Đó là bốn hạng người hiện hữu trên đời."
 
 <!--pg-->
-### N 4.89 Chánh Kiến *Sammādiṭṭhisutta*
+### AN 4.89 Chánh Kiến *Sammādiṭṭhisutta*
 
 "Này các Tỷ-kheo, có bốn hạng người này hiện hữu trên đời. Bốn hạng người nào? Sa-môn không lay chuyển, sa-môn sen trắng, sa-môn sen hồng, và sa-môn tinh tế giữa các sa-môn.
 
@@ -115,7 +115,7 @@ Và thế nào là người sa-môn tinh tế giữa các sa-môn? Ở đây, v�
 Đó là bốn hạng người hiện hữu trên đời."
 
 <!--pg-->
-### N 4.90 Uẩn *Khandhasutta*
+### AN 4.90 Uẩn *Khandhasutta*
 
 "Này các Tỷ-kheo, có bốn hạng người này hiện hữu trên đời. Bốn hạng người nào? Sa-môn không lay chuyển, sa-môn sen trắng, sa-môn sen hồng, và sa-môn tinh tế giữa các sa-môn.
 

@@ -58,12 +58,16 @@ không bị biến mất như vậy, này các Tỷ-kheo, như không phóng d�
 không như lý tác ý, như lý tác ý, không tỉnh giác, tỉnh giác, làm bạn với ác, làm bạn với thiện, hệ lụy với
 pháp bất thiện, không hệ lụy với pháp thiện, hệ lụy với pháp thiện, không hệ lụy với pháp bất thiện”).
 
+<!--pg-->
+?
+<!--pg-->
+?
+<!--pg-->
 ### Phẩm Phi Pháp (2)
 
 ### 33-42 Phi Pháp
 
-<!--pg-->
-33\. - Những Tỷ-kheo nào, này các Tỷ-kheo, nêu rõ phi pháp là pháp, sở hành của những vị ấy, này các
+33\. Những Tỷ-kheo nào, này các Tỷ-kheo, nêu rõ phi pháp là pháp, sở hành của những vị ấy, này các
 Tỷ-kheo, đem lại bất hạnh cho đa số, bất lạc cho đa số, bất lợi cho đa số, đưa đến bất hạnh, đau khổ cho
 chư Thiên và loài Người. Và hơn nữa, này các Tỷ-kheo, những Tỷ-kheo ấy tạo điều vô phước, và khiến
 cho diệu pháp biến mất.

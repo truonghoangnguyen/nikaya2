@@ -1,7 +1,7 @@
 # Chương với Ānanda
 
 
-### N 3.71 Với Channa (Channasutta)
+### AN 3.71 Với Channa (Channasutta)
 
 Một thời, Đức Phật trú tại Sāvatthī, trong rừng Jeta, tịnh xá của ông Anāthapiṇḍika. Rồi du sĩ Channa đi đến chỗ Tôn giả Ānanda, chào hỏi. Sau khi trao đổi những lời chào hỏi xã giao thân mật, ông ngồi xuống một bên và nói với Tôn giả Ānanda:
 
@@ -30,7 +30,7 @@ Người có si, bị si chế ngự, có ý làm hại chính mình, làm hại
 "Đây là một đạo lộ tốt đẹp, một sự thực hành tốt đẹp, để từ bỏ tham, sân, và si đó. Chỉ cần như vậy là đủ để tinh tấn."
 
 <!--pg-->
-### N 3.72 Một Đệ Tử Của Ngoại Đạo Ājīvaka (Ājīvakasutta)
+### AN 3.72 Một Đệ Tử Của Ngoại Đạo Ājīvaka (Ājīvakasutta)
 
 Một thời, Tôn giả Ānanda trú tại Kosambī, trong tịnh xá Ghosita. Rồi một *gia chủ* (householder/gia chủ) là đệ tử của *khổ hạnh giả Ājīvaka* (Ājīvaka ascetics/ngoại đạo Ājīvaka) đi đến chỗ Tôn giả Ānanda, đảnh lễ, ngồi xuống một bên, và nói với Tôn giả Ānanda:
 
@@ -55,7 +55,7 @@ Một thời, Tôn giả Ānanda trú tại Kosambī, trong tịnh xá Ghosita. 
 *Lành thay* (Excellent/Lành thay), thưa Ngài! Lành thay! Như thể *dựng lại những gì bị lật đổ* (righting the overturned/dựng lại những gì bị lật đổ), hoặc *phơi bày những gì bị che giấu* (revealing the hidden/phơi bày những gì bị che giấu), hoặc *chỉ đường cho người lạc lối* (pointing out the path to the lost/chỉ đường cho người lạc lối), hoặc *thắp đèn trong bóng tối* (lighting a lamp in the dark/thắp đèn trong bóng tối) để *người có mắt sáng* (people with clear eyes/người có mắt sáng) có thể thấy những gì ở đó, Sư Ānanda đã làm cho giáo pháp trở nên rõ ràng bằng nhiều cách. Tôi *quy y* (go for refuge/quy y) Phật, quy y Pháp, và quy y *Tăng đoàn Tỳ-kheo* (mendicant Saṅgha/Tăng đoàn Tỳ-kheo). Từ nay trở đi, xin Sư Ānanda hãy nhớ đến tôi như một *cư sĩ tại gia* (lay follower/cư sĩ tại gia) đã quy y trọn đời."
 
 <!--pg-->
-### N 3.73 Với Mahānāma Người Thích Ca (Mahānāmasakkasutta)
+### AN 3.73 Với Mahānāma Người Thích Ca (Mahānāmasakkasutta)
 
 Tôi nghe như vầy. Một thời, Đức Phật trú tại xứ của dòng Thích Ca, gần Kapilavatthu, trong Tịnh xá Cây Đa. Bấy giờ, Đức Phật mới *khỏi bệnh* (recovered from an illness/khỏi bệnh). Rồi Mahānāma người Thích Ca đi đến chỗ Đức Phật, đảnh lễ, ngồi xuống một bên, và nói với Ngài:
 
@@ -74,7 +74,7 @@ Rồi một *Thánh đệ tử* (noble disciple/Thánh đệ tử)—*thành t�
 Theo cách này, Đức Phật đã nói về giới, định, và tuệ của cả học giả và bậc đã thành tựu."
 
 <!--pg-->
-### N 3.74 Ngoại Đạo Ni-kiền-tử (Nigaṇṭhasutta)
+### AN 3.74 Ngoại Đạo Ni-kiền-tử (Nigaṇṭhasutta)
 
 Một thời, Tôn giả Ānanda trú tại Vesālī, trong Đại Lâm, tại Hội trường có mái nhọn. Rồi hai người dòng Licchavi là Abhaya và Paṇḍitakumāra đi đến chỗ Tôn giả Ānanda, đảnh lễ, ngồi xuống một bên, và nói với ông ấy:
 
@@ -95,7 +95,7 @@ Khi nói điều này, Paṇḍitakumāra nói với Abhaya: "Này Abhaya thân 
 "Làm sao tôi lại không đồng ý với những gì Tôn giả Ānanda đã nói rất hay được? Nếu ai không đồng ý với ông ấy, *đầu họ sẽ vỡ tung* (their head would explode/đầu họ sẽ vỡ tung)!"
 
 <!--pg-->
-### N 3.75 Nương Tựa (Nivesakasutta)
+### AN 3.75 Nương Tựa (Nivesakasutta)
 
 Rồi Tôn giả Ānanda đi đến chỗ Đức Phật, đảnh lễ, và ngồi xuống một bên. Đức Phật nói với ông ấy:
 
@@ -114,7 +114,7 @@ Có thể có sự thay đổi trong tứ đại—đất, nước, gió, và l�
 Những người mà con thương xót, và những người đáng nghe—bạn bè và đồng nghiệp, bà con và gia đình—nên được khuyến khích, hỗ trợ, và thiết lập trong ba điều này."
 
 <!--pg-->
-### N 3.76 Hữu (1) (Paṭhamabhavasutta)
+### AN 3.76 Hữu (1) (Paṭhamabhavasutta)
 
 Rồi Tôn giả Ānanda đi đến chỗ Đức Phật, đảnh lễ, ngồi xuống một bên, và nói với Ngài:
 
@@ -139,7 +139,7 @@ Nếu không có nghiệp đưa đến kết quả trong *vô sắc giới* (for
 "Vậy thì, này Ānanda, nghiệp là ruộng, thức là hạt giống, và ái là chất ẩm. Thức của chúng sinh—bị vô minh che lấp và bị ái kiết sử trói buộc—được thiết lập trong một cảnh giới cao. Đó là cách có tái sinh vào một trạng thái tồn tại mới trong tương lai. Đó là cách hữu được định nghĩa."
 
 <!--pg-->
-### N 3.77 Hữu (2) (Dutiyabhavasutta)
+### AN 3.77 Hữu (2) (Dutiyabhavasutta)
 
 Rồi Tôn giả Ānanda đi đến chỗ Đức Phật, đảnh lễ, ngồi xuống một bên, và nói với Ngài:
 
@@ -164,7 +164,7 @@ Nếu không có nghiệp đưa đến kết quả trong vô sắc giới, thì 
 "Vậy thì, nghiệp là ruộng, thức là hạt giống, và ái là chất ẩm. Ý định và mục đích của chúng sinh—bị vô minh che lấp và bị ái kiết sử trói buộc—được thiết lập trong một cảnh giới cao. Đó là cách có tái sinh vào một trạng thái tồn tại mới trong tương lai. Đó là cách hữu được định nghĩa."
 
 <!--pg-->
-### N 3.78 Giới Cấm Thủ (Sīlabbatasutta)
+### AN 3.78 Giới Cấm Thủ (Sīlabbatasutta)
 
 Rồi Tôn giả Ānanda đi đến chỗ Đức Phật, đảnh lễ, và ngồi xuống một bên. Đức Phật nói với ông ấy: "Này Ānanda, tất cả *giới cấm thủ* (precepts and observances/giới cấm thủ), *lối sống* (lifestyles/lối sống), và *đạo lộ tu tập* (spiritual paths/đạo lộ tu tập) đều *có kết quả* (fruitful/có kết quả) khi được xem là cốt lõi chăng?"
 
@@ -179,7 +179,7 @@ Rồi Tôn giả Ānanda đi đến chỗ Đức Phật, đảnh lễ, và ngồ
 Rồi Tôn giả Ānanda, biết rằng Đức Đạo Sư tán thành, đứng dậy khỏi chỗ ngồi, đảnh lễ, và đi nhiễu quanh Đức Phật theo chiều bên phải một cách cung kính trước khi rời đi. Rồi, không lâu sau khi Tôn giả Ānanda rời đi, Đức Phật nói với các Tỳ-kheo: "Này các Tỳ-kheo, Ānanda là một học giả, nhưng không dễ tìm được người *ngang bằng* (equal/ngang bằng) với trí tuệ của ông ấy."
 
 <!--pg-->
-### N 3.79 Các Loại Hương (Gandhajātasutta)
+### AN 3.79 Các Loại Hương (Gandhajātasutta)
 
 Rồi Tôn giả Ānanda đi đến chỗ Đức Phật, đảnh lễ, ngồi xuống một bên, và nói với Ngài:
 
@@ -201,7 +201,7 @@ Rồi Tôn giả Ānanda đi đến chỗ Đức Phật, đảnh lễ, ngồi xu
 > *đức hạnh* (virtue/đức hạnh) của một *bậc chân nhân* (true person/bậc chân nhân) lan tỏa khắp mọi hướng."
 
 <!--pg-->
-### N 3.80 Nhỏ (Cūḷanikāsutta)
+### AN 3.80 Nhỏ (Cūḷanikāsutta)
 
 Rồi Tôn giả Ānanda đi đến chỗ Đức Phật, đảnh lễ, ngồi xuống một bên, và nói với Ngài:
 

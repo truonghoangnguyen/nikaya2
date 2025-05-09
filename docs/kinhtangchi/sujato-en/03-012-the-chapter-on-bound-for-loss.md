@@ -1,6 +1,6 @@
 # The Chapter on Bound for Loss
 
-### N 3.113 Bound for Loss  *Āpāyikasutta*
+### AN 3.113 Bound for Loss  *Āpāyikasutta*
 
 "Mendicants, these three are bound for a place of loss, bound for hell,
 if they don't give up this fault. What three?
@@ -14,7 +14,7 @@ These are the three who are bound for a place of loss, bound for hell,
 if they don't give up this fault."
 
 <!--pg-->
-### N 3.114 Rare  *Dullabhasutta*
+### AN 3.114 Rare  *Dullabhasutta*
 
 "Mendicants, the appearance of three people is rare in the world. What
 three? A Realized One, a perfected one, a fully awakened Buddha. A
@@ -23,7 +23,7 @@ person who is grateful and thankful. The appearance of these three
 people is rare in the world."
 
 <!--pg-->
-### N 3.115 Immeasurable  *Appameyyasutta*
+### AN 3.115 Immeasurable  *Appameyyasutta*
 
 "Mendicants, these three people are found in the world. What three?
 Someone easy to measure, someone hard to measure, and someone who is
@@ -46,7 +46,7 @@ and has ended defilements. This is called 'an immeasurable person'.
 These are the three people found in the world."
 
 <!--pg-->
-### N 3.116 Imperturbable  *Āneñjasutta*
+### AN 3.116 Imperturbable  *Āneñjasutta*
 
 "Mendicants, these three people are found in the world. What three?
 
@@ -95,7 +95,7 @@ an unlearned ordinary person as regards their place of rebirth.
 These are the three people found in the world."
 
 <!--pg-->
-### N 3.117 Failures and Accomplishments  *Vipattisampadāsutta*
+### AN 3.117 Failures and Accomplishments  *Vipattisampadāsutta*
 
 "Mendicants, there are three failures. What three? Failure in ethics,
 mind, and view. And what is failure in ethics? It's when someone kills
@@ -144,7 +144,7 @@ because of accomplishment in ethics, mind, or view.
 These are the three accomplishments."
 
 <!--pg-->
-### N 3.118 Unfailing Dice  *Apaṇṇakasutta*
+### AN 3.118 Unfailing Dice  *Apaṇṇakasutta*
 
 "Mendicants, there are three failures. What three? Failure in ethics,
 mind, and view.
@@ -202,7 +202,7 @@ mind, or view.
 These are the three accomplishments."
 
 <!--pg-->
-### N 3.119 Action  *Kammantasutta*
+### AN 3.119 Action  *Kammantasutta*
 
 "Mendicants, there are three failures. What three? Failure in action,
 livelihood, and view.
@@ -248,7 +248,7 @@ is called 'accomplishment in view'.
 These are the three accomplishments."
 
 <!--pg-->
-### N 3.120 Purity (1st)  *Paṭhamasoceyyasutta*
+### AN 3.120 Purity (1st)  *Paṭhamasoceyyasutta*
 
 "Mendicants, there are these three kinds of purity. What three? Purity
 of body, speech, and mind.
@@ -267,7 +267,7 @@ and has right view. This is called 'purity of mind'.
 These are the three kinds of purity."
 
 <!--pg-->
-### N 3.121 Purity (2nd)  *Dutiyasoceyyasutta*
+### AN 3.121 Purity (2nd)  *Dutiyasoceyyasutta*
 
 "Mendicants, there are these three kinds of purity. What three? Purity
 of body, speech, and mind.
@@ -323,7 +323,7 @@ These are the three kinds of purity.
 > has washed off all bad things, they say."
 
 <!--pg-->
-### N 3.122 Sagacity  *Moneyyasutta*
+### AN 3.122 Sagacity  *Moneyyasutta*
 
 "Mendicants, there are these three kinds of sagacity. What three?
 Sagacity of body, speech, and mind.

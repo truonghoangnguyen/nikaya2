@@ -1,6 +1,6 @@
 # Seven Chapters on the Foremost Persons
 
-### N 1.188--197 *Paṭhamavagga*
+### AN 1.188--197 *Paṭhamavagga*
 
 "The foremost of my monk disciples in seniority is Koṇḍañña\.
 Who Understood.
@@ -25,7 +25,8 @@ Mantāṇī\. .
 ... who explain in detail the meaning of a brief statement is
 Mahākaccāna\. ."
 
-### N 1.198--208 *Dutiyavagga*
+<!--pg-->
+### AN 1.198--208 *Dutiyavagga*
 
 "The foremost of my monk disciples in creating a mind-made body is
 Cūḷapanthaka\. .
@@ -52,7 +53,8 @@ Mahāpanthaka\. .
 
 ... who are committed to faith is Vakkalī\. ."
 
-### N 1.209--218 *Tatiyavagga*
+<!--pg-->
+### AN 1.209--218 *Tatiyavagga*
 
 "The foremost of my monk disciples who want to train is
 Rāhula\. .
@@ -78,7 +80,8 @@ Vaṅgantā\. .
 ... who have attained the methods of textual analysis is
 Mahākoṭṭhita\. ."
 
-### N 1.219--234 *Catutthavagga*
+<!--pg-->
+### AN 1.219--234 *Catutthavagga*
 
 "The foremost of my monk disciples who are very learned is Ānanda.
 
@@ -112,7 +115,8 @@ Mahākoṭṭhita\. ."
 
 ... who wear coarse robes is Mogharājā\. ."
 
-### N 1.235--247 *Pañcamavagga*
+<!--pg-->
+### AN 1.235--247 *Pañcamavagga*
 
 "The foremost of my nun disciples in seniority is
 Mahāpajāpati\.  Gotamī\. .
@@ -141,7 +145,8 @@ Mahāpajāpati\.  Gotamī\. .
 
 ... who are committed to faith is Siṅgāla\. 's Mother."
 
-### N 1.248--257 *Chaṭṭhavagga*
+<!--pg-->
+### AN 1.248--257 *Chaṭṭhavagga*
 
 "The foremost of my laymen in first going for refuge are the merchants
 Tapussa and Bhallika.
@@ -169,7 +174,8 @@ Komārabhacca\. .
 
 ... who are intimate is the householder Nakula's father."
 
-### N 1.258--267 *Sattamavagga*
+<!--pg-->
+### AN 1.258--267 *Sattamavagga*
 
 "The foremost of my laywomen in first going for refuge is
 Sujātā\.  the general's daughter.

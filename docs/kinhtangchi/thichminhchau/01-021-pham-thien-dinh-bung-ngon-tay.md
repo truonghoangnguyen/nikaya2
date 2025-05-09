@@ -1,12 +1,13 @@
 # XX. Phẩm Thiền Định (Búng Ngón Tay)
 
 ### Búng Ngón Tay
-<!--pg-->
+
 2-9. Nếu chỉ trong thời gian búng ngón tay, này các Tỷ-kheo, vị Tỷ-kheo tu tập Thiền thứ nhất, vị này,
 này các Tỷ-kheo, được gọi là một Tỷ-kheo trú Thiền không phải uổng phí, đã làm theo lời dạy bậc Ðạo
 sư, là vị chịu nghe lời giáo giới, ăn đồ ăn quốc độ không phải vô ích, còn nói gì vị ấy làm cho sung mãn
 Thiền ấy.
 
+<!--pg-->
 Nếu chỉ trong thời gian búng ngón tay, này các Tỷ-kheo, vị Tỷ-kheo tu tập Thiền thứ hai, ... Thiền thứ
 ba, ... Thiền thứ tư ... tu tập Từ tâm giải thoát ... tu tập Bi tâm giải thoát ... tu tập Hỷ tâm giải thoát ... tu
 tập Xả tâm giải thoát ...
@@ -99,27 +100,20 @@ tu tập An tịnh niệm ...
 với sơ Thiền ... tu tập Ðịnh căn đồng với sơ Thiền ... tu tập Tuệ căn đồng với sơ Thiền ... tu tập Tín
 lực ... tu tập Tấn lực ... tu tập Niệm lực ... tu tập Ðịnh lực ... tu tập Tuệ lực đồng với sơ Thiền.
 
-<!--pg-->
 113-122. Tu tập Tín căn đồng với Thiền thứ hai ... Tu tập Tuệ lực đồng với Thiền thứ hai ...
 
-<!--pg-->
 123-132. Tu tập Tín căn đồng với Thiền thứ ba ... Tu tập Tuệ lực đồng với Thiền thứ ba ...
 
-<!--pg-->
 133-142. Tu tập Tín căn đồng với Thiền thứ tư ... Tu tập Tuệ lực đồng với Thiền thứ tư ...
-<!--pg-->
+
 143-152. Tu tập Tín căn câu hữu với Từ ... Tu tập Tuệ lực câu hữu với Từ ...
 
-<!--pg-->
 153-162. Tu tập Tín căn câu hữu với Bi ... Tu tập Tuệ lực câu hữu với Bi ...
 
-<!--pg-->
 163-172. Tu tập Tín căn câu hữu với Hỷ ... Tu tập Tuệ lực câu hữu với Hỷ ...
 
-<!--pg-->
 173-182. Tu tập Tín căn câu hữu với Xả ... Tu tập Tuệ lực câu hữu với Xả ...
 
-<!--pg-->
 183-192. Nếu tu tập Tín căn ... nếu tu tập Tấn căn ... nếu tu tập Niệm căn ... nếu tu tập Ðịnh căn ... nếu
 tu tập Tuệ căn ... nếu tu tập Tín lực ... nếu tu tập Tấn lực ... nếu tu tập Niệm lực ... nếu tu tập Ðịnh lực ...
 nếu tu tập Tuệ lực ..., vị này, này các Tỷ-kheo, được gọi là một Tỷ-kheo trú Thiền không phải trống

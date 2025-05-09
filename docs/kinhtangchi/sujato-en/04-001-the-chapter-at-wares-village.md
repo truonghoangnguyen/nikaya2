@@ -1,7 +1,7 @@
 # The Chapter at Wares Village
 
 
-### N 4.1 Understood *Anubuddhasutta*
+### AN 4.1 Understood *Anubuddhasutta*
 
 So I have heard. At one time the Buddha was staying in the
 land of the Vajjis at Wares Village. There the Buddha addressed the
@@ -30,7 +30,7 @@ say:
 > seeing clearly, he is fully quenched."
 
 <!--pg-->
-### N 4.2 Fallen *Papatitasutta*
+### AN 4.2 Fallen *Papatitasutta*
 
 "Someone without four things is said to have 'fallen from this teaching
 and training'. What four? Noble ethics, immersion, wisdom, and freedom.
@@ -48,7 +48,7 @@ and training'.
 > happiness is found through happiness."
 
 <!--pg-->
-### N 4.3 Broken (1st) *Paṭhamakhatasutta*
+### AN 4.3 Broken (1st) *Paṭhamakhatasutta*
 
 "When a foolish, incompetent untrue person has four qualities they keep
 themselves broken and damaged. They deserve to be blamed and criticized
@@ -89,7 +89,7 @@ merit.
 > having aimed bad words and thoughts at them."
 
 <!--pg-->
-### N 4.4 Broken (2nd) *Dutiyakhatasutta*
+### AN 4.4 Broken (2nd) *Dutiyakhatasutta*
 
 "When a foolish, incompetent untrue person acts wrongly toward four
 people they keep themselves broken and damaged. They deserve to be
@@ -132,7 +132,7 @@ much merit.
 > and they depart to rejoice in heaven."
 
 <!--pg-->
-### N 4.5 With the Stream *Anusotasutta*
+### AN 4.5 With the Stream *Anusotasutta*
 
 "These four people are found in the world. What four? A person who goes
 with the stream; a person who goes against the stream; a steadfast
@@ -186,7 +186,7 @@ These are the four people found in the world.
 > they're called 'one who has gone beyond'."
 
 <!--pg-->
-### N 4.6 A Little Learning *Appassutasutta*
+### AN 4.6 A Little Learning *Appassutasutta*
 
 "Mendicants, these four people are found in the world. What four? A
 person may have:
@@ -261,7 +261,7 @@ These are the four people found in the world.
 > and by the Divinity, too, they're praised."
 
 <!--pg-->
-### N 4.7 Beautification *Sobhanasutta*
+### AN 4.7 Beautification *Sobhanasutta*
 
 "Mendicants, these four who are competent, educated, assured, and
 learned, who have memorized the teachings and practice in line with the
@@ -285,7 +285,7 @@ beautify the Saṅgha.
 > they are the beautifiers of the Saṅgha."
 
 <!--pg-->
-### N 4.8 Self-assured *Vesārajjasutta*
+### AN 4.8 Self-assured *Vesārajjasutta*
 
 "Mendicants, a Realized One has four kinds of self-assurance. With these
 he claims the bull's place, roars his lion's roar in the assemblies, and
@@ -333,7 +333,7 @@ turns the divine wheel.
 > who has gone beyond rebirth."
 
 <!--pg-->
-### N 4.9 The Arising of Craving *Taṇhuppādasutta*
+### AN 4.9 The Arising of Craving *Taṇhuppādasutta*
 
 "Mendicants, there are four things that give rise to craving in a
 mendicant. What four? For the sake of robes, almsfood, lodgings, or
@@ -352,7 +352,7 @@ These are the four things that give rise to craving in a mendicant.
 > a mendicant would wander mindful."
 
 <!--pg-->
-### N 4.10 Yokes *Yogasutta*
+### AN 4.10 Yokes *Yogasutta*
 
 "Mendicants, there are these four yokes. What four? The yokes of sensual
 pleasures, future lives, views, and ignorance.

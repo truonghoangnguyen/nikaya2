@@ -1,6 +1,6 @@
 # The Chapter on What Occupies the Mind
 
-### N 1.1--10 *Cittapariyādānavagga*
+### AN 1.1--10 *Cittapariyādānavagga*
 
 1\. So I have heard. At one time the Buddha was staying near
 Sāvatthī in Jeta's Grove, Anāthapiṇḍika's

@@ -1,7 +1,7 @@
 # The Chapter with Rohitassa
 
 
-### N 4.41 Ways of Developing Immersion Further *Samādhibhāvanāsutta*
+### AN 4.41 Ways of Developing Immersion Further *Samādhibhāvanāsutta*
 
 "Mendicants, there are these four ways of developing immersion further.
 What four? There is a way of developing immersion further that leads to
@@ -55,7 +55,7 @@ Questions of Puṇṇaka':
 > they've crossed over rebirth and old age, I declare.'"
 
 <!--pg-->
-### N 4.42 Ways of Answering Questions *Pañhabyākaraṇasutta*
+### AN 4.42 Ways of Answering Questions *Pañhabyākaraṇasutta*
 
 "Mendicants, there are these four ways of answering questions. What
 four? There is a question that should be answered categorically. There
@@ -86,7 +86,7 @@ These are the four ways of answering questions.
 > is said to be astute."
 
 <!--pg-->
-### N 4.43 Valuing Anger *Paṭhamakodhagarusutta*
+### AN 4.43 Valuing Anger *Paṭhamakodhagarusutta*
 
 "Mendicants, these four people are found in the world. What four? People
 who value anger, or denigration, or material things, or honor rather
@@ -107,7 +107,7 @@ or honor. These are the four people found in the world.
 > that was taught by the perfected Buddha."
 
 <!--pg-->
-### N 4.44 Valuing Anger (2nd) *Dutiyakodhagarusutta*
+### AN 4.44 Valuing Anger (2nd) *Dutiyakodhagarusutta*
 
 "Mendicants, these four things oppose the true teaching. What four?
 Valuing anger, denigration, material things, and honor rather than the
@@ -128,7 +128,7 @@ These are the four things that are the true teaching.
 > like well-watered herbs."
 
 <!--pg-->
-### N 4.45 With Rohitassa *Rohitassasutta*
+### AN 4.45 With Rohitassa *Rohitassasutta*
 
 At one time the Buddha was staying near Sāvatthī in Jeta's
 Grove, Anāthapiṇḍika's monastery.
@@ -181,7 +181,7 @@ leads to its cessation.
 > does not hope for this world or the next."
 
 <!--pg-->
-### N 4.46 With Rohitassa (2nd) *Dutiyarohitassasutta*
+### AN 4.46 With Rohitassa (2nd) *Dutiyarohitassasutta*
 
 Then, when the night had passed, the Buddha addressed the mendicants:
 "Tonight, the glorious god Rohitassa, lighting up the entire Jeta's
@@ -193,7 +193,7 @@ being reborn?' ...
 *(The rest is the same as the previous discourse, AN 4.45.)*
 
 <!--pg-->
-### N 4.47 Very Far Apart *Suvidūrasutta*
+### AN 4.47 Very Far Apart *Suvidūrasutta*
 
 "Mendicants, these four things are very far apart. What four? The
 firmament and the earth. ... The near and the far shore of the ocean.
@@ -215,7 +215,7 @@ very far apart.
 > \>is far from the wicked."
 
 <!--pg-->
-### N 4.48 With Visākha, Pañcāli's Son *Visākhasutta*
+### AN 4.48 With Visākha, Pañcāli's Son *Visākhasutta*
 
 At one time the Buddha was staying near Sāvatthī in Jeta's
 Grove, Anāthapiṇḍika's monastery.
@@ -250,7 +250,7 @@ comprehensive, and independent.
 > for the teaching is the banner of the seers."
 
 <!--pg-->
-### N 4.49 Perversions *Vipallāsasutta*
+### AN 4.49 Perversions *Vipallāsasutta*
 
 "Mendicants, there are these four perversions of perception, mind, and
 view. What four?
@@ -306,7 +306,7 @@ These are the four corrections of perception, mind, and view.
 > they've risen above all suffering."
 
 <!--pg-->
-### N 4.50 Corruptions *Upakkilesasutta*
+### AN 4.50 Corruptions *Upakkilesasutta*
 
 "Mendicants, these four corruptions obscure the sun and moon, so they
 don't shine and glow and radiate. What four? Clouds ... Fog ... Smoke

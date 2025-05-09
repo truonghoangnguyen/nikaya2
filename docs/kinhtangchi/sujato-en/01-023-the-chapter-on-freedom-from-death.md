@@ -1,6 +1,6 @@
 # The Chapter on Freedom From Death
 
-### N 1.616--627 *Amatavagga*
+### AN 1.616--627 *Amatavagga*
 
 616\. "Mendicants, those who don't enjoy mindfulness of the body don't enjoy
 freedom from death. Those who enjoy mindfulness of the body enjoy
@@ -67,14 +67,4 @@ The thousand discourses of the Ones are completed.
 
 That is what the Buddha said. Satisfied, the mendicants approved what
 the Buddha said.
-
-::: Center
-THE BOOK OF THE ONES IS FINISHED.
-:::
-
-# The Book of the Twos
-
-::: center
-*[the first fifty]{.smallcaps}*
-:::
 

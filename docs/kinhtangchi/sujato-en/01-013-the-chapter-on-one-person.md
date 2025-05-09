@@ -1,6 +1,6 @@
 # The Chapter on One Person
 
-### N 1.170--187 *Ekapuggalavagga*
+### AN 1.170--187 *Ekapuggalavagga*
 
 170\. "One person, mendicants, arises in the world for the welfare and
 happiness of the people, out of sympathy for the world, for the benefit,

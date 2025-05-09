@@ -43,6 +43,7 @@ thể là bậc A-la-hán, Chánh Ðẳng Giác, sự kiện này có xảy ra.
 Vương, sự kiện này không xảy ra. Và sự kiện này có xảy ra, này các Tỷ-kheo: Một người đàn ông có thể
 là vị Chuyển Luân Vương, sự kiện này có xảy ra.
 
+<!--pg-->
 14-16 Sự kiện này không xảy ra, này các Tỷ-kheo, không có được: Một phụ nữ có thể là vị Ðế Thích
 (Sakka)... là Ác Ma... là Phạm Thiên, sự kiện này không xảy ra. Và sự kiện này có xảy ra, này các Tỷkheo, một người đàn ông có thể là Vị Ðế Thích... là Ác Ma... là Phạm Thiên, sự kiện này có xảy ra.
 
@@ -57,9 +58,9 @@ của ý nghĩ ác, có thể là khả lạc, khả hỷ, khả ý, sự kiện
 Tỷ-kheo, là quả dị thục của miệng nói ác... của ý nghĩ ác, là không khả lạc, không khả hỷ, không khả ý,
 sự kiện này có xảy ra.
 
+<!--pg-->
 ### 1-9 Không Thể Xẩy Ra
 
-<!--pg-->
 1\. - Sự kiện này không xảy ra, này các Tỷ-kheo, không có được: là quả dị thục của thân làm thiện có thể
 là không khả lạc, không khả hỷ, không khả ý, sự kiện này không xảy ra. Sự kiện này có xảy ra, này các
 Tỷ-kheo, là quà dị thục của thân làm thiện là khả lạc, khả hỷ, khả ý, sự kiện này có xảy ra.

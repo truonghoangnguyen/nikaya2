@@ -1,6 +1,6 @@
 # Chương Tại Làng Beluva
 
-### N 4.1 Giác Ngộ *Anubuddhasutta*
+### AN 4.1 Giác Ngộ *Anubuddhasutta*
 
 Như vầy tôi nghe. Một thời Thế Tôn trú ở giữa dân chúng Vajjī, tại làng Beluva. Tại đấy, Thế Tôn gọi các Tỷ-kheo: "Này các Tỷ-kheo!"
 
@@ -21,7 +21,7 @@ Thế Tôn thuyết như vậy. Bậc Thiện Thệ nói xong, bậc Đạo Sư 
 > Bậc Chánh Đẳng Giác đã tịch diệt."
 
 <!--pg-->
-### N 4.2 Sa Ngã *Papatitasutta*
+### AN 4.2 Sa Ngã *Papatitasutta*
 
 "Người không có bốn pháp được gọi là 'đã rơi khỏi Pháp và Luật này'. Thế nào là bốn? Thánh giới, thánh định, thánh tuệ, và thánh giải thoát. Người không có bốn pháp này được gọi là 'đã rơi khỏi Pháp và Luật này'.
 
@@ -33,7 +33,7 @@ Người có bốn pháp được gọi là 'an trú trong Pháp và Luật này
 > Hạnh phúc được tìm thấy qua hạnh phúc."
 
 <!--pg-->
-### N 4.3 Tan Vỡ (1) *Paṭhamakhatasutta*
+### AN 4.3 Tan Vỡ (1) *Paṭhamakhatasutta*
 
 "Khi một người ngu si, bất tài, không chân thật có bốn phẩm chất, họ tự làm cho mình tan vỡ và tổn hại. Họ đáng bị người trí khiển trách và phê bình, và họ tạo ra nhiều điều ác. Thế nào là bốn? Không xem xét, không thẩm tra, họ tán dương người đáng bị chỉ trích, và họ chỉ trích người đáng được tán dương. Họ khơi dậy lòng tin vào những điều đáng ngờ, và họ không khơi dậy lòng tin vào những điều đáng tin. Khi một người ngu si, bất tài, không chân thật có bốn phẩm chất này, họ tự làm cho mình tan vỡ và tổn hại. Họ đáng bị người trí khiển trách và phê bình, và họ tạo ra nhiều điều ác.
 
@@ -56,7 +56,7 @@ Khi một người sáng suốt, có tài, chân thật có bốn phẩm chất,
 > Vì đã hướng lời nói và ý nghĩ xấu xa đến họ."
 
 <!--pg-->
-### N 4.4 Tan Vỡ (2) *Dutiyakhatasutta*
+### AN 4.4 Tan Vỡ (2) *Dutiyakhatasutta*
 
 "Khi một người ngu si, bất tài, không chân thật hành xử sai trái với bốn hạng người, họ tự làm cho mình tan vỡ và tổn hại. Họ đáng bị người trí khiển trách và phê bình, và họ tạo ra nhiều điều ác. Thế nào là bốn? Mẹ... cha... một bậc *Như Lai* (Realized One / người đã giác ngộ hoàn toàn)... và một đệ tử của bậc Như Lai. Khi một người ngu si, bất tài, không chân thật hành xử sai trái với bốn hạng người này, họ tự làm cho mình tan vỡ và tổn hại. Họ đáng bị người trí khiển trách và phê bình, và họ tạo ra nhiều điều ác.
 
@@ -85,7 +85,7 @@ Khi một người sáng suốt, có tài, chân thật hành xử đúng đắn
 > Và sau khi chết, họ hoan hỷ tái sinh lên cõi trời."
 
 <!--pg-->
-### N 4.5 Theo Dòng *Anusotasutta*
+### AN 4.5 Theo Dòng *Anusotasutta*
 
 "Có bốn hạng người này có mặt ở trên đời. Thế nào là bốn? Người đi xuôi dòng; người đi ngược dòng; người tự đứng vững; và vị Bà-la-môn đã vượt qua, đứng ở bờ bên kia.
 
@@ -125,7 +125,7 @@ Và ai là vị Bà-la-môn đã vượt qua, đứng ở bờ bên kia? Đó l�
 > Họ được gọi là 'người đã vượt qua'."
 
 <!--pg-->
-### N 4.6 Ít Học *Appassutasutta*
+### AN 4.6 Ít Học *Appassutasutta*
 
 "Này các Tỷ-kheo, có bốn hạng người này có mặt ở trên đời. Thế nào là bốn? Một người có thể:
 
@@ -172,7 +172,7 @@ Và thế nào là người học nhiều và hiểu được ý nghĩa của vi
 > Và bởi Phạm Thiên, họ cũng được tán dương."
 
 <!--pg-->
-### N 4.7 Làm Đẹp *Sobhanasutta*
+### AN 4.7 Làm Đẹp *Sobhanasutta*
 
 "Này các Tỷ-kheo, bốn hạng người này, những người có tài năng, có học thức, vững vàng, và đa văn, những người đã ghi nhớ giáo pháp và thực hành đúng theo Pháp, làm đẹp cho *Tăng đoàn* (Saṅgha / cộng đồng tu sĩ). Thế nào là bốn? Một vị Tỷ-kheo, một vị Tỷ-kheo-ni, một nam cư sĩ, và một nữ cư sĩ.
 
@@ -191,7 +191,7 @@ Bốn hạng người này, những người có tài năng, có học thức, v
 > Họ là những người làm đẹp cho Tăng đoàn."
 
 <!--pg-->
-### N 4.8 Tự Tín *Vesārajjasutta*
+### AN 4.8 Tự Tín *Vesārajjasutta*
 
 "Này các Tỷ-kheo, bậc Như Lai có bốn loại *tự tín* (self-assurance / sự tự tin vững chắc, không sợ hãi). Với những điều này, Ngài tự nhận vị trí tối thượng, rống tiếng rống sư tử giữa các hội chúng, và chuyển bánh xe Pháp cao thượng. Thế nào là bốn?
 
@@ -218,7 +218,7 @@ Bậc Như Lai có bốn loại tự tín này. Với những điều này, Ngà
 > Người đã vượt qua sự tái sinh."
 
 <!--pg-->
-### N 4.9 Sự Phát Sinh Của Ái Dục *Taṇhuppādasutta*
+### AN 4.9 Sự Phát Sinh Của Ái Dục *Taṇhuppādasutta*
 
 "Này các Tỷ-kheo, có bốn điều làm phát sinh *ái* (craving / lòng khao khát, ham muốn) nơi một vị Tỷ-kheo. Thế nào là bốn? Vì y phục, vì vật thực khất thực, vì chỗ ở, hoặc vì tái sinh trong trạng thái này hay trạng thái khác.
 
@@ -235,7 +235,7 @@ Bậc Như Lai có bốn loại tự tín này. Với những điều này, Ngà
 > Một Tỷ-kheo sẽ du hành trong chánh niệm."
 
 <!--pg-->
-### N 4.10 Các Ách *Yogasutta*
+### AN 4.10 Các Ách *Yogasutta*
 
 "Này các Tỷ-kheo, có bốn loại *ách* (yokes / những ràng buộc, gánh nặng) này. Thế nào là bốn? *Dục ách* (yoke of sensual pleasures / ách dục lạc), *hữu ách* (yoke of future lives / ách tái sinh), *kiến ách* (yoke of views / ách tà kiến), và *vô minh ách* (yoke of ignorance / ách vô minh).
 

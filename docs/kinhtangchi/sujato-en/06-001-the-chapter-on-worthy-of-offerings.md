@@ -1,6 +1,6 @@
 # The Chapter on Worthy of Offerings
 
-### N 6.1 Worthy of Offerings (1st)  *Paṭhamaāhuneyyasutta*
+### AN 6.1 Worthy of Offerings (1st)  *Paṭhamaāhuneyyasutta*
 
 SO I HAVE HEARD. At one time the Buddha was staying near
 Sāvatthī in Jeta's Grove, Anāthapiṇḍika's
@@ -36,7 +36,7 @@ That is what the Buddha said. Satisfied, the mendicants approved what
 the Buddha said.
 
 <!--pg-->
-### N 6.2 Worthy of Offerings (2nd)  *Dutiyaāhuneyyasutta*
+### AN 6.2 Worthy of Offerings (2nd)  *Dutiyaāhuneyyasutta*
 
 "Mendicants, a mendicant with six qualities is worthy of offerings
 dedicated to the gods, worthy of hospitality, worthy of a religious
@@ -104,7 +104,7 @@ of veneration with joined palms, and is the supreme field of merit for
 the world."
 
 <!--pg-->
-### N 6.3 Faculties  *Indriyasutta*
+### AN 6.3 Faculties  *Indriyasutta*
 
 "Mendicants, a mendicant with six qualities is worthy of offerings
 dedicated to the gods, worthy of hospitality, worthy of a religious
@@ -119,7 +119,7 @@ donation, worthy of veneration with joined palms, and is the supreme
 field of merit for the world."
 
 <!--pg-->
-### N 6.4 Powers  *Balasutta*
+### AN 6.4 Powers  *Balasutta*
 
 "Mendicants, a mendicant with six qualities is worthy of offerings
 dedicated to the gods, worthy of hospitality, worthy of a religious
@@ -134,7 +134,7 @@ donation, worthy of veneration with joined palms, and is the supreme
 field of merit for the world."
 
 <!--pg-->
-### N 6.5 The Thoroughbred (1st)  *Paṭhamaājānīyasutta*
+### AN 6.5 The Thoroughbred (1st)  *Paṭhamaājānīyasutta*
 
 "Mendicants, a fine royal thoroughbred with six factors is worthy of a
 king, fit to serve a king, and is considered a factor of kingship.
@@ -154,7 +154,7 @@ of hospitality, worthy of a religious donation, worthy of veneration
 with joined palms, and is the supreme field of merit for the world."
 
 <!--pg-->
-### N 6.6 The Thoroughbred (2nd)  *Dutiyaājānīyasutta*
+### AN 6.6 The Thoroughbred (2nd)  *Dutiyaājānīyasutta*
 
 "Mendicants, a fine royal thoroughbred with six factors is worthy of a
 king, fit to serve a king, and is considered a factor of kingship. What
@@ -172,7 +172,7 @@ these six qualities is worthy of offerings dedicated to the gods, worthy
 of hospitality, worthy of a religious donation, worthy of veneration
 with joined palms, and is the supreme field of merit for the world."
 
-### N 6.7 The Thoroughbred (3rd)  *Tatiyaājānīyasutta*
+### AN 6.7 The Thoroughbred (3rd)  *Tatiyaājānīyasutta*
 
 "Mendicants, a fine royal thoroughbred with six factors is worthy of a
 king, fit to serve a king, and is considered a factor of kingship. What
@@ -191,14 +191,14 @@ of hospitality, worthy of a religious donation, worthy of veneration
 with joined palms, and is the supreme field of merit for the world."
 
 <!--pg-->
-### N 6.8 Unsurpassable  *Anuttariyasutta*
+### AN 6.8 Unsurpassable  *Anuttariyasutta*
 
 "Mendicants, these six things are unsurpassable. What six? The
 unsurpassable seeing, listening, acquisition, training, service, and
 recollection. These are the six unsurpassable things."
 
 <!--pg-->
-### N 6.9 Topics for Recollection  *Anussatiṭṭhānasutta*
+### AN 6.9 Topics for Recollection  *Anussatiṭṭhānasutta*
 
 "Mendicants, there are these six topics for recollection. What six? The
 recollection of the Buddha, the teaching, the Saṅgha,
@@ -206,7 +206,7 @@ ethics, generosity, and the deities. These are the six topics for
 recollection."
 
 <!--pg-->
-### N 6.10 With Mahānāma  *Mahānāmasutta*
+### AN 6.10 With Mahānāma  *Mahānāmasutta*
 
 At one time the Buddha was staying in the land of the Sakyans, near
 Kapilavatthu in the Banyan Tree Monastery. Then Mahānāma

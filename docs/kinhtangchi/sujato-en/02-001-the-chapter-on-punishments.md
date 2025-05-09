@@ -1,6 +1,6 @@
 # The Chapter on Punishments
 
-### N 2.1--10 *Kammakaraṇavagga*
+### AN 2.1--10 *Kammakaraṇavagga*
 
 <!--pg-->
 1\. Faults

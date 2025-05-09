@@ -1,6 +1,6 @@
 # The Chapter on a Warrior
 
-### N 5.71 Freedom of Heart is the Fruit (1st)  *Paṭhamacetovimuttiphalasutta*
+### AN 5.71 Freedom of Heart is the Fruit (1st)  *Paṭhamacetovimuttiphalasutta*
 
 "Mendicants, these five things, when developed and cultivated, have
 freedom of heart and freedom by wisdom as their fruit and benefit.
@@ -43,7 +43,7 @@ so it's unable to arise in the future. That's how a mendicant is a noble
 one with banner lowered and burden dropped, detached."
 
 <!--pg-->
-### N 5.72 Freedom of Heart is the Fruit (2nd)  *Dutiyacetovimuttiphalasutta*
+### AN 5.72 Freedom of Heart is the Fruit (2nd)  *Dutiyacetovimuttiphalasutta*
 
 "Mendicants, these five things, when developed and cultivated, have
 freedom of heart and freedom by wisdom as their fruit and benefit. What
@@ -63,7 +63,7 @@ who is unimpeded', and also 'a noble one with banner lowered and burden
 dropped, detached'. ..."
 
 <!--pg-->
-### N 5.73 One Who Lives by the Teaching (1st)  *Paṭhamadhammavihārīsutta*
+### AN 5.73 One Who Lives by the Teaching (1st)  *Paṭhamadhammavihārīsutta*
 
 Then a mendicant went up to the Buddha, bowed, sat down to one side, and
 said to him:
@@ -113,7 +113,7 @@ absorption, mendicant! Don't be negligent! Don't regret it later! This
 is my instruction to you."
 
 <!--pg-->
-### N 5.74 One Who Lives by the Teaching (2nd)  *Dutiyadhammavihārīsutta*
+### AN 5.74 One Who Lives by the Teaching (2nd)  *Dutiyadhammavihārīsutta*
 
 Then a mendicant went up to the Buddha, bowed, sat down to one side, and
 said to him:
@@ -157,7 +157,7 @@ absorption, mendicant! Don't be negligent! Don't regret it later! This
 is my instruction to you."
 
 <!--pg-->
-### N 5.75 Warriors (1st)  *Paṭhamayodhājīvasutta*
+### AN 5.75 Warriors (1st)  *Paṭhamayodhājīvasutta*
 
 "Mendicants, these five warriors are found in the world. What five?
 
@@ -305,7 +305,7 @@ found among the monks.
 These five people similar to warriors are found among the monks."
 
 <!--pg-->
-### N 5.76 Warriors (2nd)  *Dutiyayodhājīvasutta*
+### AN 5.76 Warriors (2nd)  *Dutiyayodhājīvasutta*
 
 "Mendicants, these five warriors are found in the world. What five?
 
@@ -497,7 +497,7 @@ warrior found among the monks.
 These five people similar to warriors are found among the monks."
 
 <!--pg-->
-### N 5.77 Future Perils (1st)  *Paṭhamaanāgatabhayasutta*
+### AN 5.77 Future Perils (1st)  *Paṭhamaanāgatabhayasutta*
 
 "Mendicants, seeing these five future perils is quite enough for a
 wilderness mendicant to meditate diligently, keenly, and resolutely for
@@ -548,7 +548,7 @@ attaining the unattained, achieving the unachieved, and realizing the
 unrealized."
 
 <!--pg-->
-### N 5.78 Future Perils (2nd)  *Dutiyaanāgatabhayasutta*
+### AN 5.78 Future Perils (2nd)  *Dutiyaanāgatabhayasutta*
 
 "Mendicants, seeing these five future perils is quite enough for a
 mendicant to meditate diligently, keenly, and resolutely for attaining
@@ -624,7 +624,7 @@ mendicant to meditate diligently, keenly, and resolutely for attaining
 the unattained, achieving the unachieved, and realizing the unrealized."
 
 <!--pg-->
-### N 5.79 Future Perils (3rd)  *Tatiyaanāgatabhayasutta*
+### AN 5.79 Future Perils (3rd)  *Tatiyaanāgatabhayasutta*
 
 "Mendicants, these five future perils have not currently arisen, but
 they will arise in the future. You should look out for them and try to
@@ -693,7 +693,7 @@ will arise in the future. You should look out for them, and try to give
 them up."
 
 <!--pg-->
-### N 5.80 Future Perils (4th)  *Catutthaanāgatabhayasutta*
+### AN 5.80 Future Perils (4th)  *Catutthaanāgatabhayasutta*
 
 "Mendicants, these five future perils have not currently arisen, but
 they will arise in the future. You should look out for them and try to

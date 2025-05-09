@@ -1,6 +1,6 @@
 # The Chapter on a Finger-Snap
 
-### N 1.51--60 *Accharāsaṅghātavagga*
+### AN 1.51--60 *Accharāsaṅghātavagga*
 
 51\. "This mind, mendicants, is radiant. But it is corrupted by passing
 corruptions. An unlearned ordinary person does not truly understand
@@ -26,7 +26,6 @@ who follows the Teacher's instructions, who responds to advice, and who
 does not eat the country's alms in vain. How much more so those who make
 much of it!"
 
-<!--pg-->
 55\. "If, mendicants, a mendicant focuses on a mind of love even as long as a
 finger-snap, they're called a mendicant who does not lack absorption,
 who follows the Teacher's instructions, who responds to advice, and who

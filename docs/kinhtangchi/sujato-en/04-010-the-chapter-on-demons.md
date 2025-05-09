@@ -1,7 +1,7 @@
 # The Chapter on Demons
 
 
-### N 4.91 Titans *Asurasutta*
+### AN 4.91 Titans *Asurasutta*
 
 "Mendicants, these four people are found in the world. What four?
 
@@ -32,7 +32,7 @@ a person is a god surrounded by gods.
 These are the four people found in the world."
 
 <!--pg-->
-### N 4.92 Immersion (1st) *Paṭhamasamādhisutta*
+### AN 4.92 Immersion (1st) *Paṭhamasamādhisutta*
 
 "Mendicants, these four people are found in the world. What four?
 
@@ -51,7 +51,7 @@ discernment of principles.
 These are the four people found in the world."
 
 <!--pg-->
-### N 4.93 Immersion (2nd) *Dutiyasamādhisutta*
+### AN 4.93 Immersion (2nd) *Dutiyasamādhisutta*
 
 "Mendicants, these four people are found in the world. What four?
 
@@ -92,7 +92,7 @@ the defilements.
 These are the four people found in the world."
 
 <!--pg-->
-### N 4.94 Immersion (3rd) *Tatiyasamādhisutta*
+### AN 4.94 Immersion (3rd) *Tatiyasamādhisutta*
 
 "Mendicants, these four people are found in the world. What four?
 
@@ -136,7 +136,7 @@ the defilements.
 These are the four people found in the world."
 
 <!--pg-->
-### N 4.95 A Firebrand *Chavālātasutta*
+### AN 4.95 A Firebrand *Chavālātasutta*
 
 "Mendicants, these four people are found in the world. What four?
 
@@ -168,7 +168,7 @@ chief, highest, and finest of the four.
 These are the four people found in the world."
 
 <!--pg-->
-### N 4.96 Removing Greed *Rāgavinayasutta*
+### AN 4.96 Removing Greed *Rāgavinayasutta*
 
 "Mendicants, these four people are found in the world. What four?
 
@@ -203,7 +203,7 @@ practices to benefit both themselves and others.
 These are the four people found in the world."
 
 <!--pg-->
-### N 4.97 Quick-witted *Khippanisantisutta*
+### AN 4.97 Quick-witted *Khippanisantisutta*
 
 "Mendicants, these four people are found in the world. What four?
 
@@ -243,7 +243,7 @@ benefit both themselves and others.
 These are the four people found in the world."
 
 <!--pg-->
-### N 4.98 To Benefit Oneself *Attahitasutta*
+### AN 4.98 To Benefit Oneself *Attahitasutta*
 
 "Mendicants, these four people are found in the world. What four?
 
@@ -258,7 +258,7 @@ These are the four people found in the world."
 These are the four people found in the world."
 
 <!--pg-->
-### N 4.99 Training Rules *Sikkhāpadasutta*
+### AN 4.99 Training Rules *Sikkhāpadasutta*
 
 "Mendicants, these four people are found in the world. What four?
 
@@ -295,7 +295,7 @@ others.
 These are the four people found in the world."
 
 <!--pg-->
-### N 4.100 With Potaliya the Wanderer *Potaliyasutta*
+### AN 4.100 With Potaliya the Wanderer *Potaliyasutta*
 
 Then the wanderer Potaliya went up to the Buddha, and exchanged
 greetings with him. When the greetings and polite conversation were

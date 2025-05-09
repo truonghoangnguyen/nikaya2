@@ -18,7 +18,7 @@ import thichminhchau from '../../kinhtrungbo/thichminhchau/filelist'
  */
 function toHomeCompare(url) {
   // this is support paths, allow to compare
-  const compareBooks = ['c-nm-tmc-en', 'c-nm-tmc-vi']
+  //const compareBooks = ['c-nm-tmc-en', 'c-nm-tmc-vi']
   const baseBooks = ['nanamoli-bodhi-vi', 'nanamoli-bodhi-en', 'thichminhchau'];
   // const authorCompareMap = {
   //   'nanamoli-bodhi': 'c-nm-tmc',
@@ -39,7 +39,7 @@ function toHomeCompare(url) {
   const filename = urlParts[3];    // "001-the-root-of-all-things"
 
   // current url is compare page, switch from compare Vi-Vi <-> En-Vi
-  if (compareBooks.includes(author)){
+  if (author.substring(0, 2) == 'c-'){
     const last2Chars = author.slice(-2);
     const newLast2Chars = last2Chars === 'vi' ? 'en' : 'vi';
     const newBook = author.slice(0, -2) + newLast2Chars;

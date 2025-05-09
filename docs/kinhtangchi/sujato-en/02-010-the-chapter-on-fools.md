@@ -1,6 +1,6 @@
 # The Chapter on Fools
 
-### N 2.98--117 *Bālavagga*
+### AN 2.98--117 *Bālavagga*
 
 98\. "Mendicants, there are two fools. What two? One who takes responsibility
 for what has not come to pass, and one who doesn't take responsibility

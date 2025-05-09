@@ -1,6 +1,6 @@
 # The Chapter on Sick
 
-### N 5.121 Sick  *Gilānasutta*
+### AN 5.121 Sick  *Gilānasutta*
 
 At one time the Buddha was staying near Vesālī, at the
 Great Wood, in the hall with the peaked roof. Then in the late
@@ -23,7 +23,7 @@ by wisdom in this very life, and live having realized it with their own
 insight due to the ending of defilements."
 
 <!--pg-->
-### N 5.122 Mindfulness Well Established  *Satisūpaṭṭhitasutta*
+### AN 5.122 Mindfulness Well Established  *Satisūpaṭṭhitasutta*
 
 "Mendicants, any monk or nun who develops and cultivates five qualities
 can expect one of two results: enlightenment in this very life, or if
@@ -39,7 +39,7 @@ results: enlightenment in this very life, or if there's something left
 over, non-return."
 
 <!--pg-->
-### N 5.123 A Carer (1st)  *Paṭhamaupaṭṭhākasutta*
+### AN 5.123 A Carer (1st)  *Paṭhamaupaṭṭhākasutta*
 
 "Mendicants, a patient with five qualities is hard to care for. What
 five? They do what is unsuitable. They don't know moderation in what is
@@ -60,7 +60,7 @@ life-threatening. A patient with these five qualities is easy to care
 for."
 
 <!--pg-->
-### N 5.124 A Carer (2nd)  *Dutiyaupaṭṭhākasutta*
+### AN 5.124 A Carer (2nd)  *Dutiyaupaṭṭhākasutta*
 
 "Mendicants, a carer with five qualities is not competent to care for a
 patient. What five? They're unable to prepare medicine. They don't know
@@ -81,7 +81,7 @@ patient with a Dhamma talk from time to time. A carer with these five
 qualities is competent to care for a patient."
 
 <!--pg-->
-### N 5.125 Longevity (1st)  *Paṭhamaanāyussāsutta*
+### AN 5.125 Longevity (1st)  *Paṭhamaanāyussāsutta*
 
 "Mendicants, these five things impede longevity. What five? Doing what
 is unsuitable, not knowing moderation in what is suitable, eating food
@@ -94,7 +94,7 @@ activity at suitable times, and celibacy. These are the five things that
 promote longevity."
 
 <!--pg-->
-### N 5.126 Longevity (2nd)  *Dutiyaanāyussāsutta*
+### AN 5.126 Longevity (2nd)  *Dutiyaanāyussāsutta*
 
 "Mendicants, these five things impede longevity. What five? Doing what
 is unsuitable, not knowing moderation in what is suitable, eating food
@@ -107,7 +107,7 @@ ethical conduct, and good friends. These are the five things that
 promote longevity."
 
 <!--pg-->
-### N 5.127 Living Apart  *Vapakāsasutta*
+### AN 5.127 Living Apart  *Vapakāsasutta*
 
 "Mendicants, a mendicant with five qualities is not fit to live apart
 from a Saṅgha community. What five? It's when a mendicant
@@ -124,7 +124,7 @@ mendicant with these five qualities is fit to live apart from a
 Saṅgha community."
 
 <!--pg-->
-### N 5.128 An Ascetic's Happiness  *Samaṇasukhasutta*
+### AN 5.128 An Ascetic's Happiness  *Samaṇasukhasutta*
 
 "Mendicants, there are these five kinds of suffering for an ascetic.
 What five? It's when a mendicant is not content with any kind of robe,
@@ -138,7 +138,7 @@ and medicines and supplies for the sick. And they lead the spiritual
 life satisfied. These are five kinds of happiness for an ascetic."
 
 <!--pg-->
-### N 5.129 Fatal Wounds  *Parikuppasutta*
+### AN 5.129 Fatal Wounds  *Parikuppasutta*
 
 "Mendicants, these five fatal wounds lead to a place of loss, to hell.
 What five? Murdering your mother or father or a perfected one;
@@ -147,7 +147,7 @@ in the Saṅgha. These five fatal wounds lead to a place of
 loss, to hell."
 
 <!--pg-->
-### N 5.130 Loss  *Byasanasutta*
+### AN 5.130 Loss  *Byasanasutta*
 
 "Mendicants, there are these five losses. What five? Loss of relatives,
 wealth, health, ethics, and view. It is not because of loss of

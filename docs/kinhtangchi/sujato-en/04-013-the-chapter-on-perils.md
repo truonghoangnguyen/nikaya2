@@ -1,7 +1,7 @@
 # The Chapter on Perils
 
 
-### N 4.121 Guilt *Attānuvādasutta*
+### AN 4.121 Guilt *Attānuvādasutta*
 
 "Mendicants, there are these four fears. What four? The fears of guilt,
 shame, punishment, and going to a bad place.
@@ -48,7 +48,7 @@ called the fear of rebirth in a bad place.
 These are the four fears."
 
 <!--pg-->
-### N 4.122 The Danger of Waves *Ūmibhayasutta*
+### AN 4.122 The Danger of Waves *Ūmibhayasutta*
 
 "Mendicants, anyone who enters the water should anticipate four dangers.
 What four? The dangers of waves, gharials, whirlpools, and sharks.
@@ -126,7 +126,7 @@ These are the four dangers that a gentleman gone forth from the lay life
 to homelessness in this teaching and training should anticipate."
 
 <!--pg-->
-### N 4.123 Difference (1st) *Paṭhamanānākaraṇasutta*
+### AN 4.123 Difference (1st) *Paṭhamanānākaraṇasutta*
 
 "Mendicants, these four people are found in the world. What four?
 
@@ -191,7 +191,7 @@ ordinary person, that is, when there is a place of rebirth.
 These are the four people found in the world."
 
 <!--pg-->
-### N 4.124 Difference (2nd) *Dutiyanānākaraṇasutta*
+### AN 4.124 Difference (2nd) *Dutiyanānākaraṇasutta*
 
 "Mendicants, these four people are found in the world. What four?
 
@@ -217,7 +217,7 @@ not shared with ordinary people.
 These are the four people found in the world."
 
 <!--pg-->
-### N 4.125 Love (1st) *Paṭhamamettāsutta*
+### AN 4.125 Love (1st) *Paṭhamamettāsutta*
 
 "Mendicants, these four people are found in the world. What four?
 
@@ -259,7 +259,7 @@ a place of rebirth.
 These are the four people found in the world."
 
 <!--pg-->
-### N 4.126 Love (2nd) *Dutiyamettāsutta*
+### AN 4.126 Love (2nd) *Dutiyamettāsutta*
 
 "Mendicants, these four people are found in the world. What four?
 
@@ -290,7 +290,7 @@ abodes. This rebirth is not shared with ordinary people.
 These are the four people found in the world."
 
 <!--pg-->
-### N 4.127 Incredible Things About the Realized One (1st) *Paṭhamatathāgataacchariyasutta*
+### AN 4.127 Incredible Things About the Realized One (1st) *Paṭhamatathāgataacchariyasutta*
 
 "Mendicants, with the appearance of a Realized One, a perfected one, a
 fully awakened Buddha, four incredible and amazing things appear. What
@@ -329,7 +329,7 @@ With the appearance of a Realized One, the perfected one, the fully
 awakened Buddha, these four incredible and amazing things appear."
 
 <!--pg-->
-### N 4.128 Incredible Things About the Realized One (2nd) *Dutiyatathāgataacchariyasutta*
+### AN 4.128 Incredible Things About the Realized One (2nd) *Dutiyatathāgataacchariyasutta*
 
 "Mendicants, with the appearance of a Realized One, the perfected one,
 the fully awakened Buddha, four incredible and amazing things appear.
@@ -362,7 +362,7 @@ With the appearance of a Realized One, the perfected one, the fully
 awakened Buddha, four incredible and amazing things appear."
 
 <!--pg-->
-### N 4.129 Incredible Things About Ānanda *Ānandaacchariyasutta*
+### AN 4.129 Incredible Things About Ānanda *Ānandaacchariyasutta*
 
 "Mendicants, there are these four incredible and amazing things about
 Ānanda. What four?
@@ -378,7 +378,7 @@ when he falls silent, they've never had enough.
 These are the four incredible and amazing things about Ānanda."
 
 <!--pg-->
-### N 4.130 Incredible Things About the Wheel-Turning Monarch *Cakkavattiacchariyasutta*
+### AN 4.130 Incredible Things About the Wheel-Turning Monarch *Cakkavattiacchariyasutta*
 
 "Mendicants, there are these four incredible and amazing things about a
 wheel-turning monarch. What four?

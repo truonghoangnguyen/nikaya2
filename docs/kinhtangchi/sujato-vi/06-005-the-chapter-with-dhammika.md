@@ -1,6 +1,6 @@
 # Chương về Dhammika
 
-### N 6.43 Kinh Voi Chúa (*Nāgasutta*)
+### AN 6.43 Kinh Voi Chúa (*Nāgasutta*)
 
 Một thời Đức Phật trú tại Sāvatthī, trong Rừng Jeta, tu viện của Anāthapiṇḍika.
 
@@ -116,7 +116,7 @@ Nhưng này Udāyī, người không làm điều gì quái dị qua thân, kh�
 > Không còn ô nhiễm, sẽ hoàn toàn tịch diệt."
 
 <!--pg-->
-### N 6.44 Với Migasālā (*Migasālāsutta*)
+### AN 6.44 Với Migasālā (*Migasālāsutta*)
 
 Rồi Tôn giả Ānanda vào buổi sáng đắp y, mang bát và y, đến nhà nữ cư sĩ Migasālā, và ngồi vào chỗ đã soạn sẵn.
 
@@ -167,7 +167,7 @@ Ai là nữ cư sĩ Migasālā này, một người phụ nữ ngu dốt, kém c
 Nếu Isidatta đạt được trình độ *giới hạnh* (ethical conduct / sự giữ gìn giới luật, phẩm hạnh đạo đức) của Purāṇa, thì Purāṇa thậm chí không thể biết được cảnh giới tái sinh của Isidatta. Và nếu Purāṇa đạt được trình độ trí tuệ của Isidatta, thì Isidatta thậm chí không thể biết được cảnh giới tái sinh của Purāṇa. Vì vậy, cả hai người đều thiếu sót ở một khía cạnh."
 
 <!--pg-->
-### N 6.45 Nợ Nần (*Iṇasutta*)
+### AN 6.45 Nợ Nần (*Iṇasutta*)
 
 "Này các Tỳ kheo, đối với người hưởng thụ dục lạc, sự nghèo khổ có phải là đau khổ trên thế gian không?"
 
@@ -288,7 +288,7 @@ Người nghèo khổ, không một xu dính túi đó đã làm những điều
 > Đây là sự giải thoát khỏi nợ nần cao nhất."
 
 <!--pg-->
-### N 6.46 Bởi Mahācunda (*Mahācundasutta*)
+### AN 6.46 Bởi Mahācunda (*Mahācundasutta*)
 
 TÔI NGHE NHƯ VẦY. Một thời Tôn giả Mahācunda trú tại xứ Ceti, ở Sahajāti. Tại đó, ngài nói với các Tỳ kheo: "Chư hiền, các Tỳ kheo!"
 
@@ -307,7 +307,7 @@ Vì vậy, các vị nên tu tập như thế này: 'Là những Tỳ kheo thự
 Vì vậy, các vị nên tu tập như thế này: 'Là những Tỳ kheo thực hành thiền định, chúng ta sẽ ca ngợi các Tỳ kheo thực hành quán pháp.' Đó là cách các vị nên tu tập. Tại sao vậy? Bởi vì thật vô cùng hiếm hoi để tìm thấy những cá nhân trên thế gian thấy được ý nghĩa của một lời nói sâu sắc bằng trí tuệ thâm nhập."
 
 <!--pg-->
-### N 6.47 Hiện Tiền (1) (*Paṭhamasandiṭṭhikasutta*)
+### AN 6.47 Hiện Tiền (1) (*Paṭhamasandiṭṭhikasutta*)
 
 Rồi du sĩ Moḷiyasīvaka đến gặp Đức Phật và chào hỏi Ngài. Sau khi chào hỏi và nói chuyện xã giao xong, ông ngồi xuống một bên và thưa với Đức Phật:
 
@@ -328,7 +328,7 @@ Rồi du sĩ Moḷiyasīvaka đến gặp Đức Phật và chào hỏi Ngài. S
 "Thật tuyệt vời, thưa Thế Tôn! Tuyệt vời! Kể từ hôm nay, xin Đức Phật ghi nhớ con là một cư sĩ đã quy y trọn đời."
 
 <!--pg-->
-### N 6.48 Hiện Tiền (2) (*Dutiyasandiṭṭhikasutta*)
+### AN 6.48 Hiện Tiền (2) (*Dutiyasandiṭṭhikasutta*)
 
 Rồi một vị Bà-la-môn đến gặp Đức Phật và chào hỏi Ngài. Sau khi chào hỏi và nói chuyện xã giao xong, ông ngồi xuống một bên và thưa với Đức Phật:
 
@@ -349,7 +349,7 @@ Rồi một vị Bà-la-môn đến gặp Đức Phật và chào hỏi Ngài. S
 "Thật tuyệt vời, thưa ngài Gotama! Tuyệt vời! ... Kể từ hôm nay, xin ngài Gotama ghi nhớ tôi là một cư sĩ đã quy y trọn đời."
 
 <!--pg-->
-### N 6.49 Với Khema (*Khemasutta*)
+### AN 6.49 Với Khema (*Khemasutta*)
 
 Một thời Đức Phật trú tại Sāvatthī, trong Rừng Jeta, tu viện của Anāthapiṇḍika.
 
@@ -374,7 +374,7 @@ Và rồi, ngay sau khi Khema và Sumana rời đi, Đức Phật nói với cá
 > Họ sống giải thoát khỏi các kiết sử."
 
 <!--pg-->
-### N 6.50 Thu Thúc Lục Căn (*Indriyasaṁvarasutta*)
+### AN 6.50 Thu Thúc Lục Căn (*Indriyasaṁvarasutta*)
 
 "Này các Tỳ kheo, khi không có *thu thúc lục căn* (sense restraint / sự kiểm soát, giữ gìn sáu giác quan), người thiếu thu thúc lục căn đã phá hủy một điều kiện thiết yếu cho *giới hạnh*. Khi không có giới hạnh, người thiếu giới hạnh đã phá hủy một điều kiện thiết yếu cho *chánh định* (right immersion / sự tập trung đúng đắn). Khi không có chánh định, người thiếu chánh định đã phá hủy một điều kiện thiết yếu cho *chánh tri kiến* (true knowledge and vision / sự hiểu biết và thấy đúng như thật). Khi không có chánh tri kiến, người thiếu chánh tri kiến đã phá hủy một điều kiện thiết yếu cho sự *nhàm chán và ly tham* (disillusionment and dispassion / sự chán ngán và từ bỏ ham muốn). Khi không có sự nhàm chán và ly tham, người thiếu sự nhàm chán và ly tham đã phá hủy một điều kiện thiết yếu cho *tri kiến giải thoát* (knowledge and vision of freedom / sự hiểu biết và thấy rõ con đường giải thoát).
 
@@ -389,7 +389,7 @@ Giả sử có một cái cây đầy đủ cành và lá. Chồi, vỏ, giác c
 Tương tự như vậy, khi có thu thúc lục căn, người đã hoàn thành thu thúc lục căn đã hoàn thành một điều kiện thiết yếu cho giới hạnh. ... Người đã hoàn thành sự nhàm chán và ly tham đã hoàn thành một điều kiện thiết yếu cho tri kiến giải thoát."
 
 <!--pg-->
-### N 6.51 Với Ānanda (*Ānandasutta*)
+### AN 6.51 Với Ānanda (*Ānandasutta*)
 
 Rồi Tôn giả Ānanda đến gặp Tôn giả Sāriputta và chào hỏi ngài. Sau khi chào hỏi và nói chuyện xã giao xong, Ānanda ngồi xuống một bên và thưa với Sāriputta:
 
@@ -414,7 +414,7 @@ Họ nhập hạ trong một tu viện với các vị Tỳ kheo trưởng lão 
 Vì Ānanda ghi nhớ giáo pháp... kinh, ứng tụng, ký thuyết, kệ, cảm hứng ngữ, bổn sự, bổn sinh, vị tằng hữu pháp, và phương quảng. Các vị tôn giả đó làm rõ cho Ānanda những gì chưa rõ ràng, tiết lộ những gì còn ẩn khuất, và xua tan nghi ngờ về nhiều vấn đề còn nghi vấn."
 
 <!--pg-->
-### N 6.52 Giai Cấp Sát-đế-lỵ (*Khattiyasutta*)
+### AN 6.52 Giai Cấp Sát-đế-lỵ (*Khattiyasutta*)
 
 Rồi Bà-la-môn Jānussoṇi đến gặp Đức Phật và chào hỏi Ngài. Sau khi chào hỏi và nói chuyện xã giao xong, ông ngồi xuống một bên và thưa với Đức Phật:
 
@@ -445,7 +445,7 @@ Rồi Bà-la-môn Jānussoṇi đến gặp Đức Phật và chào hỏi Ngài.
 "Thật khó tin, thưa ngài Gotama, thật kỳ diệu! Ngài Gotama biết tham vọng, mối bận tâm, sự cố chấp, sự khăng khăng và mục tiêu cuối cùng của giai cấp Sát-đế-lỵ, Bà-la-môn, Gia chủ, phụ nữ, kẻ cướp và các vị Sa-môn. Thật tuyệt vời, thưa ngài Gotama! Tuyệt vời! ... Kể từ hôm nay, xin ngài Gotama ghi nhớ tôi là một cư sĩ đã quy y trọn đời."
 
 <!--pg-->
-### N 6.53 Không Sao nhãng (*Appamādasutta*)
+### AN 6.53 Không Sao nhãng (*Appamādasutta*)
 
 Rồi một vị Bà-la-môn đến gặp Đức Phật và chào hỏi Ngài. Sau khi chào hỏi và nói chuyện xã giao xong, ông ngồi xuống một bên và thưa với Đức Phật:
 
@@ -474,7 +474,7 @@ Tất cả các vị vua nhỏ hơn đều là chư hầu của một vị vua c
 "Thật tuyệt vời, thưa ngài Gotama! Tuyệt vời! ... Kể từ hôm nay, xin ngài Gotama ghi nhớ tôi là một cư sĩ đã quy y trọn đời."
 
 <!--pg-->
-### N 6.54 Về Dhammika (*Dhammikasutta*)
+### AN 6.54 Về Dhammika (*Dhammikasutta*)
 
 Một thời Đức Phật trú tại Rājagaha, trên Núi Linh Thứu.
 

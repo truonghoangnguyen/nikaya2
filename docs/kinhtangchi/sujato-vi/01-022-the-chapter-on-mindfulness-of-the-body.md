@@ -1,0 +1,32 @@
+# Chương về Niệm Thân
+
+### AN 1.575--615 Phẩm Niệm Thân
+
+575\. "Này các Tỳ kheo, người nào hướng tâm đến đại dương thì bao gồm tất cả các dòng sông chảy vào đó. Cũng vậy, người nào đã tu tập và phát triển *niệm thân* (mindfulness of the body / sự tỉnh thức về thân) thì bao gồm tất cả các *thiện pháp* (skillful qualities / các phẩm chất tốt lành, thiện lành) thuộc phần giác ngộ."
+
+<!--pg-->
+576--582\. "Này các Tỳ kheo, một pháp, khi được tu tập và phát triển, đưa đến *sự xúc động tâm linh mãnh liệt* (great urgency / sự rung động tâm linh mạnh mẽ thúc đẩy tu tập) ... lợi ích lớn lao ... *sự an ổn lớn lao khỏi các ách trói buộc* (great sanctuary from the yoke / sự giải thoát an ổn khỏi các trói buộc) ... *chánh niệm và tỉnh giác* (mindfulness and awareness / sự tỉnh thức và nhận biết rõ ràng) ... *đạt được tri kiến* (gaining knowledge and vision / sự thấy biết như thật) ... *sự sống thiền định an vui trong hiện tại* (blissful meditation in this life / sự an trú trong thiền định với niềm vui ngay trong đời này) ... *chứng ngộ quả của minh và giải thoát* (the realization of the fruit of knowledge and freedom / sự đạt được kết quả của trí tuệ và sự giải thoát). Pháp gì vậy? Đó là *niệm thân*. Pháp này, khi được tu tập và phát triển, đưa đến *sự xúc động tâm linh mãnh liệt* ... lợi ích lớn lao ... *sự an ổn lớn lao khỏi các ách trói buộc* ... *chánh niệm và tỉnh giác* ... *đạt được tri kiến* ... *sự sống thiền định an vui trong hiện tại* ... *chứng ngộ quả của minh và giải thoát*."
+
+<!--pg-->
+583\. "Này các Tỳ kheo, khi một pháp được tu tập và phát triển, thân và tâm trở nên khinh an, *tầm và tứ lắng dịu* (thinking and considering settle down / sự suy nghĩ và xem xét ban đầu lắng xuống), và tất cả các pháp thuộc phần giác ngộ được phát triển viên mãn. Pháp gì vậy? Đó là *niệm thân*. Khi pháp này được tu tập và phát triển, thân và tâm trở nên khinh an, *tầm và tứ lắng dịu*, và tất cả các pháp thuộc phần giác ngộ được phát triển viên mãn."
+
+<!--pg-->
+584\. "Này các Tỳ kheo, khi một pháp được tu tập và phát triển, *bất thiện pháp* (unskillful qualities / các phẩm chất xấu ác, không thiện lành) không sinh khởi, và nếu đã sinh khởi thì được từ bỏ. Pháp gì vậy? Đó là *niệm thân*. Khi pháp này được tu tập và phát triển, *bất thiện pháp* không sinh khởi, và nếu đã sinh khởi thì được từ bỏ."
+
+<!--pg-->
+585\. "Này các Tỳ kheo, khi một pháp được tu tập và phát triển, *thiện pháp* sinh khởi, và khi đã sinh khởi thì tăng trưởng và lớn mạnh. Pháp gì vậy? Đó là *niệm thân*. Khi pháp này được tu tập và phát triển, *thiện pháp* sinh khởi, và khi đã sinh khởi thì tăng trưởng và lớn mạnh."
+
+<!--pg-->
+586--590\. "Này các Tỳ kheo, khi một pháp được tu tập và phát triển, *vô minh* (ignorance / sự không sáng suốt, không biết rõ) được từ bỏ ... *minh* (knowledge / sự sáng suốt, trí tuệ) sinh khởi ... *ngã mạn 'ta là'* (the conceit 'I am' / sự kiêu ngạo về cái 'tôi') được từ bỏ ... *các tùy miên* (the underlying tendencies / những khuynh hướng ngấm ngầm) được nhổ bật gốc ... *các kiết sử* (the fetters / những trói buộc) được từ bỏ. Pháp gì vậy? Đó là *niệm thân*. Khi pháp này được tu tập và phát triển, *vô minh* được từ bỏ ... *minh* sinh khởi ... *ngã mạn 'ta là'* được từ bỏ ... *các tùy miên* được nhổ bật gốc ... *các kiết sử* được từ bỏ."
+
+<!--pg-->
+591--592\. "Này các Tỳ kheo, một pháp, khi được tu tập và phát triển, đưa đến *sự đoạn diệt bằng trí tuệ* (demolition by wisdom / sự đoạn trừ bằng trí tuệ) ... đến *sự tịch diệt do không chấp thủ* (extinguishment by not grasping / sựดับสิ้น phiền não do không bám víu). Pháp gì vậy? Đó là *niệm thân*. Pháp này, này các Tỳ kheo, khi được tu tập và phát triển, đưa đến *sự đoạn diệt bằng trí tuệ* ... đến *sự tịch diệt do không chấp thủ*."
+
+<!--pg-->
+593--595\. "Khi một pháp được tu tập và phát triển, có *sự thâm nhập nhiều giới* (penetration of many elements / sự hiểu rõ nhiều yếu tố, thành phần) ... *sự thâm nhập các giới khác nhau* (penetration of diverse elements / sự hiểu rõ các yếu tố, thành phần đa dạng) ... *sự phân tích nhiều giới* (analysis of many elements / sự phân tích các yếu tố, thành phần). Pháp gì vậy? Đó là *niệm thân*. Khi pháp này được tu tập và phát triển, có *sự thâm nhập nhiều giới* ... *sự thâm nhập các giới khác nhau* ... *sự phân tích nhiều giới*."
+
+<!--pg-->
+596--599\. "Này các Tỳ kheo, một pháp, khi được tu tập và phát triển, đưa đến *chứng ngộ quả Dự lưu* (realization of the fruit of stream-entry / sự đạt được quả vị của bậc nhập dòng Thánh) ... *Nhất lai* (once-return / quả vị của bậc chỉ còn một lần trở lại) ... *Bất lai* (non-return / quả vị của bậc không còn trở lại) ... *A-la-hán* (perfection / quả vị của bậc đã hoàn thiện, giải thoát hoàn toàn). Pháp gì vậy? Đó là *niệm thân*. Pháp này, khi được tu tập và phát triển, đưa đến *chứng ngộ quả Dự lưu* ... *Nhất lai* ... *Bất lai* ... *A-la-hán*."
+
+<!--pg-->
+600--615\. "Này các Tỳ kheo, một pháp, khi được tu tập và phát triển, đưa đến *sự chứng đắc trí tuệ* (getting of wisdom / sự đạt được trí tuệ) ... *sự tăng trưởng trí tuệ* (growth of wisdom / sự phát triển của trí tuệ) ... *sự gia tăng trí tuệ* (increase of wisdom / sự lớn mạnh của trí tuệ) ... đến *trí tuệ lớn* (great wisdom / trí tuệ vĩ đại) ... đến *trí tuệ rộng khắp* (widespread wisdom / trí tuệ bao trùm) ... đến *trí tuệ dồi dào* (abundant wisdom / trí tuệ phong phú) ... đến *trí tuệ sâu sắc* (deep wisdom / trí tuệ thâm sâu) ... đến *trí tuệ phi thường* (extraordinary wisdom / trí tuệ vượt trội, không tầm thường) ... đến *trí tuệ bao la* (vast wisdom / trí tuệ rộng lớn) ... đến *trí tuệ sung mãn* (much wisdom / nhiều trí tuệ, trí tuệ phong phú) ... đến *trí tuệ nhanh nhạy* (fast wisdom / trí tuệ mau lẹ) ... đến *trí tuệ nhẹ nhàng* (light wisdom / trí tuệ linh hoạt, không nặng nề) ... đến *trí tuệ hoan hỷ* (laughing wisdom / trí tuệ phát sinh cùng niềm vui) ... đến *trí tuệ mau chóng* (swift wisdom / trí tuệ thần tốc) ... đến *trí tuệ sắc bén* (sharp wisdom / trí tuệ nhạy bén) ... đến *trí tuệ thấu suốt* (penetrating wisdom / trí tuệ xuyên thấu). Pháp gì vậy? Đó là *niệm thân*. Pháp này, khi được tu tập và phát triển, đưa đến *sự chứng đắc trí tuệ* ... *sự tăng trưởng trí tuệ* ... *sự gia tăng trí tuệ* ... đến *trí tuệ lớn* ... đến *trí tuệ rộng khắp* ... đến *trí tuệ dồi dào* ... đến *trí tuệ sâu sắc* ... đến *trí tuệ phi thường* ... đến *trí tuệ bao la* ... đến *trí tuệ sung mãn* ... đến *trí tuệ nhanh nhạy* ... đến *trí tuệ nhẹ nhàng* ... đến *trí tuệ hoan hỷ* ... đến *trí tuệ mau chóng* ... đến *trí tuệ sắc bén* ... đến *trí tuệ thấu suốt*."

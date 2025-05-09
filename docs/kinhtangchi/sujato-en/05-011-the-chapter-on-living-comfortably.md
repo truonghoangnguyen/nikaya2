@@ -1,6 +1,6 @@
 # The Chapter on Living Comfortably
 
-### N 5.101 Assurance  *Sārajjasutta*
+### AN 5.101 Assurance  *Sārajjasutta*
 
 "Mendicants, these five qualities make a trainee assured. What five?
 It's when a mendicant is faithful, ethical, learned, energetic, and
@@ -24,7 +24,7 @@ So this quality makes a trainee assured.
 These are the five qualities that make a trainee assured."
 
 <!--pg-->
-### N 5.102 Suspected  *Ussaṅkitasutta*
+### AN 5.102 Suspected  *Ussaṅkitasutta*
 
 "Mendicants, even if a monk is of impeccable character, he might be
 suspected and distrusted as a 'bad monk' for five reasons.
@@ -36,7 +36,7 @@ Even if a monk is of impeccable character, he might be suspected and
 distrusted as a 'bad monk' for these five reasons."
 
 <!--pg-->
-### N 5.103 A Master Thief  *Mahācorasutta*
+### AN 5.103 A Master Thief  *Mahācorasutta*
 
 "Mendicants, a master thief with five factors breaks into houses,
 plunders wealth, steals from isolated buildings, and commits highway
@@ -104,7 +104,7 @@ broken and damaged. They deserve to be blamed and criticized by sensible
 people, and they create much wickedness."
 
 <!--pg-->
-### N 5.104 An Exquisite Ascetic of Ascetics  *Samaṇasukhumālasutta*
+### AN 5.104 An Exquisite Ascetic of Ascetics  *Samaṇasukhumālasutta*
 
 "Mendicants, a mendicant with five qualities is an exquisite ascetic of
 ascetics.
@@ -146,7 +146,7 @@ very life. So if anyone should be rightly called an exquisite ascetic of
 ascetics, it's me."
 
 <!--pg-->
-### N 5.105 Living Comfortably  *Phāsuvihārasutta*
+### AN 5.105 Living Comfortably  *Phāsuvihārasutta*
 
 "Mendicants, there are these five ways of living comfortably. What five?
 
@@ -166,7 +166,7 @@ brings one who practices it to the complete ending of suffering.
 These are the five ways of living comfortably."
 
 <!--pg-->
-### N 5.106 With Ānanda  *Ānandasutta*
+### AN 5.106 With Ānanda  *Ānandasutta*
 
 At one time the Buddha was staying near Kosambī, in
 Ghosita's Monastery.
@@ -226,7 +226,7 @@ And I say that there is no better or finer way of living comfortably
 than this."
 
 <!--pg-->
-### N 5.107 Ethics  *Sīlasutta*
+### AN 5.107 Ethics  *Sīlasutta*
 
 "Mendicants, a mendicant with five qualities is worthy of offerings
 dedicated to the gods, worthy of hospitality, worthy of a religious
@@ -242,7 +242,7 @@ worthy of veneration with joined palms, and is the supreme field of
 merit for the world."
 
 <!--pg-->
-### N 5.108 An adept  *Asekhasutta*
+### AN 5.108 An adept  *Asekhasutta*
 
 "Mendicants, a mendicant with five qualities is worthy of offerings
 dedicated to the gods, worthy of hospitality, worthy of a religious
@@ -255,7 +255,7 @@ A mendicant with these five qualities ... is the supreme field of merit
 for the world."
 
 <!--pg-->
-### N 5.109 All Four Quarters  *Cātuddisasutta*
+### AN 5.109 All Four Quarters  *Cātuddisasutta*
 
 "Mendicants, a mendicant with five qualities is at ease in any quarter.
 What five?
@@ -286,7 +286,7 @@ due to the ending of defilements.
 A mendicant with these five qualities is at ease in any quarter."
 
 <!--pg-->
-### N 5.110 Wilderness  *Araññasutta*
+### AN 5.110 Wilderness  *Araññasutta*
 
 "Mendicants, when a mendicant has five qualities they're ready to
 frequent remote lodgings in the wilderness and the forest. What five?

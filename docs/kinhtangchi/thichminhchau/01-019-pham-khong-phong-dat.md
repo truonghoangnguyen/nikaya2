@@ -2,7 +2,6 @@
 
 ### 1-44 Một Pháp
 
-<!--pg-->
 1\. Ví như trong cõi Jambudipa (Diêm-phủ-đề) này, số ít là các khu vườn khả ái, các khu rừng khả ái, các
 vùng đất khả ái, các hồ ao khả ái, còn nhiều hơn là các chỗ đất cao đất thấp, các con sông khó lội qua,
 các khu vực râm rạp những gậy gộc, gai góc, các núi non lởm chởm. Cũng vậy, này các Tỷ-kheo, số ít là

@@ -1,6 +1,6 @@
 # The Chapter on Wilderness Dwellers
 
-### N 5.181 Wilderness Dwellers  *Āraññikasutta*
+### AN 5.181 Wilderness Dwellers  *Āraññikasutta*
 
 "Mendicants, there are these five kinds of wilderness dwellers. What
 five? A person may be wilderness dweller because of stupidity and folly.
@@ -19,14 +19,14 @@ dwells in the wilderness for the sake of having few wishes is the
 foremost, best, chief, highest, and finest of the five."
 
 <!--pg-->
-### N 5.182 Robes  *Cīvarasutta*
+### AN 5.182 Robes  *Cīvarasutta*
 
 "Mendicants, these five wear rag robes. What five? A person may wear rag
 robes because of stupidity ... corrupt wishes ... madness ... because it
 is praised by the Buddhas ... or for the sake of having few wishes ...
 These are the five who wear rag robes."
 
-### N 5.183 Dwelling at the Root of a Tree  *Rukkhamūlikasutta*
+### AN 5.183 Dwelling at the Root of a Tree  *Rukkhamūlikasutta*
 
 "Mendicants, there are these five who dwell at the root of a tree. What
 five? A person may dwell at the root of a tree because of stupidity ...
@@ -34,7 +34,7 @@ corrupt wishes ... madness ... because it is praised by the Buddhas ...
 or for the sake of having few wishes ... These are the five who dwell at
 the root of a tree."
 
-### N 5.184 Charnel Ground Dwellers  *Sosānikasutta*
+### AN 5.184 Charnel Ground Dwellers  *Sosānikasutta*
 
 "Mendicants, these five dwell in a charnel ground. What five? A person
 may dwell in a charnel ground because of stupidity ... corrupt wishes
@@ -42,28 +42,28 @@ may dwell in a charnel ground because of stupidity ... corrupt wishes
 of having few wishes ... These are the five who dwell in a charnel
 ground."
 
-### N 5.185 Open Air Dwellers  *Abbhokāsikasutta*
+### AN 5.185 Open Air Dwellers  *Abbhokāsikasutta*
 
 "These five dwell in the open air. ..."
 
-### N 5.186 Those Who Never Lie Down  *Nesajjikasutta*
+### AN 5.186 Those Who Never Lie Down  *Nesajjikasutta*
 
 "These five never lie down. ..."
 
-### N 5.187 Those Who Sleep Wherever a Mat is Laid  *Yathāsanthatikasutta*
+### AN 5.187 Those Who Sleep Wherever a Mat is Laid  *Yathāsanthatikasutta*
 
 "These five sleep wherever they lay their mat. ..."
 
-### N 5.188 Those Who Eat in One Sitting  *Ekāsanikasutta*
+### AN 5.188 Those Who Eat in One Sitting  *Ekāsanikasutta*
 
 "These five eat in one sitting per day. ..."
 
-### N 5.189 Refusers of Late Food  *Khalupacchābhattikasutta*
+### AN 5.189 Refusers of Late Food  *Khalupacchābhattikasutta*
 
 "These five refuse to accept food offered after the meal has begun. ..."
 
 <!--pg-->
-### N 5.190 Those Who Eat Only From the Almsbowl  *Pattapiṇḍikasutta*
+### AN 5.190 Those Who Eat Only From the Almsbowl  *Pattapiṇḍikasutta*
 
 "Mendicants, these five eat only from the almsbowl. What five? A person
 may eat only from the almsbowl because of stupidity and folly. Or

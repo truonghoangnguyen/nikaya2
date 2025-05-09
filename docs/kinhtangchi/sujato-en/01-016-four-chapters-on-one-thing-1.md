@@ -1,6 +1,6 @@
 # Four Chapters on One Thing (1-Paṭhamavagga)
 
-### N 1.296--305 *Paṭhamavagga*
+### AN 1.296--305 *Paṭhamavagga*
 
 296\. "One thing, mendicants, when developed and cultivated, leads solely to
 disillusionment, dispassion, cessation, peace, insight, awakening, and

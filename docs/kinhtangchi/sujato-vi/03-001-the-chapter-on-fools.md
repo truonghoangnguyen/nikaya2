@@ -1,6 +1,6 @@
 # Chương về Kẻ Ngu
 
-### N 3.1 Nguy hiểm *Kinh Nguy hiểm*
+### AN 3.1 Nguy hiểm *Kinh Nguy hiểm*
 
 Tôi nghe như vầy. Một thời Đức Phật trú tại Sāvatthī, trong rừng Jeta, tịnh xá của Anāthapiṇḍika. Tại đây, Đức Phật gọi các Tỳ-kheo:
 
@@ -15,7 +15,7 @@ Như vậy, kẻ ngu là nguy hiểm, còn người trí thì an toàn. Kẻ ngu
 Vì vậy, các thầy nên rèn luyện như sau: 'Chúng ta sẽ từ bỏ ba điều mà qua đó kẻ ngu được nhận biết, và chúng ta sẽ thực hành và noi theo ba điều mà qua đó người trí được nhận biết.' Đó là cách các thầy nên rèn luyện."
 
 <!--pg-->
-### N 3.2 Đặc điểm *Kinh Đặc điểm*
+### AN 3.2 Đặc điểm *Kinh Đặc điểm*
 
 "Kẻ ngu được nhận biết qua hành động của họ, và người trí được nhận biết qua hành động của họ, vì trí tuệ trở nên đẹp đẽ khi nó được thể hiện rõ ràng. Kẻ ngu được nhận biết qua ba điều. Ba điều gì? Hành động xấu qua thân, khẩu và ý.
 
@@ -28,14 +28,14 @@ Người trí được nhận biết qua ba điều. Ba điều gì? Hành độ
 Vì vậy, các thầy nên rèn luyện như sau: 'Chúng ta sẽ từ bỏ ba điều mà qua đó kẻ ngu được nhận biết, và chúng ta sẽ thực hành và noi theo ba điều mà qua đó người trí được nhận biết.' Đó là cách các thầy nên rèn luyện."
 
 <!--pg-->
-### N 3.3 Suy nghĩ *Kinh Suy nghĩ*
+### AN 3.3 Suy nghĩ *Kinh Suy nghĩ*
 
 "Có ba đặc điểm, dấu hiệu và biểu hiện này của kẻ ngu. Ba điều gì? Kẻ ngu suy nghĩ kém cỏi, nói năng kém cỏi và hành động kém cỏi. Nếu kẻ ngu không suy nghĩ kém cỏi, nói năng kém cỏi và hành động kém cỏi, thì làm sao người trí biết được về họ: 'Người này là kẻ ngu, một người không chân thật'? Nhưng vì kẻ ngu suy nghĩ kém cỏi, nói năng kém cỏi và hành động kém cỏi, nên người trí biết được về họ: 'Người này là kẻ ngu, một người không chân thật'. Đây là ba đặc điểm, dấu hiệu và biểu hiện của kẻ ngu.
 
 Có ba đặc điểm, dấu hiệu và biểu hiện này của người trí. Ba điều gì? Người trí suy nghĩ tốt, nói năng tốt và hành động tốt. Nếu người trí không suy nghĩ tốt, nói năng tốt và hành động tốt, thì làm sao người trí biết được về họ: 'Người này là người trí, một người chân thật'? Nhưng vì người trí suy nghĩ tốt, nói năng tốt và hành động tốt, nên người trí biết được về họ: 'Người này là người trí, một người chân thật'. Đây là ba đặc điểm, dấu hiệu và biểu hiện của người trí. Vì vậy, các thầy nên rèn luyện..."
 
 <!--pg-->
-### N 3.4 Sai lầm *Kinh Sai lầm*
+### AN 3.4 Sai lầm *Kinh Sai lầm*
 
 "Kẻ ngu được nhận biết qua ba điều. Ba điều gì? Họ không nhận ra khi mình phạm sai lầm. Khi nhận ra, họ không xử lý nó một cách đúng đắn. Và khi người khác thú nhận sai lầm với họ, họ không chấp nhận nó một cách đúng đắn.
 
@@ -46,7 +46,7 @@ Người trí được nhận biết qua ba điều. Ba điều gì? Họ nhận
 Đây là ba điều mà qua đó người trí được nhận biết. Vì vậy, các thầy nên rèn luyện..."
 
 <!--pg-->
-### N 3.5 Không hợp lý *Kinh Không hợp lý*
+### AN 3.5 Không hợp lý *Kinh Không hợp lý*
 
 "Kẻ ngu được nhận biết qua ba điều. Ba điều gì? Họ hỏi một câu hỏi một cách không hợp lý. Họ trả lời một câu hỏi một cách không hợp lý. Và khi người khác trả lời một câu hỏi một cách hợp lý—với lời lẽ và câu chữ đầy đủ, mạch lạc và phù hợp—họ lại không đồng ý.
 
@@ -57,7 +57,7 @@ Người trí được nhận biết qua ba điều. Ba điều gì? Họ hỏi 
 Đây là ba điều mà qua đó người trí được nhận biết. Vì vậy, các thầy nên rèn luyện..."
 
 <!--pg-->
-### N 3.6 Bất thiện *Kinh Bất thiện*
+### AN 3.6 Bất thiện *Kinh Bất thiện*
 
 "Kẻ ngu được nhận biết qua ba điều. Ba điều gì? Hành động bất thiện qua thân, khẩu và ý.
 
@@ -68,19 +68,19 @@ Người trí được nhận biết qua ba điều. Ba điều gì? Hành độ
 Đây là ba điều mà qua đó người trí được nhận biết. Vì vậy, các thầy nên rèn luyện..."
 
 <!--pg-->
-### N 3.7 Đáng trách *Kinh Đáng trách*
+### AN 3.7 Đáng trách *Kinh Đáng trách*
 
 "Kẻ ngu được nhận biết qua ba điều. Ba điều gì? Hành động đáng trách qua thân, khẩu và ý. ... Người trí được nhận biết qua hành động không đáng trách qua thân, khẩu và ý. ..."
 
 <!--pg-->
-### N 3.8 Gây tổn hại *Kinh Gây tổn hại*
+### AN 3.8 Gây tổn hại *Kinh Gây tổn hại*
 
 "Kẻ ngu được nhận biết qua ba điều. Ba điều gì? Hành động gây tổn hại qua thân, khẩu và ý. ... Người trí được nhận biết qua hành động tử tế qua thân, khẩu và ý. Đây là ba điều mà qua đó người trí được nhận biết.
 
 Vì vậy, các thầy nên rèn luyện như sau: 'Chúng ta sẽ từ bỏ ba phẩm chất mà qua đó kẻ ngu được nhận biết, và chúng ta sẽ thực hành và noi theo ba phẩm chất mà qua đó người trí được nhận biết.' Đó là cách các thầy nên rèn luyện."
 
 <!--pg-->
-### N 3.9 Tổn hại *Kinh Tổn hại*
+### AN 3.9 Tổn hại *Kinh Tổn hại*
 
 "Khi một người ngu si, bất tài, không chân thật có ba phẩm chất, họ tự làm cho mình bị tổn hại và hư hỏng. Họ đáng bị người khôn ngoan khiển trách và chỉ trích, và họ tạo ra nhiều điều ác. Ba điều gì? Hành động xấu qua thân, khẩu và ý.
 
@@ -91,7 +91,7 @@ Khi một người trí tuệ, có tài, chân thật có ba phẩm chất, họ
 Khi một người trí tuệ, có tài, chân thật có ba phẩm chất này, họ tự giữ cho mình nguyên vẹn và không bị tổn hại. Họ không đáng bị người khôn ngoan khiển trách và chỉ trích, và họ tạo ra nhiều phước đức."
 
 <!--pg-->
-### N 3.10 Ô nhiễm *Kinh Ô nhiễm*
+### AN 3.10 Ô nhiễm *Kinh Ô nhiễm*
 
 "Bất cứ ai có ba phẩm chất, và chưa từ bỏ ba sự ô nhiễm, sẽ bị đọa xuống địa ngục. Ba điều gì? Họ vô đạo đức, và chưa từ bỏ sự ô nhiễm của vô đạo đức. Họ ganh tỵ, và chưa từ bỏ sự ô nhiễm của ganh tỵ. Họ keo kiệt, và chưa từ bỏ sự ô nhiễm của keo kiệt.
 

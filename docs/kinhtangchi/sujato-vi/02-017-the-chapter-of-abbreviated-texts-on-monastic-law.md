@@ -18,3 +18,18 @@ Hai lý do đó là gì? Vì an lạc và thoải mái của Tăng đoàn...
 Để khơi dậy tín tâm nơi những người chưa có, và tăng trưởng tín tâm nơi những người đã có... Vì sự tiếp nối của Chánh pháp và sự hỗ trợ giới luật.
 
 Đó là hai lý do tại sao Như Lai đã đặt ra việc dàn xếp một vụ việc kỷ luật bằng phương pháp thảo phú tỳ-ni cho các đệ tử của mình."
+
+<!--pg-->
+# Chương Các Kinh Tóm Lược Bắt Đầu Với Tham
+
+### AN 2.310--479 *Phẩm Tham - Peyyāla*
+
+
+310--319. "Để *thắng trí* (insight / sự hiểu biết thấu suốt) *tham* (greed / lòng tham), hai pháp cần được tu tập. Hai pháp gì? Là *chỉ* (serenity / sự định tâm) và *quán* (discernment / sự thấy rõ). Để thắng trí tham, hai pháp này cần được tu tập."
+
+"Để *biến tri* (complete understanding / sự hiểu biết toàn diện)... *đoạn tận* (finishing / sự chấm dứt hoàn toàn)... *đoạn trừ* (giving up / sự từ bỏ)... *diệt tận* (ending / sự kết thúc)... *tàn diệt* (vanishing / sự tan biến)... *phai nhạt* (fading away / sự phai nhạt)... *đoạn diệt* (cessation / sự dừng lại)... *xả ly* (giving away / sự buông bỏ)... *vứt bỏ* (letting go / sự buông xả) tham, hai pháp cần được tu tập."
+
+<!--pg-->
+320--479\. "Đối với *sân* (hate / lòng sân hận)... *si* (delusion / sự si mê)... *phẫn nộ* (anger / sự tức giận)... *oán hận* (acrimony / sự thù oán)... *hiềm hận* (disdain / sự khinh miệt)... *não hại* (contempt / sự làm khổ)... *tật đố* (jealousy / sự ganh tị)... *san tham* (stinginess / sự keo kiệt)... *man trá* (deceit / sự lừa dối)... *xảo trá* (deviousness / sự quanh co)... *ngoan cố* (obstinacy / sự cứng đầu)... *xung động* (aggression / sự hung hăng)... *mạn* (conceit / sự kiêu ngạo)... *quá mạn* (arrogance / sự kiêu căng)... *kiêu mạn* (vanity / sự kiêu căng tự mãn)... *phóng dật* (negligence / sự dễ duôi, lơ là)... để thắng trí... biến tri... đoạn tận... đoạn trừ... diệt tận... tàn diệt... phai nhạt... đoạn diệt... xả ly... vứt bỏ... hai pháp cần được tu tập. Hai pháp gì? Là chỉ và quán. Để vứt bỏ phóng dật, hai pháp này cần được tu tập."
+
+Thế Tôn đã thuyết như vậy. Các *Tỳ kheo* (mendicants / các vị khất sĩ) hoan hỷ tín thọ lời Thế Tôn dạy.

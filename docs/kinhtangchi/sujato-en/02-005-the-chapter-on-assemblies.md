@@ -1,6 +1,6 @@
 # The Chapter on Assemblies
 
-### N 2.42--51 *Parisavagga*
+### AN 2.42--51 *Parisavagga*
 
 <!--pg-->
 42\. "There are, mendicants, these two assemblies. What two? A shallow

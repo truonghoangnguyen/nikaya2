@@ -1,6 +1,6 @@
 # Chương Lớn
 
-### N 3.61 Quan Điểm Ngoại Đạo  *Titthāyatanasutta*
+### AN 3.61 Quan Điểm Ngoại Đạo  *Titthāyatanasutta*
 
 Này các Tỳ-kheo, có ba *quan điểm ngoại đạo*(sectarian tenets / ngoại đạo kiến) này—khi được người trí truy cứu, gạn hỏi, và thẩm vấn kỹ lưỡng—nếu đi đến cùng cực, sẽ kết thúc bằng sự không hành động. Ba quan điểm đó là gì?
 
@@ -80,7 +80,7 @@ Và sự thật cao quý về con đường thực hành đưa đến sự diệ
 '"Đây là bốn sự thật cao quý": đây là Pháp Ta đã giảng dạy, là pháp không thể bác bỏ, không ô nhiễm, không thể chê trách, và không bị các sa-môn và bà-la-môn có trí tuệ khinh miệt.' Đó là điều Ta đã nói, và đây là lý do tại sao Ta nói vậy."
 
 <!--pg-->
-### N 3.62 Mối Nguy Hiểm  *Bhayasutta*
+### AN 3.62 Mối Nguy Hiểm  *Bhayasutta*
 
 "Này các Tỳ-kheo, *người phàm phu ít học*(unlearned ordinary person / vô văn phàm phu) nói về ba *mối nguy hiểm*(perils / sự sợ hãi, kinh úy) làm chia lìa mẹ con. Ba mối nguy hiểm đó là gì?
 
@@ -113,7 +113,7 @@ Khi con đang hấp hối, người mẹ không thể ước muốn: 'Mong ta ch
 Có một con đường và một pháp hành đưa đến sự từ bỏ và vượt qua ba mối nguy hiểm không làm chia lìa mẹ con, và ba mối nguy hiểm thực sự làm chia lìa mẹ con. Con đường và pháp hành đó là gì? Đó chính là bát chánh đạo này, tức là: chánh kiến, chánh tư duy, chánh ngữ, chánh nghiệp, chánh mạng, chánh tinh tấn, chánh niệm, và chánh định. Đây là con đường, đây là pháp hành đưa đến sự từ bỏ và vượt qua ba mối nguy hiểm không làm chia lìa mẹ con, và ba mối nguy hiểm thực sự làm chia lìa mẹ con."
 
 <!--pg-->
-### N 3.63 Tại Venāgapura  *Venāgapurasutta*
+### AN 3.63 Tại Venāgapura  *Venāgapurasutta*
 
 Một thời Thế Tôn đang du hành trong xứ Kosala cùng với một Tăng đoàn Tỳ-kheo đông đảo, Ngài đến một ngôi làng của các bà-la-môn xứ Kosala tên là Venāgapura. Các bà-la-môn và gia chủ ở Venāgapura nghe tin:
 
@@ -153,7 +153,7 @@ Nhưng thưa Tôn giả Gotama, giường nằm cao sang bậc Thánh là gì?"
 Lành thay, thưa Tôn giả Gotama! Lành thay! Như người lật ngửa vật bị úp, hay phơi bày vật bị che kín, hay chỉ đường cho người lạc lối, hay thắp đèn trong bóng tối để người có mắt sáng có thể thấy được những gì ở đó, Tôn giả Gotama đã làm sáng tỏ giáo pháp bằng nhiều cách. Chúng con xin quy y Tôn giả Gotama, quy y Pháp, và quy y Tăng đoàn Tỳ-kheo. Kể từ hôm nay, xin Tôn giả Gotama ghi nhận chúng con là những nam cư sĩ đã quy y trọn đời."
 
 <!--pg-->
-### N 3.64 Với Sarabha  *Sarabhasutta*
+### AN 3.64 Với Sarabha  *Sarabhasutta*
 
 Như vầy tôi nghe. Một thời Thế Tôn trú tại Rājagaha (Vương Xá), trên núi Linh Thứu (Gijjhakūṭa).
 
@@ -188,7 +188,7 @@ Ngay sau khi Thế Tôn rời đi, các du sĩ ngoại đạo đó đã vây qua
 Ông giống như một con bò đực chỉ nghĩ đến việc rống lên khi chuồng bò trống không. Cũng vậy, ông chỉ nghĩ đến việc rống lên khi Sa-môn Gotama không có ở đây." Đó là cách các du sĩ ngoại đạo đó đã vây quanh Sarabha tứ phía, chế nhạo và giễu cợt.
 
 <!--pg-->
-### N 3.65 Với Người Kālāma ở Kesamutta  *Kesamuttisutta*
+### AN 3.65 Với Người Kālāma ở Kesamutta  *Kesamuttisutta*
 
 Như vầy tôi nghe. Một thời Thế Tôn đang du hành trong xứ Kosala cùng với một Tăng đoàn Tỳ-kheo đông đảo, Ngài đến một thị trấn của người Kālāma tên là Kesamutta. Người Kālāma ở Kesamutta nghe tin:
 
@@ -301,7 +301,7 @@ Khi vị thánh đệ tử đó có tâm không oán, không sân, không ô nhi
 Lành thay, bạch Thế Tôn! Lành thay! ... Chúng con xin quy y Thế Tôn, quy y Pháp, và quy y Tăng đoàn Tỳ-kheo. Kể từ hôm nay, xin Thế Tôn ghi nhận chúng con là những nam/nữ cư sĩ đã quy y trọn đời."
 
 <!--pg-->
-### N 3.66 Với Sāḷha và Bạn  *Sāḷhasutta*
+### AN 3.66 Với Sāḷha và Bạn  *Sāḷhasutta*
 
 Như vầy tôi nghe. Một thời Tôn giả Nandaka trú gần Sāvatthī (Xá-vệ) tại lầu của bà Migāramātā trong Tu viện phía Đông (Pubbārāma). Khi ấy, Sāḷha, cháu của Migāra, và Rohaṇa, cháu của Pekhuṇiya đến gặp Tôn giả Nandaka, đảnh lễ, và ngồi xuống một bên. Rồi Tôn giả Nandaka nói với Sāḷha:
 
@@ -404,7 +404,7 @@ Vị ấy hiểu rõ: 'Sự tái sinh đã chấm dứt, đời sống phạm h�
 Vị ấy hiểu rõ: 'Trước đây có tham lam, đó là bất thiện. Nay không còn, vậy là thiện. Trước đây có sân hận, đó là bất thiện. Nay không còn, vậy là thiện. Trước đây có si mê, đó là bất thiện. Nay không còn, vậy là thiện.' Vì vậy, vị ấy sống không còn mong muốn ngay trong đời này, được dập tắt (phiền não), được mát mẻ, cảm nghiệm hạnh phúc, với tự thân trở thành thanh tịnh (như Phạm thiên)."
 
 <!--pg-->
-### N 3.67 Đề Tài Thảo Luận  *Kathāvatthusutta*
+### AN 3.67 Đề Tài Thảo Luận  *Kathāvatthusutta*
 
 "Này các Tỳ-kheo, có ba *đề tài thảo luận*(topics of discussion / kathāvatthu) này. Ba đề tài đó là gì? Các thầy có thể thảo luận về quá khứ: 'Trong quá khứ đã như thế này.' Các thầy có thể thảo luận về tương lai: 'Trong tương lai sẽ như thế này.' Hoặc các thầy có thể thảo luận về hiện tại: 'Hiện tại đang như thế này.'
 
@@ -456,7 +456,7 @@ Các thầy có thể biết một người có đủ phẩm chất cần thiế
 > Sẽ tham vấn không kiêu ngạo."
 
 <!--pg-->
-### N 3.68 Tín Đồ Các Tôn Giáo Khác  *Aññatitthiyasutta*
+### AN 3.68 Tín Đồ Các Tôn Giáo Khác  *Aññatitthiyasutta*
 
 "Này các Tỳ-kheo, nếu các du sĩ ngoại đạo hỏi các thầy: 'Có ba điều này. Ba điều đó là gì? Tham, sân, và si. Đây là ba điều. Sự khác biệt giữa chúng là gì?' Các thầy sẽ trả lời họ như thế nào?"
 
@@ -481,7 +481,7 @@ Và nếu họ hỏi, 'Nguyên nhân nào, lý do nào khiến sân không khở
 Và nếu họ hỏi, 'Nguyên nhân nào, lý do nào khiến si không khởi lên, hoặc nếu đã khởi lên thì được từ bỏ?' Các thầy nên nói: '*Sự hướng tâm đúng pháp*(Rational application of mind / như lý tác ý). Khi các vị hướng tâm đúng pháp, si không khởi lên, hoặc nếu đã khởi lên thì được từ bỏ. Đây là nguyên nhân, đây là lý do khiến si không khởi lên, hoặc nếu đã khởi lên thì được từ bỏ.'"
 
 <!--pg-->
-### N 3.69 Cội Rễ Bất Thiện  *Akusalamūlasutta*
+### AN 3.69 Cội Rễ Bất Thiện  *Akusalamūlasutta*
 
 "Này các Tỳ-kheo, có ba *cội rễ bất thiện*(unskillful roots / bất thiện căn) này. Ba cội rễ đó là gì? Tham, sân, và si.
 
@@ -516,7 +516,7 @@ Giả sử một cây sala, cây trục xe, hoặc cây hoàng dương bị ba d
 Đây là ba cội rễ thiện."
 
 <!--pg-->
-### N 3.70 Ngày Trai Giới  *Uposathasutta*
+### AN 3.70 Ngày Trai Giới  *Uposathasutta*
 
 Như vầy tôi nghe. Một thời Thế Tôn trú gần Sāvatthī (Xá-vệ) tại lầu của bà Migāramātā trong Tu viện phía Đông (Pubbārāma).
 

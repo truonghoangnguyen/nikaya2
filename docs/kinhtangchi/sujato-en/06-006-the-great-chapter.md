@@ -1,6 +1,6 @@
 # The Great Chapter
 
-### N 6.55 With Soṇa  *Soṇasutta*
+### AN 6.55 With Soṇa  *Soṇasutta*
 
 SO I HAVE HEARD. At one time the Buddha was staying near
 Rājagaha, on the Vulture's Peak Mountain.
@@ -153,7 +153,7 @@ imperturbable, observing disappearance.
 > as they observe disappearance."
 
 <!--pg-->
-### N 6.56 With Phagguna  *Phaggunasutta*
+### AN 6.56 With Phagguna  *Phaggunasutta*
 
 Now at that time Venerable Phagguna was sick, suffering, gravely ill.
 Then Venerable Ānanda went up to the Buddha, bowed, sat down to one
@@ -260,7 +260,7 @@ These are the six benefits to hearing the teaching at the right time and
 examining the meaning at the right time."
 
 <!--pg-->
-### N 6.57 The Six Classes of Rebirth  *Chaḷabhijātisutta*
+### AN 6.57 The Six Classes of Rebirth  *Chaḷabhijātisutta*
 
 At one time the Buddha was staying near Rājagaha, on the
 Vulture's Peak Mountain. Then Venerable Ānanda went up to the Buddha,
@@ -379,7 +379,7 @@ extinguishment, which is neither dark nor bright.
 These are the six classes of rebirth."
 
 <!--pg-->
-### N 6.58 Defilements  *Āsavasutta*
+### AN 6.58 Defilements  *Āsavasutta*
 
 "Mendicants, a mendicant with six qualities is worthy of offerings
 dedicated to the gods, worthy of hospitality, worthy of a religious
@@ -470,7 +470,7 @@ of veneration with joined palms, and is the supreme field of merit for
 the world."
 
 <!--pg-->
-### N 6.59 With Dārukammika  *Dārukammikasutta*
+### AN 6.59 With Dārukammika  *Dārukammikasutta*
 
 SO I HAVE HEARD. At one time the Buddha was staying at
 Ñātika in the brick house.
@@ -530,7 +530,7 @@ you'll be reborn in a good place, a heavenly realm."
 "Sir, from this day forth I will give gifts to the Saṅgha."
 
 <!--pg-->
-### N 6.60 With Hatthisāriputta  *Hatthisāriputtasutta*
+### AN 6.60 With Hatthisāriputta  *Hatthisāriputtasutta*
 
 SO I HAVE HEARD. At one time the Buddha was staying near
 Varanasi, in the deer park at Isipatana.
@@ -705,7 +705,7 @@ for this place." And Venerable Citta Hatthisāriputta became
 one of the perfected.
 
 <!--pg-->
-### N 6.61 In the Middle  *Majjhesutta*
+### AN 6.61 In the Middle  *Majjhesutta*
 
 SO I HAVE HEARD. At one time the Buddha was staying near
 Varanasi, in the deer park at Isipatana.
@@ -800,7 +800,7 @@ understood. Knowing and understanding thus they make an end of suffering
 in this very life."
 
 <!--pg-->
-### N 6.62 Knowledge of the Faculties of Persons  *Purisindriyañāṇasutta*
+### AN 6.62 Knowledge of the Faculties of Persons  *Purisindriyañāṇasutta*
 
 SO I HAVE HEARD. At one time the Buddha was wandering in
 the land of the Kosalans together with a large Saṅgha of
@@ -996,7 +996,7 @@ And of the second three people, one is liable to decline, one is not
 liable to decline, and one is bound to become extinguished."
 
 <!--pg-->
-### N 6.63 Penetrative  *Nibbedhikasutta*
+### AN 6.63 Penetrative  *Nibbedhikasutta*
 
 "Mendicants, I will teach you a penetrative exposition of the teaching.
 Listen and apply your mind well, I will speak."
@@ -1219,7 +1219,7 @@ be known.' That's what I said, and this is why I said it.
 This is the penetrative exposition of the teaching."
 
 <!--pg-->
-### N 6.64 The Lion's Roar  *Sīhanādasutta*
+### AN 6.64 The Lion's Roar  *Sīhanādasutta*
 
 "Mendicants, the Realized One possesses six powers of a Realized One.
 With these he claims the bull's place, roars his lion's roar in the

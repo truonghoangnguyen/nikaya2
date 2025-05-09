@@ -1,6 +1,6 @@
 # The Chapter on Abuse
 
-### N 5.211 An Abuser  *Akkosakasutta*
+### AN 5.211 An Abuser  *Akkosakasutta*
 
 "Mendicants, a mendicant who abuses and insults their spiritual
 companions, denouncing the noble ones, can expect these five drawbacks.
@@ -12,7 +12,7 @@ abuses and insults their spiritual companions, denouncing the noble
 ones, can expect these five drawbacks."
 
 <!--pg-->
-### N 5.212 Starting Arguments  *Bhaṇḍanakārakasutta*
+### AN 5.212 Starting Arguments  *Bhaṇḍanakārakasutta*
 
 "Mendicants, a mendicant who starts arguments, quarrels, disputes,
 debates, and disciplinary issues in the Saṅgha can expect
@@ -24,7 +24,7 @@ starts arguments, quarrels, disputes, debates, and disciplinary issues
 in the Saṅgha can expect these five drawbacks."
 
 <!--pg-->
-### N 5.213 Ethics  *Sīlasutta*
+### AN 5.213 Ethics  *Sīlasutta*
 
 "Mendicants, there are these five drawbacks for an unethical person
 because of their failure in ethics. What five?
@@ -69,7 +69,7 @@ These are the five benefits for an ethical person because of their
 accomplishment in ethics."
 
 <!--pg-->
-### N 5.214 Someone Who Talks a Lot  *Bahubhāṇisutta*
+### AN 5.214 Someone Who Talks a Lot  *Bahubhāṇisutta*
 
 "Mendicants, there are these five drawbacks for a person who talks a
 lot. What five? They use speech that's false, divisive, harsh, and
@@ -84,7 +84,7 @@ good place, a heavenly realm. These are the five benefits for a person
 who talks thoughtfully."
 
 <!--pg-->
-### N 5.215 Intolerance (1st)  *Paṭhamaakkhantisutta*
+### AN 5.215 Intolerance (1st)  *Paṭhamaakkhantisutta*
 
 "Mendicants, there are these five drawbacks of intolerance. What five?
 Most people find you unlikable and disagreeable. You have lots of enmity
@@ -99,7 +99,7 @@ you're reborn in a good place, a heavenly realm. These are the five
 benefits of tolerance."
 
 <!--pg-->
-### N 5.216 Intolerance (2nd)  *Dutiyaakkhantisutta*
+### AN 5.216 Intolerance (2nd)  *Dutiyaakkhantisutta*
 
 "Mendicants, there are these five drawbacks of intolerance. What five?
 Most people find you unlikable and disagreeable. You're cruel and
@@ -114,7 +114,7 @@ you're reborn in a good place, a heavenly realm. These are the five
 benefits of tolerance."
 
 <!--pg-->
-### N 5.217 Unimpressive Conduct (1st)  *Paṭhamaapāsādikasutta*
+### AN 5.217 Unimpressive Conduct (1st)  *Paṭhamaapāsādikasutta*
 
 "Mendicants, there are these five drawbacks of unimpressive conduct.
 What five? You blame yourself. After examination, sensible people
@@ -130,7 +130,7 @@ body breaks up, after death, you're reborn in a good place, a heavenly
 realm. These are the five benefits of impressive conduct."
 
 <!--pg-->
-### N 5.218 Unimpressive Conduct (2nd)  *Dutiyaapāsādikasutta*
+### AN 5.218 Unimpressive Conduct (2nd)  *Dutiyaapāsādikasutta*
 
 "Mendicants, there are these five drawbacks of unimpressive conduct.
 What five? You don't inspire confidence in those without it. You cause
@@ -146,7 +146,7 @@ you follow your example. And your mind becomes clear. These are the five
 benefits of impressive conduct."
 
 <!--pg-->
-### N 5.219 Fire  *Aggisutta*
+### AN 5.219 Fire  *Aggisutta*
 
 "Mendicants, there are these five drawbacks of a fire. What five? It's
 bad for your eyes. It's bad for your complexion. It makes you weak. It
@@ -154,7 +154,7 @@ draws in groups. And it encourages low talk. These are the five
 drawbacks of a fire."
 
 <!--pg-->
-### N 5.220 About Madhurā  *Madhurāsutta*
+### AN 5.220 About Madhurā  *Madhurāsutta*
 
 "Mendicants, there are these five drawbacks of Madhurā.
 What five? The ground is uneven and dusty, the dogs are fierce, the

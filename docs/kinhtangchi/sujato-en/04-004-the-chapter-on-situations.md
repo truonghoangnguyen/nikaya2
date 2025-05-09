@@ -1,7 +1,7 @@
 # The Chapter on Situations
 
 
-### N 4.31 Situations *Cakkasutta*
+### AN 4.31 Situations *Cakkasutta*
 
 "Mendicants, there are these four situations. When these situations come
 about, any god or human who takes advantage of them will soon acquire
@@ -21,7 +21,7 @@ abundant wealth.
 > and happiness come to them."
 
 <!--pg-->
-### N 4.32 Inclusion *Saṅgahasutta*
+### AN 4.32 Inclusion *Saṅgahasutta*
 
 "Mendicants, there are these four ways of being inclusive. What four?
 Giving, kindly words, taking care, and equality.
@@ -46,7 +46,7 @@ These are the four ways of being inclusive.
 > and are praised."
 
 <!--pg-->
-### N 4.33 The Lion *Sīhasutta*
+### AN 4.33 The Lion *Sīhasutta*
 
 "Mendicants, towards evening the lion, king of beasts, emerges from his
 den, yawns, looks all around the four quarters, and roars his lion's
@@ -100,7 +100,7 @@ illustrious and mighty.
 > of the perfected one, free and unaffected."
 
 <!--pg-->
-### N 4.34 The Best Kinds of Confidence *Aggappasādasutta*
+### AN 4.34 The Best Kinds of Confidence *Aggappasādasutta*
 
 "Mendicants, these four kinds of confidence are the best. What four?
 
@@ -155,7 +155,7 @@ These are the four best kinds of confidence.
 > they rejoice at reaching the best."
 
 <!--pg-->
-### N 4.35 With Vassakāra *Vassakārasutta*
+### AN 4.35 With Vassakāra *Vassakārasutta*
 
 At one time the Buddha was staying near Rājagaha, in the
 Bamboo Grove, the squirrels' feeding ground. Then Vassakāra
@@ -238,7 +238,7 @@ ending of defilements.
 > is called 'a great man, of great wisdom'."
 
 <!--pg-->
-### N 4.36 Doṇa *Doṇasutta*
+### AN 4.36 Doṇa *Doṇasutta*
 
 At one time the Buddha was traveling along the road between
 Ukkaṭṭhā and Setavyā, as was the brahmin
@@ -304,7 +304,7 @@ Remember me, brahmin, as a Buddha.
 > and so, brahmin, I am a Buddha."
 
 <!--pg-->
-### N 4.37 Non-decline *Aparihāniyasutta*
+### AN 4.37 Non-decline *Aparihāniyasutta*
 
 "Mendicants, a mendicant who has four qualities can't decline, and has
 drawn near to extinguishment. What four? A mendicant is accomplished in
@@ -366,7 +366,7 @@ qualities can't decline, and has drawn near to extinguishment.
 > and has drawn near to extinguishment."
 
 <!--pg-->
-### N 4.38 Withdrawn *Patilīnasutta*
+### AN 4.38 Withdrawn *Patilīnasutta*
 
 "Mendicants, a mendicant has eliminated idiosyncratic interpretations of
 the truth, has totally given up searching, has stilled the physical
@@ -418,7 +418,7 @@ process, and is said to be 'withdrawn'.
 > they're called 'withdrawn'."
 
 <!--pg-->
-### N 4.39 With Ujjaya *Ujjayasutta*
+### AN 4.39 With Ujjaya *Ujjayasutta*
 
 Then Ujjaya the brahmin went up to the Buddha, and exchanged greetings
 with him. When the greetings and polite conversation were over, he sat
@@ -464,7 +464,7 @@ sacrifice.
 > and even the deities are pleased."
 
 <!--pg-->
-### N 4.40 With Udāyī *Udāyīsutta*
+### AN 4.40 With Udāyī *Udāyīsutta*
 
 Then Udāyī the brahmin went up to the Buddha, ... and asked
 him, "Does Mister Gotama praise sacrifice?"

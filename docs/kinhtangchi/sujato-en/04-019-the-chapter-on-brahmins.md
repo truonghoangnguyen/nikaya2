@@ -1,7 +1,7 @@
 # The Chapter on Brahmins
 
 
-### N 4.181 A Warrior *Yodhājīvasutta*
+### AN 4.181 A Warrior *Yodhājīvasutta*
 
 "Mendicants, a warrior with four factors is worthy of a king, fit to
 serve a king, and is considered a factor of kingship. What four? He's
@@ -45,7 +45,7 @@ A mendicant with these four qualities ... is the supreme field of merit
 for the world."
 
 <!--pg-->
-### N 4.182 Guarantee *Pāṭibhogasutta*
+### AN 4.182 Guarantee *Pāṭibhogasutta*
 
 "There are four things that no-one can guarantee---not an ascetic, a
 brahmin, a god, a Māra, a divinity, or anyone in the world.
@@ -63,7 +63,7 @@ brahmin, a god, a Māra, a divinity, or anyone in the
 world."
 
 <!--pg-->
-### N 4.183 Vassakāra on What is Heard *Sutasutta*
+### AN 4.183 Vassakāra on What is Heard *Sutasutta*
 
 At one time the Buddha was staying near Rājagaha, in the
 Bamboo Grove, the squirrels' feeding ground. Then Vassakāra
@@ -93,7 +93,7 @@ Then Vassakāra the brahmin, having approved and agreed with
 what the Buddha said, got up from his seat and left.
 
 <!--pg-->
-### N 4.184 Fearless *Abhayasutta*
+### AN 4.184 Fearless *Abhayasutta*
 
 Then the brahmin Jānussoṇi went up to the Buddha, and
 exchanged greetings with him. When the greetings and polite conversation
@@ -171,7 +171,7 @@ terrified of death."
 remember me as a lay follower who has gone for refuge for life."
 
 <!--pg-->
-### N 4.185 Truths of the Brahmins *Brāhmaṇasaccasutta*
+### AN 4.185 Truths of the Brahmins *Brāhmaṇasaccasutta*
 
 Once the Buddha was staying near Rājagaha, on the Vulture's
 Peak Mountain.
@@ -230,7 +230,7 @@ These are the four truths of the brahmins that I declare, having
 realized them with my own insight."
 
 <!--pg-->
-### N 4.186 Approach *Ummaggasutta*
+### AN 4.186 Approach *Ummaggasutta*
 
 Then one of the mendicants went up to the Buddha, bowed, sat down to one
 side, and said to him:
@@ -289,7 +289,7 @@ for others, for both, and for the whole world. That's how a person is
 astute, with great wisdom."
 
 <!--pg-->
-### N 4.187 With Vassakāra *Vassakārasutta*
+### AN 4.187 With Vassakāra *Vassakārasutta*
 
 At one time the Buddha was staying near Rājagaha, in the
 Bamboo Grove, the squirrels' feeding ground.
@@ -367,7 +367,7 @@ Then Vassakāra the brahmin, having approved and agreed with
 what the Buddha said, got up from his seat and left.
 
 <!--pg-->
-### N 4.188 With Upaka *Upakasutta*
+### AN 4.188 With Upaka *Upakasutta*
 
 Once the Buddha was staying near Rājagaha, on the Vulture's
 Peak Mountain. Then Upaka the son of Maṇḍikā went up to the
@@ -409,7 +409,7 @@ to imagine he could attack the Blessed One, the perfected one, the fully
 awakened Buddha! Get out, Upaka, go away! Don't let me see you again."
 
 <!--pg-->
-### N 4.189 Things to be Realized *Sacchikaraṇīyasutta*
+### AN 4.189 Things to be Realized *Sacchikaraṇīyasutta*
 
 "Mendicants, these four things should be realized. What four?
 
@@ -430,7 +430,7 @@ What things are to be realized with wisdom? The ending of defilements.
 These are the four things to be realized."
 
 <!--pg-->
-### N 4.190 Sabbath *Uposathasutta*
+### AN 4.190 Sabbath *Uposathasutta*
 
 At one time the Buddha was staying near Sāvatthī in the
 stilt longhouse of Migāra's mother in the Eastern

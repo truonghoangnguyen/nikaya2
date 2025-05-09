@@ -1,33 +1,22 @@
-# Chương về Không Phạm Giới (Anāpattivagga)
+# Chương Không Phạm Tội
 
-150\. Này các Tỳ-kheo (Mendicants - Bhikkhu - Tỳ-kheo: người xuất gia thọ giới Cụ túc trong Phật giáo), những Tỳ-kheo nào giải thích *không phạm giới* (non-offense - anāpatti - vô phạm) là *phạm giới* (offense - āpatti - phạm), thì họ hành động vì sự tổn hại và khổ đau của chúng sinh, chống lại chúng sinh, vì sự tổn hại, suy đồi và khổ đau của chư thiên và loài người. Những Tỳ-kheo ấy tạo ra nhiều điều ác và làm cho *Chánh pháp* (true teaching - saddhamma - Chánh pháp: giáo pháp chân chính của Đức Phật) biến mất.
+### AN 1.150--169 *Anāpattivagga*
 
-<!--pg-->
-151\. Này các Tỳ-kheo, những Tỳ-kheo nào giải thích phạm giới là không phạm giới, thì họ hành động vì sự tổn hại và khổ đau của chúng sinh, chống lại chúng sinh, vì sự tổn hại, suy đồi và khổ đau của chư thiên và loài người. Những Tỳ-kheo ấy tạo ra nhiều điều ác và làm cho Chánh pháp biến mất.
-
-<!--pg-->
-152--159\. Những Tỳ-kheo nào giải thích *phạm giới nhẹ* (light offense - lahukā āpatti - khinh phạm) là *phạm giới nặng* (serious offense - garukā āpatti - trọng phạm)... phạm giới nặng là phạm giới nhẹ... *phạm giới có chủ ý xấu* (offense committed with corrupt intention - sacetanikā āpatti - hữu ý phạm) là *phạm giới không có chủ ý xấu* (offense not committed with corrupt intention - acetanikā āpatti - vô ý phạm)... phạm giới không có chủ ý xấu là phạm giới có chủ ý xấu... *phạm giới cần phục hồi* (offense requiring rehabilitation - satekicchā āpatti - hữu trị phạm) là *phạm giới không cần phục hồi* (offense not requiring rehabilitation - atekicchā āpatti - vô trị phạm)... phạm giới không cần phục hồi là phạm giới cần phục hồi... *phạm giới có thể sửa chữa* (offense with redress - sappatikammā āpatti - hữu đối trị phạm) là *phạm giới không thể sửa chữa* (offense without redress - appatikammā āpatti - vô đối trị phạm)... phạm giới không thể sửa chữa là phạm giới có thể sửa chữa, thì họ hành động vì sự tổn hại và khổ đau của chúng sinh, chống lại chúng sinh, vì sự tổn hại, suy đồi và khổ đau của chư thiên và loài người. Những Tỳ-kheo ấy tạo ra nhiều điều ác và làm cho Chánh pháp biến mất.
+150\. "Này các *Tỳ kheo* (Mendicants / những vị tu sĩ khất thực), những Tỳ kheo nào giải thích *điều không phạm tội* (non-offense / việc không vi phạm giới luật, không có lỗi) là *điều phạm tội* (offense / việc vi phạm giới luật, có lỗi) thì đang hành động vì sự *bất lợi* (detriment / sự tổn hại, điều không tốt) và *khổ đau* (suffering / sự đau khổ, phiền não) cho dân chúng, chống lại dân chúng, vì sự *tổn hại* (harm / sự gây hại, thiệt hại), bất lợi, và khổ đau của chư thiên và loài người. Họ tạo ra nhiều *điều ác* (wickedness / việc làm xấu xa, tội lỗi) và làm cho *Chánh pháp* (true teaching / giáo lý chân chính của Đức Phật) biến mất."
 
 <!--pg-->
-160\. Này các Tỳ-kheo, những Tỳ-kheo nào giải thích không phạm giới là không phạm giới, thì họ hành động vì lợi ích và an lạc của chúng sinh, vì chúng sinh, vì lợi ích, an lạc và hạnh phúc của chư thiên và loài người. Những Tỳ-kheo ấy tạo ra nhiều công đức và làm cho Chánh pháp tồn tại.
+151\. "Này các Tỳ kheo, những Tỳ kheo nào giải thích điều phạm tội là điều không phạm tội thì đang hành động vì sự bất lợi và khổ đau cho dân chúng, chống lại dân chúng, vì sự tổn hại, bất lợi, và khổ đau của chư thiên và loài người. Những Tỳ kheo ấy tạo ra nhiều điều ác và làm cho Chánh pháp biến mất."
 
 <!--pg-->
-161\. Này các Tỳ-kheo, những Tỳ-kheo nào giải thích phạm giới là phạm giới, thì họ hành động vì lợi ích và an lạc của chúng sinh, vì chúng sinh, vì lợi ích, an lạc và hạnh phúc của chư thiên và loài người. Những Tỳ-kheo ấy tạo ra nhiều công đức và làm cho Chánh pháp tồn tại.
+152--159\. "Những Tỳ kheo nào giải thích một *lỗi nhẹ* (light offense / tội không nghiêm trọng) là một *lỗi nặng* (serious offense / tội nghiêm trọng)... một lỗi nặng là một lỗi nhẹ... một tội phạm với *ý đồ xấu* (corrupt intention / ý định không trong sạch, tâm bất thiện) là một tội phạm không với ý đồ xấu... một tội phạm không với ý đồ xấu là một tội phạm với ý đồ xấu... một *tội cần phục hồi* (offense requiring rehabilitation / tội cần được sám hối và phục hồi giới thể) là một tội không cần phục hồi... một tội không cần phục hồi là một tội cần phục hồi... một *tội có thể sửa chữa* (offense with redress / tội có thể khắc phục được) là một *tội không thể sửa chữa* (offense without redress / tội không thể khắc phục được)... một tội không thể sửa chữa là một tội có thể sửa chữa, thì đang hành động vì sự bất lợi và khổ đau cho dân chúng, chống lại dân chúng, vì sự tổn hại, bất lợi, và khổ đau của chư thiên và loài người. Những Tỳ kheo ấy tạo ra nhiều điều ác và làm cho Chánh pháp biến mất."
 
 <!--pg-->
-162--169\. Những Tỳ-kheo nào giải thích phạm giới nhẹ là phạm giới nhẹ... phạm giới nặng là phạm giới nặng... phạm giới có chủ ý xấu là phạm giới có chủ ý xấu... phạm giới không có chủ ý xấu là phạm giới không có chủ ý xấu... phạm giới cần phục hồi là phạm giới cần phục hồi... phạm giới không cần phục hồi là phạm giới không cần phục hồi... phạm giới có thể sửa chữa là phạm giới có thể sửa chữa... phạm giới không thể sửa chữa là phạm giới không thể sửa chữa, thì họ hành động vì lợi ích và an lạc của chúng sinh, vì chúng sinh, vì lợi ích, an lạc và hạnh phúc của chư thiên và loài người. Những Tỳ-kheo ấy tạo ra nhiều công đức và làm cho Chánh pháp tồn tại.
+160\. "Này các Tỳ kheo, những Tỳ kheo nào giải thích điều không phạm tội là điều không phạm tội thì đang hành động vì sự *an vui* (welfare / sự tốt đẹp, yên ổn) và *hạnh phúc* (happiness / niềm vui sướng) cho dân chúng, vì dân chúng, vì *lợi ích* (benefit / điều có ích, phước lợi), an vui, và hạnh phúc của chư thiên và loài người. Họ tạo ra nhiều *công đức* (merit / phước báu do làm điều thiện) và làm cho Chánh pháp tiếp tục."
 
 <!--pg-->
-Từ ngữ:
-- Tỳ-kheo - Mendicants - Bhikkhu : người xuất gia thọ giới Cụ túc trong Phật giáo.
-- Không phạm giới - Non-offense - anāpatti : trạng thái không vi phạm giới luật (classic: vô phạm).
-- Phạm giới - Offense - āpatti : hành vi vi phạm giới luật của Tỳ-kheo (classic: phạm).
-- Chánh pháp - True teaching - saddhamma : giáo pháp chân chính của Đức Phật.
-- Phạm giới nhẹ - Light offense - lahukā āpatti : vi phạm giới luật có mức độ nhẹ (classic: khinh phạm).
-- Phạm giới nặng - Serious offense - garukā āpatti : vi phạm giới luật có mức độ nặng (classic: trọng phạm).
-- Phạm giới có chủ ý xấu - Offense committed with corrupt intention - sacetanikā āpatti : vi phạm giới luật được thực hiện với ý định xấu (classic: hữu ý phạm).
-- Phạm giới không có chủ ý xấu - Offense not committed with corrupt intention - acetanikā āpatti : vi phạm giới luật được thực hiện mà không có ý định xấu (classic: vô ý phạm).
-- Phạm giới cần phục hồi - Offense requiring rehabilitation - satekicchā āpatti : vi phạm giới luật mà Tỳ-kheo cần thực hiện các biện pháp phục hồi (như sám hối, bị xử phạt) để được thanh tịnh trở lại (classic: hữu trị phạm).
-- Phạm giới không cần phục hồi - Offense not requiring rehabilitation - atekicchā āpatti : vi phạm giới luật mà Tỳ-kheo không thể phục hồi bằng cách sám hối hay xử phạt (ví dụ: Ba-la-di) (classic: vô trị phạm).
-- Phạm giới có thể sửa chữa - Offense with redress - sappatikammā āpatti : vi phạm giới luật mà Tỳ-kheo có thể sửa chữa hoặc sám hối để khắc phục (classic: hữu đối trị phạm).
-- Phạm giới không thể sửa chữa - Offense without redress - appatikammā āpatti : vi phạm giới luật mà Tỳ-kheo không thể sửa chữa hoặc sám hối để khắc phục (ví dụ: Ba-la-di) (classic: vô đối trị phạm).
+161\. "Này các Tỳ kheo, những Tỳ kheo nào giải thích điều phạm tội là điều phạm tội thì đang hành động vì sự an vui và hạnh phúc cho dân chúng, vì dân chúng, vì lợi ích, an vui, và hạnh phúc của chư thiên và loài người. Họ tạo ra nhiều công đức và làm cho Chánh pháp tiếp tục."
+
+<!--pg-->
+162--169\. "Những Tỳ kheo nào giải thích một lỗi nhẹ là một lỗi nhẹ... một lỗi nặng là một lỗi nặng... một tội phạm với ý đồ xấu là một tội phạm với ý đồ xấu... một tội phạm không với ý đồ xấu là một tội phạm không với ý đồ xấu... một tội cần phục hồi là một tội cần phục hồi... một tội không cần phục hồi là một tội không cần phục hồi... một tội có thể sửa chữa là một tội có thể sửa chữa... một tội không thể sửa chữa là một tội không thể sửa chữa, thì đang hành động vì sự an vui và hạnh phúc cho dân chúng, vì dân chúng, vì lợi ích, an vui, và hạnh phúc của chư thiên và loài người. Họ tạo ra nhiều công đức và làm cho Chánh pháp tiếp tục."
+
+<!--pg-->

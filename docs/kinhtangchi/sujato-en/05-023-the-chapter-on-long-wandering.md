@@ -1,6 +1,6 @@
 # The Chapter on Long Wandering
 
-### N 5.221 Long Wandering (1st)  *Paṭhamadīghacārikasutta*
+### AN 5.221 Long Wandering (1st)  *Paṭhamadīghacārikasutta*
 
 "Mendicants, there are these five drawbacks for someone who likes long
 and aimless wandering. What five? You don't learn new things. You don't
@@ -16,7 +16,7 @@ illness. You have friends. These are the five benefits of a reasonable
 amount of wandering."
 
 <!--pg-->
-### N 5.222 Long Wandering (2nd)  *Dutiyadīghacārikasutta*
+### AN 5.222 Long Wandering (2nd)  *Dutiyadīghacārikasutta*
 
 "Mendicants, there are these five drawbacks for someone who likes long
 and aimless wandering. What five? You don't achieve the unachieved. What
@@ -32,7 +32,7 @@ contract severe illness. You have friends. These are the five benefits
 of a reasonable amount of wandering."
 
 <!--pg-->
-### N 5.223 Overstaying  *Atinivāsasutta*
+### AN 5.223 Overstaying  *Atinivāsasutta*
 
 "Mendicants, there are these five drawbacks of overstaying. What five?
 You have a lot of stuff and store it up. You have a lot of medicine and
@@ -52,7 +52,7 @@ don't miss it. These are the five benefits of staying for a reasonable
 length of time."
 
 <!--pg-->
-### N 5.224 Stingy  *Maccharīsutta*
+### AN 5.224 Stingy  *Maccharīsutta*
 
 "Mendicants, there are these five drawbacks of overstaying. What five?
 You become stingy with dwellings, families, material things, praise, and
@@ -64,7 +64,7 @@ things, praise, and the teaching. These are the five benefits of staying
 for a reasonable length of time."
 
 <!--pg-->
-### N 5.225 Visiting Families (1st)  *Paṭhamakulūpakasutta*
+### AN 5.225 Visiting Families (1st)  *Paṭhamakulūpakasutta*
 
 "Mendicants, there are these five drawbacks of visiting families. What
 five? You fall into an offense for wandering without leave. You fall
@@ -76,7 +76,7 @@ a lot of sensual thoughts. These are the five drawbacks of visiting
 families."
 
 <!--pg-->
-### N 5.226 Visiting Families (2nd)  *Dutiyakulūpakasutta*
+### AN 5.226 Visiting Families (2nd)  *Dutiyakulūpakasutta*
 
 "Mendicants, there are these five drawbacks for a mendicant who visits
 families for too long, mixing closely with them. What five? You often
@@ -89,7 +89,7 @@ drawbacks for a mendicant who visits families for too long, mixing
 closely with them."
 
 <!--pg-->
-### N 5.227 Riches  *Bhogasutta*
+### AN 5.227 Riches  *Bhogasutta*
 
 "Mendicants, there are these five drawbacks of riches. What five? Fire,
 water, kings, thieves, and unloved heirs all take a share. These are the
@@ -104,7 +104,7 @@ brahmins that's conducive to heaven, ripens in happiness, and leads to
 heaven. These are the five benefits of riches."
 
 <!--pg-->
-### N 5.228 Eating Late  *Ussūrabhattasutta*
+### AN 5.228 Eating Late  *Ussūrabhattasutta*
 
 "Mendicants, there are these five drawbacks for a family who takes their
 meals late in the day. What five? When guests visit, they are not served
@@ -125,7 +125,7 @@ proper period is nutritious. These are the five benefits for a family
 who takes their meals at a proper time."
 
 <!--pg-->
-### N 5.229 Black Snakes (1st)  *Paṭhamakaṇhasappasutta*
+### AN 5.229 Black Snakes (1st)  *Paṭhamakaṇhasappasutta*
 
 "Mendicants, there are these five drawbacks of a black snake. What five?
 It's filthy, stinking, cowardly, frightening, and treacherous. These are
@@ -136,7 +136,7 @@ filthy, stinking, cowardly, frightening, and treacherous. These are the
 five drawbacks of a female."
 
 <!--pg-->
-### N 5.230 Black Snakes (2nd)  *Dutiyakaṇhasappasutta*
+### AN 5.230 Black Snakes (2nd)  *Dutiyakaṇhasappasutta*
 
 "Mendicants, there are these five drawbacks of a black snake. What five?
 It's irritable, acrimonious, venomous, fork-tongued, and treacherous.

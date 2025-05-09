@@ -1,6 +1,6 @@
 # Phẩm về Nghiệp
 
-### N 4.232 Nghiệp Tóm Tắt *Kinh Saṁkhitta*
+### AN 4.232 Nghiệp Tóm Tắt *Kinh Saṁkhitta*
 
 "Này các Tỳ kheo, Ta tuyên bố bốn loại *nghiệp* (deeds / hành động có chủ ý) này, sau khi đã tự mình chứng ngộ bằng trí tuệ. Bốn loại nào?
 
@@ -12,7 +12,7 @@
 Đây là bốn loại nghiệp mà Ta tuyên bố, sau khi đã tự mình chứng ngộ bằng trí tuệ."
 
 <!--pg-->
-### N 4.233 Nghiệp Chi Tiết *Kinh Vitthāra*
+### AN 4.233 Nghiệp Chi Tiết *Kinh Vitthāra*
 
 "Này các Tỳ kheo, Ta tuyên bố bốn loại nghiệp này, sau khi đã tự mình chứng ngộ bằng trí tuệ. Bốn loại nào?
 
@@ -32,7 +32,7 @@ Và thế nào là nghiệp không đen không trắng, quả không đen không
 Đây là bốn loại nghiệp mà Ta tuyên bố, sau khi đã tự mình chứng ngộ bằng trí tuệ."
 
 <!--pg-->
-### N 4.234 Về Soṇakāyana *Kinh Soṇakāyana*
+### AN 4.234 Về Soṇakāyana *Kinh Soṇakāyana*
 
 Khi ấy, Bà la môn Sikhāmoggallāna đến gặp Đức Phật và chào hỏi Ngài. Sau khi chào hỏi và nói chuyện thân mật xong, Bà la môn Sikhāmoggallāna ngồi xuống một bên và thưa với Đức Phật:
 
@@ -56,7 +56,7 @@ Và thế nào là nghiệp không đen không trắng, quả không đen không
 Đây là bốn loại nghiệp mà Ta tuyên bố, sau khi đã tự mình chứng ngộ bằng trí tuệ."
 
 <!--pg-->
-### N 4.235 Giới Học (1) *Kinh Giới Học Thứ Nhất*
+### AN 4.235 Giới Học (1) *Kinh Giới Học Thứ Nhất*
 
 "Này các Tỳ kheo, Ta tuyên bố bốn loại nghiệp này, sau khi đã tự mình chứng ngộ bằng trí tuệ. Bốn loại nào?
 
@@ -76,7 +76,7 @@ Và thế nào là nghiệp không đen không trắng, quả không đen không
 Đây là bốn loại nghiệp mà Ta tuyên bố, sau khi đã tự mình chứng ngộ bằng trí tuệ."
 
 <!--pg-->
-### N 4.236 Giới Học (2) *Kinh Giới Học Thứ Hai*
+### AN 4.236 Giới Học (2) *Kinh Giới Học Thứ Hai*
 
 "Này các Tỳ kheo, Ta tuyên bố bốn loại nghiệp này, sau khi đã tự mình chứng ngộ bằng trí tuệ. Bốn loại nào?
 
@@ -96,7 +96,7 @@ Và thế nào là nghiệp không đen không trắng, quả không đen không
 Đây là bốn loại nghiệp mà Ta tuyên bố, sau khi đã tự mình chứng ngộ bằng trí tuệ."
 
 <!--pg-->
-### N 4.237 Thánh Đạo *Kinh Thánh Đạo*
+### AN 4.237 Thánh Đạo *Kinh Thánh Đạo*
 
 "Này các Tỳ kheo, Ta tuyên bố bốn loại nghiệp này, sau khi đã tự mình chứng ngộ bằng trí tuệ. Bốn loại nào?
 
@@ -116,7 +116,7 @@ Và thế nào là nghiệp không đen không trắng, quả không đen không
 Đây là bốn loại nghiệp mà Ta tuyên bố, sau khi đã tự mình chứng ngộ bằng trí tuệ."
 
 <!--pg-->
-### N 4.238 Giác Chi *Kinh Giác Chi*
+### AN 4.238 Giác Chi *Kinh Giác Chi*
 
 "Này các Tỳ kheo, Ta tuyên bố bốn loại nghiệp này, sau khi đã tự mình chứng ngộ bằng trí tuệ....
 
@@ -131,21 +131,21 @@ Và thế nào là nghiệp không đen không trắng, quả không đen không
 Đây là bốn loại nghiệp mà Ta tuyên bố, sau khi đã tự mình chứng ngộ bằng trí tuệ."
 
 <!--pg-->
-### N 4.239 Đáng Chê Trách *Kinh Sāvajja*
+### AN 4.239 Đáng Chê Trách *Kinh Sāvajja*
 
 "Này các Tỳ kheo, người có bốn pháp này sẽ bị rơi vào địa ngục. Bốn pháp nào? Hành động đáng chê trách qua thân, khẩu, ý, và *tà kiến* (blameworthy view / thấy biết sai lệch). Người có bốn pháp này sẽ bị rơi vào địa ngục.
 
 Người có bốn pháp này sẽ được sinh lên cõi trời. Bốn pháp nào? Hành động không đáng chê trách qua thân, khẩu, ý, và chánh kiến. Người có bốn pháp này sẽ được sinh lên cõi trời."
 
 <!--pg-->
-### N 4.240 An Lạc *Kinh Abyābajjha*
+### AN 4.240 An Lạc *Kinh Abyābajjha*
 
 "Này các Tỳ kheo, người có bốn pháp này sẽ bị rơi vào địa ngục. Bốn pháp nào? Hành động gây tổn hại qua thân, khẩu, ý, và tà kiến. Người có bốn pháp này sẽ bị rơi vào địa ngục.
 
 Người có bốn pháp này sẽ được sinh lên cõi trời. Bốn pháp nào? Hành động an lạc qua thân, khẩu, ý, và chánh kiến. Người có bốn pháp này sẽ được sinh lên cõi trời."
 
 <!--pg-->
-### N 4.241 Sa Môn *Kinh Sa Môn*
+### AN 4.241 Sa Môn *Kinh Sa Môn*
 
 "'Chỉ ở đây mới có vị *Sa môn* (ascetic / người tu hành, xuất gia) thứ nhất, ở đây có vị Sa môn thứ hai, ở đây có vị Sa môn thứ ba, và ở đây có vị Sa môn thứ tư. Các giáo phái khác đều không có Sa môn.' Này các Tỳ kheo, các ngươi hãy rống tiếng rống sư tử một cách chân chánh như vậy.
 
@@ -160,6 +160,6 @@ Và ai là vị Sa môn thứ tư? Đó là vị Tỳ kheo chứng ngộ *vô l�
 'Chỉ ở đây mới có vị Sa môn thứ nhất, ở đây có vị Sa môn thứ hai, ở đây có vị Sa môn thứ ba, và ở đây có vị Sa môn thứ tư. Các giáo phái khác đều không có Sa môn.' Này các Tỳ kheo, các ngươi hãy rống tiếng rống sư tử một cách chân chánh như vậy."
 
 <!--pg-->
-### N 4.242 Lợi Ích Của Việc Thân Cận Bậc Chân Nhân *Kinh Lợi Ích Bậc Chân Nhân*
+### AN 4.242 Lợi Ích Của Việc Thân Cận Bậc Chân Nhân *Kinh Lợi Ích Bậc Chân Nhân*
 
 "Này các Tỳ kheo, các ngươi có thể mong đợi bốn lợi ích từ việc thân cận bậc chân nhân. Bốn lợi ích nào? Sự tăng trưởng về *giới* (noble ethics / các quy tắc đạo đức), định, *tuệ* (wisdom / trí tuệ hiểu biết thực tánh), và *giải thoát* (freedom / sự cởi bỏ mọi ràng buộc). Các ngươi có thể mong đợi bốn lợi ích này từ việc thân cận bậc chân nhân."

@@ -1,6 +1,6 @@
 # The Chapter on Ascetics
 
-### N 3.81 Ascetics  *Samaṇasutta*
+### AN 3.81 Ascetics  *Samaṇasutta*
 
 "Mendicants, there are three duties of an ascetic. What three?
 Undertaking the training in the higher ethics, the higher mind, and the
@@ -11,7 +11,7 @@ undertaking the training in the higher ethics, the higher mind, and the
 higher wisdom.' That's how you should train."
 
 <!--pg-->
-### N 3.82 The Donkey  *Gadrabhasutta*
+### AN 3.82 The Donkey  *Gadrabhasutta*
 
 "Suppose, mendicants, a donkey followed behind a herd of cattle,
 thinking: 'I can moo too! I can moo too!' But it doesn't look like a
@@ -31,7 +31,7 @@ undertaking the training in the higher ethics, the higher mind, and the
 higher wisdom.' That's how you should train."
 
 <!--pg-->
-### N 3.83 Fields  *Khettasutta*
+### AN 3.83 Fields  *Khettasutta*
 
 "Mendicants, a farmer has three primary duties. What three? A farmer
 first of all makes sure the field is well ploughed and tilled. Next they
@@ -47,7 +47,7 @@ undertaking the training in the higher ethics, the higher mind, and the
 higher wisdom.' That's how you should train."
 
 <!--pg-->
-### N 3.84 The Vajji  *Vajjiputtasutta*
+### AN 3.84 The Vajji  *Vajjiputtasutta*
 
 At one time the Buddha was staying near Vesālī, at the
 Great Wood, in the hall with the peaked roof. Then a certain Vajji monk
@@ -72,7 +72,7 @@ and the higher wisdom. He gave up greed, hate, and delusion. Then he
 didn't do anything unskillful, or practice anything bad.
 
 <!--pg-->
-### N 3.85 A Trainee  *Sekkhasutta*
+### AN 3.85 A Trainee  *Sekkhasutta*
 
 Then a mendicant went up to the Buddha, bowed, sat down to one side, and
 said to him:
@@ -95,7 +95,7 @@ the higher wisdom. They train, that's why they're called 'a trainee'.
 > 'My freedom is unshakable.'"
 
 <!--pg-->
-### N 3.86 Training (1st)  *Paṭhamasikkhāsutta*
+### AN 3.86 Training (1st)  *Paṭhamasikkhāsutta*
 
 "Mendicants, each fortnight over a hundred and fifty training rules come
 up for recitation, in which gentlemen who care for their own welfare
@@ -145,7 +145,7 @@ practice fully you succeed fully. These training rules are not a waste,
 I say."
 
 <!--pg-->
-### N 3.87 Training (2nd)  *Dutiyasikkhāsutta*
+### AN 3.87 Training (2nd)  *Dutiyasikkhāsutta*
 
 "Mendicants, each fortnight over a hundred and fifty training rules come
 up for recitation, in which gentlemen who care for their own welfare
@@ -197,7 +197,7 @@ practice fully you succeed fully. These training rules are not a waste,
 I say."
 
 <!--pg-->
-### N 3.88 Training (3rd)  *Tatiyasikkhāsutta*
+### AN 3.88 Training (3rd)  *Tatiyasikkhāsutta*
 
 "Mendicants, each fortnight over a hundred and fifty training rules come
 up for recitation, in which gentlemen who care for their own welfare
@@ -252,7 +252,7 @@ partially you succeed partially. These training rules are not a waste, I
 say."
 
 <!--pg-->
-### N 3.89 Three Trainings (1st)  *Paṭhamasikkhattayasutta*
+### AN 3.89 Three Trainings (1st)  *Paṭhamasikkhattayasutta*
 
 "Mendicants, these are the three trainings. What three? The training in
 the higher ethics, the higher mind, and the higher wisdom.
@@ -276,7 +276,7 @@ cessation of suffering'. This is called the training in the higher
 wisdom. These are the three trainings."
 
 <!--pg-->
-### N 3.90 Three Trainings (2nd)  *Dutiyasikkhattayasutta*
+### AN 3.90 Three Trainings (2nd)  *Dutiyasikkhattayasutta*
 
 "Mendicants, these are the three trainings. What three? The training in
 the higher ethics, the higher mind, and the higher wisdom.
@@ -325,7 +325,7 @@ wisdom. These are the three trainings.
 > is like a lamp going out."
 
 <!--pg-->
-### N 3.91 At Paṅkadhā  *Saṅkavāsutta*
+### AN 3.91 At Paṅkadhā  *Saṅkavāsutta*
 
 At one time the Buddha was wandering in the land of the Kosalans
 together with a large Saṅgha of mendicants. He arrived at a

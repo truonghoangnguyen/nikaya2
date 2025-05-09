@@ -337,7 +337,7 @@ const sujato_tmc_vi = [
       "slug": "01-017-pham-chung-tu",
       "data": {
         "title": "XVII. Phẩm Chủng Tử",
-        "left": "/kinhtangchi/sujato-vi/01-016-four-chapters-on-one-thing-2.md",
+        "left": "/kinhtangchi/sujato-vi/01-017-four-chapters-on-one-thing-2.md",
         "right": "/kinhtangchi/thichminhchau/01-017-pham-chung-tu.md",
         "leftTitle": "Bhikkhu Sujato",
         "rightTitle": "Tỳ Kheo Thích Minh Châu",
@@ -358,7 +358,7 @@ const sujato_tmc_vi = [
       "slug": "01-018-pham-makkhali",
       "data": {
         "title": "XVIII. Phẩm Makkhali",
-        "left": "/kinhtangchi/sujato-vi/01-016-four-chapters-on-one-thing-3.md",
+        "left": "/kinhtangchi/sujato-vi/01-018-four-chapters-on-one-thing-3.md",
         "right": "/kinhtangchi/thichminhchau/01-018-pham-makkhali.md",
         "leftTitle": "Bhikkhu Sujato",
         "rightTitle": "Tỳ Kheo Thích Minh Châu",
@@ -379,7 +379,7 @@ const sujato_tmc_vi = [
       "slug": "01-019-pham-khong-phong-dat",
       "data": {
         "title": "XIX. Phẩm Không Phóng Dật",
-        "left": "/kinhtangchi/sujato-vi/01-016-four-chapters-on-one-thing-4.md",
+        "left": "/kinhtangchi/sujato-vi/01-019-four-chapters-on-one-thing-4.md",
         "right": "/kinhtangchi/thichminhchau/01-019-pham-khong-phong-dat.md",
         "leftTitle": "Bhikkhu Sujato",
         "rightTitle": "Tỳ Kheo Thích Minh Châu",
@@ -400,7 +400,7 @@ const sujato_tmc_vi = [
       "slug": "01-020-pham-thien-dinh-that-su-la-vay",
       "data": {
         "title": "XX. Phẩm Thiền Định (Thật Sự Là Vậy)",
-        "left": "/kinhtangchi/sujato-vi/01-017-the-chapter-on-inspiring-qualities.md",
+        "left": "/kinhtangchi/sujato-vi/01-020-the-chapter-on-inspiring-qualities.md",
         "right": "/kinhtangchi/thichminhchau/01-020-pham-thien-dinh-that-su-la-vay.md",
         "leftTitle": "Bhikkhu Sujato",
         "rightTitle": "Tỳ Kheo Thích Minh Châu",
@@ -421,7 +421,7 @@ const sujato_tmc_vi = [
       "slug": "01-021-pham-thien-dinh-bung-ngon-tay",
       "data": {
         "title": "XX. Phẩm Thiền Định (Búng Ngón Tay)",
-        "left": "/kinhtangchi/sujato-vi/01-018-another-chapter-on-a-finger-snap.md",
+        "left": "/kinhtangchi/sujato-vi/01-021-another-chapter-on-a-finger-snap.md",
         "right": "/kinhtangchi/thichminhchau/01-021-pham-thien-dinh-bung-ngon-tay.md",
         "leftTitle": "Bhikkhu Sujato",
         "rightTitle": "Tỳ Kheo Thích Minh Châu",
@@ -442,7 +442,7 @@ const sujato_tmc_vi = [
       "slug": "01-022-pham-thien-dinh-2-than-hanh-niem",
       "data": {
         "title": "XXI. Phẩm Thiền Ðịnh (2) (Thân Hành Niệm)",
-        "left": "/kinhtangchi/sujato-vi/01-019-the-chapter-on-mindfulness-of-the-body.md",
+        "left": "/kinhtangchi/sujato-vi/01-022-the-chapter-on-mindfulness-of-the-body.md",
         "right": "/kinhtangchi/thichminhchau/01-022-pham-thien-dinh-2-than-hanh-niem.md",
         "leftTitle": "Bhikkhu Sujato",
         "rightTitle": "Tỳ Kheo Thích Minh Châu",
@@ -463,7 +463,7 @@ const sujato_tmc_vi = [
       "slug": "01-023-pham-thien-dinh-2-bat-tu",
       "data": {
         "title": "XXI. Phẩm Thiền Ðịnh (2) (Bất Tử)",
-        "left": "/kinhtangchi/sujato-vi/01-020-the-chapter-on-freedom-from-death.md",
+        "left": "/kinhtangchi/sujato-vi/01-023-the-chapter-on-freedom-from-death.md",
         "right": "/kinhtangchi/thichminhchau/01-023-pham-thien-dinh-2-bat-tu.md",
         "leftTitle": "Bhikkhu Sujato",
         "rightTitle": "Tỳ Kheo Thích Minh Châu",
@@ -789,18 +789,18 @@ const sujato_tmc_vi = [
         },
         "nextlink": {
           "text": "XVI. Phẩm Phẫn Nộ",
-          "link": "/kinhtangchi/c-sujato-tmc-vi/02-016-1-pham-phan-no"
+          "link": "/kinhtangchi/c-sujato-tmc-vi/02-016-pham-phan-no"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "02-016-1-pham-phan-no",
+      "slug": "02-016-pham-phan-no",
       "data": {
         "title": "XVI. Phẩm Phẫn Nộ",
         "left": "/kinhtangchi/sujato-vi/02-016-the-chapter-of-abbreviated-texts-beginning-with-anger.md",
-        "right": "/kinhtangchi/thichminhchau/02-016-1-pham-phan-no.md",
+        "right": "/kinhtangchi/thichminhchau/02-016-pham-phan-no.md",
         "leftTitle": "Bhikkhu Sujato",
         "rightTitle": "Tỳ Kheo Thích Minh Châu",
         "notePath": "",
@@ -809,67 +809,25 @@ const sujato_tmc_vi = [
           "link": "/kinhtangchi/c-sujato-tmc-vi/02-015-pham-nhap-dinh"
         },
         "nextlink": {
-          "text": "XVI. Phẩm Phẫn Nộ (2)",
-          "link": "/kinhtangchi/c-sujato-tmc-vi/02-016-2-pham-phan-no"
+          "text": "XVII. Phẩm Thứ Mười Bảy",
+          "link": "/kinhtangchi/c-sujato-tmc-vi/02-017-pham-thu-muoi-bay"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "02-016-2-pham-phan-no",
+      "slug": "02-017-pham-thu-muoi-bay",
       "data": {
-        "title": "XVI. Phẩm Phẫn Nộ (2)",
-        "left": "/kinhtangchi/sujato-vi/02-017-the-chapter-of-abbreviated-texts-beginning-with-the-unskillful.md",
-        "right": "/kinhtangchi/thichminhchau/02-016-2-pham-phan-no.md",
+        "title": "XVII. Phẩm Thứ Mười Bảy",
+        "left": "/kinhtangchi/sujato-vi/02-017-the-chapter-of-abbreviated-texts-on-monastic-law.md",
+        "right": "/kinhtangchi/thichminhchau/02-017-pham-thu-muoi-bay.md",
         "leftTitle": "Bhikkhu Sujato",
         "rightTitle": "Tỳ Kheo Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "XVI. Phẩm Phẫn Nộ",
-          "link": "/kinhtangchi/c-sujato-tmc-vi/02-016-1-pham-phan-no"
-        },
-        "nextlink": {
-          "text": "XVII. Phẩm Thứ Mười Bảy",
-          "link": "/kinhtangchi/c-sujato-tmc-vi/02-017-1-pham-thu-muoi-bay"
-        }
-      }
-    }
-  },
-  {
-    "params": {
-      "slug": "02-017-1-pham-thu-muoi-bay",
-      "data": {
-        "title": "XVII. Phẩm Thứ Mười Bảy",
-        "left": "/kinhtangchi/sujato-vi/02-018-the-chapter-of-abbreviated-texts-on-monastic-law.md",
-        "right": "/kinhtangchi/thichminhchau/02-017-1-pham-thu-muoi-bay.md",
-        "leftTitle": "Bhikkhu Sujato",
-        "rightTitle": "Tỳ Kheo Thích Minh Châu",
-        "notePath": "",
-        "backlink": {
-          "text": "XVI. Phẩm Phẫn Nộ (2)",
-          "link": "/kinhtangchi/c-sujato-tmc-vi/02-016-2-pham-phan-no"
-        },
-        "nextlink": {
-          "text": "XVII. Phẩm Thứ Mười Bảy (2)",
-          "link": "/kinhtangchi/c-sujato-tmc-vi/02-017-2-pham-thu-muoi-bay"
-        }
-      }
-    }
-  },
-  {
-    "params": {
-      "slug": "02-017-2-pham-thu-muoi-bay",
-      "data": {
-        "title": "XVII. Phẩm Thứ Mười Bảy (2)",
-        "left": "/kinhtangchi/sujato-vi/02-019-the-chapter-of-abbreviated-texts-beginning-with-greed.md",
-        "right": "/kinhtangchi/thichminhchau/02-017-2-pham-thu-muoi-bay.md",
-        "leftTitle": "Bhikkhu Sujato",
-        "rightTitle": "Tỳ Kheo Thích Minh Châu",
-        "notePath": "",
-        "backlink": {
-          "text": "XVII. Phẩm Thứ Mười Bảy",
-          "link": "/kinhtangchi/c-sujato-tmc-vi/02-017-1-pham-thu-muoi-bay"
+          "link": "/kinhtangchi/c-sujato-tmc-vi/02-016-pham-phan-no"
         },
         "nextlink": {
           "text": "I. Phẩm Người Ngu",
@@ -889,8 +847,8 @@ const sujato_tmc_vi = [
         "rightTitle": "Tỳ Kheo Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "XVII. Phẩm Thứ Mười Bảy (2)",
-          "link": "/kinhtangchi/c-sujato-tmc-vi/02-017-2-pham-thu-muoi-bay"
+          "text": "XVII. Phẩm Thứ Mười Bảy",
+          "link": "/kinhtangchi/c-sujato-tmc-vi/02-017-pham-thu-muoi-bay"
         },
         "nextlink": {
           "text": "II. Phẩm Người Ðóng Xe",
@@ -1188,66 +1146,24 @@ const sujato_tmc_vi = [
         },
         "nextlink": {
           "text": "XVI. Phẩm Lõa Thể",
-          "link": "/kinhtangchi/c-sujato-tmc-vi/03-016-1-pham-loa-the"
+          "link": "/kinhtangchi/c-sujato-tmc-vi/03-016-pham-loa-the"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "03-016-1-pham-loa-the",
+      "slug": "03-016-pham-loa-the",
       "data": {
         "title": "XVI. Phẩm Lõa Thể",
         "left": "/kinhtangchi/sujato-vi/03-016-the-chapter-on-practices.md",
-        "right": "/kinhtangchi/thichminhchau/03-016-1-pham-loa-the.md",
+        "right": "/kinhtangchi/thichminhchau/03-016-pham-loa-the.md",
         "leftTitle": "Bhikkhu Sujato",
         "rightTitle": "Tỳ Kheo Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "XV. Phẩm Cát Tường",
           "link": "/kinhtangchi/c-sujato-tmc-vi/03-015-pham-cat-tuong"
-        },
-        "nextlink": {
-          "text": "XVI. Phẩm Lõa Thể (2)",
-          "link": "/kinhtangchi/c-sujato-tmc-vi/03-016-2-pham-loa-the"
-        }
-      }
-    }
-  },
-  {
-    "params": {
-      "slug": "03-016-2-pham-loa-the",
-      "data": {
-        "title": "XVI. Phẩm Lõa Thể (2)",
-        "left": "/kinhtangchi/sujato-vi/03-017-the-chapter-on-ways-of-performing-deeds.md",
-        "right": "/kinhtangchi/thichminhchau/03-016-2-pham-loa-the.md",
-        "leftTitle": "Bhikkhu Sujato",
-        "rightTitle": "Tỳ Kheo Thích Minh Châu",
-        "notePath": "",
-        "backlink": {
-          "text": "XVI. Phẩm Lõa Thể",
-          "link": "/kinhtangchi/c-sujato-tmc-vi/03-016-1-pham-loa-the"
-        },
-        "nextlink": {
-          "text": "XVI. Phẩm Lõa Thể (3)",
-          "link": "/kinhtangchi/c-sujato-tmc-vi/03-016-3-pham-loa-the"
-        }
-      }
-    }
-  },
-  {
-    "params": {
-      "slug": "03-016-3-pham-loa-the",
-      "data": {
-        "title": "XVI. Phẩm Lõa Thể (3)",
-        "left": "/kinhtangchi/sujato-vi/03-018-the-chapter-on-abbreviated-texts-beginning-with-greed.md",
-        "right": "/kinhtangchi/thichminhchau/03-016-3-pham-loa-the.md",
-        "leftTitle": "Bhikkhu Sujato",
-        "rightTitle": "Tỳ Kheo Thích Minh Châu",
-        "notePath": "",
-        "backlink": {
-          "text": "XVI. Phẩm Lõa Thể (2)",
-          "link": "/kinhtangchi/c-sujato-tmc-vi/03-016-2-pham-loa-the"
         },
         "nextlink": {
           "text": "I. Phẩm Bhandagana",
@@ -1267,8 +1183,8 @@ const sujato_tmc_vi = [
         "rightTitle": "Tỳ Kheo Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "XVI. Phẩm Lõa Thể (3)",
-          "link": "/kinhtangchi/c-sujato-tmc-vi/03-016-3-pham-loa-the"
+          "text": "XVI. Phẩm Lõa Thể",
+          "link": "/kinhtangchi/c-sujato-tmc-vi/03-016-pham-loa-the"
         },
         "nextlink": {
           "text": "II. Phẩm Hành",

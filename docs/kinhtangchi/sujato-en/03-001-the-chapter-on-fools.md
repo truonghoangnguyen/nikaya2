@@ -1,6 +1,6 @@
 # The Chapter on Fools
 
-### N 3.1 Perils  *Bhayasutta*
+### AN 3.1 Perils  *Bhayasutta*
 
 So I have heard.At one time the Buddha was staying near
 Sāvatthī in Jeta's Grove, Anāthapiṇḍika's
@@ -29,7 +29,7 @@ a fool is known, and we will undertake and follow the three things by
 which an astute person is known.' That's how you should train."
 
 <!--pg-->
-### N 3.2 Characteristics  *Lakkhaṇasutta*
+### AN 3.2 Characteristics  *Lakkhaṇasutta*
 
 "A fool is characterized by their deeds, and an astute person is
 characterized by their deeds, for wisdom is made beautiful when it is
@@ -48,7 +48,7 @@ a fool is known, and we will undertake and follow the three things by
 which an astute person is known.' That's how you should train."
 
 <!--pg-->
-### N 3.3 Thinking  *Cintīsutta*
+### AN 3.3 Thinking  *Cintīsutta*
 
 "There are these three characteristics, signs, and manifestations of a
 fool. What three? A fool thinks poorly, speaks poorly, and acts poorly.
@@ -69,7 +69,7 @@ is astute, a true person'. These are the three characteristics, signs,
 and manifestations of an astute person. So you should train ..."
 
 <!--pg-->
-### N 3.4 Mistakes  *Accayasutta*
+### AN 3.4 Mistakes  *Accayasutta*
 
 "A fool is known by three things. What three? They don't recognize when
 they've made a mistake. When they do recognize it they don't deal with
@@ -87,7 +87,7 @@ These are the three things by which an astute person is known. So you
 should train ..."
 
 <!--pg-->
-### N 3.5 Irrational  *Ayonisosutta*
+### AN 3.5 Irrational  *Ayonisosutta*
 
 "A fool is known by three things. What three? They ask a question
 irrationally. They answer a question irrationally. And when someone else
@@ -105,7 +105,7 @@ These are the three things by which an astute person is known. So you
 should train ..."
 
 <!--pg-->
-### N 3.6 Unskillful  *Akusalasutta*
+### AN 3.6 Unskillful  *Akusalasutta*
 
 "A fool is known by three things. What three? Unskillful deeds by way of
 body, speech, and mind.
@@ -119,14 +119,14 @@ These are the three things by which an astute person is known. So you
 should train ..."
 
 <!--pg-->
-### N 3.7 Blameworthy  *Sāvajjasutta*
+### AN 3.7 Blameworthy  *Sāvajjasutta*
 
 "A fool is known by three things. What three? Blameworthy deeds by way
 of body, speech, and mind. ... An astute person is known by blameless
 deeds by way of body, speech, and mind. ..."
 
 <!--pg-->
-### N 3.8 Hurtful  *Sabyābajjhasutta*
+### AN 3.8 Hurtful  *Sabyābajjhasutta*
 
 "A fool is known by three things. What three? Hurtful deeds by way of
 body, speech, and mind. ... An astute person is known by kind deeds by
@@ -139,7 +139,7 @@ qualities by which an astute person is known.' That's how you should
 train."
 
 <!--pg-->
-### N 3.9 Broken  *Khatasutta*
+### AN 3.9 Broken  *Khatasutta*
 
 "When a foolish, incompetent, untrue person has three qualities they
 keep themselves broken and damaged. They deserve to be blamed and
@@ -160,7 +160,7 @@ keep themselves intact and unscathed. They don't deserve to be blamed
 and criticized by sensible people, and they create much merit."
 
 <!--pg-->
-### N 3.10 Stains  *Malasutta*
+### AN 3.10 Stains  *Malasutta*
 
 "Anyone who has three qualities, and has not given up three stains, is
 cast down to hell. What three? They're unethical, and haven't given up

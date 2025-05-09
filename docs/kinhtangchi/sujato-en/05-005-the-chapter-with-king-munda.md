@@ -1,6 +1,6 @@
 # The Chapter with King Muṇḍa
 
-### N 5.41 Getting Rich  *Ādiyasutta*
+### AN 5.41 Getting Rich  *Ādiyasutta*
 
 At one time the Buddha was staying near Sāvatthī in Jeta's
 Grove, Anāthapiṇḍika's monastery. Then the householder
@@ -63,7 +63,7 @@ increasing.' And so he has no regrets in both cases.
 > and they depart to rejoice in heaven."
 
 <!--pg-->
-### N 5.42 A True Person  *Sappurisasutta*
+### AN 5.42 A True Person  *Sappurisasutta*
 
 "Mendicants, a true person is born in a family for the benefit, welfare,
 and happiness of the people. For the benefit, welfare, and happiness of
@@ -89,7 +89,7 @@ the people. ...
 > and by the Divinity, too, they're praised."
 
 <!--pg-->
-### N 5.43 Likable  *Iṭṭhasutta*
+### AN 5.43 Likable  *Iṭṭhasutta*
 
 Then the householder Anāthapiṇḍika went up to the Buddha,
 bowed, and sat down to one side. The Buddha said to him:
@@ -143,7 +143,7 @@ one who gains the heavens.
 > is called 'astute'."
 
 <!--pg-->
-### N 5.44 Agreeable  *Manāpadāyīsutta*
+### AN 5.44 Agreeable  *Manāpadāyīsutta*
 
 At one time the Buddha was staying near Vesālī, at the
 Great Wood, in the hall with the peaked roof. Then the Buddha robed up
@@ -220,7 +220,7 @@ verse:
 > wherever they're reborn."
 
 <!--pg-->
-### N 5.45 Overflowing Merit  *Puññābhisandasutta*
+### AN 5.45 Overflowing Merit  *Puññābhisandasutta*
 
 "Mendicants, there are these five kinds of overflowing merit,
 overflowing goodness. They nurture happiness and are conducive to
@@ -265,14 +265,14 @@ mass of merit.
 > as the rivers bring their waters to the sea."
 
 <!--pg-->
-### N 5.46 Success  *Sampadāsutta*
+### AN 5.46 Success  *Sampadāsutta*
 
 "Mendicants, there are five accomplishments. What five? Accomplishment
 in faith, ethics, learning, generosity, and wisdom. These are the five
 accomplishments."
 
 <!--pg-->
-### N 5.47 Wealth  *Dhanasutta*
+### AN 5.47 Wealth  *Dhanasutta*
 
 "Mendicants, there are these five kinds of wealth. What five? The wealth
 of faith, ethics, learning, generosity, and wisdom.
@@ -323,7 +323,7 @@ These are the five kinds of wealth.
 > remembering the instructions of the Buddhas."
 
 <!--pg-->
-### N 5.48 Things That Cannot Be Had  *Alabbhanīyaṭhānasutta*
+### AN 5.48 Things That Cannot Be Had  *Alabbhanīyaṭhānasutta*
 
 "Mendicants, there are five things that cannot be had by any ascetic or
 brahmin or god or Māra or divinity or by anyone in the
@@ -415,7 +415,7 @@ or god or Māra or divinity or by anyone in the world.
 > 'The deed is powerful. What can I do now?'"
 
 <!--pg-->
-### N 5.49 The King of Kosala  *Kosalasutta*
+### AN 5.49 The King of Kosala  *Kosalasutta*
 
 At one time the Buddha was staying near Sāvatthī in Jeta's
 Grove, Anāthapiṇḍika's monastery. Then King Pasenadi of
@@ -434,7 +434,7 @@ old age should not grow old. ... Sorrowing and lamenting doesn't do even
 a little bit of good ... 'The deed is powerful. What can I do now?'"
 
 <!--pg-->
-### N 5.50 With Nārada  *Nāradasutta*
+### AN 5.50 With Nārada  *Nāradasutta*
 
 At one time Venerable Nārada was staying near
 Pāṭaliputta, in the Chicken Monastery.

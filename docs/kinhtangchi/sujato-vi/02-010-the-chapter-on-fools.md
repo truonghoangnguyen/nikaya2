@@ -1,6 +1,6 @@
 # Phẩm Kẻ Ngu
 
-### N 2.98--117 *Bālavagga*
+### AN 2.98--117 *Bālavagga*
 
 98\. "Này các Tỳ kheo, có hai hạng người ngu. Thế nào là hai? Người gánh trách nhiệm đối với việc chưa xảy ra, và người không gánh trách nhiệm đối với việc đã xảy ra. Đây là hai hạng người ngu."
 

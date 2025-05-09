@@ -1,7 +1,7 @@
 # Abbreviated Texts Beginning with Greed
 
 <!--pg-->
-### N 4.274 Mindfulness Meditation *Satipaṭṭhānasutta*
+### AN 4.274 Mindfulness Meditation *Satipaṭṭhānasutta*
 
 "For insight into greed, four things should be developed. What four?
 Firstly, a mendicant meditates by observing an aspect of the
@@ -12,7 +12,7 @@ displeasure for the world. For insight into greed, these four things
 should be developed."
 
 <!--pg-->
-### N 4.275 Right Efforts *Sammappadhānasutta*
+### AN 4.275 Right Efforts *Sammappadhānasutta*
 
 "For insight into greed, four things should be developed. What four?
 Firstly, a mendicant generates enthusiasm, tries, makes an effort,
@@ -24,7 +24,7 @@ fulfilled by development. For insight into greed, these four things
 should be developed."
 
 <!--pg-->
-### N 4.276 Bases of Psychic Power *Iddhipādasutta*
+### AN 4.276 Bases of Psychic Power *Iddhipādasutta*
 
 "For insight into greed, four things should be developed. What four?
 It's when a mendicant develops the basis of psychic power that has
@@ -34,13 +34,13 @@ of psychic power that has immersion due to energy ... mental development
 things should be developed."
 
 <!--pg-->
-### N 4.277--303 Complete Understanding, Etc. *Pariññādisutta*
+### AN 4.277--303 Complete Understanding, Etc. *Pariññādisutta*
 
 "For the complete understanding ... finishing ... giving up ... ending
 ... vanishing ... fading away ... cessation ... giving away ... letting
 go of greed, four things should be developed."
 
-### N 4.304--783 Insight into Hate, Etc. *Dosaabhiññādisutta*
+### AN 4.304--783 Insight into Hate, Etc. *Dosaabhiññādisutta*
 
 "Of hate ... delusion ... anger ... acrimony ... disdain ... contempt
 ... jealousy ... stinginess ... deceit ... deviousness ... obstinacy ...

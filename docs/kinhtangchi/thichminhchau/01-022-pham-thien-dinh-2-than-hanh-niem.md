@@ -2,7 +2,6 @@
 
 1-70.
 
-<!--pg-->
 1\. Như một ai, này các Tỷ-kheo, với tâm biến mãn cùng khắp biển lớn, có thể bao gồm tất cả con sống
 bé nhỏ đổ vào biển cả, cũng vậy, này các Tỷ-kheo, ai tu tập, làm cho sung mãn thân hành niệm, cũng
 bao gồm tất cả thiện pháp, gồm những pháp thuộc về minh phần.

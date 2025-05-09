@@ -1,18 +1,18 @@
 # Chương về Sự Bảo Đảm
 
-### N 4.71 Kinh Tinh Tấn (*Padhānasutta*)
+### AN 4.71 Kinh Tinh Tấn (*Padhānasutta*)
 
 "Này các Tỳ kheo, khi một vị Tỳ kheo có bốn pháp này, sự thực hành của vị ấy không thất bại, và vị ấy đã đặt nền tảng cho sự đoạn tận các *phiền não* (defilements / những ô nhiễm tâm).
 Bốn pháp ấy là gì? Đó là khi một vị Tỳ kheo có giới hạnh, *đa văn* (learned / hiểu biết rộng), *tinh tấn* (energetic / siêng năng), và có trí tuệ. Khi một vị Tỳ kheo có bốn pháp này, sự thực hành của vị ấy không thất bại, và vị ấy đã đặt nền tảng cho sự đoạn tận các phiền não."
 
 <!--pg-->
-### N 4.72 Kinh Chánh Kiến (*Sammādiṭṭhisutta*)
+### AN 4.72 Kinh Chánh Kiến (*Sammādiṭṭhisutta*)
 
 "Này các Tỳ kheo, khi một vị Tỳ kheo có bốn pháp này, sự thực hành của vị ấy không thất bại, và vị ấy đã đặt nền tảng cho sự đoạn tận các phiền não.
 Bốn pháp ấy là gì? *Tư duy xuất ly* (thoughts of renunciation / suy nghĩ về sự từ bỏ), *tư duy vô sân* (good will / suy nghĩ không giận dữ), và *tư duy vô hại* (harmlessness / suy nghĩ không làm hại); và *chánh kiến* (right view / thấy biết đúng đắn). Khi một vị Tỳ kheo có bốn pháp này, sự thực hành của vị ấy không thất bại, và vị ấy đã đặt nền tảng cho sự đoạn tận các phiền não."
 
 <!--pg-->
-### N 4.73 Kinh Bậc Chân Nhân (*Sappurisasutta*)
+### AN 4.73 Kinh Bậc Chân Nhân (*Sappurisasutta*)
 
 "Này các Tỳ kheo, một người không chân thật có thể được biết qua bốn đặc điểm. Bốn đặc điểm ấy là gì?
 
@@ -40,16 +40,16 @@ Ví như một nàng dâu vào ngày hay đêm đầu tiên được đưa về 
 Vì vậy, các thầy nên tu tập như sau: 'Chúng ta sẽ sống với tâm như một nàng dâu mới.' Đó là cách các thầy nên tu tập."
 
 <!--pg-->
-### N 4.74 Kinh Tối Thắng (1) (*Paṭhamaaggasutta*)
+### AN 4.74 Kinh Tối Thắng (1) (*Paṭhamaaggasutta*)
 
 "Này các Tỳ kheo, bốn pháp này là tối thắng. Bốn pháp ấy là gì? Giới hạnh tối thắng, *thiền định* (immersion / sự tập trung tâm) tối thắng, *tuệ* (wisdom / sự hiểu biết sáng suốt) tối thắng, và *giải thoát* (freedom / sự tự do khỏi khổ đau) tối thắng. Đây là bốn pháp tối thắng."
 
-### N 4.75 Kinh Tối Thắng (2) (*Dutiyaaggasutta*)
+### AN 4.75 Kinh Tối Thắng (2) (*Dutiyaaggasutta*)
 
 "Này các Tỳ kheo, bốn pháp này là tối thắng. Bốn pháp ấy là gì? *Sắc* (form / hình thể vật chất) tối thắng, *thọ* (feeling / cảm giác) tối thắng, *tưởng* (perception / sự nhận biết) tối thắng, và *hữu* (existence / sự tồn tại, sự hiện hữu) tối thắng. Đây là bốn pháp tối thắng."
 
 <!--pg-->
-### N 4.76 Kinh Tại Kusinārā (*Kusinārasutta*)
+### AN 4.76 Kinh Tại Kusinārā (*Kusinārasutta*)
 
 Một thời Thế Tôn trú tại Kusinārā, giữa hai cây sala trong rừng sala của dòng họ Malla tại Upavattana, vào lúc Ngài sắp *đại bát-niết-bàn* (full extinguishment / sự tịch diệt hoàn toàn vĩ đại). Tại đây, Thế Tôn gọi các Tỳ kheo: "Này các Tỳ kheo!"
 
@@ -70,7 +70,7 @@ Rồi Thế Tôn nói với các Tỳ kheo:
 "Này Ānanda, ông nói lên từ đức tin. Nhưng *Như Lai* (Realized One / bậc đã đến như vậy, danh hiệu Phật) biết rằng trong Tăng đoàn này, không có một Tỳ kheo nào còn nghi ngờ hay phân vân về Phật, về Pháp, về Tăng đoàn, về đạo, hay về pháp hành. Ngay cả vị Tỳ kheo cuối cùng trong năm trăm vị Tỳ kheo này cũng là bậc *nhập lưu* (stream-enterer / người đã vào dòng thánh), không còn bị tái sinh vào cõi dữ (liable to be reborn in the underworld / bị tái sinh vào cõi khổ), chắc chắn đạt đến giác ngộ (bound for awakening / nhất định sẽ giác ngộ)."
 
 <!--pg-->
-### N 4.77 Kinh Bất Khả Tư Nghì (*Acinteyyasutta*)
+### AN 4.77 Kinh Bất Khả Tư Nghì (*Acinteyyasutta*)
 
 "Này các Tỳ kheo, có bốn điều *bất khả tư nghì* (unthinkable / không thể nghĩ bàn) này. Không nên suy nghĩ về chúng, và bất cứ ai cố gắng suy nghĩ về chúng sẽ trở nên điên loạn hoặc bực bội. Bốn điều ấy là gì?
 
@@ -85,7 +85,7 @@ Phạm vi của người nhập *thiền định* (absorption / trạng thái t�
 Đây là bốn điều bất khả tư nghì. Không nên suy nghĩ về chúng, và bất cứ ai cố gắng suy nghĩ về chúng sẽ trở nên điên loạn hoặc bực bội."
 
 <!--pg-->
-### N 4.78 Kinh Cúng Dường (*Dakkhiṇasutta*)
+### AN 4.78 Kinh Cúng Dường (*Dakkhiṇasutta*)
 
 "Này các Tỳ kheo, có bốn cách thanh tịnh hóa một *vật thí* (religious donation / vật phẩm cúng dường). Bốn cách ấy là gì? Có vật thí được thanh tịnh hóa bởi người cho, không phải người nhận. Có vật thí được thanh tịnh hóa bởi người nhận, không phải người cho. Có vật thí không được thanh tịnh hóa bởi cả người cho lẫn người nhận. Có vật thí được thanh tịnh hóa bởi cả người cho lẫn người nhận.
 
@@ -100,7 +100,7 @@ Và thế nào là vật thí được thanh tịnh hóa bởi cả người cho
 Đây là bốn cách thanh tịnh hóa một vật thí."
 
 <!--pg-->
-### N 4.79 Kinh Kinh Doanh (*Vaṇijjasutta*)
+### AN 4.79 Kinh Kinh Doanh (*Vaṇijjasutta*)
 
 Bấy giờ, Tôn giả Sāriputta đi đến Thế Tôn, đảnh lễ Ngài, ngồi xuống một bên và bạch rằng:
 
@@ -117,7 +117,7 @@ Trường hợp một người đi đến một vị sa môn hay bà la môn và
 Đây là nhân, đây là duyên tại sao đối với những người khác nhau, cùng một loại công việc kinh doanh lại có thể thất bại, trong khi một công việc khác không được như mong đợi, một công việc khác được như mong đợi, và một công việc khác lại vượt quá mong đợi."
 
 <!--pg-->
-### N 4.80 Kinh Kamboja (*Kambojasutta*)
+### AN 4.80 Kinh Kamboja (*Kambojasutta*)
 
 Một thời Thế Tôn trú gần Kosambī, tại tu viện Ghosita. Bấy giờ, Tôn giả Ānanda đi đến Thế Tôn, đảnh lễ Ngài, ngồi xuống một bên và bạch rằng:
 

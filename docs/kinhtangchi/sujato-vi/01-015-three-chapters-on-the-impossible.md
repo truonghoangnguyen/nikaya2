@@ -1,102 +1,67 @@
-# Ba Chương về Những Điều Bất Khả Thi
+# Ba Chương Về Điều Không Thể
 
-### N 1.268--277 *Chương Thứ Nhất*
+### AN 1.268--277 *Phẩm Thứ Nhất*
 
-268\. Này các Tỳ-kheo, điều này bất khả thi, không thể xảy ra, đó là một *người thành tựu chánh kiến* (person accomplished in view - sotāpanna - bậc Dự Lưu, người đã chứng đạt dòng Thánh đầu tiên, không còn rơi vào khổ cảnh và chắc chắn giác ngộ) lại chấp bất kỳ *pháp hữu vi* (condition - saṅkhāra - các hiện tượng do duyên hợp thành, vô thường) nào là *thường còn* (permanent - nicca - không thay đổi, vĩnh cửu). Điều đó không thể xảy ra. Nhưng điều này có thể xảy ra, đó là một *phàm phu* (ordinary person - puthujjana - người chưa chứng đạt Thánh đạo, còn bị phiền não chi phối) lại chấp một số pháp hữu vi là thường còn. Điều đó có thể xảy ra.
-
-<!--pg-->
-269\. Này các Tỳ-kheo, điều này bất khả thi, không thể xảy ra, đó là một người thành tựu chánh kiến lại chấp bất kỳ pháp hữu vi nào là *lạc* (pleasant - sukha - trạng thái dễ chịu, hạnh phúc). Điều đó không thể xảy ra. Nhưng điều này có thể xảy ra, đó là một phàm phu lại chấp một số pháp hữu vi là lạc. Điều đó có thể xảy ra.
+268\. "Này các Tỳ kheo, điều không thể xảy ra, không thể có được là một *người có chánh kiến* (person accomplished in view / người có hiểu biết đúng đắn) lại xem bất kỳ *pháp hữu vi* (condition / các pháp do duyên sinh, các pháp được tạo tác) nào là *thường còn* (permanent / không thay đổi, vĩnh viễn). Điều đó là không thể. Nhưng điều có thể xảy ra là một *phàm phu* (ordinary person / người chưa giác ngộ) xem một pháp hữu vi nào đó là thường còn. Điều đó là có thể."
 
 <!--pg-->
-270\. Này các Tỳ-kheo, điều này bất khả thi, không thể xảy ra, đó là một người thành tựu chánh kiến lại chấp bất kỳ pháp nào là *ngã* (self - attā - cái tôi, bản ngã bất biến). Điều đó không thể xảy ra. Nhưng điều này có thể xảy ra, đó là một phàm phu lại chấp một số pháp là ngã. Điều đó có thể xảy ra.
+269\. "Này các Tỳ kheo, điều không thể xảy ra, không thể có được là một người có chánh kiến lại xem bất kỳ pháp hữu vi nào là *an vui* (pleasant / vui sướng, hạnh phúc). Nhưng điều có thể xảy ra là một phàm phu xem một pháp hữu vi nào đó là an vui."
 
 <!--pg-->
-271\. Này các Tỳ-kheo, điều này bất khả thi, không thể xảy ra, đó là một người thành tựu chánh kiến lại giết mẹ của mình. Điều đó không thể xảy ra. Nhưng điều này có thể xảy ra, đó là một phàm phu lại giết mẹ của mình. Điều đó có thể xảy ra.
+270\. "Này các Tỳ kheo, điều không thể xảy ra, không thể có được là một người có chánh kiến lại xem *bất cứ thứ gì là tự ngã* (anything as self / bất cứ cái gì là cái ta, của ta). Nhưng điều có thể xảy ra là một phàm phu xem một thứ gì đó là tự ngã."
 
 <!--pg-->
-272\. Này các Tỳ-kheo, điều này bất khả thi, không thể xảy ra, đó là một người thành tựu chánh kiến lại giết cha của mình. Điều đó không thể xảy ra. Nhưng điều này có thể xảy ra, đó là một phàm phu lại giết cha của mình. Điều đó có thể xảy ra.
+271\. "Này các Tỳ kheo, điều không thể xảy ra, không thể có được là một người có chánh kiến lại *giết* (murder / sát hại) mẹ của mình. Nhưng điều có thể xảy ra là một phàm phu giết mẹ của mình."
+
+272\. "Này các Tỳ kheo, điều không thể xảy ra, không thể có được là một người có chánh kiến lại giết cha của mình. Nhưng điều có thể xảy ra là một phàm phu giết cha của mình."
+
+273\. "Này các Tỳ kheo, điều không thể xảy ra, không thể có được là một người có chánh kiến lại giết một *bậc A-la-hán* (perfected one / người đã hoàn thiện, đã giác ngộ hoàn toàn). Nhưng điều có thể xảy ra là một phàm phu giết một bậc A-la-hán."
+
+274\. "Này các Tỳ kheo, điều không thể xảy ra, không thể có được là một người có chánh kiến lại *cố ý làm tổn thương* (injure with malicious intent / cố tình gây thương tích với ác ý) một *Đấng Như Lai* (Realized One / bậc đã chứng ngộ, ở đây chỉ Đức Phật). Nhưng điều có thể xảy ra là một phàm phu cố ý làm tổn thương một Đấng Như Lai."
+
+275\. "Này các Tỳ kheo, điều không thể xảy ra, không thể có được là một người có chánh kiến lại *gây chia rẽ Tăng đoàn* (cause a schism in the Saṅgha / làm cho Tăng đoàn bị phân ly). Nhưng điều có thể xảy ra là một phàm phu gây chia rẽ *Tăng đoàn* (Saṅgha / cộng đồng các vị xuất gia Phật giáo)."
+
+276\. "Này các Tỳ kheo, điều không thể xảy ra, không thể có được là một người có chánh kiến lại *quy y một vị thầy khác* (dedicate themselves to another teacher / tôn thờ, đi theo một vị đạo sư khác). Nhưng điều có thể xảy ra là một phàm phu quy y một vị thầy khác."
 
 <!--pg-->
-273\. Này các Tỳ-kheo, điều này bất khả thi, không thể xảy ra, đó là một người thành tựu chánh kiến lại giết một *bậc A-la-hán* (perfected one - arahant - bậc đã đoạn tận phiền não, chứng đắc Niết-bàn). Điều đó không thể xảy ra. Nhưng điều này có thể xảy ra, đó là một phàm phu lại giết một bậc A-la-hán. Điều đó có thể xảy ra.
+277\. "Này các Tỳ kheo, điều không thể xảy ra, không thể có được là *hai vị A-la-hán, Chánh Đẳng Chánh Giác* (perfected ones, fully awakened Buddhas / hai vị đã hoàn thiện, giác ngộ viên mãn như Phật) cùng *xuất hiện* (arise / hiện ra, có mặt) đồng thời trong cùng một *thế giới hệ* (solar system / một cõi thế giới, một hệ thống thế giới). Nhưng điều có thể xảy ra là chỉ một vị A-la-hán, Chánh Đẳng Chánh Giác xuất hiện trong một thế giới hệ."
 
 <!--pg-->
-274\. Này các Tỳ-kheo, điều này bất khả thi, không thể xảy ra, đó là một người thành tựu chánh kiến lại làm bị thương *Đức Như Lai* (Realized One - Tathāgata - danh hiệu của Đức Phật) với *ác ý* (malicious intent - byāpāda - tâm muốn làm hại, căm ghét). Điều đó không thể xảy ra. Nhưng điều này có thể xảy ra, đó là một phàm phu lại làm bị thương Đức Như Lai với ác ý. Điều đó có thể xảy ra.
+### AN 1.278--286 *Phẩm Thứ Hai*
+
+278\. "Này các Tỳ kheo, điều không thể xảy ra, không thể có được là hai vị *vua Chuyển Luân Thánh Vương* (wheel-turning monarchs / vị vua cai trị bằng Chánh pháp, làm bánh xe Pháp chuyển động) cùng xuất hiện đồng thời trong cùng một thế giới hệ. Nhưng điều có thể xảy ra là chỉ một vị vua Chuyển Luân Thánh Vương xuất hiện trong một thế giới hệ."
 
 <!--pg-->
-275\. Này các Tỳ-kheo, điều này bất khả thi, không thể xảy ra, đó là một người thành tựu chánh kiến lại *phá hòa hợp Tăng* (cause a schism in the Saṅgha - saṅghabheda - hành động chia rẽ cộng đồng Tăng-già). Điều đó không thể xảy ra. Nhưng điều này có thể xảy ra, đó là một phàm phu lại phá hòa hợp Tăng. Điều đó có thể xảy ra.
+279\. "Này các Tỳ kheo, điều không thể xảy ra, không thể có được là một *người nữ* (woman / phụ nữ) trở thành một bậc A-la-hán, Chánh Đẳng Chánh Giác. Nhưng điều có thể xảy ra là một *người nam* (man / nam giới) trở thành một bậc A-la-hán, Chánh Đẳng Chánh Giác."
 
 <!--pg-->
-276\. Này các Tỳ-kheo, điều này bất khả thi, không thể xảy ra, đó là một người thành tựu chánh kiến lại quy y một thầy khác. Điều đó không thể xảy ra. Nhưng điều này có thể xảy ra, đó là một phàm phu lại quy y một thầy khác. Điều đó có thể xảy ra.
+280\. "Này các Tỳ kheo, điều không thể xảy ra, không thể có được là một người nữ trở thành một vị vua Chuyển Luân Thánh Vương. Nhưng điều có thể xảy ra là một người nam trở thành một vị vua Chuyển Luân Thánh Vương."
 
 <!--pg-->
-277\. Này các Tỳ-kheo, điều này bất khả thi, không thể xảy ra, đó là hai *Đức Phật Chánh Đẳng Giác* (fully awakened Buddha - sammāsambuddha - bậc tự mình giác ngộ hoàn toàn và thuyết pháp độ chúng) lại cùng ra đời trong cùng một *thế giới* (solar system - cakkavāḷa - hệ thống vũ trụ) vào cùng một thời điểm. Điều đó không thể xảy ra. Nhưng điều này có thể xảy ra, đó là chỉ một Đức Phật Chánh Đẳng Giác ra đời trong một thế giới. Điều đó có thể xảy ra.
+281--283\. "Này các Tỳ kheo, điều không thể xảy ra, không thể có được là một người nữ đảm nhận vai trò của *Đế Thích* (Sakka / vua cõi trời Đao Lợi), *Ma Vương* (Māra / chúa tể loài ma, người cản trở sự giác ngộ), hay *Phạm Thiên* (the Divinity / một vị trời cao ở cõi Sắc giới, thường là Đại Phạm Thiên). Nhưng điều có thể xảy ra là một người nam đảm nhận vai trò của Đế Thích, Ma Vương, hay Phạm Thiên."
 
 <!--pg-->
-### N 1.278--286 *Chương Thứ Hai*
-
-278\. Này các Tỳ-kheo, điều này bất khả thi, không thể xảy ra, đó là hai *Chuyển Luân Thánh Vương* (wheel-turning monarch - cakkavatti - vị vua lý tưởng cai trị toàn cõi Tứ Thiên Hạ bằng Chánh pháp) lại cùng ra đời trong cùng một thế giới vào cùng một thời điểm. Điều đó không thể xảy ra. Nhưng điều này có thể xảy ra, đó là chỉ một Chuyển Luân Thánh Vương ra đời trong một thế giới. Điều đó có thể xảy ra.
+284\. "Này các Tỳ kheo, điều không thể xảy ra, không thể có được là một *kết quả đáng ưa thích, đáng mong muốn, dễ chịu* (likable, desirable, agreeable result / quả báo tốt đẹp, vui vẻ) đến từ *hành vi xấu ác qua thân* (bad bodily conduct / hành động xấu xa bằng thân thể). Nhưng điều có thể xảy ra là một *kết quả không đáng ưa thích, không đáng mong muốn, khó chịu* (unlikable, undesirable, disagreeable result / quả báo xấu xa, đau khổ) đến từ hành vi xấu ác qua thân."
 
 <!--pg-->
-279\. Này các Tỳ-kheo, điều này bất khả thi, không thể xảy ra, đó là một người nữ lại là Đức Phật Chánh Đẳng Giác. Điều đó không thể xảy ra. Nhưng điều này có thể xảy ra, đó là một người nam lại là Đức Phật Chánh Đẳng Giác. Điều đó có thể xảy ra.
+285--286\. "Này các Tỳ kheo, điều không thể xảy ra, không thể có được là một kết quả đáng ưa thích, đáng mong muốn, dễ chịu đến từ *hành vi xấu ác qua lời nói* (bad verbal conduct / lời nói xấu xa, ác ý)... *hành vi xấu ác qua ý nghĩ* (bad mental conduct / ý nghĩ xấu xa, ác ý). Nhưng điều có thể xảy ra là một kết quả không đáng ưa thích, không đáng mong muốn, khó chịu đến từ hành vi xấu ác qua lời nói... hành vi xấu ác qua ý nghĩ."
 
 <!--pg-->
-280\. Này các Tỳ-kheo, điều này bất khả thi, không thể xảy ra, đó là một người nữ lại là Chuyển Luân Thánh Vương. Điều đó không thể xảy ra. Nhưng điều này có thể xảy ra, đó là một người nam lại là Chuyển Luân Thánh Vương. Điều đó có thể xảy ra.
+### AN 1.287--295 *Phẩm Thứ Ba*
+
+287\. "Này các Tỳ kheo, điều không thể xảy ra, không thể có được là một kết quả không đáng ưa thích, không đáng mong muốn, khó chịu đến từ *hành vi tốt đẹp qua thân* (good bodily conduct / hành động tốt lành bằng thân thể). Nhưng điều có thể xảy ra là một kết quả đáng ưa thích, đáng mong muốn, dễ chịu đến từ hành vi tốt đẹp qua thân."
 
 <!--pg-->
-281--283\. Này các Tỳ-kheo, điều này bất khả thi, không thể xảy ra, đó là một người nữ lại làm *Đế Thích* (Sakka - Sakka - vị vua cõi trời Ba Mươi Ba), *Ma Vương* (Māra - Māra - kẻ cản trở sự giải thoát), hay *Phạm Thiên* (Divinity - Brahmā - vị trời tối cao trong cõi Sắc giới). Điều đó không thể xảy ra. Nhưng điều này có thể xảy ra, đó là một người nam lại làm Đế Thích, Ma Vương, hay Phạm Thiên. Điều đó có thể xảy ra.
+288--289\. "Này các Tỳ kheo, điều không thể xảy ra, không thể có được là một kết quả không đáng ưa thích, không đáng mong muốn, khó chịu đến từ *hành vi tốt đẹp qua lời nói* (good verbal conduct / lời nói tốt lành, thiện ý)... *hành vi tốt đẹp qua ý nghĩ* (good mental conduct / ý nghĩ tốt lành, thiện ý). Nhưng điều có thể xảy ra là một kết quả đáng ưa thích, đáng mong muốn, dễ chịu đến từ hành vi tốt đẹp qua lời nói... hành vi tốt đẹp qua ý nghĩ."
 
 <!--pg-->
-284\. Này các Tỳ-kheo, điều này bất khả thi, không thể xảy ra, đó là *quả khả ái, khả lạc, khả ý* (likable, desirable, agreeable result - iṭṭha, kantā, manāpā vipāka - kết quả tốt đẹp, dễ chịu) lại sinh ra từ *ác hạnh về thân* (bad bodily conduct - kāyaduccarita - hành động xấu ác của thân thể). Điều đó không thể xảy ra. Nhưng điều này có thể xảy ra, đó là *quả bất khả ái, bất khả lạc, bất khả ý* (unlikable, undesirable, disagreeable result - aniṭṭha, akantā, amanāpā vipāka - kết quả không tốt đẹp, khó chịu) lại sinh ra từ ác hạnh về thân. Điều đó có thể xảy ra.
+290\. "Này các Tỳ kheo, điều không thể xảy ra, không thể có được là người đã có hành vi xấu ác qua thân, chỉ vì lý do đó mà *sau khi thân hoại mạng chung* (when their body breaks up, after death / khi cơ thể tan rã, sau khi chết), lại được *tái sinh vào cõi lành, cõi trời* (be reborn in a good place, a heavenly realm / sinh lại ở nơi tốt đẹp, thế giới của chư thiên). Nhưng điều có thể xảy ra là người đã có hành vi xấu ác qua thân, chỉ vì lý do đó mà sau khi thân hoại mạng chung, lại bị tái sinh vào *cõi khổ, nơi xấu xa, địa ngục, đọa xứ* (a place of loss, a bad place, the underworld, hell / nơi mất mát, cảnh giới tồi tệ, thế giới ngầm, địa ngục)."
 
 <!--pg-->
-285--286\. Này các Tỳ-kheo, điều này bất khả thi, không thể xảy ra, đó là quả khả ái, khả lạc, khả ý lại sinh ra từ *ác hạnh về lời nói* (bad verbal conduct - vacīduccarita - lời nói xấu ác) ... từ *ác hạnh về ý* (bad mental conduct - manoduccarita - suy nghĩ xấu ác). Điều đó không thể xảy ra. Nhưng điều này có thể xảy ra, đó là quả bất khả ái, bất khả lạc, bất khả ý lại sinh ra từ ác hạnh về lời nói ... từ ác hạnh về ý. Điều đó có thể xảy ra.
+291--292\. "Này các Tỳ kheo, điều không thể xảy ra, không thể có được là người đã có hành vi xấu ác qua lời nói... hành vi xấu ác qua ý nghĩ, chỉ vì lý do đó mà sau khi thân hoại mạng chung, lại được tái sinh vào cõi lành, cõi trời. Nhưng điều có thể xảy ra là người đã có hành vi xấu ác qua lời nói... hành vi xấu ác qua ý nghĩ, chỉ vì lý do đó mà sau khi thân hoại mạng chung, lại bị tái sinh vào cõi khổ, nơi xấu xa, địa ngục, đọa xứ."
 
 <!--pg-->
-### N 1.287--295 *Chương Thứ Ba*
+293\. "Này các Tỳ kheo, điều không thể xảy ra, không thể có được là người đã có hành vi tốt đẹp qua thân, chỉ vì lý do đó mà sau khi thân hoại mạng chung, lại bị tái sinh vào cõi khổ, nơi xấu xa, địa ngục, đọa xứ. Nhưng điều có thể xảy ra là người đã có hành vi tốt đẹp qua thân, chỉ vì lý do đó mà sau khi thân hoại mạng chung, lại được tái sinh vào cõi lành, cõi trời."
 
-287\. Này các Tỳ-kheo, điều này bất khả thi, không thể xảy ra, đó là quả bất khả ái, bất khả lạc, bất khả ý lại sinh ra từ *thiện hạnh về thân* (good bodily conduct - kāyasucarita - hành động tốt đẹp của thân thể). Điều đó không thể xảy ra. Nhưng điều này có thể xảy ra, đó là quả khả ái, khả lạc, khả ý lại sinh ra từ thiện hạnh về thân. Điều đó có thể xảy ra.
 
-<!--pg-->
-288--289\. Này các Tỳ-kheo, điều này bất khả thi, không thể xảy ra, đó là quả bất khả ái, bất khả lạc, bất khả ý lại sinh ra từ *thiện hạnh về lời nói* (good verbal conduct - vacīsucarita - lời nói tốt đẹp) ... từ *thiện hạnh về ý* (good mental conduct - manosucarita - suy nghĩ tốt đẹp). Điều đó không thể xảy ra. Nhưng điều này có thể xảy ra, đó là quả khả ái, khả lạc, khả ý lại sinh ra từ thiện hạnh về lời nói ... từ thiện hạnh về ý. Điều đó có thể xảy ra.
-
-<!--pg-->
-290\. Này các Tỳ-kheo, điều này bất khả thi, không thể xảy ra, đó là một người đã thực hiện ác hạnh về thân, chỉ vì lý do đó, *khi thân hoại mạng chung* (when their body breaks up, after death - kāyassa bhedā paraṃ maraṇā - khi thân thể tan rã, sau khi chết), lại được tái sinh vào *cõi lành, cảnh giới chư thiên* (good place, a heavenly realm - sugati, sagga - các cảnh giới tái sinh tốt đẹp như cõi người, cõi trời). Điều đó không thể xảy ra. Nhưng điều này có thể xảy ra, đó là một người đã thực hiện ác hạnh về thân, chỉ vì lý do đó, khi thân hoại mạng chung, lại được tái sinh vào *cõi dữ, ác thú, đọa xứ, địa ngục* (place of loss, a bad place, the underworld, hell - apāya, duggati, vinipāta, niraya - các cảnh giới tái sinh khổ đau như địa ngục, ngạ quỷ, súc sinh, A-tu-la). Điều đó có thể xảy ra.
-
-<!--pg-->
-291--292\. Này các Tỳ-kheo, điều này bất khả thi, không thể xảy ra, đó là một người đã thực hiện ác hạnh về lời nói ... ác hạnh về ý, chỉ vì lý do đó, khi thân hoại mạng chung, lại được tái sinh vào cõi lành, cảnh giới chư thiên. Điều đó không thể xảy ra. Nhưng điều này có thể xảy ra, đó là một người đã thực hiện ác hạnh về lời nói ... ác hạnh về ý, chỉ vì lý do đó, khi thân hoại mạng chung, lại được tái sinh vào cõi dữ, ác thú, đọa xứ, địa ngục. Điều đó có thể xảy ra.
-
-<!--pg-->
-293\. Này các Tỳ-kheo, điều này bất khả thi, không thể xảy ra, đó là một người đã thực hiện thiện hạnh về thân, chỉ vì lý do đó, khi thân hoại mạng chung, lại được tái sinh vào cõi dữ, ác thú, đọa xứ, địa ngục. Điều đó không thể xảy ra. Nhưng điều này có thể xảy ra, đó là một người đã thực hiện thiện hạnh về thân, chỉ vì lý do đó, khi thân hoại mạng chung, lại được tái sinh vào cõi lành, cảnh giới chư thiên. Điều đó có thể xảy ra.
-
-<!--pg-->
-294--295\. Này các Tỳ-kheo, điều này bất khả thi, không thể xảy ra, đó là một người đã thực hiện thiện hạnh về lời nói ... thiện hạnh về ý, chỉ vì lý do đó, khi thân hoại mạng chung, lại được tái sinh vào cõi dữ, ác thú, đọa xứ, địa ngục. Điều đó không thể xảy ra. Nhưng điều này có thể xảy ra, đó là một người đã thực hiện thiện hạnh về lời nói ... thiện hạnh về ý, chỉ vì lý do đó, khi thân hoại mạng chung, lại được tái sinh vào cõi lành, cảnh giới chư thiên. Điều đó có thể xảy ra.
-
-<!--pg-->
-Từ ngữ:
-- người thành tựu chánh kiến - person accomplished in view - sotāpanna - bậc Dự Lưu, người đã chứng đạt dòng Thánh đầu tiên, không còn rơi vào khổ cảnh và chắc chắn giác ngộ.
-- pháp hữu vi - condition - saṅkhāra - các hiện tượng do duyên hợp thành, vô thường.
-- thường còn - permanent - nicca - không thay đổi, vĩnh cửu.
-- phàm phu - ordinary person - puthujjana - người chưa chứng đạt Thánh đạo, còn bị phiền não chi phối.
-- lạc - pleasant - sukha - trạng thái dễ chịu, hạnh phúc.
-- ngã - self - attā - cái tôi, bản ngã bất biến.
-- bậc A-la-hán - perfected one - arahant - bậc đã đoạn tận phiền não, chứng đắc Niết-bàn.
-- Đức Như Lai - Realized One - Tathāgata - danh hiệu của Đức Phật.
-- ác ý - malicious intent - byāpāda - tâm muốn làm hại, căm ghét.
-- phá hòa hợp Tăng - cause a schism in the Saṅgha - saṅghabheda - hành động chia rẽ cộng đồng Tăng-già.
-- Đức Phật Chánh Đẳng Giác - fully awakened Buddha - sammāsambuddha - bậc tự mình giác ngộ hoàn toàn và thuyết pháp độ chúng.
-- thế giới - solar system - cakkavāḷa - hệ thống vũ trụ.
-- Chuyển Luân Thánh Vương - wheel-turning monarch - cakkavatti - vị vua lý tưởng cai trị toàn cõi Tứ Thiên Hạ bằng Chánh pháp.
-- Đế Thích - Sakka - Sakka - vị vua cõi trời Ba Mươi Ba.
-- Ma Vương - Māra - Māra - kẻ cản trở sự giải thoát.
-- Phạm Thiên - Divinity - Brahmā - vị trời tối cao trong cõi Sắc giới.
-- quả khả ái, khả lạc, khả ý - likable, desirable, agreeable result - iṭṭha, kantā, manāpā vipāka - kết quả tốt đẹp, dễ chịu.
-- ác hạnh về thân - bad bodily conduct - kāyaduccarita - hành động xấu ác của thân thể.
-- quả bất khả ái, bất khả lạc, bất khả ý - unlikable, undesirable, disagreeable result - aniṭṭha, akantā, amanāpā vipāka - kết quả không tốt đẹp, khó chịu.
-- ác hạnh về lời nói - bad verbal conduct - vacīduccarita - lời nói xấu ác.
-- ác hạnh về ý - bad mental conduct - manoduccarita - suy nghĩ xấu ác.
-- thiện hạnh về thân - good bodily conduct - kāyasucarita - hành động tốt đẹp của thân thể.
-- thiện hạnh về lời nói - good verbal conduct - vacīsucarita - lời nói tốt đẹp.
-- thiện hạnh về ý - good mental conduct - manosucarita - suy nghĩ tốt đẹp.
-- khi thân hoại mạng chung - when their body breaks up, after death - kāyassa bhedā paraṃ maraṇā - khi thân thể tan rã, sau khi chết.
-- cõi lành, cảnh giới chư thiên - good place, a heavenly realm - sugati, sagga - các cảnh giới tái sinh tốt đẹp như cõi người, cõi trời.
-- cõi dữ, ác thú, đọa xứ, địa ngục - place of loss, a bad place, the underworld, hell - apāya, duggati, vinipāta, niraya - các cảnh giới tái sinh khổ đau như địa ngục, ngạ quỷ, súc sinh, A-tu-la.
+294--295\. "Này các Tỳ kheo, điều không thể xảy ra, không thể có được là người đã có hành vi tốt đẹp qua lời nói... hành vi tốt đẹp qua ý nghĩ, chỉ vì lý do đó mà sau khi thân hoại mạng chung, lại bị tái sinh vào cõi khổ, nơi xấu xa, địa ngục, đọa xứ. Nhưng điều có thể xảy ra là người đã có hành vi tốt đẹp qua lời nói... hành vi tốt đẹp qua ý nghĩ, chỉ vì lý do đó mà sau khi thân hoại mạng chung, lại được tái sinh vào cõi lành, cõi trời."

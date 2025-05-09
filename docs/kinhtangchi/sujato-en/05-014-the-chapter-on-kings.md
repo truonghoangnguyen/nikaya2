@@ -1,6 +1,6 @@
 # The Chapter on Kings
 
-### N 5.131 Wielding Power (1st)  *Paṭhamacakkānuvattanasutta*
+### AN 5.131 Wielding Power (1st)  *Paṭhamacakkānuvattanasutta*
 
 "Mendicants, possessing five factors a wheel-turning monarch wields
 power only in a principled manner. And this power cannot be undermined
@@ -26,7 +26,7 @@ manner. And that wheel cannot be rolled back by any ascetic or brahmin
 or god or Māra or divinity or by anyone in the world."
 
 <!--pg-->
-### N 5.132 Wielding Power (2nd)  *Dutiyacakkānuvattanasutta*
+### AN 5.132 Wielding Power (2nd)  *Dutiyacakkānuvattanasutta*
 
 "Mendicants, possessing five factors a wheel-turning monarch's eldest
 son continues to wield the power set in motion by his father only in a
@@ -55,7 +55,7 @@ brahmin or god or Māra or divinity or by anyone in the
 world."
 
 <!--pg-->
-### N 5.133 A Principled King  *Dhammarājāsutta*
+### AN 5.133 A Principled King  *Dhammarājāsutta*
 
 "Mendicants, even a wheel-turning monarch, a just and principled king,
 does not wield power without having their own king."
@@ -110,7 +110,7 @@ or brahmin or god or Māra or divinity or by anyone in the
 world."
 
 <!--pg-->
-### N 5.134 In Whatever Region  *Yassaṁdisaṁsutta*
+### AN 5.134 In Whatever Region  *Yassaṁdisaṁsutta*
 
 "Mendicants, with five factors an anointed aristocratic king lives in
 his own realm, no matter what region he lives in.
@@ -169,7 +169,7 @@ realm, no matter what region they live in. Why is that? Because that is
 how it is for those whose mind is free."
 
 <!--pg-->
-### N 5.135 Aspiration (1st)  *Paṭhamapatthanāsutta*
+### AN 5.135 Aspiration (1st)  *Paṭhamapatthanāsutta*
 
 "Mendicants, an anointed aristocratic king's eldest son with five
 factors aspires to kingship. What five?
@@ -238,7 +238,7 @@ shouldn't I aspire to end the defilements?'
 A mendicant with these five qualities aspires to end the defilements."
 
 <!--pg-->
-### N 5.136 Aspiration (2nd)  *Dutiyapatthanāsutta*
+### AN 5.136 Aspiration (2nd)  *Dutiyapatthanāsutta*
 
 "Mendicants, an anointed aristocratic king's eldest son with five
 factors aspires to become a viceroy. What five?
@@ -295,7 +295,7 @@ shouldn't I aspire to end the defilements?' A mendicant with these five
 qualities aspires to end the defilements."
 
 <!--pg-->
-### N 5.137 Little Sleep  *Appaṁsupatisutta*
+### AN 5.137 Little Sleep  *Appaṁsupatisutta*
 
 "Mendicants, these five sleep little at night, staying mostly awake.
 What five? A woman longing for a man. A man longing for a woman. A thief
@@ -304,7 +304,7 @@ for freedom from the yoke. These five sleep little at night, staying
 mostly awake."
 
 <!--pg-->
-### N 5.138 Eating Food  *Bhattādakasutta*
+### AN 5.138 Eating Food  *Bhattādakasutta*
 
 "Mendicants, a royal bull elephant with five factors eats food, takes up
 space, drops dung, and takes a ticket, yet is still considered to be a
@@ -321,7 +321,7 @@ these five qualities eats food, takes up space, tramples beds and
 chairs, and takes a ticket, yet is still considered to be a mendicant."
 
 <!--pg-->
-### N 5.139 Cannot Endure  *Akkhamasutta*
+### AN 5.139 Cannot Endure  *Akkhamasutta*
 
 "Mendicants, a royal bull elephant with five factors is not worthy of a
 king, not fit to serve a king, and is not considered a factor of
@@ -470,7 +470,7 @@ worthy of veneration with joined palms, and is the supreme field of
 merit for the world."
 
 <!--pg-->
-### N 5.140 A Listener  *Sotasutta*
+### AN 5.140 A Listener  *Sotasutta*
 
 "Mendicants, a royal bull elephant with five factors is worthy of a
 king, fit to serve a king, and is considered a factor of kingship. What

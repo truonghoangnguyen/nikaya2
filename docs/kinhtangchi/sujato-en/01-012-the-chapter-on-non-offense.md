@@ -1,6 +1,6 @@
 # The Chapter on Non-offense
 
-### N 1.150--169 *Anāpattivagga*
+### AN 1.150--169 *Anāpattivagga*
 
 150\. "Mendicants, those mendicants who explain non-offense as an offense are
 acting for the detriment and suffering of the people, against the

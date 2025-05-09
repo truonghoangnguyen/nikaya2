@@ -1,6 +1,6 @@
 # The Chapter with a Foundation
 
-### N 2.77--86 *Sanimittavagga*
+### AN 2.77--86 *Sanimittavagga*
 
 77\. "Bad, unskillful qualities, mendicants, arise with a basis, not without
 a basis. By giving up that basis, those bad, unskillful qualities do not

@@ -1,6 +1,6 @@
 # The Chapter on Senior Mendicants
 
-### N 5.81 Desirable  *Rajanīyasutta*
+### AN 5.81 Desirable  *Rajanīyasutta*
 
 "Mendicants, a senior mendicant with five qualities is unlikable and
 disagreeable to their spiritual companions, not respected or admired.
@@ -19,7 +19,7 @@ qualities is dear and beloved to their spiritual companions, respected
 and admired."
 
 <!--pg-->
-### N 5.82 Free of Greed  *Vītarāgasutta*
+### AN 5.82 Free of Greed  *Vītarāgasutta*
 
 "Mendicants, a senior mendicant with five qualities is unlikable and
 disagreeable to their spiritual companions, not respected or admired.
@@ -35,7 +35,7 @@ senior mendicant with these five qualities is dear and beloved to their
 spiritual companions, respected and admired."
 
 <!--pg-->
-### N 5.83 Deceiver  *Kuhakasutta*
+### AN 5.83 Deceiver  *Kuhakasutta*
 
 "Mendicants, a senior mendicant with five qualities is unlikable and
 disagreeable to their spiritual companions, not respected or admired.
@@ -52,7 +52,7 @@ these five qualities is dear and beloved to their spiritual companions,
 respected and admired."
 
 <!--pg-->
-### N 5.84 Faithless  *Assaddhasutta*
+### AN 5.84 Faithless  *Assaddhasutta*
 
 "Mendicants, a senior mendicant with five qualities is unlikable and
 disagreeable to their spiritual companions, not respected or admired.
@@ -67,7 +67,7 @@ mendicant with these five qualities is dear and beloved to their
 spiritual companions, respected and admired."
 
 <!--pg-->
-### N 5.85 Cannot Endure  *Akkhamasutta*
+### AN 5.85 Cannot Endure  *Akkhamasutta*
 
 "Mendicants, a senior mendicant with five qualities is unlikable and
 disagreeable to their spiritual companions, not respected or admired.
@@ -82,7 +82,7 @@ these five qualities is dear and beloved to their spiritual companions,
 respected and admired."
 
 <!--pg-->
-### N 5.86 Attaining the Methods of Textual Analysis  *Paṭisambhidāpattasutta*
+### AN 5.86 Attaining the Methods of Textual Analysis  *Paṭisambhidāpattasutta*
 
 "A senior mendicant with five qualities is dear and beloved to their
 spiritual companions, respected and admired. What five? They have
@@ -94,7 +94,7 @@ with these five qualities is dear and beloved to their spiritual
 companions, respected and admired."
 
 <!--pg-->
-### N 5.87 Ethical  *Sīlavantasutta*
+### AN 5.87 Ethical  *Sīlavantasutta*
 
 "A senior mendicant with five qualities is dear and beloved to their
 spiritual companions, respected and admired. What five?
@@ -125,7 +125,7 @@ A senior mendicant with these five qualities is dear and beloved to
 their spiritual companions, respected and admired."
 
 <!--pg-->
-### N 5.88 Senior Mendicants  *Therasutta*
+### AN 5.88 Senior Mendicants  *Therasutta*
 
 "Mendicants, a senior mendicant who has five qualities is acting for the
 detriment and suffering of the people, against the people, for the harm,
@@ -196,7 +196,7 @@ acting for the welfare and happiness of the people, for the people, for
 the benefit, welfare, and happiness of gods and humans."
 
 <!--pg-->
-### N 5.89 A Trainee (1st)  *Paṭhamasekhasutta*
+### AN 5.89 A Trainee (1st)  *Paṭhamasekhasutta*
 
 "These five things lead to the decline of a mendicant trainee. What
 five? They relish work, talk, sleep, and company. And they don't review
@@ -209,7 +209,7 @@ the extent of their mind's freedom. These five things don't lead to the
 decline of a mendicant trainee."
 
 <!--pg-->
-### N 5.90 A Trainee (2nd)  *Dutiyasekhasutta*
+### AN 5.90 A Trainee (2nd)  *Dutiyasekhasutta*
 
 "These five things lead to the decline of a mendicant trainee. What
 five?

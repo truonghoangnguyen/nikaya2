@@ -1,7 +1,7 @@
 # The Great Chapter
 
 
-### N 4.191 Followed by Ear *Sotānugatasutta*
+### AN 4.191 Followed by Ear *Sotānugatasutta*
 
 "Mendicants, you can expect four benefits when the teachings have been
 followed by ear, rehearsed, examined by the mind, and well comprehended
@@ -87,7 +87,7 @@ by ear, rehearsed, examined by the mind, and well comprehended
 theoretically."
 
 <!--pg-->
-### N 4.192 Facts *Ṭhānasutta*
+### AN 4.192 Facts *Ṭhānasutta*
 
 "Mendicants, these four things can be known in four situations. What
 four?
@@ -198,7 +198,7 @@ attentive, not when inattentive; and only by the wise, not the witless.
 These are the four things that can be known in four situations."
 
 <!--pg-->
-### N 4.193 With Bhaddiya *Bhaddiyasutta*
+### AN 4.193 With Bhaddiya *Bhaddiyasutta*
 
 At one time the Buddha was staying near Vesālī, at the
 Great Wood, in the hall with the peaked roof. Then Bhaddiya the Licchavi
@@ -356,7 +356,7 @@ their lasting welfare and happiness---if they were sentient. How much
 more then a human being!"
 
 <!--pg-->
-### N 4.194 At Sāpūga *Sāmugiyasutta*
+### AN 4.194 At Sāpūga *Sāmugiyasutta*
 
 At one time Venerable Ānanda was staying in the land of the Koliyans,
 where they have a town named Sāpūga. Then several Koliyans
@@ -419,7 +419,7 @@ past sorrow and crying, to make an end of pain and sadness, to discover
 the system, and to realize extinguishment."
 
 <!--pg-->
-### N 4.195 With Vappa *Vappasutta*
+### AN 4.195 With Vappa *Vappasutta*
 
 At one time the Buddha was staying in the land of the Sakyans, near
 Kapilavatthu in the Banyan Tree Monastery. Then Vappa of the Sakyans, a
@@ -552,7 +552,7 @@ Excellent, sir! ... From this day forth, may the Buddha remember me as a
 lay follower who has gone for refuge for life."
 
 <!--pg-->
-### N 4.196 With Sāḷha *Sāḷhasutta*
+### AN 4.196 With Sāḷha *Sāḷhasutta*
 
 At one time the Buddha was staying near Vesālī, at the
 Great Wood, in the hall with the peaked roof. Then Sāḷha
@@ -648,7 +648,7 @@ freedom. A noble disciple with right freedom shatters the great mass of
 ignorance."
 
 <!--pg-->
-### N 4.197 Queen Mallikā *Mallikādevīsutta*
+### AN 4.197 Queen Mallikā *Mallikādevīsutta*
 
 At one time the Buddha was staying near Sāvatthī in Jeta's
 Grove, Anāthapiṇḍika's monastery. Then Queen
@@ -730,7 +730,7 @@ Excellent, sir! ... From this day forth, may the Buddha remember me as a
 lay follower who has gone for refuge for life."
 
 <!--pg-->
-### N 4.198 Fervent Mortification of Oneself *Attantapasutta*
+### AN 4.198 Fervent Mortification of Oneself *Attantapasutta*
 
 "Mendicants, these four people are found in the world. What four?
 
@@ -936,7 +936,7 @@ bliss, with self become divine.
 These are the four people found in the world."
 
 <!--pg-->
-### N 4.199 Craving, the Weaver *Taṇhāsutta*
+### AN 4.199 Craving, the Weaver *Taṇhāsutta*
 
 The Buddha said this:
 
@@ -986,7 +986,7 @@ and reeds, not escaping the places of loss, the bad places, the
 underworld, transmigration."
 
 <!--pg-->
-### N 4.200 Love and Hate *Pemasutta*
+### AN 4.200 Love and Hate *Pemasutta*
 
 "Mendicants, these four things are born of love and hate. What four?
 

@@ -1,21 +1,7 @@
-# The SuttaCentral Editions Series
+**Tuyển Tập Ấn Phẩm SuttaCentral**
 
-Since 2005 SuttaCentral has provided access to the texts, translations,
-and parallels of early Buddhist texts. In 2018 we started creating and
-publishing our translations of these seminal spiritual classics. The
-"Editions" series now makes selected translations available as books in
-various forms, including print, PDF, and EPUB.
+Kể từ năm 2005, SuttaCentral đã cung cấp quyền truy cập vào các bản kinh văn, các bản dịch, và các bản kinh tương đồng của các kinh điển Phật giáo sơ kỳ. Vào năm 2018, chúng tôi đã bắt đầu biên soạn và phát hành các bản dịch của chúng tôi về những tác phẩm kinh điển tâm linh quan trọng này. Tuyển Tập "Ấn Phẩm" nay giới thiệu các bản dịch chọn lọc dưới dạng sách với nhiều định dạng khác nhau, bao gồm bản in, PDF, và EPUB.
 
-Editions are selected from our most complete, well-crafted, and reliable
-translations. They aim to bring these texts to a wider audience in forms
-that reward mindful reading. Care is taken with every detail of the
-production, and we aim to meet or exceed professional best standards in
-every way. These are the core scriptures underlying the entire Buddhist
-tradition, and we believe that they deserve to be preserved and made
-available in the highest quality without compromise.
+Các ấn phẩm được chọn lọc từ những bản dịch đầy đủ nhất, được biên soạn công phu nhất, và đáng tin cậy nhất của chúng tôi. Chúng nhằm mục đích mang những kinh văn này đến với đông đảo độc giả hơn qua những hình thức giúp ích cho việc đọc và suy ngẫm trong *tỉnh thức* (mindful / sự chú tâm và nhận biết rõ ràng). Mọi chi tiết trong quá trình sản xuất đều được chăm chút cẩn thận, và chúng tôi hướng đến việc đạt hoặc vượt qua các tiêu chuẩn chuyên nghiệp tốt nhất về mọi mặt. Đây là những kinh điển cốt lõi làm nền tảng cho toàn bộ truyền thống Phật giáo, và chúng tôi tin rằng chúng xứng đáng được bảo tồn và phổ biến với chất lượng cao nhất mà không có bất kỳ sự thỏa hiệp nào.
 
-SuttaCentral is a charitable organization. Our work is accomplished by
-volunteers and through the generosity of our donors. Everything we
-create is offered to all of humanity free of any copyright or licensing
-restrictions.
-
+SuttaCentral là một tổ chức từ thiện. Công việc của chúng tôi được thực hiện bởi các tình nguyện viên và nhờ vào sự đóng góp hào phóng của các nhà tài trợ. Mọi sản phẩm chúng tôi tạo ra đều được cống hiến cho toàn nhân loại hoàn toàn miễn phí, không bị giới hạn bởi bất kỳ bản quyền hay giấy phép nào.

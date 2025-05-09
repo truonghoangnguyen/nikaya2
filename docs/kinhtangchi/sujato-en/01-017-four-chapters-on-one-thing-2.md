@@ -1,6 +1,6 @@
 # Four Chapters on One Thing (2-Dutiyavagga)
 
-### N 1.306--315 *Dutiyavagga*
+### AN 1.306--315 *Dutiyavagga*
 
 306\. "Mendicants, I do not see a single thing that gives rise to unskillful
 qualities, or, when they have arisen, makes them increase and grow like

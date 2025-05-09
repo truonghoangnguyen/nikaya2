@@ -1,6 +1,6 @@
 # Chương về Bố Thí
 
-### N 2.141--150 *Dānavagga*
+### AN 2.141--150 *Dānavagga*
 
 141\. "Có hai loại *bố thí* (gift / sự cho đi, cúng dường) này. Thế nào là hai? Bố thí *tài vật* (things of the flesh / vật chất, của cải vật chất) và bố thí *Pháp* (teaching / Giáo Pháp, lời dạy của Đức Phật). Đây là hai loại bố thí. Trong hai loại bố thí này, bố thí Pháp là cao thượng hơn."
 

@@ -1,6 +1,6 @@
 # The Chapter on Awakening
 
-### N 3.103 Before Awakening  *Pubbevasambodhasutta*
+### AN 3.103 Before Awakening  *Pubbevasambodhasutta*
 
 "Mendicants, before my awakening---when I was still unawakened but
 intent on awakening---I thought: 'What's the gratification in the world?
@@ -31,7 +31,7 @@ Knowledge and vision arose in me: 'My freedom is unshakable; this is my
 last rebirth; now there'll be no more future lives.'"
 
 <!--pg-->
-### N 3.104 Gratification (1st)  *Paṭhamaassādasutta*
+### AN 3.104 Gratification (1st)  *Paṭhamaassādasutta*
 
 "Mendicants, I went in search of the world's gratification, and I found
 it. I've seen clearly with wisdom the full extent of gratification in
@@ -55,7 +55,7 @@ Knowledge and vision arose in me: 'My freedom is unshakable; this is my
 last rebirth; now there'll be no more future lives.'"
 
 <!--pg-->
-### N 3.105 Gratification (2nd)  *Dutiyaassādasutta*
+### AN 3.105 Gratification (2nd)  *Dutiyaassādasutta*
 
 "Mendicants, if there were no gratification in the world, sentient
 beings wouldn't be aroused by it. But because there is gratification in
@@ -83,7 +83,7 @@ population with its ascetics and brahmins, its gods and humans---and
 they live detached, liberated, with a mind free of limits."
 
 <!--pg-->
-### N 3.106 Ascetics and Brahmins  *Samaṇabrāhmaṇasutta*
+### AN 3.106 Ascetics and Brahmins  *Samaṇabrāhmaṇasutta*
 
 "Mendicants, there are ascetics and brahmins who don't truly understand
 the world's gratification, drawback, and escape for what they are. I
@@ -98,7 +98,7 @@ an ascetic or brahmin, and live having realized it with their own
 insight."
 
 <!--pg-->
-### N 3.107 Wailing  *Ruṇṇasutta*
+### AN 3.107 Wailing  *Ruṇṇasutta*
 
 "Singing is regarded as wailing in the training of the Noble One.
 Dancing is regarded as madness. Too much laughter, showing the teeth, is
@@ -106,14 +106,14 @@ regarded as childish. So break off singing and dancing; and when you're
 appropriately pleased, it's enough to simply smile."
 
 <!--pg-->
-### N 3.108 Satisfaction  *Atittisutta*
+### AN 3.108 Satisfaction  *Atittisutta*
 
 "Mendicants, there are three indulgences that never satisfy. What three?
 Sleep, drinking beer and wine, and sexual intercourse. These are the
 three indulgences that never satisfy."
 
 <!--pg-->
-### N 3.109 Unprotected  *Arakkhitasutta*
+### AN 3.109 Unprotected  *Arakkhitasutta*
 
 Then the householder Anāthapiṇḍika went up to the Buddha,
 bowed, and sat down to one side. The Buddha said to him:
@@ -143,7 +143,7 @@ deeds are protected. ... Someone whose deeds of body, speech, and mind
 aren't rotten will have a good death."
 
 <!--pg-->
-### N 3.110 Fallen  *Byāpannasutta*
+### AN 3.110 Fallen  *Byāpannasutta*
 
 Seated to one side, the Buddha said to the householder
 Anāthapiṇḍika:
@@ -164,7 +164,7 @@ Someone whose deeds of body, speech, and mind are not fallen will have a
 good death."
 
 <!--pg-->
-### N 3.111 Sources (1st)  *Paṭhamanidānasutta*
+### AN 3.111 Sources (1st)  *Paṭhamanidānasutta*
 
 "Mendicants, there are these three sources that give rise to deeds. What
 three? Greed, hate, and delusion are sources that give rise to deeds.
@@ -183,7 +183,7 @@ to the cessation of more deeds, not their creation. These are three
 sources that give rise to deeds."
 
 <!--pg-->
-### N 3.112 Sources (2nd)  *Dutiyanidānasutta*
+### AN 3.112 Sources (2nd)  *Dutiyanidānasutta*
 
 "Mendicants, there are these three sources that give rise to deeds. What
 three?

@@ -1,6 +1,6 @@
 # The Chapter on Messengers of the Gods
 
-### N 3.31 With Divinity  *Sabrahmakasutta*
+### AN 3.31 With Divinity  *Sabrahmakasutta*
 
 "Mendicants, a family where the children honor their parents in their
 home is said to live with divinity. A family where the children honor
@@ -36,7 +36,7 @@ them, nurture them, and show them the world.
 > and they depart to rejoice in heaven."
 
 <!--pg-->
-### N 3.32 With Ānanda  *Ānandasutta*
+### AN 3.32 With Ānanda  *Ānandasutta*
 
 Then Venerable Ānanda went up to the Buddha, bowed, sat down to one
 side, and said to the Buddha:
@@ -82,7 +82,7 @@ Shore', in 'The Questions of Puṇṇaka. ' when I said:
 > they've crossed over rebirth and old age, I declare.'"
 
 <!--pg-->
-### N 3.33 With Sāriputta  *Sāriputtasutta*
+### AN 3.33 With Sāriputta  *Sāriputtasutta*
 
 Then Venerable Sāriputta.  went up to the Buddha, bowed, and
 sat down to one side. The Buddha said to him, "Maybe I'll teach Dhamma
@@ -124,7 +124,7 @@ to the Far Shore', in 'The Questions of Udaya' when I said:
 > the smashing of ignorance.'"
 
 <!--pg-->
-### N 3.34 Sources  *Nidānasutta*
+### AN 3.34 Sources  *Nidānasutta*
 
 "Mendicants, there are these three sources that give rise to deeds. What
 three? Greed, hate, and delusion are sources that give rise to deeds.
@@ -212,7 +212,7 @@ These are three sources that give rise to deeds.
 > would cast off all bad destinies."
 
 <!--pg-->
-### N 3.35 With Hatthaka  *Hatthakasutta*
+### AN 3.35 With Hatthaka  *Hatthakasutta*
 
 So I have heard.At one time the Buddha was staying near
 Āḷavī. , on a mat of leaves by a cow-path in a grove of
@@ -278,7 +278,7 @@ That's why I sleep at ease.
 > having found peace of mind."
 
 <!--pg-->
-### N 3.36 Messengers of the Gods  *Devadūtasutta*
+### AN 3.36 Messengers of the Gods  *Devadūtasutta*
 
 "There are, mendicants, these three messengers of the gods. What three?
 
@@ -437,7 +437,7 @@ myself.
 > and risen above all suffering."
 
 <!--pg-->
-### N 3.37 The Four Great Kings (1st)  *Catumahārājasutta*
+### AN 3.37 The Four Great Kings (1st)  *Catumahārājasutta*
 
 "On the eighth day of the fortnight, mendicants, the ministers and
 councillors of the four great kings wander about the world, thinking:
@@ -498,7 +498,7 @@ Why is that? Because that mendicant is free of greed, hate, and
 delusion."
 
 <!--pg-->
-### N 3.38 The Four Great Kings (2nd)  *Dutiyacatumahārājasutta*
+### AN 3.38 The Four Great Kings (2nd)  *Dutiyacatumahārājasutta*
 
 "Once upon a time, mendicants, Sakka, lord of gods, guiding the gods of
 the thirty-three, recited this verse:
@@ -534,7 +534,7 @@ death, from sorrow, lamentation, pain, sadness, and distress. He is
 exempt from suffering, I say."
 
 <!--pg-->
-### N 3.39 A Delicate Lifestyle  *Sukhumālasutta*
+### AN 3.39 A Delicate Lifestyle  *Sukhumālasutta*
 
 "My lifestyle was delicate, mendicants, most delicate, extremely
 delicate.
@@ -626,7 +626,7 @@ rejects the training and returns to a lesser life.
 > I'm committed to the spiritual life."
 
 <!--pg-->
-### N 3.40 In Charge  *Ādhipateyyasutta*
+### AN 3.40 In Charge  *Ādhipateyyasutta*
 
 "There are, mendicants, these three things to put in charge. What three?
 Putting oneself, the world, or the teaching in charge.

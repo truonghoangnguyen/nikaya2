@@ -2,7 +2,6 @@
 
 ### 1-10 Nữ Sắc v.v...
 
-<!--pg-->
 1\. Tôi nghe như vầy.:
 
 Một thời Thế Tôn trú ở Sàvatthi, rừng Jetavana, tại khu vườn ông Anàthapindika. Tại đấy, Thế Tôn bảo

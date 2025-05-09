@@ -1,6 +1,6 @@
 # Four Chapters on One Thing (3-Tatiyavagga)
 
-### N 1.316--332 *Tatiyavagga*
+### AN 1.316--332 *Tatiyavagga*
 
 316\. "One person, mendicants, arises in the world for the detriment and
 suffering of the people, against the people, for the harm, detriment,

@@ -1,6 +1,6 @@
 # The Chapter on a Lump of Salt
 
-### N 3.92 Urgent  *Accāyikasutta*
+### AN 3.92 Urgent  *Accāyikasutta*
 
 "Mendicants, a farmer has three urgent duties. What three? A farmer
 swiftly makes sure the field is well ploughed and tilled. Next they
@@ -25,7 +25,7 @@ undertaking the training in the higher ethics, the higher mind, and the
 higher wisdom.' That's how you should train."
 
 <!--pg-->
-### N 3.93 Seclusion  *Pavivekasutta*
+### AN 3.93 Seclusion  *Pavivekasutta*
 
 "Mendicants, wanderers of other religions advocate three kinds of
 seclusion. What three? Seclusion in robes, almsfood, and lodgings.
@@ -73,7 +73,7 @@ mendicant who has reached the peak and the pith, being pure and
 consolidated in the core."
 
 <!--pg-->
-### N 3.94 Autumn  *Saradasutta*
+### AN 3.94 Autumn  *Saradasutta*
 
 "In the autumn, the heavens are clear and cloudless. And as the sun is
 rising to the firmament, having dispelled all the darkness of space, it
@@ -91,7 +91,7 @@ connected. If that noble disciple passed away at that time, they're
 bound by no fetter that might return them to this world."
 
 <!--pg-->
-### N 3.95 Assemblies  *Parisāsutta*
+### AN 3.95 Assemblies  *Parisāsutta*
 
 "Mendicants, these are the three assemblies. What three? An assembly of
 the best, a divided assembly, and a harmonious assembly.
@@ -140,7 +140,7 @@ samādhi.
 These are the three assemblies."
 
 <!--pg-->
-### N 3.96 The Thoroughbred (1st)  *Paṭhamaājānīyasutta*
+### AN 3.96 The Thoroughbred (1st)  *Paṭhamaājānīyasutta*
 
 "Mendicants, a fine royal thoroughbred with three factors is worthy of a
 king, fit to serve a king, and reckoned as a factor of kingship. What
@@ -177,7 +177,7 @@ worthy of veneration with joined palms, and is the supreme field of
 merit for the world."
 
 <!--pg-->
-### N 3.97 The Thoroughbred (2nd)  *Dutiyaājānīyasutta*
+### AN 3.97 The Thoroughbred (2nd)  *Dutiyaājānīyasutta*
 
 "Mendicants, a fine royal thoroughbred with three factors is worthy of a
 king, fit to serve a king, and considered a factor of kingship. What
@@ -214,7 +214,7 @@ worthy of veneration with joined palms, and is the supreme field of
 merit for the world."
 
 <!--pg-->
-### N 3.98 The Thoroughbred (3rd)  *Tatiyaājānīyasutta*
+### AN 3.98 The Thoroughbred (3rd)  *Tatiyaājānīyasutta*
 
 "Mendicants, a fine royal thoroughbred with three factors is worthy of a
 king, fit to serve a king, and considered a factor of kingship. What
@@ -251,7 +251,7 @@ worthy of veneration with joined palms, and is the supreme field of
 merit for the world."
 
 <!--pg-->
-### N 3.99 Jute  *Potthakasutta*
+### AN 3.99 Jute  *Potthakasutta*
 
 "Jute canvas is ugly, unpleasant to touch, and worthless whether it's
 new, worn in, or worn out. They use worn out jute canvas for scrubbing
@@ -313,7 +313,7 @@ So you should train like this: 'We will be like cloth from
 Kāsi, not like jute canvas.' That's how you should train."
 
 <!--pg-->
-### N 3.100 A Lump of Salt  *Loṇakapallasutta*
+### AN 3.100 A Lump of Salt  *Loṇakapallasutta*
 
 "Mendicants, suppose you say: 'No matter how this person performs a
 deed, they experience it the same way.' This being so, the spiritual
@@ -409,7 +409,7 @@ spiritual life can be lived, and there is a chance of making a complete
 end of suffering."
 
 <!--pg-->
-### N 3.101 A Panner  *Paṁsudhovakasutta*
+### AN 3.101 A Panner  *Paṁsudhovakasutta*
 
 "Native gold has coarse corruptions: sand, soil, and gravel. A panner or
 their apprentice pours it into a pan, where they wash, rinse, and clean
@@ -520,7 +520,7 @@ insight due to the ending of defilements.' They are capable of realizing
 these things, since each and every one is within range."
 
 <!--pg-->
-### N 3.102 Basis  *Nimittasutta*
+### AN 3.102 Basis  *Nimittasutta*
 
 "Mendicants, a mendicant committed to the higher mind should focus on
 three bases from time to time: the basis of immersion, the basis of

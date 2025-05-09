@@ -65,3 +65,53 @@ tu tập trạch pháp giác chi, tu tập tinh tấn giác chi, tu tập hỷ g
 giác chi, tu tập xả giác chi, tu tập chánh tri kiến, tu tập chánh tư duy, tu tập chánh ngữ, tu tập chánh
 nghiệp, tu tập chánh mạng, tu tập chánh tinh tấn, tu tập chánh niệm, tu tập chánh định. Này các Tỷ-kheo,
 đây gọi là trung đạo lộ.
+
+<!--pg-->
+# XVI. Phẩm Lõa Thể (2)
+
+### 153.- Sát Sanh
+
+− Ðầy đủ ba pháp, này các Tỷ-kheo, tương xứng như vậy, bị rơi vào địa ngục. Thế nào là ba?
+
+Tự mình sát sanh, khích lệ người khác sát sanh, tùy hỷ sự sát sanh. Ðầy đủ ba pháp này, này các Tỷkheo, tương xứng như vậy, bị rơi vào địa ngục.
+
+Ðầy đủ ba pháp này, này các Tỷ-kheo, tương xứng như vậy được sanh thiên giới. Thế nào là ba?
+
+Tự mình từ bỏ sát sanh, khích lệ người khác từ bỏ sát sanh, tùy hỷ sự từ bỏ sát sanh. Ðầy đủ ba pháp
+này, này các Tỷ-kheo, tương xứng như vậy, được sanh thiên giới.
+
+<!--pg-->
+### 154.- Lấy Của Không Cho
+
+(Giống như kinh trên, chỉ khác đây là lấy của không cho)...
+
+<!--pg-->
+### 155.- Tà Hạnh Trong Dục Vọng
+
+(Giống như kinh trên, chỉ khác đây là tà hạnh trong dục vọng)...
+
+<!--pg-->
+### 156-162. Tà ngữ
+
+... (Giống như kinh trên, chỉ khác tuần tự các pháp sau này: nói láo, nói hai lưỡi, nói lời độc ác, nói lời
+phù phiếm, tham, san, tà kiến )...
+
+# XVI. Phẩm Lõa Thể (3)
+
+### 163.- Ðịnh
+
+− Ðể thắng tri tham ái, này các Tỷ-kheo, ba pháp cần phải tu tập. Thế nào là ba?
+
+Không định, vô tướng định, vô nguyện định. Ðể thắng tri tham ái, này các Tỷ-kheo, ba pháp này cần
+phải tu tập.
+
+Này các Tỷ-kheo, để biến tri, biến diệt, đoạn tận, diệt tận, trừ diệt, ly tham, đoạn diệt, trừ khử, từ bỏ
+tham, ba pháp này, này các Tỷ-kheo, cần phải tu tập.
+
+Này các Tỷ-kheo, để biến tri, biến diệt, đoạn tận, diệt tận, trừ diệt, ly tham, đoạn diệt, trừ khử, từ bỏ
+sân... từ bỏ si... từ bỏ phẫn nộ... từ bỏ hận... từ bỏ giả dối... từ bỏ não hại... từ bỏ tật đố... từ bỏ xan lẫn...
+từ bỏ man trá... từ bỏ phản bội... từ bỏ ngoan cố... từ bỏ bồng bột nông nổi... từ bỏ mạn, từ bỏ tăng
+thượng mạn... từ bỏ kiêu... từ bỏ phóng dật, ba pháp này, này các Tỷ-kheo, cần phải tu tập.
+
+Thế Tôn thuyết giảng như vậy. Các vị Tỷ kheo ấy hoan hỷ tín thọ lời Thế Tôn dạy.
+

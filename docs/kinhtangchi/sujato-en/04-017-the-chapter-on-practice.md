@@ -1,7 +1,7 @@
 # The Chapter on Practice
 
 
-### N 4.161 In Brief *Saṁkhittasutta*
+### AN 4.161 In Brief *Saṁkhittasutta*
 
 "Mendicants, there are four ways of practice. What four?
 
@@ -16,7 +16,7 @@
 These are the four ways of practice."
 
 <!--pg-->
-### N 4.162 In Detail *Vitthārasutta*
+### AN 4.162 In Detail *Vitthārasutta*
 
 "Mendicants, there are four ways of practice. What four?
 
@@ -63,7 +63,7 @@ called the pleasant practice with swift insight.
 These are the four ways of practice."
 
 <!--pg-->
-### N 4.163 Ugly *Asubhasutta*
+### AN 4.163 Ugly *Asubhasutta*
 
 "Mendicants, there are four ways of practice. What four?
 
@@ -130,7 +130,7 @@ life. This is called the pleasant practice with swift insight.
 These are the four ways of practice."
 
 <!--pg-->
-### N 4.164 Patient (1st) *Paṭhamakhamasutta*
+### AN 4.164 Patient (1st) *Paṭhamakhamasutta*
 
 "Mendicants, there are four ways of practice. What four? Impatient
 practice, patient practice, taming practice, and calming practice.
@@ -166,7 +166,7 @@ calming practice.
 These are the four ways of practice."
 
 <!--pg-->
-### N 4.165 Patience (2nd) *Dutiyakhamasutta*
+### AN 4.165 Patience (2nd) *Dutiyakhamasutta*
 
 "Mendicants, there are four ways of practice. What four? Impatient
 practice, patient practice, taming practice, and calming practice.
@@ -204,7 +204,7 @@ calming practice.
 These are the four ways of practice."
 
 <!--pg-->
-### N 4.166 Both *Ubhayasutta*
+### AN 4.166 Both *Ubhayasutta*
 
 "Mendicants, there are four ways of practice. What four?
 
@@ -233,7 +233,7 @@ said to be superior in both ways.
 These are the four ways of practice."
 
 <!--pg-->
-### N 4.167 Moggallāna's Practice *Mahāmoggallānasutta*
+### AN 4.167 Moggallāna's Practice *Mahāmoggallānasutta*
 
 Then Venerable Sāriputta went up to Venerable
 Mahāmoggallāna, and exchanged greetings with him. When the
@@ -259,7 +259,7 @@ grasping?"
 with swift insight to free my mind from defilements by not grasping."
 
 <!--pg-->
-### N 4.168 Sāriputta's Practice *Sāriputtasutta*
+### AN 4.168 Sāriputta's Practice *Sāriputtasutta*
 
 Then Venerable Mahāmoggallāna went up to Venerable
 Sāriputta, and exchanged greetings with him. When the
@@ -285,7 +285,7 @@ grasping?"
 with swift insight to free my mind from defilements by not grasping."
 
 <!--pg-->
-### N 4.169 Extra Effort *Sasaṅkhārasutta*
+### AN 4.169 Extra Effort *Sasaṅkhārasutta*
 
 "Mendicants, these four people are found in the world. What four?
 
@@ -350,7 +350,7 @@ making extra effort.
 These are the four people found in the world."
 
 <!--pg-->
-### N 4.170 In Conjunction *Yuganaddhasutta*
+### AN 4.170 In Conjunction *Yuganaddhasutta*
 
 So I have heard. At one time Venerable Ānanda was staying
 near Kosambī, in Ghosita's Monastery. There Ānanda

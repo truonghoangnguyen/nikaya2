@@ -1,6 +1,6 @@
 # The Chapter on Deities
 
-### N 6.65 The Fruit of Non-Return  *Anāgāmiphalasutta*
+### AN 6.65 The Fruit of Non-Return  *Anāgāmiphalasutta*
 
 "Mendicants, without giving up six things you can't realize the fruit of
 non-return. What six? Lack of faith, conscience, and prudence; laziness,
@@ -13,7 +13,7 @@ and witlessness. After giving up these six things you can realize the
 fruit of non-return."
 
 <!--pg-->
-### N 6.66 Perfection  *Arahattasutta*
+### AN 6.66 Perfection  *Arahattasutta*
 
 "Mendicants, without giving up six things you can't realize perfection.
 What six? Dullness, drowsiness, restlessness, remorse, lack of faith,
@@ -26,7 +26,7 @@ negligence. After giving up these six things you can realize
 perfection."
 
 <!--pg-->
-### N 6.67 Friends  *Mittasutta*
+### AN 6.67 Friends  *Mittasutta*
 
 "Mendicants, it is quite impossible that a mendicant with bad friends,
 companions, and associates, while frequenting, accompanying, and
@@ -49,7 +49,7 @@ sensual desire, and desire to be reborn in the realm of luminous form
 and in the formless realm."
 
 <!--pg-->
-### N 6.68 Enjoying Company  *Saṅgaṇikārāmasutta*
+### AN 6.68 Enjoying Company  *Saṅgaṇikārāmasutta*
 
 "Mendicants, it is quite impossible that a mendicant who enjoys company
 and groups, who loves them and likes to enjoy them, should take pleasure
@@ -72,7 +72,7 @@ to give up the fetters. Having given up the fetters, it's possible to
 realize extinguishment."
 
 <!--pg-->
-### N 6.69 A God  *Devatāsutta*
+### AN 6.69 A God  *Devatāsutta*
 
 Then, late at night, a glorious deity, lighting up the entire Jeta's
 Grove, went up to the Buddha, bowed, stood to one side, and said to him:
@@ -128,7 +128,7 @@ correctly. This is how to understand the detailed meaning of what I said
 in brief."
 
 <!--pg-->
-### N 6.70 Immersion  *Samādhisutta*
+### AN 6.70 Immersion  *Samādhisutta*
 
 "Mendicants, it is quite impossible that a mendicant without immersion
 that is peaceful, refined, tranquil, and unified will wield the many
@@ -180,7 +180,7 @@ freedom by wisdom in this very life, and live having realized it with
 their own insight due to the ending of defilements."
 
 <!--pg-->
-### N 6.71 Capable of Realizing  *Sakkhibhabbasutta*
+### AN 6.71 Capable of Realizing  *Sakkhibhabbasutta*
 
 "Mendicants, a mendicant with six qualities is incapable of realizing
 anything that can be realized, since each and every one is within range.
@@ -200,7 +200,7 @@ mendicant with these six qualities is capable of realizing anything that
 can be realized, since each and every one is within range."
 
 <!--pg-->
-### N 6.72 Strength  *Balasutta*
+### AN 6.72 Strength  *Balasutta*
 
 "Mendicants, a mendicant who has six qualities can't attain strength in
 immersion. What six? It's when a mendicant is not skilled in entering
@@ -216,7 +216,7 @@ practice carefully and persistently, and do what's suitable. A mendicant
 who has these six qualities can attain strength in immersion."
 
 <!--pg-->
-### N 6.73 First Absorption (1st)  *Paṭhamatajjhānasutta*
+### AN 6.73 First Absorption (1st)  *Paṭhamatajjhānasutta*
 
 "Mendicants, without giving up these six qualities you can't enter and
 remain in the first absorption. What six? Desire for sensual pleasures,
@@ -233,7 +233,7 @@ wisdom. After giving up these six qualities you can enter and remain in
 the first absorption."
 
 <!--pg-->
-### N 6.74 First Absorption (2nd)  *Dutiyatajjhānasutta*
+### AN 6.74 First Absorption (2nd)  *Dutiyatajjhānasutta*
 
 "Mendicants, without giving up these six qualities you can't enter and
 remain in the first absorption. What six? Sensual, malicious, and cruel

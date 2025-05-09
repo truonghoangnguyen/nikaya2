@@ -1,6 +1,6 @@
 # Chương về Hoàn Cảnh
 
-### N 4.31 Hoàn Cảnh *Cakkasutta*
+### AN 4.31 Hoàn Cảnh *Cakkasutta*
 
 "Này các Tỳ kheo, có bốn hoàn cảnh này. Khi những hoàn cảnh này xảy ra, bất kỳ chư thiên hay loài người nào tận dụng chúng sẽ sớm đạt được tài sản lớn lao và dồi dào. Bốn hoàn cảnh đó là gì? Sống ở *xứ sở thích hợp*, nương tựa *bậc chân nhân*, tự mình có *chí hướng chân chánh*, và có *phước đức quá khứ* (past merit / phước báu đã tạo trong đời trước).
 
@@ -14,7 +14,7 @@
 > Và hạnh phúc sẽ đến với họ."
 
 <!--pg-->
-### N 4.32 Nhiếp Phục *Saṅgahasutta*
+### AN 4.32 Nhiếp Phục *Saṅgahasutta*
 
 "Này các Tỳ kheo, có bốn *tứ nhiếp pháp* (four ways of being inclusive / bốn pháp thu phục lòng người) này. Bốn pháp đó là gì? *Bố thí* (Giving / cho đi), *ái ngữ* (kindly words / lời nói dễ thương), *lợi hành* (taking care / hành động vì lợi ích người khác), và *đồng sự* (equality / cùng làm việc và chia sẻ).
 
@@ -38,7 +38,7 @@
 > Và được tán dương."
 
 <!--pg-->
-### N 4.33 Sư Tử *Sīhasutta*
+### AN 4.33 Sư Tử *Sīhasutta*
 
 "Này các Tỳ kheo, vào buổi chiều, sư tử, vua loài thú, ra khỏi hang, ngáp, nhìn khắp bốn phương, và rống lên tiếng rống sư tử ba lần. Sau đó, nó lên đường săn mồi. Và những con thú nghe tiếng rống của sư tử, vua loài thú, thường tràn đầy sợ hãi, kinh hoàng và khiếp đảm. Chúng trở về hang ổ của mình, dù ở trong hang, dưới nước, hay trong rừng; và các loài chim bay lên không trung. Ngay cả những con voi của hoàng gia, bị trói bằng dây cương chắc chắn trong các làng, thị trấn và kinh thành, cũng bứt đứt dây trói, và kinh hoàng đến mức tiểu tiện, đại tiện rồi chạy trốn tán loạn. Oai lực của sư tử, vua loài thú, đối với các loài vật là như vậy đó, thật lừng lẫy và hùng mạnh.
 
@@ -69,7 +69,7 @@ Oai lực của Như Lai trong thế giới cùng với chư thiên là như v�
 > Của bậc A-la-hán, tự tại và vô nhiễm."
 
 <!--pg-->
-### N 4.34 Niềm Tin Tối Thượng *Aggappasādasutta*
+### AN 4.34 Niềm Tin Tối Thượng *Aggappasādasutta*
 
 "Này các Tỳ kheo, bốn loại *tín* (confidence / niềm tin) này là tối thượng. Bốn loại đó là gì?
 
@@ -104,7 +104,7 @@ Sự *ly tham* (fading away / sự phai nhạt tham ái) được xem là tối 
 > Họ hoan hỷ đạt đến điều tối thượng."
 
 <!--pg-->
-### N 4.35 Với Vassakāra *Vassakārasutta*
+### AN 4.35 Với Vassakāra *Vassakārasutta*
 
 Một thời Thế Tôn trú gần thành Rājagaha (Vương Xá), trong Trúc Lâm, nơi nuôi dưỡng các con sóc. Bấy giờ, Bà-la-môn Vassakāra, một đại thần của xứ Magadha (Ma-kiệt-đà), đến gặp Thế Tôn và chào hỏi Ngài. Sau khi chào hỏi và nói chuyện thân mật, ông ngồi xuống một bên và thưa với Thế Tôn:
 
@@ -151,7 +151,7 @@ Này Bà-la-môn, Ta không đồng ý cũng không phản đối ông, nhưng k
 > Được gọi là 'bậc đại nhân, đại trí tuệ'."
 
 <!--pg-->
-### N 4.36 Doṇa *Doṇasutta*
+### AN 4.36 Doṇa *Doṇasutta*
 
 Một thời Thế Tôn đang đi trên con đường giữa Ukkaṭṭhā và Setavyā, Bà-la-môn Doṇa cũng vậy.
 
@@ -198,7 +198,7 @@ Này Bà-la-môn, hãy ghi nhớ Ta là một vị *Phật* (Buddha / bậc giá
 > Vì vậy, Bà-la-môn, Ta là Phật."
 
 <!--pg-->
-### N 4.37 Không Suy Thoái *Aparihāniyasutta*
+### AN 4.37 Không Suy Thoái *Aparihāniyasutta*
 
 "Này các Tỳ kheo, một Tỳ kheo có bốn pháp này thì không thể suy thoái, và đã đến gần *Niết-bàn* (extinguishment / sự tịch diệt). Bốn pháp đó là gì? Một Tỳ kheo *thành tựu giới hạnh* (accomplished in ethics / giữ gìn giới luật trọn vẹn), *hộ trì các căn* (guards the sense doors / bảo vệ các giác quan), *tiết độ trong ăn uống* (eats in moderation / ăn uống có chừng mực), và *chú tâm tỉnh thức* (dedicated to wakefulness / chuyên tâm vào sự tỉnh táo).
 
@@ -226,7 +226,7 @@ Và thế nào là một Tỳ kheo chú tâm tỉnh thức? Đó là khi một T
 > Và đã đến gần Niết-bàn."
 
 <!--pg-->
-### N 4.38 Ẩn Dật *Patilīnasutta*
+### AN 4.38 Ẩn Dật *Patilīnasutta*
 
 "Này các Tỳ kheo, một Tỳ kheo đã loại bỏ các *tà kiến* (idiosyncratic interpretations of the truth / các quan điểm sai lệch), đã hoàn toàn từ bỏ sự *tìm cầu* (searching / sự mong muốn, theo đuổi), đã *an tịnh thân hành* (stilled the physical process / làm lắng dịu các hoạt động của thân, đặc biệt là hơi thở), và được gọi là người '*ẩn dật*' (withdrawn / sống xa lánh, không dính mắc).
 
@@ -255,7 +255,7 @@ Và thế nào là một Tỳ kheo ẩn dật? Đó là khi họ đã từ bỏ 
 > Họ được gọi là 'ẩn dật'."
 
 <!--pg-->
-### N 4.39 Với Ujjaya *Ujjayasutta*
+### AN 4.39 Với Ujjaya *Ujjayasutta*
 
 Bấy giờ Bà-la-môn Ujjaya đến gặp Thế Tôn và chào hỏi Ngài. Sau khi chào hỏi và nói chuyện thân mật, ông ngồi xuống một bên và thưa với Thế Tôn:
 
@@ -289,7 +289,7 @@ Nhưng hãy xem loại tế lễ mà trong đó bò, dê và cừu, gà và heo,
 > Và ngay cả *chư thiên* (deities / các vị trời) cũng hài lòng."
 
 <!--pg-->
-### N 4.40 Với Udāyī *Udāyīsutta*
+### AN 4.40 Với Udāyī *Udāyīsutta*
 
 Bấy giờ Bà-la-môn Udāyī đến gặp Thế Tôn, ... và hỏi Ngài, "Tôn giả Gotama có tán dương tế lễ không?"
 

@@ -1,6 +1,6 @@
 # The Chapter on Disciplinary Issues
 
-### N 2.11--20 *Adhikaraṇavagga*
+### AN 2.11--20 *Adhikaraṇavagga*
 
 <!--pg-->
 11\. "There are, mendicants, these two powers. What two? The power of

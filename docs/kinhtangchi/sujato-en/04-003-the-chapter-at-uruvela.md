@@ -1,7 +1,7 @@
 # The Chapter at Uruvelā
 
 
-### N 4.21 At Uruvelā (1st) *Paṭhamauruvelasutta*
+### AN 4.21 At Uruvelā (1st) *Paṭhamauruvelasutta*
 
 So I have heard. At one time the Buddha was staying near
 Sāvatthī in Jeta's Grove, Anāthapiṇḍika's
@@ -78,7 +78,7 @@ I was awakened. And since the Saṅgha has also achieved
 greatness, I also respect the Saṅgha."
 
 <!--pg-->
-### N 4.22 At Uruvelā (2nd) *Dutiyauruvelasutta*
+### AN 4.22 At Uruvelā (2nd) *Dutiyauruvelasutta*
 
 "Mendicants, this one time, when I was first awakened, I was staying in
 Uruvelā at the goatherd's banyan tree on the bank of the
@@ -157,7 +157,7 @@ These are the four qualities that make a senior.
 > is declared a 'senior'."
 
 <!--pg-->
-### N 4.23 The World *Lokasutta*
+### AN 4.23 The World *Lokasutta*
 
 "Mendicants, the world has been understood by the Realized One; and he
 is detached from the world. The origin of the world has been understood
@@ -223,7 +223,7 @@ the wielder of power. That's why he's called the 'Realized One'.
 > he has no rival."
 
 <!--pg-->
-### N 4.24 At Kāḷaka's Monastery *Kāḷakārāmasutta*
+### AN 4.24 At Kāḷaka's Monastery *Kāḷakārāmasutta*
 
 At one time the Buddha was staying near Sāketa, in
 Kāḷaka's monastery. There the Buddha addressed the
@@ -277,7 +277,7 @@ that there is no better or finer poise than this.
 > the Realized Ones have no attachments."
 
 <!--pg-->
-### N 4.25 The Spiritual Life *Brahmacariyasutta*
+### AN 4.25 The Spiritual Life *Brahmacariyasutta*
 
 "Mendicants, this spiritual life is not lived for the sake of deceiving
 people or flattering them, nor for the benefit of possessions, honor, or
@@ -298,7 +298,7 @@ restraint, giving up, fading away, and cessation.
 > make an end of suffering."
 
 <!--pg-->
-### N 4.26 Deceivers *Kuhasutta*
+### AN 4.26 Deceivers *Kuhasutta*
 
 "Mendicants, those mendicants who are deceivers and flatterers, pompous
 and fake, insolent, and scattered: those mendicants are no followers of
@@ -322,7 +322,7 @@ improvement, or maturity in this teaching and training.
 > that was taught by the perfected Buddha."
 
 <!--pg-->
-### N 4.27 Contentment *Santuṭṭhisutta*
+### AN 4.27 Contentment *Santuṭṭhisutta*
 
 "Mendicants, these four trifles are easy to find and are blameless. What
 four? Rag-robes ... A lump of almsfood ... Lodgings at the root of a
@@ -345,7 +345,7 @@ factors of the ascetic life, I say.
 > content and diligent."
 
 <!--pg-->
-### N 4.28 The Noble Traditions *Ariyavaṁsasutta*
+### AN 4.28 The Noble Traditions *Ariyavaṁsasutta*
 
 "Mendicants, these four noble traditions are primordial, long-standing,
 traditional, and ancient. They are uncorrupted, as they have been since
@@ -395,7 +395,7 @@ Because the attentive prevail over desire and discontent.
 > and by the Divinity, too, they're praised."
 
 <!--pg-->
-### N 4.29 Footprints of the Dhamma *Dhammapadasutta*
+### AN 4.29 Footprints of the Dhamma *Dhammapadasutta*
 
 "Mendicants, these four footprints of the Dhamma are primordial,
 long-standing, traditional, and ancient. They are uncorrupted, as they
@@ -414,7 +414,7 @@ Sensible ascetics and brahmins don't look down on them.
 > serene within."
 
 <!--pg-->
-### N 4.30 Wanderers *Paribbājakasutta*
+### AN 4.30 Wanderers *Paribbājakasutta*
 
 At one time the Buddha was staying near Rājagaha, on the
 Vulture's Peak Mountain.

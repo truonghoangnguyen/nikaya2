@@ -1,7 +1,7 @@
 # The Chapter on Walking
 
 
-### N 4.11 Walking *Carasutta*
+### AN 4.11 Walking *Carasutta*
 
 "Mendicants, suppose a mendicant has a sensual, malicious, or cruel
 thought while walking. They tolerate it and don't give it up, get rid of
@@ -43,7 +43,7 @@ and determined' when lying down while awake."
 > of experiencing the highest awakening."
 
 <!--pg-->
-### N 4.12 Ethics *Sīlasutta*
+### AN 4.12 Ethics *Sīlasutta*
 
 "Mendicants, live by the ethical precepts and the monastic code. Live
 restrained in the monastic code, conducting yourselves well and
@@ -83,7 +83,7 @@ awake.
 > 'always determined'."
 
 <!--pg-->
-### N 4.13 Effort *Padhānasutta*
+### AN 4.13 Effort *Padhānasutta*
 
 "Mendicants, there are these four right efforts. What four?
 
@@ -112,7 +112,7 @@ These are the four right efforts.
 > \>they're happy."
 
 <!--pg-->
-### N 4.14 Restraint *Saṁvarasutta*
+### AN 4.14 Restraint *Saṁvarasutta*
 
 "Mendicants, there are these four efforts. What four? The efforts to
 restrain, to give up, to develop, and to preserve.
@@ -161,7 +161,7 @@ These are the four efforts.
 > may attain the ending of suffering."
 
 <!--pg-->
-### N 4.15 Regarded as Foremost *Paññattisutta*
+### AN 4.15 Regarded as Foremost *Paññattisutta*
 
 "Mendicants, these four are regarded as foremost. What four? The
 foremost in size of incarnation is Rāhu, lord of titans.
@@ -183,7 +183,7 @@ four regarded as foremost.
 > the Buddha is declared foremost."
 
 <!--pg-->
-### N 4.16 Subtlety *Sokhummasutta*
+### AN 4.16 Subtlety *Sokhummasutta*
 
 "Mendicants, there are these four kinds of subtlety. What four?
 
@@ -218,7 +218,7 @@ These are the four kinds of subtlety.
 > having vanquished Māra and his mount."
 
 <!--pg-->
-### N 4.17 Prejudice (1st) *Paṭhamaagatisutta*
+### AN 4.17 Prejudice (1st) *Paṭhamaagatisutta*
 
 "Mendicants, there are these four ways of making prejudiced decisions.
 What four? Making decisions prejudiced by favoritism, hostility,
@@ -231,7 +231,7 @@ decisions.
 > like the moon in the waning fortnight."
 
 <!--pg-->
-### N 4.18 Prejudice (2nd) *Dutiyaagatisutta*
+### AN 4.18 Prejudice (2nd) *Dutiyaagatisutta*
 
 "Mendicants, there are these four ways of making unprejudiced decisions.
 What four? Making decisions unprejudiced by favoritism, hostility,
@@ -244,7 +244,7 @@ decisions.
 > like the moon in the waxing fortnight."
 
 <!--pg-->
-### N 4.19 Prejudice (3rd) *Tatiyaagatisutta*
+### AN 4.19 Prejudice (3rd) *Tatiyaagatisutta*
 
 "Mendicants, there are these four ways of making prejudiced decisions.
 What four? Making decisions prejudiced by favoritism, hostility,
@@ -266,7 +266,7 @@ cowardice. These are the four ways of making unprejudiced decisions.
 > like the moon in the waxing fortnight."
 
 <!--pg-->
-### N 4.20 A Meal Designator *Bhattuddesakasutta*
+### AN 4.20 A Meal Designator *Bhattuddesakasutta*
 
 "Mendicants, a meal designator who has four qualities is cast down to
 hell. What four? They make decisions prejudiced by favoritism,

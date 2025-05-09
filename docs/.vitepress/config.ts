@@ -1,11 +1,11 @@
 import { defineConfig } from 'vitepress'
 import footnote from 'markdown-it-footnote';
 // import markdownItKatex from 'markdown-it-katex';
+import { slugAnchor } from './utils';
 
 // run 1make_filelist.ipynb first
 // step 1/4: get file list
 import dn_thichminhchau from '../kinhtruongbo/thichminhchau/filelist';
-
 import mn_thichminhchau         from '../kinhtrungbo/thichminhchau/filelist';
 import nanamoli_bodhi_en        from '../kinhtrungbo/nanamoli-bodhi-en/filelist';
 import nanamoli_bodhi_en_intro  from '../kinhtrungbo/nanamoli-bodhi-en/intro/filelist';
@@ -47,6 +47,9 @@ export default defineConfig({
   description: "Trò chuyện cùng Phật",
 
   markdown: {
+    anchor: {
+      slugify: (s) => slugAnchor(s),
+    },
     // Your existing markdown config...
 
     config: (md) => {

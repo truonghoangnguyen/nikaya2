@@ -1,6 +1,6 @@
 # Chương về Sự Nguy Hiểm của Việc Phạm Giới
 
-### N 4.243 Chia Rẽ Tăng Đoàn *Saṁghabhedakasutta*
+### AN 4.243 Chia Rẽ Tăng Đoàn *Saṁghabhedakasutta*
 
 Một thời Thế Tôn trú ở Kosambī, tại tu viện Ghosita. Bấy giờ, *Tôn giả* (Venerable / cách gọi tôn kính một vị trưởng lão Tỳ kheo) Ānanda đi đến Thế Tôn, đảnh lễ rồi ngồi xuống một bên. Thế Tôn nói với Tôn giả Ānanda: "Này Ānanda, vấn đề *giới luật* (disciplinary issue / vấn đề liên quan đến kỷ luật tu sĩ) ấy đã được giải quyết chưa?"
 
@@ -19,7 +19,7 @@ Lại nữa, một tỳ kheo xấu ác tham muốn *lợi dưỡng* (material th
 Một tỳ kheo xấu ác thấy bốn lý do này để thích thú sự chia rẽ trong Tăng đoàn."
 
 <!--pg-->
-### N 4.244 Sự Nguy Hiểm của Việc Phạm Giới *Āpattibhayasutta*
+### AN 4.244 Sự Nguy Hiểm của Việc Phạm Giới *Āpattibhayasutta*
 
 "*Này các Tỳ kheo* (Mendicants / cách gọi các tu sĩ), có bốn *sự nguy hiểm của việc phạm giới* (perils of offenses / mối nguy hại khi vi phạm giới luật) này. Bốn điều gì?
 
@@ -34,7 +34,7 @@ Giả sử một người mặc áo vải đen và để tóc rối bù. Rồi n
 Đó là bốn sự nguy hiểm của việc phạm giới."
 
 <!--pg-->
-### N 4.245 Lợi Ích của Việc Học Pháp *Sikkhānisaṁsasutta*
+### AN 4.245 Lợi Ích của Việc Học Pháp *Sikkhānisaṁsasutta*
 
 "Này các Tỳ kheo, *đời sống phạm hạnh* (spiritual life / đời sống tu hành) này được sống với *học pháp* (training / sự thực hành, rèn luyện giới luật) là *lợi ích* (benefit / kết quả tốt đẹp), với *trí tuệ* (wisdom / sự hiểu biết đúng đắn) là *người giám sát* (overseer / người trông coi, quản lý), với *giải thoát* (freedom / sự thoát khỏi khổ đau, ràng buộc) là *cốt lõi* (core / phần tinh túy, quan trọng nhất), và với *chánh niệm* (mindfulness / sự tỉnh giác, ghi nhớ đúng đắn) là *người cai quản* (ruler / người điều khiển, chủ trì).
 
@@ -51,7 +51,7 @@ Và thế nào là chánh niệm làm người cai quản? Chánh niệm *an tr�
 'Đời sống phạm hạnh này được sống với học pháp là lợi ích, với trí tuệ là người giám sát, với giải thoát là cốt lõi, và với chánh niệm là người cai quản.' Đó là điều Ta đã nói, và đây là lý do Ta nói điều đó."
 
 <!--pg-->
-### N 4.246 Các Tư Thế Nằm *Seyyāsutta*
+### AN 4.246 Các Tư Thế Nằm *Seyyāsutta*
 
 "Này các Tỳ kheo, có bốn cách *nằm nghỉ* (lying down / tư thế nằm) này. Bốn cách gì? Cách nằm của *xác chết* (corpse / người đã chết), của *người hưởng thụ dục lạc* (pleasure seeker / người tìm kiếm thú vui giác quan), của *sư tử* (lion / loài vật được xem là vua của các loài thú), và của *Như Lai* (Realized One / bậc đã giác ngộ, danh hiệu của Đức Phật).
 
@@ -66,36 +66,36 @@ Và thế nào là cách nằm của Như Lai? Đó là khi một vị Như Lai,
 Đó là bốn cách nằm nghỉ."
 
 <!--pg-->
-### N 4.247 Đáng Được Dựng Tháp Thờ *Thūpārahasutta*
+### AN 4.247 Đáng Được Dựng Tháp Thờ *Thūpārahasutta*
 
 "Này các Tỳ kheo, bốn hạng người này *đáng được dựng tháp thờ* (worthy of a monument / xứng đáng được xây bảo tháp để tôn kính). Bốn hạng người nào? Một vị Như Lai, *bậc A la hán* (perfected one / người đã đạt giác ngộ hoàn toàn), *bậc Chánh Đẳng Giác* (fully awakened Buddha / Đức Phật Toàn Giác); một *bậc Độc Giác Phật* (Independent Buddha / Phật tự mình giác ngộ nhưng không thuyết pháp độ sinh rộng rãi, Paccekabuddha); một *đệ tử của Như Lai* (disciple of a Realized One / học trò của Đức Phật); và một vị *vua chuyển luân* (wheel-turning monarch / vị vua cai trị bằng Chánh pháp, Cakkavatti). Bốn hạng người này đáng được dựng tháp thờ."
 
 <!--pg-->
-### N 4.248 Sự Tăng Trưởng Trí Tuệ *Paññāvuddhisutta*
+### AN 4.248 Sự Tăng Trưởng Trí Tuệ *Paññāvuddhisutta*
 
 "Này các Tỳ kheo, bốn pháp này đưa đến *sự tăng trưởng trí tuệ* (growth of wisdom / sự phát triển của hiểu biết). Bốn pháp gì? *Thân cận bậc chân nhân* (associating with true persons / gần gũi người tốt, người có trí tuệ và đạo đức), *nghe diệu pháp* (listening to the true teaching / lắng nghe lời dạy đúng đắn), *như lý tác ý* (rational application of mind / hướng tâm đúng pháp), và *thực hành pháp tùy pháp* (practicing in line with the teaching / thực hành đúng theo lời dạy). Bốn pháp này đưa đến sự tăng trưởng trí tuệ."
 
 <!--pg-->
-### N 4.249 Rất Hữu Ích *Bahukārasutta*
+### AN 4.249 Rất Hữu Ích *Bahukārasutta*
 
 "Này các Tỳ kheo, bốn pháp này *rất hữu ích* (very helpful / mang lại nhiều lợi ích) cho một *con người* (human being / người). Bốn pháp gì? Thân cận bậc chân nhân, nghe diệu pháp, như lý tác ý, và thực hành pháp tùy pháp. Bốn pháp này rất hữu ích cho một con người."
 
 <!--pg-->
-### N 4.250 Cách Nói (1) *Paṭhamavohārasutta*
+### AN 4.250 Cách Nói (1) *Paṭhamavohārasutta*
 
 "Này các Tỳ kheo, có bốn *cách nói của kẻ không chân thật* này. Bốn cách gì? Nói rằng mình đã *thấy* (seen / nhìn thấy), *nghe* (heard / nghe thấy), *xúc chạm* (thought / cảm nhận qua các giác quan khác ngoài mắt, tai, ý), hay *nhận thức* (known / biết qua ý thức) điều gì đó, nhưng thực sự không phải vậy. Đây là bốn cách nói của kẻ không chân thật."
 
 <!--pg-->
-### N 4.251 Cách Nói (2) *Dutiyavohārasutta*
+### AN 4.251 Cách Nói (2) *Dutiyavohārasutta*
 
 "Này các Tỳ kheo, có bốn *cách nói của bậc chân nhân* này. Bốn cách gì? Nói rằng mình đã không thấy, không nghe, không xúc chạm, hay không nhận thức điều gì đó, và thực sự đúng là như vậy. Đây là bốn cách nói của bậc chân nhân."
 
 <!--pg-->
-### N 4.252 Cách Nói (3) *Tatiyavohārasutta*
+### AN 4.252 Cách Nói (3) *Tatiyavohārasutta*
 
 "Này các Tỳ kheo, có bốn cách nói của kẻ không chân thật này. Bốn cách gì? Nói rằng mình đã không thấy, không nghe, không xúc chạm, hay không nhận thức điều gì đó, nhưng thực sự lại có. Đây là bốn cách nói của kẻ không chân thật."
 
 <!--pg-->
-### N 4.253 Cách Nói (4) *Catutthavohārasutta*
+### AN 4.253 Cách Nói (4) *Catutthavohārasutta*
 
 "Này các Tỳ kheo, có bốn cách nói của bậc chân nhân này. Bốn cách gì? Nói rằng mình đã thấy, nghe, xúc chạm, hay nhận thức điều gì đó, và thực sự đúng là như vậy. Đây là bốn cách nói của bậc chân nhân."

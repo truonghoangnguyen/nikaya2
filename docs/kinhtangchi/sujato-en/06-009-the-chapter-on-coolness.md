@@ -1,6 +1,6 @@
 # The Chapter on Coolness
 
-### N 6.85 Coolness  *Sītibhāvasutta*
+### AN 6.85 Coolness  *Sītibhāvasutta*
 
 "Mendicants, a mendicant with six qualities can't realize supreme
 coolness. What six? It's when a mendicant doesn't keep their mind in
@@ -18,7 +18,7 @@ have excellent convictions. They delight in extinguishment. A mendicant
 with these six qualities can realize supreme coolness."
 
 <!--pg-->
-### N 6.86 Obstacles  *Āvaraṇasutta*
+### AN 6.86 Obstacles  *Āvaraṇasutta*
 
 "Mendicants, someone with six qualities is unable to enter the sure path
 with regards to skillful qualities even when listening to the true
@@ -35,7 +35,7 @@ able to enter the sure path with regards to skillful qualities when
 listening to the true teaching."
 
 <!--pg-->
-### N 6.87 A Murderer  *Voropitasutta*
+### AN 6.87 A Murderer  *Voropitasutta*
 
 "Mendicants, someone with six qualities is unable to enter the sure path
 with regards to skillful qualities even when listening to the true
@@ -54,7 +54,7 @@ with these six qualities is able to enter the sure path with regards to
 skillful qualities when listening to the true teaching."
 
 <!--pg-->
-### N 6.88 Wanting to Listen  *Sussūsatisutta*
+### AN 6.88 Wanting to Listen  *Sussūsatisutta*
 
 "Mendicants, someone with six qualities is unable to enter the sure path
 with regards to skillful qualities even when listening to the true
@@ -76,7 +76,7 @@ qualities is able to enter the sure path with regards to skillful
 qualities when listening to the true teaching."
 
 <!--pg-->
-### N 6.89 Not Giving Up  *Appahāyasutta*
+### AN 6.89 Not Giving Up  *Appahāyasutta*
 
 "Mendicants, without giving up six things you can't become accomplished
 in view. What six? Substantialist view, doubt, misapprehension of
@@ -91,7 +91,7 @@ in places of loss. After giving up these six things you can become
 accomplished in view."
 
 <!--pg-->
-### N 6.90 Given Up  *Pahīnasutta*
+### AN 6.90 Given Up  *Pahīnasutta*
 
 "Mendicants, a person accomplished in view has given up these six
 things. What six? Substantialist view, doubt, misapprehension of
@@ -100,7 +100,7 @@ lead to rebirth in places of loss. A person accomplished in view has
 given up these six things."
 
 <!--pg-->
-### N 6.91 Can't Give Rise  *Abhabbasutta*
+### AN 6.91 Can't Give Rise  *Abhabbasutta*
 
 "Mendicants, a person accomplished in view can't give rise to six
 things. What six? Substantialist view, doubt, misapprehension of
@@ -109,7 +109,7 @@ lead to rebirth in places of loss. A person accomplished in view can't
 give rise to these six things."
 
 <!--pg-->
-### N 6.92 Things That Can't Be Done (1st)  *Paṭhamaabhabbaṭṭhānasutta*
+### AN 6.92 Things That Can't Be Done (1st)  *Paṭhamaabhabbaṭṭhānasutta*
 
 "Mendicants, these six things can't be done. What six? A person
 accomplished in view can't live disrespectful and irreverent toward the
@@ -119,7 +119,7 @@ generate an eighth rebirth. These are the six things that can't be
 done."
 
 <!--pg-->
-### N 6.93 Things That Can't Be Done (2nd)  *Dutiyaabhabbaṭṭhānasutta*
+### AN 6.93 Things That Can't Be Done (2nd)  *Dutiyaabhabbaṭṭhānasutta*
 
 "Mendicants, these six things can't be done. What six? A person
 accomplished in view can't take conditions to be permanent. They cannot
@@ -130,7 +130,7 @@ can't seek outside of the Buddhist community for those worthy of
 religious donations. These are the six things that can't be done."
 
 <!--pg-->
-### N 6.94 Things That Can't Be Done (3rd)  *Tatiyaabhabbaṭṭhānasutta*
+### AN 6.94 Things That Can't Be Done (3rd)  *Tatiyaabhabbaṭṭhānasutta*
 
 "Mendicants, these six things can't be done. What six? A person
 accomplished in view can't murder their mother or father or a perfected
@@ -140,7 +140,7 @@ themselves to another teacher. These are the six things that can't be
 done."
 
 <!--pg-->
-### N 6.95 Things That Can't Be Done (4th)  *Catutthaabhabbaṭṭhānasutta*
+### AN 6.95 Things That Can't Be Done (4th)  *Catutthaabhabbaṭṭhānasutta*
 
 "Mendicants, these six things can't be done. What six? A person
 accomplished in view can't fall back on the idea that pleasure and pain

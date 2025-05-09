@@ -1,7 +1,7 @@
 # The Chapter on Persons
 
 
-### N 4.131 Fetters *Saṁyojanasutta*
+### AN 4.131 Fetters *Saṁyojanasutta*
 
 "Mendicants, these four people are found in the world. What four?
 
@@ -39,7 +39,7 @@ one.
 These are the four people found in the world."
 
 <!--pg-->
-### N 4.132 Eloquence *Paṭibhānasutta*
+### AN 4.132 Eloquence *Paṭibhānasutta*
 
 "Mendicants, these four people are found in the world. What four?
 
@@ -54,7 +54,7 @@ These are the four people found in the world."
 These are the four people found in the world."
 
 <!--pg-->
-### N 4.133 One Who Understands Immediately *Ugghaṭitaññūsutta*
+### AN 4.133 One Who Understands Immediately *Ugghaṭitaññūsutta*
 
 "Mendicants, these four people are found in the world. What four? One
 who understands immediately, one who understands after detailed
@@ -62,7 +62,7 @@ explanation, one who needs education, and one who merely learns by rote.
 These are the four people found in the world."
 
 <!--pg-->
-### N 4.134 The Fruits of Initiative *Uṭṭhānaphalasutta*
+### AN 4.134 The Fruits of Initiative *Uṭṭhānaphalasutta*
 
 "These four people are found in the world. What four?
 
@@ -77,7 +77,7 @@ These are the four people found in the world."
 These are the four people found in the world."
 
 <!--pg-->
-### N 4.135 Blameworthy *Sāvajjasutta*
+### AN 4.135 Blameworthy *Sāvajjasutta*
 
 "Mendicants, these four people are found in the world. What four? The
 blameworthy, the mostly blameworthy, the slightly blameworthy, and the
@@ -102,7 +102,7 @@ blameless.
 These are the four people found in the world."
 
 <!--pg-->
-### N 4.136 Ethics (1st) *Paṭhamasīlasutta*
+### AN 4.136 Ethics (1st) *Paṭhamasīlasutta*
 
 "Mendicants, these four people are found in the world. What four? One
 person has not fulfilled ethics, immersion, or wisdom.
@@ -116,7 +116,7 @@ One person has fulfilled ethics, immersion, and wisdom.
 These are the four people found in the world."
 
 <!--pg-->
-### N 4.137 Ethics (2nd) *Dutiyasīlasutta*
+### AN 4.137 Ethics (2nd) *Dutiyasīlasutta*
 
 "Mendicants, these four people are found in the world. What four?
 
@@ -133,7 +133,7 @@ These are the four people found in the world."
 These are the four people found in the world."
 
 <!--pg-->
-### N 4.138 Retreat *Nikaṭṭhasutta*
+### AN 4.138 Retreat *Nikaṭṭhasutta*
 
 "Mendicants, these four people are found in the world. What four?
 
@@ -168,7 +168,7 @@ a person is on retreat in both body and mind.
 These are the four people found in the world."
 
 <!--pg-->
-### N 4.139 Dhamma Speakers *Dhammakathikasutta*
+### AN 4.139 Dhamma Speakers *Dhammakathikasutta*
 
 "Mendicants, there are these four Dhamma speakers. What four?
 
@@ -191,7 +191,7 @@ such a Dhamma speaker simply as a Dhamma speaker.
 These are the four Dhamma speakers."
 
 <!--pg-->
-### N 4.140 Speaker *Vādīsutta*
+### AN 4.140 Speaker *Vādīsutta*
 
 "Mendicants, there are these four speakers. What four?
 

@@ -1,26 +1,11 @@
-# Acknowledgements
+# Lời Tri Ân
 
-I remember with gratitude all those from whom I have learned the Dhamma,
-especially Ajahn Brahm and Bhikkhu Bodhi, the two monks who more than
-anyone else showed me the depth, meaning, and practical value of the
-Suttas.
+Tôi xin thành kính tri ân tất cả những vị thầy đã dạy dỗ tôi về *Giáo Pháp* (Dhamma / Chánh Pháp), đặc biệt là Ngài Ajahn Brahm và Tỳ kheo Bodhi, hai vị sư đã hơn ai hết chỉ cho tôi thấy chiều sâu, ý nghĩa và giá trị thực tiễn của Kinh Tạng (Suttas / các bài Kinh).
 
-Special thanks to Dustin and Keiko Cheah and family, who sponsored my
-stay in Qi Mei while I made this translation.
+Xin đặc biệt cảm ơn gia đình Dustin và Keiko Cheah đã bảo trợ cho tôi trong thời gian lưu trú tại Qi Mei để thực hiện bản dịch này.
 
-Thanks also for Blake Walshe, who provided essential software support
-for my translation work.
+Cũng xin cảm ơn Blake Walshe, người đã cung cấp sự hỗ trợ phần mềm thiết yếu cho công việc dịch thuật của tôi.
 
-Throughout the process of translation, I have frequently sought feedback
-and suggestions from the SuttaCentral community on our forum, "Discuss
-and Discover". I want to thank all those who have made suggestions and
-contributed to my understanding, as well as to the moderators who have
-made the forum possible. These translations were significantly improved
-due to the careful work of my proofreaders: Ayyā
-Pāsādā, John and Lynn Kelly, and Derek Sola. Special thanks
-are due to Sabbamittā, a true friend of all, who has
-tirelessly and precisely checked my work.
+Trong suốt quá trình dịch thuật, tôi thường xuyên tìm kiếm phản hồi và góp ý từ cộng đồng SuttaCentral trên diễn đàn "Discuss and Discover" (Thảo Luận và Khám Phá) của chúng ta. Tôi muốn cảm ơn tất cả những người đã đóng góp ý kiến và giúp tôi hiểu sâu hơn, cũng như các quản trị viên đã giúp diễn đàn này có thể hoạt động. Những bản dịch này đã được cải thiện đáng kể nhờ vào sự làm việc cẩn trọng của những người hiệu đính: Ayyā Pāsādā, John và Lynn Kelly, và Derek Sola. Xin đặc biệt tri ân Sabbamittā, một người bạn chân thành của tất cả mọi người, người đã không mệt mỏi và tỉ mỉ kiểm tra công việc của tôi.
 
-Finally my everlasting thanks to all those people, far too many to
-mention, who have supported SuttaCentral, and those who have supported
-my life as a monastic. None of this would be possible without you.
+Cuối cùng, tôi xin gửi lời cảm ơn vô hạn đến tất cả những người, quá nhiều không thể kể hết tên, đã ủng hộ SuttaCentral, và những người đã hỗ trợ đời sống tu hành của tôi. Không có quý vị, không điều gì trong số này có thể thành hiện thực.

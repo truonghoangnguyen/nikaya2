@@ -1,6 +1,5 @@
 # XXI. Phẩm Thiền Ðịnh (2) (Bất Tử)
 
-<!--pg-->
 47-48. Những vị này không hưởng được bất tử, này các Tỷ-kheo, là những vị không thực hiện thân hành
 niệm. Những vị này hưởng được bất tử, này các Tỷ-kheo, là những vị thực hành thân hành niệm.
 
@@ -50,7 +49,4 @@ tử được liễu tri, này các Tỷ-kheo, đối với những ai liễu tr
 niệm. Bất tử được chứng ngộ, này các Tỷ-kheo, đối với những ai chứng ngộ thân hành niệm.
 
 Thế Tôn thuyết như vậy, các vị Tỷ-kheo ấy hoan hỷ tín thọ lời Thế Tôn dạy.
-
-### -ooOoo-
-### CHƯƠNG II: CHƯƠNG HAI PHÁP
 

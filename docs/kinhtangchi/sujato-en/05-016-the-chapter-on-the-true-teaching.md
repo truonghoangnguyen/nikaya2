@@ -1,6 +1,6 @@
 # The Chapter on the True Teaching
 
-### N 5.151 Surety in the Right Way (1st)  *Paṭhamasammattaniyāmasutta*
+### AN 5.151 Surety in the Right Way (1st)  *Paṭhamasammattaniyāmasutta*
 
 "Mendicants, someone with five qualities is unable to enter the sure
 path with regards to skillful qualities even when listening to the true
@@ -18,7 +18,7 @@ Someone with these five qualities is able to enter the sure path with
 regards to skillful qualities when listening to the true teaching."
 
 <!--pg-->
-### N 5.152 Surety in the Right Way (2nd)  *Dutiyasammattaniyāmasutta*
+### AN 5.152 Surety in the Right Way (2nd)  *Dutiyasammattaniyāmasutta*
 
 "Mendicants, someone with five qualities is unable to enter the sure
 path with regards to skillful qualities even when listening to the true
@@ -36,7 +36,7 @@ Someone with these five qualities is able to enter the sure path with
 regards to skillful qualities when listening to the true teaching."
 
 <!--pg-->
-### N 5.153 Surety in the Right Way (3rd)  *Tatiyasammattaniyāmasutta*
+### AN 5.153 Surety in the Right Way (3rd)  *Tatiyasammattaniyāmasutta*
 
 "Mendicants, someone with five qualities is unable to enter the sure
 path with regards to skillful qualities even when listening to the true
@@ -59,7 +59,7 @@ sure path with regards to skillful qualities when listening to the true
 teaching."
 
 <!--pg-->
-### N 5.154 The Decline of the True Teaching (1st)  *Paṭhamasaddhammasammosasutta*
+### AN 5.154 The Decline of the True Teaching (1st)  *Paṭhamasaddhammasammosasutta*
 
 "Mendicants, these five things lead to the decline and disappearance of
 the true teaching. What five? It's when mendicants don't carefully
@@ -78,7 +78,7 @@ things lead to the continuation, persistence, and enduring of the true
 teaching."
 
 <!--pg-->
-### N 5.155 The Decline of the True Teaching (2nd)  *Dutiyasaddhammasammosasutta*
+### AN 5.155 The Decline of the True Teaching (2nd)  *Dutiyasaddhammasammosasutta*
 
 "Mendicants, these five things lead to the decline and disappearance of
 the true teaching. What five?
@@ -133,7 +133,7 @@ These five things lead to the continuation, persistence, and enduring of
 the true teaching."
 
 <!--pg-->
-### N 5.156 The Decline of the True Teaching (3rd)  *Tatiyasaddhammasammosasutta*
+### AN 5.156 The Decline of the True Teaching (3rd)  *Tatiyasaddhammasammosasutta*
 
 "Mendicants, these five things lead to the decline and disappearance of
 the true teaching. What five?
@@ -203,7 +203,7 @@ These five things lead to the continuation, persistence, and enduring of
 the true teaching."
 
 <!--pg-->
-### N 5.157 Inappropriate Talk  *Dukkathāsutta*
+### AN 5.157 Inappropriate Talk  *Dukkathāsutta*
 
 "Mendicants, it is inappropriate to speak to five kinds of person by
 comparing that person with someone else. What five?
@@ -295,7 +295,7 @@ It is appropriate to speak to these five kinds of person by comparing
 that person with someone else."
 
 <!--pg-->
-### N 5.158 Timidity  *Sārajjasutta*
+### AN 5.158 Timidity  *Sārajjasutta*
 
 "Mendicants, a mendicant with five qualities is overcome by timidity.
 What five? It's when a mendicant is faithless, unethical, with little
@@ -307,7 +307,7 @@ mendicant is faithful, ethical, learned, energetic, and wise. A
 mendicant with these five qualities is self-assured."
 
 <!--pg-->
-### N 5.159 With Udāyī  *Udāyīsutta*
+### AN 5.159 With Udāyī  *Udāyīsutta*
 
 SO I HAVE HEARD. At one time the Buddha was staying near
 Kosambī, in Ghosita's Monastery. Now, at that time
@@ -336,7 +336,7 @@ It's not easy to teach Dhamma to others. You should establish these five
 things in yourself before teaching Dhamma to others."
 
 <!--pg-->
-### N 5.160 Hard to Get Rid Of  *Duppaṭivinodayasutta*
+### AN 5.160 Hard to Get Rid Of  *Duppaṭivinodayasutta*
 
 "Mendicants, these five things are hard to get rid of once they've
 arisen. What five? Greed, hate, delusion, the feeling of being inspired

@@ -1,6 +1,6 @@
 # The Chapter with Kimbila
 
-### N 5.201 With Kimbila  *Kimilasutta*
+### AN 5.201 With Kimbila  *Kimilasutta*
 
 At one time the Buddha was staying near Kimbilā in the
 Freshwater Mangrove Wood. Then Venerable Kimbila went up to the Buddha,
@@ -26,7 +26,7 @@ the true teaching does last long after the final quenching of the
 Realized One."
 
 <!--pg-->
-### N 5.202 Listening to the Teaching  *Dhammassavanasutta*
+### AN 5.202 Listening to the Teaching  *Dhammassavanasutta*
 
 "Mendicants, there are these five benefits of listening to the teaching.
 What five? You learn new things, clarify what you've learned, get over
@@ -34,7 +34,7 @@ uncertainty, correct your views, and inspire confidence in your mind.
 These are the five benefits of listening to the teaching."
 
 <!--pg-->
-### N 5.203 A Thoroughbred  *Assājānīyasutta*
+### AN 5.203 A Thoroughbred  *Assājānīyasutta*
 
 "Mendicants, a fine royal thoroughbred with five factors is worthy of a
 king, fit to serve a king, and is considered a factor of kingship.
@@ -53,13 +53,13 @@ of veneration with joined palms, and is the supreme field of merit for
 the world."
 
 <!--pg-->
-### N 5.204 Powers  *Balasutta*
+### AN 5.204 Powers  *Balasutta*
 
 "Mendicants, there are these five powers. What five? Faith, conscience,
 prudence, energy, and wisdom. These are the five powers."
 
 <!--pg-->
-### N 5.205 Hard-heartedness  *Cetokhilasutta*
+### AN 5.205 Hard-heartedness  *Cetokhilasutta*
 
 "Mendicants, there are these five kinds of hard-heartedness. What five?
 Firstly, a mendicant has doubts about the Teacher. They're uncertain,
@@ -75,7 +75,7 @@ and striving. This is the fifth kind of hard-heartedness. These are the
 five kinds of hard-heartedness."
 
 <!--pg-->
-### N 5.206 Shackles  *Vinibandhasutta*
+### AN 5.206 Shackles  *Vinibandhasutta*
 
 "Mendicants, there are these five shackles of the heart. What five?
 Firstly, a mendicant isn't free of greed, desire, fondness, thirst,
@@ -94,14 +94,14 @@ persistence, and striving. This is the fifth shackle of the heart. These
 are the five shackles of the heart."
 
 <!--pg-->
-### N 5.207 Porridge  *Yāgusutta*
+### AN 5.207 Porridge  *Yāgusutta*
 
 "Mendicants, there are these five benefits of porridge. What five? It
 wards off hunger, quenches thirst, settles the wind, cleans the bladder,
 and helps digestion. These are the five benefits of porridge."
 
 <!--pg-->
-### N 5.208 Chew Sticks  *Dantakaṭṭhasutta*
+### AN 5.208 Chew Sticks  *Dantakaṭṭhasutta*
 
 "Mendicants, there are these five drawbacks of not using chew sticks.
 What five? It's not good for your eyes, you get bad breath, your
@@ -114,7 +114,7 @@ bile and phlegm don't cover your food, and food agrees with you. These
 are the five benefits of using chew sticks."
 
 <!--pg-->
-### N 5.209 The Sound of Singing  *Gītassarasutta*
+### AN 5.209 The Sound of Singing  *Gītassarasutta*
 
 "Mendicants, there are these five drawbacks in reciting with a drawn-out
 singing voice. What five? You relish the sound of your own voice. Others
@@ -125,7 +125,7 @@ example. These are the five drawbacks in reciting with a drawn-out
 singing voice."
 
 <!--pg-->
-### N 5.210 Unmindful  *Muṭṭhassatisutta*
+### AN 5.210 Unmindful  *Muṭṭhassatisutta*
 
 "Mendicants, there are these five drawbacks of falling asleep unmindful
 and unaware. What five? You sleep badly and wake miserably. You have bad

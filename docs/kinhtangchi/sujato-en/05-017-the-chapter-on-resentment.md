@@ -1,6 +1,6 @@
 # The Chapter on Resentment
 
-### N 5.161 Getting Rid of Resentment (1st)  *Paṭhamaāghātapaṭivinayasutta*
+### AN 5.161 Getting Rid of Resentment (1st)  *Paṭhamaāghātapaṭivinayasutta*
 
 "Mendicants, a mendicant should use these five methods to completely get
 rid of resentment when it has arisen toward anyone. What five?
@@ -25,7 +25,7 @@ A mendicant should use these five methods to completely get rid of
 resentment when it has arisen toward anyone."
 
 <!--pg-->
-### N 5.162 Getting Rid of Resentment (2nd)  *Dutiyaāghātapaṭivinayasutta*
+### AN 5.162 Getting Rid of Resentment (2nd)  *Dutiyaāghātapaṭivinayasutta*
 
 There Venerable Sāriputta addressed the mendicants:
 "Reverends, mendicants!"
@@ -125,7 +125,7 @@ A mendicant should use these five methods to completely get rid of
 resentment when it has arisen toward anyone."
 
 <!--pg-->
-### N 5.163 Discussions  *Sākacchasutta*
+### AN 5.163 Discussions  *Sākacchasutta*
 
 There Venerable Sāriputta addressed the mendicants:
 "Reverends, mendicants!"
@@ -152,7 +152,7 @@ A mendicant with these five qualities is fit to hold a discussion with
 their spiritual companions."
 
 <!--pg-->
-### N 5.164 Sharing a Way of Life  *Sājīvasutta*
+### AN 5.164 Sharing a Way of Life  *Sājīvasutta*
 
 There Venerable Sāriputta addressed the mendicants:
 
@@ -176,7 +176,7 @@ A mendicant with these five qualities is fit to share their life with
 their spiritual companions."
 
 <!--pg-->
-### N 5.165 Asking Questions  *Pañhapucchāsutta*
+### AN 5.165 Asking Questions  *Pañhapucchāsutta*
 
 There Venerable Sāriputta addressed the mendicants: ...
 "Whoever asks a question of another, does so for one or other of these
@@ -191,7 +191,7 @@ answer the question I ask it's good. If not, I'll correctly answer it
 for them.'"
 
 <!--pg-->
-### N 5.166 Cessation  *Nirodhasutta*
+### AN 5.166 Cessation  *Nirodhasutta*
 
 There Venerable Sāriputta addressed the mendicants:
 
@@ -318,7 +318,7 @@ skin? But since these five qualities are found in a senior mendicant,
 their spiritual companions honor, respect, revere, or venerate them."
 
 <!--pg-->
-### N 5.167 Accusation  *Codanāsutta*
+### AN 5.167 Accusation  *Codanāsutta*
 
 There Sāriputta addressed the mendicants: "Reverends, a
 mendicant who wants to accuse another should first establish five things
@@ -426,7 +426,7 @@ away from false teachings and ground them in true teachings.' That's how
 you should train."
 
 <!--pg-->
-### N 5.168 Ethics  *Sīlasutta*
+### AN 5.168 Ethics  *Sīlasutta*
 
 There Venerable Sāriputta addressed the mendicants:
 
@@ -474,7 +474,7 @@ fulfilled disillusionment and dispassion has fulfilled a vital condition
 for knowledge and vision of freedom."
 
 <!--pg-->
-### N 5.169 Quick-witted  *Khippanisantisutta*
+### AN 5.169 Quick-witted  *Khippanisantisutta*
 
 Then Venerable Ānanda went up to Venerable Sāriputta, and
 exchanged greetings with him. When the greetings and polite conversation
@@ -506,7 +506,7 @@ the teaching, skilled in terminology, skilled in phrasing, and skilled
 in sequence.'"
 
 <!--pg-->
-### N 5.170 With Bhaddaji  *Bhaddajisutta*
+### AN 5.170 With Bhaddaji  *Bhaddajisutta*
 
 At one time Venerable Ānanda was staying near Kosambī, in
 Ghosita's Monastery. Then Venerable Bhaddaji went up to Venerable

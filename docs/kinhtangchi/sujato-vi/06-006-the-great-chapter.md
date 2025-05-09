@@ -1,6 +1,6 @@
 # Chương Lớn
 
-### N 6.55 Kinh Soṇa
+### AN 6.55 Kinh Soṇa
 
 TÔI NGHE NHƯ VẦY. Một thời Đức Phật trú gần thành
 Rājagaha (Vương Xá), trên núi Gijjhakūṭa (Linh Thứu).
@@ -90,7 +90,7 @@ Cũng vậy, khi tâm của một vị Tỳ kheo được giải thoát chân ch
 > Khi quan sát sự biến mất."
 
 <!--pg-->
-### N 6.56 Kinh Phagguna
+### AN 6.56 Kinh Phagguna
 
 Lúc bấy giờ, Tôn giả Phagguna đang bị bệnh, đau đớn, bệnh tình trầm trọng.
 Khi ấy, Tôn giả Ānanda đến gặp Đức Phật, đảnh lễ, ngồi xuống một bên và thưa:
@@ -136,7 +136,7 @@ Tiếp theo, trường hợp một vị Tỳ kheo khác có tâm đã giải tho
 Đó là sáu lợi ích của việc nghe Pháp đúng lúc và quán xét ý nghĩa đúng lúc."
 
 <!--pg-->
-### N 6.57 Sáu Loại Tái Sanh (*Chaḷabhijātisutta*)
+### AN 6.57 Sáu Loại Tái Sanh (*Chaḷabhijātisutta*)
 
 Một thời Đức Phật trú gần thành Rājagaha, trên núi Linh Thứu. Bấy giờ, Tôn giả Ānanda đến gặp Đức Phật, đảnh lễ, ngồi xuống một bên và thưa:
 
@@ -183,7 +183,7 @@ Và làm thế nào người sinh vào loại sáng tạo ra sự tịch diệt,
 Đó là sáu loại tái sanh."
 
 <!--pg-->
-### N 6.58 Các Lậu Hoặc (*Āsavasutta*)
+### AN 6.58 Các Lậu Hoặc (*Āsavasutta*)
 
 "Này các Tỳ kheo, một vị Tỳ kheo có sáu phẩm chất thì xứng đáng nhận *lễ vật cúng dường chư thiên* (offerings dedicated to the gods / vật phẩm dâng cúng), xứng đáng được *tiếp đãi* (hospitality / sự hiếu khách), xứng đáng nhận *vật cúng dường* (religious donation / sự bố thí tôn giáo), xứng đáng được *đảnh lễ chắp tay* (veneration with joined palms / sự tôn kính), và là *ruộng phước tối thượng* (supreme field of merit / nơi gieo trồng phước báu tốt nhất) cho đời. Sáu phẩm chất đó là gì?
 
@@ -204,7 +204,7 @@ Và những lậu hoặc nào cần được từ bỏ bằng sự tu tập? Hã
 Một vị Tỳ kheo có sáu phẩm chất này thì xứng đáng nhận lễ vật cúng dường chư thiên, xứng đáng được tiếp đãi, xứng đáng nhận vật cúng dường, xứng đáng được đảnh lễ chắp tay, và là ruộng phước tối thượng cho đời."
 
 <!--pg-->
-### N 6.59 Kinh Dārukammika
+### AN 6.59 Kinh Dārukammika
 
 TÔI NGHE NHƯ VẦY. Một thời Đức Phật trú tại Ñātika trong ngôi nhà gạch.
 
@@ -231,7 +231,7 @@ Này gia chủ, hãy cứ cúng dường cho *Tăng đoàn* (Saṅgha / cộng �
 "Bạch Thế Tôn, từ hôm nay trở đi, con sẽ cúng dường cho Tăng đoàn."
 
 <!--pg-->
-### N 6.60 Kinh Hatthisāriputta
+### AN 6.60 Kinh Hatthisāriputta
 
 TÔI NGHE NHƯ VẦY. Một thời Đức Phật trú gần thành Varanasi (Ba-la-nại), tại Vườn Nai ở Isipatana.
 
@@ -304,7 +304,7 @@ Và không lâu sau, Citta Hatthisāriputta cạo bỏ râu tóc, đắp y vàng
 Tôn giả hiểu rõ: "*Sanh* (Rebirth / tái sinh) đã tận; *đời sống phạm hạnh* (spiritual journey / con đường tu tập) đã hoàn thành; những gì cần làm đã làm; không còn trở lui trạng thái này nữa." Và Tôn giả Citta Hatthisāriputta trở thành một trong những bậc *A-la-hán* (perfected / người đã hoàn thiện).
 
 <!--pg-->
-### N 6.61 Kinh Ở Giữa (*Majjhesutta*)
+### AN 6.61 Kinh Ở Giữa (*Majjhesutta*)
 
 TÔI NGHE NHƯ VẦY. Một thời Đức Phật trú gần thành Varanasi, tại Vườn Nai ở Isipatana.
 
@@ -359,7 +359,7 @@ Hãy lắng nghe và chú tâm kỹ, Ta sẽ nói."
 "Này các Tỳ kheo, xúc là một đầu. Nguồn gốc của xúc là đầu thứ hai. Sự chấm dứt của xúc là cái giữa. Và tham ái là người thợ may, vì tham ái dệt nên sự tái sanh của một người trong trạng thái tồn tại này hay trạng thái tồn tại khác. Đó là cách một vị Tỳ kheo biết trực tiếp những gì cần được biết trực tiếp và hiểu hoàn toàn những gì cần được hiểu hoàn toàn. Biết và hiểu như vậy, vị ấy chấm dứt khổ ngay trong đời này."
 
 <!--pg-->
-### N 6.62 Tri Kiến về Căn của Chúng Sanh (*Purisindriyañāṇasutta*)
+### AN 6.62 Tri Kiến về Căn của Chúng Sanh (*Purisindriyañāṇasutta*)
 
 TÔI NGHE NHƯ VẦY. Một thời Đức Phật đang du hành trong xứ Kosala cùng với một *Tăng đoàn* (Saṅgha / cộng đồng Tỳ kheo) đông đảo, khi Ngài đến một thị trấn của người Kosala tên là Daṇḍakappaka. Đức Phật rời khỏi con đường và ngồi dưới gốc cây trên chỗ đã soạn sẵn. Các Tỳ kheo vào Daṇḍakappaka để tìm *nhà khách* (guest house / nơi ở tạm cho khách).
 
@@ -442,7 +442,7 @@ Khi Ta thấu hiểu tâm của một người, Ta hiểu rằng: 'Cả phẩm c
 Và như vậy, này Ānanda, trong ba người đầu tiên, một người không có khả năng suy thoái, một người có khả năng suy thoái, và một người chắc chắn sẽ đến cõi khổ, địa ngục. Và trong ba người thứ hai, một người có khả năng suy thoái, một người không có khả năng suy thoái, và một người chắc chắn sẽ nhập diệt."
 
 <!--pg-->
-### N 6.63 Kinh Thâm Nhập (*Nibbedhikasutta*)
+### AN 6.63 Kinh Thâm Nhập (*Nibbedhikasutta*)
 
 "Này các Tỳ kheo, Ta sẽ giảng cho các thầy một bài pháp *thâm nhập* (penetrative exposition / bài giảng đi sâu vào bản chất). Hãy lắng nghe và chú tâm kỹ, Ta sẽ nói."
 
@@ -541,7 +541,7 @@ Khi một vị Thánh đệ tử hiểu khổ theo cách này... vị ấy hiể
 Đây là bài pháp thâm nhập."
 
 <!--pg-->
-### N 6.64 Tiếng Rống Sư Tử (*Sīhanādasutta*)
+### AN 6.64 Tiếng Rống Sư Tử (*Sīhanādasutta*)
 
 "Này các Tỳ kheo, *Đấng Như Lai* (Realized One / bậc đã chứng ngộ chân lý) sở hữu sáu *năng lực của Đấng Như Lai* (powers of a Realized One / Như Lai lực). Với những năng lực này, Ngài xác lập *vị trí tối thượng* (bull's place / địa vị của bậc đứng đầu), rống *tiếng rống sư tử* (lion's roar / lời tuyên bố chân lý hùng hồn) trong các *hội chúng* (assemblies / đám đông), và chuyển *bánh xe Pháp* (divine wheel / bánh xe giáo pháp thiêng liêng). Sáu năng lực đó là gì?
 

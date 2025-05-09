@@ -1,7 +1,7 @@
 # The Chapter with Kesi
 
 
-### N 4.111 With Kesi *Kesisutta*
+### AN 4.111 With Kesi *Kesisutta*
 
 Then Kesi the horse trainer went up to the Buddha, bowed, and sat down
 to one side. The Buddha said to him, "Kesi, you're known as a horse
@@ -56,7 +56,7 @@ spiritual companions. Excellent, sir! ... From this day forth, may the
 Buddha remember me as a lay follower who has gone for refuge for life."
 
 <!--pg-->
-### N 4.112 Speed *Javasutta*
+### AN 4.112 Speed *Javasutta*
 
 "Mendicants, a fine royal thoroughbred with four factors is worthy of a
 king, fit to serve a king, and considered a factor of kingship. What
@@ -71,7 +71,7 @@ sweetness. A mendicant with these four qualities ... is the supreme
 field of merit for the world."
 
 <!--pg-->
-### N 4.113 The Goad *Patodasutta*
+### AN 4.113 The Goad *Patodasutta*
 
 "Mendicants, these four fine thoroughbreds are found in the world. What
 four?
@@ -147,7 +147,7 @@ in the world.
 These are the four fine thoroughbred people found in the world."
 
 <!--pg-->
-### N 4.114 A Royal Elephant *Nāgasutta*
+### AN 4.114 A Royal Elephant *Nāgasutta*
 
 "Mendicants, a royal bull elephant with four factors is worthy of a
 king, fit to serve a king, and is considered a factor of kingship. What
@@ -206,7 +206,7 @@ mendicant goes fast. A mendicant with these four qualities ... is the
 supreme field of merit for the world."
 
 <!--pg-->
-### N 4.115 Things *Ṭhānasutta*
+### AN 4.115 Things *Ṭhānasutta*
 
 "Mendicants, there are these four things. What four?
 
@@ -252,7 +252,7 @@ This is regarded as a thing that should be done on both grounds.
 These are the four things."
 
 <!--pg-->
-### N 4.116 Diligence *Appamādasutta*
+### AN 4.116 Diligence *Appamādasutta*
 
 "Mendicants, you should be diligent in four situations. What four? Give
 up bad conduct by way of body, speech, and mind; and develop good
@@ -263,7 +263,7 @@ A mendicant who has done these things does not fear death in lives to
 come."
 
 <!--pg-->
-### N 4.117 Guarding *Ārakkhasutta*
+### AN 4.117 Guarding *Ārakkhasutta*
 
 "Mendicants, in your own way you should practice diligence, mindfulness,
 and guarding of the mind in four situations. What four?
@@ -284,7 +284,7 @@ shake, tremble, quake, or get nervous, nor are they persuaded by the
 teachings of other ascetics."
 
 <!--pg-->
-### N 4.118 Inspiring *Saṁvejanīyasutta*
+### AN 4.118 Inspiring *Saṁvejanīyasutta*
 
 "Mendicants, a faithful gentleman should go to see these four inspiring
 places. What four?
@@ -305,7 +305,7 @@ These are the four inspiring places that a faithful gentleman should go
 to see."
 
 <!--pg-->
-### N 4.119 Perils (1st) *Paṭhamabhayasutta*
+### AN 4.119 Perils (1st) *Paṭhamabhayasutta*
 
 "Mendicants, there are these four perils. What four? The perils of
 rebirth, old age, sickness, and death.
@@ -313,7 +313,7 @@ rebirth, old age, sickness, and death.
 These are the four perils."
 
 <!--pg-->
-### N 4.120 Perils (2nd) *Dutiyabhayasutta*
+### AN 4.120 Perils (2nd) *Dutiyabhayasutta*
 
 "Mendicants, there are these four perils. What four? The perils of fire,
 water, kings, and bandits. These are the four perils."

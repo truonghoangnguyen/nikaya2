@@ -1,6 +1,6 @@
 # The Chapter on Persons
 
-### N 3.21 With Saviṭṭha  *Samiddhasutta*
+### AN 3.21 With Saviṭṭha  *Samiddhasutta*
 
 So I have heard.At one time the Buddha was staying near
 Sāvatthī in Jeta's Grove, Anāthapiṇḍika's
@@ -78,7 +78,7 @@ In this matter, it's not easy to categorically declare that one of these
 three people is finest."
 
 <!--pg-->
-### N 3.22 Patients  *Gilānasutta*
+### AN 3.22 Patients  *Gilānasutta*
 
 "These three patients are found in the world. What three?
 
@@ -123,7 +123,7 @@ of this person, the other people should be taught Dhamma.
 These are the three people similar to patients found in the world."
 
 <!--pg-->
-### N 3.23 Choices  *Saṅkhārasutta*
+### AN 3.23 Choices  *Saṅkhārasutta*
 
 "These three people are found in the world. What three?
 
@@ -150,7 +150,7 @@ in the underworld.
 These are the three people found in the world."
 
 <!--pg-->
-### N 3.24 Very Helpful  *Bahukārasutta*
+### AN 3.24 Very Helpful  *Bahukārasutta*
 
 "Mendicants, these three people are very helpful to another. What three?
 
@@ -178,7 +178,7 @@ with robes, almsfood, lodgings, and medicines and supplies for the
 sick."
 
 <!--pg-->
-### N 3.25 Like Diamond  *Vajirūpamasutta*
+### AN 3.25 Like Diamond  *Vajirūpamasutta*
 
 "These three people are found in the world. What three? A person with a
 mind like an open sore, a person with a mind like lightning, and a
@@ -215,7 +215,7 @@ This is called a person with a mind like diamond.
 These are the three people found in the world."
 
 <!--pg-->
-### N 3.26 Associates  *Sevitabbasutta*
+### AN 3.26 Associates  *Sevitabbasutta*
 
 "These three people are found in the world. What three? There is a
 person you shouldn't associate with, accompany, or attend. There is a
@@ -262,7 +262,7 @@ These are the three people found in the world.
 > with people better than you."
 
 <!--pg-->
-### N 3.27 You Should be Disgusted  *Jigucchitabbasutta*
+### AN 3.27 You Should be Disgusted  *Jigucchitabbasutta*
 
 "These three people are found in the world. What three? There is a
 person who you should be disgusted by, and you shouldn't associate with,
@@ -320,7 +320,7 @@ These are the three people found in the world.
 > with people better than you."
 
 <!--pg-->
-### N 3.28 Speech like Dung  *Gūthabhāṇīsutta*
+### AN 3.28 Speech like Dung  *Gūthabhāṇīsutta*
 
 "These three people are found in the world. What three? One with speech
 like dung, one with speech like flowers, and one with speech like honey.
@@ -350,7 +350,7 @@ person with speech like honey.
 These are the three people found in the world."
 
 <!--pg-->
-### N 3.29 Blind  *Andhasutta*
+### AN 3.29 Blind  *Andhasutta*
 
 "These three people are found in the world. What three? The blind, the
 one-eyed, and the two-eyed.
@@ -411,7 +411,7 @@ These are the three people found in the world.
 > the best individual."
 
 <!--pg-->
-### N 3.30 Upside-down  *Avakujjasutta*
+### AN 3.30 Upside-down  *Avakujjasutta*
 
 "These three people are found in the world. What three? One with
 upside-down wisdom, one with wisdom on their lap, and one with

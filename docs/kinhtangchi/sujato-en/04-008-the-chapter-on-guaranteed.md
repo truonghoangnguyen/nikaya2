@@ -1,7 +1,7 @@
 # The Chapter on Guaranteed
 
 
-### N 4.71 Effort *Padhānasutta*
+### AN 4.71 Effort *Padhānasutta*
 
 "Mendicants, when a mendicant has four things their practice is
 unfailing, and they have laid the groundwork for ending the defilements.
@@ -11,7 +11,7 @@ unfailing, and they have laid the groundwork for ending the
 defilements."
 
 <!--pg-->
-### N 4.72 Right View *Sammādiṭṭhisutta*
+### AN 4.72 Right View *Sammādiṭṭhisutta*
 
 "Mendicants, when a mendicant has four things their practice is
 unfailing, and they have laid the groundwork for ending the defilements.
@@ -21,7 +21,7 @@ unfailing, and they have laid the groundwork for ending the
 defilements."
 
 <!--pg-->
-### N 4.73 A True Person *Sappurisasutta*
+### AN 4.73 A True Person *Sappurisasutta*
 
 "Mendicants, an untrue person can be known by four qualities. What four?
 
@@ -87,20 +87,20 @@ So you should train like this: 'We will live with hearts like that of a
 newly wedded bride.' That's how you should train."
 
 <!--pg-->
-### N 4.74 Best (1st) *Paṭhamaaggasutta*
+### AN 4.74 Best (1st) *Paṭhamaaggasutta*
 
 "Mendicants, these four things are the best. What four? The best ethics,
 immersion, wisdom, and freedom. These are the four things that are the
 best."
 
-### N 4.75 Best (2nd) *Dutiyaaggasutta*
+### AN 4.75 Best (2nd) *Dutiyaaggasutta*
 
 "Mendicants, these four things are the best. What four? The best form,
 feeling, perception, and existence. These are the four things that are
 the best."
 
 <!--pg-->
-### N 4.76 At Kusinārā *Kusinārasutta*
+### AN 4.76 At Kusinārā *Kusinārasutta*
 
 At one time the Buddha was staying between a pair of sal trees in the
 sal forest of the Mallas at Upavattana near Kusinārā at the
@@ -140,7 +140,7 @@ mendicants is a stream-enterer, not liable to be reborn in the
 underworld, bound for awakening."
 
 <!--pg-->
-### N 4.77 Unthinkable *Acinteyyasutta*
+### AN 4.77 Unthinkable *Acinteyyasutta*
 
 "Mendicants, these four things are unthinkable. They should not be
 thought about, and anyone who tries to think about them will go mad or
@@ -158,7 +158,7 @@ These are the four unthinkable things. They should not be thought about,
 and anyone who tries to think about them will go mad or get frustrated."
 
 <!--pg-->
-### N 4.78 A Religious Donation *Dakkhiṇasutta*
+### AN 4.78 A Religious Donation *Dakkhiṇasutta*
 
 "Mendicants, there are these four ways of purifying a religious
 donation. What four? There's a religious donation that's purified by the
@@ -186,7 +186,7 @@ good character.
 These are the four ways of purifying a religious donation."
 
 <!--pg-->
-### N 4.79 Business *Vaṇijjasutta*
+### AN 4.79 Business *Vaṇijjasutta*
 
 Then Venerable Sāriputta went up to the Buddha, bowed, sat
 down to one side, and said to him:
@@ -223,7 +223,7 @@ expectations, another meets expectations, and another exceeds
 expectations."
 
 <!--pg-->
-### N 4.80 Persia *Kambojasutta*
+### AN 4.80 Persia *Kambojasutta*
 
 At one time the Buddha was staying near Kosambī, in
 Ghosita's Monastery. Then Venerable Ānanda went up to the Buddha, bowed,

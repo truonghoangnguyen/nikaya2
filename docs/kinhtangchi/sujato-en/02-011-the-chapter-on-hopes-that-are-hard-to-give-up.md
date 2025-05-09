@@ -1,6 +1,6 @@
 # The Chapter on Hopes That Are Hard to Give Up
 
-### N 2.118--129 *Āsāduppajahavagga*
+### AN 2.118--129 *Āsāduppajahavagga*
 
 118\. "These two hopes are hard to give up. What two? The hope for wealth and
 the hope for long life. These are two hopes that are hard to give up."

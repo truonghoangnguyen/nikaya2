@@ -1,7 +1,7 @@
 # The Chapter on Intention
 
 
-### N 4.171 Intention *Cetanāsutta*
+### AN 4.171 Intention *Cetanāsutta*
 
 "Mendicants, as long as there's a body, the intention that gives rise to
 bodily action causes pleasure and pain to arise in oneself. As long as
@@ -84,7 +84,7 @@ from that realm as returners who come back to this place, while others
 are non-returners who don't come back."
 
 <!--pg-->
-### N 4.172 Sāriputta's Attainment of Textual Analysis *Vibhattisutta*
+### AN 4.172 Sāriputta's Attainment of Textual Analysis *Vibhattisutta*
 
 There Sāriputta addressed the mendicants: "Reverends,
 mendicants!"
@@ -111,7 +111,7 @@ anyone has any doubt or uncertainty, let them ask me, I will answer. Our
 teacher is present, he who is so very skilled in our teachings."
 
 <!--pg-->
-### N 4.173 With Mahākoṭṭhita *Mahākoṭṭhikasutta*
+### AN 4.173 With Mahākoṭṭhita *Mahākoṭṭhikasutta*
 
 Then Venerable Mahākoṭṭhita went up to Venerable
 Sāriputta, and exchanged greetings with him. When the
@@ -158,7 +158,7 @@ contact fade away and cease with nothing left over, proliferation stops
 and is stilled."
 
 <!--pg-->
-### N 4.174 With Ānanda *Ānandasutta*
+### AN 4.174 With Ānanda *Ānandasutta*
 
 Then Venerable Ānanda went up to Venerable Mahākoṭṭhita,
 and exchanged greetings with him. When the greetings and polite
@@ -199,7 +199,7 @@ contact fade away and cease with nothing left over, proliferation stops
 and is stilled."
 
 <!--pg-->
-### N 4.175 With Upavāṇa *Upavāṇasutta*
+### AN 4.175 With Upavāṇa *Upavāṇasutta*
 
 Then Venerable Upavāna went up to Venerable
 Sāriputta, and exchanged greetings with him. When the
@@ -243,7 +243,7 @@ things as they are. Knowing and seeing things as they are, one is a
 terminator."
 
 <!--pg-->
-### N 4.176 Aspiration *Āyācanasutta*
+### AN 4.176 Aspiration *Āyācanasutta*
 
 "Mendicants, a faithful monk would rightly aspire: 'May I be like
 Sāriputta and Moggallāna!' These are a
@@ -267,7 +267,7 @@ the laywomen Khujjuttarā and Veḷukaṇṭakī,
 Nanda's mother."
 
 <!--pg-->
-### N 4.177 With Rāhula *Rāhulasutta*
+### AN 4.177 With Rāhula *Rāhulasutta*
 
 Then Venerable Rāhula went up to the Buddha, bowed, and sat
 down to one side. The Buddha said to him:
@@ -303,7 +303,7 @@ fetters, and by rightly comprehending conceit has made an end of
 suffering."
 
 <!--pg-->
-### N 4.178 Billabong *Jambālīsutta*
+### AN 4.178 Billabong *Jambālīsutta*
 
 "Mendicants, these four people are found in the world. What four?
 
@@ -359,7 +359,7 @@ decided. You would expect that mendicant to smash ignorance.
 These are the four people found in the world."
 
 <!--pg-->
-### N 4.179 Extinguishment *Nibbānasutta*
+### AN 4.179 Extinguishment *Nibbānasutta*
 
 Then Venerable Ānanda went up to Venerable Sāriputta, and
 exchanged greetings with him. When the greetings and polite conversation
@@ -385,7 +385,7 @@ that's the reason why some sentient beings are fully extinguished in
 this very life."
 
 <!--pg-->
-### N 4.180 The Four Great References *Mahāpadesasutta*
+### AN 4.180 The Four Great References *Mahāpadesasutta*
 
 At one time the Buddha was staying near the city of Bhoga, at the Ānanda
 Tree-shrine.

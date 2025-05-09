@@ -1,6 +1,6 @@
 # The Chapter on Attainment
 
-### N 2.163--179 *Samāpattivagga*
+### AN 2.163--179 *Samāpattivagga*
 
 163\. "There are these two things. What two? Skill in meditative attainments
 and skill in emerging from those attainments. These are the two things."

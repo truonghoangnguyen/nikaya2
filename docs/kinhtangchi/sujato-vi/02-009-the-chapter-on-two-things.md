@@ -1,6 +1,6 @@
 # Phẩm Về Hai Pháp
 
-### N 2.87--97 *Phẩm Pháp (Dhammavagga)*
+### AN 2.87--97 *Phẩm Pháp (Dhammavagga)*
 
 87\. "Này các *Tỳ kheo* (mendicants / các thầy), có hai pháp này. Thế nào là hai? *Tâm giải thoát* (freedom of heart / sự giải thoát trong tâm) và *Tuệ giải thoát* (freedom by wisdom / sự giải thoát bằng trí tuệ). Đó là hai pháp."
 

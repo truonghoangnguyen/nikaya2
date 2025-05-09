@@ -1,6 +1,6 @@
 # The Chapter on Deities
 
-### N 6.31 A Trainee  *Sekhasutta*
+### AN 6.31 A Trainee  *Sekhasutta*
 
 "These six things lead to the decline of a mendicant trainee. What six?
 They relish work, talk, sleep, and company. They don't guard the sense
@@ -13,7 +13,7 @@ sense doors, and they don't eat too much. These six things don't lead to
 the decline of a mendicant trainee."
 
 <!--pg-->
-### N 6.32 Non-decline (1st)  *Paṭhamaaparihānasutta*
+### AN 6.32 Non-decline (1st)  *Paṭhamaaparihānasutta*
 
 Then, late at night, a glorious deity, lighting up the entire Jeta's
 Grove, went up to the Buddha, bowed, stood to one side, and said to him:
@@ -38,7 +38,7 @@ had happened, adding:
 > and has drawn near to extinguishment."
 
 <!--pg-->
-### N 6.33 Non-decline (2nd)  *Dutiyaaparihānasutta*
+### AN 6.33 Non-decline (2nd)  *Dutiyaaparihānasutta*
 
 "Tonight, a glorious deity, lighting up the entire Jeta's Grove, came to
 me, bowed, stood to one side, and said to me: 'Sir, these six things
@@ -58,7 +58,7 @@ keeping me on his right side, before vanishing right there.
 > they have drawn near to extinguishment."
 
 <!--pg-->
-### N 6.34 With Mahāmoggallāna  *Mahāmoggallānasutta*
+### AN 6.34 With Mahāmoggallāna  *Mahāmoggallānasutta*
 
 At one time the Buddha was staying near Sāvatthī in Jeta's
 Grove, Anāthapiṇḍika's monastery.
@@ -124,7 +124,7 @@ arm, he vanished from that realm of divinity and reappeared in Jeta's
 Grove.
 
 <!--pg-->
-### N 6.35 Things That Play a Part in Realization  *Vijjābhāgiyasutta*
+### AN 6.35 Things That Play a Part in Realization  *Vijjābhāgiyasutta*
 
 "These six things play a part in realization. What six? The perception
 of impermanence, the perception of suffering in impermanence, the
@@ -133,7 +133,7 @@ perception of fading away, and the perception of cessation. These are
 the six things that play a part in realization."
 
 <!--pg-->
-### N 6.36 Roots of Arguments  *Vivādamūlasutta*
+### AN 6.36 Roots of Arguments  *Vivādamūlasutta*
 
 "Mendicants, there are these six roots of arguments. What six? Firstly,
 a mendicant is irritable and acrimonious. Such a mendicant lacks respect
@@ -162,7 +162,7 @@ root of arguments, so it doesn't come up in the future. These are the
 six roots of arguments."
 
 <!--pg-->
-### N 6.37 A Gift With Six Factors  *Chaḷaṅgadānasutta*
+### AN 6.37 A Gift With Six Factors  *Chaḷaṅgadānasutta*
 
 At one time the Buddha was staying near Sāvatthī in Jeta's
 Grove, Anāthapiṇḍika's monastery.
@@ -226,7 +226,7 @@ grasp the merit of such a six-factored donation ...
 > in a happy, pleasing world."
 
 <!--pg-->
-### N 6.38 One's Own Volition  *Attakārīsutta*
+### AN 6.38 One's Own Volition  *Attakārīsutta*
 
 Then a certain brahmin went up to the Buddha, and exchanged greetings
 with him. When the greetings and polite conversation were over, he sat
@@ -275,7 +275,7 @@ Mister Gotama remember me as a lay follower who has gone for refuge for
 life."
 
 <!--pg-->
-### N 6.39 Sources  *Nidānasutta*
+### AN 6.39 Sources  *Nidānasutta*
 
 "Mendicants, there are these three sources that give rise to deeds. What
 three? Greed, hate, and delusion are sources that give rise to deeds.
@@ -301,7 +301,7 @@ understanding that gods, humans, or those in any other good places are
 found. These are three sources that give rise to deeds."
 
 <!--pg-->
-### N 6.40 With Kimbila  *Kimilasutta*
+### AN 6.40 With Kimbila  *Kimilasutta*
 
 SO I HAVE HEARD. At one time the Buddha was staying near
 Kimbilā in the Freshwater Mangrove Wood. Then Venerable
@@ -329,7 +329,7 @@ reason why the true teaching does last long after the final quenching of
 the Realized One."
 
 <!--pg-->
-### N 6.41 A Tree Trunk  *Dārukkhandhasutta*
+### AN 6.41 A Tree Trunk  *Dārukkhandhasutta*
 
 SO I HAVE HEARD. At one time Venerable
 Sāriputta was staying near Rājagaha, on the
@@ -356,7 +356,7 @@ tree trunk. Relying on that a mendicant with psychic powers could
 determine it to be nothing but ugly."
 
 <!--pg-->
-### N 6.42 With Nāgita  *Nāgitasutta*
+### AN 6.42 With Nāgita  *Nāgitasutta*
 
 SO I HAVE HEARD. At one time the Buddha was wandering in
 the land of the Kosalans together with a large Saṅgha of

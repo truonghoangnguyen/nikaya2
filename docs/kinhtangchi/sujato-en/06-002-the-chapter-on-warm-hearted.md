@@ -1,6 +1,6 @@
 # The Chapter on Warm-hearted
 
-### N 6.11 Warm-hearted (1st)  *Paṭhamasāraṇīyasutta*
+### AN 6.11 Warm-hearted (1st)  *Paṭhamasāraṇīyasutta*
 
 "Mendicants, there are these six warm-hearted qualities. What six?
 
@@ -34,7 +34,7 @@ ending of suffering. This too is a warm-hearted quality.
 These are the six warm-hearted qualities."
 
 <!--pg-->
-### N 6.12 Warm-hearted (2nd)  *Dutiyasāraṇīyasutta*
+### AN 6.12 Warm-hearted (2nd)  *Dutiyasāraṇīyasutta*
 
 "Mendicants, these six warm-hearted qualities make for fondness and
 respect, conducing to inclusion, harmony, and unity, without quarreling.
@@ -72,7 +72,7 @@ These six warm-hearted qualities make for fondness and respect,
 conducing to inclusion, harmony, and unity, without quarreling."
 
 <!--pg-->
-### N 6.13 Elements of Escape  *Nissāraṇīyasutta*
+### AN 6.13 Elements of Escape  *Nissāraṇīyasutta*
 
 "Mendicants, there are these six elements of escape. What six?
 
@@ -129,7 +129,7 @@ the dart of doubt and indecision.'
 These are the six elements of escape."
 
 <!--pg-->
-### N 6.14 A Good Death  *Bhaddakasutta*
+### AN 6.14 A Good Death  *Bhaddakasutta*
 
 There Sāriputta addressed the mendicants: "Reverends,
 mendicants!"
@@ -165,7 +165,7 @@ substantial reality to rightly make an end of suffering.
 > the supreme sanctuary from the yoke."
 
 <!--pg-->
-### N 6.15 Regret  *Anutappiyasutta*
+### AN 6.15 Regret  *Anutappiyasutta*
 
 There Sāriputta addressed the mendicants:
 
@@ -200,7 +200,7 @@ end of suffering.
 > the supreme sanctuary from the yoke."
 
 <!--pg-->
-### N 6.16 Nakula's Father  *Nakulapitusutta*
+### AN 6.16 Nakula's Father  *Nakulapitusutta*
 
 At one time the Buddha was staying in the land of the Bhaggas at
 Crocodile Hill, in the deer park at Bhesakaḷā's Wood. Now
@@ -279,7 +279,7 @@ You're fortunate, householder, so very fortunate, to have the housewife
 Nakula's mother advise and instruct you out of kindness and sympathy."
 
 <!--pg-->
-### N 6.17 Sleep  *Soppasutta*
+### AN 6.17 Sleep  *Soppasutta*
 
 At one time the Buddha was staying near Sāvatthī in Jeta's
 Grove, Anāthapiṇḍika's monastery.
@@ -352,7 +352,7 @@ pursue the development of the qualities that lead to awakening in the
 evening and toward dawn.' That's how you should train."
 
 <!--pg-->
-### N 6.18 A Fish Dealer  *Macchabandhasutta*
+### AN 6.18 A Fish Dealer  *Macchabandhasutta*
 
 At one time the Buddha was wandering in the land of the Kosalans
 together with a large Saṅgha of mendicants.
@@ -408,7 +408,7 @@ breaks up, after death, they're reborn in a place of loss, a bad place,
 the underworld, hell."
 
 <!--pg-->
-### N 6.19 Mindfulness of Death (1st)  *Paṭhamamaraṇassatisutta*
+### AN 6.19 Mindfulness of Death (1st)  *Paṭhamamaraṇassatisutta*
 
 At one time the Buddha was staying at Ñātika in the brick
 house. There the Buddha addressed the mendicants, "Mendicants!"
@@ -497,7 +497,7 @@ develop mindfulness of death for the ending of defilements.' That's how
 you should train."
 
 <!--pg-->
-### N 6.20 Mindfulness of Death (2nd)  *Dutiyamaraṇassatisutta*
+### AN 6.20 Mindfulness of Death (2nd)  *Dutiyamaraṇassatisutta*
 
 At one time the Buddha was staying at Ñātika in the brick
 house. There the Buddha addressed the mendicants:

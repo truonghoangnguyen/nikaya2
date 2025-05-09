@@ -1,6 +1,6 @@
 # The Chapter on Powers
 
-### N 5.11 Not Learned From Anyone Else  *Ananussutasutta*
+### AN 5.11 Not Learned From Anyone Else  *Ananussutasutta*
 
 "I claim to have attained perfection and consummation of insight
 regarding principles not learned before from another. The Realized One
@@ -12,7 +12,7 @@ claims the bull's place, roars his lion's roar in the assemblies, and
 turns the divine wheel."
 
 <!--pg-->
-### N 5.12 Peak  *Kūṭasutta*
+### AN 5.12 Peak  *Kūṭasutta*
 
 "Mendicants, there are these five powers of a trainee. What five? The
 powers of faith, conscience, prudence, energy, and wisdom. These are the
@@ -29,14 +29,14 @@ faith, conscience, prudence, energy, and wisdom.' That's how you should
 train."
 
 <!--pg-->
-### N 5.13 In Brief  *Saṁkhittasutta*
+### AN 5.13 In Brief  *Saṁkhittasutta*
 
 "Mendicants, there are these five powers. What five? The powers of
 faith, energy, mindfulness, immersion, and wisdom. These are the five
 powers."
 
 <!--pg-->
-### N 5.14 In Detail  *Vitthatasutta*
+### AN 5.14 In Detail  *Vitthatasutta*
 
 "Mendicants, there are these five powers. What five? The powers of
 faith, energy, mindfulness, immersion, and wisdom.
@@ -82,7 +82,7 @@ called the power of wisdom.
 These are the five powers."
 
 <!--pg-->
-### N 5.15 Should Be Seen  *Daṭṭhabbasutta*
+### AN 5.15 Should Be Seen  *Daṭṭhabbasutta*
 
 "Mendicants, there are these five powers. What five? The powers of
 faith, energy, mindfulness, immersion, and wisdom.
@@ -103,7 +103,7 @@ And where should the power of wisdom be seen? In the four noble truths.
 These are the five powers."
 
 <!--pg-->
-### N 5.16 The Peak, Again  *Punakūṭasutta*
+### AN 5.16 The Peak, Again  *Punakūṭasutta*
 
 "Mendicants, there are these five powers. What five? The powers of
 faith, energy, mindfulness, immersion, and wisdom. These are the five
@@ -114,7 +114,7 @@ way, of these five powers, the power of wisdom is the chief. It holds
 and binds everything together."
 
 <!--pg-->
-### N 5.17 One's Own Welfare  *Paṭhamahitasutta*
+### AN 5.17 One's Own Welfare  *Paṭhamahitasutta*
 
 "Mendicants, a mendicant with five qualities is practicing for their own
 welfare, but not that of others. What five? It's when a mendicant is
@@ -124,7 +124,7 @@ these qualities. A mendicant with these five qualities is practicing for
 their own welfare, but not that of others."
 
 <!--pg-->
-### N 5.18 Welfare of Others (2nd)  *Dutiyahitasutta*
+### AN 5.18 Welfare of Others (2nd)  *Dutiyahitasutta*
 
 "Mendicants, a mendicant with five qualities is practicing for the
 welfare of others, but not their own. What five? It's when a mendicant
@@ -134,7 +134,7 @@ qualities. A mendicant with these five qualities is practicing for the
 welfare of others, but not their own."
 
 <!--pg-->
-### N 5.19 The Welfare of Neither  *Tatiyahitasutta*
+### AN 5.19 The Welfare of Neither  *Tatiyahitasutta*
 
 "Mendicants, a mendicant with five qualities is practicing neither for
 their own welfare, nor that of others. What five? It's when a mendicant
@@ -144,7 +144,7 @@ these qualities. A mendicant with these five qualities is practicing
 neither for their own welfare, nor that of others."
 
 <!--pg-->
-### N 5.20 The Welfare of Both  *Catutthahitasutta*
+### AN 5.20 The Welfare of Both  *Catutthahitasutta*
 
 "Mendicants, a mendicant with five qualities is practicing for both
 their own welfare and that of others. What five? It's when a mendicant

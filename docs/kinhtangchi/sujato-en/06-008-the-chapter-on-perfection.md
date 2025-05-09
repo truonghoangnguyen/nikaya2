@@ -1,6 +1,6 @@
 # The Chapter on Perfection
 
-### N 6.75 Suffering  *Dukkhasutta*
+### AN 6.75 Suffering  *Dukkhasutta*
 
 "Mendicants, when a mendicant has six qualities they live unhappily in
 this very life---with distress, anguish, and fever---and when the body
@@ -20,7 +20,7 @@ anguish, or fever---and when the body breaks up, after death, they can
 expect a good rebirth."
 
 <!--pg-->
-### N 6.76 Perfection  *Arahattasutta*
+### AN 6.76 Perfection  *Arahattasutta*
 
 "Mendicants, without giving up six things you can't realize perfection.
 What six? Conceit, inferiority complex, superiority complex,
@@ -33,7 +33,7 @@ obstinacy, and groveling. After giving up these six things you can
 realize perfection."
 
 <!--pg-->
-### N 6.77 Superhuman States  *Uttarimanussadhammasutta*
+### AN 6.77 Superhuman States  *Uttarimanussadhammasutta*
 
 "Mendicants, without giving up six qualities you can't realize a
 superhuman distinction in knowledge and vision worthy of the noble ones.
@@ -50,7 +50,7 @@ qualities you can realize a superhuman distinction in knowledge and
 vision worthy of the noble ones."
 
 <!--pg-->
-### N 6.78 Joy and Happiness  *Sukhasomanassasutta*
+### AN 6.78 Joy and Happiness  *Sukhasomanassasutta*
 
 "Mendicants, when a mendicant has six things they're full of joy and
 happiness in this very life, and they have laid the groundwork for
@@ -61,7 +61,7 @@ joy and happiness in this very life, and they have laid the groundwork
 for ending the defilements."
 
 <!--pg-->
-### N 6.79 Achievement  *Adhigamasutta*
+### AN 6.79 Achievement  *Adhigamasutta*
 
 "Mendicants, a mendicant who has six qualities is unable to acquire more
 skillful qualities or to increase the skillful qualities they've already
@@ -84,7 +84,7 @@ qualities or to increase the skillful qualities they've already
 acquired."
 
 <!--pg-->
-### N 6.80 Greatness  *Mahantattasutta*
+### AN 6.80 Greatness  *Mahantattasutta*
 
 "Mendicants, a mendicant with six qualities soon acquires great and
 abundant good qualities. What six? It's when a mendicant is full of
@@ -94,7 +94,7 @@ They reach further. A mendicant who has these six qualities soon
 acquires great and abundant good qualities."
 
 <!--pg-->
-### N 6.81 Hell (1st)  *Paṭhamanirayasutta*
+### AN 6.81 Hell (1st)  *Paṭhamanirayasutta*
 
 "Mendicants, someone with six qualities is cast down to hell. What six?
 They kill living creatures, steal, commit sexual misconduct, and lie.
@@ -107,7 +107,7 @@ have few desires and right view. Someone with these six qualities is
 raised up to heaven."
 
 <!--pg-->
-### N 6.82 Hell (2nd)  *Dutiyanirayasutta*
+### AN 6.82 Hell (2nd)  *Dutiyanirayasutta*
 
 "Mendicants, someone with six qualities is cast down to hell. What six?
 They kill living creatures, steal, commit sexual misconduct, and lie.
@@ -120,7 +120,7 @@ they're not greedy or rude. Someone with these six qualities is raised
 up to heaven."
 
 <!--pg-->
-### N 6.83 The Best Thing  *Aggadhammasutta*
+### AN 6.83 The Best Thing  *Aggadhammasutta*
 
 "Mendicants, a mendicant with six qualities can't realize the best
 thing, perfection. What six? It's when a mendicant is faithless,
@@ -135,7 +135,7 @@ life. A mendicant with these six qualities can realize the best thing,
 perfection."
 
 <!--pg-->
-### N 6.84 Day and Night  *Rattidivasasutta*
+### AN 6.84 Day and Night  *Rattidivasasutta*
 
 "Mendicants, a mendicant with six qualities can expect decline, not
 growth, in skillful qualities, whether by day or by night. What six?

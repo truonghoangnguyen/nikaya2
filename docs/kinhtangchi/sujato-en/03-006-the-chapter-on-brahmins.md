@@ -1,6 +1,6 @@
 # The Chapter on Brahmins
 
-### N 3.51 Two Brahmins (1st)  *Paṭhamadvebrāhmaṇasutta*
+### AN 3.51 Two Brahmins (1st)  *Paṭhamadvebrāhmaṇasutta*
 
 Then two old brahmins---elderly and senior, who were advanced in years
 and had reached the final stage of life, a hundred and twenty years
@@ -32,7 +32,7 @@ refuge, and haven for the departed.
 > as the good deeds done while living."
 
 <!--pg-->
-### N 3.52 Two Brahmins (2nd)  *Dutiyadvebrāhmaṇasutta*
+### AN 3.52 Two Brahmins (2nd)  *Dutiyadvebrāhmaṇasutta*
 
 Then two old brahmins---elderly and senior, who were advanced in years
 and had reached the final stage of life, being a hundred and twenty
@@ -67,7 +67,7 @@ refuge, and haven for the departed.
 > as the good deeds done while living."
 
 <!--pg-->
-### N 3.53 A Certain Brahmin  *Aññatarabrāhmaṇasutta*
+### AN 3.53 A Certain Brahmin  *Aññatarabrāhmaṇasutta*
 
 Then a brahmin went up to the Buddha, and exchanged greetings with him.
 Seated to one side he said to the Buddha:
@@ -110,7 +110,7 @@ Saṅgha. From this day forth, may Mister Gotama remember me
 as a lay follower who has gone for refuge for life."
 
 <!--pg-->
-### N 3.54 A Wanderer  *Paribbājakasutta*
+### AN 3.54 A Wanderer  *Paribbājakasutta*
 
 Then a brahmin wanderer went up to the Buddha ... Seated to one side he
 said to the Buddha:
@@ -158,7 +158,7 @@ Mister Gotama remember me as a lay follower who has gone for refuge for
 life."
 
 <!--pg-->
-### N 3.55 Quenched  *Nibbutasutta*
+### AN 3.55 Quenched  *Nibbutasutta*
 
 Then the brahmin Jānussoṇi went up to the Buddha, bowed,
 sat down to one side, and said to the Buddha:
@@ -192,7 +192,7 @@ Mister Gotama remember me as a lay follower who has gone for refuge for
 life."
 
 <!--pg-->
-### N 3.56 Falling Apart  *Palokasutta*
+### AN 3.56 Falling Apart  *Palokasutta*
 
 Then a well-to-do Brahmin went up to the Buddha, and seated to one side
 he said to him:
@@ -226,7 +226,7 @@ Mister Gotama remember me as a lay follower who has gone for refuge for
 life."
 
 <!--pg-->
-### N 3.57 With Vacchagotta  *Vacchagottasutta*
+### AN 3.57 With Vacchagotta  *Vacchagottasutta*
 
 Then the wanderer Vacchagotta went up to the Buddha, and exchanged
 greetings with him. When the greetings and polite conversation were
@@ -323,7 +323,7 @@ possesses these five factors is very fruitful.
 > reach extinguishment."
 
 <!--pg-->
-### N 3.58 With Tikaṇṇa  *Tikaṇṇasutta*
+### AN 3.58 With Tikaṇṇa  *Tikaṇṇasutta*
 
 Then Tikaṇṇa the brahmin went up to the Buddha, and
 exchanged greetings with him. Seated to one side, in front of the
@@ -472,7 +472,7 @@ Excellent, Mister Gotama! Excellent! ... From this day forth, may Mister
 Gotama remember me as a lay follower who has gone for refuge for life."
 
 <!--pg-->
-### N 3.59 With Jānussoṇi  *Jāṇussoṇisutta*
+### AN 3.59 With Jānussoṇi  *Jāṇussoṇisutta*
 
 Then the brahmin Jānussoṇi went up to the Buddha, and
 exchanged greetings with him. Seated to one side he said to the Buddha:
@@ -576,7 +576,7 @@ Excellent, Mister Gotama! Excellent! ... From this day forth, may Mister
 Gotama remember me as a lay follower who has gone for refuge for life."
 
 <!--pg-->
-### N 3.60 With Saṅgārava  *Saṅgāravasutta*
+### AN 3.60 With Saṅgārava  *Saṅgāravasutta*
 
 Then Saṅgārava the brahmin went up to the Buddha, and
 exchanged greetings with him. When the greetings and polite conversation

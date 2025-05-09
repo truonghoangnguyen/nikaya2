@@ -1,6 +1,6 @@
 # Chương về Sumanā
 
-### N 5.31 Kinh Sumanā
+### AN 5.31 Kinh Sumanā
 
 Một thời Đức Phật trú gần Sāvatthī, tại Rừng Jeta, tu viện của ông Anāthapiṇḍika. Khi ấy, Công chúa Sumanā, cùng với năm trăm cỗ xe và năm trăm cung nữ, đi đến chỗ Đức Phật, đảnh lễ Ngài, ngồi xuống một bên và bạch rằng:
 
@@ -58,7 +58,7 @@ Một thời Đức Phật trú gần Sāvatthī, tại Rừng Jeta, tu viện c
 > họ mệnh chung vui hưởng cõi trời."
 
 <!--pg-->
-### N 5.32 Kinh Cundī
+### AN 5.32 Kinh Cundī
 
 Một thời Đức Phật trú gần Rājagaha, tại Trúc Lâm, nơi các con sóc được cho ăn. Khi ấy, Công chúa Cundī, cùng với năm trăm cỗ xe và năm trăm cung nữ, đi đến chỗ Đức Phật, đảnh lễ Ngài, ngồi xuống một bên và bạch rằng:
 
@@ -95,7 +95,7 @@ Giới hạnh được bậc Thánh yêu quý được xem là tối thượng t
 > họ vui mừng đạt đến điều tối thượng."
 
 <!--pg-->
-### N 5.33 Kinh Uggaha
+### AN 5.33 Kinh Uggaha
 
 Một thời Đức Phật trú gần Bhaddiya, tại rừng Jātiyā.
 
@@ -138,7 +138,7 @@ Này các cô gái, các con nên rèn luyện như thế này: 'Chúng ta sẽ 
 > gọi là 'Thân Khả Ái'."
 
 <!--pg-->
-### N 5.34 Kinh Tướng Quân Sīha
+### AN 5.34 Kinh Tướng Quân Sīha
 
 Một thời Đức Phật trú gần Vesālī, tại Đại Lâm, trong ngôi nhà có mái nhọn.
 
@@ -180,7 +180,7 @@ Khi Ngài nói vậy, Tướng quân Sīha bạch với Đức Phật: "Đối v
 > đệ tử của Bậc Thánh vui hưởng trên cõi trời."
 
 <!--pg-->
-### N 5.35 Lợi Ích Của Việc Bố Thí
+### AN 5.35 Lợi Ích Của Việc Bố Thí
 
 "Này các Tỳ kheo, có năm lợi ích của việc bố thí. Năm lợi ích đó là gì? Người bố thí, người thí chủ được nhiều người yêu mến và quý trọng. Người thiện, bậc chân nhân thân cận với họ. Họ có tiếng tốt đồn xa. Họ không xao lãng bổn phận của người tại gia. Khi thân hoại mạng chung, sau khi chết, họ được tái sinh vào cõi lành, cõi trời. Đây là năm lợi ích của việc bố thí.
 
@@ -195,7 +195,7 @@ Khi Ngài nói vậy, Tướng quân Sīha bạch với Đức Phật: "Đối v
 > bậc *vô lậu* hoàn toàn *tịch diệt*."
 
 <!--pg-->
-### N 5.36 Bố Thí Đúng Thời
+### AN 5.36 Bố Thí Đúng Thời
 
 "Này các Tỳ kheo, có năm loại bố thí đúng thời này. Năm loại đó là gì? Bố thí cho khách đến thăm. Bố thí cho người chuẩn bị đi xa. Bố thí cho người bệnh. Bố thí vào thời đói kém. Dâng cúng lúa gạo và hoa quả mới thu hoạch trước tiên cho những người có đạo đức. Đây là năm loại bố thí đúng thời.
 
@@ -217,7 +217,7 @@ Khi Ngài nói vậy, Tướng quân Sīha bạch với Đức Phật: "Đối v
 > nâng đỡ họ trong đời sau."
 
 <!--pg-->
-### N 5.37 Vật Thực
+### AN 5.37 Vật Thực
 
 "Này các Tỳ kheo, khi người bố thí vật thực, họ cho người nhận năm điều. Năm điều đó là gì? Tuổi thọ, sắc đẹp, hạnh phúc, sức mạnh, và *tài hùng biện* (eloquence / khả năng nói hay).
 
@@ -244,7 +244,7 @@ Khi người bố thí vật thực, họ cho người nhận năm điều này.
 > bất cứ nơi nào họ tái sinh."
 
 <!--pg-->
-### N 5.38 Niềm Tin
+### AN 5.38 Niềm Tin
 
 "Này các Tỳ kheo, người nam cư sĩ có niềm tin nhận được năm lợi ích. Năm lợi ích đó là gì? Các bậc chân nhân trên thế gian trước hết thể hiện lòng thương cảm với người có niềm tin, không nhiều bằng với người không có niềm tin. Họ trước hết đến gần người có niềm tin, không nhiều bằng với người không có niềm tin. Họ trước hết nhận vật thực cúng dường từ người có niềm tin, không nhiều bằng từ người không có niềm tin. Họ trước hết giảng Pháp cho người có niềm tin, không nhiều bằng cho người không có niềm tin. Khi thân hoại mạng chung, sau khi chết, người có niềm tin được tái sinh vào cõi lành, cõi trời. Người nam cư sĩ có niềm tin nhận được năm lợi ích này.
 
@@ -276,7 +276,7 @@ Giả sử có một cây đa lớn ở một ngã tư đường bằng phẳng.
 > bậc vô lậu hoàn toàn tịch diệt."
 
 <!--pg-->
-### N 5.39 Người Con
+### AN 5.39 Người Con
 
 "Này các Tỳ kheo, cha mẹ thấy năm lý do để mong muốn có con sinh ra trong gia đình. Năm lý do đó là gì? Vì chúng ta đã chăm sóc chúng, chúng sẽ chăm sóc lại chúng ta. Chúng sẽ làm tròn bổn phận đối với chúng ta. Truyền thống gia đình sẽ được duy trì. Chúng sẽ trông coi tài sản thừa kế. Hoặc khi chúng ta đã qua đời, chúng sẽ cúng dường hồi hướng cho chúng ta. Cha mẹ thấy năm lý do này để mong muốn có con sinh ra trong gia đình.
 
@@ -307,7 +307,7 @@ Giả sử có một cây đa lớn ở một ngã tư đường bằng phẳng.
 > người con như vậy đáng được khen ngợi."
 
 <!--pg-->
-### N 5.40 Cây Sa-la Lớn
+### AN 5.40 Cây Sa-la Lớn
 
 "Này các Tỳ kheo, cây Sa-la lớn tăng trưởng theo năm cách nhờ nương tựa vào dãy Hy-mã-lạp sơn, vua của các loài núi. Năm cách đó là gì? Cành, lá, và tán lá; vỏ cây; chồi non; *giác cây* (softwood / phần gỗ mềm); và *lõi cây* (hardwood / phần gỗ cứng). Cây Sa-la lớn tăng trưởng theo năm cách này nhờ nương tựa vào dãy Hy-mã-lạp sơn, vua của các loài núi.
 

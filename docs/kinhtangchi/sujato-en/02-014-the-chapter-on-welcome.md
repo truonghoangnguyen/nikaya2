@@ -1,6 +1,6 @@
 # The Chapter on Welcome
 
-### N 2.151--162 *Santhāravagga*
+### AN 2.151--162 *Santhāravagga*
 
 151\. "There are these two kinds of welcome. What two? Welcome in things of
 the flesh and welcome in the teaching. These are the two kinds of

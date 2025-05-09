@@ -1,6 +1,6 @@
 # The Chapter on Hindrances
 
-### N 5.51 Obstacles  *Āvaraṇasutta*
+### AN 5.51 Obstacles  *Āvaraṇasutta*
 
 SO I HAVE HEARD. At one time the Buddha was staying near
 Sāvatthī in Jeta's Grove, Anāthapiṇḍika's
@@ -54,7 +54,7 @@ realize any superhuman distinction in knowledge and vision worthy of the
 noble ones."
 
 <!--pg-->
-### N 5.52 A Heap of the Unskillful  *Akusalarāsisutta*
+### AN 5.52 A Heap of the Unskillful  *Akusalarāsisutta*
 
 "Mendicants, rightly speaking, you'd call the five hindrances a 'heap of
 the unskillful'. For these five hindrances are entirely a heap of the
@@ -64,7 +64,7 @@ speaking, you'd call these five hindrances a 'heap of the unskillful'.
 For these five hindrances are entirely a heap of the unskillful."
 
 <!--pg-->
-### N 5.53 Factors That Support Meditation  *Padhāniyaṅgasutta*
+### AN 5.53 Factors That Support Meditation  *Padhāniyaṅgasutta*
 
 "Mendicants, there are these five factors that support meditation. What
 five?
@@ -90,7 +90,7 @@ noble, penetrative, and leads to the complete ending of suffering.
 These are the five factors that support meditation."
 
 <!--pg-->
-### N 5.54 Times Good for Meditation  *Samayasutta*
+### AN 5.54 Times Good for Meditation  *Samayasutta*
 
 "Mendicants, there are five times that are not good for meditation. What
 five?
@@ -145,7 +145,7 @@ good for meditation.
 These are the five times that are good for meditation."
 
 <!--pg-->
-### N 5.55 Mother and Son  *Mātāputtasutta*
+### AN 5.55 Mother and Son  *Mātāputtasutta*
 
 At one time the Buddha was staying near Sāvatthī in Jeta's
 Grove, Anāthapiṇḍika's monastery.
@@ -213,7 +213,7 @@ all-round snare of Māra', it's females.
 > having reached the ending of defilements."
 
 <!--pg-->
-### N 5.56 Mentor  *Upajjhāyasutta*
+### AN 5.56 Mentor  *Upajjhāyasutta*
 
 Then a mendicant went up to his own mentor, and said, "Now, sir, my body
 feels like it's drugged. I'm disorientated, the teachings don't spring
@@ -280,7 +280,7 @@ pursue the development of the qualities that lead to awakening in the
 evening and toward dawn.' That's how you should train."
 
 <!--pg-->
-### N 5.57 Subjects for Regular Reviewing  *Abhiṇhapaccavekkhitabbaṭhānasutta*
+### AN 5.57 Subjects for Regular Reviewing  *Abhiṇhapaccavekkhitabbaṭhānasutta*
 
 "Mendicants, a woman or a man, a layperson or a renunciate should often
 review these five subjects. What five?
@@ -403,7 +403,7 @@ the fetters and eliminate the underlying tendencies.
 > I'm committed to the spiritual life."
 
 <!--pg-->
-### N 5.58 The Licchavi Youths  *Licchavikumārakasutta*
+### AN 5.58 The Licchavi Youths  *Licchavikumārakasutta*
 
 At one time the Buddha was staying near Vesālī, at the
 Great Wood, in the hall with the peaked roof.
@@ -505,7 +505,7 @@ guild chief, or a ruler of his own clan.
 > and he departs to rejoice in heaven."
 
 <!--pg-->
-### N 5.59 Gone Forth When Old (1st)  *Paṭhamavuḍḍhapabbajitasutta*
+### AN 5.59 Gone Forth When Old (1st)  *Paṭhamavuḍḍhapabbajitasutta*
 
 "Mendicants, it's hard to find someone gone forth when old who has five
 qualities. What five? It's hard to find someone gone forth when old who
@@ -514,7 +514,7 @@ has memorized the monastic law. It's hard to find someone gone forth
 when old who has these five qualities."
 
 <!--pg-->
-### N 5.60 Gone Forth When Old (2nd)  *Dutiyavuḍḍhapabbajitasutta*
+### AN 5.60 Gone Forth When Old (2nd)  *Dutiyavuḍḍhapabbajitasutta*
 
 "Mendicants, it's hard to find someone gone forth when old who has five
 qualities. What five? It's hard to find someone gone forth when old who

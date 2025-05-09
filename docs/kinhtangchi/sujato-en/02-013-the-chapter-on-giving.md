@@ -1,6 +1,6 @@
 # The Chapter on Giving
 
-### N 2.141--150 *Dānavagga*
+### AN 2.141--150 *Dānavagga*
 
 141\. "There are these two gifts. What two? A gift of things of the flesh and
 a gift of the teaching. These are the two gifts. The better of these two

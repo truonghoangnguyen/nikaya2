@@ -1,7 +1,7 @@
 # The Chapter on Gods of the Clouds
 
 
-### N 4.101 Clouds (1st) *Paṭhamavalāhakasutta*
+### AN 4.101 Clouds (1st) *Paṭhamavalāhakasutta*
 
 So I have heard. At one time the Buddha was staying near
 Sāvatthī in Jeta's Grove, Anāthapiṇḍika's
@@ -46,7 +46,7 @@ a talker and a doer. ...
 These four people similar to clouds are found in the world."
 
 <!--pg-->
-### N 4.102 Clouds (2nd) *Dutiyavalāhakasutta*
+### AN 4.102 Clouds (2nd) *Dutiyavalāhakasutta*
 
 "Mendicants, there are these four kinds of clouds. What four?
 
@@ -93,7 +93,7 @@ suffering' ...
 These four people similar to clouds are found in the world."
 
 <!--pg-->
-### N 4.103 Pots *Kumbhasutta*
+### AN 4.103 Pots *Kumbhasutta*
 
 "Mendicants, there are these four pots. What four?
 
@@ -137,7 +137,7 @@ And how is a person covered and full? It's when a person is impressive
 These four people similar to pots are found in the world."
 
 <!--pg-->
-### N 4.104 Lakes *Udakarahadasutta*
+### AN 4.104 Lakes *Udakarahadasutta*
 
 "Mendicants, there are these four lakes. What four?
 
@@ -182,7 +182,7 @@ impressive ... And they really understand: 'This is suffering' ...
 These four people similar to lakes are found in the world."
 
 <!--pg-->
-### N 4.105 Mangoes *Ambasutta*
+### AN 4.105 Mangoes *Ambasutta*
 
 "Mendicants, there are these four mangoes. What four?
 
@@ -228,7 +228,7 @@ impressive ... And they really understand: 'This is suffering' ...
 These four people similar to mangoes are found in the world."
 
 <!--pg-->
-### N 4.106 Mangoes (2nd) *(Dutiyaambasutta)*
+### AN 4.106 Mangoes (2nd) *(Dutiyaambasutta)*
 
 ::: small
 *(This is a ghost sutta: there is no text for it in any available
@@ -236,7 +236,7 @@ editions.)*
 :::
 
 <!--pg-->
-### N 4.107 Mice *Mūsikasutta*
+### AN 4.107 Mice *Mūsikasutta*
 
 "Mendicants, there are these four kinds of mice. What four?
 
@@ -284,7 +284,7 @@ suffering' ...
 These four people similar to mice are found in the world."
 
 <!--pg-->
-### N 4.108 Oxen *Balībaddasutta*
+### AN 4.108 Oxen *Balībaddasutta*
 
 "Mendicants, there are these four kinds of oxen. What four?
 
@@ -326,7 +326,7 @@ others.
 These four people similar to oxen are found in the world."
 
 <!--pg-->
-### N 4.109 Trees *Rukkhasutta*
+### AN 4.109 Trees *Rukkhasutta*
 
 "Mendicants, there are these four kinds of tree. What four?
 
@@ -368,7 +368,7 @@ person is ethical, of good character, and their followers are the same.
 These four people similar to trees are found in the world."
 
 <!--pg-->
-### N 4.110 Vipers *Āsīvisasutta*
+### AN 4.110 Vipers *Āsīvisasutta*
 
 "Mendicants, there are these four kinds of viper. What four?
 

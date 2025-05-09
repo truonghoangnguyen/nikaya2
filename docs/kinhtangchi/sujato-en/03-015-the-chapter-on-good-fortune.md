@@ -1,6 +1,6 @@
 # The Chapter on Good Fortune
 
-### N 3.146 Unskillful  *Akusalasutta*
+### AN 3.146 Unskillful  *Akusalasutta*
 
 "Someone with three qualities is cast down to hell. What three?
 Unskillful deeds by way of body, speech, and mind.
@@ -13,7 +13,7 @@ Skillful deeds by way of body, speech, and mind.
 Someone with these three qualities is raised up to heaven."
 
 <!--pg-->
-### N 3.147 Blameworthy  *Sāvajjasutta*
+### AN 3.147 Blameworthy  *Sāvajjasutta*
 
 "Someone with three qualities is cast down to hell. What three?
 Blameworthy deeds by way of body, speech, and mind.
@@ -25,7 +25,7 @@ Blameless deeds by way of body, speech, and mind. Someone with these
 three qualities is raised up to heaven."
 
 <!--pg-->
-### N 3.148 Unethical  *Visamasutta*
+### AN 3.148 Unethical  *Visamasutta*
 
 "Someone with three qualities is cast down to hell. ... Unethical deeds
 by way of body, speech, and mind. ...
@@ -34,7 +34,7 @@ Someone with three qualities is raised up to heaven. ... Ethical deeds
 by way of body, speech, and mind. ..."
 
 <!--pg-->
-### N 3.149 Impure  *Asucisutta*
+### AN 3.149 Impure  *Asucisutta*
 
 "Someone with three qualities is cast down to hell. ... Impure deeds by
 way of body, speech, and mind. ...
@@ -43,7 +43,7 @@ Someone with three qualities is raised up to heaven. ... Pure deeds by
 way of body, speech, and mind. ..."
 
 <!--pg-->
-### N 3.150 Broken (1st)  *Paṭhamakhatasutta*
+### AN 3.150 Broken (1st)  *Paṭhamakhatasutta*
 
 "When a foolish, incompetent untrue person has three qualities they keep
 themselves broken and damaged. They deserve to be blamed and reproved by
@@ -56,7 +56,7 @@ criticized by sensible people, and they create much merit. What three?
 Skillful deeds by way of body, speech, and mind. ..."
 
 <!--pg-->
-### N 3.151 Broken (2nd)  *Dutiyakhatasutta*
+### AN 3.151 Broken (2nd)  *Dutiyakhatasutta*
 
 "When a foolish, incompetent untrue person has three qualities they keep
 themselves broken and damaged. ... Blameworthy deeds by way of body,
@@ -67,7 +67,7 @@ themselves intact and unscathed. ... Blameless deeds by way of body,
 speech, and mind. ..."
 
 <!--pg-->
-### N 3.152 Broken (3rd)  *Tatiyakhatasutta*
+### AN 3.152 Broken (3rd)  *Tatiyakhatasutta*
 
 "When a foolish, incompetent untrue person has three qualities they keep
 themselves broken and damaged. ... Unethical deeds by way of body,
@@ -78,7 +78,7 @@ themselves intact and unscathed. ... Ethical deeds by way of body,
 speech, and mind. ..."
 
 <!--pg-->
-### N 3.153 Broken (4th)  *Catutthakhatasutta*
+### AN 3.153 Broken (4th)  *Catutthakhatasutta*
 
 "When a foolish, incompetent untrue person has three qualities they keep
 themselves broken and damaged. ... Impure deeds by way of body, speech,
@@ -89,13 +89,13 @@ themselves intact and unscathed. ... Pure deeds by way of body, speech,
 and mind. ..."
 
 <!--pg-->
-### N 3.154 Homage  *Vandanāsutta*
+### AN 3.154 Homage  *Vandanāsutta*
 
 "Mendicants, there are three kinds of homage. What three? By way of
 body, speech, and mind. These are the three kinds of homage."
 
 <!--pg-->
-### N 3.155 Morning  *Pubbaṇhasutta*
+### AN 3.155 Morning  *Pubbaṇhasutta*
 
 "Mendicants, those sentient beings who do good things in the morning by
 way of body, speech, and mind have a good morning.

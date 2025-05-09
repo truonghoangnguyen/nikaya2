@@ -1,6 +1,6 @@
 # A Short Chapter
 
-### N 3.41 Present  *Sammukhībhāvasutta*
+### AN 3.41 Present  *Sammukhībhāvasutta*
 
 "Mendicants, when three things are present, a faithful gentleman creates
 much merit. What three? When faith is present, when a gift to give is
@@ -9,7 +9,7 @@ these three things are present, a faithful gentleman creates much
 merit."
 
 <!--pg-->
-### N 3.42 Three Grounds  *Tiṭhānasutta*
+### AN 3.42 Three Grounds  *Tiṭhānasutta*
 
 "There are three grounds, mendicants, by which a person with faith and
 confidence can be known. What three? They like to see ethical people.
@@ -24,7 +24,7 @@ grounds by which a person with faith and confidence can be known.
 > that's who's called a person of faith."
 
 <!--pg-->
-### N 3.43 Good Reasons  *Atthavasasutta*
+### AN 3.43 Good Reasons  *Atthavasasutta*
 
 "Mendicants, taking three reasons into consideration provides quite
 enough motivation to teach Dhamma to another. What three? When the
@@ -36,7 +36,7 @@ Taking these three reasons into consideration provides quite enough
 motivation to teach Dhamma to another."
 
 <!--pg-->
-### N 3.44 When Conversation Flows  *Kathāpavattisutta*
+### AN 3.44 When Conversation Flows  *Kathāpavattisutta*
 
 "In three situations, mendicants, conversation flows. What three? When
 the teacher understands the meaning and the teaching. When the audience
@@ -45,7 +45,7 @@ audience understand the meaning and the teaching. These are the three
 situations in which conversation flows."
 
 <!--pg-->
-### N 3.45 Recommended by the Astute  *Paṇḍitasutta*
+### AN 3.45 Recommended by the Astute  *Paṇḍitasutta*
 
 "Mendicants, these three things are recommended by astute true persons.
 What three? Giving, going forth, and taking care of your mother and
@@ -62,7 +62,7 @@ father. These are the three things recommended by astute true persons.
 > will enjoy a world of grace."
 
 <!--pg-->
-### N 3.46 Ethical  *Sīlavantasutta*
+### AN 3.46 Ethical  *Sīlavantasutta*
 
 "Mendicants, when ethical renunciates are supported by a town or
 village, the people there create much merit in three ways. What three?
@@ -71,7 +71,7 @@ by a town or village, the people there create much merit in these three
 ways."
 
 <!--pg-->
-### N 3.47 Characteristics of the Conditioned  *Saṅkhatalakkhaṇasutta*
+### AN 3.47 Characteristics of the Conditioned  *Saṅkhatalakkhaṇasutta*
 
 "Mendicants, the conditioned has these three characteristics. What
 three? Arising is evident, vanishing is evident, and change while
@@ -86,7 +86,7 @@ persisting is evident. These are the three characteristics of the
 unconditioned."
 
 <!--pg-->
-### N 3.48 The King of Mountains  *Pabbatarājasutta*
+### AN 3.48 The King of Mountains  *Pabbatarājasutta*
 
 "Mendicants, great sal trees grow in three ways supported by the
 Himalayas, the king of mountains. What three? The branches, leaves, and
@@ -121,7 +121,7 @@ these three ways supported by a family head with faith.
 > enjoying all the pleasures they desire."
 
 <!--pg-->
-### N 3.49 Keen  *Ātappakaraṇīyasutta*
+### AN 3.49 Keen  *Ātappakaraṇīyasutta*
 
 "In three situations, mendicants, you should be keen. What three? You
 should be keen to prevent bad, unskillful qualities from arising. You
@@ -137,7 +137,7 @@ disagreeable, life-threatening. This is called a mendicant who is keen,
 alert, and mindful so as to rightly make an end of suffering."
 
 <!--pg-->
-### N 3.50 A Master Thief  *Mahācorasutta*
+### AN 3.50 A Master Thief  *Mahācorasutta*
 
 "Mendicants, a master thief with three factors breaks into houses,
 plunders wealth, steals from isolated buildings, and commits highway

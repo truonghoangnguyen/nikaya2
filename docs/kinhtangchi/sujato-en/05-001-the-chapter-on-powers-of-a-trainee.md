@@ -1,6 +1,6 @@
 # The Chapter on Powers of a Trainee
 
-### N 5.1 In Brief  *Saṁkhittasutta*
+### AN 5.1 In Brief  *Saṁkhittasutta*
 
 SO I HAVE HEARD. At one time the Buddha was staying near
 Sāvatthī in Jeta's Grove, Anāthapiṇḍika's
@@ -20,7 +20,7 @@ That is what the Buddha said. Satisfied, the mendicants approved what
 the Buddha said.
 
 <!--pg-->
-### N 5.2 In Detail  *Vitthatasutta*
+### AN 5.2 In Detail  *Vitthatasutta*
 
 "Mendicants, there are these five powers of a trainee. What five? The
 powers of faith, conscience, prudence, energy, and wisdom.
@@ -57,7 +57,7 @@ faith, conscience, prudence, energy, and wisdom.' That's how you should
 train."
 
 <!--pg-->
-### N 5.3 Suffering  *Dukkhasutta*
+### AN 5.3 Suffering  *Dukkhasutta*
 
 "Mendicants, when a mendicant has five qualities they live unhappily in
 this very life---with distress, anguish, and fever---and when the body
@@ -76,7 +76,7 @@ life---without distress, anguish, or fever---and when the body breaks
 up, after death, they can expect a good rebirth."
 
 <!--pg-->
-### N 5.4 Cast Down  *Yathābhatasutta*
+### AN 5.4 Cast Down  *Yathābhatasutta*
 
 "Mendicants, a mendicant with five qualities is cast down to hell. What
 five? It's when a mendicant is faithless, shameless, imprudent, lazy,
@@ -87,7 +87,7 @@ when a mendicant is faithful, conscientious, prudent, energetic, and
 wise. A mendicant with these five qualities is raised up to heaven."
 
 <!--pg-->
-### N 5.5 Disrobing  *Sikkhāsutta*
+### AN 5.5 Disrobing  *Sikkhāsutta*
 
 "Mendicants, any monk or nun who rejects the training and returns to a
 lesser life deserves rebuttal and criticism on five legitimate grounds
@@ -105,7 +105,7 @@ weeping, with tearful face, deserves praise on these five legitimate
 grounds in this very life."
 
 <!--pg-->
-### N 5.6 Becoming  *Samāpattisutta*
+### AN 5.6 Becoming  *Samāpattisutta*
 
 "Mendicants, you don't become unskillful as long as faith is established
 in skillful qualities. But when faith vanishes and faithlessness takes
@@ -118,7 +118,7 @@ But when wisdom vanishes and witlessness takes over, you become
 unskillful."
 
 <!--pg-->
-### N 5.7 Sensual Pleasures  *Kāmasutta*
+### AN 5.7 Sensual Pleasures  *Kāmasutta*
 
 "Mendicants, sentient beings are mostly charmed by sensual pleasures.
 When a gentleman has abandoned the scythe and flail and gone forth from
@@ -147,7 +147,7 @@ skillful qualities, I need not be concerned, thinking: 'They can look
 after themselves. They won't be negligent.'"
 
 <!--pg-->
-### N 5.8 Failure  *Cavanasutta*
+### AN 5.8 Failure  *Cavanasutta*
 
 "Mendicants, a mendicant with five qualities fails, and doesn't
 establish themselves in the true teaching. What five? A mendicant who is
@@ -164,7 +164,7 @@ qualities doesn't fail, and establishes themselves in the true
 teaching."
 
 <!--pg-->
-### N 5.9 Disrespect (1st)  *Paṭhamaagāravasutta*
+### AN 5.9 Disrespect (1st)  *Paṭhamaagāravasutta*
 
 "Mendicants, a disrespectful and irreverent mendicant with five
 qualities fails, and doesn't establish themselves in the true teaching.
@@ -182,7 +182,7 @@ teaching. A respectful and reverent mendicant with these five qualities
 doesn't fail, and establishes themselves in the true teaching."
 
 <!--pg-->
-### N 5.10 Disrespect (2nd)  *Dutiyaagāravasutta*
+### AN 5.10 Disrespect (2nd)  *Dutiyaagāravasutta*
 
 "Mendicants, a disrespectful and irreverent mendicant with five
 qualities can't achieve growth, improvement, or maturity in this

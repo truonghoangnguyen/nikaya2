@@ -1,6 +1,6 @@
 # The Chapter on Negligence
 
-### N 1.82--97 *Pamādādivagga*
+### AN 1.82--97 *Pamādādivagga*
 
 82\. "Mendicants, I do not see a single thing that is so very harmful as
 negligence. Negligence is very harmful."

@@ -1,6 +1,6 @@
 # Chương về Hành vi Thực chất
 
-### N 4.61 Hành vi Phù hợp *Pattakammasutta*
+### AN 4.61 Hành vi Phù hợp *Pattakammasutta*
 
 Khi ấy, gia chủ Anāthapiṇḍika (Cấp Cô Độc) đến gặp Đức Phật, đảnh lễ rồi ngồi xuống một bên. Đức Phật nói với ông:
 
@@ -59,7 +59,7 @@ Bất kỳ tài sản nào được chi tiêu vào việc khác ngoài bốn hà
 > Và ra đi để vui hưởng cõi trời."
 
 <!--pg-->
-### N 4.62 Không Nợ Nần *Ānaṇyasutta*
+### AN 4.62 Không Nợ Nần *Ānaṇyasutta*
 
 Khi ấy, gia chủ Anāthapiṇḍika đến gặp Đức Phật, đảnh lễ rồi ngồi xuống một bên. Đức Phật nói với ông:
 
@@ -86,7 +86,7 @@ Và thế nào là hạnh phúc không bị chê trách? Đó là khi một thá
 > Của hạnh phúc không bị chê trách."
 
 <!--pg-->
-### N 4.63 Sống với Phạm Thiên *Brahmasutta*
+### AN 4.63 Sống với Phạm Thiên *Brahmasutta*
 
 "Này các Tỳ kheo, một gia đình mà con cái tôn kính cha mẹ trong nhà mình được cho là sống với *Phạm thiên* (Divinity / vị trời Phạm thiên). Một gia đình mà con cái tôn kính cha mẹ trong nhà mình được cho là sống với *đạo sư đầu tiên* (first tutors / người thầy đầu tiên). Một gia đình mà con cái tôn kính cha mẹ trong nhà mình được cho là sống với *vị trời xưa* (old deities / vị thần cổ xưa). Một gia đình mà con cái tôn kính cha mẹ trong nhà mình được cho là sống với những người *đáng được cúng dường* (worthy of offerings dedicated to the gods / xứng đáng nhận lễ vật).
 
@@ -119,7 +119,7 @@ Tại sao vậy? Cha mẹ rất hữu ích đối với con cái, họ nuôi n�
 > Và ra đi để vui hưởng cõi trời."
 
 <!--pg-->
-### N 4.64 Địa Ngục *Nirayasutta*
+### AN 4.64 Địa Ngục *Nirayasutta*
 
 "Này các Tỳ kheo, người có bốn phẩm chất này sẽ bị đọa vào *địa ngục* (hell / cõi khổ đau tột cùng). Bốn phẩm chất gì? Họ sát sinh, trộm cắp, tà dâm, và nói dối. Người có bốn phẩm chất này sẽ bị đọa vào địa ngục.
 
@@ -129,7 +129,7 @@ Tại sao vậy? Cha mẹ rất hữu ích đối với con cái, họ nuôi n�
 > Người khôn ngoan không tán dương những điều này."
 
 <!--pg-->
-### N 4.65 Sắc Tướng *Rūpasutta*
+### AN 4.65 Sắc Tướng *Rūpasutta*
 
 "Này các Tỳ kheo, có bốn hạng người này được tìm thấy trên thế gian. Bốn hạng người nào? Có những người đánh giá và tin tưởng người khác dựa trên *sắc tướng* (appearance / hình dáng bên ngoài), dựa trên *âm thanh* (voice / giọng nói), dựa trên *sự khổ hạnh* (mortification / sự ép xác tu khổ hạnh), và dựa trên *pháp* (principle / giáo pháp, nguyên tắc).
 
@@ -156,7 +156,7 @@ Tại sao vậy? Cha mẹ rất hữu ích đối với con cái, họ nuôi n�
 > Họ không bị cuốn đi bởi một giọng nói."
 
 <!--pg-->
-### N 4.66 Tham Lam *Sarāgasutta*
+### AN 4.66 Tham Lam *Sarāgasutta*
 
 "Này các Tỳ kheo, có bốn hạng người này được tìm thấy trên thế gian. Bốn hạng người nào? Người *tham lam* (greedy / người có lòng tham), người sân hận, người *si mê* (delusional / người mê muội), và người *kiêu mạn* (conceited / người tự cao tự đại).
 
@@ -179,7 +179,7 @@ Tại sao vậy? Cha mẹ rất hữu ích đối với con cái, họ nuôi n�
 > Và họ không bao giờ tưởng tượng rằng điều này có thể xảy ra."
 
 <!--pg-->
-### N 4.67 Vua Rắn *Ahirājasutta*
+### AN 4.67 Vua Rắn *Ahirājasutta*
 
 Một thời Đức Phật trú tại gần Sāvatthī (Xá-vệ), trong vườn Jeta (Kỳ-đà), tu viện của Anāthapiṇḍika (Cấp Cô Độc).
 
@@ -224,7 +224,7 @@ Này các Tỳ kheo, Ta khuyên các con hãy rải tâm từ đến bốn dòng
 > Ta tôn kính bảy vị Phật Toàn Giác."
 
 <!--pg-->
-### N 4.68 Đề-bà-đạt-đa *Devadattasutta*
+### AN 4.68 Đề-bà-đạt-đa *Devadattasutta*
 
 Một thời Đức Phật trú tại gần Rājagaha (Vương Xá), trên núi Gijjhakūṭa (Linh Thứu), không lâu sau khi Devadatta (Đề-bà-đạt-đa) rời đi. Tại đó, Đức Phật nói với các Tỳ kheo về Devadatta:
 
@@ -240,7 +240,7 @@ Giống như con la, nó mang thai để tự hủy hoại và tàn lụi. Cũng
 > Như việc mang thai hủy hoại con la."
 
 <!--pg-->
-### N 4.69 Tinh Tấn *Padhānasutta*
+### AN 4.69 Tinh Tấn *Padhānasutta*
 
 "Này các Tỳ kheo, có bốn sự *tinh tấn* (efforts / sự cố gắng, nỗ lực) này. Bốn sự gì? Tinh tấn ngăn ngừa, tinh tấn đoạn trừ, tinh tấn phát triển, và tinh tấn duy trì.
 
@@ -262,7 +262,7 @@ Và này các Tỳ kheo, thế nào là *tinh tấn duy trì* (effort to preserv
 > Có thể đạt đến sự chấm dứt khổ đau."
 
 <!--pg-->
-### N 4.70 Phi Pháp *Adhammikasutta*
+### AN 4.70 Phi Pháp *Adhammikasutta*
 
 "Vào thời mà vua chúa *phi pháp* (unprincipled / không đúng theo lẽ phải, đạo lý), các quan chức hoàng gia trở nên phi pháp. Khi các quan chức hoàng gia phi pháp, các bà-la-môn và gia chủ trở nên phi pháp. Khi các bà-la-môn và gia chủ phi pháp, dân chúng thành thị và nông thôn trở nên phi pháp. Khi dân chúng thành thị và nông thôn phi pháp, quỹ đạo của mặt trăng và mặt trời trở nên thất thường. ... quỹ đạo của các vì sao và chòm sao ... ngày và đêm ... tháng và nửa tháng ... mùa và năm trở nên thất thường. ... sự thổi của gió trở nên thất thường và hỗn loạn. ... các vị trời tức giận. ... các tầng trời không ban đủ mưa. ... mùa màng chín thất thường. Khi con người ăn những vụ mùa chín thất thường, họ trở nên đoản mệnh, xấu xí, yếu đuối và bệnh tật.
 

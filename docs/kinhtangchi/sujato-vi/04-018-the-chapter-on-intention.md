@@ -1,6 +1,6 @@
 # Chương về Tác Ý
 
-### N 4.171 Tác Ý (ý muốn) *Kinh ý muốn*
+### AN 4.171 Tác Ý (ý muốn) *Kinh ý muốn*
 
 "Này các Tỳ kheo, khi thân còn tồn tại, *ý muốn* (intention / tâm sở tư, chủ ý) tạo ra *thân nghiệp* (bodily action / hành động qua thân) làm phát sinh khổ và lạc cho chính mình. Khi lời nói còn tồn tại, ý muốn tạo ra *khẩu nghiệp* (verbal action / hành động qua lời nói) làm phát sinh khổ và lạc cho chính mình. Khi tâm còn tồn tại, ý muốn tạo ra *ý nghiệp* (mental action / hành động qua ý nghĩ) làm phát sinh khổ và lạc cho chính mình. Nhưng những điều này chỉ xảy ra khi *do duyên* (conditioned by / bị chi phối bởi, phụ thuộc vào) *vô minh* (ignorance / sự không hiểu biết Tứ Thánh Đế).
 
@@ -35,7 +35,7 @@ Này Sāriputta, xét trường hợp một người đã từ bỏ các hạ ph
 Đây là nhân, đây là duyên tại sao một số chúng sanh mệnh chung từ cõi ấy là bậc nhất lai, trở lại nơi này, trong khi những người khác là bậc bất lai, không trở lại."
 
 <!--pg-->
-### N 4.172 Sāriputta Đạt Được Phân Tích Pháp *Kinh Vibhatti*
+### AN 4.172 Sāriputta Đạt Được Phân Tích Pháp *Kinh Vibhatti*
 
 Khi ấy, Tôn giả Sāriputta nói với các Tỳ kheo: "Thưa các Hiền giả Tỳ kheo!"
 
@@ -50,7 +50,7 @@ Tôi đã chứng ngộ *từ ngữ phân tích* (textual analysis of terminolog
 Tôi đã chứng ngộ *biện tài phân tích* (textual analysis of eloquence / tuệ phân tích sự ứng đối)—từng phần, từng chữ—sau nửa tháng xuất gia. Tôi giải thích, giảng dạy, khẳng định, thiết lập, làm rõ, phân tích và trình bày nó bằng nhiều cách. Ai có nghi ngờ hay không chắc chắn, hãy hỏi tôi, tôi sẽ trả lời. Bậc Đạo Sư của chúng ta đang hiện diện, Ngài là người rất thiện xảo trong giáo pháp của chúng ta."
 
 <!--pg-->
-### N 4.173 Với Mahākoṭṭhita *Kinh Mahākoṭṭhika*
+### AN 4.173 Với Mahākoṭṭhita *Kinh Mahākoṭṭhika*
 
 Khi ấy, Tôn giả Mahākoṭṭhita đến gặp Tôn giả Sāriputta và chào hỏi xã giao. Sau khi chào hỏi và nói chuyện thân mật, Tôn giả Mahākoṭṭhita ngồi xuống một bên và nói với Tôn giả Sāriputta:
 
@@ -75,7 +75,7 @@ Khi ấy, Tôn giả Mahākoṭṭhita đến gặp Tôn giả Sāriputta và ch
 "Nếu Hiền giả nói rằng, 'Khi sáu xứ xúc đã phai nhạt và đoạn diệt không còn dư tàn, có cái gì khác vẫn tồn tại', là Hiền giả đang *hí luận điều không thể hí luận* (proliferating the unproliferated / bàn luận, suy diễn về cái vượt ngoài sự suy diễn). Nếu Hiền giả nói rằng 'có cái gì khác không còn tồn tại nữa', là Hiền giả đang hí luận điều không thể hí luận. Nếu Hiền giả nói rằng 'có cái gì khác vừa còn tồn tại vừa không còn tồn tại nữa', là Hiền giả đang hí luận điều không thể hí luận. Nếu Hiền giả nói rằng 'có cái gì khác vừa không còn tồn tại vừa không phải không còn tồn tại nữa', là Hiền giả đang hí luận điều không thể hí luận. Phạm vi của *sự hí luận* (proliferation / sự suy diễn, vọng tưởng) mở rộng đến đâu thì phạm vi của sáu xứ xúc mở rộng đến đó. Phạm vi của sáu xứ xúc mở rộng đến đâu thì phạm vi của sự hí luận mở rộng đến đó. Khi sáu xứ xúc phai nhạt và đoạn diệt không còn dư tàn, sự hí luận dừng lại và lắng dịu."
 
 <!--pg-->
-### N 4.174 Với Ānanda *Kinh Ānanda*
+### AN 4.174 Với Ānanda *Kinh Ānanda*
 
 Khi ấy, Tôn giả Ānanda đến gặp Tôn giả Mahākoṭṭhita và chào hỏi xã giao. Sau khi chào hỏi và nói chuyện thân mật, Tôn giả Ānanda ngồi xuống một bên và nói với Tôn giả Mahākoṭṭhita:
 
@@ -100,7 +100,7 @@ Khi ấy, Tôn giả Ānanda đến gặp Tôn giả Mahākoṭṭhita và chào
 "Nếu Hiền giả nói rằng 'khi sáu xứ xúc đã phai nhạt và đoạn diệt không còn dư tàn, có cái gì khác tồn tại', là Hiền giả đang hí luận điều không thể hí luận. Nếu Hiền giả nói rằng 'có cái gì khác không còn tồn tại nữa', là Hiền giả đang hí luận điều không thể hí luận. Nếu Hiền giả nói rằng 'có cái gì khác vừa còn tồn tại vừa không còn tồn tại nữa', là Hiền giả đang hí luận điều không thể hí luận. Nếu Hiền giả nói rằng 'có cái gì khác vừa không còn tồn tại vừa không phải không còn tồn tại nữa', là Hiền giả đang hí luận điều không thể hí luận. Phạm vi của sự hí luận mở rộng đến đâu thì phạm vi của sáu xứ xúc mở rộng đến đó. Phạm vi của sáu xứ xúc mở rộng đến đâu thì phạm vi của sự hí luận mở rộng đến đó. Khi sáu xứ xúc phai nhạt và đoạn diệt không còn dư tàn, sự hí luận dừng lại và lắng dịu."
 
 <!--pg-->
-### N 4.175 Với Upavāṇa *Kinh Upavāṇa*
+### AN 4.175 Với Upavāṇa *Kinh Upavāṇa*
 
 Khi ấy, Tôn giả Upavāna đến gặp Tôn giả Sāriputta và chào hỏi xã giao. Sau khi chào hỏi và nói chuyện thân mật, Tôn giả Upavāna ngồi xuống một bên và nói với Tôn giả Sāriputta:
 
@@ -125,7 +125,7 @@ Khi ấy, Tôn giả Upavāna đến gặp Tôn giả Sāriputta và chào hỏi
 "Thưa Hiền giả, nếu trở thành người chấm dứt khổ đau là nhờ minh, thì ngay cả người *còn nhiên liệu cho chấp thủ* (still has fuel for grasping / vẫn còn nền tảng cho sự chấp thủ) cũng có thể là người chấm dứt khổ đau. Nếu trở thành người chấm dứt khổ đau là nhờ hạnh, thì ngay cả người còn nhiên liệu cho chấp thủ cũng có thể là người chấm dứt khổ đau. Nếu trở thành người chấm dứt khổ đau là nhờ cả minh và hạnh, thì ngay cả người còn nhiên liệu cho chấp thủ cũng có thể là người chấm dứt khổ đau. Nếu trở thành người chấm dứt khổ đau là vì một lý do nào khác ngoài minh và hạnh, thì ngay cả *phàm phu* (ordinary person / người chưa chứng Thánh quả) cũng có thể là người chấm dứt khổ đau. Vì phàm phu thiếu cả minh và hạnh. Thưa Hiền giả, người thiếu *giới hạnh* (good conduct / hành vi đạo đức tốt đẹp) thì không biết và thấy các pháp đúng như thật. Người thành tựu giới hạnh thì biết và thấy các pháp đúng như thật. Do biết và thấy các pháp đúng như thật, người ấy là người chấm dứt khổ đau."
 
 <!--pg-->
-### N 4.176 Khát Vọng *Kinh Āyācana*
+### AN 4.176 Khát Vọng *Kinh Āyācana*
 
 "Này các Tỳ kheo, một Tỳ kheo có lòng tin chân chánh nên khát vọng: 'Mong sao ta được như Sāriputta và Moggallāna!' Đây là tiêu chuẩn và thước đo cho các đệ tử Tỳ kheo của Ta, đó là Sāriputta và Moggallāna.
 
@@ -136,7 +136,7 @@ Một nam cư sĩ có lòng tin chân chánh nên khát vọng: 'Mong sao ta đ�
 Một nữ cư sĩ có lòng tin chân chánh nên khát vọng: 'Mong sao ta được như nữ cư sĩ Khujjuttarā và Veḷukaṇṭakī, mẹ của Nanda!' Đây là tiêu chuẩn và thước đo cho các đệ tử nữ cư sĩ của Ta, đó là nữ cư sĩ Khujjuttarā và Veḷukaṇṭakī, mẹ của Nanda."
 
 <!--pg-->
-### N 4.177 Với Rāhula *Kinh Rāhula*
+### AN 4.177 Với Rāhula *Kinh Rāhula*
 
 Khi ấy, Tôn giả Rāhula đến gặp Đức Phật, đảnh lễ rồi ngồi xuống một bên. Đức Phật nói với Tôn giả:
 
@@ -151,7 +151,7 @@ Khi ấy, Tôn giả Rāhula đến gặp Đức Phật, đảnh lễ rồi ng�
 Khi một Tỳ kheo thấy bốn đại này không phải là tự ngã, không thuộc về tự ngã, vị ấy được gọi là Tỳ kheo đã cắt đứt ái dục, cởi bỏ *kiết sử* (fetters / những trói buộc tâm linh), và bằng cách đoạn trừ hoàn toàn *mạn* (conceit / lòng kiêu ngạo, ngã mạn), đã chấm dứt *khổ* (suffering / sự đau khổ, bất toại nguyện)."
 
 <!--pg-->
-### N 4.178 Đầm Lầy *Kinh Jambālī*
+### AN 4.178 Đầm Lầy *Kinh Jambālī*
 
 "Này các Tỳ kheo, có bốn hạng người này được tìm thấy ở đời. Bốn hạng nào?
 
@@ -166,7 +166,7 @@ Tiếp theo, xét trường hợp một Tỳ kheo nhập và an trú trong một
 Đó là bốn hạng người được tìm thấy ở đời."
 
 <!--pg-->
-### N 4.179 Niết Bàn *Kinh Nibbāna*
+### AN 4.179 Niết Bàn *Kinh Nibbāna*
 
 Khi ấy, Tôn giả Ānanda đến gặp Tôn giả Sāriputta và chào hỏi xã giao. Sau khi chào hỏi và nói chuyện thân mật, Tôn giả Ānanda ngồi xuống một bên và nói với Tôn giả Sāriputta:
 
@@ -179,7 +179,7 @@ Khi ấy, Tôn giả Ānanda đến gặp Tôn giả Sāriputta và chào hỏi 
 "Thưa Hiền giả Ānanda, đó là vì một số chúng sanh thực sự hiểu rõ những tưởng nào đưa đến tổn giảm, những tưởng nào đưa đến trạng thái dừng lại, những tưởng nào đưa đến thù thắng, và những tưởng nào đưa đến thể nhập. Đó là nhân, đó là duyên tại sao một số chúng sanh đạt Niết-bàn ngay trong đời này."
 
 <!--pg-->
-### N 4.180 Bốn Đại Tham Chiếu *Kinh Mahāpadesa*
+### AN 4.180 Bốn Đại Tham Chiếu *Kinh Mahāpadesa*
 
 Một thời Đức Phật trú gần thành phố Bhoga, tại đền thờ cây Ānanda.
 

@@ -1,6 +1,6 @@
 # Phẩm về Hạng Người
 
-### N 2.52--63 Phẩm Người (*Puggalavagga*)
+### AN 2.52--63 Phẩm Người (*Puggalavagga*)
 
 52\. "Này các *Tỳ kheo* (mendicants / vị khất sĩ nam), có hai hạng người này xuất hiện ở đời vì lợi ích và hạnh phúc cho số đông, vì dân chúng, vì lợi ích, an lạc và hạnh phúc cho chư thiên và loài người. Hai hạng người đó là ai? Đó là *Như Lai* (Realized One / Bậc đã đến/đi như vậy), bậc *A-la-hán* (perfected one / Bậc xứng đáng cúng dường, Bậc đã hoàn thiện), bậc *Chánh Đẳng Giác* (fully awakened Buddha / Bậc giác ngộ hoàn toàn và chân chính); và vị *Chuyển Luân Vương* (wheel-turning monarch / Vua cai trị bằng Chánh pháp). Đó là hai hạng người xuất hiện ở đời vì lợi ích và hạnh phúc cho số đông, vì dân chúng, vì lợi ích, an lạc và hạnh phúc cho chư thiên và loài người."
 

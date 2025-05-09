@@ -1,6 +1,6 @@
 # The Chapter on Five Factors
 
-### N 5.21 Disrespect (1st)  *Paṭhamaagāravasutta*
+### AN 5.21 Disrespect (1st)  *Paṭhamaagāravasutta*
 
 "Mendicants, it is quite impossible for a disrespectful and irreverent
 mendicant with incompatible lifestyle to fulfill the practice dealing
@@ -21,7 +21,7 @@ possible to fulfill right view. Having fulfilled right view, it's
 possible to fulfill right immersion."
 
 <!--pg-->
-### N 5.22 Disrespect (2nd)  *Dutiyaagāravasutta*
+### AN 5.22 Disrespect (2nd)  *Dutiyaagāravasutta*
 
 "Mendicants, it is quite impossible for a disrespectful and irreverent
 mendicant with incompatible lifestyle to fulfill the practice dealing
@@ -45,7 +45,7 @@ entire spectrum of immersion. Having fulfilled the entire spectrum of
 immersion, it's possible to fulfill the entire spectrum of wisdom."
 
 <!--pg-->
-### N 5.23 Corruptions  *Upakkilesasutta*
+### AN 5.23 Corruptions  *Upakkilesasutta*
 
 "Mendicants, there are these five corruptions of native gold. When
 native gold is corrupted by these it's not pliable, workable, or
@@ -142,7 +142,7 @@ insight due to the ending of defilements.' You're capable of realizing
 it, since each and every one is within range."
 
 <!--pg-->
-### N 5.24 Unethical  *Dussīlasutta*
+### AN 5.24 Unethical  *Dussīlasutta*
 
 "Mendicants, an unethical person, who lacks ethics, has destroyed a
 vital condition for right immersion. When there is no right immersion,
@@ -188,7 +188,7 @@ disillusionment and dispassion has fulfilled a vital condition for
 knowledge and vision of freedom."
 
 <!--pg-->
-### N 5.25 Supported  *Anuggahitasutta*
+### AN 5.25 Supported  *Anuggahitasutta*
 
 "Mendicants, when right view is supported by five factors it has freedom
 of heart and freedom by wisdom as its fruit and benefit.
@@ -199,7 +199,7 @@ these five factors it has freedom of heart and freedom by wisdom as its
 fruit and benefit."
 
 <!--pg-->
-### N 5.26 Opportunities for Freedom  *Vimuttāyatanasutta*
+### AN 5.26 Opportunities for Freedom  *Vimuttāyatanasutta*
 
 "Mendicants, there are these five opportunities for freedom. If a
 mendicant stays diligent, keen, and resolute at these times, their mind
@@ -270,7 +270,7 @@ defilements are ended, and they arrive at the supreme sanctuary from the
 yoke."
 
 <!--pg-->
-### N 5.27 Immersion  *Samādhisutta*
+### AN 5.27 Immersion  *Samādhisutta*
 
 "Mendicants, develop limitless immersion, alert and mindful. When you
 develop limitless immersion, alert and mindful, five knowledges arise
@@ -293,7 +293,7 @@ limitless immersion, alert and mindful, these five knowledges arise for
 you personally."
 
 <!--pg-->
-### N 5.28 With Five Factors  *Pañcaṅgikasutta*
+### AN 5.28 With Five Factors  *Pañcaṅgikasutta*
 
 "Mendicants, I will teach you how to develop noble right immersion with
 five factors. Listen and apply your mind well, I will speak."
@@ -449,7 +449,7 @@ insight due to the ending of defilements.' You're capable of realizing
 it, since each and every one is within range."
 
 <!--pg-->
-### N 5.29 Walking Meditation  *Caṅkamasutta*
+### AN 5.29 Walking Meditation  *Caṅkamasutta*
 
 "Mendicants, there are five benefits of walking meditation. What five?
 You get fit for traveling, fit for striving in meditation, and healthy.
@@ -458,7 +458,7 @@ immersion gained while walking lasts long. These are the five benefits
 of walking meditation."
 
 <!--pg-->
-### N 5.30 With Nāgita  *Nāgitasutta*
+### AN 5.30 With Nāgita  *Nāgitasutta*
 
 SO I HAVE HEARD. At one time the Buddha was wandering in
 the land of the Kosalans together with a large Saṅgha of

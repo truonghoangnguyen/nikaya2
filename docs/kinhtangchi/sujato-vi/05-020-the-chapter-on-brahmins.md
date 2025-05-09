@@ -1,6 +1,6 @@
 # Chương về Bà la môn
 
-### N 5.191 Chó *Soṇasutta*
+### AN 5.191 Chó *Soṇasutta*
 
 "Này các Tỳ kheo, có năm truyền thống cổ xưa của các Bà la môn này ngày nay được thấy ở loài chó, nhưng không thấy ở các Bà la môn. Năm truyền thống đó là gì?
 
@@ -17,7 +17,7 @@ Trước kia, các Bà la môn đi khất thực để có thức ăn cho bữa 
 Năm truyền thống cổ xưa này của các Bà la môn ngày nay được thấy ở loài chó, nhưng không thấy ở các Bà la môn."
 
 <!--pg-->
-### N 5.192 Với Bà la môn Doṇa *Doṇabrāhmaṇasutta*
+### AN 5.192 Với Bà la môn Doṇa *Doṇabrāhmaṇasutta*
 
 Khi ấy, Bà la môn Doṇa đến gặp Đức Phật và chào hỏi xã giao với Ngài. Sau khi chào hỏi xã giao xong, Doṇa ngồi xuống một bên và thưa với Đức Phật:
 
@@ -104,7 +104,7 @@ Các vị đạo sĩ đó đã mô tả năm loại Bà la môn: Một Bà la m�
 Thật tuyệt vời, thưa Tôn giả Gotama! ... Kể từ hôm nay, xin Tôn giả Gotama ghi nhận con là một *cư sĩ* (lay follower / người tại gia theo đạo) đã quy y trọn đời."
 
 <!--pg-->
-### N 5.193 Với Saṅgārava *Saṅgāravasutta*
+### AN 5.193 Với Saṅgārava *Saṅgāravasutta*
 
 Khi ấy, Bà la môn Saṅgārava đến gặp Đức Phật và chào hỏi xã giao với Ngài. Sau khi chào hỏi xã giao xong, Saṅgārava ngồi xuống một bên và thưa với Đức Phật:
 
@@ -135,7 +135,7 @@ Hơn nữa, khi tâm ông không bị *hoài nghi* xâm chiếm và chi phối..
 "Thật tuyệt vời, thưa Tôn giả Gotama! ... Kể từ hôm nay, xin Tôn giả Gotama ghi nhận con là một *cư sĩ* đã quy y trọn đời."
 
 <!--pg-->
-### N 5.194 Với Kāraṇapālī *Kāraṇapālīsutta*
+### AN 5.194 Với Kāraṇapālī *Kāraṇapālīsutta*
 
 Một thời Đức Phật trú tại Vesālī, trong Đại Lâm, tại ngôi giảng đường có mái nhọn.
 
@@ -174,7 +174,7 @@ Khi nghe nói vậy, Bà la môn Kāraṇapālī đứng dậy khỏi chỗ ng�
 Thật tuyệt vời, thưa Tôn giả Piṅgiyānī! Thật tuyệt vời! Như người lật ngửa vật bị úp, hay vén mở cái bị che kín, hay chỉ đường cho người lạc lối, hay thắp đèn trong bóng tối để người mắt sáng có thể thấy các vật, Tôn giả Piṅgiyānī đã làm sáng tỏ giáo pháp bằng nhiều cách. Con xin quy y Tôn giả Gotama, quy y Pháp, và quy y Tăng đoàn Tỳ kheo. Kể từ hôm nay, xin Tôn giả Piṅgiyānī ghi nhận con là một *cư sĩ* đã quy y trọn đời."
 
 <!--pg-->
-### N 5.195 Piṅgiyānī *Piṅgiyānīsutta*
+### AN 5.195 Piṅgiyānī *Piṅgiyānīsutta*
 
 Một thời Đức Phật trú tại Vesālī, trong Đại Lâm, tại ngôi giảng đường có mái nhọn.
 
@@ -196,7 +196,7 @@ Rồi Đức Phật nói với các vị Licchavi:
 "Này các Licchavi, sự xuất hiện của năm báu vật là hiếm có trên đời. Năm báu vật đó là gì? Một bậc *Như Lai* (Realized One / Bậc đã đến như vậy/Bậc đã đi như vậy), bậc *A la hán* (perfected one / Bậc xứng đáng cúng dường), đấng *Chánh Đẳng Giác* (fully awakened Buddha / Bậc tự mình giác ngộ hoàn toàn). Một người giảng dạy giáo pháp và giới luật do bậc Như Lai tuyên thuyết. Một người hiểu rõ giáo pháp và giới luật do bậc Như Lai tuyên thuyết. Một người thực hành đúng theo giáo pháp. Một người biết ơn và đền ơn. Sự xuất hiện của năm báu vật này là hiếm có trên đời."
 
 <!--pg-->
-### N 5.196 Những Giấc Mộng Lớn *Mahāsupinasutta*
+### AN 5.196 Những Giấc Mộng Lớn *Mahāsupinasutta*
 
 "Này các Tỳ kheo, trước khi giác ngộ, năm giấc mộng lớn đã xuất hiện với bậc *Như Lai*, bậc *A la hán*, đấng *Chánh Đẳng Giác*, khi Ngài vẫn chưa giác ngộ nhưng đang hướng đến giác ngộ. Năm giấc mộng đó là gì?
 
@@ -223,7 +223,7 @@ Khi nào Ngài đi tới đi lui trên đỉnh một núi phân khổng lồ mà
 Trước khi giác ngộ, năm giấc mộng lớn này đã xuất hiện với bậc *Như Lai*, bậc *A la hán*, đấng *Chánh Đẳng Giác*, khi Ngài vẫn chưa giác ngộ nhưng đang hướng đến giác ngộ."
 
 <!--pg-->
-### N 5.197 Trở Ngại Cho Mưa *Vassasutta*
+### AN 5.197 Trở Ngại Cho Mưa *Vassasutta*
 
 "Này các Tỳ kheo, có năm trở ngại cho mưa này, mà những nhà dự báo thời tiết không biết, và tầm nhìn của họ không thể xuyên thấu. Năm trở ngại đó là gì?
 
@@ -240,12 +240,12 @@ Hơn nữa, loài người trở nên vô đạo đức. Đây là trở ngại 
 Đây là năm trở ngại cho mưa, mà những nhà dự báo thời tiết không biết, và tầm nhìn của họ không thể xuyên thấu."
 
 <!--pg-->
-### N 5.198 Lời Nói Thiện *Vācāsutta*
+### AN 5.198 Lời Nói Thiện *Vācāsutta*
 
 "Này các Tỳ kheo, lời nói có năm yếu tố là lời nói thiện, không phải lời nói ác. Lời nói ấy không đáng bị khiển trách và không bị người trí chỉ trích. Năm yếu tố đó là gì? Đó là lời nói đúng lúc, đúng sự thật, nhẹ nhàng, có lợi ích, và xuất phát từ tâm *từ*. Lời nói với năm yếu tố này là lời nói thiện, không phải lời nói ác. Lời nói ấy không đáng bị khiển trách và không bị người trí chỉ trích."
 
 <!--pg-->
-### N 5.199 Gia Đình *Kulasutta*
+### AN 5.199 Gia Đình *Kulasutta*
 
 "Khi những vị *tu hành* (renunciates / người từ bỏ thế tục để thực hành tâm linh) có đạo đức đến một gia đình, mọi người tạo được nhiều *phước* (merit / thiện nghiệp, kết quả tốt lành) vì năm lý do. Năm lý do đó là gì?
 
@@ -262,7 +262,7 @@ Khi những vị tu hành có đạo đức đến gia đình mình, mọi ngư�
 Khi những vị tu hành có đạo đức đến một gia đình, mọi người tạo được nhiều *phước* vì năm lý do này."
 
 <!--pg-->
-### N 5.200 Các Yếu Tố Thoát Ly *Nissāraṇīyasutta*
+### AN 5.200 Các Yếu Tố Thoát Ly *Nissāraṇīyasutta*
 
 "Này các Tỳ kheo, có năm yếu tố thoát ly này. Năm yếu tố đó là gì?
 

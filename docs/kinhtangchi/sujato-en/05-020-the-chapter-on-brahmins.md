@@ -1,6 +1,6 @@
 # The Chapter on Brahmins
 
-### N 5.191 Dogs  *Soṇasutta*
+### AN 5.191 Dogs  *Soṇasutta*
 
 "Mendicants, these five ancient traditions of the brahmins are exhibited
 these days among dogs, but not among brahmins. What five?
@@ -45,7 +45,7 @@ These five ancient traditions of the brahmins are exhibited these days
 among dogs, but not among brahmins."
 
 <!--pg-->
-### N 5.192 With the Brahmin Doṇa  *Doṇabrāhmaṇasutta*
+### AN 5.192 With the Brahmin Doṇa  *Doṇabrāhmaṇasutta*
 
 Then Doṇa the brahmin went up to the Buddha, and exchanged
 greetings with him. When the greetings and polite conversation were
@@ -249,7 +249,7 @@ Excellent, Mister Gotama! ... From this day forth, may Mister Gotama
 remember me as a lay follower who has gone for refuge for life."
 
 <!--pg-->
-### N 5.193 With Saṅgārava  *Saṅgāravasutta*
+### AN 5.193 With Saṅgārava  *Saṅgāravasutta*
 
 Then Saṅgārava the brahmin went up to the Buddha, and
 exchanged greetings with him. When the greetings and polite conversation
@@ -369,7 +369,7 @@ long-unpracticed spring to mind, let alone those that are practiced."
 remember me as a lay follower who has gone for refuge for life."
 
 <!--pg-->
-### N 5.194 With Kāraṇapālī  *Kāraṇapālīsutta*
+### AN 5.194 With Kāraṇapālī  *Kāraṇapālīsutta*
 
 At one time the Buddha was staying near Vesālī, at the
 Great Wood, in the hall with the peaked roof.
@@ -455,7 +455,7 @@ may Mister Piṅgiyānī remember me as a lay follower who has
 gone for refuge for life."
 
 <!--pg-->
-### N 5.195 Piṅgiyānī  *Piṅgiyānīsutta*
+### AN 5.195 Piṅgiyānī  *Piṅgiyānīsutta*
 
 At one time the Buddha was staying near Vesālī, at the
 Great Wood, in the hall with the peaked roof.
@@ -493,7 +493,7 @@ who is grateful and thankful. The appearance of these five treasures is
 rare in the world."
 
 <!--pg-->
-### N 5.196 The Great Dreams  *Mahāsupinasutta*
+### AN 5.196 The Great Dreams  *Mahāsupinasutta*
 
 "Mendicants, before his awakening five great dreams appeared to the
 Realized One, the perfected one, the fully awakened Buddha, when he was
@@ -561,7 +561,7 @@ One, the perfected one, the fully awakened Buddha, when he was still not
 awake but intent on awakening."
 
 <!--pg-->
-### N 5.197 Obstacles to Rain  *Vassasutta*
+### AN 5.197 Obstacles to Rain  *Vassasutta*
 
 "Mendicants, there are these five obstacles to rain, which the
 forecasters don't know, and which their vision does not traverse. What
@@ -588,7 +588,7 @@ These are the five obstacles to rain, which the forecasters don't know,
 and which their vision does not traverse."
 
 <!--pg-->
-### N 5.198 Well-Spoken Words  *Vācāsutta*
+### AN 5.198 Well-Spoken Words  *Vācāsutta*
 
 "Mendicants, speech that has five factors is well spoken, not poorly
 spoken. It's blameless and is not criticized by sensible people. What
@@ -597,7 +597,7 @@ Speech with these five factors is well spoken, not poorly spoken. It's
 blameless and is not criticized by sensible people."
 
 <!--pg-->
-### N 5.199 Families  *Kulasutta*
+### AN 5.199 Families  *Kulasutta*
 
 "When ethical renunciates come to a family, the people create much merit
 for five reasons. What five?
@@ -626,7 +626,7 @@ When ethical renunciates come to a family, the people create much merit
 for these five reasons."
 
 <!--pg-->
-### N 5.200 Elements of Escape  *Nissāraṇīyasutta*
+### AN 5.200 Elements of Escape  *Nissāraṇīyasutta*
 
 "Mendicants, there are these five elements of escape. What five?
 

@@ -1,6 +1,6 @@
 # The Chapter on Fools
 
-### N 2.21--31 *Bālavagga*
+### AN 2.21--31 *Bālavagga*
 
 21\. "Mendicants, there are two fools. What two? One who doesn't recognize
 when they've made a mistake. And one who doesn't properly accept the

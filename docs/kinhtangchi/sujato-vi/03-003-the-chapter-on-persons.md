@@ -1,6 +1,6 @@
 # Chương về Các Hạng Người
 
-### N 3.21 Với Saviṭṭha (Kinh Samiddha) *Samiddhasutta*
+### AN 3.21 Với Saviṭṭha (Kinh Samiddha) *Samiddhasutta*
 
 Tôi nghe như vầy. Một thời Thế Tôn trú ở Sāvatthī, tại Rừng Jeta, vườn ông Anāthapiṇḍika (Cấp Cô Độc).
 
@@ -31,7 +31,7 @@ Trong vấn đề này, không dễ để tuyên bố một cách dứt khoát r
 Này Sāriputta, trong vấn đề này, không dễ để tuyên bố một cách dứt khoát rằng một trong ba hạng người này là cao quý nhất."
 
 <!--pg-->
-### N 3.22 Bệnh Nhân (Kinh Bệnh Nhân) *Gilānasutta*
+### AN 3.22 Bệnh Nhân (Kinh Bệnh Nhân) *Gilānasutta*
 
 "Có ba hạng bệnh nhân này được tìm thấy ở trên đời. Ba hạng nào?
 
@@ -56,7 +56,7 @@ Này các Tỳ-kheo, chính vì hạng người cuối cùng này mà việc gi�
 Đó là ba hạng người giống như bệnh nhân được tìm thấy ở trên đời."
 
 <!--pg-->
-### N 3.23 Sự Lựa Chọn (Kinh Hành) *Saṅkhārasutta*
+### AN 3.23 Sự Lựa Chọn (Kinh Hành) *Saṅkhārasutta*
 
 "Có ba hạng người này được tìm thấy ở trên đời. Ba hạng nào?
 
@@ -69,7 +69,7 @@ Thứ ba, có người chọn lựa cả những sự gây đau khổ lẫn ni�
 Đó là ba hạng người được tìm thấy ở trên đời."
 
 <!--pg-->
-### N 3.24 Rất Hữu Ích (Kinh Nhiều Lợi Ích) *Bahukārasutta*
+### AN 3.24 Rất Hữu Ích (Kinh Nhiều Lợi Ích) *Bahukārasutta*
 
 "Này các Tỳ-kheo, có ba hạng người này rất hữu ích cho người khác. Ba hạng nào?
 
@@ -84,7 +84,7 @@ Hơn nữa, người đã giúp các thầy chứng ngộ *sự giải thoát t�
 Và Ta nói rằng không có ai hữu ích cho người khác hơn ba hạng người này. Và Ta cũng nói rằng không dễ để đền đáp công ơn của ba hạng người này bằng cách đảnh lễ họ, đứng dậy chào đón họ, chắp tay chào họ, và giữ đúng lễ nghi đối với họ; hoặc bằng cách cúng dường họ y phục, vật thực khất thực, chỗ ở, và thuốc men cùng vật dụng cho người bệnh."
 
 <!--pg-->
-### N 3.25 Giống Như Kim Cương (Kinh Kim Cương Dụ) *Vajirūpamasutta*
+### AN 3.25 Giống Như Kim Cương (Kinh Kim Cương Dụ) *Vajirūpamasutta*
 
 "Có ba hạng người này được tìm thấy ở trên đời. Ba hạng nào? Người có tâm như vết thương hở, người có tâm như tia chớp, và người có tâm như kim cương.
 
@@ -97,7 +97,7 @@ Và ai là người có tâm như kim cương? Đó là người chứng ngộ s
 Đó là ba hạng người được tìm thấy ở trên đời."
 
 <!--pg-->
-### N 3.26 Người Nên Gần Gũi (Kinh Thân Cận) *Sevitabbasutta*
+### AN 3.26 Người Nên Gần Gũi (Kinh Thân Cận) *Sevitabbasutta*
 
 "Có ba hạng người này được tìm thấy ở trên đời. Ba hạng nào? Có người mà các thầy không nên kết giao, đồng hành, hay phục vụ. Có người mà các thầy nên kết giao, đồng hành, và phục vụ. Có người mà các thầy nên kết giao, đồng hành, và phục vụ với sự tôn kính và tôn trọng.
 
@@ -118,7 +118,7 @@ Ai là người mà các thầy nên kết giao, đồng hành, và phục vụ 
 > Với những người tốt hơn mình."
 
 <!--pg-->
-### N 3.27 Người Nên Chán Ghét (Kinh Chán Ghét) *Jigucchitabbasutta*
+### AN 3.27 Người Nên Chán Ghét (Kinh Chán Ghét) *Jigucchitabbasutta*
 
 "Có ba hạng người này được tìm thấy ở trên đời. Ba hạng nào? Có người mà các thầy nên chán ghét, và không nên kết giao, đồng hành, hay phục vụ họ. Có người mà các thầy nên nhìn với *tâm xả* (equanimity/xả), và không nên kết giao, đồng hành, hay phục vụ họ. Có người mà các thầy nên kết giao, đồng hành, và phục vụ.
 
@@ -139,7 +139,7 @@ Ai là người mà các thầy nên kết giao, đồng hành, và phục vụ?
 > Với những người tốt hơn mình."
 
 <!--pg-->
-### N 3.28 Lời Nói Như Phân (Kinh Lời Nói Như Phân) *Gūthabhāṇīsutta*
+### AN 3.28 Lời Nói Như Phân (Kinh Lời Nói Như Phân) *Gūthabhāṇīsutta*
 
 "Có ba hạng người này được tìm thấy ở trên đời. Ba hạng nào? Người có lời nói như phân, người có lời nói như hoa, và người có lời nói như mật.
 
@@ -152,7 +152,7 @@ Và ai là người có lời nói như mật? Đó là người từ bỏ lời
 Đó là ba hạng người được tìm thấy ở trên đời."
 
 <!--pg-->
-### N 3.29 Người Mù (Kinh Người Mù) *Andhasutta*
+### AN 3.29 Người Mù (Kinh Người Mù) *Andhasutta*
 
 "Có ba hạng người này được tìm thấy ở trên đời. Ba hạng nào? Người mù, người một mắt, và người hai mắt.
 
@@ -198,7 +198,7 @@ Ai là người hai mắt? Đó là người có loại thị kiến cần thi�
 > Hạng người tốt nhất."
 
 <!--pg-->
-### N 3.30 Úp Ngược (Kinh Úp Ngược) *Avakujjasutta*
+### AN 3.30 Úp Ngược (Kinh Úp Ngược) *Avakujjasutta*
 
 "Có ba hạng người này được tìm thấy ở trên đời. Ba hạng nào? Người có trí tuệ úp ngược, người có trí tuệ trên đùi, và người có trí tuệ rộng khắp.
 

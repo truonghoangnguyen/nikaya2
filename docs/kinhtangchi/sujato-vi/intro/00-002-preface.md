@@ -1,42 +1,13 @@
-# Preface
+**Lời nói đầu**
 
-The topic of the future weighs heavily on the mind of the
-Aṅguttara. We live in that future or beyond it. The "future
-perils" of the Aṅguttara (AN 5.77--80) are upon us and have
-been for quite some time. King Ashoka referred to these suttas, which
-include the peril of corruption in the Saṅgha; perhaps he
-worried that his generosity, though intended to support Buddhism, would
-ultimately lead to its decay.
+Chủ đề về tương lai là một mối quan tâm sâu sắc trong Kinh Tăng Chi Bộ. Chúng ta đang sống trong tương lai đó hoặc xa hơn nữa. *Những hiểm họa vị lai* (future perils / những nguy hiểm trong tương lai) được nói đến trong Kinh Tăng Chi Bộ (AN 5.77--80) đang hiện hữu với chúng ta và đã kéo dài một thời gian rồi. Vua A-dục đã đề cập đến những *kinh* (suttas / bài kinh) này, trong đó có hiểm họa về sự suy thoái trong *Tăng đoàn* (Saṅgha / cộng đồng tu sĩ); có lẽ ngài lo lắng rằng sự hào phóng của mình, dù nhằm mục đích hỗ trợ Phật giáo, cuối cùng sẽ dẫn đến sự suy tàn của nó.
 
-Today the future perils are greater than ever. It is as if the seven
-suns are appearing in the sky (AN 7.66). We want to face the future with
-hope for a better life, but the horizon dims and draws closer, while we
-clutch our loved ones and prepare for the worst.
+Ngày nay, những hiểm họa vị lai còn lớn hơn bao giờ hết. Dường như bảy mặt trời đang xuất hiện trên bầu trời (AN 7.66). Chúng ta muốn đối mặt với tương lai với hy vọng về một cuộc sống tốt đẹp hơn, nhưng chân trời ngày càng mờ mịt và gần lại, trong khi chúng ta ôm chặt những người thân yêu và chuẩn bị cho điều tồi tệ nhất.
 
-It was the novelist William Gibson who said, "the future is already
-here---it's just not very evenly distributed". His saying conceals
-layers of meaning. The future is here because we see scientific,
-technological, and human marvels every day that are far beyond our
-comprehension. Yet such advances are for the few, and only trickle
-gradually, if at all, to people in need. The future is also here in a
-negative sense, in that the catastrophic effects of climate collapse are
-readily apparent; and yet there too, their effects are unevenly
-distributed, massively impacting those who have the least capacity to
-deal with them.
+Tiểu thuyết gia William Gibson đã nói: "Tương lai đã ở đây rồi---chỉ là nó không được phân bổ đồng đều lắm". Câu nói của ông ẩn chứa nhiều tầng ý nghĩa. Tương lai ở đây vì hàng ngày chúng ta thấy những kỳ quan khoa học, công nghệ và con người vượt xa tầm hiểu biết của mình. Tuy nhiên, những tiến bộ như vậy chỉ dành cho một số ít, và chỉ đến được với những người cần giúp đỡ một cách nhỏ giọt, từ từ, nếu có. Tương lai cũng ở đây theo một nghĩa tiêu cực, ở chỗ những tác động thảm khốc của khủng hoảng khí hậu đã hiện rõ; và ở đó, những tác động của chúng cũng được phân bổ không đồng đều, ảnh hưởng nặng nề đến những người có ít khả năng đối phó nhất.
 
-The way of the Dhamma is to neither deny such things nor to be paralyzed
-by them, but to live, urgently and vitally, in the present. We live as
-if the future was uncertain, because it is. Our only certainty is that
-all this will disappear.
+Con đường của *Pháp* (Dhamma / giáo lý, sự thật) là không phủ nhận những điều đó cũng không bị chúng làm cho tê liệt, mà là sống một cách khẩn trương và mạnh mẽ trong hiện tại. Chúng ta sống như thể tương lai là bất định, bởi vì nó vốn là như vậy. Điều chắc chắn duy nhất của chúng ta là tất cả những thứ này rồi sẽ biến mất.
 
-The Buddha stayed calm in the face of terrors. Living well now, we let
-the future take care of itself. The Buddha did not pretend to be able to
-control the future, so why should we?
+Đức Phật vẫn giữ bình tĩnh trước những nỗi kinh hoàng. Sống tốt trong hiện tại, chúng ta để tương lai tự lo liệu. Đức Phật không cho rằng mình có thể kiểm soát tương lai, vậy tại sao chúng ta lại phải làm vậy?
 
-As a Buddhist, I might rephrase Gibson's saying: "the present is already
-here---it's just not very evenly distributed". The art of meditation is
-the art of presence, and in that presence, we can be grateful for all
-that we have, mindful of all our blessings, and fearless when facing the
-future. It is when we lose our presence that our fears can overcome us.
-So let us not lose our presence.
-
+Là một Phật tử, tôi có thể diễn giải lại câu nói của Gibson: "Hiện tại đã ở đây rồi---chỉ là nó không được phân bổ đồng đều lắm". Nghệ thuật của *thiền định* (meditation / sự thực hành phát triển tâm) là nghệ thuật của *sự hiện trú* (presence / sự có mặt trọn vẹn trong hiện tại), và trong sự hiện trú đó, chúng ta có thể biết ơn tất cả những gì mình có, *chánh niệm* (mindful / sự chú tâm đúng đắn) về tất cả những phước lành của mình, và không sợ hãi khi đối mặt với tương lai. Chính khi chúng ta đánh mất sự hiện trú của mình thì nỗi sợ hãi mới có thể chế ngự chúng ta. Vì vậy, chúng ta đừng đánh mất sự hiện trú của mình.

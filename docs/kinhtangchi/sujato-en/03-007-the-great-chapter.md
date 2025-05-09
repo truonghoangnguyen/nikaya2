@@ -1,6 +1,6 @@
 # The Great Chapter
 
-### N 3.61 Sectarian Tenets  *Titthāyatanasutta*
+### AN 3.61 Sectarian Tenets  *Titthāyatanasutta*
 
 "Mendicants, these three sectarian tenets---as pursued, pressed, and
 grilled by the astute---when taken to their conclusion, end with
@@ -177,7 +177,7 @@ sensible ascetics and brahmins.' That's what I said, and this is why I
 said it."
 
 <!--pg-->
-### N 3.62 Perils  *Bhayasutta*
+### AN 3.62 Perils  *Bhayasutta*
 
 "Mendicants, an unlearned ordinary person speaks of three perils that
 tear mothers and children apart. What three?
@@ -251,7 +251,7 @@ perils that don't tear mothers and children apart, and the three perils
 that do tear mothers and children apart."
 
 <!--pg-->
-### N 3.63 At Venāgapura  *Venāgapurasutta*
+### AN 3.63 At Venāgapura  *Venāgapurasutta*
 
 At one time the Buddha was wandering in the land of the Kosalans
 together with a large Saṅgha of mendicants when he arrived
@@ -397,7 +397,7 @@ Saṅgha. From this day forth, may Mister Gotama remember us
 as lay followers who have gone for refuge for life."
 
 <!--pg-->
-### N 3.64 With Sarabha  *Sarabhasutta*
+### AN 3.64 With Sarabha  *Sarabhasutta*
 
 So I have heard.At one time the Buddha was staying near
 Rājagaha, on the Vulture's Peak Mountain.
@@ -498,7 +498,7 @@ Gotama wasn't here." That's how those wanderers beset Sarabha on all
 sides with sneering and jeering.
 
 <!--pg-->
-### N 3.65 With the Kālāmas of Kesamutta  *Kesamuttisutta*
+### AN 3.65 With the Kālāmas of Kesamutta  *Kesamuttisutta*
 
 So I have heard.At one time the Buddha was wandering in
 the land of the Kosalans together with a large Saṅgha of
@@ -721,7 +721,7 @@ may the Buddha remember us as lay followers who have gone for refuge for
 life."
 
 <!--pg-->
-### N 3.66 With Sāḷha and His Friend  *Sāḷhasutta*
+### AN 3.66 With Sāḷha and His Friend  *Sāḷhasutta*
 
 So I have heard.Now at that time Venerable Nandaka was
 staying near Sāvatthī in the stilt longhouse of
@@ -902,7 +902,7 @@ So they live without wishes in this very life, quenched, cooled,
 experiencing bliss, with self become divine."
 
 <!--pg-->
-### N 3.67 Topics of Discussion  *Kathāvatthusutta*
+### AN 3.67 Topics of Discussion  *Kathāvatthusutta*
 
 "There are, mendicants, these three topics of discussion. What three?
 You might discuss the past: 'That is how it was in the past.' You might
@@ -996,7 +996,7 @@ the liberation of the mind by not grasping.
 > would consult without arrogance."
 
 <!--pg-->
-### N 3.68 Followers of Other Religions  *Aññatitthiyasutta*
+### AN 3.68 Followers of Other Religions  *Aññatitthiyasutta*
 
 "Mendicants, if wanderers of other religions were to ask: 'There are
 these three things. What three? Greed, hate, and delusion. These are the
@@ -1061,7 +1061,7 @@ the cause, this is the reason why delusion doesn't arise, or if it's
 already arisen it's given up.'"
 
 <!--pg-->
-### N 3.69 Unskillful Roots  *Akusalamūlasutta*
+### AN 3.69 Unskillful Roots  *Akusalamūlasutta*
 
 "Mendicants, there are these three unskillful roots. What three? Greed,
 hate, and delusion.
@@ -1178,7 +1178,7 @@ These are the three skillful roots."
 
 
 <!--pg-->
-### N 3.70 Sabbath  *Uposathasutta*
+### AN 3.70 Sabbath  *Uposathasutta*
 
 So I have heard.At one time the Buddha was staying near
 Sāvatthī in the stilt longhouse of Migāra's

@@ -1,7 +1,7 @@
 # The Chapter on Deeds of Substance
 
 
-### N 4.61 Fitting Deeds *Pattakammasutta*
+### AN 4.61 Fitting Deeds *Pattakammasutta*
 
 Then the householder Anāthapiṇḍika went up to the Buddha,
 bowed, and sat down to one side. The Buddha said to him:
@@ -116,7 +116,7 @@ deserved and fitting cause.
 > and they depart to rejoice in heaven."
 
 <!--pg-->
-### N 4.62 Debtlessness *Ānaṇyasutta*
+### AN 4.62 Debtlessness *Ānaṇyasutta*
 
 Then the householder Anāthapiṇḍika went up to the Buddha,
 bowed, and sat down to one side. The Buddha said to him:
@@ -161,7 +161,7 @@ sensual pleasures, depending on time and occasion.
 > of the happiness of blamelessness."
 
 <!--pg-->
-### N 4.63 Living with Divinity *Brahmasutta*
+### AN 4.63 Living with Divinity *Brahmasutta*
 
 "Mendicants, a family where the children honor their parents in their
 home is said to live with divinity. A family where the children honor
@@ -202,7 +202,7 @@ them, nurture them, and show them the world.
 > and they depart to rejoice in heaven."
 
 <!--pg-->
-### N 4.64 Hell *Nirayasutta*
+### AN 4.64 Hell *Nirayasutta*
 
 "Mendicants, someone with four qualities is cast down to hell. What
 four? They kill living creatures, steal, commit sexual misconduct, and
@@ -214,7 +214,7 @@ lie. Someone with these four qualities is cast down to hell.
 > astute people don't praise these things."
 
 <!--pg-->
-### N 4.65 Appearance *Rūpasutta*
+### AN 4.65 Appearance *Rūpasutta*
 
 "Mendicants, these four people are found in the world. What four? There
 are those whose estimation of and confidence in others is based on their
@@ -243,7 +243,7 @@ These are the four people found in the world.
 > they don't get carried away by a voice."
 
 <!--pg-->
-### N 4.66 Greedy *Sarāgasutta*
+### AN 4.66 Greedy *Sarāgasutta*
 
 "Mendicants, these four people are found in the world. What four? The
 greedy, the hateful, the delusional, and the conceited.
@@ -267,7 +267,7 @@ These are the four people found in the world.
 > and they never imagine that this could be so."
 
 <!--pg-->
-### N 4.67 The Snake King *Ahirājasutta*
+### AN 4.67 The Snake King *Ahirājasutta*
 
 At one time the Buddha was staying near Sāvatthī in Jeta's
 Grove, Anāthapiṇḍika's monastery.
@@ -321,7 +321,7 @@ families, for your own safety, security, and protection.
 > I revere the seven perfectly awakened Buddhas."
 
 <!--pg-->
-### N 4.68 Devadatta *Devadattasutta*
+### AN 4.68 Devadatta *Devadattasutta*
 
 At one time the Buddha was staying near Rājagaha, on the
 Vulture's Peak Mountain, not long after Devadatta had left. There the
@@ -343,7 +343,7 @@ for his own ruin and downfall.
 > as pregnancy destroys a mule."
 
 <!--pg-->
-### N 4.69 Effort *Padhānasutta*
+### AN 4.69 Effort *Padhānasutta*
 
 "Mendicants, there are these four efforts. What four? The efforts to
 restrain, to give up, to develop, and to preserve.
@@ -376,7 +376,7 @@ These are the four efforts.
 > may attain the ending of suffering."
 
 <!--pg-->
-### N 4.70 Unprincipled *Adhammikasutta*
+### AN 4.70 Unprincipled *Adhammikasutta*
 
 "At a time when kings are unprincipled, royal officials become
 unprincipled. When royal officials are unprincipled, brahmins and

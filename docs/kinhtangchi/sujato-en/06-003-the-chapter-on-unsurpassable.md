@@ -1,6 +1,6 @@
 # The Chapter on Unsurpassable
 
-### N 6.21 At Sāma Village  *Sāmakasutta*
+### AN 6.21 At Sāma Village  *Sāmakasutta*
 
 At one time the Buddha was staying in the land of the Sakyans near the
 little village of Sāma, by a lotus pond.
@@ -32,7 +32,7 @@ Whether in the past, future, or present, all those who decline in
 skillful qualities do so because of these six qualities."
 
 <!--pg-->
-### N 6.22 Non-decline  *Aparihāniyasutta*
+### AN 6.22 Non-decline  *Aparihāniyasutta*
 
 "Mendicants, I will teach you these six principles that prevent decline.
 ... And what, mendicants, are the six principles that prevent decline?
@@ -43,7 +43,7 @@ Whether in the past, future, or present, all those who have not declined
 in skillful qualities do so because of these six qualities."
 
 <!--pg-->
-### N 6.23 Dangers  *Bhayasutta*
+### AN 6.23 Dangers  *Bhayasutta*
 
 "'Danger', mendicants, is a term for sensual pleasures. 'Suffering',
 'disease', 'boil', 'snare', and 'bog' are terms for sensual pleasures.
@@ -75,7 +75,7 @@ for sensual pleasures.
 > and risen above all suffering."
 
 <!--pg-->
-### N 6.24 The Himalaya  *Himavantasutta*
+### AN 6.24 The Himalaya  *Himavantasutta*
 
 "Mendicants, a mendicant who has six qualities could shatter Himalaya,
 the king of mountains, let alone this wretched ignorance! What six? It's
@@ -87,7 +87,7 @@ mendicant who has these six qualities could shatter Himalaya, the king
 of mountains, let alone this wretched ignorance!"
 
 <!--pg-->
-### N 6.25 Topics for Recollection  *Anussatiṭṭhānasutta*
+### AN 6.25 Topics for Recollection  *Anussatiṭṭhānasutta*
 
 "Mendicants, there are these six topics for recollection. What six?
 
@@ -149,7 +149,7 @@ Relying on this, some sentient beings are purified in this way.
 These are the six topics for recollection."
 
 <!--pg-->
-### N 6.26 With Mahākaccāna  *Mahākaccānasutta*
+### AN 6.26 With Mahākaccāna  *Mahākaccānasutta*
 
 There Mahākaccāna addressed the mendicants: "Reverends,
 mendicants!"
@@ -228,7 +228,7 @@ to make an end of pain and sadness, to discover the system, and to
 realize extinguishment."
 
 <!--pg-->
-### N 6.27 Proper Occasions (1st)  *Paṭhamasamayasutta*
+### AN 6.27 Proper Occasions (1st)  *Paṭhamasamayasutta*
 
 Then a mendicant went up to the Buddha, bowed, sat down to one side, and
 said to him:
@@ -276,7 +276,7 @@ occasion for going to see an esteemed mendicant.
 These are the six occasions for going to see an esteemed mendicant."
 
 <!--pg-->
-### N 6.28 Proper Occasions (2nd)  *Dutiyasamayasutta*
+### AN 6.28 Proper Occasions (2nd)  *Dutiyasamayasutta*
 
 At one time several senior mendicants were staying near Varanasi, in the
 deer park at Isipatana. Then after the meal, on their return from
@@ -355,7 +355,7 @@ Reverends, I have heard and learned this in the presence of the Buddha:
 'These are the six occasions for going to see an esteemed mendicant.'"
 
 <!--pg-->
-### N 6.29 With Udāyī  *Udāyīsutta*
+### AN 6.29 With Udāyī  *Udāyīsutta*
 
 Then the Buddha said to Udāyī, "Udāyī, how
 many topics for recollection are there?"
@@ -454,7 +454,7 @@ recollection is developed and cultivated in this way it leads to
 mindfulness and situational awareness."
 
 <!--pg-->
-### N 6.30 Unsurpassable  *Anuttariyasutta*
+### AN 6.30 Unsurpassable  *Anuttariyasutta*
 
 "Mendicants, these six things are unsurpassable. What six? The
 unsurpassable seeing, listening, acquisition, training, service, and

@@ -1,6 +1,6 @@
 # The Chapter on Aspiration
 
-### N 2.130--140 *Āyācanavagga*
+### AN 2.130--140 *Āyācanavagga*
 
 <!--pg-->
 130\. "A faithful monk would rightly aspire: 'May I be like

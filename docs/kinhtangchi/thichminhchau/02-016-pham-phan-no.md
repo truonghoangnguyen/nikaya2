@@ -105,4 +105,33 @@ cõi dữ, ác thú, đọa xứ, địa ngục.
 sanh lên cõi Thiện, cõi Trời, cõi đời này. Thế nào là hai? Không phẫn nộ và không hiềm hận ... Tàm và
 quý.
 
+<!--pg-->
+# XVI. Phẩm Phẫn Nộ (2)
+
+51-100.
+
+Thành tựu hai pháp này, này các Tỷ-kheo, ở đây, có người sau khi thân hoại mạng chung, được sanh lên
+cõi Thiện, cõi Trời, cõi đời này.
+
+51-55. Thành tựu hai bất thiện pháp này ...
+
+56-60. Thành tựu hai thiện pháp này ...
+
+61-65. Thành tựu hai pháp có tội này ...
+
+66-70. Thành tựu hai pháp không có tội này ...
+
+71-75. Thành tựu hai pháp tăng khổ này ...
+
+76-80. Thành tựu hai pháp tăng lạc này ...
+
+81-85. Thành tựu hai pháp với quả dị thục là khổ này ...
+
+86-90. Thành tựu hai pháp với quả dị thục là lạc này ...
+
+91-95. Thành tựu hai pháp não hại này ...
+
+96-100. Thành tựu với hai pháp không não hại này ...
+
+_(mỗi lần là năm pháp như trên, bất thiện pháp và thiện pháp) ..._
 

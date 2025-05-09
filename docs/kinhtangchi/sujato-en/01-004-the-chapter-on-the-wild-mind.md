@@ -1,6 +1,6 @@
 # The Chapter on the Wild Mind
 
-### N 1.31--40 *Adantavagga*
+### AN 1.31--40 *Adantavagga*
 
 31\. "Mendicants, I do not see a single thing that, when it's not tamed, is
 so very harmful as the mind. A wild mind is very harmful."

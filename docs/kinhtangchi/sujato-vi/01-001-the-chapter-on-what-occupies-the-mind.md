@@ -1,50 +1,33 @@
-# Chương về Những Gì Chiếm Ngự Tâm Trí (Cittapariyādānavagga)
+# Phẩm Về Sự Xâm Chiếm Tâm
 
-N 1.1--10
+### Kinh Tăng Chi Bộ 1.1–10 *Cittapariyādānavagga* (Phẩm Về Sự Xâm Chiếm Tâm)
 
-<!--pg-->
-1\. Như vầy tôi nghe. Một thời Đức Phật trú tại Xá-vệ (Sāvatthī), trong Tịnh xá Kỳ-đà (Jeta's Grove), vườn Cấp Cô Độc (Anāthapiṇḍika's monastery). Tại đây, Đức Phật gọi các Tỳ-kheo (mendicants) và nói: "Này các Tỳ-kheo!"
 
-"Bạch Thế Tôn," các vị ấy đáp lời. Đức Phật nói như sau:
+1\. Như vầy tôi nghe. Một thời Thế Tôn trú gần Sāvatthī (Xá-vệ), tại Jetavana (Kỳ-đà Lâm), tịnh xá của ông Anāthapiṇḍika (Cấp Cô Độc).
+Tại đó, Thế Tôn gọi các *Tỷ kheo* (mendicants / vị khất sĩ nam trong Phật giáo): “Này các Tỷ kheo!”
 
-"Này các Tỳ-kheo, Ta không thấy một *sắc* (sight - rūpa - đối tượng của mắt) nào khác có thể *chiếm ngự tâm trí* (occupies the mind - cittapariyādāna - làm cho tâm bị lôi cuốn, bám víu) của người nam như sắc của người nữ. Sắc của người nữ chiếm ngự tâm trí của người nam."
+“Bạch Thế Tôn,” các vị ấy vâng đáp. Thế Tôn nói như sau:
 
-<!--pg-->
-2\. "Này các Tỳ-kheo, Ta không thấy một *thanh* (sound - sadda - đối tượng của tai) nào khác có thể chiếm ngự tâm trí của người nam như thanh của người nữ. Thanh của người nữ chiếm ngự tâm trí của người nam."
+“Này các Tỷ kheo, Ta không thấy một *sắc* (sight / hình ảnh, đối tượng của mắt) nào khác xâm chiếm tâm người đàn ông như là *sắc* của người phụ nữ. *Sắc* của người phụ nữ xâm chiếm tâm người đàn ông.”
 
 <!--pg-->
-3\. "Này các Tỳ-kheo, Ta không thấy một *hương* (smell - gandha - đối tượng của mũi) nào khác có thể chiếm ngự tâm trí của người nam như hương của người nữ. Hương của người nữ chiếm ngự tâm trí của người nam."
+2\. “Này các Tỷ kheo, Ta không thấy một *thanh* (sound / âm thanh, đối tượng của tai) nào khác xâm chiếm tâm người đàn ông như là *thanh* của người phụ nữ. *Thanh* của người phụ nữ xâm chiếm tâm người đàn ông.”
 
 <!--pg-->
-4\. "Này các Tỳ-kheo, Ta không thấy một *vị* (taste - rasa - đối tượng của lưỡi) nào khác có thể chiếm ngự tâm trí của người nam như vị của người nữ. Vị của người nữ chiếm ngự tâm trí của người nam."
+3\. “Này các Tỷ kheo, Ta không thấy một *hương* (smell / mùi, đối tượng của mũi) nào khác xâm chiếm tâm người đàn ông như là *hương* của người phụ nữ. *Hương* của người phụ nữ xâm chiếm tâm người đàn ông.”
+
+
+4\. “Này các Tỷ kheo, Ta không thấy một *vị* (taste / vị nếm, đối tượng của lưỡi) nào khác xâm chiếm tâm người đàn ông như là *vị* của người phụ nữ. *Vị* của người phụ nữ xâm chiếm tâm người đàn ông.”
+
+5\. “Này các Tỷ kheo, Ta không thấy một *xúc* (touch / sự chạm, đối tượng của thân) nào khác xâm chiếm tâm người đàn ông như là *xúc* của người phụ nữ. *Xúc* của người phụ nữ xâm chiếm tâm người đàn ông.”
 
 <!--pg-->
-5\. "Này các Tỳ-kheo, Ta không thấy một *xúc* (touch - phoṭṭhabba - đối tượng của thân) nào khác có thể chiếm ngự tâm trí của người nam như xúc của người nữ. Xúc của người nữ chiếm ngự tâm trí của người nam."
+6\. “Này các Tỷ kheo, Ta không thấy một sắc nào khác xâm chiếm tâm người phụ nữ như là sắc của người đàn ông. Sắc của người đàn ông xâm chiếm tâm người phụ nữ.”
 <!--pg-->
-6\. "Này các Tỳ-kheo, Ta không thấy một sắc nào khác có thể chiếm ngự tâm trí của người nữ như sắc của người nam. Sắc của người nam chiếm ngự tâm trí của người nữ."
+7\. “Này các Tỷ kheo, Ta không thấy một thanh nào khác xâm chiếm tâm người phụ nữ như là thanh của người đàn ông. Thanh của người đàn ông xâm chiếm tâm người phụ nữ.”
 
+8\. “Này các Tỷ kheo, Ta không thấy một hương nào khác xâm chiếm tâm người phụ nữ như là hương của người đàn ông. Hương của người đàn ông xâm chiếm tâm người phụ nữ.”
 
-<!--pg-->
-7\. "Này các Tỳ-kheo, Ta không thấy một thanh nào khác có thể chiếm ngự tâm trí của người nữ như thanh của người nam. Thanh của người nam chiếm ngự tâm trí của người nữ."
+9\. “Này các Tỷ kheo, Ta không thấy một vị nào khác xâm chiếm tâm người phụ nữ như là vị của người đàn ông. Vị của người đàn ông xâm chiếm tâm người phụ nữ.”
 
-
-<!--pg-->
-8\. "Này các Tỳ-kheo, Ta không thấy một hương nào khác có thể chiếm ngự tâm trí của người nữ như hương của người nam. Hương của người nam chiếm ngự tâm trí của người nữ."
-
-<!--pg-->
-9\. "Này các Tỳ-kheo, Ta không thấy một vị nào khác có thể chiếm ngự tâm trí của người nữ như vị của người nam. Vị của người nam chiếm ngự tâm trí của người nữ."
-
-<!--pg-->
-10\. "Này các Tỳ-kheo, Ta không thấy một xúc nào khác có thể chiếm ngự tâm trí của người nữ như xúc của người nam. Xúc của người nam chiếm ngự tâm trí của người nữ."
-
-<!--pg-->
-Từ ngữ:
--   chiếm ngự tâm trí - occupies the mind - cittapariyādāna - làm cho tâm bị lôi cuốn, bám víu vào đối tượng.
--   sắc - sight - rūpa - đối tượng của mắt, hình ảnh, hình sắc.
--   thanh - sound - sadda - đối tượng của tai, âm thanh.
--   hương - smell - gandha - đối tượng của mũi, mùi hương.
--   vị - taste - rasa - đối tượng của lưỡi, vị giác.
--   xúc - touch - phoṭṭhabba - đối tượng của thân, cảm giác xúc chạm.
--   Tỳ-kheo - mendicant - bhikkhu - người xuất gia theo Phật giáo, sống đời khất thực.
--   Xá-vệ - Sāvatthī - Thành phố nơi Đức Phật thường trú.
--   Tịnh xá Kỳ-đà, vườn Cấp Cô Độc - Jeta's Grove, Anāthapiṇḍika's monastery - Khu vườn và tịnh xá do ông Cấp Cô Độc mua lại từ Thái tử Kỳ-đà để cúng dường Đức Phật và Tăng đoàn.
+10\. “Này các Tỷ kheo, Ta không thấy một xúc nào khác xâm chiếm tâm người phụ nữ như là xúc của người đàn ông. Xúc của người đàn ông xâm chiếm tâm người phụ nữ.”

@@ -1,6 +1,6 @@
 # The Chapter on Benefit
 
-### N 6.96 Appearance  *Pātubhāvasutta*
+### AN 6.96 Appearance  *Pātubhāvasutta*
 
 "Mendicants, the appearance of six things is rare in the world. What
 six? A Realized One, a perfected one, a fully awakened Buddha. A teacher
@@ -10,7 +10,7 @@ Enthusiasm for skillful qualities. The appearance of these six things is
 rare in the world."
 
 <!--pg-->
-### N 6.97 Benefit  *Ānisaṁsasutta*
+### AN 6.97 Benefit  *Ānisaṁsasutta*
 
 "Mendicants, these are the six benefits of realizing the fruit of
 stream-entry. What six? You're bound for the true teaching. You're not
@@ -20,7 +20,7 @@ arise from causes. These are the six benefits of realizing the fruit of
 stream-entry."
 
 <!--pg-->
-### N 6.98 Impermanence  *Aniccasutta*
+### AN 6.98 Impermanence  *Aniccasutta*
 
 "Mendicants, it is quite impossible for a mendicant who regards any
 condition as permanent to accept views that conform with the teaching.
@@ -36,7 +36,7 @@ the sure path. Having entered the sure path, it's possible to realize
 the fruit of stream-entry, once-return, non-return, or perfection."
 
 <!--pg-->
-### N 6.99 Suffering  *Dukkhasutta*
+### AN 6.99 Suffering  *Dukkhasutta*
 
 "Mendicants, it is quite impossible for a mendicant who regards any
 condition as pleasurable to accept views that agree with the teaching.
@@ -44,7 +44,7 @@ condition as pleasurable to accept views that agree with the teaching.
 suffering to accept views that agree with the teaching. ..."
 
 <!--pg-->
-### N 6.100 Not-Self  *Anattasutta*
+### AN 6.100 Not-Self  *Anattasutta*
 
 "Mendicants, it is quite impossible for a mendicant who regards any
 condition as self to accept views that agree with the teaching. ... It's
@@ -52,7 +52,7 @@ quite possible for a mendicant who regards all things as not-self to
 accept views that agree with the teaching. ..."
 
 <!--pg-->
-### N 6.101 Extinguished  *Nibbānasutta*
+### AN 6.101 Extinguished  *Nibbānasutta*
 
 "Mendicants, it is quite impossible for a mendicant who regards
 extinguishment as suffering to accept views that conform with the
@@ -62,7 +62,7 @@ It's quite possible for a mendicant who regards extinguishment as
 pleasurable to accept views that conform with the teaching. ..."
 
 <!--pg-->
-### N 6.102 Transience  *Anavatthitasutta*
+### AN 6.102 Transience  *Anavatthitasutta*
 
 "Mendicants, seeing six benefits is quite enough to establish the
 perception of impermanence in all conditions without qualification. What
@@ -74,7 +74,7 @@ Seeing these six benefits is quite enough to establish the perception of
 impermanence in all conditions without qualification."
 
 <!--pg-->
-### N 6.103 With a Drawn Sword  *Ukkhittāsikasutta*
+### AN 6.103 With a Drawn Sword  *Ukkhittāsikasutta*
 
 "Mendicants, seeing six benefits is quite enough to establish the
 perception of suffering in all conditions without qualification. What
@@ -87,7 +87,7 @@ quite enough to establish the perception of suffering in all conditions
 without qualification."
 
 <!--pg-->
-### N 6.104 Not Determined by Anything  *Atammayasutta*
+### AN 6.104 Not Determined by Anything  *Atammayasutta*
 
 "Mendicants, seeing six benefits is quite enough to establish the
 perception of not-self in all things without qualification. What six? 'I
@@ -98,7 +98,7 @@ Seeing these six benefits is quite enough to establish the perception of
 not-self in all things without qualification."
 
 <!--pg-->
-### N 6.105 States of Existence  *Bhavasutta*
+### AN 6.105 States of Existence  *Bhavasutta*
 
 "Mendicants, you should give up these three states of existence. And you
 should train in three trainings. What are the three states of existence
@@ -113,7 +113,7 @@ craving, untied the fetters, and by rightly comprehending conceit has
 made an end of suffering."
 
 <!--pg-->
-### N 6.106 Craving  *Taṇhāsutta*
+### AN 6.106 Craving  *Taṇhāsutta*
 
 "Mendicants, you should give up these three cravings and three conceits.
 What three cravings should you give up? Craving for sensual pleasures,

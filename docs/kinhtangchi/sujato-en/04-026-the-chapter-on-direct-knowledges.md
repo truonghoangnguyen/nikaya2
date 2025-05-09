@@ -1,7 +1,7 @@
 # The Chapter on Direct Knowledges
 
 
-### N 4.254 Insight *Abhiññāsutta*
+### AN 4.254 Insight *Abhiññāsutta*
 
 "Mendicants, there are these four things. What four? There are things
 that should be completely understood by direct knowledge. There are
@@ -28,7 +28,7 @@ realized by direct knowledge.
 These are the four things."
 
 <!--pg-->
-### N 4.255 Searches *Pariyesanāsutta*
+### AN 4.255 Searches *Pariyesanāsutta*
 
 "Mendicants, there are these four ignoble searches. What four? Someone
 liable to old age searches only for what grows old. Someone liable to
@@ -49,14 +49,14 @@ defiled, searches for the undefiled supreme sanctuary from the yoke,
 extinguishment. These are the four noble searches."
 
 <!--pg-->
-### N 4.256 Ways of Being Inclusive *Saṅgahavatthusutta*
+### AN 4.256 Ways of Being Inclusive *Saṅgahavatthusutta*
 
 "Mendicants, there are these four ways of being inclusive. What four?
 Giving, kindly words, taking care, and equality. These are the four ways
 of being inclusive."
 
 <!--pg-->
-### N 4.257 With Māluṅkyaputta *Mālukyaputtasutta*
+### AN 4.257 With Māluṅkyaputta *Mālukyaputtasutta*
 
 Then Venerable Māluṅkyaputta went up to the Buddha, bowed,
 sat down to one side, and said to him:
@@ -96,7 +96,7 @@ for this place." And Venerable Māluṅkyaputta became one of
 the perfected.
 
 <!--pg-->
-### N 4.258 Families *Kulasutta*
+### AN 4.258 Families *Kulasutta*
 
 "Mendicants, when families don't stay wealthy for long, it's always for
 one or more of these four reasons. What four? They don't look for what's
@@ -111,7 +111,7 @@ or man in charge. When families do stay wealthy for long, it's always
 for one or more of these four reasons."
 
 <!--pg-->
-### N 4.259 A Thoroughbred (1st) *Paṭhamaājānīyasutta*
+### AN 4.259 A Thoroughbred (1st) *Paṭhamaājānīyasutta*
 
 "Mendicants, a fine royal thoroughbred with four factors is worthy of a
 king, fit to serve a king, and considered a factor of kingship. What
@@ -150,7 +150,7 @@ A mendicant with these four qualities ... is the supreme field of merit
 for the world."
 
 <!--pg-->
-### N 4.260 A Thoroughbred (2nd) *Dutiyaājānīyasutta*
+### AN 4.260 A Thoroughbred (2nd) *Dutiyaājānīyasutta*
 
 "Mendicants, a fine royal thoroughbred with four factors is worthy of a
 king, fit to serve a king, and considered a factor of kingship. What
@@ -189,13 +189,13 @@ A mendicant with these four qualities ... is the supreme field of merit
 for the world."
 
 <!--pg-->
-### N 4.261 Powers *Balasutta*
+### AN 4.261 Powers *Balasutta*
 
 "Mendicants, there are these four powers. What four? The powers of
 energy, mindfulness, immersion, and wisdom. These are the four powers."
 
 <!--pg-->
-### N 4.262 Wilderness *Araññasutta*
+### AN 4.262 Wilderness *Araññasutta*
 
 "Mendicants, when a mendicant has four qualities they're not ready to
 frequent remote lodgings in the wilderness and the forest. What four?
@@ -210,7 +210,7 @@ and clever. When a mendicant has these four qualities they're ready to
 frequent remote lodgings in the wilderness and the forest."
 
 <!--pg-->
-### N 4.263 Deeds *Kammasutta*
+### AN 4.263 Deeds *Kammasutta*
 
 "When a foolish, incompetent untrue person has four qualities they keep
 themselves broken and damaged. They deserve to be blamed and criticized
