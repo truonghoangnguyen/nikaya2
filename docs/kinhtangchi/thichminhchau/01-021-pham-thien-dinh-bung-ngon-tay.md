@@ -50,6 +50,7 @@ thắng chúng, ta biết, ta thấy ... “
 
 Quán tưởng vô sắc ở nội tâm, thấy các loại ngoại sắc có hạn lượng, đẹp, xấu, vị ấy nhận thức rằng: “Sau
 khi nhiếp thắng chúng, ta biết, ta thấy ... “
+
 Quán tưởng vô sắc ở nội tâm, thấy các loại ngoại sắc vô lượng, đẹp, xấu, vị ấy nhận thức rằng: “Sau khi
 nhiếp thắng chúng, ta biết, ta thấy ... “
 

@@ -5,20 +5,16 @@
 1.- Này các Tỷ-kheo, trong ba phương diện người Uttarakurukà (Bắc Cu-lô châu) thù thắng hơn chư
 Thiên cõi Ba mươi ba và loài Người ở Jambudìpa (Diêm-phù-đề). Thế nào là ba?
 
-<!--pg-->
 2\. Không có ngã sở, không có chấp trước, tuổi thọ được quy định là những thù thắng.
 Này các Tỷ-kheo, trong ba phương diện này, người Uttarakuruka thù thắng hơn chư Thiên cõi Ba mươi
 ba và loài Người ở Jambudìpa.
 
-<!--pg-->
 3\. Này các Tỷ-kheo, trong ba phương diện, chư Thiên cõi trời Ba mươi ba thù thắng hơn loài Người ở
 Uttarakuruka và loài Người ở Jambudìpa. Thế nào là ba?
 
-<!--pg-->
 4\. Về thiên thọ mạng, về thiên dung sắc, về thiên lạc. Này các Tỷ-kheo, trong ba phương diện này, chư
 Thiên cõi trời Ba mươi ba thù thắng hơn loài Người ở Uttarakuruka và loài Người ở Jambudìpa.
 
-<!--pg-->
 5\. Này các Tỷ-kheo, trong ba phương diện, loài Người ở Jambudìpa thù thắng hơn loài Người ở cõi
 Uttarakuruka và chư Thiên ở cõi trời Ba mươi ba. Thế nào là ba?
 
@@ -27,6 +23,7 @@ Họ là anh hùng, có trú niệm và sống Phạm hạnh ở đời này.
 Này các Tỷ-kheo, trong ba phương diện này, loài Người ở cõi Jambudìpa thù thắng hơn loài Người ở cõi
 Uttarakuruka và chư Thiên ở cõi trời Ba mươi ba.
 
+<!--pg-->
 ### (II) (22) Ngựa Chưa Ðược Ðiều Phục
 
 1.- Này các Tỷ-kheo, Ta sẽ giảng về ba loại ngựa chưa được điều phục và ba hạng người chưa được điều
@@ -44,7 +41,6 @@ cân đối bề cao, chu vi bề ngoài. Ở đây, này các Tỷ-kheo, có lo
 có sắc đẹp nhưng không có cân đối. Ở đây, này các Tỷ-kheo, có loại ngựa chưa được điều phục, có tốc
 lực, có sắc đẹp và cân đối. Ba loại này, này các Tỷ-kheo, là ba loại ngựa chưa được điều phục.
 
-<!--pg-->
 3\. Và này các Tỷ-kheo, thế nào là ba hạng người chưa được điều phục?
 
 Ở đây, này các Tỷ-kheo, có hạng người chưa được điều phục, có tốc lực nhưng không có sắc đẹp, không
@@ -52,7 +48,6 @@ có cân đối. Ở đây, này các Tỷ-kheo, có hạng người chưa đư�
 không có cân đối. Ở đây, này các Tỷ-kheo, có hạng người chưa được điều phục, có tốc lực, có sắc đẹp,
 có cân đối. Ba hạng người này, này các Tỷ-kheo, là ba hạng người chưa được điều phục.
 
-<!--pg-->
 4\. Thế nào, này các Tỷ-kheo, là hạng người chưa được điều phục, có tốc lực nhưng không có sắc đẹp,
 không có cân đối?
 
@@ -61,7 +56,6 @@ thật tuệ tri: “Ðây là Khổ diệt”, như thật tuệ tri: “Ðây 
 nghĩa có tốc lực. Nhưng khi được hỏi về thắng pháp, thắng luật, vị ấy lại ngập ngừng, không có trả lời.
 Ðây Ta nói trong nghĩa không có sắc đẹp. Vị ấy không có nhận được các đồ tư dụng, như y áo, đồ ăn
 khất thực, sàng tọa, dược phẩm trị bệnh. Ðây Ta nói trong nghĩa không có cân đối. Như vậy, này các Tỷkheo, là người chưa có điều phục, có tốc lực, nhưng không có sắc đẹp, không có cân đối.
-<!--pg-->
 5\. Như thế nào, này các Tỷ-kheo, là hạng người chưa có điều phục, có tốc lực, có sắc đẹp, nhưng không
 có cân đối?
 
@@ -71,7 +65,6 @@ nghĩa có tốc lực. Nhưng khi được hỏi về thắng pháp, thắng lu
 Ðây Ta nói trong nghĩa có sắc đẹp. Nhưng vị ấy không nhận được các đồ tư dụng, như y áo, đồ ăn khất
 thực, sàng tọa, dược phẩm trị bệnh. Ðây Ta nói trong nghĩa không có cân đối. Như vậy, này các Tỷkheo, là hạng người chưa được điều phục, có tốc lực, có sắc đẹp nhưng không có cân đối.
 
-<!--pg-->
 6\. Và như thế nào, này các Tỷ-kheo, là người chưa được điều phục, có tốc lực, có sắc đẹp, có cân đối?
 
 Ở đây, này các Tỷ-kheo, Tỷ-kheo như thật tuệ tri: “Ðây là Khổ”..., như thật tuệ tri: “Ðây là con Ðường
@@ -81,7 +74,6 @@ trả lời, không có ngập ngừng. Ðây Ta nói trong nghĩa có sắc đ�
 Tỷ-kheo, là hạng người chưa được điều phục, có tốc lực, có sắc đẹp có cân đối. Những hạng người này,
 này các Tỷ-kheo, là ba hạng người chưa được điều phục.
 
-<!--pg-->
 7\. Này các Tỷ-kheo, thế nào là ba loại ngựa được điều phục?
 
 Ở đây, này các Tỷ-kheo, có loại ngựa được điều phục, có tốc lực, nhưng không có sắc đẹp, không có cân
@@ -89,7 +81,6 @@ này các Tỷ-kheo, là ba hạng người chưa được điều phục.
 đối. Ở đây, này các Tỷ-kheo, có loại ngựa được điều phục, có tốc lực, có sắc đẹp, có cân đối. Các loại
 này, này các Tỷ-kheo, là ba hạng loại ngựa được điều phục.
 
-<!--pg-->
 8\. Và này các Tỷ-kheo, thế nào là ba hạng người được điều phục?
 
 Ở đây, này các Tỷ-kheo, có hạng người được điều phục, có tốc lực, nhưng không có sắc đẹp, không có
@@ -116,7 +107,6 @@ không nhận được các đồ tư dụng như y áo, đồ ăn khất thực
 trong nghĩa không có cân đối. Như vậy, này các Tỷ-kheo, là hạng người được điều phục, có tốc lực, có
 sắc đẹp nhưng không có cân đối.
 
-<!--pg-->
 9\. Và như thế nào, này các Tỷ-kheo, là hạng người được điều phục, có tốc lực, có sắc đẹp, có cân đối?
 
 Ở đây, này các Tỷ-kheo, Tỷ-kheo do đoạn diệt năm hạ phần kiết sử, được hóa sanh, tại đấy được nhập
@@ -126,7 +116,6 @@ nhận được các đồ tư dụng như y áo, đồ ăn khất thực, sàng
 nghĩa có cân đối. Như vậy, này các Tỷ-kheo, là hạng người được điều phục, có tốc lực, có sắc đẹp, có
 cân đối. Những hạng người này, này các Tỷ-kheo, là ba hạng người được điều phục.
 
-<!--pg-->
 10\. Và này các Tỷ-kheo, thế nào là ba loại ngựa hiền thiện thuần lương?
 
 Ở đây, này các Tỷ-kheo, có loại ngựa hiền thiện thuần lương, có tốc lực nhưng có sắc đẹp, không có cân
@@ -134,7 +123,6 @@ cân đối. Những hạng người này, này các Tỷ-kheo, là ba hạng ng
 có cân đối. Ở đây, này các Tỷ-kheo, có loại ngựa hiền thiện thuần lương, có tốc lực, có sắc đẹp, có cân
 đối. Những loại này, này các Tỷ-kheo, là ba loại ngựa hiền thiện thuần lương.
 
-<!--pg-->
 11\. Và này các Tỷ-kheo, thế nào là ba loại người hiền thiện thuần lương?
 
 Ở đây, này các Tỷ-kheo, có hạng người hiền thiện thuần lương, có tốc lực nhưng không có sắc đẹp,
@@ -172,13 +160,12 @@ thắng luật, vị ấy liền trả lời. Ðây Ta nói trong nghĩa có s�
 Tỷ-kheo, là hạng người hiền thiện thuần lương, có tốc lực, có sắc đẹp, có cân đối. Ba hạng người này,
 này các Tỷ-kheo, là ba hạng người hiền thiện thuần lương.
 
+<!--pg-->
 ### (III) (23) Ái
 
-<!--pg-->
 1\. - Này các Tỷ-kheo, Ta sẽ thuyết về chín pháp lấy ái làm cội gốc. Hãy nghe và khéo tác ý, Ta sẽ giảng.
 Và này các Tỷ-kheo, thế nào là chín pháp lấy ái làm cội gốc?
 
-<!--pg-->
 2\. Do duyên ái nên cầu tìm; do duyên cầu tìm nên có được; do duyên có được nên có quyết định; do
 duyên quyết định nên có dục tham; do duyên dục tham nên đắm trước; do duyên đắm trước nên có chấp
 trước; do duyên chấp trước nên có xan tham; do duyên xan tham nên có thủ hộ, chấp trượng, chấp kiếm,
@@ -186,57 +173,47 @@ trước; do duyên chấp trước nên có xan tham; do duyên xan tham nên c
 
 Này các Tỷ-kheo, đây là chín pháp lấy ái làm cội gốc.
 
+<!--pg-->
 ### (IV) (24) Các Loại Hữu Tình
 
-<!--pg-->
 1\. - Này các Tỷ-kheo, có chín chỗ cư trú của loài hữu tình. Thế nào là chín?
 
-<!--pg-->
 2\. Này các Tỷ-kheo, có những loài hữu tình, thân sai biệt, tưởng sai biệt, như loài Người, một số chư
 Thiên, một số ở các đọa xứ. Ðó là hữu tình trú xứ thứ nhất.
 
-<!--pg-->
 3\. Này các Tỷ-kheo, có những loài hữu tình, thân sai biệt, tưởng đồng nhất, chư Phạm Chúng thiên, khi
 mới tái sanh. Ðó là hữu tình trú xứ thứ hai.
 
-<!--pg-->
 4\. Này các Tỷ-kheo, có loại hữu tình, thân đồng nhất, tưởng sai biệt như Quang âm thiên. Ðó là hữu tình
 trú xứ thứ ba.
 
-<!--pg-->
 5\. Này các Tỷ-kheo, có loài hữu tình, thân đồng nhất, tưởng đồng nhất, như Tịnh Cư thiên. Ðó là hữu
 tình trú xứ thứ tư.
 
-<!--pg-->
 6\. Này các Tỷ-kheo, có những loại hữu tình không có tưởng, không có thọ như Vô Tưởng thiên. Ðó là
 hữu tình trú xứ thứ năm.
 
-<!--pg-->
 7\. Này các Tỷ-kheo, có những loài hữu tình vượt khỏi sắc tưởng một cách hoàn toàn, diệt trừ các đối
 ngại tưởng, không có tác ý sai biệt tưởng, nghĩ rằng: “Hư không là vô biên”, chứng được Không vô biên
 xứ. Ðó là hữu tình trú xứ thứ sáu.
 
-<!--pg-->
 8\. Này các Tỷ-kheo, có những loài hữu tình, vượt khỏi hư Không vô biên xứ một cách hoàn toàn, nghĩ
 rằng: “Thức là vô biên”, chứng được Thức vô biên xứ. Ðó là hữu tình trú xứ thứ bảy.
 
-<!--pg-->
 9\. Này các Tỷ-kheo, có những loài hữu tình vượt khỏi Thức vô biên xứ một cách hoàn toàn, nghĩ rằng:
 “Không có gì tất cả”, chứng được Vô sở hữu xứ. Ðó là hữu tình trú xứ thứ tám.
 
-<!--pg-->
 10\. Này các Tỷ-kheo, có những loài hữu tình vượt khỏi Vô sở hữu xứ một cách hoàn toàn, chứng Phi
 tưởng phi phi tưởng xứ. Ðó là hữu tình trú xứ thứ chín.
 
 Này các Tỷ-kheo, đây là chín chỗ cư trú của các loài hữu tình.
+<!--pg-->
 ### (V) (25) Trí Tuệ
 
-<!--pg-->
 1\. - Này các Tỷ-kheo, khi nào tâm Tỷ-kheo được khéo tích tập với trí tuệ, thời thật hợp lý cho Tỷ-kheo
 ấy nói như sau: “Ta rõ biết: “Sanh đã tận, Phạm hạnh đã thành, những việc nên làm đã làm, không còn
 trở lui trạng thái này nữa”. Và này các Tỷ-kheo, thế nào là tâm Tỷ-kheo được khéo tích tập?
 
-<!--pg-->
 2\. “Ly tham là tâm của ta”, như vậy tâm vị ấy được khép tích tập với trí tuệ. “Ly sân là tâm của ta”, như
 vậy tâm vị ấy được khéo tích tập với trí tuệ. “Ly si là tâm của ta”, như vậy tâm vị ấy được khéo tích tập
 với trí tuệ. “Tánh không có tham là tâm của ta”, như vậy tâm vị ấy được khéo tích tập với trí tuệ. “Tánh
@@ -250,9 +227,9 @@ Này các Tỷ-kheo, khi nào tâm Tỷ-kheo được khéo tích tập với tr
 nói như sau: “Ta rõ biết: “Sanh đã tận, Phạm hạnh đã thành, những việc nên làm đã làm, không còn trở
 lui trạng thái này nữa”” .
 
+<!--pg-->
 ### (VI) (26) Trụ Ðá
 
-<!--pg-->
 1\. Như vầy tôi nghe:
 
 Một thời, Tôn giả Sàriputta và Tôn giả Candikàputta trú ở Ràjagaha (Vương Xá) tại Trúc Lâm, chỗ nuôi
@@ -262,7 +239,6 @@ dưỡng các con sóc. Tại đấy, Tôn giả Candikàputta gọi các Tỷ-k
 Tỷ-kheo được khéo tích tập với trí tuệ, thời thật hợp lý cho Tỷ-kheo ấy trả lời như sau: “Ta rõ biết:
 “Sanh đã tận, Phạm hạnh đã thành, việc nên là đã làm, không còn trở lui trạng thái này nữa””.
 
-<!--pg-->
 2\. Ðược nói vậy, Tôn giả Sàriputta nói với Tôn giả Candikàputta:
 
 − Này Hiền giả Candikàputta, Devadatta không có thuyết pháp cho các Tỷ-kheo như sau: “Thưa các
@@ -273,7 +249,6 @@ Hiền giả, khi nào tâm vị Tỷ-kheo được khéo tích tập với tâm
 như sau: “Ta rõ biết: “Sanh đã tận, Phạm hạnh đã thành, việc nên làm đã làm, không còn trở lui trạng
 thái này nữa”.
 
-<!--pg-->
 3\. Lần thứ hai... Lần thứ ba, Tôn giả Candikàputta bảo các Tỷ-kheo nói rằng:
 
 − Thưa các Hiền giả, Devadatta thuyết pháp cho các Tỷ-kheo như sau: “Khi nào tâm Tỷ-kheo được khéo
@@ -289,7 +264,6 @@ Devadatta thuyết pháp cho các Tỷ-kheo như sau: “Thưa các Hiền giả
 tích tập với tâm ý thời thật hợp lý cho Tỷ-kheo ấy trả lời như sau: “Ta rõ biết: “Sanh đã tận... không còn
 trở lui trạng thái này nữa”.
 
-<!--pg-->
 4\. - Và như thế nào, này Hiền giả, tâm vị Tỷ-kheo được khép tích tập với tâm ý?
 
 − “Ly tham là tâm của ta”, như vậy tâm vị ấy được khéo tích tập với tâm ý. “Ly sân là tâm của ta”, như
@@ -301,7 +275,6 @@ của ta”, như vậy tâm vị ấy được khéo tích tập với tâm ý.
 của ta”, như vậy tâm vị ấy được khéo tích tập với tâm ý. “Tánh không chuyển hướng về vô sắc hữu là
 tâm của ta”, như vậy tâm vị ấy được khéo tích tập với tâm ý.
 
-<!--pg-->
 5\. Như vậy, này Hiền giả, với Tỷ-kheo có tâm chánh giải thoát như vậy, nếu các sắc do mắt nhận thức
 mạnh mẽ đi vào giới vực của con mắt, các sắc không chinh phục tâm vị ấy, tâm được an trú, không bị
 tạp nhiễm, không bị lay động. Vị ấy tùy quán sự diệt tận của chúng; nếu các tiếng do tai nhận thức mạnh
@@ -320,19 +293,17 @@ nhiễm, không bị lay động. Vị ấy tùy quán sự diệt tận của c
 các pháp do ý nhận thức mạnh mẽ đi vào giới vức của ý, các pháp không chinh phục tâm vị ấy, tâm
 được an trú, không bị tạp nhiễm, không bị lay động. Vị ấy tùy quán sự diệt tận của chúng.
 
+<!--pg-->
 ### (VII) (27) Sợ Hãi Hận Thù (1)
 
-<!--pg-->
 1\. Rồi gia chủ Anàthapindika đi đến Thế Tôn, sau khi đến đảnh lễ Thế Tôn rồi ngồi xuống một bên. Thế
 Tôn nói với gia chủ Anàthapindika đang ngồi xuống một bên:
 
-<!--pg-->
 2\. - Này Gia chủ, khi nào năm sợ hãi hận thù của vị Thánh đệ tử được chỉ tức, thời vị ấy thành tựu được
 bốn Dự lưu phần. Nếu vị ấy muốn, có thể tuyên bố về ngã đối với tự ngã: “Ðịa ngục đối với ta được
 đoạn tận, loài bàng sanh đối với ta được đoạn tận, cõi ngạ quỷ đối với ta được đoạn tận, cõi dữ, ác thú,
 đọa xứ đối với ta được đoạn tận. Ta là vị Dự lưu, không còn thối đọa, chắc chắn đạt đến Chánh giác”.
 
-<!--pg-->
 3\. Thế nào là năm sợ hãi hận thù được chỉ tức?
 
 Này Gia chủ, sợ hãi hận thù do sát sanh, vì duyên sát sanh, đưa đến trong hiện tại; sợ hãi hận thù đưa
@@ -357,7 +328,6 @@ Này Gia chủ, sợ hãi hận thù do đắm say rượu men, rượu nấu, v
 
 Năm sự sợ hãi hận thù này được nhiếp phục.
 
-<!--pg-->
 4\. Thế nào là bốn Dự lưu phần được đầy đủ?
 
 Ở đây, này Gia chủ, vị Thánh đệ tử, đầy đủ lòng tin tuyệt đối với đức Phật: “Ðây là Thế Tôn, bậc ứng
@@ -375,16 +345,16 @@ phước điền ở trên đời. Các vị ấy đầy đủ các giới đứ
 bị hủy hoại, không có tỳ vết, không có vết nhơ, đưa đến tự do, được người trí tán thán, không bị nhiễm
 trước, đưa đến Thiền định. Bốn Dự lưu phần này được thành tựu.
 
+<!--pg-->
 ### (VIII) (28) Sợ Hãi Hận Thù (2)
 
 (Thế Tôn thuyết lại kinh 26 cho các Tỷ-kheo).
 
+<!--pg-->
 ### (IX) (29) Xung Ðột Sự
 
-<!--pg-->
 1\. - Này các Tỷ-kheo, có chín xung đột sự. Thế nào là chín?
 
-<!--pg-->
 2\. “Vị ấy đã làm hại tôi”, xung đột khởi lên. “Vị ấy đang làm hại tôi”, xung đột khởi lên. “Vị ấy sẽ làm
 hại tôi”, xung đột khởi lên. “Vị ấy đã làm hại người tôi thương, tôi mến”... “Vị ấy đang làm hại người
 tôi thương, tôi mến”... “Vị ấy sẽ làm hại người tôi thương, tôi mến”, xung đột khởi lên. “Vị ấy đã làm
@@ -392,9 +362,9 @@ lợi cho người tôi không thương, không mến”... “Vị ấy đang l
 không thương, không mến”, xung đột khởi lên.
 
 Này các Tỷ-kheo, đây là chín xung đột sự.
+<!--pg-->
 ### (X) (30) Ðiều Phục Xung Ðột Sự
 
-<!--pg-->
 1\. - Này các Tỷ-kheo, có chín điều phục xung đột sự. Thế nào là chín? “Vị ấy đã làm hại tôi; có ích lợi
 gì mà nghĩ như vậy”, nhờ vậy xung đột được điều phục. “Vị ấy sẽ làm hại tôi; có ích lợi gì mà nghĩ như
 vậy”, nhờ vậy xung đột được điều phục. “Vị ấy đã làm hại người tôi thương mến; có ích lợi gì mà nghĩ
@@ -405,12 +375,11 @@ có lợi ích gì mà nghĩ như vậy”, nhờ vậy xung đột được đi
 
 Này các Tỷ-kheo, đây là chín xung đột sự được điều phục.
 
+<!--pg-->
 ### (XI) (31) Chín Thứ Ðệ Diệt
 
-<!--pg-->
 1\. - Này các Tỷ-kheo, có chín thứ đệ diệt. Thế nào là chín?
 
-<!--pg-->
 2\. Thành tựu sơ Thiền, các dục tưởng bị đoạn diệt. Thành tựu đệ nhị Thiền, các tầm tứ bị đoạn diệt.
 Thành tựu đệ tam Thiền, hỷ bị đoạn diệt. Thành tựu đệ tứ Thiền, hơi thở vào, hơi thở ra bị đoạn diệt.
 Thành tựu Không vô biên xứ, sắc tưởng bị đoạn diệt. Thành tựu Thức vô biên xứ, Không vô biên xứ

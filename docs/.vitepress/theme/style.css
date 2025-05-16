@@ -34,7 +34,8 @@ body {
   --vp-c-bg-soft: #2c2c2c;
   --vp-c-bg-mute: #313131;
   --vp-c-divider: #3f3f3f;
-  --vp-c-text-1: #abb2bf; /*rgb(202, 203, 206);*/ /*#b4b4b4;  text dark color */
+  --vp-c-text-1: #abb2bf; rgb(202, 203, 206);*/ /*#b4b4b4;  text dark color */
+  /*--vp-c-text-1: #c0c0c0; /*rgb(202, 203, 206);*/ /*#b4b4b4;  text dark color */
   --vp-c-text-2: #c9c9c9;
   --vp-c-text-3: #9e9e9e;
 

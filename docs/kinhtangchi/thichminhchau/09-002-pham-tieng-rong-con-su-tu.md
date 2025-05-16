@@ -1,8 +1,8 @@
 # II. Phẩm Tiếng Rống Con Sư Tử
 
+
 ### (I) (11) Sau Khi An Cư
 
-<!--pg-->
 1\. Như vậy tôi nghe:
 
 Một thời, Thế Tôn trú ở Sàvatthi, tại Jetavana, khu vườn ông Anàthapindikam, rồi Tôn giả Sàriputta đi
@@ -16,7 +16,6 @@ hành trong quốc độ.
 
 Rồi Tôn giả Sàriputta từ chỗ ngồi đứng dậy, đảnh lễ Thế Tôn, thân phía hữu hướng về Ngài rồi ra đi.
 
-<!--pg-->
 2\. Rồi một Tỷ-kheo, sau khi Tôn giả Sàriputta ra đi không bao lâu, bạch Thế Tôn:
 
 − Bạch Thế Tôn, Tôn giả Sàriputta xâm phạm con, đã bỏ đi du hành không có xin lỗi con.
@@ -38,14 +37,12 @@ chìa khóa, đi từ tinh xá này đến tinh xá khác nói rằng:
 − Chư Tôn giả hãy đến! Chư Tôn giả hãy đến! Nay Tôn giả Sàriputta sẽ rống tiếng rống con sư tử trước
 mặt Thế Tôn.
 
-<!--pg-->
 3\. Rồi Tôn giả Sàriputta đi đến Thế Tôn, sau khi đảnh lễ Thế Tôn rồi ngồi xuống một bên Thế Tôn, nói
 với Tôn giả Sàriputta đang ngồi xuống một bên:
 
 − Ở đây, này Sàriputta, một đồng Phạm hạnh có điều bất mãn với Thầy: “Bạch Thế Tôn, Tôn giả
 Sàriputta xâm phạm con đã ra đi không có xin lỗi con”.
 
-<!--pg-->
 4\. - Thật vậy, bạch Thế Tôn, với ai không an trú thân niệm trên thân, người ấy, ở đây, sau khi xâm phạm
 một vị đồng Phạm hạnh, có thể bỏ đi du hành, không có xin lỗi.
 
@@ -102,7 +99,6 @@ chảy, bị rỉ. Cũng vậy, bạch Thế Tôn, con mang cái thân này, có
 chảy, bị rỉ. Bạch Thế Tôn, với ai không an trú thân niệm, người ấy ở đây, sau khi xâm phạm một vị đồng
 Phạm hạnh, có thể bỏ đi du hành, không có xin lỗi.
 
-<!--pg-->
 5\. Rồi Tỷ-kheo ấy từ chỗ ngồi đứng dậy, đắp thượng y vào một bên vai, cúi đầu đảnh lễ chân Thế Tôn
 và bạch Thế Tôn:
 
@@ -115,7 +111,6 @@ Sàriputta, không ý thức, trống không, vọng ngôn không thật. Này T
 tội, đã phát lộ đúng pháp, Ta chấp nhận tội ấy cho Thầy. Ðây là một sự tiến bộ, này Tỷ-kheo, trong Pháp
 Luật của bậc Thánh, những ai thấy tội là tội, phát lộ đúng pháp, và ngăn đón trong tương lai.
 
-<!--pg-->
 6\. Rồi Thế Tôn, nói với Tôn giả Sàriputta:
 
 − Này Sàriputta, hay tha thứ kẻ ngu si này, trước khi ở đây, đầu nó sẽ bị vỡ ta làm bảy mảnh.
@@ -123,21 +118,19 @@ Luật của bậc Thánh, những ai thấy tội là tội, phát lộ đúng 
 − Bạch Thế Tôn, con tha thứ cho Tôn giả ấy, nếu Tôn giả ấy nói với con: “Hãy tha thứ cho”, và cũng
 mong Tôn giả ấy tha thứ cho con.
 
+<!--pg-->
 ### (II) (12) Không Có Dư Y
 
-<!--pg-->
 1\. Một thời, Thế Tôn trú ở Sàvatthi, tại Jetavana, khu vườn ông Anàthapindika, rồi Tôn giả Sàriputta vào
 buổi sáng đắp y, cầm y bát đi vào Sàvatthi để khất thực. Tôn giả Sàriputta suy nghĩ như sau: “Nay còn
 quá sớm để vào Sàvatthi khất thực. Vậy ta hãy đi đến khu vườn của các du sĩ ngoại đạo”. Tôn giả
 Sàriputta đi đến khu vườn các du sĩ ngoại đạo, sau khi đến, nói lên với các du sĩ ngoại đạo ấy những lời
 chào đón hỏi thăm, sau khi nói lên những lời chào đón hỏi thăm thân hữu, liền ngồi xuống một bên.
 
-<!--pg-->
 2\. Lúc bấy giờ, trong khi các du sĩ ngoại đạo ấy đang ngồi tụ họp, câu chuyện này khởi lên: “Thưa chư
 Hiền, ai chết có dư y, tất cả không được giải thoát khỏi địa ngục, không được giải thoát khỏi bàng sinh,
 không được giải thoát ngạ quỷ, không được giải thoát khỏi cõi dữ, ác thú, đọa xứ”.
 
-<!--pg-->
 3\. Rồi Tôn giả Sàriputta không hoan hỷ, không chỉ trích lời nói các du sĩ ngoại đạo ấy, không hoan hỷ,
 không chỉ trích, Tôn giả từ chỗ ngồi đứng dậy và ra đi, với ý nghĩ: “Ta sẽ biết ý nghĩa lời nói này từ Thế
 Tôn”. Rồi Tôn giả Sàriputta khất thực ở Sàvatthi xong, sau bữa ăn, trên con đường khất thực trở về, đi
@@ -154,21 +147,18 @@ quỷ, không được giải thoát khỏi cõi dữ, ác thú, đọa xứ”.
 chỉ trích lời nói các du sĩ ngoại đạo ấy. Không hoan hỷ, không chỉ trích, con từ chỗ ngồi đứng dậy và ra
 đi, với ý nghĩ rằng: “Ta sẽ biết ý nghĩa lời nói này từ Thế Tôn”.
 
-<!--pg-->
 4\. - Này Sàriputta, một số các du sĩ ngoại đạo là những kẻ ngu si, không thông minh, một số sẽ biết:
 “Người có dư y là người có dư y”, hay sẽ biết: “Người không có dư y là người không có dư y”. Này
 Sàriputta, có chín hạng người này, khi chết có dư y, được giải thoát khỏi địa ngục, được giải thoát khỏi
 loài bàng sinh, được giải thoát khỏi ngạ quỷ, được giải thoát khỏi cõi dữ, ác thú, đọa xứ. Thế nào là
 chín?
 
-<!--pg-->
 5\. Ở đây, này Sàriputta, có hạng người viên mãn trong các giới, viên mãn trong định, nhưng không viên
 mãn trong tuệ. Vị ấy, sau khi diệt tận năm hạ phần kiết sử, là vị Trung gian Bát-niết-bàn (antarà
 parinibbàyì). Này Sàriputta, đây là hạng người thứ nhất, khi chết có dư y, được giải thoát khỏi địa ngục,
 được giải thoát khỏi loài bàng sinh, được giải thoát khỏi ngạ quỷ, được giải thoát khỏi cõi dữ, ác thú,
 đọa xứ.
 
-<!--pg-->
 6\. Lại nữa, này Sàriputta, ở đây có hạng người viên mãn trong các giới, viên mãn trong định, nhưng
 không viên mãn trong tuệ. Vị ấy, sau khi diệt tận năm hạ phần kiết sử, là vị Tổn hại Bát-niết-bàn
 (uppahacca parinibbàyì). Này Sàriputta, đây là hạng người thứ hai, khi chết có dư y, được giải thoát khỏi
@@ -193,25 +183,21 @@ thiên (uddhamsota akanitthagàmì). Này Sàriputta, đây là hạng người 
 giải thoát khỏi địa ngục, được giải thoát khỏi loài bàng sinh, được giải thoát khỏi ngạ quỷ, được giải
 thoát khỏi cõi dữ, ác thú, đọa xứ.
 
-<!--pg-->
 7\. Lại nữa, này Sàriputta, ở đây có hạng người viên mãn trong các giới, không viên mãn trong định,
 không viên mãn trong tuệ. Vị ấy, sau khi diệt tận ba kiết sử, làm nhẹ bớt tham, sân, si, là vị Nhất Lai,
 còn đến thế giới này một lần nữa, rồi đoạn tận khổ đau. Này Sàriputta, đây là hạng người thứ sáu, khi
 chết có dư y, được giải thoát khỏi địa ngục... được giải thoát khỏi cõi dữ, ác thú, đọa xứ.
 
-<!--pg-->
 8\. Lại nữa, này Sàriputta, ở đây có hạng người viên mãn trong các giới, không viên mãn trong định,
 không viên mãn trong tuệ. Vị ấy, sau khi diệt tận ba kiết sử, là vị Nhất Chủng (ekabìji), còn sanh hiện
 hữu làm người một lần nữa rồi đoạn tận khổ đau. Này Sàriputta, đây là hạng người thứ bảy, khi chết có
 dư y, được giải thoát khỏi địa ngục... được giải thoát khỏi cõi dữ, ác thú, đọa xứ.
 
-<!--pg-->
 9\. Lại nữa, này Sàriputta, ở đây có hạng người viên mãn trong các giới, thành tựu vừa phải trong định,
 thành tựu vừa phải trong tuệ. Vị ấy, sau khi diệt tận ba kiết sử, là vị Gia gia (kolankolo), sau khi dong
 ruỗi, sau khi luân chuyển hai hay ba gia đình, rồi đoạn tận khổ đau. Này Sàriputta, đây là hạng người thứ
 tám, khi chết có dư y, được giải thoát khỏi địa ngục... được giải thoát khỏi cõi dữ, ác thú, đọa xứ.
 
-<!--pg-->
 10\. Lại nữa, này Sàriputta, ở đây có hạng người viên mãn trong các giới, thành tựu vừa phải trong định,
 thành tựu vừa phải trong tuệ. Vị ấy, sau khi diệt tận ba kiết sử, là vị trở lui tối đa là bảy lần (Thất Lai,
 sattakkhattu-paramo), sau khi dong ruỗi, sau khi luân chuyển, tối đa là bảy lần giữa chư Thiên và loài
@@ -228,9 +214,9 @@ Sàriputta, cho đến nay, pháp môn này chưa được nói cho các Tỷ-kh
 các nữ cư sĩ. Vì cớ sao? Mong rằng khi nghe pháp môn này, họ không đem lại phóng dật. Lại nữa, này
 Sàriputta, pháp môn này được Ta nói đến vì Ta được hỏi đến.
 
+<!--pg-->
 ### (III) (13) Tôn Giả Mahàkotthita
 
-<!--pg-->
 1\. Rồi Tôn giả Mahàkotthita đến Tôn giả Sàriputta, sau khi đến, chào đón hỏi thăm Tôn giả Sàriputta,
 sau khi nói lên những lời chào đón hỏi thăm thân hữu rồi ngồi xuống một bên. Ngồi xuống một bên, Tôn
 giả Mahàkotthita nói với Tôn giả Sàriputta:
@@ -284,7 +270,6 @@ cảm thọ, mong rằng nghiệp ấy ta không được cảm thọ”?
 
 − Không phải vậy, thưa Hiền giả.
 
-<!--pg-->
 2\. - Thưa Hiền giả Sàriputta, vì sao khi được hỏi: “Có phải sống Phạm hạnh dưới Thế Tôn với hy vọng:
 “Phàm nghiệp gì được cảm thọ hiện tại, mong rằng nghiệp ấy, ta được cảm thọ trong tương lai?” Hiền
 giả trả lời: “Không phải vậy, thưa Hiền giả?” Thưa Hiền giả Sàriputta, vì sao khi được hỏi: “Có phải
@@ -307,7 +292,6 @@ sao khi được hỏi: “Có phải sống Phạm hạnh dưới Thế Tôn v�
 cảm thọ, mong rằng nghiệp ấy ta được cảm thọ”?. Hiền giả trả lời: “Không phải vậy, thưa Hiền giả”. Vì
 mục đích gì sống Phạm hạnh dưới Thế Tôn?
 
-<!--pg-->
 3\. - Thưa Hiền giả, với những gì không biết, không thấy, không đạt, không chứng ngộ, không hiện quán,
 với mục đích để được biết, được thấy, được đạt, được chứng ngộ, được hiện quán mà Phạm hạnh được
 sống dưới Thế Tôn.
@@ -325,9 +309,9 @@ Thế Tôn. Thưa Hiền giả, đây là điều không được biết, không
 ngộ, không được hiện quán, với mục đích để được biết, được thấy, được đạt, được chứng ngộ, được hiện
 quán, mà Phạm hạnh được sống dưới Thế Tôn.
 
+<!--pg-->
 ### (IV) (14) Tôn Giả Samiddhi
 
-<!--pg-->
 1\. Rồi Tôn giả Samiddhi đi đến Tôn giả Sàriputta, sau khi đến, chào đón hỏi thăm Tôn giả Sàriputta, sau
 khi nói lên những lời chào đón hỏi thăm thân hữu, liền ngồi xuống một bên. Rồi Tôn giả Sàriputta nói
 với Tôn giả Samiddhi đang ngồi xuống một bên:
@@ -367,7 +351,6 @@ với Tôn giả Samiddhi đang ngồi xuống một bên:
 
 − Chúng thể nhập vào bất tử, thưa Tôn giả.
 
-<!--pg-->
 2\. - Khi được hỏi: “Này Samiddhi, do sở duyên gì một người khởi lên các tư duy tầm?”, Hiền giả đáp:
 “Do danh sắc làm sở duyên, thưa Tôn giả”. Này Samiddhi, khi được hỏi: “Cái gì khiến chúng đi đến sai
 khác?”, Hiền giả đáp:” Trong các giới, thưa Tôn giả”. Khi được hỏi: “Này Samiddhi, chúng lấy gì làm
@@ -382,15 +365,14 @@ chúng thể nhập vào gì?”, Hiền giả đáp: “Chúng thể nhập và
 này Samiddhi! Lành thay này Samiddhi! Hiền giả đã trả lời các câu hỏi. Nhưng Hiền giả chớ có kiêu
 mạn về vấn đề này.
 
+<!--pg-->
 ### (V) (15) Một Ung Nhọt
 
-<!--pg-->
 1\. - Ví như, này chư Hiền, một ung nhọt đã trái nhiều. Nó có chín miệng vết thương, có chín miệng nứt
 rạn. Từ đấy có cái gì chảy ra, chắc chắn bất tịnh rỉ chảy, chắc chắn hôi thúi rỉ chảy, chắc chắn nhàm
 chán rỉ chảy; có cái gì nứt chảy, chắc chắn bất tịnh nứt chảy, chắc chắn hôi thúi nứt chảy, chắc chắn
 nhàm chán nứt chảy.
 
-<!--pg-->
 5\. Ung nhọt, này các Tỷ-kheo, là đồng nghĩa với thân này do bốn đại tác thành, do cha mẹ sinh ra, do
 cơm cháo chất chứa nuôi dưỡng, vô thường, biến hoại, tan nát, hủy hoại, hoại diệt, có chín miệng vết
 thương, có chín miệng nứt rạn. Từ đấy có cái gì chảy ra, chắc chắn bất tịnh rỉ chảy, chắc chắn hôi thúi rỉ
@@ -399,12 +381,11 @@ nứt chảy, chắc chắn nhàm chán nứt chảy.
 
 Do vậy, này các Tỷ-kheo, các Thầy hãy nhàm chán thân này.
 
+<!--pg-->
 ### (VI) (16) Tưởng
 
-<!--pg-->
 1\. - Này các Tỷ-kheo, có chín tưởng này được tu tập, được làm cho sung mãn, có quả lớn, có lợi ích lớn,
 thể nhập vào bất tử, lấy bất tử làm cứu cánh. Thế nào là chín?
-<!--pg-->
 2\. Tưởng bất tịnh, tưởng chết, tưởng ghê tởm đối với các món ăn, tưởng không ưa thích đối với tất cả
 thế giới, tưởng vô thường, tưởng khổ trên vô thường, tưởng vô ngã trên khổ, tưởng đoạn tận, tưởng ly
 tham.
@@ -412,13 +393,12 @@ tham.
 Này các Tỷ-kheo, chín tưởng này được tu tập, được làm sung mãn, có quả lớn, có lợi ích lớn, thể nhập
 vào bất tử, lấy bất tử làm cứu cánh.
 
+<!--pg-->
 ### (VII) (17) Gia Ðình
 
-<!--pg-->
 1\. - Này các Tỷ-kheo, gia đình nào thành tựu chín chi phần, nếu chưa đến thời không nên đến, nếu đã
 đến thời không nên ngồi xuống. Thế nào là chín?
 
-<!--pg-->
 2\. Không vui vẻ đứng dậy; không vui vẻ đảnh lễ; không vui vẻ mời ngồi; nếu có, họ giấu đi; có nhiều,
 họ cho ít, có đồ tốt, họ cho đồ xấu; họ cho không cẩn thận; họ cho không có chu đáo; họ không có ngồi
 xung quanh để nghe pháp, không thưởng thức lời nói.
@@ -426,11 +406,9 @@ xung quanh để nghe pháp, không thưởng thức lời nói.
 Này các Tỷ-kheo, gia đình nào thành tựu chín chi phần này, nếu chưa đến thời không nên đến, nếu đã
 đến thời không nên ngồi xuống.
 
-<!--pg-->
 3\. Này các Tỷ-kheo, gia đình nào thành tựu chín chi phần, nếu chưa đến thời nên đến, nếu đã đến thời
 nên ngồi xuống. Thế nào là chín?
 
-<!--pg-->
 4\. Họ vui vẻ đứng dậy; họ vui vẻ đảnh lễ; họ vui vẻ mời ngồi; nếu có, họ không giấu đi; có nhiều, họ
 cho nhiều, có đồ tốt, họ cho đồ tốt; họ cho cẩn thận; họ cho một cách chu đáo; họ ngồi xung quanh để
 nghe pháp, họ thưởng thức lời nói.
@@ -438,14 +416,13 @@ nghe pháp, họ thưởng thức lời nói.
 Này các Tỷ-kheo, gia đình nào thành tựu chín chi phần này, nếu chưa đến thời nên đến, nếu đã đến thời
 nên ngồi xuống.
 
+<!--pg-->
 ### (VIII) (18) Từ Bi
 
-<!--pg-->
 1\. - Này các Tỷ-kheo, ngày trai giới thành tựu chín chi phần được thực hành, có quả lớn, có lợi ích lớn,
 có rực rỡ lớn, có biến mãn lớn. Ðược thực hành như thế nào, này các Tỷ-kheo, ngày trai giới thành tựu
 chín chi phần, có quả lớn, có lợi ích lớn, có rực rỡ lớn, có biến mãn lớn?
 
-<!--pg-->
 2\. Ở đây, này các Tỷ-kheo, Thánh đệ tử suy nghĩ như sau: “Cho đến trọn đời, các vị A-la-hán đoạn tận
 sát sanh, từ bỏ sát sanh, bỏ trượng, bỏ kiếm, biết tàm quý, có lòng từ, sống thương xót đến hạnh phúc tất
 cả chúng sanh và loài hữu tình. Hôm nay, đêm này và ngày này, ta cũng đoạn tận sát sanh, từ bỏ sát
@@ -453,51 +430,43 @@ sanh, bỏ trượng, bỏ kiếm, biết tàm quý, có lòng từ, sống thư
 loài hữu tình. Với chi phần này, ta theo gương vị A-la-hán, sẽ thực hành ngày trai giới”. Ðây là chi phần
 thứ nhất được thành tựu.
 
-<!--pg-->
 3\. “Cho đến trọn đời, các vị A-la-hán đoạn tận lấy của không cho, từ bỏ lấy của không cho, chỉ lấy
 những vật đã cho, chỉ mong những vật đã cho, tự sống thanh tịnh, không có trộm cướp. Hôm nay, đêm
 này và ngày này, ta cũng đoạn tận lấy của không cho, từ bỏ lấy của không cho, chỉ lấy những vật đã cho,
 chỉ mong những vật đã cho, tự sống thanh tịnh, không có trộm cướp. Với chi phần này, ta theo gương vị
 A-la-hán, sẽ thực hành trai giới”. Ðây là chi phần thứ hai được thành tựu.
 
-<!--pg-->
 4\. “Cho đến trọn đời, các vị A-la-hán đoạn tận phi Phạm hạnh, hành Phạm hạnh, sống xa lìa, từ bỏ dâm
 dục hèn hạ. Hôm nay, đêm này và ngày này, ta cũng đoạn phi Phạm hạnh, hành Phạm hạnh, sống xa lìa,
 từ bỏ dâm dục hèn hạ. Với chi phần này, ta theo gương vị A-la-hán, sẽ thực hành ngày trai giới”. Ðây là
 chi phần thứ ba được thành tựu.
 
-<!--pg-->
 5\. “Cho đến trọn đời, các vị A-la-hán đoạn tận nói láo, tránh xa nói láo, nói những lời chân thật, y chỉ
 nơi sự thật, chắc chắn, đáng tin cậy, không lừa gạt, không phải lại lời hứa đối với đời. Hôm nay, đêm
 này và ngày này, ta cũng đoạn tận nói láo, tránh xa nói láo, nói những lời chân thật, y chỉ nơi sự thật,
 chắc chắn, đáng tin cậy, không lừa gạt, không phải lại lời hứa đối với đời. Với chi phần này, ta theo
 gương vị A-la-hán, sẽ thực hành trai giới”. Ðây là chi phần thứ tư được thành tựu.
 
-<!--pg-->
 6\. “Cho đến trọn đời, các vị A-la-hán đoạn tận đắm say rượu men, rượu nấu. Hôm nay, đêm này và ngày
 này ta cũng đoạn tận đắm say rượu men, rượu nấu. Với chi phần này, ta theo gương vị A-la-hán, sẽ thực
 hành ngày trai giới”. Ðây là chi phần thứ năm được thành tựu.
 
-<!--pg-->
 7\. “Cho đến trọn đời, các vị A-la-hán mỗi ngày dùng một bữa, không ăn ban đêm, không ăn phi thời.
 Hôm nay, đêm này và ngày này, ta cũng dùng mỗi ngày dùng một bữa, không ăn ban đêm, không ăn phi
 thời. Với chi phần này, ta theo gương vị A-la-hán, sẽ thực hành ngày trai giới”. Ðây là chi phần thứ sáu
 được thành tựu.
 
-<!--pg-->
 8\. “Cho đến trọn đời, các vị A-la-hán từ bỏ xem múa, hát, nhạc, diễn kịch, không trang sức bằng vòng
 hoa, hương liệu, dầu thoa và các thời trang. Hôm nay, đêm này và ngày này, ta cũng từ bỏ xem múa, hát,
 nhạc, diễn kịch, không trang sức bằng vòng hoa, hương liệu, dầu thoa và các thời trang. Với chi phần
 này, ta theo gương vị A-la-hán, sẽ thực hành ngày trai giới”. Ðây là chi phần thứ bảy được thành tựu.
 
-<!--pg-->
 9\. “Cho đến trọn đời, các vị A-la-hán đoạn tận giường cao, giường lớn, từ bỏ giường cao, giường lớn,
 các vị ấy nằm trên giường thấp, trên giường nhỏ, trên thảm cỏ. Hôm nay, đêm này và ngày này, ta cũng
 đoạn tận giường cao, giường lớn, từ bỏ giường cao, giường lớn, các vị ấy nằm trên giường thấp, trên
 giường nhỏ, trên thảm cỏ. Với chi phần này, ta theo gương vị A-la-hán, sẽ thực hành ngày trai giới”.
 Ðây là chi phần thứ tám được thành tựu.
 
-<!--pg-->
 10\. Ở đây, này các Tỷ-kheo, vị Thánh đệ tử với tâm câu hữu với từ, biến mãn một phương và an trú, như
 vậy phương thứ hai... như vậy phương thứ ba... như vậy phương thứ tư... như vậy cùng khắp thế giới,
 trên dưới, bề ngang, hết thảy phương xứ, cùng khắp vô biên giới, vị ấy với tâm câu hữu với từ, biến mãn
@@ -506,9 +475,9 @@ và an trú, quảng đại, vô biên, không hận, không sân.
 Như vậy, này các Tỷ-kheo, được thực hành ngày trai giới thành tựu chín chi phần, có quả lớn, có lợi ích,
 có rực rỡ lớn, có biến mãn lớn.
 
+<!--pg-->
 ### (IX) (16) Chư Thiên
 
-<!--pg-->
 1\. - Ðêm nay, này các Tỷ-kheo, một số đông chư Thiên, sau khi đêm đã gần mãn, với dung sắc thù
 thắng, chói sáng toàn vùng Jetavana, đi đến chỗ Ta, sau khi đến, đảnh lễ Ta rồi đứng một bên. Này các
 Tỷ-kheo, đứng một bên, các Thiên nhân ấy thưa với Ta: “Bạch Thế Tôn, khi chúng con sống giữa loài
@@ -516,12 +485,10 @@ Người, trong thời quá khứ, các vị xuất gia không có gia đình đ
 đã đứng dậy, nhưng chúng con không đảnh lễ. Bạch Thế Tôn, do không làm đầy đủ bổn phận, chúng
 con sanh ra hối hận, phiền não, vì bị sanh với thân hạ liệt”.
 
-<!--pg-->
 2\. Này các Tỷ-kheo, lại có nhiều chư Thiên khác đến chỗ Ta và thưa như sau: “Bạch Thế Tôn, khi chúng
 con sống giữa loài Người, trong thời quá khứ, các vị xuất gia không có gia đình đến chúng con. Chúng
 con đã đứng dậy, chúng con đã đảnh lễ, nhưng con không mời ghế ngồi. Bạch Thế Tôn, do không làm
 đầy đủ bổn phận, chúng con sanh ra hối hận, phiền não, vì bị sanh với thân hạ liệt”.
-<!--pg-->
 3\. Này các Tỷ-kheo, lại có nhiều chư Thiên khác đến chỗ Ta và thưa như sau: “Bạch Thế Tôn, khi chúng
 con sống giữa loài Người, trong thời quá khứ, các vị xuất gia không có gia đình đến chúng con. Chúng
 con đã đứng dậy, chúng con đã đảnh lễ, chúng con đã mời ghế ngồi nhưng chúng con không chia xẻ (đồ
@@ -533,7 +500,6 @@ suy tư ý nghĩa các pháp đã được thọ trì... chúng con có suy tư 
 chúng con sau khi biết nghĩa, biết pháp, không thực hành pháp và tùy pháp. Bạch Thế Tôn, do không
 làm đầy đủ bổn phận, chúng con sanh ra hối hận, phiền não, vì bị sanh ra với thân hạ liệt”.
 
-<!--pg-->
 4\. Này các Tỷ-kheo, lại có nhiều chư Thiên khác đến chỗ Ta và thưa như sau: “Bạch Thế Tôn, khi chúng
 con sống giữa loài Người, trong thời gian quá khứ, các vị xuất gia không có gia đình đến chúng con.
 Bạch Thế Tôn, chúng con đã đứng dậy, chúng con đã đảnh lễ, chúng con đã mời ghế ngồi, chúng con đã
@@ -546,9 +512,9 @@ thân thù thắng”.
 Này các Tỷ-kheo, đây là những gốc cây, đây là những ngôi nhà trống. Này các Tỷ-kheo, hãy Thiền định,
 chớ có phóng dật, chớ có hối tiếc về sau, như các Thiên nhân đã được nói đến trước đây.
 
+<!--pg-->
 ### (X) (20) Velàma
 
-<!--pg-->
 1\. Một thời, Thế Tôn trú ở Sàvatthi, tại Jetavana, vườn ông Anàthapindika. Rồi Tôn giả Anàthapindika
 đi đến Thế Tôn, sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Thế Tôn nói với gia chủ
 Anàthapindika đang ngồi xuống một bên:
@@ -558,7 +524,6 @@ Anàthapindika đang ngồi xuống một bên:
 − Bạch Thế Tôn, trong gia đình của con có bố thí, nhưng chỉ có món ăn thô tệ làm bằng hột gạo bể, và
 cháo chua.
 
-<!--pg-->
 2\. - Này Gia chủ, dầu bố thí các món thô hay tế, nếu bố thí không cẩn thận, bố thí không có chú tâm, bố
 thí không tự tay mình, bố thí những vật quăng đi, bố thí không có nghĩ đến tương lai; chỗ nào, chỗ nào,
 sự bố thí ấy sanh quả dị thục, thời tâm không thiên về thưởng thức các món ăn thù diệu, tâm không thiên
@@ -568,7 +533,6 @@ những người đưa tin, hay những người làm công, họ không có kh�
 không có an trú tâm hiểu biết. Vì sao? Này Gia chủ, như vậy là quả dị thục của các nghiệp làm không có
 cẩn thận.
 
-<!--pg-->
 3\. Này Gia chủ, dầu có bố thí các món thô hay tế, nếu bố thí có cẩn thận, bố thí có chú tâm, bố thí tự tay
 mình, bố thí những vật không quăng bỏ đi, bố thí có nghĩ đến tương lai; chỗ nào, chỗ nào, sự bố thí ấy
 sanh quả dị thục, thời tâm thiên về thưởng thức các món ăn thù diệu, tâm thiên về thưởng thức y áo thù
@@ -576,7 +540,6 @@ diệu, tâm thiên về thưởng thức các cỗ xe thù diệu, tâm thiên 
 Và các người con, hay vợ, hay những người phục vụ, hay những người đưa tin, hay những người làm
 công, họ có khéo nghe, họ có lóng tai, họ có an trú tâm hiểu biết. Vì sao? Này Gia chủ, như vậy là quả dị
 thục của việc làm có cẩn thận.
-<!--pg-->
 4\. Thuở xưa, này Gia chủ, có một vị Bà-la-môn tên là Velàma. Vị ấy bố thí rộng lớn như sau: Vị ấy bố
 thí 84.000 bát bằng vàng đựng đầy bạc. Vị ấy bố thí 84.000 bát bằng bạc đựng đầy vàng. Vị ấy bố thí
 84.000 bát bằng đồng đựng đầy châu báu. Vị ấy bố thí 84.000 con voi với đồ trang sức bằng vàng, với
@@ -590,7 +553,6 @@ bố thí 84.000 thước vải, bằng vài gai mịn màng nhất, bằng vả
 màng nhất, bằng vải bông mịn màng nhất. Và ai có thể nói về các đồ ăn, đồ uống, loại cứng, loại mềm,
 các loại đồ ăn nếm và các loại nước đường. “Chúng tôi nghĩ chúng chảy như dòng sông”.
 
-<!--pg-->
 5\. Có thể, này Gia chủ, Ông nghĩ: “Có thể Bà-la-môn Velàma là một người nào khác, vị đã bố thí một
 cách rộng lớn như vậy”. Này Gia chủ, chớ có nghĩ như vậy. Chính lúc ấy, Ta là Bà-la-môn Velàma,
 chính Ta đã bố thí rộng lớn ấy. Nhưng này Gia chủ, khi bố thí ấy được cho, không có một ai xứng đáng

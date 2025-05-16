@@ -1,5 +1,6 @@
 # VIII. Phẩm Chánh Cần
 
+
 ### (I-X) (73 - 81) Bốn Chánh Cần
 
 _(Giống như phẩm Bốn niệm xứ trước, chi khác ở đây Bốn chánh cần thế cho Bốn niệm xứ ở trên, và Bốn_

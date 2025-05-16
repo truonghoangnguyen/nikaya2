@@ -2,14 +2,12 @@
 
 ### (I) (51) Không Tuyên Bố
 
-<!--pg-->
 1\. Bấy giờ một Tỷ-kheo đi đến Thế Tôn, sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Ngồi
 xuống một bên, Tỷ-kheo ấy bạch Thế Tôn:
 
 − Bạch Thế Tôn, do nhân gì, do duyên gì, đối với Thánh đệ tử có nghe nhiều, nghi ngờ không khởi lên
 đối với những vấn đề không được tuyên bố?
 
-<!--pg-->
 2\. - Này Tỷ-kheo, do kiến diệt, với vị Thánh đệ từ có nghe nhiều, nghi ngờ không khởi lên đối với
 những vấn đề không được tuyên bố: “Sau khi chết, Như Lai có tồn tại”, này Tỷ-kheo, là một tà kiến.
 “Sau khi chết, Như Lai không tồn tại”, này Tỷ-kheo, là một tà kiến. “Sau khi chết, Như Lai có tồn tại và
@@ -46,9 +44,9 @@ có rung động, không có chấn động, không rơi vào hoảng sợ đố
 Này các Tỷ-kheo, đây là chơn, đây là duyên, đối với Thánh đệ có nghe nhiều, nghi ngờ nhiều khởi lên
 đối với những vấn đề không được tuyên bố.
 
+<!--pg-->
 ### (II) (52) Sanh Thú Của Loài Người
 
-<!--pg-->
 1\. - Này các Tỷ-kheo, Ta sẽ giảng về bảy sanh thú của loài Người, và không chấp thủ Niết-bàn. Hãy
 lắng nghe và suy nghiệm kỹ, Ta sẽ nói:
 
@@ -58,7 +56,6 @@ Các Tỷ-kheo ấy vâng đáp Thế Tôn. Thế Tôn nói như sau:
 
 − Này các Tỷ-kheo. Thế nào là bảy sanh thú của loài Người?
 
-<!--pg-->
 2\. Ở đây, này các Tỷ-kheo, Tỷ-kheo trong khi thực hành như vậy suy nghĩ như sau: “Nếu cái này không
 có, cái này có thể không phải của ta. Nếu cái này sẽ không có, cái này sẽ không phải của ta. Cái gì đó,
 cái gì được thành, ta đều từ bỏ”. Vị ấy có được xả. Vị ấy không tham đắm sanh hữu, không tham đắm
@@ -75,7 +72,6 @@ trọn vẹn hoàn toàn con đường ấy. Vị ấy chưa đoạn tận trọ
 đoạn tận trọn vẹn hoàn toàn hữu tham tùy miên. Vị ấy chưa đoạn tận trọn vẹn hoàn toàn vô minh tùy
 miên. Do diệt tận năm hạ phần kiết sử, vị ấy chứng được Trung gian Niết-bàn.
 
-<!--pg-->
 3\. Ở đây, này các Tỷ-kheo, Tỷ-kheo trong thực hành suy nghĩ như sau: “Nếu cái này không có, cái này
 có thể không phải của ta. Nếu cái này sẽ không có, cái này sẽ không phải của ta. Cái gì có, cái gì được
 thành, ta đều từ bỏ”. Vị ấy có được xả, vị ấy không tham đắm sanh hữu, không tham đắm tích tụ của
@@ -88,7 +84,6 @@ trở thành nguội lạnh. Cũng vậy, này các Tỷ-kheo, Tỷ-kheo trong k
 cái này không có, cái này có thể không phải của ta. Nếu cái này sẽ không có, cái này sẽ không phải của
 ta...”. Vị ấy đoạn diệt tận năm hạ phần kiết sử, vị ấy chứng được Trung gian Niết-bàn.
 
-<!--pg-->
 4\. Nhưng ở đây, này các Tỷ-kheo, Tỷ-kheo trong khi thực hành suy nghĩ như sau: “Nếu cái này không
 có, cái này có thể không phải của ta. Nếu cái này sẽ không có, cái này sẽ không phải của ta...”. Vị ấy
 đoạn diệt tận năm hạ phần kiết sử, vị ấy chứng được Trung gian Niết-bàn. Ví như, này các Tỷ-kheo, một
@@ -98,7 +93,6 @@ thực hành, suy nghĩ như sau: “Nếu cái này không có, cái này có t
 không có, cái này sẽ không phải của ta...”. Vị ấy, sau khi diệt tận năm hạ phần kiết sử, vị ấy chứng được
 Trung gian Niết-bàn.
 
-<!--pg-->
 5\. Nhưng ở đây, này các Tỷ-kheo, Tỷ-kheo trong khi thực hành, suy nghĩ như sau: “Nếu cái này không
 có, cái này có thể không phải của ta. Nếu cái này sẽ không có, cái này sẽ không phải của ta...”. Vị ấy, do
 diệt tận năm hạ phần kiết sử, chứng được Tổn hại Bát-niết-bàn. Ví như, này các Tỷ-kheo, một cái bát
@@ -107,7 +101,6 @@ khi chưa chạm vào đất, có thể trở thành nguội lạnh. Cũng vậy
 hành, suy nghĩ như sau: “Nếu cái này không có, cái này có thể không phải của ta. Nếu cái này sẽ không
 có, cái này sẽ không phải của ta...”. Vị ấy, do diệt tận năm hạ phần kiết sử, chứng được Tổn hại Bátniết-bàn.
 
-<!--pg-->
 6\. Nhưng ở đây, này các Tỷ-kheo, Tỷ-kheo trong khi thực hành suy nghĩ như sau: “Nếu cái này không
 có, cái này có thể không phải của ta. Nếu cái này sẽ không có, cái này sẽ không phải của ta...”. Vị ấy, do
 đoạn diệt năm hạ phần kiết sử, chứng được Vô hành Niết-bàn. Ví như, này các Tỷ-kheo, một cái bát
@@ -118,7 +111,6 @@ nhỏ ấy, rồi trở thành nguội lạnh vì không có nhiên liệu. Cũn
 thực hành, suy nghĩ như sau: “Nếu cái này không có, cái này có thể không phải của ta. Nếu cái này sẽ
 không có, cái này sẽ không phải của ta...”. Vị ấy, do đoạn diệt năm hạ phần kiết sử, chứng được Vô
 hành Niết-bàn.
-<!--pg-->
 7\. Nhưng ở đây, này các Tỷ-kheo, vị Tỷ-kheo khi thực hành như vậy, suy nghĩ như sau: “Nếu cái này
 không có, cái này có thể không phải của ta. Nếu cái này sẽ không có, cái này sẽ không phải của ta...”. Vị
 ấy, do diệt tận năm hạ phần kiết sử, chứng được Hữu hành Bát-niết-bàn. Ví như, này các Tỷ-kheo, một
@@ -130,7 +122,6 @@ trong khi thực hành như vậy, suy nghĩ như sau: “Nếu cái này không
 Nếu cái này sẽ không có, cái này sẽ không phải của ta...”. Vị ấy, do diệt tận năm hạ phần kiết sử, chứng
 được Hữu hành Bát-niết-bàn.
 
-<!--pg-->
 8\. Ở đây, này các Tỷ-kheo, Tỷ-kheo trong khi thực hành như vậy suy nghĩ như sau: “Nếu cái này không
 có, cái này có thể không phải của ta. Nếu cái này sẽ không có, cái này sẽ không phải của ta. Cái gì có,
 cái gì được thành, ta đều từ bỏ.”. Vị ấy có được xả, vị ấy không tham đắm sanh hữu, không tham đắm
@@ -151,7 +142,6 @@ không có, cái này có thể không phải của ta. Nếu cái này sẽ kh�
 Này các Tỷ-kheo, đây là bảy sanh thú của loài Người. Và này các Tỷ-kheo, thế nào là Không chấp thủ
 Bát-Niết-bàn?
 
-<!--pg-->
 9\. Ở đây, này các Tỷ-kheo, vị Tỷ-kheo khi thực hành như vậy, suy nghĩ như sau: “Nếu cái này không có,
 cái này có thể không phải của ta. Nếu cái này sẽ không có, cái này sẽ không phải của ta. Cái gì có, cái gì
 được thành, ta đều từ bỏ.”. Vị ấy có được xả, vị ấy không tham đắm sanh hữu, không tham đắm tích tụ
@@ -162,9 +152,9 @@ năm hạ phần kiết sử, vị ấy tự mình với thắng trí, ngay tron
 lậu tâm giải thoát, tuệ giải thoát. Này các Tỷ-kheo, đây gọi là Không chấp thủ Bát-niết-bàn. Và này các
 Tỷ-kheo, đây là bảy sanh thú của loài Người và Không chấp thủ Bát-niết-bàn.
 
+<!--pg-->
 ### (III) (53) Tissa
 
-<!--pg-->
 1\. Như vầy tôi nghe:
 
 Một thời, Thế Tôn trú ở Rajagaha (Vương Xá), tại núi Gijjihakuta (Linh Thứu). Bấy giờ có hai Thiên
@@ -187,7 +177,6 @@ bạch với Ta: “Bạch Thế Tôn, những Tỷ-kheo-ni này khéo giải th
 các Thiên nhân ấy nói như vậy. Sau khi nói như vậy, các Thiên nhân ấy đảnh lễ Ta, thân bên hữu hướng
 về Ta, rồi biến mất tại chỗ.
 
-<!--pg-->
 2\. Lúc bấy giờ, Tôn giả Mahàmoggallàna ngồi không xa Thế Tôn bao nhiêu. Rồi Tôn giả
 Mahàmoggallàna suy nghĩ như sau: “Những Thiên nhân nào có trí như sau: “Có dư y là có dư y” hay
 “không có dư y là không có dư y””. Lúc bấy giờ, Tỷ-kheo tên là Tissa mạng chung không bao lâu và
@@ -210,7 +199,6 @@ là không có dư y”.
 − Này Tissa, có phải tất cả chư Thiên ở Phạm chúng thiên đều có trí như vậy: “Có dư y là có dư y” hay
 “không có dư y là không có dư y”?
 
-<!--pg-->
 3\. - Thưa Hiền giả, không phải tất cả chư thiên ở Phạm chúng thiên đều có trí như vậy: “Có dư y là có
 dư y” hay “không có dư y là không có dư y”. Thưa Hiền giả Moggallàna, những Thiên nhân nào ở Phạm
 chúng thiên bằng lòng với tuổi thọ Phạm thiên, bằng lòng với dung sắc Phạm thiên, với an lạc Phạm
@@ -221,19 +209,16 @@ tuổi thọ Phạm thiên, không bằng lòng với dung sắc Phạm thiên, 
 Phạm thiên, với uy quyền Phạm thiên, như thật rõ biết sự xuất ly cao hơn trạng thái ấy; những vị ấy có
 trí như sau: “Có dư y là có dư y” hay “không có dư y là không có dư y”.
 
-<!--pg-->
 4\. Ở đây, thưa Hiền giả Moggallàna, Tỷ-kheo được giải thoát cả hai phần. Chư Thiên ấy biết về vị ấy
 như sau: “Tôn giả này được giải thoát cả hai phần”. Khi thân còn tồn tại, các Thiên nhân và loài Người
 thấy được vị ấy. Khi thân hoại, các Thiên nhân và loài người không thấy được vị ấy. Như vậy, thưa Hiền
 giả Moggallàna, các Thiên nhân ấy, có trí như sau: “Không có dư y là không có dư y”.
 
-<!--pg-->
 5\. Nhưng ở đây, thưa Hiền giả Moggallàna, Tỷ-kheo được tuệ giải thoát, chư Thiên ấy biết về vị ấy như
 sau: “Tôn giả này được tuệ giải thoát”. Khi thân còn tồn tại, các Thiên nhân và loài Người thấy được vị
 ấy. Khi thân hoại, các Thiên nhân và loài Người không thấy được vị ấy. Như vậy, thưa Hiền giả
 Moggallàna, các Thiên nhân ấy có trí như sau: “Không có dư y là không có dư y”.
 
-<!--pg-->
 6\. Nhưng ở đây, thưa Hiền giả Moggallàna, Tỷ-kheo thân chứng, chư Thiên ấy biết về vị ấy như sau:
 “Tôn giả này là vị thân chứng. Rất có thể Tôn giả này, do sử dụng các sàng tọa thích đáng, do thân cận
 các thiện bằng hữu, do chế ngự các căn, vị ấy có thể ngay trong hiện tại, tự mình với thắng trí chứng
@@ -241,7 +226,6 @@ ngộ, chứng đạt và an trú vô thượng cứu cánh Phạm hạnh, mà c
 chánh xuất gia, từ bỏ gia đình, sống không gia đình”. Như vậy, thưa Hiền giả Moggallàna, các Thiên
 nhân ấy có trí như sau: “Có dư y là có dư y”.
 
-<!--pg-->
 7\. Nhưng ở đây, thưa Hiền giả Moggallàna, Tỷ-kheo kiến chí... tín giải thoát... tùy pháp hành. Chư
 Thiên ấy biết về vị ấy như sau: “Tôn giả này là vị tùy pháp hành. Rất có thể Tôn giả này, do sử dụng các
 sàng tọa thích đáng, do thân cận các thiện bằng hữu, do chế ngự các căn, vị ấy có thể ngay trong hiện tại
@@ -249,7 +233,6 @@ tự mình chứng ngộ với thắng trí, chứng đạt và an trú vô thư
 tử vì mục đích ấy chơn chánh xuất gia, từ bỏ gia đình, sống không gia đình”. Như vậy, thưa Hiền giả
 Moggallàna, các Thiên nhân ấy có trí như sau: “Hay trong các vị có dư y, vị ấy là vị có dư y”.
 
-<!--pg-->
 8\. Rồi Tôn giả Moggallàna hoan hỷ tín thọ lời nói của Phạm thiên Tissa. Như một người lực sĩ duỗi cánh
 tay đang co lại, hay co lại cánh tay đang duỗi ra; cũng vậy, Tôn giả biến mất ở Phạm thiên giới, hiện ra
 ở núi Gijjihakùta. Rồi Tôn giả, Mahàmoggallàna đi đến Thế Tôn, sau khi đến, đảnh lễ Thế Tôn rồi ngồi
@@ -267,7 +250,6 @@ Sau khi nghe Thế Tôn, các Tỷ-kheo sẽ thọ trì.
 
 Tôn giả Mahàmoggallàna vâng đáp Thế Tôn. Thế Tôn nói như sau:
 
-<!--pg-->
 9\. - Ở đây, này Moggallàna, Tỷ-kheo không tác ý tất cả tướng, chứng đạt vô tướng tâm định và an trú.
 Các Thiên nhân ấy biết về vị ấy như sau: “Tôn giả này, do không tác ý tất cả tướng, chứng đạt và an trú
 vô tướng tâm định. Rất có thể Tôn giả này do sử dụng các sàng tọa thích đáng, do thân cận các thiện
@@ -276,9 +258,9 @@ bằng hữu, do chế ngự các căn, vị ấy có thể ngay trong hiện t�
 từ bỏ gia đình, sống không gia đình”. Như vậy, này Moggallàna, các Thiên nhân ấy có trí ấy như sau:
 “Có dư y là có dư y”.
 
+<!--pg-->
 ### (IV) (54) Sìha
 
-<!--pg-->
 1\. Như vầy tôi nghe:
 Một thời Thế Tôn trú ở Vesali, tại Ðại Lâm, ở ngôi nhà có nóc nhọn. Rồi tướng quân Sìha đi đến Thế
 Tôn, sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Ngồi xuống một bên, tướng quân Sìha bạch
@@ -286,7 +268,6 @@ Thế Tôn:
 
 − Bạch Thế Tôn, Thế Tôn có thể nêu rõ kết quả hiện tại của sự bố thí?
 
-<!--pg-->
 2\. - Này Sìha, ở đây Ta sẽ hỏi Ông. Ông kham nhẫn như thế nào, hãy trả lời như vậy. Ông nghĩ thế nào,
 này Sìha, ở đây có hai người: một người không có lòng tin, xan tham, keo kiệt, ác khẩu; một người có
 lòng tin là người thí chủ, ưa thích không chấp thủ, nghĩ thế nào, này Sìha, các vị A-la-hán có lòng từ
@@ -298,7 +279,6 @@ lòng từ mẫn, sẽ có lòng từ mẫn với hạng người này trước 
 tin, là người thí chủ, không có chấp thủ, các vị A-la-hán có lòng từ mẫn, sẽ có lòng từ mẫn với hạng
 người này trước.
 
-<!--pg-->
 3\. - Ông nghĩ thế nào, này Sìha, các vị A-la-hán đi đến thăm, có thể đến thăm ai trước, hạng người
 không có lòng tin, xan tham, keo kiết, ác khẩu, hay hạng người có lòng tin, là người thí chủ, ưa thích
 không chấp thủ?
@@ -307,7 +287,6 @@ không chấp thủ?
 đến thăm, có thể đến thăm trước được? Và bạch Thế Tôn, hạng người có lòng tin, là người thí chủ,
 không có chấp thủ, các vị A-la-hán đi đến thăm sẽ đi đến hạng người này trước.
 
-<!--pg-->
 4\. - Ông nghĩ thế nào, này Sìha, các vị A-la-hán thọ lãnh đồ ăn khất thực, có thể thọ lãnh của ai trước,
 hạng người không có lòng tin, xan tham, keo kiết, ác khẩu hay hạng người có lòng tin, là người thí chủ,
 ưa thích không chấp thủ?
@@ -316,7 +295,6 @@ hạng người không có lòng tin, xan tham, keo kiết, ác khẩu hay hạn
 lãnh, có thể thọ lãnh của hạng người ấy trước được? Và bạch Thế Tôn, hạng người có lòng tin, là người
 thí chủ, ưa thích không chấp thủ, các vị A-la-hán có thể thọ lãnh của hạng người này trước.
 
-<!--pg-->
 5\. - Ông nghĩ thế nào, này Sìha, các vị A-la-hán thuyết pháp cho ai trước, hạng người không có lòng tin,
 xan tham, keo kiết, ác khẩu hay hạng người có lòng tin, là người thí chủ, ưa thích không chấp thủ?
 
@@ -325,7 +303,6 @@ thuyết pháp sẽ thuyết pháp cho hạng người ấy trước được? V
 người thí chủ, ưa thích không chấp thủ, các vị A-la-hán thuyết pháp có thể thuyết pháp cho hạng người
 này trước.
 
-<!--pg-->
 6\. - Ông nghĩ thế nào, này Sìha, danh tiếng tốt đẹp của ai được truyền rộng ra, hạng người không có lòng
 tin, xan tham, keo kiết, ác khẩu hay hạng người có lòng tin, là người thí chủ, ưa thích không chấp thủ?
 
@@ -333,7 +310,6 @@ tin, xan tham, keo kiết, ác khẩu hay hạng người có lòng tin, là ng�
 của hạng người ấy được truyền rộng ra? Bạch Thế Tôn, hạng người có lòng tin, là người thí chủ, ưa
 thích không chấp thủ, danh tiếng tốt đẹp của hạng người này có thể được truyền rộng ra.
 
-<!--pg-->
 7\. - Ông nghĩ thế nào, này Sìha, ai đi đến bất cứ hội chúng nào, hoặc hội chúng Sát-đế-ly, hoặc hội
 chúng Bà-la-môn, hoặc hội chúng Gia chủ, hoặc hội chúng Sa-môn, đi đến không sợ hãi, không rụt rè,
 hạng người không có lòng tin, xan tham, keo kiết, ác khẩu hay hạng người có lòng tin, là người thí chủ,
@@ -346,7 +322,6 @@ là người thí chủ, ưa thích không chấp thủ, hạng người ấy đ
 Sát-đế-ly, hoặc hội chúng Bà-la-môn, hoặc hội chúng Gia chủ, hoặc hội chúng Sa-môn, đi đến không sợ
 hãi, không rụt rè.
 
-<!--pg-->
 8\. - Ông nghĩ thế nào, này Sìha, sau khi thân hoại mạng chung, ai có thể sanh lên thiện thú, thiên giới,
 cõi đời này, hạng người không có lòng tin, xan tham, keo kiết, ác khẩu hay hạng người có lòng tin, là
 người thí chủ, ưa thích không chấp thủ?
@@ -356,7 +331,6 @@ khi thân hoại mạng chung, sẽ có thể sanh lên thiện thú, thiên gi�
 người có lòng tin, là người thí chủ, ưa thích không chấp thủ, hạng người này, sau khi thân hoại mạng
 chung, ai có thể sanh lên thiện thú, thiên giới, cõi đời này
 
-<!--pg-->
 9\. Bạch Thế Tôn, sáu kết quả hiện tại của bố thí này được Thế Tôn tuyên bố không phải vì họ, con đi
 đến lòng tin đối với Thế Tôn. Con biết họ. Bạch Thế Tôn, con là người bố thí, là người thí chủ. Các vị
 A-la-hán có lòng từ mẫn, có lòng từ mẫn với con trước. Bạch Thế Tôn, con là người bố thí, là người thí
@@ -375,13 +349,12 @@ chủ, sau khi thân hoại mạng chung, được sanh lên thiện thú, thiê
 − Như vậy là phải, này Sìha! Như vậy là phải, này Sìha! Sìha là người bố thí, là người thí chủ, sau khi
 thân hoại mạng chung, được sanh lên thiện thú, thiên giới, cõi đời này.
 
+<!--pg-->
 ### (V) (55) Không Có Che Ðậy
 
-<!--pg-->
 1\. - Này các Tỷ-kheo, có bốn điều Như Lai không phải che đậy, và đối với ba điều, Ngài không có phạm
 lỗi. Thế nào là bốn điều Như Lai không phải che đậy?
 
-<!--pg-->
 2\. Này các Tỷ-kheo, thân hành của Như Lai là thanh tịnh. Như Lai không có thân ác hành, khiến Như
 Lai phải che đậy: “Ðừng để cho người khác biết việc này của Ta!”. Này các Tỷ-kheo, khẩu hành của
 Như Lai là thanh tịnh. Như Lai không có khẩu ác hành, khiến Như Lai phải che đậy: “Ðừng để cho
@@ -391,7 +364,6 @@ Tỷ-kheo mạng sống của Như Lai là thanh tịnh. Như Lai không có tà
 “Ðừng để cho người khác biết việc này của Ta!”.
 Bốn điều này, Như Lai không phải che đậy. Thế nào là ba điều Như Lai không có phạm lỗi?
 
-<!--pg-->
 3\. Này các Tỷ-kheo, pháp được Như Lai khéo thuyết. Ở đây, chắc chắn không có một ai, hoặc Sa-môn,
 hay Bà-la-môn, hay Thiên nhân, hay Ác ma, hay Phạm thiên, hay một ai ở đời sẽ có thể buộc tội một
 cách đúng pháp: “Ở đây, pháp không được Ngài khéo thuyết”. Này các Tỷ-kheo, Ta không thấy có
@@ -416,9 +388,9 @@ không thấy có tướng này, Ta an trú, đạt được an ổn, đạt đ�
 Này các Tỷ-kheo, có bốn điều này, Như Lai không phải che đậy, và đối với ba điều này, Ngài không có
 phạm lỗi.
 
+<!--pg-->
 ### (VI) (56) Kimbila
 
-<!--pg-->
 1\. Như vầy tôi nghe:
 
 Một thời Thế Tôn trú ở Kimbila, tại rừng Trúc. Rồi Tôn giả Kimbila đi đến Thế Tôn, sau khi đến, đảnh
@@ -433,7 +405,6 @@ kính, không tùy thuận Thiền định; sống không cung kính, không tù
 cung kính, không tùy thuận nghinh đón. Này Kimbila, đây là nhân, đây là duyên, khi Như Lai nhập diệt,
 diệu pháp không được tồn tại lâu dài.
 
-<!--pg-->
 2\. - Bạch Thế Tôn, do nhân gì, do duyên gì, khi Như Lai nhập diệt, diệu pháp được tồn tại lâu dài?
 
 − Ở đây, này Kimbila, khi Như Lai nhập diệt, các Tỷ-kheo, Tỷ-kheo-ni, nam cư sĩ, nữ cư sĩ sống cung
@@ -441,22 +412,21 @@ kính, tùy thuận bậc Ðạo Sư, sống cung kính tùy thuận Pháp; số
 cung kính tùy thuận Thiền định; sống cung kính tùy thuận không phóng dật; sống cung kính tùy thuận
 nghinh đón. Này Kimbila, đây là nhân, đây là duyên, khi Như Lai nhập diệt, diệu pháp được tồn tại lâu
 dài.
+<!--pg-->
 ### (VII) (57) Bảy Pháp
 
-<!--pg-->
 1\. - Này các Tỷ-kheo, thành tựu bảy pháp, Tỷ-kheo không bao lâu diệt tận các lậu hoặc... chứng ngộ,
 chứng đạt và an trú. Thế nào là bảy?
 
-<!--pg-->
 2\. Ở đây, này các Tỷ-kheo, Tỷ-kheo có lòng tin, có giữ giới, có nghe nhiều, sống Thiền tịnh, tinh cần
 tinh tấn, có chánh niệm, có trí tuệ.
 
 Thành tựu bảy pháp này, này các Tỷ-kheo, Tỷ-kheo không bao lâu, do diệt tận các lậu hoặc chứng ngộ,
 chứng đạt và an trú.
 
+<!--pg-->
 ### (VIII) (58) Ngủ Gục
 
-<!--pg-->
 1\. Như vầy tôi nghe:
 
 Một thời Thế Tôn trú ở giữa dân chúng Bhagga, tại núi Sumsumàra, tại vườn Nai. Lúc bấy giờ, Tôn giả
@@ -472,50 +442,41 @@ Mahàmoggallàna.
 
 − Thưa phải, bạch Thế Tôn.
 
-<!--pg-->
 2\. - Do vậy, này Moggallàna, khi nào Thầy trú có tưởng và thụy miên xâm nhập Thầy, chớ có tác ý đến
 nó, chớ có tưởng nhiều đến nó. Sự kiện này có xảy ra, do Thầy trú như vậy, thụy miên ấy được đoạn
 diệt.
 
-<!--pg-->
 3\. Nếu Thầy trú như vậy, và thụy miên ấy không được đoạn diệt, thời này Moggallàna, với tâm của
 Thầy, hãy tùy tâm, tùy tứ, với ý hãy tùy quán pháp như đã được nghe, như đã được học thuộc lòng. Sự
 kiện này có xảy ra, do Thầy trú như vậy, thụy miên ấy được đoạn diệt.
 
-<!--pg-->
 4\. Nếu Thầy trú như vậy, và thụy miên ấy không được đoạn diệt, thời này Moggallàna Thầy hãy đọc
 tụng pháp một cách rộng rãi, như đã được nghe, như đã được học thuộc lòng. Sự kiện này có xảy ra, do
 Thầy trú như vậy, thụy miên ấy được đoạn diệt.
 
-<!--pg-->
 5\. Nếu Thầy trú như vậy, và thụy miên ấy không được đoạn diệt, thời này Moggallàna Thầy hãy kéo hai
 lỗ tai của Thầy, và lấy tay xoa bóp tay chân. Sự kiện này có xảy ra, do Thầy trú như vậy, thụy miên ấy
 được đoạn diệt.
 
-<!--pg-->
 6\. Nếu Thầy trú như vậy, và thụy miên ấy không được đoạn diệt, thời này Moggallàna Thầy hãy từ chỗ
 ngồi, đứng dậy lấy nước chùi mắt, nhìn về phía chân trời và nhìn lên các sao lấp lánh. Sự kiện này có
 xảy ra, do Thầy trú như vậy, thụy miên ấy được đoạn diệt.
 
-<!--pg-->
 7\. Nếu Thầy trú như vậy, và thụy miên ấy không được đoạn diệt, thời này Moggallàna Thầy hãy tác ý
 đến quang tưởng và an trú vào tưởng ban ngày. Như ban ngày, ban đêm cũng vậy. Như ban đêm, ban
 ngày cũng vậy. Như vậy, với tâm rộng mở, không có hạn chế. Sự kiện này có xảy ra, do Thầy trú như
 vậy, thụy miên ấy được đoạn diệt.
 
-<!--pg-->
 8\. Nếu Thầy trú như vậy, và thụy miên ấy không được đoạn diệt, thời này Moggallàna Thầy hãy trú tâm
 trên chỗ kinh thành, với tưởng trước mặt và sau lưng, với căn hướng nội, với ý không hướng ngoại. Sự
 kiện này có xảy ra, do Thầy trú như vậy, thụy miên ấy được đoạn diệt.
 
-<!--pg-->
 9\. Nếu Thầy trú như vậy, và thụy miên ấy không được đoạn diệt, thời này Moggallàna Thầy hãy nằm
 như dáng nằm con sư tử, về phía hông bên phải, hai chân gác lên nhau, chánh niệm tỉnh giác, tác ý với
 tưởng thức dậy. Và khi thức dậy, này Moggallàna, Thầy hãy thức dậy thật mau, nghĩ rằng: “Ta sẽ trú,
 không có chú tâm đến lạc nằm ngủ, lạc nằm xuống một bên, lạc thụy miên”. Như vậy, này Moggallàna,
 Thầy cần phải học tập.
 
-<!--pg-->
 10\. Do vậy, này Moggallàna, hãy học tập như sau: “Không say sưa trong cao mạn, ta sẽ đi đến thăm các
 gia đình”. Này Moggallàna, như vậy các Thầy sẽ học tập. Này Moggallàna, nếu Tỷ-kheo say sưa trong
 cao mạn đi đến thăm các gia đình. Trong các gia đình, này Moggallàna, người ta có nhiều công việc phải
@@ -531,7 +492,6 @@ không tán thán các vị xuất gia có sự liên hệ, với các gia chủ
 động, thoát khỏi hơi thở của nhiều người, những chỗ ở cô độc xa vắng loài Người, thích hợp cho đời
 sống Thiền tịnh, Ta tán thán sự liên hệ với những trú xứ như vậy.
 
-<!--pg-->
 11\. Ðược nghe nói như vậy, Tôn giả Mahàmoggallàna bạch Thế Tôn:
 
 − Bạch Thế Tôn, cho đến như thế nào, tóm tắt lại, một Tỷ-kheo được giải thoát nhờ sự đoạn diệt khát ái,
@@ -551,6 +511,7 @@ giải thoát nhờ sự đoạn diệt khát ái, đạt đến mục đích c�
 đạt đến cứu cánh Phạm hạnh, đạt đến cứu cánh của cứu cánh, trở thành tối thượng giữa chư Thiên và
 loài Người.
 
+<!--pg-->
 Này các Tỷ-kheo, chớ có sợ hãi các công đức. Này các Tỷ-kheo, đồng nghĩa với an lạc chính là các công
 đức . Ta thắng tri rằng, này các Tỷ-kheo, các công đức được làm lâu ngày có quả dị thúc, có sự hình
 thành khả ái, khả hỷ, khả ý lâu ngày. Trong bảy năm Ta tu tập từ tâm, sau khi tu tập từ tâm bảy năm,
@@ -564,53 +525,53 @@ gia chủ báu và cư sĩ báu là thứ bảy. Ta có hơn một ngàn ngườ
 anh hùng, dõng mãnh, đánh tan địch quân. Và khi ta chiến thắng quả đất này, xa cho đến bờ biển, Ta trị
 vì quả đất này không dùng trượng, không dùng đao, đúng với Chánh pháp.
 
-_Hãy xem quả dị thục,_
-_Của các việc công đức,_
-_Của các việc hiền thiện,_
-_Với kẻ tìm an lạc._
-_Này Tỷ-kheo, Ta tu,_
-_Từ tâm trong bảy năm,_
-_Trong bảy thành hoại kiếp,_
-_Không trở lại thành kiếp,_
-_Ta đạt Quang âm thiên,_
-_Khi thế giới hoại kiếp_
-_Sanh Phạm cung trống rỗng._
-_Bảy lần, Ta đóng vai,_
-_Ðại Phạm thiên, Tự tại,_
-_Trong ba mươi sáu lần,_
-_Làm Thiên chủ Thiên giới._
-_Ta làm vua Chuyển luân,_
-_Chủ tể cõi Diêm-phù._
-_Bậc Sát-ly quán đảnh,_
-_Bậc chủ tể loài Người,_
-_Ta chiến thắng đất này,_
-_Không với trượng, với kiếm,_
-_Không bạo lực, đúng pháp,_
-_Ðối mọi người bình đẳng,_
-_Ta trị vì đúng pháp,_
-_Trên cõi đất tròn này._
-_Ta khiến các gia đình,_
-_Giàu lớn, tài sản lớn,_
-_Họ hưởng mọi dục lạc,_
-_Ta đầy đủ bảy báu,_
-_Chư Phật thương tưởng đời,_
-_Khéo dạy điều như vậy._
-_Ðấy là nhân đại sự,_
-_Ðược gọi là Ðịa vương._
-_Ta là vua, huy hoàng,_
-_Bảo vệ nhiều tài sản,_
-_Có thần lực, danh xưng,_
-_Vương chủ rừng Diêm-phù,_
-_Ai nghe, không tịnh tín?_
-_Trừ các loại ác sanh,_
-_Do vậy muốn lợi ích,_
-_Cầu vọng sự lớn mạnh,_
-_Hãy kính trọng diệu pháp,_
-_Hãy nhớ lời Phật dạy._
-
-### (IX) (59) Các Người Vợ
+ _Hãy xem quả dị thục,_\
+ _Của các việc công đức,_\
+ _Của các việc hiền thiện,_\
+ _Với kẻ tìm an lạc._\
+ _Này Tỷ-kheo, Ta tu,_\
+ _Từ tâm trong bảy năm,_\
+ _Trong bảy thành hoại kiếp,_\
+ _Không trở lại thành kiếp,_\
+ _Ta đạt Quang âm thiên,_\
+ _Khi thế giới hoại kiếp_\
+ _Sanh Phạm cung trống rỗng._\
+ _Bảy lần, Ta đóng vai,_\
+ _Ðại Phạm thiên, Tự tại,_\
+ _Trong ba mươi sáu lần,_\
+ _Làm Thiên chủ Thiên giới._\
+ _Ta làm vua Chuyển luân,_\
+ _Chủ tể cõi Diêm-phù._\
+ _Bậc Sát-ly quán đảnh,_\
+ _Bậc chủ tể loài Người,_\
+ _Ta chiến thắng đất này,_\
+ _Không với trượng, với kiếm,_\
+ _Không bạo lực, đúng pháp,_\
+ _Ðối mọi người bình đẳng,_\
+ _Ta trị vì đúng pháp,_\
+ _Trên cõi đất tròn này._\
+ _Ta khiến các gia đình,_\
+ _Giàu lớn, tài sản lớn,_\
+ _Họ hưởng mọi dục lạc,_\
+ _Ta đầy đủ bảy báu,_\
+ _Chư Phật thương tưởng đời,_\
+ _Khéo dạy điều như vậy._\
+ _Ðấy là nhân đại sự,_\
+ _Ðược gọi là Ðịa vương._\
+ _Ta là vua, huy hoàng,_\
+ _Bảo vệ nhiều tài sản,_\
+ _Có thần lực, danh xưng,_\
+ _Vương chủ rừng Diêm-phù,_\
+ _Ai nghe, không tịnh tín?_\
+ _Trừ các loại ác sanh,_\
+ _Do vậy muốn lợi ích,_\
+ _Cầu vọng sự lớn mạnh,_\
+ _Hãy kính trọng diệu pháp,_\
+ _Hãy nhớ lời Phật dạy._
 
 <!--pg-->
+### (IX) (59) Các Người Vợ
+
 1\. Một thời, Thế Tôn trú ở Sàvavatthì, tại Jetavana, khu vườn ông Anàthapindika. Rồi Thế Tôn đắp y,
 vào buổi sáng, cầm y bát, đi đến trú xử của Anàthapindika; sau khi đến, ngồi xuống trên chỗ đã soạn
 sẵn. Lúc bấy giờ, trong trú xứ của gia chủ Anàthapindika có nhiều người nói cao tiếng, nói lớn tiếng.
@@ -624,7 +585,6 @@ chủ Anàthapindika đang ngồi xuống một bên:
 chồng, không vâng lời cha chồng, không vâng lời chồng, cũng không cung kính, không tôn trọng, không
 lễ bái, không cúng dường Thế Tôn.
 
-<!--pg-->
 2\. Rồi Thế Tôn cho gọi nàng dâu Sujàtà:
 
 − Hãy đến đây Sujàtà!
@@ -646,91 +606,90 @@ rộng rãi lời dạy tóm tắt này của Thế Tôn.
 
 − Thưa vâng Sujàtà vâng đáp Thế Tôn. Thế Tôn nói như sau:
 
-_Ai tâm bị uế nhiễm,_
-_Không từ mẫn thương người,_
-_Thích thú những người khác,_
-_Khinh rẻ người chồng mình,_
-_Bị mua chuộc bằng tiền,_
-_Hăng say giết hại người,_
-_Hạng người vợ như vậy,_
-_Ðược gọi vợ sát nhân._
-_Còn hạng nữ nhân nào,_
-_Tiêu xài tài sản chồng,_
-_Do công nghiệp đem lại,_
-_Hay thương nghiệp, nông nghiệp,_
-_Do vậy, nếu muốn trộm,_
-_Dầu có ít đi nữa,_
-_Hạng người vợ như vậy,_
-_Ðược gọi vợ ăn trộm._
-_Không ưa thích làm việc,_
-_Biếng nhác, nhưng ăn nhiều,_
-_Ác khẩu và bạo ác,_
-_Phát ngôn lời khó chịu,_
-_Mọi cố gắng của chồng,_
-_Ðàn áp và chỉ huy,_
-_Hạng người vợ như vậy,_
-_Ðược gọi là vợ chủ nhân._
-_Ai luôn luôn từ mẫn,_
-_Có lòng thương xót người,_
-_Săn sóc giúp đỡ chồng,_
-_Như mẹ chăm sóc con,_
-_Tài sản chồng cất chứa,_
-_Biết hộ trì gìn giữ,_
-_Hạng người vợ như vậy,_
-_Ðược gọi vợ như mẹ,_
-_Ai như người em gái,_
-_Ðối xử với chị lớn,_
-_Biết cung kính tôn trọng,_
-_Ðối với người chồng mình,_
-_Với tâm biết tàm quí,_
-_Tùy thuận phục vụ chồng,_
-_Hạng người vợ như vậy,_
-_Ðược gọi vợ như chị._
-_Ai ở đời thấy chồng,_
-_Tâm hoan hỷ vui vẻ,_
-_Như người bạn tốt lành,_
-_Ðã lâu từ xa về,_
-_Sanh gia đình hiền đức,_
-_Giữ giới, dạ trung thành,_
-_Hạng người vợ như vậy,_
-_Ðược gọi vợ như bạn._
-_Không tức giận, an tịnh,_
-_Không sợ hình phạt, trượng,_
-_Tâm tư không hiềm hận,_
-_Nhẫn nhục đối với chồng,_
-_Không phẫn nộ tức giận,_
-_Tùy thuận lời chồng dạy,_
-_Hạng người vợ như vậy,_
-_Ðược gọi vợ nữ tỳ._
-_Ở đời các hạng vợ,_
-_Ðược gọi vợ sát nhân,_
-_Kể cả vợ ăn trộm,_
-_Và cả vợ chủ nhân,_
-_Vợ ấy không giữ giới,_
-_Ác khẩu và vô lễ_
-_Khi thân hoại mạng chung,_
-_Bị sanh vào địa ngục._
-_Ở đời các hạng vợ,_
-_Như mẹ, chị và bạn,_
-_Và người vợ được gọi,_
-_Là vợ như nữ tỳ,_
-_An trú trên giới đức,_
-_Khéo phòng hộ lâu ngày,_
-_Khi thân hoại mạng chung,_
-_Ðược sanh lên thiện thú._
+ _Ai tâm bị uế nhiễm,_\
+ _Không từ mẫn thương người,_\
+ _Thích thú những người khác,_\
+ _Khinh rẻ người chồng mình,_\
+ _Bị mua chuộc bằng tiền,_\
+ _Hăng say giết hại người,_\
+ _Hạng người vợ như vậy,_\
+ _Ðược gọi vợ sát nhân._\
+ _Còn hạng nữ nhân nào,_\
+ _Tiêu xài tài sản chồng,_\
+ _Do công nghiệp đem lại,_\
+ _Hay thương nghiệp, nông nghiệp,_\
+ _Do vậy, nếu muốn trộm,_\
+ _Dầu có ít đi nữa,_\
+ _Hạng người vợ như vậy,_\
+ _Ðược gọi vợ ăn trộm._\
+ _Không ưa thích làm việc,_\
+ _Biếng nhác, nhưng ăn nhiều,_\
+ _Ác khẩu và bạo ác,_\
+ _Phát ngôn lời khó chịu,_\
+ _Mọi cố gắng của chồng,_\
+ _Ðàn áp và chỉ huy,_\
+ _Hạng người vợ như vậy,_\
+ _Ðược gọi là vợ chủ nhân._\
+ _Ai luôn luôn từ mẫn,_\
+ _Có lòng thương xót người,_\
+ _Săn sóc giúp đỡ chồng,_\
+ _Như mẹ chăm sóc con,_\
+ _Tài sản chồng cất chứa,_\
+ _Biết hộ trì gìn giữ,_\
+ _Hạng người vợ như vậy,_\
+ _Ðược gọi vợ như mẹ,_\
+ _Ai như người em gái,_\
+ _Ðối xử với chị lớn,_\
+ _Biết cung kính tôn trọng,_\
+ _Ðối với người chồng mình,_\
+ _Với tâm biết tàm quí,_\
+ _Tùy thuận phục vụ chồng,_\
+ _Hạng người vợ như vậy,_\
+ _Ðược gọi vợ như chị._\
+ _Ai ở đời thấy chồng,_\
+ _Tâm hoan hỷ vui vẻ,_\
+ _Như người bạn tốt lành,_\
+ _Ðã lâu từ xa về,_\
+ _Sanh gia đình hiền đức,_\
+ _Giữ giới, dạ trung thành,_\
+ _Hạng người vợ như vậy,_\
+ _Ðược gọi vợ như bạn._\
+ _Không tức giận, an tịnh,_\
+ _Không sợ hình phạt, trượng,_\
+ _Tâm tư không hiềm hận,_\
+ _Nhẫn nhục đối với chồng,_\
+ _Không phẫn nộ tức giận,_\
+ _Tùy thuận lời chồng dạy,_\
+ _Hạng người vợ như vậy,_\
+ _Ðược gọi vợ nữ tỳ._\
+ _Ở đời các hạng vợ,_\
+ _Ðược gọi vợ sát nhân,_\
+ _Kể cả vợ ăn trộm,_\
+ _Và cả vợ chủ nhân,_\
+ _Vợ ấy không giữ giới,_\
+ _Ác khẩu và vô lễ_\
+ _Khi thân hoại mạng chung,_\
+ _Bị sanh vào địa ngục._\
+ _Ở đời các hạng vợ,_\
+ _Như mẹ, chị và bạn,_\
+ _Và người vợ được gọi,_\
+ _Là vợ như nữ tỳ,_\
+ _An trú trên giới đức,_\
+ _Khéo phòng hộ lâu ngày,_\
+ _Khi thân hoại mạng chung,_\
+ _Ðược sanh lên thiện thú._
 
 Này Sujàtà, có bảy loại vợ này đối với người đàn ông. Con thuộc hạng người nào?
 
 − Bạch Thế Tôn, bắt đầu từ hôm nay, Thế Tôn hãy xem con là người vợ đối với chồng như người vợ nữ
 tỳ.
 
+<!--pg-->
 ### (X) (60) Sân Hận
 
-<!--pg-->
 1\. - Này các Tỷ-kheo, có bảy pháp này được người thù địch ưa thích, tác thành kẻ thù địch đi đến người
 phẫn nộ, đàn bà hay đàn ông. Thế nào là bảy?
 
-<!--pg-->
 2\. Ở đây, này các Tỷ-kheo, người thù địch mong muốn kẻ thù địch của mình như sau: “Mong rằng kẻ
 này trở thành xấu xí!' Vì cớ sao? Này các Tỷ-kheo, người thù địch không hoan hỷ kẻ thù địch của mình
 có dung sắc. Này các Tỷ-kheo, hạng người nào phẫn nộ, bị phẫn nộ chinh phục, bị phẫn nộ chi phối, dầu
@@ -738,7 +697,6 @@ cho người ấy khéo tắm rửa, khéo chải chuốt, tóc râu khéo sửa
 trở thành xấu xí, vì bị phẫn nộ chinh phục. Này các Tỷ-kheo, đây là pháp thứ nhất, được người thù địch
 ưa thích, tác thành kẻ thù địch đi đến người phẫn nộ, đàn bà hoặc đàn ông.
 
-<!--pg-->
 3\. Lại nữa, này các Tỷ-kheo, người thù địch mong muốn kẻ thù địch của mình như sau: “Mong rằng kẻ
 này ngủ một cách khổ sở!” Vì cớ sao? Này các Tỷ-kheo, người thù địch không hoan hỷ kẻ thù địch của
 mình ngủ một cách an lành. Này các Tỷ-kheo, hạng người nào phẫn nộ, bị phẫn nộ chinh phục, bị phẫn
@@ -747,7 +705,6 @@ sơn dương gọi là kadali, tấm khảm với lọng che phía trên, ghế 
 vẫn ngủ một cách khổ sở, vì bị phẫn nộ chinh phục. Này các Tỷ-kheo, đây là pháp thứ hai, được người
 thù địch ưa thích, tác thành kẻ thù địch đi đến người phẫn nộ, đàn bà hoặc đàn ông.
 
-<!--pg-->
 4\. Lại nữa, này các Tỷ-kheo, người thù địch mong muốn kẻ thù địch của mình như sau: “Mong rằng kẻ
 này không có lợi ích!” Vì cớ sao? Này các Tỷ-kheo, người thù địch không hoan hỷ kẻ thù địch của mình
 có được lợi ích. Này các Tỷ-kheo, hạng người nào phẫn nộ, bị phẫn nộ chinh phục, bị phẫn nộ chi phối,
@@ -756,7 +713,6 @@ thâu hoạch bất lợi, lại nghĩ rằng: “Ta được lợi ích”, th�
 phúc, đau khổ lâu dài, vì bị phẫn nộ chinh phục. Này các Tỷ-kheo, đây là pháp thứ ba, được người thù
 ưa thích, tác thành kẻ thù địch đi đến người phẫn nộ, đàn bà hoặc đàn ông.
 
-<!--pg-->
 5\. Lại nữa, này các Tỷ-kheo, người thù địch mong muốn kẻ thù địch của mình như sau: “Mong rằng kẻ
 này không có tài sản!” Vì cớ sao? Này các Tỷ-kheo, người thù địch không hoan hỷ kẻ thù địch của mình
 có được tài sản. Này các Tỷ-kheo, hạng người nào phẫn nộ, bị phẫn nộ chinh phục, bị phẫn nộ chi phối,
@@ -765,7 +721,6 @@ chồng chất do những giọt mồ hôi, đúng pháp, thâu hoạch hợp ph
 về ngân khố nhà vua, vì bị phẫn nộ chinh phục. Này các Tỷ-kheo, đây là pháp thứ tư, được người thù ưa
 thích, tác thành kẻ thù địch đi đến người phẫn nộ, đàn bà hoặc đàn ông.
 
-<!--pg-->
 6\. Lại nữa, này các Tỷ-kheo, người thù địch mong muốn kẻ thù địch của mình như sau: “Mong rằng kẻ
 này không có danh tiếng!” Vì cớ sao? Này các Tỷ-kheo, người thù địch không hoan hỷ kẻ thù địch của
 mình có được danh tiếng. Này các Tỷ-kheo, hạng người nào phẫn nộ, bị phẫn nộ chinh phục, bị phẫn nộ
@@ -773,7 +728,6 @@ chi phối, nếu có được danh tiếng gì nhờ không phóng dật thâu 
 bị phẫn nộ chinh phục. Này các Tỷ-kheo, đây là pháp thứ năm, được người thù ưa thích, tác thành kẻ thù
 địch đi đến người phẫn nộ, đàn bà hoặc đàn ông.
 
-<!--pg-->
 7\. Lại nữa, này các Tỷ-kheo, người thù địch mong muốn kẻ thù địch của mình như sau: “Mong rằng kẻ
 này không có bạn bè!” Vì cớ sao? Này các Tỷ-kheo, người thù địch không hoan hỷ kẻ thù địch của mình
 có được bạn bè. Này các Tỷ-kheo, hạng người nào phẫn nộ, bị phẫn nộ chinh phục, bị phẫn nộ chi phối,
@@ -781,7 +735,6 @@ nếu người đó có những bạn bè thân hữu, bà con huyết thống g
 đó bị phẫn nộ chinh phục. Ðây là pháp thứ sáu, được người thù ưa thích, tác thành kẻ thù địch đi đến
 người phẫn nộ, đàn bà hoặc đàn ông.
 
-<!--pg-->
 8\. Lại nữa, này các Tỷ-kheo, người thù địch mong muốn kẻ thù địch của mình như sau: “Mong rằng kẻ
 này sau khi thân hoại mạng chung, sẽ sanh trong cõi dữ, ác thú, đọa xứ, địa ngục!” Vì cớ sao? Này các
 Tỷ-kheo, người thù địch không hoan hỷ kẻ thù địch của mình sau khi thân hoại mạng chung, được sanh
@@ -794,75 +747,75 @@ là pháp thứ bảy, được người thù ưa thích, tác thành kẻ thù 
 Bảy pháp này, này các Tỷ-kheo, được người thù địch ưa thích, tác thành kẻ thù địch đi đến người phẫn
 nộ, đàn bà hoặc đàn ông.
 
-_Kẻ phẫn nộ xấu xí,_
-_Ðau khổ khi nằm ngủ,_
-_Ðược các điều lợi ích_
-_Lại cảm thấy bất lợi._
-_Phẫn nộ, nó đả thương,_
-_Với thân với lời nói,_
-_Người phẫn nộ chinh phục,_
-_Tài sản bị tiêu vong._
-_Bị phẫn nộ điên loạn,_
-_Danh dự bị hủy diệt,_
-_Bà con cùng bạn bè,_
-_Lánh xa người phẫn nộ._
-_Phẫn nộ sanh bất lợi,_
-_Phẫn nộ dao động tâm,_
-_Sợ hãi sanh từ trong,_
-_Người ấy không rõ biết._
-_Phẫn nộ không biết lợi,_
-_Phẫn nộ không thấy pháp,_
-_Phẫn nộ chinh phục ai,_
-_Người ấy bị mê ám._
-_Người phẫn nộ thích thú_
-_Làm ác như làm thiện,_
-_Về sau phẫn nộ dứt,_
-_Bị khổ như lửa đốt,_
-_Như ngọn lửa dầu khói,_
-_Ðược thấy thất thểu cháy,_
-_Khi phẫn nộ lan tràn,_
-_Khi tuổi trẻ nổi nóng,_
-_Không xấu hổ, sợ hãi,_
-_Lời nói không cung kính._
-_Bị phẫn nộ chinh phục,_
-_Không hòn đảo tựa nương._
-_Việc làm đem hối hận,_
-_Rất xa với Chánh pháp._
-_Ta sẽ tuyên bố họ,_
-_Hãy nghe như tuyên bố,_
-_Phẫn nộ giết cả cha,_
-_Phẫn nộ giết cả mẹ,_
-_Phẫn nộ giết Phạm chí,_
-_Phẫn nộ giết phàm phu._
-_Chính nhờ mẹ dưỡng dục,_
-_Người thấy được đời này,_
-_Nhưng phàm phu phẫn nộ,_
-_Giết người cho sự sống._
-_Chúng sanh tự ví dụ,_
-_Thương tự ngã tối thượng,_
-_Phàm phu giết tự ngã,_
-_Ðiên loạn nhiều hình thức,_
-_Lấy gươm giết tự ngã,_
-_Ðiên loại uống thuốc độc,_
-_Dây tự trói họ chết,_
-_Trong hang động núi rừng,_
-_Những hành động sát sanh,_
-_Khiến tự ngã phải chết._
-_Họ làm nhưng không biết,_
-_Kẻ phẫn nộ hại người,_
-_Với hình thức phẫn nộ,_
-_Ma bẫy ẩn trong tâm._
-_Hãy nhiếp phục cắt đứt,_
-_Với tuệ, tấn, chánh kiến,_
-_Bậc trí tuệ cắt đoạn,_
-_Mỗi mỗi bất thiện pháp_
-_Như vậy học tập pháp,_
-_Không để tâm nản chí,_
-_Ly sân, không áo não,_
-_Ly tham, tật đố không,_
-_Nhiếp phục, đoạn phẫn nộ,_
-_Vô lậu, nhập Niết-bàn._
+ _Kẻ phẫn nộ xấu xí,_\
+ _Ðau khổ khi nằm ngủ,_\
+ _Ðược các điều lợi ích_\
+ _Lại cảm thấy bất lợi._\
+ _Phẫn nộ, nó đả thương,_\
+ _Với thân với lời nói,_\
+ _Người phẫn nộ chinh phục,_\
+ _Tài sản bị tiêu vong._\
+ _Bị phẫn nộ điên loạn,_\
+ _Danh dự bị hủy diệt,_\
+ _Bà con cùng bạn bè,_\
+ _Lánh xa người phẫn nộ._\
+ _Phẫn nộ sanh bất lợi,_\
+ _Phẫn nộ dao động tâm,_\
+ _Sợ hãi sanh từ trong,_\
+ _Người ấy không rõ biết._\
+ _Phẫn nộ không biết lợi,_\
+ _Phẫn nộ không thấy pháp,_\
+ _Phẫn nộ chinh phục ai,_\
+ _Người ấy bị mê ám._\
+ _Người phẫn nộ thích thú_\
+ _Làm ác như làm thiện,_\
+ _Về sau phẫn nộ dứt,_\
+ _Bị khổ như lửa đốt,_\
+ _Như ngọn lửa dầu khói,_\
+ _Ðược thấy thất thểu cháy,_\
+ _Khi phẫn nộ lan tràn,_\
+ _Khi tuổi trẻ nổi nóng,_\
+ _Không xấu hổ, sợ hãi,_\
+ _Lời nói không cung kính._\
+ _Bị phẫn nộ chinh phục,_\
+ _Không hòn đảo tựa nương._\
+ _Việc làm đem hối hận,_\
+ _Rất xa với Chánh pháp._\
+ _Ta sẽ tuyên bố họ,_\
+ _Hãy nghe như tuyên bố,_\
+ _Phẫn nộ giết cả cha,_\
+ _Phẫn nộ giết cả mẹ,_\
+ _Phẫn nộ giết Phạm chí,_\
+ _Phẫn nộ giết phàm phu._\
+ _Chính nhờ mẹ dưỡng dục,_\
+ _Người thấy được đời này,_\
+ _Nhưng phàm phu phẫn nộ,_\
+ _Giết người cho sự sống._\
+ _Chúng sanh tự ví dụ,_\
+ _Thương tự ngã tối thượng,_\
+ _Phàm phu giết tự ngã,_\
+ _Ðiên loạn nhiều hình thức,_\
+ _Lấy gươm giết tự ngã,_\
+ _Ðiên loại uống thuốc độc,_\
+ _Dây tự trói họ chết,_\
+ _Trong hang động núi rừng,_\
+ _Những hành động sát sanh,_\
+ _Khiến tự ngã phải chết._\
+ _Họ làm nhưng không biết,_\
+ _Kẻ phẫn nộ hại người,_\
+ _Với hình thức phẫn nộ,_\
+ _Ma bẫy ẩn trong tâm._\
+ _Hãy nhiếp phục cắt đứt,_\
+ _Với tuệ, tấn, chánh kiến,_\
+ _Bậc trí tuệ cắt đoạn,_\
+ _Mỗi mỗi bất thiện pháp_\
+ _Như vậy học tập pháp,_\
+ _Không để tâm nản chí,_\
+ _Ly sân, không áo não,_\
+ _Ly tham, tật đố không,_\
+ _Nhiếp phục, đoạn phẫn nộ,_\
+ _Vô lậu, nhập Niết-bàn._
 
-### (I) (61) Xấu Hổ
+
 
 
