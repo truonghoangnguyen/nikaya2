@@ -1,4 +1,4 @@
-# Chương về Sự Thọ Giới
+# Phẩm về Sự Thọ Giới
 
 ### AN 5.251 Người Nên Cho Thọ Giới *Upasampādetabbasutta*
 

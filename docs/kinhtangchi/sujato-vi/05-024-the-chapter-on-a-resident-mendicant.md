@@ -1,4 +1,4 @@
-# Chương về Vị Tỳ Khưu Trú Xứ
+# Phẩm về Vị Tỳ Khưu Trú Xứ
 
 ### AN 5.231 Vị Tỳ Khưu Trú Xứ *Āvāsikasutta*
 

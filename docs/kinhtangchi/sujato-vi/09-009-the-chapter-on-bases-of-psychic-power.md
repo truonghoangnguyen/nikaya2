@@ -1,4 +1,4 @@
-# Chương về Các Nền Tảng Thần Thông
+# Phẩm về Các Nền Tảng Thần Thông
 
 ### AN 9.83 Những Yếu Kém Trong Tu Tập và Các Nền Tảng Thần Thông  *Sikkhasutta*
 

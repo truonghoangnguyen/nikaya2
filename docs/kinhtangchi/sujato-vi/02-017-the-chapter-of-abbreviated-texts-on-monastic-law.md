@@ -20,7 +20,7 @@ Hai lý do đó là gì? Vì an lạc và thoải mái của Tăng đoàn...
 Đó là hai lý do tại sao Như Lai đã đặt ra việc dàn xếp một vụ việc kỷ luật bằng phương pháp thảo phú tỳ-ni cho các đệ tử của mình."
 
 <!--pg-->
-# Chương Các Kinh Tóm Lược Bắt Đầu Với Tham
+# Phẩm Các Kinh Tóm Lược Bắt Đầu Với Tham
 
 ### AN 2.310--479 *Phẩm Tham - Peyyāla*
 

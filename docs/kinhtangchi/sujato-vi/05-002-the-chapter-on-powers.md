@@ -1,4 +1,4 @@
-# Chương Về Các Lực
+# Phẩm Về Các Lực
 
 ### AN 5.11 Không Nghe Từ Ai Khác *Ananussutasutta*
 

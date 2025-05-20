@@ -1,4 +1,4 @@
-# Chương Kakudha
+# Phẩm Kakudha
 
 ### AN 5.91 Thành Tựu (1) *Paṭhamasampadāsutta*
 

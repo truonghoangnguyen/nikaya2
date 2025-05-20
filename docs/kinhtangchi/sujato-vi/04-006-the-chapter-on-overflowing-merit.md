@@ -1,4 +1,4 @@
-# Chương về Phước Tuôn Chảy
+# Phẩm về Phước Tuôn Chảy
 
 ### AN 4.51 Phước Tuôn Chảy (1) *Paṭhamapuññābhisandasutta*
 

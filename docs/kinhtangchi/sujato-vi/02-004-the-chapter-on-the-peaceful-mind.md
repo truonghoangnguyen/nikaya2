@@ -1,4 +1,4 @@
-# Chương về Tâm An Tịnh
+# Phẩm về Tâm An Tịnh
 
 ### AN 2.32--41 *Samacittavagga* (Phẩm Tâm An Tịnh)
 

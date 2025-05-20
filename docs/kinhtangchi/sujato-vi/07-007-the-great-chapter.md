@@ -1,4 +1,4 @@
-# Chương Lớn
+# Phẩm Lớn
 
 ### AN 7.65 Xấu Hổ và Sợ Điều Ác *Hirīottappasutta*
 

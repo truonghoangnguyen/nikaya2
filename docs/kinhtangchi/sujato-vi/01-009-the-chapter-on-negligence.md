@@ -1,4 +1,4 @@
-# Chương về Sao Nhãng
+# Phẩm về Sao Nhãng
 
 ### AN 1.82--97 *Phẩm Sao Nhãng, v.v.*
 

@@ -1,4 +1,4 @@
-# Chương về Sự Nguy Hiểm của Việc Phạm Giới
+# Phẩm về Sự Nguy Hiểm của Việc Phạm Giới
 
 ### AN 4.243 Chia Rẽ Tăng Đoàn *Saṁghabhedakasutta*
 

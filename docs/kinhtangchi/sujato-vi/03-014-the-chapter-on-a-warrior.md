@@ -1,4 +1,4 @@
-# Chương về Người Chiến Sĩ
+# Phẩm về Người Chiến Sĩ
 
 ### AN 3.133 Người Chiến Sĩ  *Yodhājīvasutta*
 

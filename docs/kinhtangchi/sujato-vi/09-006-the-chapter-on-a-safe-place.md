@@ -1,4 +1,4 @@
-# Chương về Nơi An Toàn
+# Phẩm về Nơi An Toàn
 
 ### AN 9.52 Nơi An Toàn  *Khemasutta*
 

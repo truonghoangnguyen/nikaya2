@@ -1,4 +1,4 @@
-# Chương về Lợi Ích
+# Phẩm về Lợi Ích
 
 ### AN 6.96 Sự Xuất Hiện  *Pātubhāvasutta*
 

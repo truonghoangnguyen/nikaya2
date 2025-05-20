@@ -1,4 +1,4 @@
-**Tuyển Tập Ấn Phẩm SuttaCentral**
+# Tuyển Tập Ấn Phẩm SuttaCentral
 
 Kể từ năm 2005, SuttaCentral đã cung cấp quyền truy cập vào các bản kinh văn, các bản dịch, và các bản kinh tương đồng của các kinh điển Phật giáo sơ kỳ. Vào năm 2018, chúng tôi đã bắt đầu biên soạn và phát hành các bản dịch của chúng tôi về những tác phẩm kinh điển tâm linh quan trọng này. Tuyển Tập "Ấn Phẩm" nay giới thiệu các bản dịch chọn lọc dưới dạng sách với nhiều định dạng khác nhau, bao gồm bản in, PDF, và EPUB.
 

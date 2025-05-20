@@ -1,4 +1,4 @@
-# Chương Về Những Hy Vọng Khó Từ Bỏ
+# Phẩm Về Những Hy Vọng Khó Từ Bỏ
 
 ### AN 2.118--129 *Āsāduppajahavagga*
 

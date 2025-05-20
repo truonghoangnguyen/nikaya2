@@ -1,4 +1,4 @@
-# Chương Về Tiếng Rống Sư Tử
+# Phẩm Về Tiếng Rống Sư Tử
 
 ### AN 9.11 Tiếng Rống Sư Tử của Sāriputta *Sīhanādasutta*
 

@@ -1,4 +1,4 @@
-# Chương Về Vô Thượng
+# Phẩm Về Vô Thượng
 
 ### AN 6.21 Tại Làng Sāma *Kinh Sāmaka*
 

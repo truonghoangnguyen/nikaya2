@@ -1,4 +1,4 @@
-# Chương về Thiền Chánh Niệm
+# Phẩm về Thiền Chánh Niệm
 
 ### AN 9.63 Những Yếu Kém trong Tu Tập và Thiền Chánh Niệm *Sikkhādubbalyasutta*
 

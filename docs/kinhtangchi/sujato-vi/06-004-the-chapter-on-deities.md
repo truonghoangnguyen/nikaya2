@@ -1,4 +1,4 @@
-# Chương về Chư Thiên
+# Phẩm về Chư Thiên
 
 ### AN 6.31 Vị Hữu Học  *Sekhasutta*
 

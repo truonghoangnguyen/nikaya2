@@ -1,11 +1,10 @@
 # III. Phẩm Ba: Tổng Kết
+
 ### (I) (23) Người Chăn Bó
 
-<!--pg-->
 1\. Này các Tỷ-kheo, thành tựu với mười một chi phần, người chăn bò không có thể là người lãnh đạo bò
 và đưa đàn bò đến tăng trưởng. Thế nào là mười một?
 
-<!--pg-->
 2\. Ở đây, này các Tỷ-kheo, người chăn bò không biết sắc, không thiện xảo trong tướng; không trừ khử
 trứng ruồi; không băng bó vết thương; không có xông khói; không biết chỗ nước có thể lội qua; không
 biết chỗ nước uống được; không biết đường; không thiện xảo chỗ bò có thể ăn, nặn sữa đến kiệt quệ; đối
@@ -14,7 +13,6 @@ với các con bò đực, bậc cha đàn bò, Bậc lãnh đạo đàn bò ; k
 Thành tựu mười một chi phần này, người chăn bò không có thể lãnh đạo đàn bò và khiến đàn bò được
 tăng trưởng.
 
-<!--pg-->
 3\. Cũng vậy, này các Tỷ-kheo, thành tựu với mười một pháp, vị Tỷ-kheo không có thể trú tùy quán vô
 thường trong con mắt... không có thể trú tùy quán khổ trong con mắt... không có thể trú tùy quán vô ngã
 trong con mắt... không có thể trú tùy quán hoại diệt trong con mắt... không có thể trú tùy quán hủy diệt
@@ -33,30 +31,26 @@ hương tứ... trong vị tứ... trong xúc tứ... trú tùy quán... vô th�
 tùy quán vô ngã... trú tùy quán hoại diệt... trú tùy quán hủy diệt... trú tùy quán ly tham... trú tùy quán
 đoạn diệt... trú tùy quán từ bỏ.
 
-<!--pg-->
 4\. Thành tựu mười một pháp, này các Tỷ-kheo, người chăm bò có thể lãnh đạo đàn bò và khiến đàn bò
 tăng trưởng. Thế nào là mười một?
 
-<!--pg-->
 5\. Ở đây, này các Tỷ-kheo, người chăn bò biết sắc...
 
-<!--pg-->
 6\. Cũng vậy, này các Tỷ-kheo, thành tựu với mười một pháp, Tỷ-kheo có thể trú tùy quán vô thường
 trong con mắt... có thể trú tùy quán từ bỏ.
 
+<!--pg-->
 ### (II) (24) Tham Ái (1)
 
-<!--pg-->
 1\. Ðể thắng tri tham ái, này các Tỷ-kheo, mười một pháp cần phải tu tập. Thế nào là mười một?
 
-<!--pg-->
 2\. Thiền thứ nhất. Thiền thứ hai, Thiền thứ ba, Thiền thứ tư, từ tâm giải thoát, bi tâm giải thoát, hỷ tâm
 giải thoát, xả tâm giải thoát, Không vô biên xứ, Thức vô biên xứ, Vô sở hữu xứ.
 
 Ðể thắng tri tham ái, này các Tỷ-kheo, mười một pháp cần phải tu tập.
 
-### (III) (25) Tham Ái (2)
 <!--pg-->
+### (III) (25) Tham Ái (2)
 1\. Ðể thắng tri tham ái, này các Tỷ-kheo, để liễu tri, để liễu diệt, để đoạn tận, để hoại diệt, để hủy diệt,
 để ly tham, để đoạn diệt... để xả ly, để từ bỏ... mười một pháp cần phải tu tập.
 
@@ -68,6 +62,7 @@ tu tập.
 
 Thế Tôn thuyết như vậy, các Tỷ-kheo ấy hoan hỷ tín thọ lời Thế Tôn dạy
 
+<!--pg-->
 ### Hết Kinh Tăng Chi Bộ
 
 ### -ooOoo-

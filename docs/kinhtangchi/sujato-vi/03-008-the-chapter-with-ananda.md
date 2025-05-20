@@ -1,4 +1,4 @@
-# Chương với Ānanda
+# Phẩm với Ānanda
 
 
 ### AN 3.71 Với Channa (Channasutta)

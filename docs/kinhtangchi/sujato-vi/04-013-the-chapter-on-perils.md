@@ -1,4 +1,4 @@
-# Chương về Những Mối Nguy Hiểm
+# Phẩm về Những Mối Nguy Hiểm
 
 ### AN 4.121 Tự Trách *Attānuvādasutta*
 

@@ -1,4 +1,4 @@
-# Chương về Thắng Trí
+# Phẩm về Thắng Trí
 
 ### AN 4.254 Tuệ Giác (*Abhiññāsutta*)
 

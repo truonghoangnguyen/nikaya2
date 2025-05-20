@@ -1,4 +1,4 @@
-# Chương về Sumanā
+# Phẩm về Sumanā
 
 ### AN 5.31 Kinh Sumanā
 

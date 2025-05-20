@@ -1,4 +1,4 @@
-# Chương về Xứng Đáng Được Cúng Dường
+# Phẩm về Xứng Đáng Được Cúng Dường
 
 ### AN 6.1 Xứng Đáng Được Cúng Dường (1) *Paṭhamaāhuneyyasutta*
 

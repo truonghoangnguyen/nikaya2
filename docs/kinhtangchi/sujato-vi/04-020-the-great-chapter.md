@@ -1,4 +1,4 @@
-# Chương Lớn
+# Phẩm Lớn
 
 ### AN 4.191 Kinh Lắng Nghe (Sotānugatasutta)
 

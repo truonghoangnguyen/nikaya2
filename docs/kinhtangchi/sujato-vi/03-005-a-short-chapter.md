@@ -1,4 +1,4 @@
-# Chương Ngắn
+# Phẩm Ngắn
 
 ### AN 3.41 Hiện Diện  *Sammukhībhāvasutta*
 

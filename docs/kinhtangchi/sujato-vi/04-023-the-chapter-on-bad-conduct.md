@@ -1,4 +1,4 @@
-# Chương về Hành Vi Xấu
+# Phẩm về Hành Vi Xấu
 
 ### AN 4.221 Khẩu Ác Hạnh *Duccaritasutta*
 

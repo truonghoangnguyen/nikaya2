@@ -1,4 +1,4 @@
-# Chương về Bà-la-môn
+# Phẩm về Bà-la-môn
 
 ### AN 3.51 Hai Vị Bà-la-môn (Thứ nhất) *Paṭhamadvebrāhmaṇasutta*
 

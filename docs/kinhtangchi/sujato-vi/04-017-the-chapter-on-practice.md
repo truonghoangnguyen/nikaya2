@@ -1,4 +1,4 @@
-# Chương về Tu Tập
+# Phẩm về Tu Tập
 
 ### AN 4.161 Tóm Tắt *Saṁkhittasutta*
 

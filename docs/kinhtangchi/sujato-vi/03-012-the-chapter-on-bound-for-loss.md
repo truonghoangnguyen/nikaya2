@@ -1,4 +1,4 @@
-# Chương về Đọa Xứ
+# Phẩm về Đọa Xứ
 
 ### AN 3.113 Đọa Xứ *Āpāyikasutta*
 

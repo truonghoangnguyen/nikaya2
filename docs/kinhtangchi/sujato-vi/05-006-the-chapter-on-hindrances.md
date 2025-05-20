@@ -1,4 +1,4 @@
-# Chương về trói buộc
+# Phẩm về trói buộc
 
 ### AN 5.51 Chướng Ngại *Āvaraṇasutta*
 

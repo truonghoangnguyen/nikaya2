@@ -1,4 +1,4 @@
-# Chương về Pháp Đáng Nhớ Tưởng
+# Phẩm về Pháp Đáng Nhớ Tưởng
 
 ### AN 6.11 Pháp Đáng Nhớ Tưởng (1)  *Paṭhamasāraṇīyasutta*
 

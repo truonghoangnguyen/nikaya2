@@ -1,4 +1,4 @@
-# Chương Lớn
+# Phẩm Lớn
 
 ### AN 3.61 Quan Điểm Ngoại Đạo  *Titthāyatanasutta*
 

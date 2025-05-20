@@ -1,4 +1,4 @@
-# Chương về Tác Ý
+# Phẩm về Tác Ý
 
 ### AN 4.171 Tác Ý (ý muốn) *Kinh ý muốn*
 

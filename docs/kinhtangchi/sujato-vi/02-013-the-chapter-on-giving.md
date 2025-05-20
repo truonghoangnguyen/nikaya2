@@ -1,4 +1,4 @@
-# Chương về Bố Thí
+# Phẩm về Bố Thí
 
 ### AN 2.141--150 *Dānavagga*
 

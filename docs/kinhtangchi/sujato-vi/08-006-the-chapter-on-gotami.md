@@ -1,4 +1,4 @@
-# Chương về Gotamī
+# Phẩm về Gotamī
 
 ### AN 8.51 Kinh Gotamī  *Gotamīsutta*
 

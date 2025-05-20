@@ -1,4 +1,4 @@
-# Chương về Người Cư Sĩ Tại Gia
+# Phẩm về Người Cư Sĩ Tại Gia
 
 ### AN 5.171 Rụt Rè *Sārajjasutta*
 

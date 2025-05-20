@@ -1,4 +1,4 @@
-# Chương về Bà la môn
+# Phẩm về Bà la môn
 
 ### AN 5.191 Chó *Soṇasutta*
 

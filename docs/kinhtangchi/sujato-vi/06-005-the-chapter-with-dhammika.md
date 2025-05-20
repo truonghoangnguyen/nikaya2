@@ -1,4 +1,4 @@
-# Chương về Dhammika
+# Phẩm về Dhammika
 
 ### AN 6.43 Kinh Voi Chúa (*Nāgasutta*)
 

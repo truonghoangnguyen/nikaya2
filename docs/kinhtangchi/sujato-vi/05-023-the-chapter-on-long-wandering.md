@@ -1,4 +1,4 @@
-# Chương Về Lang Thang Dài Ngày
+# Phẩm Về Lang Thang Dài Ngày
 
 ### AN 5.221 Lang Thang Dài Ngày (1) *Paṭhamadīghacārikasutta*
 

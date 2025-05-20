@@ -1,4 +1,4 @@
-# Chương về Hội Chúng
+# Phẩm về Hội Chúng
 
 ### AN 2.42--51 *Parisavagga*
 

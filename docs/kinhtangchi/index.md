@@ -71,7 +71,7 @@ hero:
         <span class="comparison-tag">Việt Việt</span>
       </div>
       <p>Việt/Việt của Tỳ Kheo Thích Minh Châu và Bhikkhu Sujato</p>
-      <a href="/kinhtangchi/c-sujato-tmc-vi/meta/mucluc.html" class="secondary-button">Xem So Sánh</a>
+      <a href="/kinhtangchi/c-sujato-tmc-vi/mucluc.html" class="secondary-button">Xem So Sánh</a>
     </div>
 
   <div class="comparison-card">
@@ -80,7 +80,7 @@ hero:
         <span class="comparison-tag">Việt - Anh</span>
       </div>
       <p>Anh/Việt của Tỳ Kheo Thích Minh Châu và Bhikkhu Sujato</p>
-      <a href="/kinhtangchi/c-sujato-tmc-en/meta/mucluc.html" class="secondary-button">Xem So Sánh</a>
+      <a href="/kinhtangchi/c-sujato-tmc-en/mucluc.html" class="secondary-button">Xem So Sánh</a>
     </div>
   </div>
 </div>

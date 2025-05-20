@@ -1,4 +1,4 @@
-# Chương Tại Làng Beluva
+# Phẩm Tại Làng Beluva
 
 ### AN 4.1 Giác Ngộ *Anubuddhasutta*
 

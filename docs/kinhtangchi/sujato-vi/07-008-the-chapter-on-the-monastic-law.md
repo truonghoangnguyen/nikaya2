@@ -1,4 +1,4 @@
-# Chương về Giới Luật Tu Sĩ
+# Phẩm về Giới Luật Tu Sĩ
 
 ### AN 7.75 Người Thông Thạo Giới Luật (Thứ Nhất) *Paṭhamavinayadharasutta*
 

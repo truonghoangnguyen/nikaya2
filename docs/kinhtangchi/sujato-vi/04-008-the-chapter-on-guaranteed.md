@@ -1,4 +1,4 @@
-# Chương về Sự Bảo Đảm
+# Phẩm về Sự Bảo Đảm
 
 ### AN 4.71 Kinh Tinh Tấn (*Padhānasutta*)
 

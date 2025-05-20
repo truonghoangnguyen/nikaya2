@@ -1,4 +1,4 @@
-# Chương về Chỗ Ở Của Chúng Sinh
+# Phẩm về Chỗ Ở Của Chúng Sinh
 
 ### AN 9.21 Ba Đặc Điểm Riêng Biệt *Tiṭhānasutta*
 

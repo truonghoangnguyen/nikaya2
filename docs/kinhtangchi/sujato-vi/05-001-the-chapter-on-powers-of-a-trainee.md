@@ -1,4 +1,4 @@
-# Chương Về Các Lực Của Bậc Hữu Học
+# Phẩm Về Các Lực Của Bậc Hữu Học
 
 ### AN 5.1 Tóm Tắt *Saṁkhittasutta*
 

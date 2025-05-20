@@ -1,4 +1,4 @@
-# Chương về Sự Tịch Tịnh
+# Phẩm về Sự Tịch Tịnh
 
 ### AN 6.85 Sự Tịch Tịnh *Sītibhāvasutta*
 

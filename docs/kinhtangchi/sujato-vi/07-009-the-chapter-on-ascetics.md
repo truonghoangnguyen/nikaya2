@@ -44,7 +44,7 @@
 "Này các Tỷ kheo, có bảy *pháp tốt* (Good Qualities / những phẩm chất, trạng thái tâm thiện lành) này. Bảy pháp đó là gì? Một người có niềm tin, có xấu hổ, có sợ điều ác, học nhiều (learned / có hiểu biết về giáo pháp), siêng năng, có tỉnh thức, và có trí tuệ. Đây là bảy pháp tốt."
 
 <!--pg-->
-# Chương về Những Người Xứng Đáng Được Cúng Dường
+# Phẩm về Những Người Xứng Đáng Được Cúng Dường
 
 ### AN 7.95 Quán Sát Vô Thường ở Mắt *~*
 

@@ -1,4 +1,4 @@
-# Chương về Chiến Sĩ
+# Phẩm về Chiến Sĩ
 
 ### AN 5.71 Quả là Tâm Giải Thoát (1) *Paṭhamacetovimuttiphalasutta*
 

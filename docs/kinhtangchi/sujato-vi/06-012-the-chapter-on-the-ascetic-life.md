@@ -1,4 +1,4 @@
-# Chương về Đời sống Sa môn
+# Phẩm về Đời sống Sa môn
 
 ### AN 6.117 Quán Thân  *Kāyānupassīsutta*
 

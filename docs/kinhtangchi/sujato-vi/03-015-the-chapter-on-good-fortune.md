@@ -1,4 +1,4 @@
-# Chương về Phước Lành
+# Phẩm về Phước Lành
 
 ### AN 3.146 Bất Thiện (*Akusalasutta*)
 

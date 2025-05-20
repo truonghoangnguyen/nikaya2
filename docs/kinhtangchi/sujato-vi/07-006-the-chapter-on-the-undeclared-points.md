@@ -1,4 +1,4 @@
-# Chương về Những Điểm Không Được Tuyên Bố
+# Phẩm về Những Điểm Không Được Tuyên Bố
 
 ### AN 7.54 Những Điểm Không Được Tuyên Bố *Abyākatasutta*
 

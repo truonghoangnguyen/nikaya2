@@ -1,4 +1,4 @@
-# Chương về Kimbila
+# Phẩm về Kimbila
 
 ### AN 5.201 Kinh Kimbila  *Kimilasutta*
 

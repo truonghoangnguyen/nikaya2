@@ -1,4 +1,4 @@
-# Chương về Đi Kinh Hành
+# Phẩm về Đi Kinh Hành
 
 ### AN 4.11 Đi Kinh Hành (*Carasutta*)
 

@@ -1,4 +1,4 @@
-# Chương về Sa Môn
+# Phẩm về Sa Môn
 
 ### AN 3.81 Sa Môn  *Samaṇasutta*
 

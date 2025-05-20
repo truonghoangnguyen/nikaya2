@@ -1,4 +1,4 @@
-# Chương Về Đại Tế Lễ
+# Phẩm Về Đại Tế Lễ
 
 ### AN 7.44 Các Cõi Thức Trú *Sattaviññāṇaṭṭhitisutta*
 

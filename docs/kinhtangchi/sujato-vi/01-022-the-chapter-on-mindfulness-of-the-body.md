@@ -1,4 +1,4 @@
-# Chương về Niệm Thân
+# Phẩm về Niệm Thân
 
 ### AN 1.575--615 Phẩm Niệm Thân
 

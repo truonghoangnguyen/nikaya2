@@ -1,4 +1,4 @@
-# Chương về Ánh Sáng
+# Phẩm về Ánh Sáng
 
 ### AN 4.141 Ánh Sáng *Ābhāsutta*
 

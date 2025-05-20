@@ -1,4 +1,4 @@
-# Chương Không Phạm Tội
+# Phẩm Không Phạm Tội
 
 ### AN 1.150--169 *Anāpattivagga*
 

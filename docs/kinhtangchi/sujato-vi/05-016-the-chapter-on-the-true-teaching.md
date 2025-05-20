@@ -1,4 +1,4 @@
-# Chương về Chánh Pháp
+# Phẩm về Chánh Pháp
 
 ### AN 5.151 Chắc Chắn Đi Vào Chánh Đạo (1) *Paṭhamasammattaniyāmasutta*
 

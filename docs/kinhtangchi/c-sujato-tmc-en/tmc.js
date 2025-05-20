@@ -473,6 +473,27 @@ const sujato_tmc_en = [
           "link": "/kinhtangchi/c-sujato-tmc-en/01-022-pham-thien-dinh-2-than-hanh-niem"
         },
         "nextlink": {
+          "text": "CHƯƠNG II: CHƯƠNG HAI PHÁP",
+          "link": "/kinhtangchi/c-sujato-tmc-en/02-000-chuong-2"
+        }
+      }
+    }
+  },
+  {
+    "params": {
+      "slug": "02-000-chuong-2",
+      "data": {
+        "title": "CHƯƠNG II: CHƯƠNG HAI PHÁP",
+        "left": "/kinhtangchi/sujato-en/02-000-chapter-2.md",
+        "right": "/kinhtangchi/thichminhchau/02-000-chuong-2.md",
+        "leftTitle": "Bhikkhu Sujato",
+        "rightTitle": "Tỳ Kheo Thích Minh Châu",
+        "notePath": "",
+        "backlink": {
+          "text": "XXI. Phẩm Thiền Ðịnh (2) (Bất Tử)",
+          "link": "/kinhtangchi/c-sujato-tmc-en/01-023-pham-thien-dinh-2-bat-tu"
+        },
+        "nextlink": {
           "text": "I. Phẩm Hình Phạt",
           "link": "/kinhtangchi/c-sujato-tmc-en/02-001-pham-hinh-phat"
         }
@@ -490,8 +511,8 @@ const sujato_tmc_en = [
         "rightTitle": "Tỳ Kheo Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "XXI. Phẩm Thiền Ðịnh (2) (Bất Tử)",
-          "link": "/kinhtangchi/c-sujato-tmc-en/01-023-pham-thien-dinh-2-bat-tu"
+          "text": "CHƯƠNG II: CHƯƠNG HAI PHÁP",
+          "link": "/kinhtangchi/c-sujato-tmc-en/02-000-chuong-2"
         },
         "nextlink": {
           "text": "II. Phẩm Tranh Luận",
@@ -830,6 +851,27 @@ const sujato_tmc_en = [
           "link": "/kinhtangchi/c-sujato-tmc-en/02-016-pham-phan-no"
         },
         "nextlink": {
+          "text": "CHƯƠNG III: CHƯƠNG BA PHÁP",
+          "link": "/kinhtangchi/c-sujato-tmc-en/03-000-chuong-3"
+        }
+      }
+    }
+  },
+  {
+    "params": {
+      "slug": "03-000-chuong-3",
+      "data": {
+        "title": "CHƯƠNG III: CHƯƠNG BA PHÁP",
+        "left": "/kinhtangchi/sujato-en/03-000-chapter-3.md",
+        "right": "/kinhtangchi/thichminhchau/03-000-chuong-3.md",
+        "leftTitle": "Bhikkhu Sujato",
+        "rightTitle": "Tỳ Kheo Thích Minh Châu",
+        "notePath": "",
+        "backlink": {
+          "text": "XVII. Phẩm Thứ Mười Bảy",
+          "link": "/kinhtangchi/c-sujato-tmc-en/02-017-pham-thu-muoi-bay"
+        },
+        "nextlink": {
           "text": "I. Phẩm Người Ngu",
           "link": "/kinhtangchi/c-sujato-tmc-en/03-001-pham-nguoi-ngu"
         }
@@ -847,8 +889,8 @@ const sujato_tmc_en = [
         "rightTitle": "Tỳ Kheo Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "XVII. Phẩm Thứ Mười Bảy",
-          "link": "/kinhtangchi/c-sujato-tmc-en/02-017-pham-thu-muoi-bay"
+          "text": "CHƯƠNG III: CHƯƠNG BA PHÁP",
+          "link": "/kinhtangchi/c-sujato-tmc-en/03-000-chuong-3"
         },
         "nextlink": {
           "text": "II. Phẩm Người Ðóng Xe",
@@ -1166,6 +1208,27 @@ const sujato_tmc_en = [
           "link": "/kinhtangchi/c-sujato-tmc-en/03-015-pham-cat-tuong"
         },
         "nextlink": {
+          "text": "CHƯƠNG IV: CHƯƠNG BỐN PHÁP",
+          "link": "/kinhtangchi/c-sujato-tmc-en/04-000-chuong-4"
+        }
+      }
+    }
+  },
+  {
+    "params": {
+      "slug": "04-000-chuong-4",
+      "data": {
+        "title": "CHƯƠNG IV: CHƯƠNG BỐN PHÁP",
+        "left": "/kinhtangchi/sujato-en/04-000-chapter-4.md",
+        "right": "/kinhtangchi/thichminhchau/04-000-chuong-4.md",
+        "leftTitle": "Bhikkhu Sujato",
+        "rightTitle": "Tỳ Kheo Thích Minh Châu",
+        "notePath": "",
+        "backlink": {
+          "text": "XVI. Phẩm Lõa Thể",
+          "link": "/kinhtangchi/c-sujato-tmc-en/03-016-pham-loa-the"
+        },
+        "nextlink": {
           "text": "I. Phẩm Bhandagana",
           "link": "/kinhtangchi/c-sujato-tmc-en/04-001-pham-bhandagana"
         }
@@ -1183,8 +1246,8 @@ const sujato_tmc_en = [
         "rightTitle": "Tỳ Kheo Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "XVI. Phẩm Lõa Thể",
-          "link": "/kinhtangchi/c-sujato-tmc-en/03-016-pham-loa-the"
+          "text": "CHƯƠNG IV: CHƯƠNG BỐN PHÁP",
+          "link": "/kinhtangchi/c-sujato-tmc-en/04-000-chuong-4"
         },
         "nextlink": {
           "text": "II. Phẩm Hành",
@@ -1754,6 +1817,27 @@ const sujato_tmc_en = [
           "link": "/kinhtangchi/c-sujato-tmc-en/04-027-pham-nghiep-dao"
         },
         "nextlink": {
+          "text": "CHƯƠNG V: CHƯƠNG NĂM PHÁP",
+          "link": "/kinhtangchi/c-sujato-tmc-en/05-000-chuong-5"
+        }
+      }
+    }
+  },
+  {
+    "params": {
+      "slug": "05-000-chuong-5",
+      "data": {
+        "title": "CHƯƠNG V: CHƯƠNG NĂM PHÁP",
+        "left": "/kinhtangchi/sujato-en/05-000-chapter-5.md",
+        "right": "/kinhtangchi/thichminhchau/05-000-chuong-5.md",
+        "leftTitle": "Bhikkhu Sujato",
+        "rightTitle": "Tỳ Kheo Thích Minh Châu",
+        "notePath": "",
+        "backlink": {
+          "text": "XXVIII. Phẩm Tham",
+          "link": "/kinhtangchi/c-sujato-tmc-en/04-028-pham-tham"
+        },
+        "nextlink": {
           "text": "I. Phẩm Sức Mạnh Hữu Học",
           "link": "/kinhtangchi/c-sujato-tmc-en/05-001-pham-suc-manh-huu-hoc"
         }
@@ -1771,8 +1855,8 @@ const sujato_tmc_en = [
         "rightTitle": "Tỳ Kheo Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "XXVIII. Phẩm Tham",
-          "link": "/kinhtangchi/c-sujato-tmc-en/04-028-pham-tham"
+          "text": "CHƯƠNG V: CHƯƠNG NĂM PHÁP",
+          "link": "/kinhtangchi/c-sujato-tmc-en/05-000-chuong-5"
         },
         "nextlink": {
           "text": "II. Phẩm Sức Mạnh",
@@ -2300,6 +2384,27 @@ const sujato_tmc_en = [
           "link": "/kinhtangchi/c-sujato-tmc-en/05-025-pham-ac-hanh"
         },
         "nextlink": {
+          "text": "CHƯƠNG VI: CHƯƠNG SÁU PHÁP",
+          "link": "/kinhtangchi/c-sujato-tmc-en/06-000-chuong-6"
+        }
+      }
+    }
+  },
+  {
+    "params": {
+      "slug": "06-000-chuong-6",
+      "data": {
+        "title": "CHƯƠNG VI: CHƯƠNG SÁU PHÁP",
+        "left": "/kinhtangchi/sujato-en/06-000-chapter-6.md",
+        "right": "/kinhtangchi/thichminhchau/06-000-chuong-6.md",
+        "leftTitle": "Bhikkhu Sujato",
+        "rightTitle": "Tỳ Kheo Thích Minh Châu",
+        "notePath": "",
+        "backlink": {
+          "text": "XXVI. Phẩm Cụ Túc Giới",
+          "link": "/kinhtangchi/c-sujato-tmc-en/05-026-pham-cu-tuc-gioi"
+        },
+        "nextlink": {
           "text": "I. Phẩm Ðáng Ðược Cung Kính",
           "link": "/kinhtangchi/c-sujato-tmc-en/06-001-pham-dang-duoc-cung-kinh"
         }
@@ -2317,8 +2422,8 @@ const sujato_tmc_en = [
         "rightTitle": "Tỳ Kheo Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "XXVI. Phẩm Cụ Túc Giới",
-          "link": "/kinhtangchi/c-sujato-tmc-en/05-026-pham-cu-tuc-gioi"
+          "text": "CHƯƠNG VI: CHƯƠNG SÁU PHÁP",
+          "link": "/kinhtangchi/c-sujato-tmc-en/06-000-chuong-6"
         },
         "nextlink": {
           "text": "II. Phẩm Cần Phải Nhớ",
@@ -2550,6 +2655,1245 @@ const sujato_tmc_en = [
         "backlink": {
           "text": "XI. Phẩm Ba Pháp",
           "link": "/kinhtangchi/c-sujato-tmc-en/06-011-pham-ba-phap"
+        },
+        "nextlink": {
+          "text": "CHƯƠNG VII: CHƯƠNG BẢY PHÁP",
+          "link": "/kinhtangchi/c-sujato-tmc-en/07-000-chuong-7"
+        }
+      }
+    }
+  },
+  {
+    "params": {
+      "slug": "07-000-chuong-7",
+      "data": {
+        "title": "CHƯƠNG VII: CHƯƠNG BẢY PHÁP",
+        "left": "/kinhtangchi/sujato-en/07-000-chapter-7.md",
+        "right": "/kinhtangchi/thichminhchau/07-000-chuong-7.md",
+        "leftTitle": "Bhikkhu Sujato",
+        "rightTitle": "Tỳ Kheo Thích Minh Châu",
+        "notePath": "",
+        "backlink": {
+          "text": "XII. Phẩm Các Kinh Không Nhiếp Trong Phẩm",
+          "link": "/kinhtangchi/c-sujato-tmc-en/06-012-pham-cac-kinh-khong-nhiep-trong-pham"
+        },
+        "nextlink": {
+          "text": "I. Phẩm Tài Sản",
+          "link": "/kinhtangchi/c-sujato-tmc-en/07-001-pham-tai-san"
+        }
+      }
+    }
+  },
+  {
+    "params": {
+      "slug": "07-001-pham-tai-san",
+      "data": {
+        "title": "I. Phẩm Tài Sản",
+        "left": "/kinhtangchi/sujato-en/07-001-the-chapter-on-wealth.md",
+        "right": "/kinhtangchi/thichminhchau/07-001-pham-tai-san.md",
+        "leftTitle": "Bhikkhu Sujato",
+        "rightTitle": "Tỳ Kheo Thích Minh Châu",
+        "notePath": "",
+        "backlink": {
+          "text": "CHƯƠNG VII: CHƯƠNG BẢY PHÁP",
+          "link": "/kinhtangchi/c-sujato-tmc-en/07-000-chuong-7"
+        },
+        "nextlink": {
+          "text": "II. Phẩm Tùy Miên",
+          "link": "/kinhtangchi/c-sujato-tmc-en/07-002-pham-tuy-mien"
+        }
+      }
+    }
+  },
+  {
+    "params": {
+      "slug": "07-002-pham-tuy-mien",
+      "data": {
+        "title": "II. Phẩm Tùy Miên",
+        "left": "/kinhtangchi/sujato-en/07-002-the-chapter-on-tendencies.md",
+        "right": "/kinhtangchi/thichminhchau/07-002-pham-tuy-mien.md",
+        "leftTitle": "Bhikkhu Sujato",
+        "rightTitle": "Tỳ Kheo Thích Minh Châu",
+        "notePath": "",
+        "backlink": {
+          "text": "I. Phẩm Tài Sản",
+          "link": "/kinhtangchi/c-sujato-tmc-en/07-001-pham-tai-san"
+        },
+        "nextlink": {
+          "text": "III. Phẩm Vajjì ( Bạt Kỳ)",
+          "link": "/kinhtangchi/c-sujato-tmc-en/07-003-pham-vajji-bat-ky"
+        }
+      }
+    }
+  },
+  {
+    "params": {
+      "slug": "07-003-pham-vajji-bat-ky",
+      "data": {
+        "title": "III. Phẩm Vajjì ( Bạt Kỳ)",
+        "left": "/kinhtangchi/sujato-en/07-003-the-chapter-on-the-vajji-seven.md",
+        "right": "/kinhtangchi/thichminhchau/07-003-pham-vajji-bat-ky.md",
+        "leftTitle": "Bhikkhu Sujato",
+        "rightTitle": "Tỳ Kheo Thích Minh Châu",
+        "notePath": "",
+        "backlink": {
+          "text": "II. Phẩm Tùy Miên",
+          "link": "/kinhtangchi/c-sujato-tmc-en/07-002-pham-tuy-mien"
+        },
+        "nextlink": {
+          "text": "IV. Phẩm Chư Thiên",
+          "link": "/kinhtangchi/c-sujato-tmc-en/07-004-pham-chu-thien"
+        }
+      }
+    }
+  },
+  {
+    "params": {
+      "slug": "07-004-pham-chu-thien",
+      "data": {
+        "title": "IV. Phẩm Chư Thiên",
+        "left": "/kinhtangchi/sujato-en/07-004-the-chapter-on-deities.md",
+        "right": "/kinhtangchi/thichminhchau/07-004-pham-chu-thien.md",
+        "leftTitle": "Bhikkhu Sujato",
+        "rightTitle": "Tỳ Kheo Thích Minh Châu",
+        "notePath": "",
+        "backlink": {
+          "text": "III. Phẩm Vajjì ( Bạt Kỳ)",
+          "link": "/kinhtangchi/c-sujato-tmc-en/07-003-pham-vajji-bat-ky"
+        },
+        "nextlink": {
+          "text": "V. Phẩm Ðại Tế Ðàn",
+          "link": "/kinhtangchi/c-sujato-tmc-en/07-005-pham-dai-te-dan"
+        }
+      }
+    }
+  },
+  {
+    "params": {
+      "slug": "07-005-pham-dai-te-dan",
+      "data": {
+        "title": "V. Phẩm Ðại Tế Ðàn",
+        "left": "/kinhtangchi/sujato-en/07-005-the-chapter-on-a-great-sacrifice.md",
+        "right": "/kinhtangchi/thichminhchau/07-005-pham-dai-te-dan.md",
+        "leftTitle": "Bhikkhu Sujato",
+        "rightTitle": "Tỳ Kheo Thích Minh Châu",
+        "notePath": "",
+        "backlink": {
+          "text": "IV. Phẩm Chư Thiên",
+          "link": "/kinhtangchi/c-sujato-tmc-en/07-004-pham-chu-thien"
+        },
+        "nextlink": {
+          "text": "VI. Phẩm Không Tuyên Bố",
+          "link": "/kinhtangchi/c-sujato-tmc-en/07-006-pham-khong-tuyen-bo"
+        }
+      }
+    }
+  },
+  {
+    "params": {
+      "slug": "07-006-pham-khong-tuyen-bo",
+      "data": {
+        "title": "VI. Phẩm Không Tuyên Bố",
+        "left": "/kinhtangchi/sujato-en/07-006-the-chapter-on-the-undeclared-points.md",
+        "right": "/kinhtangchi/thichminhchau/07-006-pham-khong-tuyen-bo.md",
+        "leftTitle": "Bhikkhu Sujato",
+        "rightTitle": "Tỳ Kheo Thích Minh Châu",
+        "notePath": "",
+        "backlink": {
+          "text": "V. Phẩm Ðại Tế Ðàn",
+          "link": "/kinhtangchi/c-sujato-tmc-en/07-005-pham-dai-te-dan"
+        },
+        "nextlink": {
+          "text": "VII. Ðại Phẩm",
+          "link": "/kinhtangchi/c-sujato-tmc-en/07-007-dai-pham"
+        }
+      }
+    }
+  },
+  {
+    "params": {
+      "slug": "07-007-dai-pham",
+      "data": {
+        "title": "VII. Ðại Phẩm",
+        "left": "/kinhtangchi/sujato-en/07-007-the-great-chapter.md",
+        "right": "/kinhtangchi/thichminhchau/07-007-dai-pham.md",
+        "leftTitle": "Bhikkhu Sujato",
+        "rightTitle": "Tỳ Kheo Thích Minh Châu",
+        "notePath": "",
+        "backlink": {
+          "text": "VI. Phẩm Không Tuyên Bố",
+          "link": "/kinhtangchi/c-sujato-tmc-en/07-006-pham-khong-tuyen-bo"
+        },
+        "nextlink": {
+          "text": "VIII. Phẩm Về Luật",
+          "link": "/kinhtangchi/c-sujato-tmc-en/07-008-pham-ve-luat"
+        }
+      }
+    }
+  },
+  {
+    "params": {
+      "slug": "07-008-pham-ve-luat",
+      "data": {
+        "title": "VIII. Phẩm Về Luật",
+        "left": "/kinhtangchi/sujato-en/07-008-the-chapter-on-the-monastic-law.md",
+        "right": "/kinhtangchi/thichminhchau/07-008-pham-ve-luat.md",
+        "leftTitle": "Bhikkhu Sujato",
+        "rightTitle": "Tỳ Kheo Thích Minh Châu",
+        "notePath": "",
+        "backlink": {
+          "text": "VII. Ðại Phẩm",
+          "link": "/kinhtangchi/c-sujato-tmc-en/07-007-dai-pham"
+        },
+        "nextlink": {
+          "text": "IX. Phẩm Các Kinh Không Nhiếp",
+          "link": "/kinhtangchi/c-sujato-tmc-en/07-009-pham-cac-kinh-khong-nhiep"
+        }
+      }
+    }
+  },
+  {
+    "params": {
+      "slug": "07-009-pham-cac-kinh-khong-nhiep",
+      "data": {
+        "title": "IX. Phẩm Các Kinh Không Nhiếp",
+        "left": "/kinhtangchi/sujato-en/07-009-the-chapter-on-ascetics.md",
+        "right": "/kinhtangchi/thichminhchau/07-009-pham-cac-kinh-khong-nhiep.md",
+        "leftTitle": "Bhikkhu Sujato",
+        "rightTitle": "Tỳ Kheo Thích Minh Châu",
+        "notePath": "",
+        "backlink": {
+          "text": "VIII. Phẩm Về Luật",
+          "link": "/kinhtangchi/c-sujato-tmc-en/07-008-pham-ve-luat"
+        },
+        "nextlink": {
+          "text": "CHƯƠNG VIII: CHƯƠNG TÁM PHÁP",
+          "link": "/kinhtangchi/c-sujato-tmc-en/08-000-chuong-8"
+        }
+      }
+    }
+  },
+  {
+    "params": {
+      "slug": "08-000-chuong-8",
+      "data": {
+        "title": "CHƯƠNG VIII: CHƯƠNG TÁM PHÁP",
+        "left": "/kinhtangchi/sujato-en/08-000-chapter-8.md",
+        "right": "/kinhtangchi/thichminhchau/08-000-chuong-8.md",
+        "leftTitle": "Bhikkhu Sujato",
+        "rightTitle": "Tỳ Kheo Thích Minh Châu",
+        "notePath": "",
+        "backlink": {
+          "text": "IX. Phẩm Các Kinh Không Nhiếp",
+          "link": "/kinhtangchi/c-sujato-tmc-en/07-009-pham-cac-kinh-khong-nhiep"
+        },
+        "nextlink": {
+          "text": "I. Phẩm Từ",
+          "link": "/kinhtangchi/c-sujato-tmc-en/08-001-pham-tu"
+        }
+      }
+    }
+  },
+  {
+    "params": {
+      "slug": "08-001-pham-tu",
+      "data": {
+        "title": "I. Phẩm Từ",
+        "left": "/kinhtangchi/sujato-en/08-001-the-chapter-on-love.md",
+        "right": "/kinhtangchi/thichminhchau/08-001-pham-tu.md",
+        "leftTitle": "Bhikkhu Sujato",
+        "rightTitle": "Tỳ Kheo Thích Minh Châu",
+        "notePath": "",
+        "backlink": {
+          "text": "CHƯƠNG VIII: CHƯƠNG TÁM PHÁP",
+          "link": "/kinhtangchi/c-sujato-tmc-en/08-000-chuong-8"
+        },
+        "nextlink": {
+          "text": "II. Phẩm Lớn",
+          "link": "/kinhtangchi/c-sujato-tmc-en/08-002-pham-lon"
+        }
+      }
+    }
+  },
+  {
+    "params": {
+      "slug": "08-002-pham-lon",
+      "data": {
+        "title": "II. Phẩm Lớn",
+        "left": "/kinhtangchi/sujato-en/08-002-the-great-chapter.md",
+        "right": "/kinhtangchi/thichminhchau/08-002-pham-lon.md",
+        "leftTitle": "Bhikkhu Sujato",
+        "rightTitle": "Tỳ Kheo Thích Minh Châu",
+        "notePath": "",
+        "backlink": {
+          "text": "I. Phẩm Từ",
+          "link": "/kinhtangchi/c-sujato-tmc-en/08-001-pham-tu"
+        },
+        "nextlink": {
+          "text": "III. Phẩm Gia Chủ",
+          "link": "/kinhtangchi/c-sujato-tmc-en/08-003-pham-gia-chu"
+        }
+      }
+    }
+  },
+  {
+    "params": {
+      "slug": "08-003-pham-gia-chu",
+      "data": {
+        "title": "III. Phẩm Gia Chủ",
+        "left": "/kinhtangchi/sujato-en/08-003-the-chapter-on-householders.md",
+        "right": "/kinhtangchi/thichminhchau/08-003-pham-gia-chu.md",
+        "leftTitle": "Bhikkhu Sujato",
+        "rightTitle": "Tỳ Kheo Thích Minh Châu",
+        "notePath": "",
+        "backlink": {
+          "text": "II. Phẩm Lớn",
+          "link": "/kinhtangchi/c-sujato-tmc-en/08-002-pham-lon"
+        },
+        "nextlink": {
+          "text": "IV. Phẩm Bố Thí",
+          "link": "/kinhtangchi/c-sujato-tmc-en/08-004-pham-bo-thi"
+        }
+      }
+    }
+  },
+  {
+    "params": {
+      "slug": "08-004-pham-bo-thi",
+      "data": {
+        "title": "IV. Phẩm Bố Thí",
+        "left": "/kinhtangchi/sujato-en/08-004-the-chapter-on-giving.md",
+        "right": "/kinhtangchi/thichminhchau/08-004-pham-bo-thi.md",
+        "leftTitle": "Bhikkhu Sujato",
+        "rightTitle": "Tỳ Kheo Thích Minh Châu",
+        "notePath": "",
+        "backlink": {
+          "text": "III. Phẩm Gia Chủ",
+          "link": "/kinhtangchi/c-sujato-tmc-en/08-003-pham-gia-chu"
+        },
+        "nextlink": {
+          "text": "V. Phẩm Ngày Trai Giới",
+          "link": "/kinhtangchi/c-sujato-tmc-en/08-005-pham-ngay-trai-gioi"
+        }
+      }
+    }
+  },
+  {
+    "params": {
+      "slug": "08-005-pham-ngay-trai-gioi",
+      "data": {
+        "title": "V. Phẩm Ngày Trai Giới",
+        "left": "/kinhtangchi/sujato-en/08-005-the-chapter-on-sabbath.md",
+        "right": "/kinhtangchi/thichminhchau/08-005-pham-ngay-trai-gioi.md",
+        "leftTitle": "Bhikkhu Sujato",
+        "rightTitle": "Tỳ Kheo Thích Minh Châu",
+        "notePath": "",
+        "backlink": {
+          "text": "IV. Phẩm Bố Thí",
+          "link": "/kinhtangchi/c-sujato-tmc-en/08-004-pham-bo-thi"
+        },
+        "nextlink": {
+          "text": "VI. Phẩm Gotamì",
+          "link": "/kinhtangchi/c-sujato-tmc-en/08-006-pham-gotami"
+        }
+      }
+    }
+  },
+  {
+    "params": {
+      "slug": "08-006-pham-gotami",
+      "data": {
+        "title": "VI. Phẩm Gotamì",
+        "left": "/kinhtangchi/sujato-en/08-006-the-chapter-on-gotami.md",
+        "right": "/kinhtangchi/thichminhchau/08-006-pham-gotami.md",
+        "leftTitle": "Bhikkhu Sujato",
+        "rightTitle": "Tỳ Kheo Thích Minh Châu",
+        "notePath": "",
+        "backlink": {
+          "text": "V. Phẩm Ngày Trai Giới",
+          "link": "/kinhtangchi/c-sujato-tmc-en/08-005-pham-ngay-trai-gioi"
+        },
+        "nextlink": {
+          "text": "VII. Phẩm Ðất Rung Ðộng",
+          "link": "/kinhtangchi/c-sujato-tmc-en/08-007-pham-dat-rung-dong"
+        }
+      }
+    }
+  },
+  {
+    "params": {
+      "slug": "08-007-pham-dat-rung-dong",
+      "data": {
+        "title": "VII. Phẩm Ðất Rung Ðộng",
+        "left": "/kinhtangchi/sujato-en/08-007-the-chapter-on-earthquakes.md",
+        "right": "/kinhtangchi/thichminhchau/08-007-pham-dat-rung-dong.md",
+        "leftTitle": "Bhikkhu Sujato",
+        "rightTitle": "Tỳ Kheo Thích Minh Châu",
+        "notePath": "",
+        "backlink": {
+          "text": "VI. Phẩm Gotamì",
+          "link": "/kinhtangchi/c-sujato-tmc-en/08-006-pham-gotami"
+        },
+        "nextlink": {
+          "text": "VIII. Phẩm Song Ðôi",
+          "link": "/kinhtangchi/c-sujato-tmc-en/08-008-pham-song-doi"
+        }
+      }
+    }
+  },
+  {
+    "params": {
+      "slug": "08-008-pham-song-doi",
+      "data": {
+        "title": "VIII. Phẩm Song Ðôi",
+        "left": "/kinhtangchi/sujato-en/08-008-the-chapter-on-pairs.md",
+        "right": "/kinhtangchi/thichminhchau/08-008-pham-song-doi.md",
+        "leftTitle": "Bhikkhu Sujato",
+        "rightTitle": "Tỳ Kheo Thích Minh Châu",
+        "notePath": "",
+        "backlink": {
+          "text": "VII. Phẩm Ðất Rung Ðộng",
+          "link": "/kinhtangchi/c-sujato-tmc-en/08-007-pham-dat-rung-dong"
+        },
+        "nextlink": {
+          "text": "IX. Phẩm Niệm",
+          "link": "/kinhtangchi/c-sujato-tmc-en/08-009-pham-niem"
+        }
+      }
+    }
+  },
+  {
+    "params": {
+      "slug": "08-009-pham-niem",
+      "data": {
+        "title": "IX. Phẩm Niệm",
+        "left": "/kinhtangchi/sujato-en/08-009-the-chapter-on-mindfulness.md",
+        "right": "/kinhtangchi/thichminhchau/08-009-pham-niem.md",
+        "leftTitle": "Bhikkhu Sujato",
+        "rightTitle": "Tỳ Kheo Thích Minh Châu",
+        "notePath": "",
+        "backlink": {
+          "text": "VIII. Phẩm Song Ðôi",
+          "link": "/kinhtangchi/c-sujato-tmc-en/08-008-pham-song-doi"
+        },
+        "nextlink": {
+          "text": "X. Phẩm Tham Ái",
+          "link": "/kinhtangchi/c-sujato-tmc-en/08-010-pham-tham-ai"
+        }
+      }
+    }
+  },
+  {
+    "params": {
+      "slug": "08-010-pham-tham-ai",
+      "data": {
+        "title": "X. Phẩm Tham Ái",
+        "left": "/kinhtangchi/sujato-en/08-010-the-chapter-on-similarity.md",
+        "right": "/kinhtangchi/thichminhchau/08-010-pham-tham-ai.md",
+        "leftTitle": "Bhikkhu Sujato",
+        "rightTitle": "Tỳ Kheo Thích Minh Châu",
+        "notePath": "",
+        "backlink": {
+          "text": "IX. Phẩm Niệm",
+          "link": "/kinhtangchi/c-sujato-tmc-en/08-009-pham-niem"
+        },
+        "nextlink": {
+          "text": "CHƯƠNG IX: CHƯƠNG CHÍN PHÁP",
+          "link": "/kinhtangchi/c-sujato-tmc-en/09-000-chuong-9"
+        }
+      }
+    }
+  },
+  {
+    "params": {
+      "slug": "09-000-chuong-9",
+      "data": {
+        "title": "CHƯƠNG IX: CHƯƠNG CHÍN PHÁP",
+        "left": "/kinhtangchi/sujato-en/09-000-chapter-9.md",
+        "right": "/kinhtangchi/thichminhchau/09-000-chuong-9.md",
+        "leftTitle": "Bhikkhu Sujato",
+        "rightTitle": "Tỳ Kheo Thích Minh Châu",
+        "notePath": "",
+        "backlink": {
+          "text": "X. Phẩm Tham Ái",
+          "link": "/kinhtangchi/c-sujato-tmc-en/08-010-pham-tham-ai"
+        },
+        "nextlink": {
+          "text": "I. Phẩm Chánh Giác",
+          "link": "/kinhtangchi/c-sujato-tmc-en/09-001-pham-chanh-giac"
+        }
+      }
+    }
+  },
+  {
+    "params": {
+      "slug": "09-001-pham-chanh-giac",
+      "data": {
+        "title": "I. Phẩm Chánh Giác",
+        "left": "/kinhtangchi/sujato-en/09-001-the-chapter-on-awakening.md",
+        "right": "/kinhtangchi/thichminhchau/09-001-pham-chanh-giac.md",
+        "leftTitle": "Bhikkhu Sujato",
+        "rightTitle": "Tỳ Kheo Thích Minh Châu",
+        "notePath": "",
+        "backlink": {
+          "text": "CHƯƠNG IX: CHƯƠNG CHÍN PHÁP",
+          "link": "/kinhtangchi/c-sujato-tmc-en/09-000-chuong-9"
+        },
+        "nextlink": {
+          "text": "II. Phẩm Tiếng Rống Con Sư Tử",
+          "link": "/kinhtangchi/c-sujato-tmc-en/09-002-pham-tieng-rong-con-su-tu"
+        }
+      }
+    }
+  },
+  {
+    "params": {
+      "slug": "09-002-pham-tieng-rong-con-su-tu",
+      "data": {
+        "title": "II. Phẩm Tiếng Rống Con Sư Tử",
+        "left": "/kinhtangchi/sujato-en/09-002-the-chapter-on-the-lion-s-roar.md",
+        "right": "/kinhtangchi/thichminhchau/09-002-pham-tieng-rong-con-su-tu.md",
+        "leftTitle": "Bhikkhu Sujato",
+        "rightTitle": "Tỳ Kheo Thích Minh Châu",
+        "notePath": "",
+        "backlink": {
+          "text": "I. Phẩm Chánh Giác",
+          "link": "/kinhtangchi/c-sujato-tmc-en/09-001-pham-chanh-giac"
+        },
+        "nextlink": {
+          "text": "III. Phẩm Chỗ Cư Trú Của Hữu Tình",
+          "link": "/kinhtangchi/c-sujato-tmc-en/09-003-pham-cho-cu-tru-cua-huu-tinh"
+        }
+      }
+    }
+  },
+  {
+    "params": {
+      "slug": "09-003-pham-cho-cu-tru-cua-huu-tinh",
+      "data": {
+        "title": "III. Phẩm Chỗ Cư Trú Của Hữu Tình",
+        "left": "/kinhtangchi/sujato-en/09-003-the-chapter-on-abodes-of-sentient-beings.md",
+        "right": "/kinhtangchi/thichminhchau/09-003-pham-cho-cu-tru-cua-huu-tinh.md",
+        "leftTitle": "Bhikkhu Sujato",
+        "rightTitle": "Tỳ Kheo Thích Minh Châu",
+        "notePath": "",
+        "backlink": {
+          "text": "II. Phẩm Tiếng Rống Con Sư Tử",
+          "link": "/kinhtangchi/c-sujato-tmc-en/09-002-pham-tieng-rong-con-su-tu"
+        },
+        "nextlink": {
+          "text": "IV. Ðại Phẩm",
+          "link": "/kinhtangchi/c-sujato-tmc-en/09-004-dai-pham"
+        }
+      }
+    }
+  },
+  {
+    "params": {
+      "slug": "09-004-dai-pham",
+      "data": {
+        "title": "IV. Ðại Phẩm",
+        "left": "/kinhtangchi/sujato-en/09-004-the-great-chapter.md",
+        "right": "/kinhtangchi/thichminhchau/09-004-dai-pham.md",
+        "leftTitle": "Bhikkhu Sujato",
+        "rightTitle": "Tỳ Kheo Thích Minh Châu",
+        "notePath": "",
+        "backlink": {
+          "text": "III. Phẩm Chỗ Cư Trú Của Hữu Tình",
+          "link": "/kinhtangchi/c-sujato-tmc-en/09-003-pham-cho-cu-tru-cua-huu-tinh"
+        },
+        "nextlink": {
+          "text": "V. Phẩm Pancala",
+          "link": "/kinhtangchi/c-sujato-tmc-en/09-005-pham-pancala"
+        }
+      }
+    }
+  },
+  {
+    "params": {
+      "slug": "09-005-pham-pancala",
+      "data": {
+        "title": "V. Phẩm Pancala",
+        "left": "/kinhtangchi/sujato-en/09-005-the-chapter-on-similarity.md",
+        "right": "/kinhtangchi/thichminhchau/09-005-pham-pancala.md",
+        "leftTitle": "Bhikkhu Sujato",
+        "rightTitle": "Tỳ Kheo Thích Minh Châu",
+        "notePath": "",
+        "backlink": {
+          "text": "IV. Ðại Phẩm",
+          "link": "/kinhtangchi/c-sujato-tmc-en/09-004-dai-pham"
+        },
+        "nextlink": {
+          "text": "VI. Phẩm An Ổn",
+          "link": "/kinhtangchi/c-sujato-tmc-en/09-006-pham-an-on"
+        }
+      }
+    }
+  },
+  {
+    "params": {
+      "slug": "09-006-pham-an-on",
+      "data": {
+        "title": "VI. Phẩm An Ổn",
+        "left": "/kinhtangchi/sujato-en/09-006-the-chapter-on-a-safe-place.md",
+        "right": "/kinhtangchi/thichminhchau/09-006-pham-an-on.md",
+        "leftTitle": "Bhikkhu Sujato",
+        "rightTitle": "Tỳ Kheo Thích Minh Châu",
+        "notePath": "",
+        "backlink": {
+          "text": "V. Phẩm Pancala",
+          "link": "/kinhtangchi/c-sujato-tmc-en/09-005-pham-pancala"
+        },
+        "nextlink": {
+          "text": "VII. Phẩm Niệm Xứ",
+          "link": "/kinhtangchi/c-sujato-tmc-en/09-007-pham-niem-xu"
+        }
+      }
+    }
+  },
+  {
+    "params": {
+      "slug": "09-007-pham-niem-xu",
+      "data": {
+        "title": "VII. Phẩm Niệm Xứ",
+        "left": "/kinhtangchi/sujato-en/09-007-the-chapter-on-mindfulness-meditation.md",
+        "right": "/kinhtangchi/thichminhchau/09-007-pham-niem-xu.md",
+        "leftTitle": "Bhikkhu Sujato",
+        "rightTitle": "Tỳ Kheo Thích Minh Châu",
+        "notePath": "",
+        "backlink": {
+          "text": "VI. Phẩm An Ổn",
+          "link": "/kinhtangchi/c-sujato-tmc-en/09-006-pham-an-on"
+        },
+        "nextlink": {
+          "text": "VIII. Phẩm Chánh Cần",
+          "link": "/kinhtangchi/c-sujato-tmc-en/09-008-pham-chanh-can"
+        }
+      }
+    }
+  },
+  {
+    "params": {
+      "slug": "09-008-pham-chanh-can",
+      "data": {
+        "title": "VIII. Phẩm Chánh Cần",
+        "left": "/kinhtangchi/sujato-en/09-008-the-chapter-on-right-efforts.md",
+        "right": "/kinhtangchi/thichminhchau/09-008-pham-chanh-can.md",
+        "leftTitle": "Bhikkhu Sujato",
+        "rightTitle": "Tỳ Kheo Thích Minh Châu",
+        "notePath": "",
+        "backlink": {
+          "text": "VII. Phẩm Niệm Xứ",
+          "link": "/kinhtangchi/c-sujato-tmc-en/09-007-pham-niem-xu"
+        },
+        "nextlink": {
+          "text": "IX. Phẩm Bốn Như Ý Túc",
+          "link": "/kinhtangchi/c-sujato-tmc-en/09-009-pham-bon-nhu-y-tuc"
+        }
+      }
+    }
+  },
+  {
+    "params": {
+      "slug": "09-009-pham-bon-nhu-y-tuc",
+      "data": {
+        "title": "IX. Phẩm Bốn Như Ý Túc",
+        "left": "/kinhtangchi/sujato-en/09-009-the-chapter-on-bases-of-psychic-power.md",
+        "right": "/kinhtangchi/thichminhchau/09-009-pham-bon-nhu-y-tuc.md",
+        "leftTitle": "Bhikkhu Sujato",
+        "rightTitle": "Tỳ Kheo Thích Minh Châu",
+        "notePath": "",
+        "backlink": {
+          "text": "VIII. Phẩm Chánh Cần",
+          "link": "/kinhtangchi/c-sujato-tmc-en/09-008-pham-chanh-can"
+        },
+        "nextlink": {
+          "text": "X. Phẩm Tham",
+          "link": "/kinhtangchi/c-sujato-tmc-en/09-010-pham-tham"
+        }
+      }
+    }
+  },
+  {
+    "params": {
+      "slug": "09-010-pham-tham",
+      "data": {
+        "title": "X. Phẩm Tham",
+        "left": "/kinhtangchi/sujato-en/09-010-the-chapter-on-bases-of-psychic-power2.md",
+        "right": "/kinhtangchi/thichminhchau/09-010-pham-tham.md",
+        "leftTitle": "Bhikkhu Sujato",
+        "rightTitle": "Tỳ Kheo Thích Minh Châu",
+        "notePath": "",
+        "backlink": {
+          "text": "IX. Phẩm Bốn Như Ý Túc",
+          "link": "/kinhtangchi/c-sujato-tmc-en/09-009-pham-bon-nhu-y-tuc"
+        },
+        "nextlink": {
+          "text": "CHƯƠNG X: CHƯƠNG MƯỜI PHÁP",
+          "link": "/kinhtangchi/c-sujato-tmc-en/10-000-chuong-10"
+        }
+      }
+    }
+  },
+  {
+    "params": {
+      "slug": "10-000-chuong-10",
+      "data": {
+        "title": "CHƯƠNG X: CHƯƠNG MƯỜI PHÁP",
+        "left": "/kinhtangchi/sujato-en/10-000-chapter-10.md",
+        "right": "/kinhtangchi/thichminhchau/10-000-chuong-10.md",
+        "leftTitle": "Bhikkhu Sujato",
+        "rightTitle": "Tỳ Kheo Thích Minh Châu",
+        "notePath": "",
+        "backlink": {
+          "text": "X. Phẩm Tham",
+          "link": "/kinhtangchi/c-sujato-tmc-en/09-010-pham-tham"
+        },
+        "nextlink": {
+          "text": "I. Phẩm Lợi Ích",
+          "link": "/kinhtangchi/c-sujato-tmc-en/10-001-pham-loi-ich"
+        }
+      }
+    }
+  },
+  {
+    "params": {
+      "slug": "10-001-pham-loi-ich",
+      "data": {
+        "title": "I. Phẩm Lợi Ích",
+        "left": "/kinhtangchi/sujato-en/10-001-the-chapter-on-benefits.md",
+        "right": "/kinhtangchi/thichminhchau/10-001-pham-loi-ich.md",
+        "leftTitle": "Bhikkhu Sujato",
+        "rightTitle": "Tỳ Kheo Thích Minh Châu",
+        "notePath": "",
+        "backlink": {
+          "text": "CHƯƠNG X: CHƯƠNG MƯỜI PHÁP",
+          "link": "/kinhtangchi/c-sujato-tmc-en/10-000-chuong-10"
+        },
+        "nextlink": {
+          "text": "II. Phẩm Hộ Trì",
+          "link": "/kinhtangchi/c-sujato-tmc-en/10-002-pham-ho-tri"
+        }
+      }
+    }
+  },
+  {
+    "params": {
+      "slug": "10-002-pham-ho-tri",
+      "data": {
+        "title": "II. Phẩm Hộ Trì",
+        "left": "/kinhtangchi/sujato-en/10-002-the-chapter-on-a-protector.md",
+        "right": "/kinhtangchi/thichminhchau/10-002-pham-ho-tri.md",
+        "leftTitle": "Bhikkhu Sujato",
+        "rightTitle": "Tỳ Kheo Thích Minh Châu",
+        "notePath": "",
+        "backlink": {
+          "text": "I. Phẩm Lợi Ích",
+          "link": "/kinhtangchi/c-sujato-tmc-en/10-001-pham-loi-ich"
+        },
+        "nextlink": {
+          "text": "III. Phẩm Lớn",
+          "link": "/kinhtangchi/c-sujato-tmc-en/10-003-pham-lon"
+        }
+      }
+    }
+  },
+  {
+    "params": {
+      "slug": "10-003-pham-lon",
+      "data": {
+        "title": "III. Phẩm Lớn",
+        "left": "/kinhtangchi/sujato-en/10-003-the-great-chapter.md",
+        "right": "/kinhtangchi/thichminhchau/10-003-pham-lon.md",
+        "leftTitle": "Bhikkhu Sujato",
+        "rightTitle": "Tỳ Kheo Thích Minh Châu",
+        "notePath": "",
+        "backlink": {
+          "text": "II. Phẩm Hộ Trì",
+          "link": "/kinhtangchi/c-sujato-tmc-en/10-002-pham-ho-tri"
+        },
+        "nextlink": {
+          "text": "IV. Phẩm Upàli Và Ananda",
+          "link": "/kinhtangchi/c-sujato-tmc-en/10-004-pham-upali-va-ananda"
+        }
+      }
+    }
+  },
+  {
+    "params": {
+      "slug": "10-004-pham-upali-va-ananda",
+      "data": {
+        "title": "IV. Phẩm Upàli Và Ananda",
+        "left": "/kinhtangchi/sujato-en/10-004-the-chapter-with-upali.md",
+        "right": "/kinhtangchi/thichminhchau/10-004-pham-upali-va-ananda.md",
+        "leftTitle": "Bhikkhu Sujato",
+        "rightTitle": "Tỳ Kheo Thích Minh Châu",
+        "notePath": "",
+        "backlink": {
+          "text": "III. Phẩm Lớn",
+          "link": "/kinhtangchi/c-sujato-tmc-en/10-003-pham-lon"
+        },
+        "nextlink": {
+          "text": "V. Phẩm Mắng Nhiếc",
+          "link": "/kinhtangchi/c-sujato-tmc-en/10-005-pham-mang-nhiec"
+        }
+      }
+    }
+  },
+  {
+    "params": {
+      "slug": "10-005-pham-mang-nhiec",
+      "data": {
+        "title": "V. Phẩm Mắng Nhiếc",
+        "left": "/kinhtangchi/sujato-en/10-005-the-chapter-on-abuse.md",
+        "right": "/kinhtangchi/thichminhchau/10-005-pham-mang-nhiec.md",
+        "leftTitle": "Bhikkhu Sujato",
+        "rightTitle": "Tỳ Kheo Thích Minh Châu",
+        "notePath": "",
+        "backlink": {
+          "text": "IV. Phẩm Upàli Và Ananda",
+          "link": "/kinhtangchi/c-sujato-tmc-en/10-004-pham-upali-va-ananda"
+        },
+        "nextlink": {
+          "text": "VI. Phẩm Tâm Của Mình",
+          "link": "/kinhtangchi/c-sujato-tmc-en/10-006-pham-tam-cua-minh"
+        }
+      }
+    }
+  },
+  {
+    "params": {
+      "slug": "10-006-pham-tam-cua-minh",
+      "data": {
+        "title": "VI. Phẩm Tâm Của Mình",
+        "left": "/kinhtangchi/sujato-en/10-006-the-chapter-on-your-own-mind.md",
+        "right": "/kinhtangchi/thichminhchau/10-006-pham-tam-cua-minh.md",
+        "leftTitle": "Bhikkhu Sujato",
+        "rightTitle": "Tỳ Kheo Thích Minh Châu",
+        "notePath": "",
+        "backlink": {
+          "text": "V. Phẩm Mắng Nhiếc",
+          "link": "/kinhtangchi/c-sujato-tmc-en/10-005-pham-mang-nhiec"
+        },
+        "nextlink": {
+          "text": "VII. Phẩm Song Ðôi",
+          "link": "/kinhtangchi/c-sujato-tmc-en/10-007-pham-song-doi"
+        }
+      }
+    }
+  },
+  {
+    "params": {
+      "slug": "10-007-pham-song-doi",
+      "data": {
+        "title": "VII. Phẩm Song Ðôi",
+        "left": "/kinhtangchi/sujato-en/10-007-the-chapter-on-pairs.md",
+        "right": "/kinhtangchi/thichminhchau/10-007-pham-song-doi.md",
+        "leftTitle": "Bhikkhu Sujato",
+        "rightTitle": "Tỳ Kheo Thích Minh Châu",
+        "notePath": "",
+        "backlink": {
+          "text": "VI. Phẩm Tâm Của Mình",
+          "link": "/kinhtangchi/c-sujato-tmc-en/10-006-pham-tam-cua-minh"
+        },
+        "nextlink": {
+          "text": "VIII. Phẩm Ước Nguyện",
+          "link": "/kinhtangchi/c-sujato-tmc-en/10-008-pham-uoc-nguyen"
+        }
+      }
+    }
+  },
+  {
+    "params": {
+      "slug": "10-008-pham-uoc-nguyen",
+      "data": {
+        "title": "VIII. Phẩm Ước Nguyện",
+        "left": "/kinhtangchi/sujato-en/10-008-the-chapter-on-if-you-want.md",
+        "right": "/kinhtangchi/thichminhchau/10-008-pham-uoc-nguyen.md",
+        "leftTitle": "Bhikkhu Sujato",
+        "rightTitle": "Tỳ Kheo Thích Minh Châu",
+        "notePath": "",
+        "backlink": {
+          "text": "VII. Phẩm Song Ðôi",
+          "link": "/kinhtangchi/c-sujato-tmc-en/10-007-pham-song-doi"
+        },
+        "nextlink": {
+          "text": "IX. Phẩm Trưởng Lão",
+          "link": "/kinhtangchi/c-sujato-tmc-en/10-009-pham-truong-lao"
+        }
+      }
+    }
+  },
+  {
+    "params": {
+      "slug": "10-009-pham-truong-lao",
+      "data": {
+        "title": "IX. Phẩm Trưởng Lão",
+        "left": "/kinhtangchi/sujato-en/10-009-the-chapter-on-senior-mendicants.md",
+        "right": "/kinhtangchi/thichminhchau/10-009-pham-truong-lao.md",
+        "leftTitle": "Bhikkhu Sujato",
+        "rightTitle": "Tỳ Kheo Thích Minh Châu",
+        "notePath": "",
+        "backlink": {
+          "text": "VIII. Phẩm Ước Nguyện",
+          "link": "/kinhtangchi/c-sujato-tmc-en/10-008-pham-uoc-nguyen"
+        },
+        "nextlink": {
+          "text": "X. Phẩm Nam Cư Sĩ",
+          "link": "/kinhtangchi/c-sujato-tmc-en/10-010-pham-nam-cu-si"
+        }
+      }
+    }
+  },
+  {
+    "params": {
+      "slug": "10-010-pham-nam-cu-si",
+      "data": {
+        "title": "X. Phẩm Nam Cư Sĩ",
+        "left": "/kinhtangchi/sujato-en/10-010-the-chapter-with-upali.md",
+        "right": "/kinhtangchi/thichminhchau/10-010-pham-nam-cu-si.md",
+        "leftTitle": "Bhikkhu Sujato",
+        "rightTitle": "Tỳ Kheo Thích Minh Châu",
+        "notePath": "",
+        "backlink": {
+          "text": "IX. Phẩm Trưởng Lão",
+          "link": "/kinhtangchi/c-sujato-tmc-en/10-009-pham-truong-lao"
+        },
+        "nextlink": {
+          "text": "XI. Phẩm Sa Môn Tưởng",
+          "link": "/kinhtangchi/c-sujato-tmc-en/10-011-pham-sa-mon-tuong"
+        }
+      }
+    }
+  },
+  {
+    "params": {
+      "slug": "10-011-pham-sa-mon-tuong",
+      "data": {
+        "title": "XI. Phẩm Sa Môn Tưởng",
+        "left": "/kinhtangchi/sujato-en/10-011-the-chapter-on-perceptions-for-ascetics.md",
+        "right": "/kinhtangchi/thichminhchau/10-011-pham-sa-mon-tuong.md",
+        "leftTitle": "Bhikkhu Sujato",
+        "rightTitle": "Tỳ Kheo Thích Minh Châu",
+        "notePath": "",
+        "backlink": {
+          "text": "X. Phẩm Nam Cư Sĩ",
+          "link": "/kinhtangchi/c-sujato-tmc-en/10-010-pham-nam-cu-si"
+        },
+        "nextlink": {
+          "text": "XII. Phẩm Ði Xuống",
+          "link": "/kinhtangchi/c-sujato-tmc-en/10-012-pham-di-xuong"
+        }
+      }
+    }
+  },
+  {
+    "params": {
+      "slug": "10-012-pham-di-xuong",
+      "data": {
+        "title": "XII. Phẩm Ði Xuống",
+        "left": "/kinhtangchi/sujato-en/10-012-the-chapter-on-the-ceremony-of-descent.md",
+        "right": "/kinhtangchi/thichminhchau/10-012-pham-di-xuong.md",
+        "leftTitle": "Bhikkhu Sujato",
+        "rightTitle": "Tỳ Kheo Thích Minh Châu",
+        "notePath": "",
+        "backlink": {
+          "text": "XI. Phẩm Sa Môn Tưởng",
+          "link": "/kinhtangchi/c-sujato-tmc-en/10-011-pham-sa-mon-tuong"
+        },
+        "nextlink": {
+          "text": "XIII. Phẩm Thanh Tịnh",
+          "link": "/kinhtangchi/c-sujato-tmc-en/10-013-pham-thanh-tinh"
+        }
+      }
+    }
+  },
+  {
+    "params": {
+      "slug": "10-013-pham-thanh-tinh",
+      "data": {
+        "title": "XIII. Phẩm Thanh Tịnh",
+        "left": "/kinhtangchi/sujato-en/10-013-the-chapter-on-purified.md",
+        "right": "/kinhtangchi/thichminhchau/10-013-pham-thanh-tinh.md",
+        "leftTitle": "Bhikkhu Sujato",
+        "rightTitle": "Tỳ Kheo Thích Minh Châu",
+        "notePath": "",
+        "backlink": {
+          "text": "XII. Phẩm Ði Xuống",
+          "link": "/kinhtangchi/c-sujato-tmc-en/10-012-pham-di-xuong"
+        },
+        "nextlink": {
+          "text": "XIV. Phẩm Thiện Lương",
+          "link": "/kinhtangchi/c-sujato-tmc-en/10-014-pham-thien-luong"
+        }
+      }
+    }
+  },
+  {
+    "params": {
+      "slug": "10-014-pham-thien-luong",
+      "data": {
+        "title": "XIV. Phẩm Thiện Lương",
+        "left": "/kinhtangchi/sujato-en/10-014-the-chapter-on-good.md",
+        "right": "/kinhtangchi/thichminhchau/10-014-pham-thien-luong.md",
+        "leftTitle": "Bhikkhu Sujato",
+        "rightTitle": "Tỳ Kheo Thích Minh Châu",
+        "notePath": "",
+        "backlink": {
+          "text": "XIII. Phẩm Thanh Tịnh",
+          "link": "/kinhtangchi/c-sujato-tmc-en/10-013-pham-thanh-tinh"
+        },
+        "nextlink": {
+          "text": "XV. Phẩm Thánh Ðạo",
+          "link": "/kinhtangchi/c-sujato-tmc-en/10-015-pham-thanh-dao"
+        }
+      }
+    }
+  },
+  {
+    "params": {
+      "slug": "10-015-pham-thanh-dao",
+      "data": {
+        "title": "XV. Phẩm Thánh Ðạo",
+        "left": "/kinhtangchi/sujato-en/10-015-the-chapter-on-the-noble-path.md",
+        "right": "/kinhtangchi/thichminhchau/10-015-pham-thanh-dao.md",
+        "leftTitle": "Bhikkhu Sujato",
+        "rightTitle": "Tỳ Kheo Thích Minh Châu",
+        "notePath": "",
+        "backlink": {
+          "text": "XIV. Phẩm Thiện Lương",
+          "link": "/kinhtangchi/c-sujato-tmc-en/10-014-pham-thien-luong"
+        },
+        "nextlink": {
+          "text": "XVI. Phẩm Người",
+          "link": "/kinhtangchi/c-sujato-tmc-en/10-016-pham-nguoi"
+        }
+      }
+    }
+  },
+  {
+    "params": {
+      "slug": "10-016-pham-nguoi",
+      "data": {
+        "title": "XVI. Phẩm Người",
+        "left": "/kinhtangchi/sujato-en/10-016-the-chapter-on-persons.md",
+        "right": "/kinhtangchi/thichminhchau/10-016-pham-nguoi.md",
+        "leftTitle": "Bhikkhu Sujato",
+        "rightTitle": "Tỳ Kheo Thích Minh Châu",
+        "notePath": "",
+        "backlink": {
+          "text": "XV. Phẩm Thánh Ðạo",
+          "link": "/kinhtangchi/c-sujato-tmc-en/10-015-pham-thanh-dao"
+        },
+        "nextlink": {
+          "text": "XVII. Phẩm Jànussoni",
+          "link": "/kinhtangchi/c-sujato-tmc-en/10-017-pham-janussoni"
+        }
+      }
+    }
+  },
+  {
+    "params": {
+      "slug": "10-017-pham-janussoni",
+      "data": {
+        "title": "XVII. Phẩm Jànussoni",
+        "left": "/kinhtangchi/sujato-en/10-017-the-chapter-with-janussoni.md",
+        "right": "/kinhtangchi/thichminhchau/10-017-pham-janussoni.md",
+        "leftTitle": "Bhikkhu Sujato",
+        "rightTitle": "Tỳ Kheo Thích Minh Châu",
+        "notePath": "",
+        "backlink": {
+          "text": "XVI. Phẩm Người",
+          "link": "/kinhtangchi/c-sujato-tmc-en/10-016-pham-nguoi"
+        },
+        "nextlink": {
+          "text": "XVIII. Phẩm Thiện Lương",
+          "link": "/kinhtangchi/c-sujato-tmc-en/10-018-pham-thien-luong"
+        }
+      }
+    }
+  },
+  {
+    "params": {
+      "slug": "10-018-pham-thien-luong",
+      "data": {
+        "title": "XVIII. Phẩm Thiện Lương",
+        "left": "/kinhtangchi/sujato-en/10-018-the-chapter-on-good.md",
+        "right": "/kinhtangchi/thichminhchau/10-018-pham-thien-luong.md",
+        "leftTitle": "Bhikkhu Sujato",
+        "rightTitle": "Tỳ Kheo Thích Minh Châu",
+        "notePath": "",
+        "backlink": {
+          "text": "XVII. Phẩm Jànussoni",
+          "link": "/kinhtangchi/c-sujato-tmc-en/10-017-pham-janussoni"
+        },
+        "nextlink": {
+          "text": "XIX. Phẩm Thánh Ðạo",
+          "link": "/kinhtangchi/c-sujato-tmc-en/10-019-pham-thanh-dao"
+        }
+      }
+    }
+  },
+  {
+    "params": {
+      "slug": "10-019-pham-thanh-dao",
+      "data": {
+        "title": "XIX. Phẩm Thánh Ðạo",
+        "left": "/kinhtangchi/sujato-en/10-019-the-chapter-on-the-noble-path.md",
+        "right": "/kinhtangchi/thichminhchau/10-019-pham-thanh-dao.md",
+        "leftTitle": "Bhikkhu Sujato",
+        "rightTitle": "Tỳ Kheo Thích Minh Châu",
+        "notePath": "",
+        "backlink": {
+          "text": "XVIII. Phẩm Thiện Lương",
+          "link": "/kinhtangchi/c-sujato-tmc-en/10-018-pham-thien-luong"
+        },
+        "nextlink": {
+          "text": "XX. Phẩm Các Hạng Người",
+          "link": "/kinhtangchi/c-sujato-tmc-en/10-020-pham-cac-hang-nguoi"
+        }
+      }
+    }
+  },
+  {
+    "params": {
+      "slug": "10-020-pham-cac-hang-nguoi",
+      "data": {
+        "title": "XX. Phẩm Các Hạng Người",
+        "left": "/kinhtangchi/sujato-en/10-020-another-chapter-on-persons.md",
+        "right": "/kinhtangchi/thichminhchau/10-020-pham-cac-hang-nguoi.md",
+        "leftTitle": "Bhikkhu Sujato",
+        "rightTitle": "Tỳ Kheo Thích Minh Châu",
+        "notePath": "",
+        "backlink": {
+          "text": "XIX. Phẩm Thánh Ðạo",
+          "link": "/kinhtangchi/c-sujato-tmc-en/10-019-pham-thanh-dao"
+        },
+        "nextlink": {
+          "text": "XXI. Phẩm Thân Do Nghiệp Sanh",
+          "link": "/kinhtangchi/c-sujato-tmc-en/10-021-pham-than-do-nghiep-sanh"
+        }
+      }
+    }
+  },
+  {
+    "params": {
+      "slug": "10-021-pham-than-do-nghiep-sanh",
+      "data": {
+        "title": "XXI. Phẩm Thân Do Nghiệp Sanh",
+        "left": "/kinhtangchi/sujato-en/10-021-the-chapter-on-the-body-born-of-deeds.md",
+        "right": "/kinhtangchi/thichminhchau/10-021-pham-than-do-nghiep-sanh.md",
+        "leftTitle": "Bhikkhu Sujato",
+        "rightTitle": "Tỳ Kheo Thích Minh Châu",
+        "notePath": "",
+        "backlink": {
+          "text": "XX. Phẩm Các Hạng Người",
+          "link": "/kinhtangchi/c-sujato-tmc-en/10-020-pham-cac-hang-nguoi"
+        },
+        "nextlink": {
+          "text": "XXII. Phẩm Không Có Ðầu Ðề",
+          "link": "/kinhtangchi/c-sujato-tmc-en/10-022-pham-khong-co-dau-de"
+        }
+      }
+    }
+  },
+  {
+    "params": {
+      "slug": "10-022-pham-khong-co-dau-de",
+      "data": {
+        "title": "XXII. Phẩm Không Có Ðầu Ðề",
+        "left": "/kinhtangchi/sujato-en/10-022-the-chapter-on-similarity.md",
+        "right": "/kinhtangchi/thichminhchau/10-022-pham-khong-co-dau-de.md",
+        "leftTitle": "Bhikkhu Sujato",
+        "rightTitle": "Tỳ Kheo Thích Minh Châu",
+        "notePath": "",
+        "backlink": {
+          "text": "XXI. Phẩm Thân Do Nghiệp Sanh",
+          "link": "/kinhtangchi/c-sujato-tmc-en/10-021-pham-than-do-nghiep-sanh"
+        },
+        "nextlink": {
+          "text": "CHƯƠNG XI: CHƯƠNG MƯỜI MỘT PHÁP",
+          "link": "/kinhtangchi/c-sujato-tmc-en/11-000-chuong-11"
+        }
+      }
+    }
+  },
+  {
+    "params": {
+      "slug": "11-000-chuong-11",
+      "data": {
+        "title": "CHƯƠNG XI: CHƯƠNG MƯỜI MỘT PHÁP",
+        "left": "/kinhtangchi/sujato-en/11-000-chapter-11.md",
+        "right": "/kinhtangchi/thichminhchau/11-000-chuong-11.md",
+        "leftTitle": "Bhikkhu Sujato",
+        "rightTitle": "Tỳ Kheo Thích Minh Châu",
+        "notePath": "",
+        "backlink": {
+          "text": "XXII. Phẩm Không Có Ðầu Ðề",
+          "link": "/kinhtangchi/c-sujato-tmc-en/10-022-pham-khong-co-dau-de"
+        },
+        "nextlink": {
+          "text": "I. Phẩm Y Chỉ",
+          "link": "/kinhtangchi/c-sujato-tmc-en/11-001-pham-y-chi"
+        }
+      }
+    }
+  },
+  {
+    "params": {
+      "slug": "11-001-pham-y-chi",
+      "data": {
+        "title": "I. Phẩm Y Chỉ",
+        "left": "/kinhtangchi/sujato-en/11-001-the-chapter-on-dependence.md",
+        "right": "/kinhtangchi/thichminhchau/11-001-pham-y-chi.md",
+        "leftTitle": "Bhikkhu Sujato",
+        "rightTitle": "Tỳ Kheo Thích Minh Châu",
+        "notePath": "",
+        "backlink": {
+          "text": "CHƯƠNG XI: CHƯƠNG MƯỜI MỘT PHÁP",
+          "link": "/kinhtangchi/c-sujato-tmc-en/11-000-chuong-11"
+        },
+        "nextlink": {
+          "text": "II. Phẩm Tùy Niệm",
+          "link": "/kinhtangchi/c-sujato-tmc-en/11-002-pham-tuy-niem"
+        }
+      }
+    }
+  },
+  {
+    "params": {
+      "slug": "11-002-pham-tuy-niem",
+      "data": {
+        "title": "II. Phẩm Tùy Niệm",
+        "left": "/kinhtangchi/sujato-en/11-002-the-chapter-on-recollection.md",
+        "right": "/kinhtangchi/thichminhchau/11-002-pham-tuy-niem.md",
+        "leftTitle": "Bhikkhu Sujato",
+        "rightTitle": "Tỳ Kheo Thích Minh Châu",
+        "notePath": "",
+        "backlink": {
+          "text": "I. Phẩm Y Chỉ",
+          "link": "/kinhtangchi/c-sujato-tmc-en/11-001-pham-y-chi"
+        },
+        "nextlink": {
+          "text": "III. Phẩm Ba: Tổng Kết",
+          "link": "/kinhtangchi/c-sujato-tmc-en/11-003-pham-ba-tong-ket"
+        }
+      }
+    }
+  },
+  {
+    "params": {
+      "slug": "11-003-pham-ba-tong-ket",
+      "data": {
+        "title": "III. Phẩm Ba: Tổng Kết",
+        "left": "/kinhtangchi/sujato-en/11-003-the-chapter-on-similarity.md",
+        "right": "/kinhtangchi/thichminhchau/11-003-pham-ba-tong-ket.md",
+        "leftTitle": "Bhikkhu Sujato",
+        "rightTitle": "Tỳ Kheo Thích Minh Châu",
+        "notePath": "",
+        "backlink": {
+          "text": "II. Phẩm Tùy Niệm",
+          "link": "/kinhtangchi/c-sujato-tmc-en/11-002-pham-tuy-niem"
         },
         "nextlink": false
       }

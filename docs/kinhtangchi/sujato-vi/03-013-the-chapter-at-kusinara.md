@@ -1,4 +1,4 @@
-# Chương tại Kusinārā
+# Phẩm tại Kusinārā
 
 ### AN 3.123 Tại Kusinārā *Kusinārasutta*
 

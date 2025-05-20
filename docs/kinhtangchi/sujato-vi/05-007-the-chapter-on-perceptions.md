@@ -1,4 +1,4 @@
-# Chương về Nhận Thức
+# Phẩm về Nhận Thức
 
 ### AN 5.61 Nhận Thức (1) *Paṭhamasaññāsutta*
 

@@ -1,4 +1,4 @@
-# Chương về Bà La Môn
+# Phẩm về Bà La Môn
 
 ### AN 4.181 Chiến Binh (*Yodhājīvasutta*)
 

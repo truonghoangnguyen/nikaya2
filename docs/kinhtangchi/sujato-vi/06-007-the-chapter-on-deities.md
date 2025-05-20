@@ -1,4 +1,4 @@
-# Chương Về Chư Thiên
+# Phẩm Về Chư Thiên
 
 ### AN 6.65 Quả Vị Không Còn Quay Lại (Quả Bất Lai) *Anāgāmiphalasutta*
 

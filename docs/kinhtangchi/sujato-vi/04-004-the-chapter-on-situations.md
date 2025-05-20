@@ -1,4 +1,4 @@
-# Chương về Hoàn Cảnh
+# Phẩm về Hoàn Cảnh
 
 ### AN 4.31 Hoàn Cảnh *Cakkasutta*
 

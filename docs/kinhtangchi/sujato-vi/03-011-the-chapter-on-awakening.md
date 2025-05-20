@@ -1,4 +1,4 @@
-# Chương về Giác Ngộ
+# Phẩm về Giác Ngộ
 
 ### AN 3.103 Trước Khi Giác Ngộ  *Pubbevasambodhasutta*
 

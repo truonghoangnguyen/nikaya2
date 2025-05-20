@@ -1,4 +1,4 @@
-# Chương Lớn
+# Phẩm Lớn
 
 ### AN 6.55 Kinh Soṇa
 

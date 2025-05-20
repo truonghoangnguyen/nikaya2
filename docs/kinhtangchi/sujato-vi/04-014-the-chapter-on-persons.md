@@ -1,4 +1,4 @@
-# Chương về Hạng Người
+# Phẩm về Hạng Người
 
 ### AN 4.131 Kiết Sử (Kinh Saṁyojana)
 

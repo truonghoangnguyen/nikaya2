@@ -1,4 +1,4 @@
-# Chương về Chứng Đắc
+# Phẩm về Chứng Đắc
 
 ### AN 2.163--179 *Samāpattivagga* (Phẩm Chứng Đắc)
 

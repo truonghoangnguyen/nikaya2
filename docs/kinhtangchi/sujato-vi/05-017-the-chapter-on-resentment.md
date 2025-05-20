@@ -1,4 +1,4 @@
-# Chương về Sự Oán Giận
+# Phẩm về Sự Oán Giận
 
 ### AN 5.161 Đoạn Trừ Oán Giận (1) *Paṭhamaāghātapaṭivinayasutta*
 

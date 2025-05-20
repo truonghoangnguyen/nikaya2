@@ -1,4 +1,4 @@
-# Chương về Rohitassa
+# Phẩm về Rohitassa
 
 ### AN 4.41 Các Cách Phát Triển Định Thêm Nữa *Samādhibhāvanāsutta*
 

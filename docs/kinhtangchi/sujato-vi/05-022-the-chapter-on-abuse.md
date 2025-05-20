@@ -1,4 +1,4 @@
-# Chương Về Sự Lăng Mạ
+# Phẩm Về Sự Lăng Mạ
 
 ### AN 5.211 Người Lăng Mạ  *Akkosakasutta*
 

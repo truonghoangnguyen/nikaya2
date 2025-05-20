@@ -1,4 +1,4 @@
-# Chương về Các Pháp Hành
+# Phẩm về Các Pháp Hành
 
 ### AN 3.156--162 Các Bài Kinh Không Có Tựa Đề về Ba Pháp Hành *Phẩm Acelaka*
 
@@ -36,7 +36,7 @@ Vị ấy tu tập *niệm giác chi* (niệm + *giác chi*: awakening factor / 
 Vị ấy tu tập *chánh kiến* (right view / thấy biết đúng đắn)... *chánh tư duy* (right thought / suy nghĩ đúng đắn)... *chánh ngữ* (right speech / lời nói đúng đắn)... *chánh nghiệp* (right action / hành động đúng đắn)... *chánh mạng* (right livelihood / nuôi mạng đúng đắn)... *chánh tinh tấn* (right effort / cố gắng đúng đắn)... *chánh niệm* (right mindfulness / ghi nhớ, chú tâm đúng đắn)... *chánh định* (right immersion / tập trung tâm ý đúng đắn)... Đây gọi là trung đạo. Đó là ba pháp hành."
 
 <!--pg-->
-# Chương về Các Con Đường Hành Động
+# Phẩm về Các Con Đường Hành Động
 
 ### AN 3.163--182 Các Bài Kinh Không Có Tựa Đề về Ba Pháp *Kammapathapeyyāla*
 
@@ -86,7 +86,7 @@ Tự mình có *chánh kiến* (right view / cái thấy đúng đắn, phù h�
 Người có ba pháp này sẽ được sinh lên cõi trời."
 
 <!--pg-->
-# Chương về các Bài Kinh Tóm Tắt Bắt Đầu với Tham
+# Phẩm về các Bài Kinh Tóm Tắt Bắt Đầu với Tham
 
 ### AN 3.183--352 Các Bài Kinh Không Có Tựa Đề về Tham, v.v. *Rāgapeyyāla*
 

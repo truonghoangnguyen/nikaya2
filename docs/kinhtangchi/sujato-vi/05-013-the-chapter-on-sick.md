@@ -1,4 +1,4 @@
-# Chương về Bệnh
+# Phẩm về Bệnh
 
 ### AN 5.121 Bệnh *Gilānasutta*
 

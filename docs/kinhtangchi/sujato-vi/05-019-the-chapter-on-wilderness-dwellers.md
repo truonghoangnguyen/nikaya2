@@ -1,4 +1,4 @@
-# Chương về Người Sống Trong Rừng
+# Phẩm về Người Sống Trong Rừng
 
 ### AN 5.181 Người Sống Trong Rừng *Āraññikasutta*
 

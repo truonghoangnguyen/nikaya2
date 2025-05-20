@@ -1,4 +1,4 @@
-# Chương về Các Vị Trưởng Lão Tỳ Kheo
+# Phẩm về Các Vị Trưởng Lão Tỳ Kheo
 
 ### AN 5.81 Đáng Ưa Thích *Kinh Rajanīya*
 

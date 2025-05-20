@@ -1,4 +1,4 @@
-**Lời nói đầu**
+# Lời nói đầu
 
 Chủ đề về tương lai là một mối quan tâm sâu sắc trong Kinh Tăng Chi Bộ. Chúng ta đang sống trong tương lai đó hoặc xa hơn nữa. *Những hiểm họa vị lai* (future perils / những nguy hiểm trong tương lai) được nói đến trong Kinh Tăng Chi Bộ (AN 5.77--80) đang hiện hữu với chúng ta và đã kéo dài một thời gian rồi. Vua A-dục đã đề cập đến những *kinh* (suttas / bài kinh) này, trong đó có hiểm họa về sự suy thoái trong *Tăng đoàn* (Saṅgha / cộng đồng tu sĩ); có lẽ ngài lo lắng rằng sự hào phóng của mình, dù nhằm mục đích hỗ trợ Phật giáo, cuối cùng sẽ dẫn đến sự suy tàn của nó.
 

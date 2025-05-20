@@ -1,4 +1,4 @@
-# Chương Năm Pháp
+# Phẩm Năm Pháp
 
 ### AN 5.21 Không Kính Trọng (1) *Paṭhamaagāravasutta*
 

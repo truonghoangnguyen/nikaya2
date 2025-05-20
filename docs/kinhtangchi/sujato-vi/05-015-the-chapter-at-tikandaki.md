@@ -1,4 +1,4 @@
-# Chương tại Tikaṇḍakī
+# Phẩm tại Tikaṇḍakī
 
 ### AN 5.141 Khinh thường *Avajānātisutta*
 

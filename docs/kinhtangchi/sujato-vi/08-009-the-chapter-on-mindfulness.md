@@ -1,4 +1,4 @@
-# Chương về Tỉnh Thức
+# Phẩm về Tỉnh Thức
 
 ### AN 8.81 Tỉnh Thức và Tỉnh Giác *Satisampajaññasutta*
 

@@ -1,4 +1,4 @@
-# Chương Uruvelā (Ưu Lâu Tần Loa)
+# Phẩm Uruvelā (Ưu Lâu Tần Loa)
 
 ### AN 4.21 Tại Uruvelā (1) *Paṭhamauruvelasutta*
 

@@ -1,4 +1,4 @@
-# Chương về Chánh Siêng Năng
+# Phẩm về Chánh Siêng Năng
 
 ### AN 9.73 Những Yếu Kém trong Tu Tập và Nỗ Lực  *Sikkhasutta*
 

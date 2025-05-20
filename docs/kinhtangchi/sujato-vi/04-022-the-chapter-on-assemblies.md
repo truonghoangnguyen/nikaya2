@@ -1,4 +1,4 @@
-# Chương về Hội Chúng
+# Phẩm về Hội Chúng
 
 ### AN 4.211 Kinh Hội Chúng (*Parisāsutta*)
 

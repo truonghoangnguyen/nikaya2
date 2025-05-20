@@ -1,4 +1,4 @@
-# Chương về Hành vi Thực chất
+# Phẩm về Hành vi Thực chất
 
 ### AN 4.61 Hành vi Phù hợp *Pattakammasutta*
 

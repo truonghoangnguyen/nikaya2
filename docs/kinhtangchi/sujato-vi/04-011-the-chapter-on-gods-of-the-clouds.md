@@ -1,4 +1,4 @@
-# Chương về Các Vị Trời Mây
+# Phẩm về Các Vị Trời Mây
 
 ### AN 4.101 Mây (1) *Paṭhamavalāhakasutta*
 

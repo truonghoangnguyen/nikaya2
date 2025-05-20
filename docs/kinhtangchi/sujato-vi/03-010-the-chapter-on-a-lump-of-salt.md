@@ -1,4 +1,4 @@
-# Chương về Cục Muối
+# Phẩm về Cục Muối
 
 ### AN 3.92 Khẩn cấp *Accāyikasutta*
 

@@ -1,0 +1,13 @@
+# Một chương khác về các loại người
+
+### AN 10.199--210 Không nên giao thiệp, v.v. *Aparapuggalavagga*
+
+"Này các *Tỳ kheo* (Mendicants / người tu sĩ Phật giáo), các ông không nên *giao thiệp* (associate with / giao du, kết bạn) với người có mười pháp. Những gì là mười? Người đó *sát sinh* (kill living creatures / làm hại sinh vật), *trộm cắp* (steal / lấy đồ không cho), và *tà hạnh* (commit sexual misconduct / hành vi tình dục sai trái). Người đó *nói dối* (use speech that's false / nói không đúng sự thật), *nói hai lưỡi* (divisive speech / lời nói gây chia rẽ), *nói lời thô ác* (harsh speech / lời nói làm tổn thương), hoặc *nói lời vô ích* (nonsensical speech / lời nói không có ý nghĩa). Và người đó *tham lam* (covetous / muốn chiếm đoạt của người khác), *sân hận* (malicious / *sân hận* / tức giận, ác ý), có *tà kiến* (wrong view / suy nghĩ sai lầm về sự thật). Các ông không nên giao thiệp với người có mười pháp này."
+
+<!--pg-->
+
+"Các ông nên giao thiệp với người có mười pháp. Những gì là mười? Người đó không sát sinh, không trộm cắp, không tà hạnh. Người đó không nói dối, không nói hai lưỡi, không nói lời thô ác, không nói lời vô ích. Người đó không tham lam, không sân hận, có *chánh kiến* (right view / suy nghĩ đúng đắn về sự thật). Các ông nên giao thiệp với người có mười pháp này."
+
+"Này các Tỳ kheo, các ông không nên *thân cận* (frequent / gần gũi, lui tới) người có mười pháp... Các ông nên thân cận... Các ông không nên *đảnh lễ* (pay homage / tỏ lòng tôn kính bằng cách cúi lạy)... Các ông nên đảnh lễ... Các ông không nên *tôn kính* (venerate, revere / kính trọng, coi trọng)... Các ông nên tôn kính... Các ông không nên *tán thán* (praise / khen ngợi)... Các ông nên tán thán... Các ông không nên *kính trọng* (revere / coi trọng)... Các ông nên kính trọng... Các ông không nên *vâng lời* (defer to / nghe theo)... Các ông nên vâng lời... Một người không *thành công* (A person is not a success / không đạt được kết quả tốt)... Một người thành công... Một người không *thanh tịnh* (A person is not pure / không trong sạch)... Một người thanh tịnh... Một người không chiến thắng được *ngã mạn* (conceit / sự tự cao tự đại)... Một người chiến thắng được ngã mạn... Một người không tăng trưởng *trí tuệ* (wisdom / sự hiểu biết)... Một người tăng trưởng trí tuệ..."
+
+"Một người có mười pháp này tạo ra nhiều điều ác... Một người có mười pháp này tạo ra nhiều *công đức* (merit / hành động tốt). Những gì là mười? Người đó không sát sinh, không trộm cắp, không tà hạnh. Người đó không nói dối, không nói hai lưỡi, không nói lời thô ác, không nói lời vô ích. Người đó không tham lam, không sân hận, có chánh kiến. Một người có mười pháp này tạo ra nhiều công đức."

@@ -1,4 +1,4 @@
-# Chương về Các Hạng Người
+# Phẩm về Các Hạng Người
 
 ### AN 3.21 Với Saviṭṭha (Kinh Samiddha) *Samiddhasutta*
 

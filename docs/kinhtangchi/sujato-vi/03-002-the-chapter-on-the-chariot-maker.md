@@ -1,4 +1,4 @@
-# Chương về Thợ Làm Xe (The Chariot-maker)
+# Phẩm về Thợ Làm Xe (The Chariot-maker)
 
 ### AN 3.11 Nổi Tiếng (Well-known / Ñātasutta)
 

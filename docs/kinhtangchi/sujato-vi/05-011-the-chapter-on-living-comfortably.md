@@ -1,4 +1,4 @@
-# Chương Về An Trú Thoải Mái
+# Phẩm Về An Trú Thoải Mái
 
 ### AN 5.101 Tự Tin *Sārajjasutta*
 

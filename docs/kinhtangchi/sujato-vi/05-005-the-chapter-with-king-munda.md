@@ -1,4 +1,4 @@
-# Chương về Vua Muṇḍa
+# Phẩm về Vua Muṇḍa
 
 ### AN 5.41 Làm Giàu *Ādiyasutta*
 

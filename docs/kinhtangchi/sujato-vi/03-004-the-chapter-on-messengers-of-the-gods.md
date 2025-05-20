@@ -1,4 +1,4 @@
-# Chương về Sứ Giả Chư Thiên
+# Phẩm về Sứ Giả Chư Thiên
 
 ### AN 3.31 Với Phạm Thiên *Sabrahmakasutta*
 

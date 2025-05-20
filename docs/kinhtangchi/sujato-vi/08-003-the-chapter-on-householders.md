@@ -1,4 +1,4 @@
-# Chương về các Cư sĩ
+# Phẩm về các Cư sĩ
 
 ### AN 8.21 Cùng Ugga ở Vesālī *Paṭhamauggasutta*
 

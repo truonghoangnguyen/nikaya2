@@ -1,5 +1,3 @@
-
-
 # Abbreviated Texts Beginning With Greed
 
 ### AN 8.118 Untitled Discourse on Greed (1st)  *\~*

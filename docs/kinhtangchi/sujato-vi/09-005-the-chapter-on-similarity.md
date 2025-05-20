@@ -1,4 +1,4 @@
-# Chương Về Sự Tương Tự
+# Phẩm Về Sự Tương Tự
 
 ### AN 9.42 Chật Hẹp *Sambādhasutta*
 

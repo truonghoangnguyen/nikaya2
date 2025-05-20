@@ -1,4 +1,4 @@
-# Chương Ba Pháp
+# Phẩm Ba Pháp
 
 ### AN 6.107 Tham *Rāgasutta*
 

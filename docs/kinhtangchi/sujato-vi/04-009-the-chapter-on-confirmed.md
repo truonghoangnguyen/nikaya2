@@ -1,4 +1,4 @@
-# Chương về Bậc Không Lay Chuyển
+# Phẩm về Bậc Không Lay Chuyển
 
 ### AN 4.81 Sát Sanh *Pāṇātipātasutta*
 

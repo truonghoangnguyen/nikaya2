@@ -1,4 +1,4 @@
-# Chương về các Vị Vua
+# Phẩm về các Vị Vua
 
 ### AN 5.131 Vận Hành Quyền Lực (1) *Paṭhamacakkānuvattanasutta*
 

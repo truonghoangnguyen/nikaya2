@@ -1,4 +1,4 @@
-# Chương về Sự Hoàn Hảo
+# Phẩm về Sự Hoàn Hảo
 
 ### AN 6.75 Khổ *Dukkhasutta*
 
