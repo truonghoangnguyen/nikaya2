@@ -1,0 +1,13658 @@
+::::::::::: center
+::: large
+:::
+
+::: normalsize
+*translated and introduced by*
+:::
+
+::: LARGE
+[Bhikkhu Sujato]{.smallcaps}
+:::
+
+::: normalsize
+:::
+
+::: normalsize
+DN 1--13
+:::
+
+::: Large
+[The Chapter on the Entire Spectrum of Ethics]{.smallcaps}
+:::
+
+::: normalsize
+:::
+
+::: large
+[SuttaCentral]{.smallcaps}
+:::
+:::::::::::
+
+:::: footnotesize
+*Long Discourses* is a translation of the Dīghanikāya by Bhikkhu Sujato.
+
+Creative Commons Zero (CC0)
+
+To the extent possible under law, Bhikkhu Sujato has waived all
+copyright and related or neighboring rights to *Long Discourses*.
+
+This work is published from Australia.
+
+::: center
+*This translation is an expression of an ancient spiritual text that has
+been passed down by the Buddhist tradition for the benefit of all
+sentient beings. It is dedicated to the public domain via Creative
+Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter,
+or otherwise make use of this translation. The translator respectfully
+requests that any use be in accordance with the values and principles of
+the Buddhist community.*
+:::
+
+Web publication date
+
+:   2018
+
+This edition
+
+:   2025-01-27 00:57:58
+
+Publication type
+
+:   paperback
+
+Edition
+
+:   ed5
+
+Number of volumes
+
+:   3
+
+Publication ISBN
+
+:   978-1-76132-052-1
+
+Volume ISBN
+
+:   978-1-76132-094-1
+
+Publication URL
+
+:   <https://suttacentral.net/editions/dn/en/sujato>
+
+Source URL
+
+:   <https://github.com/suttacentral/bilara-data/tree/published/translation/en/sujato/sutta/dn>
+
+Publication number
+
+:   scpub2
+
+Map of Jambudīpa is by Jonas David Mitja Lang, and is released by him
+under Creative Commons Zero (CC0).
+
+Published by SuttaCentral
+
+*SuttaCentral,\
+c/o Alwis & Alwis Pty Ltd\
+Kaurna Country,\
+Suite 12,\
+198 Greenhill Road,\
+Eastwood,\
+SA 5063,\
+Australia*
+::::
+
+:::: center
+::: epigraph
+These are the principles---deep, hard to see, hard to understand,
+peaceful, sublime, beyond the scope of logic, subtle, comprehensible to
+the astute---which the Realized One makes known after realizing them
+with his own insight.
+
+["The Divine Net"]{.smallcaps}\
+*[Brahmajālasutta]{lang="sa"}*\
+[Dīgha]{lang="sa"} [Nikāya]{lang="sa"} 1
+:::
+::::
+
+![image](/app/sutta_publisher/images/jambudipa_map.png)
+![image](/app/sutta_publisher/images/jambudipa_map.png)
+
+## The SuttaCentral Editions Series {#the-suttacentral-editions-series .unnumbered}
+
+Since 2005 SuttaCentral has provided access to the texts, translations,
+and parallels of early Buddhist texts. In 2018 we started creating and
+publishing our translations of these seminal spiritual classics. The
+"Editions" series now makes selected translations available as books in
+various forms, including print, PDF, and EPUB.
+
+Editions are selected from our most complete, well-crafted, and reliable
+translations. They aim to bring these texts to a wider audience in forms
+that reward mindful reading. Care is taken with every detail of the
+production, and we aim to meet or exceed professional best standards in
+every way. These are the core scriptures underlying the entire Buddhist
+tradition, and we believe that they deserve to be preserved and made
+available in the highest quality without compromise.
+
+SuttaCentral is a charitable organization. Our work is accomplished by
+volunteers and through the generosity of our donors. Everything we
+create is offered to all of humanity free of any copyright or licensing
+restrictions.
+
+## Preface to *Long Discourses* {#preface-to-long-discourses .unnumbered}
+
+I grew up in Perth, Western Australia. It's a city that is often
+described as "nice", a somewhat backhanded compliment. The weather is
+bright and sunny, it's safe and prosperous, life is good. But it's not a
+place where anything particularly happens. Certainly not anything
+meaningful or interesting to anyone outside of Perth.
+
+As a musician, I would sing songs about New York, about Paris, about
+Memphis or Singapore or even Darlinghurst. I didn't know those places,
+but I knew that they were meaningful places, places deserving of a song.
+My own life, by contrast, seemed entirely on the surface. The bright sun
+and clear skies of Perth had no poetry, it banished all the shadows,
+everything was just so bland. There was nothing to sing about.
+
+You're sensing a plot twist coming up, and you're right. In those
+days---the early 80s---the Perth indie music scene produced its finest
+band, the Triffids. The singer Dave McComb wrote about things that had
+happened to me: "he swam out to the edge of the reef, there were cuts
+along his skin." I knew what that was like, not because someone had told
+me, but because I'd done it myself. Suddenly I was living in a world of
+meaning. I realized that my place, and therefore my life, was just as
+real and just as meaningful as anything else. The bleaching light of
+Perth was its meaning, the lack of shadows was its shadow.
+
+When I came to Buddhism, it all seemed so exotic, so distant. I was made
+to chant in this strange language "Pali", which I'd never even heard of.
+It took me a while to even realize that Pali was an actual language, not
+just a mystical invocation. The monks I met were strange and
+incomprehensible: who would choose such a life? It had a depth that made
+my own paltry life pale in comparison.
+
+As I began to study Buddhism in depth, grappling with deep matters, I
+discovered a range of other scholars and practitioners to learn from.
+There were the meditation masters of the Thai forest tradition in which
+I had ordained---Ajahn Chah, Ajahn Mun, Ajahn Thate, Ajahn Lee
+Dhammadharo. I grew to find sustenance also in the great scholar-monks
+of the modern Theravada---Venerables [Ñāṇatiloka]{lang="sa"},
+[Ñāṇapoṇika]{lang="sa"}, [Ñāṇamoḷī]{lang="sa"}, [Guṇaratana]{lang="sa"},
+Bodhi, Narada, [Kaṭukurunde]{lang="sa"} [Ñāṇananda]{lang="sa"},
+Buddhadasa, and many others. I struggled to learn the broader history
+and nature of the Buddhist schools and traditions from scholars such as
+I.B. Horner, T.W. Rhys Davids, A.K. Warder and Étienne Lamotte. The
+knowledge and understanding of all these people seemed so lofty, so
+confident and capable. I devoured everything I could get my hands on.
+
+It never really occurred to me that I might have something to add. I
+could hardly even manage to master the basics. The masters of the
+Buddhist tradition appeared as peerless savants, holders of an ancient
+and impenetrable wisdom.
+
+If you're sensing another plot twist, you're right again. Around 1994 I
+was still a young resident at Wat Nanachat in north-east Thailand when
+we received a guest, an elderly English gentleman who introduced himself
+as Maurice Walshe. Of course, I knew that name very well: he had
+translated the [Dīgha]{lang="sa"} [Nikāya]{lang="sa"}. I was so excited
+to meet one of my heroes. He was a charming and witty man, and it was an
+honor for me to meet him and spend some time together. I am always
+grateful to him because he made me realize that the Buddhist tradition
+was created and formed by ordinary people. He had studied Pali but did
+not regard himself as an accomplished scholar. He undertook the
+translation at the behest of Venerable Ānandamaitreya---another figure
+of legend for me. Maurice was very humble about his abilities and his
+achievement. And it was no false modesty; while his translation was
+eminently readable, it was not especially accurate. But he did it. And
+in doing so, helped the Dhamma take one more step forward.
+
+It was after meeting Rod Bucknell and John Kelly, the co-founders of
+SuttaCentral, in 2004, that I started making my own contributions to the
+Dhamma through SuttaCentral. Modest as they were, I realized that my
+talents and skills could help others, as I had been helped. It took a
+long while, much learning and many trials, but eventually I dared
+imagine that maybe I could make my contribution to the corpus of Pali
+translations. It would surely be imperfect and inadequate, but perhaps I
+had something to give.
+
+Those of us who have enjoyed the sweet taste of the Dhamma owe a debt of
+gratitude to all those who have made it possible; to all the teachers,
+the supporters, the donors, the monks and nuns and layfolk, the
+scholars, the meditators, the builders and cooks and plumbers and
+weavers, the artists and storytellers, the repairers of leaky roofs and
+the kindlers of lamps. There is not a single one who can hold the whole
+tradition. But I believe that there is not a single one who has nothing
+to offer.
+
+Allow me to indulge in a further recollection of my days in the indie
+music scene. One song that has stuck with me is *Song of the Siren*,
+written by Tim Buckley, but known from the version by This Mortal Coil.
+In three short verses it tells the story of the protagonist lost on
+"shipless oceans", who was drawn in and given shelter by one they came
+to love. Just as they thought they were safe, the beloved seemed to turn
+away, leaving them "broken lovelorn on your rocks". Despairing and
+confused, they considered ending it all. Until at last, they realized:
+now it was their turn. They could not live forever relying on the other
+to offer shelter and protection. When they were lost, they had been
+saved, and now they called to the other, "swim to me, let me enfold
+you".
+
+As a person of faith, I believe that the Buddha was a perfected human
+being. The Buddhist tradition, on the other hand, is made up of people
+who are usually notably imperfect. Sometimes we feel inspiration and
+uplift, other times disappointment or disillusionment. I reached a point
+of frustration when I knew that, for all the efforts of many people, we
+were still not able to make all the Suttas available in translation for
+free. It seemed wrong, and I didn't know what to do. It was then that I
+realized that it was my turn to offer shelter.
+
+## A Reader's Guide to the Pali Suttas {#a-readers-guide-to-the-pali-suttas .unnumbered}
+
+::: flushright
+*Bhikkhu Sujato, 2019*
+:::
+
+The suttas of the Pali Canon ([Tipiṭaka]{lang="sa"}), especially the
+four main *[nikāyas]{lang="sa"}*, are essential reading for anyone who
+wishes to understand the Buddha and his teaching. They have been
+preserved and passed down in the Pali language by the
+[Theravāda]{lang="sa"} tradition of Buddhism as the word of the Buddha.
+
+These texts were originally passed down orally, by generations of monks
+and nuns who memorized them and recited them together. Around 30 BCE
+they were written down in the [Āluvihāra]{lang="sa"} in Sri Lanka, and
+subsequently were transmitted in manuscripts of palm leaves.
+
+From the 19th century, the manuscripts were edited and published as
+modern editions in sets of books. In addition, the Pali text was
+translated into a number of modern languages, including Thai, Burmese,
+Sinhalese, and English.
+
+The word [Tipiṭaka]{lang="sa"} means "Three Baskets". The Basket of
+Discourses is traditionally listed as the second of the three. The four
+*[nikāyas]{lang="sa"}* make up the bulk of the Basket of Discourses.
+Here is how they are situated within the canon as a whole.
+
+- Vinaya [Piṭaka]{lang="sa"} (Basket of Monastic Law)
+
+- Sutta [Piṭaka]{lang="sa"} (Basket of Discourses)
+
+  - **[Dīgha]{lang="sa"} [Nikāya]{lang="sa"}** (Long Discourses)
+
+  - **Majjhima [Nikāya]{lang="sa"}** (Middle Discourses)
+
+  - **[Saṁyutta]{lang="sa"} [Nikāya]{lang="sa"}** (Linked Discourses)
+
+  - **[Aṅguttara]{lang="sa"} [Nikāya]{lang="sa"}** (Numbered Discourses)
+
+  - Khuddaka [Nikāya]{lang="sa"} (Minor Discourses)
+
+- Abhidhamma [Piṭaka]{lang="sa"} (Basket of Systematic Treatises)
+
+Similar collections are found in ancient Chinese translations, and
+substantial portions of them are also in Sanskrit and Tibetan. The
+diverse collections of scriptures arose among the Buddhist communities
+who spread across greater India in the centuries following the Buddha,
+especially under the Buddhist emperor, Ashoka. These missions are
+documented in the ancient chronicles of Sri Lanka as well as the Vinaya
+commentaries in Pali and Chinese, and have been partially corroborated
+by modern archaeology.
+
+SuttaCentral hosts almost all of these texts and provides comprehensive
+parallels showing the relations between them. A comparative
+understanding based on the full spectrum of these texts is essential for
+any study of early Buddhism. The Chinese Buddhist canon, in particular,
+contains a vast amount of translations of early texts, and in terms of
+quantity it outweighs the Pali texts by some margin.
+
+For many reasons, though, the Pali texts will always retain a special
+place for those who wish to understand what the Buddha taught.
+
+- They are the only complete set of scriptures of an early school of
+  Buddhism.
+
+- They are by far the largest body of texts to survive in an early Indic
+  dialect.
+
+- They are accompanied by an extensive and detailed set of ancient
+  commentaries (*[aṭṭhakathā]{lang="sa"}*).
+
+- They are, for the most part, linguistically clear, well-edited, and
+  readily comprehensible.
+
+Moreover, the Pali texts are the core scriptures of a living tradition,
+the [Theravāda]{lang="sa"} school found in Sri Lanka, Thailand, Myanmar,
+Bangladesh, Cambodia, Laos, India, China, and Vietnam. To this day they
+are recited, taught, studied, and practiced daily, and are regarded in
+the traditions as being a reliable witness to the teachings of the
+Buddha himself.
+
+Among the Pali texts, it is the four *[nikāyas]{lang="sa"}* that command
+the most attention. It is here that we find extensive and definitive
+explanations of Buddhist teachings, as well as the living personality of
+the Buddha and his immediate disciples.
+
+By comparison, the Vinaya [Piṭaka]{lang="sa"} details the life of the
+monastic communities, and in addition it reveals much about the history
+and social background; but it contains only a few teaching passages. The
+Abhidhamma [Piṭaka]{lang="sa"} is made up of systematic treatises that
+were composed in the centuries following the Buddha's passing. And the
+books of the Khuddaka [Nikāya]{lang="sa"} are very mixed. There are six
+fairly short books that are supplements to the main four
+*[nikāyas]{lang="sa"}*, mostly in verse: the
+[Dhammapada](https://suttacentral.net/dhp),
+[Udāna](https://suttacentral.net/ud),
+[Itivuttaka](https://suttacentral.net/iti), [Sutta
+Nipāta](https://suttacentral.net/snp),
+[Theragāthā](https://suttacentral.net/thag), and
+[Therīgāthā](https://suttacentral.net/thig). However, most of the other
+books in the Khuddaka are later, and represent a phase of Buddhism a few
+centuries after the Buddha.
+
+### About These Guides {#about-these-guides .unnumbered}
+
+I have prepared these guides in order to support a student who wishes to
+develop a deeper understanding of the *[nikāyas]{lang="sa"}*. They
+accompany my translations of the four *[nikāyas]{lang="sa"}* as found on
+SuttaCentral. This general guide is meant to be read first, as it covers
+a variety of issues that are common to all the *[nikāyas]{lang="sa"}*.
+The four *[nikāyas]{lang="sa"}* are a highly unified body of texts,
+sharing most of the significant doctrinal passages. The general
+information presented here is fleshed out in individual essays on each
+of the four *[nikāyas]{lang="sa"}*, which highlight the shifts in
+emphasis and orientation from one collection to the next. These may be
+read in any order. While the guides for the specific
+*[nikāyas]{lang="sa"}* naturally focus on the texts in that
+*[nikāya]{lang="sa"}*, this is not adhered to rigidly, and they may
+refer also to passages found elsewhere.
+
+Summaries of major doctrinal themes may be found mostly in the
+*[nikāya]{lang="sa"}* guides, especially that for the
+[Saṁyutta]{lang="sa"} [Nikāya]{lang="sa"}, rather than here. However, I
+would urge a degree of caution when it comes to summaries, including my
+own. The true joy of the suttas is in the undigested teachings, in that
+raw moment when the Buddha encounters a person in suffering and helps
+them, not by giving them a digested abstract, but by reaching out to
+them as people. Summaries and surveys are best treated as starting
+points for discovery, rather than as definitive treatises.
+
+I almost completely avoid sideways glances at the various Chinese and
+other parallels. Understanding these relations is critical, and the
+entire basis of SuttaCentral is founded on this fact. But the number of
+texts is very large, and the complexity of the subject is daunting. I
+fear that if I were to deal with parallels in any kind of depth, these
+essays would never be completed; and if they were, they would have
+become unreadably complex. Hence I have set myself a more manageable
+scope, sticking to the Pali texts, on the understanding that most things
+probably apply to the parallels as well. The reader can easily check the
+parallels on SuttaCentral if they wish.
+
+Among students of the suttas, the names of these collections are often
+abbreviated to "[Dīgha]{lang="sa"}", "Majjhima", and so on, just as the
+word "Sutta" is often omitted from sutta titles. Strictly speaking, it'd
+be best to use the Pali title when referring to the original text, and
+the translated title when referring to the translation; but this
+distinction is often overlooked.
+
+### An Approachable Translation {#an-approachable-translation .unnumbered}
+
+In 2015 I determined to create freely available translations of the main
+Pali discourses, so that all of these teachings might be made freely
+available in a clear, consistent, and accurate rendition. My aim was to
+translate the four main *[nikāyas]{lang="sa"}* as well as the 6 early
+books of the Khuddaka [Nikāya]{lang="sa"}: [Theragāthā]{lang="sa"},
+[Therīgāthā]{lang="sa"}, [Udāna]{lang="sa"}, Itivuttaka, Dhammapada, and
+[Suttanipāta]{lang="sa"}. I did this so that these astonishing works of
+ancient spiritual insight might enjoy the wider audience they so richly
+deserve.
+
+In considering my translation style, I reflected on the standard trope
+that introduces the prose suttas: a person "approaches" the Buddha to
+ask a question or hear a teaching. It's one of those passages that
+became so standard that we usually just pass it by. But it is no small
+thing to "approach" a spiritual teacher. It takes time, effort,
+curiosity, and courage; many of those people would have been more than a
+little nervous.
+
+How, then, would the Buddha respond when approached? Would he have been
+archaic and obscure? Would he use words in odd, alienating ways? Would
+you need to have another monk by your side, whispering notes into your
+ear every second sentence---"He said this; but what he really meant
+was..."?
+
+I think not. I think that the Buddha would have spoken clearly, kindly,
+and with no more complication than was necessary. I think that he would
+have respected the effort that people made to "approach" his teachings,
+and he would have tried the best he could, given the limitations of
+language and comprehension, to explain the Dhamma so that people could
+understand it.
+
+An approachable translation expresses the meaning of the text in a
+manner that is simple, friendly, and idiomatic. It should not just be
+technically correct, it should sound like something someone might
+actually say.
+
+Which means that it should strive to dispense entirely with the
+formalisms, technicalities, and Indic idioms that has dominated Buddhist
+translations, into which English has been coerced by translators who
+were writing for Indologists, linguists, and Buddhist philosophers. Such
+translations are a death by a thousand papercuts; with each obscurity
+the reader is distanced, taken out of the text, pushed into a mode of
+acting on the text, rather than being drawn into it.
+
+That is not how those who listened to the Buddha would have experienced
+it. They were not being annoyed by the grit of dubious diction, nor were
+they being constantly nagged to check the footnotes. They were drawn
+inwards and upwards, fully experiencing the transformative power of the
+Dhamma as it came to life in the words of the Awakened One. We cannot
+hope to recapture this experience fully; but at least we can try to not
+make things worse than they need to be.
+
+At each step of the way I asked myself, "Would an ordinary person, with
+little or no understanding of Buddhism, be able to read this and
+understand what it is actually saying?" To this end, I have favored the
+simpler word over the more complex; the direct phrasing rather than the
+oblique; the active voice rather than the passive; the informal rather
+than the formal; and the explicit rather than the implicit.
+
+Still, it should not be thought that these are loose adaptations or
+simplifications. There is a place for re-imaginings of ancient texts,
+and for versions that strip the complexity to focus on the main point.
+But my work is intended as a full and accurate translation, one that
+omits nothing of substance. It is just that I try to express this
+without undue complexity.
+
+I still feel I am a long way from achieving my goal. No-one is more
+aware than the translator of the compromises and losses along the way.
+Consistency, clarity, correctness, and beauty all make their competing
+claims, and only rarely, it seems, can all be met. It is a work in
+progress, and I will probably be making corrections and adjustments for
+many years to come.
+
+I have been especially influenced in this approach by my fellow monks,
+Ajahn Brahm and Ajahn Brahmali. It is from Ajahn Brahm that I have
+learned the virtue of plain English; of the kindness of speaking such
+that people actually understand. And with Ajahn Brahmali, who has been
+working on Vinaya translations at the same time, I have had many
+illuminating discussions about the meaning of various words and phrases.
+He said one thing that stuck in my mind: a translation should mean
+*something*. Even if you're not sure what the text means, we can be sure
+that it had some meaning, so to translate it based purely on lexical
+correspondences is to not really translate it at all. Say what you think
+the text means, and if you make a mistake, fix it.
+
+### Plan Your Route or Wander in the Garden {#plan-your-route-or-wander-in-the-garden .unnumbered}
+
+The Buddha's teaching is a graduated one, leading from simple principles
+to profound realizations. This pattern is found within almost all of the
+discourses in one way or another. However it does *not* apply to the
+collections of discourses. From collection to collection or discourse to
+discourse there is no graduation in difficulty, no build up of assumed
+knowledge in the student.
+
+On the contrary, the [Dīgha]{lang="sa"} [Nikāya]{lang="sa"} begins with
+the [Brahmajāla]{lang="sa"} Sutta, while the Majjhima
+[Nikāya]{lang="sa"} begins with the [Mūlapariyāya]{lang="sa"} Sutta,
+both of which are among the most profound and difficult discourses in
+the whole canon. A student who dives in unwarily will suddenly find
+themselves in very deep waters indeed.
+
+If we wish to build up knowledge step by step, we can't rely on simply
+reading the suttas in order. Students often find it helpful to use a
+structured reading guide such as that offered here. On SuttaCentral, we
+offer several other approaches.
+
+Having said which, there's nothing wrong with simply plunging in at
+random, so long as you don't expect everything to make sense at first.
+Take your time and enjoy wandering about. Don't worry too much about
+things that seem odd or unexpected. Usually you'll find that obscure or
+difficult ideas are explained somewhere else; discovering those
+unexpected connections is one of the joys of reading the suttas.
+
+In these introductory essays, you will find many references to the
+suttas. You don't need to look up each reference to understand the
+essays. But if you do, you will get a reasonable survey of many
+important texts, and learn how to find the passage that you need. I
+suggest reading each essay on its own first, and then a second time,
+looking up and reading the sutta references as you go.
+
+### Looking Up References {#looking-up-references .unnumbered}
+
+When you delve into sutta reading, you'll notice that texts and passages
+are referenced in sometimes confusing ways. On SuttaCentral we employ a
+simple and widely adopted form of semantic referencing. By "semantic"
+references, we mean that the reference numbers are based on meaningful
+divisions in the texts themselves.
+
+For the four *[nikāyas]{lang="sa"}*, this means:
+
+- In the [Dīgha]{lang="sa"} and Majjhima, texts are referenced by the ID
+  for the collection (DN and MN respectively) and the sutta number,
+  counted in a simple sequence from the beginning.
+
+- In the [Saṁyutta]{lang="sa"}, the collection ID (SN),
+  *[saṁyutta]{lang="sa"}* (thematic group), and sutta.
+
+- In the [Aṅguttara]{lang="sa"}, the collection ID (AN),
+  *[nipāta]{lang="sa"}* (numerical group), and sutta.
+
+More granular referencing is provided by section numbers. These follow
+pre-existing conventions:
+
+- In the [Dīgha]{lang="sa"}, the section numbers of the PTS Pali
+  edition, which have been widely adopted in translations.
+
+- In the Majjhima, the section numbers introduced by Bhikkhu
+  [Ñāṇamoḷi]{lang="sa"}, and used in Bhikkhu Bodhi's edition.
+
+- In the [Saṁyutta]{lang="sa"} and [Aṅguttara]{lang="sa"}, the paragraph
+  numbers as found in the [Mahāsaṅgīti]{lang="sa"} Pali text.
+
+Each of these is further subdivided so that each section contains a
+number of "segments", a short piece of text usually about a sentence or
+so long. In my translations, the segments are matched with the
+underlying Pali text.
+
+In our system, the numbers following a colon represent the section and
+segment numbers, that is, the subdivisions within a sutta. So, for
+example:
+
+- DN 3 means "the third discourse in the collection of Long Discourses
+  ([Dīgha]{lang="sa"} [Nikāya]{lang="sa"})".
+
+- MN 43:3 means "discourse 43, section 3 in the collection of Middle
+  Discourses (Majjhima [Nikāya]{lang="sa"})".
+
+- MN 43:3.7 means "discourse 43, section 3, segment 7 in the collection
+  of Middle Discourses (Majjhima [Nikāya]{lang="sa"})".
+
+- SN 12.2:6.2 means "discourse 2, section 6, segment 2 in the 12th
+  *[saṁyutta]{lang="sa"}* of the collection of Linked Discourses
+  ([Saṁyutta]{lang="sa"} [Nikāya]{lang="sa"})".
+
+You may encounter various other referencing systems. In academic works,
+texts are often referenced by volume and page of the Pali Text Society
+(PTS) edition of the original Pali. This is a regrettable and clumsy
+convention, since it binds references to a specific paper edition. I
+hope it is swiftly abandoned in favor of proper semantic references.
+However, the PTS volume/page numbers are displayed on SuttaCentral in
+case you need to look up a legacy reference.
+
+Traditionally, the texts were---and often still are---referenced the
+long way: by *[nikāya]{lang="sa"}*, then *[saṁyutta]{lang="sa"}* or
+*[nipāta]{lang="sa"}* and/or *[paṇṇasaka]{lang="sa"}* (as applicable),
+then *vagga* and *sutta*. This system is helpful when using manuscripts,
+as you can narrow your search step by step through the manuscript to
+find what you need. On the web, or even in books, however, it is
+unnecessary. Nevertheless, you can use the traditional navigation
+structure in our sidebar if you wish.
+
+### Elements of Structure {#elements-of-structure .unnumbered}
+
+As students of Buddhist texts we are interested in the content, in
+learning what the Buddha and his disciples had to say and how they
+lived. However, due to the manner in which the texts are arranged, we
+quickly discover that it's not easy to know how different texts relate
+to each other. So while it may seem dry, it is worth spending a little
+time to consider the *structure* of the texts.
+
+Early Buddhist texts were organized, not for reading, but for oral
+recitation and memorization. The overriding concern was to divide the
+texts into chunks that could be memorized and recited together. Since
+the texts were preserved in memory, they were largely "random access": a
+skilled student could instantly recall a passage from anywhere in the
+texts, without having to flip through the pages or look up an index. In
+this way, the earliest system of organization is a little similar to how
+we find information today through a search engine.
+
+It follows from this that we cannot expect early Buddhist texts to be
+structured sequentially like a modern book. But this does not mean that
+the collections are random or chaotic. They follow their own logic,
+which can be discerned if the texts are approached sympathetically.
+
+Here are some of the structural or formal elements you will encounter in
+the early Buddhist texts.
+
+#### Imagery and Narrative {#imagery-and-narrative .unnumbered}
+
+The suttas frequently employ an ABA pattern. A statement is made; a
+simile is given; and the statement is repeated.
+
+This formal pattern is highly effective in reinforcing learning. First
+we get the basic idea. But abstract philosophical or psychological
+statements are hard to understand and remember without any context, so
+the Buddha illuminates his teaching with a simile. He ends by driving
+the message home once again.
+
+The range of similes in the suttas is truly astounding. The Buddha had
+an uncanny ability to effortlessly summon an apt comparison from
+anything that he saw around him. The similes also convey a great deal of
+incidental detail regarding life and culture in the Buddha's day, and,
+more importantly, they show how the Dhamma teaching makes sense in its
+context. Most of the classic Buddhist images that are familiar today
+trace their roots to similes used by the Buddha in the early texts.
+
+Sometimes the similes are extended to a brief parable or fable.
+Curiously enough, however, we rarely see the Buddha engage in
+story-telling of any length.
+
+Where narratives are developed in some detail, they are typically as
+part of the background story (*[nidāna]{lang="sa"}*) rather than in the
+Buddha's teaching as such. It is an elementary principle of historical
+scholarship that the background story is of a somewhat later date than
+the main doctrinal material. Such stories vary considerably in the
+parallels, showing that the traditions treated narrative more flexibly
+than doctrine.
+
+#### Repetition {#repetition .unnumbered}
+
+It won't take long before you notice that the suttas tend to be
+repetitious. *Very* repetitious. This can be a major hurdle for a new
+reader, so let's take a little time to consider what is happening.
+
+Like so many patterns found in nature, the repetitions are *fractal*.
+That is, they occur at every level: the word, the phrase, the sentence,
+the paragraph, the passage, the whole text, even the group of texts.
+This shows that the repetition is not something alien to these texts,
+not something forced on them by an over-zealous editor, but is intrinsic
+from the beginning.
+
+But why? The thing to remember is that the texts were formed in an oral
+tradition. And in an oral tradition, repetition works very differently
+than it does in writing. When you *read* a repetition, it can be
+annoying; it feels like a waste of time, and you want to skip over it.
+But when *reciting*, repetition has exactly the opposite effect. It is
+soothing and relaxing. The parts that are different take more work, you
+have to exercise your memory; but when the repeated passage comes
+around---like the chorus of a song---you relax into the flow of the
+chanting. Repetitions give the reciter space to be at ease and
+contemplate. Reciting a highly repetitive text becomes a form of
+meditation, where you reflect the meaning and apply it to your
+experience as you recite.
+
+But in addition to this spiritual aspect, repetition has a definite
+practical purpose: preservation. By saying the same thing again and
+again, identically or with small variations, the reciters were
+constantly checking their memories, ensuring the accuracy of the texts.
+And if a text was lost, there is always another similar passage
+somewhere else. Thus the repetitions ensured the long-term survival of
+the Dhamma by creating backups of important information in multiple
+places, retained in the minds of Buddhist practitioners.
+
+Understanding the historical role of repetitions, however, doesn't help
+us when we just want to read a sutta. What are we to do? Well, there is
+no single way to read a sutta. Some people prefer to read them in full,
+contemplating each repetition. Others read them more briefly, getting to
+the important point. You'll figure out a way that suits you. But when
+you understand the role of repetitions, hopefully you will not find them
+such an obstruction.
+
+#### Abbreviation {#abbreviation .unnumbered}
+
+The flipside of repetition is abbreviation. Since the repetitions are so
+abundant, they are often abbreviated. Such abbreviation is not a modern
+invention; it is found throughout the manuscripts, and indeed there is
+no edition that fully spells out all the repetitions. The Pali texts
+have their own convention for indicating abbreviations, marked with the
+syllable *pe*, itself an abbreviation of *[peyyāla]{lang="sa"}*.
+
+Generally speaking, the abbreviations in the Pali editions, and the
+occasional instructions on how to spell out the full text, are sensible
+and fairly consistent between editions. Modern translations follow the
+manuscript tradition, but not slavishly. Sometimes the translation will
+spell out abbreviated passages, or else abbreviate passages spelled out
+in the original.
+
+Abbreviations are both "internal" or "external". By internal
+abbreviation, I mean that there is enough information in the text itself
+to fully reconstruct it. Typically only the first and last items in a
+list are spelled out in full, and for the rest, only the key terms are
+mentioned. Here is an example from [SN
+22.137](https://suttacentral.net/sn22.137):
+
+> Form is impermanent; you should give up desire for it. Feeling ...
+> Perception ... Choices ... Consciousness is impermanent; you should
+> give up desire for it.
+
+In external abbreviations, an abbreviated passage cannot be fully
+reconstructed from the context, but requires looking up another text to
+fill in the blanks. This is another example of how the oral tradition
+differs from written texts. A reciter would obviously know, say, the
+formula for the four noble truths, so there is no need to write it every
+time; just enough to jog the memory. But in modern editions, especially
+on the web, a reader can access a specific text from anywhere, and may
+never have encountered the abbreviated passage before. For this reason I
+tried to reduce the number of external abbreviations in my translations.
+
+#### Titles {#titles .unnumbered}
+
+Buddhist manuscripts rarely have titles at the start like modern texts.
+Rather, the title is recorded at the end. In modern editions, these
+titles have been added at the start for clarity.
+
+In many cases, especially in the titles of suttas and *vaggas*, what we
+actually have in the manuscript is not really a title as such, but a key
+word found in the summary verse (*[uddāna]{lang="sa"}*) found at the end
+of a *vagga* or other division. These verses were inserted by the
+redactors of the canon in order to help keep the contents organized,
+much like a Table of Contents. However, the summary verses do vary to
+some extent between editions, so the titles of suttas are not always
+consistent. In addition, some suttas are assigned more than one title in
+the text itself---for example [DN 1](https://suttacentral.net/dn1) *The
+Prime Net* (*[Brahmajālasutta]{lang="sa"}*)---or there are spelling
+variations. So take care, for it is quite common to find different
+titles for the same text.
+
+#### Textual Divisions {#textual-divisions .unnumbered}
+
+##### Vagga ("Chapter") {#vagga-chapter .unnumbered}
+
+The *vagga* is the most widespread and distinctive structural unit in
+early Buddhist texts. It usually consists of ten texts, which may be ten
+discourses, ten verses, ten rules, and so on. The number ten is adhered
+to fairly consistently, although on occasion a *vagga* may contain more
+or less than ten.
+
+The *vagga* is often little more than a convenient grouping to help
+organize the discourses neatly. In such cases, a *vagga* is usually just
+named after its first discourse.
+
+However, it is also common to find that a *vagga* collects discourses
+with a loose thematic unity. For example, in the [Chapter on the Full
+Spectrum of Ethics](https://suttacentral.net/dn-silakkhandhavagga)
+(*[Sīlakkhandhavagga]{lang="sa"}*) of the [Dīgha]{lang="sa"}
+[Nikāya]{lang="sa"} (thirteen discourses in this case), almost all the
+texts deal with the "gradual training" of ethics, meditation, and
+wisdom.
+
+In some cases, a *vagga* in Pali may parallel a similar *vagga* in
+another language. For example, the famous [Chapter of the
+Eights](https://suttacentral.net/snp-atthakavagga)
+(*[Aṭṭhakavagga]{lang="sa"}*) of the Sutta [Nipāta]{lang="sa"} exists in
+Chinese translation, though the Sutta [Nipāta]{lang="sa"} as a whole
+does not. Similarly, the *[Sīlakkhandhavagga]{lang="sa"}* of the
+[Dīgha]{lang="sa"} [Nikāya]{lang="sa"} has parallels in both the
+Dharmaguptaka (Chinese) and [Sarvāstivāda]{lang="sa"} (Sanskrit) texts
+of the [Dīgha]{lang="sa"}.
+
+Occasionally the word *vagga* is applied to a larger textual unit, one
+that includes a number of sections, each of which composed of "little"
+*vaggas*. Examples of such nested *vagga* structures include the
+[Saṁyutta]{lang="sa"} [Nikāya]{lang="sa"} and the Khandhakas of the Pali
+Vinaya.
+
+##### [Paṇṇāsaka]{lang="sa"} ("Fifty") {#paṇṇāsaka-fifty .unnumbered}
+
+The word *[paṇṇāsa]{lang="sa"}* means "fifty", and a
+*[paṇṇāsaka]{lang="sa"}* is a group of approximately fifty suttas, or
+five *vaggas*. It is used to organize collections that contain many
+*vaggas*. Most of the collections with large numbers of discourses use
+this structure, for example the "[Root
+Fifty](https://suttacentral.net/mn-mulapannasa)" of the Majjhima
+[Nikāya]{lang="sa"} (*[Mūlapaṇṇāsa]{lang="sa"}*). The
+*[paṇṇāsaka]{lang="sa"}* is purely for convenience and does not
+correspond to any meaningful division of the text.
+
+##### [Nipāta]{lang="sa"} ("Group") {#nipāta-group .unnumbered}
+
+The literal meaning of *[nipāta]{lang="sa"}* is "fallen down", and it is
+a generic term for texts that have been placed together. In the
+[Aṅguttara]{lang="sa"}, it is used for each division of texts gathered
+together by number: the [group of discourses consisting of one
+item](https://suttacentral.net/an1), and so on. Elsewhere it is used,
+for example, in the title of the [Sutta
+Nipāta](https://suttacentral.net/snp" class="text-root), the "Group of
+Discourses".
+
+##### [Saṁyutta]{lang="sa"} ("Collection of Linked Discourses") {#saṁyutta-collection-of-linked-discourses .unnumbered}
+
+Whereas the *[nipāta]{lang="sa"}* is quite generic, the
+*[saṁyutta]{lang="sa"}* has a more specific meaning: texts collected
+according to a similar theme or subject matter. The
+[Saṁyutta]{lang="sa"} [Nikāya]{lang="sa"} consists of 56 such
+collections. For example, the fourteenth *[saṁyutta]{lang="sa"}*
+contains [39 discourses on the topic of the
+elements](https://suttacentral.net/sn14).
+
+##### [Nikāya]{lang="sa"} or Āgama ("Division") {#nikāya-or-āgama-division .unnumbered}
+
+The largest structural unit, usually known as *[nikāya]{lang="sa"}* in
+the Pali tradition of the [Theravāda]{lang="sa"}, and as
+*[āgama]{lang="sa"}* in the northern traditions. However, the term
+*[āgama]{lang="sa"}*, while it has fallen into disuse in modern
+[Theravāda]{lang="sa"}, is found quite commonly in the Pali
+commentaries.
+
+Collections similar to the four *[nikāyas]{lang="sa"}* as found in the
+Pali are found in all the other schools. However, while the overall
+nature of the collections is similar, and they are organized in similar
+ways, the detailed content varies considerably. It frequently happens
+that a sutta found in the Majjhima of one school, for example, may be
+found in the [Saṁyutta]{lang="sa"} or [Dīgha]{lang="sa"} of another
+school. In addition, the internal sequence of texts is quite different.
+Thus it seems that the *[nikāyas]{lang="sa"}* or *[āgamas]{lang="sa"}*
+functioned more as organizational guidelines than as fixed units.
+
+The fifth Pali *[nikāya]{lang="sa"}*, the Khuddaka [Nikāya]{lang="sa"},
+is more flexible and varies more between traditions. It seems it
+originated as a place for collecting verses and minor texts not gathered
+elsewhere. However the Pali collection became a handy place to include
+later texts, so it has now become the biggest of all the
+*[nikāyas]{lang="sa"}*. While there are occasional references to a
+similar collection in the northern schools, none exist in that form
+today. Nevertheless, many of the individual texts of the Khuddaka have
+parallels, especially the Dhammapada, which survives in many different
+editions.
+
+### In the Buddha's Day: A Time of Change {#in-the-buddhas-day-a-time-of-change .unnumbered}
+
+Each discourse begins with a brief statement saying that at "one time"
+the Buddha was staying at a particular place. In this way the redactors
+of the texts were concerned to locate the Buddha and his teachings in a
+specific historical and cultural context. Modern scholars have been able
+to reconstruct a fairly reliable picture of the Buddha's life and times,
+relying on the early Buddhist texts, as well as what information may be
+gleaned from Brahmanical and Jaina scriptures.
+
+Archeology is, unfortunately, of limited use, as there are few
+archeological remnants from the Buddha's day. In fact, before the time
+of Ashoka---perhaps 150 years after the Buddha---there are very few
+remains at all of ancient India, until the time of the Indic Valley
+civilization, many centuries earlier. For the period we are interested
+in, what has been found consists of some pottery and similar small
+implements, as well as a few remnants of fortifications around
+[Kosambī]{lang="sa"}. The paucity of evidence is due to two main
+reasons. The first is that buildings at the time were mostly of wood or
+other perishable materials. And the second is that archeological work in
+India has been very spotty and incomplete.
+
+The Buddha lived in the 5th century BCE in the Ganges plain in northern
+India. The exact dates of his birth and death are uncertain, but modern
+scholarly opinion tends to place his birth around 480 BCE and his death
+80 years later at around 400 BCE. He was born in Lumbini and grew up in
+Kapilavatthu, both of which belong to the Sakyan republic, straddling
+the modern border of India and Nepal. His family name was Gotama; the
+earliest texts do not mention his personal name, but tradition says it
+was Siddhattha.
+
+After his Awakening, the Buddha traveled about the Gangetic plain. The
+area he traversed was part of the cultural/political region known as the
+"sixteen nations" (*janapada*). This spanned from modern Delhi to the
+north-west, the Bangladesh border to the east, the Himalayan foothills
+to the north, the Deccan to the south, and Ujjain to the south-west.
+Most of his time was spent around the cities of [Sāvatthī]{lang="sa"} in
+the kingdom of Kosala and [Rājagaha]{lang="sa"} in the kingdom of
+Magadha. Despite the proliferation of local legends in most Buddhist
+countries, the Buddha never ventured outside this area.
+
+It was not just the Buddha who was restricted to this region. It seems
+that trade and other close cultural contacts normally took place within
+this region, too. Occasional references to places further
+afield---southern India or the Greeks---were vague and often legendary.
+It was in the century after the Buddha passed away that the kingdoms of
+northern India were unified and regular international trade routes were
+opened, first to Europe, and, a couple of centuries later, to south-east
+Asia and China.
+
+### Economics and Politics {#economics-and-politics .unnumbered}
+
+Though cities and urban life feature prominently in the texts, they are
+still on a small scale. The economy was largely rural, with farming
+playing a prominent role.
+
+However there are lists of occupations in the Pali canon that show a
+diverse range of employment---accountants, jewelers, builders, soldiers,
+doctors, government officials, and many more.
+
+The rise in diversity of employment was linked to the growth of cities,
+which in turn is associated with the appearance of new technologies. The
+archeological record, though thin, has furnished us with records of two
+significant innovations: forges for iron, and a kind of fine pottery
+known as Northern Black Polished Ware. These new developments attest to
+a growing mastery in the industrial use of fire, something that the
+suttas mention in several memorable similes.
+
+Technological innovation drove economic growth. We frequently hear of
+wealthy individuals, employing large staffs and managing properties or
+businesses. There was enough economic surplus to support a large class
+of spiritual seekers. Such ascetics made no material contributions to
+society; their value lay in spiritual and ethical development.
+
+These technological and economic shifts were mirrored in the political
+sphere. There were two major forms of governance. Traditional clans such
+as the Sakyans or the Vajjians followed an ancient restricted form of
+democracy, where decisions were made in a town council, and the clan
+elected a leading member as temporary ruler. Other nations, like Kosala
+and Magadha, had formed a more familiar kind of kingdom, with an
+absolute hereditary monarch. While the Buddha evidently favored the
+democratic ideals under which he grew up, and after which he modeled the
+governance of the Sangha, it was the kingdoms that were growing in
+economic and military dominance. During the Buddha's lifetime, there
+were repeated skirmishes between Kosala and Magadha, vying for dominion
+over the ancient sacred city of Varanasi.
+
+Of even greater significance, towards the end of his life, Magadha was
+announcing its intentions to invade the Vajjian republic. History
+attests to the success of this policy: in the decades following the
+Buddha's death, Magadha conquered virtually all of the sixteen nations,
+establishing an unquestioned supremacy over the region, and establishing
+pan-Indian trade networks. So powerful was the resulting kingdom that
+Alexander the Great's troops rebelled at the mere rumor of Magadhan
+military might.
+
+### Social Life {#social-life .unnumbered}
+
+The growing complexity of economic and political life required
+corresponding changes in social roles and responsibilities. Like any
+society in a time of change, people in the time of the Buddha were
+trying to balance their traditional values and structures with the new
+realities. It seems that people were for the most part reasonably well
+off. Still, poverty and famine, along with injustice, banditry, and
+economic uncertainty, were present and posed a very real threat. We hear
+frequent laments about how unpredictable wealth is, whether the older
+forms of wealth in cattle and land, or the newer forms in money and
+career.
+
+The Buddha was not a social revolutionary and did not overtly agitate
+for an overthrow of social systems, even those he recognized as unjust.
+Typically he would argue for a more just and fair implementation of
+existing norms. For example, rather than saying all societies should be
+democratic, he spoke of the moral duty of a king to look after his
+people.
+
+A man was expected to earn a living so as to maintain and protect his
+family. He should use his earnings to provide his family with both
+essentials and luxuries, and to treat workers with kindness and decency,
+while not neglecting to assign some funds for savings, and some for
+donations to charity.
+
+A woman's traditional role was to marry and bear children. Aside from
+this, her options were limited. We rarely hear of professional women
+aside from sex workers. In this context, the opportunity to become a nun
+allowed women to pursue their own spiritual and intellectual
+development, to act as leaders and teachers, and to be respected and
+supported in that role.
+
+Many of the more extreme manifestations of sexual discrimination are not
+found in the early texts. We find no mention of child brides, immolation
+of widows, or the essential subjugation of women to men.
+
+India had not yet developed a full-fledged caste system. But there was a
+much simpler fourfold division of society:
+
+Aristocrats (*khattiya*)
+
+:   Owners of land (*khetta*), typically wealthy and powerful, engaged
+    in statecraft, war, and production. The Buddha was from an
+    aristocratic clan. The aristocrats placed themselves at the highest
+    tier of society.
+
+Brahmins (*[brāhmaṇa]{lang="sa"}*)
+
+:   Members of a hereditary priestly class. The brahmins were custodians
+    of sacred texts called "Vedas", and performed rituals and ceremonies
+    to their various deities. However by the time of the Buddha many
+    brahmins were simply engaged in ordinary worldly livelihoods and
+    their religious role was secondary. They believed themselves to be
+    the children of God ([Brahmā]{lang="sa"}).
+
+Merchants (*vessa*):
+
+:   Engaged in trade and commerce.
+
+Workers (*sudda*)
+
+:   Performed physical labor.
+
+Not everyone fit into this neat scheme. We hear reference to outcastes
+and various tribal peoples. In addition, there were slaves or bonded
+servants. Finally, the ascetics (*[samaṇa]{lang="sa"}*) such as the
+Buddha saw themselves as having left behind all such notions of caste.
+
+### The Many Spiritual Paths of Ancient India {#the-many-spiritual-paths-of-ancient-india .unnumbered}
+
+Change in the Buddha's day was not limited to the worldly sphere. The
+religious life of ancient India was equally dynamic. For this reason it
+would be a mistake to assume that India in the time of the Buddha was
+primarily a Hindu society. Some of the elements that make up modern
+Hinduism may be discerned, but Indian religion, like spiritual and
+religious practice everywhere, has always been in a state of flux and
+evolution.
+
+In the time of the Buddha, and indeed even to this day, the ancient
+pre-Buddhist Vedas formed the basis for the spiritual life of the
+brahmins and those who followed them. Rituals such as the *agnihotra*,
+the daily pouring of ghee onto the fire as an offering to the fire-god
+Agni---originated long before the Aryan people even came to India, and
+continue to be performed today.
+
+Nevertheless, many of the old gods featured in the Vedas had vanished by
+the time of the Buddha, and many of the famed deities of later Hinduism
+had not yet appeared. Those who do appear take on a markedly different
+aspect; prominent gods such as Vishnu (Pali: *[Veṇhu]{lang="sa"}*) or
+Shiva (Pali: *Siva*) appear in minor roles, and a warrior like Sakka
+(AKA Indra) appears as an apostle of peace. There were no temples, no
+images, and no cult of devotion (*bhakti*). There is no mention of a
+system of *avatars*, nor of familiar concepts from modern Hindu-inspired
+spirituality such as *[śakti]{lang="sa"}*, *[kuṇḍalinī]{lang="sa"}*,
+chakras, or yoga exercises.
+
+Moreover, when we look at the aspects of modern Hinduism that were
+present at the time, many of them are completely separate from each
+other. No-one considered, for example, the worship of a local dragon
+(*[nāga]{lang="sa"}*) to have anything to do with the rites of the
+brahmins. The outstanding feature of Hinduism---the great synthesis of
+religious and philosophical ideas and practices, from simple animism to
+profound non-dualism---had not yet been undertaken. Different strands of
+religious life were quite distinct and were not considered to be part of
+the same path.
+
+Thus historians do not refer to the brahmanical religion of the time as
+Hinduism, but rather as Vedism or Brahmanism. It was nearly a thousand
+years later that the movement recognizable as modern Hinduism became
+prominent in India. To be sure, much of Hinduism is drawn from the
+Vedas, in the same way that much of Catholicism is drawn from the Hebrew
+scriptures that Christians call the Old Testament. But were you to meet
+Abraham or Noah and address them as "Catholics", they would not know
+what you are talking about. And the Indians of the Buddha's time would
+have been equally unfamiliar with the very idea of "Hinduism".
+
+All this notwithstanding, there is an oft-repeated claim to the effect
+that the Buddha "was born, lived, and died a Hindu", attributed to the
+great pioneer of Indology, Thomas Rhys Davids. While it is true that he
+did write this, it was in an early work, page 116 of *Buddhism: its
+history and literature*, a lecture series published in 1896. But by 1912
+his views had changed, for on page 83 of *Buddhism: Being a sketch of
+the life and teachings of Gautama, the Buddha*, he said:
+
+> Gautama was born, and brought up, and lived, and died a typical
+> Indian. Hinduism had not yet, in his time, arisen.
+
+Rhys Davids emphasizes that the Buddha did not have an antagonistic
+relation to the Brahmanical religion. His purpose was not religious
+reform, but freedom from suffering. However, on page 85 of the same work
+he comments:
+
+> In the long run the two systems were quite incompatible. ... Gautama's
+> whole training lay indeed outside of the ritualistic lore of the
+> Brahmanas and the brahmins. The local deities of his clan were not
+> Vedic.
+
+The lesson here is that we must avoid reading modern conditions back
+into ancient times. The peoples of ancient India had their own rich,
+complex, and many-faceted spiritual lives. We can only begin to
+understand them, and to understand how the Buddha related to them, when
+we set aside our modern preconceptions and preoccupations and listen to
+what they had to say for themselves.
+
+An outstanding feature of early Buddhist texts is interreligious
+dialogue. The Buddha did not live in a Buddhist culture. We frequently
+encounter the Buddha and his disciples discussing various aspects of
+spiritual philosophy and practice with followers of other spiritual
+paths, or with people of no particular path. Sometimes they would come
+to the Buddha seeking to learn or even to attack. And it is not uncommon
+to find the Buddha and his disciples actively seeking out followers of
+other spiritual paths simply to engage in conversation. In this, the
+early texts are quite different from later Buddhist literature, which
+almost always consists of Buddhists speaking with other Buddhists.
+
+While many of these people ended up declaring themselves followers of
+the Buddha, this was not the purpose of the dialogue. The Buddha did not
+debate simply to win an argument, but out of compassion, to help
+alleviate suffering.
+
+Amid the complex sets of religious practices, we may discern three major
+domains.
+
+#### Animism {#animism .unnumbered}
+
+In the villages and towns of ancient India, the most widespread folk
+religion was a belief in the omnipresent reality of spirits in nature.
+Such deities might embody aspects of the weather, or live in plants or
+rivers or caves; they might promote abundance, or take ferocious and
+threatening forms. They were unreliable, but could be wooed through
+simple offerings of rice, flowers, or ghee.
+
+Animist beliefs were derived from local legends and rituals, not from
+religious philosophy. However, the higher religious paths such as
+Buddhism or Jainism, rather than repressing such beliefs, were happy to
+assign them a minor role in the scheme of things, so long as they
+eliminated harmful practices like human or animal sacrifice.
+
+Throughout the Buddhist texts, we hear of *yakkhas* (spirits),
+*[nāgas]{lang="sa"}* (dragons), *gandhabbas* (fairies), *garudas*
+(phoenixes), and many more. The Buddhist attitude towards such beings
+might best be described as "good neighborliness". Neither they, nor any
+higher beings, are worshiped or looked to for salvation. Rather, they
+are treated with respect and dignity, for who knows? If they are real,
+it would be good to have them on your side.
+
+#### Brahmanism {#brahmanism .unnumbered}
+
+The caste who called themselves "brahmins" inherited an ancient body of
+sacred lore known as the Vedas. This consisted of sets of oral
+scriptures, among which the Ṛg Veda was primary. In the early Buddhist
+texts there are three Vedas: Ṛg, [Sāma]{lang="sa"}, and Yajur; the
+Atharva is mentioned, but was not yet considered to be a Veda.
+
+The Ṛg Veda grew out of the cultural and religious milieu of the ancient
+Indo-European peoples. It shares a common heritage with the Avestan
+texts of Iranian Zoroastrianism, and more distantly, the mythologies of
+Europe.
+
+It seems that Indo-European peoples moved into India around a millennium
+before the Buddha, with distinct clans maintaining sets of sacred lore.
+In the early centuries of the first millennium BCE, in the area known as
+the Kuru country (modern Delhi), the clans were unified into the
+classical brahmanical kingdom whose story is echoed in the
+[Mahābharata]{lang="sa"}. The Ṛg Veda was forged from the books of the
+clans, wrapped in opening and closing chapters emphasizing unity. By the
+time of the Buddha, the brahmanical culture and language had already
+become strongly established in the regions further south and east where
+the Buddha lived.
+
+The brahmins insisted on the holiness of their caste, the efficacy of
+their rituals, the truth of their scriptures, and the omnipotence of
+their deity. The Buddha rejected all these claims out of hand.
+
+However, Brahmanical traditions were far from a unified monolith. We see
+a strong strand of questioning of tradition, of seeking out new ways, of
+earnest seeking of the truth; and such attitudes are just as strong in
+the Brahmanical texts as the Buddhist.
+
+Brahmins were typically family men, living a settled life, and expecting
+a degree of social respect and standing due to their learning and caste.
+But some brahmins had adopted an ascetic lifestyle, apparently
+influenced by the *[samaṇas]{lang="sa"}*.
+
+In the generations preceding the Buddha, brahmanical philosophy had
+reached a peak in the [Upaniṣads]{lang="sa"}, with their sophisticated
+debates and mystic philosophy of the essential unity of self and cosmos.
+These texts form the immediate dialectical context of the Buddha's
+philosophy. [Yājñavalkya]{lang="sa"}, a key [Upaniṣadic]{lang="sa"}
+philosopher, lived around [Mithilā]{lang="sa"}, in the same region
+traversed by the Buddha, no more than a century or two before him. Some
+early [Upaniṣads]{lang="sa"} are apparently referred to in [DN
+13](https://suttacentral.net/dn13) *The Three Knowledges*
+(*Tevijjasutta*), and the [Upaniṣadic]{lang="sa"} doctrine of "self"
+(*[ātman]{lang="sa"}*) was prominently rejected by the Buddha in his
+most distinctive teaching: not-self (*[anattā]{lang="sa"}*).
+
+#### The [Samaṇas]{lang="sa"} {#the-samaṇas .unnumbered}
+
+Quite distinct from the brahmins, and often in opposition to them, was a
+complex set of religious movements known as the *[samaṇas]{lang="sa"}*
+or "ascetics". Six prominent ascetic schools were acknowledged in the
+time of the Buddha. The Buddha counted himself as an ascetic, too, in
+view of the many similarities between his own movement and theirs.
+
+Like the Buddhist mendicants, the other *[samaṇas]{lang="sa"}* were
+typically celibate renunciates, living either in solitude or in monastic
+communities, and relying on alms for food. The most famous
+movement---and the only one to survive until today---was Jainism, which
+flourished under their leader [Mahāvīra]{lang="sa"}, known as
+[Nigaṇṭha]{lang="sa"} [Nātaputta]{lang="sa"} in the Buddhist texts.
+
+The ascetics shared an iconoclastic attitude, and all rejected the
+brahmanical system *in toto*. However they varied amongst each other, as
+shown in their teachings attested at [DN
+2](https://suttacentral.net/dn2) *The Fruits of the Ascetic Life*
+(*[Sāmaññaphalasutta]{lang="sa"}*) as well as [MN
+60](https://suttacentral.net/mn60) and [MN
+76](https://suttacentral.net/mn76). Some emphasized austerities and
+self-mortification, others rationality and debate. Some advocated ardent
+effort, others a resigned fatalism. Some taught rebirth, while others
+asserted that this material world was the only reality.
+
+While their doctrines may appear florid and obscure, and their practices
+sometimes bizarre and pointless, the ascetic movements are a lasting
+testament to the diversity, vigor, and innovation of religious life in
+ancient India.
+
+### Cosmology {#cosmology .unnumbered}
+
+A recurring theme in many of the religious strands of India is a concern
+for cosmology. A religious philosophy was expected to paint a picture of
+the world on a large scale and indicate humanity's role within it. Like
+all aspects of religious life, such cosmologies were partly shared
+across traditions and in part were unique to each tradition.
+
+Some traditions asserted a materialist cosmology, rejecting the notion
+that one would be reborn in any other state, and asserting that only
+this life was real.
+
+Most cosmologies, however, posited multiple realms of existence. Beings
+would come and go from these different stations. Some were pleasant and
+desirable, while others were not. As to why this was so, different
+reasons were given.
+
+- Some ascetics argued that beings transmigrated due to destiny or
+  chance.
+
+- Mainstream Brahmanical traditions said it was due to the performance
+  of rituals and sacrifices to the gods.
+
+- Some said that rebirth was determined by intentional actions, whether
+  moral or immoral.
+
+The latter view was held by some ascetic schools, such as Buddhism and
+Jainism, and some of the more advanced and innovative threads of
+Brahmanism. These traditions shared a conception of transmigration that
+in many ways is quite similar. Three common elements can be discerned:
+
+1.  All sentient beings are reborn countless times in process called
+    *[saṁsāra]{lang="sa"}* ("transmigration").
+
+2.  This process is driven by ethical choices (*kamma*). Good deeds lead
+    to a pleasant rebirth; bad deeds lead to a painful rebirth.
+
+3.  True salvation is not found in any realm of existence, but only in
+    liberation from transmigration itself.
+
+While these aspects of the cosmology were shared, the details differed
+in both theory and practice.
+
+Jain and Brahmanical theory proposed that transmigration was undergone
+by a soul or self which could attain freedom. For the Jains, the
+individual soul (*[jīva]{lang="sa"}*) attains eternal purity and bliss.
+For the most sophisticated among the brahmins, the individual self
+(*[ātman]{lang="sa"}*) realizes its true nature as identical with the
+divinity that is the cosmos itself (Sanskrit: *tat tvam asi*; Pali: *eso
+hasmasmi*; *so [attā]{lang="sa"} so loko*).
+
+The Buddha rejected all such metaphysical notions of self or soul.
+Instead, he explained transmigration as an ongoing process of changing
+conditions, formulated as the famous twelve links of dependent
+origination (*[paṭicca]{lang="sa"} [samuppāda]{lang="sa"}*).
+
+In the practical application of their theory, Jains believed that the
+way to salvation was to firstly avoid harming any sentient beings, even
+unintentionally, and then to burn off past *kamma* through painful
+self-mortification. Such practices are described frequently and in
+detail, attesting to their prominence in early Indian spiritual life.
+
+The brahmins, as seen in the suttas, did not have such a clear and
+unambiguous path to a highest goal, and indeed are depicted as arguing
+among themselves as to the correct path. This reflects the historical
+situation, where the earlier, simpler, and more worldly goals of Vedic
+Brahmanism were growing into a more sophisticated
+[Upaniṣadic]{lang="sa"} form.
+
+For the [Upaniṣads]{lang="sa"}, the key to salvation was understanding.
+It is only one who understands the rituals and philosophies correctly
+(*ya evam veda*) who will experience their full benefit. In the
+centuries prior to the Buddha, this path of wisdom had developed into a
+profound contemplative culture, expressed in the ecstatic and mystical
+passages of the [Upaniṣads]{lang="sa"}.
+
+The Buddha shared the Jain concern for avoiding harm, but rejected the
+practice of extreme austerities. Rather than bodily torment, he
+emphasized mental development.
+
+Certain Brahmanical lineages had developed meditation to a high degree,
+but meditative states were still conceived in metaphysical terms. The
+Buddha adopted such meditations for their value in purifying the mind,
+but interpreted them in purely psychological terms, rejecting
+metaphysics entirely.
+
+One of the benefits of advanced meditation was that a practitioner would
+develop the ability to perceive many past lives and many realms into
+which beings may be reborn. In this, we may distinguish between the core
+doctrinal texts, which typically speak of rebirth in general terms as
+good or bad destinies, and the narrative portions, which depicted the
+realms of rebirth in terms familiar from popular Indian cosmology.
+
+The early texts do not attempt to systematize these realms in any great
+detail. Indeed, the various deities and realms mentioned defy any simple
+categorization. Later Buddhism developed a theory of various realms,
+sometimes called the 31 planes of existence, but this does not fully
+represent the situation as found in the early texts.
+
+Here is a general overview of the most important realms found in the
+suttas. It is crucial to remember that, in the Buddhist view, all of
+these, even the most high, are impermanent and do not constitute true
+freedom. They are not separate metaphysical planes, but mere stations in
+which consciousness may spend some time during its long journey.
+
+[Brahmā]{lang="sa"} realms
+
+:   The highest heavens, which correspond to attainments of absorption
+    meditation (*[jhāna]{lang="sa"}*), and may only be attained by
+    *[jhāna]{lang="sa"}* practitioners. The [Brahmā]{lang="sa"} realms
+    include the realms of luminous form (*[rūpaloka]{lang="sa"}*) and
+    the formless realms (*[arūpaloka]{lang="sa"}*). The former are
+    attained by means of the four primary absorptions. In this context,
+    the word "form" refers to the refined and radiant echo or reflection
+    of the original meditation subject upon which these states are
+    based. The formless states lie beyond this, and are realized when
+    even that subtle luminosity disappears.
+
+Heavens of sensual pleasures
+
+:   Many of these are mentioned, most commonly the realm of the
+    Thirty-Three, governed by Sakka. Various beings from Indian animist
+    beliefs are said to inhabit the lower tiers of these realms.
+
+Human realm
+
+:   The most important realm, where Buddhas appear and the spiritual
+    path is taught.
+
+Lower realms
+
+:   These include the animal realm, the ghost realm, and the hells. The
+    realm of the *asuras*---titans or demons---is usually placed here in
+    the later cosmologies, but the early texts seem to treat it as one
+    of the heavens.
+
+The Buddha taught that doing good and avoiding bad was the path to
+rebirth in one of the fortunate realms, which include the human realm
+and all higher realms. However, the course of transmigration is long and
+unpredictable, so no heaven realm provides a sure refuge.
+
+Far from teaching rebirth as a solace for naive followers unable to face
+the inevitability of death, rebirth is depicted in traumatic and
+terrifying terms: the tears that one has shed in the endless course of
+transmigration are greater than all the waters in all the oceans of the
+world. Thus the true significance of doing good deeds is not merely to
+get a better rebirth, but to lay the foundations for higher spiritual
+development, primarily through meditation.
+
+In the core teaching of the four noble truths, the origin of all
+suffering is traced to the craving that is connected with rebirth
+(*[yāyaṁ]{lang="sa"} [taṇhā]{lang="sa"} [ponobbhavikā]{lang="sa"}*). The
+practice of the noble eightfold path is the only thing that enables one
+to let go of that craving and be free of suffering. This is what the
+Buddha called "extinguishment" or "quenching" (Pali:
+*[nibbāna]{lang="sa"}*; Sanskrit *[nirvāṇa]{lang="sa"}*).
+
+### On the Pali Language {#on-the-pali-language .unnumbered}
+
+[Theravāda]{lang="sa"} Buddhist texts are written in Pali. This ancient
+Indic language can be thought of as a simplified cousin of Sanskrit.
+Here are some well-known words in both languages.
+
+- Sanskrit *karma* is Pali *kamma*.
+
+- Sanskrit *dharma* is Pali *dhamma*.
+
+- Sanskrit *bodhisattva* is Pali *bodhisatta*.
+
+- Sanskrit *[nirvāṇa]{lang="sa"}* is Pali *[nibbāna]{lang="sa"}*.
+
+- Sanskrit *[bhikṣuṇī]{lang="sa"}* is Pali *[bhikkhunī]{lang="sa"}*.
+
+Pali belongs to the Indo-European language family, which was introduced
+to India perhaps a millennium or so before the Buddha with the
+Indo-European (or "Āryan") incursions. It was subsequently enriched by a
+large number of words adopted from local languages, primarily Dravidian
+and Munda. Pali or closely related languages were used across the
+greater Gangetic plain in the cultural and economic region identified by
+the use of Northern Black Polished Ware.
+
+Despite its great antiquity, Pali is a well studied and clearly defined
+language. This is because the ancient Indians developed an advanced
+science of linguistics, which is already mentioned in the earliest Pali
+texts. Within a few generations of the Buddha, these were synthesized
+and standardized by [Pāṇini]{lang="sa"} in his Sanskrit grammar, the
+[Aṣṭādhyāyī]{lang="sa"}, a comprehensive technical treatise which is
+perhaps the greatest intellectual achievement in the secular sciences of
+ancient times. [Pāṇini]{lang="sa"}'s methods were later adapted to
+create Pali grammars, which remain the basis for the study of Pali to
+this day. The [Theravāda]{lang="sa"} tradition has always prided itself
+on its commitment to precision and care in matters of language and
+scripture, with the result that the canonical Pali texts are, for the
+most part, well edited, clear, and consistent.
+
+Pali is a highly inflected language, which means that the forms of words
+are adapted to indicate such things as gender, number, case, and the
+like. This makes the study of Pali grammar quite intensive, but it also
+helps in parsing out the structure of sentences.
+
+The name of the language can be a little confusing. The
+[Theravāda]{lang="sa"} commentaries say they are written in
+[Māgadhī]{lang="sa"}, "the language of Magadha". For them,
+*[pāḷi]{lang="sa"}* means "text", i.e. the canonical scripture as
+opposed to commentary. In modern times, however, the language of the
+[Theravāda]{lang="sa"} scriptures has come to be called Pali, while the
+dialect of the Ashokan pillars is called [Māgadhī]{lang="sa"}. I follow
+these modern conventions.
+
+The historical origins of Pali are a matter of ongoing academic
+research, which I will not go into here. Tradition holds that Pali was
+spoken by the Buddha, and this is surely true in the sense that what he
+spoke would have been closer to Pali than any other known language, with
+the possible exception of Ashokan [Māgadhī]{lang="sa"}.
+
+In my view, the least persuasive theory is that the Buddha spoke a
+single consistent language all the time. This is so implausible as to be
+virtually impossible; it's just not how language works. In ancient times
+language was highly diverse, with different accents and dialects
+sometimes from one village to the next. The process of language
+standardization is slow and uncertain, and it is still common to adapt
+languages per context. In Thailand, for example, it is normal for monks
+from the north-east to speak to the villagers in their local Isaan
+language---which itself varies regionally---and to visitors from Bangkok
+in central Thai. In Malaysia, monks might switch between English,
+Hokkien, and Mandarin in a single talk. Even those who know only one
+language use context-switching all the time, adapting vocabulary,
+accent, and grammar to accommodate speaking with people of different
+classes, generations, or language communities.
+
+This problem was addressed by the Buddha himself in the
+[Araṇavibhaṅgasutta]{lang="sa"} ([MN
+139:12.8](https://suttacentral.net/mn139)), and he could not have made
+his policy more clear.
+
+> "How do you not insist on local terminology and not override normal
+> usage? It's when in different localities the same thing is known as a
+> 'plate', a 'bowl', a 'cup', a 'dish', a 'basin', a 'tureen', or a
+> 'porringer'. And however it is known in those various localities, you
+> speak accordingly, thinking: 'It seems that the venerables are
+> referring to this.'"
+
+Unless the Buddha failed to follow his own advice, we can assume that he
+adopted local dialects in his journeys, just as anyone else would. In
+his travels from Nepal to the Deccan, from Bengal to Delhi, and in his
+conversations with folks from all walks of life, from outcastes to
+brahmins and kings, he would have used language that fitted his context.
+This is more apparent in literary forms than in linguistic variation.
+Verse forms in particular are strongly correlated with educated and
+elite classes: deities, brahmins, and kings.
+
+The language we call Pali has been standardized and streamlined to some
+degree, while not eliminating all traces of its dialectical origins. I
+think the specific features of Pali are likely to be influenced by the
+language of Avanti, the home town of Mahinda son of Ashoka, who first
+brought the texts to Sri Lanka. This historical problem is really of
+most interest to linguists, since the differences between these dialects
+are minor. Understanding of the dialectical situation can help to clear
+up some tricky problems, but does not affect the vast majority of Pali
+passages which are perfectly clear.
+
+In modern times the study of Pali remains popular in
+[Theravāda]{lang="sa"} Buddhism, and any serious student will pick up
+some technical vocabulary. However, as my father used to warn me, "A
+little knowledge is a dangerous thing." There are people who learn a few
+terms and ideas and think this grants them the expertise to discard
+2,500 years of sophisticated linguistic learning. Some even start their
+own schools and teachings based on nothing more than silly linguistic
+mistakes. I've been studying, memorizing, reciting, translating, and
+teaching Pali for half my life, and I still learn something new most
+every day. If you want to set out on the journey of exploring Pali, make
+sure to stash plenty of patience and humility along with the curiosity
+in your backpack.
+
+Pali is written phonetically, which means that the way it is spelled
+matches how it sounds. This has been the case since the beginning, as
+even the first Indic script, [Brāhmī]{lang="sa"}, is phonetic.
+[Brāhmī]{lang="sa"}, which is first attested in the Ashokan edicts,
+became the source of all later Indic scripts, as well as those of south
+and south-east Asia such as Thai, Sinhala, Lanna, Khmer, and Myanmar.
+Over time, Pali came to be written in all these scripts.
+
+These phonetic scripts were made possible by the linguistic science of
+the ancient pandits, which precisely defined the value of each sound.
+Despite this, the popular pronunciation of Pali varies from place to
+place. This is because local Buddhist traditions use different
+transliteration systems influenced by the national languages, and the
+sound of letters in Pali does not always match the sound of the same
+letter in the local language. Thus *buddha* in Pali is pronounced
+*budda* in Sinhala, *phuttha* in Thai, and *booda* in American English.
+Nonetheless, scholars of every nation are well aware of the correct
+pronunciation.
+
+In the nineteenth century, various schemes for representing Pali and
+Sanskrit in Roman characters were developed. Scholars such as Sir Muthu
+Coomaraswamy urged the adoption of a standardized Romanization so that
+international scholars could easily read texts from the different
+regions. Such a unified standard for transliteration of Sanskrit and
+Pali was formalized in 1894 in Geneva at the International Congress of
+Orientalists. This became widely used by international scholars, and
+with minor emendations was adopted as ISO 15919 in 2001. Due to the
+strictly mechanical nature of such phonetic representations,
+SuttaCentral is able to show Pali texts in dozens of scripts, powered by
+the Aksaramukha conversion utility.
+
+The pronunciation of Pali is quite simple. The ancient grammars clearly
+define the places and manner of articulation in the mouth. Vowels are
+pure monophthongs, not dipthongs; that is, the sound remains fixed
+throughout and does not glide while being articulated. Most vowels in
+many varieties of English are pronounced with some degree of
+dipthongalization, so native English speakers should train to remove
+this by pronouncing each vowel with the mouth held still. With this
+qualification, here are approximate vowel equivalents in English.
+
+a
+
+:   short: *lal* = "lull"
+
+[ā]{lang="sa"}
+
+:   long: *[lā]{lang="sa"}* = "lah"
+
+i
+
+:   short: *thil* = "till"
+
+[ī]{lang="sa"}
+
+:   long: *[thī]{lang="sa"}* = "tea"
+
+u
+
+:   short: *phul* = "pull"
+
+[ū]{lang="sa"}
+
+:   long: *[cū]{lang="sa"}* = "chew"
+
+o
+
+:   long: *so* = "so" (short before double consonants)
+
+e
+
+:   long: *jel* = "jell" (short before double consonants)
+
+Consonants are all pronounced distinctly and not combined. The
+twenty-five main consonants follow a systematic pattern: there are five
+points of articulation in the mouth, and at each point there are five
+possible letters varied by aspiration and voicing, as well as a liquid
+consonant. In addition there are a few miscellaneous consonants.
+
+guttural: back of the mouth
+
+:   *k*, *kh*, *g*, *gh*, *[ṅ]{lang="sa"}*
+
+palatal: middle of the tongue on the roof of the mouth
+
+:   *c*, *ch*, *j*, *jh*, *[ñ]{lang="sa"}*
+
+retroflex: tongue-tip curled to touch the roof
+
+:   *[ṭ]{lang="sa"}*, *[ṭh]{lang="sa"}*, *[ḍ]{lang="sa"}*,
+    *[ḍh]{lang="sa"}*, *[ṇ]{lang="sa"}*
+
+dental: tongue touches the base of the teeth
+
+:   *t*, *th*, *d*, *dh*, *n*
+
+labial: at the lips
+
+:   *p*, *ph*, *b*, *bh*, *m*
+
+miscellaneous
+
+:   *y*, *r*, *l*, *[ḷ]{lang="sa"}*, *v*, *s*, *h*, *[ḷh]{lang="sa"}*,
+    *[ṁ]{lang="sa"}*
+
+The only ambiguous sign is *h*. By itself or when following most soft
+consonants it is equivalent to the English *h*. Thus *[haṁ]{lang="sa"}*
+is English "hung", while *[amhā]{lang="sa"}* would be "umm, hah". When
+following a hard consonant or the letter *[ḷ]{lang="sa"}*, *h* is a sign
+of aspiration, not a separate letter. It is realized as a puff of air
+following the letter.
+
+Most unvoiced consonants in English are aspirated, whereas Pali has both
+aspirated and unaspirated variants. We can emulate this by taking
+advantage of the fact that in English we drop the aspiration when
+following *s*. Thus *t* is pronounced like *t* in "still", while *th* is
+like *t* in "till". Likewise for *p* in "spill" versus *ph* in "pill",
+and *k* in "skill" versus *kh* in "kill". *C* is like *ch* in "beach",
+while *ch* is like *chh* in "beachhouse". Note that Pali does not have
+the fricative sounds spelled in English with *f* or *ph*, as well as
+*th* as in "thing" or "there". *Th* is an aspirated *t*, and *ph* is an
+aspirated *p*.
+
+Voiced aspirated consonants (*gh*, *jh*, *[ḍh]{lang="sa"}*, *dh*, *bh*)
+are not found in English, but they can be approximated by combining
+words such as "bigheart" or "madhouse".
+
+Doubled consonants are always pronounced, such "big gun", or "sad dad".
+Before a double consonant, a long vowel is shortened.
+
+Retroflex consonants are not found in English, but the effect is similar
+to the American *r*. Thus Pali *[pāṭi]{lang="sa"}* is similar to the
+American pronunciation of "party".
+
+Finally, *v* is soft like *w*, *r* is like *r* in American English, and
+*s* is pure sibilant (*[sū]{lang="sa"}* is "sue" not "zoo"). *Ṁ*, known
+as *[anusvāra]{lang="sa"}*, nasalizes the preceding vowel, but in
+practice it is usually pronounced as the *ng* in "sing".
+
+### On the Pali Commentaries {#on-the-pali-commentaries .unnumbered}
+
+The Pali canonical texts are accompanied by an extensive and detailed
+set of commentaries (*[aṭṭhakathā]{lang="sa"}*) and subcommentaries
+(*[ṭīkā]{lang="sa"}*). These texts are, for most people, even more
+mysterious than the canon itself, so let me say a few words on them.
+
+The main commentaries were compiled by the monk Buddhaghosa at the
+[Mahāvihāra]{lang="sa"} monastery in Anuradhapura, then the capital of
+Sri Lanka, in the 5th century. Buddhaghosa inherited a series of older
+commentaries in the old Sinhalese language, now lost. These had been
+compiled over the centuries in Sri Lanka, mostly between around 200
+BCE--200 CE; that is to say, the main content of the commentaries was
+closed several centuries before Buddhaghosa.
+
+It was all a bit messy, with text in Pali and commentaries in Sinhala,
+and a variety of different commentarial texts. Buddhaghosa aimed to
+streamline the situation by combining all the old commentaries into a
+single system, translated into Pali.
+
+Buddhaghosa's work remains as an extraordinary accomplishment of
+traditional scholarship. He had an almost preternatural mastery of his
+materials, and the clarity and rigor of his writings make light work of
+what must have been an exceedingly difficult task. It is crucial to
+remember that he saw his work as that of an editor, compiler, and
+translator. That is what he claimed to be doing, and from everything we
+know about his work, he was a scholar of integrity who did exactly what
+he said. When he felt a need to express his own opinion he said so; but
+such interventions were rare and hesitant. The commentaries are the
+record of discussions and explanations of the Pali texts handed down in
+the [Mahāvihāra]{lang="sa"} tradition, not the opinions of Buddhaghosa.
+
+While Buddhaghosa compiled commentaries on the major texts, he left some
+incomplete. It is not always certain which commentaries were by him; but
+in any case later scholars completed his work. Subsequently,
+subcommentaries were written to clarify obscure points in the
+commentaries.
+
+In modern [Theravāda]{lang="sa"}, the commentaries have become a sadly
+and unnecessarily divisive issue. Some people take the entire tradition
+uncritically and regard the commentaries as essentially infallible.
+Others flip to an extreme of suspecting anything in the commentaries,
+rewriting [Theravādin]{lang="sa"} history as a conspiracy of the
+commentaries. But any serious scholar knows that the commentaries are
+often helpful, even indispensable, on countless difficult and obscure
+points. Without them, there is no way we would have been able to create
+the accurate dictionaries and translations that we have today. Yet they
+cannot be relied on blindly, for, like any resource, they are fallible,
+and must be read with a careful and critical eye. On some doctrinal
+issues, the position of the commentaries had shifted considerably from
+the stance in the suttas, and not in illuminating ways.
+
+I once read some advice from a Burmese Sayadaw---I am afraid this was
+many years ago and I have forgotten who it was---on how to use the
+commentaries. He said---and I paraphrase---something like this. First
+read the sutta. Try to understand it. Read it and meditate on it again
+and again. If there's anything you don't understand, see if it can be
+explained elsewhere in the suttas. If, at the end of the day, you still
+cannot understand it, check the commentary. If it answers the question,
+good. But if, after equally careful study, the commentary is still
+unclear, then check the subcommentary.
+
+This has always seemed like sound advice to me, and I have tried to
+follow it. The purpose of the commentary is to help explain the suttas.
+Where the suttas are clear---and mostly they are---there is no need to
+refer to the commentary. The only extra thing I would add is that, in
+addition to the commentaries and subcommentaries, we now also have
+Chinese and Sanskrit parallels to help us understand difficult passages.
+
+In these guides, I almost completely leave aside the commentarial
+explanations. In several places the explanations I have given differ
+from those in the commentaries. I am aware of this, and have written on
+most of these things elsewhere, but I do not want to burden the guides
+by re-litigating every controversy. I don't contradict the commentaries
+out of ignorance or stubbornness, but because after many years of study,
+contemplation, discussion, and practice, I have come to see some things
+differently.
+
+### A Brief and Incomplete Textual History {#a-brief-and-incomplete-textual-history .unnumbered}
+
+The significance of the *[nikāyas]{lang="sa"}* was recognized by
+European scholars early on. I will discuss specifics of the editions and
+translations in the essays on the individual *[nikāyas]{lang="sa"}*, and
+here offer some general remarks.
+
+During the 19th century, European scholars became aware of the Pali
+tradition, seeing in it a reliable source of information for the Buddha,
+his times and his teachings. An English civil servant in Sri Lanka,
+Thomas Rhys Davids, learned Pali from the monks, initially to help him
+better understand Sri Lankan legal practices. Recognizing the
+significance of these texts, he returned to England and established the
+Pali Text Society (PTS), largely funded by Asian donors. They obtained
+palm-leaf manuscripts, on the basis of which the PTS prepared print
+editions of the main Pali texts.
+
+The PTS editions introduced a number of ideas from European scholarship.
+Most obviously, they used a set of conventions for presenting Indic
+scripts with European letters. This system is lossless, so texts may be
+automatically changed from one script to another. It enables easy
+comparison between the editions of the Pali canon from different
+countries, which traditionally had been written in diverse local
+scripts. They also introduced titles at the start of texts, punctuation
+and capitalization, page numbers, footnotes, variant readings, and
+various other modern innovations.
+
+One innovation that was not pursued consistently was the use of chapter
+and section numbers. These were added to the PTS Pali editions of the
+[Dīgha]{lang="sa"} [Nikāya]{lang="sa"} and the Vinaya, and are used in
+subsequent translations. However most of the PTS editions lack such
+sections, with the unfortunate consequence that academic referencing of
+Pali texts is still based on the volume and page of the PTS edition, a
+system that is neither practical nor precise.
+
+The PTS editions were ground-breaking and have exerted an unparalleled
+influence on modern Buddhism, both east and west. Asian scholars have
+been well aware of them, with the consequence that it is probably hard
+to find any printed edition from the 20th century that is completely
+free of their influence. Nevertheless, the PTS texts are not
+particularly reliable. They were put together over a considerable period
+of time, with scant resources and few workers. The editors used whatever
+manuscripts they had to hand, and, apart from a general preference for
+Sri Lankan readings, it is hard to discern a consistent or clear
+methodology in their choices of readings. The limitations of these
+editions are well known among experts in the field, and in some cases
+updated and improved editions have been published.
+
+For my translation of the *[nikāyas]{lang="sa"}*, I preferred to use the
+[Mahāsaṅgīti]{lang="sa"} edition. This is essentially a digital
+representation of the Burmese textual tradition of the 6th Council,
+itself based on the 19th century 5th Council text. It is based on the
+digital edition prepared by the Vipassana Research Institute, with
+extensive proofreading and corrections by the Dhamma Society of Bangkok.
+The [Mahāsaṅgīti]{lang="sa"} is a consistent and carefully edited
+digital text, and for that reason was chosen as the root Pali text for
+SuttaCentral. But it should not be assumed that it is the most
+authentic. On the contrary, it preserves the Burmese readings, which
+tend to correct the text in conformity with the Pali grammars.
+Nevertheless, in almost all such cases there is no difference in the
+meaning, just minor differences in spelling.
+
+Like most translators, when editions vary I did not adhere to one
+edition, but simply selected what seems to be the best reading in each
+case. I referred to the PTS editions fairly often. More rarely, I
+consulted the romanized Buddha Jayanthi edition found on GRETIL; note,
+however, that the digital edition is widely regarded as being inferior
+to the original in Sinhalese script. Occasionally I also consulted the
+Rama 5 edition in Thai script. I also consulted previous translations,
+especially those of Bhikkhu Bodhi.
+
+In problematic cases I cross-checked the Pali against the Sanskrit and
+Chinese parallels; I did not make use of Tibetan sources. However in
+every case the overriding intention was to accurately represent the Pali
+text. Only in a very few exceptional cases did I rely on the Sanskrit or
+Chinese parallels to correct the Pali.
+
+## The Long Discourses: Dhamma as literature and compilation {#the-long-discourses-dhamma-as-literature-and-compilation .unnumbered}
+
+::: flushright
+*Bhikkhu Sujato, 2019*
+:::
+
+The [Dīgha]{lang="sa"} [Nikāya]{lang="sa"} is the first of the four main
+divisions in the Sutta [Piṭaka]{lang="sa"} of the Pali Canon
+(*[tipiṭaka]{lang="sa"}*). It is translated here as *Long Discourses*.
+As the title suggests, its discourses are somewhat longer than those of
+other *[nikāyas]{lang="sa"}*. There are, however, only 34 discourses in
+the collection, so despite the length of the individual discourses, the
+collection as a whole is the shortest of the *[nikāyas]{lang="sa"}*.
+
+It is distinguished from the other *[nikāyas]{lang="sa"}* by its more
+developed and elaborate literary forms. Outgrowing the bare and direct
+style of most of the early texts, here the extra length offers space for
+narratives and doctrinal expositions to find a fuller expression. This
+is an early hint at how the literary form of Buddhist texts was to
+develop in later years, moving towards expansiveness and abundance.
+
+It is no coincidence that these elaborate texts are often addressed to
+the brahmins, who were the self-proclaimed spiritual leaders of the
+time. The brahmins were the custodians of the most sophisticated texts
+in ancient India up to this time, the Vedic literature. It seems that
+one aim of the [Dīgha]{lang="sa"} was to impress such learned men. These
+discourses offer a wide range of examples of how the Buddha related to
+those of other religious paths.
+
+Another overriding theme of the [Dīgha]{lang="sa"} is the passing away
+of the Buddha. The centerpiece of the collection is [DN
+16](https://suttacentral.net/dn16), *The Great Discourse on the Buddha's
+Extinguishment* (*[Mahāparinibbānasutta]{lang="sa"}*), a discourse of
+unrivaled importance. This presents the last journey of the Buddha,
+wandering in unhurried stages from town to town, each step bringing him
+closer to his passing. In the very length of the text, recording so many
+details of the journey, we can sense a longing to draw out those last
+precious days as far as possible.
+
+### How the [Dīgha]{lang="sa"} is Organized {#how-the-dīgha-is-organized .unnumbered}
+
+The 34 discourses are grouped in three *vaggas*. The first *vagga*
+consists of thirteen discourses, each of which includes a lengthy
+passage on the spiritual practice of a monastic, known as the Gradual
+Training (*[anupubbasikkhā]{lang="sa"}*).
+
+In the second *vagga* we find several discourses of a more biographical
+nature. [DN 14](https://suttacentral.net/dn14) *The Great Discourse on
+Traces Left Behind* (*[Mahāpadānasutta]{lang="sa"}*) tells of past
+Buddhas, while [DN 16](https://suttacentral.net/dn16)
+*[Mahāparinibbānasutta]{lang="sa"}* tells of Gotama's last days. In
+addition, some other discourses in this section are closely related to
+the *[Mahāparinibbānasutta]{lang="sa"}*. I will discuss this cycle
+further below.
+
+The final *vagga* is more miscellaneous. It includes long poetic
+sections, doctrinal compilations---some of which are precursors to the
+Abhidhamma---and narratives that are often humorous and occasionally
+border on farce.
+
+As usual in the *[nikāyas]{lang="sa"}*, there is no overall sequence of
+the teaching and many details of organization appear quite arbitrary.
+Still, we can discern a purpose in the arrangement of a few of the major
+discourses. These details are unique to the Theravadin tradition, so
+should be seen as reflecting their concerns, rather than the fundamental
+principles of the [Dīgha]{lang="sa"}.
+
+The first discourse, [DN 1](https://suttacentral.net/dn1) *The Prime
+Net* (*[Brahmajālasutta]{lang="sa"}*), sets out a scheme of wrong views,
+and thus acts as a filter for the Dhamma, screening out possible
+misinterpretations. It seems that this arrangement was connected with
+the events of the so-called "Third Council" under King Ashoka, at a time
+when the [Saṅgha]{lang="sa"} was overrun with imposters who were not
+genuine Buddhists. The second discourse, [DN
+2](https://suttacentral.net/dn2) *The Fruits of the Ascetic Life*
+(*[Sāmaññaphalasutta]{lang="sa"}*), addresses a fundamental question:
+why do people follow a life of renunciation? In answering this, it sets
+forth the Gradual Training, a distinctively Buddhist path to peace.
+
+The middle of the collection is dominated by discourses that deal in one
+way or another with the cosmic significance of the Buddha ([DN
+14](https://suttacentral.net/dn14), [DN
+16](https://suttacentral.net/dn16), [DN
+17](https://suttacentral.net/dn17), [DN
+18](https://suttacentral.net/dn18), [DN
+19](https://suttacentral.net/dn19), [DN
+20](https://suttacentral.net/dn20), [DN
+21](https://suttacentral.net/dn21); to these may be added [DN
+26](https://suttacentral.net/dn26), [DN
+27](https://suttacentral.net/dn27), [DN
+30](https://suttacentral.net/dn30), and [DN
+32](https://suttacentral.net/dn32)). Where the biographical texts of the
+Majjhima emphasize the practical and the personal, the specifics of how
+*our* Buddha lived, these discourses exist in an arena of mythic
+grandeur. Time and space are expanded as the poignant and personal
+details of the *[Mahāparinibbānasutta]{lang="sa"}* are set among a
+series of mythological texts that show the potency of the Buddha and his
+teachings in the deep past, in the apocalyptic future, and in the
+present among the orders of gods.
+
+The central event in all this is the death of the Buddha. Historically
+this was a traumatic crisis for the Buddhist community, and many feared
+that the Dhamma would not survive. By lifting attention from the present
+trauma and pointing to a longer meaning, these suttas show that the
+Dhamma need not die with the Buddha. The events of the
+*[Mahāparinibbānasutta]{lang="sa"}* spurred the [Saṅgha]{lang="sa"} to
+hold the First Council, where the discourses were collected and
+organized to ensure their preservation. And these are, of course, the
+very scriptures that we are reading. In this way, these narratives tell
+the story of their own origin.
+
+The [Dīgha]{lang="sa"} finishes with mostly doctrinal compilations ([DN
+28](https://suttacentral.net/dn28), [DN
+29](https://suttacentral.net/dn29), [DN
+33](https://suttacentral.net/dn33), [DN
+34](https://suttacentral.net/dn34)). If the beginning of the
+[Dīgha]{lang="sa"} tells us *why* the teachings matter and the middle
+tells us *how* they came to be, the ending tells us *what* they are. It
+is a rather curious thing that in the [Dīgha]{lang="sa"}, many of the
+doctrines that we think of as fundamental to the Buddha's teachings
+occur only rarely. These discourses rectify this situation, ensuring
+that the students of the [Dīgha]{lang="sa"} had access to a wide range
+of teachings. The last two discourses, in particular, are compiled as
+handy mnemonics for memorizing sets of doctrinal teachings.
+
+### The Gradual Training {#the-gradual-training .unnumbered}
+
+The Gradual Training sets out the steps taken by a Buddhist renunciate
+on their path. It begins with the arising of a Buddha in the world.
+Hearing the Buddha's teaching, a person reflects on how best it can be
+applied to their own life. Realizing that "the household life is cramped
+and dirty, but the life of one gone forth is wide open", they give up
+their worldly possessions and attachments, don the ochre robe of a
+Buddhist mendicant, and undertake a life of morality, simplicity, and
+meditation. Proceeding step by step to ever more advanced practices,
+they eventually enter into deep meditative absorption
+(*[jhāna]{lang="sa"}*) before realizing the four noble truths and
+finding true freedom.
+
+The Gradual Training is an expansion of the threefold training (*tisso
+[sikkhā]{lang="sa"}*): ethics (*[sīla]{lang="sa"}*), meditative
+immersion (*[samādhi]{lang="sa"}*), and wisdom (*[paññā]{lang="sa"}*).
+At [AN 3.89](https://suttacentral.net/an3.89) the three trainings are
+defined:
+
+- ethics (in a monastic context) requires keeping the monastic rules;
+
+- meditative immersion is the four absorptions;
+
+- wisdom is the understanding of the four noble truths.
+
+This teaching is distributed widely throughout the early Buddhist texts.
+In the [Dīgha]{lang="sa"}, for example, it's found in the
+*[Mahāparinibbānasutta]{lang="sa"}* as a standard teaching repeated by
+the Buddha at many of the stops on his journey. A series of shorter
+discourses on this subject may be found in the [Samaṇa]{lang="sa"} Vagga
+of the [Aṅguttara]{lang="sa"} ([AN
+3.81--91](https://suttacentral.net/an3-samanavagga)).
+
+This brief overview of the path is explained more fully in the Gradual
+Training, which explains each of the three trainings in considerable
+detail. This longer exposition appears to have been the original
+teaching on the overall lifestyle, practices, and aims of the Buddha's
+mendicant followers. It seems that the Buddha preferred to encourage his
+monastics by exhorting them to follow the highest ideals of conduct and
+meditation. Only reluctantly did he set up the legal system of the
+Vinaya texts, with its procedures and punishments.
+
+The Gradual Training is found, in somewhat varying forms, in the
+Majjhima ([MN 27](https://suttacentral.net/mn27), [MN
+51](https://suttacentral.net/mn51), [MN
+38](https://suttacentral.net/mn38), [MN
+39](https://suttacentral.net/mn39), [MN
+53](https://suttacentral.net/mn53), [MN
+107](https://suttacentral.net/mn107), [MN
+125](https://suttacentral.net/mn125)), the [Aṅguttara]{lang="sa"} ([AN
+4.198](https://suttacentral.net/an4.198), [AN
+10.99](https://suttacentral.net/an10.99)), and even the Abhidhamma ([Vb
+12](https://suttacentral.net/vb12), [Pp
+2.4:114](https://suttacentral.net/pp2.4#114)). Curiously enough,
+however, it is not found among the collected discourses on the path
+found in the last book of the [Saṁyutta]{lang="sa"}. While virtually all
+of the practices of the Gradual Training are found in the
+[Saṁyutta]{lang="sa"}, the overall framework is not.
+
+The [Dīgha]{lang="sa"} makes up for this lack by placing a *vagga* of
+thirteen discourses right at the start featuring the Gradual Training.
+This is called the [Sīlakkhandhavagga]{lang="sa"}, the "Chapter on the
+Aggregate of Ethics". Despite the title, however, these texts treat the
+full training on ethics, meditative immersion, and wisdom.
+
+While the content is similar in each place that the Gradual Training
+appears, the [Dīgha]{lang="sa"} versions feature a pronounced emphasis
+on beauty and pleasure. The stages of the path are illustrated by
+similes that are as lovely as they are apt, while each step of the path
+is said to be accompanied by a deepening sense of pleasure and
+happiness. The Gradual Training is not a path of suffering, but one of
+grace and joy and freedom.
+
+Due to the repetition, the texts invariably abbreviate all the
+expositions except for the first two discourses. It should be
+remembered, however, that this is merely a consequence of how the Pali
+tradition arranged these texts. In the Sanskrit and Chinese
+[Dīrghāgamas]{lang="sa"}, the texts in this section are arranged
+differently, and different suttas are either expanded or abbreviated
+accordingly.
+
+While the focus is firmly on monastic life, the general principles hold
+good for everyone, and indeed at [MN 53](https://suttacentral.net/mn53)
+*A Trainee* (*Sekhasutta*), Ānanda teaches essentially the same path to
+a lay audience. In the [Sīlakkhandhavagga]{lang="sa"}, many discourses
+are addressed to lay people, most of whom are brahmins.
+
+The question of King [Ajātasattu]{lang="sa"} in [DN
+2](https://suttacentral.net/dn2) provides the key to understanding why
+this is so. He points out that in worldly life, each profession can be
+seen to have its own benefit. But what is the benefit of the renunciate
+life? While other ascetics falter before this question, the Buddha
+presents the Gradual Training. He shows how the life gone forth is not
+one of pain and distress, nor one of delayed gratification, but one that
+shows real benefits in this life. It is about the power and
+transformative potential of inner development and meditation. In
+contrast, the household path offers only limited happiness, with much
+uncertainty and stress, while the paths of other ascetics are unclear,
+ineffective, or painful, and the brahmins can only offer rituals and
+prayers of dubious efficacy. Thus the Gradual Training explains why
+there is a need for the [Saṅgha]{lang="sa"} at all.
+
+Just as the Gradual Training is built from the kernel of the threefold
+training, the code of monastic ethics is built from the core principles
+of basic precepts. It is divided into three sections. The first section
+begins with the most fundamental precept for everyone in Buddhism:
+non-violence, to refrain from killing any creature, however small. It
+continues with items found in such common teachings as the five precepts
+and the ten paths of skillful action. But it adds items that especially
+pertain to monastic life, such as avoiding luxuries and ownership of
+property. The second section on ethics expands these specifically
+monastic and renunciate precepts in much greater detail, while the final
+section deals with right livelihood. A Buddhist monastic, who relies on
+alms food given in faith, should not make a living by other means,
+especially through superstitious and magical practices.
+
+The Gradual Training builds on these ethical foundations as the
+mendicant undertakes a series of practices designed to quell the
+busyness and activity of the mind. They rein in their senses, avoiding
+overly stimulating things. They focus on remaining mindful and aware
+throughout all their activities. They aim at contentment, being
+satisfied with a few simple possessions.
+
+Only when all these have been developed does the mendicant resort to
+seclusion for meditation. Going to the forest, they undertake
+mindfulness meditation and give up the five hindrances that prevent
+peace of mind. These hindrances are one of the core meditation teachings
+in the suttas, regarded as the key obstacle to absorption. They are:
+
+Sensual desire
+
+:   Includes any kind of craving, greed, or desire for sensual
+    experience. It includes powerful forms such as sexual desire as well
+    as more subtle kinds of attachment.
+
+Ill will
+
+:   Anything from outright hatred to subtle forms of annoyance and
+    aversion come under this hindrance.
+
+Dullness and drowsiness
+
+:   When the mind begins to settle down in meditation, it commonly
+    becomes sleepy or dull.
+
+Restlessness and remorse
+
+:   Restlessness is always looking for some future experience, while
+    remorse keeps digging up the past, especially moments of regret.
+
+Doubt
+
+:   It is normal and healthy to doubt when it comes to things that we do
+    not know. But if we do not understand the elements of what is right
+    and what is wrong, doubt will subtly undermine our meditation.
+
+Experiencing an ever-deepening peace and bliss, they ultimately enter a
+series of profoundly still states of meditative immersion known as the
+four absorptions (*[jhānas]{lang="sa"}*).
+
+The absorptions are the fundamental meditation practice in early
+Buddhism and are essential to all stages of Awakening. They occur in
+many contexts, but it is here, in the Gradual Training, that they emerge
+most naturally from the life and practice undertaken by the mendicants.
+This context was so central to early Buddhists that when they compiled
+the early Abhidhamma text, the [Vibhaṅga]{lang="sa"}, the chapter on
+Absorption begins with the Gradual Training. It is true, there are lay
+followers in the early texts who were said to have practiced absorption.
+But it is equally true that when the Buddha taught how to attain such
+profound peace, he emphasized the power of deep renunciation.
+
+It has become common in certain modern forms of Buddhism to assert that
+absorptions are not an essential part of the path. Others say that,
+while important, the absorptions are relatively shallow states of
+concentration that may be easily attained on a short retreat. Suffice to
+say, neither of these views finds support in the early texts. The
+absorptions are essential, profound, and difficult to attain. Even with
+the full strength of renunciation, many mendicants in the Buddha's day
+struggled to realize them. Nevertheless, it is a special quality of the
+Dhamma that each step along the path is accompanied by deepening peace
+and joy, and letting go gets easier the further one travels. This is
+what makes the realization of even such profound and subtle states
+possible.
+
+Emerging from the absorptions, the mendicant harnesses the power of a
+deeply purified mind to realize a series of special forms of knowledge
+or insight. These culminate in the realization of the four noble truths:
+
+1.  Suffering (*dukkha*).
+
+2.  The origin of suffering, i.e. craving (*samudaya*).
+
+3.  The cessation of suffering, i.e. [Nibbāna]{lang="sa"} (*nirodha*).
+
+4.  The practice that leads to the end of suffering (*magga*).
+
+Suffering is the spur that drives us to undertake spiritual practice.
+Only when we have some experience of suffering will we look for an
+escape. And when encountering the Buddha's teaching, a seeker recognizes
+that the Dhamma speaks to that which matters in their own life, offering
+a powerful and pragmatic solution. But wallowing in suffering gets you
+nowhere. When you understand that this suffering is real, but has causes
+and conditions that you can do something about, it sparks faith and the
+resolve to act. The path itself is one of unfolding happiness and
+receding pain; the truth of the ending of suffering is experienced at
+every step. This culminates in the experience of profound meditative
+stillness, called absorption (*[jhāna]{lang="sa"}*) or immersion
+(*[samādhi]{lang="sa"}*). In such states, having let go of sensual
+desire, the five external senses cease (*vivicc'eva
+[kāmehi]{lang="sa"}*) and the mind feels a sense of peace and happiness
+unlike anything it has known before. Empowered by the clarity and
+brilliance of absorption, the reality of suffering and its cause becomes
+apparent. This signifies that one has realized the first stage of
+awakening, that of the stream-enterer (*[sotāpanna]{lang="sa"}*).
+
+Stream-entry occurs when all the factors of the path---from the arousing
+of faith to the practice of absorption and deep insight---have been
+developed to a sufficient degree. At this point one has a profound
+insight into the nature of reality, letting go of three of the ten
+fetters that bind a person to rebirth. In the Gradual Training, the
+understanding of the four noble truths is usually followed by the
+understanding of the end of the defilements (*[āsava]{lang="sa"}*),
+which signifies the attainment of full perfection
+(*[arahattā]{lang="sa"}*). The remaining fetters are given up at this
+point, which is the final stage of the path: full awakening and freedom.
+
+### How to Build a Long Discourse {#how-to-build-a-long-discourse .unnumbered}
+
+There are over a thousand discourses recorded in each of the
+[Aṅguttara]{lang="sa"} and the [Saṁyutta]{lang="sa"}
+[Nikāyas]{lang="sa"}, but only 34 long texts are recorded in the
+[Dīgha]{lang="sa"}. The relatively short texts of the
+[Aṅguttara]{lang="sa"} and [Saṁyutta]{lang="sa"} are reminiscent of the
+pre-Buddhist [Upaniṣads]{lang="sa"}, especially the
+[Bṛhadāraṇyaka]{lang="sa"} and Chandogya. These consist of a series of
+mostly independent passages, each episode covering no more than a few
+pages, and assembled into a much larger text. They are recollections of
+concise and focused teachings at certain times and places by certain
+people. It would seem, then, from the overwhelming majority of
+contemporary texts both Buddhist and Brahmanical, that the short
+discourse or dialogue was the standard format.
+
+How, then, were these long texts constructed? Why? And for whom? Let us
+approach these questions by briefly considering a few different forms
+employed in the [Dīgha]{lang="sa"}.
+
+#### Inherently Complex Subjects {#inherently-complex-subjects .unnumbered}
+
+Some discourses are long because the subject matter is inherently
+complex and demands a lengthy explanation. Of course, the Buddha was a
+master of presenting subjects in both pithy and detailed forms.
+Nevertheless, there are a few discourses whose subject matter requires
+extensive treatment.
+
+The most prominent example of this is the Gradual Training. In some
+cases---for example [DN 6](https://suttacentral.net/dn6) *With
+[Mahāli]{lang="sa"}* and [DN 7](https://suttacentral.net/dn7) *With
+[Jāliya]{lang="sa"}*---the discourse consists of little more than this
+passage, with a simple narrative background and some short extra
+teachings. So it seems that the presence of the long Gradual Training
+section was itself enough to qualify a discourse as "long". Since this
+passage aims to provide a detailed guide to the whole of the renunciate
+spiritual life, from hearing the teaching to full awakening, the length
+is inherent in the subject matter. True, it is taught more briefly
+elsewhere, but even in those cases it tends to be somewhat long, and
+there was a tendency to make it more inclusive.
+
+In other cases the Gradual Training is taught in the middle of a
+discourse that is already quite extensive. Such is the case with [DN
+1](https://suttacentral.net/dn1) *[Brahmajāla]{lang="sa"}*, although
+here, uniquely, it is only the first section on Ethics that is taught.
+But the bulk of the text sets forth a network of 62 kinds of wrong view.
+Here, the nature of the subject matter is so extensive and complex that
+a shorter exposition would not do it justice. Indeed, when this teaching
+is mentioned in shorter discourses ([SN
+41.3](https://suttacentral.net/sn41.3)), it is not summarized, but the
+reader is referred rather to the full text.
+
+#### Compilations {#compilations .unnumbered}
+
+Far more common than inherently lengthy teachings are the compilations.
+In such cases, a long text provides an occasion or background framework
+within which a series of short passages are collected. Such passages
+usually occur in identical or near-identical form in the
+[Aṅguttara]{lang="sa"} or the [Saṁyutta]{lang="sa"}, and occasionally
+the Majjhima. Compiling them here enables the reciters of the
+[Dīgha]{lang="sa"} to learn a wide range of doctrines, and provides an
+essential backup, preserving the texts in case the shorter discourses
+are lost.
+
+In a few instances, such short passages are not found elsewhere in the
+same form. Whether that is because they were unique to the
+[Dīgha]{lang="sa"}, or because the parallel passages have become lost,
+is hard to say.
+
+How do we end up with parallel passages in so many different places?
+
+the Buddha taught very often and, like all teachers, repeated his
+message many times. Such repeated teachings would have been collected in
+various places. This would be the case with important and generic
+teachings found throughout the Buddhist literature, like the four noble
+truths or the four absorptions.
+
+In some cases, though, this is unlikely or impossible. For example, we
+sometimes find the same event on the same occasion---with the same
+teaching, the same location, and the same people---occurring in more
+than one text. In such instances, it is clear that there is, in fact,
+just one passage, and it has been copied into two or more places.
+
+Generally speaking, it is prudent to assume that such passages existed
+as short discourses before being collected into larger forms. This is
+because, as noted above, the short discourse is the dominant form, and
+rests closest to the oral tradition. It is a principle observed
+everywhere through early Buddhist texts that the redactors preferred to
+add rather than subtract. Thus texts commonly become longer over time,
+and rarely shorter.
+
+Examples of compilation are very common, and almost every discourse in
+the [Dīgha]{lang="sa"} does this to some extent. Here are just a few
+examples.
+
+[DN 16](https://suttacentral.net/dn16)
+*[Mahāparinibbānasutta]{lang="sa"}* includes a wide range of collected
+passages. In some cases, events pertinent to the narrative may have
+occurred there originally and been extracted later, while in other cases
+the included passages seem strangely extraneous to the context and were
+no doubt added in at some point.
+
+Venerable [Sāriputta]{lang="sa"} is said to be the main author of
+several such long compilations. He is the teacher in [DN
+33](https://suttacentral.net/dn33) *Reciting in Concert*
+(*[Saṅgītisutta]{lang="sa"}*) and [DN 34](https://suttacentral.net/dn34)
+*Up to Ten* (*Dasuttarasutta*), which consist almost entirely of short
+passages collected from elsewhere in the suttas and arranged by number.
+In [DN 28](https://suttacentral.net/dn28) *Inspiring Confidence*
+(*[Sampasādanīyasutta]{lang="sa"}*) he expresses his great faith in the
+Buddha and cites a long series of passages to display the Buddha's
+glory.
+
+A more sophisticated form of compilation is found in [DN
+22](https://suttacentral.net/dn22) *The Longer Discourse on Mindfulness
+Meditation* (*[Mahāsatipaṭṭhānasutta]{lang="sa"}*), the most important
+meditation discourse in 20th century [Theravāda]{lang="sa"}. It gives a
+detailed account of the four kinds of mindfulness meditation. These are
+taught in brief in many places, but the details are found only here and
+at the mostly identical [MN 10](https://suttacentral.net/mn10)
+*Mindfulness Meditation* (*[Satipaṭṭhānasutta]{lang="sa"}*). Whereas
+many compilations simply list a series of different teachings, here the
+text is very systematic, organizing the compiled passages under the four
+heads. These meditation passages are mostly not found elsewhere in the
+[Dīgha]{lang="sa"}, and were no doubt added to ensure the
+[Dīgha]{lang="sa"} reciters preserved the full range of meditation
+teachings.
+
+To the already lengthy discourse at [MN
+10](https://suttacentral.net/mn10) is added a full exposition on the
+four noble truths, sourced from [MN 141](https://suttacentral.net/mn141)
+*The Analysis of the Truths* (*[Saccavibhaṅgasutta]{lang="sa"}*). In
+Burmese editions, this extended section later made its way back into the
+text of [MN 10](https://suttacentral.net/mn10). Since SuttaCentral's
+text is a Burmese one, we include this in our Pali, but mark it as an
+addition.
+
+#### Narratives: backgrounds, parables, and myths {#narratives-backgrounds-parables-and-myths .unnumbered}
+
+Unusually for early Buddhist texts, the [Dīgha]{lang="sa"} includes
+several lengthy narratives. Most obviously this includes [DN
+16](https://suttacentral.net/dn16) *[Mahāparinibbānasutta]{lang="sa"}*.
+But it also includes several other narratives.
+
+In common with the discourses of other collections, we often find a
+simple narrative background that gives context to the teaching. However,
+in some cases, this is developed in much greater detail as the
+narratives come to play a more sophisticated literary role than a mere
+setting.
+
+[DN 2](https://suttacentral.net/dn2) *[Sāmaññaphala]{lang="sa"}* opens
+with King [Ajātasattu]{lang="sa"} of Magadha exclaiming over the beauty
+of the moonlit night and asking his ministers for advice as to which
+ascetic teacher he should visit. From the
+*[Mahāparinibbānasutta]{lang="sa"}* and discourses elsewhere we know
+that [Ajātasattu]{lang="sa"} was a warlike king, so this setting
+immediately establishes a sense of wonder. The narrative unfolds
+gracefully, avoiding the excess of ornament so typical of later Indian
+narratives, and holding the key to its mystery close to its chest. Only
+at the end of the text do we learn the dreadful secret that plagues the
+king's heart. Thus the narrative portions imbue the teachings---on the
+doctrines of other teachers as contrasted with the Buddha's Gradual
+Training---with a tragic pathos.
+
+In addition to backgrounds, we also find narratives that are told as
+stories in the discourses themselves. These include short parables like
+the tale of the monk who mistakenly sought among the gods for an answer
+to his question ([DN 11](https://suttacentral.net/dn11)). In [DN
+23](https://suttacentral.net/dn23) the monk [Kumāra]{lang="sa"} Kassapa
+debates with the skeptic [Pāyāsi]{lang="sa"}, illustrating his arguments
+with a series of tales alternatively humorous and gruesome. Such
+parables are found not infrequently elsewhere in the suttas, but in the
+[Dīgha]{lang="sa"} certain stories expand beyond this and approach the
+stature of myth. This includes some of the texts in the
+*[Mahāparinibbānasutta]{lang="sa"}* cycle, such as [DN
+17](https://suttacentral.net/dn17) *[Mahāsudassanasutta]{lang="sa"}* and
+[DN 14](https://suttacentral.net/dn14) *[Mahāpadānasutta]{lang="sa"}*.
+
+To forestall a common misunderstanding, in the study of religion, "myth"
+does not mean "something believed to be true that is actually false", as
+it does in popular culture. Rather, a myth is a sacred story. Some
+sacred stories are true, some are inventions. But this is a matter for
+historians and is irrelevant to the mythology itself. The purpose of
+myth is to tell a story that creates meaning for those who participate
+in it, so they can understand their own lives in the context of the
+story being expressed.
+
+The [Dīgha]{lang="sa"} contains truly mythic texts in [DN
+26](https://suttacentral.net/dn26) *The Wheel-Turning Monarch*
+(*[Cakkavattisīhanādasutta]{lang="sa"}*) and [DN
+27](https://suttacentral.net/dn27) *The Origin of the World*
+(*[Aggaññasutta]{lang="sa"}*). These set forth a myth of origins,
+replacing conventional creation mythology with an evolutionary account
+of how the world came to be the way it is. In these stories, human
+choices play a critical role in how the environment evolves, and in how
+it will all fall apart. The *[Aggañña]{lang="sa"}* depicts anthropogenic
+climate change quite explicitly, showing how human activity affects the
+plants, the weather, and the natural ecosystem of which we are a part
+(see also [AN 3.56](https://suttacentral.net/an3.56)).
+
+The mythology is essentially cyclic. There is no absolute beginning,
+just another turning of the wheel. Thus even when the world falls apart
+and civilization collapses, there will be a new renaissance, far in the
+future, and ultimately another Buddha will arise. He is named Metteyya
+(Sanskrit: *Maitreya*), who in the early texts appears only in [DN
+26](https://suttacentral.net/dn26) *[Cakkavattisīhanāda]{lang="sa"}*. He
+went on to become one of the most important figures in
+[Mahāyāna]{lang="sa"} Buddhism, and many Buddhists even today still
+await his coming with hope. Yet [DN 26](https://suttacentral.net/dn26)
+is not taught in order to encourage devotees to dedicate themselves to
+Metteyya, but to illustrate the impermanence and uncertainty of our
+lives. The Buddha always taught that we should practice as best we can
+to understand the Dhamma in this life.
+
+### The [Mahāparinibbāna]{lang="sa"} Cycle {#the-mahāparinibbāna-cycle .unnumbered}
+
+In several instances, episodes mentioned in brief in the
+*[Mahāparinibbānasutta]{lang="sa"}* have been spun off and expanded to
+become individual discourses in their own right. Thus the
+*[Mahāparinibbānasutta]{lang="sa"}* dominates much of the
+[Dīgha]{lang="sa"}, not just through its length and thematic weight, but
+through its influence and connections with other discourses.
+
+In my view, this cycle of suttas was likely composed by Ānanda and his
+students, beginning this great literary work with the
+*[Mahāparinibbānasutta]{lang="sa"}* itself, and gradually branching off
+into related works. The cycle as a whole shows not only Ānanda's
+characteristic personal love and devotion for the Buddha, but also
+reveals a concern for what is to come, for the fate of the Dhamma in the
+years after the Buddha's passing. One distinctive unifying detail of
+these discourses is that they do not end with the standard phrase saying
+that the listeners rejoiced in the teachings, but instead finish
+directly with a teaching or a verse on the subject of impermanence or
+the long-lasting of the dispensation. Ānanda survived the Buddha for
+several decades, and his legacy was the establishment of the texts, thus
+preserving the memory of his beloved Teacher for future generations.
+
+[DN 16](https://suttacentral.net/dn16) *The Great Discourse on the Buddha's Extinguishment* (*[Mahāparinibbānasutta]{lang="sa"}*)
+
+:   Beginning with King [Ajātasattu]{lang="sa"} of Magadha declaring his
+    intent to invade the Vajjis, and ending with the peaceful
+    distribution of the Buddha's relics to the potentially warring
+    nations and clans, the story of the Buddha's last journeys is as
+    politically revealing as it is spiritually moving. Throughout, the
+    theme of impermanence unifies the diverse events and teachings. The
+    weight of constructing such an epic shows, however, in the
+    considerable differences between extant versions of the text. Many
+    of the extra repetitious sections---such as the superfluous sets of
+    eight that follow the eight causes of earthquakes---are not found in
+    all parallels. It seems that over time, more and more material was
+    added, and at certain points, portions of the text were split off to
+    form other discourses in the cycle.
+
+[DN 17](https://suttacentral.net/dn17) *King [Mahāsudassana]{lang="sa"}*
+
+:   In a small scene of the *[Mahāparinibbānasutta]{lang="sa"}*, Ānanda
+    encourages the Buddha to pass away in a well-known city, not in the
+    obscure village of [Kusinārā]{lang="sa"}. The Buddha rebukes him,
+    saying that in the past it had been a great city. The Sanskrit
+    ([Sarvāstivāda]{lang="sa"}) versions of the
+    *[Mahāparinibbānasutta]{lang="sa"}* include a shorter account of the
+    story of King [Mahāsudassana]{lang="sa"} in their
+    *[Mahāparinibbānasutta]{lang="sa"}* itself, but in the Pali, it has
+    become greatly extended and formed into its own long discourse. The
+    discourse itself is fabulous, full of extended passages on the
+    crystal balustrades and other wonders of
+    [Mahāsudassana]{lang="sa"}'s palace. But at its heart is a very
+    human story: the love of the queen for her king, and the pain of
+    letting go. The struggle that the queen undergoes to fully
+    understand that her king must pass mirrors the struggles of Ānanda
+    in the *[Mahāparinibbānasutta]{lang="sa"}* as he comes to terms with
+    the passing of his beloved Teacher.
+
+[DN 18](https://suttacentral.net/dn18) *With Janavasabha*
+
+:   Like [DN 17](https://suttacentral.net/dn17), this begins with a
+    short passage extracted from the
+    *[Mahāparinibbānasutta]{lang="sa"}*, to which has been added an
+    extended narrative. During the journey in the
+    *[Mahāparinibbānasutta]{lang="sa"}*, Ānanda asks the Buddha to
+    reveal the fate after the death of devotees in the town of
+    [Ñātika]{lang="sa"}. This otherwise obscure town was the main city
+    of the [Ñātika]{lang="sa"} clan, to which the Jain leader
+    [Mahāvīra]{lang="sa"} belonged, and it appears to come to prominence
+    to show that even his own people became Buddhists.
+    Characteristically, it ends with the Buddha showing how people may
+    know for themselves their own spiritual progress. This short passage
+    is preserved as an independent discourse also in [SN
+    55.10](https://suttacentral.net/sn55.10). In [DN
+    18](https://suttacentral.net/dn18), however, the discourse continues
+    with a long story of the doings of the gods, as told by the spirit
+    Janavasabha. It culminates by saying that this discourse was learned
+    by the Buddha from Janavasabha, and from there was taught to Ānanda,
+    and he informed the assemblies of monks, nuns, laymen, and laywomen,
+    resulting in the Buddha's dispensation being famous and successful
+    among gods and men. This corroborates the idea that these
+    discourses, shaped by Ānanda, were aimed at ensuring the
+    long-lasting of Buddhism.
+
+[DN 28](https://suttacentral.net/dn28) *Inspiring Confidence* (*[Sampasādanīyasuttasutta]{lang="sa"}*)
+
+:   The *[Mahāparinibbānasutta]{lang="sa"}* records an incident where
+    [Sāriputta]{lang="sa"}, the Buddha's foremost disciple, comes to him
+    and makes a "lion's roar" of his faith in the Buddha, based on his
+    understanding of Dhamma. This is recorded as an independent
+    discourse at [SN 47.12](https://suttacentral.net/sn47.12). We also
+    have a short discourse at [SN
+    47.13](https://suttacentral.net/sn47.13) that tells of
+    [Sāriputta]{lang="sa"}'s death. This echoes the themes of the
+    *[Mahāparinibbānasutta]{lang="sa"}*, even including the famous
+    saying that one should be one's own refuge. This must have happened
+    during the journey recorded in the
+    *[Mahāparinibbānasutta]{lang="sa"}*. Oddly, however, it is not
+    included in [DN 16](https://suttacentral.net/dn16), and in addition,
+    it situates the Buddha in [Sāvatthī]{lang="sa"}, far from the track
+    of his journey. Regardless, in [DN
+    28](https://suttacentral.net/dn28) the passage on the lion's roar
+    was expanded into its extensive discourse, with
+    [Sāriputta]{lang="sa"} expounding at length on various inspiring
+    qualities of the Buddha. This gives an opportunity to list many
+    standard doctrinal teachings. Like [DN
+    18](https://suttacentral.net/dn18), the sutta ends with an
+    exhortation to share the teaching.
+
+In addition to texts that have a direct literary and narrative
+connection with the *[Mahāparinibbānasutta]{lang="sa"}*, there is a
+further series of discourses that share a more indirect or thematic
+connection.
+
+[DN 14](https://suttacentral.net/dn14) *The Great Discourse on Traces Left Behind* (*[Mahāpadānasuttasutta]{lang="sa"}*)
+
+:   The Buddha gives biographical details of six past Buddhas, as well
+    as a lengthy account of the life of one of them,
+    [Vipassī]{lang="sa"}. This discourse establishes the historical
+    Buddha Gotama as one of a series of world teachers that stretches
+    back into the deep past, and whose dispensations all follow similar
+    patterns.
+
+[DN 29](https://suttacentral.net/dn29) *An Impressive Discourse* (*[Pāsādikasutta]{lang="sa"}*)
+
+:   This begins with the story of the passing away of the Jain leader
+    [Mahāvīra]{lang="sa"}. The Pali texts call him
+    *[nigaṇṭha]{lang="sa"} [nātaputta]{lang="sa"}*, which is often
+    misunderstood as a proper name. *[Nigaṇṭha]{lang="sa"}*, rather,
+    means "knotless" and is a term for a Jain ascetic, while
+    *[nāta]{lang="sa"}* is a misspelling of his clan, the
+    [Ñātikas]{lang="sa"}. *[Nigaṇṭha]{lang="sa"} [nātaputta]{lang="sa"}*
+    therefore means "the Jain ascetic of the [Ñātika]{lang="sa"} clan",
+    just as *[samaṇa]{lang="sa"} gotama* means "the ascetic of the
+    Gotama clan", or *acela kassapa* means "the naked ascetic of the
+    Kassapa clan". In the Buddhist texts, his death is depicted as a
+    disaster for the Jains, as they fell apart in conflict right away.
+    Whether this is historically accurate or not, the text shows the
+    Buddha taking the opportunity to teach the qualities that make a
+    religious movement last long after the passing of the founder.
+    Discourses in response to this are found at [DN
+    16](https://suttacentral.net/dn16), [DN
+    29](https://suttacentral.net/dn29), [DN
+    33](https://suttacentral.net/dn33), and [MN
+    104](https://suttacentral.net/mn104). In the current sutta,
+    contrasting his dispensation with what he claims was the inadequacy
+    of Jain teachings, the Buddha declares that the faith and practice
+    of his followers are well-grounded since they are based on genuine
+    Awakening.
+
+[DN 30](https://suttacentral.net/dn30) *The Marks of a Great Man* (*[Lakkhaṇasutta]{lang="sa"}*)
+
+:   The early texts refer several times to a mysterious set of bodily
+    characteristics known as the "marks of a great man". These are said
+    to fulfill a Brahmanical prophecy that one who possesses such marks
+    will either become a universal emperor or a fully awakened Buddha.
+    This prophecy and the list of thirty-two marks have not been exactly
+    identified in extant Brahmanical texts, but recent research has
+    uncovered a complex system of similar marks in old Brahmanical
+    texts, many of which invite comparison with the Buddhist list. The
+    story of the two paths is a classic mythological theme, found in the
+    oldest known myth, the story of Gilgamesh. The marks of a great man
+    exist as a curious counterpoint to the rational teachings found in
+    most of the suttas. In this particular sutta, the Buddha is said to
+    have explained each mark as a consequence of a specific kind of
+    kammic deed. The literary and verse styles betray this as a late
+    composition, and it has no real parallel in other collections.
+    Nevertheless, it remains as a testament to the evolution of the idea
+    of the Buddha, relating his spiritual qualities to his physical
+    presence.
+
+[DN 33](https://suttacentral.net/dn33) *Reciting in Concert* (*[Saṅgītisutta]{lang="sa"}*)
+
+:   Like [DN 29](https://suttacentral.net/dn29), this discourse is set
+    after the death of [Mahāvīra]{lang="sa"}. Speaking to the Mallians
+    of [Pāvā]{lang="sa"}---who appear also in the
+    *[Mahāparinibbānasutta]{lang="sa"}*---the Buddha asks
+    [Sāriputta]{lang="sa"} to speak on his behalf. This echoes the theme
+    of [DN 28](https://suttacentral.net/dn28) and [DN
+    29](https://suttacentral.net/dn29), that it is the disciples who
+    will be responsible for the continuation of the teachings.
+    [Sāriputta]{lang="sa"} gives an extensive systematic presentation of
+    doctrines, using the [Aṅguttara]{lang="sa"} principle of organizing
+    teachings by number. Indeed, a study of this discourse can serve as
+    an introduction to the teachings found in the [Aṅguttara]{lang="sa"}
+    [Nikāya]{lang="sa"}. The monastics are encouraged to recite these
+    teachings in concert so that they may be preserved and the
+    dispensation continued for a long time. This discourse anticipates
+    the systematic tendencies of the Abhidhamma, and indeed one of the
+    [Sarvāstivādin]{lang="sa"} Abhidhamma texts
+    (*[Saṅgītiparyāya]{lang="sa"}*) consists of an expansion and
+    commentary on this discourse.
+
+[DN 34](https://suttacentral.net/dn34) *Up to Ten* (*Dasuttarasutta*)
+
+:   This is similar to the *[Saṅgīti]{lang="sa"}*, but with a briefer
+    narrative context and an even more systematic style. Here the Buddha
+    no longer appears, and the discourse is simply spoken by
+    [Sāriputta]{lang="sa"}.
+
+This does not exhaust the scope of the
+*[Mahāparinibbānasutta]{lang="sa"}* cycle, for it is not confined to the
+[Dīgha]{lang="sa"}. We have already mentioned that several shorter
+suttas contain episodes either found in the
+*[Mahāparinibbānasutta]{lang="sa"}* or related to it. And the story does
+not end with the Buddha's death. The *[Mahāparinibbānasutta]{lang="sa"}*
+tells of the funeral arrangements and events following the Buddha's
+passing. In several versions apart from the Pali, this story continues
+directly into the account of the First Council. This narrative is the
+21st chapter of the Vinaya Khandhakas, and indeed the
+*[Mahāparinibbānasutta]{lang="sa"}* is found in the Vinaya of several
+schools. It is, in fact, one continuous narrative, and one of the many
+purposes of the *[Mahāparinibbānasutta]{lang="sa"}* is to authorize the
+actions of the [Saṅgha]{lang="sa"} at the First Council, establishing
+the fundamental Buddhist scriptures in an organized and definitive
+manner. The First Council narrative was then extended to the Second
+Council, which echoes many of the same themes and ideas.
+
+These stories of the end of the Buddha's life and teaching are also
+echoed in the first chapter of the Vinaya Khandhakas, which tells the
+story of the Buddha's awakening, first teaching, and establishing of his
+community of followers. These are not just separate episodes in the
+Buddha's life. The texts as we have them frequently echo ideas, turns of
+phrase, events, and people, all of which show that they were edited and
+composed as a coherent whole. Taken together, they make up a framework
+of a magnificent mythology: the life and death of the greatest spiritual
+teacher that the world has ever known.
+
+### A Brief Textual History {#a-brief-textual-history .unnumbered}
+
+The [Dīgha]{lang="sa"} [Nikāya]{lang="sa"} was edited by T.W. Rhys
+Davids and J.E. Carpenter based on manuscripts in Sinhalese, Burmese,
+and Thai scripts, and published in three volumes in Latin script by the
+Pali Text Society from 1890 to 1910.
+
+The first translation followed in 1899--1921 by T.W. and C.A.F. Rhys
+Davids, and was published under the "Sacred Books of the Buddhists"
+series under the title *Dialogues of the Buddha*. This was a milestone
+in the publication of Buddhist texts, and marked the first occasion a
+full *[nikāya]{lang="sa"}* was available in English. The translation
+endeavored to retain something of the literary flavor of the texts and
+is accompanied by introductory essays and notes that are often useful
+and sometimes brilliant. But it is far from perfect and contains many
+errors in both reading and interpretation. Today the insights of Rhys
+Davids remain valuable especially in the area of history and society.
+
+An updated translation by Maurice Walshe was published by Wisdom
+Publications in 1987 under the title *Thus Have I Heard: The Long
+Discourses of the Buddha*, a title that in later editions was changed to
+*The Long Discourses of the Buddha*. The Walshe edition benefited from
+many decades of study and practice of Dhamma in the west. Avoiding the
+archaic stylings of the older translations, it remains a clear and
+approachable translation, with a far more accurate handling of doctrinal
+terms and passages. But it is far from perfect. It leans heavily on the
+Rhys Davids translation, and while it corrects many errors, it sometimes
+repeats errors found in the older translation. Worse, it not
+infrequently introduces new errors.
+
+In addition, there have been many translations of individual discourses
+and passages. Of these, the following were especially useful for my
+work:
+
+- For [DN 1](https://suttacentral.net/dn1), [DN
+  2](https://suttacentral.net/dn2), and [DN
+  15](https://suttacentral.net/dn15), the translations of text and
+  commentary by Bhikkhu Bodhi.
+
+- For [DN 16](https://suttacentral.net/dn16), the translation by Bhikkhu
+  Ānandajoti.
+
+- For the verses of [DN 30](https://suttacentral.net/dn30), the
+  translations and studies by K.R. Norman.
+
+- For [DN 31](https://suttacentral.net/dn31), the translation by John
+  Kelly, Sue Sawyer, and Victoria Yareham.
+
+## Acknowledgements {#acknowledgements .unnumbered}
+
+I remember with gratitude all those from whom I have learned the Dhamma,
+especially Ajahn Brahm and Bhikkhu Bodhi, the two monks who more than
+anyone else showed me the depth, meaning, and practical value of the
+Suttas.
+
+Special thanks to Dustin and Keiko Cheah and family, who sponsored my
+stay in Qi Mei while I made this translation.
+
+Thanks also for Blake Walshe, who provided essential software support
+for my translation work.
+
+Throughout the process of translation, I have frequently sought feedback
+and suggestions from the SuttaCentral community on our forum, "Discuss
+and Discover". I want to thank all those who have made suggestions and
+contributed to my understanding, as well as to the moderators who have
+made the forum possible. These translations were significantly improved
+due to the careful work of my proofreaders: [Ayyā]{lang="sa"}
+[Pāsādā]{lang="sa"}, John and Lynn Kelly, and Derek Sola. Special thanks
+are due to [Sabbamittā]{lang="sa"}, a true friend of all, who has
+tirelessly and precisely checked my work.
+
+Finally my everlasting thanks to all those people, far too many to
+mention, who have supported SuttaCentral, and those who have supported
+my life as a monastic. None of this would be possible without you.
+
+## Summary of Contents {#summary-of-contents .unnumbered}
+
+The Chapter on the Entire Spectrum of Ethics (*[Sīlakkhandhavagga]{lang="sa"}*)
+
+:   The Chapter Containing the Section on Ethics
+    ([Sīlakkhandhavagga]{lang="sa"}) is a chapter of 13 discourses. Each
+    of these contains a long passage on the Gradual Training in ethics,
+    meditation, and wisdom. The chapter is named after the first of
+    these sections. The two other known versions of the
+    [Dīrghāgama]{lang="sa"} (in Chinese and Sanskrit) also contain a
+    similar chapter. Despite the monastic nature of the central
+    teaching, most of these discourses are presented in dialog with lay
+    people, with a strong emphasis on the relation between the Buddha's
+    teachings and other contemporary movements.
+
+DN 1: The Prime Net (*[Brahmajālasutta]{lang="sa"}*)
+
+:   While others may praise or criticize the Buddha, they tend to focus
+    on trivial details. The Buddha presents an analysis of 62 kinds of
+    wrong view, seeing through which one becomes detached from
+    meaningless speculations.
+
+DN 2: The Fruits of the Ascetic Life (*[Sāmaññaphalasutta]{lang="sa"}*)
+
+:   The newly crowned King [Ajātasattu]{lang="sa"} is disturbed by the
+    violent means by which he achieved the crown. He visits the Buddha
+    to find peace of mind, and asks him about the benefits of spiritual
+    practice. This is one of the greatest literary and spiritual texts
+    of early Buddhism.
+
+DN 3: With [Ambaṭṭha]{lang="sa"} (*[Ambaṭṭhasutta]{lang="sa"}*)
+
+:   A young brahmin student attacks the Buddha's family, but is put in
+    his place.
+
+DN 4: With [Soṇadaṇḍa]{lang="sa"} (*[Soṇadaṇḍasutta]{lang="sa"}*)
+
+:   A reputed brahmin visits the Buddha, despite the reservations of
+    other brahmins. They discuss the true meaning of a brahmin, and the
+    Buddha skillfully draws him around to his own point of view.
+
+DN 5: With [Kūṭadanta]{lang="sa"} (*[Kūṭadantasutta]{lang="sa"}*)
+
+:   A brahmin wishes to undertake a great sacrifice, and asks for the
+    Buddha's advice. The Buddha tells a legend of the past, in which a
+    king is persuaded to give up violent sacrifice, and instead to
+    devote his resources to supporting the needy citizens of his realm.
+    However, even such a beneficial and non-violent sacrifice pales in
+    comparison to the spiritual sacrifice of giving up attachments.
+
+DN 6: With [Mahāli]{lang="sa"} (*[Mahālisutta]{lang="sa"}*)
+
+:   The Buddha explains to a diverse group of lay people how the results
+    of meditation depend on the manner of development.
+
+DN 7: With [Jāliya]{lang="sa"} (*[Jāliyasutta]{lang="sa"}*)
+
+:   This discourse is mostly quoted by the Buddha in the previous.
+
+DN 8: The Longer Discourse on the Lion's Roar (*[Mahāsīhanādasutta]{lang="sa"}*)
+
+:   The Buddha is challenged by a naked ascetic on the topic of
+    spiritual austerities. He points out that it is quite possible to
+    perform all kinds of austere practices without having any inner
+    purity of mind.
+
+DN 9: With [Poṭṭhapāda]{lang="sa"} (*[Poṭṭhapādasutta]{lang="sa"}*)
+
+:   The Buddha discusses with a wanderer the nature of perception and
+    how it evolves through deeper states of meditation. None of these,
+    however, should be identified with a self or soul.
+
+DN 10: With Subha (*[Subhasutta]{lang="sa"}*)
+
+:   Shortly after the Buddha's death, Venerable Ānanda is invited to
+    explain the core teachings.
+
+DN 11: With Kevaddha (*[Kevaṭṭasutta]{lang="sa"}*)
+
+:   The Buddha refuses to perform miracles, explaining that this is not
+    the right way to inspire faith. He goes on to tell the story of a
+    monk whose misguided quest for answers led him as far as
+    [Brahmā]{lang="sa"}.
+
+DN 12: With Lohicca (*[Lohiccasutta]{lang="sa"}*)
+
+:   A brahmin has fallen into the idea that there is no point in trying
+    to offer spiritual help to others. The Buddha goes to see him, and
+    persuades him of the genuine benefits of spiritual teaching.
+
+DN 13: The Three Knowledges (*[Tevijjasutta]{lang="sa"}*)
+
+:   A number of brahmins are discussing the true path to
+    [Brahmā]{lang="sa"}. Contesting the claims to authority based on the
+    Vedas, the Buddha insists that only personal experience can lead to
+    the truth.
+
+# The Chapter on the Entire Spectrum of Ethics  {#the-chapter-on-the-entire-spectrum-of-ethics .unnumbered}
+
+## N 1 The Divine Net  *Brahmajālasutta* {#n-1-the-divine-net-brahmajālasutta .unnumbered}
+
+### 1. Talk on Wanderers  {#talk-on-wanderers .unnumbered}
+
+[So I have heard.[^1]]{.smallcaps} At one time the Buddha was traveling
+along the road between [Rājagaha]{lang="sa"} and [Nāḷandā]{lang="sa"}
+together with a large [Saṅgha]{lang="sa"} of five hundred
+mendicants.[^2] The wanderer Suppiya was also traveling along the same
+road, together with his resident pupil, the student Brahmadatta.[^3]
+Meanwhile, Suppiya criticized the Buddha, the teaching, and the
+[Saṅgha]{lang="sa"} in many ways,[^4] but his pupil Brahmadatta praised
+them in many ways.[^5] And so both tutor and pupil followed behind the
+Buddha and the [Saṅgha]{lang="sa"} of mendicants directly contradicting
+each other.
+
+Then the Buddha took up residence for the night in the royal rest-house
+in [Ambalaṭṭhikā]{lang="sa"} together with the [Saṅgha]{lang="sa"} of
+mendicants.[^6] And Suppiya and Brahmadatta did likewise. There too,
+Suppiya criticized the Buddha, the teaching, and the [Saṅgha]{lang="sa"}
+in many ways, but his pupil Brahmadatta praised them in many ways. And
+so both tutor and pupil kept on directly contradicting each other.
+
+Then several mendicants rose at the crack of dawn and sat together in
+the pavilion, where the topic of judgmentalism came up:[^7]
+
+"It's incredible, reverends, it's amazing how the diverse convictions of
+sentient beings have been clearly comprehended by the Blessed One, who
+knows and sees, the perfected one, the fully awakened Buddha.[^8] For
+this Suppiya criticizes the Buddha, the teaching, and the
+[Saṅgha]{lang="sa"} in many ways, while his pupil Brahmadatta praises
+them in many ways. And so both tutor and pupil followed behind the
+Buddha and the [Saṅgha]{lang="sa"} of mendicants directly contradicting
+each other."
+
+When the Buddha found out about this discussion on judgmentalism among
+the mendicants, he went to the pavilion, where he sat on the seat spread
+out and addressed the mendicants,[^9] "Mendicants, what were you sitting
+talking about just now? What conversation was left unfinished?"[^10]
+
+The mendicants told him what had happened, adding,[^11] "This was our
+conversation that was unfinished when the Buddha arrived."
+
+"Mendicants, if others criticize me, the teaching, or the
+[Saṅgha]{lang="sa"}, don't make yourselves resentful, bitter, and
+exasperated.[^12] You'll get angry and upset, which would be an obstacle
+for you alone.[^13] If others were to criticize me, the teaching, or the
+[Saṅgha]{lang="sa"}, and you got angry and upset, would you be able to
+understand whether they spoke well or poorly?"[^14]
+
+"No, sir."
+
+"If others criticize me, the teaching, or the [Saṅgha]{lang="sa"}, you
+should explain that what is untrue is in fact untrue: 'This is why
+that's untrue, this is why that's false. There's no such thing in us,
+it's not found among us.'
+
+If others praise me, the teaching, or the [Saṅgha]{lang="sa"}, don't
+make yourselves thrilled, elated, and excited. You'll get thrilled,
+elated, and excited, which would be an obstacle for you alone. If others
+praise me, the teaching, or the [Saṅgha]{lang="sa"}, you should
+acknowledge that what is true is in fact true: 'This is why that's true,
+this is why that's correct. There is such a thing in us, it is found
+among us.'
+
+### 2. Ethics  {#ethics .unnumbered}
+
+#### 2.1. The Shorter Section on Ethics  {#the-shorter-section-on-ethics .unnumbered}
+
+When an ordinary person speaks praise of the Realized One, they speak
+only of trivial, insignificant details of mere ethics.[^15] And what are
+the trivial, insignificant details of mere ethics that an ordinary
+person speaks of?[^16]
+
+'The ascetic Gotama has given up killing living creatures. He has
+renounced the rod and the sword. He's scrupulous and kind, living full
+of sympathy for all living beings.'[^17] Such is an ordinary person's
+praise of the Realized One.[^18]
+
+'The ascetic Gotama has given up stealing. He takes only what's given,
+and expects only what's given. He keeps himself clean by not thieving.'
+Such is an ordinary person's praise of the Realized One.
+
+'The ascetic Gotama has given up unchastity. He is celibate, set apart,
+avoiding the vulgar act of sex.'[^19] Such is an ordinary person's
+praise of the Realized One.
+
+'The ascetic Gotama has given up lying. He speaks the truth and sticks
+to the truth. He's honest and dependable, and doesn't trick the world
+with his words.'[^20] Such is an ordinary person's praise of the
+Realized One.
+
+'The ascetic Gotama has given up divisive speech. He doesn't repeat in
+one place what he heard in another so as to divide people against each
+other. Instead, he reconciles those who are divided, supporting unity,
+delighting in harmony, loving harmony, speaking words that promote
+harmony.'[^21] Such is an ordinary person's praise of the Realized One.
+
+'The ascetic Gotama has given up harsh speech. He speaks in a way that's
+mellow, pleasing to the ear, lovely, going to the heart, polite, likable
+and agreeable to the people.' Such is an ordinary person's praise of the
+Realized One.
+
+'The ascetic Gotama has given up talking nonsense. His words are timely,
+true, and meaningful, in line with the teaching and training. He says
+things at the right time which are valuable, reasonable, succinct, and
+beneficial.'[^22] Such is an ordinary person's praise of the Realized
+One.
+
+'The ascetic Gotama refrains from injuring plants and seeds.'[^23]
+
+'He eats in one part of the day, abstaining from eating at night and
+food at the wrong time.'[^24]
+
+'He refrains from seeing shows of dancing, singing, and music .'[^25]
+
+'He refrains from beautifying and adorning himself with garlands,
+fragrance, and makeup.'[^26]
+
+'He refrains from high and luxurious beds.'[^27]
+
+'He refrains from receiving gold and currency,[^28] raw grains,[^29] raw
+meat, women and girls, male and female bondservants,[^30] goats and
+sheep,[^31] chickens and pigs, elephants, cows, horses, and mares, and
+fields and land.'[^32]
+
+'He refrains from running errands and messages;[^33] buying and
+selling;[^34] falsifying weights, metals, or measures; bribery, fraud,
+cheating, and duplicity; mutilation, murder, abduction, banditry,
+plunder, and violence.' Such is an ordinary person's praise of the
+Realized One.
+
+:::: Center
+::: small
+*The shorter section on ethics is finished.*
+:::
+::::
+
+#### 2.2. The Middle Section on Ethics  {#the-middle-section-on-ethics .unnumbered}
+
+'There are some ascetics and brahmins who, while enjoying food given in
+faith, still engage in injuring plants and seeds.[^35] These include
+plants propagated from roots, stems, cuttings, or joints; and those from
+regular seeds as the fifth.[^36] The ascetic Gotama refrains from such
+injury to plants and seeds.' Such is an ordinary person's praise of the
+Realized One.
+
+'There are some ascetics and brahmins who, while enjoying food given in
+faith, still engage in storing up goods for their own use.[^37] This
+includes such things as food, drink, clothes, vehicles, bedding,
+fragrance, and things of the flesh. The ascetic Gotama refrains from
+storing up such goods.' Such is an ordinary person's praise of the
+Realized One.
+
+'There are some ascetics and brahmins who, while enjoying food given in
+faith, still engage in seeing shows. This includes such things as
+dancing, singing, music, performances, and storytelling; clapping,
+gongs, and kettledrums; beauty pageants; pole-acrobatics and
+bone-washing displays of the corpse-workers; battles of elephants,
+horses, buffaloes, bulls, goats, rams, chickens, and quails;
+staff-fights, boxing, and wrestling; combat, roll calls of the armed
+forces, battle-formations, and regimental reviews.[^38] The ascetic
+Gotama refrains from such shows.' Such is an ordinary person's praise of
+the Realized One.
+
+'There are some ascetics and brahmins who, while enjoying food given in
+faith, still engage in gambling that causes negligence.[^39] This
+includes such things as checkers with eight or ten rows, checkers in the
+air, hopscotch, spillikins, board-games, tip-cat, drawing straws, dice,
+leaf-flutes, toy plows, somersaults, pinwheels, toy measures, toy carts,
+toy bows, guessing words from syllables, guessing another's thoughts,
+and imitating musical instruments.[^40] The ascetic Gotama refrains from
+such gambling.' Such is an ordinary person's praise of the Realized One.
+
+'There are some ascetics and brahmins who, while enjoying food given in
+faith, still make use of high and luxurious bedding. This includes such
+things as sofas, couches, woolen covers---shag-piled, colorful, white,
+embroidered with flowers, quilted, embroidered with animals, double- or
+single-fringed---and silk covers studded with gems, as well as silken
+sheets, woven carpets, rugs for elephants, horses, or chariots, antelope
+hide rugs, and spreads of fine deer hide, with a canopy above and red
+cushions at both ends. The ascetic Gotama refrains from such bedding.'
+Such is an ordinary person's praise of the Realized One.
+
+'There are some ascetics and brahmins who, while enjoying food given in
+faith, still engage in beautifying and adorning themselves with
+garlands, fragrance, and makeup. This includes such things as applying
+beauty products by anointing, massaging, bathing, and rubbing; mirrors,
+ointments, garlands, fragrances, and makeup; face-powder, foundation,
+bracelets, headbands, fancy walking-sticks or containers, rapiers,
+parasols, fancy sandals, turbans, jewelry, chowries, and long-fringed
+white robes. The ascetic Gotama refrains from such beautification and
+adornment.' Such is an ordinary person's praise of the Realized One.
+
+'There are some ascetics and brahmins who, while enjoying food given in
+faith, still engage in low talk. This includes such topics as[^41] talk
+about kings, bandits, and ministers; talk about armies, threats, and
+wars; talk about food, drink, clothes, and beds; talk about garlands and
+fragrances; talk about family, vehicles, villages, towns, cities, and
+countries; talk about women and heroes; street talk and well talk; talk
+about the departed; motley talk; tales of land and sea; and talk about
+being reborn in this or that place.[^42] The ascetic Gotama refrains
+from such low talk.' Such is an ordinary person's praise of the Realized
+One.
+
+'There are some ascetics and brahmins who, while enjoying food given in
+faith, still engage in arguments. They say such things as: "You don't
+understand this teaching and training. I understand this teaching and
+training. What, you understand this teaching and training? You're
+practicing wrong. I'm practicing right. I stay on topic, you don't. You
+said last what you should have said first. You said first what you
+should have said last. What you've thought so much about has been
+disproved. Your doctrine is refuted. Go on, save your doctrine! You're
+trapped; get yourself out of this---if you can!"[^43] The ascetic Gotama
+refrains from such argumentative talk.' Such is an ordinary person's
+praise of the Realized One.
+
+'There are some ascetics and brahmins who, while enjoying food given in
+faith, still engage in running errands and messages. This includes
+running errands for rulers, ministers, aristocrats, brahmins,
+householders, or princes who say: "Go here, go there. Take this, bring
+that from there."[^44] The ascetic Gotama refrains from such errands.'
+Such is an ordinary person's praise of the Realized One.
+
+'There are some ascetics and brahmins who, while enjoying food given in
+faith, still engage in deceit, flattery, hinting, and belittling, and
+using material things to chase after other material things.[^45] The
+ascetic Gotama refrains from such deceit and flattery.' Such is an
+ordinary person's praise of the Realized One.
+
+:::: Center
+::: small
+*The middle section on ethics is finished.*
+:::
+::::
+
+#### 2.3. The Large Section on Ethics  {#the-large-section-on-ethics .unnumbered}
+
+'There are some ascetics and brahmins who, while enjoying food given in
+faith, still earn a living by low lore, by wrong livelihood.[^46] This
+includes such fields as limb-reading, omenology, divining celestial
+portents, interpreting dreams, divining bodily marks, divining holes in
+cloth gnawed by mice, fire offerings, ladle offerings, offerings of
+husks, rice powder, rice, ghee, or oil; offerings from the mouth, blood
+sacrifices, palmistry; geomancy for building sites, fields, and
+cemeteries; exorcisms, earth magic, snake charming, poisons; the lore of
+the scorpion, the rat, the bird, and the crow; prophesying lifespan,
+chanting for protection, and divining omens from wild animals.[^47] The
+ascetic Gotama refrains from such low lore, such wrong livelihood.' Such
+is an ordinary person's praise of the Realized One.
+
+'There are some ascetics and brahmins who, while enjoying food given in
+faith, still earn a living by low lore, by wrong livelihood. This
+includes reading the marks of gems, cloth, clubs, swords, spears,
+arrows, bows, weapons, women, men, boys, girls, male and female
+bondservants, elephants, horses, buffaloes, bulls, cows, goats, rams,
+chickens, quails, monitor lizards, rabbits, tortoises, or deer.[^48] The
+ascetic Gotama refrains from such low lore, such wrong livelihood.' Such
+is an ordinary person's praise of the Realized One.
+
+'There are some ascetics and brahmins who, while enjoying food given in
+faith, still earn a living by low lore, by wrong livelihood. This
+includes making predictions that the king will march forth or march
+back; or that our king will attack and the enemy king will retreat, or
+vice versa; or that our king will triumph and the enemy king will be
+defeated, or vice versa; and so there will be victory for one and defeat
+for the other. The ascetic Gotama refrains from such low lore, such
+wrong livelihood.' Such is an ordinary person's praise of the Realized
+One.
+
+'There are some ascetics and brahmins who, while enjoying food given in
+faith, still earn a living by low lore, by wrong livelihood. This
+includes making predictions that there will be an eclipse of the moon,
+or sun, or stars; that the sun, moon, and stars will be in conjunction
+or in opposition; that there will be a meteor shower, a fiery sky, an
+earthquake, or thunder in the heavens; that there will be a rising, a
+setting, a darkening, a brightening of the moon, sun, and stars. And it
+also includes making predictions about the results of all such
+phenomena.[^49] The ascetic Gotama refrains from such low lore, such
+wrong livelihood.' Such is an ordinary person's praise of the Realized
+One.
+
+'There are some ascetics and brahmins who, while enjoying food given in
+faith, still earn a living by low lore, by wrong livelihood. This
+includes predicting whether there will be plenty of rain or drought;
+plenty to eat or famine; an abundant harvest or a bad harvest; security
+or peril; sickness or health. It also includes such occupations as
+arithmetic, accounting, calculating, poetry, and cosmology.[^50] The
+ascetic Gotama refrains from such low lore, such wrong livelihood.' Such
+is an ordinary person's praise of the Realized One.
+
+'There are some ascetics and brahmins who, while enjoying food given in
+faith, still earn a living by low lore, by wrong livelihood. This
+includes making arrangements for giving and taking in marriage; for
+engagement and divorce; and for scattering rice inwards or outwards at
+the wedding ceremony. It also includes casting spells for good or bad
+luck, treating impacted fetuses, binding the tongue, or locking the
+jaws; charms for the hands and ears; questioning a mirror, a girl, or a
+god as an oracle; worshiping the sun, worshiping the Great One,
+breathing fire, and invoking Siri, the goddess of luck.[^51] The ascetic
+Gotama refrains from such low lore, such wrong livelihood.' Such is an
+ordinary person's praise of the Realized One.
+
+'There are some ascetics and brahmins who, while enjoying food given in
+faith, still earn a living by low lore, by wrong livelihood. This
+includes rites for propitiation, for granting wishes, for ghosts, for
+the earth, for rain, for property settlement, and for preparing and
+consecrating house sites, and rites involving rinsing and bathing, and
+oblations. It also includes administering emetics, purgatives,
+expectorants, and phlegmagogues; administering ear-oils, eye
+restoratives, nasal medicine, ointments, and counter-ointments; surgery
+with needle and scalpel, treating children, prescribing root medicines,
+and binding on herbs.[^52] The ascetic Gotama refrains from such low
+lore, such wrong livelihood.' Such is an ordinary person's praise of the
+Realized One.
+
+These are the trivial, insignificant details of mere ethics that an
+ordinary person speaks of when they speak praise of the Realized One.
+
+:::: Center
+::: small
+*The longer section on ethics is finished.*
+:::
+::::
+
+### 3. Views  {#views .unnumbered}
+
+#### 3.1. Theories About the Past  {#theories-about-the-past .unnumbered}
+
+There are other principles---deep, hard to see, hard to understand,
+peaceful, sublime, beyond the scope of logic, subtle, comprehensible to
+the astute---which the Realized One makes known after realizing them
+with his own insight. Those who genuinely praise the Realized One would
+rightly speak of these things.[^53] And what are these principles?
+
+There are some ascetics and brahmins who theorize about the past, and
+assert various hypotheses concerning the past on eighteen grounds. And
+what are the eighteen grounds on which they rely?
+
+##### 3.1.1. Eternalism  {#eternalism .unnumbered}
+
+There are some ascetics and brahmins who are eternalists, who assert
+that the self and the cosmos are eternal on four grounds.[^54] And what
+are the four grounds on which they rely?
+
+It's when some ascetic or brahmin---by dint of keen, resolute,
+committed, and diligent effort, and right application of
+mind---experiences an immersion of the heart of such a kind that they
+recollect their many kinds of past lives.[^55] That is: one, two, three,
+four, five, ten, twenty, thirty, forty, fifty, a hundred, a thousand, a
+hundred thousand rebirths. They remember: 'There, I was named this, my
+clan was that, I looked like this, and that was my food. This was how I
+felt pleasure and pain, and that was how my life ended. When I passed
+away from that place I was reborn somewhere else. There, too, I was
+named this, my clan was that, I looked like this, and that was my food.
+This was how I felt pleasure and pain, and that was how my life ended.
+When I passed away from that place I was reborn here.' And so they
+recollect their many kinds of past lives, with features and
+details.[^56]
+
+They say: 'The self and the cosmos are eternal, barren, steady as a
+mountain peak, standing firm like a pillar.[^57] They remain the same
+for all eternity, while these sentient beings wander and transmigrate
+and pass away and rearise.[^58] Why is that? Because by dint of keen,
+resolute, committed, and diligent effort, and right application of mind
+I experience an immersion of the heart of such a kind that I recollect
+my many kinds of past lives, with features and details.
+
+Because of this I know:[^59]
+
+"The self and the cosmos are eternal, barren, steady as a mountain peak,
+standing firm like a pillar. They remain the same for all eternity,
+while these sentient beings wander and transmigrate and pass away and
+rearise."' This is the first ground on which some ascetics and brahmins
+rely to assert that the self and the cosmos are eternal.
+
+And what is the second ground on which they rely? It's when some ascetic
+or brahmin---by dint of keen, resolute, committed, and diligent effort,
+and right application of mind---experiences an immersion of the heart of
+such a kind that they recollect their many kinds of past lives. That is:
+one eon of the cosmos contracting and expanding; two, three, four, five,
+or ten eons of the cosmos contracting and expanding. They remember:
+'There, I was named this, my clan was that, I looked like this, and that
+was my food. This was how I felt pleasure and pain, and that was how my
+life ended. When I passed away from that place I was reborn somewhere
+else. There, too, I was named this, my clan was that, I looked like
+this, and that was my food. This was how I felt pleasure and pain, and
+that was how my life ended. When I passed away from that place I was
+reborn here.' And so they recollect their many kinds of past lives, with
+features and details.[^60]
+
+They say: 'The self and the cosmos are eternal, barren, steady as a
+mountain peak, standing firm like a pillar. They remain the same for all
+eternity, while these sentient beings wander and transmigrate and pass
+away and rearise. Why is that? Because by dint of keen, resolute,
+committed, and diligent effort, and right application of mind I
+experience an immersion of the heart of such a kind that I recollect my
+many kinds of past lives, with features and details.
+
+Because of this I know:
+
+"The self and the cosmos are eternal, barren, steady as a mountain peak,
+standing firm like a pillar. They remain the same for all eternity,
+while these sentient beings wander and transmigrate and pass away and
+rearise."' This is the second ground on which some ascetics and brahmins
+rely to assert that the self and the cosmos are eternal.
+
+And what is the third ground on which they rely? It's when some ascetic
+or brahmin---by dint of keen, resolute, committed, and diligent effort,
+and right application of mind---experiences an immersion of the heart of
+such a kind that they recollect their many kinds of past lives. That is:
+ten eons of the cosmos contracting and expanding; twenty, thirty, or
+forty eons of the cosmos contracting and expanding. They remember:
+'There, I was named this, my clan was that, I looked like this, and that
+was my food. This was how I felt pleasure and pain, and that was how my
+life ended. When I passed away from that place I was reborn somewhere
+else. There, too, I was named this, my clan was that, I looked like
+this, and that was my food. This was how I felt pleasure and pain, and
+that was how my life ended. When I passed away from that place I was
+reborn here.' And so they recollect their many kinds of past lives, with
+features and details.
+
+They say: 'The self and the cosmos are eternal, barren, steady as a
+mountain peak, standing firm like a pillar. They remain the same for all
+eternity, while these sentient beings wander and transmigrate and pass
+away and rearise. Why is that? Because by dint of keen, resolute,
+committed, and diligent effort, and right application of mind I
+experience an immersion of the heart of such a kind that I recollect my
+many kinds of past lives, with features and details.
+
+Because of this I know:
+
+"The self and the cosmos are eternal, barren, steady as a mountain peak,
+standing firm like a pillar. They remain the same for all eternity,
+while these sentient beings wander and transmigrate and pass away and
+rearise."' This is the third ground on which some ascetics and brahmins
+rely to assert that the self and the cosmos are eternal.
+
+And what is the fourth ground on which they rely? It's when some ascetic
+or brahmin relies on logic and inquiry. They speak of what they have
+worked out by logic, following a line of inquiry, expressing their own
+perspective:[^61] 'The self and the cosmos are eternal, barren, steady
+as a mountain peak, standing firm like a pillar. They remain the same
+for all eternity, while these sentient beings wander and transmigrate
+and pass away and rearise.' This is the fourth ground on which some
+ascetics and brahmins rely to assert that the self and the cosmos are
+eternal.
+
+These are the four grounds on which those ascetics and brahmins assert
+that the self and the cosmos are eternal. Any ascetics and brahmins who
+assert that the self and the cosmos are eternal do so on one or other of
+these four grounds. Outside of this there is none.[^62]
+
+The Realized One understands this: 'If you hold on to and attach to
+these grounds for views it leads to such and such a destiny in the next
+life.'[^63] He understands this, and what goes beyond this. And since he
+does not misapprehend that understanding, he has realized quenching
+within himself.[^64] Having truly understood the origin, ending,
+gratification, drawback, and escape from feelings, the Realized One is
+freed through not grasping.[^65]
+
+These are the principles---deep, hard to see, hard to understand,
+peaceful, sublime, beyond the scope of logic, subtle, comprehensible to
+the astute---which the Realized One makes known after realizing them
+with his own insight. And those who genuinely praise the Realized One
+would rightly speak of these things.
+
+:::: Center
+::: small
+*The first recitation section.[^66]*
+:::
+::::
+
+##### 3.1.2. Partial Eternalism  {#partial-eternalism .unnumbered}
+
+There are some ascetics and brahmins who are partial eternalists, who
+assert that the self and the cosmos are partially eternal and partially
+not eternal on four grounds.[^67] And what are the four grounds on which
+they rely?
+
+There comes a time when, after a very long period has passed, this
+cosmos contracts.[^68] As the cosmos contracts, sentient beings are
+mostly headed for the realm of streaming radiance.[^69] There they are
+mind-made, feeding on rapture, self-luminous, wandering in midair,
+steadily glorious, and they remain like that for a very long time.[^70]
+
+There comes a time when, after a very long period has passed, this
+cosmos expands.[^71] As it expands an empty mansion of divinity
+appears.[^72] Then a certain sentient being---due to the running out of
+their lifespan or merit---passes away from that host of radiant deities
+and is reborn in that empty mansion of divinity.[^73] There they are
+mind-made, feeding on rapture, self-luminous, wandering in midair,
+steadily glorious, and they remain like that for a very long time.
+
+But after staying there all alone for a long time, they become
+dissatisfied and anxious:[^74] 'Oh, if only other beings would come to
+this place.' Then other sentient beings---due to the running out of
+their lifespan or merit---pass away from that host of radiant deities
+and are reborn in that mansion of divinity in company with that
+being.[^75] There they too are mind-made, feeding on rapture,
+self-luminous, wandering in midair, steadily glorious, and they remain
+like that for a very long time.
+
+Now, the being who was reborn there first thinks: 'I am the Divinity,
+the Great Divinity, the Vanquisher, the Unvanquished, the Universal
+Seer, the Wielder of Power, God Almighty, the Maker, the Creator, the
+First, the Begetter, the Controller, the Father of those who have been
+born and those yet to be born.[^76] These beings were created by
+me![^77] Why is that? Because first I thought:
+
+"Oh, if only other beings would come to this place." Such was my heart's
+wish, and then these creatures came to this place.'[^78]
+
+And the beings who were reborn there later also think: 'This must be the
+Divinity, the Great Divinity, the Vanquisher, the Unvanquished, the
+Universal Seer, the Wielder of Power, God Almighty, the Maker, the
+Creator, the First, the Begetter, the Controller, the Father of those
+who have been born and those yet to be born. And we were created by him.
+Why is that? Because we see that he was reborn here first, and we
+arrived later.'[^79]
+
+And the being who was reborn first is more long-lived, beautiful, and
+illustrious than those who arrived later.
+
+It's possible that one of those beings passes away from that host and is
+reborn in this place. Having done so, they go forth from the lay life to
+homelessness. By dint of keen, resolute, committed, and diligent effort,
+and right application of mind, they experience an immersion of the heart
+of such a kind that they recollect that past life, but no further.[^80]
+
+They say: 'He who is the Divinity---the Great Divinity, the Vanquisher,
+the Unvanquished, the Universal Seer, the Wielder of Power, God
+Almighty, the Maker, the Creator, the First, the Begetter, the
+Controller, the Father of those who have been born and those yet to be
+born---by he we were created. He is permanent, everlasting, eternal,
+imperishable, remaining the same for all eternity. We who were created
+by that Divinity are impermanent, not lasting, short-lived, liable to
+pass away, and have come to this place.'[^81] This is the first ground
+on which some ascetics and brahmins rely to assert that the self and the
+cosmos are partially eternal.
+
+And what is the second ground on which they rely? There are gods named
+'depraved by play.' They spend too much time laughing, playing, and
+making merry. And in doing so, they lose their mindfulness, and they
+pass away from that host of gods.[^82]
+
+It's possible that one of those beings passes away from that host and is
+reborn in this place. Having done so, they go forth from the lay life to
+homelessness. By dint of keen, resolute, committed, and diligent effort,
+and right application of mind, they experience an immersion of the heart
+of such a kind that they recollect that past life, but no further.
+
+They say: 'The gods not depraved by play don't spend too much time
+laughing, playing, and making merry. So they don't lose their
+mindfulness, and don't pass away from that host of gods. They are
+permanent, everlasting, eternal, imperishable, remaining the same for
+all eternity. But we who were depraved by play spent too much time
+laughing, playing, and making merry. In doing so, we lost our
+mindfulness, and passed away from that host of gods. We are impermanent,
+not lasting, short-lived, liable to pass away, and have come to this
+place.'[^83] This is the second ground on which some ascetics and
+brahmins rely to assert that the self and the cosmos are partially
+eternal.
+
+And what is the third ground on which they rely? There are gods named
+'malevolent'. They spend too much time gazing at each other, so they
+grow angry with each other, and their bodies and minds get tired. They
+pass away from that host of gods.[^84]
+
+It's possible that one of those beings passes away from that host and is
+reborn in this place. Having done so, they go forth from the lay life to
+homelessness. By dint of keen, resolute, committed, and diligent effort,
+and right application of mind, they experience an immersion of the heart
+of such a kind that they recollect that past life, but no further.
+
+They say: 'The gods who are not malevolent don't spend too much time
+gazing at each other, so they don't grow angry with each other, their
+bodies and minds don't get tired, and they don't pass away from that
+host of gods. They are permanent, everlasting, eternal, imperishable,
+remaining the same for all eternity. But we who were malevolent spent
+too much time gazing at each other, we grew angry with each other, our
+bodies and minds got tired, and we passed away from that host of gods.
+We are impermanent, not lasting, short-lived, liable to pass away, and
+have come to this place.' This is the third ground on which some
+ascetics and brahmins rely to assert that the self and the cosmos are
+partially eternal.
+
+And what is the fourth ground on which they rely? It's when some ascetic
+or brahmin relies on logic and inquiry. They speak of what they have
+worked out by logic, following a line of inquiry, expressing their own
+perspective: 'That which is called "the eye", "the ear", "the nose",
+"the tongue", and also "the body": that self is impermanent, not
+lasting, transient, perishable. That which is called "mind" or
+"sentience" or "consciousness": that self is permanent, everlasting,
+eternal, imperishable, remaining the same for all eternity.'[^85] This
+is the fourth ground on which some ascetics and brahmins rely to assert
+that the self and the cosmos are partially eternal.
+
+These are the four grounds on which those ascetics and brahmins assert
+that the self and the cosmos are partially eternal and partially not
+eternal. Any ascetics and brahmins who assert that the self and the
+cosmos are partially eternal and partially not eternal do so on one or
+other of these four grounds. Outside of this there is none.
+
+The Realized One understands this: 'If you hold on to and attach to
+these grounds for views it leads to such and such a destiny in the next
+life.' He understands this, and what goes beyond this. And since he does
+not misapprehend that understanding, he has realized quenching within
+himself. Having truly understood the origin, ending, gratification,
+drawback, and escape from feelings, the Realized One is freed through
+not grasping.
+
+These are the principles---deep, hard to see, hard to understand,
+peaceful, sublime, beyond the scope of logic, subtle, comprehensible to
+the astute---which the Realized One makes known after realizing them
+with his own insight. And those who genuinely praise the Realized One
+would rightly speak of these things.
+
+##### 3.1.3. The Cosmos is Finite or Infinite  {#the-cosmos-is-finite-or-infinite .unnumbered}
+
+There are some ascetics and brahmins who theorize about size, and assert
+that the cosmos is finite or infinite on four grounds.[^86] And what are
+the four grounds on which they rely?
+
+It's when some ascetic or brahmin---by dint of keen, resolute,
+committed, and diligent effort, and right application of
+mind---experiences an immersion of the heart of such a kind that they
+meditate perceiving the cosmos as finite.[^87]
+
+They say: 'The cosmos is finite and bounded. Why is that? Because by
+dint of keen, resolute, committed, and diligent effort, and right
+application of mind I experience an immersion of the heart of such a
+kind that I meditate perceiving the cosmos as finite.[^88] Because of
+this I know:
+
+"The cosmos is finite and bounded."' This is the first ground on which
+some ascetics and brahmins rely to assert that the cosmos is finite or
+infinite.
+
+And what is the second ground on which they rely? It's when some ascetic
+or brahmin---by dint of keen, resolute, committed, and diligent effort,
+and right application of mind---experiences an immersion of the heart of
+such a kind that they meditate perceiving the cosmos as infinite.[^89]
+
+They say: 'The cosmos is infinite and unbounded. The ascetics and
+brahmins who say that the cosmos is finite are wrong.[^90] The cosmos is
+infinite and unbounded. Why is that? Because by dint of keen, resolute,
+committed, and diligent effort, and right application of mind I
+experience an immersion of the heart of such a kind that I meditate
+perceiving the cosmos as infinite. Because of this I know:
+
+"The cosmos is infinite and unbounded."' This is the second ground on
+which some ascetics and brahmins rely to assert that the cosmos is
+finite or infinite.
+
+And what is the third ground on which they rely? It's when some ascetic
+or brahmin---by dint of keen, resolute, committed, and diligent effort,
+and right application of mind---experiences an immersion of the heart of
+such a kind that they meditate perceiving the cosmos as finite
+vertically but infinite horizontally.[^91]
+
+They say: 'The cosmos is both finite and infinite. The ascetics and
+brahmins who say that the cosmos is finite are wrong, and so are those
+who say that the cosmos is infinite. The cosmos is both finite and
+infinite. Why is that? Because by dint of keen, resolute, committed, and
+diligent effort, and right application of mind I experience an immersion
+of the heart of such a kind that I meditate perceiving the cosmos as
+finite vertically but infinite horizontally. Because of this I know:
+
+"The cosmos is both finite and infinite."' This is the third ground on
+which some ascetics and brahmins rely to assert that the cosmos is
+finite or infinite.
+
+And what is the fourth ground on which they rely? It's when some ascetic
+or brahmin relies on logic and inquiry. They speak of what they have
+worked out by logic, following a line of inquiry, expressing their own
+perspective: 'The cosmos is neither finite nor infinite.[^92] The
+ascetics and brahmins who say that the cosmos is finite are wrong, as
+are those who say that the cosmos is infinite, and also those who say
+that the cosmos is both finite and infinite. The cosmos is neither
+finite nor infinite.' This is the fourth ground on which some ascetics
+and brahmins rely to assert that the cosmos is finite or infinite.
+
+These are the four grounds on which those ascetics and brahmins assert
+that the cosmos is finite or infinite. Any ascetics and brahmins who
+assert that the cosmos is finite or infinite do so on one or other of
+these four grounds. Outside of this there is none.
+
+The Realized One understands this: 'If you hold on to and attach to
+these grounds for views it leads to such and such a destiny in the next
+life.' He understands this, and what goes beyond this. And since he does
+not misapprehend that understanding, he has realized quenching within
+himself. Having truly understood the origin, ending, gratification,
+drawback, and escape from feelings, the Realized One is freed through
+not grasping.
+
+These are the principles---deep, hard to see, hard to understand,
+peaceful, sublime, beyond the scope of logic, subtle, comprehensible to
+the astute---which the Realized One makes known after realizing them
+with his own insight. And those who genuinely praise the Realized One
+would rightly speak of these things.
+
+##### 3.1.4. Endless Flip-floppers  {#endless-flip-floppers .unnumbered}
+
+There are some ascetics and brahmins who are endless flip-floppers.
+Whenever they're asked a question, they resort to verbal flip-flops and
+endless flip-flops on four grounds.[^93] And what are the four grounds
+on which they rely?
+
+It's when some ascetic or brahmin doesn't truly understand what is
+skillful and what is unskillful.[^94] They think: 'I don't truly
+understand what is skillful and what is unskillful. If I were to declare
+that something was skillful or unskillful I might be wrong. That would
+be stressful for me, and that stress would be an obstacle.' So from fear
+and disgust with false speech they avoid stating whether something is
+skillful or unskillful. Whenever they're asked a question, they resort
+to verbal flip-flops and endless flip-flops:[^95] 'I don't say it's like
+this. I don't say it's like that. I don't say it's otherwise. I don't
+say it's not so. And I don't deny it's not so.'[^96] This is the first
+ground on which some ascetics and brahmins rely when resorting to verbal
+flip-flops and endless flip-flops.
+
+And what is the second ground on which they rely? It's when some ascetic
+or brahmin doesn't truly understand what is skillful and what is
+unskillful. They think: 'I don't truly understand what is skillful and
+what is unskillful. If I were to declare that something was skillful or
+unskillful I might feel desire or greed or hate or repulsion.[^97] That
+would be grasping on my part. That would be stressful for me, and that
+stress would be an obstacle.' So from fear and disgust with grasping
+they avoid stating whether something is skillful or unskillful. Whenever
+they're asked a question, they resort to verbal flip-flops and endless
+flip-flops: 'I don't say it's like this. I don't say it's like that. I
+don't say it's otherwise. I don't say it's not so. And I don't deny it's
+not so.' This is the second ground on which some ascetics and brahmins
+rely when resorting to verbal flip-flops and endless flip-flops.
+
+And what is the third ground on which they rely? It's when some ascetic
+or brahmin doesn't truly understand what is skillful and what is
+unskillful. They think: 'I don't truly understand what is skillful and
+what is unskillful. Suppose I were to declare that something was
+skillful or unskillful. There are clever ascetics and brahmins who are
+subtle, accomplished in the doctrines of others, hair-splitters. You'd
+think they live to demolish convictions with their intellect.[^98] They
+might pursue, press, and grill me about that. I'd be stumped by such a
+grilling. That would be stressful for me, and that stress would be an
+obstacle.' So from fear and disgust with examination they avoid stating
+whether something is skillful or unskillful. Whenever they're asked a
+question, they resort to verbal flip-flops and endless flip-flops: 'I
+don't say it's like this. I don't say it's like that. I don't say it's
+otherwise. I don't say it's not so. And I don't deny it's not so.' This
+is the third ground on which some ascetics and brahmins rely when
+resorting to verbal flip-flops and endless flip-flops.
+
+And what is the fourth ground on which they rely? It's when some ascetic
+or brahmin is dull and stupid.[^99] Because of that, whenever they're
+asked a question, they resort to verbal flip-flops and endless
+flip-flops: 'Suppose you were to ask me whether there is another world.
+If I believed that to be the case, I would say so.[^100] But I don't say
+it's like this. I don't say it's like that. I don't say it's otherwise.
+I don't say it's not so. And I don't deny it's not so. Suppose you were
+to ask me whether there is no other world ...[^101] whether there both
+is and is not another world ...[^102] whether there neither is nor is
+not another world ...[^103] whether there are beings who are reborn
+spontaneously ...[^104] whether there are not beings who are reborn
+spontaneously ...[^105] whether there both are and are not beings who
+are reborn spontaneously ...[^106] whether there neither are nor are not
+beings who are reborn spontaneously ...[^107] whether there is fruit and
+result of good and bad deeds ...[^108] whether there is no fruit and
+result of good and bad deeds ...[^109] whether there both is and is not
+fruit and result of good and bad deeds ...[^110] whether there neither
+is nor is not fruit and result of good and bad deeds ...[^111] whether a
+realized one still exists after death ...[^112] whether A realized one
+no longer exists after death ...[^113] whether a realized one both still
+exists and no longer exists after death ...[^114] whether a Realized One
+neither exists nor doesn't exist after death. If I believed that to be
+the case, I would say so.[^115] But I don't say it's like this. I don't
+say it's like that. I don't say it's otherwise. I don't say it's not so.
+And I don't deny it's not so.' This is the fourth ground on which some
+ascetics and brahmins rely when resorting to verbal flip-flops and
+endless flip-flops.
+
+These are the four grounds on which those ascetics and brahmins who are
+flip-floppers resort to verbal flip-flops and endless flip-flops
+whenever they're asked a question. Any ascetics and brahmins who resort
+to verbal flip-flops and endless flip-flops do so on one or other of
+these four grounds. Outside of this there is none. The Realized One
+understands this ... And those who genuinely praise the Realized One
+would rightly speak of these things.
+
+##### 3.1.5. Doctrines of Origination by Chance  {#doctrines-of-origination-by-chance .unnumbered}
+
+There are some ascetics and brahmins who theorize about chance. They
+assert that the self and the cosmos arose by chance on two grounds. And
+what are the two grounds on which they rely?
+
+There are gods named 'non-percipient beings'.[^116] When perception
+arises they pass away from that host of gods. It's possible that one of
+those beings passes away from that host and is reborn in this place.
+Having done so, they go forth from the lay life to homelessness. By dint
+of keen, resolute, committed, and diligent effort, and right application
+of mind, they experience an immersion of the heart of such a kind that
+they recollect the arising of perception, but no further. They say: 'The
+self and the cosmos arose by chance. Why is that? Because formerly I
+didn't exist, whereas now, having not existed, I've transformed into the
+state of existing." This is the first ground on which some ascetics and
+brahmins rely to assert that the self and the cosmos arose by chance.
+
+And what is the second ground on which they rely? It's when some ascetic
+or brahmin relies on logic and inquiry. They speak of what they have
+worked out by logic, following a line of inquiry, expressing their own
+perspective: 'The self and the cosmos arose by chance.' This is the
+second ground on which some ascetics and brahmins rely to assert that
+the self and the cosmos arose by chance.
+
+These are the two grounds on which those ascetics and brahmins who
+theorize about chance assert that the self and the cosmos arose by
+chance. Any ascetics and brahmins who theorize about chance do so on one
+or other of these two grounds. Outside of this there is none. The
+Realized One understands this ... And those who genuinely praise the
+Realized One would rightly speak of these things.
+
+These are the eighteen grounds on which those ascetics and brahmins who
+theorize about the past assert various hypotheses concerning the
+past.[^117] Any ascetics and brahmins who theorize about the past do so
+on one or other of these eighteen grounds. Outside of this there is
+none.
+
+The Realized One understands this: 'If you hold on to and attach to
+these grounds for views it leads to such and such a destiny in the next
+life.' He understands this, and what goes beyond this. And since he does
+not misapprehend that understanding, he has realized quenching within
+himself. Having truly understood the origin, ending, gratification,
+drawback, and escape from feelings, the Realized One is freed through
+not grasping.
+
+These are the principles---deep, hard to see, hard to understand,
+peaceful, sublime, beyond the scope of logic, subtle, comprehensible to
+the astute---which the Realized One makes known after realizing them
+with his own insight. And those who genuinely praise the Realized One
+would rightly speak of these things.
+
+:::: Center
+::: small
+*The second recitation section.*
+:::
+::::
+
+#### 3.2. Theories About the Future  {#theories-about-the-future .unnumbered}
+
+There are some ascetics and brahmins who theorize about the future, and
+assert various hypotheses concerning the future on forty-four
+grounds.[^118] And what are the forty-four grounds on which they rely?
+
+##### 3.2.1. Percipient Life After Death  {#percipient-life-after-death .unnumbered}
+
+There are some ascetics and brahmins who say there is life after death,
+and assert that the self lives on after death in a percipient form on
+sixteen grounds. And what are the sixteen grounds on which they rely?
+
+They assert: 'The self is healthy and percipient after death, and it is
+formed ...[^119]
+
+formless ...
+
+both formed and formless ...
+
+neither formed nor formless ...
+
+finite ...
+
+infinite ...
+
+both finite and infinite ...
+
+neither finite nor infinite ...
+
+of unified perception ...
+
+of diverse perception ...
+
+of limited perception ...
+
+of limitless perception ...
+
+experiences nothing but happiness ...
+
+experiences nothing but suffering ...
+
+experiences both happiness and suffering ...
+
+experiences neither happiness nor suffering.'
+
+These are the sixteen grounds on which those ascetics and brahmins
+assert that the self lives on after death in a percipient form. Any
+ascetics and brahmins who assert that the self lives on after death in a
+percipient form do so on one or other of these sixteen grounds. Outside
+of this there is none. The Realized One understands this ... And those
+who genuinely praise the Realized One would rightly speak of these
+things.
+
+##### 3.2.2. Non-Percipient Life After Death  {#non-percipient-life-after-death .unnumbered}
+
+There are some ascetics and brahmins who say there is life after death,
+and assert that the self lives on after death in a non-percipient form
+on eight grounds. And what are the eight grounds on which they rely?
+
+They assert: 'The self is healthy and non-percipient after death, and it
+is formed ...[^120]
+
+formless ...
+
+both formed and formless ...
+
+neither formed nor formless ...
+
+finite ...
+
+infinite ...
+
+both finite and infinite ...
+
+neither finite nor infinite.'
+
+These are the eight grounds on which those ascetics and brahmins assert
+that the self lives on after death in a non-percipient form. Any
+ascetics and brahmins who assert that the self lives on after death in a
+non-percipient form do so on one or other of these eight grounds.
+Outside of this there is none. The Realized One understands this ... And
+those who genuinely praise the Realized One would rightly speak of these
+things.
+
+##### 3.2.3. Neither Percipient Nor Non-Percipient Life After Death  {#neither-percipient-nor-non-percipient-life-after-death .unnumbered}
+
+There are some ascetics and brahmins who say there is life after death,
+and assert that the self lives on after death in a neither percipient
+nor non-percipient form on eight grounds.[^121] And what are the eight
+grounds on which they rely?
+
+They assert: 'The self is healthy and neither percipient nor
+non-percipient after death, and it is formed ...
+
+formless ...
+
+both formed and formless ...
+
+neither formed nor formless ...
+
+finite ...
+
+infinite ...
+
+both finite and infinite ...
+
+neither finite nor infinite.'
+
+These are the eight grounds on which those ascetics and brahmins assert
+that the self lives on after death in a neither percipient nor
+non-percipient form. Any ascetics and brahmins who assert that the self
+lives on after death in a neither percipient nor non-percipient form do
+so on one or other of these eight grounds. Outside of this there is
+none. The Realized One understands this ... And those who genuinely
+praise the Realized One would rightly speak of these things.
+
+##### 3.2.4. Annihilationism  {#annihilationism .unnumbered}
+
+There are some ascetics and brahmins who are annihilationists. They
+assert the annihilation, eradication, and obliteration of an existing
+being on seven grounds.[^122] And what are the seven grounds on which
+they rely?
+
+There are some ascetics and brahmins who have this doctrine and view:
+'This self is formed, made up of the four principal states, and produced
+by mother and father. Since it's annihilated and destroyed when the body
+breaks up, and doesn't exist after death, that's how this self becomes
+rightly annihilated.'[^123] That is how some assert the annihilation of
+an existing being.
+
+But someone else says to them: '*That* self of which you speak does
+exist, I don't deny it.[^124] But that's not how *this* self becomes
+rightly annihilated. There is another self that is heavenly, formed,
+sensual, consuming solid food.[^125] You don't know or see that. But I
+know it and see it. Since this self is annihilated and destroyed when
+the body breaks up, and doesn't exist after death, that's how this self
+becomes rightly annihilated.'[^126] That is how some assert the
+annihilation of an existing being.
+
+But someone else says to them: '*That* self of which you speak does
+exist, I don't deny it. But that's not how *this* self becomes rightly
+annihilated. There is another self that is heavenly, formed, mind-made,
+whole in its major and minor limbs, not deficient in any faculty.[^127]
+You don't know or see that. But I know it and see it. Since this self is
+annihilated and destroyed when the body breaks up, and doesn't exist
+after death, that's how this self becomes rightly annihilated.' That is
+how some assert the annihilation of an existing being.
+
+But someone else says to them: '*That* self of which you speak does
+exist, I don't deny it. But that's not how *this* self becomes rightly
+annihilated. There is another self which has gone totally beyond
+perceptions of form. With the ending of perceptions of impingement, not
+focusing on perceptions of diversity, aware that "space is infinite",
+it's reborn in the dimension of infinite space.[^128] You don't know or
+see that. But I know it and see it. Since this self is annihilated and
+destroyed when the body breaks up, and doesn't exist after death, that's
+how this self becomes rightly annihilated.'[^129] That is how some
+assert the annihilation of an existing being.
+
+But someone else says to them: '*That* self of which you speak does
+exist, I don't deny it. But that's not how *this* self becomes rightly
+annihilated. There is another self which has gone totally beyond the
+dimension of infinite space. Aware that "consciousness is infinite",
+it's reborn in the dimension of infinite consciousness. You don't know
+or see that. But I know it and see it. Since this self is annihilated
+and destroyed when the body breaks up, and doesn't exist after death,
+that's how this self becomes rightly annihilated.' That is how some
+assert the annihilation of an existing being.
+
+But someone else says to them: '*That* self of which you speak does
+exist, I don't deny it. But that's not how *this* self becomes rightly
+annihilated. There is another self that has gone totally beyond the
+dimension of infinite consciousness. Aware that "there is nothing at
+all", it's been reborn in the dimension of nothingness. You don't know
+or see that. But I know it and see it. Since this self is annihilated
+and destroyed when the body breaks up, and doesn't exist after death,
+that's how this self becomes rightly annihilated.' That is how some
+assert the annihilation of an existing being.
+
+But someone else says to them: '*That* self of which you speak does
+exist, I don't deny it. But that's not how *this* self becomes rightly
+annihilated. There is another self that has gone totally beyond the
+dimension of nothingness. Aware that "this is peaceful, this is
+sublime", it's been reborn in the dimension of neither perception nor
+non-perception.[^130] You don't know or see that. But I know it and see
+it. Since this self is annihilated and destroyed when the body breaks
+up, and doesn't exist after death, that's how this self becomes rightly
+annihilated.' That is how some assert the annihilation of an existing
+being.
+
+These are the seven grounds on which those ascetics and brahmins assert
+the annihilation, eradication, and obliteration of an existing being.
+Any ascetics and brahmins who assert the annihilation, eradication, and
+obliteration of an existing being do so on one or other of these seven
+grounds. Outside of this there is none. The Realized One understands
+this ... And those who genuinely praise the Realized One would rightly
+speak of these things.
+
+##### 3.2.5. Extinguishment of Suffering in This Life  {#extinguishment-of-suffering-in-this-life .unnumbered}
+
+There are some ascetics and brahmins who speak of extinguishment in this
+life. They assert ultimate extinguishment for an existing being in this
+life on five grounds.[^131] And what are the five grounds on which they
+rely?
+
+There are some ascetics and brahmins who have this doctrine and view:
+'When this self amuses itself, supplied and provided with the five kinds
+of sensual stimulation, that's how this self attains ultimate
+extinguishment in this life.'[^132] That is how some assert ultimate
+extinguishment for an existing being in this life.
+
+But someone else says to them: '*That* self of which you speak does
+exist, I don't deny it. But that's not how *this* self attains ultimate
+extinguishment in this life. Why is that? Because sensual pleasures are
+impermanent, suffering, and perishable. Their decay and perishing give
+rise to sorrow, lamentation, pain, sadness, and distress.[^133] Quite
+secluded from sensual pleasures, secluded from unskillful qualities,
+this self enters and remains in the first absorption, which has the
+rapture and bliss born of seclusion, while placing the mind and keeping
+it connected. That's how this self attains ultimate extinguishment in
+this life.'[^134] That is how some assert ultimate extinguishment for an
+existing being in this life.
+
+But someone else says to them: '*That* self of which you speak does
+exist, I don't deny it. But that's not how *this* self attains ultimate
+extinguishment in this life.[^135] Why is that? Because the placing of
+the mind and the keeping it connected there are coarse.[^136] But when
+the placing of the mind and keeping it connected are stilled, this self
+enters and remains in the second absorption, which has the rapture and
+bliss born of immersion, with internal clarity and mind at one, without
+placing the mind and keeping it connected. That's how this self attains
+ultimate extinguishment in this life.' That is how some assert ultimate
+extinguishment for an existing being in this life.
+
+But someone else says to them: '*That* self of which you speak does
+exist, I don't deny it. But that's not how *this* self attains ultimate
+extinguishment in this life. Why is that? Because the rapture and
+emotional elation there are coarse. But with the fading away of rapture,
+this self enters and remains in the third absorption, where it meditates
+with equanimity, mindful and aware, personally experiencing the bliss of
+which the noble ones declare, "Equanimous and mindful, one meditates in
+bliss". That's how this self attains ultimate extinguishment in this
+life.' That is how some assert ultimate extinguishment for an existing
+being in this life.
+
+But someone else says to them: '*That* self of which you speak does
+exist, I don't deny it. But that's not how *this* self attains ultimate
+extinguishment in this life. Why is that? Because the mental partaking
+of that as 'blissful' is said to be coarse.[^137] But giving up pleasure
+and pain, and ending former happiness and sadness, this self enters and
+remains in the fourth absorption, without pleasure or pain, with pure
+equanimity and mindfulness. That's how this self attains ultimate
+extinguishment in this life.' That is how some assert ultimate
+extinguishment for an existing being in this life.
+
+These are the five grounds on which those ascetics and brahmins assert
+ultimate extinguishment for an existing being in this life. Any ascetics
+and brahmins who assert ultimate extinguishment for an existing being in
+this life do so on one or other of these five grounds. Outside of this
+there is none.[^138] The Realized One understands this ... And those who
+genuinely praise the Realized One would rightly speak of these things.
+
+These are the forty-four grounds on which those ascetics and brahmins
+who theorize about the future assert various hypotheses concerning the
+future. Any ascetics and brahmins who theorize about the future do so on
+one or other of these forty-four grounds. Outside of this there is none.
+The Realized One understands this ... And those who genuinely praise the
+Realized One would rightly speak of these things.
+
+These are the sixty-two grounds on which those ascetics and brahmins who
+theorize about the past and the future assert various hypotheses
+concerning the past and the future.
+
+Any ascetics and brahmins who theorize about the past or the future do
+so on one or other of these sixty-two grounds. Outside of this there is
+none.
+
+The Realized One understands this: 'If you hold on to and attach to
+these grounds for views it leads to such and such a destiny in the next
+life.'[^139] He understands this, and what goes beyond this. And since
+he does not misapprehend that understanding, he has realized quenching
+within himself. Having truly understood the origin, ending,
+gratification, drawback, and escape from feelings, the Realized One is
+freed through not grasping.
+
+These are the principles---deep, hard to see, hard to understand,
+peaceful, sublime, beyond the scope of logic, subtle, comprehensible to
+the astute---which the Realized One makes known after realizing them
+with his own insight. And those who genuinely praise the Realized One
+would rightly speak of these things.
+
+### 4. The Grounds For Assertions About the Self and the Cosmos  {#the-grounds-for-assertions-about-the-self-and-the-cosmos .unnumbered}
+
+#### 4.1. Anxiety and Evasiveness  {#anxiety-and-evasiveness .unnumbered}
+
+Now, these things are only the feeling of those who do not know or see,
+the anxiety and evasiveness of those under the sway of craving. Namely,
+when those ascetics and brahmins assert that the self and the cosmos are
+eternal on four grounds ...[^140]
+
+partially eternal on four grounds ...
+
+finite or infinite on four grounds ...
+
+or they resort to flip-flops on four grounds ...
+
+or they assert that the self and the cosmos arose by chance on two
+grounds ...
+
+they theorize about the past on these eighteen grounds ...
+
+or they assert that the self lives on after death in a percipient form
+on sixteen grounds ...
+
+or that the self lives on after death in a non-percipient form on eight
+grounds ...
+
+or that the self lives on after death in a neither percipient nor
+non-percipient form on eight grounds ...
+
+or they assert the annihilation of an existing being on seven grounds
+...
+
+or they assert ultimate extinguishment for an existing being in this
+life on five grounds ...
+
+they theorize about the future on these forty-four grounds ...
+
+When those ascetics and brahmins theorize about the past and the future
+on these sixty-two grounds, these things are only the feeling of those
+who do not know or see, the anxiety and evasiveness of those under the
+sway of craving.
+
+#### 4.2. Conditioned by Contact  {#conditioned-by-contact .unnumbered}
+
+Now, these things are conditioned by contact. Namely, when those
+ascetics and brahmins assert that the self and the cosmos are eternal on
+four grounds ...[^141]
+
+partially eternal on four grounds ...
+
+finite or infinite on four grounds ...
+
+or they resort to flip-flops on four grounds ...
+
+or they assert that the self and the cosmos arose by chance on two
+grounds ...
+
+they theorize about the past on these eighteen grounds ...
+
+or they assert that the self lives on after death in a percipient form
+on sixteen grounds ...
+
+or that the self lives on after death in a non-percipient form on eight
+grounds ...
+
+or that the self lives on after death in a neither percipient nor
+non-percipient form on eight grounds ...
+
+or they assert the annihilation of an existing being on seven grounds
+...
+
+or they assert ultimate extinguishment for an existing being in this
+life on five grounds ...
+
+they theorize about the future on these forty-four grounds ...
+
+When those ascetics and brahmins theorize about the past and the future
+on these sixty-two grounds, that too is conditioned by contact.
+
+#### 4.3. Not Possible  {#not-possible .unnumbered}
+
+Now, when those ascetics and brahmins theorize about the past and the
+future on these sixty-two grounds, it is not possible that they should
+experience these things without contact.[^142]
+
+#### 4.4. Dependent Origination  {#dependent-origination .unnumbered}
+
+Now, when those ascetics and brahmins theorize about the past and the
+future on these sixty-two grounds, all of them experience this by
+repeated contact through the six fields of contact. Their feeling is a
+condition for craving. Craving is a condition for grasping. Grasping is
+a condition for continued existence. Continued existence is a condition
+for rebirth. Rebirth is a condition for old age and death, sorrow,
+lamentation, pain, sadness, and distress to come to be.[^143]
+
+### 5. The End of the Round  {#the-end-of-the-round .unnumbered}
+
+When a mendicant truly understands the six fields of contact's origin,
+ending, gratification, drawback, and escape, they understand what lies
+beyond all these things.[^144]
+
+All of these ascetics and brahmins who theorize about the past or the
+future are trapped in the net of these sixty-two grounds, so that
+wherever they emerge they are caught and trapped in this very net.[^145]
+
+Suppose a deft fisherman or his apprentice were to cast a fine-meshed
+net over a small pond. They'd think: 'Any sizable creatures in this pond
+will be trapped in the net. Wherever they emerge they are caught and
+trapped in this very net.'[^146] In the same way, all of these ascetics
+and brahmins who theorize about the past or the future are trapped in
+the net of these sixty-two grounds, so that wherever they emerge they
+are caught and trapped in this very net.
+
+The Realized One's body remains, but his conduit to rebirth has been cut
+off.[^147] As long as his body remains he will be seen by gods and
+humans. But when his body breaks up, after life has ended, gods and
+humans will see him no more.
+
+When the stalk of a bunch of mangoes is cut, all the mangoes attached to
+the stalk will follow along.[^148] In the same way, the Realized One's
+body remains, but his conduit to rebirth has been cut off. As long as
+his body remains he will be seen by gods and humans. But when his body
+breaks up, after life has ended, gods and humans will see him no more."
+
+When he had spoken, Venerable Ānanda said to the Buddha, "It's
+incredible, sir, it's amazing! What is the name of this exposition of
+the teaching?"
+
+"Well then, Ānanda, you may remember this exposition of the teaching as
+'The Net of Meaning', or else 'The Net of the Teaching', or else 'The
+Divine Net', or else 'The Net of Views', or else 'The Supreme Victory in
+Battle'."[^149]
+
+That is what the Buddha said. Satisfied, the mendicants approved what
+the Buddha said. And while this discourse was being spoken, the
+ten-thousandfold galaxy shook.
+
+## N 2 The Fruits of the Ascetic Life  *Sāmaññaphalasutta* {#n-2-the-fruits-of-the-ascetic-life-sāmaññaphalasutta .unnumbered}
+
+### 1. A Discussion With the King's Ministers  {#a-discussion-with-the-kings-ministers .unnumbered}
+
+[So I have heard.[^150]]{.smallcaps} At one time the Buddha was staying
+near [Rājagaha]{lang="sa"} in the Mango Grove of [Jīvaka]{lang="sa"}
+[Komārabhacca]{lang="sa"}, together with a large [Saṅgha]{lang="sa"} of
+1,250 mendicants.[^151]
+
+Now, at that time it was the sabbath---the [Komudī]{lang="sa"} full moon
+on the fifteenth day of the fourth month---and King
+[Ajātasattu]{lang="sa"} of Magadha, son of the princess of Videha, was
+sitting upstairs in the royal longhouse surrounded by his
+ministers.[^152]
+
+Then [Ajātasattu]{lang="sa"} of Magadha, son of the princess of Videha,
+expressed this heartfelt sentiment,[^153] "Oh, sirs, this moonlit night
+is so very delightful, so beautiful, so glorious, so lovely, so
+striking.[^154] Now, what ascetic or brahmin might I pay homage to
+today, paying homage to whom my mind might find peace?"[^155]
+
+When he had spoken, one of the king's ministers said to him,[^156]
+"Sire, [Pūraṇa]{lang="sa"} Kassapa leads an order and a community, and
+tutors a community. He's a well-known and famous religious founder,
+deemed holy by many people. He is of long standing, long gone forth; he
+is advanced in years and has reached the final stage of life.[^157] Let
+Your Majesty pay homage to him. Hopefully in so doing your mind will
+find peace." But when he had spoken, the king kept silent.[^158]
+
+Another of the king's ministers said to him, "Sire, the bamboo-staffed
+ascetic [Gosāla]{lang="sa"} leads an order and a community, and tutors a
+community. He's a well-known and famous religious founder, deemed holy
+by many people. He is of long standing, long gone forth; he is advanced
+in years and has reached the final stage of life.[^159] Let Your Majesty
+pay homage to him. Hopefully in so doing your mind will find peace." But
+when he had spoken, the king kept silent.
+
+Another of the king's ministers said to him, "Sire, Ajita of the hair
+blanket leads an order and a community, and tutors a community. He's a
+well-known and famous religious founder, deemed holy by many people. He
+is of long standing, long gone forth; he is advanced in years and has
+reached the final stage of life.[^160] Let Your Majesty pay homage to
+him. Hopefully in so doing your mind will find peace." But when he had
+spoken, the king kept silent.
+
+Another of the king's ministers said to him, "Sire, Pakudha
+[Kaccāyana]{lang="sa"} leads an order and a community, and tutors a
+community. He's a well-known and famous religious founder, deemed holy
+by many people. He is of long standing, long gone forth; he is advanced
+in years and has reached the final stage of life.[^161] Let Your Majesty
+pay homage to him. Hopefully in so doing your mind will find peace." But
+when he had spoken, the king kept silent.
+
+Another of the king's ministers said to him, "Sire, [Sañjaya]{lang="sa"}
+[Belaṭṭhiputta]{lang="sa"} leads an order and a community, and tutors a
+community. He's a well-known and famous religious founder, deemed holy
+by many people. He is of long standing, long gone forth; he is advanced
+in years and has reached the final stage of life.[^162] Let Your Majesty
+pay homage to him. Hopefully in so doing your mind will find peace." But
+when he had spoken, the king kept silent.
+
+Another of the king's ministers said to him, "Sire, the Jain ascetic of
+the [Ñātika]{lang="sa"} clan leads an order and a community, and tutors
+a community. He's a well-known and famous religious founder, deemed holy
+by many people. He is of long standing, long gone forth; he is advanced
+in years and has reached the final stage of life.[^163] Let Your Majesty
+pay homage to him. Hopefully in so doing your mind will find peace." But
+when he had spoken, the king kept silent.
+
+### 2. A Discussion With [Jīvaka]{lang="sa"} [Komārabhacca]{lang="sa"}  {#a-discussion-with-jīvaka-komārabhacca .unnumbered}
+
+Now at that time [Jīvaka]{lang="sa"} [Komārabhacca]{lang="sa"} was
+sitting silently not far from the king.[^164] Then the king said to him,
+"But my dear [Jīvaka]{lang="sa"}, why are you silent?"
+
+"Sire, the Blessed One, the perfected one, the fully awakened Buddha is
+staying in my mango grove together with a large [Saṅgha]{lang="sa"} of
+1,250 mendicants.[^165] He has this good reputation: 'That Blessed One
+is perfected, a fully awakened Buddha, accomplished in knowledge and
+conduct, holy, knower of the world, supreme guide for those who wish to
+train, teacher of gods and humans, awakened, blessed.'[^166] Let Your
+Majesty pay homage to him. Hopefully in so doing your mind will find
+peace."
+
+"Well then, my dear [Jīvaka]{lang="sa"}, have the elephants readied."
+
+"Yes, Your Majesty," replied [Jīvaka]{lang="sa"}. He had around five
+hundred female elephants readied, in addition to the king's bull
+elephant for riding. Then he informed the king, "The elephants are
+ready, sire. Please go at your convenience."
+
+Then King [Ajātasattu]{lang="sa"} had women mounted on each of the five
+hundred female elephants, while he mounted his bull elephant. With
+attendants carrying torches, he set out in full royal pomp from
+[Rājagaha]{lang="sa"} to [Jīvaka]{lang="sa"}'s mango grove.[^167]
+
+But as he drew near the mango grove, the king became frightened, scared,
+his hair standing on end. He said to [Jīvaka]{lang="sa"}, "My dear
+[Jīvaka]{lang="sa"}, I hope you're not deceiving me! I hope you're not
+betraying me! I hope you're not turning me over to my enemies! For how
+on earth can there be no sound of coughing or clearing throats or any
+noise in such a large [Saṅgha]{lang="sa"} of 1,250 mendicants?"[^168]
+
+"Do not fear, great king, do not fear! I am not deceiving you, or
+betraying you, or turning you over to your enemies. Go forward, great
+king, go forward! Those are lamps shining in the pavilion."[^169]
+
+### 3. The Question About the Fruits of the Ascetic Life  {#the-question-about-the-fruits-of-the-ascetic-life .unnumbered}
+
+Then King [Ajātasattu]{lang="sa"} rode on the elephant as far as the
+terrain allowed, then descended and approached the pavilion door on
+foot, where he asked [Jīvaka]{lang="sa"}, "But my dear
+[Jīvaka]{lang="sa"}, where is the Buddha?"[^170]
+
+"That is the Buddha, great king, that is the Buddha! He's sitting
+against the central column facing east, in front of the
+[Saṅgha]{lang="sa"} of mendicants."
+
+Then the king went up to the Buddha and stood to one side.[^171] He
+looked around the [Saṅgha]{lang="sa"} of mendicants, who were so very
+silent, like a still, clear lake, and expressed this heartfelt
+sentiment, "May my son, Prince [Udāyibhadda]{lang="sa"}, be blessed with
+such peace as the [Saṅgha]{lang="sa"} of mendicants now enjoys!"
+
+"Has your mind gone to one you love, great king?"[^172]
+
+"I love my son, sir, Prince [Udāyibhadda]{lang="sa"}. May he be blessed
+with such peace as the [Saṅgha]{lang="sa"} of mendicants now enjoys!"
+
+Then the king bowed to the Buddha, raised his joined palms toward the
+[Saṅgha]{lang="sa"}, and sat down to one side. He said to the Buddha,
+"Sir, I'd like to ask you about a certain point, if you'd take the time
+to answer."
+
+"Ask what you wish, great king."
+
+"Sir, there are many different professional fields.[^173] These include
+elephant riders, cavalry, charioteers, archers, bannermen, adjutants,
+food servers, warrior-chiefs, princes, chargers, great warriors, heroes,
+leather-clad soldiers, and sons of bondservants.[^174] They also include
+bakers, barbers, bathroom attendants, cooks, garland-makers, dyers,
+weavers, basket-makers, potters, accountants, finger-talliers, or those
+following any similar professions. All these live off the fruits of
+their profession which are apparent in this very life.[^175] With that
+they make themselves happy and pleased. They make their parents, their
+children and partners, and their friends and colleagues happy and
+pleased. And they establish an uplifting religious donation for ascetics
+and brahmins that's conducive to heaven, ripens in happiness, and leads
+to heaven.[^176] Sir, can you point out a fruit of the ascetic life
+that's likewise apparent in this very life?"[^177]
+
+"Great king, do you recall having asked this question of other ascetics
+and brahmins?"[^178]
+
+"I do, sir."
+
+"If you wouldn't mind, great king, tell me how they answered."[^179]
+
+"It's no trouble when someone such as the Blessed One is sitting here."
+
+"Well, speak then, great king."
+
+#### 3.1. The Doctrine of [Pūraṇa]{lang="sa"} Kassapa  {#the-doctrine-of-pūraṇa-kassapa .unnumbered}
+
+"This one time, sir, I approached [Pūraṇa]{lang="sa"} Kassapa and
+exchanged greetings with him. When the greetings and polite conversation
+were over, I sat down to one side, and asked him the same
+question.[^180]
+
+He said to me: 'Great king, the one who acts does nothing wrong when
+they punish, mutilate, torture, aggrieve, oppress, intimidate, or when
+they encourage others to do the same. They do nothing wrong when they
+kill, steal, break into houses, plunder wealth, steal from isolated
+buildings, commit highway robbery, commit adultery, and lie. If you were
+to reduce all the living creatures of this earth to one heap and mass of
+flesh with a razor-edged chakram, no evil comes of that, and no outcome
+of evil.[^181] If you were to go along the south bank of the Ganges
+killing, mutilating, and torturing, and encouraging others to do the
+same, no evil comes of that, and no outcome of evil. If you were to go
+along the north bank of the Ganges giving and sacrificing and
+encouraging others to do the same, no merit comes of that, and no
+outcome of merit. In giving, self-control, restraint, and truthfulness
+there is no merit or outcome of merit.'
+
+And so, when I asked [Pūraṇa]{lang="sa"} Kassapa about the fruits of the
+ascetic life apparent in the present life, he answered with the doctrine
+of inaction.[^182] It was like someone who, when asked about a mango,
+answered with a breadfruit, or when asked about a breadfruit, answered
+with a mango.[^183] I thought: 'How could one such as I presume to
+rebuke an ascetic or brahmin living in my realm?'[^184] So I neither
+approved nor dismissed that statement of [Pūraṇa]{lang="sa"} Kassapa. I
+was displeased, but did not express my displeasure. Neither accepting
+what he said nor contradicting it, I got up from my seat and left.[^185]
+
+#### 3.2. The Doctrine of the Bamboo-staffed Ascetic [Gosāla]{lang="sa"}  {#the-doctrine-of-the-bamboo-staffed-ascetic-gosāla .unnumbered}
+
+This one time, sir, I approached the bamboo-staffed ascetic
+[Gosāla]{lang="sa"} and exchanged greetings with him. When the greetings
+and polite conversation were over, I sat down to one side, and asked him
+the same question.
+
+He said: 'Great king, there is no cause or reason for the corruption of
+sentient beings. Sentient beings are corrupted without cause or
+reason.[^186] There's no cause or reason for the purification of
+sentient beings. Sentient beings are purified without cause or reason.
+One does not act of one's own volition, one does not act of another's
+volition, one does not act from a person's volition. There is no power,
+no energy, no human strength or vigor.[^187] All sentient beings, all
+living creatures, all beings, all souls lack control, power, and energy.
+Molded by destiny, circumstance, and nature, they experience pleasure
+and pain in the six classes of rebirth.[^188] There are 1.4 million main
+wombs, and 6,000, and 600. There are 500 deeds, and five, and three.
+There are deeds and half-deeds. There are 62 paths, 62 sub-eons, six
+classes of rebirth, and eight stages in a person's life. There are 4,900
+[Ājīvaka]{lang="sa"} ascetics, 4,900 wanderers, and 4,900 naked
+ascetics. There are 2,000 faculties, 3,000 hells, and 36 realms of dust.
+There are seven percipient embryos, seven non-percipient embryos, and
+seven knotless embryos. There are seven gods, seven humans, and seven
+goblins. There are seven lakes, seven rivers, 700 rivers, seven cliffs,
+and 700 cliffs. There are seven dreams and 700 dreams. There are 8.4
+million great eons through which the foolish and the astute transmigrate
+before making an end of suffering.[^189] And here there is no such thing
+as this: "By this precept or observance or fervent austerity or
+spiritual life I shall force unripened deeds to bear their fruit, or
+eliminate old deeds by experiencing their results little by little," for
+that cannot be.[^190] Pleasure and pain are allotted. Transmigration
+lasts only for a limited period, so there's no increase or decrease, no
+getting better or worse. It's like how, when you toss a ball of string,
+it rolls away unraveling. In the same way, after transmigrating the
+foolish and the astute will make an end of suffering.'
+
+And so, when I asked the bamboo-staffed ascetic [Gosāla]{lang="sa"}
+about the fruits of the ascetic life apparent in the present life, he
+answered with the doctrine of purification through transmigration.[^191]
+It was like someone who, when asked about a mango, answered with a
+breadfruit, or when asked about a breadfruit, answered with a mango. I
+thought: 'How could one such as I presume to rebuke an ascetic or
+brahmin living in my realm?' So I neither approved nor dismissed that
+statement of the bamboo-staffed ascetic [Gosāla]{lang="sa"}. I was
+displeased, but did not express my displeasure. Neither accepting what
+he said nor contradicting it, I got up from my seat and left.
+
+#### 3.3. The Doctrine of Ajita of the Hair Blanket  {#the-doctrine-of-ajita-of-the-hair-blanket .unnumbered}
+
+This one time, sir, I approached Ajita of the hair blanket and exchanged
+greetings with him. When the greetings and polite conversation were
+over, I sat down to one side, and asked him the same question.
+
+He said: 'Great king, there is no meaning in giving, sacrifice, or
+offerings. There's no fruit or result of good and bad deeds. There's no
+afterlife. There's no such thing as mother and father, or beings that
+are reborn spontaneously. And there's no ascetic or brahmin who is
+rightly comported and rightly practiced, and who describes the afterlife
+after realizing it with their own insight.[^192] This person is made up
+of the four principal states. When they die, the earth in their body
+merges and coalesces with the substance of earth. The water in their
+body merges and coalesces with the substance of water. The fire in their
+body merges and coalesces with the substance of fire. The air in their
+body merges and coalesces with the substance of air. The faculties are
+transferred to space.[^193] Four men with a bier carry away the corpse.
+Their footprints show the way to the cemetery. The bones become
+bleached. Offerings dedicated to the gods end in ashes. Giving is a
+doctrine of morons. When anyone affirms a positive teaching it's just
+hollow, false nonsense. Both the foolish and the astute are annihilated
+and destroyed when their body breaks up, and don't exist after death.'
+
+And so, when I asked Ajita of the hair blanket about the fruits of the
+ascetic life apparent in the present life, he answered with the doctrine
+of annihilationism. It was like someone who, when asked about a mango,
+answered with a breadfruit, or when asked about a breadfruit, answered
+with a mango. I thought: 'How could one such as I presume to rebuke an
+ascetic or brahmin living in my realm?' So I neither approved nor
+dismissed that statement of Ajita of the hair blanket. I was displeased,
+but did not express my displeasure. Neither accepting what he said nor
+contradicting it, I got up from my seat and left.
+
+#### 3.4. The Doctrine of Pakudha [Kaccāyana]{lang="sa"}  {#the-doctrine-of-pakudha-kaccāyana .unnumbered}
+
+This one time, sir, I approached Pakudha [Kaccāyana]{lang="sa"} and
+exchanged greetings with him. When the greetings and polite conversation
+were over, I sat down to one side, and asked him the same question.
+
+He said: 'Great king, these seven substances are not made, not derived,
+not created, without a creator, barren, steady as a mountain peak,
+standing firm like a pillar.[^194] They don't move or deteriorate or
+obstruct each other. They're unable to cause pleasure, pain, or both
+pleasure and pain to each other. What seven? The substances of earth,
+water, fire, air; pleasure, pain, and the soul is the seventh.[^195]
+These seven substances are not made, not derived, not created, without a
+creator, barren, steady as a mountain peak, standing firm like a pillar.
+They don't move or deteriorate or obstruct each other. They're unable to
+cause pleasure, pain, or both pleasure and pain to each other. And here
+there is no-one who kills or who makes others kill; no-one who learns or
+who educates others; no-one who understands or who helps others
+understand.[^196] If you chop off someone's head with a sharp sword, you
+don't take anyone's life. The sword simply passes through the gap
+between the seven substances.'
+
+And so, when I asked Pakudha [Kaccāyana]{lang="sa"} about the fruits of
+the ascetic life apparent in the present life, he answered with
+something else entirely. It was like someone who, when asked about a
+mango, answered with a breadfruit, or when asked about a breadfruit,
+answered with a mango. I thought: 'How could one such as I presume to
+rebuke an ascetic or brahmin living in my realm?' So I neither approved
+nor dismissed that statement of Pakudha [Kaccāyana]{lang="sa"}. I was
+displeased, but did not express my displeasure. Neither accepting what
+he said nor contradicting it, I got up from my seat and left.
+
+#### 3.5. The Doctrine of the Jain Ascetic of the [Ñātika]{lang="sa"} Clan  {#the-doctrine-of-the-jain-ascetic-of-the-ñātika-clan .unnumbered}
+
+This one time, sir, I approached the Jain [Ñātika]{lang="sa"} and
+exchanged greetings with him. When the greetings and polite conversation
+were over, I sat down to one side, and asked him the same question.
+
+He said: 'Great king, consider a Jain ascetic who is restrained in the
+fourfold constraint.[^197] And how is a Jain ascetic restrained in the
+fourfold constraint? It's when a Jain ascetic is restrained in all that
+is to be restrained, is bridled in all that is to be restrained, has
+shaken off evil in all that is to be restrained, and is curbed in all
+that is to be restrained.[^198] That's how a Jain ascetic is restrained
+in the fourfold constraint. When a Jain ascetic is restrained in the
+fourfold constraint, they're called a knotless one who is self-realized,
+self-controlled, and steadfast.'
+
+And so, when I asked the Jain [Ñātika]{lang="sa"} about the fruits of
+the ascetic life apparent in the present life, he answered with the
+fourfold constraint. It was like someone who, when asked about a mango,
+answered with a breadfruit, or when asked about a breadfruit, answered
+with a mango. I thought: 'How could one such as I presume to rebuke an
+ascetic or brahmin living in my realm?' So I neither approved nor
+dismissed that statement of the Jain [Ñātika]{lang="sa"}. I was
+displeased, but did not express my displeasure. Neither accepting what
+he said nor contradicting it, I got up from my seat and left.
+
+#### 3.6. The Doctrine of [Sañjaya]{lang="sa"} [Belaṭṭhiputta]{lang="sa"}  {#the-doctrine-of-sañjaya-belaṭṭhiputta .unnumbered}
+
+This one time, sir, I approached [Sañjaya]{lang="sa"}
+[Belaṭṭhiputta]{lang="sa"} and exchanged greetings with him. When the
+greetings and polite conversation were over, I sat down to one side, and
+asked him the same question.
+
+He said: 'Suppose you were to ask me whether there is another world. If
+I believed that to be the case, I would say so. But I don't say it's
+like this. I don't say it's like that. I don't say it's otherwise. I
+don't say it's not so. And I don't deny it's not so.[^199] Suppose you
+were to ask me whether there is no other world ... whether there both is
+and is not another world ... whether there neither is nor is not another
+world ... whether there are beings who are reborn spontaneously ...
+whether there are no beings who are reborn spontaneously ... whether
+there both are and are not beings who are reborn spontaneously ...
+whether there neither are nor are not beings who are reborn
+spontaneously ... whether there is fruit and result of good and bad
+deeds ... whether there is no fruit and result of good and bad deeds ...
+whether there both is and is not fruit and result of good and bad deeds
+... whether there neither is nor is not fruit and result of good and bad
+deeds ... whether a realized one still exists after death ... whether A
+realized one no longer exists after death ... whether a realized one
+both still exists and no longer exists after death ... whether a
+Realized One neither exists nor doesn't exist after death. If I believed
+that to be the case, I would say so. But I don't say it's like this. I
+don't say it's like that. I don't say it's otherwise. I don't say it's
+not so. And I don't deny it's not so.'
+
+And so, when I asked [Sañjaya]{lang="sa"} [Belaṭṭhiputta]{lang="sa"}
+about the fruits of the ascetic life apparent in the present life, he
+answered with flip-flopping. It was like someone who, when asked about a
+mango, answered with a breadfruit, or when asked about a breadfruit,
+answered with a mango. I thought: 'This is the most foolish and stupid
+of all these ascetics and brahmins! How on earth can he answer with
+flip-flopping when asked about the fruits of the ascetic life apparent
+in the present life?' I thought: 'How could one such as I presume to
+rebuke an ascetic or brahmin living in my realm?' So I neither approved
+nor dismissed that statement of [Sañjaya]{lang="sa"}
+[Belaṭṭhiputta]{lang="sa"}. I was displeased, but did not express my
+displeasure. Neither accepting what he said nor contradicting it, I got
+up from my seat and left.
+
+### 4. The Fruits of the Ascetic Life  {#the-fruits-of-the-ascetic-life .unnumbered}
+
+#### 4.1. The First Fruit of the Ascetic Life  {#the-first-fruit-of-the-ascetic-life .unnumbered}
+
+And so I ask the Buddha: Sir, there are many different professional
+fields. These include elephant riders, cavalry, charioteers, archers,
+bannermen, adjutants, food servers, warrior-chiefs, princes, chargers,
+great warriors, heroes, leather-clad soldiers, and sons of bondservants.
+They also include bakers, barbers, bathroom attendants, cooks,
+garland-makers, dyers, weavers, basket-makers, potters, accountants,
+finger-talliers, or those following any similar professions. All these
+live off the fruits of their profession which are apparent in this very
+life. With that they make themselves happy and pleased. They make their
+parents, their children and partners, and their friends and colleagues
+happy and pleased. And they establish an uplifting religious donation
+for ascetics and brahmins that's conducive to heaven, ripens in
+happiness, and leads to heaven. Sir, can you point out a fruit of the
+ascetic life that's likewise apparent in this very life?"
+
+"I can, great king.[^200] Well then, I'll ask you about this in return,
+and you can answer as you like.[^201] What do you think, great king?
+Suppose you had a person who was a bondservant, a worker. They get up
+before you and go to bed after you, and are obliging, behaving nicely
+and speaking politely, and gazing up at your face.[^202] They'd think:
+'The outcome and result of good deeds is just so incredible, so
+amazing![^203] For this King [Ajātasattu]{lang="sa"} is a human being,
+and so am I.[^204] Yet he amuses himself, supplied and provided with the
+five kinds of sensual stimulation as if he were a god. Whereas I'm his
+bondservant, his worker. I get up before him and go to bed after him,
+and am obliging, behaving nicely and speaking politely, and gazing up at
+his face. I really should do good deeds.[^205] Why don't I shave off my
+hair and beard, dress in ocher robes, and go forth from the lay life to
+homelessness?'[^206]
+
+After some time, that is what they do. Having gone forth they'd live
+restrained in body, speech, and mind, living content with nothing more
+than food and clothes, delighting in seclusion.[^207] And suppose your
+men were to report all this to you. Would you say to them: 'Bring that
+person to me! Let them once more be my bondservant, my worker'?"
+
+"No, sir. Rather, I would bow to them, rise in their presence, and offer
+them a seat. I'd invite them to accept robes, almsfood, lodgings, and
+medicines and supplies for the sick. And I'd organize their lawful
+guarding and protection."[^208]
+
+"What do you think, great king? If this is so, is there a fruit of the
+ascetic life apparent in the present life or not?"[^209]
+
+"Clearly, sir, there is."[^210]
+
+"This is the first fruit of the ascetic life that's apparent in this
+very life, which I point out to you."
+
+#### 4.2. The Second Fruit of the Ascetic Life  {#the-second-fruit-of-the-ascetic-life .unnumbered}
+
+"But sir, can you point out another fruit of the ascetic life that's
+likewise apparent in this very life?"[^211]
+
+"I can, great king. Well then, I'll ask you about this in return, and
+you can answer as you like. What do you think, great king? Suppose you
+had a person who was a farmer, a householder, a hard worker, someone who
+builds up their capital.[^212] They'd think: 'The outcome and result of
+good deeds is just so incredible, so amazing! For this King
+[Ajātasattu]{lang="sa"} is a human being, and so am I. Yet he amuses
+himself, supplied and provided with the five kinds of sensual
+stimulation as if he were a god. Whereas I'm a farmer, a householder, a
+hard worker, someone who builds up their capital. I really should do
+good deeds. Why don't I shave off my hair and beard, dress in ocher
+robes, and go forth from the lay life to homelessness?'
+
+After some time they give up a large or small fortune, and a large or
+small family circle. They'd shave off hair and beard, dress in ocher
+robes, and go forth from the lay life to homelessness.[^213] Having gone
+forth they'd live restrained in body, speech, and mind, living content
+with nothing more than food and clothes, delighting in seclusion. And
+suppose your men were to report all this to you. Would you say to them:
+'Bring that person to me! Let them once more be a farmer, a householder,
+a hard worker, someone who builds up their capital'?"
+
+"No, sir. Rather, I would bow to them, rise in their presence, and offer
+them a seat. I'd invite them to accept robes, almsfood, lodgings, and
+medicines and supplies for the sick. And I'd organize their lawful
+guarding and protection."
+
+"What do you think, great king? If this is so, is there a fruit of the
+ascetic life apparent in the present life or not?"
+
+"Clearly, sir, there is."
+
+"This is the second fruit of the ascetic life that's apparent in this
+very life, which I point out to you."
+
+#### 4.3. The Finer Fruits of the Ascetic Life  {#the-finer-fruits-of-the-ascetic-life .unnumbered}
+
+"But sir, can you point out a fruit of the ascetic life that's apparent
+in this very life which is better and finer than these?"
+
+"I can, great king. Well then, listen and apply your mind well, I will
+speak."[^214]
+
+"Yes, sir," replied the king.
+
+The Buddha said this:
+
+"Consider when a Realized One arises in the world, perfected, a fully
+awakened Buddha, accomplished in knowledge and conduct, holy, knower of
+the world, supreme guide for those who wish to train, teacher of gods
+and humans, awakened, blessed.[^215] He has realized with his own
+insight this world---with its gods, [Māras]{lang="sa"}, and divinities,
+this population with its ascetics and brahmins, gods and humans---and he
+makes it known to others.[^216] He proclaims a teaching that is good in
+the beginning, good in the middle, and good in the end, meaningful and
+well-phrased. And he reveals a spiritual practice that's entirely full
+and pure.[^217]
+
+A householder hears that teaching, or a householder's child, or someone
+reborn in a good family.[^218] They gain faith in the Realized One and
+reflect: 'Life at home is cramped and dirty, life gone forth is wide
+open. It's not easy for someone living at home to lead the spiritual
+life utterly full and pure, like a polished shell. Why don't I shave off
+my hair and beard, dress in ocher robes, and go forth from the lay life
+to homelessness?'
+
+After some time they give up a large or small fortune, and a large or
+small family circle. They shave off hair and beard, dress in ocher
+robes, and go forth from the lay life to homelessness.
+
+Once they've gone forth, they live restrained in the monastic code,
+conducting themselves well and resorting for alms in suitable places.
+Seeing danger in the slightest fault, they keep the rules they've
+undertaken. They act skillfully by body and speech. They're purified in
+livelihood and accomplished in ethical conduct. They guard the sense
+doors, have mindfulness and situational awareness, and are
+content.[^219]
+
+##### 4.3.1. Ethics  {#ethics-1 .unnumbered}
+
+-2.5ex 1.25ex \*4.3.1.1. The Shorter Section on Ethics
+
+And how, great king, is a mendicant accomplished in ethics? It's when a
+mendicant gives up killing living creatures, renouncing the rod and the
+sword. They're scrupulous and kind, living full of sympathy for all
+living beings.[^220] This pertains to their ethics.
+
+They give up stealing. They take only what's given, and expect only
+what's given. They keep themselves clean by not thieving.[^221] This
+pertains to their ethics.
+
+They give up unchastity. They are celibate, set apart, avoiding the
+vulgar act of sex.[^222] This pertains to their ethics.
+
+They give up lying. They speak the truth and stick to the truth. They're
+honest and dependable, and don't trick the world with their words.[^223]
+This pertains to their ethics.
+
+They give up divisive speech. They don't repeat in one place what they
+heard in another so as to divide people against each other. Instead,
+they reconcile those who are divided, supporting unity, delighting in
+harmony, loving harmony, speaking words that promote harmony. This
+pertains to their ethics.
+
+They give up harsh speech. They speak in a way that's mellow, pleasing
+to the ear, lovely, going to the heart, polite, likable and agreeable to
+the people. This pertains to their ethics.
+
+They give up talking nonsense. Their words are timely, true, and
+meaningful, in line with the teaching and training. They say things at
+the right time which are valuable, reasonable, succinct, and beneficial.
+This pertains to their ethics.
+
+They refrain from injuring plants and seeds. They eat in one part of the
+day, abstaining from eating at night and food at the wrong time. They
+refrain from seeing shows of dancing, singing, and music . They refrain
+from beautifying and adorning themselves with garlands, fragrance, and
+makeup. They refrain from high and luxurious beds.[^224] They refrain
+from receiving gold and currency, raw grains, raw meat, women and girls,
+male and female bondservants, goats and sheep, chickens and pigs,
+elephants, cows, horses, and mares, and fields and land. They refrain
+from running errands and messages; buying and selling; falsifying
+weights, metals, or measures; bribery, fraud, cheating, and duplicity;
+mutilation, murder, abduction, banditry, plunder, and violence. This
+pertains to their ethics.
+
+:::: Center
+::: small
+*The shorter section on ethics is finished.*
+:::
+::::
+
+-2.5ex 1.25ex \*4.3.1.2. The Middle Section on Ethics
+
+There are some ascetics and brahmins who, while enjoying food given in
+faith, still engage in injuring plants and seeds. These include plants
+propagated from roots, stems, cuttings, or joints; and those from
+regular seeds as the fifth. They refrain from such injury to plants and
+seeds. This pertains to their ethics.
+
+There are some ascetics and brahmins who, while enjoying food given in
+faith, still engage in storing up goods for their own use. This includes
+such things as food, drink, clothes, vehicles, bedding, fragrance, and
+things of the flesh. They refrain from storing up such goods. This
+pertains to their ethics.
+
+There are some ascetics and brahmins who, while enjoying food given in
+faith, still engage in seeing shows. This includes such things as
+dancing, singing, music, performances, and storytelling; clapping,
+gongs, and kettledrums; beauty pageants; pole-acrobatics and
+bone-washing displays of the corpse-workers; battles of elephants,
+horses, buffaloes, bulls, goats, rams, chickens, and quails;
+staff-fights, boxing, and wrestling; combat, roll calls of the armed
+forces, battle-formations, and regimental reviews. They refrain from
+such shows. This pertains to their ethics.
+
+There are some ascetics and brahmins who, while enjoying food given in
+faith, still engage in gambling that causes negligence. This includes
+such things as checkers with eight or ten rows, checkers in the air,
+hopscotch, spillikins, board-games, tip-cat, drawing straws, dice,
+leaf-flutes, toy plows, somersaults, pinwheels, toy measures, toy carts,
+toy bows, guessing words from syllables, guessing another's thoughts,
+and imitating musical instruments. They refrain from such gambling. This
+pertains to their ethics.
+
+There are some ascetics and brahmins who, while enjoying food given in
+faith, still make use of high and luxurious bedding. This includes such
+things as sofas, couches, woolen covers---shag-piled, colorful, white,
+embroidered with flowers, quilted, embroidered with animals, double-or
+single-fringed---and silk covers studded with gems, as well as silken
+sheets, woven carpets, rugs for elephants, horses, or chariots, antelope
+hide rugs, and spreads of fine deer hide, with a canopy above and red
+cushions at both ends. They refrain from such bedding. This pertains to
+their ethics.
+
+There are some ascetics and brahmins who, while enjoying food given in
+faith, still engage in beautifying and adorning themselves with
+garlands, fragrance, and makeup. This includes such things as applying
+beauty products by anointing, massaging, bathing, and rubbing; mirrors,
+ointments, garlands, fragrances, and makeup; face-powder, foundation,
+bracelets, headbands, fancy walking-sticks or containers, rapiers,
+parasols, fancy sandals, turbans, jewelry, chowries, and long-fringed
+white robes. They refrain from such beautification and adornment. This
+pertains to their ethics.
+
+There are some ascetics and brahmins who, while enjoying food given in
+faith, still engage in low talk. This includes such topics as talk about
+kings, bandits, and ministers; talk about armies, threats, and wars;
+talk about food, drink, clothes, and beds; talk about garlands and
+fragrances; talk about family, vehicles, villages, towns, cities, and
+countries; talk about women and heroes; street talk and well talk; talk
+about the departed; motley talk; tales of land and sea; and talk about
+being reborn in this or that place. They refrain from such low talk.
+This pertains to their ethics.
+
+There are some ascetics and brahmins who, while enjoying food given in
+faith, still engage in arguments. They say such things as: 'You don't
+understand this teaching and training. I understand this teaching and
+training. What, you understand this teaching and training? You're
+practicing wrong. I'm practicing right. I stay on topic, you don't. You
+said last what you should have said first. You said first what you
+should have said last. What you've thought so much about has been
+disproved. Your doctrine is refuted. Go on, save your doctrine! You're
+trapped; get yourself out of this---if you can!' They refrain from such
+argumentative talk. This pertains to their ethics.
+
+There are some ascetics and brahmins who, while enjoying food given in
+faith, still engage in running errands and messages. This includes
+running errands for rulers, ministers, aristocrats, brahmins,
+householders, or princes who say: 'Go here, go there. Take this, bring
+that from there.' They refrain from such errands. This pertains to their
+ethics.
+
+There are some ascetics and brahmins who, while enjoying food given in
+faith, still engage in deceit, flattery, hinting, and belittling, and
+using material things to chase after other material things. They refrain
+from such deceit and flattery. This pertains to their ethics.
+
+:::: Center
+::: small
+*The middle section on ethics is finished.*
+:::
+::::
+
+-2.5ex 1.25ex \*4.3.1.3. The Long Section on Ethics
+
+There are some ascetics and brahmins who, while enjoying food given in
+faith, still earn a living by low lore, by wrong livelihood. This
+includes such fields as limb-reading, omenology, divining celestial
+portents, interpreting dreams, divining bodily marks, divining holes in
+cloth gnawed by mice, fire offerings, ladle offerings, offerings of
+husks, rice powder, rice, ghee, or oil; offerings from the mouth, blood
+sacrifices, palmistry; geomancy for building sites, fields, and
+cemeteries; exorcisms, earth magic, snake charming, poisons; the lore of
+the scorpion, the rat, the bird, and the crow; prophesying lifespan,
+chanting for protection, and divining omens from wild animals. They
+refrain from such low lore, such wrong livelihood. This pertains to
+their ethics.
+
+There are some ascetics and brahmins who, while enjoying food given in
+faith, still earn a living by low lore, by wrong livelihood. This
+includes reading the marks of gems, cloth, clubs, swords, spears,
+arrows, bows, weapons, women, men, boys, girls, male and female
+bondservants, elephants, horses, buffaloes, bulls, cows, goats, rams,
+chickens, quails, monitor lizards, rabbits, tortoises, or deer. They
+refrain from such low lore, such wrong livelihood. This pertains to
+their ethics.
+
+There are some ascetics and brahmins who, while enjoying food given in
+faith, still earn a living by low lore, by wrong livelihood. This
+includes making predictions that the king will march forth or march
+back; or that our king will attack and the enemy king will retreat, or
+vice versa; or that our king will triumph and the enemy king will be
+defeated, or vice versa; and so there will be victory for one and defeat
+for the other. They refrain from such low lore, such wrong livelihood.
+This pertains to their ethics.
+
+There are some ascetics and brahmins who, while enjoying food given in
+faith, still earn a living by low lore, by wrong livelihood. This
+includes making predictions that there will be an eclipse of the moon,
+or sun, or stars; that the sun, moon, and stars will be in conjunction
+or in opposition; that there will be a meteor shower, a fiery sky, an
+earthquake, or thunder in the heavens; that there will be a rising, a
+setting, a darkening, a brightening of the moon, sun, and stars. And it
+also includes making predictions about the results of all such
+phenomena. They refrain from such low lore, such wrong livelihood. This
+pertains to their ethics.
+
+There are some ascetics and brahmins who, while enjoying food given in
+faith, still earn a living by low lore, by wrong livelihood. This
+includes predicting whether there will be plenty of rain or drought;
+plenty to eat or famine; an abundant harvest or a bad harvest; security
+or peril; sickness or health. It also includes such occupations as
+arithmetic, accounting, calculating, poetry, and cosmology. They refrain
+from such low lore, such wrong livelihood. This pertains to their
+ethics.
+
+There are some ascetics and brahmins who, while enjoying food given in
+faith, still earn a living by low lore, by wrong livelihood. This
+includes making arrangements for giving and taking in marriage; for
+engagement and divorce; and for scattering rice inwards or outwards at
+the wedding ceremony. It also includes casting spells for good or bad
+luck, treating impacted fetuses, binding the tongue, or locking the
+jaws; charms for the hands and ears; questioning a mirror, a girl, or a
+god as an oracle; worshiping the sun, worshiping the Great One,
+breathing fire, and invoking Siri, the goddess of luck. They refrain
+from such low lore, such wrong livelihood. This pertains to their
+ethics.
+
+There are some ascetics and brahmins who, while enjoying food given in
+faith, still earn a living by low lore, by wrong livelihood. This
+includes rites for propitiation, for granting wishes, for ghosts, for
+the earth, for rain, for property settlement, and for preparing and
+consecrating house sites, and rites involving rinsing and bathing, and
+oblations. It also includes administering emetics, purgatives,
+expectorants, and phlegmagogues; administering ear-oils, eye
+restoratives, nasal medicine, ointments, and counter-ointments; surgery
+with needle and scalpel, treating children, prescribing root medicines,
+and binding on herbs. They refrain from such low lore, such wrong
+livelihood. This pertains to their ethics.
+
+A mendicant thus accomplished in ethics sees no danger in any quarter in
+regards to their ethical restraint. It's like a king who has defeated
+his enemies. He sees no danger from his foes in any quarter. In the same
+way, a mendicant thus accomplished in ethics sees no danger in any
+quarter in regards to their ethical restraint. When they have this
+entire spectrum of noble ethics, they experience a blameless happiness
+inside themselves.[^225] That's how a mendicant is accomplished in
+ethics.
+
+:::: Center
+::: small
+*The longer section on ethics is finished.*
+:::
+::::
+
+##### 4.3.2. Immersion  {#immersion .unnumbered}
+
+-2.5ex 1.25ex \*4.3.2.1. Sense Restraint
+
+And how does a mendicant guard the sense doors?[^226] When a mendicant
+sees a sight with their eyes, they don't get caught up in the features
+and details. If the faculty of sight were left unrestrained, bad
+unskillful qualities of covetousness and displeasure would become
+overwhelming. For this reason, they practice restraint, protecting the
+faculty of sight, and achieving its restraint.[^227] When they hear a
+sound with their ears ... When they smell an odor with their nose ...
+When they taste a flavor with their tongue ... When they feel a touch
+with their body ... When they know an idea with their mind, they don't
+get caught up in the features and details. If the faculty of mind were
+left unrestrained, bad unskillful qualities of covetousness and
+displeasure would become overwhelming. For this reason, they practice
+restraint, protecting the faculty of mind, and achieving its restraint.
+When they have this noble sense restraint, they experience an unsullied
+bliss inside themselves.[^228] That's how a mendicant guards the sense
+doors.
+
+-2.5ex 1.25ex \*4.3.2.2. Mindfulness and Situational Awareness
+
+And how does a mendicant have mindfulness and situational
+awareness?[^229] It's when a mendicant acts with situational awareness
+when going out and coming back; when looking ahead and aside; when
+bending and extending the limbs; when bearing the outer robe, bowl and
+robes; when eating, drinking, chewing, and tasting; when urinating and
+defecating; when walking, standing, sitting, sleeping, waking, speaking,
+and keeping silent.[^230] That's how a mendicant has mindfulness and
+situational awareness.
+
+-2.5ex 1.25ex \*4.3.2.3. Contentment
+
+And how is a mendicant content? It's when a mendicant is content with
+robes to look after the body and almsfood to look after the belly.
+Wherever they go, they set out taking only these things.[^231] They're
+like a bird: wherever it flies, wings are its only burden. In the same
+way, a mendicant is content with robes to look after the body and
+almsfood to look after the belly. Wherever they go, they set out taking
+only these things. That's how a mendicant is content.
+
+-2.5ex 1.25ex \*4.3.2.4. Giving Up the Hindrances
+
+When they have this entire spectrum of noble ethics, this noble sense
+restraint, this noble mindfulness and situational awareness, and this
+noble contentment,[^232] they frequent a secluded lodging---a
+wilderness, the root of a tree, a hill, a ravine, a mountain cave, a
+charnel ground, a forest, the open air, a heap of straw. After the meal,
+they return from almsround, sit down cross-legged, set their body
+straight, and establish mindfulness in their presence.[^233]
+
+Giving up covetousness for the world, they meditate with a heart rid of
+covetousness, cleansing the mind of covetousness.[^234] Giving up ill
+will and malevolence, they meditate with a mind rid of ill will, full of
+sympathy for all living beings, cleansing the mind of ill will.[^235]
+Giving up dullness and drowsiness, they meditate with a mind rid of
+dullness and drowsiness, perceiving light, mindful and aware, cleansing
+the mind of dullness and drowsiness.[^236] Giving up restlessness and
+remorse, they meditate without restlessness, their mind peaceful inside,
+cleansing the mind of restlessness and remorse.[^237] Giving up doubt,
+they meditate having gone beyond doubt, not undecided about skillful
+qualities, cleansing the mind of doubt.[^238]
+
+Suppose a man who has gotten into debt were to apply himself to
+work,[^239] and his efforts proved successful. He would pay off the
+original loan and have enough left over to support his partner. Thinking
+about this, he'd be filled with joy and happiness.
+
+Suppose there was a person who was sick, suffering, gravely ill. They'd
+lose their appetite and get physically weak. But after some time they'd
+recover from that illness, and regain their appetite and their strength.
+Thinking about this, they'd be filled with joy and happiness.
+
+Suppose a person was imprisoned in a jail. But after some time they were
+released from jail, safe and sound, with no loss of wealth. Thinking
+about this, they'd be filled with joy and happiness.
+
+Suppose a person was a bondservant. They would not be their own master,
+but indentured to another, unable to go where they wish. But after some
+time they'd be freed from servitude. They would be their own master, not
+indentured to another, an emancipated individual able to go where they
+wish. Thinking about this, they'd be filled with joy and happiness.
+
+Suppose there was a person with wealth and property who was traveling
+along a desert road, which was perilous, with nothing to eat. But after
+some time they crossed over the desert safely, arriving within a
+village, a sanctuary free of peril. Thinking about this, they'd be
+filled with joy and happiness.
+
+In the same way, as long as these five hindrances are not given up
+inside themselves, a mendicant regards them thus as a debt, a disease, a
+prison, slavery, and a desert crossing.[^240]
+
+But when these five hindrances are given up inside themselves, a
+mendicant regards this as freedom from debt, good health, release from
+prison, emancipation, and a place of sanctuary at last.[^241]
+
+Seeing that the hindrances have been given up in them, joy springs up.
+Being joyful, rapture springs up. When the mind is full of rapture, the
+body becomes tranquil. When the body is tranquil, they feel bliss. And
+when blissful, the mind becomes immersed.[^242]
+
+-2.5ex 1.25ex \*4.3.2.5. First Absorption
+
+Quite secluded from sensual pleasures, secluded from unskillful
+qualities, they enter and remain in the first absorption, which has the
+rapture and bliss born of seclusion, while placing the mind and keeping
+it connected.[^243] They drench, steep, fill, and spread their body with
+rapture and bliss born of seclusion. There's no part of the body that's
+not spread with rapture and bliss born of seclusion.[^244]
+
+It's like when a deft bathroom attendant or their apprentice pours bath
+powder into a bronze dish, sprinkling it little by little with water.
+They knead it until the ball of bath powder is soaked and saturated with
+moisture, spread through inside and out; yet no moisture oozes
+out.[^245] In the same way, a mendicant drenches, steeps, fills, and
+spreads their body with rapture and bliss born of seclusion. There's no
+part of the body that's not spread with rapture and bliss born of
+seclusion. This, great king, is a fruit of the ascetic life that's
+apparent in the present life which is better and finer than the former
+ones.[^246]
+
+-2.5ex 1.25ex \*4.3.2.6. Second Absorption
+
+Furthermore, as the placing of the mind and keeping it connected are
+stilled, a mendicant enters and remains in the second absorption, which
+has the rapture and bliss born of immersion, with internal clarity and
+mind at one, without applying the mind and keeping it connected.[^247]
+They drench, steep, fill, and spread their body with rapture and bliss
+born of immersion. There's no part of the body that's not spread with
+rapture and bliss born of immersion.
+
+It's like a deep lake fed by spring water. There's no inlet to the east,
+west, north, or south, and the heavens would not properly bestow showers
+from time to time.[^248] But the stream of cool water welling up in the
+lake drenches, steeps, fills, and spreads throughout the lake. There's
+no part of the lake that's not spread through with cool water.[^249]
+
+In the same way, a mendicant drenches, steeps, fills, and spreads their
+body with rapture and bliss born of immersion. There's no part of the
+body that's not spread with rapture and bliss born of immersion. This
+too, great king, is a fruit of the ascetic life that's apparent in the
+present life which is better and finer than the former ones.
+
+-2.5ex 1.25ex \*4.3.2.7. Third Absorption
+
+Furthermore, with the fading away of rapture, a mendicant enters and
+remains in the third absorption, where they meditate with equanimity,
+mindful and aware, personally experiencing the bliss of which the noble
+ones declare, 'Equanimous and mindful, one meditates in bliss.'[^250]
+They drench, steep, fill, and spread their body with bliss free of
+rapture. There's no part of the body that's not spread with bliss free
+of rapture.
+
+It's like a pool with blue water lilies, or pink or white lotuses. Some
+of them sprout and grow in the water without rising above it, thriving
+underwater. From the tip to the root they're drenched, steeped, filled,
+and soaked with cool water. There's no part of them that's not soaked
+with cool water.[^251] In the same way, a mendicant drenches, steeps,
+fills, and spreads their body with bliss free of rapture. There's no
+part of the body that's not spread with bliss free of rapture. This too,
+great king, is a fruit of the ascetic life that's apparent in the
+present life which is better and finer than the former ones.
+
+-2.5ex 1.25ex \*4.3.2.8. Fourth Absorption
+
+Furthermore, giving up pleasure and pain, and ending former happiness
+and sadness, a mendicant enters and remains in the fourth absorption,
+without pleasure or pain, with pure equanimity and mindfulness.[^252]
+They sit spreading their body through with pure bright mind. There's no
+part of the body that's not spread with pure bright mind.[^253]
+
+It's like someone sitting wrapped from head to foot with white cloth.
+There's no part of the body that's not spread over with white
+cloth.[^254] In the same way, they sit spreading their body through with
+pure bright mind. There's no part of the body that's not spread with
+pure bright mind. This too, great king, is a fruit of the ascetic life
+that's apparent in the present life which is better and finer than the
+former ones.
+
+##### 4.3.3. The Eight Knowledges  {#the-eight-knowledges .unnumbered}
+
+-2.5ex 1.25ex \*4.3.3.1. Knowledge and Vision
+
+When their mind has become immersed in [samādhi]{lang="sa"} like
+this---purified, bright, flawless, rid of corruptions, pliable,
+workable, steady, and imperturbable---they project it and extend it
+toward knowledge and vision.[^255] They understand: 'This body of mine
+is formed. It's made up of the four principal states, produced by mother
+and father, built up from rice and porridge, liable to impermanence, to
+wearing away and erosion, to breaking up and destruction.[^256] And this
+consciousness of mine is attached to it, tied to it.'[^257]
+
+Suppose there was a beryl gem that was naturally beautiful,
+eight-faceted, well-worked, transparent, clear, and unclouded, endowed
+with all good qualities. And it was strung with a thread of blue,
+yellow, red, white, or golden brown.[^258] And someone with clear eyes
+were to take it in their hand and check it: 'This beryl gem is naturally
+beautiful, eight-faceted, well-worked, transparent, clear, and
+unclouded, endowed with all good qualities. And it's strung with a
+thread of blue, yellow, red, white, or golden brown.'
+
+In the same way, when their mind has become immersed in
+[samādhi]{lang="sa"} like this---purified, bright, flawless, rid of
+corruptions, pliable, workable, steady, and imperturbable---they project
+it and extend it toward knowledge and vision.[^259] This too, great
+king, is a fruit of the ascetic life that's apparent in the present life
+which is better and finer than the former ones.
+
+-2.5ex 1.25ex \*4.3.3.2. Mind-Made Body
+
+When their mind has become immersed in [samādhi]{lang="sa"} like
+this---purified, bright, flawless, rid of corruptions, pliable,
+workable, steady, and imperturbable---they project it and extend it
+toward the creation of a mind-made body.[^260] From this body they
+create another body---formed, mind-made, whole in its major and minor
+limbs, not deficient in any faculty.[^261]
+
+Suppose a person was to draw a reed out from its sheath. They'd think:
+'This is the reed, this is the sheath. The reed and the sheath are
+different things. The reed has been drawn out from the sheath.' Or
+suppose a person was to draw a sword out from its scabbard. They'd
+think: 'This is the sword, this is the scabbard. The sword and the
+scabbard are different things. The sword has been drawn out from the
+scabbard.' Or suppose a person was to draw a snake out from its slough.
+They'd think: 'This is the snake, this is the slough. The snake and the
+slough are different things. The snake has been drawn out from the
+slough.'
+
+In the same way, when their mind has become immersed in
+[samādhi]{lang="sa"} like this---purified, bright, flawless, rid of
+corruptions, pliable, workable, steady, and imperturbable---they project
+it and extend it toward the creation of a mind-made body. From this body
+they create another body---formed, mind-made, whole in its major and
+minor limbs, not deficient in any faculty. This too, great king, is a
+fruit of the ascetic life that's apparent in the present life which is
+better and finer than the former ones.
+
+-2.5ex 1.25ex \*4.3.3.3. Psychic Powers
+
+When their mind has become immersed in [samādhi]{lang="sa"} like
+this---purified, bright, flawless, rid of corruptions, pliable,
+workable, steady, and imperturbable---they project it and extend it
+toward psychic power.[^262] They wield the many kinds of psychic power:
+multiplying themselves and becoming one again; appearing and
+disappearing; going unobstructed through a wall, a rampart, or a
+mountain as if through space; diving in and out of the earth as if it
+were water; walking on water as if it were earth; flying cross-legged
+through the sky like a bird; touching and stroking with the hand the sun
+and moon, so mighty and powerful; controlling the body as far as the
+realm of divinity.[^263]
+
+Suppose a deft potter or their apprentice had some well-prepared clay.
+They could produce any kind of pot that they like.[^264] Or suppose a
+deft ivory-carver or their apprentice had some well-prepared ivory. They
+could produce any kind of ivory item that they like. Or suppose a deft
+goldsmith or their apprentice had some well-prepared gold. They could
+produce any kind of gold item that they like.[^265]
+
+In the same way, when their mind has become immersed in
+[samādhi]{lang="sa"} like this---purified, bright, flawless, rid of
+corruptions, pliable, workable, steady, and imperturbable---they project
+it and extend it toward psychic power. This too, great king, is a fruit
+of the ascetic life that's apparent in the present life which is better
+and finer than the former ones.
+
+-2.5ex 1.25ex \*4.3.3.4. Clairaudience
+
+When their mind has become immersed in [samādhi]{lang="sa"} like
+this---purified, bright, flawless, rid of corruptions, pliable,
+workable, steady, and imperturbable---they project it and extend it
+toward clairaudience.[^266] With clairaudience that is purified and
+superhuman, they hear both kinds of sounds, human and heavenly, whether
+near or far.[^267]
+
+Suppose there was a person traveling along the road. They'd hear the
+sound of drums, clay drums, horns, kettledrums, and tom-toms. They'd
+think: 'That's the sound of drums,' and 'that's the sound of clay
+drums,' and 'that's the sound of horns, kettledrums, and
+tom-toms.'[^268]
+
+In the same way, when their mind has become immersed in
+[samādhi]{lang="sa"} like this---purified, bright, flawless, rid of
+corruptions, pliable, workable, steady, and imperturbable---they project
+it and extend it toward clairaudience. With clairaudience that is
+purified and superhuman, they hear both kinds of sounds, human and
+heavenly, whether near or far. This too, great king, is a fruit of the
+ascetic life that's apparent in the present life which is better and
+finer than the former ones.
+
+-2.5ex 1.25ex \*4.3.3.5. Comprehending the Minds of Others
+
+When their mind has become immersed in [samādhi]{lang="sa"} like
+this---purified, bright, flawless, rid of corruptions, pliable,
+workable, steady, and imperturbable---they project it and extend it
+toward comprehending the minds of others.[^269] They understand the
+minds of other beings and individuals, having comprehended them with
+their own mind. They understand mind with greed as 'mind with greed',
+and mind without greed as 'mind without greed'. They understand mind
+with hate ... mind without hate ... mind with delusion ... mind without
+delusion ... constricted mind ... scattered mind ... expansive mind ...
+unexpansive mind ... mind that is not supreme ... mind that is supreme
+... immersed mind ... unimmersed mind ... freed mind ... They understand
+unfreed mind as 'unfreed mind'.
+
+Suppose there was a woman or man who was young, youthful, and fond of
+adornments, and they check their own reflection in a clean bright mirror
+or a clear bowl of water. If they had a spot they'd know 'I have a
+spot,' and if they had no spots they'd know 'I have no spots.'[^270] In
+the same way, when their mind has become immersed in
+[samādhi]{lang="sa"} like this---purified, bright, flawless, rid of
+corruptions, pliable, workable, steady, and imperturbable---they project
+it and extend it toward comprehending the minds of others. They
+understand the minds of other beings and individuals, having
+comprehended them with their own mind. This too, great king, is a fruit
+of the ascetic life that's apparent in the present life which is better
+and finer than the former ones.
+
+-2.5ex 1.25ex \*4.3.3.6. Recollection of Past Lives
+
+When their mind has become immersed in [samādhi]{lang="sa"} like
+this---purified, bright, flawless, rid of corruptions, pliable,
+workable, steady, and imperturbable---they project it and extend it
+toward recollection of past lives.[^271] They recollect many kinds of
+past lives, that is, one, two, three, four, five, ten, twenty, thirty,
+forty, fifty, a hundred, a thousand, a hundred thousand rebirths; many
+eons of the world contracting, many eons of the world expanding, many
+eons of the world contracting and expanding. They remember: 'There, I
+was named this, my clan was that, I looked like this, and that was my
+food. This was how I felt pleasure and pain, and that was how my life
+ended. When I passed away from that place I was reborn somewhere else.
+There, too, I was named this, my clan was that, I looked like this, and
+that was my food. This was how I felt pleasure and pain, and that was
+how my life ended. When I passed away from that place I was reborn
+here.' And so they recollect their many kinds of past lives, with
+features and details.[^272]
+
+Suppose a person was to leave their home village and go to another
+village. From that village they'd go to yet another village. And from
+that village they'd return to their home village. They'd think: 'I went
+from my home village to another village. There I stood like this, sat
+like that, spoke like this, or kept silent like that. From that village
+I went to yet another village. There too I stood like this, sat like
+that, spoke like this, or kept silent like that. And from that village I
+returned to my home village.'[^273]
+
+In the same way, when their mind has become immersed in
+[samādhi]{lang="sa"} like this---purified, bright, flawless, rid of
+corruptions, pliable, workable, steady, and imperturbable---they project
+it and extend it toward recollection of past lives. This too, great
+king, is a fruit of the ascetic life that's apparent in the present life
+which is better and finer than the former ones.
+
+-2.5ex 1.25ex \*4.3.3.7. Clairvoyance
+
+When their mind has become immersed in [samādhi]{lang="sa"} like
+this---purified, bright, flawless, rid of corruptions, pliable,
+workable, steady, and imperturbable---they project it and extend it
+toward knowledge of the death and rebirth of sentient beings. With
+clairvoyance that is purified and superhuman, they see sentient beings
+passing away and being reborn---inferior and superior, beautiful and
+ugly, in a good place or a bad place. They understand how sentient
+beings are reborn according to their deeds: 'These dear beings did bad
+things by way of body, speech, and mind. They denounced the noble ones;
+they had wrong view; and they chose to act out of that wrong view. When
+their body breaks up, after death, they're reborn in a place of loss, a
+bad place, the underworld, hell. These dear beings, however, did good
+things by way of body, speech, and mind. They never denounced the noble
+ones; they had right view; and they chose to act out of that right view.
+When their body breaks up, after death, they're reborn in a good place,
+a heavenly realm.' And so, with clairvoyance that is purified and
+superhuman, they see sentient beings passing away and being
+reborn---inferior and superior, beautiful and ugly, in a good place or a
+bad place. They understand how sentient beings are reborn according to
+their deeds.[^274]
+
+Suppose there was a stilt longhouse at the central square. A person with
+clear eyes standing there might see people entering and leaving a house,
+walking along the streets and paths, and sitting at the central square.
+They'd think: 'These are people entering and leaving a house, walking
+along the streets and paths, and sitting at the central square.'[^275]
+
+In the same way, when their mind has become immersed in
+[samādhi]{lang="sa"} like this---purified, bright, flawless, rid of
+corruptions, pliable, workable, steady, and imperturbable---they project
+it and extend it toward knowledge of the death and rebirth of sentient
+beings. This too, great king, is a fruit of the ascetic life that's
+apparent in the present life which is better and finer than the former
+ones.
+
+-2.5ex 1.25ex \*4.3.3.8. Ending of Defilements
+
+When their mind has become immersed in [samādhi]{lang="sa"} like
+this---purified, bright, flawless, rid of corruptions, pliable,
+workable, steady, and imperturbable---they project it and extend it
+toward knowledge of the ending of defilements.[^276] They truly
+understand: 'This is suffering' ... 'This is the origin of suffering'
+... 'This is the cessation of suffering' ... 'This is the practice that
+leads to the cessation of suffering'.[^277] They truly understand:
+'These are defilements' ... 'This is the origin of defilements' ...
+'This is the cessation of defilements' ... 'This is the practice that
+leads to the cessation of defilements'.[^278] Knowing and seeing like
+this, their mind is freed from the defilements of sensuality, desire to
+be reborn, and ignorance.[^279] When they're freed, they know they're
+freed.[^280] They understand: 'Rebirth is ended, the spiritual journey
+has been completed, what had to be done has been done, there is nothing
+further for this place.'[^281]
+
+Suppose that in a mountain glen there was a lake that was transparent,
+clear, and unclouded. A person with clear eyes standing on the bank
+would see the clams and mussels, and pebbles and gravel, and schools of
+fish swimming about or staying still. They'd think: 'This lake is
+transparent, clear, and unclouded. And here are the clams and mussels,
+and pebbles and gravel, and schools of fish swimming about or staying
+still.'[^282]
+
+In the same way, when their mind has become immersed in
+[samādhi]{lang="sa"} like this---purified, bright, flawless, rid of
+corruptions, pliable, workable, steady, and imperturbable---they project
+it and extend it toward knowledge of the ending of defilements. This
+too, great king, is a fruit of the ascetic life that's apparent in the
+present life which is better and finer than the former ones. And, great
+king, there is no other fruit of the ascetic life apparent in the
+present life which is better and finer than this."[^283]
+
+### 5. [Ajātasattu]{lang="sa"} Declares Himself a Lay Follower  {#ajātasattu-declares-himself-a-lay-follower .unnumbered}
+
+When the Buddha had spoken, King [Ajātasattu]{lang="sa"} said to him,
+"Excellent, sir! Excellent![^284] As if he were righting the overturned,
+or revealing the hidden, or pointing out the path to the lost, or
+lighting a lamp in the dark so people with clear eyes can see what's
+there, the Buddha has made the teaching clear in many ways. I go for
+refuge to the Buddha, to the teaching, and to the mendicant
+[Saṅgha]{lang="sa"}.[^285] From this day forth, may the Buddha remember
+me as a lay follower who has gone for refuge for life.
+
+I have made a mistake, sir. It was foolish, stupid, and unskillful of me
+to take the life of my father, a just and principled king, for the sake
+of authority.[^286] Please, sir, accept my mistake for what it is, so I
+will restrain myself in future."[^287]
+
+"Indeed, great king, you made a mistake. It was foolish, stupid, and
+unskillful of you to take the life of your father, a just and principled
+king, for the sake of sovereignty.[^288] But since you have recognized
+your mistake for what it is, and have dealt with it properly, I accept
+it. For it is growth in the training of the Noble One to recognize a
+mistake for what it is, deal with it properly, and commit to restraint
+in the future."[^289]
+
+When the Buddha had spoken, King [Ajātasattu]{lang="sa"} said to him,
+"Well, now, sir, I must go. I have many duties, and much to do."
+
+"Please, great king, go at your convenience."
+
+Then the king, having approved and agreed with what the Buddha said, got
+up from his seat, bowed, and respectfully circled him, keeping him on
+his right, before leaving.
+
+Soon after the king had left, the Buddha addressed the mendicants, "The
+king is broken, mendicants,[^290] he is ruined. If he had not taken the
+life of his father, a just and principled king, the stainless,
+immaculate vision of the Dhamma would have arisen in him in that very
+seat."[^291]
+
+That is what the Buddha said. Satisfied, the mendicants approved what
+the Buddha said.
+
+## N 3 With Ambaṭṭha  *Ambaṭṭhasutta* {#n-3-with-ambaṭṭha-ambaṭṭhasutta .unnumbered}
+
+[So I have heard.[^292]]{.smallcaps} At one time the Buddha was
+wandering in the land of the Kosalans together with a large
+[Saṅgha]{lang="sa"} of five hundred mendicants when he arrived at a
+village of the Kosalan brahmins named [Icchānaṅgala]{lang="sa"}.[^293]
+He stayed in a forest near [Icchānaṅgala]{lang="sa"}.
+
+### 1. The Section on [Pokkharasāti]{lang="sa"}  {#the-section-on-pokkharasāti .unnumbered}
+
+Now at that time the brahmin [Pokkharasāti]{lang="sa"} was living in
+[Ukkaṭṭhā]{lang="sa"}. It was a crown property given by King Pasenadi of
+Kosala, teeming with living creatures, full of hay, wood, water, and
+grain, a royal park endowed to a brahmin.[^294]
+[Pokkharasāti]{lang="sa"} heard:
+
+"It seems the ascetic Gotama---a Sakyan, gone forth from a Sakyan
+family---has arrived at [Icchānaṅgala]{lang="sa"} and is staying in a
+forest nearby. He has this good reputation: 'That Blessed One is
+perfected, a fully awakened Buddha, accomplished in knowledge and
+conduct, holy, knower of the world, supreme guide for those who wish to
+train, teacher of gods and humans, awakened, blessed.' He has realized
+with his own insight this world---with its gods, [Māras]{lang="sa"}, and
+divinities, this population with its ascetics and brahmins, gods and
+humans---and he makes it known to others.[^295] He proclaims a teaching
+that is good in the beginning, good in the middle, and good in the end,
+meaningful and well-phrased. And he reveals a spiritual practice that's
+entirely full and pure. It's good to see such perfected ones."[^296]
+
+### 2. The Student [Ambaṭṭha]{lang="sa"}  {#the-student-ambaṭṭha .unnumbered}
+
+Now at that time [Pokkharasāti]{lang="sa"} had a student named
+[Ambaṭṭha]{lang="sa"} as his resident pupil. He was one who recited and
+remembered the hymns, and had mastered in the three Vedas, together with
+their vocabularies and ritual performance, their phonology and word
+classification, and the testaments as fifth. He knew them word-by-word,
+and their grammar. He was well versed in cosmology and the marks of a
+great man. He had been authorized as a master in his own tutor's
+scriptural heritage of the three Vedas with the words:[^297] "What I
+know, you know.[^298] And what you know, I know."
+
+Then [Pokkharasāti]{lang="sa"} addressed [Ambaṭṭha]{lang="sa"}, "Dear
+[Ambaṭṭha]{lang="sa"}, the ascetic Gotama---a Sakyan, gone forth from a
+Sakyan family---has arrived at [Icchānaṅgala]{lang="sa"} and is staying
+in a forest nearby. He has this good reputation ... It's good to see
+such perfected ones. Please, dear [Ambaṭṭha]{lang="sa"}, go to the
+ascetic Gotama and find out whether or not he lives up to his
+reputation. Through you I shall learn about Mister Gotama."[^299]
+
+"But sir, how shall I find out whether or not the ascetic Gotama lives
+up to his reputation?"
+
+"Dear [Ambaṭṭha]{lang="sa"}, the thirty-two marks of a great man have
+been handed down in our hymns. A great man who possesses these has only
+two possible destinies, no other.[^300] If he stays at home he becomes a
+king, a wheel-turning monarch, a just and principled king. His dominion
+extends to all four sides, he achieves stability in the country, and he
+possesses the seven treasures.[^301] He has the following seven
+treasures: the wheel, the elephant, the horse, the jewel, the woman, the
+householder, and the commander as the seventh treasure. He has over a
+thousand sons who are valiant and heroic, crushing the armies of his
+enemies.[^302] After conquering this land girt by sea, he reigns by
+principle, without rod or sword. But if he goes forth from the lay life
+to homelessness, he becomes a perfected one, a fully awakened Buddha,
+who draws back the veil from the world. But, dear [Ambaṭṭha]{lang="sa"},
+I am the one who gives the hymns,[^303] and you are the one who receives
+them."
+
+"Yes, sir," replied [Ambaṭṭha]{lang="sa"}. He got up from his seat,
+bowed, and respectfully circled [Pokkharasāti]{lang="sa"}, keeping him
+to his right. He mounted a chariot drawn by mares and, together with
+several young students, set out for the forest near
+[Icchānaṅgala]{lang="sa"}.[^304] He went by carriage as far as the
+terrain allowed, then descended and entered the monastery on foot.
+
+At that time several mendicants were walking mindfully in the open
+air.[^305] Then the student [Ambaṭṭha]{lang="sa"} went up to those
+mendicants and said, "Good sirs, where is Mister Gotama at
+present?[^306] For we have come here to see him."[^307]
+
+Then those mendicants thought, "This [Ambaṭṭha]{lang="sa"} is from a
+well-known family, and he is the pupil of the well-known brahmin
+[Pokkharasāti]{lang="sa"}. The Buddha won't mind having a discussion
+together with such gentlemen."[^308]
+
+They said to [Ambaṭṭha]{lang="sa"}, "[Ambaṭṭha]{lang="sa"}, that's his
+dwelling, with the door closed. Approach it quietly, without hurrying;
+go onto the porch, clear your throat, and knock on the door-panel. The
+Buddha will open the door."[^309]
+
+So he approached the Buddha's dwelling, cleared his throat and knocked
+on the door-panel, and the Buddha opened the door. [Ambaṭṭha]{lang="sa"}
+and the young students entered the dwelling. The young students
+exchanged greetings with the Buddha, and when the greetings and polite
+conversation were over, sat down to one side. But while the Buddha was
+sitting, [Ambaṭṭha]{lang="sa"} spoke some polite words or other while
+walking around or standing.
+
+So the Buddha said to him, "[Ambaṭṭha]{lang="sa"}, is this how you hold
+a discussion with elderly and senior brahmins, the tutors of tutors:
+walking around or standing while I'm sitting, speaking some polite words
+or other?"[^310]
+
+#### 2.1. The First Use of the Word "Primitives"  {#the-first-use-of-the-word-primitives .unnumbered}
+
+"No, Mister Gotama. For it is proper for one brahmin to converse with
+another while both are walking, standing, sitting, or lying down. But as
+to these shavelings, fake ascetics, primitives, black spawn from the
+feet of our kinsman, I converse with them as I do with Mister
+Gotama."[^311]
+
+"But [Ambaṭṭha]{lang="sa"}, you must have come here for some purpose.
+You should focus on that. Though this [Ambaṭṭha]{lang="sa"} is
+unqualified, he thinks he's qualified. What is that but lack of
+qualifications?"[^312]
+
+When he said this, [Ambaṭṭha]{lang="sa"} became angry and upset with the
+Buddha because of being described as unqualified. He even attacked and
+badmouthed the Buddha himself, saying, "The ascetic Gotama will be
+worsted!" He said to the Buddha, "Mister Gotama, the Sakyans are rude,
+harsh, touchy, and argumentative.[^313] Primitive they are, and
+primitive they remain! They don't honor, respect, revere, worship, or
+venerate brahmins.[^314] It is neither proper nor appropriate that the
+Sakyans---primitives that they are---don't honor, respect, revere,
+worship, or venerate brahmins."
+
+And that's how [Ambaṭṭha]{lang="sa"} denigrated the Sakyans with the
+word "primitives" for the first time.
+
+#### 2.2. The Second Use of the Word "Primitives"  {#the-second-use-of-the-word-primitives .unnumbered}
+
+"But [Ambaṭṭha]{lang="sa"}, how have the Sakyans wronged you?"
+
+"This one time, Mister Gotama, I went to Kapilavatthu on some business
+for my tutor, the brahmin [Pokkharasāti]{lang="sa"}. I approached the
+Sakyans in their town hall. Now at that time several Sakyans and Sakyan
+princes were sitting on high seats, poking each other with their
+fingers, giggling and playing together. In fact, they even presumed to
+giggle at me, and didn't invite me to a seat. It is neither proper nor
+appropriate that the Sakyans---primitives that they are---don't honor,
+respect, revere, worship, or venerate brahmins."
+
+And that's how [Ambaṭṭha]{lang="sa"} denigrated the Sakyans with the
+word "primitives" for the second time.
+
+#### 2.3. The Third Use of the Word "Primitives"  {#the-third-use-of-the-word-primitives .unnumbered}
+
+"Even a little quail, [Ambaṭṭha]{lang="sa"}, speaks as she likes in her
+own nest. Kapilavatthu is the Sakyans' own place, [Ambaṭṭha]{lang="sa"}.
+It's not worthy of the Venerable [Ambaṭṭha]{lang="sa"} to lose his
+temper over such a small thing."[^315]
+
+"Mister Gotama, there are these four classes: aristocrats, brahmins,
+peasants, and menials. Three of these classes---aristocrats, peasants,
+and menials---in fact succeed only when serving the brahmins. It is
+neither proper nor appropriate that the Sakyans---primitives that they
+are---don't honor, respect, revere, worship, or venerate brahmins."
+
+And that's how [Ambaṭṭha]{lang="sa"} denigrated the Sakyans with the
+word "primitives" for the third time.
+
+#### 2.4. The Word "Son of a Slavegirl" is Used  {#the-word-son-of-a-slavegirl-is-used .unnumbered}
+
+Then it occurred to the Buddha, "This [Ambaṭṭha]{lang="sa"} puts the
+Sakyans down way too much by calling them primitives. Why don't I ask
+him about his own clan?"
+
+So the Buddha said to him, "What is your clan,
+[Ambaṭṭha]{lang="sa"}?"[^316]
+
+"I am a [Kaṇhāyana]{lang="sa"}, Mister Gotama."[^317]
+
+"But, recollecting the ancient name and clan of your mother and father,
+the Sakyans were the children of the masters, while you're descended
+from the son of a slavegirl of the Sakyans.[^318] But the Sakyans regard
+King [Okkāka]{lang="sa"} as their grandfather.[^319]
+
+Once upon a time, King [Okkāka]{lang="sa"}, wishing to divert the royal
+succession to the son of his most beloved queen, banished the elder
+princes from the realm---[Okkāmukha]{lang="sa"}, [Karakaṇḍa]{lang="sa"},
+Hatthinika, and [Sinisūra]{lang="sa"}. They made their home beside a
+lotus pond on the slopes of the Himalayas, where there was a large grove
+of *sakhua* trees.[^320] For fear of breaking their line of birth, they
+slept with their own (*saka*) sisters.[^321]
+
+Then King [Okkāka]{lang="sa"} addressed his ministers and councillors,
+'Where, sirs, have the princes settled now?'[^322]
+
+'Sire, there is a lotus pond on the slopes of the Himalayas, by a large
+grove of *sakhua* trees. They've settled there. For fear of breaking
+their line of birth, they are sleeping with their own sisters.'
+
+Then, [Ambaṭṭha]{lang="sa"}, King [Okkāka]{lang="sa"} expressed this
+heartfelt sentiment: 'The princes are indeed Sakyans! The princes are
+indeed the best Sakyans!'[^323] From that day on the Sakyans were
+recognized and he was their founder.
+
+Now, King [Okkāka]{lang="sa"} had a slavegirl named
+[Disā]{lang="sa"}.[^324] She gave birth to a boy named "Black".[^325]
+When he was born, Black Boy said: 'Wash me, mum, bathe me! Get this
+filth off of me! I will be useful for you!'[^326] Whereas these days
+when people see goblins they recognize them as goblins, in those days
+they recognized goblins as 'blackboys'.
+
+They said: 'He spoke as soon as he was born---a blackboy is born! A
+goblin is born!' From that day on the [Kaṇhāyanas]{lang="sa"} were
+proclaimed, and he was their founder. That's how, recollecting the
+ancient name and clan of your mother and father, the Sakyans were the
+children of the masters, while you're descended from the son of a
+slavegirl of the Sakyans."
+
+When he said this, those young students said to him, "Mister Gotama,
+please don't put [Ambaṭṭha]{lang="sa"} down too much by calling him the
+son of a slavegirl.[^327] He's well-born, a gentleman, learned, who
+enunciates well, and is astute. He is capable of debating with Mister
+Gotama about this."
+
+So the Buddha said to them, "Well, young students, if you think that
+[Ambaṭṭha]{lang="sa"} is ill-born, not a gentleman, unlearned, a poor
+speaker, witless, and not capable of debating with me about this, then
+leave him aside and you can debate with me. But if you think that he's
+well-born, a gentleman, learned, who enunciates well, is astute, and is
+capable of debating with me about this, then you should stand aside and
+let him debate with me."
+
+"He is capable of debating you. We will be silent, and let
+[Ambaṭṭha]{lang="sa"} debate with Mister Gotama about this."
+
+So the Buddha said to [Ambaṭṭha]{lang="sa"}, "Well,
+[Ambaṭṭha]{lang="sa"}, there's a legitimate question that comes up. You
+won't like it, but you ought to answer anyway. If you fail to
+answer---by dodging the issue, remaining silent, or leaving---your head
+will explode into seven pieces right here.[^328] What do you think,
+[Ambaṭṭha]{lang="sa"}? According to what you have heard from elderly and
+senior brahmins, the tutors of tutors, what is the origin of the
+[Kaṇhāyanas]{lang="sa"}, and who is their founder?"
+
+When he said this, [Ambaṭṭha]{lang="sa"} kept silent.
+
+For a second time, the Buddha put the question, and for a second time
+[Ambaṭṭha]{lang="sa"} kept silent.
+
+So the Buddha said to him, "Answer now, [Ambaṭṭha]{lang="sa"}. Now is
+not the time for silence. If someone fails to answer a legitimate
+question when asked three times by the Buddha, their head explodes into
+seven pieces there and then."
+
+Now at that time the spirit [Vajirapāṇī]{lang="sa"}, holding a massive
+iron spear, burning, blazing, and glowing, stood in the air above
+[Ambaṭṭha]{lang="sa"}, thinking,[^329] "If this [Ambaṭṭha]{lang="sa"}
+doesn't answer when asked a third time, I'll blow his head into seven
+pieces there and then!" And both the Buddha and [Ambaṭṭha]{lang="sa"}
+could see [Vajirapāṇī]{lang="sa"}.
+
+[Ambaṭṭha]{lang="sa"} was terrified, shocked, and awestruck. Looking to
+the Buddha for shelter, protection, and refuge, he sat down close by the
+Buddha and said, "What did you say? Please repeat the question."
+
+"What do you think, [Ambaṭṭha]{lang="sa"}? According to what you have
+heard from elderly and senior brahmins, the tutors of tutors, what is
+the origin of the [Kaṇhāyanas]{lang="sa"}, and who is their founder?"
+
+"I have heard, Mister Gotama, that it is just as you say. That's the
+origin of the [Kaṇhāyanas]{lang="sa"}, and that's who their founder is."
+
+#### 2.5. The Discussion of [Ambaṭṭha]{lang="sa"}'s Heritage  {#the-discussion-of-ambaṭṭhas-heritage .unnumbered}
+
+When he said this, those young students made an uproar, "It turns out
+[Ambaṭṭha]{lang="sa"} is ill-born, not a gentleman, son of a Sakyan
+slavegirl, and that the Sakyans are sons of his masters! And it seems
+that the ascetic Gotama spoke only the truth, though we presumed to
+rebuke him!"
+
+Then it occurred to the Buddha, "These young students put
+[Ambaṭṭha]{lang="sa"} down too much by calling him the son of a
+slavegirl. Why don't I get him out of this?"
+
+So the Buddha said to the young students, "Young students, please don't
+put [Ambaṭṭha]{lang="sa"} down too much by calling him the son of a
+slavegirl. That Black Boy was an eminent sage.[^330] He went to a
+southern country and memorized the Divine Spell. Then he approached King
+[Okkāka]{lang="sa"} and asked for the hand of his daughter
+[Maddarūpī]{lang="sa"}.[^331]
+
+The king said to him, 'Who the hell is this son of a slavegirl to ask
+for the hand of my daughter!' Angry and upset he fastened a razor-tipped
+arrow.[^332] But he wasn't able to either shoot it or to relax it.
+
+Then the ministers and councillors approached the sage Black Boy and
+said: 'Spare the king, sir, spare him!'
+
+'The king will be safe. But if he shoots the arrow downwards, there will
+be an earthquake across the entire realm.'[^333]
+
+'Spare the king, sir, and spare the country!'
+
+'Both king and country will be safe. But if he shoots the arrow upwards,
+there will be no rain in the entire realm for seven years.'
+
+'Spare the king, sir, spare the country, and let there be rain!'[^334]
+
+'Both king and country will be safe, and the rain will fall. And if the
+king shoots the crown prince with an arrow, he will be safe and
+unruffled.'[^335]
+
+So the ministers said to [Okkāka]{lang="sa"}:[^336] '[Okkāka]{lang="sa"}
+must shoot the crown prince with an arrow. He will be safe and
+unruffled.'
+
+So King [Okkāka]{lang="sa"} shot the crown prince with an arrow. And he
+was safe and unruffled. Then the king was terrified, shocked, and
+awestruck. Scared by the divine punishment, he gave the hand of his
+daughter [Maddarūpī]{lang="sa"}.[^337]
+
+Young students, please don't put [Ambaṭṭha]{lang="sa"} down too much by
+calling him the son of a slavegirl. That Black Boy was an eminent sage."
+
+### 3. The Supremacy of the Aristocrats  {#the-supremacy-of-the-aristocrats .unnumbered}
+
+Then the Buddha addressed [Ambaṭṭha]{lang="sa"}, "What do you think,
+[Ambaṭṭha]{lang="sa"}? Suppose an aristocrat boy was to sleep with a
+brahmin girl, and they had a son. Would he receive a seat and water from
+the brahmins?"
+
+"He would, Mister Gotama."
+
+"And would the brahmins feed him at an offering of food for ancestors,
+an offering of a dish of milk-rice, a sacrifice, or a feast for guests?"
+
+"They would."
+
+"And would the brahmins teach him the hymns or not?"
+
+"They would."
+
+"And would he be kept from the women or not?"[^338]
+
+"He would not."
+
+"And would the aristocrats anoint him as king?"
+
+"No, Mister Gotama. Why is that? Because his maternity is unsuitable."
+
+"What do you think, [Ambaṭṭha]{lang="sa"}? Suppose a brahmin boy was to
+sleep with an aristocrat girl, and they had a son. Would he receive a
+seat and water from the brahmins?"
+
+"He would, Mister Gotama."
+
+"And would the brahmins feed him at an offering of food for ancestors,
+an offering of a dish of milk-rice, a sacrifice, or a feast for guests?"
+
+"They would."
+
+"And would the brahmins teach him the hymns or not?"
+
+"They would."
+
+"And would he be kept from the women or not?"
+
+"He would not."
+
+"And would the aristocrats anoint him as king?"
+
+"No, Mister Gotama. Why is that? Because his paternity is unsuitable."
+
+"And so, [Ambaṭṭha]{lang="sa"}, the aristocrats are superior and the
+brahmins inferior, whether comparing women with women or men with men.
+What do you think, [Ambaṭṭha]{lang="sa"}? Suppose the brahmins for some
+reason were to shave a brahmin's head, inflict him with a sack of ashes,
+and banish him from the nation or the city. Would he receive a seat and
+water from the brahmins?"
+
+"No, Mister Gotama."
+
+"And would the brahmins feed him at an offering of food for ancestors,
+an offering of a dish of milk-rice, a sacrifice, or a feast for guests?"
+
+"No, Mister Gotama."
+
+"And would the brahmins teach him the hymns or not?"
+
+"No, Mister Gotama."
+
+"And would he be kept from the women or not?"
+
+"He would be."
+
+"What do you think, [Ambaṭṭha]{lang="sa"}? Suppose the aristocrats for
+some reason were to shave an aristocrat's head, inflict him with a sack
+of ashes, and banish him from the nation or the city. Would he receive a
+seat and water from the brahmins?"
+
+"He would, Mister Gotama."
+
+"And would the brahmins feed him at an offering of food for ancestors,
+an offering of a dish of milk-rice, a sacrifice, or a feast for guests?"
+
+"They would."
+
+"And would the brahmins teach him the hymns or not?"
+
+"They would."
+
+"And would he be kept from the women or not?"
+
+"He would not."
+
+"At this point, [Ambaṭṭha]{lang="sa"}, that aristocrat has reached rock
+bottom, with head shaven, inflicted with a sack of ashes, and banished
+from city or nation. Yet still the aristocrats are superior and the
+brahmins inferior. The divinity [Sanaṅkumāra]{lang="sa"} also spoke this
+verse:[^339]
+
+> 'The aristocrat is best among people\
+> who take clan as the standard.\
+> But one accomplished in knowledge and conduct\
+> is first among gods and humans.'
+
+That verse was well sung by the Divinity [Sanaṅkumāra]{lang="sa"}, not
+poorly sung; well spoken, not poorly spoken, beneficial, not harmful,
+and it was approved by me. For I also say this:
+
+> The aristocrat is best among people\
+> who take clan as the standard.\
+> But one accomplished in knowledge and conduct\
+> is first among gods and humans."
+
+:::: Center
+::: small
+*The first recitation section.*
+:::
+::::
+
+### 4. Knowledge and Conduct  {#knowledge-and-conduct .unnumbered}
+
+"But what, Mister Gotama, is that conduct, and what is that
+knowledge?"[^340]
+
+"[Ambaṭṭha]{lang="sa"}, in the supreme knowledge and conduct there is no
+discussion of genealogy or clan or pride---[^341] 'You deserve me' or
+'You don't deserve me.' Wherever there is giving and taking in marriage
+there is such discussion. Whoever is attached to questions of genealogy
+or clan or pride, or to giving and taking in marriage, is far from the
+supreme knowledge and conduct. The realization of supreme knowledge and
+conduct occurs when you've given up such things."[^342]
+
+"But what, Mister Gotama, is that conduct, and what is that knowledge?"
+
+"[Ambaṭṭha]{lang="sa"}, it's when a Realized One arises in the world,
+perfected, a fully awakened Buddha, accomplished in knowledge and
+conduct, holy, knower of the world, supreme guide for those who wish to
+train, teacher of gods and humans, awakened, blessed. He has realized
+with his own insight this world---with its gods, [Māras]{lang="sa"}, and
+divinities, this population with its ascetics and brahmins, gods and
+humans---and he makes it known to others. He proclaims a teaching that
+is good in the beginning, good in the middle, and good in the end,
+meaningful and well-phrased. And he reveals a spiritual practice that's
+entirely full and pure. A householder hears that teaching, or a
+householder's child, or someone reborn in a good family. They gain faith
+in the Realized One and reflect ...[^343]
+
+Quite secluded from sensual pleasures, secluded from unskillful
+qualities, they enter and remain in the first absorption ... This
+pertains to their conduct.
+
+Furthermore, as the placing of the mind and keeping it connected are
+stilled, a mendicant enters and remains in the second absorption ...
+This pertains to their conduct.
+
+Furthermore, with the fading away of rapture, they enter and remain in
+the third absorption ... This pertains to their conduct.
+
+Furthermore, giving up pleasure and pain, and ending former happiness
+and sadness, they enter and remain in the fourth absorption ... This
+pertains to their conduct. This is that conduct.
+
+When their mind has become immersed in [samādhi]{lang="sa"} like
+this---purified, bright, flawless, rid of corruptions, pliable,
+workable, steady, and imperturbable---they project it and extend it
+toward knowledge and vision. This pertains to their knowledge. ... They
+understand: 'There is nothing further for this place.' This pertains to
+their knowledge. This is that knowledge.
+
+This mendicant is said to be 'accomplished in knowledge', and also
+'accomplished in conduct', and also 'accomplished in knowledge and
+conduct'. And, [Ambaṭṭha]{lang="sa"}, there is no accomplishment in
+knowledge and conduct that is better or finer than this.
+
+### 5. Four Causes of Quitting  {#four-causes-of-quitting .unnumbered}
+
+There are these four causes of quitting this supreme knowledge and
+conduct.[^344] What four? Firstly, take some ascetic or brahmin who, not
+managing to obtain this supreme knowledge and conduct, plunges into a
+wilderness region carrying their stuff with a shoulder-pole, thinking
+they will get by eating fallen fruit.[^345] In fact they succeed only in
+serving someone accomplished in knowledge and conduct.[^346] This is the
+first cause of quitting this supreme knowledge and conduct.
+
+Furthermore, take some ascetic or brahmin who, not managing to obtain
+this supreme knowledge and conduct or to get by eating fallen fruit,
+plunges into a wilderness region carrying a spade and basket, thinking
+they will get by eating tubers and fruit.[^347] In fact they succeed
+only in serving someone accomplished in knowledge and conduct. This is
+the second cause of quitting this supreme knowledge and conduct.
+
+Furthermore, take some ascetic or brahmin who, not managing to obtain
+this supreme knowledge and conduct, or to get by eating fallen fruit, or
+to get by eating tubers and fruit, sets up a fire chamber in the
+neighborhood of a village or town and dwells there serving the sacred
+flame. In fact they succeed only in serving someone accomplished in
+knowledge and conduct. This is the third cause of quitting this supreme
+knowledge and conduct.
+
+Furthermore, take some ascetic or brahmin who, not managing to obtain
+this supreme knowledge and conduct, or to get by eating fallen fruit, or
+to get by eating tubers and fruit, or to serve the sacred flame, sets up
+a four-doored fire chamber at the crossroads and dwells there, thinking:
+'When an ascetic or brahmin comes from the four quarters, I will honor
+them as best I can.' In fact they succeed only in serving someone
+accomplished in knowledge and conduct. This is the fourth cause of
+quitting this supreme knowledge and conduct. These are the four causes
+of quitting this supreme knowledge and conduct.
+
+What do you think, [Ambaṭṭha]{lang="sa"}? Is this supreme knowledge and
+conduct seen in your own tradition?"[^348]
+
+"No, Mister Gotama. Who am I and my tradition compared with the supreme
+knowledge and conduct? We are far from that."
+
+"What do you think, [Ambaṭṭha]{lang="sa"}? Since you're not managing to
+obtain this supreme knowledge and conduct, have you with your tradition
+plunged into a wilderness region carrying your stuff with a
+shoulder-pole, thinking you will get by eating fallen fruit?"
+
+"No, Mister Gotama."
+
+"What do you think, [Ambaṭṭha]{lang="sa"}? Have you with your tradition
+... plunged into a wilderness region carrying a spade and basket,
+thinking you will get by eating tubers and fruit?"
+
+"No, Mister Gotama."
+
+"What do you think, [Ambaṭṭha]{lang="sa"}? Have you with your tradition
+... set up a fire chamber in the neighborhood of a village or town and
+dwelt there serving the sacred flame?"
+
+"No, Mister Gotama."
+
+"What do you think, [Ambaṭṭha]{lang="sa"}? Have you with your tradition
+... set up a four-doored fire chamber at the crossroads and dwelt there,
+thinking: 'When an ascetic or brahmin comes from the four quarters, I
+will honor them as best I can'?"
+
+"No, Mister Gotama."
+
+"So you with your tradition are not only inferior to the supreme
+knowledge and conduct, you are even inferior to the four causes of
+quitting the supreme knowledge and conduct. But you have been told this
+by your tutor, the brahmin [Pokkharasāti]{lang="sa"}: 'Who are these
+shavelings, fake ascetics, primitives, black spawn from the feet of our
+kinsman compared with conversation with the brahmins of the three
+knowledges?" Yet he himself has not even fulfilled one of the quittings!
+See, [Ambaṭṭha]{lang="sa"}, how your tutor [Pokkharasāti]{lang="sa"} has
+wronged you.
+
+### 6. Being Like the Sages of the Past  {#being-like-the-sages-of-the-past .unnumbered}
+
+[Pokkharasāti]{lang="sa"} lives off an endowment provided by King
+Pasenadi of Kosala. But the king won't even grant him an audience face
+to face. When he consults, he does so behind a curtain.[^349] Why
+wouldn't the king grant a face to face audience with someone who'd
+receive his legitimate presentation of food? See, [Ambaṭṭha]{lang="sa"},
+how your tutor [Pokkharasāti]{lang="sa"} has wronged you.
+
+What do you think, [Ambaṭṭha]{lang="sa"}? Suppose King Pasenadi was
+holding consultations with warrior-chiefs or chieftains while sitting on
+an elephant's neck or on horseback, or while standing on the mat in a
+chariot.[^350] And suppose he'd get down from that place and stand
+aside. Then along would come a worker or their bondservant, who'd stand
+in the same place and continue the consultation: 'This is what King
+Pasenadi says, and this too is what the king says.' Though he spoke the
+king's words and gave the king's advice,[^351] does that qualify him to
+be the king or the king's minister?"
+
+"No, Mister Gotama."
+
+"In the same way, [Ambaṭṭha]{lang="sa"}, the ancient seers of the
+brahmins were [Aṭṭhaka]{lang="sa"}, [Vāmaka]{lang="sa"},
+[Vāmadeva]{lang="sa"}, [Vessāmitta]{lang="sa"}, Yamadaggi,
+[Aṅgīrasa]{lang="sa"}, [Bhāradvāja]{lang="sa"}, [Vāseṭṭha]{lang="sa"},
+Kassapa, and Bhagu. They were the authors and propagators of the hymns.
+Their hymnal was sung and propagated and compiled in ancient times; and
+these days, brahmins continue to sing and chant it, chanting what was
+chanted and teaching what was taught.[^352] You might imagine that,
+since you've learned their hymns by heart in your own tradition, that
+makes you a seer or someone on the path to becoming a seer. But that is
+not possible.
+
+What do you think, [Ambaṭṭha]{lang="sa"}? According to what you have
+heard from elderly and senior brahmins, the tutors of tutors, did those
+ancient brahmin seers---nicely bathed and anointed, with hair and beard
+dressed, bedecked with jewels, earrings, and bracelets, dressed in
+white---amuse themselves, supplied and provided with the five kinds of
+sensual stimulation, like you do today in your tradition?"
+
+"No, Mister Gotama."
+
+"Did they eat boiled fine rice, garnished with clean meat, with the dark
+grains picked out, served with many soups and sauces, like you do today
+in your tradition?"
+
+"No, Mister Gotama."
+
+"Did they amuse themselves with girls wearing thongs that show off their
+curves, like you do today in your tradition?"[^353]
+
+"No, Mister Gotama."
+
+"Did they drive about in chariots drawn by mares with plaited manes,
+whipping and lashing them onward with long goads, like you do today in
+your tradition?"[^354]
+
+"No, Mister Gotama."
+
+"Did they get men with long swords to guard them in fortresses with
+moats dug and barriers in place, like you do today in your
+tradition?"[^355]
+
+"No, Mister Gotama."
+
+"So, [Ambaṭṭha]{lang="sa"}, in your own tradition you are neither seer
+nor someone on the path to becoming a seer. Whoever has any doubt or
+uncertainty about me, let them ask me and I will clear up their doubts
+with my answer."[^356]
+
+### 7. Seeing the Two Marks  {#seeing-the-two-marks .unnumbered}
+
+Then the Buddha came out of his dwelling and proceeded to begin walking
+mindfully,[^357] and [Ambaṭṭha]{lang="sa"} did likewise. Then while
+walking beside the Buddha, [Ambaṭṭha]{lang="sa"} scrutinized his body
+for the thirty-two marks of a great man.[^358] He saw all of them except
+for two, which he had doubts about: whether the private parts are
+covered in a foreskin, and the largeness of the tongue.
+
+Then it occurred to the Buddha, "This student [Ambaṭṭha]{lang="sa"} sees
+all the marks except for two, which he has doubts about: whether the
+private parts are covered in a foreskin, and the largeness of the
+tongue." Then the Buddha used his psychic power to will that
+[Ambaṭṭha]{lang="sa"} would see his private parts covered in a
+foreskin.[^359] And he stuck out his tongue and stroked back and forth
+on his ear holes and nostrils, and covered his entire forehead with his
+tongue.
+
+Then [Ambaṭṭha]{lang="sa"} thought, "The ascetic Gotama possesses the
+thirty-two marks completely, lacking none."
+
+He said to the Buddha, "Well, now, sir, I must go. I have many duties,
+and much to do."
+
+"Please, [Ambaṭṭha]{lang="sa"}, go at your convenience." Then
+[Ambaṭṭha]{lang="sa"} mounted his chariot drawn by mares and left.
+
+Now at that time the brahmin [Pokkharasāti]{lang="sa"} had come out from
+[Ukkaṭṭhā]{lang="sa"} together with a large group of brahmins and was
+sitting in his own park just waiting for [Ambaṭṭha]{lang="sa"}. Then
+[Ambaṭṭha]{lang="sa"} entered the park. He went by carriage as far as
+the terrain allowed, then descended and approached the brahmin
+[Pokkharasāti]{lang="sa"} on foot. He bowed and sat down to one side,
+and [Pokkharasāti]{lang="sa"} said to him:
+
+"I hope, dear [Ambaṭṭha]{lang="sa"}, you saw Mister Gotama?"
+
+"I saw him, sir."
+
+"Well, does he live up to his reputation or not?"
+
+"He does, sir. Mister Gotama possesses the thirty-two marks completely,
+lacking none."
+
+"And did you have some discussion with him?"
+
+"I did."
+
+"And what kind of discussion did you have with him?" Then
+[Ambaṭṭha]{lang="sa"} informed [Pokkharasāti]{lang="sa"} of all they had
+discussed.
+
+Then [Pokkharasāti]{lang="sa"} said to [Ambaṭṭha]{lang="sa"}, "Oh, our
+bloody fake scholar, our fake learned man, who pretends to be proficient
+in the three Vedas! A man who behaves like this ought, when their body
+breaks up, after death, to be reborn in a place of loss, a bad place,
+the underworld, hell.[^360] It's only because you repeatedly attacked
+Mister Gotama like that that he kept bringing up charges against
+us!"[^361] Angry and upset, he kicked [Ambaṭṭha]{lang="sa"} over,[^362]
+and wanted to go and see the Buddha right away.
+
+### 8. [Pokkharasāti]{lang="sa"} Visits the Buddha  {#pokkharasāti-visits-the-buddha .unnumbered}
+
+Then those brahmins said to [Pokkharasāti]{lang="sa"}, "It's much too
+late to visit the ascetic Gotama today. You can visit him
+tomorrow."[^363]
+
+So [Pokkharasāti]{lang="sa"} had delicious fresh and cooked foods
+prepared in his own home. Then he mounted a carriage and, with
+attendants carrying torches, set out from [Ukkaṭṭhā]{lang="sa"} for the
+forest near [Icchānaṅgala]{lang="sa"}.[^364] He went by carriage as far
+as the terrain allowed, then descended and entered the monastery on
+foot. He went up to the Buddha and exchanged greetings with him. When
+the greetings and polite conversation were over, he sat down to one side
+and said to the Buddha, "Master Gotama, has my resident pupil, the
+student [Ambaṭṭha]{lang="sa"}, come here?"
+
+"Yes he has, brahmin."
+
+"And did you have some discussion with him?"
+
+"I did."
+
+"And what kind of discussion did you have with him?"[^365] Then the
+Buddha informed [Pokkharasāti]{lang="sa"} of all they had discussed.
+
+Then [Pokkharasāti]{lang="sa"} said to the Buddha,
+"[Ambaṭṭha]{lang="sa"} is a fool, Mister Gotama. Please forgive
+him."[^366]
+
+"May the student [Ambaṭṭha]{lang="sa"} be happy, brahmin."[^367]
+
+Then [Pokkharasāti]{lang="sa"} scrutinized the Buddha's body for the
+thirty-two marks of a great man. He saw all of them except for two,
+which he had doubts about: whether the private parts are covered in a
+foreskin, and the largeness of the tongue.
+
+Then it occurred to the Buddha, "[Pokkharasāti]{lang="sa"} sees all the
+marks except for two, which he has doubts about: whether the private
+parts are covered in a foreskin, and the largeness of the tongue." Then
+the Buddha used his psychic power to will that [Pokkharasāti]{lang="sa"}
+would see his private parts covered in a foreskin. And he stuck out his
+tongue and stroked back and forth on his ear holes and nostrils, and
+covered his entire forehead with his tongue.
+
+[Pokkharasāti]{lang="sa"} thought, "The ascetic Gotama possesses the
+thirty-two marks completely, lacking none."
+
+He said to the Buddha, "Would Mister Gotama together with the mendicant
+[Saṅgha]{lang="sa"} please accept today's meal from me?" The Buddha
+consented with silence.
+
+Then, knowing that the Buddha had consented, [Pokkharasāti]{lang="sa"}
+announced the time to him, "It's time, Mister Gotama, the meal is
+ready." Then the Buddha robed up in the morning and, taking his bowl and
+robe, went to the home of [Pokkharasāti]{lang="sa"} together with the
+mendicant [Saṅgha]{lang="sa"}, where he sat on the seat spread
+out.[^368] Then [Pokkharasāti]{lang="sa"} served and satisfied the
+Buddha with his own hands with delicious fresh and cooked foods, while
+his young students served the [Saṅgha]{lang="sa"}. When the Buddha had
+eaten and washed his hand and bowl, [Pokkharasāti]{lang="sa"} took a low
+seat and sat to one side.
+
+Then the Buddha taught him step by step, with a talk on giving, ethical
+conduct, and heaven. He explained the drawbacks of sensual pleasures, so
+sordid and corrupt, and the benefit of renunciation.[^369] And when the
+Buddha knew that [Pokkharasāti]{lang="sa"}'s mind was ready, pliable,
+rid of hindrances, elated, and confident he explained the special
+teaching of the Buddhas: suffering, its origin, its cessation, and the
+path.[^370] Just as a clean cloth rid of stains would properly absorb
+dye, in that very seat the stainless, immaculate vision of the Dhamma
+arose in the brahmin [Pokkharasāti]{lang="sa"}:[^371] "Everything that
+has a beginning has an end."[^372]
+
+### 9. [Pokkharasāti]{lang="sa"} Declares Himself a Lay Follower  {#pokkharasāti-declares-himself-a-lay-follower .unnumbered}
+
+Then [Pokkharasāti]{lang="sa"} saw, attained, understood, and fathomed
+the Dhamma. He went beyond doubt, got rid of indecision, and became
+self-assured and independent of others regarding the Teacher's
+instructions. He said to the Buddha, "Excellent, Mister Gotama!
+Excellent! As if he were righting the overturned, or revealing the
+hidden, or pointing out the path to the lost, or lighting a lamp in the
+dark so people with clear eyes can see what's there, just so has Mister
+Gotama made the Teaching clear in many ways. Together with my children,
+wives, retinue, and ministers, I go for refuge to Mister Gotama, to the
+teaching, and to the mendicant [Saṅgha]{lang="sa"}. From this day forth,
+may Mister Gotama remember me as a lay follower who has gone for refuge
+for life.
+
+Just as Mister Gotama visits other devoted families in
+[Ukkaṭṭhā]{lang="sa"}, may he visit mine.[^373] The brahmin boys and
+girls there will bow to you, rise in your presence, give you a seat and
+water, and gain confidence in their hearts. That will be for their
+lasting welfare and happiness."[^374]
+
+"That's nice of you to say, householder."[^375]
+
+## N 4 With Soṇadaṇḍa  *Soṇadaṇḍasutta* {#n-4-with-soṇadaṇḍa-soṇadaṇḍasutta .unnumbered}
+
+### 1. The Brahmins and Householders of [Campā]{lang="sa"}  {#the-brahmins-and-householders-of-campā .unnumbered}
+
+[So I have heard.[^376]]{.smallcaps} At one time the Buddha was
+wandering in the land of the [Aṅgas]{lang="sa"} together with a large
+[Saṅgha]{lang="sa"} of five hundred mendicants when he arrived at
+[Campā]{lang="sa"},[^377] where he stayed by the banks of the
+[Gaggarā]{lang="sa"} Lotus Pond.[^378]
+
+Now at that time the brahmin [Soṇadaṇḍa]{lang="sa"} was living in
+[Campā]{lang="sa"}. It was a crown property given by King Seniya
+[Bimbisāra]{lang="sa"} of Magadha, teeming with living creatures, full
+of hay, wood, water, and grain, a royal park endowed to a brahmin.[^379]
+
+The brahmins and householders of [Campā]{lang="sa"} heard:[^380]
+
+"It seems the ascetic Gotama---a Sakyan, gone forth from a Sakyan
+family---has arrived at [Campā]{lang="sa"} and is staying on the banks
+of the [Gaggarā]{lang="sa"} Lotus Pond. He has this good reputation:
+'That Blessed One is perfected, a fully awakened Buddha, accomplished in
+knowledge and conduct, holy, knower of the world, supreme guide for
+those who wish to train, teacher of gods and humans, awakened, blessed.'
+He has realized with his own insight this world---with its gods,
+[Māras]{lang="sa"}, and divinities, this population with its ascetics
+and brahmins, gods and humans---and he makes it known to others. He
+proclaims a teaching that is good in the beginning, good in the middle,
+and good in the end, meaningful and well-phrased. And he reveals a
+spiritual practice that's entirely full and pure. It's good to see such
+perfected ones." Then, having departed [Campā]{lang="sa"}, they formed
+into companies and headed to the [Gaggarā]{lang="sa"} Lotus Pond.
+
+Now at that time the brahmin [Soṇadaṇḍa]{lang="sa"} had retired to the
+upper floor of his stilt longhouse for his midday nap. He saw the
+brahmins and householders heading for the lotus pond, and addressed his
+butler, "My butler, why are the brahmins and householders headed for the
+[Gaggarā]{lang="sa"} Lotus Pond?"
+
+"The ascetic Gotama has arrived at [Campā]{lang="sa"} and is staying on
+the banks of the [Gaggarā]{lang="sa"} Lotus Pond. He has this good
+reputation: 'That Blessed One is perfected, a fully awakened Buddha,
+accomplished in knowledge and conduct, holy, knower of the world,
+supreme guide for those who wish to train, teacher of gods and humans,
+awakened, blessed.' They're going to see that Mister Gotama."
+
+"Well then, go to the brahmins and householders and say to them: 'Sirs,
+the brahmin [Soṇadaṇḍa]{lang="sa"} asks you to wait, as he will also go
+to see the ascetic Gotama.'"
+
+"Yes, sir," replied the butler, and did as he was asked.
+
+### 2. The Qualities of [Soṇadaṇḍa]{lang="sa"}  {#the-qualities-of-soṇadaṇḍa .unnumbered}
+
+Now at that time around five hundred brahmins from abroad were residing
+in [Campā]{lang="sa"} on some business. They heard that the brahmin
+[Soṇadaṇḍa]{lang="sa"} was going to see the ascetic Gotama. They
+approached [Soṇadaṇḍa]{lang="sa"} and said to him, "Is it really true
+that you are going to see the ascetic Gotama?"
+
+"Yes, gentlemen, it is true."
+
+"Please don't, mister [Soṇadaṇḍa]{lang="sa"}! It's not appropriate for
+you to go to see the ascetic Gotama.[^381] For if you do so, your
+reputation will diminish and his will increase. For this reason it's not
+appropriate for you to go to see the ascetic Gotama; it's appropriate
+that he comes to see you.
+
+You are well born on both your mother's and father's side, of pure
+descent, with irrefutable and impeccable genealogy back to the seventh
+paternal generation.[^382] For this reason it's not appropriate for you
+to go to see the ascetic Gotama; it's appropriate that he comes to see
+you.
+
+You're rich, affluent, and wealthy. ...
+
+You recite and remember the hymns, and have mastered the three Vedas,
+together with their vocabularies and ritual performance, their phonology
+and word classification, and the testaments as fifth. You know them
+word-by-word, and their grammar. You are well versed in cosmology and
+the marks of a great man. ...
+
+You are attractive, good-looking, lovely, of surpassing beauty. You are
+magnificent and splendid as the Divinity, remarkable to behold.
+...[^383]
+
+You are ethical, mature in ethical conduct. ...
+
+You're a good speaker who enunciates well, with a polished, clear, and
+articulate voice that expresses the meaning. ...
+
+You tutor the tutors of many, and teach three hundred young students to
+recite the hymns. Many students come from various districts and
+countries for the sake of the hymns, wishing to learn the hymns.
+...[^384]
+
+You're old, elderly and senior, advanced in years, and have reached the
+final stage of life. The ascetic Gotama is young, and has newly gone
+forth. ...
+
+You're honored, respected, revered, venerated, and esteemed by King
+[Bimbisāra]{lang="sa"} of Magadha ...
+
+and the brahmin [Pokkharasāti]{lang="sa"}. ...
+
+You live in [Campā]{lang="sa"}, a crown property given by King Seniya
+[Bimbisāra]{lang="sa"} of Magadha, teeming with living creatures, full
+of hay, wood, water, and grain, a royal park endowed to a brahmin. For
+this reason, too, it's not appropriate for you to go to see the ascetic
+Gotama; it's appropriate that he comes to see you."
+
+### 3. The Qualities of the Buddha  {#the-qualities-of-the-buddha .unnumbered}
+
+When they had spoken, [Soṇadaṇḍa]{lang="sa"} said to those brahmins:
+
+"Well then, gentlemen, listen to why it's appropriate for me to go to
+see the ascetic Gotama, and it's not appropriate for him to come to see
+me. He is well born on both his mother's and father's side, of pure
+descent, with irrefutable and impeccable genealogy back to the seventh
+paternal generation. For this reason it's not appropriate for the
+ascetic Gotama to come to see me; rather, it's appropriate for me to go
+to see him.
+
+When he went forth he abandoned a large family circle. ...
+
+When he went forth he abandoned abundant gold, both coined and uncoined,
+stored in dungeons and towers. ...
+
+He went forth from the lay life to homelessness while still a youth,
+young, with pristine black hair, blessed with youth, in the prime of
+life. ...
+
+Though his mother and father wished otherwise, weeping with tearful
+faces, he shaved off his hair and beard, dressed in ocher robes, and
+went forth from the lay life to homelessness. ...[^385]
+
+He is attractive, good-looking, lovely, of surpassing beauty. He is
+magnificent and splendid as the Divinity, remarkable to behold. ...
+
+He is ethical, possessing ethical conduct that is noble and skillful.
+...
+
+He's a good speaker who enunciates well, with a polished, clear, and
+articulate voice that expresses the meaning. ...
+
+He's a tutor of tutors. ...
+
+He has ended sensual desire, and is rid of caprice. ...
+
+He teaches the efficacy of deeds and action. He doesn't wish any harm
+upon the community of brahmins. ...[^386]
+
+He went forth from an eminent family of unbroken aristocratic lineage.
+...
+
+He went forth from a rich, affluent, and wealthy family. ...
+
+People come from distant lands and distant countries to question him.
+...
+
+Many thousands of deities have gone for refuge for life to him. ...
+
+He has this good reputation: 'That Blessed One is perfected, a fully
+awakened Buddha, accomplished in knowledge and conduct, holy, knower of
+the world, supreme guide for those who wish to train, teacher of gods
+and humans, awakened, blessed.' ...
+
+He has the thirty-two marks of a great man. ...
+
+He is welcoming, congenial, polite, smiling, open, the first to speak.
+...[^387]
+
+He's honored, respected, revered, venerated, and esteemed by the four
+assemblies. ...[^388]
+
+Many gods and humans are devoted to him. ...
+
+While he is residing in a village or town, non-human entities do not
+harass them. ...
+
+He leads an order and a community, and tutors a community, and is said
+to be the best of the various religious founders. He didn't come by his
+fame in the same ways as those other ascetics and brahmins.[^389]
+Rather, he came by his fame due to his supreme knowledge and conduct.
+...
+
+King Seniya [Bimbisāra]{lang="sa"} of Magadha and his wives and children
+have gone for refuge for life to the ascetic Gotama. ...[^390]
+
+King Pasenadi of Kosala and his wives and children have gone for refuge
+for life to the ascetic Gotama. ...[^391]
+
+The brahmin [Pokkharasāti]{lang="sa"} and his wives and children have
+gone for refuge for life to the ascetic Gotama. ...[^392]
+
+He's honored, respected, revered, venerated, and esteemed by King
+[Bimbisāra]{lang="sa"} of Magadha ...
+
+King Pasenadi of Kosala ...
+
+and the brahmin [Pokkharasāti]{lang="sa"}.
+
+The ascetic Gotama has arrived at [Campā]{lang="sa"} and is staying at
+the [Gaggarā]{lang="sa"} Lotus Pond. Any ascetic or brahmin who comes to
+stay in our village district is our guest, and should be honored and
+respected as such. For this reason, too, it's not appropriate for Mister
+Gotama to come to see me; rather, it's appropriate for me to go to see
+him. This is the extent of Mister Gotama's praise that I have memorized.
+But his praises are not confined to this, for the praise of Mister
+Gotama is limitless."
+
+When he had spoken, those brahmins said to him, "According to
+[Soṇadaṇḍa]{lang="sa"}'s praises, if Mister Gotama were staying within a
+hundred leagues, it'd be worthwhile for a faithful gentleman to go to
+see him, even if he had to carry his own provisions in a
+knapsack."[^393]
+
+"Well then, gentlemen, let's all go to see the ascetic Gotama."
+
+### 4. [Soṇadaṇḍa]{lang="sa"} Has Second Thoughts  {#soṇadaṇḍa-has-second-thoughts .unnumbered}
+
+Then [Soṇadaṇḍa]{lang="sa"} together with a large group of brahmins went
+to see the Buddha.
+
+But as he reached the far side of the forest, this thought came to mind,
+"Suppose I was to ask the ascetic Gotama a question. He might say to me:
+'Brahmin, you shouldn't ask your question like that. This is how you
+should ask it.' And the assembly might disparage me for that:
+'[Soṇadaṇḍa]{lang="sa"} is foolish and incompetent. He's not able to ask
+the ascetic Gotama a rational question.'[^394] And when you're
+disparaged by the assembly, your reputation diminishes. When your
+reputation diminishes, your wealth also diminishes. But my wealth relies
+on my reputation.
+
+Or if the ascetic Gotama asks me a question, I might not satisfy him
+with my answer. He might say to me: 'Brahmin, you shouldn't answer the
+question like that. This is how you should answer it.' And the assembly
+might disparage me for that: '[Soṇadaṇḍa]{lang="sa"} is foolish and
+incompetent. He's not able to satisfy the ascetic Gotama's mind with his
+answer.' And when you're disparaged by the assembly, your reputation
+diminishes. When your reputation diminishes, your wealth also
+diminishes. But my wealth relies on my reputation.
+
+On the other hand, if I were to turn back after having come so far
+without having seen the ascetic Gotama, the assembly might disparage me
+for that: '[Soṇadaṇḍa]{lang="sa"} is foolish and incompetent. He's
+stuck-up and scared. He doesn't dare to go and see the ascetic Gotama.
+For how on earth can he turn back after having come so far without
+having seen the ascetic Gotama!' And when you're disparaged by the
+assembly, your reputation diminishes. When your reputation diminishes,
+your wealth also diminishes. But my wealth relies on my reputation."
+
+Then [Soṇadaṇḍa]{lang="sa"} went up to the Buddha, and exchanged
+greetings with him.[^395] When the greetings and polite conversation
+were over, he sat down to one side. Before sitting down to one side,
+some of the brahmins and householders of [Campā]{lang="sa"} bowed, some
+exchanged greetings and polite conversation, some held up their joined
+palms toward the Buddha, some announced their name and clan, while some
+kept silent.
+
+But while sitting there, [Soṇadaṇḍa]{lang="sa"} continued to be plagued
+by many second thoughts. He thought, "If only the ascetic Gotama would
+ask me about my own tutor's scriptural heritage of the three Vedas! Then
+I could definitely satisfy his mind with my answer."
+
+### 5. What Makes a Brahmin  {#what-makes-a-brahmin .unnumbered}
+
+Then the Buddha, knowing [Soṇadaṇḍa]{lang="sa"}'s train of thought,
+thought, "This brahmin [Soṇadaṇḍa]{lang="sa"} is troubled by his own
+thoughts. Why don't I ask him about his own tutor's scriptural heritage
+of the three Vedas?"[^396]
+
+So he said to [Soṇadaṇḍa]{lang="sa"}, "Brahmin, how many factors must a
+brahmin possess for the brahmins to describe him as a brahmin; and so
+that when he says 'I am a brahmin' he speaks rightly, without falling
+into falsehood?"
+
+Then [Soṇadaṇḍa]{lang="sa"} thought, "The ascetic Gotama has asked me
+about exactly what I wanted, what I wished for, what I desired, what I
+yearned for; that is, my own scriptural heritage. I can definitely
+satisfy his mind with my answer."
+
+Then [Soṇadaṇḍa]{lang="sa"} straightened his back, looked around the
+assembly, and said to the Buddha, "Mister Gotama, a brahmin must possess
+five factors for the brahmins to describe him as a brahmin; and so that
+when he says 'I am a brahmin' he speaks rightly, without falling into
+falsehood. What five? It's when a brahmin is well born on both his
+mother's and father's side, of pure descent, with irrefutable and
+impeccable genealogy back to the seventh paternal generation. He recites
+and remembers the hymns, and has mastered the three Vedas, together with
+their vocabularies and ritual performance, their phonology and word
+classification, and the testaments as fifth. He knows them word-by-word,
+and their grammar. He is well versed in cosmology and the marks of a
+great man. He is attractive, good-looking, lovely, of surpassing beauty.
+He is magnificent and splendid as the Divinity, remarkable to behold. He
+is ethical, mature in ethical conduct. He's astute and clever, being the
+first or second to hold the sacrificial ladle.[^397] These are the five
+factors which a brahmin must possess for the brahmins to describe him as
+a brahmin; and so that when he says 'I am a brahmin' he speaks rightly,
+without falling into falsehood."
+
+"But brahmin, is it possible to set aside one of these five factors and
+still rightly describe someone as a brahmin?"[^398]
+
+"It is possible, Mister Gotama. We could leave appearance out of the
+five factors. For what does appearance matter? A brahmin must possess
+the remaining four factors for the brahmins to rightly describe him as a
+brahmin."
+
+"But brahmin, is it possible to set aside one of these four factors and
+still rightly describe someone as a brahmin?"
+
+"It is possible, Mister Gotama. We could leave the hymns out of the four
+factors. For what do the hymns matter? A brahmin must possess the
+remaining three factors for the brahmins to rightly describe him as a
+brahmin."
+
+"But brahmin, is it possible to set aside one of these three factors and
+still rightly describe someone as a brahmin?"
+
+"It is possible, Mister Gotama. We could leave birth out of the three
+factors. For what does birth matter? It's when a brahmin is ethical,
+mature in ethical conduct; and he's astute and clever, being the first
+or second to hold the sacrificial ladle. A brahmin must possess these
+two factors for the brahmins to rightly describe him as a brahmin."
+
+When he had spoken, those brahmins said to him, "Please don't say that,
+mister [Soṇadaṇḍa]{lang="sa"}, please don't say that! You're just
+condemning appearance, the hymns, and birth! You're totally going over
+to the ascetic Gotama's doctrine!"
+
+So the Buddha said to them, "Well, brahmins, if you think that
+[Soṇadaṇḍa]{lang="sa"} is unlearned, a poor speaker, witless, and not
+capable of debating with me about this, then leave him aside and you can
+debate with me. But if you think that he's learned, a good speaker who
+enunciates well, astute, and capable of debating with me about this,
+then you should stand aside and let him debate with me."
+
+When he said this, [Soṇadaṇḍa]{lang="sa"} said to the Buddha, "Let it
+be, Mister Gotama, be silent. I myself will respond to them in a
+legitimate manner." Then he said to those brahmins, "Don't say this,
+good sirs, don't say this: 'You're just condemning appearance, the
+hymns, and birth! You're totally going over to the ascetic Gotama's
+doctrine!' I'm not condemning appearance, hymns, or birth."
+
+Now at that time [Soṇadaṇḍa]{lang="sa"}'s nephew, the young student
+[Aṅgaka]{lang="sa"} was sitting in that assembly. Then
+[Soṇadaṇḍa]{lang="sa"} said to those brahmins, "Gentlemen, do you see my
+nephew, the young student [Aṅgaka]{lang="sa"}?"
+
+"Yes, sir."
+
+"[Aṅgaka]{lang="sa"} is attractive, good-looking, lovely, of surpassing
+beauty. He is magnificent and splendid as the Divinity, remarkable to
+behold. There's no-one in this assembly so good-looking, apart from the
+ascetic Gotama. [Aṅgaka]{lang="sa"} recites and remembers the hymns, and
+has mastered the three Vedas, together with their vocabularies and
+ritual performance, their phonology and word classification, and the
+testaments as fifth. He knows them word-by-word, and their grammar. He
+is well versed in cosmology and the marks of a great man. And I am the
+one who teaches him the hymns. [Aṅgaka]{lang="sa"} is well born on both
+his mother's and father's side, of pure descent, with irrefutable and
+impeccable genealogy back to the seventh paternal generation. And I know
+his mother and father. But if [Aṅgaka]{lang="sa"} were to kill living
+creatures, steal, commit adultery, lie, and drink liquor, then what's
+the use of his appearance, his hymns, or his birth? It's when a brahmin
+is ethical, mature in ethical conduct; and he's astute and clever, being
+the first or second to hold the sacrificial ladle. A brahmin must
+possess these two factors for the brahmins to rightly describe him as a
+brahmin."
+
+### 6. The Discussion of Ethics and Wisdom  {#the-discussion-of-ethics-and-wisdom .unnumbered}
+
+"But brahmin, is it possible to set aside one of these two factors and
+still rightly describe someone as a brahmin?"
+
+"No, Mister Gotama. For wisdom is cleansed by ethics, and ethics are
+cleansed by wisdom. Ethics and wisdom always go together. An ethical
+person is wise, and a wise person ethical. And ethics and wisdom are
+said to be the best things in the world. It's just like when you clean
+one hand with the other, or clean one foot with the other. In the same
+way, wisdom is cleansed by ethics, and ethics are cleansed by wisdom.
+Ethics and wisdom always go together. An ethical person is wise, and a
+wise person ethical. And ethics and wisdom are said to be the best
+things in the world."
+
+"That's so true, brahmin, that's so true! For wisdom is cleansed by
+ethics, and ethics are cleansed by wisdom.[^399] Ethics and wisdom
+always go together. An ethical person is wise, and a wise person
+ethical. And ethics and wisdom are said to be the best things in the
+world. It's just like when you clean one hand with the other, or clean
+one foot with the other. In the same way, wisdom is cleansed by ethics,
+and ethics are cleansed by wisdom. Ethics and wisdom always go together.
+An ethical person is wise, and a wise person ethical. And ethics and
+wisdom are said to be the best things in the world.
+
+But what, brahmin, is that ethical conduct?[^400] And what is that
+wisdom?"
+
+"That's all I know about this matter, Mister Gotama. May Mister Gotama
+himself please clarify the meaning of this."
+
+"Well then, brahmin, listen and apply your mind well, I will speak."
+
+"Yes sir," [Soṇadaṇḍa]{lang="sa"} replied. The Buddha said this:
+
+"It's when a Realized One arises in the world, perfected, a fully
+awakened Buddha ... That's how a mendicant is accomplished in ethics.
+This, brahmin, is that ethical conduct. ... They enter and remain in the
+first absorption ...[^401] second absorption ... third absorption ...
+fourth absorption ... They project and extend the mind toward knowledge
+and vision ... This pertains to their wisdom. ... They understand: '...
+there is nothing further for this place.' This pertains to their wisdom.
+This, brahmin, is that wisdom."
+
+### 7. [Soṇadaṇḍa]{lang="sa"} Declares Himself a Lay Follower  {#soṇadaṇḍa-declares-himself-a-lay-follower .unnumbered}
+
+When he had spoken, [Soṇadaṇḍa]{lang="sa"} said to the Buddha,
+"Excellent, Mister Gotama! Excellent! As if he were righting the
+overturned, or revealing the hidden, or pointing out the path to the
+lost, or lighting a lamp in the dark so people with clear eyes can see
+what's there, Mister Gotama has made the Teaching clear in many ways. I
+go for refuge to Mister Gotama, to the teaching, and to the mendicant
+[Saṅgha]{lang="sa"}. From this day forth, may Mister Gotama remember me
+as a lay follower who has gone for refuge for life. Would you and the
+mendicant [Saṅgha]{lang="sa"} please accept a meal from me tomorrow?"
+The Buddha consented with silence.
+
+Then, knowing that the Buddha had consented, [Soṇadaṇḍa]{lang="sa"} got
+up from his seat, bowed, and respectfully circled the Buddha, keeping
+him on his right, before leaving. And when the night had passed
+[Soṇadaṇḍa]{lang="sa"} had delicious fresh and cooked foods prepared in
+his own home. Then he had the Buddha informed of the time, saying, "It's
+time, Mister Gotama, the meal is ready." Then the Buddha robed up in the
+morning and, taking his bowl and robe, went to the home of
+[Soṇadaṇḍa]{lang="sa"} together with the mendicant [Saṅgha]{lang="sa"},
+where he sat on the seat spread out. Then [Soṇadaṇḍa]{lang="sa"} served
+and satisfied the mendicant [Saṅgha]{lang="sa"} headed by the Buddha
+with his own hands with delicious fresh and cooked foods.
+
+When the Buddha had eaten and washed his hand and bowl,
+[Soṇadaṇḍa]{lang="sa"} took a low seat and sat to one side. Seated to
+one side he said to the Buddha: "Mister Gotama, if, when I have gone to
+an assembly, I rise from my seat and bow to the Buddha, that assembly
+might disparage me for that. And when you're disparaged by the assembly,
+your reputation diminishes. When your reputation diminishes, your wealth
+also diminishes. But my wealth relies on my reputation. If, when I have
+gone to an assembly, I raise my joined palms, please take it that I have
+risen from my seat. And if I undo my turban, please take it that I have
+bowed. And Mister Gotama, if, when I am in a carriage, I get down from
+my carriage and bow to the Buddha, that assembly might disparage me for
+that. If, when I am in a carriage, I hold up my goad, please take it
+that I have got down from my carriage. And if I lower my sunshade,
+please take it that I have bowed."[^402]
+
+Then the Buddha educated, encouraged, fired up, and inspired the brahmin
+[Soṇadaṇḍa]{lang="sa"} with a Dhamma talk, after which he got up from
+his seat and left.
+
+## N 5 With Kūṭadanta  *Kūṭadantasutta* {#n-5-with-kūṭadanta-kūṭadantasutta .unnumbered}
+
+### 1. The Brahmins and Householders of [Khāṇumata]{lang="sa"}  {#the-brahmins-and-householders-of-khāṇumata .unnumbered}
+
+[So I have heard.[^403]]{.smallcaps} At one time the Buddha was
+wandering in the land of the Magadhans together with a large
+[Saṅgha]{lang="sa"} of five hundred mendicants when he arrived at a
+village of the Magadhan brahmins named [Khāṇumata]{lang="sa"}.[^404]
+There he stayed nearby at [Ambalaṭṭhikā]{lang="sa"}.[^405]
+
+Now at that time the brahmin [Kūṭadanta]{lang="sa"} was living in
+[Khāṇumata]{lang="sa"}. It was a crown property given by King Seniya
+[Bimbisāra]{lang="sa"} of Magadha, teeming with living creatures, full
+of hay, wood, water, and grain, a royal park endowed to a brahmin.[^406]
+Now at that time [Kūṭadanta]{lang="sa"} had prepared a great sacrifice.
+Bulls, bullocks, heifers, goats and rams---seven hundred of each---had
+been led to the post for the sacrifice.[^407]
+
+The brahmins and householders of [Khāṇumata]{lang="sa"} heard:
+
+"It seems the ascetic Gotama---a Sakyan, gone forth from a Sakyan
+family---has arrived at [Khāṇumata]{lang="sa"} and is staying at
+[Ambalaṭṭhikā]{lang="sa"}. He has this good reputation: 'That Blessed
+One is perfected, a fully awakened Buddha, accomplished in knowledge and
+conduct, holy, knower of the world, supreme guide for those who wish to
+train, teacher of gods and humans, awakened, blessed.' He has realized
+with his own insight this world---with its gods, [Māras]{lang="sa"}, and
+divinities, this population with its ascetics and brahmins, gods and
+humans---and he makes it known to others. He proclaims a teaching that
+is good in the beginning, good in the middle, and good in the end,
+meaningful and well-phrased. And he reveals a spiritual practice that's
+entirely full and pure. It's good to see such perfected ones."
+
+Then, having departed [Khāṇumata]{lang="sa"}, they formed into companies
+and headed to [Ambalaṭṭhikā]{lang="sa"}.
+
+Now at that time the brahmin [Kūṭadanta]{lang="sa"} had retired to the
+upper floor of his stilt longhouse for his midday nap. He saw the
+brahmins and householders heading for [Ambalaṭṭhikā]{lang="sa"}, and
+addressed his butler, "My butler, why are the brahmins and householders
+headed for [Ambalaṭṭhikā]{lang="sa"}?"
+
+"The ascetic Gotama has arrived at [Khāṇumata]{lang="sa"} and is staying
+at [Ambalaṭṭhikā]{lang="sa"}. He has this good reputation: 'That Blessed
+One is perfected, a fully awakened Buddha, accomplished in knowledge and
+conduct, holy, knower of the world, supreme guide for those who wish to
+train, teacher of gods and humans, awakened, blessed.' They're going to
+see that Mister Gotama."
+
+Then [Kūṭadanta]{lang="sa"} thought, "I've heard that the ascetic Gotama
+knows how to accomplish the sacrifice with three modes and sixteen
+accessories.[^408] I don't know about that, but I wish to perform a
+great sacrifice. Why don't I ask him how to accomplish the sacrifice
+with three modes and sixteen accessories?"[^409]
+
+Then [Kūṭadanta]{lang="sa"} addressed his butler, "Well then, go to the
+brahmins and householders and say to them: 'Sirs, the brahmin
+[Kūṭadanta]{lang="sa"} asks you to wait, as he will also go to see the
+ascetic Gotama.'"
+
+"Yes, sir," replied the butler, and did as he was asked.
+
+### 2. The Qualities of [Kūṭadanta]{lang="sa"}  {#the-qualities-of-kūṭadanta .unnumbered}
+
+Now at that time several hundred brahmins were residing in
+[Khāṇumata]{lang="sa"} thinking to participate in
+[Kūṭadanta]{lang="sa"}'s sacrifice. They heard that
+[Kūṭadanta]{lang="sa"} was going to see the ascetic Gotama. They
+approached [Kūṭadanta]{lang="sa"} and said to him:
+
+"Is it really true that you are going to see the ascetic Gotama?"
+
+"Yes, gentlemen, it is true."
+
+"Please don't! It's not appropriate for you to go to see the ascetic
+Gotama. For if you do so, your reputation will diminish and his will
+increase. For this reason it's not appropriate for you to go to see the
+ascetic Gotama; it's appropriate that he comes to see you.
+
+You are well born on both your mother's and father's side, of pure
+descent, with irrefutable and impeccable genealogy back to the seventh
+paternal generation. For this reason it's not appropriate for you to go
+to see the ascetic Gotama; it's appropriate that he comes to see you.
+
+You're rich, affluent, and wealthy, with lots of property and assets,
+and lots of money and grain ...
+
+You recite and remember the hymns, and have mastered the three Vedas,
+together with their vocabularies and ritual performance, their phonology
+and word classification, and the testaments as fifth. You know them
+word-by-word, and their grammar. You are well versed in cosmology and
+the marks of a great man. ...
+
+You are attractive, good-looking, lovely, of surpassing beauty. You are
+magnificent and splendid as the Divinity, remarkable to behold. ...
+
+You are ethical, mature in ethical conduct. ...
+
+You're a good speaker who enunciates well, with a polished, clear, and
+articulate voice that expresses the meaning. ...
+
+You teach the tutors of many, and teach three hundred young students to
+recite the hymns. Many students come from various districts and
+countries for the sake of the hymns, wishing to learn the hymns. ...
+
+You're old, elderly and senior, advanced in years, and have reached the
+final stage of life. The ascetic Gotama is young, and has newly gone
+forth. ...
+
+You're honored, respected, revered, venerated, and esteemed by King
+[Bimbisāra]{lang="sa"} of Magadha ...
+
+and the brahmin [Pokkharasāti]{lang="sa"}. ...
+
+You live in [Khāṇumata]{lang="sa"}, a crown property given by King
+Seniya [Bimbisāra]{lang="sa"} of Magadha, teeming with living creatures,
+full of hay, wood, water, and grain, a royal park endowed to a brahmin.
+For this reason it's not appropriate for you to go to see the ascetic
+Gotama; it's appropriate that he comes to see you."
+
+### 3. The Qualities of the Buddha  {#the-qualities-of-the-buddha-1 .unnumbered}
+
+When they had spoken, [Kūṭadanta]{lang="sa"} said to those brahmins:
+
+"Well then, gentlemen, listen to why it's appropriate for me to go to
+see the ascetic Gotama, and it's not appropriate for him to come to see
+me. He is well born on both his mother's and father's side, of pure
+descent, with irrefutable and impeccable genealogy back to the seventh
+paternal generation. For this reason it's not appropriate for the
+ascetic Gotama to come to see me; rather, it's appropriate for me to go
+to see him.
+
+When he went forth he abandoned a large family circle. ...
+
+When he went forth he abandoned abundant gold, both coined and uncoined,
+stored in dungeons and towers. ...
+
+He went forth from the lay life to homelessness while still a youth,
+young, with pristine black hair, blessed with youth, in the prime of
+life. ...
+
+Though his mother and father wished otherwise, weeping with tearful
+faces, he shaved off his hair and beard, dressed in ocher robes, and
+went forth from the lay life to homelessness. ...
+
+He is attractive, good-looking, lovely, of surpassing beauty. He is
+magnificent and splendid as the Divinity, remarkable to behold. ...
+
+He is ethical, possessing ethical conduct that is noble and skillful.
+...
+
+He's a good speaker who enunciates well, with a polished, clear, and
+articulate voice that expresses the meaning. ...
+
+He's a tutor of tutors. ...
+
+He has ended sensual desire, and is rid of caprice. ...
+
+He teaches the efficacy of deeds and action. He doesn't wish any harm
+upon the community of brahmins. ...
+
+He went forth from an eminent family of unbroken aristocratic lineage.
+...
+
+He went forth from a rich, affluent, and wealthy family. ...
+
+People come from distant lands and distant countries to question him.
+...
+
+Many thousands of deities have gone for refuge for life to him. ...
+
+He has this good reputation: 'That Blessed One is perfected, a fully
+awakened Buddha, accomplished in knowledge and conduct, holy, knower of
+the world, supreme guide for those who wish to train, teacher of gods
+and humans, awakened, blessed.' ...
+
+He has the thirty-two marks of a great man. ...
+
+He is welcoming, congenial, polite, smiling, open, the first to speak.
+...
+
+He's honored, respected, revered, venerated, and esteemed by the four
+assemblies. ...
+
+Many gods and humans are devoted to him. ...
+
+While he is residing in a village or town, non-human entities do not
+harass them. ...
+
+He leads an order and a community, and tutors a community, and is said
+to be the best of the various religious founders. He didn't come by his
+fame in the same ways as those other ascetics and brahmins. Rather, he
+came by his fame due to his supreme knowledge and conduct. ...
+
+King Seniya [Bimbisāra]{lang="sa"} of Magadha and his wives and children
+have gone for refuge for life to the ascetic Gotama. ...
+
+King Pasenadi of Kosala and his wives and children have gone for refuge
+for life to the ascetic Gotama. ...
+
+The brahmin [Pokkharasāti]{lang="sa"} and his wives and children have
+gone for refuge for life to the ascetic Gotama. ...
+
+He's honored, respected, revered, venerated, and esteemed by King
+[Bimbisāra]{lang="sa"} of Magadha ...
+
+King Pasenadi of Kosala ...
+
+and the brahmin [Pokkharasāti]{lang="sa"}.
+
+The ascetic Gotama has arrived at [Khāṇumata]{lang="sa"} and is staying
+at [Ambalaṭṭhikā]{lang="sa"}. Any ascetic or brahmin who comes to stay
+in our village district is our guest, and should be honored and
+respected as such. For this reason, too, it's not appropriate for Mister
+Gotama to come to see me, rather, it's appropriate for me to go to see
+him. This is the extent of Mister Gotama's praise that I have memorized.
+But his praises are not confined to this, for the praise of Mister
+Gotama is limitless."
+
+When he had spoken, those brahmins said to him, "According to
+[Kūṭadanta]{lang="sa"}'s praises, if Mister Gotama were staying within a
+hundred leagues, it'd be worthwhile for a faithful gentleman to go to
+see him, even if he had to carry his own provisions in a knapsack."
+
+"Well then, gentlemen, let's all go to see the ascetic Gotama."
+
+### 4. The Story of King [Mahāvijita]{lang="sa"}'s Sacrifice  {#the-story-of-king-mahāvijitas-sacrifice .unnumbered}
+
+Then [Kūṭadanta]{lang="sa"} together with a large group of brahmins went
+to see the Buddha and exchanged greetings with him. When the greetings
+and polite conversation were over, he sat down to one side. Before
+sitting down to one side, some of the brahmins and householders of
+[Khāṇumata]{lang="sa"} bowed, some exchanged greetings and polite
+conversation, some held up their joined palms toward the Buddha, some
+announced their name and clan, while some kept silent.
+
+[Kūṭadanta]{lang="sa"} said to the Buddha, "Mister Gotama, I've heard
+that you know how to accomplish the sacrifice with three modes and
+sixteen accessories. I don't know about that, but I wish to perform a
+great sacrifice. Please teach me how to accomplish the sacrifice with
+three modes and sixteen accessories."
+
+"Well then, brahmin, listen and apply your mind well, I will
+speak."[^410]
+
+"Yes sir," [Kūṭadanta]{lang="sa"} replied. The Buddha said this: "Once
+upon a time, brahmin, there was a king named [Mahāvijita]{lang="sa"}. He
+was rich, affluent, and wealthy, with lots of gold and silver, lots of
+property and assets, lots of money and grain, and a full treasury and
+storehouses.[^411] Then as King [Mahāvijita]{lang="sa"} was in private
+retreat this thought came to his mind:[^412] 'I have achieved human
+wealth, and reign after conquering this vast territory. Why don't I hold
+a large sacrifice? That will be for my lasting welfare and
+happiness.'[^413]
+
+Then he summoned the brahmin high priest and said to him:[^414] 'Just
+now, brahmin, as I was in private retreat this thought came to mind, "I
+have achieved human wealth, and reign after conquering this vast
+territory. Why don't I perform a great sacrifice? That will be for my
+lasting welfare and happiness." Brahmin, I wish to perform a great
+sacrifice. Please instruct me. It will be for my lasting welfare and
+happiness.'
+
+When he had spoken, the brahmin high priest said to him: 'Sir, the
+king's realm is harried and oppressed. Raiding of villages, towns, and
+cities has been seen, and infesting of highways.[^415] But if the king
+were to extract more taxes while his realm is thus harried and
+oppressed, he would not be doing his duty.[^416]
+
+Now the king might think, "I'll eradicate this plague of savages by
+execution or imprisonment or confiscation or condemnation or
+banishment!" But that's not the right way to eradicate this plague of
+savages.[^417] Those who remain after the killing will return to harass
+the king's realm.[^418]
+
+Rather, here is a plan, relying on which the plague of savages will be
+properly uprooted.[^419] So let the king provide seed and fodder for
+those in the realm who work in growing crops and raising cattle.[^420]
+Let the king provide funding for those who work in trade. Let the king
+guarantee food and wages for those in government service. Then the
+people, occupied with their own work, will not harass the realm.[^421]
+The king's revenues will be great.[^422] When the country is secured as
+a sanctuary, free of being harried and oppressed, the happy people, with
+joy in their hearts, dancing with children at their breast, will dwell
+as if their houses were wide open.'[^423]
+
+The king agreed with the high priest's advice and followed his
+recommendation.[^424]
+
+Then the king summoned the brahmin high priest and said to him: 'I have
+eradicated the plague of savages. And relying on your plan my revenue is
+now great. Since the country is secured as a sanctuary, free of being
+harried and oppressed, the happy people, with joy in their hearts,
+dancing with children at their breast, dwell as if their houses were
+wide open. Brahmin, I wish to perform a great sacrifice. Please instruct
+me. It will be for my lasting welfare and happiness.'
+
+#### 4.1. The Four Accessories  {#the-four-accessories .unnumbered}
+
+'In that case, let the king announce this throughout the realm to the
+aristocrat vassals of both town and country; the ministers and
+councillors of both town and country; the well-to-do brahmins of both
+town and country; and the well-off householders of both town and
+country.[^425] "I wish to perform a great sacrifice. Please grant your
+approval, good sirs; it will be for my lasting welfare and happiness."
+
+The king agreed with the high priest's advice and followed his
+recommendation. And all of the people who were thus informed responded
+by saying: 'May the king perform a sacrifice! It is time for a
+sacrifice, great king.' And so these four consenting factions became
+accessories to the sacrifice.[^426]
+
+#### 4.2. The Eight Accessories  {#the-eight-accessories .unnumbered}
+
+King [Mahāvijita]{lang="sa"} possessed eight factors.[^427]
+
+He was well born on both his mother's and father's side, of pure
+descent, with irrefutable and impeccable genealogy back to the seventh
+paternal generation.
+
+He was attractive, good-looking, lovely, of surpassing beauty. He was
+magnificent and splendid as the Divinity, remarkable to behold.
+
+He was rich, affluent, and wealthy, with lots of gold and silver, lots
+of property and assets, lots of money and grain, and a full treasury and
+storehouses.
+
+He was powerful, having an army of four divisions that was obedient and
+carried out instructions. He'd probably prevail over his enemies just
+with his reputation.[^428]
+
+He was faithful, generous, a donor, his door always open. He was a
+well-spring of support, making merit with ascetics and brahmins, for
+paupers, vagrants, supplicants, and beggars.
+
+He was very learned in diverse fields of learning. He understood the
+meaning of diverse statements, saying:[^429] 'This is what that
+statement means; that is what this statement means.'
+
+He was astute, competent, and intelligent, able to think issues through
+as they bear upon the past, future, and present.[^430]
+
+These are the eight factors that King [Mahāvijita]{lang="sa"} possessed.
+And so these eight factors also became accessories to the sacrifice.
+
+#### 4.3. Four More Accessories  {#four-more-accessories .unnumbered}
+
+And the brahmin high priest had four factors.[^431]
+
+He was well born on both his mother's and father's side, of pure
+descent, with irrefutable and impeccable genealogy back to the seventh
+paternal generation.
+
+He recited and remembered the hymns, and had mastered the three Vedas,
+together with their vocabularies and ritual performance, their phonology
+and word classification, and the testaments as fifth. He knew them
+word-by-word, and their grammar. He was well versed in cosmology and the
+marks of a great man.
+
+He was ethical, mature in ethical conduct.
+
+He was astute and clever, being the first or second to hold the
+sacrificial ladle.
+
+These are the four factors that the brahmin high priest possessed. And
+so these four factors also became accessories to the sacrifice.
+
+#### 4.4. The Three Modes  {#the-three-modes .unnumbered}
+
+Next, before the sacrifice, the brahmin high priest taught the three
+modes to the king. 'Now, though the king wants to perform a great
+sacrifice, he might have certain regrets, thinking: "I shall lose a
+great fortune," or[^432] "I am losing a great fortune," or "I have lost
+a great fortune." But the king should not harbor such regrets.'
+
+These are the three modes that the brahmin high priest taught to the
+king before the sacrifice.
+
+#### 4.5. The Ten Respects  {#the-ten-respects .unnumbered}
+
+Next, before the sacrifice, the brahmin high priest dispelled the king's
+regret regarding the recipients in ten respects:[^433]
+
+'There will come to the sacrifice those who kill living creatures and
+those who refrain from killing living creatures. As to those who kill
+living creatures, the outcome of that is theirs alone. But as to those
+who refrain from killing living creatures, it is for their sakes that
+the king should sacrifice, relinquish, rejoice, and gain confidence in
+his heart.[^434]
+
+There will come to the sacrifice those who steal ... commit sexual
+misconduct ... lie ... use divisive speech ... use harsh speech ... talk
+nonsense ... are covetous ... have ill will ... have wrong view and
+those who have right view. As to those who have wrong view, the outcome
+of that is theirs alone. But as to those who have right view, it is for
+their sakes that the king should sacrifice, relinquish, rejoice, and
+gain confidence in his heart.'
+
+These are the ten respects in which the high priest dispelled the king's
+regret regarding the recipients before the sacrifice.
+
+#### 4.6. The Sixteen Respects  {#the-sixteen-respects .unnumbered}
+
+Next, while the king was performing the great sacrifice, the brahmin
+high priest educated, encouraged, fired up, and inspired the king's mind
+in sixteen respects:
+
+'Now, while the king is performing the great sacrifice, someone might
+say, "King [Mahāvijita]{lang="sa"} performs a great sacrifice, but he
+did not announce it to the aristocrat vassals of town and country.[^435]
+That's the kind of great sacrifice that this king performs." Those who
+speak against the king in this way have no legitimacy. For the king did
+indeed announce it to the aristocrat vassals of town and country. Let
+the king know this as a reason to sacrifice, relinquish, rejoice, and
+gain confidence in his heart.
+
+While the king is performing the great sacrifice, someone might say,
+"King [Mahāvijita]{lang="sa"} performs a great sacrifice, but he did not
+announce it to the aristocrat vassals; the ministers and councillors;
+the well-to-do brahmins; and the well-off householders. That's the kind
+of great sacrifice that this king performs." Those who speak against the
+king in this way have no legitimacy. For the king did indeed announce it
+to all these people.[^436] Let the king know this too as a reason to
+sacrifice, relinquish, rejoice, and gain confidence in his heart.
+
+While the king is performing the great sacrifice, someone might say that
+he does not possess the eight factors. Those who speak against the king
+in this way have no legitimacy. For the king does indeed possess the
+eight factors. Let the king know this too as a reason to sacrifice,
+relinquish, rejoice, and gain confidence in his heart.
+
+While the king is performing the great sacrifice, someone might say that
+the high priest does not possess the four factors. Those who speak
+against the king in this way have no legitimacy. For the high priest
+does indeed possess the four factors. Let the king know this too as a
+reason to sacrifice, relinquish, rejoice, and gain confidence in his
+heart.'
+
+These are the sixteen respects in which the high priest educated,
+encouraged, fired up, and inspired the king's mind while he was
+performing the sacrifice.
+
+And brahmin, in that sacrifice no cattle were killed, no goats or sheep
+were killed, and no chickens or pigs were killed. There was no slaughter
+of various kinds of creatures. No trees were felled for the sacrificial
+post. No grass was reaped to strew over the place of sacrifice. No
+bondservants, servants, or workers did their jobs under threat of
+punishment and danger, weeping with tearful faces. Those who wished to
+work did so, while those who did not wish to did not.[^437] They did the
+work they wanted to, and did not do what they didn't want to. The
+sacrifice was completed with just ghee, oil, butter, curds, honey, and
+molasses.[^438]
+
+Then the aristocrat vassals, ministers and councillors, well-to-do
+brahmins, and well-off householders came to the king bringing abundant
+wealth and said, 'Sire, this abundant wealth is specially for you alone;
+may Your Highness accept it!'[^439]
+
+'There's enough raised for me through regular taxes. Let this be for
+you; and here, take even more!'
+
+When the king turned them down, they withdrew to one side to think up a
+plan, 'It wouldn't be proper for us to take this abundant wealth back to
+our own homes. King [Mahāvijita]{lang="sa"} is performing a great
+sacrifice. Let us make an offering as an auxiliary sacrifice.'
+
+Then the aristocrat vassals of town and country set up gifts to the east
+of the sacrificial enclosure. The ministers and councillors of town and
+country set up gifts to the south of the sacrificial enclosure. The
+well-to-do brahmins of town and country set up gifts to the west of the
+sacrificial enclosure. The well-off householders of town and country set
+up gifts to the north of the sacrificial enclosure.
+
+And brahmin, in that sacrifice too no cattle were killed, no goats were
+killed, and no chickens or pigs were killed. There was no slaughter of
+various kinds of creatures. No trees were felled for the sacrificial
+post. No grass was reaped to strew over the place of sacrifice. No
+bondservants, servants, or workers did their jobs under threat of
+punishment and danger, weeping with tearful faces. Those who wished to
+work did so, while those who did not wish to did not. They did the work
+they wanted to, and did not do what they didn't want to. The sacrifice
+was completed with just ghee, oil, butter, curds, honey, and molasses.
+
+And so there were four consenting factions, eight factors possessed by
+King [Mahāvijita]{lang="sa"}, four factors possessed by the high priest,
+and three modes. Brahmin, this is called the sacrifice accomplished with
+three modes and sixteen accessories."
+
+When he said this, those brahmins made an uproar,[^440] "Hooray for such
+sacrifice! Hooray for the accomplishment of such sacrifice!"
+
+But the brahmin [Kūṭadanta]{lang="sa"} sat in silence.[^441] So those
+brahmins said to him, "How can you not applaud the ascetic Gotama's fine
+words?"
+
+"It's not that I don't applaud what he said. If anyone didn't applaud
+such fine words, their head would explode!
+
+But, gentlemen, it occurs to me that the ascetic Gotama does not say:
+'So I have heard' or 'It ought to be like this.'[^442] Rather, he just
+says: 'So it was then, this is how it was then.'
+
+It occurs to me that the ascetic Gotama at that time must have been King
+[Mahāvijita]{lang="sa"}, the owner of the sacrifice, or else the brahmin
+high priest who facilitated the sacrifice for him.
+
+Does Mister Gotama recall having performed such a sacrifice, or having
+facilitated it, and then, when his body broke up, after death, being
+reborn in a good place, a heavenly realm?"
+
+"I do recall that, brahmin. For I myself was the brahmin high priest at
+that time who facilitated the sacrifice."[^443]
+
+### 5. A Regular Gift as an Ongoing Family Sacrifice.  {#a-regular-gift-as-an-ongoing-family-sacrifice. .unnumbered}
+
+"But Mister Gotama, apart from that sacrifice accomplished with three
+modes and sixteen accessories, is there any other sacrifice that has
+fewer requirements and undertakings, yet is more fruitful and
+beneficial?"[^444]
+
+"There is, brahmin."
+
+"But what is it?"
+
+"The regular gifts as ongoing family sacrifice given specially to
+ethical renunciates;[^445] this sacrifice, brahmin, has fewer
+requirements and undertakings, yet is more fruitful and beneficial."
+
+"What is the cause, Mister Gotama, what is the reason why those regular
+gifts as ongoing family sacrifice have fewer requirements and
+undertakings, yet are more fruitful and beneficial, compared with the
+sacrifice accomplished with three modes and sixteen accessories?"
+
+"Because neither perfected ones nor those who are on the path to
+perfection will attend such a sacrifice. Why is that? Because beatings
+and throttlings are seen there.[^446]
+
+But the regular gifts as ongoing family sacrifice given specially to
+ethical renunciates; perfected ones and those who are on the path to
+perfection will attend such a sacrifice. Why is that? Because no
+beatings and throttlings are seen there.
+
+This is the cause, brahmin, this is the reason why those regular gifts
+as ongoing family sacrifice have fewer requirements and undertakings,
+yet are more fruitful and beneficial, compared with the sacrifice
+accomplished with three modes and sixteen accessories."
+
+"But Mister Gotama, apart from that sacrifice accomplished with three
+modes and sixteen accessories and those regular gifts as ongoing family
+sacrifice, is there any other sacrifice that has fewer requirements and
+undertakings, yet is more fruitful and beneficial?"
+
+"There is, brahmin."
+
+"But what is it?"
+
+"When someone gives a dwelling specially for the [Saṅgha]{lang="sa"} of
+the four quarters."[^447]
+
+"But is there any other sacrifice that has fewer requirements and
+undertakings, yet is more fruitful and beneficial?"
+
+"When someone with confident heart goes for refuge to the Buddha, the
+teaching, and the [Saṅgha]{lang="sa"}."
+
+"But is there any other sacrifice that has fewer requirements and
+undertakings, yet is more fruitful and beneficial?"
+
+"When someone with a confident heart undertakes the training rules to
+refrain from killing living creatures, stealing, sexual misconduct,
+lying, and beer, wine, and liquor intoxicants."[^448]
+
+"But is there any other sacrifice that has fewer requirements and
+undertakings, yet is more fruitful and beneficial?"
+
+"There is, brahmin.
+
+It's when a Realized One arises in the world, perfected, a fully
+awakened Buddha ... That's how a mendicant is accomplished in ethics.
+... They enter and remain in the first absorption ... This sacrifice has
+fewer requirements and undertakings than the former, yet is more
+fruitful and beneficial. ...
+
+They enter and remain in the second absorption ... third absorption ...
+fourth absorption. This sacrifice has fewer requirements and
+undertakings than the former, yet is more fruitful and beneficial. ...
+
+They project and extend the mind toward knowledge and vision ... This
+sacrifice has fewer requirements and undertakings than the former, yet
+is more fruitful and beneficial.
+
+They understand: '... there is nothing further for this place.' This
+sacrifice has fewer requirements and undertakings than the former, yet
+is more fruitful and beneficial. And, brahmin, there is no other
+accomplishment of sacrifice which is better and finer than this."[^449]
+
+### 6. [Kūṭadanta]{lang="sa"} Declares Himself a Lay Follower  {#kūṭadanta-declares-himself-a-lay-follower .unnumbered}
+
+When he had spoken, [Kūṭadanta]{lang="sa"} said to the Buddha,
+"Excellent, Mister Gotama! Excellent! As if he were righting the
+overturned, or revealing the hidden, or pointing out the path to the
+lost, or lighting a lamp in the dark so people with clear eyes can see
+what's there, Mister Gotama has made the Teaching clear in many ways. I
+go for refuge to Mister Gotama, to the teaching, and to the mendicant
+[Saṅgha]{lang="sa"}. From this day forth, may Mister Gotama remember me
+as a lay follower who has gone for refuge for life.
+
+And these bulls, bullocks, heifers, goats, and rams---seven hundred of
+each---I release them, I grant them life! Let them eat green grass and
+drink cool water, and may a cool breeze blow upon them!"[^450]
+
+### 7. The Realization of the Fruit of Stream-Entry  {#the-realization-of-the-fruit-of-stream-entry .unnumbered}
+
+Then the Buddha taught [Kūṭadanta]{lang="sa"} step by step, with a talk
+on giving, ethical conduct, and heaven. He explained the drawbacks of
+sensual pleasures, so sordid and corrupt, and the benefit of
+renunciation. And when he knew that [Kūṭadanta]{lang="sa"}'s mind was
+ready, pliable, rid of hindrances, elated, and confident he explained
+the special teaching of the Buddhas: suffering, its origin, its
+cessation, and the path. Just as a clean cloth rid of stains would
+properly absorb dye, in that very seat the stainless, immaculate vision
+of the Dhamma arose in the brahmin [Kūṭadanta]{lang="sa"}: "Everything
+that has a beginning has an end."
+
+Then [Kūṭadanta]{lang="sa"} saw, attained, understood, and fathomed the
+Dhamma. He went beyond doubt, got rid of indecision, and became
+self-assured and independent of others regarding the Teacher's
+instructions. He said to the Buddha, "Would Mister Gotama together with
+the mendicant [Saṅgha]{lang="sa"} please accept tomorrow's meal from
+me?" The Buddha consented with silence.
+
+Then, knowing that the Buddha had consented, [Kūṭadanta]{lang="sa"} got
+up from his seat, bowed, and respectfully circled the Buddha, keeping
+him on his right, before leaving. And when the night had passed
+[Kūṭadanta]{lang="sa"} had delicious fresh and cooked foods prepared in
+his own sacrificial enclosure. Then he had the Buddha informed of the
+time, saying, "It's time, Mister Gotama, the meal is ready."
+
+Then the Buddha robed up in the morning and, taking his bowl and robe,
+went to the sacrificial enclosure of [Kūṭadanta]{lang="sa"} together
+with the mendicant [Saṅgha]{lang="sa"}, where he sat on the seat spread
+out.
+
+Then [Kūṭadanta]{lang="sa"} served and satisfied the mendicant
+[Saṅgha]{lang="sa"} headed by the Buddha with his own hands with
+delicious fresh and cooked foods. When the Buddha had eaten and washed
+his hand and bowl, [Kūṭadanta]{lang="sa"} took a low seat and sat to one
+side. Then the Buddha educated, encouraged, fired up, and inspired him
+with a Dhamma talk, after which he got up from his seat and left.
+
+## N 6 With Mahāli  *Mahālisutta* {#n-6-with-mahāli-mahālisutta .unnumbered}
+
+### 1. On the Brahmin Emissaries  {#on-the-brahmin-emissaries .unnumbered}
+
+[So I have heard.]{.smallcaps} At one time the Buddha was staying near
+[Vesālī]{lang="sa"}, at the Great Wood, in the hall with the peaked
+roof.[^451] Now at that time several brahmin emissaries from Kosala and
+Magadha were residing in [Vesālī]{lang="sa"} on some business.[^452]
+They heard:
+
+"It seems the ascetic Gotama---a Sakyan, gone forth from a Sakyan
+family---is staying near [Vesālī]{lang="sa"}, at the Great Wood, in the
+hall with the peaked roof.[^453] He has this good reputation: 'That
+Blessed One is perfected, a fully awakened Buddha, accomplished in
+knowledge and conduct, holy, knower of the world, supreme guide for
+those who wish to train, teacher of gods and humans, awakened, blessed.'
+He has realized with his own insight this world---with its gods,
+[Māras]{lang="sa"}, and divinities, this population with its ascetics
+and brahmins, gods and humans---and he makes it known to others. He
+proclaims a teaching that is good in the beginning, good in the middle,
+and good in the end, meaningful and well-phrased. And he reveals a
+spiritual practice that's entirely full and pure. It's good to see such
+perfected ones."
+
+Then they went to the hall with the peaked roof in the Great Wood to see
+the Buddha.
+
+Now, at that time Venerable [Nāgita]{lang="sa"} was the Buddha's
+attendant. The brahmin emissaries went up to him and said, "Mister
+[Nāgita]{lang="sa"}, where is Mister Gotama at present? For we want to
+see him."
+
+"It's the wrong time to see the Buddha; he is on retreat."[^454]
+
+So right there the brahmin emissaries sat down to one side, thinking,
+"We'll go only after we've seen Mister Gotama."
+
+### 2. On [Oṭṭhaddha]{lang="sa"} the Licchavi  {#on-oṭṭhaddha-the-licchavi .unnumbered}
+
+[Oṭṭhaddha]{lang="sa"} the Licchavi together with a large assembly of
+Licchavis also approached [Nāgita]{lang="sa"} at the hall with the
+peaked roof. He bowed, stood to one side, and said to
+[Nāgita]{lang="sa"},[^455] "Mister [Nāgita]{lang="sa"}, where is the
+Blessed One at present, the perfected one, the fully awakened Buddha?
+For we want to see him."
+
+"It's the wrong time to see the Buddha; he is on retreat."
+
+So right there [Oṭṭhaddha]{lang="sa"} also sat down to one side,
+thinking, "I'll go only after I've seen the Blessed One, the perfected
+one, the fully awakened Buddha."
+
+Then the novice [Sīha]{lang="sa"} approached [Nāgita]{lang="sa"}. He
+bowed, stood to one side, and said to [Nāgita]{lang="sa"},[^456]
+"Honorable Kassapa, these several brahmin emissaries from Kosala and
+Magadha, and also [Oṭṭhaddha]{lang="sa"} the Licchavi together with a
+large assembly of Licchavis, have come here to see the Buddha. It'd be
+good if these people got to see the Buddha."[^457]
+
+"Well then, [Sīha]{lang="sa"}, tell the Buddha yourself."[^458]
+
+"Yes, sir," replied [Sīha]{lang="sa"}. He went to the Buddha, bowed,
+stood to one side, and told him of the people waiting to see him,
+adding: "Sir, it'd be good if these people got to see the Buddha."
+
+"Well then, [Sīha]{lang="sa"}, spread out a seat in the shade of the
+dwelling."
+
+"Yes, sir," replied [Sīha]{lang="sa"}, and he did so.
+
+Then the Buddha came out of his dwelling and sat in the shade of the
+dwelling on the seat spread out.[^459] Then the brahmin emissaries went
+up to the Buddha, and exchanged greetings with him.[^460] When the
+greetings and polite conversation were over, they sat down to one side.
+
+[Oṭṭhaddha]{lang="sa"} the Licchavi together with a large assembly of
+Licchavis also went up to the Buddha, bowed, and sat down to one side.
+[Oṭṭhaddha]{lang="sa"} said to the Buddha, "Sir, a few days ago
+Sunakkhatta the Licchavi came to me and said:[^461]
+'[Mahāli]{lang="sa"}, soon I will have been living in dependence on the
+Buddha for three years. I see heavenly sights that are pleasant,
+sensual, and arousing, but I don't hear heavenly sounds that are
+pleasant, sensual, and arousing.'[^462] The heavenly sounds that
+Sunakkhatta cannot hear: do such sounds really exist or not?"
+
+#### 2.1. One-Sided Immersion  {#one-sided-immersion .unnumbered}
+
+"Such sounds really do exist, but Sunakkhatta cannot hear them."[^463]
+
+"What is the cause, sir, what is the reason why Sunakkhatta cannot hear
+them, even though they really do exist?"
+
+"[Mahāli]{lang="sa"}, take a mendicant who has developed immersion to
+the eastern quarter in one aspect: so as to see heavenly sights but not
+to hear heavenly sounds.[^464] When they have developed immersion for
+that purpose, they see heavenly sights but don't hear heavenly sounds.
+Why is that? Because that is how it is for a mendicant who develops
+immersion in that way.
+
+Furthermore, take a mendicant who has developed immersion to the
+southern quarter in one aspect ... western quarter ... northern quarter
+... above, below, across ... That is how it is for a mendicant who
+develops immersion in that way.
+
+Take a mendicant who has developed immersion to the eastern quarter in
+one aspect: so as to hear heavenly sounds but not to see heavenly
+sights. When they have developed immersion for that purpose, they hear
+heavenly sounds but don't see heavenly sights. Why is that? Because that
+is how it is for a mendicant who develops immersion in that way.
+
+Furthermore, take a mendicant who has developed immersion to the
+southern quarter in one aspect ... western quarter ... northern quarter
+... above, below, across ... That is how it is for a mendicant who
+develops immersion in that way.
+
+Take a mendicant who has developed immersion to the eastern quarter in
+both aspects: so as to hear heavenly sounds and see heavenly sights.
+When they have developed immersion for that purpose, they see heavenly
+sights and hear heavenly sounds. Why is that? Because that is how it is
+for a mendicant who develops immersion in that way.
+
+Furthermore, take a mendicant who has developed immersion to the
+southern quarter in both aspects ... western quarter ... northern
+quarter ... above, below, across ... That is how it is for a mendicant
+who develops immersion in that way. This is the cause,
+[Mahāli]{lang="sa"}, this is the reason why Sunakkhatta cannot hear
+heavenly sounds that are pleasant, sensual, and arousing, even though
+they really do exist."
+
+"Surely the mendicants must lead the spiritual life under the Buddha for
+the sake of realizing such a development of immersion?"
+
+"No, [Mahāli]{lang="sa"}, the mendicants don't lead the spiritual life
+under me for the sake of realizing such a development of
+immersion.[^465] There are other things that are finer, for the sake of
+which the mendicants lead the spiritual life under me."
+
+#### 2.2. The Four Noble Fruits  {#the-four-noble-fruits .unnumbered}
+
+"But sir, what are those finer things?"
+
+"Firstly, [Mahāli]{lang="sa"}, with the ending of three fetters a
+mendicant is a stream-enterer, not liable to be reborn in the
+underworld, bound for awakening.[^466] This is one of the finer things
+for the sake of which the mendicants lead the spiritual life under me.
+
+Furthermore, a mendicant---with the ending of three fetters, and the
+weakening of greed, hate, and delusion---is a once-returner. They come
+back to this world once only, then make an end of suffering. This too is
+one of the finer things.
+
+Furthermore, with the ending of the five lower fetters, a mendicant is
+reborn spontaneously and will become extinguished there, not liable to
+return from that world.[^467] This too is one of the finer things.
+
+Furthermore, a mendicant has realized the undefiled freedom of heart and
+freedom by wisdom in this very life, and lives having realized it with
+their own insight due to the ending of defilements.[^468] This too is
+one of the finer things.
+
+These are the finer things, for the sake of which the mendicants lead
+the spiritual life under me."
+
+#### 2.3. The Noble Eightfold Path  {#the-noble-eightfold-path .unnumbered}
+
+"But, sir, is there a path and a practice for realizing these things?"
+
+"There is, [Mahāli]{lang="sa"}."
+
+"Well, what is it?"
+
+"It is simply this noble eightfold path, that is:[^469] right view,
+right thought, right speech, right action, right livelihood, right
+effort, right mindfulness, and right immersion.[^470] This is the path
+and the practice for realizing these things.
+
+#### 2.4. On the Two Renunciates  {#on-the-two-renunciates .unnumbered}
+
+This one time, [Mahāli]{lang="sa"}, I was staying near
+[Kosambī]{lang="sa"}, in Ghosita's Monastery.[^471] Then two
+renunciates---the wanderer [Muṇḍiya]{lang="sa"} and [Jāliya]{lang="sa"},
+the pupil of the wood-bowl ascetic---came and exchanged greetings with
+me.[^472] When the greetings and polite conversation were over, they
+stood to one side and said to me: 'Reverend Gotama, are the soul and the
+body the same thing, or they are different things?'[^473]
+
+'Well then, reverends, listen and apply your mind well, I will speak.'
+
+'Yes, reverend,' they replied.
+
+I said this: 'Take the case when a Realized One arises in the world,
+perfected, a fully awakened Buddha ... That's how a mendicant is
+accomplished in ethics. ...
+
+They enter and remain in the first absorption. When a mendicant knows
+and sees like this, would it be appropriate to say of them: "The soul
+and the body are the same thing" or "The soul and the body are different
+things"?'
+
+'It would, reverend.'[^474]
+
+'But reverends, I know and see like this. Nevertheless, I do not say:
+"The soul and the body are the same thing" or "The soul and the body are
+different things". ...
+
+They enter and remain in the second absorption ... third absorption ...
+fourth absorption. When a mendicant knows and sees like this, would it
+be appropriate to say of them: "The soul and the body are the same
+thing" or "The soul and the body are different things"?'
+
+'It would, reverend.'
+
+'But reverends, I know and see like this. Nevertheless, I do not say:
+"The soul and the body are the same thing" or "The soul and the body are
+different things". ...
+
+They project and extend the mind toward knowledge and vision ... When a
+mendicant knows and sees like this, would it be appropriate to say of
+them: "The soul and the body are the same thing" or "The soul and the
+body are different things"?'
+
+'It would, reverend.'
+
+'But reverends, I know and see like this. Nevertheless, I do not say:
+"The soul and the body are the same thing" or "The soul and the body are
+different things". ...
+
+They understand: "... there is nothing further for this place." When a
+mendicant knows and sees like this, would it be appropriate to say of
+them: "The soul and the body are the same thing" or "The soul and the
+body are different things"?'
+
+'It would not, reverend.'[^475]
+
+'But reverends, I know and see like this. Nevertheless, I do not say:
+"The soul and the body are the same thing" or "The soul and the body are
+different things".'"
+
+That is what the Buddha said. Satisfied, [Oṭṭhaddha]{lang="sa"} the
+Licchavi approved what the Buddha said.
+
+## N 7 With Jāliya  *Jāliyasutta* {#n-7-with-jāliya-jāliyasutta .unnumbered}
+
+[So I have heard.]{.smallcaps} At one time the Buddha was staying near
+[Kosambī]{lang="sa"}, in Ghosita's Monastery.[^476]
+
+Now at that time two renunciates---the wanderer [Muṇḍiya]{lang="sa"} and
+[Jāliya]{lang="sa"}, the pupil of the wood-bowl ascetic---came to the
+Buddha and exchanged greetings with him. When the greetings and polite
+conversation were over, they stood to one side and said to the Buddha,
+"Reverend Gotama, are the soul and the body the same thing, or they are
+different things?"
+
+"Well then, reverends, listen and apply your mind well, I will speak."
+
+"Yes, reverend," they replied. The Buddha said this:
+
+"Take the case when a Realized One arises in the world, perfected, a
+fully awakened Buddha ... That's how a mendicant is accomplished in
+ethics. ...
+
+They enter and remain in the first absorption ... When a mendicant knows
+and sees like this, would it be appropriate to say of them: 'The soul
+and the body are the same thing' or 'The soul and the body are different
+things'?"
+
+"It would, reverend."
+
+"But reverends, I know and see like this. Nevertheless, I do not say:
+'The soul and the body are the same thing' or 'The soul and the body are
+different things'. ...
+
+They enter and remain in the second absorption ... third absorption ...
+fourth absorption. When a mendicant knows and sees like this, would it
+be appropriate to say of them: 'The soul and the body are the same
+thing' or 'The soul and the body are different things'?"
+
+"It would, reverend."
+
+"But reverends, I know and see like this. Nevertheless, I do not say:
+'The soul and the body are the same thing' or 'The soul and the body are
+different things'. ...
+
+They project and extend the mind toward knowledge and vision ... When a
+mendicant knows and sees like this, would it be appropriate to say of
+them: 'The soul and the body are the same thing' or 'The soul and the
+body are different things'?"
+
+"It would, reverend."
+
+"But reverends, I know and see like this. Nevertheless, I do not say:
+'The soul and the body are the same thing' or 'The soul and the body are
+different things'. ...
+
+They understand: '... there is nothing further for this place.' When a
+mendicant knows and sees like this, would it be appropriate to say of
+them: 'The soul and the body are the same thing' or 'The soul and the
+body are different things'?"
+
+"It would not, reverend."
+
+"But reverends, I know and see like this. Nevertheless, I do not say:
+'The soul and the body are the same thing' or 'The soul and the body are
+different things'."
+
+That is what the Buddha said. Satisfied, the two renunciates approved
+what the Buddha said.
+
+## N 8 The Lion's Roar to the Naked Ascetic Kassapa  *Mahāsīhanādasutta* {#n-8-the-lions-roar-to-the-naked-ascetic-kassapa-mahāsīhanādasutta .unnumbered}
+
+[So I have heard.]{.smallcaps} At one time the Buddha was staying near
+[Ujuññā]{lang="sa"}, in the deer park at
+[Kaṇṇakatthala]{lang="sa"}.[^477]
+
+Then the naked ascetic Kassapa went up to the Buddha and exchanged
+greetings with him.[^478] When the greetings and polite conversation
+were over, he stood to one side and said to the Buddha:
+
+"Mister Gotama, I have heard the following: 'The ascetic Gotama
+criticizes all fervent mortification. He categorically condemns and
+denounces all fervent mortifiers who live rough.'[^479] Do those who say
+this repeat what the Buddha has said, and not misrepresent him with an
+untruth? Is their explanation in line with the teaching? Are there any
+legitimate grounds for rebuttal and criticism? For we don't want to
+misrepresent Mister Gotama."
+
+"Kassapa, those who say this do not repeat what I have said. They
+misrepresent me with what is false, baseless, and untrue. With
+clairvoyance that is purified and superhuman, I see some fervent
+mortifier who lives rough reborn in a place of loss, a bad place, the
+underworld, hell. But I see another fervent mortifier who lives rough
+reborn in a good place, a heavenly realm.[^480]
+
+I see some fervent mortifier who takes it easy reborn in a place of
+loss. But I see another fervent mortifier who takes it easy reborn in a
+good place, a heavenly realm. Since I truly understand the coming and
+going, passing away and rebirth of these fervent mortifiers in this way,
+how could I criticize all forms of mortification, or categorically
+condemn and denounce those fervent mortifiers who live rough?
+
+There are some clever ascetics and brahmins who are subtle, accomplished
+in the doctrines of others, hair-splitters. You'd think they live to
+demolish convictions with their intellect. They agree with me in some
+matters and disagree in others. Some of the things that they applaud, I
+also applaud. Some of the things that they don't applaud, I also don't
+applaud. But some of the things that they applaud, I don't applaud. And
+some of the things that they don't applaud, I do applaud.
+
+Some of the things that I applaud, others also applaud. Some of the
+things that I don't applaud, they also don't applaud. But some of the
+things that I don't applaud, others do applaud. And some of the things
+that I do applaud, others don't applaud.
+
+### 1. Examination  {#examination .unnumbered}
+
+I go up to them and say: 'Let us leave aside those matters on which we
+disagree.[^481] But there are some matters on which we agree. Regarding
+these, sensible people, pursuing, pressing, and grilling, would compare
+teacher with teacher or community with community:
+
+"There are things that are unskillful, blameworthy, not to be
+cultivated, unworthy of the noble ones, and dark---and are reckoned as
+such. Who proceeds having totally given these things up: the ascetic
+Gotama, or the tutors of other communities?"'[^482]
+
+It's possible that they might say: 'The ascetic Gotama proceeds having
+totally given those unskillful things up, compared with the tutors of
+other communities.' And that's how, when sensible people pursue the
+matter, they will mostly praise us.
+
+In addition, sensible people, pursuing, pressing, and grilling, would
+compare teacher with teacher or community with community: 'There are
+things that are skillful, blameless, worth cultivating, worthy of the
+noble ones, and bright---and are reckoned as such. Who proceeds having
+totally undertaken these things: the ascetic Gotama, or the tutors of
+other communities?'
+
+It's possible that they might say: 'The ascetic Gotama proceeds having
+totally undertaken these things, compared with the tutors of other
+communities.' And that's how, when sensible people pursue the matter,
+they will mostly praise us.
+
+In addition, sensible people, pursuing, pressing, and grilling, would
+compare teacher with teacher or community with community: 'There are
+things that are unskillful, blameworthy, not to be cultivated, unworthy
+of the noble ones, and dark---and are reckoned as such. Who proceeds
+having totally given these things up: the ascetic Gotama's disciples, or
+the disciples of other tutors?'
+
+It's possible that they might say: 'The ascetic Gotama's disciples
+proceed having totally given those unskillful things up, compared with
+the disciples of other tutors.' And that's how, when sensible people
+pursue the matter, they will mostly praise us.
+
+In addition, sensible people, pursuing, pressing, and grilling, would
+compare teacher with teacher or community with community: 'There are
+things that are skillful, blameless, worth cultivating, worthy of the
+noble ones, and bright---and are reckoned as such. Who proceeds having
+totally undertaken these things: the ascetic Gotama's disciples, or the
+disciples of other tutors?'
+
+It's possible that they might say: 'The ascetic Gotama's disciples
+proceed having totally undertaken those skillful things, compared with
+the disciples of other tutors.' And that's how, when sensible people
+pursue the matter, they will mostly praise us.
+
+### 2. The Noble Eightfold Path  {#the-noble-eightfold-path-1 .unnumbered}
+
+There is, Kassapa, a path, there is a practice, practicing in accordance
+with which you will know and see for yourself: 'Only the ascetic
+Gotama's words are timely, true, and meaningful, in line with the
+teaching and training.'[^483] And what is that path? It is simply this
+noble eightfold path, that is: right view, right thought, right speech,
+right action, right livelihood, right effort, right mindfulness, and
+right immersion. This is the path, this is the practice, practicing in
+accordance with which you will know and see for yourself: 'Only the
+ascetic Gotama's words are timely, true, and meaningful, in line with
+the teaching and training.'"[^484]
+
+### 3. The Courses of Fervent Mortification  {#the-courses-of-fervent-mortification .unnumbered}
+
+When he had spoken, Kassapa said to the Buddha:
+
+"Reverend Gotama, those ascetics and brahmins consider these courses of
+fervent mortification to be what makes someone a true ascetic or
+brahmin.[^485] They go naked, ignoring conventions. They lick their
+hands, and don't come or wait when called. They don't consent to food
+brought to them, or food prepared on their behalf, or an invitation for
+a meal.[^486] They don't receive anything from a pot or bowl; or from
+someone who keeps sheep, or who has a weapon or a shovel in their home;
+or where a couple is eating; or where there is a woman who is pregnant,
+breastfeeding, or who lives with a man; or where there's a dog waiting
+or flies buzzing. They accept no fish or meat or beer or wine, and drink
+no fermented gruel.[^487] They go to just one house for alms, taking
+just one mouthful, or two houses and two mouthfuls, up to seven houses
+and seven mouthfuls. They feed on one saucer a day, two saucers a day,
+up to seven saucers a day. They eat once a day, once every second day,
+up to once a week, and so on, even up to once a fortnight. They live
+committed to the practice of eating food at set intervals.
+
+Those ascetics and brahmins also consider these courses of fervent
+mortification to be what makes someone a true ascetic or brahmin. They
+eat herbs, millet, wild rice, poor rice, water lettuce, rice bran, scum
+from boiling rice, sesame flour, grass, or cow dung. They survive on
+forest roots and fruits, or eating fallen fruit.[^488]
+
+Those ascetics and brahmins also consider these courses of fervent
+mortification to be what makes someone a true ascetic or brahmin. They
+wear robes of sunn hemp, mixed hemp, corpse-wrapping cloth, rags, lodh
+tree bark, antelope hide (whole or in strips), kusa grass, bark,
+wood-chips, human hair, horse-tail hair, or owls' wings.[^489] They tear
+out hair and beard, committed to this practice.[^490] They constantly
+stand, refusing seats.[^491] They squat, committed to persisting in the
+squatting position. They lie on a mat of thorns, making a mat of thorns
+their bed. They make their bed on a plank, or the bare ground. They lie
+only on one side. They wear dust and dirt.[^492] They stay in the open
+air. They sleep wherever they lay their mat. They eat unnatural things,
+committed to the practice of eating unnatural foods.[^493] They don't
+drink, committed to the practice of not drinking liquids. They're
+devoted to ritual bathing three times a day, including the
+evening."[^494]
+
+### 4. The Uselessness of Fervent Mortification  {#the-uselessness-of-fervent-mortification .unnumbered}
+
+"Kassapa, someone may practice all those forms of mortification, but if
+they haven't developed and realized any accomplishment in ethics, mind,
+and wisdom, they are far from being a true ascetic or brahmin.[^495] But
+take a mendicant who develops a heart of love, free of enmity and ill
+will. And they realize the undefiled freedom of heart and freedom by
+wisdom in this very life, and live having realized it with their own
+insight due to the ending of defilements.[^496] When they achieve this,
+they're a mendicant who is called a 'true ascetic' and also 'a true
+brahmin'. ..."
+
+When he had spoken, Kassapa said to the Buddha, "It's hard, Mister
+Gotama, to be a true ascetic or a true brahmin."
+
+"It's typical, Kassapa, in this world to think that it's hard to be a
+true ascetic or brahmin. But someone might practice all those forms of
+mortification. And if it was only because of just that much, only
+because of that course of fervent mortification that it was so very hard
+to be a true ascetic or brahmin, it wouldn't be appropriate to say that
+it's hard to be a true ascetic or brahmin.
+
+For it would be quite possible for a householder or a householder's
+child---or even the bonded maid who carries the water-jar---to practice
+all those forms of mortification.
+
+It's because there's something other than just that much, something
+other than that course of fervent mortification that it's so very hard
+to be a true ascetic or brahmin. And that's why it is appropriate to say
+that it's hard to be a true ascetic or brahmin. Take a mendicant who
+develops a heart of love, free of enmity and ill will. And they realize
+the undefiled freedom of heart and freedom by wisdom in this very life,
+and live having realized it with their own insight due to the ending of
+defilements.[^497] When they achieve this, they're a mendicant who is
+called a 'true ascetic' and also 'a true brahmin'. ..."
+
+When he had spoken, Kassapa said to the Buddha, "It's hard, Mister
+Gotama, to know a true ascetic or a true brahmin."
+
+"It's typical in this world to think that it's hard to know a true
+ascetic or brahmin. But someone might practice all those forms of
+mortification. And if it was only by just that much, only by that course
+of fervent mortification that it was so very hard to know a true ascetic
+or brahmin, it wouldn't be appropriate to say that it's hard to know a
+true ascetic or brahmin.
+
+For it would be quite possible for a householder or a householder's
+child---or even the bonded maid who carries the water-jar---to know that
+someone is practicing all those forms of mortification.
+
+It's because there's something other than just that much, something
+other than that course of fervent mortification that it's so very hard
+to know a true ascetic or brahmin. And that's why it is appropriate to
+say that it's hard to know a true ascetic or brahmin. Take a mendicant
+who develops a heart of love, free of enmity and ill will. And they
+realize the undefiled freedom of heart and freedom by wisdom in this
+very life, and live having realized it with their own insight due to the
+ending of defilements. When they achieve this, they're a mendicant who
+is called a 'true ascetic' and also 'a true brahmin'."
+
+### 5. The Accomplishment of Ethics, Mind, and Wisdom  {#the-accomplishment-of-ethics-mind-and-wisdom .unnumbered}
+
+When he had spoken, Kassapa said to the Buddha, "But Mister Gotama, what
+is that accomplishment in ethics, in mind, and in wisdom?"[^498]
+
+"It's when a Realized One arises in the world, perfected, a fully
+awakened Buddha ... Seeing danger in the slightest fault, a mendicant
+keeps the rules they've undertaken. They act skillfully by body and
+speech. They're purified in livelihood and accomplished in ethical
+conduct. They guard the sense doors, have mindfulness and situational
+awareness, and are content.
+
+And how is a mendicant accomplished in ethics? It's when a mendicant
+gives up killing living creatures. They renounce the rod and the sword.
+They're scrupulous and kind, living full of sympathy for all living
+beings. This pertains to their accomplishment in ethics. ...
+
+There are some ascetics and brahmins who, while enjoying food given in
+faith, still earn a living by low lore, by wrong livelihood. ... They
+refrain from such low lore, such wrong livelihood. This pertains to
+their accomplishment in ethics.
+
+A mendicant thus accomplished in ethics sees no danger in any quarter in
+regards to their ethical restraint. It's like a king who has defeated
+his enemies. He sees no danger from his foes in any quarter. In the same
+way, a mendicant thus accomplished in ethics sees no danger in any
+quarter in regards to their ethical restraint. When they have this
+entire spectrum of noble ethics, they experience a blameless happiness
+inside themselves. That's how a mendicant is accomplished in ethics.
+This, Kassapa, is that accomplishment in ethics. ... They enter and
+remain in the first absorption ... This pertains to their accomplishment
+in mind. ... They enter and remain in the second absorption ... third
+absorption ... fourth absorption. This pertains to their accomplishment
+in mind. This, Kassapa, is that accomplishment in mind.
+
+When their mind is immersed like this, they project it and extend it
+toward knowledge and vision ... This pertains to their accomplishment in
+wisdom. ... They understand: '... there is nothing further for this
+place.' This pertains to their accomplishment in wisdom. This, Kassapa,
+is that accomplishment in wisdom.
+
+And, Kassapa, there is no accomplishment in ethics, mind, and wisdom
+that is better or finer than this.
+
+### 6. The Lion's Roar  {#the-lions-roar .unnumbered}
+
+There are, Kassapa, some ascetics and brahmins who teach ethics. They
+praise ethical conduct in many ways. But as far as the highest noble
+ethics goes, I don't see anyone who's my equal, still less my superior.
+Rather, I am the one who is superior when it comes to the higher
+ethics.[^499]
+
+There are, Kassapa, some ascetics and brahmins who teach mortification
+in disgust of sin.[^500] They praise fervent mortification in disgust of
+sin in many ways. But as far as the highest noble fervent mortification
+in disgust of sin goes, I don't see anyone who's my equal, still less my
+superior. Rather, I am the one who is superior when it comes to the
+higher disgust of sin.[^501]
+
+There are, Kassapa, some ascetics and brahmins who teach wisdom. They
+praise wisdom in many ways. But as far as the highest noble wisdom goes,
+I don't see anyone who's my equal, still less my superior. Rather, I am
+the one who is superior when it comes to the higher wisdom.
+
+There are, Kassapa, some ascetics and brahmins who teach freedom. They
+praise freedom in many ways. But as far as the highest noble freedom
+goes, I don't see anyone who's my equal, still less my superior. Rather,
+I am the one who is superior when it comes to the higher freedom.
+
+It's possible that wanderers of other religions might say: 'The ascetic
+Gotama only roars his lion's roar in an empty hut, not in an
+assembly.'[^502] They should be told, 'Not so!' What should be said is
+this: 'The ascetic Gotama roars his lion's roar, and he roars it in the
+assemblies.'
+
+It's possible that wanderers of other religions might say: 'The ascetic
+Gotama roars his lion's roar, and he roars it in the assemblies. But he
+doesn't roar it boldly.' They should be told, 'Not so!' What should be
+said is this: 'The ascetic Gotama roars his lion's roar, he roars it in
+the assemblies, and he roars it boldly.'
+
+It's possible that wanderers of other religions might say: 'The ascetic
+Gotama roars his lion's roar, he roars it in the assemblies, and he
+roars it boldly. But they don't question him. ... Or he doesn't answer
+their questions. ... Or his answers are not satisfactory. ... Or they
+don't think him worth listening to. ... Or they're not confident after
+listening. ... Or they don't show their confidence. ... Or they don't
+practice accordingly. ... Or they don't succeed in their practice.' They
+should be told, 'Not so!' What should be said is this: 'The ascetic
+Gotama roars his lion's roar; he roars it in the assemblies; he roars it
+boldly; they question him; he answers their questions; his answers are
+satisfactory; they think him worth listening to; they're confident after
+listening; they show their confidence; they practice accordingly; and
+they succeed in their practice.'
+
+### 7. The Probation For One Previously Ordained  {#the-probation-for-one-previously-ordained .unnumbered}
+
+Kassapa, this one time I was staying near [Rājagaha]{lang="sa"}, on the
+Vulture's Peak Mountain. There a certain fervent celibate named Nigrodha
+asked me about the higher disgust of sin.[^503] I answered his question.
+He was extremely happy with my answer."
+
+"Sir, who wouldn't be extremely happy after hearing the Buddha's
+teaching? For I too am extremely happy after hearing the Buddha's
+teaching! Excellent, sir! Excellent! As if he were righting the
+overturned, or revealing the hidden, or pointing out the path to the
+lost, or lighting a lamp in the dark so people with clear eyes can see
+what's there, so too the Buddha has made the teaching clear in many
+ways. I go for refuge to the Buddha, to the teaching, and to the
+mendicant [Saṅgha]{lang="sa"}. Sir, may I receive the going forth, the
+ordination in the Buddha's presence?"
+
+"Kassapa, if someone formerly ordained in another sect wishes to take
+the going forth, the ordination in this teaching and training, they must
+spend four months on probation. When four months have passed, if the
+mendicants are satisfied, they'll give the going forth, the ordination
+into monkhood.[^504] However, I have recognized individual differences
+in this matter."[^505]
+
+"Sir, if four months probation are required in such a case, I'll spend
+four years on probation. When four years have passed, if the mendicants
+are satisfied, let them give me the going forth, the ordination into
+monkhood."
+
+And the naked ascetic Kassapa received the going forth, the ordination
+in the Buddha's presence. Not long after his ordination, Venerable
+Kassapa, living alone, withdrawn, diligent, keen, and resolute, soon
+realized the supreme end of the spiritual path in this very life. He
+lived having achieved with his own insight the goal for which gentlemen
+rightly go forth from the lay life to homelessness.
+
+He understood: "Rebirth is ended; the spiritual journey has been
+completed; what had to be done has been done; there is nothing further
+for this place." And Venerable Kassapa became one of the perfected.
+
+## N 9 With Poṭṭhapāda  *Poṭṭhapādasutta* {#n-9-with-poṭṭhapāda-poṭṭhapādasutta .unnumbered}
+
+### 1. On the Wanderer [Poṭṭhapāda]{lang="sa"}  {#on-the-wanderer-poṭṭhapāda .unnumbered}
+
+[So I have heard.]{.smallcaps} At one time the Buddha was staying near
+[Sāvatthī]{lang="sa"} in Jeta's Grove, [Anāthapiṇḍika]{lang="sa"}'s
+monastery.
+
+Now at that time the wanderer [Poṭṭhapāda]{lang="sa"} was residing
+together with three hundred wanderers in [Mallikā]{lang="sa"}'s
+single-halled monastery for philosophical debates, hedged by pale-moon
+ebony trees.[^506] Then the Buddha robed up in the morning and, taking
+his bowl and robe, entered [Sāvatthī]{lang="sa"} for alms.
+
+Then it occurred to him, "It's too early to wander for alms in
+[Sāvatthī]{lang="sa"}.[^507] Why don't I go to [Mallikā]{lang="sa"}'s
+monastery to visit the wanderer [Poṭṭhapāda]{lang="sa"}?"[^508] So
+that's what he did.
+
+Now at that time, [Poṭṭhapāda]{lang="sa"} was sitting together with a
+large assembly of wanderers making an uproar, a dreadful racket. They
+engaged in all kinds of low talk, such as[^509] talk about kings,
+bandits, and ministers; talk about armies, threats, and wars; talk about
+food, drink, clothes, and beds; talk about garlands and fragrances; talk
+about family, vehicles, villages, towns, cities, and countries; talk
+about women and heroes; street talk and well talk; talk about the
+departed; motley talk; tales of land and sea; and talk about being
+reborn in this or that place.
+
+[Poṭṭhapāda]{lang="sa"} saw the Buddha coming off in the distance, and
+hushed his own assembly, "Be quiet, good sirs, don't make a sound. Here
+comes the ascetic Gotama. The venerable likes quiet and praises quiet.
+Hopefully if he sees that our assembly is quiet he'll see fit to
+approach."[^510] Then those wanderers fell silent.
+
+Then the Buddha approached [Poṭṭhapāda]{lang="sa"}, who said to him,
+"Let the Blessed One come, sir![^511] Welcome to the Blessed One, sir!
+It's been a long time since you took the opportunity to come here.
+Please, sir, sit down, this seat is ready."
+
+The Buddha sat on the seat spread out, while [Poṭṭhapāda]{lang="sa"}
+took a low seat and sat to one side. The Buddha said to him,
+"[Poṭṭhapāda]{lang="sa"}, what were you sitting talking about just now?
+What conversation was left unfinished?"[^512]
+
+#### 1.1. On the Cessation of Perception  {#on-the-cessation-of-perception .unnumbered}
+
+When he said this, the wanderer [Poṭṭhapāda]{lang="sa"} said to the
+Buddha, "Sir, leave aside what we were sitting talking about just now.
+It won't be hard for you to hear about that later.
+
+Sir, a few days ago several ascetics and brahmins who follow various
+other religions were sitting together at the debating hall, and a
+discussion about the cessation of perception came up among them:[^513]
+'How does the cessation of perception happen?'[^514]
+
+Some of them said: 'A person's perceptions arise and cease without cause
+or reason.[^515] When they arise, you become percipient. When they
+cease, you become non-percipient.' That's how some describe the
+cessation of perception.
+
+But someone else says: 'That's not how it is, good sirs![^516]
+Perception is a person's self,[^517] which enters and departs. When it
+enters, you become percipient. When it departs, you become
+non-percipient.'[^518] That's how some describe the cessation of
+perception.
+
+But someone else says: 'That's not how it is, good sirs! There are
+ascetics and brahmins of great power and might.[^519] They insert and
+extract a person's perception.[^520] When they insert it, you become
+percipient. When they extract it, you become non-percipient.' That's how
+some describe the cessation of perception.
+
+But someone else says: 'That's not how it is, good sirs! There are
+deities of great power and might. They insert and extract a person's
+perception. When they insert it, you become percipient. When they
+extract it, you become non-percipient.' That's how some describe the
+cessation of perception.
+
+That reminded me of the Buddha: 'Surely it must be the Blessed One, the
+Holy One who is so very skilled in such matters.' The Buddha is skilled
+and well-versed concerning the cessation of perception.[^521] How does
+the cessation of perception happen?"
+
+#### 1.2. Perception Arises With a Cause  {#perception-arises-with-a-cause .unnumbered}
+
+"Regarding this, [Poṭṭhapāda]{lang="sa"}, those ascetics and brahmins
+who say that a person's perceptions arise and cease without cause or
+reason are wrong from the start. Why is that? Because a person's
+perceptions arise and cease with cause and reason. With training,
+certain perceptions arise and certain perceptions cease.[^522]
+
+And what is that training?" said the Buddha.[^523]
+
+"It's when a Realized One arises in the world, perfected, a fully
+awakened Buddha ... That's how a mendicant is accomplished in ethics.
+...[^524]
+
+Seeing that the hindrances have been given up in them, joy springs up.
+Being joyful, rapture springs up. When the mind is full of rapture, the
+body becomes tranquil. When the body is tranquil, they feel bliss. And
+when blissful, the mind becomes immersed.
+
+Quite secluded from sensual pleasures, secluded from unskillful
+qualities, they enter and remain in the first absorption, which has the
+rapture and bliss born of seclusion, while placing the mind and keeping
+it connected. The sensual perception that they had previously
+ceases.[^525] At that time they have a subtle and true perception of the
+rapture and bliss born of seclusion.[^526] That's how, with training,
+certain perceptions arise and certain perceptions cease. And this is
+that training," said the Buddha.
+
+"Furthermore, as the placing of the mind and keeping it connected are
+stilled, a mendicant enters and remains in the second absorption, which
+has the rapture and bliss born of immersion, with internal clarity and
+mind at one, without placing the mind and keeping it connected. The
+subtle and true perception of the rapture and bliss born of seclusion
+that they had previously ceases. At that time they have a subtle and
+true perception of the rapture and bliss born of immersion. That's how,
+with training, certain perceptions arise and certain perceptions cease.
+And this is that training," said the Buddha.
+
+"Furthermore, with the fading away of rapture, a mendicant enters and
+remains in the third absorption, where they meditate with equanimity,
+mindful and aware, personally experiencing the bliss of which the noble
+ones declare, 'Equanimous and mindful, one meditates in bliss.' The
+subtle and true perception of the rapture and bliss born of immersion
+that they had previously ceases. At that time they have a subtle and
+true perception of bliss with equanimity. That's how, with training,
+certain perceptions arise and certain perceptions cease. And this is
+that training," said the Buddha.
+
+"Furthermore, giving up pleasure and pain, and ending former happiness
+and sadness, a mendicant enters and remains in the fourth absorption,
+without pleasure or pain, with pure equanimity and mindfulness. The
+subtle and true perception of bliss with equanimity that they had
+previously ceases. At that time they have a subtle and true perception
+of neutral feeling. That's how, with training, certain perceptions arise
+and certain perceptions cease. And this is that training," said the
+Buddha.
+
+"Furthermore, a mendicant, going totally beyond perceptions of form,
+with the ending of perceptions of impingement, not focusing on
+perceptions of diversity, aware that 'space is infinite', enters and
+remains in the dimension of infinite space.[^527] The perception of
+luminous form that they had previously ceases.[^528] At that time they
+have a subtle and true perception of the dimension of infinite
+space.[^529] That's how, with training, certain perceptions arise and
+certain perceptions cease. And this is that training," said the Buddha.
+
+"Furthermore, a mendicant, going totally beyond the dimension of
+infinite space, aware that 'consciousness is infinite', enters and
+remains in the dimension of infinite consciousness.[^530] The subtle and
+true perception of the dimension of infinite space that they had
+previously ceases. At that time they have a subtle and true perception
+of the dimension of infinite consciousness. That's how, with training,
+certain perceptions arise and certain perceptions cease. And this is
+that training," said the Buddha.
+
+"Furthermore, a mendicant, going totally beyond the dimension of
+infinite consciousness, aware that 'there is nothing at all', enters and
+remains in the dimension of nothingness.[^531] The subtle and true
+perception of the dimension of infinite consciousness that they had
+previously ceases. At that time they have a subtle and true perception
+of the dimension of nothingness. That's how, with training, certain
+perceptions arise and certain perceptions cease.[^532] And this is that
+training," said the Buddha.
+
+"[Poṭṭhapāda]{lang="sa"}, from the time a mendicant here takes charge of
+their own perception, they proceed from one stage to the next,
+progressively reaching the peak of perception.[^533] Standing on the
+peak of perception they think, 'Intentionality is bad for me, it's
+better to be free of it. For if I were to intend and choose, these
+perceptions would cease in me, and other coarser perceptions would
+arise.[^534] Why don't I neither make a choice nor form an intention?'
+They neither make a choice nor form an intention. Those perceptions
+cease in them, and other coarser perceptions don't arise. They touch
+cessation. And that, [Poṭṭhapāda]{lang="sa"}, is how the progressive
+cessation of perception is attained with awareness.[^535]
+
+What do you think, [Poṭṭhapāda]{lang="sa"}? Have you ever heard of this
+before?"
+
+"No, sir.[^536] This is how I understand what the Buddha said:[^537]
+'From the time a mendicant here takes charge of their own perception,
+they proceed from one stage to the next, progressively reaching the peak
+of perception. Standing on the peak of perception they think,
+"Intentionality is bad for me, it's better to be free of it. For if I
+were to intend and choose, these perceptions would cease in me, and
+other coarser perceptions would arise. Why don't I neither make a choice
+nor form an intention?" Those perceptions cease in them, and other
+coarser perceptions don't arise. They touch cessation. And that is how
+the progressive cessation of perception is attained with awareness.'"
+
+"That's right, [Poṭṭhapāda]{lang="sa"}."
+
+"Does the Buddha describe just one peak of perception, or many?"
+
+"I describe the peak of perception as both one and many."
+
+"But sir, how do you describe it as one peak and as many?"
+
+"I describe the peak of perception according to the specific manner in
+which one touches cessation.[^538] That's how I describe the peak of
+perception as both one and many."
+
+"But sir, does perception arise first and knowledge afterwards? Or does
+knowledge arise first and perception afterwards? Or do they both arise
+at the same time?"[^539]
+
+"Perception arises first and knowledge afterwards. The arising of
+perception leads to the arising of knowledge.[^540] They understand, 'My
+knowledge arose from a specific condition.'[^541] That is a way to
+understand how perception arises first and knowledge afterwards; that
+the arising of perception leads to the arising of knowledge."
+
+#### 1.3. Perception and the Self  {#perception-and-the-self .unnumbered}
+
+"Sir, is perception a person's self, or are perception and self
+different things?"[^542]
+
+"But [Poṭṭhapāda]{lang="sa"}, do you believe in a self?"[^543]
+
+"I believe in a solid self, sir, which is formed, made up of the four
+principal states, and consumes solid food."[^544]
+
+"Suppose there were such a solid self, [Poṭṭhapāda]{lang="sa"}. In that
+case, perception would be one thing, the self another.[^545] Here is
+another way to understand how perception and self are different things.
+So long as that solid self remains, still some perceptions arise in a
+person and others cease.[^546] That is a way to understand how
+perception and self are different things."
+
+"Sir, I believe in a mind-made self which is whole in its major and
+minor limbs, not deficient in any faculty."[^547]
+
+"Suppose there were such a mind-made self, [Poṭṭhapāda]{lang="sa"}. In
+that case, perception would be one thing, the self another. Here is
+another way to understand how perception and self are different things.
+So long as that mind-made self remains, still some perceptions arise in
+a person and others cease. That too is a way to understand how
+perception and self are different things."
+
+"Sir, I believe in a formless self which is made of perception."[^548]
+
+"Suppose there were such a formless self, [Poṭṭhapāda]{lang="sa"}. In
+that case, perception would be one thing, the self another. Here is
+another way to understand how perception and self are different things.
+So long as that formless self remains, still some perceptions arise in a
+person and others cease. That too is a way to understand how perception
+and self are different things."
+
+"But, sir, am I able to know whether[^549] perception is a person's
+self, or whether perception and self are different things?"
+
+"It's hard for you to understand this, since you have a different view,
+creed, and belief, unless you dedicate yourself to practice with the
+guidance of tradition."[^550]
+
+"Well, if that's the case, sir, then what do you make of this: 'The
+cosmos is eternal. This is the only truth, anything else is
+futile'?"[^551]
+
+"This has not been declared by me, [Poṭṭhapāda]{lang="sa"}."
+
+"Then what do you make of this: 'The cosmos is not eternal. This is the
+only truth, anything else is futile'?"
+
+"This too has not been declared by me."
+
+"Then what do you make of this: 'The cosmos is finite ...' ... 'The
+cosmos is infinite ...' ... 'The soul and the body are the same thing
+...' ... 'The soul and the body are different things ...' ... 'A
+realized one still exists after death ...' ... 'A realized one no longer
+exists after death ...' ... 'A realized one both still exists and no
+longer exists after death ...' ... 'A Realized One neither still exists
+nor no longer exists after death. This is the only truth, anything else
+is futile'?"
+
+"This too has not been declared by me."
+
+"Why haven't these things been declared by the Buddha?"
+
+"Because they're not beneficial or relevant to the fundamentals of the
+spiritual life. They don't lead to disillusionment, dispassion,
+cessation, peace, insight, awakening, and extinguishment. That's why I
+haven't declared them."
+
+"Then what has been declared by the Buddha?"
+
+"I have declared this: 'This is suffering' ... 'This is the origin of
+suffering' ... 'This is the cessation of suffering' ... 'This is the
+practice that leads to the cessation of suffering'."
+
+"Why have these things been declared by the Buddha?"
+
+"Because they are beneficial and relevant to the fundamentals of the
+spiritual life. They lead to disillusionment, dispassion, cessation,
+peace, insight, awakening, and extinguishment. That's why I have
+declared them."
+
+"That's so true, Blessed One! That's so true, Holy One! Please, sir, go
+at your convenience." Then the Buddha got up from his seat and left.
+
+Soon after the Buddha left, those wanderers beset
+[Poṭṭhapāda]{lang="sa"} on all sides with sneering and jeering.[^552]
+"No matter what the ascetic Gotama says, [Poṭṭhapāda]{lang="sa"} agrees
+with him: 'That's so true, Blessed One! That's so true, Holy One!' We
+understand that the ascetic Gotama didn't give any categorical teaching
+at all regarding whether the cosmos is eternal and so on."
+
+When they said this, [Poṭṭhapāda]{lang="sa"} said to them, "I too
+understand that the ascetic Gotama didn't give any categorical teaching
+at all regarding whether the cosmos is eternal and so on. Nevertheless,
+the practice that he describes is true, real, and accurate. It is the
+regularity of natural principles, the invariance of natural principles.
+So how could a sensible person such as I not agree that what was well
+spoken by the ascetic Gotama was in fact well spoken?"
+
+### 2. On Citta [Hatthisāriputta]{lang="sa"}  {#on-citta-hatthisāriputta .unnumbered}
+
+Then after two or three days had passed, Citta
+[Hatthisāriputta]{lang="sa"} and [Poṭṭhapāda]{lang="sa"} went to see the
+Buddha. Citta [Hatthisāriputta]{lang="sa"} bowed and sat down to one
+side.[^553] But the wanderer [Poṭṭhapāda]{lang="sa"} exchanged greetings
+with the Buddha, and when the greetings and polite conversation were
+over, he sat down to one side. [Poṭṭhapāda]{lang="sa"} told the Buddha
+what had happened after he left. The Buddha said:
+
+"All those wanderers, [Poṭṭhapāda]{lang="sa"}, are blind and sightless.
+You are the only one whose eyes are clear. For I have taught and pointed
+out teachings that are categorical[^554] and also teachings that are not
+categorical.
+
+And what teachings have I taught and pointed out as not categorical?
+'The cosmos is eternal' ... 'The cosmos is not eternal' ... 'The cosmos
+is finite' ... 'The cosmos is infinite' ... 'The soul is the same thing
+as the body' ... 'The soul and the body are different things' ... 'A
+realized one still exists after death' ... 'A realized one no longer
+exists after death' ... 'A realized one both still exists and no longer
+exists after death' ... 'A realized one neither still exists nor no
+longer exists after death.'
+
+And why have I taught and pointed out such teachings as not categorical?
+Because those things aren't beneficial or relevant to the fundamentals
+of the spiritual life. They don't lead to disillusionment, dispassion,
+cessation, peace, insight, awakening, and extinguishment. That's why I
+have taught and pointed out such teachings as not categorical.
+
+#### 2.1. Teachings That Are Categorical  {#teachings-that-are-categorical .unnumbered}
+
+And what teachings have I taught and pointed out as categorical? 'This
+is suffering' ... 'This is the origin of suffering' ... 'This is the
+cessation of suffering' ... 'This is the practice that leads to the
+cessation of suffering'.
+
+And why have I taught and pointed out such teachings as categorical?
+Because they are beneficial and relevant to the fundamentals of the
+spiritual life. They lead to disillusionment, dispassion, cessation,
+peace, insight, awakening, and extinguishment. That's why I have taught
+and pointed out such teachings as categorical.
+
+There are some ascetics and brahmins who have this doctrine and view:
+'The self is perfectly happy and free of disease after death.'[^555] I
+go up to them and say, 'Is it really true that this is the venerables'
+view?'[^556] And they answer, 'Yes'. I say to them, 'But do you meditate
+knowing and seeing a perfectly happy world?'[^557] Asked this, they say,
+'No.'
+
+I say to them, 'But have you perceived a perfectly happy self for a
+single day or night, or even half a day or night?'[^558] Asked this,
+they say, 'No.'
+
+I say to them, 'But do you know a path and a practice to realize a
+perfectly happy world?'[^559] Asked this, they say, 'No.'
+
+I say to them, 'But have you ever heard the voice of the deities reborn
+in a perfectly happy world saying, "Practice well, dear sirs, practice
+sincerely so as to realize a perfectly happy world.[^560] For this is
+how we practiced, and we were reborn in a perfectly happy world"?' Asked
+this, they say, 'No.'
+
+What do you think, [Poṭṭhapāda]{lang="sa"}? This being so, doesn't what
+they say turn out to have no demonstrable basis?"[^561]
+
+"Clearly that's the case, sir."
+
+"Suppose, [Poṭṭhapāda]{lang="sa"}, a man were to say: 'Whoever the
+finest lady in the land is, it is her that I want, her that I
+desire!'[^562] They'd say to him, 'Mister, that finest lady in the land
+who you desire---do you know whether she's an aristocrat, a brahmin, a
+peasant, or a menial?' Asked this, he'd say, 'No.' They'd say to him,
+'Mister, that finest lady in the land who you desire---do you know her
+name or clan? Whether she's tall or short or medium? Whether her skin is
+black, brown, or tawny? What village, town, or city she comes from?'
+Asked this, he'd say, 'No.' They'd say to him, 'Mister, do you desire
+someone who you've never even known or seen?' Asked this, he'd say,
+'Yes.'
+
+What do you think, [Poṭṭhapāda]{lang="sa"}? This being so, doesn't that
+man's statement turn out to have no demonstrable basis?"
+
+"Clearly that's the case, sir."
+
+"In the same way, the ascetics and brahmins who have that doctrine and
+view ...
+
+Doesn't what they say turn out to have no demonstrable basis?"
+
+"Clearly that's the case, sir."
+
+"Suppose a man was to build a ladder at the crossroads for climbing up
+to a stilt longhouse.[^563] They'd say to him, 'Mister, that stilt
+longhouse that you're building a ladder for---do you know whether it's
+to the north, south, east, or west? Or whether it's tall or short or
+medium?' Asked this, he'd say, 'No.' They'd say to him, 'Mister, are you
+building a ladder for a longhouse that you've never even known or seen?'
+Asked this, he'd say, 'Yes.'
+
+What do you think, [Poṭṭhapāda]{lang="sa"}? This being so, doesn't that
+man's statement turn out to have no demonstrable basis?"
+
+"Clearly that's the case, sir."
+
+"In the same way, the ascetics and brahmins who have those various
+doctrines and views ...
+
+Doesn't what they say turn out to have no demonstrable basis?"
+
+"Clearly that's the case, sir."
+
+#### 2.2. Three Kinds of Reincarnation  {#three-kinds-of-reincarnation .unnumbered}
+
+"[Poṭṭhapāda]{lang="sa"}, there are these three kinds of reincarnation
+in a life-form:[^564] a solid life-form, a mind-made life-form, and a
+formless life-form.[^565] And what is reincarnation in a solid
+life-form? It is formed, made up of the four principal states, and
+consumes solid food. What is reincarnation in a mind-made life-form? It
+is formed, mind-made, whole in its major and minor limbs, not deficient
+in any faculty. What is reincarnation in a formless life-form? It is
+formless, made of perception.
+
+I teach the Dhamma for the giving up of reincarnation in these three
+kinds of life-form. 'When you practice accordingly, corrupting qualities
+will be given up in you and cleansing qualities will grow. You'll enter
+and remain in the fullness and abundance of wisdom, having realized it
+with your own insight in this very life.' [Poṭṭhapāda]{lang="sa"}, you
+might think: 'Corrupting qualities will be given up and cleansing
+qualities will grow. One will enter and remain in the fullness and
+abundance of wisdom, having realized it with one's own insight in this
+very life. But such a life is suffering.'[^566] But you should not see
+it like this. Corrupting qualities will be given up and cleansing
+qualities will grow. One will enter and remain in the fullness and
+abundance of wisdom, having realized it with one's own insight in this
+very life. And there will be only joy and happiness, tranquility,
+mindfulness and awareness. Such a life is blissful.
+
+[Poṭṭhapāda]{lang="sa"}, if others should ask us, 'But reverends, what
+is that reincarnation in a solid life-form for the giving up of which
+you teach?' We'd answer like this, '*This* is that reincarnation in a
+solid life-form.'
+
+If others should ask us, 'But reverends, what is that reincarnation in a
+mind-made life-form?' We'd answer like this, '*This* is that
+reincarnation in a mind-made life-form.'[^567]
+
+If others should ask us, 'But reverends, what is that reincarnation in a
+formless life-form?' We'd answer like this, '*This* is that
+reincarnation in a formless life-form.'
+
+What do you think, [Poṭṭhapāda]{lang="sa"}? This being so, doesn't that
+statement turn out to have a demonstrable basis?"
+
+"Clearly that's the case, sir."
+
+"Suppose a man were to build a ladder for climbing up to a stilt
+longhouse right underneath that longhouse. They'd say to him, 'Mister,
+that stilt longhouse that you're building a ladder for---do you know
+whether it's to the north, south, east, or west? Or whether it's tall or
+short or medium?' He'd say, 'This is that stilt longhouse for which I'm
+building a ladder, right underneath it.'
+
+What do you think, [Poṭṭhapāda]{lang="sa"}? This being so, doesn't that
+man's statement turn out to have a demonstrable basis?"
+
+"Clearly that's the case, sir."
+
+When the Buddha had spoken, Citta [Hatthisāriputta]{lang="sa"} said,
+"Sir, when reincarnated in a solid life-form, are the mind-made and
+formless life-forms fictitious,[^568] and only the solid life-form real?
+When reincarnated in a mind-made life-form, are the solid and formless
+life-forms fictitious, and only the mind-made life-form real? When
+reincarnated in a formless life-form, are the solid and mind-made
+life-forms fictitious, and only the formless life-form real?"
+
+"When reincarnated in a solid life-form, it's not referred to as a
+mind-made or formless life-form,[^569] only as a solid life-form. When
+reincarnated in a mind-made life-form, it's not referred to as a solid
+or formless life-form, only as a mind-made life-form. When reincarnated
+in a formless life-form, it's not referred to as a solid or mind-made
+life-form, only as a formless life-form.
+
+Citta, suppose they were to ask you, 'Did you exist in the past?[^570]
+Will you exist in the future? Do you exist now?' How would you answer?"
+
+"Sir, if they were to ask me this, I'd answer like this, 'I did exist in
+the past. I will exist in the future. I do exist now.' That's how I'd
+answer."
+
+"But Citta, suppose they were to ask you, 'Is the reincarnation you had
+in the past your only real one, and those of the future and present
+fictitious? Is the reincarnation you will have in the future your only
+real one, and those of the past and present fictitious? Is the
+reincarnation you have now your only real one, and those of the past and
+future fictitious?' How would you answer?"
+
+"Sir, if they were to ask me this, I'd answer like this, 'The
+reincarnation I had in the past was real at that time, and those of the
+future and present fictitious. The reincarnation I will have in the
+future will be real at the time, and those of the past and present
+fictitious. The reincarnation I have now is real at this time, and those
+of the past and future fictitious.' That's how I'd answer."
+
+"In the same way, while in any one of the three reincarnations, it's not
+referred to as the other two, only under its own name.
+
+From a cow comes milk, from milk comes curds, from curds come butter,
+from butter comes ghee, and from ghee comes cream of ghee. And the cream
+of ghee is said to be the best of these.[^571] While it's milk, it's not
+referred to as curds, butter, ghee, or cream of ghee. It's only referred
+to as milk. While it's curd or butter or ghee or cream of ghee, it's not
+referred to as anything else, only under its own name. In the same way,
+while in any one of the three reincarnations, it's not referred to as
+the other two, only under its own name. These are the world's common
+usages, terms, means of communication, and descriptions, which the
+Realized One uses to communicate without getting stuck on them."[^572]
+
+When he had spoken, the wanderer [Poṭṭhapāda]{lang="sa"} said to the
+Buddha, "Excellent, sir! Excellent! As if he were righting the
+overturned, or revealing the hidden, or pointing out the path to the
+lost, or lighting a lamp in the dark so people with clear eyes can see
+what's there, so too the Buddha has made the teaching clear in many
+ways. I go for refuge to the Buddha, to the teaching, and to the
+mendicant [Saṅgha]{lang="sa"}. From this day forth, may the Buddha
+remember me as a lay follower who has gone for refuge for life."
+
+#### 2.3. The Ordination of Citta [Hatthisāriputta]{lang="sa"}  {#the-ordination-of-citta-hatthisāriputta .unnumbered}
+
+But Citta [Hatthisāriputta]{lang="sa"} said to the Buddha, "Excellent,
+sir! Excellent! As if he were righting the overturned, or revealing the
+hidden, or pointing out the path to the lost, or lighting a lamp in the
+dark so people with clear eyes can see what's there, so too the Buddha
+has made the teaching clear in many ways. I go for refuge to the Buddha,
+to the teaching, and to the mendicant [Saṅgha]{lang="sa"}. Sir, may I
+receive the going forth, the ordination in the Buddha's presence?"
+
+And Citta [Hatthisāriputta]{lang="sa"} received the going forth, the
+ordination in the Buddha's presence. Not long after his ordination,
+Venerable Citta [Hatthisāriputta]{lang="sa"}, living alone, withdrawn,
+diligent, keen, and resolute, soon realized the supreme end of the
+spiritual path in this very life. He lived having achieved with his own
+insight the goal for which gentlemen rightly go forth from the lay life
+to homelessness.[^573] He understood: "Rebirth is ended; the spiritual
+journey has been completed; what had to be done has been done; there is
+nothing further for this place." And Venerable Citta
+[Hatthisāriputta]{lang="sa"} became one of the perfected.
+
+## N 10 With Subha  *Subhasutta* {#n-10-with-subha-subhasutta .unnumbered}
+
+[So I have heard.]{.smallcaps} At one time Venerable Ānanda was staying
+near [Sāvatthī]{lang="sa"} in Jeta's Grove, [Anāthapiṇḍika]{lang="sa"}'s
+monastery. It was not long after the Buddha had become fully
+quenched.[^574]
+
+Now at that time the student Subha, Todeyya's son, was residing in
+[Sāvatthī]{lang="sa"} on some business.[^575] Then he addressed a
+certain young student, "Here, young student, go to the ascetic Ānanda
+and in my name bow with your head to his feet. Ask him if he is healthy
+and well, nimble, strong, and living comfortably. And then say: 'Sir,
+please visit the student Subha, Todeyya's son, at his home out of
+sympathy.'"
+
+"Yes, sir," replied the young student, and did as he was asked.
+
+When he had spoken, Venerable Ānanda said to him, "It's not the right
+time, young student. I have drunk a dose of medicine today.[^576] But
+hopefully tomorrow I'll get a chance to visit him."
+
+"Yes, sir," replied the young student. He went back to Subha, and told
+him what had happened, adding, "This much, sir, I managed to do. At
+least Mister Ānanda will take the opportunity to visit tomorrow."
+
+Then when the night had passed, Ānanda robed up in the morning and,
+taking his bowl and robe, went with Venerable Cetaka as his second monk
+to Subha's home, where he sat on the seat spread out. Then Subha went up
+to Ānanda, and exchanged greetings with him.[^577] When the greetings
+and polite conversation were over, he sat down to one side and said to
+Ānanda:
+
+"Mister Ānanda, you were Mister Gotama's attendant. You were close to
+him, living in his presence. You ought to know what things Mister Gotama
+praised, and in which he encouraged, settled, and grounded all these
+people. What were those things?"
+
+"Student, the Buddha praised three spectrums of practice, and that's
+what he encouraged, settled, and grounded all these people in. What
+three? The entire spectrum of noble ethics, immersion, and wisdom.[^578]
+These are the three spectrums of practice that the Buddha praised."
+
+### 1. The Entire Spectrum of Ethics  {#the-entire-spectrum-of-ethics .unnumbered}
+
+"But what was that entire spectrum of noble ethics that the Buddha
+praised?"
+
+"Student, it's when a Realized One arises in the world, perfected, a
+fully awakened Buddha, accomplished in knowledge and conduct, holy,
+knower of the world, supreme guide for those who wish to train, teacher
+of gods and humans, awakened, blessed. He has realized with his own
+insight this world---with its gods, [Māras]{lang="sa"}, and divinities,
+this population with its ascetics and brahmins, gods and humans---and he
+makes it known to others. He proclaims a teaching that is good in the
+beginning, good in the middle, and good in the end, meaningful and
+well-phrased. And he reveals a spiritual practice that's entirely full
+and pure. A householder hears that teaching, or a householder's child,
+or someone reborn in a good family. They gain faith in the Realized One
+and reflect: 'Life at home is cramped and dirty, life gone forth is wide
+open. It's not easy for someone living at home to lead the spiritual
+life utterly full and pure, like a polished shell. Why don't I shave off
+my hair and beard, dress in ocher robes, and go forth from the lay life
+to homelessness?' After some time they give up a large or small fortune,
+and a large or small family circle. They shave off hair and beard, dress
+in ocher robes, and go forth from the lay life to homelessness. Once
+they've gone forth, they live restrained in the monastic code,
+conducting themselves well and resorting for alms in suitable places.
+Seeing danger in the slightest fault, they keep the rules they've
+undertaken. They act skillfully by body and speech. They're purified in
+livelihood and accomplished in ethical conduct. They guard the sense
+doors, have mindfulness and situational awareness, and are content.
+
+And how is a mendicant accomplished in ethics? It's when a mendicant
+gives up killing living creatures. They renounce the rod and the sword.
+They're scrupulous and kind, living full of sympathy for all living
+beings. ...
+
+This pertains to their ethics.
+
+There are some ascetics and brahmins who, while enjoying food given in
+faith, still earn a living by low lore, by wrong livelihood. This
+includes rites for propitiation, for granting wishes, for ghosts, for
+the earth, for rain, for property settlement, and for preparing and
+consecrating house sites, and rites involving rinsing and bathing, and
+oblations. It also includes administering emetics, purgatives,
+expectorants, and phlegmagogues; administering ear-oils, eye
+restoratives, nasal medicine, ointments, and counter-ointments; surgery
+with needle and scalpel, treating children, prescribing root medicines,
+and binding on herbs. They refrain from such low lore, such wrong
+livelihood. ... This pertains to their ethics.
+
+A mendicant thus accomplished in ethics sees no danger in any quarter in
+regards to their ethical restraint. It's like a king who has defeated
+his enemies. He sees no danger from his foes in any quarter. A mendicant
+thus accomplished in ethics sees no danger in any quarter in regards to
+their ethical restraint. When they have this entire spectrum of noble
+ethics, they experience a blameless happiness inside themselves. That's
+how a mendicant is accomplished in ethics.
+
+This is that entire spectrum of noble ethics that the Buddha praised.
+But there is still more to be done."
+
+"It's incredible, Mister Ānanda, it's amazing, This entire spectrum of
+noble ethics is complete, not lacking anything! Such a complete spectrum
+of ethics cannot be seen among the other ascetics and brahmins. Were
+other ascetics and brahmins to see such an entire spectrum of noble
+ethics in themselves, they'd be delighted with just that much: 'This is
+sufficient; enough has been done. We've reached the goal of our ascetic
+life. There is nothing more to be done.' And yet you say: 'But there is
+still more to be done.'
+
+### 2. The Spectrum of Immersion  {#the-spectrum-of-immersion .unnumbered}
+
+But what, Mister Ānanda, was that noble spectrum of immersion that the
+Buddha praised?"[^579]
+
+"And how, student, does a mendicant guard the sense doors? When a
+mendicant sees a sight with their eyes, they don't get caught up in the
+features and details. If the faculty of sight were left unrestrained,
+bad unskillful qualities of covetousness and displeasure would become
+overwhelming. For this reason, they practice restraint, protecting the
+faculty of sight, and achieving its restraint. When they hear a sound
+with their ears ... When they smell an odor with their nose ... When
+they taste a flavor with their tongue ... When they feel a touch with
+their body ... When they know an idea with their mind, they don't get
+caught up in the features and details. If the faculty of mind were left
+unrestrained, bad unskillful qualities of covetousness and displeasure
+would become overwhelming. For this reason, they practice restraint,
+protecting the faculty of mind, and achieving its restraint. When they
+have this noble sense restraint, they experience an unsullied bliss
+inside themselves. That's how a mendicant guards the sense doors.
+
+And how does a mendicant have mindfulness and situational awareness?
+It's when a mendicant acts with situational awareness when going out and
+coming back; when looking ahead and aside; when bending and extending
+the limbs; when bearing the outer robe, bowl and robes; when eating,
+drinking, chewing, and tasting; when urinating and defecating; when
+walking, standing, sitting, sleeping, waking, speaking, and keeping
+silent. That's how a mendicant has mindfulness and situational
+awareness.
+
+And how is a mendicant content? It's when a mendicant is content with
+robes to look after the body and almsfood to look after the belly.
+Wherever they go, they set out taking only these things. They're like a
+bird: wherever it flies, wings are its only burden. In the same way, a
+mendicant is content with robes to look after the body and almsfood to
+look after the belly. Wherever they go, they set out taking only these
+things. That's how a mendicant is content.
+
+When they have this entire spectrum of noble ethics, this noble sense
+restraint, this noble mindfulness and situational awareness, and this
+noble contentment, they frequent a secluded lodging---a wilderness, the
+root of a tree, a hill, a ravine, a mountain cave, a charnel ground, a
+forest, the open air, a heap of straw. After the meal, they return from
+almsround, sit down cross-legged, set their body straight, and establish
+mindfulness in their presence.
+
+Giving up covetousness for the world, they meditate with a heart rid of
+covetousness, cleansing the mind of covetousness. Giving up ill will and
+malevolence, they meditate with a mind rid of ill will, full of sympathy
+for all living beings, cleansing the mind of ill will. Giving up
+dullness and drowsiness, they meditate with a mind rid of dullness and
+drowsiness, perceiving light, mindful and aware, cleansing the mind of
+dullness and drowsiness. Giving up restlessness and remorse, they
+meditate without restlessness, their mind peaceful inside, cleansing the
+mind of restlessness and remorse. Giving up doubt, they meditate having
+gone beyond doubt, not undecided about skillful qualities, cleansing the
+mind of doubt.
+
+Suppose a man who has gotten into debt were to apply himself to work,
+and his efforts proved successful. He would pay off the original loan
+and have enough left over to support his partner. Thinking about this,
+he'd be filled with joy and happiness.
+
+Suppose there was a person who was sick, suffering, gravely ill. They'd
+lose their appetite and get physically weak. But after some time they'd
+recover from that illness, and regain their appetite and their strength.
+Thinking about this, they'd be filled with joy and happiness.
+
+Suppose a person was imprisoned in a jail. But after some time they were
+released from jail, safe and sound, with no loss of wealth. Thinking
+about this, they'd be filled with joy and happiness.
+
+Suppose a person was a bondservant. They would not be their own master,
+but indentured to another, unable to go where they wish. But after some
+time they'd be freed from servitude. They would be their own master, not
+indentured to another, an emancipated individual able to go where they
+wish. Thinking about this, they'd be filled with joy and happiness.
+
+Suppose there was a person with wealth and property who was traveling
+along a desert road, which was perilous, with nothing to eat. But after
+some time they crossed over the desert safely, arriving within a
+village, a sanctuary free of peril. Thinking about this, they'd be
+filled with joy and happiness.
+
+In the same way, as long as these five hindrances are not given up
+inside themselves, a mendicant regards them as a debt, a disease, a
+prison, slavery, and a desert crossing.
+
+But when these five hindrances are given up inside themselves, a
+mendicant regards this as freedom from debt, good health, release from
+prison, emancipation, and a place of sanctuary at last.
+
+Seeing that the hindrances have been given up in them, joy springs up.
+Being joyful, rapture springs up. When the mind is full of rapture, the
+body becomes tranquil. When the body is tranquil, they feel bliss. And
+when blissful, the mind becomes immersed.
+
+Quite secluded from sensual pleasures, secluded from unskillful
+qualities, they enter and remain in the first absorption, which has the
+rapture and bliss born of seclusion, while placing the mind and keeping
+it connected. They drench, steep, fill, and spread their body with
+rapture and bliss born of seclusion. There's no part of the body that's
+not spread with rapture and bliss born of seclusion.
+
+It's like when a deft bathroom attendant or their apprentice pours bath
+powder into a bronze dish, sprinkling it little by little with water.
+They knead it until the ball of bath powder is soaked and saturated with
+moisture, spread through inside and out; yet no moisture oozes out.
+
+In the same way, a mendicant drenches, steeps, fills, and spreads their
+body with rapture and bliss born of seclusion. There's no part of the
+body that's not spread with rapture and bliss born of seclusion. This
+pertains to their immersion.
+
+Furthermore, as the placing of the mind and keeping it connected are
+stilled, a mendicant enters and remains in the second absorption, which
+has the rapture and bliss born of immersion, with internal clarity and
+mind at one, without placing the mind and keeping it connected. They
+drench, steep, fill, and spread their body with rapture and bliss born
+of immersion. There's no part of the body that's not spread with rapture
+and bliss born of immersion.
+
+It's like a deep lake fed by spring water. There's no inlet to the east,
+west, north, or south, and the heavens would not properly bestow showers
+from time to time. But the stream of cool water welling up in the lake
+drenches, steeps, fills, and spreads throughout the lake. There's no
+part of the lake that's not spread through with cool water.
+
+In the same way, a mendicant drenches, steeps, fills, and spreads their
+body with rapture and bliss born of immersion. There's no part of the
+body that's not spread with rapture and bliss born of immersion. This
+pertains to their immersion.
+
+Furthermore, with the fading away of rapture, a mendicant enters and
+remains in the third absorption, where they meditate with equanimity,
+mindful and aware, personally experiencing the bliss of which the noble
+ones declare, 'Equanimous and mindful, one meditates in bliss.' They
+drench, steep, fill, and spread their body with bliss free of rapture.
+There's no part of the body that's not spread with bliss free of
+rapture.
+
+It's like a pool with blue water lilies, or pink or white lotuses. Some
+of them sprout and grow in the water without rising above it, thriving
+underwater. From the tip to the root they're drenched, steeped, filled,
+and soaked with cool water. There's no part of them that's not soaked
+with cool water.
+
+In the same way, a mendicant drenches, steeps, fills, and spreads their
+body with bliss free of rapture. There's no part of the body that's not
+spread with bliss free of rapture. This pertains to their immersion.
+
+Furthermore, giving up pleasure and pain, and ending former happiness
+and sadness, a mendicant enters and remains in the fourth absorption,
+without pleasure or pain, with pure equanimity and mindfulness. They sit
+spreading their body through with pure bright mind. There's no part of
+the body that's not spread with pure bright mind.
+
+It's like someone sitting wrapped from head to foot with white cloth.
+There's no part of the body that's not spread over with white cloth.
+
+In the same way, a mendicant sits spreading their body through with pure
+bright mind. There's no part of their body that's not spread with pure
+bright mind. This pertains to their immersion.
+
+This is that noble spectrum of immersion that the Buddha praised. But
+there is still more to be done."
+
+"It's incredible, Mister Ānanda, it's amazing! This noble spectrum of
+immersion is complete, not lacking anything! Such a complete spectrum of
+immersion cannot be seen among the other ascetics and brahmins. Were
+other ascetics and brahmins to see such a complete spectrum of noble
+immersion in themselves, they'd be delighted with just that much: 'This
+is sufficient; enough has been done. We've reached the goal of our
+ascetic life. There is nothing more to be done.' And yet you say: 'But
+there is still more to be done.'
+
+### 3. The Spectrum of Wisdom  {#the-spectrum-of-wisdom .unnumbered}
+
+But what, Mister Ānanda, was that spectrum of noble wisdom that the
+Buddha praised?"
+
+"When their mind has become immersed in [samādhi]{lang="sa"} like
+this---purified, bright, flawless, rid of corruptions, pliable,
+workable, steady, and imperturbable---they project it and extend it
+toward knowledge and vision. They understand: 'This body of mine is
+formed. It's made up of the four principal states, produced by mother
+and father, built up from rice and porridge, liable to impermanence, to
+wearing away and erosion, to breaking up and destruction. And this
+consciousness of mine is attached to it, tied to it.'
+
+Suppose there was a beryl gem that was naturally beautiful,
+eight-faceted, well-worked, transparent, clear, and unclouded, endowed
+with all good qualities. And it was strung with a thread of blue,
+yellow, red, white, or golden brown. And someone with clear eyes were to
+take it in their hand and examine it: 'This beryl gem is naturally
+beautiful, eight-faceted, well-worked, transparent, clear, and
+unclouded, endowed with all good qualities. And it's strung with a
+thread of blue, yellow, red, white, or golden brown.'
+
+In the same way, when their mind has become immersed in
+[samādhi]{lang="sa"} like this---purified, bright, flawless, rid of
+corruptions, pliable, workable, steady, and imperturbable---they project
+it and extend it toward knowledge and vision. This pertains to their
+wisdom.
+
+When their mind has become immersed in [samādhi]{lang="sa"} like
+this---purified, bright, flawless, rid of corruptions, pliable,
+workable, steady, and imperturbable---they project it and extend it
+toward the creation of a mind-made body. From this body they create
+another body---formed, mind-made, whole in its major and minor limbs,
+not deficient in any faculty.
+
+Suppose a person was to draw a reed out from its sheath. They'd think:
+'This is the reed, this is the sheath. The reed and the sheath are
+different things. The reed has been drawn out from the sheath.' Or
+suppose a person was to draw a sword out from its scabbard. They'd
+think: 'This is the sword, this is the scabbard. The sword and the
+scabbard are different things. The sword has been drawn out from the
+scabbard.' Or suppose a person was to draw a snake out from its slough.
+They'd think: 'This is the snake, this is the slough. The snake and the
+slough are different things. The snake has been drawn out from the
+slough.'
+
+In the same way, when their mind has become immersed in
+[samādhi]{lang="sa"} like this---purified, bright, flawless, rid of
+corruptions, pliable, workable, steady, and imperturbable---they project
+it and extend it toward the creation of a mind-made body. This pertains
+to their wisdom.
+
+When their mind has become immersed in [samādhi]{lang="sa"} like
+this---purified, bright, flawless, rid of corruptions, pliable,
+workable, steady, and imperturbable---they project it and extend it
+toward psychic power. They wield the many kinds of psychic power:
+multiplying themselves and becoming one again; appearing and
+disappearing; going unobstructed through a wall, a rampart, or a
+mountain as if through space; diving in and out of the earth as if it
+were water; walking on water as if it were earth; flying cross-legged
+through the sky like a bird; touching and stroking with the hand the sun
+and moon, so mighty and powerful; controlling the body as far as the
+realm of divinity.
+
+Suppose a deft potter or their apprentice had some well-prepared clay.
+They could produce any kind of pot that they like. Or suppose a deft
+ivory-carver or their apprentice had some well-prepared ivory. They
+could produce any kind of ivory item that they like. Or suppose a deft
+goldsmith or their apprentice had some well-prepared gold. They could
+produce any kind of gold item that they like.
+
+In the same way, when their mind has become immersed in
+[samādhi]{lang="sa"} like this---purified, bright, flawless, rid of
+corruptions, pliable, workable, steady, and imperturbable---they project
+it and extend it toward psychic power. This pertains to their wisdom.
+
+When their mind has become immersed in [samādhi]{lang="sa"} like
+this---purified, bright, flawless, rid of corruptions, pliable,
+workable, steady, and imperturbable---they project it and extend it
+toward clairaudience. With clairaudience that is purified and
+superhuman, they hear both kinds of sounds, human and heavenly, whether
+near or far. Suppose there was a person traveling along the road. They'd
+hear the sound of drums, clay drums, horns, kettledrums, and tom-toms.
+They'd think: 'That's the sound of drums,' and 'that's the sound of clay
+drums,' and 'that's the sound of horns, kettledrums, and tom-toms.'
+
+In the same way, when their mind has become immersed in
+[samādhi]{lang="sa"} like this---purified, bright, flawless, rid of
+corruptions, pliable, workable, steady, and imperturbable---they project
+it and extend it toward clairaudience. This pertains to their wisdom.
+
+When their mind has become immersed in [samādhi]{lang="sa"} like
+this---purified, bright, flawless, rid of corruptions, pliable,
+workable, steady, and imperturbable---they project it and extend it
+toward comprehending the minds of others. They understand mind with
+greed as 'mind with greed', and mind without greed as 'mind without
+greed'. They understand mind with hate ... mind without hate ... mind
+with delusion ... mind without delusion ... constricted mind ...
+scattered mind ... expansive mind ... unexpansive mind ... mind that is
+not supreme ... mind that is supreme ... immersed mind ... unimmersed
+mind ... freed mind ... They understand unfreed mind as 'unfreed mind'.
+
+Suppose there was a woman or man who was young, youthful, and fond of
+adornments, and they check their own reflection in a clean bright mirror
+or a clear bowl of water. If they had a spot they'd know 'I have a
+spot,' and if they had no spots they'd know 'I have no spots.'
+
+In the same way, when their mind has become immersed in
+[samādhi]{lang="sa"} like this---purified, bright, flawless, rid of
+corruptions, pliable, workable, steady, and imperturbable---they project
+it and extend it toward comprehending the minds of others. This pertains
+to their wisdom.
+
+When their mind has become immersed in [samādhi]{lang="sa"} like
+this---purified, bright, flawless, rid of corruptions, pliable,
+workable, steady, and imperturbable---they project it and extend it
+toward recollection of past lives. They recollect many kinds of past
+lives, that is, one, two, three, four, five, ten, twenty, thirty, forty,
+fifty, a hundred, a thousand, a hundred thousand rebirths; many eons of
+the world contracting, many eons of the world expanding, many eons of
+the world contracting and expanding. They remember: 'There, I was named
+this, my clan was that, I looked like this, and that was my food. This
+was how I felt pleasure and pain, and that was how my life ended. When I
+passed away from that place I was reborn somewhere else. There, too, I
+was named this, my clan was that, I looked like this, and that was my
+food. This was how I felt pleasure and pain, and that was how my life
+ended. When I passed away from that place I was reborn here.' And so
+they recollect their many kinds of past lives, with features and
+details.
+
+Suppose a person was to leave their home village and go to another
+village. From that village they'd go to yet another village. And from
+that village they'd return to their home village. They'd think: 'I went
+from my home village to another village. There I stood like this, sat
+like that, spoke like this, or kept silent like that. From that village
+I went to yet another village. There too I stood like this, sat like
+that, spoke like this, or kept silent like that. And from that village I
+returned to my home village.'
+
+In the same way, when their mind has become immersed in
+[samādhi]{lang="sa"} like this---purified, bright, flawless, rid of
+corruptions, pliable, workable, steady, and imperturbable---they project
+it and extend it toward recollection of past lives. This pertains to
+their wisdom.
+
+When their mind has become immersed in [samādhi]{lang="sa"} like
+this---purified, bright, flawless, rid of corruptions, pliable,
+workable, steady, and imperturbable---they project it and extend it
+toward knowledge of the death and rebirth of sentient beings. With
+clairvoyance that is purified and superhuman, they see sentient beings
+passing away and being reborn---inferior and superior, beautiful and
+ugly, in a good place or a bad place. They understand how sentient
+beings are reborn according to their deeds. 'These dear beings did bad
+things by way of body, speech, and mind. They denounced the noble ones;
+they had wrong view; and they chose to act out of that wrong view. When
+their body breaks up, after death, they're reborn in a place of loss, a
+bad place, the underworld, hell. These dear beings, however, did good
+things by way of body, speech, and mind. They never denounced the noble
+ones; they had right view; and they chose to act out of that right view.
+When their body breaks up, after death, they're reborn in a good place,
+a heavenly realm.' And so, with clairvoyance that is purified and
+superhuman, they see sentient beings passing away and being
+reborn---inferior and superior, beautiful and ugly, in a good place or a
+bad place. They understand how sentient beings are reborn according to
+their deeds.
+
+Suppose there was a stilt longhouse at the central square. A person with
+clear eyes standing there might see people entering and leaving a house,
+walking along the streets and paths, and sitting at the central square.
+They'd think: 'These are people entering and leaving a house, walking
+along the streets and paths, and sitting at the central square.'
+
+In the same way, when their mind has become immersed in
+[samādhi]{lang="sa"} like this---purified, bright, flawless, rid of
+corruptions, pliable, workable, steady, and imperturbable---they project
+and extend it toward knowledge of the death and rebirth of sentient
+beings. This pertains to their wisdom.
+
+When their mind has become immersed in [samādhi]{lang="sa"} like
+this---purified, bright, flawless, rid of corruptions, pliable,
+workable, steady, and imperturbable---they project it and extend it
+toward knowledge of the ending of defilements. They truly understand:
+'This is suffering' ... 'This is the origin of suffering' ... 'This is
+the cessation of suffering' ... 'This is the practice that leads to the
+cessation of suffering'. They truly understand: 'These are defilements'
+... 'This is the origin of defilements' ... 'This is the cessation of
+defilements' ... 'This is the practice that leads to the cessation of
+defilements'. Knowing and seeing like this, their mind is freed from the
+defilements of sensuality, desire to be reborn, and ignorance. When
+they're freed, they know they're freed.
+
+They understand: 'Rebirth is ended, the spiritual journey has been
+completed, what had to be done has been done, there is nothing further
+for this place.'
+
+Suppose that in a mountain glen there was a lake that was transparent,
+clear, and unclouded. A person with clear eyes standing on the bank
+would see the clams and mussels, and pebbles and gravel, and schools of
+fish swimming about or staying still. They'd think: 'This lake is
+transparent, clear, and unclouded. And here are the clams and mussels,
+and pebbles and gravel, and schools of fish swimming about or staying
+still.'
+
+In the same way, when their mind has become immersed in
+[samādhi]{lang="sa"} like this---purified, bright, flawless, rid of
+corruptions, pliable, workable, steady, and imperturbable---they project
+it and extend it toward knowledge of the ending of defilements. This
+pertains to their wisdom.
+
+This is that spectrum of noble wisdom that the Buddha praised. And there
+is nothing more to be done."
+
+"It's incredible, Mister Ānanda, it's amazing! This noble spectrum of
+wisdom is complete, not lacking anything! Such a complete spectrum of
+wisdom cannot be seen among the other ascetics and brahmins. And there
+is nothing more to be done. Excellent, Mister Ānanda! Excellent! As if
+he were righting the overturned, or revealing the hidden, or pointing
+out the path to the lost, or lighting a lamp in the dark so people with
+clear eyes can see what's there, Mister Ānanda has made the teaching
+clear in many ways. I go for refuge to Mister Gotama, to the teaching,
+and to the mendicant [Saṅgha]{lang="sa"}.[^580] From this day forth, may
+Mister Ānanda remember me as a lay follower who has gone for refuge for
+life."
+
+## N 11 With Kevaḍḍha  *Kevaṭṭasutta* {#n-11-with-kevaḍḍha-kevaṭṭasutta .unnumbered}
+
+[So I have heard.]{.smallcaps} At one time the Buddha was staying near
+[Nāḷandā]{lang="sa"} in [Pāvārika]{lang="sa"}'s mango grove.[^581]
+
+Then the householder [Kevaḍḍha]{lang="sa"} went up to the Buddha, bowed,
+sat down to one side, and said to him,[^582] "Sir, this
+[Nāḷandā]{lang="sa"} is successful and prosperous, populous, full of
+people. Please direct a mendicant to perform a superhuman demonstration
+of psychic power.[^583] Then [Nāḷandā]{lang="sa"} will become even more
+devoted to the Buddha!"
+
+When he said this, the Buddha said, "[Kevaḍḍha]{lang="sa"}, I do not
+teach Dhamma to the mendicants like this: 'Come now, mendicants, perform
+a superhuman demonstration of psychic power for the white-clothed
+laypeople.'"[^584]
+
+For a second time, [Kevaḍḍha]{lang="sa"} made the same request, "Sir, I
+am not teaching you the Dhamma,[^585] but nonetheless I say: 'Sir, this
+[Nāḷandā]{lang="sa"} is successful and prosperous, populous, full of
+people. Please direct a mendicant to perform a superhuman demonstration
+of psychic power. Then [Nāḷandā]{lang="sa"} will become even more
+devoted to the Buddha!'" But for a second time, the Buddha gave the same
+answer.
+
+For a third time, [Kevaḍḍha]{lang="sa"} made the same request, at which
+the Buddha said the following.
+
+### 1. The Demonstration of Psychic Power  {#the-demonstration-of-psychic-power .unnumbered}
+
+"[Kevaḍḍha]{lang="sa"}, there are three kinds of demonstration, which I
+declare having realized them with my own insight.[^586] What three? The
+demonstration of psychic power, the demonstration of revealing, and the
+demonstration of instruction.[^587]
+
+And what is the demonstration of psychic power? It's a mendicant who
+wields the many kinds of psychic power: multiplying themselves and
+becoming one again; appearing and disappearing; going unobstructed
+through a wall, a rampart, or a mountain as if through space; diving in
+and out of the earth as if it were water; walking on water as if it were
+earth; flying cross-legged through the sky like a bird; touching and
+stroking with the hand the sun and moon, so mighty and powerful;
+controlling the body as far as the realm of divinity.
+
+Someone with faith and confidence sees that mendicant performing those
+superhuman feats.
+
+They tell someone else who lacks faith and confidence: 'Oh, how
+incredible, how amazing! The ascetic has such psychic power and
+might![^588] I saw him myself, performing all these superhuman feats!'
+
+But the one lacking faith and confidence would say to them:[^589]
+'There's a spell named [Gandhārī]{lang="sa"}.[^590] Using that a
+mendicant can perform such superhuman feats.'
+
+What do you think, [Kevaḍḍha]{lang="sa"}? Wouldn't someone lacking faith
+speak like that?"
+
+"They would, sir."
+
+"Seeing this drawback in psychic power, I'm horrified, repelled, and
+disgusted by demonstrations of psychic power.[^591]
+
+### 2. The Demonstration of Revealing  {#the-demonstration-of-revealing .unnumbered}
+
+And what is the demonstration of revealing?[^592] It's when a mendicant
+reveals the mind, mentality, thoughts, and reflections of other beings
+and individuals:[^593] 'This is what you're thinking, such is your
+thought, and thus is your state of mind.'[^594]
+
+Someone with faith and confidence sees that mendicant revealing another
+person's thoughts. They tell someone else who lacks faith and
+confidence: 'Oh, how incredible, how amazing! The ascetic has such
+psychic power and might! I saw him myself, revealing the thoughts of
+another person!'
+
+But the one lacking faith and confidence would say to them: 'There's a
+spell named [Māṇikā]{lang="sa"}.[^595] Using that a mendicant can reveal
+another person's thoughts.'
+
+What do you think, [Kevaḍḍha]{lang="sa"}? Wouldn't someone lacking faith
+speak like that?"
+
+"They would, sir."
+
+"Seeing this drawback in revealing, I'm horrified, repelled, and
+disgusted by demonstrations of revealing.
+
+### 3. The Demonstration of Instruction  {#the-demonstration-of-instruction .unnumbered}
+
+And what is the demonstration of instruction? It's when a mendicant
+instructs others like this: 'Think like this, not like that. Focus your
+mind like this, not like that. Give up this, and live having achieved
+that.' This is called the demonstration of instruction.
+
+Furthermore, a Realized One arises in the world ... That's how a
+mendicant is accomplished in ethics. ... They enter and remain in the
+first absorption ... This is called the demonstration of instruction.
+
+They enter and remain in the second absorption ... third absorption ...
+fourth absorption. This too is called the demonstration of instruction.
+
+They project and extend the mind toward knowledge and vision ... This
+too is called the demonstration of instruction.
+
+They understand: '... there is nothing further for this place.' This too
+is called the demonstration of instruction.
+
+These, [Kevaḍḍha]{lang="sa"}, are the three kinds of demonstration,
+which I declare having realized them with my own insight.
+
+### 4. On the Mendicant in Search of the Cessation of Being  {#on-the-mendicant-in-search-of-the-cessation-of-being .unnumbered}
+
+Once upon a time, [Kevaḍḍha]{lang="sa"}, a mendicant in this very
+[Saṅgha]{lang="sa"} had the following thought,[^596] 'Where do these
+four principal states cease without anything left over, namely, the
+elements of earth, water, fire, and air?'[^597]
+
+Then that mendicant attained a state of immersion such that a path to
+the gods appeared.[^598] Then he approached the gods of the four great
+kings and said,[^599] 'Reverends, where do these four principal states
+cease without anything left over, namely, the elements of earth, water,
+fire, and air?'
+
+When he said this, those gods said to him, 'Mendicant, we too do not
+know this. But the four great kings are our superiors.[^600] They might
+know.'
+
+Then he approached the four great kings and asked the same question. But
+they also said to him, 'Mendicant, we too do not know this. But the gods
+of the thirty-three ...[^601] Sakka, lord of gods ...[^602] the gods of
+Yama ...[^603] the god named [Suyāma]{lang="sa"} ... the Joyful gods ...
+the god named Santussita ... the gods who love to imagine ... the god
+named Sunimmita ... the gods who control the creation of others ... the
+god named [Vasavattī]{lang="sa"} ... the gods of the Divinity's host are
+our superiors. They might know.'
+
+Then that mendicant attained a state of immersion such that a path to
+divinity appeared. Then he approached the gods of the Divinity's host
+and said, 'Reverends, where do these four principal states cease without
+anything left over, namely, the elements of earth, water, fire, and
+air?' But they also said to him, 'Mendicant, we too do not know
+this.[^604] But there is the Divinity, the Great Divinity, the
+Vanquisher, the Unvanquished, the Universal Seer, the Wielder of Power,
+God Almighty, the Maker, the Creator, the First, the Begetter, the
+Controller, the Father of those who have been born and those yet to be
+born. He is our superior.[^605] He might know.'[^606]
+
+'But reverends, where is that Divinity now?' 'We also don't know where
+he is or what way he lies. But by the signs that are seen---light
+arising and radiance appearing---we know that Divinity will appear. For
+this is the precursor for the appearance of the Divinity, namely light
+arising and radiance appearing.'[^607] Not long afterwards, the Great
+Divinity appeared.
+
+Then that mendicant approached the Great Divinity and said to him,
+'Reverend, where do these four principal states cease without anything
+left over, namely, the elements of earth, water, fire, and air?' The
+Great Divinity said to him, 'I am the Divinity, the Great Divinity, the
+Vanquisher, the Unvanquished, the Universal Seer, the Wielder of Power,
+God Almighty, the Maker, the Creator, the First, the Begetter, the
+Controller, the Father of those who have been born and those yet to be
+born.'[^608]
+
+For a second time, that mendicant said to the Great Divinity, 'Reverend,
+I am not asking you whether you are[^609] the Divinity, the Great
+Divinity, the Vanquisher, the Unvanquished, the Universal Seer, the
+Wielder of Power, God Almighty, the Maker, the Creator, the First, the
+Begetter, the Controller, the Father of those who have been born and
+those yet to be born. I am asking where these four principal states
+cease without anything left over.'
+
+For a second time, the Great Divinity said to him, 'I am the Divinity,
+the Great Divinity, the Vanquisher, the Unvanquished, the Universal
+Seer, the Wielder of Power, God Almighty, the Maker, the Creator, the
+First, the Begetter, the Controller, the Father of those who have been
+born and those yet to be born.' For a third time, that mendicant said to
+the Great Divinity,[^610] 'Reverend, I am not asking you whether you are
+the Divinity, the Great Divinity, the Vanquisher, the Unvanquished, the
+Universal Seer, the Wielder of Power, God Almighty, the Maker, the
+Creator, the First, the Begetter, the Controller, the Father of those
+who have been born and those yet to be born. I am asking where these
+four principal states cease without anything left over.'
+
+Then the Great Divinity took that mendicant by the arm, led him off to
+one side, and said to him,[^611] 'Mendicant, these gods think that there
+is nothing at all that I don't know and see and understand and realize.
+That's why I didn't answer in front of them. But I too do not know where
+these four principal states cease with nothing left over.[^612]
+Therefore, mendicant, the misdeed is yours alone, the mistake is yours
+alone, in that you passed over the Buddha and searched elsewhere for an
+answer to this question. Mendicant, go to the Buddha and ask him this
+question. You should remember it in line with his answer.'
+
+Then that mendicant, as easily as a strong person would extend or
+contract their arm, vanished from the realm of divinity and reappeared
+in front of me. Then he bowed, sat down to one side, and said to me,
+'Sir, where do these four principal states cease without anything left
+over, namely, the elements of earth, water, fire, and air?'
+
+#### 4.1. The Simile of the Land-Spotting Bird  {#the-simile-of-the-land-spotting-bird .unnumbered}
+
+When he said this, I said to him:
+
+'Once upon a time, mendicant, some sea-merchants set sail for the ocean
+deeps, taking with them a land-spotting bird. When their ship was out of
+sight of land, they released the bird. It flew right away to the east,
+the west, the north, the south, upwards, and in-between. If it saw land
+on any side, it went there and stayed. But if it saw no land on any side
+it returned to the ship.
+
+In the same way, after failing to get an answer to this question even
+after searching as far as the realm of divinity, you've returned to me.
+Mendicant, this is not how the question should be asked: "Sir, where do
+these four principal states cease without anything left over, namely,
+the elements of earth, water, fire, and air?"
+
+This is how the question should be asked:[^613]
+
+> "Where do water and earth,[^614]\
+> fire and air find no footing?\
+> Where do long and short,[^615]\
+> fine and coarse, beautiful and ugly;[^616]\
+> where do name and form\
+> cease with nothing left over?"
+
+And the answer to that is:
+
+> "Consciousness where nothing appears,[^617]\
+> infinite, luminous all-round---[^618]\
+> that's where water and earth,\
+> fire and air find no footing.[^619]
+>
+> And that is where long and short,\
+> fine and coarse, beautiful and ugly;\
+> that's where name and form\
+> cease with nothing left over---\
+> with the cessation of consciousness,[^620]\
+> that's where they cease."'"
+
+That is what the Buddha said. Satisfied, the householder
+[Kevaḍḍha]{lang="sa"} approved what the Buddha said.
+
+## N 12 With Lohicca  *Lohiccasutta* {#n-12-with-lohicca-lohiccasutta .unnumbered}
+
+[So I have heard.]{.smallcaps} At one time the Buddha was wandering in
+the land of the Kosalans together with a large [Saṅgha]{lang="sa"} of
+five hundred mendicants when he arrived at
+[Sālavatikā]{lang="sa"}.[^621]
+
+Now at that time the brahmin Lohicca was living in
+[Sālavatikā]{lang="sa"}. It was a crown property given by King Pasenadi
+of Kosala, teeming with living creatures, full of hay, wood, water, and
+grain, a royal park endowed to a brahmin.[^622]
+
+Now at that time Lohicca had the following harmful misconception:
+"Should an ascetic or brahmin achieve some skillful quality, they ought
+not inform anyone else. For what can one person do for another?[^623]
+Suppose someone cut off an old bond, only to create another new bond.
+That's the consequence of such a wicked, greedy deed, I say. For what
+can one person do for another?"
+
+Lohicca heard:
+
+"It seems the ascetic Gotama---a Sakyan, gone forth from a Sakyan
+family---has arrived at [Sālavatikā]{lang="sa"}, together with a large
+[Saṅgha]{lang="sa"} of five hundred mendicants. He has this good
+reputation: 'That Blessed One is perfected, a fully awakened Buddha,
+accomplished in knowledge and conduct, holy, knower of the world,
+supreme guide for those who wish to train, teacher of gods and humans,
+awakened, blessed.' He has realized with his own insight this
+world---with its gods, [Māras]{lang="sa"}, and divinities, this
+population with its ascetics and brahmins, gods and humans---and he
+makes it known to others. He proclaims a teaching that is good in the
+beginning, good in the middle, and good in the end, meaningful and
+well-phrased. And he reveals a spiritual practice that's entirely full
+and pure. It's good to see such perfected ones."
+
+Then Lohicca addressed his barber Rosika,[^624] "Here, dear Rosika, go
+to the ascetic Gotama and in my name bow with your head to his feet. Ask
+him if he is healthy and well, nimble, strong, and living comfortably.
+And then ask him whether he, together with the mendicant
+[Saṅgha]{lang="sa"}, might please accept tomorrow's meal from the
+brahmin Lohicca."[^625]
+
+"Yes, sir," Rosika replied. He did as he was asked, and the Buddha
+consented with silence.
+
+Then, knowing that the Buddha had consented, Rosika got up from his
+seat, went to Lohicca, and said to him, "I gave the Buddha your message,
+and he accepted."
+
+And when the night had passed Lohicca had delicious fresh and cooked
+foods prepared in his own home. Then he had the Buddha informed of the
+time, saying, "Here, dear Rosika, go to the ascetic Gotama and announce
+the time, saying: 'It's time, Mister Gotama, the meal is ready.'"
+
+"Yes, sir," Rosika replied. He did as he was asked.
+
+Then the Buddha robed up in the morning and, taking his bowl and robe,
+went to [Sālavatikā]{lang="sa"} together with the [Saṅgha]{lang="sa"} of
+mendicants. Now, Rosika was following behind the Buddha, and told him of
+Lohicca's views, adding, "Sir, please dissuade him from that harmful
+misconception."[^626]
+
+"Hopefully that'll happen, Rosika, hopefully that'll happen."[^627]
+
+Then the Buddha approached Lohicca's home, where he sat on the seat
+spread out. Then Lohicca served and satisfied the mendicant
+[Saṅgha]{lang="sa"} headed by the Buddha with his own hands with
+delicious fresh and cooked foods.
+
+### 1. Questioning Lohicca  {#questioning-lohicca .unnumbered}
+
+When the Buddha had eaten and washed his hand and bowl, Lohicca took a
+low seat and sat to one side.
+
+The Buddha said to him, "Is it really true, Lohicca, that you have such
+a harmful misconception:[^628] 'Should an ascetic or brahmin achieve
+some skillful quality, they ought not inform anyone else. For what can
+one person do for another? Suppose someone cut off an old bond, only to
+create another new bond. That's the consequence of such a wicked, greedy
+deed, I say. For what can one person do for another?'"
+
+"Yes, Mister Gotama."
+
+"What do you think, Lohicca? Do you reside in [Sālavatikā]{lang="sa"}?"
+
+"Yes, Mister Gotama."
+
+"Lohicca, suppose someone were to say: 'The brahmin Lohicca resides in
+[Sālavatikā]{lang="sa"}. He alone should enjoy the revenues produced in
+[Sālavatikā]{lang="sa"} and not share them with anyone else.' Would the
+person who spoke like that make it difficult for those whose living
+depends on you or not?"
+
+"They would, Mister Gotama."
+
+"But is someone who creates difficulties for others acting kindly or
+unkindly?"
+
+"Unkindly, sir."
+
+"But does an unkind person have love in their heart or hostility?"
+
+"Hostility, sir."
+
+"And when the heart is full of hostility, is there right view or wrong
+view?"
+
+"Wrong view, Mister Gotama."
+
+"An individual with wrong view is reborn in one of two places, I say:
+hell or the animal realm.
+
+What do you think, Lohicca? Does King Pasenadi reign over
+[Kāsi]{lang="sa"} and Kosala?"[^629]
+
+"Yes, Mister Gotama."
+
+"Lohicca, suppose someone were to say: 'King Pasenadi reigns over
+[Kāsi]{lang="sa"} and Kosala. He alone should enjoy the revenues
+produced in [Kāsi]{lang="sa"} and Kosala and not share them with anyone
+else.' Would the person who spoke like that make it difficult for
+yourself and others whose living depends on King Pasenadi or not?"
+
+"They would, Mister Gotama."
+
+"But is someone who creates difficulties for others acting kindly or
+unkindly?"
+
+"Unkindly, sir."
+
+"But does an unkind person have love in their heart or hostility?"
+
+"Hostility, sir."
+
+"And when the heart is full of hostility, is there right view or wrong
+view?"
+
+"Wrong view, Mister Gotama."
+
+"An individual with wrong view is reborn in one of two places, I say:
+hell or the animal realm.
+
+So it seems, Lohicca, that should someone say such a thing either of
+Lohicca or of King Pasenadi, that is wrong view.
+
+In the same way, suppose someone were to say: 'Should an ascetic or
+brahmin achieve some skillful quality, they ought not inform anyone
+else. For what can one person do for another? Suppose someone cut off an
+old bond, only to create another new bond. That's the consequence of
+such a wicked, greedy deed, I say. For what can one person do for
+another?'
+
+Now, there are gentlemen who, relying on the teaching and training
+proclaimed by the Realized One, achieve a high distinction such as the
+following: they realize the fruit of stream-entry, the fruit of
+once-return, the fruit of non-return, or perfection. And in addition,
+there are those who ripen the seeds for rebirth in a heavenly state. The
+person who spoke like that makes it difficult for them. They're acting
+unkindly, their heart is full of hostility, and they have wrong
+view.[^630] An individual with wrong view is reborn in one of two
+places, I say: hell or the animal realm.
+
+### 2. Three Teachers Who Deserve to Be Reprimanded  {#three-teachers-who-deserve-to-be-reprimanded .unnumbered}
+
+Lohicca, there are three kinds of teachers in the world who deserve to
+be reprimanded.[^631] When someone reprimands such teachers, the
+reprimand is true, correct, legitimate, and blameless. What three?
+
+Firstly, take a teacher who has not reached the goal of the ascetic life
+for which they went forth from the lay life to homelessness. They teach
+their disciples: 'This is for your welfare. This is for your happiness.'
+But their disciples don't want to listen. They don't actively listen or
+try to understand. They proceed having turned away from the teacher's
+instruction. That teacher deserves to be reprimanded: 'Venerable, you
+haven't reached the goal of the ascetic life; and when you teach
+disciples they proceed having turned away from the teacher's
+instruction. It's like a man who makes advances on a woman though she
+pulls away, or embraces her though she turns her back.[^632] That's the
+consequence of such a wicked, greedy deed, I say. For what can one do
+for another?' This is the first kind of teacher who deserves to be
+reprimanded.
+
+Furthermore, take a teacher who has not reached the goal of the ascetic
+life for which they went forth from the lay life to homelessness. They
+teach their disciples: 'This is for your welfare. This is for your
+happiness.' Their disciples do want to listen. They actively listen and
+try to understand. They don't proceed having turned away from the
+teacher's instruction.[^633] That teacher deserves to be reprimanded:
+'Venerable, you haven't reached the goal of the ascetic life; and when
+you teach disciples they don't proceed having turned away from the
+teacher's instruction. It's like someone who abandons their own field
+and presumes to weed someone else's field. That's the consequence of
+such a wicked, greedy deed, I say. For what can one do for another?'
+This is the second kind of teacher who deserves to be reprimanded.
+
+Furthermore, take a teacher who has reached the goal of the ascetic life
+for which they went forth from the lay life to homelessness. They teach
+their disciples: 'This is for your welfare. This is for your happiness.'
+But their disciples don't want to listen. They don't actively listen or
+try to understand. They proceed having turned away from the teacher's
+instruction. That teacher deserves to be reprimanded: 'Venerable, you
+have reached the goal of the ascetic life; yet when you teach disciples
+they proceed having turned away from the teacher's instruction. Suppose
+someone cut off an old bond, only to create another new bond.[^634]
+That's the consequence of such a wicked, greedy deed, I say. For what
+can one person do for another?' This is the third kind of teacher who
+deserves to be reprimanded.
+
+These are the three kinds of teachers in the world who deserve to be
+reprimanded. When someone reprimands such teachers, the reprimand is
+true, correct, legitimate, and blameless."
+
+### 3. A Teacher Who Does Not Deserve to Be Reprimanded  {#a-teacher-who-does-not-deserve-to-be-reprimanded .unnumbered}
+
+When he had spoken, Lohicca said to the Buddha, "But Mister Gotama, is
+there a teacher in the world who does not deserve to be
+reprimanded?"[^635]
+
+"There is, Lohicca."[^636]
+
+"But who is that teacher?"
+
+"It's when a Realized One arises in the world, perfected, a fully
+awakened Buddha ... That's how a mendicant is accomplished in ethics.
+... They enter and remain in the first absorption ... A teacher under
+whom a disciple achieves such a high distinction is one who does not
+deserve to be reprimanded. When someone reprimands such a teacher, the
+reprimand is false, baseless, illegitimate, and blameworthy.
+
+They enter and remain in the second absorption ... third absorption ...
+fourth absorption. A teacher under whom a disciple achieves such a high
+distinction is one who does not deserve to be reprimanded. ...
+
+They project and extend the mind toward knowledge and vision ... A
+teacher under whom a disciple achieves such a high distinction is one
+who does not deserve to be reprimanded. ...
+
+They understand: '... there is nothing further for this place.' A
+teacher under whom a disciple achieves such a high distinction is one
+who does not deserve to be reprimanded. When someone reprimands such a
+teacher, the reprimand is false, baseless, illegitimate, and
+blameworthy."
+
+When he had spoken, Lohicca said to the Buddha:
+
+"Suppose, Mister Gotama, a person was falling over a cliff, and another
+person were to grab them by the hair, pull them up, and place them on
+firm ground.[^637] In the same way, when I was falling off a cliff
+Mister Gotama pulled me up and placed me on safe ground.
+
+Excellent, Mister Gotama! Excellent! As if he were righting the
+overturned, or revealing the hidden, or pointing out the path to the
+lost, or lighting a lamp in the dark so people with clear eyes can see
+what's there, Mister Gotama has made the Teaching clear in many ways. I
+go for refuge to Mister Gotama, to the teaching, and to the mendicant
+[Saṅgha]{lang="sa"}. From this day forth, may Mister Gotama remember me
+as a lay follower who has gone for refuge for life."
+
+## N 13 Experts in the Three Vedas  *Tevijjasutta* {#n-13-experts-in-the-three-vedas-tevijjasutta .unnumbered}
+
+[So I have heard.]{.smallcaps} At one time the Buddha was wandering in
+the land of the Kosalans together with a large [Saṅgha]{lang="sa"} of
+five hundred mendicants when he arrived at a village of the Kosalan
+brahmins named [Manasākaṭa]{lang="sa"}.[^638] He stayed in a mango grove
+on a bank of the river [Aciravatī]{lang="sa"} to the north of
+[Manasākaṭa]{lang="sa"}.[^639]
+
+Now at that time several very well-known well-to-do brahmins were
+residing in [Manasākaṭa]{lang="sa"}. They included the brahmins
+[Caṅkī]{lang="sa"}, [Tārukkha]{lang="sa"}, [Pokkharasāti]{lang="sa"},
+[Jānussoṇi]{lang="sa"}, Todeyya, and others.
+
+Then as the students [Vāseṭṭha]{lang="sa"} and [Bhāradvāja]{lang="sa"}
+were going for a walk they began a discussion regarding what is the path
+and what is not the path.[^640]
+
+[Vāseṭṭha]{lang="sa"} said this: "This is the only straight path, the
+direct route that delivers one who practices it to the company of
+Divinity; namely, that explained by the brahmin
+[Pokkharasāti]{lang="sa"}."[^641]
+
+[Bhāradvāja]{lang="sa"} said this: "This is the only straight path, the
+direct route that delivers one who practices it to the company of
+Divinity; namely, that explained by the brahmin
+[Tārukkha]{lang="sa"}."[^642]
+
+But neither was able to persuade the other. So [Vāseṭṭha]{lang="sa"}
+said to [Bhāradvāja]{lang="sa"}, "[Bhāradvāja]{lang="sa"}, the ascetic
+Gotama---a Sakyan, gone forth from a Sakyan family---is staying in a
+mango grove on a bank of the river [Aciravatī]{lang="sa"} to the north
+of [Manasākaṭa]{lang="sa"}. He has this good reputation: 'That Blessed
+One is perfected, a fully awakened Buddha, accomplished in knowledge and
+conduct, holy, knower of the world, supreme guide for those who wish to
+train, teacher of gods and humans, awakened, blessed.' Come, let's go to
+see him and ask him about this matter. As he answers, so we'll remember
+it."
+
+"Yes, sir," replied [Bhāradvāja]{lang="sa"}.
+
+### 1. What is the Path and What is Not the Path  {#what-is-the-path-and-what-is-not-the-path .unnumbered}
+
+So they went to the Buddha and exchanged greetings with him. When the
+greetings and polite conversation were over, they sat down to one side
+and [Vāseṭṭha]{lang="sa"} told him of their conversation, adding: "In
+this matter we have a dispute, a disagreement, a difference of opinion."
+
+"So, [Vāseṭṭha]{lang="sa"}, it seems that you say that the straight path
+is that explained by [Pokkharasāti]{lang="sa"}, while
+[Bhāradvāja]{lang="sa"} says that the straight path is that explained by
+[Tārukkha]{lang="sa"}. But what exactly is your disagreement about?"
+
+"About what is the path and what is not the path, Mister Gotama. Even
+though brahmins describe different paths---the Adhvaryu brahmins, the
+[Taittirīya]{lang="sa"} brahmins, the [Chāndogya]{lang="sa"} brahmins,
+the [Cāndrāyaṇa]{lang="sa"} brahmins, and the [Bahvṛca]{lang="sa"}
+brahmins---all of them still lead someone who practices them to the
+company of Divinity.[^643]
+
+It's like a village or town that has many different roads nearby, yet
+all of them meet at that village.[^644] In the same way, even though
+brahmins describe different paths---the Adhvaryu brahmins, the
+[Taittirīya]{lang="sa"} brahmins, the [Chāndogya]{lang="sa"} brahmins,
+the [Cāndrāyaṇa]{lang="sa"} brahmins, and the [Bahvṛca]{lang="sa"}
+brahmins---all of them still lead someone who practices them to the
+company of Divinity."
+
+### 2. Questioning [Vāseṭṭha]{lang="sa"}  {#questioning-vāseṭṭha .unnumbered}
+
+"Do you say, 'they lead someone', [Vāseṭṭha]{lang="sa"}?"
+
+"I do, Mister Gotama."
+
+"Do you say, 'they lead someone', [Vāseṭṭha]{lang="sa"}?"
+
+"I do, Mister Gotama."
+
+"Do you say, 'they lead someone', [Vāseṭṭha]{lang="sa"}?"
+
+"I do, Mister Gotama."
+
+"Well, of the brahmins who are proficient in the three Vedas,
+[Vāseṭṭha]{lang="sa"}, is there even a single one who has seen the
+Divinity with their own eyes?"
+
+"No, Mister Gotama."
+
+"Well, has even a single one of their tutors seen the Divinity with
+their own eyes?"
+
+"No, Mister Gotama."
+
+"Well, has even a single one of their tutors' tutors seen the Divinity
+with their own eyes?"
+
+"No, Mister Gotama."
+
+"Well, has anyone back to the seventh generation of tutors seen the
+Divinity with their own eyes?"
+
+"No, Mister Gotama."
+
+"Well, what of the ancient seers of the brahmins proficient in the three
+Vedas, namely [Aṭṭhaka]{lang="sa"}, [Vāmaka]{lang="sa"},
+[Vāmadeva]{lang="sa"}, [Vessāmitta]{lang="sa"}, Yamadaggi,
+[Aṅgīrasa]{lang="sa"}, [Bhāradvāja]{lang="sa"}, [Vāseṭṭha]{lang="sa"},
+Kassapa, and Bhagu? They were the authors and propagators of the hymns.
+Their hymnal was sung and propagated and compiled in ancient times; and
+these days, brahmins continue to sing and chant it, chanting what was
+chanted and teaching what was taught.[^645] Did they say: 'We know and
+see where the Divinity is or what way he lies'?"[^646]
+
+"No, Mister Gotama."
+
+"So it seems that none of those brahmins have seen the Divinity with
+their own eyes, and not even the ancient seers claimed to know where he
+is. Yet the brahmins proficient in the three Vedas say: 'We teach the
+path to the company of that which we neither know nor see. This is the
+only straight path, the direct route that delivers one who practices it
+to the company of Divinity.'
+
+What do you think, [Vāseṭṭha]{lang="sa"}? This being so, doesn't their
+statement turn out to have no demonstrable basis?"[^647]
+
+"Clearly that's the case, Mister Gotama."
+
+"Good, [Vāseṭṭha]{lang="sa"}. For it is impossible that they should
+teach the path to that which they neither know nor see.
+
+Suppose there was a queue of blind men, each holding the one in front:
+the first one does not see, the middle one does not see, and the last
+one does not see.[^648] In the same way, it seems to me that the
+brahmins' statement turns out to be comparable to a queue of blind men:
+the first one does not see, the middle one does not see, and the last
+one does not see. Their statement turns out to be a joke---mere words,
+vacuous and hollow.
+
+What do you think, [Vāseṭṭha]{lang="sa"}? Do the brahmins proficient in
+the three Vedas see the sun and moon just as other folk do? And do they
+pray to them and exalt them, following their course from where they rise
+to where they set with joined palms held in worship?"[^649]
+
+"Yes, Mister Gotama."
+
+"What do you think, [Vāseṭṭha]{lang="sa"}? Though this is so, are the
+brahmins proficient in the three Vedas able to teach the path to the
+company of the sun and moon, saying: 'This is the only straight path,
+the direct route that delivers one who practices it to the company of
+the sun and moon'?"[^650]
+
+"No, Mister Gotama."
+
+"So it seems that even though the brahmins proficient in the three Vedas
+see the sun and moon, they are not able to teach the path to the company
+of the sun and moon.
+
+But it seems that even though they have not seen the Divinity with their
+own eyes, they still claim to teach the path to the company of that
+which they neither know nor see.
+
+What do you think, [Vāseṭṭha]{lang="sa"}? This being so, doesn't their
+statement turn out to have no demonstrable basis?"
+
+"Clearly that's the case, Mister Gotama."
+
+"Good, [Vāseṭṭha]{lang="sa"}. For it is impossible that they should
+teach the path to that which they neither know nor see.
+
+#### 2.1. The Simile of the Finest Lady in the Land  {#the-simile-of-the-finest-lady-in-the-land .unnumbered}
+
+Suppose a man were to say, 'Whoever the finest lady in the land is, it
+is her that I want, her that I desire!'
+
+They'd say to him, 'Mister, that finest lady in the land who you
+desire---do you know whether she's an aristocrat, a brahmin, a peasant,
+or a menial?' Asked this, he'd say, 'No.'
+
+They'd say to him, 'Mister, that finest lady in the land who you
+desire---do you know her name or clan? Whether she's tall or short or
+medium? Whether her skin is black, brown, or tawny? What village, town,
+or city she comes from?'
+
+Asked this, he'd say, 'No.'
+
+They'd say to him, 'Mister, do you desire someone who you've never even
+known or seen?'
+
+Asked this, he'd say, 'Yes.'
+
+What do you think, [Vāseṭṭha]{lang="sa"}? This being so, doesn't that
+man's statement turn out to have no demonstrable basis?"
+
+"Clearly that's the case, Mister Gotama."
+
+"In the same way, doesn't the statement of those brahmins turn out to
+have no demonstrable basis?"
+
+"Clearly that's the case, Mister Gotama."
+
+"Good, [Vāseṭṭha]{lang="sa"}. For it is impossible that they should
+teach the path to that which they neither know nor see.
+
+#### 2.2. The Simile of the Ladder  {#the-simile-of-the-ladder .unnumbered}
+
+Suppose a man was to build a ladder at the crossroads for climbing up to
+a stilt longhouse.
+
+They'd say to him, 'Mister, that stilt longhouse that you're building a
+ladder for---do you know whether it's to the north, south, east, or
+west? Or whether it's tall or short or medium?'
+
+Asked this, he'd say, 'No.'
+
+They'd say to him, 'Mister, are you building a ladder for a longhouse
+that you've never even known or seen?'
+
+Asked this, he'd say, 'Yes.'
+
+What do you think, [Vāseṭṭha]{lang="sa"}? This being so, doesn't that
+man's statement turn out to have no demonstrable basis?"
+
+"Clearly that's the case, Mister Gotama."
+
+"In the same way, doesn't the statement of those brahmins turn out to
+have no demonstrable basis?"
+
+"Clearly that's the case, Mister Gotama."
+
+"Good, [Vāseṭṭha]{lang="sa"}. For it is impossible that they should
+teach the path to that which they neither know nor see.
+
+#### 2.3. The Simile of the River [Aciravatī]{lang="sa"}  {#the-simile-of-the-river-aciravatī .unnumbered}
+
+Suppose the river [Aciravatī]{lang="sa"} was full to the brim so a crow
+could drink from it. Then along comes a person who wants to cross over
+to the far shore. Standing on the near shore, they'd call out to the far
+shore, 'Come here, far shore! Come here, far shore!'
+
+What do you think, [Vāseṭṭha]{lang="sa"}? Would the far shore of the
+[Aciravatī]{lang="sa"} river come over to the near shore because of that
+man's call, request, desire, or expectation?"
+
+"No, Mister Gotama."
+
+"In the same way, [Vāseṭṭha]{lang="sa"}, the brahmins proficient in the
+three Vedas proceed having given up those things that make one a true
+brahmin, and having undertaken those things that make one not a true
+brahmin. Yet they say:[^651] 'We call upon Indra! We call upon Soma! We
+call upon [Varuṇa]{lang="sa"}! We call upon [Īsāna]{lang="sa"}! We call
+upon the Progenitor! We call upon the Divinity! We call upon Mahinda! We
+call upon Yama!'[^652]
+
+So long as they proceed in this way it's impossible that they will, when
+the body breaks up, after death, be reborn in the company of Divinity.
+
+Suppose the river [Aciravatī]{lang="sa"} was full to the brim so a crow
+could drink from it. Then along comes a person who wants to cross over
+to the far shore. But while still on the near shore, their arms are tied
+tightly behind their back with a strong chain.
+
+What do you think, [Vāseṭṭha]{lang="sa"}? Could that person cross over
+to the far shore?"
+
+"No, Mister Gotama."
+
+"In the same way, the five kinds of sensual stimulation are called
+'chains' and 'fetters' in the training of the Noble One. What five?
+Sights known by the eye, which are likable, desirable, agreeable,
+pleasant, sensual, and arousing. Sounds known by the ear ... Smells
+known by the nose ... Tastes known by the tongue ... Touches known by
+the body, which are likable, desirable, agreeable, pleasant, sensual,
+and arousing.
+
+These are the five kinds of sensual stimulation that are called 'chains'
+and 'fetters' in the training of the Noble One. The brahmins proficient
+in the three Vedas enjoy these five kinds of sensual stimulation tied,
+infatuated, attached, blind to the drawbacks, and not understanding the
+escape. So long as they enjoy them it's impossible that they will, when
+the body breaks up, after death, be reborn in the company of Divinity.
+
+Suppose the river [Aciravatī]{lang="sa"} was full to the brim so a crow
+could drink from it. Then along comes a person who wants to cross over
+to the far shore. But they'd lie down wrapped in cloth from head to
+foot.
+
+What do you think, [Vāseṭṭha]{lang="sa"}? Could that person cross over
+to the far shore?"
+
+"No, Mister Gotama."
+
+"In the same way, the five hindrances are called 'obstacles' and
+'hindrances' and 'encasings' and 'shrouds' in the training of the Noble
+One. What five? The hindrances of sensual desire, ill will, dullness and
+drowsiness, restlessness and remorse, and doubt. These five hindrances
+are called 'obstacles' and 'hindrances' and 'encasings' and 'shrouds' in
+the training of the Noble One.
+
+The brahmins proficient in the three Vedas are obstructed, hindered,
+encased, and shrouded by these five hindrances. So long as they are so
+obstructed it's impossible that they will, when the body breaks up,
+after death, be reborn in the company of Divinity.
+
+### 3. Converging  {#converging .unnumbered}
+
+What do you think, [Vāseṭṭha]{lang="sa"}? Have you heard that the
+brahmins who are elderly and senior, the tutors of tutors, say whether
+the Divinity is encumbered with possessions or not?"
+
+"That he is not, Mister Gotama."
+
+"Is his heart full of enmity or not?"
+
+"It is not."
+
+"Is his heart full of ill will or not?"
+
+"It is not."
+
+"Is his heart corrupted or not?"
+
+"It is not."
+
+"Does he wield power or not?"
+
+"He does."
+
+"What do you think, [Vāseṭṭha]{lang="sa"}? Are the brahmins proficient
+in the three Vedas encumbered with possessions or not?"
+
+"They are."
+
+"Are their hearts full of enmity or not?"
+
+"They are."
+
+"Are their hearts full of ill will or not?"
+
+"They are."
+
+"Are their hearts corrupted or not?"
+
+"They are."
+
+"Do they wield power or not?"
+
+"They do not."
+
+"So it seems that the brahmins proficient in the three Vedas are
+encumbered with possessions, but the Divinity is not. But would brahmins
+who are encumbered with possessions come together and converge with the
+Divinity, who isn't encumbered with possessions?"
+
+"No, Mister Gotama."
+
+"Good, [Vāseṭṭha]{lang="sa"}! It's impossible that the brahmins who are
+encumbered with possessions will, when the body breaks up, after death,
+be reborn in the company of Divinity, who isn't encumbered with
+possessions.
+
+And it seems that the brahmins have enmity, ill will, corruption, and do
+not wield power, while the Divinity is the opposite in all these things.
+But would brahmins who are opposite to the Divinity in all things come
+together and converge with him?"
+
+"No, Mister Gotama."
+
+"Good, [Vāseṭṭha]{lang="sa"}! It's impossible that such brahmins will,
+when the body breaks up, after death, be reborn in the company of
+Divinity.
+
+But here the brahmins proficient in the three Vedas sink down where they
+have sat, only to drift apart, while imagining they're crossing over to
+drier ground.[^653] That's why the three Vedas of the brahmins are
+called a 'salted land' and a 'barren land' and a 'disaster'."
+
+When he said this, [Vāseṭṭha]{lang="sa"} said to the Buddha, "I have
+heard, Mister Gotama, that you know the path to company with Divinity."
+
+"What do you think, [Vāseṭṭha]{lang="sa"}? Is the village of
+[Manasākaṭa]{lang="sa"} nearby?"
+
+"Yes it is."
+
+"What do you think, [Vāseṭṭha]{lang="sa"}? Suppose a person was born and
+raised in [Manasākaṭa]{lang="sa"}. And as soon as they left the town
+some people asked them for the road to [Manasākaṭa]{lang="sa"}. Would
+they be slow or hesitant to answer?"
+
+"No, Mister Gotama. Why is that? Because they were born and raised in
+[Manasākaṭa]{lang="sa"}. They're well acquainted with all the roads to
+the village."
+
+"Still, it's possible they might be slow or hesitant to answer. But the
+Realized One is never slow or hesitant when questioned about the realm
+of divinity or the practice that leads to the realm of divinity. I
+understand the Divinity, the realm of divinity, and the practice that
+leads to the realm of divinity, practicing in accordance with which one
+is reborn in the realm of divinity."
+
+When he said this, [Vāseṭṭha]{lang="sa"} said to the Buddha, "I have
+heard, Mister Gotama, that you teach the path to company with
+Divinity.[^654] Please teach us that path and elevate this generation of
+brahmins."
+
+"Well then, [Vāseṭṭha]{lang="sa"}, listen and apply your mind well, I
+will speak."
+
+"Yes, sir," replied [Vāseṭṭha]{lang="sa"}.
+
+### 4. Teaching the Path to the Divinity  {#teaching-the-path-to-the-divinity .unnumbered}
+
+The Buddha said this:
+
+"It's when a Realized One arises in the world, perfected, a fully
+awakened Buddha ... That's how a mendicant is accomplished in ethics.
+... Seeing that the hindrances have been given up in them, joy springs
+up. Being joyful, rapture springs up. When the mind is full of rapture,
+the body becomes tranquil. When the body is tranquil, they feel bliss.
+And when blissful, the mind becomes immersed.
+
+They meditate spreading a heart full of love to one direction, and to
+the second, and to the third, and to the fourth. In the same way above,
+below, across, everywhere, all around, they spread a heart full of love
+to the whole world---abundant, expansive, limitless, free of enmity and
+ill will.[^655]
+
+Suppose there was a powerful horn blower. They'd easily make themselves
+heard in the four quarters. In the same way, when the heart's release by
+love has been developed like this, any limited deeds they've done don't
+remain or persist there.[^656] This is a path to company with Divinity.
+
+Furthermore, a mendicant meditates spreading a heart full of compassion
+...[^657]
+
+They meditate spreading a heart full of rejoicing ...[^658]
+
+They meditate spreading a heart full of equanimity to one direction, and
+to the second, and to the third, and to the fourth. In the same way
+above, below, across, everywhere, all around, they spread a heart full
+of equanimity to the whole world---abundant, expansive, limitless, free
+of enmity and ill will.[^659]
+
+Suppose there was a powerful horn blower. They'd easily make themselves
+heard in the four quarters. In the same way, when the heart's release by
+equanimity has been developed and cultivated like this, any limited
+deeds they've done don't remain or persist there. This too is a path to
+company with Divinity.[^660]
+
+What do you think, [Vāseṭṭha]{lang="sa"}? When a mendicant meditates
+like this, are they encumbered with possessions or not?"
+
+"They are not."
+
+"Is their heart full of enmity or not?"
+
+"It is not."
+
+"Is their heart full of ill will or not?"
+
+"It is not."
+
+"Is their heart corrupted or not?"
+
+"It is not."
+
+"Do they wield power or not?"
+
+"They do."
+
+"So it seems that that mendicant is not encumbered with possessions, and
+neither is the Divinity. Would a mendicant who is not encumbered with
+possessions come together and converge with the Divinity, who isn't
+encumbered with possessions?"
+
+"Yes, Mister Gotama."
+
+"Good, [Vāseṭṭha]{lang="sa"}! It's quite possible that a mendicant who
+is not encumbered with possessions will, when the body breaks up, after
+death, be reborn in the company of Divinity, who isn't encumbered with
+possessions.
+
+And it seems that that mendicant has no enmity, ill will, corruption,
+and does wield power, while the Divinity is the same in all these
+things. Would a mendicant who is the same as the Divinity in all things
+come together and converge with him?"
+
+"Yes, Mister Gotama."
+
+"Good, [Vāseṭṭha]{lang="sa"}! It's quite possible that that mendicant
+will, when the body breaks up, after death, be reborn in the company of
+Divinity."[^661]
+
+When he had spoken, [Vāseṭṭha]{lang="sa"} and [Bhāradvāja]{lang="sa"}
+said to him, "Excellent, Mister Gotama! Excellent! As if he were
+righting the overturned, or revealing the hidden, or pointing out the
+path to the lost, or lighting a lamp in the dark so people with clear
+eyes can see what's there, Mister Gotama has made the teaching clear in
+many ways. We go for refuge to Mister Gotama, to the teaching, and to
+the mendicant [Saṅgha]{lang="sa"}.[^662] From this day forth, may Mister
+Gotama remember us as lay followers who have gone for refuge for life."
+
+## Colophon {#colophon .unnumbered}
+
+### The Translator {#the-translator .unnumbered}
+
+Bhikkhu Sujato was born as Anthony Aidan Best on 4/11/1966 in Perth,
+Western Australia. He grew up in the pleasant suburbs of Mt Lawley and
+Attadale alongside his sister Nicola, who was the good child. His
+mother, Margaret Lorraine Huntsman née Pinder, said "he'll either be a
+priest or a poet", while his father, Anthony Thomas Best, advised him to
+"never do anything for money". He attended Aquinas College, a Catholic
+school, where he decided to become an atheist. At the University of WA
+he studied philosophy, aiming to learn what he wanted to do with his
+life. Finding that what he wanted to do was play guitar, he dropped out.
+His main band was named Martha's Vineyard, which achieved modest success
+in the indie circuit.
+
+A seemingly random encounter with a roadside joey took him to Thailand,
+where he entered his first meditation retreat at Wat Ram Poeng, Chieng
+Mai in 1992. Feeling the call to the Buddha's path, he took full
+ordination in Wat Pa Nanachat in 1994, where his teachers were Ajahn
+Pasanno and Ajahn Jayasaro. In 1997 he returned to Perth to study with
+Ajahn Brahm at Bodhinyana Monastery.
+
+He spent several years practicing in seclusion in Malaysia and Thailand
+before establishing Santi Forest Monastery in Bundanoon, NSW, in 2003.
+There he was instrumental in supporting the establishment of the
+Theravada bhikkhuni order in Australia and advocating for women's
+rights. He continues to teach in Australia and globally, with a special
+concern for the moral implications of climate change and other forms of
+environmental destruction. He has published a series of books of
+original and groundbreaking research on early Buddhism.
+
+In 2005 he founded SuttaCentral together with Rod Bucknell and John
+Kelly. In 2015, seeing the need for a complete, accurate, plain English
+translation of the Pali texts, he undertook the task, spending nearly
+three years in isolation on the isle of Qi Mei off the coast of the
+nation of Taiwan. He completed the four main [Nikāyas]{lang="sa"} in
+2018, and the early books of the Khuddaka [Nikāya]{lang="sa"} were
+complete by 2021. All this work is dedicated to the public domain and is
+entirely free of copyright encumbrance.
+
+In 2019 he returned to Sydney where he established Lokanta Vihara (The
+Monastery at the End of the World).
+
+### Creation Process {#creation-process .unnumbered}
+
+Primary source was the digital [Mahāsaṅgīti]{lang="sa"} edition of the
+Pali [Tipiṭaka]{lang="sa"}. Translated from the Pali, with reference to
+several English translations, especially those of Bhikkhu Bodhi. Older
+translations by Maurice Walshe and T.W. and C.A.F. Rhys Davids were also
+consulted.
+
+### The Translation {#the-translation .unnumbered}
+
+This translation was part of a project to translate the four Pali
+[Nikāyas]{lang="sa"} with the following aims: plain, approachable
+English; consistent terminology; accurate rendition of the Pali; free of
+copyright. It was made during 2016--2018 while Bhikkhu Sujato was
+staying in Qimei, Taiwan.
+
+### About SuttaCentral {#about-suttacentral .unnumbered}
+
+SuttaCentral publishes early Buddhist texts. Since 2005 we have provided
+root texts in Pali, Chinese, Sanskrit, Tibetan, and other languages,
+parallels between these texts, and translations in many modern
+languages. Building on the work of generations of scholars, we offer our
+contribution freely.
+
+SuttaCentral is driven by volunteer contributions, and in addition we
+employ professional developers. We offer a sponsorship program for high
+quality translations from the original languages. Financial support for
+SuttaCentral is handled by the SuttaCentral Development Trust, a
+charitable trust registered in Australia.
+
+### About Bilara {#about-bilara .unnumbered}
+
+"Bilara" means "cat" in Pali, and it is the name of our Computer
+Assisted Translation (CAT) software. Bilara is a web app that enables
+translators to translate early Buddhist texts into their own language.
+These translations are published on SuttaCentral with the root text and
+translation side by side.
+
+### About SuttaCentral Editions {#about-suttacentral-editions .unnumbered}
+
+The SuttaCentral Editions project makes high quality books from selected
+Bilara translations. These are published in formats including HTML,
+EPUB, PDF, and print.
+
+You are welcome to print any of our Editions.
+
+[^1]: Tradition holds that these were the words spoken by Ānanda when
+    reciting the [Suttapiṭaka]{lang="sa"} at the First Council following
+    the Buddha's death. In fact it is a tag signifying that the text has
+    been passed down through oral tradition and the speaker was not
+    present at the events ([DN
+    5:21.10](https://suttacentral.net/dn5/en/sujato#21.10), [MN
+    127:17.4](https://suttacentral.net/mn127/en/sujato#17.4)). \| This
+    sutta with its commentary was translated by Bhikkhu Bodhi in his
+    *The All-Embracing Net of Views*.
+
+[^2]: By convention, suttas do not specify the date, so we have scant
+    internal chronology. \| Walk about fifteen kilometers north from
+    [Rājagaha]{lang="sa"} (modern Rajgir) to reach [Nāḷandā]{lang="sa"}.
+    \| "Mendicant" is a literal translation of *bhikkhu*, one who goes
+    for alms.
+
+[^3]: A "wanderer" (*[paribbājaka]{lang="sa"}*) was a homeless religious
+    renunciate---male or female, Brahmanical or other---who wandered
+    seeking alms. \| "Resident pupil" (or elsewhere just "pupil") is
+    *[antevāsi]{lang="sa"}*, a live-in apprentice of a master. \|
+    "Student" (*[māṇava]{lang="sa"}*) is a young man who was learning
+    the Vedas from a master.
+
+[^4]: Today these are called the Triple Gem that makes up the Buddhist
+    religion; however they are not known by that term in the early
+    texts.
+
+[^5]: While the disagreement of student and teacher signifies their
+    confusion, it also represents the diversity of views within the
+    brahmanical caste and the openness with which a student could
+    disagree with their teacher.
+
+[^6]: [Ambalaṭṭhikā]{lang="sa"} means "place of mango saplings". It was
+    a rest-house set up by the king of [Rājagaha]{lang="sa"} about a
+    day's journey from the capital. It must have been sizable.
+
+[^7]: *[Saṅkhiyadhamma]{lang="sa"}* is a unique term. The commentary
+    glosses it as *[kathādhamma]{lang="sa"}*, following which it has
+    been translated as "conversation" or "trend of conversation". But
+    *[saṅkhā]{lang="sa"}* means "appraisal, assessment, evaluation,
+    measuring, calculating", and here the subject of discussion is the
+    different ways the two parties assess or judge the Buddha, Dhamma,
+    and [Saṅgha]{lang="sa"}. Compare the "appraisal" of the Buddha at
+    [DN 19:19.2](https://suttacentral.net/dn19/en/sujato#19.2).
+
+[^8]: *Adhimutti* is something that has been decided, a conviction or
+    belief.
+
+[^9]: This would have been an open air pavilion in the rest-house. By
+    convention, when a teacher or other respected person is to sit, a
+    sitting mat is spread out or made ready for them.
+
+[^10]: The very first words of the Buddha in the
+    [Suttapiṭaka]{lang="sa"}: he asks to hear what others are saying.
+
+[^11]: Here and in similar passages the Pali repeats all and I
+    abbreviate.
+
+[^12]: The phrasing here is somewhat unusual and specific. They "should
+    not do" what creates bitterness (i.e. judging others). Compare [MN
+    22](https://suttacentral.net/mn22/en/sujato), where the same phrases
+    are used. In the Buddha's case, it has the neutral *hoti*, while for
+    the mendicants it uses *[karaṇīya]{lang="sa"}*, as here.
+
+[^13]: Complaining about others does not hurt them, only the one who
+    gets upset.
+
+[^14]: Equanimity is a prerequisite for evaluating facts.
+
+[^15]: Ethics (or morality or virtue, *[sīla]{lang="sa"}*) is important,
+    but it pales in comparison with the higher dimensions of the
+    Buddha's path. For an example of this kind of praise see [MN
+    77:8.1](https://suttacentral.net/mn77/en/sujato#8.1). \| The Buddha
+    often referred to himself as "the Realized One"
+    (*[tathāgata]{lang="sa"}*).
+
+[^16]: Here the Buddha lays out in detail the ethical conduct for
+    mendicant followers.
+
+[^17]: The first and most important precept. It is not just the negative
+    injunction to avoid killing, but also the positive injunction to
+    have compassion for all creatures. \| The Buddha is called "the
+    ascetic Gotama" by non-Buddhists.
+
+[^18]: An "ordinary person" (*puthujjana*) is anyone who has not, at
+    minimum, entered the path to stream-entry.
+
+[^19]: "Chastity" is *brahmacariya*, literally "divine conduct". Here it
+    is used in the narrow sense of refraining from sex, but more
+    commonly it has a broader sense of "spiritual life".
+
+[^20]: This is the first of the four kinds of right speech. Just as the
+    precept of not killing implies the positive injunction to live with
+    compassion, the precepts on speech enjoin a positive and
+    constructive use of speech.
+
+[^21]: "Harmony" (or "unanimity", *samagga*) does not excuse untrue,
+    bigoted, or otherwise harmful speech. True harmony is only achieved
+    in the presence of the Dhamma.
+
+[^22]: *Attha* is a polyvalent term, here taking the senses "meaningful"
+    and "beneficial". Elsewhere it means "goal", "need", "purpose",
+    "lawsuit", or "ending", and the senses are not always easy to
+    untangle.
+
+[^23]: Buddhists generally do not regard plants as sentient, but value
+    them as part of the ecosystem that supports all life.
+
+[^24]: From [MN 66:6.4](https://suttacentral.net/mn66/en/sujato#6.4) and
+    [MN 70:4.8](https://suttacentral.net/mn70/en/sujato#4.8) we can see
+    that "at night" means after dark, while "at the wrong time" means in
+    the afternoon. More explicitly, these are the "wrong time at night"
+    and the "wrong time in the day", in which case they are both the
+    "wrong time".
+
+[^25]: Such sensual entertainments distract and excite the mind. This
+    and the next three precepts encourage peace of mind for meditation.
+
+[^26]: This was ignored by the Buddha's cousin, Nanda ([SN
+    21.8:1.2](https://suttacentral.net/sn21.8/en/sujato#1.2)).
+
+[^27]: To avoid sleeping too much.
+
+[^28]: Literally "gold and silver" (*[jātarūparajata]{lang="sa"}*), but
+    *rajata* is explained in [Bu NP
+    18:2.8](https://suttacentral.net/pli-tv-bu-vb-np18/en/sujato#2.8) as
+    currency of any kind.
+
+[^29]: Mendicants receive only the day's meal and do not store or cook
+    food.
+
+[^30]: According to ancient Indian law ([Arthaśāstra]{lang="sa"} 3.13),
+    a person in a time of trouble may bind themselves in service for a
+    fee. Such bondservants were protected against cruelty, sexual abuse,
+    and unfair work. After earning back the fee of their indenture they
+    were freed, retaining their original inheritance and status.
+
+[^31]: These are animals raised for food.
+
+[^32]: Land for a monastery may be accepted by the [Saṅgha]{lang="sa"}
+    as a community, but not by individual mendicants.
+
+[^33]: These items are discussed in detail below. \| Acting as a
+    go-between for lay business was tempting due to the mendicants'
+    wandering lifestyle. However, it exposes them to risk if the message
+    is not delivered or if it is bad news.
+
+[^34]: For example, trading in monastery property.
+
+[^35]: This section expands some of the former section in further
+    detail. \| The "middle" and "large" sections on ethics are not found
+    in briefer presentations such as [MN
+    27:14.1](https://suttacentral.net/mn27/en/sujato#14.1).
+
+[^36]: That these are not five "kinds of seeds" but five kinds of
+    "plants grown from seeds" is clear from the Vinaya and its
+    commentary ([Bu Pc
+    11](https://suttacentral.net/pli-tv-bu-vb-pc11/en/sujato):
+    *[Bhūtagāmo]{lang="sa"} [nāma]{lang="sa"} [pañca]{lang="sa"}
+    [bījajātāni]{lang="sa"}*).
+
+[^37]: For storing up food as a sign of decline, see [DN
+    27:17.5](https://suttacentral.net/dn27/en/sujato#17.5).
+
+[^38]: *Sobhanaka* ("beauty pageant") is explained by the commentary as
+    the movement (or "sprinkling") of dancers, or their beautification
+    and painting. The PTS reading *sobha-[nagarakaṁ]{lang="sa"}*,
+    supported by an unrelated reference to a *gandhabba* city of that
+    name, is spurious. \| *[Caṇḍālaṁ]{lang="sa"} [vaṁsaṁ]{lang="sa"}
+    [dhovanaṁ]{lang="sa"}* should be a compound, as shown by the prose
+    to [Ja 498](https://suttacentral.net/ja498/en/sujato), where it is a
+    performance by corpse-workers (*[caṇḍāla]{lang="sa"}*) in
+    [Ujjenī]{lang="sa"}. *[Vaṁsa]{lang="sa"}* is the bamboo used by
+    *[caṇḍāla]{lang="sa"}* acrobats ([SN
+    47.19](https://suttacentral.net/sn47.19/en/sujato)). *Dhovana* is
+    referred by the commentary to [AN
+    10.107](https://suttacentral.net/an10.107/en/sujato), where it is a
+    southern ceremony accompanied by drink and dance. The commentaries
+    to AN and DN say it was the ritual washing of the bones of the
+    buried dead after the decomposition of the flesh. Such "second
+    funeral" rites have been observed world-wide. From the
+    [Jātaka]{lang="sa"} it appears that the tradition had declined to a
+    mere display for passers-by, perhaps featuring naked tribal girls.
+    \| *Uyodhika* is sometimes said to be "sham fights", but at [AN
+    10.30](https://suttacentral.net/an10.30/en/sujato) it is not a sham.
+    And the definition at [Bu Pc
+    50](https://suttacentral.net/pli-tv-bu-vb-pc50/en/sujato) says
+    "where strife is seen".
+
+[^39]: See too [DN
+    31:11.1](https://suttacentral.net/dn31/en/sujato#11.1).
+
+[^40]: "Checkers" (*[aṭṭhapada]{lang="sa"}*) was presumably the ancestor
+    of the Gupta period *[caturaṅga]{lang="sa"}* and hence modern chess.
+    \| *[Yathāvajja]{lang="sa"}* is explained in the commentary as
+    "mimicking deformities", but I cannot find support elsewhere in Pali
+    or Sanskrit for *vajja* in this sense. More likely it refers to
+    musical instruments (Sanskrit *[vādya]{lang="sa"}*).
+
+[^41]: *[Tiracchānakathā]{lang="sa"}* literally means "animal talk". The
+    Pali word for animal, *[tiracchāna]{lang="sa"}* has the sense of
+    "moving horizontally", and "low talk" is that which does not
+    elevate.
+
+[^42]: *[Bhavābhava]{lang="sa"}* does not mean "existence and
+    non-existence" but is a distributive compound, "this or that state
+    of existence". Indian religious texts are full of discussions about
+    different heavens and hells.
+
+[^43]: The folly of disputatiousness is a consistent theme in the
+    suttas, but is a special focus of the [Aṭṭhakavagga]{lang="sa"} of
+    the [Suttanipāta]{lang="sa"}.
+
+[^44]: "Rulers" (*[raññaṁ]{lang="sa"}*, genitive plural) include
+    hereditary kings as well as the elected joint leaders of republican
+    states such as the Sakyans or Vajjis.
+
+[^45]: Some renunciants like to butter up potential donors, or make
+    ostentatious displays to prompt further donations. \| "Using
+    material possessions to chase after other material possessions"
+    includes trading monastery property for profit.
+
+[^46]: This section focuses on practices that are wrong livelihood for a
+    mendicant, though not for lay people. The Vinaya explains "low lore"
+    as whatever is non-Buddhist or useless ([Bi Pc
+    49](https://suttacentral.net/pli-tv-bi-vb-pc49/en/sujato)), while
+    the commentary says it leads not to emancipation but to heaven.
+
+[^47]: Reading *[khattavijjā]{lang="sa"}* ("political science") per
+    variant as *[khettavijjā]{lang="sa"}* ("geomancy"). \| *Sara* in
+    *saraparitta* means "sound" not "arrow"; compare with
+    *[sarabhañña]{lang="sa"}* "chanting". \| *Migacakka* is explained in
+    the commentary, supported by the astrological text
+    [Bṛhatsaṁhitā]{lang="sa"}, as interpretation of the cries and
+    behaviors of wild animals. Here the suffix *-cakka* refers to the
+    field of study. See also [Mil
+    5.3.7:6.1](https://suttacentral.net/mil5.3.7/en/sujato#6.1)
+    *[sācakkaṁ]{lang="sa"} [migacakkaṁ]{lang="sa"}
+    [antaracakkaṁ]{lang="sa"}* ("divining omens from dogs, wild animals,
+    and the directions around"), terms which are also found at
+    [Bṛhatsaṁhitā]{lang="sa"} 2.
+
+[^48]: The commentary oddly has "earrings or house-gables" for
+    *[kaṇṇika]{lang="sa"}* ("eared one"), but it must be "rabbit", for
+    which see *[sasakaṇṇikā]{lang="sa"}* at [Ja
+    535:76](https://suttacentral.net/ja535/en/sujato#76).
+
+[^49]: Despite this, astrology is commonly practiced today among
+    Buddhist mendicants. \| *(Up)pathagamana* can hardly mean that the
+    sun, moon, and stars will "go astray". Rather, *patha* here has the
+    sense of "range", so it means "come within range", which describes
+    an astrological conjunction. \| For "fiery sky"
+    (*[disāḍāha]{lang="sa"}*) as an ill omen, see *[diśāṁ]{lang="sa"}
+    [dāhe]{lang="sa"}* at [Manusmṛti]{lang="sa"} 4.115.
+
+[^50]: "Cosmology" (*[lokāyata]{lang="sa"}*) in early Buddhist texts is
+    not, as it later became known, the heterodox school of materialism.
+    Rather, it was a branch of worldly knowledge within regular Vedic
+    studies concerned with the nature and extent of the world and how
+    this may be known ([AN
+    9.38](https://suttacentral.net/an9.38/en/sujato), [SN
+    12.48](https://suttacentral.net/sn12.48/en/sujato)).
+
+[^51]: The commentary has
+    *[saṅkiraṇa]{lang="sa"}*/*[vikiraṇa]{lang="sa"}* as "saving and
+    spending" (cp. [Snp
+    1.6:23.1](https://suttacentral.net/snp1.6/en/sujato#23.1)), but it
+    seems unlikely. *[Vikiraṇa]{lang="sa"}* means "scattering" food or
+    sand, while Sanskrit *vikira* is the ritual scattering of rice.
+    Given the context, I think it refers to the custom of scattering
+    rice at a wedding. \| For *[viruddhagabbhakaraṇa]{lang="sa"}*,
+    *viruddha* means "obstructed". The commentary here, in general
+    agreement with the Niddesa on *[gabbhakaraṇa]{lang="sa"}* at [Snp
+    4.14](https://suttacentral.net/snp4.14/en/sujato), explains as
+    giving treatments for the survival of the fetus. \| I omit
+    *hanujappana* as it is absent from the commentary and seems to have
+    just arisen by confusion.
+
+[^52]: Medicine is right livelihood, but a mendicant should not make a
+    living from it. They may treat fellow mendicants, family members, or
+    those close to the monastery. \| *Santikamma* is the Sanskrit
+    *[śāntikakarman]{lang="sa"}*, a rite for averting evil. \| For
+    *vassakamma* and *vossakamma*, the commentary has "fertile and
+    infertile men" (*vassoti puriso, vossoti [paṇḍako]{lang="sa"}*),
+    taking "rain" as a metaphor for semen. Such usages do have precedent
+    elsewhere. But in context I take *vassa* simply as "rain" and
+    *vossa* as equivalent to Sanskrit *vyavasya* in the sense of making
+    a settlement for land. \| I take *[paṭimokkho]{lang="sa"}* in the
+    sense of "binding" (cf. *[paṭimukka]{lang="sa"}* at [MN
+    38:41.11](https://suttacentral.net/mn38/en/sujato#41.11) etc.)
+    rather than the commentary's "release" (from the effects of caustic
+    medicines; cf. [Tha Ap
+    25:5.4](https://suttacentral.net/tha-ap25/en/sujato#5.4)).
+
+[^53]: One meaning of *dhamma* is "principle" in the sense of a natural
+    law as well as a moral value. \| Here begins the famous exposition
+    of the sixty-two views. The subtlety of the analysis lies in how,
+    rather than refuting the details of the views, the Buddha traces
+    them all back to their fundamental psychology.
+
+[^54]: In such contexts, the "self" (*[attā]{lang="sa"}*) is a
+    postulated metaphysical entity rather than a simple psychological
+    sense of personal identity. The nature of this "self" or "soul" was
+    endlessly debated. The Buddha rejected all theories of a "self", and
+    elsewhere it is said that "identity view" underlies all sixty-two
+    views of the [Brahmajāla]{lang="sa"} ([SN
+    41.3:4.13](https://suttacentral.net/sn41.3/en/sujato#4.13)). \| The
+    "cosmos" is the *loka*, otherwise translated as "world". This
+    sometimes refers to the simple physical realm, sometimes to the
+    world of experience, or else, as here, the vast universe as
+    conceived in ancient Indian thought.
+
+[^55]: "Immersion" (*[samādhi]{lang="sa"}*) is deep meditative
+    stillness. The word conveys the sense of "gathered", "collected",
+    with a secondary sense of "ignited", "illuminated". The practice of
+    *[samādhi]{lang="sa"}* (or *[jhāna]{lang="sa"}*, "absorption") has
+    never been regarded as uniquely Buddhist. However, right meditation
+    begins with right view. Since these meditators begin with wrong
+    view, their *[samādhi]{lang="sa"}* is "wrong" because it merely
+    reinforces their error.
+
+[^56]: The recollection of past lives is specific, detailed, and
+    confident as it is based on the clear mind of deep immersion.
+
+[^57]: This is the [Upaniṣadic]{lang="sa"} view of the eternal
+    *[ātman]{lang="sa"}* that is the immanent soul of the world or
+    cosmos, *loka*. Elsewhere in the suttas such theorists assert that
+    the self and the cosmos are identical ([SN
+    24.3:1.3](https://suttacentral.net/sn24.3/en/sujato#1.3): *so
+    [attā]{lang="sa"} so loko*).
+
+[^58]: The eternal "self" is contrasted with the ephemeral lives of
+    beings. \| The famous word *[saṁsara]{lang="sa"}* is often
+    understood as a "cycle" of rebirths, but the meaning is, rather, to
+    "wander on" or "transmigrate". \| For the phrase
+    *[sassatisamaṁ]{lang="sa"}* ("lasting forever and ever"), compare
+    [Bṛhadāraṇyaka]{lang="sa"} [Upaniṣad]{lang="sa"} 5.10.1: "He reaches
+    that world free of sorrow and snow, where he lives forever and ever"
+    (*sa lokam [āgacchaty]{lang="sa"} [aśokam]{lang="sa"} ahimam \|
+    tasmin vasati [śāśvatīḥ]{lang="sa"} [samāḥ]{lang="sa"}*).
+
+[^59]: Their meditative experience revealed a process of transient and
+    changing lives, yet from that they infer that there must be an
+    eternal self.
+
+[^60]: This differs only in the length of time, which is now up to ten
+    eons. A single eon (*kappa*) lasts longer than it would take to wear
+    away a huge mountain by stroking it with a cloth once a century [SN
+    15.5](https://suttacentral.net/sn15.5/en/sujato), while the number
+    of eons is greater than the sands in the Ganges river [SN
+    15.8](https://suttacentral.net/sn15.8/en/sujato). The vast time
+    periods envisaged in early Buddhist texts are comparable with those
+    of modern cosmology in physics.
+
+[^61]: These theorists used a process of logic to arrive at the same
+    conclusion as the meditators. Different groups of ascetic
+    philosophers emphasized contemplation or rational inquiry as the
+    means to the truth. The Buddha acknowledged that both are useful but
+    limited because, as here, they can sometimes lead to mistaken
+    conclusions.
+
+[^62]: I have my doubts about this phrase. Everywhere else, *ito
+    [bahiddhā]{lang="sa"}* means "outside of the Buddhist community",
+    not "outside of the cases just considered". Still, the commentary
+    and the Chinese parallel at T 21 agree on this sense.
+
+[^63]: A "view" (*[diṭṭhi]{lang="sa"}*) is a relatively fixed framework
+    for understanding the world; a "theory". The "grounds for views"
+    (*[diṭṭhiṭṭhānāni]{lang="sa"}*) are the bases from which the views
+    are derived. In this case these are the meditative experiences or
+    the logical reasoning.
+
+[^64]: The word *[parāmasati]{lang="sa"}* means "to take hold" and is
+    often used in the sense "to misapprehend".
+
+[^65]: *[Yathābhūtaṁ]{lang="sa"}* is often translated as "as it really
+    is", while I usually render it simply as "truly". It often has a
+    technical sense of seeing "how things came to be (*bhuta*)" as a
+    process of conditionality ([SN
+    12.31:7.1](https://suttacentral.net/sn12.31/en/sujato#7.1)). Such
+    direct vision of the truth is an attribute of the stream-enterer,
+    who has realized the first of the four stages of awakening, in
+    contrast with those on the path who still rely on faith or inference
+    ([SN 25.1](https://suttacentral.net/sn25.1/en/sujato)). Here it
+    refers to the understanding of feelings from a fivefold perspective.
+    Feelings underlie intellectual theories and arguments, which serve
+    to sate cravings and fears.
+
+[^66]: Long texts are sometimes marked by their "recitation sections"
+    (*[bhāṇavāra]{lang="sa"}*), which was the length that would be
+    recited in one session.
+
+[^67]: Despite being views of the "self and the cosmos", the main focus
+    in the next four views is the self.
+
+[^68]: This is the end of an eon. It might be compared with what the
+    physicists call the "big crunch".
+
+[^69]: The human and similar realms are destroyed in the conflagration
+    at the end of the universe, but sentient beings are sustained by the
+    power of their past kamma. \| The "realm of streaming radiance" is a
+    [Brahmā]{lang="sa"} heaven corresponding to the second
+    *[jhāna]{lang="sa"}*.
+
+[^70]: "Mind-made" (*manomaya*) beings are spontaneously born due to
+    past kamma, not by sex. \| "Rapture" (*[pīti]{lang="sa"}*) is a
+    joyous emotional response to pleasure, usually a spiritual sense of
+    elevation or uplift in meditation.
+
+[^71]: This might be compared with the "big bang" of a cyclic universe.
+
+[^72]: The realms into which beings are reborn exist interdependently
+    with the beings themselves. The different dimensions correspond with
+    different kinds of kamma.
+
+[^73]: That is, they pass from a world corresponding to the second
+    *[jhāna]{lang="sa"}* to one corresponding to the first
+    *[jhāna]{lang="sa"}*.
+
+[^74]: This passage echoes the creation myth in
+    [Bṛhadāraṇyaka]{lang="sa"} [Upaniṣad]{lang="sa"} 1.4. At 1.4.2, the
+    self-created Divinity feels fearful and alone, and at 1.4.3 and
+    1.4.17 wishes for a partner. From a Buddhist point of view, this
+    simply shows how even God is trapped by emotional attachments in the
+    cycle of transmigration.
+
+[^75]: These beings are reborn according to their own kamma, and it is
+    just a coincidence that they appear after the first being made their
+    wish.
+
+[^76]: His first words *ahamasmi [brahmā]{lang="sa"}* ("I am
+    [Brahmā]{lang="sa"}") are equivalent to *aham
+    [brahmāsmīti]{lang="sa"}* at 1.4.10. See too
+    *so'[hamasmīti]{lang="sa"}* ("I am that") at
+    [Bṛhadāraṇyaka]{lang="sa"} [Upaniṣad]{lang="sa"} 1.4.1, which
+    parallels the Pali *eso'hamasmi* at [MN
+    28:6.8](https://suttacentral.net/mn28/en/sujato#6.8) etc.
+
+[^77]: At [Bṛhadāraṇyaka]{lang="sa"} [Upaniṣad]{lang="sa"} 1.4.5 the
+    Divinity thinks, "I created all this".
+
+[^78]: The other creatures appeared after his wish, not because of it.
+    God confuses correlation with causation, a mistake perpetuated by no
+    small number of his followers.
+
+[^79]: At [Bṛhadāraṇyaka]{lang="sa"} [Upaniṣad]{lang="sa"} 1.4.9--10 the
+    created humans also think first about the Divinity who preceded
+    them, from whose knowledge of self all was created.
+
+[^80]: Again, their meditation experience is genuine, but what they
+    infer from it goes beyond the facts.
+
+[^81]: The surviving forms of Indic religion (Buddhism, Hinduism,
+    Jainism) typically hold that all creatures ultimately share the same
+    nature and hence can find liberation. Here we see this was not
+    always the case, for these theorists believed that there are
+    inherently different orders of beings in the cosmos. This is not due
+    to their conduct but to the circumstances of their creation.
+
+[^82]: Delightful as the life of the gods is, even they are supposed to
+    retain a sense of moderation ([MN
+    37:11.2](https://suttacentral.net/mn37/en/sujato#11.2)), a lesson
+    forgotten by those "depraved by play"
+    (*[khiḍḍāpadosikā]{lang="sa"}*). \| Note that mindfulness (*sati*)
+    is not held to be a specifically Buddhist virtue. Here it refers to
+    a sense of moral compass and self-awareness, rather than a
+    meditation practice.
+
+[^83]: Here the difference in beings is attributed not to the
+    circumstances of their creation but to their behavior.
+
+[^84]: The parallel between *manopadosika* ("malevolent") and
+    *khiddapadosika* ("depraved by play") suggests a rendering "depraved
+    in mind" for *manopadosika*. However, elsewhere in the suttas
+    *manopadosa* consistently means "malicious intent" ([MN
+    56:13.15](https://suttacentral.net/mn56/en/sujato#13.15), [MN
+    93:18.30](https://suttacentral.net/mn93/en/sujato#18.30), [DN
+    26:20.3](https://suttacentral.net/dn26/en/sujato#20.3). Also see
+    *mano [padūseyya]{lang="sa"}* at [MN
+    21:20.1](https://suttacentral.net/mn21/en/sujato#20.1) and [MN
+    28:9.6](https://suttacentral.net/mn28/en/sujato#9.6). Thus the
+    contrast is between greed and hate. \| Here, as usual, *mano* and
+    *citta* are synonyms for "mind".
+
+[^85]: This is mind-body dualism, the idea that the mind is made of a
+    fundamentally different stuff than the body.
+
+[^86]: Here we move from views that conceive of both the self and the
+    cosmos together to those that focus only on the physical extent of
+    the cosmos. It is not clear why these are classified as "views of
+    the past".
+
+[^87]: Once again the view is inferred from meditation, showing that
+    meditative experience was regarded by some as revealing genuine
+    truths about the physical realm.
+
+[^88]: The nature of their meditation is assumed to be the nature of the
+    world itself.
+
+[^89]: In each of the two previous sets of four views, the views
+    themselves were the same, only the means of knowing them differed.
+    Here the views themselves differ. The differences take the form of a
+    tetralemma: A, not-A, both A and not-A, neither A nor not-A. This
+    pattern is commonly found in early Buddhism, as well as Indian
+    thought more generally. The final two items are not meant to be
+    obscure or mysterious, but to express genuine possibilities that
+    cannot be captured by a simple duality.
+
+[^90]: It is common today to say that one's own experience is valid for
+    oneself. Clearly that is not how these philosophers thought.
+
+[^91]: They perceive the universe as spread out like a disc. One might
+    call it a "discworld".
+
+[^92]: The text doesn't specify what this is, but it might include the
+    view that the ideas "finite" and "infinite" are inadequate to
+    describe the universe. Consider a universe expanding at the speed of
+    light. At any point in time it is not infinite, but as it is
+    impossible to reach its end it is not finite either.
+
+[^93]: *Vikkhepa* is "ﬂip-flopping". \| *[Amarā]{lang="sa"}* is
+    explained in the commentary as either "undying" or "eel-like".
+    However, *[amarā]{lang="sa"}* in the sense of "eel" is found only in
+    the commentary to this term so is probably spurious.
+
+[^94]: This is a basic requirement for any spiritual teacher.
+
+[^95]: Despite their dullness, they have a genuine sense of conscience
+    and wish to avoid breaking precepts.
+
+[^96]: A wise teacher avoids making pronouncements about what they do
+    not understand, but these teachers use this as a cover to hide the
+    fact that they do not understand anything.
+
+[^97]: Here too they show a certain sincerity to avoid giving rise to
+    unwholesome qualities.
+
+[^98]: They avoid making statements, not from a sense of conscience, but
+    for fear of public shaming.
+
+[^99]: Also at [MN
+    76:30.2](https://suttacentral.net/mn76/en/sujato#30.2).
+
+[^100]: Here begins a series of four tetrads that are commonly
+    encountered in the suttas. The first is the belief in an afterlife.
+
+[^101]: The denial of an afterlife.
+
+[^102]: This could include a belief that eternal life is offered only to
+    adherents of a certain religion.
+
+[^103]: This could include the idea that our intrinsic nature is one
+    with the cosmos, and our separation from that infinitude in this
+    life is only a veil of delusion. Thus there is no other world,
+    because all worlds are this world, but it is also not the case that
+    there is nothing after death.
+
+[^104]: This is beings such as the gods or various ghosts and spirits,
+    which are not born organically.
+
+[^105]: This denies the existence of such beings. Not everyone in
+    ancient India believed in the various orders of beings.
+
+[^106]: The belief that beings are both spontaneously born and
+    organically born. Perhaps this denies that such a distinction can be
+    made clearly, because both kinds of birth take place within the same
+    order of beings.
+
+[^107]: Beings are reborn in other ways.
+
+[^108]: This is the standard Buddhist view of kamma, shared with some,
+    but not all, of the other Indian religions of the time.
+
+[^109]: Doing good or bad has no result; moral nihilism.
+
+[^110]: Sometimes good and bad deeds have results, other times not.
+
+[^111]: The results of actions are too subtle to be described as good or
+    bad.
+
+[^112]: An awakened one, whether the Buddha or anyone else, exists after
+    death, for example in an eternal state of Nirvana.
+
+[^113]: A sage ceases to exist at the time of death. From a Buddhist
+    point of view, this is incoherent since it assumes the underlying
+    attachment to a "self", which the Realized One has done away with.
+
+[^114]: For example, their body does not exist but their mind does.
+
+[^115]: A sage is in a subtle state that cannot be characterized in
+    terms of existence or non-existence.
+
+[^116]: This is an obscure realm of existence where the operations of
+    consciousness are suspended.
+
+[^117]: First each section is concluded, then the whole first part is
+    concluded. This formalism is a characteristic of oral tradition. It
+    creates a nested hierarchy of content, clarifying the structure and
+    helping to preserve the text in memory.
+
+[^118]: This section introduces more tetralemmas. Many of the views
+    describe the self in terms of the five aggregates---form, feeling,
+    perception, choices, and consciousness.
+
+[^119]: Usually a self is conceived of as percipient, so that the
+    subject experiences a continuity. \| The term *aroga* ("free of
+    disease") is explained by the commentary as "permanent" (*nicca*),
+    drawing on the root sense of the word, "unbroken". However, *aroga*
+    is always used in the sense "free of disease, well, healthy" (eg.
+    [MN 97:2.4](https://suttacentral.net/mn97/en/sujato#2.4)), and this
+    applies to the Brahmanical tradition as well as the Buddhist.
+    Chandogya [Upaniṣad]{lang="sa"} 7.26.2 says that one who sees (the
+    self) does not see death, they have no disease or pain.
+    [Bṛhadāraṇyaka]{lang="sa"} [Upaniṣad]{lang="sa"} 4.4.12 similarly
+    says that one who sees the self will not suffer in the wake of the
+    body, which [Śaṅkāra]{lang="sa"} explains, "Struggling with desires
+    for himself, for his son, for his wife, and so on, he is born and
+    dies again and again, and is diseased when his body is diseased."
+
+[^120]: Here the self has a physical dimension but no perception. This
+    might include rebirth as a plant or inanimate object.
+
+[^121]: Buddhism acknowledges a formless realm of neither perception nor
+    non-perception, which is attained through advanced meditation.
+
+[^122]: These theorists assert the true existence of a being, thus
+    falling into the fallacy of identity view. For the Buddha, the words
+    "being" or a "self" describe an ongoing process that is conditioned
+    and impermanent, and do not correspond to a genuine metaphysical
+    reality. The distinction between contingent, empirical reality and
+    metaphysical, absolute existence is essential to understanding early
+    Buddhism.
+
+[^123]: This is the materialist view, which accepts only the coarse
+    physical realm. This view is common today, but was also well known
+    in the Buddha's time. \| The "four principal states" are earth,
+    water, fire, and air, i.e. the states of matter: solid, liquid,
+    plasma, and gas.
+
+[^124]: The theorist accepts multiple selves. As self theories evolve,
+    they typically move from more coarse materialist theories towards
+    more subtle conceptions. Sometimes the former view is rejected as
+    being false. Sometimes, as here, the former view is seen not as
+    false, but as incomplete and shallow.
+
+[^125]: "Form" (*[rūpa]{lang="sa"}*) includes not just the physical
+    realm of the elements, but various kinds of subtle form
+    (*[sukhumarūpa]{lang="sa"}*). These include the energetic or
+    mind-made bodies of beings in various dimensions.
+    *[Rūpa]{lang="sa"}* ultimately refers to the appearance or
+    manifestation of physical properties, and can even include the
+    perception of colors, lights, and shapes in the mind. Here the
+    bodies of the divine beings are not very distant from our own, as
+    they still consume solid food. This probably refers to various
+    nature deities or entities that were believed to consume the food
+    offered to them by humans.
+
+[^126]: Whereas the eternalists believe that their heavenly rebirth will
+    last forever, annihilationists believe that even heaven is limited,
+    and it ends in final annihilation.
+
+[^127]: This is a more subtle kind of divine rebirth, no longer
+    dependent on physical food. The subtle body still takes on a
+    humanoid form, however, appearing complete in all its limbs. It
+    includes realms produced through the practice of the four
+    *[jhānas]{lang="sa"}*. \| *[Sabbaṅga]{lang="sa"}* has the sense
+    "whole and healthy of limb" (Rig Veda 10.161.5c, Atharva Veda
+    8.2.8c, 11.3.32 ff.). One is reborn with "whole body" (*sarvatanu*,
+    Atharva Veda 5.6.11c, Śatapatha [Brāhmaṇa]{lang="sa"} 11.1.8.60,
+    12.8.3.31). \| *[Paccaṅga]{lang="sa"}* means "minor limb", for
+    example the fingers or internal organs.
+
+[^128]: Such a rebirth has left even the subtle body behind, becoming
+    sheer consciousness. \| The word *[āyatana]{lang="sa"}* is from a
+    root meaning "expanse". It is prominently used in this context,
+    where it refers to a realm or "dimension" of rebirth, and in the
+    analysis of sense experience, where it refers to a "field" of sense
+    experience.
+
+[^129]: This phrase appears incongruous as formless beings do not have a
+    body. However the Chinese parallel at DA 21 does not mention
+    *[kāya]{lang="sa"}* here, so it is likely to have arisen as an error
+    in transmission where an earlier phrase was mistakenly copied.
+
+[^130]: The extension of the normal description of this state with the
+    phrase "this is peaceful, this is sublime" is found only here and at
+    [AN 10.99:35.1](https://suttacentral.net/an10.99/en/sujato#35.1).
+
+[^131]: These five theories argue for the extinguishment of suffering
+    through the experience of pleasure in the present life. The Buddha
+    taught extinguishment (*[nibbāna]{lang="sa"}*) in this very life,
+    but not "of an existing being" (*sato sattassa*) or "self"
+    (*[attā]{lang="sa"}*). The Buddha denied that there is such a thing,
+    pointing out that we are a stream of ever-changing conditions,
+    fueled by desire and attachment, and liable to suffering. With the
+    end of craving there is no fuel to sustain the stream, so suffering
+    comes to an end. \| It is unclear why these views of the "present
+    life" (*[diṭṭhadhamma]{lang="sa"}*) are classified under views of
+    the future; see [MN
+    102:2.8](https://suttacentral.net/mn102/en/sujato#2.8).
+
+[^132]: The hedonist.
+
+[^133]: Here we see the philosophical reasoning that prompts the
+    evolution of more refined conceptions of self.
+
+[^134]: The "absorptions" (*[jhāna]{lang="sa"}*) are central to Buddhist
+    meditation. The Buddha did say that they can be considered
+    "extinguishment in the present life" in a qualified sense ([AN
+    9.51](https://suttacentral.net/an9.51/en/sujato)). As we have seen
+    above, however, if they are undertaken with wrong view, the
+    experience itself will tend to reinforce the attachment to a self.
+
+[^135]: The theorist has an experience of a deeper state of meditation,
+    so they know that the first *[jhāna]{lang="sa"}* cannot be the
+    ultimate.
+
+[^136]: *[Jhānas]{lang="sa"}* are subtle states of refined consciousness
+    in which nothing is coarse when compared to ordinary consciousness.
+    Within each state, however, certain mental factors are coarse
+    relative to others. A meditator proceeds through the
+    *[jhānas]{lang="sa"}* with the successive stilling of the relatively
+    coarser factors in each state.
+
+[^137]: *Ābhoga* ("partaking") is unique in the early texts in this
+    sense. The commentary says that after emerging from
+    *[jhāna]{lang="sa"}*, one repeatedly partakes and attends to that
+    bliss (for *[ābhoga]{lang="sa"}* with *[manasikāra]{lang="sa"}*, see
+    [Mil 5.1.1:8.3](https://suttacentral.net/mil5.1.1/en/sujato#8.3)).
+    Compare [Patañjalī]{lang="sa"}'s commentary on
+    [Yogasūtra]{lang="sa"} 1.17: "*vitarka* is the gross (*sthula*)
+    partaking in the mental object, *[vicāra]{lang="sa"}* is subtle".
+
+[^138]: It is not clear why the still more subtle states of the formless
+    attainments are not included here.
+
+[^139]: Even the views of annihilation or extinguishment lead to
+    rebirth, contrary to the beliefs of those who hold them.
+
+[^140]: Here the Buddha brings to the fore the notion of feelings which
+    has been briefly mentioned throughout the text. Views are not
+    objective descriptions of the world, but responses to our innermost
+    needs. The word *paritassita* ("anxiety") conveys both fear and
+    desire, while *vipphandita* ("evasiveness") captures how attachment
+    to theorizing serves as an avoidance strategy.
+
+[^141]: The analysis is introducing more elements of dependent
+    origination. The famous twelve links say that contact is the
+    condition for feeling, which in turn causes craving.
+
+[^142]: The text repeats all, but I abbreviate for legibility. In the
+    oral tradition, extensive repetitions serve to reinforce the
+    learning and ensure reliability of transmission. More subtly, they
+    also help deepen understanding and contemplation. After reciting the
+    extensive and complex treatment of the sixty-two views, the reciter
+    takes the time to go over them again and again, letting them settle
+    and consolidate. True learning takes time, but the repetitions that
+    are reflective and reassuring in recitation become irksome and
+    ponderous in reading.
+
+[^143]: Finally the process of dependent origination, which has been
+    foreshadowed little by little, is brought to its ultimate
+    conclusion. It still does not include the full twelve factors, but
+    the process beginning with ignorance is implied throughout.
+
+[^144]: "Contact" (*phassa*) is the conjunction of the sense stimulus,
+    the sense organ, and the associated consciousness.
+
+[^145]: They cannot see a way past attachment so long as they theorize
+    in terms of an existing self.
+
+[^146]: The title is explained with a vivid simile. The Buddha was a
+    master of observation, and constantly drew from everyday experience
+    to illustrate his teachings. The metaphor works on a surface level
+    to illustrate how theorists are trapped. But it also conveys
+    something deeper, a sense of pathos and empathy with the helpless
+    creatures who have no idea why they suffer.
+
+[^147]: The Buddha is not his body, which is merely the remnant of past
+    kamma. The phrase *bhavanetti* ("conduit to rebirth") invokes a
+    channel that leads to a future life.
+
+[^148]: This metaphor is found at [Bṛhadāraṇyaka]{lang="sa"}
+    [Upaniṣad]{lang="sa"} 4.3.36, where it refers to the separation of
+    the self from the body at death.
+
+[^149]: It is not uncommon to find multiple names for the same sutta,
+    and here we see this practice originated with the Buddha himself.
+    When is referred to by name at [SN
+    41.3:2.4](https://suttacentral.net/sn41.3/en/sujato#2.4) and [Kd
+    1:1.8.8](https://suttacentral.net/pli-tv-kd1/en/sujato#1.8.8),
+    however, it is always called the [Brahmajāla]{lang="sa"}.
+
+[^150]: This sutta with its commentary was translated by Bhikkhu Bodhi
+    in his *The Fruits of Recluseship*.
+
+[^151]: This monastery belonged to the Buddha's doctor,
+    [Jīvaka]{lang="sa"}, who appears later in the sutta. His story is
+    told in [Kd 8](https://suttacentral.net/pli-tv-kd8/en/sujato), where
+    we learn that he was raised by Prince Abhaya of Magadha, a Jain ([MN
+    58](https://suttacentral.net/mn58/en/sujato)) who was also
+    interested in the teachings of [Pūraṇa]{lang="sa"} Kassapa ([SN
+    46.56](https://suttacentral.net/sn46.56/en/sujato)). [MN
+    55](https://suttacentral.net/mn55/en/sujato) on eating meat is
+    addressed to him.
+
+[^152]: The [Komudī]{lang="sa"} was an especially celebrated full moon
+    on the last month of the rainy season (*[kattikā]{lang="sa"}*,
+    October/November), when the skies were clear, the lotuses
+    (*[kumudā]{lang="sa"}*) were in bloom, and the moon was in
+    conjunction with the Pleiades, which gave the month its name.
+
+[^153]: *[Ajātasattu]{lang="sa"}* ("one against whom no foe is born")
+    was the son of [Bimbisāra]{lang="sa"} and heir to the
+    [Haryaṅka]{lang="sa"} dynasty of Magadha. In inscription and Jain
+    tradition he is also called [Kūṇika]{lang="sa"}. Jain tradition
+    holds that his mother was [Cellaṇā]{lang="sa"} daughter of
+    [Ceṭaka]{lang="sa"}, a [Licchavī]{lang="sa"} ruler from
+    [Vesālī]{lang="sa"}. This begs the question as to why
+    [Cellaṇā]{lang="sa"} was said to be "of Videha"; perhaps he married
+    a Videhan princess to forge an alliance with the
+    [Licchavī]{lang="sa"}'s northern neighbors. In any case, this is
+    more plausible than the Buddhist tradition that his mother was
+    Kosalan.
+
+[^154]: *[Pāsādikā]{lang="sa"}* here does not mean "tranquil"; it is
+    part of a stock list of terms meaning "beautiful, attractive" (eg.
+    [DN 4:13.7](https://suttacentral.net/dn4/en/sujato#13.7)). \|
+    *[Lakkhaññā]{lang="sa"}* is unique in early Pali. It is probably a
+    synonym in the sense of "possessing remarkable features, striking",
+    rather than "auspicious".
+
+[^155]: The king seeks redemption through his own actions; it is not
+    that the ascetic has any special power to bring peace to his mind.
+    \| The sutta is deliberately holding back the reason for the king's
+    distress. Compare [AN
+    5.50](https://suttacentral.net/an5.50/en/sujato), where the reason
+    for King [Muṇḍa]{lang="sa"} seeking solace is stated up front.
+
+[^156]: Though the king mentioned "ascetics and brahmins", his advisers
+    only recommend famous teachers of the ascetics
+    (*[samaṇa]{lang="sa"}*). For a shorter survey of their doctrines,
+    see [SN 2.30](https://suttacentral.net/sn2.30/en/sujato).
+
+[^157]: A little-known teacher of the inefficacy of action and
+    consequence, [Pūraṇa]{lang="sa"} was poorly regarded even by his own
+    students ([MN
+    77:6.19](https://suttacentral.net/mn77/en/sujato#6.19)). He is said
+    to have advocated a doctrine of six classes of rebirth ([AN
+    6.57](https://suttacentral.net/an6.57/en/sujato); the same text
+    reverentially mentions Makkhali [Gosāla]{lang="sa"}). \|
+    *[Pūraṇa]{lang="sa"}* means "filling" (not *[purāṇa]{lang="sa"}*,
+    "ancient").
+
+[^158]: The reason for the king's silence is revealed later. The
+    narrative is full of foreshadowing.
+
+[^159]: Founder of the [Ājīvakas]{lang="sa"}, who became the third
+    largest ascetic movement after Buddhism and Jainism. None of their
+    texts survive, but their teachings can be partially reconstructed
+    from Buddhist and Jain sources. He practiced with
+    [Mahāvīra]{lang="sa"} for six years before an acrimonious split,
+    following which he developed his doctrine of hard determinism.
+    *Makkhali* denotes a kind of ascetic bearing a bamboo staff, so
+    (like the similar appellations *[nigaṇṭha]{lang="sa"}* and
+    *[samaṇa]{lang="sa"}*) it indicates his affiliation. This being so,
+    and noting that Buddhist Sanskrit texts spell his name as
+    *[gośālīputra]{lang="sa"}* etc., the second name (like
+    *[nātaputta]{lang="sa"}* and *gotama*) might indicate his clan.
+    However, I can find no trace of such a clan, and both Jain and
+    Buddhist tradition, albeit unreliably, say the name arose because he
+    was born in a cowshed.
+
+[^160]: A materialist, he was an early proponent of the ideas later
+    known as [Cārvāka]{lang="sa"}. *Kesakambala* means "hair-blanket",
+    which was worn as an ascetic practice ([AN
+    3.137](https://suttacentral.net/an3.137/en/sujato)).
+
+[^161]: Another obscure teacher, he taught a reductive atomism which
+    negated the possibility of action with consequences. His first name
+    is sometimes spelled Kakudha; both words signify a hump or crest.
+
+[^162]: An agnostic, he is evidently the "wanderer [Sañjaya]{lang="sa"}"
+    who was the first teacher of [Sāriputta]{lang="sa"} and
+    [Moggallāna]{lang="sa"} before they left him to follow the Buddha
+    ([Kd
+    1:23.1.1](https://suttacentral.net/pli-tv-kd1/en/sujato#23.1.1)).
+    His name is obscure. Sanskrit spells it
+    *[vairaṭṭīputra]{lang="sa"}*, with several variations, but always
+    with *[ṭi]{lang="sa"}*. The commentary says he was the "son of
+    [Belaṭṭha]{lang="sa"}"; a [Belaṭṭha]{lang="sa"} [Kaccāna]{lang="sa"}
+    is found selling sugar at [Kd
+    1:26.1.2](https://suttacentral.net/pli-tv-kd1/en/sujato#26.1.2),
+    supporting the idea that [Belaṭṭha]{lang="sa"} was a personal rather
+    than clan name.
+
+[^163]: The Jain leader [Mahāvīra]{lang="sa"} [Vardhamāna]{lang="sa"} is
+    known as [Nigaṇṭha]{lang="sa"} [Nātaputta]{lang="sa"} in Pali texts.
+    He is regarded as the 24th supreme leader of the Jains, although
+    only he and his predecessor [Pārśvanātha]{lang="sa"} (not mentioned
+    in the Pali) are historical. *[Nigaṇṭha]{lang="sa"}* means
+    "knotless" (i.e. without attachments). As a term for Jain ascetics
+    it is also found in Jain literature. [Nātaputta]{lang="sa"}
+    indicates his clan the [Ñātikas]{lang="sa"} (Sanskrit
+    *[jñātiputra]{lang="sa"}*; [Prākrit]{lang="sa"}
+    *[nāyaputta]{lang="sa"}*). The Pali tradition has confused
+    *[ñāti]{lang="sa"}* ("family") with *[nāṭa]{lang="sa"}* ("dancer").
+    Thus [Nigaṇṭha]{lang="sa"} [Nātaputta]{lang="sa"} means "the Jain
+    monk of the [Ñātika]{lang="sa"} clan". \| Jainism and Buddhism are
+    the only ancient *[samaṇa]{lang="sa"}* movements to survive to the
+    present day. The primary Jain teaching is the practice of
+    non-violence while burning off past kamma by fervent austerities in
+    order to reach omniscient liberation.
+
+[^164]: His absence of speech signifies his wisdom. The narrative
+    creates a dramatic expectation through his stillness, an exquisitely
+    Buddhist aesthetic choice.
+
+[^165]: According to the Vinaya, a monastery is normally offered to the
+    "[Saṅgha]{lang="sa"} of the four quarters" and becomes their
+    inalienable property. In the suttas this is not so clear, and it
+    seems that [Jīvaka]{lang="sa"} still regarded the property as his.
+    In practice there would have been a variety of arrangements, as
+    there are today.
+
+[^166]: The first appearance of the famous *iti pi so* formula. It is
+    still recited in praise of the Buddha in Theravada communities.
+
+[^167]: Indian kings were guarded by armed women inside the harem
+    ([Kauṭilya]{lang="sa"}'s [Arthaśāstra]{lang="sa"} 1.21.1) and also
+    while on hunt (Megasthenes's Indica, via Strabo XV. i. 53--56). This
+    passage may be the earliest evidence for this long-lasting practice.
+
+[^168]: The silence of the Buddha's assembly is often contrasted with
+    the rowdy gatherings of other ascetics, for example that of
+    [Poṭṭhapāda]{lang="sa"} at [DN
+    9:3.1](https://suttacentral.net/dn9/en/sujato#3.1).
+
+[^169]: This is a double pun. *[Dīpa]{lang="sa"}* means "lamp" or
+    "island, refuge", while *[jhāyati]{lang="sa"}* means "burning" or
+    "meditating". So it could be rendered, "those are saviors meditating
+    in the pavilion". *[Jhāyati]{lang="sa"}* is the verb form of
+    *[jhāna]{lang="sa"}* ("absorption"), which is the central practice
+    of meditation described below.
+
+[^170]: The Buddha looked like any other monk. But this also reveals
+    [Ajātasattu]{lang="sa"}'s spiritual blindness.
+
+[^171]: He has not yet gained faith, so does not bow.
+
+[^172]: The Buddha, though fully aware of [Ajātasattu]{lang="sa"}'s
+    crimes, responds to him with compassion.
+
+[^173]: Most translators render *sippa* as "craft". However, the basic
+    meaning of "craft" is skill in doing or making things. What is meant
+    here is a paid occupation regardless of whether it involves making
+    things, i.e. "profession".
+
+[^174]: These are the professions on [Ajātasattu]{lang="sa"}'s mind. The
+    first set of these is defined as branches of the military at [AN
+    7.67](https://suttacentral.net/an7.67/en/sujato).
+
+[^175]: The question pertains to right livelihood, the fifth factor of
+    the noble eightfold path.
+
+[^176]: The purpose of right livelihood is to bring happiness in this
+    life and the next.
+
+[^177]: [Ajātasattu]{lang="sa"}'s question only pertains to happiness in
+    this life. He would have seen ascetics living hard and austere lives
+    for the sake of future happiness.
+
+[^178]: The term "Great King" (*[mahārāja]{lang="sa"}*) identifies
+    [Ajātasattu]{lang="sa"} as the hereditary monarch of a large realm,
+    in contrast with the multiple elected "rulers" of the aristocratic
+    republics such as Vajji and Sakya.
+
+[^179]: As in [DN
+    1:1.4.2](https://suttacentral.net/dn1/en/sujato#1.4.2), the Buddha
+    begins by asking to hear what others have said.
+
+[^180]: As with his meeting with the Buddha, [Ajātasattu]{lang="sa"} is
+    respectful but not reverential.
+
+[^181]: This is a denial of the doctrine of kamma. While his doctrine
+    appears to be morally nihilistic, it seems unlikely this was
+    [Pūraṇa]{lang="sa"} Kassapa's full teaching. He may have subscribed
+    to hard determinism, so that we have no choice in what we do. He may
+    also have believed that we should keep moral rules as a social
+    contract, but that this had no effect on the afterlife. \| In such
+    contexts, *kar-* means "punish, inflict" ([MN
+    129:29.2](https://suttacentral.net/mn129/en/sujato#29.2)).
+
+[^182]: The unsatisfying nature of the answers given by these teachers
+    is also emphasized at [MN
+    36:48.4](https://suttacentral.net/mn36/en/sujato#48.4).
+
+[^183]: Breadfruit is a starchy, fibrous fruit that is, needless to say,
+    very different from a mango.
+
+[^184]: Kings had a duty to protect all religions in their realm, even
+    those with such extreme views.
+
+[^185]: The commentary takes *uggahita* and *nikkujjita* as synonyms.
+    Elsewhere, however, *nikkujjati* always means "overturns".
+
+[^186]: This denies the principle of causality and the efficacy of
+    action. The fatalistic teachings of the [Ājīvikas]{lang="sa"} led to
+    them becoming popular as prognosticators.
+
+[^187]: The first three phrases, with the Magadhan nominative singular
+    in *-e*, are unique to this passage. In [AN
+    6.38:1.4](https://suttacentral.net/an6.38/en/sujato#1.4) we find the
+    regular nominative form in *-o*. They are omitted in the otherwise
+    parallel passage at [MN
+    76:13.6](https://suttacentral.net/mn76/en/sujato#13.6).
+
+[^188]: Everything is destined by circumstances beyond our control.
+
+[^189]: This strange cosmology lays out the course through which souls
+    must proceed before their final liberation. \| Since
+    *[nāgāvāsa]{lang="sa"}* ("abode of dragons") occurs in a list of
+    kinds of ascetics, I think it is a corruption of
+    *[naggāvāsa]{lang="sa"}* ("abode of naked ascetics") and translate
+    accordingly. Each of these refers to the number of times one will be
+    reborn in each of these states. \| *[Nigaṇṭhigabbha]{lang="sa"}*
+    could mean "rebirth as a Jain ascetic" but here we have moved on
+    from listing ascetics, and I think it refers to one who is born free
+    of attachments. Compare the Buddhist idea of "four kinds of
+    conception" ([DN
+    33:1.11.175](https://suttacentral.net/dn33/en/sujato#1.11.175)). \|
+    *[Pavuṭā]{lang="sa"}* is explained by the commentary as
+    *[gaṇṭhikā]{lang="sa"}* ("knot"). However, Rig Veda 9.54.2 mentions
+    "seven rivers" (*sapta pravata*) that flow from heaven, preceded in
+    the same verse by the mention of *[sarā]{lang="sa"}* ("lakes"). This
+    detail suggests a Vedic influence. The "seven rivers" are normally
+    called *sapta sindhu* (Rig Veda 1.35.8) in reference to the river
+    systems of north-west India and Pakistan (cf. Punjab, "five
+    rivers").
+
+[^190]: To "force unripened deeds to bear their fruit" by means of
+    "fervent austerity" (*tapas*) is a Jain practice, whereas to
+    "eliminate old deeds by experiencing their results little by little"
+    is distinguished from the Jain view at [AN
+    3.74](https://suttacentral.net/an3.74/en/sujato).
+
+[^191]: "Purification through transmigration" is
+    *[saṁsārasuddhi]{lang="sa"}*.
+
+[^192]: The denial of "mother and father" is usually interpreted as the
+    denial of moral duty towards one's parents. However, I think it is a
+    doctrine of conception which denies that a child is created by the
+    mother and father. Rather, the child is produced by the four
+    elements, with parents as mere instigators and incubators.
+
+[^193]: This is a materialist analysis of the person. \| The word
+    *[kāya]{lang="sa"}* ("substance") is central to Jainism.
+    [Ācārāṅgasūtra]{lang="sa"} 8.1.11 speaks of the "substances" of
+    earth, water, fire, and air as being imbued with life so one should
+    avoid damaging them. \| The Buddha's use of *[mahābhūtā]{lang="sa"}*
+    ("principal states") responds to [Yājñavalkya]{lang="sa"}'s core
+    teaching at [Bṛhadāraṇyaka]{lang="sa"} [Upaniṣad]{lang="sa"} 2.4.12,
+    where the several "states" or "real entities"
+    (*[bhūtā]{lang="sa"}*)---namely the diverse manifestations of
+    creation---arise from and dissolve into the "principal state"
+    (*[mahābhūta]{lang="sa"}*) of the Self, singular and infinite. For
+    the Buddha, the "principal states" are themselves plural, as there
+    is no underlying singular reality. Later Sanskrit literature lists
+    the "five states" (*[pañcabhūta]{lang="sa"}*) as earth, water, fire,
+    air, and space.
+
+[^194]: This is a reductive atomism. It argues that since all things are
+    made of the seven fundamental substances (*[kāya]{lang="sa"}*),
+    higher-order entities have no significance.
+
+[^195]: Unlike the materialism of Ajita Kesakambala, one of the basic
+    substances is the soul. He uses *[jīva]{lang="sa"}*, the same term
+    used by the Jains, rather than *[attā]{lang="sa"}* as preferred by
+    the brahmins. Likewise, the Jains held a similar doctrine of six
+    uncreated and eternal "substances" (*[kāya]{lang="sa"}* or
+    *dravya*): soul, the media for motion and rest, matter, space, and
+    time.
+
+[^196]: Compare [AN
+    8.16:1.3](https://suttacentral.net/an8.16/en/sujato#1.3).
+
+[^197]: While this is a genuine Jain teaching, it has not been
+    identified as a "fourfold restraint". [DN
+    25:16.3](https://suttacentral.net/dn25/en/sujato#16.3) preserves
+    another "fourfold restraint" that is closer to that found in
+    Jainism. At [MN
+    12:44.1](https://suttacentral.net/mn12/en/sujato#44.1) the Buddha
+    says he once practiced a "four-factored spiritual path" that
+    consisted of Jain-like austerities.
+
+[^198]: At [Isibhāsiyāiṁ]{lang="sa"} 29.19, [Vardhamāna]{lang="sa"}
+    ([Mahāvīra]{lang="sa"}) teaches that a sage is
+    *savva-[vārīhiṁ]{lang="sa"} [vārie]{lang="sa"}*, "restrained in all
+    restraints", which clearly parallels our current passage. In that
+    passage, "restraint" refers to stopping the influx of defilements
+    through the five senses, neither delighting in the pleasant nor
+    loathing the unpleasant. Similarly we find
+    *[vāriya]{lang="sa"}-savva-[vāri]{lang="sa"}* in the commentary to
+    [Sūyagaḍa]{lang="sa"} 1.6.28. \| Read *[vāri]{lang="sa"}* as future
+    passive participle (cf. Sanskrit *[vārya]{lang="sa"}*). \| *Dhuta*
+    in the sense "shaken off (evil by means of ascetic practices)" is a
+    characteristic Jain term. \| For *[sabbavāriphuṭo]{lang="sa"}*
+    compare *[ophuṭo]{lang="sa"}* at [MN
+    99:15.5](https://suttacentral.net/mn99/en/sujato#15.5). In both
+    cases *[phuṭ]{lang="sa"}* appears in a string of terms from the root
+    *var*, and is possibly a corrupted form, or at least has the same
+    meaning.
+
+[^199]: This places him among the "endless flip-floppers" of [DN
+    1:2.23.1](https://suttacentral.net/dn1/en/sujato#2.23.1). However,
+    we do not know on which of the four grounds he justified his
+    evasiveness.
+
+[^200]: The Buddha answers directly, with confidence. This whole passage
+    is a masterclass in effective dialogue.
+
+[^201]: He engages [Ajātasattu]{lang="sa"} rather than lecturing him.
+
+[^202]: See *[mukhaṁ]{lang="sa"} [ullokentī]{lang="sa"}* at [MN
+    79](https://suttacentral.net/mn79/en/sujato) and [SN
+    56.39](https://suttacentral.net/sn56.39/en/sujato).
+
+[^203]: Even a servant believed in the doctrine of kamma.
+
+[^204]: There is no question of the divinity of kings.
+
+[^205]: The doctrine of kamma leads to living a better life, not stewing
+    in resentment.
+
+[^206]: [Kd
+    1:47.1.1](https://suttacentral.net/pli-tv-kd1/en/sujato#47.1.1)
+    penalizes the ordination of bondservants or slaves, despite the fact
+    that [Ajātasattu]{lang="sa"}'s father, [Bimbisāra]{lang="sa"}, had
+    ordered that no action was to be taken against any bondservant who
+    ordained under the Buddha.
+
+[^207]: Here the Buddha foreshadows the larger themes detailed later.
+
+[^208]: Even under a king so compromised as [Ajātasattu]{lang="sa"}, a
+    runaway slave who has ordained is rewarded not punished.
+
+[^209]: In contrast with the former teachers, the Buddha gives a clear
+    answer in terms that [Ajātasattu]{lang="sa"} would understand.
+
+[^210]: The Buddha establishes common ground with the king before
+    venturing into deeper waters.
+
+[^211]: By starting with a very basic and obvious fruit, the Buddha
+    stimulates [Ajātasattu]{lang="sa"} to seek a deeper answer.
+
+[^212]: *[Karakārako]{lang="sa"} [rāsivaḍḍhako]{lang="sa"}* is a unique
+    phrase. For *[karakāraka]{lang="sa"}*, compare [MN
+    57:2.3](https://suttacentral.net/mn57/en/sujato#2.3), where a naked
+    ascetic "does a hard thing". *[Rāsi]{lang="sa"}* means "heap" (of
+    grain or wealth according to the commentary).
+
+[^213]: The bonded servant had no wealth or family to renounce, but the
+    worker does.
+
+[^214]: Having established the king's genuine interest and
+    understanding, the Buddha prepares him for the long discourse to
+    follow.
+
+[^215]: This is the start of the teaching on the Gradual Training,
+    encompassing ethics (*[sīla]{lang="sa"}*), meditation
+    (*[samādhi]{lang="sa"}*), and wisdom (*[paññā]{lang="sa"}*). Only
+    the ethics portion appeared in the [Brahmajālasutta]{lang="sa"},
+    while all three are restated in all the remaining suttas of this
+    chapter, although in truncated form. \| It is exceedingly rare for a
+    Buddha to appear.
+
+[^216]: The Buddha realizes the truth by his own understanding, not
+    through divine intervention or other metaphysical means.
+
+[^217]: It is good when first heard, when practicing, and when one has
+    realized the fruits.
+
+[^218]: The word "householder" (*gahapati*) informally refers to any lay
+    person, but more specifically indicates someone who owns a house,
+    i.e. a person of standing. The renunciate life is not just for
+    slaves or workers wishing to escape their station.
+
+[^219]: This serves as a table of contents for the teachings to come. \|
+    Nowadays, the "monastic code" (*[pātimokkha]{lang="sa"}*) means the
+    list of rules for monks and nuns found in the
+    [Vinayapiṭaka]{lang="sa"}. In the early texts, however, it has three
+    main meanings. Sometimes it does refer to the list of rules, as at
+    [AN 10.36:1.6](https://suttacentral.net/an10.36/en/sujato#1.6). Here
+    it refers to the code of conduct that follows, which is a
+    non-legalistic set of guidelines that preceded the
+    [Vinayapiṭaka]{lang="sa"}. At [DN
+    14:3.28.1](https://suttacentral.net/dn14/en/sujato#3.28.1) it refers
+    to the verses summarizing monastic conduct known as the
+    "[Ovāda]{lang="sa"} [Pātimokkha]{lang="sa"}".
+
+[^220]: While the precept includes any living creature, if a monastic
+    murders a human being they are immediately and permanently expelled.
+
+[^221]: To steal anything of substantial value is an expulsion offence.
+
+[^222]: Buddhist monastics are forbidden from any form of sexual
+    activity. To engage in penetrative intercourse is an expulsion
+    offence.
+
+[^223]: While any form of lying is forbidden, if a monastic falsely
+    claims states of enlightenment or deep meditation they are expelled.
+
+[^224]: To avoid sleeping too much.
+
+[^225]: This is the first step in the Buddha's answer to
+    [Ajātasattu]{lang="sa"}. This is the sense of happiness and
+    well-being that you have when you know you have done nothing wrong
+    for which anyone might blame you. It is the psychological foundation
+    for meditation.
+
+[^226]: Here begins the series of practices that build on moral
+    fundamentals to lay the groundwork for meditation.
+
+[^227]: It is not that one cannot see things, but that, mindful of its
+    effect, one avoids unnecessary stimulation. \| "Covetousness and
+    bitterness" (*[abhijjhā]{lang="sa"} [domanassā]{lang="sa"}*) are the
+    strong forms of desire and aversion caused by lack of restraint.
+
+[^228]: Their happiness deepens, as they see that not only their actions
+    but also their mind is becoming free of anything unwholesome.
+
+[^229]: Situational awareness is a psychological term popularized in the
+    1990s. It has to do with the perception of environmental phenomena
+    and the comprehension of their meaning, which is very close to the
+    sense of the Pali term *[sampajañña]{lang="sa"}*.
+
+[^230]: These acts describe the daily life of a mendicant: going into
+    the village for alms, at which time there are many distracting
+    sights. Then they return, eat their meal, and spend their day in
+    meditation.
+
+[^231]: A Buddhist monk has three robes: a lower robe (sabong or
+    sarong), an upper robe, and an outer cloak.
+
+[^232]: These are the prerequisite conditions for embarking on deep
+    meditation.
+
+[^233]: For *parimukha* ("in their presence") we find *pratimukha* in
+    Sanskrit, which can mean "presence" or the reflection of the face.
+    Late canonical Pali explains *parimukha* as "the tip of the nose or
+    the reflection of the face (*mukhanimitta*)". *Parimukha* in
+    Sanskrit is rare, but it appears in [Pāṇini]{lang="sa"} 4.4.29,
+    which the commentary illustrates with the example of a servant "in
+    the presence" of their master (cp. [SN
+    47.8](https://suttacentral.net/sn47.8/en/sujato)). So it seems the
+    sense is "before the face" or more generally "in the presence". \|
+    To "establish mindfulness" (*[satiṁ]{lang="sa"}
+    [upaṭṭhapetvā]{lang="sa"}*) is literally to "do
+    [satipaṭṭhāna]{lang="sa"}".
+
+[^234]: Covetousness (*abhijjha*) has been curbed by sense restraint,
+    and now is fully abandoned.
+
+[^235]: Likewise ill will (*[byāpādapadosa]{lang="sa"}*), which was
+    called *domanassa* in the formula for sense restraint.
+
+[^236]: "Mindfulness and situational awareness" has a prominent role in
+    abandoning dullness.
+
+[^237]: Restlessness hankers for the future and is countered by
+    contentment. Remorse digs up the past and is countered by ethical
+    purity.
+
+[^238]: The meditator set out on their path after gaining faith in the
+    Buddha.
+
+[^239]: The happiness of meditation is hard to understand without
+    practicing, so the Buddha gives a series of five similes to
+    illustrate in terms [Ajātasattu]{lang="sa"} would understand.
+
+[^240]: The five hindrances remain a pillar of meditation teaching. The
+    root sense means to "obstruct" but also to "obscure, darken, veil".
+
+[^241]: Each simile illustrates not the happiness of acquisition, but of
+    letting go.
+
+[^242]: The Buddha did not emphasize technical details of technique, but
+    the emotional wholeness and joy that leads to deep meditation.
+
+[^243]: *[Jhāna]{lang="sa"}* is a state of "elevated consciousness"
+    (*adhicitta*), so all the terms have an elevated sense. \| The
+    plural form indicates that "sensual pleasures" includes sense
+    experience, which the meditator can turn away from since they no
+    longer have any desire for it. \| The "unskillful qualities" are the
+    five hindrances. \| The "rapture and bliss born of seclusion" is the
+    happiness of abandoning the hindrances and freedom from sense
+    impingement. \| "Placing the mind and keeping it connected"
+    (*vitakka*, *[vicāra]{lang="sa"}*) uses terms that mean "thought" in
+    coarse consciousness, but which in "elevated consciousness" refer to
+    the subtle function of applying the mind to the meditation.
+
+[^244]: As a meditator proceeds, their subjective experience of the
+    "body" evolves from tactile sense impressions
+    (*[phoṭṭhabba]{lang="sa"}*), to the interior mental experience of
+    bliss and light (*[manomayakāya]{lang="sa"}*), to the direct
+    personal realization of highest truth ([MN
+    70:23.2](https://suttacentral.net/mn70/en/sujato#23.2):
+    *[kāyena]{lang="sa"} ceva [paramasaccaṁ]{lang="sa"} sacchikaroti*).
+
+[^245]: The kneading is the "placing the mind and keeping it connected",
+    the water is bliss, while the lack of leaking speaks to the
+    contained interiority of the experience. \| Here as elsewhere, water
+    is used as a metaphor for the mind in absorption. Compare
+    [Bṛhadāraṇyaka]{lang="sa"} [Upaniṣad]{lang="sa"} 4.3.32: "He becomes
+    like water, one, the seer without duality; this is the world of
+    [Brahmā]{lang="sa"}."
+
+[^246]: The Buddha has answered [Ajātasattu]{lang="sa"}'s question. But
+    he is far from finished.
+
+[^247]: Each *[jhāna]{lang="sa"}* begins as the least refined aspect of
+    the previous *[jhāna]{lang="sa"}* ends. This is not consciously
+    directed, but describes the natural process of settling. The
+    meditator is now fully confident and no longer needs to apply their
+    mind: it is simply still and fully unified.
+
+[^248]: The simile emphasizes the water as bliss, while the lack of
+    inflow expresses containment and unification.
+
+[^249]: The water welling up is the rapture, which is the uplifting
+    emotional response to the experience of bliss.
+
+[^250]: The emotional response to bliss matures from the subtle thrill
+    of rapture to the poise of equanimity. Mindfulness is present in all
+    states of deep meditation, but with equanimity it becomes prominent.
+
+[^251]: The meditator is utterly immersed in stillness and bliss.
+
+[^252]: The emotional poise of equanimity leads to the feeling of
+    pleasure settling into the more subtle neutral feeling. Pain and
+    sadness have been abandoned long before, but are emphasized here as
+    they are subtle counterpart of pleasure.
+
+[^253]: The equanimity of the fourth *[jhāna]{lang="sa"}* is not
+    dullness and indifference, but a brilliant and radiant awareness.
+
+[^254]: The white cloth is the purity and brightness of equanimity. The
+    commentary explains this as a person who has just got out of a bath
+    and sits perfectly dry and content.
+
+[^255]: Of the eight kinds of knowledge and vision, only the last is
+    considered indispensable. The fourth *[jhāna]{lang="sa"}* is the
+    ideal basis for developing higher knowledges, although elsewhere the
+    canon shows that even the first *[jhāna]{lang="sa"}* can be a basis
+    for liberating insight. Without *[jhāna]{lang="sa"}*, however, the
+    eightfold path is incomplete and liberating insight is impossible.
+    \| The verb *[abhininnāmeti]{lang="sa"}* ("extend") indicates that
+    the meditator comes out of full immersion like a tortoise sticking
+    out its limbs ([SN
+    35.240:1.7](https://suttacentral.net/sn35.240/en/sujato#1.7)).
+
+[^256]: This is the "coarse" (*[olārika]{lang="sa"}*) body. Note that
+    its generation by mother and father contradicts the doctrine of
+    Ajita Kesakambala. The obvious impermanence of the body invites the
+    tempting but fallacious notion that the mind or soul is permanent,
+    which is dispelled by deeper insight.
+
+[^257]: This distinction should not be mistaken for mind-body dualism.
+    These are not fundamental substances but experiences of a meditator.
+
+[^258]: Strung gems were loved in India from the time in the Harappan
+    civilization, millennia before the Buddha.
+
+[^259]: This form of "knowledge and vision" is rarely mentioned, being
+    found only here, at [DN
+    10:2.21.3](https://suttacentral.net/dn10/en/sujato#2.21.3), and at
+    [MN 77:29.2](https://suttacentral.net/mn77/en/sujato#29.2). The next
+    realization, the "mind-made body" is also only found in these three
+    suttas. \| The [Mahāsaṅgīti]{lang="sa"} edition adds the spurious
+    title *[vipassanāñāṇa]{lang="sa"}* ("insight knowledge") to this
+    section. This term does not appear anywhere in the Pali canon.
+
+[^260]: The "mind-made body" is the interior mental representation of
+    the physical body. In ordinary consciousness it is proprioception,
+    which here is enhanced by the power of meditation. The higher powers
+    in Buddhism are regarded as extensions and evolutions of aspects of
+    ordinary experience, not as metaphysical realities separate from the
+    world of mundane experience.
+
+[^261]: This is similar to the experience of the "astral body" described
+    by modern spiritualists. Note that it is still "physical"
+    (*[rūpī]{lang="sa"}*) even though it is mind-made. This is the
+    subtle (*sukhuma*) body, which is an energetic experience of
+    physical properties by the mind.
+
+[^262]: Here begin the "six direct knowledges"
+    (*[chaḷabhiññā]{lang="sa"}*), which are found commonly throughout
+    the early texts. \| "Psychic powers" (*iddhi*) were much cultivated
+    in the Buddha's day, but the means to acquire them varied: devotion
+    to a god, brutal penances, or magic rituals. The Buddha taught that
+    the mind developed in *[samādhi]{lang="sa"}* was capable of things
+    that are normally incomprehensible.
+
+[^263]: Only a few of these are attested as events in the early texts.
+    The most common is the ability to disappear and reappear, exhibited
+    by the Buddha ([AN
+    8.30:2.1](https://suttacentral.net/an8.30/en/sujato#2.1)), some
+    disciples ([MN
+    37:6.1](https://suttacentral.net/mn37/en/sujato#6.1)), and deities
+    ([MN 67:8.1](https://suttacentral.net/mn67/en/sujato#8.1)).
+
+[^264]: These similes hark back to the descriptions of the purified mind
+    as pliable and workable.
+
+[^265]: This simile is extended in detail at [AN
+    3.101](https://suttacentral.net/an3.101/en/sujato).
+
+[^266]: "Clairaudience" is a literal rendition of *dibbasota*. The root
+    sense of *dibba* is to "shine" like the bright sky or a divine
+    being. The senses of clarity and divinity are both present.
+
+[^267]: The Buddha occasionally used this ability for teaching, as at
+    [MN 75:6.1](https://suttacentral.net/mn75/en/sujato#6.1).
+
+[^268]: The simile emphasizes the clarity and distinctness of the
+    sounds. Compare [AN
+    4.114](https://suttacentral.net/an4.114/en/sujato):
+    *[bheripaṇavasaṅkhatiṇavaninnādasaddānaṁ]{lang="sa"}*.
+
+[^269]: Note that the Indic idiom is not the "reading" of minds, which
+    suggests hearing the words spoken in inner dialogue. While this is
+    exhibited by the Buddha (eg. [AN
+    8.30:2.1](https://suttacentral.net/an8.30/en/sujato#2.1)), the main
+    emphasis is on the comprehension of the overall state of mind.
+
+[^270]: Again the simile emphasizes how clear and direct the experience
+    is. Without deep meditation, we have some intuitive sense for the
+    minds of others, but it is far from clear.
+
+[^271]: Here begins the "three knowledges" (*[tevijjā]{lang="sa"}*), a
+    subset of the six direct knowledges. The first two of these play an
+    important role in deepening understanding of the nature of suffering
+    in *[saṁsāra]{lang="sa"}*. While they are not necessary for those
+    whose wisdom is keen, they are helpful.
+
+[^272]: Empowered by the fourth *[jhāna]{lang="sa"}*, memory breaks
+    through the veil of birth and death, revealing the vast expanse of
+    time and dispelling the illusion that there is any place of eternal
+    rest or sanctuary in the cycle of transmigration. The knowledge of
+    these events is not hazy or murky, but clear and precise,
+    illuminated by the brilliance of purified consciousness.
+
+[^273]: The word for "past life" is *[pubbanivāsa]{lang="sa"}*,
+    literally "former home", and the imagery of houses is found in the
+    second of the three knowledges as well. Recollection of past lives
+    is as fresh and clear as the memory of a recent journey.
+
+[^274]: Here knowledge extends to the rebirths of others as well as
+    oneself. Even more significant, it brings in the understanding of
+    cause and effect; *why* rebirth happens the way it does. Such
+    knowledge, however, is not infallible, as the Buddha warns in [DN
+    1:2.5.3](https://suttacentral.net/dn1/en/sujato#2.5.3) and [MN
+    136](https://suttacentral.net/mn136/en/sujato). The experience is
+    one thing; the inferences drawn from it are another. One should draw
+    conclusions only tentatively, after long experience. \|
+    "Clairvoyance" renders *dibbacakkhu* ("celestial eye"), for which
+    see [Chāndogya]{lang="sa"} [Upaniṣad]{lang="sa"} 8.12.5, "the mind
+    is (the self's) celestial eye" (*mano'sya [daivaṁ]{lang="sa"}
+    [cakṣuḥ]{lang="sa"}*).
+
+[^275]: This simile is also found at [DN
+    10:2.33.1](https://suttacentral.net/dn10/en/sujato#2.33.1). The
+    Majjhima employs a slightly different simile ([MN
+    39:20.3](https://suttacentral.net/mn39/en/sujato#20.3), [MN
+    77:35.2](https://suttacentral.net/mn77/en/sujato#35.2), [MN
+    130:2.1](https://suttacentral.net/mn130/en/sujato#2.1)). \|
+    *[Pāsāda]{lang="sa"}* is often translated as "palace" or "mansion",
+    but in early Pali it meant a "stilt longhouse". As here, it is an
+    elevated place from which one can observe the street below.
+
+[^276]: This is the experience of awakening that is the true goal of the
+    Buddhist path. The defilements---properties of the mind that create
+    suffering---have been curbed by the practice of ethics and
+    suppressed by the power of *[jhāna]{lang="sa"}*. Here they are
+    eliminated forever.
+
+[^277]: These are the four noble truths, which form the main content of
+    the Buddha's first sermon. They are the overarching principle into
+    which all other teachings fall. The initial realization of the four
+    noble truths indicates the first stage of awakening, stream-entry.
+
+[^278]: The application of the four noble truths to defilements
+    indicates that this is the final stage of awakening, perfection (or
+    "arahantship", *arahatta*). \| Many translators use "defilement" to
+    render *kilesa*, but since *kilesa* appears only rarely in the early
+    texts, I use "defilement" for *[āsava]{lang="sa"}*. Both terms refer
+    to a stain, corruption, or pollution in the mind.
+
+[^279]: *[Bhavāsava]{lang="sa"}* is the defilement that craves to
+    continue life in a new birth.
+
+[^280]: This is a reflective awareness of the fact of awakening. The
+    meditator reviews their mind and sees that it is free from all
+    forces that lead to suffering.
+
+[^281]: This is a standard declaration of full awakening in the suttas,
+    said both of the Buddha and of any arahant ("perfected one"). Each
+    of the four phrases illustrates a cardinal principle of awakening.
+    (1) Further transmigration through rebirths has come to an end due
+    to the exhaustion (*[khīṇa]{lang="sa"}*) of that which propels
+    rebirth, namely deeds motivated by craving. (2) The eightfold path
+    has been developed fully in all respects. (3) All functions relating
+    to the four noble truths have been completed, namely: understanding
+    suffering, letting go craving, witnessing extinguishment, and
+    developing the path. (4) Extinguishment is final, with no falling
+    back to this or any other state of existence. \| For "state of
+    existence" (literally "thusness", *itthatta*), see [DN
+    15:21.4](https://suttacentral.net/dn15/en/sujato#21.4).
+
+[^282]: Once again the pool of water represents the mind, but now the
+    meditator is not immersed in the experience, but looks back and
+    reviews it objectively.
+
+[^283]: The Buddha roars his lion's roar. His teaching leads not just to
+    some benefits, but to the highest benefits that are possible.
+
+[^284]: The king's distress has been alleviated by the Buddha's
+    uplifting words.
+
+[^285]: This is the standard form in which lay people went for refuge.
+    It is not something that the Buddha required, but a spontaneous act
+    of inspiration. Conventionally, it indicates that someone is a
+    "Buddhist". Today Theravadins recite the going for refuge thrice,
+    but in the early texts this is found only as the ordination for
+    novices ([Kd
+    1:12.4.1](https://suttacentral.net/pli-tv-kd1/en/sujato#12.4.1)).
+
+[^286]: The king, unprompted, makes an astonishing confession. To say it
+    in such a public forum, before a spiritual community and his own
+    retinue, displays courage and integrity.
+
+[^287]: The Buddha hears his confession, but it is
+    [Ajātasattu]{lang="sa"}'s responsibility to do better.
+
+[^288]: Even before such a dangerous and emotionally volatile king, the
+    Buddha does not mince words. The Buddha makes a point to acknowledge
+    what the king had done, without dismissing it and thereby
+    discounting the inner work he had achieved to get to this point.
+
+[^289]: Confession does not erase the past, but it does set a better
+    course for the future. This confession is similar to that done by
+    monastics when they have broken Vinaya rules.
+
+[^290]: These terms are commonly used in the context of keeping precepts
+    (eg. [AN 3.50:4.1](https://suttacentral.net/an3.50/en/sujato#4.1)).
+    The Buddha is supportive when he speaks with
+    [Ajātasattu]{lang="sa"}, but does not hide the severity of his
+    crime.
+
+[^291]: The killing of one's father is one of five "incurable" acts that
+    doom a person to hell in the next life ([AN
+    5.129:1.3](https://suttacentral.net/an5.129/en/sujato#1.3)). If he
+    had not done so, he would have become a stream-enterer.
+
+[^292]: This sutta marks a turning point where the Buddha's teachings
+    were embraced by the leading brahmin [Pokkharasāti]{lang="sa"}. The
+    suttas that follow reverberate with the consequences of this
+    encounter. He was one of the most influential brahmins of his time,
+    although the Buddha elsewhere denied that he had any special
+    knowledge ([MN
+    99:15.5](https://suttacentral.net/mn99/en/sujato#15.5)). Brahmanical
+    texts confirm that he was a real person, an influential teacher
+    around the time of the Buddha known as [Pauṣkarasādi]{lang="sa"} in
+    Sanskrit. He is cited on grammar by [Kātyāyana]{lang="sa"} and
+    [Patañjali]{lang="sa"}, and in the
+    [Taittirīya]{lang="sa"}-[prātiśākhya]{lang="sa"}; on allowable food
+    and theft in the Āpastamba Dharmasūtra; and on Vedic ritual in the
+    [Śāṅkhāyana]{lang="sa"}-[Āraṇyaka]{lang="sa"}. His name identifies
+    him as descended from a man of [Puṣkarāvati]{lang="sa"}, capital of
+    [Gandhāra]{lang="sa"}. [MN
+    99:10.3](https://suttacentral.net/mn99/en/sujato#10.3) clarifies
+    that he is of the [Upamañña]{lang="sa"} lineage.
+
+[^293]: [Icchānaṅgala]{lang="sa"} was a center east of
+    [Sāvatthī]{lang="sa"} for the innovative brahmins of the Kosala
+    region.
+
+[^294]: [Ukkaṭṭhā]{lang="sa"} is mentioned only rarely, and always in
+    the context of extraordinary teachings and events that emphasize the
+    cosmic grandeur of the Buddha against the brahmins ([DN
+    14:3.29.1](https://suttacentral.net/dn14/en/sujato#3.29.1), [MN
+    1:1.2](https://suttacentral.net/mn1/en/sujato#1.2), [MN
+    49:2.1](https://suttacentral.net/mn49/en/sujato#2.1)). Sanskrit
+    sources call it a *[droṇamukha]{lang="sa"}*, a leading market town
+    accessible by land and water ([Divyāvadāna]{lang="sa"} 319.010). At
+    [MN 99:10.3](https://suttacentral.net/mn99/en/sujato#10.3)
+    [Pokkharasāti]{lang="sa"} is said to be "of the Subhaga Forest". \|
+    "Royal park" is *[rājadāya]{lang="sa"}* (cp.
+    *[migadāya]{lang="sa"}*, "deer park"). \| A *brahmadeyya* is a gift
+    of land by a king to a brahmin, which was an outstanding feature of
+    Indian feudalism.
+
+[^295]: Contrast with his rejection of this possibility at [MN
+    99:10.7](https://suttacentral.net/mn99/en/sujato#10.7).
+
+[^296]: [Pokkharasāti]{lang="sa"} does not care whether the Buddha
+    identified as a follower of the Vedas. The wise do not concern
+    themselves with religious identity.
+
+[^297]: "Vocabularies" is *[nighaṇḍu]{lang="sa"}* (Sanskrit
+    *[nighaṇṭu]{lang="sa"}*), known from the Nirukta of
+    [Yāska]{lang="sa"}. \| *[Keṭubha]{lang="sa"}* lacks an obvious
+    Sanskrit form. The commentary explains, "The study of proper and
+    improper actions for the assistance of poets." This suggests a
+    connection with ritual performance, which is the special area of the
+    Śatapatha [Brāhmaṇa]{lang="sa"}. There we often find phrases such as
+    *[kṛtam]{lang="sa"} bhavati*, "it is performed", of which
+    *[keṭubha]{lang="sa"}* is perhaps a contraction. \| *Akkhara*
+    (literally "syllable") is explained by the commentary as
+    *[sikkhā]{lang="sa"}* (Sanskrit *[śikṣā]{lang="sa"}*), which is the
+    study of pronunciation. This can be traced back to
+    [Pāṇinī]{lang="sa"}, and is sometimes referred to as
+    *[akṣara]{lang="sa"}-[samāmnāya]{lang="sa"}*, "collation of
+    syllables". \| *Pabheda* is found in Buddhist Sanskrit texts as
+    *padaprabheda*, "classification of words", such as into the
+    different parts of speech. The commentary identifies it with
+    *nirutti*. \| *Padaka* is one skilled in the
+    *[padapāṭha]{lang="sa"}* recitation of Vedas, which separates the
+    individual words. \| For "testaments" (*[itihāsa]{lang="sa"}*) see
+    *[itihāsa]{lang="sa"}-[purāṇa]{lang="sa"}* in Śatapatha
+    [Brāhmaṇa]{lang="sa"} 11.5.6.8, explained by the commentator there
+    as legends of creation and olden times. \| For "cosmology"
+    (*[lokāyata]{lang="sa"}*), see note on [DN
+    1:1.25.2](https://suttacentral.net/dn1/en/sujato#1.25.2). \| For
+    "authorized as a master" (*[anuññātapaṭiññāta]{lang="sa"}*) see [MN
+    98:7.1](https://suttacentral.net/mn98/en/sujato#7.1) and [Snp
+    3.9:6.1](https://suttacentral.net/snp3.9/en/sujato#6.1). \| For
+    "scriptural heritage of the three Vedas" (*tevijjake
+    [pāvacane]{lang="sa"}*) see [MN
+    95:12.2](https://suttacentral.net/mn95/en/sujato#12.2).
+
+[^298]: Almost the same words are spoken to the bodhisatta by his first
+    teachers, [Āḷāra]{lang="sa"} [Kālāma]{lang="sa"} and Uddaka
+    [Rāmaputta]{lang="sa"} ([MN
+    36:14.9](https://suttacentral.net/mn36/en/sujato#14.9)). This
+    connects [Pokkharasāti]{lang="sa"} with [Āḷāra]{lang="sa"}
+    [Kālāma]{lang="sa"} and Uddaka [Rāmaputta]{lang="sa"}, and suggests
+    that the anointing of a talented student in this way was a regular
+    practice of wise brahmins.
+
+[^299]: Following PTS and BJT editions of the parallel phrase at [MN
+    91:4.9](https://suttacentral.net/mn91/en/sujato#4.9), which read
+    *[tayā]{lang="sa"}* for *[tathā]{lang="sa"}*.
+
+[^300]: The thirty-two marks are detailed in [DN
+    14:1.32.7](https://suttacentral.net/dn14/en/sujato#1.32.7), [DN
+    30:1.2.4](https://suttacentral.net/dn30/en/sujato#1.2.4), and [MN
+    91:9.1](https://suttacentral.net/mn91/en/sujato#9.1). In Buddhist
+    texts they are presented as the fulfillment of Brahmanical prophecy,
+    but they are not found in any Brahmanical texts of the Buddha's
+    time. However, later astrological texts such as the
+    [Gārgīyajyotiṣa]{lang="sa"} (1st century BCE?) and
+    [Bṛhatsaṁhitā]{lang="sa"} (6th century CE?) contain references to
+    many of these marks, albeit in a different context, so it seems
+    likely the Buddhist texts are drawing on now-lost Brahmanical
+    scriptures. \| The notion of a two-fold course for a great
+    hero---worldly success or spiritual---can be traced back as far as
+    the epic of Gilgamesh.
+
+[^301]: The idea of the wheel-turning monarch draws from the Vedic horse
+    sacrifice, which establishes the authority of a king from sea to
+    sea. The Buddhist telling is divested of all coarse and violent
+    elements. The wheeled chariot gave military supremacy to the ancient
+    Indo-Europeans, allowing them to spread from their ancient homeland
+    north of the Black Sea. In Buddhism, the wheel, which also has solar
+    connotations, symbolizes unstoppable power. For a legendary account
+    of such a king, see the [Mahāsudassanasutta]{lang="sa"} ([DN
+    17](https://suttacentral.net/dn17/en/sujato)).
+
+[^302]: The sacrificial horse on its journey across the land is
+    protected by a hundred sons.
+
+[^303]: The relation between [Pokkharasāti]{lang="sa"} and
+    [Ambaṭṭha]{lang="sa"} is similar to that between the Buddha and his
+    followers. They share the same understanding, but the Buddha is
+    distinguished as the teacher.
+
+[^304]: In this sutta, *[māṇava]{lang="sa"}* is always applied to
+    [Ambaṭṭha]{lang="sa"} and *[māṇavaka]{lang="sa"}* to the rest. It
+    seems that the diminutive *[māṇavaka]{lang="sa"}* means "young
+    student". \| There are said to be *sambahula* students, a word that
+    is often translated as "many". But later we see that they all fit
+    inside the Buddha's hut, so the sense must be "several".
+
+[^305]: This is the practice of walking meditation. Meditators pace
+    mindfully up and down a smooth path, keeping attention on their
+    body.
+
+[^306]: *Bho* is a respectful term of address used by brahmins. The
+    forms of address used in Pali are complex, and it is rarely possible
+    to map them to modern English with any precision.
+
+[^307]: The parallel passage at [MN
+    35:7.4](https://suttacentral.net/mn35/en/sujato#7.4) has a different
+    phrase here.
+
+[^308]: The term *kulaputta* (literally, "son of a family") typically
+    refers to someone from a well-to-do or respected family, a
+    "gentleman". It is a gendered term which assumes the social status
+    of men.
+
+[^309]: The introduction has told us that the Buddha was staying in a
+    forest at this time. Nonetheless, this was not a wilderness, but was
+    developed enough to have huts with latched doors.
+
+[^310]: The Buddha draws attention to [Ambaṭṭha]{lang="sa"}'s rude
+    behavior. Throughout the suttas, the manner in which people greet
+    the Buddha gives us a hint as to their attitudes and qualities.
+
+[^311]: Note the racial connotations of using *[kaṇha]{lang="sa"}*
+    ("black") as a slur. The brahmin caste hailed from the (relatively)
+    fair-skinned Indo-Europeans who entered India from the north. Vedic
+    texts indicate that there was Brahmanical prejudice against
+    dark-skinned natives, but also that they were assimilated and raised
+    to positions of honor.
+
+[^312]: [Ambaṭṭha]{lang="sa"} is "qualified" (*vusita*) in scripture,
+    but far from "qualified" in spiritual development. *Vusita* is
+    normally an expression of arahantship: *[vusitaṁ]{lang="sa"}
+    [brahmacariyaṁ]{lang="sa"}* ("the spiritual journey has been
+    completed").
+
+[^313]: The PTS reading *rabhasa* means "violent, aggressive". But the
+    commentary reads *bhassa*, explained as "speaking much". Moreover,
+    the story below does not demonstrate violence.
+
+[^314]: [Ambaṭṭha]{lang="sa"} despises the Sakyans as "primitives"
+    (*ibbha*) who do not respect Vedic culture. The word *ibbha*
+    ("primitive") stems from a non-Aryan word for "elephant" (*ibha*).
+    It originally referred to the native inhabitants who tamed
+    elephants; see eg. [Chāndogya]{lang="sa"} [Upaniṣad]{lang="sa"}
+    1.10. At [Snp
+    3.1:18.4](https://suttacentral.net/snp3.1/en/sujato#18.4) the Buddha
+    describes his own people as "natives" (*niketino*), those who have a
+    long connection with the land.
+
+[^315]: The Buddha's use of *[āyasmā]{lang="sa"}* is noteworthy here: he
+    is taking a conciliatory tone.
+
+[^316]: The [Ambaṭṭhas]{lang="sa"} were a people in the north-west of
+    greater India (eg. [Mahābhārata]{lang="sa"} 7.4.5c, 7.132.23a). They
+    were evidently the Abastanians whose rout at the hands of Alexander
+    is recorded by Arrian (*The Anabasis of Alexander*, chapter 15).
+    They were probably located near what is today the northern Sindh
+    province in Pakistan. Later texts such as [Manusmṛti]{lang="sa"} 1.8
+    say that an *[ambaṣṭha]{lang="sa"}* is born of a brahmin father and
+    *[vaiśya]{lang="sa"}* mother.
+
+[^317]: *[Kaṇhāyana]{lang="sa"}* means "descendant of the dark one
+    (*[kaṇha]{lang="sa"}*)". Since no clan of that name is attested it
+    is perhaps a confusion with the [Kāṇvāyanas]{lang="sa"} of Rig Veda
+    8.55.4. But the confusion, if it is such, has an old history, for
+    Rig Veda 1.117.8 refers to "Dark [Kaṇva]{lang="sa"}"
+    (*[Śyāva]{lang="sa"} [Kaṇva]{lang="sa"}*).
+
+[^318]: Normally I take *ayyaputta* as a simple honorific, but here the
+    sense is not that the Sakyans were the masters, but were descended
+    from them.
+
+[^319]: [Okkāka]{lang="sa"} (Sanskrit [Ikṣvāku]{lang="sa"}) was the
+    legendary son of the first man, Manu, and the founder of the solar
+    dynasty of Kosala. It is a Munda name, which may be associated with
+    the introduction of cane sugar (*[ikṣuḥ]{lang="sa"}*) from eastern
+    Asia, a theory endorsed by the 9th century Jain scholar Jinasena
+    (Natubhai Shah, *Jainism, the World of Conquerors*, 2004, vol. 1,
+    pg. 15).
+
+[^320]: The words for "teak" (*[sāka]{lang="sa"}*) and "sal"
+    (*[sāla]{lang="sa"}*) have evidently been confused from the Munda
+    root *sarja* (both appear at [MN
+    93:11.6](https://suttacentral.net/mn93/en/sujato#11.6)). But teak
+    does not grow so far north, so the sal must be meant here. To
+    maintain the pun I use *sakhua*, which is an alternate Hindi name
+    for the sal tree. This story suggests that when they settled in
+    their northern home in the shadow of the Himalayas, harvesting sal
+    was a primary source of wealth. Compare Gilgamesh, for whom Lebanese
+    cedar was the foundation of his royal capital.
+
+[^321]: "Own" is *saka*, the second pun on the Sakyan name. Incest is,
+    of course, common among royal families for exactly the reason stated
+    here. Marriage between cousins persisted even in the Buddha's day.
+    \| For *sambheda* in the sense of "dissolving, leaking", see [AN
+    2.9:1.5](https://suttacentral.net/an2.9/en/sujato#1.5) = [DN
+    26:20.2](https://suttacentral.net/dn26/en/sujato#20.2), [AN
+    5.103:6.4](https://suttacentral.net/an5.103/en/sujato#6.4), [AN
+    10.45:4.1](https://suttacentral.net/an10.45/en/sujato#4.1).
+
+[^322]: For this sense of *sammati*, see [SN
+    11.9](https://suttacentral.net/sn11.9/en/sujato), [SN
+    11.10](https://suttacentral.net/sn11.10/en/sujato).
+
+[^323]: This draws on both the puns above. But the commentary also
+    explains *sakya* here as "capable" (*[samatthā]{lang="sa"}*,
+    *[paṭibalā]{lang="sa"}*) in reference to their survival against all
+    odds, thus connecting Sakya with *sakka* ("able").
+
+[^324]: Vedic *[dāsa]{lang="sa"}* ("slave, bondservant") refers to the
+    "dark-wombed" (*[kṛṣṇayoni]{lang="sa"}*, Rig Veda 2.20.7) foes of
+    the Aryan peoples (Rig Veda 10.22.8) who upon defeat were enslaved
+    (Rig Veda 10.62.10). The name *[disā]{lang="sa"}* therefore probably
+    means "foe" (Sanskrit *[dviṣa]{lang="sa"}*).
+
+[^325]: The passage wavers between treating *[kaṇha]{lang="sa"}*
+    (Sanskrit *[kṛṣṇa]{lang="sa"}*, i.e. Krishna) as a personal name, a
+    description, and a word for a goblin. I try to capture this
+    ambiguity by using variations of "black boy". \| The passage does
+    not say who the father was. According to [Arthaśāstra]{lang="sa"}
+    3.13, a female slave is protected against sexual harassment by the
+    master, but should she have a child by him, both mother and child
+    are to be set free, and if the sex was not consensual, he must pay
+    her a fine.
+
+[^326]: Like Siddhattha, he spoke as soon as he was born. The boy was no
+    common child, but had a larger destiny. His words are a dramatic
+    contrast with Siddhattha's words of confident proclamation, and his
+    birth which was devoid of filth or impurity.
+
+[^327]: Lineage was important to brahmins, but the [Brāhmaṇa]{lang="sa"}
+    and [Upaniṣad]{lang="sa"} literature shows that, as here, many were
+    more concerned with conduct and wisdom than with birth.
+
+[^328]: The threat of losing one's head is found at eg.
+    [Bṛhadāraṇyaka]{lang="sa"} [Upaniṣad]{lang="sa"} 1.3.24, or at
+    3.9.26 when it actually did fall off. I cannot trace the detail of
+    heads being split in seven to any early Sanskrit texts, but it is
+    found in later texts such as [Rāmāyaṇa]{lang="sa"} 7.26.44c and
+    [Mahābhārata]{lang="sa"} 14.7.2c.
+
+[^329]: [Vajirapāṇī]{lang="sa"} ("lightning-bolt in hand") appears here
+    and in the parallel passage at [MN
+    35:14.1](https://suttacentral.net/mn35/en/sujato#14.1). The
+    synonymous Vajrahasta (Pali *vajirahattha*, [DN
+    20:12.1](https://suttacentral.net/dn20/en/sujato#12.1)) is a
+    frequent epithet of Indra in the Vedas (eg. Rig Veda 1.173.10a:
+    *indro vajrahastaḥ*), confirming the commentary's identification
+    with Sakka. Much later, Mahayana texts adopted the name for a fierce
+    Bodhisattva who was protector of the Dhamma.
+
+[^330]: The contemptuous senses of "black boy" represent the
+    conservative brahmanical view, presented not as endorsement, but as
+    a rhetorical means to undermine [Ambaṭṭha]{lang="sa"}'s pride. The
+    Buddha now shows how a man of a supposedly low birth rose to great
+    spiritual eminence.
+
+[^331]: "Divine Spell" is *brahmamanta*, a term of unique occurrence in
+    Pali. In modern Hinduism it is used for a verse of praise for
+    [Brahmā]{lang="sa"}, but that is not what is meant here.
+    [Kaṇha]{lang="sa"} is one of several "dark hermits" who accrued
+    mighty and lineage-busting powers in the south.
+
+[^332]: The Hindu deity Krishna won the hand of his seventh wife
+    [Lakṣmaṇā]{lang="sa"}, also known as [Madrī]{lang="sa"}, at an
+    archery contest. This detail is too precise to be a coincidence, and
+    proves there must be some shared basis between the two figures.
+
+[^333]: This draws on the ancient belief that the king's acts affect the
+    natural order of things.
+
+[^334]: This sequence seems to be an etiological myth explaining certain
+    rites of kingship and succession, providing an origin story for this
+    prayer.
+
+[^335]: National prosperity is ensured through symbolic regicide. This
+    example was omitted from Frazer's accounts of such substitute
+    sacrifices. Here there is a double substitution: the prince
+    substitutes for the king, then a threat substitutes for the act of
+    killing. This suggests that, even from the legendary perspective of
+    this story within a story, the rite was an ancient one that had
+    evolved through multiple stages.
+
+[^336]: The use of the bare personal name for the king is unusual.
+
+[^337]: "Divine punishment" is *[brahmadaṇḍa]{lang="sa"}*, harking back
+    to the Divine Spell (*brahmamantra*). The Buddha had his own version
+    of the *[brahmadaṇḍa]{lang="sa"}*, which was to give the silent
+    treatment ([DN
+    16:6.4.1](https://suttacentral.net/dn16/en/sujato#6.4.1)).
+
+[^338]: In [MN 56:19.2](https://suttacentral.net/mn56/en/sujato#19.2)
+    *[āvaṭa]{lang="sa"}*/*[anāvaṭa]{lang="sa"}* is used in reference to
+    [Upāli]{lang="sa"} "shutting his gate" against the Jains and opening
+    it for the Buddhists. In [DN
+    17:1.23.2](https://suttacentral.net/dn17/en/sujato#1.23.2)
+    *[anāvaṭa]{lang="sa"}* means "open to the public".
+
+[^339]: [Sanaṅkumāra]{lang="sa"} ("Everyoung") became a Hindu deity
+    closely associated with the worship of Krishna. He first appears in
+    the seventh chapter of the [Chāndogya]{lang="sa"}
+    [Upaniṣad]{lang="sa"}. There he teaches the learned
+    [Nārada]{lang="sa"} what lies beyond the mere surface of words
+    (*[nāma]{lang="sa"}*) by giving a progressive meditation that
+    ultimately reveals the highest Self. Thus he is a perfect foil for
+    [Ambaṭṭha]{lang="sa"}. The occasion he spoke this verse is recorded
+    at [SN 6.11](https://suttacentral.net/sn6.11/en/sujato), and it is
+    repeated several times in the suttas.
+
+[^340]: To his credit, after that thorough humiliation,
+    [Ambaṭṭha]{lang="sa"} is ready to learn.
+
+[^341]: Reading *[anuttarāya]{lang="sa"}
+    [vijjācaraṇasampadāya]{lang="sa"}* as locative, in agreement with
+    *yattha* below.
+
+[^342]: The Buddha emphasizes that his "knowledge and conduct" rejects
+    the notion of birth that is so essential to Brahmanism.
+
+[^343]: The Pali text abbreviates the gradual training in this sutta and
+    those that follow. The reader is expected to understand it as in [DN
+    2](https://suttacentral.net/dn2/en/sujato). Note, however, that the
+    suttas sometimes have small differences in their perspective that
+    make reconstruction tricky.
+
+[^344]: In later Theravada, *[apāyamukha]{lang="sa"}* refers to deeds
+    that cause rebirth in lower realms. However this does not apply in
+    the early texts; the acts described here are not evil. Rather, it
+    means an "opening" (*mukha*) for "departure" (*[apāya]{lang="sa"}*).
+
+[^345]: A common practice of pre-Buddhist hermits, who avoided the
+    slightest harm to plants. Buddhist mendicants may also not harm
+    plants, but they rely on alms and only eat fallen fruit in case of
+    famine.
+
+[^346]: The Buddha inverts [Ambaṭṭha]{lang="sa"}'s earlier claim that
+    the other three castes only succeed in serving brahmins ([DN
+    3:1.14.7](https://suttacentral.net/dn3/en/sujato#1.14.7)).
+
+[^347]: They are less strict than the previous ascetics, for they dig
+    the soil and harm the plants.
+
+[^348]: "Tradition" renders *[sācariyaka]{lang="sa"}*, "that which stems
+    from one's own teacher".
+
+[^349]: This practice is not elsewhere attested in early Pali.
+
+[^350]: *Ugga* is a rare word whose root sense is "mighty", but here it
+    must be a noun. Given that it is a military man who consults with
+    the king, I translate as "warrior-chief". \| *[Rājañña]{lang="sa"}*
+    is used occasionally in the suttas; it is an archaic synonym for
+    *khattiya*.
+
+[^351]: Taking this and the next as one sentence, despite the
+    punctuation of the [Mahāsaṅgīti]{lang="sa"} text.
+
+[^352]: The "hymns" (*[mantā]{lang="sa"}*) are the verses of the Rig
+    Veda. The ten names here all correspond with Vedic authors according
+    to the Brahmanical tradition (for details, see note on [DN
+    13:13.1](https://suttacentral.net/dn13/en/sujato#13.1)). Note that
+    in Sanskrit the names of the rishis are distinguished from the
+    lineage holders, which take the patronymic. For example,
+    [Bharadvāja]{lang="sa"} is the rishi, the [Bhāradvājas]{lang="sa"}
+    are his descendants; [Vasiṣṭha]{lang="sa"} is the rishi, the
+    [Vāsiṣṭhas]{lang="sa"} are his descendants. Pali texts do not make
+    this distinction, but use the patronymic, although the two forms are
+    not always readily distinguishable. \| "Seer" is *isi* (Sanskrit
+    *[ṛṣi]{lang="sa"}*). It is of uncertain etymology, but was taken to
+    mean that they had "seen" the Vedas (*[mantradraṣṭa]{lang="sa"}*) or
+    directly "heard" them from [Brahmā]{lang="sa"} through divine
+    inspiration, rather than "composing" them like ordinary authors.
+    Here, however, the Buddha says they were "authors"
+    (*[kattāro]{lang="sa"}*). The Buddha adopted *isi* in the sense
+    "enlightened sage".
+
+[^353]: *[Veṭhakanatapassāhi]{lang="sa"}* is otherwise unattested. At
+    [MN 55:12.4](https://suttacentral.net/mn55/en/sujato#12.4)
+    *[veṭhaka]{lang="sa"}* evidently means "collar". In the
+    [Lokuttaravāda]{lang="sa"} [Bhikṣuṇī]{lang="sa"} Vinaya, the brazen
+    nun [Thullānandā]{lang="sa"} gets out of the water and wraps herself
+    in a *[veṭhaka]{lang="sa"}*, which here seems synonymous with
+    *[paṭṭaka]{lang="sa"}*, a strip of cloth. It is allowable if used to
+    tie a basket ([Lo Bi Pn 3](https://suttacentral.net/san-lo-bi-pn3)).
+    *Nata* is "curve", *passa* is "side, flank". Walshe has "flounces
+    and furbelows", Rhys Davids has "fringes and furbelows round their
+    loins". These are prissy descriptions of what is evidently stripper
+    gear.
+
+[^354]: The Buddha calls back to earlier in the sutta, where
+    [Ambaṭṭha]{lang="sa"} drove a mare-drawn chariot ([DN
+    3:1.6.1](https://suttacentral.net/dn3/en/sujato#1.6.1)). \| The
+    verbs here (*vitudenti vitacchenti*) are elsewhere applied to the
+    pecking and slashing of vultures, crows, or hawks ([SN
+    19.1:3.2](https://suttacentral.net/sn19.1/en/sujato#3.2), [MN
+    54:16.2](https://suttacentral.net/mn54/en/sujato#16.2), etc.). The
+    Buddha was disgusted with this maltreatment of the mares.
+
+[^355]: Remembering that [Pokkharasāti]{lang="sa"} lived in a wealthy
+    property that was a royal endowment. Just as today, excessive wealth
+    breeds insecurity.
+
+[^356]: The Buddha has been hard on [Ambaṭṭha]{lang="sa"}, but he is not
+    unfair. He invites the same level of scrutiny for himself.
+
+[^357]: This transition occurs nowhere else.
+
+[^358]: Finally he remembers what his teacher [Pokkharasāti]{lang="sa"}
+    told him in [DN
+    3:1.5.2](https://suttacentral.net/dn3/en/sujato#1.5.2): he will know
+    the Buddha by his marks.
+
+[^359]: This exceedingly strange "miracle" is also found at [MN
+    91:7.1](https://suttacentral.net/mn91/en/sujato#7.1), [MN
+    92:14.1](https://suttacentral.net/mn92/en/sujato#14.1), and [Snp
+    3.7:11.5](https://suttacentral.net/snp3.7/en/sujato#11.5).
+
+[^360]: The diminutive ending for *[paṇḍitaka]{lang="sa"}* is the same
+    as in *[samaṇaka]{lang="sa"}*, which [Ambaṭṭha]{lang="sa"} used of
+    the Buddha. \| For *re* ("bloody"), compare *cara pi re* at [Bu Pc
+    70:1.35](https://suttacentral.net/pli-tv-bu-vb-pc70/en/sujato#1.35)
+    and *he je [kāḷī]{lang="sa"}* at [MN
+    21:9.13](https://suttacentral.net/mn21/en/sujato#9.13). Hard as the
+    Buddha was on [Ambaṭṭha]{lang="sa"}, his own teacher was harder.
+
+[^361]: [Pokkharasāti]{lang="sa"} shows his astuteness, for in many
+    other dialogues the Buddha engaged with brahmins perfectly politely,
+    as he does in the next sutta ([DN
+    4](https://suttacentral.net/dn4/en/sujato)).
+
+[^362]: Illustrating the lack of restraint of even a senior brahmin
+    teacher.
+
+[^363]: Given [Pokkharasāti]{lang="sa"}'s mood, this was probably a
+    diplomatic move.
+
+[^364]: *[Khādanīya]{lang="sa"}* and *[bhojanīya]{lang="sa"}* are food
+    categories commonly mentioned in Pali. Etymologically they stem from
+    "hard and soft". *[Bhojanīya]{lang="sa"}* is defined in [Bu Pc
+    37:2.1.10](https://suttacentral.net/pli-tv-bu-vb-pc37/en/sujato#2.1.10)
+    as grain, porridge, flour products, fish, and meat, thus being foods
+    that are typically eaten cooked and "mooshed up" in with the fingers
+    in the bowl. *[Khādanīya]{lang="sa"}* is not so readily defined,
+    being essentially everything not included in other categories. But
+    it would have included such "crunchy" things as fruit and
+    vegetables, which may be eaten uncooked.
+
+[^365]: [Pokkharasāti]{lang="sa"} makes sure he hears both sides of the
+    story.
+
+[^366]: So far has [Ambaṭṭha]{lang="sa"} fallen from the learned sage we
+    were introduced to at the start of the sutta.
+
+[^367]: The Buddha bears no ill will. *[Sukhī]{lang="sa"} hotu* is one
+    of the most recognizable Pali phrases, but in early texts it is
+    spoken only a few times: by the Buddha at [DN
+    21:1.8.8](https://suttacentral.net/dn21/en/sujato#1.8.8) and [Snp
+    5.1:54.1](https://suttacentral.net/snp5.1/en/sujato#54.1); by
+    Punabbasu's Mother at [SN
+    10.7:10.1](https://suttacentral.net/sn10.7/en/sujato#10.1); and by
+    various women at [Bu Ss
+    5:1.4.8](https://suttacentral.net/pli-tv-bu-vb-ss5/en/sujato#1.4.8).
+
+[^368]: "Robed up" because inside the monastery, monks would normally
+    wear just a lower robe, and would don the upper and (sometimes)
+    outer robes when visiting a layperson's home.
+
+[^369]: While all these teachings feature commonly in the suttas, there
+    is no text that depicts this framework in detail.
+
+[^370]: This is the briefest expression of the four noble truths.
+
+[^371]: This indicates that he became a stream-enterer
+    (*[sotāpanna]{lang="sa"}*), the first of four stages of Awakening.
+    Such details of personal attainment are typically found in the
+    narrative rather than the teaching attributed to the Buddha, and
+    hence were added by redactors at some point. They vary considerably
+    in different versions. In this case, the parallel at DA 20 says that
+    he became a stream-enterer and later a non-returner. T 20 said that
+    he understood the teaching and went for refuge, and agrees that he
+    became a non-returner before his death.
+
+[^372]: This is the insight into universal impermanence and dependent
+    origination.
+
+[^373]: When wandering for alms, mendicants would often roam randomly
+    through the village (*[sapadānacārī]{lang="sa"}*). However if an
+    invitation such as this were issued, the mendicant may visit that
+    place for a meal. It was considered a special ascetic practice to
+    refuse such invitations. The same invitation was issued by Lohicca
+    to [Mahākaccāna]{lang="sa"} at [SN
+    35.132:14.7](https://suttacentral.net/sn35.132/en/sujato#14.7).
+
+[^374]: *[Māṇavikā]{lang="sa"}* is also mentioned at [MN
+    56:27.1](https://suttacentral.net/mn56/en/sujato#27.1) and [Ud
+    2.6:1.3](https://suttacentral.net/ud2.6/en/sujato#1.3) of a young
+    married woman; and at [AN
+    5.192:8.5](https://suttacentral.net/an5.192/en/sujato#8.5) of a baby
+    being born. Thus it does not seem that it meant "female student of
+    the Vedas".
+
+[^375]: *[Kalyāṇaṁ]{lang="sa"} vuccati* is a politely ambiguous phrase.
+    It is spoken twice elsewhere in the Pali, and both times the
+    mendicant who said it immediately departed and never returned ([SN
+    41.3:7.13](https://suttacentral.net/sn41.3/en/sujato#7.13), [SN
+    41.4:6.7](https://suttacentral.net/sn41.4/en/sujato#6.7)).
+
+[^376]: This sutta shows how the conversion of [Pokkharasāti]{lang="sa"}
+    in [DN 3](https://suttacentral.net/dn3/en/sujato) affected the
+    brahmins as far away as [Campā]{lang="sa"}.
+
+[^377]: [Campā]{lang="sa"} is modern Champapuri near Bhagalpur in Bihar
+    state, not far from West Bengal. It is near the eastern-most reach
+    of the Buddha's journeys. [Campā]{lang="sa"} was the capital of
+    [Aṅga]{lang="sa"}, one of the sixteen "great nations"
+    (*[mahājanapadā]{lang="sa"}*). It was a flourishing trade center at
+    which Northern Black Polished Ware has been found, and became a
+    sacred city for the Jains.
+
+[^378]: *[Gaggarā]{lang="sa"}*, an onomatopoeic reduplication
+    ("gargle"), is the name of a number of rivers and whirlpools in
+    Sanskrit (cp. the modern Ghaggar River in north-west India).
+
+[^379]: Here we see how the endowment of *brahmadeyya* helped the king
+    of Magadha establish his influence over the [Aṅgas]{lang="sa"}.
+
+[^380]: "Householders" (*gahapati*) is literal; it means land owners.
+    Thus the "brahmins and householders" (not "brahmin householders")
+    were the wealthy class.
+
+[^381]: Both the repetition below and the parallel at [MN
+    95:8.3](https://suttacentral.net/mn95/en/sujato#8.3) include the
+    phrase "it's appropriate that he comes to see you". It may have been
+    omitted here by mistake.
+
+[^382]: *[Jātivāda]{lang="sa"}* is sometimes translated as "doctrine of
+    birth", but the context here shows this cannot be the case. It
+    refers to the genealogical records of the family lineage.
+
+[^383]: For [Mahāsaṅgīti]{lang="sa"} *[vacchasī]{lang="sa"}* read
+    *[vaccasī]{lang="sa"}* (Sanskrit *varcasin*), "possessing splendor".
+
+[^384]: Notice that the royal endowment was not just for a luxury
+    residence, it was the site of a major international college. Kings
+    invested in education.
+
+[^385]: Later tradition says that the young Siddhattha sneaked out of
+    his home to avoid creating such a scene, but the early texts say he
+    left despite his parents' weeping.
+
+[^386]: In contrast with some of the other ascetics in [DN
+    2](https://suttacentral.net/dn2/en/sujato).
+
+[^387]: This description is applied to the Buddha at [DN
+    5:7.24](https://suttacentral.net/dn5/en/sujato#7.24), and to the
+    corrupt but superficially charming monks Assaji and Punabbasuka at
+    [Bu Ss
+    13:1.3.4](https://suttacentral.net/pli-tv-bu-vb-ss13/en/sujato#1.3.4).
+
+[^388]: This would be the assemblies of aristocrats, brahmins,
+    householders, and ascetics ([AN
+    5.213:3.1](https://suttacentral.net/an5.213/en/sujato#3.1)), rather
+    than the Buddha's four assemblies of monks, nuns, laymen, and
+    laywomen ([AN 4.129](https://suttacentral.net/an4.129/en/sujato)).
+
+[^389]: *Titthakara*, literally "ford-maker", is a term restricted to
+    those such as the Buddha who founded a religion, or
+    [Mahāvīra]{lang="sa"} who was a major reformer on the same level as
+    a founder.
+
+[^390]: [Bimbisāra]{lang="sa"}'s refuge is at [Kd
+    1:22.11.4](https://suttacentral.net/pli-tv-kd1/en/sujato#22.11.4).
+
+[^391]: Pasenadi's refuge is at [SN
+    3.1:14.5](https://suttacentral.net/sn3.1/en/sujato#14.5).
+
+[^392]: This sutta must have been before the events of [DN
+    2](https://suttacentral.net/dn2/en/sujato), but after those of [DN
+    3](https://suttacentral.net/dn3/en/sujato).
+
+[^393]: "Knapsack" is *[puṭosa]{lang="sa"}*, where *[puṭa]{lang="sa"}*
+    is "bag" and *osa* is "food" (Sanskrit *avasa*). The compound is a
+    dative-dependent *tappurisa* with reversal of the usual order,
+    yielding the sense "bag for food".
+
+[^394]: Even before he meets him, [Soṇadaṇḍa]{lang="sa"} has extensive
+    knowledge of the Buddha and faith in him. It's also notable how
+    [Soṇadaṇḍa]{lang="sa"} gives [Pokkharasāti]{lang="sa"} a special
+    status. Perhaps [Pokkharasāti]{lang="sa"} told
+    [Soṇadaṇḍa]{lang="sa"} of the encounter with [Ambaṭṭha]{lang="sa"}
+    in [DN 3](https://suttacentral.net/dn3/en/sujato), which would
+    explain his hesitation. \| Note the use of the term *yoniso* here,
+    which I render "rational". The basic meaning of the term is "womb,
+    source", and it is used to mean "with reason", which here has the
+    sense "pertinent, relevant".
+
+[^395]: For all his previous avowal of faith, [Soṇadaṇḍa]{lang="sa"} is
+    merely polite, not reverential. This foreshadows the ending.
+
+[^396]: The Buddha goes out of his way to make him comfortable.
+    [Soṇadaṇḍa]{lang="sa"} is nervous and overly eager to please, but he
+    is not contemptuous and grinding a personal ax like
+    [Ambaṭṭha]{lang="sa"}.
+
+[^397]: *Suja* (Sanskrit *sruc*) was a large wooden ladle for pouring
+    ghee on to the sacred flame.
+
+[^398]: The Buddha uses "Socratic method". He has the other person
+    articulate a view, then leads them to refine their view, leading to
+    a clearer vision of the truth.
+
+[^399]: When the Buddha convinces [Soṇadaṇḍa]{lang="sa"}, he does not
+    crow over it or take pleasure in his discomfort, but praises his
+    wisdom and affirms his conclusions.
+
+[^400]: The Buddha has taken pains to establish common ground, but
+    [Soṇadaṇḍa]{lang="sa"}'s description of wisdom is lacking, so the
+    Buddha prompts a deeper inquiry.
+
+[^401]: Normally, the Buddha frames his teaching as ethics, meditation,
+    and wisdom, but here he adapts to [Soṇadaṇḍa]{lang="sa"}'s framing
+    and places meditation under wisdom.
+
+[^402]: [Soṇadaṇḍa]{lang="sa"}'s attachment to his reputation betrays
+    his lack of inner confidence and stands in contrast with
+    [Pokkharasāti]{lang="sa"}. Perhaps it may also be read as a regional
+    characteristic, since Buddhism was less well established in the
+    [Aṅga]{lang="sa"} region than in central Magadha.
+
+[^403]: When asked about sacrifice, the Buddha tells a story of how a
+    king was persuaded to forgo cruelty and institute a constructive
+    social policy of welfare instead.
+
+[^404]: [Khāṇumata]{lang="sa"} is only mentioned here. It means
+    "stumpy", perhaps indicating that it was, or had recently been, a
+    rough out-of-the-way place.
+
+[^405]: The commentary says this was similar to the
+    [Ambalaṭṭhikā]{lang="sa"} of [DN
+    1:1.2.1](https://suttacentral.net/dn1/en/sujato#1.2.1).
+
+[^406]: Like the town [Khāṇumata]{lang="sa"}, the brahmin
+    [Kūṭadanta]{lang="sa"} appears only here. His name means "pointy
+    teeth", but there is no evidence that he was a vampire.
+
+[^407]: At [Snp
+    2.7:26.1](https://suttacentral.net/snp2.7/en/sujato#26.1), the
+    sacrifice of cows in particular was said to be the nadir of decline
+    for brahmins. When similar sacrifices are described elsewhere in the
+    canon, the number is five hundred rather than seven hundred ([SN
+    3.9:1.2](https://suttacentral.net/sn3.9/en/sujato#1.2), [AN
+    7.47:1.2](https://suttacentral.net/an7.47/en/sujato#1.2)).
+
+[^408]: News of the Buddha had spread in Brahmanical circles. In [DN
+    3](https://suttacentral.net/dn3/en/sujato) we saw the Buddha use his
+    rhetorical technique of adapting his teaching to reframe Brahmanical
+    doctrines in order to establish a common ground. Here we see the
+    downside to such techniques, as the details of the reframing have
+    been lost.
+
+[^409]: No such sacrifice has been identified in Brahmanical texts.
+
+[^410]: [Kūṭadanta]{lang="sa"}'s proposal that the Buddha advise him on
+    the sacrifice of 700 animals is outrageous. Nonetheless, the Buddha
+    responds politely since [Kūṭadanta]{lang="sa"} is being polite.
+    While it is tempting to see the sacrifice of animals by supposedly
+    virtuous priests as sheer hypocrisy, the fact of sacrifice remains
+    one of the most widespread and mysterious of human religious
+    practices. In an empathetic work that addresses this squarely,
+    Roberto Calasso's *Ardor* sees the vast complex of Vedic ritual and
+    theory as making plain the fact of killing so that the guilt may be
+    contained, in contrast with our modern culture of killing on an
+    industrial scale while hiding it out of sight.
+
+[^411]: [Mahāvijita]{lang="sa"} means "Great Dominion". He seems to be
+    only known from this story. The idiom *[bhūtapubbaṁ]{lang="sa"}*
+    (literally "so it was in the past") introduces legendary narratives
+    of usually dubious historicity, like the English idiom "once upon a
+    time".
+
+[^412]: In the Pali, meaningful thoughts often occur to people when
+    withdrawn in seclusion. This doesn't necessary mean they were in
+    formal meditation.
+
+[^413]: The great sacrifices, especially the horse sacrifice, ensured
+    royal authority. Their very scale and wastefulness showed off the
+    wealth of the king.
+
+[^414]: "High priest" is *purohita*. He was a family chaplain advising
+    and consecrating the royal family. The closeness of the relationship
+    is shown by the fact that the royal family would take the lineage
+    name of the *purohita*.
+
+[^415]: Then, as today, government policy was driven by the perception
+    of rising crime rate. This whole passage is one of the Buddha's most
+    important statements on public policy. It is expressed through
+    storytelling, giving a good example of how myths were invoked---and
+    subverted---as rationales for current policy.
+
+[^416]: "Taxes" is *bali*. He would have had to press his people for the
+    extra funds to hold the sacrifice.
+
+[^417]: "Plague of savages" (*[dassukhīla]{lang="sa"}*) is the only
+    occurrence of Sanskrit *dasyu* in early Pali. The *dasyu* were
+    inveterate foes of the Aryans in the Vedic period. Bereft of
+    civilizing rites, scriptures, and observances, they were no children
+    of Manu (Rig Veda 10.22.8). Their wiles (*[māyā]{lang="sa"}*) made
+    them a potent threat (Rig Veda 4.16.9, 8.14.14, 10.73.5). Indra was
+    invoked to ensure their destruction (Rig Veda *passim*; Atharva Veda
+    2.14.5, 4.32.3, 20.21.4, 20.37.5, 20.42.2). Legend has it that Agni
+    and Soma first supported the *dasyu* before being won over by Indra
+    (Śatapatha [Brāhmaṇa]{lang="sa"} 1.6.3.13; see also 6.4.2.4). By the
+    time of the Buddha the *dasyu* have vanished except as a legendary
+    foe of the past. Where the Brahmanical texts advocate the pitiless
+    destruction of the *dasyu*, the brahmin high priest in the Buddhist
+    text advocates an inclusive policy of social welfare.
+
+[^418]: The priest knows that the king will respond better to a
+    pragmatic argument than a moral one.
+
+[^419]: Effective social policy requires a forward-thinking plan, not
+    just reacting to grievances.
+
+[^420]: The king should spend his own resources to support his citizens
+    in the various occupations.
+
+[^421]: Here the priest identifies a fundamental cause of social unrest
+    and disorder.
+
+[^422]: The king spends out of pocket, but the economy flourishes, so
+    tax revenues increase even though he has not raised taxes. This is
+    the essence of Keynesian economic theory.
+
+[^423]: *Khema* means a place of safety and sanctuary, where both humans
+    and animals have no fear.
+
+[^424]: A good leader listens to advice.
+
+[^425]: Here the phrase "of both town and country" qualifies each group.
+    At [AN 4.70:1.3](https://suttacentral.net/an4.70/en/sujato#1.3),
+    however, "brahmins and householders" and "people of town and
+    country" are separate groups of people. Elsewhere the context does
+    not always decide between these two possibilities. Generally the
+    idiom aims at inclusivity, as opposed to here where the king is
+    consulting the rich and powerful, so I treat them as two separate
+    groups, thus including the common folk.
+
+[^426]: "Consenting factions" is *[anumatipakkhā]{lang="sa"}*. The king
+    governs with the consent of his people, although only the landowning
+    classes are considered.
+
+[^427]: Royal authority is not based just on birth, conquest, ritual, or
+    power, but on quality of character.
+
+[^428]: Read *sahati* ("prevails") over the several variants.
+
+[^429]: Showing the importance of comprehension over blind adherence to
+    tradition.
+
+[^430]: Meditators focus on the present, but that does not mean they
+    cannot think about the past or future; it just means they are not
+    trapped in useless thoughts.
+
+[^431]: These are four of the five qualities that [Soṇadaṇḍa]{lang="sa"}
+    identifies as the qualities of a brahmin at [DN
+    4:13.2](https://suttacentral.net/dn4/en/sujato#13.2). Missing is
+    appearance, which is the first factor that [Soṇadaṇḍa]{lang="sa"}
+    admits is unnecessary.
+
+[^432]: Compare the three factors of a donor's mind-state at [AN
+    6.37:2.4](https://suttacentral.net/an6.37/en/sujato#2.4).
+
+[^433]: What a recipient does with a gift is beyond the donor's control.
+
+[^434]: PTS edition acknowledges *sajjata* only as a variant reading,
+    but it is in the commentary, so should be accepted in the text. It
+    is from √*sajj* (relinquish).
+
+[^435]: Another lesson in leadership: the importance of communication.
+
+[^436]: Due to abbreviation, the text only mentions householders here,
+    but clearly all are intended.
+
+[^437]: A leader gets results through inspiration, not fear.
+
+[^438]: These were regarded as valuable yet harmless products.
+
+[^439]: The king's generosity and sincerity brings out the best in the
+    others.
+
+[^440]: Here ends the Buddha's legendary account of the past.
+
+[^441]: The other brahmins are satisfied, but [Kūṭadanta]{lang="sa"}
+    senses there is more to it.
+
+[^442]: "So I have heard" (*[evaṁ]{lang="sa"} me [sutaṁ]{lang="sa"}*) is
+    the standard opening for Buddhist suttas. This tag was used to
+    indicate that the speaker was not present at the events, but "heard"
+    about them. This is in contrast with the phrase "I heard and learned
+    this in the presence" (*[sammukhā]{lang="sa"} [sutaṁ]{lang="sa"},
+    [sammukhā]{lang="sa"} [paṭiggahitaṁ]{lang="sa"}*), which is used
+    when reporting a teaching heard directly from the Buddha, eg. [SN
+    55.52:5.1](https://suttacentral.net/sn55.52/en/sujato#5.1), [SN
+    22.90:9.1](https://suttacentral.net/sn22.90/en/sujato#9.1), [MN
+    47:10.7](https://suttacentral.net/mn47/en/sujato#10.7), etc.
+
+[^443]: This qualifies the story of [Mahāvijita]{lang="sa"} as an early
+    canonical [Jātaka]{lang="sa"}. There are a small number of such
+    stories in the early suttas, only some of which overlap with the
+    later [Jātaka]{lang="sa"} collections, the story of
+    [Mahāvijita]{lang="sa"} not being among them.
+
+[^444]: [Kūṭadanta]{lang="sa"} is hoping for a better return on his
+    investment. Throughout the suttas, we find a strain of what might be
+    called "spiritual economics".
+
+[^445]: Mentioned in a similar context at [AN
+    4.40:2.2](https://suttacentral.net/an4.40/en/sujato#2.2).
+
+[^446]: This contradicts the description given above.
+
+[^447]: This means that the dwelling could be used by any
+    [Saṅgha]{lang="sa"} member, as opposed to being given to a
+    particular monastic or group. The gift of a dwelling is regarded as
+    the best kind of offering to the [Saṅgha]{lang="sa"}.
+
+[^448]: Thus far the Buddha has described the regular practice of a
+    Buddhist lay person.
+
+[^449]: The entire path may be described as a "sacrifice".
+
+[^450]: Releasing animals remains a Buddhist practice today.
+
+[^451]: Lying some 60 kilometers north of [Pāṭaliputra]{lang="sa"}
+    (Patna), [Vesālī]{lang="sa"} was the largest city in the Vajji
+    Federation, a republican league in the region north of the Ganges.
+
+[^452]: In the earlier suttas of this chapter, we have seen how news of
+    the Buddha spread, evidently following [Pokkharasāti]{lang="sa"}'s
+    conversion. Here we see an example of the kind of meeting at which
+    such news would be discussed. \| The phrase "brahmin emissaries"
+    (*[brāhmaṇadūtā]{lang="sa"}*) does not seem to occur elsewhere and
+    is not explained in the commentary. Perhaps they were emissaries of
+    the kings, meeting in a neutral location. Or perhaps they were
+    emissaries of their respective communities of brahmins.
+
+[^453]: This monastery features prominently as the Buddha's usual place
+    of residence near [Vesālī]{lang="sa"}.
+
+[^454]: At some times the Buddha would go on retreat and ask that no-one
+    visit him except to bring food; this sometimes happened at the Great
+    Wood ([SN 54.9:2.1](https://suttacentral.net/sn54.9/en/sujato#2.1)).
+    He also had the habit of withdrawing into the wood itself for
+    meditation ([AN
+    5.58:1.3](https://suttacentral.net/an5.58/en/sujato#1.3)). At this
+    time, however, he was simply staying in a nearby hut, so it seems
+    [Nāgita]{lang="sa"} is being over-zealous.
+
+[^455]: [Oṭṭhaddha]{lang="sa"} mean "hare-lip" and is evidently a
+    nickname or epithet. Throughout, the Buddha refers to him by his
+    personal name, [Mahāli]{lang="sa"}. And it is under that name we
+    meet him again in [SN
+    11.13](https://suttacentral.net/sn11.13/en/sujato) and [SN
+    22.60](https://suttacentral.net/sn22.60/en/sujato). \| The
+    Licchavis, whose name is derived from "bear", dominated the Vajji
+    Federation. Note that the [Mahāsaṅgīti]{lang="sa"} edition here
+    spells the masculine singular as *[licchavī]{lang="sa"}*, whereas
+    normally it is *licchavi*.
+
+[^456]: This [Sīha]{lang="sa"} is unknown elsewhere.
+
+[^457]: Kassapa is [Nāgita]{lang="sa"}'s clan name; either he was a
+    brahmin or a *khattiya* whose family chaplain (*purohita*) was a
+    Kassapa.
+
+[^458]: In trying to protect the Buddha, [Nāgita]{lang="sa"} was
+    inflexible and lacking compassion. When given good advice by
+    [Sīha]{lang="sa"}, he responded gracelessly, fobbing off
+    responsibility to a junior. No wonder he was replaced by Ānanda.
+
+[^459]: This is still a common place for forest monks to receive guests.
+
+[^460]: This is the last we hear of these emissaries.
+
+[^461]: Sunakkhatta features in several suttas, through which his
+    journey may be traced. In [MN
+    105](https://suttacentral.net/mn105/en/sujato) he meets the Buddha
+    and gains faith; here in [DN
+    6](https://suttacentral.net/dn6/en/sujato) he is becoming
+    dissatisfied; in [DN 24](https://suttacentral.net/dn24/en/sujato) he
+    rejects the Buddha; and in [MN
+    12](https://suttacentral.net/mn12/en/sujato) he attacks the Buddha
+    after disrobing.
+
+[^462]: This refers to "clairvoyance" and "clairaudience", sometimes
+    translated as the "divine eye" and "divine ear". Despite being
+    included in the Gradual Training, they are not a goal of Buddhist
+    practice. Rather, they are unnecessary but potentially useful, as
+    they reveal dimensions of being inaccessible to ordinary
+    consciousness. Sunakkhatta, however, was evidently just interested
+    in having pleasant supersensory experiences.
+
+[^463]: This must have wounded his pride.
+
+[^464]: This description of meditation is unique in the Pali canon. The
+    Buddha answers [Mahāli]{lang="sa"}'s question directly, even though
+    the premise betrays Sunakkhatta's limited understanding. When a
+    questioner is sincere, answering directly shows respect and builds
+    trust.
+
+[^465]: Having directly answered the original question, the Buddha
+    reframed the issue on request.
+
+[^466]: This is the first description of the four stages of awakening
+    which are featured throughout the Pali canon. The three fetters are
+    identity view, doubt, and misapprehension of precepts and
+    observances ([MN
+    2:11.3](https://suttacentral.net/mn2/en/sujato#11.3)).
+
+[^467]: The five lower fetters are the three mentioned above, plus
+    sensual desire and ill will ([AN
+    10.13:1.5](https://suttacentral.net/an10.13/en/sujato#1.5)). This is
+    the non-returner, who spends their last life in an exalted
+    [Brahmā]{lang="sa"} realm. \| A "spontaneous" rebirth is one that
+    occurs without gestation in the womb, like most *devas*, or for that
+    matter, Boltzmann brains.
+
+[^468]: This is the arahant, the "worthy" or "perfected" one. Elsewhere
+    it is said they abandon the five higher fetters: desire for rebirth
+    in the realm of luminous form, desire for rebirth in the formless
+    realm, conceit, restlessness, and ignorance ([AN
+    10.13:2.2](https://suttacentral.net/an10.13/en/sujato#2.2)).
+
+[^469]: This is the most fundamental of the Buddha's teachings on the
+    path, declared in his first sermon ([SN
+    56.11](https://suttacentral.net/sn56.11/en/sujato)). It reappears in
+    [DN 8:13.5](https://suttacentral.net/dn8/en/sujato#13.5), [DN
+    19:61.7](https://suttacentral.net/dn19/en/sujato#61.7), and [DN
+    22:21.2](https://suttacentral.net/dn22/en/sujato#21.2).
+
+[^470]: The eight factors map roughly on to the Gradual Training thus:
+    hearing the Dhamma gives rise to right view; the choice to renounce
+    is right thought; ethics includes right speech, action, and
+    livelihood; undertaking seclusion and sense restraint is right
+    effort; developing meditation is right mindfulness; and gaining the
+    four *[jhānas]{lang="sa"}* is right immersion. Realization of the
+    Dhamma completes the circle by deepening conceptual right view to
+    liberating insight. Sometimes this is expressed by adding two
+    further factors, right knowledge and right liberation.
+
+[^471]: The Buddha retells the events recorded in the next sutta, [DN
+    7](https://suttacentral.net/dn7/en/sujato).
+
+[^472]: [Muṇḍiya]{lang="sa"} means "shaven one"; his name is spelled
+    Mandissa in some manuscripts. He appears only in this passage.
+    [Jāliya]{lang="sa"} returns in [DN
+    24:2.4.1](https://suttacentral.net/dn24/en/sujato#2.4.1), which
+    recounts the farcical events following Sunakkhatta's disrobal. There
+    he takes the Buddha's part against the delusional
+    [Pāṭikaputta]{lang="sa"} favored by Sunakkhatta.
+
+[^473]: The term "soul" (*[jīva]{lang="sa"}*) was favored by the
+    *[samaṇas]{lang="sa"}*, as opposed to the "self"
+    (*[attā]{lang="sa"}*) of the brahmins. Both are rejected by the
+    Buddha as forms of "metaphysical" self: they postulate the absolute,
+    eternal existence of entities that cannot be established
+    empirically. The repeated demonstrative pronouns (*[taṁ]{lang="sa"}
+    [jīvaṁ]{lang="sa"} [taṁ]{lang="sa"} [sarīraṁ]{lang="sa"}*) assert an
+    emphatic identity.
+
+[^474]: They evidently believed that the experience of
+    [jhāna]{lang="sa"} would grant insight into this dilemma. But it is
+    a loaded question: it assumes that the soul is real and that what
+    needs determining is its relation to the body.
+
+[^475]: Until this point, none of the experiences described are
+    fundamentally incompatible with the notion of an eternal
+    metaphysical self. Buddhists believe that non-Buddhists, before and
+    after the Buddha, are quite capable of realizing such states.
+    However, they would tend to interpret them in line with their
+    previous beliefs, thus reinforcing their theories of self. Faced
+    with the end of all rebirth, however, no theory of eternal self can
+    stand.
+
+[^476]: This sutta depicts the events that were subsequently related by
+    the Buddha in the previous sutta, [DN
+    6](https://suttacentral.net/dn6/en/sujato).
+
+[^477]: [Ujuññā]{lang="sa"} was a Kosalan town at which King Pasenadi
+    visited the Buddha in [MN
+    90](https://suttacentral.net/mn90/en/sujato). \| "Deer parks" were
+    nature reservations where the animals were safe from hunters.
+
+[^478]: Naked ascetics are still found in India today. Some Jains went
+    naked, but if he were a Jain he would have been introduced as such.
+    Kassapa is an ancient clan name of the brahmins, and we meet four
+    naked ascetics named Kassapa in the canon (here, [SN
+    12.17](https://suttacentral.net/sn12.17/en/sujato), [SN
+    41.9](https://suttacentral.net/sn41.9/en/sujato), and [MN
+    124](https://suttacentral.net/mn124/en/sujato)). They cannot be the
+    same person, for at the end of each account it is said they went
+    forth and attained arahantship.
+
+[^479]: In his first sermon, the Buddha rejected extremes of
+    self-mortification. There the term was *attakilamatha*
+    ("self-mortification"), whereas here it is *tapas* ("heat, burning,
+    fervor"). These refer to the same practices, but *tapas* points to
+    the fervent ardor of the practitioner, generating an inner heat that
+    "burns off" the corrupting traces of *kamma* and defilements. This
+    topic is also discussed in [AN
+    10.94](https://suttacentral.net/an10.94/en/sujato).
+
+[^480]: While the self-mortification itself may be useless, the person
+    who practices it may have other good qualities. The Buddha is
+    cautioning against rash judgement.
+
+[^481]: Again we see the Buddha's preferred method of establishing
+    common ground first, then building an argument from there.
+
+[^482]: Rather than logical hair-splitting, the Buddha recommends
+    looking at a person's conduct.
+
+[^483]: Here *-va* has an exclusive sense (= *eva*). Compare [Dhp
+    274](https://suttacentral.net/dhp274/en/sujato): *eseva maggo
+    [natthañño]{lang="sa"}* ("This is the path, there is no other").
+
+[^484]: Compare [DN
+    16:5.27.1](https://suttacentral.net/dn16/en/sujato#5.27.1).
+
+[^485]: What follows is a description of ascetic practices undertaken by
+    the Jains and similar groups. \| The phrase "course of fervent
+    mortification" (*tapopakkama*) is unique to this sutta. *Pakkama*
+    means "stepping out".
+
+[^486]: Buddhist mendicants may not receive food in their hands, nor
+    lick them while eating. Followers of the practices listed here would
+    have walked steadily and randomly for alms, accepting only what was
+    given at the time.
+
+[^487]: Keeping sheep (*[eḷaka]{lang="sa"}*, for slaughter) goes against
+    the Jain principle of non-violence, as does keeping weapons
+    (*[daṇḍa]{lang="sa"}*). \| A *musala* often means "pestle", but it
+    can also be a "shovel"; at [MN
+    81:18.12](https://suttacentral.net/mn81/en/sujato#18.12) it is
+    regarded as a virtue to not use one to dig the soil (which is
+    regarded as being alive in Jainism). \| *Thusodaka* is an alcoholic
+    porridge fermented from grain-husks, mentioned alongside
+    *[sovīraka]{lang="sa"}* in the Pali commentaries and
+    [Carakasaṁhitā]{lang="sa"} 27g.191.
+
+[^488]: It is not easy to meaningfully distinguish the various kinds of
+    grain.
+
+[^489]: All are extremely uncomfortable. Christian ascetics wore a "hair
+    shirt" in order to "mortify the flesh" .
+
+[^490]: Jain ascetics tear out their hair at ordination, rather than
+    shaving.
+
+[^491]: Remaining in one posture for months or years at a time is one of
+    the most difficult practices.
+
+[^492]: Strict Jain ascetics did not bathe.
+
+[^493]: At [Kd
+    6:14.6.3](https://suttacentral.net/pli-tv-kd6/en/sujato#14.6.3) the
+    four "great unnaturals" (or "filthy edibles",
+    *[mahāvikaṭa]{lang="sa"}*) are said to be feces, urine, ash, and
+    clay. At [MN 12:49.3](https://suttacentral.net/mn12/en/sujato#49.3)
+    the Buddha said he ate the "unnatural things" of feces and urine
+    when undertaking ascetic practices.
+
+[^494]: This seems out of place here. It was a Brahmanical practice ([SN
+    7.21](https://suttacentral.net/sn7.21/en/sujato)), as the Jains
+    refused to bathe at all. Indeed, bathing three times a day in the
+    Indian climate would, for most of the year, be quite pleasant.
+
+[^495]: The term "accomplishment in mind" (*[cittasampadā]{lang="sa"}*)
+    is equivalent to "accomplishment in immersion"
+    (*[samādhisampadā]{lang="sa"}*). More generally, when *citta* is
+    used in the context of meditation, it is normally a synonym of
+    *[samādhi]{lang="sa"}*.
+
+[^496]: *[Mettā]{lang="sa"}* is universal love and good will free from
+    attachment. As well as being a foundation for good character and
+    healthy emotional development, it serves to lead the mind into deep
+    meditation of *[jhāna]{lang="sa"}*.
+
+[^497]: The Buddha was criticized for going soft after abandoning
+    austere practices, but here he flips the script, arguing that it is
+    inner transformation that is really hard, not outer shows of
+    mortification.
+
+[^498]: Note that the heading for this section in the
+    [Mahāsaṅgīti]{lang="sa"} edition uses *[samādhi]{lang="sa"}* rather
+    than *citta*. Headings were added by later editors, and are not part
+    of the original text.
+
+[^499]: This is the ethical practices as described in the Gradual
+    Training.
+
+[^500]: "Mortification in disgust of sin" renders
+    *[tapojigucchā]{lang="sa"}*; *tapo* is "fervent mortification" and
+    *[jigucchā]{lang="sa"}* is "loathing, disgust". It captures the
+    severity with which practitioners regarded the "evil" or "sin" with
+    which they were infected, like a quasi-physical stain on the soul,
+    and the burning flame of white-hot pain required to cauterize their
+    spiritual wounds.
+
+[^501]: The Buddha repurposes the concept of "disgust of sin", which
+    here stands in the place of meditation (*[samādhi]{lang="sa"}*).
+
+[^502]: A "lion's roar" is an unapologetic proclamation of spiritual
+    supremacy.
+
+[^503]: The Buddha is referring to the events of the Udumbarikasutta
+    ([DN 25](https://suttacentral.net/dn25/en/sujato)). There Nigrodha
+    is referred to as a "wanderer" (*[paribbājaka]{lang="sa"}*) who
+    according to the commentary was clothed. The term
+    *[tapabrahmacārī]{lang="sa"}* here is unique and is not explained in
+    the commentary. I think it means he was a celibate student of a
+    Brahmanical teacher.
+
+[^504]: This probation is laid down in the Vinaya at [Kd
+    1:38.1.5](https://suttacentral.net/pli-tv-kd1/en/sujato#38.1.5). The
+    candidate shaves, dons the robes, takes refuge, and asks for
+    probation. They must show good conduct and restraint, diligence in
+    duties, and enthusiasm for the Buddha's teachings and practice.
+
+[^505]: In addition to individual exceptions, there are general
+    exceptions for dreadlocked ascetics, since they believe in kamma,
+    and for the Buddha's relatives.
+
+[^506]: [Poṭṭhapāda]{lang="sa"} appears only here; he was named for a
+    month of the lunar calendar (August/September). \|
+    [Mallikā]{lang="sa"} was the chief queen of Pasenadi, and her hall
+    is mentioned in a similar context at [MN
+    78:1.3](https://suttacentral.net/mn78/en/sujato#1.3). The commentary
+    explains that the brahmins, Jains, and others would assemble there
+    to "debate their beliefs" (*[samayaṁ]{lang="sa"} pavadanti*).
+    Evidently the monastery grounds had accommodation for many ascetics
+    of different beliefs, but only "one hall" where they would gather
+    for debate. We hear many times of such debates, but here we catch a
+    glimpse of a place that was set up to facilitate them. For
+    *-[ācīra]{lang="sa"}*, read in the sense of "boundary, hedge"
+    (commentary: *[timbarūrukkhapantiyā]{lang="sa"}
+    [parikkhittattā]{lang="sa"}*; cf. Sanskrit *[prācīra]{lang="sa"}*,
+    "enclosure, hedge, fence, wall").
+
+[^507]: According to the commentary, when he approached the vicinity of
+    the city gate, he decided to check the position of the sun and
+    noticed that it was too early to enter. The commentary and
+    sub-commentary explain that it only sounds like the Buddha was in
+    doubt, for Buddhas deliberate before deciding on a course of action.
+
+[^508]: This can be understood as answering the criticism voiced in [DN
+    8:22.2](https://suttacentral.net/dn8/en/sujato#22.2), that the
+    Buddha was afraid to speak in an assembly.
+
+[^509]: In contrast with the silence of the Buddha's community at [DN
+    2:10.7](https://suttacentral.net/dn2/en/sujato#10.7).
+
+[^510]: The Buddha encourages quiet for the sake of mental development;
+    [Poṭṭhapāda]{lang="sa"} does it for the sake of reputation.
+
+[^511]: [Poṭṭhapāda]{lang="sa"}'s address is almost overly deferential.
+
+[^512]: Always polite, the Buddha begins by showing an interest in them.
+
+[^513]: *[Abhisaññā]{lang="sa"}* does not appear elsewhere. Here the
+    prefix *abhi-* means not "higher", but rather "about, concerning".
+    Compare *abhidhamma* at [MN
+    32:8.6](https://suttacentral.net/mn32/en/sujato#8.6): *dve
+    [bhikkhū]{lang="sa"} [abhidhammakathaṁ]{lang="sa"} kathenti* ("two
+    mendicants engage in discussion about the teaching"); also
+    *abhivinaya* at [AN
+    3.140:4.4](https://suttacentral.net/an3.140/en/sujato#4.4). The
+    commentary here says *abhi-* is a mere particle, so it need not be
+    translated.
+
+[^514]: This discussion appears to have been directly sparked by the
+    difficult passage in [Bṛhadāraṇyaka]{lang="sa"}
+    [Upaniṣad]{lang="sa"} 2.4.12 and 4.5.13. The sage
+    [Yājñavalkya]{lang="sa"}, teaching his wife [Maitreyī]{lang="sa"},
+    says that the true Self is a sheer mass of "consciousness"
+    (*[vijñāna]{lang="sa"}*, Pali *[viññāṇa]{lang="sa"}*), which is
+    "great, endless, infinite reality". After realizing this, he says,
+    there is no "perception" (*[saṁjñā]{lang="sa"}*, Pali
+    *[saññā]{lang="sa"}*), a statement that bewilders even the wise
+    [Maitreyī]{lang="sa"}. He explains that only in an apparent state of
+    duality (*dvaitamiva*) do the separate functions of sense
+    consciousness operate. When all is realized as the Self, how, he
+    asks, can one know that owing to which all this is known? He is
+    implicitly distinguishing between *[viññāna]{lang="sa"}* as
+    "infinite" (= *vi-*) knowing and *[saññā]{lang="sa"}* as
+    "constrained" (*[saṁ]{lang="sa"}-*) knowing.
+    [Yājñavalkya]{lang="sa"} says the separate Self emerges with these
+    elements and vanishes with them (*etebhyo [bhūtebhyaḥ]{lang="sa"}
+    [samutthāya]{lang="sa"} [tānyevānu]{lang="sa"}
+    [vinaśyati]{lang="sa"}*), but he does not explain how or why this
+    happens, which is the question the theorists here attempt to
+    address.
+
+[^515]: Here perception is not identified with the "person" (*purisa*),
+    but rather belongs to them (cf. *[etaṁ]{lang="sa"} mama*, "this is
+    mine"). In the discussion to follow, the Buddha only directly
+    addresses this theory, while the remainder are included by
+    inference.
+
+[^516]: This idiom is also at [SN
+    47.19:1.10](https://suttacentral.net/sn47.19/en/sujato#1.10).
+
+[^517]: The self is defined as perception (*eso me [attā]{lang="sa"}*),
+    one of the five aggregates. Compare the various theories of the self
+    and perception at [DN
+    1:2.38.0](https://suttacentral.net/dn1/en/sujato#2.38.0).
+
+[^518]: Implying that at such times a person lacks a "self". This is
+    perhaps related to [Yājñavalkya]{lang="sa"}'s: "That man, when born,
+    acquiring a body, is connected with ills (the bodily organs); and
+    when he dies, departing, he discards those ills"
+    ([Bṛhadāraṇyaka]{lang="sa"} [Upaniṣad]{lang="sa"} 4.3.8).
+
+[^519]: The commentary says these were devotees of
+    *[āthabbaṇa]{lang="sa"}*, i.e the practices preserved in the
+    Atharvaveda. This "fourth Veda" is mentioned only once by name in
+    the early Pali ([Snp
+    4.14:13.1](https://suttacentral.net/snp4.14/en/sujato#13.1)), where,
+    as here, it is associated with the performance of magic and the
+    casting of spells. The commentary fairly drips with contempt:
+    "Allegedly, the [Āthabbaṇa]{lang="sa"} practitioners cast a spell,
+    showing a creature's head as if cut off, or their hand as if cut
+    off, or as if dead. Then they show them back to normal; imagining
+    so, they say, 'From cessation they have arisen.'"
+
+[^520]: See [DN 29:16.20](https://suttacentral.net/dn29/en/sujato#16.20)
+    for *[upakaḍḍhati]{lang="sa"}* and *[apakaḍḍhati]{lang="sa"}* in
+    this sense.
+
+[^521]: *[Pakataññū]{lang="sa"}* is not elsewhere attested in the
+    suttas, but it is found in the Vinaya, for example at [Bu Pc
+    72:1.8](https://suttacentral.net/pli-tv-bu-vb-pc72/en/sujato#1.8)).
+
+[^522]: Here the Buddha argues that, since it is possible to change the
+    nature of one's own mind through practice, such changes cannot be
+    random.
+
+[^523]: It is is unusual if not unique to add "said the Buddha"
+    (*[bhagavā]{lang="sa"} avoca*) in such a context. Normally, once a
+    speaker starts, the text does not insert extra tags identifying the
+    speaker without a reason, such as an interruption for a question.
+
+[^524]: Sinhalese manuscripts, followed by PTS, include the paragraphs
+    on the metaphor of the king's security ([DN
+    2:63.1](https://suttacentral.net/dn2/en/sujato#63.1)) and on
+    guarding the sense doors here.
+
+[^525]: Progress through the *[jhānas]{lang="sa"}* is explained in terms
+    of the refining of perceptions.
+
+[^526]: "Subtle and true" is *sukhumasacca*, a term that appears only
+    here.
+
+[^527]: We have encountered the "formless attainments"
+    (*[arūpasamāpatti]{lang="sa"}*) before, where they formed a refined
+    basis for attachment to self ([DN
+    1:3.13.4](https://suttacentral.net/dn1/en/sujato#3.13.4)). Here they
+    appear as part of the gradual refinement of consciousness through
+    the cessation of increasingly subtle perceptions.
+
+[^528]: This is the vision of light that later came to be called a
+    "sign" (*nimitta*). In the first four *[jhānas]{lang="sa"}* this
+    persists as a "subtle" (*sukhuma*) reflection or echo of the
+    "substantial" (*[olārika]{lang="sa"}*) material basis of meditation,
+    such as the breath or the parts of the body. Even though it is a
+    purely mental phenomenon, it is still "form" (*[rūpa]{lang="sa"}*)
+    since it has physical properties like light or extension.
+
+[^529]: The "light" (*[obhāsa]{lang="sa"}*) of *[jhāna]{lang="sa"}*
+    grows from "limited" (*paritta*) to "limitless"
+    (*[appamāṇa]{lang="sa"}*, [MN
+    128:29.1](https://suttacentral.net/mn128/en/sujato#29.1)). Then the
+    perception of even this limitless light vanishes, leaving only
+    infinite space.
+
+[^530]: Perception of infinite space fades away leaving only the
+    infinite consciousness that is aware.
+
+[^531]: The meditator is no longer even aware of infinite consciousness,
+    but of the even vaster nothingness.
+
+[^532]: The last of the four formless attainments is the dimension of
+    neither perception nor non-perception. Since this, by definition,
+    lies beyond the scope of perception, it is not included here.
+
+[^533]: For *[sakasaññī]{lang="sa"}* ("takes charge of their own
+    perception"), see [Bu Pj
+    2:6.2.2](https://suttacentral.net/pli-tv-bu-vb-pj2/en/sujato#6.2.2).
+    One relevant factor in determining whether an object has been stolen
+    is if the accused "perceives it as their own". Here it means that
+    the meditator understands that they can evolve their own perceptions
+    through meditation.
+
+[^534]: "Intend and choose" is *[ceteyyaṁ]{lang="sa"}
+    [abhisaṅkhareyyaṁ]{lang="sa"}* (1st singular optative). These
+    synonyms are used in the sense of a subtle sense of will or
+    intentionality that underlies such attainments ([MN
+    52:14.3](https://suttacentral.net/mn52/en/sujato#14.3)) and which
+    must be let go lest they generate rebirth ([MN
+    140:22.10](https://suttacentral.net/mn140/en/sujato#22.10)).
+
+[^535]: Compare with "progressive cessation" ([AN
+    9.31](https://suttacentral.net/an9.31/en/sujato)), "progressive
+    tranquilizing of conditions" ([SN
+    36.15](https://suttacentral.net/sn36.15/en/sujato)), "progressive
+    meditations" ([AN 9.32](https://suttacentral.net/an9.32/en/sujato)),
+    etc. \| "Awareness" is *[sampajāna]{lang="sa"}*, which we have
+    encountered previously as "situational awareness" in daily
+    activities, or as the "awareness" in the third *[jhāna]{lang="sa"}*.
+    Here it refers to a reflective capacity to understand the nature of
+    deep meditation in terms of causality. The term was adopted by
+    [Patañjalī]{lang="sa"}, who defined
+    *[saṁprajñātasamādhi]{lang="sa"}* in a way that is clearly drawn
+    from the Buddhist definition of *[jhāna]{lang="sa"}*. It is attained
+    with *vitakka*, *[vicāra]{lang="sa"}*, *[ānanda]{lang="sa"}*
+    ("bliss"), and *[āsmitā]{lang="sa"}*. According to the commentary,
+    this last term is "experience of the one self",
+    *[ekātmikā]{lang="sa"} [saṁvid]{lang="sa"}*) and so is probably
+    adapted from the Buddhist factor of *[ekaggatā]{lang="sa"}*.
+    ([Yogasūtra]{lang="sa"} 1.17).
+
+[^536]: Taking the kernel of [Yājñavalkya]{lang="sa"}'s theory of the
+    cessation of limited perception, the Buddha has expanded it in
+    psychological and practical detail, while leaving out the
+    metaphysical assumption of the Self.
+
+[^537]: [Poṭṭhapāda]{lang="sa"} shows the Buddha that he has been paying
+    attention. Notice how it is culturally assumed that it is possible
+    to retain and repeat the exact content of the teaching.
+
+[^538]: The meaning of this is not clear to me. It might mean that
+    insight can be developed based on any of the stages of meditation,
+    so for that person their peak of perception is different to
+    another's. The commentary says that it refers to different
+    meditation subjects, or simply to different occasions of meditation.
+
+[^539]: [Poṭṭhapāda]{lang="sa"}'s distinction between "perception"
+    (*[saññā]{lang="sa"}*) and "knowledge" (*[ñāṇa]{lang="sa"}*) echoes
+    [Yājñavalkya]{lang="sa"}'s distinction between "perception"
+    (*[saṁjā]{lang="sa"}*) and "consciousness" (*[vijñāna]{lang="sa"}*,
+    or in the repeated passage at 4.5.13, *[prajñāna]{lang="sa"}*).
+
+[^540]: Perception has been described in terms of the progress through
+    more refined meditations (*[samādhi]{lang="sa"}*). Only then does
+    the "knowledge" (*[ñāṇa]{lang="sa"}*) of insight arise.
+
+[^541]: The term "specific condition" (*[idappaccayā]{lang="sa"}*) is
+    well known from dependent origination (eg. [SN
+    12.20:2.3](https://suttacentral.net/sn12.20/en/sujato#2.3)), where
+    it applies to the general situation of ongoing existence in
+    transmigration. When developing insight, a meditator takes their own
+    meditation experience as their primary locus. This is then
+    generalized to an understanding of the nature of conscious
+    existence.
+
+[^542]: This draws from the initial presentation of different theories
+    of the person and perception ([DN
+    9:6.4](https://suttacentral.net/dn9/en/sujato#6.4)).
+
+[^543]: "Believe" is *paccesi*, literally "fall back on". It implies
+    that an idea is something one relies on or takes as fundamental. The
+    Buddha wants to know where [Poṭṭhapāda]{lang="sa"} stands before
+    exploring this topic.
+
+[^544]: Despite his previous questions about perception and the self,
+    [Poṭṭhapāda]{lang="sa"} takes his stand on a purely materialist
+    view, identifying the "self" with the organic "substantial" body.
+
+[^545]: Again, the Buddha does not rush to tell [Poṭṭhapāda]{lang="sa"}
+    he is right or wrong, but rather draws out the implications of his
+    statement.
+
+[^546]: Here *[tiṭṭhateva]{lang="sa"}* is not "leaving aside", but
+    "remains". Compare the similar construction at [MN
+    107:13.1](https://suttacentral.net/mn107/en/sujato#13.1).
+
+[^547]: This is the "subtle" (*sukhuma*) body, corresponding with the
+    form experienced in the four [jhānas]{lang="sa"}. All manuscripts
+    appear to be missing the expected *[rūpī]{lang="sa"}* in this
+    passage, but it occurs in the corresponding passage on
+    "reincarnation" below.
+
+[^548]: This identifies the self as that which is experienced in the
+    formless attainments. [Poṭṭhapāda]{lang="sa"} is simply cycling
+    through possible self theories without really thinking through the
+    implications.
+
+[^549]: [Poṭṭhapāda]{lang="sa"} can only attest a belief in various
+    theories and still does not know how to assess them for himself.
+
+[^550]: The text shifts from *[añña]{lang="sa"}* "other" (eg.
+    *[aññadiṭṭhikena]{lang="sa"}*) to *[aññatra]{lang="sa"}*
+    (*[aññatr]{lang="sa"}'[āyogena]{lang="sa"}*), which normally means
+    "apart from". Most authorities follow the commentary in taking
+    *[aññatra]{lang="sa"}* here in the sense of "other". However I think
+    the change of sense is deliberate; the Buddha is not discouraging
+    them, merely informing them what it will take.
+
+[^551]: This is the famous list of ten "undeclared points", which are
+    found throughout the suttas (eg. [MN
+    25:10.21](https://suttacentral.net/mn25/en/sujato#10.21), [MN
+    63:2.3](https://suttacentral.net/mn63/en/sujato#2.3), [MN
+    72:3.1](https://suttacentral.net/mn72/en/sujato#3.1), and the whole
+    of SN 44). They seem to have functioned as a kind of checklist by
+    which philosophers could be evaluated and classified. \| The word
+    *loka* occurs in a number of senses, but here it refers to the
+    entire "cosmos" of countless worlds.
+
+[^552]: This phrase recurs at [SN
+    21.9:1.4](https://suttacentral.net/sn21.9/en/sujato#1.4) and [AN
+    3.64:11.1](https://suttacentral.net/an3.64/en/sujato#11.1), with
+    some variant readings.
+
+[^553]: The commentary says Citta was the son of an elephant trainer.
+    Here he shows greater respect to the Buddha than does
+    [Poṭṭhapāda]{lang="sa"}.
+
+[^554]: This point seems to be lost on a number of modern commentators,
+    who infer from passages such as the ten undeclared points that the
+    Buddha refused to make any definitive declarations at all. The
+    Buddha, rather, was a *[vibhajjavādin]{lang="sa"}* ([MN
+    99:4.4](https://suttacentral.net/mn99/en/sujato#4.4), [AN
+    10.94:4.7](https://suttacentral.net/an10.94/en/sujato#4.7)), "one
+    who speaks after analysis".
+
+[^555]: See [DN
+    1:2.38.2](https://suttacentral.net/dn1/en/sujato#2.38.2).
+
+[^556]: The Buddha does not rely on rumor; he begins by checking his
+    facts with those concerned. Not only does this affirm his commitment
+    to truth, it shows respect and establishes a common ground from
+    which the argument proceeds.
+
+[^557]: The verb *viharati* means "dwell", and functions as an auxiliary
+    verb implying duration. In spiritual contexts it often means "a
+    period or state of meditation". This first question is asking
+    whether they see such a state in a regular meditation practice.
+
+[^558]: Perhaps they might not be able to develop a meditation for
+    seeing that self, but at some point they may have had some sort of
+    perception or vision or insight.
+
+[^559]: Since they have no experience, they might at least have an idea
+    how to reach that experience.
+
+[^560]: They haven't even heard a report about it.
+
+[^561]: "No demonstrable basis" renders *[appāṭihīrakataṁ]{lang="sa"}*.
+    This is related to *[pāṭihāra]{lang="sa"}*, which is usually
+    understood as "miracle, wonder". But the root sense is
+    "demonstration" and the sense of "display of wonder" is secondary.
+
+[^562]: *[Janapadakalyāṇī]{lang="sa"}* is typically rendered as "the
+    most beautiful lady in the land". At [SN
+    47.20:2.2](https://suttacentral.net/sn47.20/en/sujato#2.2) we learn
+    that she is a dazzling singer and dancer. And while she was famed
+    for her beauty ([Ud
+    3.2:9.1](https://suttacentral.net/ud3.2/en/sujato#9.1)), the word
+    *[kalyāṇa]{lang="sa"}* normally means "(morally) good, fine, lovely"
+    and does not refer solely to her appearance.
+
+[^563]: *Nisseni* only occurs elsewhere in [Bu Ss
+    6:2.3.6](https://suttacentral.net/pli-tv-bu-vb-ss6/en/sujato#2.3.6)
+    and [Bu Ss
+    7:2.67](https://suttacentral.net/pli-tv-bu-vb-ss7/en/sujato#2.67),
+    where it is something carried, i.e. a ladder rather than a flight of
+    stairs.
+
+[^564]: *[Attapaṭilābha]{lang="sa"}* is literally "re-acquisition of
+    self", where *[attā]{lang="sa"}* is explained by the commentary as
+    *[attabhāva]{lang="sa"}*, the "state of the self" or "life-form"
+    that is acquired at rebirth, i.e. the body (*[sarīra]{lang="sa"}*),
+    whether material or immaterial.
+
+[^565]: These recap the three theses of perception and the self posted
+    by [Poṭṭhapāda]{lang="sa"} from [DN
+    9:22.1](https://suttacentral.net/dn9/en/sujato#22.1).
+
+[^566]: Compare with the similar sentiment at [SN
+    22.2:10.1](https://suttacentral.net/sn22.2/en/sujato#10.1).
+
+[^567]: The Buddha points to the experience to demonstrate what he is
+    talking about, rather than offering a long theoretical explanation.
+    *[Ayaṁ]{lang="sa"}* is a pronoun of presence, used to indicate what
+    is apparent before the subject.
+
+[^568]: Citta is asking an ontological question, assuming that these
+    three states are existent realities of the self.
+
+[^569]: The Buddha reframes the question as one of conventional
+    description. He is describing states in which one might be reborn,
+    not underlying ontologies.
+
+[^570]: This anticipates one of the great philosophical debates of
+    sectarian Buddhists which gave rise to the
+    [Sarvāstivāda]{lang="sa"}, the school whose core doctrine was that
+    "all exists (in the past, future, and present)". The Buddha
+    describes past, future, and present with the three grammatical
+    tenses.
+
+[^571]: Compare Śatapatha [Brāhmaṇa]{lang="sa"} 3.3.3.2.
+
+[^572]: Words such as "self" have a conventional usage and in that
+    context are perfectly fine. But what that "self" refers to is
+    constantly changing, as it is reincarnated in different states. It
+    is like a river which keeps the same name even though the water is
+    always changing. If, driven by attachment, we assume there is a
+    metaphysical reality underlying the conventional "self", we step
+    beyond what can be empirically verified. Note, however, that the
+    Buddha is *not* asserting that there are two levels of truth,
+    conventional and ultimate, a distinction not found in early
+    Buddhism. \| Compare [MN
+    139:3.9](https://suttacentral.net/mn139/en/sujato#3.9), [MN
+    74:13.1](https://suttacentral.net/mn74/en/sujato#13.1).
+
+[^573]: In [AN 6.60](https://suttacentral.net/an6.60/en/sujato) we find
+    Citta [Hatthisāriputta]{lang="sa"}, still a somewhat junior monk,
+    rudely interrupting his seniors. After admonition he disrobed, but
+    he ordained again and later achieved arahantship. We can reconcile
+    these two accounts by recognizing that the phrase *acira* "not long
+    after" is a conventional term, which might be several years. Thus
+    the events of AN 6.60 occurred some time between his ordination and
+    awakening.
+
+[^574]: Ānanda's role became more prominent as a leader of the
+    [Saṅgha]{lang="sa"} in the years after the Buddha's passing. This
+    sutta shows the continued propagation of the Buddha's teachings
+    after his death.
+
+[^575]: The same Subha earlier met the Buddha in [MN
+    99](https://suttacentral.net/mn99/en/sujato) and again in [MN
+    135](https://suttacentral.net/mn135/en/sujato), where he asked about
+    kamma. His father Todeyya was a prominent brahmin, often mentioned
+    alongside [Pokkharasāti]{lang="sa"}. The two apparently lived not
+    far from each other, as, according to the commentary, Todeyya was
+    named for his village of Tudi outside of [Sāvatthī]{lang="sa"} (see
+    [Pāṇini]{lang="sa"}'s [Aṣṭādhyāyī]{lang="sa"} 4.3.94). \| These
+    events suggest a certain, albeit tenuous, timeframe for the
+    significant conversion of influential brahmins initiated by
+    [Pokkharasāti]{lang="sa"} in [DN
+    3](https://suttacentral.net/dn3/en/sujato). Here, Subha is active
+    after the Buddha's death, suggesting his age is aligned with that of
+    Ānanda, a generation younger than the Buddha. If this is so, Subha's
+    first meeting with the Buddha would have taken place no earlier than
+    the middle period of his teaching, perhaps twenty years before the
+    [Parinibbāna]{lang="sa"} (MN 99). There he mentions
+    [Pokkharasāti]{lang="sa"}'s hostility to the claims of ascetics, so
+    this must precede [Pokkharasāti]{lang="sa"}'s conversion in DN 3 by
+    a considerable period. If we are on the right track, the conversion
+    of [Pokkharasāti]{lang="sa"}, and the events that flowed from that,
+    must have happened late in the Buddha's career, perhaps in the final
+    decade of his life.
+
+[^576]: Ānanda was getting old.
+
+[^577]: Cetaka is mentioned only here. The commentary says he was named
+    for his home country of [Cetī]{lang="sa"}, which is roughly the
+    modern region of Bundelkhand, about 500 km south-west of
+    [Sāvatthī]{lang="sa"}.
+
+[^578]: What follows has much the same content as [DN
+    2](https://suttacentral.net/dn2/en/sujato), but arranged under these
+    three heads rather than as successively refined happiness.
+
+[^579]: While *[samādhi]{lang="sa"}* proper is the deep immersion in
+    meditation, here it is a category that pertains to developing such
+    states.
+
+[^580]: He had already gone to the Buddha for refuge in [MN
+    99:28.4](https://suttacentral.net/mn99/en/sujato#28.4) and [MN
+    135:21.4](https://suttacentral.net/mn135/en/sujato#21.4).
+
+[^581]: This was the scene for some controversial discussions with Jains
+    ([MN 56](https://suttacentral.net/mn56/en/sujato), [SN
+    42.8](https://suttacentral.net/sn42.8/en/sujato)), and
+    [Sāriputta]{lang="sa"}'s touching declaration of faith shortly
+    before his passing ([SN
+    47.12](https://suttacentral.net/sn47.12/en/sujato), [DN
+    16:1.16.1](https://suttacentral.net/dn16/en/sujato#1.16.1), [DN
+    28](https://suttacentral.net/dn28/en/sujato)). It is probably the
+    [Pāvā]{lang="sa"} (modern Pawapuri) at which [Mahāvīra]{lang="sa"}
+    died according to the Jain tradition.
+
+[^582]: [Kevaḍḍha]{lang="sa"} is mentioned only here. Manuscripts spell
+    his name variously as Kevaddha or [Kevaṭṭa]{lang="sa"}
+    ("fisherman"). The Chinese form means "sturdy" (from
+    *[dṛḍha]{lang="sa"}*) and thus supports [Kevaḍḍha]{lang="sa"}.
+
+[^583]: I have been asked to do the same thing for the same reason.
+
+[^584]: In fact it is forbidden in [Kd
+    15:8.2.23](https://suttacentral.net/pli-tv-kd15/en/sujato#8.2.23).
+
+[^585]: The reading *[dhaṁsemi]{lang="sa"}* is dubious. An old Burmese
+    manuscript has the reading *[dhammaṁ]{lang="sa"} desemi*, which
+    echoes the Buddha just above. Note too that [Kevaḍḍha]{lang="sa"}
+    urges the Buddha to "direct" the monks (*[samādisatu]{lang="sa"}*,
+    from the same root as *desemi*). I think the tension is deliberate:
+    [Kevaḍḍha]{lang="sa"} says he isn't telling the Buddha how to teach,
+    but he absolutely is. Other readings convey the sense "attack,
+    insult", but this seems out of place.
+
+[^586]: As noted previously, the basic sense of
+    *[pāṭihāriya]{lang="sa"}* is "demonstration", and as the context
+    here shows, it may or may not involve a "demonstration of wonders"
+    i.e. a "miracle".
+
+[^587]: These three are mentioned frequently in the suttas. Only the
+    last is endorsed by the Buddha, as it leads to genuine growth.
+
+[^588]: Their priors have been confirmed.
+
+[^589]: Note how a skeptical mindset sticks closer to the truth.
+
+[^590]: "Spell" is *[vijjā]{lang="sa"}* (Sanskrit *[vidyā]{lang="sa"}*,
+    "(potent) knowledge", cf. English "wicca", "wizard", "witch"). The
+    commentary says it was practiced by the seers of
+    [Gandhāra]{lang="sa"} (north-west Pakistan). Jain tradition also
+    knows a [Gandhārī]{lang="sa"} mantra, but attribute it to certain
+    *[vidyādhara]{lang="sa"}* deities. Sanskrit tradition similarly
+    knows of a *[vidyādevī]{lang="sa"}* ("lore goddess") named
+    [Gandhārī]{lang="sa"}. [Gandhāra]{lang="sa"} was an ancient land of
+    learning, and a convenient location for exotic magics.
+
+[^591]: These feats that have nothing to do with spiritual growth, hence
+    they may be produced or perhaps faked by a variety of means.
+
+[^592]: "Revealing" is *[ādesana]{lang="sa"}*, from root *dis* "to
+    indicate, show, or point".
+
+[^593]: The Pali terms here are *citta*, *cetasika*, *vitakka*, and
+    *[vicāra]{lang="sa"}*.
+
+[^594]: Here we have *mano* (twice) and *citta*.
+
+[^595]: From *[maṇi]{lang="sa"}*, "gem". Magical gems are a common
+    feature of Indian storytelling. Buddhist stories often feature the
+    "wish-granting gem" (*[cintāmaṇi]{lang="sa"}*), which according to
+    the commentary is meant here.
+
+[^596]: This story is presented as an actual event, but is phrased like
+    a fable.
+
+[^597]: The question is about meditation, not the annihilation of the
+    material world. The first four *[jhānas]{lang="sa"}* are based on
+    the "subtle form" (*[sukhumarūpa]{lang="sa"}*) that manifests as
+    light in deep meditation. He is asking how to go beyond this to the
+    formless attainments.
+
+[^598]: The mendicant has already well developed the
+    *[jhānas]{lang="sa"}*. \| "Controlling the body as far as the
+    [Brahmā]{lang="sa"} realm" is one of the "demonstrations of psychic
+    power" listed above.
+
+[^599]: The "gods of the Four Great Kings" are deities born in a realm
+    subject to the overlords known as the Four Great Kings. These
+    deities inhabit the lowest of the celestial realms.
+
+[^600]: These are powerful spirits who guard the four quarters. In [AN
+    8.36](https://suttacentral.net/an8.36/en/sujato) it is explained
+    that they, like the other leading gods mentioned below, achieved
+    their station due to their greater generosity and morality.
+
+[^601]: The "thirty-three" enjoy refined sensual delights. The number is
+    a reduplication of the trinity. In Buddhist texts they are not
+    enumerated, but [Yājñavalkya]{lang="sa"} reckons them as eight
+    Vasus, eleven Rudras, twelve Ādityas, plus Indra and
+    [Prajāpati]{lang="sa"} ([Bṛhadāraṇyaka]{lang="sa"}
+    [Upaniṣad]{lang="sa"} 3.9.2). The final pair are elsewhere said to
+    be Dyaus ("Heaven" = Zeus) and [Pṛthivī]{lang="sa"} ("Earth"), or
+    the twin [Aśvins]{lang="sa"}.
+
+[^602]: Conventionally known as "lord of gods", but in fact the ruler
+    only of the relatively lowly realm of the thirty-three. He is Vedic
+    Indra, heroic slayer of the dragon [Vṛtra]{lang="sa"}, and is the
+    most personally known god in the Pali Canon.
+
+[^603]: Gods in this realm (spelled *[yāma]{lang="sa"}*, "of Yama") are
+    subjects of the god of the dead, Yama.
+
+[^604]: The previous deities achieved their station by mere morality and
+    generosity, not by *[jhāna]{lang="sa"}*. The gods of
+    [Brahmā]{lang="sa"}'s Host practiced the first *[jhāna]{lang="sa"}*,
+    but they do not know what lies beyond.
+
+[^605]: The same passage appears in [DN
+    1:2.5.2](https://suttacentral.net/dn1/en/sujato#2.5.2), where it
+    also had a satirical tone, poking fun at the pomposity of religious
+    titles.
+
+[^606]: Even [Brahmā]{lang="sa"}'s community are not confident.
+
+[^607]: This passage may be one of the sources for the later use of
+    *nimitta* to mean the appearance of light that signifies the
+    approach of *[jhāna]{lang="sa"}*.
+
+[^608]: He puffs his own chest, but like the ascetic teachers of [DN
+    2](https://suttacentral.net/dn2/en/sujato), he does not answer the
+    question.
+
+[^609]: He addresses [Brahmā]{lang="sa"} with *[āvuso]{lang="sa"}*. This
+    is often translated as "friend", but the root is *[āyu]{lang="sa"}*
+    ("age") and it is respectful not familiar.
+
+[^610]: Rather than trying to engage with [Brahmā]{lang="sa"}'s agenda,
+    he keeps restating his question. This is a skillful way of curbing
+    narcissism.
+
+[^611]: [Brahmā]{lang="sa"} is embarrassed to reveal his ignorance.
+    Perhaps a satire of [Bṛhadāraṇyaka]{lang="sa"} [Upaniṣad]{lang="sa"}
+    3.2.13, where [Yājñavalkya]{lang="sa"} takes
+    [Jāratkārava]{lang="sa"} [Ārtabhāga]{lang="sa"} by the hand and
+    leads him aside for a secret discussion.
+
+[^612]: At least he is honest about his lack of knowledge, even if not
+    publicly.
+
+[^613]: The following verses are difficult because they speak of a kind
+    of consciousness at the start and the cessation of consciousness at
+    the end. The simplest way to resolve this is to assume there are two
+    distinct questions.
+
+[^614]: This is a rephrasing of the original question, asking where the
+    four "form" *[jhānas]{lang="sa"}* end.
+
+[^615]: Here starts the second question, asking the deeper question of
+    how all these things end. A similar list of descriptors elsewhere
+    describes things that are not stolen ([Snp
+    3.9:45.1](https://suttacentral.net/snp3.9/en/sujato#45.1)) or the
+    kinds of sentient beings ([Snp
+    1.8:4.3](https://suttacentral.net/snp1.8/en/sujato#4.3)). These are
+    aspects of how "form" manifests in desirable or undesirable ways.
+
+[^616]: The first four terms in this verse are identical with the first
+    four terms in [Yājñavalkya]{lang="sa"}'s description of the
+    immutable Brahman as "neither coarse nor fine, neither short nor
+    long" at [Bṛhadāraṇyaka]{lang="sa"} [Upaniṣad]{lang="sa"} 3.8.8.
+
+[^617]: "Where nothing appears" (*[anidassanaṁ]{lang="sa"}*) here is a
+    synonym for "formless" (see eg. [MN
+    21:14.8](https://suttacentral.net/mn21/en/sujato#14.8), "space is
+    formless and invisible", *[ākāso]{lang="sa"} [arūpī]{lang="sa"}
+    anidassano*). Normally the colors and images seen in the "form"
+    absorptions are described as "visible" (eg. [DN
+    16:3.29.1](https://suttacentral.net/dn16/en/sujato#3.29.1)), so this
+    indicates the formless attainments.
+
+[^618]: "Infinite" (*ananta*) is the direct qualifier of
+    "consciousness", but in the Pali it is shifted to the next line to
+    fit the meter. It indicates the second of the formless attainments.
+    [Yājñavalkya]{lang="sa"} describes consciousness as infinite in the
+    famous passage at [Bṛhadāraṇyaka]{lang="sa"} [Upaniṣad]{lang="sa"}
+    2.4.12. \| *[Pabhaṁ]{lang="sa"}* means "luminous", as with the
+    deities that are "self-luminous" (*[sayaṁpabhā]{lang="sa"}*, [DN
+    27:10.3](https://suttacentral.net/dn27/en/sujato#10.3)). *Sabbato
+    [pabhaṁ]{lang="sa"}* ("luminous all-round") is synonymous with
+    *[pariyodāta]{lang="sa"}* ("bright", literally "white all over"), a
+    stock descriptor of the mind of fourth *[jhāna]{lang="sa"}*, on
+    which the formless states are based.
+
+[^619]: I read these verses as broken into two statements. The first
+    part, ending here, speaks of the formless attainments as "infinite
+    consciousness", agreeing with the highest of the Brahmanical
+    meditative sages. The following verses go further to speak of the
+    cessation of consciousness.
+
+[^620]: According to dependent origination, when consciousness ceases,
+    name and form cease, and with it the manifestation of all things
+    desirable and undesirable in the world.
+
+[^621]: This is the only appearance of a place called
+    [Sālavatikā]{lang="sa"} ("Abounding in Sal Trees"). A courtesan of
+    [Rājagaha]{lang="sa"} named [Sālavatī]{lang="sa"} appears in [Kd
+    8:1.3.1](https://suttacentral.net/pli-tv-kd8/en/sujato#1.3.1); she
+    might perhaps have come from there.
+
+[^622]: A certain brahmin Lohicca also appears in [SN
+    35.132](https://suttacentral.net/sn35.132/en/sujato). But since that
+    is set far away in [Avantī]{lang="sa"} after the Buddha's passing,
+    and since in both cases he is said to have taken refuge, it seems
+    likely these are different people.
+
+[^623]: A similar view is sometimes unjustly imputed to the
+    [Theravādins]{lang="sa"}, that they are only interested in their own
+    liberation.
+
+[^624]: While *[nhāpita]{lang="sa"}* would seem to be identical with
+    *[nhāpaka]{lang="sa"}* ("bathroom attendant"), it is usually
+    translated per [Ja 395](https://suttacentral.net/ja395/en/sujato)
+    where it means "barber".
+
+[^625]: Note the unusual use of *kira* in this idiom, found in [SN
+    35.133:2.3](https://suttacentral.net/sn35.133/en/sujato#2.3), [MN
+    85:3.5](https://suttacentral.net/mn85/en/sujato#3.5), [MN
+    127:2.5](https://suttacentral.net/mn127/en/sujato#2.5), and [Ud
+    2.8:6.8](https://suttacentral.net/ud2.8/en/sujato#6.8). I think this
+    expresses polite deference, and render with "might" rather than
+    "would".
+
+[^626]: It seems the barber was not only a trusted confidant, but an
+    intelligent man with sincere concern for Lohicca's well being.
+
+[^627]: The Buddha is modest as to his chances.
+
+[^628]: Here the Buddha takes the initiative. "Harmful misconception" is
+    *[pāpakaṁ]{lang="sa"} [diṭṭhigataṁ]{lang="sa"}*.
+
+[^629]: Kosala is the native realm of Pasenadi. [Kāsi]{lang="sa"} had
+    formerly been an independent kingdom, but was taken over by
+    Pasenadi's father [Mahākosala]{lang="sa"}. Towards the end of the
+    Buddha's life it was contested between Kosala and Magadha ([SN
+    3.14](https://suttacentral.net/sn3.14/en/sujato), [SN
+    3.15](https://suttacentral.net/sn3.15/en/sujato)). Ultimately it
+    became part of the greater Magadhan empire.
+
+[^630]: It is only through sharing what good things we know that we can
+    support each other.
+
+[^631]: Even though he has characterized Lohicca's view as harmful, the
+    Buddha goes out of his way to show that it is not entirely wrong.
+    There are cases where it is best to avoid teaching.
+
+[^632]: The genders of this passage are made clear through the use of
+    feminine nouns. Making unwelcome advances was seen as an obvious
+    example of something wrong.
+
+[^633]: At [DN 29:5.2](https://suttacentral.net/dn29/en/sujato#5.2) the
+    opposite sense is expressed as *[samādāya]{lang="sa"}
+    [taṁ]{lang="sa"} [dhammaṁ]{lang="sa"} vattati*.
+
+[^634]: The Buddha adopts Lohicca's formulation, but applies it in a
+    specific sense, not as a generalization.
+
+[^635]: Now that the Buddha has established a degree of overlap between
+    their views, Lohicca wants to hear more.
+
+[^636]: Again, the Buddha answers directly and simply.
+
+[^637]: *Naraka* means "cliff" or "abyss" in early Pali ([MN
+    49:5.9](https://suttacentral.net/mn49/en/sujato#5.9), [MN
+    86:6.15](https://suttacentral.net/mn86/en/sujato#6.15), [Snp
+    3.11:28.4](https://suttacentral.net/snp3.11/en/sujato#28.4), [Thag
+    16.8:4.2](https://suttacentral.net/thag16.8/en/sujato#4.2)). It does
+    not have the sense "hell" until the late canonical period; the early
+    Pali term for hell is *niraya*. Notably, *naraka* is not strongly
+    attested in the sense of "hell" for pre-Buddhist Sanskrit either,
+    although we do find *[nāraka]{lang="sa"}*, apparently in the sense
+    of "hell being", at Atharva Veda 12.4.36c and Śukla Yajur Veda 30.5.
+
+[^638]: [Manasākaṭa]{lang="sa"} is mentioned only here.
+
+[^639]: [Aciravatī]{lang="sa"} is called Rapti today. It was one of the
+    great rivers that flowed from the Himalayas through Kosala into the
+    Ganges.
+
+[^640]: Similar discussions are found in [MN
+    98](https://suttacentral.net/mn98/en/sujato) = [Snp
+    3.9](https://suttacentral.net/snp3.9/en/sujato) and [DN
+    27](https://suttacentral.net/dn27/en/sujato). \| The compound
+    *[maggāmagga]{lang="sa"}* can be read either as "what is the path
+    and what is not the path" (per commentary, *magge ca amagge ca*), or
+    as "the variety of paths" (compare *[phalāphala]{lang="sa"}*, "all
+    sorts of fruit"). Here, however, they are concerned to distinguish
+    one path as correct.
+
+[^641]: This must have been earlier than [Pokkharasāti]{lang="sa"}'s
+    conversion at [DN
+    3:2.22.1](https://suttacentral.net/dn3/en/sujato#2.22.1).
+    [Pokkharasāti]{lang="sa"} was a family man who denied the reality of
+    superhuman meditative attainments ([MN
+    99:10.4](https://suttacentral.net/mn99/en/sujato#10.4)) and
+    emphasized ethics and duties over lineage ([MN
+    98:3.7](https://suttacentral.net/mn98/en/sujato#3.7)), which agrees
+    with him being cited on ethical matters at Āpastamba Dharmasūtra
+    1.6.19.7 and 1.10.28. \| *[Brahmasahabyatā]{lang="sa"}* does not
+    mean "union with [Brahmā]{lang="sa"}" but rather "rebirth as one of
+    the members of Brahma's retinue" (see eg. [AN
+    5.34:9.4](https://suttacentral.net/an5.34/en/sujato#9.4)). The
+    non-dualist concept that the limited personal self merges with the
+    cosmic divinity is expressed in Pali, rather, with such phrases as
+    *so [attā]{lang="sa"} so loko* ("the self is identical with the
+    cosmos"). \| For *[añjasa]{lang="sa"}* ("direct route") see [SN
+    12.65:7.1](https://suttacentral.net/sn12.65/en/sujato#7.1) and note.
+
+[^642]: In Pali we never meet [Tārukkha]{lang="sa"} and he is only
+    mentioned in his absence. He evidently advocated that lineage rather
+    than conduct made one a brahmin ([MN
+    98:3.4](https://suttacentral.net/mn98/en/sujato#3.4)). There is a
+    [Tārukṣya]{lang="sa"} whose view was that union (with
+    [Brahmā]{lang="sa"}) arose with the conjunction of speech and
+    breath; this was discussed alongside the views of many other
+    brahmins (Aitareya [Āraṇyaka]{lang="sa"} 3.1.6.1;
+    [Śāṅkhāyana]{lang="sa"} [Āraṇyaka]{lang="sa"} 7.19). In Rig Veda
+    8.46.32 a certain [Balbūtha]{lang="sa"} [Tarukṣa]{lang="sa"} the
+    [Dāsa]{lang="sa"} makes an offering to a sage. [Sāyaṇa]{lang="sa"},
+    the Vedic commentator, says that [Balbūtha]{lang="sa"}
+    [Tarukṣa]{lang="sa"} was a guardian of cows, evidently alluding to
+    the Aitareya [Āraṇyaka]{lang="sa"}, which describes
+    [Tārukṣya]{lang="sa"} as a guardian of his teacher's cows, thus
+    locating [Tārukṣya]{lang="sa"} in the lineage of
+    [Tarukṣa]{lang="sa"}. [Hiraṇyakeśīgṛhyasūtra]{lang="sa"} 2.8.19 also
+    mentions him as a teacher, there spelled [Tarukṣa]{lang="sa"}.
+
+[^643]: Identified by Wijesekera (*A Pali Reference to
+    [Brāhmaṇa]{lang="sa"}-[Caraṇas]{lang="sa"}*, Adyar Library Bulletin,
+    vol 20, 1956; reprinted in *Buddhist and Vedic Studies*) and
+    Jayatilleke (*Early Buddhist Theory of Knowledge*, p. 480). I use
+    the familiar Sanskrit forms, as the Pali has several dubious
+    spellings and variants. Their texts and corresponding Vedas are
+    respectively: Adhvaryu = Śatapatha [Brāhmaṇa]{lang="sa"} (incl.
+    [Bṛhadāraṇyaka]{lang="sa"} [Upaniṣad]{lang="sa"}; White Yajur Veda);
+    [Taittirīya]{lang="sa"} = [Taittirīya]{lang="sa"}
+    [Brāhmaṇa]{lang="sa"} (Black Yajur Veda); [Chāndogya]{lang="sa"} =
+    [Chāndogya]{lang="sa"} [Brāhmaṇa]{lang="sa"} ([Sāman]{lang="sa"}
+    Veda); [Cāndrāyaṇa]{lang="sa"} (omitted from MS edition) =
+    [Kauṣītaki]{lang="sa"} [Brāhmaṇa]{lang="sa"} (Rig Veda; spelling
+    established by Wijesekera; see below at [DN
+    13:16.2](https://suttacentral.net/dn13/en/sujato#16.2));
+    [Bahvṛca]{lang="sa"} = [Bahvṛca]{lang="sa"} [Brāhmaṇa]{lang="sa"}
+    (Rig Veda; incorporated in Aitareya and [Kauśītaki]{lang="sa"}.)
+    This is the only time the Pali canon mentions these schools, but in
+    some cases we can identify them with brahmins in the canon. Examples
+    include the murmuring [Chāndogya]{lang="sa"} brahmin ([Ud
+    1.4](https://suttacentral.net/ud1.4/en/sujato)); or the Buddha's
+    former teachers, who evidently hailed from the Addhariya tradition
+    of the Śatapatha [Brāhmaṇa]{lang="sa"} ([MN
+    26:15.1](https://suttacentral.net/mn26/en/sujato#15.1)ff.). \|
+    Jayatilleke notes that the Śatapatha describes its own adherents as
+    Adhvaryu (*[addhariyā]{lang="sa"}*), those priests of the Yajur Veda
+    responsible for the physical acts at the ritual.
+
+[^644]: Earlier they were arguing over which one of the paths was
+    correct, whereas now they have shifted to a more universalist "many
+    roads up the same mountain" position. When speaking with each other
+    they saw each others' views as contradictory, but when speaking with
+    an outsider they adopted a more conciliatory position.
+
+[^645]: The ten names in Pali include the seven authors of the so-called
+    "family books" of the Rig Veda ([Maṇḍalas]{lang="sa"} 2--8). As
+    founders of poetic lineages, we often find works by their
+    descendants, which are not always confined to their dedicated family
+    book. Poems by the other three authors are mostly outside the family
+    books. Thus the sages listed here cover most of the Rig Veda,
+    although the Vedic tradition records many other authors as well. \|
+    [Aṭṭhaka]{lang="sa"} = Atri Bhauma ([Maṇḍala]{lang="sa"} 5, rather
+    than [Aṣṭaka]{lang="sa"} [Vaiśvāmitra]{lang="sa"} of 10.104);
+    [Vāmaka]{lang="sa"} = Vamra(ka) [Vaikhānasa]{lang="sa"} (10.99; see
+    9.66); [Vāmadeva]{lang="sa"} = [Vāmadeva]{lang="sa"} Gautama
+    ([Maṇḍala]{lang="sa"} 4); [Vessāmitta]{lang="sa"} =
+    [Viśvāmitra]{lang="sa"} [Gāthina]{lang="sa"} ([Maṇḍala]{lang="sa"}
+    3); Yamadaggi = Jamadagni [Bhārgava]{lang="sa"}, a descendant of
+    [Bhṛgu]{lang="sa"} (several hymns mostly in [Maṇḍalas]{lang="sa"} 9
+    and 10); [Aṅgīrasa]{lang="sa"} = [Aṅgirasa]{lang="sa"}, identified
+    with Agni as the founder of a lineage of poet-singers
+    ([Maṇḍala]{lang="sa"} 8); [Bhāradvāja]{lang="sa"} =
+    [Bharadvāja]{lang="sa"} [Bārhaspatya]{lang="sa"}
+    ([Maṇḍala]{lang="sa"} 6); [Vāseṭṭha]{lang="sa"} =
+    [Vasiṣṭha]{lang="sa"} [Maitrāvaruṇi]{lang="sa"}
+    ([Maṇḍala]{lang="sa"} 7); Kassapa = [Kaśyapa]{lang="sa"}
+    [Mārīca]{lang="sa"} (several hymns mostly in [Maṇḍalas]{lang="sa"} 9
+    and 10); Bhagu = [Bhṛgu]{lang="sa"}, the bringer of fire from heaven
+    whose adoptive descendant was [Gṛtsamada]{lang="sa"}
+    [Bhārgava]{lang="sa"} Śaunaka ([Maṇḍala]{lang="sa"} 2).
+
+[^646]: Unlike the Buddhist monk at [DN
+    11:80.1](https://suttacentral.net/dn11/en/sujato#80.1).
+
+[^647]: "No demonstrable basis" is *[appāṭihīrakataṁ]{lang="sa"}*.
+
+[^648]: The "blind following the blind" is also at [MN
+    95:13.24](https://suttacentral.net/mn95/en/sujato#13.24) and [MN
+    99:9.25](https://suttacentral.net/mn99/en/sujato#9.25).
+    [Maitrī]{lang="sa"} [Upaniṣad]{lang="sa"} 7.8--9 turns it around,
+    saying that the blind teach false doctrines aimed at destroying the
+    Vedas, "the doctrine of not-self" (*[nairātmyavāda]{lang="sa"}*), an
+    obvious reference to Buddhists. We also find it at
+    [Kaṭha]{lang="sa"} [Upaniṣad]{lang="sa"} 1.2.5,
+    [Mahābhārata]{lang="sa"} 2.38.3, and the Jain [Sūyagaḍa]{lang="sa"}
+    1.1.2.19.
+
+[^649]: [Kuṣītaka]{lang="sa"} worshiped the rising and setting sun and
+    moon, turning himself to follow their course ([Kauṣītaki]{lang="sa"}
+    [Upaniṣad]{lang="sa"} 2.7--9). He founded the [Kauṣītaki]{lang="sa"}
+    lineage, referred to above as "those who follow the course of the
+    moon" (*[cāndrāyaṇa]{lang="sa"}*).
+
+[^650]: Indra taught [Bhāradvāja]{lang="sa"} a new threefold knowledge
+    by which he might become immortal and realize companionship
+    (*[sāyujya]{lang="sa"}*) with the sun ([Taittirīya]{lang="sa"}
+    [Brāhmaṇa]{lang="sa"} 3.10.11.15).
+
+[^651]: The bulk of the Vedic texts consist of prayers and invocations
+    to various gods.
+
+[^652]: Soma is the ritual drug of exhilaration, identified with the
+    moon. \| Vedic [Varuṇa]{lang="sa"} was the god of command, the king
+    of tough rule. \| [Īsāna]{lang="sa"} (Sanskrit [Īśāna]{lang="sa"})
+    was created by [Pajāpati]{lang="sa"} as "ruler", said to be the sun
+    (Śatapatha [Brāhmaṇa]{lang="sa"} 6.1.3). He was later identified
+    with Rudra and Śiva. \| [Pajāpati]{lang="sa"} ("progenitor") was the
+    lonely god of creation; the heat of his fervent exertions (*tapas*)
+    created the world and all things in it (Śatapatha
+    [Brāhmaṇa]{lang="sa"} 6). \| [Brahmā]{lang="sa"}, like
+    [Pajāpati]{lang="sa"}, is also a creator god, but is the divine
+    power immanent within creation, rather than the forgotten instigator
+    of the past. \| The [Mahāsaṅgīti]{lang="sa"} reading Mahiddhi
+    ("great power") does not seem to correspond with any particular
+    Vedic deity. Accept the BJT reading Mahinda (Sanskrit Mahendra), the
+    "Great Indra", said to be a title of Indra bestowed after slaying
+    the dragon [Vṛtra]{lang="sa"} (Śatapatha [Brāhmaṇa]{lang="sa"}
+    2.5.4.9). \| Yama ("twin", with his incestuous sister
+    [Yamī]{lang="sa"}) was born immortal but chose mortality, becoming
+    the god of the dead.
+
+[^653]: I wonder if this is a satire on the idea of
+    *[upaniṣad]{lang="sa"}* ("sitting near"); even as they affirm their
+    commitment to their texts, they drift apart (*[visāra]{lang="sa"}*)
+    into separate schools and ideologies.
+
+[^654]: The close *-ti* has apparently confused some editors;
+    [Vāseṭṭha]{lang="sa"} is quoting what he has heard.
+
+[^655]: Here the four *[brahmavihāras]{lang="sa"}* ("meditations of
+    [Brahmā]{lang="sa"}") stand in place of the four
+    *[jhānas]{lang="sa"}*. *[Brahmavihāras]{lang="sa"}* are simply one
+    of the means by which *[jhānas]{lang="sa"}* may be attained, chosen
+    here to fit the stated goal of teaching the path to
+    [Brahmā]{lang="sa"}. The suttas treat them as pre-Buddhist, but they
+    have not been traced as a group in pre-Buddhist texts. However, they
+    are shared with later non-Buddhist texts such as
+    [Yogasūtra]{lang="sa"} 1.33 and the Jain
+    [Tattvārthasūtra]{lang="sa"} 7.11. \| "Love" (*[mettā]{lang="sa"}*)
+    is a universal positive regard and well-wishing free of personal
+    desires or attachments. It ultimately derives from the Vedic in the
+    sense of "union"; Mitra was the god of alliances (Rig Veda 3.59).
+
+[^656]: The mind in *[jhāna]{lang="sa"}* is so powerful that it
+    effectively overrides any limited kamma, including ordinary good or
+    bad deeds. Unless they have committed serious crimes with a fixed
+    kammic result such as matricide, etc., the meditator will be reborn
+    in a [Brahmā]{lang="sa"} realm.
+
+[^657]: "Compassion" (*[karuṇā]{lang="sa"}*) is the quality of empathy
+    with the suffering of another or oneself and the wish to remove it.
+
+[^658]: "Rejoicing" (*[muditā]{lang="sa"}*) is joyful celebration in the
+    success of others or oneself, free of jealousy or cynicism.
+
+[^659]: Equanimity (*[upekkhā]{lang="sa"}*) is literally "close
+    watching", not interfering but standing ready when needed. It is not
+    indifference, which is why it emerges only at the end, after the
+    positive emotions are developed.
+
+[^660]: A brahmin student who for their whole life practices
+    harmlessness for all beings---except at holy places---attains the
+    world of [Brahmā]{lang="sa"} ([Chāndogya]{lang="sa"}
+    [Upaniṣad]{lang="sa"} 8.15.1). The exception for holy places is, of
+    course, to allow for the sacrifice.
+
+[^661]: Here the entire concluding section of the Gradual Training
+    dealing with wisdom is omitted, as the aim is limited to teaching
+    rebirth with [Brahmā]{lang="sa"} to Brahmanical laypeople, rather
+    than teaching liberation. [Vāseṭṭha]{lang="sa"} and
+    [Bhāradvāja]{lang="sa"} later applied to ordain, in which time the
+    Buddha taught the full path to Nibbana ([DN
+    27:7.8](https://suttacentral.net/dn27/en/sujato#7.8)).
+
+[^662]: They also went for refuge in similar circumstances at [MN
+    98:14.4](https://suttacentral.net/mn98/en/sujato#14.4) = [Snp
+    3.9:69.3](https://suttacentral.net/snp3.9/en/sujato#69.3). According
+    to the commentary, that was the first time they went for refuge,
+    while this was the second time. This makes sense in terms of the
+    progress of the teachings, for there they discuss what makes a
+    brahmin, whereas here they ask the more subtle question how to
+    achieve rebirth with [Brahmā]{lang="sa"}. The discussion, too, is on
+    a more detailed level, with a more explicit criticism of the
+    brahmins. Nonetheless, it is difficult to square the details of the
+    narratives, for the opening of this sutta depicts
+    [Vāseṭṭha]{lang="sa"} and [Bhāradvāja]{lang="sa"} speaking about the
+    Buddha by reputation rather than as devotees who have previously met
+    him and gone for refuge.

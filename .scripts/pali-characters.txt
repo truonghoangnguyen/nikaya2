@@ -42,10 +42,19 @@ IVXLCDM
 
 \[([\p{L}]+)\]\{lang="sa"\}
 
+  \{#[1234567890.\p{L}-]+ \.unnumbered\}$
+
+
 tim \[([\p{L}]+)\]\{lang="sa"\}
 --- tìm tiêu đề file
 ^(### .*)
 
+--tieu de
+# DN (\d+) (.*)  \*(.*)\*
+# $1. $2
+_**$3**_
+
+---
 --- pg titile
 ^(\*\*.*\*\*)$
 <!--pg-->
@@ -63,6 +72,13 @@ _$1_\
 
 (\d+)\.  (.*)
 $1\. $2\
+
+
+### _($1)_
+
+−
+\[\^(\d+)\]
+[$1](/kinhtruongbo/sujato-vi/notes/03#$1){.note}
 
 The following words should be used instead of Hán-Vietnamese words
 Hán-Vietnamese | Vietnamese

@@ -16,46 +16,47 @@ rất quý”.
 giờ, đại đức Nàgita là thị giả đức Thế Tôn. Những vị sứ giả Bà-la-môn ở Kosala và ở Magadha ấy đi đến
 chỗ đại đức Nàgita ở và thưa:
 
-\- Tôn giả Nàgita, hiện nay Tôn giả Gotama ở tại đâu, chúng tôi muốn yết kiến Tôn giả Gotama.
+− Tôn giả Nàgita, hiện nay Tôn giả Gotama ở tại đâu, chúng tôi muốn yết kiến Tôn giả Gotama.
 
-\- Các Hiền giả, nay không phải thời yết kiến đức Thế Tôn. Ðức Thế Tôn đang chỉ tịnh. Những sứ giả
+− Các Hiền giả, nay không phải thời yết kiến đức Thế Tôn. Ðức Thế Tôn đang chỉ tịnh. Những sứ giả
 Bà-la-môn ở Kosala và Magadha liền ngồi xuống tại một bên và nói: “Sau khi được yết kiến Tôn giả
 Gotama, chúng tôi mới đi”.
 
+<!--pg-->
 3\. Otthadda (Môi thỏ) người Licchavi cùng với một số đông dân chúng Licchavi cũng đi đến Trùng Các
 giảng đường, rừng Ðại Lâm gặp đại đức Nàgita, đảnh lễ vị này rồi đứng một bên. Otthadda người
 Licchavi thưa với đại đức Nàgita:
 
-\- Hiện nay đức Thế Tôn, A-la-hán, Chánh Ðẳng Giác ở tại đâu, chúng con muốn yết kiến đức Thế Tôn,
+− Hiện nay đức Thế Tôn, A-la-hán, Chánh Ðẳng Giác ở tại đâu, chúng con muốn yết kiến đức Thế Tôn,
 A-la-hán, Chánh Ðẳng Giác.
 
-\- Màhàli, nay không phải thời yết kiến đức Thế Tôn, Ðức Thế Tôn đang chỉ tịnh.
+− Màhàli, nay không phải thời yết kiến đức Thế Tôn, Ðức Thế Tôn đang chỉ tịnh.
 
 Otthadda người Licchavi liền ngồi xuống một bên tại chỗ ấy và nói:
 
-\- Sau khi được yết kiến đức Thế Tôn, A-la-hán, Chánh Ðẳng Giác con mới đi.
+− Sau khi được yết kiến đức Thế Tôn, A-la-hán, Chánh Ðẳng Giác con mới đi.
 
 4\. Khi ấy Sa-di Sìha đến đại đức Nàgita, đảnh lễ đại đức và đứng một bên. Sau khi đứng một bên, Sa-di
 Sìha nói với đại đức Nàgita:
 
-\- Bạch Ðại đức Kassapa (Ca-diếp) một số đông sứ giả Bà-La-môn ở Kosala và Magadha đã đến đây để
+− Bạch Ðại đức Kassapa (Ca-diếp) một số đông sứ giả Bà-La-môn ở Kosala và Magadha đã đến đây để
 yết kiến đức Thế Tôn; Otthada người Licchavi cũng đến đây với số đông dân chúng Licchavi để yết kiến
 đức Thế Tôn. Ðại đức Kassapa, lành thay, nếu những vị này được yết kiến đức Thế Tôn.
 
-\- Vậy Sìha hãy thưa với đức Thế Tôn.
+− Vậy Sìha hãy thưa với đức Thế Tôn.
 
-\- Thưa vâng, bạch Ðại đức!
+− Thưa vâng, bạch Ðại đức!
 
 Sa-di Sìha vâng theo lời dạy của đại đức Nàgita, đến tại chỗ đức Thế Tôn, đảnh lễ Ngài rồi đứng một
 bên. Sa-di Sìha sau khi đứng một bên liền bạch đức Thế Tôn:
 
-\- Bạch đức Thế Tôn, một số đông sứ giả Bà-la-môn ở Kosala và Magadha đến đây để yết kiến đức Thế
+− Bạch đức Thế Tôn, một số đông sứ giả Bà-la-môn ở Kosala và Magadha đến đây để yết kiến đức Thế
 Tôn. Otthadda, người Licchavi cùng một số đông dân chúng Licchavi đã đến đây để yết kiến đức Thế
 Tôn. Lành thay nếu những vị này được yết kiến đức Thế Tôn!
 
-\- Nay Sìha, hãy dọn chỗ ngồi trong bóng mát, trước mặt ngôi tịnh xá.
+− Nay Sìha, hãy dọn chỗ ngồi trong bóng mát, trước mặt ngôi tịnh xá.
 
-\- Thưa vâng, bạch Thế Tôn!
+− Thưa vâng, bạch Thế Tôn!
 
 Sa-di Sìha vâng theo lời dạy đức Thế Tôn, sắp đặt một chỗ ngồi trong bóng mát trước mặt ngôi tịnh xá,
 và đức Thế Tôn đi ra khỏi tịnh xá và ngồi trên chỗ ngồi đã soạn sẵn trong bóng mát, trước mặt ngôi tịnh
@@ -66,19 +67,20 @@ thân hữu và xã giao với Thế Tôn rồi ngồi xuống một bên. Ottha
 dân Licchavi cũng đến tại chỗ đức Phật, đảnh lễ Ngài và ngồi xuống một bên. Sau khi ngồi xuống một
 bên, Otthadda người Licchavi thưa với Thế Tôn:
 
-\- Bạch Ðại đức, hai ba ngày về trước, Sunakkhatta, dòng họ Licchavi đến chỗ con ở và nói với con:
+− Bạch Ðại đức, hai ba ngày về trước, Sunakkhatta, dòng họ Licchavi đến chỗ con ở và nói với con:
 “Này Mahàli, từ khi tôi sống gần đức Phật, không lâu quá ba năm, tôi được thấy những thiên sắc mỹ
 diệu, thích thú, phấn khởi nhưng không được nghe các thiên âm mỹ diệu, thích thú, phấn khởi”. Bạch
 Thế Tôn, những thiên âm mà Sunakkhatta dòng họ Licchavi không nghe, những thiên âm mỹ diệu, thích
 thú, phấn khởi, không hiểu những thiên âm ấy có thật hay không có thật?
 
-\- Này Mahàli những thiên âm mà Sunakkhatta dòng họ Licchavi không nghe, những thiên âm mỹ diệu,
+<!--pg-->
+− Này Mahàli những thiên âm mà Sunakkhatta dòng họ Licchavi không nghe, những thiên âm mỹ diệu,
 thích thú, phấn khởi, những thiên âm ấy có thật, không phải không có.
 
 6\. - Bạch Thế Tôn, do nhân gì, do duyên gì, những thiên âm mà Sunakkhatta, dòng họ Licchavi không
 nghe, những thiên âm mỹ diệu, thích thú, phấn khởi, những thiên âm ấy có thật, không phải là không có.
 
-\- Này Mahàli, có Tỷ-kheo tu định nhất hướng, hướng về phía Ðông với mục đích thấy các thiên sắc mỹ
+− Này Mahàli, có Tỷ-kheo tu định nhất hướng, hướng về phía Ðông với mục đích thấy các thiên sắc mỹ
 diệu, thích thú, phấn khởi, nhưng không với mục đích nghe các thiên âm mỹ diệu, thích thú, phấn khởi.
 Vì vị này tu định nhứt hướng, hướng về phía Ðông với mục đích thấy các thiên sắc mỹ diệu, thích thú,
 phấn khởi, nhưng không với mục đích nghe các thiên âm mỹ diệu, thích thú, phấn khởi, nên vị này thấy
@@ -134,14 +136,15 @@ phấn khởi. Này Mahàli, do nhân này, do duyên này, những thiên âm �
 12\. - Bạch Thế Tôn, như vậy có phải muốn chứng được các pháp định thiền định ấy mà các Tỷ-kheo
 sống đời phạm hạnh, dưới sự chỉ dạy của Thế Tôn?
 
-\- Này Mahàli, không phải muốn chứng được các pháp thiền định ấy mà các Tỷ-kheo sống đời phạm
+− Này Mahàli, không phải muốn chứng được các pháp thiền định ấy mà các Tỷ-kheo sống đời phạm
 hạnh, dưới sự chỉ dạy của Ta. Này Mahàli, có những pháp khác cao thượng hơn, thù thắng hơn. Vì muốn
 chứng được những pháp ấy, các vị Tỷ-kheo sống đời phạm hạnh, dưới sự chỉ dạy của Ta.
 
 13\. - Bạch Thế Tôn, những pháp ấy, cao thượng hơn, thù thắng hơn là gì mà các vị Tỷ-kheo vì muốn
 chứng được những pháp ấy sống đời phạm hạnh, dưới sự chỉ dạy của Thế Tôn?
 
-\- Này Mahàli, ở đây Tỷ-kheo đoạn dứt ba kiết sử, thành bậc Dự lưu, không đọa ác thú, chắc chắn đạt
+<!--pg-->
+− Này Mahàli, ở đây Tỷ-kheo đoạn dứt ba kiết sử, thành bậc Dự lưu, không đọa ác thú, chắc chắn đạt
 quả Bồ-đề. Này Mahàli, pháp này cao thượng và thù thắng hơn, vì muốn chứng được pháp này, các Tỷkheo sống phạm hạnh dưới sự chỉ dạy của Ta.
 Lại nữa, này Mahàli, Tỷ-kheo đoạn dứt ba kiết sử làm nhẹ bớt tham, sân, si, thành bậc Nhứt lai, còn phải
 sanh lại trong đời này một lần nữa trước khi diệt hẳn khổ đau. Này Mahàli, pháp này cao thượng hơn và
@@ -154,25 +157,27 @@ muốn chứng được pháp này, các Tỷ-kheo sống phạm hạnh dưới 
 Này Mahàli, những pháp cao thượng và thù thắng này, vì muốn chứng được pháp ấy, các Tỷ-kheo sống
 phạm hạnh dưới sự chỉ dạy của Ta.
 
+<!--pg-->
 14\. - Bạch Thế Tôn, có con đường nào, có đạo lộ nào đưa đến sự chứng ngộ những pháp ấy?
 
-\- Này Mahàli, có con đường, có đạo lộ đưa đến sự chứng ngộ những pháp ấy.
+− Này Mahàli, có con đường, có đạo lộ đưa đến sự chứng ngộ những pháp ấy.
 
-\- Bạch Thế Tôn, có con đường nào, có đạo lộ nào đưa đến sự chứng ngộ những pháp ấy?
+− Bạch Thế Tôn, có con đường nào, có đạo lộ nào đưa đến sự chứng ngộ những pháp ấy?
 
-\- Ðó là con đường Thánh có tám ngành: Chánh tri kiến, chánh tư duy, chánh ngữ, chánh nghiệp, chánh
+− Ðó là con đường Thánh có tám ngành: Chánh tri kiến, chánh tư duy, chánh ngữ, chánh nghiệp, chánh
 mạng, chánh tinh tấn, chánh niệm, chánh định. Này Mahàli, con đường này, đạo lộ này đưa đến sự
 chứng ngộ những pháp ấy.
 
+<!--pg-->
 15\. Này Mahàli, một thời Ta ở Kosambi vườn Ghositàràma. Lúc bấy giờ có hai người xuất gia.
 Mandissa một vị du sĩ và Jàliya đệ tử của Dàrupattika, đến tại chỗ Ta ở, nói lên những lời chúc tụng thân
 hữu và xã giao với Ta rồi đứng một bên. Sau khi đứng một bên, hai vị xuất gia nói với Ta như sau:
 
-\- Này Hiền giả, mạng căn và thân thể là một hay là khác?
+− Này Hiền giả, mạng căn và thân thể là một hay là khác?
 
-\- Này Hiền giả, hãy nghe và khéo tác ý, Ta sẽ nói.
+− Này Hiền giả, hãy nghe và khéo tác ý, Ta sẽ nói.
 
-\- Vâng, Hiền giả!
+− Vâng, Hiền giả!
 
 Hai vị xuất gia trả lời Ta như thế và Ta nói như sau:
 

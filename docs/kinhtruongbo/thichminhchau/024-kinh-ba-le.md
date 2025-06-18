@@ -12,17 +12,17 @@ này.” Thế Tôn liền đi đến tịnh xá du sĩ Bhaggava.
 
 2\. Rồi du sĩ Bhaggava bạch Thế Tôn:
 
-\- Thế Tôn hãy đến gần! Xin chào đón Thế Tôn. Ðã lâu, Thế Tôn mới có dịp đến đây. Mời Thế Tôn ngồi,
+− Thế Tôn hãy đến gần! Xin chào đón Thế Tôn. Ðã lâu, Thế Tôn mới có dịp đến đây. Mời Thế Tôn ngồi,
 đây là chỗ ngồi đã soạn sẵn.
 
 Thế Tôn ngồi trên chỗ đã soạn sẵn, và du sĩ Bhaggava lấy một ghế ngồi khác thấp hơn rồi ngồi xuống
 một bên. Sau khi ngồi xuống một bên, du sĩ Bhaggava bạch Thế Tôn:
 
-\- Bạch Thế Tôn, ngày xưa và nhiều ngày xưa nữa, Sunakkhatta (Thiện Tịnh) thuộc bộ lạc Licchavi (Lyxa tử) đến con và nói như sau: “Này Bhaggava, nay tôi từ bỏ Thế Tôn! Nay tôi không sống dưới sự chỉ
+− Bạch Thế Tôn, ngày xưa và nhiều ngày xưa nữa, Sunakkhatta (Thiện Tịnh) thuộc bộ lạc Licchavi (Lyxa tử) đến con và nói như sau: “Này Bhaggava, nay tôi từ bỏ Thế Tôn! Nay tôi không sống dưới sự chỉ
 dẫn của Thế Tôn nữa.” Bạch Thế Tôn, sự việc có phải như Sunakkhatta, thuộc bộ lạc Licchavi nói hay
 không?
 
-\- Này Bhaggava, sự việc thật như Sunakkhatta thuộc bộ lạc Licchavi đã nói.
+− Này Bhaggava, sự việc thật như Sunakkhatta thuộc bộ lạc Licchavi đã nói.
 
 3\. Này Bhaggava, thuở xưa và rất xa xưa, Sunakkhatta thuộc bộ lạc Licchavi đến thăm Ta. Sau khi đến,
 đảnh lễ Ta và ngồi xuống một bên. Này Bhaggava, Sumakkhatta, thuộc bộ lạc Licchavi bạch với Ta:
@@ -125,6 +125,7 @@ sẽ có lời luận bàn về Ngươi như vậy.
 Này Bhaggava, như vậy Sunakkhatta, thuộc bộ lạc Licchavi dầu được Ta nói vậy, từ bỏ Pháp và Luật
 này, như người phải rớt vào đọa xứ, địa ngục.
 
+<!--pg-->
 7\. Này Bhaggava, một thời Ta ở bộ lạc Bumu, tại thị trấn của bộ lạc Bumu tên là Uttaraka. Này
 Bhaggava, rồi buổi sáng Ta đắp y, cầm y bát cùng với Sa di Sunakkhatta thuộc bộ lạc Licchavi theo sau,
 vào thị trấn Uttaraka khất thực. Lúc bấy giờ, lõa thể Korakkhattiya, tu theo hạnh chó đi bốn chân, bò lết
@@ -157,7 +158,7 @@ thác sanh của tôi. Tôi sẽ thác sanh thuộc loại Kàlakanjà, một tr
 
 8\. Này Bhaggava, Sunakkhatta thuộc bộ lạc Licchavi, đi đến lõa thể Korakkhattiya và nói:
 
-\- Này bạn Korakkhattiya, Sa môn Gotama có nói như sau: “Lõa thể Korakkhattiya sau bảy ngày sẽ bị
+− Này bạn Korakkhattiya, Sa môn Gotama có nói như sau: “Lõa thể Korakkhattiya sau bảy ngày sẽ bị
 trúng thực mà chết, sau khi chết sẽ tái sanh thuộc loại Kàlakanjà, một trong loại Asura (A-tu-la) thấp
 kém nhất. Sau khi chết, ông ta sẽ bị quăng trong nghĩa địa, đặt trên đống cỏ Birana”. Này Bạn
 Korakkhattiya, vậy Bạn hãy ăn cho có tiết độ, vậy Bạn hãy uống cho có tiết độ, để lời nói của Sa môn
@@ -200,6 +201,7 @@ hãy thấy sự lỗi lầm của Ngươi như vậy là thế nào!”
 Này Bhaggava, như vậy Sunakkhatta, thuộc bộ lạc Licchavi được Ta nói như vậy, từ bỏ Pháp và Luật
 này, như người phải rơi vào đọa xứ, địa ngục.
 
+<!--pg-->
 11\. Này Bhaggava, một thời, Ta trú tại Vesàli (Tỳ xá ly), rừng Ðại Lâm, ở Trùng Các giảng đường. Lúc
 bấy giờ, lõa thể Kandaramasuka ở tại Vesàli được sự cúng dường tối thượng, được xưng danh tối thượng
 tại làng Vajji. Vị này có phát nguyện tuân theo bảy giới hạnh: “Trọn đời, ta theo hạnh lõa thể, không
@@ -261,6 +263,7 @@ hãy thấy rõ sự lỗi lầm của Ngươi như vậy là như thế nào”
 Này Bhaggava, như vậy Sunakkhtta, thuộc bộ lạc Licchavi được Ta nói như vậy, từ bỏ luật này, như
 người phải rơi vào đọa xứ địa ngục.
 
+<!--pg-->
 15\. Này Bhaggava, một thời Ta trú ở Vesàli, rừng Ðại Lâm, tại Trùng Các giảng đường. Lúc bấy giờ,
 lõa thể Patikaputta sống ở Vesàli, được cúng dường tối thượng, được danh xưng tối thượng ở làng Vajji.
 Trong các buổi họp ở Vesàli, ông ta thường tuyên bố như sau:
@@ -327,6 +330,7 @@ không từ bỏ lời nói ấy, không từ bỏ tâm ấy, không từ bỏ t
 “Này Sunakkhatta, sau khi Ta đi khất thực ở Vesàli, ăn xong và khất thực trở về, Ta sẽ đến tại vườn
 Pàtikaputta để nghỉ trưa. Này Sunakkhatta, nếu Ngươi muốn, hãy tin cho ông ấy biết.”
 
+<!--pg-->
 19\. Này Bhaggava, rồi Ta đắp y vào buổi sáng, cầm y bát vào thành Vesàli để khất thực. Sau khi đi khất
 thực, ăn xong và đi khất thực trở về, Ta đi đến vườn của Pàtikaputta để nghỉ trưa. Này Bhaggava,
 Sunakkhatta, thuộc bộ lạc Licchavi vội vàng vào thành Sesàli, đến những Licchava có danh tiếng và báo
@@ -413,6 +417,7 @@ Này Bhaggava, khi nghe vậy Ta nói Hội chúng:
 ấy, không từ bỏ tâm ấy, không từ bỏ tà kiền ấy. Nếu ông ấy nghĩ rằng ông ấy sẽ đến gặp mặt Ta mà
 không từ bỏ lời nói ấy, không từ bỏ tâm ấy, không từ bỏ tà kiến ấy, thời đầu của ông ấy sẽ bị bể tan.”
 
+<!--pg-->
 **Tụng Phẩm II**
 
 1\. Này Bhaggava, một vị đại thần Licchavi, từ chỗ ngồi đứng dậy, nói với Hội chúng ấy:
@@ -490,6 +495,8 @@ nhưng Hiền giả trườn bò qua lại tại chỗ, không có thể từ ch
 
 Này Bhaggava, được nói vậy, lõa thể Pàtikaputta, tuy nói: “Này Bạn, tôi sẽ đến; này Bạn, tôi sẽ đến”, lại
 trườn bò qua lại tại chỗ, không có thể từ chỗ ngồi đứng dậy.”
+
+<!--pg-->
 6\. Này Bhaggava, khi Jàliya, đệ tử của Dàrupatti biết được lõa thể Pàtikaputta nay đã bị thảm bại, tuy
 nói: “Này Bạn, tôi sẽ đến; này Bạn, tôi sẽ đến”, lại trườn bò qua lại tại chỗ, không có thể từ chỗ ngồi
 đứng dậy, liền nói với ông ấy:
@@ -524,11 +531,11 @@ Giác?”
 8\. Này Bhaggava, Jàliya, đệ tử của Dàrupati dầu có dùng ví dụ ấy cũng không thể khiến lõa thể
 Pàtikaputta rời khỏi chỗ ngồi, liền nói với ông ấy:
 
-_Chó rừng nhìn tự thân,_
-_Tự nghĩ là sư tử._
-_Nó sủa tiếng chó rừng,_
-_Loại chó rừng đê tiện._
-_Chó rừng sủa là ai?_
+_Chó rừng nhìn tự thân,_\
+_Tự nghĩ là sư tử._\
+_Nó sủa tiếng chó rừng,_\
+_Loại chó rừng đê tiện._\
+_Chó rừng sủa là ai?_\
 _Ai rống tiếng sư tử?_
 
 “Cũng vậy, này Hiền giả Pàtikaputta, Hiền giả sống dựa trên uy tín của bậc Thiện Thệ, ăn uống đồ tàn
@@ -539,13 +546,13 @@ Giác?”
 10\. Này Bhaggava, Jàliya, đệ tử của Dàrupatti, dầu có dùng vó dụ ấy cũng không có thể khiến lõa thể
 Pàtikaputta rời khỏi chỗ ngồi, liền nói với ông ấy:
 
-_Ăn cóc, chuột kho thóc,_
-_Ăn xác quăng nghĩa địa,_
-_Sống Ðại lân, Không lâm,_
-_Tự nghĩ là vua thú._
-_Nó sủa tiếng chó rừng,_
-_Loại chó rừng đê tiện._
-_Chó rừng sủa là ai?_
+_Ăn cóc, chuột kho thóc,_\
+_Ăn xác quăng nghĩa địa,_\
+_Sống Ðại lân, Không lâm,_\
+_Tự nghĩ là vua thú._\
+_Nó sủa tiếng chó rừng,_\
+_Loại chó rừng đê tiện._\
+_Chó rừng sủa là ai?_\
 _Ai rống tiếng sư tử?_
 
 “Cũng vậy này Hiền giả Pàtikaputta, Hiền giả sống dựa trên uy tín của bậc Thiện Thệ, ăn uống đồ tàn
@@ -589,13 +596,14 @@ không có gì khác.
 
 “- Bạch Thế Tôn, sự kiện là như vậy, thì pháp thượng nhân thần thông đã được thực hiện, không phải
 không thực hiện.
-\- “Này kẻ ngu kia, như vậy là pháp thượng nhân thần thông đã được Ta thực hiện, thế mà Ngươi lại nói:
+− “Này kẻ ngu kia, như vậy là pháp thượng nhân thần thông đã được Ta thực hiện, thế mà Ngươi lại nói:
 “Bạch Thế Tôn, Thế Tôn không thực hiện pháp thượng nhân thần thông.” Này kẻ ngu kia, hãy thấy sự
 lỗi lầm của Ngươi như vậy là như thế nào!”
 
 Này Bhaggava, như vậy Sunakkhatta thuộc bộ lạc Licchavi dầu được Ta nói vậy, từ bỏ Pháp và Luật
 này, như người phải rơi vào đọa xứ, địa ngục.
 
+<!--pg-->
 14\. Này Bhaggava, Ta biết về khởi nguyên thế giới, Ta còn biết hơn thế nữa. Và khi Ta biết như vậy, Ta
 không có chấp trước. Vì không có chấp trước, Ta tự thân thấu hiểu được sự an tịnh ấy; chính nhờ chứng
 ngộ sự an tịnh này mà Như Lai không rơi vào lầm lỗi. Này Bhaggava, có những vị Sa môn, Bà la môn
@@ -707,7 +715,7 @@ trí?”
 
 Ðược Ta hỏi vậy, quý vị ấy trả lời:
 
-\- “Vâng”.
+− “Vâng”.
 
 Ta nói với quý vị ấy:
 
@@ -777,15 +785,15 @@ vật là bất tịnh”. Nhưng này Bhaggava, Ta không có nói như vậy: 
 thoát, khi ấy vị ấy biết mọi vật là bất tịnh.” Này Bhaggava, Ta nói như sau: “Khi một ai đạt đến thanh
 tịnh, giải thoát, khi ấy vị ấy biết mọi vật là thanh tịnh”
 
-\- Bạch Thế Tôn, chính họ là điên đảo khi họ chỉ trích Thế Tôn và các Tỷ kheo là điên đảo. Con tin tưởng
+− Bạch Thế Tôn, chính họ là điên đảo khi họ chỉ trích Thế Tôn và các Tỷ kheo là điên đảo. Con tin tưởng
 hoan hỷ đối với Thế Tôn khiến con tin rằng Thế Tôn có thể dạy cho con đến thanh tịnh giải thoát.
 
-\- Này Bhaggava, thật khó cho Ngươi khi Ngươi theo các kiến giải sai khác, kham nhẫn các sự việc sai
+− Này Bhaggava, thật khó cho Ngươi khi Ngươi theo các kiến giải sai khác, kham nhẫn các sự việc sai
 khác, theo dõi những mục tiêu sai khác, đeo đuổi những mục đích sai khác, được huấn luyện theo các
 phương pháp sai khác để có thể đạt được thanh tịnh, giải thoát. Này Bhaggava, hãy đặt nặng lòng tin ở
 nơi Ta, hãy khéo gìn giữ lòng tin tưởng ấy.
 
-\- Bạch Thế Tôn, nếu thật khó cho con, khi con theo các kiến giải sai khác, kham nhẫn các sự việc sai
+− Bạch Thế Tôn, nếu thật khó cho con, khi con theo các kiến giải sai khác, kham nhẫn các sự việc sai
 khác, theo dõi những mục tiêu sai khác, đeo đuổi những mục đích sai khác, được huấn luyện theo các
 phương pháp sai khác, để có thể đạt được thanh tịnh giải thoát, thời Bạch Thế Tôn, ít nhất con cũng đặt
 nặng lòng tin vào Thế Tôn, và con sẽ khéo gìn giữ lòng tin tưởng ấy.

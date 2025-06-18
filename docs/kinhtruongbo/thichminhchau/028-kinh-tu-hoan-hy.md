@@ -6,11 +6,11 @@
 1\. Một thời, Thế Tôn ở tại Nàlandà, trong rừng Pàvàrikambavana. Lúc bấy giờ, tôn giả Sàriputta (Xálợi-phất) đến tại chỗ Thế Tôn ở, đảnh lễ Thế Tôn và ngồi xuốn một bên. Khì ngồi xuống một bên, tôn
 giả Sàriputta bạch Thế Tôn!
 
-\- Bạch Thế Tôn, con tin tưởng Thế Tôn đến nỗi con nghĩ rằng ở quá khứ, ở tương lai cũng như ở hiện
+− Bạch Thế Tôn, con tin tưởng Thế Tôn đến nỗi con nghĩ rằng ở quá khứ, ở tương lai cũng như ở hiện
 tại, không thể có một vị Sa môn, một vị Bà-la-môn khác nào có thể vĩ đại hơn Thế Tôn, sáng suốt hơn
 Thế Tôn, về phương diện giác ngộ.
 
-\- Này Sàriputta, lời nói của Ngươi thật là đại ngôn, thật là gan dạ. Ngươi thật là rống tiếng rống con sư
+− Này Sàriputta, lời nói của Ngươi thật là đại ngôn, thật là gan dạ. Ngươi thật là rống tiếng rống con sư
 tử khi Ngươi nói: “Bạch Thế Tôn, con tin tưởng Thế Tôn đến nỗi con nghĩ rằng, ở quá khứ, ở tương lai
 cũng như ở hiện tại, không thể có một vị Sa môn, một vị Bà-la-môn nào có thể vĩ đại hơn Thế Tôn, sáng
 suốt hơn Thế Tôn, về phương diện giác ngộ.” Này Sàriputta, có phải Ngươi đã được biết, trong quá khứ,
@@ -18,23 +18,23 @@ các vị A-la-hán, Chánh Ðẳng Giác, với tâm của Ngươi biết đư�
 đức chư vị Thế Tôn là như vậy, Pháp chư vị Thế Tôn là như vậy, Trí tuệ chư vị Thế Tôn là như vậy, An
 trú chư vị Thế Tôn là như vậy, Giải thoát chư vị Thế Tôn là như vậy?
 
-\- Bạch Thế Tôn, không!
+− Bạch Thế Tôn, không!
 
-\- Này Sàriputta, có phải Ngươi đã được biết, trong tương lai, các vị A-la-hán, Chánh Ðẳng Giác, với tâm
+− Này Sàriputta, có phải Ngươi đã được biết, trong tương lai, các vị A-la-hán, Chánh Ðẳng Giác, với tâm
 của Ngươi biết được tâm của tất cả các vị Thế Tôn - Giới đức chư vị Thế Tôn là như vậy, Pháp chư vị
 Thế Tôn là như vậy, Trí tuệ chư vị Thế Tôn là như vậy, An trú chư vị Thế Tôn là như vậy, Giải thoát
 chư vị Thế Tôn là như vậy?
 
-\- Bạch Thế Tôn, không!
+− Bạch Thế Tôn, không!
 
-\- Này Sàriputta, có phải Ngươi đã được biết, trong hiện tại Ta là vị A-la-hán, Chánh Ðẳng Giác, với tâm
+− Này Sàriputta, có phải Ngươi đã được biết, trong hiện tại Ta là vị A-la-hán, Chánh Ðẳng Giác, với tâm
 của Ngươi biết được tâm của Thế Tôn - Giới đức chư vị Thế Tôn là như vậy, Pháp chư vị Thế Tôn là
 như vậy, Trí tuệ chư vị Thế Tôn là như vậy, An trú chư vị Thế Tôn là như vậy, Giải thoát Thế Tôn là
 như vậy?
 
-\- Bạch Thế Tôn, không!
+− Bạch Thế Tôn, không!
 
-\- Này Sàriputta, hãy xem! Ngươi không có trí tuệ biết được tâm tư của chư vị A-la-hán, Chánh Ðẳng
+− Này Sàriputta, hãy xem! Ngươi không có trí tuệ biết được tâm tư của chư vị A-la-hán, Chánh Ðẳng
 Giác ở quá khứ, ở hiện tại và ở tương lai! Vậy sao, này Sàriputta, lời nói của Ngươi tuyên bố thật là đại
 ngôn, thật là gan dạ. Ngươi thật đã rống tiếng rống con sư tử khi Ngươi nói: “Bạch Thế Tôn, con tin
 tưởng Thế Tôn đến nỗi con nghĩ rằng, ở quá khứ, ở tương lai cũng như ở hiện tại, không thể có một vị
@@ -64,12 +64,13 @@ trước, hắc pháp và bạch pháp đều được đề cập, đối chi�
 một pháp được con thâm hiểu trọn vẹn, đó là lòng tin của con vào vị Bổn Sư - Thế Tôn là bậc Chánh
 Ðẳng Giác, pháp được Thế Tôn khéo thuyết giảng và chúng Tăng đã khéo hành trì.
 
+<!--pg-->
 3\. Bạch Thế Tôn, lại nữa, điểm này thật là vô thượng: Thế Tôn thuyết pháp về các thiện pháp. Ở đây
 những thiện pháp là Bốn Niệm xứ, Bốn Chánh cần, Bốn Như ý túc, Năm Căn, Năm Lực, Bảy Giác chi,
 Thánh đạo tám ngành. Bạch Thế Tôn, ở đây vị Tỷ kheo tận diệt các lậu hoặc, có thể tự mình chứng tri
 và chứng ngộ, đạt đến và an trú ngay trong hiện tại, Tâm giải thoát và Tuệ giải thoát vô lậu này. Bạch
 Thế Tôn, thật là vô thượng đối với các thiện pháp. Tất cả điểm này, Thế Tôn đã biết và ngoài sự hiểu
-biết của Ngài, không có gì còn lại để hiểu biết hơn nữa. Không có một ai, một Sa môn hay một Bà-lamôn nào khác có thể chứng biết hơn Thế Tôn về vấn đề các thiện pháp.
+biết của Ngài, không có gì còn lại để hiểu biết hơn nữa. Không có một ai, một Sa môn hay một Bà-la-môn  nào khác có thể chứng biết hơn Thế Tôn về vấn đề các thiện pháp.
 
 4\. Bạch Thế Tôn, lại nữa, điểm này thật là vô thượng: Thế Tôn thuyết pháp về sự trình bày các Nhập xứ.
 Bạch Thế Tôn, sáu nội xứ và ngoại xứ, tức là mắt và sắc, tai và tiếng, mũi và hương, lưỡi và vị, thân và
@@ -77,6 +78,7 @@ xúc, ý và pháp. Bạch Thế Tôn, thật là vô thượng về sự trình
 đã biết và ngoài sự hiểu biết của Ngài, không có gì còn lại để hiểu biết hơn nữa. Không có một ai, một
 Sa môn hay một Bà-la-môn nào khác có thể chứng biết hơn Thế Tôn về vấn đề trình bày các Nhập xứ.
 
+<!--pg-->
 5\. Bạch Thế Tôn, lại nữa, điểm này thật là vô thượng: Thế Tôn thuyết pháp về vấn đề nhập thai. Bạch
 Thế Tôn, có bốn loại nhập thai. Bạch Thế Tôn, ở đây, có loại không biết mình nhập bụng người mẹ,
 không biết mình trú trong bụng người mẹ và không biết mình ra khỏi bụng người mẹ. Ðó là loại nhập
@@ -92,6 +94,7 @@ Lại nữa Bạch Thế Tôn, có loại biết mình nhập bụng người m�
 biết mình ra khỏi bụng người mẹ. Ðó là loại nhập thai thứ tư. Ðây là bốn loại nhập thai. Bạch Thế Tôn,
 thật là vô thượng về vấn đề nhập thai.
 
+<!--pg-->
 6\. Bạch Thế Tôn, lại nữa, điểm này thật là vô thượng: Thế Tôn thuyết pháp về vấn đề sai khác trong sự
 ký tâm. Bạch Thế Tôn có bốn loại ký tâm sai khác như thế này. Bạch Thế Tôn, có hạng tự tỏ lộ bằng
 hình tướng: “Ý của Ngươi là như thế này, ý của Ngươi là như vậy, tâm của Ngươi là như thế này. Nếu
@@ -115,6 +118,7 @@ tâm mgười khác với tâm của mình: “Tùy ước nguyện hợp ý hà
 đến tâm này. Nếu có tỏ lộ nhiều đi nữa, thời sự tỏ lộ là như vậy, không phải gì khác”. Như vậy là loại ký
 tâm thứ tư. Bạch Thế Tôn, thật là vô thượng về vấn đề ký tâm sai khác.
 
+<!--pg-->
 7\. Lại nữa, bạch Thế Tôn, điểm này thật là vô thượng: lúc Thế Tôn thuyết pháp về vấn đề kiến định
 (dassanasamàpatti). Bạch Thế Tôn, có bốn loại kiến định như thế này: Ở đây bạch Thế Tôn, có vị Sa
 môn hay Bà-la-môn, nhờ nhiệt tâm, nhờ tinh tấn, nhờ cần mẫn, nhờ không phóng dật, nhờ chánh ức
@@ -167,6 +171,7 @@ Bạch Thế Tôn, ở đây, thế này là hành trì lạc, chứng ngộ mau
 phương diện đều được xem là cao thượng, vừa lạc vừa mau. Bạch Thế Tôn, như vậy là tối thượng về
 vấn đề đạo hành (tiến bộ trên đường tu hành).
 
+<!--pg-->
 11\. Lại nữa, bạch Thế Tôn, điểm này thật là vô thượng: Thế Tôn thuyết pháp về vấn đề chánh hạnh
 trong ngôn ngữ. Bạch Thế Tôn, ở đây, một người không những không nói những lời liên hệ đến nói láo,
 mà cũng phải, trong khi tìm cách thắng cuộc, không dùng lời vu khống, lời ác khẩu và lời ly gián; trái
@@ -180,6 +185,7 @@ cảnh giác, không chán nản, tinh cần, trầm tư, chánh niệm, ngôn t
 biết điều, không tham dục, tỉnh giác, cẩn trọng. Bạch Thế Tôn, như vậy là tối thượng về vấn đề giới
 hạnh của con người.
 
+<!--pg-->
 13\. Lại nữa, bạch Thế Tôn, điểm này thật là vô thượng: Thế Tôn thuyết pháp về sự sai biệt trong sự
 giảng dạy. Bạch Thế Tôn, có bốn loại giảng dạy. Bạch Thế Tôn, Thế Tôn nhờ tự chánh tư duy, biết
 người khác: Người này theo sự giảng dạy, hành trì như thế này, sẽ diệt trừ ba kiết sử, sẽ chứng Dự lưu,
@@ -197,6 +203,7 @@ Bạch Thế Tôn, Thế Tôn nhờ tự chánh tư duy biết người khác: N
 thế này, sẽ diệt trừ các lậu hoặc, tự mình giác tri, chứng đạt và an trú ngay trong hiện tại, vô lậu Tâm
 giải thoát và Tuệ giải thoát. Bạch Thế Tôn, như vậy là tối thượng về vấn đề sai biệt trong sự giảng dạy.
 
+<!--pg-->
 14\. Lại nữa, bạch Thế Tôn, điểm này thật là vô thượng: Thế Tôn thuyết pháp về giải thoát trí của người
 khác. Bạch Thế Tôn, Thế Tôn nhờ tự chánh tư duy biết người khác: Người này diệt trừ ba kiết sử, sẽ
 chứng quả Dự lưu, không còn bị đọa lạc, nhất định sẽ được giác ngộ.
@@ -211,8 +218,9 @@ Bạch Thế Tôn, Thế Tôn nhờ tự chánh tư duy biết người khác: N
 chứng, đạt đạo và an trú ngay trong đời hiện tại vô lậu Tâm giải thoát, Tuệ giải thoát. Bạch Thế Tôn,
 như vậy là tối thượng về vấn đề giải thoát trí của người khác.
 
+<!--pg-->
 15\. Lại nữa, bạch Thế Tôn, điểm này thật là vô thượng: Thế Tôn thuyết pháp về vấn đề Thường trú luận.
-Bạch Thế Tôn, có ba loại Thường trú luận như thế này. Bạch Thế Tôn ở đây có vị Sa môn hay Bà-lamôn, nhờ nhiệt tâm, nhờ tinh tấn, nhờ cần mẫn, nhờ không phóng dật, nhờ chánh ức niệm nên tâm nhập
+Bạch Thế Tôn, có ba loại Thường trú luận như thế này. Bạch Thế Tôn ở đây có vị Sa môn hay Bà-la-môn , nhờ nhiệt tâm, nhờ tinh tấn, nhờ cần mẫn, nhờ không phóng dật, nhờ chánh ức niệm nên tâm nhập
 định; khi tâm nhập định, vị ấy nhớ được nhiều đời sống quá khứ, như một đời, hai đời, ba đời, bốn đời,
 năm đời, mười đời, trăm đời, ngàn đời, trăm ngàn đời, vô số trăm đời, vô số ngàn đời, vô số trăm ngàn
 đời, nhớ rằng: “Khi được sanh tại chỗ ấy, tôi sống với tên như thế này, giòng họ như thế này, giai cấp
@@ -251,6 +259,7 @@ hoại kiếp hay trong thành kiếp. Bản ngã và thế giới là thường
 trụ đá, còn những loại hữu tình kia thì lưu chuyển luân hồi, chết đi sống lại, tuy vậy chúng vẫn thường
 trú.” Ðó là Thường trú luận thứ ba. Bạch Thế Tôn, như vậy là tối thượng về vấn đề Thường trú luận.
 
+<!--pg-->
 16\. Lại nữa, bạch Thế Tôn, điểm này thật là vô thượng: Thế Tôn thuyết pháp về vấn đề Túc mạng trí.
 Bạch Thế Tôn, ở đây có vị Sa môn hay Bà-la-môn, nhờ nhất tâm, nhờ tinh tấn, nhờ cần mẫn, nhờ không
 phóng dật, nhờ chánh ức niệm nên tâm nhập định. Khi tâm nhập định, vị ấy nhớ được nhiều đời sống
@@ -268,6 +277,7 @@ nào được có trong quá khứ, hoặc có sắc hay không sắc, hoặc c�
 phi phi tưởng, chúng nhớ đến đời quá khứ với các đặc điểm và chi tiết như vậy. Bạch Thế Tôn, như vậy
 là tối thượng về vấn đề Túc mạng trí.
 
+<!--pg-->
 17\. Lại nữa, bạch Thế Tôn điểm này thật là vô thượng: Thế Tôn thuyết pháp về vấn đề Sanh tử trí của
 các loài hữu tình. Ở đây, bạch Thế Tôn, có vị Sa môn hay Bà-la-môn, nhờ nhất tâm, nhờ tinh tấn, nhờ
 cần mẫn, nhờ không phóng dật, nhờ chánh ức niệm nên tâm nhập định. Khi tâm nhập định, vị ấy với
@@ -283,6 +293,7 @@ biết rõ rằng chúng sanh người hạ liệt, kẻ cao sang, người đ�
 hạnh đều do hạnh nghiệp của họ. Bạch Thế Tôn, như vậy là tối thượng về vấn đề Sanh tử trí của các loại
 hữu tình.
 
+<!--pg-->
 18\. Lại nữa, bạch Thế Tôn, điểm này thật là vô thượng: Thế Tôn thuyết pháp về vấn đề Thần túc thông.
 Bạch Thế Tôn, có hai loại thần thông như thế này. Bạch Thế Tôn, có loại thần thông hữu lậu, hữu dư y,
 được gọi là “không phải Thánh”. Bạch Thế Tôn, có loại thần thông vô lậu, vô dư y, được gọi là “bậc
@@ -319,16 +330,17 @@ không đam mê tu hành khổ hạnh, khổ hạnh này là khổ, không xứn
 Tôn có thể đạt được nếu Ngài muốn, một cách dễ dàng, một cách đầy đủ, sự hạnh phúc ngay trong hiện
 tại, do bốn Thiền định đem lại.
 
-Bạch Thế Tôn, nếu có ai hỏi con: “Này Hiền giả Sàriputta, trong thời quá khứ, có vị Sa môn hay Bà-lamôn nào còn lớn hơn, còn sáng suốt hơn Thế Tôn về vấn đề giác ngộ?” Bạch Thế Tôn, được hỏi vậy,
+<!--pg-->
+Bạch Thế Tôn, nếu có ai hỏi con: “Này Hiền giả Sàriputta, trong thời quá khứ, có vị Sa môn hay Bà-la-môn  nào còn lớn hơn, còn sáng suốt hơn Thế Tôn về vấn đề giác ngộ?” Bạch Thế Tôn, được hỏi vậy,
 con trả lời không. Bạch Thế Tôn, nếu có ai hỏi con: “Này Hiền giả Sàriputta, trong thời vị lai, có vị Sa
 môn hay Bà-la-môn nào còn lớn hơn, sáng suốt hơn Thế Tôn về vấn đề giác ngộ?” Bạch Thế Tôn, được
 hỏi như vậy con trả lời không.
 
-Bạch Thế Tôn, nếu có ai hỏi con: “Này Hiền giả Sàriputta, trong thời quá khứ, có vị Sa môn hay Bà-lamôn nào có thể bằng Thế Tôn về vấn đề giác ngộ?” Bạch Thế Tôn, được hỏi vậy con trả lời có. “Này
+Bạch Thế Tôn, nếu có ai hỏi con: “Này Hiền giả Sàriputta, trong thời quá khứ, có vị Sa môn hay Bà-la-môn  nào có thể bằng Thế Tôn về vấn đề giác ngộ?” Bạch Thế Tôn, được hỏi vậy con trả lời có. “Này
 Hiền giả Sàriputta, trong thời vị lai, có vị Sa môn hay Bà-la-môn nào có thể bằng Thế Tôn về vấn đề
 giác ngộ?” Bạch Thế Tôn, được hỏi vậy con trả lời có.
 
-Bạch Thế Tôn, nếu có ai hỏi con: “Này Hiền giả Sàriputta, trong thời hiện tại, có vị Sa môn hay Bà-lamôn nào có thể bằng Thế Tôn về vấn đề giác ngộ?” Bạch Thế Tôn, được hỏi vậy con trả lời không.
+Bạch Thế Tôn, nếu có ai hỏi con: “Này Hiền giả Sàriputta, trong thời hiện tại, có vị Sa môn hay Bà-la-môn  nào có thể bằng Thế Tôn về vấn đề giác ngộ?” Bạch Thế Tôn, được hỏi vậy con trả lời không.
 
 Bạch Thế Tôn, nếu có ai hỏi con: “Vì sao, Tôn giả Sàriputta một mặt thì xác nhận là có, một mặt xác
 nhận là không có?” Bạch Thế Tôn, được hỏi vậy con sẽ trả lời: “Này Hiền giả, trước mặt Thế Tôn, tôi có
@@ -341,20 +353,22 @@ sau. Sự kiện như vậy không thể xảy ra”. Bạch Thế Tôn, có ph�
 nói lên đúng ý với Thế Tôn, không có sai lạc, không có hiểu lầm Thế Tôn? Có phải con đã trả lời thuận
 pháp, đúng pháp? Có phải không một đối phương hợp pháp nào có thể tìm ra lý do để chỉ trích phê
 bình?
-\- Này Sàriputta, được hỏi và trả lời như vậy, Ngươi đã nói lên đúng ý với Ta, không có sai lạc, không có
+
+− Này Sàriputta, được hỏi và trả lời như vậy, Ngươi đã nói lên đúng ý với Ta, không có sai lạc, không có
 hiểu lầm Ta. Ngươi đã trả lời thuận pháp và đúng pháp. Không một đối phương hợp pháp nào có thể tìm
 ra lý do để chỉ trích, phê bình.
 
+<!--pg-->
 20\. Ðược nghe nói vậy, Tôn giả Udàyi bạch Thế Tôn:
 
-\- Thật là hy hữu, bạch Thế Tôn! Thật là kỳ diệu, bạch Thế Tôn! Như Lai thiểu dục như vậy, tri túc như
+− Thật là hy hữu, bạch Thế Tôn! Thật là kỳ diệu, bạch Thế Tôn! Như Lai thiểu dục như vậy, tri túc như
 vậy, nghiêm túc như vậy; trong khi Như Lai có đại thần lực như vậy, có đại uy lực như vậy, mà không
 tự mình tỏ lộ. Bạch Thế Tôn, nếu có một du sĩ ngoại đạo nào, tự thấy mình chứng được dầu chỉ có một
 pháp, họ đã dương cờ (gióng trống) lên rồi. Thật là hy hữu, bạch Thế Tôn! Thật là kỳ diệu, bạch Thế
 Tôn! Như Lai thiểu dục như vậy, tri túc như vậy, nghiêm túc như vậy; trong khi Như Lai có đại thần lực
 như vậy, có đại uy lực như vậy, mà không tự mình tỏ lộ.
 
-\- Hãy ghi nhận, này Udàyi! Như Lai thiểu dục như vậy, tri túc như vậy, nghiêm túc như vậy; trong khi
+− Hãy ghi nhận, này Udàyi! Như Lai thiểu dục như vậy, tri túc như vậy, nghiêm túc như vậy; trong khi
 Như Lai có đại thần lực như vậy, có đại uy lực như vậy, mà không tự mình tỏ lộ. Này Udàyi, nếu có một
 du sĩ ngoại đạo nào, tự thấy mình dầu chỉ có một pháp như vậy, họ đã dương cờ (gióng trống) lên rồi.
 Này Udàyi hãy ghi nhận! Như Lai thiểu dục như vậy, tri túc như vậy, nghiêm túc như vậy; trong khi
@@ -362,7 +376,7 @@ Như Lai có đại thần lực như vậy, có đại uy lực như vậy, mà
 
 21\. Rồi Thế Tôn bảo tôn giả Sàriputta:
 
-\- Vậy Sàriputta, Ngươi phải luôn luôn thuyết pháp phân biệt này cho các Tỷ kheo, Tỷ kheo ni, các Nam
+− Vậy Sàriputta, Ngươi phải luôn luôn thuyết pháp phân biệt này cho các Tỷ kheo, Tỷ kheo ni, các Nam
 cư sĩ và các Nữ cư sĩ. Này Sàriputta, nếu có những kẻ ngu nào còn nghi ngờ hay ngần ngại đối với Như
 Lai, nếu họ được nghe pháp phân biệt này, nghi ngờ hay ngần ngại của họ đối với Như Lai sẽ được diệt
 trừ.

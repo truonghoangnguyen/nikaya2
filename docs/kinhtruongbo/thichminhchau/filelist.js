@@ -1,5 +1,4 @@
-const dn_thichminhchau = [
-  { text: "Mục lục", link: "/kinhtruongbo/thichminhchau/mucluc.md" },
+const kinhtruongbo_thichminhchau = [
   { text: "1. KINH PHẠM VÕNG", link: "/kinhtruongbo/thichminhchau/001-kinh-pham-vong.md" },
   { text: "2. KINH SA MÔN QỦA", link: "/kinhtruongbo/thichminhchau/002-kinh-sa-mon-qua.md" },
   { text: "3. KINH AMBATTHA (A-MA-TRÚ)", link: "/kinhtruongbo/thichminhchau/003-kinh-ambattha-a-ma-tru.md" },
@@ -35,4 +34,4 @@ const dn_thichminhchau = [
   { text: "33. KINH PHÚNG TỤNG", link: "/kinhtruongbo/thichminhchau/033-kinh-phung-tung.md" },
   { text: "34. KINH THẬP THƯỢNG", link: "/kinhtruongbo/thichminhchau/034-kinh-thap-thuong.md" },
 ];
-export default dn_thichminhchau;
+export default kinhtruongbo_thichminhchau;

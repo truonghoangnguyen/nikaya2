@@ -1,9 +1,9 @@
 # 33. KINH PHÚNG TỤNG
-**_(Sangìti Sutta)_**
+## _(Sangìti Sutta)_
 
 ## Như vầy tôi nghe.
 
-**Tụng Phẩm I**
+## Tụng Phẩm I
 
 1\. Một thời Thế Tôn du hành giữa dân tộc Mallà cùng với Ðại chúng Tỷ-kheo khoảng năm trăm vị. Ngài
 đến tại thành của dân chúng Mallà tên là Pàvà và trú tại đấy. Thế Tôn trú tại Pàvà trong rừng xoài của
@@ -16,7 +16,7 @@ vị. Ngài đến tại Pàvà, trú tại đấy, trong rừng xoài của th�
 Thế Tôn ở, sau khi đến, đảnh lễ Ngài rồi ngồi xuống một bên. Sau khi ngồi xuống một bên, các vị Mallà
 ở Pàvà bạch Thế Tôn:
 
-\- Bạch Thế Tôn, ở đây một hội trường tên là Ubbhataka mới được dựng lên giữa dân chúng Mallà ở
+− Bạch Thế Tôn, ở đây một hội trường tên là Ubbhataka mới được dựng lên giữa dân chúng Mallà ở
 Pàvà, và hội trường này chưa có vị Sa-môn, Bà-la-môn, hay một người nào khác an trú. Bạch Thế Tôn,
 mong Thế Tôn là người đến dùng hội trường này trước tiên. Nhờ Thế Tôn dùng trước tiên, dân chúng
 Mallà ở Pàvà sẽ được hạnh phúc an lạc lâu dài.
@@ -28,7 +28,7 @@ thân phía hữu hướng đến Ngài, từ tạ đi đến hội trường. S
 soạn các ghế ngồi, đặt sẵn một ghè nước, treo cây đèn dầu, rồi đến chỗ Thế Tôn ở. Sau khi đến, các vị
 này đảnh lễ Ngài và đứng một bên. Sau khi đứng một bên, các vị Mallà ở Pàvà bạch Thế Tôn:
 
-\- Bạch Thế Tôn, hội trường đã được trải nệm tất cả, các ghế ngồi đã được sửa soạn, ghè nước đã được
+− Bạch Thế Tôn, hội trường đã được trải nệm tất cả, các ghế ngồi đã được sửa soạn, ghè nước đã được
 đặt sẵn, cây đèn dầu đã được treo lên, Thế Tôn hãy làm gì Ngài nghĩ là phải thời.
 
 4\. Rồi Thế Tôn đắp y, cầm y bát cùng với chúng Tỷ-kheo đến tại hội trường. Khi đến xong Ngài rửa
@@ -38,19 +38,19 @@ Thế Tôn. Các vị Mallà ở Pàvà cũng rửa chân, đi vào hội trư�
 Ðông, mặt hướng phía Tây, trước mặt có Thế Tôn. Rồi Thế Tôn, cho đến đêm thật khuya, thuyết pháp
 cho dân Mallà ở Pàvà, giảng dạy, giải thích, khích lệ, làm cho hứng khởi rồi bảo các vị ấy về:
 
-\- Này Vàsetthà, đêm đã quá khuya. Các Ngươi hãy làm những gì các Ngươi xem là phải thời.
+− Này Vàsetthà, đêm đã quá khuya. Các Ngươi hãy làm những gì các Ngươi xem là phải thời.
 
-\- Thưa vâng, bạch Thế Tôn!
+− Thưa vâng, bạch Thế Tôn!
 
 Các vị Mallà ở Pàvà vâng lời Thế Tôn, từ chỗ ngồi đứng dậy, đảnh lễ Ngài, thân phía hữu hướng về
 Ngài và ra đi.
 
 5\. Thế Tôn, khi dân Mallà đi chưa bao lâu, nhìn chúng Tỷ-kheo đang yên lặng, rồi bảo tôn giả Sàriputta:
 
-\- Này Sàriputta, chúng Tỷ-kheo không có hôn trầm thụy miên. Này Sàriputta, hãy thuyết pháp cho
+− Này Sàriputta, chúng Tỷ-kheo không có hôn trầm thụy miên. Này Sàriputta, hãy thuyết pháp cho
 chúng Tỷ-kheo. Ta cảm thấy đau lưng! Ta muốn nằm nghỉ.
 
-\- Thưa vâng, bạch Thế Tôn! - Tôn giả Sàriputta vâng lời Thế Tôn.
+− Thưa vâng, bạch Thế Tôn! - Tôn giả Sàriputta vâng lời Thế Tôn.
 
 Rồi Thế Tôn, xếp y Sanghàti (Tăng-già-lê) gấp bốn và nằm xuống như cách nằm con sư tử, thân phía
 hữu, hai chân để trên nhau, chánh niệm tỉnh giác, với tâm nghĩ đến lúc ngồi dậy.
@@ -69,7 +69,7 @@ Chánh Ðẳng Giác tuyên thuyết, tháp y chỉ đã bị đổ vỡ, không
 
 7\. Rồi tôn giả Sàriputta bảo các Tỷ-kheo:
 
-\- Này Hiền giả, Niganthà Nàthaputta vừa mới từ trần không bao lâu. Sau khi vị này từ trần, các Nigantha
+− Này Hiền giả, Niganthà Nàthaputta vừa mới từ trần không bao lâu. Sau khi vị này từ trần, các Nigantha
 (Ni-kiền-tử) chia làm hai phe... và không có chỗ y chỉ.
 
 Nhưng với chúng ta, này các Hiền giả, pháp này được Thế Tôn khéo giảng dạy, khéo trình bày, một
@@ -88,14 +88,17 @@ Này các Hiền giả, có một pháp được Thế Tôn chơn chánh giảng
 hạnh này được trường tồn, được duy trì lâu ngày, vì hạnh phúc cho chúng sanh, vì an lạc cho chúng
 sanh, vì lòng thương tưởng cho đời, vì lợi ích, vì hạnh phúc, vì an lạc cho chư Thiên và loài Người.
 
-**Một pháp**
+<!--pg-->
+## Một pháp
 
 8\. Thế nào là một pháp? Tất cả loài hữu tình do các món ăn (àhàra) mà an trú, tất cả loài hữu tình do các
 hành (samkhàrà) mà an trú. Này các Hiền giả, đó là một pháp được Thế Tôn, vị đã biết, đã thấy, bậc Ala-hán, Chánh Ðẳng Giác, thuyết giảng một cách chơn chánh. Ở đây, mọi người cần phải cùng nhau tụng
 đọc, không có tranh luận, để phạm hạnh này được trường tồn, được duy trì lâu ngày, vì hạnh phúc cho
 chúng sanh, vì an lạc cho chúng sanh, vì lòng thương tưởng cho đời, vì lợi ích, vì hạnh phúc, vì an lạc
 cho chư Thiên và loài Người.
-**Hai pháp**
+
+<!--pg-->
+## Hai pháp
 
 9\. Này các Hiền giả, có hai pháp được Thế Tôn chơn chánh giảng dạy, vị đã biết, đã thấy, bậc A-la-hán,
 Chánh Ðẳng Giác. Ở đây, mọi người cần phải cùng nhau tụng đọc, không có tranh luận, để phạm hạnh
@@ -174,7 +177,8 @@ Chánh Ðẳng Giác. Ở đây, mọi người cần phải cùng nhau tụng �
 này được trường tồn, được duy trì lâu ngày, vì hạnh phúc cho chúng sanh, vì an lạc cho chúng sanh, vì
 lòng thương tưởng cho đời, vì lợi ích, vì hạnh phúc, vì an lạc cho chư Thiên và loài Người.
 
-**Ba pháp**
+<!--pg-->
+## Ba pháp
 
 10\. Này các Hiền giả, có ba pháp được Thế Tôn chơn chánh giảng dạy, vị đã biết, đã thấy, bậc A-la-hán,
 Chánh Ðẳng Giác. Ở đây, mọi người cần phải cùng nhau tụng đọc, không có tranh luận, để phạm hạnh
@@ -192,6 +196,7 @@ iii) Ba ác hạnh: Thân ác hạnh, khẩu ác hạnh, ý ác hạnh.
 iv) Ba thiện hạnh: Thân thiện hạnh, khẩu thiện hạnh, ý thiện hạnh.
 
 v) Ba bất thiện tầm: Dục tầm, sân tầm, hại tầm.
+
 vi) Ba thiện tầm: Ly dục tầm, vô sân tầm, vô hại tầm.
 
 vii) Ba bất thiện tư duy: Dục tư duy, sân tư duy, hại tư duy.
@@ -241,6 +246,7 @@ xxviii) Ba tụ: Tà định tụ, chánh định tụ, bất định tụ.
 xxix) Ba nghi: Ðối với vấn đề thuộc quá khứ nghi ngờ, do dự, không quyết định, không hài
 lòng; đối với các vấn đề thuộc tương lai, nghi ngờ, do dự, không quyết định, không hài
 lòng; đối với các vấn đề hiện tại nghi ngờ, do dự, không quyết định, không hài lòng.
+
 xxx) Ba điều Như Lai không cần gìn giữ: Này các Hiền giả, Như Lai thanh tịnh thiện hành
 về thân. Như Lai không có ác về thân mà Như Lai phải gìn giữ: “Chớ để người khác biết
 việc này về Ta”. Này các Hiền giả, Như Lai thanh tịnh thiện hành về miệng. Như Lai không
@@ -252,8 +258,7 @@ xxxi) Ba chướng: Tham chướng, sân chướng, si chướng.
 
 xxxii) Ba loại lửa: Lửa tham, lửa sân, lửa si.
 
-xxxiii) _Ba loại lửa khác: Lửa của người hiếu kính, lửa của người gia chủ, lửa của người_
-cúng dường (cha mẹ, vợ con và các vị xuất gia).
+xxxiii) Ba loại lửa khác: Lửa của người hiếu kính, lửa của người gia chủ, lửa của người cúng dường (cha mẹ, vợ con và các vị xuất gia).
 
 xxxiv) Ba loại sắc tụ: Hữu kiến hữu đối sắc, vô kiến hữu đối sắc, vô kiến vô đối sắc.
 
@@ -263,7 +268,7 @@ xxxvi) Ba loại người: Hữu học nhân, vô học nhân, phi hữu học p
 
 xxxvii) Ba vị trưởng lão: Sanh trưởng lão, pháp trưởng lão, nhập định trưởng lão.
 
-xxxviii) _Ba phước nghiệp sự: Thí hành phước nghiệp sự, giới hành phước nghiệp sự, tu_
+xxxviii) Ba phước nghiệp sự: Thí hành phước nghiệp sự, giới hành phước nghiệp sự, tu
 hành phước nghiệp sự.
 
 xxxix) Ba cử tội sự: Thấy, nghe và nghi.
@@ -290,6 +295,7 @@ Subhakinnà (Biến Tịnh thiên). Ðó là loại lạc sanh thứ ba.
 xlii) Ba tuệ: Hữu học tuệ, vô học tuệ, phi hữu học phi vô học tuệ.
 
 xliii) Loại ba tuệ khác: Tư sanh tuệ, văn sanh tuệ, tu sanh tuệ.
+
 xliv) Ba loại binh khí: Nghe, xả ly và tuệ.
 
 xlv) Ba căn: Vị tri đương tri căn, dĩ tri căn, cụ tri căn.
@@ -331,7 +337,8 @@ Chánh Ðẳng Giác. Ở đây, mọi người cần phải cùng nhau tụng �
 này được trường tồn, được duy trì lâu ngày, vì hạnh phúc cho chúng sanh, vì an lạc cho chúng sanh, vì
 lòng thương tưởng cho đời, vì lợi ích, vì hạnh phúc, vì an lạc cho chư Thiên và loài Người.
 
-**Bốn pháp**
+<!--pg-->
+## Bốn pháp
 
 11\. Này các Hiền giả, có bốn pháp được Thế Tôn chơn chánh giảng dạy, vị đã biết, đã thấy, bậc A-lahán, Chánh Ðẳng Giác. Ở đây, mọi người cần phải cùng nhau tụng đọc, không có tranh luận, để phạm
 hạnh này được trường tồn, được duy trì lâu ngày, vì hạnh phúc cho chúng sanh, vì an lạc cho chúng
@@ -353,6 +360,7 @@ chưa sanh nay cho sanh khởi, khởi lên ý muốn, cố gắng, tinh tấn, 
 cường, được quảng đại, được tu tập, được viên mãn, khởi lên ý muốn, cố gắng, tinh tấn,
 sách tâm, trì tâm.
 
+<!--pg-->
 iii) Bốn thần túc: Này các Hiền giả, ở đây, vị Tỷ-kheo tu tập thần túc, câu hữu với tinh tấn
 thực hiện Dục thiền định. Tu tập thần túc câu hữu với tinh tấn thực hiện Tâm thiền định. Tu
 tập thần túc câu hữu với tinh tấn thực hiện Tinh tấn thiền định. Tu tập thần túc câu hữu với
@@ -366,6 +374,7 @@ niệm tỉnh giác, thân cảm sự lạc thọ mà các bậc Thánh gọi l�
 thiền thứ ba. Xả lạc, xả khổ, diệt hỷ ưu đã cảm thọ trước, chứng và trú thiền thứ tư, không
 khổ, không lạc, xả niệm thanh tịnh.
 
+<!--pg-->
 v) Bốn tu tập thiền định: Này các Hiền giả, có sự tu tập thiền định, nhờ tu tập, nhờ hành trì
 nhiều lần đưa đến lạc trú ngay trong hiện tại. Này các Hiền giả, có sự tu tập thiền định, nhờ
 tu tập, nhờ hành trì nhiều lần, đưa đến chứng đắc tri kiến. Này các Hiền giả, có sự tu tập
@@ -398,6 +407,7 @@ Năm Thủ uẩn - Ðây là sắc, đây là sắc tập, đây là sắc diệ
 là hành... Ðây là thức, đây là thức tập, đây là thức diệt. này các Tỷ-kheo, như vậy là sự tu
 tập thiền định, nhờ tu tập, nhờ hành trì nhiều lần, đưa đến sự diệt tận các lậu hoặc.
 
+<!--pg-->
 vi) Bốn vô lượng tâm: Này các Hiền giả, ở đây vị Tỷ-kheo an trú, biến mãn một phương với
 tâm câu hữu với từ, cũng vậy phương thứ hai, cũng vậy phương thứ ba, cũng vậy phương
 thứ tư. Như vậy cùng khắp thế giới, trên dưới bề ngang, hết thảy phương xứ, cùng khắp vô
@@ -410,6 +420,7 @@ vậy phương thứ tư. Như vậy cùng khắp thế giới, trên, dưới, 
 cùng khắp vô biên giới, vị ấy an trú biến mãn với tâm câu hữu với xả, quảng đại, vô biên,
 không hận, không sân.
 
+<!--pg-->
 vii) Bốn vô sắc: Này các Hiền giả, ở đây, vị Tỷ-kheo vượt lên mọi sắc tưởng, diệt trừ mọi
 chướng ngại tưởng, không tác ý đối với dị tưởng, vị Tỷ-kheo nghĩ rằng: “Hư không và vô
 biên”, chứng và trú Không vô biên xứ. Vượt lên mọi Không vô biên xứ, nghĩ rằng: “Không
@@ -417,6 +428,7 @@ có vật gì”, chứng và trú Thức vô biên xứ. Vượt lên mọi th�
 có vật gì”, chứng và trú Vô sỡ hữu xứ. Vượt lên mọi Vô sở hữu xứ, chứng và trú Phi tưởng
 phi phi tưởng xứ.
 
+<!--pg-->
 viii) Bốn y chỉ: Này các Hiền giả, ở đây vị Tỷ-kheo sau khi suy nghĩ, thọ dụng; sau khi suy
 nghĩ, nhẫn thọ; sau khi suy nghĩ, viễn ly; sau khi suy nghĩ, khiển trừ.
 
@@ -452,6 +464,7 @@ không khen mình chê người. Ở đây, vị Tỷ-kheo này khéo léo, tinh
 niệm. Này các Hiền giả, vị ấy được gọi là một vị đã trung thành với Thánh chủng, theo
 truyền thống quá khứ.
 
+<!--pg-->
 x) Bốn tinh cần: Chế ngự tinh cần, đoạn trừ tinh cần, tu tập tinh cần, hộ trì tinh cần.
 
 Này các Hiền giả, thế nào là chế ngự tinh cần? Này các Hiền giả, ở đây vị Tỷ-kheo, khi mắt
@@ -479,10 +492,12 @@ Này các Hiền giả, thế nào là hộ trì tinh cần? Này các Hiền gi
 tướng tốt đẹp đã khởi lên, cốt tưởng, trùng hám tưởng, thanh ứ tưởng, đoạn hoại tưởng,
 trương bành tưởng. Này các Hiền giả, như vậy gọi là hộ trì tinh cần.
 
+<!--pg-->
 xi) Bốn trí: Pháp trí, loại trí, tha tâm trí, thế tục trí.
 
 xii) Lại bốn trí khác: Khổ trí, tập trí, diệt trí, đạo trí.
 
+<!--pg-->
 xiii) Bốn Dự lưu hướng chi: Thiện nhân thân cận, diệu pháp thính thọ, như lý tác ý, pháp
 tùy pháp hành.
 
@@ -500,6 +515,7 @@ tôn trọng, đáng được cúng dường, đáng được chấp tay, là ph
 thực hành liên tục, không bị khiếm khuyết khiến con người tự tại, được bậc Thánh tán thán,
 không bị nhiễm ô, hướng đến thiền định.
 
+<!--pg-->
 xv) Bốn Sa môn quả: Dự lưu quả, Nhứt lai quả, Bất lai quả, A-la-hán quả.
 
 xvi) Bốn giới: Ðịa giới, thủy giới, hỏa giới, phong giới.
@@ -513,6 +529,7 @@ quảng. Này các Hiền giả, hay duyên thọ, thức... hay duyên tưởng
 duyên hành, thức khởi lên và an trú, thức ấy lấy hành làm cảnh, lấy hành làm sở y, lấy hành
 làm căn cứ thọ hưởng, được tăng trưởng, tăng thịnh, tăng quảng.
 
+<!--pg-->
 xix) Bốn bất hành xứ hạnh: Tham dục bất hành xứ hạnh, sân bất hành xứ hạnh, si bất hành
 xứ hạnh, bố úy bất hành xứ hạnh.
 
@@ -521,6 +538,7 @@ các Hiền giả, do nhơn đồ ăn khất thực, vị Tỷ-kheo khởi lên 
 do nhơn phòng xá, vị Tỷ-kheo khởi lên lòng tham ái. Này các Hiền giả, do nhơn hữu và phi
 hữu, vị Tỷ-kheo khởi lên lòng tham ái.
 
+<!--pg-->
 xxi) Bốn hành: Khổ hành trì chứng, khổ hành tốc chứng, lạc hành trì chứng, lạc hành tốc
 chứng.
 
@@ -535,16 +553,16 @@ Này các Hiền giả, có pháp thọ, hiện tại khổ và tương lai qu�
 pháp thọ, hiện tại lạc và tương lai quả báo khổ. Này các Hiền giả có pháp thọ, hiện tại lạc và
 tương lai quả báo lạc.
 
+<!--pg-->
 xxy) Bốn pháp uẩn: Giới uẩn, định uẩn, công đức uẩn, giải thoát uẩn.
 
 xxvi) Bốn lực: Tinh tấn lực, niệm lực, định lực, tuệ lực.
-xxvii) _Bốn thắng xứ: Tuệ thắng xứ, đế thắng xứ, xả thắng xứ, chỉ tức thắng xứ (Bốn_
-nguyện).
+xxvii) Bốn thắng xứ: Tuệ thắng xứ, đế thắng xứ, xả thắng xứ, chỉ tức thắng xứ (Bốn nguyện).
 
 xxviii) Bốn cách trả lời câu hỏi: Trả lời câu hỏi một cách dứt khoát, trả lời câu hỏi bằng
 cách phân tích, trả lời câu hỏi bằng cách cật vấn, trả lời câu hỏi bằng cách giả lơ, bỏ qua.
 
-xxix) _Bốn nghiệp: Này các Hiền giả, có hắc nghiệp hắc báo. Này các Hiền giả, có bạch_
+xxix) Bốn nghiệp: Này các Hiền giả, có hắc nghiệp hắc báo. Này các Hiền giả, có bạch
 nghiệp bạch báo. Này các Hiền giả, có hắc bạch nghiệp, hắc bạch báo. Này các Hiền giả, có
 phi hắc phi bạch nghiệp, phi hắc phi bạch báo, và đưa đến sự tận diệt các nghiệp.
 
@@ -552,6 +570,7 @@ xxx) Bốn pháp cần phải chứng ngộ: Túc mạng cần phải chứng ng
 phải chứng ngộ bởi nhãn. Tám giải thoát cần phải chứng ngộ bởi thân. Lậu tận cần phải
 chứng ngộ bởi Tuệ.
 
+<!--pg-->
 xxxi) Bốn bộc lưu: Dục bộc lưu, hữu bộc lưu, kiến bộc lưu, vô minh bộc lưu.
 
 xxxii) Bốn ách: Dục ách, hữu ách, kiến ách, vô minh ách.
@@ -565,7 +584,8 @@ xxxv) Bốn thủ: Dục thủ, kiến thủ, giới cấm thủ, ngã thuyết 
 
 xxxvi) Bốn sanh: Noãn sanh, thai sanh, thấp sanh, hóa sanh.
 
-xxxvii) _Bốn nhập thai: Này các Hiền giả, ở đây, có loài không tỉnh giác nhập mẫu thai,_
+<!--pg-->
+xxxvii) Bốn nhập thai: Này các Hiền giả, ở đây, có loài không tỉnh giác nhập mẫu thai,
 không tỉnh giác trú mẫu thai, không tỉnh giác xuất mẫu thai. Ðó là loại nhập thai thứ nhất.
 Lại nữa, này các Hiền giả, ở đây, có loại tỉnh giác nhập mẫu thai, không tỉnh giác trú mẫu
 thai, không tỉnh giác xuất mẫu thai. Ðó là loại nhập thai thứ hai. Lại nữa, này các Hiền giả,
@@ -579,7 +599,7 @@ của người khác, không do ý chí của mình. Này các Hiền giả, có
 của mình và ý chí của người khác. Này các Hiền giả, có tự thể mới được không do ý chí của
 mình, không do ý chí của người khác.
 
-xxxix) _Bốn sự cúng dường thanh tịnh: Này các Hiền giả, có sự cúng dường, người cúng_
+xxxix) Bốn sự cúng dường thanh tịnh: Này các Hiền giả, có sự cúng dường, người cúng
 dường thanh tịnh, người nhận cúng dường không thanh tịnh. Này các Hiền giả, có sự cúng
 dường, người nhận cúng dường thanh tịnh, người cúng dường không thanh tịnh. Này các
 Hiền giả, có sự cúng dường, cả người cúng dường và người nhận cúng dường đều không
@@ -594,7 +614,7 @@ xlii) Bốn Thánh ngôn: Ly vọng ngữ, ly lưỡng thiệt, ly ác khẩu, l
 xliii) Bốn phi Thánh ngôn khác: Không thấy nói thấy, không nghe nói nghe, không nghĩ nói
 nghĩ, không biết nói biết.
 
-xliv) _Bốn Thánh ngôn khác: Không thấy nói không thấy, không nghe nói không nghe,_
+xliv) Bốn Thánh ngôn khác: Không thấy nói không thấy, không nghe nói không nghe,
 không nghĩ nói không nghĩ, không biết nói không biết.
 
 xlv) Bốn phi Thánh ngôn khác: Thấy nói không thấy, nghe nói không nghe, nghĩ nói không
@@ -602,6 +622,7 @@ nghĩ, biết nói không biết.
 
 xlvi) Bốn Thánh ngôn khác: Thấy nói thấy, nghe nói nghe, nghĩ nói nghĩ, biết nói biết.
 
+<!--pg-->
 xlvii) Bốn loại người: Này các Hiền giả, ở đây, có người tự làm khổ mình và siêng năng
 làm khổ mình. Này các Hiền giả, ở đây, có loại người làm khổ người khác, siêng năng làm
 khổ người khác. Này các Hiền giả, ở đây, có loại người làm khổ mình, siêng năng làm khổ
@@ -627,14 +648,17 @@ Chánh Ðẳng Giác. Ở đây, mọi người cần phải cùng nhau tụng �
 này được trường tồn, được duy trì lâu ngày, vì hạnh phúc cho chúng sanh, vì an lạc cho chúng sanh, vì
 lòng thương tưởng cho đời, vì lợi ích, vì hạnh phúc, vì an lạc cho chư Thiên và loài Người.
 
-**Tụng Phẩm II**
+<!--pg-->
+## Tụng Phẩm II
 
-**Năm pháp**
+## Năm pháp
 
 1\. Này các Hiền giả, có năm Pháp được Thế Tôn chơn chánh giảng dạy, vị đã biết, đã thấy, bậc A la hán,
 Chánh Ðẳng Giác. Ở đây, mọi người cần phải cùng nhau tụng đọc, không có tranh luận, để phạm hạnh
 này được trường tồn, được duy trì lâu ngày, vì hạnh phúc cho chúng sanh, vì an lạc cho chúng sanh, vì
 lòng thương tưởng cho đời, vì lợi ích, vì hạnh phúc, vì an lạc cho chư Thiên và loài Người.
+
+<!--pg-->
 i) Năm uẩn: Sắc uẩn, thọ uẩn, tưởng uẩn, hành uẩn, thức uẩn.
 
 ii) Năm thủ uẩn: Sắc thủ uẩn, thọ thủ uẩn, tưởng thủ uẩn, hành thủ uẩn, thức thủ uẩn.
@@ -649,6 +673,7 @@ iv) Năm thú: Ðịa ngục, bàng sanh, ngạ quỷ, Người, chư Thiên.
 v) Năm xan tham: Xan tham đối với trú xứ, xan tham đối với gia đình, xan tham đối với các
 vật thâu hoạch, xan tham đối với sắc, xan tham đối với pháp.
 
+<!--pg-->
 vi) Năm triền cái: Tham dục triền cái, sân triền cái, hôn trầm thụy miên triền cái, trạo cử hối
 quá triền cái, nghi triền cái.
 
@@ -656,6 +681,7 @@ vii) Năm hạ phần kiết sử: Thân kiến, nghi, giới cấm thủ, tham,
 
 viii) Năm thượng phần kiết sử: Sắc tham, vô sắc tham, mạn, trạo cử, vô minh.
 
+<!--pg-->
 ix) Năm học xứ: Không sát sanh, không trộm cắp, không tà dâm, không vọng ngôn, không
 uống các loại rượu.
 
@@ -665,18 +691,19 @@ cắp. Một vị Lậu tận Tỷ kheo không thể cố ý hành dâm. Một v
 cố ý tự mình biết mà nói láo. Một vị Lậu tận Tỷ kheo không thể tiêu dùng các vật chứa cất
 vào các thú vui dục lạc như khi còn là cư sĩ.
 
-xi) _Năm sự tổn thất: Thân thuộc tổn thất, tài sản tổn thất, tật bệnh tổn thất, giới tổn thất,_
+xi) Năm sự tổn thất: Thân thuộc tổn thất, tài sản tổn thất, tật bệnh tổn thất, giới tổn thất,
 kiến tổn thất. Này các Hiền giả, không có loài hữu tình nào, vì thân thuộc tổn thất, vì tài sản
 tổn thất, hay vì tật bệnh tổn thất, sau khi thân hoại mạng chung sanh vào khổ giới, ác thú,
 đọa xứ, địa ngục. Này các Hiền giả, có loài hữu tình, vì giới tổn thất hay vì kiến tổn thất,
 sau khi thân hoại mạng chung sanh vào khổ giới, ác thú, đọa xứ, địa ngục.
 
-xii) _Năm sự thành tựu: Thân thuộc thành tựu, tài sản thành tựu, vô bệnh thành tựu, giới_
+xii) Năm sự thành tựu: Thân thuộc thành tựu, tài sản thành tựu, vô bệnh thành tựu, giới
 thành tựu, kiến thành tựu. Này các Hiền giả, không có loài hữu tình nào, vì thân thuộc thành
 tựu, vì tài sản thành tựu hay vì vô bệnh thành tựu, được sanh lên thiện thú, Thiên giới, đời
 này. Này các Hiền giả, có các loài hữu tình, vì giới thành tựu hay vì kiến thành tựu, được
 sanh lên thiện thú, Thiên giới, đời này.
 
+<!--pg-->
 xiii) Năm điều nguy hiểm của người ác giới, phạm giới: Này các Hiền giả, người ác giới, vì
 phạm giới luật, do phóng dật thiệt hại nhiều tài sản. Ðó là điều nguy hiểm thứ nhất của
 người ác giới, phạm ác giới. Lại nữa, này các Hiền giả, với người ác giới, phạm ác giới,
@@ -701,6 +728,7 @@ giới. Này các Hiền giả, lại nữa người đủ giới, giữ giới,
 sanh lên thiện thú, Thiên giới, cõi đời này. Như vậy là điều lợi ích thứ năm cho người đủ
 giới, giữ giới.
 
+<!--pg-->
 xv) Năm pháp nội tâm: Này các Hiền giả, năm pháp nội tâm một vị Tỷ kheo cần phải có
 nếu muốn chỉ trích một vị khác: “Tôi nói đúng thời, không phải phi thời. Tôi nói đúng sự
 thật, không sai sự thật. Tôi nói một cách từ tốn, không nói lời ác khẩu. Tôi nói lời có lợi ích,
@@ -719,6 +747,7 @@ không tránh né đối với các thiện pháp. Vị ấy có trí tuệ, th�
 diệt của các pháp, thành tựu Thánh quyết trạch, đưa đến sự đoạn diệt chơn chánh các khổ
 đau.
 
+<!--pg-->
 xvii) Năm tịnh cư: Vô Phiền thiên, Vô Nhiệt thiên, Thiện Hiện thiên, Thiện Kiến thiên, Sắc
 Cứu Cánh thiên.
 
@@ -739,6 +768,7 @@ trở thành hoang vu. Này các Hiền giả, khi một vị Tỷ kheo tức gi
 phạm hạnh, không hoan hỷ, tâm dao động, trở thành hoang vu, vị Tỷ kheo ấy không hướng
 về nỗ lực, hăng hái, kiên trì và tinh tấn. Như vậy gọi là tâm hoang vu thứ năm.
 
+<!--pg-->
 xx) Năm tâm triền phược: Này các Hiền giả, ở đây vị Tỷ kheo tâm không ly tham, không ly
 dục, không ly ái, không ly khao khát, không ly nhiệt tình, không ly ái nhiễm đối với các dục
 vọng. Này các Hiền giả, vị Tỷ kheo tâm không ly tham, không ly dục, không ly ái, không ly
@@ -756,6 +786,7 @@ một loại chư Thiên: “Với nghi thức này, với giới luật này, v
 hạnh này, tôi sẽ trở thành loại chư Thiên này hay chư Thiên khác”. Tâm của vị này không
 hướng về nỗ lực, hăng hái, kiên trì và tinh tấn. Như vậy là tâm triền phược thứ năm.
 
+<!--pg-->
 xxi) Năm căn: Nhãn căn, nhĩ căn, tỷ căn, thiệt căn, thân căn.
 
 xxii) Lại năm căn khác: Lạc căn, khổ căn, hỷ căn, ưu căn, xả căn.
@@ -798,6 +829,7 @@ ly, khéo tu, khéo khởi, khéo giải thoát, khéo ly hệ thân diệt. Và
 các nhiệt não khởi lên do duyên với tự thân, vị ấy đối với chúng được giải thoát, không còn
 cảm thọ cảm giác ấy. Như vậy được gọi là giải thoát đối với tự thân.
 
+<!--pg-->
 xxv) Năm giải thoát xứ: Này các Hiền giả, ở đây vị Tỷ kheo, khi nghe bậc Ðạo Sư, hay một
 vị đồng phạm hạnh đáng kính nào thuyết pháp. Này các Hiền giả, khi vị Tỷ kheo nghe bậc
 Ðạo Sư hay một vị đồng phạm hạnh đáng kính nào thuyết pháp, vị ấy, đối với pháp ấy, hiểu
@@ -852,7 +884,8 @@ Chánh Ðẳng Giác. Ở đây, mọi người cần phải cùng nhau tụng �
 này được trường tồn, được duy trì lâu ngày, vì hạnh phúc cho chúng sanh, vì an lạc cho chúng sanh, vì
 lòng thương tưởng cho đời, vì lợi ích, vì hạnh phúc, vì an lạc cho chư Thiên và loài Người.
 
-**Sáu pháp**
+<!--pg-->
+## Sáu pháp
 
 2\. Này các Hiền giả, có sáu pháp được Thế Tôn chơn chánh giảng dạy, vị đã biết, đã thấy, bậc A la hán,
 Chánh Ðẳng Giác. Ở đây, mọi người cần phải cùng nhau tụng đọc, không có tranh luận, để phạm hạnh
@@ -877,6 +910,7 @@ vii) Sáu tư thân: Sắc tư, thanh tư, hương tư, vị tư, xúc tư, phá
 
 viii) Sáu ái thân: Sắc ái, thanh ái, hương ái, vị ái, xúc ái, pháp ái.
 
+<!--pg-->
 ix) Sáu không cung kính pháp: Này các Hiền giả, ở đây vị Tỷ kheo, sống không cung kính,
 không tùy thuận bậc Ðạo Sư; sống không cung kính, không tùy thuận Pháp; sống không
 cung kính, không tùy thuận Tăng; sống không cung kính, không tùy thuận học Pháp; sống
@@ -888,11 +922,12 @@ x) Sáu cung kính pháp: Này các Hiền giả, ở đây vị Tỷ kheo sốn
 tùy thuận học Pháp; sống cung kính, tùy thuận bất phóng dật; sống cung kính, tùy thuận lễ
 phép xã giao.
 
+<!--pg-->
 xi) Sáu sư tư đến hỷ: Khi mắt thấy sắc, hoan hỷ khởi lên, sắc ấy được suy tư. Khi tai nghe
 tiếng... Khi mũi ngửi hương... Khi lưỡi nếm vị... Khi thân chạm xúc... Khi ý nhận pháp,
 hoan hỷ khởi lên, pháp ấy được suy tư.
 
-xii) _Sáu suy tư đến ưu: Khi mắt thấy sắc, ưu khởi lên, sắc ấy được suy tư. Khi tai nghe_
+xii) Sáu suy tư đến ưu: Khi mắt thấy sắc, ưu khởi lên, sắc ấy được suy tư. Khi tai nghe
 tiếng... Khi mũi ngửi hương... Khi lưỡi nếm vị... Khi thân chạm xúc... Khi ý nhận pháp, ưu
 khởi lên, pháp ấy được suy tư.
 
@@ -900,6 +935,7 @@ xiii) Sáu suy tư đến xả: Khi mắt thấy sắc, xả khởi lên, sắc 
 tiếng... Khi mũi ngửi hương... Khi lưỡi nếm vị... Khi thân chạm xúc... Khi ý nhận pháp, xả
 khởi lên, pháp ấy được suy tư.
 
+<!--pg-->
 xiv) Sáu hòa kính pháp: Này các Hiền giả, ở đây khi vị Tỷ kheo thành tựu từ thân nghiệp,
 trước mặt hay sau lưng đối với các vị đồng phạm hạnh, như vậy là một pháp hòa kính, tạo
 ra từ ái, tạo ra cung kính, đưa đến đoàn kết, không tranh luận, hòa hợp, đồng tâm, ý hợp.
@@ -929,6 +965,7 @@ chánh, đoạn diệt khổ đau, vị ấy sống thành tựu với Chánh ki
 đồng phạm hạnh, trước mặt hay sau lưng, như vậy là một pháp hòa kính, tạo ra từ ái, tạo ra
 cung kính, đưa đến đoàn kết, trong tranh luận, hòa hợp, đồng tâm, ý hợp.
 
+<!--pg-->
 xv) Sáu tránh căn: Này các Hiền giả, ở đây vị Tỷ kheo phẫn nộ, uất hận. Này các Hiền giả,
 vị này phẫn nộ, uất hận, sống không cung kính, không tùy thuận vị Ðạo Sư, sống không
 cung kính, không tùy thuận Pháp, không cung kính, không tùy thuận Tăng, không thành tựu
@@ -960,6 +997,7 @@ vị, các vị hãy gìn giữ đừng cho ác tránh căn ấy có cơ hội l
 là sự đoạn trừ ác tránh căn ấy, như vậy là ngăn chận nguy hại ác tránh căn ấy trong tương
 lai.
 
+<!--pg-->
 xvi) Sáu giới: Ðịa giới, thủy giới, hỏa giới, phong giới, không giới, thức giới.
 
 xvii) Sáu xuất ly giới: Này các Hiền giả, ở đây vị Tỷ kheo nói như sau: “Ta đã tu tập từ tâm
@@ -1021,22 +1059,24 @@ phải như vậy. “Quan điểm “tôi có mặt” bị tôi từ khước.
 xảy ra như vậy. Này Hiền giả, chính nhờ khước từ sự ngạo mạn “tôi có mặt”, mà mũi tên do
 dự nghi ngờ được giải thoát.
 
-xviii) _Sáu vô thượng: Kiến vô thượng, văn vô thượng, lợi đắc vô thượng, học giới vô_
-thượng, hành vô thượng, ức niệm vô thượng.
+<!--pg-->
+xviii) Sáu vô thượng: Kiến vô thượng, văn vô thượng, lợi đắc vô thượng, học giới vô thượng, hành vô thượng, ức niệm vô thượng.
 
 xix) Sáu niệm xứ: Niệm Phật, niệm Pháp, niệm Tăng, niệm Giới, niệm Thí, niệm Thiên.
 
-xx) _Sáu hằng trú: Này các Hiền giả, ở đây vị Tỷ kheo mắt thấy sắc, không có hoan hỷ,_
+xx) Sáu hằng trú: Này các Hiền giả, ở đây vị Tỷ kheo mắt thấy sắc, không có hoan hỷ,
 không có ưu phiền, an trú xả, chánh niệm, giác tỉnh; tai nghe tiếng... mũi ngửi hương... lưỡi
 nếm vị... thân cảm xúc... ý nhận thức pháp, không có hoan hỷ, không có ưu phiền, trú xả,
 chánh niệm, tinh giác.
 
+<!--pg-->
 xxi) Sáu sanh loại: Này các Hiền giả, ở đây có người hắc sanh và sống tạo hắc pháp. Này
 các Hiền giả, ở đây, có người hắc sanh và sống tạo bạch pháp. Này các Hiền giả, ở đây, có
 người hắc sanh và sống tạo Niết bàn, phi hắn phi bạch pháp. Ở đây, có người bạch sanh và
 sống tạo bạch pháp. Ở đây, có người bạch sanh và sống tạo hắc pháp. Ở đây, có người bạch
 sanh và sống tạo Niết bàn, phi hắc phi bạch pháp.
-xxii) _Sáu quyết trạch phần thưởng: Vô thường tưởng, khổ tưởng trên vô thường, vô ngã_
+
+xxii) Sáu quyết trạch phần thưởng: Vô thường tưởng, khổ tưởng trên vô thường, vô ngã
 tưởng trên khổ, đoạn tưởng, vô tham tưởng, diệt tưởng.
 
 Này các Hiền giả, sáu pháp này được Thế Tôn chơn chánh giảng dạy, vị đã biết, đã thấy, bậc A la hán,
@@ -1044,7 +1084,8 @@ Chánh Ðẳng Giác. Ở đây, mọi người cần phải cùng nhau tụng �
 này được trường tồn, được duy trì lâu ngày, vì hạnh phúc cho chúng sanh, vì an lạc cho chúng sanh, vì
 lòng thương tưởng cho đời, vì lợi ích, vì hạnh phúc, vì an lạc cho chư Thiên và loài Người.
 
-**Bảy pháp**
+<!--pg-->
+## Bảy pháp
 
 8\. Này các Hiền giả, có bảy pháp được Thế Tôn chơn chánh giảng dạy, vị đã biết, đã thấy, bậc A la hán,
 Chánh Ðẳng Giác. Ở đây, mọi người cần phải cùng nhau tụng đọc, không có tranh luận, để phạm hạnh
@@ -1057,9 +1098,10 @@ i) Bảy tài sản: Tín tài, giới tài, tàm tài, quý tài, văn tài, th
 ii) Bảy giác chi: Niệm Giác chi, Trạch pháp Giác chi, Tinh tấn Giác chi, Hỷ Giác chi, Khinh
 an Giác chi, Ðịnh Giác chi, Xả Giác chi.
 
-iii) _Bảy định cụ: Chánh tri kiến, Chánh tư duy, Chánh ngữ, Chánh nghiệp, Chánh mạng,_
+iii) Bảy định cụ: Chánh tri kiến, Chánh tư duy, Chánh ngữ, Chánh nghiệp, Chánh mạng,
 Chánh tinh tấn, Chánh niệm.
 
+<!--pg-->
 iv) Bảy phi diệu pháp: Này các Hiền giả, ở đây, có vị Tỷ kheo bất tín, vô tàm, vô quý, thiểu
 văn, giải đải, thất niệm, liệt tuệ.
 
@@ -1077,11 +1119,12 @@ tinh tấn và khát vọng sống tinh tấn trong tương lai; tha thiết qu�
 quán sát tư niệm trong tương lai; tha thiết với kiến giải và khát vọng hiểu biết sở kiến trong
 tương lai.
 
-viii) _Bảy tưởng: Vô thường tưởng, vô ngã tưởng, bất tịnh tưỡng, hoạn nạn tưởng, đoạn_
+viii) Bảy tưởng: Vô thường tưởng, vô ngã tưởng, bất tịnh tưỡng, hoạn nạn tưởng, đoạn
 tưởng, ly tham tưởng, diệt tưởng.
 
 ix) Bảy lực: Tín lực, tinh tấn lực, tàm lực, quý lực, niệm lực, định lực, tuệ lực.
 
+<!--pg-->
 x) Bảy thức trú: Này các Hiền giả, có các loại hữu tình, thân sai biệt và tưởng sai biệt, như
 loài Người, một số chư Thiên và một số thuộc đọa xứ. Ðó là loại thức trú thứ nhất. Này các
 Hiền giả, có những loài hữu tình thân sai biệt nhưng tưởng đồng loại, như các vị Phạm
@@ -1096,6 +1139,7 @@ không vô biên xứ, chứng thức vô biên xứ: “Thức là vô biên”
 Này các Hiền giả có những loại hữu tình vượt khỏi hoàn toàn Thức vô biên xứ, chứng Vô
 sở hữu xứ: “Không có vật gì cả”. Ðó là loại thức trú thứ bảy.
 
+<!--pg-->
 xi) Bảy loại người đáng kính trọng: Câu phần giải thoát, Tuệ giải thoát, Thân chứng, Kiến
 chí, Tín giải thoát, Tùy pháp hành, Tùy tín hành.
 
@@ -1114,9 +1158,10 @@ Chánh Ðẳng Giác. Ở đây, mọi người cần phải cùng nhau tụng �
 này được trường tồn, được duy trì lâu ngày, vì hạnh phúc cho chúng sanh, vì an lạc cho chúng sanh, vì
 lòng thương tưởng cho đời, vì lợi ích, vì hạnh phúc, vì an lạc cho chư Thiên và loài Người.
 
-**Tụng Phẩm III**
+<!--pg-->
+## Tụng Phẩm III
 
-**Tám pháp**
+## Tám pháp
 
 1\. “Này các Hiền giả, có tám pháp được Thế Tôn chơn chánh giảng dạy, vị đã biết, đã thấy, bậc A la
 hán, Chánh Ðẳng Giác. Ở đây, mọi người cần phải cùng nhau tụng đọc, không có tranh luận, để phạm
@@ -1124,15 +1169,16 @@ hạnh này được trường tồn, được duy trì lâu ngày, vì hạnh p
 sanh, vì lòng thương tưởng cho đời, vì lợi ích, vì hạnh phúc, vì an lạc cho chư Thiên và loài Người. Thế
 nào là tám?
 
+<!--pg-->
 i) Tám tà: Tà tri kiến, ta tư duy, tà ngữ, tà nghiệp, tà mạng, tà tinh tấn, tà niệm, tà định.
 
-ii) _Tám chánh: Chánh tri kiến, Chánh tư duy, Chánh ngữ, Chánh nghiệp, Chánh mạng,_
-Chánh tinh tấn, Chánh niệm, Chánh định.
+ii) Tám chánh: Chánh tri kiến, Chánh tư duy, Chánh ngữ, Chánh nghiệp, Chánh mạng, Chánh tinh tấn, Chánh niệm, Chánh định.
 
 iii) Tám người đáng cung kính: Hạng Dự lưu, hạng đã thành tựu và chứng Dự lưu quả; hạng
 Nhất lai, hạng đã thành tựu và chứng Nhất lai quả; hạng Bất lai, hạng đã thành tựu và chứng
 Bất lai quả; hạng A la hán và hạng đã thành tựu A la hán quả.
 
+<!--pg-->
 iv) Tám giải đãi sự: Này các Hiền giả, ở đây có việc vị Tỷ kheo phải làm. Vị này nghĩ: “Có
 công việc ta sẽ phải làm. Nếu ta làm việc, thời thân ta sẽ mệt mỏi. Vậy ta nên nằm xuống”.
 Vị ấy nằm xuống, không có tinh tấn để đạt được điều chưa đạt được, để thành tựu điều chưa
@@ -1172,6 +1218,7 @@ không làm được việc gì, vậy ta hãy nằm xuống”. Vị ấy nằm
 được điều chưa đạt được, để thành tựu điều chưa thành tựu được, để chứng ngộ điều chưa
 chứng ngộ được. Như vậy là giải đãi sự thứ tám.
 
+<!--pg-->
 v) Tám tinh tấn sự: Này các Hiền giả, ở đây có việc vị Tỷ kheo phải làm, vị ấy nghĩ: “Có
 công việc, ta sẽ phải làm, nếu ta làm việc, thì không dễ gì ta có thể suy tư đến giáo pháp chư
 Phật. Vậy ta hãy cố gắng tinh tấn để đạt được điều gì chưa đạt được, để thành tựu điều gì
@@ -1215,12 +1262,14 @@ thành tựu điều gì chưa thành tựu được, chứng ngộ điều gì 
 tinh tấn để đạt được điều gì chưa đạt được, thành tựu điều gì chưa thành tựu được, và chứng
 ngộ điều gì chưa chứng ngộ được. Ðó là tinh tấn sự thứ tám.
 
+<!--pg-->
 vi) Tám bố thí sự: Có người đến, nên bố thí. Vì sợ, nên bố thí. Vì “người ấy cho tôi”, nên bố
 thí. Vì “người ấy sẽ cho tôi”, nên bố thí. Vì suy nghĩ: “Bố thí là tốt lành”, nên bố thí. Vì suy
 nghĩ: “Ta nấu, họ không nấu. Thật không phải, nếu ta nấu mà không cho gì những người
 không nấu”, nên bố thí. Vì suy nghĩ: “Nay ta bố thí, tiếng đồn tốt đẹp sẽ được truyền đi”,
 nên bố thí. Vì muốn trang nghiêm tâm và tư trợ tâm, nên bố thí.
 
+<!--pg-->
 vii) Tám thí sanh: Này các Hiền giả, có người bố thí cho Sa môn hay Bà la môn, đồ ăn, đồ
 uống, vải, xe cộ, hoa man, hương xông, hương thoa, sàng tọa, phòng xá, đèn sáng. Ðồ vật vị
 này bố thí, vị này mong được bố thí trở lại. Người này thấy người Sát đế lỵ có nhiều tài sản,
@@ -1260,11 +1309,13 @@ liệt, không tu tập cao hơn, nên đưa đến tái sanh trong tầm ấy. 
 hợp một vị đầy đủ giới luật, không phải vị phá giới luật. Này các Hiền giả, tâm nguyện của
 một vị giữ giới được thành tựu nhờ sự thanh tịnh.
 
+<!--pg-->
 viii) Tám chúng: Chúng Sát đế lỵ, chúng Bà la môn, chúng Gia chủ, chúng Sa môn, chúng
 Tứ Ðại Thiên vương, chúng Tam thập tam thiên, chúng (Thiên) Ma, chúng Phạm thiên.
 
 ix) Tám thế gian pháp: Ðắc, bất đắc, danh văn, ác văn, phỉ báng, tán thán, lạc, khổ.
 
+<!--pg-->
 x) Tám thắng xứ: Một vị quán tưởng nội sắc, thấy các loại ngoại sắc có hạn lượng, đẹp, xấu.
 Vị ấy nhận thức rằng: “Sau khi nhiếp thắng chúng, ta biết, ta thấy”, đó là thắng xứ thứ nhất.
 
@@ -1306,6 +1357,7 @@ tưởng vô sắc ở nội tâm thấy các loại ngoại sắc màu trắng,
 hình sắc trắng, ánh sáng trắng, vị ấy nhận thứ rằng: “Sau khi nhiếp thắng chúng, ta biết, ta
 thấy”, đó là thắng xứ thứ tám.
 
+<!--pg-->
 xi) Tám giải thoát: Tự mình có sắc, thấy các sắc; đó là giải thoát thứ nhất.
 
 Quán tưởng nội sắc là vô sắc, thấy các ngoại sắc; đó là giải thoát thứ hai.
@@ -1333,13 +1385,16 @@ Chánh Ðẳng Giác. Ở đây, mọi người cần phải cùng nhau tụng �
 này được trường tồn, được duy trì lâu ngày, vì hạnh phúc cho chúng sanh, vì an lạc cho chúng sanh, vì
 lòng thương tưởng cho đời, vì lợi ích, vì hạnh phúc, vì an lạc cho chư Thiên và loài Người.
 
-**Chín pháp**
+<!--pg-->
+## Chín pháp
+
 2\. Này các Hiền giả, có chín pháp được Thế Tôn chơn chánh giảng dạy, vị đã biết, đã thấy, bậc A la hán,
 Chánh Ðẳng Giác. Ở đây, mọi người cần phải cùng nhau tụng đọc, không có tranh luận, để phạm hạnh
 này được trường tồn, được duy trì lâu ngày, vì hạnh phúc cho chúng sanh, vì an lạc cho chúng sanh, vì
 lòng thương tưởng cho đời, vì lợi ích, vì hạnh phúc, vì an lạc cho chư Thiên và loài Người. Thế nào là
 chín?
 
+<!--pg-->
 i) Chín xung đột sự: “Người ấy đã làm hại tôi”, xung đột khởi lên. “Người ấy đang làm hại
 tôi”, xung đột khởi lên. “Người ấy sẽ làm hại tôi”, xung đột khởi lên.
 
@@ -1362,6 +1417,7 @@ làm hại người tôi thương, người tôi mến. Có ích lợi gì mà n
 lợi...”, ...” người ấy sẽ làm lợi... Có ích lợi gì mà nghĩ như vậy?” Nhờ vậy xung đột được
 điều phục.
 
+<!--pg-->
 iii) Chín chỗ an trú của loài hữu tình: Này các Hiền giả, có những loài hữu tình, thân sai
 biệt, tưởng sai biệt, như loài Người, một số chư Thiên, một số ở tại các đọa xứ. Ðó là hữu
 tình trú xứ thứ nhất. Này các Hiền giả, có những loài hữu tình, thân sai biệt, tưởng đồng
@@ -1379,6 +1435,7 @@ biên xứ một cách hoàn toàn, chứng Vô sở hữu xứ: “Không có v
 thứ tám. Này các Hiền giả, có những loài hữu tình vượt khỏi Vô sở hữu xứ một cách hoàn
 toàn, chứng Phi tưởng phi phi tưởng xứ. Ðó là hữu tình trú xứ thứ chín.
 
+<!--pg-->
 iv) Phạm hạnh trú, chín bất thời bất tiết: Này các Hiền giả, có Như Lai xuất hiện ở đời, bậc
 A la hán, Chánh Ðẳng Giác, Pháp được thuyết giảng, đưa đến an tịnh, hướng đến Niết bàn,
 tiến tới giác ngộ, được Thiện Thệ khai thị. Và người ấy sanh vào địa ngục. Ðó là Phạm
@@ -1418,6 +1475,7 @@ Pháp không được thuyết giảng, đưa đến an tịnh, hướng đến 
 không ngu si, không điếc ngọng, biết nghĩa lý được khéo nói hay vụng nói. Ðó là Phạm
 hạnh trú, bất thời bất tiết thứ chín.
 
+<!--pg-->
 v) Chín thứ đệ trú: Này các Hiền giả, ở đây có vị Tỷ kheo, ly ác bất thiện pháp, chứng và
 trú vào Thiền thứ nhất, có tầm có tứ có hỷ lạc do ly dục sanh. Diệt tầm diệt tứ... Thiền thứ
 hai... Thiền thứ ba... chứng và trú vào Thiền thứ tư. Sau khi vượt qua các sắc tưởng một
@@ -1428,6 +1486,7 @@ khi vượt qua một cách hoàn toàn Vô sở hữu xứ, chứng và trú Ph
 Sau khi vượt qua Phi tưởng phi phi tưởng xứ một cách hoàn toàn, chứng và trú Diệt thọ
 tưởng định.
 
+<!--pg-->
 vi) Chín thứ đệ diệt: Thành tựu Sơ thiền, các dục tưởng bị đoạn diệt; thành tựu đệ Nhị thiền,
 các tầm tứ bị đoạn diệt; thành tựu đệ Tam thiền, hỷ bị đoạn diệt; thành tựu đệ Tứ thiền, hơi
 thở vào hơi thở ra bị đoạn diệt; thành tựu Hư không vô biên xứ, sắc tưởng bị đoạn diệt;
@@ -1440,7 +1499,8 @@ Chánh Ðẳng Giác. Ở đây, mọi người cần phải cùng nhau tụng �
 này được trường tồn, được duy trì lâu ngày, vì hạnh phúc cho chúng sanh, vì an lạc cho chúng sanh, vì
 lòng thương tưởng cho đời, vì lợi ích, vì hạnh phúc, vì an lạc cho chư Thiên và loài Người.
 
-**_Mười pháp_**
+<!--pg-->
+## _Mười pháp_
 
 3\. Này Hiền giả, có mười pháp được Thế Tôn chơn chánh giảng dạy, vị đã biết, đã thấy, bậc A la hán,
 Chánh Ðẳng Giác. Ở đây, mọi người cần phải cùng nhau tụng đọc, không có tranh luận, để phạm hạnh
@@ -1448,6 +1508,7 @@ này được trường tồn, được duy trì lâu ngày, vì hạnh phúc ch
 lòng thương tưởng cho đời, vì lợi ích, vì hạnh phúc, vì an lạc cho chư Thiên và loài Người. Thế nào là
 mười?
 
+<!--pg-->
 i) Mười hộ trì nhân pháp: Này các Hiền giả, ở đây, vị Tỷ kheo có giới hạnh, sống chế ngự
 với sự chế ngự của giới bổn Pàtimokkha, đầy đủ oai nghi, chánh hạnh, thấy nguy hiểm
 trong những lỗi nhỏ nhặt, thọ lãnh và tu học trong giới pháp. Này các Hiền giả, vị Tỷ kheo
@@ -1498,7 +1559,8 @@ Này các Hiền giả, lại nữa, vị Tỷ kheo có huệ trí, đầy đủ
 trạch các bậc Thánh, chơn chánh diệt trừ mọi đau khổ. Này các Hiền giả, vị Tỷ kheo nào có
 huệ trí... chơi chánh diệt trừ mọi đau khổ. Pháp như vậy là hộ trì nhân.
 
-ii) _Mười biến xứ: Một vị nào biết được địa biến xứ: trên, dưới, ngang, bất nhị, vô lượng._
+<!--pg-->
+ii) Mười biến xứ: Một vị nào biết được địa biến xứ: trên, dưới, ngang, bất nhị, vô lượng.
 Một vị biết được thủy biến... Một vị biết được hỏa biến... Một vị biết được phong biến...
 Một vị biết được thanh biến... Một vị biết được hoàng biến... Một vị biết được xích biến...
 Một vị biết được bạch biến... Một vị biết được hư không biến... Một vị biết được thức biến,
@@ -1510,6 +1572,7 @@ iii) Mười bất thiện nghiệp đạo: Sát sanh, thâu đạo, tà dâm, v
 iv) Mười thiện nghiệp đạo: Ly sát sanh, ly thâu đạo, lỳ tà dâm, ly vọng ngôn, ly lưỡng thiệt,
 ly ác khẩu, ly ỷ ngữ, ly tham, ly sân, ly si.
 
+<!--pg-->
 v) Mười Thánh cư: Này các Hiền giả, ở đây, vị Tỷ kheo đoạn trừ năm chi, đầy đủ sáu chi,
 một hộ trì, thực hiện bốn y, loại bỏ các giáo điều, đoạn tận các mong cầu, tâm tư không trệ
 phược, thân thể khinh an, tâm thiện giải thoát, tuệ thiện giải thoát.
@@ -1561,6 +1624,7 @@ không có khả năng sanh khởi trong tương lai”. Vị ấy biết rằng
 cắt tận gốc rễ, như cây ta-la bị chặt, đi đến chỗ không hiện hữu, không có khả năng sanh
 khởi trong tương lai. Này các Hiền giả, như vậy là vị Tỷ kheo tuệ thiện giải thoát.
 
+<!--pg-->
 vi) Mười pháp vô học: Vô học Chánh tri kiến, vô học Chánh tư duy, vô học Chánh ngữ, vô
 học Chánh nghiệp, vô học Chánh mạng, vô học Chánh tinh tấn, vô học Chánh niệm. vô học
 Chánh định, vô học Chánh trí, vô học Chánh giải thoát.
@@ -1572,10 +1636,10 @@ tưởng cho dời, vì lợi ích, vì hạnh phúc, vì an lạc cho chư Thi�
 
 4\. Rồi Thế Tôn ngồi dậy và bảo tôn giả Sàriputta:
 
-\- Lành thay, lành thay Sàriputta! Này Sàriputta, Ngươi đã khéo giảng, khéo tụng kinh này cho chúng Tỷ
+− Lành thay, lành thay Sàriputta! Này Sàriputta, Ngươi đã khéo giảng, khéo tụng kinh này cho chúng Tỷ
 kheo.
 
 Tôn giả Sàriputta thuyết giảng như vậy. Bậc Ðạo Sư chấp thuận. Các vị Tỷ kheo ấy hoan hỷ tín thọ lời
 dạy của tôn giả Sàriputta.
 
-**-ooOoo-**
+## -ooOoo-

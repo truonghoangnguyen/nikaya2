@@ -12,26 +12,27 @@ tiền thân được khởi lên: “Ðây là tiền thân, đây là tiền t
 Rồi Thế Tôn, từ chỗ ngồi đứng dậy, đi đến Hoa Lâm viên đường. Khi đến xong, Ngài ngồi trên ghế đã
 soạn sẵn. Sau khi ngồi, Thế Tôn hỏi các Tỷ-kheo:
 
-\- Này các Tỷ-kheo, câu chuyện gì, các người đang ngồi bàn? Câu chuyện gì đã bị gián đoạn giữa các
+− Này các Tỷ-kheo, câu chuyện gì, các người đang ngồi bàn? Câu chuyện gì đã bị gián đoạn giữa các
 người?
 
 Khi được nói vậy, những Tỷ-kheo ấy bạch Thế Tôn:
 
-\- Bạch Thế Tôn, chúng con đi khất thực về, sau khi dùng bữa xong, cùng ngồi và tụ họp tại Hoa Lâm
+− Bạch Thế Tôn, chúng con đi khất thực về, sau khi dùng bữa xong, cùng ngồi và tụ họp tại Hoa Lâm
 viên đường, pháp thoại về tiền thân được khởi lên: “Ðây là tiền thân, đây là tiền thân”. Bạch Thế Tôn,
 đó là câu chuyện đang được bàn đến giữa chúng con thời Thế Tôn đến.
 
 3\. - Này các Tỷ-kheo, các người có muốn nghe pháp thuộc thoại về tiền thân không?
 
-\- Bạch Thế Tôn, thật là đúng thời; bạch Thiện Thệ, thật là đúng thời để Thế Tôn giảng pháp thoại thuộc
+− Bạch Thế Tôn, thật là đúng thời; bạch Thiện Thệ, thật là đúng thời để Thế Tôn giảng pháp thoại thuộc
 về tiền thân. Sau khi nghe Thế Tôn, các Tỷ-kheo sẽ thọ trì.
 
-\- Vậy này các Tỷ-kheo, các người hãy nghe và khéo tác ý, Ta sẽ giảng.
+− Vậy này các Tỷ-kheo, các người hãy nghe và khéo tác ý, Ta sẽ giảng.
 
-\- Dạ vâng, bạch Thế Tôn.
+− Dạ vâng, bạch Thế Tôn.
 
 Các Tỷ-kheo này đáp lời Thế Tôn. Thế Tôn giảng như sau:
 
+<!--pg-->
 4\. - Này các Tỷ-kheo, chín mươi mốt kiếp về trước, Thế Tôn Vipassì (Tỳ-bà-thi), bậc A-la-hán, Chánh
 Ðẳng Giác ra đời. Này các Tỷ-kheo, ba mươi mốt kiếp về trước, Thế Tôn Sikhì (Thi-khí) bậc A-la-hán,
 Chánh Ðẳng Giác ra đời. Này các Tỷ-kheo, cũng trong ba mươi mốt kiếp ấy, Thế Tôn Vessabhù (Tỳ-xábà) bậc A-la-hán, Chánh Ðẳng Giác ra đời. Này các Tỷ-kheo cũng trong tiền kiếp ấy, Thế Tôn
@@ -43,7 +44,7 @@ cũng trong tiền kiếp ấy, Thế Tôn Kassapa (Ca-diếp) bậc A-la-hán, 
 sanh trong giai cấp Sát-đế-lỵ. Này các Tỷ-kheo, Thế Tôn Sikhì, bậc A-la-hán, Chánh Ðẳng Giác, thuộc
 chủng tánh Sát-đế-lỵ, sanh trong giai cấp Sát-đế-lỵ. Này các Tỷ-kheo, Thế Tôn Vessabhù, bậc A-la-hán,
 Chánh Ðẳng Giác, thuộc chủng tánh Sát-đế-lỵ, sanh trong giai cấp Sát-đế-lỵ. Này các Tỷ-kheo, Thế Tôn
-Kakusandha, bậc A-la-hán, Chánh Ðẳng Giác, thuộc chủng tánh Bà-la-môn, sanh trong giai cấp Bà-lamôn. Này các Tỷ-kheo, Thế Tôn Konàgamana, bậc A-la-hán, Chánh Ðẳng Giác thuộc chủng tánh Bà-lamôn, sanh trong giai cấp Bà-la-môn. Này các Tỷ-kheo, Thế Tôn Kassapa, bậc A-la-hán, Chánh Ðẳng
+Kakusandha, bậc A-la-hán, Chánh Ðẳng Giác, thuộc chủng tánh Bà-la-môn, sanh trong giai cấp Bà-la-môn . Này các Tỷ-kheo, Thế Tôn Konàgamana, bậc A-la-hán, Chánh Ðẳng Giác thuộc chủng tánh Bà-la-môn , sanh trong giai cấp Bà-la-môn. Này các Tỷ-kheo, Thế Tôn Kassapa, bậc A-la-hán, Chánh Ðẳng
 Giác thuộc chủng tánh Bà-la-môn, sanh trong giai cấp Bà-la-môn. Này các Tỷ-kheo, nay Ta là bậc A-lahán, Chánh Ðẳng Giác thuộc chủng tánh Sát-đế-lỵ, sanh trong giai cấp Sát-đế-lỵ.
 
 6\. Này các Tỷ-kheo, Thế Tôn Vipasì, bậc A-la-hán, Chánh Ðẳng Giác thuộc danh tánh Kondanna (Câuly-nhã). Này các Tỷ-kheo, Thế Tôn Sikhì, bậc A-la-hán, Chánh Ðẳng Giác thuộc danh tánh Kondanna.
@@ -52,6 +53,7 @@ các Tỷ-kheo, Thế Tôn Kakusandha, bậc A-la-hán, Chánh Ðẳng Giác thu
 Tỷ-kheo, Thế Tôn Konàgamara, bậc A-la-hán, Chánh Ðẳng Giác thuộc danh tánh Kassapa. Này các Tỷkheo, Thế Tôn Kassapa, bậc A-la-hán, Chánh Ðẳng Giác thuộc danh tánh Kassapa. Này các Tỷ-kheo,
 nay Ta là bậc A-la-hán, Chánh Ðẳng Giác, thuộc danh tánh Gotama (Cù-đàm).
 
+<!--pg-->
 7\. Này các Tỷ-kheo, trong thời Thế Tôn Vipassì bậc A-la-hán, Chánh Ðẳng Giác, tuổi thọ loài người là
 tám vạn năm. Này các Tỷ-kheo, trong thời Thế Tôn Sikhì, bậc A-la-hán, Chánh Ðẳng Giác, tuổi thọ loài
 người là bảy vạn năm. Này các Tỷ-kheo, trong thời Thế Tôn Vessabhù, bậc A-la-hán, Chánh Ðẳng Giác,
@@ -79,6 +81,7 @@ Bhiyyosa (Thư-bàn-na) và Uttara (Uất-đa-la). Này các Tỷ-kheo, hai vị
 Tôn Kassapa, bậc A-la-hán, Chánh Ðẳng Giác tên là Tissa (Ðề-xá) và Bhàradvàja (Bà-la-bà). Này các
 Tỷ-kheo, hai vị hiền sĩ, đệ nhất đệ tử của Ta là Sãriputta (Xá-lợi-phất) và Moggallàna (Mục-kiền-liên).
 
+<!--pg-->
 10\. Này các Tỷ-kheo, trong thời Thế Tôn Vipassì, bậc A-la-hán, Chánh Ðẳng Giác có ba Tăng hội: một
 Tăng hội sáu mươi tám triệu Tỷ-kheo, một Tăng hội mười vạn Tỷ-kheo, một Tăng hội tám vạn Tỷ-kheo.
 
@@ -116,6 +119,7 @@ Này các Tỷ-kheo, trong thời Thế Tôn Kassapa, bậc A-la-hán, Chánh Ð
 vậy, tất cả đều là bậc A-la-hán. Này các Tỷ kheo, nay trong thời của Ta có một Tăng hội một ngàn hai
 trăm năm mươi Tỷ-kheo, tất cả đều là bậc Lậu tận.
 
+<!--pg-->
 11\. Này các Tỷ-kheo, Thế Tôn Vipassì, bậc A-la-hán, Chánh Ðẳng Giác, có vị thị giả Tỷ-kheo tên là
 Asoka (A-dục), vị này là vị thị giả đệ nhất. Này các Tỷ-kheo, Thế Tôn Sikhì bậc A-la-hán, Chánh Ðẳng
 Giác có vị thị giả Tỷ-kheo tên là Khemankara (Nhẫn Hành), vị này là vị thị giả đệ nhất. Này các Tỷkheo, Thế Tôn Vessabhũ, bậc A-la-hán, Chánh Ðẳng Giác có vị thị giả Tỷ-kheo tên là Upasannaka (Tịch
@@ -126,6 +130,7 @@ là vị thị giả đệ nhất. Này các Tỷ-kheo, Thế Tôn Kassapa bậc
 Tỷ-kheo tên là Sabbamitta (Thiện Hữu), vị này là vị thị giả đệ nhất. Này các Tỷ-kheo, nay Ta có vị thị
 giả Tỷ-kheo tên là Ananda (A-nan), vị này là vị thị giả đệ nhất.
 
+<!--pg-->
 12\. Này các Tỷ-kheo, phụ vương của Thế Tôn Vipassì bậc A-la-hán, Chánh Ðẳng Giác tên là Bandhumà
 (Bàn-đầu); mẫu hậu tên là Bandhumati (Bàn-đầu-bà-đề). Kinh thành của vua Bandhumà tên là
 Bandhumatì. Này các Tỷ-kheo, phụ vương Thế Tôn Sikhì, bậc A-la-hán, Chánh Ðẳng Giác tên là Aruna
@@ -151,9 +156,10 @@ Này các Tỷ-kheo, nay phụ vương của Ta tên là Suddhodana (Tịnh Ph�
 
 Thế Tôn thuyết giảng như vậy. Giảng xong Thiện Thệ từ chỗ ngồi đứng dậy, đi vào tịnh xá.
 
+<!--pg-->
 13\. Thế Tôn đi ra chẳng bao lâu cuộc đàm thoại sau đây khởi lên giữa những Tỷ-kheo ấy:
 
-\- Này các Hiền giả, thật hy hữu thay! Này các liền giả, thật kỳ diệu thay, đại thần lực, đại oai lực của
+− Này các Hiền giả, thật hy hữu thay! Này các liền giả, thật kỳ diệu thay, đại thần lực, đại oai lực của
 Như Lai! Như Lai nhớ được chư Phật quá khứ, những vị này đã nhập Niết bàn, đã đoạn các chướng
 ngại, đã đoạn các chướng đạo, đã chấm dứt sự luân hồi, đã thoát ly mọi đau khổ. Như Lai cũng nhớ đến
 chủng tánh của những vị này, cũng nhớ đến danh tánh, cũng nhớ đến tộc tánh, cũng nhớ đến tuổi thọ,
@@ -175,14 +181,15 @@ vậy, pháp hạnh là như vậy, tuệ hạnh là như vậy, trí hạnh là
 
 Như vậy là cuộc đàm thoại đang khởi lên giữa những Tỷ-kheo ấy.
 
+<!--pg-->
 14\. Bấy giờ Thế Tôn, vào buổi chiều tối, sau khi xuất định, liền đến Hoa Lâm viên đường, ngồi trên chỗ
 đã soạn sẵn. Sau khi ngồi xong, Thế Tôn nói với các Tỷ-kheo:
 
-\- Này các Tỷ-kheo, nay các Ngươi ngồi luận bàn vấn đề gì? Ðề tài gì đã được luận bàn giữa các Ngươi?
+− Này các Tỷ-kheo, nay các Ngươi ngồi luận bàn vấn đề gì? Ðề tài gì đã được luận bàn giữa các Ngươi?
 
 Khi được hỏi vậy, các Tỷ-kheo ấy bạch Thế Tôn:
 
-\- Bạch Thế Tôn, Thế Tôn đi ra chẳng bao lâu, cuộc đàm thoại sau đây đã khởi lên giữa chúng con: “Này
+− Bạch Thế Tôn, Thế Tôn đi ra chẳng bao lâu, cuộc đàm thoại sau đây đã khởi lên giữa chúng con: “Này
 các Hiền giả, thật hy hữu thay! Này các hiền giả thật kỳ diệu thay đại thần lực, đại oai lực của Như Lai!
 Như Lai nhớ được chư Phật quá khứ, những vị này đã nhập Niết Bàn, đã đoạn các chướng ngại, đã đoạn
 các chướng đạo, đã chấm dứt sự luân hồi, đã thoát ly mọi đau khổ. Như Lai cũng nhớ đến chủng tánh
@@ -204,6 +211,7 @@ thoát ly mọi đau khổ. Như Lai cũng nhớ đến chủng tánh các vị 
 vậy, pháp hạnh là như vậy, tuệ hạnh là như vậy, trí hạnh là như vậy, giải thoát như thế này?” Bạch Thế
 Tôn, như vậy là vấn đề bàn luận giữa chúng con, khi Thế Tôn đến.
 
+<!--pg-->
 15\. - Này các Tỷ-kheo, như vậy là pháp giới ấy được khéo chứng đạt bởi Như Lai, và nhờ chúng đạt
 pháp giới này, Như Lai nhớ được chư Phật quá khứ, những vị này đã nhập Niết Bàn, đã đoạn các
 chướng ngại, đã đoạn các chướng đạo, đã chấm dứt sự luân hồi, đã thoát ly mọi đau khổ. Như Lai cũng
@@ -221,10 +229,11 @@ như vậy”.
 
 Này các Tỷ-kheo, vậy hãy nghe và suy nghiệm kỹ, Ta sẽ giảng.
 
-\- Thưa vâng, Bạch Thế Tôn.
+− Thưa vâng, Bạch Thế Tôn.
 
 Các Tỷ-kheo ấy vâng lời Thế Tôn, Thế Tôn giảng như sau:
 
+<!--pg-->
 16\. - Này các Tỷ-kheo, cách đây chín mươi mốt kiếp về trước, Thế Tôn Vipassì bậc A-la-hán, Chánh
 Ðẳng Giác ra đời. Này các Tỷ-kheo, Thế Tôn Vipassì, bậc A-la-hán, Chánh Ðẳng Giác thuộc chủng tánh
 Sát-đế-ly, sanh trong giai cấp Sát-đế-ly. Này các Tỷ kheo, Thế Tôn Vipassì, bậc A la hán, Chánh Ðẳng
@@ -235,8 +244,9 @@ bậc A-la-hán, Chánh Ðẳng Giác tên là Khanda (Kiển-trà) và Tissa (�
 Thế Tôn Vipassì, bậc A-la-hán, Chánh Ðẳng Giác có ba Tăng hội: một Tăng hội sáu mươi tám vạn Tỷkheo, một Tăng hội mười vạn Tỷ-kheo, một Tăng hội tám vạn Tỷ-kheo. Này các Tỷ-kheo, Thế Tôn
 Vipassì, bậc A-la-hán, Chánh Ðẳng Giác có vị thị giả Tỷ-kheo tên là Asoka (A-dục), vị này là vị thị giả
 đệ nhất. Này các Tỷ-kheo, Phụ Vương Thế Tôn Tỳ-bà-thi, bậc A-la-hán, Chánh Ðẳng Giác tên là
-Bandhumà (Bàn-đầu), mẫu hậu tên là Bandhumatì (Bàn-đầu-bà-đề), kinh thành của Bandhumà tên là
-Bandhumatì.
+Bandhumà (Bàn-đầu), mẫu hậu tên là Bandhumatì (Bàn-đầu-bà-đề), kinh thành của Bandhumà tên là Bandhumatì.
+
+<!--pg-->
 17\. Này các Tỷ-kheo, pháp nhĩ là như vậy, Bồ-tát Vipassì, sau khi từ giã cảnh giới Ðâu-suất thiên, chánh
 niệm tĩnh giác nhập vào mẫu thai. Này các Tỷ-kheo, pháp nhĩ là như vậy. Khi Bồ-tát Vipassì từ giã cảnh
 giới Ðâu-suất thiên, chánh niệm tĩnh giác nhập vào mẫu thai, khi ấy một hào quang vô lượng, thần diệu,
@@ -253,6 +263,7 @@ Này các Tỷ-kheo, pháp nhĩ là như vậy. Khi vị Bồ -tát nhập mẫu
 phương trời và nói: “Không cho một ai, người hay không phải loài người, được hãm hại vị Bồ-tát. Pháp
 nhĩ là như vậy”.
 
+<!--pg-->
 18\. Này các Tỷ-kheo, pháp nhĩ là như vậy. Khi vị Bồ-tát nhập mẫu thai, mẹ vị Bồ-tát giữ giới một cách
 hồn nhiên, không sát sanh, không trộm cắp, không tà dâm, không nói láo, không uống các thứ rượu men,
 rượu nấu. Pháp nhĩ là như vậy.
@@ -264,6 +275,7 @@ có tâm ái nhiễm đối với bà. Pháp nhĩ là gì vậy.
 20\. Này các Tỷ-kheo, pháp nhĩ là như vậy. Khi vị Bồ-tát nhập mẫu thai, mẹ vị Bồ-tát có được năm món
 dục lạc đầy đủ, tận hưởng, trọn hưởng năm món dục lạc ấy. Pháp nhĩ là như vậy.
 
+<!--pg-->
 21\. Này các Tỷ-kheo, pháp nhĩ là như vậy. Khi vị Bồ-tát nhập mẫu thai, mẹ vị Bồ-tát không bị một bệnh
 tật gì. Bà sống với tâm hoan hỷ, với thân khoan khoái. Bà thấy trong bào thai của mình vị Bồ-tát đầy đủ
 mọi bộ phận và chân tay.
@@ -278,6 +290,7 @@ khi vị Bồ-tát nhập mẫu thai, mẹ vị Bồ-tát không một bệnh t�
 khoan khoái. Bà thấy trong bào thai của mình vị Bồ-tát đầy đủ mọi bộ phận và chân tay. Pháp nhĩ là như
 vậy.
 
+<!--pg-->
 22\. Này các Tỷ-kheo, pháp nhĩ là như vậy. Sau khi sanh vị Bồ-tát bảy ngày, mẹ vị Bồ-tát mệnh chung và
 sanh lên cảnh trời Ðâu suất. Pháp nhĩ là như vậy.
 
@@ -306,6 +319,7 @@ nhiễm ô tấm vải Ba-la-nại, tấm vải Ba-la-nại cũng không làm nh
 không bị nhiễm ô bởi nước nhớt nào, không bị nhiễm ô bởi loại mủ nào, không bị nhiễm ô bởi loại máu
 nào, không bị nhiễm ô bởi bất cứ sự vật bất tịnh nào, thanh tịnh, trong sạch. Pháp nhĩ là như vậy.
 
+<!--pg-->
 28\. Này các Tỷ-kheo, pháp nhĩ là như vậy. Khi vị Bồ-tát từ bụng mẹ sanh ra, hai dòng nước từ hư không
 hiện ra, một dòng lạnh, một dòng nóng. Hai dòng nước ấy tắm rửa sạch sẽ cho vị Bồ-tát và cho bà mẹ.
 Pháp nhĩ là như vậy.
@@ -316,6 +330,7 @@ phương, lớn tiếng như con ngưu vương, thốt ra lời như sau: “Ta 
 tối tôn ở trên đời. Ta là bậc cao nhất ở trên đời. Nay là đời sống cuối cùng, không còn phải tái sanh ở đời
 này nữa”. Pháp nhĩ là như vậy.
 
+<!--pg-->
 30\. Này các Tỷ-kheo, pháp nhĩ là như vậy. Khi vị Bồ-tát từ bụng mẹ sanh ra, khi ấy một hào quang vô
 lượng thần diệu, thắng xa oai lực của chư Thiên hiện ra cùng khắp thế giới, gồm có các thế giới trên chư
 Thiên, thế giới của các Ma vương và Phạm thiên, và thế giới ở dưới gồm các vị Sa-môn, Bà-la-môn, các
@@ -326,6 +341,7 @@ chúng sanh sống tại những chỗ ấy, nhờ hào quang ấy mới thấy 
 sanh khác sống ở đây”. Và mười ngàn thế giới chuyển động, rung động, chuyển động mạnh. Và hào
 quang vô lượng thần diệu ấy thắng xa oai lực của chư Thiên hiện ra ở thế giới. Pháp nhĩ là như vậy.
 
+<!--pg-->
 31\. Này các Tỷ-kheo, khi hoàng tử Vipassì sinh ra, vua Bandhumà được báo tin: “Ðại vương đã được
 sinh một hoàng tử”. Này các Tỷ-kheo, khi thấy hoàng tử xong, vua Bandhumà liền cho mời các vị Bàla-môn đoán tướng và nói: “Này các Hiền giả, hãy xem tướng cho Hoàng tử”. Này các Tỷ-kheo, khi
 xem tướng Hoàng tử Vipassì xong, các vị Bà-la-môn đoán tướng tâu với vua Bandhumà: “Ðại vương
@@ -416,6 +432,7 @@ ngang bằng bề dài của hai tay sải rộng, bề dài của hai tay sải
 
 “Ðại vương, Hoàng tử này có nhục kế trên đầu, tướng này được xem là tướng tốt của bậc Ðại nhân...
 
+<!--pg-->
 33\. “Ðại vương, Hoàng tử có đầy đủ ba mươi hai tướng tốt của bậc Ðại nhân, với ba mươi hai tướng tốt
 này, Hoàng tử sẽ chọn đi hai con đường, không có con đường nào khác. Nếu sống tại gia đình, Hoàng tử
 sẽ trở thành vua Chuyển luân Thánh vương, đem lại an toàn cho quốc độ, đầy đủ bảy món báu. Bảy món
@@ -424,6 +441,7 @@ là tướng quân báu. Vị này có đến hơn một ngàn thái tử, nhữ
 thù. Vị này chinh phục quả đất này cho đến hải biên và trị nước với chánh pháp, không dùng trượng,
 không dùng đao. Nếu Hoàng tử từ bỏ gia đình, xuất gia sống không gia đình, Hoàng tử sẽ thành bậc Ala-hán, Chánh Ðẳng Giác, vén lui màn vô minh che đời”.
 
+<!--pg-->
 Này các Tỷ-kheo, Vua Bandhumà ra lệnh cúng dường các vị Bà-la-môn đoán tướng ấy, các áo vải mới
 và làm thỏa mãn mọi sự đòi hỏi ước muốn.
 
@@ -459,6 +477,7 @@ vui với các nữ nhạc sĩ, và không một lần nào, Ngài bước xuố
 
 **Tụng Phẩm II**
 
+<!--pg-->
 1\. - Này các Tỷ-kheo, hoàng tử Vipassì, sau thời gian nhiều năm, nhiều trăm năm, nhiều ngàn năm, cho
 gọi người đánh xe: “Này khanh, hãy cho thắng các cỗ xe thù thắng, chúng ta sẽ đi đến vườn ngự uyển để
 xem phong cảnh” - “Thưa vâng, Hoàng Tử”. Này các Tỷ-kheo, người đánh xe vâng lời hoàng tử
@@ -494,6 +513,7 @@ vậy vừa rồi. Hãy cho đánh xe trở về cung”. - “Thưa vâng, Hoà
 Hoàng tử Vipassì, cho đánh xe trở về cung. Tâu Ðại vương, Hoàng tử trở về cung, đau khổ, sầu muộn và
 suy nghĩ. “Sỉ nhục thay, cái gọi là sanh. Và ai sanh ra cũng phải già yếu như vậy”.
 
+<!--pg-->
 4\. Này các Tỷ-kheo, khi ấy vua Bandhumà suy nghĩ: “Không thể để cho hoàng tử Vipassì từ chối không
 trị vì. Không thể để cho Hoàng tử Vipassì xuất gia. Không thể để cho lời của các vị Bà-la-môn đoán
 tướng trở thành sự thật”.
@@ -534,7 +554,8 @@ về cung”. - “Thưa vâng, Hoàng tử”. Con vâng theo lời Hoàng tử
 vương, Hoàng tử về trong cung, đau khổ, sầu muộn và suy nghĩ: “Sỉ nhục thay, cái gọi là sanh! Và ai
 sanh ra, cũng phải già, cũng phải bệnh!”.
 
-\- Này các Tỷ-kheo, khi ấy vua Bandhumà suy nghĩ: “Không thể để cho Hoàng tử Vipassì từ chối không
+<!--pg-->
+− Này các Tỷ-kheo, khi ấy vua Bandhumà suy nghĩ: “Không thể để cho Hoàng tử Vipassì từ chối không
 trị vì! Không thể để cho Hoàng tử Vipassì xuất gia! Không thể để cho lời của các vị Bà-la-môn đoán
 tướng trở thành sự thật”. Này các Tỷ-kheo, rồi vua Bandhuma, lại sắp đặt cho hoàng tử Vipassì đầy đủ
 năm món dục lạc nhiều hơn nữa, để hoàng tử Vipassì có thể trị vì, để hoàng tử Vipassì không thể xuất
@@ -594,11 +615,12 @@ Hãy cho đánh xe trở về cung”. - “Thưa vâng, Hoàng tử”. Con vâ
 xe trở về cung. Hoàng tử về trong cung đau khổ, sầu muộn và suy nghĩ: “Sỉ nhục thay cái gọi là sanh!
 Và ai sanh ra cũng phải già, cũng phải bệnh, cũng phải chết như vậy!”.
 
+<!--pg-->
 12\. Nay các Tỷ-kheo, khi ấy vua Bandhumà suy nghĩ: “Không thể để cho hoàng tử Vipassì từ chối
 không trị vì! Không thể để cho hoàng tử Vipassì xuất gia. Không thể để cho lời các vị Bà-la-môn đoán
 tướng trở thành sự thật”.
 
-\- Này các Tỷ-kheo, rồi vua Bandhumà lại sắp đặt cho hoàng tử Vipassì đầy đủ năm món dục lạc nhiều
+− Này các Tỷ-kheo, rồi vua Bandhumà lại sắp đặt cho hoàng tử Vipassì đầy đủ năm món dục lạc nhiều
 hơn nữa, để hoàng tử Vipassì có tể trị vì, để hoàng tử Vipassì không thể xuất gia, để cho lời các vị Bàla-môn đoán tướng không đúng sự thật. Và này các Tỷ-kheo, Hoàng tử Vipassì sống tận hưởng, đầy đủ,
 sung túc năm món dục lạc.
 
@@ -630,12 +652,14 @@ giả, lành thay hạnh xuất gia của Ngài, lành thay khéo tu phạm hạ
 nghiệp, khéo hành công đức nghiệp, khéo giữ không hại chúng sanh, khéo có lòng từ đối với chúng
 sanh”.
 
+<!--pg-->
 15\. Này các Tỷ-kheo, rồi hoàng tử Vipassì bảo người đánh xe: “Này khanh, hãy lấy xe này và cho đánh
 xe về cung. Còn Ta ở nơi đây, sẽ cạo bỏ râu tóc, đắp áo cà sa, xuất gia, từ bỏ gia đình, sống không gia
 đình”. - “Thưa vâng, Hoàng tử”. Người đánh xe vâng lời hoàng tử Vipassì lấy xe và đánh xe về cung.
 Còn hoàng tử Vipassì, chính tại chỗ ấy, cạo bỏ râu tóc, đắp áo cà sa, xuất gia từ bỏ gia đình, sống không
 gia đình.
 
+<!--pg-->
 16\. Này các Tỷ-kheo, lúc bấy giờ, tại kinh đô Bandhumatì có một đại chúng tám vạn bốn ngàn người
 nghe tin: “Hoàng tử Vipassì đã cạo bỏ râu tóc, đắp áo cà sa, xuất gia từ bỏ gia đình, sống không gia
 đình”. Khi nghe tin, các vị ấy suy nghĩ: “Pháp luật như vậy không phải tầm thường, xuất gia như vậy
@@ -652,6 +676,7 @@ bởi đồ chúng này. Tốt hơn là Ta sống một mình, lánh xa đồ ch
 Này các Tỷ-kheo, sau một thời gian Bồ-tát Vipassì sống một mình, lánh xa đồ chúng, tám vạn bốn ngàn
 vị xuất gia này đi một ngả, Bồ-tát Vipassì đi một ngả.
 
+<!--pg-->
 18\. Này các Tỷ-kheo, trong khi yên lặng tịnh cư tại chỗ thanh vắng, Bồ-tát Vipassì suy nghĩ: “Thế giới
 này thật rơi vào cảnh khổ não, phải sanh rồi già, rồi chết, rồi từ bỏ thế giới này để tái sanh thế giới khác.
 Không một ai biết một con đường giải thoát khỏi sự đau khổ này, thoát khỏi già và chết”.
@@ -765,6 +790,7 @@ tiêu trừ và Ngài được giải thoát.
 
 **_Tụng Phẩm III._**
 
+<!--pg-->
 1\. Này các Tỷ-kheo, Thế Tôn Vipassì, bậc A-la-hán, Chánh Ðẳng Giác liền suy nghĩ: “Nay Ta hãy
 thuyết pháp”.
 
@@ -777,9 +803,9 @@ hiểu Ta, thời như vậy thật khổ não cho Ta!”
 2\. Này các Tỷ-kheo, với Thế Tôn Vipassì, bậc A-la-hán, Chánh Ðẳng Giác, những bài kệ bất khả tư
 nghì, từ trước chưa từng được nghe, được khởi lên:
 
-_Sao nay Ta lại nói lên chánh pháp mà Ta đã chứng ngộ rất khó khăn?_
-_Pháp này khó mà chứng ngộ với những ai bị tham sân chi phối._
-_Những ai bị ái nhiễm và vô minh bao phủ rất khó thấy pháp này._
+_Sao nay Ta lại nói lên chánh pháp mà Ta đã chứng ngộ rất khó khăn?_\
+_Pháp này khó mà chứng ngộ với những ai bị tham sân chi phối._\
+_Những ai bị ái nhiễm và vô minh bao phủ rất khó thấy pháp này._\
 _Một pháp đi ngược dòng, vi diệu, thâm sâu, khó thấy, vi tế._
 
 Này các Tỷ-kheo, với những lời như vậy, suy tư trên vấn đề tâm của Thế Tôn Vipassì, bậc A-la-hán,
@@ -806,9 +832,9 @@ nay Ta thuyết pháp mà các người khác không hiểu Ta, thời như vậ
 thật khổ não cho Ta”. Này Phạm thiên, khi ấy những bài kệ bất khả tư nghì, từ trước chưa từng nghe
 khởi lên nơi Ta:
 
-_Sao nay Ta lại nói lên chánh pháp mà Ta đã chứng ngộ rất khó khăn?_
-_Pháp này khó mà chứng ngộ với những ai bị tham sân chi phối._
-_Những ai bị ái nhiễm và vô minh bao phủ rất khó mà thấy được pháp này._
+_Sao nay Ta lại nói lên chánh pháp mà Ta đã chứng ngộ rất khó khăn?_\
+_Pháp này khó mà chứng ngộ với những ai bị tham sân chi phối._\
+_Những ai bị ái nhiễm và vô minh bao phủ rất khó mà thấy được pháp này._\
 _Một pháp đi ngược dòng, vi diệu, thâm sâu, khó thấy, vi tế._
 
 Này Phạm thiên, với những lời như vậy, suy tư trên vấn đề, tâm của Ta hướng về vô vi thụ động, không
@@ -821,6 +847,7 @@ Giác: “Bạch Thế Tôn, hãy thuyết pháp! Bạch Thiên Thệ, hãy thuy
 bụi trần che phủ sẽ bị nguy hại nếu không được nghe chánh pháp, những vị này có thể thâm hiểu chánh
 pháp!”
 
+<!--pg-->
 Này các Tỷ-kheo, Thế Tôn Vipassì, bậc A-la-hán, Chánh Ðẳng Giác biết được lời khuyên thỉnh của vị
 Phạm Thiên, vì lòng từ bi đối với chúng sanh, nhìn đời với Phật nhãn. Này các Tỷ-kheo, Thế Tôn
 Vipassì, bậc A-la-hán, Chánh Ðẳng Giác nhìn đời với Phật nhãn, thấy có hạng chúng sanh nhiễm ít bụi
@@ -838,12 +865,12 @@ một số ít thấy sự nguy hiểm phải tính sanh thế giới khác và 
 7\. Rồi vị Ðại Phạm thiên, với tâm mình biết được tâm tư của Thế Tôn Vipassì, bậc A-la-hán, Chánh
 Ðẳng Giác, liền nói với Ngài, bài kệ sau đây:
 
-_Như con người đứng trên đỉnh núi nhìn quanh dân chúng phía dưới._
-_Cũng vậy Ngài Sumedha lên lầu chánh pháp, bậc biến nhãn, thoát ly sầu muộn._
-_Nhìn xuống quần chúng, âu lo sầu muộn bị sanh già áp bức._
-_Hãy đứng lên, bậc anh hùng, bậc chiến thắng ở chiến trường!_
-_Vị trưởng đoàn lữ khách, đấng thoát ly mọi nợ nần!_
-_Thế Tôn hãy đi khắp thế giới hoằng dương chánh pháp._
+_Như con người đứng trên đỉnh núi nhìn quanh dân chúng phía dưới._\
+_Cũng vậy Ngài Sumedha lên lầu chánh pháp, bậc biến nhãn, thoát ly sầu muộn._\
+_Nhìn xuống quần chúng, âu lo sầu muộn bị sanh già áp bức._\
+_Hãy đứng lên, bậc anh hùng, bậc chiến thắng ở chiến trường!_\
+_Vị trưởng đoàn lữ khách, đấng thoát ly mọi nợ nần!_\
+_Thế Tôn hãy đi khắp thế giới hoằng dương chánh pháp._\
 _Có người nhờ được nghe, sẽ thâm hiểu diệu nghĩa!_
 
 Này các Tỷ-kheo, rồi Thế Tôn Vipassì, bậc A-la-hán, Chánh Ðẳng Giác trả lời vị Ðại Phạm thiên với bài
@@ -858,6 +885,7 @@ Này các Tỷ-kheo, rồi vị Ðại Phạm thiên với ý nghĩ: “Ta đã 
 bậc A-la-hán, Chánh Ðẳng Giác thuyết pháp”, rồi đảnh lễ Thế Tôn, thân bên hữu hướng về Ngài và biến
 mất tại chỗ.
 
+<!--pg-->
 8\. Này các Tỷ-kheo, rồi Thế Tôn Vipassì, bậc A-la-hán, Chánh Ðẳng Giác suy nghĩ: “Ta thuyết pháp
 cho ai trước tiên? Ai sẽ mau hiểu chánh pháp này?”
 
@@ -885,6 +913,7 @@ Bandhumati, đi đến Lộc Uyển Khema, đi xe cho đến chỗ còn đi xe �
 Thế Tôn Vipassì, bậc A-la-hán, Chánh Ðẳng Giác. Khi đến nơi, hai vị này đảnh lễ Ngài và ngồi xuống
 một bên.
 
+<!--pg-->
 11\. Rồi Thế Tôn Vipassì, bậc A-la-hán, Chánh Ðẳng Giác thuận thứ thuyết pháp, thuyết về bố thí, thuyết
 về trì giới, thuyết về các cõi trời, trình bày sự nguy hiểm, sự hạ liệt, sự nhiễm ô của dục vọng, và sự lợi
 ích của xuất ly. Khi Thế Tôn biết được tâm trí của hai vị này đã thuần thục, nhu thuận, thoát ly triền cái,
@@ -909,6 +938,7 @@ hiểm, sự hạ liệt, sự nhiễm ô của các pháp hữu vi và sự l�
 Vipassì, bậc A-la-hán, Chánh Ðẳng Giác giảng dạy, khuyến khích, làm cho phấn khởi, làm cho hoan hỷ
 với pháp thoại, không bao lâu tâm trí không còn chấp thủ, được giải thoát khỏi các lậu hoặc.
 
+<!--pg-->
 14\. Này các Tỷ-kheo, trong khi kinh thành Bandhumatì có đại chúng khoảng tám vạn bốn ngàn vị được
 nghe: “Thế Tôn Vipassì, bậc A-la-hán, Chánh Ðẳng Giác đã đến kinh thành Bandhumatì và ở tại Lộc
 Uyển Khema. Vương tử Khanda và con vương sư Tissa đã cạo bỏ râu tóc, đắp áo cà-sa, xuất gia từ bỏ
@@ -946,6 +976,7 @@ sự nhiễm ô của các pháp hữu vi và sự lợi ích của Niết Bàn.
 A-la-hán, Chánh Ðẳng Giác giảng dạy, khuyến khích, làm cho phấn khởi, làm cho hoan kỷ với pháp
 thoại, không bao lâu tâm trí không còn chấp chủ, được giải thoát khỏi các lậu hoặc.
 
+<!--pg-->
 18\. Này các Tỷ-kheo, nay tám vạn bốn ngàn các vị xuất gia từ trước, được nghe: “Thế Tôn Vipassì, bậc
 A-la-hán, Chánh Ðẳng Giác đã đến kinh thành Bandhumatì, ở tại Lộc Uyển Khema và thuyết pháp”.
 Này các Tỷ-kheo, tám vạn bốn ngàn vị xuất gia này, đi đến Lộc Uyển Khema, chỗ Thế Tôn Vipassì, bậc
@@ -973,6 +1004,8 @@ Giác được thọ đại giới. Rồi Thế Tôn Vipassì, bậc A-la-hán, 
 khuyến khích, làm cho phấn khởi, làm cho hoan hỷ với pháp thoại, nêu rõ sự nguy hiểm, sự hạ liệt, sự
 nhiễm ô của các pháp hữu vi và sự lợi ích của Niết Bàn. Và những vị này nhờ Thế Tôn Vipassì, bậc Ala-hán, Chánh Ðẳng Giác giảng dạy, khuyến khích, làm cho phấn khởi, làm cho hoan hỷ với pháp thoại,
 không bao lâu tâm trí không còn chấp chủ, được giải thoát khỏi các lậu hoặc.
+
+<!--pg-->
 22\. Này các Tỷ-kheo, lúc bấy giờ đại chúng Tỷ-kheo khoảng sáu trăm tám mươi vạn vị trú tại kinh đô
 Bandhumatì, Này các Tỷ-kheo, Thế Tôn Vipassì, bậc A-la-hán, Chánh Ðẳng Giác, trong khi yên lặng
 tịnh cư đã suy nghĩ như sau: “Nay đại chúng Tỷ-kheo khoảng sáu trăm tám mươi vạn vị trú tại kinh
@@ -1000,10 +1033,11 @@ nguy hại. (Nếu được nghe), sẽ thâm hiểu chánh pháp”. Bạch Th�
 Này các Tỷ-kheo, Ðại Phạm thiên thuyết như vậy. Sau khi nói xong, vị này đảnh lễ Thế Tôn Vipassi,
 bậc A-la-hán, Chánh Ðẳng Giác, lưng bên hữu hướng về Ngài và biến mất tại chỗ.
 
+<!--pg-->
 24\. Này các Tỷ-kheo, rồi Thế Tôn Vipassi, bậc A-la-hán, Chánh Ðẳng Giác, vào buổi chiều xuất định
 đứng dậy và nói với các vị Tỷ-kheo:
 
-\- Này các Tỷ-kheo, trong khi Ta yên lặng tịnh cư tại chỗ thanh vắng, ý nghĩ sau đây khởi lên: “Nay đại
+− Này các Tỷ-kheo, trong khi Ta yên lặng tịnh cư tại chỗ thanh vắng, ý nghĩ sau đây khởi lên: “Nay đại
 chúng Tỷ-kheo khoảng sáu trăm tám mươi vạn vị trú tại kinh thành Bandhamatì. Sao Ta lại không
 khuyến dạy các Tỷ-kheo ấy: “Này các Tỷ-kheo, hãy đi cùng khắp vì hạnh phúc cho đại chúng, vì an lạc
 cho đại chúng, vì lòng thương tưởng cho đời, vì hạnh phúc, vì lợi ích, vì an lạc cho loài Người, loài
@@ -1037,6 +1071,7 @@ Bandhumatì để tụng đọc giới bổn”.
 
 Này các Tỷ-kheo, những Tỷ-kheo ấy, một phần lớn trong ngày ấy đã lên đường đi khắp quốc độ.
 
+<!--pg-->
 27\. Này các Tỷ-kheo, lúc bấy giờ tại Jambudìpa (Diêm phù đề) có tám vạn bốn ngàn túc xá. Khi một
 năm vừa mãn, chư Thiên tuyên bố: “Này Hiền giả, một năm vừa mãn, nay còn lại năm năm. Sau năm
 năm, hãy đến tại kinh đô Bandhamatì để tụng đọc giới bổn!”
@@ -1062,17 +1097,19 @@ trong ngày ấy đã đi đến kinh đô Bandhumatì để tụng đọc giớ
 28\. Này các Tỷ-kheo, Thế Tôn Vipassì, bậc A-la-hán, Chánh Ðẳng Giác, giữa chúng Tỷ-kheo, tụng đọc
 giới bổn này:
 
-_“Chư Phật dạy Niết-bàn là đệ nhất._
-_“Nhẫn nhục, khổ hạnh, kham nhẫn, là đệ nhất._
-_“Người xuất gia hại người xuất gia khác._
-_“Hại người khác như vậy không xứng gọi là Sa-môn._
+_“Chư Phật dạy Niết-bàn là đệ nhất._\
+_“Nhẫn nhục, khổ hạnh, kham nhẫn, là đệ nhất._\
+_“Người xuất gia hại người xuất gia khác._\
+_“Hại người khác như vậy không xứng gọi là Sa-môn._\
 
-_“Mọi điều ác không làm, hướng tâm các thiện nghiệp._
-_“Giữ tâm trí thanh tịnh, chính lời chư Phật dạy._
+_“Mọi điều ác không làm, hướng tâm các thiện nghiệp._\
+_“Giữ tâm trí thanh tịnh, chính lời chư Phật dạy._\
 
-_“Không chỉ trích, không đánh đập, giữ mình trong giới bổn._
-_“Ăn uống có tiết độ, ngủ nghỉ riêng một mình._
+_“Không chỉ trích, không đánh đập, giữ mình trong giới bổn._\
+_“Ăn uống có tiết độ, ngủ nghỉ riêng một mình._\
 _“Hướng tâm đến cao khiết, chính lời chư Phật dạy”._
+
+<!--pg-->
 29\. Này các Tỷ-kheo, một thời ta ở tại Ukkhattha (Úc-Già La), trong rừng Subhaga, dưới gốc cây ta-la
 vương. Này các Tỷ-kheo, trong khi Ta an lặng tịnh cư, tư tưởng sau đây khởi lên: “Có một trú xứ, một
 loại chúng sanh rất dễ đến mà Ta từ trước không đến ở trong một thời gian khá lâu! Ðó là chư Thiên
@@ -1113,6 +1150,7 @@ Kapilavatthu (Ca-tỳ-la-vệ). Này Hiền giả, Thế Tôn xuất thế tục
 tấn như thế này, giác ngộ như thế này, chuyển pháp luân như thế này. Này Hiền giả, chúng tôi là những
 người đã tu phạm hạnh với Thế Tôn, đã diệt trừ dục vọng và đã sanh ra tại chỗ này”.
 
+<!--pg-->
 31\. Này các Tỷ-kheo, rồi Ta cùng với chư Thiên Avihà (Vô Nhiệt thiên) đến chư Thiên Atappà (Vô
 Phiền thiên). Này các Tỷ-kheo, rồi cùng với chư Thiên Avihà và chư Thiên Atappà đến chư Thiên
 Sudassà (Thiện Kiến thiên). Này các Tỷ-kheo, rồi Ta cùng với chư Thiên Avihà, chư Thiên Atappà và

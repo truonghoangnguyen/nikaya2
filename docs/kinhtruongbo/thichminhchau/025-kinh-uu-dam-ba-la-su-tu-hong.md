@@ -24,7 +24,7 @@ trạng đại dương, câu chuyện về hiện hữu và không hiện hữu.
 
 3\. Dũ sĩ Nigrodha thấy gia chủ Sandhana từ đàng xa đến, liền dặn hội chúng của mình:
 
-\- Các Tôn giả hãy giữ im lặng, các Tôn giả chớ có làm ồn! Ðệ tử Sa môn Gotama, gia chủ Sandhana
+− Các Tôn giả hãy giữ im lặng, các Tôn giả chớ có làm ồn! Ðệ tử Sa môn Gotama, gia chủ Sandhana
 đang đi đến. Trong hàng đệ tử Sa môn Gotama, các hàng cư sĩ, mặc áo trắng, trú tại Vương Xá, gia chủ
 Sandhana là một vị trong đoàn thể ấy. Các vị này ưa sự an tịnh, các vị này được huấn luyện trong sự an
 tịnh, các vị này tán thán sự an tịnh. Nếu được biết hội chúng này an tịnh, Sandhana có thể đến đây.
@@ -34,14 +34,14 @@ Khi nghe nói vậy, các vị du sĩ đều giữ yên lặng.
 4\. Rồi gia chủ Sandhana đến tại chỗ của du sĩ Nigrodha, khi đến nơi, nói lên những lời chúc tụng, viếng
 thăm xã giao rồi ngồi với du sĩ Nigrodha:
 
-\- Thật sự khác thay, khi các Tôn giả ngoại đạo, các du sĩ này hội họp lại, quy tụ lại, ồn ào, cao giọng lớn
+− Thật sự khác thay, khi các Tôn giả ngoại đạo, các du sĩ này hội họp lại, quy tụ lại, ồn ào, cao giọng lớn
 tiếng, họ sống bàn cãi về những phiếm luận vô ích như câu chuyện về vua chúa... câu chuyện về sự hiện
 hữu và sự không hiện hữu. Thật sai khác thay, Thế Tôn an trú các nhàn tịnh xứ, núi rừng tịch mịch, xa
 vắng, ít tiếng động, có gió đồng thổi, lánh xa mắt người đời, thích hợp cho sự tịnh tu.
 
 5\. Khi nghe nói vậy, du sĩ Nigrodha nói với gia chủ Sandhana:
 
-\- Gia chủ có biết không? Sa môn Gotama luận đàm với ai? Ðối thoại với ai? Với ai đạt được tuệ trí? Trí
+− Gia chủ có biết không? Sa môn Gotama luận đàm với ai? Ðối thoại với ai? Với ai đạt được tuệ trí? Trí
 tuệ của Sa môn Gotama bị hư hoại vì sống với không xứ, Sa môn Gotama không giỏi điều khiển một hội
 chúng, không đủ sức để đối thoại, chỉ đề cập đến những vấn đề ngoại biên. Cũng như con bò một mắt, đi
 vòng tròn và chỉ đi phía bên ngoài. Cũng vậy, trí tuệ của Sa môn Gotama bị hư hoại vì sống với không
@@ -55,7 +55,7 @@ Nigrodha. Rồi Thế Tôn từ núi Gijjhakùtà bước xuống, đi đến v�
 sông Sumàgaghà, khi đến nơi liền đi qua lại giữa trời. Du sĩ Nigrodha thấy Thế Tôn đi qua lại giữa trời,
 tại vườn nuôi dưỡng chim khổng tước, trên bờ sông Sumàgadhà, khi thấy vậy liền dặn dò hội chúng:
 
-\- Các Tôn giả hãy giữ im lặng; các Tôn giả chớ có làm ồn; Sa môn Gotama này đang đi lại giữa trời, tại
+− Các Tôn giả hãy giữ im lặng; các Tôn giả chớ có làm ồn; Sa môn Gotama này đang đi lại giữa trời, tại
 vườn nuôi dưỡng chim khổng tước trên bờ sông Sumàgadhà. Vị tôn giả này ưa an tịnh, tán thán sự an
 tịnh, nếu biết được hội chúng này an tịnh, chúng tôi nghĩ, Sa môn Gotama có thể đến đây. Nếu Sa môn
 Gotama đến tại hội chúng này, chúng ta sẽ hỏi câu hỏi này: “Bạch Thế Tôn, Pháp gì là Pháp của Thế
@@ -64,26 +64,27 @@ Tôn? Với Pháp nào Thế Tôn muốn dạy các đệ tử, với Pháp nào
 
 Khi được nói vậy, các vị du sĩ ấy giữ im lặng.
 
+<!--pg-->
 7\. Lúc bấy giờ, Thế Tôn đến tại chỗ du sĩ Nigrodha ở. Và du sĩ Nigrodha nói với Thế Tôn như sau:
 
-\- Bạch Thế Tôn, Thế Tôn hãy đến đây; xin đón mừng Thế Tôn; bạch Thế Tôn, đã lâu Thế Tôn mới có
+− Bạch Thế Tôn, Thế Tôn hãy đến đây; xin đón mừng Thế Tôn; bạch Thế Tôn, đã lâu Thế Tôn mới có
 dịp đến đây; bạch Thế Tôn, xin mời Thế Tôn ngồi. Ðây là chỗ ngồi đã soạn sẵn.
 
 Thế Tồn ngồi xuống chỗ ngồi đã soạn sẵn. Du sĩ Nigrodha lấy một ghế ngồi thấp khác và ngồi xuống
 một bên. Thế Tôn nói với du sĩ Nigrodha đang ngồi xuống một bên:
 
-\- Này Nigrodha, Quí vị đang ngồi bàn luận vấn đề gì? Vấn để gì đang nói giữa quí vị thì bị dừng lại?
+− Này Nigrodha, Quí vị đang ngồi bàn luận vấn đề gì? Vấn để gì đang nói giữa quí vị thì bị dừng lại?
 
 Khi được nói vậy, du sĩ Nigrodha bạch Thế Tôn:
 
-\- Bạch Thế Tôn, ở đây chúng con thấy Thế Tôn đang đi qua lại, tại vườn nuôi dưỡng chim khổng tước,
+− Bạch Thế Tôn, ở đây chúng con thấy Thế Tôn đang đi qua lại, tại vườn nuôi dưỡng chim khổng tước,
 trên bờ sông Sumagadha. Khi thấy vậy, chúng con nói: “Nếu Sa môn Gotama đến tại hội chúng này,
 chúng ta sẽ hỏi câu hỏi:” Bạch Thế Tôn, Pháp gì là Pháp của Thế Tôn? Với Pháp nào Thế Tôn huấn dạy
 các đệ tử? Với Pháp nào các đệ tử Thế Tôn được huấn dạy, đạt đến tịnh lạc và xác nhận là căn bản phạm
 hạnh?” Bạch Thế Tôn, đó là vấn đề đang được bàn luận giữa chúng con, thì được dừng lại khi Thế Tôn
 đến.
 
-\- Này Nigrodha, thật khó cho Ngươi, khi Ngươi theo các kiến giải sai khác, kham nhẫn các sự việc sai
+− Này Nigrodha, thật khó cho Ngươi, khi Ngươi theo các kiến giải sai khác, kham nhẫn các sự việc sai
 khác, theo dõi những mục tiêu khác, theo đuổi những mục đích sai khác, được huấn luyện theo các
 phương pháp sai khác để hiểu được Pháp nào Ta huấn dạy các đệ tử của Ta, đạt đến tịnh lạc và xác nhận
 là căn bản phạm hạnh. Này Nigrodha, hãy hỏi về tối thắng khổ hạnh theo truyền thống của Ngươi:
@@ -95,9 +96,9 @@ luận giáo lý của người khác.”
 
 8\. Du sĩ Nigrodha bảo các du sĩ ấy im lặng rồi bạch Thế Tôn:
 
-\- Bạch Thế Tôn, chúng con sống thuyết giảng về khổ hạnh, xem khổ hạnh là căn bản, chấp trì khổ hạnh.
+− Bạch Thế Tôn, chúng con sống thuyết giảng về khổ hạnh, xem khổ hạnh là căn bản, chấp trì khổ hạnh.
 Bạch Thế Tôn, thế nào là sự thành tựu khổ hạnh? Thế nào là sự không thành tựu khổ hạnh?
-\- Này Nigrodha, ở đây có người tu khổ hạnh, sống lõa thể, sống phóng túng không theo lễ nghi, liếm tay
+− Này Nigrodha, ở đây có người tu khổ hạnh, sống lõa thể, sống phóng túng không theo lễ nghi, liếm tay
 cho sạch, đi khất thực không chịu bước tới, không nhận đồ ăn mang đến, không nhận đồ ăn đặc biệt nấu
 cho mình, không nhận lời mời đi ăn, không nhận đồ ăn tại ngưỡng cửa, không nhận đồ ăn đặt giữa
 những cây gậy, không nhận đồ ăn từ hai người đang ăn, không nhận đồ ăn từ người đàn bà có thai,
@@ -120,13 +121,14 @@ nằm ngủ một bên hông, sống để bụi và nhớp che kín thân mình
 không uống nước lạnh, sống một đêm tắm ba lần, theo hạnh xuống nước tắm. Này Nigrodha, Ngươi
 nghĩ thế nào? Như vậy có phải là thành tựu các pháp khổ hạnh hay không thành tựu?
 
-\- Bạch Thế Tôn, như vậy là thành tựu các pháp khổ hạnh, không phải không thành tựu.
+− Bạch Thế Tôn, như vậy là thành tựu các pháp khổ hạnh, không phải không thành tựu.
 
-\- Này Nigrodha, sự thành tựu khổ hạnh như vậy, Ta nói rằng sẽ đưa đến nhiều loại cấu uế.
+− Này Nigrodha, sự thành tựu khổ hạnh như vậy, Ta nói rằng sẽ đưa đến nhiều loại cấu uế.
 
-\- Bạch Thế Tôn, có phải Thế Tôn nói rằng sự thành tựu khổ hạnh như vậy sẽ đưa đến nhiều loại cấu uế?
+<!--pg-->
+− Bạch Thế Tôn, có phải Thế Tôn nói rằng sự thành tựu khổ hạnh như vậy sẽ đưa đến nhiều loại cấu uế?
 
-\- Này Nigrodha, ở đây một vị khổ hạnh siêng tu khổ hạnh. Nhờ tu khổ hạnh này, vị ấy hoan hỷ tâm tư
+− Này Nigrodha, ở đây một vị khổ hạnh siêng tu khổ hạnh. Nhờ tu khổ hạnh này, vị ấy hoan hỷ tâm tư
 thỏa mãn. Này Nigrodha, vị khổ hạnh do siêng tu khổ hạnh, phát sanh hoan hỷ, tâm tư thỏa mãn. Này
 Nigrodha, như vậy là cấu uế cho người khổ hạnh.
 
@@ -204,9 +206,10 @@ nghiệm tự thân, cứng đầu và khó giải thoát. Này Nigrodha, như v
 Này Nigrodha, Ngươi nghĩ thế nào? Sự thật là như vậy thì những khổ hạnh có phải là cấu uế hay không
 cấu uế?
 
-\- Bạch Thế Tôn, những khổ hạnh như vậy thật là cấu uế, không phải cấu uế. Sự tình này có thể xảy ra,
+− Bạch Thế Tôn, những khổ hạnh như vậy thật là cấu uế, không phải cấu uế. Sự tình này có thể xảy ra,
 có người khổ hạnh có đầy đủ tất cả sự cấu uế trên, nói gì đến câu có cấu uế này hay cấu uế khác.
 
+<!--pg-->
 13\. - Này Nigrodha, ở đây người khổ hạnh siêng tu khổ hạnh. Nhờ tu khổ hạnh này, vị ấy không hoan
 hỷ, tâm tư không thỏa mãn. Này Nigrodha người khổ hạnh, tu khổ hạnh này, vì khổ hạnh này, vị ấy
 không hoan hỷ, tâm tư không thỏa mãn. Như vậy vị ấy đưựoc thanh tịnh trong trường hợp này.
@@ -279,17 +282,18 @@ trong trường hợp này.
 Này Nigrodha, Ngươi nghĩ thế nào? Sự kiện là như vậy thì các khổ hạnh ấy là thanh tịnh hay không
 thanh tịnh?
 
-\- Bạch Thế Tôn, sự kiện là như vậy, thì các khổ hạnh ấy là thanh tịnh, không phải phải không thanh tịnh;
+− Bạch Thế Tôn, sự kiện là như vậy, thì các khổ hạnh ấy là thanh tịnh, không phải phải không thanh tịnh;
 các khổ hạnh ấy đạt đến tối thượng, đạt đến căn bản.
 
-\- Này Nigrodha, những khổ hạnh như vậy chưa đạt đến tối thượng, chưa đạt đến căn bản, chúng chỉ mới
+− Này Nigrodha, những khổ hạnh như vậy chưa đạt đến tối thượng, chưa đạt đến căn bản, chúng chỉ mới
 đạt đến vỏ bên ngoài mà thôi.
 
+<!--pg-->
 16\. - Bạch Thế Tôn, như thế nào các khổ hạnh đạt đến tối thượng và đạt đến căn bản? Bạch Thế Tôn,
 thật tốt đẹp thay, nếu Thế Tôn khiến cho các khổ hạnh của chúng con đạt đến tối thượng, đạt đến căn
 bản.
 
-\- Này Nigrodha, ở đây, có vị khổ hạnh tu bốn pháp chế ngự. Và này Nigrodha, thế nào là bốn pháp chế
+− Này Nigrodha, ở đây, có vị khổ hạnh tu bốn pháp chế ngự. Và này Nigrodha, thế nào là bốn pháp chế
 ngự? Này Nigrodha, vị khổ hạnh không có tự sát sanh, không có bảo người khác sát sanh, không có tùy
 hỷ sát sanh; không có lấy của không cho, không có khiến người khác lấy của không cho, không có tùy
 hỷ lấy của không cho, không có nói láo, không có khiến người khác nói láo, không có tán thán nói láo;
@@ -317,16 +321,17 @@ ngang, hết thảy phương xứ, cùng khắp vô biên giới, vị ấy an t
 đại vô biên, không hận, không sân. Này Nigrodha, Ngươi nghĩ thế nào? Sự kiện là như vậy, các khổ
 hạnh là thanh tịnh hay không thanh tịnh?
 
-\- Bạch Thế Tôn, sự kiện là như vậy, các khổ hạnh là thanh tịnh, không phải không thanh tịnh, đạt đến tối
+− Bạch Thế Tôn, sự kiện là như vậy, các khổ hạnh là thanh tịnh, không phải không thanh tịnh, đạt đến tối
 thượng và đạt đến căn bản.
 
-\- Này Nigrodha, các khổ hạnh như vậy chưa đạt đến tối thượng, chưa đạt đến căn bản, chỉ đạt đến ngoài
+− Này Nigrodha, các khổ hạnh như vậy chưa đạt đến tối thượng, chưa đạt đến căn bản, chỉ đạt đến ngoài
 vỏ thôi.
 
+<!--pg-->
 18\. - Bạch Thế Tôn, những khổ hạnh phải như thế nào mới đạt đến tối thượng và đạt đến căn bản? Lành
 thay, nếu Thế Tôn khiến cho các khổ hạnh của con đạt đến tối thượng và đạt đến căn bản.
 
-\- Này Nigrodha, ở đây một vị khổ hạnh sống chế ngự bởi bốn pháp chế ngự. Và như thế nào... như vậy,
+− Này Nigrodha, ở đây một vị khổ hạnh sống chế ngự bởi bốn pháp chế ngự. Và như thế nào... như vậy,
 này Nigrodha, vị khổ hạnh sống chế ngự bởi bốn pháp chế ngự. Này Nigrodha, do vị khổ hạnh tu hành
 bốn pháp chế ngự như vậy, sự khổ hạnh của vị ấy là như vậy, vị ấy tiến lên chớ không rơi xuống hạ
 phẩm. Vị ấy lựa một chỗ thanh vắng... Từ bỏ năm triền cái ấy, với trí tuệ làm cho các tâm cấu uế giảm
@@ -343,16 +348,18 @@ cùng với các nét đại cương và các chi tiết.
 Này Nigrodha, Ngươi nghĩ thế nào? Sự kiện là như vậy thì các khổ hạnh là thanh tịnh hay không thanh
 tịnh?
 
-\- Bạch Thế Tôn, sự kiện là như vậy, thì các khổ hạnh là thanh tịnh, không phải không thanh tịnh, và đạt
+− Bạch Thế Tôn, sự kiện là như vậy, thì các khổ hạnh là thanh tịnh, không phải không thanh tịnh, và đạt
 đến tối thượng, đạt đến căn bản.
-\- Này Nigrodha, các khổ hạnh như vậy chưa đạt đến tối thượng, chưa đạt đến căn bản, chúng chỉ đạt đến
+
+− Này Nigrodha, các khổ hạnh như vậy chưa đạt đến tối thượng, chưa đạt đến căn bản, chúng chỉ đạt đến
 phía gỗ xung quanh lõi mà thôi.
 
+<!--pg-->
 19\. - Bạch Thế Tôn, các khổ hạnh phải như thế nào mới đạt đến tối thượng và đạt đến căn bản? Bạch
 Thế Tôn, lành thay nếu Thế Tôn khiến cho các khổ hạnh của con đạt được tối thượng và đạt đến căn
 bản.
 
-\- Này Nigrodha, ở đây vị khổ hạnh sống chế ngự bởi bốn pháp chế ngự. Và thế nào... Như vậy, này
+− Này Nigrodha, ở đây vị khổ hạnh sống chế ngự bởi bốn pháp chế ngự. Và thế nào... Như vậy, này
 Nigrodha, vị khổ hạnh sống chế ngự bởi bốn pháp chế ngự, Này Nigrodha, do vị khổ hạnh tu hành bốn
 pháp chế ngự như vậy, vị ấy tiến lên chứ không rơi xuống hạ phẩm. Vị ấy lựa một chỗ thanh vắng... Tà
 bỏ năm triền cái ấy, với trí tuệ làm cho tâm cấu uế giảm thiểu, vị ấy an trú với tâm câu hữu với từ... Vị
@@ -372,10 +379,10 @@ cao sang, người đẹp đẽ, kẻ thô xấu, người may mắn, kẻ bất
 Này Nigrodha, Ngươi nghĩ thế nào? Nếu sự kiện là như vậy, các khổ hạnh là thanh tịnh hay không thanh
 tịnh?
 
-\- Bạch Thế Tôn, sự kiện là như vậy, các khổ hạnh là thanh tịnh, không phải không thanh tịnh, đạt đến tối
+− Bạch Thế Tôn, sự kiện là như vậy, các khổ hạnh là thanh tịnh, không phải không thanh tịnh, đạt đến tối
 thượng, đạt đến căn bản.
 
-\- Này Nigrodha, các khổ hạnh như vậy đạt đến tối thượng và đạt đến căn bản. Này Nigrodha, như Ngươi
+− Này Nigrodha, các khổ hạnh như vậy đạt đến tối thượng và đạt đến căn bản. Này Nigrodha, như Ngươi
 hỏi Ta: “Bạch Thế Tôn, Pháp gì là Pháp của Thế Tôn? Với Pháp nào, Thế Tôn muốn dạy các đệ tử? Với
 Pháp nào các đệ tử của Thế Tôn được huấn dạy, đạt đến tịnh lạc và xác nhận là căn bản phạm hạnh?”
 Này Nigrodha, Ta nói rằng thật là một vấn đề cao thượng hơn và thuần nhất hơn mà Ta huấn dạy các đệ
@@ -383,13 +390,14 @@ tử, đạt đến tịnh lạc và xác nhận là căn bản phạm hạnh.
 
 Khi được nghe nói vậy, các du sĩ ngoại đạo ấy lớn tiếng cao giọng ồn ào nói lớn:
 
-\- Ở đây, các Tôn sư của chúng hoàn toàn bất lực. Chúng ta không biết gì tốt hơn và cao hơn lời dạy của
+− Ở đây, các Tôn sư của chúng hoàn toàn bất lực. Chúng ta không biết gì tốt hơn và cao hơn lời dạy của
 họ.
 
+<!--pg-->
 20\. Khi gia chủ Sandhàna biết được: “Nay các du sĩ ngoại đạo ấy đã bất đầu nghe, đã bắt đầu để tai, đã
 bắt đầu chú tâm vào lời Thế Tôn dạy”, liền nói với du sĩ Nigrodha:
 
-\- Này Tôn giả Nigrodha, Tôn giả nói với tôi như sau: “Gia chủ có biết không? Sa môn Gotama luận đàm
+− Này Tôn giả Nigrodha, Tôn giả nói với tôi như sau: “Gia chủ có biết không? Sa môn Gotama luận đàm
 với ai. Ðối thoại với ai? Với ai đạt được tuệ trí? Trí tuệ của Sa môn Gotama bị hư hoại vì sống với
 không xứ, Sa môn Gotama không giỏi để điều khiển một hội chúng, không đủ sức để đối thoại, chỉ đề
 cập đến những vấn đề ngoại biên. Cũng như con bò một mắt, đi vòng tròn và chỉ đi phía bên ngoài.
@@ -406,11 +414,11 @@ Khi nghe nói vậy, du sĩ Nigrodha ngồi im lặng, ủ rũ, vai sụp xuốn
 21\. Thế Tôn khi biết được du sĩ Nigrodha im lặng, ủ rũ, vai sụp xuống, gục đầu, ưu tư, câm miệng như
 vậy, liền nói với du sĩ Nigrodha:
 
-\- Này Nigrodha, có phải Ngươi nói như vậy chăng?
+− Này Nigrodha, có phải Ngươi nói như vậy chăng?
 
-\- Bạch Thế Tôn, thật sự con có nói như vậy, thật là ngu ngốc, si ám và bất thiện.
+− Bạch Thế Tôn, thật sự con có nói như vậy, thật là ngu ngốc, si ám và bất thiện.
 
-\- Này Nigrodha, Ngươi nghĩ thế nào? Ngươi có bao giờ nghe các vị du sĩ niên cao, trưởng thượng, bậc
+− Này Nigrodha, Ngươi nghĩ thế nào? Ngươi có bao giờ nghe các vị du sĩ niên cao, trưởng thượng, bậc
 Tổ sư truyền thống nói như sau: “Các vị A la hán, Chánh Ðẳng Giác trong thời quá khứ, các vị Thế Tôn
 này khi nào hội họp lại, quy tụ lại, ồn ào, cao giọng, lớn tiếng, chung sống bàn cãi về những phiếm luận
 vô ích, như câu chuyện về vua chúa, câu chuyện về ăn trộm... câu chuyện về hiện hữu và không hiện
@@ -418,25 +426,26 @@ hữu, như Ngươi và Sư trưởng của Ngươi hiện nay đang làm? Hay l
 nhàn tịnh xứ, núi rừng tịch mịch, xa vắng, ít tiếng, ít động, có gió đồng thổi, lánh xa mắt của người đời,
 thích hợp cho sự tĩnh tu, như hiện Ta đang sống chăng?
 
-\- Bạch Thế Tôn, con được nghe các vị du sĩ niên cao, trưởng thượng, bậc Tổ sư truyền thống nói như
+− Bạch Thế Tôn, con được nghe các vị du sĩ niên cao, trưởng thượng, bậc Tổ sư truyền thống nói như
 sau: “Các vị A la hán, Chánh Ðẳng Giác, trong quá khứ, các vị Thế Tôn này khi nào hội họp lại, quy tụ
 lại, thời không ồn ào, cao giọng, lớn tiếng, chung sống bàn cãi về những phiếm luận vô ích, như câu
 chuyện về vua chúa... câu chuyện về hiện hữu và không hiện hữu”, như con và Sư trưởng của con đang
 làm. Những bậc Thế Tôn ấy an trú các nhàn tịnh xứ, núi rừng tịch mịch, xa vắng, ít tiếng, ít động, có gió
 đồng thổt, lánh xa mắt của người đời, thích hợp cho sự tịnh tu, như hiện nay Thế Tôn đang sống.
 
-\- Này Nigrodha, Ngươi là bậc có trí và niên trưởng, có bao giờ Ngươi suy nghĩ như sau: “Ðức Phật, bậc
+− Này Nigrodha, Ngươi là bậc có trí và niên trưởng, có bao giờ Ngươi suy nghĩ như sau: “Ðức Phật, bậc
 Giác Ngộ, thuyết giảng giáo pháp đưa đến giác ngộ; Thế Tôn là vị đã điều phục, thuyết giảng giáo pháp
 đưa đến sự điều phục; Thế Tôn bậc An Chỉ, thuyết giảng giáo pháp đưa đến An Chỉ; Thế Tôn là bậc đến
 bờ bên kia, thuyết giảng giáo pháp đưa đến bờ bên kia; Thế Tôn bậc Tịnh Lạc, thuyết giảng giáo pháp
 đưa đến sự tịnh lạc.
 
+<!--pg-->
 22\. Khi nghe nói vậy, du sĩ Nigrodha, bạch Thế Tôn:
 
-\- Bạch Thế Tôn, con đã phạm tội một cách ngu si, mờ ám, bất thiện, khi con nói về Thế Tôn như vậy.
+− Bạch Thế Tôn, con đã phạm tội một cách ngu si, mờ ám, bất thiện, khi con nói về Thế Tôn như vậy.
 Bạch Thế Tôn, mong Thế Tôn chấp thuận cho tội ấy là phạm tội, để con ngăn ngừa về sau.
 
-\- Này Nigrodha, thật sự Ngươi đã phạm tội một cách ngu sĩ, mờ ám, bất thiện, khi Ngươi nói về Ta như
+− Này Nigrodha, thật sự Ngươi đã phạm tội một cách ngu sĩ, mờ ám, bất thiện, khi Ngươi nói về Ta như
 vậy. Này Nigrodha, khi Ngươi đã thấy phạm tội là phạm tội và phát lộ đúng với hành động, Ta chấp
 nhận tội của Ngươi. Này Nigrodha, như vậy là thông lệ giới luật của bậc Thánh, là ai thấy phạm tội là
 phạm tội và phát lộ đúng với hành động, thời tương lai sẽ được ngăn ngừa. Này Nigrodha, Ta nói cho

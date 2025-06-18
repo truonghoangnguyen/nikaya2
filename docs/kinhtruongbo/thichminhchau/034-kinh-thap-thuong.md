@@ -1,20 +1,21 @@
 # 34. KINH THẬP THƯỢNG
-**_(Dasuttara Sutta)_**
+_**(Dasuttara Sutta)**_
 
 ## Như vầy tôi nghe.
 
-**Tụng Phẩm I**
+## Tụng Phẩm I
 
 1.Một thời Thế Tôn trú tại Campa (Chiêm-bà) trên bờ hồ Gaggara (Già-già), cùng với đại chúng Tỷ
 kheo khoảng năm trăm vị. Rồi tôn giả Sàriputta bảo các vị Tỳ kheo: “Này các Hiền giả Tỷ kheo”. “Thưa
 Hiền giả” các vị Tỷ kheo ấy đáp ứng tôn giả Sàriputta, tôn giả Sàriputta nói như sau:
 
-_Tôi nói Thập thượng pháp,_
-_Pháp đưa đến Niết-bàn,_
-_Diệt trừ mọi khổ đau,_
+_Tôi nói Thập thượng pháp,_\
+_Pháp đưa đến Niết-bàn,_\
+_Diệt trừ mọi khổ đau,_\
 _Giải thoát mọi triền phược._
 
-**Một pháp**
+<!--pg-->
+## Một pháp
 
 2\. Này các Hiền giả, một pháp có nhiều tác dụng, một pháp cần phải tu tập, một pháp cần phải biến tri,
 một pháp cần phải đoạn trừ, một pháp chịu phần tai hại, một pháp đưa đến thù thắng, một pháp rất khó
@@ -26,6 +27,7 @@ pháp có nhiều tác dụng.
 ii) Thế nào là một pháp cần được tu tập? Niệm thân câu hữu với khả ý. Ðó là một pháp cần
 được tu tập.
 
+<!--pg-->
 iii) Thế nào là một pháp cần phải biến tri? Xúc hữu lậu hữu thủ. Ðó là một pháp cần phải
 biến tri.
 
@@ -52,7 +54,8 @@ x) Thế nào là một pháp cần được tác chứng? Bất động tâm gi
 Như vậy, mười pháp này là thực, chân, như thị, không phải không như thị, không thể sai khác, được
 Như Lai giác ngộ, chánh đẳng chánh giác.
 
-**Hai pháp**
+<!--pg-->
+## Hai pháp
 
 3\. Có hai pháp có nhiều tác dụng, có hai pháp cần phải tu tập, có hai pháp cần phải biến tri, có hai pháp
 cần phải đoạn trừ, có hai pháp chịu phần tai hại, có hai pháp đưa đến thù thắng, hai pháp rất khó thể
@@ -71,7 +74,8 @@ iv) Thế nào là hai pháp cần phải đoạn trừ? Vô minh và hữu ái.
 v) Thế nào là hai pháp chịu phần tai hại? Ác ngôn và ác hữu. Ðó là hai pháp chịu phần tai
 hại.
 
-vi) _Thế nào là hai pháp hướng đến thù thắng? Thiện ngôn và thiện hữu. Ðó là hai pháp_
+<!--pg-->
+vi) Thế nào là hai pháp hướng đến thù thắng? Thiện ngôn và thiện hữu. Ðó là hai pháp
 hướng đến thù thắng.
 
 vii) Thế nào là hai pháp rất khó thể nhập? Nhơn và duyên làm ác nhiễm các loài hữu tình.
@@ -89,7 +93,8 @@ tác chứng.
 Như vậy hai mươi pháp này là thực, chân, như thị, không phải không như thị, không thể sai khác, được
 Như Lai giác ngộ, chánh đẳng chánh giác.
 
-**Ba pháp**
+<!--pg-->
+## Ba pháp
 
 4\. Có ba pháp có nhiều tác dụng, có ba pháp cần phải tu tập, có ba pháp cần phải biến tri, có ba pháp cần
 phải đoạn trừ, có ba pháp chịu phần tai hại, có ba pháp đưa đến thù thắng, có ba pháp rất khó thể nhập,
@@ -97,6 +102,7 @@ có ba pháp cần được sanh khởi, có ba pháp cần được thắng tri
 
 i) Thế nào là ba pháp có nhiều tác dụng? Giao thiệp với thiện nhân, nghe diệu pháp, hành
 trì pháp và tùy pháp. Ðó là ba pháp có nhiều tác dụng.
+
 ii) Thế nào là ba pháp cần phải tu tập? Ba định: Hữu tầm hữu tứ định, vô tầm hữu tứ định,
 vô tầm vô tứ định. Ðó là ba pháp cần phải tu tập.
 
@@ -106,6 +112,7 @@ là ba pháp cần phải biến tri.
 iv) Thế nào là ba pháp cần phải đoạn trừ? Ba ái: Dục ái, hữu ái, phi hữu ái. Ðó là ba pháp
 cần phải đoạn trừ.
 
+<!--pg-->
 v) Thế nào là ba pháp chịu phần tai hại? Ba bất thiện căn: Tham bất thiện căn, sân bất thiện
 căn, si thiện căn. Ðó là ba pháp chịu phần tai hại.
 
@@ -128,7 +135,8 @@ diệt trí minh, chư Lậu tận trí minh. Ðó là ba pháp cần được t
 Như vậy ba mươi pháp này là thực, chân, như thị, không phải không như thị, không thể sai khác, được
 Như Lai giác ngộ, chánh đẳng chánh giác.
 
-**Bốn pháp**
+<!--pg-->
+## Bốn pháp
 
 5\. Có bốn pháp có nhiều tác dụng, có bốn pháp cần phải tu tập, có bốn pháp cần phải biến tri, có bốn
 pháp cần phải đoạn trừ, có bốn pháp chịu phần tai hại, có bốn pháp đưa đến thù thắng, có bốn pháp rất
@@ -146,9 +154,11 @@ chánh niệm, để diệt trừ tham sân ở đời. Ðó là bốn pháp c�
 iii) Thế nào là bốn pháp cần phải biến tri? Bốn thực: Ðoàn thực loại cứng hay loại mềm,
 xúc thực là thứ hai, tư niệm thực là thứ ba, thức thực là thứ tư. Ðó là bốn pháp cần phải biến
 tri.
+
 iv) Thế nào là bốn pháp cần phải đoạn trừ? Bốn bộc lưu: Dục bộc lưu, hữu bộc lưu, kiến
 bộc lưu, vô minh bộ lưu. Ðó là bốn pháp cần phải đoạn trừ.
 
+<!--pg-->
 v) Thế nào là bốn pháp chịu phần tai hại? Bốn ách: Dục ách, hữu ách, kiến ách, vô minh
 ách. Ðó là bốn pháp chịu phần tai hại.
 
@@ -170,7 +180,8 @@ Bất lai quả, A-la-hán quả. Ðó là bốn pháp cần được tác chứ
 Như vậy là bốn mươi pháp chân, thực, như thị, không phải không như thị, không phải sai khác, được
 Như Lai giác ngộ, chánh đẳng chánh giác.
 
-**Năm pháp**
+<!--pg-->
+## Năm pháp
 
 6\. Có năm pháp có nhiều tác dụng, có năm pháp cần phải tu tập, có năm pháp cần phải biến tri, có năm
 pháp cần phải đoạn trừ, có năm pháp chịu phần tai hại, có năm pháp đưa đến thù thắng, có năm pháp rất
@@ -198,6 +209,7 @@ iv) Thế nào là năm pháp cần phải đoạn trừ? Năm triền cái: Tha
 cái, thụy miên hôn trầm triền cái, trạo cử hối quá triền cái, nghi triền cái. Ðó là năm pháp
 cần phải đoạn trừ.
 
+<!--pg-->
 v) Thế nào là năm pháp chịu phần tai hại? Năm tâm hoang vu. Này các Hiền giả, ở đây vị
 Tỷ kheo nghi ngờ, do dự, không quyết đoán, không có thỏa mãn đối với vị Ðạo Sư. Này các
 Hiền giả, vị Tỷ kheo nào nghi ngờ, do dự, không quyết đoán, không có thỏa mãn đối với vị
@@ -260,6 +272,7 @@ không cần nhắc bảo, không bị chống đối, không bị thất bại�
 với chánh niệm nhập định này, và với chánh niệm xuất định này”, tự mình khởi trí như vậy.
 Ðó là năm pháp cần được sanh khởi.
 
+<!--pg-->
 ix) Thế nào là năm pháp cần được thắng tri? Năm giải thoát xứ. Này các Hiền giả, ở đây vị
 Tỷ kheo, khi nghe bậc Ðạo Sư, hay một vị đồng phạm hạnh đáng kính nào thuyết pháp. Này
 các Hiền giả, khi vị Tỷ kheo nghe bậc Ðạo Sư hay một vị đồng phạm hạnh đáng kính nào
@@ -315,7 +328,8 @@ giải thoát uẩn, giải thoát tri kiến uẩn. Ðó là năm pháp cần �
 Như vậy năm mươi pháp này là thực, chân, như thị, không phải không như thị, không thể sai khác, được
 Như Lai giác ngộ, chánh đẳng chánh giác.
 
-**Sáu pháp**
+<!--pg-->
+## Sáu pháp
 
 7\. Có sáu pháp có nhiều tác dụng, có sáu pháp cần phải tu tập, có sáu pháp cần phải biến tri, có sáu pháp
 cần phải đoạn trừ, có sáu pháp chịu phần tai hại, có sáu pháp đưa đến thù thắng, có sáu pháp rất khó thể
@@ -362,6 +376,7 @@ xứ, ý xứ. Ðó là sáu pháp cần phải biến tri.
 iv) Thế nào là sáu pháp cần phải đoạn trừ? Sáu ái thân: Sắc ái, thanh ái, hương ái, vị ái,
 xúc ái, pháp ái. Ðó là sáu pháp cần phải đoạn trừ.
 
+<!--pg-->
 v) Thế nào là sáu pháp chịu phần tai hại? Sáu bất cung kính pháp. Này các Hiền giả, ở đây
 vị Tỷ kheo sống không cung kính, chống đối bậc Ðạo Sư, chống đối với Pháp... chống đối
 với Tăng... chống đối với học pháp... chống đối với bất phóng dật... Sống không cung kính,
@@ -433,6 +448,7 @@ dự nghi ngờ được giải thoát.
 
 Ðó là sáu pháp rất khó thể nhập.
 
+<!--pg-->
 viii) Thế nào là sáu pháp cần phải sanh khởi? Sáu hằng trú pháp. Này các Hiền giả, ở đây
 vị Tỷ kheo mắt thấy sắc không có hoan hỷ, không có ưu phiền, an trú xả, chánh niệm tinh
 giác; tai nghe tiếng... mũi ngửi hương... lưỡi niếm vị... thân cảm xúc... ý nhận thức pháp
@@ -456,7 +472,8 @@ trú vô lậu Tâm giải thoát, Tuệ giải thoát. Ðó là sáu pháp cầ
 Như vậy sáu mươi pháp này là chân, thực, như thị, không phải không như thị, không có sai khác, được
 Như Lai giác ngộ, chánh đẳng chánh giác.
 
-**Bảy pháp**
+<!--pg-->
+## Bảy pháp
 
 8\. Có bảy pháp có nhiều tác dụng, có bảy pháp cần phải tu tập, có bảy pháp cần phải biến tri, có bảy
 pháp cần phải đoạn trừ, có bảy pháp chịu phần tai hại, có bảy pháp đưa đến thù thắng, có bảy pháp rất
@@ -487,13 +504,15 @@ loại thức trú thứ bảy.
 
 Ðó là bảy pháp cần được biến tri.
 
-iv) _Thế nào là bảy pháp cần được đoạn trừ? Bảy tùy miên: Tham dục tùy miên, sân tùy_
+iv) Thế nào là bảy pháp cần được đoạn trừ? Bảy tùy miên: Tham dục tùy miên, sân tùy
 miên, kiến tùy miên, nghi tùy miên, mạn tùy miên, hữu tham tùy miên, vô minh tùy miên.
 Ðó là bảy pháp cần phải đoạn trừ.
 
+<!--pg-->
 v) Thế nào là bảy pháp chịu phần tai hại? Bảy phi diệu pháp. Này các Hiền giả, ở đây, có
 vị Tỷ kheo bất tín, vô tàm, vô quý, thiểu văn, giải đãi, thất niệm, ác tuệ. Như vậy là bảy
 pháp chịu phần tai hại.
+
 vi) Thế nào là bảy pháp hướng đến thù thắng? Bảy diệu pháp. Này các Hiền giả, ở đây, có
 vị Tỷ kheo có lòng tin, có tàm, có quý, đa văn, tinh cần, niệm hiện tiền, có trí tuệ. Như vậy
 là bảy pháp hướng đến thù thắng.
@@ -547,9 +566,10 @@ tập, như vậy là sức mạnh của vị Lậu tận Tỷ kheo. Nhờ sức
 Như vậy là bảy pháp cần được tu chứng. Như vậy bảy mươi pháp này là chơn, thực như thị, không phải
 không như thị, không phải sai khác, được Như Lai giác ngộ, chánh đẳng chánh giác.
 
-**Tụng Phẩm II**
+<!--pg-->
+## Tụng Phẩm II
 
-**Tám pháp**
+## Tám pháp
 
 1\. Có tám pháp có nhiều tác dụng, có tám pháp cần phải tu tập, có tám pháp cần phải biến tri, có tám
 pháp cần phải đoạn trừ, có tám pháp chịu phần tai hại, có tám pháp đưa đến thù thắng, có tám pháp rất
@@ -610,13 +630,14 @@ ii) Thế nào là tám pháp cần phải tu tập? Bát Thánh đạo: Chánh 
 ngữ, Chánh nghiệp, Chánh mạng, Chánh tinh tấn, Chánh niệm, Chánh định. Ðây là tám
 pháp cần phải tu tập.
 
-iii) _Thế nào là tám pháp cần phải biến tri? Tám thế pháp: Ðắc và không đắc, không có_
+iii) Thế nào là tám pháp cần phải biến tri? Tám thế pháp: Ðắc và không đắc, không có
 thanh danh và có thanh danh, chê và khen, lạc và khổ. Như vậy là tám pháp cần phải biến
 tri.
 
 iv) Thế nào tám pháp cần được đoạn trừ? Tám tà: Tà kiến, tà tư duy, tà ngữ, tà nghiệp, tà
 mạng, tà tinh tấn, tà miệm, tà định. Như vậy là tám pháp cần phải đoạn trừ.
 
+<!--pg-->
 v) Thế nào là tám pháp chịu phần tai hại? Tám giải đãi sự. Này các Hiền giả, ở đây có việc
 vị Tỷ kheo phải làm. Vị này nghĩ: “Có công việc ta sẽ phải làm. Nếu ta làm việc, thời thân
 ta sẽ mệt mỏi. Vậy ta nên nằm xuống”. Vị ấy nằm xuống, không có tinh tấn để đạt được
@@ -744,7 +765,8 @@ không ngu si, không điếc ngọng, biết nghĩa lý được khéo nói hay
 hạnh trú, bất thời bất tiết thứ tám.
 
 Như vậy là tám pháp rất khó thể nhập.
-viii) _Thế nào là tám pháp cần được sanh khởi? Tám Ðại nhân tầm: Pháp này cho người_
+
+viii) Thế nào là tám pháp cần được sanh khởi? Tám Ðại nhân tầm: Pháp này cho người
 thiểu dục, pháp này không phải cho người đa dục; pháp này cho người tri túc, pháp này
 không phải cho người không tri túc; pháp này cho người an tịnh độc cư, pháp này không
 phải cho người ưa tụ hội; pháp này cho người siêng năng tinh tấn, pháp này không phải cho
@@ -754,6 +776,7 @@ tâm; pháp này cho người có trí tuệ, pháp này không phải cho ngư�
 người không ưa thích lý luận, pháp này không phải cho người ưa thích lý luận. Như vậy là
 tám pháp cần được sanh khởi.
 
+<!--pg-->
 ix) Thế nào là tám pháp cần được thắng tri? Tám thắng xứ. Một vị quán tưởng nội sắc, thấy
 các loại ngoại sắc có hạn lượng, đẹp, xấu. Vị ấy nhận thức rằng: “Sau khi nhiếp thắng
 chúng, ta biết, ta thấy”, đó là thắng xứ thứ nhất.
@@ -828,9 +851,10 @@ Như vậy là tám pháp cần được chứng ngộ.
 Như vậy tám mươi pháp này là chơn, thực, như thị, không phải không như thị, không phải sai khác,
 được Như Lai giác ngộ, chánh đẳng chánh giác.
 
-**Chín pháp**
+<!--pg-->
+## Chín pháp
 
-2) Có chín pháp có nhiều tác dụng, có chín pháp cần phải tu tập, có chín pháp cần phải biến tri, có chín
+2\) Có chín pháp có nhiều tác dụng, có chín pháp cần phải tu tập, có chín pháp cần phải biến tri, có chín
 pháp cần phải đoạn trừ, có chín pháp chịu phần tai hại, có chín pháp đưa đến thù thắng, có chín pháp rất
 khó thể nhập, có chín pháp cần được sanh khởi, có chín pháp cần được thắng tri, có chín pháp cần được
 chứng ngộ.
@@ -841,7 +865,7 @@ lạc, thọ sanh; do lạc thọ, tâm được định tỉnh; do tâm định
 như chân; do biết, nhờ thấy như chơn, yểm ly sanh; do yểm ly, ly dục sanh; do ly dục, vị ấy
 được giải thoát. Như vậy là chín pháp có nhiều tác dụng.
 
-ii) _Thế nào là chín pháp cần phải tu tập? Chín thanh tịnh cần chi: Giới hạnh thanh tịnh_
+ii) Thế nào là chín pháp cần phải tu tập? Chín thanh tịnh cần chi: Giới hạnh thanh tịnh
 thanh tịnh cần chi, tâm thanh tịnh thanh tịnh cần chi, kiến thanh tịnh thanh tịnh cần chi,
 đoạn nghi thanh tịnh thanh tịnh cần chi, đạo phi đạo tri kiến thanh tịnh thanh tịnh cần chi, tri
 kiến thanh tịnh thanh tịnh cần chi, tuệ thanh tịnh thanh tịnh cần chi, giải thoát thanh tịnh
@@ -874,6 +898,7 @@ chấp trì, xan tham sanh; do duyên xam tham; hộ trì sanh; do duyên hộ t
 kiến, tránh tụng, tranh luận, tương phản, ly gián ngữ, vọng ngôn, và các ác bất thiện pháp
 khai sanh. Như vậy là chín pháp cần phải đoạn trừ.
 
+<!--pg-->
 v) Thế nào là chín pháp chịu phần tai hại? Chín hại tâm. “Người ấy đã làm hại tôi”, xung
 đột khởi lên. “Người ấy đang làm hại tôi”, xung đột khởi lên. “Người ấy sẽ làm hại tôi”,
 xung đột khởi lên.
@@ -935,9 +960,10 @@ Như vậy là chín pháp cần được chứng ngộ.
 Như vậy là chín mươi pháp này là chơn, thực, như thị, không phải không như thị, không phải sai khác,
 được Như Lai giác ngộ, chánh đẳng chánh giác.
 
-**Mười pháp**
+<!--pg-->
+## Mười pháp
 
-3) Có mười pháp có nhiều tác dụng, có mười pháp cần phải tu tập, có mười pháp cần phải biến tri, có
+3\) Có mười pháp có nhiều tác dụng, có mười pháp cần phải tu tập, có mười pháp cần phải biến tri, có
 mười pháp cần phải đoạn trừ, có mười pháp chịu phần tai hại, có mười pháp đưa đến thù thắng, có mười
 pháp rất khó thể nhập, có mười pháp cần được sanh khởi, có mười pháp cần được thắng tri, có mười
 pháp cần được tác chứng.
@@ -993,6 +1019,7 @@ trạch các bậc Thánh, chơn chánh diệt trừ mọi đau khổ. Này các
 huệ trí... chơi chánh diệt trừ mọi đau khổ. Pháp như vậy là hộ trì nhân.
 
 Như vậy là mười pháp có nhiều tác dụng.
+
 ii) Thế nào là mười pháp cần phải tu tập? Mười biến xứ. Một vị nào biết được địa biến xứ:
 trên, dưới, ngang, bất nhị, vô lượng. Một vị biết được thủy biến... Một vị biết được hỏa
 biến... Một vị biết được phong biến... Một vị biết được thanh biến... Một vị biết được hoàng
@@ -1007,11 +1034,12 @@ iv) Thế nào là mười pháp cần phải đoạn trừ? Mười tà pháp: 
 nghiệp, tà mạng, tà tinh tấn, tà niệm, tà định, tà trí, tà giải thoát. Như vậy là mười pháp cần
 được đoạn trừ.
 
+<!--pg-->
 v) Thế nào là mười pháp chịu phần tai hại? Mười bất thiện nghiệp đạo: Sát sanh, thâu đạo,
 tà dâm, vọng ngôn, lưỡng thiệt, ác khẩu, ỷ ngữ, tham, sân, tà kiến. Như vậy là mười pháp
 chịu phần tai hại.
 
-vi) _Thế nào là mười pháp hướng đến thù thắng? Mười thiện nghiệp đạo: Ly sát sanh, ly_
+vi) Thế nào là mười pháp hướng đến thù thắng? Mười thiện nghiệp đạo: Ly sát sanh, ly
 thâu đạo, lỳ tà dâm, ly vọng ngôn, ly lưỡng thiệt, ly ác khẩu, ly ỷ ngữ, ly tham, ly sân, ly si.
 Như vậy là mười pháp hướng đến thù thắng.
 
@@ -1074,7 +1102,7 @@ yểm ly tưởng, nhứt thiết thế gian bất lạc tưởng, vô thường
 vô ngã tưởng trên khổ, đoạn tưởng, ly tham tưởng, diệt tưởng. Như vậy là mười pháp cần
 được sanh khởi.
 
-ix) _Thế nào là mười pháp cần được thắng tri? Mười đoạn tận sự: Tà kiến do chánh kiến_
+ix) Thế nào là mười pháp cần được thắng tri? Mười đoạn tận sự: Tà kiến do chánh kiến
 đoạn tận; do duyên tà kiến, các ác bất thiện pháp khởi lên, các pháp này được đoạn tận; do
 duyên chánh kiến các thiện pháp được tăng cường, viên mãn; tà tư duy do chánh tư duy
 đoạn tận... tà ngữ do chánh ngữ đoạn tận... tà nghiệp cho chánh nghiệp đoạn tận... tà mạng
@@ -1096,6 +1124,6 @@ Như Lai giác ngộ, chánh đẳng chánh giác.
 
 Như vậy tôn giả Sàriputta thuyết giảng. Các vị Tỷ kheo ấy hoan hỷ tín thọ lời dạy của tôn giả Sàriputta.
 
-**-ooOoo-**
+## -ooOoo-
 
-**Source: Con Đường Gỉải Thoát: http://www.budsas.org, Compiled into Acrobat format by: LotusMedia.Net**
+## Source: Con Đường Gỉải Thoát: http://www.budsas.org, Compiled into Acrobat format by: LotusMedia.Net

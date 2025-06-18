@@ -19,42 +19,40 @@ hạnh hoàn toàn đầy đủ trong sạch. Tốt đẹp thay, sự chiêm ng�
 Rồi các Bà-la-môn và gia chủ ở Campà, từng đoàn từng đoàn, lũ lượt đi ra khỏi Campà và đến tại hồ
 nước Gaggara.
 
-3\. Lúc bấy giờ Bà-la-môn Sonadanda đi lên trên lầu để nghỉ trưa, Bà-la-môn Sonadanda thấy các Bà-lamôn và gia chủ ở Campà từng đoàn từng đoàn, lũ lượt đi ra khỏi Campà và đến tại hồ nước Gaggara.
+3\. Lúc bấy giờ Bà-la-môn Sonadanda đi lên trên lầu để nghỉ trưa, Bà-la-môn Sonadanda thấy các Bà-la-môn  và gia chủ ở Campà từng đoàn từng đoàn, lũ lượt đi ra khỏi Campà và đến tại hồ nước Gaggara.
 Thấy vậy, Bà-la-môn Sonadanda bèn gọi người gác cửa:
 
-\- Này người gác cửa, vì sao các Bà-la-môn và gia chủ ở Campà từng đoàn từng đoàn lũ lượt đi ra khỏi
+− Này người gác cửa, vì sao các Bà-la-môn và gia chủ ở Campà từng đoàn từng đoàn lũ lượt đi ra khỏi
 Campà và đến tại hồ Gaggara như vậy?
 
-\- Thưa Tôn giả, có Sa-môn Gotama, dòng họ Thích-ca, xuất gia từ gia tộc Thích-ca, đang du hành trong
+− Thưa Tôn giả, có Sa-môn Gotama, dòng họ Thích-ca, xuất gia từ gia tộc Thích-ca, đang du hành trong
 nước Anga với đại chúng Tỷ-kheo khoảng năm trăm vị, đến tại thành Campà, và tại Campà Sa-môn
 Gotama ở trên bờ hồ Gaggara. Tiếng đồn tốt đẹp sau đây được truyền đi về Thế Tôn Gotama: “Ðây là
 Thế Tôn, bậc A-la-hán, Chánh Ðẳng Giác, Minh Hạnh Túc, Thiện Thệ, Thế Gian Giải, Vô Thượng Sĩ,
 Ðiều Ngự Trượng Phu, Thiên Nhân Sư, Phật, Thế Tôn”. Nay những người ấy đi đến để yết kiến Tôn giả
 Gotama.
 
-\- Này người giữ cửa, hãy đi đến các Bà-la-môn và gia chủ ở Campà, khi đến nơi, hãy nói với những Bàla-môn và gia chủ: “Bà-la-môn Sonadanda có nói: “Này các Hiền giả, hãy chờ đợi! Bà-la-môn
+− Này người giữ cửa, hãy đi đến các Bà-la-môn và gia chủ ở Campà, khi đến nơi, hãy nói với những Bàla-môn và gia chủ: “Bà-la-môn Sonadanda có nói: “Này các Hiền giả, hãy chờ đợi! Bà-la-môn
 Sonadanda sẽ tự thân hành đến yết kiến Sa-môn Gotama”.
 
-\- Dạ vâng!
+− Dạ vâng!
 
 Người giữ cửa ấy vâng theo lời của Bà-la-môn Sonadanda, đi đến các Bà-la-môn và gia chủ ở Campà.
 Khi đến xong, liền nói với các Bà-la-môn và gia chủ ở Campà:
 
-\- Bà-la-môn Sonadanda có nói: “Này các Hiền giả, hãy chờ đợi! Bà-la-môn Sonadanda sẽ tự thân hành
+− Bà-la-môn Sonadanda có nói: “Này các Hiền giả, hãy chờ đợi! Bà-la-môn Sonadanda sẽ tự thân hành
 đến yết kiến Sa-môn Gotama”.
 
+<!--pg-->
 4\. Lúc bấy giờ, có khoảng năm trăm Bà-la-môn từ nhiều địa phương khác nhau, đến ở tại Campà vì công
-vụ. Những Bà-la-môn nghe: “Bà-la-môn Sonadanda sẽ đến yết kiến Sa-môn Gotama”. Những Bà-la
+vụ. Những Bà-la-môn nghe: “Bà-la-môn Sonadanda sẽ đến yết kiến Sa-môn Gotama”. Những Bà-la môn này đến
+Bà-la-môn Sonadanda, khi đến xong, liền thưa với Bà-la-môn Sonadanda:
 
------
+− Có phải Tôn giả Sonadanda sẽ đến yết kiến Sa-môn Gotama?
 
-môn này đến Bà-la-môn Sonadanda, khi đến xong, liền thưa với Bà-la-môn Sonadanda:
+− Này các Hiền giả, đó là ý định của ta. Ta sẽ đến yết kiến Sa-môn Gotama.
 
-\- Có phải Tôn giả Sonadanda sẽ đến yết kiến Sa-môn Gotama?
-
-\- Này các Hiền giả, đó là ý định của ta. Ta sẽ đến yết kiến Sa-môn Gotama.
-
-\- Tôn giả Canke, chớ có đến yết kiến Sa-môn Gotama. Thật không xứng đáng cho Tôn giả Sonadanda
+− Tôn giả Canke, chớ có đến yết kiến Sa-môn Gotama. Thật không xứng đáng cho Tôn giả Sonadanda
 đến yết kiến Sa-môn Gotama. Nếu Tôn giả Sonadanda đến yết kiến Sa-môn Gotama, thì danh tiếng của
 Tôn giả Sonadanda bị hao tổn, danh tiếng của Sa-môn Gotama được tăng trưởng. Vì danh tiếng của Tôn
 giả Sonadanda bị hao tổn và danh tiếng của Sa-môn Gotama được tăng trưởng, do điểm này, thật không
@@ -84,10 +82,12 @@ túc, một vương lãnh địa, một tịnh thí địa, một ân tứ của
 này, thật không xứng đáng cho Tôn giả Sonadanda đến yết kiến Sa-môn Gotama, thật xứng đáng cho
 Sa-môn Gotama yết kiến Tôn giả Sonadanda.
 
+<!--pg-->
 6\. Nghe nói vậy, Bà-la-môn Sonadanda nói với những Bà-la-môn ấy:
 
-\- Các Hiền giả, hãy nghe ta giải thích vì sao thật xứng đáng cho chúng ta đến yết kiến Sa-môn Gotama,
-trái lại thật không xứng đáng cho Sa-môn Gotama đến thăm chúng ta. Này các Hiền giả, thật vậy, Samôn Gotama thiện sanh cả từ mẫu hệ và phụ hệ, huyết thống thanh tịnh cho đến bảy đời tổ phụ không bị
+− Các Hiền giả, hãy nghe ta giải thích vì sao thật xứng đáng cho chúng ta đến yết kiến Sa-môn Gotama,
+trái lại thật không xứng đáng cho Sa-môn Gotama đến thăm chúng ta. Này các Hiền giả, thật vậy, Samôn Gotama
+thiện sanh cả từ mẫu hệ và phụ hệ, huyết thống thanh tịnh cho đến bảy đời tổ phụ không bị
 một vết nhơ nào, không bị một dèm pha nào về vấn đề huyết thống thọ sanh; vì điểm này thật không
 xứng đáng cho Sa-môn Gotama đến yết kiến chúng ta, trái lại thật xứng đáng cho chúng ta đến yết kiến
 Sa-môn Gotama.
@@ -182,10 +182,11 @@ Gotama. Tôn giả Gotama không phải có chừng ấy ưu điểm mà thôi. 
 
 7\. Khi nghe nói vậy, các Bà-la-môn ấy nói với Bà-la-môn Sonadanda:
 
-\- Tôn giả Sonadanda đã tán thán Sa-môn Gotama như vậy dầu cho một ai ở xa Tôn giả Gotama đến một
+− Tôn giả Sonadanda đã tán thán Sa-môn Gotama như vậy dầu cho một ai ở xa Tôn giả Gotama đến một
 trăm do tuần cũng đủ cho người ấy cùng gia tộc đi đến yết kiến Sa-môn Gotama, dầu phải đem theo
 lương thực. Do vậy, tất cả chúng tôi sẽ đi đến yết kiến Sa-môn Gotama.
 
+<!--pg-->
 Lúc bấy giờ, Bà-la-môn Sonadanda cùng với đại chúng Bà-la-môn đi đến bờ hồ Gaggara.
 
 8\. Sự lo lắng sau đây khởi lên trong tâm trí của Bà-la-môn Sonadanda khi đi ngang qua khu rừng: “Nếu
@@ -225,13 +226,14 @@ dường của chúng ta tùy thuộc với danh tiếng chúng ta được có.
 câu hỏi thuộc sự truyền bá về ba quyển Vedà. Như vậy chắc chắn ta có thể làm tâm trí của Ngài được
 thỏa mãn với câu trả lời của ta cho câu hỏi ấy”.
 
+<!--pg-->
 11\. Lúc bấy giờ, đức Thế Tôn được biết sự phân vân lo lắng của Bà-la-môn Sonadanda với tri giác của
 mình, liền tự nghĩ: “Bà-la-môn Sonadanda này đang phân vân lo lắng. Ta hãy hỏi Bà-la-môn Sonadanda
 với câu hỏi thuộc sự truyền bá về ba quyển Vedà”.
 
 Rồi đức Thế Tôn hỏi Bà-la-môn Sonadanda:
 
-\- Này Bà-la-môn, những vị Bà-la-môn phải đầy đủ bao nhiêu đức tính mới được gọi là Bà-la-môn, và để
+− Này Bà-la-môn, những vị Bà-la-môn phải đầy đủ bao nhiêu đức tính mới được gọi là Bà-la-môn, và để
 có thể khi nói “tôi là Bà-la-môn “, lời nói ấy là chơn chánh, không phải là lời nói dối?
 
 12\. Lúc bấy giờ Bà-la-môn Sonadanda suy nghĩ: “Thật vậy, điều mà chúng ta mong ước, hy vọng, yêu
@@ -242,7 +244,7 @@ Ngài được thỏa mãn với câu trả lời cho câu hỏi ấy”.
 
 13\. Rồi Bà-la-môn Sonadanda ngồi thẳng lưng, nhìn xung quanh hội chúng và bạch đức Thế Tôn:
 
-\- Có năm đức tánh, những vị Bà-la-môn phải đầy đủ mới được gọi là Bà-la-môn và để có thể khi nói:
+− Có năm đức tánh, những vị Bà-la-môn phải đầy đủ mới được gọi là Bà-la-môn và để có thể khi nói:
 “Tôi là Bà-la-môn “, lời nói ấy chơn chánh, không phải là lời nói dối. Thế nào là năm? Ở đây, này Tôn
 giả, người Bà-la-môn thiện sanh cả từ mẫu hệ và phụ hệ, huyết thống thanh tịnh cho đến bảy đời tổ phụ,
 không bị một vết nhơ nào, không bị một dèm pha nào về vấn đề huyết thống thọ sanh. Vị ấy là nhà
@@ -259,7 +261,7 @@ không phải là lời nói dối.
 mà vẫn có thể gọi là Bà-la-môn và để có thể khi nói: “Tôi là Bà-la-môn “, lời nói ấy là lời nói chơn
 chánh, không phải là lời nói dối.
 
-\- Tôn giả Gotama, có thể được. Tôn giả Gotama, trong năm đức tánh này, chúng tôi có thể bỏ dung sắc.
+− Tôn giả Gotama, có thể được. Tôn giả Gotama, trong năm đức tánh này, chúng tôi có thể bỏ dung sắc.
 Thật vậy, dung sắc làm được gì? Khi một Tôn giả Bà-la-môn thiện sanh từ mẫu hệ và phụ hệ, huyết
 thống thanh tịnh cho đến bảy đời tổ phụ, không bị một vết nhơ nào, không bị một dèm pha nào về vấn
 đề huyết thống thọ sanh. Vị ấy lại là nhà phúng tụng, nhà trì chú, thông hiểu ba tập Vedà với danh nghĩa,
@@ -274,7 +276,7 @@ dối.
 mà vẫn có thể gọi là Bà-la-môn và để có thể khi nói: “Tôi là Bà-la-môn “, lời nói ấy là lời nói chơn
 chánh, không phải là lời nói dối.
 
-\- Tôn giả Gotama, có thể được. Tôn giả Gotama, trong bốn đức tánh này, chúng tôi có thể bỏ chú thuật.
+− Tôn giả Gotama, có thể được. Tôn giả Gotama, trong bốn đức tánh này, chúng tôi có thể bỏ chú thuật.
 Thật vậy, chú thuật làm được gì? Khi một Tôn giả Bà-la-môn thiện sanh từ mẫu hệ và phụ hệ, huyết
 thống thanh tịnh cho đến bảy đời tổ phụ, không bị một vết nhơ nào, không bị một dèm pha nào về vấn
 đề huyết thống thọ sanh. Vị ấy lại là nhà phúng tụng, nhà trì chú, thông hiểu ba tập Vedà với danh nghĩa,
@@ -289,44 +291,44 @@ dối.
 mà vẫn có thể gọi là Bà-la-môn và để có thể khi nói: “Tôi là Bà-la-môn “, lời nói ấy là chơn chánh,
 không phải là lời nói dối.
 
-\- Tôn giả Gotama, có thể được. Tôn giả Gotama, trong ba đức tánh này, chúng tôi có thể bỏ thọ sanh.
+− Tôn giả Gotama, có thể được. Tôn giả Gotama, trong ba đức tánh này, chúng tôi có thể bỏ thọ sanh.
 Thật vậy, thọ sanh làm được gì? Khi một Tôn giả Bà-la-môn có đức hạnh, đức độ cao dày, đầy đủ giới
 hạnh cao dày, vị ấy là người học rộng, sáng suốt, là người đệ nhất hay đệ nhị trong những người cầm
 muỗng. Những đức tánh này, những vị Bà-la-môn phải đầy đủ mới được gọi là Bà-la-môn và để có thể,
 khi nói: “Tôi là Bà-la-môn “ lời nói ấy là chơn chánh, không phải là lời nói dối.
 17\. Khi nghe nói vậy, những vị Bà-la-môn kia nói với Bà-la-môn Sonadanda:
 
-\- Này Tôn giả Sonadanda, chớ có nói như vậy! Này Tôn giả Sonadanda, chớ có nói như vậy! Tôn giả
+− Này Tôn giả Sonadanda, chớ có nói như vậy! Này Tôn giả Sonadanda, chớ có nói như vậy! Tôn giả
 Sonadanda khinh bác dung sắc, khinh bác chú thuật, khinh bác thọ sanh. Thật sự Tôn giả Sonadanda đã
 ngả theo quan niệm của Sa-môn Gotama.
 
 18\. Lúc bấy giờ đức Thế Tôn nói với những vị Bà-la-môn ấy:
 
-\- Nếu các người Bà-la-môn nghĩ: “Bà-la-môn Sonadanda không phải là bậc đa văn, Bà-la-môn
-Sonadanda không phải là nhà hùng biện giỏi, Bà-la-môn Sonadanda không phải là nhà bác học và Bà-lamôn Sonadanda không có thể biện luận với Sa-môn Gotama về vấn đề này”, thời Bà-la-môn Sonadanda
+− Nếu các người Bà-la-môn nghĩ: “Bà-la-môn Sonadanda không phải là bậc đa văn, Bà-la-môn
+Sonadanda không phải là nhà hùng biện giỏi, Bà-la-môn Sonadanda không phải là nhà bác học và Bà-la-môn  Sonadanda không có thể biện luận với Sa-môn Gotama về vấn đề này”, thời Bà-la-môn Sonadanda
 hãy đứng yên và để các ngươi biện luận với Ta. Nếu các người Bà-la-môn nghĩ: “Bà-la-môn Sonadanda
 là bậc đa văn, Bà-la-môn Sonadanda là nhà hùng biện giỏi, Bà-la-môn Sonadanda là nhà bác học, và Bàla-môn Sonadanda có thể biện luận với Sa-môn Gotama về vấn đề này”, thời các ngươi đứng yên và để
 Bà-la-môn Sonadanda biện luận với Ta.
 
 19\. Khi nghe nói vậy, Bà-la-môn Sonadanda bạch với đức Thế Tôn:
 
-\- Tôn giả Gotama hãy đứng yên. Tôn giả Gotama hãy giữ im lặng. Tôi sẽ trả lời cho các vị Bà-la-môn ấy
+− Tôn giả Gotama hãy đứng yên. Tôn giả Gotama hãy giữ im lặng. Tôi sẽ trả lời cho các vị Bà-la-môn ấy
 đúng với chánh pháp.
 
 Rồi Bà-la-môn Sonadanda nói với những vị Bà-la-môn ấy:
 
-\- Này các Hiền giả, chớ có nói như vậy: “Tôn giả Sonadanda khinh bác dung sắc, khinh bác chú thuật,
+− Này các Hiền giả, chớ có nói như vậy: “Tôn giả Sonadanda khinh bác dung sắc, khinh bác chú thuật,
 khinh bác thọ sanh. Thật sự Tôn giả Sonadanda đã ngả theo quan niệm của Sa-môn Gotama”. Này các
 Hiền giả, tôi không có phỉ báng dung sắc hoặc chú thuật hoặc thọ sanh.
 
 20\. Lúc bấy giờ thanh niên Angaka là người cháu của Bà-la-môn Sonadanda đang ngồi trong hội chúng
 ấy. Bà-la-môn Sonadanda nói với những vị Bà-la-môn kia:
 
-\- Này các Hiền giả, các Hiền giả có thấy người cháu tôi, thanh niên Angaka không?
+− Này các Hiền giả, các Hiền giả có thấy người cháu tôi, thanh niên Angaka không?
 
-\- Thưa Tôn giả, có thấy.
+− Thưa Tôn giả, có thấy.
 
-\- Các Hiền giả, thanh niên Angaka là đẹp trai khả ái, làm đẹp lòng mọi người, với màu da thù thắng,
+− Các Hiền giả, thanh niên Angaka là đẹp trai khả ái, làm đẹp lòng mọi người, với màu da thù thắng,
 khôi ngô tuấn tú, cử chỉ trang nhã, dáng điệu cao thượng, không một ai trong chúng này có thể bằng
 được về dung sắc, trừ Sa-môn Gotama. Này các Hiền giả, thanh niên Angaka là nhà trì chú, thông hiểu
 ba tập Vedà, với danh nghĩa, lễ nghi, ngữ nguyên, chú giải, và lịch sử truyền thống là thứ năm, thông
@@ -340,11 +342,12 @@ giới hạnh cao dày, lại là người học rộng, sáng suốt, là ngư�
 muỗng; này các Hiền giả, những Bà-la-môn nào đầy đủ hai đức tánh ấy mới được gọi là Bà-la-môn và
 để có thể, khi nói: “Tôi là Bà-la-môn “, lời nói ấy là chơn chánh, không phải là lời nói dối.
 
+<!--pg-->
 21\. - Này Bà-la-môn trong hai đức tánh ấy, có thể bỏ qua một đức tánh, và những người Bà-la-môn đầy
 đủ một đức tánh nào, để có thể khi nói: “Tôi là Bà môn”, lời nói ấy là lời nói chơn chánh, không phải là
 lời nói dối.
 
-\- Tôn giả Gotama, không thể được. Tôn giả Gotama, trí tuệ được giới hạnh làm cho thanh tịnh, giới hạnh
+− Tôn giả Gotama, không thể được. Tôn giả Gotama, trí tuệ được giới hạnh làm cho thanh tịnh, giới hạnh
 được trí tuệ làm cho thanh tịnh. Chỗ nào có giới hạnh, chỗ ấy có trí tuệ; chỗ nào có trí tuệ, chỗ ấy có
 giới hạnh; người có giới hạnh nhất định có trí tuệ; người có trí tuệ nhất định có giới hạnh. Giới hạnh và
 trí tuệ được xem là tối thắng ở trên đời. Tôn giả Gotama, cũng như lấy bàn tay rửa bàn tay, lấy bàn chân
@@ -358,24 +361,25 @@ tuệ được xem là tối thắng ở trên đời.
 giới hạnh. Người có giới hạnh nhất định có trí tuệ; người có trí tuệ nhất định có giới hạnh. Giới hạnh và
 trí tuệ được xem là tối thắng ở trên đời. Nhưng này Bà-la-môn, thế nào là giới hạnh, thế nào là trí tuệ?
 
-\- Tôn giả Gotama, chúng tôi chỉ biết có vậy là tột bực về vấn đề này. Lành thay, nếu Tôn giả Gotama
+− Tôn giả Gotama, chúng tôi chỉ biết có vậy là tột bực về vấn đề này. Lành thay, nếu Tôn giả Gotama
 giải thích ý nghĩa của câu nói ấy!
 
 23\. - Này Bà-la-môn, vậy hãy nghe và suy nghĩ kỹ, ta sẽ nói.
 
-\- Tôn giả, xin vâng. Bà-la-môn Sonadanda trả lời đức Thế Tôn.
+− Tôn giả, xin vâng. Bà-la-môn Sonadanda trả lời đức Thế Tôn.
 
 Ðức Thế Tôn thuyết như sau:
 
-\- Này Bà-la-môn, ở đây đức Thế Tôn ra đời, là bậc A-la-hán, Chánh Ðẳng Giác... [giống như kinh “Sa_môn quả”- kinh số 2, đoạn kinh 40-74] ... Này Bà-la-môn, như vậy vị Tỷ-kheo đầy đủ giới hạnh. Này_
+− Này Bà-la-môn, ở đây đức Thế Tôn ra đời, là bậc A-la-hán, Chánh Ðẳng Giác... [giống như kinh “Sa_môn quả”- kinh số 2, đoạn kinh 40-74] ... Này Bà-la-môn, như vậy vị Tỷ-kheo đầy đủ giới hạnh. Này_
 Bà-la-môn, đó là giới hạnh.
 
 ... vị ấy chứng và trú sơ thiền... chứng và trú đệ nhị thiền... đệ tam thiền... chứng và trú đệ tứ thiền... tâm
 hướng đến tri kiến... Này Bà-la-môn như vậy là trí huệ [như kinh “Sa-môn quả”, đoạn kinh 75-98].
 
+<!--pg-->
 24\. Khi nghe nói như vậy, Bà-la-môn Sonadanda nói với đức Thế Tôn:
 
-\- Thật là vi diệu thay, Tôn giả Gotama! Thật là vi diệu thay, Tôn giả Gotama! Tôn giả Gotama, như
+− Thật là vi diệu thay, Tôn giả Gotama! Thật là vi diệu thay, Tôn giả Gotama! Tôn giả Gotama, như
 người dựng đứng lại những gì bị quăng ngã xuống, phơi bày ra những gì bị che kín, chỉ đường cho kẻ bị
 lạc hướng, đem đèn sáng vào trong bóng tối để những ai có mắt có thể thấy sắc. Cũng vậy chánh pháp
 đã được Tôn giả Gotama dùng nhiều phương tiện trình bày giải thích. Vậy nay con xin quy y Thế Tôn
@@ -383,7 +387,7 @@ Gotama, quy y Pháp và quy y Tỷ-kheo Tăng. Mong Tôn giả Gotama nhận con
 cho đến mạng chung, con trọn đời quy ngưỡng. Và mong Tôn giả Gotama, ngày mai cùng chúng Tỷkheo nhận lời mời đến dùng cơm do con mời.
 
 Ðức Thế Tôn im lặng nhận lời. Lúc bấy giờ Bà-la-môn Sonadanda được biết Ðức Thế Tôn đã nhận lời,
-liền từ chỗ ngồi đứng dậy, đảnh lễ đức Thế Tôn, thân phía hữu hướng về đức Phật và từ biệt. Rồi Bà-lamôn Sonadanda khi đêm đã mãn liền làm cho sẵn sàng tại nhà các món thượng vị, loại cứng và loại
+liền từ chỗ ngồi đứng dậy, đảnh lễ đức Thế Tôn, thân phía hữu hướng về đức Phật và từ biệt. Rồi Bà-la-môn  Sonadanda khi đêm đã mãn liền làm cho sẵn sàng tại nhà các món thượng vị, loại cứng và loại
 mềm, rồi báo thì giờ cho đức Thế Tôn: “Giờ đã đến, Tôn giả Gotama, cơm đã sẵn sàng”.
 
 25\. Khi ấy đức Thế Tôn buổi sáng đắp y, đem theo bình bát, và cùng chúng Tỷ-kheo đi đến cư xá của

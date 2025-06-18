@@ -11,28 +11,28 @@ dưới bóng ngôi lầu.
 2\. Vàsettha thấy Thế Tôn vào buổi chiều, từ thiền tịnh khởi dậy, bước xuống khỏi ngôi lầu, đi qua lại
 giữa trời, dưới bóng ngôi lầu. Thấy vậy Vàsettha nói với Bhàradvàja:
 
-\- Này bạn Bhàradvàja, Thế Tôn vào buổi chiều, từ thiền tịnh khởi dậy, bước xuống khỏi lầu, đi qua lại
+− Này bạn Bhàradvàja, Thế Tôn vào buổi chiều, từ thiền tịnh khởi dậy, bước xuống khỏi lầu, đi qua lại
 giữa trời, dưới bóng ngôi lầu. Này bạn Bhàradvàja, chúng ta hãy đến yết kiến Thế Tôn. Rất có thể chúng
 ta được nghe một thời pháp từ Thế Tôn.
 
-\- Thưa vâng, Hiền giả!
+− Thưa vâng, Hiền giả!
 
 Bhàradvàja vâng theo lời Vàsettha. Rồi cả Vàsettha và Bhàradvàja cùng đến gần Thế Tôn, khi đến xong
 đảnh lễ Ngài và đi theo sau lưng Thế Tôn, khi Ngài đang đi qua đi lại.
 
 3\. Rồi Thế Tôn nói với Vàsettha:
 
-\- Này Vàsettha, Ngươi sanh trưởng là Bà-la-môn và thuộc gia tộc Bà-la-môn, xuất gia từ bỏ gia đình,
+− Này Vàsettha, Ngươi sanh trưởng là Bà-la-môn và thuộc gia tộc Bà-la-môn, xuất gia từ bỏ gia đình,
 sống không gia đình từ gia tộc Bà-la-môn. Này Vàsettha, người Bà-la-môn có chỉ trích Ngươi, phỉ báng
 Ngươi chăng?
 
-\- Bạch Thế Tôn, các vị Bà-la-môn thật có chỉ trích chúng con, phỉ báng chúng con, với những lời phỉ
+− Bạch Thế Tôn, các vị Bà-la-môn thật có chỉ trích chúng con, phỉ báng chúng con, với những lời phỉ
 báng thật chí tình, phỉ báng thật toàn diện, chớ không phải không toàn diện.
 
-\- Này Vàsettha, các vị Bà-la-môn dùng lời lẽ như thế nào để chỉ trích các Ngươi, phỉ báng các Ngươi,
+− Này Vàsettha, các vị Bà-la-môn dùng lời lẽ như thế nào để chỉ trích các Ngươi, phỉ báng các Ngươi,
 với những lời phỉ báng thật chí tình, phỉ báng thật toàn diện, chớ không phải không toàn diện?
 
-\- Bạch Thế Tôn, các vị Bà-la-môn đã nói như sau: “Bà-la-môn là giai cấp tối thượng, giai cấp khác là hạ
+− Bạch Thế Tôn, các vị Bà-la-môn đã nói như sau: “Bà-la-môn là giai cấp tối thượng, giai cấp khác là hạ
 liệt. Chỉ có giai cấp Bà-la-môn là da trắng, giai cấp khác là da đen. Chỉ có Bà-la-môn là thuần túy, các
 giai cấp phi Bà-la-môn không phải như vậy. Chỉ có Bà-la-môn mới là con chính tông của Phạm thiên,
 sanh từ miệng Phạm thiên, do Phạm thiên sanh, do Phạm thiên tạo ra, là con cháu thừa tự của Phạm
@@ -51,6 +51,7 @@ cháu thừa tự của Phạm thiên”. Này Vàsettha, các nữ Bà-la-môn,
 kinh nguyệt, có mang thai, có sanh con, có cho con bú. Và những Bà-la-môn ấy chính do thai sanh, lại
 nói rằng: “Bà-la-môn là giai cấp tối thượng... là con cháu thừa tự của Phạm thiên”.
 
+<!--pg-->
 5\. Này Vàsettha, có bốn giai cấp: Sát đế lỵ, Bà-la-môn, Phệ xá và Sudda (Thủ-đà-la). Này Vàsettha, có
 người Sát đế lỵ sát sanh, lấy của không cho, có tà hạnh, nói láo, nói hai lưỡi, nói ác khẩu, nói lời phù
 phiếm, có tâm tham, có tâm sân, có tà kiến. Này Vàsettha, những pháp ấy là bất thiện và được gọi là bất
@@ -118,6 +119,7 @@ này chuyển thành, một số lớn chúng sanh từ Quang Âm thiên thác s
 này do ý sanh, nuôi sống bằng hỷ, tự chiếu hào quang, phi hành trên hư không, sống trong sự quang vinh
 và sống như vậy một thời gia khá dài.
 
+<!--pg-->
 11\. Này Vàsettha, lúc bấy giờ, vạn vật trở thành một thế giới toàn nước đen sẫm, một màu đen khiến
 mắt phải mù. Mặt trăng, mặt trời không hiện ra; sao và chòm sao không hiện ra; không có ngày đêm;
 không có tháng và nửa tháng; không có năm và thời tiết; không có đàn bà đàn ông. Các loài hữu tình chỉ
@@ -126,6 +128,7 @@ vị đất tan ra trong nước. Như bọt nổi lên trên mặt cháo sữa 
 Ðất này có màu sắc, có hương và có vị. Màu sắc của đất giống như đề hồ hay thuần túy như tô, vị của
 đất như mật ong thuần tịnh.
 
+<!--pg-->
 12\. Này Vàsettha, có loài hữu tình, có tánh tham, nói: “Kìa xem, vật này là gì vậy?”, lấy ngón tay nếm vị
 của đất. Khi lấy ngón tay nếm vị của đất, vị ấy thấm vào thân và tham ái khởi lên. Này Vàsettha, các loài
 hữu tình khác, theo gương hữu tình kia, lấy ngón tay nếm vị của đất. Khi lấy ngón tay nếm vị của đất, vị
@@ -145,6 +148,7 @@ họ hội họp lại và kêu than: “Ôi vị ngon! Ôi vị ngon!”, như 
 liền nói: “Ôi vị ngon! Ôi vị ngon!” Như vậy họ theo văn tự truyền thống của thời xưa mà không biết ý
 nghĩa của nó.
 
+<!--pg-->
 14\. Này Vàsettha, khi vị đất đã biến mất với các hữu tình ấy, thời một loại nấm đất hiện ra. Như hình
 con rắn, chúng hiện ra như vậy. Loại nấm ấy có sắc, có hương, có vị. Mầu sắc của loại nấm này giống
 như đề hồ hay thuần túy như tô. Vị của đất như mật ong thuần tịnh. Này Vàsettha, những hữu tình ấy bắt
@@ -170,6 +174,7 @@ họp lại và kêu than: “Ôi, cái này thuộc của chúng ta! Ôi hại 
 chúng ta! Ôi hại thay cho chúng ta!” Như vậy, họ theo văn tự truyền thống của thời xưa mà không biết ý
 nghĩa của nó.
 
+<!--pg-->
 16\. Này Vàsettha, khi các loại cỏ, cây leo biến mất, thời lúa xuất hiện tại các khoảng trống, không có
 cám, không có vỏ, có mùi thơm và bột trơn nhẵn. Chỗ nào vào buổi chiều họ mang đi để ăn chiều, thời
 tại chỗ ấy, vào buổi sáng, lúa lại mọc lớn và chín. Chỗ nào vào buổi sáng, họ mang đi để ăn sáng, thời
@@ -186,6 +191,7 @@ lại đối xử với một loài hữu tình khác như vậy?”; như ngày
 rước đi, có người quăng bùn, có người quăng tro, có người quăng phân bò. Như vậy, chúng theo văn tự
 truyền thống xưa mà không biết ý nghĩa của nó.
 
+<!--pg-->
 17\. Này Vàsettha, lúc bấy giờ việc làm được xem là phi pháp nay được xem là đúng pháp. Này
 Vàsettha, lúc bấy giờ các loài hữu tình ấy hành dâm không được phép vào làng hay xã ấp một tháng hay
 cả hai tháng. Vì những hữu tình ấy lúc bấy giờ chỉ trích mau chóng, vì hành động phi pháp, họ bắt đầu
@@ -195,40 +201,41 @@ sáng cho buổi ăn sáng? Sao ta lại không tìm lúa một lần cho cả b
 Vàsettha, loài hữu tình ấy tìm lúa một lần cho cả buổi ăn chiều, cả buổi ăn sáng. Một hữu tình khác đến
 vị hữu tình này và nói:
 
-\- Này Bạn, chúng ta hãy đi tìm lúa!
+− Này Bạn, chúng ta hãy đi tìm lúa!
 
-\- Này Bạn, tôi đã tìm lúa một lần, cả cho buổi chiều và buổi sáng.
+− Này Bạn, tôi đã tìm lúa một lần, cả cho buổi chiều và buổi sáng.
 
 Này Vàsettha, vị này noi theo vị hữu tình kia, đi tìm lúa một lần đủ cho cả hai ngày.
-\- Này Bạn, như vậy là tốt.
+− Này Bạn, như vậy là tốt.
 
 Này Vàsettha, rồi một hữu tình khác đến vị hữu tình ấy và nói:
 
-\- Này Bạn chúng ta hãy đi tìm lúa.
+− Này Bạn chúng ta hãy đi tìm lúa.
 
-\- Này Bạn, tôi đã tìm lúa một lần đủ cho cả hai ngày rồi.
+− Này Bạn, tôi đã tìm lúa một lần đủ cho cả hai ngày rồi.
 
 Này Vàsettha, vị hữu tình này noi theo gương vị hữu tình kia, liền đi tìm lúa một lần đủ cho bốn ngày.
 
-\- Này Bạn, như vậy là tốt.
+− Này Bạn, như vậy là tốt.
 
 Này Vàsettha, một vị hữu tình khác lại đến vị hữu tình này và nói:
 
-\- Này Bạn, chúng ta hữu đi tìm lúa!
+− Này Bạn, chúng ta hữu đi tìm lúa!
 
-\- Này Bạn, tôi đã tìm lúa một lần đủ cho cả bốn ngày!
+− Này Bạn, tôi đã tìm lúa một lần đủ cho cả bốn ngày!
 
 Này Vàsettha, vị hữu tình này noi theo gương vị hữu tình kia, liền đi tìm lúa một lần đủ cho tám ngày.
 
-\- Này Bạn, như vậy là tốt.
+− Này Bạn, như vậy là tốt.
 
 Này Vàsettha, những vị hữu tình kia, bắt đầu tích trữ lúa để ăn, và cám bắt đầu bao bọc hột gạo trơn
 nhẵn và vỏ lúa bao bọc hột lúa; và các cây lúa bị cắt không lớn lên được; và như vậy có sự gián đoạn; và
 cây lúa mọc lên từng cụm, từng chùm.
 
+<!--pg-->
 18\. Này Vàsettha, các loài hữu tình ấy hội họp lại và than phiền:
 
-\- Này các Bạn, các ác pháp đã hiện ra giữa các loài hữu tình. Chúng ta trước kia do ý sanh, nuôi sống
+− Này các Bạn, các ác pháp đã hiện ra giữa các loài hữu tình. Chúng ta trước kia do ý sanh, nuôi sống
 bằng hỷ, tự chiếu hào quang phi hành trên hư không, sống trong sự quang vinh và sống như vậy trong
 một thời gian khá dài. Ðối với chúng ta, sau một thời gian khá dài, vị của đất hiện ra. Vị đất này có sắc,
 có hương và có vị. Chúng ta bắt đầu bẻ đất từng cục bằng tay để ăn vị đất. Vì bắt đầu bẻ đất bằng tay
@@ -257,30 +264,31 @@ Này Vàsettha, các loại hữu tình ấy phân chia lúa và đắp đê là
 19\. Này Vàsettha, có vị hữu tình, bản tánh biếng nhác, gìn giữ phần của mình, đánh cắp phần của người
 khác và thưởng thức phần ấy. Người ta bắt người ấy và nói:
 
-\- Này Ngươi, Ngươi đã làm ác pháp, gìn giữ phần của mình, đánh cắp phần không cho của người khác
+− Này Ngươi, Ngươi đã làm ác pháp, gìn giữ phần của mình, đánh cắp phần không cho của người khác
 và thưởng thức phần ấy. Nhà Ngươi chớ có làm như vậy nữa.
 
-\- Thưa Bạn, vâng!
+− Thưa Bạn, vâng!
 
 Này Vàsettha, người này vâng theo lời nói của những người ấy. Này Vàsettha, một lần thứ hai... Này
 Vàsettha một lần thứ ba, người này gìn giữ phần của mình, đánh cắp phần không cho của người khác và
 thưởng thức phần ấy. Người ta bắt người này và nói:
 
-\- Này Ngươi, Ngươi đã làm điều ác, vì Ngươi gìn giữ phần của mình, đánh cắp phần không cho của
+− Này Ngươi, Ngươi đã làm điều ác, vì Ngươi gìn giữ phần của mình, đánh cắp phần không cho của
 người khác và thưởng thức phần ấy... Ngươi chớ có làm như vậy nữa.
 
 Có người đập anh ta bằng tay, có người đập anh ta bằng đá, có người đập anh ta bằng gậy. Này
 Vàsettha, bắt đầu như vậy, lấy của không cho xuất hiện, quở trách xuất hiện, nói láo xuất hiện, hình phạt
 đánh đập xuất hiện.
 
+<!--pg-->
 20\. Này Vàsettha, những loài hữu tình ấy hội họp lại và than khóc:
 
-\- Này Tôn giả, ác pháp đã khởi lên giữa các loài hữu tình, trong hình thức lấy của không cho xuất hiện,
+− Này Tôn giả, ác pháp đã khởi lên giữa các loài hữu tình, trong hình thức lấy của không cho xuất hiện,
 quở trách xuất hiện, nói láo xuất hiện, hình phạt xuất hiện. Chúng ta hãy đề cử một người. Người ấy sẽ
 tức giận khi đáng phải tức giận, khiển trách khi đáng phải khiển trách, hay tẩn xuất khi đáng phải tẩn
 xuất. Chúng tôi sẽ dành cho Người một phần lúa của chúng tôi.
 
-\- Xin vâng, các Tôn giả!
+− Xin vâng, các Tôn giả!
 
 Này Vàsettha, vị hữu tình này vâng theo các vị hữu tình kia, tức giận khi đáng tức giận, khiển trách khi
 đáng khiển trách, tẩn xuất khi đáng tẩn xuất. Và các vị hữu tình kia chia cho vị này một phần lúa.
@@ -293,9 +301,10 @@ từ truyền thống cổ xưa. Nguồn gốc của chúng ta ở giữa nhữn
 khác, một cách đúng pháp tắc (dhamma), không phải phi pháp. Này Vàsettha, như vậy Pháp là tối
 thượng ở đời, trong hiện tại và cả cho đời sau.
 
+<!--pg-->
 22\. Này Vàsettha, một số các vị hữu tình suy nghĩ:
 
-\- Này các Tôn giả, các ác, bất thiện pháp đã hiện ra giữa các loại hữu tình, như lấy của không cho, khiển
+− Này các Tôn giả, các ác, bất thiện pháp đã hiện ra giữa các loại hữu tình, như lấy của không cho, khiển
 trách, nói láo, hình phạt, tẩn xuất. Chúng ta hãy loại bỏ các ác, bất thiện pháp.
 
 Vác vị ấy loại bỏ các ác, bất thiện pháp, tức là Bràhmanà (Bà-la-môn), và chữ Bràhmanà là danh từ đầu
@@ -305,7 +314,7 @@ buổi chiều lo buổi ăn chiều, buổi sáng lo buổi ăn sáng; họ đi
 thực. Khi họ xin được đồ ăn rồi, họ lại vào các chòi lá trong các khu rừng để tu thiền. Các người khác
 thấy vậy, nói như sau:
 
-\- Này các Tôn giả, những loài hữu tình này lập lên những chòi bằng lá tại các khu rừng và tu thiền trong
+− Này các Tôn giả, những loài hữu tình này lập lên những chòi bằng lá tại các khu rừng và tu thiền trong
 những chòi bằng lá ấy.
 
 Ðối với họ, than đỏ được dập tắt, khói được tiêu tan, cối và chầy rơi ngã nghiêng, buổi chiều lo ăn buổi
@@ -380,18 +389,18 @@ như vậy Pháp là tối thượng ở đời, trong hiện tại và cho cả
 32\. Này Vàsettha, bài kệ sau đây được Phạm thiên Sanamkumàra (Thường Ðồng hình Phạm thiên) tuyên
 thuyết:
 
-_Chúng sanh tin giai cấp,_
-_Sát đế lỵ tối thắng._
-_Ai đủ cả trí, đức,_
+_Chúng sanh tin giai cấp,_\
+_Sát đế lỵ tối thắng._\
+_Ai đủ cả trí, đức,_\
 _Tối thắng giữa Nhân, Thiên._
 
 Này Vàsettha, bài kệ này được Phạm thiên Sanamkumàra, khéo hát chớ không phải vụng hát, khéo nói
 chớ không phải vụng nói, đầy đủ ý nghĩa chớ không phải không đầy đủ, được Ta chấp nhận. Này
 Vàsettha, Ta cũng nói như sau:
 
-_Chúng sanh tin giai cấp,_
-_Sát đế lỵ tối thắng._
-_Ai đủ cả trí, đức,_
+_Chúng sanh tin giai cấp,_\
+_Sát đế lỵ tối thắng._\
+_Ai đủ cả trí, đức,_\
 _Tối thắng giữa Nhân, Thiên._
 
 Thế Tôn thuyết giảng như vậy. Vàsêttha và Bhàradvàja hoan hỷ tín thọ lời giảng Thế Tôn.

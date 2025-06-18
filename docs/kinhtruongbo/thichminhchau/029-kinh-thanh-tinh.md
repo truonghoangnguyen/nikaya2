@@ -22,25 +22,26 @@ Chánh Ðẳng Giác tuyên thuyết, pháp y chỉ đã bị đổ vỡ, không
 sau khi đến, đảnh lễ tôn giả Ananda (A-nan) và ngồi xuống một bên. Sau khi ngồi xuống một bên. Sa-di
 Cunda bạch tôn giả Ananda:
 
-\- Bạch Tôn giả, Nigantha Nàthaputta đã từ trần ở Pàvà sau khi vị này tạ thế, các Nigantha chia ra làm
+− Bạch Tôn giả, Nigantha Nàthaputta đã từ trần ở Pàvà sau khi vị này tạ thế, các Nigantha chia ra làm
 hai phái... Pháp y chỉ đã bị đổ vỡ, không có chỗ y chỉ.
 
 Khi nghe nói vậy, tôn giả Ananda nói với Sa-di Cunda:
 
-\- Này Hiền giả Cunda, đây là vấn đề đáng đưa ra để yết kiến Thế Tôn. Này Hiền giả Cunda, chúng ta
+− Này Hiền giả Cunda, đây là vấn đề đáng đưa ra để yết kiến Thế Tôn. Này Hiền giả Cunda, chúng ta
 hãy đi yết kiến Thế Tôn; sau khi đến xong, chúng ta hãy trình bày vấn đề này để Thế Tôn biết.
 
-\- Bạch Tôn giả, vâng!
+− Bạch Tôn giả, vâng!
 
 Sa-di Cunda vâng lời tôn giả Ananda.
 
 3\. Rồi tôn giả Ananda cùng với Sa-di Cunda, đi đến yết kiến Thế Tôn, sau khi đến, đảnh lễ Ngài và ngồi
 xuống một bên. Sau khi ngồi xuống một bên, tôn giả Ananda bạch Thế Tôn:
 
-\- Bạch Thế Tôn, Sa-di Cunda có nói: “Nigantha Nàthaputta đã từ trần ờ Pàvà. Sau khi vị này từ trần, các
+− Bạch Thế Tôn, Sa-di Cunda có nói: “Nigantha Nàthaputta đã từ trần ờ Pàvà. Sau khi vị này từ trần, các
 vị Nigantha chia ra làm hai phái... pháp y chỉ đã bị đổ vỡ, không có chỗ y chỉ.”
 
-\- Này Cunda, như vậy ở đây pháp luật đã được trình bày tuyên bố một cách vụng về, không có hiệu năng
+<!--pg-->
+− Này Cunda, như vậy ở đây pháp luật đã được trình bày tuyên bố một cách vụng về, không có hiệu năng
 hướng dẫn, không hướng đến an tịnh, không do vị Chánh Ðẳng Giác tuyên thuyết.
 
 4\. Này Cunda, ở đây có vị đạo sư không phải là Chánh Ðẳng Giác, có pháp luật đã được trình bày tuyên
@@ -72,6 +73,7 @@ hạnh, người khen, người được khen, người được khen như vậy
 không được phước đức.” Vì sao vậy? Này Cunda, vì pháp được trình bày tuyên bố một cách vụng về,
 không có hiệu năng hướng dẫn, không hướng đến an tịnh, không do vị Chánh Ðẳng Giác tuyên thuyết.
 
+<!--pg-->
 6\. Này Cunda, ở đây vị đạo sư là vị Chánh Ðẳng Giác, pháp được khéo giảng và trình bảy, có hiệu năng
 hướng dẫn, hướng đến an tịnh, do vị Chánh Ðẳng Giác tuyên thuyết. Vị đệ tử trong pháp này sống
 không thành tựu pháp và tùy pháp, sống không theo chánh hạnh, sống không đúng tùy pháp, sống không
@@ -99,6 +101,8 @@ tán thán, ở đây vị đệ tử cũng đáng được tán thán. Này Cun
 khen như vậy lại càng tinh tấn thực hành, tất cả đều được nhiều công đức”. Vì sao vậy? Này Cunda, vì
 pháp luật được khéo tuyên thuyết, khéo trình bày như vậy, có hiệu năng hướng dẫn, hướng đến an tịnh,
 do vị Chánh Ðẳng Giác tuyên thuyết.
+
+<!--pg-->
 8\. Này Cunda, ở đây vị đạo sư xuất hiện ở đời, bậc A la hán, Chánh Ðẳng Giác, và pháp được khéo
 tuyên thuyết, được khéo trình bày, có hiệu năng hướng dẫn, hướng đến an tịnh, do vị Chánh Ðẳng Giác
 tuyên thuyết. Và các vị đệ tử chưa được tinh thông diệu pháp, và phạm hạnh hoàn toàn viên mãn chưa
@@ -111,6 +115,7 @@ toàn viên mãn chưa được tỏ lộ cho chúng ta với tất cả thứ b
 dụng, chưa được khéo trình bày cho loài Người, và vị đạo sư của chúng ta viên tịch. Này Cunda, vị Ðạo
 sư như vậy có viên tịch, các đệ tử có sự ưu tư.
 
+<!--pg-->
 9\. Này Cunda, ở đây vị đạo sư xuất hiện ở đời, bậc A la hán, Chánh Ðẳng Giác, pháp được khéo tuyên
 bố và được khéo trình bày, có hiệu năng hướng dẫn, hướng đến an tịnh, do vị Chánh Ðẳng Giác tuyên
 thuyết. Và các vị đệ tử được tinh thông diệu pháp, và phạm hạnh hoàn toàn viên mãn được tỏ lộ cho các
@@ -123,6 +128,7 @@ khéo tuyên thuyết, được khéo trình bày, có hiệu năng hướng d�
 bày cho loài Người, và vị Ðạo sư của chúng ta viên tịch. Này Cunda, vị đạo sư như vậy có viên tịch, các
 đệ tử không có ưu tư.
 
+<!--pg-->
 10\. Này Cunda, nếu phạm hạnh được đầy đủ những chi phần như vậy, nếu không có một vị đạo sư là
 một vị Thượng tọa có nhiều kinh nghiệm, xuất gia lâu ngày, đã đến tuổi trưởng thượng, đã đến tuổi
 trưởng thành, một phạm hạnh như vậy được xem là không viên mãn, trong trường hợp như vậy. Này
@@ -207,6 +213,7 @@ khéo tuyên bố, vị ấy sẽ tuyên bố đúng đắn như sau: “Phạm 
 thảy tướng, không thiếu thốn, không quá đáng, được khéo tuyên bố một cách viên mãn, được khéo trình
 bày”.
 
+<!--pg-->
 17\. Do vậy, này Cunda, những pháp do Ta tự chứng tri và tuyên bố cho các Ngươi, tất cả các Ngươi hãy
 hội họp lại và tụng đọc lại, chớ có cãi lộn nhau, nhưng hãy so sánh các nghĩa với nhau, các câu với nhau
 để cho phạm hạnh này được tồn tại lâu dài, được an trú lâu dài, vì hạnh phúc cho muôn loài, vì an lạc
@@ -221,6 +228,7 @@ hội họp lại và tụng đọc lại, chớ có cãi lộn nhau, nhưng hã
 để cho phạm hạnh này được tồn tại lâu dài, được an trú lâu dài, vì hạnh phúc của muôn loài, vì an lạc
 cho muôn loài, vì lòng thương tưởng cho đời, vì lợi ích, vì an lạc cho chư Thiên và cho loài Người.
 
+<!--pg-->
 18\. Này Cunda, các Ngươi hãy hội họp với nhau trong tinh thần hòa đồng và tương kính, không có tranh
 luận nhau. Có vị đồng phạm hạnh nói pháp giữa Tăng chúng. Nếu các Ngươi nghĩ rằng “Vị Ðại đức này
 nắm nghĩa sai lạc hay hành văn sai lạc”, các Ngươi không nên tán thán, không nên bác bỏ. Không tán
@@ -255,6 +263,7 @@ câu: “Thật là tốt đẹp”, các Ngươi phải nói với vị ấy”
 là may mắn cho chúng tôi; này Hiền giả, thật là may mắn cho chúng tôi, khi chúng tôi thấy một vị đồng
 phạm hạnh như Hiền giả, tinh thông nghĩ lý như vậy, tinh thông hành văn như vậy”.
 
+<!--pg-->
 22\. Này Cunda Ta không thuyết giảng chỉ để ngăn chận các lậu hoặc ngay trong hiện tại. Này Cunda, Ta
 không thuyết pháp, chỉ để diệt trừ các lậu hoặc trong tương lai mà thôi. Này Cunda, Ta thuyết pháp vừa
 để ngăn chận các lậu hoặc ngay trong hiện tại mà cũng để diệt trừ các lậu hoặc trong tương lai nữa. Do
@@ -269,6 +278,7 @@ các loài rắn, chỉ với mục đích tránh thoát sự nguy hiểm của 
 dược phẩm và thuốc trị bịnh mà Ta cho phép các Ngươi dùng, như vậy vừa đủ để ngăn chận các cảm thọ
 đau ốm khởi lên và để gìn giữ sức khỏe.
 
+<!--pg-->
 23\. Này Cunda, sự kiện này có thể xảy ra, các du sĩ ngoại đạo có thể nói: “Các Sa-môn Thích tử sống
 đam mê hỷ lạc”. Này Cunda, nếu được nói như vậy, các du sĩ ngoại đạo phải được trả lời như vậy: “Này
 Hiền giả, thế nào là đam mê hỷ lạc? Ðam mê hỷ lạc có nhiều loại, có nhiều cách”. Này Cunda, bốn loại
@@ -299,6 +309,7 @@ vị Sa-môn Thích tử đang sống đam mê bốn loại hỷ lạc này”. 
 phải; các ông nói như vậy là nói đúng đắn. Nói như vậy là các ông không xuyên tạc, đúng sự thật, và
 thực có”.
 
+<!--pg-->
 25\. Này Cunda, sự kiện này có thể xảy ra. Các du sĩ ngoại đọa có thể nói: “Này Hiền giả, những ai sống
 đam mê theo bốn loại hỷ lạc ấy có thể mong đợi kết quả gì, lợi ích gì?” Ðược nói vậy, phải trả lời cho
 các du sĩ ngoại đạo như sau: “Này Hiền giả, những ai sống đam mê bốn loại hỷ lạc ấy, có thể mong đợi
@@ -314,6 +325,7 @@ mình chứng tri, chứng ngộ và an trú ngay trong hiện tại vô lậu T
 kết quả thứ tư. Này Hiền giả, vị nào sống đam mê bốn loại hỷ lạc này, có thể mong đợi bốn kết quả, bốn
 lợi ích như vậy”.
 
+<!--pg-->
 26\. Này Cunda, sự kiện này có thể xảy ra. Các du sĩ ngoại đạo có thể nói: “Các Sa-môn Thích tử sống
 không giữ vững lập trường”. Này Cunda, các vị du sĩ ngoại đạo nói vậy cần phải được trả lời như sau:
 “Này Hiền giả, Thế Tôn, vị đã biết, đã thấy, là bậc A-la-hán, Chánh Ðẳng Giác đã thuyết, đã trình bày
@@ -337,6 +349,7 @@ sợ hãi. Này Hiền giả, một vị Tỷ-kheo, là bậc A-la-hán, Chánh 
 hạnh đã thành, các việc phải làm đã làm, đã đặt gánh nặng xuống, mục tiêu đã đạt, hữu kiết sử đã diệt
 trừ, chánh trí giải thoát, không thể làm chín việc như vậy”.
 
+<!--pg-->
 27\. Này Cunda, sự kiện này có thể xảy ra. Các du sĩ ngoại đạo có thể nói như sau: “Ðối với quá khứ, Samôn Gotama có tri kiến siêu việt. Nhưng đối với tương lai, Sa-môn Gotama không có tri kiến siêu việt;
 như sự việc xảy ra như thế nào và vì sao lại xảy ra như vậy?” Như vậy, các vị du sĩ ngoại đạo này chủ
 trương rằng tri kiến về vấn đề này có thể được trình bày nêu rõ bởi tri kiến một vấn đề khác, như những
@@ -361,7 +374,7 @@ thời trả lời câu hỏi ấy. Như vậy, này Cunda, đối với các ph
 phải thời nói chơn chánh, nói như thật, nói có lợi ích, nói đúng Pháp, nói đúng Luật. Do vậy mới gọi là
 Như Lai.
 
-29\. Này Cunda, trong thế giới này với chư Thiên, Ma vương, Phạm thiên, với chúng Sa-môn và Bà-lamôn, với chư Thiên và loài Người, những gì được thấy, được nghe, được cảm giác, được phân biệt,
+29\. Này Cunda, trong thế giới này với chư Thiên, Ma vương, Phạm thiên, với chúng Sa-môn và Bà-la-môn , với chư Thiên và loài Người, những gì được thấy, được nghe, được cảm giác, được phân biệt,
 được đạt đến, được tìm cầu, được suy đạt với ý, tất cả đều được Như Lai biết rõ. Do vậy mới gọi là Như
 Lai. Này Cunda, trong thời gian giữa đêm Như Lai chứng ngộ Vô thượng Chánh Ðẳng Giác và đêm
 Như Lai nhập Vô dư y Niết-bàn giới, trong thời gian ấy, những gì Như Lai nói trong khi thuyết giảng,
@@ -371,6 +384,7 @@ là Như Lai. Ðối với thế giới với chư Thiên, Ma vương, Phạm th
 với chư Thiên và loài Người, Như Lai là bậc Toàn Thắng, không ai có thể thắng nổi, bậc Toàn kiến, bậc
 Tự Tại.
 
+<!--pg-->
 30\. Này Cunda, sự kiện này có thể xảy ra. Các du sĩ ngoại đạo có thể nói: “Thế nào Hiền giả, Như Lai
 có tồn tại sau khi chết không. Như vậy là đúng sự thực, ngoài ra là sai lầm?” Này Cunda, được nói vậy,
 Ngươi phải trả lời các du sĩ ngoại đạo như sau: “Như Lai không có nói: “Như Lai có tồn tại sau khi chết.
@@ -390,6 +404,7 @@ Hiền giả, vì không liên hệ đến lợi ích, không liên hệ đến 
 không hướng đến yểm ly, vô tham, đoạn diệt, an tịnh, thắng trí, giác ngộ và Niết bàn. Do vậy Thế Tôn
 không trả lời.”
 
+<!--pg-->
 32\. Này Cunda, sự kiện này có thể xảy ra. Các du sĩ ngoại đạo có thể nói: “Này Hiền giả, Sa môn
 Gotama nói điều gì?” Này Cunda, được nói vậy, Ngươi phải trả lời các du sĩ ngoại đạo như sau: “Ðây là
 Khổ, này Hiền giả, đó là điều Thế Tôn nói. Ðây là Khổ tập, này Hiền giả, đó là điều Thế Tôn nói. Ðây là
@@ -406,6 +421,7 @@ Ta lại sẽ nói cho các Ngươi? Này Cunda, mọi biện luận về các t
 luận nào đáng nói cho các Ngươi, Ta đã nói cho các Ngươi. Còn những biện nào không đáng nói cho các
 Ngươi, sao Ta lại sẽ nói cho các Ngươi?
 
+<!--pg-->
 Này Cunda, thế nào là những biện luận về tà kiến liên hệ đến quá khứ tối sơ, những biện luận nào đáng
 nói cho các Ngươi, Ta đã nói cho các Ngươi, và những biện luận không đáng nói cho các Ngươi? Này
 Cunda, có một số Sa-môn, Bà-la-môn có những quan điểm như sau, có những tri kiến như sau: “Bản ngã
@@ -468,6 +484,7 @@ hơn. Như vậy ở đây Ta cao hơn về thượng trí. Này Cunda, những 
 quá khứ tối sơ này, biện luận nào đáng nói cho các Ngươi, Ta đã nói cho các Ngươi. Còn những biện
 luận nào không đáng nói cho các Ngươi, sao Ta lại sẽ nói cho các Ngươi?
 
+<!--pg-->
 37\. Này Cunda, thế nào là những biện luận về tà kiến liên hệ đến tương lai, những biện luận nào đáng
 nói cho các Ngươi, Ta đã nói cho các Ngươi; và những biện luận không đáng nói cho các Ngươi?
 
@@ -515,6 +532,7 @@ hơn. Như vậy ở đây, Ta cao hơn về thượng trí. Này Cunda, những
 tương lai, những biện luận nào đáng nói cho các Ngươi, Ta đã nói cho các Ngươi. Còn những biện luận
 nào không đáng nói cho các Ngươi, sao Ta lại sẽ nói cho các Ngươi?
 
+<!--pg-->
 40\. Này Cunda, với mục đích đoạn trừ và vượt qua những biện luận về các tà kiến liên hệ đến quá khứ
 tối sơ này và các biện luận về các tà kiến liên hệ đến tương lai này, mà bốn pháp Niệm xứ được ta tuyên
 thuyết, trình bày. Thế nào là bốn? Này Cunda, ở đây vị Tỷ kheo sống quan thân trên thân, nhiệt tâm, tỉnh
@@ -527,11 +545,11 @@ trình bày.
 41\. Lúc bấy giờ, Tôn giả Upavàna đang đứng sau lưng hầu quạt Thế Tôn. Tôn giả Upavàna bạch Thế
 Tôn:
 
-\- Thật hy hữu thay, bạch Thế Tôn! Thật kỳ diệu thay, bạch Thế Tôn! Bạch Thế Tôn, pháp thoại này thật
+− Thật hy hữu thay, bạch Thế Tôn! Thật kỳ diệu thay, bạch Thế Tôn! Bạch Thế Tôn, pháp thoại này thật
 là thanh tịnh! Bạch Thế Tôn, pháp thoại này thật là tuyệt đối thanh tịnh! Bạch Thế Tôn, pháp thoại này
 tên là gì?
 
-\- Này Upavàna, pháp thoại này là Thanh tịnh (Pàsàdikà), hãy như vậy mà phụng trì.
+− Này Upavàna, pháp thoại này là Thanh tịnh (Pàsàdikà), hãy như vậy mà phụng trì.
 
 Thế Tôn thuyết dạy như vậy. Tôn giả Upavàna hoan hỷ, tín thọ lời dạy của Thế Tôn.
 

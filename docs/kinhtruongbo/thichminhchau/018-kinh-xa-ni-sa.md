@@ -8,7 +8,7 @@ Tôn thường hay tuyên bố về vấn đề tái sanh của những tín đ�
 trong các bộ lạc xung quanh như bộ lạc Kàsi (Ca-thi), Kosala (Câu-tát-la), Vajjì (Bạt-kỳ), Malla (Mạtla), Ceti (Chi-đề), Vansa (Bạt-sa), Kuru (Câu-lâu), Pancàla (Ban-giá-la), Maccha (Bà-sá-la) Sùrasena
 (Mậu-ba-tây-na):
 
-\- Vị này sanh ra tại chỗ này! Vị kia sanh ra tại chỗ kia. Hơn năm mươi vị tín đồ ở Nàdika đã từ trần, đã
+− Vị này sanh ra tại chỗ này! Vị kia sanh ra tại chỗ kia. Hơn năm mươi vị tín đồ ở Nàdika đã từ trần, đã
 mệnh chung với năm hạ phần kiết sử đã được đoạn trừ, được hóa sanh (thiên giới) từ đó nhập Niết-bàn
 không còn trở lại đời này nữa. Hơn chín mươi vị ở Nàdikà, đã từ trần, đã mệnh chung, với ba kiết sử đã
 được đoạn trừ, với tham, sân, si được giảm thiểu, chứng quả Nhất lai, sau khi trở lại đời này một lần nữa
@@ -36,6 +36,7 @@ lại đời này một lần nữa sẽ diệt tận khổ đau. Hơn năm tră
 kiết sử đã được diệt trừ, chứng quả Dự lưu, nhất định không đọa ác đạo, đạt đến Chánh Giác”. Các vị tín
 đồ ở Nãdikã được nghe Thế Tôn hỏi đáp như vậy lấy làm hoan hỷ, tín thọ, an lạc”.
 
+<!--pg-->
 4\. Rồi tôn giả Ananda suy nghĩ: “Nhưng ở tại Magadha (Ma-kiệt-đà), có nhiều tín đồ đã tu hành lâu
 ngày và đã từ trần, mệnh chung, nhiều đến nỗi người ta tưởng hai xứ Anga (Ương-già) và Magadha đều
 trống không vì số tín đồ từ trần mệnh chung. Những vị này tin tưởng Phật, tin tưởng Pháp và tin tưởng
@@ -58,7 +59,7 @@ Tôn có thể không trả lời được?”.
 dậy đến tại chỗ Thế Tôn ở, khi đến xong đảnh lễ Ngài và ngồi xuống một bên. Sau khi ngồi xuống một
 bên, tôn giả Ananda bạch Thế Tôn:
 
-\- Bạch Thế Tôn con có nghe: Thế Tôn thường hay tuyên bố về vấn đề tái sanh của những tín đồ đã từ
+− Bạch Thế Tôn con có nghe: Thế Tôn thường hay tuyên bố về vấn đề tái sanh của những tín đồ đã từ
 trần, đã mệnh chung trong các bộ lạc xung quanh, như bộ lạc Kàsi, Kosala, Vajjì, Malla, Ceit, Vamsa,
 Kuru, Pancàla, Macchà, Sùrasena: “Vị này sanh ra tại chỗ này, vị kia sanh ra tại chỗ kia. Hơn năm mươi
 vị tín đồ ở Nadikà đã mệnh chung với năm hạ phần kiết sử đã được nhập Niết-bàn không còn trở lại đời
@@ -73,7 +74,7 @@ nhiều đến nỗi người ta tưởng hai xứ Anga và Magadha đều trố
 Những vị này tin tưởng Phật, tin tưởng Pháp, tin tưởng Tăng và giới luật đầy đủ. Nhưng Thế Tôn không
 nói gì về sự từ trần và mệnh chung của họ. Lành thay nếu gợi được một câu trả lời về họ, và như vậy
 nhiều người sẽ khơi lòng tin, và từ đó được sanh lên Thiên giới. Bạch Thế Tôn, lại có vua Seniya
-Bimbisàra xứ Magadha, sống như Pháp, dùng Chánh pháp trị nước, có lòng thương tưởng các vị Bà-lamôn, Gia chủ, dân chúng thị thành và dân chúng thôm quê. Vua này được dân chúng xưng tán như sau:
+Bimbisàra xứ Magadha, sống như Pháp, dùng Chánh pháp trị nước, có lòng thương tưởng các vị Bà-la-môn , Gia chủ, dân chúng thị thành và dân chúng thôm quê. Vua này được dân chúng xưng tán như sau:
 “Vị vua sống như Pháp, và dùng Chánh pháp cai trị nước này. Vị Vua này cũng tin tưởng Phật, tin tưởng
 Pháp, tin tưởng Tăng và giới luật đầy đủ”. Và dân chúng cũng nói: “Cho đến khi mệnh chung, vua
 Seniya Bimbisàra xứ Magadha luôn luôn tán dương Thế Tôn”. Nhưng Thế Tôn không nói gì về sự từ
@@ -87,6 +88,7 @@ không thể trả lời được!
 Tôn giả Ananda, vì các tín đồ ở Magadha, sau khi đã trình lên trước Thế Tôn, từ chỗ ngồi đứng dậy,
 đảnh lễ Thế Tôn, thân phía hữu hướng về Ngài, từ tạ ra đi.
 
+<!--pg-->
 7\. Sau khi tôn giả Ananda đi ra không bao lâu, Thế Tôn liền đắp y vào buổi sáng, tay cầm y bát, đi vào
 Nàdikà để khất thực. Khi khất thực ở Nàdikà xong, sau buổi ăn, khi đi khất thực về và rửa chân, Ngài
 vào ngôi nhà bằng gạch, ngồi trên chỗ đã soạn sẵn, suy nghĩ, tư duy chú lực toàn tâm suy tưởng đến các
@@ -98,7 +100,7 @@ ngồi trên chỗ đã soạn sẵn, dưới bóng ngôi nhà.
 8\. Rồi Tôn giả Ananda đến tại chỗ Thế Tôn ở, lúc đến xong, đảnh lễ Ngài và ngồi xuống một bên. Sau
 khi ngồi xuống một bên, tôn giả Ananda bạch Thế Tôn:
 
-\- Bạch Thế Tôn, Thế Tôn ngó thật là an tịnh; diện sắc của Thế Tôn như là sáng chói nhờ các căn thật sự
+− Bạch Thế Tôn, Thế Tôn ngó thật là an tịnh; diện sắc của Thế Tôn như là sáng chói nhờ các căn thật sự
 thanh tịnh. Bạch Thế Tôn Thế Tôn hôm nay an trú có được hoan hỷ không?
 
 9\. - Này Ananda, sau khi Ngươi, vì các tín đồ ở Magadha đã nói trước mặt Ta như vậy và đứng dậy ra
@@ -106,11 +108,13 @@ về, Ta đi khất thực ở Nãdikã xong, sau bữa ăn, khi đi khất th�
 gạch, ngồi trên chỗ đã soạn sẵn, suy nghĩ tư duy, chú lực toàn tâm suy tưởng đến các tín đồ ở Magadha:
 “Ta sẽ tìm ra chỗ thọ sanh của họ, vận mạng của họ. Các vị Hiền nhân này thọ sanh ở đâu, vận mạng
 như thế nào?” Rồi Ta thấy được chỗ thọ sanh và vận mạng của các Hiền nhân tín đồ ở xứ Magadha này.
+
+<!--pg-->
 Này Ananda, lúc bấy giờ một vị Dạ-xoa (Yakkha) ẩn mình lớn tiếng nói rằng: “Bạch Thế Tôn, con tên
 là Janavasabha. Bạch Thiện Thệ, con là Janavasabha”. Này Ananda, Ngươi từ trước đã từng được nghe
 ai tên là Janavasabha (Xà-ni-sa) chưa?
 
-\- Bạch Thế Tôn, còn trừ trước chưa từng được nghe ai tên Janavasabha. Bạch Thế Tôn, khi con nghe tên
+− Bạch Thế Tôn, còn trừ trước chưa từng được nghe ai tên Janavasabha. Bạch Thế Tôn, khi con nghe tên
 Janavasabha, con có cảm giác râu tóc bị dựng ngược, Bạch Thế Tôn, con tự nghĩ: “Vị Dạ-xoa này không
 phải là hạng tầm thường, vì đã mang tên Janavasabha”.
 
@@ -121,10 +125,10 @@ thường và lần thứ hai, vị ấy nói:
 con được sanh vào giòng họ vua Vessavana (Tỳ-sa-môn Thiên vương). Con chết đi trong địa vị làm vua
 ở nhơn gian, nay được sanh trên thiên giới, làm bậc phi nhân.
 
-_Từ đây đến bảy lần_
-_Từ kia đến bảy lần_
-_Mười bốn lần tái sanh._
-_Như vậy con biết được,_
+_Từ đây đến bảy lần_\
+_Từ kia đến bảy lần_\
+_Mười bốn lần tái sanh._\
+_Như vậy con biết được,_\
 _Ðời quá khứ của con._
 
 Bạch Thế Tôn, từ lâu con không còn đọa lạc vào ác thú vì con đã hiểu được ác thú, và nay con muốn trở
@@ -145,6 +149,7 @@ Tôn! Không thể kỳ diệu sao được khi con đối mặt tự thân nghe
 chúng của mình, các Hiền nhân này thọ sanh ở đâu, vận mệnh như thế nào? Bạch Thế Tôn! Ta sẽ đề cập
 vấn đề với Thế Tôn!” Bạch Thế Tôn, đó là hai nguyên nhân khiến con đến yết kiến Thế Tôn!
 
+<!--pg-->
 12\. “Bạch Thế Tôn, trong những ngày xưa, những ngày xa xưa, nhân đêm trăng rằm Bố-tát (Uposatha)
 trong tháng nhập an cư mùa mưa, toàn thể chư Thiên ở cõi Tàvatimsà (Tam thập tam thiên) ngồi họp hội
 tại Thiện Pháp đường (Sudhamma). Xung quanh có Ðại Thiên chúng ngồi khắp mọi phía, tại bốn
@@ -164,21 +169,21 @@ diệt”.
 13\. “Bạch Thế Tôn, lúc bấy giờ Thiện chủ Ðế thích (Sakka Inda) thấy chư thiên ở Tam thập tam thiên
 hoan hỷ, liền tùy hỷ nói lên bài kệ như sau:
 
-_Chư Tam thập tam thiên,_
-_Cùng Ðế-thích hoan hỷ,_
-_Ðảnh lễ bậc Như Lai,_
-_Cùng Chánh pháp vi diệu._
-_Thấy Thiên chúng tân sanh,_
-_Quang sắc thật thù thắng,_
-_Các vị sống Phạm hạnh,_
-_Nay sanh tại cõi này._
-_Họ thắng về quang sắc,_
-_Thọ mạng và danh xưng,_
-_Ðệ tử bậc Ðại Tuệ,_
-_Thù thắng sanh cõi này._
-_Chư Tam thập tam thiên,_
-_Cùng Ðế-thích hoan hỷ,_
-_Ðảnh lễ bậc Như Lai,_
+_Chư Tam thập tam thiên,_\
+_Cùng Ðế-thích hoan hỷ,_\
+_Ðảnh lễ bậc Như Lai,_\
+_Cùng Chánh pháp vi diệu._\
+_Thấy Thiên chúng tân sanh,_\
+_Quang sắc thật thù thắng,_\
+_Các vị sống Phạm hạnh,_\
+_Nay sanh tại cõi này._\
+_Họ thắng về quang sắc,_\
+_Thọ mạng và danh xưng,_\
+_Ðệ tử bậc Ðại Tuệ,_\
+_Thù thắng sanh cõi này._\
+_Chư Tam thập tam thiên,_\
+_Cùng Ðế-thích hoan hỷ,_\
+_Ðảnh lễ bậc Như Lai,_\
 _Cùng Chánh pháp vi diệu._
 
 “Bạch Thế Tôn, chư Thiên ở Tam thập tam thiên lại càng hoan hỷ, tín thọ, hỷ lạc sanh hơn nữa và nói:
@@ -189,9 +194,9 @@ _Cùng Chánh pháp vi diệu._
 thuyết giảng. Theo mục đích ấy, bốn vị đại vương được khuyến giáo, bốn vị này đều đứng một bên chỗ
 ngồi của mình.
 
-_Các đại vương chấp nhận_
-_Lời giảng dạy khuyến giáo._
-_Thanh thoát và an tịnh,_
+_Các đại vương chấp nhận_\
+_Lời giảng dạy khuyến giáo._\
+_Thanh thoát và an tịnh,_\
 _Ðứng bên chỗ mình ngồi._
 
 15\. “Bạch Thế Tôn, rồi từ phương Bắc, một ánh sáng vi diệu khởi lên, một hào quang hiện ra, thắng xa
@@ -200,11 +205,12 @@ oai lực của chư Thiên. Bạch Thế Tôn rồi Thiên chủ Sakka nói v�
 hiệu Phạm thiên sẽ xuất hiện. Vì hiện tượng báo hiệu Phạm thiên xuất hiện là ánh sáng khởi lên và hào
 quang hiện ra”.
 
-_Theo hiện tượng được thấy,_
-_Phạm thiên sẽ xuất hiện._
-_Hiện tượng đấng Phạm thiên,_
+_Theo hiện tượng được thấy,_\
+_Phạm thiên sẽ xuất hiện._\
+_Hiện tượng đấng Phạm thiên,_\
 _Là hào quang vi diệu._
 
+<!--pg-->
 16\. “Bạch Thế Tôn, rồi chư Thiên ở Tam thập tam thiên ngồi xuống trên ghế của mình và nói: “Chúng
 tôi sẽ tìm hiểu hậu quả của hào quang này là thế nào sau khi được biết, chúng tôi sẽ đi gặp vị ấy”.
 
@@ -239,21 +245,21 @@ phẳng hay trên một mặt đất thăng bằng, cũng vậy bạch Thế Tô
 trên trời, ngồi kiết-già trên hư không, thấy được sự an tịnh của chư Thiên ở Tam thập tam thiên liền nói
 lên sự hoan hỷ của mình bằng bài kệ sau đây:
 
-_Chư Tam thập tam thiên_
-_Cùng Ðế-thích hoan hỷ,_
-_Ðảnh lễ bậc Như Lai,_
-_Cùng Chánh pháp vi diệu._
-_Thấy Thiên chúng tân sanh_
-_Quang sắc thật thù thắng,_
-_Các vị sống Phạm hạnh_
-_Hay sanh tại cõi này._
-_Chúng thắng về quang sắc_
-_Thọ mạng và danh xưng,_
-_Ðệ tử bậc Ðại Tuệ,_
-_Thù thắng sanh cõi này._
-_Chư Tam thập tam thiên_
-_Cùng Ðế-thích hoan hỷ,_
-_Ðảnh lễ bậc Như Lai_
+_Chư Tam thập tam thiên_\
+_Cùng Ðế-thích hoan hỷ,_\
+_Ðảnh lễ bậc Như Lai,_\
+_Cùng Chánh pháp vi diệu._\
+_Thấy Thiên chúng tân sanh_\
+_Quang sắc thật thù thắng,_\
+_Các vị sống Phạm hạnh_\
+_Hay sanh tại cõi này._\
+_Chúng thắng về quang sắc_\
+_Thọ mạng và danh xưng,_\
+_Ðệ tử bậc Ðại Tuệ,_\
+_Thù thắng sanh cõi này._\
+_Chư Tam thập tam thiên_\
+_Cùng Ðế-thích hoan hỷ,_\
+_Ðảnh lễ bậc Như Lai_\
 _Cùng Chánh pháp vi diệu._
 
 19\. “Bạch Thế Tôn, đó là nội dung lời nói của Phạm thiên Sanamkumàra. Bạch Thế Tôn, tiếng nói của
@@ -281,25 +287,26 @@ của Phạm thiên Sanamkumàra về vấn
 đề này được nói một cách khiến mỗi vị Thiên nghĩ rằng: “Vị ngồi trên chỗ ngồi của ta, chỉ vị ấ nói mà
 thôi”.
 
-_Chỉ một Phạm thiên nói,_
-_Mọi hóa thân đều nói,_
-_Chỉ một vị im lặng,_
-_Tất cả đều im lặng._
-_Chư Tam thập tam thiên,_
-_Cùng Ðế-thích nghĩ rằng:_
-_chỉ vị ngồi chỗ ta,_
+_Chỉ một Phạm thiên nói,_\
+_Mọi hóa thân đều nói,_\
+_Chỉ một vị im lặng,_\
+_Tất cả đều im lặng._\
+_Chư Tam thập tam thiên,_\
+_Cùng Ðế-thích nghĩ rằng:_\
+_chỉ vị ngồi chỗ ta,_\
 _Chỉ vị ấy riêng nói._
 
 22\. “Bạch Thế Tôn, Phạm thiên Sanamkumàra thâu nhiếp tất cả thân thành một thân, sau khi thâu nhiếp,
 liền ngồi trên chỗ ngồi của Thiên chủ Sakka và nói với Thiên chúng ở Tam thập tam thiên:
 
+<!--pg-->
 “- Chư Thiện hữu ở Tam thập tam thiên, Quý vị nghĩ thế nào? Bốn pháp thần túc đã được Thế Tôn, bậc
 Trí Giả, bậc Kiến Giả, bậc Ứng Cúng, Chánh Ðẳng Giác, khéo léo giải thích để thần thông được sung
 mãn, để thần thông được thuần thục, để thần thông được thi thiết. Thế nào là bốn? Ở đây, vị Tỷ-kheo tu
 tập thần túc, câu hữu dục, thiền định tinh cần hành... tinh tấn thiền định... tâm thiền định... tu tập thần
 túc, câu hữu với tư duy thiền định, tinh cần hành. Bốn pháp thần túc này đã được Thế Tôn, bậc Trí Giả,
 bậc Kiến Giả, bậc Ứng Cúng, Chánh Ðẳng Giác khéo léo giải thích để thần thông được sung mãn, để
-thần thông được thuần thục, để thần thông được thi thiết. Này các Thiện hữu, những Sa-môn hay Bà-lamôn nào trong quá khứ đã thưởng thức thần túc thông dưới một hay nhiều hình thức, tất cả đều tu tập và
+thần thông được thuần thục, để thần thông được thi thiết. Này các Thiện hữu, những Sa-môn hay Bà-la-môn  nào trong quá khứ đã thưởng thức thần túc thông dưới một hay nhiều hình thức, tất cả đều tu tập và
 pháp triển thần túc này. Này các Thiện hữu, những Sa-môn hay Bà-la-môn nào trong tương lai sẽ
 thưởng thức thần túc thông dưới một hay nhiều hình thức, tất cả đều sẽ tu tập và phát triển bốn pháp
 thần túc này. Này các Thiện hữu, những Sa-môn hay Bà-la-môn nào trong hiện tại thưởng thức thần túc
@@ -314,6 +321,7 @@ Thiện hữu ở Tam thập tam thiên, Quý vị có thấy ở nơi tôi th�
 23\. “Bạch Thế Tôn, đó là nội dung câu chuyện của Phạm thiên Sanamkumàra. Bạch Thế Tôn, sau khi
 nói xong, Phạm thiên Sanamkumàra nói với chư Thiên ở Tam thập tam thiên:
 
+<!--pg-->
 “- Chư Thiện hữu ở Tam thập tam thiên, quý vị nghĩ thế nào? Ba con đường tắt hướng đến an lạc đã
 được Thế Tôn bậc Trí Giả, bậc Kiến Giả, bậc Ứng Cúng, Chánh Ðẳng Giác chứng ngộ. Thế nào là ba?
 
@@ -352,6 +360,7 @@ bậc Ứng Cúng, Chánh Ðẳng Giác chứng ngộ.
 26\. “Bạch Thế Tôn, đó là nội dung câu chuyện Phạm thiên Sanamkumàra. Bạch Thế Tôn, sau khi nói
 xong, Phạm thiên Sanamkumàra nói với chư Thiên ở Tam thập tam thiên:
 
+<!--pg-->
 “- Chư Thiện hữu ở Tam thập tam thiên, Quý vị nghĩ thế nào? Bốn Niệm xứ hướng đến chơn thiện đã
 được Thế Tôn, bậc Trí Giả, bậc Kiến Giả, bậc Ứng Cúng, Chánh Ðẳng Giác chứng ngộ. Thế nào là bốn?
 Chư Thiện hữu, ở đây vị Tỷ-kheo sống quán thân trên thân, nhiệt tâm, tỉnh giác, chánh niệm để chế ngự
@@ -368,6 +377,7 @@ bậc Ứng Cúng, Chánh Ðẳng Giác chứng ngộ”.
 27\. “Bạch Thế Tôn, đó là nội dung câu chuyện của Phạm thiên Sanamkumàra. Bạch Thế Tôn, sau khi
 nói xong, Phạm thiên Sanamkumàra nói với chư Thiên ở Tam thập tam thiên:
 
+<!--pg-->
 “- Chư Thiện hữu ở Tam thập tam thiên, Quý vị nghĩ thế nào về bảy pháp Ðịnh tư lương (Samàdhiparikkhàrà) để tu hành chánh định, để kiện toàn thiền định, đã được Thế Tôn, bậc Trí Giả, bậc Kiến Giả,
 bậc Ứng Cúng, Chánh Ðẳng Giác chứng ngộ? Thế nào là bảy? Như chánh tri kiến, chánh tư duy, chánh
 ngữ, chánh nghiệp, chánh mạng, chánh tinh tấn, chánh niệm. Chư Thiện hữu, nhứt cảnh tánh của tâm do
@@ -391,10 +401,11 @@ hóa sanh được Chánh pháp hướng dẫn, hơn hai trăm bốn mươi vạ
 chung, những vị này đều diệt trừ ba kiết sử, chứng quả Dự lưu, không còn đọa vào ác thú, chắc chắn đạt
 đến chánh giác. Lại có những vị Nhất lai:
 
-_Với hạng chúng sanh này_
-_Ước lượng phần công đức._
-_Không thể ước lượng được_
+_Với hạng chúng sanh này_\
+_Ước lượng phần công đức._\
+_Không thể ước lượng được_\
 _Sợ phạm tội vọng ngữ._
+
 28\. “Bạch Thế Tôn, đó là nội dung câu chuyện của Phạm thiên Sanamkumàra. Bạch Thế Tôn, được biết
 nội dung câu chuyện của Phạm thiên Sanamkumàra, đại vương Vessavana khởi lên suy tư sau đây: “Chư
 Thiện hữu, thật là kỳ diệu! Chư Thiện hữu, thật là hy hữu, được có một Ðại sư thù thắng như vậy, một

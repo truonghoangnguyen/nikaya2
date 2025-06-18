@@ -51,22 +51,23 @@ vọng, khai tổ giáo phái, được quần chúng tôn sùng, dồi dào kin
 Nigantha Nàtaputta có thể khiến tâm Ðại vương được tịnh tín”. Khi nghe nói vậy, Ajàtasattu, con bà
 Videhi, vua nước Magadha yên lặng không nói gì.
 
+<!--pg-->
 8\. Lúc bấy giờ Jìvaka Komàrabhacca ngồi yên lặng cách Ajàtasattu, con bà Videhi, vua nước Magadha
 không xa bao nhiêu. Khi ấy Ajàtasattu, con bà Videhi, vua nước Magadha, nói với Jìvaka
 Komàrabhacca:
 
-\- Này khanh Jìvaka, sao ngươi lại yên lặng như vậy?
+− Này khanh Jìvaka, sao ngươi lại yên lặng như vậy?
 
-\- Tâu Ðại vương, chính tại vườn xoài này của chúng con, có Thế Tôn, bậc A-la-hán, Chánh Ðẳng Chánh
+− Tâu Ðại vương, chính tại vườn xoài này của chúng con, có Thế Tôn, bậc A-la-hán, Chánh Ðẳng Chánh
 Giác, hiện đang trú ngụ với đại chúng Tỷ-kheo một nghìn hai trăm năm mươi vị. Thế Tôn Gotama có
 tiếng đồn tốt đẹp sau đây lan rộng: “Ðây là Thế Tôn, bậc A-la-hán, Chánh Ðẳng Chánh Giác, Minh
 Hạnh Túc, Thiện Thệ, Thế Gian Giải, Vô Thượng Sĩ, Ðiều Ngự Trượng Phu, Thiên Nhân Sư, Phật, Thế
 Tôn”. Ðại vương hãy đến chiêm bái Thế Tôn này. Rất có thể, nhờ chiêm bái Thế Tôn, tâm của Ðại
 vương được tịnh tín.
 
-\- Vậy khanh Jìvaka, hãy cho thắng kiệu voi.
+− Vậy khanh Jìvaka, hãy cho thắng kiệu voi.
 
-\- Vâng, tâu Ðại vương.
+− Vâng, tâu Ðại vương.
 
 9\. Jìvaka Komàrabhacca vâng theo lời dạy của Ajàtasattu, con bà Videhi, vua nước Magadha, sai người
 thắng năm trăm con voi cái, và con vương tượng vua thường cởi, rồi tâu với Ajàtasattu, con bà Videhi,
@@ -80,38 +81,39 @@ Ràjagaha, dưới ánh sáng của các ngọn đuốc được cầm cao, vớ
 hoàng, tóc dựng lên. Lúc bấy giờ Ajàtasattu, con bà Videhi, vua nước Magadha sợ hãi, kinh hoàng, tóc
 dựng lên, nói với Jìvaka Komàrabhacca:
 
-\- Này khanh Jìvaka, người phản ta chăng? Này khanh Jìvaka, người lường gạt ta chăng? Này khanh
+− Này khanh Jìvaka, người phản ta chăng? Này khanh Jìvaka, người lường gạt ta chăng? Này khanh
 Jìvaka, ngươi nạp ta cho kẻ thù chăng? Tại sao trong một đại chúng lớn như thế này gần một nghìn hai
 trăm năm mươi vị, mà không có một tiếng đằng hắng, không có một tiếng ho, không một tiếng ồn?
 
-\- Tâu Ðại vương, thần không phản lại Ngài, thần không lường gạt Ngài, tâu Ðại vương, thần không nạp
+− Tâu Ðại vương, thần không phản lại Ngài, thần không lường gạt Ngài, tâu Ðại vương, thần không nạp
 Ngài cho kẻ thù, tâu Ðại Vương, hãy đi thẳng tới; tâu Ðại vương hãy đi thẳng tới. Tại chỗ kia trong căn
 nhà tròn chỗ có những ngọn đèn đang thắp sáng.
 
+<!--pg-->
 11\. Lúc bấy giờ, Ajàtasattu, con bà Videhi, vua nước Magadha đi cho đến chỗ voi có thể đi được, rồi
 xuống voi đi đến cửa căn nhà tròn. Khi đến nơi liền nói với Jìvaka Komàrabhacca:
 
-\- Này khanh Jìvaka, Thế Tôn ở tại đâu?
+− Này khanh Jìvaka, Thế Tôn ở tại đâu?
 
-\- Tâu Ðại vương, vị ấy là Thế Tôn. Tâu Ðại vương, Thế Tôn ngồi dựa vào cột chính giữa, mặt hướng
+− Tâu Ðại vương, vị ấy là Thế Tôn. Tâu Ðại vương, Thế Tôn ngồi dựa vào cột chính giữa, mặt hướng
 phía Nam, ngồi trước mặt chúng Tỷ-kheo.
 
 12\. Ajàtasattu, con bà Videhi, vua nước Magadha liền tiến đến chỗ Thế Tôn. Khi đến rồi, vua đứng một
 bên. Sau đi đứng một bên, Ajàtasattu, con bà Videhi, vua nước Magadha nhìn khắp chúng Tỷ-kheo đang
 yên lặng an tịnh như một hồ nước trong, cảm hứng nói rằng: “Mong hoàng tử Udàyibhadda (Ưu-đà-dibạt-đà) cũng được sự trầm lặng như sự trầm lặng của các vị Tỷ-kheo này vậy”.
 
-\- Ðại vương, hình như tâm trí của Ðại vương nặng nhiều về tình thương thì phải?
+− Ðại vương, hình như tâm trí của Ðại vương nặng nhiều về tình thương thì phải?
 
-\- Bạch Thế Tôn, con thương hoàng tử Udàyibhadda rất nhiều. Mong rằng hoàng tử Udàyibhadda cũng
+− Bạch Thế Tôn, con thương hoàng tử Udàyibhadda rất nhiều. Mong rằng hoàng tử Udàyibhadda cũng
 được sự trầm lặng như sự trầm lặng của chúng Tỷ-kheo này vậy.
 
 13\. Lúc bấy giờ Ajàtasattu, con bà Videhi, vua nước Magadha, đảnh lễ Thế Tôn, chấp tay vái chào
 chúng Tỷ-kheo, và ngồi xuống một bên. Sau khi ngồi xuống một bên, Ajàtasattu, con bà Videhi, vua
 nước Magadha bạch Thế Tôn:
 
-\- Bạch Thế Tôn, con muốn hỏi Thế Tôn một vấn đề này, nếu Ngài cho phép con hỏi.
+− Bạch Thế Tôn, con muốn hỏi Thế Tôn một vấn đề này, nếu Ngài cho phép con hỏi.
 
-\- Ðại vương cứ hỏi tùy theo ý muốn của Ðại vương.
+− Ðại vương cứ hỏi tùy theo ý muốn của Ðại vương.
 
 14\. - Cũng như các công nghệ chức nghiệp này, như điều tượng sư, điều mã sư, xa thuật sư, quân thuật
 sư, quân kỳ binh, nguyên súy, chiến sĩ, thượng sĩ quan, thám tử, dõng sĩ can đảm như voi chúa, anh
@@ -126,15 +128,16 @@ Ngài có thể chỉ cho rõ ràng kết quả thiết thực, hiện tại c�
 
 15\. - Này Ðại vương, Ðại vương có nhớ đã hỏi câu hỏi ấy với các vị Sa-môn, Bà-la-môn khác chăng?
 
-\- Bạch Ngài, con nhớ đã hỏi câu hỏi ấy với Sa-môn, Bà-la-môn khác.
+− Bạch Ngài, con nhớ đã hỏi câu hỏi ấy với Sa-môn, Bà-la-môn khác.
 
-\- Này Ðại vương, hãy nói lại cho nghe, các vị ấy đã trả lời với Ðại vương như thế nào, nếu Ðại vương
+− Này Ðại vương, hãy nói lại cho nghe, các vị ấy đã trả lời với Ðại vương như thế nào, nếu Ðại vương
 không thấy gì trở ngại.
 
-\- Bạch Thế Tôn, con không thấy gì trở ngại đối với đức Thế Tôn và các bậc như đức Thế Tôn.
+− Bạch Thế Tôn, con không thấy gì trở ngại đối với đức Thế Tôn và các bậc như đức Thế Tôn.
 
-\- Vậy Ðại vương hãy nói đi.
+− Vậy Ðại vương hãy nói đi.
 
+<!--pg-->
 16\. - Bạch Thế Tôn, một thời con đến Pùrana Kassapa, khi đến nơi, con nói lên những lời đón chào,
 chúc tụng thân hữu và xã giao với Pùrana Kassapa và ngồi xuống một bên. Sau khi ngồi xuống một bên,
 con nói với Pùrana Kassapa: “Ngài Kassapa, cũng như các công nghệ, chức nghiệp này, như điều tượng
@@ -166,6 +169,7 @@ nước con không được vui lòng?” Vì vậy bạch Thế Tôn, con khôn
 của Pùrana Kassapa. Không tán thán, không cật nạn, dầu không mãn nguyện cũng không thốt ra lời bất
 mãn, không công nhận cũng như không bác bỏ, con từ chỗ ngồi đứng dậy ra về.
 
+<!--pg-->
 19\. Bạch Thế Tôn, một thời con đến Makkhali Gosàla (Mạt-già-lê-cù-xá-lợi). Khi đến nơi, con nói lên
 những lời đón chào tụng thân hữu và xã giao với Makkhali Gosàla và ngồi xuống một bên. Sau khi ngồi
 xuống một bên, con nói với Makkhali Gosàla: “Ngài Gosàla, cũng như các công kỹ nghệ chức nghiệp
@@ -202,6 +206,7 @@ của hạnh Sa-môn, Makkhali Gosàla đã trả lời với thuyết luân h�
 Gosàla; không tán thán, không cật nạn, dầu không mãn nguyện cũng không thốt ra lời bất mãn, không
 công nhận cũng không bác bỏ, con từ chỗ ngồi đứng dậy ra về.
 
+<!--pg-->
 22\. Bạch Thế Tôn, một thời con đến Ajita Kesakambàli (A-kỳ-đa-xí-xá-khâm-bà-la) khi đến nơi con nói
 lên những lời đón chào, chúc tụng thân hữu và xã giao với Ajita Kesakambàli, và ngồi xuống một bên.
 Sau khi ngồi xuống một bên, con nói với Ajita Kesakambala: “Ngài Ajita Kesakambàli, cũng như các
@@ -228,6 +233,7 @@ vậy bạch Thế Tôn, con không tán thán, cũng không cật nạn lời n
 thán, không cật nạn, dầu không mãn nguyện cũng không thốt ra lời bất mãn, không công nhận cũng
 không bác bỏ, con từ chỗ ngồi đứng dậy ra về.
 
+<!--pg-->
 25\. Bạch Thế Tôn, một thời con đến Pakudha Kaccayana (Bà-phù-đả-ca-chiên-diên). Khi đến nơi con
 nói lên những lời đón chào, chúc tụng thân hữu và xã giao với Pakudha Kaccàyana và ngồi xuống một
 bên. Sau khi ngồi xuống một bên, con nói với Pakudha Kaccayana: “Ngài Pakudha Kaccayana, cũng
@@ -253,6 +259,7 @@ khác. Bạch Thế Tôn, con liền nghĩ: “Làm sao một người như con 
 nạn, bỏ lời nói của Pakudha Kaccayana. Không tán thán, không cật nạn, dầu không mãn nguyện, cũng
 không thốt ra lời bất mãn, không công nhận cũng không bác bỏ, con từ chỗ ngồi và đứng dậy ra về.
 
+<!--pg-->
 28\. Bạch Thế Tôn, một thời con đến Nigantha Nàtaputta (Ni-kiền-tử). Khi đến nơi, con nói lên những
 lời đón chào, chúc tụng thân hữu và xã giao với Nigantha Nàtaputta và ngồi xuống một bên. Sau khi
 ngồi xuống một bên, con nói với Nigantha Nàtaputta: “Ngài Aggivessana, các công nghệ chức nghiệp
@@ -276,6 +283,7 @@ Bạch Thế Tôn, con liền nghĩ: “Làm sao một người như con lại c
 lời nói của Nigantha Nàtaputta. Không tán thán không cật nạn, dù không mãn nguyện, cũng không thốt
 ra lời bất mãn, không công nhận cũng không bác bỏ, con từ chỗ ngồi đứng dậy ra về.
 
+<!--pg-->
 31\. Bạch Thế Tôn, một hôm con đến Sanjaya Belatthiputta (Tán-nhã-di-Tỳ-la-lê-phất). Khi đến nơi, con
 nói lên những lời đón chào chúc tụng thân hữu và xã giao với Sanjaya Belatthiputta và ngồi xuống một
 bên. Sau khi ngồi xuống một bên, con nói với Sanjaya Belatthiputta: “Ngài Sanjaya, các công nghệ chức
@@ -311,6 +319,7 @@ lòng”. Vì vậy, Bạch Thế Tôn, con không tán thán cũng không cật
 Không tán thán, không cật nạn, dầu không mãn nguyện, cũng không thốt ra lời bất mãn. Không công
 nhận cũng không bác bỏ, con từ chỗ ngồi đứng dậy ra về.
 
+<!--pg-->
 34\. Vậy nên bạch Thế Tôn, con cũng hỏi Thế Tôn. bạch Thế Tôn, cũng như các công nghệ chức nghiệp.
 Như điều tượng sư, điều mã sư, xa thuật sư, cung thuật sư, quân kỳ binh, nguyên soái, chiến sĩ, thượng
 sĩ quan, thám tử, dũng sĩ can đảm như voi chúa, anh hùng, trang giáp binh, nô lệ xuất thân, hỏa đầu
@@ -322,7 +331,7 @@ Chúng giúp cho bạn bè được sống an lạc hạnh phúc. Chúng dâng c
 lạc, thác sanh lên cõi trời. Bạch Thế Tôn, Thế Tôn có thể cho biết kết quả thiết thực hiện tại của hạnh
 Sa-môn chăng?
 
-\- Ðại vương có thể được. Này Ðại vương, ta sẽ hỏi Ðại vương về vấn đề này. Ðại vương hãy trả lời tùy
+− Ðại vương có thể được. Này Ðại vương, ta sẽ hỏi Ðại vương về vấn đề này. Ðại vương hãy trả lời tùy
 theo ý muốn của Ðại vương.
 
 35\. Ðại vương nghĩ sao? Nếu Ðại vương có một người nô bộc, dậy sớm, thức khuya, thi hành mọi mệnh
@@ -349,16 +358,17 @@ lời nói kính ái chú ý từng nét mặt?”
 người ấy ngồi xuống ghế, cúng dường người ấy các dụng cụ như y, đồ ăn khất thực, sàng tọa, thuốc men
 trị bệnh và chúng con sẽ ra lệnh để bảo vệ, che chở người ấy đúng theo luật pháp.
 
-\- Này Ðại vương, Ðại vương nghĩ thế nào? Nếu quả như vậy, thì đó có phải chăng là kết quả thiết thực
+− Này Ðại vương, Ðại vương nghĩ thế nào? Nếu quả như vậy, thì đó có phải chăng là kết quả thiết thực
 hiện tại hạnh Sa-môn?
 
-\- Bạch Thế Tôn, như vậy chính là kết quả thiết thực hiện tại của hạnh Sa-môn.
+− Bạch Thế Tôn, như vậy chính là kết quả thiết thực hiện tại của hạnh Sa-môn.
 
-\- Này Ðại vương đó là kết quả thiết thực hiện tại thứ nhất của hạnh Sa-môn mà Ta đã trình bày.
+− Này Ðại vương đó là kết quả thiết thực hiện tại thứ nhất của hạnh Sa-môn mà Ta đã trình bày.
 
+<!--pg-->
 37\. - Bạch Thế Tôn, có thể cho biết một kết quả thiết thực hiện tại khác hơn nữa của hạnh Sa-môn?
 
-\- Này Ðại vương, có thể được. Này Ðại vương. Ta sẽ hỏi Ðại vương về vấn đề này. Ðại vương hãy trả
+− Này Ðại vương, có thể được. Này Ðại vương. Ta sẽ hỏi Ðại vương về vấn đề này. Ðại vương hãy trả
 lời tùy theo ý muốn của Ðại vương. Ðại vương nghĩ sao? Nếu Ðại vương có một người nông phu, gia
 chủ, nạp thuế má, làm giàu công khố. Người ấy nghĩ: “Thật hy hữu thay! Thật kỳ diệu thay quả vị thác
 sanh của các công đức, quả vị thục của các công đức. Vị vua Ajàtasattu, con của bà Videhi, nước
@@ -379,19 +389,20 @@ với nhu cầu tối thiểu về ăn uống, y áo, hoan hỷ sống an tịnh
 người ấy ngồi xuống ghế, cúng dường người ấy các dụng cụ như y, đồ ăn khất thực, sàng tọa, thuốc men
 trị bịnh. Và chúng con sẽ ra lệnh để bảo vệ, che chở người ấy đúng theo luật pháp.
 
-\- Này Ðại vương, Ðại vương nghĩ thế nào? Nếu quả như vậy thời đó có phải là kết quả thiết thực hiện tại
+− Này Ðại vương, Ðại vương nghĩ thế nào? Nếu quả như vậy thời đó có phải là kết quả thiết thực hiện tại
 của hạnh Sa-môn chăng?
 
-\- Bạch Thế Tôn, như vậy chính là kết quả thiết thực hiện tại của hạnh Sa-môn.
+− Bạch Thế Tôn, như vậy chính là kết quả thiết thực hiện tại của hạnh Sa-môn.
 
-\- Này Ðại vương, đó là kết quả thiết thực hiện tại của hạnh Sa-môn, mà Ta trình bày.
+− Này Ðại vương, đó là kết quả thiết thực hiện tại của hạnh Sa-môn, mà Ta trình bày.
 
+<!--pg-->
 39\. Bạch Thế Tôn, có thể cho biết một kết quả thiết thực hiện tại khác nữa của hạnh Sa-môn, vi diệu
 hơn, thù thắng hơn những kết quả thiết thực hiện tại của hạnh Sa-môn vừa kể trên?
 
-\- Này Ðại vương có thể được. Này Ðại vương, hãy lóng tai nghe và khéo tác ý, Ta sẽ giảng.
+− Này Ðại vương có thể được. Này Ðại vương, hãy lóng tai nghe và khéo tác ý, Ta sẽ giảng.
 
-\- Vâng, Thế Tôn. Vua Ajàtasattu con bà Videhi vua xứ Magadha trả lời Thế Tôn. Thế Tôn nói:
+− Vâng, Thế Tôn. Vua Ajàtasattu con bà Videhi vua xứ Magadha trả lời Thế Tôn. Thế Tôn nói:
 
 40\. - Này Ðại vương, nay ở đời, Như Lai xuất hiện là bậc A-la-hán, Chánh Biến Tri, Minh Hạnh Túc,
 Thiện Thệ, Thế Gian Giải, Vô Thượng Sĩ, Ðiều Ngự Trượng Phu, Thiên Nhơn Sư, Phật, Thế Tôn. Như
@@ -414,6 +425,7 @@ nghi chánh hạnh, thấy nguy hiểm trong những lỗi nhỏ nhặt, thọ t
 nghiệp, ngữ nghiệp thanh tịnh. Sanh hoạt trong sạch giới hạnh cụ túc, thủ hộ các căn, chánh niệm tỉnh
 giác, và biết tri túc.
 
+<!--pg-->
 43\. Ðại Vương! Thế nào là Tỷ-kheo giới hạnh cụ túc? Ở đây, này Ðại Vương, Tỷ-kheo từ bỏ sát sanh,
 tránh xa sát sanh, bỏ trượng, bỏ kiếm, biết tàm quý, có lòng từ, sống thương xót đến tất cả hạnh phúc
 của chúng sanh và loài hữu tình. Như vậy là giới hạnh của vị ấy trong giới luật.
@@ -450,6 +462,7 @@ gian lận bằng cân, tiền bạc và đo lường. Từ bỏ các tà hạnh
 thương tổn, sát hại câu thúc, bứt đoạt, trộm cắp, cướp phá. Như vậy là giới hạnh của vị ấy trong giới
 luật.
 
+<!--pg-->
 46\. Trong khi một số Sa-môn, Bà-la-môn, dầu đã dùng các món ăn do tín thí cúng dường, vẫn còn sống
 làm hại các hạt giống và cây cối như hạt giống từ rễ sanh, hạt giống từ nhánh cây sanh, hạt giống từ đốt
 cây sanh, hạt giống từ chiết cây sanh, và thứ năm là hạt giống từ hạt giống sanh. Còn vị ấy thì không
@@ -518,6 +531,7 @@ giới. Như vậy là giới hạnh của vị ấy trong giới luật.
 lừa đảo, nói lời siễm nịnh, gợi ý, dèm pha, cầu lợi. Còn vị ấy thì từ bỏ nói lời lừa đảo và siểm nịnh như
 trên. Như vậy là giới hạnh của vị ấy trong giới luật.
 
+<!--pg-->
 56\. Trong khi một số Sa-môn, Bà-la-môn, dầu đã dùng các món ăn do tín thí cúng dường, vẫn còn tự
 nuôi sống bằng những tà hạnh như xem tướng tay chân, chiêm tướng, triệu tướng, mộng tướng, thân
 tướng, dấu chuột cắn, tế lửa, tế muỗng, dùng miệng phun hạt cải v. v... vào lửa, tế vỏ lúa, tế tấm, tế gạo,
@@ -584,6 +598,7 @@ thù địch, không còn thấy sợ hãi từ chỗ nào nữa về phương d
 ấy nhờ đầy đủ giới luật cao quý này, nên hưởng lạc thọ, nội tâm không vẩn đục. Như vậy, này Ðại
 vương, Tỷ-kheo đầy đủ giới luật.
 
+<!--pg-->
 64\. Ðại vương, thế nào là Tỷ-kheo hộ trì các căn? Này Ðại vương, khi mắc thấy sắc, Tỷ-kheo không
 nắm giữ tướng chung, không nắm giữ tướng riêng. Những nguyên nhân gì, khiến nhãn căn không được
 chế ngự, khiến tham ái, ưu bi, các ác, bất thiện pháp khởi lên, Tỷ-kheo tự chế ngự nguyên nhân ấy, hộ trì
@@ -593,17 +608,20 @@ khiến ý căn không được chế ngự, khiến tham ái, ưu bi, các ác,
 nguyên nhân ấy, hộ trì ý căn, thực hành sự hộ trì ý căn. Vị ấy, nhờ sự hộ trì cao quý các căn ấy, nên
 hưởng lạc thọ nội tâm, không vẩn đục. Như vậy, này Ðại vương, Tỷ-kheo hộ trì các căn.
 
+<!--pg-->
 65\. Ðại vương, thế nào là Tỷ-kheo chánh niệm tỉnh giác? Ðại vương, ở đây, Tỷ-kheo khi đi tới, khi đi lui
 đều tỉnh giác; khi nhìn thẳng, khi nhìn quanh đều tỉnh giác; khi co tay, khi duỗi tay đều tỉnh giác; khi
 mang y kép, bình bát, thượng y đều tỉnh giác, khi ăn, uống, nhai, nuốt đều tỉnh giác; khi đi đại tiện, tiểu
 tiện đều tỉnh giác; khi đi, đứng, ngồi, nằm, thức, nói, yên lặng đều tỉnh giác. Như vậy, này Ðại vương,
 Tỷ-kheo chánh niệm tỉnh giác.
 
+<!--pg-->
 66\. Ðại vương, thế nào là Tỷ-kheo biết đủ? Ở đây Tỷ-kheo bằng lòng với tấm y để che thân, với đồ ăn
 khất thực để nuôi bụng, đi tại chỗ nào cũng mang theo (y và bình bát). Ðại vương, cũng như con chim
 bay đến chỗ nào cũng mang theo hai cánh; cũng vậy, Ðại vương, vị Tỷ-kheo bằng lòng với tấm y để che
 thân, với đồ ăn khất thực để nuôi bụng, đi tại chỗ nào cũng mang theo. Như vậy, này Ðại vương, là Tỷkheo biết đủ.
 
+<!--pg-->
 67\. Vị ấy, với giới uẩn cao quý này, với sự hộ trì các căn cao quý này, với chánh niệm tỉnh giác cao quý
 này, với hạnh biết đủ cao quý này, lựa một chỗ thanh vắng, tịch mịch, như rừng, gốc cây, khe núi, hang
 đá, bãi tha ma, lùm cây, ngoài trời, đống rơm. Sau khi đi khất thực về và ăn xong, vị ấy ngồi kiết già,
@@ -647,6 +665,7 @@ hoạn, như ngục tù, như cảnh nô lệ, như con đường sa mạc. Này
 như không bệnh tật, như được khỏi tù tội, như được tự do, như đất lành yên ổn, này Ðại vương, Tỷ-kheo
 quán năm triền cái khi diệt trừ chúng.
 
+<!--pg-->
 75\. Khi quán tự thân đã xả ly năm triền cái ấy, hân hoan sanh; do hân hoan nên hỷ sanh; do tâm hoan hỷ,
 thân được khinh an; do thân khinh an, lạc thọ sanh; do lạc thọ, tâm được định tĩnh. Tỷ-kheo ly dục, ly ác
 pháp, chứng và trú thiền thứ nhất, một trạng thái hỷ lạc do ly dục sanh, với tầm, với tứ. Tỷ-kheo thấm
@@ -662,6 +681,7 @@ không một chỗ nào trên toàn thân không được hỷ lạc do ly dục
 Này Ðại vương, đó là quả thiết thực hiện tại của hạnh Sa-môn, còn vi diệu thù thắng hơn những quả
 thiết thực hiện tại của hạnh Sa-môn trước.
 
+<!--pg-->
 77\. Lại nữa, này Ðại vương, Tỷ-kheo ấy diệt tầm và tứ, chứng và trú thiền thứ hai, một trạng thái hỷ lạc
 do định sanh, không tầm không tứ, nội tĩnh nhất tâm Tỷ-kheo ấy thấm nhuần, tẩm ướt làm cho sung
 mãn, tràn đầy thân mình với hỷ lạc do định sanh, không một chỗ nào trên toàn thân không được hỷ lạc
@@ -678,6 +698,7 @@ cho sung mãn tràn đầy thân mình với hỷ lạc do định sanh, không 
 Này Ðại vương, đó là quả thiết thực hiện tại của hạnh Sa-môn, còn vi diệu thù thắng hơn những quả
 thiết thực hiện tại của hạnh Sa-môn trước.
 
+<!--pg-->
 79\. Lại nữa, này Ðại vương, Tỷ-kheo ly hỷ trú xả, chánh niệm tỉnh giác, thân cảm sự lạc thọ mà các bậc
 Thánh gọi là “Xả niệm lạc trú”, chứng và an trú thiền thứ ba. Tỷ-kheo thấm nhuần, tẩm ướt, làm cho
 sung mãn tràn đầy thân mình với lạc thọ không có hỷ ấy, không một chỗ nào trên toàn thân, không được
@@ -693,6 +714,8 @@ thấm nhuần.
 
 Này Ðại vương, đó là quả thiết thực hiện tại của hạnh Sa-môn, còn vi diệu thù thắng hơn những quả
 thiết thực hiện tại của hạnh Sa-môn trước.
+
+<!--pg-->
 81\. Lại nữa, này Ðại vương, Tỷ-kheo, xả lạc, xả khổ, diệt hỷ ưu đã cảm thọ trước, chứng và trú vào
 thiền thứ tư, không khổ, không lạc, xả niệm thanh tịnh. Tỷ-kheo ấy thấm nhuần toàn thân mình với tâm
 thuần tịnh trong sáng, không một chỗ nào trên toàn thân không được tâm thuần tịnh trong sáng ấy thấm
@@ -706,6 +729,7 @@ với tâm thuần tịnh, trong sáng, không một chỗ nào trên toàn thâ
 Này Ðại vương, đó là quả thiết thực hiện tại của hạnh Sa-môn, còn vi diệu, thù thắng hơn những quả
 thiết thực hiện tại của hạnh Sa-môn trước.
 
+<!--pg-->
 83\. Với tâm định tĩnh, thuần tịnh, không cấu nhiễm, không phiền não, nhu nhuyến, dễ sử dụng, vững
 chắc, bình thản như vậy, Tỷ-kheo dẫn tâm, hướng tâm đến chánh trí, chánh kiến. Vị ấy biết: Thân này
 của ta là sắc pháp, do bốn đại thành, do cha mẹ sanh, nhờ cơm cháo nuôi dưỡng, vô thường, biến hoại,
@@ -724,6 +748,7 @@ Trong thân ấy thức ta lại nương tựa và bị trói buộc.
 Này Ðại vương, đó là quả thiết thực, hiện tại của hạnh Sa-môn, còn vi diệu và thù thắng hơn những quả
 thiết thực hiện tại của hạnh Sa-môn trước.
 
+<!--pg-->
 85\. Với tâm định tĩnh, thuần tịnh, không cấu nhiễm, không phiền não, nhu nhuyến, dễ sử dụng, vững
 chắc, bình thản như vậy, Tỷ-kheo chú tâm, hướng tâm đến sự hóa hiện một thân do ý làm ra. Vị ấy tạo
 một thân khác từ nơi thân này, cũng là sắc pháp, do ý làm ra, đầy đủ các chi tiết lớn nhỏ, không thiếu
@@ -741,6 +766,7 @@ là sắc pháp, do ý tạo thành, đầy đủ các chi tiết lớn nhỏ, k
 Này Ðại vương, đó là quả thiết thực hiện tại của hạnh Sa-môn, còn vi diệu thù thắng hơn những quả
 thiết thực hiện tại của hạnh Sa-môn trước.
 
+<!--pg-->
 87\. Với tâm định tĩnh, thuần tịnh, không cấu nhiễm, không phiền não, nhu nhuyến, dễ sử dụng, vững
 chắc, bình thản như vậy, Tỷ-kheo dẫn tâm, hướng tâm đến các thần thông. Vị ấy chứng được các loại
 thần thông, một thân hiện ra nhiều thân, nhiều thân hiện ra một thân; hiện hình, biến hình đi ngang qua
@@ -764,6 +790,7 @@ vật có đại oai lực, đại oai thần như vậy; có thể tự thân b
 Này Ðại vương đó là quả thiết thực hiện tại của hạnh Sa-môn còn vi diệu thù thắng hơn những quả thiết
 thực hiện tại của hạnh Sa-môn trước.
 
+<!--pg-->
 89\. Với tâm định tĩnh, thuần tịnh, không cấu nhiễm, không phiền não, nhu nhuyến, dễ sử dụng, vững
 chắc, bình thản như vậy, Tỷ-kheo dẫn tâm, hướng tâm đến thiên nhĩ thông. Tỷ-kheo với thiên nhĩ thanh
 tịnh siêu nhân có thể nghe hai loại tiếng, chư Thiên và Người, xa và gần.
@@ -778,6 +805,7 @@ chư Thiên và Người, xa và gần.
 Này Ðại vương, đó là quả thiết thực hiện tại của hạnh Sa-môn, còn vi diệu thù thắng hơn những quả
 thiết thực hiện tại của hạnh Sa-môn trước.
 
+<!--pg-->
 91\. Với tâm định tĩnh, thuần tịnh, không cấu nhiễm, không phiền não, nhu nhuyến, dễ sử dụng, vững
 chắc, bình thản như vậy, Tỷ-kheo dẫn tâm, hướng tâm đến tha tâm thông. Tỷ-kheo sau khi đi sâu vào
 tâm của chúng sanh, của loài người với tâm của mình, vị ấy biết được như sau:
@@ -808,6 +836,7 @@ Tâm chưa vô thượng, biết là tâm chưa vô thượng. Tâm vô thượn
 Tâm thiền định, biết là tâm thiền định. Tâm không thiền định, biết là tâm không thiền định.
 Tâm giải thoát, biết là tâm giải thoát. Tâm không giải thoát biết là tâm không giải thoát.
 
+<!--pg-->
 93\. Với tâm định tĩnh, thuần tịnh, không cấu nhiễm, không phiền não, nhu nhuyến, dễ sử dụng, vững
 chắc, bình thản như vậy, Tỷ-kheo dẫn tâm, hướng tâm đến túc mạng minh. Vị ấy nhớ đến các đời sống
 quá khứ, như một đời, hai đời, ba đời, bốn đời, năm đời, mười đời, hai mươi đời, ba mươi đời, bốn mươi
@@ -835,6 +864,7 @@ Như vậy, Tỷ-kheo nhớ đến nhiều đời sống quá khứ cùng với 
 Này Ðại vương, đó là quả thiết thực hiện tại của hạnh Sa-môn, còn vi diệu, thù thắng hơn những quả
 thiết thực hiện tại của hạnh Sa-môn trước.
 
+<!--pg-->
 95\. Với tâm định tĩnh, thuần tịnh, không cấu nhiễm, không phiền não, nhu nhuyến, dễ sử dụng, vững
 chắc, bình thản như vậy, Tỷ-kheo dẫn tâm, hướng tâm đến trí huệ về sanh tử của chúng sanh. Vị ấy với
 thiên nhãn thuần tịnh, siêu nhân, thấy sự sống và chết của chúng sanh. Vị ấy biết rõ rằng, chúng sanh
@@ -867,6 +897,7 @@ chúng sanh, vị ấy biết rõ rằng chúng sanh, người hạ liệt kẻ 
 may mắn kẻ bất hạnh, đều do hạnh nghiệp của chúng. Này Ðại vương, đó là quả thiết thực, hiện tại của
 hạnh Sa-môn, còn vi diệu thù thắng hơn những quả thiết thực hiện tại của hạnh Sa-môn trước.
 
+<!--pg-->
 97\. “Với tâm định tĩnh, thuần tịnh, không cấu nhiễm, không phiền não, nhu nhuyến, dễ sử dụng, vững
 chắc, bình thản như vậy, Tỷ-kheo dẫn tâm, hướng tâm đến lậu tận trí. Vị ấy biết như thật “đây là khổ”,
 biết như thật “đây là nguyên nhân của khổ”, biết như thật “đây là khổ diệt”, biết như thật “đây là con
@@ -895,6 +926,7 @@ Này Ðại vương, đó là quả thiết thực hiện tại của hạnh Sa-
 thiết thực hiện tại của hạnh Sa-môn trước. Này Ðại vương, không có một quả thiết thực hiện tại của
 hạnh Sa-môn nào vi diệu và thù thắng hơn quả thiết thực hiện tại của hạnh Sa-môn này.
 
+<!--pg-->
 99\. Ðược nghe nói vậy, Ajàtasattu, con bà Videhi, vua nước Magadha bạch Thế Tôn: “Thật là vi diệu
 thay, bạch Thế Tôn! Thật là vi diệu thay, bạch Thế Tôn! Bạch Thế Tôn, như người dựng đứng lại những
 gì bị che kín, chỉ đường cho kẻ bị lạc hướng, đem đèn sáng vào trong bóng tối để những ai có mắt có thể
@@ -912,7 +944,7 @@ pháp của bậc Thánh, những ai thấy tội là tội, thú tội đúng v
 101\. Ðược nghe nói vậy, Ajàtasattu, con bà Videhi, vua nước Magadha bạch Thế Tôn: “Bạch Thế Tôn,
 nay chúng con phải cáo từ, chúng con có nhiều bổn phận, nhiều việc phải làm”.
 
-\- Ðại vương hãy làm những gì Ðại vương nghĩ ra là phải thời.
+− Ðại vương hãy làm những gì Ðại vương nghĩ ra là phải thời.
 
 Lúc bấy giờ, Ajàtasattu, con bà Videhi, vua nước Magadha hoan hỷ tán thán lời dạy của Thế Tôn, từ chỗ
 ngồi đứng dậy, đảnh lễ Thế Tôn, thân phía hữu hướng về Thế Tôn và từ biệt.
@@ -920,7 +952,7 @@ ngồi đứng dậy, đảnh lễ Thế Tôn, thân phía hữu hướng về T
 102\. Lúc bấy giờ, khi Ajàtasattu, con bà Videhi, vua nước Magadha đi chưa bao lâu, Thế Tôn liền bảo
 các Tỷ-kheo:
 
-\- Này các Tỷ-kheo, tâm vua ấy rất ăn năn, này các Tỷ-kheo, tâm vua ấy rất hối lỗi. Nếu vua ấy không
+− Này các Tỷ-kheo, tâm vua ấy rất ăn năn, này các Tỷ-kheo, tâm vua ấy rất hối lỗi. Nếu vua ấy không
 hại mạng vua cha, một vị vua rất chân chánh, thì tại ngay chỗ ngồi này, vua ấy đã chứng được pháp
 nhãn, không trần cấu, không ô uế.
 

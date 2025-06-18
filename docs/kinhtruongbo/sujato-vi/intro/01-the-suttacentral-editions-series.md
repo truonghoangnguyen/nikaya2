@@ -1,0 +1,7 @@
+# Loạt Ấn Bản SuttaCentral
+
+Từ năm 2005, SuttaCentral đã cung cấp quyền truy cập vào các bản kinh, bản dịch và các bản song ngữ của các kinh điển Phật giáo sơ kỳ. Năm 2018, chúng tôi bắt đầu tạo và xuất bản các bản dịch của những kinh điển tâm linh nền tảng này. Loạt "Ấn Bản" hiện cung cấp các bản dịch chọn lọc dưới dạng sách với nhiều hình thức khác nhau, bao gồm bản in, PDF và EPUB.
+
+Các ấn bản được chọn lọc từ những bản dịch đầy đủ, được trau chuốt kỹ lưỡng và đáng tin cậy nhất của chúng tôi. Chúng nhằm mục đích đưa những bản kinh này đến với đông đảo độc giả hơn dưới những hình thức khuyến khích việc đọc với sự *tỉnh thức* (mindful reading / *niệm*, sự chú tâm). Mọi chi tiết trong quá trình sản xuất đều được chăm chút tỉ mỉ, và chúng tôi mong muốn đáp ứng hoặc vượt qua các tiêu chuẩn chuyên nghiệp tốt nhất về mọi mặt. Đây là những kinh điển cốt lõi làm nền tảng cho toàn bộ truyền thống Phật giáo, và chúng tôi tin rằng chúng xứng đáng được bảo tồn và cung cấp với chất lượng cao nhất mà không có sự thỏa hiệp nào.
+
+SuttaCentral là một tổ chức từ thiện. Công việc của chúng tôi được thực hiện bởi các tình nguyện viên và thông qua sự hào phóng của các nhà tài trợ. Mọi thứ chúng tôi tạo ra đều được cung cấp cho toàn thể nhân loại mà không có bất kỳ hạn chế nào về bản quyền hay cấp phép.

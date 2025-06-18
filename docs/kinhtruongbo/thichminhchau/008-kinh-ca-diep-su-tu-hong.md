@@ -36,6 +36,7 @@ chúng tôi không công nhận là phải, các vị này cũng không công nh
 nhận là phải, các vị này không công nhận là phải. Có điểm chúng tôi không công nhận là phải, các vị
 này công nhận là phải.
 
+<!--pg-->
 5\. Ta đến các vị ấy và nói: “Này các Hiền giả, những điểm bất đồng ý, hãy để chúng yên như vậy.
 Những điểm đồng ý, các vị có trí hãy hỏi nhau, tìm hiểu và đàm luận với nhau, giáo sư với giáo sư, hay
 chúng đệ tử với chúng đệ tử: “Những pháp bất thiện hay được xem là bất thiện, những pháp lỗi lầm hay
@@ -97,6 +98,7 @@ này, chúng đệ tử của Gotama đã hoàn toàn thành tựu những pháp
 giả, sư trưởng các giáo phái kia chỉ thành tựu một phần thôi”. Như vậy này Kassapa, những vị có trí hỏi
 nhau, tìm hiểu và đàm luận với nhau, một phần lớn tán thán chúng tôi về vấn đề này.
 
+<!--pg-->
 13\. Này Kassapa, có con đường, có phương pháp khiến ai tuân theo sẽ tự thấy và tự biết: “Sa-môn
 Gotama nói đúng thời, nói chân thật, nói lợi ích, nói hợp pháp, nói đúng luật”. Này Kassapa, con đường
 ấy là gì, phương pháp ấy là gì khiến ai tuân theo sẽ tự thấy và biết: “Sa-môn Gotama nói đúng thời, nói
@@ -104,9 +106,10 @@ chân thật, nói lợi ích, nói hợp pháp, nói đúng luật?” Chính l
 tri kiến, chánh tư duy, chánh ngữ, chánh nghiệp, chánh mạng, chánh tinh tấn, chánh niệm, chánh định.
 Này Kassapa, chính con đường này, chính phương pháp này khiến ai tuân theo sẽ tự thấy và tự biết: “Samôn Gotama nói đúng thời, nói lời chân thật, nói lợi ích, nói hợp pháp, nói đúng luật”.
 
+<!--pg-->
 14\. Nghe nói vậy, lõa thể Kassapa bạch đức Thế Tôn:
 
-\- Hiền giả Gotama, những pháp khổ hạnh này được những Sa-môn và Bà-la-môn công nhận là đưa đến
+− Hiền giả Gotama, những pháp khổ hạnh này được những Sa-môn và Bà-la-môn công nhận là đưa đến
 Sa-môn quả và Bà-la-môn quả: Sống lõa thể, - Sống phóng túng, không theo lễ nghi (như đứng mà đi
 đại tiểu tiện, đứng ăn, không chịu ngồi theo lễ nghi), - Liếm tay cho sạch (sau khi ăn, không chịu rửa), Ði khất thực không chịu bước tới (theo yêu cầu để thí chủ bỏ đồ ăn vào bát), - Không nhận đồ ăn mang
 đến (cho mình, trước khi đi khất thực), - Không nhận đồ ăn đặc biệt nấu cho mình. - Không nhận mời đi
@@ -142,19 +145,16 @@ ngoài trời, theo hạnh bạ đâu nằm đấy, sống ăn các uế vật, 
 bò, tro và đất), sống không uống nước lạnh, theo hạnh không uống nước lạnh, sống một đêm tắm ba lần,
 theo hạnh xuống nước tắm (để gột sạch tội lỗi).
 
+<!--pg-->
 15\. - Này Kassapa nếu một người sống lõa thể, sống phóng túng không theo lễ nghi, liếm tay... như vậy
 sống theo hạnh tiết chế ăn uống cho đến nửa tháng chỉ ăn một lần, nhưng nếu vị này không tu và không
 chứng được giới cụ túc, tâm cụ túc, tuệ cụ túc, thời vị ấy cách rất xa Sa-môn vị, cách rất xa Bà-la-môn
 vị. Này Kassapa, nếu Tỷ-kheo sống tu tập từ bi tâm, không hận thù, không ác hại và với sự diệt tận các
-lậu hoặc, tự giác chứng và an trú ngay hiện tại, tâm giải thoát, tuệ giải thoát vô lậu, này Kassapa Tỷ
-
------
-
-kheo ấy được gọi là Sa-môn, được gọi là Bà-la-môn.
+lậu hoặc, tự giác chứng và an trú ngay hiện tại, tâm giải thoát, tuệ giải thoát vô lậu, này Kassapa Tỷ kheo ấy được gọi là Sa-môn, được gọi là Bà-la-môn.
 
 Này Kassapa, nếu một người chỉ ăn cỏ lúa để sống, này Kassapa nếu người ấy chỉ ăn lúa tắc, gạo lức, ăn
 hột cải nivàra... ăn trái cây, rễ cây trong rừng, ăn trái cây rụng để sống, nhưng nếu vị này không tu và
-không chứng được giới cụ túc, tâm cụ túc, tuệ cụ túc thời vị ấy cách rất xa Sa-môn vị, cách rất xa Bà-lamôn vị. Này Kassapa, nếu Tỷ-kheo sống tu tập từ bi tâm, không hận thù, không ác hại, và với sự diệt tận
+không chứng được giới cụ túc, tâm cụ túc, tuệ cụ túc thời vị ấy cách rất xa Sa-môn vị, cách rất xa Bà-la-môn  vị. Này Kassapa, nếu Tỷ-kheo sống tu tập từ bi tâm, không hận thù, không ác hại, và với sự diệt tận
 các lậu hoặc, tự giác chứng và an trú ngay hiện tại, tâm giải thoát, tuệ giải thoát vô lậu, này Kassapa, Tỷkheo ấy được gọi là Sa-môn, được gọi là Bà-la-môn.
 
 Này Kassapa, nếu một người mặc vải gai thô, mặc vải gai thô trộn với các vải khác,... sống một đêm tắm
@@ -166,9 +166,9 @@ gọi là Sa-môn, được gọi là Bà-la-môn.
 
 16\. Khi nghe nói đến đây, lõa thể Kassapa bạch Thế Tôn:
 
-\- Tôn giả Gotama, khó hành thay Sa-môn hạnh! Khó hành thay Bà-la-môn hạnh!
+− Tôn giả Gotama, khó hành thay Sa-môn hạnh! Khó hành thay Bà-la-môn hạnh!
 
-\- Này Kassapa, đó là lời nói thường tình ở đời: “Khó hành thay Sa-môn hạnh! Khó hành thay Bà-la-môn
+− Này Kassapa, đó là lời nói thường tình ở đời: “Khó hành thay Sa-môn hạnh! Khó hành thay Bà-la-môn
 hạnh! Này Kassapa, như một người sống lõa thể, sống phóng túng không theo lễ nghi, liếm tay... như
 vậy sống theo hạnh tiết chế ăn uống, cho đến nửa tháng chỉ ăn một lần. Này Kassapa, nếu sự khó hành,
 sự rất khó hành của Sa-môn hạnh, của Bà-la-môn hạnh chỉ tùy thuộc khổ hạnh này và chỉ tùy thuộc sự
@@ -190,7 +190,7 @@ hành thay Sa-môn hạnh! Khó hành thay Bà-la-môn hạnh”. Một người
 cho đến một người đầy tớ gái đội ghè nước có thể làm theo những hạnh: “Tôi chỉ ăn cỏ lúa để sống, ăn
 lúa tắc, gạo lức... ăn trái cây, rễ cây trong rừng, ăn trái cây rừng để sống”. Này Kassapa, vì ngoài khổ
 hạnh này, ngoài sự thực hành khổ hạnh này, Sa-môn hạnh hay Bà-la-môn hạnh vẫn khó hành trì, vẫn
-thật khó hành trì, do vậy thật xứng đáng mà nói: “Khó hành thay Sa-môn hạnh! Khó hành thay Bà-lamôn hạnh!” Này Kassapa, nếu Tỷ-kheo sống tu tập từ bi tâm, không hận thù, không ác hại, và với sự
+thật khó hành trì, do vậy thật xứng đáng mà nói: “Khó hành thay Sa-môn hạnh! Khó hành thay Bà-la-môn  hạnh!” Này Kassapa, nếu Tỷ-kheo sống tu tập từ bi tâm, không hận thù, không ác hại, và với sự
 diệt tận các lậu hoặc, tự giác chứng và an trú ngay hiện tại, tâm giải thoát, tuệ giải thoát vô lậu, này
 Kassapa, Tỷ-kheo ấy được gọi là Sa-môn, được gọi là Bà-la-môn!
 
@@ -208,9 +208,9 @@ Sa-môn, được gọi là Bà-la-môn.
 
 17\. Khi nghe nói vậy, lão thể Kassapa bạch đức Thế Tôn:
 
-\- Tôn giả Gotama, khó biết thay một vị Sa-môn! Khó biết thay một Bà-la-môn!
+− Tôn giả Gotama, khó biết thay một vị Sa-môn! Khó biết thay một Bà-la-môn!
 
-\- Này Kassapa, đó là lời nói thường tình ở đời: “Khó biết thay một Sa-môn! Khó biết thay một Bà-lamôn!” Này Kassapa, nếu một người sống lõa thể, sống phóng túng không theo lễ nghi, liếm tay... như
+− Này Kassapa, đó là lời nói thường tình ở đời: “Khó biết thay một Sa-môn! Khó biết thay một Bà-la-môn !” Này Kassapa, nếu một người sống lõa thể, sống phóng túng không theo lễ nghi, liếm tay... như
 vậy sống theo hạnh tiết chế ăn uống, cho đến nửa tháng chỉ ăn một lần. Này Kassapa, nếu trở thành một
 Sa-môn, nếu trở thành một Bà-la-môn chỉ tùy thuộc khổ hạnh này, và chỉ tùy thuộc sự thi hành khổ hạnh
 này, thời thật không xứng mà nói: “Khó biết thay một Sa-môn! Khó biết thay một Bà-la-môn!” Một
@@ -252,11 +252,12 @@ Kassapa, nếu Tỷ-kheo sống tu tập từ bi tâm, không hận thù, không
 hoặc, tự giác chứng và an trú ngay hiện tại, tâm giải thoát, tuệ giải thoát vô lậu, này Kassapa, Tỷ-kheo
 ấy được gọi là Sa-môn, được gọi là Bà-la-môn.
 
+<!--pg-->
 18\. Khi nghe nói vậy, lõa thể Kassapa bạch đức Thế Tôn:
 
-\- Tôn giả Gotama, thế nào là giới cụ túc? Thế là tâm cụ túc? Thế nào là tuệ cụ túc?
+− Tôn giả Gotama, thế nào là giới cụ túc? Thế là tâm cụ túc? Thế nào là tuệ cụ túc?
 
-\- Này Kassapa, nay ở đời, Như Lai xuất hiện, là bậc A-la-hán, Chánh Biến Tri... (xem Kinh Sa-môn quả,
+− Này Kassapa, nay ở đời, Như Lai xuất hiện, là bậc A-la-hán, Chánh Biến Tri... (xem Kinh Sa-môn quả,
 đoạn kinh số 40-42)... thấy nguy hiểm trong những lỗi nhỏ nhặt, thọ lãnh và tu học trong giới pháp, thân
 nghiệp, ngữ nghiệp thanh tịnh, sanh hoạt trong sạch, giới hạnh cụ túc, thủ hộ các căn, đầy đủ chánh
 niệm, chánh trí và biết tri túc.
@@ -313,6 +314,7 @@ Này Kassapa, đó là tuệ cụ túc.
 Này Kassapa, và không có một giới cụ túc, tâm cụ túc, tuệ cụ túc nào khác cao thượng hơn, thù thắng
 hơn giới cụ túc, tâm cụ túc và tuệ cụ túc này.
 
+<!--pg-->
 21\. Này Kassapa, có một số Sa-môn, Bà-la-môn chủ trương giới luật. Những vị này dùng nhiều phương
 tiện tán thán giới luật. Này Kassapa, nói về giới luật tôn kính cao thượng nhất, Ta nhận thấy không có
 một ai bằng giới luật của Ta, làm sao có ai hơn được. Như vậy Ta hơn trên tất cả về giới luật, tức là tăng
@@ -354,11 +356,12 @@ người ta xem ý kiến của Sa-môn Gotama đáng được nghe, sau khi đ�
 lòng tin tưởng người ta biểu lộ lòng tin tưởng, người ta đạt đến chỗ như thực, đạt đến chỗ như thực,
 người ta đem ra thực hành”. Này Kassapa, nên nói với chúng như vậy.
 
+<!--pg-->
 23\. Này Kassapa, một thời Ta ở tại Vương Xá trên núi Linh Thứu. Lúc bấy giờ, có người Phạm chí tu
 khổ hạnh tên là Nigrodha đến hỏi về tối thắng khổ hạnh yểm ly. Khi được hỏi về tối thắng khổ hạnh yểm
 ly, Ta đã trả lời. Và khi được Ta trả lời, vị ấy phát tâm hoan hỷ như với một hoan lạc tối thượng.
 
-\- Bạch Ðại đức, ai có thể sau khi nghe Thế Tôn thuyết pháp, lại không hoan hỷ như với một hoan lạc tối
+− Bạch Ðại đức, ai có thể sau khi nghe Thế Tôn thuyết pháp, lại không hoan hỷ như với một hoan lạc tối
 thượng? Thật vi diệu thay, bạch Ðại đức! Thật vi diệu thay, bạch Ðại đức! Bạch Ðại đức, như người
 dựng đứng lại những gì bị quăng ngã xuống, phơi bày ra những gì bị che kín, chỉ đường cho kẻ lạc
 hướng, đem đèn sáng vào trong bóng tối để những ai có mắt có thể thấy sắc. Cũng vậy, chánh pháp đã
@@ -369,7 +372,7 @@ quy y Tỷ-kheo Tăng. Bạch Ðại đức, con xin xuất gia với Thế Tôn
 này phải sống bốn tháng biệt trú. Sau khi sống bốn tháng biệt trú, chúng Tăng nếu đồng ý sẽ cho xuất
 gia, cho thọ đại giới để thành vị Tỷ-kheo. Nhưng ta nhận thấy cá tánh con người sai biệt nhau.
 
-\- Bạch Ðại đức, nếu những người xưa kia là ngoại đạo, nay muốn xuất gia, muốn thọ đại giới trong pháp
+− Bạch Ðại đức, nếu những người xưa kia là ngoại đạo, nay muốn xuất gia, muốn thọ đại giới trong pháp
 và luật này phải sống bốn tháng biệt trú, sau khi sống bốn tháng biệt trú chúng Tăng nếu đồng ý sẽ cho
 xuất gia, cho thọ đại giới, thời con sẽ xin sống biệt trú bốn năm, sau khi sống biệt trú bốn năm, nếu
 chúng Tăng đồng ý, mong chúng Tăng xuất gia cho con, thọ đại giới cho con để thành vị Tỷ-kheo.

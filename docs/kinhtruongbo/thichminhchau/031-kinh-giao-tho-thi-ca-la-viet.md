@@ -13,23 +13,24 @@ chủ tử, dậy sớm, ra khỏi thành Vương Xá, với áo thấm nước,
 phương hướng, hướng Ðông, hướng Nam, hướng Tây, hướng Bắc, hướng Hạ, hướng Thượng. Thấy vậy
 Ngài nói với Singàlaka, gia chủ tử:
 
-\- Này Gia chủ tử, vì sao Ngươi dậy sớm, ra khỏi thành Vương Xá, với áo thấm ướt, với tóc thấm ướt
+− Này Gia chủ tử, vì sao Ngươi dậy sớm, ra khỏi thành Vương Xá, với áo thấm ướt, với tóc thấm ướt
 chấp tay đảnh lễ các phương hướng, hướng Ðông... hướng Thượng?
 
-\- Bạch Thế Tôn, thân phụ con khi gần chết có dặn con: “Này con thân yêu, hãy đảnh lễ các phương
+− Bạch Thế Tôn, thân phụ con khi gần chết có dặn con: “Này con thân yêu, hãy đảnh lễ các phương
 hướng”. Bạch Thế Tôn, con kính tín, cung kính, tôn trọng, đảnh lễ lời nói của thân phụ con, buổi sáng
 dậy sớm, ra khỏi thành Vương Xá, với áo thấm ướt, với tóc thấm ướt, chấp tay đảnh lễ các phương
 hướng, hướng Ðông... hướng Thượng.
 
-\- Này Gia chủ tử, trong luật pháp của bậc Thánh, lễ bái sáu phương không phải như vậy.
+<!--pg-->
+− Này Gia chủ tử, trong luật pháp của bậc Thánh, lễ bái sáu phương không phải như vậy.
 
-\- Bạch Thế Tôn, trong luật pháp của bậc Thánh, thế nào là lễ bái sáu phương? Bạch Thế Tôn, trong luật
+− Bạch Thế Tôn, trong luật pháp của bậc Thánh, thế nào là lễ bái sáu phương? Bạch Thế Tôn, trong luật
 pháp của bậc Thánh, đảnh lễ sáu phương phải như thế nào? Lành thay! Thế Tôn hãy giảng pháp ấy cho
 con!
 
-\- Này Gia chủ tử, hãy nghe và suy nghiệm kỹ, Ta sẽ giảng.
+− Này Gia chủ tử, hãy nghe và suy nghiệm kỹ, Ta sẽ giảng.
 
-\- Thưa vâng, bạch Thế Tôn.
+− Thưa vâng, bạch Thế Tôn.
 
 Singàlaka, gia chủ tử vâng lời Thế Tôn. Thế Tôn giảng như sau:
 
@@ -38,6 +39,7 @@ theo bốn lý do, không theo sáu nguyên nhân để phung phí tài sản. V
 trở thành vị che chở sáu phương; vị này đã thực hành để chiến thắng hai đời, vị này đã chiến thắng đời
 này và đời sau. Sau khi thân hoại mạng chung, vị này sanh ở thiện thú, Thiên giới.
 
+<!--pg-->
 Thế nào là bốn nghiệp phiền não đã được diệt trừ? Này Gia chủ tử, đó là nghiệp phiền não sát sanh,
 nghiệp phiền não trộm cắp, nghiệp phiền não tà dâm, nghiệp phiền não nói láo. Bốn nghiệp phiền não
 này đã được trừ diệt.
@@ -46,11 +48,12 @@ Thế Tôn thuyết giảng như vậy.
 
 4\. Thiện thệ thuyết giảng xong, bậc Ðạo Sư lại giảng thêm:
 
-_Sát sanh và trộm cắp,_
-_Nói láo, lấy vợ người,_
-_Kẻ trí không tán thán,_
+_Sát sanh và trộm cắp,_\
+_Nói láo, lấy vợ người,_\
+_Kẻ trí không tán thán,_\
 _Những hạnh nghiệp như vậy._
 
+<!--pg-->
 5\. Thế nào là không làm ác nghiệp theo bốn lý do? Ác nghiệp làm do tham dục, ác nghiệp làm do sân
 hận, ác nghiệp làm do ngu si, ác nghiệp làm do sợ hãi. Này Gia chủ tử, vì thị Thánh đệ tử không tham
 dục, không sân hận, không ngu si, không sợ hãi, nên không làm ác nghiệp theo bốn lý do.
@@ -59,15 +62,16 @@ Thế Tôn thuyết giảng như vậy.
 
 6\. Thiện Thệ thuyết giảng xong, bậc Ðạo Sư lại giảng thêm:
 
-_Ai phản lại Chánh pháp,_
-_Vì tham, sân, bố, si,_
-_Thanh danh bị sứt mẻ_
-_Như mặt trăng đêm khuyết._
-_Ai không phản Chánh pháp,_
-_Vì tham, sân, bố, si,_
-_Thanh danh được tròn đủ,_
+_Ai phản lại Chánh pháp,_\
+_Vì tham, sân, bố, si,_\
+_Thanh danh bị sứt mẻ_\
+_Như mặt trăng đêm khuyết._\
+_Ai không phản Chánh pháp,_\
+_Vì tham, sân, bố, si,_\
+_Thanh danh được tròn đủ,_\
 _Như mặt trăng đêm đầy._
 
+<!--pg-->
 7\. Thế nào là không theo sáu nguyên nhân phung phí tài sản? Này Gia chủ tử, đam mê các loại rượu là
 nguyên nhân phung phí tài sản. Du hành đường phố phi thời là nguyên nhân phung phí tài sản. La cà
 đình đám hí viện là nguyên nhân phung phí tài sản. Ðam mê cờ bạc là nguyên nhân phung phí tài sản.
@@ -104,50 +108,52 @@ Thế Tôn thuyết giảng như vậy.
 
 14\. Thiện Thệ thuyết giảng xong, bậc Ðạo Sư lại giảng thêm:
 
-_Có bạn gọi bạn rượu,_
-_Có bạn, bạn bằng mồm,_
-_Bạn lúc thật hữu sự,_
-_Mới xứng danh bạn bè._
-_Ngủ ngày, thông vợ người,_
-_Ưa đấu tranh, làm hại,_
-_Thân ác hữu, xan tham,_
-_Sáu sự não hại người._
-_Ác hữu, ác bạn lữ,_
-_Ác hạnh, hành ác xứ,_
-_Ðời này cả đời sau,_
-_Hai đời, người bị hại._
-_Cờ bạc và đàn bà,_
-_Rượu chè, múa và hát_
-_Ngủ ngày, đi phi thời_
-_Thân ác hữu, xan tham,_
-_Sáu sự não hại người._
-_Chơi xúc xắc, uống rượu_
-_Theo đuổi đàn bà người,_
-_Lẽ sống của người khác,_
-_Thân cận kẻ hạ tiện,_
-_Không thân cận bậc trí,_
-_Người ấy tự héo mòn,_
-_Như trăng trong mùa khuyết._
-_Rượu chè không tiền của,_
-_Khao khát, tìm tửu điếm,_
-_Bị chìm trong nợ nần,_
-_Như chìm trong bồn nước,_
-_Mau chóng tự hại mình,_
-_Như kẻ mất gia đình._
-_Ai quen thói ngủ ngày,_
-_Thức trọn suốt đêm trường,_
-_Luôn luôn say sướt mướt,_
-_Không thể sống gia đình._
-_Ở đây ai hay than:_
-_Ôi quá lạnh, quá nóng,_
-_Quá chiều, quá trễ giờ,_
-_Sẽ bỏ bê công việc._
-_Lợi ích, điều tốt lành,_
-_Bị trôi dạt một bên._
-_Ai xem lạnh và nóng,_
-_Nhẹ nhàng hơn cỏ lau,_
-_Làm mọi công chuyện mình,_
+_Có bạn gọi bạn rượu,_\
+_Có bạn, bạn bằng mồm,_\
+_Bạn lúc thật hữu sự,_\
+_Mới xứng danh bạn bè._\
+_Ngủ ngày, thông vợ người,_\
+_Ưa đấu tranh, làm hại,_\
+_Thân ác hữu, xan tham,_\
+_Sáu sự não hại người._\
+_Ác hữu, ác bạn lữ,_\
+_Ác hạnh, hành ác xứ,_\
+_Ðời này cả đời sau,_\
+_Hai đời, người bị hại._\
+_Cờ bạc và đàn bà,_\
+_Rượu chè, múa và hát_\
+_Ngủ ngày, đi phi thời_\
+_Thân ác hữu, xan tham,_\
+_Sáu sự não hại người._\
+_Chơi xúc xắc, uống rượu_\
+_Theo đuổi đàn bà người,_\
+_Lẽ sống của người khác,_\
+_Thân cận kẻ hạ tiện,_\
+_Không thân cận bậc trí,_\
+_Người ấy tự héo mòn,_\
+_Như trăng trong mùa khuyết._\
+_Rượu chè không tiền của,_\
+_Khao khát, tìm tửu điếm,_\
+_Bị chìm trong nợ nần,_\
+_Như chìm trong bồn nước,_\
+_Mau chóng tự hại mình,_\
+_Như kẻ mất gia đình._\
+_Ai quen thói ngủ ngày,_\
+_Thức trọn suốt đêm trường,_\
+_Luôn luôn say sướt mướt,_\
+_Không thể sống gia đình._\
+_Ở đây ai hay than:_\
+_Ôi quá lạnh, quá nóng,_\
+_Quá chiều, quá trễ giờ,_\
+_Sẽ bỏ bê công việc._\
+_Lợi ích, điều tốt lành,_\
+_Bị trôi dạt một bên._\
+_Ai xem lạnh và nóng,_\
+_Nhẹ nhàng hơn cỏ lau,_\
+_Làm mọi công chuyện mình,_\
 _Hạnh phúc không từ bỏ._
+
+<!--pg-->
 15\. Này Gia chủ từ, có bốn hạng người phải xem không phải bạn, dầu tự cho là bạn: Người vật gì cũng
 lấy phải được xem không phải bạn, dầu tự cho là bạn; người chỉ biết nói giỏi phải được xem không phải
 bạn, dầu tự cho là bạn; người khéo nịnh hót phải được xem không phải bạn, dầu tự cho là bạn; người
@@ -175,12 +181,12 @@ Thế Tôn thuyết giảng như vậy.
 
 20\. Thiện Thệ thuyết giảng xong, bậc Ðạo Sư lại giảng thêm:
 
-_Người bạn gì cũng lấy,_
-_Người bạn chỉ nói giỏi,_
-_Người nói lời nịnh hót,_
-_Người tiêu pha xa xỉ._
-_Cả bốn, không phải bạn,_
-_Biết vậy, người trí tránh,_
+_Người bạn gì cũng lấy,_\
+_Người bạn chỉ nói giỏi,_\
+_Người nói lời nịnh hót,_\
+_Người tiêu pha xa xỉ._\
+_Cả bốn, không phải bạn,_\
+_Biết vậy, người trí tránh,_\
 _Như đường đầy sợ hãi._
 
 21\. Này Gia chủ tử, bốn loại bạn này phải được xem là bạn chân thật: Người bạn giúp đỡ phải được xem
@@ -188,6 +194,7 @@ là bạn chân thật; người bạn chung thủy trong khổ cũng như trong
 người bạn khuyên điều lợi ích phải được xem là bạn chân thật; người bạn có lòng thương tưởng phải
 được xem là bạn chân thật.
 
+<!--pg-->
 22\. Này Gia chủ tử, có bốn trường hợp, người bạn giúp đỡ phải được xem là bạn chân thật: Che chở cho
 bạn khi bạn vô ý phóng dật, che chở của cải cho bạn khi bạn vô ý phóng dật, là chỗ nương tựa cho bạn
 khi bạn sợ hãi, khi bạn có công việc sẽ giúp đỡ cho bạn của cải gấp hai lần những gì bạn thiếu. Này Gia
@@ -211,30 +218,31 @@ Thế Tôn thuyết giảng như vậy.
 
 26\. Thiện thệ thuyết giảng xong, bậc Ðạo Sư lại giảng thêm:
 
-_Bạn sẵn sàng giúp đỡ,_
-_Bạn chung thủy khổ vui,_
-_Bạn khuyến khích lợi ích,_
-_Bạn có lòng thương tưởng._
-_Biết rõ bốn bạn này,_
-_Người trí phục vụ họ,_
-_Như mẹ đối con ruột._
-_Người trí giữ giới luật,_
-_Sáng như lửa đồi cao._
-_Người tích trữ tài sản,_
-_Như cử chỉ con ong._
-_Tài sản được chồng chất,_
-_Như ụ mối đùn cao,_
-_Người cư xử như vậy,_
-_Chất chứa các tài sản,_
-_Vừa đủ để lợi ích_
-_Cho chính gia đình mình._
-_Tài sản cần chia bốn_
-_Ðể kết hợp bạn bè:_
-_Một phần mình an hưởng,_
-_Hai phần dành công việc,_
-_Phần tư, phần để dành,_
+_Bạn sẵn sàng giúp đỡ,_\
+_Bạn chung thủy khổ vui,_\
+_Bạn khuyến khích lợi ích,_\
+_Bạn có lòng thương tưởng._\
+_Biết rõ bốn bạn này,_\
+_Người trí phục vụ họ,_\
+_Như mẹ đối con ruột._\
+_Người trí giữ giới luật,_\
+_Sáng như lửa đồi cao._\
+_Người tích trữ tài sản,_\
+_Như cử chỉ con ong._\
+_Tài sản được chồng chất,_\
+_Như ụ mối đùn cao,_\
+_Người cư xử như vậy,_\
+_Chất chứa các tài sản,_\
+_Vừa đủ để lợi ích_\
+_Cho chính gia đình mình._\
+_Tài sản cần chia bốn_\
+_Ðể kết hợp bạn bè:_\
+_Một phần mình an hưởng,_\
+_Hai phần dành công việc,_\
+_Phần tư, phần để dành,_\
 _Phòng khó khăn hoạn nạn._
 
+<!--pg-->
 27\. Này Gia chủ tử, vị Thánh đệ tử hộ trì sáu phương như thế nào? Này Gia chủ tử, sáu phương này cần
 được hiểu như sau: Phương Ðông cần được hiểu là cha mẹ. Phương Nam cần được hiểu là sư trưởng.
 Phương Tây cần được hiểu là vợ con. Phương Bắc cần được hiểu là bạn bè. Phương Dưới cần được hiểu
@@ -309,44 +317,45 @@ Thế Tôn thuyết giảng như vậy.
 
 34\. Thiện thệ thuyết giảng xong, bậc Ðạo Sư lại giảng thêm:
 
-_Cha mẹ là phương Ðông,_
-_Sư trưởng là phương Nam,_
-_Vợ chồng là phương Tây,_
-_Bạn bè là phương Bắc,_
-_Nô bộc là phương Dưới,_
-_Sa-môn, Bà-la-môn,_
-_Có nghĩa là phương Trên._
-_Cư sĩ vì gia đình,_
-_Ðảnh lễ phương hướng ấy._
-_Kẻ trí giữ Giới, Luật,_
-_Từ tốn và biện tài,_
-_Khiêm nhường và nhu thuận,_
-_Nhờ vậy được danh xưng._
-_Dậy sớm không biếng nhác,_
-_Bất động giữa hiểm nguy,_
-_Người hiền, không phạm giới,_
-_Nhờ vậy được danh xưng._
-_Nhiếp chúng, tạo nên bạn,_
-_Từ ái, tâm bao dung,_
-_Dẫn đạo, khuyến hóa đạo,_
-_Nhờ vậy được danh xưng._
-_Bố thí và ái ngữ,_
-_Lợi hành bất cứ ai,_
-_Ðồng sự trong mọi việc,_
-_Theo trường hợp xử sự._
-_Chính những nhiếp sự này,_
-_Khiến thế giới xoay quanh,_
-_Như bánh xe quay lăn,_
-_Vòng theo trục xe chính._
-_Nhiếp sự này vắng mặt,_
-_Không có mẹ hưởng thọ,_
-_Hay không cha hưởng thọ,_
-_Sự hiếu kính của con._
-_Do vậy bậc có trí,_
-_Ðối với nhiếp pháp này,_
-_Như quán sát chấp trì,_
-_Nhờ vậy thành vĩ đại,_
+_Cha mẹ là phương Ðông,_\
+_Sư trưởng là phương Nam,_\
+_Vợ chồng là phương Tây,_\
+_Bạn bè là phương Bắc,_\
+_Nô bộc là phương Dưới,_\
+_Sa-môn, Bà-la-môn,_\
+_Có nghĩa là phương Trên._\
+_Cư sĩ vì gia đình,_\
+_Ðảnh lễ phương hướng ấy._\
+_Kẻ trí giữ Giới, Luật,_\
+_Từ tốn và biện tài,_\
+_Khiêm nhường và nhu thuận,_\
+_Nhờ vậy được danh xưng._\
+_Dậy sớm không biếng nhác,_\
+_Bất động giữa hiểm nguy,_\
+_Người hiền, không phạm giới,_\
+_Nhờ vậy được danh xưng._\
+_Nhiếp chúng, tạo nên bạn,_\
+_Từ ái, tâm bao dung,_\
+_Dẫn đạo, khuyến hóa đạo,_\
+_Nhờ vậy được danh xưng._\
+_Bố thí và ái ngữ,_\
+_Lợi hành bất cứ ai,_\
+_Ðồng sự trong mọi việc,_\
+_Theo trường hợp xử sự._\
+_Chính những nhiếp sự này,_\
+_Khiến thế giới xoay quanh,_\
+_Như bánh xe quay lăn,_\
+_Vòng theo trục xe chính._\
+_Nhiếp sự này vắng mặt,_\
+_Không có mẹ hưởng thọ,_\
+_Hay không cha hưởng thọ,_\
+_Sự hiếu kính của con._\
+_Do vậy bậc có trí,_\
+_Ðối với nhiếp pháp này,_\
+_Như quán sát chấp trì,_\
+_Nhờ vậy thành vĩ đại,_\
 _Ðược tán thánh, danh xưng._
+
 35\. Khi được nghe vậy, Singàlaka, gia chủ tử bạch Thế Tôn: “Thật vi diệu thay, bạch Thế Tôn! Như
 người dựng đứng lại những gì bị quăng ngã xuống, phơi bày ra những gì bị che kín, chỉ đường cho
 người bị lạc hướng, đem đèn sáng vào trong bóng tối để những ai có mắt có thể thấy sắc. Cũng vậy,

@@ -1,0 +1,328 @@
+<script setup lang="ts">
+import { ref, onMounted, computed } from 'vue'
+import MarkdownIt from 'markdown-it'
+import anchor from 'markdown-it-anchor'
+// import MarkdownItFootnote from 'markdown-it-footnote'
+// import slugify from '@sindresorhus/slugify';
+import { slugAnchor } from '../utils';
+
+interface Props {
+  leftPath: string
+  rightPath: string
+  notePath?: string
+  leftTitle?: string
+  rightTitle?: string
+}
+
+const props = withDefaults(defineProps<Props>(), {
+  leftTitle: 'Left',
+  rightTitle: 'Right',
+  notePath: ''
+})
+
+// Initialize markdown-it instance
+const mdLeft = new MarkdownIt({
+  html: true,
+  linkify: true,
+  typographer: true
+}).use(anchor, {
+    // only headings ≥ h2
+    level: [3,4],
+    permalink: anchor.permalink.ariaHidden({
+      symbol: '',
+        placement: 'before'
+      }),
+      slugify: (s) => slugAnchor(s),
+  })//.use(MarkdownItFootnote);
+
+const mdRight = new MarkdownIt({
+  html: true,
+  linkify: true,
+  typographer: true
+});//.use(MarkdownItFootnote);
+
+const md = new MarkdownIt({
+  html: true,
+  linkify: true,
+  typographer: true
+})
+
+// Compute the original file paths for links (removing the .md extension)
+const leftOriginalPath = computed(() => props.leftPath.replace(/\.md$/, ''))
+const rightOriginalPath = computed(() => props.rightPath.replace(/\.md$/, ''))
+
+// State variables
+const leftContent = ref<string>('')
+const rightContent = ref<string>('')
+const noteContent = ref<string>('')
+const parsedParagraphs = ref<{ left: string[], right: string[] }>({ left: [], right: [] })
+const isLoading = ref<boolean>(true)
+const hasNote = ref<boolean>(false)
+const error = ref<string | null>(null)
+
+// Parse HTML content by paragraph tags
+const parseHtmlByParagraphs = (html: string): string[] => {
+  // Split content by paragraph tags <!--pg-->
+  const paragraphRegex = /<!--pg-->/g
+  const parts = html.split(paragraphRegex)
+
+  // Remove any empty parts and trim each part
+  return parts.map(part => part.trim()).filter(part => part.length > 0)
+}
+
+onMounted(async () => {
+  try {
+    isLoading.value = true
+
+    // Fetch both text files
+    const [leftResponse, rightResponse] = await Promise.all([
+      fetch(props.leftPath),
+      fetch(props.rightPath)
+    ])
+
+    if (!leftResponse.ok) throw new Error(`Failed to load ${props.leftPath}`)
+    if (!rightResponse.ok) throw new Error(`Failed to load ${props.rightPath}`)
+
+    leftContent.value = await leftResponse.text()
+    rightContent.value = await rightResponse.text()
+
+    // Remove frontmatter if present
+    leftContent.value = leftContent.value.replace(/^---[\s\S]*?---\n/, '')
+    rightContent.value = rightContent.value.replace(/^---[\s\S]*?---\n/, '')
+
+    // First render entire markdown content to HTML
+    const leftHtml = mdLeft.render(leftContent.value)
+    const rightHtml = mdRight.render(rightContent.value)
+
+    // Then parse HTML content by paragraphs
+    parsedParagraphs.value = {
+      left: parseHtmlByParagraphs(leftHtml),
+      right: parseHtmlByParagraphs(rightHtml)
+    }
+
+    // Fetch note file if provided
+    if (props.notePath) {
+      try {
+        const noteResponse = await fetch(props.notePath)
+
+        if (noteResponse.ok) {
+          noteContent.value = await noteResponse.text()
+
+          // Remove frontmatter if present
+          noteContent.value = noteContent.value.replace(/^---[\s\S]*?---\n/, '')
+
+          // Only show notes section if there's actual content
+          hasNote.value = noteContent.value.trim().length > 0
+
+          // Convert markdown to HTML
+          noteContent.value = md.render(noteContent.value)
+        } else {
+          console.log(`Note file not found: ${props.notePath}`)
+          hasNote.value = false
+        }
+      } catch (e) {
+        console.error(`Error loading note file: ${e instanceof Error ? e.message : 'Unknown error'}`)
+        hasNote.value = false
+      }
+    }
+
+  } catch (e) {
+    error.value = e instanceof Error ? e.message : 'Unknown error loading files'
+    console.error(error.value)
+  } finally {
+    isLoading.value = false
+  }
+})
+</script>
+
+<template>
+  <div class="text-compare">
+    <div v-if="isLoading" class="loading">
+      Loading content...
+    </div>
+
+    <div v-else-if="error" class="error">
+      {{ error }}
+    </div>
+
+    <div v-else>
+      <!-- Header with titles -->
+      <div class="text-compare-header">
+        <div class="text-column-header">
+          <h3>
+            {{ leftTitle }}
+            <a :href="leftOriginalPath" target="_blank" class="source-link">[link]</a>
+          </h3>
+        </div>
+        <div class="text-column-header">
+          <h3>
+            {{ rightTitle }}
+            <a :href="rightOriginalPath" target="_blank" class="source-link">[link]</a>
+          </h3>
+        </div>
+      </div>
+
+      <!-- Paragraph comparison rows -->
+      <div class="text-compare-rows">
+        <div
+          v-for="(_, index) in Math.max(parsedParagraphs.left.length, parsedParagraphs.right.length)"
+          :key="index"
+          class="text-compare-row"
+        >
+          <div class="text-column">
+            <NotePopup v-if="index < parsedParagraphs.left.length"
+            class="text-content" :note="parsedParagraphs.left[index]" />
+
+            <!-- <div
+              v-if="index < parsedParagraphs.left.length"
+              class="text-content"
+              v-html="parsedParagraphs.left[index]"
+            ></div> -->
+          </div>
+          <div class="text-column">
+            <div
+              v-if="index < parsedParagraphs.right.length"
+              class="text-content"
+              v-html="parsedParagraphs.right[index]"
+            ></div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Notes section -->
+      <div v-if="hasNote" class="notes-container">
+        <h2 class="notes-title">Notes</h2>
+        <div class="notes-content" v-html="noteContent"></div>
+      </div>
+    </div>
+  </div>
+</template>
+
+<style>
+/* Non-scoped styles for proper markdown rendering */
+.text-content ul {
+  padding-left: 0em;
+  margin: 0;
+}
+
+.text-content li {
+  /* display: list-item;
+  list-style-type: disc; */
+  /* margin: 0.5em 0; */
+}
+
+.text-content li p {
+  margin: 0;
+}
+
+/* Footnote styles */
+.text-content .footnotes {
+  margin-top: 2rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--vp-c-divider);
+  font-size: 0.9em;
+}
+
+.text-content .footnote-ref {
+  font-size: 0.8em;
+  vertical-align: super;
+  line-height: 0;
+  margin: 0 0.2em;
+}
+
+.text-content .footnote-backref {
+  text-decoration: none;
+  margin-left: 0.3em;
+}
+</style>
+
+<style scoped>
+.text-compare {
+  margin: 1px 0;
+}
+
+.text-compare-header {
+  display: flex;
+  gap: 1px;
+  margin-bottom: 1rem;
+}
+
+.text-column-header {
+  flex: 1;
+  padding: 0 1rem;
+}
+
+.text-compare-rows {
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+}
+
+.text-compare-row {
+  display: flex;
+  gap: 1px;
+  border-top: 1px solid var(--vp-c-divider);
+  padding: 1rem 0;
+}
+
+.text-column {
+  flex: 1;
+  min-width: 0;
+  padding: 0 1rem;
+}
+
+.text-content {
+  overflow-wrap: break-word;
+  line-height: 1.6;
+  white-space: normal;
+}
+
+.source-link {
+  font-size: 0.8em;
+  margin-left: 0.5rem;
+  opacity: 0.7;
+  font-weight: normal;
+}
+
+/* Notes styling */
+.notes-container {
+  margin-top: 3rem;
+  padding-top: 2rem;
+  border-top: 1px solid var(--vp-c-divider);
+}
+
+.notes-title {
+  margin-bottom: 1.5rem;
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+.notes-content {
+  background-color: var(--vp-c-bg-soft);
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 8px;
+  padding: 1.5rem;
+  line-height: 1.7;
+  overflow-wrap: break-word;
+}
+
+/* Fix for paragraph line breaks in source markdown */
+.text-content :deep(p) {
+  margin: 1rem 0;
+  line-height: 1.7;
+  white-space: normal;
+}
+
+/* Loading and error states */
+.loading, .error {
+  padding: 2rem;
+  text-align: center;
+  background-color: var(--vp-c-bg-soft);
+  border-radius: 8px;
+  border: 1px solid var(--vp-c-divider);
+}
+
+.error {
+  color: var(--vp-c-danger);
+}
+</style>

@@ -1,5 +1,5 @@
 # 19. KINH ÐẠI ÐIỂN TÔN
-**_(Mahàgovinda Sutta)_**
+**_(Mahàgovinda Sutta)_\**
 
 1\. Như vậy tôi nghe.
 
@@ -8,10 +8,10 @@ giòng họ Càn-thát-bà (Gandhabba), với dung mạo đoan chánh, chói sá
 tại chỗ Thế Tôn, sau khi đến, đảnh lễ Ngài và đứng một bên. Sau khi đứng một bên, Pancasikha, thuộc
 giòng họ Càn-thát-bà bạch Thế Tôn:
 
-\- Bạch Thế Tôn, những điều con đã tự thân nghe và chấp nhận trước mặt chư Thiên ở Tam thập tam
+− Bạch Thế Tôn, những điều con đã tự thân nghe và chấp nhận trước mặt chư Thiên ở Tam thập tam
 thiên, bạch Thế Tôn con muốn bạch lại Thế Tôn.
 
-\- Này Pancasikha, hãy nói cho ta nghe! - Thế Tôn nói như vậy.
+− Này Pancasikha, hãy nói cho ta nghe! - Thế Tôn nói như vậy.
 
 2\. - Bạch Thế Tôn, trong những ngày xưa, những ngày xa xưa, nhân đêm trăng rằm Bố-tát (Uposatha),
 trong tháng nhập cư mùa mưa, toàn thể chư Thiên ở cõi Tam thập tam thiên ngồi hội họp tại Thiện Pháp
@@ -31,26 +31,28 @@ hoan hỷ sanh: Thiên giới thật sự được tăng thịnh, còn A-tu-la g
 3\. Bạch Thế Tôn, lại bây giờ Thiên chủ Ðế-thích (Sakka) thấy chư Thiên ở Tam thập tam thiên hoan hỷ
 bèn tùy hỷ nói lên bài kệ như sau:
 
-_Chư Tam thập tam thiên,_
-_Cùng Ðế-thích hoan hỷ,_
-_Ðảnh lễ bậc Như Lai,_
-_Cùng Chánh pháp vi diệu._
-_Thấy Thiên chúng tân sanh,_
-_Quang sắc thật thù thắng,_
-_Các vị sống phạm hạnh,_
-_Nay sanh tại cõi này._
-_Họ thắng về quang sắc,_
-_Thọ mạng và danh xưng._
-_Ðệ tử bậc Ðại Tuệ,_
-_Thù thắng sanh cõi này._
-_Chư Tam thập tam thiên,_
-_Cùng Ðế-thích hoan hỷ,_
-_Ðảnh lễ bậc Như Lai,_
+_Chư Tam thập tam thiên,_\
+_Cùng Ðế-thích hoan hỷ,_\
+_Ðảnh lễ bậc Như Lai,_\
+_Cùng Chánh pháp vi diệu._\
+_Thấy Thiên chúng tân sanh,_\
+_Quang sắc thật thù thắng,_\
+_Các vị sống phạm hạnh,_\
+_Nay sanh tại cõi này._\
+_Họ thắng về quang sắc,_\
+_Thọ mạng và danh xưng._\
+_Ðệ tử bậc Ðại Tuệ,_\
+_Thù thắng sanh cõi này._\
+_Chư Tam thập tam thiên,_\
+_Cùng Ðế-thích hoan hỷ,_\
+_Ðảnh lễ bậc Như Lai,_\
 _Và Chánh pháp vi diệu._
+
 Bạch Thế Tôn, chư Thiên ở Tam thập tam thiên lại càng đẹp lòng thoải mái hoan hỷ hơn nữa và nói:
 
 “- Thiên giới thật sự được tăng thịnh, còn A-tu-la giới bị hoại diệt”.
 
+<!--pg-->
 4\. Bạch Thế Tôn, Thiên chủ Ðế-thích biết được chư Thiên ở Tam thập tam thiên hoan hỷ, liền nói với
 Chư Thiên ở Tam thập tam thiên:
 
@@ -138,9 +140,9 @@ các vị này suy tư, thảo luận về mục đích ấy. Và tùy thuộc v
 giảng: Theo mục đích ấy, bốn vị đại vương được khuyến giáo, bốn vị này đều đứng một bên chỗ ngồi
 của mình.
 
-_Các đại vương chấp nhận,_
-_Lời giảng dạy khuyết giáo,_
-_Thanh thoát và an tịnh,_
+_Các đại vương chấp nhận,_\
+_Lời giảng dạy khuyết giáo,_\
+_Thanh thoát và an tịnh,_\
 _Ðứng bên chỗ mình ngồi._
 
 15\. “Bạch Thế Tôn, rồi từ phương Bắc, một ánh sáng vi diệu khởi lên, một hào quang hiện ra thắng xa
@@ -149,11 +151,12 @@ oai lực của chư Thiên. Bạch Thế Tôn, rồi Thiên chủ Sakka, nói v
 báo hiệu Phạm thiên sẽ xuất hiện. Vì hiện tượng báo hiệu Phạm thiên xuất hiện là ánh sáng khởi lên và
 hào quang hiện ra.
 
-_Theo hiện tượng được thấy,_
-_Phạm thiên sẽ xuất hiện,_
-_Hiện tượng bậc Phạm thiên,_
+_Theo hiện tượng được thấy,_\
+_Phạm thiên sẽ xuất hiện,_\
+_Hiện tượng bậc Phạm thiên,_\
 _Là hào quang vi diệu._
 
+<!--pg-->
 “Bạch Thế Tôn, rồi chư Thiên ở Tam thập tam thiên, ngồi xuống trên ghế ngồi của mình và nói rằng:
 
 “- Chúng tôi sẽ tìm hiểu kết quả của hào quang này là thế nào, sau khi được biết, chúng tôi sẽ đi gặp vị
@@ -185,21 +188,21 @@ nào, vị Thiên ấy sẽ vô cùng sảng khoái, sẽ vô cùng hoan hỷ.
 17\. “Bạch Thế Tôn, rồi Phạm thiên Sanamkumàra biết được sự thoải mái hoan hỷ của chư Thiên ở Tam
 thập tam thiên liền ân hình tùy hỷ nói lên bài kệ sau đây:
 
-_Chư Tam thập tam thiên,_
-_Cùng Ðế-thích hoan hỷ,_
-_Ðảnh lễ bậc Như Lai,_
-_Và Chánh pháp vi diệu._
-_Thấy Thiên chúng tân sanh,_
-_Quang sắc thật thù thắng,_
-_Các vị sống phạm hạnh,_
-_Nay sanh tại cõi này,_
-_Thắng xa về quang sắc,_
-_Thọ mạng và danh xưng,_
-_Ðệ tử bậc Ðại Tuệ,_
-_Thù thắng sanh cõi nầy._
-_Chư Tam thập tam thiên,_
-_Cùng Ðế Thích hoan hỷ,_
-_Ðảnh lễ bậc Như Lai,_
+_Chư Tam thập tam thiên,_\
+_Cùng Ðế-thích hoan hỷ,_\
+_Ðảnh lễ bậc Như Lai,_\
+_Và Chánh pháp vi diệu._\
+_Thấy Thiên chúng tân sanh,_\
+_Quang sắc thật thù thắng,_\
+_Các vị sống phạm hạnh,_\
+_Nay sanh tại cõi này,_\
+_Thắng xa về quang sắc,_\
+_Thọ mạng và danh xưng,_\
+_Ðệ tử bậc Ðại Tuệ,_\
+_Thù thắng sanh cõi nầy._\
+_Chư Tam thập tam thiên,_\
+_Cùng Ðế Thích hoan hỷ,_\
+_Ðảnh lễ bậc Như Lai,_\
 _Và Chánh pháp vi diệu._
 
 18\. “Bạch Thế Tôn, đó là nội dung lời nói của Phạm Thiên Sanamkumàra. Bạch Thế Tôn tiếng nói của
@@ -208,6 +211,7 @@ mãn, phân minh, thâm sâu và vang động. Bạch Thế Tôn, khi Phạm thi
 hội chúng với tiếng nói của mình, tiếng nói không vượt ra khỏi đại chúng. Bạch Thế Tôn một tiếng nói
 có tám đặc điểm như vậy được gọi là Phạm âm.
 
+<!--pg-->
 19\. “Bạch Thế Tôn, chư Thiên ở Tam thập tam thiên nói với Phạm thiên Sanamkumàra như sau:
 
 “- Này Phạm thiên, chúng tôi thật sự hoan hỷ với những điều chúng tôi đã được chú ý. Hơn nữa Thiên
@@ -269,12 +273,14 @@ cũng như trong hiện tại, trừ Thế Tôn.
 tam thiên. Bạch Thế Tôn, chư Thiên ở Tam thập tam thiên lại càng hoan hỷ, lại càng thích thú, hỷ duyệt
 sung mãn khi được nghe tám pháp như thật của Thế Tôn.
 
+<!--pg-->
 28\. “Bạch Thế Tôn, Phạm thiên Sanamkumàra xuất hiện với hình tướng thô xấu, hiện thành một đồng tử
 tên là Pancasikha (Ngũ Kế) trước mặt chư Thiên ở Tam thập tam thiên, bay bổng lên trời, vị này, ngồi
 kiết-già giữa hư không. Bạch Thế Tôn, như một vị lực sĩ ngồi kiết-già trên một chỗ ngồi được trải bằng
 phẳng trên một mặt đất thăng bằng, cũng vậy bạch Thế Tôn, Phạm thiên Sanamkumàra bay bổng trên
 trời, ngồi kiết-già trên hư không và nói với chư Thiên ở Tam thập tam thiên:
 
+<!--pg-->
 29\. “- Chư thiện hữu ở Tam thập tam thiên nghĩ thế nào? Thế Tôn đã được đại trí tuệ bao lâu rồi?
 
 “Chư Thiện hữu, thuở xưa có vị vua tên là Disampati (Thành Chủ). Vua Disampati có vị quốc sư tên
@@ -295,6 +301,8 @@ thân. Những trách nhiệm gì Ðại vương giao cho phụ thân, nay hãy 
 “- Như vậy là phải, Hoàng tử.
 
 “- Xin vâng, tâu Ðại vương.
+
+<!--pg-->
 30\. “Rồi vua Disampati cho gọi một người và bảo:
 
 “- Khanh hãy đi đến thanh niên Jotipàla, và nói như sau: “Mong rằng mọi tốt lành hãy đến với thanh
@@ -333,6 +341,7 @@ dân chúng nói về Jotipàla:
 “- Vị Bà-la-môn thật sự là Govinda! Vị Bà-la-môn thật sự là Mahà Govinda và được danh tiếng là Mahà
 Govinda!
 
+<!--pg-->
 32\. “Rồi Mahà Govinda đến tại chỗ sáu vị Sát đế lỵ ở, khi đến xong, liền nói với sáu vị đế lỵ như sau:
 
 “-Vua Disampati nay đã già, trọng tuổi, lớn tuổi, đã đến thời, đã đến hạn cuối cuộc đời. Này Thiện Hữu,
@@ -352,14 +361,14 @@ với chúng tôi!
 “Sáu vị Sát đế lỵ này, vâng theo lời của Bà la môn Mahà Govinda, đến tại chỗ của hoàng tử Renu, khi
 đến xong liền thưa với hoàng tử Renu:
 
-\- Chúng tôi là những bạn hữu thân tình, thân ái, tâm đầu ý hợp với Thiện hữu Renu, chúng tôi sung
+− Chúng tôi là những bạn hữu thân tình, thân ái, tâm đầu ý hợp với Thiện hữu Renu, chúng tôi sung
 sướng khi Thiện hữu sung sướng, chúng tôi đau khổ khi thiện hữu đau khổ. Nay vua Disampati đã già,
 trọng tuổi, lớn tuổi, đã đến thời, đã đến hạn cuối cuộc đời. Này Thiện hữu, ai có thể biết được thọ mạng
 của vua. Sự việc này có thể xảy ra. Nếu vua Disampati mệnh chung, thời những vị có trách nhiệm phong
 vua, hãy phong hoàng tử Renu lên vương vị. Nếu Thiện hữu Renu lên vương vị, hãy chia vương vị với
 chúng tôi!
 
-\- Chư Thiện hữu, có ai khác có quyền hưởng an lạc trong quốc độ của tôi, ngoài Quý vị? Nếu tôi được
+− Chư Thiện hữu, có ai khác có quyền hưởng an lạc trong quốc độ của tôi, ngoài Quý vị? Nếu tôi được
 lên vương vị, tôi sẽ chia xẻ vương vị cho Quý vị.
 
 34\. “Chư Thiện hữu, sau một thời gian vua Disampati mệnh chung. Khi vua Disampati mệnh chung,
@@ -429,7 +438,8 @@ những điều gì chúng tôi hy vọng, chúng tôi đều được hết.
 Bharata (Minh Ái vương), Renu (Lê-nô vương) và hai Dhataratthà (Trì Quốc vương). Tất cả là bảy vị
 Bharata (Bà-la-đa vương).
 
-37\. “Rồi sáu vị Sát-đế-lỵ ấy đến tại chỗ Bà-la-môn Màhà Govinda ở, khi đến xong liền nói với Bà-lamôn Mahà Govinda (Ðại Ðiển Tôn)
+<!--pg-->
+37\. “Rồi sáu vị Sát-đế-lỵ ấy đến tại chỗ Bà-la-môn Màhà Govinda ở, khi đến xong liền nói với Bà-la-môn  Mahà Govinda (Ðại Ðiển Tôn)
 
 “- Như thiện hữu Govinda là bạn hữu thân tình, thân ái, tâm đầu ý hiệp với vua Renu, cũng vậy Thiện
 hữu Mahà Govinda và bạn hữu thân tình, thân ái, tâm đầu ý hiệp với chúng tôi. Thiện hữu Govinda hãy
@@ -445,7 +455,7 @@ triệu phú Bà-la-môn và bảy trăm vị tịnh hạnh.
 “- Bà-la-môn Mahà Govinda tự thân thấy Phạm thiên; Bà-la-môn Maha Govinda tự thân nói chuyện
 thảo luận, luận nghị với Phạm thiên.
 
-“Rồi Bà-la-môn Mahà Govinda suy nghĩ: “Danh tiếng tốt đẹp sau đây được truyền tụng về ta: Bà-lamôn Maha Govinda tự thân thấy Phạm thiên; Bà-la-môn Maha Govinda tự thân nói chuyện, thảo luận,
+“Rồi Bà-la-môn Mahà Govinda suy nghĩ: “Danh tiếng tốt đẹp sau đây được truyền tụng về ta: Bà-la-môn  Maha Govinda tự thân thấy Phạm thiên; Bà-la-môn Maha Govinda tự thân nói chuyện, thảo luận,
 luận nghị với Phạm thiên. Nhưng ta không thấy Phạm thiên, ta không nói chuyện với Phạm thiên, không
 thảo luận với Phạm thiên, không nghị luận với Phạm thiên. Ta có nghe các vị Bà-la-môn trưởng thượng
 lớn tuổi, cả giáo thọ và đệ tử nói rằng: Những ai sống tịnh cư trong bốn tháng mưa, tu tập thiền định về
@@ -481,7 +491,7 @@ khi đến xong liền nói với các vị này như sau:
 
 “- Chư Thiện hữu, danh tiếng tốt đẹp sau đây được truyền tụng về tôi: “Bà-la-môn Mahà Govinda tự
 thân thấy được Phạm thiên, tự thân nói chuyện, thảo luận, luận nghị với Phạm thiên”. Nhưng tôi không
-thấy được Phạm thiên, không nói chuyện, thảo luận, luận nghị với Phạm thiên. Tôi có nghe các vị Bà-lamôn trưởng thượng lớn tuổi, cả giáo thọ và đệ tử đều nói rằng: “Những ai sống tịnh cư trong bốn tháng
+thấy được Phạm thiên, không nói chuyện, thảo luận, luận nghị với Phạm thiên. Tôi có nghe các vị Bà-la-môn  trưởng thượng lớn tuổi, cả giáo thọ và đệ tử đều nói rằng: “Những ai sống tịnh cư trong bốn tháng
 mưa, tu tập thiền định về bi tâm, sẽ thấy được Phạm thiên, sẽ nói chuyện, thảo luận và luận nghị với
 Phạm thiên”. Nay tôi muốn sống tịnh cư trong bốn tháng mưa, tu tập thiền định về bi tâm, không một ai
 được đến gặp tôi, chỉ trừ một người đem đồ ăn.
@@ -502,34 +512,35 @@ một ai được đến gặp tôi, chỉ trừ một người đem đồ ăn.
 
 43\. “Rồi Thiện hữu Mahà Govinda cho làm một hội đường mới về phương Ðông kinh thành, tịnh cư
 trong bốn tháng mưa và tu tập thiền định về bi tâm, không một ai đến gặp, trừ người đem đồ ăn. Sau bốn
-tháng, sự thất vọng và sợ hãi sau đây khởi lên cho Bà-la-môn Mahà Govinda: “Ta có nghe các vị Bà-lamôn trưởng thượng, lớn tuổi, cả giáo thọ và đệ tử đều nói rằng: “Những ai sống tịnh cư trong bốn tháng
+tháng, sự thất vọng và sợ hãi sau đây khởi lên cho Bà-la-môn Mahà Govinda: “Ta có nghe các vị Bà-la-môn  trưởng thượng, lớn tuổi, cả giáo thọ và đệ tử đều nói rằng: “Những ai sống tịnh cư trong bốn tháng
 mưa, tu tập thiền định về bi tâm, sẽ thấy được Phạm thiên, sẽ nói chuyện, thảo luận và nghị luận với
 Phạm thiên. Nhưng nay ta không thấy Phạm thiên, không nói chuyện với Phạm thiên, không thảo luận
 với Phạm thiên, không nghị luận với Phạm thiên”.
 
+<!--pg-->
 44\. “Rồi Phạm thiên Sanamkumàra với tâm của mình biết được tâm của Bà-la-môn Mahà Govinda, như
 một người lực sĩ duỗi cánh tay đang co lại, hay co lại cánh tay đang duỗi ra, cũng vậy Phạm thiên biến
 mất ở Phạm thiên giới và hiện ra trước mặt Bà-la-môn Mahà Govinda. Rồi Bà-la-môn Mahà Govinda
 hoảng hốt, run sợ, lông tóc dựng ngược, thốt lên bài kệ sau đây với Phạm thiên Sanamkumàra (Thường
 Ðồng hình Phạm thiên):
 
-_Ôi đoan tướng quang vinh,_
-_Thiện hữu thật là ai?_
-_Không biết nên hỏi Ngài._
-_Ðể chúng tôi biết Ngài!_
-_Phạm thiên giới biết ta,_
-_Là Ðồng tử thường hằng!_
-_Ta là bậc thiên vương,_
-_Hãy biết ta là vậy,_
-_Hãy đem đến sàng tọa,_
-_Nước rửa chân, thục mật._
-_Hiền giả muốn nhận gì,_
-_Hãy cho chúng tôi biết!_
-_Ta chấp nhận cúng vật,_
-_Mà Ngươi vừa đề cập._
-_Vì hạnh phúc hiện tại,_
-_Vì an lạc tương lai,_
-_Dịp may nay đã đến,_
+_Ôi đoan tướng quang vinh,_\
+_Thiện hữu thật là ai?_\
+_Không biết nên hỏi Ngài._\
+_Ðể chúng tôi biết Ngài!_\
+_Phạm thiên giới biết ta,_\
+_Là Ðồng tử thường hằng!_\
+_Ta là bậc thiên vương,_\
+_Hãy biết ta là vậy,_\
+_Hãy đem đến sàng tọa,_\
+_Nước rửa chân, thục mật._\
+_Hiền giả muốn nhận gì,_\
+_Hãy cho chúng tôi biết!_\
+_Ta chấp nhận cúng vật,_\
+_Mà Ngươi vừa đề cập._\
+_Vì hạnh phúc hiện tại,_\
+_Vì an lạc tương lai,_\
+_Dịp may nay đã đến,_\
 _Hãy hỏi điều Ngươi muốn._
 
 45\. “Rồi Bà-la-môn Mahà Govinda suy nghĩ: “Ðây là dịp may Phạm thiên Sanamkumàra dành cho ta.
@@ -540,23 +551,23 @@ hỏi ta về những lợi ích hiện tại. Vậy ta hãy hỏi Phạm thiên
 
 “Rồi Ba-la-môn Mahà nói bài kệ sau đây với Phạm thiên Sanmakumàra:
 
-_Nay ta hỏi Phạm thiên,_
-_Sanamkumàra!_
-_Ta hỏi điều nghi ngờ,_
-_Người khác đều muốn biết!_
-_An trú tại chỗ nào,_
-_Tu tập tại chỗ nào,_
-_Ðể chứng quả bất tử?_
+_Nay ta hỏi Phạm thiên,_\
+_Sanamkumàra!_\
+_Ta hỏi điều nghi ngờ,_\
+_Người khác đều muốn biết!_\
+_An trú tại chỗ nào,_\
+_Tu tập tại chỗ nào,_\
+_Ðể chứng quả bất tử?_\
 
-_Chính tại Phạm thiên giới:_
-_Này Ngươi Bà-la-môn._
-_Ai bỏ ngã, ngã sở,_
-_Tâm chuyên chú nhứt cảnh,_
-_Tu tập đại bi tâm,_
-_Thoát ly mọi xú uế,_
-_Lánh xa mọi tà dục,_
-_An trú ở nơi đây!_
-_Ðể chứng quả bất tử,_
+_Chính tại Phạm thiên giới:_\
+_Này Ngươi Bà-la-môn._\
+_Ai bỏ ngã, ngã sở,_\
+_Tâm chuyên chú nhứt cảnh,_\
+_Tu tập đại bi tâm,_\
+_Thoát ly mọi xú uế,_\
+_Lánh xa mọi tà dục,_\
+_An trú ở nơi đây!_\
+_Ðể chứng quả bất tử,_\
 _Chính tại Phạm thiên giới._
 
 46\. “- Từ bỏ ngã và ngã sở hữu, thưa Tôn giả, câu ấy tôi hiểu. Trong đời có người từ bỏ tài sản nhỏ hay
@@ -580,20 +591,20 @@ nghĩa tu tập bi tâm.
 
 “Ðó là điều ở nơi đây tôi không hiểu. Tôn giả hãy nói đi!
 
-_- Loài người bị gì che,_
-_Bị trói buộc cái gì,_
-_Phải chịu sanh đọa xứ,_
+_- Loài người bị gì che,_\
+_Bị trói buộc cái gì,_\
+_Phải chịu sanh đọa xứ,_\
 _Bị đóng cửa Phạm thiên?_
 
-_Phẫn nộ và vọng ngữ,_
-_Gian manh và lừa đảo,_
-_Hà tiện và quá mạn,_
-_Tật đố và dục cầu,_
-_Nghi ngờ và hại người,_
-_Tham, sân, si kiêu mạn._
-_Những tánh này trói buộc,_
-_Khiến con người xú uế,_
-_Phải chịu sanh đọa xứ,_
+_Phẫn nộ và vọng ngữ,_\
+_Gian manh và lừa đảo,_\
+_Hà tiện và quá mạn,_\
+_Tật đố và dục cầu,_\
+_Nghi ngờ và hại người,_\
+_Tham, sân, si kiêu mạn._\
+_Những tánh này trói buộc,_\
+_Khiến con người xú uế,_\
+_Phải chịu sanh đọa xứ,_\
 _Bị đóng cửa Phạm thiên._
 
 “- Như tôi hiểu lời Tôn giả giải thích về các xú uế, chúng không dễ gì mà được điều phục, nếu phải sống
@@ -601,57 +612,59 @@ tại gia. Nay tôi muốn xuất gia từ bỏ gia đình, sống không gia đ
 
 “- Hiền giả Govinda, hãy làm gì Hiền giả xem là hợp thời.
 
+<!--pg-->
 47\. “Rồi Bà-la-môn Mahà Govinda đi đến chỗ vua Renu ở, khi đến xong liền tâu với vua Renu:
 
 “- Này Tôn giả, hãy tìm một phụ tá khác, vị này sẽ điều khiển quốc sự cho Tôn giả. Tôi muốn xuất gia
 từ bỏ gia đình, sống không gia đình. Tôi được nghe Phạm thiên giải thích các xú uế, chúng tôi dễ gì mà
 được điều phục, nếu phải sống tại gia. Nay tôi muốn xuất gia, từ bỏ gia đình, sống không gia đình.
 
-_- Vua Renu quốc chủ,_
-_Thần xin tâu Ngài rõ._
-_Hãy biết quốc độ Ngài,_
+_- Vua Renu quốc chủ,_\
+_Thần xin tâu Ngài rõ._\
+_Hãy biết quốc độ Ngài,_\
 _Thần không thiết chức vụ._
 
-_- Nếu Khanh thiếu dục lạc,_
-_Ta cho Khanh đầy đủ!_
-_Nếu có ai hại Khanh,_
-_Quốc chủ, ta ngăn chận._
-_Khanh là cha, ta con,_
+_- Nếu Khanh thiếu dục lạc,_\
+_Ta cho Khanh đầy đủ!_\
+_Nếu có ai hại Khanh,_\
+_Quốc chủ, ta ngăn chận._\
+_Khanh là cha, ta con,_\
 _Khanh chớ bỏ rơi ta._
 
-_- Thần không thiếu dục lạc_
-_Không có ai hại thần._
-_Vì nghe bậc phi nhân,_
+_- Thần không thiếu dục lạc_\
+_Không có ai hại thần._\
+_Vì nghe bậc phi nhân,_\
 _Thần không thiết gia đình._
 
-_- Phi nhân ấy là ai,_
-_Vị ấy đã nói gì,_
-_Khanh nghe, bỏ gia đình,_
+_- Phi nhân ấy là ai,_\
+_Vị ấy đã nói gì,_\
+_Khanh nghe, bỏ gia đình,_\
 _Bỏ ta, bỏ tất cả?_
 
-_- Trước kia ở nơi đây,_
-_Lòng thần chỉ nguyện cầu_
-_Lo đốt nén lửa thiêng,_
-_Và rải cỏ cát tường._
-_Nay Phạm thiên hiện ra,_
-_Hiện từ Phạm thiên giới,_
-_Trả lời câu hỏi thần,_
+_- Trước kia ở nơi đây,_\
+_Lòng thần chỉ nguyện cầu_\
+_Lo đốt nén lửa thiêng,_\
+_Và rải cỏ cát tường._\
+_Nay Phạm thiên hiện ra,_\
+_Hiện từ Phạm thiên giới,_\
+_Trả lời câu hỏi thần,_\
 _Nghe xong thần bỏ nhà._
 
-_- Này Khanh Govinda,_
-_Ta tin lời Khanh nói!_
-_Ðược nghe bậc phi nhân,_
-_Làm sao làm khác được?_
-_Ta sẽ theo gương Khanh,_
-_Bậc thầy của chúng ta._
-_Như hòn ngọc lưu ly,_
-_Không tỳ vết, cấu uế,_
-_Thật trong sạch như vậy,_
+_- Này Khanh Govinda,_\
+_Ta tin lời Khanh nói!_\
+_Ðược nghe bậc phi nhân,_\
+_Làm sao làm khác được?_\
+_Ta sẽ theo gương Khanh,_\
+_Bậc thầy của chúng ta._\
+_Như hòn ngọc lưu ly,_\
+_Không tỳ vết, cấu uế,_\
+_Thật trong sạch như vậy,_\
 _Ta theo giáo lý Người!_
 
 “- Nếu Thiện hữu Govinda xuất gia từ bỏ gia đình, sống không gia đình, thời tôi cũng xuất gia, từ bỏ gia
 đình, sống không gia đình. Chỗ nào Thiện hữu đi, chỗ ấy chúng tôi sẽ đi.
 
+<!--pg-->
 48\. “Rồi Bà-la-môn Mahà Govinda đi đến chỗ sáu vị Sát-đế-lỵ ở, khi đến xong liền nói với sáu vị ấy
 như sau:
 
@@ -691,13 +704,13 @@ sống không gia đình.
 50\. “- Nếu Thiện hữu Govinda sẽ xuất gia, từ bỏ gia đình, sống không gia đình, thì chúng tôi cũng sẽ
 xuất gia, từ bỏ gia đình, sống không gia đình. Chỗ nào thiện hữu đi, chỗ ấy chúng tôi sẽ đi.
 
-_Nếu từ bỏ dục vọng,_
-_Mà kẻ phàm say đắm._
-_Tinh cần và cương quyết,_
-_Vững chắc trong nhẫn lực,_
-_Ðó là con đường chánh,_
-_Con đường hướng vô thượng,_
-_Ðược Thiện nhân hộ trì,_
+_Nếu từ bỏ dục vọng,_\
+_Mà kẻ phàm say đắm._\
+_Tinh cần và cương quyết,_\
+_Vững chắc trong nhẫn lực,_\
+_Ðó là con đường chánh,_\
+_Con đường hướng vô thượng,_\
+_Ðược Thiện nhân hộ trì,_\
 _Sanh lên cõi Phạm thiên._
 
 51\. “Do vậy, Thiện hữu Govinda hãy chờ bảy năm nữa, sau bảy năm chúng tôi sẽ xuất gia, từ bỏ gia
@@ -746,6 +759,7 @@ Chỗ nào Thiện hữu đi, chỗ ấy chúng tôi sẽ đi.
 
 “- Chư Thiện hữu, bảy ngày không lâu gì. Tôi sẽ chờ chư Thiện hữu cho đến bảy ngày.
 
+<!--pg-->
 56\. “Rồi Bà-la-môn Maha Govinda đi đến chỗ bảy triệu phú Bà-la-môn và bảy trăm vị tịnh hạnh ở, khi
 đến xong liền nói với bảy vị triệu phúc Bà-la-môn và bảy trăm vị tịnh hạnh như sau:
 
@@ -758,7 +772,7 @@ không gia đình.
 xuất gia ít có quyền thế, và ít có lợi dưỡng. Làm người Bà-la-môn có nhiều quyền thế và có nhiều lợi
 dưỡng.
 
-“- Chư Thiện hữu chớ có nói như vậy: “Xuất gia ít có quyền thế và ít có lợi dưỡng. Làm người Bà-lamôn có nhiều quyền thế và có nhiều lợi dưỡng”. Chư Thiện hữu, có ai nhiều quyền thế và nhiều lợi
+“- Chư Thiện hữu chớ có nói như vậy: “Xuất gia ít có quyền thế và ít có lợi dưỡng. Làm người Bà-la-môn  có nhiều quyền thế và có nhiều lợi dưỡng”. Chư Thiện hữu, có ai nhiều quyền thế và nhiều lợi
 dưỡng hơn tôi. Tôi nay là vua các vị vua, là Phạm thiên cho các vị Bà-la-môn, và là vị Trời cho các Gia
 chủ, và tất cả điều này, tôi muốn vất bỏ, xuất gia, từ bỏ gia đình, sống không gia đình. Tôi được nghe
 Phạm thiên giải thích về các xú uế. Chúng không dễ gì mà điều phục nếu sống tại gia. Nay tôi muốn
@@ -767,6 +781,7 @@ xuất gia, từ bỏ gia đình, sống không gia đình!
 “- Nếu Thiện hữu Govinda xuất gia, từ bỏ gia đình, sống không gia đình, chúng tôi cũng sẽ xuất gia, từ
 bỏ gia đình, sống không gia đình. Chỗ nào Thiện hữu đi, chỗ ấy chúng tôi sẽ đi.
 
+<!--pg-->
 57\. “Rồi Bà-la-môn Mahà Govinda đi đến bốn mươi vị phu nhân đồng đẳng, khi đến xong liền nói với
 bốn mươi vị phu nhân đồng đẳng như sau:
 
@@ -780,15 +795,12 @@ chúng tôi, người chồng mà chúng tôi ao ước. Nếu Tôn giả Govind
 gia đình, chúng tôi cũng sẽ xuất gia, từ bỏ gia đình, sống không gia đình. Chỗ nào Tôn giả đi, chỗ ấy
 chúng tôi sẽ đi.
 
+<!--pg-->
 58\. “Rồi Bà-la-môn Mahà Govinda, sau bảy ngày liền cạo bỏ râu tóc, đắp áo cà sa, xuất gia, từ bỏ gia
 đình, sống không gia đình. Sau khi Bà-la-môn Mahà Govinda xuất gia, bảy vị Sát-đế-lỵ được làm lễ
 quán đảnh lên vương vị, bảy vị Bà-la-môn triệu phú, bảy trăm vị tịnh hạnh, bốn mươi vị phu nhân đồng
 đẳng, vài ngàn vị Sát-đế-lỵ, vài ngàn vị Bà-la-môn, vài ngàn cư sĩ, và một số thiếu phụ trẻ từ các cư xá
-thiếu phụ, những vị này đều cạo bỏ râu tóc, xuất gia, từ bỏ gia đình, sống không gia đình theo Bà-la
-
------
-
-môn Mahà Govinda. Và được bao vây bởi hội chúng như vậy, Bà-la-môn Mahà Govinda du hành đi qua
+thiếu phụ, những vị này đều cạo bỏ râu tóc, xuất gia, từ bỏ gia đình, sống không gia đình theo Bà-la-môn Mahà Govinda. Và được bao vây bởi hội chúng như vậy, Bà-la-môn Mahà Govinda du hành đi qua
 làng, qua quận, qua các đô thị. Và đến tại làng nào, hay quận nào, hay đô thị nào, Bà-la-môn Mahà
 Govinda được xem là vua các vị vua, là Phạm thiên cho các Bà-la-môn, là vị Trời cho các cư sĩ. Trong
 thời gian ấy nếu có người nào nhảy mũi hay trượt chân, người ấy liền nói: “Ðảnh lễ Bà-la-môn Mahà
@@ -817,7 +829,7 @@ sự có hiệu quả, có tiến bộ.
 
 61\. Thế Tôn có nhớ không?
 
-\- Này Pancasikha, Ta có nhớ. Ta thuở ấy là Mahà Govinda. Ta dạy cho các đệ tử của Ta con đường đưa
+− Này Pancasikha, Ta có nhớ. Ta thuở ấy là Mahà Govinda. Ta dạy cho các đệ tử của Ta con đường đưa
 đến sự thân hữu ở Phạm thiên quốc. Nhưng này Pancasikha, con đường phạm hạnh ấy không đưa đến
 yểm ly, ly dục, tịch diệt, an tịnh, thắng trí, giác ngộ và Niết-bàn. Con đường ấy chỉ đưa sanh lên cõi
 Phạm thiên. Này Pancasikha, con đường phạm hạnh của Ta hoàn toàn đưa đến yểm ly, ly dục, tịch diệt,

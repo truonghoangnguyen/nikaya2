@@ -1,13 +1,13 @@
 # 22. KINH ÐẠI NIỆM XỨ
-**_(Mahàsatipatthana Sutta)_**
+_**(Mahàsatipatthana Sutta)**_
 
-## Tôi nghe như vậy.
+Tôi nghe như vậy.
 
 1\. Một thời, Thế Tôn ở xứ Kuru (Câu lâu), tại Kammàssadhamma (Kiềm ma sắt đàm) - đô thị của xứ
 Kuru. Rồi Thế Tôn gọi các vị Tỷ kheo: “Này các Tỷ kheo.” Các Tỷ kheo trả lời Thế Tôn: “Bạch Thế
 Tôn.” Thế Tôn nói như sau:
 
-\- Này các Tỷ kheo, đây là con đường độc nhất, đưa đến thanh tịnh cho chúng sanh, vượt khỏi sầu bi, diệt
+− Này các Tỷ kheo, đây là con đường độc nhất, đưa đến thanh tịnh cho chúng sanh, vượt khỏi sầu bi, diệt
 trừ khổ ưu, thành tựu chánh lý, chứng ngộ Niết bàn. Ðó là Bốn niệm xứ.
 
 Thế nào là bốn? Này các Tỷ kheo, ở đây vị Tỷ kheo sống quán thân trên thân, nhiệt tâm, tỉnh giác, chánh
@@ -15,7 +15,8 @@ niệm, để chế ngự tham ưu ở đời; sống quán thọ trên các th�
 ngự tham ưu ở đời; sống quán tâm trên tâm, nhiệt tâm, tỉnh giác, chánh niệm, để chế ngự tham ưu ở đời;
 sống quán pháp trên các pháp, nhiệt tâm, tỉnh giác, chánh niệm, để chế ngự tham ưu ở đời.
 
-**_(Quán thân)_**
+<!--pg-->
+### (Quán thân)
 
 2\. Này các Tỷ kheo, thế nào là Tỷ kheo sống quán thân trên thân?
 
@@ -33,12 +34,14 @@ kheo thở vô dài, tuệ tri: “Tôi thở vô dài”; hay thở ra dài tu�
 tập; “Cảm giác toàn thân, tôi sẽ thở ra”, vị ấy tập; “An tịnh thân hành, tôi sẽ thở vô”, vị ấy tập; “An tịnh
 thân hành, tôi sẽ thở ra”, vị ấy tập.
 
+<!--pg-->
 Như vậy, vị ấy sống, quán thân trên nội thân hay sống quán thân trên ngoại thân; hay sống quán thân
 trên cả nội thân, ngoại thân; hay vị ấy sống quán tánh sanh khởi trên thân; hay sống quán tánh diệt tận
 trên thân; hay sống quán tánh sanh diệt trên thân. “Có thân đây”, vị ấy an trú chánh niệm như vậy, với
 hy vọng hướng đến chánh trí, chánh niệm. Và vị ấy sống không nương tựa, không chấp trước vật gì ở
 trên đời. Này các Tỷ kheo, như vậy Tỷ kheo sống quán thân trên thân.
 
+<!--pg-->
 3\. Lại nữa, này các Tỷ keo, Tỷ kheo đi, tuệ tri: “Tôi đi”; hay đứng, tuệ tri: “Tôi đứng”; hay ngồi, tuệ tri:
 “Tôi ngồi”; hay nằm, tuệ tri: “Tôi nằm”. Thân thể được sử dụng như thế nào, vị ấy biết thân như thế ấy.
 
@@ -47,6 +50,8 @@ quán thân trên cả nội thân, ngoại thân. Hay vị ấy sống quán t�
 quán tánh diệt tận trên thân; hay vị ấy sống quán tánh sanh diệt trên thân. “Có thân đây”, vị ấy an trú
 chánh niệm như vậy với hy vọng hướng đến chánh trí, chánh niệm. Và vị ấy sống không nương tựa,
 không chấp trước một vật gì trên đời. Này các Tỷ kheo, như vậy Tỷ kheo sống quán thân trên thân.
+
+<!--pg-->
 4\. Lại nữa, này các Tỷ kheo, Tỷ kheo, khi bước tới, bước lui, biết rõ việc mình đang làm. Khi ngó tới,
 ngó lui, biết rõ việc mình đang làm. Khi co tay khi duỗi tay biết rõ việc mình đang làm. Khi mang áo
 Sanghàti (Tăng-già-lê), mang bát, mang y, biết rõ việc mình đang làm. Khi ăn, uống, nhai, nếm, biết rõ
@@ -59,6 +64,7 @@ trên thân; hay sống quán tánh sanh diệt trên thân. “Có thân đây�
 vọng hướng đến chánh trí, chánh niệm. Và vị ấy sống không nương tựa, không chấp trước một vật gì
 trên đời. Này các Tỷ kheo, như vậy Tỷ kheo sống quán thân trên thân.
 
+<!--pg-->
 5\. Lại nữa này các Tỷ kheo, Tỷ kheo quán sát thân này, dưới từ bàn chân trở lên, trên cho đến đảnh tóc,
 bao bọc bởi da và chứa đầy những vật bất tịnh sai biệt: “Trong thân này, đây là tóc, lông, móng, răng,
 da, thịt, gân, xương, thận, tủy, tim, gan, hoành cách mô, lá lách, phổi, ruột, màng ruột, bụng, phân, mật,
@@ -78,6 +84,7 @@ thân; hay sống quán tánh sanh diệt trên thân. “Có thân đây”, v�
 vọng hướng đến chánh trí, chánh niệm. Và vị ấy sống không nương tựa, không chấp trước một vật gì
 trên đời. Này các Tỷ kheo, như vậy vị Tỷ kheo sống quán thân trên thân.
 
+<!--pg-->
 6\. Lại nữa này các Tỷ kheo, Tỷ kheo quán sát thân này về vị trí các giới và sự sắp đặt các giới: “Trong
 thân này có địa đại, thủy đại, hỏa đại và phong đại.”
 
@@ -91,6 +98,7 @@ thân; hay sống quán tánh sanh diệt trên thân. “Có thân đây”, v�
 vọng hướng đến chánh trí, chánh niệm, và vị ấy sống không nương tựa, không chấp trước một vật gì trên
 đời. Này các Tỷ kheo, như vậy Tỷ keo sống quán thân trên thân.
 
+<!--pg-->
 7\. Lại nữa này các Tỷ kheo, Tỷ kheo, như thấy một thi thể quăng bỏ trong nghĩa địa một ngày, hai ngày,
 ba ngày, thi thể ấy trương phồng lên, xanh đen lại, nát thối ra. Tỷ kheo quán thân ấy như sau: “Thân này
 tánh chất là như vậy, bản tánh là như vậy, không vượt khỏi tánh chất ấy.”
@@ -137,7 +145,7 @@ thân; hay sống quán tánh sanh diệt trên thân. “Có thân đây”, v�
 hy vọng hướng đến chánh trí, chánh niệm. Và vị ấy sống không nương tựa, không chấp trước một vật gì
 ở trên đời. Này các Tỷ kheo, như vậy Tỷ kheo sống quán thân trên thân.
 
-**_(Quán thọ)_**
+### (Quán thọ)
 
 11\. Này các Tỷ kheo, như thế nào Tỷ kheo sống quán thọ trên các thọ?
 
@@ -157,7 +165,8 @@ trên các thọ; hay sống quán tánh sanh diệt trên các thọ. “Có th
 vậy, với hy vọng hướng đến chánh trí, chánh niệm. Và vị ấy sống không nương tựa, không chấp trước
 một vật gì ở trên đời. Này các Tỷ kheo, như vậy Tỷ kheo sống quán thọ trên các thọ.
 
-**_(Quán tâm)_**
+<!--pg-->
+### (Quán tâm)
 
 12\. Này các Tỷ kheo, như thế nào Tỷ kheo sống quán tâm trên tâm?
 
@@ -171,13 +180,15 @@ vô thượng, biết rằng tâm vô thượng”; hay “Với tâm có địn
 định, biết rằng tâm không định”; hay “Với tâm giải thoát, biết rằng tâm có giải thoát”; hay “Với tâm
 không giải thoát, biết rằng tâm không giải thoát”.
 
+<!--pg-->
 Như vậy vị ấy sống quán tâm trên nội tâm; hay sống quán tâm trên ngoại tâm; hay sống quán tâm trên
 nội tâm, ngoại tâm. Hay sống quán tánh sanh khởi trên tâm; hay sống quán tánh diệt tận trên tâm; hay
 sống quán tánh sanh diệt trên tâm. “Có tâm đây”, vị ấy sống an trú chánh niệm như vậy, với hy vọng
 hướng đến chánh trí, chánh niệm. Và vị ấy sống không nương tựa, không chấp trước một vật gi trên đời.
 Này các Tỷ kheo, như vậy vị Tỷ kheo sống quán tâm trên tâm.
 
-**_(Quán pháp)_**
+<!--pg-->
+### (Quán pháp)
 
 13\. Này các Tỷ kheo, thế nào là vị Tỷ kheo sống quán pháp trên các pháp?
 
@@ -210,6 +221,7 @@ tâm tôi không có nghi.” Và với nghi chưa sanh nay sanh khởi, vị �
 nay được đoạn diệt, vị ấy tuệ tri như vậy, và với nghi đã được đoạn diệt, tương lai không sanh khởi nữa,
 vị ấy tuệ tri như vậy.
 
+<!--pg-->
 Như vậy vị ấy sống quán pháp trên các nội pháp; hay sống quán pháp trên các ngoại pháp; hay sống
 quán pháp trên cả các nội pháp, ngoại pháp. Hay sống quán tánh sanh khởi trên các pháp; hay sống quán
 tánh diệt tận trên các pháp; hay sống quán tánh sanh diệt trên các pháp. “Có những pháp ở đây”, vị ấy
@@ -217,6 +229,7 @@ sống an trú chánh niệm như vậy, với hy vọng hướng đến chánh 
 nương tựa, không chấp trước một vật gì trên đời. Này các Tỷ kheo, như vậy Tỷ kheo sống quán pháp
 trên các pháp, đối với năm triền cái.
 
+<!--pg-->
 14\. Lại nữa, này các Tỷ kheo, Tỷ kheo sống quán pháp trên các pháp đối với Năm Thủ uẩn. Này các Tỷ
 kheo, thế nào là Tỷ kheo sống quán pháp trên các pháp đối với Năm Thủ uẩn?
 
@@ -229,6 +242,7 @@ tánh sanh diệt trên các pháp. “Có những pháp ở đây”, vị ấy
 vọng hướng đến chánh trí, chánh niệm. Và vị ấy sống không nương tựa, không chấp trước một vật gì ở
 trên đời. Này các Tỷ kheo, như vậy Tỷ kheo sống quán pháp trên các pháp đối với Năm Thủ uẩn.
 
+<!--pg-->
 15\. Lại nữa này các Tỷ kheo, Tỷ kheo sống quán pháp trên các pháp đối với Sáu Nội Ngoại xứ.
 
 Này các Tỷ kheo, thế nào là Tỷ kheo sống quán pháp trên các pháp đối với Sáu Nội Ngoại xứ?
@@ -249,6 +263,7 @@ sống an trú chánh niệm như vậy, với hy vọng hướng đến chánh 
 nương tựa, không chấp trước một vật gì trên đời. Này các Tỷ kheo, như vậy Tỷ kheo sống quán pháp
 trên các pháp, đối với Sáu Nội Ngoại xứ.
 
+<!--pg-->
 16\. Lại nữa này các Tỷ kheo, Tỷ kheo sống quán pháp trên các pháp đối với Bảy Giác chi.
 
 Này các Tỷ kheo, thế nào là Tỷ kheo sống quán pháp trên các pháp đối với Bảy Giác chi? Này các Tỷ
@@ -284,6 +299,7 @@ Này các Tỷ kheo, thế nào là Tỷ kheo sống quán pháp trên các phá
 kheo, ở đây Tỷ kheo như thật tuệ tri: “Ðây là khổ”; như thật tuệ tri: “Ðây là khổ tập”; như thật tuệ tri:
 “Ðây là khổ diệt”; như thật tuệ tri: “Ðây là con đường đưa đến khổ diệt”.
 
+<!--pg-->
 18\. Và này các Tỷ kheo, thế nào Khổ Thánh đế? Sanh là khổ, già là khổ, chết là khổ, sầu, bi. khổ, ưu,
 não là khổ, cầu không được là khổ, tóm lại Năm Thủ uẩn là khổ.
 
@@ -327,13 +343,14 @@ sầu, bi, khổ, ưu, não”. Lời mong cầu ấy không được thành t�
 Này các Tỷ kheo, như thế nào là tóm lại, Năm Thủ uẩn là khổ? Như Sắc thủ uẩn, Thọ thủ uẩn, Tưởng
 thủ uẩn, Hành thủ uẩn, Thức thủ uẩn. Này các Tỷ kheo, như vậy tóm lại Năm Thủ uẩn là khổ.
 
+<!--pg-->
 19\. Này các Tỷ kheo, thế nào là Khổ tập Thánh đế? Sự tham ái đứa đến tái sanh, câu hữu với hỷ và
 tham, tìm cầu hỷ lạc chỗ này chỗ kia. Như dục ái, hữu ái, vô hữu ái.
 
-Này các Tỷ kheo, sự tham ái này khi sanh khởi thì sanh khởi ở đâu, khi an trú thì an trú ở đâu? Ở đời,
-sắc gì thân ái, sắc gì khả ái? Ở đời con mắt là sắc thân ái, là sắc khả ái. Sự tham ái này khi sanh khởi thì
-sanh khởi ở đấy, khi an trú thì an trú ở đấy. Ở đời cái tai... ở đời mũi... ở đời lưỡi... ở đời thân... ở đời ý
-là sắc thân ái, là sắc khả ái. Sự tham ái này khi sanh khởi thì sanh khởi ở đấy, khi an trú thì an trú ở đấy.
+Này các Tỷ kheo, sự tham ái này khi sanh khởi thì sanh khởi ở đâu, khi an trú thì an trú ở đâu?  Ở đời, sắc gì thân ái, sắc gì khả ái?
+
+Ở đời con mắt là sắc thân ái, là sắc khả ái. Sự tham ái này khi sanh khởi thì
+sanh khởi ở đấy, khi an trú thì an trú ở đấy. Ở đời cái tai... ở đời mũi... ở đời lưỡi... ở đời thân... ở đời ý là sắc thân ái, là sắc khả ái. Sự tham ái này khi sanh khởi thì sanh khởi ở đấy, khi an trú thì an trú ở đấy.
 
 Ở đời các sắc... ở đời các tiếng... ở đời các hương... ở đời các vị... ở đời các cảm xúc... ở đời các pháp là
 sắc thân ái, là sắc khả ái. Sự tham ái này khi sanh khởi thì sanh khởi ở đấy, khi an trú thì an trú ở đấy.
@@ -347,6 +364,7 @@ thân ái, là sắc khả ái. Sự tham ái này khi sanh khởi thì sanh kh�
 Ở đời nhãn xúc sở sanh thọ... ở đời nhĩ xúc sở sanh thọ... ở đời tỷ xúc sở sanh thọ... ở đời thiệt xúc sở
 thanh thọ... ở đời thân xúc sở sanh thọ... ở đời ý xúc sở sanh thọ là sắc thân ái, là sắc khả ái. Sự tham ái
 này khi sanh khởi thì sanh khởi ở đấy, khi an trú thì an trú ở đấy.
+
 Ở đời sắc tưởng... ở đời thanh tưởng... ở đời hương tưởng... ở đời vị tưởng... ở đời xúc tưởng... ở đời
 pháp tưởng là sắc thân ái, là sắc khả ái. Sự tham ái này khi sanh khởi thì sanh khởi ở đấy, khi an trú thì
 an trú ở đấy.
@@ -364,6 +382,7 @@ sắc thân ái, là sắc khả ái. Sự tham ái này khi sanh khởi thì sa
 Sự tham ái này khi sanh khởi thì sanh khởi ở đấy, khi an trú thì an trú ở đấy. Này các Tỷ kheo, như vậy
 gọi là Khổ tập Thánh đế.
 
+<!--pg-->
 20\. Này các Tỷ kheo, và thế nào là Khổ diệt Thánh đế? Sự diệt tận không còn luyến tiếc tham ái ấy, sự
 xả ly, sự khí xả, sự giải thoát, sự vô nhiễm (tham ái ấy).
 
@@ -404,6 +423,7 @@ là sắc khả ái. Sự tham ái này khi xả ly thì xả ly ở đấy, khi
 
 Này các Tỷ kheo, như vậy gọi là Khổ diệt Thánh đế.
 
+<!--pg-->
 21\. Này các Tỷ kheo, thế nào là Khổ diệt đạo Thánh đế. Ðó là bát chi Thánh đạo, tức là Chánh tri kiến,
 Chánh tư duy, Chánh ngữ, Chánh nghiệp, Chánh mạng, Chánh tin tấn, Chánh niệm, Chánh định.
 
@@ -452,6 +472,7 @@ sống an trú chánh niệm như vậy, với hy vọng hướng đến chánh 
 nương tựa, không chấp trước một vật gì trên đời. Này các Tỷ kheo, như vậy Tỷ kheo sống quán pháp
 trên các pháp đối với Bốn Thánh đế.
 
+<!--pg-->
 22\. Này các Tỷ kheo, vị nào tu tập Bốn Niệm xứ này như vậy trong bảy năm, vị ấy có thể chứng một
 trong hai quả sau đây: Một là chứng Chánh trí ngay trong hiện tại; hai là nếu còn hữu dư y, chứng quả
 Bất hoàn. Này các Tỷ kheo, không cần gì đến bảy năm, một vị nào tu tập Bốn Niệm xứ này như vậy

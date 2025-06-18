@@ -5,35 +5,36 @@
 tuổi Kevaddha đến tại chỗ Thế Tôn, đảnh lễ Ngài và ngồi xuống một bên. Sau khi ngồi xuống một bên,
 cư sĩ trẻ tuổi Kevaddha bạch Thế Tôn:
 
-\- Bạch Thế Tôn, Nalandà này có uy tín và phồn thịnh, nhân dân đông đúc và tín kính Thế Tôn. Bạch Thế
+− Bạch Thế Tôn, Nalandà này có uy tín và phồn thịnh, nhân dân đông đúc và tín kính Thế Tôn. Bạch Thế
 Tôn, lành thay nếu Thế Tôn chỉ giáo cho một Tỷ-kheo thị hiện thượng nhân pháp, thần thông biến hóa.
 Nhờ vậy Nalandà này sẽ được nhiều người tín kính Thế Tôn hơn nữa.
 
 Ðược nghe nói vậy, Thế Tôn nói với cư sĩ trẻ tuổi Kevaddha:
 
-\- Kevaddha, Ta không dạy cho các Tỷ-kheo pháp này: “Này các Tỷ-kheo các Ngươi hãy thị hiện thượng
+− Kevaddha, Ta không dạy cho các Tỷ-kheo pháp này: “Này các Tỷ-kheo các Ngươi hãy thị hiện thượng
 nhân pháp, thần thông biến hóa cho các cư sĩ áo trắng”.
 
 2\. Lần thứ hai, cư sĩ trẻ tuổi Kevaddha bạch Thế Tôn:
 
-\- Bạch Thế Tôn, con không muốn phiền nhiễu Thế Tôn. Con chỉ nói: “Bạch Thế Tôn, Nalandà này có uy
+− Bạch Thế Tôn, con không muốn phiền nhiễu Thế Tôn. Con chỉ nói: “Bạch Thế Tôn, Nalandà này có uy
 tín và phồn thịnh, nhân dân đông đúc và tín kính Thế Tôn. Bạch Thế Tôn, lành thay nếu Thế Tôn chỉ
 giáo cho một Tỷ-kheo thị hiện thượng nhân pháp, thần thông biến hóa. Nhờ vậy Nalandà này sẽ được
 nhiều người tín kính Thế Tôn hơn nữa”.
 
 Lần thứ hai, Thế Tôn nói với cư sĩ trẻ tuổi Kevaddha:
 
-\- Này Kevaddha, Ta không dạy cho các Tỷ-kheo pháp này: “Này các Tỷ-kheo, các Ngươi hãy hiện
+− Này Kevaddha, Ta không dạy cho các Tỷ-kheo pháp này: “Này các Tỷ-kheo, các Ngươi hãy hiện
 thượng nhân pháp, thần thông biến hóa cho các cư sĩ áo trắng”.
 
 3\. Lần thứ ba, cư sĩ trẻ tuổi Kevaddha Bạch Thế Tôn:
 
-\- Bạch Thế Tôn, con không muốn phiền nhiễu Thế Tôn. Con chỉ nói: “Bạch Thế Tôn, Nalandà này có uy
+− Bạch Thế Tôn, con không muốn phiền nhiễu Thế Tôn. Con chỉ nói: “Bạch Thế Tôn, Nalandà này có uy
 tín và phồn thịnh, nhân dân đông đúc và tín kính Thế Tôn. Bạch Thế Tôn, lành thay nếu Thế Tôn chỉ
 giáo cho một Tỷ-kheo thị hiện thượng nhân pháp, thần thông biến hóa. Nhờ vậy Nalandà này sẽ được
 nhiều người tín kính Thế Tôn hơn nữa”.
 
-\- Này Kevaddha, có ba pháp thần thông này Ta đã tự mình giác ngộ và tuyên thuyết. Thế nào là ba? Tức
+<!--pg-->
+− Này Kevaddha, có ba pháp thần thông này Ta đã tự mình giác ngộ và tuyên thuyết. Thế nào là ba? Tức
 là biến hóa thần thông, tha tâm thần thông, giáo hóa thần thông.
 
 4\. Này Kevaddha, thế nào là biến hóa thần thông? Này Kevaddha, ở đời có Tỷ-kheo chứng được các
@@ -54,11 +55,12 @@ Tôn giả, có một chú thuật gọi là Gandhhàrì. Nhờ chú thuật hi�
 thân... có thể tự thân bay đến cõi Phạm thiên”. Này Kevaddha, ngươi nghĩ thế nào? Người không có
 lòng tín thành có thể nói với người có lòng tín thành như vậy không?
 
-\- Bạch Thế Tôn, có thể nói như vậy.
+− Bạch Thế Tôn, có thể nói như vậy.
 
-\- Này Kevaddha chính vì ta thấy sự nguy hiểm trong sự biến hóa thần thông mà ta nhàm chán, hổ thẹn,
+− Này Kevaddha chính vì ta thấy sự nguy hiểm trong sự biến hóa thần thông mà ta nhàm chán, hổ thẹn,
 ghê sợ biến hóa thần thông.
 
+<!--pg-->
 6\. Này Kevaddha, thế nào là tha tâm thần thông? Này Kevaddha, ở đời có Tỷ-kheo nói lên tâm, nói lên
 tâm sở, nói lên sự suy tầm nói lên sự suy tư của các loài hữu tình khác, của các người khác: “Như vậy là
 ý của Ngươi”. Có người có lòng tín thành thấy Tỷ-kheo nói lên tâm sở, nói lên sự suy tầm và nói lên sự
@@ -74,11 +76,12 @@ của các loài hữu tình khác, của các người khác... “Thế này l
 Này Kevaddha, Ngươi nghĩ thế nào? Người không có lòng tín thành có thể nói với Ngươi có lòng tín
 thành như vậy không?
 
-\- Bạch Thế Tôn, có thể nói như vậy?
+− Bạch Thế Tôn, có thể nói như vậy?
 
-\- Này Kevaddha chính Ta thấy sự nguy hiểm trong sự tha tâm thần thông mà Ta nhàm chán, hổ thẹn,
+− Này Kevaddha chính Ta thấy sự nguy hiểm trong sự tha tâm thần thông mà Ta nhàm chán, hổ thẹn,
 ghê sợ tha tâm thần thông.
 
+<!--pg-->
 8\. Này Kevaddha, thế nào là giáo hóa thần thông? Ở đời có Tỷ-kheo giáo hóa như sau: “Hãy suy tư như
 thế này, chớ có suy tư như thế kia; hãy tác ý như thế này, chớ có tác ý như thế kia; hãy trừ bỏ điều này,
 hãy chứng đạt và an trú điều kia”.
@@ -109,8 +112,9 @@ quả, đoạn kinh số 83)... Này Kevaddha, như vậy gọi là giáo hóa t
 53.... sau đời hiện tại, không có đời sống nào khác nữa... (xem kinh Sa-môn quả, đoạn kinh số 84 - 98),
 trừ câu kết sau chót của mỗi chương). Này Kevaddha, như vậy là giáo hóa thần thông.
 
-67\. Này Kevaddha, ba pháp thần thông này, Ta đã tự mình giác ngộ và tuyên thuyết. Này Kevaddha
-thuở xưa, chính một Tỷ-kheo có khởi nghi vấn như sau: “Trong Tỷ-kheo chúng này - địa đại, thủy đại,
+67\. Này Kevaddha, ba pháp thần thông này, Ta đã tự mình giác ngộ và tuyên thuyết.
+<!--pg-->
+Này Kevaddha thuở xưa, chính một Tỷ-kheo có khởi nghi vấn như sau: “Trong Tỷ-kheo chúng này - địa đại, thủy đại,
 hỏa đại, phong đại - đi đâu sau khi biến diệt hoàn toàn?” Này Kevaddha, vị Tỷ-kheo ấy nhập định, và
 trong định tâm, con đường đưa đến Thiên giới hiện ra.
 
@@ -221,9 +225,9 @@ Thượng đế, Sáng tạo chủ, Hóa sanh chủ, Ðại tôn, Chúa tể m�
 chúng sanh đã và sẽ sanh. Vị này ưu thế hơn, thù thắng hơn chúng tôi. Vị này có thể biết bốn đại chủng
 này địa đại... phong đại - đi đâu, sau khi biến diệt hoàn toàn”.
 
-\- Này Hiền giả, hiện nay Ðại Phạm thiên ấy ở đâu?
+− Này Hiền giả, hiện nay Ðại Phạm thiên ấy ở đâu?
 
-\- Này Tỷ-kheo, chúng tôi không biết Phạm thiên ở đâu, vì sao có Phạm thiên và Phạm thiên từ đâu đến.
+− Này Tỷ-kheo, chúng tôi không biết Phạm thiên ở đâu, vì sao có Phạm thiên và Phạm thiên từ đâu đến.
 Nhưng này Tỷ-kheo, khi nào triệu tướng hiện, khi nào ánh sáng sanh, khi nào hào quang hiển, thời
 Phạm thiên xuất hiện. Ánh sáng xanh, hào quang hiển là tướng Phạm thiên xuất hiện từ trước là như
 vậy.
@@ -264,6 +268,7 @@ ra, biến mất ở Phạm thiên giới và hiện ra trước mặt Ta. Này 
 xuống một bên. Sau khi ngồi xuống một bên, này Kevaddha, Tỷ-kheo ấy nói với Ta: “Bạch Thế Tôn,
 bốn đại chủng này, - địa đại... phong đại - đi đâu, sau khi biến diệt hoàn toàn?”.
 
+<!--pg-->
 85\. Này Kevaddha, được nghe nói vậy, Ta nói với Tỷ-kheo ấy: “Này Tỷ-kheo, thuở xưa các hải thương
 khi đi thuyền vượt biển thường đem theo con chim có thể thấy bờ. Khi chiếc thuyền vượt biển quá xa
 không trông thấy bờ, các nhà hải thương liền thả con chim có thể thấy bờ. Con chim bay về phía Ðông,

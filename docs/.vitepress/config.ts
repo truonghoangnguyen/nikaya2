@@ -219,9 +219,11 @@ export default defineConfig({
     ['link', {
         rel: 'preload',
         as: 'style',
+
         href: 'https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap',
         onload: "this.onload=null;this.rel='stylesheet'"
     }],
+
     ['noscript', {}, '<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap">']
   ],
 
@@ -258,3 +260,7 @@ export default defineConfig({
     ]
   }
 })
+
+
+// href: 'https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap',
+ //['noscript', {}, '<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap">']

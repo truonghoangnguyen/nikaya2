@@ -5,6 +5,8 @@ import anchor from 'markdown-it-anchor'
 // import MarkdownItFootnote from 'markdown-it-footnote'
 // import slugify from '@sindresorhus/slugify';
 import { slugAnchor } from '../utils';
+import NotePopup from './NotePopup.vue'
+import markdownItAttrs from 'markdown-it-attrs'
 
 interface Props {
   leftPath: string
@@ -27,13 +29,13 @@ const mdLeft = new MarkdownIt({
   typographer: true
 }).use(anchor, {
     // only headings ≥ h2
-    level: [3,4],
+    //level: [23,4],
     permalink: anchor.permalink.ariaHidden({
       symbol: '',
         placement: 'before'
       }),
       slugify: (s) => slugAnchor(s),
-  })//.use(MarkdownItFootnote);
+}).use(markdownItAttrs);
 
 const mdRight = new MarkdownIt({
   html: true,
