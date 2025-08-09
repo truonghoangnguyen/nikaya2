@@ -1,0 +1,7 @@
+# 1. Tuyển Tập SuttaCentral Editions
+
+Từ năm 2005, SuttaCentral đã cung cấp quyền truy cập vào các nguyên bản, bản dịch và các bản song song của các kinh điển Phật giáo sơ kỳ. Vào năm 2018, chúng tôi bắt đầu biên soạn và xuất bản các bản dịch của những tác phẩm kinh điển tâm linh nền tảng này. Loạt sách "Editions" hiện cung cấp các bản dịch chọn lọc dưới dạng sách với nhiều định dạng khác nhau, bao gồm bản in, PDF và EPUB.
+
+Các ấn bản trong tuyển tập này được chọn lọc từ những bản dịch đầy đủ nhất, được trau chuốt kỹ lưỡng và đáng tin cậy nhất của chúng tôi. Chúng nhằm mục đích mang những văn bản này đến độc giả rộng rãi hơn dưới các định dạng khuyến khích việc đọc có *chánh niệm* (mindful reading / chú tâm, tỉnh thức). Mọi chi tiết trong quá trình sản xuất đều được chăm chút tỉ mỉ, và chúng tôi hướng tới việc đáp ứng hoặc vượt qua các tiêu chuẩn chuyên nghiệp tốt nhất về mọi mặt. Đây là những bộ kinh cốt lõi làm nền tảng cho toàn bộ truyền thống Phật giáo, và chúng tôi tin rằng chúng xứng đáng được bảo tồn và phổ biến với chất lượng cao nhất mà không có bất kỳ sự thỏa hiệp nào.
+
+SuttaCentral là một tổ chức từ thiện. Công việc của chúng tôi được thực hiện bởi các tình nguyện viên và thông qua sự đóng góp rộng lượng của các nhà tài trợ. Mọi thứ chúng tôi tạo ra đều được cung cấp cho toàn thể nhân loại hoàn toàn miễn phí bản quyền hoặc các hạn chế cấp phép.

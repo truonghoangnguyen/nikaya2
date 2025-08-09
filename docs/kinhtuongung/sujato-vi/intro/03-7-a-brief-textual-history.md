@@ -1,0 +1,8 @@
+# 3.7 Lịch sử Văn bản Sơ lược
+
+*Kinh Tương Ưng Bộ* (Saṁyutta Nikāya / tập hợp các bài kinh có liên quan đến một chủ đề) đã được M. Léon Feer biên tập dựa trên các bản thảo viết bằng chữ Sinhala và chữ Miến Điện, và được Hội Văn bản Pāli (Pali Text Society / một tổ chức xuất bản các văn bản Pāli) xuất bản bằng chữ Latinh từ năm 1884 đến năm 1898. Bản dịch đầu tiên được thực hiện từ năm 1917 đến 1930 bởi bà C.A.F. Rhys Davids (tập 1-2) và F.L. Woodward (tập 3-5) với tựa đề *The Book of the Kindred Sayings*. Năm 1999, Hội Văn bản Pāli đã phát hành một ấn bản mới của văn bản Pāli tập 1, *Sagāthāvagga* (Sagāthāvagga / Phẩm có kệ), do G.A. Somaratne biên tập.
+
+<!--pg-->
+Mặc dù sau đó có một số bản dịch một phần được thực hiện, nhưng không có bản dịch tiếng Anh mới hoàn chỉnh nào cho đến năm 2002, khi Tỳ kheo Bodhi xuất bản tác phẩm *The Connected Discourses of the Buddha* của mình. Cũng như bản dịch *The Middle-Length Discourses of the Buddha* (Kinh Trung Bộ của Đức Phật) của ông, đây là một bước tiến lớn, về cơ bản đã làm cho các bản dịch trước đó trở nên lỗi thời. Không giống như *Middle-Length Discourses* (Kinh Trung Bộ), đây là một bản dịch hoàn toàn mới. Trong phần giới thiệu chuyên sâu, Tỳ kheo Bodhi đã trình bày chi tiết phương pháp dịch thuật đang phát triển của mình và đưa ra phân tích theo chủ đề và cấu trúc chi tiết của văn bản.
+
+Khi văn bản Pāli không rõ ràng, tôi thường xuyên tham khảo công trình trước đây của Tỳ kheo Bodhi, và hiếm khi tham khảo Woodward/Rhys Davids cùng các bản dịch khác nhau của những bài kinh cụ thể.

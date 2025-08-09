@@ -98,7 +98,7 @@ features:
         <span class="comparison-tag">Việt Việt</span>
       </div>
       <p>So sánh bản dịch tiếng Việt của Thích Minh Châu với bản dịch Nanamoli-Bodhi (Việt).</p>
-      <a href="/kinhtrungbo/c-mn-tmc-vi/" class="secondary-button">Xem So Sánh</a>
+      <a href="/kinhtrungbo/c-nm-tmc-vi/" class="secondary-button">Xem So Sánh</a>
     </div>
 
   <div class="comparison-card">
@@ -107,7 +107,7 @@ features:
         <span class="comparison-tag">Việt - Anh</span>
       </div>
       <p>So sánh bản dịch tiếng Việt của Thích Minh Châu với bản dịch tiếng Anh của Nanamoli-Bodhi.</p>
-      <a href="/kinhtrungbo/c-mn-tmc-en/" class="secondary-button">Xem So Sánh</a>
+      <a href="/kinhtrungbo/c-nm-tmc-en/" class="secondary-button">Xem So Sánh</a>
     </div>
   </div>
 </div>

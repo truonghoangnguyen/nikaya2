@@ -5,7 +5,7 @@ import { slugAnchor } from './utils';
 
 // run 1make_filelist.ipynb first
 // step 1/4: get file list
-import dn_thichminhchau from '../kinhtruongbo/thichminhchau/filelist';
+import dn_thichminhchau         from '../kinhtruongbo/thichminhchau/meta/filelist';
 import mn_thichminhchau         from '../kinhtrungbo/thichminhchau/filelist';
 import nanamoli_bodhi_en        from '../kinhtrungbo/nanamoli-bodhi-en/filelist';
 import nanamoli_bodhi_en_intro  from '../kinhtrungbo/nanamoli-bodhi-en/intro/filelist';
@@ -15,6 +15,11 @@ import nanamoli_bodhi_vi_intro  from '../kinhtrungbo/nanamoli-bodhi-vi/intro/fil
 import kinhtangchi_thichminhchau from '../kinhtangchi/thichminhchau/meta/filelist';
 import kinhtangchi_sujato_en from '../kinhtangchi/sujato-en/meta/filelist';
 import kinhtangchi_sujato_vi from '../kinhtangchi/sujato-vi/meta/filelist';
+
+import kinhtuongung_thichminhchau from '../kinhtuongung/thichminhchau/meta/filelist';
+import kinhtuongung_sujato_vi from '../kinhtuongung/sujato-vi/meta/filelist';
+import kinhtuongung_sujato_en from '../kinhtuongung/sujato-en/meta/filelist';
+
 // import kinhtangchi_sujato_vi_intro from '../kinhtangchi/sujato-vi/intro/filelist';
 
 //@ts-ignore
@@ -38,6 +43,14 @@ const BOOK_NAV = {
   'kinhtangchi/sujato-en/intro': kinhtangchi_sujato_en,
   'kinhtangchi/sujato-vi': kinhtangchi_sujato_vi,
   'kinhtangchi/sujato-vi/intro': kinhtangchi_sujato_vi,
+
+
+  'kinhtuongung/thichminhchau'    : kinhtuongung_thichminhchau,
+  'kinhtuongung/sujato-en/intro'  : kinhtuongung_sujato_en,
+  'kinhtuongung/sujato-en'        : kinhtuongung_sujato_en,
+  'kinhtuongung/sujato-vi/intro'  : kinhtuongung_sujato_vi,
+  'kinhtuongung/sujato-vi'        : kinhtuongung_sujato_vi,
+
 
 };
 
@@ -238,8 +251,9 @@ export default defineConfig({
       {
         text: 'Kinh',
         items: [
-          { text: 'Kinh Trung Bộ', link: '/kinhtrungbo/' },
           { text: 'Kinh Trường Bộ', link: '/kinhtruongbo/' },
+          { text: 'Kinh Trung Bộ', link: '/kinhtrungbo/' },
+          { text: 'Kinh Tương Ưng', link: '/kinhtuongung/' },
           { text: 'Kinh Tăng Chi Bộ', link: '/kinhtangchi/' }
         ]
       },

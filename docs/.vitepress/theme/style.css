@@ -179,3 +179,8 @@ body {
   align-items: center;
   gap: 8px;
 }
+
+.vp-doc blockquote p{
+  font-size: 18px;
+  font-style: italic;
+}
