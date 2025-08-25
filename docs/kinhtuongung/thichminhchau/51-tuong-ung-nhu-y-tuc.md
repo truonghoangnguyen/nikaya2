@@ -6,8 +6,8 @@
 ### 1.I. Bờ Bên Kia (Tăng 29. 7 Ðại 2, 658a) (S.v,254)
 
 1\. ...
-## 2) − C ó bốn như ý túc này, này các Tỷ-kheo, được tu tập, được làm cho sung mãn, đưa từ bờ bên này
 
+2\. − Có bốn như ý túc này, này các Tỷ-kheo, được tu tập, được làm cho sung mãn, đưa từ bờ bên này
 đến bờ bên kia. Thế nào là bốn?
 
 3\. Ở đây, này các Tỷ-kheo, Tỷ-kheo tu tập như ý túc, câu hữu với dục định tinh cần hành; tu tập như ý

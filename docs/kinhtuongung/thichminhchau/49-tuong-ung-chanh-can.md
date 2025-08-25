@@ -1,5 +1,6 @@
 # 49. TƯƠNG ƯNG CHÁNH CẦN
 
+<!--pg-->
 ## I. Phẩm Sông Hằng Rộng Thuyết
 
 **1-12.(I-XII)** (S.v,244)
@@ -35,6 +36,7 @@ làm cho tăng trưởng, làm cho quảng đại, tu tập, làm cho viên mãn
 10\. Như vậy, này các Tỷ-kheo, Tỷ-kheo tu tập bốn chánh cần, làm cho sung mãn bốn chánh cần, thiên
 về Niết-bàn, hướng về Niết-bàn, xuôi về Niết-bàn.
 
+<!--pg-->
 ## II. Phẩm Không Phóng Dật
 
 **13-22.I-X.** (S.v,245)
@@ -43,6 +45,7 @@ Gồm các kinh :
 
 Như Lai, Chân, Nóc Nhọn, Căn, Lõi Cây, Hạ Sanh Hoa, Vua, Mặt Trăng, Mặt Trời, Vải; tất cả là mười.
 
+<!--pg-->
 ## III. Phẩm Việc Làm Cần Sức Mạnh
 
 **23-34.I-XII.** (S.v,246)
@@ -64,6 +67,7 @@ tinh tấn, quyết tâm, cố gắng.
 8\. Cũng vậy, này các Tỷ-kheo, Tỷ-kheo y cứ vào giới, an trú vào giới, tu tập bốn chánh cần, làm cho
 sung mãn bốn chánh cần.
 
+<!--pg-->
 ## IV. Phẩm Tầm Cầu
 
 **35-44.I-X.** (S.v,246)
@@ -82,11 +86,11 @@ tu tập, làm cho sung mãn, tinh cần, tinh tấn, quyết tâm, cố gắng.
 
 8\. Ðể thắng tri, liễu tri, đoạn diệt, đoạn tận ba tầm cầu này, bốn chánh cần này cần phải tu tập.
 
+<!--pg-->
 ## V. Phẩm Bộc Lưu
 
 **45-43.I-X** (S.v,247)
 
-<!--pg-->
 ### 54.X. Thượng Phần Kiết Sử (S.v,247)
 
 1\. ...
@@ -104,6 +108,6 @@ làm cho viên mãn, tinh cần, tinh tấn, quyết tâm, cố gắng.
 8\. Chính để thắng tri, liễu tri, đoạn diệt, đoạn tận năm thượng phần kiết sử này, bốn chánh cần này cần
 phải tu tập.
 
-**-ooOoo-**
+
 
 

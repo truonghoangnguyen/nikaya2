@@ -1,181 +1,147 @@
-# Linked Discourses on the Five Powers
+# Tương Ưng về Năm Sức Mạnh
 
 <!--pg-->
-## The Chapter of Abbreviated Texts on the Ganges
+## Phẩm về các Bài Kinh Tóm Tắt Sông Hằng
 
-### N 50.1--12 Sloping East, Etc. *Gaṅgāpeyyālavagga*
+### N 50.1--12 Hướng về Phía Đông, v.v. *Gaṅgāpeyyālavagga*
 
-"Mendicants, there are these five powers. What five? The powers of
-faith, energy, mindfulness, immersion, and wisdom. These are the five
-powers. The Ganges river slants, slopes, and inclines to the east. In
-the same way, a mendicant who develops and cultivates the five powers
-slants, slopes, and inclines to extinguishment.
+Này các *Tỷ kheo*, có năm *sức mạnh* này. Năm *sức mạnh* đó là gì? *Sức mạnh* của *tín*, *nghị lực*, *niệm*, *Định*, và *trí tuệ*. Đây là năm *sức mạnh*. Sông Hằng nghiêng, dốc và xuôi về phía đông. Cũng vậy, một *Tỷ kheo* phát triển và tu tập năm *sức mạnh* sẽ nghiêng, dốc và xuôi về *Niết bàn*.
 
-And how does a mendicant who develops the five powers slant, slope, and
-incline to extinguishment? It's when a mendicant develops the powers of
-faith, energy, mindfulness, immersion, and wisdom, which rely on
-seclusion, fading away, and cessation, and ripen as letting go. That's
-how a mendicant who develops and cultivates the five powers slants,
-slopes, and inclines to extinguishment."
+Và làm thế nào một *Tỷ kheo* phát triển năm *sức mạnh* lại nghiêng, dốc và xuôi về *Niết bàn*? Đó là khi một *Tỷ kheo* phát triển *sức mạnh* của *tín* (faith / saddhā / niềm tin vững chắc vào sự thật, không phải niềm tin mù quáng), *nghị lực* (Energy / viriya / Tinh tấn / Nỗ lực, nghị lực, sức mạnh tinh thần), *niệm* (quan sát và ghi nhớ), *Định* (Immersion / samādhi / định / Trạng thái tâm tụ trên một điểm), và *trí tuệ* (wisdom / paññā / tuệ / sự hiểu biết sâu sắc về bản chất của thực tại), dựa trên *viễn ly* (seclusion / viveka / sự xa lánh, tách biệt khỏi các chướng ngại về thân và tâm), *ly tham* (fading away / virāga / sự phai nhạt của ham muốn, tham ái), và *diệt* (cessation / nirodha / sự chấm dứt hoàn toàn của khổ đau), và chín muồi thành *buông bỏ* (letting go / vossagga / sự từ bỏ, xả ly, giải thoát khỏi mọi bám chấp). Đó là cách một *Tỷ kheo* phát triển và tu tập năm *sức mạnh* nghiêng, dốc và xuôi về *Niết bàn* (extinguishment / nibbāna / sự dập tắt, chấm dứt khổ đau và vòng luân hồi).
 
-> ::: footnotesize
-> Six on slanting to the east,\
-> and six on slanting to the ocean;\
-> these two sixes make twelve,\
-> and that's how this chapter is recited.
-> :::
+> Sáu bài kinh hướng về phía đông,
+> và sáu bài kinh hướng về đại dương;
+> hai lần sáu là mười hai,
+> và đó là cách phẩm này được tụng đọc.
 
 <!--pg-->
-## The Chapter on Diligence
+## Phẩm về Tinh Cần
 
-### N 50.13--22 Diligence *Appamādavagga*
+### N 50.13--22 Tinh Cần *Appamādavagga*
 
-**(Tell in full as in the chapter on diligence at SN 45.139--148.)**
+**(Tụng đọc đầy đủ như trong phẩm về *tinh cần* tại SN 45.139--148.)**
+*tinh cần* (Diligence / appamāda / chuyên cần, kỷ luật, tự chủ).
 
-> ::: footnotesize
-> The Realized One, footprint, roof peak,\
-> roots, heartwood, jasmine,\
-> monarch, sun and moon,\
-> and cloth is the tenth.
-> :::
-
-<!--pg-->
-## The Chapter on Hard Work
-
-### N 50.23--34 Hard Work *Balakaraṇīyavagga*
-
-**(Tell in full as in the chapter on hard work at SN 45.149--160.)**
-
-> ::: footnotesize
-> Hard work, seeds, and dragons,\
-> a tree, a pot, and a spike,\
-> the atmosphere, and two on clouds,\
-> a ship, a guest house, and a river.
-> :::
+> Bậc Giác Ngộ, dấu chân, nóc nhà,
+> rễ cây, lõi cây, hoa nhài,
+> bậc đế vương, mặt trời và mặt trăng,
+> và tấm vải là bài kinh thứ mười.
 
 <!--pg-->
-## The Chapter on Searches
+## Phẩm về Việc Cần Làm
 
-### N 50.35--44 Searches *Esanāvagga*
+### N 50.23--34 Việc Cần Làm *Balakaraṇīyavagga*
 
-**(Tell in full as in the chapter on searches at SN 45.161--170.)**
+**(Tụng đọc đầy đủ như trong phẩm về việc cần làm tại SN 45.149--160.)**
 
-> ::: footnotesize
-> Searches, discriminations, defilements,\
-> states of existence, three kinds of suffering,\
-> barrenness, stains, and troubles,\
-> feelings, craving, and thirst.
-> :::
+> Việc cần làm, hạt giống, và loài rồng,
+> một cái cây, một cái bình, và một cái cọc,
+> bầu trời, và hai bài kinh về mây,
+> một con tàu, một nhà khách, và một dòng sông.
 
 <!--pg-->
-## The Chapter on Floods
+## Phẩm về Sự Tìm Kiếm
 
-### N 50.45--54 Floods, Etc. *Oghavagga*
+### N 50.35--44 Sự Tìm Kiếm *Esanāvagga*
 
-"Mendicants, there are five higher fetters. What five? Desire for
-rebirth in the realm of luminous form, desire for rebirth in the
-formless realm, conceit, restlessness, and ignorance. These are the five
-higher fetters.
+**(Tụng đọc đầy đủ như trong phẩm về sự tìm kiếm tại SN 45.161--170.)**
 
-The five powers should be developed for the direct knowledge, complete
-understanding, finishing, and giving up of these five higher fetters.
-What five? It's when a mendicant develops the powers of faith, energy,
-mindfulness, immersion, and wisdom, which rely on seclusion, fading
-away, and cessation, and ripen as letting go.
+> Sự tìm kiếm, sự phân biệt, các ô nhiễm,
+> các trạng thái tồn tại, ba loại khổ,
+> sự cằn cỗi, các vết nhơ, và các phiền não,
+> các *cảm giác*, *tham ái*, và sự khao khát.
 
-These five powers should be developed for the direct knowledge, complete
-understanding, finishing, and giving up of these five higher fetters."
+<!--pg-->
+## Phẩm về Các Cơn Lũ
+
+### N 50.45--54 Các Cơn Lũ, v.v. *Oghavagga*
+
+Này các *Tỷ kheo*, có năm *xiềng xích bậc cao*. Năm thứ đó là gì? *Ham muốn tái sinh vào cõi sắc giới*, *ham muốn tái sinh vào cõi vô sắc giới*, *ngã mạn*, *bồn chồn*, và *vô minh*. Đây là năm *xiềng xích bậc cao*.
+*xiềng xích* (The fetters / saṃyojana / *kiết sử* / cái cùm, xiềng xích, là các ô nhiễm gốc rễ sâu trong tâm).
+*ham muốn tái sinh vào cõi sắc giới* (Desire for rebirth in the realm of luminous form / rūparāga / sự tham ái, dính mắc vào các trạng thái thiền định của cõi sắc).
+*ham muốn tái sinh vào cõi vô sắc giới* (desire for rebirth in the formless realm / arūparāga / sự tham ái, dính mắc vào các trạng thái thiền định của cõi vô sắc).
+*ngã mạn* (conceit / māna / sự kiêu ngạo, so sánh mình với người khác).
+*bồn chồn* (restlessness / uddhacca / *trạo cử* / trạng thái tâm không yên, dao động).
+*vô minh* (ignorance / avijjā / sự không biết, không hiểu về Tứ Diệu Đế, về bản chất của thực tại).
+
+Năm *sức mạnh* cần được phát triển để *hiểu biết trực tiếp*, *hiểu biết hoàn toàn*, chấm dứt, và từ bỏ năm *xiềng xích bậc cao* này. Năm *sức mạnh* đó là gì? Đó là khi một *Tỷ kheo* phát triển *sức mạnh* của *tín*, *nghị lực*, *niệm*, *Định*, và *trí tuệ*, dựa trên *viễn ly*, *ly tham*, và *diệt*, và chín muồi thành *buông bỏ*.
+*hiểu biết trực tiếp* (direct knowledge / abhiññā / thắng tri / sự hiểu biết thông qua kinh nghiệm trực tiếp, không qua suy luận).
+*hiểu biết hoàn toàn* (complete understanding / pariññā / liễu tri / sự hiểu biết trọn vẹn, thấu đáo).
+
+Năm *sức mạnh* này cần được phát triển để *hiểu biết trực tiếp*, *hiểu biết hoàn toàn*, chấm dứt, và từ bỏ năm *xiềng xích bậc cao* này.
+
+*(Tụng đọc đầy đủ như trong SN 45.171--179, với bài kinh trên là bài cuối cùng.)*
+
+<!--pg-->
+## Một Phẩm Khác về các Bài Kinh Tóm Tắt Sông Hằng
+
+### N 50.55--66 Hướng về Phía Đông, v.v. *Punagaṅgāpeyyālavagga*
+
+Này các *Tỷ kheo*, sông Hằng nghiêng, dốc và xuôi về phía đông. Cũng vậy, một *Tỷ kheo* phát triển và tu tập năm *sức mạnh* sẽ nghiêng, dốc và xuôi về *Niết bàn*.
+
+Và làm thế nào một *Tỷ kheo* phát triển năm *sức mạnh* lại nghiêng, dốc và xuôi về *Niết bàn*? Đó là khi một *Tỷ kheo* phát triển *sức mạnh* của *tín*, *nghị lực*, *niệm*, *Định*, và *trí tuệ*, với mục đích tối hậu là loại bỏ *tham*, *sân*, và *si*.
+*tham* (greed / rāga / lòng tham, ham muốn, dính mắc).
+*sân* (hate / dosa / sự căm ghét, ác ý, chống đối).
+*si* (delusion / moha / sự mê mờ, ảo tưởng, không nhận ra sự thật).
+
+Đó là cách một *Tỷ kheo* phát triển và tu tập năm *sức mạnh* nghiêng, dốc và xuôi về *Niết bàn*.
+
+
+*(Tụng đọc đầy đủ cho mỗi con sông khác nhau như trong SN 45.91--102, phiên bản loại bỏ tham.)*
+
+> Sáu bài kinh hướng về phía đông,
+> và sáu bài kinh hướng về đại dương;
+> hai lần sáu là mười hai,
+> và đó là cách phẩm này được tụng đọc.
+
+<!--pg-->
+## Một Phẩm Khác về Tinh Cần
+
+### N 50.67--76 Một Phẩm Khác về Tinh Cần *Punaappamādavagga*
 
 ::: small
-*(Tell in full as in SN 45.171--179, with the above as the final
-discourse.)*
+*(Văn bản này chỉ có tiêu đề. Tụng đọc đầy đủ như trong SN 45.139--148, phiên bản loại bỏ tham.)*
 :::
 
 <!--pg-->
-## Another Chapter of Abbreviated Texts on the Ganges
+## Một Phẩm Khác về Việc Cần Làm
 
-### N 50.55--66 Sloping East, Etc. *Punagaṅgāpeyyālavagga*
+### N 50.77--88 Một Phẩm Khác về Việc Cần Làm *Punabalakaraṇīyavagga*
 
-"Mendicants, the Ganges river slants, slopes, and inclines to the east.
-In the same way, a mendicant who develops and cultivates the five powers
-slants, slopes, and inclines to extinguishment.
-
-And how does a mendicant who develops the five powers slant, slope, and
-incline to extinguishment? It's when a mendicant develops the powers of
-faith, energy, mindfulness, immersion, and wisdom, which culminate in
-the removal of greed, hate, and delusion.
-
-That's how a mendicant who develops and cultivates the five powers
-slants, slopes, and inclines to extinguishment."
-
-::: small
-*(Tell in full for each of the different rivers as in SN 45.91--102,
-removal of greed version.)*
-:::
-
-> ::: footnotesize
-> Six on slanting to the east,\
-> and six on slanting to the ocean;\
-> these two sixes make twelve,\
-> and that's how this chapter is recited.
-> :::
+**(Tụng đọc đầy đủ như trong SN 45.149--160, phiên bản loại bỏ tham.)**
 
 <!--pg-->
-## Another Chapter on Diligence
+## Một Phẩm Khác về Sự Tìm Kiếm
 
-### N 50.67--76 Another Chapter on Diligence *Punaappamādavagga*
+### N 50.89--98 Một Loạt Khác về Sự Tìm Kiếm, v.v. *Punaesanāvagga*
 
-::: small
-*(This text consists of the title only. Tell in full as in SN
-45\.139--148, removal of greed version.)*
-:::
+**(Tụng đọc đầy đủ như trong SN 45.161--170, phiên bản loại bỏ tham.)**
 
-<!--pg-->
-## Another Chapter on Hard Work
-
-### N 50.77--88 Another Chapter on Hard Work *Punabalakaraṇīyavagga*
-
-**(Tell in full as in SN 45.149--160, removal of greed version.)**
+> Sự tìm kiếm, sự phân biệt, các ô nhiễm,
+> các trạng thái tồn tại, ba loại khổ,
+> sự cằn cỗi, các vết nhơ, và các phiền não,
+> các *cảm giác*, *tham ái*, và sự khao khát.
 
 <!--pg-->
-## Another Chapter on Searches
+## Một Phẩm Khác về Các Cơn Lũ
 
-### N 50.89--98 Another Series on Searches, Etc. *Punaesanāvagga*
+### N 50.99--108 Một Loạt Khác về Các Cơn Lũ, v.v. *Punaoghavagga*
 
-**(Tell in full as in SN 45.161--170, removal of greed version.)**
+Này các *Tỷ kheo*, có năm *xiềng xích bậc cao*. Năm thứ đó là gì? *Ham muốn tái sinh vào cõi sắc giới*, *ham muốn tái sinh vào cõi vô sắc giới*, *ngã mạn*, *bồn chồn*, và *vô minh*. Đây là năm *xiềng xích bậc cao*.
 
-> ::: footnotesize
-> Searches, discriminations, defilements,\
-> states of existence, three kinds of suffering,\
-> barrenness, stains, and troubles,\
-> feelings, craving, and thirst.
-> :::
+Năm *sức mạnh* cần được phát triển để *hiểu biết trực tiếp*, *hiểu biết hoàn toàn*, chấm dứt, và từ bỏ năm *xiềng xích bậc cao* này. Năm *sức mạnh* đó là gì? Một *Tỷ kheo* phát triển *sức mạnh* của *tín*, *nghị lực*, *niệm*, *Định*, và *trí tuệ*, với mục đích tối hậu là loại bỏ *tham*, *sân*, và *si*.
 
-<!--pg-->
-## Another Chapter on Floods
+Năm *sức mạnh* này cần được phát triển để *hiểu biết trực tiếp*, *hiểu biết hoàn toàn*, chấm dứt, và từ bỏ năm *xiềng xích bậc cao* này.
 
-### N 50.99--108 Another Series on Floods, Etc. *Punaoghavagga*
-
-"Mendicants, there are five higher fetters. What five? Desire for
-rebirth in the realm of luminous form, desire for rebirth in the
-formless realm, conceit, restlessness, and ignorance. These are the five
-higher fetters.
-
-The five powers should be developed for the direct knowledge, complete
-understanding, finishing, and giving up of these five higher fetters.
-What five? A mendicant develops the powers of faith, energy,
-mindfulness, immersion, and wisdom, which culminate in the removal of
-greed, hate, and delusion.
-
-These five powers should be developed for the direct knowledge, complete
-understanding, finishing, and giving up of these five higher fetters."
-
-> ::: footnotesize
-> Floods, yokes, grasping,\
-> ties, and underlying tendencies,\
-> kinds of sensual stimulation, hindrances,\
-> aggregates, and fetters high and low.
-> :::
-
-
-
+> *Cơn lũ*, *ách*, *bám giữ*,
+> *trói buộc*, và *ngầm hướng về*,
+> *các loại kích thích giác quan*, *Phiền nhiễu*,
+> *uẩn*, và *xiềng xích* bậc cao và bậc thấp.
+*cơn lũ* (floods / ogha / bộc lưu / những ô nhiễm mạnh mẽ cuốn trôi tâm trí).
+*ách* (yokes / yoga / những thứ trói buộc chúng sinh vào vòng luân hồi).
+*bám giữ* (grasping / upādāna / chấp thủ / dựa vào, khăng khăng vào).
+*trói buộc* (ties / gantha / những mối ràng buộc của thân tâm).
+*ngầm hướng về* (underlying tendencies / anusaya / tùy miên / ngủ ngầm, chiều hướng cơ bản).
+*các loại kích thích giác quan* (kinds of sensual stimulation / kāmaguṇa / các đối tượng của năm giác quan mang lại khoái lạc).
+*Phiền nhiễu* (hindrances / nīvaraṇa / triền cái / chướng ngại, là trạng thái bất an, bồn chồn gây khó tập trung trong hiện tại).
+*uẩn* (aggregates / khandha / năm nhóm yếu tố tạo thành một con người: sắc, thọ, tưởng, hành, thức).

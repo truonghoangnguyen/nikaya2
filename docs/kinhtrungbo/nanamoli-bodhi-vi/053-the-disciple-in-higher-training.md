@@ -131,7 +131,7 @@ Từ ngữ:
 - không khổ không lạc / adukkham-asukham / neither-pain-nor-pleasure: Trạng thái cảm thọ trung tính, vượt lên trên khổ và lạc, đặc trưng của tứ thiền.
 - xả / upekkhā / equanimity: Sự bình tâm, quân bình, không dao động trước các đối tượng dễ chịu hay khó chịu; cũng là trạng thái cảm thọ trung tính (không khổ không lạc) trong tứ thiền.
 - phá vỡ / abhinibbhidā / breaking out: Sự đột phá, thoát ra khỏi giới hạn, ẩn dụ cho việc vượt qua các giai đoạn tu tập, đặc biệt là ba minh (tri kiến).
-- an ổn vô thượng khỏi mọi ràng buộc / anuttara yoga-khema / supreme security from bondage: Sự giải thoát tối cao khỏi mọi ách縛 (yoga), tức là Niết Bàn, trạng thái an ổn tuyệt đối.
+- an ổn vô thượng khỏi mọi ràng buộc / anuttara yoga-khema / supreme security from bondage: Sự giải thoát tối cao khỏi mọi khổ ách (yoga), tức là Niết Bàn, trạng thái an ổn tuyệt đối.
 - thiên nhãn / dibba-cakkhu / divine eye: Một trong những thắng trí (abhiññā), khả năng nhìn thấy các cảnh giới khác, thấy sự tái sinh của chúng sinh tùy theo nghiệp.
 - thắng trí / abhiññā / direct knowledge: Sự hiểu biết trực tiếp, siêu việt, không qua suy luận thông thường, đạt được qua tu tập thiền định cao độ.
 - tâm giải thoát / ceto-vimutti / deliverance of mind: Sự giải thoát tâm khỏi tham ái và các phiền não liên quan đến cảm xúc.

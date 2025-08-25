@@ -1,1220 +1,553 @@
-# Linked Discourses on the Bases of Psychic Power
+# Các Bài Kinh Tương Ưng về Nền Tảng Thần Lực
 
 <!--pg-->
-## The Chapter at the Cāpāla Shrine
+## Chương tại Đền Cāpāla
 
-### N 51.1 From the Near Shore *Apārasutta*
+### N 51.1 Từ Bờ Bên Này *Apārasutta*
 
-"Mendicants, when these four bases of psychic power are developed and
-cultivated they lead to going from the near shore to the far shore. What
-four? It's when a mendicant develops the basis of psychic power that has
-immersion due to enthusiasm, and active effort. They develop the basis
-of psychic power that has immersion due to energy, and active effort.
-They develop the basis of psychic power that has immersion due to mental
-development, and active effort. They develop the basis of psychic power
-that has immersion due to inquiry, and active effort. When these four
-bases of psychic power are developed and cultivated they lead to going
-from the near shore to the far shore."
+"Này các *Tỷ kheo*, khi bốn *nền tảng thần lực* (bases of psychic power / iddhipāda / *thần túc* / nền tảng của các năng lực siêu nhiên) này được phát triển và tu tập, chúng sẽ dẫn đến việc đi từ bờ bên này sang bờ bên kia. Bốn điều đó là gì? Đó là khi một *Tỷ kheo* phát triển *nền tảng thần lực* có *Định* (Immersion / samādhi / định / Trạng thái tâm tụ trên một điểm) do *nhiệt tâm* (enthusiasm / chanda / *dục* / lòng mong muốn, sự hăng hái, nhiệt tình), và *công phu nỗ lực* (active effort / padhāna-saṅkhāra / *chánh tinh cần* / sự nỗ lực có chủ đích, có phương pháp). Vị ấy phát triển *nền tảng thần lực* có *Định* do *nghị lực* (Energy / viriya / Tinh tấn / Nỗ lực, nghị lực, sức mạnh tinh thần), và *công phu nỗ lực*. Vị ấy phát triển *nền tảng thần lực* có *Định* do *phát triển tâm* (mental development / citta / *tâm* / sự tu dưỡng, phát triển tâm thức), và *công phu nỗ lực*. Vị ấy phát triển *nền tảng thần lực* có *Định* do *quán chiếu* (inquiry / vīmaṃsā / *thẩm* / sự điều tra, xem xét, phân tích), và *công phu nỗ lực*. Khi bốn *nền tảng thần lực* này được phát triển và tu tập, chúng sẽ dẫn đến việc đi từ bờ bên này sang bờ bên kia."
 
 <!--pg-->
-### N 51.2 Missed Out *Viraddhasutta*
+### N 51.2 Bỏ Lỡ *Viraddhasutta*
 
-"Mendicants, whoever has missed out on the four bases of psychic power
-has missed out on the noble path to the complete ending of suffering.
-Whoever has undertaken the four bases of psychic power has undertaken
-the noble path to the complete ending of suffering. What four? It's when
-a mendicant develops the basis of psychic power that has immersion due
-to enthusiasm ... energy ... mental development ... inquiry, and active
-effort. Whoever has missed out on these four bases of psychic power has
-missed out on the noble path to the complete ending of suffering.
-Whoever has undertaken these four bases of psychic power has undertaken
-the noble path to the complete ending of suffering."
+"Này các *Tỷ kheo*, bất cứ ai đã bỏ lỡ bốn *nền tảng thần lực* là đã bỏ lỡ *con đường thánh* (noble path / ariya magga / con đường đưa đến giải thoát) dẫn đến *sự chấm dứt hoàn toàn khổ đau* (complete ending of suffering / dukkhanirodha / sự diệt khổ hoàn toàn). Bất cứ ai đã thực hành bốn *nền tảng thần lực* là đã thực hành *con đường thánh* dẫn đến *sự chấm dứt hoàn toàn khổ đau*. Bốn điều đó là gì? Đó là khi một *Tỷ kheo* phát triển *nền tảng thần lực* có *Định* do *nhiệt tâm*... *nghị lực*... *phát triển tâm*... *quán chiếu*, và *công phu nỗ lực*. Bất cứ ai đã bỏ lỡ bốn *nền tảng thần lực* này là đã bỏ lỡ *con đường thánh* dẫn đến *sự chấm dứt hoàn toàn khổ đau*. Bất cứ ai đã thực hành bốn *nền tảng thần lực* này là đã thực hành *con đường thánh* dẫn đến *sự chấm dứt hoàn toàn khổ đau*."
 
 <!--pg-->
-### N 51.3 A Noble One *Ariyasutta*
+### N 51.3 Một Bậc Thánh *Ariyasutta*
 
-"Mendicants, when these four bases of psychic power are developed and
-cultivated they are noble and emancipating, and bring one who practices
-them to the complete ending of suffering. What four? It's when a
-mendicant develops the basis of psychic power that has immersion due to
-enthusiasm ... energy ... mental development ... inquiry, and active
-effort. When these four bases of psychic power are developed and
-cultivated they are noble and emancipating, and bring one who practices
-them to the complete ending of suffering."
+"Này các *Tỷ kheo*, khi bốn *nền tảng thần lực* này được phát triển và tu tập, chúng là thánh thiện và giải thoát, và đưa người thực hành chúng đến *sự chấm dứt hoàn toàn khổ đau*. Bốn điều đó là gì? Đó là khi một *Tỷ kheo* phát triển *nền tảng thần lực* có *Định* do *nhiệt tâm*... *nghị lực*... *phát triển tâm*... *quán chiếu*, và *công phu nỗ lực*. Khi bốn *nền tảng thần lực* này được phát triển và tu tập, chúng là thánh thiện và giải thoát, và đưa người thực hành chúng đến *sự chấm dứt hoàn toàn khổ đau*."
 
 <!--pg-->
-### N 51.4 Disillusionment *Nibbidāsutta*
+### N 51.4 Nhàm Chán *Nibbidāsutta*
 
-"Mendicants, these four bases of psychic power, when developed and
-cultivated, lead solely to disillusionment, dispassion, cessation,
-peace, insight, awakening, and extinguishment. What four? It's when a
-mendicant develops the basis of psychic power that has immersion due to
-enthusiasm ... energy ... mental development ... inquiry, and active
-effort. These four bases of psychic power, when developed and
-cultivated, lead solely to disillusionment, dispassion, cessation,
-peace, insight, awakening, and extinguishment."
+"Này các *Tỷ kheo*, bốn *nền tảng thần lực* này, khi được phát triển và tu tập, chỉ dẫn đến *sự nhàm chán* (disillusionment / nibbidā / sự chán ngán, không còn hứng thú với các pháp hữu vi), *ly tham* (dispassion / virāga / sự phai nhạt của tham ái), *sự chấm dứt* (cessation / nirodha / sự diệt tận của khổ và nguyên nhân của khổ), *sự an tịnh* (peace / upasama / sự lắng dịu của các phiền não), *tuệ giác* (insight / paññā / sự hiểu biết sâu sắc về bản chất sự vật), *giác ngộ* (awakening / bodhi / sự tỉnh thức hoàn toàn, thấy rõ sự thật), và *Niết bàn* (extinguishment / nibbāna / sự dập tắt hoàn toàn tham, sân, si; trạng thái giải thoát cuối cùng). Bốn điều đó là gì? Đó là khi một *Tỷ kheo* phát triển *nền tảng thần lực* có *Định* do *nhiệt tâm*... *nghị lực*... *phát triển tâm*... *quán chiếu*, và *công phu nỗ lực*. Bốn *nền tảng thần lực* này, khi được phát triển và tu tập, chỉ dẫn đến *sự nhàm chán*, *ly tham*, *sự chấm dứt*, *sự an tịnh*, *tuệ giác*, *giác ngộ*, và *Niết bàn*."
 
 <!--pg-->
-### N 51.5 Partly *Iddhipadesasutta*
+### N 51.5 Một Phần *Iddhipadesasutta*
 
-"Mendicants, all the ascetics and brahmins in the past who have partly
-manifested psychic powers have done so by developing and cultivating the
-four bases of psychic power. All the ascetics and brahmins in the future
-who will partly manifest psychic powers will do so by developing and
-cultivating the four bases of psychic power. All the ascetics and
-brahmins in the present who are partly manifesting psychic powers do so
-by developing and cultivating the four bases of psychic power.
+"Này các *Tỷ kheo*, tất cả các vị sa-môn và bà-la-môn trong quá khứ đã biểu hiện một phần *thần thông* (psychic powers / iddhi / các năng lực siêu nhiên) đều đã làm như vậy bằng cách phát triển và tu tập bốn *nền tảng thần lực*. Tất cả các vị sa-môn và bà-la-môn trong tương lai sẽ biểu hiện một phần *thần thông* cũng sẽ làm như vậy bằng cách phát triển và tu tập bốn *nền tảng thần lực*. Tất cả các vị sa-môn và bà-la-môn trong hiện tại đang biểu hiện một phần *thần thông* cũng làm như vậy bằng cách phát triển và tu tập bốn *nền tảng thần lực*.
 
-What four? It's when a mendicant develops the basis of psychic power
-that has immersion due to enthusiasm ... energy ... mental development
-... inquiry, and active effort. All the ascetics and brahmins in the
-past who have partly manifested psychic powers have done so by
-developing and cultivating these four bases of psychic power. All the
-ascetics and brahmins in the future who will partly manifest psychic
-powers will do so by developing and cultivating these four bases of
-psychic power. All the ascetics and brahmins in the present who are
-partly manifesting psychic powers do so by developing and cultivating
-these four bases of psychic power."
+Bốn điều đó là gì? Đó là khi một *Tỷ kheo* phát triển *nền tảng thần lực* có *Định* do *nhiệt tâm*... *nghị lực*... *phát triển tâm*... *quán chiếu*, và *công phu nỗ lực*. Tất cả các vị sa-môn và bà-la-môn trong quá khứ đã biểu hiện một phần *thần thông* đều đã làm như vậy bằng cách phát triển và tu tập bốn *nền tảng thần lực* này. Tất cả các vị sa-môn và bà-la-môn trong tương lai sẽ biểu hiện một phần *thần thông* cũng sẽ làm như vậy bằng cách phát triển và tu tập bốn *nền tảng thần lực* này. Tất cả các vị sa-môn và bà-la-môn trong hiện tại đang biểu hiện một phần *thần thông* cũng làm như vậy bằng cách phát triển và tu tập bốn *nền tảng thần lực* này."
 
 <!--pg-->
-### N 51.6 Completely *Samattasutta*
+### N 51.6 Hoàn Toàn *Samattasutta*
 
-"Mendicants, all the ascetics and brahmins in the past who have
-completely manifested psychic powers have done so by developing and
-cultivating the four bases of psychic power. All the ascetics and
-brahmins in the future who will completely manifest psychic powers will
-do so by developing and cultivating the four bases of psychic power. All
-the ascetics and brahmins in the present who are completely manifesting
-psychic powers do so by developing and cultivating the four bases of
-psychic power.
+"Này các *Tỷ kheo*, tất cả các vị sa-môn và bà-la-môn trong quá khứ đã biểu hiện hoàn toàn *thần thông* đều đã làm như vậy bằng cách phát triển và tu tập bốn *nền tảng thần lực*. Tất cả các vị sa-môn và bà-la-môn trong tương lai sẽ biểu hiện hoàn toàn *thần thông* cũng sẽ làm như vậy bằng cách phát triển và tu tập bốn *nền tảng thần lực*. Tất cả các vị sa-môn và bà-la-môn trong hiện tại đang biểu hiện hoàn toàn *thần thông* cũng làm như vậy bằng cách phát triển và tu tập bốn *nền tảng thần lực*.
 
-What four? It's when a mendicant develops the basis of psychic power
-that has immersion due to enthusiasm ... energy ... mental development
-... inquiry, and active effort. All the ascetics and brahmins in the
-past who have completely manifested psychic powers have done so by
-developing and cultivating these four bases of psychic power. All the
-ascetics and brahmins in the future who will completely manifest psychic
-powers will do so by developing and cultivating these four bases of
-psychic power. All the ascetics and brahmins in the present who are
-completely manifesting psychic powers do so by developing and
-cultivating these four bases of psychic power."
+Bốn điều đó là gì? Đó là khi một *Tỷ kheo* phát triển *nền tảng thần lực* có *Định* do *nhiệt tâm*... *nghị lực*... *phát triển tâm*... *quán chiếu*, và *công phu nỗ lực*. Tất cả các vị sa-môn và bà-la-môn trong quá khứ đã biểu hiện hoàn toàn *thần thông* đều đã làm như vậy bằng cách phát triển và tu tập bốn *nền tảng thần lực* này. Tất cả các vị sa-môn và bà-la-môn trong tương lai sẽ biểu hiện hoàn toàn *thần thông* cũng sẽ làm như vậy bằng cách phát triển và tu tập bốn *nền tảng thần lực* này. Tất cả các vị sa-môn và bà-la-môn trong hiện tại đang biểu hiện hoàn toàn *thần thông* cũng làm như vậy bằng cách phát triển và tu tập bốn *nền tảng thần lực* này."
 
 <!--pg-->
-### N 51.7 A Mendicant *Bhikkhusutta*
+### N 51.7 Một Tỷ Kheo *Bhikkhusutta*
 
-"Mendicants, all the mendicants in the past ... future ... present who
-realize the undefiled freedom of heart and freedom by wisdom in this
-very life, and who live having realized it with their own insight due to
-the ending of defilements, do so by developing and cultivating the four
-bases of psychic power.
+"Này các *Tỷ kheo*, tất cả các *Tỷ kheo* trong quá khứ... tương lai... hiện tại, những người chứng ngộ *tâm giải thoát* (freedom of heart / cetovimutti / sự giải thoát của tâm khỏi tham ái) và *tuệ giải thoát* (freedom by wisdom / paññāvimutti / sự giải thoát nhờ trí tuệ, thấy rõ bản chất của vạn vật) không còn ô nhiễm ngay trong đời này, và những người sống sau khi đã chứng ngộ điều đó bằng tuệ giác của chính mình nhờ sự chấm dứt các *lậu hoặc* (defilements / āsava / những ô nhiễm tinh thần sâu kín, chảy rỉ ra ngoài), đều làm như vậy bằng cách phát triển và tu tập bốn *nền tảng thần lực*.
 
-What four? It's when a mendicant develops the basis of psychic power
-that has immersion due to enthusiasm ... energy ... mental development
-... inquiry, and active effort. All the mendicants in the past ...
-future ... present who realize the undefiled freedom of heart and
-freedom by wisdom in this very life, and who live having realized it
-with their own insight due to the ending of defilements, do so by
-developing and cultivating these four bases of psychic power."
+Bốn điều đó là gì? Đó là khi một *Tỷ kheo* phát triển *nền tảng thần lực* có *Định* do *nhiệt tâm*... *nghị lực*... *phát triển tâm*... *quán chiếu*, và *công phu nỗ lực*. Tất cả các *Tỷ kheo* trong quá khứ... tương lai... hiện tại, những người chứng ngộ *tâm giải thoát* và *tuệ giải thoát* không còn ô nhiễm ngay trong đời này, và những người sống sau khi đã chứng ngộ điều đó bằng tuệ giác của chính mình nhờ sự chấm dứt các *lậu hoặc*, đều làm như vậy bằng cách phát triển và tu tập bốn *nền tảng thần lực* này."
 
 <!--pg-->
-### N 51.8 Awakened *Buddhasutta*
+### N 51.8 Bậc Giác Ngộ *Buddhasutta*
 
-"Mendicants, there are these four bases of psychic power. What four?
-It's when a mendicant develops the basis of psychic power that has
-immersion due to enthusiasm ... energy ... mental development ...
-inquiry, and active effort. These are the four bases of psychic power.
-It is because he has developed and cultivated these four bases of
-psychic power that the Realized One is called 'the perfected one, the
-fully awakened Buddha'."
+"Này các *Tỷ kheo*, có bốn *nền tảng thần lực* này. Bốn điều đó là gì? Đó là khi một *Tỷ kheo* phát triển *nền tảng thần lực* có *Định* do *nhiệt tâm*... *nghị lực*... *phát triển tâm*... *quán chiếu*, và *công phu nỗ lực*. Đây là bốn *nền tảng thần lực*. Chính vì đã phát triển và tu tập bốn *nền tảng thần lực* này mà *Như Lai* (Realized One / Tathāgata / người đã đến và đi như vậy, một danh hiệu của Đức Phật) được gọi là '*bậc hoàn thiện* (perfected one / arahant / A-la-hán, bậc đã hoàn thiện, đã chấm dứt các lậu hoặc), *Phật toàn giác* (fully awakened Buddha / sammāsambuddha / bậc tự mình giác ngộ hoàn toàn không thầy chỉ dạy)'."
 
 <!--pg-->
-### N 51.9 Knowledge *Ñāṇasutta*
+### N 51.9 Tri Kiến *Ñāṇasutta*
 
-"Mendicants: 'This is the basis of psychic power that has immersion due
-to enthusiasm, and active effort.' Such was the vision, knowledge,
-wisdom, realization, and light that arose in me regarding teachings not
-learned before from another. 'This basis of psychic power ... should be
-developed.' ... 'This basis of psychic power ... has been developed.'
-Such was the vision, knowledge, wisdom, realization, and light that
-arose in me regarding teachings not learned before from another.
+"Này các *Tỷ kheo*: 'Đây là *nền tảng thần lực* có *Định* do *nhiệt tâm*, và *công phu nỗ lực*.' Tri kiến, trí tuệ, sự chứng ngộ, và ánh sáng như vậy đã khởi lên trong Ta về những giáo lý chưa từng được học từ ai khác trước đây. '*Nền tảng thần lực* này... cần được phát triển.'... '*Nền tảng thần lực* này... đã được phát triển.' Tri kiến, trí tuệ, sự chứng ngộ, và ánh sáng như vậy đã khởi lên trong Ta về những giáo lý chưa từng được học từ ai khác trước đây.
 
-'This is the basis of psychic power that has immersion due to energy,
-and active effort.' ... 'This basis of psychic power ... should be
-developed.' ... 'This basis of psychic power ... has been developed.'
-Such was the vision, knowledge, wisdom, realization, and light that
-arose in me regarding teachings not learned before from another.
+'Đây là *nền tảng thần lực* có *Định* do *nghị lực*, và *công phu nỗ lực*.'... '*Nền tảng thần lực* này... cần được phát triển.'... '*Nền tảng thần lực* này... đã được phát triển.' Tri kiến, trí tuệ, sự chứng ngộ, và ánh sáng như vậy đã khởi lên trong Ta về những giáo lý chưa từng được học từ ai khác trước đây.
 
-'This is the basis of psychic power that has immersion due to mental
-development, and active effort.' ... 'This basis of psychic power ...
-should be developed.' ... 'This basis of psychic power ... has been
-developed.' Such was the vision, knowledge, wisdom, realization, and
-light that arose in me regarding teachings not learned before from
-another.
+'Đây là *nền tảng thần lực* có *Định* do *phát triển tâm*, và *công phu nỗ lực*.'... '*Nền tảng thần lực* này... cần được phát triển.'... '*Nền tảng thần lực* này... đã được phát triển.' Tri kiến, trí tuệ, sự chứng ngộ, và ánh sáng như vậy đã khởi lên trong Ta về những giáo lý chưa từng được học từ ai khác trước đây.
 
-'This is the basis of psychic power that has immersion due to inquiry,
-and active effort.' ... 'This basis of psychic power ... should be
-developed.' ... 'This basis of psychic power ... has been developed.'
-Such was the vision, knowledge, wisdom, realization, and light that
-arose in me regarding teachings not learned before from another."
+'Đây là *nền tảng thần lực* có *Định* do *quán chiếu*, và *công phu nỗ lực*.'... '*Nền tảng thần lực* này... cần được phát triển.'... '*Nền tảng thần lực* này... đã được phát triển.' Tri kiến, trí tuệ, sự chứng ngộ, và ánh sáng như vậy đã khởi lên trong Ta về những giáo lý chưa từng được học từ ai khác trước đây."
 
 <!--pg-->
-### N 51.10 At the Cāpāla Shrine *Cetiyasutta*
+### N 51.10 Tại Đền Cāpāla *Cetiyasutta*
 
-So I have heard. At one time the Buddha was staying near
-Vesālī, at the Great Wood, in the hall with the peaked
-roof. Then the Buddha robed up in the morning and, taking his bowl and
-robe, entered Vesālī for alms. Then, after the meal, on his
-return from almsround, he addressed Venerable Ānanda: "Ānanda, get your
-sitting cloth. Let's go to the Cāpāla Shrine for the day's
-meditation."
+Như vầy tôi nghe. Một thời Đức Phật trú gần Vesālī, tại Đại Lâm, trong giảng đường có mái nhọn. Bấy giờ, vào buổi sáng, Đức Phật đắp y, mang bát và y, vào thành Vesālī để khất thực. Sau bữa ăn, khi trở về từ chuyến khất thực, Ngài nói với Tôn giả A-nan: "A-nan, hãy lấy tọa cụ của con. Chúng ta hãy đến Đền Cāpāla để thiền định trong ngày."
 
-"Yes, sir," replied Ānanda. Taking his sitting cloth he followed behind
-the Buddha.
+"Vâng, thưa Tôn Sư," A-nan đáp. Lấy tọa cụ, ông đi theo sau Đức Phật.
 
-Then the Buddha went up to the Cāpāla Shrine, and sat down
-on the seat spread out. Ānanda bowed to the Buddha and sat down to one
-side. The Buddha said to him:
+Sau đó, Đức Phật đi đến Đền Cāpāla và ngồi xuống trên chỗ đã được trải sẵn. A-nan đảnh lễ Đức Phật và ngồi xuống một bên. Đức Phật nói với ông:
 
-"Ānanda, Vesālī is lovely. And the Udena, Gotamaka, Seven
-Maidens, Many Sons, Sārandada, and Cāpāla
-Tree-shrines are all lovely. Whoever has developed and cultivated the
-four bases of psychic power---made them a vehicle and a basis, kept them
-up, consolidated them, and properly implemented them---may, if they
-wish, live for the proper lifespan or what's left of it. The Realized
-One has developed and cultivated the four bases of psychic power, made
-them a vehicle and a basis, kept them up, consolidated them, and
-properly implemented them. If he wished, the Realized One could live for
-the proper lifespan or what's left of it."
+"A-nan, Vesālī thật đáng yêu. Và các đền thờ cây Udena, Gotamaka, Bảy Thiếu Nữ, Nhiều Con Trai, Sārandada, và Cāpāla đều đáng yêu. Bất cứ ai đã phát triển và tu tập bốn *nền tảng thần lực*—biến chúng thành cỗ xe và nền tảng, duy trì, củng cố và thực hành đúng đắn—nếu muốn, có thể sống trọn *thọ mạng kiếp* (proper lifespan / kappa / tuổi thọ của một kiếp trái đất) hoặc phần còn lại của nó. *Như Lai* đã phát triển và tu tập bốn *nền tảng thần lực*, biến chúng thành cỗ xe và nền tảng, duy trì, củng cố và thực hành đúng đắn. Nếu muốn, *Như Lai* có thể sống trọn *thọ mạng kiếp* hoặc phần còn lại của nó."
 
-But Ānanda didn't get it, even though the Buddha dropped such an obvious
-hint, such a clear sign. He didn't beg the Buddha, "Sir, may the Blessed
-One please remain for the eon! May the Holy One please remain for the
-eon! That would be for the welfare and happiness of the people, out of
-sympathy for the world, for the benefit, welfare, and happiness of gods
-and humans." For his mind was as if possessed by Māra.
+Nhưng A-nan đã không hiểu, dù Đức Phật đã đưa ra một gợi ý rõ ràng như vậy, một dấu hiệu minh bạch như vậy. Ông đã không thỉnh cầu Đức Phật: "Bạch Thế Tôn, xin Thế Tôn hãy trụ thế trọn một kiếp! Xin Thiện Thệ hãy trụ thế trọn một kiếp! Điều đó sẽ vì lợi ích và hạnh phúc của dân chúng, vì lòng thương xót thế gian, vì lợi ích, phúc lợi và hạnh phúc của chư thiên và loài người." Vì tâm trí ông như bị *Ma vương* (Māra / Māra / hiện thân của sự cám dỗ, cái chết, và các chướng ngại trên con đường tu tập) ám ảnh.
 
-For a second time ... and for a third time, the Buddha said to Ānanda:
+Lần thứ hai... và lần thứ ba, Đức Phật nói với A-nan:
 
-"Ānanda, Vesālī is lovely. And the Udena, Gotamaka, Seven
-Maidens, Many Sons, Sārandada, and Cāpāla
-Tree-shrines are all lovely. Whoever has developed and cultivated the
-four bases of psychic power---made them a vehicle and a basis, kept them
-up, consolidated them, and properly implemented them---may, if they
-wish, live for the proper lifespan or what's left of it. The Realized
-One has developed and cultivated the four bases of psychic power, made
-them a vehicle and a basis, kept them up, consolidated them, and
-properly implemented them. If he wished, the Realized One could live for
-the proper lifespan or what's left of it."
+"A-nan, Vesālī thật đáng yêu. Và các đền thờ cây Udena, Gotamaka, Bảy Thiếu Nữ, Nhiều Con Trai, Sārandada, và Cāpāla đều đáng yêu. Bất cứ ai đã phát triển và tu tập bốn *nền tảng thần lực*—biến chúng thành cỗ xe và nền tảng, duy trì, củng cố và thực hành đúng đắn—nếu muốn, có thể sống trọn *thọ mạng kiếp* hoặc phần còn lại của nó. *Như Lai* đã phát triển và tu tập bốn *nền tảng thần lực*, biến chúng thành cỗ xe và nền tảng, duy trì, củng cố và thực hành đúng đắn. Nếu muốn, *Như Lai* có thể sống trọn *thọ mạng kiếp* hoặc phần còn lại của nó."
 
-But Ānanda didn't get it, even though the Buddha dropped such an obvious
-hint, such a clear sign. He didn't beg the Buddha, "Sir, may the Blessed
-One please remain for the eon! May the Holy One please remain for the
-eon! That would be for the welfare and happiness of the people, out of
-sympathy for the world, for the benefit, welfare, and happiness of gods
-and humans." For his mind was as if possessed by Māra.
+Nhưng A-nan đã không hiểu, dù Đức Phật đã đưa ra một gợi ý rõ ràng như vậy, một dấu hiệu minh bạch như vậy. Ông đã không thỉnh cầu Đức Phật: "Bạch Thế Tôn, xin Thế Tôn hãy trụ thế trọn một kiếp! Xin Thiện Thệ hãy trụ thế trọn một kiếp! Điều đó sẽ vì lợi ích và hạnh phúc của dân chúng, vì lòng thương xót thế gian, vì lợi ích, phúc lợi và hạnh phúc của chư thiên và loài người." Vì tâm trí ông như bị *Ma vương* ám ảnh.
 
-Then the Buddha said to him, "Go now, Ānanda, at your convenience."
+Bấy giờ Đức Phật nói với ông: "A-nan, con hãy đi đi, tùy lúc thuận tiện."
 
-"Yes, sir," replied Ānanda. He rose from his seat, bowed, and
-respectfully circled the Buddha, keeping him on his right, before
-sitting at the root of a tree close by.
+"Vâng, thưa Tôn Sư," A-nan đáp. Ông đứng dậy khỏi chỗ ngồi, đảnh lễ, và đi quanh Đức Phật theo chiều kim đồng hồ, giữ Ngài ở bên phải, trước khi ngồi xuống dưới gốc một cây gần đó.
 
-And then, not long after Ānanda had left, Māra the Wicked
-went up to the Buddha and said to him:
+Và rồi, không lâu sau khi A-nan rời đi, *Ma vương* Ác độc đến gần Đức Phật và nói với Ngài:
 
-"Sir, may the Blessed One now be fully extinguished! May the Holy One
-now be fully extinguished! Now is the time for the full extinguishment
-of the Buddha. Sir, you once made this statement: 'Wicked One, I shall
-not be fully extinguished until I have monk disciples who are competent,
-educated, assured, learned, have memorized the teachings, and practice
-in line with the teachings. Not until they practice properly, living in
-line with the teaching. Not until they've learned their own tradition,
-and explain, teach, assert, establish, disclose, analyze, and make it
-clear. Not until they can legitimately and completely refute the
-doctrines of others that come up, and teach with a demonstrable basis.'
+"Bạch Thế Tôn, xin Thế Tôn hãy *nhập vô dư Niết bàn* (fully extinguished / parinibbāyati / sự tịch diệt hoàn toàn, không còn thân xác) ngay bây giờ! Xin Thiện Thệ hãy *nhập vô dư Niết bàn* ngay bây giờ! Bây giờ là lúc để Đức Phật *nhập vô dư Niết bàn*. Bạch Thế Tôn, Ngài đã từng tuyên bố: 'Này Ác độc, Ta sẽ không *nhập vô dư Niết bàn* cho đến khi Ta có các đệ tử Tỷ kheo có năng lực, có học thức, vững vàng, uyên bác, đã ghi nhớ giáo pháp, và thực hành đúng theo giáo pháp. Cho đến khi họ thực hành đúng đắn, sống thuận theo giáo pháp. Cho đến khi họ đã học được truyền thống của mình, và giải thích, giảng dạy, khẳng định, thiết lập, tiết lộ, phân tích, và làm cho nó rõ ràng. Cho đến khi họ có thể bác bỏ một cách hợp pháp và hoàn toàn các học thuyết của người khác khi chúng xuất hiện, và giảng dạy với một cơ sở có thể chứng minh được.'
 
-Today you do have such monk disciples. May the Blessed One now be fully
-extinguished! May the Holy One now be fully extinguished! Now is the
-time for the full extinguishment of the Buddha.
+Hôm nay Ngài đã có những đệ tử Tỷ kheo như vậy. Xin Thế Tôn hãy *nhập vô dư Niết bàn* ngay bây giờ! Xin Thiện Thệ hãy *nhập vô dư Niết bàn* ngay bây giờ! Bây giờ là lúc để Đức Phật *nhập vô dư Niết bàn*.
 
-Sir, you once made this statement: 'Wicked One, I shall not be fully
-extinguished until I have nun disciples who are competent, educated,
-assured, learned ...' ...
+Bạch Thế Tôn, Ngài đã từng tuyên bố: 'Này Ác độc, Ta sẽ không *nhập vô dư Niết bàn* cho đến khi Ta có các đệ tử Tỷ kheo ni có năng lực, có học thức, vững vàng, uyên bác...'...
 
-Today you do have such nun disciples. May the Blessed One now be fully
-extinguished! May the Holy One now be fully extinguished! Now is the
-time for the full extinguishment of the Buddha.
+Hôm nay Ngài đã có những đệ tử Tỷ kheo ni như vậy. Xin Thế Tôn hãy *nhập vô dư Niết bàn* ngay bây giờ! Xin Thiện Thệ hãy *nhập vô dư Niết bàn* ngay bây giờ! Bây giờ là lúc để Đức Phật *nhập vô dư Niết bàn*.
 
-Sir, you once made this statement: 'Wicked One, I shall not be fully
-extinguished until I have layman disciples ... and laywoman disciples
-who are competent, educated, assured, learned ...' ...
+Bạch Thế Tôn, Ngài đã từng tuyên bố: 'Này Ác độc, Ta sẽ không *nhập vô dư Niết bàn* cho đến khi Ta có các đệ tử nam cư sĩ... và nữ cư sĩ có năng lực, có học thức, vững vàng, uyên bác...'...
 
-Today you do have such layman and laywoman disciples. May the Blessed
-One now be fully extinguished! May the Holy One now be fully
-extinguished! Now is the time for the full extinguishment of the Buddha.
+Hôm nay Ngài đã có những đệ tử nam và nữ cư sĩ như vậy. Xin Thế Tôn hãy *nhập vô dư Niết bàn* ngay bây giờ! Xin Thiện Thệ hãy *nhập vô dư Niết bàn* ngay bây giờ! Bây giờ là lúc để Đức Phật *nhập vô dư Niết bàn*.
 
-Sir, you once made this statement: 'Wicked One, I shall not be fully
-extinguished until my spiritual path is successful and prosperous,
-extensive, popular, widespread, and well proclaimed wherever there are
-gods and humans.' Today your spiritual path is successful and
-prosperous, extensive, popular, widespread, and well proclaimed wherever
-there are gods and humans. May the Blessed One now be fully
-extinguished! May the Holy One now be fully extinguished! Now is the
-time for the full extinguishment of the Buddha."
+Bạch Thế Tôn, Ngài đã từng tuyên bố: 'Này Ác độc, Ta sẽ không *nhập vô dư Niết bàn* cho đến khi con đường tâm linh của Ta thành công và thịnh vượng, rộng lớn, phổ biến, lan rộng, và được tuyên bố rõ ràng ở bất cứ nơi nào có chư thiên và loài người.' Hôm nay con đường tâm linh của Ngài đã thành công và thịnh vượng, rộng lớn, phổ biến, lan rộng, và được tuyên bố rõ ràng ở bất cứ nơi nào có chư thiên và loài người. Xin Thế Tôn hãy *nhập vô dư Niết bàn* ngay bây giờ! Xin Thiện Thệ hãy *nhập vô dư Niết bàn* ngay bây giờ! Bây giờ là lúc để Đức Phật *nhập vô dư Niết bàn*."
 
-When this was said, the Buddha said to Māra, "Relax, Wicked
-One. The full extinguishment of the Realized One will be soon. Three
-months from now the Realized One will be fully extinguished."
+Khi được nói như vậy, Đức Phật nói với *Ma vương*: "Hãy yên tâm, Ác độc. Sự *nhập vô dư Niết bàn* của *Như Lai* sẽ sớm diễn ra. Ba tháng nữa kể từ bây giờ, *Như Lai* sẽ *nhập vô dư Niết bàn*."
 
-So at the Cāpāla Tree-shrine the Buddha, mindful and aware,
-surrendered the life force. When he did so there was a great earthquake,
-awe-inspiring and hair-raising, and thunder cracked the sky. Then,
-understanding this matter, on that occasion the Buddha expressed this
-heartfelt sentiment:
+Vậy là tại Đền thờ cây Cāpāla, Đức Phật, với *chánh niệm* và *nhận biết rõ ràng*, đã từ bỏ *mạng hành* (life force / jīvitasaṅkhāra / năng lực duy trì sự sống). Khi Ngài làm vậy, có một trận động đất lớn, kinh hoàng và dựng tóc gáy, và sấm sét vang trời. Bấy giờ, hiểu rõ sự việc này, vào dịp đó, Đức Phật đã thốt lên lời cảm hứng này:
 
-> "Comparing the incomparable\
-> － with the creation of prolonged life,\
-> the sage surrendered the life force.\
-> Happy inside, serene,\
-> he shattered self-creation like a suit of armor."
+> "So sánh điều không thể so sánh\
+> —với sự tạo tác kéo dài sự sống,\
+> bậc hiền triết đã từ bỏ *mạng hành*.\
+> Nội tâm hoan hỷ, thanh tịnh,\
+> Ngài phá tan sự tự tạo tác như phá vỡ áo giáp."
 
 <!--pg-->
-## The Chapter on Shaking the Stilt Longhouse
+## Chương về Rung Chuyển Nhà Sàn
 
-### N 51.11 Before *Pubbasutta*
+### N 51.11 Trước Kia *Pubbasutta*
 
-At Sāvatthī.
+Tại Sāvatthī.
 
-"Mendicants, before my awakening---when I was still unawakened but
-intent on awakening---I thought: 'What's the cause, what's the reason
-for the development of the bases of psychic power?' Then it occurred to
-me: 'It's when a mendicant develops the basis of psychic power that has
-immersion due to enthusiasm, and active effort. They think: "My
-enthusiasm won't be too lax or too tense. And it'll be neither
-constricted internally nor scattered externally." And they meditate
-perceiving before and behind: as before, so behind; as behind, so
-before; as below, so above; as above, so below; as by day, so by night;
-as by night, so by day. And so, with an open and unenveloped heart, they
-develop a mind that's full of radiance.
+"Này các *Tỷ kheo*, trước khi *giác ngộ*—khi Ta vẫn chưa *giác ngộ* nhưng quyết tâm *giác ngộ*—Ta đã nghĩ: 'Đâu là nhân, đâu là duyên cho sự phát triển các *nền tảng thần lực*?' Rồi Ta nghĩ ra: 'Đó là khi một *Tỷ kheo* phát triển *nền tảng thần lực* có *Định* do *nhiệt tâm*, và *công phu nỗ lực*. Vị ấy nghĩ: "*Nhiệt tâm* của ta sẽ không quá lỏng lẻo hay quá căng thẳng. Và nó sẽ không co cụm bên trong cũng không phân tán bên ngoài." Và vị ấy thiền định nhận thức trước và sau: như trước, vậy sau; như sau, vậy trước; như dưới, vậy trên; như trên, vậy dưới; như ngày, vậy đêm; như đêm, vậy ngày. Và như vậy, với một trái tim rộng mở và không bị che lấp, vị ấy phát triển một tâm trí tràn đầy ánh sáng.
 
-They develop the basis of psychic power that has immersion due to energy
-... mental development ... inquiry, and active effort. They think: "My
-inquiry won't be too lax or too tense. And it'll be neither constricted
-internally nor scattered externally." And they meditate perceiving
-before and behind: as before, so behind; as behind, so before; as below,
-so above; as above, so below; as by day, so by night; as by night, so by
-day. And so, with an open and unenveloped heart, they develop a mind
-that's full of radiance.'
+Vị ấy phát triển *nền tảng thần lực* có *Định* do *nghị lực*... *phát triển tâm*... *quán chiếu*, và *công phu nỗ lực*. Vị ấy nghĩ: "*Quán chiếu* của ta sẽ không quá lỏng lẻo hay quá căng thẳng. Và nó sẽ không co cụm bên trong cũng không phân tán bên ngoài." Và vị ấy thiền định nhận thức trước và sau: như trước, vậy sau; như sau, vậy trước; như dưới, vậy trên; như trên, vậy dưới; như ngày, vậy đêm; như đêm, vậy ngày. Và như vậy, với một trái tim rộng mở và không bị che lấp, vị ấy phát triển một tâm trí tràn đầy ánh sáng.'
 
-When the four bases of psychic power have been developed and cultivated
-in this way, they wield the many kinds of psychic power: multiplying
-themselves and becoming one again; appearing and disappearing; going
-unobstructed through a wall, a rampart, or a mountain as if through
-space; diving in and out of the earth as if it were water; walking on
-water as if it were earth; flying cross-legged through the sky like a
-bird; touching and stroking with the hand the sun and moon, so mighty
-and powerful; controlling the body as far as the realm of divinity.
+Khi bốn *nền tảng thần lực* đã được phát triển và tu tập theo cách này, họ sử dụng nhiều loại *thần thông*: nhân bản thân mình lên và trở lại thành một; hiện ra và biến mất; đi xuyên qua tường, thành lũy, hoặc núi không bị cản trở như đi trong không gian; lặn vào và trồi lên khỏi mặt đất như thể đó là nước; đi trên mặt nước như thể đó là đất; bay ngồi xếp bằng trên bầu trời như một con chim; chạm và vuốt ve mặt trời và mặt trăng bằng tay, thật hùng mạnh và quyền năng; điều khiển cơ thể đến tận cõi trời.
 
-When the four bases of psychic power have been developed and cultivated
-in this way, they hear both kinds of sounds, human and heavenly, whether
-near or far.
+Khi bốn *nền tảng thần lực* đã được phát triển và tu tập theo cách này, họ nghe được cả hai loại âm thanh, của con người và của chư thiên, dù gần hay xa.
 
-When the four bases of psychic power have been developed and cultivated
-in this way, they understand the minds of other beings and individuals,
-having comprehended them with their own mind. They understand mind with
-greed as 'mind with greed', and mind without greed as 'mind without
-greed'. They understand mind with hate ... mind without hate ... mind
-with delusion ... mind without delusion ... constricted mind ...
-scattered mind ... expansive mind ... unexpansive mind ... mind that is
-not supreme ... mind that is supreme ... mind immersed in
-samādhi ... mind not immersed in samādhi ...
-freed mind ... They understand unfreed mind as 'unfreed mind'.
+Khi bốn *nền tảng thần lực* đã được phát triển và tu tập theo cách này, họ hiểu được tâm trí của các chúng sinh và cá nhân khác, sau khi đã thấu hiểu chúng bằng tâm trí của chính mình. Họ hiểu tâm có tham là 'tâm có tham', và tâm không có tham là 'tâm không có tham'. Họ hiểu tâm có sân... tâm không có sân... tâm có si... tâm không có si... tâm co cụm... tâm phân tán... tâm quảng đại... tâm không quảng đại... tâm không phải là tối thượng... tâm là tối thượng... tâm *đắm chìm trong định*... tâm không *đắm chìm trong định*... tâm giải thoát... Họ hiểu tâm chưa giải thoát là 'tâm chưa giải thoát'.
 
-When the four bases of psychic power have been developed and cultivated
-in this way, they recollect many kinds of past lives. That is: one, two,
-three, four, five, ten, twenty, thirty, forty, fifty, a hundred, a
-thousand, a hundred thousand rebirths; many eons of the world
-contracting, many eons of the world expanding, many eons of the world
-contracting and expanding. They remember: 'There, I was named this, my
-clan was that, I looked like this, and that was my food. This was how I
-felt pleasure and pain, and that was how my life ended. When I passed
-away from that place I was reborn somewhere else. There, too, I was
-named this, my clan was that, I looked like this, and that was my food.
-This was how I felt pleasure and pain, and that was how my life ended.
-When I passed away from that place I was reborn here.' And so they
-recollect their many kinds of past lives, with features and details.
+Khi bốn *nền tảng thần lực* đã được phát triển và tu tập theo cách này, họ nhớ lại nhiều loại tiền kiếp. Đó là: một, hai, ba, bốn, năm, mười, hai mươi, ba mươi, bốn mươi, năm mươi, một trăm, một nghìn, một trăm nghìn kiếp tái sinh; nhiều kiếp thế giới co lại, nhiều kiếp thế giới giãn ra, nhiều kiếp thế giới co lại và giãn ra. Họ nhớ: 'Ở đó, ta tên là thế này, dòng họ của ta là thế kia, ta trông như thế này, và đó là thức ăn của ta. Đây là cách ta cảm nhận sự vui sướng và đau khổ, và đó là cách cuộc đời ta kết thúc. Khi ta qua đời từ nơi đó, ta được tái sinh ở một nơi khác. Ở đó, ta cũng tên là thế này, dòng họ của ta là thế kia, ta trông như thế này, và đó là thức ăn của ta. Đây là cách ta cảm nhận sự vui sướng và đau khổ, và đó là cách cuộc đời ta kết thúc. Khi ta qua đời từ nơi đó, ta được tái sinh ở đây.' Và như vậy, họ nhớ lại nhiều loại tiền kiếp của mình, với các đặc điểm và chi tiết.
 
-When the four bases of psychic power have been developed and cultivated
-in this way, with clairvoyance that is purified and superhuman, they see
-sentient beings passing away and being reborn---inferior and superior,
-beautiful and ugly, in a good place or a bad place. They understand how
-sentient beings are reborn according to their deeds. 'These dear beings
-did bad things by way of body, speech, and mind. They denounced the
-noble ones; they had wrong view; and they chose to act out of that wrong
-view. When their body breaks up, after death, they're reborn in a place
-of loss, a bad place, the underworld, hell. These dear beings, however,
-did good things by way of body, speech, and mind. They never denounced
-the noble ones; they had right view; and they chose to act out of that
-right view. When their body breaks up, after death, they're reborn in a
-good place, a heavenly realm.' And so, with clairvoyance that is
-purified and superhuman, they see sentient beings passing away and being
-reborn---inferior and superior, beautiful and ugly, in a good place or a
-bad place. They understand how sentient beings are reborn according to
-their deeds.
+Khi bốn *nền tảng thần lực* đã được phát triển và tu tập theo cách này, với *thiên nhãn* (clairvoyance / dibbacakkhu / con mắt của chư thiên, khả năng nhìn thấy những điều vượt ngoài tầm mắt thường) đã được thanh lọc và siêu phàm, họ thấy chúng sinh qua đời và tái sinh—thấp kém và cao quý, xinh đẹp và xấu xí, ở nơi tốt hay nơi xấu. Họ hiểu chúng sinh tái sinh như thế nào theo nghiệp của họ. 'Những chúng sinh thân mến này đã làm những điều xấu qua thân, khẩu, và ý. Họ phỉ báng các bậc thánh; họ có tà kiến; và họ đã chọn hành động theo tà kiến đó. Khi thân xác họ tan rã, sau khi chết, họ được tái sinh ở một nơi mất mát, một nơi xấu, cõi âm, địa ngục. Tuy nhiên, những chúng sinh thân mến này đã làm những điều tốt qua thân, khẩu, và ý. Họ không bao giờ phỉ báng các bậc thánh; họ có *chánh kiến*; và họ đã chọn hành động theo *chánh kiến* đó. Khi thân xác họ tan rã, sau khi chết, họ được tái sinh ở một nơi tốt, một cõi trời.' Và như vậy, với *thiên nhãn* đã được thanh lọc và siêu phàm, họ thấy chúng sinh qua đời và tái sinh—thấp kém và cao quý, xinh đẹp và xấu xí, ở nơi tốt hay nơi xấu. Họ hiểu chúng sinh tái sinh như thế nào theo nghiệp của họ.
 
-When the four bases of psychic power have been developed and cultivated
-in this way, they realize the undefiled freedom of heart and freedom by
-wisdom in this very life. And they live having realized it with their
-own insight due to the ending of defilements."
+Khi bốn *nền tảng thần lực* đã được phát triển và tu tập theo cách này, họ chứng ngộ *tâm giải thoát* và *tuệ giải thoát* không còn ô nhiễm ngay trong đời này. Và họ sống sau khi đã chứng ngộ điều đó bằng tuệ giác của chính mình nhờ sự chấm dứt các *lậu hoặc*."
 
 <!--pg-->
-### N 51.12 Very Fruitful *Mahapphalasutta*
+### N 51.12 Rất Nhiều Quả Báo *Mahapphalasutta*
 
-"Mendicants, when the four bases of psychic power are developed and
-cultivated they're very fruitful and beneficial. How so? It's when a
-mendicant develops the basis of psychic power that has immersion due to
-enthusiasm, and active effort. They think: 'My enthusiasm won't be too
-lax or too tense. And it'll be neither constricted internally nor
-scattered externally.' And they meditate perceiving before and behind:
-as before, so behind; as behind, so before; as below, so above; as
-above, so below; as by day, so by night; as by night, so by day. And so,
-with an open and unenveloped heart, they develop a mind that's full of
-radiance.
+"Này các *Tỷ kheo*, khi bốn *nền tảng thần lực* được phát triển và tu tập, chúng mang lại quả báo và lợi ích rất lớn. Như thế nào? Đó là khi một *Tỷ kheo* phát triển *nền tảng thần lực* có *Định* do *nhiệt tâm*, và *công phu nỗ lực*. Vị ấy nghĩ: '*Nhiệt tâm* của ta sẽ không quá lỏng lẻo hay quá căng thẳng. Và nó sẽ không co cụm bên trong cũng không phân tán bên ngoài.' Và vị ấy thiền định nhận thức trước và sau: như trước, vậy sau; như sau, vậy trước; như dưới, vậy trên; như trên, vậy dưới; như ngày, vậy đêm; như đêm, vậy ngày. Và như vậy, với một trái tim rộng mở và không bị che lấp, vị ấy phát triển một tâm trí tràn đầy ánh sáng.
 
-They develop the basis of psychic power that has immersion due to energy
-... mental development ... inquiry, and active effort. They think: 'My
-inquiry won't be too lax or too tense. And it'll be neither constricted
-internally nor scattered externally.' And they meditate perceiving
-before and behind: as before, so behind; as behind, so before; as below,
-so above; as above, so below; as by day, so by night; as by night, so by
-day. And so, with an open and unenveloped heart, they develop a mind
-that's full of radiance. When the four bases of psychic power have been
-developed and cultivated in this way they're very fruitful and
-beneficial.
+Vị ấy phát triển *nền tảng thần lực* có *Định* do *nghị lực*... *phát triển tâm*... *quán chiếu*, và *công phu nỗ lực*. Vị ấy nghĩ: '*Quán chiếu* của ta sẽ không quá lỏng lẻo hay quá căng thẳng. Và nó sẽ không co cụm bên trong cũng không phân tán bên ngoài.' Và vị ấy thiền định nhận thức trước và sau: như trước, vậy sau; như sau, vậy trước; như dưới, vậy trên; như trên, vậy dưới; như ngày, vậy đêm; như đêm, vậy ngày. Và như vậy, với một trái tim rộng mở và không bị che lấp, vị ấy phát triển một tâm trí tràn đầy ánh sáng. Khi bốn *nền tảng thần lực* đã được phát triển và tu tập theo cách này, chúng mang lại quả báo và lợi ích rất lớn.
 
-When the four bases of psychic power have been developed and cultivated
-in this way, a mendicant wields the many kinds of psychic power:
-multiplying themselves and becoming one again ... controlling the body
-as far as the realm of divinity. ...
+Khi bốn *nền tảng thần lực* đã được phát triển và tu tập theo cách này, một *Tỷ kheo* sử dụng nhiều loại *thần thông*: nhân bản thân mình lên và trở lại thành một... điều khiển cơ thể đến tận cõi trời. ...
 
-When the four bases of psychic power have been developed and cultivated
-in this way, they realize the undefiled freedom of heart and freedom by
-wisdom in this very life. And they live having realized it with their
-own insight due to the ending of defilements."
+Khi bốn *nền tảng thần lực* đã được phát triển và tu tập theo cách này, họ chứng ngộ *tâm giải thoát* và *tuệ giải thoát* không còn ô nhiễm ngay trong đời này. Và họ sống sau khi đã chứng ngộ điều đó bằng tuệ giác của chính mình nhờ sự chấm dứt các *lậu hoặc*."
 
 <!--pg-->
-### N 51.13 Immersion Due to Enthusiasm *Chandasamādhisutta*
+### N 51.13 Định Do Nhiệt Tâm *Chandasamādhisutta*
+Padhāna saṅ khāra
+Padhāna saṅ khārā
 
-"Mendicants, if a mendicant depends on enthusiasm in order to gain
-immersion, gain unification of mind, this is called immersion due to
-enthusiasm. They generate enthusiasm, try, make an effort, exert the
-mind, and strive so that bad, unskillful qualities don't arise. They
-generate enthusiasm, try, make an effort, exert the mind, and strive so
-that bad, unskillful qualities that have arisen are given up. They
-generate enthusiasm, try, make an effort, exert the mind, and strive so
-that skillful qualities arise. They generate enthusiasm, try, make an
-effort, exert the mind, and strive so that skillful qualities that have
-arisen remain, are not lost, but increase, mature, and are fulfilled by
-development. These are called active efforts. And so there is this
-enthusiasm, this immersion due to enthusiasm, and these active efforts.
-This is called the basis of psychic power that has immersion due to
-enthusiasm, and active effort.
+Uppannānaṁ pāpakānaṁ
+uppannānaṁ pāpakānaṁ
 
-If a mendicant depends on energy in order to gain immersion, gain
-unification of mind, this is called immersion due to energy. They
-generate enthusiasm, try, make an effort, exert the mind, and strive so
-that bad, unskillful qualities don't arise ... so that skillful
-qualities that have arisen remain, are not lost, but increase, mature,
-and are fulfilled by development. These are called active efforts. And
-so there is this energy, this immersion due to energy, and these active
-efforts. This is called the basis of psychic power that has immersion
-due to energy, and active effort.
+[1. Dục Như Ý Túc]
 
-If a mendicant depends on mental development in order to gain immersion,
-gain unification of mind, this is called immersion due to mental
-development. They generate enthusiasm, try, make an effort, exert the
-mind, and strive so that bad, unskillful qualities don't arise ... so
-that skillful qualities that have arisen remain, are not lost, but
-increase, mature, and are fulfilled by development. These are called
-active efforts. And so there is this mental development, this immersion
-due to mental development, and these active efforts. This is called the
-basis of psychic power that has immersion due to mental development, and
-active effort.
+"Này các Tỳ-kheo, vị Tỳ-kheo nương vào Dục (chanda), đạt được định, đạt được sự nhất tâm; đây được gọi là Dục định (chandasamādhi).
+Vị ấy sanh khởi ý muốn, cố gắng, khởi sự tinh tấn, sách tấn tâm, quyết tâm:
 
-If a mendicant depends on inquiry in order to gain immersion, gain
-unification of mind, this is called immersion due to inquiry. They
-generate enthusiasm, try, make an effort, exert the mind, and strive so
-that bad, unskillful qualities don't arise ... so that skillful
-qualities that have arisen remain, are not lost, but increase, mature,
-and are fulfilled by development. These are called active efforts. And
-so there is this inquiry, this immersion due to inquiry, and these
-active efforts. This is called the basis of psychic power that has
-immersion due to inquiry, and active effort."
+để cho các pháp ác, bất thiện chưa sanh không sanh khởi.
+
+để đoạn trừ các pháp ác, bất thiện đã sanh.
+
+để làm sanh khởi các pháp thiện chưa sanh.
+
+để duy trì các pháp thiện đã sanh, không cho lu mờ, khiến cho tăng trưởng, quảng đại, tu tập cho đến viên mãn.
+
+Những điều này được gọi là ‘các hành tinh cần’ (padhānasaṅkhārā).
+Như vậy, này các Tỳ-kheo: Dục này, Dục định này, và các hành tinh cần này — đây được gọi là Thần túc thành tựu do Dục định và các hành tinh cần.
+
+"Này các *Tỷ kheo*, nếu một *Tỷ kheo* dựa vào *nhiệt tâm* để đạt được *Định*, đạt được sự hợp nhất của tâm, thì đây được gọi là *Định* do *nhiệt tâm*. Vị ấy khởi lên *nhiệt tâm*, cố gắng, nỗ lực, vận dụng tâm trí, và phấn đấu để các pháp xấu, bất thiện không khởi sinh. Vị ấy khởi lên *nhiệt tâm*, cố gắng, nỗ lực, vận dụng tâm trí, và phấn đấu để các pháp xấu, bất thiện đã khởi sinh được từ bỏ. Vị ấy khởi lên *nhiệt tâm*, cố gắng, nỗ lực, vận dụng tâm trí, và phấn đấu để các pháp thiện khởi sinh. Vị ấy khởi lên *nhiệt tâm*, cố gắng, nỗ lực, vận dụng tâm trí, và phấn đấu để các pháp thiện đã khởi sinh được duy trì, không bị mất đi, mà tăng trưởng, chín muồi, và được viên mãn nhờ sự phát triển. Đây được gọi là các *công phu nỗ lực*. Và như vậy có *nhiệt tâm* này, *Định* do *nhiệt tâm* này, và các *công phu nỗ lực* này. Đây được gọi là *nền tảng thần lực* có *Định* do *nhiệt tâm*, và *công phu nỗ lực*.
+
+Nếu một *Tỷ kheo* dựa vào *nghị lực* để đạt được *Định*, đạt được sự hợp nhất của tâm, thì đây được gọi là *Định* do *nghị lực*. Vị ấy khởi lên *nhiệt tâm*, cố gắng, nỗ lực, vận dụng tâm trí, và phấn đấu để các pháp xấu, bất thiện không khởi sinh... để các pháp thiện đã khởi sinh được duy trì, không bị mất đi, mà tăng trưởng, chín muồi, và được viên mãn nhờ sự phát triển. Đây được gọi là các *công phu nỗ lực*. Và như vậy có *nghị lực* này, *Định* do *nghị lực* này, và các *công phu nỗ lực* này. Đây được gọi là *nền tảng thần lực* có *Định* do *nghị lực*, và *công phu nỗ lực*.
+
+Nếu một *Tỷ kheo* dựa vào *phát triển tâm* để đạt được *Định*, đạt được sự hợp nhất của tâm, thì đây được gọi là *Định* do *phát triển tâm*. Vị ấy khởi lên *nhiệt tâm*, cố gắng, nỗ lực, vận dụng tâm trí, và phấn đấu để các pháp xấu, bất thiện không khởi sinh... để các pháp thiện đã khởi sinh được duy trì, không bị mất đi, mà tăng trưởng, chín muồi, và được viên mãn nhờ sự phát triển. Đây được gọi là các *công phu nỗ lực*. Và như vậy có *phát triển tâm* này, *Định* do *phát triển tâm* này, và các *công phu nỗ lực* này. Đây được gọi là *nền tảng thần lực* có *Định* do *phát triển tâm*, và *công phu nỗ lực*.
+
+Nếu một *Tỷ kheo* dựa vào *quán chiếu* để đạt được *Định*, đạt được sự hợp nhất của tâm, thì đây được gọi là *Định* do *quán chiếu*. Vị ấy khởi lên *nhiệt tâm*, cố gắng, nỗ lực, vận dụng tâm trí, và phấn đấu để các pháp xấu, bất thiện không khởi sinh... để các pháp thiện đã khởi sinh được duy trì, không bị mất đi, mà tăng trưởng, chín muồi, và được viên mãn nhờ sự phát triển. Đây được gọi là các *công phu nỗ lực*. Và như vậy có *quán chiếu* này, *Định* do *quán chiếu* này, và các *công phu nỗ lực* này. Đây được gọi là *nền tảng thần lực* có *Định* do *quán chiếu*, và *công phu nỗ lực*."
 
 <!--pg-->
-### N 51.14 With Moggallāna *Moggallānasutta*
+### N 51.14 Với Moggallāna *Moggallānasutta*
 
-So I have heard. At one time the Buddha was staying near
-Sāvatthī in the stilt longhouse of Migāra's
-mother in the Eastern Monastery. Now at that time several mendicants
-were staying beneath the longhouse. They were restless, insolent,
-fickle, scurrilous, loose-tongued, unmindful, lacking situational
-awareness and immersion, with straying minds and undisciplined
-faculties.
+Như vầy tôi nghe. Một thời Đức Phật trú gần Sāvatthī trong nhà sàn của mẹ Migāra tại Tu viện phía Đông. Bấy giờ có nhiều *Tỷ kheo* đang ở dưới nhà sàn. Họ bồn chồn, xấc xược, hay thay đổi, nói lời thô tục, ba hoa, không có *niệm*, thiếu *nhận biết rõ ràng* và *Định*, với tâm trí lang thang và các *giác quan* không được kiểm soát.
 
-Then the Buddha addressed Venerable Mahāmoggallāna, "These
-spiritual companions of yours staying beneath the longhouse are
-restless, insolent, fickle, scurrilous, loose-tongued, unmindful,
-lacking situational awareness and immersion, with wandering mind and
-undisciplined faculties. Go, Moggallāna, and strike awe in
-those mendicants!"
+Bấy giờ Đức Phật nói với Tôn giả Mahāmoggallāna: "Những người bạn đồng tu của con đang ở dưới nhà sàn kia bồn chồn, xấc xược, hay thay đổi, nói lời thô tục, ba hoa, không có *niệm*, thiếu *nhận biết rõ ràng* và *Định*, với tâm trí lang thang và các *giác quan* không được kiểm soát. Hãy đi, Moggallāna, và làm cho các *Tỷ kheo* đó kinh sợ!"
 
-"Yes, sir," replied Mahāmoggallāna. Then he used his
-psychic power to make the longhouse shake and rock and tremble with his
-big toe. Then those mendicants stood to one side, shocked and awestruck.
+"Vâng, thưa Tôn Sư," Mahāmoggallāna đáp. Rồi ông dùng *thần thông* của mình làm cho nhà sàn rung chuyển, lắc lư và chấn động bằng ngón chân cái của mình. Bấy giờ các *Tỷ kheo* đó đứng sang một bên, kinh ngạc và khiếp sợ.
 
-"Oh lord, how incredible, how amazing! There's no wind at all; and this
-stilt longhouse of Migāra's mother has deep foundations.
-It's firmly embedded, imperturbable and unshakable. And yet it shakes
-and rocks and trembles!"
+"Ôi lạy Chúa, thật không thể tin được, thật tuyệt vời! Không có một chút gió nào; và nhà sàn của mẹ Migāra này có nền móng sâu. Nó được cắm chắc chắn, không thể lay chuyển và không thể rung động. Ấy thế mà nó lại rung chuyển, lắc lư và chấn động!"
 
-Then the Buddha went up to those mendicants and said:
+Bấy giờ Đức Phật đến gần các *Tỷ kheo* đó và nói:
 
-"Why do you, mendicants, stand to one side, shocked and awestruck?"
+"Tại sao các con, các *Tỷ kheo*, lại đứng sang một bên, kinh ngạc và khiếp sợ?"
 
-"It's incredible, sir, it's amazing! There's no wind at all; and this
-stilt longhouse of Migāra's mother has deep foundations.
-It's firmly embedded, imperturbable and unshakable. And yet it shakes
-and rocks and trembles!"
+"Thật không thể tin được, thưa Tôn Sư, thật tuyệt vời! Không có một chút gió nào; và nhà sàn của mẹ Migāra này có nền móng sâu. Nó được cắm chắc chắn, không thể lay chuyển và không thể rung động. Ấy thế mà nó lại rung chuyển, lắc lư và chấn động!"
 
-"Wanting to strike awe in you, the mendicant Moggallāna
-made the longhouse shake and rock and tremble with his big toe.
+"Muốn làm cho các con kinh sợ, *Tỷ kheo* Moggallāna đã làm cho nhà sàn rung chuyển, lắc lư và chấn động bằng ngón chân cái của mình.
 
-What do you think, mendicants? What things has the mendicant
-Moggallāna developed and cultivated so as to have such
-power and might?"
+Các con nghĩ sao, các *Tỷ kheo*? *Tỷ kheo* Moggallāna đã phát triển và tu tập những gì để có được sức mạnh và uy lực như vậy?"
 
-"Our teachings are rooted in the Buddha. He is our guide and our refuge.
-Sir, may the Buddha himself please clarify the meaning of this. The
-mendicants will listen and remember it."
+"Giáo pháp của chúng con bắt nguồn từ Đức Phật. Ngài là người dẫn đường và là nơi nương tựa của chúng con. Thưa Tôn Sư, xin Đức Phật hãy tự mình làm rõ ý nghĩa của điều này. Các *Tỷ kheo* sẽ lắng nghe và ghi nhớ."
 
-"Well then, mendicants, listen. The mendicant Moggallāna
-has become so powerful and mighty by developing and cultivating the four
-bases of psychic power. What four? Moggallāna develops the
-basis of psychic power that has immersion due to enthusiasm ... energy
-... mental development ... inquiry, and active effort. He thinks: 'My
-inquiry won't be too lax or too tense. And it'll be neither constricted
-internally nor scattered externally.' And he meditates perceiving before
-and behind: as before, so behind; as behind, so before; as below, so
-above; as above, so below; as by day, so by night; as by night, so by
-day. And so, with an open and unenveloped heart, he develops a mind
-that's full of radiance. The mendicant Moggallāna has
-become so powerful and mighty by developing and cultivating these four
-bases of psychic power.
+"Vậy thì, các *Tỷ kheo*, hãy lắng nghe. *Tỷ kheo* Moggallāna đã trở nên mạnh mẽ và uy lực như vậy nhờ phát triển và tu tập bốn *nền tảng thần lực*. Bốn điều đó là gì? Moggallāna phát triển *nền tảng thần lực* có *Định* do *nhiệt tâm*... *nghị lực*... *phát triển tâm*... *quán chiếu*, và *công phu nỗ lực*. Ông nghĩ: '*Quán chiếu* của ta sẽ không quá lỏng lẻo hay quá căng thẳng. Và nó sẽ không co cụm bên trong cũng không phân tán bên ngoài.' Và ông thiền định nhận thức trước và sau: như trước, vậy sau; như sau, vậy trước; như dưới, vậy trên; như trên, vậy dưới; như ngày, vậy đêm; như đêm, vậy ngày. Và như vậy, với một trái tim rộng mở và không bị che lấp, ông phát triển một tâm trí tràn đầy ánh sáng. *Tỷ kheo* Moggallāna đã trở nên mạnh mẽ và uy lực như vậy nhờ phát triển và tu tập bốn *nền tảng thần lực* này.
 
-And by developing and cultivating these four bases of psychic power, the
-mendicant Moggallāna wields the many kinds of psychic power
-... controlling the body as far as the realm of divinity. ...
+Và bằng cách phát triển và tu tập bốn *nền tảng thần lực* này, *Tỷ kheo* Moggallāna sử dụng nhiều loại *thần thông*... điều khiển cơ thể đến tận cõi trời. ...
 
-And by developing and cultivating these four bases of psychic power, the
-mendicant Moggallāna realizes the undefiled freedom of
-heart and freedom by wisdom in this very life. And he lives having
-realized it with his own insight due to the ending of defilements."
+Và bằng cách phát triển và tu tập bốn *nền tảng thần lực* này, *Tỷ kheo* Moggallāna chứng ngộ *tâm giải thoát* và *tuệ giải thoát* không còn ô nhiễm ngay trong đời này. Và ông sống sau khi đã chứng ngộ điều đó bằng tuệ giác của chính mình nhờ sự chấm dứt các *lậu hoặc*."
 
 <!--pg-->
-### N 51.15 The Brahmin Uṇṇābha *Uṇṇābhabrāhmaṇasutta*
+### N 51.15 Bà-la-môn Uṇṇābha *Uṇṇābhabrāhmaṇasutta*
 
-So I have heard. At one time Venerable Ānanda was staying
-near Kosambī, in Ghosita's Monastery. Then
-Uṇṇābha the brahmin went up to Venerable Ānanda, and
-exchanged greetings with him. When the greetings and polite conversation
-were over, he sat down to one side and said to him, "Worthy Ānanda,
-what's the purpose of leading the spiritual life under the ascetic
-Gotama?"
+Như vầy tôi nghe. Một thời Tôn giả A-nan trú gần Kosambī, tại Tu viện của Ghosita. Bấy giờ bà-la-môn Uṇṇābha đến gặp Tôn giả A-nan và chào hỏi ông. Sau khi chào hỏi và trò chuyện lịch sự, ông ngồi xuống một bên và nói với Tôn giả: "Thưa Tôn giả A-nan, mục đích của việc sống đời phạm hạnh dưới sự hướng dẫn của sa-môn Gotama là gì?"
 
-"The purpose of leading the spiritual life under the Buddha, brahmin, is
-to give up desire."
+"Thưa bà-la-môn, mục đích của việc sống đời phạm hạnh dưới sự hướng dẫn của Đức Phật là để từ bỏ *ước muốn* (desire / chanda / lòng ham muốn, dục vọng)."
 
-"But is there a path and a practice for giving up that desire?"
+"Nhưng có con đường và phương pháp thực hành nào để từ bỏ *ước muốn* đó không?"
 
-"There is."
+"Có."
 
-"What is that path?"
+"Con đường đó là gì?"
 
-"It's when a mendicant develops the basis of psychic power that has
-immersion due to enthusiasm ... energy ... mental development ...
-inquiry, and active effort. This is the path and the practice for giving
-up that desire."
+"Đó là khi một *Tỷ kheo* phát triển *nền tảng thần lực* có *Định* do *nhiệt tâm*... *nghị lực*... *phát triển tâm*... *quán chiếu*, và *công phu nỗ lực*. Đây là con đường và phương pháp thực hành để từ bỏ *ước muốn* đó."
 
-"This being the case, worthy Ānanda, the path is endless, not finite.
-For it's not possible to give up desire by means of desire."
+"Nếu vậy, thưa Tôn giả A-nan, con đường này là vô tận, không có hồi kết. Vì không thể từ bỏ *ước muốn* bằng chính *ước muốn*."
 
-"Well then, brahmin, I'll ask you about this in return, and you can
-answer as you like. What do you think, brahmin? Have you ever had a
-desire to walk to the park, but when you arrived at the park, the
-corresponding desire faded away?"
+"Vậy thì, thưa bà-la-môn, tôi sẽ hỏi lại ông về điều này, và ông có thể trả lời tùy ý. Ông nghĩ sao, thưa bà-la-môn? Ông đã bao giờ có *ước muốn* đi đến công viên, nhưng khi đến công viên, *ước muốn* tương ứng đó đã phai nhạt chưa?"
 
-"Yes, sir."
+"Vâng, thưa Tôn giả."
 
-"Have you ever had the energy to walk to the park, but when you arrived
-at the park, the corresponding energy faded away?"
+"Ông đã bao giờ có *nghị lực* để đi đến công viên, nhưng khi đến công viên, *nghị lực* tương ứng đó đã phai nhạt chưa?"
 
-"Yes, sir."
+"Vâng, thưa Tôn giả."
 
-"Have you ever had the idea to walk to the park, but when you arrived at
-the park, the corresponding idea faded away?"
+"Ông đã bao giờ có ý định đi đến công viên, nhưng khi đến công viên, ý định tương ứng đó đã phai nhạt chưa?"
 
-"Yes, sir."
+"Vâng, thưa Tôn giả."
 
-"Have you ever inquired regarding a walk to the park, but when you
-arrived at the park, the corresponding inquiry faded away?"
+"Ông đã bao giờ *quán chiếu* về việc đi đến công viên, nhưng khi đến công viên, sự *quán chiếu* tương ứng đó đã phai nhạt chưa?"
 
-"Yes, sir."
+"Vâng, thưa Tôn giả."
 
-"In the same way, take a mendicant who is perfected---with defilements
-ended, who has completed the spiritual journey, done what had to be
-done, laid down the burden, achieved their own true goal, utterly ended
-the fetter of continued existence, and is rightly freed through
-enlightenment. They formerly had the desire to attain perfection, but
-when they attained perfection the corresponding desire faded away. They
-formerly had the energy to attain perfection, but when they attained
-perfection the corresponding energy faded away. They formerly had the
-idea to attain perfection, but when they attained perfection the
-corresponding idea faded away. They formerly inquired regarding
-attaining perfection, but when they attained perfection the
-corresponding inquiry faded away. What do you think, brahmin? This being
-the case, is the path endless or finite?"
+"Cũng vậy, hãy xem một *Tỷ kheo* là bậc *A-la-hán*—với các *lậu hoặc* đã chấm dứt, người đã hoàn thành hành trình tâm linh, đã làm những gì cần làm, đã đặt gánh nặng xuống, đã đạt được mục tiêu chân chính của mình, đã hoàn toàn chấm dứt *xiềng xích* (The fetters / Saṃyojanā / *kiết sử* / cái cùm, xiềng xích, là các ô nhiễm gốc rễ sâu trong tâm, ràng buộc con người vào vòng luân hồi) của sự tồn tại tiếp diễn, và được giải thoát đúng đắn nhờ *giác ngộ*. Vị ấy trước đây đã có *ước muốn* đạt đến sự hoàn thiện, nhưng khi đạt được sự hoàn thiện, *ước muốn* tương ứng đó đã phai nhạt. Vị ấy trước đây đã có *nghị lực* để đạt đến sự hoàn thiện, nhưng khi đạt được sự hoàn thiện, *nghị lực* tương ứng đó đã phai nhạt. Vị ấy trước đây đã có ý định đạt đến sự hoàn thiện, nhưng khi đạt được sự hoàn thiện, ý định tương ứng đó đã phai nhạt. Vị ấy trước đây đã *quán chiếu* về việc đạt đến sự hoàn thiện, nhưng khi đạt được sự hoàn thiện, sự *quán chiếu* tương ứng đó đã phai nhạt. Ông nghĩ sao, thưa bà-la-môn? Nếu vậy, con đường này là vô tận hay có hồi kết?"
 
-"Clearly, worthy Ānanda, this being the case, the path is finite, not
-endless. Excellent, worthy Ānanda! Excellent! As if he were righting the
-overturned, or revealing the hidden, or pointing out the path to the
-lost, or lighting a lamp in the dark so people with clear eyes can see
-what's there, the worthy Ānanda has made the teaching clear in many
-ways. I go for refuge to the worthy Gotama, to the teaching, and to the
-mendicant Saṅgha. From this day forth, may the worthy
-Ānanda remember me as a lay follower who has gone for refuge for life."
+"Rõ ràng, thưa Tôn giả A-nan, nếu vậy, con đường này là có hồi kết, không phải vô tận. Tuyệt vời, thưa Tôn giả A-nan! Tuyệt vời! Như thể ngài đang dựng lại vật bị lật ngửa, hay phơi bày điều bị che giấu, hay chỉ đường cho người lạc lối, hay thắp đèn trong bóng tối để người có mắt sáng có thể thấy những gì ở đó, Tôn giả A-nan đã làm sáng tỏ giáo pháp bằng nhiều cách. Tôi xin quy y Tôn giả Gotama, quy y giáo pháp, và quy y Tăng đoàn *Tỷ kheo*. Từ hôm nay, xin Tôn giả A-nan hãy ghi nhớ tôi là một người cư sĩ đã quy y trọn đời."
 
 <!--pg-->
-### N 51.16 Ascetics and Brahmins (1st) *Paṭhamasamaṇabrāhmaṇasutta*
+### N 51.16 Sa-môn và Bà-la-môn (thứ nhất) *Paṭhamasamaṇabrāhmaṇasutta*
 
-"Mendicants, all the ascetics and brahmins in the past, future, or
-present who are mighty and powerful have become so by developing and
-cultivating the four bases of psychic power.
+"Này các *Tỷ kheo*, tất cả các vị sa-môn và bà-la-môn trong quá khứ, tương lai, hay hiện tại, những người có uy lực và sức mạnh, đều đã trở nên như vậy bằng cách phát triển và tu tập bốn *nền tảng thần lực*.
 
-What four? It's when a mendicant develops the basis of psychic power
-that has immersion due to enthusiasm ... energy ... mental development
-... inquiry, and active effort. All the ascetics and brahmins in the
-past, future, or present who are mighty and powerful have become so by
-developing and cultivating the four bases of psychic power."
+Bốn điều đó là gì? Đó là khi một *Tỷ kheo* phát triển *nền tảng thần lực* có *Định* do *nhiệt tâm*... *nghị lực*... *phát triển tâm*... *quán chiếu*, và *công phu nỗ lực*. Tất cả các vị sa-môn và bà-la-môn trong quá khứ, tương lai, hay hiện tại, những người có uy lực và sức mạnh, đều đã trở nên như vậy bằng cách phát triển và tu tập bốn *nền tảng thần lực* này."
 
 <!--pg-->
-### N 51.17 Ascetics and Brahmins (2nd) *Dutiyasamaṇabrāhmaṇasutta*
+### N 51.17 Sa-môn và Bà-la-môn (thứ hai) *Dutiyasamaṇabrāhmaṇasutta*
 
-"Mendicants, all the ascetics and brahmins in the past, future, or
-present who wield the various kinds of psychic power---multiplying
-themselves and becoming one again; appearing and disappearing; going
-unobstructed through a wall, a rampart, or a mountain as if through
-space; diving in and out of the earth as if it were water; walking on
-water as if it were earth; flying cross-legged through the sky like a
-bird; touching and stroking with the hand the sun and moon, so mighty
-and powerful; controlling their body as far as the realm of
-divinity---do so by developing and cultivating the four bases of psychic
-power.
+"Này các *Tỷ kheo*, tất cả các vị sa-môn và bà-la-môn trong quá khứ, tương lai, hay hiện tại, những người sử dụng nhiều loại *thần thông*—nhân bản thân mình lên và trở lại thành một; hiện ra và biến mất; đi xuyên qua tường, thành lũy, hoặc núi không bị cản trở như đi trong không gian; lặn vào và trồi lên khỏi mặt đất như thể đó là nước; đi trên mặt nước như thể đó là đất; bay ngồi xếp bằng trên bầu trời như một con chim; chạm và vuốt ve mặt trời và mặt trăng bằng tay, thật hùng mạnh và quyền năng; điều khiển cơ thể của họ đến tận cõi trời—đều làm như vậy bằng cách phát triển và tu tập bốn *nền tảng thần lực*.
 
-What four? It's when a mendicant develops the basis of psychic power
-that has immersion due to enthusiasm ... energy ... mental development
-... inquiry, and active effort. Mendicants, all the ascetics and
-brahmins in the past, future, or present who wield the many kinds of
-psychic power---multiplying themselves and becoming one again ...
-controlling their body as far as the realm of divinity---do so by
-developing and cultivating these four bases of psychic power."
+Bốn điều đó là gì? Đó là khi một *Tỷ kheo* phát triển *nền tảng thần lực* có *Định* do *nhiệt tâm*... *nghị lực*... *phát triển tâm*... *quán chiếu*, và *công phu nỗ lực*. Này các *Tỷ kheo*, tất cả các vị sa-môn và bà-la-môn trong quá khứ, tương lai, hay hiện tại, những người sử dụng nhiều loại *thần thông*—nhân bản thân mình lên và trở lại thành một... điều khiển cơ thể của họ đến tận cõi trời—đều làm như vậy bằng cách phát triển và tu tập bốn *nền tảng thần lực* này."
 
 <!--pg-->
-### N 51.18 A Mendicant *Bhikkhusutta*
+### N 51.18 Một Tỷ Kheo *Bhikkhusutta*
 
-"Mendicants, by developing and cultivating the four bases of psychic
-power, a mendicant realizes the undefiled freedom of heart and freedom
-by wisdom in this very life. And they live having realized it with their
-own insight due to the ending of defilements.
+"Này các *Tỷ kheo*, bằng cách phát triển và tu tập bốn *nền tảng thần lực*, một *Tỷ kheo* chứng ngộ *tâm giải thoát* và *tuệ giải thoát* không còn ô nhiễm ngay trong đời này. Và họ sống sau khi đã chứng ngộ điều đó bằng tuệ giác của chính mình nhờ sự chấm dứt các *lậu hoặc*.
 
-What four? It's when a mendicant develops the basis of psychic power
-that has immersion due to enthusiasm ... energy ... mental development
-... inquiry, and active effort. By developing and cultivating these four
-bases of psychic power, a mendicant realizes the undefiled freedom of
-heart and freedom by wisdom in this very life. And they live having
-realized it with their own insight due to the ending of defilements."
+Bốn điều đó là gì? Đó là khi một *Tỷ kheo* phát triển *nền tảng thần lực* có *Định* do *nhiệt tâm*... *nghị lực*... *phát triển tâm*... *quán chiếu*, và *công phu nỗ lực*. Bằng cách phát triển và tu tập bốn *nền tảng thần lực* này, một *Tỷ kheo* chứng ngộ *tâm giải thoát* và *tuệ giải thoát* không còn ô nhiễm ngay trong đời này. Và họ sống sau khi đã chứng ngộ điều đó bằng tuệ giác của chính mình nhờ sự chấm dứt các *lậu hoặc*."
 
 <!--pg-->
-### N 51.19 A Teaching on Psychic Power, Etc. *Iddhādidesanāsutta*
+### N 51.19 Một Bài Giảng về Thần Thông, v.v. *Iddhādidesanāsutta*
 
-"Mendicants, I will teach you psychic power, the bases of psychic power,
-the development of the bases of psychic power, and the practice that
-leads to the development of the bases of psychic power. Listen ...
+"Này các *Tỷ kheo*, Ta sẽ dạy các con về *thần thông*, các *nền tảng thần lực*, sự phát triển các *nền tảng thần lực*, và phương pháp thực hành dẫn đến sự phát triển các *nền tảng thần lực*. Hãy lắng nghe...
 
-And what is psychic power? It's when a mendicant wields the many kinds
-of psychic power: multiplying themselves and becoming one again ...
-controlling the body as far as the realm of divinity. This is called
-psychic power.
+Và *thần thông* là gì? Đó là khi một *Tỷ kheo* sử dụng nhiều loại *thần thông*: nhân bản thân mình lên và trở lại thành một... điều khiển cơ thể đến tận cõi trời. Đây được gọi là *thần thông*.
 
-And what is the basis of psychic power? The path and practice that leads
-to gaining psychic power. This is called the basis of psychic power.
+Và *nền tảng thần lực* là gì? Con đường và phương pháp thực hành dẫn đến việc đạt được *thần thông*. Đây được gọi là *nền tảng thần lực*.
 
-And what is the development of the bases of psychic power? It's when a
-mendicant develops the basis of psychic power that has immersion due to
-enthusiasm ... energy ... mental development ... inquiry, and active
-effort. This is called the development of the bases of psychic power.
+Và sự phát triển các *nền tảng thần lực* là gì? Đó là khi một *Tỷ kheo* phát triển *nền tảng thần lực* có *Định* do *nhiệt tâm*... *nghị lực*... *phát triển tâm*... *quán chiếu*, và *công phu nỗ lực*. Đây được gọi là sự phát triển các *nền tảng thần lực*.
 
-And what is the practice that leads to the development of the bases of
-psychic power? It is simply this noble eightfold path, that is: right
-view, right thought, right speech, right action, right livelihood, right
-effort, right mindfulness, and right immersion. This is called the
-practice that leads to the development of the bases of psychic power."
+Và phương pháp thực hành dẫn đến sự phát triển các *nền tảng thần lực* là gì? Đó chính là con đường thánh tám ngành này, tức là: *chánh kiến, chánh tư duy, chánh ngôn, chánh nghiệp, chánh tinh tấn, chánh niệm, chánh định (tầm nhìn đúng, suy nghĩ đúng, lời nói đúng, hành động đúng, sống đúng, nỗ lực đúng, niệm đúng, định đúng)*. Đây được gọi là phương pháp thực hành dẫn đến sự phát triển các *nền tảng thần lực*."
 
 <!--pg-->
-### N 51.20 Analysis *Vibhaṅgasutta*
+### N 51.20 Phân Tích *Vibhaṅgasutta*
 
-"Mendicants, when the four bases of psychic power are developed and
-cultivated they're very fruitful and beneficial.
+"Này các *Tỷ kheo*, khi bốn *nền tảng thần lực* được phát triển và tu tập, chúng mang lại quả báo và lợi ích rất lớn.
 
-How so? It's when a mendicant develops the basis of psychic power that
-has immersion due to enthusiasm, and active effort. They think: 'My
-enthusiasm won't be too lax or too tense. And it'll be neither
-constricted internally nor scattered externally.' And they meditate
-perceiving before and behind: as before, so behind; as behind, so
-before; as below, so above; as above, so below; as by day, so by night;
-as by night, so by day. And so, with an open and unenveloped heart, they
-develop a mind that's full of radiance.
+Như thế nào? Đó là khi một *Tỷ kheo* phát triển *nền tảng thần lực* có *Định* do *nhiệt tâm*, và *công phu nỗ lực*. Vị ấy nghĩ: '*Nhiệt tâm* của ta sẽ không quá lỏng lẻo hay quá căng thẳng. Và nó sẽ không co cụm bên trong cũng không phân tán bên ngoài.' Và vị ấy thiền định nhận thức trước và sau: như trước, vậy sau; như sau, vậy trước; như dưới, vậy trên; như trên, vậy dưới; như ngày, vậy đêm; như đêm, vậy ngày. Và như vậy, với một trái tim rộng mở và không bị che lấp, vị ấy phát triển một tâm trí tràn đầy ánh sáng.
 
-They develop the basis of psychic power that has immersion due to energy
-... mental development ... inquiry, and active effort. They think: 'My
-inquiry won't be too lax or too tense. And it'll be neither constricted
-internally nor scattered externally.' And they meditate perceiving
-before and behind: as before, so behind; as behind, so before; as below,
-so above; as above, so below; as by day, so by night; as by night, so by
-day. And so, with an open and unenveloped heart, they develop a mind
-that's full of radiance.
+Vị ấy phát triển *nền tảng thần lực* có *Định* do *nghị lực*... *phát triển tâm*... *quán chiếu*, và *công phu nỗ lực*. Vị ấy nghĩ: '*Quán chiếu* của ta sẽ không quá lỏng lẻo hay quá căng thẳng. Và nó sẽ không co cụm bên trong cũng không phân tán bên ngoài.' Và vị ấy thiền định nhận thức trước và sau: như trước, vậy sau; như sau, vậy trước; như dưới, vậy trên; như trên, vậy dưới; như ngày, vậy đêm; như đêm, vậy ngày. Và như vậy, với một trái tim rộng mở và không bị che lấp, vị ấy phát triển một tâm trí tràn đầy ánh sáng.
 
-And what is enthusiasm that's too lax? It's when enthusiasm is combined
-with laziness. This is called lax enthusiasm.
+Và *nhiệt tâm* quá lỏng lẻo là gì? Đó là khi *nhiệt tâm* kết hợp với sự lười biếng. Đây được gọi là *nhiệt tâm* lỏng lẻo.
 
-And what is enthusiasm that's too tense? It's when enthusiasm is
-combined with restlessness. This is called tense enthusiasm.
+Và *nhiệt tâm* quá căng thẳng là gì? Đó là khi *nhiệt tâm* kết hợp với *bồn chồn và hối hận*. Đây được gọi là *nhiệt tâm* căng thẳng.
 
-And what is enthusiasm that's constricted internally? It's when
-enthusiasm is combined with dullness and drowsiness. This is called
-enthusiasm constricted internally.
+Và *nhiệt tâm* co cụm bên trong là gì? Đó là khi *nhiệt tâm* kết hợp với *uể oải và buồn ngủ*. Đây được gọi là *nhiệt tâm* co cụm bên trong.
 
-And what is enthusiasm that's scattered externally? It's when enthusiasm
-is frequently scattered and diffused externally on account of the five
-kinds of sensual stimulation. This is called enthusiasm scattered
-externally.
+Và *nhiệt tâm* phân tán bên ngoài là gì? Đó là khi *nhiệt tâm* thường xuyên bị phân tán và lan man ra bên ngoài do *năm loại kích thích giác quan* (five kinds of sensual stimulation / pañca kāmaguṇā / năm đối tượng của dục lạc: sắc, thanh, hương, vị, xúc). Đây được gọi là *nhiệt tâm* phân tán bên ngoài.
 
-And how does a mendicant meditate perceiving before and behind: as
-before, so behind; as behind, so before? It's when the perception of
-before and behind is properly grasped, focused on, borne in mind, and
-comprehended with wisdom by a mendicant. That's how a mendicant
-meditates perceiving before and behind: as before, so behind; as behind,
-so before.
+Và làm thế nào một *Tỷ kheo* thiền định nhận thức trước và sau: như trước, vậy sau; như sau, vậy trước? Đó là khi *nhận thức* về trước và sau được một *Tỷ kheo* nắm bắt, tập trung, ghi nhớ và thấu hiểu đúng đắn bằng trí tuệ. Đó là cách một *Tỷ kheo* thiền định nhận thức trước và sau: như trước, vậy sau; như sau, vậy trước.
 
-And how does a mendicant meditate as below, so above; as above, so
-below? It's when a mendicant examines their own body up from the soles
-of the feet and down from the tips of the hairs, wrapped in skin and
-full of many kinds of filth. 'In this body there is head hair, body
-hair, nails, teeth, skin, flesh, sinews, bones, bone marrow, kidneys,
-heart, liver, diaphragm, spleen, lungs, intestines, mesentery,
-undigested food, feces, bile, phlegm, pus, blood, sweat, fat, tears,
-grease, saliva, snot, synovial fluid, urine.' That's how a mendicant
-meditates as below, so above; as above, so below.
+Và làm thế nào một *Tỷ kheo* thiền định như dưới, vậy trên; như trên, vậy dưới? Đó là khi một *Tỷ kheo* xem xét cơ thể của mình từ lòng bàn chân trở lên và từ ngọn tóc trở xuống, được bao bọc bởi da và đầy những thứ dơ bẩn. 'Trong thân này có tóc, lông, móng, răng, da, thịt, gân, xương, tủy xương, thận, tim, gan, cơ hoành, lá lách, phổi, ruột, màng treo ruột, thức ăn chưa tiêu, phân, mật, đờm, mủ, máu, mồ hôi, mỡ, nước mắt, dầu, nước bọt, nước mũi, hoạt dịch khớp, nước tiểu.' Đó là cách một *Tỷ kheo* thiền định như dưới, vậy trên; như trên, vậy dưới.
 
-And how does a mendicant meditate as by day, so by night; as by night,
-so by day? It's when a mendicant develops the basis of psychic power
-that has immersion due to enthusiasm, and active effort, with the same
-features, attributes, and signs by day as by night. And they develop it
-with the same features, attributes, and signs by night as by day. That's
-how a mendicant meditates as by day, so by night; as by night, so by
-day.
+Và làm thế nào một *Tỷ kheo* thiền định như ngày, vậy đêm; như đêm, vậy ngày? Đó là khi một *Tỷ kheo* phát triển *nền tảng thần lực* có *Định* do *nhiệt tâm*, và *công phu nỗ lực*, với cùng các đặc điểm, thuộc tính, và dấu hiệu vào ban ngày cũng như ban đêm. Và vị ấy phát triển nó với cùng các đặc điểm, thuộc tính, và dấu hiệu vào ban đêm cũng như ban ngày. Đó là cách một *Tỷ kheo* thiền định như ngày, vậy đêm; như đêm, vậy ngày.
 
-And how, with an open and unenveloped heart, does a mendicant develop a
-mind that's full of radiance? It's when a mendicant has properly grasped
-the perception of light, and has properly grasped the perception of day.
-That's how, with an open and unenveloped heart, a mendicant develops a
-mind that's full of radiance.
+Và làm thế nào, với một trái tim rộng mở và không bị che lấp, một *Tỷ kheo* phát triển một tâm trí tràn đầy ánh sáng? Đó là khi một *Tỷ kheo* đã nắm bắt đúng đắn *nhận thức* về ánh sáng, và đã nắm bắt đúng đắn *nhận thức* về ban ngày. Đó là cách, với một trái tim rộng mở và không bị che lấp, một *Tỷ kheo* phát triển một tâm trí tràn đầy ánh sáng.
 
-And what is energy that's too lax? ...
+Và *nghị lực* quá lỏng lẻo là gì? ...
 
-And what is mental development that's too lax? ...
+Và *phát triển tâm* quá lỏng lẻo là gì? ...
 
-And what is inquiry that's too lax? It's when inquiry is combined with
-laziness. This is called lax inquiry.
+Và *quán chiếu* quá lỏng lẻo là gì? Đó là khi *quán chiếu* kết hợp với sự lười biếng. Đây được gọi là *quán chiếu* lỏng lẻo.
 
-And what is inquiry that's too tense? It's when inquiry is combined with
-restlessness. This is called tense inquiry.
+Và *quán chiếu* quá căng thẳng là gì? Đó là khi *quán chiếu* kết hợp với *bồn chồn và hối hận*. Đây được gọi là *quán chiếu* căng thẳng.
 
-And what is inquiry that's constricted internally? It's when inquiry is
-combined with dullness and drowsiness. This is called inquiry
-constricted internally.
+Và *quán chiếu* co cụm bên trong là gì? Đó là khi *quán chiếu* kết hợp với *uể oải và buồn ngủ*. Đây được gọi là *quán chiếu* co cụm bên trong.
 
-And what is inquiry that's scattered externally? It's when inquiry is
-frequently scattered and diffused externally on account of the five
-kinds of sensual stimulation. This is called inquiry scattered
-externally. ... That's how, with an open and unenveloped heart, a
-mendicant develops a mind that's full of radiance. When the four bases
-of psychic power have been developed and cultivated in this way they're
-very fruitful and beneficial.
+Và *quán chiếu* phân tán bên ngoài là gì? Đó là khi *quán chiếu* thường xuyên bị phân tán và lan man ra bên ngoài do *năm loại kích thích giác quan*. Đây được gọi là *quán chiếu* phân tán bên ngoài. ... Đó là cách, với một trái tim rộng mở và không bị che lấp, một *Tỷ kheo* phát triển một tâm trí tràn đầy ánh sáng. Khi bốn *nền tảng thần lực* đã được phát triển và tu tập theo cách này, chúng mang lại quả báo và lợi ích rất lớn.
 
-When the four bases of psychic power have been developed and cultivated
-in this way, a mendicant wields the many kinds of psychic power:
-multiplying themselves and becoming one again ... controlling the body
-as far as the realm of divinity. When the four bases of psychic power
-have been developed and cultivated in this way, they realize the
-undefiled freedom of heart and freedom by wisdom in this very life. And
-they live having realized it with their own insight due to the ending of
-defilements."
+Khi bốn *nền tảng thần lực* đã được phát triển và tu tập theo cách này, một *Tỷ kheo* sử dụng nhiều loại *thần thông*: nhân bản thân mình lên và trở lại thành một... điều khiển cơ thể đến tận cõi trời. Khi bốn *nền tảng thần lực* đã được phát triển và tu tập theo cách này, họ chứng ngộ *tâm giải thoát* và *tuệ giải thoát* không còn ô nhiễm ngay trong đời này. Và họ sống sau khi đã chứng ngộ điều đó bằng tuệ giác của chính mình nhờ sự chấm dứt các *lậu hoặc*."
 
 <!--pg-->
-## The Chapter on the Iron Ball
+## Chương về Quả Cầu Sắt
 
-### N 51.21 The Path *Maggasutta*
+### N 51.21 Con Đường *Maggasutta*
 
-At Sāvatthī.
+Tại Sāvatthī.
 
-"Mendicants, before my awakening---when I was still unawakened but
-intent on awakening---I thought: 'What's the path and practice for
-developing the bases of psychic power?' Then it occurred to me: 'It's
-when a mendicant develops the basis of psychic power that has immersion
-due to enthusiasm, and active effort. They think: "My enthusiasm won't
-be too lax or too tense. And it'll be neither constricted internally nor
-scattered externally." And they meditate perceiving before and behind:
-as before, so behind; as behind, so before; as below, so above; as
-above, so below; as by day, so by night; as by night, so by day. And so,
-with an open and unenveloped heart, they develop a mind that's full of
-radiance.
+"Này các *Tỷ kheo*, trước khi *giác ngộ*—khi Ta vẫn chưa *giác ngộ* nhưng quyết tâm *giác ngộ*—Ta đã nghĩ: 'Đâu là con đường và phương pháp thực hành để phát triển các *nền tảng thần lực*?' Rồi Ta nghĩ ra: 'Đó là khi một *Tỷ kheo* phát triển *nền tảng thần lực* có *Định* do *nhiệt tâm*, và *công phu nỗ lực*. Vị ấy nghĩ: "*Nhiệt tâm* của ta sẽ không quá lỏng lẻo hay quá căng thẳng. Và nó sẽ không co cụm bên trong cũng không phân tán bên ngoài." Và vị ấy thiền định nhận thức trước và sau: như trước, vậy sau; như sau, vậy trước; như dưới, vậy trên; như trên, vậy dưới; như ngày, vậy đêm; như đêm, vậy ngày. Và như vậy, với một trái tim rộng mở và không bị che lấp, vị ấy phát triển một tâm trí tràn đầy ánh sáng.
 
-They develop the basis of psychic power that has immersion due to energy
-... mental development ... inquiry, and active effort. They think: "My
-inquiry won't be too lax or too tense. And it'll be neither constricted
-internally nor scattered externally." And they meditate perceiving
-before and behind: as before, so behind; as behind, so before; as below,
-so above; as above, so below; as by day, so by night; as by night, so by
-day. And so, with an open and unenveloped heart, they develop a mind
-that's full of radiance.'
+Vị ấy phát triển *nền tảng thần lực* có *Định* do *nghị lực*... *phát triển tâm*... *quán chiếu*, và *công phu nỗ lực*. Vị ấy nghĩ: "*Quán chiếu* của ta sẽ không quá lỏng lẻo hay quá căng thẳng. Và nó sẽ không co cụm bên trong cũng không phân tán bên ngoài." Và vị ấy thiền định nhận thức trước và sau: như trước, vậy sau; như sau, vậy trước; như dưới, vậy trên; như trên, vậy dưới; như ngày, vậy đêm; như đêm, vậy ngày. Và như vậy, với một trái tim rộng mở và không bị che lấp, vị ấy phát triển một tâm trí tràn đầy ánh sáng.'
 
-When the four bases of psychic power have been developed and cultivated
-in this way, a mendicant wields the many kinds of psychic power:
-multiplying themselves and becoming one again ... controlling the body
-as far as the realm of divinity.
+Khi bốn *nền tảng thần lực* đã được phát triển và tu tập theo cách này, một *Tỷ kheo* sử dụng nhiều loại *thần thông*: nhân bản thân mình lên và trở lại thành một... điều khiển cơ thể đến tận cõi trời.
 
-When the four bases of psychic power have been developed and cultivated
-in this way, they realize the undefiled freedom of heart and freedom by
-wisdom in this very life. And they live having realized it with their
-own insight due to the ending of defilements."
+Khi bốn *nền tảng thần lực* đã được phát triển và tu tập theo cách này, họ chứng ngộ *tâm giải thoát* và *tuệ giải thoát* không còn ô nhiễm ngay trong đời này. Và họ sống sau khi đã chứng ngộ điều đó bằng tuệ giác của chính mình nhờ sự chấm dứt các *lậu hoặc*."
 
-**(The six direct knowledges should be told in full.)**
+**(Sáu thắng trí nên được kể đầy đủ.)**
 
 <!--pg-->
-### N 51.22 The Iron Ball *Ayoguḷasutta*
+### N 51.22 Quả Cầu Sắt *Ayoguḷasutta*
 
-At Sāvatthī.
+Tại Sāvatthī.
 
-Then Venerable Ānanda went up to the Buddha, bowed, sat down to one
-side, and said to him:
+Bấy giờ Tôn giả A-nan đến gặp Đức Phật, đảnh lễ, ngồi xuống một bên và nói với Ngài:
 
-"Sir, do you have personal experience of going to the realm of divinity
-by psychic power with a mind-made body?"
+"Bạch Tôn Sư, Ngài có kinh nghiệm cá nhân về việc đi đến cõi trời bằng *thần thông* với một *thân do ý tạo* (mind-made body / manomaya kāya / một thân thể được tạo ra từ tâm, không phải từ vật chất thô) không?"
 
-"I do, Ānanda."
+"Ta có, A-nan."
 
-"But do you have personal experience of going to the realm of divinity
-by psychic power with this body made up of the four principal states?"
+"Nhưng Ngài có kinh nghiệm cá nhân về việc đi đến cõi trời bằng *thần thông* với thân thể này được tạo thành từ *bốn đại* (four principal states / catummahābhūtika / bốn yếu tố cơ bản cấu thành vật chất: đất, nước, lửa, gió) không?"
 
-"I do, Ānanda."
+"Ta có, A-nan."
 
-"It's incredible and amazing that the Buddha is capable of going to the
-realm of divinity by psychic power with a mind-made body! And that he
-has personal experience of going to the realm of divinity by psychic
-power with this body made up of the four principal states!"
+"Thật không thể tin được và tuyệt vời khi Đức Phật có khả năng đi đến cõi trời bằng *thần thông* với một *thân do ý tạo*! Và Ngài có kinh nghiệm cá nhân về việc đi đến cõi trời bằng *thần thông* với thân thể này được tạo thành từ *bốn đại*!"
 
-"Ānanda, the Realized Ones are incredible and have incredible qualities.
-They're amazing and have amazing qualities.
+"A-nan, các *Như Lai* là không thể nghĩ bàn và có những phẩm chất không thể nghĩ bàn. Họ thật tuyệt vời và có những phẩm chất tuyệt vời.
 
-Sometimes the Realized One submerges his body in his mind and his mind
-in his body. He meditates after sinking into a perception of bliss and
-lightness in the body. At that time his body becomes lighter, softer,
-more workable, and more radiant.
+Đôi khi *Như Lai* nhấn chìm thân mình vào tâm và tâm mình vào thân. Ngài thiền định sau khi chìm vào *nhận thức* về *bình an* và sự nhẹ nhàng trong cơ thể. Lúc đó, thân thể Ngài trở nên nhẹ hơn, mềm mại hơn, dễ uốn nắn hơn, và rạng rỡ hơn.
 
-Suppose there was an iron ball that had been heated all day. It'd become
-lighter, softer, more workable, and more radiant. In the same way,
-sometimes the Realized One submerges his body in his mind and his mind
-in his body. He meditates after sinking into a perception of bliss and
-lightness in the body. At that time his body becomes lighter, softer,
-more workable, and more radiant.
+Giả sử có một quả cầu sắt được nung nóng cả ngày. Nó sẽ trở nên nhẹ hơn, mềm mại hơn, dễ uốn nắn hơn, và rạng rỡ hơn. Cũng vậy, đôi khi *Như Lai* nhấn chìm thân mình vào tâm và tâm mình vào thân. Ngài thiền định sau khi chìm vào *nhận thức* về *bình an* và sự nhẹ nhàng trong cơ thể. Lúc đó, thân thể Ngài trở nên nhẹ hơn, mềm mại hơn, dễ uốn nắn hơn, và rạng rỡ hơn.
 
-Sometimes the Realized One submerges his body in his mind and his mind
-in his body. He meditates after sinking into a perception of bliss and
-lightness in the body. At that time his body easily rises up from the
-ground into the air. He wields the many kinds of psychic power:
-multiplying himself and becoming one again ... controlling the body as
-far as the realm of divinity.
+Đôi khi *Như Lai* nhấn chìm thân mình vào tâm và tâm mình vào thân. Ngài thiền định sau khi chìm vào *nhận thức* về *bình an* và sự nhẹ nhàng trong cơ thể. Lúc đó, thân thể Ngài dễ dàng bay lên khỏi mặt đất vào không trung. Ngài sử dụng nhiều loại *thần thông*: nhân bản thân mình lên và trở lại thành một... điều khiển cơ thể đến tận cõi trời.
 
-Suppose there was a light tuft of cotton-wool or kapok. Taken up by the
-wind, it would easily rise up from the ground into the air. In the same
-way, sometimes the Realized One submerges his body in his mind and his
-mind in his body. He meditates after sinking into a perception of bliss
-and lightness in the body. At that time his body easily rises up from
-the ground into the air. He wields the many kinds of psychic power:
-multiplying himself and becoming one again ... controlling the body as
-far as the realm of divinity."
+Giả sử có một túm bông gòn hoặc bông gạo nhẹ. Được gió cuốn đi, nó sẽ dễ dàng bay lên khỏi mặt đất vào không trung. Cũng vậy, đôi khi *Như Lai* nhấn chìm thân mình vào tâm và tâm mình vào thân. Ngài thiền định sau khi chìm vào *nhận thức* về *bình an* và sự nhẹ nhàng trong cơ thể. Lúc đó, thân thể Ngài dễ dàng bay lên khỏi mặt đất vào không trung. Ngài sử dụng nhiều loại *thần thông*: nhân bản thân mình lên và trở lại thành một... điều khiển cơ thể đến tận cõi trời."
 
 <!--pg-->
-### N 51.23 A Mendicant *Bhikkhusutta*
+### N 51.23 Một Tỷ Kheo *Bhikkhusutta*
 
-"Mendicants, there are these four bases of psychic power. What four?
-It's when a mendicant develops the basis of psychic power that has
-immersion due to enthusiasm ... energy ... mental development ...
-inquiry, and active effort. These are the four bases of psychic power.
-By developing and cultivating these four bases of psychic power, a
-mendicant realizes the undefiled freedom of heart and freedom by wisdom
-in this very life. And they live having realized it with their own
-insight due to the ending of defilements."
+"Này các *Tỷ kheo*, có bốn *nền tảng thần lực* này. Bốn điều đó là gì? Đó là khi một *Tỷ kheo* phát triển *nền tảng thần lực* có *Định* do *nhiệt tâm*... *nghị lực*... *phát triển tâm*... *quán chiếu*, và *công phu nỗ lực*. Đây là bốn *nền tảng thần lực*. Bằng cách phát triển và tu tập bốn *nền tảng thần lực* này, một *Tỷ kheo* chứng ngộ *tâm giải thoát* và *tuệ giải thoát* không còn ô nhiễm ngay trong đời này. Và họ sống sau khi đã chứng ngộ điều đó bằng tuệ giác của chính mình nhờ sự chấm dứt các *lậu hoặc*."
 
 <!--pg-->
-### N 51.24 Plain Version *Suddhikasutta*
+### N 51.24 Bản Giản Lược *Suddhikasutta*
 
-"Mendicants, there are these four bases of psychic power. What four?
-It's when a mendicant develops the basis of psychic power that has
-immersion due to enthusiasm ... energy ... mental development ...
-inquiry, and active effort. These are the four bases of psychic power."
+"Này các *Tỷ kheo*, có bốn *nền tảng thần lực* này. Bốn điều đó là gì? Đó là khi một *Tỷ kheo* phát triển *nền tảng thần lực* có *Định* do *nhiệt tâm*... *nghị lực*... *phát triển tâm*... *quán chiếu*, và *công phu nỗ lực*. Đây là bốn *nền tảng thần lực*."
 
 <!--pg-->
-### N 51.25 Fruits (1st) *Paṭhamaphalasutta*
+### N 51.25 Quả (thứ nhất) *Paṭhamaphalasutta*
 
-"Mendicants, there are these four bases of psychic power. What four?
-It's when a mendicant develops the basis of psychic power that has
-immersion due to enthusiasm ... energy ... mental development ...
-inquiry, and active effort. These are the four bases of psychic power.
-Because of developing and cultivating these four bases of psychic power,
-one of two results can be expected: enlightenment in this very life, or
-if there's something left over, non-return."
+"Này các *Tỷ kheo*, có bốn *nền tảng thần lực* này. Bốn điều đó là gì? Đó là khi một *Tỷ kheo* phát triển *nền tảng thần lực* có *Định* do *nhiệt tâm*... *nghị lực*... *phát triển tâm*... *quán chiếu*, và *công phu nỗ lực*. Đây là bốn *nền tảng thần lực*. Nhờ phát triển và tu tập bốn *nền tảng thần lực* này, một trong hai kết quả có thể được mong đợi: *chứng ngộ* (enlightenment / ñāṇa / sự đạt được trí tuệ giải thoát) ngay trong đời này, hoặc nếu còn dư sót, thì đạt quả *bất lai* (non-return / anāgāmitā / quả vị A-na-hàm, không còn quay trở lại cõi dục)."
 
 <!--pg-->
-### N 51.26 Fruits (2nd) *Dutiyaphalasutta*
+### N 51.26 Quả (thứ hai) *Dutiyaphalasutta*
 
-"Mendicants, there are these four bases of psychic power. What four?
-It's when a mendicant develops the basis of psychic power that has
-immersion due to enthusiasm ... energy ... mental development ...
-inquiry, and active effort. These are the four bases of psychic power.
-Because of developing and cultivating these four bases of psychic power,
-seven fruits and benefits can be expected.
+"Này các *Tỷ kheo*, có bốn *nền tảng thần lực* này. Bốn điều đó là gì? Đó là khi một *Tỷ kheo* phát triển *nền tảng thần lực* có *Định* do *nhiệt tâm*... *nghị lực*... *phát triển tâm*... *quán chiếu*, và *công phu nỗ lực*. Đây là bốn *nền tảng thần lực*. Nhờ phát triển và tu tập bốn *nền tảng thần lực* này, bảy quả và lợi ích có thể được mong đợi.
 
-What seven? They attain enlightenment early on in this very life. If
-not, they attain enlightenment at the time of death. If not, with the
-ending of the five lower fetters, they're extinguished between one life
-and the next ... they're extinguished upon landing ... they're
-extinguished without extra effort ... they're extinguished with extra
-effort ... they head upstream, going to the Akaniṭṭha
-realm. Because of developing and cultivating these four bases of psychic
-power, these seven fruits and benefits can be expected."
+Bảy điều đó là gì? Họ đạt được *chứng ngộ* sớm ngay trong đời này. Nếu không, họ đạt được *chứng ngộ* vào lúc lâm chung. Nếu không, với sự chấm dứt của *năm hạ phần xiềng xích* (five lower fetters / orambhāgiyāni saṃyojanāni / năm xiềng xích trói buộc chúng sinh vào cõi dục), họ nhập diệt giữa hai kiếp sống... họ nhập diệt khi vừa tái sinh... họ nhập diệt không cần nỗ lực thêm... họ nhập diệt với nỗ lực thêm... họ đi ngược dòng, đến cõi Akaniṭṭha. Nhờ phát triển và tu tập bốn *nền tảng thần lực* này, bảy quả và lợi ích này có thể được mong đợi."
 
 <!--pg-->
-### N 51.27 With Ānanda (1st) *Paṭhamaānandasutta*
+### N 51.27 Với Ānanda (thứ nhất) *Paṭhamaānandasutta*
 
-At Sāvatthī.
+Tại Sāvatthī.
 
-Then Venerable Ānanda went up to the Buddha, bowed, sat down to one
-side, and said to him:
+Bấy giờ Tôn giả A-nan đến gặp Đức Phật, đảnh lễ, ngồi xuống một bên và nói với Ngài:
 
-"Sir, what is psychic power? What is the basis of psychic power? What is
-the development of the bases of psychic power? And what is the practice
-that leads to the development of the bases of psychic power?"
+"Bạch Tôn Sư, *thần thông* là gì? *Nền tảng thần lực* là gì? Sự phát triển các *nền tảng thần lực* là gì? Và phương pháp thực hành dẫn đến sự phát triển các *nền tảng thần lực* là gì?"
 
-"Ānanda, take a mendicant who wields the many kinds of psychic power:
-multiplying themselves and becoming one again ... controlling the body
-as far as the realm of divinity. This is called psychic power.
+"A-nan, hãy xem một *Tỷ kheo* sử dụng nhiều loại *thần thông*: nhân bản thân mình lên và trở lại thành một... điều khiển cơ thể đến tận cõi trời. Đây được gọi là *thần thông*.
 
-And what is the basis of psychic power? The path and practice that leads
-to gaining psychic power. This is called the basis of psychic power.
+Và *nền tảng thần lực* là gì? Con đường và phương pháp thực hành dẫn đến việc đạt được *thần thông*. Đây được gọi là *nền tảng thần lực*.
 
-And what is the development of the bases of psychic power? It's when a
-mendicant develops the basis of psychic power that has immersion due to
-enthusiasm ... energy ... mental development ... inquiry, and active
-effort. This is called the development of the bases of psychic power.
+Và sự phát triển các *nền tảng thần lực* là gì? Đó là khi một *Tỷ kheo* phát triển *nền tảng thần lực* có *Định* do *nhiệt tâm*... *nghị lực*... *phát triển tâm*... *quán chiếu*, và *công phu nỗ lực*. Đây được gọi là sự phát triển các *nền tảng thần lực*.
 
-And what is the practice that leads to the development of the bases of
-psychic power? It is simply this noble eightfold path, that is: right
-view, right thought, right speech, right action, right livelihood, right
-effort, right mindfulness, and right immersion. This is called the
-practice that leads to the development of the bases of psychic power."
+Và phương pháp thực hành dẫn đến sự phát triển các *nền tảng thần lực* là gì? Đó chính là con đường thánh tám ngành này, tức là: *chánh kiến, chánh tư duy, chánh ngôn, chánh nghiệp, chánh tinh tấn, chánh niệm, chánh định (tầm nhìn đúng, suy nghĩ đúng, lời nói đúng, hành động đúng, sống đúng, nỗ lực đúng, niệm đúng, định đúng)*. Đây được gọi là phương pháp thực hành dẫn đến sự phát triển các *nền tảng thần lực*."
 
 <!--pg-->
-### N 51.28 With Ānanda (2nd) *Dutiyaānandasutta*
+### N 51.28 Với Ānanda (thứ hai) *Dutiyaānandasutta*
 
-The Buddha said to Venerable Ānanda: "Ānanda, what is psychic power?
-What is the basis of psychic power? What is the development of the bases
-of psychic power? And what is the practice that leads to the development
-of the bases of psychic power?"
+Đức Phật nói với Tôn giả A-nan: "A-nan, *thần thông* là gì? *Nền tảng thần lực* là gì? Sự phát triển các *nền tảng thần lực* là gì? Và phương pháp thực hành dẫn đến sự phát triển các *nền tảng thần lực* là gì?"
 
-"Our teachings are rooted in the Buddha. He is our guide and our refuge.
-..."
+"Giáo pháp của chúng con bắt nguồn từ Đức Phật. Ngài là người dẫn đường và là nơi nương tựa của chúng con. ..."
 
-"Ānanda, take a mendicant who wields the many kinds of psychic power:
-multiplying themselves and becoming one again ... controlling the body
-as far as the realm of divinity. This is called psychic power.
+"A-nan, hãy xem một *Tỷ kheo* sử dụng nhiều loại *thần thông*: nhân bản thân mình lên và trở lại thành một... điều khiển cơ thể đến tận cõi trời. Đây được gọi là *thần thông*.
 
-And what is the basis of psychic power? The path and practice that leads
-to gaining psychic power. This is called the basis of psychic power.
+Và *nền tảng thần lực* là gì? Con đường và phương pháp thực hành dẫn đến việc đạt được *thần thông*. Đây được gọi là *nền tảng thần lực*.
 
-And what is the development of the bases of psychic power? It's when a
-mendicant develops the basis of psychic power that has immersion due to
-enthusiasm ... energy ... mental development ... inquiry, and active
-effort. This is called the development of the bases of psychic power.
+Và sự phát triển các *nền tảng thần lực* là gì? Đó là khi một *Tỷ kheo* phát triển *nền tảng thần lực* có *Định* do *nhiệt tâm*... *nghị lực*... *phát triển tâm*... *quán chiếu*, và *công phu nỗ lực*. Đây được gọi là sự phát triển các *nền tảng thần lực*.
 
-And what is the practice that leads to the development of the bases of
-psychic power? It is simply this noble eightfold path, that is: right
-view, right thought, right speech, right action, right livelihood, right
-effort, right mindfulness, and right immersion. This is called the
-practice that leads to the development of the bases of psychic power."
+Và phương pháp thực hành dẫn đến sự phát triển các *nền tảng thần lực* là gì? Đó chính là con đường thánh tám ngành này, tức là: *chánh kiến, chánh tư duy, chánh ngôn, chánh nghiệp, chánh tinh tấn, chánh niệm, chánh định (tầm nhìn đúng, suy nghĩ đúng, lời nói đúng, hành động đúng, sống đúng, nỗ lực đúng, niệm đúng, định đúng)*. Đây được gọi là phương pháp thực hành dẫn đến sự phát triển các *nền tảng thần lực*."
 
 <!--pg-->
-### N 51.29 Several Mendicants (1st) *Paṭhamabhikkhusutta*
+### N 51.29 Nhiều Tỷ Kheo (thứ nhất) *Paṭhamabhikkhusutta*
 
-Then several mendicants went up to the Buddha, bowed, sat down to one
-side, and said to him:
+Bấy giờ nhiều *Tỷ kheo* đến gặp Đức Phật, đảnh lễ, ngồi xuống một bên và nói với Ngài:
 
-"Sir, what is psychic power? What is the basis of psychic power? What is
-the development of the bases of psychic power? And what is the practice
-that leads to the development of the bases of psychic power?"
+"Bạch Tôn Sư, *thần thông* là gì? *Nền tảng thần lực* là gì? Sự phát triển các *nền tảng thần lực* là gì? Và phương pháp thực hành dẫn đến sự phát triển các *nền tảng thần lực* là gì?"
 
-"Mendicants, take a mendicant who wields the many kinds of psychic
-power: multiplying themselves and becoming one again ... controlling the
-body as far as the realm of divinity. This is called psychic power.
+"Này các *Tỷ kheo*, hãy xem một *Tỷ kheo* sử dụng nhiều loại *thần thông*: nhân bản thân mình lên và trở lại thành một... điều khiển cơ thể đến tận cõi trời. Đây được gọi là *thần thông*.
 
-And what is the basis of psychic power? The path and practice that leads
-to gaining psychic power. This is called the basis of psychic power.
+Và *nền tảng thần lực* là gì? Con đường và phương pháp thực hành dẫn đến việc đạt được *thần thông*. Đây được gọi là *nền tảng thần lực*.
 
-And what is the development of the bases of psychic power? It's when a
-mendicant develops the basis of psychic power that has immersion due to
-enthusiasm ... energy ... mental development ... inquiry, and active
-effort. This is called the development of the bases of psychic power.
+Và sự phát triển các *nền tảng thần lực* là gì? Đó là khi một *Tỷ kheo* phát triển *nền tảng thần lực* có *Định* do *nhiệt tâm*... *nghị lực*... *phát triển tâm*... *quán chiếu*, và *công phu nỗ lực*. Đây được gọi là sự phát triển các *nền tảng thần lực*.
 
-And what is the practice that leads to the development of the bases of
-psychic power? It is simply this noble eightfold path, that is: right
-view, right thought, right speech, right action, right livelihood, right
-effort, right mindfulness, and right immersion. This is called the
-practice that leads to the development of the bases of psychic power."
+Và phương pháp thực hành dẫn đến sự phát triển các *nền tảng thần lực* là gì? Đó chính là con đường thánh tám ngành này, tức là: *chánh kiến, chánh tư duy, chánh ngôn, chánh nghiệp, chánh tinh tấn, chánh niệm, chánh định (tầm nhìn đúng, suy nghĩ đúng, lời nói đúng, hành động đúng, sống đúng, nỗ lực đúng, niệm đúng, định đúng)*. Đây được gọi là phương pháp thực hành dẫn đến sự phát triển các *nền tảng thần lực*."
 
 <!--pg-->
-### N 51.30 Several Mendicants (2nd) *Dutiyabhikkhusutta*
+### N 51.30 Nhiều Tỷ Kheo (thứ hai) *Dutiyabhikkhusutta*
 
-Then several mendicants went up to the Buddha ... The Buddha said to
-them:
+Bấy giờ nhiều *Tỷ kheo* đến gặp Đức Phật... Đức Phật nói với họ:
 
-"Mendicants, what is psychic power? What is the basis of psychic power?
-What is the development of the bases of psychic power? And what is the
-practice that leads to the development of the bases of psychic power?"
+"Này các *Tỷ kheo*, *thần thông* là gì? *Nền tảng thần lực* là gì? Sự phát triển các *nền tảng thần lực* là gì? Và phương pháp thực hành dẫn đến sự phát triển các *nền tảng thần lực* là gì?"
 
-"Our teachings are rooted in the Buddha. He is our guide and our refuge.
-..."
+"Giáo pháp của chúng con bắt nguồn từ Đức Phật. Ngài là người dẫn đường và là nơi nương tựa của chúng con. ..."
 
-"And what is psychic power? It's a mendicant who wields the many kinds
-of psychic power: multiplying themselves and becoming one again ...
-controlling the body as far as the realm of divinity. This is called
-psychic power.
+"Và *thần thông* là gì? Đó là một *Tỷ kheo* sử dụng nhiều loại *thần thông*: nhân bản thân mình lên và trở lại thành một... điều khiển cơ thể đến tận cõi trời. Đây được gọi là *thần thông*.
 
-And what is the basis of psychic power? The path and practice that leads
-to gaining psychic power. This is called the basis of psychic power.
+Và *nền tảng thần lực* là gì? Con đường và phương pháp thực hành dẫn đến việc đạt được *thần thông*. Đây được gọi là *nền tảng thần lực*.
 
-And what is the development of the bases of psychic power? It's when a
-mendicant develops the basis of psychic power that has immersion due to
-enthusiasm ... energy ... mental development ... inquiry, and active
-effort. This is called the development of the bases of psychic power.
+Và sự phát triển các *nền tảng thần lực* là gì? Đó là khi một *Tỷ kheo* phát triển *nền tảng thần lực* có *Định* do *nhiệt tâm*... *nghị lực*... *phát triển tâm*... *quán chiếu*, và *công phu nỗ lực*. Đây được gọi là sự phát triển các *nền tảng thần lực*.
 
-And what is the practice that leads to the development of the bases of
-psychic power? It is simply this noble eightfold path, that is: right
-view, right thought, right speech, right action, right livelihood, right
-effort, right mindfulness, and right immersion. This is called the
-practice that leads to the development of the bases of psychic power."
+Và phương pháp thực hành dẫn đến sự phát triển các *nền tảng thần lực* là gì? Đó chính là con đường thánh tám ngành này, tức là: *chánh kiến, chánh tư duy, chánh ngôn, chánh nghiệp, chánh tinh tấn, chánh niệm, chánh định (tầm nhìn đúng, suy nghĩ đúng, lời nói đúng, hành động đúng, sống đúng, nỗ lực đúng, niệm đúng, định đúng)*. Đây được gọi là phương pháp thực hành dẫn đến sự phát triển các *nền tảng thần lực*."
 
 <!--pg-->
-### N 51.31 About Moggallāna *Moggallānasutta*
+### N 51.31 Về Moggallāna *Moggallānasutta*
 
-There the Buddha addressed the mendicants: "What do you think,
-mendicants? What things has the mendicant Moggallāna
-developed and cultivated so as to have such power and might?"
+Tại đó, Đức Phật nói với các *Tỷ kheo*: "Các con nghĩ sao, các *Tỷ kheo*? *Tỷ kheo* Moggallāna đã phát triển và tu tập những gì để có được sức mạnh và uy lực như vậy?"
 
-"Our teachings are rooted in the Buddha. He is our guide and our refuge.
-..."
+"Giáo pháp của chúng con bắt nguồn từ Đức Phật. Ngài là người dẫn đường và là nơi nương tựa của chúng con. ..."
 
-"The mendicant Moggallāna has become so powerful and mighty
-by developing and cultivating the four bases of psychic power.
+"*Tỷ kheo* Moggallāna đã trở nên mạnh mẽ và uy lực như vậy nhờ phát triển và tu tập bốn *nền tảng thần lực*.
 
-What four? Moggallāna develops the basis of psychic power
-that has immersion due to enthusiasm, and active effort. He thinks: 'My
-enthusiasm won't be too lax or too tense. And it'll be neither
-constricted internally nor scattered externally.' And he meditates
-perceiving before and behind: as before, so behind; as behind, so
-before; as below, so above; as above, so below; as by day, so by night;
-as by night, so by day. And so, with an open and unenveloped heart, he
-develops a mind that's full of radiance.
+Bốn điều đó là gì? Moggallāna phát triển *nền tảng thần lực* có *Định* do *nhiệt tâm*, và *công phu nỗ lực*. Ông nghĩ: '*Nhiệt tâm* của ta sẽ không quá lỏng lẻo hay quá căng thẳng. Và nó sẽ không co cụm bên trong cũng không phân tán bên ngoài.' Và ông thiền định nhận thức trước và sau: như trước, vậy sau; như sau, vậy trước; như dưới, vậy trên; như trên, vậy dưới; như ngày, vậy đêm; như đêm, vậy ngày. Và như vậy, với một trái tim rộng mở và không bị che lấp, ông phát triển một tâm trí tràn đầy ánh sáng.
 
-He develops the basis of psychic power that has immersion due to energy
-... mental development ... inquiry, and active effort. He thinks: 'My
-inquiry won't be too lax or too tense. And it'll be neither constricted
-internally nor scattered externally.' ... And so, with an open and
-unenveloped heart, he develops a mind that's full of radiance. The
-mendicant Moggallāna has become so powerful and mighty by
-developing and cultivating these four bases of psychic power.
+Ông phát triển *nền tảng thần lực* có *Định* do *nghị lực*... *phát triển tâm*... *quán chiếu*, và *công phu nỗ lực*. Ông nghĩ: '*Quán chiếu* của ta sẽ không quá lỏng lẻo hay quá căng thẳng. Và nó sẽ không co cụm bên trong cũng không phân tán bên ngoài.' ... Và như vậy, với một trái tim rộng mở và không bị che lấp, ông phát triển một tâm trí tràn đầy ánh sáng. *Tỷ kheo* Moggallāna đã trở nên mạnh mẽ và uy lực như vậy nhờ phát triển và tu tập bốn *nền tảng thần lực* này.
 
-And by developing and cultivating these four bases of psychic power, the
-mendicant Moggallāna wields the many kinds of psychic
-power: multiplying himself and becoming one again ... controlling the
-body as far as the realm of divinity.
+Và bằng cách phát triển và tu tập bốn *nền tảng thần lực* này, *Tỷ kheo* Moggallāna sử dụng nhiều loại *thần thông*: nhân bản thân mình lên và trở lại thành một... điều khiển cơ thể đến tận cõi trời.
 
-And by developing and cultivating these four bases of psychic power, the
-mendicant Moggallāna realizes the undefiled freedom of
-heart and freedom by wisdom in this very life. And he lives having
-realized it with his own insight due to the ending of defilements."
+Và bằng cách phát triển và tu tập bốn *nền tảng thần lực* này, *Tỷ kheo* Moggallāna chứng ngộ *tâm giải thoát* và *tuệ giải thoát* không còn ô nhiễm ngay trong đời này. Và ông sống sau khi đã chứng ngộ điều đó bằng tuệ giác của chính mình nhờ sự chấm dứt các *lậu hoặc*."
 
 <!--pg-->
-### N 51.32 The Realized One *Tathāgatasutta*
+### N 51.32 Như Lai *Tathāgatasutta*
 
-There the Buddha addressed the mendicants: "What do you think,
-mendicants? What things has the Realized One developed and cultivated so
-as to have such power and might?"
+Tại đó, Đức Phật nói với các *Tỷ kheo*: "Các con nghĩ sao, các *Tỷ kheo*? *Như Lai* đã phát triển và tu tập những gì để có được sức mạnh và uy lực như vậy?"
 
-"Our teachings are rooted in the Buddha. ..."
+"Giáo pháp của chúng con bắt nguồn từ Đức Phật. ..."
 
-"The Realized One has become so powerful and mighty by developing and
-cultivating the four bases of psychic power.
+"*Như Lai* đã trở nên mạnh mẽ và uy lực như vậy nhờ phát triển và tu tập bốn *nền tảng thần lực*.
 
-What four? It's when a mendicant develops the basis of psychic power
-that has immersion due to enthusiasm, and active effort. He thinks: 'My
-enthusiasm won't be too lax or too tense. And it'll be neither
-constricted internally nor scattered externally.' And he meditates
-perceiving before and behind: as before, so behind; as behind, so
-before; as below, so above; as above, so below; as by day, so by night;
-as by night, so by day. And so, with an open and unenveloped heart, he
-develops a mind that's full of radiance.
+Bốn điều đó là gì? Đó là khi một *Tỷ kheo* phát triển *nền tảng thần lực* có *Định* do *nhiệt tâm*, và *công phu nỗ lực*. Vị ấy nghĩ: '*Nhiệt tâm* của ta sẽ không quá lỏng lẻo hay quá căng thẳng. Và nó sẽ không co cụm bên trong cũng không phân tán bên ngoài.' Và vị ấy thiền định nhận thức trước và sau: như trước, vậy sau; như sau, vậy trước; như dưới, vậy trên; như trên, vậy dưới; như ngày, vậy đêm; như đêm, vậy ngày. Và như vậy, với một trái tim rộng mở và không bị che lấp, vị ấy phát triển một tâm trí tràn đầy ánh sáng.
 
-He develops the basis of psychic power that has immersion due to energy
-... mental development ... inquiry, and active effort. He thinks: 'My
-inquiry won't be too lax or too tense. And it'll be neither constricted
-internally nor scattered externally.' And he meditates perceiving before
-and behind: as before, so behind; as behind, so before; as below, so
-above; as above, so below; as by day, so by night; as by night, so by
-day. And so, with an open and unenveloped heart, he develops a mind
-that's full of radiance.
+Vị ấy phát triển *nền tảng thần lực* có *Định* do *nghị lực*... *phát triển tâm*... *quán chiếu*, và *công phu nỗ lực*. Vị ấy nghĩ: '*Quán chiếu* của ta sẽ không quá lỏng lẻo hay quá căng thẳng. Và nó sẽ không co cụm bên trong cũng không phân tán bên ngoài.' Và vị ấy thiền định nhận thức trước và sau: như trước, vậy sau; như sau, vậy trước; như dưới, vậy trên; như trên, vậy dưới; như ngày, vậy đêm; như đêm, vậy ngày. Và như vậy, với một trái tim rộng mở và không bị che lấp, vị ấy phát triển một tâm trí tràn đầy ánh sáng.
 
-The Realized One has become so powerful and mighty by developing and
-cultivating these four bases of psychic power.
+*Như Lai* đã trở nên mạnh mẽ và uy lực như vậy nhờ phát triển và tu tập bốn *nền tảng thần lực* này.
 
-And by developing and cultivating these four bases of psychic power, the
-Realized One wields the many kinds of psychic power: multiplying himself
-and becoming one again ... controlling the body as far as the realm of
-divinity.
+Và bằng cách phát triển và tu tập bốn *nền tảng thần lực* này, *Như Lai* sử dụng nhiều loại *thần thông*: nhân bản thân mình lên và trở lại thành một... điều khiển cơ thể đến tận cõi trời.
 
-And by developing and cultivating these four bases of psychic power, the
-Realized One realizes the undefiled freedom of heart and freedom by
-wisdom in this very life. And he lives having realized it with his own
-insight due to the ending of defilements."
+Và bằng cách phát triển và tu tập bốn *nền tảng thần lực* này, *Như Lai* chứng ngộ *tâm giải thoát* và *tuệ giải thoát* không còn ô nhiễm ngay trong đời này. Và Ngài sống sau khi đã chứng ngộ điều đó bằng tuệ giác của chính mình nhờ sự chấm dứt các *lậu hoặc*."
 
-**(The six direct knowledges should be told in full.)**
+**(Sáu thắng trí nên được kể đầy đủ.)**
 
 <!--pg-->
-## The Chapter of Abbreviated Texts on the Ganges
+## Chương về các Bài Kinh Tụng Tắt về Sông Hằng
 
-### N 51.33--44 The Ganges River, Etc. *Gaṅgāpeyyālavagga*
+### N 51.33--44 Sông Hằng, v.v. *Gaṅgāpeyyālavagga*
 
-"Mendicants, the Ganges river slants, slopes, and inclines to the east.
-In the same way, a mendicant who develops and cultivates the four bases
-of psychic power slants, slopes, and inclines to extinguishment.
+"Này các *Tỷ kheo*, sông Hằng nghiêng, dốc, và hướng về phía đông. Cũng vậy, một *Tỷ kheo* phát triển và tu tập bốn *nền tảng thần lực* sẽ nghiêng, dốc, và hướng về *Niết bàn*.
 
-And how does a mendicant who develops the four bases of psychic power
-slant, slope, and incline to extinguishment? It's when a mendicant
-develops the basis of psychic power that has immersion due to enthusiasm
-... energy ... mental development ... inquiry, and active effort.
+Và làm thế nào một *Tỷ kheo* phát triển bốn *nền tảng thần lực* lại nghiêng, dốc, và hướng về *Niết bàn*? Đó là khi một *Tỷ kheo* phát triển *nền tảng thần lực* có *Định* do *nhiệt tâm*... *nghị lực*... *phát triển tâm*... *quán chiếu*, và *công phu nỗ lực*.
 
-That's how a mendicant who develops and cultivates the four bases of
-psychic power slants, slopes, and inclines to extinguishment."
+Đó là cách một *Tỷ kheo* phát triển và tu tập bốn *nền tảng thần lực* sẽ nghiêng, dốc, và hướng về *Niết bàn*."
 
-> ::: footnotesize
-> Six on slanting to the east,\
-> and six on slanting to the ocean;\
-> these two sixes make twelve,\
-> and that's how this chapter is recited.
-> :::
+> Sáu bài về hướng về phía đông,\
+> và sáu bài về hướng về đại dương;\
+> hai lần sáu này thành mười hai,\
+> và đó là cách chương này được tụng.
 
 <!--pg-->
-## The Chapter on Diligence
+## Chương về Tinh Cần
 
-### N 51.45--54 Diligence *Appamādavagga*
+### N 51.45--54 Tinh Cần *Appamādavagga*
 
-**(Tell in full as in the chapter on diligence at SN 45.139--148.)**
+**(Kể đầy đủ như trong chương về tinh cần tại SN 45.139--148.)**
 
-> ::: footnotesize
-> The Realized One, footprint, roof peak,\
-> roots, heartwood, jasmine,\
-> monarch, sun and moon,\
-> and cloth is the tenth.
-> :::
+> *Như Lai*, dấu chân, nóc nhà,\
+> rễ cây, lõi cây, hoa nhài,\
+> bậc quân vương, mặt trời và mặt trăng,\
+> và tấm vải là bài thứ mười.
 
 <!--pg-->
-## The Chapter on Hard Work
+## Chương về Công Việc Khó Nhọc
 
-### N 51.55--66 Hard Work *Balakaraṇīyavagga*
+### N 51.55--66 Công Việc Khó Nhọc *Balakaraṇīyavagga*
 
-**(Tell in full as in the chapter on hard work at SN 45.149--160.)**
+**(Kể đầy đủ như trong chương về công việc khó nhọc tại SN 45.149--160.)**
 
-> ::: footnotesize
-> Hard work, seeds, and dragons,\
-> a tree, a pot, and a spike,\
-> the atmosphere, and two on clouds,\
-> a ship, a guest house, and a river.
-> :::
+> Công việc khó nhọc, hạt giống, và rồng,\
+> một cái cây, một cái bình, và một cái cọc,\
+> bầu không khí, và hai bài về mây,\
+> một con tàu, một nhà khách, và một dòng sông.
 
 <!--pg-->
-## The Chapter on Searches
+## Chương về các Cuộc Tìm Kiếm
 
-### N 51.67--76 Searches *Esanāvagga*
+### N 51.67--76 Các Cuộc Tìm Kiếm *Esanāvagga*
 
-**(Tell in full as in the chapter on searches at SN 45.161--170.)**
+**(Kể đầy đủ như trong chương về các cuộc tìm kiếm tại SN 45.161--170.)**
 
-> ::: footnotesize
-> Searches, discriminations, defilements,\
-> states of existence, three kinds of suffering,\
-> barrenness, stains, and troubles,\
-> feelings, craving, and thirst.
-> :::
+> Các cuộc tìm kiếm, sự phân biệt, các *lậu hoặc*,\
+> các trạng thái tồn tại, ba loại khổ đau,\
+> sự cằn cỗi, các vết nhơ, và các phiền não,\
+> các *cảm giác*, *tham ái*, và *khát ái*.
 
 <!--pg-->
-## The Chapter on Floods
+## Chương về các Cơn Lũ
 
-### N 51.77--86 Floods, Etc. *Oghavagga*
+### N 51.77--86 Các Cơn Lũ, v.v. *Oghavagga*
 
-"Mendicants, there are five higher fetters. What five? Desire for
-rebirth in the realm of luminous form, desire for rebirth in the
-formless realm, conceit, restlessness, and ignorance. These are the five
-higher fetters.
+"Này các *Tỷ kheo*, có *năm thượng phần xiềng xích* (five higher fetters / uddhambhāgiyāni saṃyojanāni / năm xiềng xích trói buộc chúng sinh vào cõi sắc và vô sắc). Năm điều đó là gì? Ham muốn tái sinh trong cõi sắc giới, ham muốn tái sinh trong cõi vô sắc giới, ngã mạn, bồn chồn, và vô minh. Đây là *năm thượng phần xiềng xích*.
 
-The four bases of psychic power should be developed for the direct
-knowledge, complete understanding, finishing, and giving up of these
-five higher fetters. What four? It's when a mendicant develops the basis
-of psychic power that has immersion due to enthusiasm ... energy ...
-mental development ... inquiry, and active effort. These four bases of
-psychic power should be developed for the direct knowledge, complete
-understanding, finishing, and giving up of these five higher fetters."
+Bốn *nền tảng thần lực* cần được phát triển để *hiểu biết trực tiếp* (direct knowledge / abhiññā / thắng tri), *hiểu biết hoàn toàn* (complete understanding / pariññā / liễu tri), chấm dứt, và từ bỏ *năm thượng phần xiềng xích* này. Bốn điều đó là gì? Đó là khi một *Tỷ kheo* phát triển *nền tảng thần lực* có *Định* do *nhiệt tâm*... *nghị lực*... *phát triển tâm*... *quán chiếu*, và *công phu nỗ lực*. Bốn *nền tảng thần lực* này cần được phát triển để *hiểu biết trực tiếp*, *hiểu biết hoàn toàn*, chấm dứt, và từ bỏ *năm thượng phần xiềng xích* này."
 
-::: small
-*(Tell in full as in the Linked Discourses on the Path at SN
-45\.171--180.)*
-:::
+*(Kể đầy đủ như trong Các Bài Kinh Tương Ưng về Con Đường tại SN 45.171--180.)*
 
-> ::: footnotesize
-> Floods, yokes, grasping,\
-> ties, and underlying tendencies,\
-> kinds of sensual stimulation, hindrances,\
-> aggregates, and fetters high and low.
-> :::
+> Các *cơn lũ*, các ách縛, sự *bám giữ*,\
+> các ràng buộc, và các *ngầm hướng về*,\
+> các loại kích thích giác quan, các *phiền nhiễu*,\
+> các uẩn, và các *xiềng xích* cao và thấp.
 
 
-**The Linked Discourses on the Bases of psychic Power is the seventh section.**
-
+**Các Bài Kinh Tương Ưng về Nền Tảng Thần Lực là phần thứ bảy.**

@@ -1,4 +1,4 @@
-# Các Bài Kinh Tương Ưng về các Năng Lực
+# Tương Ưng về các Năng lực Tinh Thần (indriya)
 
 <!--pg-->
 ## Chương về Phiên Bản Đơn Giản
@@ -12,7 +12,7 @@ Tại đó, Đức Phật dạy:
 "Này các *Tỷ kheo*, có năm *năng lực* (faculties / indriya / khả năng, cơ sở) này. Năm *năng lực* đó là gì? *Năng lực của* đức tin, *nghị lực*, *niệm*, *Định*, và trí tuệ. Đây là năm *năng lực*."
 
 *   **đức tin** (faith / saddhā / niềm tin dựa trên sự hiểu biết, không phải mù quáng)
-*   **nghị lực** (Energy / viriya / Tinh tấn / Nỗ lực, nghị lực, sức mạnh tinh thần)
+*   **nghị lực** (Energy / viriya / Tinh tấn / Nỗ lực, nghị lực, năng lực tinh thần)
 *   **niệm** (mindfulness / sati / quan sát và ghi nhớ)
 *   **Định** (Immersion / samādhi / định / Trạng thái tâm tụ trên một điểm)
 *   **trí tuệ** (wisdom / paññā / sự hiểu biết sâu sắc về bản chất của thực tại)
@@ -197,7 +197,7 @@ Rồi một *Tỷ kheo* đến gặp Đức Phật, đảnh lễ, ngồi xuống
 Chính nhờ phát triển và tu dưỡng năm *năng lực* này mà một *Tỷ kheo* nhận ra *sự giải thoát* (freedom / vimutti / sự giải thoát khỏi khổ đau và vòng luân hồi) không ô nhiễm của tâm và *sự giải thoát* bằng *trí tuệ* ngay trong đời này. Và họ sống sau khi đã nhận ra điều đó bằng tuệ giác của chính mình do sự chấm dứt của các *ô nhiễm*."
 
 <!--pg-->
-## Chương về Sáu Năng Lực
+## Chương về Sáu Giác quan
 
 ### N 48.21 Các Kiếp Sống Tương Lai *Punabbhavasutta*
 
@@ -208,12 +208,12 @@ Nhưng khi Ta đã *biết như thật* về *sự hài lòng*, *sự nguy hại
 Tri kiến và tuệ giác đã khởi lên trong Ta: '*Sự giải thoát* của Ta là không thể lay chuyển; đây là lần tái sinh cuối cùng của Ta; bây giờ sẽ không còn kiếp sống tương lai nào nữa.'"
 
 <!--pg-->
-### N 48.22 Năng Lực của Sự Sống *Jīvitindriyasutta*
+### N 48.22 Năng lực của Sự Sống *Jīvitindriyasutta*
 
 "Này các *Tỷ kheo*, có ba *năng lực* này. Ba *năng lực* đó là gì? *Năng lực của nữ tính* (faculty of femininity / itthindriya), *năng lực của nam tính* (faculty of masculinity / purisindriya), và *năng lực của sự sống* (faculty of life / jīvitindriya / mạng căn). Đây là ba *năng lực*."
 
 <!--pg-->
-### N 48.23 Năng Lực của Giác Ngộ *Aññindriyasutta*
+### N 48.23 Năng lực của Giác Ngộ *Aññindriyasutta*
 
 "Này các *Tỷ kheo*, có ba *năng lực* này. Ba *năng lực* đó là gì? *Năng lực* hiểu rằng sự giác ngộ của mình sắp xảy ra. *Năng lực* của giác ngộ. *Năng lực* của người đã giác ngộ. Đây là ba *năng lực*."
 
@@ -227,49 +227,49 @@ Người nào đã hoàn thành và viên mãn năm *năng lực* này là một
 <!--pg-->
 ### N 48.25 Phiên Bản Đơn Giản *Suddhakasutta*
 
-"Này các *Tỷ kheo*, có sáu *năng lực* này. Sáu *năng lực* đó là gì? *Năng lực của* *mắt, tai, mũi, lưỡi, thân*, và tâm. Đây là sáu *năng lực*."
+"Này các *Tỷ kheo*, có sáu *giác quan* này. Sáu *giác quan* đó là gì? *mắt, tai, mũi, lưỡi, thân*, và *trí não*. Đây là sáu *giác quan*."
 
 <!--pg-->
 ### N 48.26 Người Nhập Dòng *Sotāpannasutta*
 
-"Này các *Tỷ kheo*, có sáu *năng lực* này. Sáu *năng lực* đó là gì? *Năng lực của* *mắt, tai, mũi, lưỡi, thân*, và tâm. Một vị thánh đệ tử *biết như thật* về sự khởi sinh, sự chấm dứt, *sự hài lòng*, *sự nguy hại*, và *lối thoát* của sáu *năng lực* này. Một vị thánh đệ tử như vậy được gọi là *người nhập dòng*, không còn bị tái sinh vào cảnh giới thấp, chắc chắn sẽ giác ngộ."
+"Này các *Tỷ kheo*, có sáu *giác quan* này. Sáu *giác quan* đó là gì?  *mắt, tai, mũi, lưỡi, thân*, và *trí não*. Một vị thánh đệ tử *biết như thật* về sự khởi sinh, sự chấm dứt, *sự hài lòng*, *sự nguy hại*, và *lối thoát* của sáu *giác quan* này. Một vị thánh đệ tử như vậy được gọi là *người nhập dòng*, không còn bị tái sinh vào cảnh giới thấp, chắc chắn sẽ giác ngộ."
 
 <!--pg-->
 ### N 48.27 Bậc Toàn Thiện *Arahantasutta*
 
-"Này các *Tỷ kheo*, có sáu *năng lực* này. Sáu *năng lực* đó là gì? *Năng lực của* *mắt, tai, mũi, lưỡi, thân*, và tâm. Một *Tỷ kheo* được giải thoát nhờ không *bám giữ* sau khi *biết như thật* về sự khởi sinh, sự chấm dứt, *sự hài lòng*, *sự nguy hại*, và *lối thoát* của sáu *năng lực* này.
+"Này các *Tỷ kheo*, có sáu *giác quan* này. Sáu *giác quan* đó là gì? *mắt, tai, mũi, lưỡi, thân*, và *trí não*. Một *Tỷ kheo* được giải thoát nhờ không *bám giữ* sau khi *biết như thật* về sự khởi sinh, sự chấm dứt, *sự hài lòng*, *sự nguy hại*, và *lối thoát* của sáu *giác quan* này.
 
 Một *Tỷ kheo* như vậy được gọi là một bậc *A-la-hán*, với các *ô nhiễm* đã được chấm dứt, người đã hoàn thành hành trình tâm linh, làm những gì cần làm, đặt gánh nặng xuống, đạt được mục tiêu chân chính của mình, hoàn toàn chấm dứt *xiềng xích* của *mong muốn tồn tại*, và được giải thoát một cách đúng đắn nhờ giác ngộ."
 
 <!--pg-->
 ### N 48.28 Giác Ngộ *Sambuddhasutta*
 
-"Này các *Tỷ kheo*, có sáu *năng lực* này. Sáu *năng lực* đó là gì? *Năng lực của* *mắt, tai, mũi, lưỡi, thân*, và tâm.
+"Này các *Tỷ kheo*, có sáu *giác quan* này. Sáu *giác quan* đó là gì? *mắt, tai, mũi, lưỡi, thân*, và *trí não*.
 
-Chừng nào Ta chưa *biết như thật* về *sự hài lòng*, *sự nguy hại*, và *lối thoát* của sáu *năng lực* này, Ta chưa tuyên bố sự giác ngộ hoàn hảo tối thượng của mình trong thế giới này với các vị trời, Ma vương, và Phạm thiên, trong quần chúng này với các sa môn và bà la môn, các vị trời và loài người.
+Chừng nào Ta chưa *biết như thật* về *sự hài lòng*, *sự nguy hại*, và *lối thoát* của sáu *giác quan* này, Ta chưa tuyên bố sự giác ngộ hoàn hảo tối thượng của mình trong thế giới này với các vị trời, Ma vương, và Phạm thiên, trong quần chúng này với các sa môn và bà la môn, các vị trời và loài người.
 
-Nhưng khi Ta đã *biết như thật* về *sự hài lòng*, *sự nguy hại*, và *lối thoát* của sáu *năng lực* này, Ta đã tuyên bố sự giác ngộ hoàn hảo tối thượng của mình trong thế giới này với các vị trời, Ma vương, và Phạm thiên, trong quần chúng này với các sa môn và bà la môn, các vị trời và loài người.
+Nhưng khi Ta đã *biết như thật* về *sự hài lòng*, *sự nguy hại*, và *lối thoát* của sáu *giác quan* này, Ta đã tuyên bố sự giác ngộ hoàn hảo tối thượng của mình trong thế giới này với các vị trời, Ma vương, và Phạm thiên, trong quần chúng này với các sa môn và bà la môn, các vị trời và loài người.
 
 Tri kiến và tuệ giác đã khởi lên trong Ta: '*Sự giải thoát* của Ta là không thể lay chuyển; đây là lần tái sinh cuối cùng của Ta; bây giờ sẽ không còn kiếp sống tương lai nào nữa.'"
 
 <!--pg-->
 ### N 48.29 Sa Môn và Bà La Môn (thứ nhất) *Paṭhamasamaṇabrāhmaṇasutta*
 
-"Này các *Tỷ kheo*, có sáu *năng lực* này. Sáu *năng lực* đó là gì? *Năng lực của* *mắt, tai, mũi, lưỡi, thân*, và tâm.
+"Này các *Tỷ kheo*, có sáu *giác quan* này. Sáu *giác quan* đó là gì? *giác quan* *mắt, tai, mũi, lưỡi, thân*, và *trí não*.
 
-Có những vị sa môn và bà la môn không *biết như thật* về sự khởi sinh, sự chấm dứt, *sự hài lòng*, *sự nguy hại*, và *lối thoát* đối với sáu *năng lực* này. Ta không coi họ là những sa môn và bà la môn chân chính. Những vị tôn giả đó không nhận ra mục tiêu của đời sống sa môn hay bà la môn, và không sống sau khi đã nhận ra điều đó bằng tuệ giác của chính mình.
+Có những vị sa môn và bà la môn không *biết như thật* về sự khởi sinh, sự chấm dứt, *sự hài lòng*, *sự nguy hại*, và *lối thoát* đối với sáu *giác quan* này. Ta không coi họ là những sa môn và bà la môn chân chính. Những vị tôn giả đó không nhận ra mục tiêu của đời sống sa môn hay bà la môn, và không sống sau khi đã nhận ra điều đó bằng tuệ giác của chính mình.
 
-Có những vị sa môn và bà la môn *biết như thật* về sự khởi sinh, sự chấm dứt, *sự hài lòng*, *sự nguy hại*, và *lối thoát* đối với sáu *năng lực* này. Ta coi họ là những sa môn và bà la môn chân chính. Những vị tôn giả đó nhận ra mục tiêu của đời sống sa môn hay bà la môn, và sống sau khi đã nhận ra điều đó bằng tuệ giác của chính mình."
+Có những vị sa môn và bà la môn *biết như thật* về sự khởi sinh, sự chấm dứt, *sự hài lòng*, *sự nguy hại*, và *lối thoát* đối với sáu *giác quan* này. Ta coi họ là những sa môn và bà la môn chân chính. Những vị tôn giả đó nhận ra mục tiêu của đời sống sa môn hay bà la môn, và sống sau khi đã nhận ra điều đó bằng tuệ giác của chính mình."
 
 <!--pg-->
 ### N 48.30 Sa Môn và Bà La Môn (thứ hai) *Dutiyasamaṇabrāhmaṇasutta*
 
-"Này các *Tỷ kheo*, có những vị sa môn và bà la môn không hiểu *mắt căn*, sự khởi sinh, sự chấm dứt của nó, và con đường thực hành dẫn đến sự chấm dứt của nó. Họ không hiểu *năng lực của* tai... *năng lực của* mũi... *năng lực của* lưỡi... *năng lực của* thân... *năng lực của* tâm, sự khởi sinh, sự chấm dứt của nó, và con đường thực hành dẫn đến sự chấm dứt của nó. Ta không coi họ là những sa môn và bà la môn chân chính. Những vị tôn giả đó không nhận ra mục tiêu của đời sống sa môn hay bà la môn, và không sống sau khi đã nhận ra điều đó bằng tuệ giác của chính mình.
+"Này các *Tỷ kheo*, có những vị sa môn và bà la môn không hiểu *giác quan mắt*, sự khởi sinh, sự chấm dứt của nó, và con đường thực hành dẫn đến sự chấm dứt của nó. Họ không hiểu *giác quan tai*... *giác quan mũi*... *giác quan lưỡi*... *giác quan thân*... *giác quan trí não*, sự khởi sinh, sự chấm dứt của nó, và con đường thực hành dẫn đến sự chấm dứt của nó. Ta không coi họ là những sa môn và bà la môn chân chính. Những vị tôn giả đó không nhận ra mục tiêu của đời sống sa môn hay bà la môn, và không sống sau khi đã nhận ra điều đó bằng tuệ giác của chính mình.
 
-Có những vị sa môn và bà la môn hiểu *mắt căn*, sự khởi sinh, sự chấm dứt của nó, và con đường thực hành dẫn đến sự chấm dứt của nó. Họ hiểu *năng lực của* tai... *năng lực của* mũi... *năng lực của* lưỡi... *năng lực của* thân... *năng lực của* tâm, sự khởi sinh, sự chấm dứt của nó, và con đường thực hành dẫn đến sự chấm dứt của nó. Ta coi họ là những sa môn và bà la môn chân chính. Những vị tôn giả đó nhận ra mục tiêu của đời sống sa môn hay bà la môn, và sống sau khi đã nhận ra điều đó bằng tuệ giác của chính mình."
+Có những vị sa môn và bà la môn hiểu *giác quan mắt*, sự khởi sinh, sự chấm dứt của nó, và con đường thực hành dẫn đến sự chấm dứt của nó. Họ hiểu *giác quan tai*... *giác quan mũi*... *giác quan lưỡi*... *giác quan thân*... *giác quan trí não*, sự khởi sinh, sự chấm dứt của nó, và con đường thực hành dẫn đến sự chấm dứt của nó. Ta coi họ là những sa môn và bà la môn chân chính. Những vị tôn giả đó nhận ra mục tiêu của đời sống sa môn hay bà la môn, và sống sau khi đã nhận ra điều đó bằng tuệ giác của chính mình."
 
 <!--pg-->
-## Chương về Năng Lực của Lạc Thọ
+## Chương về Năng lực của Lạc
 
 ### N 48.31 Phiên Bản Đơn Giản *Suddhikasutta*
 
@@ -459,21 +459,21 @@ Rồi, không lâu sau khi ông rời đi, Đức Phật nói với các *Tỷ k
 <!--pg-->
 ### N 48.43 Tại Sāketa *Sāketasutta*
 
-Tôi nghe như vầy. Một thời Đức Phật đang ở gần Sāketa trong công viên nai ở Rừng Añjana. Tại đó, Đức Phật nói với các *Tỷ kheo*: "Này các *Tỷ kheo*, có phương pháp nào mà năm *năng lực* trở thành năm *sức mạnh* (powers / bala / lực), và năm *sức mạnh* trở thành năm *năng lực* không?"
+Tôi nghe như vầy. Một thời Đức Phật đang ở gần Sāketa trong công viên nai ở Rừng Añjana. Tại đó, Đức Phật nói với các *Tỷ kheo*: "Này các *Tỷ kheo*, có phương pháp nào mà năm *năng lực tinh thần* trở thành năm *sức mạnh tinh thần* (powers / bala / lực), và năm *sức mạnh tinh thần* trở thành năm *năng lực tinh thần* không?"
 
 "Giáo pháp của chúng con bắt nguồn từ Đức Phật. Ngài là người dẫn đường và là nơi nương tựa của chúng con. Thưa Ngài, xin Đức Phật hãy làm rõ ý nghĩa của điều này. Các *Tỷ kheo* sẽ lắng nghe và ghi nhớ nó."
 
-"Này các *Tỷ kheo*, có một phương pháp mà năm *năng lực* trở thành năm *sức mạnh*, và năm *sức mạnh* trở thành năm *năng lực*.
+"Này các *Tỷ kheo*, có một phương pháp mà năm *năng lực tinh thần* trở thành năm *sức mạnh tinh thần*, và năm *sức mạnh tinh thần* trở thành năm *năng lực tinh thần*.
 
-Và phương pháp đó là gì? *Năng lực của* *đức tin* là *sức mạnh* của *đức tin*, và *sức mạnh* của *đức tin* là *năng lực của* *đức tin*. *Năng lực của* *nghị lực* là *sức mạnh* của *nghị lực*, và *sức mạnh* của *nghị lực* là *năng lực của* *nghị lực*. *Năng lực của* *niệm* là *sức mạnh* của *niệm*, và *sức mạnh* của *niệm* là *năng lực của* *niệm*. *Năng lực của* *Định* là *sức mạnh* của *Định*, và *sức mạnh* của *Định* là *năng lực của* *Định*. *Năng lực của* *trí tuệ* là *sức mạnh* của *trí tuệ*, và *sức mạnh* của *trí tuệ* là *năng lực của* *trí tuệ*.
+Và phương pháp đó là gì? *Năng lực của* *đức tin* là *sức mạnh* của *đức tin*, và *sức mạnh* của *đức tin* là *năng lực của đức tin*. *Năng lực của nghị lực* là *sức mạnh* của *nghị lực*, và *sức mạnh* của *nghị lực* là *năng lực của nghị lực*. *Năng lực của* *niệm* là *sức mạnh* của *niệm*, và *sức mạnh* của *niệm* là *năng lực của* *niệm*. *Năng lực của* *Định* là *sức mạnh* của *Định*, và *sức mạnh* của *Định* là *năng lực của* *Định*. *Năng lực của* *trí tuệ* là *sức mạnh* của *trí tuệ*, và *sức mạnh* của *trí tuệ* là *năng lực của* *trí tuệ*.
 
-Giả sử có một con sông nghiêng, dốc, và chảy về phía đông, và ở giữa có một hòn đảo. Có một phương pháp mà con sông đó có thể được coi là chỉ có một dòng. Nhưng cũng có một phương pháp mà con sông đó có thể được coi là có hai dòng.
+Giả sử có một con sông nghiêng dốc, và chảy về phía đông, và ở giữa có một hòn đảo. Có một phương pháp mà con sông đó có thể được coi là chỉ có một dòng. Nhưng cũng có một phương pháp mà con sông đó có thể được coi là có hai dòng.
 
 Và phương pháp mà con sông đó có thể được coi là chỉ có một dòng là gì? Bằng cách tính đến nước ở phía đông và phía tây của hòn đảo, con sông đó có thể được coi là chỉ có một dòng.
 
 Và phương pháp mà con sông đó có thể được coi là có hai dòng là gì? Bằng cách tính đến nước ở phía bắc và phía nam của hòn đảo, con sông đó có thể được coi là có hai dòng.
 
-Bằng phương pháp tương tự, *năng lực của* *đức tin* là *sức mạnh* của *đức tin*, và *sức mạnh* của *đức tin* là *năng lực của* *đức tin*. *Năng lực của* *nghị lực* là *sức mạnh* của *nghị lực*, và *sức mạnh* của *nghị lực* là *năng lực của* *nghị lực*. *Năng lực của* *niệm* là *sức mạnh* của *niệm*, và *sức mạnh* của *niệm* là *năng lực của* *niệm*. *Năng lực của* *Định* là *sức mạnh* của *Định*, và *sức mạnh* của *Định* là *năng lực của* *Định*. *Năng lực của* *trí tuệ* là *sức mạnh* của *trí tuệ*, và *sức mạnh* của *trí tuệ* là *năng lực của* *trí tuệ*.
+Bằng phương pháp tương tự, *Năng lực của* *đức tin* là *sức mạnh* của *đức tin*, và *sức mạnh* của *đức tin* là *năng lực của đức tin*. *Năng lực của nghị lực* là *sức mạnh* của *nghị lực*, và *sức mạnh* của *nghị lực* là *năng lực của nghị lực*. *Năng lực của* *niệm* là *sức mạnh* của *niệm*, và *sức mạnh* của *niệm* là *năng lực của* *niệm*. *Năng lực của* *Định* là *sức mạnh* của *Định*, và *sức mạnh* của *Định* là *năng lực của* *Định*. *Năng lực của* *trí tuệ* là *sức mạnh* của *trí tuệ*, và *sức mạnh* của *trí tuệ* là *năng lực của* *trí tuệ*.
 
 Chính nhờ phát triển và tu dưỡng năm *năng lực* này mà một *Tỷ kheo* nhận ra *sự giải thoát* không ô nhiễm của tâm và *sự giải thoát* bằng *trí tuệ* ngay trong đời này. Và họ sống sau khi đã nhận ra điều đó bằng tuệ giác của chính mình do sự chấm dứt của các *ô nhiễm*."
 
@@ -484,7 +484,7 @@ Tôi nghe như vầy. Một thời Đức Phật đang ở Sāvatthī tại cổ
 
 "Sāriputta, ông có *đức tin* rằng *năng lực của* *đức tin*, *nghị lực*, *niệm*, *Định*, và *trí tuệ*, khi được phát triển và tu dưỡng, sẽ đạt đến đỉnh cao, kết thúc, và chấm dứt trong *sự giải thoát* khỏi cái chết không?"
 
-"Thưa Ngài, trong trường hợp này, con không dựa vào *đức tin* vào lời tuyên bố của Đức Phật rằng *năng lực của* *đức tin*, *nghị lực*, *niệm*, *Định*, và *trí tuệ*, khi được phát triển và tu dưỡng, sẽ đạt đến đỉnh cao, kết thúc, và chấm dứt trong *sự giải thoát* khỏi cái chết. Có những người chưa biết, chưa thấy, chưa hiểu, chưa nhận ra, hoặc chưa trải nghiệm điều này bằng *trí tuệ*. Họ có thể dựa vào *đức tin* trong vấn đề này. Nhưng có những người đã biết, đã thấy, đã hiểu, đã nhận ra, và đã trải nghiệm điều này bằng *trí tuệ*. Họ không có nghi ngờ hay bất định nào trong vấn đề này. Con đã biết, đã thấy, đã hiểu, đã nhận ra, và đã trải nghiệm điều này bằng *trí tuệ*. Con không có nghi ngờ hay bất định nào rằng *năng lực của* *đức tin*, *nghị lực*, *niệm*, *Định*, và *trí tuệ*, khi được phát triển và tu dưỡng, sẽ đạt đến đỉnh cao, kết thúc, và chấm dứt trong *sự giải thoát* khỏi cái chết."
+"Thưa Thế Tôn, trong trường hợp này, con không dựa trên *niềm tin* vào lời tuyên bố của Đức Phật rằng *năng lực của* *đức tin*, *nghị lực*, *niệm*, *Định*, và *trí tuệ*, khi được phát triển và tu dưỡng, sẽ đạt đến đỉnh cao, kết thúc, và chấm dứt trong *sự giải thoát* khỏi cái chết. Có những người chưa biết, chưa thấy, chưa hiểu, chưa nhận ra, hoặc chưa trải nghiệm điều này bằng *trí tuệ* thì họ có thể dựa vào *đức tin*. Nhưng có những người đã biết, đã thấy, đã hiểu, đã nhận ra, và đã trải nghiệm điều này bằng *trí tuệ*. Họ không có nghi ngờ hay bất định nào trong vấn đề này. Con đã biết, đã thấy, đã hiểu, đã nhận ra, và đã trải nghiệm điều này bằng *trí tuệ*. Con không có nghi ngờ hay bất định nào rằng *năng lực của* *đức tin*, *nghị lực*, *niệm*, *Định*, và *trí tuệ*, khi được phát triển và tu dưỡng, sẽ đạt đến đỉnh cao, kết thúc, và chấm dứt trong *sự giải thoát* khỏi cái chết."
 
 "Tốt lắm, tốt lắm, Sāriputta! Có những người chưa biết, chưa thấy, chưa hiểu, chưa nhận ra, hoặc chưa trải nghiệm điều này bằng *trí tuệ*. Họ có thể dựa vào *đức tin* trong vấn đề này. Nhưng có những người đã biết, đã thấy, đã hiểu, đã nhận ra, và đã trải nghiệm điều này bằng *trí tuệ*. Họ không có nghi ngờ hay bất định nào rằng *năng lực của* *đức tin*, *nghị lực*, *niệm*, *Định*, và *trí tuệ*, khi được phát triển và tu dưỡng, sẽ đạt đến đỉnh cao, kết thúc, và chấm dứt trong *sự giải thoát* khỏi cái chết."
 
@@ -562,15 +562,15 @@ Tôi nghe như vầy. Một thời Đức Phật đang ở xứ Aṅga, gần th
 
 "Sāriputta, một vị thánh đệ tử chắc chắn và tận tâm với *Như Lai* có bất kỳ nghi ngờ hay bất định nào về *Như Lai* hay giáo huấn của Ngài không?"
 
-"Thưa Ngài, một vị thánh đệ tử chắc chắn và tận tâm với *Như Lai* sẽ không có nghi ngờ hay bất định nào về *Như Lai* hay giáo huấn của Ngài.
+"Thưa Thế Tôn, một vị thánh đệ tử chắc chắn và tận tâm với *Như Lai* sẽ không có nghi ngờ hay bất định nào về *Như Lai* hay giáo huấn của Ngài.
 
-Ngài có thể mong đợi rằng một vị thánh đệ tử có *đức tin* sẽ sống với *nghị lực* được khơi dậy để từ bỏ những phẩm chất bất thiện và đón nhận những phẩm chất thiện. Họ mạnh mẽ, kiên trì, không lơ là trong việc phát triển các phẩm chất thiện. Vì *nghị lực* của họ là *năng lực của* *nghị lực*.
+Thế Tôn có thể mong đợi rằng một vị thánh đệ tử có *đức tin* sẽ sống với *nghị lực* được khơi dậy để từ bỏ những phẩm chất bất thiện và đón nhận những phẩm chất thiện. Họ mạnh mẽ, kiên trì, không lơ là trong việc phát triển các phẩm chất thiện. Vì *nghị lực* của họ là *năng lực của* *nghị lực*.
 
-Ngài có thể mong đợi rằng một vị thánh đệ tử có *đức tin* và *nghị lực* sẽ có *niệm*, với *niệm* và sự tỉnh táo tối đa, có thể nhớ lại những gì đã nói và làm từ lâu. Vì *niệm* của họ là *năng lực của* *niệm*.
+Thế Tôn có thể mong đợi rằng một vị thánh đệ tử có *đức tin* và *nghị lực* sẽ có *niệm*, với *niệm* và sự tỉnh táo tối đa, có thể nhớ lại những gì đã nói và làm từ lâu. Vì *niệm* của họ là *năng lực của* *niệm*.
 
-Ngài có thể mong đợi rằng một vị thánh đệ tử có *đức tin*, *nghị lực*, và *niệm* sẽ, dựa vào sự buông bỏ, đạt được *Định*, đạt được sự hợp nhất của tâm. Vì samādhi của họ là *năng lực của* *Định*.
+Thế Tôn có thể mong đợi rằng một vị thánh đệ tử có *đức tin*, *nghị lực*, và *niệm* sẽ, dựa vào sự buông bỏ, đạt được *Định*, đạt được sự hợp nhất của tâm. Vì samādhi của họ là *năng lực của* *Định*.
 
-Ngài có thể mong đợi rằng một vị thánh đệ tử có *đức tin*, *nghị lực*, *niệm* với tâm *đắm chìm trong định* sẽ hiểu điều này: 'Luân hồi không có khởi đầu được biết đến. Không tìm thấy điểm khởi đầu nào của chúng sinh lang thang và luân hồi, bị vô minh che lấp và bị ái dục trói buộc. Nhưng khi khối vô minh đen tối đó phai nhạt và chấm dứt không còn dư sót, trạng thái đó là bình yên và cao siêu. Đó là, sự lắng dịu của mọi hoạt động, sự buông bỏ mọi chấp trước, sự chấm dứt của ái dục, sự phai nhạt, sự chấm dứt, *sự dập tắt*.' Vì *trí tuệ* cao quý của họ là *năng lực của* *trí tuệ*.
+Thế Tôn có thể mong đợi rằng một vị thánh đệ tử có *đức tin*, *nghị lực*, *niệm* với tâm *đắm chìm trong định* sẽ hiểu điều này: 'Luân hồi không có khởi đầu được biết đến. Không tìm thấy điểm khởi đầu nào của chúng sinh lang thang và luân hồi, bị vô minh che lấp và bị ái dục trói buộc. Nhưng khi khối vô minh đen tối đó phai nhạt và chấm dứt không còn dư sót, trạng thái đó là bình yên và cao siêu. Đó là, sự lắng dịu của mọi hoạt động, sự buông bỏ mọi chấp trước, sự chấm dứt của ái dục, sự phai nhạt, sự chấm dứt, *sự dập tắt*.' Vì *trí tuệ* cao quý của họ là *năng lực của* *trí tuệ*.
 
 Khi một vị thánh đệ tử đã cố gắng nhiều lần, *nhớ nghĩ* (recollection / anussati / niệm / nhớ nghĩ về điều gì đó) nhiều lần, nhập *Định* nhiều lần, và hiểu bằng *trí tuệ* nhiều lần, họ sẽ tự tin về điều này: 'Trước đây tôi đã nghe về những điều này. Nhưng bây giờ tôi có kinh nghiệm thiền định trực tiếp về chúng, và thấy chúng bằng *trí tuệ* thấu suốt.' Vì *đức tin* của họ là *năng lực của* *đức tin*."
 
@@ -585,9 +585,9 @@ Sāriputta, một vị thánh đệ tử chắc chắn và tận tâm với *Nh�
 
 ### N 48.51 Tại Sālā *Sālasutta*
 
-Tôi nghe như vầy. Một thời Đức Phật đang ở xứ Kosala gần làng bà la môn Sālā. Tại đó, Đức Phật nói với các *Tỷ kheo*: "Này các *Tỷ kheo*, sư tử, vua của các loài thú, được cho là tốt nhất trong các loài vật về sức mạnh, tốc độ, và lòng dũng cảm. Tương tự như vậy, *năng lực của* *trí tuệ* được cho là tốt nhất trong các phẩm chất dẫn đến giác ngộ về mặt trở nên giác ngộ.
+Tôi nghe như vầy. Một thời Đức Phật đang ở xứ Kosala gần làng bà la môn Sālā. Tại đó, Đức Phật nói với các *Tỷ kheo*: "Này các *Tỷ kheo*, sư tử, vua của các loài thú, được cho là tốt nhất trong các loài vật về năng lực, tốc độ, và lòng dũng cảm. Tương tự như vậy, *năng lực của* *trí tuệ* được cho là tốt nhất trong các phẩm chất dẫn đến giác ngộ về mặt trở nên giác ngộ.
 
-Và những phẩm chất dẫn đến giác ngộ là gì? *Năng lực của* *đức tin*, *nghị lực*, *niệm*, *Định*, và *trí tuệ* là những phẩm chất dẫn đến giác ngộ, ở chỗ chúng dẫn đến việc trở nên giác ngộ. Sư tử, vua của các loài thú, được cho là tốt nhất trong các loài vật về sức mạnh, tốc độ, và lòng dũng cảm. Tương tự như vậy, *năng lực của* *trí tuệ* được cho là tốt nhất trong các phẩm chất dẫn đến giác ngộ về mặt trở nên giác ngộ."
+Và những phẩm chất dẫn đến giác ngộ là gì? *Năng lực của* *đức tin*, *nghị lực*, *niệm*, *Định*, và *trí tuệ* là những phẩm chất dẫn đến giác ngộ, ở chỗ chúng dẫn đến việc trở nên giác ngộ. Sư tử, vua của các loài thú, được cho là tốt nhất trong các loài vật về năng lực, tốc độ, và lòng dũng cảm. Tương tự như vậy, *năng lực của* *trí tuệ* được cho là tốt nhất trong các phẩm chất dẫn đến giác ngộ về mặt trở nên giác ngộ."
 
 <!--pg-->
 ### N 48.52 Tại Xứ Malla *Mallikasutta*
@@ -619,7 +619,7 @@ Hơn nữa, một *Tỷ kheo* là một vị hữu học hiểu năm *năng lự
 
 Và cách nào để một *Tỷ kheo* là một vị vô học có thể hiểu rằng mình là một vị vô học? Đó là khi một *Tỷ kheo* là một vị vô học hiểu năm *năng lực*: *đức tin*, *nghị lực*, *niệm*, *Định*, và *trí tuệ*. Họ có kinh nghiệm thiền định trực tiếp về đích đến, đỉnh cao, kết quả, và sự viên mãn của chúng, và họ thấy chúng bằng *trí tuệ* thấu suốt. Đây là một cách để một *Tỷ kheo* là một vị vô học có thể hiểu rằng mình là một vị vô học.
 
-Hơn nữa, một *Tỷ kheo* là một vị vô học hiểu sáu *năng lực*: mắt, tai, mũi, lưỡi, thân, và tâm. Họ hiểu: 'Sáu *năng lực* này sẽ hoàn toàn và tuyệt đối chấm dứt không còn dư sót. Và không có sáu *năng lực* nào khác sẽ phát sinh ở bất cứ đâu, bất cứ cách nào.' Đây cũng là một cách để một *Tỷ kheo* là một vị vô học có thể hiểu rằng mình là một vị vô học."
+Hơn nữa, một *Tỷ kheo* là một vị vô học hiểu sáu *giác quan*: mắt, tai, mũi, lưỡi, thân, và trí não. Họ hiểu: 'Sáu *giác quan* này sẽ hoàn toàn và tuyệt đối chấm dứt không còn dư sót. Và không có sáu *giác quan* nào khác sẽ phát sinh ở bất cứ đâu, bất cứ cách nào.' Đây cũng là một cách để một *Tỷ kheo* là một vị vô học có thể hiểu rằng mình là một vị vô học."
 
 <!--pg-->
 ### N 48.54 Dấu Chân *Padasutta*
@@ -666,15 +666,15 @@ Một thời Đức Phật đang ở gần Rājagaha, trên núi Linh Thứu tro
 
 "Sāriputta, xét đến lợi ích nào mà một *Tỷ kheo* đã chấm dứt các *ô nhiễm*, trong khi vẫn còn sống, tiếp tục thể hiện lòng tận tâm tối đa đối với *Như Lai* hoặc giáo huấn của Ngài?"
 
-"Thưa Ngài, chính là xét đến nơi nương tựa tối cao khỏi ách縛 mà một *Tỷ kheo* đã chấm dứt các *ô nhiễm*, trong khi vẫn còn sống, tiếp tục thể hiện lòng tận tâm tối đa đối với *Như Lai* hoặc giáo huấn của Ngài."
+"Thưa Ngài, chính là xét đến nơi nương tựa tối cao khỏi khổ ách mà một *Tỷ kheo* đã chấm dứt các *ô nhiễm*, trong khi vẫn còn sống, tiếp tục thể hiện lòng tận tâm tối đa đối với *Như Lai* hoặc giáo huấn của Ngài."
 
-"Tốt lắm, tốt lắm, Sāriputta! Vì chính là xét đến nơi nương tựa tối cao khỏi ách縛 mà một *Tỷ kheo* đã chấm dứt các *ô nhiễm*, trong khi vẫn còn sống, tiếp tục thể hiện lòng tận tâm tối đa đối với *Như Lai* hoặc giáo huấn của Ngài.
+"Tốt lắm, tốt lắm, Sāriputta! Vì chính là xét đến nơi nương tựa tối cao khỏi khổ ách mà một *Tỷ kheo* đã chấm dứt các *ô nhiễm*, trong khi vẫn còn sống, tiếp tục thể hiện lòng tận tâm tối đa đối với *Như Lai* hoặc giáo huấn của Ngài.
 
-Và nơi nương tựa tối cao khỏi ách縛 đó là gì?"
+Và nơi nương tựa tối cao khỏi khổ ách đó là gì?"
 
-"Đó là khi một *Tỷ kheo* đã chấm dứt các *ô nhiễm* phát triển *năng lực của* *đức tin*, *nghị lực*, *niệm*, *Định*, và *trí tuệ*, dẫn đến sự bình an và giác ngộ. Chính là xét đến nơi nương tựa tối cao khỏi ách縛 này mà một *Tỷ kheo* đã chấm dứt các *ô nhiễm*, trong khi vẫn còn sống, tiếp tục thể hiện lòng tận tâm tối đa đối với *Như Lai* hoặc giáo huấn của Ngài."
+"Đó là khi một *Tỷ kheo* đã chấm dứt các *ô nhiễm* phát triển *năng lực của* *đức tin*, *nghị lực*, *niệm*, *Định*, và *trí tuệ*, dẫn đến sự bình an và giác ngộ. Chính là xét đến nơi nương tựa tối cao khỏi khổ ách này mà một *Tỷ kheo* đã chấm dứt các *ô nhiễm*, trong khi vẫn còn sống, tiếp tục thể hiện lòng tận tâm tối đa đối với *Như Lai* hoặc giáo huấn của Ngài."
 
-"Tốt lắm, tốt lắm, Sāriputta! Vì đây chính là nơi nương tựa tối cao khỏi ách縛 đó.
+"Tốt lắm, tốt lắm, Sāriputta! Vì đây chính là nơi nương tựa tối cao khỏi khổ ách đó.
 
 Và lòng tận tâm tối đa mà một *Tỷ kheo* đã chấm dứt các *ô nhiễm*, trong khi vẫn còn sống, tiếp tục thể hiện đối với *Như Lai* hoặc giáo huấn của Ngài là gì?"
 
@@ -769,12 +769,10 @@ Trong tất cả các loại cây thuộc về các vị trời của cõi Ba M�
 
 Làm thế nào? Đó là khi một *Tỷ kheo* phát triển *năng lực của* *đức tin*, *nghị lực*, *niệm*, *Định*, và *trí tuệ*, mà dựa vào sự xa lìa, sự phai nhạt, và sự chấm dứt, và chín muồi thành sự buông bỏ. Đó là cách một *Tỷ kheo* phát triển và tu dưỡng năm *năng lực* sẽ nghiêng, dốc, và hướng về *sự dập tắt*."
 
-> ::: footnotesize
 > Sáu bài về hướng về phía đông,\
 > và sáu bài về hướng ra biển;\
 > hai lần sáu này là mười hai,\
 > và đó là cách chương này được tụng.
-> :::
 
 <!--pg-->
 ## Chương về Tinh Cần
@@ -783,12 +781,10 @@ Làm thế nào? Đó là khi một *Tỷ kheo* phát triển *năng lực của
 
 **(Kể đầy đủ như trong chương về tinh cần tại SN 45.139--148.)**
 
-> ::: footnotesize
 > *Như Lai*, dấu chân, đỉnh mái,\
 > rễ, lõi cây, hoa nhài,\
 > quân vương, mặt trời và mặt trăng,\
 > và tấm vải là thứ mười.
-> :::
 
 <!--pg-->
 ## Chương về Nỗ Lực
@@ -797,12 +793,10 @@ Làm thế nào? Đó là khi một *Tỷ kheo* phát triển *năng lực của
 
 **(Kể đầy đủ như trong chương về nỗ lực tại SN 45.149--160.)**
 
-> ::: footnotesize
 > Nỗ lực, hạt giống, và rồng,\
 > một cái cây, một cái bình, và một cái cọc,\
 > bầu khí quyển, và hai bài về mây,\
 > một con tàu, một nhà khách, và một con sông.
-> :::
 
 <!--pg-->
 ## Chương về Tìm Kiếm
@@ -811,12 +805,10 @@ Làm thế nào? Đó là khi một *Tỷ kheo* phát triển *năng lực của
 
 **(Kể đầy đủ như trong chương về tìm kiếm tại SN 45.161--170.)**
 
-> ::: footnotesize
 > Tìm kiếm, phân biệt, *ô nhiễm*,\
 > các trạng thái tồn tại, ba loại khổ đau,\
 > sự cằn cỗi, vết bẩn, và rắc rối,\
 > *cảm giác*, ái dục, và khát khao.
-> :::
 
 <!--pg-->
 ## Chương về các Cơn Lũ
@@ -831,7 +823,7 @@ Năm *năng lực* này nên được phát triển để *hiểu biết trực 
 
 *(Kể đầy đủ như trong Các Bài Kinh Tương Ưng về Con Đường, SN 45.171--179, với đoạn trên là bài kinh cuối cùng.)*
 
-> *Cơn lũ*, ách縛, *bám giữ*,\
+> *Cơn lũ*, khổ ách, *bám giữ*,\
 > ràng buộc, và *ngầm hướng về*,\
 > các loại kích thích giác quan, *phiền nhiễu*,\
 > các uẩn, và các *xiềng xích* cao và thấp.
@@ -885,7 +877,7 @@ Năm *năng lực* nên được phát triển để *hiểu biết trực tiế
 
 Năm *năng lực* này nên được phát triển để *hiểu biết trực tiếp*, *hiểu biết hoàn toàn*, chấm dứt, và từ bỏ năm *xiềng xích* cao hơn này."
 
-> *Cơn lũ*, ách縛, *bám giữ*,\
+> *Cơn lũ*, khổ ách, *bám giữ*,\
 > ràng buộc, và *ngầm hướng về*,\
 > các loại kích thích giác quan, *phiền nhiễu*,\
 > các uẩn, và các *xiềng xích* cao và thấp.

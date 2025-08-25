@@ -1,8 +1,9 @@
 # 50. TƯƠNG ƯNG LỰC
 
+<!--pg-->
 ## I. Phẩm Sông Hằng Rộng Thuyết
 
-**1.I Viễn Ly** (S.v,249)
+### 1.I Viễn Ly (S.v,249)
 
 1\. ...
 ## 2) − C ó năm lực này, này các Tỷ-kheo. Thế nào là năm? Tín lực, tấn lực, niệm lực, định lực, tuệ lực.
@@ -19,7 +20,8 @@ Những pháp này, này các Tỷ-kheo, là năm lực.
 5\. Cũng vậy, này các Tỷ-kheo, Tỷ-kheo tu tập năm lực, làm cho sung mãn năm lực, thiên về Niết-bàn,
 hướng về Niết-bàn, xuôi về Niết-bàn.
 
-**2-12.II-XII** (S.v,250)
+<!--pg-->
+### 2-12.II-XII (S.v,250)
 
 (Tóm tắt đề kinh: Sáu thiên về phương Ðông, sáu thiên về biển, sông Hằng thành mười hai, tên phẩm là
 như vậy).
@@ -33,17 +35,19 @@ Gồm các kinh :
 Như Lai, Bàn Chân, Nóc Nhà, Cội Gốc, Lõi Cây, Hạ Sanh Hoa, Vua, Mặt Trăng, Mặt Trời, Vải; gồm tất
 cả là mười.
 
+<!--pg-->
 ## III. Phẩm Sức Mạnh (Viễn Ly)
 
-**23-34.I-XII** (S.v,250)
+### 23-34.I-XII (S.v,250)
 
 Gồm các kinh:
 
 Lực, Chủng Tử, Long, Cây, Ghè, Mặt Trời, Hư Không, hai kinh Mây, Thuyền, Khách, Sông.
 
+<!--pg-->
 ## IV. Phẩm Tầm Cầu
 
-**35-46.I-XII Viễn Ly** (S.v,250)
+### 35-46.I-XII Viễn Ly (S.v,250)
 
 Gồm các kinh :
 
@@ -55,7 +59,6 @@ Tầm Cầu, Kiêu Mạn, Lậu Hoặc, Hữu, Khổ, Ba Uế Nhiễm, Chướng
 
 ### 47-55.I-IX. Viễn Ly (S.v,251)
 
-<!--pg-->
 ### 56.X. Thượng Phần Kiết Sử (S.v,251)
 
 1\. ...
@@ -72,9 +75,10 @@ lực này cần phải tu tập.
 
 Bộc Lưu, ưch Chấp Thủ, Tay, Tùy Miên, Dục Công Ðức, Triều Cái, Uẩn Thượng, Hạ Phần Kiết Sử).
 
+<!--pg-->
 ## VI. Phẩm Sông Hằng Rộng Thuyết
 
-**57.I.** (S.v,251) Tham
+### 57.I. (S.v,251) Tham
 
 1\. ...
 
@@ -88,11 +92,12 @@ Niết-bàn?
 phục sân, với mục đích nhiếp phục si... Cũng vậy, này các Tỷ-kheo, Tỷ-kheo tu tập năm lực, làm cho
 sung mãn năm lực, thiên về Niết-bàn, hướng về Niết-bàn, xuôi về Niết-bàn.
 
-**58-68.II-XII.** (S.v,252)
+### 58-68.II-XII. (S.v,252)
 
 (Tóm tắt đề kinh: Sáu thiên về phương Ðông, hai thiên về biển và sông Hằng thành mười hai. Tên phẩm
 là như vậy).
 
+<!--pg-->
 ## VII. Phẩm Không Phóng Dật
 
 **69-78.II-XII.** (S.v,252) Tham
@@ -100,27 +105,29 @@ là như vậy).
 Gồm các kinh: Như Lai, Chân, Nóc Nhọn, Rễ, Lõi, Hạ Sanh Hoa, Vua, Mặt Trăng, Mặt Trời, Vải, tất cả
 là mười.
 
+<!--pg-->
 ## VIII. Phẩm Lực
 
-**79-90.I-XII.** (S.v,252) Tham
+### 79-90.I-XII. (S.v,252) Tham
 
 Gồm các kinh :
 
 Lực. Chủng Tử, Long, Cây, Ghè, Mặt Trời, Hư Không, hai kinh Mây, Thuyền, Khách, Sông.
 
+<!--pg-->
 ## IX. Phẩm Tầm Cầu
 
-**91-100.I-X.** (S.v,252) Tham
+### 91-100.I-X. (S.v,252) Tham
 
 Gồm các kinh:
 
 Tầm Cầu, Mạn, Lậu Hoặc, Hữu, Khổ, Ba Chướng Ngại, Cấu Uế, Dao Ðộng, Thọ, Ái.
 
+<!--pg-->
 ## X. Phẩm Bộc Lưu
 
-**101-109 I-IX** (S.v,53) Tham
+### 101-109 I-IX (S.v,53) Tham
 
-<!--pg-->
 ### 110.X. Thượng Phần Kiết Sử (S.v,243)
 
 1\. ...

@@ -1446,7 +1446,6 @@ sử này, năm căn này cần phải tu tập.
 phục sân, với cứu cánh nhiếp phục si... tu tập tuệ căn với cứu cánh... nhiếp phục si. Cũng vậy, Tỷ-kheo...
 thiên về Niết-bàn, hướng về Niết-bàn, xuôi về Niết-bàn.
 
-<!--pg-->
 ### 130-140. II-XII. (S.v,242)
 
 (Tóm tắt đề kinh : Sáu thiên về phía Ðông, sáu thiên về biển, sông Hằng thành mười hai, phẩm được đặt
@@ -1472,7 +1471,6 @@ tên như vậy).
 
 ### 176-184. I-IX. Tham (S.v,242)
 
-<!--pg-->
 ### 185. X. Thượng Phần Kiết Sử (S.v,242)
 
 1\. ...
