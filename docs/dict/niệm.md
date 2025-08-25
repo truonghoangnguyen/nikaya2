@@ -118,7 +118,8 @@ Nếu bạn có thêm chi tiết hoặc muốn tôi giải thích một khía c�
 
 @
 
-http://localhost:5173/kinhtuongung/c-sujato-tmc-vi/46-tuong-ung-giac-chi.html
+`http://localhost:5173/kinhtuongung/c-sujato-tmc-vi/46-tuong-ung-giac-chi.html`
+
  Và điều gì là nhiên liệu cho sự phát sinh của yếu tố giác ngộ về niệm, hoặc, khi đã phát sinh, phát triển nó một cách đầy đủ? Đó là những điều là cơ sở cho yếu tố giác ngộ về niệm. Thường xuyên như lý tác ý (apply the mind rationally / suy nghĩ với trí tuệ) về chúng sẽ là nhiên liệu cho sự phát sinh của yếu tố giác ngộ về niệm, hoặc, khi đã phát sinh, phát triển nó một cách đầy đủ.
 # @
 Cảm ơn bạn đã chia sẻ suy nghĩ sâu sắc của mình, N! Tôi rất đánh giá cao cách bạn tổng hợp và phân tích các khái niệm Phật giáo ban đầu này với tinh thần khoa học – giống như một nhà nghiên cứu đang kiểm chứng giả thuyết dựa trên dữ liệu từ kinh điển và từ điển. Chúng ta sẽ cùng xem xét lại từ **sati** (dịch là "niệm" trong tiếng Việt) trong các ngữ cảnh bạn đề cập: Tứ niệm xứ (Satipaṭṭhāna), Bát chánh đạo (Ariya aṭṭhaṅgika magga), Thất giác chi (Bojjhaṅga‑satta), Ngũ căn (Indriya‑pañca), và Ngũ lực (Bala‑pañca). Tôi sẽ dựa trên các nguồn đáng tin cậy như *Pali-English Dictionary* (Rhys Davids & Stede), *A Dictionary of Pali* (Margaret Cone), và các kinh điển Pali gốc (từ Tipitaka, như Majjhima Nikaya và Samyutta Nikaya), để phân tích một cách có hệ thống và khách quan.
