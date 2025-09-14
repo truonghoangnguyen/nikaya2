@@ -49,12 +49,10 @@ fourth absorption.
 That's how a mendicant who develops and cultivates the four absorptions
 slants, slopes, and inclines to extinguishment."
 
-> ::: footnotesize
 > Six on slanting to the east,\
 > and six on slanting to the ocean;\
 > these two sixes make twelve,\
 > and that's how this chapter is recited.
-> :::
 
 <!--pg-->
 ## The Chapter on Diligence
@@ -63,12 +61,10 @@ slants, slopes, and inclines to extinguishment."
 
 **(Tell in full as in the chapter on diligence at SN 45.139--148.)**
 
-> ::: footnotesize
 > The Realized One, footprint, roof peak,\
 > roots, heartwood, jasmine,\
 > monarch, sun and moon,\
 > and cloth is the tenth.
-> :::
 
 <!--pg-->
 ## The Chapter on Hard Work
@@ -77,12 +73,10 @@ slants, slopes, and inclines to extinguishment."
 
 **(Tell in full as in the chapter on hard work at SN 45.149--160.)**
 
-> ::: footnotesize
 > Hard work, seeds, and dragons,\
 > a tree, a pot, and a spike,\
 > the atmosphere, and two on clouds,\
 > a ship, a guest house, and a river.
-> :::
 
 <!--pg-->
 ## The Chapter on Searches
@@ -91,12 +85,10 @@ slants, slopes, and inclines to extinguishment."
 
 **(Tell in full as in the chapter on searches at SN 45.161--170.)**
 
-> ::: footnotesize
 > Searches, discriminations, defilements,\
 > states of existence, three kinds of suffering,\
 > barrenness, stains, and troubles,\
 > feelings, craving, and thirst.
-> :::
 
 <!--pg-->
 ## The Chapter on Floods
@@ -119,17 +111,13 @@ second absorption ... third absorption ... fourth absorption. These four
 absorptions should be developed for the direct knowledge, complete
 understanding, finishing, and giving up of these five higher fetters."
 
-::: small
 *(Tell in full as in the Linked Discourses on the Path at SN
 45\.171--180.)*
-:::
 
-> ::: footnotesize
 > Floods, yokes, grasping,\
 > ties, and underlying tendencies,\
 > kinds of sensual stimulation, hindrances,\
 > aggregates, and fetters high and low.
-> :::
 
 
 

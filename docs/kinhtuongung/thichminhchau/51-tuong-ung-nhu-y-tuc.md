@@ -539,7 +539,7 @@ việc không chấm dứt.
 chung, con trọn đời quy ngưỡng!
 
 <!--pg-->
-### 16.VI. Sa-Môn, Bà-La-Môn hay Ðại Thần Thông (S.v,273)
+### 16\.VI. Sa-Môn, Bà-La-Môn hay Ðại Thần Thông (S.v,273)
 
 1\. ...
 
@@ -586,7 +586,8 @@ làm cho sung mãn bốn như ý túc. Thế nào là bốn?
 thực hiện nhiều loại thần thông... thực hiện nhiều loại thần thông...; tất cả những vị ấy đều nhờ tu tập,
 nhờ làm cho sung mãn bốn như ý túc này.
 
-**18.VIII Tỷ Kheo** (S.v,275)
+<!--pg-->
+### 18.VIII Tỷ Kheo (S.v,275)
 
 1\. ...
 
@@ -900,22 +901,27 @@ trong hiện tại, tự mình chứng ngộ, chứng đạt và an trú vô l�
 
 (Giống như kinh 31. Chỉ khác, đây là Như Lai)
 
+<!--pg-->
 ## IV. Phẩm Sông Hằng Rộng Thuyết
 
-**33.I - 44 XII** (S.v,290-291.
+### 33.I - 44 XII (S.v,290-291.
 
+<!--pg-->
 ## V. Phẩm Không Phóng Dật
 
 **45 - 54.I-X.** (S.v,291)
 
+<!--pg-->
 ## VI. Phẩm Việc Làm Cần Sức Mạnh
 
 **55 - 66.I-XII.** (S.v,291)
 
+<!--pg-->
 ## VII. Phẩm Tầm Cầu
 
 **67 - 76.I-X.** (S.v,291)
 
+<!--pg-->
 ## VIII. Phẩm Bộc Lưu
 
 **77 - 85.I-IX.** (S.v,292)

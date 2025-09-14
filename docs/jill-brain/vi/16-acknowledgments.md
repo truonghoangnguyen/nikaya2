@@ -1,0 +1,13 @@
+# LỜI CẢM ƠN
+
+Tôi biết ơn mạng lưới tuyệt vời của những người thân thiết cũng như toàn thể cộng đồng TED. Mọi người đã yêu thương và ủng hộ tôi trong suốt những năm qua, khi nội dung này chuyển mình từ một sự hiểu biết cơ bản về Bốn Nhân Cách trở thành một bước ngoặt thật sự trong cách chúng ta suy nghĩ về tâm lý học, ý thức, và mối liên hệ của chúng với cấu trúc giải phẫu nền tảng của bộ não. Xin gửi lời cảm ơn chân thành đến mỗi người vì tất cả những góc nhìn sâu sắc và sự ủng hộ hết lòng của các bạn.
+
+Lòng biết ơn sâu sắc nhất của tôi xin gửi đến Patti Lynn Polk. Nhờ có chị mà cuốn sách này trở nên sâu sắc và đa dạng hơn rất nhiều so với những gì tôi có thể tự mình viết ra. Sự ủng hộ, khiếu hài hước, và sự thông tuệ của chị về tài liệu này qua góc nhìn của một người có Nhân Cách 1 là chủ đạo không chỉ giúp tôi mở rộng hiểu biết về sự vận động của Bốn Nhân Cách, mà còn giúp mở rộng cuộc thảo luận này đến những khía cạnh quan trọng và sâu xa trong xã hội mà một mình tôi sẽ không thể tự bước vào. Có chị ở bên, vừa là người để tôi tham vấn ý tưởng vừa là động lực thúc đẩy, cùng với kiến thức, kinh nghiệm, và cả những trải nghiệm và va chạm của chị với Bốn Nhân Cách của chính mình (cũng như của tôi), đã giúp tôi đào sâu sự thấu hiểu về nội dung này theo những cách vô cùng giá trị. Tôi vô cùng biết ơn sự ủng hộ, tình yêu, thời gian, năng lượng, và sự cống hiến hết mình của chị trong việc giúp tôi đưa những nội dung này từ trong tâm trí, ra trang giấy, và đến với thế giới.
+
+Anne Barthel, thật may mắn biết bao khi có chị là biên tập viên của tôi tại Hay House cho tác phẩm này. Thật đáng kinh ngạc, chúng ta đã giữ được sự tập trung và gắn kết ngay cả khi đại dịch Covid hoành hành xung quanh. Cảm ơn chị đã mang đến sự tinh tế và sáng rõ vừa đủ cho dự án này. Cảm ơn chị đã cho tôi đủ không gian để tự do khám phá, đồng thời có những tinh chỉnh vừa đủ để giữ tôi đi đúng hướng. Chị đã làm rất tốt việc định hướng cho cả tôi lẫn khối tài liệu này, và khoảng thời gian chúng ta làm việc cùng nhau qua Zoom thật sự là một niềm vui lớn.
+
+Cảm ơn Michele Gingras, vì đã góp một con mắt tinh tường đến từng chi tiết cho bản thảo, giúp tôi tập trung vào khía cạnh ngữ nghĩa, trong khi đó, Helene Tivemark, chị là một sự đối trọng tuyệt vời đã liên tục giúp tôi quay trở lại với góc nhìn tổng thể của khối nội dung vô cùng đa dạng này.
+
+Ellen Stiefler, chị thực sự rất tuyệt vời trong vai trò người đại diện/luật sư của tôi, và tôi rất mong chờ dự án tiếp theo của chúng ta.
+
+Và cuối cùng, xin gửi lời cảm ơn đặc biệt đến Reid Tracy, Patty Gift, và toàn thể đội ngũ tại Hay House. Cảm ơn mọi người vì sự kiên nhẫn, ủng hộ, và sự cống hiến hết mình cho dự án này.

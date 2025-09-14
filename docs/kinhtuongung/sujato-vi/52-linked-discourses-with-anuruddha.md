@@ -1,410 +1,211 @@
-# Linked Discourses with Anuruddha
+# Tương Ưng Bộ Kinh với Anuruddha
 
 <!--pg-->
-## The Chapter on In Private
+## Chương Về Nơi Vắng Vẻ
 
-### N 52.1 In Private (1st) *Paṭhamarahogatasutta*
+### N 52.1 Nơi Vắng Vẻ (Thứ nhất) *Paṭhamarahogatasutta*
 
-So I have heard. At one time Venerable Anuruddha was
-staying near Sāvatthī in Jeta's Grove,
-Anāthapiṇḍika's monastery. Then as Anuruddha was in private
-retreat this thought came to his mind:
+Như vầy tôi nghe. Một thời Tôn giả Anuruddha đang ở gần Sāvatthī, tại Rừng Jeta, tu viện của Anāthapiṇḍika. Khi ấy, trong lúc Tôn giả Anuruddha đang độc cư, một ý nghĩ nảy lên trong tâm ngài:
 
-"Whoever has missed out on these four kinds of mindfulness meditation
-has missed out on the noble path to the complete ending of suffering.
-Whoever has undertaken these four kinds of mindfulness meditation has
-undertaken the noble path to the complete ending of suffering."
+"Ai bỏ lỡ *bốn niệm xứ* (the four kinds of mindfulness meditation / cattāro satipaṭṭhānā / *tứ niệm xứ* / bốn chủ đề để thực hành sự quan sát và ghi nhớ) này là đã bỏ lỡ con đường cao quý dẫn đến sự chấm dứt hoàn toàn khổ đau. Ai đã thực hành *bốn niệm xứ* này là đã thực hành con đường cao quý dẫn đến sự chấm dứt hoàn toàn khổ đau."
 
-Then Venerable Mahāmoggallāna knew what Venerable Anuruddha
-was thinking. As easily as a strong person would extend or contract
-their arm, he reappeared in front of Anuruddha, and said to him:
+Khi ấy, Tôn giả Mahāmoggallāna biết được Tôn giả Anuruddha đang nghĩ gì. Dễ dàng như một người khỏe mạnh duỗi ra hay co lại cánh tay, ngài hiện ra trước mặt Tôn giả Anuruddha và nói:
 
-"Reverend Anuruddha, how do you define the undertaking of the four kinds
-of mindfulness meditation by a mendicant?"
+"Thưa Tôn giả Anuruddha, ngài định nghĩa việc thực hành *bốn niệm xứ* của một *Tỷ kheo* như thế nào?"
 
-"Reverend, it's when a mendicant meditates observing the body internally
-as liable to originate, as liable to vanish, and as liable to originate
-and vanish---keen, aware, and mindful, rid of covetousness and
-displeasure for the world. They meditate observing the body externally
-as liable to originate, as liable to vanish, and as liable to originate
-and vanish---keen, aware, and mindful, rid of covetousness and
-displeasure for the world. They meditate observing the body internally
-and externally as liable to originate, as liable to vanish, and as
-liable to originate and vanish---keen, aware, and mindful, rid of
-covetousness and displeasure for the world.
+"Thưa Tôn giả, đó là khi một *Tỷ kheo* an trú quan sát thân bên trong với bản chất sinh khởi, với bản chất đoạn diệt, và với bản chất vừa sinh khởi vừa đoạn diệt—nhiệt tâm, tỉnh giác, và chánh niệm, loại bỏ tham ái và ưu phiền đối với thế gian. Vị ấy an trú quan sát thân bên ngoài với bản chất sinh khởi, với bản chất đoạn diệt, và với bản chất vừa sinh khởi vừa đoạn diệt—nhiệt tâm, tỉnh giác, và chánh niệm, loại bỏ tham ái và ưu phiền đối với thế gian. Vị ấy an trú quan sát thân cả bên trong và bên ngoài với bản chất sinh khởi, với bản chất đoạn diệt, và với bản chất vừa sinh khởi vừa đoạn diệt—nhiệt tâm, tỉnh giác, và chánh niệm, loại bỏ tham ái và ưu phiền đối với thế gian.
 
-If they wish: 'May I meditate perceiving the repulsive in the
-unrepulsive,' that's what they do. If they wish: 'May I meditate
-perceiving the unrepulsive in the repulsive,' that's what they do. If
-they wish: 'May I meditate perceiving the repulsive in the unrepulsive
-and the repulsive,' that's what they do. If they wish: 'May I meditate
-perceiving the unrepulsive in the repulsive and the unrepulsive,' that's
-what they do. If they wish: 'May I meditate staying equanimous, mindful
-and aware, rejecting both the repulsive and the unrepulsive,' that's
-what they do.
+Nếu vị ấy muốn: ‘Mong rằng tôi sẽ an trú nhận thức cái bất tịnh trong cái không bất tịnh,’ vị ấy thực hành như vậy. Nếu vị ấy muốn: ‘Mong rằng tôi sẽ an trú nhận thức cái không bất tịnh trong cái bất tịnh,’ vị ấy thực hành như vậy. Nếu vị ấy muốn: ‘Mong rằng tôi sẽ an trú nhận thức cái bất tịnh trong cái không bất tịnh và cái bất tịnh,’ vị ấy thực hành như vậy. Nếu vị ấy muốn: ‘Mong rằng tôi sẽ an trú nhận thức cái không bất tịnh trong cái bất tịnh và cái không bất tịnh,’ vị ấy thực hành như vậy. Nếu vị ấy muốn: ‘Mong rằng tôi sẽ an trú trong *Xả* (Equanimity / upekkhā / Quan sát về cảm giác thích, ghét, trung tính ở trên tâm), chánh niệm và tỉnh giác, loại bỏ cả cái bất tịnh và cái không bất tịnh,’ vị ấy thực hành như vậy.
 
-They meditate observing feelings internally ... externally ...
-internally and externally as liable to originate, as liable to vanish,
-and as liable to originate and vanish ...
+Vị ấy an trú quan sát *cảm giác* (feeling / vedanā / thọ) bên trong... bên ngoài... cả bên trong và bên ngoài với bản chất sinh khởi, với bản chất đoạn diệt, và với bản chất vừa sinh khởi vừa đoạn diệt...
 
-They meditate observing the mind internally ... externally ...
-internally and externally as liable to originate, as liable to vanish,
-and as liable to originate and vanish ...
+Vị ấy an trú quan sát *tâm* bên trong... bên ngoài... cả bên trong và bên ngoài với bản chất sinh khởi, với bản chất đoạn diệt, và với bản chất vừa sinh khởi vừa đoạn diệt...
 
-They meditate observing principles internally ... externally ...
-internally and externally as liable to originate, as liable to vanish,
-and as liable to originate and vanish ...
+Vị ấy an trú quan sát *pháp* bên trong... bên ngoài... cả bên trong và bên ngoài với bản chất sinh khởi, với bản chất đoạn diệt, và với bản chất vừa sinh khởi vừa đoạn diệt...
 
-If they wish: 'May I meditate perceiving the repulsive in the
-unrepulsive,' that's what they do. ... If they wish: 'May I meditate
-staying equanimous, mindful and aware, ignoring both the repulsive and
-the unrepulsive,' that's what they do.
+Nếu vị ấy muốn: ‘Mong rằng tôi sẽ an trú nhận thức cái bất tịnh trong cái không bất tịnh,’ vị ấy thực hành như vậy. ... Nếu vị ấy muốn: ‘Mong rằng tôi sẽ an trú trong *Xả*, chánh niệm và tỉnh giác, bỏ qua cả cái bất tịnh và cái không bất tịnh,’ vị ấy thực hành như vậy.
 
-That's how to define the undertaking of the four kinds of mindfulness
-meditation by a mendicant."
+Đó là cách định nghĩa việc thực hành *bốn niệm xứ* của một *Tỷ kheo*."
 
 <!--pg-->
-### N 52.2 In Private (2nd) *Dutiyarahogatasutta*
+### N 52.2 Nơi Vắng Vẻ (Thứ hai) *Dutiyarahogatasutta*
 
-At Sāvatthī.
+Tại Sāvatthī.
 
-Then as Anuruddha was in private retreat this thought came to his mind:
+Khi ấy, trong lúc Tôn giả Anuruddha đang độc cư, một ý nghĩ nảy lên trong tâm ngài:
 
-"Whoever has missed out on these four kinds of mindfulness meditation
-has missed out on the noble path to the complete ending of suffering.
-Whoever has undertaken these four kinds of mindfulness meditation has
-undertaken the noble path to the complete ending of suffering."
+"Ai bỏ lỡ *bốn niệm xứ* này là đã bỏ lỡ con đường cao quý dẫn đến sự chấm dứt hoàn toàn khổ đau. Ai đã thực hành *bốn niệm xứ* này là đã thực hành con đường cao quý dẫn đến sự chấm dứt hoàn toàn khổ đau."
 
-Then Venerable Mahāmoggallāna knew what Venerable Anuruddha
-was thinking. As easily as a strong person would extend or contract
-their arm, he reappeared in front of Anuruddha and said to him:
+Khi ấy, Tôn giả Mahāmoggallāna biết được Tôn giả Anuruddha đang nghĩ gì. Dễ dàng như một người khỏe mạnh duỗi ra hay co lại cánh tay, ngài hiện ra trước mặt Tôn giả Anuruddha và nói:
 
-"Reverend Anuruddha, how do you define the undertaking of the four kinds
-of mindfulness meditation by a mendicant?"
+"Thưa Tôn giả Anuruddha, ngài định nghĩa việc thực hành *bốn niệm xứ* của một *Tỷ kheo* như thế nào?"
 
-"Reverend, it's when a mendicant meditates by observing an aspect of the
-body internally---keen, aware, and mindful, rid of covetousness and
-displeasure for the world. They meditate observing an aspect of the body
-externally ... internally and externally---keen, aware, and mindful, rid
-of covetousness and displeasure for the world.
+"Thưa Tôn giả, đó là khi một *Tỷ kheo* *an trú quan sát một khía cạnh của thân trên thân* bên trong—nhiệt tâm, tỉnh giác, và chánh niệm, loại bỏ tham ái và ưu phiền đối với thế gian. Vị ấy *an trú quan sát một khía cạnh của thân trên thân* bên ngoài... cả bên trong và bên ngoài—nhiệt tâm, tỉnh giác, và chánh niệm, loại bỏ tham ái và ưu phiền đối với thế gian.
 
-They meditate observing an aspect of feelings internally ... externally
-... internally and externally ...
+Vị ấy *an trú quan sát một khía cạnh của cảm giác trên cảm giác* bên trong... bên ngoài... cả bên trong và bên ngoài...
 
-They meditate observing an aspect of the mind internally ... externally
-... internally and externally ...
+Vị ấy *an trú quan sát một khía cạnh của tâm trên tâm* bên trong... bên ngoài... cả bên trong và bên ngoài...
 
-They meditate observing an aspect of principles internally ...
-externally ... internally and externally---keen, aware, and mindful, rid
-of covetousness and displeasure for the world. That's how to define the
-undertaking of the four kinds of mindfulness meditation by a mendicant."
+Vị ấy *an trú quan sát một khía cạnh của pháp trên pháp* bên trong... bên ngoài... cả bên trong và bên ngoài—nhiệt tâm, tỉnh giác, và chánh niệm, loại bỏ tham ái và ưu phiền đối với thế gian. Đó là cách định nghĩa việc thực hành *bốn niệm xứ* của một *Tỷ kheo*."
 
 <!--pg-->
-### N 52.3 On the Bank of the Sutanu *Sutanusutta*
+### N 52.3 Bên Bờ Sông Sutanu *Sutanusutta*
 
-At one time Venerable Anuruddha was staying near Sāvatthī
-on the bank of the Sutanu. Then several mendicants went up to Venerable
-Anuruddha, and exchanged greetings with him. When the greetings and
-polite conversation were over, they sat down to one side, and said to
-him:
+Một thời Tôn giả Anuruddha đang ở gần Sāvatthī, bên bờ sông Sutanu. Khi ấy, một vài vị *Tỷ kheo* đến gặp Tôn giả Anuruddha và chào hỏi ngài. Sau khi chào hỏi và trò chuyện thân mật, họ ngồi xuống một bên và nói với ngài:
 
-"What things has Venerable Anuruddha developed and cultivated to attain
-great direct knowledge?"
+"Tôn giả Anuruddha đã phát triển và tu tập những điều gì để đạt được sự *hiểu biết trực tiếp* (direct knowledge / abhiññā / thắng tri) vĩ đại?"
 
-"Reverends, I attained great direct knowledge by developing and
-cultivating the four kinds of mindfulness meditation. What four? I
-meditate observing an aspect of the body---keen, aware, and mindful, rid
-of covetousness and displeasure for the world. I meditate observing an
-aspect of feelings ... mind ... principles---keen, aware, and mindful,
-rid of covetousness and displeasure for the world. I attained great
-direct knowledge by developing and cultivating these four kinds of
-mindfulness meditation.
+"Thưa các Tôn giả, tôi đã đạt được sự *hiểu biết trực tiếp* vĩ đại bằng cách phát triển và tu tập *bốn niệm xứ*. Bốn điều đó là gì? Tôi *an trú quan sát một khía cạnh của thân trên thân*—nhiệt tâm, tỉnh giác, và chánh niệm, loại bỏ tham ái và ưu phiền đối với thế gian. Tôi *an trú quan sát một khía cạnh của cảm giác trên cảm giác*... *tâm*... *pháp*—nhiệt tâm, tỉnh giác, và chánh niệm, loại bỏ tham ái và ưu phiền đối với thế gian. Tôi đã đạt được sự *hiểu biết trực tiếp* vĩ đại bằng cách phát triển và tu tập *bốn niệm xứ* này.
 
-And it was by developing and cultivating these four kinds of mindfulness
-meditation that I directly knew the lower realm as lower, the middle
-realm as middle, and the higher realm as higher."
+Và chính nhờ phát triển và tu tập *bốn niệm xứ* này mà tôi đã trực tiếp biết cõi thấp là cõi thấp, cõi trung là cõi trung, và cõi cao là cõi cao."
 
 <!--pg-->
-### N 52.4 At Thorny Wood (1st) *Paṭhamakaṇḍakīsutta*
+### N 52.4 Tại Rừng Gai (Thứ nhất) *Paṭhamakaṇḍakīsutta*
 
-At one time the venerables Anuruddha, Sāriputta, and
-Mahāmoggallāna were staying near Sāketa, in
-the Thorny Wood. Then in the late afternoon, Sāriputta and
-Mahāmoggallāna came out of retreat, went to Anuruddha, and
-exchanged greetings with him. When the greetings and polite conversation
-were over, they sat down to one side. Sāriputta said to
-Anuruddha:
+Một thời, các Tôn giả Anuruddha, Sāriputta, và Mahāmoggallāna đang ở gần Sāketa, trong Rừng Gai. Chiều hôm đó, Tôn giả Sāriputta và Mahāmoggallāna ra khỏi nơi độc cư, đến gặp Tôn giả Anuruddha và chào hỏi ngài. Sau khi chào hỏi và trò chuyện thân mật, họ ngồi xuống một bên. Tôn giả Sāriputta nói với Tôn giả Anuruddha:
 
-"Reverend Anuruddha, what things should a trainee mendicant enter and
-remain in?"
+"Thưa Tôn giả Anuruddha, một vị Tỷ kheo hữu học nên nhập và an trú vào những điều gì?"
 
-"Reverend Sāriputta, a trainee mendicant should enter and
-remain in the four kinds of mindfulness meditation. What four? It's when
-a mendicant meditates by observing an aspect of the body---keen, aware,
-and mindful, rid of covetousness and displeasure for the world. They
-meditate observing an aspect of feelings ... mind ... principles---keen,
-aware, and mindful, rid of covetousness and displeasure for the world. A
-trainee mendicant should enter and remain in these four kinds of
-mindfulness meditation."
+"Thưa Tôn giả Sāriputta, một vị Tỷ kheo hữu học nên nhập và an trú vào *bốn niệm xứ*. Bốn điều đó là gì? Đó là khi một *Tỷ kheo* *an trú quan sát một khía cạnh của thân trên thân*—nhiệt tâm, tỉnh giác, và chánh niệm, loại bỏ tham ái và ưu phiền đối với thế gian. Vị ấy *an trú quan sát một khía cạnh của cảm giác trên cảm giác*... *tâm*... *pháp*—nhiệt tâm, tỉnh giác, và chánh niệm, loại bỏ tham ái và ưu phiền đối với thế gian. Một vị Tỷ kheo hữu học nên nhập và an trú vào *bốn niệm xứ* này."
 
 <!--pg-->
-### N 52.5 At Thorny Wood (2nd) *Dutiyakaṇḍakīsutta*
+### N 52.5 Tại Rừng Gai (Thứ hai) *Dutiyakaṇḍakīsutta*
 
-At Sāketa. Sāriputta said to Anuruddha:
+Tại Sāketa. Tôn giả Sāriputta nói với Tôn giả Anuruddha:
 
-"Reverend Anuruddha, what things should a mendicant who is an adept
-enter and remain in?"
+"Thưa Tôn giả Anuruddha, một vị *Tỷ kheo* đã là bậc vô học nên nhập và an trú vào những điều gì?"
 
-"Reverend Sāriputta, a mendicant who is an adept should
-enter and remain in the four kinds of mindfulness meditation. What four?
-It's when a mendicant meditates by observing an aspect of the
-body---keen, aware, and mindful, rid of covetousness and displeasure for
-the world. They meditate observing an aspect of feelings ... mind ...
-principles---keen, aware, and mindful, rid of covetousness and
-displeasure for the world. A mendicant who is an adept should enter and
-remain in these four kinds of mindfulness meditation."
+"Thưa Tôn giả Sāriputta, một vị *Tỷ kheo* đã là bậc vô học nên nhập và an trú vào *bốn niệm xứ*. Bốn điều đó là gì? Đó là khi một *Tỷ kheo* *an trú quan sát một khía cạnh của thân trên thân*—nhiệt tâm, tỉnh giác, và chánh niệm, loại bỏ tham ái và ưu phiền đối với thế gian. Vị ấy *an trú quan sát một khía cạnh của cảm giác trên cảm giác*... *tâm*... *pháp*—nhiệt tâm, tỉnh giác, và chánh niệm, loại bỏ tham ái và ưu phiền đối với thế gian. Một vị *Tỷ kheo* đã là bậc vô học nên nhập và an trú vào *bốn niệm xứ* này."
 
 <!--pg-->
-### N 52.6 At Thorny Wood (3rd) *Tatiyakaṇḍakīsutta*
+### N 52.6 Tại Rừng Gai (Thứ ba) *Tatiyakaṇḍakīsutta*
 
-At Sāketa. Sāriputta said to Anuruddha:
+Tại Sāketa. Tôn giả Sāriputta nói với Tôn giả Anuruddha:
 
-"What things has Venerable Anuruddha developed and cultivated to attain
-great direct knowledge?"
+"Tôn giả Anuruddha đã phát triển và tu tập những điều gì để đạt được sự *hiểu biết trực tiếp* vĩ đại?"
 
-"Reverend, I attained great direct knowledge by developing and
-cultivating the four kinds of mindfulness meditation. What four? I
-meditate observing an aspect of the body---keen, aware, and mindful, rid
-of covetousness and displeasure for the world. I meditate observing an
-aspect of feelings ... mind ... principles---keen, aware, and mindful,
-rid of covetousness and displeasure for the world. I attained great
-direct knowledge by developing and cultivating these four kinds of
-mindfulness meditation.
+"Thưa Tôn giả, tôi đã đạt được sự *hiểu biết trực tiếp* vĩ đại bằng cách phát triển và tu tập *bốn niệm xứ*. Bốn điều đó là gì? Tôi *an trú quan sát một khía cạnh của thân trên thân*—nhiệt tâm, tỉnh giác, và chánh niệm, loại bỏ tham ái và ưu phiền đối với thế gian. Tôi *an trú quan sát một khía cạnh của cảm giác trên cảm giác*... *tâm*... *pháp*—nhiệt tâm, tỉnh giác, và chánh niệm, loại bỏ tham ái và ưu phiền đối với thế gian. Tôi đã đạt được sự *hiểu biết trực tiếp* vĩ đại bằng cách phát triển và tu tập *bốn niệm xứ* này.
 
-And it's because of developing and cultivating these four kinds of
-mindfulness meditation that I directly know the thousandfold galaxy."
+Và chính nhờ phát triển và tu tập *bốn niệm xứ* này mà tôi trực tiếp biết được hệ một ngàn thiên hà."
 
 <!--pg-->
-### N 52.7 The Ending of Craving *Taṇhākkhayasutta*
+### N 52.7 Sự Chấm Dứt Ái Dục *Taṇhākkhayasutta*
 
-At Sāvatthī.
+Tại Sāvatthī.
 
-There Venerable Anuruddha addressed the mendicants: "Reverends,
-mendicants!"
+Tại đó, Tôn giả Anuruddha nói với các vị *Tỷ kheo*: "Này các Tôn giả, các *Tỷ kheo*!"
 
-"Reverend," they replied. Anuruddha said this:
+"Thưa Tôn giả," họ đáp. Tôn giả Anuruddha nói:
 
-"Reverends, when these four kinds of mindfulness meditation are
-developed and cultivated they lead to the ending of craving. What four?
-It's when a mendicant meditates by observing an aspect of the body ...
-feelings ... mind ... principles---keen, aware, and mindful, rid of
-covetousness and displeasure for the world. When these four kinds of
-mindfulness meditation are developed and cultivated they lead to the
-ending of craving."
+"Này các Tôn giả, khi *bốn niệm xứ* này được phát triển và tu tập, chúng sẽ dẫn đến sự chấm dứt ái dục. Bốn điều đó là gì? Đó là khi một *Tỷ kheo* *an trú quan sát một khía cạnh của thân trên thân*... *cảm giác*... *tâm*... *pháp*—nhiệt tâm, tỉnh giác, và chánh niệm, loại bỏ tham ái và ưu phiền đối với thế gian. Khi *bốn niệm xứ* này được phát triển và tu tập, chúng sẽ dẫn đến sự chấm dứt ái dục."
 
 <!--pg-->
-### N 52.8 The Frankincense-Tree Hut *Salaḷāgārasutta*
+### N 52.8 Cốc Cây Trầm Hương *Salaḷāgārasutta*
 
-At one time Venerable Anuruddha was staying near Sāvatthī
-in the frankincense-tree hut. There Venerable Anuruddha addressed the
-mendicants: "Reverends, suppose that, although the Ganges river slants,
-slopes, and inclines to the east, a large crowd were to come along with
-a spade and basket, saying: 'We'll make this Ganges river slant, slope,
-and incline to the west!' What do you think, reverends? Would they
-succeed?"
+Một thời Tôn giả Anuruddha đang ở gần Sāvatthī, trong cốc cây trầm hương. Tại đó, Tôn giả Anuruddha nói với các vị *Tỷ kheo*: "Này các Tôn giả, giả sử sông Hằng chảy nghiêng, dốc và xuôi về phía đông, rồi một đám đông lớn mang theo cuốc và thúng đến, nói rằng: ‘Chúng ta sẽ làm cho sông Hằng này chảy nghiêng, dốc và xuôi về phía tây!’ Các Tôn giả nghĩ sao? Liệu họ có thành công không?"
 
-"No, reverend. Why is that? The Ganges river slants, slopes, and
-inclines to the east. It's not easy to make it slant, slope, and incline
-to the west. That large crowd will eventually get weary and frustrated."
+"Thưa không, Tôn giả. Tại sao vậy? Sông Hằng vốn chảy nghiêng, dốc và xuôi về phía đông. Không dễ gì làm cho nó chảy nghiêng, dốc và xuôi về phía tây. Đám đông lớn đó cuối cùng sẽ mệt mỏi và nản lòng."
 
-"In the same way, while a mendicant develops and cultivates the four
-kinds of mindfulness meditation, if rulers or their chief ministers,
-friends or colleagues, relatives or family should invite them to accept
-wealth, saying: 'Please, worthy man, why let these ocher robes torment
-you? Why follow the practice of shaving your head and carrying an alms
-bowl? Come, return to a lesser life, enjoy wealth, and make merit!'
+"Cũng vậy, khi một *Tỷ kheo* đang phát triển và tu tập *bốn niệm xứ*, nếu các vị vua chúa hay đại thần, bạn bè hay đồng nghiệp, bà con hay gia đình mời gọi vị ấy nhận lấy của cải, nói rằng: ‘Này người đáng kính, sao lại để những tấm y vàng này làm khổ ông? Sao lại theo hạnh cạo đầu và mang bình bát? Hãy trở về đời sống thấp hơn, hưởng thụ của cải và tạo công đức!’
 
-It is quite impossible for a mendicant who is developing and cultivating
-the four kinds of mindfulness meditation to resign the training and
-return to a lesser life. Why is that? Because for a long time that
-mendicant's mind has slanted, sloped, and inclined to seclusion. So it's
-impossible for them to return to a lesser life.
+Hoàn toàn không thể có chuyện một *Tỷ kheo* đang phát triển và tu tập *bốn niệm xứ* lại từ bỏ việc tu tập và trở về đời sống thấp hơn. Tại sao vậy? Bởi vì từ lâu, *tâm* của vị *Tỷ kheo* đó đã nghiêng, dốc và xuôi về sự viễn ly. Vì vậy, không thể nào vị ấy trở về đời sống thấp hơn được.
 
-And how does a mendicant develop and cultivate the four kinds of
-mindfulness meditation? It's when a mendicant meditates by observing an
-aspect of the body ... feelings ... mind ... principles---keen, aware,
-and mindful, rid of covetousness and displeasure for the world. That's
-how a mendicant develops and cultivates the four kinds of mindfulness
-meditation."
+Và một *Tỷ kheo* phát triển và tu tập *bốn niệm xứ* như thế nào? Đó là khi một *Tỷ kheo* *an trú quan sát một khía cạnh của thân trên thân*... *cảm giác*... *tâm*... *pháp*—nhiệt tâm, tỉnh giác, và chánh niệm, loại bỏ tham ái và ưu phiền đối với thế gian. Đó là cách một *Tỷ kheo* phát triển và tu tập *bốn niệm xứ*."
 
 <!--pg-->
-### N 52.9 In Ambapālī's Mango Grove *Ambapālivanasutta*
+### N 52.9 Trong Vườn Xoài của Ambapālī *Ambapālivanasutta*
 
-At one time the venerables Anuruddha and Sāriputta were
-staying near Vesālī, in Ambapālī's Mango
-Grove. Then in the late afternoon, Sāriputta came out of
-retreat, went to Anuruddha, and said to him:
+Một thời, các Tôn giả Anuruddha và Sāriputta đang ở gần Vesālī, trong Vườn Xoài của Ambapālī. Chiều hôm đó, Tôn giả Sāriputta ra khỏi nơi độc cư, đến gặp Tôn giả Anuruddha và nói:
 
-"Reverend Anuruddha, your faculties are so very clear, and your
-complexion is pure and bright. What kind of meditation are you usually
-practicing these days?"
+"Thưa Tôn giả Anuruddha, các giác quan của ngài thật trong sáng, và sắc diện của ngài thật thanh tịnh và rạng rỡ. Dạo này ngài thường thực hành loại thiền định nào?"
 
-"These days, reverend, I usually meditate with my mind firmly
-established in the four kinds of mindfulness meditation. What four? I
-meditate observing an aspect of the body ... feelings ... mind ...
-principles---keen, aware, and mindful, rid of covetousness and
-displeasure for the world. These days I usually meditate with my mind
-firmly established in these four kinds of mindfulness meditation. A
-mendicant who is perfected---with defilements ended, who has completed
-the spiritual journey, done what had to be done, laid down the burden,
-achieved their own true goal, utterly ended the fetter of continued
-existence, and is rightly freed through enlightenment---usually
-meditates with their mind firmly established in these four kinds of
-mindfulness meditation."
+"Thưa Tôn giả, dạo này tôi thường an trú với *tâm* được thiết lập vững chắc trong *bốn niệm xứ*. Bốn điều đó là gì? Tôi *an trú quan sát một khía cạnh của thân trên thân*... *cảm giác*... *tâm*... *pháp*—nhiệt tâm, tỉnh giác, và chánh niệm, loại bỏ tham ái và ưu phiền đối với thế gian. Dạo này tôi thường an trú với *tâm* được thiết lập vững chắc trong *bốn niệm xứ* này. Một *Tỷ kheo* đã hoàn thiện—đã chấm dứt các ô nhiễm, đã hoàn thành hành trình tâm linh, đã làm những gì cần làm, đã đặt gánh nặng xuống, đã đạt được mục tiêu chân chính của mình, đã hoàn toàn chấm dứt *xiềng xích* (The fetters / saṃyojana / *kiết sử* / cái cùm, xiềng xích, là các ô nhiễm gốc rễ sâu trong tâm) của sự tồn tại tiếp diễn, và được giải thoát đúng đắn nhờ giác ngộ—thường an trú với *tâm* được thiết lập vững chắc trong *bốn niệm xứ* này."
 
-"We're so fortunate, reverend, so very fortunate, to have heard such a
-dramatic statement in the presence of Venerable Anuruddha."
+"Chúng tôi thật may mắn, thưa Tôn giả, thật vô cùng may mắn, khi được nghe một lời tuyên bố hùng hồn như vậy trước sự hiện diện của Tôn giả Anuruddha."
 
 <!--pg-->
-### N 52.10 Gravely Ill *Bāḷhagilānasutta*
+### N 52.10 Bệnh Nặng *Bāḷhagilānasutta*
 
-At one time Venerable Anuruddha was staying near Sāvatthī
-in the Dark Forest. And he was sick, suffering, gravely ill. Then
-several mendicants went up to Venerable Anuruddha, and said to him:
+Một thời Tôn giả Anuruddha đang ở gần Sāvatthī, trong Rừng Tối. Và ngài bị bệnh, đau đớn, bệnh rất nặng. Khi ấy, một vài vị *Tỷ kheo* đến gặp Tôn giả Anuruddha và nói với ngài:
 
-"What meditation does Venerable Anuruddha practice so that physical pain
-doesn't occupy his mind?"
+"Tôn giả Anuruddha thực hành thiền định nào để những cơn đau thể xác không chiếm lĩnh được tâm trí ngài?"
 
-"Reverends, I meditate with my mind firmly established in the four kinds
-of mindfulness meditation so that physical pain doesn't occupy my mind.
-What four? I meditate observing an aspect of the body ... feelings ...
-mind ... principles---keen, aware, and mindful, rid of covetousness and
-displeasure for the world. I meditate with my mind firmly established in
-these four kinds of mindfulness meditation so that physical pain doesn't
-occupy my mind."
+"Thưa các Tôn giả, tôi an trú với *tâm* được thiết lập vững chắc trong *bốn niệm xứ* để những cơn đau thể xác không chiếm lĩnh được tâm trí tôi. Bốn điều đó là gì? Tôi *an trú quan sát một khía cạnh của thân trên thân*... *cảm giác*... *tâm*... *pháp*—nhiệt tâm, tỉnh giác, và chánh niệm, loại bỏ tham ái và ưu phiền đối với thế gian. Tôi an trú với *tâm* được thiết lập vững chắc trong *bốn niệm xứ* này để những cơn đau thể xác không chiếm lĩnh được tâm trí tôi."
 
 <!--pg-->
-## Chapter Two
+## Chương Hai
 
-### N 52.11 A Thousand Eons *Kappasahassasutta*
+### N 52.11 Một Ngàn Kiếp *Kappasahassasutta*
 
-At one time Venerable Anuruddha was staying near Sāvatthī
-in Jeta's Grove, Anāthapiṇḍika's monastery. Then several
-mendicants went up to Venerable Anuruddha, exchanged greetings with him
-... and said:
+Một thời Tôn giả Anuruddha đang ở gần Sāvatthī, tại Rừng Jeta, tu viện của Anāthapiṇḍika. Khi ấy, một vài vị *Tỷ kheo* đến gặp Tôn giả Anuruddha, chào hỏi ngài... và nói:
 
-"What things has Venerable Anuruddha developed and cultivated to attain
-great direct knowledge?"
+"Tôn giả Anuruddha đã phát triển và tu tập những điều gì để đạt được sự *hiểu biết trực tiếp* vĩ đại?"
 
-"Reverends, I attained great direct knowledge by developing and
-cultivating the four kinds of mindfulness meditation. What four? I
-meditate observing an aspect of the body ... feelings ... mind ...
-principles---keen, aware, and mindful, rid of covetousness and
-displeasure for the world. I attained great direct knowledge by
-developing and cultivating these four kinds of mindfulness meditation.
+"Thưa các Tôn giả, tôi đã đạt được sự *hiểu biết trực tiếp* vĩ đại bằng cách phát triển và tu tập *bốn niệm xứ*. Bốn điều đó là gì? Tôi *an trú quan sát một khía cạnh của thân trên thân*... *cảm giác*... *tâm*... *pháp*—nhiệt tâm, tỉnh giác, và chánh niệm, loại bỏ tham ái và ưu phiền đối với thế gian. Tôi đã đạt được sự *hiểu biết trực tiếp* vĩ đại bằng cách phát triển và tu tập *bốn niệm xứ* này.
 
-And it's because of developing and cultivating these four kinds of
-mindfulness meditation that I recollect a thousand eons."
+Và chính nhờ phát triển và tu tập *bốn niệm xứ* này mà tôi nhớ lại được một ngàn kiếp."
 
 <!--pg-->
-### N 52.12 Psychic Powers *Iddhividhasutta*
+### N 52.12 Các Năng Lực Thần Thông *Iddhividhasutta*
 
-"... And it's because of developing and cultivating these four kinds of
-mindfulness meditation that I wield the many kinds of psychic power:
-multiplying myself and becoming one again ... controlling the body as
-far as the realm of divinity."
+"... Và chính nhờ phát triển và tu tập *bốn niệm xứ* này mà tôi vận dụng được nhiều loại năng lực thần thông: tự nhân bản thân mình rồi trở lại thành một... điều khiển thân thể cho đến tận cõi Phạm thiên."
 
 <!--pg-->
-### N 52.13 Clairaudience *Dibbasotasutta*
+### N 52.13 Thiên Nhĩ Thông *Dibbasotasutta*
 
-"... And it's because of developing and cultivating these four kinds of
-mindfulness meditation that, with clairaudience that is purified and
-superhuman, I hear both kinds of sounds, human and heavenly, whether
-near or far."
+"... Và chính nhờ phát triển và tu tập *bốn niệm xứ* này mà, với thiên nhĩ thông thanh tịnh và siêu phàm, tôi nghe được cả hai loại âm thanh, của người và của trời, dù ở gần hay xa."
 
 <!--pg-->
-### N 52.14 Comprehending the Mind *Cetopariyasutta*
+### N 52.14 Thấu Hiểu Tâm Trí *Cetopariyasutta*
 
-"... And it's because of developing and cultivating these four kinds of
-mindfulness meditation that I understand the minds of other beings and
-individuals, having comprehended them with my mind. I understand mind
-with greed as 'mind with greed' ... I understand unfreed mind as
-'unfreed mind'."
+"... Và chính nhờ phát triển và tu tập *bốn niệm xứ* này mà tôi hiểu được tâm trí của các chúng sanh và cá nhân khác, sau khi đã thấu hiểu chúng bằng tâm trí của mình. Tôi hiểu tâm có tham là ‘tâm có tham’... Tôi hiểu tâm chưa giải thoát là ‘tâm chưa giải thoát’."
 
 <!--pg-->
-### N 52.15 Possible *Ṭhānasutta*
+### N 52.15 Điều Có Thể *Ṭhānasutta*
 
-"... And it's because of developing and cultivating these four kinds of
-mindfulness meditation that I truly understand the possible as possible
-and the impossible as impossible."
+"... Và chính nhờ phát triển và tu tập *bốn niệm xứ* này mà tôi thực sự hiểu điều có thể là có thể và điều không thể là không thể."
 
 <!--pg-->
-### N 52.16 The Results of Deeds Undertaken *Kammasamādānasutta*
+### N 52.16 Kết Quả Của Các Hành Động Đã Làm *Kammasamādānasutta*
 
-"... And it's because of developing and cultivating these four kinds of
-mindfulness meditation that I truly understand the result of deeds
-undertaken in the past, future, and present in terms of grounds and
-causes."
+"... Và chính nhờ phát triển và tu tập *bốn niệm xứ* này mà tôi thực sự hiểu kết quả của các hành động đã làm trong quá khứ, tương lai và hiện tại về mặt cơ sở và nguyên nhân."
 
 <!--pg-->
-### N 52.17 Where All Paths of Practice Lead *Sabbatthagāminisutta*
+### N 52.17 Nơi Mọi Con Đường Thực Hành Dẫn Đến *Sabbatthagāminisutta*
 
-"... And it's because of developing and cultivating these four kinds of
-mindfulness meditation that I truly understand where all paths of
-practice lead."
+"... Và chính nhờ phát triển và tu tập *bốn niệm xứ* này mà tôi thực sự hiểu nơi mọi con đường thực hành dẫn đến."
 
 <!--pg-->
-### N 52.18 Diverse Elements *Nānādhātusutta*
+### N 52.18 Các Yếu Tố Đa Dạng *Nānādhātusutta*
 
-"... And it's because of developing and cultivating these four kinds of
-mindfulness meditation that I truly understand the world with its many
-and diverse elements."
+"... Và chính nhờ phát triển và tu tập *bốn niệm xứ* này mà tôi thực sự hiểu thế giới với nhiều yếu tố đa dạng của nó."
 
 <!--pg-->
-### N 52.19 Diverse Beliefs *Nānādhimuttisutta*
+### N 52.19 Các Niềm Tin Đa Dạng *Nānādhimuttisutta*
 
-"... And it's because of developing and cultivating these four kinds of
-mindfulness meditation that I truly understand the diverse convictions
-of sentient beings."
+"... Và chính nhờ phát triển và tu tập *bốn niệm xứ* này mà tôi thực sự hiểu các niềm tin đa dạng của chúng sanh."
 
 <!--pg-->
-### N 52.20 Comprehending the Faculties of Others *Indriyaparopariyattasutta*
+### N 52.20 Thấu Hiểu Các Giác Quan Của Người Khác *Indriyaparopariyattasutta*
 
-"... And it's because of developing and cultivating these four kinds of
-mindfulness meditation that I truly understand the faculties of other
-sentient beings and other individuals after comprehending them with my
-mind."
+"... Và chính nhờ phát triển và tu tập *bốn niệm xứ* này mà tôi thực sự hiểu các giác quan của các chúng sanh khác và các cá nhân khác sau khi đã thấu hiểu chúng bằng tâm trí của mình."
 
 <!--pg-->
-### N 52.21 Absorptions, Etc. *Jhānādisutta*
+### N 52.21 Các Tầng Thiền, V.v. *Jhānādisutta*
 
-"... And it's because of developing and cultivating these four kinds of
-mindfulness meditation that I truly understand corruption, cleansing,
-and emergence regarding the absorptions, liberations, immersions, and
-attainments."
+"... Và chính nhờ phát triển và tu tập *bốn niệm xứ* này mà tôi thực sự hiểu sự ô nhiễm, sự thanh lọc, và sự xuất khởi liên quan đến các tầng thiền, các sự giải thoát, các trạng thái định, và các sự chứng đắc."
 
 <!--pg-->
-### N 52.22 Past Lives *Pubbenivāsasutta*
+### N 52.22 Các Đời Sống Quá Khứ *Pubbenivāsasutta*
 
-"... And it's because of developing and cultivating these four kinds of
-mindfulness meditation that I recollect my many kinds of past lives,
-with features and details."
+"... Và chính nhờ phát triển và tu tập *bốn niệm xứ* này mà tôi nhớ lại được nhiều đời sống quá khứ của mình, với các đặc điểm và chi tiết."
 
 <!--pg-->
-### N 52.23 Clairvoyance *Dibbacakkhusutta*
+### N 52.23 Thiên Nhãn Thông *Dibbacakkhusutta*
 
-"... And it's because of developing and cultivating these four kinds of
-mindfulness meditation that, with clairvoyance that is purified and
-superhuman, I understand how sentient beings are reborn according to
-their deeds."
+"... Và chính nhờ phát triển và tu tập *bốn niệm xứ* này mà, với thiên nhãn thông thanh tịnh và siêu phàm, tôi hiểu được chúng sanh tái sinh như thế nào tùy theo nghiệp của họ."
 
 <!--pg-->
-### N 52.24 The Ending of Defilements *Āsavakkhayasutta*
+### N 52.24 Sự Chấm Dứt Các Ô Nhiễm *Āsavakkhayasutta*
 
-"... And it's because of developing and cultivating these four kinds of
-mindfulness meditation that I realized the undefiled freedom of heart
-and freedom by wisdom in this very life. And I live having realized it
-with my own insight due to the ending of defilements."
-
-
-
+"... Và chính nhờ phát triển và tu tập *bốn niệm xứ* này mà tôi đã chứng ngộ sự giải thoát tâm và giải thoát bằng trí tuệ không còn ô nhiễm ngay trong đời này. Và tôi sống sau khi đã tự mình chứng ngộ điều đó bằng tuệ giác của mình nhờ sự chấm dứt các ô nhiễm."
