@@ -1,2241 +1,1033 @@
-# Linked Discourses on Stream-Entry
+# Tương Ưng về Nhập Lưu
 
 <!--pg-->
-## The Chapter at Bamboo Gate
+## Phẩm Cổng Trúc Lâm
 
-### N 55.1 A Wheel-Turning Monarch *Cakkavattirājasutta*
+### N 55.1 Một Vị Vua Chuyển Luân *Cakkavattirājasutta*
 
-At Sāvatthī.
+Tại Sāvatthī.
 
-There the Buddha ... said:
+Tại đó, Đức Phật... đã nói:
 
-"Mendicants, suppose a wheel-turning monarch were to rule as sovereign
-lord over these four continents. And when his body breaks up, after
-death, he's reborn in a good place, a heavenly realm, in the company of
-the gods of the thirty-three. There he entertains himself in the Garden
-of Delight, escorted by a band of nymphs, and supplied and provided with
-the five kinds of heavenly sensual stimulation. Still, as he's lacking
-four things, he's not exempt from hell, the animal realm, or the ghost
-realm. He's not exempt from places of loss, bad places, the underworld.
+"Này các *Tỷ kheo*, giả sử một *vua chuyển luân* (wheel-turning monarch / cakkavatti-rāja) cai trị như một chúa tể tối cao trên bốn châu lục này. Và khi thân hoại mạng chung, sau khi chết, vị ấy được tái sanh vào một nơi tốt đẹp, một cõi trời, làm bạn với các vị trời ở cõi Ba Mươi Ba. Ở đó, vị ấy vui chơi trong Vườn Hoan Hỷ, được một đoàn tiên nữ hộ tống, và được cung cấp đầy đủ năm loại kích thích dục lạc của cõi trời. Tuy nhiên, vì thiếu bốn điều, vị ấy vẫn không thoát khỏi địa ngục, cõi súc sinh, hay cõi ngạ quỷ. Vị ấy không thoát khỏi những nơi mất mát, cảnh giới xấu, đọa xứ.
 
-Now suppose a noble disciple wears rags and feeds on scraps of almsfood.
-Still, as they have four things, they're exempt from hell, the animal
-realm, or the ghost realm. They're exempt from places of loss, bad
-places, the underworld.
+Bây giờ, giả sử một *thánh đệ tử* (noble disciple / ariya-sāvaka / một người đã chứng ngộ ít nhất là tầng thánh đầu tiên, Nhập Lưu) mặc y phấn tảo và sống bằng thức ăn khất thực vụn vặt. Tuy nhiên, vì có bốn điều, vị ấy thoát khỏi địa ngục, cõi súc sinh, hay cõi ngạ quỷ. Vị ấy thoát khỏi những nơi mất mát, cảnh giới xấu, đọa xứ.
 
-What four? It's when a noble disciple has experiential confidence in the
-Buddha: 'That Blessed One is perfected, a fully awakened Buddha,
-accomplished in knowledge and conduct, holy, knower of the world,
-supreme guide for those who wish to train, teacher of gods and humans,
-awakened, blessed.'
+Bốn điều đó là gì? Đó là khi một *thánh đệ tử* có *niềm tin bất động* (experiential confidence / aveccappasāda / niềm tin không lay chuyển, dựa trên sự hiểu biết và kinh nghiệm trực tiếp, không phải đức tin mù quáng) vào Đức Phật: 'Đức Thế Tôn đó là bậc A-la-hán, một vị Phật giác ngộ viên mãn, thành tựu tri thức và đức hạnh, bậc Thiện Thệ, người biết thế gian, bậc hướng đạo tối cao cho những ai muốn được huấn luyện, bậc thầy của chư thiên và loài người, bậc giác ngộ, bậc được tôn quý.'
 
-They have experiential confidence in the teaching: 'The teaching is well
-explained by the Buddha---apparent in the present life, immediately
-effective, inviting inspection, relevant, so that sensible people can
-know it for themselves.'
+Vị ấy có *niềm tin bất động* vào giáo pháp: 'Giáo pháp được Đức Phật khéo giảng dạy—hiển hiện trong đời này, có hiệu quả tức thì, mời gọi đến để thấy, có liên quan, để người trí có thể tự mình biết được.'
 
-They have experiential confidence in the Saṅgha: 'The
-Saṅgha of the Buddha's disciples is practicing the way
-that's good, sincere, systematic, and proper. It consists of the four
-pairs, the eight individuals. This is the Saṅgha of the
-Buddha's disciples that is worthy of offerings dedicated to the gods,
-worthy of hospitality, worthy of a religious donation, worthy of
-greeting with joined palms, and is the supreme field of merit for the
-world.'
+Vị ấy có *niềm tin bất động* vào Tăng đoàn: 'Tăng đoàn các đệ tử của Đức Phật đang thực hành con đường tốt đẹp, chân thật, có hệ thống và đúng đắn. Tăng đoàn ấy bao gồm bốn đôi, tám cá nhân. Đây là Tăng đoàn các đệ tử của Đức Phật xứng đáng được cúng dường cho chư thiên, xứng đáng được hiếu khách, xứng đáng được dâng tặng phẩm vật tôn giáo, xứng đáng được chắp tay chào kính, và là ruộng phước tối cao cho thế gian.'
 
-Furthermore, a noble disciple's ethical conduct is loved by the noble
-ones, unbroken, impeccable, spotless, and unmarred, liberating, praised
-by sensible people, not mistaken, and leading to immersion.
+Hơn nữa, *giới đức* (ethical conduct / sīla / hành vi đạo đức) của một *thánh đệ tử* được các bậc thánh yêu mến, không bị phá vỡ, không tì vết, không vết nhơ, và không bị hoen ố, có tính giải thoát, được người trí ca ngợi, không sai lầm, và dẫn đến *Định* (Immersion / samādhi / Trạng thái tâm tụ trên một điểm).
 
-These are the four qualities that they have.
+Đây là bốn phẩm chất mà vị ấy có.
 
-And, mendicants, gaining these four continents is not worth a sixteenth
-part of gaining these four things."
+Và, này các *Tỷ kheo*, việc có được bốn châu lục này không đáng một phần mười sáu của việc có được bốn điều này."
 
 <!--pg-->
-### N 55.2 The Culmination of the Spiritual Life *Brahmacariyogadhasutta*
+### N 55.2 Đỉnh Cao Của Đời Sống Phạm Hạnh *Brahmacariyogadhasutta*
 
-"Mendicants, a noble disciple who has four things is a stream-enterer,
-not liable to be reborn in the underworld, bound for awakening.
+"Này các *Tỷ kheo*, một *thánh đệ tử* có bốn điều là một *người nhập lưu* (stream-enterer / sotāpanna / người đã bước vào dòng chảy giác ngộ, đã đoạn trừ ba xiềng xích đầu tiên và chắc chắn sẽ đạt Niết-bàn), không còn bị tái sanh vào đọa xứ, chắc chắn sẽ *giác ngộ* (awakening / bodhi / sự tỉnh thức hoàn toàn, sự hiểu biết trọn vẹn về bản chất của thực tại).
 
-What four? It's when a noble disciple has experiential confidence in the
-Buddha ... the teaching ... the Saṅgha ... And they have
-the ethical conduct loved by the noble ones ... leading to immersion. A
-noble disciple who has these four things is a stream-enterer, not liable
-to be reborn in the underworld, bound for awakening."
+Bốn điều đó là gì? Đó là khi một *thánh đệ tử* có *niềm tin bất động* vào Đức Phật... giáo pháp... Tăng đoàn... Và vị ấy có *giới đức* được các bậc thánh yêu mến... dẫn đến *Định*. Một *thánh đệ tử* có bốn điều này là một *người nhập lưu*, không còn bị tái sanh vào đọa xứ, chắc chắn sẽ *giác ngộ*.
 
-That is what the Buddha said. Then the Holy One, the Teacher, went on to
-say:
+Đó là những gì Đức Phật đã nói. Sau đó, bậc Thiện Thệ, bậc Đạo Sư, nói tiếp:
 
-> "Those who have faith and ethics,\
-> confidence, and vision of the truth,\
-> in time arrive at happiness,\
-> the culmination of the spiritual life."
+> "Những ai có đức tin và giới hạnh,\
+> Lòng tin vững chắc, và thấy được chân lý,\
+> Theo thời gian sẽ đạt đến hạnh phúc,\
+> Đỉnh cao của đời sống phạm hạnh."
 
 <!--pg-->
-### N 55.3 With Dīghāvu *Dīghāvuupāsakasutta*
+### N 55.3 Cùng Với Dīghāvu *Dīghāvuupāsakasutta*
 
-At one time the Buddha was staying near Rājagaha, in the
-Bamboo Grove, the squirrels' feeding ground.
+Một thời, Đức Phật đang ở gần Rājagaha, trong Trúc Lâm, nơi các con sóc được cho ăn.
 
-Now at that time the lay follower Dīghāvu was sick,
-suffering, gravely ill. Then he addressed his father, the householder
-Jotika, "Please, householder, go to the Buddha, and in my name bow with
-your head to his feet. Say to him: 'Sir, the lay follower
-Dīghāvu is sick, suffering, gravely ill. He bows with his
-head to your feet.' And then say: 'Sir, please visit him at his home out
-of sympathy.'"
+Lúc bấy giờ, cư sĩ tại gia Dīghāvu đang bị bệnh, đau đớn, bệnh rất nặng. Sau đó, ông nói với cha mình, gia chủ Jotika: "Thưa gia chủ, xin hãy đến gặp Đức Phật, và nhân danh con, cúi đầu lạy dưới chân Ngài. Hãy thưa với Ngài rằng: 'Bạch Thế Tôn, cư sĩ tại gia Dīghāvu đang bị bệnh, đau đớn, bệnh rất nặng. Ông ấy cúi đầu lạy dưới chân Ngài.' Và sau đó hãy nói: 'Bạch Thế Tôn, xin Ngài hãy đến thăm nhà ông ấy vì lòng từ bi.'"
 
-"Yes, dear," replied Jotika. He did as Dīghāvu asked. The
-Buddha consented with silence.
+"Vâng, con thân mến," Jotika trả lời. Ông đã làm theo lời Dīghāvu yêu cầu. Đức Phật im lặng chấp thuận.
 
-Then the Buddha robed up in the morning and, taking his bowl and robe,
-went to the home of the lay follower Dīghāvu, sat down on
-the seat spread out, and said to him, "I hope you're keeping well,
-Dīghāvu; I hope you're all right. I hope that your pain is
-fading, not growing, that its fading is evident, not its growing."
+Sau đó, vào buổi sáng, Đức Phật mặc y, mang bát và y, đến nhà của cư sĩ tại gia Dīghāvu, ngồi xuống trên chỗ đã được trải sẵn, và nói với ông: "Ta hy vọng con vẫn khỏe, Dīghāvu; ta hy vọng con vẫn ổn. Ta hy vọng cơn đau của con đang giảm dần, không tăng lên, rằng sự giảm bớt của nó là rõ ràng, chứ không phải sự tăng lên."
 
-"Sir, I'm not keeping well, I'm not getting by. The pain is terrible and
-growing, not fading; its growing is evident, not its fading."
+"Bạch Thế Tôn, con không khỏe, con không qua được. Cơn đau thật khủng khiếp và đang tăng lên, không giảm đi; sự tăng lên của nó là rõ ràng, chứ không phải sự giảm đi."
 
-"So, Dīghāvu, you should train like this: 'I will have
-experiential confidence in the Buddha ... the teaching ... the
-Saṅgha ... And I will have the ethical conduct loved by the
-noble ones ... leading to immersion.' That's how you should train."
+"Vậy thì, Dīghāvu, con nên tu tập như thế này: 'Ta sẽ có *niềm tin bất động* vào Đức Phật... giáo pháp... Tăng đoàn... Và ta sẽ có *giới đức* được các bậc thánh yêu mến... dẫn đến *Định*.' Đó là cách con nên tu tập."
 
-"Sir, these four factors of stream-entry that were taught by the Buddha
-are found in me, and I exhibit them. For I have experiential confidence
-in the Buddha ... the teaching ... the Saṅgha ... And I
-have the ethical conduct loved by the noble ones ... leading to
-immersion."
+"Bạch Thế Tôn, bốn yếu tố của sự nhập lưu này do Đức Phật giảng dạy đều có trong con, và con thể hiện chúng. Vì con có *niềm tin bất động* vào Đức Phật... giáo pháp... Tăng đoàn... Và con có *giới đức* được các bậc thánh yêu mến... dẫn đến *Định*."
 
-"In that case, Dīghāvu, grounded on these four factors of
-stream-entry you should further develop these six things that play a
-part in realization. You should meditate observing the impermanence of
-all conditions, perceiving suffering in impermanence, perceiving
-not-self in suffering, perceiving giving up, perceiving fading away, and
-perceiving cessation. That's how you should train."
+"Trong trường hợp đó, Dīghāvu, dựa trên bốn yếu tố của sự nhập lưu này, con nên phát triển thêm sáu điều này, là những điều thuộc về sự chứng ngộ. Con nên thiền quán sát sự vô thường của *mọi điều kiện* (all conditions / sabbe saṅkhārā / tất cả các hiện tượng được tạo tác, do duyên hợp mà thành), nhận thức khổ trong vô thường, nhận thức vô ngã trong khổ, nhận thức sự từ bỏ, nhận thức sự phai nhạt, và nhận thức sự chấm dứt. Đó là cách con nên tu tập."
 
-"These six things that play a part in realization that were taught by
-the Buddha are found in me, and I exhibit them. For I meditate observing
-the impermanence of all conditions, perceiving suffering in
-impermanence, perceiving not-self in suffering, perceiving giving up,
-perceiving fading away, and perceiving cessation.
+"Sáu điều thuộc về sự chứng ngộ này do Đức Phật giảng dạy đều có trong con, và con thể hiện chúng. Vì con thiền quán sát sự vô thường của *mọi điều kiện*, nhận thức khổ trong vô thường, nhận thức vô ngã trong khổ, nhận thức sự từ bỏ, nhận thức sự phai nhạt, và nhận thức sự chấm dứt.
 
-But still, sir, I think, 'I hope Jotika doesn't suffer distress when
-I've gone.'" Jotika said, "Dear Dīghāvu, don't focus on
-that. Come on, dear Dīghāvu, you should closely focus on
-what the Buddha is saying."
+Nhưng bạch Thế Tôn, con vẫn nghĩ: 'Con hy vọng Jotika sẽ không phải chịu đau khổ khi con ra đi.'" Jotika nói: "Dīghāvu thân mến, đừng tập trung vào điều đó. Nào, Dīghāvu thân mến, con nên tập trung chú ý vào những gì Đức Phật đang nói."
 
-When the Buddha had given this advice he got up from his seat and left.
-Not long after the Buddha left, Dīghāvu passed away. Then
-several mendicants went up to the Buddha, bowed, sat down to one side,
-and said to him:
+Khi Đức Phật đã đưa ra lời khuyên này, Ngài đứng dậy khỏi chỗ ngồi và rời đi. Không lâu sau khi Đức Phật rời đi, Dīghāvu qua đời. Sau đó, một vài *Tỷ kheo* đến gặp Đức Phật, cúi lạy, ngồi xuống một bên, và thưa với Ngài:
 
-"Sir, the lay follower named Dīghāvu, who was advised in
-brief by the Buddha, has passed away. Where has he been reborn in his
-next life?"
+"Bạch Thế Tôn, cư sĩ tại gia tên Dīghāvu, người đã được Đức Phật khuyên dạy ngắn gọn, đã qua đời. Ông ấy đã tái sanh vào đâu trong kiếp sau?"
 
-"Mendicants, the lay follower Dīghāvu was astute. He
-practiced in line with the teachings, and did not trouble me about the
-teachings. With the ending of the five lower fetters, he's been reborn
-spontaneously, and will become extinguished there, not liable to return
-from that world."
+"Này các *Tỷ kheo*, cư sĩ tại gia Dīghāvu là người sáng suốt. Ông đã thực hành theo đúng giáo pháp, và không làm phiền ta về giáo pháp. Với sự chấm dứt của năm *xiềng xích* (The fetters / saṃyojana / *kiết sử* / cái cùm, xiềng xích, là các ô nhiễm gốc rễ sâu trong tâm) thấp hơn, ông đã được hóa sanh, và sẽ nhập Niết-bàn tại đó, không còn trở lại thế giới này nữa."
 
 <!--pg-->
-### N 55.4 With Sāriputta (1st) *Paṭhamasāriputtasutta*
+### N 55.4 Cùng Với Sāriputta (Thứ Nhất) *Paṭhamasāriputtasutta*
 
-At one time Venerable Sāriputta was staying near
-Sāvatthī in Jeta's Grove, Anāthapiṇḍika's
-monastery. Then in the late afternoon, Venerable Ānanda came out of
-retreat ... and said to Sāriputta:
+Một thời, Tôn giả Sāriputta đang ở gần Sāvatthī trong Vườn Jeta, tu viện của Anāthapiṇḍika. Sau đó, vào cuối buổi chiều, Tôn giả Ānanda ra khỏi nơi ẩn tu... và nói với Sāriputta:
 
-"Reverend, how many things do people have to possess in order for the
-Buddha to declare that they're a stream-enterer, not liable to be reborn
-in the underworld, bound for awakening?"
+"Thưa Tôn giả, người ta phải sở hữu bao nhiêu điều để Đức Phật tuyên bố rằng họ là một *người nhập lưu*, không còn bị tái sanh vào đọa xứ, chắc chắn sẽ *giác ngộ*?"
 
-"Reverend, people have to possess four things in order for the Buddha to
-declare that they're a stream-enterer, not liable to be reborn in the
-underworld, bound for awakening.
+"Thưa Tôn giả, người ta phải sở hữu bốn điều để Đức Phật tuyên bố rằng họ là một *người nhập lưu*, không còn bị tái sanh vào đọa xứ, chắc chắn sẽ *giác ngộ*.
 
-What four? It's when a noble disciple has experiential confidence in the
-Buddha ... the teaching ... the Saṅgha ... And they have
-the ethical conduct loved by the noble ones ... leading to immersion.
-People have to possess these four things in order for the Buddha to
-declare that they're a stream-enterer, not liable to be reborn in the
-underworld, bound for awakening."
+Bốn điều đó là gì? Đó là khi một *thánh đệ tử* có *niềm tin bất động* vào Đức Phật... giáo pháp... Tăng đoàn... Và vị ấy có *giới đức* được các bậc thánh yêu mến... dẫn đến *Định*. Người ta phải sở hữu bốn điều này để Đức Phật tuyên bố rằng họ là một *người nhập lưu*, không còn bị tái sanh vào đọa xứ, chắc chắn sẽ *giác ngộ*."
 
 <!--pg-->
-### N 55.5 With Sāriputta (2nd) *Dutiyasāriputtasutta*
+### N 55.5 Cùng Với Sāriputta (Thứ Hai) *Dutiyasāriputtasutta*
 
-Then Sāriputta went up to the Buddha, bowed, and sat down
-to one side. The Buddha said to him:
+Sau đó, Sāriputta đến gặp Đức Phật, cúi lạy, và ngồi xuống một bên. Đức Phật nói với ông:
 
-"Sāriputta, they speak of a 'factor of stream-entry'. What
-is a factor of stream-entry?"
+"Sāriputta, người ta nói về 'yếu tố của sự nhập lưu'. Yếu tố của sự nhập lưu là gì?"
 
-"Sir, the factors of stream-entry are associating with true persons,
-listening to the true teaching, rational application of mind, and
-practicing in line with the teaching."
+"Bạch Thế Tôn, các yếu tố của sự nhập lưu là kết giao với người chân chính, lắng nghe Chánh pháp, *suy ngẫm tận đến gốc rễ* (rational application of mind / yoniso manasikāra / *như lý tác ý* / sự chú tâm đúng đắn, truy xét vấn đề từ nguồn gốc), và thực hành đúng theo pháp."
 
-"Good, good, Sāriputta! For the factors of stream-entry are
-associating with true persons, listening to the true teaching, rational
-application of mind, and practicing in line with the teaching.
+"Tốt lắm, tốt lắm, Sāriputta! Vì các yếu tố của sự nhập lưu là kết giao với người chân chính, lắng nghe Chánh pháp, *suy ngẫm tận đến gốc rễ*, và thực hành đúng theo pháp.
 
-Sāriputta, they speak of 'the stream'. What is the stream?"
+Sāriputta, người ta nói về 'dòng chảy'. Dòng chảy là gì?"
 
-"Sir, the stream is simply this noble eightfold path, that is: right
-view, right thought, right speech, right action, right livelihood, right
-effort, right mindfulness, and right immersion."
+"Bạch Thế Tôn, dòng chảy đơn giản là con đường tám nhánh cao quý này, đó là: *tầm nhìn thiện*, *suy nghĩ thiện*, *lời nói thiện*, *hành động thiện*, *nghề nghiệp thiện*, *sự nỗ lực thiện*, *niệm thiện*, và *định thiện*."
 
-"Good, good, Sāriputta! For the stream is simply this noble
-eightfold path, that is: right view, right thought, right speech, right
-action, right livelihood, right effort, right mindfulness, and right
-immersion.
+"Tốt lắm, tốt lắm, Sāriputta! Vì dòng chảy đơn giản là con đường tám nhánh cao quý này, đó là: *tầm nhìn thiện*, *suy nghĩ thiện*, *lời nói thiện*, *hành động thiện*, *nghề nghiệp thiện*, *sự nỗ lực thiện*, *niệm thiện*, và *định thiện*.
 
-Sāriputta, they speak of 'a stream-enterer'. What is a
-stream-enterer?"
+Sāriputta, người ta nói về 'một *người nhập lưu*'. Một *người nhập lưu* là gì?"
 
-"Sir, anyone who possesses this noble eightfold path is called a
-stream-enterer, the venerable of such and such name and clan."
+"Bạch Thế Tôn, bất kỳ ai sở hữu con đường tám nhánh cao quý này đều được gọi là một *người nhập lưu*, vị tôn giả có tên và dòng họ như thế này, như thế kia."
 
-"Good, good, Sāriputta! For anyone who possesses this noble
-eightfold path is called a stream-enterer, the venerable of such and
-such name and clan."
+"Tốt lắm, tốt lắm, Sāriputta! Vì bất kỳ ai sở hữu con đường tám nhánh cao quý này đều được gọi là một *người nhập lưu*, vị tôn giả có tên và dòng họ như thế này, như thế kia."
 
 <!--pg-->
-### N 55.6 The Chamberlains *Thapatisutta*
+### N 55.6 Các Quan Hầu Cận *Thapatisutta*
 
-At Sāvatthī. At that time several mendicants were making a
-robe for the Buddha, thinking that when his robe was finished and the
-three months of the rains residence had passed the Buddha would set out
-wandering. Now at that time the chamberlains Isidatta and
-Purāṇa were residing in Sādhuka on some
-business. They heard about this.
+Tại Sāvatthī. Vào thời điểm đó, một vài *Tỷ kheo* đang may y cho Đức Phật, nghĩ rằng khi y của Ngài hoàn thành và ba tháng an cư mùa mưa đã qua, Đức Phật sẽ lên đường du hành. Lúc bấy giờ, các quan hầu cận Isidatta và Purāṇa đang ở Sādhuka vì một số công việc. Họ nghe được tin này.
 
-So they posted someone on the road, saying:
+Vì vậy, họ cử một người đứng bên đường, dặn rằng:
 
-"My good man, let us know when you see the Blessed One coming, the
-perfected one, the fully awakened Buddha." And that person stood there
-for two or three days before they saw the Buddha coming off in the
-distance. When they saw him, they went to the chamberlains and said:
+"Này anh bạn tốt, hãy cho chúng tôi biết khi nào anh thấy Đức Thế Tôn đến, bậc A-la-hán, bậc Chánh Đẳng Chánh Giác." Và người đó đã đứng đó hai ba ngày trước khi thấy Đức Phật từ xa đi tới. Khi thấy Ngài, anh ta đến gặp các quan hầu cận và nói:
 
-"Sirs, the Blessed One, the perfected one, the fully awakened Buddha is
-coming. Please come at your convenience."
+"Thưa các ngài, Đức Thế Tôn, bậc A-la-hán, bậc Chánh Đẳng Chánh Giác đang đến. Xin các ngài hãy đến khi thuận tiện."
 
-Then the chamberlains went up to the Buddha, bowed, and followed behind
-him. And then the Buddha left the road, went to the root of a certain
-tree, and sat down on the seat spread out. The master builders Isidatta
-and Purāṇa bowed, sat down to one side, and said to the
-Buddha:
+Sau đó, các quan hầu cận đến gặp Đức Phật, cúi lạy, và đi theo sau Ngài. Và rồi Đức Phật rời khỏi con đường, đi đến gốc một cây nào đó, và ngồi xuống trên chỗ đã được trải sẵn. Các vị chủ thợ xây dựng Isidatta và Purāṇa cúi lạy, ngồi xuống một bên, và thưa với Đức Phật:
 
-"Sir, when we hear that you will be setting out from
-Sāvatthī to wander in the Kosalan lands, we're sad and
-upset, thinking that you will be far from us. And when we hear that you
-are setting out from Sāvatthī to wander in the Kosalan
-lands, we're sad and upset, thinking that you are far from us.
+"Bạch Thế Tôn, khi chúng con nghe rằng Ngài sẽ khởi hành từ Sāvatthī để du hành đến các vùng đất Kosala, chúng con buồn bã và khó chịu, nghĩ rằng Ngài sẽ ở xa chúng con. Và khi chúng con nghe rằng Ngài đang khởi hành từ Sāvatthī để du hành đến các vùng đất Kosala, chúng con buồn bã và khó chịu, nghĩ rằng Ngài đang ở xa chúng con.
 
-And when we hear that you will be setting out from the Kosalan lands to
-wander in the Mallian lands, we're sad and upset, thinking that you will
-be far from us. And when we hear that you are setting out from the
-Kosalan lands to wander in the Mallian lands, we're sad and upset,
-thinking that you are far from us.
+Và khi chúng con nghe rằng Ngài sẽ khởi hành từ các vùng đất Kosala để du hành đến các vùng đất Malla, chúng con buồn bã và khó chịu, nghĩ rằng Ngài sẽ ở xa chúng con. Và khi chúng con nghe rằng Ngài đang khởi hành từ các vùng đất Kosala để du hành đến các vùng đất Malla, chúng con buồn bã và khó chịu, nghĩ rằng Ngài đang ở xa chúng con.
 
-And when we hear that you will be setting out from the Mallian lands to
-wander in the Vajjian lands ...
+Và khi chúng con nghe rằng Ngài sẽ khởi hành từ các vùng đất Malla để du hành đến các vùng đất Vajji...
 
-you will be setting out from the Vajjian lands to wander in the
-Kāsian lands ...
+Ngài sẽ khởi hành từ các vùng đất Vajji để du hành đến các vùng đất Kāsi...
 
-you will be setting out from the Kāsian lands to wander in
-the Magadhan lands ...
+Ngài sẽ khởi hành từ các vùng đất Kāsi để du hành đến các vùng đất Magadha...
 
-you are setting out from the Kāsian lands to wander in the
-Magadhan lands, we're sad and upset, thinking that you are far from us.
+Ngài đang khởi hành từ các vùng đất Kāsi để du hành đến các vùng đất Magadha, chúng con buồn bã và khó chịu, nghĩ rằng Ngài đang ở xa chúng con.
 
-But when we hear that you will be setting out from the Magadhan lands to
-wander in the Kāsian lands, we're happy and joyful,
-thinking that you will be near to us. And when we hear that you are
-setting out from the Magadhan lands to wander in the Kāsian
-lands ...
+Nhưng khi chúng con nghe rằng Ngài sẽ khởi hành từ các vùng đất Magadha để du hành đến các vùng đất Kāsi, chúng con vui mừng và hoan hỷ, nghĩ rằng Ngài sẽ ở gần chúng con. Và khi chúng con nghe rằng Ngài đang khởi hành từ các vùng đất Magadha để du hành đến các vùng đất Kāsi...
 
-you will be setting out from the Kāsian lands to wander in
-the Vajjian lands ...
+Ngài sẽ khởi hành từ các vùng đất Kāsi để du hành đến các vùng đất Vajji...
 
-you will be setting out from the Vajjian lands to wander in the Mallian
-lands ...
+Ngài sẽ khởi hành từ các vùng đất Vajji để du hành đến các vùng đất Malla...
 
-you will be setting out from the Mallian lands to wander in the Kosalan
-lands ...
+Ngài sẽ khởi hành từ các vùng đất Malla để du hành đến các vùng đất Kosala...
 
-you will be setting out in the Kosalan lands to wander to
-Sāvatthī, we're happy and joyful, thinking that you will be
-near to us.
+Ngài sẽ khởi hành trong các vùng đất Kosala để du hành đến Sāvatthī, chúng con vui mừng và hoan hỷ, nghĩ rằng Ngài sẽ ở gần chúng con.
 
-And when we hear that you are staying near Sāvatthī in
-Jeta's Grove, Anāthapiṇḍika's monastery we have no little
-happiness and joy, thinking that you are near to us."
+Và khi chúng con nghe rằng Ngài đang ở gần Sāvatthī trong Vườn Jeta, tu viện của Anāthapiṇḍika, chúng con có không ít niềm vui và hoan hỷ, nghĩ rằng Ngài đang ở gần chúng con."
 
-"Well then, chamberlains, life at home is cramped and dirty, life gone
-forth is wide open. Just this much is enough to be diligent."
+"Vậy thì, các quan hầu cận, cuộc sống tại gia chật chội và bụi bặm, cuộc sống xuất gia rộng mở. Chỉ cần bấy nhiêu thôi cũng đủ để tinh tấn."
 
-"Sir, for us there is something that's even more cramped than that, and
-is considered as such."
+"Bạch Thế Tôn, đối với chúng con, có một điều còn chật chội hơn thế nữa, và được xem là như vậy."
 
-"What is that?"
+"Điều đó là gì?"
 
-"Sir, it's when King Pasenadi of Kosala wants to go and visit a park. We
-have to harness and prepare his royal elephants. Then we have to seat
-his dear and beloved wives on the elephants, one in front of us, and one
-behind. Those sisters smell like a freshly opened perfume box; that's
-how the royal ladies smell with makeup on. The touch of those sisters is
-like a tuft of cotton-wool or kapok; that's how dainty the royal ladies
-are. Now at that time we must look after the elephants, the sisters, and
-ourselves. But we don't recall having a bad thought regarding those
-sisters. This is that thing that's even more cramped than that, and is
-considered as such."
+"Bạch Thế Tôn, đó là khi Vua Pasenadi của Kosala muốn đi thăm một công viên. Chúng con phải thắng yên và chuẩn bị các con voi hoàng gia của ngài. Sau đó, chúng con phải xếp chỗ cho các bà vợ thân yêu và quý mến của ngài ngồi trên voi, một người ở phía trước chúng con, và một người ở phía sau. Mùi hương của các bà chị ấy giống như một hộp nước hoa mới mở; đó là mùi của các phu nhân hoàng gia khi trang điểm. Sự tiếp xúc của các bà chị ấy giống như một búi bông gòn hay bông gạo; đó là sự thanh tú của các phu nhân hoàng gia. Lúc đó, chúng con phải chăm sóc các con voi, các bà chị, và chính bản thân mình. Nhưng chúng con không nhớ đã có một ý nghĩ xấu nào về các bà chị ấy. Đây là điều còn chật chội hơn thế nữa, và được xem là như vậy."
 
-"Well then, chamberlains, life at home is cramped and dirty, life gone
-forth is wide open. Just this much is enough to be diligent. A noble
-disciple who has four things is a stream-enterer, not liable to be
-reborn in the underworld, bound for awakening.
+"Vậy thì, các quan hầu cận, cuộc sống tại gia chật chội và bụi bặm, cuộc sống xuất gia rộng mở. Chỉ cần bấy nhiêu thôi cũng đủ để tinh tấn. Một *thánh đệ tử* có bốn điều là một *người nhập lưu*, không còn bị tái sanh vào đọa xứ, chắc chắn sẽ *giác ngộ*.
 
-What four? It's when a noble disciple has experiential confidence in the
-Buddha ... the teaching ... the Saṅgha ... They live at
-home rid of the stain of stinginess, freely generous, open-handed,
-loving to let go, committed to charity, loving to give and to share. A
-noble disciple who has these four things is a stream-enterer, not liable
-to be reborn in the underworld, bound for awakening.
+Bốn điều đó là gì? Đó là khi một *thánh đệ tử* có *niềm tin bất động* vào Đức Phật... giáo pháp... Tăng đoàn... Họ sống tại gia thoát khỏi vết nhơ của *sự keo kiệt* (stinginess / macchariya / sự bủn xỉn, không muốn chia sẻ), rộng lòng bố thí, hào phóng, thích buông xả, cam kết làm từ thiện, thích cho đi và chia sẻ. Một *thánh đệ tử* có bốn điều này là một *người nhập lưu*, không còn bị tái sanh vào đọa xứ, chắc chắn sẽ *giác ngộ*.
 
-And you have experiential confidence in the Buddha ... the teaching ...
-the Saṅgha ... And whatever there is in your family that's
-available to give, you share it all with those who are ethical, of good
-character.
+Và các ông có *niềm tin bất động* vào Đức Phật... giáo pháp... Tăng đoàn... Và bất cứ thứ gì trong gia đình các ông có thể cho đi, các ông đều chia sẻ tất cả với những người có đạo đức, có phẩm hạnh tốt.
 
-What do you think, chamberlains? How many people among the Kosalans are
-your equal when it comes to giving and sharing?"
+Các ông nghĩ sao, các quan hầu cận? Có bao nhiêu người trong xứ Kosala có thể sánh bằng các ông về việc cho đi và chia sẻ?"
 
-"We're fortunate, sir, so very fortunate, in that the Buddha understands
-us like this."
+"Chúng con thật may mắn, bạch Thế Tôn, thật vô cùng may mắn, khi Đức Phật hiểu chúng con như thế này."
 
 <!--pg-->
-### N 55.7 The People of Bamboo Gate *Veḷudvāreyyasutta*
+### N 55.7 Người Dân Làng Cổng Trúc Lâm *Veḷudvāreyyasutta*
 
-So I have heard. At one time the Buddha was wandering in
-the land of the Kosalans together with a large Saṅgha of
-mendicants when he arrived at a village of the Kosalan brahmins named
-Bamboo Gate. The brahmins and householders of Bamboo Gate heard:
+Tôi đã nghe như vầy. Một thời, Đức Phật đang du hành trong xứ Kosala cùng với một Tăng đoàn lớn các *Tỷ kheo* thì Ngài đến một ngôi làng của các Bà-la-môn Kosala tên là Cổng Trúc Lâm. Các Bà-la-môn và gia chủ ở Cổng Trúc Lâm nghe tin:
 
-"It seems the ascetic Gotama---a Sakyan, gone forth from a Sakyan
-family---has arrived at Bamboo Gate, together with a large
-Saṅgha of mendicants. He has this good reputation: 'That
-Blessed One is perfected, a fully awakened Buddha, accomplished in
-knowledge and conduct, holy, knower of the world, supreme guide for
-those who wish to train, teacher of gods and humans, awakened, blessed.'
-He has realized with his own insight this world---with its gods,
-Māras, and divinities, this population with its ascetics
-and brahmins, gods and humans---and he makes it known to others. He
-proclaims a teaching that is good in the beginning, good in the middle,
-and good in the end, meaningful and well-phrased. And he reveals a
-spiritual practice that's entirely full and pure. It's good to see such
-perfected ones."
+"Dường như sa môn Gotama—một người thuộc dòng họ Thích Ca, xuất gia từ gia đình Thích Ca—đã đến Cổng Trúc Lâm, cùng với một Tăng đoàn lớn các *Tỷ kheo*. Ngài có danh tiếng tốt này: 'Đức Thế Tôn đó là bậc A-la-hán, một vị Phật giác ngộ viên mãn, thành tựu tri thức và đức hạnh, bậc Thiện Thệ, người biết thế gian, bậc hướng đạo tối cao cho những ai muốn được huấn luyện, bậc thầy của chư thiên và loài người, bậc giác ngộ, bậc được tôn quý.' Ngài đã tự mình chứng ngộ thế giới này—với các vị trời, Ma vương, và thần linh, dân chúng này với các sa môn và Bà-la-môn, chư thiên và loài người—và Ngài làm cho người khác biết đến. Ngài tuyên thuyết một giáo pháp tốt đẹp ở đoạn đầu, tốt đẹp ở đoạn giữa, và tốt đẹp ở đoạn cuối, có ý nghĩa và lời lẽ hay. Và Ngài tiết lộ một pháp môn tu tập hoàn toàn đầy đủ và trong sạch. Thật tốt khi được gặp những bậc A-la-hán như vậy."
 
-Then the brahmins and householders of Bamboo Gate went up to the Buddha.
-Before sitting down to one side, some bowed, some exchanged greetings
-and polite conversation, some held up their joined palms toward the
-Buddha, some announced their name and clan, while some kept silent.
-Seated to one side they said to the Buddha:
+Sau đó, các Bà-la-môn và gia chủ ở Cổng Trúc Lâm đến gặp Đức Phật. Trước khi ngồi xuống một bên, một số người cúi lạy, một số trao đổi lời chào và trò chuyện lịch sự, một số chắp tay hướng về Đức Phật, một số xưng tên và dòng họ, trong khi một số giữ im lặng. Ngồi xuống một bên, họ thưa với Đức Phật:
 
-"Worthy Gotama, these are our wishes, desires, and hopes. We wish to
-live at home with our children; to use sandalwood imported from
-Kāsi; to wear garlands, fragrance, and makeup; and to
-accept gold and currency. And when our body breaks up, after death, we
-wish to be reborn in a good place, a heavenly realm. Given that we have
-such wishes, may the Buddha teach us the Dhamma so that we may achieve
-them."
+"Thưa Gotama đáng kính, đây là những mong muốn, ước nguyện và hy vọng của chúng tôi. Chúng tôi muốn sống tại gia với con cái; sử dụng gỗ đàn hương nhập từ Kāsi; đeo vòng hoa, hương thơm và trang điểm; và nhận vàng bạc. Và khi thân hoại mạng chung, sau khi chết, chúng tôi muốn được tái sanh vào một nơi tốt đẹp, một cõi trời. Với những mong muốn như vậy, xin Đức Phật hãy dạy chúng tôi Chánh pháp để chúng tôi có thể đạt được chúng."
 
-"Householders, I will teach you an explanation of the Dhamma that
-applies to oneself. Listen and apply your mind well, I will speak."
+"Này các gia chủ, ta sẽ dạy các ông một lời giải thích về Chánh pháp áp dụng cho chính mình. Hãy lắng nghe và chú tâm, ta sẽ nói."
 
-"Yes, sir," they replied. The Buddha said this:
+"Vâng, thưa Ngài," họ trả lời. Đức Phật đã nói điều này:
 
-"And what is the explanation of the Dhamma that applies to oneself?
+"Và lời giải thích về Chánh pháp áp dụng cho chính mình là gì?
 
-It's when a noble disciple reflects: 'I want to live and don't want to
-die; I want to be happy and recoil from pain. Since this is so, if
-someone were to take my life, I wouldn't like that. But others also want
-to live and don't want to die; they want to be happy and recoil from
-pain. So if I were to take the life of someone else, they wouldn't like
-that either. The thing that is disliked by me is also disliked by
-others. Since I dislike this thing, how can I inflict it on someone
-else?' Reflecting in this way, they give up killing living creatures
-themselves. And they encourage others to give up killing living
-creatures, praising the giving up of killing living creatures. So their
-bodily behavior is purified in three points.
+Đó là khi một *thánh đệ tử* suy ngẫm: 'Tôi muốn sống và không muốn chết; tôi muốn hạnh phúc và ghê sợ nỗi đau. Vì vậy, nếu ai đó lấy đi mạng sống của tôi, tôi sẽ không thích điều đó. Nhưng những người khác cũng muốn sống và không muốn chết; họ muốn hạnh phúc và ghê sợ nỗi đau. Vì vậy, nếu tôi lấy đi mạng sống của người khác, họ cũng sẽ không thích điều đó. Điều mà tôi không thích cũng là điều mà người khác không thích. Vì tôi không thích điều này, làm sao tôi có thể gây ra nó cho người khác?' Suy ngẫm theo cách này, họ tự mình từ bỏ việc giết hại chúng sanh. Và họ khuyến khích người khác từ bỏ việc giết hại chúng sanh, ca ngợi việc từ bỏ giết hại chúng sanh. Vì vậy, hành vi thân thể của họ được thanh tịnh ở ba điểm.
 
-Furthermore, a noble disciple reflects: 'If someone were to steal from
-me, I wouldn't like that. But if I were to steal from someone else, they
-wouldn't like that either. The thing that is disliked by me is also
-disliked by others. Since I dislike this thing, how can I inflict it on
-someone else?' Reflecting in this way, they give up stealing themselves.
-And they encourage others to give up stealing, praising the giving up of
-stealing. So their bodily behavior is purified in three points.
+Hơn nữa, một *thánh đệ tử* suy ngẫm: 'Nếu ai đó trộm cắp của tôi, tôi sẽ không thích điều đó. Nhưng nếu tôi trộm cắp của người khác, họ cũng sẽ không thích điều đó. Điều mà tôi không thích cũng là điều mà người khác không thích. Vì tôi không thích điều này, làm sao tôi có thể gây ra nó cho người khác?' Suy ngẫm theo cách này, họ tự mình từ bỏ việc trộm cắp. Và họ khuyến khích người khác từ bỏ việc trộm cắp, ca ngợi việc từ bỏ trộm cắp. Vì vậy, hành vi thân thể của họ được thanh tịnh ở ba điểm.
 
-Furthermore, a noble disciple reflects: 'If someone were to have sexual
-relations with my wives, I wouldn't like it. But if I were to have
-sexual relations with someone else's wives, he wouldn't like that
-either. The thing that is disliked by me is also disliked by others.
-Since I dislike this thing, how can I inflict it on others?' Reflecting
-in this way, they give up sexual misconduct themselves. And they
-encourage others to give up sexual misconduct, praising the giving up of
-sexual misconduct. So their bodily behavior is purified in three points.
+Hơn nữa, một *thánh đệ tử* suy ngẫm: 'Nếu ai đó có quan hệ tình dục với vợ của tôi, tôi sẽ không thích điều đó. Nhưng nếu tôi có quan hệ tình dục với vợ của người khác, anh ta cũng sẽ không thích điều đó. Điều mà tôi không thích cũng là điều mà người khác không thích. Vì tôi không thích điều này, làm sao tôi có thể gây ra nó cho người khác?' Suy ngẫm theo cách này, họ tự mình từ bỏ tà dâm. Và họ khuyến khích người khác từ bỏ tà dâm, ca ngợi việc từ bỏ tà dâm. Vì vậy, hành vi thân thể của họ được thanh tịnh ở ba điểm.
 
-Furthermore, a noble disciple reflects: 'If someone were to distort my
-meaning by lying, I wouldn't like it. But if I were to distort someone
-else's meaning by lying, they wouldn't like it either. The thing that is
-disliked by me is also disliked by someone else. Since I dislike this
-thing, how can I inflict it on others?' Reflecting in this way, they
-give up lying themselves. And they encourage others to give up lying,
-praising the giving up of lying. So their verbal behavior is purified in
-three points.
+Hơn nữa, một *thánh đệ tử* suy ngẫm: 'Nếu ai đó bóp méo ý nghĩa của tôi bằng cách nói dối, tôi sẽ không thích điều đó. Nhưng nếu tôi bóp méo ý nghĩa của người khác bằng cách nói dối, họ cũng sẽ không thích điều đó. Điều mà tôi không thích cũng là điều mà người khác không thích. Vì tôi không thích điều này, làm sao tôi có thể gây ra nó cho người khác?' Suy ngẫm theo cách này, họ tự mình từ bỏ việc nói dối. Và họ khuyến khích người khác từ bỏ việc nói dối, ca ngợi việc từ bỏ nói dối. Vì vậy, hành vi lời nói của họ được thanh tịnh ở ba điểm.
 
-Furthermore, a noble disciple reflects: 'If someone were to break me up
-from my friends by divisive speech, I wouldn't like it. But if I were to
-break someone else from their friends by divisive speech, they wouldn't
-like it either. ...' So their verbal behavior is purified in three
-points.
+Hơn nữa, một *thánh đệ tử* suy ngẫm: 'Nếu ai đó chia rẽ tôi với bạn bè bằng lời nói hai lưỡi, tôi sẽ không thích điều đó. Nhưng nếu tôi chia rẽ người khác với bạn bè của họ bằng lời nói hai lưỡi, họ cũng sẽ không thích điều đó. ...' Vì vậy, hành vi lời nói của họ được thanh tịnh ở ba điểm.
 
-Furthermore, a noble disciple reflects: 'If someone were to attack me
-with harsh speech, I wouldn't like it. But if I were to attack someone
-else with harsh speech, they wouldn't like it either. ...' So their
-verbal behavior is purified in three points.
+Hơn nữa, một *thánh đệ tử* suy ngẫm: 'Nếu ai đó tấn công tôi bằng lời nói ác độc, tôi sẽ không thích điều đó. Nhưng nếu tôi tấn công người khác bằng lời nói ác độc, họ cũng sẽ không thích điều đó. ...' Vì vậy, hành vi lời nói của họ được thanh tịnh ở ba điểm.
 
-Furthermore, a noble disciple reflects: 'If someone were to annoy me by
-talking silliness and nonsense, I wouldn't like it. But if I were to
-annoy someone else by talking silliness and nonsense, they wouldn't like
-it either.' The thing that is disliked by me is also disliked by
-another. Since I dislike this thing, how can I inflict it on another?'
-Reflecting in this way, they give up talking nonsense themselves. And
-they encourage others to give up talking nonsense, praising the giving
-up of talking nonsense. So their verbal behavior is purified in three
-points.
+Hơn nữa, một *thánh đệ tử* suy ngẫm: 'Nếu ai đó làm phiền tôi bằng cách nói những điều ngớ ngẩn và vô nghĩa, tôi sẽ không thích điều đó. Nhưng nếu tôi làm phiền người khác bằng cách nói những điều ngớ ngẩn và vô nghĩa, họ cũng sẽ không thích điều đó.' Điều mà tôi không thích cũng là điều mà người khác không thích. Vì tôi không thích điều này, làm sao tôi có thể gây ra nó cho người khác?' Suy ngẫm theo cách này, họ tự mình từ bỏ việc nói chuyện vô nghĩa. Và họ khuyến khích người khác từ bỏ việc nói chuyện vô nghĩa, ca ngợi việc từ bỏ nói chuyện vô nghĩa. Vì vậy, hành vi lời nói của họ được thanh tịnh ở ba điểm.
 
-And they have experiential confidence in the Buddha ... the teaching ...
-the Saṅgha ... And they have the ethical conduct loved by
-the noble ones ... leading to immersion. When a noble disciple has these
-seven good qualities and these four desirable states they may, if they
-wish, declare of themselves: 'I've finished with rebirth in hell, the
-animal realm, and the ghost realm. I've finished with all places of
-loss, bad places, the underworld. I am a stream-enterer! I'm not liable
-to be reborn in the underworld, and am bound for awakening.'"
+Và vị ấy có *niềm tin bất động* vào Đức Phật... giáo pháp... Tăng đoàn... Và vị ấy có *giới đức* được các bậc thánh yêu mến... dẫn đến *Định*. Khi một *thánh đệ tử* có bảy phẩm chất tốt này và bốn trạng thái đáng mong muốn này, vị ấy có thể, nếu muốn, tự tuyên bố về mình: 'Ta đã chấm dứt việc tái sanh vào địa ngục, cõi súc sinh, và cõi ngạ quỷ. Ta đã chấm dứt tất cả những nơi mất mát, cảnh giới xấu, đọa xứ. Ta là một *người nhập lưu*! Ta không còn bị tái sanh vào đọa xứ, và chắc chắn sẽ *giác ngộ*.'"
 
-When he had spoken, the brahmins and householders of Bamboo Gate said to
-the Buddha, "Excellent, worthy Gotama! ... We go for refuge to the
-worthy Gotama, to the teaching, and to the mendicant
-Saṅgha. From this day forth, may the worthy Gotama remember
-us as lay followers who have gone for refuge for life."
+Khi Ngài đã nói xong, các Bà-la-môn và gia chủ ở Cổng Trúc Lâm thưa với Đức Phật: "Thật tuyệt vời, thưa Gotama đáng kính!... Chúng con xin quy y Gotama đáng kính, quy y giáo pháp, và quy y Tăng đoàn *Tỷ kheo*. Từ hôm nay, xin Gotama đáng kính hãy ghi nhớ chúng con là những cư sĩ tại gia đã quy y trọn đời."
 
 <!--pg-->
-### N 55.8 In the Brick Hall (1st) *Paṭhamagiñjakāvasathasutta*
+### N 55.8 Tại Ngôi Nhà Gạch (Thứ Nhất) *Paṭhamagiñjakāvasathasutta*
 
-So I have heard. At one time the Buddha was staying at
-Ñātika in the brick house. Then Venerable Ānanda went up to
-the Buddha, bowed, sat down to one side, and said to him:
+Tôi đã nghe như vầy. Một thời, Đức Phật đang ở tại Ñātika trong ngôi nhà gạch. Sau đó, Tôn giả Ānanda đến gặp Đức Phật, cúi lạy, ngồi xuống một bên, và thưa với Ngài:
 
-"Sir, the monk named Sāḷha has passed away. Where has he
-been reborn in his next life? The nun named Nandā, the
-layman named Sudatta, and the laywoman named Sujātā have
-passed away. Where have they been reborn in the next life?"
+"Bạch Thế Tôn, Tỷ kheo tên Sāḷha đã qua đời. Ông ấy đã tái sanh vào đâu trong kiếp sau? Tỷ kheo ni tên Nandā, cư sĩ nam tên Sudatta, và cư sĩ nữ tên Sujātā đã qua đời. Họ đã tái sanh vào đâu trong kiếp sau?"
 
-"Ānanda, the monk Sāḷha passed away having realized the
-undefiled freedom of heart and freedom by wisdom in this very life,
-having realized it with his own insight due to the ending of
-defilements.
+"Ānanda, Tỷ kheo Sāḷha đã qua đời sau khi chứng ngộ *sự giải thoát tâm không ô nhiễm* (undefiled freedom of heart / anāsava cetovimutti / sự giải thoát của tâm khỏi các lậu hoặc) và *sự giải thoát bằng trí tuệ* (freedom by wisdom / paññāvimutti / sự giải thoát đạt được thông qua trí tuệ thấu suốt) ngay trong đời này, đã tự mình chứng ngộ điều đó nhờ sự chấm dứt các *ô nhiễm* (defilements / āsava / lậu hoặc, những dòng chảy ngầm của ô nhiễm tinh thần).
 
-The nun Nandā passed away having ended the five lower
-fetters. She's been reborn spontaneously, and will be extinguished
-there, not liable to return from that world.
+Tỷ kheo ni Nandā đã qua đời sau khi chấm dứt năm *xiềng xích* thấp hơn. Cô ấy đã được hóa sanh, và sẽ nhập Niết-bàn tại đó, không còn trở lại thế giới này nữa.
 
-The layman Sudatta passed away having ended three fetters, and weakened
-greed, hate, and delusion. He's a once-returner; he will come back to
-this world once only, then make an end of suffering.
+Cư sĩ nam Sudatta đã qua đời sau khi chấm dứt ba *xiềng xích*, và làm suy yếu tham, sân, và si. Ông là một *nhất lai* (once-returner / sakadāgāmi / người chỉ trở lại thế giới này một lần nữa); ông sẽ trở lại thế giới này chỉ một lần nữa, rồi chấm dứt khổ đau.
 
-The laywoman Sujātā passed away having ended three fetters.
-She's a stream-enterer, not liable to be reborn in the underworld, bound
-for awakening.
+Cư sĩ nữ Sujātā đã qua đời sau khi chấm dứt ba *xiềng xích*. Cô ấy là một *người nhập lưu*, không còn bị tái sanh vào đọa xứ, chắc chắn sẽ *giác ngộ*.
 
-It's no wonder that a human being should pass away. But if you should
-come and ask me about it each and every time someone dies that would be
-a bother for me. So Ānanda, I will teach you the explanation of the
-Dhamma called 'the mirror of the teaching'. A noble disciple who has
-this may declare of themselves: 'I've finished with rebirth in hell, the
-animal realm, and the ghost realm. I've finished with all places of
-loss, bad places, the underworld. I am a stream-enterer! I'm not liable
-to be reborn in the underworld, and am bound for awakening.'
+Không có gì lạ khi một con người qua đời. Nhưng nếu con cứ đến hỏi ta về điều đó mỗi khi có ai chết thì sẽ là một sự phiền toái cho ta. Vì vậy, Ānanda, ta sẽ dạy con lời giải thích về Chánh pháp gọi là 'tấm gương của giáo pháp'. Một *thánh đệ tử* có được điều này có thể tự tuyên bố về mình: 'Ta đã chấm dứt việc tái sanh vào địa ngục, cõi súc sinh, và cõi ngạ quỷ. Ta đã chấm dứt tất cả những nơi mất mát, cảnh giới xấu, đọa xứ. Ta là một *người nhập lưu*! Ta không còn bị tái sanh vào đọa xứ, và chắc chắn sẽ *giác ngộ*.'
 
-And what is that mirror of the teaching?
+Và tấm gương của giáo pháp đó là gì?
 
-It's when a noble disciple has experiential confidence in the Buddha ...
-the teaching ... the Saṅgha ... And they have the ethical
-conduct loved by the noble ones ... leading to immersion. This is that
-mirror of the teaching. A noble disciple who has this may declare of
-themselves: 'I've finished with rebirth in hell, the animal realm, and
-the ghost realm. I've finished with all places of loss, bad places, the
-underworld. I am a stream-enterer! I'm not liable to be reborn in the
-underworld, and am bound for awakening.'"
+Đó là khi một *thánh đệ tử* có *niềm tin bất động* vào Đức Phật... giáo pháp... Tăng đoàn... Và vị ấy có *giới đức* được các bậc thánh yêu mến... dẫn đến *Định*. Đây là tấm gương của giáo pháp đó. Một *thánh đệ tử* có được điều này có thể tự tuyên bố về mình: 'Ta đã chấm dứt việc tái sanh vào địa ngục, cõi súc sinh, và cõi ngạ quỷ. Ta đã chấm dứt tất cả những nơi mất mát, cảnh giới xấu, đọa xứ. Ta là một *người nhập lưu*! Ta không còn bị tái sanh vào đọa xứ, và chắc chắn sẽ *giác ngộ*.'"
 
-**(The following two discourses have the same setting.)**
+**(Hai bài kinh sau có cùng bối cảnh.)**
 
 <!--pg-->
-### N 55.9 At the Brick Hall (2nd) *Dutiyagiñjakāvasathasutta*
+### N 55.9 Tại Ngôi Nhà Gạch (Thứ Hai) *Dutiyagiñjakāvasathasutta*
 
-Ānanda said to the Buddha:
+Ānanda thưa với Đức Phật:
 
-"Sir, the monk named Asoka has passed away. Where has he been reborn in
-his next life? The nun named Asokā, the layman named Asoka,
-and the laywoman named Asokā have passed away. Where have
-they been reborn in the next life?"
+"Bạch Thế Tôn, Tỷ kheo tên Asoka đã qua đời. Ông ấy đã tái sanh vào đâu trong kiếp sau? Tỷ kheo ni tên Asokā, cư sĩ nam tên Asoka, và cư sĩ nữ tên Asokā đã qua đời. Họ đã tái sanh vào đâu trong kiếp sau?"
 
-"Ānanda, the monk Asoka passed away having realized the undefiled
-freedom of heart and freedom by wisdom in this very life ...
+"Ānanda, Tỷ kheo Asoka đã qua đời sau khi chứng ngộ *sự giải thoát tâm không ô nhiễm* và *sự giải thoát bằng trí tuệ* ngay trong đời này...
 
-**(And all is explained as in SN 55.8.)**
+**(Và tất cả được giải thích như trong SN 55.8.)**
 
-This is that mirror of the teaching. A noble disciple who has this may
-declare of themselves: 'I've finished with rebirth in hell, the animal
-realm, and the ghost realm. I've finished with all places of loss, bad
-places, the underworld. I am a stream-enterer! I'm not liable to be
-reborn in the underworld, and am bound for awakening.'"
+Đây là tấm gương của giáo pháp đó. Một *thánh đệ tử* có được điều này có thể tự tuyên bố về mình: 'Ta đã chấm dứt việc tái sanh vào địa ngục, cõi súc sinh, và cõi ngạ quỷ. Ta đã chấm dứt tất cả những nơi mất mát, cảnh giới xấu, đọa xứ. Ta là một *người nhập lưu*! Ta không còn bị tái sanh vào đọa xứ, và chắc chắn sẽ *giác ngộ*.'"
 
 <!--pg-->
-### N 55.10 At the Brick Hall (3rd) *Tatiyagiñjakāvasathasutta*
+### N 55.10 Tại Ngôi Nhà Gạch (Thứ Ba) *Tatiyagiñjakāvasathasutta*
 
-Ānanda said to the Buddha:
+Ānanda thưa với Đức Phật:
 
-"Sir, the layman named Kakkaṭa has passed away in
-Ñātika. Where has he been reborn in his next life? The
-laymen named Kaḷibha, Nikata, Kaṭissaha,
-Tuṭṭha, Santuṭṭha, Bhadda, and Subhadda have
-passed away in Ñātika. Where have they been reborn in the
-next life?"
+"Bạch Thế Tôn, cư sĩ nam tên Kakkaṭa đã qua đời tại Ñātika. Ông ấy đã tái sanh vào đâu trong kiếp sau? Các cư sĩ nam tên Kaḷibha, Nikata, Kaṭissaha, Tuṭṭha, Santuṭṭha, Bhadda, và Subhadda đã qua đời tại Ñātika. Họ đã tái sanh vào đâu trong kiếp sau?"
 
-"Ānanda, the laymen Kakkaṭa, Kaḷibha, Nikata,
-Kaṭissaha, Tuṭṭha, Santuṭṭha,
-Bhadda, and Subhadda passed away having ended the five lower fetters.
-They've been reborn spontaneously, and will be extinguished there, not
-liable to return from that world.
+"Ānanda, các cư sĩ nam Kakkaṭa, Kaḷibha, Nikata, Kaṭissaha, Tuṭṭha, Santuṭṭha, Bhadda, và Subhadda đã qua đời sau khi chấm dứt năm *xiềng xích* thấp hơn. Họ đã được hóa sanh, và sẽ nhập Niết-bàn tại đó, không còn trở lại thế giới này nữa.
 
-Over fifty laymen in Ñātika have passed away having ended
-the five lower fetters. They've been reborn spontaneously, and will be
-extinguished there, not liable to return from that world.
+Hơn năm mươi cư sĩ nam tại Ñātika đã qua đời sau khi chấm dứt năm *xiềng xích* thấp hơn. Họ đã được hóa sanh, và sẽ nhập Niết-bàn tại đó, không còn trở lại thế giới này nữa.
 
-More than ninety laymen in Ñātika have passed away having
-ended three fetters, and weakened greed, hate, and delusion. They're
-once-returners, who will come back to this world once only, then make an
-end of suffering.
+Hơn chín mươi cư sĩ nam tại Ñātika đã qua đời sau khi chấm dứt ba *xiềng xích*, và làm suy yếu tham, sân, và si. Họ là những *nhất lai*, những người sẽ trở lại thế giới này chỉ một lần nữa, rồi chấm dứt khổ đau.
 
-More than five hundred laymen in Ñātika have passed away
-having ended three fetters. They're stream-enterers, not liable to be
-reborn in the underworld, bound for awakening.
+Hơn năm trăm cư sĩ nam tại Ñātika đã qua đời sau khi chấm dứt ba *xiềng xích*. Họ là những *người nhập lưu*, không còn bị tái sanh vào đọa xứ, chắc chắn sẽ *giác ngộ*.
 
-It's no wonder that a human being should pass away. But if you should
-come and ask me about it each and every time someone passes away, that
-would be a bother for me. So Ānanda, I will teach you the explanation of
-the Dhamma called 'the mirror of the teaching'. A noble disciple who has
-this may declare of themselves: 'I've finished with rebirth in hell, the
-animal realm, and the ghost realm. I've finished with all places of
-loss, bad places, the underworld. I am a stream-enterer! I'm not liable
-to be reborn in the underworld, and am bound for awakening.'
+Không có gì lạ khi một con người qua đời. Nhưng nếu con cứ đến hỏi ta về điều đó mỗi khi có ai qua đời, đó sẽ là một sự phiền toái cho ta. Vì vậy, Ānanda, ta sẽ dạy con lời giải thích về Chánh pháp gọi là 'tấm gương của giáo pháp'. Một *thánh đệ tử* có được điều này có thể tự tuyên bố về mình: 'Ta đã chấm dứt việc tái sanh vào địa ngục, cõi súc sinh, và cõi ngạ quỷ. Ta đã chấm dứt tất cả những nơi mất mát, cảnh giới xấu, đọa xứ. Ta là một *người nhập lưu*! Ta không còn bị tái sanh vào đọa xứ, và chắc chắn sẽ *giác ngộ*.'
 
-And what is that mirror of the teaching?
+Và tấm gương của giáo pháp đó là gì?
 
-It's when a noble disciple has experiential confidence in the Buddha ...
-the teaching ... the Saṅgha ... And they have the ethical
-conduct loved by the noble ones ... leading to immersion. This is that
-mirror of the teaching. A noble disciple who has this may declare of
-themselves: 'I've finished with rebirth in hell, the animal realm, and
-the ghost realm. I've finished with all places of loss, bad places, the
-underworld. I am a stream-enterer! I'm not liable to be reborn in the
-underworld, and am bound for awakening.'"
+Đó là khi một *thánh đệ tử* có *niềm tin bất động* vào Đức Phật... giáo pháp... Tăng đoàn... Và vị ấy có *giới đức* được các bậc thánh yêu mến... dẫn đến *Định*. Đây là tấm gương của giáo pháp đó. Một *thánh đệ tử* có được điều này có thể tự tuyên bố về mình: 'Ta đã chấm dứt việc tái sanh vào địa ngục, cõi súc sinh, và cõi ngạ quỷ. Ta đã chấm dứt tất cả những nơi mất mát, cảnh giới xấu, đọa xứ. Ta là một *người nhập lưu*! Ta không còn bị tái sanh vào đọa xứ, và chắc chắn sẽ *giác ngộ*.'"
 
 <!--pg-->
-## The Chapter on the Royal Monastery
+## Phẩm Tu Viện Hoàng Gia
 
-### N 55.11 A Saṅgha of a Thousand Nuns *Sahassabhikkhunisaṁghasutta*
+### N 55.11 Một Tăng Đoàn Một Ngàn Tỷ Kheo Ni *Sahassabhikkhunisaṁghasutta*
 
-At one time the Buddha was staying near Sāvatthī in the
-Royal Monastery. Then a Saṅgha of a thousand nuns went up
-to the Buddha, bowed, and stood to one side. The Buddha said to them:
+Một thời, Đức Phật đang ở gần Sāvatthī trong Tu viện Hoàng gia. Sau đó, một Tăng đoàn một ngàn Tỷ kheo ni đến gặp Đức Phật, cúi lạy, và đứng sang một bên. Đức Phật nói với họ:
 
-"Nuns, a noble disciple who has four things is a stream-enterer, not
-liable to be reborn in the underworld, bound for awakening. What four?
-It's when a noble disciple has experiential confidence in the Buddha ...
-the teaching ... the Saṅgha ... And they have the ethical
-conduct loved by the noble ones ... leading to immersion. A noble
-disciple who has these four things is a stream-enterer, not liable to be
-reborn in the underworld, bound for awakening."
+"Này các Tỷ kheo ni, một *thánh đệ tử* có bốn điều là một *người nhập lưu*, không còn bị tái sanh vào đọa xứ, chắc chắn sẽ *giác ngộ*. Bốn điều đó là gì? Đó là khi một *thánh đệ tử* có *niềm tin bất động* vào Đức Phật... giáo pháp... Tăng đoàn... Và vị ấy có *giới đức* được các bậc thánh yêu mến... dẫn đến *Định*. Một *thánh đệ tử* có bốn điều này là một *người nhập lưu*, không còn bị tái sanh vào đọa xứ, chắc chắn sẽ *giác ngộ*."
 
 <!--pg-->
-### N 55.12 The Brahmins *Brāhmaṇasutta*
+### N 55.12 Các Bà-la-môn *Brāhmaṇasutta*
 
-At Sāvatthī. "Mendicants, the brahmins advocate a practice
-called 'get up and go'. They encourage their disciples: 'Please, good
-people, rising early you should face east and walk. Do not avoid a pit,
-a cliff, a stump, thorny ground, a swamp, or a sewer. You should await
-death in the place that you fall. And when your body breaks up, after
-death, you'll be reborn in a good place, a heaven realm.'
+Tại Sāvatthī. "Này các *Tỷ kheo*, các Bà-la-môn chủ trương một pháp môn gọi là 'đứng dậy và đi'. Họ khuyến khích các đệ tử của mình: 'Này các bạn tốt, hãy dậy sớm, quay mặt về hướng đông và đi. Đừng tránh hố, vách đá, gốc cây, bụi gai, đầm lầy, hay cống rãnh. Các bạn nên chờ đợi cái chết ở nơi mình ngã xuống. Và khi thân hoại mạng chung, sau khi chết, các bạn sẽ được tái sanh vào một nơi tốt đẹp, một cõi trời.'
 
-But this practice of the brahmins is a foolish procedure, a stupid
-procedure. It doesn't lead to disillusionment, dispassion, cessation,
-peace, insight, awakening, or extinguishment. But in the training of the
-Noble One I advocate a 'get up and go' practice which does lead solely
-to disillusionment, dispassion, cessation, peace, insight, awakening,
-and extinguishment.
+Nhưng pháp môn này của các Bà-la-môn là một thủ tục ngu xuẩn, một thủ tục ngớ ngẩn. Nó không dẫn đến sự *nhàm chán* (disillusionment / nibbidā / sự chán ngán, không còn hứng thú với vòng luân hồi), *ly tham* (dispassion / virāga / sự phai nhạt ham muốn), *chấm dứt* (cessation / nirodha / sự diệt tận), *an tịnh* (peace / upasama / sự lắng dịu), *tuệ giác* (insight / abhiññā / sự hiểu biết sâu sắc), *giác ngộ*, hay *Niết-bàn* (extinguishment / nibbāna / sự dập tắt hoàn toàn tham, sân, si). Nhưng trong sự huấn luyện của bậc Thánh, ta chủ trương một pháp môn 'đứng dậy và đi' mà nó chỉ dẫn đến sự *nhàm chán*, *ly tham*, *chấm dứt*, *an tịnh*, *tuệ giác*, *giác ngộ*, và *Niết-bàn*.
 
-And what is that 'get up and go' practice? It's when a noble disciple
-has experiential confidence in the Buddha ... the teaching ... the
-Saṅgha ... And they have the ethical conduct loved by the
-noble ones ... leading to immersion. This is that 'get up and go'
-practice which does lead solely to disillusionment, dispassion,
-cessation, peace, insight, awakening, and extinguishment."
+Và pháp môn 'đứng dậy và đi' đó là gì? Đó là khi một *thánh đệ tử* có *niềm tin bất động* vào Đức Phật... giáo pháp... Tăng đoàn... Và vị ấy có *giới đức* được các bậc thánh yêu mến... dẫn đến *Định*. Đây là pháp môn 'đứng dậy và đi' mà nó chỉ dẫn đến sự *nhàm chán*, *ly tham*, *chấm dứt*, *an tịnh*, *tuệ giác*, *giác ngộ*, và *Niết-bàn*."
 
 <!--pg-->
-### N 55.13 With the Senior Monk Ānanda *Ānandattherasutta*
+### N 55.13 Cùng Với Trưởng Lão Ānanda *Ānandattherasutta*
 
-At one time the venerables Ānanda and Sāriputta were
-staying near Sāvatthī in Jeta's Grove,
-Anāthapiṇḍika's monastery. Then in the late afternoon,
-Venerable Sāriputta came out of retreat, went to Venerable
-Ānanda, and exchanged greetings with him. When the greetings and polite
-conversation were over, he sat down to one side and said to him:
+Một thời, các tôn giả Ānanda và Sāriputta đang ở gần Sāvatthī trong Vườn Jeta, tu viện của Anāthapiṇḍika. Sau đó, vào cuối buổi chiều, Tôn giả Sāriputta ra khỏi nơi ẩn tu, đến gặp Tôn giả Ānanda, và trao đổi lời chào với ông. Khi lời chào và cuộc trò chuyện lịch sự kết thúc, ông ngồi xuống một bên và nói với Ānanda:
 
-"Reverend, how many things do people have to give up and how many do
-they have to possess in order for the Buddha to declare that they're a
-stream-enterer, not liable to be reborn in the underworld, bound for
-awakening?"
+"Thưa Tôn giả, người ta phải từ bỏ bao nhiêu điều và sở hữu bao nhiêu điều để Đức Phật tuyên bố rằng họ là một *người nhập lưu*, không còn bị tái sanh vào đọa xứ, chắc chắn sẽ *giác ngộ*?"
 
-"Reverend, people have to give up four things and possess four things in
-order for the Buddha to declare that they're a stream-enterer, not
-liable to be reborn in the underworld, bound for awakening.
+"Thưa Tôn giả, người ta phải từ bỏ bốn điều và sở hữu bốn điều để Đức Phật tuyên bố rằng họ là một *người nhập lưu*, không còn bị tái sanh vào đọa xứ, chắc chắn sẽ *giác ngộ*.
 
-What four? They don't have the distrust in the Buddha that causes an
-unlearned ordinary person to be reborn---when their body breaks up,
-after death---in a place of loss, a bad place, the underworld, hell. And
-they do have the experiential confidence in the Buddha that causes a
-learned noble disciple to be reborn---when their body breaks up, after
-death---in a good place, a heavenly realm. 'That Blessed One is
-perfected, a fully awakened Buddha, accomplished in knowledge and
-conduct, holy, knower of the world, supreme guide for those who wish to
-train, teacher of gods and humans, awakened, blessed.'
+Bốn điều đó là gì? Họ không có sự *hoài nghi* (distrust / vicikicchā / sự nghi ngờ, thiếu tin tưởng) vào Đức Phật, điều khiến một người phàm phu vô văn bị tái sanh—khi thân hoại mạng chung, sau khi chết—vào một nơi mất mát, một cảnh giới xấu, đọa xứ, địa ngục. Và họ có *niềm tin bất động* vào Đức Phật, điều khiến một *thánh đệ tử* có học được tái sanh—khi thân hoại mạng chung, sau khi chết—vào một nơi tốt đẹp, một cõi trời. 'Đức Thế Tôn đó là bậc A-la-hán, một vị Phật giác ngộ viên mãn, thành tựu tri thức và đức hạnh, bậc Thiện Thệ, người biết thế gian, bậc hướng đạo tối cao cho những ai muốn được huấn luyện, bậc thầy của chư thiên và loài người, bậc giác ngộ, bậc được tôn quý.'
 
-They don't have the distrust in the teaching that causes an unlearned
-ordinary person to be reborn---when their body breaks up, after
-death---in a place of loss, a bad place, the underworld, hell. And they
-do have the experiential confidence in the teaching that causes a
-learned noble disciple to be reborn---when their body breaks up, after
-death---in a good place, a heavenly realm. 'The teaching is well
-explained by the Buddha---apparent in the present life, immediately
-effective, inviting inspection, relevant, so that sensible people can
-know it for themselves.'
+Họ không có sự *hoài nghi* vào giáo pháp, điều khiến một người phàm phu vô văn bị tái sanh—khi thân hoại mạng chung, sau khi chết—vào một nơi mất mát, một cảnh giới xấu, đọa xứ, địa ngục. Và họ có *niềm tin bất động* vào giáo pháp, điều khiến một *thánh đệ tử* có học được tái sanh—khi thân hoại mạng chung, sau khi chết—vào một nơi tốt đẹp, một cõi trời. 'Giáo pháp được Đức Phật khéo giảng dạy—hiển hiện trong đời này, có hiệu quả tức thì, mời gọi đến để thấy, có liên quan, để người trí có thể tự mình biết được.'
 
-They don't have the distrust in the Saṅgha that causes an
-unlearned ordinary person to be reborn---when their body breaks up,
-after death---in a place of loss, a bad place, the underworld, hell. And
-they do have the experiential confidence in the Saṅgha that
-causes a learned noble disciple to be reborn---when their body breaks
-up, after death---in a good place, a heavenly realm. 'The
-Saṅgha of the Buddha's disciples is practicing the way
-that's good, direct, systematic, and proper. It consists of the four
-pairs, the eight individuals. This Saṅgha of the Buddha's
-disciples is worthy of offerings dedicated to the gods, worthy of
-hospitality, worthy of a religious donation, and worthy of veneration
-with joined palms.'
+Họ không có sự *hoài nghi* vào Tăng đoàn, điều khiến một người phàm phu vô văn bị tái sanh—khi thân hoại mạng chung, sau khi chết—vào một nơi mất mát, một cảnh giới xấu, đọa xứ, địa ngục. Và họ có *niềm tin bất động* vào Tăng đoàn, điều khiến một *thánh đệ tử* có học được tái sanh—khi thân hoại mạng chung, sau khi chết—vào một nơi tốt đẹp, một cõi trời. 'Tăng đoàn các đệ tử của Đức Phật đang thực hành con đường tốt đẹp, trực tiếp, có hệ thống và đúng đắn. Tăng đoàn ấy bao gồm bốn đôi, tám cá nhân. Tăng đoàn các đệ tử của Đức Phật này xứng đáng được cúng dường cho chư thiên, xứng đáng được hiếu khách, xứng đáng được dâng tặng phẩm vật tôn giáo, và xứng đáng được tôn kính bằng cách chắp tay.'
 
-They don't have the unethical conduct that causes an unlearned ordinary
-person to be reborn---when their body breaks up, after death---in a
-place of loss, a bad place, the underworld, hell. And they do have the
-ethical conduct loved by the noble ones that causes a learned noble
-disciple to be reborn---when their body breaks up, after death---in a
-good place, a heavenly realm. Their ethical conduct is loved by the
-noble ones, unbroken, impeccable, spotless, and unmarred, liberating,
-praised by sensible people, not mistaken, and leading to immersion.
-People have to give up these four things and possess these four things
-in order for the Buddha to declare that they're a stream-enterer, not
-liable to be reborn in the underworld, bound for awakening."
+Họ không có *giới đức* phi đạo đức, điều khiến một người phàm phu vô văn bị tái sanh—khi thân hoại mạng chung, sau khi chết—vào một nơi mất mát, một cảnh giới xấu, đọa xứ, địa ngục. Và họ có *giới đức* được các bậc thánh yêu mến, điều khiến một *thánh đệ tử* có học được tái sanh—khi thân hoại mạng chung, sau khi chết—vào một nơi tốt đẹp, một cõi trời. *Giới đức* của họ được các bậc thánh yêu mến, không bị phá vỡ, không tì vết, không vết nhơ, và không bị hoen ố, có tính giải thoát, được người trí ca ngợi, không sai lầm, và dẫn đến *Định*. Người ta phải từ bỏ bốn điều này và sở hữu bốn điều này để Đức Phật tuyên bố rằng họ là một *người nhập lưu*, không còn bị tái sanh vào đọa xứ, chắc chắn sẽ *giác ngộ*."
 
 <!--pg-->
-### N 55.14 Fear of the Bad Place *Duggatibhayasutta*
+### N 55.14 Nỗi Sợ Cảnh Giới Xấu *Duggatibhayasutta*
 
-"Mendicants, a noble disciple who has four things has gone beyond all
-fear of being reborn in a bad place. What four? It's when a noble
-disciple has experiential confidence in the Buddha ... the teaching ...
-the Saṅgha ... And they have the ethical conduct loved by
-the noble ones ... leading to immersion. A noble disciple who has these
-four things has gone beyond all fear of being reborn in a bad place."
+"Này các *Tỷ kheo*, một *thánh đệ tử* có bốn điều đã vượt qua mọi nỗi sợ bị tái sanh vào cảnh giới xấu. Bốn điều đó là gì? Đó là khi một *thánh đệ tử* có *niềm tin bất động* vào Đức Phật... giáo pháp... Tăng đoàn... Và vị ấy có *giới đức* được các bậc thánh yêu mến... dẫn đến *Định*. Một *thánh đệ tử* có bốn điều này đã vượt qua mọi nỗi sợ bị tái sanh vào cảnh giới xấu."
 
 <!--pg-->
-### N 55.15 Fear of the Bad Place, the Underworld *Duggativinipātabhayasutta*
+### N 55.15 Nỗi Sợ Cảnh Giới Xấu, Đọa Xứ *Duggativinipātabhayasutta*
 
-"Mendicants, a noble disciple who has four things has gone beyond all
-fear of being reborn in a bad place, the underworld. What four? It's
-when a noble disciple has experiential confidence in the Buddha ... the
-teaching ... the Saṅgha ... And they have the ethical
-conduct loved by the noble ones ... leading to immersion. A noble
-disciple who has these four things has gone beyond all fear of being
-reborn in a bad place, the underworld."
+"Này các *Tỷ kheo*, một *thánh đệ tử* có bốn điều đã vượt qua mọi nỗi sợ bị tái sanh vào cảnh giới xấu, đọa xứ. Bốn điều đó là gì? Đó là khi một *thánh đệ tử* có *niềm tin bất động* vào Đức Phật... giáo pháp... Tăng đoàn... Và vị ấy có *giới đức* được các bậc thánh yêu mến... dẫn đến *Định*. Một *thánh đệ tử* có bốn điều này đã vượt qua mọi nỗi sợ bị tái sanh vào cảnh giới xấu, đọa xứ."
 
 <!--pg-->
-### N 55.16 Friends and Colleagues (1st) *Paṭhamamittāmaccasutta*
+### N 55.16 Bạn Bè và Đồng Nghiệp (Thứ Nhất) *Paṭhamamittāmaccasutta*
 
-"Mendicants, those who you have sympathy for, and those worth listening
-to---friends and colleagues, relatives and family---should be
-encouraged, supported, and established in the four factors of
-stream-entry. What four? Experiential confidence in the Buddha ... the
-teaching ... the Saṅgha ... And the ethical conduct loved
-by the noble ones ... leading to immersion. Those who you have sympathy
-for, and those worth listening to---friends and colleagues, relatives
-and family---should be encouraged, supported, and established in these
-four factors of stream-entry."
+"Này các *Tỷ kheo*, những người mà các con có lòng cảm thông, và những người đáng lắng nghe—bạn bè và đồng nghiệp, họ hàng và gia đình—nên được khuyến khích, hỗ trợ, và thiết lập trong bốn yếu tố của sự nhập lưu. Bốn điều đó là gì? *Niềm tin bất động* vào Đức Phật... giáo pháp... Tăng đoàn... Và *giới đức* được các bậc thánh yêu mến... dẫn đến *Định*. Những người mà các con có lòng cảm thông, và những người đáng lắng nghe—bạn bè và đồng nghiệp, họ hàng và gia đình—nên được khuyến khích, hỗ trợ, và thiết lập trong bốn yếu tố của sự nhập lưu này."
 
 <!--pg-->
-### N 55.17 Friends and Colleagues (2nd) *Dutiyamittāmaccasutta*
+### N 55.17 Bạn Bè và Đồng Nghiệp (Thứ Hai) *Dutiyamittāmaccasutta*
 
-"Mendicants, those who you have sympathy for, and those worth listening
-to---friends and colleagues, relatives and family---should be
-encouraged, supported, and established in the four factors of
-stream-entry. What four? Experiential confidence in the Buddha ...
+"Này các *Tỷ kheo*, những người mà các con có lòng cảm thông, và những người đáng lắng nghe—bạn bè và đồng nghiệp, họ hàng và gia đình—nên được khuyến khích, hỗ trợ, và thiết lập trong bốn yếu tố của sự nhập lưu. Bốn điều đó là gì? *Niềm tin bất động* vào Đức Phật...
 
-There might be change in the four principal states---the elements of
-earth, water, fire, and air---but a noble disciple with experiential
-confidence in the Buddha would never change. In this context, 'change'
-means that such a noble disciple will be reborn in hell, the animal
-realm, or the ghost realm: this is quite impossible.
+Có thể có sự thay đổi trong bốn trạng thái chính—các yếu tố đất, nước, lửa, và không khí—nhưng một *thánh đệ tử* với *niềm tin bất động* vào Đức Phật sẽ không bao giờ thay đổi. Trong bối cảnh này, 'thay đổi' có nghĩa là một *thánh đệ tử* như vậy sẽ bị tái sanh vào địa ngục, cõi súc sinh, hay cõi ngạ quỷ: điều này hoàn toàn không thể xảy ra.
 
-Experiential confidence in the teaching ...
+*Niềm tin bất động* vào giáo pháp...
 
-Experiential confidence in the Saṅgha ...
+*Niềm tin bất động* vào Tăng đoàn...
 
-The ethical conduct loved by the noble ones ... leading to immersion.
-There might be change in the four principal states---the elements of
-earth, water, fire, and air---but a noble disciple with the ethical
-conduct loved by the noble ones would never change. In this context,
-'change' means that such a noble disciple will be reborn in hell, the
-animal realm, or the ghost realm: this is quite impossible.
+*Giới đức* được các bậc thánh yêu mến... dẫn đến *Định*. Có thể có sự thay đổi trong bốn trạng thái chính—các yếu tố đất, nước, lửa, và không khí—nhưng một *thánh đệ tử* với *giới đức* được các bậc thánh yêu mến sẽ không bao giờ thay đổi. Trong bối cảnh này, 'thay đổi' có nghĩa là một *thánh đệ tử* như vậy sẽ bị tái sanh vào địa ngục, cõi súc sinh, hay cõi ngạ quỷ: điều này hoàn toàn không thể xảy ra.
 
-Those who you have sympathy for, and those worth listening to---friends
-and colleagues, relatives and family---should be encouraged, supported,
-and established in these four factors of stream-entry."
+Những người mà các con có lòng cảm thông, và những người đáng lắng nghe—bạn bè và đồng nghiệp, họ hàng và gia đình—nên được khuyến khích, hỗ trợ, và thiết lập trong bốn yếu tố của sự nhập lưu này."
 
 <!--pg-->
-### N 55.18 A Visit to the Gods (1st) *Paṭhamadevacārikasutta*
+### N 55.18 Một Chuyến Thăm Chư Thiên (Thứ Nhất) *Paṭhamadevacārikasutta*
 
-At Sāvatthī. And then Venerable
-Mahāmoggallāna, as easily as a strong person would extend
-or contract their arm, vanished from Jeta's Grove and reappeared among
-the gods of the thirty-three. Then several deities of the company of the
-thirty-three went up to Venerable Mahāmoggallāna, bowed,
-and stood to one side. Moggallāna said to them:
+Tại Sāvatthī. Và rồi Tôn giả Mahāmoggallāna, dễ dàng như một người mạnh duỗi hay co cánh tay, biến mất khỏi Vườn Jeta và xuất hiện giữa các vị trời ở cõi Ba Mươi Ba. Sau đó, một vài vị trời trong đoàn thể Ba Mươi Ba đến gặp Tôn giả Mahāmoggallāna, cúi lạy, và đứng sang một bên. Moggallāna nói với họ:
 
-"Reverends, it's good to have experiential confidence in the Buddha. ...
-It's the reason why some sentient beings, when their body breaks up,
-after death, are reborn in a good place, a heavenly realm. It's good to
-have experiential confidence in the teaching. ... the
-Saṅgha ... and to have the ethical conduct that's loved by
-the noble ones ... leading to immersion. It's the reason why some
-sentient beings, when their body breaks up, after death, are reborn in a
-good place, a heavenly realm."
+"Thưa các Tôn giả, thật tốt khi có *niềm tin bất động* vào Đức Phật. ... Đó là lý do tại sao một số chúng sanh, khi thân hoại mạng chung, sau khi chết, được tái sanh vào một nơi tốt đẹp, một cõi trời. Thật tốt khi có *niềm tin bất động* vào giáo pháp. ... Tăng đoàn... và có *giới đức* được các bậc thánh yêu mến... dẫn đến *Định*. Đó là lý do tại sao một số chúng sanh, khi thân hoại mạng chung, sau khi chết, được tái sanh vào một nơi tốt đẹp, một cõi trời."
 
-"My good Moggallāna, it's good to have experiential
-confidence in the Buddha ... It's the reason why some sentient beings,
-when their body breaks up, after death, are reborn in a good place, a
-heavenly realm. It's good to have experiential confidence in the
-teaching. ... the Saṅgha ... and to have the ethical
-conduct that's loved by the noble ones ... leading to immersion. It's
-the reason why some sentient beings, when their body breaks up, after
-death, are reborn in a good place, a heavenly realm."
+"Moggallāna tốt lành của tôi, thật tốt khi có *niềm tin bất động* vào Đức Phật... Đó là lý do tại sao một số chúng sanh, khi thân hoại mạng chung, sau khi chết, được tái sanh vào một nơi tốt đẹp, một cõi trời. Thật tốt khi có *niềm tin bất động* vào giáo pháp. ... Tăng đoàn... và có *giới đức* được các bậc thánh yêu mến... dẫn đến *Định*. Đó là lý do tại sao một số chúng sanh, khi thân hoại mạng chung, sau khi chết, được tái sanh vào một nơi tốt đẹp, một cõi trời."
 
 <!--pg-->
-### N 55.19 A Visit to the Gods (2nd) *Dutiyadevacārikasutta*
+### N 55.19 Một Chuyến Thăm Chư Thiên (Thứ Hai) *Dutiyadevacārikasutta*
 
-At Sāvatthī.
+Tại Sāvatthī.
 
-And then Venerable Mahāmoggallāna, as easily as a strong
-person would extend or contract their arm, vanished from Jeta's Grove
-and reappeared among the gods of the thirty-three. Then several deities
-of the company of the thirty-three went up to Venerable
-Mahāmoggallāna, bowed, and stood to one side.
-Moggallāna said to them:
+Và rồi Tôn giả Mahāmoggallāna, dễ dàng như một người mạnh duỗi hay co cánh tay, biến mất khỏi Vườn Jeta và xuất hiện giữa các vị trời ở cõi Ba Mươi Ba. Sau đó, một vài vị trời trong đoàn thể Ba Mươi Ba đến gặp Tôn giả Mahāmoggallāna, cúi lạy, và đứng sang một bên. Moggallāna nói với họ:
 
-"Reverends, it's good to have experiential confidence in the Buddha. ...
-It's the reason why some sentient beings, when their body breaks up,
-after death, have been reborn in a good place, a heavenly realm. It's
-good to have experiential confidence in the teaching. ... the
-Saṅgha ... and to have the ethical conduct that's loved by
-the noble ones ... leading to immersion. It's the reason why some
-sentient beings, when their body breaks up, after death, have been
-reborn in a good place, a heavenly realm."
+"Thưa các Tôn giả, thật tốt khi có *niềm tin bất động* vào Đức Phật. ... Đó là lý do tại sao một số chúng sanh, khi thân hoại mạng chung, sau khi chết, đã được tái sanh vào một nơi tốt đẹp, một cõi trời. Thật tốt khi có *niềm tin bất động* vào giáo pháp. ... Tăng đoàn... và có *giới đức* được các bậc thánh yêu mến... dẫn đến *Định*. Đó là lý do tại sao một số chúng sanh, khi thân hoại mạng chung, sau khi chết, đã được tái sanh vào một nơi tốt đẹp, một cõi trời."
 
-"My good Moggallāna, it's good to have experiential
-confidence in the Buddha ... It's the reason why some sentient beings,
-when their body breaks up, after death, have been reborn in a good
-place, a heavenly realm. It's good to have experiential confidence in
-the teaching. ... the Saṅgha ... and to have the ethical
-conduct that's loved by the noble ones ... leading to immersion. It's
-the reason why some sentient beings, when their body breaks up, after
-death, have been reborn in a good place, a heavenly realm."
+"Moggallāna tốt lành của tôi, thật tốt khi có *niềm tin bất động* vào Đức Phật... Đó là lý do tại sao một số chúng sanh, khi thân hoại mạng chung, sau khi chết, đã được tái sanh vào một nơi tốt đẹp, một cõi trời. Thật tốt khi có *niềm tin bất động* vào giáo pháp. ... Tăng đoàn... và có *giới đức* được các bậc thánh yêu mến... dẫn đến *Định*. Đó là lý do tại sao một số chúng sanh, khi thân hoại mạng chung, sau khi chết, đã được tái sanh vào một nơi tốt đẹp, một cõi trời."
 
 <!--pg-->
-### N 55.20 A Visit to the Gods (3rd) *Tatiyadevacārikasutta*
+### N 55.20 Một Chuyến Thăm Chư Thiên (Thứ Ba) *Tatiyadevacārikasutta*
 
-Then the Buddha, as easily as a strong person would extend or contract
-their arm, vanished from Jeta's Grove and reappeared among the gods of
-the thirty-three. Then several deities of the company of the
-thirty-three went up to the Buddha, bowed, and stood to one side. The
-Buddha said to them:
+Sau đó, Đức Phật, dễ dàng như một người mạnh duỗi hay co cánh tay, biến mất khỏi Vườn Jeta và xuất hiện giữa các vị trời ở cõi Ba Mươi Ba. Sau đó, một vài vị trời trong đoàn thể Ba Mươi Ba đến gặp Đức Phật, cúi lạy, và đứng sang một bên. Đức Phật nói với họ:
 
-"Reverends, it's good to have experiential confidence in the Buddha. ...
-It's the reason why some sentient beings are stream-enterers, not liable
-to be reborn in the underworld, bound for awakening. It's good to have
-experiential confidence in the teaching. ... the Saṅgha ...
-and to have the ethical conduct that's loved by the noble ones ...
-leading to immersion. It's the reason why some sentient beings are
-stream-enterers, not liable to be reborn in the underworld, bound for
-awakening."
+"Thưa các Tôn giả, thật tốt khi có *niềm tin bất động* vào Đức Phật. ... Đó là lý do tại sao một số chúng sanh là những *người nhập lưu*, không còn bị tái sanh vào đọa xứ, chắc chắn sẽ *giác ngộ*. Thật tốt khi có *niềm tin bất động* vào giáo pháp. ... Tăng đoàn... và có *giới đức* được các bậc thánh yêu mến... dẫn đến *Định*. Đó là lý do tại sao một số chúng sanh là những *người nhập lưu*, không còn bị tái sanh vào đọa xứ, chắc chắn sẽ *giác ngộ*."
 
-"Good fellow, it's good to have experiential confidence in the Buddha
-... It's the reason why some sentient beings are stream-enterers, not
-liable to be reborn in the underworld, bound for awakening. It's good to
-have experiential confidence in the teaching. ... the
-Saṅgha ... and to have the ethical conduct that's loved by
-the noble ones ... leading to immersion. It's the reason why some
-sentient beings are stream-enterers, not liable to be reborn in the
-underworld, bound for awakening."
+"Bạn tốt ơi, thật tốt khi có *niềm tin bất động* vào Đức Phật... Đó là lý do tại sao một số chúng sanh là những *người nhập lưu*, không còn bị tái sanh vào đọa xứ, chắc chắn sẽ *giác ngộ*. Thật tốt khi có *niềm tin bất động* vào giáo pháp. ... Tăng đoàn... và có *giới đức* được các bậc thánh yêu mến... dẫn đến *Định*. Đó là lý do tại sao một số chúng sanh là những *người nhập lưu*, không còn bị tái sanh vào đọa xứ, chắc chắn sẽ *giác ngộ*."
 
 <!--pg-->
-## The Chapter with Sarakāni
+## Phẩm Cùng Với Sarakāni
 
-### N 55.21 With Mahānāma (1st) *Paṭhamamahānāmasutta*
+### N 55.21 Cùng Với Mahānāma (Thứ Nhất) *Paṭhamamahānāmasutta*
 
-So I have heard. At one time the Buddha was staying in the
-land of the Sakyans, near Kapilavatthu in the Banyan Tree Monastery.
-Then Mahānāma the Sakyan went up to the Buddha, bowed, sat
-down to one side, and said to him:
+Tôi đã nghe như vầy. Một thời, Đức Phật đang ở trong xứ của người Thích Ca, gần Kapilavatthu trong Tu viện Cây Đa. Sau đó, Mahānāma người Thích Ca đến gặp Đức Phật, cúi lạy, ngồi xuống một bên, và thưa với Ngài:
 
-"Sir, this Kapilavatthu is successful and prosperous, populous, full of
-people, with cramped cul-de-sacs. In the late afternoon, after paying
-homage to the Buddha or an esteemed mendicant, I enter Kapilavatthu. I
-encounter a stray elephant, horse, chariot, cart, or person. At that
-time I lose mindfulness regarding the Buddha, the teaching, and the
-Saṅgha. I think: 'If I were to die at this time, where
-would I be reborn in my next life?'"
+"Bạch Thế Tôn, Kapilavatthu này thành công và thịnh vượng, đông dân, đầy người, với những con hẻm cụt chật chội. Vào cuối buổi chiều, sau khi tỏ lòng tôn kính Đức Phật hoặc một *Tỷ kheo* đáng kính, con vào Kapilavatthu. Con gặp một con voi, con ngựa, cỗ xe, xe bò, hoặc một người đi lạc. Lúc đó, con mất *niệm* (mindfulness / sati / sự quan sát và ghi nhớ) về Đức Phật, giáo pháp, và Tăng đoàn. Con nghĩ: 'Nếu con chết vào lúc này, con sẽ tái sanh vào đâu trong kiếp sau?'"
 
-"Do not fear, Mahānāma, do not fear! Your death will not be
-a bad one; your passing will not be a bad one. Take someone whose mind
-has for a long time been imbued with faith, ethics, learning,
-generosity, and wisdom. Their body is formed, made up of the four
-principal states, produced by mother and father, built up from rice and
-porridge, liable to impermanence, to wearing away and erosion, to
-breaking up and destruction. Right here the crows, vultures, hawks,
-dogs, jackals, and many kinds of little creatures devour it. But their
-mind rises up, headed for a higher place.
+"Đừng sợ, Mahānāma, đừng sợ! Cái chết của con sẽ không phải là một cái chết tồi tệ; sự ra đi của con sẽ không phải là một sự ra đi tồi tệ. Hãy xem một người có *tâm* đã từ lâu được thấm nhuần đức tin, giới hạnh, học vấn, lòng quảng đại, và trí tuệ. Thân thể của họ được hình thành, tạo thành từ bốn trạng thái chính, do cha mẹ sinh ra, được nuôi dưỡng từ cơm và cháo, phải chịu sự vô thường, sự mài mòn và xói mòn, sự tan rã và hủy diệt. Ngay tại đây, quạ, kền kền, diều hâu, chó, chó rừng, và nhiều loại sinh vật nhỏ bé ăn thịt nó. Nhưng *tâm* của họ vươn lên, hướng đến một nơi cao hơn.
 
-Suppose a person was to sink a pot of ghee or oil into a deep lake and
-break it open. Its shards and chips would sink down, while the ghee or
-oil in it would rise up, headed for a higher place.
+Giả sử một người nhấn chìm một hũ bơ hoặc dầu vào một hồ nước sâu và đập vỡ nó. Các mảnh vỡ của nó sẽ chìm xuống, trong khi bơ hoặc dầu trong đó sẽ nổi lên, hướng đến một nơi cao hơn.
 
-In the same way, take someone whose mind has for a long time been imbued
-with faith, ethics, learning, generosity, and wisdom. Their body
-consists of form, made up of the four principal states, produced by
-mother and father, built up from rice and porridge, liable to
-impermanence, to wearing away and erosion, to breaking up and
-destruction. Right here the crows, vultures, hawks, dogs, jackals, and
-many kinds of little creatures devour it. But their mind rises up,
-headed for a higher place.
+Tương tự như vậy, hãy xem một người có *tâm* đã từ lâu được thấm nhuần đức tin, giới hạnh, học vấn, lòng quảng đại, và trí tuệ. Thân thể của họ bao gồm hình thể, tạo thành từ bốn trạng thái chính, do cha mẹ sinh ra, được nuôi dưỡng từ cơm và cháo, phải chịu sự vô thường, sự mài mòn và xói mòn, sự tan rã và hủy diệt. Ngay tại đây, quạ, kền kền, diều hâu, chó, chó rừng, và nhiều loại sinh vật nhỏ bé ăn thịt nó. Nhưng *tâm* của họ vươn lên, hướng đến một nơi cao hơn.
 
-Your mind, Mahānāma, has for a long time been imbued with
-faith, ethics, learning, generosity, and wisdom. Do not fear,
-Mahānāma, do not fear! Your death will not be a bad one;
-your passing will not be a bad one."
+*Tâm* của con, Mahānāma, đã từ lâu được thấm nhuần đức tin, giới hạnh, học vấn, lòng quảng đại, và trí tuệ. Đừng sợ, Mahānāma, đừng sợ! Cái chết của con sẽ không phải là một cái chết tồi tệ; sự ra đi của con sẽ không phải là một sự ra đi tồi tệ."
 
 <!--pg-->
-### N 55.22 With Mahānāma (2nd) *Dutiyamahānāmasutta*
+### N 55.22 Cùng Với Mahānāma (Thứ Hai) *Dutiyamahānāmasutta*
 
-So I have heard. At one time the Buddha was staying in the
-land of the Sakyans, near Kapilavatthu in the Banyan Tree Monastery.
-Then Mahānāma the Sakyan went up to the Buddha, bowed, sat
-down to one side, and said to him:
+Tôi đã nghe như vầy. Một thời, Đức Phật đang ở trong xứ của người Thích Ca, gần Kapilavatthu trong Tu viện Cây Đa. Sau đó, Mahānāma người Thích Ca đến gặp Đức Phật, cúi lạy, ngồi xuống một bên, và thưa với Ngài:
 
-"Sir, this Kapilavatthu is successful and prosperous, populous, full of
-people, with cramped cul-de-sacs. In the late afternoon, after paying
-homage to the Buddha or an esteemed mendicant, I enter Kapilavatthu. I
-encounter a stray elephant, horse, chariot, cart, or person. At that
-time I lose mindfulness regarding the Buddha, the teaching, and the
-Saṅgha. I think: 'If I were to die at this time, where
-would I be reborn in my next life?'"
+"Bạch Thế Tôn, Kapilavatthu này thành công và thịnh vượng, đông dân, đầy người, với những con hẻm cụt chật chội. Vào cuối buổi chiều, sau khi tỏ lòng tôn kính Đức Phật hoặc một *Tỷ kheo* đáng kính, con vào Kapilavatthu. Con gặp một con voi, con ngựa, cỗ xe, xe bò, hoặc một người đi lạc. Lúc đó, con mất *niệm* về Đức Phật, giáo pháp, và Tăng đoàn. Con nghĩ: 'Nếu con chết vào lúc này, con sẽ tái sanh vào đâu trong kiếp sau?'"
 
-"Do not fear, Mahānāma, do not fear! Your death will not be
-a bad one; your passing will not be a bad one. A noble disciple who has
-four things slants, slopes, and inclines towards extinguishment. What
-four? It's when a noble disciple has experiential confidence in the
-Buddha ... the teaching ... the Saṅgha ... And they have
-the ethical conduct loved by the noble ones ... leading to immersion.
+"Đừng sợ, Mahānāma, đừng sợ! Cái chết của con sẽ không phải là một cái chết tồi tệ; sự ra đi của con sẽ không phải là một sự ra đi tồi tệ. Một *thánh đệ tử* có bốn điều sẽ nghiêng, dốc, và hướng về *Niết-bàn*. Bốn điều đó là gì? Đó là khi một *thánh đệ tử* có *niềm tin bất động* vào Đức Phật... giáo pháp... Tăng đoàn... Và vị ấy có *giới đức* được các bậc thánh yêu mến... dẫn đến *Định*.
 
-Suppose there was a tree that slants, slopes, and inclines to the east.
-If it was cut off at the root where would it fall?"
+Giả sử có một cái cây nghiêng, dốc, và hướng về phía đông. Nếu nó bị chặt gốc thì nó sẽ ngã về đâu?"
 
-"Sir, it would fall in the direction that it slants, slopes, and
-inclines."
+"Bạch Thế Tôn, nó sẽ ngã về hướng mà nó nghiêng, dốc, và hướng tới."
 
-"In the same way, a noble disciple who has four things slants, slopes,
-and inclines towards extinguishment."
+"Tương tự như vậy, một *thánh đệ tử* có bốn điều sẽ nghiêng, dốc, và hướng về *Niết-bàn*."
 
 <!--pg-->
-### N 55.23 With Godhā the Sakyan *Godhasakkasutta*
+### N 55.23 Cùng Với Godhā Người Thích Ca *Godhasakkasutta*
 
-At Kapilavatthu. Then Mahānāma the Sakyan went up to
-Godhā the Sakyan, and said to him, "Godhā, how
-many things must a person have for you to recognize them as a
-stream-enterer, not liable to be reborn in the underworld, bound for
-awakening?"
+Tại Kapilavatthu. Sau đó, Mahānāma người Thích Ca đến gặp Godhā người Thích Ca, và nói với ông: "Godhā, một người phải có bao nhiêu điều để ông công nhận họ là một *người nhập lưu*, không còn bị tái sanh vào đọa xứ, chắc chắn sẽ *giác ngộ*?"
 
-"Mahānāma, a person must have three things for me to
-recognize them as a stream-enterer. What three? It's when a noble
-disciple has experiential confidence in the Buddha ... the teaching ...
-and the Saṅgha ... When a person has these three things I
-recognize them as a stream-enterer.
+"Mahānāma, một người phải có ba điều để tôi công nhận họ là một *người nhập lưu*. Ba điều đó là gì? Đó là khi một *thánh đệ tử* có *niềm tin bất động* vào Đức Phật... giáo pháp... và Tăng đoàn... Khi một người có ba điều này, tôi công nhận họ là một *người nhập lưu*.
 
-But Mahānāma, how many things must a person have for *you*
-to recognize them as a stream-enterer?"
+Nhưng Mahānāma, một người phải có bao nhiêu điều để *ông* công nhận họ là một *người nhập lưu*?"
 
-"Godhā, a person must have four things for me to recognize
-them as a stream-enterer. What four? It's when a noble disciple has
-experiential confidence in the Buddha ... the teaching ... the
-Saṅgha ... And they have the ethical conduct loved by the
-noble ones ... leading to immersion. When a person has these four things
-I recognize them as a stream-enterer."
+"Godhā, một người phải có bốn điều để tôi công nhận họ là một *người nhập lưu*. Bốn điều đó là gì? Đó là khi một *thánh đệ tử* có *niềm tin bất động* vào Đức Phật... giáo pháp... Tăng đoàn... Và vị ấy có *giới đức* được các bậc thánh yêu mến... dẫn đến *Định*. Khi một người có bốn điều này, tôi công nhận họ là một *người nhập lưu*."
 
-"Hold on, Mahānāma, hold on! Only the Buddha would know
-whether or not they have these things."
+"Khoan đã, Mahānāma, khoan đã! Chỉ có Đức Phật mới biết liệu họ có những điều này hay không."
 
-"Come, Godhā, let's go to the Buddha and inform him about
-this."
+"Nào, Godhā, chúng ta hãy đến gặp Đức Phật và báo cho Ngài biết về việc này."
 
-Then Mahānāma and Godhā went to the Buddha,
-bowed, and sat down to one side. Mahānāma told the Buddha
-all that had happened, and then said:
+Sau đó, Mahānāma và Godhā đến gặp Đức Phật, cúi lạy, và ngồi xuống một bên. Mahānāma kể lại cho Đức Phật tất cả những gì đã xảy ra, và sau đó nói:
 
-"Sir, some issue regarding the teaching might come up. The Buddha might
-take one side, and the Saṅgha of monks the other. I'd side
-with the Buddha. May the Buddha remember me as having such confidence.
-Some issue regarding the teaching might come up. The Buddha might take
-one side, and the Saṅgha of monks and the
-Saṅgha of nuns the other. ... The Buddha might take one
-side, and the Saṅgha of monks and the Saṅgha
-of nuns and the laymen the other. ... The Buddha might take one side,
-and the Saṅgha of monks and the Saṅgha of nuns
-and the laymen and the laywomen the other. ... The Buddha might take one
-side, and the Saṅgha of monks and the Saṅgha
-of nuns and the laymen and the laywomen and the world---with its gods,
-Māras, and divinities, this population with its ascetics
-and brahmins, gods and humans---the other. I'd side with the Buddha. May
-the Buddha remember me as having such confidence."
+"Bạch Thế Tôn, có thể có một vấn đề nào đó về giáo pháp nảy sinh. Đức Phật có thể đứng về một phía, và Tăng đoàn các Tỷ kheo đứng về phía kia. Con sẽ đứng về phía Đức Phật. Xin Đức Phật hãy ghi nhớ con là người có niềm tin như vậy. Có thể có một vấn đề nào đó về giáo pháp nảy sinh. Đức Phật có thể đứng về một phía, và Tăng đoàn các Tỷ kheo và Tăng đoàn các Tỷ kheo ni đứng về phía kia. ... Đức Phật có thể đứng về một phía, và Tăng đoàn các Tỷ kheo và Tăng đoàn các Tỷ kheo ni và các cư sĩ nam đứng về phía kia. ... Đức Phật có thể đứng về một phía, và Tăng đoàn các Tỷ kheo và Tăng đoàn các Tỷ kheo ni và các cư sĩ nam và các cư sĩ nữ đứng về phía kia. ... Đức Phật có thể đứng về một phía, và Tăng đoàn các Tỷ kheo và Tăng đoàn các Tỷ kheo ni và các cư sĩ nam và các cư sĩ nữ và thế giới—với các vị trời, Ma vương, và thần linh, dân chúng này với các sa môn và Bà-la-môn, chư thiên và loài người—đứng về phía kia. Con sẽ đứng về phía Đức Phật. Xin Đức Phật hãy ghi nhớ con là người có niềm tin như vậy."
 
-"Godhā, what do you have to say to Mahānāma
-when he speaks like this?"
+"Godhā, ông có gì để nói với Mahānāma khi ông ấy nói như thế này không?"
 
-"Sir, I have nothing to say to Mahānāma when he speaks like
-this, except what is good and wholesome."
+"Bạch Thế Tôn, con không có gì để nói với Mahānāma khi ông ấy nói như thế này, ngoại trừ những điều tốt đẹp và lành mạnh."
 
 <!--pg-->
-### N 55.24 About Sarakāni (1st) *Paṭhamasaraṇānisakkasutta*
+### N 55.24 Về Sarakāni (Thứ Nhất) *Paṭhamasaraṇānisakkasutta*
 
-At Kapilavatthu.
+Tại Kapilavatthu.
 
-Now at that time Sarakāni the Sakyan had passed away. The
-Buddha declared that he was a stream-enterer, not liable to be reborn in
-the underworld, bound for awakening.
+Lúc bấy giờ, Sarakāni người Thích Ca đã qua đời. Đức Phật tuyên bố rằng ông là một *người nhập lưu*, không còn bị tái sanh vào đọa xứ, chắc chắn sẽ *giác ngộ*.
 
-At that, several Sakyans came together complaining, grumbling, and
-objecting, "Oh lord, how incredible, how amazing! Who can't become a
-stream-enterer these days? For the Buddha even declared
-Sarakāni to be a stream-enterer after he passed away.
-Sarakāni was too weak for the training; he used to drink
-liquor."
+Nghe vậy, một vài người Thích Ca tụ tập lại phàn nàn, càu nhàu, và phản đối: "Ôi trời, thật không thể tin được, thật đáng kinh ngạc! Ngày nay ai mà không thể trở thành *người nhập lưu* chứ? Vì Đức Phật thậm chí còn tuyên bố Sarakāni là một *người nhập lưu* sau khi ông ta qua đời. Sarakāni quá yếu kém trong việc tu tập; ông ta từng uống rượu."
 
-Then Mahānāma the Sakyan went up to the Buddha, bowed, sat
-down to one side, and told him what had happened. The Buddha said:
+Sau đó, Mahānāma người Thích Ca đến gặp Đức Phật, cúi lạy, ngồi xuống một bên, và kể lại cho Ngài những gì đã xảy ra. Đức Phật nói:
 
-"Mahānāma, when a lay follower has for a long time gone for
-refuge to the Buddha, the teaching, and the Saṅgha, how
-could they go to the underworld? And if anyone should rightly be said to
-have for a long time gone for refuge to the Buddha, the teaching, and
-the Saṅgha, it's Sarakāni the Sakyan.
-Sarakāni the Sakyan has for a long time gone for refuge to
-the Buddha, the teaching, and the Saṅgha. How could he go
-to the underworld?
+"Mahānāma, khi một cư sĩ tại gia đã từ lâu quy y Phật, Pháp, và Tăng, làm sao họ có thể đi vào đọa xứ? Và nếu có ai đáng được nói là đã từ lâu quy y Phật, Pháp, và Tăng, thì đó chính là Sarakāni người Thích Ca. Sarakāni người Thích Ca đã từ lâu quy y Phật, Pháp, và Tăng. Làm sao ông ta có thể đi vào đọa xứ?
 
-Take a certain person who has experiential confidence in the Buddha ...
-the teaching ... the Saṅgha ... They have laughing wisdom
-and swift wisdom, and are endowed with freedom. They've realized the
-undefiled freedom of heart and freedom by wisdom in this very life. And
-they live having realized it with their own insight due to the ending of
-defilements. This person is exempt from hell, the animal realm, and the
-ghost realm. They're exempt from places of loss, bad places, the
-underworld.
+Hãy xem một người nào đó có *niềm tin bất động* vào Đức Phật... giáo pháp... Tăng đoàn... Họ có *trí tuệ hoan hỷ* (laughing wisdom / hāsapaññā / trí tuệ phát sinh một cách vui vẻ, dễ dàng) và *trí tuệ nhanh nhạy* (swift wisdom / javanapaññā / trí tuệ sắc bén, phản ứng nhanh), và được phú cho sự giải thoát. Họ đã chứng ngộ *sự giải thoát tâm không ô nhiễm* và *sự giải thoát bằng trí tuệ* ngay trong đời này. Và họ sống sau khi đã tự mình chứng ngộ điều đó nhờ sự chấm dứt các *ô nhiễm*. Người này thoát khỏi địa ngục, cõi súc sinh, và cõi ngạ quỷ. Họ thoát khỏi những nơi mất mát, cảnh giới xấu, đọa xứ.
 
-Take another person who has experiential confidence in the Buddha ...
-the teaching ... the Saṅgha ... They have laughing wisdom
-and swift wisdom, but are not endowed with freedom. With the ending of
-the five lower fetters they're reborn spontaneously. They are
-extinguished there, and are not liable to return from that world. This
-person, too, is exempt from hell, the animal realm, and the ghost realm.
-They're exempt from places of loss, bad places, the underworld.
+Hãy xem một người khác có *niềm tin bất động* vào Đức Phật... giáo pháp... Tăng đoàn... Họ có *trí tuệ hoan hỷ* và *trí tuệ nhanh nhạy*, nhưng không được phú cho sự giải thoát. Với sự chấm dứt của năm *xiềng xích* thấp hơn, họ được hóa sanh. Họ nhập Niết-bàn tại đó, và không còn trở lại thế giới này nữa. Người này cũng thoát khỏi địa ngục, cõi súc sinh, và cõi ngạ quỷ. Họ thoát khỏi những nơi mất mát, cảnh giới xấu, đọa xứ.
 
-Take another person who has experiential confidence in the Buddha ...
-the teaching ... the Saṅgha ... But they don't have
-laughing wisdom or swift wisdom, nor are they endowed with freedom. With
-the ending of three fetters, and the weakening of greed, hate, and
-delusion, they're a once-returner. They come back to this world once
-only, then make an end of suffering. This person, too, is exempt from
-hell, the animal realm, and the ghost realm. They're exempt from places
-of loss, bad places, the underworld.
+Hãy xem một người khác có *niềm tin bất động* vào Đức Phật... giáo pháp... Tăng đoàn... Nhưng họ không có *trí tuệ hoan hỷ* hay *trí tuệ nhanh nhạy*, cũng không được phú cho sự giải thoát. Với sự chấm dứt của ba *xiềng xích*, và sự suy yếu của tham, sân, và si, họ là một *nhất lai*. Họ trở lại thế giới này chỉ một lần nữa, rồi chấm dứt khổ đau. Người này cũng thoát khỏi địa ngục, cõi súc sinh, và cõi ngạ quỷ. Họ thoát khỏi những nơi mất mát, cảnh giới xấu, đọa xứ.
 
-Take another person who has experiential confidence in the Buddha ...
-the teaching ... the Saṅgha ... But they don't have
-laughing wisdom or swift wisdom, nor are they endowed with freedom. With
-the ending of three fetters they're a stream-enterer, not liable to be
-reborn in the underworld, bound for awakening. This person, too, is
-exempt from hell, the animal realm, and the ghost realm. They're exempt
-from places of loss, bad places, the underworld.
+Hãy xem một người khác có *niềm tin bất động* vào Đức Phật... giáo pháp... Tăng đoàn... Nhưng họ không có *trí tuệ hoan hỷ* hay *trí tuệ nhanh nhạy*, cũng không được phú cho sự giải thoát. Với sự chấm dứt của ba *xiềng xích*, họ là một *người nhập lưu*, không còn bị tái sanh vào đọa xứ, chắc chắn sẽ *giác ngộ*. Người này cũng thoát khỏi địa ngục, cõi súc sinh, và cõi ngạ quỷ. Họ thoát khỏi những nơi mất mát, cảnh giới xấu, đọa xứ.
 
-Take another person who doesn't have experiential confidence in the
-Buddha ... the teaching ... the Saṅgha ... They don't have
-laughing wisdom or swift wisdom, nor are they endowed with freedom.
-Still, they have these qualities: the faculties of faith, energy,
-mindfulness, immersion, and wisdom. And they accept the teachings
-proclaimed by the Realized One after deliberating them with a degree of
-wisdom. This person, too, doesn't go to hell, the animal realm, and the
-ghost realm. They don't go to places of loss, bad places, the
-underworld.
+Hãy xem một người khác không có *niềm tin bất động* vào Đức Phật... giáo pháp... Tăng đoàn... Họ không có *trí tuệ hoan hỷ* hay *trí tuệ nhanh nhạy*, cũng không được phú cho sự giải thoát. Tuy nhiên, họ có những phẩm chất này: *năng lực của* (faculty of / indriya / các khả năng, quyền năng tinh thần) tín, tấn, niệm, định, và tuệ. Và họ chấp nhận các giáo pháp do Đấng Như Lai tuyên thuyết sau khi đã suy xét chúng với một mức độ trí tuệ. Người này cũng không đi đến địa ngục, cõi súc sinh, và cõi ngạ quỷ. Họ không đi đến những nơi mất mát, cảnh giới xấu, đọa xứ.
 
-Take another person who doesn't have experiential confidence in the
-Buddha ... the teaching ... the Saṅgha ... They don't have
-laughing wisdom or swift wisdom, nor are they endowed with freedom.
-Still, they have these qualities: the faculties of faith, energy,
-mindfulness, immersion, and wisdom. And they have a degree of faith and
-love for the Buddha. This person, too, doesn't go to hell, the animal
-realm, and the ghost realm. They don't go to places of loss, bad places,
-the underworld.
+Hãy xem một người khác không có *niềm tin bất động* vào Đức Phật... giáo pháp... Tăng đoàn... Họ không có *trí tuệ hoan hỷ* hay *trí tuệ nhanh nhạy*, cũng không được phú cho sự giải thoát. Tuy nhiên, họ có những phẩm chất này: *năng lực của* tín, tấn, niệm, định, và tuệ. Và họ có một mức độ đức tin và tình yêu đối với Đức Phật. Người này cũng không đi đến địa ngục, cõi súc sinh, và cõi ngạ quỷ. Họ không đi đến những nơi mất mát, cảnh giới xấu, đọa xứ.
 
-If these great sal trees could understand what was well said and poorly
-said, I'd declare them to be stream-enterers. Why can't this apply to
-Sarakāni? Mahānāma, Sarakāni the
-Sakyan undertook the training at the time of his death."
+Nếu những cây sala lớn này có thể hiểu được điều gì được nói hay và điều gì được nói dở, ta sẽ tuyên bố chúng là những *người nhập lưu*. Tại sao điều này không thể áp dụng cho Sarakāni? Mahānāma, Sarakāni người Thích Ca đã thực hành tu tập vào lúc lâm chung."
 
 <!--pg-->
-### N 55.25 About Sarakāni the Sakyan (2nd) *Dutiyasaraṇānisakkasutta*
+### N 55.25 Về Sarakāni Người Thích Ca (Thứ Hai) *Dutiyasaraṇānisakkasutta*
 
-At Kapilavatthu.
+Tại Kapilavatthu.
 
-Now at that time Sarakāni the Sakyan had passed away. The
-Buddha declared that he was a stream-enterer, not liable to be reborn in
-the underworld, bound for awakening.
+Lúc bấy giờ, Sarakāni người Thích Ca đã qua đời. Đức Phật tuyên bố rằng ông là một *người nhập lưu*, không còn bị tái sanh vào đọa xứ, chắc chắn sẽ *giác ngộ*.
 
-At that, several Sakyans came together complaining, grumbling, and
-objecting, "Oh lord, how incredible, how amazing! Who can't become a
-stream-enterer these days? For the Buddha even declared
-Sarakāni to be a stream-enterer after he passed away.
-Sarakāni didn't fulfill the training."
+Nghe vậy, một vài người Thích Ca tụ tập lại phàn nàn, càu nhàu, và phản đối: "Ôi trời, thật không thể tin được, thật đáng kinh ngạc! Ngày nay ai mà không thể trở thành *người nhập lưu* chứ? Vì Đức Phật thậm chí còn tuyên bố Sarakāni là một *người nhập lưu* sau khi ông ta qua đời. Sarakāni đã không hoàn thành việc tu tập."
 
-Then Mahānāma the Sakyan went up to the Buddha, bowed, sat
-down to one side, and told him what had happened. The Buddha said:
+Sau đó, Mahānāma người Thích Ca đến gặp Đức Phật, cúi lạy, ngồi xuống một bên, và kể lại cho Ngài những gì đã xảy ra. Đức Phật nói:
 
-"Mahānāma, when a lay follower has for a long time gone for
-refuge to the Buddha, the teaching, and the Saṅgha, how
-could they go to the underworld? And if anyone should rightly be said to
-have for a long time gone for refuge to the Buddha, the teaching, and
-the Saṅgha, it's Sarakāni the Sakyan.
-Sarakāni the Sakyan has for a long time gone for refuge to
-the Buddha, the teaching, and the Saṅgha.
+"Mahānāma, khi một cư sĩ tại gia đã từ lâu quy y Phật, Pháp, và Tăng, làm sao họ có thể đi vào đọa xứ? Và nếu có ai đáng được nói là đã từ lâu quy y Phật, Pháp, và Tăng, thì đó chính là Sarakāni người Thích Ca. Sarakāni người Thích Ca đã từ lâu quy y Phật, Pháp, và Tăng.
 
-Take a certain person who is sure and devoted to the Buddha ... the
-teaching ... the Saṅgha ... They have laughing wisdom and
-swift wisdom, and are endowed with freedom. They realize the undefiled
-freedom of heart and freedom by wisdom in this very life. And they live
-having realized it with their own insight due to the ending of
-defilements. This person is exempt from hell, the animal realm, and the
-ghost realm. They're exempt from places of loss, bad places, the
-underworld.
+Hãy xem một người nào đó chắc chắn và tận tâm với Đức Phật... giáo pháp... Tăng đoàn... Họ có *trí tuệ hoan hỷ* và *trí tuệ nhanh nhạy*, và được phú cho sự giải thoát. Họ chứng ngộ *sự giải thoát tâm không ô nhiễm* và *sự giải thoát bằng trí tuệ* ngay trong đời này. Và họ sống sau khi đã tự mình chứng ngộ điều đó nhờ sự chấm dứt các *ô nhiễm*. Người này thoát khỏi địa ngục, cõi súc sinh, và cõi ngạ quỷ. Họ thoát khỏi những nơi mất mát, cảnh giới xấu, đọa xứ.
 
-Take another person who is sure and devoted to the Buddha ... the
-teaching ... the Saṅgha ... They have laughing wisdom and
-swift wisdom, but are not endowed with freedom. With the ending of the
-five lower fetters, they're extinguished between one life and the next
-... they're extinguished upon landing ... they're extinguished without
-extra effort ... they're extinguished with extra effort ... they head
-upstream, going to the Akaniṭṭha realm. This person, too,
-is exempt from hell, the animal realm, and the ghost realm. They're
-exempt from places of loss, bad places, the underworld.
+Hãy xem một người khác chắc chắn và tận tâm với Đức Phật... giáo pháp... Tăng đoàn... Họ có *trí tuệ hoan hỷ* và *trí tuệ nhanh nhạy*, nhưng không được phú cho sự giải thoát. Với sự chấm dứt của năm *xiềng xích* thấp hơn, họ nhập Niết-bàn giữa kiếp này và kiếp sau... họ nhập Niết-bàn khi vừa tái sanh... họ nhập Niết-bàn không cần nỗ lực thêm... họ nhập Niết-bàn với nỗ lực thêm... họ đi ngược dòng, đến cõi Akaniṭṭha. Người này cũng thoát khỏi địa ngục, cõi súc sinh, và cõi ngạ quỷ. Họ thoát khỏi những nơi mất mát, cảnh giới xấu, đọa xứ.
 
-Take another person who is sure and devoted to the Buddha ... the
-teaching ... the Saṅgha ... But they don't have laughing
-wisdom or swift wisdom, nor are they endowed with freedom. With the
-ending of three fetters, and the weakening of greed, hate, and delusion,
-they're a once-returner. They come back to this world once only, then
-make an end of suffering. This person, too, is exempt from hell, the
-animal realm, and the ghost realm. They're exempt from places of loss,
-bad places, the underworld.
+Hãy xem một người khác chắc chắn và tận tâm với Đức Phật... giáo pháp... Tăng đoàn... Nhưng họ không có *trí tuệ hoan hỷ* hay *trí tuệ nhanh nhạy*, cũng không được phú cho sự giải thoát. Với sự chấm dứt của ba *xiềng xích*, và sự suy yếu của tham, sân, và si, họ là một *nhất lai*. Họ trở lại thế giới này chỉ một lần nữa, rồi chấm dứt khổ đau. Người này cũng thoát khỏi địa ngục, cõi súc sinh, và cõi ngạ quỷ. Họ thoát khỏi những nơi mất mát, cảnh giới xấu, đọa xứ.
 
-Take another person who is sure and devoted to the Buddha ... the
-teaching ... the Saṅgha ... But they don't have laughing
-wisdom or swift wisdom, nor are they endowed with freedom. With the
-ending of three fetters they're a stream-enterer, not liable to be
-reborn in the underworld, bound for awakening. This person, too, is
-exempt from hell, the animal realm, and the ghost realm. They're exempt
-from places of loss, bad places, the underworld.
+Hãy xem một người khác chắc chắn và tận tâm với Đức Phật... giáo pháp... Tăng đoàn... Nhưng họ không có *trí tuệ hoan hỷ* hay *trí tuệ nhanh nhạy*, cũng không được phú cho sự giải thoát. Với sự chấm dứt của ba *xiềng xích*, họ là một *người nhập lưu*, không còn bị tái sanh vào đọa xứ, chắc chắn sẽ *giác ngộ*. Người này cũng thoát khỏi địa ngục, cõi súc sinh, và cõi ngạ quỷ. Họ thoát khỏi những nơi mất mát, cảnh giới xấu, đọa xứ.
 
-Take another person who isn't sure or devoted to the Buddha ... the
-teaching ... the Saṅgha ... They don't have laughing wisdom
-or swift wisdom, nor are they endowed with freedom. Still, they have
-these qualities: the faculties of faith, energy, mindfulness, immersion,
-and wisdom. And they accept the teachings proclaimed by the Realized One
-after deliberating them with a degree of wisdom. This person, too,
-doesn't go to hell, the animal realm, and the ghost realm. They don't go
-to places of loss, bad places, the underworld.
+Hãy xem một người khác không chắc chắn hay tận tâm với Đức Phật... giáo pháp... Tăng đoàn... Họ không có *trí tuệ hoan hỷ* hay *trí tuệ nhanh nhạy*, cũng không được phú cho sự giải thoát. Tuy nhiên, họ có những phẩm chất này: *năng lực của* tín, tấn, niệm, định, và tuệ. Và họ chấp nhận các giáo pháp do Đấng Như Lai tuyên thuyết sau khi đã suy xét chúng với một mức độ trí tuệ. Người này cũng không đi đến địa ngục, cõi súc sinh, và cõi ngạ quỷ. Họ không đi đến những nơi mất mát, cảnh giới xấu, đọa xứ.
 
-Take another person who isn't sure or devoted to the Buddha ... the
-teaching ... the Saṅgha ... They don't have laughing wisdom
-or swift wisdom, nor are they endowed with freedom. Still, they have
-these qualities: the faculties of faith, energy, mindfulness, immersion,
-and wisdom. And they have a degree of faith and love for the Buddha.
-This person, too, doesn't go to hell, the animal realm, and the ghost
-realm. They don't go to places of loss, bad places, the underworld.
+Hãy xem một người khác không chắc chắn hay tận tâm với Đức Phật... giáo pháp... Tăng đoàn... Họ không có *trí tuệ hoan hỷ* hay *trí tuệ nhanh nhạy*, cũng không được phú cho sự giải thoát. Tuy nhiên, họ có những phẩm chất này: *năng lực của* tín, tấn, niệm, định, và tuệ. Và họ có một mức độ đức tin và tình yêu đối với Đức Phật. Người này cũng không đi đến địa ngục, cõi súc sinh, và cõi ngạ quỷ. Họ không đi đến những nơi mất mát, cảnh giới xấu, đọa xứ.
 
-Suppose there was a barren field, a barren ground, with uncleared
-stumps. And you had seeds that were broken, spoiled, weather-damaged,
-infertile, and ill kept. And the heavens didn't provide enough rain.
-Would those seeds grow, increase, and mature?"
+Giả sử có một cánh đồng cằn cỗi, một mảnh đất cằn cỗi, với những gốc cây chưa được dọn sạch. Và con có những hạt giống bị vỡ, hỏng, bị thời tiết làm hại, không thể nảy mầm, và được giữ gìn không tốt. Và trời không mưa đủ. Liệu những hạt giống đó có mọc, lớn lên, và trưởng thành không?"
 
-"No, sir."
+"Không, thưa Ngài."
 
-"In the same way, take a teaching that's badly explained and badly
-propounded, not emancipating, not leading to peace, proclaimed by
-someone who is not a fully awakened Buddha. This is what I call a barren
-field. A disciple remains in such a teaching, practicing in line with
-that teaching, practicing it properly, living in line with that
-teaching. This is what I call a bad seed.
+"Tương tự như vậy, hãy xem một giáo pháp được giải thích tồi và trình bày dở, không giải thoát, không dẫn đến an tịnh, được tuyên thuyết bởi một người không phải là một vị Phật giác ngộ viên mãn. Đây là điều ta gọi là một cánh đồng cằn cỗi. Một đệ tử ở lại trong một giáo pháp như vậy, thực hành theo giáo pháp đó, thực hành nó một cách đúng đắn, sống theo giáo pháp đó. Đây là điều ta gọi là một hạt giống xấu.
 
-Suppose there was a fertile field, a fertile ground, well-cleared of
-stumps. And you had seeds that were intact, unspoiled, not
-weather-damaged, fertile, and well-kept. And there's plenty of rainfall.
-Would those seeds grow, increase, and mature?"
+Giả sử có một cánh đồng màu mỡ, một mảnh đất màu mỡ, được dọn sạch gốc cây. Và con có những hạt giống còn nguyên vẹn, không bị hỏng, không bị thời tiết làm hại, có thể nảy mầm, và được giữ gìn tốt. Và có nhiều mưa. Liệu những hạt giống đó có mọc, lớn lên, và trưởng thành không?"
 
-"Yes, sir."
+"Có, thưa Ngài."
 
-"In the same way, take a teaching that's well explained and well
-propounded, emancipating, leading to peace, proclaimed by someone who is
-a fully awakened Buddha. This is what I call a fertile field. A disciple
-remains in such a teaching, practicing in line with that teaching,
-practicing it properly, living in line with that teaching. This is what
-I call a good seed. Why can't this apply to Sarakāni?
-Mahānāma, Sarakāni the Sakyan fulfilled the
-training at the time of his death."
+"Tương tự như vậy, hãy xem một giáo pháp được giải thích tốt và trình bày hay, giải thoát, dẫn đến an tịnh, được tuyên thuyết bởi một người là một vị Phật giác ngộ viên mãn. Đây là điều ta gọi là một cánh đồng màu mỡ. Một đệ tử ở lại trong một giáo pháp như vậy, thực hành theo giáo pháp đó, thực hành nó một cách đúng đắn, sống theo giáo pháp đó. Đây là điều ta gọi là một hạt giống tốt. Tại sao điều này không thể áp dụng cho Sarakāni? Mahānāma, Sarakāni người Thích Ca đã hoàn thành việc tu tập vào lúc lâm chung."
 
 <!--pg-->
-### N 55.26 Anāthapiṇḍika (1st) *Paṭhamaanāthapiṇḍikasutta*
+### N 55.26 Anāthapiṇḍika (Thứ Nhất) *Paṭhamaanāthapiṇḍikasutta*
 
-At Sāvatthī.
+Tại Sāvatthī.
 
-Now at that time the householder Anāthapiṇḍika was sick,
-suffering, gravely ill. Then he addressed a man, "Please, worthy man, go
-to Venerable Sāriputta, and in my name bow with your head
-to his feet. Say to him: 'Sir, the householder
-Anāthapiṇḍika is sick, suffering, gravely ill. He bows with
-his head to your feet.' And then say: 'Sir, please visit him at his home
-out of sympathy.'"
+Lúc bấy giờ, gia chủ Anāthapiṇḍika đang bị bệnh, đau đớn, bệnh rất nặng. Sau đó, ông nói với một người đàn ông: "Này người đáng kính, xin hãy đến gặp Tôn giả Sāriputta, và nhân danh tôi, cúi đầu lạy dưới chân ngài. Hãy thưa với ngài rằng: 'Thưa Tôn giả, gia chủ Anāthapiṇḍika đang bị bệnh, đau đớn, bệnh rất nặng. Ông ấy cúi đầu lạy dưới chân ngài.' Và sau đó hãy nói: 'Thưa Tôn giả, xin ngài hãy đến thăm nhà ông ấy vì lòng từ bi.'"
 
-"Yes, sir," that man replied. He did as Anāthapiṇḍika
-asked. Sāriputta consented with silence.
+"Vâng, thưa ngài," người đàn ông đó trả lời. Ông đã làm theo lời Anāthapiṇḍika yêu cầu. Sāriputta im lặng chấp thuận.
 
-Then Venerable Sāriputta robed up in the morning and,
-taking his bowl and robe, went with Venerable Ānanda as his second monk
-to Anāthapiṇḍika's home. He sat down on the seat spread
-out, and said to Anāthapiṇḍika, "I hope you're keeping
-well, householder; I hope you're all right. And I hope the pain is
-fading, not growing, that its fading is evident, not its growing."
+Sau đó, Tôn giả Sāriputta mặc y vào buổi sáng, mang bát và y, cùng với Tôn giả Ānanda làm thị giả, đến nhà Anāthapiṇḍika. Ngài ngồi xuống trên chỗ đã được trải sẵn, và nói với Anāthapiṇḍika: "Tôi hy vọng ông vẫn khỏe, gia chủ; tôi hy vọng ông vẫn ổn. Và tôi hy vọng cơn đau đang giảm dần, không tăng lên, rằng sự giảm bớt của nó là rõ ràng, chứ không phải sự tăng lên."
 
-"Sir, I'm not keeping well, I'm not getting by. The pain is terrible and
-growing, not fading; its growing is evident, not its fading."
+"Thưa Tôn giả, tôi không khỏe, tôi không qua được. Cơn đau thật khủng khiếp và đang tăng lên, không giảm đi; sự tăng lên của nó là rõ ràng, chứ không phải sự giảm đi."
 
-"Householder, you don't have the distrust in the Buddha that causes an
-unlearned ordinary person to be reborn---when their body breaks up,
-after death---in a place of loss, a bad place, the underworld, hell. And
-you have experiential confidence in the Buddha: 'That Blessed One is
-perfected, a fully awakened Buddha, accomplished in knowledge and
-conduct, holy, knower of the world, supreme guide for those who wish to
-train, teacher of gods and humans, awakened, blessed.' Seeing in
-yourself that experiential confidence in the Buddha, that pain may die
-down on the spot.
+"Gia chủ, ông không có sự *hoài nghi* vào Đức Phật, điều khiến một người phàm phu vô văn bị tái sanh—khi thân hoại mạng chung, sau khi chết—vào một nơi mất mát, một cảnh giới xấu, đọa xứ, địa ngục. Và ông có *niềm tin bất động* vào Đức Phật: 'Đức Thế Tôn đó là bậc A-la-hán, một vị Phật giác ngộ viên mãn, thành tựu tri thức và đức hạnh, bậc Thiện Thệ, người biết thế gian, bậc hướng đạo tối cao cho những ai muốn được huấn luyện, bậc thầy của chư thiên và loài người, bậc giác ngộ, bậc được tôn quý.' Khi thấy trong mình *niềm tin bất động* vào Đức Phật đó, cơn đau có thể dịu đi ngay lập tức.
 
-You don't have the distrust in the teaching that causes an unlearned
-ordinary person to be reborn---when their body breaks up, after
-death---in a place of loss, a bad place, the underworld, hell. And you
-have experiential confidence in the teaching: 'The teaching is well
-explained by the Buddha---apparent in the present life, immediately
-effective, inviting inspection, relevant, so that sensible people can
-know it for themselves.' Seeing in yourself that experiential confidence
-in the teaching, that pain may die down on the spot.
+Ông không có sự *hoài nghi* vào giáo pháp, điều khiến một người phàm phu vô văn bị tái sanh—khi thân hoại mạng chung, sau khi chết—vào một nơi mất mát, một cảnh giới xấu, đọa xứ, địa ngục. Và ông có *niềm tin bất động* vào giáo pháp: 'Giáo pháp được Đức Phật khéo giảng dạy—hiển hiện trong đời này, có hiệu quả tức thì, mời gọi đến để thấy, có liên quan, để người trí có thể tự mình biết được.' Khi thấy trong mình *niềm tin bất động* vào giáo pháp đó, cơn đau có thể dịu đi ngay lập tức.
 
-You don't have the distrust in the Saṅgha that causes an
-unlearned ordinary person to be reborn---when their body breaks up,
-after death---in a place of loss, a bad place, the underworld, hell. And
-you have experiential confidence in the Saṅgha: 'The
-Saṅgha of the Buddha's disciples is practicing the way
-that's good, direct, systematic, and proper. It consists of the four
-pairs, the eight individuals. This Saṅgha of the Buddha's
-disciples is worthy of offerings dedicated to the gods, worthy of
-hospitality, worthy of a religious donation, and worthy of veneration
-with joined palms. It is the supreme field of merit for the world.'
-Seeing in yourself that experiential confidence in the
-Saṅgha, that pain may die down on the spot.
+Ông không có sự *hoài nghi* vào Tăng đoàn, điều khiến một người phàm phu vô văn bị tái sanh—khi thân hoại mạng chung, sau khi chết—vào một nơi mất mát, một cảnh giới xấu, đọa xứ, địa ngục. Và ông có *niềm tin bất động* vào Tăng đoàn: 'Tăng đoàn các đệ tử của Đức Phật đang thực hành con đường tốt đẹp, trực tiếp, có hệ thống và đúng đắn. Tăng đoàn ấy bao gồm bốn đôi, tám cá nhân. Tăng đoàn các đệ tử của Đức Phật này xứng đáng được cúng dường cho chư thiên, xứng đáng được hiếu khách, xứng đáng được dâng tặng phẩm vật tôn giáo, và xứng đáng được tôn kính bằng cách chắp tay. Đó là ruộng phước tối cao cho thế gian.' Khi thấy trong mình *niềm tin bất động* vào Tăng đoàn đó, cơn đau có thể dịu đi ngay lập tức.
 
-You don't have the unethical conduct that causes an unlearned ordinary
-person to be reborn---when their body breaks up, after death---in a
-place of loss, a bad place, the underworld, hell. Your ethical conduct
-is loved by the noble ones, unbroken, impeccable, spotless, and
-unmarred, liberating, praised by sensible people, not mistaken, and
-leading to immersion. Seeing in yourself that ethical conduct loved by
-the noble ones, that pain may die down on the spot.
+Ông không có *giới đức* phi đạo đức, điều khiến một người phàm phu vô văn bị tái sanh—khi thân hoại mạng chung, sau khi chết—vào một nơi mất mát, một cảnh giới xấu, đọa xứ, địa ngục. *Giới đức* của ông được các bậc thánh yêu mến, không bị phá vỡ, không tì vết, không vết nhơ, và không bị hoen ố, có tính giải thoát, được người trí ca ngợi, không sai lầm, và dẫn đến *Định*. Khi thấy trong mình *giới đức* được các bậc thánh yêu mến đó, cơn đau có thể dịu đi ngay lập tức.
 
-You don't have the wrong view that causes an unlearned ordinary person
-to be reborn---when their body breaks up, after death---in a place of
-loss, a bad place, the underworld, hell. You have right view. Seeing in
-yourself that right view, that pain may die down on the spot.
+Ông không có *Tầm nhìn ác*, điều khiến một người phàm phu vô văn bị tái sanh—khi thân hoại mạng chung, sau khi chết—vào một nơi mất mát, một cảnh giới xấu, đọa xứ, địa ngục. Ông có *tầm nhìn thiện*. Khi thấy trong mình *tầm nhìn thiện* đó, cơn đau có thể dịu đi ngay lập tức.
 
-You don't have the wrong thought ...
+Ông không có suy nghĩ ác...
 
-wrong speech ...
+lời nói ác...
 
-wrong action ...
+hành động ác...
 
-wrong livelihood ...
+nghề nghiệp ác...
 
-wrong effort ...
+nỗ lực ác...
 
-wrong mindfulness ...
+niệm ác...
 
-wrong immersion ...
+định ác...
 
-wrong knowledge ...
+tri kiến ác...
 
-wrong freedom ... You have right freedom. Seeing in yourself that right
-freedom, that pain may die down on the spot."
+sự giải thoát ác... Ông có sự giải thoát đúng đắn. Khi thấy trong mình sự giải thoát đúng đắn đó, cơn đau có thể dịu đi ngay lập tức."
 
-And then Anāthapiṇḍika's pain died down on the spot. Then
-he served Sāriputta and Ānanda from his own dish. When
-Sāriputta had eaten and washed his hand and bowl,
-Anāthapiṇḍika took a low seat and sat to one side.
-Venerable Sāriputta expressed his appreciation to him with
-these verses.
+Và rồi cơn đau của Anāthapiṇḍika dịu đi ngay lập tức. Sau đó, ông dâng thức ăn từ đĩa của mình cho Sāriputta và Ānanda. Khi Sāriputta đã ăn xong và rửa tay và bát, Anāthapiṇḍika lấy một chiếc ghế thấp và ngồi sang một bên. Tôn giả Sāriputta bày tỏ lòng biết ơn với ông bằng những câu kệ này.
 
-> "Whoever has faith in the Realized One,\
-> unwavering and well grounded;\
-> whose ethical conduct is good,\
-> praised and loved by the noble ones;
+> "Ai có đức tin vào Đấng Như Lai,\
+> Không lay chuyển và vững chắc;\
+> Có giới hạnh tốt đẹp,\
+> Được các bậc thánh ca ngợi và yêu mến;
 >
-> who has confidence in the Saṅgha,\
-> and correct view:\
-> they're said to be prosperous,\
-> their life is not in vain.
+> Ai có niềm tin vào Tăng đoàn,\
+> Và có cái nhìn đúng đắn:\
+> Họ được cho là thịnh vượng,\
+> Cuộc đời họ không vô ích.
 >
-> So let the wise devote themselves\
-> to faith, ethical behaviour,\
-> confidence, and insight into the teaching,\
-> remembering the instructions of the Buddhas."
+> Vậy hãy để người trí tận tâm\
+> Với đức tin, hành vi đạo đức,\
+> Niềm tin, và tuệ giác về giáo pháp,\
+> Ghi nhớ lời dạy của các vị Phật."
 
-After expressing his appreciation to Anāthapiṇḍika with
-these verses, Sāriputta got up from his seat and left.
+Sau khi bày tỏ lòng biết ơn với Anāthapiṇḍika bằng những câu kệ này, Sāriputta đứng dậy khỏi chỗ ngồi và rời đi.
 
-Then Ānanda went up to the Buddha, bowed, and sat down to one side. The
-Buddha said to him, "So, Ānanda, where are you coming from in the middle
-of the day?"
+Sau đó, Ānanda đến gặp Đức Phật, cúi lạy, và ngồi xuống một bên. Đức Phật nói với ông: "Vậy, Ānanda, con từ đâu đến vào giữa ban ngày?"
 
-"Sir, Venerable Sāriputta advised the householder
-Anāthapiṇḍika in this way and that."
+"Bạch Thế Tôn, Tôn giả Sāriputta đã khuyên dạy gia chủ Anāthapiṇḍika theo cách này và cách khác."
 
-"Sāriputta is astute, Ānanda. He has great wisdom, since he
-can analyze the four factors of stream-entry in ten respects."
+"Sāriputta là người sáng suốt, Ānanda. Ông ấy có trí tuệ vĩ đại, vì ông ấy có thể phân tích bốn yếu tố của sự nhập lưu theo mười phương diện."
 
 <!--pg-->
-### N 55.27 With Anāthapiṇḍika (2nd) *Dutiyaanāthapiṇḍikasutta*
+### N 55.27 Cùng Với Anāthapiṇḍika (Thứ Hai) *Dutiyaanāthapiṇḍikasutta*
 
-At Sāvatthī.
+Tại Sāvatthī.
 
-Now at that time the householder Anāthapiṇḍika was sick,
-suffering, gravely ill. Then he addressed a man, "Please, worthy man, go
-to Venerable Ānanda, and in my name bow with your head to his feet. Say
-to him: 'Sir, the householder Anāthapiṇḍika is sick,
-suffering, gravely ill. He bows with his head to your feet.' And then
-say: 'Sir, please visit him at his home out of sympathy.'"
+Lúc bấy giờ, gia chủ Anāthapiṇḍika đang bị bệnh, đau đớn, bệnh rất nặng. Sau đó, ông nói với một người đàn ông: "Này người đáng kính, xin hãy đến gặp Tôn giả Ānanda, và nhân danh tôi, cúi đầu lạy dưới chân ngài. Hãy thưa với ngài rằng: 'Thưa Tôn giả, gia chủ Anāthapiṇḍika đang bị bệnh, đau đớn, bệnh rất nặng. Ông ấy cúi đầu lạy dưới chân ngài.' Và sau đó hãy nói: 'Thưa Tôn giả, xin ngài hãy đến thăm nhà ông ấy vì lòng từ bi.'"
 
-"Yes, sir," that man replied. He did as Anāthapiṇḍika
-asked. Ānanda consented with silence.
+"Vâng, thưa ngài," người đàn ông đó trả lời. Ông đã làm theo lời Anāthapiṇḍika yêu cầu. Ānanda im lặng chấp thuận.
 
-Then Venerable Ānanda robed up in the morning and, taking his bowl and
-robe, went to the home of the householder Anāthapiṇḍika. He
-sat down on the seat spread out and said to Anāthapiṇḍika,
-"I hope you're keeping well, householder; I hope you're all right. And I
-hope the pain is fading, not growing; that its fading, not its growing,
-is apparent."
+Sau đó, Tôn giả Ānanda mặc y vào buổi sáng, mang bát và y, đến nhà của gia chủ Anāthapiṇḍika. Ngài ngồi xuống trên chỗ đã được trải sẵn và nói với Anāthapiṇḍika: "Tôi hy vọng ông vẫn khỏe, gia chủ; tôi hy vọng ông vẫn ổn. Và tôi hy vọng cơn đau đang giảm dần, không tăng lên; rằng sự giảm bớt của nó, chứ không phải sự tăng lên, là rõ ràng."
 
-"Sir, I'm not keeping well, I'm not getting by. The pain is terrible and
-growing, not fading; its growing is evident, not its fading."
+"Thưa Tôn giả, tôi không khỏe, tôi không qua được. Cơn đau thật khủng khiếp và đang tăng lên, không giảm đi; sự tăng lên của nó là rõ ràng, chứ không phải sự giảm đi."
 
-"Householder, when an unlearned ordinary person has four things, they're
-frightened and terrified, and fear what awaits them after death. What
-four? Firstly, an unlearned ordinary person distrusts the Buddha. Seeing
-in themselves that distrust of the Buddha, they're frightened and
-terrified, and fear what awaits them after death.
+"Gia chủ, khi một người phàm phu vô văn có bốn điều, họ sợ hãi và kinh hoàng, và lo sợ những gì chờ đợi họ sau khi chết. Bốn điều đó là gì? Thứ nhất, một người phàm phu vô văn *hoài nghi* Đức Phật. Khi thấy trong mình sự *hoài nghi* Đức Phật đó, họ sợ hãi và kinh hoàng, và lo sợ những gì chờ đợi họ sau khi chết.
 
-Furthermore, an unlearned ordinary person distrusts the teaching ...
+Hơn nữa, một người phàm phu vô văn *hoài nghi* giáo pháp...
 
-Furthermore, an unlearned ordinary person distrusts the
-Saṅgha ...
+Hơn nữa, một người phàm phu vô văn *hoài nghi* Tăng đoàn...
 
-Furthermore, an unlearned ordinary person has unethical conduct. Seeing
-in themselves that unethical conduct, they're frightened and terrified,
-and fear what awaits them after death. When an unlearned ordinary person
-has these four things, they're frightened and terrified, and fear what
-awaits them after death.
+Hơn nữa, một người phàm phu vô văn có *giới đức* phi đạo đức. Khi thấy trong mình *giới đức* phi đạo đức đó, họ sợ hãi và kinh hoàng, và lo sợ những gì chờ đợi họ sau khi chết. Khi một người phàm phu vô văn có bốn điều này, họ sợ hãi và kinh hoàng, và lo sợ những gì chờ đợi họ sau khi chết.
 
-When a learned noble disciple has four things, they're not frightened or
-terrified, and don't fear what awaits them after death. What four?
-Firstly, a noble disciple has experiential confidence in the Buddha ...
-Seeing in themselves that experiential confidence in the Buddha, they're
-not frightened or terrified, and don't fear what awaits them after
-death.
+Khi một *thánh đệ tử* có học có bốn điều, họ không sợ hãi hay kinh hoàng, và không lo sợ những gì chờ đợi họ sau khi chết. Bốn điều đó là gì? Thứ nhất, một *thánh đệ tử* có *niềm tin bất động* vào Đức Phật... Khi thấy trong mình *niềm tin bất động* vào Đức Phật đó, họ không sợ hãi hay kinh hoàng, và không lo sợ những gì chờ đợi họ sau khi chết.
 
-Furthermore, a noble disciple has experiential confidence in the
-teaching ...
+Hơn nữa, một *thánh đệ tử* có *niềm tin bất động* vào giáo pháp...
 
-Furthermore, a noble disciple has experiential confidence in the
-Saṅgha ...
+Hơn nữa, một *thánh đệ tử* có *niềm tin bất động* vào Tăng đoàn...
 
-Furthermore, a noble disciple's ethical conduct is loved by the noble
-ones, unbroken, impeccable, spotless, and unmarred, liberating, praised
-by sensible people, not mistaken, and leading to immersion. Seeing in
-themselves that ethical conduct loved by the noble ones, they're not
-frightened or terrified, and don't fear what awaits them after death.
+Hơn nữa, *giới đức* của một *thánh đệ tử* được các bậc thánh yêu mến, không bị phá vỡ, không tì vết, không vết nhơ, và không bị hoen ố, có tính giải thoát, được người trí ca ngợi, không sai lầm, và dẫn đến *Định*. Khi thấy trong mình *giới đức* được các bậc thánh yêu mến đó, họ không sợ hãi hay kinh hoàng, và không lo sợ những gì chờ đợi họ sau khi chết.
 
-When a learned noble disciple has these four things, they're not
-frightened or terrified, and don't fear what awaits them after death."
+Khi một *thánh đệ tử* có học có bốn điều này, họ không sợ hãi hay kinh hoàng, và không lo sợ những gì chờ đợi họ sau khi chết."
 
-"Honorable Ānanda, I am not afraid. What have I to fear? For I have
-experiential confidence in the Buddha ... the teaching ... the
-Saṅgha ... And of the training rules appropriate for
-laypeople taught by the Buddha, I don't see any that I have broken."
+"Tôn giả Ānanda đáng kính, tôi không sợ hãi. Tôi có gì phải sợ? Vì tôi có *niềm tin bất động* vào Đức Phật... giáo pháp... Tăng đoàn... Và trong số các giới luật tu tập phù hợp cho người tại gia do Đức Phật dạy, tôi không thấy mình đã vi phạm giới nào."
 
-"You're fortunate, householder, so very fortunate! You have declared the
-fruit of stream-entry."
+"Ông thật may mắn, gia chủ, thật vô cùng may mắn! Ông đã tuyên bố quả vị của sự nhập lưu."
 
 <!--pg-->
-### N 55.28 Dangers and Threats (1st) *Paṭhamabhayaverūpasantasutta*
+### N 55.28 Nguy Hiểm và Đe Dọa (Thứ Nhất) *Paṭhamabhayaverūpasantasutta*
 
-At Sāvatthī.
+Tại Sāvatthī.
 
-Seated to one side, the Buddha said to the householder
-Anāthapiṇḍika:
+Ngồi xuống một bên, Đức Phật nói với gia chủ Anāthapiṇḍika:
 
-"Householder, when a noble disciple has quelled five dangers and
-threats, has the four factors of stream-entry, and has clearly seen and
-comprehended the noble system with wisdom, they may, if they wish,
-declare of themselves: 'I've finished with rebirth in hell, the animal
-realm, and the ghost realm. I've finished with all places of loss, bad
-places, the underworld. I am a stream-enterer! I'm not liable to be
-reborn in the underworld, and am bound for awakening.'
+"Gia chủ, khi một *thánh đệ tử* đã dập tắt năm nguy hiểm và đe dọa, có bốn yếu tố của sự nhập lưu, và đã thấy rõ và thấu hiểu hệ thống cao quý bằng trí tuệ, vị ấy có thể, nếu muốn, tự tuyên bố về mình: 'Ta đã chấm dứt việc tái sanh vào địa ngục, cõi súc sinh, và cõi ngạ quỷ. Ta đã chấm dứt tất cả những nơi mất mát, cảnh giới xấu, đọa xứ. Ta là một *người nhập lưu*! Ta không còn bị tái sanh vào đọa xứ, và chắc chắn sẽ *giác ngộ*.'
 
-What are the five dangers and threats they have quelled? Anyone who
-kills living creatures creates dangers and threats both in this life and
-in lives to come, and experiences mental pain and sadness. So that
-danger and threat is quelled for anyone who refrains from killing living
-creatures. Anyone who steals ... Anyone who commits sexual misconduct
-... Anyone who lies ... Anyone who consumes beer, wine, and liquor
-intoxicants creates dangers and threats both in this life and in lives
-to come, and experiences mental pain and sadness. So that danger and
-threat is quelled for anyone who refrains from beer, wine, and liquor
-intoxicants. These are the five dangers and threats they have quelled.
+Năm nguy hiểm và đe dọa mà vị ấy đã dập tắt là gì? Bất kỳ ai giết hại chúng sanh đều tạo ra nguy hiểm và đe dọa cả trong đời này và trong các kiếp sau, và trải qua nỗi đau và buồn bã về tinh thần. Vì vậy, nguy hiểm và đe dọa đó được dập tắt đối với bất kỳ ai từ bỏ việc giết hại chúng sanh. Bất kỳ ai trộm cắp... Bất kỳ ai phạm tà dâm... Bất kỳ ai nói dối... Bất kỳ ai tiêu thụ bia, rượu, và các chất gây say tạo ra nguy hiểm và đe dọa cả trong đời này và trong các kiếp sau, và trải qua nỗi đau và buồn bã về tinh thần. Vì vậy, nguy hiểm và đe dọa đó được dập tắt đối với bất kỳ ai từ bỏ bia, rượu, và các chất gây say. Đây là năm nguy hiểm và đe dọa mà vị ấy đã dập tắt.
 
-What are the four factors of stream-entry that they have? It's when a
-noble disciple has experiential confidence in the Buddha ... the
-teaching ... the Saṅgha ... And they have the ethical
-conduct loved by the noble ones ... leading to immersion. These are the
-four factors of stream-entry that they have.
+Bốn yếu tố của sự nhập lưu mà vị ấy có là gì? Đó là khi một *thánh đệ tử* có *niềm tin bất động* vào Đức Phật... giáo pháp... Tăng đoàn... Và vị ấy có *giới đức* được các bậc thánh yêu mến... dẫn đến *Định*. Đây là bốn yếu tố của sự nhập lưu mà vị ấy có.
 
-And what is the noble system that they have clearly seen and
-comprehended with wisdom? A noble disciple rationally applies the mind
-to dependent origination itself: 'When this exists, that is; due to the
-arising of this, that arises. When this doesn't exist, that is not; due
-to the cessation of this, that ceases.' That is: Ignorance is a
-condition for choices. Choices are a condition for consciousness.
-Consciousness is a condition for name and form. Name and form are a
-condition for the six sense fields. The six sense fields are conditions
-for contact. Contact is a condition for feeling. Feeling is a condition
-for craving. Craving is a condition for grasping. Grasping is a
-condition for continued existence. Continued existence is a condition
-for rebirth. Rebirth is a condition for old age and death, sorrow,
-lamentation, pain, sadness, and distress to come to be. That is how this
-entire mass of suffering originates. When ignorance fades away and
-ceases with nothing left over, choices cease. When choices cease,
-consciousness ceases. When consciousness ceases, name and form cease.
-When name and form cease, the six sense fields cease. When the six sense
-fields cease, contact ceases. When contact ceases, feeling ceases. When
-feeling ceases, craving ceases. When craving ceases, grasping ceases.
-When grasping ceases, continued existence ceases. When continued
-existence ceases, rebirth ceases. When rebirth ceases, old age and
-death, sorrow, lamentation, pain, sadness, and distress cease. That is
-how this entire mass of suffering ceases. This is the noble system that
-they have clearly seen and comprehended with wisdom.
+Và hệ thống cao quý mà vị ấy đã thấy rõ và thấu hiểu bằng trí tuệ là gì? Một *thánh đệ tử* *suy ngẫm tận đến gốc rễ* về chính *duyên khởi* (dependent origination / paṭiccasamuppāda / sự phát sinh có điều kiện của các hiện tượng): 'Khi cái này có, cái kia có; do sự phát sinh của cái này, cái kia phát sinh. Khi cái này không có, cái kia không có; do sự chấm dứt của cái này, cái kia chấm dứt.' Đó là: Vô minh là điều kiện cho *hành*. *Hành* là điều kiện cho *thức*. *Thức* là điều kiện cho danh và sắc. Danh và sắc là điều kiện cho sáu xứ giác quan. Sáu xứ giác quan là điều kiện cho xúc. Xúc là điều kiện cho *cảm giác*. *Cảm giác* là điều kiện cho ái. Ái là điều kiện cho *bám giữ*. *Bám giữ* là điều kiện cho hữu. Hữu là điều kiện cho sanh. Sanh là điều kiện cho già và chết, *sầu*, *oán trách*, *khổ (thân)*, *khổ tâm*, và *phiền não* nảy sinh. Đó là cách toàn bộ khối khổ đau này khởi nguồn. Khi vô minh phai nhạt và chấm dứt không còn sót lại, *hành* chấm dứt. Khi *hành* chấm dứt, *thức* chấm dứt. Khi *thức* chấm dứt, danh và sắc chấm dứt. Khi danh và sắc chấm dứt, sáu xứ giác quan chấm dứt. Khi sáu xứ giác quan chấm dứt, xúc chấm dứt. Khi xúc chấm dứt, *cảm giác* chấm dứt. Khi *cảm giác* chấm dứt, ái chấm dứt. Khi ái chấm dứt, *bám giữ* chấm dứt. Khi *bám giữ* chấm dứt, hữu chấm dứt. Khi hữu chấm dứt, sanh chấm dứt. Khi sanh chấm dứt, già và chết, *sầu*, *oán trách*, *khổ (thân)*, *khổ tâm*, và *phiền não* chấm dứt. Đó là cách toàn bộ khối khổ đau này chấm dứt. Đây là hệ thống cao quý mà vị ấy đã thấy rõ và thấu hiểu bằng trí tuệ.
 
-When a noble disciple has quelled five dangers and threats, has the four
-factors of stream-entry, and has clearly seen and comprehended the noble
-system with wisdom, they may, if they wish, declare of themselves: 'I've
-finished with rebirth in hell, the animal realm, and the ghost realm.
-I've finished with all places of loss, bad places, the underworld. I am
-a stream-enterer! I'm not liable to be reborn in the underworld, and am
-bound for awakening.'"
+Khi một *thánh đệ tử* đã dập tắt năm nguy hiểm và đe dọa, có bốn yếu tố của sự nhập lưu, và đã thấy rõ và thấu hiểu hệ thống cao quý bằng trí tuệ, vị ấy có thể, nếu muốn, tự tuyên bố về mình: 'Ta đã chấm dứt việc tái sanh vào địa ngục, cõi súc sinh, và cõi ngạ quỷ. Ta đã chấm dứt tất cả những nơi mất mát, cảnh giới xấu, đọa xứ. Ta là một *người nhập lưu*! Ta không còn bị tái sanh vào đọa xứ, và chắc chắn sẽ *giác ngộ*.'"
 
 <!--pg-->
-### N 55.29 Dangers and Threats (2nd) *Dutiyabhayaverūpasantasutta*
+### N 55.29 Nguy Hiểm và Đe Dọa (Thứ Hai) *Dutiyabhayaverūpasantasutta*
 
-At Sāvatthī. ... "Mendicants, when a noble disciple has
-quelled five dangers and threats, has the four factors of stream-entry,
-and has clearly seen and comprehended the noble system with wisdom, they
-may, if they wish, declare of themselves: 'I've finished with rebirth in
-hell, the animal realm, and the ghost realm. I've finished with all
-places of loss, bad places, the underworld. I am a stream-enterer! I'm
-not liable to be reborn in the underworld, and am bound for awakening.'"
+Tại Sāvatthī. ... "Này các *Tỷ kheo*, khi một *thánh đệ tử* đã dập tắt năm nguy hiểm và đe dọa, có bốn yếu tố của sự nhập lưu, và đã thấy rõ và thấu hiểu hệ thống cao quý bằng trí tuệ, vị ấy có thể, nếu muốn, tự tuyên bố về mình: 'Ta đã chấm dứt việc tái sanh vào địa ngục, cõi súc sinh, và cõi ngạ quỷ. Ta đã chấm dứt tất cả những nơi mất mát, cảnh giới xấu, đọa xứ. Ta là một *người nhập lưu*! Ta không còn bị tái sanh vào đọa xứ, và chắc chắn sẽ *giác ngộ*.'"
 
 <!--pg-->
-### N 55.30 With Nandaka the Licchavi *Nandakalicchavisutta*
+### N 55.30 Cùng Với Nandaka Người Licchavi *Nandakalicchavisutta*
 
-At one time the Buddha was staying near Vesālī, at the
-Great Wood, in the hall with the peaked roof. Then Nandaka the Licchavi
-chief minister went up to the Buddha, bowed, and sat down to one side.
-The Buddha said to him:
+Một thời, Đức Phật đang ở gần Vesālī, tại Rừng Lớn, trong giảng đường có mái nhọn. Sau đó, Nandaka, vị đại thần người Licchavi, đến gặp Đức Phật, cúi lạy, và ngồi xuống một bên. Đức Phật nói với ông:
 
-"Nandaka, a noble disciple who has four things is a stream-enterer, not
-liable to be reborn in the underworld, bound for awakening. What four?
-It's when a noble disciple has experiential confidence in the Buddha ...
-the teaching ... the Saṅgha ... And they have the ethical
-conduct loved by the noble ones ... leading to immersion. A noble
-disciple who has these four things is a stream-enterer, not liable to be
-reborn in the underworld, bound for awakening.
+"Nandaka, một *thánh đệ tử* có bốn điều là một *người nhập lưu*, không còn bị tái sanh vào đọa xứ, chắc chắn sẽ *giác ngộ*. Bốn điều đó là gì? Đó là khi một *thánh đệ tử* có *niềm tin bất động* vào Đức Phật... giáo pháp... Tăng đoàn... Và vị ấy có *giới đức* được các bậc thánh yêu mến... dẫn đến *Định*. Một *thánh đệ tử* có bốn điều này là một *người nhập lưu*, không còn bị tái sanh vào đọa xứ, chắc chắn sẽ *giác ngộ*.
 
-A noble disciple who has these four things is guaranteed long life, both
-human and heavenly ... beauty ... happiness ... fame ... and
-sovereignty, both human and heavenly. Now, I don't say this because I've
-heard it from some other ascetic or brahmin. I only say it because I've
-known, seen, and realized it for myself."
+Một *thánh đệ tử* có bốn điều này được đảm bảo sống lâu, cả ở cõi người và cõi trời... sắc đẹp... hạnh phúc... danh tiếng... và quyền lực, cả ở cõi người và cõi trời. Này, ta không nói điều này vì đã nghe từ một sa môn hay Bà-la-môn nào khác. Ta chỉ nói điều này vì ta đã tự mình biết, thấy, và chứng ngộ."
 
-When he had spoken, a certain person said to Nandaka:
+Khi Ngài đã nói xong, một người nào đó nói với Nandaka:
 
-"Sir, it is time to bathe."
+"Thưa ngài, đã đến giờ tắm."
 
-"Enough now, my man, with that exterior bath. This interior bathing will
-do for me, that is, confidence in the Buddha."
+"Thôi đi, anh bạn, với việc tắm bên ngoài đó. Việc tắm bên trong này là đủ cho tôi, đó là, niềm tin vào Đức Phật."
 
 <!--pg-->
-## The Chapter on Overflowing Merit
+## Phẩm Công Đức Tràn Đầy
 
-### N 55.31 Overflowing Merit (1st) *Paṭhamapuññābhisandasutta*
+### N 55.31 Công Đức Tràn Đầy (Thứ Nhất) *Paṭhamapuññābhisandasutta*
 
-At Sāvatthī.
+Tại Sāvatthī.
 
-"Mendicants, there are these four kinds of overflowing merit,
-overflowing goodness that nurture happiness. What four? Firstly, a noble
-disciple has experiential confidence in the Buddha ... This is the first
-kind of overflowing merit, overflowing goodness that nurtures happiness.
+"Này các *Tỷ kheo*, có bốn loại *công đức tràn đầy* (overflowing merit / puññābhisanda / dòng phước báu tuôn chảy không ngừng), thiện lành tràn đầy nuôi dưỡng hạnh phúc. Bốn loại đó là gì? Thứ nhất, một *thánh đệ tử* có *niềm tin bất động* vào Đức Phật... Đây là loại *công đức tràn đầy* thứ nhất, thiện lành tràn đầy nuôi dưỡng hạnh phúc.
 
-Furthermore, a noble disciple has experiential confidence in the
-teaching ... This is the second kind of overflowing merit, overflowing
-goodness that nurtures happiness.
+Hơn nữa, một *thánh đệ tử* có *niềm tin bất động* vào giáo pháp... Đây là loại *công đức tràn đầy* thứ hai, thiện lành tràn đầy nuôi dưỡng hạnh phúc.
 
-Furthermore, a noble disciple has experiential confidence in the
-Saṅgha ... This is the third kind of overflowing merit,
-overflowing goodness that nurtures happiness.
+Hơn nữa, một *thánh đệ tử* có *niềm tin bất động* vào Tăng đoàn... Đây là loại *công đức tràn đầy* thứ ba, thiện lành tràn đầy nuôi dưỡng hạnh phúc.
 
-Furthermore, a noble disciple's ethical conduct is loved by the noble
-ones, unbroken, impeccable, spotless, and unmarred, liberating, praised
-by sensible people, not mistaken, and leading to immersion. This is the
-fourth kind of overflowing merit, overflowing goodness that nurtures
-happiness. These are the four kinds of overflowing merit, overflowing
-goodness that nurture happiness."
+Hơn nữa, *giới đức* của một *thánh đệ tử* được các bậc thánh yêu mến, không bị phá vỡ, không tì vết, không vết nhơ, và không bị hoen ố, có tính giải thoát, được người trí ca ngợi, không sai lầm, và dẫn đến *Định*. Đây là loại *công đức tràn đầy* thứ tư, thiện lành tràn đầy nuôi dưỡng hạnh phúc. Đây là bốn loại *công đức tràn đầy*, thiện lành tràn đầy nuôi dưỡng hạnh phúc."
 
 <!--pg-->
-### N 55.32 Overflowing Merit (2nd) *Dutiyapuññābhisandasutta*
+### N 55.32 Công Đức Tràn Đầy (Thứ Hai) *Dutiyapuññābhisandasutta*
 
-"Mendicants, there are these four kinds of overflowing merit,
-overflowing goodness that nurture happiness. What four? It's when a
-noble disciple has experiential confidence in the Buddha ... the
-teaching ... the Saṅgha ...
+"Này các *Tỷ kheo*, có bốn loại *công đức tràn đầy*, thiện lành tràn đầy nuôi dưỡng hạnh phúc. Bốn loại đó là gì? Đó là khi một *thánh đệ tử* có *niềm tin bất động* vào Đức Phật... giáo pháp... Tăng đoàn...
 
-Furthermore, a noble disciple lives at home rid of the stain of
-stinginess, freely generous, open-handed, loving to let go, committed to
-charity, loving to give and to share. This is the fourth kind of
-overflowing merit, overflowing goodness that nurtures happiness. These
-are the four kinds of overflowing merit, overflowing goodness that
-nurture happiness."
+Hơn nữa, một *thánh đệ tử* sống tại gia thoát khỏi vết nhơ của *sự keo kiệt*, rộng lòng bố thí, hào phóng, thích buông xả, cam kết làm từ thiện, thích cho đi và chia sẻ. Đây là loại *công đức tràn đầy* thứ tư, thiện lành tràn đầy nuôi dưỡng hạnh phúc. Đây là bốn loại *công đức tràn đầy*, thiện lành tràn đầy nuôi dưỡng hạnh phúc."
 
 <!--pg-->
-### N 55.33 Overflowing Merit (3rd) *Tatiyapuññābhisandasutta*
+### N 55.33 Công Đức Tràn Đầy (Thứ Ba) *Tatiyapuññābhisandasutta*
 
-"Mendicants, there are these four kinds of overflowing merit,
-overflowing goodness that nurture happiness. What four? It's when a
-noble disciple has experiential confidence in the Buddha ... the
-teaching ... the Saṅgha ...
+"Này các *Tỷ kheo*, có bốn loại *công đức tràn đầy*, thiện lành tràn đầy nuôi dưỡng hạnh phúc. Bốn loại đó là gì? Đó là khi một *thánh đệ tử* có *niềm tin bất động* vào Đức Phật... giáo pháp... Tăng đoàn...
 
-Furthermore, a noble disciple is wise. They have the wisdom of arising
-and passing away which is noble, penetrative, and leads to the complete
-ending of suffering. This is the fourth kind of overflowing merit,
-overflowing goodness that nurtures happiness. These are the four kinds
-of overflowing merit, overflowing goodness that nurture happiness."
+Hơn nữa, một *thánh đệ tử* có trí tuệ. Vị ấy có trí tuệ về sự sinh và diệt, là trí tuệ cao quý, thâm nhập, và dẫn đến sự chấm dứt hoàn toàn khổ đau. Đây là loại *công đức tràn đầy* thứ tư, thiện lành tràn đầy nuôi dưỡng hạnh phúc. Đây là bốn loại *công đức tràn đầy*, thiện lành tràn đầy nuôi dưỡng hạnh phúc."
 
 <!--pg-->
-### N 55.34 Footprints of the Gods (1st) *Paṭhamadevapadasutta*
+### N 55.34 Dấu Chân Của Chư Thiên (Thứ Nhất) *Paṭhamadevapadasutta*
 
-At Sāvatthī.
+Tại Sāvatthī.
 
-"Mendicants, these four footprints of the gods are in order to purify
-unpurified beings and cleanse unclean beings.
+"Này các *Tỷ kheo*, bốn dấu chân của chư thiên này là để thanh lọc những chúng sanh chưa thanh tịnh và làm trong sạch những chúng sanh chưa trong sạch.
 
-What four? Firstly, a noble disciple has experiential confidence in the
-Buddha ... This is the first footprint of the gods in order to purify
-unpurified beings and cleanse unclean beings.
+Bốn dấu chân đó là gì? Thứ nhất, một *thánh đệ tử* có *niềm tin bất động* vào Đức Phật... Đây là dấu chân thứ nhất của chư thiên để thanh lọc những chúng sanh chưa thanh tịnh và làm trong sạch những chúng sanh chưa trong sạch.
 
-Furthermore, a noble disciple has experiential confidence in the
-teaching ... the Saṅgha ...
+Hơn nữa, một *thánh đệ tử* có *niềm tin bất động* vào giáo pháp... Tăng đoàn...
 
-Furthermore, a noble disciple's ethical conduct is loved by the noble
-ones, unbroken, impeccable, spotless, and unmarred, liberating, praised
-by sensible people, not mistaken, and leading to immersion. This is the
-fourth footprint of the gods in order to purify unpurified beings and
-cleanse unclean beings. These four footprints of the gods are in order
-to purify unpurified beings and cleanse unclean beings."
+Hơn nữa, *giới đức* của một *thánh đệ tử* được các bậc thánh yêu mến, không bị phá vỡ, không tì vết, không vết nhơ, và không bị hoen ố, có tính giải thoát, được người trí ca ngợi, không sai lầm, và dẫn đến *Định*. Đây là dấu chân thứ tư của chư thiên để thanh lọc những chúng sanh chưa thanh tịnh và làm trong sạch những chúng sanh chưa trong sạch. Bốn dấu chân của chư thiên này là để thanh lọc những chúng sanh chưa thanh tịnh và làm trong sạch những chúng sanh chưa trong sạch."
 
 <!--pg-->
-### N 55.35 Footprints of the Gods (2nd) *Dutiyadevapadasutta*
+### N 55.35 Dấu Chân Của Chư Thiên (Thứ Hai) *Dutiyadevapadasutta*
 
-"Mendicants, these four footprints of the gods are in order to purify
-unpurified beings and cleanse unclean beings.
+"Này các *Tỷ kheo*, bốn dấu chân của chư thiên này là để thanh lọc những chúng sanh chưa thanh tịnh và làm trong sạch những chúng sanh chưa trong sạch.
 
-What four? Firstly, a noble disciple has experiential confidence in the
-Buddha: 'That Blessed One is perfected, a fully awakened Buddha,
-accomplished in knowledge and conduct, holy, knower of the world,
-supreme guide for those who wish to train, teacher of gods and humans,
-awakened, blessed.' Then they reflect: 'What now is the footprint of the
-gods?' They understand: 'I hear that these days the gods consider
-non-harming to be supreme. But I don't hurt any creature firm or frail.
-I definitely live in possession of a footprint of the gods.' This is the
-first footprint of the gods in order to purify unpurified beings and
-cleanse unclean beings.
+Bốn dấu chân đó là gì? Thứ nhất, một *thánh đệ tử* có *niềm tin bất động* vào Đức Phật: 'Đức Thế Tôn đó là bậc A-la-hán, một vị Phật giác ngộ viên mãn, thành tựu tri thức và đức hạnh, bậc Thiện Thệ, người biết thế gian, bậc hướng đạo tối cao cho những ai muốn được huấn luyện, bậc thầy của chư thiên và loài người, bậc giác ngộ, bậc được tôn quý.' Sau đó, vị ấy suy ngẫm: 'Vậy dấu chân của chư thiên là gì?' Vị ấy hiểu: 'Tôi nghe rằng ngày nay chư thiên xem việc không làm hại là tối thượng. Nhưng tôi không làm hại bất kỳ sinh vật nào, dù mạnh hay yếu. Tôi chắc chắn sống với một dấu chân của chư thiên.' Đây là dấu chân thứ nhất của chư thiên để thanh lọc những chúng sanh chưa thanh tịnh và làm trong sạch những chúng sanh chưa trong sạch.
 
-Furthermore, a noble disciple has experiential confidence in the
-teaching ... the Saṅgha ...
+Hơn nữa, một *thánh đệ tử* có *niềm tin bất động* vào giáo pháp... Tăng đoàn...
 
-Furthermore, a noble disciple's ethical conduct is loved by the noble
-ones, unbroken, impeccable, spotless, and unmarred, liberating, praised
-by sensible people, not mistaken, and leading to immersion. Then they
-reflect: 'What now is the footprint of the gods?' They understand: 'I
-hear that these days the gods consider non-harming to be supreme. But I
-don't hurt any creature firm or frail. I definitely live in possession
-of a footprint of the gods.' This is the fourth footprint of the gods in
-order to purify unpurified beings and cleanse unclean beings. These four
-footprints of the gods are in order to purify unpurified beings and
-cleanse unclean beings."
+Hơn nữa, *giới đức* của một *thánh đệ tử* được các bậc thánh yêu mến, không bị phá vỡ, không tì vết, không vết nhơ, và không bị hoen ố, có tính giải thoát, được người trí ca ngợi, không sai lầm, và dẫn đến *Định*. Sau đó, vị ấy suy ngẫm: 'Vậy dấu chân của chư thiên là gì?' Vị ấy hiểu: 'Tôi nghe rằng ngày nay chư thiên xem việc không làm hại là tối thượng. Nhưng tôi không làm hại bất kỳ sinh vật nào, dù mạnh hay yếu. Tôi chắc chắn sống với một dấu chân của chư thiên.' Đây là dấu chân thứ tư của chư thiên để thanh lọc những chúng sanh chưa thanh tịnh và làm trong sạch những chúng sanh chưa trong sạch. Bốn dấu chân của chư thiên này là để thanh lọc những chúng sanh chưa thanh tịnh và làm trong sạch những chúng sanh chưa trong sạch."
 
 <!--pg-->
-### N 55.36 In Common With the Gods *Devasabhāgatasutta*
+### N 55.36 Chung Với Chư Thiên *Devasabhāgatasutta*
 
-"Mendicants, when someone has four things the gods are pleased and speak
-of what they have in common. What four? Firstly, a noble disciple has
-experiential confidence in the Buddha ... There are deities with
-experiential confidence in the Buddha who passed away from here and were
-reborn there. They think: 'Having such experiential confidence in the
-Buddha, we passed away from there and were reborn here. That noble
-disciple has the same kind of experiential confidence in the Buddha, so
-they will come into the presence of the gods.'
+"Này các *Tỷ kheo*, khi một người có bốn điều, chư thiên sẽ hài lòng và nói về những gì họ có chung. Bốn điều đó là gì? Thứ nhất, một *thánh đệ tử* có *niềm tin bất động* vào Đức Phật... Có những vị trời có *niềm tin bất động* vào Đức Phật đã qua đời từ đây và được tái sanh ở đó. Họ nghĩ: 'Có *niềm tin bất động* vào Đức Phật như vậy, chúng ta đã qua đời từ đó và được tái sanh ở đây. *Thánh đệ tử* đó có cùng loại *niềm tin bất động* vào Đức Phật, vì vậy họ sẽ đến với sự hiện diện của chư thiên.'
 
-Furthermore, a noble disciple has experiential confidence in the
-teaching ... the Saṅgha ... And they have the ethical
-conduct loved by the noble ones ... leading to immersion. There are
-deities with the ethical conduct loved by the noble ones who passed away
-from here and were reborn there. They think: 'Having such ethical
-conduct loved by the noble ones, we passed away from there and were
-reborn here. That noble disciple has the same kind of ethical conduct
-loved by the noble ones, so they will come into the presence of the
-gods.' When someone has four things the gods are pleased and speak of
-what they have in common."
+Hơn nữa, một *thánh đệ tử* có *niềm tin bất động* vào giáo pháp... Tăng đoàn... Và vị ấy có *giới đức* được các bậc thánh yêu mến... dẫn đến *Định*. Có những vị trời có *giới đức* được các bậc thánh yêu mến đã qua đời từ đây và được tái sanh ở đó. Họ nghĩ: 'Có *giới đức* được các bậc thánh yêu mến như vậy, chúng ta đã qua đời từ đó và được tái sanh ở đây. *Thánh đệ tử* đó có cùng loại *giới đức* được các bậc thánh yêu mến, vì vậy họ sẽ đến với sự hiện diện của chư thiên.' Khi một người có bốn điều, chư thiên sẽ hài lòng và nói về những gì họ có chung."
 
 <!--pg-->
-### N 55.37 With Mahānāma *Mahānāmasutta*
+### N 55.37 Cùng Với Mahānāma *Mahānāmasutta*
 
-At one time the Buddha was staying in the land of the Sakyans, near
-Kapilavatthu in the Banyan Tree Monastery. Then Mahānāma
-the Sakyan went up to the Buddha, bowed, sat down to one side, and said
-to him:
+Một thời, Đức Phật đang ở trong xứ của người Thích Ca, gần Kapilavatthu trong Tu viện Cây Đa. Sau đó, Mahānāma người Thích Ca đến gặp Đức Phật, cúi lạy, ngồi xuống một bên, và thưa với Ngài:
 
-"Sir, how is a lay follower defined?"
+"Bạch Thế Tôn, một cư sĩ tại gia được định nghĩa như thế nào?"
 
-"Mahānāma, when you've gone for refuge to the Buddha, the
-teaching, and the Saṅgha, you're considered to be a lay
-follower."
+"Mahānāma, khi con đã quy y Phật, Pháp, và Tăng, con được xem là một cư sĩ tại gia."
 
-"But how is an ethical lay follower defined?"
+"Nhưng một cư sĩ tại gia có đạo đức được định nghĩa như thế nào?"
 
-"When a lay follower doesn't kill living creatures, steal, commit sexual
-misconduct, lie, or consume beer, wine, and liquor intoxicants, they're
-considered to be an ethical lay follower."
+"Khi một cư sĩ tại gia không giết hại chúng sanh, trộm cắp, phạm tà dâm, nói dối, hoặc tiêu thụ bia, rượu, và các chất gây say, họ được xem là một cư sĩ tại gia có đạo đức."
 
-"But how is a faithful lay follower defined?"
+"Nhưng một cư sĩ tại gia có đức tin được định nghĩa như thế nào?"
 
-"It's when a lay follower has faith in the Realized One's awakening:
-'That Blessed One is perfected, a fully awakened Buddha, accomplished in
-knowledge and conduct, holy, knower of the world, supreme guide for
-those who wish to train, teacher of gods and humans, awakened, blessed.'
-Then they're considered to be a faithful lay follower."
+"Đó là khi một cư sĩ tại gia có đức tin vào sự *giác ngộ* của Đấng Như Lai: 'Đức Thế Tôn đó là bậc A-la-hán, một vị Phật giác ngộ viên mãn, thành tựu tri thức và đức hạnh, bậc Thiện Thệ, người biết thế gian, bậc hướng đạo tối cao cho những ai muốn được huấn luyện, bậc thầy của chư thiên và loài người, bậc giác ngộ, bậc được tôn quý.' Khi đó, họ được xem là một cư sĩ tại gia có đức tin."
 
-"But how is a generous lay follower defined?"
+"Nhưng một cư sĩ tại gia rộng lượng được định nghĩa như thế nào?"
 
-"It's when a lay follower lives at home rid of the stain of stinginess,
-freely generous, open-handed, loving to let go, committed to charity,
-loving to give and to share. Then they're considered to be a generous
-lay follower."
+"Đó là khi một cư sĩ tại gia sống tại gia thoát khỏi vết nhơ của *sự keo kiệt*, rộng lòng bố thí, hào phóng, thích buông xả, cam kết làm từ thiện, thích cho đi và chia sẻ. Khi đó, họ được xem là một cư sĩ tại gia rộng lượng."
 
-"But how is a wise lay follower defined?"
+"Nhưng một cư sĩ tại gia có trí tuệ được định nghĩa như thế nào?"
 
-"It's when a lay follower is wise. They have the wisdom of arising and
-passing away which is noble, penetrative, and leads to the complete
-ending of suffering. Then they're considered to be a wise lay follower."
+"Đó là khi một cư sĩ tại gia có trí tuệ. Họ có trí tuệ về sự sinh và diệt, là trí tuệ cao quý, thâm nhập, và dẫn đến sự chấm dứt hoàn toàn khổ đau. Khi đó, họ được xem là một cư sĩ tại gia có trí tuệ."
 
 <!--pg-->
-### N 55.38 Rain *Vassasutta*
+### N 55.38 Mưa *Vassasutta*
 
-"Mendicants, suppose the heavens rain heavily on a mountain top, and the
-water flows downhill to fill the hollows, crevices, and creeks. As they
-become full, they fill up the pools. The pools fill up the lakes, the
-lakes fill up the streams, and the streams fill up the rivers. And as
-the rivers become full, they fill up the ocean. In the same way, a noble
-disciple has experiential confidence in the Buddha, the teaching, and
-the Saṅgha, and the ethics loved by the noble ones. These
-things flow onwards; and, after crossing to the far shore, they lead to
-the ending of defilements."
+"Này các *Tỷ kheo*, giả sử trời mưa lớn trên đỉnh núi, và nước chảy xuống đồi để lấp đầy các hốc, khe, và suối nhỏ. Khi chúng đầy, chúng lấp đầy các ao. Các ao lấp đầy các hồ, các hồ lấp đầy các dòng suối, và các dòng suối lấp đầy các con sông. Và khi các con sông đầy, chúng lấp đầy đại dương. Tương tự như vậy, một *thánh đệ tử* có *niềm tin bất động* vào Đức Phật, giáo pháp, và Tăng đoàn, và có *giới đức* được các bậc thánh yêu mến. Những điều này chảy về phía trước; và, sau khi vượt qua bờ bên kia, chúng dẫn đến sự chấm dứt các *ô nhiễm*."
 
 <!--pg-->
-### N 55.39 With Kāḷigodhā *Kāḷigodhasutta*
+### N 55.39 Cùng Với Kāḷigodhā *Kāḷigodhasutta*
 
-At one time the Buddha was staying in the land of the Sakyans, near
-Kapilavatthu in the Banyan Tree Monastery. Then the Buddha robed up in
-the morning and, taking his bowl and robe, went to the home of
-Kāḷigodhā the Sakyan lady, where he sat on the seat spread
-out. Then Kāḷigodhā went up to the Buddha, bowed, and sat
-down to one side. The Buddha said to her:
+Một thời, Đức Phật đang ở trong xứ của người Thích Ca, gần Kapilavatthu trong Tu viện Cây Đa. Sau đó, Đức Phật mặc y vào buổi sáng, mang bát và y, đến nhà của bà Kāḷigodhā người Thích Ca, nơi Ngài ngồi trên chỗ đã được trải sẵn. Sau đó, Kāḷigodhā đến gặp Đức Phật, cúi lạy, và ngồi xuống một bên. Đức Phật nói với bà:
 
-"Godhā, a female noble disciple who has four things is a
-stream-enterer, not liable to be reborn in the underworld, bound for
-awakening. What four? It's when a noble disciple has experiential
-confidence in the Buddha ... the teaching ... the Saṅgha
-... And they live at home rid of the stain of stinginess, freely
-generous, open-handed, loving to let go, committed to charity, loving to
-give and to share. A female noble disciple who has these four things is
-a stream-enterer, not liable to be reborn in the underworld, bound for
-awakening."
+"Godhā, một nữ *thánh đệ tử* có bốn điều là một *người nhập lưu*, không còn bị tái sanh vào đọa xứ, chắc chắn sẽ *giác ngộ*. Bốn điều đó là gì? Đó là khi một *thánh đệ tử* có *niềm tin bất động* vào Đức Phật... giáo pháp... Tăng đoàn... Và họ sống tại gia thoát khỏi vết nhơ của *sự keo kiệt*, rộng lòng bố thí, hào phóng, thích buông xả, cam kết làm từ thiện, thích cho đi và chia sẻ. Một nữ *thánh đệ tử* có bốn điều này là một *người nhập lưu*, không còn bị tái sanh vào đọa xứ, chắc chắn sẽ *giác ngộ*."
 
-"Sir, these four factors of stream-entry that were taught by the Buddha
-are found in me, and I exhibit them. For I have experiential confidence
-in the Buddha ... the teaching ... the Saṅgha ... And I
-share without reservation all the gifts available to give in our family
-with those who are ethical and of good character."
+"Bạch Thế Tôn, bốn yếu tố của sự nhập lưu này do Đức Phật giảng dạy đều có trong con, và con thể hiện chúng. Vì con có *niềm tin bất động* vào Đức Phật... giáo pháp... Tăng đoàn... Và con chia sẻ không dè dặt tất cả những món quà có thể cho đi trong gia đình chúng con với những người có đạo đức và phẩm hạnh tốt."
 
-"You're fortunate, Godhā, so very fortunate, You have
-declared the fruit of stream-entry."
+"Bà thật may mắn, Godhā, thật vô cùng may mắn, Bà đã tuyên bố quả vị của sự nhập lưu."
 
 <!--pg-->
-### N 55.40 Nandiya the Sakyan *Nandiyasakkasutta*
+### N 55.40 Nandiya Người Thích Ca *Nandiyasakkasutta*
 
-At one time the Buddha was staying in the land of the Sakyans, near
-Kapilavatthu in the Banyan Tree Monastery. Then Nandiya the Sakyan went
-up to the Buddha, bowed, sat down to one side, and said to him:
+Một thời, Đức Phật đang ở trong xứ của người Thích Ca, gần Kapilavatthu trong Tu viện Cây Đa. Sau đó, Nandiya người Thích Ca đến gặp Đức Phật, cúi lạy, ngồi xuống một bên, và thưa với Ngài:
 
-"Sir, if a noble disciple were to totally and utterly lack the four
-factors of stream-entry, would they live negligently?"
+"Bạch Thế Tôn, nếu một *thánh đệ tử* hoàn toàn và tuyệt đối thiếu bốn yếu tố của sự nhập lưu, liệu họ có sống buông thả không?"
 
-"Nandiya, someone who totally and utterly lacks these four factors of
-stream-entry is an outsider who belongs with the ordinary persons, I
-say. Neverthless, Nandiya, as to how a noble disciple lives negligently
-and how they live diligently, listen and apply your mind well, I will
-speak."
+"Nandiya, một người hoàn toàn và tuyệt đối thiếu bốn yếu tố của sự nhập lưu này là một người ngoài cuộc, thuộc về hạng phàm phu, ta nói vậy. Tuy nhiên, Nandiya, về việc một *thánh đệ tử* sống buông thả như thế nào và sống tinh tấn như thế nào, hãy lắng nghe và chú tâm, ta sẽ nói."
 
-"Yes, sir," Nandiya replied. The Buddha said this:
+"Vâng, thưa Ngài," Nandiya trả lời. Đức Phật đã nói điều này:
 
-"And how does a noble disciple live negligently? Firstly, a noble
-disciple has experiential confidence in the Buddha ... They're content
-with that confidence, and don't make a further effort for solitude by
-day or retreat by night. When they live negligently, there's no joy.
-When there's no joy, there's no rapture. When there's no rapture,
-there's no tranquility. When there's no tranquility, there's suffering.
-When one is suffering, the mind does not become immersed in
-samādhi. When the mind is not immersed in
-samādhi, principles do not become clear. Because principles
-have not become clear, they're reckoned to live negligently.
+"Và một *thánh đệ tử* sống buông thả như thế nào? Thứ nhất, một *thánh đệ tử* có *niềm tin bất động* vào Đức Phật... Họ hài lòng với niềm tin đó, và không nỗ lực thêm để sống độc cư vào ban ngày hay ẩn tu vào ban đêm. Khi họ sống buông thả, không có *phấn chấn*. Khi không có *phấn chấn*, không có *phấn khởi*. Khi không có *phấn khởi*, không có *thư thái*. Khi không có *thư thái*, có khổ đau. Khi một người đau khổ, *tâm* không trở nên *đắm chìm trong định*. Khi *tâm* không *đắm chìm trong định*, các *pháp* không trở nên rõ ràng. Vì các *pháp* không trở nên rõ ràng, họ được cho là sống buông thả.
 
-Furthermore, a noble disciple has experiential confidence in the
-teaching ... the Saṅgha ... And they have the ethical
-conduct loved by the noble ones ... leading to immersion. They're
-content with that ethical conduct loved by the noble ones, and don't
-make a further effort for solitude by day or retreat by night. When they
-live negligently, there's no joy. When there's no joy, there's no
-rapture. When there's no rapture, there's no tranquility. When there's
-no tranquility, there's suffering. When one is suffering, the mind does
-not become immersed in samādhi. When the mind is not
-immersed in samādhi, principles do not become clear.
-Because principles have not become clear, they're reckoned to live
-negligently. That's how a noble disciple lives negligently.
+Hơn nữa, một *thánh đệ tử* có *niềm tin bất động* vào giáo pháp... Tăng đoàn... Và vị ấy có *giới đức* được các bậc thánh yêu mến... dẫn đến *Định*. Họ hài lòng với *giới đức* được các bậc thánh yêu mến đó, và không nỗ lực thêm để sống độc cư vào ban ngày hay ẩn tu vào ban đêm. Khi họ sống buông thả, không có *phấn chấn*. Khi không có *phấn chấn*, không có *phấn khởi*. Khi không có *phấn khởi*, không có *thư thái*. Khi không có *thư thái*, có khổ đau. Khi một người đau khổ, *tâm* không trở nên *đắm chìm trong định*. Khi *tâm* không *đắm chìm trong định*, các *pháp* không trở nên rõ ràng. Vì các *pháp* không trở nên rõ ràng, họ được cho là sống buông thả. Đó là cách một *thánh đệ tử* sống buông thả.
 
-And how does a noble disciple live diligently? Firstly, a noble disciple
-has experiential confidence in the Buddha ... But they're not content
-with that confidence, and make a further effort for solitude by day and
-retreat by night. When they live diligently, joy springs up. Being
-joyful, rapture springs up. When the mind is full of rapture, the body
-becomes tranquil. When the body is tranquil, they feel bliss. And when
-blissful, the mind becomes immersed in samādhi. When the
-mind is immersed in samādhi, principles become clear.
-Because principles have become clear, they're reckoned to live
-diligently.
+Và một *thánh đệ tử* sống tinh tấn như thế nào? Thứ nhất, một *thánh đệ tử* có *niềm tin bất động* vào Đức Phật... Nhưng họ không hài lòng với niềm tin đó, và nỗ lực thêm để sống độc cư vào ban ngày và ẩn tu vào ban đêm. Khi họ sống tinh tấn, *phấn chấn* nảy sinh. Khi vui mừng, *phấn khởi* nảy sinh. Khi *tâm* đầy *phấn khởi*, thân trở nên *thư thái*. Khi thân *thư thái*, họ cảm thấy *bình an*. Và khi *bình an*, *tâm* trở nên *đắm chìm trong định*. Khi *tâm* *đắm chìm trong định*, các *pháp* trở nên rõ ràng. Vì các *pháp* đã trở nên rõ ràng, họ được cho là sống tinh tấn.
 
-Furthermore, a noble disciple has experiential confidence in the
-teaching ... the Saṅgha ... And they have the ethical
-conduct loved by the noble ones ... leading to immersion. But they're
-not content with that ethical conduct loved by the noble ones, and make
-a further effort for solitude by day and retreat by night. When they
-live diligently, joy springs up. Being joyful, rapture springs up. When
-the mind is full of rapture, the body becomes tranquil. When the body is
-tranquil, they feel bliss. And when blissful, the mind becomes immersed
-in samādhi. When the mind is immersed in
-samādhi, principles become clear. Because principles have
-become clear, they're reckoned to live diligently. That's how a noble
-disciple lives diligently."
+Hơn nữa, một *thánh đệ tử* có *niềm tin bất động* vào giáo pháp... Tăng đoàn... Và vị ấy có *giới đức* được các bậc thánh yêu mến... dẫn đến *Định*. Nhưng họ không hài lòng với *giới đức* được các bậc thánh yêu mến đó, và nỗ lực thêm để sống độc cư vào ban ngày và ẩn tu vào ban đêm. Khi họ sống tinh tấn, *phấn chấn* nảy sinh. Khi vui mừng, *phấn khởi* nảy sinh. Khi *tâm* đầy *phấn khởi*, thân trở nên *thư thái*. Khi thân *thư thái*, họ cảm thấy *bình an*. Và khi *bình an*, *tâm* trở nên *đắm chìm trong định*. Khi *tâm* *đắm chìm trong định*, các *pháp* trở nên rõ ràng. Vì các *pháp* đã trở nên rõ ràng, họ được cho là sống tinh tấn. Đó là cách một *thánh đệ tử* sống tinh tấn."
 
 <!--pg-->
-## The Chapter on Overflowing Merit, With Verses
+## Phẩm Công Đức Tràn Đầy, Có Kệ
 
-### N 55.41 Overflowing Merit (1st) *Paṭhamaabhisandasutta*
+### N 55.41 Công Đức Tràn Đầy (Thứ Nhất) *Paṭhamaabhisandasutta*
 
-"Mendicants, there are these four kinds of overflowing merit,
-overflowing goodness that nurture happiness. What four? It's when a
-noble disciple has experiential confidence in the Buddha ... the
-teaching ... the Saṅgha ...
+"Này các *Tỷ kheo*, có bốn loại *công đức tràn đầy*, thiện lành tràn đầy nuôi dưỡng hạnh phúc. Bốn loại đó là gì? Đó là khi một *thánh đệ tử* có *niềm tin bất động* vào Đức Phật... giáo pháp... Tăng đoàn...
 
-Furthermore, they have the ethical conduct loved by the noble ones ...
-leading to immersion. ... These are the four kinds of overflowing merit,
-overflowing goodness that nurture happiness.
+Hơn nữa, vị ấy có *giới đức* được các bậc thánh yêu mến... dẫn đến *Định*. ... Đây là bốn loại *công đức tràn đầy*, thiện lành tràn đầy nuôi dưỡng hạnh phúc.
 
-When a noble disciple has these four kinds of overflowing merit and
-goodness, it's not easy to measure how much merit they have by saying
-that this is the extent of their overflowing merit, overflowing goodness
-that nurtures happiness. It's simply reckoned as an incalculable,
-immeasurable, great mass of merit.
+Khi một *thánh đệ tử* có bốn loại *công đức tràn đầy* và thiện lành này, không dễ để đo lường được bao nhiêu công đức vị ấy có bằng cách nói rằng đây là mức độ *công đức tràn đầy*, thiện lành tràn đầy nuôi dưỡng hạnh phúc của họ. Nó chỉ đơn giản được coi là một khối công đức không thể tính toán, không thể đo lường, vĩ đại.
 
-It's like trying to measure how much water is in the ocean. It's not
-easy to say how many gallons, how many hundreds, thousands, hundreds of
-thousands of gallons there are. It's simply reckoned as an incalculable,
-immeasurable, great mass of water.
+Nó giống như cố gắng đo lường bao nhiêu nước có trong đại dương. Không dễ để nói có bao nhiêu gallon, bao nhiêu trăm, ngàn, trăm ngàn gallon. Nó chỉ đơn giản được coi là một khối nước không thể tính toán, không thể đo lường, vĩ đại.
 
-In the same way, when a noble disciple has these four kinds of
-overflowing merit and goodness, it's not easy to measure how much merit
-they have by saying that this is the extent of their overflowing merit,
-overflowing goodness that nurtures happiness. It's simply reckoned as an
-incalculable, immeasurable, great mass of merit."
+Tương tự như vậy, khi một *thánh đệ tử* có bốn loại *công đức tràn đầy* và thiện lành này, không dễ để đo lường được bao nhiêu công đức vị ấy có bằng cách nói rằng đây là mức độ *công đức tràn đầy*, thiện lành tràn đầy nuôi dưỡng hạnh phúc của họ. Nó chỉ đơn giản được coi là một khối công đức không thể tính toán, không thể đo lường, vĩ đại."
 
-That is what the Buddha said. Then the Holy One, the Teacher, went on to
-say:
+Đó là những gì Đức Phật đã nói. Sau đó, bậc Thiện Thệ, bậc Đạo Sư, nói tiếp:
 
-> "Hosts of people use the rivers,\
-> and though the rivers are many,\
-> all reach the great deep, the boundless ocean,\
-> the cruel sea that's home to precious gems.
+> "Vô số người dùng nước sông,\
+> Và dù sông có nhiều,\
+> Tất cả đều đổ về biển lớn, đại dương vô biên,\
+> Biển cả hung dữ là nơi chứa châu báu.
 >
-> So too, when a person gives food, drink, and clothes;\
-> and they're a giver of beds, seats, and mats---\
-> the streams of merit reach that astute person,\
-> as the rivers bring their waters to the sea."
+> Cũng vậy, khi một người cho thức ăn, thức uống, và quần áo;\
+> Và họ là người cho giường, ghế, và chiếu---\
+> Dòng công đức chảy về người sáng suốt đó,\
+> Như sông mang nước về biển."
 
 <!--pg-->
-### N 55.42 Overflowing Merit (2nd) *Dutiyaabhisandasutta*
+### N 55.42 Công Đức Tràn Đầy (Thứ Hai) *Dutiyaabhisandasutta*
 
-"Mendicants, there are these four kinds of overflowing merit,
-overflowing goodness that nurture happiness. What four? It's when a
-noble disciple has experiential confidence in the Buddha ... the
-teaching ... the Saṅgha ...
+"Này các *Tỷ kheo*, có bốn loại *công đức tràn đầy*, thiện lành tràn đầy nuôi dưỡng hạnh phúc. Bốn loại đó là gì? Đó là khi một *thánh đệ tử* có *niềm tin bất động* vào Đức Phật... giáo pháp... Tăng đoàn...
 
-Furthermore, a noble disciple lives at home rid of the stain of
-stinginess, freely generous, open-handed, loving to let go, committed to
-charity, loving to give and to share. This is the fourth kind of
-overflowing merit, overflowing goodness that nurtures happiness. These
-are the four kinds of overflowing merit, overflowing goodness that
-nurture happiness.
+Hơn nữa, một *thánh đệ tử* sống tại gia thoát khỏi vết nhơ của *sự keo kiệt*, rộng lòng bố thí, hào phóng, thích buông xả, cam kết làm từ thiện, thích cho đi và chia sẻ. Đây là loại *công đức tràn đầy* thứ tư, thiện lành tràn đầy nuôi dưỡng hạnh phúc. Đây là bốn loại *công đức tràn đầy*, thiện lành tràn đầy nuôi dưỡng hạnh phúc.
 
-When a noble disciple has these four kinds of overflowing merit and
-goodness, it's not easy to measure how much merit they have by saying
-that this is the extent of their overflowing merit, overflowing goodness
-that nurtures happiness. It's simply reckoned as an incalculable,
-immeasurable, great mass of merit.
+Khi một *thánh đệ tử* có bốn loại *công đức tràn đầy* và thiện lành này, không dễ để đo lường được bao nhiêu công đức vị ấy có bằng cách nói rằng đây là mức độ *công đức tràn đầy*, thiện lành tràn đầy nuôi dưỡng hạnh phúc của họ. Nó chỉ đơn giản được coi là một khối công đức không thể tính toán, không thể đo lường, vĩ đại.
 
-There are places where the great rivers---the Ganges, Yamuna,
-Aciravatī, Sarabhū, and
-Mahī---come together and converge. It's not easy to measure
-how much water is in such places by saying how many gallons, how many
-hundreds, thousands, hundreds of thousands of gallons there are. It's
-simply reckoned as an incalculable, immeasurable, great mass of water.
+Có những nơi mà các con sông lớn—sông Hằng, Yamuna, Aciravatī, Sarabhū, và Mahī—hợp lại và hội tụ. Không dễ để đo lường bao nhiêu nước có ở những nơi như vậy bằng cách nói có bao nhiêu gallon, bao nhiêu trăm, ngàn, trăm ngàn gallon. Nó chỉ đơn giản được coi là một khối nước không thể tính toán, không thể đo lường, vĩ đại.
 
-In the same way, when a noble disciple has these four kinds of
-overflowing merit and goodness, it's not easy to measure how much merit
-they have by saying that this is the extent of their overflowing merit,
-overflowing goodness that nurtures happiness. It's simply reckoned as an
-incalculable, immeasurable, great mass of merit."
+Tương tự như vậy, khi một *thánh đệ tử* có bốn loại *công đức tràn đầy* và thiện lành này, không dễ để đo lường được bao nhiêu công đức vị ấy có bằng cách nói rằng đây là mức độ *công đức tràn đầy*, thiện lành tràn đầy nuôi dưỡng hạnh phúc của họ. Nó chỉ đơn giản được coi là một khối công đức không thể tính toán, không thể đo lường, vĩ đại."
 
-That is what the Buddha said. Then the Holy One, the Teacher, went on to
-say:
+Đó là những gì Đức Phật đã nói. Sau đó, bậc Thiện Thệ, bậc Đạo Sư, nói tiếp:
 
-> "Hosts of people use the rivers,\
-> and though the rivers are many,\
-> all reach the great deep, the boundless ocean,\
-> the cruel sea that's home to precious gems.
+> "Vô số người dùng nước sông,\
+> Và dù sông có nhiều,\
+> Tất cả đều đổ về biển lớn, đại dương vô biên,\
+> Biển cả hung dữ là nơi chứa châu báu.
 >
-> So too, when a person gives food, drink, and clothes;\
-> and they're a giver of beds, seats, and mats---\
-> the streams of merit reach that astute person,\
-> as the rivers bring their waters to the sea."
+> Cũng vậy, khi một người cho thức ăn, thức uống, và quần áo;\
+> Và họ là người cho giường, ghế, và chiếu---\
+> Dòng công đức chảy về người sáng suốt đó,\
+> Như sông mang nước về biển."
 
 <!--pg-->
-### N 55.43 Overflowing Merit (3rd) *Tatiyaabhisandasutta*
+### N 55.43 Công Đức Tràn Đầy (Thứ Ba) *Tatiyaabhisandasutta*
 
-"Mendicants, there are these four kinds of overflowing merit,
-overflowing goodness that nurture happiness. What four? It's when a
-noble disciple has experiential confidence in the Buddha ... the
-teaching ... the Saṅgha ...
+"Này các *Tỷ kheo*, có bốn loại *công đức tràn đầy*, thiện lành tràn đầy nuôi dưỡng hạnh phúc. Bốn loại đó là gì? Đó là khi một *thánh đệ tử* có *niềm tin bất động* vào Đức Phật... giáo pháp... Tăng đoàn...
 
-Furthermore, a noble disciple is wise. They have the wisdom of arising
-and passing away which is noble, penetrative, and leads to the complete
-ending of suffering. This is the fourth kind of overflowing merit,
-overflowing goodness that nurtures happiness. These are the four kinds
-of overflowing merit, overflowing goodness that nurture happiness.
+Hơn nữa, một *thánh đệ tử* có trí tuệ. Vị ấy có trí tuệ về sự sinh và diệt, là trí tuệ cao quý, thâm nhập, và dẫn đến sự chấm dứt hoàn toàn khổ đau. Đây là loại *công đức tràn đầy* thứ tư, thiện lành tràn đầy nuôi dưỡng hạnh phúc. Đây là bốn loại *công đức tràn đầy*, thiện lành tràn đầy nuôi dưỡng hạnh phúc.
 
-When a noble disciple has these four kinds of overflowing merit and
-goodness, it's not easy to measure how much merit they have by saying
-that this is the extent of their overflowing merit, overflowing goodness
-that nurtures happiness. It's simply reckoned as an incalculable,
-immeasurable, great mass of merit."
+Khi một *thánh đệ tử* có bốn loại *công đức tràn đầy* và thiện lành này, không dễ để đo lường được bao nhiêu công đức vị ấy có bằng cách nói rằng đây là mức độ *công đức tràn đầy*, thiện lành tràn đầy nuôi dưỡng hạnh phúc của họ. Nó chỉ đơn giản được coi là một khối công đức không thể tính toán, không thể đo lường, vĩ đại."
 
-That is what the Buddha said. Then the Holy One, the Teacher, went on to
-say:
+Đó là những gì Đức Phật đã nói. Sau đó, bậc Thiện Thệ, bậc Đạo Sư, nói tiếp:
 
-> "One who desires merit, grounded in the skillful,\
-> develops the path to realize freedom from death.\
-> Once they've reached the heart of the teaching,\
-> － delighting in ending,\
-> they don't tremble at the approach\
-> － of the King of Death."
+> "Người mong muốn công đức, dựa trên điều thiện,\
+> Phát triển con đường để nhận ra sự giải thoát khỏi cái chết.\
+> Khi họ đã đạt đến cốt tủy của giáo pháp,\
+> － vui mừng trong sự chấm dứt,\
+> Họ không run sợ trước sự tiếp cận\
+> － của Thần Chết."
 
 <!--pg-->
-### N 55.44 Rich (1st) *Paṭhamamahaddhanasutta*
+### N 55.44 Giàu Có (Thứ Nhất) *Paṭhamamahaddhanasutta*
 
-"Mendicants, a noble disciple who has four things is said to be rich,
-affluent, and wealthy.
+"Này các *Tỷ kheo*, một *thánh đệ tử* có bốn điều được cho là giàu có, sung túc, và thịnh vượng.
 
-What four? It's when a noble disciple has experiential confidence in the
-Buddha ... the teaching ... the Saṅgha ... And they have
-the ethical conduct loved by the noble ones ... leading to immersion. A
-noble disciple who has these four things is said to be rich, affluent,
-and wealthy."
+Bốn điều đó là gì? Đó là khi một *thánh đệ tử* có *niềm tin bất động* vào Đức Phật... giáo pháp... Tăng đoàn... Và vị ấy có *giới đức* được các bậc thánh yêu mến... dẫn đến *Định*. Một *thánh đệ tử* có bốn điều này được cho là giàu có, sung túc, và thịnh vượng."
 
 <!--pg-->
-### N 55.45 Rich (2nd) *Dutiyamahaddhanasutta*
+### N 55.45 Giàu Có (Thứ Hai) *Dutiyamahaddhanasutta*
 
-"Mendicants, a noble disciple who has four things is said to be rich,
-affluent, wealthy, and famous.
+"Này các *Tỷ kheo*, một *thánh đệ tử* có bốn điều được cho là giàu có, sung túc, thịnh vượng, và nổi tiếng.
 
-What four? It's when a noble disciple has experiential confidence in the
-Buddha ... the teaching ... the Saṅgha ... And they have
-the ethical conduct loved by the noble ones ... leading to immersion. A
-noble disciple who has these four things is said to be rich, affluent,
-wealthy, and famous."
+Bốn điều đó là gì? Đó là khi một *thánh đệ tử* có *niềm tin bất động* vào Đức Phật... giáo pháp... Tăng đoàn... Và vị ấy có *giới đức* được các bậc thánh yêu mến... dẫn đến *Định*. Một *thánh đệ tử* có bốn điều này được cho là giàu có, sung túc, thịnh vượng, và nổi tiếng."
 
 <!--pg-->
-### N 55.46 Plain Version *Suddhakasutta*
+### N 55.46 Bản Giản Lược *Suddhakasutta*
 
-"Mendicants, a noble disciple who has four things is a stream-enterer,
-not liable to be reborn in the underworld, bound for awakening.
+"Này các *Tỷ kheo*, một *thánh đệ tử* có bốn điều là một *người nhập lưu*, không còn bị tái sanh vào đọa xứ, chắc chắn sẽ *giác ngộ*.
 
-What four? It's when a noble disciple has experiential confidence in the
-Buddha ... the teaching ... the Saṅgha ... And they have
-the ethical conduct loved by the noble ones ... leading to immersion. A
-noble disciple who has these four things is a stream-enterer, not liable
-to be reborn in the underworld, bound for awakening."
+Bốn điều đó là gì? Đó là khi một *thánh đệ tử* có *niềm tin bất động* vào Đức Phật... giáo pháp... Tăng đoàn... Và vị ấy có *giới đức* được các bậc thánh yêu mến... dẫn đến *Định*. Một *thánh đệ tử* có bốn điều này là một *người nhập lưu*, không còn bị tái sanh vào đọa xứ, chắc chắn sẽ *giác ngộ*."
 
 <!--pg-->
-### N 55.47 With Nandiya *Nandiyasutta*
+### N 55.47 Cùng Với Nandiya *Nandiyasutta*
 
-At Kapilavatthu. Seated to one side, the Buddha said to Nandiya the
-Sakyan:
+Tại Kapilavatthu. Ngồi xuống một bên, Đức Phật nói với Nandiya người Thích Ca:
 
-"Nandiya, a noble disciple who has four things is a stream-enterer, not
-liable to be reborn in the underworld, bound for awakening.
+"Nandiya, một *thánh đệ tử* có bốn điều là một *người nhập lưu*, không còn bị tái sanh vào đọa xứ, chắc chắn sẽ *giác ngộ*.
 
-What four? It's when a noble disciple has experiential confidence in the
-Buddha ... the teaching ... the Saṅgha ... And they have
-the ethical conduct loved by the noble ones ... leading to immersion. A
-noble disciple who has these four things is a stream-enterer, not liable
-to be reborn in the underworld, bound for awakening."
+Bốn điều đó là gì? Đó là khi một *thánh đệ tử* có *niềm tin bất động* vào Đức Phật... giáo pháp... Tăng đoàn... Và vị ấy có *giới đức* được các bậc thánh yêu mến... dẫn đến *Định*. Một *thánh đệ tử* có bốn điều này là một *người nhập lưu*, không còn bị tái sanh vào đọa xứ, chắc chắn sẽ *giác ngộ*."
 
 <!--pg-->
-### N 55.48 With Bhaddiya *Bhaddiyasutta*
+### N 55.48 Cùng Với Bhaddiya *Bhaddiyasutta*
 
-At Kapilavatthu. Seated to one side, the Buddha said to Bhaddiya the
-Sakyan:
+Tại Kapilavatthu. Ngồi xuống một bên, Đức Phật nói với Bhaddiya người Thích Ca:
 
-"Bhaddiya, a noble disciple who has four things is a stream-enterer ..."
-
-<!--pg-->
-### N 55.49 With Mahānāma *Mahānāmasutta*
-
-At Kapilavatthu. Seated to one side, the Buddha said to
-Mahānāma the Sakyan:
-
-"Mahānāma, a noble disciple who has four things is a
-stream-enterer ..."
+"Bhaddiya, một *thánh đệ tử* có bốn điều là một *người nhập lưu*..."
 
 <!--pg-->
-### N 55.50 Factors *Aṅgasutta*
+### N 55.49 Cùng Với Mahānāma *Mahānāmasutta*
 
-"Mendicants, there are these four factors of stream-entry. What four?
-Associating with true persons, listening to the true teaching, rational
-application of mind, and practicing in line with the teaching. These are
-the four factors of stream-entry."
+Tại Kapilavatthu. Ngồi xuống một bên, Đức Phật nói với Mahānāma người Thích Ca:
+
+"Mahānāma, một *thánh đệ tử* có bốn điều là một *người nhập lưu*..."
 
 <!--pg-->
-## The Chapter on a Wise Person
+### N 55.50 Các Yếu Tố *Aṅgasutta*
 
-### N 55.51 With Verses *Sagāthakasutta*
+"Này các *Tỷ kheo*, có bốn yếu tố của sự nhập lưu này. Bốn yếu tố đó là gì? Kết giao với người chân chính, lắng nghe Chánh pháp, *suy ngẫm tận đến gốc rễ*, và thực hành đúng theo pháp. Đây là bốn yếu tố của sự nhập lưu."
 
-"Mendicants, a noble disciple who has four things is a stream-enterer,
-not liable to be reborn in the underworld, bound for awakening.
+<!--pg-->
+## Phẩm Người Trí
 
-What four? It's when a noble disciple has experiential confidence in the
-Buddha ... the teaching ... the Saṅgha ... And they have
-the ethical conduct loved by the noble ones ... leading to immersion. A
-noble disciple who has these four things is a stream-enterer, not liable
-to be reborn in the underworld, bound for awakening."
+### N 55.51 Có Kệ *Sagāthakasutta*
 
-That is what the Buddha said. Then the Holy One, the Teacher, went on to
-say:
+"Này các *Tỷ kheo*, một *thánh đệ tử* có bốn điều là một *người nhập lưu*, không còn bị tái sanh vào đọa xứ, chắc chắn sẽ *giác ngộ*.
 
-> "Whoever has faith in the Realized One,\
-> unwavering and well grounded;\
-> whose ethical conduct is good,\
-> praised and loved by the noble ones;
+Bốn điều đó là gì? Đó là khi một *thánh đệ tử* có *niềm tin bất động* vào Đức Phật... giáo pháp... Tăng đoàn... Và vị ấy có *giới đức* được các bậc thánh yêu mến... dẫn đến *Định*. Một *thánh đệ tử* có bốn điều này là một *người nhập lưu*, không còn bị tái sanh vào đọa xứ, chắc chắn sẽ *giác ngộ*."
+
+Đó là những gì Đức Phật đã nói. Sau đó, bậc Thiện Thệ, bậc Đạo Sư, nói tiếp:
+
+> "Ai có đức tin vào Đấng Như Lai,\
+> Không lay chuyển và vững chắc;\
+> Có giới hạnh tốt đẹp,\
+> Được các bậc thánh ca ngợi và yêu mến;
 >
-> who has confidence in the Saṅgha,\
-> and correct view:\
-> they're said to be prosperous,\
-> their life is not in vain.
+> Ai có niềm tin vào Tăng đoàn,\
+> Và có cái nhìn đúng đắn:\
+> Họ được cho là thịnh vượng,\
+> Cuộc đời họ không vô ích.
 >
-> So let the wise devote themselves\
-> to faith, ethical behaviour,\
-> confidence, and insight into the teaching,\
-> remembering the instructions of the Buddhas."
+> Vậy hãy để người trí tận tâm\
+> Với đức tin, hành vi đạo đức,\
+> Niềm tin, và tuệ giác về giáo pháp,\
+> Ghi nhớ lời dạy của các vị Phật."
 
 <!--pg-->
-### N 55.52 One Who Completed the Rains *Vassaṁvutthasutta*
+### N 55.52 Người Đã Hoàn Thành Mùa Mưa *Vassaṁvutthasutta*
 
-At one time the Buddha was staying near Sāvatthī in Jeta's
-Grove, Anāthapiṇḍika's monastery. Now at that time a
-certain mendicant who had completed the rainy season residence in
-Sāvatthī arrived at Kapilavatthu on some business. The
-Sakyans of Kapilavatthu heard about this.
+Một thời, Đức Phật đang ở gần Sāvatthī trong Vườn Jeta, tu viện của Anāthapiṇḍika. Lúc bấy giờ, một *Tỷ kheo* nào đó đã hoàn thành mùa an cư mưa ở Sāvatthī đã đến Kapilavatthu vì một số công việc. Những người Thích Ca ở Kapilavatthu nghe được tin này.
 
-They went to that mendicant, bowed, sat down to one side, and said to
-him, "Sir, we hope that the Buddha is healthy and strong."
+Họ đến gặp *Tỷ kheo* đó, cúi lạy, ngồi xuống một bên, và nói với ông: "Thưa Tôn giả, chúng tôi hy vọng Đức Phật vẫn khỏe mạnh và cường tráng."
 
-"He is, good fellows."
+"Ngài vẫn vậy, các bạn tốt."
 
-"And we hope that Sāriputta and Moggallāna are
-healthy and strong."
+"Và chúng tôi hy vọng Sāriputta và Moggallāna vẫn khỏe mạnh và cường tráng."
 
-"They are."
+"Họ vẫn vậy."
 
-"And we hope that the mendicant Saṅgha is healthy and
-strong."
+"Và chúng tôi hy vọng Tăng đoàn *Tỷ kheo* vẫn khỏe mạnh và cường tráng."
 
-"It is."
+"Vẫn vậy."
 
-"But sir, during this rains residence did you hear and learn anything in
-the presence of the Buddha?"
+"Nhưng thưa Tôn giả, trong mùa an cư mưa này, ngài có nghe và học được điều gì trước sự hiện diện của Đức Phật không?"
 
-"Good fellows, I heard and learned this in the presence of the Buddha:
-'There are fewer mendicants who realize the undefiled freedom of heart
-and freedom by wisdom in this very life, and live having realized it
-with their own insight due to the ending of defilements. There are more
-mendicants who, having ended the five lower fetters, are reborn
-spontaneously, and will be extinguished there, not liable to return from
-that world.'
+"Các bạn tốt, tôi đã nghe và học được điều này trước sự hiện diện của Đức Phật: 'Có ít *Tỷ kheo* chứng ngộ *sự giải thoát tâm không ô nhiễm* và *sự giải thoát bằng trí tuệ* ngay trong đời này, và sống sau khi đã tự mình chứng ngộ điều đó nhờ sự chấm dứt các *ô nhiễm*. Có nhiều *Tỷ kheo* hơn, sau khi đã chấm dứt năm *xiềng xích* thấp hơn, được hóa sanh, và sẽ nhập Niết-bàn tại đó, không còn trở lại thế giới này nữa.'
 
-In addition, I heard and learned this in the presence of the Buddha:
-'There are fewer mendicants who, having ended the five lower fetters,
-are reborn spontaneously, and will be extinguished there, not liable to
-return from that world. There are more mendicants who, with the ending
-of three fetters, and the weakening of greed, hate, and delusion, are
-once-returners, who come back to this world once only, then make an end
-of suffering.'
+Ngoài ra, tôi đã nghe và học được điều này trước sự hiện diện của Đức Phật: 'Có ít *Tỷ kheo* hơn, sau khi đã chấm dứt năm *xiềng xích* thấp hơn, được hóa sanh, và sẽ nhập Niết-bàn tại đó, không còn trở lại thế giới này nữa. Có nhiều *Tỷ kheo* hơn, với sự chấm dứt của ba *xiềng xích*, và sự suy yếu của tham, sân, và si, là những *nhất lai*, những người trở lại thế giới này chỉ một lần nữa, rồi chấm dứt khổ đau.'
 
-In addition, I heard and learned this in the presence of the Buddha:
-'There are fewer mendicants who, with the ending of three fetters, and
-the weakening of greed, hate, and delusion, are once-returners, who come
-back to this world once only, then make an end of suffering. There are
-more mendicants who, with the ending of three fetters are
-stream-enterers, not liable to be reborn in the underworld, bound for
-awakening.'"
+Ngoài ra, tôi đã nghe và học được điều này trước sự hiện diện của Đức Phật: 'Có ít *Tỷ kheo* hơn, với sự chấm dứt của ba *xiềng xích*, và sự suy yếu của tham, sân, và si, là những *nhất lai*, những người trở lại thế giới này chỉ một lần nữa, rồi chấm dứt khổ đau. Có nhiều *Tỷ kheo* hơn, với sự chấm dứt của ba *xiềng xích* là những *người nhập lưu*, không còn bị tái sanh vào đọa xứ, chắc chắn sẽ *giác ngộ*.'"
 
 <!--pg-->
-### N 55.53 With Dhammadinna *Dhammadinnasutta*
+### N 55.53 Cùng Với Dhammadinna *Dhammadinnasutta*
 
-At one time the Buddha was staying near Varanasi, in the deer park at
-Isipatana. Then the lay follower Dhammadinna, together with five hundred
-lay followers, went up to the Buddha, bowed, sat down to one side, and
-said to him:
+Một thời, Đức Phật đang ở gần Varanasi, trong vườn Lộc Uyển tại Isipatana. Sau đó, cư sĩ tại gia Dhammadinna, cùng với năm trăm cư sĩ tại gia, đến gặp Đức Phật, cúi lạy, ngồi xuống một bên, và thưa với Ngài:
 
-"May the Buddha please advise and instruct us. It will be for our
-lasting welfare and happiness."
+"Xin Đức Phật hãy khuyên dạy và chỉ bảo chúng con. Điều đó sẽ mang lại lợi ích và hạnh phúc lâu dài cho chúng con."
 
-"So, Dhammadinna, you should train like this: 'From time to time we will
-undertake and dwell upon the discourses spoken by the Realized One that
-are deep, profound, transcendent, dealing with emptiness.' That's how
-you should train yourselves."
+"Vậy thì, Dhammadinna, các con nên tu tập như thế này: 'Thỉnh thoảng, chúng ta sẽ thực hành và suy ngẫm về các bài kinh do Đấng Như Lai thuyết giảng, những bài kinh sâu sắc, thâm thúy, siêu việt, bàn về tính không.' Đó là cách các con nên tu tập."
 
-"Sir, we live at home with our children, using sandalwood imported from
-Kāsi, wearing garlands, fragrance, and makeup, and
-accepting gold and currency. It's not easy for us to undertake and dwell
-from time to time upon the discourses spoken by the Realized One that
-are deep, profound, transcendent, dealing with emptiness. Since we are
-established in the five training rules, please teach us further."
+"Bạch Thế Tôn, chúng con sống tại gia với con cái, sử dụng gỗ đàn hương nhập từ Kāsi, đeo vòng hoa, hương thơm, và trang điểm, và nhận vàng bạc. Không dễ cho chúng con thỉnh thoảng thực hành và suy ngẫm về các bài kinh do Đấng Như Lai thuyết giảng, những bài kinh sâu sắc, thâm thúy, siêu việt, bàn về tính không. Vì chúng con đã giữ vững năm giới luật tu tập, xin Ngài hãy dạy chúng con thêm."
 
-"So, Dhammadinna, you should train like this: 'We will have experiential
-confidence in the Buddha ... the teaching ... the Saṅgha
-... And we will have the ethical conduct loved by the noble ones ...
-leading to immersion.' That's how you should train yourselves."
+"Vậy thì, Dhammadinna, các con nên tu tập như thế này: 'Chúng ta sẽ có *niềm tin bất động* vào Đức Phật... giáo pháp... Tăng đoàn... Và chúng ta sẽ có *giới đức* được các bậc thánh yêu mến... dẫn đến *Định*.' Đó là cách các con nên tu tập."
 
-"Sir, these four factors of stream-entry that were taught by the Buddha
-are found in us, and we embody them. For we have experiential confidence
-in the Buddha ... the teaching ... the Saṅgha ... And we
-have the ethical conduct loved by the noble ones ... leading to
-immersion."
+"Bạch Thế Tôn, bốn yếu tố của sự nhập lưu này do Đức Phật giảng dạy đều có trong chúng con, và chúng con thể hiện chúng. Vì chúng con có *niềm tin bất động* vào Đức Phật... giáo pháp... Tăng đoàn... Và chúng con có *giới đức* được các bậc thánh yêu mến... dẫn đến *Định*."
 
-"You're fortunate, Dhammadinna, so very fortunate! You have all declared
-the fruit of stream-entry."
+"Các con thật may mắn, Dhammadinna, thật vô cùng may mắn! Tất cả các con đã tuyên bố quả vị của sự nhập lưu."
 
 <!--pg-->
-### N 55.54 Sick *Gilānasutta*
+### N 55.54 Bệnh *Gilānasutta*
 
-At one time the Buddha was staying in the land of the Sakyans, near
-Kapilavatthu in the Banyan Tree Monastery.
+Một thời, Đức Phật đang ở trong xứ của người Thích Ca, gần Kapilavatthu trong Tu viện Cây Đa.
 
-At that time several mendicants were making a robe for the Buddha,
-thinking that when his robe was finished and the three months of the
-rains residence had passed the Buddha would set out wandering.
+Lúc bấy giờ, một vài *Tỷ kheo* đang may y cho Đức Phật, nghĩ rằng khi y của Ngài hoàn thành và ba tháng an cư mùa mưa đã qua, Đức Phật sẽ lên đường du hành.
 
-Mahānāma the Sakyan heard about this. Then he went up to
-the Buddha, bowed, sat down to one side, and told him that he had heard
-that the Buddha was leaving. He added, "Sir, I haven't heard and learned
-it in the presence of the Buddha how a wise lay follower should advise
-another wise lay follower who is sick, suffering, gravely ill."
+Mahānāma người Thích Ca nghe được tin này. Sau đó, ông đến gặp Đức Phật, cúi lạy, ngồi xuống một bên, và nói với Ngài rằng ông đã nghe tin Đức Phật sắp rời đi. Ông nói thêm: "Bạch Thế Tôn, con chưa từng nghe và học được trước sự hiện diện của Đức Phật về cách một cư sĩ tại gia có trí tuệ nên khuyên bảo một cư sĩ tại gia có trí tuệ khác đang bị bệnh, đau đớn, bệnh rất nặng."
 
-"Mahānāma, a wise lay follower should put at ease another
-wise lay follower who is sick, suffering, gravely ill with four
-consolations. 'Be at ease, sir. You have experiential confidence in the
-Buddha ... the teaching ... the Saṅgha ... And you have the
-ethical conduct loved by the noble ones ... leading to immersion.'
+"Mahānāma, một cư sĩ tại gia có trí tuệ nên làm cho một cư sĩ tại gia có trí tuệ khác đang bị bệnh, đau đớn, bệnh rất nặng được an lòng bằng bốn lời an ủi. 'Hãy an lòng, thưa ngài. Ngài có *niềm tin bất động* vào Đức Phật... giáo pháp... Tăng đoàn... Và ngài có *giới đức* được các bậc thánh yêu mến... dẫn đến *Định*.'
 
-When a wise lay follower has put at ease another wise lay follower who
-is sick, suffering, gravely ill with these four consolations, they
-should say: 'Are you concerned for your mother and father?' If they
-reply, 'I am,' they should say: 'But sir, it's your nature to die.
-Whether or not you are concerned for your mother and father, you will
-die anyway. It would be good to give up concern for your mother and
-father.'
+Khi một cư sĩ tại gia có trí tuệ đã làm cho một cư sĩ tại gia có trí tuệ khác đang bị bệnh, đau đớn, bệnh rất nặng được an lòng bằng bốn lời an ủi này, họ nên nói: 'Ngài có lo lắng cho cha mẹ không?' Nếu người kia trả lời, 'Tôi có,' họ nên nói: 'Nhưng thưa ngài, bản chất của ngài là phải chết. Dù ngài có lo lắng cho cha mẹ hay không, ngài cũng sẽ chết. Tốt hơn hết là nên từ bỏ sự lo lắng cho cha mẹ.'
 
-If they reply, 'I have given up concern for my mother and father,' they
-should say: 'But are you concerned for your partners and children?' If
-they reply, 'I am,' they should say: 'But sir, it's your nature to die.
-Whether or not you are concerned for your partners and children, you
-will die anyway. It would be good to give up concern for your partners
-and children.'
+Nếu người kia trả lời, 'Tôi đã từ bỏ sự lo lắng cho cha mẹ,' họ nên nói: 'Nhưng ngài có lo lắng cho vợ chồng và con cái không?' Nếu người kia trả lời, 'Tôi có,' họ nên nói: 'Nhưng thưa ngài, bản chất của ngài là phải chết. Dù ngài có lo lắng cho vợ chồng và con cái hay không, ngài cũng sẽ chết. Tốt hơn hết là nên từ bỏ sự lo lắng cho vợ chồng và con cái.'
 
-If they reply, 'I have given up concern for my partners and children,'
-they should say: 'But are you concerned for the five kinds of human
-sensual stimulation?' If they reply, 'I am,' they should say: 'Good
-fellow, heavenly sensual pleasures are better than human sensual
-pleasures. It would be good to turn your mind away from human sensual
-pleasures and fix it on the gods of the four great kings.'
+Nếu người kia trả lời, 'Tôi đã từ bỏ sự lo lắng cho vợ chồng và con cái,' họ nên nói: 'Nhưng ngài có lo lắng cho năm loại kích thích dục lạc của con người không?' Nếu người kia trả lời, 'Tôi có,' họ nên nói: 'Bạn tốt ơi, thú vui dục lạc của cõi trời tốt hơn thú vui dục lạc của con người. Tốt hơn hết là nên hướng *tâm* khỏi thú vui dục lạc của con người và tập trung vào các vị trời ở cõi Tứ Đại Thiên Vương.'
 
-If they reply, 'I have done so,' they should say: 'Good fellow, the gods
-of the thirty-three are better than the gods of the four great kings ...
+Nếu người kia trả lời, 'Tôi đã làm vậy,' họ nên nói: 'Bạn tốt ơi, các vị trời ở cõi Ba Mươi Ba tốt hơn các vị trời ở cõi Tứ Đại Thiên Vương...
 
-Good fellow, the gods of Yama ... the joyful gods ... the gods who love
-to imagine ... the gods who control what is imagined by others ... the
-gods of the realm of divinity are better than the gods who control what
-is imagined by others. It would be good to turn your mind away from the
-gods who control what is imagined by others and fix it on the gods of
-the realm of divinity.' If they reply, 'I have done so,' they should
-say: 'Good fellow, the realm of divinity is impermanent, not lasting,
-and included within substantial reality. It would be good to turn your
-mind away from the realm of divinity and apply it to the cessation of
-substantial reality.'
+Bạn tốt ơi, các vị trời ở cõi Dạ Ma... các vị trời ở cõi Đâu Suất... các vị trời ở cõi Hóa Lạc... các vị trời ở cõi Tha Hóa Tự Tại... các vị trời ở cõi Phạm Thiên tốt hơn các vị trời ở cõi Tha Hóa Tự Tại. Tốt hơn hết là nên hướng *tâm* khỏi các vị trời ở cõi Tha Hóa Tự Tại và tập trung vào các vị trời ở cõi Phạm Thiên.' Nếu người kia trả lời, 'Tôi đã làm vậy,' họ nên nói: 'Bạn tốt ơi, cõi Phạm Thiên là vô thường, không bền vững, và nằm trong *thực tại hữu thể* (substantial reality / sakkāya / thân kiến, sự chấp vào một cái tôi có thực thể). Tốt hơn hết là nên hướng *tâm* khỏi cõi Phạm Thiên và áp dụng nó vào sự chấm dứt của *thực tại hữu thể*.'
 
-If they reply, 'I have done so,' then there is no difference between a
-lay follower whose mind is freed in this way and a mendicant whose mind
-is freed from defilements; that is, between the freedom of one and the
-other."
+Nếu người kia trả lời, 'Tôi đã làm vậy,' thì không có sự khác biệt giữa một cư sĩ tại gia có *tâm* được giải thoát theo cách này và một *Tỷ kheo* có *tâm* được giải thoát khỏi các *ô nhiễm*; nghĩa là, giữa sự giải thoát của người này và người kia."
 
 <!--pg-->
-### N 55.55 The Fruit of Stream-Entry *Sotāpattiphalasutta*
+### N 55.55 Quả Vị Nhập Lưu *Sotāpattiphalasutta*
 
-"Mendicants, when four things are developed and cultivated they lead to
-the realization of the fruit of stream-entry. What four? Associating
-with true persons, listening to the true teaching, rational application
-of mind, and practicing in line with the teaching. When these four
-things are developed and cultivated they lead to the realization of the
-fruit of stream-entry."
+"Này các *Tỷ kheo*, khi bốn điều được phát triển và tu tập, chúng sẽ dẫn đến sự chứng ngộ quả vị nhập lưu. Bốn điều đó là gì? Kết giao với người chân chính, lắng nghe Chánh pháp, *suy ngẫm tận đến gốc rễ*, và thực hành đúng theo pháp. Khi bốn điều này được phát triển và tu tập, chúng sẽ dẫn đến sự chứng ngộ quả vị nhập lưu."
 
 <!--pg-->
-### N 55.56 The Fruit of Once-Return *Sakadāgāmiphalasutta*
+### N 55.56 Quả Vị Nhất Lai *Sakadāgāmiphalasutta*
 
-"Mendicants, when four things are developed and cultivated they lead to
-the realization of the fruit of once-return. ..."
-
-<!--pg-->
-### N 55.57 The Fruit of Non-Return *Anāgāmiphalasutta*
-
-"Mendicants, when four things are developed and cultivated they lead to
-the realization of the fruit of non-return. ..."
+"Này các *Tỷ kheo*, khi bốn điều được phát triển và tu tập, chúng sẽ dẫn đến sự chứng ngộ quả vị nhất lai. ..."
 
 <!--pg-->
-### N 55.58 The Fruit of Perfection *Arahattaphalasutta*
+### N 55.57 Quả Vị Bất Lai *Anāgāmiphalasutta*
 
-"Mendicants, when four things are developed and cultivated they lead to
-the realization of the fruit of perfection. ..."
-
-<!--pg-->
-### N 55.59 The Getting of Wisdom *Paññāpaṭilābhasutta*
-
-"Mendicants, when four things are developed and cultivated they lead to
-the getting of wisdom. ..."
+"Này các *Tỷ kheo*, khi bốn điều được phát triển và tu tập, chúng sẽ dẫn đến sự chứng ngộ quả vị bất lai. ..."
 
 <!--pg-->
-### N 55.60 The Growth of Wisdom *Paññāvuddhisutta*
+### N 55.58 Quả Vị A-la-hán *Arahattaphalasutta*
 
-"Mendicants, when four things are developed and cultivated they lead to
-the growth of wisdom. ..."
-
-<!--pg-->
-### N 55.61 The Increase of Wisdom *Paññāvepullasutta*
-
-"Mendicants, when four things are developed and cultivated they lead to
-the increase of wisdom. ..."
+"Này các *Tỷ kheo*, khi bốn điều được phát triển và tu tập, chúng sẽ dẫn đến sự chứng ngộ quả vị A-la-hán. ..."
 
 <!--pg-->
-## The Chapter on Great Wisdom
+### N 55.59 Sự Đạt Được Trí Tuệ *Paññāpaṭilābhasutta*
 
-### N 55.62 Great Wisdom *Mahāpaññāsutta*
-
-"Mendicants, when four things are developed and cultivated they lead to
-great wisdom. What four? Associating with true persons, listening to the
-true teaching, rational application of mind, and practicing in line with
-the teaching. When these four things are developed and cultivated they
-lead to great wisdom."
+"Này các *Tỷ kheo*, khi bốn điều được phát triển và tu tập, chúng sẽ dẫn đến sự đạt được trí tuệ. ..."
 
 <!--pg-->
-### N 55.63 Widespread Wisdom *Puthupaññāsutta*
+### N 55.60 Sự Tăng Trưởng Của Trí Tuệ *Paññāvuddhisutta*
 
-"Mendicants, when four things are developed and cultivated they lead to
-widespread wisdom ..."
-
-<!--pg-->
-### N 55.64 Abundant Wisdom *Vipulapaññāsutta*
-
-"Mendicants, when four things are developed and cultivated they lead to
-abundant wisdom ..."
+"Này các *Tỷ kheo*, khi bốn điều được phát triển và tu tập, chúng sẽ dẫn đến sự tăng trưởng của trí tuệ. ..."
 
 <!--pg-->
-### N 55.65 Deep Wisdom *Gambhīrapaññāsutta*
+### N 55.61 Sự Gia Tăng Của Trí Tuệ *Paññāvepullasutta*
 
-"Mendicants, when four things are developed and cultivated they lead to
-deep wisdom ..."
-
-<!--pg-->
-### N 55.66 Extraordinary Wisdom *Appamattapaññāsutta*
-
-"Mendicants, when four things are developed and cultivated they lead to
-extraordinary wisdom ..."
+"Này các *Tỷ kheo*, khi bốn điều được phát triển và tu tập, chúng sẽ dẫn đến sự gia tăng của trí tuệ. ..."
 
 <!--pg-->
-### N 55.67 Vast Wisdom *Bhūripaññāsutta*
+## Phẩm Trí Tuệ Vĩ Đại
 
-"Mendicants, when four things are developed and cultivated they lead to
-vast wisdom ..."
+### N 55.62 Trí Tuệ Vĩ Đại *Mahāpaññāsutta*
 
-<!--pg-->
-### N 55.68 Much Wisdom *Paññābāhullasutta*
-
-"Mendicants, when four things are developed and cultivated they lead to
-much wisdom ..."
+"Này các *Tỷ kheo*, khi bốn điều được phát triển và tu tập, chúng sẽ dẫn đến trí tuệ vĩ đại. Bốn điều đó là gì? Kết giao với người chân chính, lắng nghe Chánh pháp, *suy ngẫm tận đến gốc rễ*, và thực hành đúng theo pháp. Khi bốn điều này được phát triển và tu tập, chúng sẽ dẫn đến trí tuệ vĩ đại."
 
 <!--pg-->
-### N 55.69 Fast Wisdom *Sīghapaññāsutta*
+### N 55.63 Trí Tuệ Rộng Lớn *Puthupaññāsutta*
 
-"Mendicants, when four things are developed and cultivated they lead to
-fast wisdom ..."
-
-<!--pg-->
-### N 55.70 Light Wisdom *Lahupaññāsutta*
-
-"Mendicants, when four things are developed and cultivated they lead to
-light wisdom ..."
+"Này các *Tỷ kheo*, khi bốn điều được phát triển và tu tập, chúng sẽ dẫn đến trí tuệ rộng lớn..."
 
 <!--pg-->
-### N 55.71 Laughing Wisdom *Hāsapaññāsutta*
+### N 55.64 Trí Tuệ Phong Phú *Vipulapaññāsutta*
 
-"Mendicants, when four things are developed and cultivated they lead to
-laughing wisdom ..."
-
-<!--pg-->
-### N 55.72 Swift Wisdom *Javanapaññāsutta*
-
-"Mendicants, when four things are developed and cultivated they lead to
-swift wisdom ..."
+"Này các *Tỷ kheo*, khi bốn điều được phát triển và tu tập, chúng sẽ dẫn đến trí tuệ phong phú..."
 
 <!--pg-->
-### N 55.73 Sharp Wisdom *Tikkhapaññāsutta*
+### N 55.65 Trí Tuệ Sâu Sắc *Gambhīrapaññāsutta*
 
-"Mendicants, when four things are developed and cultivated they lead to
-sharp wisdom ..."
+"Này các *Tỷ kheo*, khi bốn điều được phát triển và tu tập, chúng sẽ dẫn đến trí tuệ sâu sắc..."
 
 <!--pg-->
-### N 55.74 Penetrating Wisdom *Nibbedhikapaññāsutta*
+### N 55.66 Trí Tuệ Phi Thường *Appamattapaññāsutta*
 
-"Mendicants, when four things are developed and cultivated they lead to
-penetrating wisdom. What four? Associating with true persons, listening
-to the true teaching, rational application of mind, and practicing in
-line with the teaching. When these four things are developed and
-cultivated they lead to penetrating wisdom."
+"Này các *Tỷ kheo*, khi bốn điều được phát triển và tu tập, chúng sẽ dẫn đến trí tuệ phi thường..."
 
+<!--pg-->
+### N 55.67 Trí Tuệ Bao La *Bhūripaññāsutta*
 
+"Này các *Tỷ kheo*, khi bốn điều được phát triển và tu tập, chúng sẽ dẫn đến trí tuệ bao la..."
 
+<!--pg-->
+### N 55.68 Trí Tuệ Dồi Dào *Paññābāhullasutta*
+
+"Này các *Tỷ kheo*, khi bốn điều được phát triển và tu tập, chúng sẽ dẫn đến trí tuệ dồi dào..."
+
+<!--pg-->
+### N 55.69 Trí Tuệ Nhanh Chóng *Sīghapaññāsutta*
+
+"Này các *Tỷ kheo*, khi bốn điều được phát triển và tu tập, chúng sẽ dẫn đến trí tuệ nhanh chóng..."
+
+<!--pg-->
+### N 55.70 Trí Tuệ Nhẹ Nhàng *Lahupaññāsutta*
+
+"Này các *Tỷ kheo*, khi bốn điều được phát triển và tu tập, chúng sẽ dẫn đến trí tuệ nhẹ nhàng..."
+
+<!--pg-->
+### N 55.71 Trí Tuệ Hoan Hỷ *Hāsapaññāsutta*
+
+"Này các *Tỷ kheo*, khi bốn điều được phát triển và tu tập, chúng sẽ dẫn đến *trí tuệ hoan hỷ*..."
+
+<!--pg-->
+### N 55.72 Trí Tuệ Nhanh Nhạy *Javanapaññāsutta*
+
+"Này các *Tỷ kheo*, khi bốn điều được phát triển và tu tập, chúng sẽ dẫn đến *trí tuệ nhanh nhạy*..."
+
+<!--pg-->
+### N 55.73 Trí Tuệ Sắc Bén *Tikkhapaññāsutta*
+
+"Này các *Tỷ kheo*, khi bốn điều được phát triển và tu tập, chúng sẽ dẫn đến trí tuệ sắc bén..."
+
+<!--pg-->
+### N 55.74 Trí Tuệ Thâm Nhập *Nibbedhikapaññāsutta*
+
+"Này các *Tỷ kheo*, khi bốn điều được phát triển và tu tập, chúng sẽ dẫn đến trí tuệ thâm nhập. Bốn điều đó là gì? Kết giao với người chân chính, lắng nghe Chánh pháp, *suy ngẫm tận đến gốc rễ*, và thực hành đúng theo pháp. Khi bốn điều này được phát triển và tu tập, chúng sẽ dẫn đến trí tuệ thâm nhập."

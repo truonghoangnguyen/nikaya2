@@ -524,6 +524,7 @@ _Mầm tái sanh nhổ sạch,_\
 _Gốc khổ được đoạn tận,_\
 _Nay không còn tái sanh._
 
+<!--pg-->
 **22.II.Minh** (2) (S.v,432)
 
 1\. ...
@@ -620,6 +621,7 @@ là Khổ tập"... "Ðây là Khổ diệt"... Do biết, do thấy: "Ðây là
 một cố gắng cần phải làm để rõ biết: "Ðây là Khổ"... một cố gắng cần phải làm để rõ biết: "Ðây là Con
 Ðường đưa đến Khổ diệt".
 
+<!--pg-->
 **26.VI.Thân Hữu** (S.v,434)
 
 1\. ...
@@ -1962,7 +1964,6 @@ chư Thiên. Và nhiều hơn là các chúng sanh sau khi chết từ cõi ng�
 
 ...
 
-<!--pg-->
 ### 130. XXX. Năm Sanh Thú (S.v,477)
 
 1-2-3. ...

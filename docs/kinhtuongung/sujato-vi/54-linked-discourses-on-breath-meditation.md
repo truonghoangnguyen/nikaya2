@@ -1,932 +1,419 @@
-# Linked Discourses on Breath Meditation
+# Tương Ưng về Thiền Hơi Thở
 
 <!--pg-->
-## The Chapter on One Thing
+## Chương Một Pháp
 
-### N 54.1 One Thing *Ekadhammasutta*
+### N 54.1 Một Pháp *Kinh Ekadhamma*
 
-At Sāvatthī.
+Tại Sāvatthī.
 
-"Mendicants, when one thing is developed and cultivated it's very
-fruitful and beneficial. What one thing? Mindfulness of breathing.
+“Này các *Tỷ kheo*, khi một pháp được phát triển và tu tập, nó mang lại quả lớn, lợi ích lớn. Một pháp đó là gì? Đó là *niệm hơi thở* (mindfulness of breathing / ānāpānasati / sự quan sát và ghi nhớ hơi thở).
 
-And how is mindfulness of breathing developed and cultivated to be very
-fruitful and beneficial?
+Và *niệm hơi thở* được phát triển và tu tập như thế nào để mang lại quả lớn, lợi ích lớn?
 
-It's when a mendicant---gone to a wilderness, or to the root of a tree,
-or to an empty hut---sits down cross-legged, sets their body straight,
-and establishes mindfulness in their presence.
+Đó là khi một *Tỷ kheo*—đi vào rừng, hay đến gốc cây, hay một ngôi nhà trống—ngồi xuống, vắt chéo chân, giữ thân thẳng, và thiết lập *niệm* (mindfulness / sati / *niệm* / quan sát và ghi nhớ) trước mặt.
 
-Just mindful, they breathe in. Mindful, they breathe out.
+Chỉ *niệm*, vị ấy thở vào. *Niệm*, vị ấy thở ra.
 
-Breathing in heavily they know: 'I'm breathing in heavily.' Breathing
-out heavily they know: 'I'm breathing out heavily.' When breathing in
-lightly they know: 'I'm breathing in lightly.' Breathing out lightly
-they know: 'I'm breathing out lightly.' They practice like this: 'I'll
-breathe in experiencing the whole body.' They practice like this: 'I'll
-breathe out experiencing the whole body.' They practice like this: 'I'll
-breathe in stilling physical processes.' They practice like this: 'I'll
-breathe out stilling physical processes.'
+Thở vào dài, vị ấy biết: ‘Tôi đang thở vào dài.’ Thở ra dài, vị ấy biết: ‘Tôi đang thở ra dài.’ Khi thở vào ngắn, vị ấy biết: ‘Tôi đang thở vào ngắn.’ Thở ra ngắn, vị ấy biết: ‘Tôi đang thở ra ngắn.’ Vị ấy thực hành như sau: ‘Tôi sẽ thở vào, cảm nhận toàn thân.’ Vị ấy thực hành như sau: ‘Tôi sẽ thở ra, cảm nhận toàn thân.’ Vị ấy thực hành như sau: ‘Tôi sẽ thở vào, làm lắng dịu *các hoạt động của thân* (physical processes / kāyasaṅkhāra / *thân hành* / các hoạt động liên quan đến thân, đặc biệt là hơi thở vào và ra).’ Vị ấy thực hành như sau: ‘Tôi sẽ thở ra, làm lắng dịu *các hoạt động của thân*.’
 
-They practice like this: 'I'll breathe in experiencing rapture.' They
-practice like this: 'I'll breathe out experiencing rapture.' They
-practice like this: 'I'll breathe in experiencing bliss.' They practice
-like this: 'I'll breathe out experiencing bliss.' They practice like
-this: 'I'll breathe in experiencing mental processes.' They practice
-like this: 'I'll breathe out experiencing mental processes.' They
-practice like this: 'I'll breathe in stilling mental processes.' They
-practice like this: 'I'll breathe out stilling mental processes.'
+Vị ấy thực hành như sau: ‘Tôi sẽ thở vào, cảm nhận sự *phấn khởi* (rapture / pīti / hỷ / sự phấn khích được kích thích từ bên ngoài).’ Vị ấy thực hành như sau: ‘Tôi sẽ thở ra, cảm nhận sự *phấn khởi*.’ Vị ấy thực hành như sau: ‘Tôi sẽ thở vào, cảm nhận sự *bình an* (bliss / sukha / lạc / hạnh phúc tự bên trong sinh ra).’ Vị ấy thực hành như sau: ‘Tôi sẽ thở ra, cảm nhận sự *bình an*.’ Vị ấy thực hành như sau: ‘Tôi sẽ thở vào, cảm nhận *các hoạt động của tâm* (mental processes / cittasaṅkhāra / *tâm hành* / các hoạt động định hình tâm trí, bao gồm nhận thức và cảm giác).’ Vị ấy thực hành như sau: ‘Tôi sẽ thở ra, cảm nhận *các hoạt động của tâm*.’ Vị ấy thực hành như sau: ‘Tôi sẽ thở vào, làm lắng dịu *các hoạt động của tâm*.’ Vị ấy thực hành như sau: ‘Tôi sẽ thở ra, làm lắng dịu *các hoạt động của tâm*.’
 
-They practice like this: 'I'll breathe in experiencing the mind.' They
-practice like this: 'I'll breathe out experiencing the mind.' They
-practice like this: 'I'll breathe in gladdening the mind.' They practice
-like this: 'I'll breathe out gladdening the mind.' They practice like
-this: 'I'll breathe in immersing the mind in samādhi.' They
-practice like this: 'I'll breathe out immersing the mind in
-samādhi.' They practice like this: 'I'll breathe in freeing
-the mind.' They practice like this: 'I'll breathe out freeing the mind.'
-They practice like this: 'I'll breathe in observing impermanence.' They
-practice like this: 'I'll breathe out observing impermanence.'
+Vị ấy thực hành như sau: ‘Tôi sẽ thở vào, cảm nhận *tâm*.’ Vị ấy thực hành như sau: ‘Tôi sẽ thở ra, cảm nhận *tâm*.’ Vị ấy thực hành như sau: ‘Tôi sẽ thở vào, làm cho *tâm* hân hoan.’ Vị ấy thực hành như sau: ‘Tôi sẽ thở ra, làm cho *tâm* hân hoan.’ Vị ấy thực hành như sau: ‘Tôi sẽ thở vào, làm cho *tâm* *đắm chìm trong định*.’ Vị ấy thực hành như sau: ‘Tôi sẽ thở ra, làm cho *tâm* *đắm chìm trong định*.’ Vị ấy thực hành như sau: ‘Tôi sẽ thở vào, giải thoát *tâm*.’ Vị ấy thực hành như sau: ‘Tôi sẽ thở ra, giải thoát *tâm*.’ Vị ấy thực hành như sau: ‘Tôi sẽ thở vào, quan sát sự *vô thường* (impermanence / anicca / không có gì là vĩnh viễn, mọi thứ đều thay đổi).’ Vị ấy thực hành như sau: ‘Tôi sẽ thở ra, quan sát sự *vô thường*.’
 
-They practice like this: 'I'll breathe in observing fading away.' They
-practice like this: 'I'll breathe out observing fading away.' They
-practice like this: 'I'll breathe in observing cessation.' They practice
-like this: 'I'll breathe out observing cessation.' They practice like
-this: 'I'll breathe in observing letting go.' They practice like this:
-'I'll breathe out observing letting go.'
+Vị ấy thực hành như sau: ‘Tôi sẽ thở vào, quan sát sự *ly tham* (fading away / virāga / sự phai nhạt của ham muốn).’ Vị ấy thực hành như sau: ‘Tôi sẽ thở ra, quan sát sự *ly tham*.’ Vị ấy thực hành như sau: ‘Tôi sẽ thở vào, quan sát sự *diệt* (cessation / nirodha / sự chấm dứt hoàn toàn).’ Vị ấy thực hành như sau: ‘Tôi sẽ thở ra, quan sát sự *diệt*.’ Vị ấy thực hành như sau: ‘Tôi sẽ thở vào, quan sát sự *buông bỏ* (letting go / paṭinissagga / sự từ bỏ, xả ly).’ Vị ấy thực hành như sau: ‘Tôi sẽ thở ra, quan sát sự *buông bỏ*.’
 
-Mindfulness of breathing, when developed and cultivated in this way, is
-very fruitful and beneficial."
+*Niệm hơi thở*, khi được phát triển và tu tập theo cách này, sẽ rất có kết quả và lợi ích.”
 
 <!--pg-->
-### N 54.2 Awakening Factors *Bojjhaṅgasutta*
+### N 54.2 Các Yếu Tố Giác Ngộ *Kinh Bojjhaṅga*
 
-"Mendicants, when mindfulness of breathing is developed and cultivated
-it's very fruitful and beneficial. And how is mindfulness of breathing
-developed and cultivated to be very fruitful and beneficial? It's when a
-mendicant develops mindfulness of breathing together with the awakening
-factors of mindfulness, investigation of principles, energy, rapture,
-tranquility, immersion, and equanimity, which rely on seclusion, fading
-away, and cessation, and ripen as letting go. Mindfulness of breathing,
-when developed and cultivated in this way, is very fruitful and
-beneficial."
+“Này các *Tỷ kheo*, khi *niệm hơi thở* được phát triển và tu tập, nó mang lại quả lớn, lợi ích lớn. Và *niệm hơi thở* được phát triển và tu tập như thế nào để mang lại quả lớn, lợi ích lớn? Đó là khi một *Tỷ kheo* phát triển *niệm hơi thở* cùng với các *yếu tố của giác ngộ* (awakening factors / bojjhaṅga / giác chi) là *niệm*, *Phân tích pháp* (Investigation of principles / dhammavicaya / trạch pháp), *Nỗ lực* (Energy / viriya), *phấn khởi*, *thư thái* (tranquility / passaddhi / khinh an / sự nhẹ nhàng thư thái của thân), *Định* (Immersion / samādhi / định / Trạng thái tâm tụ trên một điểm), và *Xả* (Equanimity / upekkhā / xả / Quan sát về cảm giác thích, ghét, trung tính ở trên tâm), vốn dựa trên sự *ly* (seclusion / viveka / sự xa lìa, tách biệt khỏi các phiền não), *ly tham*, và *diệt*, và chín muồi trong sự *buông bỏ*. *Niệm hơi thở*, khi được phát triển và tu tập theo cách này, sẽ rất có kết quả và lợi ích.”
 
 <!--pg-->
-### N 54.3 Plain Version *Suddhikasutta*
+### N 54.3 Bản Giản Lược *Kinh Suddhika*
 
-"Mendicants, when mindfulness of breathing is developed and cultivated
-it's very fruitful and beneficial. And how is mindfulness of breathing
-developed and cultivated to be very fruitful and beneficial?
+“Này các *Tỷ kheo*, khi *niệm hơi thở* được phát triển và tu tập, nó mang lại quả lớn, lợi ích lớn. Và *niệm hơi thở* được phát triển và tu tập như thế nào để mang lại quả lớn, lợi ích lớn?
 
-It's when a mendicant---gone to a wilderness, or to the root of a tree,
-or to an empty hut---sits down cross-legged, sets their body straight,
-and establishes mindfulness in their presence.
+Đó là khi một *Tỷ kheo*—đi vào rừng, hay đến gốc cây, hay một ngôi nhà trống—ngồi xuống, vắt chéo chân, giữ thân thẳng, và thiết lập *niệm* trước mặt.
 
-Just mindful, they breathe in. Mindful, they breathe out. ...
+Chỉ *niệm*, vị ấy thở vào. *Niệm*, vị ấy thở ra. ...
 
-They practice like this: 'I'll breathe in observing letting go.' They
-practice like this: 'I'll breathe out observing letting go.'
+Vị ấy thực hành như sau: ‘Tôi sẽ thở vào, quan sát sự *buông bỏ*.’ Vị ấy thực hành như sau: ‘Tôi sẽ thở ra, quan sát sự *buông bỏ*.’
 
-Mindfulness of breathing, when developed and cultivated in this way, is
-very fruitful and beneficial."
+*Niệm hơi thở*, khi được phát triển và tu tập theo cách này, sẽ rất có kết quả và lợi ích.”
 
 <!--pg-->
-### N 54.4 Fruits (1st) *Paṭhamaphalasutta*
+### N 54.4 Quả (Thứ Nhất) *Kinh Paṭhamaphala*
 
-"Mendicants, when mindfulness of breathing is developed and cultivated
-it's very fruitful and beneficial. And how is mindfulness of breathing
-developed and cultivated to be very fruitful and beneficial?
+“Này các *Tỷ kheo*, khi *niệm hơi thở* được phát triển và tu tập, nó mang lại quả lớn, lợi ích lớn. Và *niệm hơi thở* được phát triển và tu tập như thế nào để mang lại quả lớn, lợi ích lớn?
 
-It's when a mendicant---gone to a wilderness, or to the root of a tree,
-or to an empty hut---sits down cross-legged, sets their body straight,
-and establishes mindfulness in their presence.
+Đó là khi một *Tỷ kheo*—đi vào rừng, hay đến gốc cây, hay một ngôi nhà trống—ngồi xuống, vắt chéo chân, giữ thân thẳng, và thiết lập *niệm* trước mặt.
 
-Just mindful, they breathe in. Mindful, they breathe out. ...
+Chỉ *niệm*, vị ấy thở vào. *Niệm*, vị ấy thở ra. ...
 
-They practice like this: 'I'll breathe in observing letting go.' They
-practice like this: 'I'll breathe out observing letting go.'
+Vị ấy thực hành như sau: ‘Tôi sẽ thở vào, quan sát sự *buông bỏ*.’ Vị ấy thực hành như sau: ‘Tôi sẽ thở ra, quan sát sự *buông bỏ*.’
 
-Mindfulness of breathing, when developed and cultivated in this way, is
-very fruitful and beneficial. When mindfulness of breathing is developed
-and cultivated in this way you can expect one of two results:
-enlightenment in this very life, or if there's something left over,
-non-return."
+*Niệm hơi thở*, khi được phát triển và tu tập theo cách này, sẽ rất có kết quả và lợi ích. Khi *niệm hơi thở* được phát triển và tu tập theo cách này, vị ấy có thể mong đợi một trong hai kết quả: *giác ngộ* (enlightenment / bodhi / sự tỉnh thức hoàn toàn) ngay trong đời này, hoặc nếu vẫn còn một chút dư sót, thì sẽ đạt quả *bất lai* (non-return / anāgāmitā / trạng thái không còn quay trở lại cõi dục).”
 
 <!--pg-->
-### N 54.5 Fruits (2nd) *Dutiyaphalasutta*
+### N 54.5 Quả (Thứ Hai) *Kinh Dutiyaphala*
 
-"Mendicants, when mindfulness of breathing is developed and cultivated
-it's very fruitful and beneficial. And how is mindfulness of breathing
-developed and cultivated to be very fruitful and beneficial?
+“Này các *Tỷ kheo*, khi *niệm hơi thở* được phát triển và tu tập, nó mang lại quả lớn, lợi ích lớn. Và *niệm hơi thở* được phát triển và tu tập như thế nào để mang lại quả lớn, lợi ích lớn?
 
-It's when a mendicant---gone to a wilderness, or to the root of a tree,
-or to an empty hut---sits down cross-legged, sets their body straight,
-and establishes mindfulness in their presence.
+Đó là khi một *Tỷ kheo*—đi vào rừng, hay đến gốc cây, hay một ngôi nhà trống—ngồi xuống, vắt chéo chân, giữ thân thẳng, và thiết lập *niệm* trước mặt.
 
-Just mindful, they breathe in. Mindful, they breathe out. ...
+Chỉ *niệm*, vị ấy thở vào. *Niệm*, vị ấy thở ra. ...
 
-They practice like this: 'I'll breathe in observing letting go.' They
-practice like this: 'I'll breathe out observing letting go.'
+Vị ấy thực hành như sau: ‘Tôi sẽ thở vào, quan sát sự *buông bỏ*.’ Vị ấy thực hành như sau: ‘Tôi sẽ thở ra, quan sát sự *buông bỏ*.’
 
-Mindfulness of breathing, when developed and cultivated in this way, is
-very fruitful and beneficial.
+*Niệm hơi thở*, khi được phát triển và tu tập theo cách này, sẽ rất có kết quả và lợi ích.
 
-When mindfulness of breathing is developed and cultivated in this way
-you can expect seven fruits and benefits. What seven? You attain
-enlightenment early on in this very life. If not, you attain
-enlightenment at the time of death. If not, with the ending of the five
-lower fetters you're extinguished in between one life and the next ...
-you're extinguished upon landing ... you're extinguished without extra
-effort ... you're extinguished with extra effort ... you head upstream,
-going to the Akaniṭṭha realm ... When mindfulness of
-breathing is developed and cultivated in this way you can expect these
-seven fruits and benefits."
+Khi *niệm hơi thở* được phát triển và tu tập theo cách này, vị ấy có thể mong đợi bảy quả và lợi ích. Bảy quả đó là gì? Vị ấy đạt được *giác ngộ* sớm ngay trong đời này. Nếu không, vị ấy đạt được *giác ngộ* vào lúc lâm chung. Nếu không, với sự chấm dứt của *năm xiềng xích thấp* (five lower fetters / pañcorambhāgiyāni saṃyojanāni / *năm hạ phần kiết sử* / năm loại ràng buộc trói buộc chúng sinh vào các cõi thấp hơn: thân kiến, hoài nghi, giới cấm thủ, tham dục, và sân hận), vị ấy sẽ nhập diệt giữa kiếp này và kiếp sau... sẽ nhập diệt khi vừa tái sinh... sẽ nhập diệt không cần nỗ lực nhiều... sẽ nhập diệt với nỗ lực nhiều... sẽ đi ngược dòng, đến *cõi Sắc Cứu Cánh* (Akaniṭṭha realm / Akaniṭṭha-bhūmi / cõi trời cao nhất trong các cõi Sắc giới, nơi các vị Bất Lai sinh về)... Khi *niệm hơi thở* được phát triển và tu tập theo cách này, vị ấy có thể mong đợi bảy quả và lợi ích này.”
 
 <!--pg-->
-### N 54.6 With Ariṭṭha *Ariṭṭhasutta*
+### N 54.6 Cùng Ariṭṭha *Kinh Ariṭṭha*
 
-At Sāvatthī.
+Tại Sāvatthī.
 
-There the Buddha ... said:
+Tại đó, Đức Phật... nói:
 
-"Mendicants, do you develop mindfulness of breathing?" When he said
-this, Venerable Ariṭṭha said to him:
+“Này các *Tỷ kheo*, các ông có phát triển *niệm hơi thở* không?” Khi ngài nói vậy, Tôn giả Ariṭṭha thưa với ngài:
 
-"Sir, I develop mindfulness of breathing."
+“Thưa ngài, con có phát triển *niệm hơi thở*.”
 
-"But mendicant, how do you develop it?"
+“Nhưng này *Tỷ kheo*, ông phát triển nó như thế nào?”
 
-"Sir, I've given up desire for sensual pleasures of the past. I'm rid of
-desire for sensual pleasures of the future. And I have eliminated
-perception of repulsion regarding phenomena internally and externally.
-Just mindful, I will breathe in. Mindful, I will breathe out. That's how
-I develop mindfulness of breathing."
+“Thưa ngài, con đã từ bỏ ham muốn đối với các *thú vui giác quan* (sensual pleasures / kāma / những lạc thú đến từ năm giác quan) trong quá khứ. Con đã thoát khỏi ham muốn đối với các *thú vui giác quan* trong tương lai. Và con đã loại bỏ nhận thức về sự ghê tởm đối với các *pháp* (phenomena / dhammā / tất cả các sự vật, hiện tượng, cả vật chất và tinh thần) bên trong và bên ngoài. Chỉ *niệm*, con sẽ thở vào. *Niệm*, con sẽ thở ra. Đó là cách con phát triển *niệm hơi thở*.”
 
-"That is mindfulness of breathing, Ariṭṭha; I don't deny
-it. But as to how mindfulness of breathing is fulfilled in detail,
-listen and apply your mind well, I will speak."
+“Đó là *niệm hơi thở*, Ariṭṭha; ta không phủ nhận điều đó. Nhưng về cách *niệm hơi thở* được hoàn thiện một cách chi tiết, hãy lắng nghe và chú tâm kỹ, ta sẽ nói.”
 
-"Yes, sir," Ariṭṭha replied. The Buddha said this:
+“Vâng, thưa ngài,” Ariṭṭha đáp. Đức Phật nói điều này:
 
-"And how is mindfulness of breathing fulfilled in detail? It's when a
-mendicant---gone to a wilderness, or to the root of a tree, or to an
-empty hut---sits down cross-legged, sets their body straight, and
-establishes mindfulness in their presence. Just mindful, they breathe
-in. Mindful, they breathe out. Breathing in heavily they know: 'I'm
-breathing in heavily.' Breathing out heavily they know: 'I'm breathing
-out heavily.' ... They practice like this: 'I'll breathe in observing
-letting go.' They practice like this: 'I'll breathe out observing
-letting go.' This is how mindfulness of breathing is fulfilled in
-detail."
+“Và *niệm hơi thở* được hoàn thiện một cách chi tiết như thế nào? Đó là khi một *Tỷ kheo*—đi vào rừng, hay đến gốc cây, hay một ngôi nhà trống—ngồi xuống, vắt chéo chân, giữ thân thẳng, và thiết lập *niệm* trước mặt. Chỉ *niệm*, vị ấy thở vào. *Niệm*, vị ấy thở ra. Thở vào dài, vị ấy biết: ‘Tôi đang thở vào dài.’ Thở ra dài, vị ấy biết: ‘Tôi đang thở ra dài.’ ... Vị ấy thực hành như sau: ‘Tôi sẽ thở vào, quan sát sự *buông bỏ*.’ Vị ấy thực hành như sau: ‘Tôi sẽ thở ra, quan sát sự *buông bỏ*.’ Đây là cách *niệm hơi thở* được hoàn thiện một cách chi tiết.”
 
 <!--pg-->
-### N 54.7 About Mahākappina *Mahākappinasutta*
+### N 54.7 Về Mahākappina *Kinh Mahākappina*
 
-At Sāvatthī.
+Tại Sāvatthī.
 
-Now at that time Venerable Mahākappina was sitting not far
-from the Buddha, cross-legged, his body set straight, and mindfulness
-established in his presence. The Buddha saw him, and addressed the
-mendicants:
+Lúc bấy giờ, Tôn giả Mahākappina đang ngồi không xa Đức Phật, vắt chéo chân, thân giữ thẳng, và *niệm* được thiết lập trước mặt. Đức Phật thấy ông và nói với các *Tỷ kheo*:
 
-"Mendicants, do you see any disturbance or trembling in that mendicant's
-body?"
+“Này các *Tỷ kheo*, các ông có thấy bất kỳ sự xáo động hay rung chuyển nào trong thân của vị *Tỷ kheo* đó không?”
 
-"Sir, whenever we see that mendicant meditating---whether in the middle
-of the Saṅgha or alone in private---we never see any
-disturbance or trembling in his body."
+“Thưa ngài, mỗi khi chúng con thấy vị *Tỷ kheo* đó thiền định—dù ở giữa Tăng đoàn hay một mình ở nơi riêng tư—chúng con không bao giờ thấy bất kỳ sự xáo động hay rung chuyển nào trong thân của vị ấy.”
 
-"Mendicants, when an immersion has been developed and cultivated there's
-no disturbance or trembling of the body or mind. That mendicant gets
-such immersion when he wants, without trouble or difficulty. And what is
-that immersion?
+“Này các *Tỷ kheo*, khi một trạng thái *Định* đã được phát triển và tu tập, sẽ không có sự xáo động hay rung chuyển của thân hay *tâm*. Vị *Tỷ kheo* đó đạt được trạng thái *Định* như vậy bất cứ khi nào muốn, không gặp khó khăn hay trở ngại. Và trạng thái *Định* đó là gì?
 
-When immersion due to mindfulness of breathing has been developed and
-cultivated there's no disturbance or trembling of the body or mind. And
-how is immersion due to mindfulness of breathing developed and
-cultivated in such a way?
+Khi *Định* do *niệm hơi thở* đã được phát triển và tu tập, sẽ không có sự xáo động hay rung chuyển của thân hay *tâm*. Và *Định* do *niệm hơi thở* được phát triển và tu tập như thế nào?
 
-It's when a mendicant---gone to a wilderness, or to the root of a tree,
-or to an empty hut---sits down cross-legged, sets their body straight,
-and establishes mindfulness in their presence. Just mindful, they
-breathe in. Mindful, they breathe out. ... They practice like this:
-'I'll breathe in observing letting go.' They practice like this: 'I'll
-breathe out observing letting go.'
+Đó là khi một *Tỷ kheo*—đi vào rừng, hay đến gốc cây, hay một ngôi nhà trống—ngồi xuống, vắt chéo chân, giữ thân thẳng, và thiết lập *niệm* trước mặt. Chỉ *niệm*, vị ấy thở vào. *Niệm*, vị ấy thở ra. ... Vị ấy thực hành như sau: ‘Tôi sẽ thở vào, quan sát sự *buông bỏ*.’ Vị ấy thực hành như sau: ‘Tôi sẽ thở ra, quan sát sự *buông bỏ*.’
 
-That's how immersion due to mindfulness of breathing is developed and
-cultivated so that there's no disturbance or trembling of the body or
-mind."
+Đó là cách *Định* do *niệm hơi thở* được phát triển và tu tập để không có sự xáo động hay rung chuyển của thân hay *tâm*.”
 
 <!--pg-->
-### N 54.8 The Simile of the Lamp *Padīpopamasutta*
+### N 54.8 Ví Dụ Ngọn Đèn *Kinh Padīpopama*
 
-"Mendicants, when immersion due to mindfulness of breathing is developed
-and cultivated it's very fruitful and beneficial. How so?
+“Này các *Tỷ kheo*, khi *Định* do *niệm hơi thở* được phát triển và tu tập, nó mang lại quả lớn, lợi ích lớn. Như thế nào?
 
-It's when a mendicant---gone to a wilderness, or to the root of a tree,
-or to an empty hut---sits down cross-legged, sets their body straight,
-and establishes mindfulness in their presence. Just mindful, they
-breathe in. Mindful, they breathe out. Breathing in heavily they know:
-'I'm breathing in heavily.' Breathing out heavily they know: 'I'm
-breathing out heavily.' ... They practice like this: 'I'll breathe in
-observing letting go.' They practice like this: 'I'll breathe out
-observing letting go.' That's how immersion due to mindfulness of
-breathing, when developed and cultivated, is very fruitful and
-beneficial.
+Đó là khi một *Tỷ kheo*—đi vào rừng, hay đến gốc cây, hay một ngôi nhà trống—ngồi xuống, vắt chéo chân, giữ thân thẳng, và thiết lập *niệm* trước mặt. Chỉ *niệm*, vị ấy thở vào. *Niệm*, vị ấy thở ra. Thở vào dài, vị ấy biết: ‘Tôi đang thở vào dài.’ Thở ra dài, vị ấy biết: ‘Tôi đang thở ra dài.’ ... Vị ấy thực hành như sau: ‘Tôi sẽ thở vào, quan sát sự *buông bỏ*.’ Vị ấy thực hành như sau: ‘Tôi sẽ thở ra, quan sát sự *buông bỏ*.’ Đó là cách *Định* do *niệm hơi thở*, khi được phát triển và tu tập, mang lại quả lớn và lợi ích lớn.
 
-Before my awakening---when I was still unawakened but intent on
-awakening---I too usually practiced this kind of meditation. And while I
-was usually practicing this kind of meditation neither my body nor my
-eyes became fatigued. And my mind was freed from defilements by not
-grasping.
+Trước khi *giác ngộ*—khi ta vẫn chưa *giác ngộ* nhưng quyết tâm đạt đến *giác ngộ*—ta cũng thường thực hành loại thiền định này. Và trong khi ta thường thực hành loại thiền định này, cả thân và mắt của ta đều không mệt mỏi. Và *tâm* của ta được giải thoát khỏi các *ô nhiễm* (defilements / kilesa / *phiền não* / những trạng thái tâm bất thiện làm vẩn đục tâm trí) nhờ không *bám giữ* (grasping / upādāna / chấp thủ / dựa vào, khăng khăng vào).
 
-Now, a mendicant might wish: 'May neither my body nor my eyes became
-fatigued. And may my mind be freed from the defilements by not
-grasping.' So let them closely focus on this immersion due to
-mindfulness of breathing.
+Bây giờ, một *Tỷ kheo* có thể mong muốn: ‘Mong sao cả thân và mắt của tôi không mệt mỏi. Và mong sao *tâm* tôi được giải thoát khỏi các *ô nhiễm* nhờ không *bám giữ*.’ Vậy hãy để vị ấy tập trung chặt chẽ vào *Định* do *niệm hơi thở* này.
 
-Now, a mendicant might wish: 'May I give up memories and thoughts tied
-to domestic life.' So let them closely focus on this immersion due to
-mindfulness of breathing.
+Bây giờ, một *Tỷ kheo* có thể mong muốn: ‘Mong sao tôi từ bỏ được những ký ức và suy nghĩ gắn liền với đời sống tại gia.’ Vậy hãy để vị ấy tập trung chặt chẽ vào *Định* do *niệm hơi thở* này.
 
-Now, a mendicant might wish: 'May I meditate perceiving the repulsive in
-the unrepulsive.' So let them closely focus on this immersion due to
-mindfulness of breathing.
+Bây giờ, một *Tỷ kheo* có thể mong muốn: ‘Mong sao tôi *an trú* nhận thức được sự đáng ghê tởm trong cái không đáng ghê tởm.’ Vậy hãy để vị ấy tập trung chặt chẽ vào *Định* do *niệm hơi thở* này.
 
-Now, a mendicant might wish: 'May I meditate perceiving the unrepulsive
-in the repulsive.' So let them closely focus on this immersion due to
-mindfulness of breathing.
+Bây giờ, một *Tỷ kheo* có thể mong muốn: ‘Mong sao tôi *an trú* nhận thức được sự không đáng ghê tởm trong cái đáng ghê tởm.’ Vậy hãy để vị ấy tập trung chặt chẽ vào *Định* do *niệm hơi thở* này.
 
-Now, a mendicant might wish: 'May I meditate perceiving the repulsive in
-the unrepulsive and the repulsive.' So let them closely focus on this
-immersion due to mindfulness of breathing.
+Bây giờ, một *Tỷ kheo* có thể mong muốn: ‘Mong sao tôi *an trú* nhận thức được sự đáng ghê tởm trong cả cái không đáng ghê tởm và cái đáng ghê tởm.’ Vậy hãy để vị ấy tập trung chặt chẽ vào *Định* do *niệm hơi thở* này.
 
-Now, a mendicant might wish: 'May I meditate perceiving the unrepulsive
-in the repulsive and the unrepulsive.' So let them closely focus on this
-immersion due to mindfulness of breathing.
+Bây giờ, một *Tỷ kheo* có thể mong muốn: ‘Mong sao tôi *an trú* nhận thức được sự không đáng ghê tởm trong cả cái đáng ghê tởm và cái không đáng ghê tởm.’ Vậy hãy để vị ấy tập trung chặt chẽ vào *Định* do *niệm hơi thở* này.
 
-Now, a mendicant might wish: 'May I meditate staying equanimous, mindful
-and aware, rejecting both the repulsive and the unrepulsive.' So let
-them closely focus on this immersion due to mindfulness of breathing.
+Bây giờ, một *Tỷ kheo* có thể mong muốn: ‘Mong sao tôi *an trú* giữ tâm *Xả*, *niệm* và tỉnh giác, từ bỏ cả cái đáng ghê tởm và cái không đáng ghê tởm.’ Vậy hãy để vị ấy tập trung chặt chẽ vào *Định* do *niệm hơi thở* này.
 
-Now, a mendicant might wish: 'Quite secluded from sensual pleasures,
-secluded from unskillful qualities, may I enter and remain in the first
-absorption, which has the rapture and bliss born of seclusion, while
-placing the mind and keeping it connected.' So let them closely focus on
-this immersion due to mindfulness of breathing.
+Bây giờ, một *Tỷ kheo* có thể mong muốn: ‘Hoàn toàn *ly* khỏi các *thú vui giác quan*, *ly* các *bất thiện pháp* (unskillful qualities / akusalā dhammā / những phẩm chất, trạng thái tâm không khéo léo, gây hại), tôi có thể nhập và an trú trong *sơ thiền* (first absorption / paṭhama jhāna / tầng thiền thứ nhất), một trạng thái có *phấn khởi* và *bình an* sinh ra từ sự *ly*, trong khi vẫn *có sự suy nghĩ về một đề tài và quan sát đề tài đó* (placing the mind and keeping it connected / vitakka-vicāra / có tầm có tứ / có quá trình hướng ý nghĩ (chủ động) và im lặng quan sát (thụ động) một đề tài).’ Vậy hãy để vị ấy tập trung chặt chẽ vào *Định* do *niệm hơi thở* này.
 
-Now, a mendicant might wish: 'As the placing of the mind and keeping it
-connected are stilled, may I enter and remain in the second absorption,
-which has the rapture and bliss born of immersion, with internal clarity
-and mind at one, without placing the mind and keeping it connected.' So
-let them closely focus on this immersion due to mindfulness of
-breathing.
+Bây giờ, một *Tỷ kheo* có thể mong muốn: ‘Khi *có sự suy nghĩ về một đề tài và quan sát đề tài đó* lắng xuống, tôi có thể nhập và an trú trong *nhị thiền* (second absorption / dutiya jhāna / tầng thiền thứ hai), một trạng thái có *phấn khởi* và *bình an* sinh ra từ *Định*, với sự trong sáng nội tại và *tâm* hợp nhất, *lặng im không suy nghĩ, chỉ có quan sát* (without placing the mind and keeping it connected / avitakka-vicāra / không tầm, có tứ / không có sự suy nghĩ, chỉ có sự im lặng để quan sát).’ Vậy hãy để vị ấy tập trung chặt chẽ vào *Định* do *niệm hơi thở* này.
 
-Now, a mendicant might wish: 'With the fading away of rapture, may I
-enter and remain in the third absorption, where I will meditate with
-equanimity, mindful and aware, personally experiencing the bliss of
-which the noble ones declare, "Equanimous and mindful, one meditates in
-bliss."' So let them closely focus on this immersion due to mindfulness
-of breathing.
+Bây giờ, một *Tỷ kheo* có thể mong muốn: ‘Với sự phai nhạt của *phấn khởi*, tôi có thể nhập và an trú trong *tam thiền* (third absorption / tatiya jhāna / tầng thiền thứ ba), nơi tôi sẽ *an trú* với tâm *Xả*, *niệm* và tỉnh giác, tự thân cảm nhận sự *bình an* mà các bậc thánh tuyên bố, “Với tâm *Xả* và *niệm*, người ấy *an trú* trong *bình an*.”’ Vậy hãy để vị ấy tập trung chặt chẽ vào *Định* do *niệm hơi thở* này.
 
-Now, a mendicant might wish: 'With the giving up of pleasure and pain,
-and the ending of former happiness and sadness, may I enter and remain
-in the fourth absorption, without pleasure or pain, with pure equanimity
-and mindfulness.' So let them closely focus on this immersion due to
-mindfulness of breathing.
+Bây giờ, một *Tỷ kheo* có thể mong muốn: ‘Với việc từ bỏ lạc và khổ, và sự chấm dứt của hỷ và ưu trước đó, tôi có thể nhập và an trú trong *tứ thiền* (fourth absorption / catuttha jhāna / tầng thiền thứ tư), không khổ không lạc, với tâm *Xả* và *niệm* thanh tịnh.’ Vậy hãy để vị ấy tập trung chặt chẽ vào *Định* do *niệm hơi thở* này.
 
-Now, a mendicant might wish: 'Going totally beyond perceptions of form,
-with the ending of perceptions of impingement, not focusing on
-perceptions of diversity, aware that "space is infinite", may I enter
-and remain in the dimension of infinite space.' So let them closely
-focus on this immersion due to mindfulness of breathing.
+Bây giờ, một *Tỷ kheo* có thể mong muốn: ‘Vượt hoàn toàn qua *nhận thức về sắc*, với sự chấm dứt *nhận thức về sự va chạm*, không chú tâm đến *nhận thức về sự đa dạng*, nhận biết rằng “không gian là vô biên”, tôi có thể nhập và an trú trong *không vô biên xứ* (dimension of infinite space / ākāsānañcāyatana / tầng thiền vô sắc thứ nhất).’ Vậy hãy để vị ấy tập trung chặt chẽ vào *Định* do *niệm hơi thở* này.
 
-Now, a mendicant might wish: 'Going totally beyond the dimension of
-infinite space, aware that "consciousness is infinite", may I enter and
-remain in the dimension of infinite consciousness.' So let them closely
-focus on this immersion due to mindfulness of breathing.
+Bây giờ, một *Tỷ kheo* có thể mong muốn: ‘Vượt hoàn toàn qua *không vô biên xứ*, nhận biết rằng “*thức* (consciousness / viññāṇa / thức / thức phát sinh từ thân và tâm) là vô biên”, tôi có thể nhập và an trú trong *thức vô biên xứ* (dimension of infinite consciousness / viññāṇañcāyatana / tầng thiền vô sắc thứ hai).’ Vậy hãy để vị ấy tập trung chặt chẽ vào *Định* do *niệm hơi thở* này.
 
-Now, a mendicant might wish: 'Going totally beyond the dimension of
-infinite consciousness, aware that "there is nothing at all", may I
-enter and remain in the dimension of nothingness.' So let them closely
-focus on this immersion due to mindfulness of breathing.
+Bây giờ, một *Tỷ kheo* có thể mong muốn: ‘Vượt hoàn toàn qua *thức vô biên xứ*, nhận biết rằng “không có gì cả”, tôi có thể nhập và an trú trong *vô sở hữu xứ* (dimension of nothingness / ākiñcaññāyatana / tầng thiền vô sắc thứ ba).’ Vậy hãy để vị ấy tập trung chặt chẽ vào *Định* do *niệm hơi thở* này.
 
-Now, a mendicant might wish: 'Going totally beyond the dimension of
-nothingness, may I enter and remain in the dimension of neither
-perception nor non-perception.' So let them closely focus on this
-immersion due to mindfulness of breathing.
+Bây giờ, một *Tỷ kheo* có thể mong muốn: ‘Vượt hoàn toàn qua *vô sở hữu xứ*, tôi có thể nhập và an trú trong *phi tưởng phi phi tưởng xứ* (dimension of neither perception nor non-perception / nevasaññānāsaññāyatana / tầng thiền vô sắc thứ tư).’ Vậy hãy để vị ấy tập trung chặt chẽ vào *Định* do *niệm hơi thở* này.
 
-Now, a mendicant might wish: 'Going totally beyond the dimension of
-neither perception nor non-perception, may I enter and remain in the
-cessation of perception and feeling.' So let them closely focus on this
-immersion due to mindfulness of breathing.
+Bây giờ, một *Tỷ kheo* có thể mong muốn: ‘Vượt hoàn toàn qua *phi tưởng phi phi tưởng xứ*, tôi có thể nhập và an trú trong *diệt thọ tưởng định* (cessation of perception and feeling / saññāvedayitanirodha / trạng thái thiền định nơi nhận thức và cảm giác tạm thời chấm dứt).’ Vậy hãy để vị ấy tập trung chặt chẽ vào *Định* do *niệm hơi thở* này.
 
-When immersion due to mindfulness of breathing has been developed and
-cultivated in this way, if they feel a pleasant feeling, they understand
-that it's impermanent, that they're not attached to it, and that they
-don't take pleasure in it. If they feel a painful feeling, they
-understand that it's impermanent, that they're not attached to it, and
-that they don't take pleasure in it. If they feel a neutral feeling,
-they understand that it's impermanent, that they're not attached to it,
-and that they don't take pleasure in it.
+Khi *Định* do *niệm hơi thở* đã được phát triển và tu tập theo cách này, nếu họ cảm thấy một *cảm giác* (feeling / vedanā / thọ) dễ chịu, họ hiểu rằng nó là *vô thường*, rằng họ không dính mắc vào nó, và rằng họ không vui thích trong đó. Nếu họ cảm thấy một *cảm giác* khó chịu, họ hiểu rằng nó là *vô thường*, rằng họ không dính mắc vào nó, và rằng họ không vui thích trong đó. Nếu họ cảm thấy một *cảm giác* trung tính, họ hiểu rằng nó là *vô thường*, rằng họ không dính mắc vào nó, và rằng họ không vui thích trong đó.
 
-If they feel a pleasant feeling, they feel it detached. If they feel a
-painful feeling, they feel it detached. If they feel a neutral feeling,
-they feel it detached. Feeling the end of the body approaching, they
-understand: 'I feel the end of the body approaching.' Feeling the end of
-life approaching, they understand: 'I feel the end of life approaching.'
-They understand: 'When my body breaks up and my life has come to an end,
-everything that's felt, since I no longer take pleasure in it, will
-become cool right here.'
+Nếu họ cảm thấy một *cảm giác* dễ chịu, họ cảm nhận nó một cách không dính mắc. Nếu họ cảm thấy một *cảm giác* khó chịu, họ cảm nhận nó một cách không dính mắc. Nếu họ cảm thấy một *cảm giác* trung tính, họ cảm nhận nó một cách không dính mắc. Cảm nhận sự kết thúc của thân đang đến gần, họ hiểu: ‘Tôi cảm nhận sự kết thúc của thân đang đến gần.’ Cảm nhận sự kết thúc của sự sống đang đến gần, họ hiểu: ‘Tôi cảm nhận sự kết thúc của sự sống đang đến gần.’ Họ hiểu: ‘Khi thân tôi tan rã và sự sống của tôi kết thúc, mọi thứ được cảm nhận, vì tôi không còn vui thích trong đó nữa, sẽ trở nên nguội lạnh ngay tại đây.’
 
-Suppose an oil lamp depended on oil and a wick to burn. As the oil and
-the wick are used up, it would be extinguished due to not being fed. In
-the same way, feeling the end of the body approaching, they understand:
-'I feel the end of the body approaching.' Feeling the end of life
-approaching, they understand: 'I feel the end of life approaching.' They
-understand: 'When my body breaks up and my life has come to an end,
-everything that's felt, since I no longer take pleasure in it, will
-become cool right here.'"
+Giả sử một ngọn đèn dầu cần có dầu và bấc để cháy. Khi dầu và bấc cạn kiệt, nó sẽ tắt vì không còn nhiên liệu. Tương tự như vậy, cảm nhận sự kết thúc của thân đang đến gần, họ hiểu: ‘Tôi cảm nhận sự kết thúc của thân đang đến gần.’ Cảm nhận sự kết thúc của sự sống đang đến gần, họ hiểu: ‘Tôi cảm nhận sự kết thúc của sự sống đang đến gần.’ Họ hiểu: ‘Khi thân tôi tan rã và sự sống của tôi kết thúc, mọi thứ được cảm nhận, vì tôi không còn vui thích trong đó nữa, sẽ trở nên nguội lạnh ngay tại đây.’”
 
 <!--pg-->
-### N 54.9 At Vesālī *Vesālīsutta*
+### N 54.9 Tại Vesālī *Kinh Vesālī*
 
-So I have heard. At one time the Buddha was staying near
-Vesālī, at the Great Wood, in the hall with the peaked
-roof. Now at that time the Buddha spoke in many ways to the mendicants
-about the meditation on ugliness. He praised the meditation on ugliness
-and its development.
+Tôi nghe như vầy. Một thời, Đức Phật đang ở gần Vesālī, tại Đại Lâm, trong ngôi giảng đường có mái nhọn. Lúc bấy giờ, Đức Phật đã nói với các *Tỷ kheo* bằng nhiều cách về pháp *quán bất tịnh* (meditation on ugliness / asubha-bhāvanā / pháp an trú quán sát sự không trong sạch, đáng ghê tởm của cơ thể để đối trị tham ái). Ngài tán thán pháp *quán bất tịnh* và sự phát triển của nó.
 
-Then the Buddha said to the mendicants, "Mendicants, I wish to go on
-retreat for a fortnight. No-one should approach me, except for the one
-who brings my almsfood."
+Sau đó, Đức Phật nói với các *Tỷ kheo*, “Này các *Tỷ kheo*, ta muốn nhập thất trong nửa tháng. Không ai được đến gần ta, ngoại trừ người mang thức ăn khất thực.”
 
-"Yes, sir," replied those mendicants. And no-one approached him, except
-for the one who brought the almsfood.
+“Vâng, thưa ngài,” các *Tỷ kheo* đó đáp. Và không ai đến gần ngài, ngoại trừ người mang thức ăn khất thực.
 
-Then those mendicants thought, "The Buddha spoke in many ways about the
-meditation on ugliness. He praised the meditation on ugliness and its
-development." They committed themselves to developing the many different
-facets of the meditation on ugliness. Becoming horrified, repelled, and
-disgusted with this body, they looked for something to take their life.
-Each day ten, twenty, or thirty mendicants took their lives.
+Sau đó, các *Tỷ kheo* đó nghĩ, “Đức Phật đã nói bằng nhiều cách về pháp *quán bất tịnh*. Ngài tán thán pháp *quán bất tịnh* và sự phát triển của nó.” Họ tự mình phát triển nhiều khía cạnh khác nhau của pháp *quán bất tịnh*. Trở nên kinh hãi, ghê tởm và chán ghét với thân này, họ tìm cách tự kết liễu đời mình. Mỗi ngày có mười, hai mươi, hoặc ba mươi *Tỷ kheo* tự kết liễu đời mình.
 
-Then after a fortnight had passed, the Buddha came out of retreat and
-addressed Ānanda, "Ānanda, why does the mendicant Saṅgha
-seem so diminished?"
+Sau nửa tháng trôi qua, Đức Phật ra khỏi thất và nói với Ānanda, “Này Ānanda, tại sao Tăng đoàn *Tỷ kheo* dường như giảm sút nhiều vậy?”
 
-Ānanda told the Buddha all that had happened, and said, "Sir, please
-explain another way for the mendicant Saṅgha to get
-enlightened."
+Ānanda kể lại cho Đức Phật tất cả những gì đã xảy ra, và nói, “Thưa ngài, xin ngài hãy giải thích một phương pháp khác để Tăng đoàn *Tỷ kheo* được *giác ngộ*.”
 
-"Well then, Ānanda, gather all the mendicants staying in the vicinity of
-Vesālī together in the assembly hall."
+“Vậy thì, Ānanda, hãy tập hợp tất cả các *Tỷ kheo* đang ở vùng lân cận Vesālī lại trong giảng đường.”
 
-"Yes, sir," replied Ānanda. He did what the Buddha asked, went up to
-him, and said, "Sir, the mendicant Saṅgha has assembled.
-Please, sir, come at your convenience."
+“Vâng, thưa ngài,” Ānanda đáp. Ông làm theo lời Đức Phật yêu cầu, đến gặp ngài và nói, “Thưa ngài, Tăng đoàn *Tỷ kheo* đã tập hợp. Xin ngài, hãy đến khi nào tiện.”
 
-Then the Buddha went to the assembly hall, sat down on the seat spread
-out, and addressed the mendicants:
+Sau đó, Đức Phật đến giảng đường, ngồi xuống chỗ đã được trải sẵn, và nói với các *Tỷ kheo*:
 
-"Mendicants, when this immersion due to mindfulness of breathing is
-developed and cultivated it's peaceful and sublime, a deliciously
-pleasant meditation. And it disperses and settles unskillful qualities
-on the spot whenever they arise.
+“Này các *Tỷ kheo*, khi *Định* do *niệm hơi thở* này được phát triển và tu tập, nó thật an bình và cao thượng, một pháp an trú định dễ chịu tuyệt vời. Và nó làm tan biến và lắng dịu các *bất thiện pháp* ngay tại chỗ mỗi khi chúng khởi lên.
 
-In the last month of summer, when the dust and dirt is stirred up, a
-large sudden storm disperses and settles it on the spot.
+Vào tháng cuối cùng của mùa hè, khi bụi bẩn bị khuấy động, một cơn bão lớn bất ngờ làm tan biến và lắng dịu nó ngay tại chỗ.
 
-In the same way, when this immersion due to mindfulness of breathing is
-developed and cultivated it's peaceful and sublime, a deliciously
-pleasant meditation. And it disperses and settles unskillful qualities
-on the spot whenever they arise. And how is it so developed and
-cultivated?
+Tương tự như vậy, khi *Định* do *niệm hơi thở* này được phát triển và tu tập, nó thật an bình và cao thượng, một pháp an trú định dễ chịu tuyệt vời. Và nó làm tan biến và lắng dịu các *bất thiện pháp* ngay tại chỗ mỗi khi chúng khởi lên. Và nó được phát triển và tu tập như thế nào?
 
-It's when a mendicant---gone to a wilderness, or to the root of a tree,
-or to an empty hut---sits down cross-legged, sets their body straight,
-and establishes mindfulness in their presence.
+Đó là khi một *Tỷ kheo*—đi vào rừng, hay đến gốc cây, hay một ngôi nhà trống—ngồi xuống, vắt chéo chân, giữ thân thẳng, và thiết lập *niệm* trước mặt.
 
-Just mindful, they breathe in. Mindful, they breathe out. ...
+Chỉ *niệm*, vị ấy thở vào. *Niệm*, vị ấy thở ra. ...
 
-They practice like this: 'I'll breathe in observing letting go.' They
-practice like this: 'I'll breathe out observing letting go.'
+Vị ấy thực hành như sau: ‘Tôi sẽ thở vào, quan sát sự *buông bỏ*.’ Vị ấy thực hành như sau: ‘Tôi sẽ thở ra, quan sát sự *buông bỏ*.’
 
-That's how this immersion due to mindfulness of breathing is developed
-and cultivated so that it's peaceful and sublime, a deliciously pleasant
-meditation. And it disperses and settles unskillful qualities on the
-spot whenever they arise."
+Đó là cách *Định* do *niệm hơi thở* này được phát triển và tu tập để nó trở nên an bình và cao thượng, một pháp an trú định dễ chịu tuyệt vời. Và nó làm tan biến và lắng dịu các *bất thiện pháp* ngay tại chỗ mỗi khi chúng khởi lên.”
 
 <!--pg-->
-### N 54.10 With Kimbila *Kimilasutta*
+### N 54.10 Cùng Kimbila *Kinh Kimila*
 
-So I have heard. At one time the Buddha was staying near
-Kimbilā in the Freshwater Mangrove Wood. Then the Buddha
-said to Venerable Kimbila, "Kimbila, how is immersion due to mindfulness
-of breathing developed and cultivated so that it is very fruitful and
-beneficial?"
+Tôi nghe như vầy. Một thời, Đức Phật đang ở gần Kimbilā trong Rừng Bần Nước Ngọt. Sau đó, Đức Phật nói với Tôn giả Kimbila, “Này Kimbila, *Định* do *niệm hơi thở* được phát triển và tu tập như thế nào để nó mang lại quả lớn và lợi ích lớn?”
 
-When he said this, Kimbila kept silent.
+Khi ngài nói vậy, Kimbila giữ im lặng.
 
-For a second time ...
+Lần thứ hai...
 
-And for a third time, the Buddha said to him, "How is immersion due to
-mindfulness of breathing developed and cultivated so that it is very
-fruitful and beneficial?" And a second time and a third time Kimbila
-kept silent.
+Và lần thứ ba, Đức Phật nói với ông, “*Định* do *niệm hơi thở* được phát triển và tu tập như thế nào để nó mang lại quả lớn và lợi ích lớn?” Và lần thứ hai và lần thứ ba Kimbila giữ im lặng.
 
-When he said this, Venerable Ānanda said to the Buddha, "Now is the
-time, Blessed One! Now is the time, Holy One! Let the Buddha speak on
-immersion due to mindfulness of breathing. The mendicants will listen
-and remember it."
+Khi ngài nói vậy, Tôn giả Ānanda thưa với Đức Phật, “Bây giờ là lúc, bạch Thế Tôn! Bây giờ là lúc, bạch Thánh Giả! Xin Đức Phật hãy nói về *Định* do *niệm hơi thở*. Các *Tỷ kheo* sẽ lắng nghe và ghi nhớ.”
 
-"Well then, Ānanda, listen and apply your mind well, I will speak."
+“Vậy thì, Ānanda, hãy lắng nghe và chú tâm kỹ, ta sẽ nói.”
 
-"Yes, sir," Ānanda replied. The Buddha said this:
+“Vâng, thưa ngài,” Ānanda đáp. Đức Phật nói điều này:
 
-"Ānanda, how is immersion due to mindfulness of breathing developed and
-cultivated so that it is very fruitful and beneficial? It's when a
-mendicant---gone to a wilderness, or to the root of a tree, or to an
-empty hut---sits down cross-legged, sets their body straight, and
-establishes mindfulness in their presence.
+“Này Ānanda, *Định* do *niệm hơi thở* được phát triển và tu tập như thế nào để nó mang lại quả lớn và lợi ích lớn? Đó là khi một *Tỷ kheo*—đi vào rừng, hay đến gốc cây, hay một ngôi nhà trống—ngồi xuống, vắt chéo chân, giữ thân thẳng, và thiết lập *niệm* trước mặt.
 
-Just mindful, they breathe in. Mindful, they breathe out. ...
+Chỉ *niệm*, vị ấy thở vào. *Niệm*, vị ấy thở ra. ...
 
-They practice like this: 'I'll breathe in observing letting go.' They
-practice like this: 'I'll breathe out observing letting go.' That's how
-immersion due to mindfulness of breathing, when developed and
-cultivated, is very fruitful and beneficial.
+Vị ấy thực hành như sau: ‘Tôi sẽ thở vào, quan sát sự *buông bỏ*.’ Vị ấy thực hành như sau: ‘Tôi sẽ thở ra, quan sát sự *buông bỏ*.’ Đó là cách *Định* do *niệm hơi thở*, khi được phát triển và tu tập, mang lại quả lớn và lợi ích lớn.
 
-There's a time when a mendicant is breathing in heavily, and they know:
-'I'm breathing in heavily.' Breathing out heavily they know: 'I'm
-breathing out heavily.' When breathing in lightly they know: 'I'm
-breathing in lightly.' Breathing out lightly they know: 'I'm breathing
-out lightly.' They practice like this: 'I'll breathe in experiencing the
-whole body.' They practice like this: 'I'll breathe out experiencing the
-whole body.' They practice like this: 'I'll breathe in stilling physical
-processes.' They practice like this: 'I'll breathe out stilling physical
-processes.' At such a time a mendicant is meditating by observing an
-aspect of the body---keen, aware, and mindful, rid of covetousness and
-displeasure for the world. Why is that? Because the breath is a certain
-aspect of the body, I say. Therefore, at such a time a mendicant is
-meditating by observing an aspect of the body---keen, aware, and
-mindful, rid of covetousness and displeasure for the world.
+Có lúc một *Tỷ kheo* thở vào dài, và vị ấy biết: ‘Tôi đang thở vào dài.’ Thở ra dài, vị ấy biết: ‘Tôi đang thở ra dài.’ Khi thở vào ngắn, vị ấy biết: ‘Tôi đang thở vào ngắn.’ Thở ra ngắn, vị ấy biết: ‘Tôi đang thở ra ngắn.’ Vị ấy thực hành như sau: ‘Tôi sẽ thở vào, cảm nhận toàn thân.’ Vị ấy thực hành như sau: ‘Tôi sẽ thở ra, cảm nhận toàn thân.’ Vị ấy thực hành như sau: ‘Tôi sẽ thở vào, làm lắng dịu *các hoạt động của thân*.’ Vị ấy thực hành như sau: ‘Tôi sẽ thở ra, làm lắng dịu *các hoạt động của thân*.’ Vào lúc như vậy, một *Tỷ kheo* đang *an trú quan sát thân trên thân*—nhiệt tâm, tỉnh giác, và *niệm*, đã loại bỏ *tham ái và ưu phiền* (covetousness and displeasure / abhijjhā-domanassa / sự thèm muốn và buồn khổ) đối với thế gian. Tại sao vậy? Bởi vì hơi thở là một khía cạnh nhất định của thân, ta nói vậy. Do đó, vào lúc như vậy, một *Tỷ kheo* đang *an trú quan sát thân trên thân*—nhiệt tâm, tỉnh giác, và *niệm*, đã loại bỏ *tham ái và ưu phiền* đối với thế gian.
 
-There's a time when a mendicant practices like this: 'I'll breathe in
-experiencing rapture.' They practice like this: 'I'll breathe out
-experiencing rapture.' They practice like this: 'I'll breathe in
-experiencing bliss.' They practice like this: 'I'll breathe out
-experiencing bliss.' They practice like this: 'I'll breathe in
-experiencing the mental processes.' They practice like this: 'I'll
-breathe out experiencing the mental processes.' They practice like this:
-'I'll breathe in stilling mental processes.' They practice like this:
-'I'll breathe out stilling mental processes.' At such a time a mendicant
-is meditating by observing an aspect of feelings---keen, aware, and
-mindful, rid of covetousness and displeasure for the world. Why is that?
-Because careful application of mind to the in-breaths and out-breaths is
-a certain aspect of feelings, I say. Therefore, at such a time a
-mendicant is meditating by observing an aspect of feelings---keen,
-aware, and mindful, rid of covetousness and displeasure for the world.
+Có lúc một *Tỷ kheo* thực hành như sau: ‘Tôi sẽ thở vào, cảm nhận sự *phấn khởi*.’ Vị ấy thực hành như sau: ‘Tôi sẽ thở ra, cảm nhận sự *phấn khởi*.’ Vị ấy thực hành như sau: ‘Tôi sẽ thở vào, cảm nhận sự *bình an*.’ Vị ấy thực hành như sau: ‘Tôi sẽ thở ra, cảm nhận sự *bình an*.’ Vị ấy thực hành như sau: ‘Tôi sẽ thở vào, cảm nhận *các hoạt động của tâm*.’ Vị ấy thực hành như sau: ‘Tôi sẽ thở ra, cảm nhận *các hoạt động của tâm*.’ Vị ấy thực hành như sau: ‘Tôi sẽ thở vào, làm lắng dịu *các hoạt động của tâm*.’ Vị ấy thực hành như sau: ‘Tôi sẽ thở ra, làm lắng dịu *các hoạt động của tâm*.’ Vào lúc như vậy, một *Tỷ kheo* đang *an trú quan sát cảm giác trên các cảm giác*—nhiệt tâm, tỉnh giác, và *niệm*, đã loại bỏ *tham ái và ưu phiền* đối với thế gian. Tại sao vậy? Bởi vì sự chú tâm cẩn thận vào hơi thở vào và hơi thở ra là một khía cạnh nhất định của các *cảm giác*, ta nói vậy. Do đó, vào lúc như vậy, một *Tỷ kheo* đang *an trú quan sát cảm giác trên các cảm giác*—nhiệt tâm, tỉnh giác, và *niệm*, đã loại bỏ *tham ái và ưu phiền* đối với thế gian.
 
-There's a time when a mendicant practices like this: 'I'll breathe in
-experiencing the mind.' They practice like this: 'I'll breathe out
-experiencing the mind.' They practice like this: 'I'll breathe in
-gladdening the mind.' They practice like this: 'I'll breathe out
-gladdening the mind.' They practice like this: 'I'll breathe in
-immersing the mind in samādhi.' They practice like this:
-'I'll breathe out immersing the mind in samādhi.' They
-practice like this: 'I'll breathe in freeing the mind.' They practice
-like this: 'I'll breathe out freeing the mind.' At such a time a
-mendicant is meditating by observing an aspect of the mind---keen,
-aware, and mindful, rid of covetousness and displeasure for the world.
-Why is that? Because there is no development of immersion due to
-mindfulness of breathing for someone who is unmindful and lacks
-awareness, I say. Therefore, at such a time a mendicant is meditating by
-observing an aspect of the mind---keen, aware, and mindful, rid of
-covetousness and displeasure for the world.
+Có lúc một *Tỷ kheo* thực hành như sau: ‘Tôi sẽ thở vào, cảm nhận *tâm*.’ Vị ấy thực hành như sau: ‘Tôi sẽ thở ra, cảm nhận *tâm*.’ Vị ấy thực hành như sau: ‘Tôi sẽ thở vào, làm cho *tâm* hân hoan.’ Vị ấy thực hành như sau: ‘Tôi sẽ thở ra, làm cho *tâm* hân hoan.’ Vị ấy thực hành như sau: ‘Tôi sẽ thở vào, làm cho *tâm* *đắm chìm trong định*.’ Vị ấy thực hành như sau: ‘Tôi sẽ thở ra, làm cho *tâm* *đắm chìm trong định*.’ Vị ấy thực hành như sau: ‘Tôi sẽ thở vào, giải thoát *tâm*.’ Vị ấy thực hành như sau: ‘Tôi sẽ thở ra, giải thoát *tâm*.’ Vào lúc như vậy, một *Tỷ kheo* đang *an trú quan sát tâm trên tâm*—nhiệt tâm, tỉnh giác, và *niệm*, đã loại bỏ *tham ái và ưu phiền* đối với thế gian. Tại sao vậy? Bởi vì không có sự phát triển *Định* do *niệm hơi thở* cho người thiếu *niệm* và thiếu tỉnh giác, ta nói vậy. Do đó, vào lúc như vậy, một *Tỷ kheo* đang *an trú quan sát tâm trên tâm*—nhiệt tâm, tỉnh giác, và *niệm*, đã loại bỏ *tham ái và ưu phiền* đối với thế gian.
 
-There's a time when a mendicant practices like this: 'I'll breathe in
-observing impermanence.' They practice like this: 'I'll breathe out
-observing impermanence.' They practice like this: 'I'll breathe in
-observing fading away.' They practice like this: 'I'll breathe out
-observing fading away.' They practice like this: 'I'll breathe in
-observing cessation.' They practice like this: 'I'll breathe out
-observing cessation.' They practice like this: 'I'll breathe in
-observing letting go.' They practice like this: 'I'll breathe out
-observing letting go.' At such a time a mendicant is meditating by
-observing an aspect of principles---keen, aware, and mindful, rid of
-covetousness and displeasure for the world. Having seen with wisdom the
-giving up of covetousness and displeasure, they watch closely over with
-equanimity. Therefore, at such a time a mendicant is meditating by
-observing an aspect of principles---keen, aware, and mindful, rid of
-covetousness and displeasure for the world.
+Có lúc một *Tỷ kheo* thực hành như sau: ‘Tôi sẽ thở vào, quan sát sự *vô thường*.’ Vị ấy thực hành như sau: ‘Tôi sẽ thở ra, quan sát sự *vô thường*.’ Vị ấy thực hành như sau: ‘Tôi sẽ thở vào, quan sát sự *ly tham*.’ Vị ấy thực hành như sau: ‘Tôi sẽ thở ra, quan sát sự *ly tham*.’ Vị ấy thực hành như sau: ‘Tôi sẽ thở vào, quan sát sự *diệt*.’ Vị ấy thực hành như sau: ‘Tôi sẽ thở ra, quan sát sự *diệt*.’ Vị ấy thực hành như sau: ‘Tôi sẽ thở vào, quan sát sự *buông bỏ*.’ Vị ấy thực hành như sau: ‘Tôi sẽ thở ra, quan sát sự *buông bỏ*.’ Vào lúc như vậy, một *Tỷ kheo* đang *an trú quan sát pháp trên các pháp*—nhiệt tâm, tỉnh giác, và *niệm*, đã loại bỏ *tham ái và ưu phiền* đối với thế gian. Sau khi thấy bằng trí tuệ sự từ bỏ *tham ái và ưu phiền*, vị ấy quan sát chặt chẽ với tâm *Xả*. Do đó, vào lúc như vậy, một *Tỷ kheo* đang *an trú quan sát pháp trên các pháp*—nhiệt tâm, tỉnh giác, và *niệm*, đã loại bỏ *tham ái và ưu phiền* đối với thế gian.
 
-Suppose there was a large heap of sand at the crossroads. And a cart or
-chariot were to come by from the east, west, north, or south and destroy
-that heap of sand.
+Giả sử có một đống cát lớn ở ngã tư. Và một chiếc xe bò hay xe ngựa đi qua từ phía đông, tây, bắc, hoặc nam và phá hủy đống cát đó.
 
-In the same way, when a mendicant is meditating by observing an aspect
-of the body, feelings, mind, or principles, they destroy bad, unskillful
-qualities."
+Tương tự như vậy, khi một *Tỷ kheo* *an trú quan sát thân, cảm giác, tâm, hoặc các pháp*, vị ấy phá hủy các *bất thiện pháp*.”
 
 <!--pg-->
-## Chapter Two
+## Chương Hai
 
-### N 54.11 Icchānaṅgala *Icchānaṅgalasutta*
+### N 54.11 Tại Icchānaṅgala *Kinh Icchānaṅgala*
 
-At one time the Buddha was staying in a forest near
-Icchānaṅgala. There he addressed the mendicants,
-"Mendicants, I wish to go on retreat for three months. No-one should
-approach me, except for the one who brings my almsfood."
+Một thời, Đức Phật đang ở trong một khu rừng gần Icchānaṅgala. Tại đó, ngài nói với các *Tỷ kheo*, “Này các *Tỷ kheo*, ta muốn nhập thất trong ba tháng. Không ai được đến gần ta, ngoại trừ người mang thức ăn khất thực.”
 
-"Yes, sir," replied those mendicants. And no-one approached him, except
-for the one who brought the almsfood.
+“Vâng, thưa ngài,” các *Tỷ kheo* đó đáp. Và không ai đến gần ngài, ngoại trừ người mang thức ăn khất thực.
 
-Then after three months had passed, the Buddha came out of retreat and
-addressed the mendicants:
+Sau ba tháng trôi qua, Đức Phật ra khỏi thất và nói với các *Tỷ kheo*:
 
-"Mendicants, if wanderers who follow another religion were to ask you:
-'Reverends, what was the ascetic Gotama's usual meditation during the
-rainy season residence?' You should answer them like this. 'Reverends,
-the ascetic Gotama's usual meditation during the rainy season residence
-was immersion due to mindfulness of breathing.'
+“Này các *Tỷ kheo*, nếu các du sĩ ngoại đạo hỏi các ông: ‘Thưa các Tôn giả, pháp an trú định thường ngày của sa môn Gotama trong mùa an cư kiết hạ là gì?’ Các ông nên trả lời họ như thế này. ‘Thưa các Tôn giả, pháp an trú định thường ngày của sa môn Gotama trong mùa an cư kiết hạ là *Định* do *niệm hơi thở*.’
 
-In this regard: mindful, I breathe in. Mindful, I breathe out.
+Về vấn đề này: *niệm*, ta thở vào. *Niệm*, ta thở ra.
 
-Breathing in heavily I know: 'I'm breathing in heavily.' Breathing out
-heavily I know: 'I'm breathing out heavily.' When breathing in lightly I
-know: 'I'm breathing in lightly.' Breathing out lightly I know: 'I'm
-breathing out lightly.' I know: 'I'll breathe in experiencing the whole
-body.' ...
+Thở vào dài, ta biết: ‘Ta đang thở vào dài.’ Thở ra dài, ta biết: ‘Ta đang thở ra dài.’ Khi thở vào ngắn, ta biết: ‘Ta đang thở vào ngắn.’ Thở ra ngắn, ta biết: ‘Ta đang thở ra ngắn.’ Ta biết: ‘Ta sẽ thở vào, cảm nhận toàn thân.’ ...
 
-I know: 'I'll breathe in observing letting go.' I know: 'I'll breathe
-out observing letting go.'
+Ta biết: ‘Ta sẽ thở vào, quan sát sự *buông bỏ*.’ Ta biết: ‘Ta sẽ thở ra, quan sát sự *buông bỏ*.’
 
-For if anything should be rightly called 'a noble meditation', or else
-'a divine meditation', or else 'a realized one's meditation', it's
-immersion due to mindfulness of breathing.
+Vì nếu có bất cứ điều gì đáng được gọi là ‘pháp an trú cao quý’, hay ‘pháp an trú thiêng liêng’, hay ‘pháp an trú của *bậc chứng ngộ* (realized one / asekha / *vô học* / người đã hoàn tất con đường tu tập, tức là một vị A-la-hán)’, thì đó chính là *Định* do *niệm hơi thở*.
 
-For those mendicants who are trainees---who haven't achieved their
-heart's desire, but live aspiring to the supreme sanctuary from the
-yoke---the development and cultivation of immersion due to mindfulness
-of breathing leads to the ending of defilements.
+Đối với những *Tỷ kheo* là *hữu học* (trainees / sekha / những vị còn đang trên đường tu học, chưa phải là A-la-hán)—những người chưa đạt được mục đích của lòng mình, nhưng sống với khát vọng hướng tới *nơi an ổn tối thượng khỏi các khổ ách* (supreme sanctuary from the yoke / anuttaraṃ yogakkhemaṃ)—việc phát triển và tu tập *Định* do *niệm hơi thở* sẽ dẫn đến sự chấm dứt các *ô nhiễm*.
 
-For those mendicants who are perfected---who have ended the defilements,
-completed the spiritual journey, done what had to be done, laid down the
-burden, achieved their own goal, utterly ended the fetter of continued
-existence, and are rightly freed through enlightenment---the development
-and cultivation of immersion due to mindfulness of breathing leads to
-blissful meditation in this life, and to mindfulness and awareness.
+Đối với những *Tỷ kheo* là bậc *A-la-hán* (perfected / arahant / bậc đã hoàn thiện, đã chấm dứt các ô nhiễm)—những người đã chấm dứt các *ô nhiễm*, hoàn thành hành trình tâm linh, làm những gì cần làm, đặt gánh nặng xuống, đạt được mục đích của riêng mình, chấm dứt hoàn toàn *xiềng xích của sự tồn tại* (fetter of continued existence / bhava-saṃyojana / sự ràng buộc vào vòng luân hồi sinh tử), và được giải thoát chân chính nhờ *giác ngộ*—việc phát triển và tu tập *Định* do *niệm hơi thở* dẫn đến sự thiền định an lạc trong đời này, và đến *niệm* và tỉnh giác.
 
-For if anything should be rightly called 'a noble meditation', or else
-'a divine meditation', or else 'a realized one's meditation', it's
-immersion due to mindfulness of breathing."
+Vì nếu có bất cứ điều gì đáng được gọi là ‘pháp an trú cao quý’, hay ‘pháp an trú thiêng liêng’, hay ‘pháp an trú của *bậc chứng ngộ*’, thì đó chính là *Định* do *niệm hơi thở*.”
 
 <!--pg-->
-### N 54.12 In Doubt *Kaṅkheyyasutta*
+### N 54.12 Nghi Ngờ *Kinh Kaṅkheyya*
 
-At one time Venerable Lomasakaṅgiya was staying in the land
-of the Sakyans, near Kapilavatthu in the Banyan Tree Monastery. Then
-Mahānāma the Sakyan went up to Venerable
-Lomasakaṅgiya, bowed, sat down to one side, and said to
-him, "Sir, is the meditation of a trainee just the same as the
-meditation of a realized one? Or is the meditation of a trainee
-different from the meditation of a realized one?"
+Một thời, Tôn giả Lomasakaṅgiya đang ở tại xứ của những người Sakya, gần Kapilavatthu trong Tu viện Cây Banyan. Sau đó, Mahānāma người Sakya đến gặp Tôn giả Lomasakaṅgiya, đảnh lễ, ngồi xuống một bên, và nói với ông: “Thưa ngài, pháp an trú của một *hữu học* có giống với pháp an trú của một *bậc chứng ngộ* không? Hay pháp an trú của một *hữu học* khác với pháp an trú của một *bậc chứng ngộ*?”
 
-"Reverend Mahānāma, the meditation of a trainee and a
-realized one are not the same; they are different. Those mendicants who
-are trainees haven't achieved their heart's desire, but live aspiring
-for the supreme sanctuary from the yoke. They meditate after giving up
-the five hindrances. What five? The hindrances of sensual desire, ill
-will, dullness and drowsiness, restlessness and remorse, and doubt.
+“Thưa Tôn giả Mahānāma, pháp an trú của một *hữu học* và một *bậc chứng ngộ* không giống nhau; chúng khác nhau. Những *Tỷ kheo* là *hữu học* chưa đạt được mục đích của lòng mình, nhưng sống với khát vọng hướng tới *nơi an ổn tối thượng khỏi các khổ ách*. Họ *an trú* sau khi từ bỏ năm *Phiền nhiễu* (hindrances / nīvaraṇa / triền cái / chướng ngại, là trạng thái bất an, bồn chồn gây khó tập trung trong hiện tại). Năm pháp đó là gì? *Phiền nhiễu* của *theo đuổi thú vui*, *thù hận*, *uể oải và buồn ngủ*, *bồn chồn và hối hận*, và *hoài nghi* (doubt / vicikicchā / sự nghi ngờ, không chắc chắn về Tam Bảo và con đường tu tập).
 
-Those who are trainee mendicants ... meditate after giving up the five
-hindrances.
+Những người là *Tỷ kheo* *hữu học*... *an trú* sau khi từ bỏ năm *Phiền nhiễu*.
 
-Those mendicants who are perfected---who have ended the defilements,
-completed the spiritual journey, done what had to be done, laid down the
-burden, achieved their own goal, utterly ended the fetter of continued
-existence, and are rightly freed through enlightenment---for them, the
-five hindrances are cut off at the root, made like a palm stump,
-obliterated, and unable to arise in the future. What five? The
-hindrances of sensual desire, ill will, dullness and drowsiness,
-restlessness and remorse, and doubt.
+Những *Tỷ kheo* là bậc *A-la-hán*—những người đã chấm dứt các *ô nhiễm*, hoàn thành hành trình tâm linh, làm những gì cần làm, đặt gánh nặng xuống, đạt được mục đích của riêng mình, chấm dứt hoàn toàn *xiềng xích của sự tồn tại*, và được giải thoát chân chính nhờ *giác ngộ*—đối với họ, năm *Phiền nhiễu* đã được cắt đứt tận gốc, làm cho như một gốc cây cọ, bị xóa sổ, và không thể khởi lên trong tương lai. Năm pháp đó là gì? *Phiền nhiễu* của *theo đuổi thú vui*, *thù hận*, *uể oải và buồn ngủ*, *bồn chồn và hối hận*, và *hoài nghi*.
 
-Those mendicants who are perfected---who have ended the defilements ...
-for them, the five hindrances are cut off at the root ... and unable to
-arise in the future. And here's another way to understand how the
-meditation of a trainee and a realized one are different.
+Những *Tỷ kheo* là bậc *A-la-hán*—những người đã chấm dứt các *ô nhiễm*... đối với họ, năm *Phiền nhiễu* đã được cắt đứt tận gốc... và không thể khởi lên trong tương lai. Và đây là một cách khác để hiểu tại sao pháp an trú của một *hữu học* và một *bậc chứng ngộ* lại khác nhau.
 
-At one time the Buddha was staying in a forest near
-Icchānaṅgala. There he addressed the mendicants,
-'Mendicants, I wish to go on retreat for three months. No-one should
-approach me, except for the one who brings my almsfood.'
+Một thời, Đức Phật đang ở trong một khu rừng gần Icchānaṅgala. Tại đó, ngài nói với các *Tỷ kheo*, ‘Này các *Tỷ kheo*, ta muốn nhập thất trong ba tháng. Không ai được đến gần ta, ngoại trừ người mang thức ăn khất thực.’
 
-'Yes, sir,' replied those mendicants. And no-one approached him, except
-for the one who brought the almsfood.
+‘Vâng, thưa ngài,’ các *Tỷ kheo* đó đáp. Và không ai đến gần ngài, ngoại trừ người mang thức ăn khất thực.
 
-Then after three months had passed, the Buddha came out of retreat and
-addressed the mendicants:
+Sau ba tháng trôi qua, Đức Phật ra khỏi thất và nói với các *Tỷ kheo*:
 
-'Mendicants, if wanderers who follow another religion were to ask you:
-"Reverends, what was the ascetic Gotama's usual meditation during the
-rainy season residence?" You should answer them like this: "Reverends,
-the ascetic Gotama's usual meditation during the rainy season residence
-was immersion due to mindfulness of breathing."
+‘Này các *Tỷ kheo*, nếu các du sĩ ngoại đạo hỏi các ông: “Thưa các Tôn giả, pháp an trú thường ngày của sa môn Gotama trong mùa an cư kiết hạ là gì?” Các ông nên trả lời họ như thế này: “Thưa các Tôn giả, pháp an trú thường ngày của sa môn Gotama trong mùa an cư kiết hạ là *Định* do *niệm hơi thở*.”
 
-In this regard: mindful, I breathe in. Mindful, I breathe out.
+Về vấn đề này: *niệm*, ta thở vào. *Niệm*, ta thở ra.
 
-Breathing in heavily I know: "I'm breathing in heavily." Breathing out
-heavily I know: "I'm breathing out heavily." ...
+Thở vào dài, ta biết: “Ta đang thở vào dài.” Thở ra dài, ta biết: “Ta đang thở ra dài.” ...
 
-I know: "I'll breathe in observing letting go." I know: "I'll breathe
-out observing letting go."
+Ta biết: “Ta sẽ thở vào, quan sát sự *buông bỏ*.” Ta biết: “Ta sẽ thở ra, quan sát sự *buông bỏ*.”
 
-For if anything should be rightly called "noble meditation", or else
-"divine meditation', or else "a realized one's meditation", it's
-immersion due to mindfulness of breathing.
+Vì nếu có bất cứ điều gì đáng được gọi là “pháp an trú cao quý”, hay “pháp an trú thiêng liêng”, hay “pháp an trú của *bậc chứng ngộ*”, thì đó chính là *Định* do *niệm hơi thở*.
 
-For those mendicants who are trainees---who haven't achieved their
-heart's desire, but live aspiring for the supreme sanctuary from the
-yoke---the development and cultivation of immersion due to mindfulness
-of breathing leads to the ending of defilements.
+Đối với những *Tỷ kheo* là *hữu học*—những người chưa đạt được mục đích của lòng mình, nhưng sống với khát vọng hướng tới *nơi an ổn tối thượng khỏi các khổ ách*—việc phát triển và tu tập *Định* do *niệm hơi thở* sẽ dẫn đến sự chấm dứt các *ô nhiễm*.
 
-For those mendicants who are perfected---who have ended the defilements,
-completed the spiritual journey, done what had to be done, laid down the
-burden, achieved their own goal, utterly ended the fetter of continued
-existence, and are rightly freed through enlightenment---the development
-and cultivation of immersion due to mindfulness of breathing leads to
-blissful meditation in this very life, and to mindfulness and awareness.
+Đối với những *Tỷ kheo* là bậc *A-la-hán*—những người đã chấm dứt các *ô nhiễm*, hoàn thành hành trình tâm linh, làm những gì cần làm, đặt gánh nặng xuống, đạt được mục đích của riêng mình, chấm dứt hoàn toàn *xiềng xích của sự tồn tại*, và được giải thoát chân chính nhờ *giác ngộ*—việc phát triển và tu tập *Định* do *niệm hơi thở* dẫn đến sự an trú an lạc ngay trong đời này, và đến *niệm* và tỉnh giác.
 
-For if anything should be rightly called "noble meditation", or else
-"divine meditation', or else "a realized one's meditation", it's
-immersion due to mindfulness of breathing.'
+Vì nếu có bất cứ điều gì đáng được gọi là “pháp an trú cao quý”, hay “pháp an trú thiêng liêng”, hay “pháp an trú của *bậc chứng ngộ*”, thì đó chính là *Định* do *niệm hơi thở*.’
 
-This is another way to understand how the meditation of a trainee and a
-realized one are different."
+Đây là một cách khác để hiểu tại sao pháp an trú của một *hữu học* và một *bậc chứng ngộ* lại khác nhau.”
 
 <!--pg-->
-### N 54.13 With Ānanda (1st) *Paṭhamaānandasutta*
+### N 54.13 Cùng Ānanda (Thứ Nhất) *Kinh Paṭhamaānanda*
 
-At Sāvatthī.
+Tại Sāvatthī.
 
-Then Venerable Ānanda went up to the Buddha, bowed, sat down to one
-side, and said to him:
+Sau đó, Tôn giả Ānanda đến gặp Đức Phật, đảnh lễ, ngồi xuống một bên, và nói với ngài:
 
-"Sir, is there one thing that, when developed and cultivated, fulfills
-four things; and those four things, when developed and cultivated,
-fulfill seven things; and those seven things, when developed and
-cultivated, fulfill two things?"
+“Thưa ngài, có một pháp nào mà khi được phát triển và tu tập, sẽ hoàn thiện bốn pháp; và bốn pháp đó, khi được phát triển và tu tập, sẽ hoàn thiện bảy pháp; và bảy pháp đó, khi được phát triển và tu tập, sẽ hoàn thiện hai pháp không?”
 
-"There is, Ānanda."
+“Có, Ānanda.”
 
-"Sir, what is that one thing?"
+“Thưa ngài, một pháp đó là gì?”
 
-"Immersion due to mindfulness of breathing is one thing that, when
-developed and cultivated, fulfills the four kinds of mindfulness
-meditation. And the four kinds of mindfulness meditation, when developed
-and cultivated, fulfill the seven awakening factors. And the seven
-awakening factors, when developed and cultivated, fulfill knowledge and
-freedom.
+“*Định* do *niệm hơi thở* là một pháp mà khi được phát triển và tu tập, sẽ hoàn thiện *bốn niệm xứ* (the four kinds of mindfulness meditation / cattāro satipaṭṭhānā / tứ niệm xứ / bốn chủ đề để thực hành sự quan sát và ghi nhớ). Và *bốn niệm xứ*, khi được phát triển và tu tập, sẽ hoàn thiện bảy *yếu tố của giác ngộ*. Và bảy *yếu tố của giác ngộ*, khi được phát triển và tu tập, sẽ hoàn thiện *minh và giải thoát* (knowledge and freedom / vijjā-vimutti / sự hiểu biết chân chính và sự giải thoát khỏi mọi khổ đau).
 
-And how is mindfulness of breathing developed and cultivated so as to
-fulfill the four kinds of mindfulness meditation? It's when a
-mendicant---gone to a wilderness, or to the root of a tree, or to an
-empty hut---sits down cross-legged, sets their body straight, and
-establishes mindfulness in their presence. Just mindful, they breathe
-in. Mindful, they breathe out. Breathing in heavily they know: 'I'm
-breathing in heavily.' Breathing out heavily they know: 'I'm breathing
-out heavily.' ... They practice like this: 'I'll breathe in observing
-letting go.' They practice like this: 'I'll breathe out observing
-letting go.'
+Và *niệm hơi thở* được phát triển và tu tập như thế nào để hoàn thiện *bốn niệm xứ*? Đó là khi một *Tỷ kheo*—đi vào rừng, hay đến gốc cây, hay một ngôi nhà trống—ngồi xuống, vắt chéo chân, giữ thân thẳng, và thiết lập *niệm* trước mặt. Chỉ *niệm*, vị ấy thở vào. *Niệm*, vị ấy thở ra. Thở vào dài, vị ấy biết: ‘Tôi đang thở vào dài.’ Thở ra dài, vị ấy biết: ‘Tôi đang thở ra dài.’ ... Vị ấy thực hành như sau: ‘Tôi sẽ thở vào, quan sát sự *buông bỏ*.’ Vị ấy thực hành như sau: ‘Tôi sẽ thở ra, quan sát sự *buông bỏ*.’
 
-There's a time when a mendicant is breathing in heavily, and they know:
-'I'm breathing in heavily.' Breathing out heavily they know: 'I'm
-breathing out heavily.' ... They practice like this: 'I'll breathe in
-stilling physical processes.' They practice like this: 'I'll breathe out
-stilling physical processes.' At such a time a mendicant is meditating
-by observing an aspect of the body---keen, aware, and mindful, rid of
-covetousness and displeasure for the world. Why is that? Because the
-breath is a certain aspect of the body, I say. Therefore, at such a time
-a mendicant is meditating by observing an aspect of the body---keen,
-aware, and mindful, rid of covetousness and displeasure for the world.
+Có lúc một *Tỷ kheo* thở vào dài, và vị ấy biết: ‘Tôi đang thở vào dài.’ Thở ra dài, vị ấy biết: ‘Tôi đang thở ra dài.’ ... Vị ấy thực hành như sau: ‘Tôi sẽ thở vào, làm lắng dịu *các hoạt động của thân*.’ Vị ấy thực hành như sau: ‘Tôi sẽ thở ra, làm lắng dịu *các hoạt động của thân*.’ Vào lúc như vậy, một *Tỷ kheo* đang *an trú quan sát thân trên thân*—nhiệt tâm, tỉnh giác, và *niệm*, đã loại bỏ *tham ái và ưu phiền* đối với thế gian. Tại sao vậy? Bởi vì hơi thở là một khía cạnh nhất định của thân, ta nói vậy. Do đó, vào lúc như vậy, một *Tỷ kheo* đang *an trú quan sát thân trên thân*—nhiệt tâm, tỉnh giác, và *niệm*, đã loại bỏ *tham ái và ưu phiền* đối với thế gian.
 
-There's a time when a mendicant practices like this: 'I'll breathe in
-experiencing rapture ... bliss ... mind ...' ... They practice like
-this: 'I'll breathe in stilling mental processes.' They practice like
-this: 'I'll breathe out stilling mental processes.' At such a time a
-mendicant is meditating by observing an aspect of feelings---keen,
-aware, and mindful, rid of covetousness and displeasure for the world.
-Why is that? Because careful application of mind to the in-breaths and
-out-breaths is a certain aspect of feelings, I say. Therefore, at such a
-time a mendicant is meditating by observing an aspect of
-feelings---keen, aware, and mindful, rid of covetousness and displeasure
-for the world.
+Có lúc một *Tỷ kheo* thực hành như sau: ‘Tôi sẽ thở vào, cảm nhận sự *phấn khởi*... *bình an*... *tâm*...’ ... Vị ấy thực hành như sau: ‘Tôi sẽ thở vào, làm lắng dịu *các hoạt động của tâm*.’ Vị ấy thực hành như sau: ‘Tôi sẽ thở ra, làm lắng dịu *các hoạt động của tâm*.’ Vào lúc như vậy, một *Tỷ kheo* đang *an trú quan sát cảm giác trên các cảm giác*—nhiệt tâm, tỉnh giác, và *niệm*, đã loại bỏ *tham ái và ưu phiền* đối với thế gian. Tại sao vậy? Bởi vì sự chú tâm cẩn thận vào hơi thở vào và hơi thở ra là một khía cạnh nhất định của các *cảm giác*, ta nói vậy. Do đó, vào lúc như vậy, một *Tỷ kheo* đang *an trú quan sát cảm giác trên các cảm giác*—nhiệt tâm, tỉnh giác, và *niệm*, đã loại bỏ *tham ái và ưu phiền* đối với thế gian.
 
-There's a time when a mendicant practices like this: 'I'll breathe in
-experiencing the mind.' They practice like this: 'I'll breathe out
-experiencing the mind.' They practice like this: 'I'll breathe in
-gladdening the mind ... immersing the mind in samādhi ...
-freeing the mind.' They practice like this: 'I'll breathe out freeing
-the mind.' At such a time a mendicant is meditating by observing an
-aspect of the mind---keen, aware, and mindful, rid of covetousness and
-displeasure for the world. Why is that? Because there is no development
-of immersion due to mindfulness of breathing for someone who is
-unmindful and lacks awareness, I say. Therefore, at such a time a
-mendicant is meditating by observing an aspect of the mind---keen,
-aware, and mindful, rid of covetousness and displeasure for the world.
+Có lúc một *Tỷ kheo* thực hành như sau: ‘Tôi sẽ thở vào, cảm nhận *tâm*.’ Vị ấy thực hành như sau: ‘Tôi sẽ thở ra, cảm nhận *tâm*.’ Vị ấy thực hành như sau: ‘Tôi sẽ thở vào, làm cho *tâm* hân hoan... làm cho *tâm* *đắm chìm trong định*... giải thoát *tâm*.’ Vị ấy thực hành như sau: ‘Tôi sẽ thở ra, giải thoát *tâm*.’ Vào lúc như vậy, một *Tỷ kheo* đang *an trú quan sát tâm trên tâm*—nhiệt tâm, tỉnh giác, và *niệm*, đã loại bỏ *tham ái và ưu phiền* đối với thế gian. Tại sao vậy? Bởi vì không có sự phát triển *Định* do *niệm hơi thở* cho người thiếu *niệm* và thiếu tỉnh giác, ta nói vậy. Do đó, vào lúc như vậy, một *Tỷ kheo* đang *an trú quan sát tâm trên tâm*—nhiệt tâm, tỉnh giác, và *niệm*, đã loại bỏ *tham ái và ưu phiền* đối với thế gian.
 
-There's a time when a mendicant practices like this: 'I'll breathe in
-observing impermanence ... fading away ... cessation ... letting go.'
-They practice like this: 'I'll breathe out observing letting go.' At
-such a time a mendicant is meditating by observing an aspect of
-principles---keen, aware, and mindful, rid of covetousness and
-displeasure for the world. Having seen with wisdom the giving up of
-covetousness and displeasure, they watch closely over with equanimity.
-Therefore, at such a time a mendicant is meditating by observing an
-aspect of principles---keen, aware, and mindful, rid of covetousness and
-displeasure for the world.
+Có lúc một *Tỷ kheo* thực hành như sau: ‘Tôi sẽ thở vào, quan sát sự *vô thường*... *ly tham*... *diệt*... *buông bỏ*.’ Vị ấy thực hành như sau: ‘Tôi sẽ thở ra, quan sát sự *buông bỏ*.’ Vào lúc như vậy, một *Tỷ kheo* đang *an trú quan sát pháp trên các pháp*—nhiệt tâm, tỉnh giác, và *niệm*, đã loại bỏ *tham ái và ưu phiền* đối với thế gian. Sau khi thấy bằng trí tuệ sự từ bỏ *tham ái và ưu phiền*, vị ấy quan sát chặt chẽ với tâm *Xả*. Do đó, vào lúc như vậy, một *Tỷ kheo* đang *an trú quan sát pháp trên các pháp*—nhiệt tâm, tỉnh giác, và *niệm*, đã loại bỏ *tham ái và ưu phiền* đối với thế gian.
 
-That's how immersion due to mindfulness of breathing is developed and
-cultivated so as to fulfill the four kinds of mindfulness meditation.
+Đó là cách *Định* do *niệm hơi thở* được phát triển và tu tập để hoàn thiện *bốn niệm xứ*.
 
-And how are the four kinds of mindfulness meditation developed and
-cultivated so as to fulfill the seven awakening factors? Whenever a
-mendicant meditates by observing an aspect of the body, their
-mindfulness is established and lucid. At such a time, a mendicant has
-activated the awakening factor of mindfulness; they develop it and
-perfect it.
+Và *bốn niệm xứ* được phát triển và tu tập như thế nào để hoàn thiện bảy *yếu tố của giác ngộ*? Bất cứ khi nào một *Tỷ kheo* *an trú quan sát thân*, *niệm* của vị ấy được thiết lập và sáng tỏ. Vào lúc như vậy, một *Tỷ kheo* đã kích hoạt *yếu tố của giác ngộ* là *niệm*; vị ấy phát triển và hoàn thiện nó.
 
-As they live mindfully in this way they investigate, explore, and
-inquire into that principle with wisdom. At such a time, a mendicant has
-activated the awakening factor of investigation of principles; they
-develop it and perfect it.
+Khi sống có *niệm* theo cách này, vị ấy điều tra, khám phá, và tìm hiểu về *pháp* đó bằng trí tuệ. Vào lúc như vậy, một *Tỷ kheo* đã kích hoạt *yếu tố của giác ngộ* là *Phân tích pháp*; vị ấy phát triển và hoàn thiện nó.
 
-As they investigate principles with wisdom in this way their energy is
-roused up and unflagging. At such a time, a mendicant has activated the
-awakening factor of energy; they develop it and perfect it.
+Khi vị ấy *Phân tích pháp* bằng trí tuệ theo cách này, *Nỗ lực* của vị ấy được khơi dậy và không mệt mỏi. Vào lúc như vậy, một *Tỷ kheo* đã kích hoạt *yếu tố của giác ngộ* là *Nỗ lực*; vị ấy phát triển và hoàn thiện nó.
 
-When you're energetic, rapture not of the flesh arises. At such a time,
-a mendicant has activated the awakening factor of rapture; they develop
-it and perfect it.
+Khi bạn có *Nỗ lực*, sự *phấn khởi* không thuộc về xác thịt khởi lên. Vào lúc như vậy, một *Tỷ kheo* đã kích hoạt *yếu tố của giác ngộ* là *phấn khởi*; vị ấy phát triển và hoàn thiện nó.
 
-When the mind is full of rapture, the body and mind become tranquil. At
-such a time, a mendicant has activated the awakening factor of
-tranquility; they develop it and perfect it.
+Khi *tâm* tràn đầy *phấn khởi*, thân và *tâm* trở nên *thư thái*. Vào lúc như vậy, một *Tỷ kheo* đã kích hoạt *yếu tố của giác ngộ* là *thư thái*; vị ấy phát triển và hoàn thiện nó.
 
-When the body is tranquil and one feels bliss, the mind becomes immersed
-in samādhi. At such a time, a mendicant has activated the
-awakening factor of immersion; they develop it and perfect it.
+Khi thân *thư thái* và cảm thấy *bình an*, *tâm* trở nên *đắm chìm trong định*. Vào lúc như vậy, một *Tỷ kheo* đã kích hoạt *yếu tố của giác ngộ* là *Định*; vị ấy phát triển và hoàn thiện nó.
 
-They closely watch over that mind immersed in samādhi. At
-such a time, a mendicant has activated the awakening factor of
-equanimity; they develop it and perfect it.
+Vị ấy quan sát chặt chẽ *tâm* đang *đắm chìm trong định* đó. Vào lúc như vậy, một *Tỷ kheo* đã kích hoạt *yếu tố của giác ngộ* là *Xả*; vị ấy phát triển và hoàn thiện nó.
 
-Whenever a mendicant meditates by observing an aspect of feelings ...
-mind ... principles, their mindfulness is established and lucid. At such
-a time, a mendicant has activated the awakening factor of mindfulness;
-they develop it and perfect it. ...
+Bất cứ khi nào một *Tỷ kheo* *an trú quan sát cảm giác... tâm... các pháp*, *niệm* của vị ấy được thiết lập và sáng tỏ. Vào lúc như vậy, một *Tỷ kheo* đã kích hoạt *yếu tố của giác ngộ* là *niệm*; vị ấy phát triển và hoàn thiện nó. ...
 
-**(Tell in full as for the first kind of mindfulness meditation.)**
+**(Kể đầy đủ như đối với niệm xứ thứ nhất.)**
 
-They closely watch over that mind immersed in samādhi. At
-such a time, a mendicant has activated the awakening factor of
-equanimity; they develop it and perfect it. That's how the four kinds of
-mindfulness meditation are developed and cultivated so as to fulfill the
-seven awakening factors.
+Vị ấy quan sát chặt chẽ *tâm* đang *đắm chìm trong định* đó. Vào lúc như vậy, một *Tỷ kheo* đã kích hoạt *yếu tố của giác ngộ* là *Xả*; vị ấy phát triển và hoàn thiện nó. Đó là cách *bốn niệm xứ* được phát triển và tu tập để hoàn thiện bảy *yếu tố của giác ngộ*.
 
-And how are the seven awakening factors developed and cultivated so as
-to fulfill knowledge and freedom? It's when a mendicant develops the
-awakening factors of mindfulness, investigation of principles, energy,
-rapture, tranquility, immersion, and equanimity, which rely on
-seclusion, fading away, and cessation, and ripen as letting go. That's
-how the seven awakening factors are developed and cultivated so as to
-fulfill knowledge and freedom."
+Và bảy *yếu tố của giác ngộ* được phát triển và tu tập như thế nào để hoàn thiện *minh và giải thoát*? Đó là khi một *Tỷ kheo* phát triển các *yếu tố của giác ngộ* là *niệm*, *Phân tích pháp*, *Nỗ lực*, *phấn khởi*, *thư thái*, *Định*, và *Xả*, vốn dựa trên sự *ly*, *ly tham*, và *diệt*, và chín muồi trong sự *buông bỏ*. Đó là cách bảy *yếu tố của giác ngộ* được phát triển và tu tập để hoàn thiện *minh và giải thoát*.”
 
 <!--pg-->
-### N 54.14 With Ānanda (2nd) *Dutiyaānandasutta*
+### N 54.14 Cùng Ānanda (Thứ Hai) *Kinh Dutiyaānanda*
 
-Then Venerable Ānanda went up to the Buddha, bowed, and sat down to one
-side. The Buddha said to him: "Ānanda, is there one thing that, when
-developed and cultivated, fulfills four things; and those four things,
-when developed and cultivated, fulfill seven things; and those seven
-things, when developed and cultivated, fulfill two things?"
+Sau đó, Tôn giả Ānanda đến gặp Đức Phật, đảnh lễ, và ngồi xuống một bên. Đức Phật nói với ông: “Này Ānanda, có một pháp nào mà khi được phát triển và tu tập, sẽ hoàn thiện bốn pháp; và bốn pháp đó, khi được phát triển và tu tập, sẽ hoàn thiện bảy pháp; và bảy pháp đó, khi được phát triển và tu tập, sẽ hoàn thiện hai pháp không?”
 
-"Our teachings are rooted in the Buddha. ..."
+“Giáo pháp của chúng con bắt nguồn từ Đức Phật. ...”
 
-"There is, Ānanda.
+“Có, Ānanda.
 
-And what is that one thing? Immersion due to mindfulness of breathing is
-one thing that, when developed and cultivated, fulfills the four kinds
-of mindfulness meditation. And the four kinds of mindfulness meditation,
-when developed and cultivated, fulfill the seven awakening factors. And
-the seven awakening factors, when developed and cultivated, fulfill
-knowledge and freedom.
+Và một pháp đó là gì? *Định* do *niệm hơi thở* là một pháp mà khi được phát triển và tu tập, sẽ hoàn thiện *bốn niệm xứ*. Và *bốn niệm xứ*, khi được phát triển và tu tập, sẽ hoàn thiện bảy *yếu tố của giác ngộ*. Và bảy *yếu tố của giác ngộ*, khi được phát triển và tu tập, sẽ hoàn thiện *minh và giải thoát*.
 
-And how is mindfulness of breathing developed and cultivated so as to
-fulfill the four kinds of mindfulness meditation? ...
+Và *niệm hơi thở* được phát triển và tu tập như thế nào để hoàn thiện *bốn niệm xứ*? ...
 
-That's how the seven awakening factors are developed and cultivated so
-as to fulfill knowledge and freedom."
+Đó là cách bảy *yếu tố của giác ngộ* được phát triển và tu tập để hoàn thiện *minh và giải thoát*.”
 
 <!--pg-->
-### N 54.15 Several Mendicants (1st) *Paṭhamabhikkhusutta*
+### N 54.15 Vài Vị Tỷ Kheo (Thứ Nhất) *Kinh Paṭhamabhikkhu*
 
-Then several mendicants went up to the Buddha, bowed, sat down to one
-side, and said to him:
+Sau đó, vài vị *Tỷ kheo* đến gặp Đức Phật, đảnh lễ, ngồi xuống một bên, và nói với ngài:
 
-"Sir, is there one thing that, when developed and cultivated, fulfills
-four things; and those four things, when developed and cultivated,
-fulfill seven things; and those seven things, when developed and
-cultivated, fulfill two things?"
+“Thưa ngài, có một pháp nào mà khi được phát triển và tu tập, sẽ hoàn thiện bốn pháp; và bốn pháp đó, khi được phát triển và tu tập, sẽ hoàn thiện bảy pháp; và bảy pháp đó, khi được phát triển và tu tập, sẽ hoàn thiện hai pháp không?”
 
-"There is, mendicants."
+“Có, này các *Tỷ kheo*.”
 
-"Sir, what is that one thing?"
+“Thưa ngài, một pháp đó là gì?”
 
-"Immersion due to mindfulness of breathing is one thing that, when
-developed and cultivated, fulfills the four kinds of mindfulness
-meditation. And the four kinds of mindfulness meditation, when developed
-and cultivated, fulfill the seven awakening factors. And the seven
-awakening factors, when developed and cultivated, fulfill knowledge and
-freedom.
+“*Định* do *niệm hơi thở* là một pháp mà khi được phát triển và tu tập, sẽ hoàn thiện *bốn niệm xứ*. Và *bốn niệm xứ*, khi được phát triển và tu tập, sẽ hoàn thiện bảy *yếu tố của giác ngộ*. Và bảy *yếu tố của giác ngộ*, khi được phát triển và tu tập, sẽ hoàn thiện *minh và giải thoát*.
 
-And how is mindfulness of breathing developed and cultivated so as to
-fulfill the four kinds of mindfulness meditation? ...
+Và *niệm hơi thở* được phát triển và tu tập như thế nào để hoàn thiện *bốn niệm xứ*? ...
 
-That's how the seven awakening factors are developed and cultivated so
-as to fulfill knowledge and freedom."
+Đó là cách bảy *yếu tố của giác ngộ* được phát triển và tu tập để hoàn thiện *minh và giải thoát*.”
 
 <!--pg-->
-### N 54.16 Several Mendicants (2nd) *Dutiyabhikkhusutta*
+### N 54.16 Vài Vị Tỷ Kheo (Thứ Hai) *Kinh Dutiyabhikkhu*
 
-Then several mendicants went up to the Buddha, bowed, and sat down to
-one side. The Buddha said to them:
+Sau đó, vài vị *Tỷ kheo* đến gặp Đức Phật, đảnh lễ, và ngồi xuống một bên. Đức Phật nói với họ:
 
-"Mendicants, is there one thing that, when developed and cultivated,
-fulfills four things; and those four things, when developed and
-cultivated, fulfill seven things; and those seven things, when developed
-and cultivated, fulfill two things?"
+“Này các *Tỷ kheo*, có một pháp nào mà khi được phát triển và tu tập, sẽ hoàn thiện bốn pháp; và bốn pháp đó, khi được phát triển và tu tập, sẽ hoàn thiện bảy pháp; và bảy pháp đó, khi được phát triển và tu tập, sẽ hoàn thiện hai pháp không?”
 
-"Our teachings are rooted in the Buddha. ..."
+“Giáo pháp của chúng con bắt nguồn từ Đức Phật. ...”
 
-"There is, mendicants.
+“Có, này các *Tỷ kheo*.
 
-And what is that one thing? Immersion due to mindfulness of breathing is
-one thing that, when developed and cultivated, fulfills the four kinds
-of mindfulness meditation. And the four kinds of mindfulness meditation,
-when developed and cultivated, fulfill the seven awakening factors. And
-the seven awakening factors, when developed and cultivated, fulfill
-knowledge and freedom.
+Và một pháp đó là gì? *Định* do *niệm hơi thở* là một pháp mà khi được phát triển và tu tập, sẽ hoàn thiện *bốn niệm xứ*. Và *bốn niệm xứ*, khi được phát triển và tu tập, sẽ hoàn thiện bảy *yếu tố của giác ngộ*. Và bảy *yếu tố của giác ngộ*, khi được phát triển và tu tập, sẽ hoàn thiện *minh và giải thoát*.
 
-And how is mindfulness of breathing developed and cultivated so as to
-fulfill the four kinds of mindfulness meditation? It's when a
-mendicant---gone to a wilderness, or to the root of a tree, or to an
-empty hut---sits down cross-legged, sets their body straight, and
-establishes mindfulness in their presence. ...
+Và *niệm hơi thở* được phát triển và tu tập như thế nào để hoàn thiện *bốn niệm xứ*? Đó là khi một *Tỷ kheo*—đi vào rừng, hay đến gốc cây, hay một ngôi nhà trống—ngồi xuống, vắt chéo chân, giữ thân thẳng, và thiết lập *niệm* trước mặt. ...
 
-That's how the seven awakening factors are developed and cultivated so
-as to fulfill knowledge and freedom."
+Đó là cách bảy *yếu tố của giác ngộ* được phát triển và tu tập để hoàn thiện *minh và giải thoát*.”
 
 <!--pg-->
-### N 54.17 Giving Up the Fetters *Saṁyojanappahānasutta*
+### N 54.17 Từ Bỏ Các Xiềng Xích *Kinh Saṁyojanappahāna*
 
-"Mendicants, when immersion due to mindfulness of breathing is developed
-and cultivated it leads to giving up the fetters ..."
-
-<!--pg-->
-### N 54.18 Uprooting the Tendencies *Anusayasamugghātasutta*
-
-"Mendicants, when immersion due to mindfulness of breathing is developed
-and cultivated it leads to uprooting the underlying tendencies ..."
+“Này các *Tỷ kheo*, khi *Định* do *niệm hơi thở* được phát triển và tu tập, nó dẫn đến việc từ bỏ các *xiềng xích* (The fetters / saṃyojana / *kiết sử* / cái cùm, xiềng xích, là các ô nhiễm gốc rễ sâu trong tâm)...”
 
 <!--pg-->
-### N 54.19 Completely Understanding the Course of Time *Addhānapariññāsutta*
+### N 54.18 Nhổ Bỏ Các Chiều Hướng Ngầm *Kinh Anusayasamugghāta*
 
-"Mendicants, when immersion due to mindfulness of breathing is developed
-and cultivated it leads to completely understanding the course of time
-..."
+“Này các *Tỷ kheo*, khi *Định* do *niệm hơi thở* được phát triển và tu tập, nó dẫn đến việc nhổ bỏ tận gốc các khuynh hướng *ngầm hướng về* (underlying tendencies / anusaya / tùy miên / ngủ ngầm, chiều hướng cơ bản)...”
 
 <!--pg-->
-### N 54.20 The Ending of Defilements *Āsavakkhayasutta*
+### N 54.19 Hiểu Hoàn Toàn Dòng Thời Gian *Kinh Addhānapariññā*
 
-"Mendicants, when immersion due to mindfulness of breathing is developed
-and cultivated it leads to the ending of defilements. And how is
-immersion due to mindfulness of breathing developed and cultivated so as
-to lead to giving up the fetters, uprooting the underlying tendencies,
-completely understanding the course of time, and ending the defilements?
+“Này các *Tỷ kheo*, khi *Định* do *niệm hơi thở* được phát triển và tu tập, nó dẫn đến việc hiểu hoàn toàn dòng thời gian...”
 
-It's when a mendicant---gone to a wilderness, or to the root of a tree,
-or to an empty hut---sits down cross-legged, sets their body straight,
-and establishes mindfulness in front of them. ...
+<!--pg-->
+### N 54.20 Chấm Dứt Các Ô Nhiễm *Kinh Āsavakkhaya*
 
-They practice like this: 'I'll breathe in observing letting go.' They
-practice like this: 'I'll breathe out observing letting go.'
+“Này các *Tỷ kheo*, khi *Định* do *niệm hơi thở* được phát triển và tu tập, nó dẫn đến sự chấm dứt các *ô nhiễm*. Và *Định* do *niệm hơi thở* được phát triển và tu tập như thế nào để dẫn đến việc từ bỏ các *xiềng xích*, nhổ bỏ tận gốc các khuynh hướng *ngầm hướng về*, hiểu hoàn toàn dòng thời gian, và chấm dứt các *ô nhiễm*?
 
-That's how immersion due to mindfulness of breathing is developed and
-cultivated so as to lead to giving up the fetters, uprooting the
-underlying tendencies, completely understanding the course of time, and
-ending the defilements."
+Đó là khi một *Tỷ kheo*—đi vào rừng, hay đến gốc cây, hay một ngôi nhà trống—ngồi xuống, vắt chéo chân, giữ thân thẳng, và thiết lập *niệm* trước mặt. ...
 
-**The Linked Discourses on Mindfulness of Breathing is the tenth section.**
+Vị ấy thực hành như sau: ‘Tôi sẽ thở vào, quan sát sự *buông bỏ*.’ Vị ấy thực hành như sau: ‘Tôi sẽ thở ra, quan sát sự *buông bỏ*.’
 
+Đó là cách *Định* do *niệm hơi thở* được phát triển và tu tập để dẫn đến việc từ bỏ các *xiềng xích*, nhổ bỏ tận gốc các khuynh hướng *ngầm hướng về*, hiểu hoàn toàn dòng thời gian, và chấm dứt các *ô nhiễm*.”
+
+**Các Bài Kinh Tương Ưng về Niệm Hơi Thở là phần thứ mười.**

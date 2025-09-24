@@ -56,10 +56,8 @@ Như Sông Hằng Rộng Thuyết.
 
 ### 45. I. (S.v,309)
 
-<!--pg-->
 ### 46-53. II-IX. (S.v,309)
 
-<!--pg-->
 ### 54. X. Thượng Phần Kiết Sử (S.v,309)
 
 1\.. ..

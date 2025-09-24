@@ -1000,7 +1000,7 @@ rằng người này như hột giống tốt, huống nữa là họ Thích Sar
 khi mạng chung, đã làm viên mãn học giới.
 
 <!--pg-->
-### 26.VI. Ác Giới, hay Anàthapindika (1) (S.v,380)
+### 26\.VI. Ác Giới, hay Anàthapindika (1) (S.v,380)
 
 1\. Nhân duyên ở Sàvatthi.
 

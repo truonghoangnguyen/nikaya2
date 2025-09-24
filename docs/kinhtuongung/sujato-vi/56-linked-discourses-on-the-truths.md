@@ -1,1812 +1,1048 @@
-# Linked Discourses on the Truths
+# Các Bài Kinh Liên Quan Về Sự Thật
 
 <!--pg-->
-## The Chapter on Immersion
+## Chương Về Định
 
-### N 56.1 Immersion *Samādhisutta*
+### N 56.1 Định *Kinh Samādhi*
 
-At Sāvatthī.
+Tại Sāvatthī.
 
-"Mendicants, develop immersion. A mendicant who has immersion truly
-understands. What do they truly understand? They truly understand: 'This
-is suffering' ... 'This is the origin of suffering' ... 'This is the
-cessation of suffering' ... 'This is the practice that leads to the
-cessation of suffering'. Develop immersion. A mendicant who has
-immersion truly understands.
+"Này các *Tỷ kheo*, hãy phát triển *Định* (Immersion / samādhi / Trạng thái tâm tụ trên một điểm). Một *Tỷ kheo* có *Định* thì *biết như thật* (truly know / liễu tri / biết rõ sự vật đúng như bản chất của nó). Họ *biết như thật* điều gì? Họ *biết như thật*: 'Đây là *khổ* (suffering / dukkha / sự không hài lòng, bất toại nguyện, từ đau đớn thể chất đến phiền não tinh thần)' ... 'Đây là nguồn gốc của *khổ*' ... 'Đây là sự chấm dứt *khổ*' ... 'Đây là con đường thực hành dẫn đến sự chấm dứt *khổ*'. Hãy phát triển *Định*. Một *Tỷ kheo* có *Định* thì *biết như thật*.
 
-That's why you should practice meditation to understand: 'This is
-suffering' ... 'This is the origin of suffering' ... 'This is the
-cessation of suffering' ... 'This is the practice that leads to the
-cessation of suffering'."
+Vì vậy, các vị nên thực hành thiền định để hiểu rằng: 'Đây là *khổ*' ... 'Đây là nguồn gốc của *khổ*' ... 'Đây là sự chấm dứt *khổ*' ... 'Đây là con đường thực hành dẫn đến sự chấm dứt *khổ*'."
 
 <!--pg-->
-### N 56.2 Retreat *Paṭisallānasutta*
+### N 56.2 An Cư *Kinh Paṭisallāna*
 
-"Mendicants, meditate in retreat. A mendicant in retreat truly
-understands. What do they truly understand? They truly understand: 'This
-is suffering' ... 'This is the origin of suffering' ... 'This is the
-cessation of suffering' ... 'This is the practice that leads to the
-cessation of suffering'. Meditate in retreat. A mendicant in retreat
-truly understands.
+"Này các *Tỷ kheo*, hãy thiền định trong nơi an tịnh. Một *Tỷ kheo* ở nơi an tịnh thì *biết như thật*. Họ *biết như thật* điều gì? Họ *biết như thật*: 'Đây là *khổ*' ... 'Đây là nguồn gốc của *khổ*' ... 'Đây là sự chấm dứt *khổ*' ... 'Đây là con đường thực hành dẫn đến sự chấm dứt *khổ*'. Hãy thiền định trong nơi an tịnh. Một *Tỷ kheo* ở nơi an tịnh thì *biết như thật*.
 
-That's why you should practice meditation to understand: 'This is
-suffering' ... 'This is the origin of suffering' ... 'This is the
-cessation of suffering' ... 'This is the practice that leads to the
-cessation of suffering'."
+Vì vậy, các vị nên thực hành thiền định để hiểu rằng: 'Đây là *khổ*' ... 'Đây là nguồn gốc của *khổ*' ... 'Đây là sự chấm dứt *khổ*' ... 'Đây là con đường thực hành dẫn đến sự chấm dứt *khổ*'."
 
 <!--pg-->
-### N 56.3 A Gentleman (1st) *Paṭhamakulaputtasutta*
+### N 56.3 Người Thiện Nam (Thứ Nhất) *Kinh Paṭhamakulaputta*
 
-"Mendicants, whatever gentlemen---past, future, or present---rightly go
-forth from the lay life to homelessness, all of them do so in order to
-truly comprehend the four noble truths.
+"Này các *Tỷ kheo*, bất kỳ người thiện nam nào—trong quá khứ, tương lai, hay hiện tại—chân chính từ bỏ đời sống thế tục để sống không nhà, tất cả họ đều làm vậy để *biết như thật* về *bốn sự thật cao quý* (four noble truths / cattāri ariyasaccāni / *tứ diệu đế* / bốn sự thật về khổ, nguồn gốc của khổ, sự chấm dứt khổ, và con đường dẫn đến sự chấm dứt khổ).
 
-What four? The noble truths of suffering, the origin of suffering, the
-cessation of suffering, and the practice that leads to the cessation of
-suffering. Whatever gentlemen---past, future, or present---rightly go
-forth from the lay life to homelessness, all of them do so in order to
-truly comprehend the four noble truths.
+Bốn điều đó là gì? Các sự thật cao quý về *khổ*, nguồn gốc của *khổ*, sự chấm dứt *khổ*, và con đường thực hành dẫn đến sự chấm dứt *khổ*. Bất kỳ người thiện nam nào—trong quá khứ, tương lai, hay hiện tại—chân chính từ bỏ đời sống thế tục để sống không nhà, tất cả họ đều làm vậy để *biết như thật* về *bốn sự thật cao quý*.
 
-That's why you should practice meditation to understand: 'This is
-suffering' ... 'This is the origin of suffering' ... 'This is the
-cessation of suffering' ... 'This is the practice that leads to the
-cessation of suffering'."
+Vì vậy, các vị nên thực hành thiền định để hiểu rằng: 'Đây là *khổ*' ... 'Đây là nguồn gốc của *khổ*' ... 'Đây là sự chấm dứt *khổ*' ... 'Đây là con đường thực hành dẫn đến sự chấm dứt *khổ*'."
 
 <!--pg-->
-### N 56.4 A Gentleman (2nd) *Dutiyakulaputtasutta*
+### N 56.4 Người Thiện Nam (Thứ Hai) *Kinh Dutiyakulaputta*
 
-"Mendicants, whatever gentlemen---past, future, or present---truly
-comprehend after rightly going forth from the lay life to homelessness,
-all of them truly comprehend the four noble truths.
+"Này các *Tỷ kheo*, bất kỳ người thiện nam nào—trong quá khứ, tương lai, hay hiện tại—*biết như thật* sau khi chân chính từ bỏ đời sống thế tục để sống không nhà, tất cả họ đều *biết như thật* về *bốn sự thật cao quý*.
 
-What four? The noble truths of suffering, the origin of suffering, the
-cessation of suffering, and the practice that leads to the cessation of
-suffering. ...
+Bốn điều đó là gì? Các sự thật cao quý về *khổ*, nguồn gốc của *khổ*, sự chấm dứt *khổ*, và con đường thực hành dẫn đến sự chấm dứt *khổ*. ...
 
-That's why you should practice meditation ..."
+Vì vậy, các vị nên thực hành thiền định ..."
 
 <!--pg-->
-### N 56.5 Ascetics and Brahmins (1st) *Paṭhamasamaṇabrāhmaṇasutta*
+### N 56.5 Sa Môn và Bà La Môn (Thứ Nhất) *Kinh Paṭhamasamaṇabrāhmaṇa*
 
-"Mendicants, whatever ascetics and brahmins truly wake up---in the past,
-future, or present---all of them truly wake up to the four noble truths.
+"Này các *Tỷ kheo*, bất kỳ sa môn và bà la môn nào thực sự tỉnh thức—trong quá khứ, tương lai, hay hiện tại—tất cả họ đều thực sự tỉnh thức về *bốn sự thật cao quý*.
 
-What four? The noble truths of suffering, the origin of suffering, the
-cessation of suffering, and the practice that leads to the cessation of
-suffering. ...
+Bốn điều đó là gì? Các sự thật cao quý về *khổ*, nguồn gốc của *khổ*, sự chấm dứt *khổ*, và con đường thực hành dẫn đến sự chấm dứt *khổ*. ...
 
-That's why you should practice meditation ..."
+Vì vậy, các vị nên thực hành thiền định ..."
 
 <!--pg-->
-### N 56.6 Ascetics and Brahmins (2nd) *Dutiyasamaṇabrāhmaṇasutta*
+### N 56.6 Sa Môn và Bà La Môn (Thứ Hai) *Kinh Dutiyasamaṇabrāhmaṇa*
 
-"Mendicants, whatever ascetics and brahmins---past, future, or
-present---reveal that they are awakened, all of them reveal that they
-truly awakened to the four noble truths.
+"Này các *Tỷ kheo*, bất kỳ sa môn và bà la môn nào—trong quá khứ, tương lai, hay hiện tại—tuyên bố rằng họ đã giác ngộ, tất cả họ đều tuyên bố rằng họ đã thực sự giác ngộ về *bốn sự thật cao quý*.
 
-What four? The noble truths of suffering, the origin of suffering, the
-cessation of suffering, and the practice that leads to the cessation of
-suffering. ...
+Bốn điều đó là gì? Các sự thật cao quý về *khổ*, nguồn gốc của *khổ*, sự chấm dứt *khổ*, và con đường thực hành dẫn đến sự chấm dứt *khổ*. ...
 
-That's why you should practice meditation ..."
+Vì vậy, các vị nên thực hành thiền định ..."
 
 <!--pg-->
-### N 56.7 Thoughts *Vitakkasutta*
+### N 56.7 Các Suy Nghĩ *Kinh Vitakka*
 
-"Mendicants, don't think bad, unskillful thoughts, such as sensual,
-malicious, and cruel thoughts. Why is that? Because those thoughts
-aren't beneficial or relevant to the fundamentals of the spiritual life.
-They don't lead to disillusionment, dispassion, cessation, peace,
-insight, awakening, and extinguishment.
+"Này các *Tỷ kheo*, đừng suy nghĩ những điều xấu, bất thiện, như những suy nghĩ về dục lạc, ác ý và tàn nhẫn. Tại sao vậy? Bởi vì những suy nghĩ đó không lợi ích, không liên quan đến những nền tảng của đời sống tâm linh. Chúng không dẫn đến *nhàm chán* (disillusionment / nibbidā / sự chán ngán, không còn hứng thú với các pháp hữu vi), *ly tham* (dispassion / virāga / sự dứt bỏ tham ái), *chấm dứt* (cessation / nirodha / sự diệt tận), *an tịnh* (peace / upasama / sự lắng dịu), *hiểu biết trực tiếp* (direct knowledge / abhiññā / thắng tri / sự hiểu biết sâu sắc, không qua trung gian suy luận), *giác ngộ* (awakening / sambodha / sự tỉnh thức hoàn toàn), và *Niết bàn* (extinguishment / nibbāna / sự dập tắt hoàn toàn tham, sân, si).
 
-When you think, you should think: 'This is suffering' ... 'This is the
-origin of suffering' ... 'This is the cessation of suffering' ... 'This
-is the practice that leads to the cessation of suffering'. Why is that?
-Because those thoughts are beneficial and relevant to the fundamentals
-of the spiritual life. They lead to disillusionment, dispassion,
-cessation, peace, insight, awakening, and extinguishment.
+Khi các vị suy nghĩ, hãy suy nghĩ rằng: 'Đây là *khổ*' ... 'Đây là nguồn gốc của *khổ*' ... 'Đây là sự chấm dứt *khổ*' ... 'Đây là con đường thực hành dẫn đến sự chấm dứt *khổ*'. Tại sao vậy? Bởi vì những suy nghĩ đó có lợi ích và liên quan đến những nền tảng của đời sống tâm linh. Chúng dẫn đến *nhàm chán*, *ly tham*, *chấm dứt*, *an tịnh*, *hiểu biết trực tiếp*, *giác ngộ*, và *Niết bàn*.
 
-That's why you should practice meditation ..."
+Vì vậy, các vị nên thực hành thiền định ..."
 
 <!--pg-->
-### N 56.8 Thought *Cintasutta*
+### N 56.8 Tư Tưởng *Kinh Cinta*
 
-"Mendicants, don't think up a bad, unskillful idea. For example: the
-cosmos is eternal, or not eternal, or finite, or infinite; the soul and
-the body are the same thing, or they are different things; after death,
-a realized one still exists, or no longer exists, or both still exists
-and no longer exists, or neither still exists nor no longer exists. Why
-is that? Because those thoughts aren't beneficial or relevant to the
-fundamentals of the spiritual life. They don't lead to disillusionment,
-dispassion, cessation, peace, insight, awakening, and extinguishment.
+"Này các *Tỷ kheo*, đừng suy tưởng những ý nghĩ xấu, bất thiện. Ví dụ: vũ trụ là thường hằng, hay không thường hằng, hay hữu hạn, hay vô hạn; linh hồn và thể xác là một, hay chúng là hai thứ khác nhau; sau khi chết, một bậc giác ngộ vẫn tồn tại, hay không còn tồn tại, hay vừa tồn tại vừa không tồn tại, hay không tồn tại cũng không không tồn tại. Tại sao vậy? Bởi vì những suy nghĩ đó không lợi ích, không liên quan đến những nền tảng của đời sống tâm linh. Chúng không dẫn đến *nhàm chán*, *ly tham*, *chấm dứt*, *an tịnh*, *hiểu biết trực tiếp*, *giác ngộ*, và *Niết bàn*.
 
-When you think something up, you should think: 'This is suffering' ...
-'This is the origin of suffering' ... 'This is the cessation of
-suffering' ... 'This is the practice that leads to the cessation of
-suffering'. Why is that? Because those thoughts are beneficial and
-relevant to the fundamentals of the spiritual life. They lead to
-disillusionment, dispassion, cessation, peace, insight, awakening, and
-extinguishment.
+Khi các vị suy tưởng điều gì, hãy suy tưởng rằng: 'Đây là *khổ*' ... 'Đây là nguồn gốc của *khổ*' ... 'Đây là sự chấm dứt *khổ*' ... 'Đây là con đường thực hành dẫn đến sự chấm dứt *khổ*'. Tại sao vậy? Bởi vì những suy nghĩ đó có lợi ích và liên quan đến những nền tảng của đời sống tâm linh. Chúng dẫn đến *nhàm chán*, *ly tham*, *chấm dứt*, *an tịnh*, *hiểu biết trực tiếp*, *giác ngộ*, và *Niết bàn*.
 
-That's why you should practice meditation ..."
+Vì vậy, các vị nên thực hành thiền định ..."
 
 <!--pg-->
-### N 56.9 Arguments *Viggāhikakathāsutta*
+### N 56.9 Tranh Luận *Kinh Viggāhikakathā*
 
-"Mendicants, don't get into arguments, such as: 'You don't understand
-this teaching and training. I understand this teaching and training.
-What, you understand this teaching and training? You're practicing
-wrong. I'm practicing right. I stay on topic, you don't. You said last
-what you should have said first. You said first what you should have
-said last. What you've thought so much about has been disproved. Your
-doctrine is refuted. Go on, save your doctrine! You're trapped; get
-yourself out of this---if you can!' Why is that? Because those
-discussions aren't beneficial or relevant to the fundamentals of the
-spiritual life. They don't lead to disillusionment, dispassion,
-cessation, peace, insight, awakening, and extinguishment.
+"Này các *Tỷ kheo*, đừng tham gia vào các cuộc tranh luận, chẳng hạn như: 'Ông không hiểu giáo pháp và giới luật này. Tôi hiểu giáo pháp và giới luật này. Sao, ông mà hiểu giáo pháp và giới luật này ư? Ông đang thực hành sai. Tôi đang thực hành đúng. Tôi nói đúng chủ đề, còn ông thì không. Điều ông nên nói trước thì lại nói sau. Điều ông nên nói sau thì lại nói trước. Những gì ông đã suy nghĩ rất nhiều đã bị bác bỏ. Học thuyết của ông đã bị réfuter. Cứ tiếp tục đi, hãy cứu lấy học thuyết của ông! Ông bị mắc kẹt rồi; hãy tự thoát ra khỏi đây—nếu ông có thể!' Tại sao vậy? Bởi vì những cuộc thảo luận đó không lợi ích, không liên quan đến những nền tảng của đời sống tâm linh. Chúng không dẫn đến *nhàm chán*, *ly tham*, *chấm dứt*, *an tịnh*, *hiểu biết trực tiếp*, *giác ngộ*, và *Niết bàn*.
 
-When you discuss, you should discuss: 'This is suffering' ... 'This is
-the origin of suffering' ... 'This is the cessation of suffering' ...
-'This is the practice that leads to the cessation of suffering'. ...
+Khi các vị thảo luận, hãy thảo luận rằng: 'Đây là *khổ*' ... 'Đây là nguồn gốc của *khổ*' ... 'Đây là sự chấm dứt *khổ*' ... 'Đây là con đường thực hành dẫn đến sự chấm dứt *khổ*'. ...
 
-That's why you should practice meditation ..."
+Vì vậy, các vị nên thực hành thiền định ..."
 
 <!--pg-->
-### N 56.10 Low Talk *Tiracchānakathāsutta*
+### N 56.10 Chuyện Phàm Tục *Kinh Tiracchānakathā*
 
-"Mendicants, don't engage in all kinds of low talk, such as talk about
-kings, bandits, and ministers; talk about armies, threats, and wars;
-talk about food, drink, clothes, and beds; talk about garlands and
-fragrances; talk about family, vehicles, villages, towns, cities, and
-countries; talk about women and heroes; street talk and talk at the
-well; talk about the departed; motley talk; tales of land and sea; and
-talk about being reborn in this or that place. Why is that? Because
-those discussions aren't beneficial or relevant to the fundamentals of
-the spiritual life. They don't lead to disillusionment, dispassion,
-cessation, peace, insight, awakening, and extinguishment.
+"Này các *Tỷ kheo*, đừng tham gia vào đủ loại chuyện phàm tục, chẳng hạn như chuyện về vua chúa, trộm cướp, và quan lại; chuyện về quân đội, các mối đe dọa, và chiến tranh; chuyện về thức ăn, đồ uống, quần áo, và giường ngủ; chuyện về vòng hoa và hương thơm; chuyện về gia đình, xe cộ, làng mạc, thị trấn, thành phố, và quốc gia; chuyện về phụ nữ và anh hùng; chuyện ngoài đường và chuyện bên giếng nước; chuyện về người đã khuất; chuyện phiếm; những câu chuyện về đất liền và biển cả; và chuyện về việc tái sinh ở nơi này hay nơi khác. Tại sao vậy? Bởi vì những cuộc thảo luận đó không lợi ích, không liên quan đến những nền tảng của đời sống tâm linh. Chúng không dẫn đến *nhàm chán*, *ly tham*, *chấm dứt*, *an tịnh*, *hiểu biết trực tiếp*, *giác ngộ*, và *Niết bàn*.
 
-When you discuss, you should discuss: 'This is suffering' ... 'This is
-the origin of suffering' ... 'This is the cessation of suffering' ...
-'This is the practice that leads to the cessation of suffering'. ...
+Khi các vị thảo luận, hãy thảo luận rằng: 'Đây là *khổ*' ... 'Đây là nguồn gốc của *khổ*' ... 'Đây là sự chấm dứt *khổ*' ... 'Đây là con đường thực hành dẫn đến sự chấm dứt *khổ*'. ...
 
-That's why you should practice meditation ..."
+Vì vậy, các vị nên thực hành thiền định ..."
 
 <!--pg-->
-## The Chapter on Rolling Forth the Wheel of Dhamma
+## Chương Về Chuyển Pháp Luân
 
-### N 56.11 Rolling Forth the Wheel of Dhamma *Dhammacakkappavattanasutta*
+### N 56.11 Chuyển Pháp Luân *Kinh Dhammacakkappavattana*
 
-At one time the Buddha was staying near Varanasi, in the deer park at
-Isipatana. There the Buddha addressed the group of five mendicants:
+Một thời, Đức Phật trú tại gần Varanasi, trong vườn Lộc Uyển ở Isipatana. Tại đó, Đức Phật nói với nhóm năm vị *Tỷ kheo*:
 
-"Mendicants, these two extremes should not be cultivated by one who has
-gone forth. What two? Indulgence in sensual pleasures, which is low,
-crude, ordinary, ignoble, and pointless. And indulgence in
-self-mortification, which is painful, ignoble, and pointless. Avoiding
-these two extremes, the Realized One understood the middle way of
-practice, which gives vision and knowledge, and leads to peace, direct
-knowledge, awakening, and extinguishment.
+"Này các *Tỷ kheo*, có hai thái cực này mà người xuất gia không nên thực hành. Hai thái cực nào? Sự đam mê hưởng thụ dục lạc, là thấp kém, thô thiển, tầm thường, không cao quý, và vô ích. Và sự đam mê khổ hạnh ép xác, là đau đớn, không cao quý, và vô ích. Tránh xa hai thái cực này, *Như Lai* (Realized One / Tathāgata / một danh hiệu của Đức Phật, có nghĩa là "người đã đến như vậy" hoặc "người đã đi như vậy", chỉ người đã đạt đến chân lý tối hậu) đã thấu hiểu con đường thực hành trung đạo, mang lại tuệ nhãn và tri kiến, dẫn đến *an tịnh*, *hiểu biết trực tiếp*, *giác ngộ*, và *Niết bàn*.
 
-And what is that middle way of practice? It is simply this noble
-eightfold path, that is: right view, right thought, right speech, right
-action, right livelihood, right effort, right mindfulness, and right
-immersion. This is that middle way of practice, which gives vision and
-knowledge, and leads to peace, direct knowledge, awakening, and
-extinguishment.
+Và con đường thực hành trung đạo đó là gì? Đó chính là *con đường tám yếu tố cao quý* (noble eightfold path / ariyo aṭṭhaṅgiko maggo / *bát chánh đạo* / con đường thực hành gồm tám phần để chấm dứt khổ) này, tức là: *Tầm nhìn thiện*, *Suy nghĩ thiện*, *Lời nói thiện*, *Hành động thiện*, *Nghề nghiệp thiện*, *Sự nỗ lực thiện*, *Niệm thiện*, và *Định thiện*. Đây chính là con đường thực hành trung đạo, mang lại tuệ nhãn và tri kiến, dẫn đến *an tịnh*, *hiểu biết trực tiếp*, *giác ngộ*, và *Niết bàn*.
 
-Now this is the noble truth of suffering. Rebirth is suffering; old age
-is suffering; illness is suffering; death is suffering; association with
-the disliked is suffering; separation from the liked is suffering; not
-getting what you wish for is suffering. In brief, the five grasping
-aggregates are suffering.
+Này, đây là sự thật cao quý về *khổ*. Tái sinh là *khổ*; già là *khổ*; bệnh là *khổ*; chết là *khổ*; gần người mình ghét là *khổ*; xa người mình thương là *khổ*; mong muốn mà không được là *khổ*. Tóm lại, *năm uẩn bám giữ* (five grasping aggregates / pañcupādānakkhandhā / năm nhóm yếu tố tạo thành một con người mà sự bám chấp vào chúng gây ra khổ) là *khổ*.
 
-Now this is the noble truth of the origin of suffering. It's the craving
-that leads to future lives, mixed up with relishing and greed, taking
-pleasure wherever it lands. That is, craving for sensual pleasures,
-craving to continue existence, and craving to end existence.
+Này, đây là sự thật cao quý về nguồn gốc của *khổ*. Đó là *sự khao khát* (craving / taṇhā / *ái* / sự ham muốn, thèm khát mãnh liệt) dẫn đến các kiếp sống tương lai, trộn lẫn với sự thích thú và tham lam, tìm kiếm lạc thú ở bất cứ đâu. Đó là, *khao khát thú vui giác quan* (craving for sensual pleasures / kāma-taṇhā / *dục ái* / sự thèm muốn các đối tượng của năm giác quan), *mong muốn tồn tại* (craving for continued existence / bhava-taṇhā / Hữu ái / sự khao khát được tiếp tục tồn tại, được tái sinh trong các cõi giới), và *khao khát chấm dứt tồn tại* (craving to end existence / vibhava-taṇhā / *phi hữu ái* / mong muốn không còn tồn tại, tự hủy diệt).
 
-Now this is the noble truth of the cessation of suffering. It's the
-fading away and cessation of that very same craving with nothing left
-over; giving it away, letting it go, releasing it, and not clinging to
-it.
+Này, đây là sự thật cao quý về sự chấm dứt *khổ*. Đó là sự phai nhạt và chấm dứt hoàn toàn chính *sự khao khát* đó không còn sót lại; từ bỏ nó, buông bỏ nó, giải thoát khỏi nó, và không bám víu vào nó.
 
-Now this is the noble truth of the practice that leads to the cessation
-of suffering. It is simply this noble eightfold path, that is: right
-view, right thought, right speech, right action, right livelihood, right
-effort, right mindfulness, and right immersion.
+Này, đây là sự thật cao quý về con đường thực hành dẫn đến sự chấm dứt *khổ*. Đó chính là *con đường tám yếu tố cao quý* này, tức là: *Tầm nhìn thiện*, *Suy nghĩ thiện*, *Lời nói thiện*, *Hành động thiện*, *Nghề nghiệp thiện*, *Sự nỗ lực thiện*, *Niệm thiện*, và *Định thiện*.
 
-'This is the noble truth of suffering.' Such was the vision, knowledge,
-wisdom, realization, and light that arose in me regarding teachings not
-learned before from another. 'This noble truth of suffering should be
-completely understood.' Such was the vision that arose in me ... 'This
-noble truth of suffering has been completely understood.' Such was the
-vision that arose in me ...
+'Đây là sự thật cao quý về *khổ*.' Tuệ nhãn, tri kiến, trí tuệ, sự chứng ngộ, và ánh sáng như vậy đã khởi lên trong ta về những giáo lý chưa từng được học từ ai trước đây. 'Sự thật cao quý về *khổ* này cần được *hiểu biết hoàn toàn* (complete understanding / pariññā / liễu tri / sự hiểu biết trọn vẹn, không còn nghi ngờ).' Tuệ nhãn như vậy đã khởi lên trong ta ... 'Sự thật cao quý về *khổ* này đã được *hiểu biết hoàn toàn*.' Tuệ nhãn như vậy đã khởi lên trong ta ...
 
-'This is the noble truth of the origin of suffering.' Such was the
-vision that arose in me ... 'This noble truth of the origin of suffering
-should be given up.' Such was the vision that arose in me ... 'This
-noble truth of the origin of suffering has been given up.' Such was the
-vision that arose in me ...
+'Đây là sự thật cao quý về nguồn gốc của *khổ*.' Tuệ nhãn như vậy đã khởi lên trong ta ... 'Sự thật cao quý về nguồn gốc của *khổ* này cần được từ bỏ.' Tuệ nhãn như vậy đã khởi lên trong ta ... 'Sự thật cao quý về nguồn gốc của *khổ* này đã được từ bỏ.' Tuệ nhãn như vậy đã khởi lên trong ta ...
 
-'This is the noble truth of the cessation of suffering.' Such was the
-vision that arose in me ... 'This noble truth of the cessation of
-suffering should be realized.' Such was the vision that arose in me ...
-'This noble truth of the cessation of suffering has been realized.' Such
-was the vision that arose in me ...
+'Đây là sự thật cao quý về sự chấm dứt *khổ*.' Tuệ nhãn như vậy đã khởi lên trong ta ... 'Sự thật cao quý về sự chấm dứt *khổ* này cần được chứng ngộ.' Tuệ nhãn như vậy đã khởi lên trong ta ... 'Sự thật cao quý về sự chấm dứt *khổ* này đã được chứng ngộ.' Tuệ nhãn như vậy đã khởi lên trong ta ...
 
-'This is the noble truth of the practice that leads to the cessation of
-suffering.' Such was the vision that arose in me ... 'This noble truth
-of the practice that leads to the cessation of suffering should be
-developed.' Such was the vision that arose in me ... 'This noble truth
-of the practice that leads to the cessation of suffering has been
-developed.' Such was the vision, knowledge, wisdom, realization, and
-light that arose in me regarding teachings not learned before from
-another.
+'Đây là sự thật cao quý về con đường thực hành dẫn đến sự chấm dứt *khổ*.' Tuệ nhãn như vậy đã khởi lên trong ta ... 'Sự thật cao quý về con đường thực hành dẫn đến sự chấm dứt *khổ* này cần được phát triển.' Tuệ nhãn như vậy đã khởi lên trong ta ... 'Sự thật cao quý về con đường thực hành dẫn đến sự chấm dứt *khổ* này đã được phát triển.' Tuệ nhãn, tri kiến, trí tuệ, sự chứng ngộ, và ánh sáng như vậy đã khởi lên trong ta về những giáo lý chưa từng được học từ ai trước đây.
 
-As long as my true knowledge and vision about these four noble truths
-was not fully purified in these three rounds and twelve aspects, I
-didn't announce my supreme perfect awakening in this world with its
-gods, Māras, and Divinities, this population with its
-ascetics and brahmins, its gods and humans.
+Chừng nào tri kiến chân thực của ta về *bốn sự thật cao quý* này chưa được thanh lọc hoàn toàn qua ba vòng và mười hai phương diện, ta đã không tuyên bố *giác ngộ hoàn hảo tối thượng* (supreme perfect awakening / anuttara sammāsambodhi / *vô thượng chánh đẳng chánh giác* / sự tỉnh thức viên mãn, không gì hơn) của mình trong thế giới này với các vị trời, Ma vương, và Phạm thiên, trong quần chúng này với các sa môn và bà la môn, các vị trời và loài người.
 
-But when my true knowledge and vision about these four noble truths was
-fully purified in these three rounds and twelve aspects, I announced my
-supreme perfect awakening in this world with its gods,
-Māras, and Divinities, this population with its ascetics
-and brahmins, its gods and humans.
+Nhưng khi tri kiến chân thực của ta về *bốn sự thật cao quý* này đã được thanh lọc hoàn toàn qua ba vòng và mười hai phương diện, ta đã tuyên bố *giác ngộ hoàn hảo tối thượng* của mình trong thế giới này với các vị trời, Ma vương, và Phạm thiên, trong quần chúng này với các sa môn và bà la môn, các vị trời và loài người.
 
-Knowledge and vision arose in me: 'My freedom is unshakable; this is my
-last rebirth; now there'll be no more future lives.'"
+Tri kiến và tuệ nhãn khởi lên trong ta: 'Sự giải thoát của ta là bất động; đây là lần tái sinh cuối cùng của ta; bây giờ sẽ không còn kiếp sống tương lai nào nữa.'"
 
-That is what the Buddha said. Satisfied, the group of five mendicants
-approved what the Buddha said.
+Đó là những gì Đức Phật đã nói. Nhóm năm vị *Tỷ kheo* hoan hỷ, tán thành những gì Đức Phật đã nói.
 
-And while this discourse was being spoken, the stainless, immaculate
-vision of the Dhamma arose in Venerable Koṇḍañña:
-"Everything that has a beginning has an end."
+Và trong khi bài pháp này đang được thuyết giảng, pháp nhãn không tì vết, không ô nhiễm đã khởi lên trong Tôn giả Koṇḍañña: "Phàm cái gì có sinh, ắt có diệt."
 
-And when the Buddha rolled forth the Wheel of Dhamma, the earth gods
-raised the cry: "Near Varanasi, in the deer park at Isipatana, the
-Buddha has rolled forth the supreme Wheel of Dhamma. And that wheel
-cannot be rolled back by any ascetic or brahmin or god or
-Māra or divinity or by anyone in the world."
+Và khi Đức Phật chuyển bánh xe Pháp, các vị địa thần cất tiếng reo: "Gần Varanasi, trong vườn Lộc Uyển ở Isipatana, Đức Phật đã chuyển bánh xe Pháp tối thượng. Và bánh xe đó không thể bị quay ngược lại bởi bất kỳ sa môn, bà la môn, thiên thần, Ma vương, Phạm thiên hay bất kỳ ai trên thế gian."
 
-Hearing the cry of the earth gods, the gods of the four great kings ...
-the gods of the thirty-three ... the gods of Yama ... the joyful gods
-... the gods who love to imagine ... the gods who control what is
-imagined by others ... the gods of the Divinity's host raised the cry:
-"Near Varanasi, in the deer park at Isipatana, the Buddha has rolled
-forth the supreme Wheel of Dhamma. And that wheel cannot be rolled back
-by any ascetic or brahmin or god or Māra or divinity or by
-anyone in the world."
+Nghe tiếng reo của các vị địa thần, các vị trời của Tứ Đại Thiên Vương ... các vị trời ở cõi Ba Mươi Ba ... các vị trời của Dạ Ma ... các vị trời Đâu Suất ... các vị trời Hóa Lạc ... các vị trời Tha Hóa Tự Tại ... các vị trời trong cõi Phạm Thiên cất tiếng reo: "Gần Varanasi, trong vườn Lộc Uyển ở Isipatana, Đức Phật đã chuyển bánh xe Pháp tối thượng. Và bánh xe đó không thể bị quay ngược lại bởi bất kỳ sa môn, bà la môn, thiên thần, Ma vương, Phạm thiên hay bất kỳ ai trên thế gian."
 
-And so at that moment, that second, that hour, the cry soared up to the
-realm of divinity. And this ten-thousandfold galaxy shook and rocked and
-trembled. And an immeasurable, magnificent light appeared in the world,
-surpassing the glory of the gods.
+Và thế là vào khoảnh khắc đó, giây phút đó, giờ phút đó, tiếng reo vang lên đến cõi Phạm Thiên. Và thiên hà mười nghìn thế giới này rung chuyển, chấn động và lay động. Và một ánh sáng vô lượng, huy hoàng xuất hiện trên thế gian, vượt qua cả vinh quang của các vị trời.
 
-Then the Buddha expressed this heartfelt sentiment:
-"Koṇḍañña has really understood! Koṇḍañña has
-really understood!"
+Rồi Đức Phật thốt lên lời cảm thán từ đáy lòng: "Koṇḍañña đã thực sự hiểu! Koṇḍañña đã thực sự hiểu!"
 
-And that's how Venerable Koṇḍañña came to be known as
-"Koṇḍañña Who Understood".
+Và đó là cách Tôn giả Koṇḍañña được biết đến với cái tên "Koṇḍañña Người Đã Hiểu".
 
 <!--pg-->
-### N 56.12 The Realized Ones *Tathāgatasutta*
+### N 56.12 Các Bậc Như Lai *Kinh Tathāgata*
 
-"'This is the noble truth of suffering.' Such was the vision, knowledge,
-wisdom, realization, and light that arose in the Realized Ones regarding
-teachings not learned before from another. 'This noble truth of
-suffering should be completely understood.' ... 'This noble truth of
-suffering has been completely understood.' ...
+"'Đây là sự thật cao quý về *khổ*.' Tuệ nhãn, tri kiến, trí tuệ, sự chứng ngộ, và ánh sáng như vậy đã khởi lên trong các bậc *Như Lai* về những giáo lý chưa từng được học từ ai trước đây. 'Sự thật cao quý về *khổ* này cần được *hiểu biết hoàn toàn*.' ... 'Sự thật cao quý về *khổ* này đã được *hiểu biết hoàn toàn*.' ...
 
-'This is the noble truth of the origin of suffering.' ... 'This noble
-truth of the origin of suffering should be given up.' ... 'This noble
-truth of the origin of suffering has been given up.' ...
+'Đây là sự thật cao quý về nguồn gốc của *khổ*.' ... 'Sự thật cao quý về nguồn gốc của *khổ* này cần được từ bỏ.' ... 'Sự thật cao quý về nguồn gốc của *khổ* này đã được từ bỏ.' ...
 
-'This is the noble truth of the cessation of suffering.' ... 'This noble
-truth of the cessation of suffering should be realized.' ... 'This noble
-truth of the cessation of suffering has been realized.' ...
+'Đây là sự thật cao quý về sự chấm dứt *khổ*.' ... 'Sự thật cao quý về sự chấm dứt *khổ* này cần được chứng ngộ.' ... 'Sự thật cao quý về sự chấm dứt *khổ* này đã được chứng ngộ.' ...
 
-'This is the noble truth of the practice that leads to the cessation of
-suffering.' ... 'This noble truth of the practice that leads to the
-cessation of suffering should be developed.' ... 'This noble truth of
-the practice that leads to the cessation of suffering has been
-developed.' Such was the vision, knowledge, wisdom, realization, and
-light that arose in the Realized Ones regarding teachings not learned
-before from another."
+'Đây là sự thật cao quý về con đường thực hành dẫn đến sự chấm dứt *khổ*.' ... 'Sự thật cao quý về con đường thực hành dẫn đến sự chấm dứt *khổ* này cần được phát triển.' ... 'Sự thật cao quý về con đường thực hành dẫn đến sự chấm dứt *khổ* này đã được phát triển.' Tuệ nhãn, tri kiến, trí tuệ, sự chứng ngộ, và ánh sáng như vậy đã khởi lên trong các bậc *Như Lai* về những giáo lý chưa từng được học từ ai trước đây."
 
 <!--pg-->
-### N 56.13 Aggregates *Khandhasutta*
+### N 56.13 Các Uẩn *Kinh Khandha*
 
-"Mendicants, there are these four noble truths. What four? The noble
-truths of suffering, the origin of suffering, the cessation of
-suffering, and the practice that leads to the cessation of suffering.
+"Này các *Tỷ kheo*, có *bốn sự thật cao quý* này. Bốn điều đó là gì? Các sự thật cao quý về *khổ*, nguồn gốc của *khổ*, sự chấm dứt *khổ*, và con đường thực hành dẫn đến sự chấm dứt *khổ*.
 
-And what is the noble truth of suffering? You should say: 'The five
-grasping aggregates'. That is: form, feeling, perception, choices, and
-consciousness. This is called the noble truth of suffering.
+Và sự thật cao quý về *khổ* là gì? Các vị nên nói: '*Năm uẩn bám giữ*'. Đó là: *Cơ thể, cảm giác, nhận thức, hành động, và thức* (Form, feeling, perception, choices, and consciousness / rūpa, vedanā, saññā, saṅkhāra, viññāṇa / Sắc, thọ, tưởng, hành, thức / năm nhóm yếu tố cấu thành nên một con người). Đây được gọi là sự thật cao quý về *khổ*.
 
-And what is the noble truth of the origin of suffering? It's the craving
-that leads to future lives, mixed up with relishing and greed, taking
-pleasure wherever it lands. That is, craving for sensual pleasures,
-craving to continue existence, and craving to end existence. This is
-called the noble truth of the origin of suffering.
+Và sự thật cao quý về nguồn gốc của *khổ* là gì? Đó là *sự khao khát* dẫn đến các kiếp sống tương lai, trộn lẫn với sự thích thú và tham lam, tìm kiếm lạc thú ở bất cứ đâu. Đó là, *khao khát thú vui giác quan*, *mong muốn tồn tại*, và *khao khát chấm dứt tồn tại*. Đây được gọi là sự thật cao quý về nguồn gốc của *khổ*.
 
-And what is the noble truth of the cessation of suffering? It's the
-fading away and cessation of that very same craving with nothing left
-over; giving it away, letting it go, releasing it, and not clinging to
-it. This is called the noble truth of the cessation of suffering.
+Và sự thật cao quý về sự chấm dứt *khổ* là gì? Đó là sự phai nhạt và chấm dứt hoàn toàn chính *sự khao khát* đó không còn sót lại; từ bỏ nó, buông bỏ nó, giải thoát khỏi nó, và không bám víu vào nó. Đây được gọi là sự thật cao quý về sự chấm dứt *khổ*.
 
-And what is the noble truth of the practice that leads to the cessation
-of suffering? It is simply this noble eightfold path, that is: right
-view, right thought, right speech, right action, right livelihood, right
-effort, right mindfulness, and right immersion. This is called the noble
-truth of the practice that leads to the cessation of suffering. These
-are the four noble truths.
+Và sự thật cao quý về con đường thực hành dẫn đến sự chấm dứt *khổ* là gì? Đó chính là *con đường tám yếu tố cao quý* này, tức là: *Tầm nhìn thiện*, *Suy nghĩ thiện*, *Lời nói thiện*, *Hành động thiện*, *Nghề nghiệp thiện*, *Sự nỗ lực thiện*, *Niệm thiện*, và *Định thiện*. Đây được gọi là sự thật cao quý về con đường thực hành dẫn đến sự chấm dứt *khổ*. Đây là *bốn sự thật cao quý*.
 
-That's why you should practice meditation ..."
+Vì vậy, các vị nên thực hành thiền định ..."
 
 <!--pg-->
-### N 56.14 Interior Sense Fields *Ajjhattikāyatanasutta*
+### N 56.14 Các Căn Nội Tại *Kinh Ajjhattikāyatana*
 
-"Mendicants, there are these four noble truths. What four? The noble
-truths of suffering, the origin of suffering, the cessation of
-suffering, and the practice that leads to the cessation of suffering.
+"Này các *Tỷ kheo*, có *bốn sự thật cao quý* này. Bốn điều đó là gì? Các sự thật cao quý về *khổ*, nguồn gốc của *khổ*, sự chấm dứt *khổ*, và con đường thực hành dẫn đến sự chấm dứt *khổ*.
 
-And what is the noble truth of suffering? You should say: 'The six
-interior sense fields'. What six? The sense fields of the eye, ear,
-nose, tongue, body, and mind. This is called the noble truth of
-suffering. ..."
+Và sự thật cao quý về *khổ* là gì? Các vị nên nói: '*Sáu trường tiếp xúc nội tại* (six interior sense fields / saḷāyatana / *lục nhập* / sáu cơ quan cảm giác bên trong: mắt, tai, mũi, lưỡi, thân, và ý)'. Sáu điều đó là gì? Các *trường tiếp xúc* của mắt, tai, mũi, lưỡi, thân, và *trí não và ý nghĩ*. Đây được gọi là sự thật cao quý về *khổ*. ..."
 
 <!--pg-->
-### N 56.15 Remembering (1st) *Paṭhamadhāraṇasutta*
+### N 56.15 Ghi Nhớ (Thứ Nhất) *Kinh Paṭhamadhāraṇa*
 
-"Mendicants, do you remember the four noble truths that I taught?" When
-he said this, one of the mendicants said to the Buddha:
+"Này các *Tỷ kheo*, các vị có nhớ *bốn sự thật cao quý* mà ta đã dạy không?" Khi ngài nói vậy, một trong các *Tỷ kheo* thưa với Đức Phật:
 
-"I do, sir."
+"Bạch Thế Tôn, con có nhớ."
 
-"How so, mendicant?"
+"Vậy sao, này *Tỷ kheo*?"
 
-"Sir, I remember that suffering is the first noble truth you've taught;
-the origin of suffering is the second; the cessation of suffering is the
-third; and the practice that leads to the cessation of suffering is the
-fourth. That's how I remember the four noble truths as you've taught
-them."
+"Bạch Thế Tôn, con nhớ rằng *khổ* là sự thật cao quý thứ nhất mà ngài đã dạy; nguồn gốc của *khổ* là thứ hai; sự chấm dứt *khổ* là thứ ba; và con đường thực hành dẫn đến sự chấm dứt *khổ* là thứ tư. Đó là cách con nhớ về *bốn sự thật cao quý* như ngài đã dạy."
 
-"Good, good, mendicant! It's good that you remember the four noble
-truths as I've taught them. Suffering is the first noble truth I've
-taught, and that's how you should remember it. The origin of suffering
-is the second; the cessation of suffering is the third; and the practice
-that leads to the cessation of suffering is the fourth. That's how you
-should remember the four noble truths as I've taught them.
+"Lành thay, lành thay, này *Tỷ kheo*! Thật tốt khi con nhớ *bốn sự thật cao quý* như ta đã dạy. *Khổ* là sự thật cao quý thứ nhất ta đã dạy, và đó là cách con nên nhớ. Nguồn gốc của *khổ* là thứ hai; sự chấm dứt *khổ* là thứ ba; và con đường thực hành dẫn đến sự chấm dứt *khổ* là thứ tư. Đó là cách con nên nhớ về *bốn sự thật cao quý* như ta đã dạy.
 
-That's why you should practice meditation ..."
+Vì vậy, các vị nên thực hành thiền định ..."
 
 <!--pg-->
-### N 56.16 Remembering (2nd) *Dutiyadhāraṇasutta*
+### N 56.16 Ghi Nhớ (Thứ Hai) *Kinh Dutiyadhāraṇa*
 
-"Mendicants, do you remember the four noble truths that I taught?" When
-he said this, one of the mendicants said to the Buddha:
+"Này các *Tỷ kheo*, các vị có nhớ *bốn sự thật cao quý* mà ta đã dạy không?" Khi ngài nói vậy, một trong các *Tỷ kheo* thưa với Đức Phật:
 
-"I do, sir."
+"Bạch Thế Tôn, con có nhớ."
 
-"How so, mendicant?"
+"Vậy sao, này *Tỷ kheo*?"
 
-"Sir, I remember that suffering is the first noble truth you've taught.
-For if any ascetic or brahmin should say this: 'What the ascetic Gotama
-teaches is not the first noble truth of suffering. I'll reject this
-first noble truth of suffering and describe another first noble truth of
-suffering.' That is not possible. The origin of suffering ... The
-cessation of suffering ... The practice that leads to the cessation of
-suffering is the fourth noble truth you've taught. For if any ascetic or
-brahmin should say this: 'What the ascetic Gotama teaches is not the
-fourth noble truth of the practice that leads to the cessation of
-suffering. I'll reject this fourth noble truth of the practice that
-leads to the cessation of suffering and describe another fourth noble
-truth of the practice that leads to the cessation of suffering.' That is
-not possible. That's how I remember the four noble truths as you've
-taught them."
+"Bạch Thế Tôn, con nhớ rằng *khổ* là sự thật cao quý thứ nhất mà ngài đã dạy. Vì nếu có bất kỳ sa môn hay bà la môn nào nói rằng: 'Điều mà sa môn Gotama dạy không phải là sự thật cao quý thứ nhất về *khổ*. Ta sẽ bác bỏ sự thật cao quý thứ nhất về *khổ* này và mô tả một sự thật cao quý thứ nhất khác về *khổ*.' Điều đó là không thể. Nguồn gốc của *khổ* ... Sự chấm dứt *khổ* ... Con đường thực hành dẫn đến sự chấm dứt *khổ* là sự thật cao quý thứ tư mà ngài đã dạy. Vì nếu có bất kỳ sa môn hay bà la môn nào nói rằng: 'Điều mà sa môn Gotama dạy không phải là sự thật cao quý thứ tư về con đường thực hành dẫn đến sự chấm dứt *khổ*. Ta sẽ bác bỏ sự thật cao quý thứ tư về con đường thực hành dẫn đến sự chấm dứt *khổ* này và mô tả một sự thật cao quý thứ tư khác về con đường thực hành dẫn đến sự chấm dứt *khổ*.' Điều đó là không thể. Đó là cách con nhớ về *bốn sự thật cao quý* như ngài đã dạy."
 
-"Good, good, mendicant! It's good that you remember the four noble
-truths as I've taught them. Suffering is the first noble truth I've
-taught, and that's how you should remember it. For if any ascetic or
-brahmin should say this: 'What the ascetic Gotama teaches is not the
-first noble truth of suffering. I'll reject this first noble truth of
-suffering and describe another first noble truth of suffering.' That is
-not possible. The origin of suffering ... The cessation of suffering ...
-The practice that leads to the cessation of suffering is the fourth
-noble truth I've taught, and that's how you should remember it. For if
-any ascetic or brahmin should say this: 'What the ascetic Gotama teaches
-is not the fourth noble truth of the practice that leads to the
-cessation of suffering. I'll reject this fourth noble truth of the
-practice that leads to the cessation of suffering and describe another
-fourth noble truth of the practice that leads to the cessation of
-suffering.' That is not possible. That's how you should remember the
-four noble truths as I've taught them.
+"Lành thay, lành thay, này *Tỷ kheo*! Thật tốt khi con nhớ *bốn sự thật cao quý* như ta đã dạy. *Khổ* là sự thật cao quý thứ nhất ta đã dạy, và đó là cách con nên nhớ. Vì nếu có bất kỳ sa môn hay bà la môn nào nói rằng: 'Điều mà sa môn Gotama dạy không phải là sự thật cao quý thứ nhất về *khổ*. Ta sẽ bác bỏ sự thật cao quý thứ nhất về *khổ* này và mô tả một sự thật cao quý thứ nhất khác về *khổ*.' Điều đó là không thể. Nguồn gốc của *khổ* ... Sự chấm dứt *khổ* ... Con đường thực hành dẫn đến sự chấm dứt *khổ* là sự thật cao quý thứ tư ta đã dạy, và đó là cách con nên nhớ. Vì nếu có bất kỳ sa môn hay bà la môn nào nói rằng: 'Điều mà sa môn Gotama dạy không phải là sự thật cao quý thứ tư về con đường thực hành dẫn đến sự chấm dứt *khổ*. Ta sẽ bác bỏ sự thật cao quý thứ tư về con đường thực hành dẫn đến sự chấm dứt *khổ* này và mô tả một sự thật cao quý thứ tư khác về con đường thực hành dẫn đến sự chấm dứt *khổ*.' Điều đó là không thể. Đó là cách con nên nhớ về *bốn sự thật cao quý* như ta đã dạy.
 
-That's why you should practice meditation ..."
+Vì vậy, các vị nên thực hành thiền định ..."
 
 <!--pg-->
-### N 56.17 Ignorance *Avijjāsutta*
+### N 56.17 Vô Minh *Kinh Avijjā*
 
-Seated to one side, that mendicant said to the Buddha:
+Ngồi một bên, vị *Tỷ kheo* đó thưa với Đức Phật:
 
-"Sir, they speak of this thing called 'ignorance'. What is ignorance?
-And how is an ignorant person defined?"
+"Bạch Thế Tôn, người ta nói về một thứ gọi là '*vô minh*'. *Vô minh* (ignorance / avijjā / sự không biết, không thấy rõ bốn sự thật cao quý) là gì? Và làm thế nào để xác định một người *vô minh*?"
 
-"Not knowing about suffering, the origin of suffering, the cessation of
-suffering, and the practice that leads to the cessation of suffering.
-This is called ignorance. And this is how an ignorant person is defined.
+"Không biết về *khổ*, nguồn gốc của *khổ*, sự chấm dứt *khổ*, và con đường thực hành dẫn đến sự chấm dứt *khổ*. Đây được gọi là *vô minh*. Và đây là cách một người *vô minh* được xác định.
 
-That's why you should practice meditation ..."
+Vì vậy, các vị nên thực hành thiền định ..."
 
 <!--pg-->
-### N 56.18 Knowledge *Vijjāsutta*
+### N 56.18 Minh *Kinh Vijjā*
 
-Then a mendicant went up to the Buddha, bowed, sat down to one side, and
-said to him:
+Rồi một vị *Tỷ kheo* đến gặp Đức Phật, đảnh lễ, ngồi xuống một bên và thưa với ngài:
 
-"Sir, they speak of this thing called 'knowledge'. What is knowledge?
-And how is a knowledgeable person defined?"
+"Bạch Thế Tôn, người ta nói về một thứ gọi là '*minh*'. *Minh* (knowledge / vijjā / sự biết, sự thấy rõ bốn sự thật cao quý) là gì? Và làm thế nào để xác định một người có *minh*?"
 
-"Knowing about suffering, the origin of suffering, the cessation of
-suffering, and the practice that leads to the cessation of suffering.
-This is called knowledge. And this is how a knowledgeable person is
-defined.
+"Biết về *khổ*, nguồn gốc của *khổ*, sự chấm dứt *khổ*, và con đường thực hành dẫn đến sự chấm dứt *khổ*. Đây được gọi là *minh*. Và đây là cách một người có *minh* được xác định.
 
-That's why you should practice meditation ..."
+Vì vậy, các vị nên thực hành thiền định ..."
 
 <!--pg-->
-### N 56.19 Expressions *Saṅkāsanasutta*
+### N 56.19 Các Cách Diễn Đạt *Kinh Saṅkāsana*
 
-"Mendicants, I've declared: 'This is the noble truth of suffering.' And
-there are limitless explanations, phrases, and expressions about that:
-'This is another way of saying that this is the noble truth of
-suffering.' I've declared: 'This is the noble truth of the origin of
-suffering.' ... I've declared: 'This is the noble truth of the cessation
-of suffering.' ... I've declared: 'This is the noble truth of the
-practice that leads to the cessation of suffering.' And there are
-limitless explanations, phrases, and expressions about that: 'This is
-another way of saying that this is the noble truth of the practice that
-leads to the cessation of suffering.'
+"Này các *Tỷ kheo*, ta đã tuyên bố: 'Đây là sự thật cao quý về *khổ*.' Và có vô số cách giải thích, cụm từ, và cách diễn đạt về điều đó: 'Đây là một cách nói khác rằng đây là sự thật cao quý về *khổ*.' Ta đã tuyên bố: 'Đây là sự thật cao quý về nguồn gốc của *khổ*.' ... Ta đã tuyên bố: 'Đây là sự thật cao quý về sự chấm dứt *khổ*.' ... Ta đã tuyên bố: 'Đây là sự thật cao quý về con đường thực hành dẫn đến sự chấm dứt *khổ*.' Và có vô số cách giải thích, cụm từ, và cách diễn đạt về điều đó: 'Đây là một cách nói khác rằng đây là sự thật cao quý về con đường thực hành dẫn đến sự chấm dứt *khổ*.'
 
-That's why you should practice meditation ..."
+Vì vậy, các vị nên thực hành thiền định ..."
 
 <!--pg-->
-### N 56.20 Real *Tathasutta*
+### N 56.20 Chân Thật *Kinh Tatha*
 
-"Mendicants, these four things are real, not unreal, not otherwise. What
-four? 'This is suffering' ... 'This is the origin of suffering' ...
-'This is the cessation of suffering' ... 'This is the practice that
-leads to the cessation of suffering' ... These four things are real, not
-unreal, not otherwise.
+"Này các *Tỷ kheo*, bốn điều này là chân thật, không phải không thật, không phải khác đi. Bốn điều đó là gì? 'Đây là *khổ*' ... 'Đây là nguồn gốc của *khổ*' ... 'Đây là sự chấm dứt *khổ*' ... 'Đây là con đường thực hành dẫn đến sự chấm dứt *khổ*' ... Bốn điều này là chân thật, không phải không thật, không phải khác đi.
 
-That's why you should practice meditation ..."
+Vì vậy, các vị nên thực hành thiền định ..."
 
 <!--pg-->
-## The Chapter at the Village of Koṭi
+## Chương Tại Làng Koṭi
 
-### N 56.21 At the Village of Koṭi (1st) *Paṭhamakoṭigāmasutta*
+### N 56.21 Tại Làng Koṭi (Thứ Nhất) *Kinh Paṭhamakoṭigāma*
 
-At one time the Buddha was staying in the land of the Vajjis at the
-village of Koṭi. There the Buddha addressed the mendicants:
-"Mendicants, due to not understanding and not penetrating four noble
-truths, both you and I have wandered and transmigrated for such a very
-long time.
+Một thời, Đức Phật đang ở trong xứ của người Vajjī tại làng Koṭi. Tại đó, Đức Phật nói với các *Tỷ kheo*: "Này các *Tỷ kheo*, do không hiểu và không thâm nhập được *bốn sự thật cao quý*, cả các vị và ta đã lang thang và luân hồi trong một thời gian rất dài.
 
-What four? The noble truths of suffering, the origin of suffering, the
-cessation of suffering, and the practice that leads to the cessation of
-suffering. These noble truths of suffering, origin, cessation, and the
-path have been understood and comprehended. Craving for continued
-existence has been cut off; the conduit to rebirth is ended; now
-there'll be no more future lives."
+Bốn điều đó là gì? Các sự thật cao quý về *khổ*, nguồn gốc của *khổ*, sự chấm dứt *khổ*, và con đường thực hành dẫn đến sự chấm dứt *khổ*. Những sự thật cao quý này về *khổ*, nguồn gốc, sự chấm dứt, và con đường đã được hiểu và thấu triệt. *Mong muốn tồn tại* đã bị cắt đứt; con đường dẫn đến tái sinh đã chấm dứt; bây giờ sẽ không còn kiếp sống tương lai nào nữa."
 
-That is what the Buddha said. Then the Holy One, the Teacher, went on to
-say:
+Đó là những gì Đức Phật đã nói. Rồi Bậc Thánh, vị Thầy, nói tiếp:
 
-> "Because of not truly seeing\
-> the four noble truths,\
-> we have transmigrated for a long time\
-> from one rebirth to the next.
+> "Vì không thấy được chân thật
+> bốn sự thật cao quý,
+> chúng ta đã luân hồi trong một thời gian dài
+> từ kiếp này sang kiếp khác.
 >
-> But now that these truths have been seen,\
-> the conduit to rebirth is eradicated.\
-> The root of suffering is cut off,\
-> now there'll be no more future lives."
+> Nhưng nay những sự thật này đã được thấy,
+> con đường dẫn đến tái sinh đã bị diệt trừ.
+> Gốc rễ của *khổ* đã bị cắt đứt,
+> bây giờ sẽ không còn kiếp sống tương lai nào nữa."
 
 <!--pg-->
-### N 56.22 At the Village of Koṭi (2nd) *Dutiyakoṭigāmasutta*
+### N 56.22 Tại Làng Koṭi (Thứ Hai) *Kinh Dutiyakoṭigāma*
 
-"Mendicants, there are ascetics and brahmins who don't truly understand
-about suffering, its origin, its cessation, and the path. I don't deem
-them as true ascetics and brahmins. Those venerables don't realize the
-goal of life as an ascetic or brahmin, and don't live having realized it
-with their own insight.
+"Này các *Tỷ kheo*, có những sa môn và bà la môn không *biết như thật* về *khổ*, nguồn gốc của nó, sự chấm dứt của nó, và con đường. Ta không coi họ là những sa môn và bà la môn chân chính. Những vị tôn giả đó không nhận ra mục tiêu của đời sống sa môn hay bà la môn, và không sống sau khi đã nhận ra nó bằng tuệ giác của chính mình.
 
-There are ascetics and brahmins who do truly understand about suffering,
-its origin, its cessation, and the path. I deem them as true ascetics
-and brahmins. Those venerables realize the goal of life as an ascetic or
-brahmin, and live having realized it with their own insight."
+Có những sa môn và bà la môn *biết như thật* về *khổ*, nguồn gốc của nó, sự chấm dứt của nó, và con đường. Ta coi họ là những sa môn và bà la môn chân chính. Những vị tôn giả đó nhận ra mục tiêu của đời sống sa môn hay bà la môn, và sống sau khi đã nhận ra nó bằng tuệ giác của chính mình."
 
-That is what the Buddha said. Then the Holy One, the Teacher, went on to
-say:
+Đó là những gì Đức Phật đã nói. Rồi Bậc Thánh, vị Thầy, nói tiếp:
 
-> "There are those who don't understand suffering\
-> and suffering's cause,\
-> and where all suffering\
-> ceases with nothing left over.
+> "Có những người không hiểu *khổ*
+> và nguyên nhân của *khổ*,
+> và nơi mà mọi *khổ*
+> chấm dứt không còn sót lại.
 >
-> And they do not know the path\
-> that leads to the stilling of suffering.\
-> They lack the heart's release,\
-> as well as the release by wisdom.\
-> Unable to make an end,\
-> they continue to be reborn and grow old.
+> Và họ không biết con đường
+> dẫn đến sự lắng dịu của *khổ*.
+> Họ thiếu *tâm giải thoát* (the heart's release / ceto-vimutti / sự giải thoát của tâm khỏi tham ái),
+> cũng như *tuệ giải thoát* (release by wisdom / paññā-vimutti / sự giải thoát nhờ trí tuệ, đoạn trừ vô minh).
+> Không thể chấm dứt,
+> họ tiếp tục tái sinh và già đi.
 >
-> But there are those who understand suffering\
-> and suffering's cause,\
-> and where all suffering\
-> ceases with nothing left over.
+> Nhưng có những người hiểu *khổ*
+> và nguyên nhân của *khổ*,
+> và nơi mà mọi *khổ*
+> chấm dứt không còn sót lại.
 >
-> And they understand the path\
-> that leads to the stilling of suffering.\
-> They're endowed with the heart's release,\
-> as well as the release by wisdom.\
-> Able to make an end,\
-> they don't continue to be reborn and grow old."
+> Và họ hiểu con đường
+> dẫn đến sự lắng dịu của *khổ*.
+> Họ được trang bị *tâm giải thoát*,
+> cũng như *tuệ giải thoát*.
+> Có thể chấm dứt,
+> họ không tiếp tục tái sinh và già đi."
 
 <!--pg-->
-### N 56.23 The Fully Awakened Buddha *Sammāsambuddhasutta*
+### N 56.23 Đức Phật Toàn Giác *Kinh Sammāsambuddha*
 
-At Sāvatthī.
+Tại Sāvatthī.
 
-"Mendicants, there are these four noble truths. What four? The noble
-truths of suffering, the origin of suffering, the cessation of
-suffering, and the practice that leads to the cessation of suffering.
-These are the four noble truths. It is because he has truly understood
-these four noble truths that the Realized One is called 'the perfected
-one, the fully awakened Buddha'.
+"Này các *Tỷ kheo*, có *bốn sự thật cao quý* này. Bốn điều đó là gì? Các sự thật cao quý về *khổ*, nguồn gốc của *khổ*, sự chấm dứt *khổ*, và con đường thực hành dẫn đến sự chấm dứt *khổ*. Đây là *bốn sự thật cao quý*. Chính vì đã *biết như thật* về *bốn sự thật cao quý* này mà *Như Lai* được gọi là 'bậc hoàn thiện, Đức Phật toàn giác'.
 
-That's why you should practice meditation ..."
+Vì vậy, các vị nên thực hành thiền định ..."
 
 <!--pg-->
-### N 56.24 The Perfected Ones *Arahantasutta*
+### N 56.24 Các Bậc Hoàn Thiện *Kinh Arahanta*
 
-At Sāvatthī.
+Tại Sāvatthī.
 
-"Mendicants, whatever perfected ones, fully awakened Buddhas truly wake
-up---in the past, future, or present---all of them truly wake up to the
-four noble truths.
+"Này các *Tỷ kheo*, bất kỳ bậc hoàn thiện nào, các Đức Phật toàn giác thực sự tỉnh thức—trong quá khứ, tương lai, hay hiện tại—tất cả họ đều thực sự tỉnh thức về *bốn sự thật cao quý*.
 
-What four? The noble truths of suffering, the origin of suffering, the
-cessation of suffering, and the practice that leads to the cessation of
-suffering. Whatever perfected ones, fully awakened Buddhas truly wake
-up---in the past, future, or present---all of them truly wake up to the
-four noble truths.
+Bốn điều đó là gì? Các sự thật cao quý về *khổ*, nguồn gốc của *khổ*, sự chấm dứt *khổ*, và con đường thực hành dẫn đến sự chấm dứt *khổ*. Bất kỳ bậc hoàn thiện nào, các Đức Phật toàn giác thực sự tỉnh thức—trong quá khứ, tương lai, hay hiện tại—tất cả họ đều thực sự tỉnh thức về *bốn sự thật cao quý*.
 
-That's why you should practice meditation ..."
+Vì vậy, các vị nên thực hành thiền định ..."
 
 <!--pg-->
-### N 56.25 The Ending of Defilements *Āsavakkhayasutta*
+### N 56.25 Sự Chấm Dứt Các Ô Nhiễm *Kinh Āsavakkhaya*
 
-"Mendicants, I say that the ending of defilements is for one who knows
-and sees, not for one who does not know or see. For one who knows and
-sees what? The ending of defilements is for one who knows and sees
-suffering, its origin, its cessation, and the path. The ending of the
-defilements is for one who knows and sees this.
+"Này các *Tỷ kheo*, ta nói rằng sự chấm dứt các *ô nhiễm* (defilements / āsava / *lậu hoặc* / những ô nhiễm tinh thần sâu kín làm rò rỉ năng lượng tâm linh và trói buộc vào luân hồi) là dành cho người biết và thấy, không phải cho người không biết hay không thấy. Dành cho người biết và thấy điều gì? Sự chấm dứt các *ô nhiễm* là dành cho người biết và thấy *khổ*, nguồn gốc của nó, sự chấm dứt của nó, và con đường. Sự chấm dứt các *ô nhiễm* là dành cho người biết và thấy điều này.
 
-That's why you should practice meditation ..."
+Vì vậy, các vị nên thực hành thiền định ..."
 
 <!--pg-->
-### N 56.26 Friends *Mittasutta*
+### N 56.26 Bạn Bè *Kinh Mitta*
 
-"Mendicants, those who you have sympathy for, and those worth listening
-to---friends and colleagues, relatives and family---should be
-encouraged, supported, and established in the true comprehension of the
-four noble truths.
+"Này các *Tỷ kheo*, những người mà các vị có lòng cảm thông, và những người đáng lắng nghe—bạn bè và đồng nghiệp, họ hàng và gia đình—nên được khuyến khích, hỗ trợ, và thiết lập trong sự hiểu biết chân thật về *bốn sự thật cao quý*.
 
-What four? The noble truths of suffering, the origin of suffering, the
-cessation of suffering, and the practice that leads to the cessation of
-suffering. Those who you have sympathy for, and those worth listening
-to---friends and colleagues, relatives and family---should be
-encouraged, supported, and established in the true comprehension of
-these four noble truths.
+Bốn điều đó là gì? Các sự thật cao quý về *khổ*, nguồn gốc của *khổ*, sự chấm dứt *khổ*, và con đường thực hành dẫn đến sự chấm dứt *khổ*. Những người mà các vị có lòng cảm thông, và những người đáng lắng nghe—bạn bè và đồng nghiệp, họ hàng và gia đình—nên được khuyến khích, hỗ trợ, và thiết lập trong sự hiểu biết chân thật về *bốn sự thật cao quý* này.
 
-That's why you should practice meditation ..."
+Vì vậy, các vị nên thực hành thiền định ..."
 
 <!--pg-->
-### N 56.27 Real *Tathasutta*
+### N 56.27 Chân Thật *Kinh Tatha*
 
-"Mendicants, there are these four noble truths. What four? The noble
-truths of suffering, the origin of suffering, the cessation of
-suffering, and the practice that leads to the cessation of suffering.
-These four noble truths are real, not unreal, not otherwise. That's why
-they're called 'noble truths'.
+"Này các *Tỷ kheo*, có *bốn sự thật cao quý* này. Bốn điều đó là gì? Các sự thật cao quý về *khổ*, nguồn gốc của *khổ*, sự chấm dứt *khổ*, và con đường thực hành dẫn đến sự chấm dứt *khổ*. *Bốn sự thật cao quý* này là chân thật, không phải không thật, không phải khác đi. Đó là lý do tại sao chúng được gọi là 'sự thật cao quý'.
 
-That's why you should practice meditation ..."
+Vì vậy, các vị nên thực hành thiền định ..."
 
 <!--pg-->
-### N 56.28 The World *Lokasutta*
+### N 56.28 Thế Giới *Kinh Loka*
 
-"Mendicants, there are these four noble truths. What four? The noble
-truths of suffering, the origin of suffering, the cessation of
-suffering, and the practice that leads to the cessation of suffering. In
-this world with its gods, Māras, and Divinities, this
-population with its ascetics and brahmins, its gods and humans, the
-Realized One is the Noble One. That's why they're called 'noble truths'.
+"Này các *Tỷ kheo*, có *bốn sự thật cao quý* này. Bốn điều đó là gì? Các sự thật cao quý về *khổ*, nguồn gốc của *khổ*, sự chấm dứt *khổ*, và con đường thực hành dẫn đến sự chấm dứt *khổ*. Trong thế giới này với các vị trời, Ma vương, và Phạm thiên, trong quần chúng này với các sa môn và bà la môn, các vị trời và loài người, *Như Lai* là Bậc Cao Quý. Đó là lý do tại sao chúng được gọi là 'sự thật cao quý'.
 
-That's why you should practice meditation ..."
+Vì vậy, các vị nên thực hành thiền định ..."
 
 <!--pg-->
-### N 56.29 Should Be Completely Understood *Pariññeyyasutta*
+### N 56.29 Cần Được Hiểu Hoàn Toàn *Kinh Pariññeyya*
 
-"Mendicants, there are these four noble truths. What four? The noble
-truths of suffering, the origin of suffering, the cessation of
-suffering, and the practice that leads to the cessation of suffering.
-These are the four noble truths. Of these four noble truths, there is
-one to be completely understood, one to be given up, one to be realized,
-and one to be developed.
+"Này các *Tỷ kheo*, có *bốn sự thật cao quý* này. Bốn điều đó là gì? Các sự thật cao quý về *khổ*, nguồn gốc của *khổ*, sự chấm dứt *khổ*, và con đường thực hành dẫn đến sự chấm dứt *khổ*. Đây là *bốn sự thật cao quý*. Trong *bốn sự thật cao quý* này, có một điều cần được *hiểu biết hoàn toàn*, một điều cần được từ bỏ, một điều cần được chứng ngộ, và một điều cần được phát triển.
 
-And which noble truth should be completely understood? The noble truth
-of suffering should be completely understood. The noble truth of the
-origin of suffering should be given up. The noble truth of the cessation
-of suffering should be realized. The noble truth of the practice that
-leads to the cessation of suffering should be developed.
+Và sự thật cao quý nào cần được *hiểu biết hoàn toàn*? Sự thật cao quý về *khổ* cần được *hiểu biết hoàn toàn*. Sự thật cao quý về nguồn gốc của *khổ* cần được từ bỏ. Sự thật cao quý về sự chấm dứt *khổ* cần được chứng ngộ. Sự thật cao quý về con đường thực hành dẫn đến sự chấm dứt *khổ* cần được phát triển.
 
-That's why you should practice meditation ..."
+Vì vậy, các vị nên thực hành thiền định ..."
 
 <!--pg-->
-### N 56.30 With Gavampati *Gavampatisutta*
+### N 56.30 Với Gavampati *Kinh Gavampati*
 
-At one time several mendicants were staying in the land of the
-Cetīs at Sahajāti. Now at that time, after the
-meal, on return from almsround, several senior mendicants sat together
-in the pavilion and this discussion came up among them:
+Một thời, một vài vị *Tỷ kheo* đang ở trong xứ của người Cetī tại Sahajāti. Bấy giờ, sau bữa ăn, khi trở về từ chuyến khất thực, một vài vị trưởng lão *Tỷ kheo* ngồi cùng nhau trong đình và cuộc thảo luận này nảy sinh giữa họ:
 
-"Reverends, does someone who sees suffering also see the origin of
-suffering, the cessation of suffering, and the practice that leads to
-the cessation of suffering?"
+"Thưa các hiền giả, có phải người thấy *khổ* cũng thấy nguồn gốc của *khổ*, sự chấm dứt *khổ*, và con đường thực hành dẫn đến sự chấm dứt *khổ* không?"
 
-When they said this, Venerable Gavampati said to those senior
-mendicants:
+Khi họ nói vậy, Tôn giả Gavampati nói với các vị trưởng lão *Tỷ kheo* đó:
 
-"Reverends, I have heard and learned this in the presence of the Buddha:
-'Someone who sees suffering also sees the origin of suffering, the
-cessation of suffering, and the practice that leads to the cessation of
-suffering. Someone who sees the origin of suffering also sees suffering,
-the cessation of suffering, and the practice that leads to the cessation
-of suffering. Someone who sees the cessation of suffering also sees
-suffering, the origin of suffering, and the practice that leads to the
-cessation of suffering. Someone who sees the practice that leads to the
-cessation of suffering also sees suffering, the origin of suffering, and
-the cessation of suffering.'"
+"Thưa các hiền giả, tôi đã nghe và học điều này trước sự hiện diện của Đức Phật: 'Người thấy *khổ* cũng thấy nguồn gốc của *khổ*, sự chấm dứt *khổ*, và con đường thực hành dẫn đến sự chấm dứt *khổ*. Người thấy nguồn gốc của *khổ* cũng thấy *khổ*, sự chấm dứt *khổ*, và con đường thực hành dẫn đến sự chấm dứt *khổ*. Người thấy sự chấm dứt *khổ* cũng thấy *khổ*, nguồn gốc của *khổ*, và con đường thực hành dẫn đến sự chấm dứt *khổ*. Người thấy con đường thực hành dẫn đến sự chấm dứt *khổ* cũng thấy *khổ*, nguồn gốc của *khổ*, và sự chấm dứt *khổ*.'"
 
 <!--pg-->
-## The Chapter in a Rosewood Forest
+## Chương Trong Rừng Sīsapā
 
-### N 56.31 In a Rosewood Forest *Sīsapāvanasutta*
+### N 56.31 Trong Rừng Sīsapā *Kinh Sīsapāvana*
 
-At one time the Buddha was staying near Kosambī in a
-rosewood forest. Then the Buddha picked up a few rosewood leaves in his
-hand and addressed the mendicants: "What do you think, mendicants? Which
-is more: the few leaves in my hand, or those in the forest above me?"
+Một thời, Đức Phật đang ở gần Kosambī trong một khu rừng sīsapā. Rồi Đức Phật nhặt một vài chiếc lá sīsapā trong tay và nói với các *Tỷ kheo*: "Các vị nghĩ sao, này các *Tỷ kheo*? Cái nào nhiều hơn: vài chiếc lá trong tay ta, hay những chiếc lá trong khu rừng trên đầu ta?"
 
-"Sir, the few leaves in your hand are a tiny amount. There are far more
-leaves in the forest above."
+"Bạch Thế Tôn, vài chiếc lá trong tay ngài là một số lượng rất nhỏ. Có nhiều lá hơn rất nhiều trong khu rừng ở trên."
 
-"In the same way, there is much more that I have directly known but have
-not explained to you. What I have explained is a tiny amount. And why
-haven't I explained it? Because it's not beneficial or relevant to the
-fundamentals of the spiritual life. It doesn't lead to disillusionment,
-dispassion, cessation, peace, insight, awakening, and extinguishment.
-That's why I haven't explained it.
+"Cũng vậy, có nhiều điều hơn nữa mà ta đã *biết trực tiếp* nhưng chưa giải thích cho các vị. Những gì ta đã giải thích là một số lượng rất nhỏ. Và tại sao ta không giải thích nó? Bởi vì nó không lợi ích, không liên quan đến những nền tảng của đời sống tâm linh. Nó không dẫn đến *nhàm chán*, *ly tham*, *chấm dứt*, *an tịnh*, *hiểu biết trực tiếp*, *giác ngộ*, và *Niết bàn*. Đó là lý do tại sao ta không giải thích nó.
 
-And what have I explained? I have explained: 'This is suffering' ...
-'This is the origin of suffering' ... 'This is the cessation of
-suffering' ... 'This is the practice that leads to the cessation of
-suffering'.
+Và ta đã giải thích điều gì? Ta đã giải thích: 'Đây là *khổ*' ... 'Đây là nguồn gốc của *khổ*' ... 'Đây là sự chấm dứt *khổ*' ... 'Đây là con đường thực hành dẫn đến sự chấm dứt *khổ*'.
 
-And why have I explained this? Because it's beneficial and relevant to
-the fundamentals of the spiritual life. It leads to disillusionment,
-dispassion, cessation, peace, insight, awakening, and extinguishment.
-That's why I've explained it.
+Và tại sao ta đã giải thích điều này? Bởi vì nó có lợi ích và liên quan đến những nền tảng của đời sống tâm linh. Nó dẫn đến *nhàm chán*, *ly tham*, *chấm dứt*, *an tịnh*, *hiểu biết trực tiếp*, *giác ngộ*, và *Niết bàn*. Đó là lý do tại sao ta đã giải thích nó.
 
-That's why you should practice meditation ..."
+Vì vậy, các vị nên thực hành thiền định ..."
 
 <!--pg-->
-### N 56.32 Acacia Leaves *Khadirapattasutta*
+### N 56.32 Lá Keo *Kinh Khadirapatta*
 
-"Mendicants, suppose someone were to say: 'Without truly comprehending
-the noble truths of suffering, its origin, its cessation, and the path,
-I will completely make an end of suffering.' That is not possible.
+"Này các *Tỷ kheo*, giả sử có người nói: 'Không cần *biết như thật* về các sự thật cao quý về *khổ*, nguồn gốc của nó, sự chấm dứt của nó, và con đường, tôi sẽ chấm dứt hoàn toàn *khổ*.' Điều đó là không thể.
 
-It's as if someone were to say: 'I'll make a basket out of acacia leaves
-or pine needles or myrobalan leaves, and use it to carry water or a palm
-frond.' That is not possible. In the same way, suppose someone were to
-say: 'Without truly comprehending the noble truths of suffering, its
-origin, its cessation, and the path, I will completely make an end of
-suffering.' That is not possible.
+Nó giống như có người nói: 'Tôi sẽ làm một cái giỏ bằng lá keo hoặc lá thông hoặc lá myrobalan, và dùng nó để đựng nước hoặc một chiếc lá cọ.' Điều đó là không thể. Cũng vậy, giả sử có người nói: 'Không cần *biết như thật* về các sự thật cao quý về *khổ*, nguồn gốc của nó, sự chấm dứt của nó, và con đường, tôi sẽ chấm dứt hoàn toàn *khổ*.' Điều đó là không thể.
 
-But suppose someone were to say: 'After truly comprehending the noble
-truths of suffering, its origin, its cessation, and the path, I will
-completely make an end of suffering.' That is possible.
+Nhưng giả sử có người nói: 'Sau khi *biết như thật* về các sự thật cao quý về *khổ*, nguồn gốc của nó, sự chấm dứt của nó, và con đường, tôi sẽ chấm dứt hoàn toàn *khổ*.' Điều đó là có thể.
 
-It's as if someone were to say: 'I'll make a basket out of lotus leaves
-or flame-of-the-forest leaves or camel's foot creeper leaves, and use it
-to carry water or a palm frond.' That is possible. In the same way,
-suppose someone were to say: 'After truly comprehending the noble truths
-of suffering, its origin, its cessation, and the path, I will completely
-make an end of suffering.' That is possible.
+Nó giống như có người nói: 'Tôi sẽ làm một cái giỏ bằng lá sen hoặc lá cây gòn hoặc lá cây bìm bìm, và dùng nó để đựng nước hoặc một chiếc lá cọ.' Điều đó là có thể. Cũng vậy, giả sử có người nói: 'Sau khi *biết như thật* về các sự thật cao quý về *khổ*, nguồn gốc của nó, sự chấm dứt của nó, và con đường, tôi sẽ chấm dứt hoàn toàn *khổ*.' Điều đó là có thể.
 
-That's why you should practice meditation ..."
+Vì vậy, các vị nên thực hành thiền định ..."
 
 <!--pg-->
-### N 56.33 A Stick *Daṇḍasutta*
+### N 56.33 Cây Gậy *Kinh Daṇḍa*
 
-"Mendicants, suppose a stick was tossed up in the air. Sometimes it'd
-fall on its bottom and sometimes the top. It's the same for sentient
-beings roaming and transmigrating, shrouded by ignorance and fettered by
-craving. Sometimes they go from this world to the other world, and
-sometimes they come from the other world to this world. Why is that?
-It's because they haven't seen the four noble truths. What four? The
-noble truths of suffering, its origin, its cessation, and the path.
+"Này các *Tỷ kheo*, giả sử một cây gậy được ném lên không trung. Đôi khi nó sẽ rơi xuống bằng gốc và đôi khi bằng ngọn. Cũng vậy đối với các *chúng sinh* (sentient beings / sattā / các loài hữu tình, những sinh vật có cảm giác và ý thức) lang thang và luân hồi, bị che lấp bởi *vô minh* và bị trói buộc bởi *sự khao khát*. Đôi khi họ đi từ thế giới này sang thế giới khác, và đôi khi họ đến từ thế giới khác đến thế giới này. Tại sao vậy? Đó là vì họ chưa thấy được *bốn sự thật cao quý*. Bốn điều đó là gì? Các sự thật cao quý về *khổ*, nguồn gốc của nó, sự chấm dứt của nó, và con đường.
 
-That's why you should practice meditation ..."
+Vì vậy, các vị nên thực hành thiền định ..."
 
 <!--pg-->
-### N 56.34 Clothes *Celasutta*
+### N 56.34 Quần Áo *Kinh Cela*
 
-"Mendicants, if your clothes or head were on fire, what would you do
-about it?"
+"Này các *Tỷ kheo*, nếu quần áo hoặc đầu của các vị đang cháy, các vị sẽ làm gì?"
 
-"Sir, if our clothes or head were on fire, we'd apply intense
-enthusiasm, effort, zeal, vigor, perseverance, mindfulness, and
-situational awareness in order to extinguish it."
+"Bạch Thế Tôn, nếu quần áo hoặc đầu của chúng con đang cháy, chúng con sẽ áp dụng sự nhiệt tình, nỗ lực, hăng hái, nghị lực, kiên trì, *niệm* (quan sát và ghi nhớ), và *nhận biết rõ ràng* (tỉnh giác) mãnh liệt để dập tắt nó."
 
-"Mendicants, so long as you have not comprehended the four noble truths,
-regard your burning head or clothes with equanimity, ignore them, and
-apply intense enthusiasm, effort, zeal, vigor, perseverance,
-mindfulness, and situational awareness to truly comprehending the four
-noble truths. What four? The noble truths of suffering, its origin, its
-cessation, and the path.
+"Này các *Tỷ kheo*, chừng nào các vị chưa thấu hiểu *bốn sự thật cao quý*, hãy xem cái đầu hay quần áo đang cháy của mình với sự bình thản, hãy lờ chúng đi, và áp dụng sự nhiệt tình, nỗ lực, hăng hái, nghị lực, kiên trì, *niệm*, và *nhận biết rõ ràng* mãnh liệt để *biết như thật* về *bốn sự thật cao quý*. Bốn điều đó là gì? Các sự thật cao quý về *khổ*, nguồn gốc của nó, sự chấm dứt của nó, và con đường.
 
-That's why you should practice meditation ..."
+Vì vậy, các vị nên thực hành thiền định ..."
 
 <!--pg-->
-### N 56.35 A Hundred Spears *Sattisatasutta*
+### N 56.35 Một Trăm Ngọn Giáo *Kinh Sattisata*
 
-"Mendicants, suppose there was a man with a lifespan of a hundred years.
-And someone might say to him: 'Come now, my good man, they'll strike you
-with a hundred spears in the morning, at midday, and in the late
-afternoon. And you'll live for a hundred years being struck with three
-hundred spears every day. But when a hundred years have passed, you will
-comprehend the four noble truths for the first time.'
+"Này các *Tỷ kheo*, giả sử có một người có tuổi thọ một trăm năm. Và có người có thể nói với anh ta: 'Này anh bạn tốt, họ sẽ đâm anh bằng một trăm ngọn giáo vào buổi sáng, vào giữa trưa, và vào cuối buổi chiều. Và anh sẽ sống một trăm năm bị đâm bằng ba trăm ngọn giáo mỗi ngày. Nhưng khi một trăm năm trôi qua, anh sẽ lần đầu tiên thấu hiểu *bốn sự thật cao quý*.'
 
-For an earnest gentleman this is sufficient reason to submit.
+Đối với một người thiện nam chân thành, đây là lý do đủ để chấp nhận.
 
-Why is that? Transmigration has no known beginning. No first point is
-found of blows by spears, swords, arrows, and axes. Now this may be so.
-But the comprehension of the four noble truths doesn't come with pain or
-sadness, I say. Rather, the comprehension of the four noble truths comes
-only with pleasure and happiness, I say. What four? The noble truths of
-suffering, its origin, its cessation, and the path.
+Tại sao vậy? Luân hồi không có khởi đầu được biết đến. Không tìm thấy điểm khởi đầu nào của những cú đâm bằng giáo, kiếm, tên, và rìu. Điều này có thể là vậy. Nhưng ta nói rằng, sự thấu hiểu *bốn sự thật cao quý* không đi kèm với đau đớn hay buồn bã. Thay vào đó, ta nói rằng, sự thấu hiểu *bốn sự thật cao quý* chỉ đi kèm với niềm vui và hạnh phúc. Bốn điều đó là gì? Các sự thật cao quý về *khổ*, nguồn gốc của nó, sự chấm dứt của nó, và con đường.
 
-That's why you should practice meditation ..."
+Vì vậy, các vị nên thực hành thiền định ..."
 
 <!--pg-->
-### N 56.36 Living Creatures *Pāṇasutta*
+### N 56.36 Sinh Vật *Kinh Pāṇa*
 
-"Suppose a person was to strip all the grass, sticks, branches, and
-leaves in the Black Plum Tree Land, gather them together into one pile,
-and make them into stakes. Then they'd impale the large creatures in the
-ocean on large stakes; the medium-sized creatures on medium-sized
-stakes; and the small creatures on small stakes. They wouldn't run out
-of sizable creatures in the ocean before using up all the grass, sticks,
-branches, and leaves in the Black Plum Tree Land. There are far more
-small creatures in the ocean than this, so it wouldn't be feasible to
-impale them on stakes. Why is that? Because of the small size of those
-life-forms. That's how big the plane of loss is.
+"Giả sử một người lột hết cỏ, cành cây, nhánh cây, và lá cây ở Vùng Đất Cây Mận Đen, gom chúng lại thành một đống, và làm thành những cây cọc. Rồi họ sẽ xiên những sinh vật lớn trong đại dương vào những cây cọc lớn; những sinh vật cỡ trung vào những cây cọc cỡ trung; và những sinh vật nhỏ vào những cây cọc nhỏ. Họ sẽ không hết sinh vật lớn trong đại dương trước khi dùng hết cỏ, cành cây, nhánh cây, và lá cây ở Vùng Đất Cây Mận Đen. Có nhiều sinh vật nhỏ hơn thế này rất nhiều trong đại dương, nên sẽ không khả thi để xiên chúng vào cọc. Tại sao vậy? Vì kích thước nhỏ bé của những dạng sống đó. *Cõi khổ* (plane of loss / apāya / các cõi tái sinh đau khổ như địa ngục, ngạ quỷ, súc sinh) lớn đến như vậy.
 
-A person accomplished in view, exempt from that vast plane of loss,
-truly understands: 'This is suffering' ... 'This is the origin of
-suffering' ... 'This is the cessation of suffering' ... 'This is the
-practice that leads to the cessation of suffering'.
+Một người thành tựu về tầm nhìn, thoát khỏi *cõi khổ* rộng lớn đó, *biết như thật*: 'Đây là *khổ*' ... 'Đây là nguồn gốc của *khổ*' ... 'Đây là sự chấm dứt *khổ*' ... 'Đây là con đường thực hành dẫn đến sự chấm dứt *khổ*'.
 
-That's why you should practice meditation ..."
+Vì vậy, các vị nên thực hành thiền định ..."
 
 <!--pg-->
-### N 56.37 The Simile of the Sun (1st) *Paṭhamasūriyasutta*
+### N 56.37 Ví Dụ Về Mặt Trời (Thứ Nhất) *Kinh Paṭhamasūriya*
 
-"Mendicants, the dawn is the forerunner and precursor of the sunrise.
+"Này các *Tỷ kheo*, bình minh là điềm báo và tiền thân của mặt trời mọc.
 
-In the same way, right view is the forerunner and precursor of truly
-comprehending the four noble truths. A mendicant with right view can
-expect to truly understand: 'This is suffering' ... 'This is the origin
-of suffering' ... 'This is the cessation of suffering' ... 'This is the
-practice that leads to the cessation of suffering'.
+Cũng vậy, *cái nhìn thiện (chánh kiến)* là điềm báo và tiền thân của việc *biết như thật* về *bốn sự thật cao quý*. Một *Tỷ kheo* có *cái nhìn thiện* có thể mong đợi sẽ *biết như thật*: 'Đây là *khổ*' ... 'Đây là nguồn gốc của *khổ*' ... 'Đây là sự chấm dứt *khổ*' ... 'Đây là con đường thực hành dẫn đến sự chấm dứt *khổ*'.
 
-That's why you should practice meditation ..."
+Vì vậy, các vị nên thực hành thiền định ..."
 
 <!--pg-->
-### N 56.38 The Simile of the Sun (2nd) *Dutiyasūriyasutta*
+### N 56.38 Ví Dụ Về Mặt Trời (Thứ Hai) *Kinh Dutiyasūriya*
 
-"Mendicants, as long as the moon and the sun don't arise in the world,
-no great light or great radiance appears. Darkness prevails then, utter
-darkness. Day and night aren't found, nor months and fortnights, nor
-seasons and years.
+"Này các *Tỷ kheo*, chừng nào mặt trăng và mặt trời chưa xuất hiện trên thế gian, thì không có ánh sáng lớn hay hào quang lớn nào xuất hiện. Khi đó bóng tối bao trùm, bóng tối hoàn toàn. Ngày và đêm không được tìm thấy, cũng không có tháng và nửa tháng, cũng không có mùa và năm.
 
-But when the moon and the sun arise in the world, a great light, a great
-radiance appears. Darkness no longer prevails. Day and night are found,
-and months and fortnights, and seasons and years.
+Nhưng khi mặt trăng và mặt trời xuất hiện trên thế gian, một ánh sáng lớn, một hào quang lớn xuất hiện. Bóng tối không còn bao trùm. Ngày và đêm được tìm thấy, và tháng và nửa tháng, và mùa và năm.
 
-In the same way, as long as the Realized One doesn't arise in the world,
-no great light or great radiance appears. Darkness prevails then, utter
-darkness. There's no explanation of the four noble truths, no teaching,
-advocating, establishing, clarifying, analyzing, and revealing of them.
+Cũng vậy, chừng nào *Như Lai* chưa xuất hiện trên thế gian, thì không có ánh sáng lớn hay hào quang lớn nào xuất hiện. Khi đó bóng tối bao trùm, bóng tối hoàn toàn. Không có sự giải thích về *bốn sự thật cao quý*, không có sự giảng dạy, ủng hộ, thiết lập, làm rõ, phân tích, và tiết lộ về chúng.
 
-But when the Realized One arises in the world, a great light, a great
-radiance appears. Darkness no longer prevails. Then there's the
-explanation of the four noble truths, the teaching, advocating,
-establishing, clarifying, analyzing, and revealing of them. What four?
-The noble truths of suffering, its origin, its cessation, and the path.
+Nhưng khi *Như Lai* xuất hiện trên thế gian, một ánh sáng lớn, một hào quang lớn xuất hiện. Bóng tối không còn bao trùm. Khi đó có sự giải thích về *bốn sự thật cao quý*, sự giảng dạy, ủng hộ, thiết lập, làm rõ, phân tích, và tiết lộ về chúng. Bốn điều đó là gì? Các sự thật cao quý về *khổ*, nguồn gốc của nó, sự chấm dứt của nó, và con đường.
 
-That's why you should practice meditation ..."
+Vì vậy, các vị nên thực hành thiền định ..."
 
 <!--pg-->
-### N 56.39 A Boundary Pillar *Indakhīlasutta*
+### N 56.39 Cột Mốc Ranh Giới *Kinh Indakhīla*
 
-"Mendicants, there are ascetics and brahmins who don't truly understand
-about suffering, its origin, its cessation, and the path. They gaze up
-at the face of another ascetic or brahmin, thinking: 'Surely this worthy
-one knows and sees.'
+"Này các *Tỷ kheo*, có những sa môn và bà la môn không *biết như thật* về *khổ*, nguồn gốc của nó, sự chấm dứt của nó, và con đường. Họ ngước nhìn mặt của một sa môn hay bà la môn khác, nghĩ rằng: 'Chắc chắn vị đáng kính này biết và thấy.'
 
-Suppose there was a light tuft of cotton-wool or kapok which was taken
-up by the wind and landed on level ground. The east wind wafts it west;
-the west wind wafts it east; the north wind wafts it south; and the
-south wind wafts it north. Why is that? It's because the tuft of
-cotton-wool is so light.
+Giả sử có một túm bông gòn hoặc bông gạo nhẹ được gió cuốn lên và đáp xuống mặt đất bằng phẳng. Gió đông thổi nó về phía tây; gió tây thổi nó về phía đông; gió bắc thổi nó về phía nam; và gió nam thổi nó về phía bắc. Tại sao vậy? Đó là vì túm bông gòn quá nhẹ.
 
-In the same way, there are ascetics and brahmins who don't truly
-understand about suffering, its origin, its cessation, and the path.
-They gaze up at the face of another ascetic or brahmin, thinking:
-'Surely this worthy one knows and sees.' Why is that? It's because they
-haven't seen the four noble truths.
+Cũng vậy, có những sa môn và bà la môn không *biết như thật* về *khổ*, nguồn gốc của nó, sự chấm dứt của nó, và con đường. Họ ngước nhìn mặt của một sa môn hay bà la môn khác, nghĩ rằng: 'Chắc chắn vị đáng kính này biết và thấy.' Tại sao vậy? Đó là vì họ chưa thấy được *bốn sự thật cao quý*.
 
-There are ascetics and brahmins who truly understand about suffering,
-its origin, its cessation, and the path. They don't gaze up at the face
-of another ascetic or brahmin, thinking: 'Surely this worthy one knows
-and sees.'
+Có những sa môn và bà la môn *biết như thật* về *khổ*, nguồn gốc của nó, sự chấm dứt của nó, và con đường. Họ không ngước nhìn mặt của một sa môn hay bà la môn khác, nghĩ rằng: 'Chắc chắn vị đáng kính này biết và thấy.'
 
-Suppose there was an iron pillar or a boundary pillar with deep
-foundations, firmly embedded, imperturbable and unshakable. Even if
-violent storms were to blow up out of the east, the west, the north, and
-the south, they couldn't make it shake or rock or tremble. Why is that?
-It's because that boundary pillar is firmly embedded, with deep
-foundations.
+Giả sử có một cột sắt hoặc một cột mốc ranh giới có nền móng sâu, được cắm chắc chắn, không thể lay chuyển và không thể rung động. Ngay cả khi những cơn bão dữ dội thổi đến từ phía đông, phía tây, phía bắc, và phía nam, chúng cũng không thể làm nó rung chuyển, lay động hay run rẩy. Tại sao vậy? Đó là vì cột mốc ranh giới đó được cắm chắc chắn, với nền móng sâu.
 
-In the same way, there are ascetics and brahmins who truly understand
-about suffering, its origin, its cessation, and the path. They don't
-gaze up at the face of another ascetic or brahmin, thinking: 'Surely
-this worthy one knows and sees.' Why is that? It's because they have
-clearly seen the four noble truths. What four? The noble truths of
-suffering, its origin, its cessation, and the path.
+Cũng vậy, có những sa môn và bà la môn *biết như thật* về *khổ*, nguồn gốc của nó, sự chấm dứt của nó, và con đường. Họ không ngước nhìn mặt của một sa môn hay bà la môn khác, nghĩ rằng: 'Chắc chắn vị đáng kính này biết và thấy.' Tại sao vậy? Đó là vì họ đã thấy rõ *bốn sự thật cao quý*. Bốn điều đó là gì? Các sự thật cao quý về *khổ*, nguồn gốc của nó, sự chấm dứt của nó, và con đường.
 
-That's why you should practice meditation ..."
+Vì vậy, các vị nên thực hành thiền định ..."
 
 <!--pg-->
-### N 56.40 Looking For a Debate *Vādatthikasutta*
+### N 56.40 Tìm Kiếm Tranh Luận *Kinh Vādatthika*
 
-"Mendicants, take any mendicant who truly understands: 'This is
-suffering' ... 'This is the origin of suffering' ... 'This is the
-cessation of suffering' ... 'This is the practice that leads to the
-cessation of suffering'. An ascetic or brahmin might come from the east,
-west, north, or south wanting to debate, seeking a debate, thinking:
-'I'll refute their doctrine!' It's simply impossible for them to
-legitimately make that mendicant shake or rock or tremble.
+"Này các *Tỷ kheo*, hãy xem bất kỳ *Tỷ kheo* nào *biết như thật*: 'Đây là *khổ*' ... 'Đây là nguồn gốc của *khổ*' ... 'Đây là sự chấm dứt *khổ*' ... 'Đây là con đường thực hành dẫn đến sự chấm dứt *khổ*'. Một sa môn hay bà la môn có thể đến từ phía đông, tây, bắc, hay nam muốn tranh luận, tìm kiếm một cuộc tranh luận, nghĩ rằng: 'Ta sẽ bác bỏ học thuyết của họ!' Đơn giản là không thể để họ làm cho vị *Tỷ kheo* đó rung chuyển, lay động hay run rẩy một cách chính đáng.
 
-Suppose there was a stone pillar, sixteen feet long. Eight feet were
-buried underground, and eight above ground. Even if violent storms were
-to blow up out of the east, the west, the north, and the south, they
-couldn't make it shake or rock or tremble. Why is that? It's because
-that boundary pillar is firmly embedded, with deep foundations.
+Giả sử có một cột đá, dài mười sáu feet. Tám feet được chôn dưới đất, và tám feet ở trên mặt đất. Ngay cả khi những cơn bão dữ dội thổi đến từ phía đông, phía tây, phía bắc, và phía nam, chúng cũng không thể làm nó rung chuyển, lay động hay run rẩy. Tại sao vậy? Đó là vì cột mốc ranh giới đó được cắm chắc chắn, với nền móng sâu.
 
-In the same way, take any mendicant who truly understands: 'This is
-suffering' ... 'This is the origin of suffering' ... 'This is the
-cessation of suffering' ... 'This is the practice that leads to the
-cessation of suffering'. An ascetic or brahmin might come from the east,
-west, north, or south wanting to debate, seeking a debate, thinking:
-'I'll refute their doctrine!' It's simply impossible for them to
-legitimately make that mendicant shake or rock or tremble. Why is that?
-It's because they have clearly seen the four noble truths. What four?
-The noble truths of suffering, its origin, its cessation, and the path.
+Cũng vậy, hãy xem bất kỳ *Tỷ kheo* nào *biết như thật*: 'Đây là *khổ*' ... 'Đây là nguồn gốc của *khổ*' ... 'Đây là sự chấm dứt *khổ*' ... 'Đây là con đường thực hành dẫn đến sự chấm dứt *khổ*'. Một sa môn hay bà la môn có thể đến từ phía đông, tây, bắc, hay nam muốn tranh luận, tìm kiếm một cuộc tranh luận, nghĩ rằng: 'Ta sẽ bác bỏ học thuyết của họ!' Đơn giản là không thể để họ làm cho vị *Tỷ kheo* đó rung chuyển, lay động hay run rẩy một cách chính đáng. Tại sao vậy? Đó là vì họ đã thấy rõ *bốn sự thật cao quý*. Bốn điều đó là gì? Các sự thật cao quý về *khổ*, nguồn gốc của nó, sự chấm dứt của nó, và con đường.
 
-That's why you should practice meditation ..."
+Vì vậy, các vị nên thực hành thiền định ..."
 
 <!--pg-->
-## The Chapter on a Cliff
+## Chương Về Vách Đá
 
-### N 56.41 Speculation About the World *Lokacintāsutta*
+### N 56.41 Suy Đoán Về Thế Giới *Kinh Lokacintā*
 
-At one time the Buddha was staying near Rājagaha, in the
-Bamboo Grove, the squirrels' feeding ground. There the Buddha addressed
-the mendicants:
+Một thời, Đức Phật đang ở gần Rājagaha, trong Trúc Lâm, nơi nuôi sóc. Tại đó, Đức Phật nói với các *Tỷ kheo*:
 
-"Once upon a time, mendicants, a certain person left
-Rājagaha, thinking 'I'll speculate about the world.' They
-went to the Sumāgadhā lotus pond and sat down on the bank
-speculating about the world. Then that person saw an army of four
-divisions enter a lotus stalk. When he saw this he thought, 'I've gone
-mad, really, I've lost my mind! I'm seeing things that don't exist in
-the world.'
+"Ngày xửa ngày xưa, này các *Tỷ kheo*, có một người rời Rājagaha, nghĩ rằng 'Ta sẽ suy đoán về thế giới.' Người đó đến hồ sen Sumāgadhā và ngồi xuống bên bờ suy đoán về thế giới. Rồi người đó thấy một đội quân bốn binh chủng đi vào một cọng sen. Khi thấy điều này, người đó nghĩ, 'Mình điên rồi, thật sự, mình mất trí rồi! Mình đang thấy những thứ không tồn tại trên thế giới.'
 
-Then that person entered the city and informed a large crowd, 'I've gone
-mad, really, I've lost my mind! I'm seeing things that don't exist in
-the world.'
+Rồi người đó vào thành và thông báo cho một đám đông lớn, 'Tôi điên rồi, thật sự, tôi mất trí rồi! Tôi đang thấy những thứ không tồn tại trên thế giới.'
 
-'But how is it that you're mad? How have you lost your mind? And what
-have you seen that doesn't exist in the world?'
+'Nhưng làm sao mà ông điên? Làm sao ông mất trí? Và ông đã thấy gì mà không tồn tại trên thế giới?'
 
-'Sirs, I left Rājagaha, thinking "I'll speculate about the
-world." I went to the Sumāgadhā lotus pond and sat down on
-the bank speculating about the world. Then I saw an army of four
-divisions enter a lotus stalk. That's why I'm mad, that's why I've lost
-my mind. And that's what I've seen that doesn't exist in the world.'
+'Thưa các ngài, tôi rời Rājagaha, nghĩ rằng "Tôi sẽ suy đoán về thế giới." Tôi đến hồ sen Sumāgadhā và ngồi xuống bên bờ suy đoán về thế giới. Rồi tôi thấy một đội quân bốn binh chủng đi vào một cọng sen. Đó là lý do tại sao tôi điên, đó là lý do tại sao tôi mất trí. Và đó là những gì tôi đã thấy mà không tồn tại trên thế giới.'
 
-'Well, worthy man, you're definitely mad, you've definitely lost your
-mind. And you're seeing things that don't exist in the world.'
+'Vậy thì, thưa ngài, ông chắc chắn điên rồi, ông chắc chắn mất trí rồi. Và ông đang thấy những thứ không tồn tại trên thế giới.'
 
-But what that person saw was in fact real, not unreal. Once upon a time,
-a battle was fought between the gods and the titans. In that battle the
-gods won and the titans lost. The defeated and terrified titans entered
-the citadel of the titans through the lotus stalk only to confuse the
-gods.
+Nhưng những gì người đó thấy thực ra là thật, không phải không thật. Ngày xửa ngày xưa, một trận chiến đã diễn ra giữa các vị trời và các a-tu-la. Trong trận chiến đó, các vị trời đã thắng và các a-tu-la đã thua. Các a-tu-la bị đánh bại và kinh hoàng đã vào thành trì của a-tu-la qua cọng sen chỉ để làm các vị trời bối rối.
 
-So mendicants, don't speculate about the world. For example: the cosmos
-is eternal, or not eternal, or finite, or infinite; the soul and the
-body are the same thing, or they are different things; after death, a
-realized one still exists, or no longer exists, or both still exists and
-no longer exists, or neither still exists nor no longer exists. Why is
-that? Because those thoughts aren't beneficial or relevant to the
-fundamentals of the spiritual life. They don't lead to disillusionment,
-dispassion, cessation, peace, insight, awakening, and extinguishment.
+Vì vậy, này các *Tỷ kheo*, đừng suy đoán về thế giới. Ví dụ: vũ trụ là thường hằng, hay không thường hằng, hay hữu hạn, hay vô hạn; linh hồn và thể xác là một, hay chúng là hai thứ khác nhau; sau khi chết, một bậc giác ngộ vẫn tồn tại, hay không còn tồn tại, hay vừa tồn tại vừa không tồn tại, hay không tồn tại cũng không không tồn tại. Tại sao vậy? Bởi vì những suy nghĩ đó không lợi ích, không liên quan đến những nền tảng của đời sống tâm linh. Chúng không dẫn đến *nhàm chán*, *ly tham*, *chấm dứt*, *an tịnh*, *hiểu biết trực tiếp*, *giác ngộ*, và *Niết bàn*.
 
-When you think something up, you should think: 'This is suffering' ...
-'This is the origin of suffering' ... 'This is the cessation of
-suffering' ... 'This is the practice that leads to the cessation of
-suffering'. Why is that? Because those thoughts are beneficial and
-relevant to the fundamentals of the spiritual life. They lead to
-disillusionment, dispassion, cessation, peace, insight, awakening, and
-extinguishment.
+Khi các vị suy tưởng điều gì, hãy suy tưởng rằng: 'Đây là *khổ*' ... 'Đây là nguồn gốc của *khổ*' ... 'Đây là sự chấm dứt *khổ*' ... 'Đây là con đường thực hành dẫn đến sự chấm dứt *khổ*'. Tại sao vậy? Bởi vì những suy nghĩ đó có lợi ích và liên quan đến những nền tảng của đời sống tâm linh. Chúng dẫn đến *nhàm chán*, *ly tham*, *chấm dứt*, *an tịnh*, *hiểu biết trực tiếp*, *giác ngộ*, và *Niết bàn*.
 
-That's why you should practice meditation ..."
+Vì vậy, các vị nên thực hành thiền định ..."
 
 <!--pg-->
-### N 56.42 A Cliff *Papātasutta*
+### N 56.42 Vách Đá *Kinh Papāta*
 
-At one time the Buddha was staying near Rājagaha, on the
-Vulture's Peak Mountain.
+Một thời, Đức Phật đang ở gần Rājagaha, trên núi Linh Thứu.
 
-Then the Buddha said to the mendicants, "Come, mendicants, let's go to
-Inspiration Peak for the day's meditation."
+Rồi Đức Phật nói với các *Tỷ kheo*, "Này các *Tỷ kheo*, chúng ta hãy đến Đỉnh Cảm Hứng để thiền định trong ngày."
 
-"Yes, sir," they replied. Then the Buddha together with several
-mendicants went to Inspiration Peak.
+"Vâng, thưa ngài," họ đáp. Rồi Đức Phật cùng với một vài *Tỷ kheo* đến Đỉnh Cảm Hứng.
 
-A certain mendicant saw the big cliff there and said to the Buddha,
-"Sir, that big cliff is really huge and scary. Is there any other cliff
-bigger and scarier than this one?"
+Một vị *Tỷ kheo* nọ thấy vách đá lớn ở đó và nói với Đức Phật, "Bạch Thế Tôn, vách đá lớn đó thật sự khổng lồ và đáng sợ. Có vách đá nào khác lớn hơn và đáng sợ hơn vách đá này không?"
 
-"There is, mendicant."
+"Có đấy, này *Tỷ kheo*."
 
-"But sir, what is it?"
+"Nhưng bạch Thế Tôn, đó là gì?"
 
-"Mendicant, there are ascetics and brahmins who don't truly understand
-about suffering, its origin, its cessation, and the path. They take
-pleasure in choices that lead to rebirth, old age, and death, to sorrow,
-lamentation, pain, sadness, and distress. Since they take pleasure in
-such choices, they continue to make them. Having made choices that lead
-to rebirth, old age, and death, to sorrow, lamentation, pain, sadness,
-and distress, they fall down the cliff of rebirth, old age, and death,
-of sorrow, lamentation, pain, sadness, and distress. They're not freed
-from rebirth, old age, and death, from sorrow, lamentation, pain,
-sadness, and distress. They're not freed from suffering, I say.
+"Này *Tỷ kheo*, có những sa môn và bà la môn không *biết như thật* về *khổ*, nguồn gốc của nó, sự chấm dứt của nó, và con đường. Họ thích thú với những *hành* (choices / saṅkhāra / các hành động, sự lựa chọn) dẫn đến tái sinh, già, và chết, đến *đau khổ* (sorrow / soka / sầu / nỗi buồn ở trong lòng), *oán trách* (lamentation / parideva / bi / sự than van, khóc lóc (nỗi buồn thể hiện ra bên ngoài)), *khổ (thân)* (pain / dukkha / khổ / khổ nói chung hay khổ của thân), *khổ tâm* (sadness / domanassa / ưu / khổ, khó chịu của tâm), và *phiền não* (distress / upāyāsa / não / trạng thái khó chịu do bị dính vào tai ương). Vì họ thích thú với những *hành* như vậy, họ tiếp tục tạo ra chúng. Sau khi đã tạo ra những *hành* dẫn đến tái sinh, già, và chết, đến *đau khổ*, *oán trách*, *khổ (thân)*, *khổ tâm*, và *phiền não*, họ rơi xuống vách đá của tái sinh, già, và chết, của *đau khổ*, *oán trách*, *khổ (thân)*, *khổ tâm*, và *phiền não*. Họ không được giải thoát khỏi tái sinh, già, và chết, khỏi *đau khổ*, *oán trách*, *khổ (thân)*, *khổ tâm*, và *phiền não*. Ta nói rằng, họ không được giải thoát khỏi *khổ*.
 
-There are ascetics and brahmins who truly understand about suffering,
-its origin, its cessation, and the path. They don't take pleasure in
-choices that lead to rebirth, old age, and death, to sorrow,
-lamentation, pain, sadness, and distress. Since they don't take pleasure
-in such choices, they stop making them. Having stopped making choices
-that lead to rebirth, old age, and death, to sorrow, lamentation, pain,
-sadness, and distress, they don't fall down the cliff of rebirth, old
-age, and death, of sorrow, lamentation, pain, sadness, and distress.
-They're freed from rebirth, old age, and death, from sorrow,
-lamentation, pain, sadness, and distress. They're freed from suffering,
-I say.
+Có những sa môn và bà la môn *biết như thật* về *khổ*, nguồn gốc của nó, sự chấm dứt của nó, và con đường. Họ không thích thú với những *hành* dẫn đến tái sinh, già, và chết, đến *đau khổ*, *oán trách*, *khổ (thân)*, *khổ tâm*, và *phiền não*. Vì họ không thích thú với những *hành* như vậy, họ ngừng tạo ra chúng. Sau khi đã ngừng tạo ra những *hành* dẫn đến tái sinh, già, và chết, đến *đau khổ*, *oán trách*, *khổ (thân)*, *khổ tâm*, và *phiền não*, họ không rơi xuống vách đá của tái sinh, già, và chết, của *đau khổ*, *oán trách*, *khổ (thân)*, *khổ tâm*, và *phiền não*. Họ được giải thoát khỏi tái sinh, già, và chết, khỏi *đau khổ*, *oán trách*, *khổ (thân)*, *khổ tâm*, và *phiền não*. Ta nói rằng, họ được giải thoát khỏi *khổ*.
 
-That's why you should practice meditation ..."
+Vì vậy, các vị nên thực hành thiền định ..."
 
 <!--pg-->
-### N 56.43 The Mighty Fever *Mahāpariḷāhasutta*
+### N 56.43 Cơn Sốt Dữ Dội *Kinh Mahāpariḷāha*
 
-"Mendicants, there is a hell called 'The Mighty Fever'. There, whatever
-sight you see with your eye is unlikable, not likable; undesirable, not
-desirable; unpleasant, not pleasant. Whatever sound you hear ...
-Whatever odor you smell ... Whatever flavor you taste ... Whatever touch
-you feel ... Whatever idea you know with your mind is unlikable, not
-likable; undesirable, not desirable; unpleasant, not pleasant."
+"Này các *Tỷ kheo*, có một địa ngục gọi là 'Cơn Sốt Dữ Dội'. Ở đó, bất cứ cảnh tượng nào các vị thấy bằng mắt đều không thể ưa thích, không phải là đáng ưa thích; không đáng mong muốn, không phải là đáng mong muốn; khó chịu, không phải là dễ chịu. Bất cứ âm thanh nào các vị nghe ... Bất cứ mùi nào các vị ngửi ... Bất cứ vị nào các vị nếm ... Bất cứ cảm giác nào các vị cảm nhận ... Bất cứ ý nghĩ nào các vị biết bằng *tâm* của mình đều không thể ưa thích, không phải là đáng ưa thích; không đáng mong muốn, không phải là đáng mong muốn; khó chịu, không phải là dễ chịu."
 
-When he said this, one of the mendicants said to the Buddha, "Sir, that
-fever really is mighty, so very mighty. Is there any other fever more
-mighty and terrifying than this one?"
+Khi ngài nói vậy, một trong các *Tỷ kheo* thưa với Đức Phật, "Bạch Thế Tôn, cơn sốt đó thật sự dữ dội, rất dữ dội. Có cơn sốt nào khác dữ dội và kinh hoàng hơn cơn sốt này không?"
 
-"There is, mendicant."
+"Có đấy, này *Tỷ kheo*."
 
-"But sir, what is it?"
+"Nhưng bạch Thế Tôn, đó là gì?"
 
-"Mendicants, there are ascetics and brahmins who don't truly understand
-about suffering, its origin, its cessation, and the path. They take
-pleasure in choices that lead to rebirth ... They continue to make such
-choices ... Having made such choices, they burn with the fever of
-rebirth, old age, and death, of sorrow, lamentation, pain, sadness, and
-distress. They're not freed from rebirth, old age, and death, from
-sorrow, lamentation, pain, sadness, and distress. They're not freed from
-suffering, I say.
+"Này các *Tỷ kheo*, có những sa môn và bà la môn không *biết như thật* về *khổ*, nguồn gốc của nó, sự chấm dứt của nó, và con đường. Họ thích thú với những *hành* dẫn đến tái sinh ... Họ tiếp tục tạo ra những *hành* như vậy ... Sau khi đã tạo ra những *hành* như vậy, họ bị thiêu đốt bởi cơn sốt của tái sinh, già, và chết, của *đau khổ*, *oán trách*, *khổ (thân)*, *khổ tâm*, và *phiền não*. Họ không được giải thoát khỏi tái sinh, già, và chết, khỏi *đau khổ*, *oán trách*, *khổ (thân)*, *khổ tâm*, và *phiền não*. Ta nói rằng, họ không được giải thoát khỏi *khổ*.
 
-There are ascetics and brahmins who truly understand about suffering,
-its origin, its cessation, and the path. They don't take pleasure in
-choices that lead to rebirth ... They stop making such choices ...
-Having stopped making such choices, they don't burn with the fever of
-rebirth, old age, and death, of sorrow, lamentation, pain, sadness, and
-distress. They're freed from rebirth, old age, and death, from sorrow,
-lamentation, pain, sadness, and distress. They're freed from suffering,
-I say.
+Có những sa môn và bà la môn *biết như thật* về *khổ*, nguồn gốc của nó, sự chấm dứt của nó, và con đường. Họ không thích thú với những *hành* dẫn đến tái sinh ... Họ ngừng tạo ra những *hành* như vậy ... Sau khi đã ngừng tạo ra những *hành* như vậy, họ không bị thiêu đốt bởi cơn sốt của tái sinh, già, và chết, của *đau khổ*, *oán trách*, *khổ (thân)*, *khổ tâm*, và *phiền não*. Họ được giải thoát khỏi tái sinh, già, và chết, khỏi *đau khổ*, *oán trách*, *khổ (thân)*, *khổ tâm*, và *phiền não*. Ta nói rằng, họ được giải thoát khỏi *khổ*.
 
-That's why you should practice meditation ..."
+Vì vậy, các vị nên thực hành thiền định ..."
 
 <!--pg-->
-### N 56.44 A Bungalow *Kūṭāgārasutta*
+### N 56.44 Ngôi Nhà Gỗ *Kinh Kūṭāgāra*
 
-"Mendicants, suppose someone were to say: 'Without truly comprehending
-the noble truths of suffering, its origin, its cessation, and the path,
-I will completely make an end of suffering.' That is not possible.
+"Này các *Tỷ kheo*, giả sử có người nói: 'Không cần *biết như thật* về các sự thật cao quý về *khổ*, nguồn gốc của nó, sự chấm dứt của nó, và con đường, tôi sẽ chấm dứt hoàn toàn *khổ*.' Điều đó là không thể.
 
-It's as if someone were to say: 'Before the lower story of a bungalow is
-built, I will hoist up the upper story.' That is not possible. In the
-same way, suppose someone were to say: 'Without truly comprehending the
-noble truths of suffering, its origin, its cessation, and the path, I
-will completely make an end of suffering.' That is not possible.
+Nó giống như có người nói: 'Trước khi tầng dưới của một ngôi nhà gỗ được xây dựng, tôi sẽ dựng tầng trên.' Điều đó là không thể. Cũng vậy, giả sử có người nói: 'Không cần *biết như thật* về các sự thật cao quý về *khổ*, nguồn gốc của nó, sự chấm dứt của nó, và con đường, tôi sẽ chấm dứt hoàn toàn *khổ*.' Điều đó là không thể.
 
-But suppose someone were to say: 'After truly comprehending the noble
-truths of suffering, its origin, its cessation, and the path, I will
-completely make an end of suffering.' That is possible.
+Nhưng giả sử có người nói: 'Sau khi *biết như thật* về các sự thật cao quý về *khổ*, nguồn gốc của nó, sự chấm dứt của nó, và con đường, tôi sẽ chấm dứt hoàn toàn *khổ*.' Điều đó là có thể.
 
-It's as if someone were to say: 'After the lower story of a bungalow is
-built, I will hoist up the upper story.' That is possible. In the same
-way, suppose someone were to say: 'After truly comprehending the noble
-truths of suffering, its origin, its cessation, and the path, I will
-completely make an end of suffering.' That is possible.
+Nó giống như có người nói: 'Sau khi tầng dưới của một ngôi nhà gỗ được xây dựng, tôi sẽ dựng tầng trên.' Điều đó là có thể. Cũng vậy, giả sử có người nói: 'Sau khi *biết như thật* về các sự thật cao quý về *khổ*, nguồn gốc của nó, sự chấm dứt của nó, và con đường, tôi sẽ chấm dứt hoàn toàn *khổ*.' Điều đó là có thể.
 
-That's why you should practice meditation ..."
+Vì vậy, các vị nên thực hành thiền định ..."
 
 <!--pg-->
-### N 56.45 Splitting Hairs *Vālasutta*
+### N 56.45 Chẻ Sợi Lông Ngựa *Kinh Vāla*
 
-At one time the Buddha was staying near Vesālī, at the
-Great Wood, in the hall with the peaked roof.
+Một thời, Đức Phật đang ở gần Vesālī, tại Đại Lâm, trong giảng đường có mái nhọn.
 
-Then Venerable Ānanda robed up in the morning and, taking his bowl and
-robe, entered Vesālī for alms. He saw several Licchavi
-youths practicing archery near the town hall. They were shooting arrows
-from a distance through a small keyhole, shot after shot without
-missing.
+Rồi Tôn giả Ānanda mặc y vào buổi sáng, mang bát và y, vào Vesālī để khất thực. Ngài thấy một vài thanh niên Licchavi đang tập bắn cung gần tòa thị chính. Họ đang bắn tên từ xa qua một lỗ khóa nhỏ, phát nào cũng trúng, không trượt phát nào.
 
-When he saw this he thought, "These Licchavi youths really are trained,
-so well trained, in that they shoot arrows from a distance through a
-small keyhole, shot after shot without missing."
+Khi thấy điều này, ngài nghĩ, "Những thanh niên Licchavi này thật sự được huấn luyện, được huấn luyện rất tốt, đến nỗi họ bắn tên từ xa qua một lỗ khóa nhỏ, phát nào cũng trúng, không trượt phát nào."
 
-Then Ānanda wandered for alms in Vesālī. After the meal, on
-his return from almsround, he went to the Buddha, bowed, sat down to one
-side, and told him what had happened.
+Rồi Ānanda đi khất thực ở Vesālī. Sau bữa ăn, khi trở về từ chuyến khất thực, ngài đến gặp Đức Phật, đảnh lễ, ngồi xuống một bên, và kể lại cho ngài nghe những gì đã xảy ra.
 
-"What do you think, Ānanda? Which is harder and more challenging: to
-shoot arrows from a distance through a small keyhole, shot after shot
-without missing? Or to take a horsehair split into seven strands and
-penetrate one tip with another tip?"
+"Con nghĩ sao, Ānanda? Điều nào khó hơn và thử thách hơn: bắn tên từ xa qua một lỗ khóa nhỏ, phát nào cũng trúng, không trượt phát nào? Hay là lấy một sợi lông ngựa chẻ thành bảy sợi và xuyên đầu này qua đầu kia?"
 
-"It's more difficult and challenging, sir, to take a horsehair split
-into seven strands and penetrate one tip with another tip."
+"Bạch Thế Tôn, việc lấy một sợi lông ngựa chẻ thành bảy sợi và xuyên đầu này qua đầu kia khó hơn và thử thách hơn."
 
-"Still, Ānanda, those who truly penetrate suffering, its origin, its
-cessation, and the path penetrate something tougher than that.
+"Tuy nhiên, Ānanda, những người thực sự thâm nhập được *khổ*, nguồn gốc của nó, sự chấm dứt của nó, và con đường còn thâm nhập được một điều khó hơn thế nữa.
 
-That's why you should practice meditation ..."
+Vì vậy, các vị nên thực hành thiền định ..."
 
 <!--pg-->
-### N 56.46 Darkness *Andhakārasutta*
+### N 56.46 Bóng Tối *Kinh Andhakāra*
 
-"Mendicants, the boundless void of interstellar space is so utterly dark
-that even the light of the moon and the sun, so mighty and powerful,
-makes no impression."
+"Này các *Tỷ kheo*, khoảng không vô tận của không gian giữa các vì sao tối tăm đến mức ngay cả ánh sáng của mặt trăng và mặt trời, vốn rất mạnh mẽ và quyền năng, cũng không tạo ra ấn tượng gì."
 
-When he said this, one of the mendicants asked the Buddha, "Sir, that
-darkness really is mighty, so very mighty. Is there any other darkness
-more mighty and terrifying than this one?"
+Khi ngài nói vậy, một trong các *Tỷ kheo* hỏi Đức Phật, "Bạch Thế Tôn, bóng tối đó thật sự vĩ đại, rất vĩ đại. Có bóng tối nào khác vĩ đại và kinh hoàng hơn bóng tối này không?"
 
-"There is, mendicant."
+"Có đấy, này *Tỷ kheo*."
 
-"But sir, what is it?"
+"Nhưng bạch Thế Tôn, đó là gì?"
 
-"There are ascetics and brahmins who don't truly understand about
-suffering, its origin, its cessation, and the path. They take pleasure
-in choices that lead to rebirth ... They continue to make such choices
-... Having made such choices, they fall into the darkness of rebirth,
-old age, and death, of sorrow, lamentation, pain, sadness, and distress.
-They're not freed from rebirth, old age, and death, from sorrow,
-lamentation, pain, sadness, and distress. They're not freed from
-suffering, I say.
+"Có những sa môn và bà la môn không *biết như thật* về *khổ*, nguồn gốc của nó, sự chấm dứt của nó, và con đường. Họ thích thú với những *hành* dẫn đến tái sinh ... Họ tiếp tục tạo ra những *hành* như vậy ... Sau khi đã tạo ra những *hành* như vậy, họ rơi vào bóng tối của tái sinh, già, và chết, của *đau khổ*, *oán trách*, *khổ (thân)*, *khổ tâm*, và *phiền não*. Họ không được giải thoát khỏi tái sinh, già, và chết, khỏi *đau khổ*, *oán trách*, *khổ (thân)*, *khổ tâm*, và *phiền não*. Ta nói rằng, họ không được giải thoát khỏi *khổ*.
 
-There are ascetics and brahmins who truly understand about suffering,
-its origin, its cessation, and the path. They don't take pleasure in
-choices that lead to rebirth ... They stop making such choices ...
-Having stopped making such choices, they don't fall into the darkness of
-rebirth, old age, and death, of sorrow, lamentation, pain, sadness, and
-distress. They're freed from rebirth, old age, and death, from sorrow,
-lamentation, pain, sadness, and distress. They're freed from suffering,
-I say.
+Có những sa môn và bà la môn *biết như thật* về *khổ*, nguồn gốc của nó, sự chấm dứt của nó, và con đường. Họ không thích thú với những *hành* dẫn đến tái sinh ... Họ ngừng tạo ra những *hành* như vậy ... Sau khi đã ngừng tạo ra những *hành* như vậy, họ không rơi vào bóng tối của tái sinh, già, và chết, của *đau khổ*, *oán trách*, *khổ (thân)*, *khổ tâm*, và *phiền não*. Họ được giải thoát khỏi tái sinh, già, và chết, khỏi *đau khổ*, *oán trách*, *khổ (thân)*, *khổ tâm*, và *phiền não*. Ta nói rằng, họ được giải thoát khỏi *khổ*.
 
-That's why you should practice meditation ..."
+Vì vậy, các vị nên thực hành thiền định ..."
 
 <!--pg-->
-### N 56.47 A Yoke With a Hole (1st) *Paṭhamachiggaḷayugasutta*
+### N 56.47 Cái Ách Có Lỗ (Thứ Nhất) *Kinh Paṭhamachiggaḷayuga*
 
-"Mendicants, suppose a person were to throw a yoke with a single hole
-into the ocean. And there was a one-eyed turtle who popped up once every
-hundred years.
+"Này các *Tỷ kheo*, giả sử một người ném một cái ách có một lỗ duy nhất xuống đại dương. Và có một con rùa một mắt cứ một trăm năm mới nổi lên một lần.
 
-What do you think, mendicants? Would that one-eyed turtle, popping up
-once every hundred years, still poke its neck through the hole in that
-yoke?"
+Các vị nghĩ sao, này các *Tỷ kheo*? Liệu con rùa một mắt đó, cứ một trăm năm mới nổi lên một lần, có thể chui cổ qua lỗ trên cái ách đó không?"
 
-"Only after a very long time, sir, if ever."
+"Chỉ sau một thời gian rất dài, bạch Thế Tôn, nếu có thể."
 
-"That one-eyed turtle would poke its neck through the hole in that yoke
-sooner than a fool who has fallen to the underworld would be reborn as a
-human being, I say.
+"Ta nói rằng, con rùa một mắt đó sẽ chui cổ qua lỗ trên cái ách đó sớm hơn là một kẻ ngu si đã rơi vào *cõi khổ* được tái sinh làm người.
 
-Why is that? Because in that place there's no principled or moral
-conduct, and no doing what is good and skillful. There they just prey on
-each other, preying on the weak. Why is that? It's because they haven't
-seen the four noble truths. What four? The noble truths of suffering,
-its origin, its cessation, and the path.
+Tại sao vậy? Bởi vì ở nơi đó không có hành vi có nguyên tắc hay đạo đức, và không có việc làm điều tốt và thiện. Ở đó họ chỉ ăn thịt lẫn nhau, ăn thịt kẻ yếu. Tại sao vậy? Đó là vì họ chưa thấy được *bốn sự thật cao quý*. Bốn điều đó là gì? Các sự thật cao quý về *khổ*, nguồn gốc của nó, sự chấm dứt của nó, và con đường.
 
-That's why you should practice meditation ..."
+Vì vậy, các vị nên thực hành thiền định ..."
 
 <!--pg-->
-### N 56.48 A Yoke With a Hole (2nd) *Dutiyachiggaḷayugasutta*
+### N 56.48 Cái Ách Có Lỗ (Thứ Hai) *Kinh Dutiyachiggaḷayuga*
 
-"Mendicants, suppose the earth was entirely covered with water. And a
-person threw a yoke with a single hole into it. The east wind wafts it
-west; the west wind wafts it east; the north wind wafts it south; and
-the south wind wafts it north. And there was a one-eyed turtle who
-popped up once every hundred years.
+"Này các *Tỷ kheo*, giả sử trái đất hoàn toàn bị bao phủ bởi nước. Và một người ném một cái ách có một lỗ duy nhất vào đó. Gió đông thổi nó về phía tây; gió tây thổi nó về phía đông; gió bắc thổi nó về phía nam; và gió nam thổi nó về phía bắc. Và có một con rùa một mắt cứ một trăm năm mới nổi lên một lần.
 
-What do you think, mendicants? Would that one-eyed turtle, popping up
-once every hundred years, still poke its neck through the hole in that
-yoke?"
+Các vị nghĩ sao, này các *Tỷ kheo*? Liệu con rùa một mắt đó, cứ một trăm năm mới nổi lên một lần, có thể chui cổ qua lỗ trên cái ách đó không?"
 
-"It's unlikely, sir."
+"Điều đó khó xảy ra, bạch Thế Tôn."
 
-"That's how unlikely it is to get reborn as a human being. And that's
-how unlikely it is for a Realized One to arise in the world, a perfected
-one, a fully awakened Buddha. And that's how unlikely it is for the
-teaching and training proclaimed by a Realized One to shine in the
-world. And now, mendicants, you have been reborn as a human being. A
-Realized One has arisen in the world, a perfected one, a fully awakened
-Buddha. And the teaching and training proclaimed by a Realized One
-shines in the world.
+"Việc được tái sinh làm người cũng khó xảy ra như vậy. Và việc một *Như Lai* xuất hiện trên thế gian, một bậc hoàn thiện, một Đức Phật toàn giác, cũng khó xảy ra như vậy. Và việc giáo pháp và giới luật do một *Như Lai* tuyên bố tỏa sáng trên thế gian cũng khó xảy ra như vậy. Và bây giờ, này các *Tỷ kheo*, các vị đã được tái sinh làm người. Một *Như Lai* đã xuất hiện trên thế gian, một bậc hoàn thiện, một Đức Phật toàn giác. Và giáo pháp và giới luật do một *Như Lai* tuyên bố đang tỏa sáng trên thế gian.
 
-That's why you should practice meditation ..."
+Vì vậy, các vị nên thực hành thiền định ..."
 
 <!--pg-->
-### N 56.49 Sineru, King of Mountains (1st) *Paṭhamasinerupabbatarājasutta*
+### N 56.49 Sineru, Vua Của Các Ngọn Núi (Thứ Nhất) *Kinh Paṭhamasinerupabbatarāja*
 
-"Mendicants, suppose a person was to place down on Sineru, the king of
-mountains, seven pebbles the size of mung beans.
+"Này các *Tỷ kheo*, giả sử một người đặt bảy viên sỏi cỡ hạt đậu xanh lên núi Sineru, vua của các ngọn núi.
 
-What do you think, mendicants? Which is more: the seven pebbles the size
-of mung beans? Or Sineru, the king of mountains?"
+Các vị nghĩ sao, này các *Tỷ kheo*? Cái nào nhiều hơn: bảy viên sỏi cỡ hạt đậu xanh? Hay núi Sineru, vua của các ngọn núi?"
 
-"Sir, Sineru, the king of mountains, is certainly more. The seven
-pebbles the size of mung beans are tiny. Compared to Sineru, they don't
-count, there's no comparison, they're not worth a fraction."
+"Bạch Thế Tôn, núi Sineru, vua của các ngọn núi, chắc chắn nhiều hơn. Bảy viên sỏi cỡ hạt đậu xanh rất nhỏ. So với núi Sineru, chúng không đáng kể, không có sự so sánh, không đáng một phần nhỏ."
 
-"In the same way, for a person with comprehension, a noble disciple
-accomplished in view, the suffering that's over and done with is more,
-what's left is tiny. Compared to the mass of suffering in the past
-that's over and done with, it doesn't count, there's no comparison, it's
-not worth a fraction, since there are at most seven more lives. Such a
-person truly understands about suffering, its origin, its cessation, and
-the path.
+"Cũng vậy, đối với một người có sự thấu hiểu, một đệ tử cao quý thành tựu về tầm nhìn, cái *khổ* đã qua và chấm dứt là nhiều hơn, cái còn lại là rất nhỏ. So với khối lượng *khổ* trong quá khứ đã qua và chấm dứt, nó không đáng kể, không có sự so sánh, không đáng một phần nhỏ, vì còn nhiều nhất là bảy kiếp nữa. Một người như vậy *biết như thật* về *khổ*, nguồn gốc của nó, sự chấm dứt của nó, và con đường.
 
-That's why you should practice meditation ..."
+Vì vậy, các vị nên thực hành thiền định ..."
 
 <!--pg-->
-### N 56.50 Sineru, King of Mountains (2nd) *Dutiyasinerupabbatarājasutta*
+### N 56.50 Sineru, Vua Của Các Ngọn Núi (Thứ Hai) *Kinh Dutiyasinerupabbatarāja*
 
-"Mendicants, suppose Sineru, the king of mountains, was worn away and
-eroded except for seven pebbles the size of mustard seeds.
+"Này các *Tỷ kheo*, giả sử núi Sineru, vua của các ngọn núi, bị bào mòn và xói mòn chỉ còn lại bảy viên sỏi cỡ hạt cải.
 
-What do you think, mendicants? Which is more: the portion of Sineru, the
-king of mountains, that has been worn away and eroded? Or the seven
-pebbles the size of mustard seeds that are left?"
+Các vị nghĩ sao, này các *Tỷ kheo*? Cái nào nhiều hơn: phần của núi Sineru, vua của các ngọn núi, đã bị bào mòn và xói mòn? Hay bảy viên sỏi cỡ hạt cải còn lại?"
 
-"Sir, the portion of Sineru, the king of mountains, that has been worn
-away and eroded is certainly more. The seven pebbles the size of mustard
-seeds are tiny. Compared to Sineru, they don't count, there's no
-comparison, they're not worth a fraction."
+"Bạch Thế Tôn, phần của núi Sineru, vua của các ngọn núi, đã bị bào mòn và xói mòn chắc chắn nhiều hơn. Bảy viên sỏi cỡ hạt cải còn lại rất nhỏ. So với núi Sineru, chúng không đáng kể, không có sự so sánh, không đáng một phần nhỏ."
 
-"In the same way, for a person with comprehension, a noble disciple
-accomplished in view, the suffering that's over and done with is more,
-what's left is tiny. Compared to the mass of suffering in the past
-that's over and done with, it doesn't count, there's no comparison, it's
-not worth a fraction, since there are at most seven more lives. Such a
-person truly understands about suffering, its origin, its cessation, and
-the path.
+"Cũng vậy, đối với một người có sự thấu hiểu, một đệ tử cao quý thành tựu về tầm nhìn, cái *khổ* đã qua và chấm dứt là nhiều hơn, cái còn lại là rất nhỏ. So với khối lượng *khổ* trong quá khứ đã qua và chấm dứt, nó không đáng kể, không có sự so sánh, không đáng một phần nhỏ, vì còn nhiều nhất là bảy kiếp nữa. Một người như vậy *biết như thật* về *khổ*, nguồn gốc của nó, sự chấm dứt của nó, và con đường.
 
-That's why you should practice meditation ..."
+Vì vậy, các vị nên thực hành thiền định ..."
 
 <!--pg-->
-## The Chapter on Comprehension
+## Chương Về Sự Thấu Hiểu
 
-### N 56.51 A Fingernail *Nakhasikhāsutta*
+### N 56.51 Móng Tay *Kinh Nakhasikhā*
 
-Then the Buddha, picking up a little bit of dirt under his fingernail,
-addressed the mendicants: "What do you think, mendicants? Which is more:
-the little bit of dirt under my fingernail, or this great earth?"
+Rồi Đức Phật, nhặt một chút đất dưới móng tay, nói với các *Tỷ kheo*: "Các vị nghĩ sao, này các *Tỷ kheo*? Cái nào nhiều hơn: chút đất dưới móng tay ta, hay trái đất vĩ đại này?"
 
-"Sir, the great earth is certainly more. The little bit of dirt under
-your fingernail is tiny. Compared to the great earth, it doesn't count,
-there's no comparison, it's not worth a fraction."
+"Bạch Thế Tôn, trái đất vĩ đại chắc chắn nhiều hơn. Chút đất dưới móng tay ngài rất nhỏ. So với trái đất vĩ đại, nó không đáng kể, không có sự so sánh, không đáng một phần nhỏ."
 
-"In the same way, for a person with comprehension, a noble disciple
-accomplished in view, the suffering that's over and done with is more,
-what's left is tiny. Compared to the mass of suffering in the past
-that's over and done with, it doesn't count, there's no comparison, it's
-not worth a fraction, since there are at most seven more lives. Such a
-person truly understands about suffering, its origin, its cessation, and
-the path.
+"Cũng vậy, đối với một người có sự thấu hiểu, một đệ tử cao quý thành tựu về tầm nhìn, cái *khổ* đã qua và chấm dứt là nhiều hơn, cái còn lại là rất nhỏ. So với khối lượng *khổ* trong quá khứ đã qua và chấm dứt, nó không đáng kể, không có sự so sánh, không đáng một phần nhỏ, vì còn nhiều nhất là bảy kiếp nữa. Một người như vậy *biết như thật* về *khổ*, nguồn gốc của nó, sự chấm dứt của nó, và con đường.
 
-That's why you should practice meditation ..."
+Vì vậy, các vị nên thực hành thiền định ..."
 
 <!--pg-->
-### N 56.52 A Lotus Pond *Pokkharaṇīsutta*
+### N 56.52 Hồ Sen *Kinh Pokkharaṇī*
 
-"Mendicants, suppose there was a lotus pond that was fifty leagues long,
-fifty leagues wide, and fifty leagues deep, full to the brim so a crow
-could drink from it. Then a person would pick up some water on the tip
-of a blade of grass.
+"Này các *Tỷ kheo*, giả sử có một hồ sen dài năm mươi do tuần, rộng năm mươi do tuần, và sâu năm mươi do tuần, đầy nước đến mức một con quạ có thể uống được. Rồi một người sẽ lấy một ít nước trên đầu ngọn cỏ.
 
-What do you think, mendicants? Which is more: the water on the tip of
-the blade of grass, or the water in the lotus pond?"
+Các vị nghĩ sao, này các *Tỷ kheo*? Cái nào nhiều hơn: nước trên đầu ngọn cỏ, hay nước trong hồ sen?"
 
-"Sir, the water in the lotus pond is certainly more. The water on the
-tip of a blade of grass is tiny. Compared to the water in the lotus
-pond, it doesn't count, there's no comparison, it's not worth a
-fraction."
+"Bạch Thế Tôn, nước trong hồ sen chắc chắn nhiều hơn. Nước trên đầu ngọn cỏ rất nhỏ. So với nước trong hồ sen, nó không đáng kể, không có sự so sánh, không đáng một phần nhỏ."
 
-"In the same way, for a noble disciple ...
+"Cũng vậy, đối với một đệ tử cao quý ...
 
-That's why you should practice meditation ..."
+Vì vậy, các vị nên thực hành thiền định ..."
 
 <!--pg-->
-### N 56.53 Where the Waters Flow Together (1st) *Paṭhamasambhejjasutta*
+### N 56.53 Nơi Các Dòng Nước Hợp Lại (Thứ Nhất) *Kinh Paṭhamasambhejja*
 
-"Mendicants, there are places where the great rivers---the Ganges,
-Yamuna, Aciravatī, Sarabhū, and
-Mahī---come together and converge. Suppose a person was to
-draw two or three drops of water from such a place.
+"Này các *Tỷ kheo*, có những nơi mà các con sông lớn—sông Hằng, Yamuna, Aciravatī, Sarabhū, và Mahī—hợp lại và hội tụ. Giả sử một người múc hai hoặc ba giọt nước từ nơi đó.
 
-What do you think, mendicants? Which is more: the two or three drops
-drawn out or the water in the confluence?"
+Các vị nghĩ sao, này các *Tỷ kheo*? Cái nào nhiều hơn: hai hoặc ba giọt được múc ra hay nước ở nơi hợp lưu?"
 
-"Sir, the water in the confluence is certainly more. The two or three
-drops drawn out are tiny. Compared to the water in the confluence, it
-doesn't count, there's no comparison, it's not worth a fraction."
+"Bạch Thế Tôn, nước ở nơi hợp lưu chắc chắn nhiều hơn. Hai hoặc ba giọt được múc ra rất nhỏ. So với nước ở nơi hợp lưu, nó không đáng kể, không có sự so sánh, không đáng một phần nhỏ."
 
-"In the same way, for a noble disciple ...
+"Cũng vậy, đối với một đệ tử cao quý ...
 
-That's why you should practice meditation ..."
+Vì vậy, các vị nên thực hành thiền định ..."
 
 <!--pg-->
-### N 56.54 Where the Waters Flow Together (2nd) *Dutiyasambhejjasutta*
+### N 56.54 Nơi Các Dòng Nước Hợp Lại (Thứ Hai) *Kinh Dutiyasambhejja*
 
-"Mendicants, there are places where the great rivers---the Ganges,
-Yamuna, Aciravatī, Sarabhū, and
-Mahī---come together and converge. Suppose that water dried
-up and evaporated except for two or three drops.
+"Này các *Tỷ kheo*, có những nơi mà các con sông lớn—sông Hằng, Yamuna, Aciravatī, Sarabhū, và Mahī—hợp lại và hội tụ. Giả sử nước đó cạn đi và bốc hơi chỉ còn lại hai hoặc ba giọt.
 
-What do you think, mendicants? Which is more: the water in the
-confluence that has dried up and evaporated, or the two or three drops
-left?"
+Các vị nghĩ sao, này các *Tỷ kheo*? Cái nào nhiều hơn: nước ở nơi hợp lưu đã cạn đi và bốc hơi, hay hai hoặc ba giọt còn lại?"
 
-"Sir, the water in the confluence that has dried up and evaporated is
-certainly more. The two or three drops left are tiny. Compared to the
-water in the confluence that has dried up and evaporated, it doesn't
-count, there's no comparison, it's not worth a fraction."
+"Bạch Thế Tôn, nước ở nơi hợp lưu đã cạn đi và bốc hơi chắc chắn nhiều hơn. Hai hoặc ba giọt còn lại rất nhỏ. So với nước ở nơi hợp lưu đã cạn đi và bốc hơi, nó không đáng kể, không có sự so sánh, không đáng một phần nhỏ."
 
-"In the same way, for a noble disciple ...
+"Cũng vậy, đối với một đệ tử cao quý ...
 
-That's why you should practice meditation ..."
+Vì vậy, các vị nên thực hành thiền định ..."
 
 <!--pg-->
-### N 56.55 The Earth (1st) *Paṭhamamahāpathavīsutta*
+### N 56.55 Trái Đất (Thứ Nhất) *Kinh Paṭhamamahāpathavī*
 
-"Mendicants, suppose a person was to place seven clay balls the size of
-jujube seeds on the great earth.
+"Này các *Tỷ kheo*, giả sử một người đặt bảy viên đất sét cỡ hạt táo tàu lên trái đất vĩ đại.
 
-What do you think, mendicants? Which is more: the seven clay balls the
-size of jujube seeds, or the great earth?"
+Các vị nghĩ sao, này các *Tỷ kheo*? Cái nào nhiều hơn: bảy viên đất sét cỡ hạt táo tàu, hay trái đất vĩ đại?"
 
-"Sir, the great earth is certainly more. The seven clay balls the size
-of jujube seeds are tiny. Compared to the great earth, they don't count,
-there's no comparison, they're not worth a fraction."
+"Bạch Thế Tôn, trái đất vĩ đại chắc chắn nhiều hơn. Bảy viên đất sét cỡ hạt táo tàu rất nhỏ. So với trái đất vĩ đại, chúng không đáng kể, không có sự so sánh, không đáng một phần nhỏ."
 
-"In the same way, for a noble disciple ...
+"Cũng vậy, đối với một đệ tử cao quý ...
 
-That's why you should practice meditation ..."
+Vì vậy, các vị nên thực hành thiền định ..."
 
 <!--pg-->
-### N 56.56 The Earth (2nd) *Dutiyamahāpathavīsutta*
+### N 56.56 Trái Đất (Thứ Hai) *Kinh Dutiyamahāpathavī*
 
-"Mendicants, suppose the great earth was worn away and eroded except for
-seven clay balls the size of jujube seeds.
+"Này các *Tỷ kheo*, giả sử trái đất vĩ đại bị bào mòn và xói mòn chỉ còn lại bảy viên đất sét cỡ hạt táo tàu.
 
-What do you think, mendicants? Which is more: the great earth that has
-been worn away and eroded, or the seven clay balls the size of jujube
-seeds that are left?"
+Các vị nghĩ sao, này các *Tỷ kheo*? Cái nào nhiều hơn: trái đất vĩ đại đã bị bào mòn và xói mòn, hay bảy viên đất sét cỡ hạt táo tàu còn lại?"
 
-"Sir, the great earth that has been worn away and eroded is certainly
-more. The seven clay balls the size of jujube seeds are tiny. Compared
-to the great earth that has been worn away and eroded, they don't count,
-there's no comparison, they're not worth a fraction."
+"Bạch Thế Tôn, trái đất vĩ đại đã bị bào mòn và xói mòn chắc chắn nhiều hơn. Bảy viên đất sét cỡ hạt táo tàu còn lại rất nhỏ. So với trái đất vĩ đại đã bị bào mòn và xói mòn, chúng không đáng kể, không có sự so sánh, không đáng một phần nhỏ."
 
-"In the same way, for a noble disciple ...
+"Cũng vậy, đối với một đệ tử cao quý ...
 
-That's why you should practice meditation ..."
+Vì vậy, các vị nên thực hành thiền định ..."
 
 <!--pg-->
-### N 56.57 The Ocean (1st) *Paṭhamamahāsamuddasutta*
+### N 56.57 Đại Dương (Thứ Nhất) *Kinh Paṭhamamahāsamudda*
 
-"Mendicants, suppose a man was to draw up two or three drops of water
-from the ocean.
+"Này các *Tỷ kheo*, giả sử một người múc hai hoặc ba giọt nước từ đại dương.
 
-What do you think, mendicants? Which is more: the two or three drops
-drawn out or the water in the ocean?"
+Các vị nghĩ sao, này các *Tỷ kheo*? Cái nào nhiều hơn: hai hoặc ba giọt được múc ra hay nước trong đại dương?"
 
-"Sir, the water in the ocean is certainly more. The two or three drops
-drawn out are tiny. Compared to the water in the ocean, it doesn't
-count, there's no comparison, it's not worth a fraction."
+"Bạch Thế Tôn, nước trong đại dương chắc chắn nhiều hơn. Hai hoặc ba giọt được múc ra rất nhỏ. So với nước trong đại dương, nó không đáng kể, không có sự so sánh, không đáng một phần nhỏ."
 
-"In the same way, for a noble disciple ...
+"Cũng vậy, đối với một đệ tử cao quý ...
 
-That's why you should practice meditation ..."
+Vì vậy, các vị nên thực hành thiền định ..."
 
 <!--pg-->
-### N 56.58 The Ocean (2nd) *Dutiyamahāsamuddasutta*
+### N 56.58 Đại Dương (Thứ Hai) *Kinh Dutiyamahāsamudda*
 
-"Mendicants, suppose the water in the ocean dried up and evaporated
-except for two or three drops.
+"Này các *Tỷ kheo*, giả sử nước trong đại dương cạn đi và bốc hơi chỉ còn lại hai hoặc ba giọt.
 
-What do you think, mendicants? Which is more: the water in the ocean
-that has dried up and evaporated, or the two or three drops left?"
+Các vị nghĩ sao, này các *Tỷ kheo*? Cái nào nhiều hơn: nước trong đại dương đã cạn đi và bốc hơi, hay hai hoặc ba giọt còn lại?"
 
-"Sir, the water in the ocean that has dried up and evaporated is
-certainly more. The two or three drops left are tiny. Compared to the
-water in the ocean that has dried up and evaporated, it doesn't count,
-there's no comparison, it's not worth a fraction."
+"Bạch Thế Tôn, nước trong đại dương đã cạn đi và bốc hơi chắc chắn nhiều hơn. Hai hoặc ba giọt còn lại rất nhỏ. So với nước trong đại dương đã cạn đi và bốc hơi, nó không đáng kể, không có sự so sánh, không đáng một phần nhỏ."
 
-"In the same way, for a noble disciple ...
+"Cũng vậy, đối với một đệ tử cao quý ...
 
-That's why you should practice meditation ..."
+Vì vậy, các vị nên thực hành thiền định ..."
 
 <!--pg-->
-### N 56.59 A Mountain (1st) *Paṭhamapabbatūpamasutta*
+### N 56.59 Ngọn Núi (Thứ Nhất) *Kinh Paṭhamapabbatūpama*
 
-"Mendicants, suppose a person was to place seven pebbles the size of
-mustard seeds on the Himalayas, the king of mountains.
+"Này các *Tỷ kheo*, giả sử một người đặt bảy viên sỏi cỡ hạt cải lên dãy Himalaya, vua của các ngọn núi.
 
-What do you think, mendicants? Which is more: the seven pebbles the size
-of mustard seeds, or the Himalayas, the king of mountains?"
+Các vị nghĩ sao, này các *Tỷ kheo*? Cái nào nhiều hơn: bảy viên sỏi cỡ hạt cải, hay dãy Himalaya, vua của các ngọn núi?"
 
-"Sir, the Himalayas, the king of mountains, is certainly more. The seven
-pebbles the size of mustard seeds are tiny. Compared to the Himalayas,
-they don't count, there's no comparison, they're not worth a fraction."
+"Bạch Thế Tôn, dãy Himalaya, vua của các ngọn núi, chắc chắn nhiều hơn. Bảy viên sỏi cỡ hạt cải rất nhỏ. So với dãy Himalaya, chúng không đáng kể, không có sự so sánh, không đáng một phần nhỏ."
 
-"In the same way, for a noble disciple ...
+"Cũng vậy, đối với một đệ tử cao quý ...
 
-That's why you should practice meditation ..."
+Vì vậy, các vị nên thực hành thiền định ..."
 
 <!--pg-->
-### N 56.60 A Mountain (2nd) *Dutiyapabbatūpamasutta*
+### N 56.60 Ngọn Núi (Thứ Hai) *Kinh Dutiyapabbatūpama*
 
-"Mendicants, suppose the Himalayas, the king of mountains, was worn away
-and eroded except for seven pebbles the size of mustard seeds.
+"Này các *Tỷ kheo*, giả sử dãy Himalaya, vua của các ngọn núi, bị bào mòn và xói mòn chỉ còn lại bảy viên sỏi cỡ hạt cải.
 
-What do you think, mendicants? Which is more: the portion of the
-Himalayas, the king of mountains, that has been worn away and eroded, or
-the seven pebbles the size of mustard seeds that are left?"
+Các vị nghĩ sao, này các *Tỷ kheo*? Cái nào nhiều hơn: phần của dãy Himalaya, vua của các ngọn núi, đã bị bào mòn và xói mòn, hay bảy viên sỏi cỡ hạt cải còn lại?"
 
-"Sir, the portion of the Himalayas, the king of mountains, that has been
-worn away and eroded is certainly more. The seven pebbles the size of
-mustard seeds are tiny. Compared to the Himalayas, they don't count,
-there's no comparison, they're not worth a fraction."
+"Bạch Thế Tôn, phần của dãy Himalaya, vua của các ngọn núi, đã bị bào mòn và xói mòn chắc chắn nhiều hơn. Bảy viên sỏi cỡ hạt cải còn lại rất nhỏ. So với dãy Himalaya, chúng không đáng kể, không có sự so sánh, không đáng một phần nhỏ."
 
-"In the same way, for a person with comprehension, a noble disciple
-accomplished in view, the suffering that's over and done with is more,
-what's left is tiny. Compared to the mass of suffering in the past
-that's over and done with, it doesn't count, there's no comparison, it's
-not worth a fraction, since there are at most seven more lives. Such a
-person truly understands about suffering, its origin, its cessation, and
-the path.
+"Cũng vậy, đối với một người có sự thấu hiểu, một đệ tử cao quý thành tựu về tầm nhìn, cái *khổ* đã qua và chấm dứt là nhiều hơn, cái còn lại là rất nhỏ. So với khối lượng *khổ* trong quá khứ đã qua và chấm dứt, nó không đáng kể, không có sự so sánh, không đáng một phần nhỏ, vì còn nhiều nhất là bảy kiếp nữa. Một người như vậy *biết như thật* về *khổ*, nguồn gốc của nó, sự chấm dứt của nó, và con đường.
 
-That's why you should practice meditation ..."
+Vì vậy, các vị nên thực hành thiền định ..."
 
 <!--pg-->
-## The First Chapter of Abbreviated Texts on Raw Grain
+## Chương Đầu Tiên Của Các Bài Kinh Tóm Tắt Về Ngũ Cốc Sống
 
-### N 56.61 Not Human *Aññatrasutta*
+### N 56.61 Không Phải Người *Kinh Aññatra*
 
-Then the Buddha, picking up a little bit of dirt under his fingernail,
-addressed the mendicants: "What do you think, mendicants? Which is more:
-the little bit of dirt under my fingernail, or this great earth?"
+Rồi Đức Phật, nhặt một chút đất dưới móng tay, nói với các *Tỷ kheo*: "Các vị nghĩ sao, này các *Tỷ kheo*? Cái nào nhiều hơn: chút đất dưới móng tay ta, hay trái đất vĩ đại này?"
 
-"Sir, the great earth is certainly more. The little bit of dirt under
-your fingernail is tiny. Compared to the great earth, it doesn't count,
-there's no comparison, it's not worth a fraction."
+"Bạch Thế Tôn, trái đất vĩ đại chắc chắn nhiều hơn. Chút đất dưới móng tay ngài rất nhỏ. So với trái đất vĩ đại, nó không đáng kể, không có sự so sánh, không đáng một phần nhỏ."
 
-"In the same way, the sentient beings reborn as humans are few, while
-those not reborn as humans are many. Why is that? It's because they
-haven't seen the four noble truths. What four? The noble truths of
-suffering, its origin, its cessation, and the path.
+"Cũng vậy, số *chúng sinh* được tái sinh làm người thì ít, trong khi số không được tái sinh làm người thì nhiều. Tại sao vậy? Đó là vì họ chưa thấy được *bốn sự thật cao quý*. Bốn điều đó là gì? Các sự thật cao quý về *khổ*, nguồn gốc của nó, sự chấm dứt của nó, và con đường.
 
-That's why you should practice meditation ..."
+Vì vậy, các vị nên thực hành thiền định ..."
 
 <!--pg-->
-### N 56.62 In the Borderlands *Paccantasutta*
+### N 56.62 Ở Vùng Biên Địa *Kinh Paccanta*
 
-Then the Buddha, picking up a little bit of dirt under his fingernail,
-addressed the mendicants: "What do you think, mendicants? Which is more:
-the little bit of dirt under my fingernail, or this great earth?"
+Rồi Đức Phật, nhặt một chút đất dưới móng tay, nói với các *Tỷ kheo*: "Các vị nghĩ sao, này các *Tỷ kheo*? Cái nào nhiều hơn: chút đất dưới móng tay ta, hay trái đất vĩ đại này?"
 
-"Sir, the great earth is certainly more. The little bit of dirt under
-your fingernail is tiny. Compared to the great earth, it doesn't count,
-there's no comparison, it's not worth a fraction."
+"Bạch Thế Tôn, trái đất vĩ đại chắc chắn nhiều hơn. Chút đất dưới móng tay ngài rất nhỏ. So với trái đất vĩ đại, nó không đáng kể, không có sự so sánh, không đáng một phần nhỏ."
 
-"In the same way, the sentient beings reborn in central countries are
-few, while those reborn in the borderlands, among uneducated foreigners,
-are many. ..."
+"Cũng vậy, số *chúng sinh* được tái sinh ở các nước trung tâm thì ít, trong khi số được tái sinh ở vùng biên địa, giữa những người ngoại quốc vô học, thì nhiều. ..."
 
 <!--pg-->
-### N 56.63 Wisdom *Paññāsutta*
+### N 56.63 Trí Tuệ *Kinh Paññā*
 
-"... the sentient beings who have the noble eye of wisdom are few, while
-those who are ignorant and confused are many. ..."
+"... số *chúng sinh* có con mắt trí tuệ cao quý thì ít, trong khi số người *vô minh* và mê lầm thì nhiều. ..."
 
 <!--pg-->
-### N 56.64 Beer and Wine *Surāmerayasutta*
+### N 56.64 Rượu Bia *Kinh Surāmeraya*
 
-"... the sentient beings who refrain from beer, wine, and liquor
-intoxicants, are few, while those who don't refrain are many. ..."
+"... số *chúng sinh* kiêng cữ rượu bia và các chất gây say thì ít, trong khi số người không kiêng cữ thì nhiều. ..."
 
 <!--pg-->
-### N 56.65 Born in Water *Odakasutta*
+### N 56.65 Sinh Ra Trong Nước *Kinh Odaka*
 
-"... the sentient beings born on land are few, while those born in water
-are many. ..."
+"... số *chúng sinh* sinh ra trên cạn thì ít, trong khi số sinh ra trong nước thì nhiều. ..."
 
 <!--pg-->
-### N 56.66 Respect Mother *Matteyyasutta*
+### N 56.66 Kính Trọng Mẹ *Kinh Matteyya*
 
-"... the sentient beings who respect their mothers are few, while those
-who don't are many. ..."
+"... số *chúng sinh* kính trọng mẹ thì ít, trong khi số không kính trọng thì nhiều. ..."
 
 <!--pg-->
-### N 56.67 Respect Father *Petteyyasutta*
+### N 56.67 Kính Trọng Cha *Kinh Petteyya*
 
-"... the sentient beings who respect their fathers are few, while those
-who don't are many. ..."
+"... số *chúng sinh* kính trọng cha thì ít, trong khi số không kính trọng thì nhiều. ..."
 
 <!--pg-->
-### N 56.68 Respect Ascetics *Sāmaññasutta*
+### N 56.68 Kính Trọng Sa Môn *Kinh Sāmañña*
 
-"... the sentient beings who respect ascetics are few, while those who
-don't are many. ..."
+"... số *chúng sinh* kính trọng sa môn thì ít, trong khi số không kính trọng thì nhiều. ..."
 
 <!--pg-->
-### N 56.69 Respect Brahmins *Brahmaññasutta*
+### N 56.69 Kính Trọng Bà La Môn *Kinh Brahmañña*
 
-"... the sentient beings who respect brahmins are few, while those who
-don't are many. ..."
+"... số *chúng sinh* kính trọng bà la môn thì ít, trong khi số không kính trọng thì nhiều. ..."
 
 <!--pg-->
-### N 56.70 Honor the Elders *Pacāyikasutta*
+### N 56.70 Tôn Kính Trưởng Lão *Kinh Pacāyika*
 
-"... the sentient beings who honor the elders in the family are few,
-while those who don't are many. ..."
+"... số *chúng sinh* tôn kính các trưởng lão trong gia đình thì ít, trong khi số không tôn kính thì nhiều. ..."
 
 <!--pg-->
-## The Second Chapter of Abbreviated Texts on Raw Grain
+## Chương Thứ Hai Của Các Bài Kinh Tóm Tắt Về Ngũ Cốc Sống
 
-### N 56.71 Killing Living Creatures *Pāṇātipātasutta*
+### N 56.71 Sát Sinh *Kinh Pāṇātipāta*
 
-"... the sentient beings who refrain from killing living creatures are
-few, while those who don't refrain are many. ..."
+"... số *chúng sinh* kiêng cữ sát sinh thì ít, trong khi số không kiêng cữ thì nhiều. ..."
 
 <!--pg-->
-### N 56.72 Stealing *Adinnādānasutta*
+### N 56.72 Trộm Cắp *Kinh Adinnādāna*
 
-"... the sentient beings who refrain from stealing are few, while those
-who don't refrain are many. ..."
+"... số *chúng sinh* kiêng cữ trộm cắp thì ít, trong khi số không kiêng cữ thì nhiều. ..."
 
 <!--pg-->
-### N 56.73 Sexual Misconduct *Kāmesumicchācārasutta*
+### N 56.73 Tà Dâm *Kinh Kāmesumicchācāra*
 
-"... the sentient beings who refrain from sexual misconduct are few,
-while those who don't refrain are many. ..."
+"... số *chúng sinh* kiêng cữ tà dâm thì ít, trong khi số không kiêng cữ thì nhiều. ..."
 
 <!--pg-->
-### N 56.74 Lying *Musāvādasutta*
+### N 56.74 Nói Dối *Kinh Musāvāda*
 
-"... the sentient beings who refrain from lying are few, while those who
-don't refrain are many. ..."
+"... số *chúng sinh* kiêng cữ nói dối thì ít, trong khi số không kiêng cữ thì nhiều. ..."
 
 <!--pg-->
-### N 56.75 Divisive Speech *Pesuññasutta*
+### N 56.75 Nói Lời Chia Rẽ *Kinh Pesuñña*
 
-"... the sentient beings who refrain from divisive speech are few, while
-those who don't refrain are many. ..."
+"... số *chúng sinh* kiêng cữ nói lời chia rẽ thì ít, trong khi số không kiêng cữ thì nhiều. ..."
 
 <!--pg-->
-### N 56.76 Harsh Speech *Pharusavācāsutta*
+### N 56.76 Nói Lời Thô Tục *Kinh Pharusavācā*
 
-"... the sentient beings who refrain from harsh speech are few, while
-those who don't refrain are many. ..."
+"... số *chúng sinh* kiêng cữ nói lời thô tục thì ít, trong khi số không kiêng cữ thì nhiều. ..."
 
 <!--pg-->
-### N 56.77 Nonsense *Samphappalāpasutta*
+### N 56.77 Nói Nhảm *Kinh Samphappalāpa*
 
-"... the sentient beings who refrain from talking nonsense are few,
-while those who don't refrain are many. ..."
+"... số *chúng sinh* kiêng cữ nói nhảm thì ít, trong khi số không kiêng cữ thì nhiều. ..."
 
 <!--pg-->
-### N 56.78 Plants *Bījagāmasutta*
+### N 56.78 Cây Cối *Kinh Bījagāma*
 
-"... the sentient beings who refrain from injuring plants and seeds are
-few, while those who don't refrain are many. ..."
+"... số *chúng sinh* kiêng cữ làm hại cây cối và hạt giống thì ít, trong khi số không kiêng cữ thì nhiều. ..."
 
 <!--pg-->
-### N 56.79 Food at the Wrong Time *Vikālabhojanasutta*
+### N 56.79 Ăn Sai Giờ *Kinh Vikālabhojana*
 
-"... the sentient beings who refrain from food at the wrong time are
-few, while those who don't refrain are many. ..."
+"... số *chúng sinh* kiêng cữ ăn sai giờ thì ít, trong khi số không kiêng cữ thì nhiều. ..."
 
 <!--pg-->
-### N 56.80 Fragrance and Makeup *Gandhavilepanasutta*
+### N 56.80 Nước Hoa và Trang Điểm *Kinh Gandhavilepana*
 
-"... the sentient beings who refrain from beautifying and adorning
-themselves with garlands, fragrance, and makeup are few, while those who
-don't refrain are many ..."
+"... số *chúng sinh* kiêng cữ làm đẹp và trang điểm bằng vòng hoa, nước hoa, và mỹ phẩm thì ít, trong khi số không kiêng cữ thì nhiều ..."
 
 <!--pg-->
-## The Third Chapter of Abbreviated Texts on Raw Grain
+## Chương Thứ Ba Của Các Bài Kinh Tóm Tắt Về Ngũ Cốc Sống
 
-### N 56.81 Dancing and Singing *Naccagītasutta*
+### N 56.81 Ca Múa *Kinh Naccagīta*
 
-.... "... the sentient beings who refrain from seeing shows of dancing,
-singing, and music are few, while those who don't refrain are many ..."
+.... "... số *chúng sinh* kiêng cữ xem các buổi biểu diễn ca múa nhạc thì ít, trong khi số không kiêng cữ thì nhiều ..."
 
 <!--pg-->
-### N 56.82 High Beds *Uccāsayanasutta*
+### N 56.82 Giường Cao *Kinh Uccāsayana*
 
-"... the sentient beings who refrain from high and luxurious beds are
-few, while those who don't refrain are many. ..."
+"... số *chúng sinh* kiêng cữ giường cao và sang trọng thì ít, trong khi số không kiêng cữ thì nhiều. ..."
 
 <!--pg-->
-### N 56.83 Gold and Currency *Jātarūparajatasutta*
+### N 56.83 Vàng và Tiền Tệ *Kinh Jātarūparajata*
 
-"... the sentient beings who refrain from receiving gold and currency
-are few, while those who don't refrain are many. ..."
+"... số *chúng sinh* kiêng cữ nhận vàng và tiền tệ thì ít, trong khi số không kiêng cữ thì nhiều. ..."
 
 <!--pg-->
-### N 56.84 Raw Grain *Āmakadhaññasutta*
+### N 56.84 Ngũ Cốc Sống *Kinh Āmakadhañña*
 
-"... the sentient beings who refrain from receiving raw grain are few,
-while those who don't refrain are many. ..."
+"... số *chúng sinh* kiêng cữ nhận ngũ cốc sống thì ít, trong khi số không kiêng cữ thì nhiều. ..."
 
 <!--pg-->
-### N 56.85 Raw Meat *Āmakamaṁsasutta*
+### N 56.85 Thịt Sống *Kinh Āmakamaṁsa*
 
-"... the sentient beings who refrain from receiving raw meat are few,
-while those who don't refrain are many. ..."
+"... số *chúng sinh* kiêng cữ nhận thịt sống thì ít, trong khi số không kiêng cữ thì nhiều. ..."
 
 <!--pg-->
-### N 56.86 Women and Girls *Kumārikasutta*
+### N 56.86 Phụ Nữ và Thiếu Nữ *Kinh Kumārika*
 
-"... the sentient beings who refrain from receiving women and girls are
-few, while those who don't refrain are many. ..."
+"... số *chúng sinh* kiêng cữ nhận phụ nữ và thiếu nữ thì ít, trong khi số không kiêng cữ thì nhiều. ..."
 
 <!--pg-->
-### N 56.87 Bondservants *Dāsidāsasutta*
+### N 56.87 Nô Lệ *Kinh Dāsidāsa*
 
-"... the sentient beings who refrain from receiving male and female
-bondservants are few, while those who don't refrain are many. ..."
+"... số *chúng sinh* kiêng cữ nhận nô lệ nam và nữ thì ít, trong khi số không kiêng cữ thì nhiều. ..."
 
 <!--pg-->
-### N 56.88 Goats and Sheep *Ajeḷakasutta*
+### N 56.88 Dê và Cừu *Kinh Ajeḷaka*
 
-"... the sentient beings who refrain from receiving goats and sheep are
-few, while those who don't refrain are many. ..."
+"... số *chúng sinh* kiêng cữ nhận dê và cừu thì ít, trong khi số không kiêng cữ thì nhiều. ..."
 
 <!--pg-->
-### N 56.89 Chickens and Pigs *Kukkuṭasūkarasutta*
+### N 56.89 Gà và Lợn *Kinh Kukkuṭasūkara*
 
-"... the sentient beings who refrain from receiving chickens and pigs
-are few, while those who don't refrain are many. ..."
+"... số *chúng sinh* kiêng cữ nhận gà và lợn thì ít, trong khi số không kiêng cữ thì nhiều. ..."
 
 <!--pg-->
-### N 56.90 Elephants and Cows *Hatthigavassasutta*
+### N 56.90 Voi và Bò *Kinh Hatthigavassa*
 
-"... the sentient beings who refrain from receiving elephants, cows,
-horses, and mares are few, while those who don't refrain are many. ..."
+"... số *chúng sinh* kiêng cữ nhận voi, bò, ngựa đực, và ngựa cái thì ít, trong khi số không kiêng cữ thì nhiều. ..."
 
 <!--pg-->
-## The Fourth Chapter of Abbreviated Texts on Raw Grain
+## Chương Thứ Tư Của Các Bài Kinh Tóm Tắt Về Ngũ Cốc Sống
 
-### N 56.91 Fields and Land *Khettavatthusutta*
+### N 56.91 Ruộng Đất *Kinh Khettavatthu*
 
-"... the sentient beings who refrain from receiving fields and land are
-few, while those who don't refrain are many. ..."
+"... số *chúng sinh* kiêng cữ nhận ruộng đất thì ít, trong khi số không kiêng cữ thì nhiều. ..."
 
 <!--pg-->
-### N 56.92 Buying and Selling *Kayavikkayasutta*
+### N 56.92 Mua Bán *Kinh Kayavikkaya*
 
-"... the sentient beings who refrain from buying and selling are few,
-while those who don't refrain are many. ..."
+"... số *chúng sinh* kiêng cữ mua bán thì ít, trong khi số không kiêng cữ thì nhiều. ..."
 
 <!--pg-->
-### N 56.93 Errands *Dūteyyasutta*
+### N 56.93 Việc Vặt *Kinh Dūteyya*
 
-"... the sentient beings who refrain from running errands and messages
-are few, while those who don't refrain are many. ..."
+"... số *chúng sinh* kiêng cữ chạy việc vặt và đưa tin thì ít, trong khi số không kiêng cữ thì nhiều. ..."
 
 <!--pg-->
-### N 56.94 False Weights *Tulākūṭasutta*
+### N 56.94 Cân Gian *Kinh Tulākūṭa*
 
-"... the sentient beings who refrain from falsifying weights, metals, or
-measures are few, while those who don't refrain are many. ..."
+"... số *chúng sinh* kiêng cữ gian lận cân, kim loại, hoặc đo lường thì ít, trong khi số không kiêng cữ thì nhiều. ..."
 
 <!--pg-->
-### N 56.95 Bribery *Ukkoṭanasutta*
+### N 56.95 Hối Lộ *Kinh Ukkoṭana*
 
-"... the sentient beings who refrain from bribery, fraud, cheating, and
-duplicity are few, while those who don't refrain are many. ..."
+"... số *chúng sinh* kiêng cữ hối lộ, gian lận, lừa đảo, và hai mặt thì ít, trong khi số không kiêng cữ thì nhiều. ..."
 
 <!--pg-->
-### N 56.96--101 Mutilation, Etc. *Chedanādisutta*
+### N 56.96--101 Cắt Xén, V.v. *Kinh Chedanādi*
 
-"... the sentient beings who refrain from mutilation, murder, abduction,
-banditry, plunder, and violence are few, while those who don't refrain
-are many. Why is that? It's because they haven't seen the four noble
-truths. What four? The noble truths of suffering, its origin, its
-cessation, and the path.
+"... số *chúng sinh* kiêng cữ cắt xén, giết người, bắt cóc, cướp bóc, cướp phá, và bạo lực thì ít, trong khi số không kiêng cữ thì nhiều. Tại sao vậy? Đó là vì họ chưa thấy được *bốn sự thật cao quý*. Bốn điều đó là gì? Các sự thật cao quý về *khổ*, nguồn gốc của nó, sự chấm dứt của nó, và con đường.
 
-That's why you should practice meditation ..."
+Vì vậy, các vị nên thực hành thiền định ..."
 
 <!--pg-->
-## The Chapter of Abbreviated Texts on Five Destinations
+## Chương Tóm Tắt Về Năm Cõi
 
-### N 56.102 Passing Away as Humans and Reborn in Hell *Manussacutinirayasutta*
+### N 56.102 Chết Làm Người và Tái Sinh Vào Địa Ngục *Kinh Manussacutiniraya*
 
-"... the sentient beings who die as humans and are reborn as humans are
-few, while those who die as humans and are reborn in hell are many ..."
+"... số *chúng sinh* chết làm người và được tái sinh làm người thì ít, trong khi số chết làm người và được tái sinh vào địa ngục thì nhiều ..."
 
 <!--pg-->
-### N 56.103 Passing Away as Humans and Reborn as Animals *Manussacutitiracchānasutta*
+### N 56.103 Chết Làm Người và Tái Sinh Làm Súc Sinh *Kinh Manussacutitiracchāna*
 
-"... the sentient beings who die as humans and are reborn as humans are
-few, while those who die as humans and are reborn in the animal realm
-are many ..."
+"... số *chúng sinh* chết làm người và được tái sinh làm người thì ít, trong khi số chết làm người và được tái sinh vào cõi súc sinh thì nhiều ..."
 
 <!--pg-->
-### N 56.104 Passing Away as Humans and Reborn as Ghosts *Manussacutipettivisayasutta*
+### N 56.104 Chết Làm Người và Tái Sinh Làm Ngạ Quỷ *Kinh Manussacutipettivisaya*
 
-"... the sentient beings who die as humans and are reborn as humans are
-few, while those who die as humans and are reborn in the ghost realm are
-many ..."
+"... số *chúng sinh* chết làm người và được tái sinh làm người thì ít, trong khi số chết làm người và được tái sinh vào cõi ngạ quỷ thì nhiều ..."
 
 <!--pg-->
-### N 56.105--107 Passing Away as Humans and Reborn as Gods *Manussacutidevanirayādisutta*
+### N 56.105--107 Chết Làm Người và Tái Sinh Làm Trời *Kinh Manussacutidevanirayādi*
 
-"... the sentient beings who die as humans and are reborn as gods are
-few, while those who die as humans and are reborn in hell, or the animal
-realm, or the ghost realm are many."
+"... số *chúng sinh* chết làm người và được tái sinh làm trời thì ít, trong khi số chết làm người và được tái sinh vào địa ngục, hoặc cõi súc sinh, hoặc cõi ngạ quỷ thì nhiều."
 
 <!--pg-->
-### N 56.108--110 Passing Away as Gods and Reborn as Gods *Devacutinirayādisutta*
+### N 56.108--110 Chết Làm Trời và Tái Sinh Làm Trời *Kinh Devacutinirayādi*
 
-"... the sentient beings who die as gods and are reborn as gods are few,
-while those who die as gods and are reborn in hell, or the animal realm,
-or the ghost realm are many."
+"... số *chúng sinh* chết làm trời và được tái sinh làm trời thì ít, trong khi số chết làm trời và được tái sinh vào địa ngục, hoặc cõi súc sinh, hoặc cõi ngạ quỷ thì nhiều."
 
 <!--pg-->
-### N 56.111--113 Dying as Gods and Reborn as Humans *Devamanussanirayādisutta*
+### N 56.111--113 Chết Làm Trời và Tái Sinh Làm Người *Kinh Devamanussanirayādi*
 
-"... the sentient beings who die as gods and are reborn as humans are
-few, while those who die as gods and are reborn in hell, or the animal
-realm, or the ghost realm are many."
+"... số *chúng sinh* chết làm trời và được tái sinh làm người thì ít, trong khi số chết làm trời và được tái sinh vào địa ngục, hoặc cõi súc sinh, hoặc cõi ngạ quỷ thì nhiều."
 
 <!--pg-->
-### N 56.114--116 Dying in Hell and Reborn as Humans *Nirayamanussanirayādisutta*
+### N 56.114--116 Chết Trong Địa Ngục và Tái Sinh Làm Người *Kinh Nirayamanussanirayādi*
 
-"... the sentient beings who die in hell and are reborn as humans are
-few, while those who die in hell and are reborn in hell, or the animal
-realm, or the ghost realm are many."
+"... số *chúng sinh* chết trong địa ngục và được tái sinh làm người thì ít, trong khi số chết trong địa ngục và được tái sinh vào địa ngục, hoặc cõi súc sinh, hoặc cõi ngạ quỷ thì nhiều."
 
 <!--pg-->
-### N 56.117--119 Dying in Hell and Reborn as Gods *Nirayadevanirayādisutta*
+### N 56.117--119 Chết Trong Địa Ngục và Tái Sinh Làm Trời *Kinh Nirayadevanirayādi*
 
-"... the sentient beings who die in hell and are reborn as gods are few,
-while those who die in hell and are reborn in hell, or the animal realm,
-or the ghost realm are many."
+"... số *chúng sinh* chết trong địa ngục và được tái sinh làm trời thì ít, trong khi số chết trong địa ngục và được tái sinh vào địa ngục, hoặc cõi súc sinh, hoặc cõi ngạ quỷ thì nhiều."
 
 <!--pg-->
-### N 56.120--122 Dying as Animals and Reborn as Humans *Tiracchānamanussanirayādisutta*
+### N 56.120--122 Chết Làm Súc Sinh và Tái Sinh Làm Người *Kinh Tiracchānamanussanirayādi*
 
-"... the sentient beings who die as animals and are reborn as humans are
-few, while those who die as animals and are reborn in hell, or the
-animal realm, or the ghost realm are many."
+"... số *chúng sinh* chết làm súc sinh và được tái sinh làm người thì ít, trong khi số chết làm súc sinh và được tái sinh vào địa ngục, hoặc cõi súc sinh, hoặc cõi ngạ quỷ thì nhiều."
 
 <!--pg-->
-### N 56.123--125 Dying as Animals and Reborn as Gods *Tiracchānadevanirayādisutta*
+### N 56.123--125 Chết Làm Súc Sinh và Tái Sinh Làm Trời *Kinh Tiracchānadevanirayādi*
 
-"... the sentient beings who die as animals and are reborn as gods are
-few, while those who die as animals and are reborn in hell, or the
-animal realm, or the ghost realm are many."
+"... số *chúng sinh* chết làm súc sinh và được tái sinh làm trời thì ít, trong khi số chết làm súc sinh và được tái sinh vào địa ngục, hoặc cõi súc sinh, hoặc cõi ngạ quỷ thì nhiều."
 
 <!--pg-->
-### N 56.126--128 Dying as Ghosts and Reborn as Humans *Pettimanussanirayādisutta*
+### N 56.126--128 Chết Làm Ngạ Quỷ và Tái Sinh Làm Người *Kinh Pettimanussanirayādi*
 
-"... the sentient beings who die as ghosts and are reborn as humans are
-few, while those who die as ghosts and are reborn in hell, or the animal
-realm, or the ghost realm are many."
+"... số *chúng sinh* chết làm ngạ quỷ và được tái sinh làm người thì ít, trong khi số chết làm ngạ quỷ và được tái sinh vào địa ngục, hoặc cõi súc sinh, hoặc cõi ngạ quỷ thì nhiều."
 
 <!--pg-->
-### N 56.129--130 Dying as Ghosts and Reborn as Gods *Pettidevanirayādisutta*
+### N 56.129--130 Chết Làm Ngạ Quỷ và Tái Sinh Làm Trời *Kinh Pettidevanirayādi*
 
-"... the sentient beings who die as ghosts and are reborn as gods are
-few, while those who die as ghosts and are reborn in hell are many."
+"... số *chúng sinh* chết làm ngạ quỷ và được tái sinh làm trời thì ít, trong khi số chết làm ngạ quỷ và được tái sinh vào địa ngục thì nhiều."
 
-"... the sentient beings who die as ghosts and are reborn as gods are
-few, while those who die as ghosts and are reborn in the animal realm
-are many."
+"... số *chúng sinh* chết làm ngạ quỷ và được tái sinh làm trời thì ít, trong khi số chết làm ngạ quỷ và được tái sinh vào cõi súc sinh thì nhiều."
 
 <!--pg-->
-### N 56.131 Dying as Ghosts and Reborn as Ghosts *Pettidevapettivisayasutta*
+### N 56.131 Chết Làm Ngạ Quỷ và Tái Sinh Làm Ngạ Quỷ *Kinh Pettidevapettivisaya*
 
-"... the sentient beings who die as ghosts and are reborn as gods are
-few, while those who die as ghosts and are reborn in the ghost realm are
-many. Why is that? It's because they haven't seen the four noble truths.
-What four? The noble truths of suffering, the origin of suffering, the
-cessation of suffering, and the practice that leads to the cessation of
-suffering.
+"... số *chúng sinh* chết làm ngạ quỷ và được tái sinh làm trời thì ít, trong khi số chết làm ngạ quỷ và được tái sinh vào cõi ngạ quỷ thì nhiều. Tại sao vậy? Đó là vì họ chưa thấy được *bốn sự thật cao quý*. Bốn điều đó là gì? Các sự thật cao quý về *khổ*, nguồn gốc của *khổ*, sự chấm dứt *khổ*, và con đường thực hành dẫn đến sự chấm dứt *khổ*.
 
-That's why you should practice meditation to understand: 'This is
-suffering' ... 'This is the origin of suffering' ... 'This is the
-cessation of suffering' ... 'This is the practice that leads to the
-cessation of suffering'."
+Vì vậy, các vị nên thực hành thiền định để hiểu rằng: 'Đây là *khổ*' ... 'Đây là nguồn gốc của *khổ*' ... 'Đây là sự chấm dứt *khổ*' ... 'Đây là con đường thực hành dẫn đến sự chấm dứt *khổ*'."
 
-That is what the Buddha said. Satisfied, the mendicants approved what
-the Buddha said.
+Đó là những gì Đức Phật đã nói. Các *Tỷ kheo* hoan hỷ, tán thành những gì Đức Phật đã nói.
