@@ -487,5 +487,5 @@ simply grateful, life is simply great!
 
 ---
 
-[1]: [www.innerlinks.com](http://www.innerlinks.com/)
+[1]: https://innerlinks.com
 

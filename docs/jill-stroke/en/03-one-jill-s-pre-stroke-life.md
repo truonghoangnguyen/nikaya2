@@ -210,9 +210,9 @@ however, as I believe it will profoundly simplify your understanding.
 [1]: R.B.H Tootell and J.B. Taylor, "Anatomical Evidence for MT/V5 and Additional Cortical Visual Areas in Man," in
 _Cerebral Cortex_ (Jan/Feb 1995) 39-55.
 
-[2]: [www.brainbank.mclean.org](http://www.brainbank.mclean.org/) or 1-800-BrainBank
+[2]: https://brainbank.mclean.org or 1-800-BrainBank
 
-[3]:See Appendix A for the lyrics to the Brain Bank jingle.
+[3]: See Appendix A for the lyrics to the Brain Bank jingle.
 
-[4]:[www.drjilltaylor.com](http://www.drjilltaylor.com/)
+[4]: https://drjilltaylor.com
 

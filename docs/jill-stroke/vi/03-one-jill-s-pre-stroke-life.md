@@ -34,8 +34,8 @@ Tôi nhận ra có lẽ bạn đang háo hức muốn bắt đầu đọc câu c
 
 [1]: R.B.H Tootell và J.B. Taylor, "Bằng chứng Giải phẫu về MT/V5 và các Vùng Vỏ não Thị giác Bổ sung ở Người," trong _Cerebral Cortex_ (Tháng 1/Tháng 2 1995) 39-55.
 
-[2]: [www.brainbank.mclean.org](http://www.brainbank.mclean.org/) hoặc 1-800-BrainBank
+[2]: https://brainbank.mclean.org hoặc 1-800-BrainBank
 
 [3]: Xem Phụ lục A để biết lời bài hát quảng cáo của Ngân hàng Não.
 
-[4]: [www.drjilltaylor.com](http://www.drjilltaylor.com/)
+[4]: https://drjilltaylor.com

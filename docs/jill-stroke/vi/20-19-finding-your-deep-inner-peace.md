@@ -98,4 +98,4 @@ Như tôi đã đề cập trước đó, cơn đau thể xác là một hiện 
 
 ---
 
-[1]: [www.innerlinks.com](http://www.innerlinks.com/)
+[1]: https://innerlinks.com
