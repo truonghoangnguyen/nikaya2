@@ -4,10 +4,9 @@ layout: home
 
 <script setup>
 import { useData } from 'vitepress'
-import { computed, watch, onMounted } from 'vue'
+import { computed, onMounted } from 'vue'
 
-const { params, page } = useData()
-// const slug = computed(() => params.value.slug);
+const { params } = useData()
 const data = computed(() => params.value.data);
 const nextLink = data.value.nextlink
 const backLink = data.value.backlink
@@ -19,19 +18,14 @@ onMounted(() => {
 })
 </script>
 
-
-<TextCompare
+<TextCompare2
   :leftPath="data.left"
   :rightPath="data.right"
-  notePath=""
+  :leftContentHtml="data.leftHtml"
+  :rightContentHtml="data.rightHtml"
   :leftTitle="data.leftTitle"
   :rightTitle="data.rightTitle"
 />
-
-
-<style>
-
-</style>
 
 <nav class="custom-prev-next" aria-labelledby="custom-footer-aria-label">
   <span class="visually-hidden" id="custom-footer-aria-label">Pager</span>

@@ -4,9 +4,10 @@ layout: home
 
 <script setup>
 import { useData } from 'vitepress'
-import { computed, onMounted } from 'vue'
+import { computed, watch, onMounted } from 'vue'
 
-const { params } = useData()
+const { params, page } = useData()
+// const slug = computed(() => params.value.slug);
 const data = computed(() => params.value.data);
 const nextLink = data.value.nextlink
 const backLink = data.value.backlink
@@ -18,73 +19,18 @@ onMounted(() => {
 })
 </script>
 
-<TextCompare2
+
+<TextCompare
   :leftPath="data.left"
   :rightPath="data.right"
-  :leftContentHtml="data.leftHtml"
-  :rightContentHtml="data.rightHtml"
+  notePath=""
   :leftTitle="data.leftTitle"
   :rightTitle="data.rightTitle"
 />
 
+
 <style>
-.custom-prev-next {
-  display: flex;
-  justify-content: space-between;
-  border-top: 1px solid var(--vp-c-divider);
-  padding-top: 1rem;
-  margin-top: 2.5rem;
-}
 
-.custom-pager {
-  display: flex;
-  flex-direction: column;
-  max-width: 48%;
-}
-
-.custom-pager.prev {
-  margin-right: auto;
-}
-
-.custom-pager.next {
-  margin-left: auto;
-  text-align: right;
-}
-
-.custom-pager-link {
-  display: inline-block;
-  font-weight: 500;
-  color: var(--vp-c-brand);
-  text-decoration: none;
-}
-
-.custom-pager-link:hover {
-  color: var(--vp-c-brand-dark);
-}
-
-.custom-desc {
-  display: block;
-  color: var(--vp-c-text-2);
-  font-size: 0.9em;
-  margin-bottom: 0.2em;
-}
-
-.custom-title {
-  display: block;
-  line-height: 1.3;
-}
-
-.visually-hidden {
-  position: absolute;
-  width: 1px;
-  height: 1px;
-  padding: 0;
-  margin: -1px;
-  overflow: hidden;
-  clip: rect(0, 0, 0, 0);
-  white-space: nowrap;
-  border-width: 0;
-}
 </style>
 
 <nav class="custom-prev-next" aria-labelledby="custom-footer-aria-label">
