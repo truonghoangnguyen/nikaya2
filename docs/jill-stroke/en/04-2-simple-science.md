@@ -292,7 +292,6 @@ out into the world, is divided into billions of tiny spots or pixels. Each
 pixel is filled with atoms and molecules that are in vibration. The retinal
 cells in the back of our eyes detect the movement of those atomic
 particles. Atoms vibrating at different frequencies emit different
-
 wavelengths of energy, and this information is eventu coded as
 different colors by the visual cortex in the occi region of our
 brain. A visual image is built by our br ability to package

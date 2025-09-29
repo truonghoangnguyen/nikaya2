@@ -1,5 +1,6 @@
 - [LỜI TỰA](/jill-brain/vi/01-preface.md)
-- [*Nhân cách số 3*: NÃO PHẢI CẢM XÚC](/jill-brain/vi/02-mystory-and-our-brain.md)
+- [CÂU CHUYỆN CỦA TÔI VÀ BỘ NÃO CỦA CHÚNG TA](/jill-brain/vi/02-mystory-and-our-brain.md)
+- [GIẢI PHẪU NÃO BỘ VÀ TÍNH CÁCH](/jill-brain/vi/03-brain-anatomy-and-personality.md)
 - [ĐỘI NGŨ TRONG NÃO BỘ: BỐN NHÂN CÁCH](/jill-brain/vi/04-our-brains-team-the-four-characters.md)
 - [*NHÂN CÁCH SỐ 1*: TƯ DUY BÁN CẦU NÃO TRÁI](/jill-brain/vi/05-character-1-left-brain-thinking.md)
 - [NHÂN CÁCH SỐ 2: CẢM XÚC BÁN CẦU NÃO TRÁI](/jill-brain/vi/06-character-2-left-brain-emotional.md)

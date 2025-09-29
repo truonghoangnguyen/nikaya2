@@ -20,7 +20,7 @@ import kinhtuongung_thichminhchau from '../kinhtuongung/thichminhchau/meta/filel
 import kinhtuongung_sujato_vi from '../kinhtuongung/sujato-vi/meta/filelist';
 import kinhtuongung_sujato_en from '../kinhtuongung/sujato-en/meta/filelist';
 
-import jill_whole_brain_vi from '../jill-brain/vi/filelist';
+import jill_whole_brain_vi from '../jill-brain/vi/meta/filelist';
 import jill_stroke_vi from '../jill-stroke/vi/filelist';
 
 // import kinhtangchi_sujato_vi_intro from '../kinhtangchi/sujato-vi/intro/filelist';

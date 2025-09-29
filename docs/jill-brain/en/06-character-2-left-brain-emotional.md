@@ -32,7 +32,6 @@ mixed with those feelings of doom. Post-stroke, however, when my
 Character 1 recalls the thinking memory of that day, my emotional
 Character 2 has no emotional content to contribute to the memory.
 Although I can remember that I felt a certain way, I cannot recapture the
-
 feeling anymore. To give you another example, one of the most important
 days of my life was when I graduated with my doctorate degree. Although I
 remember feeling tremendous pride that day, my recollection of that event

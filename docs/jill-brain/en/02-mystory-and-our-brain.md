@@ -358,7 +358,6 @@ comes to our experience and behavior. If we live with the basic belief that
 there is only one group of cells inside of our brain that processes our
 emotions, our experience of mixed emotions can be very confusing. At a
 neuroanatomical level, when we experience conflicting feelings it is
-
 because we have two emotional groups of cells that are completely separate
 from one another in that they do not share any cell bodies.
 

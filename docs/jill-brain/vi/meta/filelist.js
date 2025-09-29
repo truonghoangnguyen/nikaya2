@@ -1,8 +1,9 @@
 const jill_whole_brain_vi = [
   { text: "LỜI TỰA", link: "/jill-brain/vi/01-preface.md" },
-  { text: "Nhân cách số 3: NÃO PHẢI CẢM XÚC", link: "/jill-brain/vi/02-mystory-and-our-brain.md" },
+  { text: "CÂU CHUYỆN CỦA TÔI VÀ BỘ NÃO CỦA CHÚNG TA", link: "/jill-brain/vi/02-mystory-and-our-brain.md" },
+  { text: "GIẢI PHẪU NÃO BỘ VÀ TÍNH CÁCH", link: "/jill-brain/vi/03-brain-anatomy-and-personality.md" },
   { text: "ĐỘI NGŨ TRONG NÃO BỘ: BỐN NHÂN CÁCH", link: "/jill-brain/vi/04-our-brains-team-the-four-characters.md" },
-  { text: "*NHÂN CÁCH SỐ 1*: TƯ DUY BÁN CẦU NÃO TRÁI", link: "/jill-brain/vi/05-character-1-left-brain-thinking.md" },
+  { text: "NHÂN CÁCH SỐ 1: TƯ DUY BÁN CẦU NÃO TRÁI", link: "/jill-brain/vi/05-character-1-left-brain-thinking.md" },
   { text: "NHÂN CÁCH SỐ 2: CẢM XÚC BÁN CẦU NÃO TRÁI", link: "/jill-brain/vi/06-character-2-left-brain-emotional.md" },
   { text: "NHÂN CÁCH SỐ 3: BÁN CẦU NÃO PHẢI CẢM XÚC", link: "/jill-brain/vi/07-character-3-right-brain-emotional.md" },
   { text: "NHÂN CÁCH SỐ 4: TƯ DUY NÃO PHẢI", link: "/jill-brain/vi/08-character-4-right-brain-thinking.md" },

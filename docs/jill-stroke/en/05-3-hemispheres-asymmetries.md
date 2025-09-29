@@ -92,7 +92,6 @@ physiology.
 
 To the right mind, no time exists other than the present moment,
 and each moment is vibrant with sensation. Life or death occurs in the
-
 present moment. The experience of joy happens in the present moment.
 Our perception and experience of connection with something that is
 greater than ourselves occurs in the present moment. To our right mind,

@@ -5,7 +5,7 @@
 
 2\.  Vào lúc đó, sa di Aciravata đang sống trong một túp lều trong rừng. Khi ấy, Hoàng tử Jayasena, trong lúc đi dạo và rảo bước tập thể dục, đã đến chỗ sa di Aciravata và chào hỏi vị ấy. [^1174] Sau khi cuộc trò chuyện lịch sự và thân mật kết thúc, hoàng tử ngồi xuống một bên và nói với sa di Aciravata: "Thưa Tôn giả Aggivessana, tôi nghe nói rằng một vị tỳ kheo (bhikkhu - nhà sư Phật giáo nam) sống ở đây tinh cần, nhiệt tâm và quyết tâm có thể đạt được nhất tâm (unification of mind - sự tập trung tâm trí vào một điểm)."
 
-    "Đúng vậy, thưa hoàng tử, đúng vậy. Một vị tỳ kheo sống ở đây tinh cần, nhiệt tâm và quyết tâm có thể đạt được nhất tâm."
+"Đúng vậy, thưa hoàng tử, đúng vậy. Một vị tỳ kheo sống ở đây tinh cần, nhiệt tâm và quyết tâm có thể đạt được nhất tâm."
 
 3\.  "Thật tốt nếu Tôn giả Aggivessana có thể giảng Pháp (Dhamma - giáo lý của Đức Phật) cho tôi như ngài đã nghe và thông thạo."
 
