@@ -3,6 +3,7 @@ import Theme from 'vitepress/theme'
 // import TranslationCompare from '../components/TranslationCompare.vue'
 // import ChapterCompare from '../components/ChapterCompare.vue'
 import TextCompare from '../components/TextCompare.vue'
+import TextCompare2 from '../components/TextCompare2.vue'
 import CompareButton from '../components/CompareButton.vue'
 import NotePopup from '../components/NotePopup.vue'
 import NavFontSizeButton from './NavFontSizeButton.vue'
@@ -16,6 +17,7 @@ export default {
     //app.component('TranslationCompare', TranslationCompare)
     //app.component('ChapterCompare', ChapterCompare)
     app.component('TextCompare', TextCompare)
+    app.component('TextCompare2', TextCompare2)
     app.component('CompareButton', CompareButton)
     app.component('NotePopup', NotePopup)
     app.component('HomePageLayout', HomePageLayout)
