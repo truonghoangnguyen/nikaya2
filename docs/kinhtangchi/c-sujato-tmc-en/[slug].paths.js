@@ -45,7 +45,7 @@ async function readAndRenderMarkdown(filePath, mdInstance) {
     return mdInstance.render(content);
   } catch (e) {
     console.error(`Error reading or rendering file: ${filePath}`, e);
-    return ''; // Trả về chuỗi rỗng nếu có lỗi
+    return 'error in slug.paths'; // Trả về chuỗi rỗng nếu có lỗi
   }
 }
 

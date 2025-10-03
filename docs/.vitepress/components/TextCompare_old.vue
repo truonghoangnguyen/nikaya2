@@ -1,15 +1,11 @@
-<!-- TextCompare.vue -->
 <script setup lang="ts">
 import { ref, onMounted, computed } from 'vue'
 import MarkdownIt from 'markdown-it'
 import anchor from 'markdown-it-anchor'
+// import MarkdownItFootnote from 'markdown-it-footnote'
+// import slugify from '@sindresorhus/slugify';
+import { slugAnchor } from '../utils';
 import markdownItAttrs from 'markdown-it-attrs'
-// import { slugAnchor } from '../utils'; // Nếu bạn có file utils riêng
-
-// Hàm slugify cơ bản, phải giống với hàm trong [slug].paths.js
-const slugAnchor = (s: string) => {
-  return encodeURIComponent(String(s).trim().toLowerCase().replace(/\s+/g, '-'));
-};
 
 interface Props {
   leftPath: string
@@ -17,91 +13,125 @@ interface Props {
   notePath?: string
   leftTitle?: string
   rightTitle?: string
-
-  // Các props này chỉ tồn tại khi build, sẽ là undefined khi dev
-  leftContentHtml?: string
-  rightContentHtml?: string
 }
 
 const props = withDefaults(defineProps<Props>(), {
   leftTitle: 'Left',
   rightTitle: 'Right',
-  notePath: '',
-  leftContentHtml: '',
-  rightContentHtml: '',
+  notePath: ''
 })
 
-// --- State ---
-const isLoading = ref(true)
-const error = ref<string | null>(null)
-const finalLeftHtml = ref('')
-const finalRightHtml = ref('')
+// Initialize markdown-it instance
+const mdLeft = new MarkdownIt({
+  html: true,
+  linkify: true,
+  typographer: true
+}).use(anchor, {
+    // only headings ≥ h2
+    //level: [23,4],
+    permalink: anchor.permalink.ariaHidden({
+      symbol: '',
+        placement: 'before'
+      }),
+      slugify: (s) => slugAnchor(s),
+}).use(markdownItAttrs);
 
-// Hàm này dùng để chia chuỗi HTML thành các đoạn theo comment <!--pg-->
-const parseHtmlByParagraphs = (html: string): string[] => {
-  const paragraphRegex = /<!--pg-->/g
-  const parts = html.split(paragraphRegex)
-  return parts.map(part => part.trim()).filter(part => part.length > 0)
-}
+const mdRight = new MarkdownIt({
+  html: true,
+  linkify: true,
+  typographer: true
+});//.use(MarkdownItFootnote);
 
-// Computed property để tự động chia đoạn văn khi final HTML thay đổi
-const parsedParagraphs = computed(() => ({
-  left: parseHtmlByParagraphs(finalLeftHtml.value),
-  right: parseHtmlByParagraphs(finalRightHtml.value)
-}))
+const md = new MarkdownIt({
+  html: true,
+  linkify: true,
+  typographer: true
+})
 
+// Compute the original file paths for links (removing the .md extension)
 const leftOriginalPath = computed(() => props.leftPath.replace(/\.md$/, ''))
 const rightOriginalPath = computed(() => props.rightPath.replace(/\.md$/, ''))
 
+// State variables
+const leftContent = ref<string>('')
+const rightContent = ref<string>('')
+const noteContent = ref<string>('')
+const parsedParagraphs = ref<{ left: string[], right: string[] }>({ left: [], right: [] })
+const isLoading = ref<boolean>(true)
+const hasNote = ref<boolean>(false)
+const error = ref<string | null>(null)
+
+// Parse HTML content by paragraph tags
+const parseHtmlByParagraphs = (html: string): string[] => {
+  // Split content by paragraph tags <!--pg-->
+  const paragraphRegex = /<!--pg-->/g
+  const parts = html.split(paragraphRegex)
+
+  // Remove any empty parts and trim each part
+  return parts.map(part => part.trim()).filter(part => part.length > 0)
+}
+
 onMounted(async () => {
-  // Kịch bản 1: Đang ở production, đã có HTML được pre-render
-  if (props.leftContentHtml && props.rightContentHtml) {
-    finalLeftHtml.value = props.leftContentHtml
-    finalRightHtml.value = props.rightContentHtml
-    isLoading.value = false
-    return;
-  }
+  try {
+    isLoading.value = true
 
-  // Kịch bản 2: Đang ở môi trường dev, cần fetch và render phía client
-  // import.meta.env.DEV là biến môi trường của Vite
-  if (import.meta.env.DEV) {
-    try {
-      // Khởi tạo markdown-it chỉ khi cần thiết (khi dev)
-      const mdLeft = new MarkdownIt({ html: true, linkify: true, typographer: true })
-        .use(anchor, {
-          permalink: anchor.permalink.ariaHidden({ symbol: '', placement: 'before' }),
-          slugify: (s) => slugAnchor(s),
-        })
-        .use(markdownItAttrs);
+    // Fetch both text files
+    const [leftResponse, rightResponse] = await Promise.all([
+      fetch(props.leftPath),
+      fetch(props.rightPath)
+    ])
 
-      const mdRight = new MarkdownIt({ html: true, linkify: true, typographer: true });
+    if (!leftResponse.ok) throw new Error(`Failed to load ${props.leftPath}`)
+    if (!rightResponse.ok) throw new Error(`Failed to load ${props.rightPath}`)
 
-      // Fetch file
-      const [leftResponse, rightResponse] = await Promise.all([
-        fetch(props.leftPath),
-        fetch(props.rightPath)
-      ]);
+    leftContent.value = await leftResponse.text()
+    rightContent.value = await rightResponse.text()
 
-      if (!leftResponse.ok) throw new Error(`Failed to load ${props.leftPath}`)
-      if (!rightResponse.ok) throw new Error(`Failed to load ${props.rightPath}`)
+    // Remove frontmatter if present
+    leftContent.value = leftContent.value.replace(/^---[\s\S]*?---\n/, '')
+    rightContent.value = rightContent.value.replace(/^---[\s\S]*?---\n/, '')
 
-      let leftContent = await leftResponse.text()
-      let rightContent = await rightResponse.text()
+    // First render entire markdown content to HTML
+    const leftHtml = mdLeft.render(leftContent.value)
+    const rightHtml = mdRight.render(rightContent.value)
 
-      // Xóa frontmatter
-      leftContent = leftContent.replace(/^---[\s\S]*?---\n/, '')
-      rightContent = rightContent.replace(/^---[\s\S]*?---\n/, '')
-
-      // Render và cập nhật state
-      finalLeftHtml.value = mdLeft.render(leftContent)
-      finalRightHtml.value = mdRight.render(rightContent)
-
-    } catch (e) {
-      error.value = e instanceof Error ? e.message : 'Unknown error loading files'
-      console.error(error.value)
-    } finally {
-      isLoading.value = false
+    // Then parse HTML content by paragraphs
+    parsedParagraphs.value = {
+      left: parseHtmlByParagraphs(leftHtml),
+      right: parseHtmlByParagraphs(rightHtml)
     }
+
+    // Fetch note file if provided
+    if (props.notePath) {
+      try {
+        const noteResponse = await fetch(props.notePath)
+
+        if (noteResponse.ok) {
+          noteContent.value = await noteResponse.text()
+
+          // Remove frontmatter if present
+          noteContent.value = noteContent.value.replace(/^---[\s\S]*?---\n/, '')
+
+          // Only show notes section if there's actual content
+          hasNote.value = noteContent.value.trim().length > 0
+
+          // Convert markdown to HTML
+          noteContent.value = md.render(noteContent.value)
+        } else {
+          console.log(`Note file not found: ${props.notePath}`)
+          hasNote.value = false
+        }
+      } catch (e) {
+        console.error(`Error loading note file: ${e instanceof Error ? e.message : 'Unknown error'}`)
+        hasNote.value = false
+      }
+    }
+
+  } catch (e) {
+    error.value = e instanceof Error ? e.message : 'Unknown error loading files'
+    console.error(error.value)
+  } finally {
+    isLoading.value = false
   }
 })
 </script>
@@ -157,11 +187,14 @@ onMounted(async () => {
         </div>
       </div>
 
-      <!-- Note section (bạn có thể thêm lại logic fetch note nếu cần) -->
+      <!-- Notes section -->
+      <div v-if="hasNote" class="notes-container">
+        <h2 class="notes-title">Notes</h2>
+        <div class="notes-content" v-html="noteContent"></div>
+      </div>
     </div>
   </div>
 </template>
-
 
 <style>
 /* Non-scoped styles for proper markdown rendering */
