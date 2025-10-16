@@ -143,8 +143,10 @@ export default defineConfig({
  * @returns {object | undefined} The modified pageData object, or undefined if the book is not supported.
  */
   transformPageData(pageData) {
-    // --- Configuration ---
-
+    // --- Dynamic title ---
+    if (pageData.params?.data?.title) {
+      pageData.title = pageData.params.data.title
+    }
 
     // --- Input Validation and Parsing ---
 

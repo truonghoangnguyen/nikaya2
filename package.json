@@ -4,7 +4,7 @@
   "description": "Multilingual documentation with side-by-side comparison",
   "type": "module",
   "main": "index.js",
-  "packageManager": "pnpm@10.12.1",
+  "packageManager": "pnpm@10.18.1",
   "scripts": {
     "docs:dev": "vitepress dev docs",
     "docs:build": "vitepress build docs",
@@ -19,7 +19,7 @@
   "devDependencies": {
     "@types/markdown-it": "^14.1.2",
     "markdown-it-footnote": "^4.0.0",
-    "vitepress": "^1.6.3",
+    "vitepress": "^1.6.4",
     "vue": "^3.5.13"
   },
   "pnpm": {

@@ -28,6 +28,7 @@ Then, when the night was well advanced, a certain deity of beautiful appearance 
 
 That is what was said by the deity, who thereupon vanished at once.
 
+<!--pg-->
 3\. Then, when the night was over, the venerable Kumāra Kassapa went to the Blessed One. After paying homage to him, he sat down at one side and told the Blessed One what had occurred. Then he asked: "Venerable sir, what is the ant-hill, what the fuming by night, what the flaming by day? Who is the brahmin, who the wise one? What is the knife, what the delving, what the bar, what the toad, what the fork, what the sieve, what the tortoise, what the axe and block, what the piece of meat, what the Nāga serpent?" [144]
 
 4\. "Bhikkhu, the ant-hill is a symbol for this body, made of material form, consisting of the four great elements, procreated by a mother and father, built up out of boiled rice and porridge, [^278] and subject to impermanence, to being worn and rubbed away, to dissolution and disintegration.

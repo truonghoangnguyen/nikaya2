@@ -1,8 +1,7 @@
 ---
-title: "aaaq"
 layout: home
 ---
-<!-- [slug].md -->
+
 <script setup>
 import { useData } from 'vitepress'
 import { computed, onMounted } from 'vue'
@@ -19,22 +18,27 @@ onMounted(() => {
 })
 </script>
 
-<TextCompare
+<TextCompare2
   :leftPath="data.left"
   :rightPath="data.right"
-  :leftTitle="data.leftTitle"
-  :rightTitle="data.rightTitle"
   :leftContentHtml="data.leftHtml"
   :rightContentHtml="data.rightHtml"
-  notePath=""
+  :leftTitle="data.leftTitle"
+  :rightTitle="data.rightTitle"
 />
 
-<!-- Bạn có thể thêm các link điều hướng ở đây nếu muốn -->
-<div style="display: flex; justify-content: space-between; margin-top: 2rem;">
-  <span v-if="backLink">
-    <a :href="backLink.link">&laquo; {{ backLink.text }}</a>
-  </span>
-  <span v-if="nextLink" style="margin-left: auto;">
-    <a :href="nextLink.link">{{ nextLink.text }} &raquo;</a>
-  </span>
-</div>
+<nav class="custom-prev-next" aria-labelledby="custom-footer-aria-label">
+  <span class="visually-hidden" id="custom-footer-aria-label">Pager</span>
+  <div v-if="backLink" class="custom-pager prev">
+    <a class="custom-pager-link" :href="backLink.link">
+      <span class="custom-desc">Previous</span>
+      <span class="custom-title">{{ backLink.text }}</span>
+    </a>
+  </div>
+  <div v-if="nextLink" class="custom-pager next">
+    <a class="custom-pager-link" :href="nextLink.link">
+      <span class="custom-desc">Next</span>
+      <span class="custom-title">{{ nextLink.text }}</span>
+    </a>
+  </div>
+</nav>

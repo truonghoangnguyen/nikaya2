@@ -1,7 +1,7 @@
 # 23. Tổ Kiến
 ***(Vammika Sutta)***
 
-1\. Tôi nghe như vầy. Một lần nọ, Đức Phật (The Blessed One - bậc đáng kính, thường dùng để chỉ Đức Phật) đang ở tại Sāvatthī, trong khu rừng Jeta, vườn của ông Anāthapiṇika. Lúc đó, ngài Kumāra Kassapa đang ở trong khu rừng của Người Mù. [^275]
+1\. Tôi nghe như vầy. Một lần nọ, Đức Phật đang ở tại Sāvatthī, trong khu rừng Jeta, vườn của ông Anāthapiṇika. Lúc đó, ngài Kumāra Kassapa đang ở trong khu rừng của Người Mù. [^275]
 
 Rồi, khi đêm đã khuya, một vị thần có vẻ ngoài xinh đẹp, tỏa sáng cả khu rừng của Người Mù, đến gặp ngài Kumāra Kassapa và đứng sang một bên. [^276] Đứng đó, vị thần nói với ngài:
 
@@ -29,9 +29,10 @@ Rồi, khi đêm đã khuya, một vị thần có vẻ ngoài xinh đẹp, tỏ
 
 Đó là những gì vị thần nói, sau đó biến mất ngay lập tức.
 
+<!--pg-->
 3\. Sau đó, khi đêm đã qua, ngài Kumāra Kassapa đến gặp Đức Phật. Sau khi đảnh lễ ngài, ngài ngồi xuống một bên và kể cho Đức Phật nghe những gì đã xảy ra. Rồi ngài hỏi: "Bạch Thế Tôn, tổ kiến là gì, bốc khói ban đêm là gì, bốc lửa ban ngày là gì? Ai là Bà La Môn, ai là người trí tuệ? Cái dao là gì, việc đào là gì, thanh chắn là gì, con cóc là gì, cái nĩa là gì, cái sàng là gì, con rùa là gì, cái rìu và thớt là gì, miếng thịt là gì, con rắn Nāga là gì?" [144]
 
-4\. "Này tỳ kheo, tổ kiến là biểu tượng cho thân thể này, được tạo thành từ vật chất (sắc), bao gồm bốn yếu tố chính (đất, nước, gió, lửa), được sinh ra bởi cha mẹ, lớn lên nhờ cơm gạo, [^278] và chịu sự vô thường (không স্থায়ী), bị hao mòn, tan rã và phân hủy.
+4\. "Này tỳ kheo, tổ kiến là biểu tượng cho thân thể này, được tạo thành từ vật chất (sắc), bao gồm bốn yếu tố chính (đất, nước, gió, lửa), được sinh ra bởi cha mẹ, lớn lên nhờ cơm gạo, [^278] và chịu sự vô thường (không bền vững), bị hao mòn, tan rã và phân hủy.
 
 "Những gì người ta suy nghĩ và nghiền ngẫm vào ban đêm dựa trên những hành động của mình vào ban ngày là 'bốc khói ban đêm.'
 

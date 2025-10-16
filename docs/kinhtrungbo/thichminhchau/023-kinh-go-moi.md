@@ -47,6 +47,7 @@ những câu hỏi ấy, trừ Như Lai, đệ tử Như Lai hay những ai đã
 
 Vị thiên ấy nói như vậy. Sau khi nói xong như vậy, vị ấy biến mất ở nơi đây.
 
+<!--pg-->
 Rồi Tôn giả Kumara Kassapa, sau khi đêm ấy đã mãn, đến tại chỗ Thế Tôn ở, sau khi đến xong, đảnh lễ
 Thế Tôn và ngồi xuống một bên. Sau khi ngồi xuống một bên, Tôn giả Kumarakassapa bạch Thế Tôn:
 
