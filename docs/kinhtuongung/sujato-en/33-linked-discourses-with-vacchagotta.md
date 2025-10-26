@@ -3,7 +3,7 @@
 <!--pg-->
 ## The Chapter with Vacchagotta
 
-### N 33.1 Not Knowing Form *Rūpaaññāṇasutta*
+### SN 33.1 Not Knowing Form *Rūpaaññāṇasutta*
 
 At one time the Buddha was staying near Sāvatthī in Jeta's
 Grove, Anāthapiṇḍika's monastery. Then the wanderer
@@ -24,7 +24,7 @@ misconceptions arise in the world. This is the cause, this is the
 reason."
 
 <!--pg-->
-### N 33.2 Not Knowing Feeling *Vedanāaññāṇasutta*
+### SN 33.2 Not Knowing Feeling *Vedanāaññāṇasutta*
 
 At Sāvatthī.
 
@@ -41,7 +41,7 @@ various misconceptions arise in the world. This is the cause, this is
 the reason."
 
 <!--pg-->
-### N 33.3 Not Knowing Perception *Saññāaññāṇasutta*
+### SN 33.3 Not Knowing Perception *Saññāaññāṇasutta*
 
 At Sāvatthī.
 
@@ -54,7 +54,7 @@ misconceptions arise in the world? ..."
 cessation, and the practice that leads to its cessation ..."
 
 <!--pg-->
-### N 33.4 Not Knowing Choices *Saṅkhāraaññāṇasutta*
+### SN 33.4 Not Knowing Choices *Saṅkhāraaññāṇasutta*
 
 At Sāvatthī.
 
@@ -67,7 +67,7 @@ misconceptions arise in the world? ..."
 cessation, and the practice that leads to their cessation ..."
 
 <!--pg-->
-### N 33.5 Not Knowing Consciousness *Viññāṇaaññāṇasutta*
+### SN 33.5 Not Knowing Consciousness *Viññāṇaaññāṇasutta*
 
 At Sāvatthī.
 
@@ -80,7 +80,7 @@ misconceptions arise in the world? ..."
 cessation, and the practice that leads to its cessation ..."
 
 <!--pg-->
-### N 33.6--10 Five Discourses on Not Seeing Form, Etc. *Rūpaadassanādisuttapañcaka*
+### SN 33.6--10 Five Discourses on Not Seeing Form, Etc. *Rūpaadassanādisuttapañcaka*
 
 At Sāvatthī.
 
@@ -94,7 +94,7 @@ perception ..." "... choices ..." "... consciousness, its origin, its
 cessation, and the practice that leads to its cessation ..."
 
 <!--pg-->
-### N 33.11--15 Five Discourses on Not Comprehending Form, Etc. *Rūpaanabhisamayādisuttapañcaka*
+### SN 33.11--15 Five Discourses on Not Comprehending Form, Etc. *Rūpaanabhisamayādisuttapañcaka*
 
 At Sāvatthī.
 
@@ -109,7 +109,7 @@ choices ...
 consciousness ..."
 
 <!--pg-->
-### N 33.16--20 Five Discourses on Not Understanding Form, Etc. *Rūpaananubodhādisuttapañcaka*
+### SN 33.16--20 Five Discourses on Not Understanding Form, Etc. *Rūpaananubodhādisuttapañcaka*
 
 At Sāvatthī.
 
@@ -124,49 +124,49 @@ choices ...
 consciousness ..."
 
 <!--pg-->
-### N 33.21--25 Five Discourses on Not Penetrating Form, Etc. *Rūpaappaṭivedhādisuttapañcaka*
+### SN 33.21--25 Five Discourses on Not Penetrating Form, Etc. *Rūpaappaṭivedhādisuttapañcaka*
 
 At Sāvatthī.
 
 "Vaccha, it is because of not penetrating form ..."
 
 <!--pg-->
-### N 33.26--30 Five Discourses on Not Distinguishing Form, Etc. *Rūpaasallakkhaṇādisuttapañcaka*
+### SN 33.26--30 Five Discourses on Not Distinguishing Form, Etc. *Rūpaasallakkhaṇādisuttapañcaka*
 
 At Sāvatthī.
 
 "Vaccha, it is because of not distinguishing form ..."
 
 <!--pg-->
-### N 33.31--35 Five Discourses on Not Detecting Form, Etc. *Rūpaanupalakkhaṇādisuttapañcaka*
+### SN 33.31--35 Five Discourses on Not Detecting Form, Etc. *Rūpaanupalakkhaṇādisuttapañcaka*
 
 At Sāvatthī.
 
 "Vaccha, it is because of not detecting form ..."
 
 <!--pg-->
-### N 33.36--40 Five Discourses on Not Differentiating Form, Etc. *Rūpaappaccupalakkhaṇādisuttapañcaka*
+### SN 33.36--40 Five Discourses on Not Differentiating Form, Etc. *Rūpaappaccupalakkhaṇādisuttapañcaka*
 
 At Sāvatthī.
 
 "Vaccha, it is because of not differentiating form ..."
 
 <!--pg-->
-### N 33.41--45 Five Discourses on Not Examining Form, Etc. *Rūpaasamapekkhaṇādisuttapañcaka*
+### SN 33.41--45 Five Discourses on Not Examining Form, Etc. *Rūpaasamapekkhaṇādisuttapañcaka*
 
 At Sāvatthī.
 
 "Vaccha, it is because of not examining form ..."
 
 <!--pg-->
-### N 33.46--50 Five Discourses on Not Scrutinizing Form, Etc. *Rūpaappaccupekkhaṇādisuttapañcaka*
+### SN 33.46--50 Five Discourses on Not Scrutinizing Form, Etc. *Rūpaappaccupekkhaṇādisuttapañcaka*
 
 At Sāvatthī.
 
 "Vaccha, it is because of not scrutinizing form ..."
 
 <!--pg-->
-### N 33.51--54 Four Discourses on Not Directly Experiencing Form, Etc. *Rūpaappaccakkhakammādisuttacatukka*
+### SN 33.51--54 Four Discourses on Not Directly Experiencing Form, Etc. *Rūpaappaccakkhakammādisuttacatukka*
 
 At Sāvatthī.
 
@@ -186,7 +186,7 @@ perception ...
 choices ..."
 
 <!--pg-->
-### N 33.55 Not Directly Experiencing Consciousness *Viññāṇaappaccakkhakammasutta*
+### SN 33.55 Not Directly Experiencing Consciousness *Viññāṇaappaccakkhakammasutta*
 
 At Sāvatthī.
 

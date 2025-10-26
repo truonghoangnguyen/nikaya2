@@ -3,7 +3,7 @@
 <!--pg-->
 ## The Chapter on Ignorance
 
-### N 45.1 Ignorance *Avijjāsutta*
+### SN 45.1 Ignorance *Avijjāsutta*
 
 So I have heard. At one time the Buddha was staying near
 Sāvatthī in Jeta's Grove, Anāthapiṇḍika's
@@ -28,7 +28,7 @@ right effort. Right effort gives rise to right mindfulness. Right
 mindfulness gives rise to right immersion."
 
 <!--pg-->
-### N 45.2 Half the Spiritual Life *Upaḍḍhasutta*
+### SN 45.2 Half the Spiritual Life *Upaḍḍhasutta*
 
 So I have heard. At one time the Buddha was staying in the
 land of the Sakyans, where they have a town named Townsville. Then
@@ -60,7 +60,7 @@ things. This is another way to understand how good friends are the whole
 of the spiritual life."
 
 <!--pg-->
-### N 45.3 Sāriputta *Sāriputtasutta*
+### SN 45.3 Sāriputta *Sāriputtasutta*
 
 At Sāvatthī.
 
@@ -90,7 +90,7 @@ things. This is another way to understand how good friends are the whole
 of the spiritual life."
 
 <!--pg-->
-### N 45.4 Regarding the Brahmin Jānussoṇi *Jāṇussoṇibrāhmaṇasutta*
+### SN 45.4 Regarding the Brahmin Jānussoṇi *Jāṇussoṇibrāhmaṇasutta*
 
 At Sāvatthī.
 
@@ -150,7 +150,7 @@ Then the Holy One, the Teacher, went on to say:
 > sure of winning the victory."
 
 <!--pg-->
-### N 45.5 What's the Purpose *Kimatthiyasutta*
+### SN 45.5 What's the Purpose *Kimatthiyasutta*
 
 At Sāvatthī.
 
@@ -183,7 +183,7 @@ and the practice for completely understanding suffering. When questioned
 by wanderers of other religions, that's how you should answer them."
 
 <!--pg-->
-### N 45.6 A Mendicant (1st) *Paṭhamaaññatarabhikkhusutta*
+### SN 45.6 A Mendicant (1st) *Paṭhamaaññatarabhikkhusutta*
 
 At Sāvatthī.
 
@@ -198,7 +198,7 @@ ending of greed, hate, and delusion. This is the culmination of the
 spiritual path."
 
 <!--pg-->
-### N 45.7 A Mendicant (2nd) *Dutiyaaññatarabhikkhusutta*
+### SN 45.7 A Mendicant (2nd) *Dutiyaaññatarabhikkhusutta*
 
 At Sāvatthī.
 
@@ -223,7 +223,7 @@ action, right livelihood, right effort, right mindfulness, and right
 immersion."
 
 <!--pg-->
-### N 45.8 Analysis *Vibhaṅgasutta*
+### SN 45.8 Analysis *Vibhaṅgasutta*
 
 At Sāvatthī.
 
@@ -291,7 +291,7 @@ pleasure or pain, with pure equanimity and mindfulness. This is called
 right immersion."
 
 <!--pg-->
-### N 45.9 A Spike *Sūkasutta*
+### SN 45.9 A Spike *Sūkasutta*
 
 At Sāvatthī.
 
@@ -324,7 +324,7 @@ whose view and development of the path is pointing the right way breaks
 ignorance, gives rise to knowledge, and realizes extinguishment."
 
 <!--pg-->
-### N 45.10 With Nandiya *Nandiyasutta*
+### SN 45.10 With Nandiya *Nandiyasutta*
 
 At Sāvatthī.
 
@@ -349,7 +349,7 @@ remember me as a lay follower who has gone for refuge for life."
 <!--pg-->
 ## The Chapter on Meditation
 
-### N 45.11 Meditation (1st) *Paṭhamavihārasutta*
+### SN 45.11 Meditation (1st) *Paṭhamavihārasutta*
 
 At Sāvatthī.
 
@@ -377,7 +377,7 @@ There is effort to attain the unattained. When that state has been
 attained, there is also feeling conditioned by that."
 
 <!--pg-->
-### N 45.12 Meditation (2nd) *Dutiyavihārasutta*
+### SN 45.12 Meditation (2nd) *Dutiyavihārasutta*
 
 At Sāvatthī.
 
@@ -409,7 +409,7 @@ There is effort to attain the unattained. When that state has been
 attained, there is also feeling conditioned by that."
 
 <!--pg-->
-### N 45.13 A Trainee *Sekkhasutta*
+### SN 45.13 A Trainee *Sekkhasutta*
 
 At Sāvatthī.
 
@@ -421,7 +421,7 @@ right speech, right action, right livelihood, right effort, right
 mindfulness, and right immersion. That's how a trainee is defined."
 
 <!--pg-->
-### N 45.14 Arising (1st) *Paṭhamauppādasutta*
+### SN 45.14 Arising (1st) *Paṭhamauppādasutta*
 
 At Sāvatthī.
 
@@ -434,7 +434,7 @@ developed and cultivated except when a Realized One, a perfected one, a
 fully awakened Buddha has appeared."
 
 <!--pg-->
-### N 45.15 Arising (2nd) *Dutiyauppādasutta*
+### SN 45.15 Arising (2nd) *Dutiyauppādasutta*
 
 At Sāvatthī.
 
@@ -446,7 +446,7 @@ eight things that don't arise to be developed and cultivated apart from
 the Holy One's training."
 
 <!--pg-->
-### N 45.16 Purified (1st) *Paṭhamaparisuddhasutta*
+### SN 45.16 Purified (1st) *Paṭhamaparisuddhasutta*
 
 At Sāvatthī.
 
@@ -460,7 +460,7 @@ when a Realized One, a perfected one, a fully awakened Buddha has
 appeared."
 
 <!--pg-->
-### N 45.17 Purified (2nd) *Dutiyaparisuddhasutta*
+### SN 45.17 Purified (2nd) *Dutiyaparisuddhasutta*
 
 At Sāvatthī.
 
@@ -472,7 +472,7 @@ immersion. These eight things don't arise to be purified, bright,
 flawless, and rid of corruptions apart from the Holy One's training."
 
 <!--pg-->
-### N 45.18 At the Chicken Monastery (1st) *Paṭhamakukkuṭārāmasutta*
+### SN 45.18 At the Chicken Monastery (1st) *Paṭhamakukkuṭārāmasutta*
 
 So I have heard. At one time the venerables Ānanda and
 Bhadda were staying near Pāṭaliputta, in the Chicken
@@ -495,7 +495,7 @@ is: wrong view, wrong thought, wrong speech, wrong action, wrong
 livelihood, wrong effort, wrong mindfulness, and wrong immersion."
 
 <!--pg-->
-### N 45.19 At the Chicken Monastery (2nd) *Dutiyakukkuṭārāmasutta*
+### SN 45.19 At the Chicken Monastery (2nd) *Dutiyakukkuṭārāmasutta*
 
 At Pāṭaliputta.
 
@@ -517,7 +517,7 @@ The ending of greed, hate, and delusion: this is the culmination of the
 spiritual path."
 
 <!--pg-->
-### N 45.20 At the Chicken Monastery (3rd) *Tatiyakukkuṭārāmasutta*
+### SN 45.20 At the Chicken Monastery (3rd) *Tatiyakukkuṭārāmasutta*
 
 At Pāṭaliputta.
 
@@ -541,7 +541,7 @@ spiritual path."
 <!--pg-->
 ## The Chapter on the Wrong Way
 
-### N 45.21 The Wrong Way *Micchattasutta*
+### SN 45.21 The Wrong Way *Micchattasutta*
 
 At Sāvatthī.
 
@@ -557,7 +557,7 @@ speech, right action, right livelihood, right effort, right mindfulness,
 and right immersion. This is called the right way."
 
 <!--pg-->
-### N 45.22 Unskillful Qualities *Akusaladhammasutta*
+### SN 45.22 Unskillful Qualities *Akusaladhammasutta*
 
 At Sāvatthī.
 
@@ -573,7 +573,7 @@ right speech, right action, right livelihood, right effort, right
 mindfulness, and right immersion. These are called skillful qualities."
 
 <!--pg-->
-### N 45.23 Practice (1st) *Paṭhamapaṭipadāsutta*
+### SN 45.23 Practice (1st) *Paṭhamapaṭipadāsutta*
 
 At Sāvatthī.
 
@@ -589,7 +589,7 @@ speech, right action, right livelihood, right effort, right mindfulness,
 and right immersion. This is called the right practice."
 
 <!--pg-->
-### N 45.24 Practice (2nd) *Dutiyapaṭipadāsutta*
+### SN 45.24 Practice (2nd) *Dutiyapaṭipadāsutta*
 
 At Sāvatthī.
 
@@ -615,7 +615,7 @@ Because of right practice, both laypeople and renunciates succeed in the
 system of the skillful teaching."
 
 <!--pg-->
-### N 45.25 An Untrue Person (1st) *Paṭhamaasappurisasutta*
+### SN 45.25 An Untrue Person (1st) *Paṭhamaasappurisasutta*
 
 At Sāvatthī.
 
@@ -631,7 +631,7 @@ thought, right speech, right action, right livelihood, right effort,
 right mindfulness, and right immersion. This is called a true person."
 
 <!--pg-->
-### N 45.26 An Untrue Person (2nd) *Dutiyaasappurisasutta*
+### SN 45.26 An Untrue Person (2nd) *Dutiyaasappurisasutta*
 
 At Sāvatthī.
 
@@ -657,7 +657,7 @@ right mindfulness, right immersion, right knowledge, and right freedom.
 This is called an even truer person."
 
 <!--pg-->
-### N 45.27 Pots *Kumbhasutta*
+### SN 45.27 Pots *Kumbhasutta*
 
 At Sāvatthī.
 
@@ -675,7 +675,7 @@ hard to overturn. In the same way, a mind without a stand is easy to
 overturn, but if it has a stand it's hard to overturn."
 
 <!--pg-->
-### N 45.28 Immersion *Samādhisutta*
+### SN 45.28 Immersion *Samādhisutta*
 
 At Sāvatthī.
 
@@ -691,7 +691,7 @@ noble right immersion 'with its vital conditions' and 'with its
 prerequisites'."
 
 <!--pg-->
-### N 45.29 Feeling *Vedanāsutta*
+### SN 45.29 Feeling *Vedanāsutta*
 
 At Sāvatthī.
 
@@ -707,7 +707,7 @@ This noble eightfold path should be developed to completely understand
 these three feelings."
 
 <!--pg-->
-### N 45.30 With Uttiya *Uttiyasutta*
+### SN 45.30 With Uttiya *Uttiyasutta*
 
 At Sāvatthī.
 
@@ -734,7 +734,7 @@ sensual stimulation."
 <!--pg-->
 ## The Chapter on Practice
 
-### N 45.31 Practice (1st) *Paṭhamapaṭipattisutta*
+### SN 45.31 Practice (1st) *Paṭhamapaṭipattisutta*
 
 At Sāvatthī.
 
@@ -750,7 +750,7 @@ speech, right action, right livelihood, right effort, right mindfulness,
 and right immersion. This is called the right practice."
 
 <!--pg-->
-### N 45.32 Practice (2nd) *Dutiyapaṭipattisutta*
+### SN 45.32 Practice (2nd) *Dutiyapaṭipattisutta*
 
 At Sāvatthī.
 
@@ -768,7 +768,7 @@ right mindfulness, and right immersion. This is called one practicing
 rightly."
 
 <!--pg-->
-### N 45.33 Missed Out *Viraddhasutta*
+### SN 45.33 Missed Out *Viraddhasutta*
 
 At Sāvatthī.
 
@@ -787,7 +787,7 @@ the noble eightfold path has undertaken the noble path to the complete
 ending of suffering."
 
 <!--pg-->
-### N 45.34 Going to the Far Shore *Pāraṅgamasutta*
+### SN 45.34 Going to the Far Shore *Pāraṅgamasutta*
 
 At Sāvatthī.
 
@@ -829,7 +829,7 @@ say:
 > they are quenched in this world."
 
 <!--pg-->
-### N 45.35 The Ascetic Life (1st) *Paṭhamasāmaññasutta*
+### SN 45.35 The Ascetic Life (1st) *Paṭhamasāmaññasutta*
 
 At Sāvatthī.
 
@@ -846,7 +846,7 @@ once-return, non-return, and perfection. These are called the fruits of
 the ascetic life."
 
 <!--pg-->
-### N 45.36 The Ascetic Life (2nd) *Dutiyasāmaññasutta*
+### SN 45.36 The Ascetic Life (2nd) *Dutiyasāmaññasutta*
 
 At Sāvatthī.
 
@@ -862,7 +862,7 @@ And what is the goal of the ascetic life? The ending of greed, hate, and
 delusion. This is called the goal of the ascetic life."
 
 <!--pg-->
-### N 45.37 The Brahmin Life (1st) *Paṭhamabrahmaññasutta*
+### SN 45.37 The Brahmin Life (1st) *Paṭhamabrahmaññasutta*
 
 At Sāvatthī.
 
@@ -879,7 +879,7 @@ stream-entry, once-return, non-return, and perfection. These are called
 the fruits of life as a brahmin."
 
 <!--pg-->
-### N 45.38 The Brahmin Life (2nd) *Dutiyabrahmaññasutta*
+### SN 45.38 The Brahmin Life (2nd) *Dutiyabrahmaññasutta*
 
 At Sāvatthī.
 
@@ -895,7 +895,7 @@ And what is the goal of life as a brahmin? The ending of greed, hate,
 and delusion. This is called the goal of life as a brahmin."
 
 <!--pg-->
-### N 45.39 The Spiritual Path (1st) *Paṭhamabrahmacariyasutta*
+### SN 45.39 The Spiritual Path (1st) *Paṭhamabrahmacariyasutta*
 
 At Sāvatthī.
 
@@ -912,7 +912,7 @@ stream-entry, once-return, non-return, and perfection. These are called
 the fruits of the spiritual path."
 
 <!--pg-->
-### N 45.40 The Spiritual Path (2nd) *Dutiyabrahmacariyasutta*
+### SN 45.40 The Spiritual Path (2nd) *Dutiyabrahmacariyasutta*
 
 At Sāvatthī.
 
@@ -930,7 +930,7 @@ and delusion. This is called the goal of the spiritual path."
 <!--pg-->
 ## The Chapter of Abbreviated Texts on Followers of Other Paths
 
-### N 45.41 The Fading Away of Greed *Rāgavirāgasutta*
+### SN 45.41 The Fading Away of Greed *Rāgavirāgasutta*
 
 At Sāvatthī.
 
@@ -954,7 +954,7 @@ When questioned by wanderers of other religions, that's how you should
 answer them."
 
 <!--pg-->
-### N 45.42--47 Six Discourses on Giving Up Fetters, Etc. *Saṁyojanappahānādisuttachakka*
+### SN 45.42--47 Six Discourses on Giving Up Fetters, Etc. *Saṁyojanappahānādisuttachakka*
 
 "Mendicants, if wanderers who follow another religion were to ask you:
 'Reverends, what's the purpose of leading the spiritual life under the
@@ -974,7 +974,7 @@ up the fetters.' ...
 '... for knowledge and vision.' ..."
 
 <!--pg-->
-### N 45.48 Extinguishment by Not Grasping *Anupādāparinibbānasutta*
+### SN 45.48 Extinguishment by Not Grasping *Anupādāparinibbānasutta*
 
 At Sāvatthī.
 
@@ -1001,7 +1001,7 @@ answer them."
 <!--pg-->
 ## The Chapter of Abbreviated Texts on the Sun
 
-### N 45.49 Good Friends (1st) *Kalyāṇamittasutta*
+### SN 45.49 Good Friends (1st) *Kalyāṇamittasutta*
 
 At Sāvatthī.
 
@@ -1018,7 +1018,7 @@ away, and cessation, and ripen as letting go. That's how a mendicant
 with good friends develops and cultivates the noble eightfold path."
 
 <!--pg-->
-### N 45.50--54 Five Discourses on Accomplishment in Ethics, Etc. (1st) *Sīlasampadādisuttapañcaka*
+### SN 45.50--54 Five Discourses on Accomplishment in Ethics, Etc. (1st) *Sīlasampadādisuttapañcaka*
 
 "Mendicants, the dawn is the forerunner and precursor of the sunrise. In
 the same way accomplishment in ethics is the forerunner and precursor of
@@ -1034,7 +1034,7 @@ ethics can expect ..." ...
 "... accomplished in diligence ..."
 
 <!--pg-->
-### N 45.55 Accomplishment in Rational Application of Mind (1st) *Yonisomanasikārasampadāsutta*
+### SN 45.55 Accomplishment in Rational Application of Mind (1st) *Yonisomanasikārasampadāsutta*
 
 "Mendicants, the dawn is the forerunner and precursor of the sunrise. In
 the same way accomplishment in rational application of mind is the
@@ -1051,7 +1051,7 @@ That's how a mendicant accomplished in rational application of mind
 develops and cultivates the noble eightfold path."
 
 <!--pg-->
-### N 45.56 Good Friends (2nd) *Dutiyakalyāṇamittasutta*
+### SN 45.56 Good Friends (2nd) *Dutiyakalyāṇamittasutta*
 
 "Mendicants, the dawn is the forerunner and precursor of the sunrise. In
 the same way good friendship is the forerunner and precursor of the
@@ -1066,7 +1066,7 @@ of greed, hate, and delusion. That's how a mendicant with good friends
 develops and cultivates the noble eightfold path."
 
 <!--pg-->
-### N 45.57--61 Five Discourses on Accomplishment in Ethics, Etc. (2nd) *Dutiyasīlasampadādisuttapañcaka*
+### SN 45.57--61 Five Discourses on Accomplishment in Ethics, Etc. (2nd) *Dutiyasīlasampadādisuttapañcaka*
 
 "Mendicants, the dawn is the forerunner and precursor of the sunrise. In
 the same way accomplishment in ethics is the forerunner and precursor of
@@ -1081,7 +1081,7 @@ the noble eightfold path for a mendicant. ..."
 "... accomplishment in diligence ..."
 
 <!--pg-->
-### N 45.62 Accomplishment in Rational Application of Mind (2nd) *Dutiyayonisomanasikārasampadāsutta*
+### SN 45.62 Accomplishment in Rational Application of Mind (2nd) *Dutiyayonisomanasikārasampadāsutta*
 
 "... accomplishment in rational application of mind. A mendicant
 accomplished in rational application of mind can expect to develop and
@@ -1098,7 +1098,7 @@ cultivates the noble eightfold path."
 <!--pg-->
 ## The Chapter of Abbreviated Texts on One Thing
 
-### N 45.63 Good Friends (1st) *Kalyāṇamittasutta*
+### SN 45.63 Good Friends (1st) *Kalyāṇamittasutta*
 
 At Sāvatthī.
 
@@ -1114,7 +1114,7 @@ away, and cessation, and ripen as letting go. That's how a mendicant
 with good friends develops and cultivates the noble eightfold path."
 
 <!--pg-->
-### N 45.64--68 Five Discourses on Accomplishment in Ethics, Etc. (1st) *Sīlasampadādisuttapañcaka*
+### SN 45.64--68 Five Discourses on Accomplishment in Ethics, Etc. (1st) *Sīlasampadādisuttapañcaka*
 
 "Mendicants, one thing helps give rise to the noble eightfold path. What
 one thing? It's accomplishment in ethics. ..."
@@ -1128,7 +1128,7 @@ one thing? It's accomplishment in ethics. ..."
 "... accomplishment in diligence ..."
 
 <!--pg-->
-### N 45.69 Accomplishment in Rational Application of Mind (1st) *Yonisomanasikārasampadāsutta*
+### SN 45.69 Accomplishment in Rational Application of Mind (1st) *Yonisomanasikārasampadāsutta*
 
 "... accomplishment in rational application of mind. A mendicant
 accomplished in rational application of mind can expect to develop and
@@ -1143,7 +1143,7 @@ That's how a mendicant accomplished in rational application of mind
 develops and cultivates the noble eightfold path."
 
 <!--pg-->
-### N 45.70 Good Friends (2nd) *Dutiyakalyāṇamittasutta*
+### SN 45.70 Good Friends (2nd) *Dutiyakalyāṇamittasutta*
 
 At Sāvatthī.
 
@@ -1159,7 +1159,7 @@ of greed, hate, and delusion. That's how a mendicant with good friends
 develops and cultivates the noble eightfold path."
 
 <!--pg-->
-### N 45.71--75 Five Discourses on Accomplishment in Ethics, Etc. (2nd) *Dutiyasīlasampadādisuttapañcaka*
+### SN 45.71--75 Five Discourses on Accomplishment in Ethics, Etc. (2nd) *Dutiyasīlasampadādisuttapañcaka*
 
 At Sāvatthī.
 
@@ -1175,7 +1175,7 @@ one thing? It's accomplishment in ethics. ..."
 "... accomplishment in diligence ..."
 
 <!--pg-->
-### N 45.76 Accomplishment in Rational Application of Mind (2nd) *Dutiyayonisomanasikārasampadāsutta*
+### SN 45.76 Accomplishment in Rational Application of Mind (2nd) *Dutiyayonisomanasikārasampadāsutta*
 
 "... accomplishment in rational application of mind. A mendicant
 accomplished in rational application of mind can expect to develop and
@@ -1192,7 +1192,7 @@ cultivates the noble eightfold path."
 <!--pg-->
 ## The Chapter of Abbreviated Texts on One Thing
 
-### N 45.77 Good Friends *Kalyāṇamittasutta*
+### SN 45.77 Good Friends *Kalyāṇamittasutta*
 
 At Sāvatthī.
 
@@ -1209,7 +1209,7 @@ away, and cessation, and ripen as letting go. That's how a mendicant
 with good friends develops and cultivates the noble eightfold path."
 
 <!--pg-->
-### N 45.78--82 Five Discourses on Accomplishment in Ethics, Etc. *Sīlasampadādisuttapañcaka*
+### SN 45.78--82 Five Discourses on Accomplishment in Ethics, Etc. *Sīlasampadādisuttapañcaka*
 
 "Mendicants, I do not see a single thing that gives rise to the noble
 eightfold path, or, if it's already arisen, fully develops it like
@@ -1224,7 +1224,7 @@ accomplishment in ethics. ..."
 "... accomplishment in diligence ..."
 
 <!--pg-->
-### N 45.83 Accomplishment in Rational Application of Mind *Yonisomanasikārasampadāsutta*
+### SN 45.83 Accomplishment in Rational Application of Mind *Yonisomanasikārasampadāsutta*
 
 "... accomplishment in rational application of mind. A mendicant
 accomplished in rational application of mind can expect to develop and
@@ -1239,7 +1239,7 @@ That's how a mendicant accomplished in rational application of mind
 develops and cultivates the noble eightfold path."
 
 <!--pg-->
-### N 45.84 Good Friends (2nd) *Dutiyakalyāṇamittasutta*
+### SN 45.84 Good Friends (2nd) *Dutiyakalyāṇamittasutta*
 
 "Mendicants, I do not see a single thing that gives rise to the noble
 eightfold path, or, if it's already arisen, fully develops it like good
@@ -1254,7 +1254,7 @@ of greed, hate, and delusion. That's how a mendicant with good friends
 develops and cultivates the noble eightfold path."
 
 <!--pg-->
-### N 45.85--89 Five Discourses on Accomplishment in Ethics, Etc. *Dutiyasīlasampadādisuttapañcaka*
+### SN 45.85--89 Five Discourses on Accomplishment in Ethics, Etc. *Dutiyasīlasampadādisuttapañcaka*
 
 "Mendicants, I do not see a single thing that gives rise to the noble
 eightfold path, or, if it's already arisen, fully develops it like
@@ -1269,7 +1269,7 @@ accomplishment in ethics. ..."
 "... accomplishment in diligence ..."
 
 <!--pg-->
-### N 45.90 Accomplishment in Rational Application of Mind (2nd) *Dutiyayonisomanasikārasampadāsutta*
+### SN 45.90 Accomplishment in Rational Application of Mind (2nd) *Dutiyayonisomanasikārasampadāsutta*
 
 "... accomplishment in rational application of mind. A mendicant
 accomplished in rational application of mind can expect to develop and
@@ -1286,7 +1286,7 @@ cultivates the noble eightfold path."
 <!--pg-->
 ## The Chapter of Abbreviated Texts on the Ganges
 
-### N 45.91 Slanting East *Paṭhamapācīnaninnasutta*
+### SN 45.91 Slanting East *Paṭhamapācīnaninnasutta*
 
 At Sāvatthī.
 
@@ -1303,7 +1303,7 @@ how a mendicant who develops and cultivates the noble eightfold path
 slants, slopes, and inclines to extinguishment."
 
 <!--pg-->
-### N 45.92--95 Four Discourses on Slanting East *Dutiyādipācīnaninnasuttacatukka*
+### SN 45.92--95 Four Discourses on Slanting East *Dutiyādipācīnaninnasuttacatukka*
 
 "Mendicants, the Yamunā river slants, slopes, and inclines
 to the east. ..."
@@ -1315,7 +1315,7 @@ to the east. ..."
 "... the Mahī river ..."
 
 <!--pg-->
-### N 45.96 Sixth Discourse on Slanting East *Chaṭṭhapācīnaninnasutta*
+### SN 45.96 Sixth Discourse on Slanting East *Chaṭṭhapācīnaninnasutta*
 
 "Mendicants, all the great rivers---that is, the Ganges,
 Yamunā, Aciravatī, Sarabhū, and
@@ -1332,14 +1332,14 @@ how a mendicant who develops and cultivates the noble eightfold path
 slants, slopes, and inclines to extinguishment."
 
 <!--pg-->
-### N 45.97 Slanting to the Ocean *Paṭhamasamuddaninnasutta*
+### SN 45.97 Slanting to the Ocean *Paṭhamasamuddaninnasutta*
 
 "Mendicants, the Ganges river slants, slopes, and inclines to the ocean.
 In the same way, a mendicant who develops the noble eightfold path
 slants, slopes, and inclines to extinguishment. ..."
 
 <!--pg-->
-### N 45.98--102 Five Discourses on Slanting to the Ocean *Dutiyādisamuddaninnasuttapañcaka*
+### SN 45.98--102 Five Discourses on Slanting to the Ocean *Dutiyādisamuddaninnasuttapañcaka*
 
 "Mendicants, the Yamunā river slants, slopes, and inclines
 to the ocean. ..."
@@ -1355,7 +1355,7 @@ to the ocean. ..."
 <!--pg-->
 ## The Chapter of Abbreviated Texts on the Ganges
 
-### N 45.103 Slanting East *Paṭhamapācīnaninnasutta*
+### SN 45.103 Slanting East *Paṭhamapācīnaninnasutta*
 
 "Mendicants, the Ganges river slants, slopes, and inclines to the east.
 In the same way, a mendicant who develops and cultivates the noble
@@ -1370,7 +1370,7 @@ develops and cultivates the noble eightfold path slants, slopes, and
 inclines to extinguishment."
 
 <!--pg-->
-### N 45.104--108 Five Discourses on Sloping to the East *Dutiyādipācīnaninnasuttapañcaka*
+### SN 45.104--108 Five Discourses on Sloping to the East *Dutiyādipācīnaninnasuttapañcaka*
 
 "Mendicants, the Yamunā river slants, slopes, and inclines
 to the east. ..."
@@ -1384,7 +1384,7 @@ to the east. ..."
 "... all the great rivers ..."
 
 <!--pg-->
-### N 45.109 Slanting to the Ocean *Paṭhamasamuddaninnasutta*
+### SN 45.109 Slanting to the Ocean *Paṭhamasamuddaninnasutta*
 
 "Mendicants, the Ganges river slants, slopes, and inclines to the ocean.
 In the same way, a mendicant who develops and cultivates the noble
@@ -1399,7 +1399,7 @@ develops and cultivates the noble eightfold path slants, slopes, and
 inclines to extinguishment."
 
 <!--pg-->
-### N 45.110--114 Slanting to the Ocean *Dutiyādisamuddaninnasutta*
+### SN 45.110--114 Slanting to the Ocean *Dutiyādisamuddaninnasutta*
 
 "Mendicants, the Yamunā river slants, slopes, and inclines
 to the ocean. ..."
@@ -1413,7 +1413,7 @@ to the ocean. ..."
 "... all the great rivers ..."
 
 <!--pg-->
-### N 45.115 Slanting East *Paṭhamapācīnaninnasutta*
+### SN 45.115 Slanting East *Paṭhamapācīnaninnasutta*
 
 "Mendicants, the Ganges river slants, slopes, and inclines to the east.
 In the same way, a mendicant who develops and cultivates the noble
@@ -1428,7 +1428,7 @@ develops and cultivates the noble eightfold path slants, slopes, and
 inclines to extinguishment."
 
 <!--pg-->
-### N 45.116--120 Slanting East *Dutiyādipācīnaninnasutta*
+### SN 45.116--120 Slanting East *Dutiyādipācīnaninnasutta*
 
 "Mendicants, the Yamunā river slants, slopes, and inclines
 to the east. ..."
@@ -1442,7 +1442,7 @@ to the east. ..."
 "... all the great rivers ..."
 
 <!--pg-->
-### N 45.121 Slanting to the Ocean *Paṭhamasamuddaninnasutta*
+### SN 45.121 Slanting to the Ocean *Paṭhamasamuddaninnasutta*
 
 "Mendicants, the Ganges river slants, slopes, and inclines to the ocean.
 In the same way, a mendicant who develops and cultivates the noble
@@ -1457,7 +1457,7 @@ develops and cultivates the noble eightfold path slants, slopes, and
 inclines to extinguishment."
 
 <!--pg-->
-### N 45.122--126 Sloping to the Ocean *Dutiyādisamuddaninnasutta*
+### SN 45.122--126 Sloping to the Ocean *Dutiyādisamuddaninnasutta*
 
 "Mendicants, the Yamunā river slants, slopes, and inclines
 to the ocean. ..."
@@ -1471,7 +1471,7 @@ to the ocean. ..."
 "... all the great rivers ..."
 
 <!--pg-->
-### N 45.127 Slanting East *Paṭhamapācīnaninnasutta*
+### SN 45.127 Slanting East *Paṭhamapācīnaninnasutta*
 
 "Mendicants, the Ganges river slants, slopes, and inclines to the east.
 In the same way, a mendicant who develops and cultivates the noble
@@ -1486,7 +1486,7 @@ develops and cultivates the noble eightfold path slants, slopes, and
 inclines to extinguishment."
 
 <!--pg-->
-### N 45.128--132 Slanting East *Dutiyādipācīnaninnasutta*
+### SN 45.128--132 Slanting East *Dutiyādipācīnaninnasutta*
 
 "Mendicants, the Yamunā river slants, slopes, and inclines
 to the east. ..."
@@ -1500,7 +1500,7 @@ to the east. ..."
 "... all the great rivers ..."
 
 <!--pg-->
-### N 45.133 Slanting to the Ocean *Paṭhamasamuddaninnasutta*
+### SN 45.133 Slanting to the Ocean *Paṭhamasamuddaninnasutta*
 
 "Mendicants, the Ganges river slants, slopes, and inclines to the ocean.
 In the same way, a mendicant who develops and cultivates the noble
@@ -1515,7 +1515,7 @@ develops and cultivates the noble eightfold path slants, slopes, and
 inclines to extinguishment."
 
 <!--pg-->
-### N 45.134--138 Slanting to the Ocean *Dutiyādisamuddaninnasutta*
+### SN 45.134--138 Slanting to the Ocean *Dutiyādisamuddaninnasutta*
 
 "Mendicants, the Yamunā river slants, slopes, and inclines
 to the ocean. ..."
@@ -1531,7 +1531,7 @@ to the ocean. ..."
 <!--pg-->
 ## The Chapter of Abbreviated Texts on Diligence
 
-### N 45.139 The Realized One *Tathāgatasutta*
+### SN 45.139 The Realized One *Tathāgatasutta*
 
 At Sāvatthī.
 
@@ -1603,7 +1603,7 @@ inclines to extinguishment. That's how a mendicant who is diligent
 develops and cultivates the noble eightfold path."
 
 <!--pg-->
-### N 45.140 Footprints *Padasutta*
+### SN 45.140 Footprints *Padasutta*
 
 "The footprints of all creatures that walk can fit inside an elephant's
 footprint. So an elephant's footprint is said to be the biggest of them
@@ -1620,7 +1620,7 @@ away, and cessation, and ripen as letting go. ... That's how a mendicant
 who is diligent develops and cultivates the noble eightfold path."
 
 <!--pg-->
-### N 45.141--145 A Roof Peak *Kūṭādisutta*
+### SN 45.141--145 A Roof Peak *Kūṭādisutta*
 
 "Mendicants, the rafters of a bungalow all lean to the peak, slope to
 the peak, and meet at the peak, so the peak is said to be the topmost of
@@ -1639,7 +1639,7 @@ best. ..."
 wheel-turning monarch is said to be the foremost of them all. ..."
 
 <!--pg-->
-### N 45.146--148 The Moon, Etc. *Candimādisutta*
+### SN 45.146--148 The Moon, Etc. *Candimādisutta*
 
 "The radiance of all the stars is not worth a sixteenth part of the
 moon's radiance, so the moon's radiance is said to be the best of them
@@ -1657,7 +1657,7 @@ woven cloth. ..."
 <!--pg-->
 ## The Chapter on Hard Work
 
-### N 45.149 Hard Work *Balasutta*
+### SN 45.149 Hard Work *Balasutta*
 
 At Sāvatthī.
 
@@ -1679,7 +1679,7 @@ grounded on ethics develops and cultivates the noble eightfold path."
 "... slants, slopes, and inclines to extinguishment ..."
 
 <!--pg-->
-### N 45.150 Seeds *Bījasutta*
+### SN 45.150 Seeds *Bījasutta*
 
 "All the plants and seeds that achieve growth, increase, and maturity do
 so depending on the earth and grounded on the earth. In the same way, a
@@ -1697,7 +1697,7 @@ and cultivates the noble eightfold path depending on and grounded on
 ethics, achieving growth, increase, and maturity in good qualities."
 
 <!--pg-->
-### N 45.151 Dragons *Nāgasutta*
+### SN 45.151 Dragons *Nāgasutta*
 
 "Mendicants, dragons grow and wax strong supported by the Himalayas, the
 king of mountains. When they're strong they dive into the pools. Then
@@ -1716,7 +1716,7 @@ the noble eightfold path depending on and grounded on ethics, acquiring
 great and abundant good qualities."
 
 <!--pg-->
-### N 45.152 Trees *Rukkhasutta*
+### SN 45.152 Trees *Rukkhasutta*
 
 "Mendicants, suppose a tree slants, slopes, and inclines to the east. If
 it was cut off at the root, where would it fall?"
@@ -1736,7 +1736,7 @@ how a mendicant who develops and cultivates the noble eightfold path
 slants, slopes, and inclines to extinguishment."
 
 <!--pg-->
-### N 45.153 Pots *Kumbhasutta*
+### SN 45.153 Pots *Kumbhasutta*
 
 "Mendicants, suppose a pot full of water is tipped over, so the water
 drains out and doesn't go back in. In the same way, a mendicant who
@@ -1753,7 +1753,7 @@ the noble eightfold path expels bad, unskillful qualities and doesn't
 let them back in."
 
 <!--pg-->
-### N 45.154 A Spike *Sūkasutta*
+### SN 45.154 A Spike *Sūkasutta*
 
 "Mendicants, suppose a spike of rice or barley was pointing the right
 way. If you trod on it with hand or foot, it's possible it may break the
@@ -1775,7 +1775,7 @@ whose view and development of the path is pointing the right way breaks
 ignorance, gives rise to knowledge, and realizes extinguishment."
 
 <!--pg-->
-### N 45.155 The Sky *Ākāsasutta*
+### SN 45.155 The Sky *Ākāsasutta*
 
 "Mendicants, various winds blow in the sky. Winds blow from the east,
 the west, the north, and the south. There are winds that are dusty and
@@ -1792,7 +1792,7 @@ fading away, and cessation, and ripen as letting go. That's how they're
 fully developed."
 
 <!--pg-->
-### N 45.156 Storms (1st) *Paṭhamameghasutta*
+### SN 45.156 Storms (1st) *Paṭhamameghasutta*
 
 "Mendicants, in the last month of summer, when the dust and dirt is
 stirred up, a large sudden storm disperses and settles it on the spot.
@@ -1809,7 +1809,7 @@ That's how a mendicant who develops and cultivates the noble eightfold
 path disperses and stills bad, unskillful qualities on the spot."
 
 <!--pg-->
-### N 45.157 Storms (2nd) *Dutiyameghasutta*
+### SN 45.157 Storms (2nd) *Dutiyameghasutta*
 
 "Mendicants, when a large storm has arisen, a strong wind disperses and
 settles it as it proceeds. In the same way, a mendicant who develops and
@@ -1826,7 +1826,7 @@ the noble eightfold path disperses and stills bad, unskillful qualities
 as they proceed."
 
 <!--pg-->
-### N 45.158 A Ship *Nāvāsutta*
+### SN 45.158 A Ship *Nāvāsutta*
 
 "Mendicants, suppose there was a sea-faring ship bound together with
 ropes. For six months they deteriorated in the water. Then in the cold
@@ -1845,7 +1845,7 @@ That's how they develop and cultivate the noble eightfold path so that
 their fetters readily collapse and rot away."
 
 <!--pg-->
-### N 45.159 A Guest House *Āgantukasutta*
+### SN 45.159 A Guest House *Āgantukasutta*
 
 "Mendicants, suppose there was a guest house. Lodgers come from the
 east, west, north, and south. Aristocrats, brahmins, peasants, and
@@ -1879,7 +1879,7 @@ and ripen as letting go. That's how a mendicant develops and cultivates
 the eightfold path in this way."
 
 <!--pg-->
-### N 45.160 A River *Nadīsutta*
+### SN 45.160 A River *Nadīsutta*
 
 "Mendicants, suppose that, although the Ganges river slants, slopes, and
 inclines to the east, a large crowd were to come along with a spade and
@@ -1914,7 +1914,7 @@ noble eightfold path."
 <!--pg-->
 ## The Chapter on Searches
 
-### N 45.161 Searches *Esanāsutta*
+### SN 45.161 Searches *Esanāsutta*
 
 At Sāvatthī.
 
@@ -1999,7 +1999,7 @@ The noble eightfold path should be developed to give up ..."
 *(Tell in full with "give up" instead of "directly know".)*
 
 <!--pg-->
-### N 45.162 Discriminations *Vidhāsutta*
+### SN 45.162 Discriminations *Vidhāsutta*
 
 "Mendicants, there are three kinds of discrimination. What three? One
 discriminates, thinking that 'I'm better' or 'I'm equal' or 'I'm worse'.
@@ -2018,7 +2018,7 @@ three kinds of discrimination."
 **(Tell in full as in the section on searches.)**
 
 <!--pg-->
-### N 45.163 Defilements *Āsavasutta*
+### SN 45.163 Defilements *Āsavasutta*
 
 "Mendicants, there are these three defilements. What three? The
 defilements of sensuality, desire to be reborn, and ignorance. These are
@@ -2029,7 +2029,7 @@ complete understanding, finishing, and giving up of these three
 defilements."
 
 <!--pg-->
-### N 45.164 States of Existence *Bhavasutta*
+### SN 45.164 States of Existence *Bhavasutta*
 
 "There are these three states of existence. What three? Existence in the
 sensual realm, the realm of luminous form, and the formless realm. These
@@ -2040,7 +2040,7 @@ complete understanding, finishing, and giving up of these three states
 of existence."
 
 <!--pg-->
-### N 45.165 Forms of Suffering *Dukkhatāsutta*
+### SN 45.165 Forms of Suffering *Dukkhatāsutta*
 
 "Mendicants, there are these three forms of suffering. What three? The
 suffering inherent in painful feeling; the suffering inherent in
@@ -2052,7 +2052,7 @@ complete understanding, finishing, and giving up of these three forms of
 suffering."
 
 <!--pg-->
-### N 45.166 Kinds of Barrenness *Khilasutta*
+### SN 45.166 Kinds of Barrenness *Khilasutta*
 
 "Mendicants, there are these three kinds of barrenness. What three?
 Greed, hate, and delusion. These are the three kinds of barrenness.
@@ -2062,7 +2062,7 @@ complete understanding, finishing, and giving up of these three kinds of
 barrenness."
 
 <!--pg-->
-### N 45.167 Stains *Malasutta*
+### SN 45.167 Stains *Malasutta*
 
 "Mendicants, there are these three stains. What three? Greed, hate, and
 delusion. These are the three stains.
@@ -2071,7 +2071,7 @@ The noble eightfold path should be developed for the direct knowledge,
 complete understanding, finishing, and giving up of these three stains."
 
 <!--pg-->
-### N 45.168 Troubles *Nīghasutta*
+### SN 45.168 Troubles *Nīghasutta*
 
 "Mendicants, there are these three troubles. What three? Greed, hate,
 and delusion. These are the three troubles.
@@ -2081,7 +2081,7 @@ complete understanding, finishing, and giving up of these three
 troubles."
 
 <!--pg-->
-### N 45.169 Feelings *Vedanāsutta*
+### SN 45.169 Feelings *Vedanāsutta*
 
 "Mendicants, there are these three feelings: What three? Pleasant,
 painful, and neutral feeling. These are the three feelings.
@@ -2091,7 +2091,7 @@ complete understanding, finishing, and giving up of these three
 feelings."
 
 <!--pg-->
-### N 45.170 Craving *Taṇhāsutta*
+### SN 45.170 Craving *Taṇhāsutta*
 
 "Mendicants, there are these three cravings. What three? Craving for
 sensual pleasures, craving to continue existence, and craving to end
@@ -2128,7 +2128,7 @@ thirsts."
 <!--pg-->
 ## The Chapter on Floods
 
-### N 45.171 Floods *Oghasutta*
+### SN 45.171 Floods *Oghasutta*
 
 At Sāvatthī.
 
@@ -2142,7 +2142,7 @@ complete understanding, finishing, and giving up of these four floods."
 **(Tell in full as in the section on searches.)**
 
 <!--pg-->
-### N 45.172 Yokes *Yogasutta*
+### SN 45.172 Yokes *Yogasutta*
 
 "Mendicants, there are these four yokes. What four? The yokes of sensual
 pleasures, future lives, views, and ignorance. These are the four yokes.
@@ -2151,7 +2151,7 @@ The noble eightfold path should be developed for the direct knowledge,
 complete understanding, finishing, and giving up of these four yokes."
 
 <!--pg-->
-### N 45.173 Grasping *Upādānasutta*
+### SN 45.173 Grasping *Upādānasutta*
 
 "Mendicants, there are these four kinds of grasping. What four? Grasping
 at sensual pleasures, views, precepts and observances, and theories of a
@@ -2162,7 +2162,7 @@ complete understanding, finishing, and giving up of these four kinds of
 grasping."
 
 <!--pg-->
-### N 45.174 Personal Ties *Ganthasutta*
+### SN 45.174 Personal Ties *Ganthasutta*
 
 "Mendicants, there are these four ties. What four? The personal ties to
 covetousness, ill will, misapprehension of precepts and observances, and
@@ -2172,7 +2172,7 @@ The noble eightfold path should be developed for the direct knowledge,
 complete understanding, finishing, and giving up of these four ties."
 
 <!--pg-->
-### N 45.175 Tendencies *Anusayasutta*
+### SN 45.175 Tendencies *Anusayasutta*
 
 "Mendicants, there are these seven underlying tendencies. What seven?
 The underlying tendencies of sensual desire, repulsion, views, doubt,
@@ -2184,7 +2184,7 @@ complete understanding, finishing, and giving up of these seven
 underlying tendencies."
 
 <!--pg-->
-### N 45.176 Kinds of Sensual Stimulation *Kāmaguṇasutta*
+### SN 45.176 Kinds of Sensual Stimulation *Kāmaguṇasutta*
 
 "Mendicants, there are these five kinds of sensual stimulation. What
 five? Sights known by the eye, which are likable, desirable, agreeable,
@@ -2198,7 +2198,7 @@ complete understanding, finishing, and giving up of these five kinds of
 sensual stimulation."
 
 <!--pg-->
-### N 45.177 Hindrances *Nīvaraṇasutta*
+### SN 45.177 Hindrances *Nīvaraṇasutta*
 
 "Mendicants, there are these five hindrances. What five? The hindrances
 of sensual desire, ill will, dullness and drowsiness, restlessness and
@@ -2209,7 +2209,7 @@ complete understanding, finishing, and giving up of these five
 hindrances."
 
 <!--pg-->
-### N 45.178 Grasping Aggregates *Upādānakkhandhasutta*
+### SN 45.178 Grasping Aggregates *Upādānakkhandhasutta*
 
 "Mendicants, there are these five grasping aggregates. What five? The
 grasping aggregates of form, feeling, perception, choices, and
@@ -2220,7 +2220,7 @@ complete understanding, finishing, and giving up of these five grasping
 aggregates."
 
 <!--pg-->
-### N 45.179 Lower Fetters *Orambhāgiyasutta*
+### SN 45.179 Lower Fetters *Orambhāgiyasutta*
 
 "Mendicants, there are five lower fetters. What five? Substantialist
 view, doubt, misapprehension of precepts and observances, sensual
@@ -2231,7 +2231,7 @@ complete understanding, finishing, and giving up of these five lowers
 fetters."
 
 <!--pg-->
-### N 45.180 Higher Fetters *Uddhambhāgiyasutta*
+### SN 45.180 Higher Fetters *Uddhambhāgiyasutta*
 
 "Mendicants, there are five higher fetters. What five? Desire for
 rebirth in the realm of luminous form, desire for rebirth in the

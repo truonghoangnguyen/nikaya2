@@ -3,7 +3,7 @@
 <!--pg-->
 ## Chapter One
 
-### N 43.1 Mindfulness of the Body *Kāyagatāsatisutta*
+### SN 43.1 Mindfulness of the Body *Kāyagatāsatisutta*
 
 At Sāvatthī.
 
@@ -23,7 +23,7 @@ mendicants! Don't be negligent! Don't regret it later! This is my
 instruction to you."
 
 <!--pg-->
-### N 43.2 Serenity and Discernment *Samathavipassanāsutta*
+### SN 43.2 Serenity and Discernment *Samathavipassanāsutta*
 
 "Mendicants, I will teach you the unconditioned and the path that leads
 to the unconditioned. Listen ...
@@ -34,7 +34,7 @@ unconditioned? Serenity and discernment. This is called the path that
 leads to the unconditioned. ..."
 
 <!--pg-->
-### N 43.3 Placing the Mind and Keeping it Connected *Savitakkasavicārasutta*
+### SN 43.3 Placing the Mind and Keeping it Connected *Savitakkasavicārasutta*
 
 "And what is the path that leads to the unconditioned? Immersion with
 placing the mind and keeping it connected. Immersion without placing the
@@ -42,49 +42,49 @@ mind, merely keeping it connected. Immersion without placing the mind or
 keeping it connected. ..."
 
 <!--pg-->
-### N 43.4 Emptiness Immersion *Suññatasamādhisutta*
+### SN 43.4 Emptiness Immersion *Suññatasamādhisutta*
 
 "And what is the path that leads to the unconditioned? Emptiness
 immersion; signless immersion; undirected immersion. ..."
 
 <!--pg-->
-### N 43.5 Mindfulness Meditation *Satipaṭṭhānasutta*
+### SN 43.5 Mindfulness Meditation *Satipaṭṭhānasutta*
 
 "And what is the path that leads to the unconditioned? The four kinds of
 mindfulness meditation. ..."
 
 <!--pg-->
-### N 43.6 Right Efforts *Sammappadhānasutta*
+### SN 43.6 Right Efforts *Sammappadhānasutta*
 
 "And what is the path that leads to the unconditioned? The four right
 efforts. ..."
 
 <!--pg-->
-### N 43.7 Bases of Psychic Power *Iddhipādasutta*
+### SN 43.7 Bases of Psychic Power *Iddhipādasutta*
 
 "And what is the path that leads to the unconditioned? The four bases of
 psychic power. ..."
 
 <!--pg-->
-### N 43.8 Faculties *Indriyasutta*
+### SN 43.8 Faculties *Indriyasutta*
 
 "And what is the path that leads to the unconditioned? The five
 faculties. ..."
 
 <!--pg-->
-### N 43.9 Powers *Balasutta*
+### SN 43.9 Powers *Balasutta*
 
 "And what is the path that leads to the unconditioned? The five powers.
 ..."
 
 <!--pg-->
-### N 43.10 Awakening Factors *Bojjhaṅgasutta*
+### SN 43.10 Awakening Factors *Bojjhaṅgasutta*
 
 "And what is the path that leads to the unconditioned? The seven
 awakening factors. ..."
 
 <!--pg-->
-### N 43.11 The Path *Maggaṅgasutta*
+### SN 43.11 The Path *Maggaṅgasutta*
 
 "And what is the path that leads to the unconditioned? The noble
 eightfold path. This is called the path that leads to the unconditioned.
@@ -99,7 +99,7 @@ instruction to you."
 <!--pg-->
 ## Chapter Two
 
-### N 43.12 The Unconditioned *Asaṅkhatasutta*
+### SN 43.12 The Unconditioned *Asaṅkhatasutta*
 
 "Mendicants, I will teach you the unconditioned and the path that leads
 to the unconditioned. Listen ...
@@ -188,14 +188,14 @@ these empty huts. Practice absorption, mendicants! Don't be negligent!
 Don't regret it later! This is my instruction to you."
 
 <!--pg-->
-### N 43.13 Uninclined *Anatasutta*
+### SN 43.13 Uninclined *Anatasutta*
 
 "Mendicants, I will teach you the uninclined ..."
 
 **(Tell in full as in the unconditioned in the previous chapter.)**
 
 <!--pg-->
-### N 43.14--43 Undefiled, Etc. *Anāsavādisutta*
+### SN 43.14--43 Undefiled, Etc. *Anāsavādisutta*
 
 "Mendicants, I will teach you the undefiled ...
 
@@ -258,7 +258,7 @@ the shelter ...
 the refuge ..."
 
 <!--pg-->
-### N 43.44 The Haven *Parāyanasutta*
+### SN 43.44 The Haven *Parāyanasutta*
 
 "Mendicants, I will teach you the haven and the path that leads to the
 haven. Listen ...

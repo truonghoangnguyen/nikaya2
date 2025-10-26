@@ -1,4 +1,4 @@
-# 98. Gửi Vāsetṭha
+# MN 98. Gửi Vāsetṭha
 ***(Kinh Vāsetṭha)***
 
 [115] 1. Như vầy tôi nghe. [^900] Một thời Thế Tôn (Blessed One - Bậc được tôn kính, một danh hiệu của Đức Phật) trú tại Icchānangala, trong khu rừng gần Icchānangala.

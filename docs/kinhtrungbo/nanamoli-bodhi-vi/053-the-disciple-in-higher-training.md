@@ -1,4 +1,4 @@
-# 53. Kinh Người Hữu Học
+# MN 53. Kinh Người Hữu Học
 ***(Sekha Sutta)***
 
 1\.  Tôi nghe như vầy. Một thời Thế Tôn trú ở xứ của dòng họ Thích Ca (Sakyans), tại Ca-tỳ-la-vệ (Kapilavatthu), trong vườn Nigrodha.

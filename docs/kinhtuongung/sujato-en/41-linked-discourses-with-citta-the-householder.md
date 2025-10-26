@@ -3,7 +3,7 @@
 <!--pg-->
 ## The Chapter with Citta
 
-### N 41.1 The Fetter *Saṁyojanasutta*
+### SN 41.1 The Fetter *Saṁyojanasutta*
 
 At one time several senior mendicants were staying near
 Macchikāsaṇḍa in the Wild Mango Grove. Now at that time,
@@ -59,7 +59,7 @@ desire and greed that arises from the pair of them."
 Buddha's deep teachings with the eye of wisdom."
 
 <!--pg-->
-### N 41.2 Isidatta (1st) *Paṭhamaisidattasutta*
+### SN 41.2 Isidatta (1st) *Paṭhamaisidattasutta*
 
 At one time several senior mendicants were staying near
 Macchikāsaṇḍa in the Wild Mango Grove.
@@ -122,7 +122,7 @@ So when a similar question comes up, you should also answer it as you
 feel inspired."
 
 <!--pg-->
-### N 41.3 With Isidatta (2nd) *Dutiyaisidattasutta*
+### SN 41.3 With Isidatta (2nd) *Dutiyaisidattasutta*
 
 At one time several senior mendicants were staying near
 Macchikāsaṇḍa in the Wild Mango Grove.
@@ -249,7 +249,7 @@ But Isidatta set his lodgings in order and, taking his bowl and robe,
 left Macchikāsaṇḍa, never to return.
 
 <!--pg-->
-### N 41.4 Mahaka's Demonstration *Mahakapāṭihāriyasutta*
+### SN 41.4 Mahaka's Demonstration *Mahakapāṭihāriyasutta*
 
 At one time several senior mendicants were staying near
 Macchikāsaṇḍa in the Wild Mango Grove.
@@ -323,7 +323,7 @@ But Mahaka set his lodgings in order and, taking his bowl and robe, left
 Macchikāsaṇḍa, never to return.
 
 <!--pg-->
-### N 41.5 With Kāmabhū (1st) *Paṭhamakāmabhūsutta*
+### SN 41.5 With Kāmabhū (1st) *Paṭhamakāmabhūsutta*
 
 At one time Venerable Kāmabhū was staying near
 Macchikāsaṇḍa in the Wild Mango Grove.
@@ -392,7 +392,7 @@ said in brief:
 Buddha's deep teachings with the eye of wisdom."
 
 <!--pg-->
-### N 41.6 With Kāmabhū (2nd) *Dutiyakāmabhūsutta*
+### SN 41.6 With Kāmabhū (2nd) *Dutiyakāmabhūsutta*
 
 At one time Venerable Kāmabhū was staying near
 Macchikāsaṇḍa in the Wild Mango Grove. Then Citta the
@@ -508,7 +508,7 @@ attaining the cessation of perception and feeling: serenity and
 discernment."
 
 <!--pg-->
-### N 41.7 With Godatta *Godattasutta*
+### SN 41.7 With Godatta *Godattasutta*
 
 At one time Venerable Godatta was staying near
 Macchikāsaṇḍa in the Wild Mango Grove. Then Citta the
@@ -592,7 +592,7 @@ the phrasing."
 Buddha's deep teachings with the eye of wisdom."
 
 <!--pg-->
-### N 41.8 The Jain Ascetic of the Ñātika Clan *Nigaṇṭhanāṭaputtasutta*
+### SN 41.8 The Jain Ascetic of the Ñātika Clan *Nigaṇṭhanāṭaputtasutta*
 
 Now at that time the Jain ascetic of the Ñātika clan had
 arrived at Macchikāsaṇḍa together with a large assembly of
@@ -660,7 +660,7 @@ Then Citta got up from his seat and left without asking the Jain
 Ñātika these ten legitimate questions.
 
 <!--pg-->
-### N 41.9 With Kassapa, the Naked Ascetic *Acelakassapasutta*
+### SN 41.9 With Kassapa, the Naked Ascetic *Acelakassapasutta*
 
 Now at that time the naked ascetic Kassapa, an old friend of Citta in
 the lay life, had arrived at Macchikāsaṇḍa.
@@ -736,7 +736,7 @@ completed; what had to be done has been done; there is nothing further
 for this place." And Venerable Kassapa became one of the perfected.
 
 <!--pg-->
-### N 41.10 Seeing the Sick *Gilānadassanasutta*
+### SN 41.10 Seeing the Sick *Gilānadassanasutta*
 
 Now at that time the householder Citta was sick, suffering, gravely ill.
 

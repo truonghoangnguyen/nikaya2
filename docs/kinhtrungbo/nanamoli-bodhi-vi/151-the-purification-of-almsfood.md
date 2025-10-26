@@ -1,4 +1,4 @@
-# 151. Sự Thanh Tịnh Của Vật Thực Khất Thực
+# MN 151. Sự Thanh Tịnh Của Vật Thực Khất Thực
 ***(Kinh Piṇḍapātapārisuddhi)***
 
 1\. Như vầy tôi nghe. Một thời Đức Thế Tôn trú tại Rājagaha (Vương Xá), trong Trúc Lâm (Veḷuvana), nơi nuôi dưỡng các con sóc (Kalandakanivāpa). Khi ấy, vào buổi chiều, Tôn giả Sāriputta xả thiền và đi đến chỗ Đức Thế Tôn. Sau khi đảnh lễ Ngài, Tôn giả ngồi xuống một bên. Đức Thế Tôn bèn nói với Tôn giả: [294]

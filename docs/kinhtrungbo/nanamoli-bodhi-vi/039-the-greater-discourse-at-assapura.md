@@ -1,4 +1,4 @@
-# 39. Bài Kinh Đại ở Assapura
+# MN 39. Bài Kinh Đại ở Assapura
 *(Mahā-Assapura Sutta)*
 
 1\. Tôi nghe như vầy. Một lần nọ, Đức Phật (Blessed One - Bậc Giác Ngộ) đang ở tại xứ Anga, trong một thị trấn của người Anga tên là Assapura. Tại đó, Đức Phật gọi các tỳ kheo (bhikkhus - những người tu hành): "Này các tỳ kheo." - "Bạch Thế Tôn," họ đáp. Đức Phật nói:

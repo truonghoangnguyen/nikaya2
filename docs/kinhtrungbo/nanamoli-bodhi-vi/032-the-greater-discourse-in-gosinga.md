@@ -1,4 +1,4 @@
-# 32. Đại Kinh Rừng Gosinga
+# MN 32. Đại Kinh Rừng Gosinga
 ***(Mahāgosinga Sutta)***
 
 [212] 1. Tôi nghe như vầy. Một thời Thế Tôn trú ở Rừng cây Sa-la Gosinga, cùng với một số vị trưởng lão đệ tử rất nổi tiếng - tôn giả Sāriputta, tôn giả Mahā Moggallāna, tôn giả Mahā Kassapa, tôn giả Anuruddha, tôn giả Revata, tôn giả Ānanda, và các vị trưởng lão đệ tử rất nổi tiếng khác.

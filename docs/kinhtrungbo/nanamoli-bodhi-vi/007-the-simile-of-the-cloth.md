@@ -1,4 +1,4 @@
-# 7. Ví Dụ Về Tấm Vải
+# MN 7. Ví Dụ Về Tấm Vải
 ***(Vatthūpama Sutta)***
 
 1\. Tôi nghe như vầy. [^84] Một lần nọ, Đức Thế Tôn đang ở tại Sāvatthī (Xá Vệ) trong khu rừng Jeta (Kỳ Đà), vườn của ông Anāthapindika (Cấp Cô Độc). Tại đó, Ngài gọi các vị tỳ kheo: "Này các tỳ kheo." - "Bạch Thế Tôn," các vị ấy đáp. Đức Thế Tôn nói như sau:

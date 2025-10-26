@@ -3,7 +3,7 @@
 <!--pg-->
 ## Chương Một
 
-### N 43.1 Chánh Niệm Về Thân *Kāyagatāsatisutta*
+### SN 43.1 Chánh Niệm Về Thân *Kāyagatāsatisutta*
 
 Tại Sāvatthī.
 
@@ -14,54 +14,54 @@ Và thế nào là thực tại tuyệt đối? Đó là sự chấm dứt tham,
 Vậy nên, này các Tỷ kheo, Ta đã dạy các con về thực tại tuyệt đối và con đường dẫn đến thực tại tuyệt đối. Vì lòng trắc ẩn, Ta đã làm những gì một người thầy nên làm, người luôn mong muốn điều tốt nhất cho các đệ tử của mình. Đây là những gốc cây, và đây là những túp lều trống. Hãy thực hành thiền định, này các Tỷ kheo! Đừng sao nhãng! Đừng hối tiếc sau này! Đây là lời chỉ dạy của Ta cho các con."
 
 <!--pg-->
-### N 43.2 Thiền Định và Thiền Quán *Samathavipassanāsutta*
+### SN 43.2 Thiền Định và Thiền Quán *Samathavipassanāsutta*
 
 "Này các Tỷ kheo, Ta sẽ dạy các con về thực tại tuyệt đối và con đường dẫn đến thực tại tuyệt đối. Hãy lắng nghe ...
 
 Và thế nào là thực tại tuyệt đối? Đó là sự chấm dứt tham, sân, và si. Đây được gọi là thực tại tuyệt đối. Và thế nào là con đường dẫn đến thực tại tuyệt đối? *Thiền Định và Thiền Quán* (Serenity and Discernment / *samatha và vipassanā*/ *chỉ và quán* / sự tĩnh lặng và sự quan sát sáng suốt). Đây được gọi là con đường dẫn đến thực tại tuyệt đối. ..."
 
 <!--pg-->
-### N 43.3 Có Tầm Có Tứ *Savitakkasavicārasutta*
+### SN 43.3 Có Tầm Có Tứ *Savitakkasavicārasutta*
 
 "Và thế nào là con đường dẫn đến thực tại tuyệt đối? Định với *chủ động hướng ý nghĩ đề một đề tài và im lặng quan sát đề tài đó* (placing the mind and keeping it connected / *có tầm có tứ* / còn quá trình suy nghĩ và quan sát). Định *lặng im không suy nghĩ, chỉ có quan sát* (without placing the mind and keeping it connected / *không tầm, có tứ* /không suy nghĩ chỉ có sự im lặng để quan sát). Định *lặng im không suy nghĩ và không quan sát* (without placing the mind or keeping it connected / *không tầm không tứ* /không còn suy nghĩ và không còn quan sát (chỉ có sự tồn tại ý thức mà không có nội dung) ). ..."
 
 <!--pg-->
-### N 43.4 Định Tính Trống Rỗng *Suññatasamādhisutta*
+### SN 43.4 Định Tính Trống Rỗng *Suññatasamādhisutta*
 
 "Và thế nào là con đường dẫn đến thực tại tuyệt đối? *Định Tính trống rỗng* (Emptiness immersion/ Suññatā-samādhi / *không định* / Tập trung nhận thức về sự trống rỗng của các hiện tượng); *Định Vượt qua hình tướng* (signless immersion /Animitta-samādhi)/ *vô tướng định* / Tập trung nhận thức về việc *buông bỏ* mọi dấu hiệu hay hình dạng của các hiện tượng (ngưng đọc nhãn hiệu)); *Định Không mong ước* ( undirected immersion/Appaṇihita-samādhi/ *vô nguyện định* /Tập trung nhận thức về sự ngưng mọi mong muốn, ý định của bản thân). ..."
 
 <!--pg-->
-### N 43.5 Thiền Chánh Niệm *Satipaṭṭhānasutta*
+### SN 43.5 Thiền Chánh Niệm *Satipaṭṭhānasutta*
 
 "Và thế nào là con đường dẫn đến thực tại tuyệt đối? *bốn niệm xứ* (the four kinds of mindfulness meditation / bốn nơi để thực hành chánh niệm). ..."
 
 <!--pg-->
-### N 43.6 Siêng Năng Đúng Đắn *Sammappadhānasutta*
+### SN 43.6 Siêng Năng Đúng Đắn *Sammappadhānasutta*
 
 "Và thế nào là con đường dẫn đến thực tại tuyệt đối? Bốn *siêng năng đúng đắn* (right efforts / *chánh cần*). ..."
 
 <!--pg-->
-### N 43.7 Nền Tảng Của Thần Lực *Iddhipādasutta*
+### SN 43.7 Nền Tảng Của Thần Lực *Iddhipādasutta*
 
 "Và thế nào là con đường dẫn đến thực tại tuyệt đối? Bốn *nền tảng của thần lực* (bases of psychic power / *thần túc*). ..."
 
 <!--pg-->
-### N 43.8 Các Năng Lực *Indriyasutta*
+### SN 43.8 Các Năng Lực *Indriyasutta*
 
 "Và thế nào là con đường dẫn đến thực tại tuyệt đối? Năm *năng lực* (faculties / *căn* / khả năng, năng lực). ..."
 
 <!--pg-->
-### N 43.9 Các Sức Mạnh *Balasutta*
+### SN 43.9 Các Sức Mạnh *Balasutta*
 
 "Và thế nào là con đường dẫn đến thực tại tuyệt đối? Năm *sức mạnh* (powers / *lực*). ..."
 
 <!--pg-->
-### N 43.10 Các Yếu Tố Của Sự Giác Ngộ *Bojjhaṅgasutta*
+### SN 43.10 Các Yếu Tố Của Sự Giác Ngộ *Bojjhaṅgasutta*
 
 "Và thế nào là con đường dẫn đến thực tại tuyệt đối? Bảy *yếu tố của sự giác ngộ* (awakening factors / *giác chi*). ..."
 
 <!--pg-->
-### N 43.11 Con Đường *Maggaṅgasutta*
+### SN 43.11 Con Đường *Maggaṅgasutta*
 
 "Và thế nào là con đường dẫn đến thực tại tuyệt đối? Bát chánh đạo. Đây được gọi là con đường dẫn đến thực tại tuyệt đối.
 
@@ -70,7 +70,7 @@ Vậy nên, này các Tỷ kheo, Ta đã dạy các con về thực tại tuyệ
 <!--pg-->
 ## Chương Hai
 
-### N 43.12 Thực Tại Tuyệt Đối *Asaṅkhatasutta*
+### SN 43.12 Thực Tại Tuyệt Đối *Asaṅkhatasutta*
 
 "Này các Tỷ kheo, Ta sẽ dạy các con về thực tại tuyệt đối và con đường dẫn đến thực tại tuyệt đối. Hãy lắng nghe ...
 
@@ -115,14 +115,14 @@ Vậy nên, này các Tỷ kheo, Ta đã dạy các con về thực tại tuyệ
 Vì lòng trắc ẩn, Ta đã làm những gì một người thầy nên làm, người luôn mong muốn điều tốt nhất cho các đệ tử của mình. Đây là những gốc cây, và đây là những túp lều trống. Hãy thực hành thiền định, này các Tỷ kheo! Đừng sao nhãng! Đừng hối tiếc sau này! Đây là lời chỉ dạy của Ta cho các con."
 
 <!--pg-->
-### N 43.13 Không Nghiêng Chiều *Anatasutta*
+### SN 43.13 Không Nghiêng Chiều *Anatasutta*
 
 "Này các Tỷ kheo, Ta sẽ dạy các con về sự không nghiêng chiều ..."
 
 **(Kể lại đầy đủ như trong chương trước về thực tại tuyệt đối.)**
 
 <!--pg-->
-### N 43.14--43 Không Ô Nhiễm, V.v. *Anāsavādisutta*
+### SN 43.14--43 Không Ô Nhiễm, V.v. *Anāsavādisutta*
 
 "Này các Tỷ kheo, Ta sẽ dạy các con về sự không ô nhiễm ...
 
@@ -185,7 +185,7 @@ nơi trú ẩn ...
 nơi nương tựa ..."
 
 <!--pg-->
-### N 43.44 Nơi Nương Tựa Cuối Cùng *Parāyanasutta*
+### SN 43.44 Nơi Nương Tựa Cuối Cùng *Parāyanasutta*
 
 "Này các Tỷ kheo, Ta sẽ dạy các con về nơi nương tựa cuối cùng và con đường dẫn đến nơi nương tựa cuối cùng. Hãy lắng nghe ...
 

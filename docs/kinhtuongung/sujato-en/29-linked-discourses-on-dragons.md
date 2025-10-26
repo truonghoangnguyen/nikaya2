@@ -3,7 +3,7 @@
 <!--pg-->
 ## The Chapter on Dragons
 
-### N 29.1 Plain Version *Suddhikasutta*
+### SN 29.1 Plain Version *Suddhikasutta*
 
 At Sāvatthī.
 
@@ -12,7 +12,7 @@ are born from eggs, from a womb, from moisture, or spontaneously. These
 are the four ways that dragons reproduce."
 
 <!--pg-->
-### N 29.2 Better *Paṇītatarasutta*
+### SN 29.2 Better *Paṇītatarasutta*
 
 At Sāvatthī.
 
@@ -26,7 +26,7 @@ a womb, or from moisture. These are the four ways that dragons
 reproduce."
 
 <!--pg-->
-### N 29.3 Sabbath *Uposathasutta*
+### SN 29.3 Sabbath *Uposathasutta*
 
 At one time the Buddha was staying near Sāvatthī in Jeta's
 Grove, Anāthapiṇḍika's monastery. Then a mendicant went up
@@ -45,7 +45,7 @@ the cause, this is the reason why some egg-born dragons keep the
 sabbath, having transformed their bodies."
 
 <!--pg-->
-### N 29.4 Sabbath (2nd) *Dutiyauposathasutta*
+### SN 29.4 Sabbath (2nd) *Dutiyauposathasutta*
 
 At Sāvatthī.
 
@@ -56,7 +56,7 @@ sabbath, having transformed their bodies?"
 **(Tell all in full.)**
 
 <!--pg-->
-### N 29.5 Sabbath (3rd) *Tatiyauposathasutta*
+### SN 29.5 Sabbath (3rd) *Tatiyauposathasutta*
 
 At Sāvatthī.
 
@@ -68,7 +68,7 @@ dragons keep the sabbath, having transformed their bodies?"
 **(Tell all in full.)**
 
 <!--pg-->
-### N 29.6 Sabbath (4th) *Catutthauposathasutta*
+### SN 29.6 Sabbath (4th) *Catutthauposathasutta*
 
 At Sāvatthī.
 
@@ -88,7 +88,7 @@ spontaneously-born dragons keep the sabbath, having transformed their
 bodies."
 
 <!--pg-->
-### N 29.7 They've Heard *Sutasutta*
+### SN 29.7 They've Heard *Sutasutta*
 
 At Sāvatthī.
 
@@ -108,7 +108,7 @@ why someone, when their body breaks up, after death, is reborn in the
 company of the egg-born dragons."
 
 <!--pg-->
-### N 29.8 They've Heard (2nd) *Dutiyasutasutta*
+### SN 29.8 They've Heard (2nd) *Dutiyasutasutta*
 
 At Sāvatthī.
 
@@ -121,7 +121,7 @@ dragons?"
 **(Tell all in full.)**
 
 <!--pg-->
-### N 29.9 They've Heard (3rd) *Tatiyasutasutta*
+### SN 29.9 They've Heard (3rd) *Tatiyasutasutta*
 
 At Sāvatthī.
 
@@ -134,7 +134,7 @@ dragons?"
 **(Tell all in full.)**
 
 <!--pg-->
-### N 29.10 They've Heard (4th) *Catutthasutasutta*
+### SN 29.10 They've Heard (4th) *Catutthasutasutta*
 
 At Sāvatthī.
 
@@ -155,7 +155,7 @@ after death, is reborn in the company of the spontaneously-born
 dragons."
 
 <!--pg-->
-### N 29.11--20 Ten Discourses On How Giving Helps to Become Egg-Born *Aṇḍajadānūpakārasuttadasaka*
+### SN 29.11--20 Ten Discourses On How Giving Helps to Become Egg-Born *Aṇḍajadānūpakārasuttadasaka*
 
 Seated to one side, that mendicant said to the Buddha:
 
@@ -175,7 +175,7 @@ when their body breaks up, after death, is reborn in the company of the
 egg-born dragons."
 
 <!--pg-->
-### N 29.21--50 Thirty Discourses On How Giving Helps to Become Womb-Born, Etc. *Jalābujādidānūpakārasuttattiṁsaka*
+### SN 29.21--50 Thirty Discourses On How Giving Helps to Become Womb-Born, Etc. *Jalābujādidānūpakārasuttattiṁsaka*
 
 At Sāvatthī.
 

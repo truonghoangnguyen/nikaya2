@@ -1,4 +1,4 @@
-# 120. Tái Sinh Theo Nguyện Vọng
+# MN 120. Tái Sinh Theo Nguyện Vọng
 ***(Kinh Sankhārupapatti)***
 
 1\.  Như vầy tôi nghe. Một thời Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong Vườn Jeta (Kỳ-đà), khu vườn của Anāthapiṇḍika (Cấp Cô Độc). Tại đó, Ngài gọi các tỳ kheo (monks-bhikkhus-nhà sư): "Này các tỳ kheo." - "Bạch Thế Tôn," họ đáp lời. Đức Thế Tôn nói thế này:

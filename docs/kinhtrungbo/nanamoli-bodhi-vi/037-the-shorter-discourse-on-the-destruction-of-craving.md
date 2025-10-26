@@ -1,4 +1,4 @@
-# 37. Tiểu Kinh Đoạn Tận Ái
+# MN 37. Tiểu Kinh Đoạn Tận Ái
 ***(Cūḷataṇhāsankhaya Sutta)***
 
 1\.  Tôi nghe như vầy. Một thời Thế Tôn trú ở Sāvatthī (Xá Vệ), tại Đông Viên, trong lâu đài của mẹ Migāra.

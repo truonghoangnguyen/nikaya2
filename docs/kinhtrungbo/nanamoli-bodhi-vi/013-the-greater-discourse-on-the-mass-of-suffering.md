@@ -1,4 +1,4 @@
-# 13. Bài Kinh Đại về Khổ Uẩn
+# MN 13. Bài Kinh Đại về Khổ Uẩn
 ***(Mahādukkhakkhandha Sutta)***
 
 1\. Tôi nghe như vầy. Một lần nọ, Đức Phật (The Blessed One) đang ở tại Sāvatthī trong khu rừng Jeta, công viên của Anāthapiṇ̣ika.

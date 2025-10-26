@@ -1,4 +1,4 @@
-# 25. Mồi Nhử
+# MN 25. Mồi Nhử
 ***(Nivāpa Sutta - Kinh Mồi Nhử)***
 
 1\. Tôi nghe như vầy. Một thời, Đức Phật (The Blessed One - Bậc Giác Ngộ) trú tại Sāvatthī (Xá Vệ), trong khu rừng Jeta (Kỳ Đà), vườn của ông Anāthapiṇ̣ika (Cấp Cô Độc). Tại đó, Ngài gọi các tỳ kheo (monks-bhikkhus-nhà sư): "Này các tỳ kheo." - "Bạch Thế Tôn," các vị ấy đáp. Đức Phật nói như sau:

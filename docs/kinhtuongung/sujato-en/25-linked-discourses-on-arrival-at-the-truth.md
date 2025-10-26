@@ -3,7 +3,7 @@
 <!--pg-->
 ## The Chapter on the Eye
 
-### N 25.1 The Eye *Cakkhusutta*
+### SN 25.1 The Eye *Cakkhusutta*
 
 At Sāvatthī.
 
@@ -30,7 +30,7 @@ stream-enterer, not liable to be reborn in the underworld, bound for
 awakening."
 
 <!--pg-->
-### N 25.2 Sights *Rūpasutta*
+### SN 25.2 Sights *Rūpasutta*
 
 At Sāvatthī.
 
@@ -58,7 +58,7 @@ stream-enterer, not liable to be reborn in the underworld, bound for
 awakening."
 
 <!--pg-->
-### N 25.3 Consciousness *Viññāṇasutta*
+### SN 25.3 Consciousness *Viññāṇasutta*
 
 At Sāvatthī.
 
@@ -71,7 +71,7 @@ Someone who has faith and confidence in these teachings is called a
 follower by faith. ..."
 
 <!--pg-->
-### N 25.4 Contact *Samphassasutta*
+### SN 25.4 Contact *Samphassasutta*
 
 At Sāvatthī.
 
@@ -83,7 +83,7 @@ Someone who has faith and confidence in these teachings is called a
 follower by faith. ..."
 
 <!--pg-->
-### N 25.5 Feeling *Samphassajasutta*
+### SN 25.5 Feeling *Samphassajasutta*
 
 At Sāvatthī.
 
@@ -96,7 +96,7 @@ Someone who has faith and confidence in these teachings is called a
 follower by faith. ..."
 
 <!--pg-->
-### N 25.6 Perception *Rūpasaññāsutta*
+### SN 25.6 Perception *Rūpasaññāsutta*
 
 At Sāvatthī.
 
@@ -109,7 +109,7 @@ Someone who has faith and confidence in these teachings is called a
 follower by faith. ..."
 
 <!--pg-->
-### N 25.7 Intention *Rūpasañcetanāsutta*
+### SN 25.7 Intention *Rūpasañcetanāsutta*
 
 At Sāvatthī.
 
@@ -122,7 +122,7 @@ Someone who has faith and confidence in these teachings is called a
 follower by faith. ..."
 
 <!--pg-->
-### N 25.8 Craving For Sights *Rūpataṇhāsutta*
+### SN 25.8 Craving For Sights *Rūpataṇhāsutta*
 
 At Sāvatthī.
 
@@ -134,7 +134,7 @@ Someone who has faith and confidence in these teachings is called a
 follower by faith. ..."
 
 <!--pg-->
-### N 25.9 Elements *Pathavīdhātusutta*
+### SN 25.9 Elements *Pathavīdhātusutta*
 
 At Sāvatthī.
 
@@ -146,7 +146,7 @@ Someone who has faith and confidence in these teachings is called a
 follower by faith. ..."
 
 <!--pg-->
-### N 25.10 The Aggregates *Khandhasutta*
+### SN 25.10 The Aggregates *Khandhasutta*
 
 At Sāvatthī.
 

@@ -1,4 +1,4 @@
-# 117. Kinh Đại Bốn Mươi
+# MN 117. Kinh Đại Bốn Mươi
 ***(Mahācattārīsaka Sutta)***
 
 1\.  Tôi nghe như vầy. Một thời Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong Vườn Jeta (Kỳ-đà), Khu vườn của Anāthapindika (Cấp Cô Độc). Tại đó, Ngài gọi các tỳ kheo (bhikkhus - nhà sư): "Này các tỳ kheo." - "Bạch Thế Tôn," họ đáp lời. Đức Thế Tôn dạy như sau:

@@ -3,7 +3,7 @@
 <!--pg-->
 ## Phẩm Xá Lợi Phất
 
-### N 28.1 Kinh Sinh Ra Từ Ly Dục *Vivekajasutta*
+### SN 28.1 Kinh Sinh Ra Từ Ly Dục *Vivekajasutta*
 
 Một thời Tôn giả Xá Lợi Phất đang ở gần
 thành Xá Vệ, tại Kỳ Viên, tu viện của ông Cấp Cô Độc.
@@ -32,7 +32,7 @@ thiền' hay 'Tôi đã nhập sơ thiền' hay 'Tôi đang xả
 sơ thiền'."
 
 <!--pg-->
-### N 28.2 Kinh Không Tầm *Avitakkasutta*
+### SN 28.2 Kinh Không Tầm *Avitakkasutta*
 
 Tại Xá Vệ.
 
@@ -50,7 +50,7 @@ thiền' hay 'Tôi đã nhập nhị thiền' hay 'Tôi đang xả
 nhị thiền'."
 
 <!--pg-->
-### N 28.3 Kinh Hân Hoan *Pītisutta*
+### SN 28.3 Kinh Hân Hoan *Pītisutta*
 
 Tại Xá Vệ.
 
@@ -72,7 +72,7 @@ thiền' hay 'Tôi đã nhập tam thiền' hay 'Tôi đang xả
 tam thiền'."
 
 <!--pg-->
-### N 28.4 Kinh Xả *Upekkhāsutta*
+### SN 28.4 Kinh Xả *Upekkhāsutta*
 
 Tại Xá Vệ.
 
@@ -94,7 +94,7 @@ thiền' hay 'Tôi đã nhập tứ thiền' hay 'Tôi đang xả
 tứ thiền'."
 
 <!--pg-->
-### N 28.5 Kinh Không Vô Biên Xứ *Ākāsānañcāyatanasutta*
+### SN 28.5 Kinh Không Vô Biên Xứ *Ākāsānañcāyatanasutta*
 
 Tại Xá Vệ.
 
@@ -105,7 +105,7 @@ nhận thức về chướng ngại, không chú ý đến các nhận thức v�
 nhận biết rằng 'không gian là vô biên', tôi đã nhập và an trú trong không vô biên xứ. ..." ...
 
 <!--pg-->
-### N 28.6 Kinh Thức Vô Biên Xứ *Viññāṇañcāyatanasutta*
+### SN 28.6 Kinh Thức Vô Biên Xứ *Viññāṇañcāyatanasutta*
 
 Tại Xá Vệ.
 
@@ -116,7 +116,7 @@ rằng '*thức* (consciousness / thức phát sinh từ thân và tâm, là m�
 thức vô biên xứ. ..." ...
 
 <!--pg-->
-### N 28.7 Kinh Vô Sở Hữu Xứ *Ākiñcaññāyatanasutta*
+### SN 28.7 Kinh Vô Sở Hữu Xứ *Ākiñcaññāyatanasutta*
 
 Tại Xá Vệ.
 
@@ -127,7 +127,7 @@ nhận biết rằng 'không có gì cả', tôi đã nhập và an trú trong
 vô sở hữu xứ. ..." ...
 
 <!--pg-->
-### N 28.8 Kinh Phi Tưởng Phi Phi Tưởng Xứ *Nevasaññānāsaññāyatanasutta*
+### SN 28.8 Kinh Phi Tưởng Phi Phi Tưởng Xứ *Nevasaññānāsaññāyatanasutta*
 
 Tại Xá Vệ.
 
@@ -138,7 +138,7 @@ và an trú trong phi tưởng phi phi tưởng xứ.
 ..." ...
 
 <!--pg-->
-### N 28.9 Kinh Diệt Thọ Tưởng Định *Nirodhasamāpattisutta*
+### SN 28.9 Kinh Diệt Thọ Tưởng Định *Nirodhasamāpattisutta*
 
 Tại Xá Vệ.
 
@@ -155,7 +155,7 @@ thọ tưởng định' hay 'Tôi đã nhập diệt thọ tưởng định' hay
 diệt thọ tưởng định'."
 
 <!--pg-->
-### N 28.10 Kinh Sucimukhī *Sucimukhīsutta*
+### SN 28.10 Kinh Sucimukhī *Sucimukhīsutta*
 
 Một thời Tôn giả Xá Lợi Phất đang ở gần
 thành Vương Xá, tại Trúc Lâm, nơi các con sóc được cho ăn.

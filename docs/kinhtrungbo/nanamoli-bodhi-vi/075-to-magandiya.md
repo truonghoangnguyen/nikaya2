@@ -1,4 +1,4 @@
-# 75. Kinh Gửi Māgandiya
+# MN 75. Kinh Gửi Māgandiya
 ***(Māgandiya Sutta)***
 
 1\.  Tôi nghe như vầy. Một thời Đức Thế Tôn (Blessed One - bậc được tôn kính) trú ở xứ Kuru, tại một thị trấn tên là Kammāsadhamma, trên một tấm lót cỏ trong phòng thờ lửa của một vị bà-la-môn (brahmin - tu sĩ thuộc giai cấp cao nhất trong xã hội Ấn Độ cổ) thuộc dòng dõi Bhāradvāja.

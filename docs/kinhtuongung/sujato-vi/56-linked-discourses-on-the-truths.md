@@ -3,7 +3,7 @@
 <!--pg-->
 ## Chương Về Định
 
-### N 56.1 Định *Kinh Samādhi*
+### SN 56.1 Định *Kinh Samādhi*
 
 Tại Sāvatthī.
 
@@ -12,14 +12,14 @@ Tại Sāvatthī.
 Vì vậy, các vị nên thực hành thiền định để hiểu rằng: 'Đây là *khổ*' ... 'Đây là nguồn gốc của *khổ*' ... 'Đây là sự chấm dứt *khổ*' ... 'Đây là con đường thực hành dẫn đến sự chấm dứt *khổ*'."
 
 <!--pg-->
-### N 56.2 An Cư *Kinh Paṭisallāna*
+### SN 56.2 An Cư *Kinh Paṭisallāna*
 
 "Này các *Tỷ kheo*, hãy thiền định trong nơi an tịnh. Một *Tỷ kheo* ở nơi an tịnh thì *biết như thật*. Họ *biết như thật* điều gì? Họ *biết như thật*: 'Đây là *khổ*' ... 'Đây là nguồn gốc của *khổ*' ... 'Đây là sự chấm dứt *khổ*' ... 'Đây là con đường thực hành dẫn đến sự chấm dứt *khổ*'. Hãy thiền định trong nơi an tịnh. Một *Tỷ kheo* ở nơi an tịnh thì *biết như thật*.
 
 Vì vậy, các vị nên thực hành thiền định để hiểu rằng: 'Đây là *khổ*' ... 'Đây là nguồn gốc của *khổ*' ... 'Đây là sự chấm dứt *khổ*' ... 'Đây là con đường thực hành dẫn đến sự chấm dứt *khổ*'."
 
 <!--pg-->
-### N 56.3 Người Thiện Nam (Thứ Nhất) *Kinh Paṭhamakulaputta*
+### SN 56.3 Người Thiện Nam (Thứ Nhất) *Kinh Paṭhamakulaputta*
 
 "Này các *Tỷ kheo*, bất kỳ người thiện nam nào—trong quá khứ, tương lai, hay hiện tại—chân chính từ bỏ đời sống thế tục để sống không nhà, tất cả họ đều làm vậy để *biết như thật* về *bốn sự thật cao quý* (four noble truths / cattāri ariyasaccāni / *tứ diệu đế* / bốn sự thật về khổ, nguồn gốc của khổ, sự chấm dứt khổ, và con đường dẫn đến sự chấm dứt khổ).
 
@@ -28,7 +28,7 @@ Bốn điều đó là gì? Các sự thật cao quý về *khổ*, nguồn gố
 Vì vậy, các vị nên thực hành thiền định để hiểu rằng: 'Đây là *khổ*' ... 'Đây là nguồn gốc của *khổ*' ... 'Đây là sự chấm dứt *khổ*' ... 'Đây là con đường thực hành dẫn đến sự chấm dứt *khổ*'."
 
 <!--pg-->
-### N 56.4 Người Thiện Nam (Thứ Hai) *Kinh Dutiyakulaputta*
+### SN 56.4 Người Thiện Nam (Thứ Hai) *Kinh Dutiyakulaputta*
 
 "Này các *Tỷ kheo*, bất kỳ người thiện nam nào—trong quá khứ, tương lai, hay hiện tại—*biết như thật* sau khi chân chính từ bỏ đời sống thế tục để sống không nhà, tất cả họ đều *biết như thật* về *bốn sự thật cao quý*.
 
@@ -37,7 +37,7 @@ Bốn điều đó là gì? Các sự thật cao quý về *khổ*, nguồn gố
 Vì vậy, các vị nên thực hành thiền định ..."
 
 <!--pg-->
-### N 56.5 Sa Môn và Bà La Môn (Thứ Nhất) *Kinh Paṭhamasamaṇabrāhmaṇa*
+### SN 56.5 Sa Môn và Bà La Môn (Thứ Nhất) *Kinh Paṭhamasamaṇabrāhmaṇa*
 
 "Này các *Tỷ kheo*, bất kỳ sa môn và bà la môn nào thực sự tỉnh thức—trong quá khứ, tương lai, hay hiện tại—tất cả họ đều thực sự tỉnh thức về *bốn sự thật cao quý*.
 
@@ -46,7 +46,7 @@ Bốn điều đó là gì? Các sự thật cao quý về *khổ*, nguồn gố
 Vì vậy, các vị nên thực hành thiền định ..."
 
 <!--pg-->
-### N 56.6 Sa Môn và Bà La Môn (Thứ Hai) *Kinh Dutiyasamaṇabrāhmaṇa*
+### SN 56.6 Sa Môn và Bà La Môn (Thứ Hai) *Kinh Dutiyasamaṇabrāhmaṇa*
 
 "Này các *Tỷ kheo*, bất kỳ sa môn và bà la môn nào—trong quá khứ, tương lai, hay hiện tại—tuyên bố rằng họ đã giác ngộ, tất cả họ đều tuyên bố rằng họ đã thực sự giác ngộ về *bốn sự thật cao quý*.
 
@@ -55,7 +55,7 @@ Bốn điều đó là gì? Các sự thật cao quý về *khổ*, nguồn gố
 Vì vậy, các vị nên thực hành thiền định ..."
 
 <!--pg-->
-### N 56.7 Các Suy Nghĩ *Kinh Vitakka*
+### SN 56.7 Các Suy Nghĩ *Kinh Vitakka*
 
 "Này các *Tỷ kheo*, đừng suy nghĩ những điều xấu, bất thiện, như những suy nghĩ về dục lạc, ác ý và tàn nhẫn. Tại sao vậy? Bởi vì những suy nghĩ đó không lợi ích, không liên quan đến những nền tảng của đời sống tâm linh. Chúng không dẫn đến *nhàm chán* (disillusionment / nibbidā / sự chán ngán, không còn hứng thú với các pháp hữu vi), *ly tham* (dispassion / virāga / sự dứt bỏ tham ái), *chấm dứt* (cessation / nirodha / sự diệt tận), *an tịnh* (peace / upasama / sự lắng dịu), *hiểu biết trực tiếp* (direct knowledge / abhiññā / thắng tri / sự hiểu biết sâu sắc, không qua trung gian suy luận), *giác ngộ* (awakening / sambodha / sự tỉnh thức hoàn toàn), và *Niết bàn* (extinguishment / nibbāna / sự dập tắt hoàn toàn tham, sân, si).
 
@@ -64,7 +64,7 @@ Khi các vị suy nghĩ, hãy suy nghĩ rằng: 'Đây là *khổ*' ... 'Đây l
 Vì vậy, các vị nên thực hành thiền định ..."
 
 <!--pg-->
-### N 56.8 Tư Tưởng *Kinh Cinta*
+### SN 56.8 Tư Tưởng *Kinh Cinta*
 
 "Này các *Tỷ kheo*, đừng suy tưởng những ý nghĩ xấu, bất thiện. Ví dụ: vũ trụ là thường hằng, hay không thường hằng, hay hữu hạn, hay vô hạn; linh hồn và thể xác là một, hay chúng là hai thứ khác nhau; sau khi chết, một bậc giác ngộ vẫn tồn tại, hay không còn tồn tại, hay vừa tồn tại vừa không tồn tại, hay không tồn tại cũng không không tồn tại. Tại sao vậy? Bởi vì những suy nghĩ đó không lợi ích, không liên quan đến những nền tảng của đời sống tâm linh. Chúng không dẫn đến *nhàm chán*, *ly tham*, *chấm dứt*, *an tịnh*, *hiểu biết trực tiếp*, *giác ngộ*, và *Niết bàn*.
 
@@ -73,7 +73,7 @@ Khi các vị suy tưởng điều gì, hãy suy tưởng rằng: 'Đây là *kh
 Vì vậy, các vị nên thực hành thiền định ..."
 
 <!--pg-->
-### N 56.9 Tranh Luận *Kinh Viggāhikakathā*
+### SN 56.9 Tranh Luận *Kinh Viggāhikakathā*
 
 "Này các *Tỷ kheo*, đừng tham gia vào các cuộc tranh luận, chẳng hạn như: 'Ông không hiểu giáo pháp và giới luật này. Tôi hiểu giáo pháp và giới luật này. Sao, ông mà hiểu giáo pháp và giới luật này ư? Ông đang thực hành sai. Tôi đang thực hành đúng. Tôi nói đúng chủ đề, còn ông thì không. Điều ông nên nói trước thì lại nói sau. Điều ông nên nói sau thì lại nói trước. Những gì ông đã suy nghĩ rất nhiều đã bị bác bỏ. Học thuyết của ông đã bị réfuter. Cứ tiếp tục đi, hãy cứu lấy học thuyết của ông! Ông bị mắc kẹt rồi; hãy tự thoát ra khỏi đây—nếu ông có thể!' Tại sao vậy? Bởi vì những cuộc thảo luận đó không lợi ích, không liên quan đến những nền tảng của đời sống tâm linh. Chúng không dẫn đến *nhàm chán*, *ly tham*, *chấm dứt*, *an tịnh*, *hiểu biết trực tiếp*, *giác ngộ*, và *Niết bàn*.
 
@@ -82,7 +82,7 @@ Khi các vị thảo luận, hãy thảo luận rằng: 'Đây là *khổ*' ... 
 Vì vậy, các vị nên thực hành thiền định ..."
 
 <!--pg-->
-### N 56.10 Chuyện Phàm Tục *Kinh Tiracchānakathā*
+### SN 56.10 Chuyện Phàm Tục *Kinh Tiracchānakathā*
 
 "Này các *Tỷ kheo*, đừng tham gia vào đủ loại chuyện phàm tục, chẳng hạn như chuyện về vua chúa, trộm cướp, và quan lại; chuyện về quân đội, các mối đe dọa, và chiến tranh; chuyện về thức ăn, đồ uống, quần áo, và giường ngủ; chuyện về vòng hoa và hương thơm; chuyện về gia đình, xe cộ, làng mạc, thị trấn, thành phố, và quốc gia; chuyện về phụ nữ và anh hùng; chuyện ngoài đường và chuyện bên giếng nước; chuyện về người đã khuất; chuyện phiếm; những câu chuyện về đất liền và biển cả; và chuyện về việc tái sinh ở nơi này hay nơi khác. Tại sao vậy? Bởi vì những cuộc thảo luận đó không lợi ích, không liên quan đến những nền tảng của đời sống tâm linh. Chúng không dẫn đến *nhàm chán*, *ly tham*, *chấm dứt*, *an tịnh*, *hiểu biết trực tiếp*, *giác ngộ*, và *Niết bàn*.
 
@@ -93,7 +93,7 @@ Vì vậy, các vị nên thực hành thiền định ..."
 <!--pg-->
 ## Chương Về Chuyển Pháp Luân
 
-### N 56.11 Chuyển Pháp Luân *Kinh Dhammacakkappavattana*
+### SN 56.11 Chuyển Pháp Luân *Kinh Dhammacakkappavattana*
 
 Một thời, Đức Phật trú tại gần Varanasi, trong vườn Lộc Uyển ở Isipatana. Tại đó, Đức Phật nói với nhóm năm vị *Tỷ kheo*:
 
@@ -138,7 +138,7 @@ Rồi Đức Phật thốt lên lời cảm thán từ đáy lòng: "Koṇḍañ
 Và đó là cách Tôn giả Koṇḍañña được biết đến với cái tên "Koṇḍañña Người Đã Hiểu".
 
 <!--pg-->
-### N 56.12 Các Bậc Như Lai *Kinh Tathāgata*
+### SN 56.12 Các Bậc Như Lai *Kinh Tathāgata*
 
 "'Đây là sự thật cao quý về *khổ*.' Tuệ nhãn, tri kiến, trí tuệ, sự chứng ngộ, và ánh sáng như vậy đã khởi lên trong các bậc *Như Lai* về những giáo lý chưa từng được học từ ai trước đây. 'Sự thật cao quý về *khổ* này cần được *hiểu biết hoàn toàn*.' ... 'Sự thật cao quý về *khổ* này đã được *hiểu biết hoàn toàn*.' ...
 
@@ -149,7 +149,7 @@ Và đó là cách Tôn giả Koṇḍañña được biết đến với cái t
 'Đây là sự thật cao quý về con đường thực hành dẫn đến sự chấm dứt *khổ*.' ... 'Sự thật cao quý về con đường thực hành dẫn đến sự chấm dứt *khổ* này cần được phát triển.' ... 'Sự thật cao quý về con đường thực hành dẫn đến sự chấm dứt *khổ* này đã được phát triển.' Tuệ nhãn, tri kiến, trí tuệ, sự chứng ngộ, và ánh sáng như vậy đã khởi lên trong các bậc *Như Lai* về những giáo lý chưa từng được học từ ai trước đây."
 
 <!--pg-->
-### N 56.13 Các Uẩn *Kinh Khandha*
+### SN 56.13 Các Uẩn *Kinh Khandha*
 
 "Này các *Tỷ kheo*, có *bốn sự thật cao quý* này. Bốn điều đó là gì? Các sự thật cao quý về *khổ*, nguồn gốc của *khổ*, sự chấm dứt *khổ*, và con đường thực hành dẫn đến sự chấm dứt *khổ*.
 
@@ -164,14 +164,14 @@ Và sự thật cao quý về con đường thực hành dẫn đến sự chấ
 Vì vậy, các vị nên thực hành thiền định ..."
 
 <!--pg-->
-### N 56.14 Các Căn Nội Tại *Kinh Ajjhattikāyatana*
+### SN 56.14 Các Căn Nội Tại *Kinh Ajjhattikāyatana*
 
 "Này các *Tỷ kheo*, có *bốn sự thật cao quý* này. Bốn điều đó là gì? Các sự thật cao quý về *khổ*, nguồn gốc của *khổ*, sự chấm dứt *khổ*, và con đường thực hành dẫn đến sự chấm dứt *khổ*.
 
 Và sự thật cao quý về *khổ* là gì? Các vị nên nói: '*Sáu trường tiếp xúc nội tại* (six interior sense fields / saḷāyatana / *lục nhập* / sáu cơ quan cảm giác bên trong: mắt, tai, mũi, lưỡi, thân, và ý)'. Sáu điều đó là gì? Các *trường tiếp xúc* của mắt, tai, mũi, lưỡi, thân, và *trí não và ý nghĩ*. Đây được gọi là sự thật cao quý về *khổ*. ..."
 
 <!--pg-->
-### N 56.15 Ghi Nhớ (Thứ Nhất) *Kinh Paṭhamadhāraṇa*
+### SN 56.15 Ghi Nhớ (Thứ Nhất) *Kinh Paṭhamadhāraṇa*
 
 "Này các *Tỷ kheo*, các vị có nhớ *bốn sự thật cao quý* mà ta đã dạy không?" Khi ngài nói vậy, một trong các *Tỷ kheo* thưa với Đức Phật:
 
@@ -186,7 +186,7 @@ Và sự thật cao quý về *khổ* là gì? Các vị nên nói: '*Sáu trư�
 Vì vậy, các vị nên thực hành thiền định ..."
 
 <!--pg-->
-### N 56.16 Ghi Nhớ (Thứ Hai) *Kinh Dutiyadhāraṇa*
+### SN 56.16 Ghi Nhớ (Thứ Hai) *Kinh Dutiyadhāraṇa*
 
 "Này các *Tỷ kheo*, các vị có nhớ *bốn sự thật cao quý* mà ta đã dạy không?" Khi ngài nói vậy, một trong các *Tỷ kheo* thưa với Đức Phật:
 
@@ -201,7 +201,7 @@ Vì vậy, các vị nên thực hành thiền định ..."
 Vì vậy, các vị nên thực hành thiền định ..."
 
 <!--pg-->
-### N 56.17 Vô Minh *Kinh Avijjā*
+### SN 56.17 Vô Minh *Kinh Avijjā*
 
 Ngồi một bên, vị *Tỷ kheo* đó thưa với Đức Phật:
 
@@ -212,7 +212,7 @@ Ngồi một bên, vị *Tỷ kheo* đó thưa với Đức Phật:
 Vì vậy, các vị nên thực hành thiền định ..."
 
 <!--pg-->
-### N 56.18 Minh *Kinh Vijjā*
+### SN 56.18 Minh *Kinh Vijjā*
 
 Rồi một vị *Tỷ kheo* đến gặp Đức Phật, đảnh lễ, ngồi xuống một bên và thưa với ngài:
 
@@ -223,14 +223,14 @@ Rồi một vị *Tỷ kheo* đến gặp Đức Phật, đảnh lễ, ngồi xu
 Vì vậy, các vị nên thực hành thiền định ..."
 
 <!--pg-->
-### N 56.19 Các Cách Diễn Đạt *Kinh Saṅkāsana*
+### SN 56.19 Các Cách Diễn Đạt *Kinh Saṅkāsana*
 
 "Này các *Tỷ kheo*, ta đã tuyên bố: 'Đây là sự thật cao quý về *khổ*.' Và có vô số cách giải thích, cụm từ, và cách diễn đạt về điều đó: 'Đây là một cách nói khác rằng đây là sự thật cao quý về *khổ*.' Ta đã tuyên bố: 'Đây là sự thật cao quý về nguồn gốc của *khổ*.' ... Ta đã tuyên bố: 'Đây là sự thật cao quý về sự chấm dứt *khổ*.' ... Ta đã tuyên bố: 'Đây là sự thật cao quý về con đường thực hành dẫn đến sự chấm dứt *khổ*.' Và có vô số cách giải thích, cụm từ, và cách diễn đạt về điều đó: 'Đây là một cách nói khác rằng đây là sự thật cao quý về con đường thực hành dẫn đến sự chấm dứt *khổ*.'
 
 Vì vậy, các vị nên thực hành thiền định ..."
 
 <!--pg-->
-### N 56.20 Chân Thật *Kinh Tatha*
+### SN 56.20 Chân Thật *Kinh Tatha*
 
 "Này các *Tỷ kheo*, bốn điều này là chân thật, không phải không thật, không phải khác đi. Bốn điều đó là gì? 'Đây là *khổ*' ... 'Đây là nguồn gốc của *khổ*' ... 'Đây là sự chấm dứt *khổ*' ... 'Đây là con đường thực hành dẫn đến sự chấm dứt *khổ*' ... Bốn điều này là chân thật, không phải không thật, không phải khác đi.
 
@@ -239,7 +239,7 @@ Vì vậy, các vị nên thực hành thiền định ..."
 <!--pg-->
 ## Chương Tại Làng Koṭi
 
-### N 56.21 Tại Làng Koṭi (Thứ Nhất) *Kinh Paṭhamakoṭigāma*
+### SN 56.21 Tại Làng Koṭi (Thứ Nhất) *Kinh Paṭhamakoṭigāma*
 
 Một thời, Đức Phật đang ở trong xứ của người Vajjī tại làng Koṭi. Tại đó, Đức Phật nói với các *Tỷ kheo*: "Này các *Tỷ kheo*, do không hiểu và không thâm nhập được *bốn sự thật cao quý*, cả các vị và ta đã lang thang và luân hồi trong một thời gian rất dài.
 
@@ -258,7 +258,7 @@ Bốn điều đó là gì? Các sự thật cao quý về *khổ*, nguồn gố
 > bây giờ sẽ không còn kiếp sống tương lai nào nữa."
 
 <!--pg-->
-### N 56.22 Tại Làng Koṭi (Thứ Hai) *Kinh Dutiyakoṭigāma*
+### SN 56.22 Tại Làng Koṭi (Thứ Hai) *Kinh Dutiyakoṭigāma*
 
 "Này các *Tỷ kheo*, có những sa môn và bà la môn không *biết như thật* về *khổ*, nguồn gốc của nó, sự chấm dứt của nó, và con đường. Ta không coi họ là những sa môn và bà la môn chân chính. Những vị tôn giả đó không nhận ra mục tiêu của đời sống sa môn hay bà la môn, và không sống sau khi đã nhận ra nó bằng tuệ giác của chính mình.
 
@@ -291,7 +291,7 @@ Có những sa môn và bà la môn *biết như thật* về *khổ*, nguồn g
 > họ không tiếp tục tái sinh và già đi."
 
 <!--pg-->
-### N 56.23 Đức Phật Toàn Giác *Kinh Sammāsambuddha*
+### SN 56.23 Đức Phật Toàn Giác *Kinh Sammāsambuddha*
 
 Tại Sāvatthī.
 
@@ -300,7 +300,7 @@ Tại Sāvatthī.
 Vì vậy, các vị nên thực hành thiền định ..."
 
 <!--pg-->
-### N 56.24 Các Bậc Hoàn Thiện *Kinh Arahanta*
+### SN 56.24 Các Bậc Hoàn Thiện *Kinh Arahanta*
 
 Tại Sāvatthī.
 
@@ -311,14 +311,14 @@ Bốn điều đó là gì? Các sự thật cao quý về *khổ*, nguồn gố
 Vì vậy, các vị nên thực hành thiền định ..."
 
 <!--pg-->
-### N 56.25 Sự Chấm Dứt Các Ô Nhiễm *Kinh Āsavakkhaya*
+### SN 56.25 Sự Chấm Dứt Các Ô Nhiễm *Kinh Āsavakkhaya*
 
 "Này các *Tỷ kheo*, ta nói rằng sự chấm dứt các *ô nhiễm* (defilements / āsava / *lậu hoặc* / những ô nhiễm tinh thần sâu kín làm rò rỉ năng lượng tâm linh và trói buộc vào luân hồi) là dành cho người biết và thấy, không phải cho người không biết hay không thấy. Dành cho người biết và thấy điều gì? Sự chấm dứt các *ô nhiễm* là dành cho người biết và thấy *khổ*, nguồn gốc của nó, sự chấm dứt của nó, và con đường. Sự chấm dứt các *ô nhiễm* là dành cho người biết và thấy điều này.
 
 Vì vậy, các vị nên thực hành thiền định ..."
 
 <!--pg-->
-### N 56.26 Bạn Bè *Kinh Mitta*
+### SN 56.26 Bạn Bè *Kinh Mitta*
 
 "Này các *Tỷ kheo*, những người mà các vị có lòng cảm thông, và những người đáng lắng nghe—bạn bè và đồng nghiệp, họ hàng và gia đình—nên được khuyến khích, hỗ trợ, và thiết lập trong sự hiểu biết chân thật về *bốn sự thật cao quý*.
 
@@ -327,21 +327,21 @@ Bốn điều đó là gì? Các sự thật cao quý về *khổ*, nguồn gố
 Vì vậy, các vị nên thực hành thiền định ..."
 
 <!--pg-->
-### N 56.27 Chân Thật *Kinh Tatha*
+### SN 56.27 Chân Thật *Kinh Tatha*
 
 "Này các *Tỷ kheo*, có *bốn sự thật cao quý* này. Bốn điều đó là gì? Các sự thật cao quý về *khổ*, nguồn gốc của *khổ*, sự chấm dứt *khổ*, và con đường thực hành dẫn đến sự chấm dứt *khổ*. *Bốn sự thật cao quý* này là chân thật, không phải không thật, không phải khác đi. Đó là lý do tại sao chúng được gọi là 'sự thật cao quý'.
 
 Vì vậy, các vị nên thực hành thiền định ..."
 
 <!--pg-->
-### N 56.28 Thế Giới *Kinh Loka*
+### SN 56.28 Thế Giới *Kinh Loka*
 
 "Này các *Tỷ kheo*, có *bốn sự thật cao quý* này. Bốn điều đó là gì? Các sự thật cao quý về *khổ*, nguồn gốc của *khổ*, sự chấm dứt *khổ*, và con đường thực hành dẫn đến sự chấm dứt *khổ*. Trong thế giới này với các vị trời, Ma vương, và Phạm thiên, trong quần chúng này với các sa môn và bà la môn, các vị trời và loài người, *Như Lai* là Bậc Cao Quý. Đó là lý do tại sao chúng được gọi là 'sự thật cao quý'.
 
 Vì vậy, các vị nên thực hành thiền định ..."
 
 <!--pg-->
-### N 56.29 Cần Được Hiểu Hoàn Toàn *Kinh Pariññeyya*
+### SN 56.29 Cần Được Hiểu Hoàn Toàn *Kinh Pariññeyya*
 
 "Này các *Tỷ kheo*, có *bốn sự thật cao quý* này. Bốn điều đó là gì? Các sự thật cao quý về *khổ*, nguồn gốc của *khổ*, sự chấm dứt *khổ*, và con đường thực hành dẫn đến sự chấm dứt *khổ*. Đây là *bốn sự thật cao quý*. Trong *bốn sự thật cao quý* này, có một điều cần được *hiểu biết hoàn toàn*, một điều cần được từ bỏ, một điều cần được chứng ngộ, và một điều cần được phát triển.
 
@@ -350,7 +350,7 @@ Và sự thật cao quý nào cần được *hiểu biết hoàn toàn*? Sự t
 Vì vậy, các vị nên thực hành thiền định ..."
 
 <!--pg-->
-### N 56.30 Với Gavampati *Kinh Gavampati*
+### SN 56.30 Với Gavampati *Kinh Gavampati*
 
 Một thời, một vài vị *Tỷ kheo* đang ở trong xứ của người Cetī tại Sahajāti. Bấy giờ, sau bữa ăn, khi trở về từ chuyến khất thực, một vài vị trưởng lão *Tỷ kheo* ngồi cùng nhau trong đình và cuộc thảo luận này nảy sinh giữa họ:
 
@@ -363,7 +363,7 @@ Khi họ nói vậy, Tôn giả Gavampati nói với các vị trưởng lão *T
 <!--pg-->
 ## Chương Trong Rừng Sīsapā
 
-### N 56.31 Trong Rừng Sīsapā *Kinh Sīsapāvana*
+### SN 56.31 Trong Rừng Sīsapā *Kinh Sīsapāvana*
 
 Một thời, Đức Phật đang ở gần Kosambī trong một khu rừng sīsapā. Rồi Đức Phật nhặt một vài chiếc lá sīsapā trong tay và nói với các *Tỷ kheo*: "Các vị nghĩ sao, này các *Tỷ kheo*? Cái nào nhiều hơn: vài chiếc lá trong tay ta, hay những chiếc lá trong khu rừng trên đầu ta?"
 
@@ -378,7 +378,7 @@ Và tại sao ta đã giải thích điều này? Bởi vì nó có lợi ích v
 Vì vậy, các vị nên thực hành thiền định ..."
 
 <!--pg-->
-### N 56.32 Lá Keo *Kinh Khadirapatta*
+### SN 56.32 Lá Keo *Kinh Khadirapatta*
 
 "Này các *Tỷ kheo*, giả sử có người nói: 'Không cần *biết như thật* về các sự thật cao quý về *khổ*, nguồn gốc của nó, sự chấm dứt của nó, và con đường, tôi sẽ chấm dứt hoàn toàn *khổ*.' Điều đó là không thể.
 
@@ -391,14 +391,14 @@ Nó giống như có người nói: 'Tôi sẽ làm một cái giỏ bằng lá 
 Vì vậy, các vị nên thực hành thiền định ..."
 
 <!--pg-->
-### N 56.33 Cây Gậy *Kinh Daṇḍa*
+### SN 56.33 Cây Gậy *Kinh Daṇḍa*
 
 "Này các *Tỷ kheo*, giả sử một cây gậy được ném lên không trung. Đôi khi nó sẽ rơi xuống bằng gốc và đôi khi bằng ngọn. Cũng vậy đối với các *chúng sinh* (sentient beings / sattā / các loài hữu tình, những sinh vật có cảm giác và ý thức) lang thang và luân hồi, bị che lấp bởi *vô minh* và bị trói buộc bởi *sự khao khát*. Đôi khi họ đi từ thế giới này sang thế giới khác, và đôi khi họ đến từ thế giới khác đến thế giới này. Tại sao vậy? Đó là vì họ chưa thấy được *bốn sự thật cao quý*. Bốn điều đó là gì? Các sự thật cao quý về *khổ*, nguồn gốc của nó, sự chấm dứt của nó, và con đường.
 
 Vì vậy, các vị nên thực hành thiền định ..."
 
 <!--pg-->
-### N 56.34 Quần Áo *Kinh Cela*
+### SN 56.34 Quần Áo *Kinh Cela*
 
 "Này các *Tỷ kheo*, nếu quần áo hoặc đầu của các vị đang cháy, các vị sẽ làm gì?"
 
@@ -409,7 +409,7 @@ Vì vậy, các vị nên thực hành thiền định ..."
 Vì vậy, các vị nên thực hành thiền định ..."
 
 <!--pg-->
-### N 56.35 Một Trăm Ngọn Giáo *Kinh Sattisata*
+### SN 56.35 Một Trăm Ngọn Giáo *Kinh Sattisata*
 
 "Này các *Tỷ kheo*, giả sử có một người có tuổi thọ một trăm năm. Và có người có thể nói với anh ta: 'Này anh bạn tốt, họ sẽ đâm anh bằng một trăm ngọn giáo vào buổi sáng, vào giữa trưa, và vào cuối buổi chiều. Và anh sẽ sống một trăm năm bị đâm bằng ba trăm ngọn giáo mỗi ngày. Nhưng khi một trăm năm trôi qua, anh sẽ lần đầu tiên thấu hiểu *bốn sự thật cao quý*.'
 
@@ -420,7 +420,7 @@ Tại sao vậy? Luân hồi không có khởi đầu được biết đến. Kh
 Vì vậy, các vị nên thực hành thiền định ..."
 
 <!--pg-->
-### N 56.36 Sinh Vật *Kinh Pāṇa*
+### SN 56.36 Sinh Vật *Kinh Pāṇa*
 
 "Giả sử một người lột hết cỏ, cành cây, nhánh cây, và lá cây ở Vùng Đất Cây Mận Đen, gom chúng lại thành một đống, và làm thành những cây cọc. Rồi họ sẽ xiên những sinh vật lớn trong đại dương vào những cây cọc lớn; những sinh vật cỡ trung vào những cây cọc cỡ trung; và những sinh vật nhỏ vào những cây cọc nhỏ. Họ sẽ không hết sinh vật lớn trong đại dương trước khi dùng hết cỏ, cành cây, nhánh cây, và lá cây ở Vùng Đất Cây Mận Đen. Có nhiều sinh vật nhỏ hơn thế này rất nhiều trong đại dương, nên sẽ không khả thi để xiên chúng vào cọc. Tại sao vậy? Vì kích thước nhỏ bé của những dạng sống đó. *Cõi khổ* (plane of loss / apāya / các cõi tái sinh đau khổ như địa ngục, ngạ quỷ, súc sinh) lớn đến như vậy.
 
@@ -429,7 +429,7 @@ Một người thành tựu về tầm nhìn, thoát khỏi *cõi khổ* rộng 
 Vì vậy, các vị nên thực hành thiền định ..."
 
 <!--pg-->
-### N 56.37 Ví Dụ Về Mặt Trời (Thứ Nhất) *Kinh Paṭhamasūriya*
+### SN 56.37 Ví Dụ Về Mặt Trời (Thứ Nhất) *Kinh Paṭhamasūriya*
 
 "Này các *Tỷ kheo*, bình minh là điềm báo và tiền thân của mặt trời mọc.
 
@@ -438,7 +438,7 @@ Cũng vậy, *cái nhìn thiện (chánh kiến)* là điềm báo và tiền th
 Vì vậy, các vị nên thực hành thiền định ..."
 
 <!--pg-->
-### N 56.38 Ví Dụ Về Mặt Trời (Thứ Hai) *Kinh Dutiyasūriya*
+### SN 56.38 Ví Dụ Về Mặt Trời (Thứ Hai) *Kinh Dutiyasūriya*
 
 "Này các *Tỷ kheo*, chừng nào mặt trăng và mặt trời chưa xuất hiện trên thế gian, thì không có ánh sáng lớn hay hào quang lớn nào xuất hiện. Khi đó bóng tối bao trùm, bóng tối hoàn toàn. Ngày và đêm không được tìm thấy, cũng không có tháng và nửa tháng, cũng không có mùa và năm.
 
@@ -451,7 +451,7 @@ Nhưng khi *Như Lai* xuất hiện trên thế gian, một ánh sáng lớn, m�
 Vì vậy, các vị nên thực hành thiền định ..."
 
 <!--pg-->
-### N 56.39 Cột Mốc Ranh Giới *Kinh Indakhīla*
+### SN 56.39 Cột Mốc Ranh Giới *Kinh Indakhīla*
 
 "Này các *Tỷ kheo*, có những sa môn và bà la môn không *biết như thật* về *khổ*, nguồn gốc của nó, sự chấm dứt của nó, và con đường. Họ ngước nhìn mặt của một sa môn hay bà la môn khác, nghĩ rằng: 'Chắc chắn vị đáng kính này biết và thấy.'
 
@@ -468,7 +468,7 @@ Cũng vậy, có những sa môn và bà la môn *biết như thật* về *kh�
 Vì vậy, các vị nên thực hành thiền định ..."
 
 <!--pg-->
-### N 56.40 Tìm Kiếm Tranh Luận *Kinh Vādatthika*
+### SN 56.40 Tìm Kiếm Tranh Luận *Kinh Vādatthika*
 
 "Này các *Tỷ kheo*, hãy xem bất kỳ *Tỷ kheo* nào *biết như thật*: 'Đây là *khổ*' ... 'Đây là nguồn gốc của *khổ*' ... 'Đây là sự chấm dứt *khổ*' ... 'Đây là con đường thực hành dẫn đến sự chấm dứt *khổ*'. Một sa môn hay bà la môn có thể đến từ phía đông, tây, bắc, hay nam muốn tranh luận, tìm kiếm một cuộc tranh luận, nghĩ rằng: 'Ta sẽ bác bỏ học thuyết của họ!' Đơn giản là không thể để họ làm cho vị *Tỷ kheo* đó rung chuyển, lay động hay run rẩy một cách chính đáng.
 
@@ -481,7 +481,7 @@ Vì vậy, các vị nên thực hành thiền định ..."
 <!--pg-->
 ## Chương Về Vách Đá
 
-### N 56.41 Suy Đoán Về Thế Giới *Kinh Lokacintā*
+### SN 56.41 Suy Đoán Về Thế Giới *Kinh Lokacintā*
 
 Một thời, Đức Phật đang ở gần Rājagaha, trong Trúc Lâm, nơi nuôi sóc. Tại đó, Đức Phật nói với các *Tỷ kheo*:
 
@@ -504,7 +504,7 @@ Khi các vị suy tưởng điều gì, hãy suy tưởng rằng: 'Đây là *kh
 Vì vậy, các vị nên thực hành thiền định ..."
 
 <!--pg-->
-### N 56.42 Vách Đá *Kinh Papāta*
+### SN 56.42 Vách Đá *Kinh Papāta*
 
 Một thời, Đức Phật đang ở gần Rājagaha, trên núi Linh Thứu.
 
@@ -525,7 +525,7 @@ Có những sa môn và bà la môn *biết như thật* về *khổ*, nguồn g
 Vì vậy, các vị nên thực hành thiền định ..."
 
 <!--pg-->
-### N 56.43 Cơn Sốt Dữ Dội *Kinh Mahāpariḷāha*
+### SN 56.43 Cơn Sốt Dữ Dội *Kinh Mahāpariḷāha*
 
 "Này các *Tỷ kheo*, có một địa ngục gọi là 'Cơn Sốt Dữ Dội'. Ở đó, bất cứ cảnh tượng nào các vị thấy bằng mắt đều không thể ưa thích, không phải là đáng ưa thích; không đáng mong muốn, không phải là đáng mong muốn; khó chịu, không phải là dễ chịu. Bất cứ âm thanh nào các vị nghe ... Bất cứ mùi nào các vị ngửi ... Bất cứ vị nào các vị nếm ... Bất cứ cảm giác nào các vị cảm nhận ... Bất cứ ý nghĩ nào các vị biết bằng *tâm* của mình đều không thể ưa thích, không phải là đáng ưa thích; không đáng mong muốn, không phải là đáng mong muốn; khó chịu, không phải là dễ chịu."
 
@@ -542,7 +542,7 @@ Có những sa môn và bà la môn *biết như thật* về *khổ*, nguồn g
 Vì vậy, các vị nên thực hành thiền định ..."
 
 <!--pg-->
-### N 56.44 Ngôi Nhà Gỗ *Kinh Kūṭāgāra*
+### SN 56.44 Ngôi Nhà Gỗ *Kinh Kūṭāgāra*
 
 "Này các *Tỷ kheo*, giả sử có người nói: 'Không cần *biết như thật* về các sự thật cao quý về *khổ*, nguồn gốc của nó, sự chấm dứt của nó, và con đường, tôi sẽ chấm dứt hoàn toàn *khổ*.' Điều đó là không thể.
 
@@ -555,7 +555,7 @@ Nó giống như có người nói: 'Sau khi tầng dưới của một ngôi nh
 Vì vậy, các vị nên thực hành thiền định ..."
 
 <!--pg-->
-### N 56.45 Chẻ Sợi Lông Ngựa *Kinh Vāla*
+### SN 56.45 Chẻ Sợi Lông Ngựa *Kinh Vāla*
 
 Một thời, Đức Phật đang ở gần Vesālī, tại Đại Lâm, trong giảng đường có mái nhọn.
 
@@ -574,7 +574,7 @@ Rồi Ānanda đi khất thực ở Vesālī. Sau bữa ăn, khi trở về từ
 Vì vậy, các vị nên thực hành thiền định ..."
 
 <!--pg-->
-### N 56.46 Bóng Tối *Kinh Andhakāra*
+### SN 56.46 Bóng Tối *Kinh Andhakāra*
 
 "Này các *Tỷ kheo*, khoảng không vô tận của không gian giữa các vì sao tối tăm đến mức ngay cả ánh sáng của mặt trăng và mặt trời, vốn rất mạnh mẽ và quyền năng, cũng không tạo ra ấn tượng gì."
 
@@ -591,7 +591,7 @@ Có những sa môn và bà la môn *biết như thật* về *khổ*, nguồn g
 Vì vậy, các vị nên thực hành thiền định ..."
 
 <!--pg-->
-### N 56.47 Cái Ách Có Lỗ (Thứ Nhất) *Kinh Paṭhamachiggaḷayuga*
+### SN 56.47 Cái Ách Có Lỗ (Thứ Nhất) *Kinh Paṭhamachiggaḷayuga*
 
 "Này các *Tỷ kheo*, giả sử một người ném một cái ách có một lỗ duy nhất xuống đại dương. Và có một con rùa một mắt cứ một trăm năm mới nổi lên một lần.
 
@@ -606,7 +606,7 @@ Tại sao vậy? Bởi vì ở nơi đó không có hành vi có nguyên tắc h
 Vì vậy, các vị nên thực hành thiền định ..."
 
 <!--pg-->
-### N 56.48 Cái Ách Có Lỗ (Thứ Hai) *Kinh Dutiyachiggaḷayuga*
+### SN 56.48 Cái Ách Có Lỗ (Thứ Hai) *Kinh Dutiyachiggaḷayuga*
 
 "Này các *Tỷ kheo*, giả sử trái đất hoàn toàn bị bao phủ bởi nước. Và một người ném một cái ách có một lỗ duy nhất vào đó. Gió đông thổi nó về phía tây; gió tây thổi nó về phía đông; gió bắc thổi nó về phía nam; và gió nam thổi nó về phía bắc. Và có một con rùa một mắt cứ một trăm năm mới nổi lên một lần.
 
@@ -619,7 +619,7 @@ Các vị nghĩ sao, này các *Tỷ kheo*? Liệu con rùa một mắt đó, c�
 Vì vậy, các vị nên thực hành thiền định ..."
 
 <!--pg-->
-### N 56.49 Sineru, Vua Của Các Ngọn Núi (Thứ Nhất) *Kinh Paṭhamasinerupabbatarāja*
+### SN 56.49 Sineru, Vua Của Các Ngọn Núi (Thứ Nhất) *Kinh Paṭhamasinerupabbatarāja*
 
 "Này các *Tỷ kheo*, giả sử một người đặt bảy viên sỏi cỡ hạt đậu xanh lên núi Sineru, vua của các ngọn núi.
 
@@ -632,7 +632,7 @@ Các vị nghĩ sao, này các *Tỷ kheo*? Cái nào nhiều hơn: bảy viên 
 Vì vậy, các vị nên thực hành thiền định ..."
 
 <!--pg-->
-### N 56.50 Sineru, Vua Của Các Ngọn Núi (Thứ Hai) *Kinh Dutiyasinerupabbatarāja*
+### SN 56.50 Sineru, Vua Của Các Ngọn Núi (Thứ Hai) *Kinh Dutiyasinerupabbatarāja*
 
 "Này các *Tỷ kheo*, giả sử núi Sineru, vua của các ngọn núi, bị bào mòn và xói mòn chỉ còn lại bảy viên sỏi cỡ hạt cải.
 
@@ -647,7 +647,7 @@ Vì vậy, các vị nên thực hành thiền định ..."
 <!--pg-->
 ## Chương Về Sự Thấu Hiểu
 
-### N 56.51 Móng Tay *Kinh Nakhasikhā*
+### SN 56.51 Móng Tay *Kinh Nakhasikhā*
 
 Rồi Đức Phật, nhặt một chút đất dưới móng tay, nói với các *Tỷ kheo*: "Các vị nghĩ sao, này các *Tỷ kheo*? Cái nào nhiều hơn: chút đất dưới móng tay ta, hay trái đất vĩ đại này?"
 
@@ -658,7 +658,7 @@ Rồi Đức Phật, nhặt một chút đất dưới móng tay, nói với cá
 Vì vậy, các vị nên thực hành thiền định ..."
 
 <!--pg-->
-### N 56.52 Hồ Sen *Kinh Pokkharaṇī*
+### SN 56.52 Hồ Sen *Kinh Pokkharaṇī*
 
 "Này các *Tỷ kheo*, giả sử có một hồ sen dài năm mươi do tuần, rộng năm mươi do tuần, và sâu năm mươi do tuần, đầy nước đến mức một con quạ có thể uống được. Rồi một người sẽ lấy một ít nước trên đầu ngọn cỏ.
 
@@ -671,7 +671,7 @@ Các vị nghĩ sao, này các *Tỷ kheo*? Cái nào nhiều hơn: nước trê
 Vì vậy, các vị nên thực hành thiền định ..."
 
 <!--pg-->
-### N 56.53 Nơi Các Dòng Nước Hợp Lại (Thứ Nhất) *Kinh Paṭhamasambhejja*
+### SN 56.53 Nơi Các Dòng Nước Hợp Lại (Thứ Nhất) *Kinh Paṭhamasambhejja*
 
 "Này các *Tỷ kheo*, có những nơi mà các con sông lớn—sông Hằng, Yamuna, Aciravatī, Sarabhū, và Mahī—hợp lại và hội tụ. Giả sử một người múc hai hoặc ba giọt nước từ nơi đó.
 
@@ -684,7 +684,7 @@ Các vị nghĩ sao, này các *Tỷ kheo*? Cái nào nhiều hơn: hai hoặc b
 Vì vậy, các vị nên thực hành thiền định ..."
 
 <!--pg-->
-### N 56.54 Nơi Các Dòng Nước Hợp Lại (Thứ Hai) *Kinh Dutiyasambhejja*
+### SN 56.54 Nơi Các Dòng Nước Hợp Lại (Thứ Hai) *Kinh Dutiyasambhejja*
 
 "Này các *Tỷ kheo*, có những nơi mà các con sông lớn—sông Hằng, Yamuna, Aciravatī, Sarabhū, và Mahī—hợp lại và hội tụ. Giả sử nước đó cạn đi và bốc hơi chỉ còn lại hai hoặc ba giọt.
 
@@ -697,7 +697,7 @@ Các vị nghĩ sao, này các *Tỷ kheo*? Cái nào nhiều hơn: nước ở 
 Vì vậy, các vị nên thực hành thiền định ..."
 
 <!--pg-->
-### N 56.55 Trái Đất (Thứ Nhất) *Kinh Paṭhamamahāpathavī*
+### SN 56.55 Trái Đất (Thứ Nhất) *Kinh Paṭhamamahāpathavī*
 
 "Này các *Tỷ kheo*, giả sử một người đặt bảy viên đất sét cỡ hạt táo tàu lên trái đất vĩ đại.
 
@@ -710,7 +710,7 @@ Các vị nghĩ sao, này các *Tỷ kheo*? Cái nào nhiều hơn: bảy viên 
 Vì vậy, các vị nên thực hành thiền định ..."
 
 <!--pg-->
-### N 56.56 Trái Đất (Thứ Hai) *Kinh Dutiyamahāpathavī*
+### SN 56.56 Trái Đất (Thứ Hai) *Kinh Dutiyamahāpathavī*
 
 "Này các *Tỷ kheo*, giả sử trái đất vĩ đại bị bào mòn và xói mòn chỉ còn lại bảy viên đất sét cỡ hạt táo tàu.
 
@@ -723,7 +723,7 @@ Các vị nghĩ sao, này các *Tỷ kheo*? Cái nào nhiều hơn: trái đất
 Vì vậy, các vị nên thực hành thiền định ..."
 
 <!--pg-->
-### N 56.57 Đại Dương (Thứ Nhất) *Kinh Paṭhamamahāsamudda*
+### SN 56.57 Đại Dương (Thứ Nhất) *Kinh Paṭhamamahāsamudda*
 
 "Này các *Tỷ kheo*, giả sử một người múc hai hoặc ba giọt nước từ đại dương.
 
@@ -736,7 +736,7 @@ Các vị nghĩ sao, này các *Tỷ kheo*? Cái nào nhiều hơn: hai hoặc b
 Vì vậy, các vị nên thực hành thiền định ..."
 
 <!--pg-->
-### N 56.58 Đại Dương (Thứ Hai) *Kinh Dutiyamahāsamudda*
+### SN 56.58 Đại Dương (Thứ Hai) *Kinh Dutiyamahāsamudda*
 
 "Này các *Tỷ kheo*, giả sử nước trong đại dương cạn đi và bốc hơi chỉ còn lại hai hoặc ba giọt.
 
@@ -749,7 +749,7 @@ Các vị nghĩ sao, này các *Tỷ kheo*? Cái nào nhiều hơn: nước tron
 Vì vậy, các vị nên thực hành thiền định ..."
 
 <!--pg-->
-### N 56.59 Ngọn Núi (Thứ Nhất) *Kinh Paṭhamapabbatūpama*
+### SN 56.59 Ngọn Núi (Thứ Nhất) *Kinh Paṭhamapabbatūpama*
 
 "Này các *Tỷ kheo*, giả sử một người đặt bảy viên sỏi cỡ hạt cải lên dãy Himalaya, vua của các ngọn núi.
 
@@ -762,7 +762,7 @@ Các vị nghĩ sao, này các *Tỷ kheo*? Cái nào nhiều hơn: bảy viên 
 Vì vậy, các vị nên thực hành thiền định ..."
 
 <!--pg-->
-### N 56.60 Ngọn Núi (Thứ Hai) *Kinh Dutiyapabbatūpama*
+### SN 56.60 Ngọn Núi (Thứ Hai) *Kinh Dutiyapabbatūpama*
 
 "Này các *Tỷ kheo*, giả sử dãy Himalaya, vua của các ngọn núi, bị bào mòn và xói mòn chỉ còn lại bảy viên sỏi cỡ hạt cải.
 
@@ -777,7 +777,7 @@ Vì vậy, các vị nên thực hành thiền định ..."
 <!--pg-->
 ## Chương Đầu Tiên Của Các Bài Kinh Tóm Tắt Về Ngũ Cốc Sống
 
-### N 56.61 Không Phải Người *Kinh Aññatra*
+### SN 56.61 Không Phải Người *Kinh Aññatra*
 
 Rồi Đức Phật, nhặt một chút đất dưới móng tay, nói với các *Tỷ kheo*: "Các vị nghĩ sao, này các *Tỷ kheo*? Cái nào nhiều hơn: chút đất dưới móng tay ta, hay trái đất vĩ đại này?"
 
@@ -788,7 +788,7 @@ Rồi Đức Phật, nhặt một chút đất dưới móng tay, nói với cá
 Vì vậy, các vị nên thực hành thiền định ..."
 
 <!--pg-->
-### N 56.62 Ở Vùng Biên Địa *Kinh Paccanta*
+### SN 56.62 Ở Vùng Biên Địa *Kinh Paccanta*
 
 Rồi Đức Phật, nhặt một chút đất dưới móng tay, nói với các *Tỷ kheo*: "Các vị nghĩ sao, này các *Tỷ kheo*? Cái nào nhiều hơn: chút đất dưới móng tay ta, hay trái đất vĩ đại này?"
 
@@ -797,178 +797,178 @@ Rồi Đức Phật, nhặt một chút đất dưới móng tay, nói với cá
 "Cũng vậy, số *chúng sinh* được tái sinh ở các nước trung tâm thì ít, trong khi số được tái sinh ở vùng biên địa, giữa những người ngoại quốc vô học, thì nhiều. ..."
 
 <!--pg-->
-### N 56.63 Trí Tuệ *Kinh Paññā*
+### SN 56.63 Trí Tuệ *Kinh Paññā*
 
 "... số *chúng sinh* có con mắt trí tuệ cao quý thì ít, trong khi số người *vô minh* và mê lầm thì nhiều. ..."
 
 <!--pg-->
-### N 56.64 Rượu Bia *Kinh Surāmeraya*
+### SN 56.64 Rượu Bia *Kinh Surāmeraya*
 
 "... số *chúng sinh* kiêng cữ rượu bia và các chất gây say thì ít, trong khi số người không kiêng cữ thì nhiều. ..."
 
 <!--pg-->
-### N 56.65 Sinh Ra Trong Nước *Kinh Odaka*
+### SN 56.65 Sinh Ra Trong Nước *Kinh Odaka*
 
 "... số *chúng sinh* sinh ra trên cạn thì ít, trong khi số sinh ra trong nước thì nhiều. ..."
 
 <!--pg-->
-### N 56.66 Kính Trọng Mẹ *Kinh Matteyya*
+### SN 56.66 Kính Trọng Mẹ *Kinh Matteyya*
 
 "... số *chúng sinh* kính trọng mẹ thì ít, trong khi số không kính trọng thì nhiều. ..."
 
 <!--pg-->
-### N 56.67 Kính Trọng Cha *Kinh Petteyya*
+### SN 56.67 Kính Trọng Cha *Kinh Petteyya*
 
 "... số *chúng sinh* kính trọng cha thì ít, trong khi số không kính trọng thì nhiều. ..."
 
 <!--pg-->
-### N 56.68 Kính Trọng Sa Môn *Kinh Sāmañña*
+### SN 56.68 Kính Trọng Sa Môn *Kinh Sāmañña*
 
 "... số *chúng sinh* kính trọng sa môn thì ít, trong khi số không kính trọng thì nhiều. ..."
 
 <!--pg-->
-### N 56.69 Kính Trọng Bà La Môn *Kinh Brahmañña*
+### SN 56.69 Kính Trọng Bà La Môn *Kinh Brahmañña*
 
 "... số *chúng sinh* kính trọng bà la môn thì ít, trong khi số không kính trọng thì nhiều. ..."
 
 <!--pg-->
-### N 56.70 Tôn Kính Trưởng Lão *Kinh Pacāyika*
+### SN 56.70 Tôn Kính Trưởng Lão *Kinh Pacāyika*
 
 "... số *chúng sinh* tôn kính các trưởng lão trong gia đình thì ít, trong khi số không tôn kính thì nhiều. ..."
 
 <!--pg-->
 ## Chương Thứ Hai Của Các Bài Kinh Tóm Tắt Về Ngũ Cốc Sống
 
-### N 56.71 Sát Sinh *Kinh Pāṇātipāta*
+### SN 56.71 Sát Sinh *Kinh Pāṇātipāta*
 
 "... số *chúng sinh* kiêng cữ sát sinh thì ít, trong khi số không kiêng cữ thì nhiều. ..."
 
 <!--pg-->
-### N 56.72 Trộm Cắp *Kinh Adinnādāna*
+### SN 56.72 Trộm Cắp *Kinh Adinnādāna*
 
 "... số *chúng sinh* kiêng cữ trộm cắp thì ít, trong khi số không kiêng cữ thì nhiều. ..."
 
 <!--pg-->
-### N 56.73 Tà Dâm *Kinh Kāmesumicchācāra*
+### SN 56.73 Tà Dâm *Kinh Kāmesumicchācāra*
 
 "... số *chúng sinh* kiêng cữ tà dâm thì ít, trong khi số không kiêng cữ thì nhiều. ..."
 
 <!--pg-->
-### N 56.74 Nói Dối *Kinh Musāvāda*
+### SN 56.74 Nói Dối *Kinh Musāvāda*
 
 "... số *chúng sinh* kiêng cữ nói dối thì ít, trong khi số không kiêng cữ thì nhiều. ..."
 
 <!--pg-->
-### N 56.75 Nói Lời Chia Rẽ *Kinh Pesuñña*
+### SN 56.75 Nói Lời Chia Rẽ *Kinh Pesuñña*
 
 "... số *chúng sinh* kiêng cữ nói lời chia rẽ thì ít, trong khi số không kiêng cữ thì nhiều. ..."
 
 <!--pg-->
-### N 56.76 Nói Lời Thô Tục *Kinh Pharusavācā*
+### SN 56.76 Nói Lời Thô Tục *Kinh Pharusavācā*
 
 "... số *chúng sinh* kiêng cữ nói lời thô tục thì ít, trong khi số không kiêng cữ thì nhiều. ..."
 
 <!--pg-->
-### N 56.77 Nói Nhảm *Kinh Samphappalāpa*
+### SN 56.77 Nói Nhảm *Kinh Samphappalāpa*
 
 "... số *chúng sinh* kiêng cữ nói nhảm thì ít, trong khi số không kiêng cữ thì nhiều. ..."
 
 <!--pg-->
-### N 56.78 Cây Cối *Kinh Bījagāma*
+### SN 56.78 Cây Cối *Kinh Bījagāma*
 
 "... số *chúng sinh* kiêng cữ làm hại cây cối và hạt giống thì ít, trong khi số không kiêng cữ thì nhiều. ..."
 
 <!--pg-->
-### N 56.79 Ăn Sai Giờ *Kinh Vikālabhojana*
+### SN 56.79 Ăn Sai Giờ *Kinh Vikālabhojana*
 
 "... số *chúng sinh* kiêng cữ ăn sai giờ thì ít, trong khi số không kiêng cữ thì nhiều. ..."
 
 <!--pg-->
-### N 56.80 Nước Hoa và Trang Điểm *Kinh Gandhavilepana*
+### SN 56.80 Nước Hoa và Trang Điểm *Kinh Gandhavilepana*
 
 "... số *chúng sinh* kiêng cữ làm đẹp và trang điểm bằng vòng hoa, nước hoa, và mỹ phẩm thì ít, trong khi số không kiêng cữ thì nhiều ..."
 
 <!--pg-->
 ## Chương Thứ Ba Của Các Bài Kinh Tóm Tắt Về Ngũ Cốc Sống
 
-### N 56.81 Ca Múa *Kinh Naccagīta*
+### SN 56.81 Ca Múa *Kinh Naccagīta*
 
 .... "... số *chúng sinh* kiêng cữ xem các buổi biểu diễn ca múa nhạc thì ít, trong khi số không kiêng cữ thì nhiều ..."
 
 <!--pg-->
-### N 56.82 Giường Cao *Kinh Uccāsayana*
+### SN 56.82 Giường Cao *Kinh Uccāsayana*
 
 "... số *chúng sinh* kiêng cữ giường cao và sang trọng thì ít, trong khi số không kiêng cữ thì nhiều. ..."
 
 <!--pg-->
-### N 56.83 Vàng và Tiền Tệ *Kinh Jātarūparajata*
+### SN 56.83 Vàng và Tiền Tệ *Kinh Jātarūparajata*
 
 "... số *chúng sinh* kiêng cữ nhận vàng và tiền tệ thì ít, trong khi số không kiêng cữ thì nhiều. ..."
 
 <!--pg-->
-### N 56.84 Ngũ Cốc Sống *Kinh Āmakadhañña*
+### SN 56.84 Ngũ Cốc Sống *Kinh Āmakadhañña*
 
 "... số *chúng sinh* kiêng cữ nhận ngũ cốc sống thì ít, trong khi số không kiêng cữ thì nhiều. ..."
 
 <!--pg-->
-### N 56.85 Thịt Sống *Kinh Āmakamaṁsa*
+### SN 56.85 Thịt Sống *Kinh Āmakamaṁsa*
 
 "... số *chúng sinh* kiêng cữ nhận thịt sống thì ít, trong khi số không kiêng cữ thì nhiều. ..."
 
 <!--pg-->
-### N 56.86 Phụ Nữ và Thiếu Nữ *Kinh Kumārika*
+### SN 56.86 Phụ Nữ và Thiếu Nữ *Kinh Kumārika*
 
 "... số *chúng sinh* kiêng cữ nhận phụ nữ và thiếu nữ thì ít, trong khi số không kiêng cữ thì nhiều. ..."
 
 <!--pg-->
-### N 56.87 Nô Lệ *Kinh Dāsidāsa*
+### SN 56.87 Nô Lệ *Kinh Dāsidāsa*
 
 "... số *chúng sinh* kiêng cữ nhận nô lệ nam và nữ thì ít, trong khi số không kiêng cữ thì nhiều. ..."
 
 <!--pg-->
-### N 56.88 Dê và Cừu *Kinh Ajeḷaka*
+### SN 56.88 Dê và Cừu *Kinh Ajeḷaka*
 
 "... số *chúng sinh* kiêng cữ nhận dê và cừu thì ít, trong khi số không kiêng cữ thì nhiều. ..."
 
 <!--pg-->
-### N 56.89 Gà và Lợn *Kinh Kukkuṭasūkara*
+### SN 56.89 Gà và Lợn *Kinh Kukkuṭasūkara*
 
 "... số *chúng sinh* kiêng cữ nhận gà và lợn thì ít, trong khi số không kiêng cữ thì nhiều. ..."
 
 <!--pg-->
-### N 56.90 Voi và Bò *Kinh Hatthigavassa*
+### SN 56.90 Voi và Bò *Kinh Hatthigavassa*
 
 "... số *chúng sinh* kiêng cữ nhận voi, bò, ngựa đực, và ngựa cái thì ít, trong khi số không kiêng cữ thì nhiều. ..."
 
 <!--pg-->
 ## Chương Thứ Tư Của Các Bài Kinh Tóm Tắt Về Ngũ Cốc Sống
 
-### N 56.91 Ruộng Đất *Kinh Khettavatthu*
+### SN 56.91 Ruộng Đất *Kinh Khettavatthu*
 
 "... số *chúng sinh* kiêng cữ nhận ruộng đất thì ít, trong khi số không kiêng cữ thì nhiều. ..."
 
 <!--pg-->
-### N 56.92 Mua Bán *Kinh Kayavikkaya*
+### SN 56.92 Mua Bán *Kinh Kayavikkaya*
 
 "... số *chúng sinh* kiêng cữ mua bán thì ít, trong khi số không kiêng cữ thì nhiều. ..."
 
 <!--pg-->
-### N 56.93 Việc Vặt *Kinh Dūteyya*
+### SN 56.93 Việc Vặt *Kinh Dūteyya*
 
 "... số *chúng sinh* kiêng cữ chạy việc vặt và đưa tin thì ít, trong khi số không kiêng cữ thì nhiều. ..."
 
 <!--pg-->
-### N 56.94 Cân Gian *Kinh Tulākūṭa*
+### SN 56.94 Cân Gian *Kinh Tulākūṭa*
 
 "... số *chúng sinh* kiêng cữ gian lận cân, kim loại, hoặc đo lường thì ít, trong khi số không kiêng cữ thì nhiều. ..."
 
 <!--pg-->
-### N 56.95 Hối Lộ *Kinh Ukkoṭana*
+### SN 56.95 Hối Lộ *Kinh Ukkoṭana*
 
 "... số *chúng sinh* kiêng cữ hối lộ, gian lận, lừa đảo, và hai mặt thì ít, trong khi số không kiêng cữ thì nhiều. ..."
 
 <!--pg-->
-### N 56.96--101 Cắt Xén, V.v. *Kinh Chedanādi*
+### SN 56.96--101 Cắt Xén, V.v. *Kinh Chedanādi*
 
 "... số *chúng sinh* kiêng cữ cắt xén, giết người, bắt cóc, cướp bóc, cướp phá, và bạo lực thì ít, trong khi số không kiêng cữ thì nhiều. Tại sao vậy? Đó là vì họ chưa thấy được *bốn sự thật cao quý*. Bốn điều đó là gì? Các sự thật cao quý về *khổ*, nguồn gốc của nó, sự chấm dứt của nó, và con đường.
 
@@ -977,69 +977,69 @@ Vì vậy, các vị nên thực hành thiền định ..."
 <!--pg-->
 ## Chương Tóm Tắt Về Năm Cõi
 
-### N 56.102 Chết Làm Người và Tái Sinh Vào Địa Ngục *Kinh Manussacutiniraya*
+### SN 56.102 Chết Làm Người và Tái Sinh Vào Địa Ngục *Kinh Manussacutiniraya*
 
 "... số *chúng sinh* chết làm người và được tái sinh làm người thì ít, trong khi số chết làm người và được tái sinh vào địa ngục thì nhiều ..."
 
 <!--pg-->
-### N 56.103 Chết Làm Người và Tái Sinh Làm Súc Sinh *Kinh Manussacutitiracchāna*
+### SN 56.103 Chết Làm Người và Tái Sinh Làm Súc Sinh *Kinh Manussacutitiracchāna*
 
 "... số *chúng sinh* chết làm người và được tái sinh làm người thì ít, trong khi số chết làm người và được tái sinh vào cõi súc sinh thì nhiều ..."
 
 <!--pg-->
-### N 56.104 Chết Làm Người và Tái Sinh Làm Ngạ Quỷ *Kinh Manussacutipettivisaya*
+### SN 56.104 Chết Làm Người và Tái Sinh Làm Ngạ Quỷ *Kinh Manussacutipettivisaya*
 
 "... số *chúng sinh* chết làm người và được tái sinh làm người thì ít, trong khi số chết làm người và được tái sinh vào cõi ngạ quỷ thì nhiều ..."
 
 <!--pg-->
-### N 56.105--107 Chết Làm Người và Tái Sinh Làm Trời *Kinh Manussacutidevanirayādi*
+### SN 56.105--107 Chết Làm Người và Tái Sinh Làm Trời *Kinh Manussacutidevanirayādi*
 
 "... số *chúng sinh* chết làm người và được tái sinh làm trời thì ít, trong khi số chết làm người và được tái sinh vào địa ngục, hoặc cõi súc sinh, hoặc cõi ngạ quỷ thì nhiều."
 
 <!--pg-->
-### N 56.108--110 Chết Làm Trời và Tái Sinh Làm Trời *Kinh Devacutinirayādi*
+### SN 56.108--110 Chết Làm Trời và Tái Sinh Làm Trời *Kinh Devacutinirayādi*
 
 "... số *chúng sinh* chết làm trời và được tái sinh làm trời thì ít, trong khi số chết làm trời và được tái sinh vào địa ngục, hoặc cõi súc sinh, hoặc cõi ngạ quỷ thì nhiều."
 
 <!--pg-->
-### N 56.111--113 Chết Làm Trời và Tái Sinh Làm Người *Kinh Devamanussanirayādi*
+### SN 56.111--113 Chết Làm Trời và Tái Sinh Làm Người *Kinh Devamanussanirayādi*
 
 "... số *chúng sinh* chết làm trời và được tái sinh làm người thì ít, trong khi số chết làm trời và được tái sinh vào địa ngục, hoặc cõi súc sinh, hoặc cõi ngạ quỷ thì nhiều."
 
 <!--pg-->
-### N 56.114--116 Chết Trong Địa Ngục và Tái Sinh Làm Người *Kinh Nirayamanussanirayādi*
+### SN 56.114--116 Chết Trong Địa Ngục và Tái Sinh Làm Người *Kinh Nirayamanussanirayādi*
 
 "... số *chúng sinh* chết trong địa ngục và được tái sinh làm người thì ít, trong khi số chết trong địa ngục và được tái sinh vào địa ngục, hoặc cõi súc sinh, hoặc cõi ngạ quỷ thì nhiều."
 
 <!--pg-->
-### N 56.117--119 Chết Trong Địa Ngục và Tái Sinh Làm Trời *Kinh Nirayadevanirayādi*
+### SN 56.117--119 Chết Trong Địa Ngục và Tái Sinh Làm Trời *Kinh Nirayadevanirayādi*
 
 "... số *chúng sinh* chết trong địa ngục và được tái sinh làm trời thì ít, trong khi số chết trong địa ngục và được tái sinh vào địa ngục, hoặc cõi súc sinh, hoặc cõi ngạ quỷ thì nhiều."
 
 <!--pg-->
-### N 56.120--122 Chết Làm Súc Sinh và Tái Sinh Làm Người *Kinh Tiracchānamanussanirayādi*
+### SN 56.120--122 Chết Làm Súc Sinh và Tái Sinh Làm Người *Kinh Tiracchānamanussanirayādi*
 
 "... số *chúng sinh* chết làm súc sinh và được tái sinh làm người thì ít, trong khi số chết làm súc sinh và được tái sinh vào địa ngục, hoặc cõi súc sinh, hoặc cõi ngạ quỷ thì nhiều."
 
 <!--pg-->
-### N 56.123--125 Chết Làm Súc Sinh và Tái Sinh Làm Trời *Kinh Tiracchānadevanirayādi*
+### SN 56.123--125 Chết Làm Súc Sinh và Tái Sinh Làm Trời *Kinh Tiracchānadevanirayādi*
 
 "... số *chúng sinh* chết làm súc sinh và được tái sinh làm trời thì ít, trong khi số chết làm súc sinh và được tái sinh vào địa ngục, hoặc cõi súc sinh, hoặc cõi ngạ quỷ thì nhiều."
 
 <!--pg-->
-### N 56.126--128 Chết Làm Ngạ Quỷ và Tái Sinh Làm Người *Kinh Pettimanussanirayādi*
+### SN 56.126--128 Chết Làm Ngạ Quỷ và Tái Sinh Làm Người *Kinh Pettimanussanirayādi*
 
 "... số *chúng sinh* chết làm ngạ quỷ và được tái sinh làm người thì ít, trong khi số chết làm ngạ quỷ và được tái sinh vào địa ngục, hoặc cõi súc sinh, hoặc cõi ngạ quỷ thì nhiều."
 
 <!--pg-->
-### N 56.129--130 Chết Làm Ngạ Quỷ và Tái Sinh Làm Trời *Kinh Pettidevanirayādi*
+### SN 56.129--130 Chết Làm Ngạ Quỷ và Tái Sinh Làm Trời *Kinh Pettidevanirayādi*
 
 "... số *chúng sinh* chết làm ngạ quỷ và được tái sinh làm trời thì ít, trong khi số chết làm ngạ quỷ và được tái sinh vào địa ngục thì nhiều."
 
 "... số *chúng sinh* chết làm ngạ quỷ và được tái sinh làm trời thì ít, trong khi số chết làm ngạ quỷ và được tái sinh vào cõi súc sinh thì nhiều."
 
 <!--pg-->
-### N 56.131 Chết Làm Ngạ Quỷ và Tái Sinh Làm Ngạ Quỷ *Kinh Pettidevapettivisaya*
+### SN 56.131 Chết Làm Ngạ Quỷ và Tái Sinh Làm Ngạ Quỷ *Kinh Pettidevapettivisaya*
 
 "... số *chúng sinh* chết làm ngạ quỷ và được tái sinh làm trời thì ít, trong khi số chết làm ngạ quỷ và được tái sinh vào cõi ngạ quỷ thì nhiều. Tại sao vậy? Đó là vì họ chưa thấy được *bốn sự thật cao quý*. Bốn điều đó là gì? Các sự thật cao quý về *khổ*, nguồn gốc của *khổ*, sự chấm dứt *khổ*, và con đường thực hành dẫn đến sự chấm dứt *khổ*.
 

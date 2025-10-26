@@ -1,4 +1,4 @@
-# 102. Năm và Ba
+# MN 102. Năm và Ba
 ***(Kinh Pañcattaya)***
 
 1\. Tôi nghe như vầy. [^935] Một thời Đức Thế Tôn trú tại Sāvatthī, trong Vườn Jeta, Tu viện của Anāthapiṇḍika. Tại đó, Ngài gọi các vị tỳ kheo (monks-bhikkhus-nhà sư): "Này các Tỳ kheo." - "Bạch Thế Tôn," họ đáp lời. Đức Thế Tôn nói điều này:

@@ -1,4 +1,4 @@
-# 107. Kinh Gửi Gaṇaka Moggallāna
+# MN 107. Kinh Gửi Gaṇaka Moggallāna
 ***(Ganakamoggallāna Sutta)***
 
 [1] 1. Như vầy tôi nghe. Một thời, Đức Thế Tôn (Blessed One - Bậc Giác Ngộ được tôn kính) trú tại thành Xá-vệ (Sāvatthī), trong Đông Viên, tại Lộc Mẫu Giảng Đường. Khi ấy, Bà-la-môn (brahmin - thành viên của giai cấp tu sĩ và học giả trong xã hội Ấn Độ cổ) Gaṇaka Moggallāna đi đến chỗ Đức Thế Tôn và chào hỏi Ngài. Sau khi những lời thăm hỏi xã giao thân mật này kết thúc, ông ngồi xuống một bên và thưa với Đức Thế Tôn:

@@ -1,4 +1,4 @@
-# 42. Các vị Bà-la-môn ở Verañja
+# MN 42. Các vị Bà-la-môn ở Verañja
 ***(Kinh Verañjaka)***
 
 1\.  Như vầy tôi nghe. Một thời Đức Thế Tôn (Blessed One - bậc được tôn kính, Phật) đang trú tại Sāvatthī (Xá Vệ), trong Vườn Kỳ Đà (Jetavana) của ông Anāthapiṇḍika (Cấp Cô Độc).

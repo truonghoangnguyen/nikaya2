@@ -3,7 +3,7 @@
 <!--pg-->
 ## The Chapter on Mountains
 
-### N 46.1 The Himalaya *Himavantasutta*
+### SN 46.1 The Himalaya *Himavantasutta*
 
 At Sāvatthī.
 
@@ -40,7 +40,7 @@ factors depending on and grounded on ethics, acquiring great and
 abundant good qualities."
 
 <!--pg-->
-### N 46.2 The Body *Kāyasutta*
+### SN 46.2 The Body *Kāyasutta*
 
 At Sāvatthī.
 
@@ -136,7 +136,7 @@ factors are sustained by fuel. They depend on fuel to continue, and
 without fuel they don't continue."
 
 <!--pg-->
-### N 46.3 Ethics *Sīlasutta*
+### SN 46.3 Ethics *Sīlasutta*
 
 "Mendicants, when a mendicant is accomplished in ethics, immersion,
 knowledge, freedom, or the knowledge and vision of freedom, even the
@@ -190,7 +190,7 @@ developed and cultivated in this way these are the seven fruits and
 benefits they can expect."
 
 <!--pg-->
-### N 46.4 Clothes *Vatthasutta*
+### SN 46.4 Clothes *Vatthasutta*
 
 At one time Venerable Sāriputta was staying near
 Sāvatthī in Jeta's Grove, Anāthapiṇḍika's
@@ -231,7 +231,7 @@ understand that it remains. And if it subsides I understand the specific
 reason it subsides."
 
 <!--pg-->
-### N 46.5 A Monk *Bhikkhusutta*
+### SN 46.5 A Monk *Bhikkhusutta*
 
 At Sāvatthī.
 
@@ -254,7 +254,7 @@ be done has been done, there is nothing further for this place.'
 They're called awakening factors because they lead to awakening."
 
 <!--pg-->
-### N 46.6 Kuṇḍaliya *Kuṇḍaliyasutta*
+### SN 46.6 Kuṇḍaliya *Kuṇḍaliyasutta*
 
 At one time the Buddha was staying near Sāketa in the deer
 park at the Añjana Wood. Then the wanderer
@@ -350,7 +350,7 @@ mendicant Saṅgha. From this day forth, may the worthy
 Gotama remember me as a lay follower who has gone for refuge for life."
 
 <!--pg-->
-### N 46.7 A Bungalow *Kūṭāgārasutta*
+### SN 46.7 A Bungalow *Kūṭāgārasutta*
 
 "Mendicants, the rafters of a bungalow all slant, slope, and incline to
 the peak. In the same way, a mendicant who develops and cultivates the
@@ -365,7 +365,7 @@ how a mendicant who develops and cultivates the seven awakening factors
 slants, slopes, and inclines to extinguishment."
 
 <!--pg-->
-### N 46.8 With Upavāna *Upavānasutta*
+### SN 46.8 With Upavāna *Upavānasutta*
 
 At one time the venerables Upavāna and
 Sāriputta were staying near Kosambī, in
@@ -396,7 +396,7 @@ the seven awakening factors are well implemented so that they lead to
 living at ease."
 
 <!--pg-->
-### N 46.9 Arisen (1st) *Paṭhamauppannasutta*
+### SN 46.9 Arisen (1st) *Paṭhamauppannasutta*
 
 "Mendicants, these seven awakening factors don't arise to be developed
 and cultivated except when a Realized One, a perfected one, a fully
@@ -407,7 +407,7 @@ be developed and cultivated except when a Realized One, a perfected one,
 a fully awakened Buddha has appeared."
 
 <!--pg-->
-### N 46.10 Arisen (2nd) *Dutiyauppannasutta*
+### SN 46.10 Arisen (2nd) *Dutiyauppannasutta*
 
 "Mendicants, these seven awakening factors don't arise to be developed
 and cultivated apart from the Holy One's training. What seven? The
@@ -419,7 +419,7 @@ One's training."
 <!--pg-->
 ## The Chapter on Sick
 
-### N 46.11 Living Creatures *Pāṇasutta*
+### SN 46.11 Living Creatures *Pāṇasutta*
 
 "Mendicants, living creatures engage in the four postures: sometimes
 walking, sometimes standing, sometimes sitting, sometimes lying down.
@@ -436,7 +436,7 @@ develops and cultivates the seven awakening factors depending on and
 grounded on ethics."
 
 <!--pg-->
-### N 46.12 The Simile of the Sun (1st) *Paṭhamasūriyūpamasutta*
+### SN 46.12 The Simile of the Sun (1st) *Paṭhamasūriyūpamasutta*
 
 "Mendicants, the dawn is the forerunner and precursor of the sunrise. In
 the same way, for a mendicant good friendship is the forerunner and
@@ -452,7 +452,7 @@ away, and cessation, and ripen as letting go. That's how a mendicant
 with good friends develops and cultivates the seven awakening factors."
 
 <!--pg-->
-### N 46.13 The Simile of the Sun (2nd) *Dutiyasūriyūpamasutta*
+### SN 46.13 The Simile of the Sun (2nd) *Dutiyasūriyūpamasutta*
 
 "Mendicants, the dawn is the forerunner and precursor of the sunrise. In
 the same way, for a mendicant rational application of mind is the
@@ -469,7 +469,7 @@ how a mendicant with rational application of mind develops and
 cultivates the seven awakening factors."
 
 <!--pg-->
-### N 46.14 Sick (1st) *Paṭhamagilānasutta*
+### SN 46.14 Sick (1st) *Paṭhamagilānasutta*
 
 At one time the Buddha was staying near Rājagaha, in the
 Bamboo Grove, the squirrels' feeding ground. Now at that time Venerable
@@ -501,7 +501,7 @@ Mahākassapa approved what the Buddha said. And that's how
 he recovered from that illness.
 
 <!--pg-->
-### N 46.15 Sick (2nd) *Dutiyagilānasutta*
+### SN 46.15 Sick (2nd) *Dutiyagilānasutta*
 
 At one time the Buddha was staying near Rājagaha, in the
 Bamboo Grove, the squirrels' feeding ground. Now at that time Venerable
@@ -533,7 +533,7 @@ Mahāmoggallāna approved what the Buddha said. And that's
 how he recovered from that illness.
 
 <!--pg-->
-### N 46.16 Sick (3rd) *Tatiyagilānasutta*
+### SN 46.16 Sick (3rd) *Tatiyagilānasutta*
 
 At one time the Buddha was staying near Rājagaha, in the
 Bamboo Grove, the squirrels' feeding ground. Now at that time he was
@@ -558,7 +558,7 @@ This is what Cunda said, and the teacher approved. And that's how the
 Buddha recovered from that illness.
 
 <!--pg-->
-### N 46.17 Going to the Far Shore *Pāraṅgamasutta*
+### SN 46.17 Going to the Far Shore *Pāraṅgamasutta*
 
 "Mendicants, when these seven awakening factors are developed and
 cultivated they lead to going from the near shore to the far shore. What
@@ -595,7 +595,7 @@ going from the near shore to the far shore.
 > they are quenched in this world."
 
 <!--pg-->
-### N 46.18 Missed Out *Viraddhasutta*
+### SN 46.18 Missed Out *Viraddhasutta*
 
 "Mendicants, whoever has missed out on the seven awakening factors has
 missed out on the noble path to the complete ending of suffering.
@@ -609,7 +609,7 @@ awakening factors has undertaken the noble path to the complete ending
 of suffering."
 
 <!--pg-->
-### N 46.19 Noble *Ariyasutta*
+### SN 46.19 Noble *Ariyasutta*
 
 "Mendicants, when these seven awakening factors are developed and
 cultivated they are noble and emancipating, and bring one who practices
@@ -620,7 +620,7 @@ factors are developed and cultivated they are noble and emancipating,
 and bring one who practices them to the complete ending of suffering."
 
 <!--pg-->
-### N 46.20 Disillusionment *Nibbidāsutta*
+### SN 46.20 Disillusionment *Nibbidāsutta*
 
 "Mendicants, the seven awakening factors, when developed and cultivated,
 lead solely to disillusionment, dispassion, cessation, peace, insight,
@@ -633,7 +633,7 @@ peace, insight, awakening, and extinguishment."
 <!--pg-->
 ## The Chapter with Udāyī
 
-### N 46.21 To Awakening *Bodhāyasutta*
+### SN 46.21 To Awakening *Bodhāyasutta*
 
 Then a mendicant went up to the Buddha ... and said to him:
 
@@ -648,7 +648,7 @@ ripen as letting go. They're called awakening factors because they lead
 to awakening."
 
 <!--pg-->
-### N 46.22 A Teaching on the Awakening Factors *Bojjhaṅgadesanāsutta*
+### SN 46.22 A Teaching on the Awakening Factors *Bojjhaṅgadesanāsutta*
 
 "Mendicants, I will teach you the seven awakening factors. Listen ...
 
@@ -657,7 +657,7 @@ mindfulness, investigation of principles, energy, rapture, tranquility,
 immersion, and equanimity. These are the seven awakening factors."
 
 <!--pg-->
-### N 46.23 Grounds *Ṭhāniyasutta*
+### SN 46.23 Grounds *Ṭhāniyasutta*
 
 "Mendicants, when you frequently apply the mind to things that are
 grounds for sensual greed, sensual desire arises, and once arisen it
@@ -679,7 +679,7 @@ equanimity, the awakening factor of equanimity arises, and once arisen
 it's fully developed."
 
 <!--pg-->
-### N 46.24 Irrational Application of Mind *Ayonisomanasikārasutta*
+### SN 46.24 Irrational Application of Mind *Ayonisomanasikārasutta*
 
 "Mendicants, when you apply the mind irrationally, sensual desire, ill
 will, dullness and drowsiness, restlessness and remorse, and doubt
@@ -697,7 +697,7 @@ energy, rapture, tranquility, immersion, and equanimity arise, and once
 they've arisen, they're fully developed."
 
 <!--pg-->
-### N 46.25 Non-decline *Aparihāniyasutta*
+### SN 46.25 Non-decline *Aparihāniyasutta*
 
 "Mendicants, I will teach you seven principles that prevent decline.
 Listen ...
@@ -709,7 +709,7 @@ immersion, and equanimity. These are the seven principles that prevent
 decline."
 
 <!--pg-->
-### N 46.26 The Ending of Craving *Taṇhakkhayasutta*
+### SN 46.26 The Ending of Craving *Taṇhakkhayasutta*
 
 "Mendicants, you should develop the path and the practice that leads to
 the ending of craving. And what is the path and the practice that leads
@@ -738,7 +738,7 @@ And so, Udāyī, when craving ends, deeds end; when deeds end
 suffering ends."
 
 <!--pg-->
-### N 46.27 The Cessation of Craving *Taṇhānirodhasutta*
+### SN 46.27 The Cessation of Craving *Taṇhānirodhasutta*
 
 "Mendicants, you should develop the path and the practice that leads to
 the cessation of craving. And what is the path and the practice that
@@ -756,7 +756,7 @@ ripen as letting go. This is how the seven awakening factors are
 developed and cultivated so as to lead to the cessation of craving."
 
 <!--pg-->
-### N 46.28 Helping Penetration *Nibbedhabhāgiyasutta*
+### SN 46.28 Helping Penetration *Nibbedhabhāgiyasutta*
 
 "Mendicants, I will teach you a path that helps penetration. Listen ...
 
@@ -786,7 +786,7 @@ This is how are the seven awakening factors are developed and cultivated
 so as to lead to penetration."
 
 <!--pg-->
-### N 46.29 One Thing *Ekadhammasutta*
+### SN 46.29 One Thing *Ekadhammasutta*
 
 "Mendicants, I do not see a single thing that, when it is developed and
 cultivated like this, leads to giving up the things that are prone to
@@ -811,7 +811,7 @@ these fetters, shackles, and attachments arise. These are called the
 things that are prone to being fettered."
 
 <!--pg-->
-### N 46.30 With Udāyī *Udāyisutta*
+### SN 46.30 With Udāyī *Udāyisutta*
 
 At one time the Buddha was staying in the land of the Sumbhas, near the
 town of the Sumbhas called Sedaka. Then Venerable Udāyī
@@ -858,7 +858,7 @@ been done, there is nothing further for this place.'"
 <!--pg-->
 ## The Chapter on Hindrances
 
-### N 46.31 Skillful (1st) *Paṭhamakusalasutta*
+### SN 46.31 Skillful (1st) *Paṭhamakusalasutta*
 
 "Mendicants, whatever qualities are skillful, part of the skillful, on
 the side of the skillful, all of them are rooted in diligence and meet
@@ -874,7 +874,7 @@ away, and cessation, and ripen as letting go. That's how a diligent
 mendicant develops and cultivates the seven awakening factors."
 
 <!--pg-->
-### N 46.32 Skillful (2nd) *Dutiyakusalasutta*
+### SN 46.32 Skillful (2nd) *Dutiyakusalasutta*
 
 "Mendicants, whatever qualities are skillful, part of the skillful, on
 the side of the skillful, all of them are rooted in rational application
@@ -892,7 +892,7 @@ how a mendicant with rational application of mind develops and
 cultivates the seven awakening factors."
 
 <!--pg-->
-### N 46.33 Corruptions *Upakkilesasutta*
+### SN 46.33 Corruptions *Upakkilesasutta*
 
 "Mendicants, there are these five corruptions of native gold. When
 native gold is corrupted by these it's not pliable, workable, or
@@ -911,7 +911,7 @@ pliable, workable, or radiant. It's brittle, and not rightly immersed in
 samādhi for the ending of defilements."
 
 <!--pg-->
-### N 46.34 Not Corruptions *Anupakkilesasutta*
+### SN 46.34 Not Corruptions *Anupakkilesasutta*
 
 "Mendicants, these seven awakening factors are not obstacles,
 hindrances, or corruptions of the mind. When developed and cultivated
@@ -923,7 +923,7 @@ corruptions of the mind. When developed and cultivated they lead to the
 realization of the fruit of knowledge and freedom."
 
 <!--pg-->
-### N 46.35 Irrational Application of Mind *Yonisomanasikārasutta*
+### SN 46.35 Irrational Application of Mind *Yonisomanasikārasutta*
 
 "Mendicants, when you apply the mind irrationally, sensual desire, ill
 will, dullness and drowsiness, restlessness and remorse, and doubt
@@ -935,7 +935,7 @@ tranquility, immersion, and equanimity arise, and once they've arisen,
 they're fully developed."
 
 <!--pg-->
-### N 46.36 Growth *Buddhisutta*
+### SN 46.36 Growth *Buddhisutta*
 
 "Mendicants, when the seven awakening factors are developed and
 cultivated they lead to growth and progress. What seven? The awakening
@@ -944,7 +944,7 @@ tranquility, immersion, and equanimity. When these seven awakening
 factors are developed and cultivated they lead to growth and progress."
 
 <!--pg-->
-### N 46.37 Obstacles *Āvaraṇanīvaraṇasutta*
+### SN 46.37 Obstacles *Āvaraṇanīvaraṇasutta*
 
 "Mendicants, there are these five obstacles and hindrances, corruptions
 of the heart that weaken wisdom. What five? Sensual desire, ill will,
@@ -962,7 +962,7 @@ corruptions of the mind. When developed and cultivated they lead to the
 realization of the fruit of knowledge and freedom."
 
 <!--pg-->
-### N 46.38 Without Obstacles *Anīvaraṇasutta*
+### SN 46.38 Without Obstacles *Anīvaraṇasutta*
 
 "Mendicants, sometimes a noble disciple pays attention, applies the
 mind, concentrates wholeheartedly, and actively listens to the teaching.
@@ -982,7 +982,7 @@ actively listens to the teaching. At such a time the five hindrances are
 absent, and the seven awakening factors are fully developed."
 
 <!--pg-->
-### N 46.39 Trees *Rukkhasutta*
+### SN 46.39 Trees *Rukkhasutta*
 
 "Mendicants, there are large trees with tiny seeds and big trunks, which
 grow up and around other trees as parasites. The trees they engulf break
@@ -1012,7 +1012,7 @@ developed and cultivated they lead to the realization of the fruit of
 knowledge and freedom."
 
 <!--pg-->
-### N 46.40 Hindrances *Nīvaraṇasutta*
+### SN 46.40 Hindrances *Nīvaraṇasutta*
 
 "Mendicants, these five hindrances are destroyers of sight, vision, and
 knowledge. They block wisdom, they're on the side of distress, and they
@@ -1033,7 +1033,7 @@ lead to extinguishment."
 <!--pg-->
 ## The Chapter on the Wheel-Turning Monarch
 
-### N 46.41 Discriminations *Vidhāsutta*
+### SN 46.41 Discriminations *Vidhāsutta*
 
 At Sāvatthī.
 
@@ -1052,7 +1052,7 @@ give up the three discriminations do so by developing and cultivating
 the seven awakening factors."
 
 <!--pg-->
-### N 46.42 A Wheel-Turning Monarch *Cakkavattisutta*
+### SN 46.42 A Wheel-Turning Monarch *Cakkavattisutta*
 
 "Mendicants, when a Wheel-Turning Monarch appears seven treasures
 appear. What seven? The wheel, the elephant, the horse, the jewel, the
@@ -1067,7 +1067,7 @@ When a Realized One, a perfected one, a fully awakened Buddha appears
 these seven treasures of the awakening factors appear."
 
 <!--pg-->
-### N 46.43 About Māra *Mārasutta*
+### SN 46.43 About Māra *Mārasutta*
 
 "Mendicants, I will teach you a path for crushing Māra's
 army. Listen ...
@@ -1078,7 +1078,7 @@ energy, rapture, tranquility, immersion, and equanimity. This is the
 path for crushing Māra's army."
 
 <!--pg-->
-### N 46.44 Witless *Duppaññasutta*
+### SN 46.44 Witless *Duppaññasutta*
 
 Then a mendicant went up to the Buddha ... and asked him, "Sir, they
 speak of 'a witless idiot'. How is a witless idiot defined?"
@@ -1091,7 +1091,7 @@ witless idiot because they haven't developed and cultivated these seven
 awakening factors."
 
 <!--pg-->
-### N 46.45 Wise *Paññavantasutta*
+### SN 46.45 Wise *Paññavantasutta*
 
 "Sir they speak of a person who is 'wise and clever'. How is a person
 who is wise and clever defined?"
@@ -1103,7 +1103,7 @@ tranquility, immersion, and equanimity. They're called wise and clever
 because they've developed and cultivated these seven awakening factors."
 
 <!--pg-->
-### N 46.46 Poor *Daliddasutta*
+### SN 46.46 Poor *Daliddasutta*
 
 "Sir, they speak of someone who is 'poor'. How is a poor person
 defined?"
@@ -1115,7 +1115,7 @@ tranquility, immersion, and equanimity. They're called poor because they
 haven't developed and cultivated these seven awakening factors."
 
 <!--pg-->
-### N 46.47 Prosperous *Adaliddasutta*
+### SN 46.47 Prosperous *Adaliddasutta*
 
 "Sir, they speak of someone who is 'prosperous'. How is a prosperous
 person defined?"
@@ -1127,7 +1127,7 @@ tranquility, immersion, and equanimity. They're called prosperous
 because they've developed and cultivated these seven awakening factors."
 
 <!--pg-->
-### N 46.48 The Sun *Ādiccasutta*
+### SN 46.48 The Sun *Ādiccasutta*
 
 "Mendicants, the dawn is the forerunner and precursor of the sunrise.
 
@@ -1144,14 +1144,14 @@ away, and cessation, and ripen as letting go. That's how a mendicant
 with good friends develops and cultivates the seven awakening factors."
 
 <!--pg-->
-### N 46.49 Interior *Ajjhattikaṅgasutta*
+### SN 46.49 Interior *Ajjhattikaṅgasutta*
 
 "Taking into account interior factors, mendicants, I do not see a single
 one that gives rise to the seven awakening factors like rational
 application of mind. ..."
 
 <!--pg-->
-### N 46.50 Exterior *Bāhiraṅgasutta*
+### SN 46.50 Exterior *Bāhiraṅgasutta*
 
 "Taking into account exterior factors, mendicants, I do not see a single
 one that gives rise to the seven awakening factors like good friendship.
@@ -1160,7 +1160,7 @@ one that gives rise to the seven awakening factors like good friendship.
 <!--pg-->
 ## The Chapter on Discussion
 
-### N 46.51 Nourishing *Āhārasutta*
+### SN 46.51 Nourishing *Āhārasutta*
 
 At Sāvatthī.
 
@@ -1312,7 +1312,7 @@ applying the mind to that starves the arising of the awakening factor of
 equanimity, or, when it has arisen, starves its full development."
 
 <!--pg-->
-### N 46.52 Is There a Way? *Pariyāyasutta*
+### SN 46.52 Is There a Way? *Pariyāyasutta*
 
 Then several mendicants robed up in the morning and, taking their bowls
 and robes, entered Sāvatthī for alms. Then it occurred to
@@ -1408,7 +1408,7 @@ factor of equanimity' becomes twofold. This is the way in which the
 seven awakening factors become fourteen."
 
 <!--pg-->
-### N 46.53 Fire *Aggisutta*
+### SN 46.53 Fire *Aggisutta*
 
 Then several mendicants robed up in the morning and, taking their bowls
 and robes, entered Sāvatthī for alms.
@@ -1491,7 +1491,7 @@ Why is that? Because it's easy to settle a restless mind with these
 things. But mindfulness is always useful, I say."
 
 <!--pg-->
-### N 46.54 Full of Love *Mettāsahagatasutta*
+### SN 46.54 Full of Love *Mettāsahagatasutta*
 
 At one time the Buddha was staying in the land of the Koliyans, where
 they have a town called Haliddavasana. Then several mendicants robed up
@@ -1620,7 +1620,7 @@ the heart's release by equanimity is the dimension of nothingness, I
 say, for a mendicant who has not penetrated to a higher freedom."
 
 <!--pg-->
-### N 46.55 With Saṅgārava *Saṅgāravasutta*
+### SN 46.55 With Saṅgārava *Saṅgāravasutta*
 
 At Sāvatthī.
 
@@ -1782,7 +1782,7 @@ When he said this, Saṅgārava said to the Buddha,
 Gotama remember me as a lay follower who has gone for refuge for life."
 
 <!--pg-->
-### N 46.56 With Prince Abhaya *Abhayasutta*
+### SN 46.56 With Prince Abhaya *Abhayasutta*
 
 So I have heard. At one time the Buddha was staying near
 Rājagaha, on the Vulture's Peak Mountain. Then Prince
@@ -1852,7 +1852,7 @@ But this has now faded away. And I've comprehended the teaching."
 <!--pg-->
 ## The Chapter on Breathing
 
-### N 46.57 A Skeleton *Aṭṭhikamahapphalasutta*
+### SN 46.57 A Skeleton *Aṭṭhikamahapphalasutta*
 
 At Sāvatthī.
 
@@ -1882,55 +1882,55 @@ cultivated it leads to great inspiration. How so?..."
 cultivated it leads to dwelling in great ease. How so?..."
 
 <!--pg-->
-### N 46.58 Worm-Infested *Puḷavakasutta*
+### SN 46.58 Worm-Infested *Puḷavakasutta*
 
 "Mendicants, when the perception of a worm-infested corpse is developed
 and cultivated it's very fruitful and beneficial. ..."
 
 <!--pg-->
-### N 46.59 Livid *Vinīlakasutta*
+### SN 46.59 Livid *Vinīlakasutta*
 
 "Mendicants, when the perception of a livid corpse is developed and
 cultivated it's very fruitful and beneficial. ..."
 
 <!--pg-->
-### N 46.60 Split Open *Vicchiddakasutta*
+### SN 46.60 Split Open *Vicchiddakasutta*
 
 "Mendicants, when the perception of a split open corpse is developed and
 cultivated it's very fruitful and beneficial. ..."
 
 <!--pg-->
-### N 46.61 Bloated *Uddhumātakasutta*
+### SN 46.61 Bloated *Uddhumātakasutta*
 
 "Mendicants, when the perception of a bloated corpse is developed and
 cultivated it's very fruitful and beneficial. ..."
 
 <!--pg-->
-### N 46.62 Love *Mettāsutta*
+### SN 46.62 Love *Mettāsutta*
 
 "Mendicants, when love is developed and cultivated it's very fruitful
 and beneficial. ..."
 
 <!--pg-->
-### N 46.63 Compassion *Karuṇāsutta*
+### SN 46.63 Compassion *Karuṇāsutta*
 
 "Mendicants, when compassion is developed and cultivated it's very
 fruitful and beneficial. ..."
 
 <!--pg-->
-### N 46.64 Rejoicing *Muditāsutta*
+### SN 46.64 Rejoicing *Muditāsutta*
 
 "Mendicants, when rejoicing is developed and cultivated it's very
 fruitful and beneficial. ..."
 
 <!--pg-->
-### N 46.65 Equanimity *Upekkhāsutta*
+### SN 46.65 Equanimity *Upekkhāsutta*
 
 "Mendicants, when equanimity is developed and cultivated it's very
 fruitful and beneficial. ..."
 
 <!--pg-->
-### N 46.66 Breathing *Ānāpānasutta*
+### SN 46.66 Breathing *Ānāpānasutta*
 
 "Mendicants, when mindfulness of breathing is developed and cultivated
 it's very fruitful and beneficial. ..."
@@ -1938,61 +1938,61 @@ it's very fruitful and beneficial. ..."
 <!--pg-->
 ## The Chapter on Cessation
 
-### N 46.67 Ugliness *Asubhasutta*
+### SN 46.67 Ugliness *Asubhasutta*
 
 "Mendicants, when the perception of ugliness is developed and cultivated
 it's very fruitful and beneficial. ..."
 
 <!--pg-->
-### N 46.68 Death *Maraṇasutta*
+### SN 46.68 Death *Maraṇasutta*
 
 "Mendicants, when the perception of death is developed and cultivated
 it's very fruitful and beneficial. ..."
 
 <!--pg-->
-### N 46.69 Repulsiveness of Food *Āhārepaṭikūlasutta*
+### SN 46.69 Repulsiveness of Food *Āhārepaṭikūlasutta*
 
 "Mendicants, when the perception of repulsiveness of food is developed
 and cultivated it's very fruitful and beneficial. ..."
 
 <!--pg-->
-### N 46.70 Dissatisfaction *Anabhiratisutta*
+### SN 46.70 Dissatisfaction *Anabhiratisutta*
 
 "Mendicants, when the perception of dissatisfaction with the whole world
 is developed and cultivated it's very fruitful and beneficial. ..."
 
 <!--pg-->
-### N 46.71 Impermanence *Aniccasutta*
+### SN 46.71 Impermanence *Aniccasutta*
 
 "Mendicants, when the perception of impermanence is developed and
 cultivated it's very fruitful and beneficial. ..."
 
 <!--pg-->
-### N 46.72 Suffering in Impermanence *Dukkhasutta*
+### SN 46.72 Suffering in Impermanence *Dukkhasutta*
 
 "Mendicants, when the perception of suffering in impermanence is
 developed and cultivated it's very fruitful and beneficial. ..."
 
 <!--pg-->
-### N 46.73 Not-Self in Suffering *Anattasutta*
+### SN 46.73 Not-Self in Suffering *Anattasutta*
 
 "Mendicants, when the perception of not-self in suffering is developed
 and cultivated it's very fruitful and beneficial. ..."
 
 <!--pg-->
-### N 46.74 Giving Up *Pahānasutta*
+### SN 46.74 Giving Up *Pahānasutta*
 
 "Mendicants, when the perception of giving up is developed and
 cultivated it's very fruitful and beneficial. ..."
 
 <!--pg-->
-### N 46.75 Dispassion *Virāgasutta*
+### SN 46.75 Dispassion *Virāgasutta*
 
 "Mendicants, when the perception of dispassion is developed and
 cultivated it's very fruitful and beneficial. ..."
 
 <!--pg-->
-### N 46.76 Cessation *Nirodhasutta*
+### SN 46.76 Cessation *Nirodhasutta*
 
 "Mendicants, when the perception of cessation is developed and
 cultivated it's very fruitful and beneficial. How so? It's when a
@@ -2027,7 +2027,7 @@ from the yoke ... great inspiration ... great ease."
 <!--pg-->
 ## The Chapter of Abbreviated Texts on the Ganges
 
-### N 46.77--88 The Ganges River, Etc. *Gaṅgāpeyyālavagga*
+### SN 46.77--88 The Ganges River, Etc. *Gaṅgāpeyyālavagga*
 
 "Mendicants, the Ganges river slants, slopes, and inclines to the east.
 In the same way, a mendicant who develops and cultivates the seven
@@ -2046,7 +2046,7 @@ slants, slopes, and inclines to extinguishment."
 <!--pg-->
 ## The Chapter on Diligence
 
-### N 46.89--98 A Realized One, Etc. *Appamādavagga*
+### SN 46.89--98 A Realized One, Etc. *Appamādavagga*
 
 "Mendicants, the Realized One, the perfected one, the fully awakened
 Buddha, is said to be the best of all sentient beings---be they
@@ -2057,7 +2057,7 @@ footless, with two feet, four feet, or many feet ..."
 <!--pg-->
 ## The Chapter on Hard Work
 
-### N 46.99--110 Hard Work, Etc. *Balakaraṇīyavagga*
+### SN 46.99--110 Hard Work, Etc. *Balakaraṇīyavagga*
 
 "Mendicants, all the hard work that gets done depends on the earth and
 is grounded on the earth. ..."
@@ -2067,7 +2067,7 @@ is grounded on the earth. ..."
 <!--pg-->
 ## The Chapter on Searches
 
-### N 46.111--120 Searches, Etc. *Esanāvagga*
+### SN 46.111--120 Searches, Etc. *Esanāvagga*
 
 "Mendicants, there are these three searches. What three? The search for
 sensual pleasures, the search for continued existence, and the search
@@ -2078,7 +2078,7 @@ for a spiritual path. ..."
 <!--pg-->
 ## The Chapter on Floods
 
-### N 46.121--129 Floods *Oghādisutta*
+### SN 46.121--129 Floods *Oghādisutta*
 
 "Mendicants, there are these four floods. What four? The floods of
 sensuality, desire to be reborn, views, and ignorance."
@@ -2086,7 +2086,7 @@ sensuality, desire to be reborn, views, and ignorance."
 **(Tell in full as in SN 45.171--179.)**
 
 <!--pg-->
-### N 46.130 Higher Fetters *Uddhambhāgiyasutta*
+### SN 46.130 Higher Fetters *Uddhambhāgiyasutta*
 
 At Sāvatthī.
 
@@ -2113,35 +2113,35 @@ five higher fetters."
 <!--pg-->
 ## Another Chapter of Abbreviated Texts on the Ganges
 
-### N 46.131--142 More on the Ganges River, Etc. *Punagaṅgāpeyyālavagga*
+### SN 46.131--142 More on the Ganges River, Etc. *Punagaṅgāpeyyālavagga*
 
 **(Tell in full as in SN 45.103--114, removal of greed version.)**
 
 <!--pg-->
 ## Another Chapter on Diligence
 
-### N 46.143--152 Another Series on a Realized One, Etc. *Punaappamādavagga*
+### SN 46.143--152 Another Series on a Realized One, Etc. *Punaappamādavagga*
 
 **(Tell in full as in SN 45.139--148, removal of greed version.)**
 
 <!--pg-->
 ## Another Chapter on Hard Work
 
-### N 46.153--164 Hard Work, Etc. *Punabalakaraṇīyavagga*
+### SN 46.153--164 Hard Work, Etc. *Punabalakaraṇīyavagga*
 
 **(Tell in full as in SN 45.149--160, removal of greed version.)**
 
 <!--pg-->
 ## Another Chapter on Searches
 
-### N 46.165--174 Another Series on Searches, Etc. *Punaesanāvagga*
+### SN 46.165--174 Another Series on Searches, Etc. *Punaesanāvagga*
 
 **(Tell in full as in SN 45.161--170.)**
 
 <!--pg-->
 ## Another Chapter on Floods
 
-### N 46.175--184 Another Series on Floods, Etc. *Punaoghavagga*
+### SN 46.175--184 Another Series on Floods, Etc. *Punaoghavagga*
 
 **(Tell in full as in SN 45.171--180.)**
 

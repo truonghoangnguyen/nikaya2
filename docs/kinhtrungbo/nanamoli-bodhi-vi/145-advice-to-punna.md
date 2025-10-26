@@ -1,4 +1,4 @@
-# 145. Lời Khuyên Dạy Tôn Giả Punna
+# MN 145. Lời Khuyên Dạy Tôn Giả Punna
 ***(Kinh Punnovāda)***
 
 [267].1. Như vầy tôi nghe. Một thời Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong Vườn Jeta (Kỳ-đà), Khu Vườn của Anāthapiṇḍika (Cấp Cô Độc). Khi ấy, vào buổi chiều, Tôn giả Punna xả thiền và đi đến chỗ Đức Thế Tôn. [^1315] Sau khi đảnh lễ Đức Thế Tôn, ngài ngồi xuống một bên và bạch rằng:

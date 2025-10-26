@@ -1,4 +1,4 @@
-# 90. Tại Kannakatthala
+# MN 90. Tại Kannakatthala
 ***(Kinh Kannakatthala)***
 
 1\.  Tôi nghe như vầy. Một thời Đức Thế Tôn trú tại Ujuñña, trong Vườn Nai Kannakatthala.

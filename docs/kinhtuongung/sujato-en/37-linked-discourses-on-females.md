@@ -3,7 +3,7 @@
 <!--pg-->
 ## First Chapter of Abbreviated Texts
 
-### N 37.1 A Female *Mātugāmasutta*
+### SN 37.1 A Female *Mātugāmasutta*
 
 "Mendicants, when a female has five factors she is extremely undesirable
 to a man. What five? She's not attractive, wealthy, or ethical; she's
@@ -16,7 +16,7 @@ and she begets children. When a female has these five factors she is
 extremely desirable to a man."
 
 <!--pg-->
-### N 37.2 A Man *Purisasutta*
+### SN 37.2 A Man *Purisasutta*
 
 "Mendicants, when a man has five factors he is extremely undesirable to
 a female. What five? He's not attractive, wealthy, or ethical; he's
@@ -29,7 +29,7 @@ he begets children. When a man has these five factors he is extremely
 desirable to a female."
 
 <!--pg-->
-### N 37.3 Particular Suffering *Āveṇikadukkhasutta*
+### SN 37.3 Particular Suffering *Āveṇikadukkhasutta*
 
 "Mendicants, there are these five kinds of suffering that particularly
 apply to females. They're undergone by females and not by men. What
@@ -55,7 +55,7 @@ These are the five kinds of suffering that particularly apply to
 females. They're undergone by females and not by men."
 
 <!--pg-->
-### N 37.4 Three Qualities *Tīhidhammehisutta*
+### SN 37.4 Three Qualities *Tīhidhammehisutta*
 
 "Mendicants, when females have three qualities, when their body breaks
 up, after death, they are mostly reborn in a place of loss, a bad place,
@@ -70,7 +70,7 @@ after death, they are mostly reborn in a place of loss, a bad place, the
 underworld, hell."
 
 <!--pg-->
-### N 37.5 Irritable *Kodhanasutta*
+### SN 37.5 Irritable *Kodhanasutta*
 
 Then Venerable Anuruddha went up to the Buddha, sat down to one side,
 and said to him:
@@ -92,52 +92,52 @@ death, they are reborn in a place of loss, a bad place, the underworld,
 hell."
 
 <!--pg-->
-### N 37.6 Acrimony *Upanāhīsutta*
+### SN 37.6 Acrimony *Upanāhīsutta*
 
 "... They're faithless, shameless, imprudent, acrimonious, and witless.
 ..."
 
 <!--pg-->
-### N 37.7 Jealous *Issukīsutta*
+### SN 37.7 Jealous *Issukīsutta*
 
 "... They're faithless, shameless, imprudent, jealous, and witless. ..."
 
 <!--pg-->
-### N 37.8 Stingy *Maccharīsutta*
+### SN 37.8 Stingy *Maccharīsutta*
 
 "... They're faithless, shameless, imprudent, stingy, and witless. ..."
 
 <!--pg-->
-### N 37.9 Adultery *Aticārīsutta*
+### SN 37.9 Adultery *Aticārīsutta*
 
 "... They're faithless, shameless, imprudent, adulterous, and witless.
 ..."
 
 <!--pg-->
-### N 37.10 Unethical *Dussīlasutta*
+### SN 37.10 Unethical *Dussīlasutta*
 
 "... They're faithless, shameless, imprudent, unethical, and witless.
 ..."
 
 <!--pg-->
-### N 37.11 Unlearned *Appassutasutta*
+### SN 37.11 Unlearned *Appassutasutta*
 
 "... They're faithless, shameless, imprudent, unlearned, and witless.
 ..."
 
 <!--pg-->
-### N 37.12 Lazy *Kusītasutta*
+### SN 37.12 Lazy *Kusītasutta*
 
 "... They're faithless, shameless, imprudent, lazy, and witless. ..."
 
 <!--pg-->
-### N 37.13 Unmindful *Muṭṭhassatisutta*
+### SN 37.13 Unmindful *Muṭṭhassatisutta*
 
 "... They're faithless, shameless, imprudent, unmindful, and witless.
 ..."
 
 <!--pg-->
-### N 37.14 Five Threats *Pañcaverasutta*
+### SN 37.14 Five Threats *Pañcaverasutta*
 
 "Anuruddha, when females have five qualities, when their body breaks up,
 after death, they are reborn in a place of loss, a bad place, the
@@ -150,7 +150,7 @@ hell."
 <!--pg-->
 ## Second Chapter of Abbreviated Texts
 
-### N 37.15 Loving *Akkodhanasutta*
+### SN 37.15 Loving *Akkodhanasutta*
 
 Then Venerable Anuruddha went up to the Buddha ... and asked him,
 "Sometimes, sir, with my clairvoyance that's purified and superhuman, I
@@ -165,44 +165,44 @@ females have these five qualities, when their body breaks up, after
 death, they are reborn in a good place, a heavenly realm."
 
 <!--pg-->
-### N 37.16 Free of Acrimony *Anupanāhīsutta*
+### SN 37.16 Free of Acrimony *Anupanāhīsutta*
 
 "... They're faithful, conscientious, prudent, free of acrimony, and
 wise. ..."
 
-### N 37.17 Free of Jealousy *Anissukīsutta*
+### SN 37.17 Free of Jealousy *Anissukīsutta*
 
 "... They're faithful, conscientious, prudent, free of jealousy, and
 wise. ..."
 
-### N 37.18 Free of Stinginess *Amaccharīsutta*
+### SN 37.18 Free of Stinginess *Amaccharīsutta*
 
 "... They're faithful, conscientious, prudent, free of stinginess, and
 wise. ..."
 
-### N 37.19 Not Adulterous *Anaticārīsutta*
+### SN 37.19 Not Adulterous *Anaticārīsutta*
 
 "... They're faithful, conscientious, prudent, not adulterous, and wise.
 ..."
 
-### N 37.20 Ethical *Susīlasutta*
+### SN 37.20 Ethical *Susīlasutta*
 
 "... They're faithful, conscientious, prudent, ethical, and wise. ..."
 
-### N 37.21 Very Learned *Bahussutasutta*
+### SN 37.21 Very Learned *Bahussutasutta*
 
 "... They're faithful, conscientious, prudent, learned, and wise. ..."
 
-### N 37.22 Energetic *Āraddhavīriyasutta*
+### SN 37.22 Energetic *Āraddhavīriyasutta*
 
 "... They're faithful, conscientious, prudent, energetic, and wise. ..."
 
-### N 37.23 Mindful *Upaṭṭhitassatisutta*
+### SN 37.23 Mindful *Upaṭṭhitassatisutta*
 
 "... They're faithful, conscientious, prudent, mindful, and wise. ..."
 
 <!--pg-->
-### N 37.24 Five Precepts *Pañcasīlasutta*
+### SN 37.24 Five Precepts *Pañcasīlasutta*
 
 "Anuruddha, when females have five qualities, when their body breaks up,
 after death, they are reborn in a good place, a heavenly realm. What
@@ -214,7 +214,7 @@ reborn in a good place, a heavenly realm."
 <!--pg-->
 ## The Chapter on Powers
 
-### N 37.25 Assured *Visāradasutta*
+### SN 37.25 Assured *Visāradasutta*
 
 "Mendicants, there are these five powers of a female. What five?
 Attractiveness, wealth, relatives, children, and ethical behavior. These
@@ -222,7 +222,7 @@ are the five powers of a female. A female living at home with these five
 qualities is self-assured."
 
 <!--pg-->
-### N 37.26 Under Her Thumb *Pasayhasutta*
+### SN 37.26 Under Her Thumb *Pasayhasutta*
 
 "Mendicants, there are these five powers of a female. What five?
 Attractiveness, wealth, relatives, children, and ethical behavior. These
@@ -230,7 +230,7 @@ are the five powers of a female. A female living at home with these five
 powers has her husband under her thumb."
 
 <!--pg-->
-### N 37.27 Mastered *Abhibhuyyasutta*
+### SN 37.27 Mastered *Abhibhuyyasutta*
 
 "Mendicants, there are these five powers of a female. What five?
 Attractiveness, wealth, relatives, children, and ethical behavior. These
@@ -238,7 +238,7 @@ are the five powers of a female. A female with these five powers lives
 having mastered her husband."
 
 <!--pg-->
-### N 37.28 One *Ekasutta*
+### SN 37.28 One *Ekasutta*
 
 "Mendicants, when a man has one power he has a female under his mastery.
 What one power? The power of authority. Mastered by this, a female's
@@ -246,7 +246,7 @@ powers of attractiveness, wealth, relatives, children, and ethical
 behavior do not avail her."
 
 <!--pg-->
-### N 37.29 In That Respect *Aṅgasutta*
+### SN 37.29 In That Respect *Aṅgasutta*
 
 "Mendicants, there are these five powers of a female. What five?
 
@@ -275,7 +275,7 @@ respect.
 These are the five powers of a female."
 
 <!--pg-->
-### N 37.30 They Send Her Away *Nāsentisutta*
+### SN 37.30 They Send Her Away *Nāsentisutta*
 
 "Mendicants, there are these five powers of a female. What five?
 
@@ -312,7 +312,7 @@ the family will accommodate her, they won't send her away.
 These are the five powers of a female."
 
 <!--pg-->
-### N 37.31 Cause *Hetusutta*
+### SN 37.31 Cause *Hetusutta*
 
 "Mendicants, there are these five powers of a female. What five?
 Attractiveness, wealth, relatives, children, and ethical behavior.
@@ -326,7 +326,7 @@ are reborn in a good place, a heavenly realm.
 These are the five powers of a female."
 
 <!--pg-->
-### N 37.32 Things *Ṭhānasutta*
+### SN 37.32 Things *Ṭhānasutta*
 
 "Mendicants, there are five things that are hard to get for females who
 have not made merit. What five?
@@ -373,7 +373,7 @@ These are the five things that are easy to get for females who have made
 merit."
 
 <!--pg-->
-### N 37.33 Living With Self-Assurance *Pañcasīlavisāradasutta*
+### SN 37.33 Living With Self-Assurance *Pañcasīlavisāradasutta*
 
 "Mendicants, a female living at home with five qualities is
 self-assured. What five? She doesn't kill living creatures, steal,
@@ -382,7 +382,7 @@ intoxicants. A female living at home with these five qualities is
 self-assured."
 
 <!--pg-->
-### N 37.34 Growth *Vaḍḍhīsutta*
+### SN 37.34 Growth *Vaḍḍhīsutta*
 
 "Mendicants, a female noble disciple who grows in five ways grows nobly,
 taking on what is essential and excellent in this life. What five? She

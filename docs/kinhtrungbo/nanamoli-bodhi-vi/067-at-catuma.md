@@ -1,4 +1,4 @@
-# 67. Tại Cātumā
+# MN 67. Tại Cātumā
 ***(Kinh Cātumā)***
 
 1\. Tôi nghe như vầy. Một thời Đức Thế Tôn trú tại Cātumā, trong rừng cây A-ma-la (myrobalan).

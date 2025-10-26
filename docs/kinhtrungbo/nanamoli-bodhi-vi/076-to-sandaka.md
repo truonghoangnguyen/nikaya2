@@ -1,4 +1,4 @@
-# 76. Gửi Sandaka
+# MN 76. Gửi Sandaka
 ***(Kinh Sandaka)***
 
 1\.  Tôi nghe như vầy. Một thời Đức Thế Tôn (Blessed One) trú tại Kosambi, trong Tịnh xá Ghosita (Ghosita’s Park).

@@ -1,4 +1,4 @@
-# 50. Lời Quở Trách Ma Vương
+# MN 50. Lời Quở Trách Ma Vương
 ***(Māratajjanīya Sutta)***
 
 [332] 1. Tôi nghe như vầy. Một thời, Đại đức Mahā Moggallāna trú ở xứ Bhagga, tại Sumsumāragira, trong rừng Bhesakaḷā, Vườn Nai.

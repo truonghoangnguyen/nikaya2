@@ -1,4 +1,4 @@
-# 101. Tại Devadaha
+# MN 101. Tại Devadaha
 ***(Kinh Devadaha)***
 
 [214] 1. Tôi nghe như vầy. Một thời Đức Thế Tôn trú ở xứ Sakya (Thích Ca), tại một thị trấn của người Sakya tên là Devadaha. Tại đó, Đức Thế Tôn gọi các vị tỳ kheo (monks-bhikkhus-nhà sư): "Này các Tỳ kheo." - "Bạch Thế Tôn," các vị ấy đáp lời. Đức Thế Tôn nói điều này:

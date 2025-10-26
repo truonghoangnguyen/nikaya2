@@ -1,4 +1,4 @@
-# 91. Kinh Brahmāyu
+# MN 91. Kinh Brahmāyu
 ***(Brahmāyu Sutta)***
 
 1\.  Tôi nghe như vầy. Một thời, Thế Tôn du hành ở xứ Videha cùng với đại chúng tỳ kheo (monks-bhikkhus-nhà sư), khoảng năm trăm vị.

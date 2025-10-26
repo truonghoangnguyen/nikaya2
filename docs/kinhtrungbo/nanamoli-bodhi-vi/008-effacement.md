@@ -1,4 +1,4 @@
-# 8. Gọt Giũa
+# MN 8. Gọt Giũa
 ***(Kinh Sallekha)***
 
 1\. Tôi nghe như vầy. Có lần Đức Phật (The Blessed One) ở tại Sāvatthī (Xá Vệ), trong khu rừng Jeta, công viên của Anāthapiṇ̣ika (Cấp Cô Độc).

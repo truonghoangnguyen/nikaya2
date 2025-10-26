@@ -3,7 +3,7 @@
 <!--pg-->
 ## Chương về Chư Tăng
 
-### N 21.1 Kinh Kolita (Với Tôn giả Kolita)
+### SN 21.1 Kinh Kolita (Với Tôn giả Kolita)
 
 Như vầy tôi nghe. Một thời Đức Phật trú tại Sāvatthī, trong vườn của ông Jeta, tu viện của ông Anāthapiṇḍika.
 Tại đó, Tôn giả Đại Mục Kiền Liên (Mahāmoggallāna) gọi các Tỷ kheo: "Này các hiền giả, các Tỷ kheo!"
@@ -27,7 +27,7 @@ Và thế là, sau một thời gian, khi sự có tầm có tứ đã lắng d�
 Vậy nếu có ai đáng được gọi là một người đệ tử đã đạt được *thắng trí* (direct knowledge / sự hiểu biết siêu việt) vĩ đại với sự trợ giúp của Bậc Đạo Sư, thì đó chính là tôi."
 
 <!--pg-->
-### N 21.2 Kinh Upatissa (Với Tôn giả Upatissa)
+### SN 21.2 Kinh Upatissa (Với Tôn giả Upatissa)
 
 Tại Sāvatthī.
 
@@ -44,7 +44,7 @@ Khi ngài nói vậy, Tôn giả Ānanda nói với ngài: "Ngay cả khi Bậc 
 "Hẳn là vì Tôn giả Xá Lợi Phất từ lâu đã đoạn trừ hoàn toàn *ngã chấp, ngã sở chấp, và mạn tùy miên* (I-making, mine-making, and the underlying tendency to conceit / sự tạo ra 'cái tôi', 'cái của tôi', và khuynh hướng ngã mạn ngủ ngầm). Vì vậy, ngay cả khi Bậc Đạo Sư tàn hoại và biến mất, điều đó cũng không làm khởi sinh sầu, bi, khổ, ưu, não trong ngài."
 
 <!--pg-->
-### N 21.3 Kinh Đống Muối (Ghaṭasutta)
+### SN 21.3 Kinh Đống Muối (Ghaṭasutta)
 
 Như vầy tôi nghe. Một thời Đức Phật trú tại Sāvatthī, trong vườn của ông Jeta, tu viện của ông Anāthapiṇḍika.
 
@@ -82,7 +82,7 @@ Khi tôi nói vậy, Đức Phật dạy: 'Này Moggallāna, đó là khi một 
 Và thế là hai bậc đại long tượng này đã đồng tình với những lời hay ý đẹp của nhau.
 
 <!--pg-->
-### N 21.4 Kinh Vị Tỷ Kheo Trẻ (Navasutta)
+### SN 21.4 Kinh Vị Tỷ Kheo Trẻ (Navasutta)
 
 Tại Sāvatthī.
 
@@ -113,7 +113,7 @@ Khi ấy, Đức Phật, biết được dòng suy nghĩ của vị Tỷ kheo đ
 > đã chiến thắng *Ma vương* (Māra / hiện thân của sự cám dỗ và cái chết) và đoàn tùy tùng."
 
 <!--pg-->
-### N 21.5 Kinh Sujāta (Với Tôn giả Sujāta)
+### SN 21.5 Kinh Sujāta (Với Tôn giả Sujāta)
 
 Tại Sāvatthī.
 
@@ -131,7 +131,7 @@ Khi ấy, Tôn giả Sujāta đến yết kiến Đức Phật.
 > đã chiến thắng Ma vương và đoàn tùy tùng."
 
 <!--pg-->
-### N 21.6 Kinh Lakuṇḍaka Bhaddiya (Với Tôn giả Bhaddiya Lùn)
+### SN 21.6 Kinh Lakuṇḍaka Bhaddiya (Với Tôn giả Bhaddiya Lùn)
 
 Tại Sāvatthī.
 
@@ -156,7 +156,7 @@ Khi ấy, Tôn giả Bhaddiya Lùn đến yết kiến Đức Phật.
 > chứ không phải kẻ ngốc có thân hình đẹp."
 
 <!--pg-->
-### N 21.7 Kinh Visākha (Với Tôn giả Visākha, con trai của Pañcāli)
+### SN 21.7 Kinh Visākha (Với Tôn giả Visākha, con trai của Pañcāli)
 
 Như vầy tôi nghe. Một thời Đức Phật trú gần Vesālī, tại Đại Lâm, trong ngôi giảng đường có mái nhọn.
 
@@ -183,7 +183,7 @@ Khi ấy, Đức Phật nói với Visākha:
 > vì giáo pháp chính là ngọn cờ của các bậc hiền triết."
 
 <!--pg-->
-### N 21.8 Kinh Nanda (Với Tôn giả Nanda)
+### SN 21.8 Kinh Nanda (Với Tôn giả Nanda)
 
 Tại Sāvatthī.
 
@@ -201,7 +201,7 @@ Khi ấy, Tôn giả Nanda—em họ của Đức Phật về phía mẹ—mặc
 Sau đó một thời gian, Tôn giả Nanda đã sống trong rừng, chỉ ăn đồ khất thực, mặc y phấn tảo, và sống không bận tâm đến các thú vui giác quan.
 
 <!--pg-->
-### N 21.9 Kinh Tissa (Với Tôn giả Tissa)
+### SN 21.9 Kinh Tissa (Với Tôn giả Tissa)
 
 Tại Sāvatthī.
 
@@ -221,7 +221,7 @@ Khi ấy, Tôn giả Tissa—em họ của Đức Phật về phía cha—đến
 > để loại bỏ sự tức giận, ngã mạn, và sự miệt thị."
 
 <!--pg-->
-### N 21.10 Kinh Vị Tỷ Kheo Tên Thera (Theranāmakasutta)
+### SN 21.10 Kinh Vị Tỷ Kheo Tên Thera (Theranāmakasutta)
 
 Một thời Đức Phật trú gần Rājagaha, trong Trúc Lâm, nơi các con sóc được cho ăn.
 
@@ -257,7 +257,7 @@ Sau đó, một vài Tỷ kheo đến gặp Đức Phật, đảnh lễ, ngồi 
 > Ta tuyên bố người ấy là người sống một mình."
 
 <!--pg-->
-### N 21.11 Kinh Mahākappina (Với Tôn giả Mahākappina)
+### SN 21.11 Kinh Mahākappina (Với Tôn giả Mahākappina)
 
 Tại Sāvatthī.
 
@@ -284,7 +284,7 @@ Khi ấy, Tôn giả Mahākappina đến yết kiến Đức Phật.
 > Đức Phật tỏa sáng với vinh quang."
 
 <!--pg-->
-### N 21.12 Kinh Những Người Bạn Đồng Hành (Sahāyakasutta)
+### SN 21.12 Kinh Những Người Bạn Đồng Hành (Sahāyakasutta)
 
 Tại Sāvatthī.
 

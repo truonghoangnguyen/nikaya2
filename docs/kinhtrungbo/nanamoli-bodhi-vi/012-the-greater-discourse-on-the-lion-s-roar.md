@@ -1,4 +1,4 @@
-# 12. Bài Kinh Đại Sư Tử Hống
+# MN 12. Bài Kinh Đại Sư Tử Hống
 ***(Mahāsīhanāda Sutta)***
 
 1\. Tôi nghe như vầy. Một lần nọ, Đức Phật (The Blessed One) đang ở tại Vesālī trong một khu rừng phía tây thành phố.

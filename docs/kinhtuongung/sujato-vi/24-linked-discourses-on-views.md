@@ -3,7 +3,7 @@
 <!--pg-->
 ## Chương Về Nhập Lưu
 
-### N 24.1 Gió *Vātasutta*
+### SN 24.1 Gió *Vātasutta*
 
 Một thời Đức Phật ở gần Sāvatthī, tại Vườn của Jeta. Đức Phật đã nói điều này:
 
@@ -56,7 +56,7 @@ Này các Tỷ kheo, các con nghĩ sao? Cơ thể là thường hằng hay vô 
 "Khi một *thánh đệ tử* (noble disciple / người học trò đã đạt được một trong bốn cấp độ giác ngộ) đã từ bỏ hoài nghi trong sáu trường hợp này, và đã từ bỏ hoài nghi về khổ, nguồn gốc của khổ, sự chấm dứt khổ, và con đường dẫn đến sự chấm dứt khổ, họ được gọi là một thánh đệ tử đã *dự lưu* (stream-enterer / người đã bước vào dòng thánh), không còn bị tái sinh vào cõi dữ, chắc chắn sẽ đạt được giác ngộ."
 
 <!--pg-->
-### N 24.2 Đây Là Của Tôi *Etaṁmamasutta*
+### SN 24.2 Đây Là Của Tôi *Etaṁmamasutta*
 
 Tại Sāvatthī.
 
@@ -89,7 +89,7 @@ Này các Tỷ kheo, các con nghĩ sao? Cơ thể là thường hằng hay vô 
 "Khi một thánh đệ tử đã từ bỏ hoài nghi trong sáu trường hợp này, và đã từ bỏ hoài nghi về khổ, nguồn gốc của khổ, sự chấm dứt khổ, và con đường dẫn đến sự chấm dứt khổ, họ được gọi là một thánh đệ tử đã dự lưu, không còn bị tái sinh vào cõi dữ, chắc chắn sẽ đạt được giác ngộ."
 
 <!--pg-->
-### N 24.3 Đây Là Tự Ngã Của Tôi *Soattāsutta*
+### SN 24.3 Đây Là Tự Ngã Của Tôi *Soattāsutta*
 
 Tại Sāvatthī.
 
@@ -118,7 +118,7 @@ Này các Tỷ kheo, các con nghĩ sao? Cơ thể là thường hằng hay vô 
 "Khi một thánh đệ tử đã từ bỏ hoài nghi trong sáu trường hợp này, và đã từ bỏ hoài nghi về khổ, nguồn gốc của khổ, sự chấm dứt khổ, và con đường dẫn đến sự chấm dứt khổ, họ được gọi là một thánh đệ tử đã dự lưu, không còn bị tái sinh vào cõi dữ, chắc chắn sẽ đạt được giác ngộ."
 
 <!--pg-->
-### N 24.4 Có Thể Không Phải Của Tôi *Nocamesiyāsutta*
+### SN 24.4 Có Thể Không Phải Của Tôi *Nocamesiyāsutta*
 
 Tại Sāvatthī.
 
@@ -147,7 +147,7 @@ Này các Tỷ kheo, các con nghĩ sao? Cơ thể là thường hằng hay vô 
 "Khi một thánh đệ tử đã từ bỏ hoài nghi trong sáu trường hợp này, và đã từ bỏ hoài nghi về khổ, nguồn gốc của khổ, sự chấm dứt khổ, và con đường dẫn đến sự chấm dứt khổ, họ được gọi là một thánh đệ tử đã dự lưu, không còn bị tái sinh vào cõi dữ, chắc chắn sẽ đạt được giác ngộ."
 
 <!--pg-->
-### N 24.5 Không Có Ý Nghĩa Gì Trong Việc Cho Đi *Natthidinnasutta*
+### SN 24.5 Không Có Ý Nghĩa Gì Trong Việc Cho Đi *Natthidinnasutta*
 
 Tại Sāvatthī.
 
@@ -176,7 +176,7 @@ Này các Tỷ kheo, các con nghĩ sao? Cơ thể là thường hằng hay vô 
 "Khi một thánh đệ tử đã từ bỏ hoài nghi trong sáu trường hợp này, và đã từ bỏ hoài nghi về khổ, nguồn gốc của khổ, sự chấm dứt khổ, và con đường dẫn đến sự chấm dứt khổ, họ được gọi là một thánh đệ tử đã dự lưu, không còn bị tái sinh vào cõi dữ, chắc chắn sẽ đạt được giác ngộ."
 
 <!--pg-->
-### N 24.6 Hành Động *Karotosutta*
+### SN 24.6 Hành Động *Karotosutta*
 
 Tại Sāvatthī.
 
@@ -205,7 +205,7 @@ Này các Tỷ kheo, các con nghĩ sao? Cơ thể là thường hằng hay vô 
 "Khi một thánh đệ tử đã từ bỏ hoài nghi trong sáu trường hợp này, và đã từ bỏ hoài nghi về khổ, nguồn gốc của khổ, sự chấm dứt khổ, và con đường dẫn đến sự chấm dứt khổ, họ được gọi là một thánh đệ tử đã dự lưu, không còn bị tái sinh vào cõi dữ, chắc chắn sẽ đạt được giác ngộ."
 
 <!--pg-->
-### N 24.7 Nguyên Nhân *Hetusutta*
+### SN 24.7 Nguyên Nhân *Hetusutta*
 
 Tại Sāvatthī.
 
@@ -234,7 +234,7 @@ Này các Tỷ kheo, các con nghĩ sao? Cơ thể là thường hằng hay vô 
 "Khi một thánh đệ tử đã từ bỏ hoài nghi trong sáu trường hợp này, và đã từ bỏ hoài nghi về khổ, nguồn gốc của khổ, sự chấm dứt khổ, và con đường dẫn đến sự chấm dứt khổ, họ được gọi là một thánh đệ tử đã dự lưu, không còn bị tái sinh vào cõi dữ, chắc chắn sẽ đạt được giác ngộ."
 
 <!--pg-->
-### N 24.8 Quan Điểm Rộng Lớn *Mahādiṭṭhisutta*
+### SN 24.8 Quan Điểm Rộng Lớn *Mahādiṭṭhisutta*
 
 Tại Sāvatthī.
 
@@ -259,7 +259,7 @@ Này các Tỷ kheo, các con nghĩ sao? Cơ thể là thường hằng hay vô 
 "Khi một thánh đệ tử đã từ bỏ hoài nghi trong sáu trường hợp này, và đã từ bỏ hoài nghi về khổ, nguồn gốc của khổ, sự chấm dứt khổ, và con đường dẫn đến sự chấm dứt khổ, họ được gọi là một thánh đệ tử đã dự lưu, không còn bị tái sinh vào cõi dữ, chắc chắn sẽ đạt được giác ngộ."
 
 <!--pg-->
-### N 24.9 Vũ Trụ Là Vĩnh Cửu *Sassatadiṭṭhisutta*
+### SN 24.9 Vũ Trụ Là Vĩnh Cửu *Sassatadiṭṭhisutta*
 
 Tại Sāvatthī.
 
@@ -280,7 +280,7 @@ Này các Tỷ kheo, các con nghĩ sao? Cơ thể là thường hằng hay vô 
 "Khi một thánh đệ tử đã từ bỏ hoài nghi trong sáu trường hợp này, và đã từ bỏ hoài nghi về khổ, nguồn gốc của khổ, sự chấm dứt khổ, và con đường dẫn đến sự chấm dứt khổ, họ được gọi là một thánh đệ tử đã dự lưu, không còn bị tái sinh vào cõi dữ, chắc chắn sẽ đạt được giác ngộ."
 
 <!--pg-->
-### N 24.10 Vũ Trụ Không Vĩnh Cửu *Asassatadiṭṭhisutta*
+### SN 24.10 Vũ Trụ Không Vĩnh Cửu *Asassatadiṭṭhisutta*
 
 Tại Sāvatthī.
 
@@ -297,35 +297,35 @@ Tại Sāvatthī.
 "Khi một thánh đệ tử đã từ bỏ hoài nghi trong sáu trường hợp này, và đã từ bỏ hoài nghi về khổ, nguồn gốc của khổ, sự chấm dứt khổ, và con đường dẫn đến sự chấm dứt khổ, họ được gọi là một thánh đệ tử đã dự lưu, không còn bị tái sinh vào cõi dữ, chắc chắn sẽ đạt được giác ngộ."
 
 <!--pg-->
-### N 24.11 Vũ Trụ Là Hữu Hạn *Antavāsutta*
+### SN 24.11 Vũ Trụ Là Hữu Hạn *Antavāsutta*
 
 Tại Sāvatthī.
 
 "Này các Tỷ kheo, khi cái gì tồn tại, do bám giữ vào cái gì và khăng khăng vào cái gì, mà tà kiến này khởi lên: 'Vũ trụ là hữu hạn'?" ...
 
 <!--pg-->
-### N 24.12 Vũ Trụ Là Vô Hạn *Anantavāsutta*
+### SN 24.12 Vũ Trụ Là Vô Hạn *Anantavāsutta*
 
 Tại Sāvatthī.
 
 "Này các Tỷ kheo, khi cái gì tồn tại, do bám giữ vào cái gì và khăng khăng vào cái gì, mà tà kiến này khởi lên: 'Vũ trụ là vô hạn'?" ...
 
 <!--pg-->
-### N 24.13 Linh Hồn và Thân Xác Là Một *Taṁjīvaṁtaṁsarīraṁsutta*
+### SN 24.13 Linh Hồn và Thân Xác Là Một *Taṁjīvaṁtaṁsarīraṁsutta*
 
 Tại Sāvatthī.
 
 "Này các Tỷ kheo, khi cái gì tồn tại, do bám giữ vào cái gì và khăng khăng vào cái gì, mà tà kiến này khởi lên: 'Linh hồn và thân xác là một'?" ...
 
 <!--pg-->
-### N 24.14 Linh Hồn và Thân Xác Là Khác Nhau *Aññaṁjīvaṁaññaṁsarīraṁsutta*
+### SN 24.14 Linh Hồn và Thân Xác Là Khác Nhau *Aññaṁjīvaṁaññaṁsarīraṁsutta*
 
 Tại Sāvatthī.
 
 "Này các Tỷ kheo, khi cái gì tồn tại, do bám giữ vào cái gì và khăng khăng vào cái gì, mà tà kiến này khởi lên: 'Linh hồn và thân xác là khác nhau'?" ...
 
 <!--pg-->
-### N 24.15 Một Bậc Giác Ngộ Vẫn Tồn Tại *Hotitathāgatosutta*
+### SN 24.15 Một Bậc Giác Ngộ Vẫn Tồn Tại *Hotitathāgatosutta*
 
 Tại Sāvatthī.
 
@@ -333,21 +333,21 @@ Tại Sāvatthī.
 ...
 
 <!--pg-->
-### N 24.16 Một Bậc Giác Ngộ Không Còn Tồn Tại *Nahotitathāgatosutta*
+### SN 24.16 Một Bậc Giác Ngộ Không Còn Tồn Tại *Nahotitathāgatosutta*
 
 Tại Sāvatthī.
 
 "Này các Tỷ kheo, khi cái gì tồn tại, do bám giữ vào cái gì và khăng khăng vào cái gì, mà tà kiến này khởi lên: 'Một Như Lai không còn tồn tại sau khi chết'?" ...
 
 <!--pg-->
-### N 24.17 Một Bậc Giác Ngộ Vừa Tồn Tại Vừa Không Tồn Tại *Hoticanacahotitathāgatosutta*
+### SN 24.17 Một Bậc Giác Ngộ Vừa Tồn Tại Vừa Không Tồn Tại *Hoticanacahotitathāgatosutta*
 
 Tại Sāvatthī.
 
 "Này các Tỷ kheo, khi cái gì tồn tại, do bám giữ vào cái gì và khăng khăng vào cái gì, mà tà kiến này khởi lên: 'Một Như Lai vừa tồn tại vừa không tồn tại sau khi chết'?" ...
 
 <!--pg-->
-### N 24.18 Một Bậc Giác Ngộ Không Tồn Tại Cũng Không Phải Không Tồn Tại *Nevahotinanahotitathāgatosutta*
+### SN 24.18 Một Bậc Giác Ngộ Không Tồn Tại Cũng Không Phải Không Tồn Tại *Nevahotinanahotitathāgatosutta*
 
 Tại Sāvatthī.
 
@@ -380,7 +380,7 @@ Này các Tỷ kheo, các con nghĩ sao? Cơ thể là thường hằng hay vô 
 <!--pg-->
 ## Chương Về Vòng Thứ Hai
 
-### N 24.19 Gió *Vātasutta*
+### SN 24.19 Gió *Vātasutta*
 
 Tại Sāvatthī.
 
@@ -409,13 +409,13 @@ Này các Tỷ kheo, các con nghĩ sao? Cơ thể là thường hằng hay vô 
 "Và như vậy, khi khổ tồn tại, do bám giữ vào khổ và khăng khăng vào khổ, tà kiến này khởi lên: 'Gió không thổi; sông không chảy; phụ nữ mang thai không sinh con; mặt trăng và các vì sao không mọc cũng không lặn, mà đứng yên như một cây cột.'"
 
 
-### N 24.20--35 Đây Là Của Tôi, V.v. *Etaṁmamādisutta*
+### SN 24.20--35 Đây Là Của Tôi, V.v. *Etaṁmamādisutta*
 
 
 *(Kể lại đầy đủ như trong các bài kinh từ 2 đến 17 của chương trước.)*
 
 <!--pg-->
-### N 24.36 Không Tồn Tại Cũng Không Phải Không Tồn Tại *Nevahotinanahotisutta*
+### SN 24.36 Không Tồn Tại Cũng Không Phải Không Tồn Tại *Nevahotinanahotisutta*
 
 Tại Sāvatthī.
 
@@ -442,49 +442,49 @@ Này các Tỷ kheo, các con nghĩ sao? Cơ thể là thường hằng hay vô 
 "Và như vậy, khi khổ tồn tại, do bám giữ vào khổ và khăng khăng vào khổ, tà kiến này khởi lên: 'Một Như Lai không tồn tại cũng không phải không tồn tại sau khi chết.'"
 
 <!--pg-->
-### N 24.37 Tự Ngã Có Hình Tướng *Rūpīattāsutta*
+### SN 24.37 Tự Ngã Có Hình Tướng *Rūpīattāsutta*
 
 Tại Sāvatthī.
 
 "Này các Tỷ kheo, khi cái gì tồn tại, do bám giữ vào cái gì và khăng khăng vào cái gì, mà tà kiến này khởi lên: 'Tự ngã có hình tướng và khỏe mạnh sau khi chết'?" ...
 
 <!--pg-->
-### N 24.38 Tự Ngã Không Có Hình Tướng *Arūpīattāsutta*
+### SN 24.38 Tự Ngã Không Có Hình Tướng *Arūpīattāsutta*
 
 Tại Sāvatthī.
 
 "Này các Tỷ kheo, khi cái gì tồn tại, do bám giữ vào cái gì và khăng khăng vào cái gì, mà tà kiến này khởi lên: 'Tự ngã không có hình tướng và khỏe mạnh sau khi chết'?" ...
 
 <!--pg-->
-### N 24.39 Tự Ngã Vừa Có Hình Tướng Vừa Không Có Hình Tướng *Rūpīcaarūpīcaattāsutta*
+### SN 24.39 Tự Ngã Vừa Có Hình Tướng Vừa Không Có Hình Tướng *Rūpīcaarūpīcaattāsutta*
 
 Tại Sāvatthī.
 
 "'Tự ngã vừa có hình tướng vừa không có hình tướng, và khỏe mạnh sau khi chết'?" ...
 
 <!--pg-->
-### N 24.40 Tự Ngã Không Có Hình Tướng Cũng Không Phải Không Có Hình Tướng *Nevarūpīnārūpīattāsutta*
+### SN 24.40 Tự Ngã Không Có Hình Tướng Cũng Không Phải Không Có Hình Tướng *Nevarūpīnārūpīattāsutta*
 
 "'Tự ngã không có hình tướng cũng không phải không có hình tướng, và khỏe mạnh sau khi chết'?"
 ...
 
 <!--pg-->
-### N 24.41 Tự Ngã Hoàn Toàn An Vui *Ekantasukhīsutta*
+### SN 24.41 Tự Ngã Hoàn Toàn An Vui *Ekantasukhīsutta*
 
 "'Tự ngã hoàn toàn an vui, và không bệnh tật sau khi chết'?" ...
 
 <!--pg-->
-### N 24.42 Chỉ Toàn Đau Khổ *Ekantadukkhīsutta*
+### SN 24.42 Chỉ Toàn Đau Khổ *Ekantadukkhīsutta*
 
 "'Tự ngã chỉ toàn đau khổ, và khỏe mạnh sau khi chết'?" ...
 
 <!--pg-->
-### N 24.43 Tự Ngã Vừa An Vui Vừa Đau Khổ *Sukhadukkhīsutta*
+### SN 24.43 Tự Ngã Vừa An Vui Vừa Đau Khổ *Sukhadukkhīsutta*
 
 "'Tự ngã vừa an vui vừa đau khổ, và khỏe mạnh sau khi chết'?" ...
 
 <!--pg-->
-### N 24.44 Tự Ngã Không An Vui Cũng Không Đau Khổ *Adukkhamasukhīsutta*
+### SN 24.44 Tự Ngã Không An Vui Cũng Không Đau Khổ *Adukkhamasukhīsutta*
 
 "'Tự ngã không an vui cũng không đau khổ, và khỏe mạnh sau khi chết'?"
 ...
@@ -492,7 +492,7 @@ Tại Sāvatthī.
 <!--pg-->
 ## Chương Về Vòng Thứ Ba
 
-### N 24.45 Gió *Navātasutta*
+### SN 24.45 Gió *Navātasutta*
 
 Tại Sāvatthī.
 
@@ -517,12 +517,12 @@ Này các Tỷ kheo, các con nghĩ sao? Cơ thể là thường hằng hay vô 
 "Và như vậy, cái gì vô thường thì là khổ. Khi cái này tồn tại, bám giữ vào nó, tà kiến này khởi lên: 'Gió không thổi; sông không chảy; phụ nữ mang thai không sinh con; mặt trăng và các vì sao không mọc cũng không lặn, mà đứng yên như một cây cột.'"
 
 
-### N 24.46--69 Đây Là Của Tôi, V.v. *Etaṁmamādisutta*
+### SN 24.46--69 Đây Là Của Tôi, V.v. *Etaṁmamādisutta*
 
 **(Kể lại đầy đủ như trong các bài kinh từ 20 đến 43 của chương thứ hai.)**
 
 <!--pg-->
-### N 24.70 Tự Ngã Không An Vui Cũng Không Đau Khổ *Adukkhamasukhīsutta*
+### SN 24.70 Tự Ngã Không An Vui Cũng Không Đau Khổ *Adukkhamasukhīsutta*
 
 Tại Sāvatthī.
 
@@ -549,7 +549,7 @@ Này các Tỷ kheo, các con nghĩ sao? Cơ thể là thường hằng hay vô 
 <!--pg-->
 ## Chương Về Vòng Thứ Tư
 
-### N 24.71 Gió *Navātasutta*
+### SN 24.71 Gió *Navātasutta*
 
 Tại Sāvatthī.
 
@@ -586,12 +586,12 @@ Tại Sāvatthī.
 Thấy vậy ... Họ hiểu rằng: '... không còn gì phải làm ở nơi này nữa.'"
 
 <!--pg-->
-### N 24.72--95 Đây Là Của Tôi, V.v. *Etaṁmamādisutta*
+### SN 24.72--95 Đây Là Của Tôi, V.v. *Etaṁmamādisutta*
 
 **(Kể lại đầy đủ như trong 24 bài kinh của chương thứ hai.)**
 
 <!--pg-->
-### N 24.96 Tự Ngã Không An Vui Cũng Không Đau Khổ *Adukkhamasukhīsutta*
+### SN 24.96 Tự Ngã Không An Vui Cũng Không Đau Khổ *Adukkhamasukhīsutta*
 
 Tại Sāvatthī.
 

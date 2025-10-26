@@ -1,4 +1,4 @@
-# 143. Lời Khuyên Dạy Ông Cấp Cô Độc
+# MN 143. Lời Khuyên Dạy Ông Cấp Cô Độc
 ***(Kinh Anāthapindikovāda)***
 
 [258] 1. Tôi nghe như vầy. Một thời Đức Thế Tôn trú tại thành Xá-vệ (Sāvatthī), trong vườn Kỳ-đà (Jeta), tại tịnh xá Cấp Cô Độc (Anāthapiṇḍika).

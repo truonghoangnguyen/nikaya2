@@ -3,7 +3,7 @@
 <!--pg-->
 ## Chương Một
 
-### N 17.1 Tàn Khốc *Dāruṇa*
+### SN 17.1 Tàn Khốc *Dāruṇa*
 
 Như vầy tôi nghe. Một thời Đức Phật ở gần
 Sāvatthī, trong Vườn của Jeta, tu viện của Anāthapiṇḍika.
@@ -19,7 +19,7 @@ danh vọng, và sự tán dương đã phát sinh, và chúng ta sẽ không đ
 là cách các con nên tu tập."
 
 <!--pg-->
-### N 17.2 Lưỡi Câu *Baḷisa*
+### SN 17.2 Lưỡi Câu *Baḷisa*
 
 Tại Sāvatthī.
 
@@ -44,7 +44,7 @@ danh vọng, và sự tán dương đã phát sinh, và chúng ta sẽ không đ
 là cách các con nên tu tập."
 
 <!--pg-->
-### N 17.3 Con Rùa *Kumma*
+### SN 17.3 Con Rùa *Kumma*
 
 Tại Sāvatthī.
 
@@ -81,7 +81,7 @@ bi kịch và tai họa, và Ác ma có thể làm với họ bất cứ điều
 Tàn khốc thay là lợi dưỡng, danh vọng, và sự tán dương. ..."
 
 <!--pg-->
-### N 17.4 Con Cừu Lông Dài *Dīghalomika*
+### SN 17.4 Con Cừu Lông Dài *Dīghalomika*
 
 Tại Sāvatthī.
 
@@ -97,7 +97,7 @@ khất thực. Vị ấy bị vướng, bị mắc, và bị kẹt ở mọi ng�
 Tàn khốc thay là lợi dưỡng, danh vọng, và sự tán dương. ..."
 
 <!--pg-->
-### N 17.5 Con Bọ Hung *Mīḷhaka*
+### SN 17.5 Con Bọ Hung *Mīḷhaka*
 
 Tại Sāvatthī.
 
@@ -123,7 +123,7 @@ vị ấy coi thường các Tỷ kheo thiện tâm khác.
 Tàn khốc thay là lợi dưỡng, danh vọng, và sự tán dương. ..."
 
 <!--pg-->
-### N 17.6 Sét Đánh *Asani*
+### SN 17.6 Sét Đánh *Asani*
 
 Tại Sāvatthī.
 
@@ -137,7 +137,7 @@ danh vọng, và sự tán dương trước khi đạt được mục đích c�
 Tàn khốc thay là lợi dưỡng, danh vọng, và sự tán dương. ..."
 
 <!--pg-->
-### N 17.7 Mũi Tên Tẩm Độc *Diddha*
+### SN 17.7 Mũi Tên Tẩm Độc *Diddha*
 
 Tại Sāvatthī.
 
@@ -151,7 +151,7 @@ danh vọng, và sự tán dương trước khi đạt được mục đích c�
 Tàn khốc thay là lợi dưỡng, danh vọng, và sự tán dương. ..."
 
 <!--pg-->
-### N 17.8 Con Chó Rừng *Siṅgāla*
+### SN 17.8 Con Chó Rừng *Siṅgāla*
 
 Tại Sāvatthī.
 
@@ -173,7 +173,7 @@ dưới gốc cây, hay ngoài trời quang. Bất cứ nơi nào vị ấy
 Tàn khốc thay là lợi dưỡng, danh vọng, và sự tán dương. ..."
 
 <!--pg-->
-### N 17.9 Gió Bão *Verambha*
+### SN 17.9 Gió Bão *Verambha*
 
 Tại Sāvatthī.
 
@@ -195,7 +195,7 @@ giống như con chim bị gió bão quăng quật.
 Tàn khốc thay là lợi dưỡng, danh vọng, và sự tán dương. ..."
 
 <!--pg-->
-### N 17.10 Kèm Theo Kệ *Sagāthaka*
+### SN 17.10 Kèm Theo Kệ *Sagāthaka*
 
 Tại Sāvatthī.
 
@@ -230,7 +230,7 @@ Tàn khốc thay là lợi dưỡng, danh vọng, và sự tán dương. ..."
 <!--pg-->
 ## Chương Hai
 
-### N 17.11 Bát Vàng *Suvaṇṇapāti*
+### SN 17.11 Bát Vàng *Suvaṇṇapāti*
 
 Tại Sāvatthī.
 
@@ -244,7 +244,7 @@ tâm họ bị lợi dưỡng, danh vọng, và sự tán dương chế ngự v�
 Tàn khốc thay là lợi dưỡng, danh vọng, và sự tán dương. ..."
 
 <!--pg-->
-### N 17.12 Nồi Bạc *Rūpiyapāti*
+### SN 17.12 Nồi Bạc *Rūpiyapāti*
 
 Tại Sāvatthī.
 
@@ -258,7 +258,7 @@ tâm họ bị lợi dưỡng, danh vọng, và sự tán dương chế ngự v�
 Tàn khốc thay là lợi dưỡng, danh vọng, và sự tán dương. ..."
 
 <!--pg-->
-### N 17.13--20 Thỏi Vàng, v.v. (Tám Kinh Suvaṇṇanikkha, v.v.)
+### SN 17.13--20 Thỏi Vàng, v.v. (Tám Kinh Suvaṇṇanikkha, v.v.)
 
 Tại Sāvatthī.
 
@@ -287,7 +287,7 @@ Tàn khốc thay là lợi dưỡng, danh vọng, và sự tán dương. ..."
 <!--pg-->
 ## Chương Ba
 
-### N 17.21 Người Nữ *Mātugāma*
+### SN 17.21 Người Nữ *Mātugāma*
 
 Tại Sāvatthī.
 
@@ -299,7 +299,7 @@ lợi dưỡng, danh vọng và sự tán dương vẫn sẽ chiếm hữu tâm 
 Tàn khốc thay là lợi dưỡng, danh vọng, và sự tán dương. ..."
 
 <!--pg-->
-### N 17.22 Người Phụ Nữ Đẹp Nhất Xứ *Kalyāṇī*
+### SN 17.22 Người Phụ Nữ Đẹp Nhất Xứ *Kalyāṇī*
 
 Tại Sāvatthī.
 
@@ -312,7 +312,7 @@ chiếm hữu tâm trí con.
 Tàn khốc thay là lợi dưỡng, danh vọng, và sự tán dương. ..."
 
 <!--pg-->
-### N 17.23 Người Con Trai Duy Nhất *Ekaputtaka*
+### SN 17.23 Người Con Trai Duy Nhất *Ekaputtaka*
 
 Tại Sāvatthī.
 
@@ -340,7 +340,7 @@ lợi dưỡng, danh vọng, và sự tán dương thì đó là một chướng
 Tàn khốc thay là lợi dưỡng, danh vọng, và sự tán dương. ..."
 
 <!--pg-->
-### N 17.24 Người Con Gái Duy Nhất *Ekadhītu*
+### SN 17.24 Người Con Gái Duy Nhất *Ekadhītu*
 
 Tại Sāvatthī.
 
@@ -369,7 +369,7 @@ lợi dưỡng, danh vọng, và sự tán dương thì đó là một chướng
 Tàn khốc thay là lợi dưỡng, danh vọng, và sự tán dương. ..."
 
 <!--pg-->
-### N 17.25 Sa-môn và Bà-la-môn *Samaṇabrāhmaṇa*
+### SN 17.25 Sa-môn và Bà-la-môn *Samaṇabrāhmaṇa*
 
 Tại Sāvatthī.
 
@@ -386,7 +386,7 @@ vị tôn giả đó nhận ra mục đích của đời sống sa-môn hay bà-
 sau khi đã tự mình chứng ngộ bằng trí tuệ."
 
 <!--pg-->
-### N 17.26 Sa-môn và Bà-la-môn (Thứ hai) *Dutiyasamaṇabrāhmaṇa*
+### SN 17.26 Sa-môn và Bà-la-môn (Thứ hai) *Dutiyasamaṇabrāhmaṇa*
 
 Tại Sāvatthī.
 
@@ -397,7 +397,7 @@ lợi dưỡng, danh vọng, và sự tán dương...
 Có những sa-môn và bà-la-môn thực sự hiểu rõ..."
 
 <!--pg-->
-### N 17.27 Sa-môn và Bà-la-môn (Thứ ba) *Tatiyasamaṇabrāhmaṇa*
+### SN 17.27 Sa-môn và Bà-la-môn (Thứ ba) *Tatiyasamaṇabrāhmaṇa*
 
 Tại Sāvatthī.
 
@@ -408,7 +408,7 @@ dẫn đến sự đoạn diệt của chúng...
 Có những sa-môn và bà-la-môn thực sự hiểu rõ..."
 
 <!--pg-->
-### N 17.28 Lớp Da *Chavi*
+### SN 17.28 Lớp Da *Chavi*
 
 Tại Sāvatthī.
 
@@ -420,7 +420,7 @@ xương, cho đến khi chạm tới tủy và tiếp tục xiết vào.
 Tàn khốc thay là lợi dưỡng, danh vọng, và sự tán dương. ..."
 
 <!--pg-->
-### N 17.29 Sợi Dây Thừng *Rajju*
+### SN 17.29 Sợi Dây Thừng *Rajju*
 
 Tại Sāvatthī.
 
@@ -441,7 +441,7 @@ chạm tới tủy và tiếp tục xiết vào.
 Tàn khốc thay là lợi dưỡng, danh vọng, và sự tán dương. ..."
 
 <!--pg-->
-### N 17.30 Một Tỷ Kheo Đã Đoạn Tận Lậu Hoặc *Bhikkhu*
+### SN 17.30 Một Tỷ Kheo Đã Đoạn Tận Lậu Hoặc *Bhikkhu*
 
 Tại Sāvatthī.
 
@@ -466,7 +466,7 @@ là cách các con nên tu tập."
 <!--pg-->
 ## Chương Bốn
 
-### N 17.31 Chia Rẽ *Bhindi*
+### SN 17.31 Chia Rẽ *Bhindi*
 
 Tại Sāvatthī.
 
@@ -478,7 +478,7 @@ danh vọng, và sự tán dương chế ngự và lấn át.
 Tàn khốc thay là lợi dưỡng, danh vọng, và sự tán dương. ..."
 
 <!--pg-->
-### N 17.32 Căn Lành *Kusalamūla*
+### SN 17.32 Căn Lành *Kusalamūla*
 
 Tại Sāvatthī.
 
@@ -490,7 +490,7 @@ danh vọng, và sự tán dương chế ngự và lấn át.
 Tàn khốc thay là lợi dưỡng, danh vọng, và sự tán dương. ..."
 
 <!--pg-->
-### N 17.33 Thiện Pháp *Kusaladhamma*
+### SN 17.33 Thiện Pháp *Kusaladhamma*
 
 Tại Sāvatthī.
 
@@ -502,7 +502,7 @@ danh vọng, và sự tán dương chế ngự và lấn át.
 Tàn khốc thay là lợi dưỡng, danh vọng, và sự tán dương. ..."
 
 <!--pg-->
-### N 17.34 Bạch Pháp *Sukkadhamma*
+### SN 17.34 Bạch Pháp *Sukkadhamma*
 
 Tại Sāvatthī.
 
@@ -514,7 +514,7 @@ danh vọng, và sự tán dương chế ngự và lấn át.
 Tàn khốc thay là lợi dưỡng, danh vọng, và sự tán dương. ..."
 
 <!--pg-->
-### N 17.35 Không Lâu Sau Khi Rời Đi *Acirapakkanta*
+### SN 17.35 Không Lâu Sau Khi Rời Đi *Acirapakkanta*
 
 Một thời Đức Phật ở gần Rājagaha, trên
 núi Linh Thứu (Gijjhakūṭa), không lâu sau khi Devadatta đã rời đi. Tại đó,
@@ -541,7 +541,7 @@ tu tập."
 > như bào thai hủy hoại con la."
 
 <!--pg-->
-### N 17.36 Năm Trăm Cỗ Xe *Pañcarathasata*
+### SN 17.36 Năm Trăm Cỗ Xe *Pañcarathasata*
 
 Gần Rājagaha, trong Trúc Lâm, nơi nuôi sóc.
 
@@ -569,7 +569,7 @@ chứ không phải tăng trưởng, trong các thiện pháp.
 Tàn khốc thay là lợi dưỡng, danh vọng, và sự tán dương. ..."
 
 <!--pg-->
-### N 17.37 Mẹ *Mātu*
+### SN 17.37 Mẹ *Mātu*
 
 Tại Sāvatthī.
 
@@ -588,7 +588,7 @@ danh vọng, và sự tán dương đã phát sinh, và chúng ta sẽ không đ
 là cách các con nên tu tập."
 
 <!--pg-->
-### N 17.38--43 Cha, v.v. (Sáu Kinh Pitu, v.v.)
+### SN 17.38--43 Cha, v.v. (Sáu Kinh Pitu, v.v.)
 
 Tại Sāvatthī.
 

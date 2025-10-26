@@ -1,4 +1,4 @@
-# 99. Kinh Subha
+# MN 99. Kinh Subha
 ***(Subha Sutta)***
 
 1\.  Tôi nghe như vầy. Một thời Đức Thế Tôn (Blessed One - Bậc được tôn kính, Giác ngộ) trú tại thành Xá-vệ (Sāvatthī), trong vườn ông Jeta (Kỳ-đà), khu vườn của ông Anāthapiṇḍika (Cấp Cô Độc).

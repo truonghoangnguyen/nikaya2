@@ -1,4 +1,4 @@
-# 88. Áo Choàng Ngoài
+# MN 88. Áo Choàng Ngoài
 ***(Kinh Bāhitika)***
 
 1\.  Như vầy tôi nghe. Một thời Đức Thế Tôn trú ở Xá-vệ (Sāvatthī), tại vườn ông Jeta (Kỳ-đà), khu vườn của ông Anāthapiṇḍika (Cấp Cô Độc).

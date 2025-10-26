@@ -1,4 +1,4 @@
-# 119. Kinh Niệm Thân
+# MN 119. Kinh Niệm Thân
 ***(Kāyagatāsati Sutta)***
 
 1\.  Tôi nghe như vầy. Một thời Đức Thế Tôn trú tại thành Xá-vệ (Sāvatthī), trong vườn Kỳ Đà (Jeta's Grove), tu viện của ông Cấp Cô Độc (Anāthapiṇḍika).

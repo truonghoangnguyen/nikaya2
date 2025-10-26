@@ -3,7 +3,7 @@
 <!--pg-->
 ## The Chapter on Gods of the Clouds
 
-### N 32.1 Plain Version *Suddhikasutta*
+### SN 32.1 Plain Version *Suddhikasutta*
 
 At Sāvatthī.
 
@@ -14,7 +14,7 @@ warm clouds, thunder clouds, windy clouds, and rainy clouds. These are
 called the gods of the clouds."
 
 <!--pg-->
-### N 32.2 Good Conduct *Sucaritasutta*
+### SN 32.2 Good Conduct *Sucaritasutta*
 
 At Sāvatthī.
 
@@ -34,7 +34,7 @@ why someone, when their body breaks up, after death, is reborn in the
 company of the gods of the clouds."
 
 <!--pg-->
-### N 32.3--12 Ten Discourses On How Giving Helps to Become a Cool Cloud God *Sītavalāhakadānūpakārasuttadasaka*
+### SN 32.3--12 Ten Discourses On How Giving Helps to Become a Cool Cloud God *Sītavalāhakadānūpakārasuttadasaka*
 
 At Sāvatthī.
 
@@ -55,7 +55,7 @@ breaks up, after death, is reborn in the company of the gods of cool
 clouds."
 
 <!--pg-->
-### N 32.13--52 How Giving Helps to Become a Warm Cloud God, Etc. *Uṇhavalāhakadānūpakārasutta*
+### SN 32.13--52 How Giving Helps to Become a Warm Cloud God, Etc. *Uṇhavalāhakadānūpakārasutta*
 
 At Sāvatthī.
 
@@ -75,7 +75,7 @@ is the cause, this is the reason why someone, when their body breaks up,
 after death, is reborn in the company of the gods of rainy clouds."
 
 <!--pg-->
-### N 32.53 Gods of the Cool Clouds *Sītavalāhakasutta*
+### SN 32.53 Gods of the Cool Clouds *Sītavalāhakasutta*
 
 At Sāvatthī.
 
@@ -90,7 +90,7 @@ accordance with their wish, it becomes cool. This is the cause, this is
 the reason why sometimes it becomes cool."
 
 <!--pg-->
-### N 32.54 Gods of the Warm Clouds *Uṇhavalāhakasutta*
+### SN 32.54 Gods of the Warm Clouds *Uṇhavalāhakasutta*
 
 At Sāvatthī.
 
@@ -105,7 +105,7 @@ accordance with their wish, it becomes warm. This is the cause, this is
 the reason why sometimes it becomes warm."
 
 <!--pg-->
-### N 32.55 Gods of the Storm Clouds *Abbhavalāhakasutta*
+### SN 32.55 Gods of the Storm Clouds *Abbhavalāhakasutta*
 
 At Sāvatthī.
 
@@ -120,7 +120,7 @@ Then, in accordance with their wish, it becomes stormy. This is the
 cause, this is the reason why sometimes it becomes stormy."
 
 <!--pg-->
-### N 32.56 Gods of the Windy Clouds *Vātavalāhakasutta*
+### SN 32.56 Gods of the Windy Clouds *Vātavalāhakasutta*
 
 At Sāvatthī.
 
@@ -135,7 +135,7 @@ Then, in accordance with their wish, it becomes windy. This is the
 cause, this is the reason why sometimes it becomes windy."
 
 <!--pg-->
-### N 32.57 Gods of the Rainy Clouds *Vassavalāhakasutta*
+### SN 32.57 Gods of the Rainy Clouds *Vassavalāhakasutta*
 
 At Sāvatthī.
 

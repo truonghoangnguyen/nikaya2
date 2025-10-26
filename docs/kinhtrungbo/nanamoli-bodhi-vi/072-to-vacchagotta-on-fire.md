@@ -1,4 +1,4 @@
-# 72. Kinh Ví Dụ Ngọn Lửa cho Vacchagotta
+# MN 72. Kinh Ví Dụ Ngọn Lửa cho Vacchagotta
 ***(Aggivacchagotta Sutta)***
 
 1\.  Như vầy tôi nghe. Một thời Đức Thế Tôn (Blessed One - Bậc Giác Ngộ được tôn quý) trú tại Sāvatthī (Xá-vệ), trong Vườn Jeta (Kỳ-đà), Khu vườn của Anāthapiṇḍika (Cấp Cô Độc).

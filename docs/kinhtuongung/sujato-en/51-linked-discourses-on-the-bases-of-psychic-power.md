@@ -3,7 +3,7 @@
 <!--pg-->
 ## The Chapter at the Cāpāla Shrine
 
-### N 51.1 From the Near Shore *Apārasutta*
+### SN 51.1 From the Near Shore *Apārasutta*
 
 "Mendicants, when these four bases of psychic power are developed and
 cultivated they lead to going from the near shore to the far shore. What
@@ -17,7 +17,7 @@ bases of psychic power are developed and cultivated they lead to going
 from the near shore to the far shore."
 
 <!--pg-->
-### N 51.2 Missed Out *Viraddhasutta*
+### SN 51.2 Missed Out *Viraddhasutta*
 
 "Mendicants, whoever has missed out on the four bases of psychic power
 has missed out on the noble path to the complete ending of suffering.
@@ -31,7 +31,7 @@ Whoever has undertaken these four bases of psychic power has undertaken
 the noble path to the complete ending of suffering."
 
 <!--pg-->
-### N 51.3 A Noble One *Ariyasutta*
+### SN 51.3 A Noble One *Ariyasutta*
 
 "Mendicants, when these four bases of psychic power are developed and
 cultivated they are noble and emancipating, and bring one who practices
@@ -43,7 +43,7 @@ cultivated they are noble and emancipating, and bring one who practices
 them to the complete ending of suffering."
 
 <!--pg-->
-### N 51.4 Disillusionment *Nibbidāsutta*
+### SN 51.4 Disillusionment *Nibbidāsutta*
 
 "Mendicants, these four bases of psychic power, when developed and
 cultivated, lead solely to disillusionment, dispassion, cessation,
@@ -55,7 +55,7 @@ cultivated, lead solely to disillusionment, dispassion, cessation,
 peace, insight, awakening, and extinguishment."
 
 <!--pg-->
-### N 51.5 Partly *Iddhipadesasutta*
+### SN 51.5 Partly *Iddhipadesasutta*
 
 "Mendicants, all the ascetics and brahmins in the past who have partly
 manifested psychic powers have done so by developing and cultivating the
@@ -77,7 +77,7 @@ partly manifesting psychic powers do so by developing and cultivating
 these four bases of psychic power."
 
 <!--pg-->
-### N 51.6 Completely *Samattasutta*
+### SN 51.6 Completely *Samattasutta*
 
 "Mendicants, all the ascetics and brahmins in the past who have
 completely manifested psychic powers have done so by developing and
@@ -100,7 +100,7 @@ completely manifesting psychic powers do so by developing and
 cultivating these four bases of psychic power."
 
 <!--pg-->
-### N 51.7 A Mendicant *Bhikkhusutta*
+### SN 51.7 A Mendicant *Bhikkhusutta*
 
 "Mendicants, all the mendicants in the past ... future ... present who
 realize the undefiled freedom of heart and freedom by wisdom in this
@@ -117,7 +117,7 @@ with their own insight due to the ending of defilements, do so by
 developing and cultivating these four bases of psychic power."
 
 <!--pg-->
-### N 51.8 Awakened *Buddhasutta*
+### SN 51.8 Awakened *Buddhasutta*
 
 "Mendicants, there are these four bases of psychic power. What four?
 It's when a mendicant develops the basis of psychic power that has
@@ -128,7 +128,7 @@ psychic power that the Realized One is called 'the perfected one, the
 fully awakened Buddha'."
 
 <!--pg-->
-### N 51.9 Knowledge *Ñāṇasutta*
+### SN 51.9 Knowledge *Ñāṇasutta*
 
 "Mendicants: 'This is the basis of psychic power that has immersion due
 to enthusiasm, and active effort.' Such was the vision, knowledge,
@@ -158,7 +158,7 @@ Such was the vision, knowledge, wisdom, realization, and light that
 arose in me regarding teachings not learned before from another."
 
 <!--pg-->
-### N 51.10 At the Cāpāla Shrine *Cetiyasutta*
+### SN 51.10 At the Cāpāla Shrine *Cetiyasutta*
 
 So I have heard. At one time the Buddha was staying near
 Vesālī, at the Great Wood, in the hall with the peaked
@@ -281,7 +281,7 @@ heartfelt sentiment:
 <!--pg-->
 ## The Chapter on Shaking the Stilt Longhouse
 
-### N 51.11 Before *Pubbasutta*
+### SN 51.11 Before *Pubbasutta*
 
 At Sāvatthī.
 
@@ -368,7 +368,7 @@ wisdom in this very life. And they live having realized it with their
 own insight due to the ending of defilements."
 
 <!--pg-->
-### N 51.12 Very Fruitful *Mahapphalasutta*
+### SN 51.12 Very Fruitful *Mahapphalasutta*
 
 "Mendicants, when the four bases of psychic power are developed and
 cultivated they're very fruitful and beneficial. How so? It's when a
@@ -403,7 +403,7 @@ wisdom in this very life. And they live having realized it with their
 own insight due to the ending of defilements."
 
 <!--pg-->
-### N 51.13 Immersion Due to Enthusiasm *Chandasamādhisutta*
+### SN 51.13 Immersion Due to Enthusiasm *Chandasamādhisutta*
 
 "Mendicants, if a mendicant depends on enthusiasm in order to gain
 immersion, gain unification of mind, this is called immersion due to
@@ -452,7 +452,7 @@ active efforts. This is called the basis of psychic power that has
 immersion due to inquiry, and active effort."
 
 <!--pg-->
-### N 51.14 With Moggallāna *Moggallānasutta*
+### SN 51.14 With Moggallāna *Moggallānasutta*
 
 So I have heard. At one time the Buddha was staying near
 Sāvatthī in the stilt longhouse of Migāra's
@@ -522,7 +522,7 @@ heart and freedom by wisdom in this very life. And he lives having
 realized it with his own insight due to the ending of defilements."
 
 <!--pg-->
-### N 51.15 The Brahmin Uṇṇābha *Uṇṇābhabrāhmaṇasutta*
+### SN 51.15 The Brahmin Uṇṇābha *Uṇṇābhabrāhmaṇasutta*
 
 So I have heard. At one time Venerable Ānanda was staying
 near Kosambī, in Ghosita's Monastery. Then
@@ -595,7 +595,7 @@ mendicant Saṅgha. From this day forth, may the worthy
 Ānanda remember me as a lay follower who has gone for refuge for life."
 
 <!--pg-->
-### N 51.16 Ascetics and Brahmins (1st) *Paṭhamasamaṇabrāhmaṇasutta*
+### SN 51.16 Ascetics and Brahmins (1st) *Paṭhamasamaṇabrāhmaṇasutta*
 
 "Mendicants, all the ascetics and brahmins in the past, future, or
 present who are mighty and powerful have become so by developing and
@@ -608,7 +608,7 @@ past, future, or present who are mighty and powerful have become so by
 developing and cultivating the four bases of psychic power."
 
 <!--pg-->
-### N 51.17 Ascetics and Brahmins (2nd) *Dutiyasamaṇabrāhmaṇasutta*
+### SN 51.17 Ascetics and Brahmins (2nd) *Dutiyasamaṇabrāhmaṇasutta*
 
 "Mendicants, all the ascetics and brahmins in the past, future, or
 present who wield the various kinds of psychic power---multiplying
@@ -630,7 +630,7 @@ controlling their body as far as the realm of divinity---do so by
 developing and cultivating these four bases of psychic power."
 
 <!--pg-->
-### N 51.18 A Mendicant *Bhikkhusutta*
+### SN 51.18 A Mendicant *Bhikkhusutta*
 
 "Mendicants, by developing and cultivating the four bases of psychic
 power, a mendicant realizes the undefiled freedom of heart and freedom
@@ -645,7 +645,7 @@ heart and freedom by wisdom in this very life. And they live having
 realized it with their own insight due to the ending of defilements."
 
 <!--pg-->
-### N 51.19 A Teaching on Psychic Power, Etc. *Iddhādidesanāsutta*
+### SN 51.19 A Teaching on Psychic Power, Etc. *Iddhādidesanāsutta*
 
 "Mendicants, I will teach you psychic power, the bases of psychic power,
 the development of the bases of psychic power, and the practice that
@@ -671,7 +671,7 @@ effort, right mindfulness, and right immersion. This is called the
 practice that leads to the development of the bases of psychic power."
 
 <!--pg-->
-### N 51.20 Analysis *Vibhaṅgasutta*
+### SN 51.20 Analysis *Vibhaṅgasutta*
 
 "Mendicants, when the four bases of psychic power are developed and
 cultivated they're very fruitful and beneficial.
@@ -774,7 +774,7 @@ defilements."
 <!--pg-->
 ## The Chapter on the Iron Ball
 
-### N 51.21 The Path *Maggasutta*
+### SN 51.21 The Path *Maggasutta*
 
 At Sāvatthī.
 
@@ -812,7 +812,7 @@ own insight due to the ending of defilements."
 **(The six direct knowledges should be told in full.)**
 
 <!--pg-->
-### N 51.22 The Iron Ball *Ayoguḷasutta*
+### SN 51.22 The Iron Ball *Ayoguḷasutta*
 
 At Sāvatthī.
 
@@ -866,7 +866,7 @@ multiplying himself and becoming one again ... controlling the body as
 far as the realm of divinity."
 
 <!--pg-->
-### N 51.23 A Mendicant *Bhikkhusutta*
+### SN 51.23 A Mendicant *Bhikkhusutta*
 
 "Mendicants, there are these four bases of psychic power. What four?
 It's when a mendicant develops the basis of psychic power that has
@@ -878,7 +878,7 @@ in this very life. And they live having realized it with their own
 insight due to the ending of defilements."
 
 <!--pg-->
-### N 51.24 Plain Version *Suddhikasutta*
+### SN 51.24 Plain Version *Suddhikasutta*
 
 "Mendicants, there are these four bases of psychic power. What four?
 It's when a mendicant develops the basis of psychic power that has
@@ -886,7 +886,7 @@ immersion due to enthusiasm ... energy ... mental development ...
 inquiry, and active effort. These are the four bases of psychic power."
 
 <!--pg-->
-### N 51.25 Fruits (1st) *Paṭhamaphalasutta*
+### SN 51.25 Fruits (1st) *Paṭhamaphalasutta*
 
 "Mendicants, there are these four bases of psychic power. What four?
 It's when a mendicant develops the basis of psychic power that has
@@ -897,7 +897,7 @@ one of two results can be expected: enlightenment in this very life, or
 if there's something left over, non-return."
 
 <!--pg-->
-### N 51.26 Fruits (2nd) *Dutiyaphalasutta*
+### SN 51.26 Fruits (2nd) *Dutiyaphalasutta*
 
 "Mendicants, there are these four bases of psychic power. What four?
 It's when a mendicant develops the basis of psychic power that has
@@ -916,7 +916,7 @@ realm. Because of developing and cultivating these four bases of psychic
 power, these seven fruits and benefits can be expected."
 
 <!--pg-->
-### N 51.27 With Ānanda (1st) *Paṭhamaānandasutta*
+### SN 51.27 With Ānanda (1st) *Paṭhamaānandasutta*
 
 At Sāvatthī.
 
@@ -946,7 +946,7 @@ effort, right mindfulness, and right immersion. This is called the
 practice that leads to the development of the bases of psychic power."
 
 <!--pg-->
-### N 51.28 With Ānanda (2nd) *Dutiyaānandasutta*
+### SN 51.28 With Ānanda (2nd) *Dutiyaānandasutta*
 
 The Buddha said to Venerable Ānanda: "Ānanda, what is psychic power?
 What is the basis of psychic power? What is the development of the bases
@@ -975,7 +975,7 @@ effort, right mindfulness, and right immersion. This is called the
 practice that leads to the development of the bases of psychic power."
 
 <!--pg-->
-### N 51.29 Several Mendicants (1st) *Paṭhamabhikkhusutta*
+### SN 51.29 Several Mendicants (1st) *Paṭhamabhikkhusutta*
 
 Then several mendicants went up to the Buddha, bowed, sat down to one
 side, and said to him:
@@ -1003,7 +1003,7 @@ effort, right mindfulness, and right immersion. This is called the
 practice that leads to the development of the bases of psychic power."
 
 <!--pg-->
-### N 51.30 Several Mendicants (2nd) *Dutiyabhikkhusutta*
+### SN 51.30 Several Mendicants (2nd) *Dutiyabhikkhusutta*
 
 Then several mendicants went up to the Buddha ... The Buddha said to
 them:
@@ -1035,7 +1035,7 @@ effort, right mindfulness, and right immersion. This is called the
 practice that leads to the development of the bases of psychic power."
 
 <!--pg-->
-### N 51.31 About Moggallāna *Moggallānasutta*
+### SN 51.31 About Moggallāna *Moggallānasutta*
 
 There the Buddha addressed the mendicants: "What do you think,
 mendicants? What things has the mendicant Moggallāna
@@ -1075,7 +1075,7 @@ heart and freedom by wisdom in this very life. And he lives having
 realized it with his own insight due to the ending of defilements."
 
 <!--pg-->
-### N 51.32 The Realized One *Tathāgatasutta*
+### SN 51.32 The Realized One *Tathāgatasutta*
 
 There the Buddha addressed the mendicants: "What do you think,
 mendicants? What things has the Realized One developed and cultivated so
@@ -1122,7 +1122,7 @@ insight due to the ending of defilements."
 <!--pg-->
 ## The Chapter of Abbreviated Texts on the Ganges
 
-### N 51.33--44 The Ganges River, Etc. *Gaṅgāpeyyālavagga*
+### SN 51.33--44 The Ganges River, Etc. *Gaṅgāpeyyālavagga*
 
 "Mendicants, the Ganges river slants, slopes, and inclines to the east.
 In the same way, a mendicant who develops and cultivates the four bases
@@ -1144,7 +1144,7 @@ psychic power slants, slopes, and inclines to extinguishment."
 <!--pg-->
 ## The Chapter on Diligence
 
-### N 51.45--54 Diligence *Appamādavagga*
+### SN 51.45--54 Diligence *Appamādavagga*
 
 **(Tell in full as in the chapter on diligence at SN 45.139--148.)**
 
@@ -1156,7 +1156,7 @@ psychic power slants, slopes, and inclines to extinguishment."
 <!--pg-->
 ## The Chapter on Hard Work
 
-### N 51.55--66 Hard Work *Balakaraṇīyavagga*
+### SN 51.55--66 Hard Work *Balakaraṇīyavagga*
 
 **(Tell in full as in the chapter on hard work at SN 45.149--160.)**
 
@@ -1168,7 +1168,7 @@ psychic power slants, slopes, and inclines to extinguishment."
 <!--pg-->
 ## The Chapter on Searches
 
-### N 51.67--76 Searches *Esanāvagga*
+### SN 51.67--76 Searches *Esanāvagga*
 
 **(Tell in full as in the chapter on searches at SN 45.161--170.)**
 
@@ -1180,7 +1180,7 @@ psychic power slants, slopes, and inclines to extinguishment."
 <!--pg-->
 ## The Chapter on Floods
 
-### N 51.77--86 Floods, Etc. *Oghavagga*
+### SN 51.77--86 Floods, Etc. *Oghavagga*
 
 "Mendicants, there are five higher fetters. What five? Desire for
 rebirth in the realm of luminous form, desire for rebirth in the

@@ -1,4 +1,4 @@
-# 43. Đại Kinh Vấn Đáp
+# MN 43. Đại Kinh Vấn Đáp
 ***(Mahāvedalla Sutta)***
 
 [292] 1\. Tôi nghe như vầy. Một thời Đức Thế Tôn trú tại thành Xá-vệ (Sāvatthī), trong Rừng Jeta, khu vườn của ông Anāthapiṇḍika (Cấp Cô Độc).
@@ -74,9 +74,9 @@ hiểu biết một cách trí tuệ: 'Đây là nguồn gốc của khổ'; ng�
 
 "Thưa hiền giả, có hai điều kiện cho sự phát sinh của chánh kiến: tiếng nói của người khác (voice of another - sự chỉ dẫn, lời dạy từ người khác, thường là bậc thiện tri thức) và như lý tác ý (wise attention - sự chú ý đúng đắn, hướng tâm đến gốc rễ vấn đề, yoniso manasikāra). Đây là hai điều kiện cho sự phát sinh của chánh kiến." [^440]
 
-14\. "Thưa hiền giả, chánh kiến được hỗ trợ bởi bao nhiêu yếu tố khi nó có tâm giải thoát (deliverance of mind - sự giải thoát khỏi các trói buộc, ô nhiễm của tâm, cetovimutti) làm kết quả, tâm giải thoát làm kết quả và lợi ích, khi nó có tuệ giải thoát (deliverance by wisdom - sự giải thoát nhờ trí tuệ thấy rõ sự thật, paññāvimutti) làm kết quả, tuệ giải thoát làm kết quả và lợi ích?"
+14\. "Thưa hiền giả, chánh kiến được hỗ trợ bởi bao nhiêu yếu tố để có *quả là tâm giải thoát* (deliverance of mind - sự giải thoát khỏi các trói buộc, ô nhiễm của tâm, cetovimutti), có *lợi ích là tâm giải thoát*; để  có *quả là tuệ giải thoát* (deliverance by wisdom - sự giải thoát nhờ trí tuệ thấy rõ sự thật, paññāvimutti), có *lợi ích là tuệ giải thoát*?"
 
-"Thưa hiền giả, chánh kiến được hỗ trợ bởi năm yếu tố khi nó có tâm giải thoát làm kết quả, tâm giải thoát làm kết quả và lợi ích, khi nó có tuệ giải thoát làm kết quả, tuệ giải thoát làm kết quả và lợi ích. Ở đây, thưa hiền giả, chánh kiến được hỗ trợ bởi giới (đạo đức), văn (học hỏi), tư (thảo luận/suy nghiệm), định (sự tĩnh lặng), và tuệ (minh sát/trí tuệ). Chánh kiến được hỗ trợ bởi năm yếu tố này có tâm giải thoát làm kết quả, tâm giải thoát làm kết quả và lợi ích; nó có tuệ giải thoát làm kết quả, tuệ giải thoát làm kết quả và lợi ích." [^441]
+"Thưa hiền giả, chánh kiến được hỗ trợ bởi năm yếu tố để nó có quả là tâm giải thoát, có lợi ích là tâm giải thoát; có quả là tuệ giải thoát, có lợi ích là tuệ giải thoát. Ở đây, thưa hiền giả, chánh kiến được hỗ trợ bởi giới (đạo đức), văn (học hỏi), tư (thảo luận/suy nghiệm), định (sự tĩnh lặng), và tuệ (minh sát/trí tuệ). Chánh kiến được hỗ trợ bởi năm yếu tố này có tâm giải thoát làm kết quả, tâm giải thoát làm kết quả và lợi ích; nó có tuệ giải thoát làm kết quả, tuệ giải thoát làm kết quả và lợi ích." [^441]
 
 <!--pg-->
 **(HỮU)**
@@ -98,7 +98,7 @@ hiểu biết một cách trí tuệ: 'Đây là nguồn gốc của khổ'; ng�
 
 18\. "Thưa hiền giả, sơ thiền (first jhāna - tầng thiền thứ nhất trong thiền định) là gì?"
 
-"Ở đây, thưa hiền giả, hoàn toàn ly dục, ly bất thiện pháp, một tỳ kheo (bhikkhus - nhà sư nam trong Phật giáo Theravada) nhập và trú vào sơ thiền, một trạng thái có tầm (applied thought - sự hướng tâm đến đối tượng thiền, vitakka) và tứ (sustained thought - sự duy trì tâm trên đối tượng thiền, vicāra), với hỷ (rapture - niềm vui thích, phấn khởi trong thiền, pīti) và lạc (pleasure - cảm giác dễ chịu, an lạc trong thiền, sukha) do ly dục sinh. Đây được gọi là sơ thiền."
+"Ở đây, thưa hiền giả, hoàn toàn ly dục, ly bất thiện pháp, một tỳ kheo nhập và trú vào sơ thiền, một trạng thái có tầm (applied thought - sự hướng tâm đến đối tượng thiền, vitakka) và tứ (sustained thought - sự duy trì tâm trên đối tượng thiền, vicāra), với hỷ (rapture - niềm vui thích, phấn khởi trong thiền, pīti) và lạc (pleasure - cảm giác dễ chịu, an lạc trong thiền, sukha) do ly dục sinh. Đây được gọi là sơ thiền."
 
 19\. "Thưa hiền giả, sơ thiền có bao nhiêu yếu tố?"
 

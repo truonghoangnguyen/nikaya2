@@ -3,7 +3,7 @@
 <!--pg-->
 ## Chương về Vô Minh
 
-### N 45.1 Vô Minh *Avijjāsutta*
+### SN 45.1 Vô Minh *Avijjāsutta*
 
 Như vầy tôi nghe. Một thời, Đức Phật đang ở gần thành Xá-vệ, tại Tịnh xá Cấp Cô Độc trong Vườn cây Kỳ-đà. Tại đó, Đức Phật gọi các Tỷ kheo: "Này các Tỷ kheo!"
 
@@ -14,7 +14,7 @@ Như vầy tôi nghe. Một thời, Đức Phật đang ở gần thành Xá-v�
 *Minh* (Knowledge / sự sáng suốt) đi trước sự đạt được các *phẩm chất thiện* (skillful qualities / các đặc tính tốt), với sự xấu hổ và sợ điều ác theo sau. Một bậc hiền trí, vững vàng trong minh, sẽ nảy sinh cái nhìn đúng. Nhìn đúng nảy sinh suy nghĩ đúng. Suy nghĩ đúng nảy sinh lời nói đúng. Lời nói đúng nảy sinh hành động đúng. Hành động đúng nảy sinh sống đúng. Sống đúng nảy sinh nỗ lực đúng. Nỗ lực đúng nảy sinh niệm đúng. Niệm đúng nảy sinh định đúng."
 
 <!--pg-->
-### N 45.2 Một Nửa Đời Sống Tâm Linh *Upaḍḍhasutta*
+### SN 45.2 Một Nửa Đời Sống Tâm Linh *Upaḍḍhasutta*
 
 Như vầy tôi nghe. Một thời, Đức Phật đang ở trong xứ của dòng họ Thích-ca, nơi có một thị trấn tên là Townsville. Khi ấy, Tôn giả A-nan đến gặp Đức Phật, đảnh lễ, rồi ngồi sang một bên và thưa với Ngài:
 
@@ -27,7 +27,7 @@ Và làm thế nào một Tỷ kheo có bạn lành lại phát triển và tu t
 Và đây là một cách khác để hiểu tại sao bạn lành là toàn bộ đời sống tâm linh. Bởi vì, nhờ nương tựa vào ta như một người bạn lành, các chúng sanh phải chịu sanh, già, và chết, phải chịu sầu, bi, khổ, ưu, và não được giải thoát khỏi tất cả những điều này. Đây là một cách khác để hiểu tại sao bạn lành là toàn bộ đời sống tâm linh."
 
 <!--pg-->
-### N 45.3 Xá-lợi-phất *Sāriputtasutta*
+### SN 45.3 Xá-lợi-phất *Sāriputtasutta*
 
 Tại Xá-vệ.
 
@@ -42,7 +42,7 @@ Khi ấy, Tôn giả Xá-lợi-phất đến gặp Đức Phật, đảnh lễ, 
 Và đây là một cách khác để hiểu tại sao bạn lành là toàn bộ đời sống tâm linh. Bởi vì, nhờ nương tựa vào ta như một người bạn lành, các chúng sanh phải chịu sanh, già, và chết, phải chịu sầu, bi, khổ, ưu, và não được giải thoát khỏi tất cả những điều này. Đây là một cách khác để hiểu tại sao bạn lành là toàn bộ đời sống tâm linh."
 
 <!--pg-->
-### N 45.4 Về Bà-la-môn Jānussoṇi *Jāṇussoṇibrāhmaṇasutta*
+### SN 45.4 Về Bà-la-môn Jānussoṇi *Jāṇussoṇibrāhmaṇasutta*
 
 Tại Xá-vệ.
 
@@ -85,7 +85,7 @@ Rồi Đấng Thiêng Liêng, Bậc Đạo Sư, nói tiếp:
 > chắc chắn sẽ giành chiến thắng."
 
 <!--pg-->
-### N 45.5 Mục Đích Là Gì *Kimatthiyasutta*
+### SN 45.5 Mục Đích Là Gì *Kimatthiyasutta*
 
 Tại Xá-vệ.
 
@@ -102,7 +102,7 @@ Nếu các du sĩ ngoại đạo hỏi các con: 'Có con đường và phương
 Và con đường đó là gì? Đó chính là con đường tám nhánh cao quý này, tức là: nhìn đúng, suy nghĩ đúng, lời nói đúng, hành động đúng, sống đúng, nỗ lực đúng, niệm đúng, và định đúng. Đây là con đường và phương pháp thực hành để *hiểu biết hoàn toàn* khổ đau. Khi bị các du sĩ ngoại đạo hỏi, đó là cách các con nên trả lời họ."
 
 <!--pg-->
-### N 45.6 Một Tỷ Kheo (Thứ Nhất) *Paṭhamaaññatarabhikkhusutta*
+### SN 45.6 Một Tỷ Kheo (Thứ Nhất) *Paṭhamaaññatarabhikkhusutta*
 
 Tại Xá-vệ.
 
@@ -111,7 +111,7 @@ Khi ấy, một Tỷ kheo đến gặp Đức Phật... và hỏi Ngài: "Bạch
 "Này Tỷ kheo, con đường tâm linh chính là con đường tám nhánh cao quý này, tức là: nhìn đúng, suy nghĩ đúng, lời nói đúng, hành động đúng, sống đúng, nỗ lực đúng, niệm đúng, và định đúng. Sự chấm dứt tham, sân, và si. Đây là đỉnh cao của con đường tâm linh."
 
 <!--pg-->
-### N 45.7 Một Tỷ Kheo (Thứ Hai) *Dutiyaaññatarabhikkhusutta*
+### SN 45.7 Một Tỷ Kheo (Thứ Hai) *Dutiyaaññatarabhikkhusutta*
 
 Tại Xá-vệ.
 
@@ -128,7 +128,7 @@ Khi Ngài nói điều này, Tỷ kheo ấy thưa với Đức Phật:
 "Sự chấm dứt tham, sân, và si. Đây được gọi là sự tự do khỏi cái chết. Con đường dẫn đến sự tự do khỏi cái chết chính là con đường tám nhánh cao quý này, tức là: nhìn đúng, suy nghĩ đúng, lời nói đúng, hành động đúng, sống đúng, nỗ lực đúng, niệm đúng, và định đúng."
 
 <!--pg-->
-### N 45.8 Phân Tích *Vibhaṅgasutta*
+### SN 45.8 Phân Tích *Vibhaṅgasutta*
 
 Tại Xá-vệ.
 
@@ -155,7 +155,7 @@ Và niệm đúng là gì? Đó là khi một Tỷ kheo thiền định bằng c
 Và định đúng là gì? Đó là khi một Tỷ kheo, hoàn toàn xa lánh các *tham dục* (sensual desire / các ham muốn thuộc giác quan), xa lánh các phẩm chất bất thiện, nhập và an trú trong *tầng thiền thứ nhất* (first absorption / *sơ thiền*), có sự hân hoan và an vui sinh ra từ sự ly dục, trong khi *hướng ý nghĩ đến một đề tài và quan sát đề tài đó* (placing the mind and keeping it connected / *có tầm có tứ* / có quá trình hướng ý nghĩ(chủ động) và im lặng quan sát (thụ động) một đề tài). Khi việc hướng ý nghĩ và quan sát lắng xuống, họ nhập và an trú trong *tầng thiền thứ hai* (second absorption / *nhị thiền*), có sự hân hoan và an vui sinh ra từ sự tập trung, với sự trong sáng nội tâm và tâm hợp nhất, *lặng im không suy nghĩ, chỉ có quan sát* (without placing the mind and keeping it connected / *không tầm, có tứ* / không có sự suy nghĩ, chỉ có sự im lặng để quan sát). Và với sự phai nhạt của hân hoan, họ nhập và an trú trong *tầng thiền thứ ba* (third absorption / *tam thiền*), nơi họ thiền định với sự bình thản, chánh niệm và tỉnh giác, tự mình trải nghiệm sự an vui mà các bậc cao quý tuyên bố: 'Bình thản và chánh niệm, người ta thiền định trong an vui.' Từ bỏ sự dễ chịu và khó chịu, và chấm dứt hạnh phúc và buồn bã trước đây, họ nhập và an trú trong *tầng thiền thứ tư* (fourth absorption / *tứ thiền*), không dễ chịu không khó chịu, với sự bình thản và chánh niệm trong sạch. Đây được gọi là định đúng."
 
 <!--pg-->
-### N 45.9 Một Cái Gai *Sūkasutta*
+### SN 45.9 Một Cái Gai *Sūkasutta*
 
 Tại Xá-vệ.
 
@@ -170,7 +170,7 @@ Tương tự như vậy, một Tỷ kheo có cái nhìn và sự phát triển c
 Và làm thế nào một Tỷ kheo có cái nhìn và sự phát triển con đường được chỉa đúng hướng lại phá vỡ vô minh, làm nảy sinh minh, và nhận ra sự dập tắt? Đó là khi một Tỷ kheo phát triển nhìn đúng, suy nghĩ đúng, lời nói đúng, hành động đúng, sống đúng, nỗ lực đúng, niệm đúng, và định đúng, vốn dựa trên sự ly dục, sự ly tham, và sự đoạn diệt, và chín muồi trong sự buông bỏ. Đó là cách một Tỷ kheo có cái nhìn và sự phát triển con đường được chỉa đúng hướng phá vỡ vô minh, làm nảy sinh minh, và nhận ra sự dập tắt."
 
 <!--pg-->
-### N 45.10 Với Nandiya *Nandiyasutta*
+### SN 45.10 Với Nandiya *Nandiyasutta*
 
 Tại Xá-vệ.
 
@@ -185,7 +185,7 @@ Khi Ngài nói điều này, du sĩ Nandiya thưa với Đức Phật: "Tuyệt 
 <!--pg-->
 ## Chương về Thiền Định
 
-### N 45.11 Thiền Định (Thứ Nhất) *Paṭhamavihārasutta*
+### SN 45.11 Thiền Định (Thứ Nhất) *Paṭhamavihārasutta*
 
 Tại Xá-vệ.
 
@@ -202,7 +202,7 @@ Có cảm giác do ham muốn, do suy nghĩ, và do nhận thức điều kiện
 Có sự nỗ lực để đạt được điều chưa đạt được. Khi trạng thái đó đã được đạt đến, cũng có cảm giác do đó điều kiện hóa."
 
 <!--pg-->
-### N 45.12 Thiền Định (Thứ Hai) *Dutiyavihārasutta*
+### SN 45.12 Thiền Định (Thứ Hai) *Dutiyavihārasutta*
 
 Tại Xá-vệ.
 
@@ -221,7 +221,7 @@ Có cảm giác do ham muốn và do sự lắng xuống của ham muốn điề
 Có sự nỗ lực để đạt được điều chưa đạt được. Khi trạng thái đó đã được đạt đến, cũng có cảm giác do đó điều kiện hóa."
 
 <!--pg-->
-### N 45.13 Một Người Đang Tu Học *Sekkhasutta*
+### SN 45.13 Một Người Đang Tu Học *Sekkhasutta*
 
 Tại Xá-vệ.
 
@@ -230,35 +230,35 @@ Khi ấy, một Tỷ kheo đến gặp Đức Phật... và hỏi Ngài: "Bạch
 "Này Tỷ kheo, đó là người có cái nhìn đúng, suy nghĩ đúng, lời nói đúng, hành động đúng, sống đúng, nỗ lực đúng, niệm đúng, và định đúng của một người đang tu học. Đó là cách một người đang tu học được định nghĩa."
 
 <!--pg-->
-### N 45.14 Sự Xuất Hiện (Thứ Nhất) *Paṭhamauppādasutta*
+### SN 45.14 Sự Xuất Hiện (Thứ Nhất) *Paṭhamauppādasutta*
 
 Tại Xá-vệ.
 
 "Này các Tỷ kheo, tám điều này không xuất hiện để được phát triển và tu tập trừ khi một Bậc Giác Ngộ, một bậc hoàn thiện, một vị Phật toàn giác đã xuất hiện. Tám điều gì? Đó là: nhìn đúng, suy nghĩ đúng, lời nói đúng, hành động đúng, sống đúng, nỗ lực đúng, niệm đúng, và định đúng. Tám điều này không xuất hiện để được phát triển và tu tập trừ khi một Bậc Giác Ngộ, một bậc hoàn thiện, một vị Phật toàn giác đã xuất hiện."
 
 <!--pg-->
-### N 45.15 Sự Xuất Hiện (Thứ Hai) *Dutiyauppādasutta*
+### SN 45.15 Sự Xuất Hiện (Thứ Hai) *Dutiyauppādasutta*
 
 Tại Xá-vệ.
 
 "Này các Tỷ kheo, tám điều này không xuất hiện để được phát triển và tu tập ngoài sự rèn luyện của Bậc Thiêng Liêng. Tám điều gì? Đó là: nhìn đúng, suy nghĩ đúng, lời nói đúng, hành động đúng, sống đúng, nỗ lực đúng, niệm đúng, và định đúng. Đây là tám điều không xuất hiện để được phát triển và tu tập ngoài sự rèn luyện của Bậc Thiêng Liêng."
 
 <!--pg-->
-### N 45.16 Thanh Tịnh (Thứ Nhất) *Paṭhamaparisuddhasutta*
+### SN 45.16 Thanh Tịnh (Thứ Nhất) *Paṭhamaparisuddhasutta*
 
 Tại Xá-vệ.
 
 "Này các Tỷ kheo, tám điều này không xuất hiện để được thanh tịnh, sáng tỏ, không tì vết, và thoát khỏi các sự hư hỏng trừ khi một Bậc Giác Ngộ, một bậc hoàn thiện, một vị Phật toàn giác đã xuất hiện. Tám điều gì? Đó là: nhìn đúng, suy nghĩ đúng, lời nói đúng, hành động đúng, sống đúng, nỗ lực đúng, niệm đúng, và định đúng. Tám điều này không xuất hiện để được thanh tịnh, sáng tỏ, không tì vết, và thoát khỏi các sự hư hỏng trừ khi một Bậc Giác Ngộ, một bậc hoàn thiện, một vị Phật toàn giác đã xuất hiện."
 
 <!--pg-->
-### N 45.17 Thanh Tịnh (Thứ Hai) *Dutiyaparisuddhasutta*
+### SN 45.17 Thanh Tịnh (Thứ Hai) *Dutiyaparisuddhasutta*
 
 Tại Xá-vệ.
 
 "Này các Tỷ kheo, tám điều này không xuất hiện để được thanh tịnh, sáng tỏ, không tì vết, và thoát khỏi các sự hư hỏng ngoài sự rèn luyện của Bậc Thiêng Liêng. Tám điều gì? Đó là: nhìn đúng, suy nghĩ đúng, lời nói đúng, hành động đúng, sống đúng, nỗ lực đúng, niệm đúng, và định đúng. Tám điều này không xuất hiện để được thanh tịnh, sáng tỏ, không tì vết, và thoát khỏi các sự hư hỏng ngoài sự rèn luyện của Bậc Thiêng Liêng."
 
 <!--pg-->
-### N 45.18 Tại Tu Viện Gà (Thứ Nhất) *Paṭhamakukkuṭārāmasutta*
+### SN 45.18 Tại Tu Viện Gà (Thứ Nhất) *Paṭhamakukkuṭārāmasutta*
 
 Như vầy tôi nghe. Một thời, các tôn giả A-nan và Bhadda đang ở gần Pāṭaliputta, trong Tu viện Gà. Khi ấy, vào cuối buổi chiều, Tôn giả Bhadda ra khỏi nơi nhập thất, đến gặp Tôn giả A-nan, và chào hỏi ngài. Sau khi chào hỏi và trò chuyện lịch sự xong, ngài ngồi sang một bên và nói với A-nan:
 
@@ -271,7 +271,7 @@ Như vầy tôi nghe. Một thời, các tôn giả A-nan và Bhadda đang ở g
 "Cái không phải là con đường tâm linh chính là con đường tám nhánh sai lầm, tức là: nhìn sai, suy nghĩ sai, lời nói sai, hành động sai, sống sai, nỗ lực sai, niệm sai, và định sai."
 
 <!--pg-->
-### N 45.19 Tại Tu Viện Gà (Thứ Hai) *Dutiyakukkuṭārāmasutta*
+### SN 45.19 Tại Tu Viện Gà (Thứ Hai) *Dutiyakukkuṭārāmasutta*
 
 Tại Pāṭaliputta.
 
@@ -286,7 +286,7 @@ Tại Pāṭaliputta.
 Sự chấm dứt tham, sân, và si: đây là đỉnh cao của con đường tâm linh."
 
 <!--pg-->
-### N 45.20 Tại Tu Viện Gà (Thứ Ba) *Tatiyakukkuṭārāmasutta*
+### SN 45.20 Tại Tu Viện Gà (Thứ Ba) *Tatiyakukkuṭārāmasutta*
 
 Tại Pāṭaliputta.
 
@@ -303,7 +303,7 @@ Sự chấm dứt tham, sân, và si: đây là đỉnh cao của con đường 
 <!--pg-->
 ## Chương về Con Đường Sai Lầm
 
-### N 45.21 Con Đường Sai Lầm *Micchattasutta*
+### SN 45.21 Con Đường Sai Lầm *Micchattasutta*
 
 Tại Xá-vệ.
 
@@ -314,7 +314,7 @@ Và con đường sai lầm là gì? Đó là nhìn sai, suy nghĩ sai, lời n�
 Và con đường đúng đắn là gì? Đó là nhìn đúng, suy nghĩ đúng, lời nói đúng, hành động đúng, sống đúng, nỗ lực đúng, niệm đúng, và định đúng. Đây được gọi là con đường đúng đắn."
 
 <!--pg-->
-### N 45.22 Các Phẩm Chất Bất Thiện *Akusaladhammasutta*
+### SN 45.22 Các Phẩm Chất Bất Thiện *Akusaladhammasutta*
 
 Tại Xá-vệ.
 
@@ -325,7 +325,7 @@ Và các phẩm chất bất thiện là gì? Đó là nhìn sai, suy nghĩ sai,
 Và các phẩm chất thiện là gì? Đó là nhìn đúng, suy nghĩ đúng, lời nói đúng, hành động đúng, sống đúng, nỗ lực đúng, niệm đúng, và định đúng. Đây được gọi là các phẩm chất thiện."
 
 <!--pg-->
-### N 45.23 Thực Hành (Thứ Nhất) *Paṭhamapaṭipadāsutta*
+### SN 45.23 Thực Hành (Thứ Nhất) *Paṭhamapaṭipadāsutta*
 
 Tại Xá-vệ.
 
@@ -336,7 +336,7 @@ Và sự thực hành sai lầm là gì? Đó là nhìn sai, suy nghĩ sai, lờ
 Và sự thực hành đúng đắn là gì? Đó là nhìn đúng, suy nghĩ đúng, lời nói đúng, hành động đúng, sống đúng, nỗ lực đúng, niệm đúng, và định đúng. Đây được gọi là sự thực hành đúng đắn."
 
 <!--pg-->
-### N 45.24 Thực Hành (Thứ Hai) *Dutiyapaṭipadāsutta*
+### SN 45.24 Thực Hành (Thứ Hai) *Dutiyapaṭipadāsutta*
 
 Tại Xá-vệ.
 
@@ -349,7 +349,7 @@ Ta tán dương sự thực hành đúng đắn đối với người tại gia 
 Vì sự thực hành đúng đắn, cả người tại gia lẫn người xuất gia đều thành công trong hệ thống giáo pháp thiện lành."
 
 <!--pg-->
-### N 45.25 Một Người Không Chân Thật (Thứ Nhất) *Paṭhamaasappurisasutta*
+### SN 45.25 Một Người Không Chân Thật (Thứ Nhất) *Paṭhamaasappurisasutta*
 
 Tại Xá-vệ.
 
@@ -360,7 +360,7 @@ Và một người không chân thật là gì? Đó là người có nhìn sai,
 Và một người chân thật là gì? Đó là người có nhìn đúng, suy nghĩ đúng, lời nói đúng, hành động đúng, sống đúng, nỗ lực đúng, niệm đúng, và định đúng. Đây được gọi là một người chân thật."
 
 <!--pg-->
-### N 45.26 Một Người Không Chân Thật (Thứ Hai) *Dutiyaasappurisasutta*
+### SN 45.26 Một Người Không Chân Thật (Thứ Hai) *Dutiyaasappurisasutta*
 
 Tại Xá-vệ.
 
@@ -375,7 +375,7 @@ Và một người chân thật là gì? Đó là người có nhìn đúng, suy
 Và một người còn chân thật hơn là gì? Đó là người có nhìn đúng, suy nghĩ đúng, lời nói đúng, hành động đúng, sống đúng, nỗ lực đúng, niệm đúng, định đúng, hiểu biết đúng, và giải thoát đúng. Đây được gọi là một người còn chân thật hơn."
 
 <!--pg-->
-### N 45.27 Những Cái Nồi *Kumbhasutta*
+### SN 45.27 Những Cái Nồi *Kumbhasutta*
 
 Tại Xá-vệ.
 
@@ -386,7 +386,7 @@ Và giá đỡ cho tâm trí là gì? Đó chính là con đường tám nhánh 
 Một cái nồi không có giá đỡ thì dễ bị lật, nhưng nếu có giá đỡ thì khó bị lật. Tương tự như vậy, một tâm trí không có giá đỡ thì dễ bị lật, nhưng nếu có giá đỡ thì khó bị lật."
 
 <!--pg-->
-### N 45.28 Định *Samādhisutta*
+### SN 45.28 Định *Samādhisutta*
 
 Tại Xá-vệ.
 
@@ -397,7 +397,7 @@ Và định đúng cao quý cùng với các điều kiện thiết yếu và c�
 Sự hợp nhất của tâm với bảy yếu tố này làm điều kiện tiên quyết được gọi là định đúng cao quý 'cùng với các điều kiện thiết yếu' và 'cùng với các điều kiện tiên quyết' của nó."
 
 <!--pg-->
-### N 45.29 Cảm Giác *Vedanāsutta*
+### SN 45.29 Cảm Giác *Vedanāsutta*
 
 Tại Xá-vệ.
 
@@ -408,7 +408,7 @@ Con đường tám nhánh cao quý nên được phát triển để *hiểu bi�
 Con đường tám nhánh cao quý này nên được phát triển để *hiểu biết hoàn toàn* ba loại cảm giác này."
 
 <!--pg-->
-### N 45.30 Với Uttiya *Uttiyasutta*
+### SN 45.30 Với Uttiya *Uttiyasutta*
 
 Tại Xá-vệ.
 
@@ -421,7 +421,7 @@ Con đường tám nhánh cao quý nên được phát triển để từ bỏ n
 <!--pg-->
 ## Chương về Thực Hành
 
-### N 45.31 Thực Hành (Thứ Nhất) *Paṭhamapaṭipattisutta*
+### SN 45.31 Thực Hành (Thứ Nhất) *Paṭhamapaṭipattisutta*
 
 Tại Xá-vệ.
 
@@ -432,7 +432,7 @@ Và sự thực hành sai lầm là gì? Đó là nhìn sai, suy nghĩ sai, lờ
 Và sự thực hành đúng đắn là gì? Đó là nhìn đúng, suy nghĩ đúng, lời nói đúng, hành động đúng, sống đúng, nỗ lực đúng, niệm đúng, và định đúng. Đây được gọi là sự thực hành đúng đắn."
 
 <!--pg-->
-### N 45.32 Thực Hành (Thứ Hai) *Dutiyapaṭipattisutta*
+### SN 45.32 Thực Hành (Thứ Hai) *Dutiyapaṭipattisutta*
 
 Tại Xá-vệ.
 
@@ -443,7 +443,7 @@ Và ai là người thực hành sai lầm? Đó là người có nhìn sai, suy
 Và ai là người thực hành đúng đắn? Đó là người có nhìn đúng, suy nghĩ đúng, lời nói đúng, hành động đúng, sống đúng, nỗ lực đúng, niệm đúng, và định đúng. Đây được gọi là người thực hành đúng đắn."
 
 <!--pg-->
-### N 45.33 Bỏ Lỡ *Viraddhasutta*
+### SN 45.33 Bỏ Lỡ *Viraddhasutta*
 
 Tại Xá-vệ.
 
@@ -454,7 +454,7 @@ Và con đường tám nhánh cao quý là gì? Đó là nhìn đúng, suy nghĩ
 Ai đã bỏ lỡ con đường tám nhánh cao quý thì đã bỏ lỡ con đường cao quý dẫn đến sự chấm dứt hoàn toàn khổ đau. Ai đã thực hành con đường tám nhánh cao quý thì đã thực hành con đường cao quý dẫn đến sự chấm dứt hoàn toàn khổ đau."
 
 <!--pg-->
-### N 45.34 Đi đến Bờ Bên Kia *Pāraṅgamasutta*
+### SN 45.34 Đi đến Bờ Bên Kia *Pāraṅgamasutta*
 
 Tại Xá-vệ.
 
@@ -490,7 +490,7 @@ Tại Xá-vệ.
 > họ được dập tắt trong thế giới này."
 
 <!--pg-->
-### N 45.35 Đời Sống Sa-môn (Thứ Nhất) *Paṭhamasāmaññasutta*
+### SN 45.35 Đời Sống Sa-môn (Thứ Nhất) *Paṭhamasāmaññasutta*
 
 Tại Xá-vệ.
 
@@ -501,7 +501,7 @@ Và đời sống sa-môn là gì? Đó chính là con đường tám nhánh cao
 Và quả của đời sống sa-môn là gì? Quả của bậc nhập lưu, nhất lai, bất lai, và bậc hoàn thiện. Đây được gọi là quả của đời sống sa-môn."
 
 <!--pg-->
-### N 45.36 Đời Sống Sa-môn (Thứ Hai) *Dutiyasāmaññasutta*
+### SN 45.36 Đời Sống Sa-môn (Thứ Hai) *Dutiyasāmaññasutta*
 
 Tại Xá-vệ.
 
@@ -512,7 +512,7 @@ Và đời sống sa-môn là gì? Đó chính là con đường tám nhánh cao
 Và mục tiêu của đời sống sa-môn là gì? Sự chấm dứt tham, sân, và si. Đây được gọi là mục tiêu của đời sống sa-môn."
 
 <!--pg-->
-### N 45.37 Đời Sống Phạm Hạnh (Thứ Nhất) *Paṭhamabrahmaññasutta*
+### SN 45.37 Đời Sống Phạm Hạnh (Thứ Nhất) *Paṭhamabrahmaññasutta*
 
 Tại Xá-vệ.
 
@@ -523,7 +523,7 @@ Và đời sống phạm hạnh là gì? Đó chính là con đường tám nhá
 Và quả của đời sống phạm hạnh là gì? Quả của bậc nhập lưu, nhất lai, bất lai, và bậc hoàn thiện. Đây được gọi là quả của đời sống phạm hạnh."
 
 <!--pg-->
-### N 45.38 Đời Sống Phạm Hạnh (Thứ Hai) *Dutiyabrahmaññasutta*
+### SN 45.38 Đời Sống Phạm Hạnh (Thứ Hai) *Dutiyabrahmaññasutta*
 
 Tại Xá-vệ.
 
@@ -534,7 +534,7 @@ Và đời sống phạm hạnh là gì? Đó chính là con đường tám nhá
 Và mục tiêu của đời sống phạm hạnh là gì? Sự chấm dứt tham, sân, và si. Đây được gọi là mục tiêu của đời sống phạm hạnh."
 
 <!--pg-->
-### N 45.39 Con Đường Tâm Linh (Thứ Nhất) *Paṭhamabrahmacariyasutta*
+### SN 45.39 Con Đường Tâm Linh (Thứ Nhất) *Paṭhamabrahmacariyasutta*
 
 Tại Xá-vệ.
 
@@ -545,7 +545,7 @@ Và con đường tâm linh là gì? Đó chính là con đường tám nhánh c
 Và quả của con đường tâm linh là gì? Quả của bậc nhập lưu, nhất lai, bất lai, và bậc hoàn thiện. Đây được gọi là quả của con đường tâm linh."
 
 <!--pg-->
-### N 45.40 Con Đường Tâm Linh (Thứ Hai) *Dutiyabrahmacariyasutta*
+### SN 45.40 Con Đường Tâm Linh (Thứ Hai) *Dutiyabrahmacariyasutta*
 
 Tại Xá-vệ.
 
@@ -558,7 +558,7 @@ Và mục tiêu của con đường tâm linh là gì? Sự chấm dứt tham, s
 <!--pg-->
 ## Chương Tóm Tắt về Tín Đồ của các Tôn Giáo Khác
 
-### N 45.41 Sự Phai Nhạt của Tham Lam *Rāgavirāgasutta*
+### SN 45.41 Sự Phai Nhạt của Tham Lam *Rāgavirāgasutta*
 
 Tại Xá-vệ.
 
@@ -571,7 +571,7 @@ Và con đường đó là gì, phương pháp thực hành đó là gì cho s�
 Khi bị các du sĩ theo tôn giáo khác hỏi, đó là cách các con nên trả lời họ."
 
 <!--pg-->
-### N 45.42--47 Sáu Bài Kinh về Từ Bỏ Xiềng Xích, v.v. *Saṁyojanappahānādisuttachakka*
+### SN 45.42--47 Sáu Bài Kinh về Từ Bỏ Xiềng Xích, v.v. *Saṁyojanappahānādisuttachakka*
 
 "Này các Tỷ kheo, nếu các du sĩ theo tôn giáo khác hỏi các con: 'Thưa các Tôn giả, mục đích của việc sống đời sống tâm linh dưới sự hướng dẫn của Sa-môn Cồ-đàm là gì?' Các con nên trả lời họ như thế này:
 
@@ -588,7 +588,7 @@ Khi bị các du sĩ theo tôn giáo khác hỏi, đó là cách các con nên t
 '... vì sự hiểu biết và cái thấy.' ..."
 
 <!--pg-->
-### N 45.48 Dập Tắt bằng cách Không Bám Giữ *Anupādāparinibbānasutta*
+### SN 45.48 Dập Tắt bằng cách Không Bám Giữ *Anupādāparinibbānasutta*
 
 Tại Xá-vệ.
 
@@ -603,7 +603,7 @@ Khi bị các du sĩ theo tôn giáo khác hỏi, đó là cách các con nên t
 <!--pg-->
 ## Chương Tóm Tắt về Mặt Trời
 
-### N 45.49 Bạn Lành (Thứ Nhất) *Kalyāṇamittasutta*
+### SN 45.49 Bạn Lành (Thứ Nhất) *Kalyāṇamittasutta*
 
 Tại Xá-vệ.
 
@@ -612,7 +612,7 @@ Tại Xá-vệ.
 Và làm thế nào một Tỷ kheo có bạn lành lại phát triển và tu tập con đường tám nhánh cao quý? Đó là khi một Tỷ kheo phát triển nhìn đúng, suy nghĩ đúng, lời nói đúng, hành động đúng, sống đúng, nỗ lực đúng, niệm đúng, và định đúng, vốn dựa trên sự ly dục, sự ly tham, và sự đoạn diệt, và chín muồi trong sự buông bỏ. Đó là cách một Tỷ kheo có bạn lành phát triển và tu tập con đường tám nhánh cao quý."
 
 <!--pg-->
-### N 45.50--54 Năm Bài Kinh về Sự Hoàn Thiện trong Đạo Đức, v.v. (Thứ Nhất) *Sīlasampadādisuttapañcaka*
+### SN 45.50--54 Năm Bài Kinh về Sự Hoàn Thiện trong Đạo Đức, v.v. (Thứ Nhất) *Sīlasampadādisuttapañcaka*
 
 "Này các Tỷ kheo, bình minh là điềm báo và tiền thân của mặt trời mọc. Tương tự như vậy, sự hoàn thiện trong đạo đức là điềm báo và tiền thân của con đường tám nhánh cao quý đối với một Tỷ kheo. Một Tỷ kheo hoàn thiện trong đạo đức có thể mong đợi..." ...
 
@@ -625,21 +625,21 @@ Và làm thế nào một Tỷ kheo có bạn lành lại phát triển và tu t
 "... hoàn thiện trong sự tinh cần..."
 
 <!--pg-->
-### N 45.55 Sự Hoàn Thiện trong Việc Vận Dụng Trí Tuệ (Thứ Nhất) *Yonisomanasikārasampadāsutta*
+### SN 45.55 Sự Hoàn Thiện trong Việc Vận Dụng Trí Tuệ (Thứ Nhất) *Yonisomanasikārasampadāsutta*
 
 "Này các Tỷ kheo, bình minh là điềm báo và tiền thân của mặt trời mọc. Tương tự như vậy, sự hoàn thiện trong việc *như lý tác ý* (apply the mind rationally / suy nghĩ với trí tuệ) là điềm báo và tiền thân của con đường tám nhánh cao quý đối với một Tỷ kheo. Một Tỷ kheo hoàn thiện trong việc như lý tác ý có thể mong đợi phát triển và tu tập con đường tám nhánh cao quý.
 
 Và làm thế nào một Tỷ kheo hoàn thiện trong việc như lý tác ý lại phát triển và tu tập con đường tám nhánh cao quý? Đó là khi một Tỷ kheo phát triển nhìn đúng, suy nghĩ đúng, lời nói đúng, hành động đúng, sống đúng, nỗ lực đúng, niệm đúng, và định đúng, vốn dựa trên sự ly dục, sự ly tham, và sự đoạn diệt, và chín muồi trong sự buông bỏ. Đó là cách một Tỷ kheo hoàn thiện trong việc như lý tác ý phát triển và tu tập con đường tám nhánh cao quý."
 
 <!--pg-->
-### N 45.56 Bạn Lành (Thứ Hai) *Dutiyakalyāṇamittasutta*
+### SN 45.56 Bạn Lành (Thứ Hai) *Dutiyakalyāṇamittasutta*
 
 "Này các Tỷ kheo, bình minh là điềm báo và tiền thân của mặt trời mọc. Tương tự như vậy, tình bạn tốt là điềm báo và tiền thân của con đường tám nhánh cao quý đối với một Tỷ kheo. Một Tỷ kheo có bạn lành có thể mong đợi phát triển và tu tập con đường tám nhánh cao quý.
 
 Và làm thế nào một Tỷ kheo có bạn lành lại phát triển và tu tập con đường tám nhánh cao quý? Đó là khi một Tỷ kheo phát triển nhìn đúng, suy nghĩ đúng, lời nói đúng, hành động đúng, sống đúng, nỗ lực đúng, niệm đúng, và định đúng, mà đỉnh cao là sự loại bỏ tham, sân, và si. Đó là cách một Tỷ kheo có bạn lành phát triển và tu tập con đường tám nhánh cao quý."
 
 <!--pg-->
-### N 45.57--61 Năm Bài Kinh về Sự Hoàn Thiện trong Đạo Đức, v.v. (Thứ Hai) *Dutiyasīlasampadādisuttapañcaka*
+### SN 45.57--61 Năm Bài Kinh về Sự Hoàn Thiện trong Đạo Đức, v.v. (Thứ Hai) *Dutiyasīlasampadādisuttapañcaka*
 
 "Này các Tỷ kheo, bình minh là điềm báo và tiền thân của mặt trời mọc. Tương tự như vậy, sự hoàn thiện trong đạo đức là điềm báo và tiền thân của con đường tám nhánh cao quý đối với một Tỷ kheo. ..."
 
@@ -652,7 +652,7 @@ Và làm thế nào một Tỷ kheo có bạn lành lại phát triển và tu t
 "... sự hoàn thiện trong sự tinh cần..."
 
 <!--pg-->
-### N 45.62 Sự Hoàn Thiện trong Việc Vận Dụng Trí Tuệ (Thứ Hai) *Dutiyayonisomanasikārasampadāsutta*
+### SN 45.62 Sự Hoàn Thiện trong Việc Vận Dụng Trí Tuệ (Thứ Hai) *Dutiyayonisomanasikārasampadāsutta*
 
 "... sự hoàn thiện trong việc như lý tác ý. Một Tỷ kheo hoàn thiện trong việc như lý tác ý có thể mong đợi phát triển và tu tập con đường tám nhánh cao quý.
 
@@ -661,7 +661,7 @@ Và làm thế nào một Tỷ kheo hoàn thiện trong việc như lý tác ý 
 <!--pg-->
 ## Chương Tóm Tắt về Một Điều
 
-### N 45.63 Bạn Lành (Thứ Nhất) *Kalyāṇamittasutta*
+### SN 45.63 Bạn Lành (Thứ Nhất) *Kalyāṇamittasutta*
 
 Tại Xá-vệ.
 
@@ -670,7 +670,7 @@ Tại Xá-vệ.
 Và làm thế nào một Tỷ kheo có bạn lành lại phát triển và tu tập con đường tám nhánh cao quý? Đó là khi một Tỷ kheo phát triển nhìn đúng, suy nghĩ đúng, lời nói đúng, hành động đúng, sống đúng, nỗ lực đúng, niệm đúng, và định đúng, vốn dựa trên sự ly dục, sự ly tham, và sự đoạn diệt, và chín muồi trong sự buông bỏ. Đó là cách một Tỷ kheo có bạn lành phát triển và tu tập con đường tám nhánh cao quý."
 
 <!--pg-->
-### N 45.64--68 Năm Bài Kinh về Sự Hoàn Thiện trong Đạo Đức, v.v. (Thứ Nhất) *Sīlasampadādisuttapañcaka*
+### SN 45.64--68 Năm Bài Kinh về Sự Hoàn Thiện trong Đạo Đức, v.v. (Thứ Nhất) *Sīlasampadādisuttapañcaka*
 
 "Này các Tỷ kheo, có một điều giúp làm nảy sinh con đường tám nhánh cao quý. Một điều gì? Đó là sự hoàn thiện trong đạo đức. ..."
 
@@ -683,14 +683,14 @@ Và làm thế nào một Tỷ kheo có bạn lành lại phát triển và tu t
 "... sự hoàn thiện trong sự tinh cần..."
 
 <!--pg-->
-### N 45.69 Sự Hoàn Thiện trong Việc Vận Dụng Trí Tuệ (Thứ Nhất) *Yonisomanasikārasampadāsutta*
+### SN 45.69 Sự Hoàn Thiện trong Việc Vận Dụng Trí Tuệ (Thứ Nhất) *Yonisomanasikārasampadāsutta*
 
 "... sự hoàn thiện trong việc như lý tác ý. Một Tỷ kheo hoàn thiện trong việc như lý tác ý có thể mong đợi phát triển và tu tập con đường tám nhánh cao quý.
 
 Và làm thế nào một Tỷ kheo hoàn thiện trong việc như lý tác ý lại phát triển và tu tập con đường tám nhánh cao quý? Đó là khi một Tỷ kheo phát triển nhìn đúng, suy nghĩ đúng, lời nói đúng, hành động đúng, sống đúng, nỗ lực đúng, niệm đúng, và định đúng, vốn dựa trên sự ly dục, sự ly tham, và sự đoạn diệt, và chín muồi trong sự buông bỏ. Đó là cách một Tỷ kheo hoàn thiện trong việc như lý tác ý phát triển và tu tập con đường tám nhánh cao quý."
 
 <!--pg-->
-### N 45.70 Bạn Lành (Thứ Hai) *Dutiyakalyāṇamittasutta*
+### SN 45.70 Bạn Lành (Thứ Hai) *Dutiyakalyāṇamittasutta*
 
 Tại Xá-vệ.
 
@@ -699,7 +699,7 @@ Tại Xá-vệ.
 Và làm thế nào một Tỷ kheo có bạn lành lại phát triển và tu tập con đường tám nhánh cao quý? Đó là khi một Tỷ kheo phát triển nhìn đúng, suy nghĩ đúng, lời nói đúng, hành động đúng, sống đúng, nỗ lực đúng, niệm đúng, và định đúng, mà đỉnh cao là sự loại bỏ tham, sân, và si. Đó là cách một Tỷ kheo có bạn lành phát triển và tu tập con đường tám nhánh cao quý."
 
 <!--pg-->
-### N 45.71--75 Năm Bài Kinh về Sự Hoàn Thiện trong Đạo Đức, v.v. (Thứ Hai) *Dutiyasīlasampadādisuttapañcaka*
+### SN 45.71--75 Năm Bài Kinh về Sự Hoàn Thiện trong Đạo Đức, v.v. (Thứ Hai) *Dutiyasīlasampadādisuttapañcaka*
 
 Tại Xá-vệ.
 
@@ -714,7 +714,7 @@ Tại Xá-vệ.
 "... sự hoàn thiện trong sự tinh cần..."
 
 <!--pg-->
-### N 45.76 Sự Hoàn Thiện trong Việc Vận Dụng Trí Tuệ (Thứ Hai) *Dutiyayonisomanasikārasampadāsutta*
+### SN 45.76 Sự Hoàn Thiện trong Việc Vận Dụng Trí Tuệ (Thứ Hai) *Dutiyayonisomanasikārasampadāsutta*
 
 "... sự hoàn thiện trong việc như lý tác ý. Một Tỷ kheo hoàn thiện trong việc như lý tác ý có thể mong đợi phát triển và tu tập con đường tám nhánh cao quý.
 
@@ -723,7 +723,7 @@ Và làm thế nào một Tỷ kheo hoàn thiện trong việc như lý tác ý 
 <!--pg-->
 ## Chương Tóm Tắt về Một Điều
 
-### N 45.77 Bạn Lành *Kalyāṇamittasutta*
+### SN 45.77 Bạn Lành *Kalyāṇamittasutta*
 
 Tại Xá-vệ.
 
@@ -732,7 +732,7 @@ Tại Xá-vệ.
 Và làm thế nào một Tỷ kheo có bạn lành lại phát triển và tu tập con đường tám nhánh cao quý? Đó là khi một Tỷ kheo phát triển nhìn đúng, suy nghĩ đúng, lời nói đúng, hành động đúng, sống đúng, nỗ lực đúng, niệm đúng, và định đúng, vốn dựa trên sự ly dục, sự ly tham, và sự đoạn diệt, và chín muồi trong sự buông bỏ. Đó là cách một Tỷ kheo có bạn lành phát triển và tu tập con đường tám nhánh cao quý."
 
 <!--pg-->
-### N 45.78--82 Năm Bài Kinh về Sự Hoàn Thiện trong Đạo Đức, v.v. *Sīlasampadādisuttapañcaka*
+### SN 45.78--82 Năm Bài Kinh về Sự Hoàn Thiện trong Đạo Đức, v.v. *Sīlasampadādisuttapañcaka*
 
 "Này các Tỷ kheo, ta không thấy một điều duy nhất nào làm nảy sinh con đường tám nhánh cao quý, hoặc, nếu nó đã nảy sinh, phát triển nó một cách trọn vẹn như sự hoàn thiện trong đạo đức. ..."
 
@@ -745,21 +745,21 @@ Và làm thế nào một Tỷ kheo có bạn lành lại phát triển và tu t
 "... sự hoàn thiện trong sự tinh cần..."
 
 <!--pg-->
-### N 45.83 Sự Hoàn Thiện trong Việc Vận Dụng Trí Tuệ *Yonisomanasikārasampadāsutta*
+### SN 45.83 Sự Hoàn Thiện trong Việc Vận Dụng Trí Tuệ *Yonisomanasikārasampadāsutta*
 
 "... sự hoàn thiện trong việc như lý tác ý. Một Tỷ kheo hoàn thiện trong việc như lý tác ý có thể mong đợi phát triển và tu tập con đường tám nhánh cao quý.
 
 Và làm thế nào một Tỷ kheo hoàn thiện trong việc như lý tác ý lại phát triển và tu tập con đường tám nhánh cao quý? Đó là khi một Tỷ kheo phát triển nhìn đúng, suy nghĩ đúng, lời nói đúng, hành động đúng, sống đúng, nỗ lực đúng, niệm đúng, và định đúng, vốn dựa trên sự ly dục, sự ly tham, và sự đoạn diệt, và chín muồi trong sự buông bỏ. Đó là cách một Tỷ kheo hoàn thiện trong việc như lý tác ý phát triển và tu tập con đường tám nhánh cao quý."
 
 <!--pg-->
-### N 45.84 Bạn Lành (Thứ Hai) *Dutiyakalyāṇamittasutta*
+### SN 45.84 Bạn Lành (Thứ Hai) *Dutiyakalyāṇamittasutta*
 
 "Này các Tỷ kheo, ta không thấy một điều duy nhất nào làm nảy sinh con đường tám nhánh cao quý, hoặc, nếu nó đã nảy sinh, phát triển nó một cách trọn vẹn như tình bạn tốt. Một Tỷ kheo có bạn lành có thể mong đợi phát triển và tu tập con đường tám nhánh cao quý.
 
 Và làm thế nào một Tỷ kheo có bạn lành lại phát triển và tu tập con đường tám nhánh cao quý? Đó là khi một Tỷ kheo phát triển nhìn đúng, suy nghĩ đúng, lời nói đúng, hành động đúng, sống đúng, nỗ lực đúng, niệm đúng, và định đúng, mà đỉnh cao là sự loại bỏ tham, sân, và si. Đó là cách một Tỷ kheo có bạn lành phát triển và tu tập con đường tám nhánh cao quý."
 
 <!--pg-->
-### N 45.85--89 Năm Bài Kinh về Sự Hoàn Thiện trong Đạo Đức, v.v. *Dutiyasīlasampadādisuttapañcaka*
+### SN 45.85--89 Năm Bài Kinh về Sự Hoàn Thiện trong Đạo Đức, v.v. *Dutiyasīlasampadādisuttapañcaka*
 
 "Này các Tỷ kheo, ta không thấy một điều duy nhất nào làm nảy sinh con đường tám nhánh cao quý, hoặc, nếu nó đã nảy sinh, phát triển nó một cách trọn vẹn như sự hoàn thiện trong đạo đức. ..."
 
@@ -772,7 +772,7 @@ Và làm thế nào một Tỷ kheo có bạn lành lại phát triển và tu t
 "... sự hoàn thiện trong sự tinh cần..."
 
 <!--pg-->
-### N 45.90 Sự Hoàn Thiện trong Việc Vận Dụng Trí Tuệ (Thứ Hai) *Dutiyayonisomanasikārasampadāsutta*
+### SN 45.90 Sự Hoàn Thiện trong Việc Vận Dụng Trí Tuệ (Thứ Hai) *Dutiyayonisomanasikārasampadāsutta*
 
 "... sự hoàn thiện trong việc như lý tác ý. Một Tỷ kheo hoàn thiện trong việc như lý tác ý có thể mong đợi phát triển và tu tập con đường tám nhánh cao quý.
 
@@ -781,7 +781,7 @@ Và làm thế nào một Tỷ kheo hoàn thiện trong việc như lý tác ý 
 <!--pg-->
 ## Chương Tóm Tắt về Sông Hằng
 
-### N 45.91 Hướng về Phía Đông *Paṭhamapācīnaninnasutta*
+### SN 45.91 Hướng về Phía Đông *Paṭhamapācīnaninnasutta*
 
 Tại Xá-vệ.
 
@@ -790,7 +790,7 @@ Tại Xá-vệ.
 Và làm thế nào một Tỷ kheo phát triển con đường tám nhánh cao quý lại nghiêng, dốc, và hướng về sự dập tắt? Đó là khi một Tỷ kheo phát triển nhìn đúng, suy nghĩ đúng, lời nói đúng, hành động đúng, sống đúng, nỗ lực đúng, niệm đúng, và định đúng, vốn dựa trên sự ly dục, sự ly tham, và sự đoạn diệt, và chín muồi trong sự buông bỏ. Đó là cách một Tỷ kheo phát triển và tu tập con đường tám nhánh cao quý nghiêng, dốc, và hướng về sự dập tắt."
 
 <!--pg-->
-### N 45.92--95 Bốn Bài Kinh về Hướng về Phía Đông *Dutiyādipācīnaninnasuttacatukka*
+### SN 45.92--95 Bốn Bài Kinh về Hướng về Phía Đông *Dutiyādipācīnaninnasuttacatukka*
 
 "Này các Tỷ kheo, sông Yamunā nghiêng, dốc, và hướng về phía đông. ..."
 
@@ -801,19 +801,19 @@ Và làm thế nào một Tỷ kheo phát triển con đường tám nhánh cao 
 "... sông Mahī..."
 
 <!--pg-->
-### N 45.96 Bài Kinh Thứ Sáu về Hướng về Phía Đông *Chaṭṭhapācīnaninnasutta*
+### SN 45.96 Bài Kinh Thứ Sáu về Hướng về Phía Đông *Chaṭṭhapācīnaninnasutta*
 
 "Này các Tỷ kheo, tất cả các con sông lớn—tức là sông Hằng, Yamunā, Aciravatī, Sarabhū, và Mahī—đều nghiêng, dốc, và hướng về phía đông. Tương tự như vậy, một Tỷ kheo phát triển và tu tập con đường tám nhánh cao quý sẽ nghiêng, dốc, và hướng về sự dập tắt.
 
 Và làm thế nào một Tỷ kheo phát triển con đường tám nhánh cao quý lại nghiêng, dốc, và hướng về sự dập tắt? Đó là khi một Tỷ kheo phát triển nhìn đúng, suy nghĩ đúng, lời nói đúng, hành động đúng, sống đúng, nỗ lực đúng, niệm đúng, và định đúng, vốn dựa trên sự ly dục, sự ly tham, và sự đoạn diệt, và chín muồi trong sự buông bỏ. Đó là cách một Tỷ kheo phát triển và tu tập con đường tám nhánh cao quý nghiêng, dốc, và hướng về sự dập tắt."
 
 <!--pg-->
-### N 45.97 Hướng ra Biển *Paṭhamasamuddaninnasutta*
+### SN 45.97 Hướng ra Biển *Paṭhamasamuddaninnasutta*
 
 "Này các Tỷ kheo, sông Hằng nghiêng, dốc, và hướng ra biển. Tương tự như vậy, một Tỷ kheo phát triển con đường tám nhánh cao quý sẽ nghiêng, dốc, và hướng về sự dập tắt. ..."
 
 <!--pg-->
-### N 45.98--102 Năm Bài Kinh về Hướng ra Biển *Dutiyādisamuddaninnasuttapañcaka*
+### SN 45.98--102 Năm Bài Kinh về Hướng ra Biển *Dutiyādisamuddaninnasuttapañcaka*
 
 "Này các Tỷ kheo, sông Yamunā nghiêng, dốc, và hướng ra biển. ..."
 
@@ -828,14 +828,14 @@ Và làm thế nào một Tỷ kheo phát triển con đường tám nhánh cao 
 <!--pg-->
 ## Chương Tóm Tắt về Sông Hằng
 
-### N 45.103 Hướng về Phía Đông *Paṭhamapācīnaninnasutta*
+### SN 45.103 Hướng về Phía Đông *Paṭhamapācīnaninnasutta*
 
 "Này các Tỷ kheo, sông Hằng nghiêng, dốc, và hướng về phía đông. Tương tự như vậy, một Tỷ kheo phát triển và tu tập con đường tám nhánh cao quý sẽ nghiêng, dốc, và hướng về sự dập tắt.
 
 Và làm thế nào một Tỷ kheo phát triển con đường tám nhánh cao quý lại nghiêng, dốc, và hướng về sự dập tắt? Đó là khi một Tỷ kheo phát triển nhìn đúng, suy nghĩ đúng, lời nói đúng, hành động đúng, sống đúng, nỗ lực đúng, niệm đúng, và định đúng, mà đỉnh cao là sự loại bỏ tham, sân, và si. Đó là cách một Tỷ kheo phát triển và tu tập con đường tám nhánh cao quý nghiêng, dốc, và hướng về sự dập tắt."
 
 <!--pg-->
-### N 45.104--108 Năm Bài Kinh về Hướng về Phía Đông *Dutiyādipācīnaninnasuttapañcaka*
+### SN 45.104--108 Năm Bài Kinh về Hướng về Phía Đông *Dutiyādipācīnaninnasuttapañcaka*
 
 "Này các Tỷ kheo, sông Yamunā nghiêng, dốc, và hướng về phía đông. ..."
 
@@ -848,14 +848,14 @@ Và làm thế nào một Tỷ kheo phát triển con đường tám nhánh cao 
 "... tất cả các con sông lớn..."
 
 <!--pg-->
-### N 45.109 Hướng ra Biển *Paṭhamasamuddaninnasutta*
+### SN 45.109 Hướng ra Biển *Paṭhamasamuddaninnasutta*
 
 "Này các Tỷ kheo, sông Hằng nghiêng, dốc, và hướng ra biển. Tương tự như vậy, một Tỷ kheo phát triển và tu tập con đường tám nhánh cao quý sẽ nghiêng, dốc, và hướng về sự dập tắt.
 
 Và làm thế nào một Tỷ kheo phát triển con đường tám nhánh cao quý lại nghiêng, dốc, và hướng về sự dập tắt? Đó là khi một Tỷ kheo phát triển nhìn đúng, suy nghĩ đúng, lời nói đúng, hành động đúng, sống đúng, nỗ lực đúng, niệm đúng, và định đúng, mà đỉnh cao là sự loại bỏ tham, sân, và si. Đó là cách một Tỷ kheo phát triển và tu tập con đường tám nhánh cao quý nghiêng, dốc, và hướng về sự dập tắt."
 
 <!--pg-->
-### N 45.110--114 Hướng ra Biển *Dutiyādisamuddaninnasutta*
+### SN 45.110--114 Hướng ra Biển *Dutiyādisamuddaninnasutta*
 
 "Này các Tỷ kheo, sông Yamunā nghiêng, dốc, và hướng ra biển. ..."
 
@@ -868,14 +868,14 @@ Và làm thế nào một Tỷ kheo phát triển con đường tám nhánh cao 
 "... tất cả các con sông lớn..."
 
 <!--pg-->
-### N 45.115 Hướng về Phía Đông *Paṭhamapācīnaninnasutta*
+### SN 45.115 Hướng về Phía Đông *Paṭhamapācīnaninnasutta*
 
 "Này các Tỷ kheo, sông Hằng nghiêng, dốc, và hướng về phía đông. Tương tự như vậy, một Tỷ kheo phát triển và tu tập con đường tám nhánh cao quý sẽ nghiêng, dốc, và hướng về sự dập tắt.
 
 Và làm thế nào một Tỷ kheo phát triển con đường tám nhánh cao quý lại nghiêng, dốc, và hướng về sự dập tắt? Đó là khi một Tỷ kheo phát triển nhìn đúng, suy nghĩ đúng, lời nói đúng, hành động đúng, sống đúng, nỗ lực đúng, niệm đúng, và định đúng, mà đỉnh cao, kết thúc, và chấm dứt trong sự tự do khỏi cái chết. Đó là cách một Tỷ kheo phát triển và tu tập con đường tám nhánh cao quý nghiêng, dốc, và hướng về sự dập tắt."
 
 <!--pg-->
-### N 45.116--120 Hướng về Phía Đông *Dutiyādipācīnaninnasutta*
+### SN 45.116--120 Hướng về Phía Đông *Dutiyādipācīnaninnasutta*
 
 "Này các Tỷ kheo, sông Yamunā nghiêng, dốc, và hướng về phía đông. ..."
 
@@ -888,14 +888,14 @@ Và làm thế nào một Tỷ kheo phát triển con đường tám nhánh cao 
 "... tất cả các con sông lớn..."
 
 <!--pg-->
-### N 45.121 Hướng ra Biển *Paṭhamasamuddaninnasutta*
+### SN 45.121 Hướng ra Biển *Paṭhamasamuddaninnasutta*
 
 "Này các Tỷ kheo, sông Hằng nghiêng, dốc, và hướng ra biển. Tương tự như vậy, một Tỷ kheo phát triển và tu tập con đường tám nhánh cao quý sẽ nghiêng, dốc, và hướng về sự dập tắt.
 
 Và làm thế nào một Tỷ kheo phát triển con đường tám nhánh cao quý lại nghiêng, dốc, và hướng về sự dập tắt? Đó là khi một Tỷ kheo phát triển nhìn đúng, suy nghĩ đúng, lời nói đúng, hành động đúng, sống đúng, nỗ lực đúng, niệm đúng, và định đúng, mà đỉnh cao, kết thúc, và chấm dứt trong sự tự do khỏi cái chết. Đó là cách một Tỷ kheo phát triển và tu tập con đường tám nhánh cao quý nghiêng, dốc, và hướng về sự dập tắt."
 
 <!--pg-->
-### N 45.122--126 Hướng ra Biển *Dutiyādisamuddaninnasutta*
+### SN 45.122--126 Hướng ra Biển *Dutiyādisamuddaninnasutta*
 
 "Này các Tỷ kheo, sông Yamunā nghiêng, dốc, và hướng ra biển. ..."
 
@@ -908,14 +908,14 @@ Và làm thế nào một Tỷ kheo phát triển con đường tám nhánh cao 
 "... tất cả các con sông lớn..."
 
 <!--pg-->
-### N 45.127 Hướng về Phía Đông *Paṭhamapācīnaninnasutta*
+### SN 45.127 Hướng về Phía Đông *Paṭhamapācīnaninnasutta*
 
 "Này các Tỷ kheo, sông Hằng nghiêng, dốc, và hướng về phía đông. Tương tự như vậy, một Tỷ kheo phát triển và tu tập con đường tám nhánh cao quý sẽ nghiêng, dốc, và hướng về sự dập tắt.
 
 Và làm thế nào một Tỷ kheo phát triển con đường tám nhánh cao quý lại nghiêng, dốc, và hướng về sự dập tắt? Đó là khi một Tỷ kheo phát triển nhìn đúng, suy nghĩ đúng, lời nói đúng, hành động đúng, sống đúng, nỗ lực đúng, niệm đúng, và định đúng, vốn nghiêng, dốc, và hướng về sự dập tắt. Đó là cách một Tỷ kheo phát triển và tu tập con đường tám nhánh cao quý nghiêng, dốc, và hướng về sự dập tắt."
 
 <!--pg-->
-### N 45.128--132 Hướng về Phía Đông *Dutiyādipācīnaninnasutta*
+### SN 45.128--132 Hướng về Phía Đông *Dutiyādipācīnaninnasutta*
 
 "Này các Tỷ kheo, sông Yamunā nghiêng, dốc, và hướng về phía đông. ..."
 
@@ -928,14 +928,14 @@ Và làm thế nào một Tỷ kheo phát triển con đường tám nhánh cao 
 "... tất cả các con sông lớn..."
 
 <!--pg-->
-### N 45.133 Hướng ra Biển *Paṭhamasamuddaninnasutta*
+### SN 45.133 Hướng ra Biển *Paṭhamasamuddaninnasutta*
 
 "Này các Tỷ kheo, sông Hằng nghiêng, dốc, và hướng ra biển. Tương tự như vậy, một Tỷ kheo phát triển và tu tập con đường tám nhánh cao quý sẽ nghiêng, dốc, và hướng về sự dập tắt.
 
 Và làm thế nào một Tỷ kheo phát triển con đường tám nhánh cao quý lại nghiêng, dốc, và hướng về sự dập tắt? Đó là khi một Tỷ kheo phát triển nhìn đúng, suy nghĩ đúng, lời nói đúng, hành động đúng, sống đúng, nỗ lực đúng, niệm đúng, và định đúng, vốn nghiêng, dốc, và hướng về sự dập tắt. Đó là cách một Tỷ kheo phát triển và tu tập con đường tám nhánh cao quý nghiêng, dốc, và hướng về sự dập tắt."
 
 <!--pg-->
-### N 45.134--138 Hướng ra Biển *Dutiyādisamuddaninnasutta*
+### SN 45.134--138 Hướng ra Biển *Dutiyādisamuddaninnasutta*
 
 "Này các Tỷ kheo, sông Yamunā nghiêng, dốc, và hướng ra biển. ..."
 
@@ -950,7 +950,7 @@ Và làm thế nào một Tỷ kheo phát triển con đường tám nhánh cao 
 <!--pg-->
 ## Chương Tóm Tắt về Sự Tinh cần
 
-### N 45.139 Bậc Giác Ngộ *Tathāgatasutta*
+### SN 45.139 Bậc Giác Ngộ *Tathāgatasutta*
 
 Tại Xá-vệ.
 
@@ -974,14 +974,14 @@ Này các Tỷ kheo, Bậc Giác Ngộ, bậc hoàn thiện, vị Phật toàn g
 Và làm thế nào một Tỷ kheo tinh cần lại phát triển và tu tập con đường tám nhánh cao quý? Đó là khi một Tỷ kheo phát triển nhìn đúng, suy nghĩ đúng, lời nói đúng, hành động đúng, sống đúng, nỗ lực đúng, niệm đúng, và định đúng, vốn nghiêng, dốc, và hướng về sự dập tắt. Đó là cách một Tỷ kheo tinh cần phát triển và tu tập con đường tám nhánh cao quý."
 
 <!--pg-->
-### N 45.140 Dấu Chân *Padasutta*
+### SN 45.140 Dấu Chân *Padasutta*
 
 "Dấu chân của tất cả các sinh vật đi bộ đều có thể nằm gọn trong dấu chân của một con voi. Vì vậy, dấu chân của voi được cho là lớn nhất trong tất cả. Tương tự như vậy, tất cả các phẩm chất thiện đều bắt nguồn từ sự tinh cần và quy tụ tại sự tinh cần, và sự tinh cần được cho là tốt nhất trong số đó. Một Tỷ kheo tinh cần có thể mong đợi phát triển và tu tập con đường tám nhánh cao quý.
 
 Và làm thế nào một Tỷ kheo tinh cần lại phát triển và tu tập con đường tám nhánh cao quý? Đó là khi một Tỷ kheo phát triển nhìn đúng, suy nghĩ đúng, lời nói đúng, hành động đúng, sống đúng, nỗ lực đúng, niệm đúng, và định đúng, vốn dựa trên sự ly dục, sự ly tham, và sự đoạn diệt, và chín muồi trong sự buông bỏ. ... Đó là cách một Tỷ kheo tinh cần phát triển và tu tập con đường tám nhánh cao quý."
 
 <!--pg-->
-### N 45.141--145 Nóc Nhà *Kūṭādisutta*
+### SN 45.141--145 Nóc Nhà *Kūṭādisutta*
 
 "Này các Tỷ kheo, các kèo của một ngôi nhà gỗ đều nghiêng về nóc, dốc về nóc, và gặp nhau ở nóc, vì vậy nóc được cho là cao nhất trong tất cả. Tương tự như vậy..."
 
@@ -996,7 +996,7 @@ Và làm thế nào một Tỷ kheo tinh cần lại phát triển và tu tập 
 "Tất cả các vị vua nhỏ đều là chư hầu của một vị vua chuyển luân, vì vậy vị vua chuyển luân được cho là đứng đầu trong tất cả. ..."
 
 <!--pg-->
-### N 45.146--148 Mặt Trăng, v.v. *Candimādisutta*
+### SN 45.146--148 Mặt Trăng, v.v. *Candimādisutta*
 
 "Ánh sáng của tất cả các vì sao không bằng một phần mười sáu ánh sáng của mặt trăng, vì vậy ánh sáng của mặt trăng được cho là tốt nhất trong tất cả. ..."
 
@@ -1009,7 +1009,7 @@ Và làm thế nào một Tỷ kheo tinh cần lại phát triển và tu tập 
 <!--pg-->
 ## Chương về Sự Chăm Chỉ
 
-### N 45.149 Sự Chăm Chỉ *Balasutta*
+### SN 45.149 Sự Chăm Chỉ *Balasutta*
 
 Tại Xá-vệ.
 
@@ -1024,21 +1024,21 @@ Và làm thế nào một Tỷ kheo dựa trên đạo đức lại phát triể
 "... nghiêng, dốc, và hướng về sự dập tắt..."
 
 <!--pg-->
-### N 45.150 Hạt Giống *Bījasutta*
+### SN 45.150 Hạt Giống *Bījasutta*
 
 "Tất cả các loài cây và hạt giống đạt được sự tăng trưởng, phát triển, và trưởng thành đều phụ thuộc vào mặt đất và dựa trên mặt đất. Tương tự như vậy, một Tỷ kheo phát triển và tu tập con đường tám nhánh cao quý phụ thuộc vào và dựa trên đạo đức, đạt được sự tăng trưởng, phát triển, và trưởng thành trong các phẩm chất tốt.
 
 Và làm thế nào một Tỷ kheo phát triển con đường tám nhánh cao quý phụ thuộc vào và dựa trên đạo đức, đạt được sự tăng trưởng, phát triển, và trưởng thành trong các phẩm chất tốt? Đó là khi một Tỷ kheo phát triển nhìn đúng, suy nghĩ đúng, lời nói đúng, hành động đúng, sống đúng, nỗ lực đúng, niệm đúng, và định đúng, vốn dựa trên sự ly dục, sự ly tham, và sự đoạn diệt, và chín muồi trong sự buông bỏ. Đó là cách một Tỷ kheo phát triển và tu tập con đường tám nhánh cao quý phụ thuộc vào và dựa trên đạo đức, đạt được sự tăng trưởng, phát triển, và trưởng thành trong các phẩm chất tốt."
 
 <!--pg-->
-### N 45.151 Rồng *Nāgasutta*
+### SN 45.151 Rồng *Nāgasutta*
 
 "Này các Tỷ kheo, rồng lớn lên và trở nên mạnh mẽ nhờ vào dãy Himalaya, vua của các ngọn núi. Khi chúng mạnh mẽ, chúng lặn xuống các ao. Sau đó chúng lặn xuống các hồ, các dòng suối, các con sông, và cuối cùng là đại dương. Ở đó chúng có được một thân hình to lớn và dồi dào. Tương tự như vậy, một Tỷ kheo phát triển và tu tập con đường tám nhánh cao quý phụ thuộc vào và dựa trên đạo đức, có được các phẩm chất tốt to lớn và dồi dào.
 
 Và làm thế nào một Tỷ kheo phát triển con đường tám nhánh cao quý phụ thuộc vào và dựa trên đạo đức, có được các phẩm chất tốt to lớn và dồi dào? Đó là khi một Tỷ kheo phát triển nhìn đúng, suy nghĩ đúng, lời nói đúng, hành động đúng, sống đúng, nỗ lực đúng, niệm đúng, và định đúng, vốn dựa trên sự ly dục, sự ly tham, và sự đoạn diệt, và chín muồi trong sự buông bỏ. Đó là cách một Tỷ kheo phát triển và tu tập con đường tám nhánh cao quý phụ thuộc vào và dựa trên đạo đức, có được các phẩm chất tốt to lớn và dồi dào."
 
 <!--pg-->
-### N 45.152 Cây *Rukkhasutta*
+### SN 45.152 Cây *Rukkhasutta*
 
 "Này các Tỷ kheo, giả sử một cái cây nghiêng, dốc, và hướng về phía đông. Nếu nó bị chặt ở gốc, nó sẽ ngã về đâu?"
 
@@ -1049,14 +1049,14 @@ Và làm thế nào một Tỷ kheo phát triển con đường tám nhánh cao 
 Và làm thế nào một Tỷ kheo phát triển con đường tám nhánh cao quý lại nghiêng, dốc, và hướng về sự dập tắt? Đó là khi một Tỷ kheo phát triển nhìn đúng, suy nghĩ đúng, lời nói đúng, hành động đúng, sống đúng, nỗ lực đúng, niệm đúng, và định đúng, vốn dựa trên sự ly dục, sự ly tham, và sự đoạn diệt, và chín muồi trong sự buông bỏ. Đó là cách một Tỷ kheo phát triển và tu tập con đường tám nhánh cao quý nghiêng, dốc, và hướng về sự dập tắt."
 
 <!--pg-->
-### N 45.153 Nồi *Kumbhasutta*
+### SN 45.153 Nồi *Kumbhasutta*
 
 "Này các Tỷ kheo, giả sử một cái nồi đầy nước bị lật úp, nước chảy ra hết và không quay trở lại. Tương tự như vậy, một Tỷ kheo phát triển và tu tập con đường tám nhánh cao quý sẽ loại bỏ các phẩm chất xấu, bất thiện và không để chúng quay trở lại.
 
 Và làm thế nào một Tỷ kheo phát triển con đường tám nhánh cao quý lại loại bỏ các phẩm chất xấu, bất thiện và không để chúng quay trở lại? Đó là khi một Tỷ kheo phát triển nhìn đúng, suy nghĩ đúng, lời nói đúng, hành động đúng, sống đúng, nỗ lực đúng, niệm đúng, và định đúng, vốn dựa trên sự ly dục, sự ly tham, và sự đoạn diệt, và chín muồi trong sự buông bỏ. Đó là cách một Tỷ kheo phát triển và tu tập con đường tám nhánh cao quý loại bỏ các phẩm chất xấu, bất thiện và không để chúng quay trở lại."
 
 <!--pg-->
-### N 45.154 Một Cái Gai *Sūkasutta*
+### SN 45.154 Một Cái Gai *Sūkasutta*
 
 "Này các Tỷ kheo, giả sử một cái gai lúa hoặc lúa mạch được chỉa đúng hướng. Nếu các con dẫm lên nó bằng tay hoặc chân, có thể nó sẽ đâm rách da và làm chảy máu. Tại sao vậy? Vì cái gai được chỉa đúng hướng.
 
@@ -1065,35 +1065,35 @@ Tương tự như vậy, một Tỷ kheo có cái nhìn và sự phát triển c
 Và làm thế nào một Tỷ kheo có cái nhìn và sự phát triển con đường được chỉa đúng hướng lại phá vỡ vô minh, làm nảy sinh minh, và nhận ra sự dập tắt? Đó là khi một Tỷ kheo phát triển nhìn đúng, suy nghĩ đúng, lời nói đúng, hành động đúng, sống đúng, nỗ lực đúng, niệm đúng, và định đúng, vốn dựa trên sự ly dục, sự ly tham, và sự đoạn diệt, và chín muồi trong sự buông bỏ. Đó là cách một Tỷ kheo có cái nhìn và sự phát triển con đường được chỉa đúng hướng phá vỡ vô minh, làm nảy sinh minh, và nhận ra sự dập tắt."
 
 <!--pg-->
-### N 45.155 Bầu Trời *Ākāsasutta*
+### SN 45.155 Bầu Trời *Ākāsasutta*
 
 "Này các Tỷ kheo, có nhiều loại gió thổi trên bầu trời. Gió thổi từ phía đông, phía tây, phía bắc, và phía nam. Có những cơn gió bụi bặm và không bụi, mát và ấm, yếu và mạnh. Tương tự như vậy, khi con đường tám nhánh cao quý được phát triển và tu tập, những điều sau đây được phát triển đầy đủ: *bốn niệm xứ* (the four kinds of mindfulness meditation / bốn nơi để thực hành chánh niệm), bốn *tinh cần đúng đắn* (right efforts / *chánh cần*), bốn *nền tảng của thần lực* (bases of psychic power / *thần túc*), năm *năng lực* (faculties / *căn* / khả năng, năng lực), năm *sức mạnh* (powers / *lực*), và bảy yếu tố của sự giác ngộ.
 
 Và chúng được phát triển đầy đủ như thế nào? Đó là khi một Tỷ kheo phát triển nhìn đúng, suy nghĩ đúng, lời nói đúng, hành động đúng, sống đúng, nỗ lực đúng, niệm đúng, và định đúng, vốn dựa trên sự ly dục, sự ly tham, và sự đoạn diệt, và chín muồi trong sự buông bỏ. Đó là cách chúng được phát triển đầy đủ."
 
 <!--pg-->
-### N 45.156 Bão (Thứ Nhất) *Paṭhamameghasutta*
+### SN 45.156 Bão (Thứ Nhất) *Paṭhamameghasutta*
 
 "Này các Tỷ kheo, vào tháng cuối cùng của mùa hè, khi bụi bẩn bị khuấy động, một cơn bão lớn bất ngờ làm tan và lắng đọng nó ngay tại chỗ. Tương tự như vậy, một Tỷ kheo phát triển và tu tập con đường tám nhánh cao quý sẽ làm tan và lắng dịu các phẩm chất xấu, bất thiện ngay tại chỗ.
 
 Làm thế nào một Tỷ kheo phát triển con đường tám nhánh cao quý lại làm tan và lắng dịu các phẩm chất xấu, bất thiện ngay tại chỗ? Đó là khi một Tỷ kheo phát triển nhìn đúng, suy nghĩ đúng, lời nói đúng, hành động đúng, sống đúng, nỗ lực đúng, niệm đúng, và định đúng, vốn dựa trên sự ly dục, sự ly tham, và sự đoạn diệt, và chín muồi trong sự buông bỏ. Đó là cách một Tỷ kheo phát triển và tu tập con đường tám nhánh cao quý làm tan và lắng dịu các phẩm chất xấu, bất thiện ngay tại chỗ."
 
 <!--pg-->
-### N 45.157 Bão (Thứ Hai) *Dutiyameghasutta*
+### SN 45.157 Bão (Thứ Hai) *Dutiyameghasutta*
 
 "Này các Tỷ kheo, khi một cơn bão lớn nổi lên, một cơn gió mạnh làm tan và lắng đọng nó khi nó tiến tới. Tương tự như vậy, một Tỷ kheo phát triển và tu tập con đường tám nhánh cao quý sẽ làm tan và lắng dịu các phẩm chất xấu, bất thiện khi chúng tiến tới.
 
 Và làm thế nào một Tỷ kheo phát triển con đường tám nhánh cao quý lại làm tan và lắng dịu các phẩm chất xấu, bất thiện khi chúng tiến tới? Đó là khi một Tỷ kheo phát triển nhìn đúng, suy nghĩ đúng, lời nói đúng, hành động đúng, sống đúng, nỗ lực đúng, niệm đúng, và định đúng, vốn dựa trên sự ly dục, sự ly tham, và sự đoạn diệt, và chín muồi trong sự buông bỏ. Đó là cách một Tỷ kheo phát triển và tu tập con đường tám nhánh cao quý làm tan và lắng dịu các phẩm chất xấu, bất thiện khi chúng tiến tới."
 
 <!--pg-->
-### N 45.158 Một Con Tàu *Nāvāsutta*
+### SN 45.158 Một Con Tàu *Nāvāsutta*
 
 "Này các Tỷ kheo, giả sử có một con tàu đi biển được buộc lại bằng dây thừng. Trong sáu tháng, chúng bị hư hỏng trong nước. Sau đó, vào mùa lạnh, nó được kéo lên bờ khô, nơi các sợi dây bị gió và nắng làm cho mục nát. Khi mây mưa làm ướt chúng, các sợi dây sẽ dễ dàng sụp đổ và mục rữa. Tương tự như vậy, khi một Tỷ kheo phát triển và tu tập con đường tám nhánh cao quý, các xiềng xích của họ sẽ dễ dàng sụp đổ và mục rữa.
 
 Và làm thế nào họ phát triển và tu tập con đường tám nhánh cao quý để các xiềng xích của họ dễ dàng sụp đổ và mục rữa? Đó là khi một Tỷ kheo phát triển nhìn đúng, suy nghĩ đúng, lời nói đúng, hành động đúng, sống đúng, nỗ lực đúng, niệm đúng, và định đúng, vốn dựa trên sự ly dục, sự ly tham, và sự đoạn diệt, và chín muồi trong sự buông bỏ. Đó là cách họ phát triển và tu tập con đường tám nhánh cao quý để các xiềng xích của họ dễ dàng sụp đổ và mục rữa."
 
 <!--pg-->
-### N 45.159 Một Nhà Trọ *Āgantukasutta*
+### SN 45.159 Một Nhà Trọ *Āgantukasutta*
 
 "Này các Tỷ kheo, giả sử có một nhà trọ. Khách trọ đến từ phía đông, tây, bắc, và nam. Quý tộc, bà-la-môn, nông dân, và tiện dân đều ở đó. Tương tự như vậy, một Tỷ kheo phát triển và tu tập con đường tám nhánh cao quý sẽ *hiểu biết hoàn toàn* bằng *hiểu biết trực tiếp* những điều cần được *hiểu biết hoàn toàn* bằng *hiểu biết trực tiếp*. Họ từ bỏ bằng *hiểu biết trực tiếp* những điều cần được từ bỏ bằng *hiểu biết trực tiếp*. Họ nhận ra bằng *hiểu biết trực tiếp* những điều cần được nhận ra bằng *hiểu biết trực tiếp*. Họ phát triển bằng *hiểu biết trực tiếp* những điều cần được phát triển bằng *hiểu biết trực tiếp*.
 
@@ -1102,7 +1102,7 @@ Và những điều cần được *hiểu biết hoàn toàn* bằng *hiểu bi
 Và làm thế nào một Tỷ kheo phát triển con đường tám nhánh cao quý theo cách này? Đó là khi một Tỷ kheo phát triển nhìn đúng, suy nghĩ đúng, lời nói đúng, hành động đúng, sống đúng, nỗ lực đúng, niệm đúng, và định đúng, vốn dựa trên sự ly dục, sự ly tham, và sự đoạn diệt, và chín muồi trong sự buông bỏ. Đó là cách một Tỷ kheo phát triển và tu tập con đường tám nhánh cao quý theo cách này."
 
 <!--pg-->
-### N 45.160 Một Con Sông *Nadīsutta*
+### SN 45.160 Một Con Sông *Nadīsutta*
 
 "Này các Tỷ kheo, giả sử rằng, mặc dù sông Hằng nghiêng, dốc, và hướng về phía đông, một đám đông lớn đến với cuốc và giỏ, nói rằng: 'Chúng ta sẽ làm cho sông Hằng này nghiêng, dốc, và hướng về phía tây!'
 
@@ -1117,7 +1117,7 @@ Và làm thế nào một Tỷ kheo phát triển con đường tám nhánh cao 
 <!--pg-->
 ## Chương về Sự Tìm Kiếm
 
-### N 45.161 Sự Tìm Kiếm *Esanāsutta*
+### SN 45.161 Sự Tìm Kiếm *Esanāsutta*
 
 Tại Xá-vệ.
 
@@ -1167,7 +1167,7 @@ Con đường tám nhánh cao quý nên được phát triển để từ bỏ..
 *(Kể đầy đủ với "từ bỏ" thay vì "*hiểu biết trực tiếp*".)*
 
 <!--pg-->
-### N 45.162 Sự Phân Biệt *Vidhāsutta*
+### SN 45.162 Sự Phân Biệt *Vidhāsutta*
 
 "Này các Tỷ kheo, có ba loại phân biệt. Ba loại nào? Người ta phân biệt, nghĩ rằng 'tôi giỏi hơn' hoặc 'tôi bằng' hoặc 'tôi kém hơn'. Đây là ba loại phân biệt.
 
@@ -1176,21 +1176,21 @@ Con đường tám nhánh cao quý nên được phát triển để *hiểu bi�
 **(Kể đầy đủ như trong phần về sự tìm kiếm.)**
 
 <!--pg-->
-### N 45.163 Ô Nhiễm *Āsavasutta*
+### SN 45.163 Ô Nhiễm *Āsavasutta*
 
 "Này các Tỷ kheo, có ba loại ô nhiễm này. Ba loại nào? Ô nhiễm của dục vọng, mong muốn tái sinh, và vô minh. Đây là ba loại ô nhiễm.
 
 Con đường tám nhánh cao quý nên được phát triển để *hiểu biết trực tiếp*, *hiểu biết hoàn toàn*, kết thúc, và từ bỏ ba loại ô nhiễm này."
 
 <!--pg-->
-### N 45.164 Trạng Thái Tồn Tại *Bhavasutta*
+### SN 45.164 Trạng Thái Tồn Tại *Bhavasutta*
 
 "Có ba trạng thái tồn tại này. Ba trạng thái nào? Tồn tại trong cõi dục, cõi sắc giới, và cõi vô sắc. Đây là ba trạng thái tồn tại.
 
 Con đường tám nhánh cao quý nên được phát triển để *hiểu biết trực tiếp*, *hiểu biết hoàn toàn*, kết thúc, và từ bỏ ba trạng thái tồn tại này."
 
 <!--pg-->
-### N 45.165 Các Dạng Khổ Đau *Dukkhatāsutta*
+### SN 45.165 Các Dạng Khổ Đau *Dukkhatāsutta*
 
 "Này các Tỷ kheo, có ba dạng khổ đau này. Ba dạng nào? Nỗi khổ đến từ cảm sự đau đớn;
 Nỗi khổ đến từ sự thay đổi (biến hoại);
@@ -1199,35 +1199,35 @@ và nỗi khổ đến từ bản chất của vạn vật (Nỗi khổ là bả
 Con đường tám nhánh cao quý nên được phát triển để *hiểu biết trực tiếp*, *hiểu biết hoàn toàn*, kết thúc, và từ bỏ ba dạng khổ đau này."
 
 <!--pg-->
-### N 45.166 Các Loại Cằn Cỗi *Khilasutta*
+### SN 45.166 Các Loại Cằn Cỗi *Khilasutta*
 
 "Này các Tỷ kheo, có ba loại cằn cỗi này. Ba loại nào? Tham, sân, và si. Đây là ba loại cằn cỗi.
 
 Con đường tám nhánh cao quý nên được phát triển để *hiểu biết trực tiếp*, *hiểu biết hoàn toàn*, kết thúc, và từ bỏ ba loại cằn cỗi này."
 
 <!--pg-->
-### N 45.167 Vết Bẩn *Malasutta*
+### SN 45.167 Vết Bẩn *Malasutta*
 
 "Này các Tỷ kheo, có ba vết bẩn này. Ba vết bẩn nào? Tham, sân, và si. Đây là ba vết bẩn.
 
 Con đường tám nhánh cao quý nên được phát triển để *hiểu biết trực tiếp*, *hiểu biết hoàn toàn*, kết thúc, và từ bỏ ba vết bẩn này."
 
 <!--pg-->
-### N 45.168 Phiền Não *Nīghasutta*
+### SN 45.168 Phiền Não *Nīghasutta*
 
 "Này các Tỷ kheo, có ba phiền não này. Ba phiền não nào? Tham, sân, và si. Đây là ba phiền não.
 
 Con đường tám nhánh cao quý nên được phát triển để *hiểu biết trực tiếp*, *hiểu biết hoàn toàn*, kết thúc, và từ bỏ ba phiền não này."
 
 <!--pg-->
-### N 45.169 Cảm Giác *Vedanāsutta*
+### SN 45.169 Cảm Giác *Vedanāsutta*
 
 "Này các Tỷ kheo, có ba cảm giác này: Ba cảm giác nào? Dễ chịu, khó chịu, và trung tính. Đây là ba cảm giác.
 
 Con đường tám nhánh cao quý nên được phát triển để *hiểu biết trực tiếp*, *hiểu biết hoàn toàn*, kết thúc, và từ bỏ ba cảm giác này."
 
 <!--pg-->
-### N 45.170 Ái Dục *Taṇhāsutta*
+### SN 45.170 Ái Dục *Taṇhāsutta*
 
 "Này các Tỷ kheo, có ba loại ái dục này. Ba loại nào? Ái dục đối với các thú vui giác quan, ái dục để tiếp tục tồn tại, và ái dục để chấm dứt tồn tại. Đây là ba loại ái dục.
 
@@ -1247,7 +1247,7 @@ Con đường tám nhánh cao quý nên được phát triển để *hiểu bi�
 <!--pg-->
 ## Chương về Bộc Lưu
 
-### N 45.171 Bộc Lưu *Oghasutta*
+### SN 45.171 Bộc Lưu *Oghasutta*
 
 Tại Xá-vệ.
 
@@ -1258,63 +1258,63 @@ Con đường tám nhánh cao quý nên được phát triển để *hiểu bi�
 **(Kể đầy đủ như trong phần về sự tìm kiếm.)**
 
 <!--pg-->
-### N 45.172 Ách Trói Buộc *Yogasutta*
+### SN 45.172 Ách Trói Buộc *Yogasutta*
 
 "Này các Tỷ kheo, có bốn *ách trói buộc* (yokes / *yoga* / gông cùm) này. Bốn ách nào? Ách trói buộc của các thú vui giác quan, các kiếp sống tương lai, tà kiến, và vô minh. Đây là bốn ách trói buộc.
 
 Con đường tám nhánh cao quý nên được phát triển để *hiểu biết trực tiếp*, *hiểu biết hoàn toàn*, kết thúc, và từ bỏ bốn ách trói buộc này."
 
 <!--pg-->
-### N 45.173 Bám Giữ *Upādānasutta*
+### SN 45.173 Bám Giữ *Upādānasutta*
 
 "Này các Tỷ kheo, có bốn loại bám giữ này. Bốn loại nào? Bám giữ vào các thú vui giác quan, tà kiến, *sùng tín và giáo điều* (misapprehension of precepts and observances / *giới cấm thủ* / mê tín và rập khuôn), và các lý thuyết về một cái tôi. Đây là bốn loại bám giữ.
 
 Con đường tám nhánh cao quý nên được phát triển để *hiểu biết trực tiếp*, *hiểu biết hoàn toàn*, kết thúc, và từ bỏ bốn loại bám giữ này."
 
 <!--pg-->
-### N 45.174 Sự Trói Buộc Cá Nhân *Ganthasutta*
+### SN 45.174 Sự Trói Buộc Cá Nhân *Ganthasutta*
 
 "Này các Tỷ kheo, có bốn sự trói buộc này. Bốn sự trói buộc nào? Sự trói buộc cá nhân vào lòng tham lam, ác ý, sùng tín và giáo điều, và sự khăng khăng rằng đây là chân lý duy nhất. Đây là bốn sự trói buộc.
 
 Con đường tám nhánh cao quý nên được phát triển để *hiểu biết trực tiếp*, *hiểu biết hoàn toàn*, kết thúc, và từ bỏ bốn sự trói buộc này."
 
 <!--pg-->
-### N 45.175 Các Khuynh Hướng *Anusayasutta*
+### SN 45.175 Các Khuynh Hướng *Anusayasutta*
 
 "Này các Tỷ kheo, có bảy khuynh hướng ngầm hướng về này. Bảy khuynh hướng nào? Khuynh hướng ngầm hướng về tham dục, ác cảm, tà kiến, nghi ngờ, ngã mạn, mong muốn tái sinh, và vô minh. Đây là bảy khuynh hướng ngầm hướng về.
 
 Con đường tám nhánh cao quý nên được phát triển để *hiểu biết trực tiếp*, *hiểu biết hoàn toàn*, kết thúc, và từ bỏ bảy khuynh hướng ngầm hướng về này."
 
 <!--pg-->
-### N 45.176 Các Loại Kích Thích Giác Quan *Kāmaguṇasutta*
+### SN 45.176 Các Loại Kích Thích Giác Quan *Kāmaguṇasutta*
 
 "Này các Tỷ kheo, có năm loại kích thích giác quan này. Năm loại nào? Hình ảnh được biết bởi mắt, vốn đáng yêu, đáng mong muốn, dễ chịu, thú vị, thuộc về giác quan, và khêu gợi. Âm thanh được biết bởi tai... Mùi hương được biết bởi mũi... Vị được biết bởi lưỡi... Sự xúc chạm được biết bởi thân, vốn đáng yêu, đáng mong muốn, dễ chịu, thú vị, thuộc về giác quan, và khêu gợi. Đây là năm loại kích thích giác quan.
 
 Con đường tám nhánh cao quý nên được phát triển để *hiểu biết trực tiếp*, *hiểu biết hoàn toàn*, kết thúc, và từ bỏ năm loại kích thích giác quan này."
 
 <!--pg-->
-### N 45.177 Phiền Nhiễu *Nīvaraṇasutta*
+### SN 45.177 Phiền Nhiễu *Nīvaraṇasutta*
 
 "Này các Tỷ kheo, có năm *Phiền nhiễu* (hindrances / *triền cái* / chướng ngại, là trạng thái bất an, bồn chồn gây khó tập trung trong hiện tại) này. Năm phiền nhiễu nào? Phiền nhiễu của tham dục, tức giận, tâm trí đờ đẫn và buồn ngủ, tâm bất an và hối tiếc, và nghi ngờ. Đây là năm phiền nhiễu.
 
 Con đường tám nhánh cao quý nên được phát triển để *hiểu biết trực tiếp*, *hiểu biết hoàn toàn*, kết thúc, và từ bỏ năm phiền nhiễu này."
 
 <!--pg-->
-### N 45.178 Các Uẩn Bám Giữ *Upādānakkhandhasutta*
+### SN 45.178 Các Uẩn Bám Giữ *Upādānakkhandhasutta*
 
 "Này các Tỷ kheo, có năm uẩn bám giữ này. Năm uẩn nào? Các uẩn bám giữ của cơ thể, cảm giác, nhận thức, hành động, và thức. Đây là năm uẩn bám giữ.
 
 Con đường tám nhánh cao quý nên được phát triển để *hiểu biết trực tiếp*, *hiểu biết hoàn toàn*, kết thúc, và từ bỏ năm uẩn bám giữ này."
 
 <!--pg-->
-### N 45.179 Các Xiềng Xích Thấp *Orambhāgiyasutta*
+### SN 45.179 Các Xiềng Xích Thấp *Orambhāgiyasutta*
 
 "Này các Tỷ kheo, có năm xiềng xích thấp. Năm xiềng xích nào? *Thân kiến* (Substantialist view / quan điểm về một thực thể bền vững), nghi ngờ, sùng tín và giáo điều, tham dục, và tức giận. Đây là năm xiềng xích thấp.
 
 Con đường tám nhánh cao quý nên được phát triển để *hiểu biết trực tiếp*, *hiểu biết hoàn toàn*, kết thúc, và từ bỏ năm xiềng xích thấp này."
 
 <!--pg-->
-### N 45.180 Các Xiềng Xích Cao *Uddhambhāgiyasutta*
+### SN 45.180 Các Xiềng Xích Cao *Uddhambhāgiyasutta*
 
 "Này các Tỷ kheo, có năm xiềng xích cao. Năm xiềng xích nào? Mong muốn tái sinh trong cõi sắc giới, mong muốn tái sinh trong cõi vô sắc, ngã mạn, bồn chồn lo lắng, và vô minh. Đây là năm xiềng xích cao.
 

@@ -3,7 +3,7 @@
 <!--pg-->
 ## The Chapter with Jambukhādaka
 
-### N 38.1 A Question About Extinguishment *Nibbānapañhāsutta*
+### SN 38.1 A Question About Extinguishment *Nibbānapañhāsutta*
 
 At one time Venerable Sāriputta was staying in the land of
 the Magadhans near the little village of Nālaka. Then the
@@ -34,7 +34,7 @@ for realizing this extinguishment."
 extinguishment. Just this much is enough to be diligent."
 
 <!--pg-->
-### N 38.2 A Question About Perfection *Arahattapañhāsutta*
+### SN 38.2 A Question About Perfection *Arahattapañhāsutta*
 
 "Reverend Sāriputta, they speak of this thing called
 'perfection'. What is perfection?"
@@ -58,7 +58,7 @@ for realizing this perfection."
 perfection. Just this much is enough to be diligent."
 
 <!--pg-->
-### N 38.3 Principled Speech *Dhammavādīpañhāsutta*
+### SN 38.3 Principled Speech *Dhammavādīpañhāsutta*
 
 "Reverend Sāriputta, who in the world have principled
 speech? Who in the world practice well? Who are the Holy Ones in the
@@ -87,7 +87,7 @@ practice for giving up that greed, hate, and delusion."
 delusion. Just this much is enough to be diligent."
 
 <!--pg-->
-### N 38.4 What's the Purpose *Kimatthiyasutta*
+### SN 38.4 What's the Purpose *Kimatthiyasutta*
 
 "Reverend Sāriputta, what's the purpose of leading the
 spiritual life under the ascetic Gotama?"
@@ -101,7 +101,7 @@ understanding this suffering?"
 "There is." ...
 
 <!--pg-->
-### N 38.5 Solace *Assāsappattasutta*
+### SN 38.5 Solace *Assāsappattasutta*
 
 "Reverend Sāriputta, they speak of this thing called
 'gaining solace'. At what point do you gain solace?"
@@ -116,7 +116,7 @@ solace?"
 "There is." ...
 
 <!--pg-->
-### N 38.6 Ultimate Solace *Paramassāsappattasutta*
+### SN 38.6 Ultimate Solace *Paramassāsappattasutta*
 
 "Reverend Sāriputta, they speak of this thing called
 'gaining ultimate solace'. At what point do you gain ultimate solace?"
@@ -131,7 +131,7 @@ ultimate solace?"
 "There is." ...
 
 <!--pg-->
-### N 38.7 A Question About Feeling *Vedanāpañhāsutta*
+### SN 38.7 A Question About Feeling *Vedanāpañhāsutta*
 
 "Reverend Sāriputta, they speak of this thing called
 'feeling'. What is feeling?"
@@ -145,7 +145,7 @@ understanding these three feelings?"
 "There is." ...
 
 <!--pg-->
-### N 38.8 A Question About Defilements *Āsavapañhāsutta*
+### SN 38.8 A Question About Defilements *Āsavapañhāsutta*
 
 "Reverend Sāriputta, they speak of this thing called
 'defilement'. What is defilement?"
@@ -159,7 +159,7 @@ understanding these three defilements?"
 "There is." ...
 
 <!--pg-->
-### N 38.9 A Question About Ignorance *Avijjāpañhāsutta*
+### SN 38.9 A Question About Ignorance *Avijjāpañhāsutta*
 
 "Reverend Sāriputta, they speak of this thing called
 'ignorance'. What is ignorance?"
@@ -174,7 +174,7 @@ ignorance?"
 "There is." ...
 
 <!--pg-->
-### N 38.10 A Question About Craving *Taṇhāpañhāsutta*
+### SN 38.10 A Question About Craving *Taṇhāpañhāsutta*
 
 "Reverend Sāriputta, they speak of this thing called
 'craving'. What is craving?"
@@ -189,7 +189,7 @@ understanding these cravings?"
 "There is." ...
 
 <!--pg-->
-### N 38.11 A Question About Floods *Oghapañhāsutta*
+### SN 38.11 A Question About Floods *Oghapañhāsutta*
 
 "Reverend Sāriputta, they speak of this thing called 'a
 flood'. What is a flood?"
@@ -203,7 +203,7 @@ understanding these floods?"
 "There is." ...
 
 <!--pg-->
-### N 38.12 A Question About Grasping *Upādānapañhāsutta*
+### SN 38.12 A Question About Grasping *Upādānapañhāsutta*
 
 "Reverend Sāriputta, they speak of this thing called
 'grasping'. What is grasping?"
@@ -218,7 +218,7 @@ understanding these four kinds of grasping?"
 "There is." ...
 
 <!--pg-->
-### N 38.13 A Question About States of Existence *Bhavapañhāsutta*
+### SN 38.13 A Question About States of Existence *Bhavapañhāsutta*
 
 "Reverend Sāriputta, they speak of these things called
 'states of existence'. What are states of existence?"
@@ -233,7 +233,7 @@ understanding these three states of existence?"
 "There is." ...
 
 <!--pg-->
-### N 38.14 A Question About Suffering *Dukkhapañhāsutta*
+### SN 38.14 A Question About Suffering *Dukkhapañhāsutta*
 
 "Reverend Sāriputta, they speak of this thing called
 'suffering'. What is suffering?"
@@ -249,7 +249,7 @@ understanding these forms of suffering?"
 "There is." ...
 
 <!--pg-->
-### N 38.15 A Question About Substantial Reality *Sakkāyapañhāsutta*
+### SN 38.15 A Question About Substantial Reality *Sakkāyapañhāsutta*
 
 "Reverend Sāriputta, they speak of this thing called
 'substantial reality'. What is substantial reality?"
@@ -265,7 +265,7 @@ understanding this substantial reality?"
 "There is." ...
 
 <!--pg-->
-### N 38.16 A Question About What's Hard to Do *Dukkarapañhāsutta*
+### SN 38.16 A Question About What's Hard to Do *Dukkarapañhāsutta*
 
 "Reverend Sāriputta, in this teaching and training, what is
 hard to do?"

@@ -1,4 +1,4 @@
-# 57. Kinh Người Khổ Hạnh Hạnh Chó
+# MN 57. Kinh Người Khổ Hạnh Hạnh Chó
 ***(Kukkuravatika Sutta)***
 
 1\.  Tôi nghe như vầy. Một thời Đức Thế Tôn trú ở xứ Koliya, tại một thị trấn của người Koliya tên là Haliddavasana.

@@ -1,4 +1,4 @@
-# 105. Kinh Gửi Sunakkhatta
+# MN 105. Kinh Gửi Sunakkhatta
 ***(Sunakkhatta Sutta)***
 
 [252] 1. Tôi nghe như vầy. Một thời Đức Thế Tôn trú tại Vesālī, trong Đại Lâm (khu rừng lớn), tại Trùng Các Giảng Đường (ngôi nhà có mái nhọn).

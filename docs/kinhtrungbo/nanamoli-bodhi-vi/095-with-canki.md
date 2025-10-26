@@ -1,4 +1,4 @@
-# 95. Kinh Caṅkī
+# MN 95. Kinh Caṅkī
 ***(Caṅkī Sutta)***
 
 [164] 1. Tôi nghe như vầy. Có một thời Đức Thế Tôn đang du hành ở nước Kosala cùng với một đại Tăng đoàn gồm các vị tỳ kheo (bhikkhus - nhà sư), và cuối cùng ngài đến một làng Bà-la-môn của xứ Kosala tên là Opasāda. Tại đó, Đức Thế Tôn trú trong Rừng Chư Thiên, khu rừng cây Sāla ở phía bắc Opasāda.

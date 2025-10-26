@@ -1,4 +1,4 @@
-# 19. Hai Loại Suy Nghĩ
+# MN 19. Hai Loại Suy Nghĩ
 ***(Dvedhāvitakka Sutta)***
 
 1\. Tôi nghe như vầy. Có một lần Đức Phật (the Blessed One) đang ở tại Sāvatthī trong Rừng Jeta, Công viên của Anāthapiṇ̣ika. Ở đó, ngài nói với các tỳ kheo (bhikkhus - các nhà sư) rằng: "Này các tỳ kheo." - "Bạch Thế Tôn," họ đáp. Đức Phật nói điều này:

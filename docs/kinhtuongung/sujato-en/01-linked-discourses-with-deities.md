@@ -3,7 +3,7 @@
 <!--pg-->
 ## The Chapter on a Reed
 
-### N 1.1 Crossing the Flood *Oghataraṇasutta*
+### SN 1.1 Crossing the Flood *Oghataraṇasutta*
 
 So I have heard. At one time the Buddha was staying near
 Sāvatthī in Jeta's Grove, Anāthapiṇḍika's
@@ -30,7 +30,7 @@ knowing that the teacher approved, bowed and respectfully circled the
 Buddha, keeping him on his right, before vanishing right there.
 
 <!--pg-->
-### N 1.2 Liberation *Nimokkhasutta*
+### SN 1.2 Liberation *Nimokkhasutta*
 
 At Sāvatthī.
 
@@ -50,7 +50,7 @@ good sir, is how I understand liberation, emancipation, and seclusion
 for sentient beings."
 
 <!--pg-->
-### N 1.3 Led On *Upanīyasutta*
+### SN 1.3 Led On *Upanīyasutta*
 
 At Sāvatthī.
 
@@ -68,7 +68,7 @@ presence:
 > a seeker of peace would drop the world's bait."
 
 <!--pg-->
-### N 1.4 Time Flies *Accentisutta*
+### SN 1.4 Time Flies *Accentisutta*
 
 At Sāvatthī.
 
@@ -86,7 +86,7 @@ presence:
 > a seeker of peace would drop the world's bait."
 
 <!--pg-->
-### N 1.5 Cut How Many? *Katichindasutta*
+### SN 1.5 Cut How Many? *Katichindasutta*
 
 At Sāvatthī.
 
@@ -104,7 +104,7 @@ presence:
 > they're said to have crossed the flood."
 
 <!--pg-->
-### N 1.6 Awake *Jāgarasutta*
+### SN 1.6 Awake *Jāgarasutta*
 
 At Sāvatthī.
 
@@ -122,7 +122,7 @@ presence:
 > By five you're cleansed."
 
 <!--pg-->
-### N 1.7 Not Comprehending *Appaṭividitasutta*
+### SN 1.7 Not Comprehending *Appaṭividitasutta*
 
 At Sāvatthī.
 
@@ -140,7 +140,7 @@ presence:
 > smoothly they walk in the rough."
 
 <!--pg-->
-### N 1.8 Very Confused *Susammuṭṭhasutta*
+### SN 1.8 Very Confused *Susammuṭṭhasutta*
 
 At Sāvatthī.
 
@@ -158,7 +158,7 @@ presence:
 > smoothly they walk in the rough."
 
 <!--pg-->
-### N 1.9 Fond of Conceit *Mānakāmasutta*
+### SN 1.9 Fond of Conceit *Mānakāmasutta*
 
 At Sāvatthī.
 
@@ -176,7 +176,7 @@ presence:
 > they pass beyond Death's dominion."
 
 <!--pg-->
-### N 1.10 Wilderness *Araññasutta*
+### SN 1.10 Wilderness *Araññasutta*
 
 At Sāvatthī.
 
@@ -200,7 +200,7 @@ Standing to one side, that deity addressed the Buddha in verse:
 <!--pg-->
 ## The Chapter on the Garden of Delight
 
-### N 1.11 The Garden of Delight *Nandanasutta*
+### SN 1.11 The Garden of Delight *Nandanasutta*
 
 So I have heard. At one time the Buddha was staying near
 Sāvatthī in Jeta's Grove, Anāthapiṇḍika's
@@ -228,7 +228,7 @@ When they had spoken, another deity replied with this verse:
 > their stilling is blissful.'"
 
 <!--pg-->
-### N 1.12 Delight *Nandatisutta*
+### SN 1.12 Delight *Nandatisutta*
 
 At Sāvatthī.
 
@@ -246,7 +246,7 @@ presence:
 > without attachments there are no sorrows."
 
 <!--pg-->
-### N 1.13 There's Nothing Like a Child *Natthiputtasamasutta*
+### SN 1.13 There's Nothing Like a Child *Natthiputtasamasutta*
 
 At Sāvatthī.
 
@@ -264,7 +264,7 @@ presence:
 > and of waters the rain is paramount."
 
 <!--pg-->
-### N 1.14 Aristocrats *Khattiyasutta*
+### SN 1.14 Aristocrats *Khattiyasutta*
 
 > "An aristocrat is the best of bipeds,\
 > an ox is the best of quadrupeds,\
@@ -277,7 +277,7 @@ presence:
 > and the best of sons is loyal."
 
 <!--pg-->
-### N 1.15 Whispering *Saṇamānasutta*
+### SN 1.15 Whispering *Saṇamānasutta*
 
 > "In the still of high noon,\
 > when the birds have settled down,\
@@ -290,7 +290,7 @@ presence:
 > that strikes me as so delightful!"
 
 <!--pg-->
-### N 1.16 Sleepiness and Sloth *Niddātandīsutta*
+### SN 1.16 Sleepiness and Sloth *Niddātandīsutta*
 
 > "Sleepiness, sloth, and yawning,\
 > discontent, and grogginess after eating:\
@@ -303,7 +303,7 @@ presence:
 > the noble path is purified."
 
 <!--pg-->
-### N 1.17 Hard to Do *Dukkarasutta*
+### SN 1.17 Hard to Do *Dukkarasutta*
 
 > "Hard to do, hard to endure,\
 > is the ascetic life for the inept,\
@@ -321,7 +321,7 @@ presence:
 > quenched: they wouldn't blame anyone."
 
 <!--pg-->
-### N 1.18 Conscience *Hirīsutta*
+### SN 1.18 Conscience *Hirīsutta*
 
 > "Can a person constrained by conscience\
 > be found in the world?\
@@ -334,7 +334,7 @@ presence:
 > smoothly they walk in the rough."
 
 <!--pg-->
-### N 1.19 Little Hut *Kuṭikāsutta*
+### SN 1.19 Little Hut *Kuṭikāsutta*
 
 > "Don't you have a little hut?\
 > Don't you have a little nest?\
@@ -362,7 +362,7 @@ presence:
 > And good that you're free from shackles."
 
 <!--pg-->
-### N 1.20 With Samiddhi *Samiddhisutta*
+### SN 1.20 With Samiddhi *Samiddhisutta*
 
 So I have heard. At one time the Buddha was staying near
 Rājagaha in the Hot Springs Monastery.
@@ -476,7 +476,7 @@ statement:
 <!--pg-->
 ## The Chapter on a Sword
 
-### N 1.21 A Sword *Sattisutta*
+### SN 1.21 A Sword *Sattisutta*
 
 At Sāvatthī.
 
@@ -494,7 +494,7 @@ presence:
 > to give up substantialist view."
 
 <!--pg-->
-### N 1.22 Impact *Phusatisutta*
+### SN 1.22 Impact *Phusatisutta*
 
 > "It doesn't impact a person who doesn't impact others.\
 > It impacts a person because they impact others.\
@@ -507,7 +507,7 @@ presence:
 > like fine dust thrown upwind."
 
 <!--pg-->
-### N 1.23 A Tangle *Jaṭāsutta*
+### SN 1.23 A Tangle *Jaṭāsutta*
 
 > "Tangled within, tangled without:\
 > these people are tangled in tangles.\
@@ -530,7 +530,7 @@ presence:
 > it's there that the tangle is cut."
 
 <!--pg-->
-### N 1.24 Shielding the Mind *Manonivāraṇasutta*
+### SN 1.24 Shielding the Mind *Manonivāraṇasutta*
 
 > "Whatever you've shielded the mind from\
 > can't cause you suffering.\
@@ -543,7 +543,7 @@ presence:
 > from where the bad things come."
 
 <!--pg-->
-### N 1.25 A Perfected One *Arahantasutta*
+### SN 1.25 A Perfected One *Arahantasutta*
 
 > "When a mendicant is perfected, proficient,\
 > with defilements ended, bearing the final body:\
@@ -573,7 +573,7 @@ presence:
 > they'd use these terms as no more than expressions."
 
 <!--pg-->
-### N 1.26 Lamps *Pajjotasutta*
+### SN 1.26 Lamps *Pajjotasutta*
 
 > "How many lamps are there\
 > that light up the world?\
@@ -591,7 +591,7 @@ presence:
 > this is the supreme radiance."
 
 <!--pg-->
-### N 1.27 Streams *Sarasutta*
+### SN 1.27 Streams *Sarasutta*
 
 > "From where do streams turn back?\
 > Where does the cycle spin no more?\
@@ -607,7 +607,7 @@ presence:
 > cease with nothing left over."
 
 <!--pg-->
-### N 1.28 Affluent *Mahaddhanasutta*
+### SN 1.28 Affluent *Mahaddhanasutta*
 
 > "The affluent and the wealthy,\
 > even the aristocrats who rule the land,\
@@ -627,7 +627,7 @@ presence:
 > they in the world are not avid."
 
 <!--pg-->
-### N 1.29 Four Wheels *Catucakkasutta*
+### SN 1.29 Four Wheels *Catucakkasutta*
 
 > "Four are its wheels, and nine its doors;\
 > it's stuffed full, bound with greed,\
@@ -640,7 +640,7 @@ presence:
 > that's how you will keep going."
 
 <!--pg-->
-### N 1.30 Antelope Calves *Eṇijaṅghasutta*
+### SN 1.30 Antelope Calves *Eṇijaṅghasutta*
 
 > "O hero so lean, with antelope calves,\
 > not greedy, eating little,\
@@ -657,7 +657,7 @@ presence:
 <!--pg-->
 ## The Chapter on the Satullapa Group
 
-### N 1.31 Virtuous *Sabbhisutta*
+### SN 1.31 Virtuous *Sabbhisutta*
 
 So I have heard. At one time the Buddha was staying near
 Sāvatthī in Jeta's Grove, Anāthapiṇḍika's
@@ -722,7 +722,7 @@ teacher approved, bowed and respectfully circled the Buddha, keeping him
 on their right, before vanishing right there.
 
 <!--pg-->
-### N 1.32 Stinginess *Maccharisutta*
+### SN 1.32 Stinginess *Maccharisutta*
 
 At one time the Buddha was staying near Sāvatthī in Jeta's
 Grove, Anāthapiṇḍika's monastery.
@@ -806,7 +806,7 @@ Then another deity addressed the Buddha in verse:
 > － of what's offered by such a person."
 
 <!--pg-->
-### N 1.33 Good *Sādhusutta*
+### SN 1.33 Good *Sādhusutta*
 
 At Sāvatthī.
 
@@ -897,7 +897,7 @@ Then another deity said to the Buddha, "Sir, who has spoken well?"
 > the wise and virtuous even attained extinction."
 
 <!--pg-->
-### N 1.34 There Are None *Nasantisutta*
+### SN 1.34 There Are None *Nasantisutta*
 
 At one time the Buddha was staying near Sāvatthī in Jeta's
 Grove, Anāthapiṇḍika's Monastery.
@@ -951,7 +951,7 @@ the Buddha's presence:
 > those mendicants can slip their chains."
 
 <!--pg-->
-### N 1.35 Disdain *Ujjhānasaññisutta*
+### SN 1.35 Disdain *Ujjhānasaññisutta*
 
 At one time the Buddha was staying near Sāvatthī in Jeta's
 Grove, Anāthapiṇḍika's Monastery.
@@ -1024,7 +1024,7 @@ One deity recited this verse in the Buddha's presence:
 > and so I pardon your mistake."
 
 <!--pg-->
-### N 1.36 Faith *Saddhāsutta*
+### SN 1.36 Faith *Saddhāsutta*
 
 At one time the Buddha was staying near Sāvatthī in Jeta's
 Grove, Anāthapiṇḍika's monastery.
@@ -1057,7 +1057,7 @@ Then another deity recited these verses in the Buddha's presence:
 > you'll attain ultimate happiness."
 
 <!--pg-->
-### N 1.37 The Congregation *Samayasutta*
+### SN 1.37 The Congregation *Samayasutta*
 
 So I have heard. At one time the Buddha was staying in the
 land of the Sakyans, in the Great Wood near Kapilavatthu, together with
@@ -1101,7 +1101,7 @@ Then another deity recited this verse in the Buddha's presence:
 > they swell the hosts of gods."
 
 <!--pg-->
-### N 1.38 A Splinter *Sakalikasutta*
+### SN 1.38 A Splinter *Sakalikasutta*
 
 So I have heard. At one time the Buddha was staying near
 Rājagaha in the Maddakucchi deer park.
@@ -1174,7 +1174,7 @@ failure to see?"
 > they pass beyond Death's dominion."
 
 <!--pg-->
-### N 1.39 With Pajjunna's Daughter (1st) *Paṭhamapajjunnadhītusutta*
+### SN 1.39 With Pajjunna's Daughter (1st) *Paṭhamapajjunnadhītusutta*
 
 So I have heard. At one time the Buddha was staying near
 Vesālī, at the Great Wood, in the hall with the peaked
@@ -1207,7 +1207,7 @@ presence:
 > they swell the hosts of gods."
 
 <!--pg-->
-### N 1.40 With Pajjunna's Daughter (2nd) *Dutiyapajjunnadhītusuttaṁ*
+### SN 1.40 With Pajjunna's Daughter (2nd) *Dutiyapajjunnadhītusuttaṁ*
 
 So I have heard. At one time the Buddha was staying near
 Vesālī, at the Great Wood, in the hall with the peaked
@@ -1238,7 +1238,7 @@ Buddha's presence:
 <!--pg-->
 ## The Chapter on Fire
 
-### N 1.41 On Fire *Ādittasutta*
+### SN 1.41 On Fire *Ādittasutta*
 
 So I have heard. At one time the Buddha was staying near
 Sāvatthī in Jeta's Grove, Anāthapiṇḍika's
@@ -1271,7 +1271,7 @@ these verses in the Buddha's presence:
 > blameless, they go to a heavenly place."
 
 <!--pg-->
-### N 1.42 Giving What? *Kiṁdadasutta*
+### SN 1.42 Giving What? *Kiṁdadasutta*
 
 > "Giving what do you give strength?\
 > Giving what do you give beauty?\
@@ -1291,7 +1291,7 @@ these verses in the Buddha's presence:
 > gives the gift of freedom from death."
 
 <!--pg-->
-### N 1.43 Food *Annasutta*
+### SN 1.43 Food *Annasutta*
 
 > "Both gods and humans\
 > enjoy their food.\
@@ -1309,7 +1309,7 @@ these verses in the Buddha's presence:
 > support them in the next world."
 
 <!--pg-->
-### N 1.44 One Root *Ekamūlasutta*
+### SN 1.44 One Root *Ekamūlasutta*
 
 > "One is the root, two are the whirlpools,\
 > three are the stains, five the spreads,\
@@ -1317,7 +1317,7 @@ these verses in the Buddha's presence:
 > such is the abyss crossed over by the seer."
 
 <!--pg-->
-### N 1.45 Peerless *Anomasutta*
+### SN 1.45 Peerless *Anomasutta*
 
 > Behold him of peerless name\
 > － who sees the subtle meaning,\
@@ -1327,7 +1327,7 @@ these verses in the Buddha's presence:
 > the great seer treading the noble road."
 
 <!--pg-->
-### N 1.46 Nymphs *Accharāsutta*
+### SN 1.46 Nymphs *Accharāsutta*
 
 > "It's resounding with a group of nymphs,\
 > but haunted by a gang of goblins!\
@@ -1350,7 +1350,7 @@ these verses in the Buddha's presence:
 > has drawn near to extinguishment."
 
 <!--pg-->
-### N 1.47 Planters *Vanaropasutta*
+### SN 1.47 Planters *Vanaropasutta*
 
 > "Whose merit always grows\
 > by day and by night?\
@@ -1368,7 +1368,7 @@ these verses in the Buddha's presence:
 > they are going to heaven."
 
 <!--pg-->
-### N 1.48 Jeta's Grove *Jetavanasutta*
+### SN 1.48 Jeta's Grove *Jetavanasutta*
 
 > "This is indeed that Jeta's Grove,\
 > frequented by the Saṅgha of seers,\
@@ -1391,7 +1391,7 @@ these verses in the Buddha's presence:
 > might at best equal him."
 
 <!--pg-->
-### N 1.49 Stingy *Maccharisutta*
+### SN 1.49 Stingy *Maccharisutta*
 
 > "Those folk in the world who are stingy,\
 > miserly and abusive,\
@@ -1450,7 +1450,7 @@ these verses in the Buddha's presence:
 > and in the next, a good destination."
 
 <!--pg-->
-### N 1.50 With Ghaṭīkāra *Ghaṭīkārasutta*
+### SN 1.50 With Ghaṭīkāra *Ghaṭīkārasutta*
 
 > "Seven mendicants reborn in Aviha\
 > have been freed.\
@@ -1524,7 +1524,7 @@ these verses in the Buddha's presence:
 <!--pg-->
 ## The Chapter on Old Age
 
-### N 1.51 Old Age *Jarāsutta*
+### SN 1.51 Old Age *Jarāsutta*
 
 > "What's still good in old age?\
 > What's good when grounded?\
@@ -1537,7 +1537,7 @@ these verses in the Buddha's presence:
 > Merit's hard for thieves to take."
 
 <!--pg-->
-### N 1.52 Getting Old *Ajarasāsutta*
+### SN 1.52 Getting Old *Ajarasāsutta*
 
 > "What's good because it never gets old?\
 > What's good when committed?\
@@ -1550,7 +1550,7 @@ these verses in the Buddha's presence:
 > Merit's what thieves can never take."
 
 <!--pg-->
-### N 1.53 A Friend *Mittasutta*
+### SN 1.53 A Friend *Mittasutta*
 
 > "Who's your friend abroad?\
 > Who's your friend at home?\
@@ -1565,7 +1565,7 @@ these verses in the Buddha's presence:
 > that's your friend in the next life."
 
 <!--pg-->
-### N 1.54 Grounds *Vatthusutta*
+### SN 1.54 Grounds *Vatthusutta*
 
 > "What is the ground of human beings?\
 > What is the best companion here?\
@@ -1578,7 +1578,7 @@ these verses in the Buddha's presence:
 > sustain their life by rain."
 
 <!--pg-->
-### N 1.55 Gives Birth (1st) *Paṭhamajanasutta*
+### SN 1.55 Gives Birth (1st) *Paṭhamajanasutta*
 
 > "What gives birth to a person?\
 > What do they have that runs about?\
@@ -1591,7 +1591,7 @@ these verses in the Buddha's presence:
 > Suffering is their greatest fear."
 
 <!--pg-->
-### N 1.56 Gives Birth (2nd) *Dutiyajanasutta*
+### SN 1.56 Gives Birth (2nd) *Dutiyajanasutta*
 
 > "What gives birth to a person?\
 > What do they have that runs about?\
@@ -1604,7 +1604,7 @@ these verses in the Buddha's presence:
 > From suffering they are not free."
 
 <!--pg-->
-### N 1.57 Gives Birth (3rd) *Tatiyajanasutta*
+### SN 1.57 Gives Birth (3rd) *Tatiyajanasutta*
 
 > "What gives birth to a person?\
 > What do they have that runs about?\
@@ -1617,7 +1617,7 @@ these verses in the Buddha's presence:
 > Deeds are their destiny."
 
 <!--pg-->
-### N 1.58 Deviation *Uppathasutta*
+### SN 1.58 Deviation *Uppathasutta*
 
 > "What's declared to be a deviation?\
 > What is ending day and night?\
@@ -1632,7 +1632,7 @@ these verses in the Buddha's presence:
 > are the waterless bath."
 
 <!--pg-->
-### N 1.59 A Partner *Dutiyasutta*
+### SN 1.59 A Partner *Dutiyasutta*
 
 > "What is a person's partner?\
 > What instructs them?\
@@ -1645,7 +1645,7 @@ these verses in the Buddha's presence:
 > is released from all suffering."
 
 <!--pg-->
-### N 1.60 A Poet *Kavisutta*
+### SN 1.60 A Poet *Kavisutta*
 
 > "What's the basis of verses?\
 > What's their detailed expression?\
@@ -1660,7 +1660,7 @@ these verses in the Buddha's presence:
 <!--pg-->
 ## The Chapter on Oppressed
 
-### N 1.61 Name *Nāmasutta*
+### SN 1.61 Name *Nāmasutta*
 
 > "What oppresses everything?\
 > What is nothing bigger than?\
@@ -1673,7 +1673,7 @@ these verses in the Buddha's presence:
 > that has everything under its sway."
 
 <!--pg-->
-### N 1.62 Mind *Cittasutta*
+### SN 1.62 Mind *Cittasutta*
 
 > "What leads the world on?\
 > What drags it around?\
@@ -1686,7 +1686,7 @@ these verses in the Buddha's presence:
 > that has everything under its sway."
 
 <!--pg-->
-### N 1.63 Craving *Taṇhāsutta*
+### SN 1.63 Craving *Taṇhāsutta*
 
 > "What leads the world on?\
 > What drags it around?\
@@ -1699,7 +1699,7 @@ these verses in the Buddha's presence:
 > that has everything under its sway."
 
 <!--pg-->
-### N 1.64 Fetter *Saṁyojanasutta*
+### SN 1.64 Fetter *Saṁyojanasutta*
 
 > "What fetters the world?\
 > How does it travel about?\
@@ -1712,7 +1712,7 @@ these verses in the Buddha's presence:
 > extinguishment is spoken of."
 
 <!--pg-->
-### N 1.65 Bonds *Bandhanasutta*
+### SN 1.65 Bonds *Bandhanasutta*
 
 > "What binds the world?\
 > How does it travel about?\
@@ -1725,7 +1725,7 @@ these verses in the Buddha's presence:
 > all bonds are severed."
 
 <!--pg-->
-### N 1.66 Beaten Down *Attahatasutta*
+### SN 1.66 Beaten Down *Attahatasutta*
 
 > "By what is the world beaten down?\
 > By what is it surrounded?\
@@ -1738,7 +1738,7 @@ these verses in the Buddha's presence:
 > It's always fuming with desire."
 
 <!--pg-->
-### N 1.67 Trapped *Uḍḍitasutta*
+### SN 1.67 Trapped *Uḍḍitasutta*
 
 > "What has trapped the world?\
 > By what is it surrounded?\
@@ -1751,7 +1751,7 @@ these verses in the Buddha's presence:
 > The world is grounded on suffering."
 
 <!--pg-->
-### N 1.68 Fastened Shut *Pihitasutta*
+### SN 1.68 Fastened Shut *Pihitasutta*
 
 > "What has the world fastened shut?\
 > On what is the world grounded?\
@@ -1764,7 +1764,7 @@ these verses in the Buddha's presence:
 > It's surrounded by old age."
 
 <!--pg-->
-### N 1.69 Desire *Icchāsutta*
+### SN 1.69 Desire *Icchāsutta*
 
 > "What is it that binds the world?\
 > By removing what is it freed?\
@@ -1777,7 +1777,7 @@ these verses in the Buddha's presence:
 > all bonds are severed."
 
 <!--pg-->
-### N 1.70 The World *Lokasutta*
+### SN 1.70 The World *Lokasutta*
 
 > "What has the world arisen in?\
 > What does it get close to?\
@@ -1792,7 +1792,7 @@ these verses in the Buddha's presence:
 <!--pg-->
 ## The Chapter on Incinerated
 
-### N 1.71 Incinerated *Chetvāsutta*
+### SN 1.71 Incinerated *Chetvāsutta*
 
 At Sāvatthī.
 
@@ -1811,7 +1811,7 @@ Standing to one side, that deity addressed the Buddha in verse:
 > for when it's incinerated there is no sorrow."
 
 <!--pg-->
-### N 1.72 A Chariot *Rathasutta*
+### SN 1.72 A Chariot *Rathasutta*
 
 > "What's the mark of a chariot?\
 > What's the mark of fire?\
@@ -1824,7 +1824,7 @@ Standing to one side, that deity addressed the Buddha in verse:
 > And a husband is the mark of a woman."
 
 <!--pg-->
-### N 1.73 Wealth *Vittasutta*
+### SN 1.73 Wealth *Vittasutta*
 
 > "What's a person's best wealth?\
 > What brings happiness when practiced well?\
@@ -1837,7 +1837,7 @@ Standing to one side, that deity addressed the Buddha in verse:
 > The one they say has the best life lives by wisdom."
 
 <!--pg-->
-### N 1.74 Rain *Vuṭṭhisutta*
+### SN 1.74 Rain *Vuṭṭhisutta*
 
 > "What's the best of things that rise?\
 > And what's the finest of things that fall?\
@@ -1855,7 +1855,7 @@ Standing to one side, that deity addressed the Buddha in verse:
 > And the Buddha is the finest speaker."
 
 <!--pg-->
-### N 1.75 Afraid *Bhītāsutta*
+### SN 1.75 Afraid *Bhītāsutta*
 
 > "Why are so many people here afraid,\
 > when the path has been taught\
@@ -1872,7 +1872,7 @@ Standing to one side, that deity addressed the Buddha in verse:
 > － one need not fear the next world."
 
 <!--pg-->
-### N 1.76 Getting Old *Najīratisutta*
+### SN 1.76 Getting Old *Najīratisutta*
 
 > "What gets old, what doesn't grow old?\
 > What's called a deviation?\
@@ -1905,7 +1905,7 @@ Standing to one side, that deity addressed the Buddha in verse:
 > You should completely get rid of these holes!"
 
 <!--pg-->
-### N 1.77 Authority *Issariyasutta*
+### SN 1.77 Authority *Issariyasutta*
 
 > "What is authority in the world?\
 > What's the best of valuables?\
@@ -1928,7 +1928,7 @@ Standing to one side, that deity addressed the Buddha in verse:
 > when they come again and again."
 
 <!--pg-->
-### N 1.78 Desire *Kāmasutta*
+### SN 1.78 Desire *Kāmasutta*
 
 > "What should one who desires the good\
 > － not give away?\
@@ -1942,7 +1942,7 @@ Standing to one side, that deity addressed the Buddha in verse:
 > but not when it's bad."
 
 <!--pg-->
-### N 1.79 Provisions *Pātheyyasutta*
+### SN 1.79 Provisions *Pātheyyasutta*
 
 > "How should provisions be tied up?\
 > What's the lair of wealth?\
@@ -1959,7 +1959,7 @@ Standing to one side, that deity addressed the Buddha in verse:
 > like birds in a snare."
 
 <!--pg-->
-### N 1.80 Lamp *Pajjotasutta*
+### SN 1.80 Lamp *Pajjotasutta*
 
 > "What's the lamp for the world?\
 > What in the world is wakeful?\
@@ -1982,7 +1982,7 @@ Standing to one side, that deity addressed the Buddha in verse:
 > sustain their life by rain."
 
 <!--pg-->
-### N 1.81 Without Conflict *Araṇasutta*
+### SN 1.81 Without Conflict *Araṇasutta*
 
 > "Who in the world has no conflict?\
 > Whose life is not lost?\

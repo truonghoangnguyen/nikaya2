@@ -1,4 +1,4 @@
-# 11. Bài Kinh Ngắn Về Tiếng Gầm Sư Tử
+# MN 11. Bài Kinh Ngắn Về Tiếng Gầm Sư Tử
 ***(Cūlasīhanāda Sutta)***
 
 1\. Tôi nghe như vầy. Một lần nọ, Đức Phật (The Blessed One) đang ở tại Sāvatthī trong khu rừng Jeta, công viên của Anāthapiṇ̣ika. Tại đó, ngài nói với các tỳ kheo (bhikkhus - các nhà sư) rằng: "Này các tỳ kheo." - "Bạch Thế Tôn," họ trả lời. Đức Phật nói điều này:

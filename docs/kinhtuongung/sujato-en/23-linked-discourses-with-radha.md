@@ -3,7 +3,7 @@
 <!--pg-->
 ## First Chapter About Māra
 
-### N 23.1 About Māra *Mārasutta*
+### SN 23.1 About Māra *Mārasutta*
 
 At Sāvatthī.
 
@@ -46,7 +46,7 @@ the limit of questions. For extinguishment is the culmination,
 destination, and end of the spiritual life."
 
 <!--pg-->
-### N 23.2 Sentient Beings *Sattasutta*
+### SN 23.2 Sentient Beings *Sattasutta*
 
 At Sāvatthī.
 
@@ -76,7 +76,7 @@ should scatter, smash, and destroy feeling ... perception ... choices
 ending of craving. For the ending of craving is extinguishment."
 
 <!--pg-->
-### N 23.3 The Conduit To Rebirth *Bhavanettisutta*
+### SN 23.3 The Conduit To Rebirth *Bhavanettisutta*
 
 At Sāvatthī.
 
@@ -98,7 +98,7 @@ conduit to rebirth. Their cessation is the cessation of the conduit to
 rebirth."
 
 <!--pg-->
-### N 23.4 Should Be Completely Understood *Pariññeyyasutta*
+### SN 23.4 Should Be Completely Understood *Pariññeyyasutta*
 
 At Sāvatthī.
 
@@ -123,7 +123,7 @@ a perfected one, the venerable of such and such name and clan. This is
 called the person who has completely understood."
 
 <!--pg-->
-### N 23.5 Ascetics and Brahmins *Samaṇasutta*
+### SN 23.5 Ascetics and Brahmins *Samaṇasutta*
 
 At Sāvatthī.
 
@@ -147,7 +147,7 @@ an ascetic or brahmin, and live having realized it with their own
 insight."
 
 <!--pg-->
-### N 23.6 Ascetics and Brahmins (2nd) *Dutiyasamaṇasutta*
+### SN 23.6 Ascetics and Brahmins (2nd) *Dutiyasamaṇasutta*
 
 At Sāvatthī.
 
@@ -168,7 +168,7 @@ venerables realize the goal of life as an ascetic or brahmin, and live
 having realized it with their own insight."
 
 <!--pg-->
-### N 23.7 A Stream-Enterer *Sotāpannasutta*
+### SN 23.7 A Stream-Enterer *Sotāpannasutta*
 
 At Sāvatthī.
 
@@ -183,7 +183,7 @@ escape, they're called a noble disciple who is a stream-enterer, not
 liable to be reborn in the underworld, bound for awakening."
 
 <!--pg-->
-### N 23.8 A Perfected One *Arahantasutta*
+### SN 23.8 A Perfected One *Arahantasutta*
 
 At Sāvatthī.
 
@@ -201,7 +201,7 @@ own true goal, utterly ended the fetter of continued existence, and is
 rightly freed through enlightenment."
 
 <!--pg-->
-### N 23.9 Desire and Greed *Chandarāgasutta*
+### SN 23.9 Desire and Greed *Chandarāgasutta*
 
 At Sāvatthī.
 
@@ -219,7 +219,7 @@ will be given up, cut off at the root, made like a palm stump,
 obliterated, and unable to arise in the future."
 
 <!--pg-->
-### N 23.10 Desire and Greed (2nd) *Dutiyachandarāgasutta*
+### SN 23.10 Desire and Greed (2nd) *Dutiyachandarāgasutta*
 
 At Sāvatthī.
 
@@ -241,7 +241,7 @@ palm stump, obliterated, and unable to arise in the future."
 <!--pg-->
 ## Second Chapter About Māra
 
-### N 23.11 About Māra *Mārasutta*
+### SN 23.11 About Māra *Mārasutta*
 
 At Sāvatthī.
 
@@ -264,7 +264,7 @@ completed, what had to be done has been done, there is nothing further
 for this place.'"
 
 <!--pg-->
-### N 23.12 Susceptible to Māra *Māradhammasutta*
+### SN 23.12 Susceptible to Māra *Māradhammasutta*
 
 At Sāvatthī.
 
@@ -281,7 +281,7 @@ Seeing this ... They understand: '... there is nothing further for this
 place.'"
 
 <!--pg-->
-### N 23.13 Impermanence *Aniccasutta*
+### SN 23.13 Impermanence *Aniccasutta*
 
 At Sāvatthī.
 
@@ -297,7 +297,7 @@ Seeing this ... They understand: '... there is nothing further for this
 place.'"
 
 <!--pg-->
-### N 23.14 Liable to Impermanence *Aniccadhammasutta*
+### SN 23.14 Liable to Impermanence *Aniccadhammasutta*
 
 At Sāvatthī.
 
@@ -313,7 +313,7 @@ Seeing this ... They understand: '... there is nothing further for this
 place.'"
 
 <!--pg-->
-### N 23.15 Suffering *Dukkhasutta*
+### SN 23.15 Suffering *Dukkhasutta*
 
 At Sāvatthī.
 
@@ -328,7 +328,7 @@ Seeing this ... They understand: '... there is nothing further for this
 place.'"
 
 <!--pg-->
-### N 23.16 Liable to Suffering *Dukkhadhammasutta*
+### SN 23.16 Liable to Suffering *Dukkhadhammasutta*
 
 At Sāvatthī.
 
@@ -343,7 +343,7 @@ Seeing this ... They understand: '... there is nothing further for this
 place.'"
 
 <!--pg-->
-### N 23.17 Not-Self *Anattasutta*
+### SN 23.17 Not-Self *Anattasutta*
 
 At Sāvatthī.
 
@@ -358,7 +358,7 @@ Seeing this ... They understand: '... there is nothing further for this
 place.'"
 
 <!--pg-->
-### N 23.18 Naturally Not-Self *Anattadhammasutta*
+### SN 23.18 Naturally Not-Self *Anattadhammasutta*
 
 At Sāvatthī.
 
@@ -374,7 +374,7 @@ Seeing this ... They understand: '... there is nothing further for this
 place.'"
 
 <!--pg-->
-### N 23.19 Liable To End *Khayadhammasutta*
+### SN 23.19 Liable To End *Khayadhammasutta*
 
 At Sāvatthī.
 
@@ -389,7 +389,7 @@ Seeing this ... They understand: '... there is nothing further for this
 place.'"
 
 <!--pg-->
-### N 23.20 Liable To Vanish *Vayadhammasutta*
+### SN 23.20 Liable To Vanish *Vayadhammasutta*
 
 At Sāvatthī.
 
@@ -404,7 +404,7 @@ Seeing this ... They understand: '... there is nothing further for this
 place.'"
 
 <!--pg-->
-### N 23.21 Liable To Originate *Samudayadhammasutta*
+### SN 23.21 Liable To Originate *Samudayadhammasutta*
 
 At Sāvatthī.
 
@@ -419,7 +419,7 @@ Seeing this ... They understand: '... there is nothing further for this
 place.'"
 
 <!--pg-->
-### N 23.22 Liable To Cease *Nirodhadhammasutta*
+### SN 23.22 Liable To Cease *Nirodhadhammasutta*
 
 At Sāvatthī.
 
@@ -436,7 +436,7 @@ place.'"
 <!--pg-->
 ## The Chapter on Aspiration
 
-### N 23.23--33 Eleven Discourses on Māra, Etc. *Mārādisuttaekādasaka*
+### SN 23.23--33 Eleven Discourses on Māra, Etc. *Mārādisuttaekādasaka*
 
 At Sāvatthī.
 
@@ -482,7 +482,7 @@ whatever is susceptible to Māra ..."
 "... liable to originate ..."
 
 <!--pg-->
-### N 23.34 Liable To Cease *Nirodhadhammasutta*
+### SN 23.34 Liable To Cease *Nirodhadhammasutta*
 
 At Sāvatthī.
 
@@ -509,7 +509,7 @@ greed, any desire and greed for whatever is liable to cease."
 <!--pg-->
 ## The Chapter on Sitting Close
 
-### N 23.35--45 Eleven Discourses on Māra, Etc. *Mārādisuttaekādasaka*
+### SN 23.35--45 Eleven Discourses on Māra, Etc. *Mārādisuttaekādasaka*
 
 At Sāvatthī.
 
@@ -547,7 +547,7 @@ whatever is susceptible to Māra ..."
 "... liable to originate ..."
 
 <!--pg-->
-### N 23.46 Liable To Cease *Nirodhadhammasutta*
+### SN 23.46 Liable To Cease *Nirodhadhammasutta*
 
 At Sāvatthī.
 

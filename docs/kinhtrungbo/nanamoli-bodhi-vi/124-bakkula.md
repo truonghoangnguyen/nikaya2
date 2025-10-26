@@ -1,4 +1,4 @@
-# 124. Kinh Bakkula
+# MN 124. Kinh Bakkula
 ***(Bakkula Sutta - Kinh Trung Bộ 124)***
 
 1\.  Tôi nghe như vầy. Một thời, Tôn giả Bakkula trú tại thành Vương Xá (Rājagaha), trong Trúc Lâm (Veḷuvana), khu nuôi dưỡng sóc (Kalandakanivāpa). [^1167]

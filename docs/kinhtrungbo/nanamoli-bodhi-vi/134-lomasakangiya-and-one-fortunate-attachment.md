@@ -1,4 +1,4 @@
-# 134. Lomasakangiya và Người Có Một Đêm An Lành
+# MN 134. Lomasakangiya và Người Có Một Đêm An Lành
 ***(Kinh Lomasakangiyabhaddekaratta)***
 
 1\.  Như vầy tôi nghe. Một thời Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong Vườn Jeta (Kỳ Đà Lâm), khu vườn của Anāthapindika (Cấp Cô Độc). Lúc bấy giờ, Đại đức Lomasakangiya đang trú tại xứ Sakya (Thích Ca), ở Kapilavatthu (Ca-tỳ-la-vệ), trong Vườn Nigrodha (Ni-câu-luật). [^1221]

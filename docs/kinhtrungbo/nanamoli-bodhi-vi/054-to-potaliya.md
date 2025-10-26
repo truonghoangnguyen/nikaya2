@@ -1,4 +1,4 @@
-# 54. Gửi Potaliya
+# MN 54. Gửi Potaliya
 ***(Kinh Potaliya - Potaliya Sutta)***
 
 1\.  Tôi nghe như vầy. Một thời Đức Thế Tôn trú ở xứ Anguttarāpa, tại một thị trấn tên là Āpana.

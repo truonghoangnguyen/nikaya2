@@ -1,4 +1,4 @@
-# 56. Gửi Upāli
+# MN 56. Gửi Upāli
 ***(Kinh Upāli - Upāli Sutta)***
 
 1\.  Tôi nghe như vầy. Một thời Đức Thế Tôn trú tại Nālandā, trong vườn xoài của Pāvārika.

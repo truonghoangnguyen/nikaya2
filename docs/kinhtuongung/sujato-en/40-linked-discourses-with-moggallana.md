@@ -3,7 +3,7 @@
 <!--pg-->
 ## The Chapter with Moggallāna
 
-### N 40.1 A Question About the First Absorption *Paṭhamajhānapañhāsutta*
+### SN 40.1 A Question About the First Absorption *Paṭhamajhānapañhāsutta*
 
 At one time Venerable Mahāmoggallāna was staying near
 Sāvatthī in Jeta's Grove, Anāthapiṇḍika's
@@ -37,7 +37,7 @@ So if anyone should be rightly called a disciple who attained to great
 direct knowledge with help from the Teacher, it's me."
 
 <!--pg-->
-### N 40.2 A Question About the Second Absorption *Dutiyajhānapañhāsutta*
+### SN 40.2 A Question About the Second Absorption *Dutiyajhānapañhāsutta*
 
 "They speak of this thing called the 'second absorption'. What is the
 second absorption? It occurred to me: 'As the placing of the mind and
@@ -62,7 +62,7 @@ So if anyone should be rightly called a disciple who attained to great
 direct knowledge with help from the Teacher, it's me."
 
 <!--pg-->
-### N 40.3 A Question About the Third Absorption *Tatiyajhānapañhāsutta*
+### SN 40.3 A Question About the Third Absorption *Tatiyajhānapañhāsutta*
 
 "They speak of this thing called the 'third absorption'. What is the
 third absorption? It occurred to me: 'With the fading away of rapture, a
@@ -85,7 +85,7 @@ absorption. So if anyone should be rightly called a disciple who
 attained to great direct knowledge with help from the Teacher, it's me."
 
 <!--pg-->
-### N 40.4 A Question About the Fourth Absorption *Catutthajhānapañhāsutta*
+### SN 40.4 A Question About the Fourth Absorption *Catutthajhānapañhāsutta*
 
 "They speak of this thing called the 'fourth absorption'. What is the
 fourth absorption? It occurred to me: 'It's when, giving up pleasure and
@@ -109,7 +109,7 @@ So if anyone should be rightly called a disciple who attained to great
 direct knowledge with help from the Teacher, it's me."
 
 <!--pg-->
-### N 40.5 A Question About the Dimension of Infinite Space *Ākāsānañcāyatanapañhāsutta*
+### SN 40.5 A Question About the Dimension of Infinite Space *Ākāsānañcāyatanapañhāsutta*
 
 "They speak of this thing called the 'dimension of infinite space'. What
 is the dimension of infinite space? It occurred to me: 'It's when a
@@ -136,7 +136,7 @@ So if anyone should be rightly called a disciple who attained to great
 direct knowledge with help from the Teacher, it's me."
 
 <!--pg-->
-### N 40.6 A Question About the Dimension of Infinite Consciousness *Viññāṇañcāyatanapañhāsutta*
+### SN 40.6 A Question About the Dimension of Infinite Consciousness *Viññāṇañcāyatanapañhāsutta*
 
 "They speak of this thing called the 'dimension of infinite
 consciousness'. What is the dimension of infinite consciousness? It
@@ -162,7 +162,7 @@ So if anyone should be rightly called a disciple who attained to great
 direct knowledge with help from the Teacher, it's me."
 
 <!--pg-->
-### N 40.7 A Question About the Dimension of Nothingness *Ākiñcaññāyatanapañhāsutta*
+### SN 40.7 A Question About the Dimension of Nothingness *Ākiñcaññāyatanapañhāsutta*
 
 "They speak of this thing called the 'dimension of nothingness'. What is
 the dimension of nothingness? It occurred to me: 'It's when a mendicant,
@@ -187,7 +187,7 @@ So if anyone should be rightly called a disciple who attained to great
 direct knowledge with help from the Teacher, it's me."
 
 <!--pg-->
-### N 40.8 A Question About the Dimension of Neither Perception Nor Non-Perception *Nevasaññānāsaññāyatanapañhāsutta*
+### SN 40.8 A Question About the Dimension of Neither Perception Nor Non-Perception *Nevasaññānāsaññāyatanapañhāsutta*
 
 "They speak of this thing called the 'dimension of neither perception
 nor non-perception'. What is the dimension of neither perception nor
@@ -215,7 +215,7 @@ So if anyone should be rightly called a disciple who attained to great
 direct knowledge with help from the Teacher, it's me."
 
 <!--pg-->
-### N 40.9 A Question About the Signless *Animittapañhāsutta*
+### SN 40.9 A Question About the Signless *Animittapañhāsutta*
 
 "They speak of this thing called the 'signless immersion of the heart'.
 What is the signless immersion of the heart? It occurred to me: 'It's
@@ -240,7 +240,7 @@ So if anyone should be rightly called a disciple who attained to great
 direct knowledge with help from the Teacher, it's me."
 
 <!--pg-->
-### N 40.10 With Sakka *Sakkasutta*
+### SN 40.10 With Sakka *Sakkasutta*
 
 And then Venerable Mahāmoggallāna, as easily as a strong
 person would extend or contract their arm, vanished from Jeta's Grove
@@ -378,7 +378,7 @@ Then Sakka, lord of gods, with eight hundred deities ...
 Then Sakka, lord of gods, with eighty thousand deities ...
 
 <!--pg-->
-### N 40.11 With Candana, Etc. *Candanasutta*
+### SN 40.11 With Candana, Etc. *Candanasutta*
 
 Then the god Candana ...
 

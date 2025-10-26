@@ -3,7 +3,7 @@
 <!--pg-->
 ## The Chapter with Verses
 
-### N 36.1 Immersion *Samādhisutta*
+### SN 36.1 Immersion *Samādhisutta*
 
 "Mendicants, there are these three feelings. What three?
 
@@ -20,7 +20,7 @@ Pleasant, painful, and neutral feeling. These are the three feelings.
 > is hungerless, quenched."
 
 <!--pg-->
-### N 36.2 Pleasure *Sukhasutta*
+### SN 36.2 Pleasure *Sukhasutta*
 
 "Mendicants, there are these three feelings. What three?
 
@@ -38,7 +38,7 @@ Pleasant, painful, and neutral feeling. These are the three feelings.
 > that's how to be free of desire for them."
 
 <!--pg-->
-### N 36.3 Giving Up *Pahānasutta*
+### SN 36.3 Giving Up *Pahānasutta*
 
 "Mendicants, there are these three feelings. What three?
 
@@ -80,7 +80,7 @@ conceit has made an end of suffering.
 > when their body breaks up, they can't be reckoned."
 
 <!--pg-->
-### N 36.4 The Abyss *Pātālasutta*
+### SN 36.4 The Abyss *Pātālasutta*
 
 "Mendicants, when an unlearned ordinary person says that there's a
 hellish abyss under the ocean, they're speaking of something that
@@ -116,7 +116,7 @@ the hellish abyss and gained a footing.
 > and gain a footing."
 
 <!--pg-->
-### N 36.5 Should Be Seen *Daṭṭhabbasutta*
+### SN 36.5 Should Be Seen *Daṭṭhabbasutta*
 
 "Mendicants, there are these three feelings. What three?
 
@@ -143,7 +143,7 @@ suffering.
 > when their body breaks up, they can't be reckoned."
 
 <!--pg-->
-### N 36.6 An Arrow *Sallasutta*
+### SN 36.6 An Arrow *Sallasutta*
 
 "Mendicants, an unlearned ordinary person feels pleasant, painful, and
 neutral feelings. A learned noble disciple also feels pleasant, painful,
@@ -239,7 +239,7 @@ ordinary person.
 > － understand rightly."
 
 <!--pg-->
-### N 36.7 The Infirmary (1st) *Paṭhamagelaññasutta*
+### SN 36.7 The Infirmary (1st) *Paṭhamagelaññasutta*
 
 At one time the Buddha was staying near Vesālī, at the
 Great Wood, in the hall with the peaked roof.
@@ -331,7 +331,7 @@ over, everything that's felt, since I no longer take pleasure in it,
 will become cool right here.'"
 
 <!--pg-->
-### N 36.8 The Infirmary (2nd) *Dutiyagelaññasutta*
+### SN 36.8 The Infirmary (2nd) *Dutiyagelaññasutta*
 
 At one time the Buddha was staying near Vesālī, at the
 Great Wood, in the hall with the peaked roof.
@@ -395,7 +395,7 @@ over, everything that's felt, since I no longer take pleasure in it,
 will become cool right here.'"
 
 <!--pg-->
-### N 36.9 Impermanent *Aniccasutta*
+### SN 36.9 Impermanent *Aniccasutta*
 
 "Mendicants, these three feelings are impermanent, conditioned,
 dependently originated, liable to end, vanish, fade away, and cease.
@@ -406,7 +406,7 @@ that are impermanent, conditioned, dependently originated, liable to
 end, vanish, fade away, and cease."
 
 <!--pg-->
-### N 36.10 Rooted in Contact *Phassamūlakasutta*
+### SN 36.10 Rooted in Contact *Phassamūlakasutta*
 
 "Mendicants, these three feelings are born, rooted, sourced, and
 conditioned by contact. What three?
@@ -435,7 +435,7 @@ appropriate feeling ceases."
 <!--pg-->
 ## The Chapter on In Private
 
-### N 36.11 In Private *Rahogatasutta*
+### SN 36.11 In Private *Rahogatasutta*
 
 Then a mendicant went up to the Buddha, bowed, sat down to one side, and
 said to him:
@@ -493,7 +493,7 @@ feeling have been tranquilized. For a mendicant who has ended the
 defilements, greed, hate, and delusion have been tranquilized."
 
 <!--pg-->
-### N 36.12 In the Atmosphere (1st) *Paṭhamaākāsasutta*
+### SN 36.12 In the Atmosphere (1st) *Paṭhamaākāsasutta*
 
 "Mendicants, various winds blow in the atmosphere. Winds blow from the
 east, the west, the north, and the south. There are winds that are dusty
@@ -528,7 +528,7 @@ and neutral feelings.
 > when their body breaks up, they can't be reckoned."
 
 <!--pg-->
-### N 36.13 In the Atmosphere (2nd) *Dutiyaākāsasutta*
+### SN 36.13 In the Atmosphere (2nd) *Dutiyaākāsasutta*
 
 "Mendicants, various winds blow in the atmosphere. Winds blow from the
 east, the west, the north, and the south. There are winds that are dusty
@@ -538,7 +538,7 @@ In the same way, various feelings arise in this body: pleasant, painful,
 and neutral feelings."
 
 <!--pg-->
-### N 36.14 A Guest House *Agārasutta*
+### SN 36.14 A Guest House *Agārasutta*
 
 "Mendicants, suppose there was a guest house. Lodgers come from the
 east, west, north, and south. Aristocrats, brahmins, peasants, and
@@ -550,7 +550,7 @@ the flesh arise. Also pleasant, painful, and neutral feelings not of the
 flesh arise."
 
 <!--pg-->
-### N 36.15 With Ānanda (1st) *Paṭhamaānandasutta*
+### SN 36.15 With Ānanda (1st) *Paṭhamaānandasutta*
 
 Then Venerable Ānanda went up to the Buddha ... sat down to one side,
 and said to him:
@@ -605,7 +605,7 @@ ended the defilements, greed, hate, and delusion have been
 tranquilized."
 
 <!--pg-->
-### N 36.16 With Ānanda (2nd) *Dutiyaānandasutta*
+### SN 36.16 With Ānanda (2nd) *Dutiyaānandasutta*
 
 Then Venerable Ānanda went up to the Buddha, bowed, and sat down to one
 side. The Buddha said to him, "Ānanda, what is feeling? What's the
@@ -628,7 +628,7 @@ For a mendicant who has ended the defilements, greed, hate, and delusion
 have been tranquilized."
 
 <!--pg-->
-### N 36.17 With Several Mendicants (1st) *Paṭhamasambahulasutta*
+### SN 36.17 With Several Mendicants (1st) *Paṭhamasambahulasutta*
 
 Then several mendicants went up to the Buddha, bowed, sat down to one
 side, and said to him:
@@ -658,7 +658,7 @@ For a mendicant who has ended the defilements, greed, hate, and delusion
 have been tranquilized."
 
 <!--pg-->
-### N 36.18 With Several Mendicants (2nd) *Dutiyasambahulasutta*
+### SN 36.18 With Several Mendicants (2nd) *Dutiyasambahulasutta*
 
 Then several mendicants went up to the Buddha ... The Buddha said to
 them:
@@ -675,7 +675,7 @@ neutral. These are called feeling. ..."
 **(Tell in full as in the previous discourse.)**
 
 <!--pg-->
-### N 36.19 With Pañcakaṅga *Pañcakaṅgasutta*
+### SN 36.19 With Pañcakaṅga *Pañcakaṅgasutta*
 
 Then the chamberlain Pañcakaṅga went up to Venerable
 Udāyī, bowed, sat down to one side, and asked him, "Sir,
@@ -822,7 +822,7 @@ pleasure as included in happiness wherever it is found, and in whatever
 context.'"
 
 <!--pg-->
-### N 36.20 A Mendicant *Bhikkhusutta*
+### SN 36.20 A Mendicant *Bhikkhusutta*
 
 "Mendicants, in one explanation I've spoken of two feelings. In another
 explanation I've spoken of three feelings, or five, six, eighteen,
@@ -854,7 +854,7 @@ whatever context.'"
 <!--pg-->
 ## The Chapter on the Explanation of the Hundred and Eight
 
-### N 36.21 With Sīvaka *Sīvakasutta*
+### SN 36.21 With Sīvaka *Sīvakasutta*
 
 At one time the Buddha was staying near Rājagaha, in the
 Bamboo Grove, the squirrels' feeding ground.
@@ -895,7 +895,7 @@ refuge for life."
 > and the result of deeds is the eighth."
 
 <!--pg-->
-### N 36.22 The Explanation of the Hundred and Eight *Aṭṭhasatasutta*
+### SN 36.22 The Explanation of the Hundred and Eight *Aṭṭhasatasutta*
 
 "Mendicants, I will teach you an exposition of the teaching on the
 hundred and eight. Listen ...
@@ -934,7 +934,7 @@ feelings.
 This is the exposition of the teaching on the hundred and eight."
 
 <!--pg-->
-### N 36.23 With a Mendicant *Aññatarabhikkhusutta*
+### SN 36.23 With a Mendicant *Aññatarabhikkhusutta*
 
 Then a mendicant went up to the Buddha, bowed, sat down to one side, and
 said to him:
@@ -965,7 +965,7 @@ Removing and giving up desire and greed for feeling: this is its
 escape."
 
 <!--pg-->
-### N 36.24 Before *Pubbasutta*
+### SN 36.24 Before *Pubbasutta*
 
 "Mendicants, before my awakening---when I was still unawakened but
 intent on awakening---I thought: 'What is feeling? What's the origin of
@@ -981,7 +981,7 @@ Removing and giving up desire and greed for feeling: this is its
 escape.'"
 
 <!--pg-->
-### N 36.25 Knowledge *Ñāṇasutta*
+### SN 36.25 Knowledge *Ñāṇasutta*
 
 "'These are the feelings.' Such was the vision, knowledge, wisdom,
 realization, and light that arose in me regarding teachings not learned
@@ -1004,7 +1004,7 @@ wisdom, realization, and light that arose in me regarding teachings not
 learned before from another."
 
 <!--pg-->
-### N 36.26 With Several Mendicants *Sambahulabhikkhusutta*
+### SN 36.26 With Several Mendicants *Sambahulabhikkhusutta*
 
 Then several mendicants went up to the Buddha, bowed, sat down to one
 side, and said to him:
@@ -1026,7 +1026,7 @@ Removing and giving up desire and greed for feeling: this is its
 escape."
 
 <!--pg-->
-### N 36.27 Ascetics and Brahmins (1st) *Paṭhamasamaṇabrāhmaṇasutta*
+### SN 36.27 Ascetics and Brahmins (1st) *Paṭhamasamaṇabrāhmaṇasutta*
 
 "Mendicants, there are these three feelings. What three? Pleasant,
 painful, and neutral feeling.
@@ -1043,7 +1043,7 @@ ascetics and brahmins. Those venerables realize the goal of life as an
 ascetic or brahmin, and live having realized it with their own insight."
 
 <!--pg-->
-### N 36.28 Ascetics and Brahmins (2nd) *Dutiyasamaṇabrāhmaṇasutta*
+### SN 36.28 Ascetics and Brahmins (2nd) *Dutiyasamaṇabrāhmaṇasutta*
 
 "Mendicants, there are these three feelings. What three? Pleasant,
 painful, and neutral feeling.
@@ -1054,7 +1054,7 @@ feelings' origin, ending, gratification, drawback, and escape. ...
 There are ascetics and brahmins who do truly understand ..."
 
 <!--pg-->
-### N 36.29 Ascetics and Brahmins (3rd) *Tatiyasamaṇabrāhmaṇasutta*
+### SN 36.29 Ascetics and Brahmins (3rd) *Tatiyasamaṇabrāhmaṇasutta*
 
 "Mendicants, there are ascetics and brahmins who don't understand
 feeling, its origin, its cessation, and the practice that leads to its
@@ -1063,13 +1063,13 @@ cessation. ...
 There are ascetics and brahmins who do understand ..."
 
 <!--pg-->
-### N 36.30 Plain Version *Suddhikasutta*
+### SN 36.30 Plain Version *Suddhikasutta*
 
 "Mendicants, there are these three feelings. What three? Pleasant,
 painful, and neutral feelings. These are the three feelings."
 
 <!--pg-->
-### N 36.31 Not of the Flesh *Nirāmisasutta*
+### SN 36.31 Not of the Flesh *Nirāmisasutta*
 
 "Mendicants, there is rapture of the flesh, rapture not of the flesh,
 and rapture even more spiritual than that not of the flesh.

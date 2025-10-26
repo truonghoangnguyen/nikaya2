@@ -3,7 +3,7 @@
 <!--pg-->
 ## The Chapter on Comprehension
 
-### N 13.1 A Fingernail *Nakhasikhāsutta*
+### SN 13.1 A Fingernail *Nakhasikhāsutta*
 
 So I have heard. At one time the Buddha was staying near
 Sāvatthī in Jeta's Grove, Anāthapiṇḍika's
@@ -26,7 +26,7 @@ That's how very beneficial it is to comprehend the teaching and gain the
 vision of the teaching."
 
 <!--pg-->
-### N 13.2 A Lotus Pond *Pokkharaṇīsutta*
+### SN 13.2 A Lotus Pond *Pokkharaṇīsutta*
 
 At Sāvatthī.
 
@@ -52,7 +52,7 @@ That's how very beneficial it is to comprehend the teaching and gain the
 vision of the teaching."
 
 <!--pg-->
-### N 13.3 Where the Waters Flow Together *Sambhejjaudakasutta*
+### SN 13.3 Where the Waters Flow Together *Sambhejjaudakasutta*
 
 At Sāvatthī.
 
@@ -72,7 +72,7 @@ not nearly a hundredth, a thousandth, or a hundred thousandth part."
 done with is more ..."
 
 <!--pg-->
-### N 13.4 Where the Waters Flow Together (2nd) *Dutiyasambhejjaudakasutta*
+### SN 13.4 Where the Waters Flow Together (2nd) *Dutiyasambhejjaudakasutta*
 
 At Sāvatthī.
 
@@ -94,7 +94,7 @@ nearly a hundredth, a thousandth, or a hundred thousandth part."
 done with is more ..."
 
 <!--pg-->
-### N 13.5 The Earth *Pathavīsutta*
+### SN 13.5 The Earth *Pathavīsutta*
 
 At Sāvatthī.
 
@@ -112,7 +112,7 @@ hundredth, a thousandth, or a hundred thousandth part."
 done with is more ..."
 
 <!--pg-->
-### N 13.6 The Earth (2nd) *Dutiyapathavīsutta*
+### SN 13.6 The Earth (2nd) *Dutiyapathavīsutta*
 
 At Sāvatthī.
 
@@ -132,7 +132,7 @@ hundredth, a thousandth, or a hundred thousandth part."
 done with is more ..."
 
 <!--pg-->
-### N 13.7 The Ocean *Samuddasutta*
+### SN 13.7 The Ocean *Samuddasutta*
 
 At Sāvatthī.
 
@@ -150,7 +150,7 @@ a hundredth, a thousandth, or a hundred thousandth part."
 done with is more ..."
 
 <!--pg-->
-### N 13.8 The Ocean (2nd) *Dutiyasamuddasutta*
+### SN 13.8 The Ocean (2nd) *Dutiyasamuddasutta*
 
 At Sāvatthī.
 
@@ -169,7 +169,7 @@ hundredth, a thousandth, or a hundred thousandth part."
 done with is more ..."
 
 <!--pg-->
-### N 13.9 A Mountain *Pabbatasutta*
+### SN 13.9 A Mountain *Pabbatasutta*
 
 At Sāvatthī.
 
@@ -188,7 +188,7 @@ part."
 done with is more ..."
 
 <!--pg-->
-### N 13.10 A Mountain (2nd) *Dutiyapabbatasutta*
+### SN 13.10 A Mountain (2nd) *Dutiyapabbatasutta*
 
 At Sāvatthī.
 
@@ -213,7 +213,7 @@ That's how very beneficial it is to comprehend the teaching and gain the
 vision of the teaching."
 
 <!--pg-->
-### N 13.11 A Mountain (3rd) *Tatiyapabbatasutta*
+### SN 13.11 A Mountain (3rd) *Tatiyapabbatasutta*
 
 At Sāvatthī.
 

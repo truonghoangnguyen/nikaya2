@@ -1,4 +1,4 @@
-# 38. Kinh Đại Đoạn Tận Ái
+# MN 38. Kinh Đại Đoạn Tận Ái
 ***(Mahātamhāsankhaya Sutta)***
 
 #### (BỐI CẢNH)

@@ -3,7 +3,7 @@
 <!--pg-->
 ## The Chapter on In the Woods
 
-### N 9.1 Seclusion *Vivekasutta*
+### SN 9.1 Seclusion *Vivekasutta*
 
 So I have heard. At one time one of the mendicants was
 staying in the land of the Kosalans in a certain forest grove.
@@ -33,7 +33,7 @@ Impelled by that deity, that mendicant was struck with a sense of
 urgency.
 
 <!--pg-->
-### N 9.2 Getting Up *Upaṭṭhānasutta*
+### SN 9.2 Getting Up *Upaṭṭhānasutta*
 
 At one time one of the mendicants was staying in the land of the
 Kosalans in a certain forest grove.
@@ -75,7 +75,7 @@ to stir them up, and addressed them in verse:
 > why bother a renunciate?"
 
 <!--pg-->
-### N 9.3 With Kassapagotta *Kassapagottasutta*
+### SN 9.3 With Kassapagotta *Kassapagottasutta*
 
 At one time Venerable Kassapagotta was staying in the land of the
 Kosalans in a certain forest grove.
@@ -104,7 +104,7 @@ Impelled by that deity, Venerable Kassapagotta was struck with a sense
 of urgency.
 
 <!--pg-->
-### N 9.4 Several Mendicants Set Out Wandering *Sambahulasutta*
+### SN 9.4 Several Mendicants Set Out Wandering *Sambahulasutta*
 
 At one time several mendicants were staying in the land of the Kosalans
 in a certain forest grove.
@@ -127,7 +127,7 @@ When they had spoken, another deity replied with this verse:
 > the mendicants live with no abode."
 
 <!--pg-->
-### N 9.5 With Ānanda *Ānandasutta*
+### SN 9.5 With Ānanda *Ānandasutta*
 
 At one time Venerable Ānanda was staying in the land of the Kosalans in
 a certain forest grove.
@@ -146,7 +146,7 @@ Impelled by that deity, Venerable Ānanda was struck with a sense of
 urgency.
 
 <!--pg-->
-### N 9.6 With Anuruddha *Anuruddhasutta*
+### SN 9.6 With Anuruddha *Anuruddhasutta*
 
 At one time Venerable Anuruddha was staying in the land of the Kosalans
 in a certain forest grove.
@@ -185,7 +185,7 @@ and recited these verses:
 > now there'll be no more future lives."
 
 <!--pg-->
-### N 9.7 With Nāgadatta *Nāgadattasutta*
+### SN 9.7 With Nāgadatta *Nāgadattasutta*
 
 At one time Venerable Nāgadatta was staying in the land of
 the Kosalans in a certain forest grove.
@@ -210,7 +210,7 @@ Impelled by that deity, Venerable Nāgadatta was struck with
 a sense of urgency.
 
 <!--pg-->
-### N 9.8 The Mistress of the House *Kulagharaṇīsutta*
+### SN 9.8 The Mistress of the House *Kulagharaṇīsutta*
 
 At one time one of the monks was staying in the land of the Kosalans in
 a certain forest grove.
@@ -237,7 +237,7 @@ approached the monk, and addressed him in verse:
 > and your practice won't succeed."
 
 <!--pg-->
-### N 9.9 A Vajji *Vajjiputtasutta*
+### SN 9.9 A Vajji *Vajjiputtasutta*
 
 At one time a certain Vajjian mendicant was staying near
 Vesālī in a certain forest grove.
@@ -265,7 +265,7 @@ Impelled by that deity, that mendicant was struck with a sense of
 urgency.
 
 <!--pg-->
-### N 9.10 Recitation *Sajjhāyasutta*
+### SN 9.10 Recitation *Sajjhāyasutta*
 
 At one time one of the mendicants was staying in the land of the
 Kosalans in a certain forest grove.
@@ -289,7 +289,7 @@ approached that mendicant, and addressed them in verse:
 > whatever is seen, heard, and thought."
 
 <!--pg-->
-### N 9.11 Unskillful Thoughts *Akusalavitakkasutta*
+### SN 9.11 Unskillful Thoughts *Akusalavitakkasutta*
 
 At one time one of the mendicants was staying in the land of the
 Kosalans in a certain forest grove.
@@ -316,7 +316,7 @@ Impelled by that deity, that mendicant was struck with a sense of
 urgency.
 
 <!--pg-->
-### N 9.12 Midday *Majjhanhikasutta*
+### SN 9.12 Midday *Majjhanhikasutta*
 
 At one time one of the mendicants was staying in the land of the
 Kosalans in a certain forest grove. The deity haunting that forest
@@ -333,7 +333,7 @@ approached that mendicant and recited this verse in their presence:
 > that strikes me as so delightful!"
 
 <!--pg-->
-### N 9.13 Undisciplined Faculties *Pākatindriyasutta*
+### SN 9.13 Undisciplined Faculties *Pākatindriyasutta*
 
 At one time several mendicants were staying in the Kosalan lands in a
 certain forest grove. They were restless, insolent, fickle, scurrilous,
@@ -370,7 +370,7 @@ Impelled by that deity, those mendicants were struck with a sense of
 urgency.
 
 <!--pg-->
-### N 9.14 The Thief of Scent *Gandhatthenasutta*
+### SN 9.14 The Thief of Scent *Gandhatthenasutta*
 
 At one time one of the mendicants was staying in the land of the
 Kosalans in a certain forest grove.

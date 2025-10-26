@@ -3,7 +3,7 @@
 <!--pg-->
 ## Chapter One
 
-### N 4.1 Mortification *Tapokammasutta*
+### SN 4.1 Mortification *Tapokammasutta*
 
 So I have heard. At one time, when he was first awakened,
 the Buddha was staying in Uruvelā at the root of the
@@ -39,7 +39,7 @@ Then Māra the Wicked, thinking, "The Buddha knows me! The
 Holy One knows me!" miserable and sad, vanished right there.
 
 <!--pg-->
-### N 4.2 In the Form of an Elephant King *Hatthirājavaṇṇasutta*
+### SN 4.2 In the Form of an Elephant King *Hatthirājavaṇṇasutta*
 
 So I have heard. At one time, when he was first awakened,
 the Buddha was staying in Uruvelā at the root of the
@@ -65,7 +65,7 @@ Then Māra the Wicked, thinking, "The Buddha knows me! The
 Holy One knows me!" miserable and sad, vanished right there.
 
 <!--pg-->
-### N 4.3 Beautiful *Subhasutta*
+### SN 4.3 Beautiful *Subhasutta*
 
 So I have heard. At one time, when he was first awakened,
 the Buddha was staying in Uruvelā at the root of the
@@ -94,7 +94,7 @@ replied to him in verse:
 Then Māra ... vanished right there.
 
 <!--pg-->
-### N 4.4 Māra's Snares (1st) *Paṭhamamārapāsasutta*
+### SN 4.4 Māra's Snares (1st) *Paṭhamamārapāsasutta*
 
 So I have heard. At one time the Buddha was staying near
 Varanasi, in the deer park at Isipatana. There the Buddha addressed the
@@ -123,7 +123,7 @@ him in verse:
 Then Māra ... vanished right there.
 
 <!--pg-->
-### N 4.5 Māra's Snares (2nd) *Dutiyamārapāsasutta*
+### SN 4.5 Māra's Snares (2nd) *Dutiyamārapāsasutta*
 
 At one time the Buddha was staying near Varanasi, in the deer park at
 Isipatana. There the Buddha addressed the mendicants, "Mendicants!"
@@ -162,7 +162,7 @@ him in verse:
 Then Māra ... vanished right there.
 
 <!--pg-->
-### N 4.6 A Serpent *Sappasutta*
+### SN 4.6 A Serpent *Sappasutta*
 
 So I have heard. At one time the Buddha was staying near
 Rājagaha, in the Bamboo Grove, the squirrels' feeding
@@ -202,7 +202,7 @@ Then Māra the Wicked, thinking, "The Buddha knows me! The
 Holy One knows me!" miserable and sad, vanished right there.
 
 <!--pg-->
-### N 4.7 Sleeping *Supatisutta*
+### SN 4.7 Sleeping *Supatisutta*
 
 At one time the Buddha was staying near Rājagaha, in the
 Bamboo Grove, the squirrels' feeding ground.
@@ -233,7 +233,7 @@ him in verse:
 Then Māra ... vanished right there.
 
 <!--pg-->
-### N 4.8 Delighting *Nandatisutta*
+### SN 4.8 Delighting *Nandatisutta*
 
 So I have heard. At one time the Buddha was staying near
 Sāvatthī in Jeta's Grove, Anāthapiṇḍika's
@@ -256,7 +256,7 @@ Then Māra the Wicked, thinking, "The Buddha knows me! The
 Holy One knows me!" miserable and sad, vanished right there.
 
 <!--pg-->
-### N 4.9 Lifespan (1st) *Paṭhamaāyusutta*
+### SN 4.9 Lifespan (1st) *Paṭhamaāyusutta*
 
 So I have heard. At one time the Buddha was staying near
 Rājagaha, in the Bamboo Grove, the squirrels' feeding
@@ -285,7 +285,7 @@ him in verse:
 Then Māra ... vanished right there.
 
 <!--pg-->
-### N 4.10 Lifespan (2nd) *Dutiyaāyusutta*
+### SN 4.10 Lifespan (2nd) *Dutiyaāyusutta*
 
 So I have heard. At one time the Buddha was staying near
 Rājagaha, in the Bamboo Grove, the squirrels' feeding
@@ -315,7 +315,7 @@ Holy One knows me!" miserable and sad, vanished right there.
 <!--pg-->
 ## Chapter Two
 
-### N 4.11 Boulders *Pāsāṇasutta*
+### SN 4.11 Boulders *Pāsāṇasutta*
 
 At one time the Buddha was staying near Rājagaha, on the
 Vulture's Peak Mountain. Now at that time the Buddha was meditating in
@@ -337,7 +337,7 @@ Then Māra the Wicked, thinking, "The Buddha knows me! The
 Holy One knows me!" miserable and sad, vanished right there.
 
 <!--pg-->
-### N 4.12 Lion *Kinnusīhasutta*
+### SN 4.12 Lion *Kinnusīhasutta*
 
 At one time the Buddha was staying near Sāvatthī in Jeta's
 Grove, Anāthapiṇḍika's monastery. Now, at that time the
@@ -364,7 +364,7 @@ Then Māra the Wicked, thinking, "The Buddha knows me! The
 Holy One knows me!" miserable and sad, vanished right there.
 
 <!--pg-->
-### N 4.13 A Splinter *Sakalikasutta*
+### SN 4.13 A Splinter *Sakalikasutta*
 
 So I have heard. At one time the Buddha was staying near
 Rājagaha in the Maddakucchi deer park.
@@ -406,7 +406,7 @@ Then Māra the Wicked, thinking, "The Buddha knows me! The
 Holy One knows me!" miserable and sad, vanished right there.
 
 <!--pg-->
-### N 4.14 Appropriate *Patirūpasutta*
+### SN 4.14 Appropriate *Patirūpasutta*
 
 At one time the Buddha was staying in the land of the Kosalans near the
 brahmin village of Ekasālā.
@@ -435,7 +435,7 @@ Then Māra the Wicked, thinking, "The Buddha knows me! The
 Holy One knows me!" miserable and sad, vanished right there.
 
 <!--pg-->
-### N 4.15 A Mental Snare *Mānasasutta*
+### SN 4.15 A Mental Snare *Mānasasutta*
 
 So I have heard. At one time the Buddha was staying near
 Sāvatthī in Jeta's Grove, Anāthapiṇḍika's
@@ -458,7 +458,7 @@ Then Māra the Wicked, thinking, "The Buddha knows me! The
 Holy One knows me!" miserable and sad, vanished right there.
 
 <!--pg-->
-### N 4.16 The Alms Bowls *Pattasutta*
+### SN 4.16 The Alms Bowls *Pattasutta*
 
 At Sāvatthī.
 
@@ -500,7 +500,7 @@ addressed him in verse:
 Then Māra ... vanished right there.
 
 <!--pg-->
-### N 4.17 The Six Fields of Contact *Chaphassāyatanasutta*
+### SN 4.17 The Six Fields of Contact *Chaphassāyatanasutta*
 
 At one time the Buddha was staying near Vesālī, at the
 Great Wood, in the hall with the peaked roof.
@@ -541,7 +541,7 @@ addressed him in verse:
 Then Māra ... vanished right there.
 
 <!--pg-->
-### N 4.18 Alms Food *Piṇḍasutta*
+### SN 4.18 Alms Food *Piṇḍasutta*
 
 At one time the Buddha was staying in the land of the Magadhans near the
 brahmin village of Pañcasālā.
@@ -579,7 +579,7 @@ Then Māra the Wicked, thinking, "The Buddha knows me! The
 Holy One knows me!" miserable and sad, vanished right there.
 
 <!--pg-->
-### N 4.19 A Farmer *Kassakasutta*
+### SN 4.19 A Farmer *Kassakasutta*
 
 At Sāvatthī.
 
@@ -627,7 +627,7 @@ Wicked One!"
 Then Māra ... vanished right there.
 
 <!--pg-->
-### N 4.20 Ruling *Rajjasutta*
+### SN 4.20 Ruling *Rajjasutta*
 
 At one time the Buddha was staying in the land of the Kosalans, in a
 wilderness hut on the slopes of the Himalayas.
@@ -667,7 +667,7 @@ Holy One knows me!" miserable and sad, vanished right there.
 <!--pg-->
 ## Chapter Three
 
-### N 4.21 Several *Sambahulasutta*
+### SN 4.21 Several *Sambahulasutta*
 
 So I have heard. At one time the Buddha was staying in the
 land of the Sakyans near Silāvatī.
@@ -710,7 +710,7 @@ this verse:
 > a person would train to remove it."
 
 <!--pg-->
-### N 4.22 With Samiddhi *Samiddhisutta*
+### SN 4.22 With Samiddhi *Samiddhisutta*
 
 At one time the Buddha was staying in the land of the Sakyans near
 Silāvatī.
@@ -755,7 +755,7 @@ Then Māra the Wicked, thinking, "The mendicant Samiddhi
 knows me!" miserable and sad, vanished right there.
 
 <!--pg-->
-### N 4.23 With Godhika *Godhikasutta*
+### SN 4.23 With Godhika *Godhikasutta*
 
 So I have heard. At one time the Buddha was staying near
 Rājagaha, in the Bamboo Grove, the squirrels' feeding
@@ -850,7 +850,7 @@ timber of wood-apple, went up to the Buddha and addressed him in verse:
 > vanished right there.
 
 <!--pg-->
-### N 4.24 Seven Years of Following *Sattavassānubandhasutta*
+### SN 4.24 Seven Years of Following *Sattavassānubandhasutta*
 
 So I have heard. At one time the Buddha was staying in
 Uruvelā at the goatherd's banyan tree on the bank of the
@@ -922,7 +922,7 @@ in the Buddha's presence:
 > I leave Gotama disappointed."
 
 <!--pg-->
-### N 4.25 Māra's Daughters *Māradhītusutta*
+### SN 4.25 Māra's Daughters *Māradhītusutta*
 
 And then Māra the Wicked, after reciting these verses of
 disillusionment in the Buddha's presence, left that place. He sat

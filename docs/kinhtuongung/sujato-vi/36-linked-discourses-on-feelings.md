@@ -3,7 +3,7 @@
 <!--pg-->
 ## Chương Có Kệ
 
-### N 36.1 Định *Samādhisutta*
+### SN 36.1 Định *Samādhisutta*
 
 "Này các Tỷ kheo, có ba loại cảm giác này. Ba loại là gì?
 
@@ -20,7 +20,7 @@
 > không còn đói khát, được dập tắt."
 
 <!--pg-->
-### N 36.2 An Vui *Sukhasutta*
+### SN 36.2 An Vui *Sukhasutta*
 
 "Này các Tỷ kheo, có ba loại cảm giác này. Ba loại là gì?
 
@@ -38,7 +38,7 @@ Cảm giác dễ chịu, khó chịu, và trung tính. Đó là ba loại cảm 
 > đó là cách để thoát khỏi ham muốn đối với chúng."
 
 <!--pg-->
-### N 36.3 Từ Bỏ *Pahānasutta*
+### SN 36.3 Từ Bỏ *Pahānasutta*
 
 "Này các Tỷ kheo, có ba loại cảm giác này. Ba loại là gì?
 
@@ -74,7 +74,7 @@ Khi một Tỷ kheo đã từ bỏ những khuynh hướng ngầm này, họ đ�
 > khi thân hoại mạng chung, họ không thể bị đo lường."
 
 <!--pg-->
-### N 36.4 Vực Thẳm *Pātālasutta*
+### SN 36.4 Vực Thẳm *Pātālasutta*
 
 "Này các Tỷ kheo, khi một người phàm phu không học hỏi nói rằng có một vực thẳm địa ngục dưới đại dương, họ đang nói về một điều không tồn tại.
 
@@ -102,7 +102,7 @@ Khi một vị Thánh đệ tử có học hỏi trải qua những cảm giác 
 > và tìm được chỗ đứng."
 
 <!--pg-->
-### N 36.5 Cần Được Thấy *Daṭṭhabbasutta*
+### SN 36.5 Cần Được Thấy *Daṭṭhabbasutta*
 
 "Này các Tỷ kheo, có ba loại cảm giác này. Ba loại là gì?
 
@@ -125,7 +125,7 @@ Khi một Tỷ kheo đã thấy ba loại cảm giác này theo cách này, họ
 > khi thân hoại mạng chung, họ không thể bị đo lường."
 
 <!--pg-->
-### N 36.6 Mũi Tên *Sallasutta*
+### SN 36.6 Mũi Tên *Sallasutta*
 
 "Này các Tỷ kheo, một người phàm phu không học hỏi cảm nhận các cảm giác dễ chịu, khó chịu, và trung tính. Một vị Thánh đệ tử có học hỏi cũng cảm nhận các cảm giác dễ chịu, khó chịu, và trung tính. Vậy thì, sự khác biệt giữa một vị Thánh đệ tử có học hỏi và một người phàm phu không học hỏi là gì?"
 
@@ -182,7 +182,7 @@ Họ được gọi là một vị Thánh đệ tử có học hỏi, người k
 > － hiểu một cách đúng đắn."
 
 <!--pg-->
-### N 36.7 Bệnh Xá (Thứ Nhất) *Paṭhamagelaññasutta*
+### SN 36.7 Bệnh Xá (Thứ Nhất) *Paṭhamagelaññasutta*
 
 Một thời Đức Phật ở gần Vesālī, tại Rừng Lớn, trong ngôi giảng đường có mái nhọn.
 
@@ -211,7 +211,7 @@ Giả sử một ngọn đèn dầu phụ thuộc vào dầu và bấc để ch�
 Tương tự như vậy, cảm nhận sự kết thúc của thân thể đang đến gần, một Tỷ kheo hiểu: 'Ta cảm nhận sự kết thúc của thân thể đang đến gần.' Cảm nhận sự kết thúc của sự sống đang đến gần, một Tỷ kheo hiểu: 'Ta cảm nhận sự kết thúc của sự sống đang đến gần.' Họ hiểu: 'Khi thân ta tan rã và mạng sống của ta đã kết thúc, mọi thứ được cảm nhận, vì ta không còn thích thú trong đó nữa, sẽ trở nên mát lạnh ngay tại đây.'"
 
 <!--pg-->
-### N 36.8 Bệnh Xá (Thứ Hai) *Dutiyagelaññasutta*
+### SN 36.8 Bệnh Xá (Thứ Hai) *Dutiyagelaññasutta*
 
 Một thời Đức Phật ở gần Vesālī, tại Rừng Lớn, trong ngôi giảng đường có mái nhọn.
 
@@ -238,14 +238,14 @@ Giả sử một ngọn đèn dầu phụ thuộc vào dầu và bấc để ch�
 Tương tự như vậy, cảm nhận sự kết thúc của thân thể đang đến gần, một Tỷ kheo hiểu: 'Ta cảm nhận sự kết thúc của thân thể đang đến gần.' Cảm nhận sự kết thúc của sự sống đang đến gần, một Tỷ kheo hiểu: 'Ta cảm nhận sự kết thúc của sự sống đang đến gần.' Họ hiểu: 'Khi thân ta tan rã và mạng sống của ta đã kết thúc, mọi thứ được cảm nhận, vì ta không còn thích thú trong đó nữa, sẽ trở nên mát lạnh ngay tại đây.'"
 
 <!--pg-->
-### N 36.9 Vô Thường *Aniccasutta*
+### SN 36.9 Vô Thường *Aniccasutta*
 
 "Này các Tỷ kheo, ba loại cảm giác này là vô thường, do duyên tạo, do duyên sinh, có thể kết thúc, tan biến, phai nhạt, và chấm dứt. Ba loại là gì?
 
 Cảm giác dễ chịu, khó chịu, và trung tính. Đây là ba loại cảm giác vô thường, do duyên tạo, do duyên sinh, có thể kết thúc, tan biến, phai nhạt, và chấm dứt."
 
 <!--pg-->
-### N 36.10 Bắt Nguồn Từ Sự Tiếp Xúc *Phassamūlakasutta*
+### SN 36.10 Bắt Nguồn Từ Sự Tiếp Xúc *Phassamūlakasutta*
 
 "Này các Tỷ kheo, ba loại cảm giác này được sinh ra, bắt nguồn, có nguồn gốc, và được điều kiện hóa bởi sự tiếp xúc. Ba loại là gì?
 
@@ -260,7 +260,7 @@ Tương tự như vậy, ba loại cảm giác này được sinh ra, bắt ngu�
 <!--pg-->
 ## Chương Về Nơi Riêng Tư
 
-### N 36.11 Nơi Riêng Tư *Rahogatasutta*
+### SN 36.11 Nơi Riêng Tư *Rahogatasutta*
 
 Rồi một Tỷ kheo đến gặp Đức Phật, đảnh lễ, ngồi xuống một bên, và nói với Ngài:
 
@@ -281,7 +281,7 @@ Và Ta cũng đã giải thích sự lắng dịu tuần tự của các pháp h
 Có sáu cấp độ của *khinh an* (tranquility / sự yên ổn) này. Đối với người đã đạt được sơ thiền, lời nói đã được làm cho yên ổn. Đối với người đã đạt được nhị thiền, việc có tầm có tứ đã được làm cho yên ổn. Đối với người đã đạt được tam thiền, sự hân hoan đã được làm cho yên ổn. Đối với người đã đạt được tứ thiền, hơi thở đã được làm cho yên ổn. Đối với người đã đạt được diệt thọ tưởng định, nhận thức và cảm giác đã được làm cho yên ổn. Đối với một Tỷ kheo đã đoạn tận các lậu hoặc, tham, sân, và si đã được làm cho yên ổn."
 
 <!--pg-->
-### N 36.12 Trong Bầu Không Khí (Thứ Nhất) *Paṭhamaākāsasutta*
+### SN 36.12 Trong Bầu Không Khí (Thứ Nhất) *Paṭhamaākāsasutta*
 
 "Này các Tỷ kheo, có nhiều loại gió thổi trong bầu không khí. Gió thổi từ phía đông, phía tây, phía bắc, và phía nam. Có những cơn gió bụi bặm và không bụi, mát và ấm, yếu và mạnh.
 
@@ -313,21 +313,21 @@ Tương tự như vậy, có nhiều loại cảm giác khởi sinh trong thân 
 > khi thân hoại mạng chung, họ không thể bị đo lường."
 
 <!--pg-->
-### N 36.13 Trong Bầu Không Khí (Thứ Hai) *Dutiyaākāsasutta*
+### SN 36.13 Trong Bầu Không Khí (Thứ Hai) *Dutiyaākāsasutta*
 
 "Này các Tỷ kheo, có nhiều loại gió thổi trong bầu không khí. Gió thổi từ phía đông, phía tây, phía bắc, và phía nam. Có những cơn gió bụi bặm và không bụi, mát và ấm, yếu và mạnh.
 
 Tương tự như vậy, có nhiều loại cảm giác khởi sinh trong thân này: cảm giác dễ chịu, khó chịu, và trung tính."
 
 <!--pg-->
-### N 36.14 Nhà Trọ *Agārasutta*
+### SN 36.14 Nhà Trọ *Agārasutta*
 
 "Này các Tỷ kheo, giả sử có một nhà trọ. Khách trọ đến từ phía đông, tây, bắc, và nam. Các nhà quý tộc, bà-la-môn, nông dân, và tiện dân đều ở đó.
 
 Tương tự như vậy, có nhiều loại cảm giác khởi sinh trong thân này: cảm giác dễ chịu, khó chịu, và trung tính. Cũng có những cảm giác dễ chịu, khó chịu, và trung tính thuộc về vật chất. Cũng có những cảm giác dễ chịu, khó chịu, và trung tính không thuộc về vật chất."
 
 <!--pg-->
-### N 36.15 Với Ānanda (Thứ Nhất) *Paṭhamaānandasutta*
+### SN 36.15 Với Ānanda (Thứ Nhất) *Paṭhamaānandasutta*
 
 Rồi Tôn giả Ānanda đến gặp Đức Phật ... ngồi xuống một bên, và nói với Ngài:
 
@@ -352,7 +352,7 @@ Và Ta cũng đã giải thích sự lắng dịu tuần tự của các pháp h
 Và Ta cũng đã giải thích sự làm cho yên ổn tuần tự của các pháp hữu vi. Đối với người đã đạt được sơ thiền, lời nói đã được làm cho yên ổn. ... Đối với người đã đạt được không vô biên xứ, nhận thức về hình sắc đã được làm cho yên ổn. Đối với người đã đạt được thức vô biên xứ, nhận thức về không vô biên xứ đã được làm cho yên ổn. Đối với người đã đạt được vô sở hữu xứ, nhận thức về thức vô biên xứ đã được làm cho yên ổn. Đối với người đã đạt được phi tưởng phi phi tưởng xứ, nhận thức về vô sở hữu xứ đã được làm cho yên ổn. Đối với người đã đạt được diệt thọ tưởng định, nhận thức và cảm giác đã được làm cho yên ổn. Đối với một Tỷ kheo đã đoạn tận các lậu hoặc, tham, sân, và si đã được làm cho yên ổn."
 
 <!--pg-->
-### N 36.16 Với Ānanda (Thứ Hai) *Dutiyaānandasutta*
+### SN 36.16 Với Ānanda (Thứ Hai) *Dutiyaānandasutta*
 
 Rồi Tôn giả Ānanda đến gặp Đức Phật, đảnh lễ, và ngồi xuống một bên. Đức Phật nói với ông, "Này Ānanda, cảm giác là gì? Nguồn gốc của cảm giác là gì? Sự chấm dứt của cảm giác là gì? Con đường thực hành dẫn đến sự chấm dứt của cảm giác là gì? Và sự hấp dẫn, sự nguy hại, và lối thoát của cảm giác là gì?"
 
@@ -367,7 +367,7 @@ Rồi Tôn giả Ānanda đến gặp Đức Phật, đảnh lễ, và ngồi xu
 Đối với một Tỷ kheo đã đoạn tận các lậu hoặc, tham, sân, và si đã được làm cho yên ổn."
 
 <!--pg-->
-### N 36.17 Với Nhiều Tỷ Kheo (Thứ Nhất) *Paṭhamasambahulasutta*
+### SN 36.17 Với Nhiều Tỷ Kheo (Thứ Nhất) *Paṭhamasambahulasutta*
 
 Rồi nhiều Tỷ kheo đến gặp Đức Phật, đảnh lễ, ngồi xuống một bên, và nói với Ngài:
 
@@ -386,7 +386,7 @@ Nhưng Ta cũng đã giải thích sự đoạn diệt tuần tự của các ph
 Đối với một Tỷ kheo đã đoạn tận các lậu hoặc, tham, sân, và si đã được làm cho yên ổn."
 
 <!--pg-->
-### N 36.18 Với Nhiều Tỷ Kheo (Thứ Hai) *Dutiyasambahulasutta*
+### SN 36.18 Với Nhiều Tỷ Kheo (Thứ Hai) *Dutiyasambahulasutta*
 
 Rồi nhiều Tỷ kheo đến gặp Đức Phật ... Đức Phật nói với họ:
 
@@ -399,7 +399,7 @@ Rồi nhiều Tỷ kheo đến gặp Đức Phật ... Đức Phật nói với 
 **(Kể đầy đủ như trong bài kinh trước.)**
 
 <!--pg-->
-### N 36.19 Với Pañcakaṅga *Pañcakaṅgasutta*
+### SN 36.19 Với Pañcakaṅga *Pañcakaṅgasutta*
 
 Rồi quan thị vệ Pañcakaṅga đến gặp Tôn giả Udāyī, đảnh lễ, ngồi xuống một bên, và hỏi ông, "Thưa Tôn giả, Đức Phật đã nói về bao nhiêu loại cảm giác?"
 
@@ -452,7 +452,7 @@ Có thể các du sĩ của các tôn giáo khác sẽ nói: 'Sa-môn Gotama đ�
 Khi các du sĩ của các tôn giáo khác nói điều này, các con nên nói với họ: 'Thưa các vị, khi Đức Phật mô tả những gì được bao gồm trong hạnh phúc, Ngài không chỉ nói đến cảm giác dễ chịu. Đấng Như Lai mô tả sự an vui được bao gồm trong hạnh phúc bất cứ nơi nào nó được tìm thấy, và trong bất kỳ bối cảnh nào.'"
 
 <!--pg-->
-### N 36.20 Một Tỷ Kheo *Bhikkhusutta*
+### SN 36.20 Một Tỷ Kheo *Bhikkhusutta*
 
 "Này các Tỷ kheo, trong một lời giải thích, Ta đã nói về hai loại cảm giác. Trong một lời giải thích khác, Ta đã nói về ba loại cảm giác, hoặc năm, sáu, mười tám, ba mươi sáu, hoặc một trăm lẻ tám loại cảm giác.
 
@@ -469,7 +469,7 @@ Này các Tỷ kheo, khi các du sĩ của các tôn giáo khác nói điều n�
 <!--pg-->
 ## Chương Giải Thích Về Một Trăm Lẻ Tám
 
-### N 36.21 Với Sīvaka *Sīvakasutta*
+### SN 36.21 Với Sīvaka *Sīvakasutta*
 
 Một thời Đức Phật ở gần Rājagaha, tại Trúc Lâm, nơi nuôi sóc.
 
@@ -489,7 +489,7 @@ Khi Ngài nói điều này, du sĩ Moḷiyasīvaka nói với Đức Phật, "T
 > và kết quả của việc làm là thứ tám."
 
 <!--pg-->
-### N 36.22 Giải Thích Về Một Trăm Lẻ Tám *Aṭṭhasatasutta*
+### SN 36.22 Giải Thích Về Một Trăm Lẻ Tám *Aṭṭhasatasutta*
 
 "Này các Tỷ kheo, Ta sẽ dạy cho các con một bài thuyết giảng về một trăm lẻ tám. Hãy lắng nghe ...
 
@@ -512,7 +512,7 @@ Và một trăm lẻ tám loại cảm giác là gì? Ba mươi sáu cảm giác
 Đây là bài thuyết giảng về một trăm lẻ tám."
 
 <!--pg-->
-### N 36.23 Với Một Tỷ Kheo *Aññatarabhikkhusutta*
+### SN 36.23 Với Một Tỷ Kheo *Aññatarabhikkhusutta*
 
 Rồi một Tỷ kheo đến gặp Đức Phật, đảnh lễ, ngồi xuống một bên, và nói với Ngài:
 
@@ -531,14 +531,14 @@ Cảm giác đó là vô thường, khổ đau, và có thể hoại diệt: đ�
 Loại bỏ và từ bỏ ham muốn và tham lam đối với cảm giác: đây là lối thoát của nó."
 
 <!--pg-->
-### N 36.24 Trước Kia *Pubbasutta*
+### SN 36.24 Trước Kia *Pubbasutta*
 
 "Này các Tỷ kheo, trước khi Ta giác ngộ---khi Ta vẫn chưa giác ngộ nhưng quyết tâm giác ngộ---Ta đã nghĩ: 'Cảm giác là gì? Nguồn gốc của cảm giác là gì? Con đường thực hành dẫn đến nguồn gốc của cảm giác là gì? Sự chấm dứt của cảm giác là gì? Con đường thực hành dẫn đến sự chấm dứt của cảm giác là gì? Và sự hấp dẫn, sự nguy hại, và lối thoát của cảm giác là gì?'
 
 Rồi Ta nghĩ: 'Có ba loại cảm giác này: dễ chịu, khó chịu, và trung tính. Đây được gọi là cảm giác. Cảm giác bắt nguồn từ sự tiếp xúc. Tham ái là con đường thực hành dẫn đến nguồn gốc của cảm giác ... Loại bỏ và từ bỏ ham muốn và tham lam đối với cảm giác: đây là lối thoát của nó.'"
 
 <!--pg-->
-### N 36.25 Tri Thức *Ñāṇasutta*
+### SN 36.25 Tri Thức *Ñāṇasutta*
 
 "'Đây là các cảm giác.' Đó là cái thấy, tri thức, trí tuệ, sự chứng ngộ, và ánh sáng đã khởi sinh trong Ta về những giáo lý chưa từng được học từ người khác trước đây.
 
@@ -557,7 +557,7 @@ Rồi Ta nghĩ: 'Có ba loại cảm giác này: dễ chịu, khó chịu, và t
 'Đây là lối thoát khỏi cảm giác.' Đó là cái thấy, tri thức, trí tuệ, sự chứng ngộ, và ánh sáng đã khởi sinh trong Ta về những giáo lý chưa từng được học từ người khác trước đây."
 
 <!--pg-->
-### N 36.26 Với Nhiều Tỷ Kheo *Sambahulabhikkhusutta*
+### SN 36.26 Với Nhiều Tỷ Kheo *Sambahulabhikkhusutta*
 
 Rồi nhiều Tỷ kheo đến gặp Đức Phật, đảnh lễ, ngồi xuống một bên, và nói với Ngài:
 
@@ -572,7 +572,7 @@ Khi sự tiếp xúc chấm dứt, cảm giác chấm dứt. ...
 Loại bỏ và từ bỏ ham muốn và tham lam đối với cảm giác: đây là lối thoát của nó."
 
 <!--pg-->
-### N 36.27 Sa-môn và Bà-la-môn (Thứ Nhất) *Paṭhamasamaṇabrāhmaṇasutta*
+### SN 36.27 Sa-môn và Bà-la-môn (Thứ Nhất) *Paṭhamasamaṇabrāhmaṇasutta*
 
 "Này các Tỷ kheo, có ba loại cảm giác này. Ba loại là gì? Cảm giác dễ chịu, khó chịu, và trung tính.
 
@@ -581,7 +581,7 @@ Có những sa-môn và bà-la-môn không thực sự hiểu được sự hấ
 Có những sa-môn và bà-la-môn thực sự hiểu được sự hấp dẫn, sự nguy hại, và lối thoát của ba loại cảm giác này. Ta coi họ là những sa-môn và bà-la-môn chân chính. Những vị tôn giả đó nhận ra mục tiêu của đời sống sa-môn hay bà-la-môn, và sống sau khi đã nhận ra nó bằng tuệ giác của chính mình."
 
 <!--pg-->
-### N 36.28 Sa-môn và Bà-la-môn (Thứ Hai) *Dutiyasamaṇabrāhmaṇasutta*
+### SN 36.28 Sa-môn và Bà-la-môn (Thứ Hai) *Dutiyasamaṇabrāhmaṇasutta*
 
 "Này các Tỷ kheo, có ba loại cảm giác này. Ba loại là gì? Cảm giác dễ chịu, khó chịu, và trung tính.
 
@@ -590,19 +590,19 @@ Có những sa-môn và bà-la-môn không thực sự hiểu được nguồn g
 Có những sa-môn và bà-la-môn thực sự hiểu ..."
 
 <!--pg-->
-### N 36.29 Sa-môn và Bà-la-môn (Thứ Ba) *Tatiyasamaṇabrāhmaṇasutta*
+### SN 36.29 Sa-môn và Bà-la-môn (Thứ Ba) *Tatiyasamaṇabrāhmaṇasutta*
 
 "Này các Tỷ kheo, có những sa-môn và bà-la-môn không hiểu về cảm giác, nguồn gốc của nó, sự chấm dứt của nó, và con đường thực hành dẫn đến sự chấm dứt của nó. ...
 
 Có những sa-môn và bà-la-môn thực sự hiểu ..."
 
 <!--pg-->
-### N 36.30 Phiên Bản Đơn Giản *Suddhikasutta*
+### SN 36.30 Phiên Bản Đơn Giản *Suddhikasutta*
 
 "Này các Tỷ kheo, có ba loại cảm giác này. Ba loại là gì? Cảm giác dễ chịu, khó chịu, và trung tính. Đây là ba loại cảm giác."
 
 <!--pg-->
-### N 36.31 Không Thuộc Về Vật chất *Nirāmisasutta*
+### SN 36.31 Không Thuộc Về Vật chất *Nirāmisasutta*
 
 "Này các Tỷ kheo, có sự hân hoan của vật chất, sự hân hoan không thuộc về vật chất, và sự hân hoan còn tâm linh hơn cả sự hân hoan không thuộc về vật chất.
 

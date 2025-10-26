@@ -1,4 +1,4 @@
-# 79. Kinh Tiểu Sakuludāyin
+# MN 79. Kinh Tiểu Sakuludāyin
 ***(Cūḷasakuludāyi Sutta)***
 
 1\.  Như vầy tôi nghe. Một thời Đức Thế Tôn trú tại Vương Xá (Rājagaha), trong Rừng Trúc, nơi nuôi sóc (Kalandakanivāpa). Bấy giờ, du sĩ Sakuludāyin đang trú tại Khu nuôi công, vườn của các du sĩ (Moranivāpe paribbājakārāme), cùng với đông đảo các du sĩ.

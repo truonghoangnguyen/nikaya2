@@ -1,4 +1,4 @@
-# 148. Kinh Sáu Bộ Sáu
+# MN 148. Kinh Sáu Bộ Sáu
 ***(Chachakka Sutta)***
 
 1\.  Như vầy tôi nghe. Một thời Đức Thế Tôn trú tại thành Xá-vệ (Sāvatthī), trong vườn ông Jeta (Kỳ-đà), tu viện ông Anāthapiṇḍika (Cấp Cô Độc). Tại đó, Ngài gọi các vị tỳ kheo (bhikkhus - các nhà sư nam đã thọ giới cụ túc): "Này các Tỳ kheo." – "Bạch Thế Tôn," các vị ấy đáp lời. Đức Thế Tôn dạy như sau:

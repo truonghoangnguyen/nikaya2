@@ -1,4 +1,4 @@
-# 96. Gửi Esukārī
+# MN 96. Gửi Esukārī
 ***(Kinh Esukārī - Esukārī Sutta)***
 
 1\.  Tôi nghe như vầy. Một thời Đức Thế Tôn trú tại Xá-vệ (Sāvatthī), trong vườn ông Jeta (Kỳ-đà), tu viện ông Anāthapiṇḍika (Cấp Cô Độc).

@@ -1,4 +1,4 @@
-# 112. Sáu Pháp Thanh Tịnh
+# MN 112. Sáu Pháp Thanh Tịnh
 ***(Kinh Chabbisodhana)***
 
 1\. Tôi nghe như vầy. Một thời Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong Vườn Jeta (Kỳ-đà), Khu vườn của Anāthapiṇḍika (Cấp Cô Độc). Tại đó, Ngài gọi các vị tỳ kheo (bhikkhus): "Này các Tỳ kheo." – "Bạch Thế Tôn," họ đáp lời. Đức Thế Tôn dạy điều này:

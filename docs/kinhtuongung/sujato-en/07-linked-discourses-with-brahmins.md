@@ -3,7 +3,7 @@
 <!--pg-->
 ## The Chapter on the Perfected Ones
 
-### N 7.1 With Dhanañjānī *Dhanañjānīsutta*
+### SN 7.1 With Dhanañjānī *Dhanañjānīsutta*
 
 So I have heard. At one time the Buddha was staying near
 Rājagaha, in the Bamboo Grove, the squirrels' feeding
@@ -75,7 +75,7 @@ for this place." And Venerable Bhāradvāja became one of the
 perfected.
 
 <!--pg-->
-### N 7.2 The Abuser *Akkosasutta*
+### SN 7.2 The Abuser *Akkosasutta*
 
 At one time the Buddha was staying near Rājagaha, in the
 Bamboo Grove, the squirrels' feeding ground.
@@ -151,7 +151,7 @@ for this place." And Venerable Bhāradvāja became one of the
 perfected.
 
 <!--pg-->
-### N 7.3 With Bhāradvāja the Fiend *Asurindakasutta*
+### SN 7.3 With Bhāradvāja the Fiend *Asurindakasutta*
 
 At one time the Buddha was staying near Rājagaha, in the
 Bamboo Grove, the squirrels' feeding ground. The brahmin
@@ -191,7 +191,7 @@ Buddha, "Excellent, worthy Gotama! ..." ... And Venerable
 Bhāradvāja became one of the perfected.
 
 <!--pg-->
-### N 7.4 With Bhāradvāja the Bitter *Bilaṅgikasutta*
+### SN 7.4 With Bhāradvāja the Bitter *Bilaṅgikasutta*
 
 At one time the Buddha was staying near Rājagaha, in the
 Bamboo Grove, the squirrels' feeding ground. The brahmin
@@ -213,7 +213,7 @@ to the Buddha, "Excellent, worthy Gotama! ..." ... And Venerable
 Bhāradvāja became one of the perfected.
 
 <!--pg-->
-### N 7.5 Harmless *Ahiṁsakasutta*
+### SN 7.5 Harmless *Ahiṁsakasutta*
 
 At Sāvatthī.
 
@@ -235,7 +235,7 @@ said to the Buddha, "Excellent, worthy Gotama! ..." ... And Venerable
 Bhāradvāja the Harmless became one of the perfected.
 
 <!--pg-->
-### N 7.6 With Bhāradvāja of the Matted Hair *Jaṭāsutta*
+### SN 7.6 With Bhāradvāja of the Matted Hair *Jaṭāsutta*
 
 At Sāvatthī.
 
@@ -270,7 +270,7 @@ the Buddha, "Excellent, worthy Gotama! ..." ... And Venerable
 Bhāradvāja became one of the perfected.
 
 <!--pg-->
-### N 7.7 With Bhāradvāja the Pure *Suddhikasutta*
+### SN 7.7 With Bhāradvāja the Pure *Suddhikasutta*
 
 At Sāvatthī.
 
@@ -303,7 +303,7 @@ the Buddha, "Excellent, worthy Gotama ..." ... And Venerable
 Bhāradvāja became one of the perfected.
 
 <!--pg-->
-### N 7.8 With Bhāradvāja the Fire-Worshiper *Aggikasutta*
+### SN 7.8 With Bhāradvāja the Fire-Worshiper *Aggikasutta*
 
 At one time the Buddha was staying near Rājagaha, in the
 Bamboo Grove, the squirrels' feeding ground.
@@ -359,7 +359,7 @@ And Venerable Bhāradvāja the Fire-Worshiper became one of
 the perfected.
 
 <!--pg-->
-### N 7.9 With Bhāradvāja of Sundarikā *Sundarikasutta*
+### SN 7.9 With Bhāradvāja of Sundarikā *Sundarikasutta*
 
 At one time the Buddha was staying in the Kosalan lands on the bank of
 the Sundarikā river.
@@ -473,7 +473,7 @@ Sundarikā said to the Buddha, "Excellent, worthy Gotama
 perfected.
 
 <!--pg-->
-### N 7.10 Many Daughters *Bahudhītarasutta*
+### SN 7.10 Many Daughters *Bahudhītarasutta*
 
 At one time the Buddha was staying in the land of the Kosalans in a
 certain forest grove.
@@ -578,7 +578,7 @@ perfected.
 <!--pg-->
 ## The Chapter on a Lay Follower
 
-### N 7.11 With Bhāradvāja the Farmer *Kasibhāradvājasutta*
+### SN 7.11 With Bhāradvāja the Farmer *Kasibhāradvājasutta*
 
 So I have heard. At one time the Buddha was staying in the
 land of the Magadhans in the Southern Hills near the brahmin village of
@@ -649,7 +649,7 @@ the worthy Gotama remember me as a lay follower who has gone for refuge
 for life."
 
 <!--pg-->
-### N 7.12 With Udaya *Udayasutta*
+### SN 7.12 With Udaya *Udayasutta*
 
 At Sāvatthī.
 
@@ -688,7 +688,7 @@ worthy Gotama ... From this day forth, may the worthy Gotama remember me
 as a lay follower who has gone for refuge for life."
 
 <!--pg-->
-### N 7.13 With Devahita *Devahitasutta*
+### SN 7.13 With Devahita *Devahitasutta*
 
 At Sāvatthī.
 
@@ -750,7 +750,7 @@ worthy Gotama ... From this day forth, may the worthy Gotama remember me
 as a lay follower who has gone for refuge for life."
 
 <!--pg-->
-### N 7.14 A well-to-do brahmin *Mahāsālasutta*
+### SN 7.14 A well-to-do brahmin *Mahāsālasutta*
 
 At Sāvatthī.
 
@@ -809,7 +809,7 @@ worthy Gotama ... From this day forth, may the worthy Gotama remember me
 as a lay follower who has gone for refuge for life."
 
 <!--pg-->
-### N 7.15 Stuck-Up *Mānatthaddhasutta*
+### SN 7.15 Stuck-Up *Mānatthaddhasutta*
 
 At Sāvatthī.
 
@@ -875,7 +875,7 @@ worthy Gotama ... From this day forth, may the worthy Gotama remember me
 as a lay follower who has gone for refuge for life."
 
 <!--pg-->
-### N 7.16 The Contraphile *Paccanīkasutta*
+### SN 7.16 The Contraphile *Paccanīkasutta*
 
 At Sāvatthī.
 
@@ -906,7 +906,7 @@ worthy Gotama remember me as a lay follower who has gone for refuge for
 life."
 
 <!--pg-->
-### N 7.17 The Builder *Navakammikasutta*
+### SN 7.17 The Builder *Navakammikasutta*
 
 At one time the Buddha was staying in the land of the Kosalans in a
 certain forest grove.
@@ -939,7 +939,7 @@ the worthy Gotama remember me as a lay follower who has gone for refuge
 for life."
 
 <!--pg-->
-### N 7.18 Collecting Firewood *Kaṭṭhahārasutta*
+### SN 7.18 Collecting Firewood *Kaṭṭhahārasutta*
 
 At one time the Buddha was staying in the land of the Kosalans in a
 certain forest grove.
@@ -992,7 +992,7 @@ worthy Gotama remember me as a lay follower who has gone for refuge for
 life."
 
 <!--pg-->
-### N 7.19 The Brahmin Who Provided for His Mother *Mātuposakasutta*
+### SN 7.19 The Brahmin Who Provided for His Mother *Mātuposakasutta*
 
 At Sāvatthī.
 
@@ -1021,7 +1021,7 @@ may the worthy Gotama remember me as a lay follower who has gone for
 refuge for life."
 
 <!--pg-->
-### N 7.20 A Beggar *Bhikkhakasutta*
+### SN 7.20 A Beggar *Bhikkhakasutta*
 
 At Sāvatthī.
 
@@ -1047,7 +1047,7 @@ worthy Gotama! Excellent! ... From this day forth, may the worthy Gotama
 remember me as a lay follower who has gone for refuge for life."
 
 <!--pg-->
-### N 7.21 With Saṅgārava *Saṅgāravasutta*
+### SN 7.21 With Saṅgārava *Saṅgāravasutta*
 
 At Sāvatthī.
 
@@ -1097,7 +1097,7 @@ worthy Gotama remember me as a lay follower who has gone for refuge for
 life."
 
 <!--pg-->
-### N 7.22 At Khomadussa *Khomadussasutta*
+### SN 7.22 At Khomadussa *Khomadussasutta*
 
 So I have heard. At one time the Buddha was staying in the
 land of the Sakyans, where they have a town named Khomadussa.

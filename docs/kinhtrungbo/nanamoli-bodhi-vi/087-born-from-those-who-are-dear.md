@@ -1,4 +1,4 @@
-# 87. Sanh Khởi Từ Người Thân
+# MN 87. Sanh Khởi Từ Người Thân
 ***(Kinh Piyajātika - Trung Bộ 87)***
 
 [106] 1. Tôi nghe như vầy. Một thời Đức Thế Tôn trú tại thành Xá-vệ (Sāvatthī), trong Vườn Kỳ Đà Cấp Cô Độc (Jeta's Grove, Anāthapiṇḍika's Park).

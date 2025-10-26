@@ -1,4 +1,4 @@
-# 31. Tiểu Kinh Gosinga
+# MN 31. Tiểu Kinh Gosinga
 ***(Cūlagosinga Sutta)***
 
 1\. Tôi nghe như vầy. Một thời, Đức Phật (The Blessed One - Bậc Giác Ngộ) trú tại Nādikā, trong ngôi nhà Gạch.

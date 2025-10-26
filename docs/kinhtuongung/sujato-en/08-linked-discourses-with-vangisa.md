@@ -3,7 +3,7 @@
 <!--pg-->
 ## The Chapter with the Poet Vaṅgīsa
 
-### N 8.1 Renounced *Nikkhantasutta*
+### SN 8.1 Renounced *Nikkhantasutta*
 
 So I have heard. At one time Venerable
 Vaṅgīsa was staying near Āḷavī, at the
@@ -52,7 +52,7 @@ to satisfaction, he recited these verses:
 > won't even see the path I take."
 
 <!--pg-->
-### N 8.2 Dissatisfaction *Aratīsutta*
+### SN 8.2 Dissatisfaction *Aratīsutta*
 
 At one time Venerable Vaṅgīsa was staying near
 Āḷavī, at the Aggāḷava Tree-shrine, together
@@ -100,7 +100,7 @@ to satisfaction, he recited these verses:
 > quenched, he awaits his time."
 
 <!--pg-->
-### N 8.3 Good-Hearted *Pesalasutta*
+### SN 8.3 Good-Hearted *Pesalasutta*
 
 At one time Venerable Vaṅgīsa was staying near
 Āḷavī, at the Aggāḷava Tree-shrine, together
@@ -136,7 +136,7 @@ verses:
 > use knowledge to make an end, and be calmed."
 
 <!--pg-->
-### N 8.4 With Ānanda *Ānandasutta*
+### SN 8.4 With Ānanda *Ānandasutta*
 
 At one time Venerable Ānanda was staying near Sāvatthī in
 Jeta's Grove, Anāthapiṇḍika's monastery.
@@ -174,7 +174,7 @@ lust infected his mind. Then he addressed Ānanda in verse:
 > you will live at peace."
 
 <!--pg-->
-### N 8.5 Well-Spoken Words *Subhāsitasutta*
+### SN 8.5 Well-Spoken Words *Subhāsitasutta*
 
 At Sāvatthī.
 
@@ -229,7 +229,7 @@ fitting verses:
 > this really is the best kind of speech."
 
 <!--pg-->
-### N 8.6 With Sāriputta *Sāriputtasutta*
+### SN 8.6 With Sāriputta *Sāriputtasutta*
 
 At one time Venerable Sāriputta was staying near
 Sāvatthī in Jeta's Grove, Anāthapiṇḍika's
@@ -277,7 +277,7 @@ presence with fitting verses:
 > their hearts elated."
 
 <!--pg-->
-### N 8.7 The Invitation to Admonish *Pavāraṇāsutta*
+### SN 8.7 The Invitation to Admonish *Pavāraṇāsutta*
 
 At one time the Buddha was staying near Sāvatthī in the
 stilt longhouse of Migāra's mother in the Eastern
@@ -353,7 +353,7 @@ fitting verses:
 > destroyer of the dart of craving."
 
 <!--pg-->
-### N 8.8 Over a Thousand *Parosahassasutta*
+### SN 8.8 Over a Thousand *Parosahassasutta*
 
 At one time the Buddha was staying near Sāvatthī in Jeta's
 Grove, Anāthapiṇḍika's monastery, together with a large
@@ -432,7 +432,7 @@ with some more spontaneously inspired verses, not previously composed:
 > respectfully in the Buddha's teaching."
 
 <!--pg-->
-### N 8.9 With Koṇḍañña *Koṇḍaññasutta*
+### SN 8.9 With Koṇḍañña *Koṇḍaññasutta*
 
 At one time the Buddha was staying near Rājagaha, in the
 Bamboo Grove, the squirrels' feeding ground.
@@ -478,7 +478,7 @@ presence with fitting verses:
 > bows at the Teacher's feet."
 
 <!--pg-->
-### N 8.10 With Moggallāna *Moggallānasutta*
+### SN 8.10 With Moggallāna *Moggallānasutta*
 
 At one time the Buddha was staying on the slopes of Isigili at the Black
 Rock, together with a large Saṅgha of five hundred
@@ -518,7 +518,7 @@ presence with fitting verses:
 > and with a multitude of attributes."
 
 <!--pg-->
-### N 8.11 At Gaggarā *Gaggarāsutta*
+### SN 8.11 At Gaggarā *Gaggarāsutta*
 
 At one time the Buddha was staying near Campā on the banks
 of the Gaggarā Lotus Pond, together with a large
@@ -549,7 +549,7 @@ fitting verses:
 > your glory outshines the entire world."
 
 <!--pg-->
-### N 8.12 With Vaṅgīsa *Vaṅgīsasutta*
+### SN 8.12 With Vaṅgīsa *Vaṅgīsasutta*
 
 At one time Venerable Vaṅgīsa was staying near
 Sāvatthī in Jeta's Grove, Anāthapiṇḍika's

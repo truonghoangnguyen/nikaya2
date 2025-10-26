@@ -1,4 +1,4 @@
-# 69. Gulissäni
+# MN 69. Gulissäni
 ***(Kinh Gulissäni)***
 
 [469] 1. Như vầy tôi nghe. Một thời, Đức Thế Tôn trú tại thành Vương Xá (Rājagaha), trong Rừng Trúc (Veluvana), nơi nuôi dưỡng các con sóc (Kalandakanivāpa).

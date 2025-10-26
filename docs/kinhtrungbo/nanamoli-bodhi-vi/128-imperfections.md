@@ -1,4 +1,4 @@
-# 128. Những Phiền Não Làm Ô Nhiễm Tâm
+# MN 128. Những Phiền Não Làm Ô Nhiễm Tâm
 ***(Kinh Upakkilesa - Upakkilesa Sutta)***
 
 1\.  Tôi nghe như vầy. Một thời, Thế Tôn trú tại Kosambī, trong khu vườn của ông Ghosita (Ghosita's Park).

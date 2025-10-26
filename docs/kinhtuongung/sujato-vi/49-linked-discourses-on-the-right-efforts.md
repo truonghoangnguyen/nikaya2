@@ -3,7 +3,7 @@
 <!--pg-->
 ## Phẩm về các Bài Kinh Viết Tắt về Sông Hằng
 
-### N 49.1--12 Hướng về phía Đông, v.v. *Gaṅgāpeyyālavagga*
+### SN 49.1--12 Hướng về phía Đông, v.v. *Gaṅgāpeyyālavagga*
 
 Tại Sāvatthī.
 
@@ -43,7 +43,7 @@ Vị ấy khởi lên lòng nhiệt thành, cố gắng, nỗ lực, vận dụn
 <!--pg-->
 ## Phẩm về Sự Tinh Cần
 
-### N 49.13--22 *Tinh cần* (Diligence / appamāda / chuyên cần, kỷ luật, tự chủ) *Appamādavagga*
+### SN 49.13--22 *Tinh cần* (Diligence / appamāda / chuyên cần, kỷ luật, tự chủ) *Appamādavagga*
 
 **(Kể đầy đủ như trong SN 45.139--148.)**
 
@@ -55,7 +55,7 @@ Vị ấy khởi lên lòng nhiệt thành, cố gắng, nỗ lực, vận dụn
 <!--pg-->
 ## Phẩm về Công Việc Nặng Nhọc
 
-### N 49.23--34 Công Việc Nặng Nhọc, v.v. *Balakaraṇīyavagga*
+### SN 49.23--34 Công Việc Nặng Nhọc, v.v. *Balakaraṇīyavagga*
 
 "Này các *Tỷ kheo*, mọi công việc nặng nhọc được thực hiện đều dựa vào mặt đất và đứng vững trên mặt đất. Cũng vậy, một vị *Tỷ kheo* phát triển và tu tập bốn *nỗ lực chân chính* dựa vào và đứng vững trên *giới đức* (ethical conduct / sīla / hành vi đạo đức).
 
@@ -73,7 +73,7 @@ Làm sao vậy? Đó là khi một vị *Tỷ kheo* khởi lên lòng nhiệt th
 <!--pg-->
 ## Phẩm về Các Sự Tìm Kiếm
 
-### N 49.35--44 Mười Bài Kinh về Các Sự Tìm Kiếm, v.v. *Esanāvagga*
+### SN 49.35--44 Mười Bài Kinh về Các Sự Tìm Kiếm, v.v. *Esanāvagga*
 
 "Này các *Tỷ kheo*, có *ba sự tìm kiếm* này (three searches / tisso esanā / *tam tầm cầu* / ba loại tìm kiếm cơ bản thúc đẩy chúng sinh). Ba điều đó là gì? *Tìm kiếm dục lạc* (search for sensual pleasures / kāmesanā / sự theo đuổi các thú vui giác quan), *tìm kiếm sự tồn tại* (search for continued existence / bhavesanā / sự theo đuổi việc được tiếp tục tồn tại, được tái sinh), và *tìm kiếm con đường tâm linh* (search for a spiritual path / brahmacariyesanā / sự theo đuổi một đời sống phạm hạnh, một con đường giải thoát). Đây là *ba sự tìm kiếm*.
 
@@ -91,7 +91,7 @@ Bốn *nỗ lực chân chính* này cần được phát triển để *hiểu 
 <!--pg-->
 ## Phẩm về Các Cơn Lũ
 
-### N 49.45--54 Các Cơn Lũ, v.v. *Oghavagga*
+### SN 49.45--54 Các Cơn Lũ, v.v. *Oghavagga*
 
 "Này các *Tỷ kheo*, có năm *xiềng xích* cao hơn này (five higher fetters / pañcuddhambhāgiyāni saṃyojanāni / *ngũ thượng phần kiết sử* / năm sự trói buộc tinh vi ràng buộc vào các cõi giới cao). Năm điều đó là gì? *Ham muốn tái sinh vào cõi sắc giới* (desire for rebirth in the realm of luminous form / rūparāga / sự tham ái đối với các cõi thiền sắc giới), *ham muốn tái sinh vào cõi vô sắc* (desire for rebirth in the formless realm / arūparāga / sự tham ái đối với các cõi thiền vô sắc), *ngã mạn* (conceit / māna / sự kiêu ngạo, so sánh mình với người khác), *bồn chồn* (restlessness / uddhacca / tâm không yên, dao động), và *vô minh* (ignorance / avijjā / sự không thấy biết Tứ Thánh Đế, sự thật về khổ và con đường diệt khổ). Đây là năm *xiềng xích* cao hơn.
 

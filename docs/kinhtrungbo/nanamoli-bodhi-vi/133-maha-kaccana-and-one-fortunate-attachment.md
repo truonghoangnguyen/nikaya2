@@ -1,4 +1,4 @@
-# 133. Kinh Đại Ca Chiên và Người Có Một Đêm An Lành
+# MN 133. Kinh Đại Ca Chiên và Người Có Một Đêm An Lành
 ***(Mahākaccānabhaddekaratta Sutta)***
 
 [192] 1. Tôi nghe như vầy. Một thời Đức Thế Tôn trú tại Rājagaha (Vương Xá), trong Khu Rừng Suối Nước Nóng. Bấy giờ, khi trời gần sáng, Tôn giả Samiddhi đi đến suối nước nóng để tắm rửa chân tay. Tắm xong, ngài lên bờ, đứng mặc một y, hong khô người. Lúc ấy, khi đêm đã khuya, một vị trời (deity - một chúng sinh ở cõi trời) có dung sắc xinh đẹp, chiếu sáng cả khu suối nước nóng, đến gần Tôn giả Samiddhi. Đứng một bên, vị trời ấy nói với ngài:

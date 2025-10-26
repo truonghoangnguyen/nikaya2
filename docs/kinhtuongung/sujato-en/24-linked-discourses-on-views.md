@@ -3,7 +3,7 @@
 <!--pg-->
 ## The Chapter on Stream-Entry
 
-### N 24.1 Winds *Vātasutta*
+### SN 24.1 Winds *Vātasutta*
 
 At one time the Buddha was staying near Sāvatthī in Jeta's
 Grove. The Buddha said this:
@@ -84,7 +84,7 @@ stream-enterer, not liable to be reborn in the underworld, bound for
 awakening."
 
 <!--pg-->
-### N 24.2 This Is Mine *Etaṁmamasutta*
+### SN 24.2 This Is Mine *Etaṁmamasutta*
 
 At Sāvatthī.
 
@@ -129,7 +129,7 @@ stream-enterer, not liable to be reborn in the underworld, bound for
 awakening."
 
 <!--pg-->
-### N 24.3 This Is My Self *Soattāsutta*
+### SN 24.3 This Is My Self *Soattāsutta*
 
 At Sāvatthī.
 
@@ -174,7 +174,7 @@ stream-enterer, not liable to be reborn in the underworld, bound for
 awakening."
 
 <!--pg-->
-### N 24.4 It Might Not Be Mine *Nocamesiyāsutta*
+### SN 24.4 It Might Not Be Mine *Nocamesiyāsutta*
 
 At Sāvatthī.
 
@@ -217,7 +217,7 @@ stream-enterer, not liable to be reborn in the underworld, bound for
 awakening."
 
 <!--pg-->
-### N 24.5 There's No Meaning in Giving *Natthidinnasutta*
+### SN 24.5 There's No Meaning in Giving *Natthidinnasutta*
 
 At Sāvatthī.
 
@@ -278,7 +278,7 @@ stream-enterer, not liable to be reborn in the underworld, bound for
 awakening."
 
 <!--pg-->
-### N 24.6 Acting *Karotosutta*
+### SN 24.6 Acting *Karotosutta*
 
 At Sāvatthī.
 
@@ -333,7 +333,7 @@ stream-enterer, not liable to be reborn in the underworld, bound for
 awakening."
 
 <!--pg-->
-### N 24.7 Cause *Hetusutta*
+### SN 24.7 Cause *Hetusutta*
 
 At Sāvatthī.
 
@@ -383,7 +383,7 @@ stream-enterer, not liable to be reborn in the underworld, bound for
 awakening."
 
 <!--pg-->
-### N 24.8 The Extensive View *Mahādiṭṭhisutta*
+### SN 24.8 The Extensive View *Mahādiṭṭhisutta*
 
 At Sāvatthī.
 
@@ -452,7 +452,7 @@ stream-enterer, not liable to be reborn in the underworld, bound for
 awakening."
 
 <!--pg-->
-### N 24.9 The Cosmos is Eternal *Sassatadiṭṭhisutta*
+### SN 24.9 The Cosmos is Eternal *Sassatadiṭṭhisutta*
 
 At Sāvatthī.
 
@@ -482,7 +482,7 @@ stream-enterer, not liable to be reborn in the underworld, bound for
 awakening."
 
 <!--pg-->
-### N 24.10 The Cosmos Is Not Eternal *Asassatadiṭṭhisutta*
+### SN 24.10 The Cosmos Is Not Eternal *Asassatadiṭṭhisutta*
 
 At Sāvatthī.
 
@@ -505,7 +505,7 @@ stream-enterer, not liable to be reborn in the underworld, bound for
 awakening."
 
 <!--pg-->
-### N 24.11 The Cosmos is Finite *Antavāsutta*
+### SN 24.11 The Cosmos is Finite *Antavāsutta*
 
 At Sāvatthī.
 
@@ -513,7 +513,7 @@ At Sāvatthī.
 what, does the view arise: 'The cosmos is finite'?" ...
 
 <!--pg-->
-### N 24.12 The Cosmos is Infinite *Anantavāsutta*
+### SN 24.12 The Cosmos is Infinite *Anantavāsutta*
 
 At Sāvatthī.
 
@@ -521,7 +521,7 @@ At Sāvatthī.
 what, does the view arise: 'The cosmos is infinite'?" ...
 
 <!--pg-->
-### N 24.13 The Soul and the Body Are Identical *Taṁjīvaṁtaṁsarīraṁsutta*
+### SN 24.13 The Soul and the Body Are Identical *Taṁjīvaṁtaṁsarīraṁsutta*
 
 At Sāvatthī.
 
@@ -529,7 +529,7 @@ At Sāvatthī.
 what, does the view arise: 'The soul and the body are identical'?" ...
 
 <!--pg-->
-### N 24.14 The Soul and the Body Are Different Things *Aññaṁjīvaṁaññaṁsarīraṁsutta*
+### SN 24.14 The Soul and the Body Are Different Things *Aññaṁjīvaṁaññaṁsarīraṁsutta*
 
 At Sāvatthī.
 
@@ -538,7 +538,7 @@ what, does the view arise: 'The soul and the body are different
 things'?" ...
 
 <!--pg-->
-### N 24.15 A Realized One Still Exists *Hotitathāgatosutta*
+### SN 24.15 A Realized One Still Exists *Hotitathāgatosutta*
 
 At Sāvatthī.
 
@@ -547,7 +547,7 @@ what, does the view arise: 'A realized one still exists after death'?"
 ...
 
 <!--pg-->
-### N 24.16 A Realized One No Longer Exists *Nahotitathāgatosutta*
+### SN 24.16 A Realized One No Longer Exists *Nahotitathāgatosutta*
 
 At Sāvatthī.
 
@@ -556,7 +556,7 @@ what, does the view arise: 'A realized one no longer exists after
 death'?" ...
 
 <!--pg-->
-### N 24.17 A Realized One Both Still Exists and No Longer Exists *Hoticanacahotitathāgatosutta*
+### SN 24.17 A Realized One Both Still Exists and No Longer Exists *Hoticanacahotitathāgatosutta*
 
 At Sāvatthī.
 
@@ -565,7 +565,7 @@ what, does the view arise: 'A realized one both still exists and no
 longer exists after death'?" ...
 
 <!--pg-->
-### N 24.18 A Realized One Neither Still Exists Nor No Longer Exists *Nevahotinanahotitathāgatosutta*
+### SN 24.18 A Realized One Neither Still Exists Nor No Longer Exists *Nevahotinanahotitathāgatosutta*
 
 At Sāvatthī.
 
@@ -611,7 +611,7 @@ awakening."
 <!--pg-->
 ## The Chapter on the Second Round
 
-### N 24.19 Winds *Vātasutta*
+### SN 24.19 Winds *Vātasutta*
 
 At Sāvatthī.
 
@@ -661,13 +661,13 @@ flow; pregnant women don't give birth; the moon and stars neither rise
 nor set, but stand firm like a pillar.'"
 
 
-### N 24.20--35 This Is Mine, Etc. *Etaṁmamādisutta*
+### SN 24.20--35 This Is Mine, Etc. *Etaṁmamādisutta*
 
 *(Tell these in full as in discourses 2 through 17 of the previous
 chapter.)*
 
 <!--pg-->
-### N 24.36 Neither Still Exists Nor No Longer Exists *Nevahotinanahotisutta*
+### SN 24.36 Neither Still Exists Nor No Longer Exists *Nevahotinanahotisutta*
 
 At Sāvatthī.
 
@@ -707,7 +707,7 @@ insisting on suffering, the view arises: 'A realized one neither still
 exists nor no longer exists after death.'"
 
 <!--pg-->
-### N 24.37 The Self is Formed *Rūpīattāsutta*
+### SN 24.37 The Self is Formed *Rūpīattāsutta*
 
 At Sāvatthī.
 
@@ -716,7 +716,7 @@ what, does the view arise: 'The self is formed and is healthy after
 death'?" ...
 
 <!--pg-->
-### N 24.38 The Self Is Formless *Arūpīattāsutta*
+### SN 24.38 The Self Is Formless *Arūpīattāsutta*
 
 At Sāvatthī.
 
@@ -725,35 +725,35 @@ what, does the view arise: 'The self is formless and healthy after
 death'?" ...
 
 <!--pg-->
-### N 24.39 The Self is Formed and Formless *Rūpīcaarūpīcaattāsutta*
+### SN 24.39 The Self is Formed and Formless *Rūpīcaarūpīcaattāsutta*
 
 At Sāvatthī.
 
 "'The self is formed and formless, and is healthy after death'?" ...
 
 <!--pg-->
-### N 24.40 The Self is Neither Formed Nor Formless *Nevarūpīnārūpīattāsutta*
+### SN 24.40 The Self is Neither Formed Nor Formless *Nevarūpīnārūpīattāsutta*
 
 "'The self is neither formed nor formless, and is healthy after death'?"
 ...
 
 <!--pg-->
-### N 24.41 The Self Is Perfectly Happy *Ekantasukhīsutta*
+### SN 24.41 The Self Is Perfectly Happy *Ekantasukhīsutta*
 
 "'The self is perfectly happy, and is free of disease after death'?" ...
 
 <!--pg-->
-### N 24.42 Exclusively Suffering *Ekantadukkhīsutta*
+### SN 24.42 Exclusively Suffering *Ekantadukkhīsutta*
 
 "'The self is exclusively suffering, and is healthy after death'?" ...
 
 <!--pg-->
-### N 24.43 The Self Is Happy and Suffering *Sukhadukkhīsutta*
+### SN 24.43 The Self Is Happy and Suffering *Sukhadukkhīsutta*
 
 "'The self is happy and suffering, and is healthy after death'?" ...
 
 <!--pg-->
-### N 24.44 The Self Is Neither Happy Nor Suffering *Adukkhamasukhīsutta*
+### SN 24.44 The Self Is Neither Happy Nor Suffering *Adukkhamasukhīsutta*
 
 "'The self is neither happy nor suffering, and is healthy after death'?"
 ...
@@ -761,7 +761,7 @@ At Sāvatthī.
 <!--pg-->
 ## The Chapter on the Third Round
 
-### N 24.45 Winds *Navātasutta*
+### SN 24.45 Winds *Navātasutta*
 
 At Sāvatthī.
 
@@ -806,12 +806,12 @@ women don't give birth; the moon and stars neither rise nor set, but
 stand firm like a pillar.'"
 
 
-### N 24.46--69 This Is Mine, etc. *Etaṁmamādisutta*
+### SN 24.46--69 This Is Mine, etc. *Etaṁmamādisutta*
 
 **(Tell in full as in discourses 20 through 43 of the second chapter.)**
 
 <!--pg-->
-### N 24.70 The Self Is Neither Happy Nor Suffering *Adukkhamasukhīsutta*
+### SN 24.70 The Self Is Neither Happy Nor Suffering *Adukkhamasukhīsutta*
 
 At Sāvatthī.
 
@@ -851,7 +851,7 @@ healthy after death.'"
 <!--pg-->
 ## The Chapter on the Fourth Round
 
-### N 24.71 Winds *Navātasutta*
+### SN 24.71 Winds *Navātasutta*
 
 At Sāvatthī.
 
@@ -910,12 +910,12 @@ Seeing this ... They understand: '... there is nothing further for this
 place.'"
 
 <!--pg-->
-### N 24.72--95 This Is Mine, Etc. *Etaṁmamādisutta*
+### SN 24.72--95 This Is Mine, Etc. *Etaṁmamādisutta*
 
 **(Tell in full as in the 24 discourses of the second chapter.)**
 
 <!--pg-->
-### N 24.96 The Self Is Neither Happy Nor Suffering *Adukkhamasukhīsutta*
+### SN 24.96 The Self Is Neither Happy Nor Suffering *Adukkhamasukhīsutta*
 
 At Sāvatthī.
 

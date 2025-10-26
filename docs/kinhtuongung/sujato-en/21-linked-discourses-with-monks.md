@@ -3,7 +3,7 @@
 <!--pg-->
 ## The Chapter on Monks
 
-### N 21.1 With Kolita *Kolitasutta*
+### SN 21.1 With Kolita *Kolitasutta*
 
 So I have heard. At one time the Buddha was staying near
 Sāvatthī in Jeta's Grove, Anāthapiṇḍika's
@@ -45,7 +45,7 @@ So if anyone should be rightly called a disciple who attained to great
 direct knowledge with help from the Teacher, it's me."
 
 <!--pg-->
-### N 21.2 With Upatissa *Upatissasutta*
+### SN 21.2 With Upatissa *Upatissasutta*
 
 At Sāvatthī.
 
@@ -78,7 +78,7 @@ conceit. So even if the Teacher were to decay and perish, it wouldn't
 give rise to sorrow, lamentation, pain, sadness, and distress in him."
 
 <!--pg-->
-### N 21.3 A Mound of Salt *Ghaṭasutta*
+### SN 21.3 A Mound of Salt *Ghaṭasutta*
 
 So I have heard. At one time the Buddha was staying near
 Sāvatthī in Jeta's Grove, Anāthapiṇḍika's
@@ -143,7 +143,7 @@ has been commended, complimented, and praised by the Buddha:
 And so these two spiritual giants agreed with each others' fine words.
 
 <!--pg-->
-### N 21.4 A Junior Mendicant *Navasutta*
+### SN 21.4 A Junior Mendicant *Navasutta*
 
 At Sāvatthī.
 
@@ -191,7 +191,7 @@ say:
 > having vanquished Māra and his mount."
 
 <!--pg-->
-### N 21.5 With Sujāta *Sujātasutta*
+### SN 21.5 With Sujāta *Sujātasutta*
 
 At Sāvatthī.
 
@@ -215,7 +215,7 @@ say:
 > having vanquished Māra and his mount."
 
 <!--pg-->
-### N 21.6 With Bhaddiya the Dwarf *Lakuṇḍakabhaddiyasutta*
+### SN 21.6 With Bhaddiya the Dwarf *Lakuṇḍakabhaddiyasutta*
 
 At Sāvatthī.
 
@@ -247,7 +247,7 @@ say:
 > not the fool with a good body."
 
 <!--pg-->
-### N 21.7 With Visākha, Pañcāli's Son *Visākhasutta*
+### SN 21.7 With Visākha, Pañcāli's Son *Visākhasutta*
 
 So I have heard. At one time the Buddha was staying near
 Vesālī, at the Great Wood, in the hall with the peaked
@@ -287,7 +287,7 @@ say:
 > for the teaching is the banner of the seers."
 
 <!--pg-->
-### N 21.8 With Nanda *Nandasutta*
+### SN 21.8 With Nanda *Nandasutta*
 
 At Sāvatthī.
 
@@ -315,7 +315,7 @@ almsfood, wore rag robes, and lived without concern for sensual
 pleasures.
 
 <!--pg-->
-### N 21.9 With Tissa *Tissasutta*
+### SN 21.9 With Tissa *Tissasutta*
 
 At Sāvatthī.
 
@@ -344,7 +344,7 @@ say:
 > in order to remove anger, conceit, and denigration."
 
 <!--pg-->
-### N 21.10 A Mendicant Named Senior *Theranāmakasutta*
+### SN 21.10 A Mendicant Named Senior *Theranāmakasutta*
 
 At one time the Buddha was staying near Rājagaha, in the
 Bamboo Grove, the squirrels' feeding ground.
@@ -398,7 +398,7 @@ say:
 > I declare that man to be one who lives alone."
 
 <!--pg-->
-### N 21.11 With Mahākappina *Mahākappinasutta*
+### SN 21.11 With Mahākappina *Mahākappinasutta*
 
 At Sāvatthī.
 
@@ -432,7 +432,7 @@ say:
 > the Buddha shines with glory."
 
 <!--pg-->
-### N 21.12 Companions *Sahāyakasutta*
+### SN 21.12 Companions *Sahāyakasutta*
 
 At Sāvatthī.
 

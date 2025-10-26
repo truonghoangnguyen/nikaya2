@@ -1,4 +1,4 @@
-# 10. Nền Tảng Của Chánh Niệm
+# MN 10. Nền Tảng Của Chánh Niệm
 ***(Kinh Satipatṭhāna)***
 
 1\. Tôi nghe như vầy. [^133] Một lần nọ, Đức Phật (The Blessed One) đang ở tại xứ Kuru, trong một thị trấn của người Kuru tên là Kammāsadhamma. [^134] Tại đó, Ngài nói với các tỳ kheo (bhikkhus - các nhà sư) rằng: "Này các tỳ kheo." - "Bạch Thế Tôn," họ đáp. Đức Phật nói:

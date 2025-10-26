@@ -1,4 +1,4 @@
-# 78. Con Trai Của Samaṇamaṇ̣ikā
+# MN 78. Con Trai Của Samaṇamaṇ̣ikā
 ***(Kinh Samaṇamaṇ̣ikā)***
 
 1\.  Như vầy tôi nghe. Một thời Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong vườn ông Jeta (Kỳ-đà), tu viện ông Anāthapiṇḍika (Cấp Cô Độc). Bấy giờ, du sĩ Uggāhamāna, con trai của Samaṇamaṇḍikā, đang ở tại vườn bà Mallikā, trong khu rừng Tinduka một cột dành cho các cuộc tranh luận triết học, [^771] [23] cùng với một đoàn tùy tùng đông đảo gồm khoảng ba trăm du sĩ.

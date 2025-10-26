@@ -1,4 +1,4 @@
-# 23. Tổ Kiến
+# MN 23. Tổ Kiến
 ***(Vammika Sutta)***
 
 1\. Tôi nghe như vầy. Một lần nọ, Đức Phật đang ở tại Sāvatthī, trong khu rừng Jeta, vườn của ông Anāthapiṇika. Lúc đó, ngài Kumāra Kassapa đang ở trong khu rừng của Người Mù. [^275]

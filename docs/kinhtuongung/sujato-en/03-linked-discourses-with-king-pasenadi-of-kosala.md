@@ -3,7 +3,7 @@
 <!--pg-->
 ## Chapter One
 
-### N 3.1 Young *Daharasutta*
+### SN 3.1 Young *Daharasutta*
 
 So I have heard. At one time the Buddha was staying near
 Sāvatthī in Jeta's Grove, Anāthapiṇḍika's
@@ -102,7 +102,7 @@ this day forth, may the Buddha remember me as a lay follower who has
 gone for refuge for life."
 
 <!--pg-->
-### N 3.2 A Person *Purisasutta*
+### SN 3.2 A Person *Purisasutta*
 
 At Sāvatthī.
 
@@ -123,7 +123,7 @@ That is what the Buddha said. ...
 > as a reed is destroyed by its own fruit."
 
 <!--pg-->
-### N 3.3 Old Age and Death *Jarāmaraṇasutta*
+### SN 3.3 Old Age and Death *Jarāmaraṇasutta*
 
 At Sāvatthī.
 
@@ -149,7 +149,7 @@ That is what the Buddha said. ...
 > so the good proclaim to the good."
 
 <!--pg-->
-### N 3.4 Loved *Piyasutta*
+### SN 3.4 Loved *Piyasutta*
 
 At Sāvatthī.
 
@@ -195,7 +195,7 @@ repeated the king's statement, adding:
 > support them in the next world."
 
 <!--pg-->
-### N 3.5 Self-Protected *Attarakkhitasutta*
+### SN 3.5 Self-Protected *Attarakkhitasutta*
 
 At Sāvatthī.
 
@@ -226,7 +226,7 @@ repeated the king's statement, adding:
 > is said to be 'protected'."
 
 <!--pg-->
-### N 3.6 Few *Appakasutta*
+### SN 3.6 Few *Appakasutta*
 
 At Sāvatthī.
 
@@ -250,7 +250,7 @@ repeated the king's statement, adding:
 > for the result will be bad for them."
 
 <!--pg-->
-### N 3.7 Judgment *Aḍḍakaraṇasutta*
+### SN 3.7 Judgment *Aḍḍakaraṇasutta*
 
 At Sāvatthī.
 
@@ -277,7 +277,7 @@ That is what the Buddha said. ...
 > for the result will be bad for them."
 
 <!--pg-->
-### N 3.8 With Queen Mallikā *Mallikāsutta*
+### SN 3.8 With Queen Mallikā *Mallikāsutta*
 
 At Sāvatthī.
 
@@ -305,7 +305,7 @@ this verse:
 > so one who cares for their own welfare would harm no other."
 
 <!--pg-->
-### N 3.9 Sacrifice *Yaññasutta*
+### SN 3.9 Sacrifice *Yaññasutta*
 
 At Sāvatthī.
 
@@ -347,7 +347,7 @@ these verses:
 > and even the deities are pleased."
 
 <!--pg-->
-### N 3.10 Shackles *Bandhanasutta*
+### SN 3.10 Shackles *Bandhanasutta*
 
 Now at that time a large group of people had been put in shackles by
 King Pasenadi of Kosala---some in ropes, some in manacles, some in
@@ -374,7 +374,7 @@ these verses:
 <!--pg-->
 ## Chapter Two
 
-### N 3.11 Seven Matted-Hair Ascetics *Sattajaṭilasutta*
+### SN 3.11 Seven Matted-Hair Ascetics *Sattajaṭilasutta*
 
 At one time the Buddha was staying near Sāvatthī in the
 stilt longhouse of Migāra's mother in the Eastern
@@ -438,7 +438,7 @@ these verses:
 > corrupt inside but impressive outside."
 
 <!--pg-->
-### N 3.12 Five Kings *Pañcarājasutta*
+### SN 3.12 Five Kings *Pañcarājasutta*
 
 At Sāvatthī.
 
@@ -500,7 +500,7 @@ upper robes. And Candanaṅgalika in turn endowed the Buddha
 with those robes.
 
 <!--pg-->
-### N 3.13 A Bucket of Rice *Doṇapākasutta*
+### SN 3.13 A Bucket of Rice *Doṇapākasutta*
 
 At Sāvatthī.
 
@@ -539,7 +539,7 @@ with his hands, at that time he expressed this heartfelt sentiment:
 and the good of the next."
 
 <!--pg-->
-### N 3.14 Battle (1st) *Paṭhamasaṅgāmasutta*
+### SN 3.14 Battle (1st) *Paṭhamasaṅgāmasutta*
 
 At Sāvatthī.
 
@@ -571,7 +571,7 @@ That is what the Buddha said. ...
 > having left victory and defeat behind."
 
 <!--pg-->
-### N 3.15 Battle (2nd) *Dutiyasaṅgāmasutta*
+### SN 3.15 Battle (2nd) *Dutiyasaṅgāmasutta*
 
 Then King Ajātasattu of Magadha, son of the princess of
 Videha, mobilized an army of four divisions and marched to
@@ -612,7 +612,7 @@ these verses:
 > the plunderer is plundered."
 
 <!--pg-->
-### N 3.16 A Daughter *Mallikāsutta*
+### SN 3.16 A Daughter *Mallikāsutta*
 
 At Sāvatthī.
 
@@ -635,7 +635,7 @@ Buddha recited these verses:
 > may even rule the realm."
 
 <!--pg-->
-### N 3.17 Diligence *Appamādasutta*
+### SN 3.17 Diligence *Appamādasutta*
 
 At Sāvatthī.
 
@@ -670,7 +670,7 @@ That is what the Buddha said. ...
 > is said to be astute."
 
 <!--pg-->
-### N 3.18 Good Friends *Kalyāṇamittasutta*
+### SN 3.18 Good Friends *Kalyāṇamittasutta*
 
 At Sāvatthī.
 
@@ -737,7 +737,7 @@ That is what the Buddha said. ...
 > they are said to be astute."
 
 <!--pg-->
-### N 3.19 Childless (1st) *Paṭhamaaputtakasutta*
+### SN 3.19 Childless (1st) *Paṭhamaaputtakasutta*
 
 At Sāvatthī.
 
@@ -802,7 +802,7 @@ it's used, not wasted.
 > blameless, goes to a heavenly place."
 
 <!--pg-->
-### N 3.20 Childless (2nd) *Dutiyaaputtakasutta*
+### SN 3.20 Childless (2nd) *Dutiyaaputtakasutta*
 
 Then King Pasenadi of Kosala went up to the Buddha in the middle of the
 day ... The Buddha said to him, "So, great king, where are you coming
@@ -869,7 +869,7 @@ That is what the Buddha said. ...
 <!--pg-->
 ## Chapter Three
 
-### N 3.21 Persons *Puggalasutta*
+### SN 3.21 Persons *Puggalasutta*
 
 At Sāvatthī.
 
@@ -1019,7 +1019,7 @@ That is what the Buddha said. ...
 > from light they're bound for light."
 
 <!--pg-->
-### N 3.22 Grandmother *Ayyikāsutta*
+### SN 3.22 Grandmother *Ayyikāsutta*
 
 At Sāvatthī.
 
@@ -1065,7 +1065,7 @@ That is what the Buddha said. ...
 > support them in the next world."
 
 <!--pg-->
-### N 3.23 The World *Lokasutta*
+### SN 3.23 The World *Lokasutta*
 
 At Sāvatthī.
 
@@ -1084,7 +1084,7 @@ That is what the Buddha said. ...
 > as a reed is destroyed by its own fruit."
 
 <!--pg-->
-### N 3.24 Archery *Issattasutta*
+### SN 3.24 Archery *Issattasutta*
 
 At Sāvatthī.
 
@@ -1180,7 +1180,7 @@ say:
 > showers down on the giver."
 
 <!--pg-->
-### N 3.25 The Simile of the Mountain *Pabbatūpamasutta*
+### SN 3.25 The Simile of the Mountain *Pabbatūpamasutta*
 
 At Sāvatthī.
 

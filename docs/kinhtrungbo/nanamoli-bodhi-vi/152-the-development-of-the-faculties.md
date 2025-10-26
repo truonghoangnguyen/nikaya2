@@ -1,4 +1,4 @@
-# 152. Sự Phát Triển Các Căn
+# MN 152. Sự Phát Triển Các Căn
 ***(Kinh Indriyabhāvanā)***
 
 [298] 1. Tôi nghe như vầy. Một thời Đức Thế Tôn trú ở Kajangalā, trong một khu rừng cây mukhelu.

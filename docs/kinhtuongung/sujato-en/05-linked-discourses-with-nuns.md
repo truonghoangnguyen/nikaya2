@@ -3,7 +3,7 @@
 <!--pg-->
 ## The Chapter on Nuns
 
-### N 5.1 With Āḷavikā *Āḷavikāsutta*
+### SN 5.1 With Āḷavikā *Āḷavikāsutta*
 
 So I have heard. At one time the Buddha was staying near
 Sāvatthī in Jeta's Grove, Anāthapiṇḍika's
@@ -47,7 +47,7 @@ Then Māra the Wicked, thinking, "The nun
 Āḷavikā knows me!" miserable and sad, vanished right there.
 
 <!--pg-->
-### N 5.2 With Somā *Somāsutta*
+### SN 5.2 With Somā *Somāsutta*
 
 At Sāvatthī.
 
@@ -90,7 +90,7 @@ Then Māra the Wicked, thinking, "The nun Somā
 knows me!" miserable and sad, vanished right there.
 
 <!--pg-->
-### N 5.3 With Kisāgotamī *Kisāgotamīsutta*
+### SN 5.3 With Kisāgotamī *Kisāgotamīsutta*
 
 At Sāvatthī.
 
@@ -135,7 +135,7 @@ Kisāgotamī knows me!" miserable and sad, vanished right
 there.
 
 <!--pg-->
-### N 5.4 With Vijayā *Vijayāsutta*
+### SN 5.4 With Vijayā *Vijayāsutta*
 
 At Sāvatthī.
 
@@ -180,7 +180,7 @@ Then Māra the Wicked, thinking, "The nun
 Vijayā knows me!" miserable and sad, vanished right there.
 
 <!--pg-->
-### N 5.5 With Uppalavaṇṇā *Uppalavaṇṇāsutta*
+### SN 5.5 With Uppalavaṇṇā *Uppalavaṇṇāsutta*
 
 At Sāvatthī.
 
@@ -227,7 +227,7 @@ Uppalavaṇṇā knows me!" miserable and sad, vanished right
 there.
 
 <!--pg-->
-### N 5.6 With Cālā *Cālāsutta*
+### SN 5.6 With Cālā *Cālāsutta*
 
 At Sāvatthī.
 
@@ -263,7 +263,7 @@ Then Māra the Wicked, thinking, "The nun Cālā
 knows me!" miserable and sad, vanished right there.
 
 <!--pg-->
-### N 5.7 With Upacālā *Upacālāsutta*
+### SN 5.7 With Upacālā *Upacālāsutta*
 
 At Sāvatthī.
 
@@ -305,7 +305,7 @@ Then Māra the Wicked, thinking, "The nun
 Upacālā knows me!" miserable and sad, vanished right there.
 
 <!--pg-->
-### N 5.8 With Sīsupacālā *Sīsupacālāsutta*
+### SN 5.8 With Sīsupacālā *Sīsupacālāsutta*
 
 At Sāvatthī.
 
@@ -344,7 +344,7 @@ Sīsupacālā knows me!" miserable and sad, vanished right
 there.
 
 <!--pg-->
-### N 5.9 With Selā *Selāsutta*
+### SN 5.9 With Selā *Selāsutta*
 
 At Sāvatthī.
 
@@ -389,7 +389,7 @@ Then Māra the Wicked, thinking, "The nun Selā
 knows me!" miserable and sad, vanished right there.
 
 <!--pg-->
-### N 5.10 With Vajirā *Vajirāsutta*
+### SN 5.10 With Vajirā *Vajirāsutta*
 
 At Sāvatthī.
 

@@ -3,7 +3,7 @@
 <!--pg-->
 ## The Chapter of Abbreviated Texts on the Ganges
 
-### N 49.1--12 Sloping East, Etc. *Gaṅgāpeyyālavagga*
+### SN 49.1--12 Sloping East, Etc. *Gaṅgāpeyyālavagga*
 
 At Sāvatthī.
 
@@ -60,7 +60,7 @@ efforts slants, slopes, and inclines to extinguishment."
 <!--pg-->
 ## The Chapter on Diligence
 
-### N 49.13--22 Diligence *Appamādavagga*
+### SN 49.13--22 Diligence *Appamādavagga*
 
 **(Tell in full as in SN 45.139--148.)**
 
@@ -72,7 +72,7 @@ efforts slants, slopes, and inclines to extinguishment."
 <!--pg-->
 ## The Chapter on Hard Work
 
-### N 49.23--34 Hard Work, Etc. *Balakaraṇīyavagga*
+### SN 49.23--34 Hard Work, Etc. *Balakaraṇīyavagga*
 
 "Mendicants, all the hard work that gets done depends on the earth and
 is grounded on the earth. In the same way, a mendicant develops and
@@ -96,7 +96,7 @@ depending on and grounded on ethics."
 <!--pg-->
 ## The Chapter on Searches
 
-### N 49.35--44 Ten Discourses on Searches, Etc. *Esanāvagga*
+### SN 49.35--44 Ten Discourses on Searches, Etc. *Esanāvagga*
 
 "Mendicants, there are these three searches. What three? The search for
 sensual pleasures, the search for continued existence, and the search
@@ -124,7 +124,7 @@ searches."
 <!--pg-->
 ## The Chapter on Floods
 
-### N 49.45--54 Floods, Etc. *Oghavagga*
+### SN 49.45--54 Floods, Etc. *Oghavagga*
 
 "Mendicants, there are five higher fetters. What five? Desire for
 rebirth in the realm of luminous form, desire for rebirth in the

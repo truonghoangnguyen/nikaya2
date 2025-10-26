@@ -1,4 +1,4 @@
-# 51. Gửi Kandaraka
+# MN 51. Gửi Kandaraka
 ***(Kinh Kandaraka - Kandaraka Sutta)***
 
 [339] 1. Như vầy tôi nghe. Một thời Đức Thế Tôn trú tại thành Chiêm-bà (Campā), bên bờ hồ Gaggarā, cùng với một đại chúng Tăng đoàn tỳ kheo (bhikkhus - nhà sư/tu sĩ Phật giáo nam). Bấy giờ, Pessa, con trai người quản tượng, và Kandaraka, người du sĩ, đi đến chỗ Đức Thế Tôn. Pessa, sau khi đảnh lễ Đức Thế Tôn, ngồi xuống một bên, còn Kandaraka thì chào hỏi thăm hỏi Đức Thế Tôn, và sau khi cuộc nói chuyện thân mật, vui vẻ kết thúc, ông đứng sang một bên. [^538] Đứng đó, ông nhìn Tăng đoàn tỳ kheo đang ngồi hoàn toàn im lặng, [^539] rồi ông nói với Đức Thế Tôn:

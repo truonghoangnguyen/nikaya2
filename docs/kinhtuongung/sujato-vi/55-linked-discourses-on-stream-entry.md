@@ -3,7 +3,7 @@
 <!--pg-->
 ## Phẩm Cổng Trúc Lâm
 
-### N 55.1 Một Vị Vua Chuyển Luân *Cakkavattirājasutta*
+### SN 55.1 Một Vị Vua Chuyển Luân *Cakkavattirājasutta*
 
 Tại Sāvatthī.
 
@@ -26,7 +26,7 @@ Hơn nữa, *giới đức* (ethical conduct / sīla / hành vi đạo đức) c
 Và, này các *Tỷ kheo*, việc có được bốn châu lục này không đáng một phần mười sáu của việc có được bốn điều này."
 
 <!--pg-->
-### N 55.2 Đỉnh Cao Của Đời Sống Phạm Hạnh *Brahmacariyogadhasutta*
+### SN 55.2 Đỉnh Cao Của Đời Sống Phạm Hạnh *Brahmacariyogadhasutta*
 
 "Này các *Tỷ kheo*, một *thánh đệ tử* có bốn điều là một *người nhập lưu* (stream-enterer / sotāpanna / người đã bước vào dòng chảy giác ngộ, đã đoạn trừ ba xiềng xích đầu tiên và chắc chắn sẽ đạt Niết-bàn), không còn bị tái sanh vào đọa xứ, chắc chắn sẽ *giác ngộ* (awakening / bodhi / sự tỉnh thức hoàn toàn, sự hiểu biết trọn vẹn về bản chất của thực tại).
 
@@ -40,7 +40,7 @@ Bốn điều đó là gì? Đó là khi một *thánh đệ tử* có *niềm t
 > Đỉnh cao của đời sống phạm hạnh."
 
 <!--pg-->
-### N 55.3 Cùng Với Dīghāvu *Dīghāvuupāsakasutta*
+### SN 55.3 Cùng Với Dīghāvu *Dīghāvuupāsakasutta*
 
 Một thời, Đức Phật đang ở gần Rājagaha, trong Trúc Lâm, nơi các con sóc được cho ăn.
 
@@ -69,7 +69,7 @@ Khi Đức Phật đã đưa ra lời khuyên này, Ngài đứng dậy khỏi c
 "Này các *Tỷ kheo*, cư sĩ tại gia Dīghāvu là người sáng suốt. Ông đã thực hành theo đúng giáo pháp, và không làm phiền ta về giáo pháp. Với sự chấm dứt của năm *xiềng xích* (The fetters / saṃyojana / *kiết sử* / cái cùm, xiềng xích, là các ô nhiễm gốc rễ sâu trong tâm) thấp hơn, ông đã được hóa sanh, và sẽ nhập Niết-bàn tại đó, không còn trở lại thế giới này nữa."
 
 <!--pg-->
-### N 55.4 Cùng Với Sāriputta (Thứ Nhất) *Paṭhamasāriputtasutta*
+### SN 55.4 Cùng Với Sāriputta (Thứ Nhất) *Paṭhamasāriputtasutta*
 
 Một thời, Tôn giả Sāriputta đang ở gần Sāvatthī trong Vườn Jeta, tu viện của Anāthapiṇḍika. Sau đó, vào cuối buổi chiều, Tôn giả Ānanda ra khỏi nơi ẩn tu... và nói với Sāriputta:
 
@@ -80,7 +80,7 @@ Một thời, Tôn giả Sāriputta đang ở gần Sāvatthī trong Vườn Jet
 Bốn điều đó là gì? Đó là khi một *thánh đệ tử* có *niềm tin bất động* vào Đức Phật... giáo pháp... Tăng đoàn... Và vị ấy có *giới đức* được các bậc thánh yêu mến... dẫn đến *Định*. Người ta phải sở hữu bốn điều này để Đức Phật tuyên bố rằng họ là một *người nhập lưu*, không còn bị tái sanh vào đọa xứ, chắc chắn sẽ *giác ngộ*."
 
 <!--pg-->
-### N 55.5 Cùng Với Sāriputta (Thứ Hai) *Dutiyasāriputtasutta*
+### SN 55.5 Cùng Với Sāriputta (Thứ Hai) *Dutiyasāriputtasutta*
 
 Sau đó, Sāriputta đến gặp Đức Phật, cúi lạy, và ngồi xuống một bên. Đức Phật nói với ông:
 
@@ -103,7 +103,7 @@ Sāriputta, người ta nói về 'một *người nhập lưu*'. Một *ngườ
 "Tốt lắm, tốt lắm, Sāriputta! Vì bất kỳ ai sở hữu con đường tám nhánh cao quý này đều được gọi là một *người nhập lưu*, vị tôn giả có tên và dòng họ như thế này, như thế kia."
 
 <!--pg-->
-### N 55.6 Các Quan Hầu Cận *Thapatisutta*
+### SN 55.6 Các Quan Hầu Cận *Thapatisutta*
 
 Tại Sāvatthī. Vào thời điểm đó, một vài *Tỷ kheo* đang may y cho Đức Phật, nghĩ rằng khi y của Ngài hoàn thành và ba tháng an cư mùa mưa đã qua, Đức Phật sẽ lên đường du hành. Lúc bấy giờ, các quan hầu cận Isidatta và Purāṇa đang ở Sādhuka vì một số công việc. Họ nghe được tin này.
 
@@ -158,7 +158,7 @@ Các ông nghĩ sao, các quan hầu cận? Có bao nhiêu người trong xứ K
 "Chúng con thật may mắn, bạch Thế Tôn, thật vô cùng may mắn, khi Đức Phật hiểu chúng con như thế này."
 
 <!--pg-->
-### N 55.7 Người Dân Làng Cổng Trúc Lâm *Veḷudvāreyyasutta*
+### SN 55.7 Người Dân Làng Cổng Trúc Lâm *Veḷudvāreyyasutta*
 
 Tôi đã nghe như vầy. Một thời, Đức Phật đang du hành trong xứ Kosala cùng với một Tăng đoàn lớn các *Tỷ kheo* thì Ngài đến một ngôi làng của các Bà-la-môn Kosala tên là Cổng Trúc Lâm. Các Bà-la-môn và gia chủ ở Cổng Trúc Lâm nghe tin:
 
@@ -193,7 +193,7 @@ Và vị ấy có *niềm tin bất động* vào Đức Phật... giáo pháp..
 Khi Ngài đã nói xong, các Bà-la-môn và gia chủ ở Cổng Trúc Lâm thưa với Đức Phật: "Thật tuyệt vời, thưa Gotama đáng kính!... Chúng con xin quy y Gotama đáng kính, quy y giáo pháp, và quy y Tăng đoàn *Tỷ kheo*. Từ hôm nay, xin Gotama đáng kính hãy ghi nhớ chúng con là những cư sĩ tại gia đã quy y trọn đời."
 
 <!--pg-->
-### N 55.8 Tại Ngôi Nhà Gạch (Thứ Nhất) *Paṭhamagiñjakāvasathasutta*
+### SN 55.8 Tại Ngôi Nhà Gạch (Thứ Nhất) *Paṭhamagiñjakāvasathasutta*
 
 Tôi đã nghe như vầy. Một thời, Đức Phật đang ở tại Ñātika trong ngôi nhà gạch. Sau đó, Tôn giả Ānanda đến gặp Đức Phật, cúi lạy, ngồi xuống một bên, và thưa với Ngài:
 
@@ -216,7 +216,7 @@ Và tấm gương của giáo pháp đó là gì?
 **(Hai bài kinh sau có cùng bối cảnh.)**
 
 <!--pg-->
-### N 55.9 Tại Ngôi Nhà Gạch (Thứ Hai) *Dutiyagiñjakāvasathasutta*
+### SN 55.9 Tại Ngôi Nhà Gạch (Thứ Hai) *Dutiyagiñjakāvasathasutta*
 
 Ānanda thưa với Đức Phật:
 
@@ -229,7 +229,7 @@ Và tấm gương của giáo pháp đó là gì?
 Đây là tấm gương của giáo pháp đó. Một *thánh đệ tử* có được điều này có thể tự tuyên bố về mình: 'Ta đã chấm dứt việc tái sanh vào địa ngục, cõi súc sinh, và cõi ngạ quỷ. Ta đã chấm dứt tất cả những nơi mất mát, cảnh giới xấu, đọa xứ. Ta là một *người nhập lưu*! Ta không còn bị tái sanh vào đọa xứ, và chắc chắn sẽ *giác ngộ*.'"
 
 <!--pg-->
-### N 55.10 Tại Ngôi Nhà Gạch (Thứ Ba) *Tatiyagiñjakāvasathasutta*
+### SN 55.10 Tại Ngôi Nhà Gạch (Thứ Ba) *Tatiyagiñjakāvasathasutta*
 
 Ānanda thưa với Đức Phật:
 
@@ -252,14 +252,14 @@ Và tấm gương của giáo pháp đó là gì?
 <!--pg-->
 ## Phẩm Tu Viện Hoàng Gia
 
-### N 55.11 Một Tăng Đoàn Một Ngàn Tỷ Kheo Ni *Sahassabhikkhunisaṁghasutta*
+### SN 55.11 Một Tăng Đoàn Một Ngàn Tỷ Kheo Ni *Sahassabhikkhunisaṁghasutta*
 
 Một thời, Đức Phật đang ở gần Sāvatthī trong Tu viện Hoàng gia. Sau đó, một Tăng đoàn một ngàn Tỷ kheo ni đến gặp Đức Phật, cúi lạy, và đứng sang một bên. Đức Phật nói với họ:
 
 "Này các Tỷ kheo ni, một *thánh đệ tử* có bốn điều là một *người nhập lưu*, không còn bị tái sanh vào đọa xứ, chắc chắn sẽ *giác ngộ*. Bốn điều đó là gì? Đó là khi một *thánh đệ tử* có *niềm tin bất động* vào Đức Phật... giáo pháp... Tăng đoàn... Và vị ấy có *giới đức* được các bậc thánh yêu mến... dẫn đến *Định*. Một *thánh đệ tử* có bốn điều này là một *người nhập lưu*, không còn bị tái sanh vào đọa xứ, chắc chắn sẽ *giác ngộ*."
 
 <!--pg-->
-### N 55.12 Các Bà-la-môn *Brāhmaṇasutta*
+### SN 55.12 Các Bà-la-môn *Brāhmaṇasutta*
 
 Tại Sāvatthī. "Này các *Tỷ kheo*, các Bà-la-môn chủ trương một pháp môn gọi là 'đứng dậy và đi'. Họ khuyến khích các đệ tử của mình: 'Này các bạn tốt, hãy dậy sớm, quay mặt về hướng đông và đi. Đừng tránh hố, vách đá, gốc cây, bụi gai, đầm lầy, hay cống rãnh. Các bạn nên chờ đợi cái chết ở nơi mình ngã xuống. Và khi thân hoại mạng chung, sau khi chết, các bạn sẽ được tái sanh vào một nơi tốt đẹp, một cõi trời.'
 
@@ -268,7 +268,7 @@ Nhưng pháp môn này của các Bà-la-môn là một thủ tục ngu xuẩn, 
 Và pháp môn 'đứng dậy và đi' đó là gì? Đó là khi một *thánh đệ tử* có *niềm tin bất động* vào Đức Phật... giáo pháp... Tăng đoàn... Và vị ấy có *giới đức* được các bậc thánh yêu mến... dẫn đến *Định*. Đây là pháp môn 'đứng dậy và đi' mà nó chỉ dẫn đến sự *nhàm chán*, *ly tham*, *chấm dứt*, *an tịnh*, *tuệ giác*, *giác ngộ*, và *Niết-bàn*."
 
 <!--pg-->
-### N 55.13 Cùng Với Trưởng Lão Ānanda *Ānandattherasutta*
+### SN 55.13 Cùng Với Trưởng Lão Ānanda *Ānandattherasutta*
 
 Một thời, các tôn giả Ānanda và Sāriputta đang ở gần Sāvatthī trong Vườn Jeta, tu viện của Anāthapiṇḍika. Sau đó, vào cuối buổi chiều, Tôn giả Sāriputta ra khỏi nơi ẩn tu, đến gặp Tôn giả Ānanda, và trao đổi lời chào với ông. Khi lời chào và cuộc trò chuyện lịch sự kết thúc, ông ngồi xuống một bên và nói với Ānanda:
 
@@ -285,22 +285,22 @@ Họ không có sự *hoài nghi* vào Tăng đoàn, điều khiến một ngư�
 Họ không có *giới đức* phi đạo đức, điều khiến một người phàm phu vô văn bị tái sanh—khi thân hoại mạng chung, sau khi chết—vào một nơi mất mát, một cảnh giới xấu, đọa xứ, địa ngục. Và họ có *giới đức* được các bậc thánh yêu mến, điều khiến một *thánh đệ tử* có học được tái sanh—khi thân hoại mạng chung, sau khi chết—vào một nơi tốt đẹp, một cõi trời. *Giới đức* của họ được các bậc thánh yêu mến, không bị phá vỡ, không tì vết, không vết nhơ, và không bị hoen ố, có tính giải thoát, được người trí ca ngợi, không sai lầm, và dẫn đến *Định*. Người ta phải từ bỏ bốn điều này và sở hữu bốn điều này để Đức Phật tuyên bố rằng họ là một *người nhập lưu*, không còn bị tái sanh vào đọa xứ, chắc chắn sẽ *giác ngộ*."
 
 <!--pg-->
-### N 55.14 Nỗi Sợ Cảnh Giới Xấu *Duggatibhayasutta*
+### SN 55.14 Nỗi Sợ Cảnh Giới Xấu *Duggatibhayasutta*
 
 "Này các *Tỷ kheo*, một *thánh đệ tử* có bốn điều đã vượt qua mọi nỗi sợ bị tái sanh vào cảnh giới xấu. Bốn điều đó là gì? Đó là khi một *thánh đệ tử* có *niềm tin bất động* vào Đức Phật... giáo pháp... Tăng đoàn... Và vị ấy có *giới đức* được các bậc thánh yêu mến... dẫn đến *Định*. Một *thánh đệ tử* có bốn điều này đã vượt qua mọi nỗi sợ bị tái sanh vào cảnh giới xấu."
 
 <!--pg-->
-### N 55.15 Nỗi Sợ Cảnh Giới Xấu, Đọa Xứ *Duggativinipātabhayasutta*
+### SN 55.15 Nỗi Sợ Cảnh Giới Xấu, Đọa Xứ *Duggativinipātabhayasutta*
 
 "Này các *Tỷ kheo*, một *thánh đệ tử* có bốn điều đã vượt qua mọi nỗi sợ bị tái sanh vào cảnh giới xấu, đọa xứ. Bốn điều đó là gì? Đó là khi một *thánh đệ tử* có *niềm tin bất động* vào Đức Phật... giáo pháp... Tăng đoàn... Và vị ấy có *giới đức* được các bậc thánh yêu mến... dẫn đến *Định*. Một *thánh đệ tử* có bốn điều này đã vượt qua mọi nỗi sợ bị tái sanh vào cảnh giới xấu, đọa xứ."
 
 <!--pg-->
-### N 55.16 Bạn Bè và Đồng Nghiệp (Thứ Nhất) *Paṭhamamittāmaccasutta*
+### SN 55.16 Bạn Bè và Đồng Nghiệp (Thứ Nhất) *Paṭhamamittāmaccasutta*
 
 "Này các *Tỷ kheo*, những người mà các con có lòng cảm thông, và những người đáng lắng nghe—bạn bè và đồng nghiệp, họ hàng và gia đình—nên được khuyến khích, hỗ trợ, và thiết lập trong bốn yếu tố của sự nhập lưu. Bốn điều đó là gì? *Niềm tin bất động* vào Đức Phật... giáo pháp... Tăng đoàn... Và *giới đức* được các bậc thánh yêu mến... dẫn đến *Định*. Những người mà các con có lòng cảm thông, và những người đáng lắng nghe—bạn bè và đồng nghiệp, họ hàng và gia đình—nên được khuyến khích, hỗ trợ, và thiết lập trong bốn yếu tố của sự nhập lưu này."
 
 <!--pg-->
-### N 55.17 Bạn Bè và Đồng Nghiệp (Thứ Hai) *Dutiyamittāmaccasutta*
+### SN 55.17 Bạn Bè và Đồng Nghiệp (Thứ Hai) *Dutiyamittāmaccasutta*
 
 "Này các *Tỷ kheo*, những người mà các con có lòng cảm thông, và những người đáng lắng nghe—bạn bè và đồng nghiệp, họ hàng và gia đình—nên được khuyến khích, hỗ trợ, và thiết lập trong bốn yếu tố của sự nhập lưu. Bốn điều đó là gì? *Niềm tin bất động* vào Đức Phật...
 
@@ -315,7 +315,7 @@ Có thể có sự thay đổi trong bốn trạng thái chính—các yếu t�
 Những người mà các con có lòng cảm thông, và những người đáng lắng nghe—bạn bè và đồng nghiệp, họ hàng và gia đình—nên được khuyến khích, hỗ trợ, và thiết lập trong bốn yếu tố của sự nhập lưu này."
 
 <!--pg-->
-### N 55.18 Một Chuyến Thăm Chư Thiên (Thứ Nhất) *Paṭhamadevacārikasutta*
+### SN 55.18 Một Chuyến Thăm Chư Thiên (Thứ Nhất) *Paṭhamadevacārikasutta*
 
 Tại Sāvatthī. Và rồi Tôn giả Mahāmoggallāna, dễ dàng như một người mạnh duỗi hay co cánh tay, biến mất khỏi Vườn Jeta và xuất hiện giữa các vị trời ở cõi Ba Mươi Ba. Sau đó, một vài vị trời trong đoàn thể Ba Mươi Ba đến gặp Tôn giả Mahāmoggallāna, cúi lạy, và đứng sang một bên. Moggallāna nói với họ:
 
@@ -324,7 +324,7 @@ Tại Sāvatthī. Và rồi Tôn giả Mahāmoggallāna, dễ dàng như một n
 "Moggallāna tốt lành của tôi, thật tốt khi có *niềm tin bất động* vào Đức Phật... Đó là lý do tại sao một số chúng sanh, khi thân hoại mạng chung, sau khi chết, được tái sanh vào một nơi tốt đẹp, một cõi trời. Thật tốt khi có *niềm tin bất động* vào giáo pháp. ... Tăng đoàn... và có *giới đức* được các bậc thánh yêu mến... dẫn đến *Định*. Đó là lý do tại sao một số chúng sanh, khi thân hoại mạng chung, sau khi chết, được tái sanh vào một nơi tốt đẹp, một cõi trời."
 
 <!--pg-->
-### N 55.19 Một Chuyến Thăm Chư Thiên (Thứ Hai) *Dutiyadevacārikasutta*
+### SN 55.19 Một Chuyến Thăm Chư Thiên (Thứ Hai) *Dutiyadevacārikasutta*
 
 Tại Sāvatthī.
 
@@ -335,7 +335,7 @@ Và rồi Tôn giả Mahāmoggallāna, dễ dàng như một người mạnh du�
 "Moggallāna tốt lành của tôi, thật tốt khi có *niềm tin bất động* vào Đức Phật... Đó là lý do tại sao một số chúng sanh, khi thân hoại mạng chung, sau khi chết, đã được tái sanh vào một nơi tốt đẹp, một cõi trời. Thật tốt khi có *niềm tin bất động* vào giáo pháp. ... Tăng đoàn... và có *giới đức* được các bậc thánh yêu mến... dẫn đến *Định*. Đó là lý do tại sao một số chúng sanh, khi thân hoại mạng chung, sau khi chết, đã được tái sanh vào một nơi tốt đẹp, một cõi trời."
 
 <!--pg-->
-### N 55.20 Một Chuyến Thăm Chư Thiên (Thứ Ba) *Tatiyadevacārikasutta*
+### SN 55.20 Một Chuyến Thăm Chư Thiên (Thứ Ba) *Tatiyadevacārikasutta*
 
 Sau đó, Đức Phật, dễ dàng như một người mạnh duỗi hay co cánh tay, biến mất khỏi Vườn Jeta và xuất hiện giữa các vị trời ở cõi Ba Mươi Ba. Sau đó, một vài vị trời trong đoàn thể Ba Mươi Ba đến gặp Đức Phật, cúi lạy, và đứng sang một bên. Đức Phật nói với họ:
 
@@ -346,7 +346,7 @@ Sau đó, Đức Phật, dễ dàng như một người mạnh duỗi hay co cá
 <!--pg-->
 ## Phẩm Cùng Với Sarakāni
 
-### N 55.21 Cùng Với Mahānāma (Thứ Nhất) *Paṭhamamahānāmasutta*
+### SN 55.21 Cùng Với Mahānāma (Thứ Nhất) *Paṭhamamahānāmasutta*
 
 Tôi đã nghe như vầy. Một thời, Đức Phật đang ở trong xứ của người Thích Ca, gần Kapilavatthu trong Tu viện Cây Đa. Sau đó, Mahānāma người Thích Ca đến gặp Đức Phật, cúi lạy, ngồi xuống một bên, và thưa với Ngài:
 
@@ -361,7 +361,7 @@ Tương tự như vậy, hãy xem một người có *tâm* đã từ lâu đư�
 *Tâm* của con, Mahānāma, đã từ lâu được thấm nhuần đức tin, giới hạnh, học vấn, lòng quảng đại, và trí tuệ. Đừng sợ, Mahānāma, đừng sợ! Cái chết của con sẽ không phải là một cái chết tồi tệ; sự ra đi của con sẽ không phải là một sự ra đi tồi tệ."
 
 <!--pg-->
-### N 55.22 Cùng Với Mahānāma (Thứ Hai) *Dutiyamahānāmasutta*
+### SN 55.22 Cùng Với Mahānāma (Thứ Hai) *Dutiyamahānāmasutta*
 
 Tôi đã nghe như vầy. Một thời, Đức Phật đang ở trong xứ của người Thích Ca, gần Kapilavatthu trong Tu viện Cây Đa. Sau đó, Mahānāma người Thích Ca đến gặp Đức Phật, cúi lạy, ngồi xuống một bên, và thưa với Ngài:
 
@@ -376,7 +376,7 @@ Giả sử có một cái cây nghiêng, dốc, và hướng về phía đông. 
 "Tương tự như vậy, một *thánh đệ tử* có bốn điều sẽ nghiêng, dốc, và hướng về *Niết-bàn*."
 
 <!--pg-->
-### N 55.23 Cùng Với Godhā Người Thích Ca *Godhasakkasutta*
+### SN 55.23 Cùng Với Godhā Người Thích Ca *Godhasakkasutta*
 
 Tại Kapilavatthu. Sau đó, Mahānāma người Thích Ca đến gặp Godhā người Thích Ca, và nói với ông: "Godhā, một người phải có bao nhiêu điều để ông công nhận họ là một *người nhập lưu*, không còn bị tái sanh vào đọa xứ, chắc chắn sẽ *giác ngộ*?"
 
@@ -399,7 +399,7 @@ Sau đó, Mahānāma và Godhā đến gặp Đức Phật, cúi lạy, và ng�
 "Bạch Thế Tôn, con không có gì để nói với Mahānāma khi ông ấy nói như thế này, ngoại trừ những điều tốt đẹp và lành mạnh."
 
 <!--pg-->
-### N 55.24 Về Sarakāni (Thứ Nhất) *Paṭhamasaraṇānisakkasutta*
+### SN 55.24 Về Sarakāni (Thứ Nhất) *Paṭhamasaraṇānisakkasutta*
 
 Tại Kapilavatthu.
 
@@ -426,7 +426,7 @@ Hãy xem một người khác không có *niềm tin bất động* vào Đức 
 Nếu những cây sala lớn này có thể hiểu được điều gì được nói hay và điều gì được nói dở, ta sẽ tuyên bố chúng là những *người nhập lưu*. Tại sao điều này không thể áp dụng cho Sarakāni? Mahānāma, Sarakāni người Thích Ca đã thực hành tu tập vào lúc lâm chung."
 
 <!--pg-->
-### N 55.25 Về Sarakāni Người Thích Ca (Thứ Hai) *Dutiyasaraṇānisakkasutta*
+### SN 55.25 Về Sarakāni Người Thích Ca (Thứ Hai) *Dutiyasaraṇānisakkasutta*
 
 Tại Kapilavatthu.
 
@@ -463,7 +463,7 @@ Giả sử có một cánh đồng màu mỡ, một mảnh đất màu mỡ, đ�
 "Tương tự như vậy, hãy xem một giáo pháp được giải thích tốt và trình bày hay, giải thoát, dẫn đến an tịnh, được tuyên thuyết bởi một người là một vị Phật giác ngộ viên mãn. Đây là điều ta gọi là một cánh đồng màu mỡ. Một đệ tử ở lại trong một giáo pháp như vậy, thực hành theo giáo pháp đó, thực hành nó một cách đúng đắn, sống theo giáo pháp đó. Đây là điều ta gọi là một hạt giống tốt. Tại sao điều này không thể áp dụng cho Sarakāni? Mahānāma, Sarakāni người Thích Ca đã hoàn thành việc tu tập vào lúc lâm chung."
 
 <!--pg-->
-### N 55.26 Anāthapiṇḍika (Thứ Nhất) *Paṭhamaanāthapiṇḍikasutta*
+### SN 55.26 Anāthapiṇḍika (Thứ Nhất) *Paṭhamaanāthapiṇḍikasutta*
 
 Tại Sāvatthī.
 
@@ -529,7 +529,7 @@ Sau đó, Ānanda đến gặp Đức Phật, cúi lạy, và ngồi xuống m�
 "Sāriputta là người sáng suốt, Ānanda. Ông ấy có trí tuệ vĩ đại, vì ông ấy có thể phân tích bốn yếu tố của sự nhập lưu theo mười phương diện."
 
 <!--pg-->
-### N 55.27 Cùng Với Anāthapiṇḍika (Thứ Hai) *Dutiyaanāthapiṇḍikasutta*
+### SN 55.27 Cùng Với Anāthapiṇḍika (Thứ Hai) *Dutiyaanāthapiṇḍikasutta*
 
 Tại Sāvatthī.
 
@@ -564,7 +564,7 @@ Khi một *thánh đệ tử* có học có bốn điều này, họ không sợ
 "Ông thật may mắn, gia chủ, thật vô cùng may mắn! Ông đã tuyên bố quả vị của sự nhập lưu."
 
 <!--pg-->
-### N 55.28 Nguy Hiểm và Đe Dọa (Thứ Nhất) *Paṭhamabhayaverūpasantasutta*
+### SN 55.28 Nguy Hiểm và Đe Dọa (Thứ Nhất) *Paṭhamabhayaverūpasantasutta*
 
 Tại Sāvatthī.
 
@@ -581,12 +581,12 @@ Và hệ thống cao quý mà vị ấy đã thấy rõ và thấu hiểu bằng
 Khi một *thánh đệ tử* đã dập tắt năm nguy hiểm và đe dọa, có bốn yếu tố của sự nhập lưu, và đã thấy rõ và thấu hiểu hệ thống cao quý bằng trí tuệ, vị ấy có thể, nếu muốn, tự tuyên bố về mình: 'Ta đã chấm dứt việc tái sanh vào địa ngục, cõi súc sinh, và cõi ngạ quỷ. Ta đã chấm dứt tất cả những nơi mất mát, cảnh giới xấu, đọa xứ. Ta là một *người nhập lưu*! Ta không còn bị tái sanh vào đọa xứ, và chắc chắn sẽ *giác ngộ*.'"
 
 <!--pg-->
-### N 55.29 Nguy Hiểm và Đe Dọa (Thứ Hai) *Dutiyabhayaverūpasantasutta*
+### SN 55.29 Nguy Hiểm và Đe Dọa (Thứ Hai) *Dutiyabhayaverūpasantasutta*
 
 Tại Sāvatthī. ... "Này các *Tỷ kheo*, khi một *thánh đệ tử* đã dập tắt năm nguy hiểm và đe dọa, có bốn yếu tố của sự nhập lưu, và đã thấy rõ và thấu hiểu hệ thống cao quý bằng trí tuệ, vị ấy có thể, nếu muốn, tự tuyên bố về mình: 'Ta đã chấm dứt việc tái sanh vào địa ngục, cõi súc sinh, và cõi ngạ quỷ. Ta đã chấm dứt tất cả những nơi mất mát, cảnh giới xấu, đọa xứ. Ta là một *người nhập lưu*! Ta không còn bị tái sanh vào đọa xứ, và chắc chắn sẽ *giác ngộ*.'"
 
 <!--pg-->
-### N 55.30 Cùng Với Nandaka Người Licchavi *Nandakalicchavisutta*
+### SN 55.30 Cùng Với Nandaka Người Licchavi *Nandakalicchavisutta*
 
 Một thời, Đức Phật đang ở gần Vesālī, tại Rừng Lớn, trong giảng đường có mái nhọn. Sau đó, Nandaka, vị đại thần người Licchavi, đến gặp Đức Phật, cúi lạy, và ngồi xuống một bên. Đức Phật nói với ông:
 
@@ -603,7 +603,7 @@ Khi Ngài đã nói xong, một người nào đó nói với Nandaka:
 <!--pg-->
 ## Phẩm Công Đức Tràn Đầy
 
-### N 55.31 Công Đức Tràn Đầy (Thứ Nhất) *Paṭhamapuññābhisandasutta*
+### SN 55.31 Công Đức Tràn Đầy (Thứ Nhất) *Paṭhamapuññābhisandasutta*
 
 Tại Sāvatthī.
 
@@ -616,21 +616,21 @@ Hơn nữa, một *thánh đệ tử* có *niềm tin bất động* vào Tăng 
 Hơn nữa, *giới đức* của một *thánh đệ tử* được các bậc thánh yêu mến, không bị phá vỡ, không tì vết, không vết nhơ, và không bị hoen ố, có tính giải thoát, được người trí ca ngợi, không sai lầm, và dẫn đến *Định*. Đây là loại *công đức tràn đầy* thứ tư, thiện lành tràn đầy nuôi dưỡng hạnh phúc. Đây là bốn loại *công đức tràn đầy*, thiện lành tràn đầy nuôi dưỡng hạnh phúc."
 
 <!--pg-->
-### N 55.32 Công Đức Tràn Đầy (Thứ Hai) *Dutiyapuññābhisandasutta*
+### SN 55.32 Công Đức Tràn Đầy (Thứ Hai) *Dutiyapuññābhisandasutta*
 
 "Này các *Tỷ kheo*, có bốn loại *công đức tràn đầy*, thiện lành tràn đầy nuôi dưỡng hạnh phúc. Bốn loại đó là gì? Đó là khi một *thánh đệ tử* có *niềm tin bất động* vào Đức Phật... giáo pháp... Tăng đoàn...
 
 Hơn nữa, một *thánh đệ tử* sống tại gia thoát khỏi vết nhơ của *sự keo kiệt*, rộng lòng bố thí, hào phóng, thích buông xả, cam kết làm từ thiện, thích cho đi và chia sẻ. Đây là loại *công đức tràn đầy* thứ tư, thiện lành tràn đầy nuôi dưỡng hạnh phúc. Đây là bốn loại *công đức tràn đầy*, thiện lành tràn đầy nuôi dưỡng hạnh phúc."
 
 <!--pg-->
-### N 55.33 Công Đức Tràn Đầy (Thứ Ba) *Tatiyapuññābhisandasutta*
+### SN 55.33 Công Đức Tràn Đầy (Thứ Ba) *Tatiyapuññābhisandasutta*
 
 "Này các *Tỷ kheo*, có bốn loại *công đức tràn đầy*, thiện lành tràn đầy nuôi dưỡng hạnh phúc. Bốn loại đó là gì? Đó là khi một *thánh đệ tử* có *niềm tin bất động* vào Đức Phật... giáo pháp... Tăng đoàn...
 
 Hơn nữa, một *thánh đệ tử* có trí tuệ. Vị ấy có trí tuệ về sự sinh và diệt, là trí tuệ cao quý, thâm nhập, và dẫn đến sự chấm dứt hoàn toàn khổ đau. Đây là loại *công đức tràn đầy* thứ tư, thiện lành tràn đầy nuôi dưỡng hạnh phúc. Đây là bốn loại *công đức tràn đầy*, thiện lành tràn đầy nuôi dưỡng hạnh phúc."
 
 <!--pg-->
-### N 55.34 Dấu Chân Của Chư Thiên (Thứ Nhất) *Paṭhamadevapadasutta*
+### SN 55.34 Dấu Chân Của Chư Thiên (Thứ Nhất) *Paṭhamadevapadasutta*
 
 Tại Sāvatthī.
 
@@ -643,7 +643,7 @@ Hơn nữa, một *thánh đệ tử* có *niềm tin bất động* vào giáo 
 Hơn nữa, *giới đức* của một *thánh đệ tử* được các bậc thánh yêu mến, không bị phá vỡ, không tì vết, không vết nhơ, và không bị hoen ố, có tính giải thoát, được người trí ca ngợi, không sai lầm, và dẫn đến *Định*. Đây là dấu chân thứ tư của chư thiên để thanh lọc những chúng sanh chưa thanh tịnh và làm trong sạch những chúng sanh chưa trong sạch. Bốn dấu chân của chư thiên này là để thanh lọc những chúng sanh chưa thanh tịnh và làm trong sạch những chúng sanh chưa trong sạch."
 
 <!--pg-->
-### N 55.35 Dấu Chân Của Chư Thiên (Thứ Hai) *Dutiyadevapadasutta*
+### SN 55.35 Dấu Chân Của Chư Thiên (Thứ Hai) *Dutiyadevapadasutta*
 
 "Này các *Tỷ kheo*, bốn dấu chân của chư thiên này là để thanh lọc những chúng sanh chưa thanh tịnh và làm trong sạch những chúng sanh chưa trong sạch.
 
@@ -654,14 +654,14 @@ Hơn nữa, một *thánh đệ tử* có *niềm tin bất động* vào giáo 
 Hơn nữa, *giới đức* của một *thánh đệ tử* được các bậc thánh yêu mến, không bị phá vỡ, không tì vết, không vết nhơ, và không bị hoen ố, có tính giải thoát, được người trí ca ngợi, không sai lầm, và dẫn đến *Định*. Sau đó, vị ấy suy ngẫm: 'Vậy dấu chân của chư thiên là gì?' Vị ấy hiểu: 'Tôi nghe rằng ngày nay chư thiên xem việc không làm hại là tối thượng. Nhưng tôi không làm hại bất kỳ sinh vật nào, dù mạnh hay yếu. Tôi chắc chắn sống với một dấu chân của chư thiên.' Đây là dấu chân thứ tư của chư thiên để thanh lọc những chúng sanh chưa thanh tịnh và làm trong sạch những chúng sanh chưa trong sạch. Bốn dấu chân của chư thiên này là để thanh lọc những chúng sanh chưa thanh tịnh và làm trong sạch những chúng sanh chưa trong sạch."
 
 <!--pg-->
-### N 55.36 Chung Với Chư Thiên *Devasabhāgatasutta*
+### SN 55.36 Chung Với Chư Thiên *Devasabhāgatasutta*
 
 "Này các *Tỷ kheo*, khi một người có bốn điều, chư thiên sẽ hài lòng và nói về những gì họ có chung. Bốn điều đó là gì? Thứ nhất, một *thánh đệ tử* có *niềm tin bất động* vào Đức Phật... Có những vị trời có *niềm tin bất động* vào Đức Phật đã qua đời từ đây và được tái sanh ở đó. Họ nghĩ: 'Có *niềm tin bất động* vào Đức Phật như vậy, chúng ta đã qua đời từ đó và được tái sanh ở đây. *Thánh đệ tử* đó có cùng loại *niềm tin bất động* vào Đức Phật, vì vậy họ sẽ đến với sự hiện diện của chư thiên.'
 
 Hơn nữa, một *thánh đệ tử* có *niềm tin bất động* vào giáo pháp... Tăng đoàn... Và vị ấy có *giới đức* được các bậc thánh yêu mến... dẫn đến *Định*. Có những vị trời có *giới đức* được các bậc thánh yêu mến đã qua đời từ đây và được tái sanh ở đó. Họ nghĩ: 'Có *giới đức* được các bậc thánh yêu mến như vậy, chúng ta đã qua đời từ đó và được tái sanh ở đây. *Thánh đệ tử* đó có cùng loại *giới đức* được các bậc thánh yêu mến, vì vậy họ sẽ đến với sự hiện diện của chư thiên.' Khi một người có bốn điều, chư thiên sẽ hài lòng và nói về những gì họ có chung."
 
 <!--pg-->
-### N 55.37 Cùng Với Mahānāma *Mahānāmasutta*
+### SN 55.37 Cùng Với Mahānāma *Mahānāmasutta*
 
 Một thời, Đức Phật đang ở trong xứ của người Thích Ca, gần Kapilavatthu trong Tu viện Cây Đa. Sau đó, Mahānāma người Thích Ca đến gặp Đức Phật, cúi lạy, ngồi xuống một bên, và thưa với Ngài:
 
@@ -686,12 +686,12 @@ Một thời, Đức Phật đang ở trong xứ của người Thích Ca, gần
 "Đó là khi một cư sĩ tại gia có trí tuệ. Họ có trí tuệ về sự sinh và diệt, là trí tuệ cao quý, thâm nhập, và dẫn đến sự chấm dứt hoàn toàn khổ đau. Khi đó, họ được xem là một cư sĩ tại gia có trí tuệ."
 
 <!--pg-->
-### N 55.38 Mưa *Vassasutta*
+### SN 55.38 Mưa *Vassasutta*
 
 "Này các *Tỷ kheo*, giả sử trời mưa lớn trên đỉnh núi, và nước chảy xuống đồi để lấp đầy các hốc, khe, và suối nhỏ. Khi chúng đầy, chúng lấp đầy các ao. Các ao lấp đầy các hồ, các hồ lấp đầy các dòng suối, và các dòng suối lấp đầy các con sông. Và khi các con sông đầy, chúng lấp đầy đại dương. Tương tự như vậy, một *thánh đệ tử* có *niềm tin bất động* vào Đức Phật, giáo pháp, và Tăng đoàn, và có *giới đức* được các bậc thánh yêu mến. Những điều này chảy về phía trước; và, sau khi vượt qua bờ bên kia, chúng dẫn đến sự chấm dứt các *ô nhiễm*."
 
 <!--pg-->
-### N 55.39 Cùng Với Kāḷigodhā *Kāḷigodhasutta*
+### SN 55.39 Cùng Với Kāḷigodhā *Kāḷigodhasutta*
 
 Một thời, Đức Phật đang ở trong xứ của người Thích Ca, gần Kapilavatthu trong Tu viện Cây Đa. Sau đó, Đức Phật mặc y vào buổi sáng, mang bát và y, đến nhà của bà Kāḷigodhā người Thích Ca, nơi Ngài ngồi trên chỗ đã được trải sẵn. Sau đó, Kāḷigodhā đến gặp Đức Phật, cúi lạy, và ngồi xuống một bên. Đức Phật nói với bà:
 
@@ -702,7 +702,7 @@ Một thời, Đức Phật đang ở trong xứ của người Thích Ca, gần
 "Bà thật may mắn, Godhā, thật vô cùng may mắn, Bà đã tuyên bố quả vị của sự nhập lưu."
 
 <!--pg-->
-### N 55.40 Nandiya Người Thích Ca *Nandiyasakkasutta*
+### SN 55.40 Nandiya Người Thích Ca *Nandiyasakkasutta*
 
 Một thời, Đức Phật đang ở trong xứ của người Thích Ca, gần Kapilavatthu trong Tu viện Cây Đa. Sau đó, Nandiya người Thích Ca đến gặp Đức Phật, cúi lạy, ngồi xuống một bên, và thưa với Ngài:
 
@@ -723,7 +723,7 @@ Hơn nữa, một *thánh đệ tử* có *niềm tin bất động* vào giáo 
 <!--pg-->
 ## Phẩm Công Đức Tràn Đầy, Có Kệ
 
-### N 55.41 Công Đức Tràn Đầy (Thứ Nhất) *Paṭhamaabhisandasutta*
+### SN 55.41 Công Đức Tràn Đầy (Thứ Nhất) *Paṭhamaabhisandasutta*
 
 "Này các *Tỷ kheo*, có bốn loại *công đức tràn đầy*, thiện lành tràn đầy nuôi dưỡng hạnh phúc. Bốn loại đó là gì? Đó là khi một *thánh đệ tử* có *niềm tin bất động* vào Đức Phật... giáo pháp... Tăng đoàn...
 
@@ -748,7 +748,7 @@ Tương tự như vậy, khi một *thánh đệ tử* có bốn loại *công �
 > Như sông mang nước về biển."
 
 <!--pg-->
-### N 55.42 Công Đức Tràn Đầy (Thứ Hai) *Dutiyaabhisandasutta*
+### SN 55.42 Công Đức Tràn Đầy (Thứ Hai) *Dutiyaabhisandasutta*
 
 "Này các *Tỷ kheo*, có bốn loại *công đức tràn đầy*, thiện lành tràn đầy nuôi dưỡng hạnh phúc. Bốn loại đó là gì? Đó là khi một *thánh đệ tử* có *niềm tin bất động* vào Đức Phật... giáo pháp... Tăng đoàn...
 
@@ -773,7 +773,7 @@ Tương tự như vậy, khi một *thánh đệ tử* có bốn loại *công �
 > Như sông mang nước về biển."
 
 <!--pg-->
-### N 55.43 Công Đức Tràn Đầy (Thứ Ba) *Tatiyaabhisandasutta*
+### SN 55.43 Công Đức Tràn Đầy (Thứ Ba) *Tatiyaabhisandasutta*
 
 "Này các *Tỷ kheo*, có bốn loại *công đức tràn đầy*, thiện lành tràn đầy nuôi dưỡng hạnh phúc. Bốn loại đó là gì? Đó là khi một *thánh đệ tử* có *niềm tin bất động* vào Đức Phật... giáo pháp... Tăng đoàn...
 
@@ -791,28 +791,28 @@ Khi một *thánh đệ tử* có bốn loại *công đức tràn đầy* và t
 > － của Thần Chết."
 
 <!--pg-->
-### N 55.44 Giàu Có (Thứ Nhất) *Paṭhamamahaddhanasutta*
+### SN 55.44 Giàu Có (Thứ Nhất) *Paṭhamamahaddhanasutta*
 
 "Này các *Tỷ kheo*, một *thánh đệ tử* có bốn điều được cho là giàu có, sung túc, và thịnh vượng.
 
 Bốn điều đó là gì? Đó là khi một *thánh đệ tử* có *niềm tin bất động* vào Đức Phật... giáo pháp... Tăng đoàn... Và vị ấy có *giới đức* được các bậc thánh yêu mến... dẫn đến *Định*. Một *thánh đệ tử* có bốn điều này được cho là giàu có, sung túc, và thịnh vượng."
 
 <!--pg-->
-### N 55.45 Giàu Có (Thứ Hai) *Dutiyamahaddhanasutta*
+### SN 55.45 Giàu Có (Thứ Hai) *Dutiyamahaddhanasutta*
 
 "Này các *Tỷ kheo*, một *thánh đệ tử* có bốn điều được cho là giàu có, sung túc, thịnh vượng, và nổi tiếng.
 
 Bốn điều đó là gì? Đó là khi một *thánh đệ tử* có *niềm tin bất động* vào Đức Phật... giáo pháp... Tăng đoàn... Và vị ấy có *giới đức* được các bậc thánh yêu mến... dẫn đến *Định*. Một *thánh đệ tử* có bốn điều này được cho là giàu có, sung túc, thịnh vượng, và nổi tiếng."
 
 <!--pg-->
-### N 55.46 Bản Giản Lược *Suddhakasutta*
+### SN 55.46 Bản Giản Lược *Suddhakasutta*
 
 "Này các *Tỷ kheo*, một *thánh đệ tử* có bốn điều là một *người nhập lưu*, không còn bị tái sanh vào đọa xứ, chắc chắn sẽ *giác ngộ*.
 
 Bốn điều đó là gì? Đó là khi một *thánh đệ tử* có *niềm tin bất động* vào Đức Phật... giáo pháp... Tăng đoàn... Và vị ấy có *giới đức* được các bậc thánh yêu mến... dẫn đến *Định*. Một *thánh đệ tử* có bốn điều này là một *người nhập lưu*, không còn bị tái sanh vào đọa xứ, chắc chắn sẽ *giác ngộ*."
 
 <!--pg-->
-### N 55.47 Cùng Với Nandiya *Nandiyasutta*
+### SN 55.47 Cùng Với Nandiya *Nandiyasutta*
 
 Tại Kapilavatthu. Ngồi xuống một bên, Đức Phật nói với Nandiya người Thích Ca:
 
@@ -821,28 +821,28 @@ Tại Kapilavatthu. Ngồi xuống một bên, Đức Phật nói với Nandiya 
 Bốn điều đó là gì? Đó là khi một *thánh đệ tử* có *niềm tin bất động* vào Đức Phật... giáo pháp... Tăng đoàn... Và vị ấy có *giới đức* được các bậc thánh yêu mến... dẫn đến *Định*. Một *thánh đệ tử* có bốn điều này là một *người nhập lưu*, không còn bị tái sanh vào đọa xứ, chắc chắn sẽ *giác ngộ*."
 
 <!--pg-->
-### N 55.48 Cùng Với Bhaddiya *Bhaddiyasutta*
+### SN 55.48 Cùng Với Bhaddiya *Bhaddiyasutta*
 
 Tại Kapilavatthu. Ngồi xuống một bên, Đức Phật nói với Bhaddiya người Thích Ca:
 
 "Bhaddiya, một *thánh đệ tử* có bốn điều là một *người nhập lưu*..."
 
 <!--pg-->
-### N 55.49 Cùng Với Mahānāma *Mahānāmasutta*
+### SN 55.49 Cùng Với Mahānāma *Mahānāmasutta*
 
 Tại Kapilavatthu. Ngồi xuống một bên, Đức Phật nói với Mahānāma người Thích Ca:
 
 "Mahānāma, một *thánh đệ tử* có bốn điều là một *người nhập lưu*..."
 
 <!--pg-->
-### N 55.50 Các Yếu Tố *Aṅgasutta*
+### SN 55.50 Các Yếu Tố *Aṅgasutta*
 
 "Này các *Tỷ kheo*, có bốn yếu tố của sự nhập lưu này. Bốn yếu tố đó là gì? Kết giao với người chân chính, lắng nghe Chánh pháp, *suy ngẫm tận đến gốc rễ*, và thực hành đúng theo pháp. Đây là bốn yếu tố của sự nhập lưu."
 
 <!--pg-->
 ## Phẩm Người Trí
 
-### N 55.51 Có Kệ *Sagāthakasutta*
+### SN 55.51 Có Kệ *Sagāthakasutta*
 
 "Này các *Tỷ kheo*, một *thánh đệ tử* có bốn điều là một *người nhập lưu*, không còn bị tái sanh vào đọa xứ, chắc chắn sẽ *giác ngộ*.
 
@@ -866,7 +866,7 @@ Bốn điều đó là gì? Đó là khi một *thánh đệ tử* có *niềm t
 > Ghi nhớ lời dạy của các vị Phật."
 
 <!--pg-->
-### N 55.52 Người Đã Hoàn Thành Mùa Mưa *Vassaṁvutthasutta*
+### SN 55.52 Người Đã Hoàn Thành Mùa Mưa *Vassaṁvutthasutta*
 
 Một thời, Đức Phật đang ở gần Sāvatthī trong Vườn Jeta, tu viện của Anāthapiṇḍika. Lúc bấy giờ, một *Tỷ kheo* nào đó đã hoàn thành mùa an cư mưa ở Sāvatthī đã đến Kapilavatthu vì một số công việc. Những người Thích Ca ở Kapilavatthu nghe được tin này.
 
@@ -891,7 +891,7 @@ Ngoài ra, tôi đã nghe và học được điều này trước sự hiện d
 Ngoài ra, tôi đã nghe và học được điều này trước sự hiện diện của Đức Phật: 'Có ít *Tỷ kheo* hơn, với sự chấm dứt của ba *xiềng xích*, và sự suy yếu của tham, sân, và si, là những *nhất lai*, những người trở lại thế giới này chỉ một lần nữa, rồi chấm dứt khổ đau. Có nhiều *Tỷ kheo* hơn, với sự chấm dứt của ba *xiềng xích* là những *người nhập lưu*, không còn bị tái sanh vào đọa xứ, chắc chắn sẽ *giác ngộ*.'"
 
 <!--pg-->
-### N 55.53 Cùng Với Dhammadinna *Dhammadinnasutta*
+### SN 55.53 Cùng Với Dhammadinna *Dhammadinnasutta*
 
 Một thời, Đức Phật đang ở gần Varanasi, trong vườn Lộc Uyển tại Isipatana. Sau đó, cư sĩ tại gia Dhammadinna, cùng với năm trăm cư sĩ tại gia, đến gặp Đức Phật, cúi lạy, ngồi xuống một bên, và thưa với Ngài:
 
@@ -908,7 +908,7 @@ Một thời, Đức Phật đang ở gần Varanasi, trong vườn Lộc Uyển
 "Các con thật may mắn, Dhammadinna, thật vô cùng may mắn! Tất cả các con đã tuyên bố quả vị của sự nhập lưu."
 
 <!--pg-->
-### N 55.54 Bệnh *Gilānasutta*
+### SN 55.54 Bệnh *Gilānasutta*
 
 Một thời, Đức Phật đang ở trong xứ của người Thích Ca, gần Kapilavatthu trong Tu viện Cây Đa.
 
@@ -931,103 +931,103 @@ Bạn tốt ơi, các vị trời ở cõi Dạ Ma... các vị trời ở cõi 
 Nếu người kia trả lời, 'Tôi đã làm vậy,' thì không có sự khác biệt giữa một cư sĩ tại gia có *tâm* được giải thoát theo cách này và một *Tỷ kheo* có *tâm* được giải thoát khỏi các *ô nhiễm*; nghĩa là, giữa sự giải thoát của người này và người kia."
 
 <!--pg-->
-### N 55.55 Quả Vị Nhập Lưu *Sotāpattiphalasutta*
+### SN 55.55 Quả Vị Nhập Lưu *Sotāpattiphalasutta*
 
 "Này các *Tỷ kheo*, khi bốn điều được phát triển và tu tập, chúng sẽ dẫn đến sự chứng ngộ quả vị nhập lưu. Bốn điều đó là gì? Kết giao với người chân chính, lắng nghe Chánh pháp, *suy ngẫm tận đến gốc rễ*, và thực hành đúng theo pháp. Khi bốn điều này được phát triển và tu tập, chúng sẽ dẫn đến sự chứng ngộ quả vị nhập lưu."
 
 <!--pg-->
-### N 55.56 Quả Vị Nhất Lai *Sakadāgāmiphalasutta*
+### SN 55.56 Quả Vị Nhất Lai *Sakadāgāmiphalasutta*
 
 "Này các *Tỷ kheo*, khi bốn điều được phát triển và tu tập, chúng sẽ dẫn đến sự chứng ngộ quả vị nhất lai. ..."
 
 <!--pg-->
-### N 55.57 Quả Vị Bất Lai *Anāgāmiphalasutta*
+### SN 55.57 Quả Vị Bất Lai *Anāgāmiphalasutta*
 
 "Này các *Tỷ kheo*, khi bốn điều được phát triển và tu tập, chúng sẽ dẫn đến sự chứng ngộ quả vị bất lai. ..."
 
 <!--pg-->
-### N 55.58 Quả Vị A-la-hán *Arahattaphalasutta*
+### SN 55.58 Quả Vị A-la-hán *Arahattaphalasutta*
 
 "Này các *Tỷ kheo*, khi bốn điều được phát triển và tu tập, chúng sẽ dẫn đến sự chứng ngộ quả vị A-la-hán. ..."
 
 <!--pg-->
-### N 55.59 Sự Đạt Được Trí Tuệ *Paññāpaṭilābhasutta*
+### SN 55.59 Sự Đạt Được Trí Tuệ *Paññāpaṭilābhasutta*
 
 "Này các *Tỷ kheo*, khi bốn điều được phát triển và tu tập, chúng sẽ dẫn đến sự đạt được trí tuệ. ..."
 
 <!--pg-->
-### N 55.60 Sự Tăng Trưởng Của Trí Tuệ *Paññāvuddhisutta*
+### SN 55.60 Sự Tăng Trưởng Của Trí Tuệ *Paññāvuddhisutta*
 
 "Này các *Tỷ kheo*, khi bốn điều được phát triển và tu tập, chúng sẽ dẫn đến sự tăng trưởng của trí tuệ. ..."
 
 <!--pg-->
-### N 55.61 Sự Gia Tăng Của Trí Tuệ *Paññāvepullasutta*
+### SN 55.61 Sự Gia Tăng Của Trí Tuệ *Paññāvepullasutta*
 
 "Này các *Tỷ kheo*, khi bốn điều được phát triển và tu tập, chúng sẽ dẫn đến sự gia tăng của trí tuệ. ..."
 
 <!--pg-->
 ## Phẩm Trí Tuệ Vĩ Đại
 
-### N 55.62 Trí Tuệ Vĩ Đại *Mahāpaññāsutta*
+### SN 55.62 Trí Tuệ Vĩ Đại *Mahāpaññāsutta*
 
 "Này các *Tỷ kheo*, khi bốn điều được phát triển và tu tập, chúng sẽ dẫn đến trí tuệ vĩ đại. Bốn điều đó là gì? Kết giao với người chân chính, lắng nghe Chánh pháp, *suy ngẫm tận đến gốc rễ*, và thực hành đúng theo pháp. Khi bốn điều này được phát triển và tu tập, chúng sẽ dẫn đến trí tuệ vĩ đại."
 
 <!--pg-->
-### N 55.63 Trí Tuệ Rộng Lớn *Puthupaññāsutta*
+### SN 55.63 Trí Tuệ Rộng Lớn *Puthupaññāsutta*
 
 "Này các *Tỷ kheo*, khi bốn điều được phát triển và tu tập, chúng sẽ dẫn đến trí tuệ rộng lớn..."
 
 <!--pg-->
-### N 55.64 Trí Tuệ Phong Phú *Vipulapaññāsutta*
+### SN 55.64 Trí Tuệ Phong Phú *Vipulapaññāsutta*
 
 "Này các *Tỷ kheo*, khi bốn điều được phát triển và tu tập, chúng sẽ dẫn đến trí tuệ phong phú..."
 
 <!--pg-->
-### N 55.65 Trí Tuệ Sâu Sắc *Gambhīrapaññāsutta*
+### SN 55.65 Trí Tuệ Sâu Sắc *Gambhīrapaññāsutta*
 
 "Này các *Tỷ kheo*, khi bốn điều được phát triển và tu tập, chúng sẽ dẫn đến trí tuệ sâu sắc..."
 
 <!--pg-->
-### N 55.66 Trí Tuệ Phi Thường *Appamattapaññāsutta*
+### SN 55.66 Trí Tuệ Phi Thường *Appamattapaññāsutta*
 
 "Này các *Tỷ kheo*, khi bốn điều được phát triển và tu tập, chúng sẽ dẫn đến trí tuệ phi thường..."
 
 <!--pg-->
-### N 55.67 Trí Tuệ Bao La *Bhūripaññāsutta*
+### SN 55.67 Trí Tuệ Bao La *Bhūripaññāsutta*
 
 "Này các *Tỷ kheo*, khi bốn điều được phát triển và tu tập, chúng sẽ dẫn đến trí tuệ bao la..."
 
 <!--pg-->
-### N 55.68 Trí Tuệ Dồi Dào *Paññābāhullasutta*
+### SN 55.68 Trí Tuệ Dồi Dào *Paññābāhullasutta*
 
 "Này các *Tỷ kheo*, khi bốn điều được phát triển và tu tập, chúng sẽ dẫn đến trí tuệ dồi dào..."
 
 <!--pg-->
-### N 55.69 Trí Tuệ Nhanh Chóng *Sīghapaññāsutta*
+### SN 55.69 Trí Tuệ Nhanh Chóng *Sīghapaññāsutta*
 
 "Này các *Tỷ kheo*, khi bốn điều được phát triển và tu tập, chúng sẽ dẫn đến trí tuệ nhanh chóng..."
 
 <!--pg-->
-### N 55.70 Trí Tuệ Nhẹ Nhàng *Lahupaññāsutta*
+### SN 55.70 Trí Tuệ Nhẹ Nhàng *Lahupaññāsutta*
 
 "Này các *Tỷ kheo*, khi bốn điều được phát triển và tu tập, chúng sẽ dẫn đến trí tuệ nhẹ nhàng..."
 
 <!--pg-->
-### N 55.71 Trí Tuệ Hoan Hỷ *Hāsapaññāsutta*
+### SN 55.71 Trí Tuệ Hoan Hỷ *Hāsapaññāsutta*
 
 "Này các *Tỷ kheo*, khi bốn điều được phát triển và tu tập, chúng sẽ dẫn đến *trí tuệ hoan hỷ*..."
 
 <!--pg-->
-### N 55.72 Trí Tuệ Nhanh Nhạy *Javanapaññāsutta*
+### SN 55.72 Trí Tuệ Nhanh Nhạy *Javanapaññāsutta*
 
 "Này các *Tỷ kheo*, khi bốn điều được phát triển và tu tập, chúng sẽ dẫn đến *trí tuệ nhanh nhạy*..."
 
 <!--pg-->
-### N 55.73 Trí Tuệ Sắc Bén *Tikkhapaññāsutta*
+### SN 55.73 Trí Tuệ Sắc Bén *Tikkhapaññāsutta*
 
 "Này các *Tỷ kheo*, khi bốn điều được phát triển và tu tập, chúng sẽ dẫn đến trí tuệ sắc bén..."
 
 <!--pg-->
-### N 55.74 Trí Tuệ Thâm Nhập *Nibbedhikapaññāsutta*
+### SN 55.74 Trí Tuệ Thâm Nhập *Nibbedhikapaññāsutta*
 
 "Này các *Tỷ kheo*, khi bốn điều được phát triển và tu tập, chúng sẽ dẫn đến trí tuệ thâm nhập. Bốn điều đó là gì? Kết giao với người chân chính, lắng nghe Chánh pháp, *suy ngẫm tận đến gốc rễ*, và thực hành đúng theo pháp. Khi bốn điều này được phát triển và tu tập, chúng sẽ dẫn đến trí tuệ thâm nhập."

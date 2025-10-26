@@ -3,7 +3,7 @@
 <!--pg-->
 ## Chương về Citta
 
-### N 41.1 Kinh Xiềng Xích *Saṁyojanasutta*
+### SN 41.1 Kinh Xiềng Xích *Saṁyojanasutta*
 
 Một thời, một số Tỷ kheo trưởng lão đang ở gần
 Macchikāsaṇḍa trong Rừng Xoài Dại. Lúc bấy giờ, sau bữa ăn, khi đã đi khất thực về, một số Tỷ kheo trưởng lão ngồi
@@ -56,7 +56,7 @@ sự ham muốn và tham lam phát sinh từ cặp đôi đó."
 "Ông thật may mắn, gia chủ, thật vô cùng may mắn, khi có thể thâm nhập vào những giáo lý sâu sắc của Đức Phật bằng con mắt trí tuệ."
 
 <!--pg-->
-### N 41.2 Isidatta (Thứ nhất) *Paṭhamaisidattasutta*
+### SN 41.2 Isidatta (Thứ nhất) *Paṭhamaisidattasutta*
 
 Một thời, một số Tỷ kheo trưởng lão đang ở gần
 Macchikāsaṇḍa trong Rừng Xoài Dại.
@@ -111,7 +111,7 @@ tốt khi thầy đã cảm thấy được thôi thúc để trả lời câu h
 Vậy nên khi có một câu hỏi tương tự, thầy cũng nên trả lời như thầy cảm thấy được thôi thúc."
 
 <!--pg-->
-### N 41.3 Với Isidatta (Thứ hai) *Dutiyaisidattasutta*
+### SN 41.3 Với Isidatta (Thứ hai) *Dutiyaisidattasutta*
 
 Một thời, một số Tỷ kheo trưởng lão đang ở gần
 Macchikāsaṇḍa trong Rừng Xoài Dại.
@@ -234,7 +234,7 @@ Nhưng Isidatta đã thu dọn chỗ ở của mình, mang bát và y, rời
 khỏi Macchikāsaṇḍa, và không bao giờ trở lại.
 
 <!--pg-->
-### N 41.4 Mahaka *Mahakapāṭihāriyasutta*
+### SN 41.4 Mahaka *Mahakapāṭihāriyasutta*
 
 Một thời, một số Tỷ kheo trưởng lão đang ở gần
 Macchikāsaṇḍa trong Rừng Xoài Dại.
@@ -295,7 +295,7 @@ Nhưng Mahaka đã thu dọn chỗ ở của mình, mang bát và y, rời
 khỏi Macchikāsaṇḍa, và không bao giờ trở lại.
 
 <!--pg-->
-### N 41.5 Với Kāmabhū (Thứ nhất) *Paṭhamakāmabhūsutta*
+### SN 41.5 Với Kāmabhū (Thứ nhất) *Paṭhamakāmabhūsutta*
 
 Một thời, Tôn giả Kāmabhū đang ở gần
 Macchikāsaṇḍa trong Rừng Xoài Dại.
@@ -354,7 +354,7 @@ Vậy, thưa ngài, đó là cách con hiểu ý nghĩa chi tiết của những
 "Ông thật may mắn, gia chủ, thật vô cùng may mắn, khi có thể thâm nhập vào những giáo lý sâu sắc của Đức Phật bằng con mắt trí tuệ."
 
 <!--pg-->
-### N 41.6 Với Kāmabhū (Thứ hai) *Dutiyakāmabhūsutta*
+### SN 41.6 Với Kāmabhū (Thứ hai) *Dutiyakāmabhūsutta*
 
 Một thời, Tôn giả Kāmabhū đang ở gần
 Macchikāsaṇḍa trong Rừng Xoài Dại. Khi ấy, gia chủ
@@ -460,7 +460,7 @@ nhận thức và cảm giác?"
 việc đạt được sự chấm dứt của nhận thức và cảm giác là: sự tĩnh lặng và sự sáng suốt (chỉ và quán)."
 
 <!--pg-->
-### N 41.7 Với Godatta *Godattasutta*
+### SN 41.7 Với Godatta *Godattasutta*
 
 Một thời, Tôn giả Godatta đang ở gần
 Macchikāsaṇḍa trong Rừng Xoài Dại. Khi ấy, gia chủ Citta
@@ -538,7 +538,7 @@ cách diễn đạt."
 "Ông thật may mắn, gia chủ, thật vô cùng may mắn, khi có thể thâm nhập vào những giáo lý sâu sắc của Đức Phật bằng con mắt trí tuệ."
 
 <!--pg-->
-### N 41.8 Vị Tu Sĩ Lõa Thể Thuộc Dòng Dõi Ñātika *Nigaṇṭhanāṭaputtasutta*
+### SN 41.8 Vị Tu Sĩ Lõa Thể Thuộc Dòng Dõi Ñātika *Nigaṇṭhanāṭaputtasutta*
 
 Lúc bấy giờ, vị tu sĩ lõa thể thuộc dòng dõi Ñātika đã
 đến Macchikāsaṇḍa cùng với một hội chúng đông đảo các
@@ -601,7 +601,7 @@ Sau đó, Citta đứng dậy khỏi chỗ ngồi và rời đi mà không hỏi
 lõa thể Ñātika mười câu hỏi hợp pháp này.
 
 <!--pg-->
-### N 41.9 Với Kassapa, Vị Tu Sĩ Lõa Thể *Acelakassapasutta*
+### SN 41.9 Với Kassapa, Vị Tu Sĩ Lõa Thể *Acelakassapasutta*
 
 Lúc bấy giờ, vị tu sĩ lõa thể Kassapa, một người bạn cũ của Citta
 thời còn tại gia, đã đến Macchikāsaṇḍa.
@@ -641,7 +641,7 @@ Và vị tu sĩ lõa thể Kassapa đã được xuất gia, được thọ gi�
 Ngài hiểu: "Sanh đã tận; đời sống phạm hạnh đã hoàn thành; những gì cần làm đã được làm; không còn gì nữa cho nơi này." Và Tôn giả Kassapa đã trở thành một trong những bậc A-la-hán.
 
 <!--pg-->
-### N 41.10 Thăm Bệnh *Gilānadassanasutta*
+### SN 41.10 Thăm Bệnh *Gilānadassanasutta*
 
 Lúc bấy giờ, gia chủ Citta đang bị bệnh, đau đớn, bệnh nặng.
 

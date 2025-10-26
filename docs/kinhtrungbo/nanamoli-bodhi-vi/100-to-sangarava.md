@@ -1,4 +1,4 @@
-# 100. Gửi Sangārava
+# MN 100. Gửi Sangārava
 ***(Kinh Sangārava)***
 
 1\.  Tôi nghe như vầy. Một thời Đức Thế Tôn đang du hành trong xứ Kosala cùng với đại chúng tỳ kheo (bhikkhus - Tăng đoàn gồm các vị sư nam đã thọ giới cụ túc) đông đảo.

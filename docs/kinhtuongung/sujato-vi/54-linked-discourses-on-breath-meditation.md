@@ -3,7 +3,7 @@
 <!--pg-->
 ## Chương Một Pháp
 
-### N 54.1 Một Pháp *Kinh Ekadhamma*
+### SN 54.1 Một Pháp *Kinh Ekadhamma*
 
 Tại Sāvatthī.
 
@@ -26,12 +26,12 @@ Vị ấy thực hành như sau: ‘Tôi sẽ thở vào, quan sát sự *ly tha
 *Niệm hơi thở*, khi được phát triển và tu tập theo cách này, sẽ rất có kết quả và lợi ích.”
 
 <!--pg-->
-### N 54.2 Các Yếu Tố Giác Ngộ *Kinh Bojjhaṅga*
+### SN 54.2 Các Yếu Tố Giác Ngộ *Kinh Bojjhaṅga*
 
 “Này các *Tỷ kheo*, khi *niệm hơi thở* được phát triển và tu tập, nó mang lại quả lớn, lợi ích lớn. Và *niệm hơi thở* được phát triển và tu tập như thế nào để mang lại quả lớn, lợi ích lớn? Đó là khi một *Tỷ kheo* phát triển *niệm hơi thở* cùng với các *yếu tố của giác ngộ* (awakening factors / bojjhaṅga / giác chi) là *niệm*, *Phân tích pháp* (Investigation of principles / dhammavicaya / trạch pháp), *Nỗ lực* (Energy / viriya), *phấn khởi*, *thư thái* (tranquility / passaddhi / khinh an / sự nhẹ nhàng thư thái của thân), *Định* (Immersion / samādhi / định / Trạng thái tâm tụ trên một điểm), và *Xả* (Equanimity / upekkhā / xả / Quan sát về cảm giác thích, ghét, trung tính ở trên tâm), vốn dựa trên sự *ly* (seclusion / viveka / sự xa lìa, tách biệt khỏi các phiền não), *ly tham*, và *diệt*, và chín muồi trong sự *buông bỏ*. *Niệm hơi thở*, khi được phát triển và tu tập theo cách này, sẽ rất có kết quả và lợi ích.”
 
 <!--pg-->
-### N 54.3 Bản Giản Lược *Kinh Suddhika*
+### SN 54.3 Bản Giản Lược *Kinh Suddhika*
 
 “Này các *Tỷ kheo*, khi *niệm hơi thở* được phát triển và tu tập, nó mang lại quả lớn, lợi ích lớn. Và *niệm hơi thở* được phát triển và tu tập như thế nào để mang lại quả lớn, lợi ích lớn?
 
@@ -44,7 +44,7 @@ Vị ấy thực hành như sau: ‘Tôi sẽ thở vào, quan sát sự *buông
 *Niệm hơi thở*, khi được phát triển và tu tập theo cách này, sẽ rất có kết quả và lợi ích.”
 
 <!--pg-->
-### N 54.4 Quả (Thứ Nhất) *Kinh Paṭhamaphala*
+### SN 54.4 Quả (Thứ Nhất) *Kinh Paṭhamaphala*
 
 “Này các *Tỷ kheo*, khi *niệm hơi thở* được phát triển và tu tập, nó mang lại quả lớn, lợi ích lớn. Và *niệm hơi thở* được phát triển và tu tập như thế nào để mang lại quả lớn, lợi ích lớn?
 
@@ -57,7 +57,7 @@ Vị ấy thực hành như sau: ‘Tôi sẽ thở vào, quan sát sự *buông
 *Niệm hơi thở*, khi được phát triển và tu tập theo cách này, sẽ rất có kết quả và lợi ích. Khi *niệm hơi thở* được phát triển và tu tập theo cách này, vị ấy có thể mong đợi một trong hai kết quả: *giác ngộ* (enlightenment / bodhi / sự tỉnh thức hoàn toàn) ngay trong đời này, hoặc nếu vẫn còn một chút dư sót, thì sẽ đạt quả *bất lai* (non-return / anāgāmitā / trạng thái không còn quay trở lại cõi dục).”
 
 <!--pg-->
-### N 54.5 Quả (Thứ Hai) *Kinh Dutiyaphala*
+### SN 54.5 Quả (Thứ Hai) *Kinh Dutiyaphala*
 
 “Này các *Tỷ kheo*, khi *niệm hơi thở* được phát triển và tu tập, nó mang lại quả lớn, lợi ích lớn. Và *niệm hơi thở* được phát triển và tu tập như thế nào để mang lại quả lớn, lợi ích lớn?
 
@@ -72,7 +72,7 @@ Vị ấy thực hành như sau: ‘Tôi sẽ thở vào, quan sát sự *buông
 Khi *niệm hơi thở* được phát triển và tu tập theo cách này, vị ấy có thể mong đợi bảy quả và lợi ích. Bảy quả đó là gì? Vị ấy đạt được *giác ngộ* sớm ngay trong đời này. Nếu không, vị ấy đạt được *giác ngộ* vào lúc lâm chung. Nếu không, với sự chấm dứt của *năm xiềng xích thấp* (five lower fetters / pañcorambhāgiyāni saṃyojanāni / *năm hạ phần kiết sử* / năm loại ràng buộc trói buộc chúng sinh vào các cõi thấp hơn: thân kiến, hoài nghi, giới cấm thủ, tham dục, và sân hận), vị ấy sẽ nhập diệt giữa kiếp này và kiếp sau... sẽ nhập diệt khi vừa tái sinh... sẽ nhập diệt không cần nỗ lực nhiều... sẽ nhập diệt với nỗ lực nhiều... sẽ đi ngược dòng, đến *cõi Sắc Cứu Cánh* (Akaniṭṭha realm / Akaniṭṭha-bhūmi / cõi trời cao nhất trong các cõi Sắc giới, nơi các vị Bất Lai sinh về)... Khi *niệm hơi thở* được phát triển và tu tập theo cách này, vị ấy có thể mong đợi bảy quả và lợi ích này.”
 
 <!--pg-->
-### N 54.6 Cùng Ariṭṭha *Kinh Ariṭṭha*
+### SN 54.6 Cùng Ariṭṭha *Kinh Ariṭṭha*
 
 Tại Sāvatthī.
 
@@ -93,7 +93,7 @@ Tại đó, Đức Phật... nói:
 “Và *niệm hơi thở* được hoàn thiện một cách chi tiết như thế nào? Đó là khi một *Tỷ kheo*—đi vào rừng, hay đến gốc cây, hay một ngôi nhà trống—ngồi xuống, vắt chéo chân, giữ thân thẳng, và thiết lập *niệm* trước mặt. Chỉ *niệm*, vị ấy thở vào. *Niệm*, vị ấy thở ra. Thở vào dài, vị ấy biết: ‘Tôi đang thở vào dài.’ Thở ra dài, vị ấy biết: ‘Tôi đang thở ra dài.’ ... Vị ấy thực hành như sau: ‘Tôi sẽ thở vào, quan sát sự *buông bỏ*.’ Vị ấy thực hành như sau: ‘Tôi sẽ thở ra, quan sát sự *buông bỏ*.’ Đây là cách *niệm hơi thở* được hoàn thiện một cách chi tiết.”
 
 <!--pg-->
-### N 54.7 Về Mahākappina *Kinh Mahākappina*
+### SN 54.7 Về Mahākappina *Kinh Mahākappina*
 
 Tại Sāvatthī.
 
@@ -112,7 +112,7 @@ Khi *Định* do *niệm hơi thở* đã được phát triển và tu tập, s
 Đó là cách *Định* do *niệm hơi thở* được phát triển và tu tập để không có sự xáo động hay rung chuyển của thân hay *tâm*.”
 
 <!--pg-->
-### N 54.8 Ví Dụ Ngọn Đèn *Kinh Padīpopama*
+### SN 54.8 Ví Dụ Ngọn Đèn *Kinh Padīpopama*
 
 “Này các *Tỷ kheo*, khi *Định* do *niệm hơi thở* được phát triển và tu tập, nó mang lại quả lớn, lợi ích lớn. Như thế nào?
 
@@ -159,7 +159,7 @@ Nếu họ cảm thấy một *cảm giác* dễ chịu, họ cảm nhận nó m
 Giả sử một ngọn đèn dầu cần có dầu và bấc để cháy. Khi dầu và bấc cạn kiệt, nó sẽ tắt vì không còn nhiên liệu. Tương tự như vậy, cảm nhận sự kết thúc của thân đang đến gần, họ hiểu: ‘Tôi cảm nhận sự kết thúc của thân đang đến gần.’ Cảm nhận sự kết thúc của sự sống đang đến gần, họ hiểu: ‘Tôi cảm nhận sự kết thúc của sự sống đang đến gần.’ Họ hiểu: ‘Khi thân tôi tan rã và sự sống của tôi kết thúc, mọi thứ được cảm nhận, vì tôi không còn vui thích trong đó nữa, sẽ trở nên nguội lạnh ngay tại đây.’”
 
 <!--pg-->
-### N 54.9 Tại Vesālī *Kinh Vesālī*
+### SN 54.9 Tại Vesālī *Kinh Vesālī*
 
 Tôi nghe như vầy. Một thời, Đức Phật đang ở gần Vesālī, tại Đại Lâm, trong ngôi giảng đường có mái nhọn. Lúc bấy giờ, Đức Phật đã nói với các *Tỷ kheo* bằng nhiều cách về pháp *quán bất tịnh* (meditation on ugliness / asubha-bhāvanā / pháp an trú quán sát sự không trong sạch, đáng ghê tởm của cơ thể để đối trị tham ái). Ngài tán thán pháp *quán bất tịnh* và sự phát triển của nó.
 
@@ -194,7 +194,7 @@ Vị ấy thực hành như sau: ‘Tôi sẽ thở vào, quan sát sự *buông
 Đó là cách *Định* do *niệm hơi thở* này được phát triển và tu tập để nó trở nên an bình và cao thượng, một pháp an trú định dễ chịu tuyệt vời. Và nó làm tan biến và lắng dịu các *bất thiện pháp* ngay tại chỗ mỗi khi chúng khởi lên.”
 
 <!--pg-->
-### N 54.10 Cùng Kimbila *Kinh Kimila*
+### SN 54.10 Cùng Kimbila *Kinh Kimila*
 
 Tôi nghe như vầy. Một thời, Đức Phật đang ở gần Kimbilā trong Rừng Bần Nước Ngọt. Sau đó, Đức Phật nói với Tôn giả Kimbila, “Này Kimbila, *Định* do *niệm hơi thở* được phát triển và tu tập như thế nào để nó mang lại quả lớn và lợi ích lớn?”
 
@@ -231,7 +231,7 @@ Tương tự như vậy, khi một *Tỷ kheo* *an trú quan sát thân, cảm g
 <!--pg-->
 ## Chương Hai
 
-### N 54.11 Tại Icchānaṅgala *Kinh Icchānaṅgala*
+### SN 54.11 Tại Icchānaṅgala *Kinh Icchānaṅgala*
 
 Một thời, Đức Phật đang ở trong một khu rừng gần Icchānaṅgala. Tại đó, ngài nói với các *Tỷ kheo*, “Này các *Tỷ kheo*, ta muốn nhập thất trong ba tháng. Không ai được đến gần ta, ngoại trừ người mang thức ăn khất thực.”
 
@@ -256,7 +256,7 @@ Vì nếu có bất cứ điều gì đáng được gọi là ‘pháp an trú 
 Vì nếu có bất cứ điều gì đáng được gọi là ‘pháp an trú cao quý’, hay ‘pháp an trú thiêng liêng’, hay ‘pháp an trú của *bậc chứng ngộ*’, thì đó chính là *Định* do *niệm hơi thở*.”
 
 <!--pg-->
-### N 54.12 Nghi Ngờ *Kinh Kaṅkheyya*
+### SN 54.12 Nghi Ngờ *Kinh Kaṅkheyya*
 
 Một thời, Tôn giả Lomasakaṅgiya đang ở tại xứ của những người Sakya, gần Kapilavatthu trong Tu viện Cây Banyan. Sau đó, Mahānāma người Sakya đến gặp Tôn giả Lomasakaṅgiya, đảnh lễ, ngồi xuống một bên, và nói với ông: “Thưa ngài, pháp an trú của một *hữu học* có giống với pháp an trú của một *bậc chứng ngộ* không? Hay pháp an trú của một *hữu học* khác với pháp an trú của một *bậc chứng ngộ*?”
 
@@ -293,7 +293,7 @@ Vì nếu có bất cứ điều gì đáng được gọi là “pháp an trú 
 Đây là một cách khác để hiểu tại sao pháp an trú của một *hữu học* và một *bậc chứng ngộ* lại khác nhau.”
 
 <!--pg-->
-### N 54.13 Cùng Ānanda (Thứ Nhất) *Kinh Paṭhamaānanda*
+### SN 54.13 Cùng Ānanda (Thứ Nhất) *Kinh Paṭhamaānanda*
 
 Tại Sāvatthī.
 
@@ -342,7 +342,7 @@ Vị ấy quan sát chặt chẽ *tâm* đang *đắm chìm trong định* đó.
 Và bảy *yếu tố của giác ngộ* được phát triển và tu tập như thế nào để hoàn thiện *minh và giải thoát*? Đó là khi một *Tỷ kheo* phát triển các *yếu tố của giác ngộ* là *niệm*, *Phân tích pháp*, *Nỗ lực*, *phấn khởi*, *thư thái*, *Định*, và *Xả*, vốn dựa trên sự *ly*, *ly tham*, và *diệt*, và chín muồi trong sự *buông bỏ*. Đó là cách bảy *yếu tố của giác ngộ* được phát triển và tu tập để hoàn thiện *minh và giải thoát*.”
 
 <!--pg-->
-### N 54.14 Cùng Ānanda (Thứ Hai) *Kinh Dutiyaānanda*
+### SN 54.14 Cùng Ānanda (Thứ Hai) *Kinh Dutiyaānanda*
 
 Sau đó, Tôn giả Ānanda đến gặp Đức Phật, đảnh lễ, và ngồi xuống một bên. Đức Phật nói với ông: “Này Ānanda, có một pháp nào mà khi được phát triển và tu tập, sẽ hoàn thiện bốn pháp; và bốn pháp đó, khi được phát triển và tu tập, sẽ hoàn thiện bảy pháp; và bảy pháp đó, khi được phát triển và tu tập, sẽ hoàn thiện hai pháp không?”
 
@@ -357,7 +357,7 @@ Và *niệm hơi thở* được phát triển và tu tập như thế nào đ�
 Đó là cách bảy *yếu tố của giác ngộ* được phát triển và tu tập để hoàn thiện *minh và giải thoát*.”
 
 <!--pg-->
-### N 54.15 Vài Vị Tỷ Kheo (Thứ Nhất) *Kinh Paṭhamabhikkhu*
+### SN 54.15 Vài Vị Tỷ Kheo (Thứ Nhất) *Kinh Paṭhamabhikkhu*
 
 Sau đó, vài vị *Tỷ kheo* đến gặp Đức Phật, đảnh lễ, ngồi xuống một bên, và nói với ngài:
 
@@ -374,7 +374,7 @@ Và *niệm hơi thở* được phát triển và tu tập như thế nào đ�
 Đó là cách bảy *yếu tố của giác ngộ* được phát triển và tu tập để hoàn thiện *minh và giải thoát*.”
 
 <!--pg-->
-### N 54.16 Vài Vị Tỷ Kheo (Thứ Hai) *Kinh Dutiyabhikkhu*
+### SN 54.16 Vài Vị Tỷ Kheo (Thứ Hai) *Kinh Dutiyabhikkhu*
 
 Sau đó, vài vị *Tỷ kheo* đến gặp Đức Phật, đảnh lễ, và ngồi xuống một bên. Đức Phật nói với họ:
 
@@ -391,22 +391,22 @@ Và *niệm hơi thở* được phát triển và tu tập như thế nào đ�
 Đó là cách bảy *yếu tố của giác ngộ* được phát triển và tu tập để hoàn thiện *minh và giải thoát*.”
 
 <!--pg-->
-### N 54.17 Từ Bỏ Các Xiềng Xích *Kinh Saṁyojanappahāna*
+### SN 54.17 Từ Bỏ Các Xiềng Xích *Kinh Saṁyojanappahāna*
 
 “Này các *Tỷ kheo*, khi *Định* do *niệm hơi thở* được phát triển và tu tập, nó dẫn đến việc từ bỏ các *xiềng xích* (The fetters / saṃyojana / *kiết sử* / cái cùm, xiềng xích, là các ô nhiễm gốc rễ sâu trong tâm)...”
 
 <!--pg-->
-### N 54.18 Nhổ Bỏ Các Chiều Hướng Ngầm *Kinh Anusayasamugghāta*
+### SN 54.18 Nhổ Bỏ Các Chiều Hướng Ngầm *Kinh Anusayasamugghāta*
 
 “Này các *Tỷ kheo*, khi *Định* do *niệm hơi thở* được phát triển và tu tập, nó dẫn đến việc nhổ bỏ tận gốc các khuynh hướng *ngầm hướng về* (underlying tendencies / anusaya / tùy miên / ngủ ngầm, chiều hướng cơ bản)...”
 
 <!--pg-->
-### N 54.19 Hiểu Hoàn Toàn Dòng Thời Gian *Kinh Addhānapariññā*
+### SN 54.19 Hiểu Hoàn Toàn Dòng Thời Gian *Kinh Addhānapariññā*
 
 “Này các *Tỷ kheo*, khi *Định* do *niệm hơi thở* được phát triển và tu tập, nó dẫn đến việc hiểu hoàn toàn dòng thời gian...”
 
 <!--pg-->
-### N 54.20 Chấm Dứt Các Ô Nhiễm *Kinh Āsavakkhaya*
+### SN 54.20 Chấm Dứt Các Ô Nhiễm *Kinh Āsavakkhaya*
 
 “Này các *Tỷ kheo*, khi *Định* do *niệm hơi thở* được phát triển và tu tập, nó dẫn đến sự chấm dứt các *ô nhiễm*. Và *Định* do *niệm hơi thở* được phát triển và tu tập như thế nào để dẫn đến việc từ bỏ các *xiềng xích*, nhổ bỏ tận gốc các khuynh hướng *ngầm hướng về*, hiểu hoàn toàn dòng thời gian, và chấm dứt các *ô nhiễm*?
 

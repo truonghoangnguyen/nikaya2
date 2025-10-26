@@ -3,7 +3,7 @@
 <!--pg-->
 ## The Chapter of Abbreviated Texts on the Ganges
 
-### N 53.1--12 Absorptions, Etc. *Gaṅgāpeyyālavagga*
+### SN 53.1--12 Absorptions, Etc. *Gaṅgāpeyyālavagga*
 
 At Sāvatthī.
 
@@ -57,7 +57,7 @@ slants, slopes, and inclines to extinguishment."
 <!--pg-->
 ## The Chapter on Diligence
 
-### N 53.13--22 Diligence *Appamādavagga*
+### SN 53.13--22 Diligence *Appamādavagga*
 
 **(Tell in full as in the chapter on diligence at SN 45.139--148.)**
 
@@ -69,7 +69,7 @@ slants, slopes, and inclines to extinguishment."
 <!--pg-->
 ## The Chapter on Hard Work
 
-### N 53.23--34 Hard Work *Balakaraṇīyavagga*
+### SN 53.23--34 Hard Work *Balakaraṇīyavagga*
 
 **(Tell in full as in the chapter on hard work at SN 45.149--160.)**
 
@@ -81,7 +81,7 @@ slants, slopes, and inclines to extinguishment."
 <!--pg-->
 ## The Chapter on Searches
 
-### N 53.35--44 Searches *Esanāvagga*
+### SN 53.35--44 Searches *Esanāvagga*
 
 **(Tell in full as in the chapter on searches at SN 45.161--170.)**
 
@@ -93,7 +93,7 @@ slants, slopes, and inclines to extinguishment."
 <!--pg-->
 ## The Chapter on Floods
 
-### N 53.45--54 Floods, etc. *Oghavagga*
+### SN 53.45--54 Floods, etc. *Oghavagga*
 
 "Mendicants, there are five higher fetters. What five? Desire for
 rebirth in the realm of luminous form, desire for rebirth in the

@@ -3,21 +3,21 @@
 <!--pg-->
 ## Chương Một Về Các Bài Kinh Rút Gọn
 
-### N 37.1 Người Nữ *Mātugāmasutta*
+### SN 37.1 Người Nữ *Mātugāmasutta*
 
 "Này các Tỷ kheo, khi một người nữ có năm yếu tố, cô ấy sẽ không được người đàn ông ưa thích. Năm yếu tố đó là gì? Cô ấy không có sắc đẹp, không giàu có, hoặc không có đạo đức; cô ấy lười biếng, và không sinh con. Khi một người nữ có năm yếu tố này, cô ấy sẽ không được một người đàn ông ưa thích.
 
 Khi một người nữ có năm yếu tố, cô ấy sẽ được người đàn ông ưa thích. Năm yếu tố đó là gì? Cô ấy có sắc đẹp, giàu có, và có đạo đức; cô ấy khéo léo và không mệt mỏi, và cô ấy sinh con. Khi một người nữ có năm yếu tố này, cô ấy sẽ được một người đàn ông ưa thích."
 
 <!--pg-->
-### N 37.2 Người Nam *Purisasutta*
+### SN 37.2 Người Nam *Purisasutta*
 
 "Này các Tỷ kheo, khi một người nam có năm yếu tố, anh ta sẽ không được người nữ ưa thích. Năm yếu tố đó là gì? Anh ta không có sắc đẹp, không giàu có, hoặc không có đạo đức; anh ta lười biếng, và không sinh con. Khi một người nam có năm yếu tố này, anh ta sẽ không được một người nữ ưa thích.
 
 Khi một người nam có năm yếu tố, anh ta sẽ được một người nữ ưa thích. Năm yếu tố đó là gì? Anh ta có sắc đẹp, giàu có, và có đạo đức; anh ta khéo léo và không mệt mỏi, và anh ta sinh con. Khi một người nam có năm yếu tố này, anh ta sẽ được một người nữ ưa thích."
 
 <!--pg-->
-### N 37.3 Nỗi Khổ Riêng *Āveṇikadukkhasutta*
+### SN 37.3 Nỗi Khổ Riêng *Āveṇikadukkhasutta*
 
 "Này các Tỷ kheo, có năm loại khổ này đặc thù của người nữ. Chúng chỉ xảy ra với người nữ chứ không phải người nam. Năm loại đó là gì?
 
@@ -34,7 +34,7 @@ Hơn nữa, một người nữ phải phục vụ người đàn ông. Đây l�
 Đây là năm loại khổ đặc thù của người nữ. Chúng chỉ xảy ra với người nữ chứ không phải người nam."
 
 <!--pg-->
-### N 37.4 Ba Phẩm Chất *Tīhidhammehisutta*
+### SN 37.4 Ba Phẩm Chất *Tīhidhammehisutta*
 
 "Này các Tỷ kheo, khi người nữ có ba phẩm chất, sau khi thân hoại mạng chung, họ phần lớn tái sinh vào cõi dữ, ác thú, đọa xứ, địa ngục. Ba phẩm chất đó là gì?
 
@@ -43,7 +43,7 @@ Một người nữ sống tại gia với tâm đầy vết bẩn của sự ke
 Khi người nữ có ba phẩm chất này, sau khi thân hoại mạng chung, họ phần lớn tái sinh vào cõi dữ, ác thú, đọa xứ, địa ngục."
 
 <!--pg-->
-### N 37.5 Hay Cáu Kỉnh *Kodhanasutta*
+### SN 37.5 Hay Cáu Kỉnh *Kodhanasutta*
 
 Bấy giờ, Tôn giả A-nậu-lâu-đà đến gặp Đức Phật, ngồi xuống một bên và thưa với Ngài:
 
@@ -56,121 +56,121 @@ Họ *vô tín* (faithless / không có niềm tin), *vô tàm* (shameless / kh�
 Khi người nữ có năm phẩm chất này, sau khi thân hoại mạng chung, họ tái sinh vào cõi dữ, ác thú, đọa xứ, địa ngục."
 
 <!--pg-->
-### N 37.6 Phẫn Uất *Upanāhīsutta*
+### SN 37.6 Phẫn Uất *Upanāhīsutta*
 
 "... Họ không có niềm tin, không biết xấu hổ, không biết sợ điều ác, hay phẫn uất, và thiếu trí tuệ. ..."
 
 <!--pg-->
-### N 37.7 Ganh Tị *Issukīsutta*
+### SN 37.7 Ganh Tị *Issukīsutta*
 
 "... Họ không có niềm tin, không biết xấu hổ, không biết sợ điều ác, hay ganh tị, và thiếu trí tuệ. ..."
 
 <!--pg-->
-### N 37.8 Keo Kiệt *Maccharīsutta*
+### SN 37.8 Keo Kiệt *Maccharīsutta*
 
 "... Họ không có niềm tin, không biết xấu hổ, không biết sợ điều ác, keo kiệt, và thiếu trí tuệ. ..."
 
 <!--pg-->
-### N 37.9 Ngoại Tình *Aticārīsutta*
+### SN 37.9 Ngoại Tình *Aticārīsutta*
 
 "... Họ không có niềm tin, không biết xấu hổ, không biết sợ điều ác, ngoại tình, và thiếu trí tuệ. ..."
 
 <!--pg-->
-### N 37.10 Vô Đạo Đức *Dussīlasutta*
+### SN 37.10 Vô Đạo Đức *Dussīlasutta*
 
 "... Họ không có niềm tin, không biết xấu hổ, không biết sợ điều ác, vô đạo đức, và thiếu trí tuệ. ..."
 
 <!--pg-->
-### N 37.11 Ít Học *Appassutasutta*
+### SN 37.11 Ít Học *Appassutasutta*
 
 "... Họ không có niềm tin, không biết xấu hổ, không biết sợ điều ác, ít học, và thiếu trí tuệ. ..."
 
 <!--pg-->
-### N 37.12 Lười Biếng *Kusītasutta*
+### SN 37.12 Lười Biếng *Kusītasutta*
 
 "... Họ không có niềm tin, không biết xấu hổ, không biết sợ điều ác, lười biếng, và thiếu trí tuệ. ..."
 
 <!--pg-->
-### N 37.13 Thất Niệm *Muṭṭhassatisutta*
+### SN 37.13 Thất Niệm *Muṭṭhassatisutta*
 
 "... Họ không có niềm tin, không biết xấu hổ, không biết sợ điều ác, *thất niệm* (unmindful / không có sự chú tâm, hay quên), và thiếu trí tuệ. ..."
 
 <!--pg-->
-### N 37.14 Năm Mối Đe Dọa *Pañcaverasutta*
+### SN 37.14 Năm Mối Đe Dọa *Pañcaverasutta*
 
 "Này A-nậu-lâu-đà, khi người nữ có năm phẩm chất, sau khi thân hoại mạng chung, họ tái sinh vào cõi dữ, ác thú, đọa xứ, địa ngục. Năm phẩm chất đó là gì? Họ sát sinh, trộm cắp, tà dâm, nói dối, và dùng các chất say như rượu bia. Khi người nữ có năm phẩm chất này, sau khi thân hoại mạng chung, họ tái sinh vào cõi dữ, ác thú, đọa xứ, địa ngục."
 
 <!--pg-->
 ## Chương Hai Về Các Bài Kinh Rút Gọn
 
-### N 37.15 Không Tức Giận *Akkodhanasutta*
+### SN 37.15 Không Tức Giận *Akkodhanasutta*
 
 Bấy giờ, Tôn giả A-nậu-lâu-đà đến gặp Đức Phật ... và hỏi Ngài: "Thưa Thế Tôn, đôi khi, với thiên nhãn thanh tịnh, siêu phàm của con, con thấy rằng một người nữ—sau khi thân hoại mạng chung—tái sinh vào cõi lành, thiên giới. Người nữ có bao nhiêu phẩm chất để họ tái sinh vào cõi lành, thiên giới?"
 
 "Này A-nậu-lâu-đà, khi người nữ có năm phẩm chất, sau khi thân hoại mạng chung, họ tái sinh vào cõi lành, thiên giới. Năm phẩm chất đó là gì? Họ có niềm tin, biết xấu hổ, biết sợ điều ác, không tức giận, và có trí tuệ. Khi người nữ có năm phẩm chất này, sau khi thân hoại mạng chung, họ tái sinh vào cõi lành, thiên giới."
 
 <!--pg-->
-### N 37.16 Không Phẫn Uất *Anupanāhīsutta*
+### SN 37.16 Không Phẫn Uất *Anupanāhīsutta*
 
 "... Họ có niềm tin, biết xấu hổ, biết sợ điều ác, không phẫn uất, và có trí tuệ. ..."
 
-### N 37.17 Không Ganh Tị *Anissukīsutta*
+### SN 37.17 Không Ganh Tị *Anissukīsutta*
 
 "... Họ có niềm tin, biết xấu hổ, biết sợ điều ác, không ganh tị, và có trí tuệ. ..."
 
-### N 37.18 Không Keo Kiệt *Amaccharīsutta*
+### SN 37.18 Không Keo Kiệt *Amaccharīsutta*
 
 "... Họ có niềm tin, biết xấu hổ, biết sợ điều ác, không keo kiệt, và có trí tuệ. ..."
 
-### N 37.19 Không Ngoại Tình *Anaticārīsutta*
+### SN 37.19 Không Ngoại Tình *Anaticārīsutta*
 
 "... Họ có niềm tin, biết xấu hổ, biết sợ điều ác, không ngoại tình, và có trí tuệ. ..."
 
-### N 37.20 Có Đạo Đức *Susīlasutta*
+### SN 37.20 Có Đạo Đức *Susīlasutta*
 
 "... Họ có niềm tin, biết xấu hổ, biết sợ điều ác, có đạo đức, và có trí tuệ. ..."
 
-### N 37.21 Học Rộng *Bahussutasutta*
+### SN 37.21 Học Rộng *Bahussutasutta*
 
 "... Họ có niềm tin, biết xấu hổ, biết sợ điều ác, học rộng, và có trí tuệ. ..."
 
-### N 37.22 Siêng Năng *Āraddhavīriyasutta*
+### SN 37.22 Siêng Năng *Āraddhavīriyasutta*
 
 "... Họ có niềm tin, biết xấu hổ, biết sợ điều ác, siêng năng, và có trí tuệ. ..."
 
-### N 37.23 Có Chánh Niệm *Upaṭṭhitassatisutta*
+### SN 37.23 Có Chánh Niệm *Upaṭṭhitassatisutta*
 
 "... Họ có niềm tin, biết xấu hổ, biết sợ điều ác, có chánh niệm, và có trí tuệ. ..."
 
 <!--pg-->
-### N 37.24 Năm Giới *Pañcasīlasutta*
+### SN 37.24 Năm Giới *Pañcasīlasutta*
 
 "Này A-nậu-lâu-đà, khi người nữ có năm phẩm chất, sau khi thân hoại mạng chung, họ tái sinh vào cõi lành, thiên giới. Năm phẩm chất đó là gì? Họ không sát sinh, không trộm cắp, không tà dâm, không nói dối, và không dùng các chất say như rượu bia. Khi người nữ có năm phẩm chất này, sau khi thân hoại mạng chung, họ tái sinh vào cõi lành, thiên giới."
 
 <!--pg-->
 ## Chương Về Các Sức Mạnh
 
-### N 37.25 Tự Tin *Visāradasutta*
+### SN 37.25 Tự Tin *Visāradasutta*
 
 "Này các Tỷ kheo, có năm sức mạnh này của người nữ. Năm sức mạnh đó là gì? Sắc đẹp, tài sản, họ hàng, con cái, và *giới đức* (ethical behavior / hành vi đạo đức). Đây là năm sức mạnh của người nữ. Một người nữ sống tại gia với năm phẩm chất này thì sẽ tự tin."
 
 <!--pg-->
-### N 37.26 Chế Ngự *Pasayhasutta*
+### SN 37.26 Chế Ngự *Pasayhasutta*
 
 "Này các Tỷ kheo, có năm sức mạnh này của người nữ. Năm sức mạnh đó là gì? Sắc đẹp, tài sản, họ hàng, con cái, và giới đức. Đây là năm sức mạnh của người nữ. Một người nữ sống tại gia với năm sức mạnh này sẽ chế ngự được chồng mình."
 
 <!--pg-->
-### N 37.27 Đã Chế Ngự *Abhibhuyyasutta*
+### SN 37.27 Đã Chế Ngự *Abhibhuyyasutta*
 
 "Này các Tỷ kheo, có năm sức mạnh này của người nữ. Năm sức mạnh đó là gì? Sắc đẹp, tài sản, họ hàng, con cái, và giới đức. Đây là năm sức mạnh của người nữ. Một người nữ có năm sức mạnh này sống mà chế ngự được chồng mình."
 
 <!--pg-->
-### N 37.28 Một *Ekasutta*
+### SN 37.28 Một *Ekasutta*
 
 "Này các Tỷ kheo, khi một người nam có một sức mạnh, anh ta sẽ chế ngự được người nữ. Sức mạnh đó là gì? Sức mạnh của quyền uy. Bị sức mạnh này chế ngự, các sức mạnh của người nữ về sắc đẹp, tài sản, họ hàng, con cái, và giới đức đều không giúp ích gì được cho cô ấy."
 
 <!--pg-->
-### N 37.29 Về Phương Diện Ấy *Aṅgasutta*
+### SN 37.29 Về Phương Diện Ấy *Aṅgasutta*
 
 "Này các Tỷ kheo, có năm sức mạnh này của người nữ. Năm sức mạnh đó là gì?
 
@@ -187,7 +187,7 @@ Một người nữ có sức mạnh của sắc đẹp, tài sản, họ hàng,
 Đây là năm sức mạnh của người nữ."
 
 <!--pg-->
-### N 37.30 Họ Đuổi Cô Ấy Đi *Nāsentisutta*
+### SN 37.30 Họ Đuổi Cô Ấy Đi *Nāsentisutta*
 
 "Này các Tỷ kheo, có năm sức mạnh này của người nữ. Năm sức mạnh đó là gì?
 
@@ -212,7 +212,7 @@ Nếu một người nữ có sức mạnh của giới đức nhưng không có
 Đây là năm sức mạnh của người nữ."
 
 <!--pg-->
-### N 37.31 Nguyên Nhân *Hetusutta*
+### SN 37.31 Nguyên Nhân *Hetusutta*
 
 "Này các Tỷ kheo, có năm sức mạnh này của người nữ. Năm sức mạnh đó là gì? Sắc đẹp, tài sản, họ hàng, con cái, và giới đức.
 
@@ -221,7 +221,7 @@ Không phải vì sức mạnh của sắc đẹp, tài sản, họ hàng, hay c
 Đây là năm sức mạnh của người nữ."
 
 <!--pg-->
-### N 37.32 Những Điều *Ṭhānasutta*
+### SN 37.32 Những Điều *Ṭhānasutta*
 
 "Này các Tỷ kheo, có năm điều khó đạt được đối với người nữ không tạo phước. Năm điều đó là gì?
 
@@ -252,12 +252,12 @@ Có năm điều dễ đạt được đối với người nữ đã tạo phư
 Đây là năm điều dễ đạt được đối với người nữ đã tạo phước."
 
 <!--pg-->
-### N 37.33 Sống Tự Tin *Pañcasīlavisāradasutta*
+### SN 37.33 Sống Tự Tin *Pañcasīlavisāradasutta*
 
 "Này các Tỷ kheo, một người nữ sống tại gia với năm phẩm chất thì sẽ tự tin. Năm phẩm chất đó là gì? Cô ấy không sát sinh, không trộm cắp, không tà dâm, không nói dối, và không dùng các chất say như rượu bia. Một người nữ sống tại gia với năm phẩm chất này thì sẽ tự tin."
 
 <!--pg-->
-### N 37.34 Tăng Trưởng *Vaḍḍhīsutta*
+### SN 37.34 Tăng Trưởng *Vaḍḍhīsutta*
 
 "Này các Tỷ kheo, một nữ thánh đệ tử tăng trưởng trong năm phương diện thì tăng trưởng một cách cao thượng, nắm bắt được những gì cốt lõi và ưu việt trong đời này. Năm phương diện đó là gì? Nàng tăng trưởng về niềm tin, đạo đức, học hỏi, rộng lượng, và trí tuệ. Một nữ thánh đệ tử tăng trưởng trong năm phương diện này thì tăng trưởng một cách cao thượng, nắm bắt được những gì cốt lõi và ưu việt trong đời này.
 

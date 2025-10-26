@@ -1,4 +1,4 @@
-# 61. Lời khuyên dạy La Hầu La tại Ambalaṭṭhikā
+# MN 61. Lời khuyên dạy La Hầu La tại Ambalaṭṭhikā
 ***(Kinh Ambalaṭṭhikārāhulovāda)***
 
 [414] 1. Như vầy tôi nghe. Một thời Đức Thế Tôn trú tại Rājagaha (Vương Xá), trong Rừng Trúc, nơi nuôi sóc.

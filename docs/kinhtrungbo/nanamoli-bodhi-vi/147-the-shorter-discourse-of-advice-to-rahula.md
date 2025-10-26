@@ -1,4 +1,4 @@
-# 147. Kinh Tiểu Giáo Giới La Hầu La
+# MN 147. Kinh Tiểu Giáo Giới La Hầu La
 ***(Cūḷarāhulovāda Sutta)***
 
 1\.  Như vầy tôi nghe. Một thời Đức Thế Tôn trú tại Xá Vệ, trong Rừng Kỳ Đà, Vườn Cấp Cô Độc.

@@ -3,7 +3,7 @@
 <!--pg-->
 ## Chapter One
 
-### N 2.1 With Kassapa (1st) *Paṭhamakassapasutta*
+### SN 2.1 With Kassapa (1st) *Paṭhamakassapasutta*
 
 So I have heard. At one time the Buddha was staying near
 Sāvatthī in Jeta's Grove, Anāthapiṇḍika's
@@ -27,7 +27,7 @@ circled the Buddha, keeping him on his right, before vanishing right
 there.
 
 <!--pg-->
-### N 2.2 With Kassapa (2nd) *Dutiyakassapasutta*
+### SN 2.2 With Kassapa (2nd) *Dutiyakassapasutta*
 
 At Sāvatthī.
 
@@ -40,7 +40,7 @@ presence:
 > good-hearted, independent, that is their reward."
 
 <!--pg-->
-### N 2.3 With Māgha *Māghasutta*
+### SN 2.3 With Māgha *Māghasutta*
 
 At Sāvatthī.
 
@@ -61,7 +61,7 @@ side, and addressed the Buddha in verse:
 > for when it's incinerated there is no sorrow."
 
 <!--pg-->
-### N 2.4 With Māghadha *Māgadhasutta*
+### SN 2.4 With Māghadha *Māgadhasutta*
 
 At Sāvatthī.
 
@@ -84,7 +84,7 @@ in verse:
 > this is the supreme radiance."
 
 <!--pg-->
-### N 2.5 With Dāmali *Dāmalisutta*
+### SN 2.5 With Dāmali *Dāmalisutta*
 
 At Sāvatthī.
 
@@ -114,7 +114,7 @@ side, and recited this verse in the Buddha's presence:
 > － for they have reached the far shore."
 
 <!--pg-->
-### N 2.6 With Kāmada *Kāmadasutta*
+### SN 2.6 With Kāmada *Kāmadasutta*
 
 At Sāvatthī.
 
@@ -155,7 +155,7 @@ samādhi."
 > for the noble ones are smooth amid the rough."
 
 <!--pg-->
-### N 2.7 With Pañcālacaṇḍa *Pañcālacaṇḍasutta*
+### SN 2.7 With Pañcālacaṇḍa *Pañcālacaṇḍasutta*
 
 At Sāvatthī.
 
@@ -174,7 +174,7 @@ verse in the Buddha's presence:
 > are perfectly serene in samādhi."
 
 <!--pg-->
-### N 2.8 With Tāyana *Tāyanasutta*
+### SN 2.8 With Tāyana *Tāyanasutta*
 
 At Sāvatthī.
 
@@ -228,7 +228,7 @@ Tāyana! These verses are beneficial and relate to the
 fundamentals of the spiritual life."
 
 <!--pg-->
-### N 2.9 The Moon *Candimasutta*
+### SN 2.9 The Moon *Candimasutta*
 
 At Sāvatthī.
 
@@ -264,7 +264,7 @@ Vepacitti addressed him in verse:
 > I had not released the Moon."
 
 <!--pg-->
-### N 2.10 The Sun *Sūriyasutta*
+### SN 2.10 The Sun *Sūriyasutta*
 
 At Sāvatthī.
 
@@ -307,7 +307,7 @@ Vepacitti addressed him in verse:
 <!--pg-->
 ## The Chapter with Anāthapiṇḍika
 
-### N 2.11 With Candimasa *Candimasasutta*
+### SN 2.11 With Candimasa *Candimasasutta*
 
 At Sāvatthī.
 
@@ -326,7 +326,7 @@ recited this verse in the Buddha's presence:
 > diligent, with vices discarded."
 
 <!--pg-->
-### N 2.12 With Vishnu *Veṇḍusutta*
+### SN 2.12 With Vishnu *Veṇḍusutta*
 
 Standing to one side, the god Vishnu recited this verse in the Buddha's
 presence:
@@ -344,7 +344,7 @@ presence:
 > they won't fall under the sway of Death."
 
 <!--pg-->
-### N 2.13 With Dīghalaṭṭhi *Dīghalaṭṭhisutta*
+### SN 2.13 With Dīghalaṭṭhi *Dīghalaṭṭhisutta*
 
 So I have heard. At one time the Buddha was staying near
 Rājagaha, in the Bamboo Grove, the squirrels' feeding
@@ -360,7 +360,7 @@ side, and recited this verse in the Buddha's presence:
 > good-hearted, independent, that is their reward."
 
 <!--pg-->
-### N 2.14 With Nandana *Nandanasutta*
+### SN 2.14 With Nandana *Nandanasutta*
 
 Standing to one side, the god Nandana addressed the Buddha in verse:
 
@@ -385,7 +385,7 @@ Standing to one side, the god Nandana addressed the Buddha in verse:
 > That kind of person is worshipped by the deities."
 
 <!--pg-->
-### N 2.15 With Candana *Candanasutta*
+### SN 2.15 With Candana *Candanasutta*
 
 Standing to one side, the god Candana addressed the Buddha in verse:
 
@@ -405,7 +405,7 @@ Standing to one side, the god Candana addressed the Buddha in verse:
 > does not sink in the deep."
 
 <!--pg-->
-### N 2.16 With Vāsudatta *Vāsudattasutta*
+### SN 2.16 With Vāsudatta *Vāsudattasutta*
 
 Standing to one side, the god Vāsudatta recited this verse
 in the Buddha's presence:
@@ -421,7 +421,7 @@ in the Buddha's presence:
 > to give up substantialist view."
 
 <!--pg-->
-### N 2.17 With Subrahmā *Subrahmasutta*
+### SN 2.17 With Subrahmā *Subrahmasutta*
 
 Standing to one side, the god Subrahmā addressed the Buddha
 in verse:
@@ -441,7 +441,7 @@ in verse:
 That is what the Buddha said. ... The god vanished right there.
 
 <!--pg-->
-### N 2.18 With Kakudha *Kakudhasutta*
+### SN 2.18 With Kakudha *Kakudhasutta*
 
 So I have heard. At one time the Buddha was staying near
 Sāketa in the deer park at the Añjana Wood.
@@ -486,7 +486,7 @@ side, and said to him, "Do you delight, ascetic?"
 > he has crossed over clinging to the world."
 
 <!--pg-->
-### N 2.19 With Uttara *Uttarasutta*
+### SN 2.19 With Uttara *Uttarasutta*
 
 At Rājagaha. Standing to one side, the god Uttara recited
 this verse in the Buddha's presence:
@@ -502,7 +502,7 @@ this verse in the Buddha's presence:
 > a seeker of peace would drop the world's bait."
 
 <!--pg-->
-### N 2.20 With Anāthapiṇḍika *Anāthapiṇḍikasutta*
+### SN 2.20 With Anāthapiṇḍika *Anāthapiṇḍikasutta*
 
 Standing to one side, the god Anāthapiṇḍika recited these
 verses in the Buddha's presence:
@@ -547,7 +547,7 @@ logic goes. For that was indeed the god Anāthapiṇḍika."
 <!--pg-->
 ## The Chapter on Various Sectarians
 
-### N 2.21 With Shiva *Sivasutta*
+### SN 2.21 With Shiva *Sivasutta*
 
 So I have heard. At one time the Buddha was staying near
 Sāvatthī in Jeta's Grove, Anāthapiṇḍika's
@@ -595,7 +595,7 @@ Then the Buddha replied to Shiva in verse:
 > you're released from all suffering."
 
 <!--pg-->
-### N 2.22 With Khema *Khemasutta*
+### SN 2.22 With Khema *Khemasutta*
 
 Standing to one side, the god Khema recited these verses in the Buddha's
 presence:
@@ -631,7 +631,7 @@ presence:
 > they fret like their axle's broken."
 
 <!--pg-->
-### N 2.23 With Serī *Serīsutta*
+### SN 2.23 With Serī *Serīsutta*
 
 Standing to one side, the god Serī addressed the Buddha in
 verse:
@@ -708,7 +708,7 @@ incredible, sir, it's amazing, how well said this was by the Buddha.
 > support them in the next world.'"
 
 <!--pg-->
-### N 2.24 With Ghaṭīkāra *Ghaṭīkārasutta*
+### SN 2.24 With Ghaṭīkāra *Ghaṭīkārasutta*
 
 Standing to one side, the god Ghaṭīkāra recited this verse
 in the Buddha's presence:
@@ -783,7 +783,7 @@ in the Buddha's presence:
 > and bear their final body."
 
 <!--pg-->
-### N 2.25 With Jantu *Jantusutta*
+### SN 2.25 With Jantu *Jantusutta*
 
 So I have heard.
 
@@ -819,7 +819,7 @@ mendicants and addressed them in verse:
 > I pay homage."
 
 <!--pg-->
-### N 2.26 With Rohitassa *Rohitassasutta*
+### SN 2.26 With Rohitassa *Rohitassasutta*
 
 At Sāvatthī.
 
@@ -868,7 +868,7 @@ cessation, and the practice that leads to its cessation.
 > does not hope for this world or the next."
 
 <!--pg-->
-### N 2.27 With Nanda *Nandasutta*
+### SN 2.27 With Nanda *Nandasutta*
 
 Standing to one side, the god Nanda recited this verse in the Buddha's
 presence:
@@ -884,7 +884,7 @@ presence:
 > one looking for peace would drop the world's bait."
 
 <!--pg-->
-### N 2.28 With Nandivisāla *Nandivisālasutta*
+### SN 2.28 With Nandivisāla *Nandivisālasutta*
 
 Standing to one side, the god Nandivisāla addressed the
 Buddha in verse:
@@ -900,7 +900,7 @@ Buddha in verse:
 > that's how you're supposed to live like this."
 
 <!--pg-->
-### N 2.29 With Susīma *Susimasutta*
+### SN 2.29 With Susīma *Susimasutta*
 
 At Sāvatthī.
 
@@ -975,7 +975,7 @@ Venerable Sāriputta:
 > developed and well-tamed, he awaits his time."
 
 <!--pg-->
-### N 2.30 The Disciples of Various Monastics of Other Religions *Nānātitthiyasāvakasutta*
+### SN 2.30 The Disciples of Various Monastics of Other Religions *Nānātitthiyasāvakasutta*
 
 So I have heard. At one time the Buddha was staying near
 Rājagaha, in the Bamboo Grove, the squirrels' feeding

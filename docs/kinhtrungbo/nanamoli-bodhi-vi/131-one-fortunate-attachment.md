@@ -1,4 +1,4 @@
-# 131. Người Có Một Đêm An Lành
+# MN 131. Người Có Một Đêm An Lành
 ***(Kinh Bhaddekaratta)***
 
 1\.  Tôi nghe như vầy. [^1209] Một thời Đức Thế Tôn trú tại Xá-vệ (Sāvatthī), trong Rừng Jeta, vườn của ông Anāthapiṇḍika (Cấp Cô Độc). Tại đó, Ngài gọi các vị tỳ kheo (bhikkhus - nhà sư) như sau: "Này các Tỳ kheo." - "Thưa vâng, bạch Thế Tôn," các vị ấy đáp. Đức Thế Tôn nói điều này:

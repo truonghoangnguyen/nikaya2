@@ -1,4 +1,4 @@
-# 136. Kinh Đại Phân Biệt Về Nghiệp
+# MN 136. Kinh Đại Phân Biệt Về Nghiệp
 ***(Mahākammavibhanga Sutta)***
 
 [207] 1. Tôi nghe như vầy. Một thời Đức Thế Tôn trú tại thành Vương Xá (Rājagaha), trong Vườn Trúc, Khu Nuôi Sóc.

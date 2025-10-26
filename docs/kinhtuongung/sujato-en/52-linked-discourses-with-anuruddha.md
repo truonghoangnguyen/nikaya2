@@ -3,7 +3,7 @@
 <!--pg-->
 ## The Chapter on In Private
 
-### N 52.1 In Private (1st) *Paṭhamarahogatasutta*
+### SN 52.1 In Private (1st) *Paṭhamarahogatasutta*
 
 So I have heard. At one time Venerable Anuruddha was
 staying near Sāvatthī in Jeta's Grove,
@@ -64,7 +64,7 @@ That's how to define the undertaking of the four kinds of mindfulness
 meditation by a mendicant."
 
 <!--pg-->
-### N 52.2 In Private (2nd) *Dutiyarahogatasutta*
+### SN 52.2 In Private (2nd) *Dutiyarahogatasutta*
 
 At Sāvatthī.
 
@@ -100,7 +100,7 @@ of covetousness and displeasure for the world. That's how to define the
 undertaking of the four kinds of mindfulness meditation by a mendicant."
 
 <!--pg-->
-### N 52.3 On the Bank of the Sutanu *Sutanusutta*
+### SN 52.3 On the Bank of the Sutanu *Sutanusutta*
 
 At one time Venerable Anuruddha was staying near Sāvatthī
 on the bank of the Sutanu. Then several mendicants went up to Venerable
@@ -125,7 +125,7 @@ meditation that I directly knew the lower realm as lower, the middle
 realm as middle, and the higher realm as higher."
 
 <!--pg-->
-### N 52.4 At Thorny Wood (1st) *Paṭhamakaṇḍakīsutta*
+### SN 52.4 At Thorny Wood (1st) *Paṭhamakaṇḍakīsutta*
 
 At one time the venerables Anuruddha, Sāriputta, and
 Mahāmoggallāna were staying near Sāketa, in
@@ -148,7 +148,7 @@ trainee mendicant should enter and remain in these four kinds of
 mindfulness meditation."
 
 <!--pg-->
-### N 52.5 At Thorny Wood (2nd) *Dutiyakaṇḍakīsutta*
+### SN 52.5 At Thorny Wood (2nd) *Dutiyakaṇḍakīsutta*
 
 At Sāketa. Sāriputta said to Anuruddha:
 
@@ -165,7 +165,7 @@ displeasure for the world. A mendicant who is an adept should enter and
 remain in these four kinds of mindfulness meditation."
 
 <!--pg-->
-### N 52.6 At Thorny Wood (3rd) *Tatiyakaṇḍakīsutta*
+### SN 52.6 At Thorny Wood (3rd) *Tatiyakaṇḍakīsutta*
 
 At Sāketa. Sāriputta said to Anuruddha:
 
@@ -185,7 +185,7 @@ And it's because of developing and cultivating these four kinds of
 mindfulness meditation that I directly know the thousandfold galaxy."
 
 <!--pg-->
-### N 52.7 The Ending of Craving *Taṇhākkhayasutta*
+### SN 52.7 The Ending of Craving *Taṇhākkhayasutta*
 
 At Sāvatthī.
 
@@ -203,7 +203,7 @@ mindfulness meditation are developed and cultivated they lead to the
 ending of craving."
 
 <!--pg-->
-### N 52.8 The Frankincense-Tree Hut *Salaḷāgārasutta*
+### SN 52.8 The Frankincense-Tree Hut *Salaḷāgārasutta*
 
 At one time Venerable Anuruddha was staying near Sāvatthī
 in the frankincense-tree hut. There Venerable Anuruddha addressed the
@@ -238,7 +238,7 @@ how a mendicant develops and cultivates the four kinds of mindfulness
 meditation."
 
 <!--pg-->
-### N 52.9 In Ambapālī's Mango Grove *Ambapālivanasutta*
+### SN 52.9 In Ambapālī's Mango Grove *Ambapālivanasutta*
 
 At one time the venerables Anuruddha and Sāriputta were
 staying near Vesālī, in Ambapālī's Mango
@@ -266,7 +266,7 @@ mindfulness meditation."
 dramatic statement in the presence of Venerable Anuruddha."
 
 <!--pg-->
-### N 52.10 Gravely Ill *Bāḷhagilānasutta*
+### SN 52.10 Gravely Ill *Bāḷhagilānasutta*
 
 At one time Venerable Anuruddha was staying near Sāvatthī
 in the Dark Forest. And he was sick, suffering, gravely ill. Then
@@ -286,7 +286,7 @@ occupy my mind."
 <!--pg-->
 ## Chapter Two
 
-### N 52.11 A Thousand Eons *Kappasahassasutta*
+### SN 52.11 A Thousand Eons *Kappasahassasutta*
 
 At one time Venerable Anuruddha was staying near Sāvatthī
 in Jeta's Grove, Anāthapiṇḍika's monastery. Then several
@@ -307,7 +307,7 @@ And it's because of developing and cultivating these four kinds of
 mindfulness meditation that I recollect a thousand eons."
 
 <!--pg-->
-### N 52.12 Psychic Powers *Iddhividhasutta*
+### SN 52.12 Psychic Powers *Iddhividhasutta*
 
 "... And it's because of developing and cultivating these four kinds of
 mindfulness meditation that I wield the many kinds of psychic power:
@@ -315,7 +315,7 @@ multiplying myself and becoming one again ... controlling the body as
 far as the realm of divinity."
 
 <!--pg-->
-### N 52.13 Clairaudience *Dibbasotasutta*
+### SN 52.13 Clairaudience *Dibbasotasutta*
 
 "... And it's because of developing and cultivating these four kinds of
 mindfulness meditation that, with clairaudience that is purified and
@@ -323,7 +323,7 @@ superhuman, I hear both kinds of sounds, human and heavenly, whether
 near or far."
 
 <!--pg-->
-### N 52.14 Comprehending the Mind *Cetopariyasutta*
+### SN 52.14 Comprehending the Mind *Cetopariyasutta*
 
 "... And it's because of developing and cultivating these four kinds of
 mindfulness meditation that I understand the minds of other beings and
@@ -332,14 +332,14 @@ with greed as 'mind with greed' ... I understand unfreed mind as
 'unfreed mind'."
 
 <!--pg-->
-### N 52.15 Possible *Ṭhānasutta*
+### SN 52.15 Possible *Ṭhānasutta*
 
 "... And it's because of developing and cultivating these four kinds of
 mindfulness meditation that I truly understand the possible as possible
 and the impossible as impossible."
 
 <!--pg-->
-### N 52.16 The Results of Deeds Undertaken *Kammasamādānasutta*
+### SN 52.16 The Results of Deeds Undertaken *Kammasamādānasutta*
 
 "... And it's because of developing and cultivating these four kinds of
 mindfulness meditation that I truly understand the result of deeds
@@ -347,28 +347,28 @@ undertaken in the past, future, and present in terms of grounds and
 causes."
 
 <!--pg-->
-### N 52.17 Where All Paths of Practice Lead *Sabbatthagāminisutta*
+### SN 52.17 Where All Paths of Practice Lead *Sabbatthagāminisutta*
 
 "... And it's because of developing and cultivating these four kinds of
 mindfulness meditation that I truly understand where all paths of
 practice lead."
 
 <!--pg-->
-### N 52.18 Diverse Elements *Nānādhātusutta*
+### SN 52.18 Diverse Elements *Nānādhātusutta*
 
 "... And it's because of developing and cultivating these four kinds of
 mindfulness meditation that I truly understand the world with its many
 and diverse elements."
 
 <!--pg-->
-### N 52.19 Diverse Beliefs *Nānādhimuttisutta*
+### SN 52.19 Diverse Beliefs *Nānādhimuttisutta*
 
 "... And it's because of developing and cultivating these four kinds of
 mindfulness meditation that I truly understand the diverse convictions
 of sentient beings."
 
 <!--pg-->
-### N 52.20 Comprehending the Faculties of Others *Indriyaparopariyattasutta*
+### SN 52.20 Comprehending the Faculties of Others *Indriyaparopariyattasutta*
 
 "... And it's because of developing and cultivating these four kinds of
 mindfulness meditation that I truly understand the faculties of other
@@ -376,7 +376,7 @@ sentient beings and other individuals after comprehending them with my
 mind."
 
 <!--pg-->
-### N 52.21 Absorptions, Etc. *Jhānādisutta*
+### SN 52.21 Absorptions, Etc. *Jhānādisutta*
 
 "... And it's because of developing and cultivating these four kinds of
 mindfulness meditation that I truly understand corruption, cleansing,
@@ -384,14 +384,14 @@ and emergence regarding the absorptions, liberations, immersions, and
 attainments."
 
 <!--pg-->
-### N 52.22 Past Lives *Pubbenivāsasutta*
+### SN 52.22 Past Lives *Pubbenivāsasutta*
 
 "... And it's because of developing and cultivating these four kinds of
 mindfulness meditation that I recollect my many kinds of past lives,
 with features and details."
 
 <!--pg-->
-### N 52.23 Clairvoyance *Dibbacakkhusutta*
+### SN 52.23 Clairvoyance *Dibbacakkhusutta*
 
 "... And it's because of developing and cultivating these four kinds of
 mindfulness meditation that, with clairvoyance that is purified and
@@ -399,7 +399,7 @@ superhuman, I understand how sentient beings are reborn according to
 their deeds."
 
 <!--pg-->
-### N 52.24 The Ending of Defilements *Āsavakkhayasutta*
+### SN 52.24 The Ending of Defilements *Āsavakkhayasutta*
 
 "... And it's because of developing and cultivating these four kinds of
 mindfulness meditation that I realized the undefiled freedom of heart

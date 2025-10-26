@@ -3,7 +3,7 @@
 <!--pg-->
 ## The Chapter on Chiefs
 
-### N 42.1 Vicious *Caṇḍasutta*
+### SN 42.1 Vicious *Caṇḍasutta*
 
 At Sāvatthī.
 
@@ -38,7 +38,7 @@ may the Buddha remember me as a lay follower who has gone for refuge for
 life."
 
 <!--pg-->
-### N 42.2 With Tālapuṭa *Tālapuṭasutta*
+### SN 42.2 With Tālapuṭa *Tālapuṭasutta*
 
 At one time the Buddha was staying near Rājagaha, in the
 Bamboo Grove, the squirrels' feeding ground. Then Tālapuṭa
@@ -107,7 +107,7 @@ the ordination in the Buddha's presence. Not long after his ordination,
 Venerable Tālapuṭa became one of the perfected.
 
 <!--pg-->
-### N 42.3 A Warrior *Yodhājīvasutta*
+### SN 42.3 A Warrior *Yodhājīvasutta*
 
 Then Dustin the warrior chief went up to the Buddha, bowed, sat down to
 one side, and said to him:
@@ -162,14 +162,14 @@ Excellent, sir! Excellent! ... From this day forth, may the Buddha
 remember me as a lay follower who has gone for refuge for life."
 
 <!--pg-->
-### N 42.4 An Elephant Warrior *Hatthārohasutta*
+### SN 42.4 An Elephant Warrior *Hatthārohasutta*
 
 Then an elephant warrior chief went up to the Buddha ... "From this day
 forth, may the Buddha remember me as a lay follower who has gone for
 refuge for life."
 
 <!--pg-->
-### N 42.5 A Cavalryman *Assārohasutta*
+### SN 42.5 A Cavalryman *Assārohasutta*
 
 Then a cavalry chief went up to the Buddha ...
 
@@ -177,7 +177,7 @@ Then a cavalry chief went up to the Buddha ...
 has gone for refuge for life."
 
 <!--pg-->
-### N 42.6 With Asibandhaka's Son *Asibandhakaputtasutta*
+### SN 42.6 With Asibandhaka's Son *Asibandhakaputtasutta*
 
 At one time the Buddha was staying near Nāḷandā in
 Pāvārika's mango grove.
@@ -256,7 +256,7 @@ When he said this, Asibandhaka's son the chief said to the Buddha,
 a lay follower who has gone for refuge for life."
 
 <!--pg-->
-### N 42.7 The Simile of the Field *Khettūpamasutta*
+### SN 42.7 The Simile of the Field *Khettūpamasutta*
 
 At one time the Buddha was staying near Nāḷandā in
 Pāvārika's mango grove. Then Asibandhaka's son the chief
@@ -338,7 +338,7 @@ When he said this, Asibandhaka's son the chief said to the Buddha,
 remember me as a lay follower who has gone for refuge for life."
 
 <!--pg-->
-### N 42.8 A Horn Blower *Saṅkhadhamasutta*
+### SN 42.8 A Horn Blower *Saṅkhadhamasutta*
 
 At one time the Buddha was staying near Nāḷandā in
 Pāvārika's mango grove.
@@ -454,7 +454,7 @@ When he said this, Asibandhaka's son the chief said to the Buddha,
 remember me as a lay follower who has gone for refuge for life."
 
 <!--pg-->
-### N 42.9 Families *Kulasutta*
+### SN 42.9 Families *Kulasutta*
 
 At one time the Buddha was wandering in the land of the Kosalans
 together with a large Saṅgha of mendicants when he arrived
@@ -522,7 +522,7 @@ When he said this, Asibandhaka's son the chief said to the Buddha,
 remember me as a lay follower who has gone for refuge for life."
 
 <!--pg-->
-### N 42.10 With Maṇicūḷaka *Maṇicūḷakasutta*
+### SN 42.10 With Maṇicūḷaka *Maṇicūḷakasutta*
 
 At one time the Buddha was staying near Rājagaha, in the
 Bamboo Grove, the squirrels' feeding ground. Now at that time while the
@@ -566,7 +566,7 @@ workman. But I say that there is no way they can accept or look for gold
 and currency."
 
 <!--pg-->
-### N 42.11 With Bhadraka *Bhadrakasutta*
+### SN 42.11 With Bhadraka *Bhadrakasutta*
 
 At one time the Buddha was staying in the land of the Mallas, near the
 Mallian town called Uruvelakappa. Then Bhadraka the village chief went
@@ -651,7 +651,7 @@ lamentation, pain, sadness, and distress?"
 rooted and sourced in desire. For desire is the root of suffering.'"
 
 <!--pg-->
-### N 42.12 With Rāsiya *Rāsiyasutta*
+### SN 42.12 With Rāsiya *Rāsiyasutta*
 
 Then Rāsiya the chief went up to the Buddha, bowed, sat
 down to one side, and said to him:
@@ -912,7 +912,7 @@ When he said this, Rāsiya the chief said to the Buddha,
 remember me as a lay follower who has gone for refuge for life."
 
 <!--pg-->
-### N 42.13 With Pāṭaliya *Pāṭaliyasutta*
+### SN 42.13 With Pāṭaliya *Pāṭaliyasutta*
 
 At one time the Buddha was staying in the land of the Koliyans, where
 they have a town called Uttara. Then Pāṭaliya the chief

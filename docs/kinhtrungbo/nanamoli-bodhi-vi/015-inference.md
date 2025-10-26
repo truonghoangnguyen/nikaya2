@@ -1,4 +1,4 @@
-# 15. Suy xét
+# MN 15. Suy xét
 
 (Anumāna Sutta)
 

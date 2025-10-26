@@ -3,7 +3,7 @@
 <!--pg-->
 ## Chapter One
 
-### N 19.1 A Skeleton *Aṭṭhisutta*
+### SN 19.1 A Skeleton *Aṭṭhisutta*
 
 So I have heard. At one time the Buddha was staying near
 Rājagaha, in the Bamboo Grove, the squirrels' feeding
@@ -60,7 +60,7 @@ incarnation."
 **(Tell all these discourses in full like this.)**
 
 <!--pg-->
-### N 19.2 A Piece of Meat *Pesisutta*
+### SN 19.2 A Piece of Meat *Pesisutta*
 
 "Just now, reverend, as I was descending from Vulture's Peak Mountain I
 saw a scrap of meat flying through the air. Vultures, crows, and hawks
@@ -70,7 +70,7 @@ kept chasing it, pecking and clawing as it screeched in pain. ..." ...
 Rājagaha. ..."
 
 <!--pg-->
-### N 19.3 A Piece of Flesh *Piṇḍasutta*
+### SN 19.3 A Piece of Flesh *Piṇḍasutta*
 
 "Just now, reverend, as I was descending from Vulture's Peak Mountain I
 saw a piece of flesh flying through the air. Vultures, crows, and hawks
@@ -80,7 +80,7 @@ kept chasing it, pecking and clawing as it screeched in pain. ..." ...
 Rājagaha. ..."
 
 <!--pg-->
-### N 19.4 A Flayed Man *Nicchavisutta*
+### SN 19.4 A Flayed Man *Nicchavisutta*
 
 "Just now, reverend, as I was descending from Vulture's Peak Mountain I
 saw a flayed man flying through the air. Vultures, crows, and hawks kept
@@ -90,7 +90,7 @@ chasing it, pecking and clawing as he screamed in pain. ..." ...
 Rājagaha. ..."
 
 <!--pg-->
-### N 19.5 Sword Hairs *Asilomasutta*
+### SN 19.5 Sword Hairs *Asilomasutta*
 
 "Just now, reverend, as I was descending from Vulture's Peak Mountain I
 saw a man whose body hairs were swords flying through the air. And those
@@ -101,7 +101,7 @@ swords kept rising up and falling on his body as he screamed in pain.
 Rājagaha. ..."
 
 <!--pg-->
-### N 19.6 Spear Hairs *Sattisutta*
+### SN 19.6 Spear Hairs *Sattisutta*
 
 "Just now, reverend, as I was descending from Vulture's Peak Mountain I
 saw a man whose body hairs were spears flying through the air. And those
@@ -112,7 +112,7 @@ spears kept rising up and falling on his body as he screamed in pain.
 Rājagaha. ..."
 
 <!--pg-->
-### N 19.7 Arrow Hairs *Usulomasutta*
+### SN 19.7 Arrow Hairs *Usulomasutta*
 
 "Just now, reverend, as I was descending from Vulture's Peak Mountain I
 saw a man whose body hairs were arrows flying through the air. And those
@@ -123,7 +123,7 @@ arrows kept rising up and falling on his body as he screamed in pain.
 ..."
 
 <!--pg-->
-### N 19.8 Needle Hairs *Sūcilomasutta*
+### SN 19.8 Needle Hairs *Sūcilomasutta*
 
 "Just now, reverend, as I was descending from Vulture's Peak Mountain I
 saw a man whose body hairs were needles flying through the air. And
@@ -134,7 +134,7 @@ pain. ..." ...
 ..."
 
 <!--pg-->
-### N 19.9 Needle Hairs (2nd) *Dutiyasūcilomasutta*
+### SN 19.9 Needle Hairs (2nd) *Dutiyasūcilomasutta*
 
 "Just now, reverend, as I was descending from Vulture's Peak Mountain I
 saw a man whose body hairs were needles flying through the air. The
@@ -147,7 +147,7 @@ his feet. And he screamed in pain. ..." ...
 ..."
 
 <!--pg-->
-### N 19.10 Pot Balls *Kumbhaṇḍasutta*
+### SN 19.10 Pot Balls *Kumbhaṇḍasutta*
 
 "Just now, reverend, as I was descending from Vulture's Peak Mountain I
 saw a man with testicles as big as pots flying through the air. When he
@@ -161,7 +161,7 @@ Rājagaha. ..."
 <!--pg-->
 ## Chapter Two
 
-### N 19.11 Over His Head *Sasīsakasutta*
+### SN 19.11 Over His Head *Sasīsakasutta*
 
 So I have heard. At one time near Rājagaha in
 the Bamboo Grove ...
@@ -173,7 +173,7 @@ saw a man sunk over his head in a sewer. ..." ...
 ..."
 
 <!--pg-->
-### N 19.12 A Dung Eater *Gūthakhādasutta*
+### SN 19.12 A Dung Eater *Gūthakhādasutta*
 
 "Just now, reverend, as I was descending from Vulture's Peak Mountain I
 saw a man sunk in a sewer, eating dung with both hands. ..." ...
@@ -185,7 +185,7 @@ trough with dung and said: 'My good men, eat as much as you like, and
 take what's left.' ..."
 
 <!--pg-->
-### N 19.13 A Flayed Woman *Nicchavitthisutta*
+### SN 19.13 A Flayed Woman *Nicchavitthisutta*
 
 "Just now, reverend, as I was descending from Vulture's Peak Mountain I
 saw a flayed woman flying through the air. Vultures, crows, and hawks
@@ -195,7 +195,7 @@ kept chasing her, pecking and clawing as she screamed in pain. ..." ...
 Rājagaha. ..."
 
 <!--pg-->
-### N 19.14 A Fishwife *Maṅgulitthisutta*
+### SN 19.14 A Fishwife *Maṅgulitthisutta*
 
 "Just now, reverend, as I was descending from Vulture's Peak Mountain I
 saw a stinking fishwife flying through the air. Vultures, crows, and
@@ -206,7 +206,7 @@ hawks kept chasing her, pecking and clawing as she screamed in pain.
 Rājagaha. ..."
 
 <!--pg-->
-### N 19.15 A Sweltering Woman *Okilinīsutta*
+### SN 19.15 A Sweltering Woman *Okilinīsutta*
 
 "Just now, reverend, as I was descending from Vulture's Peak Mountain I
 saw a scorched woman, sooty and sweaty, flying through the air, as she
@@ -217,7 +217,7 @@ She was of jealous nature, and poured a brazier of hot coals over her
 co-wife. ..." ...
 
 <!--pg-->
-### N 19.16 A Headless Trunk *Asīsakasutta*
+### SN 19.16 A Headless Trunk *Asīsakasutta*
 
 "Just now, reverend, as I was descending from Vulture's Peak Mountain I
 saw a headless trunk flying through the air. Its eyes and mouth were on
@@ -228,7 +228,7 @@ clawing as it screamed in pain. ..." ...
 here in Rājagaha. ..."
 
 <!--pg-->
-### N 19.17 A Bad Monk *Pāpabhikkhusutta*
+### SN 19.17 A Bad Monk *Pāpabhikkhusutta*
 
 "Just now, reverend, as I was descending from Vulture's Peak Mountain I
 saw a monk flying through the air. His outer robe, bowl, belt, and body
@@ -238,14 +238,14 @@ were burning, blazing, and glowing as he screamed in pain. ..." ...
 dispensation. ..."
 
 <!--pg-->
-### N 19.18 A Bad Nun *Pāpabhikkhunīsutta*
+### SN 19.18 A Bad Nun *Pāpabhikkhunīsutta*
 
 "I saw a nun flying through the air. Her outer robe was burning ..." ...
 
 "She used to be a bad nun ..."
 
 <!--pg-->
-### N 19.19 A Bad Trainee Nun *Pāpasikkhamānasutta*
+### SN 19.19 A Bad Trainee Nun *Pāpasikkhamānasutta*
 
 "I saw a trainee nun flying through the air. Her outer robe was burning
 ..." ...
@@ -253,7 +253,7 @@ dispensation. ..."
 "She used to be a bad trainee nun ..."
 
 <!--pg-->
-### N 19.20 A Bad Novice Monk *Pāpasāmaṇerasutta*
+### SN 19.20 A Bad Novice Monk *Pāpasāmaṇerasutta*
 
 "I saw a novice monk flying through the air. His outer robe was burning
 ..." ...
@@ -261,7 +261,7 @@ dispensation. ..."
 "He used to be a bad novice monk ..."
 
 <!--pg-->
-### N 19.21 A Bad Novice Nun *Pāpasāmaṇerīsutta*
+### SN 19.21 A Bad Novice Nun *Pāpasāmaṇerīsutta*
 
 "Just now, reverend, as I was descending from Vulture's Peak Mountain I
 saw a novice nun flying through the air. Her outer robe, bowl, belt, and

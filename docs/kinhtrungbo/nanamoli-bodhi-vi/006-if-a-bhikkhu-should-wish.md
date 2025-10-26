@@ -1,4 +1,4 @@
-# 6. Nếu một Tỳ Kheo Mong Muốn
+# MN 6. Nếu một Tỳ Kheo Mong Muốn
 ***(Kinh Äkankheyya)***
 
 [33] 1. Tôi nghe như vầy. Có một lần Đức Phật (the Blessed One) đang ở tại Sāvatthī trong Rừng Jeta, Công viên của Anāthapindika. Ở đó, ngài nói với các tỳ kheo (bhikkhus-những người tu hành theo Phật giáo) rằng: "Này các tỳ kheo." - "Bạch Thế Tôn," họ đáp. Đức Phật nói điều này:

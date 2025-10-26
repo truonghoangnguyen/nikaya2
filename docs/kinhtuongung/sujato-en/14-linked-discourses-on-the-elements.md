@@ -3,7 +3,7 @@
 <!--pg-->
 ## The Chapter on Diversity
 
-### N 14.1 Diversity of Elements *Dhātunānattasutta*
+### SN 14.1 Diversity of Elements *Dhātunānattasutta*
 
 At Sāvatthī.
 
@@ -21,7 +21,7 @@ consciousness element. The mind element, idea element, and mind
 consciousness element. This is called the diversity of elements."
 
 <!--pg-->
-### N 14.2 Diversity of Contacts *Phassanānattasutta*
+### SN 14.2 Diversity of Contacts *Phassanānattasutta*
 
 At Sāvatthī.
 
@@ -36,7 +36,7 @@ tongue ... body ... The mind element gives rise to mind contact. That's
 how diversity of elements gives rise to diversity of contacts."
 
 <!--pg-->
-### N 14.3 Not Diversity of Contacts *Nophassanānattasutta*
+### SN 14.3 Not Diversity of Contacts *Nophassanānattasutta*
 
 At Sāvatthī.
 
@@ -55,7 +55,7 @@ of elements gives rise to diversity of contacts, while diversity of
 contacts doesn't give rise to diversity of elements."
 
 <!--pg-->
-### N 14.4 Diversity of Feelings *Vedanānānattasutta*
+### SN 14.4 Diversity of Feelings *Vedanānānattasutta*
 
 At Sāvatthī.
 
@@ -74,7 +74,7 @@ diversity of elements gives rise to diversity of contacts, and diversity
 of contacts gives rise to diversity of feelings."
 
 <!--pg-->
-### N 14.5 Diversity of Feelings (2nd) *Dutiyavedanānānattasutta*
+### SN 14.5 Diversity of Feelings (2nd) *Dutiyavedanānānattasutta*
 
 At Sāvatthī.
 
@@ -102,7 +102,7 @@ while diversity of feelings doesn't give rise to diversity of contacts,
 and diversity of contacts doesn't give rise to diversity of elements."
 
 <!--pg-->
-### N 14.6 External Diversity of Elements *Bāhiradhātunānattasutta*
+### SN 14.6 External Diversity of Elements *Bāhiradhātunānattasutta*
 
 At Sāvatthī.
 
@@ -112,7 +112,7 @@ element, the taste element, the touch element, and the idea element.
 This is called the diversity of elements."
 
 <!--pg-->
-### N 14.7 Diversity of Perceptions *Saññānānattasutta*
+### SN 14.7 Diversity of Perceptions *Saññānānattasutta*
 
 At Sāvatthī.
 
@@ -148,7 +148,7 @@ of desires gives rise to diversity of passions, and diversity of
 passions gives rise to diversity of searches."
 
 <!--pg-->
-### N 14.8 No Diversity of Searches *Nopariyesanānānattasutta*
+### SN 14.8 No Diversity of Searches *Nopariyesanānānattasutta*
 
 At Sāvatthī.
 
@@ -182,7 +182,7 @@ That's how diversity of elements gives rise to diversity of perceptions
 elements."
 
 <!--pg-->
-### N 14.9 Diversity of Gains *Bāhiraphassanānattasutta*
+### SN 14.9 Diversity of Gains *Bāhiraphassanānattasutta*
 
 At Sāvatthī.
 
@@ -218,7 +218,7 @@ That's how diversity of elements gives rise to diversity of perceptions
 ... diversity of searches gives rise to diversity of gains."
 
 <!--pg-->
-### N 14.10 No Diversity of Gains *Dutiyabāhiraphassanānattasutta*
+### SN 14.10 No Diversity of Gains *Dutiyabāhiraphassanānattasutta*
 
 At Sāvatthī.
 
@@ -259,7 +259,7 @@ elements."
 <!--pg-->
 ## Chapter Two
 
-### N 14.11 Seven Elements *Sattadhātusutta*
+### SN 14.11 Seven Elements *Sattadhātusutta*
 
 At Sāvatthī.
 
@@ -294,7 +294,7 @@ conditioned phenomena. The element of the cessation of perception and
 feeling is an attainment of cessation."
 
 <!--pg-->
-### N 14.12 With a Cause *Sanidānasutta*
+### SN 14.12 With a Cause *Sanidānasutta*
 
 At Sāvatthī.
 
@@ -365,7 +365,7 @@ anguish, and fever. And when the body breaks up, after death, they can
 expect to be reborn in a good place."
 
 <!--pg-->
-### N 14.13 In the Brick Hall *Giñjakāvasathasutta*
+### SN 14.13 In the Brick Hall *Giñjakāvasathasutta*
 
 At one time the Buddha was staying at Ñātika in the brick
 house. There the Buddha addressed the mendicants, "Mendicants!"
@@ -400,7 +400,7 @@ establishes, clarifies, analyzes, and reveals the superior. I say that
 their rebirth is superior."
 
 <!--pg-->
-### N 14.14 Bad Convictions *Hīnādhimuttikasutta*
+### SN 14.14 Bad Convictions *Hīnādhimuttikasutta*
 
 At Sāvatthī.
 
@@ -421,7 +421,7 @@ with those who have bad convictions. Those who have good convictions
 come together and converge with those who have good convictions."
 
 <!--pg-->
-### N 14.15 Walking Together *Caṅkamasutta*
+### SN 14.15 Walking Together *Caṅkamasutta*
 
 At one time the Buddha was staying near Rājagaha, on the
 Vulture's Peak Mountain. Now at that time Venerable
@@ -486,7 +486,7 @@ convictions. Those who have good convictions come together and converge
 with those who have good convictions."
 
 <!--pg-->
-### N 14.16 With Verses *Sagāthāsutta*
+### SN 14.16 With Verses *Sagāthāsutta*
 
 At Sāvatthī.
 
@@ -545,7 +545,7 @@ say:
 > the astute who practice absorption."
 
 <!--pg-->
-### N 14.17 Faithless *Assaddhasaṁsandanasutta*
+### SN 14.17 Faithless *Assaddhasaṁsandanasutta*
 
 At Sāvatthī.
 
@@ -572,7 +572,7 @@ with the wise. In the past ... In the future ... At present, too,
 sentient beings come together and converge because of an element. ..."
 
 <!--pg-->
-### N 14.18 Beginning With the Faithless *Assaddhamūlakasutta*
+### SN 14.18 Beginning With the Faithless *Assaddhamūlakasutta*
 
 At Sāvatthī.
 
@@ -602,7 +602,7 @@ Sentient beings come together because of an element: the faithless ...
 unmindful ... witless. the faithful ... mindful ... wise."
 
 <!--pg-->
-### N 14.19 Beginning With the Shameless *Ahirikamūlakasutta*
+### SN 14.19 Beginning With the Shameless *Ahirikamūlakasutta*
 
 At Sāvatthī.
 
@@ -620,7 +620,7 @@ conscientious ... energetic ... wise.
 conscientious ... mindful ... wise."
 
 <!--pg-->
-### N 14.20 Beginning With Imprudence *Anottappamūlakasutta*
+### SN 14.20 Beginning With Imprudence *Anottappamūlakasutta*
 
 At Sāvatthī.
 
@@ -635,7 +635,7 @@ with the prudent ... energetic ... wise.
 prudent with the prudent ... mindful ... wise."
 
 <!--pg-->
-### N 14.21 Beginning With the Unlearned *Appassutamūlakasutta*
+### SN 14.21 Beginning With the Unlearned *Appassutamūlakasutta*
 
 At Sāvatthī.
 
@@ -647,7 +647,7 @@ learned with the learned ... energetic ... wise.
 learned with the learned ... mindful ... wise."
 
 <!--pg-->
-### N 14.22 Beginning With the Lazy *Kusītamūlakasutta*
+### SN 14.22 Beginning With the Lazy *Kusītamūlakasutta*
 
 At Sāvatthī.
 
@@ -660,7 +660,7 @@ element: the lazy with the lazy ... unmindful ... witless ... energetic
 <!--pg-->
 ## The Chapter on Ways of Performing Deeds
 
-### N 14.23 Lacking Immersion *Asamāhitasutta*
+### SN 14.23 Lacking Immersion *Asamāhitasutta*
 
 At Sāvatthī.
 
@@ -672,7 +672,7 @@ The faithful with the faithful ... conscientious ... prudent ...
 possessing immersion ... and the wise with the wise."
 
 <!--pg-->
-### N 14.24 Unethical *Dussīlasutta*
+### SN 14.24 Unethical *Dussīlasutta*
 
 At Sāvatthī.
 
@@ -684,7 +684,7 @@ The faithful with the faithful ... conscientious ... prudent ... ethical
 ... and the wise with the wise."
 
 <!--pg-->
-### N 14.25 The Five Precepts *Pañcasikkhāpadasutta*
+### SN 14.25 The Five Precepts *Pañcasikkhāpadasutta*
 
 At Sāvatthī.
 
@@ -700,7 +700,7 @@ intoxicants with those who refrain from consuming beer, wine, and liquor
 intoxicants."
 
 <!--pg-->
-### N 14.26 Seven Ways of Performing Deeds *Sattakammapathasutta*
+### SN 14.26 Seven Ways of Performing Deeds *Sattakammapathasutta*
 
 At Sāvatthī.
 
@@ -716,7 +716,7 @@ speech ... who refrain from talking nonsense with those who refrain from
 talking nonsense."
 
 <!--pg-->
-### N 14.27 Ten Ways of Performing Deeds *Dasakammapathasutta*
+### SN 14.27 Ten Ways of Performing Deeds *Dasakammapathasutta*
 
 At Sāvatthī.
 
@@ -733,7 +733,7 @@ speech ... who refrain from talking nonsense ... are not covetous ...
 are not malicious ... have right view with those who have right view."
 
 <!--pg-->
-### N 14.28 The Eightfold Path *Aṭṭhaṅgikasutta*
+### SN 14.28 The Eightfold Path *Aṭṭhaṅgikasutta*
 
 At Sāvatthī.
 
@@ -747,7 +747,7 @@ action ... right livelihood ... right effort ... right mindfulness ...
 right immersion with those who have right immersion."
 
 <!--pg-->
-### N 14.29 Ten Factored Path *Dasaṅgasutta*
+### SN 14.29 Ten Factored Path *Dasaṅgasutta*
 
 At Sāvatthī.
 
@@ -767,7 +767,7 @@ have right freedom."
 <!--pg-->
 ## Chapter Four
 
-### N 14.30 Four Elements *Catudhātusutta*
+### SN 14.30 Four Elements *Catudhātusutta*
 
 At one time the Buddha was staying near Sāvatthī in Jeta's
 Grove, Anāthapiṇḍika's monastery. ... "Mendicants, there
@@ -775,7 +775,7 @@ are these four elements. What four? The elements of earth, water, fire,
 and air. These are the four elements."
 
 <!--pg-->
-### N 14.31 Before Awakening *Pubbesambodhasutta*
+### SN 14.31 Before Awakening *Pubbesambodhasutta*
 
 At Sāvatthī.
 
@@ -811,7 +811,7 @@ Knowledge and vision arose in me: 'My freedom is unshakable; this is my
 last rebirth; now there'll be no more future lives.'"
 
 <!--pg-->
-### N 14.32 In Search of Gratification *Acariṁsutta*
+### SN 14.32 In Search of Gratification *Acariṁsutta*
 
 At Sāvatthī.
 
@@ -843,7 +843,7 @@ Knowledge and vision arose in me: 'My freedom is unshakable; this is my
 last rebirth; now there'll be no more future lives.'"
 
 <!--pg-->
-### N 14.33 If There Was No *Nocedaṁsutta*
+### SN 14.33 If There Was No *Nocedaṁsutta*
 
 At Sāvatthī.
 
@@ -875,7 +875,7 @@ this population with its ascetics and brahmins, its gods and
 humans---and they live detached, liberated, with a mind free of limits."
 
 <!--pg-->
-### N 14.34 Exclusively Painful *Ekantadukkhasutta*
+### SN 14.34 Exclusively Painful *Ekantadukkhasutta*
 
 At Sāvatthī.
 
@@ -900,7 +900,7 @@ because the air element is painful---soaked and steeped in pain and not
 steeped in pleasure---sentient beings do grow disillusioned with it."
 
 <!--pg-->
-### N 14.35 Taking Pleasure *Abhinandasutta*
+### SN 14.35 Taking Pleasure *Abhinandasutta*
 
 At Sāvatthī.
 
@@ -920,7 +920,7 @@ you don't take pleasure in suffering, I say you're exempt from
 suffering."
 
 <!--pg-->
-### N 14.36 Arising *Uppādasutta*
+### SN 14.36 Arising *Uppādasutta*
 
 At Sāvatthī.
 
@@ -942,7 +942,7 @@ suffering, the settling of diseases, and the ending of old age and
 death."
 
 <!--pg-->
-### N 14.37 Ascetics and Brahmins *Samaṇabrāhmaṇasutta*
+### SN 14.37 Ascetics and Brahmins *Samaṇabrāhmaṇasutta*
 
 At Sāvatthī.
 
@@ -959,7 +959,7 @@ ascetics and brahmins. Those venerables realize the goal of life as an
 ascetic or brahmin, and live having realized it with their own insight."
 
 <!--pg-->
-### N 14.38 Ascetics and Brahmins (2nd) *Dutiyasamaṇabrāhmaṇasutta*
+### SN 14.38 Ascetics and Brahmins (2nd) *Dutiyasamaṇabrāhmaṇasutta*
 
 At Sāvatthī.
 
@@ -974,7 +974,7 @@ There are ascetics and brahmins who do truly understand these four
 elements' origin, ending, gratification, drawback, and escape ..."
 
 <!--pg-->
-### N 14.39 Ascetics and Brahmins (3rd) *Tatiyasamaṇabrāhmaṇasutta*
+### SN 14.39 Ascetics and Brahmins (3rd) *Tatiyasamaṇabrāhmaṇasutta*
 
 At Sāvatthī.
 

@@ -3,7 +3,7 @@
 <!--pg-->
 ## The Chapter with Indaka
 
-### N 10.1 With Indaka *Indakasutta*
+### SN 10.1 With Indaka *Indakasutta*
 
 So I have heard. At one time the Buddha was staying near
 Rājagaha on Mount Indra's Peak, the haunt of the native
@@ -30,7 +30,7 @@ in verse:
 > the person in the mother's womb."
 
 <!--pg-->
-### N 10.2 With a Spirit Named Sakka *Sakkanāmasutta*
+### SN 10.2 With a Spirit Named Sakka *Sakkanāmasutta*
 
 At one time the Buddha was staying near Rājagaha, on the
 Vulture's Peak Mountain.
@@ -54,7 +54,7 @@ verse:
 > don't create attachments."
 
 <!--pg-->
-### N 10.3 With Spiky *Sūcilomasutta*
+### SN 10.3 With Spiky *Sūcilomasutta*
 
 At one time the Buddha was staying near Gayā on the
 cut-stone ledge in the haunt of Spiky the native spirit.
@@ -104,7 +104,7 @@ humans who could do that to me. But anyway, ask what you wish."
 > not crossed before, so as to not be reborn."
 
 <!--pg-->
-### N 10.4 With Maṇibhadda *Maṇibhaddasutta*
+### SN 10.4 With Maṇibhadda *Maṇibhaddasutta*
 
 At one time the Buddha was staying in the land of the Magadhans at the
 Maṇimālika Tree-shrine, the haunt of the native spirit
@@ -129,7 +129,7 @@ and recited this verse in the Buddha's presence:
 > they have no enmity for anyone."
 
 <!--pg-->
-### N 10.5 With Sānu *Sānusutta*
+### SN 10.5 With Sānu *Sānusutta*
 
 At one time the Buddha was staying near Sāvatthī in Jeta's
 Grove, Anāthapiṇḍika's monastery.
@@ -193,7 +193,7 @@ on that occasion she recited these verses:
 > would you want them to be burnt again?"
 
 <!--pg-->
-### N 10.6 With Piyaṅkara *Piyaṅkarasutta*
+### SN 10.6 With Piyaṅkara *Piyaṅkarasutta*
 
 At one time Venerable Sāriputta was staying near
 Sāvatthī in Jeta's Grove, Anāthapiṇḍika's
@@ -214,7 +214,7 @@ Piyaṅkara's Mother soothed her little child, saying:
 > and hopefully we'll be freed from the goblin realm."
 
 <!--pg-->
-### N 10.7 With Punabbasu *Punabbasusutta*
+### SN 10.7 With Punabbasu *Punabbasusutta*
 
 At one time the Buddha was staying near Sāvatthī in Jeta's
 Grove, Anāthapiṇḍika's monastery.
@@ -277,7 +277,7 @@ saying:
 > I have seen the noble truths!"
 
 <!--pg-->
-### N 10.8 With Sudatta *Sudattasutta*
+### SN 10.8 With Sudatta *Sudattasutta*
 
 At one time the Buddha was staying near Rājagaha in the
 Cool Grove.
@@ -356,7 +356,7 @@ to him, "Sir, I trust the Buddha slept well?"
 > having found peace of mind."
 
 <!--pg-->
-### N 10.9 With the Nun Sukkā (1st) *Paṭhamasukkāsutta*
+### SN 10.9 With the Nun Sukkā (1st) *Paṭhamasukkāsutta*
 
 At one time the Buddha was staying near Rājagaha, in the
 Bamboo Grove, the squirrels' feeding ground.
@@ -377,7 +377,7 @@ square, and on that occasion recited these verses:
 > like travelers enjoying a cool cloud."
 
 <!--pg-->
-### N 10.10 With the Nun Sukkā (2nd) *Dutiyasukkāsutta*
+### SN 10.10 With the Nun Sukkā (2nd) *Dutiyasukkāsutta*
 
 At one time the Buddha was staying near Rājagaha, in the
 Bamboo Grove, the squirrels' feeding ground.
@@ -393,7 +393,7 @@ square, and on that occasion recited these verses:
 > who is released from all ties."
 
 <!--pg-->
-### N 10.11 With the Nun Cīrā *Cīrāsutta*
+### SN 10.11 With the Nun Cīrā *Cīrāsutta*
 
 So I have heard. At one time the Buddha was staying near
 Rājagaha, in the Bamboo Grove, the squirrels' feeding
@@ -410,7 +410,7 @@ square, and on that occasion recited these verses:
 > who is released from all yokes."
 
 <!--pg-->
-### N 10.12 With Āḷavaka *Āḷavakasutta*
+### SN 10.12 With Āḷavaka *Āḷavakasutta*
 
 So I have heard. At one time the Buddha was staying near
 Āḷavī in the haunt of the native spirit

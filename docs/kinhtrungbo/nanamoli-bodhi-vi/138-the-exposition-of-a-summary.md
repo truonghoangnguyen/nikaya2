@@ -1,4 +1,4 @@
-# 138. Phân Tích Lời Tóm Tắt
+# MN 138. Phân Tích Lời Tóm Tắt
 ***(Kinh Uddesavibhanga)***
 
 [223] 1. TÔI NGHE NHƯ VẦY. Một thời Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong Vườn Jeta (Kỳ-đà), Khu vườn của Anāthapiṇḍika (Cấp Cô Độc). Tại đó, Đức Thế Tôn gọi các vị tỳ kheo (monks-bhikkhus-nhà sư): "Này các Tỳ kheo." "Bạch Thế Tôn," các vị ấy vâng đáp. Đức Thế Tôn nói điều này:

@@ -1,4 +1,4 @@
-# 64. Đại Kinh Giáo Giới Mālunkyāputta
+# MN 64. Đại Kinh Giáo Giới Mālunkyāputta
 ***(Mahāmālunkya Sutta)***
 
 1\.  Như vầy tôi nghe. Một thời Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), vườn ông Jeta (Kỳ-đà), khu vườn của ông Anāthapiṇḍika (Cấp Cô Độc). Tại đó, Ngài gọi các tỳ kheo (bhikkhus - nhà sư): "Này các tỳ kheo." - "Bạch Thế Tôn," họ đáp lời. Đức Thế Tôn nói điều này:

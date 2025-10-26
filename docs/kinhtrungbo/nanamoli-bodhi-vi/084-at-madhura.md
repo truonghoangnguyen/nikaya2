@@ -1,4 +1,4 @@
-# 84. Tại Madhurā
+# MN 84. Tại Madhurā
 ***(Kinh Madhurā - Madhurā Sutta)***
 
 1\.  Như vầy tôi nghe. Một thời, Tôn giả Ma-ha Ca-chiên-diên (Mahā Kaccāna) đang trú tại Madhurā (Ma-thâu-la), trong rừng Gundā. [^814]

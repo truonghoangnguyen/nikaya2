@@ -1,4 +1,4 @@
-# 108. Với Gopaka Moggallāna
+# MN 108. Với Gopaka Moggallāna
 ***(Kinh Gopakamoggallāna)***
 
 1\.  Như vầy tôi nghe. Một thời, Tôn giả A Nan đang trú tại Vương Xá, trong Trúc Lâm, nơi trú ẩn của loài sóc, không lâu sau khi Đức Thế Tôn nhập **đại niết bàn** (final Nibbāna - sự nhập diệt hoàn toàn của một vị Phật hay A-la-hán, chấm dứt vòng luân hồi). [^1031]

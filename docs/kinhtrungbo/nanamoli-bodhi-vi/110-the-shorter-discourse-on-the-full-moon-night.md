@@ -1,4 +1,4 @@
-# 110. Kinh Tiểu Kinh Đêm Rằm
+# MN 110. Kinh Tiểu Kinh Đêm Rằm
 ***(Cūlapunnama Sutta)***
 
 1\.  Như vầy tôi nghe. Một thời Đức Thế Tôn trú tại thành Xá-vệ (Sāvatthī), ở Đông Viên (Eastern Park), trong Lộc Mẫu Giảng Đường (Palace of Migāra's Mother).

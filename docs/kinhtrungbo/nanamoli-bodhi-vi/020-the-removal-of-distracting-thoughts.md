@@ -1,4 +1,4 @@
-# 20. Phương Pháp Loại Bỏ Những Suy Nghĩ Gây Xao Nhãng
+# MN 20. Phương Pháp Loại Bỏ Những Suy Nghĩ Gây Xao Nhãng
 ***(Vitakkasaṇthāna Sutta)***
 
 1\.  Tôi nghe như vầy. [^238] Một lần nọ, Đức Phật (The Blessed One) đang ở tại Sāvatthī, trong khu rừng Jeta, tu viện của ông Anāthapindika. Tại đó, ngài nói với các vị tỳ kheo (bhikkhus - các nhà sư) như sau: "Này các tỳ kheo." - "Bạch Thế Tôn," [119] họ đáp. Đức Phật nói điều này:

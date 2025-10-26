@@ -1,4 +1,4 @@
-# 59. Kinh Về Nhiều Loại Cảm Thọ
+# MN 59. Kinh Về Nhiều Loại Cảm Thọ
 ***(Bahuvedanīya Sutta)***
 
 1\.  Tôi nghe như vầy. Một thời, Đức Thế Tôn (The World-Honored One - Bậc được tôn kính trên đời) trú tại thành Xá-vệ (Sāvatthī), trong Vườn Cấp Cô Độc (Anāthapiṇḍika), Rừng cây Kỳ-đà (Jeta).

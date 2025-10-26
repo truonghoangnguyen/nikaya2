@@ -1,4 +1,4 @@
-# 113. Bậc Chân Nhân
+# MN 113. Bậc Chân Nhân
 ***(Kinh Sappurisa - Trung Bộ Kinh)***
 
 1\. Tôi nghe như vầy. Một thời Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong Vườn Jeta (Kỳ-đà), Khu vườn của Anāthapindika (Cấp Cô Độc). Tại đó, Ngài gọi các Tỳ kheo (bhikkhus - nhà sư): "Này các Tỳ kheo." - "Bạch Thế Tôn," các vị ấy vâng đáp. Đức Thế Tôn dạy như sau:

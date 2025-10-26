@@ -1,4 +1,4 @@
-# 86. Về Angulimāla
+# MN 86. Về Angulimāla
 ***(Kinh Angulimāla - Angulimāla Sutta)***
 
 1\.  Như vầy tôi nghe. Một thời Đức Thế Tôn trú tại thành Xá-vệ (Sāvatthī), trong Vườn cây Kỳ-đà (Jeta's Grove), khu vườn của ông Cấp Cô Độc (Anāthapiṇḍika).

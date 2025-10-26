@@ -1,4 +1,4 @@
-# 45. Kinh Tiểu Về Cách Thọ Trì Pháp
+# MN 45. Kinh Tiểu Về Cách Thọ Trì Pháp
 ***(Cūḷadhammasamādāna Sutta)***
 
 1\.  Như vầy tôi nghe. Một thời Thế Tôn trú ở Sāvatthī (Xá-vệ), tại Jetavana (Kỳ-đà Lâm), khu vườn của ông Anāthapiṇḍika (Cấp Cô Độc). Tại đó, Ngài gọi các tỳ kheo (monks-bhikkhus-nhà sư): "Này các tỳ kheo". - "Bạch Thế Tôn," họ đáp lời. Thế Tôn nói điều này:

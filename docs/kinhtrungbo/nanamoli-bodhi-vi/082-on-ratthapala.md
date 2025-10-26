@@ -1,4 +1,4 @@
-# 82. Về Ngài Raṭṭhapāla
+# MN 82. Về Ngài Raṭṭhapāla
 ***(Kinh Raṭṭhapāla)***
 
 1\.  Tôi nghe như vầy. Một thời Đức Thế Tôn (Blessed One - Bậc được tôn kính trên đời) đang du hành ở xứ Kuru cùng với một đại Tăng đoàn (Sangha - cộng đồng các vị sư) gồm các vị tỳ kheo (bhikkhus - monks-bhikkhus-nhà sư), và cuối cùng Ngài đến một thị trấn của xứ Kuru tên là Thullakoṭṭhita.

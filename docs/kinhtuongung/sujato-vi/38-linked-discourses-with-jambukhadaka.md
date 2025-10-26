@@ -3,7 +3,7 @@
 <!--pg-->
 ## Phẩm Jambukhādaka
 
-### N 38.1 Câu Hỏi về Sự Dập Tắt *Nibbānapañhāsutta*
+### SN 38.1 Câu Hỏi về Sự Dập Tắt *Nibbānapañhāsutta*
 
 Một thời, Tôn giả Xá Lợi Phất đang ở tại vùng đất của người Magadhan, gần ngôi làng nhỏ Nālaka. Bấy giờ, du sĩ Jambukhādaka đến gặp Tôn giả Xá Lợi Phất và chào hỏi ông. Sau khi chào hỏi và nói chuyện thân mật, ông ngồi xuống một bên và nói với Tôn giả Xá Lợi Phất:
 
@@ -22,7 +22,7 @@ Một thời, Tôn giả Xá Lợi Phất đang ở tại vùng đất của ng�
 "Thưa Tôn giả, đây là một con đường tốt đẹp, một phương pháp thực hành tốt đẹp, để chứng ngộ sự dập tắt này. Chỉ cần như vậy là đủ để siêng năng rồi."
 
 <!--pg-->
-### N 38.2 Câu Hỏi về Sự Hoàn Thiện *Arahattapañhāsutta*
+### SN 38.2 Câu Hỏi về Sự Hoàn Thiện *Arahattapañhāsutta*
 
 "Thưa Tôn giả Xá Lợi Phất, người ta nói về một thứ gọi là 'sự hoàn thiện'. Sự hoàn thiện là gì?"
 
@@ -39,7 +39,7 @@ Một thời, Tôn giả Xá Lợi Phất đang ở tại vùng đất của ng�
 "Thưa Tôn giả, đây là một con đường tốt đẹp, một phương pháp thực hành tốt đẹp, để chứng ngộ sự hoàn thiện này. Chỉ cần như vậy là đủ để siêng năng rồi."
 
 <!--pg-->
-### N 38.3 Người Nói Đúng Chánh Pháp *Dhammavādīpañhāsutta*
+### SN 38.3 Người Nói Đúng Chánh Pháp *Dhammavādīpañhāsutta*
 
 "Thưa Tôn giả Xá Lợi Phất, ai trên đời là người nói đúng Chánh pháp? Ai trên đời là người thực hành tốt? Ai là bậc Thánh trên đời?"
 
@@ -56,7 +56,7 @@ Một thời, Tôn giả Xá Lợi Phất đang ở tại vùng đất của ng�
 "Đây là một con đường tốt đẹp, một phương pháp thực hành tốt đẹp, để từ bỏ tham lam, sân hận, và si mê. Chỉ cần như vậy là đủ để siêng năng rồi."
 
 <!--pg-->
-### N 38.4 Mục Đích Là Gì *Kimatthiyasutta*
+### SN 38.4 Mục Đích Là Gì *Kimatthiyasutta*
 
 "Thưa Tôn giả Xá Lợi Phất, mục đích của việc sống đời sống phạm hạnh dưới sự hướng dẫn của Sa-môn Cồ-đàm là gì?"
 
@@ -67,7 +67,7 @@ Một thời, Tôn giả Xá Lợi Phất đang ở tại vùng đất của ng�
 "Có." ...
 
 <!--pg-->
-### N 38.5 An Ổn *Assāsappattasutta*
+### SN 38.5 An Ổn *Assāsappattasutta*
 
 "Thưa Tôn giả Xá Lợi Phất, người ta nói về một thứ gọi là 'đạt được sự an ổn'. Vào thời điểm nào thì một người đạt được sự an ổn?"
 
@@ -78,7 +78,7 @@ Một thời, Tôn giả Xá Lợi Phất đang ở tại vùng đất của ng�
 "Có." ...
 
 <!--pg-->
-### N 38.6 An Ổn Tối Thượng *Paramassāsappattasutta*
+### SN 38.6 An Ổn Tối Thượng *Paramassāsappattasutta*
 
 "Thưa Tôn giả Xá Lợi Phất, người ta nói về một thứ gọi là 'đạt được sự an ổn tối thượng'. Vào thời điểm nào thì một người đạt được sự an ổn tối thượng?"
 
@@ -89,7 +89,7 @@ Một thời, Tôn giả Xá Lợi Phất đang ở tại vùng đất của ng�
 "Có." ...
 
 <!--pg-->
-### N 38.7 Câu Hỏi về Cảm Giác *Vedanāpañhāsutta*
+### SN 38.7 Câu Hỏi về Cảm Giác *Vedanāpañhāsutta*
 
 "Thưa Tôn giả Xá Lợi Phất, người ta nói về một thứ gọi là 'cảm giác'. Cảm giác là gì?"
 
@@ -100,7 +100,7 @@ Một thời, Tôn giả Xá Lợi Phất đang ở tại vùng đất của ng�
 "Có." ...
 
 <!--pg-->
-### N 38.8 Câu Hỏi về Lậu Hoặc *Āsavapañhāsutta*
+### SN 38.8 Câu Hỏi về Lậu Hoặc *Āsavapañhāsutta*
 
 "Thưa Tôn giả Xá Lợi Phất, người ta nói về một thứ gọi là 'lậu hoặc'. Lậu hoặc là gì?"
 
@@ -111,7 +111,7 @@ Một thời, Tôn giả Xá Lợi Phất đang ở tại vùng đất của ng�
 "Có." ...
 
 <!--pg-->
-### N 38.9 Câu Hỏi về Vô Minh *Avijjāpañhāsutta*
+### SN 38.9 Câu Hỏi về Vô Minh *Avijjāpañhāsutta*
 
 "Thưa Tôn giả Xá Lợi Phất, người ta nói về một thứ gọi là 'vô minh'. Vô minh là gì?"
 
@@ -122,7 +122,7 @@ Một thời, Tôn giả Xá Lợi Phất đang ở tại vùng đất của ng�
 "Có." ...
 
 <!--pg-->
-### N 38.10 Câu Hỏi về Tham Ái *Taṇhāpañhāsutta*
+### SN 38.10 Câu Hỏi về Tham Ái *Taṇhāpañhāsutta*
 
 "Thưa Tôn giả Xá Lợi Phất, người ta nói về một thứ gọi là 'tham ái'. Tham ái là gì?"
 
@@ -133,7 +133,7 @@ Một thời, Tôn giả Xá Lợi Phất đang ở tại vùng đất của ng�
 "Có." ...
 
 <!--pg-->
-### N 38.11 Câu Hỏi về Bộc Lưu *Oghapañhāsutta*
+### SN 38.11 Câu Hỏi về Bộc Lưu *Oghapañhāsutta*
 
 "Thưa Tôn giả Xá Lợi Phất, người ta nói về một thứ gọi là 'bộc lưu'. Bộc lưu là gì?"
 
@@ -144,7 +144,7 @@ Một thời, Tôn giả Xá Lợi Phất đang ở tại vùng đất của ng�
 "Có." ...
 
 <!--pg-->
-### N 38.12 Câu Hỏi về Sự Bám Giữ *Upādānapañhāsutta*
+### SN 38.12 Câu Hỏi về Sự Bám Giữ *Upādānapañhāsutta*
 
 "Thưa Tôn giả Xá Lợi Phất, người ta nói về một thứ gọi là 'sự bám giữ'. Sự bám giữ là gì?"
 
@@ -155,7 +155,7 @@ Một thời, Tôn giả Xá Lợi Phất đang ở tại vùng đất của ng�
 "Có." ...
 
 <!--pg-->
-### N 38.13 Câu Hỏi về Các Cõi Tồn Tại *Bhavapañhāsutta*
+### SN 38.13 Câu Hỏi về Các Cõi Tồn Tại *Bhavapañhāsutta*
 
 "Thưa Tôn giả Xá Lợi Phất, người ta nói về những thứ gọi là 'các cõi tồn tại'. Các cõi tồn tại là gì?"
 
@@ -166,7 +166,7 @@ Một thời, Tôn giả Xá Lợi Phất đang ở tại vùng đất của ng�
 "Có." ...
 
 <!--pg-->
-### N 38.14 Câu Hỏi về Khổ *Dukkhapañhāsutta*
+### SN 38.14 Câu Hỏi về Khổ *Dukkhapañhāsutta*
 
 "Thưa Tôn giả Xá Lợi Phất, người ta nói về một thứ gọi là 'khổ'. Khổ là gì?"
 
@@ -177,7 +177,7 @@ Một thời, Tôn giả Xá Lợi Phất đang ở tại vùng đất của ng�
 "Có." ...
 
 <!--pg-->
-### N 38.15 Câu Hỏi về Thân Kiến *Sakkāyapañhāsutta*
+### SN 38.15 Câu Hỏi về Thân Kiến *Sakkāyapañhāsutta*
 
 "Thưa Tôn giả Xá Lợi Phất, người ta nói về một thứ gọi là 'thân kiến'. Thân kiến là gì?"
 
@@ -188,7 +188,7 @@ Một thời, Tôn giả Xá Lợi Phất đang ở tại vùng đất của ng�
 "Có." ...
 
 <!--pg-->
-### N 38.16 Câu Hỏi về Điều Khó Làm *Dukkarapañhāsutta*
+### SN 38.16 Câu Hỏi về Điều Khó Làm *Dukkarapañhāsutta*
 
 "Thưa Tôn giả Xá Lợi Phất, trong giáo pháp và giới luật này, điều gì là khó làm?"
 

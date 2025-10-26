@@ -1,4 +1,4 @@
-# 94. Kinh Gửi Ghotamukha
+# MN 94. Kinh Gửi Ghotamukha
 ***(Ghotamukha Sutta)***
 
 1\.  Tôi nghe như vầy. Một thời, Tôn giả Udena trú tại Ba La Nại, trong Vườn Xoài Khemiya.

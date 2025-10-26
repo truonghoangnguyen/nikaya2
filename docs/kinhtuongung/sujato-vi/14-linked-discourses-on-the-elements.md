@@ -3,7 +3,7 @@
 <!--pg-->
 ## Chương Về Sự Đa Dạng
 
-### N 14.1 Sự Đa Dạng Của Các Giới *Dhātunānattasutta*
+### SN 14.1 Sự Đa Dạng Của Các Giới *Dhātunānattasutta*
 
 Tại Sāvatthī.
 
@@ -14,7 +14,7 @@ Tại Sāvatthī.
 "Và thế nào là sự đa dạng của các giới? Nhãn giới, sắc giới, và nhãn thức giới. Nhĩ giới, thanh giới, và nhĩ thức giới. Tỷ giới, hương giới, và tỷ thức giới. Thiệt giới, vị giới, và thiệt thức giới. Thân giới, xúc giới, và thân thức giới. Ý giới, pháp giới, và ý thức giới. Đây được gọi là sự đa dạng của các giới."
 
 <!--pg-->
-### N 14.2 Sự Đa Dạng Của Các Xúc *Phassanānattasutta*
+### SN 14.2 Sự Đa Dạng Của Các Xúc *Phassanānattasutta*
 
 Tại Sāvatthī.
 
@@ -23,7 +23,7 @@ Tại Sāvatthī.
 Và làm thế nào sự đa dạng của các giới làm phát sinh sự đa dạng của các xúc? Nhãn giới làm phát sinh nhãn xúc. Nhĩ giới... tỷ giới... thiệt giới... thân giới... Ý giới làm phát sinh ý xúc. Đó là cách sự đa dạng của các giới làm phát sinh sự đa dạng của các xúc."
 
 <!--pg-->
-### N 14.3 Không Phải Sự Đa Dạng Của Các Xúc *Nophassanānattasutta*
+### SN 14.3 Không Phải Sự Đa Dạng Của Các Xúc *Nophassanānattasutta*
 
 Tại Sāvatthī.
 
@@ -32,7 +32,7 @@ Tại Sāvatthī.
 Và làm thế nào sự đa dạng của các giới làm phát sinh sự đa dạng của các xúc, trong khi sự đa dạng của các xúc không làm phát sinh sự đa dạng của các giới? Nhãn giới làm phát sinh nhãn xúc. Nhãn xúc không làm phát sinh nhãn giới. ... Ý giới làm phát sinh ý xúc. Ý xúc không làm phát sinh ý giới. Đó là cách sự đa dạng của các giới làm phát sinh sự đa dạng của các xúc, trong khi sự đa dạng của các xúc không làm phát sinh sự đa dạng của các giới."
 
 <!--pg-->
-### N 14.4 Sự Đa Dạng Của Các Cảm Thọ *Vedanānānattasutta*
+### SN 14.4 Sự Đa Dạng Của Các Cảm Thọ *Vedanānānattasutta*
 
 Tại Sāvatthī.
 
@@ -41,7 +41,7 @@ Tại Sāvatthī.
 Và làm thế nào sự đa dạng của các giới làm phát sinh sự đa dạng của các xúc, và sự đa dạng của các xúc làm phát sinh sự đa dạng của các cảm thọ? Nhãn giới làm phát sinh nhãn xúc. Nhãn xúc làm phát sinh cảm thọ sinh ra từ nhãn xúc. ... Ý giới làm phát sinh ý xúc. Ý xúc làm phát sinh cảm thọ sinh ra từ ý xúc. Đó là cách sự đa dạng của các giới làm phát sinh sự đa dạng của các xúc, và sự đa dạng của các xúc làm phát sinh sự đa dạng của các cảm thọ."
 
 <!--pg-->
-### N 14.5 Sự Đa Dạng Của Các Cảm Thọ (Thứ Hai) *Dutiyavedanānānattasutta*
+### SN 14.5 Sự Đa Dạng Của Các Cảm Thọ (Thứ Hai) *Dutiyavedanānānattasutta*
 
 Tại Sāvatthī.
 
@@ -50,7 +50,7 @@ Tại Sāvatthī.
 Và làm thế nào sự đa dạng của các giới làm phát sinh sự đa dạng của các xúc, và sự đa dạng của các xúc làm phát sinh sự đa dạng của các cảm thọ, trong khi sự đa dạng của các cảm thọ không làm phát sinh sự đa dạng của các xúc, và sự đa dạng của các xúc không làm phát sinh sự đa dạng của các giới? Nhãn giới làm phát sinh nhãn xúc. Nhãn xúc làm phát sinh cảm thọ sinh ra từ nhãn xúc. Cảm thọ sinh ra từ nhãn xúc không làm phát sinh nhãn xúc. Nhãn xúc không làm phát sinh nhãn giới. ... Ý giới làm phát sinh ý xúc. Ý xúc làm phát sinh cảm thọ sinh ra từ ý xúc. Cảm thọ sinh ra từ ý xúc không làm phát sinh ý xúc. Ý xúc không làm phát sinh ý giới. Đó là cách sự đa dạng của các giới làm phát sinh sự đa dạng của các xúc, và sự đa dạng của các xúc làm phát sinh sự đa dạng của các cảm thọ, trong khi sự đa dạng của các cảm thọ không làm phát sinh sự đa dạng của các xúc, và sự đa dạng của các xúc không làm phát sinh sự đa dạng của các giới."
 
 <!--pg-->
-### N 14.6 Sự Đa Dạng Của Các Giới Bên Ngoài *Bāhiradhātunānattasutta*
+### SN 14.6 Sự Đa Dạng Của Các Giới Bên Ngoài *Bāhiradhātunānattasutta*
 
 Tại Sāvatthī.
 
@@ -61,7 +61,7 @@ Là sắc giới (giới của cái thấy), thinh giới (giới của âm than
 Đây gọi là sự đa dạng của các giới."
 
 <!--pg-->
-### N 14.7 Sự Đa Dạng Của Các Nhận Thức *Saññānānattasutta*
+### SN 14.7 Sự Đa Dạng Của Các Nhận Thức *Saññānānattasutta*
 
 Tại Sāvatthī.
 
@@ -74,7 +74,7 @@ Sắc giới làm phát sinh nhận thức về sắc. Nhận thức về sắc 
 Đó là cách sự đa dạng của các giới làm phát sinh sự đa dạng của các nhận thức, và sự đa dạng của các nhận thức làm phát sinh sự đa dạng của các tư duy, và sự đa dạng của các tư duy làm phát sinh sự đa dạng của các mong muốn, và sự đa dạng của các mong muốn làm phát sinh sự đa dạng của các đam mê, và sự đa dạng của các đam mê làm phát sinh sự đa dạng của các sự tìm cầu."
 
 <!--pg-->
-### N 14.8 Không Phải Sự Đa Dạng Của Các Sự Tìm Cầu *Nopariyesanānānattasutta*
+### SN 14.8 Không Phải Sự Đa Dạng Của Các Sự Tìm Cầu *Nopariyesanānānattasutta*
 
 Tại Sāvatthī.
 
@@ -87,7 +87,7 @@ Sắc giới làm phát sinh nhận thức về sắc... Pháp giới làm phát
 Đó là cách sự đa dạng của các giới làm phát sinh sự đa dạng của các nhận thức... sự đa dạng của các nhận thức không làm phát sinh sự đa dạng của các giới."
 
 <!--pg-->
-### N 14.9 Sự Đa Dạng Của Sự Đạt Được *Bāhiraphassanānattasutta*
+### SN 14.9 Sự Đa Dạng Của Sự Đạt Được *Bāhiraphassanānattasutta*
 
 Tại Sāvatthī.
 
@@ -100,7 +100,7 @@ Sắc giới làm phát sinh nhận thức về sắc. Nhận thức về sắc 
 Đó là cách sự đa dạng của các giới làm phát sinh sự đa dạng của các nhận thức... sự đa dạng của các sự tìm cầu làm phát sinh sự đa dạng của sự đạt được."
 
 <!--pg-->
-### N 14.10 Không Phải Sự Đa Dạng Của Sự Đạt Được *Dutiyabāhiraphassanānattasutta*
+### SN 14.10 Không Phải Sự Đa Dạng Của Sự Đạt Được *Dutiyabāhiraphassanānattasutta*
 
 Tại Sāvatthī.
 
@@ -115,7 +115,7 @@ Sắc giới làm phát sinh nhận thức về sắc... Pháp giới làm phát
 <!--pg-->
 ## Chương Hai
 
-### N 14.11 Bảy Giới *Sattadhātusutta*
+### SN 14.11 Bảy Giới *Sattadhātusutta*
 
 Tại Sāvatthī.
 
@@ -130,7 +130,7 @@ Khi Ngài nói vậy, một trong các Tỷ kheo hỏi Đức Phật: "Thưa Th�
 "Quang giới, tịnh giới, không vô biên xứ giới, thức vô biên xứ giới, và vô sở hữu xứ giới là những sự chứng đắc có nhận thức. Phi tưởng phi phi tưởng xứ giới là sự chứng đắc chỉ còn lại dư tàn của các hiện tượng được tạo tác. Diệt thọ tưởng giới là sự chứng đắc của sự chấm dứt."
 
 <!--pg-->
-### N 14.12 Có Nguyên Nhân *Sanidānasutta*
+### SN 14.12 Có Nguyên Nhân *Sanidānasutta*
 
 Tại Sāvatthī.
 
@@ -159,7 +159,7 @@ Giả sử một người đánh rơi một ngọn đuốc đang cháy vào mộ
 Cũng vậy, một nhận thức bất thiện có thể sinh khởi trong một vị sa-môn hay bà-la-môn. Nếu họ nhanh chóng từ bỏ, loại bỏ, tiêu diệt, và xóa sạch nó, họ sẽ được hạnh phúc trong đời này, không còn phiền muộn, thống khổ, và sốt não. Và khi thân hoại mạng chung, sau khi chết, họ có thể được tái sinh vào một nơi tốt đẹp."
 
 <!--pg-->
-### N 14.13 Tại Nhà Gạch *Giñjakāvasathasutta*
+### SN 14.13 Tại Nhà Gạch *Giñjakāvasathasutta*
 
 Một thời Đức Phật đang ở tại Ñātika trong nhà gạch. Tại đó, Đức Phật gọi các Tỷ kheo: "Này các Tỷ kheo!"
 
@@ -176,7 +176,7 @@ Một giới trung bình làm phát sinh nhận thức trung bình, quan điểm
 Một giới cao thượng làm phát sinh nhận thức cao thượng, quan điểm cao thượng, tư duy cao thượng, ý định cao thượng, mục đích cao thượng, mong muốn cao thượng, một con người cao thượng, và lời nói cao thượng. Người đó giải thích, giảng dạy, khẳng định, thiết lập, làm rõ, phân tích, và tiết lộ những điều cao thượng. Ta nói rằng sự tái sinh của họ là cao thượng."
 
 <!--pg-->
-### N 14.14 Khuynh Hướng Xấu *Hīnādhimuttikasutta*
+### SN 14.14 Khuynh Hướng Xấu *Hīnādhimuttikasutta*
 
 Tại Sāvatthī.
 
@@ -189,7 +189,7 @@ Trong tương lai cũng vậy, chúng sanh sẽ do một giới mà hòa hợp, 
 Hiện tại cũng vậy, chúng sanh do một giới mà hòa hợp, tụ hội lại với nhau. Những người có khuynh hướng xấu hòa hợp và tụ hội với những người có khuynh hướng xấu. Những người có khuynh hướng tốt hòa hợp và tụ hội với những người có khuynh hướng tốt."
 
 <!--pg-->
-### N 14.15 Cùng Đi Kinh Hành *Caṅkamasutta*
+### SN 14.15 Cùng Đi Kinh Hành *Caṅkamasutta*
 
 Một thời Đức Phật đang ở gần Rājagaha, trên núi Linh Thứu. Bấy giờ, Tôn giả Sāriputta đang đi kinh hành cùng với một vài Tỷ kheo không xa Đức Phật. Tôn giả Mahāmoggallāna cũng đang làm như vậy, cũng như Tôn giả Mahākassapa, Tôn giả Anuruddha, Tôn giả Puṇṇa con trai của Mantāṇī, Tôn giả Upāli, Tôn giả Ānanda, và Devadatta.
 
@@ -232,7 +232,7 @@ Chúng sanh do một giới mà hòa hợp, tụ hội lại với nhau. Những
 Trong quá khứ, trong tương lai, và cả trong hiện tại, chúng sanh do một giới mà hòa hợp, tụ hội lại với nhau. Những người có khuynh hướng xấu hòa hợp và tụ hội với những người có khuynh hướng xấu. Những người có khuynh hướng tốt hòa hợp và tụ hội với những người có khuynh hướng tốt."
 
 <!--pg-->
-### N 14.16 Với Kệ Tụng *Sagāthāsutta*
+### SN 14.16 Với Kệ Tụng *Sagāthāsutta*
 
 Tại Sāvatthī.
 
@@ -268,7 +268,7 @@ Giống như sữa hòa hợp với sữa, dầu với dầu, bơ với bơ, m�
 > những người trí tuệ thực hành thiền định."
 
 <!--pg-->
-### N 14.17 Không Có Niềm Tin *Assaddhasaṁsandanasutta*
+### SN 14.17 Không Có Niềm Tin *Assaddhasaṁsandanasutta*
 
 Tại Sāvatthī.
 
@@ -283,7 +283,7 @@ Hiện tại cũng vậy, chúng sanh do một giới mà hòa hợp, tụ hội
 Chúng sanh do một giới mà hòa hợp, tụ hội lại với nhau: người có niềm tin với người có niềm tin, người biết xấu hổ với người biết xấu hổ, người biết sợ điều ác với người biết sợ điều ác, người có học với người có học, người siêng năng với người siêng năng, người có chánh niệm với người có chánh niệm, và người có trí tuệ với người có trí tuệ. Trong quá khứ... Trong tương lai... Hiện tại cũng vậy, chúng sanh do một giới mà hòa hợp, tụ hội lại với nhau. ..."
 
 <!--pg-->
-### N 14.18 Bắt Đầu Với Người Không Có Niềm Tin *Assaddhamūlakasutta*
+### SN 14.18 Bắt Đầu Với Người Không Có Niềm Tin *Assaddhamūlakasutta*
 
 Tại Sāvatthī.
 
@@ -302,7 +302,7 @@ Chúng sanh do một giới mà hòa hợp: người không có niềm tin... l�
 Chúng sanh do một giới mà hòa hợp: người không có niềm tin... thất niệm... không có trí tuệ. người có niềm tin... có chánh niệm... có trí tuệ."
 
 <!--pg-->
-### N 14.19 Bắt Đầu Với Người Không Biết Xấu Hổ *Ahirikamūlakasutta*
+### SN 14.19 Bắt Đầu Với Người Không Biết Xấu Hổ *Ahirikamūlakasutta*
 
 Tại Sāvatthī.
 
@@ -315,7 +315,7 @@ Tại Sāvatthī.
 ... không biết xấu hổ... thất niệm... không có trí tuệ. Người biết xấu hổ với người biết xấu hổ... có chánh niệm... có trí tuệ."
 
 <!--pg-->
-### N 14.20 Bắt Đầu Với Người Không Biết Sợ Điều Ác *Anottappamūlakasutta*
+### SN 14.20 Bắt Đầu Với Người Không Biết Sợ Điều Ác *Anottappamūlakasutta*
 
 Tại Sāvatthī.
 
@@ -326,7 +326,7 @@ Tại Sāvatthī.
 ... người không biết sợ điều ác với người không biết sợ điều ác... thất niệm... không có trí tuệ. Người biết sợ điều ác với người biết sợ điều ác... có chánh niệm... có trí tuệ."
 
 <!--pg-->
-### N 14.21 Bắt Đầu Với Người Ít Học *Appassutamūlakasutta*
+### SN 14.21 Bắt Đầu Với Người Ít Học *Appassutamūlakasutta*
 
 Tại Sāvatthī.
 
@@ -335,7 +335,7 @@ Tại Sāvatthī.
 ... người ít học với người ít học... thất niệm... không có trí tuệ. Người có học với người có học... có chánh niệm... có trí tuệ."
 
 <!--pg-->
-### N 14.22 Bắt Đầu Với Người Lười Biếng *Kusītamūlakasutta*
+### SN 14.22 Bắt Đầu Với Người Lười Biếng *Kusītamūlakasutta*
 
 Tại Sāvatthī.
 
@@ -346,7 +346,7 @@ Tại Sāvatthī.
 <!--pg-->
 ## Chương Về Các Cách Hành Động
 
-### N 14.23 Thiếu Định Tĩnh *Asamāhitasutta*
+### SN 14.23 Thiếu Định Tĩnh *Asamāhitasutta*
 
 Tại Sāvatthī.
 
@@ -355,7 +355,7 @@ Tại Sāvatthī.
 Người có niềm tin với người có niềm tin... biết xấu hổ... biết sợ điều ác... có định tĩnh... và người có trí tuệ với người có trí tuệ."
 
 <!--pg-->
-### N 14.24 Không Có Đạo Đức *Dussīlasutta*
+### SN 14.24 Không Có Đạo Đức *Dussīlasutta*
 
 Tại Sāvatthī.
 
@@ -364,7 +364,7 @@ Tại Sāvatthī.
 Người có niềm tin với người có niềm tin... biết xấu hổ... biết sợ điều ác... có đạo đức... và người có trí tuệ với người có trí tuệ."
 
 <!--pg-->
-### N 14.25 Năm Giới *Pañcasikkhāpadasutta*
+### SN 14.25 Năm Giới *Pañcasikkhāpadasutta*
 
 Tại Sāvatthī.
 
@@ -373,7 +373,7 @@ Tại Sāvatthī.
 Những người từ bỏ sát sanh... từ bỏ trộm cắp... từ bỏ tà dâm... từ bỏ nói dối... những người từ bỏ dùng bia, rượu, và các chất gây say với những người từ bỏ dùng bia, rượu, và các chất gây say."
 
 <!--pg-->
-### N 14.26 Bảy Con Đường Hành Động *Sattakammapathasutta*
+### SN 14.26 Bảy Con Đường Hành Động *Sattakammapathasutta*
 
 Tại Sāvatthī.
 
@@ -382,7 +382,7 @@ Tại Sāvatthī.
 Những người từ bỏ sát sanh... từ bỏ trộm cắp... từ bỏ tà dâm... từ bỏ nói dối... từ bỏ nói lời chia rẽ... từ bỏ nói lời thô ác... từ bỏ nói lời vô ích với những người từ bỏ nói lời vô ích."
 
 <!--pg-->
-### N 14.27 Mười Con Đường Hành Động *Dasakammapathasutta*
+### SN 14.27 Mười Con Đường Hành Động *Dasakammapathasutta*
 
 Tại Sāvatthī.
 
@@ -391,7 +391,7 @@ Tại Sāvatthī.
 Những người từ bỏ sát sanh... từ bỏ trộm cắp... từ bỏ tà dâm... từ bỏ nói dối... từ bỏ nói lời chia rẽ... từ bỏ nói lời thô ác... từ bỏ nói lời vô ích... không tham lam... không ác ý... có chánh kiến với những người có chánh kiến."
 
 <!--pg-->
-### N 14.28 Bát Chánh Đạo *Aṭṭhaṅgikasutta*
+### SN 14.28 Bát Chánh Đạo *Aṭṭhaṅgikasutta*
 
 Tại Sāvatthī.
 
@@ -400,7 +400,7 @@ Tại Sāvatthī.
 Những người có chánh kiến... chánh tư duy... chánh ngữ... chánh nghiệp... chánh mạng... chánh tinh tấn... chánh niệm... chánh định với những người có chánh định."
 
 <!--pg-->
-### N 14.29 Con Đường Mười Yếu Tố *Dasaṅgasutta*
+### SN 14.29 Con Đường Mười Yếu Tố *Dasaṅgasutta*
 
 Tại Sāvatthī.
 
@@ -413,12 +413,12 @@ Những người có chánh kiến... chánh tư duy... chánh ngữ... chánh n
 <!--pg-->
 ## Chương Bốn
 
-### N 14.30 Bốn Giới *Catudhātusutta*
+### SN 14.30 Bốn Giới *Catudhātusutta*
 
 Một thời Đức Phật đang ở gần Sāvatthī trong Vườn của Jeta, tu viện của Anāthapiṇḍika. ... "Này các Tỷ kheo, có bốn giới này. Bốn giới nào? Địa giới, thủy giới, hỏa giới, và phong giới. Đây là bốn giới."
 
 <!--pg-->
-### N 14.31 Trước Khi Giác Ngộ *Pubbesambodhasutta*
+### SN 14.31 Trước Khi Giác Ngộ *Pubbesambodhasutta*
 
 Tại Sāvatthī.
 
@@ -433,7 +433,7 @@ Nhưng khi Ta đã thực sự hiểu rõ vị ngọt, sự nguy hại, và sự
 Tri kiến và tuệ giác đã khởi lên trong Ta: 'Sự giải thoát của Ta là bất động; đây là đời sống cuối cùng của Ta; nay không còn tái sinh nữa.'"
 
 <!--pg-->
-### N 14.32 Tìm Kiếm Vị Ngọt *Acariṁsutta*
+### SN 14.32 Tìm Kiếm Vị Ngọt *Acariṁsutta*
 
 Tại Sāvatthī.
 
@@ -448,7 +448,7 @@ Nhưng khi Ta đã thực sự hiểu rõ vị ngọt, sự nguy hại, và sự
 Tri kiến và tuệ giác đã khởi lên trong Ta: 'Sự giải thoát của Ta là bất động; đây là đời sống cuối cùng của Ta; nay không còn tái sinh nữa.'"
 
 <!--pg-->
-### N 14.33 Nếu Không Có *Nocedaṁsutta*
+### SN 14.33 Nếu Không Có *Nocedaṁsutta*
 
 Tại Sāvatthī.
 
@@ -461,7 +461,7 @@ Chừng nào chúng sanh chưa thực sự hiểu rõ vị ngọt, sự nguy h�
 Nhưng khi chúng sanh thực sự hiểu rõ vị ngọt, sự nguy hại, và sự thoát ly của bốn giới này đúng như chúng là, họ đã thoát khỏi thế giới này—với các vị trời, Ma vương, và Phạm thiên, quần chúng này với các sa-môn và bà-la-môn, các vị trời và loài người—và họ sống tách biệt, giải thoát, với một tâm trí không giới hạn."
 
 <!--pg-->
-### N 14.34 Hoàn Toàn Đau Khổ *Ekantadukkhasutta*
+### SN 14.34 Hoàn Toàn Đau Khổ *Ekantadukkhasutta*
 
 Tại Sāvatthī.
 
@@ -474,7 +474,7 @@ Nếu địa giới hoàn toàn vui thích—thấm đẫm và ngập chìm tron
 Nếu thủy giới... Nếu hỏa giới... Nếu phong giới hoàn toàn vui thích—thấm đẫm và ngập chìm trong vui thích và không thấm đẫm trong đau khổ—chúng sanh sẽ không chán ngán nó. Nhưng vì phong giới là đau khổ—thấm đẫm và ngập chìm trong đau khổ và không thấm đẫm trong vui thích—chúng sanh chán ngán nó."
 
 <!--pg-->
-### N 14.35 Vui Thích *Abhinandasutta*
+### SN 14.35 Vui Thích *Abhinandasutta*
 
 Tại Sāvatthī.
 
@@ -483,7 +483,7 @@ Tại Sāvatthī.
 Nếu các ông không vui thích trong địa giới, các ông không vui thích trong đau khổ. Nếu các ông không vui thích trong đau khổ, Ta nói rằng các ông thoát khỏi đau khổ. Nếu các ông không vui thích trong thủy giới... Nếu các ông không vui thích trong hỏa giới... Nếu các ông không vui thích trong phong giới, các ông không vui thích trong đau khổ. Nếu các ông không vui thích trong đau khổ, Ta nói rằng các ông thoát khỏi đau khổ."
 
 <!--pg-->
-### N 14.36 Sự Sinh Khởi *Uppādasutta*
+### SN 14.36 Sự Sinh Khởi *Uppādasutta*
 
 Tại Sāvatthī.
 
@@ -492,7 +492,7 @@ Tại Sāvatthī.
 Sự chấm dứt, lắng dịu, và kết thúc của địa giới là sự chấm dứt của đau khổ, sự lắng dịu của bệnh tật, và sự kết thúc của già và chết. Sự chấm dứt, lắng dịu, và kết thúc của thủy giới... Sự chấm dứt, lắng dịu, và kết thúc của hỏa giới... Sự chấm dứt, lắng dịu, và kết thúc của phong giới là sự chấm dứt của đau khổ, sự lắng dịu của bệnh tật, và sự kết thúc của già và chết."
 
 <!--pg-->
-### N 14.37 Sa-môn và Bà-la-môn *Samaṇabrāhmaṇasutta*
+### SN 14.37 Sa-môn và Bà-la-môn *Samaṇabrāhmaṇasutta*
 
 Tại Sāvatthī.
 
@@ -501,7 +501,7 @@ Tại Sāvatthī.
 Có những sa-môn và bà-la-môn thực sự hiểu rõ vị ngọt, sự nguy hại, và sự thoát ly của bốn giới này. Ta coi họ là những sa-môn và bà-la-môn chân chính. Những vị tôn giả đó nhận ra mục đích của đời sống sa-môn hay bà-la-môn, và sống sau khi đã nhận ra nó bằng chính tuệ giác của mình."
 
 <!--pg-->
-### N 14.38 Sa-môn và Bà-la-môn (Thứ Hai) *Dutiyasamaṇabrāhmaṇasutta*
+### SN 14.38 Sa-môn và Bà-la-môn (Thứ Hai) *Dutiyasamaṇabrāhmaṇasutta*
 
 Tại Sāvatthī.
 
@@ -512,7 +512,7 @@ Tại Sāvatthī.
 Có những sa-môn và bà-la-môn thực sự hiểu rõ sự sinh khởi, sự chấm dứt, vị ngọt, sự nguy hại, và sự thoát ly của bốn giới này..."
 
 <!--pg-->
-### N 14.39 Sa-môn và Bà-la-môn (Thứ Ba) *Tatiyasamaṇabrāhmaṇasutta*
+### SN 14.39 Sa-môn và Bà-la-môn (Thứ Ba) *Tatiyasamaṇabrāhmaṇasutta*
 
 Tại Sāvatthī.
 

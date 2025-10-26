@@ -3,7 +3,7 @@
 <!--pg-->
 ## The Chapter of Abbreviated Texts on the Ganges
 
-### N 50.1--12 Sloping East, Etc. *Gaṅgāpeyyālavagga*
+### SN 50.1--12 Sloping East, Etc. *Gaṅgāpeyyālavagga*
 
 "Mendicants, there are these five powers. What five? The powers of
 faith, energy, mindfulness, immersion, and wisdom. These are the five
@@ -26,7 +26,7 @@ slopes, and inclines to extinguishment."
 <!--pg-->
 ## The Chapter on Diligence
 
-### N 50.13--22 Diligence *Appamādavagga*
+### SN 50.13--22 Diligence *Appamādavagga*
 
 **(Tell in full as in the chapter on diligence at SN 45.139--148.)**
 
@@ -38,7 +38,7 @@ slopes, and inclines to extinguishment."
 <!--pg-->
 ## The Chapter on Hard Work
 
-### N 50.23--34 Hard Work *Balakaraṇīyavagga*
+### SN 50.23--34 Hard Work *Balakaraṇīyavagga*
 
 **(Tell in full as in the chapter on hard work at SN 45.149--160.)**
 
@@ -50,7 +50,7 @@ slopes, and inclines to extinguishment."
 <!--pg-->
 ## The Chapter on Searches
 
-### N 50.35--44 Searches *Esanāvagga*
+### SN 50.35--44 Searches *Esanāvagga*
 
 **(Tell in full as in the chapter on searches at SN 45.161--170.)**
 
@@ -62,7 +62,7 @@ slopes, and inclines to extinguishment."
 <!--pg-->
 ## The Chapter on Floods
 
-### N 50.45--54 Floods, Etc. *Oghavagga*
+### SN 50.45--54 Floods, Etc. *Oghavagga*
 
 "Mendicants, there are five higher fetters. What five? Desire for
 rebirth in the realm of luminous form, desire for rebirth in the
@@ -84,7 +84,7 @@ discourse.)*
 <!--pg-->
 ## Another Chapter of Abbreviated Texts on the Ganges
 
-### N 50.55--66 Sloping East, Etc. *Punagaṅgāpeyyālavagga*
+### SN 50.55--66 Sloping East, Etc. *Punagaṅgāpeyyālavagga*
 
 "Mendicants, the Ganges river slants, slopes, and inclines to the east.
 In the same way, a mendicant who develops and cultivates the five powers
@@ -111,7 +111,7 @@ removal of greed version.)*
 <!--pg-->
 ## Another Chapter on Diligence
 
-### N 50.67--76 Another Chapter on Diligence *Punaappamādavagga*
+### SN 50.67--76 Another Chapter on Diligence *Punaappamādavagga*
 
 ::: small
 *(This text consists of the title only. Tell in full as in SN
@@ -121,14 +121,14 @@ removal of greed version.)*
 <!--pg-->
 ## Another Chapter on Hard Work
 
-### N 50.77--88 Another Chapter on Hard Work *Punabalakaraṇīyavagga*
+### SN 50.77--88 Another Chapter on Hard Work *Punabalakaraṇīyavagga*
 
 **(Tell in full as in SN 45.149--160, removal of greed version.)**
 
 <!--pg-->
 ## Another Chapter on Searches
 
-### N 50.89--98 Another Series on Searches, Etc. *Punaesanāvagga*
+### SN 50.89--98 Another Series on Searches, Etc. *Punaesanāvagga*
 
 **(Tell in full as in SN 45.161--170, removal of greed version.)**
 
@@ -140,7 +140,7 @@ removal of greed version.)*
 <!--pg-->
 ## Another Chapter on Floods
 
-### N 50.99--108 Another Series on Floods, Etc. *Punaoghavagga*
+### SN 50.99--108 Another Series on Floods, Etc. *Punaoghavagga*
 
 "Mendicants, there are five higher fetters. What five? Desire for
 rebirth in the realm of luminous form, desire for rebirth in the

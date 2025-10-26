@@ -3,7 +3,7 @@
 <!--pg-->
 ## The Chapter on the Similes
 
-### N 20.1 A Roof Peak *Kūṭasutta*
+### SN 20.1 A Roof Peak *Kūṭasutta*
 
 So I have heard. At one time the Buddha was staying near
 Sāvatthī in Jeta's Grove, Anāthapiṇḍika's
@@ -21,7 +21,7 @@ So you should train like this: 'We will stay diligent.' That's how you
 should train."
 
 <!--pg-->
-### N 20.2 A Fingernail *Nakhasikhasutta*
+### SN 20.2 A Fingernail *Nakhasikhasutta*
 
 At Sāvatthī.
 
@@ -40,7 +40,7 @@ So you should train like this: 'We will stay diligent.' That's how you
 should train."
 
 <!--pg-->
-### N 20.3 Families *Kulasutta*
+### SN 20.3 Families *Kulasutta*
 
 At Sāvatthī.
 
@@ -57,7 +57,7 @@ consolidate it, and properly implement it.' That's how you should
 train."
 
 <!--pg-->
-### N 20.4 Rice Pots *Okkhāsutta*
+### SN 20.4 Rice Pots *Okkhāsutta*
 
 At Sāvatthī.
 
@@ -72,7 +72,7 @@ consolidate it, and properly implement it.' That's how you should
 train."
 
 <!--pg-->
-### N 20.5 A Spear *Sattisutta*
+### SN 20.5 A Spear *Sattisutta*
 
 At Sāvatthī.
 
@@ -97,7 +97,7 @@ consolidate it, and properly implement it.' That's how you should
 train."
 
 <!--pg-->
-### N 20.6 The Archers *Dhanuggahasutta*
+### SN 20.6 The Archers *Dhanuggahasutta*
 
 At Sāvatthī.
 
@@ -124,7 +124,7 @@ So you should train like this: 'We will stay diligent.' That's how you
 should train."
 
 <!--pg-->
-### N 20.7 The Drum Peg *Āṇisutta*
+### SN 20.7 The Drum Peg *Āṇisutta*
 
 At Sāvatthī.
 
@@ -155,7 +155,7 @@ understand, and we will think those teachings are worth learning and
 memorizing.' That's how you should train."
 
 <!--pg-->
-### N 20.8 Wood Blocks *Kaliṅgarasutta*
+### SN 20.8 Wood Blocks *Kaliṅgarasutta*
 
 So I have heard. At one time the Buddha was staying near
 Vesālī, at the Great Wood, in the hall with the peaked
@@ -184,7 +184,7 @@ pillows, and we will meditate diligently and keenly.' That's how you
 should train."
 
 <!--pg-->
-### N 20.9 A Bull Elephant *Nāgasutta*
+### SN 20.9 A Bull Elephant *Nāgasutta*
 
 So I have heard. At one time the Buddha was staying near
 Sāvatthī in Jeta's Grove, Anāthapiṇḍika's
@@ -235,7 +235,7 @@ untied, uninfatuated, unattached, seeing the drawbacks, and
 understanding the escape.' That's how you should train."
 
 <!--pg-->
-### N 20.10 A Cat *Biḷārasutta*
+### SN 20.10 A Cat *Biḷārasutta*
 
 At Sāvatthī.
 
@@ -272,7 +272,7 @@ alms guarding body, speech, and mind, establishing mindfulness, and
 restraining the sense faculties.' That's how you should train."
 
 <!--pg-->
-### N 20.11 A Jackal *Siṅgālasutta*
+### SN 20.11 A Jackal *Siṅgālasutta*
 
 At Sāvatthī.
 
@@ -290,7 +290,7 @@ So you should train like this: 'We will stay diligent.' That's how you
 should train."
 
 <!--pg-->
-### N 20.12 A Jackal (2nd) *Dutiyasiṅgālasutta*
+### SN 20.12 A Jackal (2nd) *Dutiyasiṅgālasutta*
 
 At Sāvatthī.
 

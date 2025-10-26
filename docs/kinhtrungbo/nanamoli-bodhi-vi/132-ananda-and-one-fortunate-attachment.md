@@ -1,4 +1,4 @@
-# 132. Kinh Ānanda và Nhất Dạ Hiền Giả
+# MN 132. Kinh Ānanda và Nhất Dạ Hiền Giả
 ***(Ānandabhaddekaratta Sutta)***
 
 1\.  Tôi nghe như vầy. Một thời Đức Thế Tôn trú tại thành Xá-vệ (Sāvatthī), trong Rừng Kỳ-đà (Jeta), Vườn Cấp Cô Độc (Anāthapiṇḍika).

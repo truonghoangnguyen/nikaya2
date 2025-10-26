@@ -1,4 +1,4 @@
-# 29. Bài Kinh Lớn Về Ví Dụ Lõi Cây
+# MN 29. Bài Kinh Lớn Về Ví Dụ Lõi Cây
 ***(Mahāsāropama Sutta)***
 
 [192] 1. Tôi nghe như vầy. Một thời, Đức Thế Tôn trú tại Rājagaha (Vương Xá) trên núi Linh Thứu; không lâu sau khi Devadatta (Đề-bà-đạt-đa) rời đi. [^346] Tại đó, nhắc đến Devadatta, Đức Thế Tôn nói với các tỳ kheo (monks-bhikkhus-nhà sư) như sau:

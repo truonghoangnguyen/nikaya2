@@ -1,14 +1,16 @@
+// [slug].paths.js
+
 import tmcmnvi from './tmc.js';
-import fs from 'node:fs/promises'; // Dùng fs/promises để code gọn hơn với async/await
+import fs from 'node:fs/promises';
 import path from 'node:path';
 import MarkdownIt from 'markdown-it';
 import anchor from 'markdown-it-anchor';
 import markdownItAttrs from 'markdown-it-attrs';
 
-// --- Khởi tạo markdown-it giống hệt như trong component của bạn ---
-// Bạn có thể tạo một file utils riêng để chia sẻ cấu hình này nếu muốn
+// --- Bắt đầu: Phần khởi tạo MarkdownIt ---
+// Đảm bảo phần này giống hệt cấu hình bạn muốn
 const slugAnchor = (s) => {
-  // Giả sử bạn có hàm slugify tương tự ở đây
+  // Đây là một hàm slugify cơ bản, bạn có thể thay thế bằng hàm của riêng bạn
   return encodeURIComponent(String(s).trim().toLowerCase().replace(/\s+/g, '-'));
 };
 
@@ -29,13 +31,21 @@ const mdRight = new MarkdownIt({
   linkify: true,
   typographer: true
 });
+// --- Kết thúc: Phần khởi tạo MarkdownIt ---
 
-// Hàm helper để đọc file và render markdown
-async function readAndRenderMarkdown(filePath, mdInstance) {
+
+/**
+ * Hàm helper để đọc file, xóa frontmatter và render thành HTML.
+ * @param {string} relativePath - Đường dẫn tương đối từ thư mục docs (ví dụ: /kinhtrungbo/...)
+ * @param {MarkdownIt} mdInstance - Instance của MarkdownIt để sử dụng
+ * @returns {Promise<string>} - Chuỗi HTML đã được render
+ */
+async function readAndRenderMarkdown(relativePath, mdInstance) {
   try {
-    // VitePress chạy từ thư mục gốc của project, nên cần resolve path từ đó
-    // Giả sử các file markdown của bạn nằm trong thư mục `docs`
-    const fullPath = path.resolve(process.cwd(), 'docs', filePath.startsWith('/') ? filePath.substring(1) : filePath);
+    // VitePress chạy từ thư mục gốc của project.
+    // Giả sử các file markdown của bạn nằm trong thư mục `docs`.
+    // Nếu thư mục của bạn có tên khác, hãy thay 'docs' bằng tên đúng.
+    const fullPath = path.resolve(process.cwd(), 'docs', relativePath.startsWith('/') ? relativePath.substring(1) : relativePath);
 
     let content = await fs.readFile(fullPath, 'utf-8');
 
@@ -44,40 +54,43 @@ async function readAndRenderMarkdown(filePath, mdInstance) {
 
     return mdInstance.render(content);
   } catch (e) {
-    console.error(`Error reading or rendering file: ${filePath}`, e);
-    return ''; // Trả về chuỗi rỗng nếu có lỗi
+    console.error(`Lỗi khi đọc hoặc render file: ${relativePath}`, e);
+    return '<p>Lỗi khi tải nội dung.</p>'; // Trả về thông báo lỗi
   }
 }
 
 export default {
-  // Chuyển hàm paths thành async
   async paths() {
-    // Dùng Promise.all để xử lý tất cả các trang song song, tăng tốc độ build
-    return Promise.all(
-      tmcmnvi.map(async (page) => {
-        // Lấy data gốc
+    // Dùng Promise.all để xử lý tất cả các trang song song, tăng tốc độ
+    const pages = tmcmnvi.map(async (page) => {
+      // Chỉ pre-render HTML khi đang trong quá trình build
+      if (process.env.NODE_ENV === 'production') {
         const { data } = page.params;
 
-        // Đọc và render nội dung file left và right
-        const leftHtml = await readAndRenderMarkdown(data.left, mdLeft);
-        const rightHtml = await readAndRenderMarkdown(data.right, mdRight);
+        // Đọc và render nội dung cho cả hai cột
+        const [leftHtml, rightHtml] = await Promise.all([
+            readAndRenderMarkdown(data.left, mdLeft),
+            readAndRenderMarkdown(data.right, mdRight)
+        ]);
 
-        // Tạo một object params mới với dữ liệu đã được pre-render
+        // Trả về params mới với dữ liệu HTML đã được thêm vào
         return {
           params: {
-            ...page.params, // Giữ lại slug và các params khác
+            ...page.params,
             data: {
-              ...data, // Giữ lại data cũ như title, link...
-              // Thêm các trường mới chứa HTML đã render
-              leftHtml: leftHtml,
-              rightHtml: rightHtml,
-              // Không cần truyền path nữa, nhưng bạn có thể giữ lại để tạo link [source]
-              // left: data.left,
-              // right: data.right
+              ...data,
+              leftHtml, // Thêm prop leftHtml
+              rightHtml, // Thêm prop rightHtml
             }
           }
         };
-      })
-    );
+      } else {
+        // Trong môi trường dev, trả về dữ liệu gốc không thay đổi.
+        // Component sẽ tự fetch và render phía client.
+        return page;
+      }
+    });
+
+    return Promise.all(pages);
   }
 }

@@ -3,7 +3,7 @@
 <!--pg-->
 ## Chapter One
 
-### N 11.1 With Suvīra *Suvīrasutta*
+### SN 11.1 With Suvīra *Suvīrasutta*
 
 So I have heard. At one time the Buddha was staying near
 Sāvatthī in Jeta's Grove, Anāthapiṇḍika's
@@ -70,7 +70,7 @@ make an effort to attain the unattained, achieve the unachieved, and
 realize the unrealized!"
 
 <!--pg-->
-### N 11.2 With Susīma *Susīmasutta*
+### SN 11.2 With Susīma *Susīmasutta*
 
 At Sāvatthī.
 
@@ -127,7 +127,7 @@ make an effort to attain the unattained, achieve the unachieved, and
 realize the unrealized!"
 
 <!--pg-->
-### N 11.3 The Banner's Crest *Dhajaggasutta*
+### SN 11.3 The Banner's Crest *Dhajaggasutta*
 
 At Sāvatthī.
 
@@ -209,7 +209,7 @@ say:
 > and goosebumps will be no more."
 
 <!--pg-->
-### N 11.4 With Vepacitti *Vepacittisutta*
+### SN 11.4 With Vepacitti *Vepacittisutta*
 
 At Sāvatthī.
 
@@ -298,7 +298,7 @@ But since you have gone forth in such a well explained teaching and
 training, it would be truly beautiful for you to be patient and gentle!"
 
 <!--pg-->
-### N 11.5 Victory by Good Speech *Subhāsitajayasutta*
+### SN 11.5 Victory by Good Speech *Subhāsitajayasutta*
 
 At Sāvatthī.
 
@@ -396,7 +396,7 @@ Sakka, lord of gods, wins victory by fine words!'
 And that's how Sakka came to win victory by fine words."
 
 <!--pg-->
-### N 11.6 Bird Nests *Kulāvakasutta*
+### SN 11.6 Bird Nests *Kulāvakasutta*
 
 At Sāvatthī.
 
@@ -422,7 +422,7 @@ retreated right away to the citadel of the titans.
 And that's how Sakka came to win victory by principle."
 
 <!--pg-->
-### N 11.7 Not Betray *Nadubbhiyasutta*
+### SN 11.7 Not Betray *Nadubbhiyasutta*
 
 At Sāvatthī.
 
@@ -448,7 +448,7 @@ Vepacitti, you're caught!'
 > anyone who betrays you, Sujā's husband.'"
 
 <!--pg-->
-### N 11.8 Verocana, Lord of Titans *Verocanaasurindasutta*
+### SN 11.8 Verocana, Lord of Titans *Verocanaasurindasutta*
 
 Near Sāvatthī in Jeta's Grove.
 
@@ -484,7 +484,7 @@ recited this verse in the Buddha's presence:
 > none better than patience is found."
 
 <!--pg-->
-### N 11.9 Seers in the Wilderness *Araññāyatanaisisutta*
+### SN 11.9 Seers in the Wilderness *Araññāyatanaisisutta*
 
 At Sāvatthī.
 
@@ -514,7 +514,7 @@ Then those seers addressed Sakka in verse:
 > The gods don't see it as repulsive.'"
 
 <!--pg-->
-### N 11.10 Seers by the Ocean *Samuddakasutta*
+### SN 11.10 Seers by the Ocean *Samuddakasutta*
 
 At Sāvatthī.
 
@@ -564,7 +564,7 @@ that night."
 <!--pg-->
 ## Chapter Two
 
-### N 11.11 Vows *Vatapadasutta*
+### SN 11.11 Vows *Vatapadasutta*
 
 At Sāvatthī.
 
@@ -596,7 +596,7 @@ Sakka.
 > say they really are a true person."
 
 <!--pg-->
-### N 11.12 Sakka's Names *Sakkanāmasutta*
+### SN 11.12 Sakka's Names *Sakkanāmasutta*
 
 Near Sāvatthī in Jeta's Grove. There the Buddha said to the
 mendicants:
@@ -650,7 +650,7 @@ Sakka.
 > say they really are a true person."
 
 <!--pg-->
-### N 11.13 With Mahāli *Mahālisutta*
+### SN 11.13 With Mahāli *Mahālisutta*
 
 So I have heard. At one time the Buddha was staying near
 Vesālī, at the Great Wood, in the hall with the peaked
@@ -718,7 +718,7 @@ Sakka.
 > say they really are a true person."
 
 <!--pg-->
-### N 11.14 Poor *Daliddasutta*
+### SN 11.14 Poor *Daliddasutta*
 
 At one time the Buddha was staying near Rājagaha, in the
 Bamboo Grove, the squirrels' feeding ground. There the Buddha addressed
@@ -769,7 +769,7 @@ this verse:
 > remembering the instructions of the Buddhas.'"
 
 <!--pg-->
-### N 11.15 Delightful *Rāmaṇeyyakasutta*
+### SN 11.15 Delightful *Rāmaṇeyyakasutta*
 
 Near Sāvatthī in Jeta's Grove.
 
@@ -787,7 +787,7 @@ side, and said to him, "Sir, what is a delightful place?"
 > is a delightful place."
 
 <!--pg-->
-### N 11.16 Sponsoring Sacrifice *Yajamānasutta*
+### SN 11.16 Sponsoring Sacrifice *Yajamānasutta*
 
 At one time the Buddha was staying near Rājagaha, on the
 Vulture's Peak Mountain.
@@ -811,7 +811,7 @@ side, and addressed him in verse:
 > what is given to the Saṅgha is very fruitful."
 
 <!--pg-->
-### N 11.17 Homage to the Buddha *Buddhavandanāsutta*
+### SN 11.17 Homage to the Buddha *Buddhavandanāsutta*
 
 Near Sāvatthī in Jeta's Grove.
 
@@ -835,7 +835,7 @@ is how it should be done:
 > There will be those who understand!'"
 
 <!--pg-->
-### N 11.18 Who Sakka Worships *Gahaṭṭhavandanāsutta*
+### SN 11.18 Who Sakka Worships *Gahaṭṭhavandanāsutta*
 
 At Sāvatthī.
 
@@ -886,7 +886,7 @@ So Mātali the charioteer addressed Sakka in verse:
 > climbed into his chariot."
 
 <!--pg-->
-### N 11.19 Who Sakka Worships *Satthāravandanāsutta*
+### SN 11.19 Who Sakka Worships *Satthāravandanāsutta*
 
 Near Sāvatthī in Jeta's Grove.
 
@@ -936,7 +936,7 @@ So Mātali the charioteer addressed Sakka in verse:
 > climbed into his chariot."
 
 <!--pg-->
-### N 11.20 Who Sakka Worships *Saṁghavandanāsutta*
+### SN 11.20 Who Sakka Worships *Saṁghavandanāsutta*
 
 Near Sāvatthī in Jeta's Grove.
 
@@ -997,7 +997,7 @@ So Mātali the charioteer addressed Sakka in verse:
 <!--pg-->
 ## Chapter Three
 
-### N 11.21 Incinerated *Chetvāsutta*
+### SN 11.21 Incinerated *Chetvāsutta*
 
 Near Sāvatthī in Jeta's Grove.
 
@@ -1017,7 +1017,7 @@ side, and addressed him in verse:
 > for when it's incinerated there is no sorrow."
 
 <!--pg-->
-### N 11.22 Ugly *Dubbaṇṇiyasutta*
+### SN 11.22 Ugly *Dubbaṇṇiyasutta*
 
 Near Sāvatthī in Jeta's Grove.
 
@@ -1054,7 +1054,7 @@ this verse:
 > out of regard for my own welfare.'"
 
 <!--pg-->
-### N 11.23 The Sambari Sorcery *Sambarimāyāsutta*
+### SN 11.23 The Sambari Sorcery *Sambarimāyāsutta*
 
 At Sāvatthī.
 
@@ -1084,7 +1084,7 @@ So Vepacitti addressed Sakka in verse:
 > like Sambara, for a hundred years.'"
 
 <!--pg-->
-### N 11.24 Transgression *Accayasutta*
+### SN 11.24 Transgression *Accayasutta*
 
 At Sāvatthī.
 
@@ -1112,7 +1112,7 @@ the thirty-three, recited this verse:
 > like a mountain.'"
 
 <!--pg-->
-### N 11.25 Don't Be Angry *Akkodhasutta*
+### SN 11.25 Don't Be Angry *Akkodhasutta*
 
 So I have heard. At one time the Buddha was staying near
 Sāvatthī in Jeta's Grove, Anāthapiṇḍika's

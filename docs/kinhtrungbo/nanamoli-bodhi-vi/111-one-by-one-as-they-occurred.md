@@ -1,4 +1,4 @@
-# 111. Tuần Tự Từng Pháp Một
+# MN 111. Tuần Tự Từng Pháp Một
 ***(Kinh Anupada)***
 
 [25] 1. Như vầy tôi nghe. Một thời Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong Vườn Jeta (Kỳ-đà), Khu vườn của Anāthapindika (Cấp Cô Độc). Tại đó, Ngài gọi các tỳ kheo (monks-bhikkhus-nhà sư) và dạy: "Này các tỳ kheo." - "Bạch Thế Tôn," các vị ấy vâng đáp. Đức Thế Tôn nói điều này:

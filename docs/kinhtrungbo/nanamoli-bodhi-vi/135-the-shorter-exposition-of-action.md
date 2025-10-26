@@ -1,4 +1,4 @@
-# 135. Tiểu Kinh Phân Biệt Nghiệp
+# MN 135. Tiểu Kinh Phân Biệt Nghiệp
 ***(Cūḷakammavibhanga Sutta)***
 
 1\.  Như vầy tôi nghe. Một thời Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong Vườn Jeta (Kỳ-đà), Khu vườn của Anāthapiṇḍika (Cấp Cô Độc).

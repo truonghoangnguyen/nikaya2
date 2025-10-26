@@ -1,4 +1,4 @@
-# 142. Kinh Phân Biệt Cúng Dường
+# MN 142. Kinh Phân Biệt Cúng Dường
 ***(Dakkhināvibhanga Sutta)***
 
 [253] 1. Tôi nghe như vầy. Một thời Đức Thế Tôn trú ở xứ Sakya, tại Ca-tỳ-la-vệ (Kapilavatthu), trong vườn Nigrodha.

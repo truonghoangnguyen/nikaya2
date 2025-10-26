@@ -3,7 +3,7 @@
 <!--pg-->
 ## Chapter One
 
-### N 6.1 The Appeal of the Divinity *Brahmāyācanasutta*
+### SN 6.1 The Appeal of the Divinity *Brahmāyācanasutta*
 
 So I have heard. At one time, when he was first awakened,
 the Buddha was staying in Uruvelā at the root of the
@@ -105,7 +105,7 @@ teach the Dhamma had been granted, bowed and respectfully circled the
 Buddha, keeping him on his right, before vanishing right there.
 
 <!--pg-->
-### N 6.2 Respect *Gāravasutta*
+### SN 6.2 Respect *Gāravasutta*
 
 So I have heard. At one time, when he was first awakened,
 the Buddha was staying in Uruvelā at the root of the
@@ -180,7 +180,7 @@ This is what the divinity Sahampati said. Then he went on to say:
 > remembering the instructions of the Buddhas."
 
 <!--pg-->
-### N 6.3 With Brahmadeva *Brahmadevasutta*
+### SN 6.3 With Brahmadeva *Brahmadevasutta*
 
 So I have heard. At one time the Buddha was staying near
 Sāvatthī in Jeta's Grove, Anāthapiṇḍika's
@@ -260,7 +260,7 @@ air, addressed Brahmadeva's mother in verse:
 > made merit for the sake of future happiness.
 
 <!--pg-->
-### N 6.4 With Baka the Divinity *Bakabrahmasutta*
+### SN 6.4 With Baka the Divinity *Bakabrahmasutta*
 
 So I have heard. At one time the Buddha was staying near
 Sāvatthī in Jeta's Grove, Anāthapiṇḍika's
@@ -343,7 +343,7 @@ other escape beyond this."
 > lights up even the realm of divinity."
 
 <!--pg-->
-### N 6.5 A Certain Divinity *Aññatarabrahmasutta*
+### SN 6.5 A Certain Divinity *Aññatarabrahmasutta*
 
 At Sāvatthī.
 
@@ -427,7 +427,7 @@ That's what that member of the retinue of Divinity said. Satisfied, that
 Divinity approved what the member of his retinue said.
 
 <!--pg-->
-### N 6.6 The Negligent Divinity *Brahmalokasutta*
+### SN 6.6 The Negligent Divinity *Brahmalokasutta*
 
 At Sāvatthī.
 
@@ -492,7 +492,7 @@ Subrahmā and Suddhāvāsa vanished right there.
 And after some time that divinity went to attend on the Buddha.
 
 <!--pg-->
-### N 6.7 About Kokālika *Kokālikasutta*
+### SN 6.7 About Kokālika *Kokālikasutta*
 
 At Sāvatthī.
 
@@ -510,7 +510,7 @@ Kokālika in the Buddha's presence:
 > must be an ordinary person, shrouded in darkness."
 
 <!--pg-->
-### N 6.8 About Katamorakatissaka *Katamodakatissasutta*
+### SN 6.8 About Katamorakatissaka *Katamodakatissasutta*
 
 At Sāvatthī.
 
@@ -528,7 +528,7 @@ Katamorakatissaka in the Buddha's presence:
 > must be a fool, shrouded in darkness."
 
 <!--pg-->
-### N 6.9 With the Divinity Tudu *Turūbrahmasutta*
+### SN 6.9 With the Divinity Tudu *Turūbrahmasutta*
 
 At Sāvatthī.
 
@@ -570,7 +570,7 @@ doing back here? See how far you have strayed!"
 > having aimed bad words and thoughts at them."
 
 <!--pg-->
-### N 6.10 With Kokālika *Kokālikasutta*
+### SN 6.10 With Kokālika *Kokālikasutta*
 
 At Sāvatthī.
 
@@ -686,7 +686,7 @@ say:
 <!--pg-->
 ## Chapter Two
 
-### N 6.11 With Sanaṅkumāra *Sanaṅkumārasutta*
+### SN 6.11 With Sanaṅkumāra *Sanaṅkumārasutta*
 
 So I have heard. At one time the Buddha was staying near
 Rājagaha, on the bank of the Sappinī river.
@@ -707,7 +707,7 @@ teacher approved, bowed and respectfully circled the Buddha, keeping him
 on his right, before vanishing right there.
 
 <!--pg-->
-### N 6.12 About Devadatta *Devadattasutta*
+### SN 6.12 About Devadatta *Devadattasutta*
 
 So I have heard. At one time the Buddha was staying near
 Rājagaha, on the Vulture's Peak Mountain, not long after
@@ -723,7 +723,7 @@ and recited this verse in the Buddha's presence:
 > as pregnancy destroys a mule."
 
 <!--pg-->
-### N 6.13 At Andhakavinda *Andhakavindasutta*
+### SN 6.13 At Andhakavinda *Andhakavindasutta*
 
 At one time the Buddha was staying in the land of the Magadhans at
 Andhakavinda.
@@ -766,7 +766,7 @@ side, and recited these verses in the Buddha's presence:
 > for fear of speaking falsely."
 
 <!--pg-->
-### N 6.14 About Aruṇavatī *Aruṇavatīsutta*
+### SN 6.14 About Aruṇavatī *Aruṇavatīsutta*
 
 So I have heard. At one time the Buddha was staying near
 Sāvatthī. There he addressed the mendicants, "Mendicants!"
@@ -870,7 +870,7 @@ That is what the Buddha said. Satisfied, the mendicants approved what
 the Buddha said.
 
 <!--pg-->
-### N 6.15 Full Extinguishment *Parinibbānasutta*
+### SN 6.15 Full Extinguishment *Parinibbānasutta*
 
 At one time the Buddha was staying between a pair of sal trees in the
 sal forest of the Mallas at Upavattana near Kusinārā at the

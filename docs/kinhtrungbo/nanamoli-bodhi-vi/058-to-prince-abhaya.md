@@ -1,4 +1,4 @@
-# 58. Gửi Vương tử Abhaya
+# MN 58. Gửi Vương tử Abhaya
 ***(Kinh Vương tử Abhaya - Abhayarājakumāra Sutta)***
 
 1\.  Tôi nghe như vầy. Một thời Thế Tôn trú tại Rājagaha (Vương Xá), trong Rừng Trúc, nơi nuôi dưỡng các con sóc.

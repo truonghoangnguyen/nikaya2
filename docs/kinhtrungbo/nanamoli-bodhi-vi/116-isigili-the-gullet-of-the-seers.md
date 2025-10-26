@@ -1,4 +1,4 @@
-# 116. Isigili: Hang Nuốt Chư Tiên
+# MN 116. Isigili: Hang Nuốt Chư Tiên
 ***(Kinh Isigili)***
 
 [68] 1. Tôi nghe như vầy. Một thời Đức Thế Tôn trú tại thành Vương Xá (Rājagaha), ở núi Isigili - Hang Nuốt Chư Tiên. Tại đó, Ngài gọi các tỳ kheo (bhikkhus - các nhà sư nam đã thọ giới cụ túc): "Này các Tỳ kheo." - "Bạch Thế Tôn," các vị ấy vâng đáp. Đức Thế Tôn dạy điều này:

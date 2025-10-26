@@ -1,4 +1,4 @@
-# 63. Tiểu Kinh Ví Dụ Mũi Tên (Kinh Māluṅkyāputta)
+# MN 63. Tiểu Kinh Ví Dụ Mũi Tên (Kinh Māluṅkyāputta)
 ***(Cūḷamāluṅkya Sutta)***
 
 1\.  Như vầy tôi nghe. Một thời, Đức Thế Tôn (Blessed One - bậc tôn quý, người đã giác ngộ và giảng dạy con đường giải thoát) trú tại thành Xá-vệ (Sāvatthī), vườn ông Cấp Cô Độc (Anāthapiṇḍika), rừng cây Kỳ-đà (Jeta).

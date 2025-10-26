@@ -1,4 +1,4 @@
-# 55. Kinh Jīvaka
+# MN 55. Kinh Jīvaka
 ***(Jīvaka Sutta)***
 
 1\.  Tôi nghe như vầy. Một thời Đức Thế Tôn trú tại thành Vương Xá (Rājagaha), trong vườn xoài của Y sĩ Jīvaka Komārabhacca. [^573]

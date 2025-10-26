@@ -3,7 +3,7 @@
 <!--pg-->
 ## The Chapter on the Plain Version
 
-### N 48.1 Plain Version *Suddhikasutta*
+### SN 48.1 Plain Version *Suddhikasutta*
 
 At Sāvatthī.
 
@@ -14,7 +14,7 @@ faith, energy, mindfulness, immersion, and wisdom. These are the five
 faculties."
 
 <!--pg-->
-### N 48.2 A Stream-Enterer (1st) *Paṭhamasotāpannasutta*
+### SN 48.2 A Stream-Enterer (1st) *Paṭhamasotāpannasutta*
 
 "Mendicants, there are these five faculties. What five? The faculties of
 faith, energy, mindfulness, immersion, and wisdom. A noble disciple
@@ -23,7 +23,7 @@ and escape. Such a noble disciple is called a stream-enterer, not liable
 to be reborn in the underworld, bound for awakening."
 
 <!--pg-->
-### N 48.3 A Stream-Enterer (2nd) *Dutiyasotāpannasutta*
+### SN 48.3 A Stream-Enterer (2nd) *Dutiyasotāpannasutta*
 
 "Mendicants, there are these five faculties. What five? The faculties of
 faith, energy, mindfulness, immersion, and wisdom. A noble disciple
@@ -33,7 +33,7 @@ stream-enterer, not liable to be reborn in the underworld, bound for
 awakening."
 
 <!--pg-->
-### N 48.4 A Perfected One (1st) *Paṭhamaarahantasutta*
+### SN 48.4 A Perfected One (1st) *Paṭhamaarahantasutta*
 
 "Mendicants, there are these five faculties. What five? The faculties of
 faith, energy, mindfulness, immersion, and wisdom. A noble disciple
@@ -45,7 +45,7 @@ achieved their own true goal, utterly ended the fetter of continued
 existence, and is rightly freed through enlightenment."
 
 <!--pg-->
-### N 48.5 A Perfected One (2nd) *Dutiyaarahantasutta*
+### SN 48.5 A Perfected One (2nd) *Dutiyaarahantasutta*
 
 "Mendicants, there are these five faculties. What five? The faculties of
 faith, energy, mindfulness, immersion, and wisdom. A mendicant comes to
@@ -57,7 +57,7 @@ achieved their own true goal, utterly ended the fetter of continued
 existence, and is rightly freed through enlightenment."
 
 <!--pg-->
-### N 48.6 Ascetics and Brahmins (1st) *Paṭhamasamaṇabrāhmaṇasutta*
+### SN 48.6 Ascetics and Brahmins (1st) *Paṭhamasamaṇabrāhmaṇasutta*
 
 "Mendicants, there are these five faculties. What five? The faculties of
 faith, energy, mindfulness, immersion, and wisdom.
@@ -75,7 +75,7 @@ realize the goal of life as an ascetic or brahmin, and live having
 realized it with their own insight."
 
 <!--pg-->
-### N 48.7 Ascetics and Brahmins (2nd) *Dutiyasamaṇabrāhmaṇasutta*
+### SN 48.7 Ascetics and Brahmins (2nd) *Dutiyasamaṇabrāhmaṇasutta*
 
 "Mendicants, there are ascetics and brahmins who don't understand the
 faculty of faith, its origin, its cessation, and the practice that leads
@@ -95,7 +95,7 @@ venerables realize the goal of life as an ascetic or brahmin, and live
 having realized it with their own insight."
 
 <!--pg-->
-### N 48.8 Should Be Seen *Daṭṭhabbasutta*
+### SN 48.8 Should Be Seen *Daṭṭhabbasutta*
 
 "Mendicants, there are these five faculties. What five? The faculties of
 faith, energy, mindfulness, immersion, and wisdom.
@@ -118,7 +118,7 @@ truths.
 These are the five faculties."
 
 <!--pg-->
-### N 48.9 Analysis (1st) *Paṭhamavibhaṅgasutta*
+### SN 48.9 Analysis (1st) *Paṭhamavibhaṅgasutta*
 
 "Mendicants, there are these five faculties. What five? The faculties of
 faith, energy, mindfulness, immersion, and wisdom.
@@ -152,7 +152,7 @@ called the faculty of wisdom.
 These are the five faculties."
 
 <!--pg-->
-### N 48.10 Analysis (2nd) *Dutiyavibhaṅgasutta*
+### SN 48.10 Analysis (2nd) *Dutiyavibhaṅgasutta*
 
 "Mendicants, there are these five faculties. What five? The faculties of
 faith, energy, mindfulness, immersion, and wisdom.
@@ -216,7 +216,7 @@ These are the five faculties."
 <!--pg-->
 ## The Chapter on Weaker
 
-### N 48.11 Gain *Paṭilābhasutta*
+### SN 48.11 Gain *Paṭilābhasutta*
 
 "Mendicants, there are these five faculties. What five? The faculties of
 faith, energy, mindfulness, immersion, and wisdom.
@@ -247,7 +247,7 @@ called the faculty of wisdom.
 These are the five faculties."
 
 <!--pg-->
-### N 48.12 In Brief (1st) *Paṭhamasaṁkhittasutta*
+### SN 48.12 In Brief (1st) *Paṭhamasaṁkhittasutta*
 
 "Mendicants, there are these five faculties. What five? The faculties of
 faith, energy, mindfulness, immersion, and wisdom. These are the five
@@ -261,7 +261,7 @@ follower of teachings. If they're weaker still, they're a follower by
 faith."
 
 <!--pg-->
-### N 48.13 In Brief (2nd) *Dutiyasaṁkhittasutta*
+### SN 48.13 In Brief (2nd) *Dutiyasaṁkhittasutta*
 
 "Mendicants, there are these five faculties. What five? The faculties of
 faith, energy, mindfulness, immersion, and wisdom. These are the five
@@ -276,7 +276,7 @@ So from a diversity of faculties there's a diversity of fruits. And from
 a diversity of fruits there's a diversity of persons."
 
 <!--pg-->
-### N 48.14 In Brief (3rd) *Tatiyasaṁkhittasutta*
+### SN 48.14 In Brief (3rd) *Tatiyasaṁkhittasutta*
 
 "Mendicants, there are these five faculties. What five? The faculties of
 faith, energy, mindfulness, immersion, and wisdom. These are the five
@@ -292,7 +292,7 @@ practice fully you succeed fully. These five faculties are not a waste,
 I say."
 
 <!--pg-->
-### N 48.15 In Detail (1st) *Paṭhamavitthārasutta*
+### SN 48.15 In Detail (1st) *Paṭhamavitthārasutta*
 
 "Mendicants, there are these five faculties. What five? The faculties of
 faith, energy, mindfulness, immersion, and wisdom. These are the five
@@ -307,7 +307,7 @@ to the Akaniṭṭha realm ... a once-returner ... a
 stream-enterer ... a follower of teachings ... a follower by faith."
 
 <!--pg-->
-### N 48.16 In Detail (2nd) *Dutiyavitthārasutta*
+### SN 48.16 In Detail (2nd) *Dutiyavitthārasutta*
 
 "Mendicants, there are these five faculties. What five? The faculties of
 faith, energy, mindfulness, immersion, and wisdom. These are the five
@@ -325,7 +325,7 @@ So from a diversity of faculties there's a diversity of fruits. And from
 a diversity of fruits there's a diversity of persons."
 
 <!--pg-->
-### N 48.17 In Detail (3rd) *Tatiyavitthārasutta*
+### SN 48.17 In Detail (3rd) *Tatiyavitthārasutta*
 
 "Mendicants, there are these five faculties. What five? The faculties of
 faith, energy, mindfulness, immersion, and wisdom. These are the five
@@ -344,7 +344,7 @@ partially you succeed partially. These five faculties are not a waste, I
 say."
 
 <!--pg-->
-### N 48.18 Practicing *Paṭipannasutta*
+### SN 48.18 Practicing *Paṭipannasutta*
 
 "Mendicants, there are these five faculties. What five? The faculties of
 faith, energy, mindfulness, immersion, and wisdom. These are the five
@@ -360,7 +360,7 @@ these five faculties is an outsider who belongs with the ordinary
 persons, I say."
 
 <!--pg-->
-### N 48.19 Endowed *Sampannasutta*
+### SN 48.19 Endowed *Sampannasutta*
 
 Then a mendicant went up to the Buddha, bowed, sat down to one side, and
 said to him:
@@ -375,7 +375,7 @@ awakening. This is how someone who is accomplished regarding the
 faculties is defined."
 
 <!--pg-->
-### N 48.20 The Ending of Defilements *Āsavakkhayasutta*
+### SN 48.20 The Ending of Defilements *Āsavakkhayasutta*
 
 "Mendicants, there are these five faculties. What five? The faculties of
 faith, energy, mindfulness, immersion, and wisdom. These are the five
@@ -389,7 +389,7 @@ insight due to the ending of defilements."
 <!--pg-->
 ## The Chapter on the Six Faculties
 
-### N 48.21 Future Lives *Punabbhavasutta*
+### SN 48.21 Future Lives *Punabbhavasutta*
 
 "Mendicants, there are these five faculties. What five? The faculties of
 faith, energy, mindfulness, immersion, and wisdom. As long as I didn't
@@ -407,13 +407,13 @@ Knowledge and vision arose in me: 'My freedom is unshakable; this is my
 last rebirth; now there'll be no more future lives.'"
 
 <!--pg-->
-### N 48.22 The Life Faculty *Jīvitindriyasutta*
+### SN 48.22 The Life Faculty *Jīvitindriyasutta*
 
 "Mendicants, there are these three faculties. What three? The faculties
 of femininity, masculinity, and life. These are the three faculties."
 
 <!--pg-->
-### N 48.23 The Faculty of Enlightenment *Aññindriyasutta*
+### SN 48.23 The Faculty of Enlightenment *Aññindriyasutta*
 
 "Mendicants, there are these three faculties. What three? The faculty of
 understanding that one's enlightenment is imminent. The faculty of
@@ -421,7 +421,7 @@ enlightenment. The faculty of one who is enlightened. These are the
 three faculties."
 
 <!--pg-->
-### N 48.24 A One-Seeder *Ekabījīsutta*
+### SN 48.24 A One-Seeder *Ekabījīsutta*
 
 "Mendicants, there are these five faculties. What five? The faculties of
 faith, energy, mindfulness, immersion, and wisdom. These are the five
@@ -437,14 +437,14 @@ to the Akaniṭṭha realm ... a once-returner ... a one-seeder
 most ... a follower of teachings ... a follower by faith."
 
 <!--pg-->
-### N 48.25 Plain Version *Suddhakasutta*
+### SN 48.25 Plain Version *Suddhakasutta*
 
 "Mendicants, there are these six faculties. What six? The faculties of
 the eye, ear, nose, tongue, body, and mind. These are the six
 faculties."
 
 <!--pg-->
-### N 48.26 A Stream-Enterer *Sotāpannasutta*
+### SN 48.26 A Stream-Enterer *Sotāpannasutta*
 
 "Mendicants, there are these six faculties. What six? The faculties of
 the eye, ear, nose, tongue, body, and mind. A noble disciple comes to
@@ -453,7 +453,7 @@ drawback, and escape. Such a noble disciple is called a stream-enterer,
 not liable to be reborn in the underworld, bound for awakening."
 
 <!--pg-->
-### N 48.27 A Perfected One *Arahantasutta*
+### SN 48.27 A Perfected One *Arahantasutta*
 
 "Mendicants, there are these six faculties. What six? The faculties of
 the eye, ear, nose, tongue, body, and mind. A mendicant comes to be
@@ -466,7 +466,7 @@ the burden, achieved their own true goal, utterly ended the fetter of
 continued existence, and is rightly freed through enlightenment."
 
 <!--pg-->
-### N 48.28 Awakened *Sambuddhasutta*
+### SN 48.28 Awakened *Sambuddhasutta*
 
 "Mendicants, there are these six faculties. What six? The faculties of
 the eye, ear, nose, tongue, body, and mind.
@@ -485,7 +485,7 @@ Knowledge and vision arose in me: 'My freedom is unshakable; this is my
 last rebirth; now there'll be no more future lives.'"
 
 <!--pg-->
-### N 48.29 Ascetics and Brahmins (1st) *Paṭhamasamaṇabrāhmaṇasutta*
+### SN 48.29 Ascetics and Brahmins (1st) *Paṭhamasamaṇabrāhmaṇasutta*
 
 "Mendicants, there are these six faculties. What six? The faculties of
 the eye, ear, nose, tongue, body, and mind.
@@ -503,7 +503,7 @@ realize the goal of life as an ascetic or brahmin, and live having
 realized it with their own insight."
 
 <!--pg-->
-### N 48.30 Ascetics and Brahmins (2nd) *Dutiyasamaṇabrāhmaṇasutta*
+### SN 48.30 Ascetics and Brahmins (2nd) *Dutiyasamaṇabrāhmaṇasutta*
 
 "Mendicants, there are ascetics and brahmins who don't understand the
 eye faculty, its origin, its cessation, and the practice that leads to
@@ -525,14 +525,14 @@ brahmin, and live having realized it with their own insight."
 <!--pg-->
 ## The Chapter on the Pleasure Faculty
 
-### N 48.31 Plain Version *Suddhikasutta*
+### SN 48.31 Plain Version *Suddhikasutta*
 
 "Mendicants, there are these five faculties. What five? The faculties of
 pleasure, pain, happiness, sadness, and equanimity. These are the five
 faculties."
 
 <!--pg-->
-### N 48.32 A Stream-Enterer *Sotāpannasutta*
+### SN 48.32 A Stream-Enterer *Sotāpannasutta*
 
 "Mendicants, there are these five faculties. What five? The faculties of
 pleasure, pain, happiness, sadness, and equanimity. A noble disciple
@@ -542,7 +542,7 @@ stream-enterer, not liable to be reborn in the underworld, bound for
 awakening."
 
 <!--pg-->
-### N 48.33 A Perfected One *Arahantasutta*
+### SN 48.33 A Perfected One *Arahantasutta*
 
 "Mendicants, there are these five faculties. What five? The faculties of
 pleasure, pain, happiness, sadness, and equanimity. A mendicant comes to
@@ -555,7 +555,7 @@ the burden, achieved their own true goal, utterly ended the fetter of
 continued existence, and is rightly freed through enlightenment."
 
 <!--pg-->
-### N 48.34 Ascetics and Brahmins (1st) *Paṭhamasamaṇabrāhmaṇasutta*
+### SN 48.34 Ascetics and Brahmins (1st) *Paṭhamasamaṇabrāhmaṇasutta*
 
 "Mendicants, there are these five faculties. What five? The faculties of
 pleasure, pain, happiness, sadness, and equanimity.
@@ -573,7 +573,7 @@ realize the goal of life as an ascetic or brahmin, and live having
 realized it with their own insight."
 
 <!--pg-->
-### N 48.35 Ascetics and Brahmins (2nd) *Dutiyasamaṇabrāhmaṇasutta*
+### SN 48.35 Ascetics and Brahmins (2nd) *Dutiyasamaṇabrāhmaṇasutta*
 
 "Mendicants, there are these five faculties. What five? The faculties of
 pleasure, pain, happiness, sadness, and equanimity.
@@ -597,7 +597,7 @@ an ascetic or brahmin, and live having realized it with their own
 insight."
 
 <!--pg-->
-### N 48.36 Analysis (1st) *Paṭhamavibhaṅgasutta*
+### SN 48.36 Analysis (1st) *Paṭhamavibhaṅgasutta*
 
 "Mendicants, there are these five faculties. What five? The faculties of
 pleasure, pain, happiness, sadness, and equanimity.
@@ -624,7 +624,7 @@ feeling, whether physical or mental. This is the faculty of equanimity.
 These are the five faculties."
 
 <!--pg-->
-### N 48.37 Analysis (2nd) *Dutiyavibhaṅgasutta*
+### SN 48.37 Analysis (2nd) *Dutiyavibhaṅgasutta*
 
 "Mendicants, there are these five faculties. What five? The faculties of
 pleasure, pain, happiness, sadness, and equanimity.
@@ -656,7 +656,7 @@ feeling.
 These are the five faculties."
 
 <!--pg-->
-### N 48.38 Analysis (3rd) *Tatiyavibhaṅgasutta*
+### SN 48.38 Analysis (3rd) *Tatiyavibhaṅgasutta*
 
 "Mendicants, there are these five faculties. What five? The faculties of
 pleasure, pain, happiness, sadness, and equanimity.
@@ -689,7 +689,7 @@ That's how these five faculties, depending on how they're explained,
 having been five become three, and having been three become five."
 
 <!--pg-->
-### N 48.39 The Simile of the Fire Sticks *Kaṭṭhopamasutta*
+### SN 48.39 The Simile of the Fire Sticks *Kaṭṭhopamasutta*
 
 "Mendicants, there are these five faculties. What five? The faculties of
 pleasure, pain, happiness, sadness, and equanimity.
@@ -741,7 +741,7 @@ understand that the corresponding faculty of equanimity ceases and
 stops."
 
 <!--pg-->
-### N 48.40 Irregular Order *Uppaṭipāṭikasutta*
+### SN 48.40 Irregular Order *Uppaṭipāṭikasutta*
 
 "Mendicants, there are these five faculties. What five? The faculties of
 pain, sadness, pleasure, happiness, and equanimity.
@@ -828,7 +828,7 @@ of equanimity, and who applies their mind to that end."
 <!--pg-->
 ## The Chapter on Old Age
 
-### N 48.41 Old Age *Jarādhammasutta*
+### SN 48.41 Old Age *Jarādhammasutta*
 
 So I have heard. At one time the Buddha was staying near
 Sāvatthī in the stilt longhouse of Migāra's
@@ -865,7 +865,7 @@ say:
 > but crushes all underfoot."
 
 <!--pg-->
-### N 48.42 The Brahmin Uṇṇābha *Uṇṇābhabrāhmaṇasutta*
+### SN 48.42 The Brahmin Uṇṇābha *Uṇṇābhabrāhmaṇasutta*
 
 At Sāvatthī.
 
@@ -922,7 +922,7 @@ time, he would be bound by no fetter that might return him to this
 world."
 
 <!--pg-->
-### N 48.43 At Sāketa *Sāketasutta*
+### SN 48.43 At Sāketa *Sāketasutta*
 
 So I have heard. At one time the Buddha was staying near
 Sāketa in the deer park at the Añjana Wood.
@@ -974,7 +974,7 @@ in this very life. And they live having realized it with their own
 insight due to the ending of defilements."
 
 <!--pg-->
-### N 48.44 At the Eastern Gate *Pubbakoṭṭhakasutta*
+### SN 48.44 At the Eastern Gate *Pubbakoṭṭhakasutta*
 
 So I have heard. At one time the Buddha was staying in
 Sāvatthī at the eastern gate. Then the Buddha said to
@@ -1006,7 +1006,7 @@ mindfulness, immersion, and wisdom, when developed and cultivated,
 culminate, finish, and end in freedom from death."
 
 <!--pg-->
-### N 48.45 At the Eastern Monastery (1st) *Paṭhamapubbārāmasutta*
+### SN 48.45 At the Eastern Monastery (1st) *Paṭhamapubbārāmasutta*
 
 So I have heard. At one time the Buddha was staying near
 Sāvatthī in the stilt longhouse of Migāra's
@@ -1028,7 +1028,7 @@ has been completed, what had to be done has been done, there is nothing
 further for this place"'."
 
 <!--pg-->
-### N 48.46 At the Eastern Monastery (2nd) *Dutiyapubbārāmasutta*
+### SN 48.46 At the Eastern Monastery (2nd) *Dutiyapubbārāmasutta*
 
 The same setting.
 
@@ -1050,7 +1050,7 @@ ended, the spiritual journey has been completed, what had to be done has
 been done, there is nothing further for this place"'."
 
 <!--pg-->
-### N 48.47 At the Eastern Monastery (3rd) *Tatiyapubbārāmasutta*
+### SN 48.47 At the Eastern Monastery (3rd) *Tatiyapubbārāmasutta*
 
 The same setting.
 
@@ -1071,7 +1071,7 @@ ended, the spiritual journey has been completed, what had to be done has
 been done, there is nothing further for this place"'."
 
 <!--pg-->
-### N 48.48 At the Eastern Monastery (4th) *Catutthapubbārāmasutta*
+### SN 48.48 At the Eastern Monastery (4th) *Catutthapubbārāmasutta*
 
 The same setting.
 
@@ -1092,7 +1092,7 @@ ended, the spiritual journey has been completed, what had to be done has
 been done, there is nothing further for this place"'."
 
 <!--pg-->
-### N 48.49 About Bhāradvāja the Alms-Gatherer *Piṇḍolabhāradvājasutta*
+### SN 48.49 About Bhāradvāja the Alms-Gatherer *Piṇḍolabhāradvājasutta*
 
 So I have heard. At one time the Buddha was staying near
 Kosambī, in Ghosita's Monastery.
@@ -1127,7 +1127,7 @@ has been completed, what had to be done has been done, there is nothing
 further for this place."'"
 
 <!--pg-->
-### N 48.50 At Āpaṇa *Āpaṇasutta*
+### SN 48.50 At Āpaṇa *Āpaṇasutta*
 
 So I have heard. At one time the Buddha was staying in the
 land of the Aṅgas, near the Aṅgan town called
@@ -1184,7 +1184,7 @@ The Buddha then repeated Sāriputta's answer word for word.
 <!--pg-->
 ## The Chapter on the Boar's Cave
 
-### N 48.51 At Sālā *Sālasutta*
+### SN 48.51 At Sālā *Sālasutta*
 
 So I have heard. At one time the Buddha was staying in the
 land of the Kosalans near the brahmin village of Sālā.
@@ -1203,7 +1203,7 @@ the best of the qualities that lead to awakening in terms of becoming
 awakened."
 
 <!--pg-->
-### N 48.52 In the Land of the Mallas *Mallikasutta*
+### SN 48.52 In the Land of the Mallas *Mallikasutta*
 
 So I have heard. At one time the Buddha was staying in the
 land of the Mallas, near the Mallian town called Uruvelakappa. There the
@@ -1228,7 +1228,7 @@ When a noble disciple has wisdom, the faith, energy, mindfulness, and
 immersion that follow along with that become stabilized."
 
 <!--pg-->
-### N 48.53 A Trainee *Sekhasutta*
+### SN 48.53 A Trainee *Sekhasutta*
 
 So I have heard. At one time the Buddha was staying near
 Kosambī, in Ghosita's Monastery. There the Buddha addressed
@@ -1279,7 +1279,7 @@ no other six faculties will arise anywhere anyhow.' This too is a way
 that a mendicant who is an adept can understand that they are an adept."
 
 <!--pg-->
-### N 48.54 Footprints *Padasutta*
+### SN 48.54 Footprints *Padasutta*
 
 "The footprints of all creatures that walk can fit inside an elephant's
 footprint, so an elephant's footprint is said to be the biggest of them
@@ -1296,7 +1296,7 @@ all. In the same way, the faculty of wisdom is said to be the best of
 the steps that lead to awakening in terms of becoming awakened."
 
 <!--pg-->
-### N 48.55 Heartwood *Sārasutta*
+### SN 48.55 Heartwood *Sārasutta*
 
 "Of all kinds of fragrant heartwood, red sandalwood is said to be the
 best. In the same way, the faculty of wisdom is said to be the best of
@@ -1311,7 +1311,7 @@ best. In the same way, the faculty of wisdom is said to be the best of
 the qualities that lead to awakening in terms of becoming awakened."
 
 <!--pg-->
-### N 48.56 Grounded *Patiṭṭhitasutta*
+### SN 48.56 Grounded *Patiṭṭhitasutta*
 
 "Mendicants, when a mendicant is grounded in one thing the five
 faculties become developed, well developed. What one thing? Diligence.
@@ -1322,7 +1322,7 @@ are fully developed. That's how when a mendicant is grounded in one
 thing the five faculties become developed, well developed."
 
 <!--pg-->
-### N 48.57 With the Divinity Sahampati *Sahampatibrahmasutta*
+### SN 48.57 With the Divinity Sahampati *Sahampatibrahmasutta*
 
 At one time, when he was first awakened, the Buddha was staying in
 Uruvelā at the goatherd's banyan tree on the bank of the
@@ -1360,7 +1360,7 @@ how when these five faculties are developed and cultivated they
 culminate, finish, and end in freedom from death."
 
 <!--pg-->
-### N 48.58 The Boar's Cave *Sūkarakhatasutta*
+### SN 48.58 The Boar's Cave *Sūkarakhatasutta*
 
 At one time the Buddha was staying near Rājagaha, on the
 Vulture's Peak Mountain in the Boar's Cave. Then the Buddha said to
@@ -1403,7 +1403,7 @@ that a mendicant with defilements ended, while still alive, continues to
 show towards the Realized One or his instructions."
 
 <!--pg-->
-### N 48.59 Arising (1st) *Paṭhamauppādasutta*
+### SN 48.59 Arising (1st) *Paṭhamauppādasutta*
 
 At Sāvatthī.
 
@@ -1415,7 +1415,7 @@ be developed and cultivated except when a Realized One, a perfected one,
 a fully awakened Buddha has appeared."
 
 <!--pg-->
-### N 48.60 Arising (2nd) *Dutiyauppādasutta*
+### SN 48.60 Arising (2nd) *Dutiyauppādasutta*
 
 "Mendicants, these five faculties don't arise to be developed and
 cultivated apart from the Holy One's training. What five? The faculties
@@ -1426,7 +1426,7 @@ One's training."
 <!--pg-->
 ## The Chapter on Leading to Awakening
 
-### N 48.61 Fetters *Saṁyojanasutta*
+### SN 48.61 Fetters *Saṁyojanasutta*
 
 At Sāvatthī.
 
@@ -1436,7 +1436,7 @@ energy, mindfulness, immersion, and wisdom. When these five faculties
 are developed and cultivated they lead to giving up the fetters."
 
 <!--pg-->
-### N 48.62 Tendencies *Anusayasutta*
+### SN 48.62 Tendencies *Anusayasutta*
 
 "Mendicants, when these five faculties are developed and cultivated they
 lead to uprooting the underlying tendencies. What five? The faculties of
@@ -1445,7 +1445,7 @@ faculties are developed and cultivated they lead to uprooting the
 underlying tendencies."
 
 <!--pg-->
-### N 48.63 Complete Understanding *Pariññāsutta*
+### SN 48.63 Complete Understanding *Pariññāsutta*
 
 "Mendicants, when these five faculties are developed and cultivated they
 lead to the complete understanding of the course of time. What five? The
@@ -1454,7 +1454,7 @@ these five faculties are developed and cultivated they lead to the
 complete understanding of the course of time."
 
 <!--pg-->
-### N 48.64 Ending of Defilements *Āsavakkhayasutta*
+### SN 48.64 Ending of Defilements *Āsavakkhayasutta*
 
 "Mendicants, when these five faculties are developed and cultivated they
 lead to the ending of defilements. What five? The faculties of faith,
@@ -1471,7 +1471,7 @@ completely understanding the course of time, and ending the
 defilements."
 
 <!--pg-->
-### N 48.65 Two Fruits *Paṭhamaphalasutta*
+### SN 48.65 Two Fruits *Paṭhamaphalasutta*
 
 "Mendicants, there are these five faculties. What five? The faculties of
 faith, energy, mindfulness, immersion, and wisdom. These are the five
@@ -1482,7 +1482,7 @@ results can be expected: enlightenment in this very life, or if there's
 something left over, non-return."
 
 <!--pg-->
-### N 48.66 Seven Benefits *Dutiyaphalasutta*
+### SN 48.66 Seven Benefits *Dutiyaphalasutta*
 
 "Mendicants, there are these five faculties. What five? The faculties of
 faith, energy, mindfulness, immersion, and wisdom. These are the five
@@ -1501,7 +1501,7 @@ Because of developing and cultivating these five faculties, these seven
 fruits and benefits can be expected."
 
 <!--pg-->
-### N 48.67 A Tree (1st) *Paṭhamarukkhasutta*
+### SN 48.67 A Tree (1st) *Paṭhamarukkhasutta*
 
 "Mendicants, of all the trees in the Black Plum Tree Land, the black
 plum is said to be the best. In the same way, the faculty of wisdom is
@@ -1515,7 +1515,7 @@ to be the best of the qualities that lead to awakening in terms of
 becoming awakened."
 
 <!--pg-->
-### N 48.68 A Tree (2nd) *Dutiyarukkhasutta*
+### SN 48.68 A Tree (2nd) *Dutiyarukkhasutta*
 
 "Mendicants, of all the trees belonging to the gods of the thirty-three,
 the Shady Orchid Tree is said to be the best. In the same way, the
@@ -1532,7 +1532,7 @@ wisdom is said to be the best of the qualities that lead to awakening in
 terms of becoming awakened."
 
 <!--pg-->
-### N 48.69 A Tree (3rd) *Tatiyarukkhasutta*
+### SN 48.69 A Tree (3rd) *Tatiyarukkhasutta*
 
 "Mendicants, of all the trees belonging to the titans, the vivid patala
 is said to be the best. In the same way, the faculty of wisdom is said
@@ -1546,7 +1546,7 @@ be the best of the qualities that lead to awakening in terms of becoming
 awakened."
 
 <!--pg-->
-### N 48.70 A Tree (4th) *Catuttharukkhasutta*
+### SN 48.70 A Tree (4th) *Catuttharukkhasutta*
 
 "Mendicants, of all the trees belonging to the phoenixes, the red
 silk-cotton tree is said to be the best. In the same way, the faculty of
@@ -1562,7 +1562,7 @@ terms of becoming awakened."
 <!--pg-->
 ## The Chapter of Abbreviated Texts on the Ganges
 
-### N 48.71--82 Slanting East, Etc. *Gaṅgāpeyyālavagga*
+### SN 48.71--82 Slanting East, Etc. *Gaṅgāpeyyālavagga*
 
 "Mendicants, the Ganges river slants, slopes, and inclines to the east.
 In the same way, a mendicant developing and cultivating the five
@@ -1584,7 +1584,7 @@ inclines to extinguishment."
 <!--pg-->
 ## The Chapter on Diligence
 
-### N 48.83--92 The Chapter on Diligence *Appamādavagga*
+### SN 48.83--92 The Chapter on Diligence *Appamādavagga*
 
 **(Tell in full as in the chapter on diligence at SN 45.139--148.)**
 
@@ -1598,7 +1598,7 @@ inclines to extinguishment."
 <!--pg-->
 ## The Chapter on Hard Work
 
-### N 48.93--104 The Chapter on Hard Work *Balakaraṇīyavagga*
+### SN 48.93--104 The Chapter on Hard Work *Balakaraṇīyavagga*
 
 **(Tell in full as in the chapter on hard work at SN 45.149--160.)**
 
@@ -1612,7 +1612,7 @@ inclines to extinguishment."
 <!--pg-->
 ## The Chapter on Searches
 
-### N 48.105--114 The Chapter on Searches *Esanāvagga*
+### SN 48.105--114 The Chapter on Searches *Esanāvagga*
 
 **(Tell in full as in the chapter on searches at SN 45.161--170.)**
 
@@ -1626,7 +1626,7 @@ inclines to extinguishment."
 <!--pg-->
 ## The Chapter on Floods
 
-### N 48.115--124 Floods, etc. *Oghavagga*
+### SN 48.115--124 Floods, etc. *Oghavagga*
 
 "Mendicants, there are five higher fetters. What five? Desire for
 rebirth in the realm of luminous form, desire for rebirth in the
@@ -1654,7 +1654,7 @@ with the above as the final discourse.)*
 <!--pg-->
 ## Another Chapter of Abbreviated Texts on the Ganges
 
-### N 48.125--136 Another on Sloping East, Etc. *Punagaṅgāpeyyālavagga*
+### SN 48.125--136 Another on Sloping East, Etc. *Punagaṅgāpeyyālavagga*
 
 "Mendicants, the Ganges river slants, slopes, and inclines to the east.
 In the same way, a mendicant developing and cultivating the five
@@ -1675,7 +1675,7 @@ extinguishment."
 <!--pg-->
 ## Another Chapter on Diligence
 
-### N 48.137--146 Another Chapter on Diligence *Punaappamādavagga*
+### SN 48.137--146 Another Chapter on Diligence *Punaappamādavagga*
 
 *(This text consists of the title only. Tell in full as in SN
 45\.139--148, removal of greed version.)*
@@ -1684,7 +1684,7 @@ extinguishment."
 <!--pg-->
 ## Another Chapter on Hard Work
 
-### N 48.147--158 Another Chapter on Hard Work *Punagaṅgāpeyyālavagga*
+### SN 48.147--158 Another Chapter on Hard Work *Punagaṅgāpeyyālavagga*
 
 *(This text consists of the title only. Tell in full as in SN
 45\.149--160, removal of greed version.)*
@@ -1693,14 +1693,14 @@ extinguishment."
 <!--pg-->
 ## Another Chapter on Searches
 
-### N 48.159--168 Another Chapter on Searches *Punaesanāvagga*
+### SN 48.159--168 Another Chapter on Searches *Punaesanāvagga*
 
 **(Tell in full as in SN 45.161--170, removal of greed version.)**
 
 <!--pg-->
 ## Another Chapter on Floods
 
-### N 48.169--178 Another Series on Floods, Etc. *Punaoghavagga*
+### SN 48.169--178 Another Series on Floods, Etc. *Punaoghavagga*
 
 "Mendicants, there are five higher fetters. What five? Desire for
 rebirth in the realm of luminous form, desire for rebirth in the

@@ -3,7 +3,7 @@
 <!--pg-->
 ## The Chapter on Immersion
 
-### N 56.1 Immersion *Samādhisutta*
+### SN 56.1 Immersion *Samādhisutta*
 
 At Sāvatthī.
 
@@ -20,7 +20,7 @@ cessation of suffering' ... 'This is the practice that leads to the
 cessation of suffering'."
 
 <!--pg-->
-### N 56.2 Retreat *Paṭisallānasutta*
+### SN 56.2 Retreat *Paṭisallānasutta*
 
 "Mendicants, meditate in retreat. A mendicant in retreat truly
 understands. What do they truly understand? They truly understand: 'This
@@ -35,7 +35,7 @@ cessation of suffering' ... 'This is the practice that leads to the
 cessation of suffering'."
 
 <!--pg-->
-### N 56.3 A Gentleman (1st) *Paṭhamakulaputtasutta*
+### SN 56.3 A Gentleman (1st) *Paṭhamakulaputtasutta*
 
 "Mendicants, whatever gentlemen---past, future, or present---rightly go
 forth from the lay life to homelessness, all of them do so in order to
@@ -53,7 +53,7 @@ cessation of suffering' ... 'This is the practice that leads to the
 cessation of suffering'."
 
 <!--pg-->
-### N 56.4 A Gentleman (2nd) *Dutiyakulaputtasutta*
+### SN 56.4 A Gentleman (2nd) *Dutiyakulaputtasutta*
 
 "Mendicants, whatever gentlemen---past, future, or present---truly
 comprehend after rightly going forth from the lay life to homelessness,
@@ -66,7 +66,7 @@ suffering. ...
 That's why you should practice meditation ..."
 
 <!--pg-->
-### N 56.5 Ascetics and Brahmins (1st) *Paṭhamasamaṇabrāhmaṇasutta*
+### SN 56.5 Ascetics and Brahmins (1st) *Paṭhamasamaṇabrāhmaṇasutta*
 
 "Mendicants, whatever ascetics and brahmins truly wake up---in the past,
 future, or present---all of them truly wake up to the four noble truths.
@@ -78,7 +78,7 @@ suffering. ...
 That's why you should practice meditation ..."
 
 <!--pg-->
-### N 56.6 Ascetics and Brahmins (2nd) *Dutiyasamaṇabrāhmaṇasutta*
+### SN 56.6 Ascetics and Brahmins (2nd) *Dutiyasamaṇabrāhmaṇasutta*
 
 "Mendicants, whatever ascetics and brahmins---past, future, or
 present---reveal that they are awakened, all of them reveal that they
@@ -91,7 +91,7 @@ suffering. ...
 That's why you should practice meditation ..."
 
 <!--pg-->
-### N 56.7 Thoughts *Vitakkasutta*
+### SN 56.7 Thoughts *Vitakkasutta*
 
 "Mendicants, don't think bad, unskillful thoughts, such as sensual,
 malicious, and cruel thoughts. Why is that? Because those thoughts
@@ -109,7 +109,7 @@ cessation, peace, insight, awakening, and extinguishment.
 That's why you should practice meditation ..."
 
 <!--pg-->
-### N 56.8 Thought *Cintasutta*
+### SN 56.8 Thought *Cintasutta*
 
 "Mendicants, don't think up a bad, unskillful idea. For example: the
 cosmos is eternal, or not eternal, or finite, or infinite; the soul and
@@ -131,7 +131,7 @@ extinguishment.
 That's why you should practice meditation ..."
 
 <!--pg-->
-### N 56.9 Arguments *Viggāhikakathāsutta*
+### SN 56.9 Arguments *Viggāhikakathāsutta*
 
 "Mendicants, don't get into arguments, such as: 'You don't understand
 this teaching and training. I understand this teaching and training.
@@ -152,7 +152,7 @@ the origin of suffering' ... 'This is the cessation of suffering' ...
 That's why you should practice meditation ..."
 
 <!--pg-->
-### N 56.10 Low Talk *Tiracchānakathāsutta*
+### SN 56.10 Low Talk *Tiracchānakathāsutta*
 
 "Mendicants, don't engage in all kinds of low talk, such as talk about
 kings, bandits, and ministers; talk about armies, threats, and wars;
@@ -174,7 +174,7 @@ That's why you should practice meditation ..."
 <!--pg-->
 ## The Chapter on Rolling Forth the Wheel of Dhamma
 
-### N 56.11 Rolling Forth the Wheel of Dhamma *Dhammacakkappavattanasutta*
+### SN 56.11 Rolling Forth the Wheel of Dhamma *Dhammacakkappavattanasutta*
 
 At one time the Buddha was staying near Varanasi, in the deer park at
 Isipatana. There the Buddha addressed the group of five mendicants:
@@ -293,7 +293,7 @@ And that's how Venerable Koṇḍañña came to be known as
 "Koṇḍañña Who Understood".
 
 <!--pg-->
-### N 56.12 The Realized Ones *Tathāgatasutta*
+### SN 56.12 The Realized Ones *Tathāgatasutta*
 
 "'This is the noble truth of suffering.' Such was the vision, knowledge,
 wisdom, realization, and light that arose in the Realized Ones regarding
@@ -318,7 +318,7 @@ light that arose in the Realized Ones regarding teachings not learned
 before from another."
 
 <!--pg-->
-### N 56.13 Aggregates *Khandhasutta*
+### SN 56.13 Aggregates *Khandhasutta*
 
 "Mendicants, there are these four noble truths. What four? The noble
 truths of suffering, the origin of suffering, the cessation of
@@ -349,7 +349,7 @@ are the four noble truths.
 That's why you should practice meditation ..."
 
 <!--pg-->
-### N 56.14 Interior Sense Fields *Ajjhattikāyatanasutta*
+### SN 56.14 Interior Sense Fields *Ajjhattikāyatanasutta*
 
 "Mendicants, there are these four noble truths. What four? The noble
 truths of suffering, the origin of suffering, the cessation of
@@ -361,7 +361,7 @@ nose, tongue, body, and mind. This is called the noble truth of
 suffering. ..."
 
 <!--pg-->
-### N 56.15 Remembering (1st) *Paṭhamadhāraṇasutta*
+### SN 56.15 Remembering (1st) *Paṭhamadhāraṇasutta*
 
 "Mendicants, do you remember the four noble truths that I taught?" When
 he said this, one of the mendicants said to the Buddha:
@@ -386,7 +386,7 @@ should remember the four noble truths as I've taught them.
 That's why you should practice meditation ..."
 
 <!--pg-->
-### N 56.16 Remembering (2nd) *Dutiyadhāraṇasutta*
+### SN 56.16 Remembering (2nd) *Dutiyadhāraṇasutta*
 
 "Mendicants, do you remember the four noble truths that I taught?" When
 he said this, one of the mendicants said to the Buddha:
@@ -430,7 +430,7 @@ four noble truths as I've taught them.
 That's why you should practice meditation ..."
 
 <!--pg-->
-### N 56.17 Ignorance *Avijjāsutta*
+### SN 56.17 Ignorance *Avijjāsutta*
 
 Seated to one side, that mendicant said to the Buddha:
 
@@ -444,7 +444,7 @@ This is called ignorance. And this is how an ignorant person is defined.
 That's why you should practice meditation ..."
 
 <!--pg-->
-### N 56.18 Knowledge *Vijjāsutta*
+### SN 56.18 Knowledge *Vijjāsutta*
 
 Then a mendicant went up to the Buddha, bowed, sat down to one side, and
 said to him:
@@ -460,7 +460,7 @@ defined.
 That's why you should practice meditation ..."
 
 <!--pg-->
-### N 56.19 Expressions *Saṅkāsanasutta*
+### SN 56.19 Expressions *Saṅkāsanasutta*
 
 "Mendicants, I've declared: 'This is the noble truth of suffering.' And
 there are limitless explanations, phrases, and expressions about that:
@@ -476,7 +476,7 @@ leads to the cessation of suffering.'
 That's why you should practice meditation ..."
 
 <!--pg-->
-### N 56.20 Real *Tathasutta*
+### SN 56.20 Real *Tathasutta*
 
 "Mendicants, these four things are real, not unreal, not otherwise. What
 four? 'This is suffering' ... 'This is the origin of suffering' ...
@@ -489,7 +489,7 @@ That's why you should practice meditation ..."
 <!--pg-->
 ## The Chapter at the Village of Koṭi
 
-### N 56.21 At the Village of Koṭi (1st) *Paṭhamakoṭigāmasutta*
+### SN 56.21 At the Village of Koṭi (1st) *Paṭhamakoṭigāmasutta*
 
 At one time the Buddha was staying in the land of the Vajjis at the
 village of Koṭi. There the Buddha addressed the mendicants:
@@ -518,7 +518,7 @@ say:
 > now there'll be no more future lives."
 
 <!--pg-->
-### N 56.22 At the Village of Koṭi (2nd) *Dutiyakoṭigāmasutta*
+### SN 56.22 At the Village of Koṭi (2nd) *Dutiyakoṭigāmasutta*
 
 "Mendicants, there are ascetics and brahmins who don't truly understand
 about suffering, its origin, its cessation, and the path. I don't deem
@@ -559,7 +559,7 @@ say:
 > they don't continue to be reborn and grow old."
 
 <!--pg-->
-### N 56.23 The Fully Awakened Buddha *Sammāsambuddhasutta*
+### SN 56.23 The Fully Awakened Buddha *Sammāsambuddhasutta*
 
 At Sāvatthī.
 
@@ -573,7 +573,7 @@ one, the fully awakened Buddha'.
 That's why you should practice meditation ..."
 
 <!--pg-->
-### N 56.24 The Perfected Ones *Arahantasutta*
+### SN 56.24 The Perfected Ones *Arahantasutta*
 
 At Sāvatthī.
 
@@ -590,7 +590,7 @@ four noble truths.
 That's why you should practice meditation ..."
 
 <!--pg-->
-### N 56.25 The Ending of Defilements *Āsavakkhayasutta*
+### SN 56.25 The Ending of Defilements *Āsavakkhayasutta*
 
 "Mendicants, I say that the ending of defilements is for one who knows
 and sees, not for one who does not know or see. For one who knows and
@@ -601,7 +601,7 @@ defilements is for one who knows and sees this.
 That's why you should practice meditation ..."
 
 <!--pg-->
-### N 56.26 Friends *Mittasutta*
+### SN 56.26 Friends *Mittasutta*
 
 "Mendicants, those who you have sympathy for, and those worth listening
 to---friends and colleagues, relatives and family---should be
@@ -618,7 +618,7 @@ these four noble truths.
 That's why you should practice meditation ..."
 
 <!--pg-->
-### N 56.27 Real *Tathasutta*
+### SN 56.27 Real *Tathasutta*
 
 "Mendicants, there are these four noble truths. What four? The noble
 truths of suffering, the origin of suffering, the cessation of
@@ -629,7 +629,7 @@ they're called 'noble truths'.
 That's why you should practice meditation ..."
 
 <!--pg-->
-### N 56.28 The World *Lokasutta*
+### SN 56.28 The World *Lokasutta*
 
 "Mendicants, there are these four noble truths. What four? The noble
 truths of suffering, the origin of suffering, the cessation of
@@ -641,7 +641,7 @@ Realized One is the Noble One. That's why they're called 'noble truths'.
 That's why you should practice meditation ..."
 
 <!--pg-->
-### N 56.29 Should Be Completely Understood *Pariññeyyasutta*
+### SN 56.29 Should Be Completely Understood *Pariññeyyasutta*
 
 "Mendicants, there are these four noble truths. What four? The noble
 truths of suffering, the origin of suffering, the cessation of
@@ -659,7 +659,7 @@ leads to the cessation of suffering should be developed.
 That's why you should practice meditation ..."
 
 <!--pg-->
-### N 56.30 With Gavampati *Gavampatisutta*
+### SN 56.30 With Gavampati *Gavampatisutta*
 
 At one time several mendicants were staying in the land of the
 Cetīs at Sahajāti. Now at that time, after the
@@ -687,7 +687,7 @@ the cessation of suffering.'"
 <!--pg-->
 ## The Chapter in a Rosewood Forest
 
-### N 56.31 In a Rosewood Forest *Sīsapāvanasutta*
+### SN 56.31 In a Rosewood Forest *Sīsapāvanasutta*
 
 At one time the Buddha was staying near Kosambī in a
 rosewood forest. Then the Buddha picked up a few rosewood leaves in his
@@ -717,7 +717,7 @@ That's why I've explained it.
 That's why you should practice meditation ..."
 
 <!--pg-->
-### N 56.32 Acacia Leaves *Khadirapattasutta*
+### SN 56.32 Acacia Leaves *Khadirapattasutta*
 
 "Mendicants, suppose someone were to say: 'Without truly comprehending
 the noble truths of suffering, its origin, its cessation, and the path,
@@ -744,7 +744,7 @@ make an end of suffering.' That is possible.
 That's why you should practice meditation ..."
 
 <!--pg-->
-### N 56.33 A Stick *Daṇḍasutta*
+### SN 56.33 A Stick *Daṇḍasutta*
 
 "Mendicants, suppose a stick was tossed up in the air. Sometimes it'd
 fall on its bottom and sometimes the top. It's the same for sentient
@@ -757,7 +757,7 @@ noble truths of suffering, its origin, its cessation, and the path.
 That's why you should practice meditation ..."
 
 <!--pg-->
-### N 56.34 Clothes *Celasutta*
+### SN 56.34 Clothes *Celasutta*
 
 "Mendicants, if your clothes or head were on fire, what would you do
 about it?"
@@ -776,7 +776,7 @@ cessation, and the path.
 That's why you should practice meditation ..."
 
 <!--pg-->
-### N 56.35 A Hundred Spears *Sattisatasutta*
+### SN 56.35 A Hundred Spears *Sattisatasutta*
 
 "Mendicants, suppose there was a man with a lifespan of a hundred years.
 And someone might say to him: 'Come now, my good man, they'll strike you
@@ -797,7 +797,7 @@ suffering, its origin, its cessation, and the path.
 That's why you should practice meditation ..."
 
 <!--pg-->
-### N 56.36 Living Creatures *Pāṇasutta*
+### SN 56.36 Living Creatures *Pāṇasutta*
 
 "Suppose a person was to strip all the grass, sticks, branches, and
 leaves in the Black Plum Tree Land, gather them together into one pile,
@@ -818,7 +818,7 @@ practice that leads to the cessation of suffering'.
 That's why you should practice meditation ..."
 
 <!--pg-->
-### N 56.37 The Simile of the Sun (1st) *Paṭhamasūriyasutta*
+### SN 56.37 The Simile of the Sun (1st) *Paṭhamasūriyasutta*
 
 "Mendicants, the dawn is the forerunner and precursor of the sunrise.
 
@@ -831,7 +831,7 @@ practice that leads to the cessation of suffering'.
 That's why you should practice meditation ..."
 
 <!--pg-->
-### N 56.38 The Simile of the Sun (2nd) *Dutiyasūriyasutta*
+### SN 56.38 The Simile of the Sun (2nd) *Dutiyasūriyasutta*
 
 "Mendicants, as long as the moon and the sun don't arise in the world,
 no great light or great radiance appears. Darkness prevails then, utter
@@ -856,7 +856,7 @@ The noble truths of suffering, its origin, its cessation, and the path.
 That's why you should practice meditation ..."
 
 <!--pg-->
-### N 56.39 A Boundary Pillar *Indakhīlasutta*
+### SN 56.39 A Boundary Pillar *Indakhīlasutta*
 
 "Mendicants, there are ascetics and brahmins who don't truly understand
 about suffering, its origin, its cessation, and the path. They gaze up
@@ -897,7 +897,7 @@ suffering, its origin, its cessation, and the path.
 That's why you should practice meditation ..."
 
 <!--pg-->
-### N 56.40 Looking For a Debate *Vādatthikasutta*
+### SN 56.40 Looking For a Debate *Vādatthikasutta*
 
 "Mendicants, take any mendicant who truly understands: 'This is
 suffering' ... 'This is the origin of suffering' ... 'This is the
@@ -928,7 +928,7 @@ That's why you should practice meditation ..."
 <!--pg-->
 ## The Chapter on a Cliff
 
-### N 56.41 Speculation About the World *Lokacintāsutta*
+### SN 56.41 Speculation About the World *Lokacintāsutta*
 
 At one time the Buddha was staying near Rājagaha, in the
 Bamboo Grove, the squirrels' feeding ground. There the Buddha addressed
@@ -984,7 +984,7 @@ extinguishment.
 That's why you should practice meditation ..."
 
 <!--pg-->
-### N 56.42 A Cliff *Papātasutta*
+### SN 56.42 A Cliff *Papātasutta*
 
 At one time the Buddha was staying near Rājagaha, on the
 Vulture's Peak Mountain.
@@ -1029,7 +1029,7 @@ I say.
 That's why you should practice meditation ..."
 
 <!--pg-->
-### N 56.43 The Mighty Fever *Mahāpariḷāhasutta*
+### SN 56.43 The Mighty Fever *Mahāpariḷāhasutta*
 
 "Mendicants, there is a hell called 'The Mighty Fever'. There, whatever
 sight you see with your eye is unlikable, not likable; undesirable, not
@@ -1067,7 +1067,7 @@ I say.
 That's why you should practice meditation ..."
 
 <!--pg-->
-### N 56.44 A Bungalow *Kūṭāgārasutta*
+### SN 56.44 A Bungalow *Kūṭāgārasutta*
 
 "Mendicants, suppose someone were to say: 'Without truly comprehending
 the noble truths of suffering, its origin, its cessation, and the path,
@@ -1092,7 +1092,7 @@ completely make an end of suffering.' That is possible.
 That's why you should practice meditation ..."
 
 <!--pg-->
-### N 56.45 Splitting Hairs *Vālasutta*
+### SN 56.45 Splitting Hairs *Vālasutta*
 
 At one time the Buddha was staying near Vesālī, at the
 Great Wood, in the hall with the peaked roof.
@@ -1125,7 +1125,7 @@ cessation, and the path penetrate something tougher than that.
 That's why you should practice meditation ..."
 
 <!--pg-->
-### N 56.46 Darkness *Andhakārasutta*
+### SN 56.46 Darkness *Andhakārasutta*
 
 "Mendicants, the boundless void of interstellar space is so utterly dark
 that even the light of the moon and the sun, so mighty and powerful,
@@ -1160,7 +1160,7 @@ I say.
 That's why you should practice meditation ..."
 
 <!--pg-->
-### N 56.47 A Yoke With a Hole (1st) *Paṭhamachiggaḷayugasutta*
+### SN 56.47 A Yoke With a Hole (1st) *Paṭhamachiggaḷayugasutta*
 
 "Mendicants, suppose a person were to throw a yoke with a single hole
 into the ocean. And there was a one-eyed turtle who popped up once every
@@ -1185,7 +1185,7 @@ its origin, its cessation, and the path.
 That's why you should practice meditation ..."
 
 <!--pg-->
-### N 56.48 A Yoke With a Hole (2nd) *Dutiyachiggaḷayugasutta*
+### SN 56.48 A Yoke With a Hole (2nd) *Dutiyachiggaḷayugasutta*
 
 "Mendicants, suppose the earth was entirely covered with water. And a
 person threw a yoke with a single hole into it. The east wind wafts it
@@ -1211,7 +1211,7 @@ shines in the world.
 That's why you should practice meditation ..."
 
 <!--pg-->
-### N 56.49 Sineru, King of Mountains (1st) *Paṭhamasinerupabbatarājasutta*
+### SN 56.49 Sineru, King of Mountains (1st) *Paṭhamasinerupabbatarājasutta*
 
 "Mendicants, suppose a person was to place down on Sineru, the king of
 mountains, seven pebbles the size of mung beans.
@@ -1234,7 +1234,7 @@ the path.
 That's why you should practice meditation ..."
 
 <!--pg-->
-### N 56.50 Sineru, King of Mountains (2nd) *Dutiyasinerupabbatarājasutta*
+### SN 56.50 Sineru, King of Mountains (2nd) *Dutiyasinerupabbatarājasutta*
 
 "Mendicants, suppose Sineru, the king of mountains, was worn away and
 eroded except for seven pebbles the size of mustard seeds.
@@ -1261,7 +1261,7 @@ That's why you should practice meditation ..."
 <!--pg-->
 ## The Chapter on Comprehension
 
-### N 56.51 A Fingernail *Nakhasikhāsutta*
+### SN 56.51 A Fingernail *Nakhasikhāsutta*
 
 Then the Buddha, picking up a little bit of dirt under his fingernail,
 addressed the mendicants: "What do you think, mendicants? Which is more:
@@ -1282,7 +1282,7 @@ the path.
 That's why you should practice meditation ..."
 
 <!--pg-->
-### N 56.52 A Lotus Pond *Pokkharaṇīsutta*
+### SN 56.52 A Lotus Pond *Pokkharaṇīsutta*
 
 "Mendicants, suppose there was a lotus pond that was fifty leagues long,
 fifty leagues wide, and fifty leagues deep, full to the brim so a crow
@@ -1302,7 +1302,7 @@ fraction."
 That's why you should practice meditation ..."
 
 <!--pg-->
-### N 56.53 Where the Waters Flow Together (1st) *Paṭhamasambhejjasutta*
+### SN 56.53 Where the Waters Flow Together (1st) *Paṭhamasambhejjasutta*
 
 "Mendicants, there are places where the great rivers---the Ganges,
 Yamuna, Aciravatī, Sarabhū, and
@@ -1321,7 +1321,7 @@ doesn't count, there's no comparison, it's not worth a fraction."
 That's why you should practice meditation ..."
 
 <!--pg-->
-### N 56.54 Where the Waters Flow Together (2nd) *Dutiyasambhejjasutta*
+### SN 56.54 Where the Waters Flow Together (2nd) *Dutiyasambhejjasutta*
 
 "Mendicants, there are places where the great rivers---the Ganges,
 Yamuna, Aciravatī, Sarabhū, and
@@ -1342,7 +1342,7 @@ count, there's no comparison, it's not worth a fraction."
 That's why you should practice meditation ..."
 
 <!--pg-->
-### N 56.55 The Earth (1st) *Paṭhamamahāpathavīsutta*
+### SN 56.55 The Earth (1st) *Paṭhamamahāpathavīsutta*
 
 "Mendicants, suppose a person was to place seven clay balls the size of
 jujube seeds on the great earth.
@@ -1359,7 +1359,7 @@ there's no comparison, they're not worth a fraction."
 That's why you should practice meditation ..."
 
 <!--pg-->
-### N 56.56 The Earth (2nd) *Dutiyamahāpathavīsutta*
+### SN 56.56 The Earth (2nd) *Dutiyamahāpathavīsutta*
 
 "Mendicants, suppose the great earth was worn away and eroded except for
 seven clay balls the size of jujube seeds.
@@ -1378,7 +1378,7 @@ there's no comparison, they're not worth a fraction."
 That's why you should practice meditation ..."
 
 <!--pg-->
-### N 56.57 The Ocean (1st) *Paṭhamamahāsamuddasutta*
+### SN 56.57 The Ocean (1st) *Paṭhamamahāsamuddasutta*
 
 "Mendicants, suppose a man was to draw up two or three drops of water
 from the ocean.
@@ -1395,7 +1395,7 @@ count, there's no comparison, it's not worth a fraction."
 That's why you should practice meditation ..."
 
 <!--pg-->
-### N 56.58 The Ocean (2nd) *Dutiyamahāsamuddasutta*
+### SN 56.58 The Ocean (2nd) *Dutiyamahāsamuddasutta*
 
 "Mendicants, suppose the water in the ocean dried up and evaporated
 except for two or three drops.
@@ -1413,7 +1413,7 @@ there's no comparison, it's not worth a fraction."
 That's why you should practice meditation ..."
 
 <!--pg-->
-### N 56.59 A Mountain (1st) *Paṭhamapabbatūpamasutta*
+### SN 56.59 A Mountain (1st) *Paṭhamapabbatūpamasutta*
 
 "Mendicants, suppose a person was to place seven pebbles the size of
 mustard seeds on the Himalayas, the king of mountains.
@@ -1430,7 +1430,7 @@ they don't count, there's no comparison, they're not worth a fraction."
 That's why you should practice meditation ..."
 
 <!--pg-->
-### N 56.60 A Mountain (2nd) *Dutiyapabbatūpamasutta*
+### SN 56.60 A Mountain (2nd) *Dutiyapabbatūpamasutta*
 
 "Mendicants, suppose the Himalayas, the king of mountains, was worn away
 and eroded except for seven pebbles the size of mustard seeds.
@@ -1457,7 +1457,7 @@ That's why you should practice meditation ..."
 <!--pg-->
 ## The First Chapter of Abbreviated Texts on Raw Grain
 
-### N 56.61 Not Human *Aññatrasutta*
+### SN 56.61 Not Human *Aññatrasutta*
 
 Then the Buddha, picking up a little bit of dirt under his fingernail,
 addressed the mendicants: "What do you think, mendicants? Which is more:
@@ -1475,7 +1475,7 @@ suffering, its origin, its cessation, and the path.
 That's why you should practice meditation ..."
 
 <!--pg-->
-### N 56.62 In the Borderlands *Paccantasutta*
+### SN 56.62 In the Borderlands *Paccantasutta*
 
 Then the Buddha, picking up a little bit of dirt under his fingernail,
 addressed the mendicants: "What do you think, mendicants? Which is more:
@@ -1490,49 +1490,49 @@ few, while those reborn in the borderlands, among uneducated foreigners,
 are many. ..."
 
 <!--pg-->
-### N 56.63 Wisdom *Paññāsutta*
+### SN 56.63 Wisdom *Paññāsutta*
 
 "... the sentient beings who have the noble eye of wisdom are few, while
 those who are ignorant and confused are many. ..."
 
 <!--pg-->
-### N 56.64 Beer and Wine *Surāmerayasutta*
+### SN 56.64 Beer and Wine *Surāmerayasutta*
 
 "... the sentient beings who refrain from beer, wine, and liquor
 intoxicants, are few, while those who don't refrain are many. ..."
 
 <!--pg-->
-### N 56.65 Born in Water *Odakasutta*
+### SN 56.65 Born in Water *Odakasutta*
 
 "... the sentient beings born on land are few, while those born in water
 are many. ..."
 
 <!--pg-->
-### N 56.66 Respect Mother *Matteyyasutta*
+### SN 56.66 Respect Mother *Matteyyasutta*
 
 "... the sentient beings who respect their mothers are few, while those
 who don't are many. ..."
 
 <!--pg-->
-### N 56.67 Respect Father *Petteyyasutta*
+### SN 56.67 Respect Father *Petteyyasutta*
 
 "... the sentient beings who respect their fathers are few, while those
 who don't are many. ..."
 
 <!--pg-->
-### N 56.68 Respect Ascetics *Sāmaññasutta*
+### SN 56.68 Respect Ascetics *Sāmaññasutta*
 
 "... the sentient beings who respect ascetics are few, while those who
 don't are many. ..."
 
 <!--pg-->
-### N 56.69 Respect Brahmins *Brahmaññasutta*
+### SN 56.69 Respect Brahmins *Brahmaññasutta*
 
 "... the sentient beings who respect brahmins are few, while those who
 don't are many. ..."
 
 <!--pg-->
-### N 56.70 Honor the Elders *Pacāyikasutta*
+### SN 56.70 Honor the Elders *Pacāyikasutta*
 
 "... the sentient beings who honor the elders in the family are few,
 while those who don't are many. ..."
@@ -1540,61 +1540,61 @@ while those who don't are many. ..."
 <!--pg-->
 ## The Second Chapter of Abbreviated Texts on Raw Grain
 
-### N 56.71 Killing Living Creatures *Pāṇātipātasutta*
+### SN 56.71 Killing Living Creatures *Pāṇātipātasutta*
 
 "... the sentient beings who refrain from killing living creatures are
 few, while those who don't refrain are many. ..."
 
 <!--pg-->
-### N 56.72 Stealing *Adinnādānasutta*
+### SN 56.72 Stealing *Adinnādānasutta*
 
 "... the sentient beings who refrain from stealing are few, while those
 who don't refrain are many. ..."
 
 <!--pg-->
-### N 56.73 Sexual Misconduct *Kāmesumicchācārasutta*
+### SN 56.73 Sexual Misconduct *Kāmesumicchācārasutta*
 
 "... the sentient beings who refrain from sexual misconduct are few,
 while those who don't refrain are many. ..."
 
 <!--pg-->
-### N 56.74 Lying *Musāvādasutta*
+### SN 56.74 Lying *Musāvādasutta*
 
 "... the sentient beings who refrain from lying are few, while those who
 don't refrain are many. ..."
 
 <!--pg-->
-### N 56.75 Divisive Speech *Pesuññasutta*
+### SN 56.75 Divisive Speech *Pesuññasutta*
 
 "... the sentient beings who refrain from divisive speech are few, while
 those who don't refrain are many. ..."
 
 <!--pg-->
-### N 56.76 Harsh Speech *Pharusavācāsutta*
+### SN 56.76 Harsh Speech *Pharusavācāsutta*
 
 "... the sentient beings who refrain from harsh speech are few, while
 those who don't refrain are many. ..."
 
 <!--pg-->
-### N 56.77 Nonsense *Samphappalāpasutta*
+### SN 56.77 Nonsense *Samphappalāpasutta*
 
 "... the sentient beings who refrain from talking nonsense are few,
 while those who don't refrain are many. ..."
 
 <!--pg-->
-### N 56.78 Plants *Bījagāmasutta*
+### SN 56.78 Plants *Bījagāmasutta*
 
 "... the sentient beings who refrain from injuring plants and seeds are
 few, while those who don't refrain are many. ..."
 
 <!--pg-->
-### N 56.79 Food at the Wrong Time *Vikālabhojanasutta*
+### SN 56.79 Food at the Wrong Time *Vikālabhojanasutta*
 
 "... the sentient beings who refrain from food at the wrong time are
 few, while those who don't refrain are many. ..."
 
 <!--pg-->
-### N 56.80 Fragrance and Makeup *Gandhavilepanasutta*
+### SN 56.80 Fragrance and Makeup *Gandhavilepanasutta*
 
 "... the sentient beings who refrain from beautifying and adorning
 themselves with garlands, fragrance, and makeup are few, while those who
@@ -1603,61 +1603,61 @@ don't refrain are many ..."
 <!--pg-->
 ## The Third Chapter of Abbreviated Texts on Raw Grain
 
-### N 56.81 Dancing and Singing *Naccagītasutta*
+### SN 56.81 Dancing and Singing *Naccagītasutta*
 
 .... "... the sentient beings who refrain from seeing shows of dancing,
 singing, and music are few, while those who don't refrain are many ..."
 
 <!--pg-->
-### N 56.82 High Beds *Uccāsayanasutta*
+### SN 56.82 High Beds *Uccāsayanasutta*
 
 "... the sentient beings who refrain from high and luxurious beds are
 few, while those who don't refrain are many. ..."
 
 <!--pg-->
-### N 56.83 Gold and Currency *Jātarūparajatasutta*
+### SN 56.83 Gold and Currency *Jātarūparajatasutta*
 
 "... the sentient beings who refrain from receiving gold and currency
 are few, while those who don't refrain are many. ..."
 
 <!--pg-->
-### N 56.84 Raw Grain *Āmakadhaññasutta*
+### SN 56.84 Raw Grain *Āmakadhaññasutta*
 
 "... the sentient beings who refrain from receiving raw grain are few,
 while those who don't refrain are many. ..."
 
 <!--pg-->
-### N 56.85 Raw Meat *Āmakamaṁsasutta*
+### SN 56.85 Raw Meat *Āmakamaṁsasutta*
 
 "... the sentient beings who refrain from receiving raw meat are few,
 while those who don't refrain are many. ..."
 
 <!--pg-->
-### N 56.86 Women and Girls *Kumārikasutta*
+### SN 56.86 Women and Girls *Kumārikasutta*
 
 "... the sentient beings who refrain from receiving women and girls are
 few, while those who don't refrain are many. ..."
 
 <!--pg-->
-### N 56.87 Bondservants *Dāsidāsasutta*
+### SN 56.87 Bondservants *Dāsidāsasutta*
 
 "... the sentient beings who refrain from receiving male and female
 bondservants are few, while those who don't refrain are many. ..."
 
 <!--pg-->
-### N 56.88 Goats and Sheep *Ajeḷakasutta*
+### SN 56.88 Goats and Sheep *Ajeḷakasutta*
 
 "... the sentient beings who refrain from receiving goats and sheep are
 few, while those who don't refrain are many. ..."
 
 <!--pg-->
-### N 56.89 Chickens and Pigs *Kukkuṭasūkarasutta*
+### SN 56.89 Chickens and Pigs *Kukkuṭasūkarasutta*
 
 "... the sentient beings who refrain from receiving chickens and pigs
 are few, while those who don't refrain are many. ..."
 
 <!--pg-->
-### N 56.90 Elephants and Cows *Hatthigavassasutta*
+### SN 56.90 Elephants and Cows *Hatthigavassasutta*
 
 "... the sentient beings who refrain from receiving elephants, cows,
 horses, and mares are few, while those who don't refrain are many. ..."
@@ -1665,37 +1665,37 @@ horses, and mares are few, while those who don't refrain are many. ..."
 <!--pg-->
 ## The Fourth Chapter of Abbreviated Texts on Raw Grain
 
-### N 56.91 Fields and Land *Khettavatthusutta*
+### SN 56.91 Fields and Land *Khettavatthusutta*
 
 "... the sentient beings who refrain from receiving fields and land are
 few, while those who don't refrain are many. ..."
 
 <!--pg-->
-### N 56.92 Buying and Selling *Kayavikkayasutta*
+### SN 56.92 Buying and Selling *Kayavikkayasutta*
 
 "... the sentient beings who refrain from buying and selling are few,
 while those who don't refrain are many. ..."
 
 <!--pg-->
-### N 56.93 Errands *Dūteyyasutta*
+### SN 56.93 Errands *Dūteyyasutta*
 
 "... the sentient beings who refrain from running errands and messages
 are few, while those who don't refrain are many. ..."
 
 <!--pg-->
-### N 56.94 False Weights *Tulākūṭasutta*
+### SN 56.94 False Weights *Tulākūṭasutta*
 
 "... the sentient beings who refrain from falsifying weights, metals, or
 measures are few, while those who don't refrain are many. ..."
 
 <!--pg-->
-### N 56.95 Bribery *Ukkoṭanasutta*
+### SN 56.95 Bribery *Ukkoṭanasutta*
 
 "... the sentient beings who refrain from bribery, fraud, cheating, and
 duplicity are few, while those who don't refrain are many. ..."
 
 <!--pg-->
-### N 56.96--101 Mutilation, Etc. *Chedanādisutta*
+### SN 56.96--101 Mutilation, Etc. *Chedanādisutta*
 
 "... the sentient beings who refrain from mutilation, murder, abduction,
 banditry, plunder, and violence are few, while those who don't refrain
@@ -1708,83 +1708,83 @@ That's why you should practice meditation ..."
 <!--pg-->
 ## The Chapter of Abbreviated Texts on Five Destinations
 
-### N 56.102 Passing Away as Humans and Reborn in Hell *Manussacutinirayasutta*
+### SN 56.102 Passing Away as Humans and Reborn in Hell *Manussacutinirayasutta*
 
 "... the sentient beings who die as humans and are reborn as humans are
 few, while those who die as humans and are reborn in hell are many ..."
 
 <!--pg-->
-### N 56.103 Passing Away as Humans and Reborn as Animals *Manussacutitiracchānasutta*
+### SN 56.103 Passing Away as Humans and Reborn as Animals *Manussacutitiracchānasutta*
 
 "... the sentient beings who die as humans and are reborn as humans are
 few, while those who die as humans and are reborn in the animal realm
 are many ..."
 
 <!--pg-->
-### N 56.104 Passing Away as Humans and Reborn as Ghosts *Manussacutipettivisayasutta*
+### SN 56.104 Passing Away as Humans and Reborn as Ghosts *Manussacutipettivisayasutta*
 
 "... the sentient beings who die as humans and are reborn as humans are
 few, while those who die as humans and are reborn in the ghost realm are
 many ..."
 
 <!--pg-->
-### N 56.105--107 Passing Away as Humans and Reborn as Gods *Manussacutidevanirayādisutta*
+### SN 56.105--107 Passing Away as Humans and Reborn as Gods *Manussacutidevanirayādisutta*
 
 "... the sentient beings who die as humans and are reborn as gods are
 few, while those who die as humans and are reborn in hell, or the animal
 realm, or the ghost realm are many."
 
 <!--pg-->
-### N 56.108--110 Passing Away as Gods and Reborn as Gods *Devacutinirayādisutta*
+### SN 56.108--110 Passing Away as Gods and Reborn as Gods *Devacutinirayādisutta*
 
 "... the sentient beings who die as gods and are reborn as gods are few,
 while those who die as gods and are reborn in hell, or the animal realm,
 or the ghost realm are many."
 
 <!--pg-->
-### N 56.111--113 Dying as Gods and Reborn as Humans *Devamanussanirayādisutta*
+### SN 56.111--113 Dying as Gods and Reborn as Humans *Devamanussanirayādisutta*
 
 "... the sentient beings who die as gods and are reborn as humans are
 few, while those who die as gods and are reborn in hell, or the animal
 realm, or the ghost realm are many."
 
 <!--pg-->
-### N 56.114--116 Dying in Hell and Reborn as Humans *Nirayamanussanirayādisutta*
+### SN 56.114--116 Dying in Hell and Reborn as Humans *Nirayamanussanirayādisutta*
 
 "... the sentient beings who die in hell and are reborn as humans are
 few, while those who die in hell and are reborn in hell, or the animal
 realm, or the ghost realm are many."
 
 <!--pg-->
-### N 56.117--119 Dying in Hell and Reborn as Gods *Nirayadevanirayādisutta*
+### SN 56.117--119 Dying in Hell and Reborn as Gods *Nirayadevanirayādisutta*
 
 "... the sentient beings who die in hell and are reborn as gods are few,
 while those who die in hell and are reborn in hell, or the animal realm,
 or the ghost realm are many."
 
 <!--pg-->
-### N 56.120--122 Dying as Animals and Reborn as Humans *Tiracchānamanussanirayādisutta*
+### SN 56.120--122 Dying as Animals and Reborn as Humans *Tiracchānamanussanirayādisutta*
 
 "... the sentient beings who die as animals and are reborn as humans are
 few, while those who die as animals and are reborn in hell, or the
 animal realm, or the ghost realm are many."
 
 <!--pg-->
-### N 56.123--125 Dying as Animals and Reborn as Gods *Tiracchānadevanirayādisutta*
+### SN 56.123--125 Dying as Animals and Reborn as Gods *Tiracchānadevanirayādisutta*
 
 "... the sentient beings who die as animals and are reborn as gods are
 few, while those who die as animals and are reborn in hell, or the
 animal realm, or the ghost realm are many."
 
 <!--pg-->
-### N 56.126--128 Dying as Ghosts and Reborn as Humans *Pettimanussanirayādisutta*
+### SN 56.126--128 Dying as Ghosts and Reborn as Humans *Pettimanussanirayādisutta*
 
 "... the sentient beings who die as ghosts and are reborn as humans are
 few, while those who die as ghosts and are reborn in hell, or the animal
 realm, or the ghost realm are many."
 
 <!--pg-->
-### N 56.129--130 Dying as Ghosts and Reborn as Gods *Pettidevanirayādisutta*
+### SN 56.129--130 Dying as Ghosts and Reborn as Gods *Pettidevanirayādisutta*
 
 "... the sentient beings who die as ghosts and are reborn as gods are
 few, while those who die as ghosts and are reborn in hell are many."
@@ -1794,7 +1794,7 @@ few, while those who die as ghosts and are reborn in the animal realm
 are many."
 
 <!--pg-->
-### N 56.131 Dying as Ghosts and Reborn as Ghosts *Pettidevapettivisayasutta*
+### SN 56.131 Dying as Ghosts and Reborn as Ghosts *Pettidevapettivisayasutta*
 
 "... the sentient beings who die as ghosts and are reborn as gods are
 few, while those who die as ghosts and are reborn in the ghost realm are

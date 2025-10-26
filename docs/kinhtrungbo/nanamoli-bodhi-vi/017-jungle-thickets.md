@@ -1,4 +1,4 @@
-# 17. Khu Rừng Rậm
+# MN 17. Khu Rừng Rậm
 ***(Vanapattha Sutta)***
 
 1\. Tôi nghe như vầy. Có lần, Đức Phật (The Blessed One) đang ở tại Sāvatthī trong khu vườn Jeta, công viên của Anāthapindika. Tại đó, ngài nói với các tỳ kheo (bhikkhus - các nhà sư) rằng: "Này các tỳ kheo." - "Thưa vâng, bạch Thế Tôn," họ đáp. Đức Phật nói điều này:

@@ -1,4 +1,4 @@
-# 74. Kinh gửi Dīghanakha
+# MN 74. Kinh gửi Dīghanakha
 ***(Dīghanakha Sutta - Kinh Trường Trảo)***
 
 1\.  Như vầy tôi nghe. Một thời Đức Thế Tôn trú tại thành Vương Xá (Rājagaha), trong Hang Heo Rừng (Sūkarakhatā) trên núi Linh Thứu (Gijjhakūṭa).

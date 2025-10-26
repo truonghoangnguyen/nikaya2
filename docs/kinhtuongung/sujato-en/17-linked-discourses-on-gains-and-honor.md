@@ -3,7 +3,7 @@
 <!--pg-->
 ## Chapter One
 
-### N 17.1 Brutal *Dāruṇasutta*
+### SN 17.1 Brutal *Dāruṇasutta*
 
 So I have heard. At one time the Buddha was staying near
 Sāvatthī in Jeta's Grove, Anāthapiṇḍika's
@@ -19,7 +19,7 @@ honor, and popularity, and we won't let them occupy our minds.' That's
 how you should train."
 
 <!--pg-->
-### N 17.2 A Hook *Baḷisasutta*
+### SN 17.2 A Hook *Baḷisasutta*
 
 At Sāvatthī.
 
@@ -45,7 +45,7 @@ honor, and popularity, and we won't let them occupy our minds.' That's
 how you should train."
 
 <!--pg-->
-### N 17.3 A Turtle *Kummasutta*
+### SN 17.3 A Turtle *Kummasutta*
 
 At Sāvatthī.
 
@@ -85,7 +85,7 @@ tragedy and disaster, and the Wicked One can do with them what he wants.
 So brutal are possessions, honor, and popularity. ..."
 
 <!--pg-->
-### N 17.4 A Fleecy Sheep *Dīghalomikasutta*
+### SN 17.4 A Fleecy Sheep *Dīghalomikasutta*
 
 At Sāvatthī.
 
@@ -103,7 +103,7 @@ ruin.
 So brutal are possessions, honor, and popularity. ..."
 
 <!--pg-->
-### N 17.5 A Dung Beetle *Mīḷhakasutta*
+### SN 17.5 A Dung Beetle *Mīḷhakasutta*
 
 At Sāvatthī.
 
@@ -130,7 +130,7 @@ This will be for their lasting harm and suffering.
 So brutal are possessions, honor, and popularity. ..."
 
 <!--pg-->
-### N 17.6 A Bolt of Lightning *Asanisutta*
+### SN 17.6 A Bolt of Lightning *Asanisutta*
 
 At Sāvatthī.
 
@@ -144,7 +144,7 @@ honor, and popularity before they achieve their heart's desire.
 So brutal are possessions, honor, and popularity. ..."
 
 <!--pg-->
-### N 17.7 A Poisoned Arrow *Diddhasutta*
+### SN 17.7 A Poisoned Arrow *Diddhasutta*
 
 At Sāvatthī.
 
@@ -159,7 +159,7 @@ desire.
 So brutal are possessions, honor, and popularity. ..."
 
 <!--pg-->
-### N 17.8 A Jackal *Siṅgālasutta*
+### SN 17.8 A Jackal *Siṅgālasutta*
 
 At Sāvatthī.
 
@@ -181,7 +181,7 @@ go, stand, sit, or lie down they meet with tragedy and disaster.
 So brutal are possessions, honor, and popularity. ..."
 
 <!--pg-->
-### N 17.9 Gale-force Winds *Verambhasutta*
+### SN 17.9 Gale-force Winds *Verambhasutta*
 
 At Sāvatthī.
 
@@ -204,7 +204,7 @@ just like the bird flung about by the gale-force winds.
 So brutal are possessions, honor, and popularity. ..."
 
 <!--pg-->
-### N 17.10 With Verses *Sagāthakasutta*
+### SN 17.10 With Verses *Sagāthakasutta*
 
 At Sāvatthī.
 
@@ -242,7 +242,7 @@ say:
 <!--pg-->
 ## Chapter Two
 
-### N 17.11 A Gold Cup *Suvaṇṇapātisutta*
+### SN 17.11 A Gold Cup *Suvaṇṇapātisutta*
 
 At Sāvatthī.
 
@@ -257,7 +257,7 @@ possessions, honor, and popularity.
 So brutal are possessions, honor, and popularity. ..."
 
 <!--pg-->
-### N 17.12 A Silver Pot *Rūpiyapātisutta*
+### SN 17.12 A Silver Pot *Rūpiyapātisutta*
 
 At Sāvatthī.
 
@@ -272,7 +272,7 @@ possessions, honor, and popularity.
 So brutal are possessions, honor, and popularity. ..."
 
 <!--pg-->
-### N 17.13--20 A Gold Ingot, Etc. *Suvaṇṇanikkhasuttādiaṭṭhaka*
+### SN 17.13--20 A Gold Ingot, Etc. *Suvaṇṇanikkhasuttādiaṭṭhaka*
 
 At Sāvatthī.
 
@@ -301,7 +301,7 @@ So brutal are possessions, honor, and popularity. ..."
 <!--pg-->
 ## Chapter Three
 
-### N 17.21 A Female *Mātugāmasutta*
+### SN 17.21 A Female *Mātugāmasutta*
 
 At Sāvatthī.
 
@@ -313,7 +313,7 @@ possessions, honor and popularity would still occupy your mind.
 So brutal are possessions, honor, and popularity. ..."
 
 <!--pg-->
-### N 17.22 The Finest Lady in the Land *Kalyāṇīsutta*
+### SN 17.22 The Finest Lady in the Land *Kalyāṇīsutta*
 
 At Sāvatthī.
 
@@ -326,7 +326,7 @@ occupy your mind.
 So brutal are possessions, honor, and popularity. ..."
 
 <!--pg-->
-### N 17.23 An Only Son *Ekaputtakasutta*
+### SN 17.23 An Only Son *Ekaputtakasutta*
 
 At Sāvatthī.
 
@@ -355,7 +355,7 @@ possessions, honor, and popularity it's an obstacle for them.
 So brutal are possessions, honor, and popularity. ..."
 
 <!--pg-->
-### N 17.24 An Only Daughter *Ekadhītusutta*
+### SN 17.24 An Only Daughter *Ekadhītusutta*
 
 At Sāvatthī.
 
@@ -384,7 +384,7 @@ comes into possessions, honor, and popularity it's an obstacle for them.
 So brutal are possessions, honor, and popularity. ..."
 
 <!--pg-->
-### N 17.25 Ascetics and Brahmins *Samaṇabrāhmaṇasutta*
+### SN 17.25 Ascetics and Brahmins *Samaṇabrāhmaṇasutta*
 
 At Sāvatthī.
 
@@ -401,7 +401,7 @@ venerables realize the goal of life as an ascetic or brahmin, and live
 having realized it with their own insight."
 
 <!--pg-->
-### N 17.26 Ascetics and Brahmins (2nd) *Dutiyasamaṇabrāhmaṇasutta*
+### SN 17.26 Ascetics and Brahmins (2nd) *Dutiyasamaṇabrāhmaṇasutta*
 
 At Sāvatthī.
 
@@ -412,7 +412,7 @@ possessions, honor, and popularity ...
 There are ascetics and brahmins who do truly understand ..."
 
 <!--pg-->
-### N 17.27 Ascetics and Brahmins (3rd) *Tatiyasamaṇabrāhmaṇasutta*
+### SN 17.27 Ascetics and Brahmins (3rd) *Tatiyasamaṇabrāhmaṇasutta*
 
 At Sāvatthī.
 
@@ -423,7 +423,7 @@ leads to their cessation ...
 There are ascetics and brahmins who do truly understand ..."
 
 <!--pg-->
-### N 17.28 Skin *Chavisutta*
+### SN 17.28 Skin *Chavisutta*
 
 At Sāvatthī.
 
@@ -435,7 +435,7 @@ bones, until they reach the marrow and keep pushing.
 So brutal are possessions, honor, and popularity. ..."
 
 <!--pg-->
-### N 17.29 A Rope *Rajjusutta*
+### SN 17.29 A Rope *Rajjusutta*
 
 At Sāvatthī.
 
@@ -456,7 +456,7 @@ reach the marrow and keep pushing.
 So brutal are possessions, honor, and popularity. ..."
 
 <!--pg-->
-### N 17.30 A Mendicant With Defilements Ended *Bhikkhusutta*
+### SN 17.30 A Mendicant With Defilements Ended *Bhikkhusutta*
 
 At Sāvatthī.
 
@@ -482,7 +482,7 @@ how you should train."
 <!--pg-->
 ## Chapter Four
 
-### N 17.31 Schism *Bhindisutta*
+### SN 17.31 Schism *Bhindisutta*
 
 At Sāvatthī.
 
@@ -494,7 +494,7 @@ and overwhelmed by possessions, honor, and popularity.
 So brutal are possessions, honor, and popularity. ..."
 
 <!--pg-->
-### N 17.32 Skillful Root *Kusalamūlasutta*
+### SN 17.32 Skillful Root *Kusalamūlasutta*
 
 At Sāvatthī.
 
@@ -506,7 +506,7 @@ overwhelmed by possessions, honor, and popularity.
 So brutal are possessions, honor, and popularity. ..."
 
 <!--pg-->
-### N 17.33 Skillful Quality *Kusaladhammasutta*
+### SN 17.33 Skillful Quality *Kusaladhammasutta*
 
 At Sāvatthī.
 
@@ -518,7 +518,7 @@ overwhelmed by possessions, honor, and popularity.
 So brutal are possessions, honor, and popularity. ..."
 
 <!--pg-->
-### N 17.34 Bright Quality *Sukkadhammasutta*
+### SN 17.34 Bright Quality *Sukkadhammasutta*
 
 At Sāvatthī.
 
@@ -530,7 +530,7 @@ overwhelmed by possessions, honor, and popularity.
 So brutal are possessions, honor, and popularity. ..."
 
 <!--pg-->
-### N 17.35 Shortly After He Left *Acirapakkantasutta*
+### SN 17.35 Shortly After He Left *Acirapakkantasutta*
 
 At one time the Buddha was staying near Rājagaha, on the
 Vulture's Peak Mountain, not long after Devadatta had left. There the
@@ -558,7 +558,7 @@ say:
 > as pregnancy destroys a mule."
 
 <!--pg-->
-### N 17.36 Five Hundred Carts *Pañcarathasatasutta*
+### SN 17.36 Five Hundred Carts *Pañcarathasatasutta*
 
 Near Rājagaha, in the Bamboo Grove, the squirrels' feeding
 ground.
@@ -588,7 +588,7 @@ food, Devadatta can expect decline, not growth, in skillful qualities.
 So brutal are possessions, honor, and popularity. ..."
 
 <!--pg-->
-### N 17.37 Mother *Mātusutta*
+### SN 17.37 Mother *Mātusutta*
 
 At Sāvatthī.
 
@@ -608,7 +608,7 @@ honor, and popularity, and we won't let them occupy our minds.' That's
 how you should train."
 
 <!--pg-->
-### N 17.38--43 Father, Etc. *Pitusuttādichakka*
+### SN 17.38--43 Father, Etc. *Pitusuttādichakka*
 
 At Sāvatthī.
 

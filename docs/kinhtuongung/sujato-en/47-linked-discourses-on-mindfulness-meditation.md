@@ -3,7 +3,7 @@
 <!--pg-->
 ## The Chapter on Ambapālī the Courtesan
 
-### N 47.1 In Ambapālī's Mango Grove *Ambapālisutta*
+### SN 47.1 In Ambapālī's Mango Grove *Ambapālisutta*
 
 So I have heard. At one time the Buddha was staying near
 Vesālī, in Ambapālī's Mango Grove. There the
@@ -38,7 +38,7 @@ That is what the Buddha said. Satisfied, the mendicants approved what
 the Buddha said.
 
 <!--pg-->
-### N 47.2 Mindful *Satisutta*
+### SN 47.2 Mindful *Satisutta*
 
 At one time the Buddha was staying near Vesālī, in
 Ambapālī's mango grove. There the Buddha addressed the
@@ -66,7 +66,7 @@ situational awareness. A mendicant should live mindful and aware. This
 is my instruction to you."
 
 <!--pg-->
-### N 47.3 A Monk *Bhikkhusutta*
+### SN 47.3 A Monk *Bhikkhusutta*
 
 At one time the Buddha was staying near Sāvatthī in Jeta's
 Grove, Anāthapiṇḍika's monastery.
@@ -128,7 +128,7 @@ completed; what had to be done has been done; there is nothing further
 for this place." And that mendicant became one of the perfected.
 
 <!--pg-->
-### N 47.4 At Sālā *Sālasutta*
+### SN 47.4 At Sālā *Sālasutta*
 
 At one time the Buddha was staying in the land of the Kosalans near the
 brahmin village of Sālā. There the Buddha addressed the
@@ -183,7 +183,7 @@ this teaching and training---should be encouraged, supported, and
 established in these four kinds of mindfulness meditation."
 
 <!--pg-->
-### N 47.5 A Heap of the Unskillful *Akusalarāsisutta*
+### SN 47.5 A Heap of the Unskillful *Akusalarāsisutta*
 
 At Sāvatthī.
 
@@ -209,7 +209,7 @@ a 'heap of the skillful'. For these four kinds of mindfulness meditation
 are entirely a heap of the skillful."
 
 <!--pg-->
-### N 47.6 A Hawk *Sakuṇagghisutta*
+### SN 47.6 A Hawk *Sakuṇagghisutta*
 
 "Once upon a time, mendicants, a hawk suddenly swooped down and grabbed
 a quail. And as the quail was being carried off he wailed, 'I'm so
@@ -263,7 +263,7 @@ aware, and mindful, rid of covetousness and displeasure for the world.
 This is a mendicant's own territory, the domain of the fathers."
 
 <!--pg-->
-### N 47.7 A Monkey *Makkaṭasutta*
+### SN 47.7 A Monkey *Makkaṭasutta*
 
 "Mendicants, in the Himalayas there are regions that are rugged and
 impassable. In some such regions, neither monkeys nor humans can go,
@@ -313,7 +313,7 @@ aware, and mindful, rid of covetousness and displeasure for the world.
 This is a mendicant's own territory, the domain of the fathers."
 
 <!--pg-->
-### N 47.8 Cooks *Sūdasutta*
+### SN 47.8 Cooks *Sūdasutta*
 
 "Mendicants, suppose a foolish, incompetent, unskillful cook was to
 serve a ruler or their chief minister with an extravagant variety of
@@ -375,7 +375,7 @@ this very life, and they get mindfulness and situational awareness. Why
 is that? Because they take their mind's hint."
 
 <!--pg-->
-### N 47.9 Sick *Gilānasutta*
+### SN 47.9 Sick *Gilānasutta*
 
 So I have heard. At one time the Buddha was staying near
 Vesālī, at the little village of Beluva. There the Buddha
@@ -451,7 +451,7 @@ their island and their refuge, with no other refuge---those mendicants
 of mine who want to train shall be among the best of the best."
 
 <!--pg-->
-### N 47.10 The Nuns' Quarters *Bhikkhunupassayasutta*
+### SN 47.10 The Nuns' Quarters *Bhikkhunupassayasutta*
 
 Then Venerable Ānanda robed up in the morning and, taking his bowl and
 robe, went to the nuns' quarters, and sat down on the seat spread out.
@@ -541,7 +541,7 @@ the Buddha said.
 <!--pg-->
 ## The Chapter at Nālandā
 
-### N 47.11 A Great Man *Mahāpurisasutta*
+### SN 47.11 A Great Man *Mahāpurisasutta*
 
 At Sāvatthī.
 
@@ -568,7 +568,7 @@ Someone whose mind is free is a great man, I say. If their mind is not
 free, I say they're not a great man."
 
 <!--pg-->
-### N 47.12 At Nāḷandā *Nālandasutta*
+### SN 47.12 At Nāḷandā *Nālandasutta*
 
 At one time the Buddha was staying near Nāḷandā in
 Pāvārika's mango grove. Then Sāriputta went up
@@ -634,7 +634,7 @@ this exposition of the teaching they'll give up that doubt or
 uncertainty."
 
 <!--pg-->
-### N 47.13 With Cunda *Cundasutta*
+### SN 47.13 With Cunda *Cundasutta*
 
 At one time the Buddha was staying near Sāvatthī in Jeta's
 Grove, Anāthapiṇḍika's monastery. At that time Venerable
@@ -707,7 +707,7 @@ their island and their refuge, with no other refuge---those mendicants
 of mine who want to train shall be among the best of the best."
 
 <!--pg-->
-### N 47.14 At Ukkacelā *Ukkacelasutta*
+### SN 47.14 At Ukkacelā *Ukkacelasutta*
 
 At one time the Buddha was staying in the land of the Vajjis near
 Ukkacelā on the bank of the Ganges river, together with a
@@ -765,7 +765,7 @@ their island and their refuge, with no other refuge---those mendicants
 of mine who want to train shall be among the best of the best."
 
 <!--pg-->
-### N 47.15 With Bāhiya *Bāhiyasutta*
+### SN 47.15 With Bāhiya *Bāhiyasutta*
 
 At Sāvatthī.
 
@@ -803,7 +803,7 @@ for this place." And Venerable Bāhiya became one of the
 perfected.
 
 <!--pg-->
-### N 47.16 With Uttiya *Uttiyasutta*
+### SN 47.16 With Uttiya *Uttiyasutta*
 
 At Sāvatthī.
 
@@ -837,7 +837,7 @@ completed; what had to be done has been done; there is nothing further
 for this place." And Venerable Uttiya became one of the perfected.
 
 <!--pg-->
-### N 47.17 Noble *Ariyasutta*
+### SN 47.17 Noble *Ariyasutta*
 
 "Mendicants, when these four kinds of mindfulness meditation are
 developed and cultivated they are noble and emancipating, and bring one
@@ -854,7 +854,7 @@ cultivated they are noble and emancipating, and bring one who practices
 them to the complete ending of suffering."
 
 <!--pg-->
-### N 47.18 Divinity *Brahmasutta*
+### SN 47.18 Divinity *Brahmasutta*
 
 At one time, when he was first awakened, the Buddha was staying in
 Uruvelā at the goatherd's banyan tree on the bank of the
@@ -905,7 +905,7 @@ That's what the divinity Sahampati said. Then he went on to say:
 > will cross, and are crossing."
 
 <!--pg-->
-### N 47.19 At Sedaka *Sedakasutta*
+### SN 47.19 At Sedaka *Sedakasutta*
 
 At one time the Buddha was staying in the land of the Sumbhas, near the
 town of the Sumbhas called Sedaka. There the Buddha addressed the
@@ -949,7 +949,7 @@ mindfulness meditation. Looking after yourself, you look after others;
 and looking after others, you look after yourself."
 
 <!--pg-->
-### N 47.20 The Finest Lady in the Land *Janapadakalyāṇīsutta*
+### SN 47.20 The Finest Lady in the Land *Janapadakalyāṇīsutta*
 
 So I have heard. At one time the Buddha was staying in the
 land of the Sumbhas, near the town of the Sumbhas called Sedaka. There
@@ -987,7 +987,7 @@ train."
 <!--pg-->
 ## The Chapter on Ethics and Duration
 
-### N 47.21 Ethics *Sīlasutta*
+### SN 47.21 Ethics *Sīlasutta*
 
 So I have heard. At one time the venerables Ānanda and
 Bhadda were staying near Pāṭaliputta, in the Chicken
@@ -1017,7 +1017,7 @@ the extent necessary for developing the four kinds of mindfulness
 meditation."
 
 <!--pg-->
-### N 47.22 Long Lasting *Ciraṭṭhitisutta*
+### SN 47.22 Long Lasting *Ciraṭṭhitisutta*
 
 The same setting.
 
@@ -1053,7 +1053,7 @@ mindfulness meditation that the true teaching does last long after the
 final quenching of the Realized One."
 
 <!--pg-->
-### N 47.23 Decline *Parihānasutta*
+### SN 47.23 Decline *Parihānasutta*
 
 At one time the venerables Ānanda and Bhadda were staying near
 Pāṭaliputta, in the Chicken Monastery. Then in the late
@@ -1088,7 +1088,7 @@ four kinds of mindfulness meditation that the true teaching doesn't
 decline."
 
 <!--pg-->
-### N 47.24 Plain Version *Suddhasutta*
+### SN 47.24 Plain Version *Suddhasutta*
 
 At Sāvatthī.
 
@@ -1102,7 +1102,7 @@ displeasure for the world.
 These are the four kinds of mindfulness meditation."
 
 <!--pg-->
-### N 47.25 A Certain Brahmin *Aññatarabrāhmaṇasutta*
+### SN 47.25 A Certain Brahmin *Aññatarabrāhmaṇasutta*
 
 So I have heard. At one time the Buddha was staying near
 Sāvatthī in Jeta's Grove, Anāthapiṇḍika's
@@ -1137,7 +1137,7 @@ Gotama! Excellent! ... From this day forth, may the worthy Gotama
 remember me as a lay follower who has gone for refuge for life."
 
 <!--pg-->
-### N 47.26 Partly *Padesasutta*
+### SN 47.26 Partly *Padesasutta*
 
 At one time the venerables Sāriputta,
 Mahāmoggallāna, and Anuruddha were staying near
@@ -1161,7 +1161,7 @@ displeasure for the world. A trainee is someone who has partly developed
 the four kinds of mindfulness meditation."
 
 <!--pg-->
-### N 47.27 Completely *Samattasutta*
+### SN 47.27 Completely *Samattasutta*
 
 The same setting.
 
@@ -1179,7 +1179,7 @@ displeasure for the world. An adept is someone who has completely
 developed the four kinds of mindfulness meditation."
 
 <!--pg-->
-### N 47.28 The World *Lokasutta*
+### SN 47.28 The World *Lokasutta*
 
 The same setting. "Reverend Anuruddha, what things have you developed
 and cultivated to attain great direct knowledge?"
@@ -1198,7 +1198,7 @@ And it's because of developing and cultivating these four kinds of
 mindfulness meditation that I directly know the thousandfold galaxy."
 
 <!--pg-->
-### N 47.29 With Sirivaḍḍha *Sirivaḍḍhasutta*
+### SN 47.29 With Sirivaḍḍha *Sirivaḍḍhasutta*
 
 At one time Venerable Ānanda was staying near Rājagaha, in
 the Bamboo Grove, the squirrels' feeding ground. Now at that time the
@@ -1243,7 +1243,7 @@ the Buddha, I don't see any that I haven't given up."
 fruit of non-return."
 
 <!--pg-->
-### N 47.30 With Mānadinna *Mānadinnasutta*
+### SN 47.30 With Mānadinna *Mānadinnasutta*
 
 The same setting. Now at that time the householder
 Mānadinna was sick, suffering, gravely ill. Then he
@@ -1266,7 +1266,7 @@ fruit of non-return."
 <!--pg-->
 ## The Chapter on Not Learned From Anyone Else
 
-### N 47.31 Not Learned From Anyone Else *Ananussutasutta*
+### SN 47.31 Not Learned From Anyone Else *Ananussutasutta*
 
 At Sāvatthī.
 
@@ -1293,7 +1293,7 @@ vision, knowledge, wisdom, realization, and light that arose in me
 regarding teachings not learned before from another."
 
 <!--pg-->
-### N 47.32 Fading Away *Virāgasutta*
+### SN 47.32 Fading Away *Virāgasutta*
 
 "Mendicants, these four kinds of mindfulness meditation, when developed
 and cultivated, lead solely to disillusionment, dispassion, cessation,
@@ -1310,7 +1310,7 @@ cultivated, lead solely to disillusionment, dispassion, cessation,
 peace, insight, awakening, and extinguishment."
 
 <!--pg-->
-### N 47.33 Missed Out *Viraddhasutta*
+### SN 47.33 Missed Out *Viraddhasutta*
 
 "Mendicants, whoever has missed out on the four kinds of mindfulness
 meditation has missed out on the noble path to the complete ending of
@@ -1330,7 +1330,7 @@ Whoever has undertaken these four kinds of mindfulness meditation has
 undertaken the noble path to the complete ending of suffering."
 
 <!--pg-->
-### N 47.34 Developed *Bhāvitasutta*
+### SN 47.34 Developed *Bhāvitasutta*
 
 "Mendicants, when these four kinds of mindfulness meditation are
 developed and cultivated they lead to going from the near shore to the
@@ -1346,7 +1346,7 @@ When these four kinds of mindfulness meditation are developed and
 cultivated they lead to going from the near shore to the far shore."
 
 <!--pg-->
-### N 47.35 Mindful *Satisutta*
+### SN 47.35 Mindful *Satisutta*
 
 At Sāvatthī.
 
@@ -1368,7 +1368,7 @@ mendicant is aware. A mendicant should live mindful and aware. This is
 my instruction to you."
 
 <!--pg-->
-### N 47.36 Enlightenment *Aññāsutta*
+### SN 47.36 Enlightenment *Aññāsutta*
 
 "Mendicants, there are these four kinds of mindfulness meditation. What
 four? It's when a mendicant meditates by observing an aspect of the
@@ -1383,7 +1383,7 @@ meditation, one of two results can be expected: enlightenment in this
 very life, or if there's something left over, non-return."
 
 <!--pg-->
-### N 47.37 Desire *Chandasutta*
+### SN 47.37 Desire *Chandasutta*
 
 "Mendicants, there are these four kinds of mindfulness meditation. What
 four? It's when a mendicant meditates by observing an aspect of the
@@ -1407,7 +1407,7 @@ so they give up desire for principles. When desire is given up they
 realize freedom from death."
 
 <!--pg-->
-### N 47.38 Complete Understanding *Pariññātasutta*
+### SN 47.38 Complete Understanding *Pariññātasutta*
 
 "Mendicants, there are these four kinds of mindfulness meditation. What
 four? It's when a mendicant meditates by observing an aspect of the
@@ -1431,7 +1431,7 @@ so they completely understand principles. When principles are completely
 understood they realize freedom from death."
 
 <!--pg-->
-### N 47.39 Development *Bhāvanāsutta*
+### SN 47.39 Development *Bhāvanāsutta*
 
 "Mendicants, I will teach you the development of the four kinds of
 mindfulness meditation. Listen ...
@@ -1446,7 +1446,7 @@ displeasure for the world.
 This is the development of the four kinds of mindfulness meditation."
 
 <!--pg-->
-### N 47.40 Analysis *Vibhaṅgasutta*
+### SN 47.40 Analysis *Vibhaṅgasutta*
 
 "Mendicants, I will teach you mindfulness meditation, the development of
 mindfulness meditation, and the practice that leads to the development
@@ -1477,7 +1477,7 @@ practice that leads to the development of mindfulness meditation."
 <!--pg-->
 ## The Chapter on Freedom From Death
 
-### N 47.41 Freedom From Death *Amatasutta*
+### SN 47.41 Freedom From Death *Amatasutta*
 
 At Sāvatthī.
 
@@ -1492,7 +1492,7 @@ established in the four kinds of mindfulness meditation. Don't let
 freedom from death escape you."
 
 <!--pg-->
-### N 47.42 Origin *Samudayasutta*
+### SN 47.42 Origin *Samudayasutta*
 
 "Mendicants, I will teach you the origin and the ending of the four
 kinds of mindfulness meditation. Listen ...
@@ -1509,7 +1509,7 @@ Principles originate from application of mind. When application of mind
 ends, principles end."
 
 <!--pg-->
-### N 47.43 The Path *Maggasutta*
+### SN 47.43 The Path *Maggasutta*
 
 At Sāvatthī.
 
@@ -1559,7 +1559,7 @@ That's what the divinity Sahampati said. Then he went on to say:
 > will cross over, and are crossing over.'"
 
 <!--pg-->
-### N 47.44 Mindful *Satisutta*
+### SN 47.44 Mindful *Satisutta*
 
 "Mendicants, a mendicant should live mindfully. This is my instruction
 to you.
@@ -1573,7 +1573,7 @@ mendicant is mindful. A mendicant should live mindfully. This is my
 instruction to you."
 
 <!--pg-->
-### N 47.45 A Heap of the Skillful *Kusalarāsisutta*
+### SN 47.45 A Heap of the Skillful *Kusalarāsisutta*
 
 "Rightly speaking, mendicants, you'd call these four kinds of
 mindfulness meditation a 'heap of the skillful'. For these four kinds of
@@ -1590,7 +1590,7 @@ a 'heap of the skillful'. For these four kinds of mindfulness meditation
 are entirely a heap of the skillful."
 
 <!--pg-->
-### N 47.46 Restraint in the Monastic Code *Pātimokkhasaṁvarasutta*
+### SN 47.46 Restraint in the Monastic Code *Pātimokkhasaṁvarasutta*
 
 Then a mendicant went up to the Buddha, bowed, sat down to one side, and
 said to him:
@@ -1629,7 +1629,7 @@ completed; what had to be done has been done; there is nothing further
 for this place." And that mendicant became one of the perfected.
 
 <!--pg-->
-### N 47.47 Bad Conduct *Duccaritasutta*
+### SN 47.47 Bad Conduct *Duccaritasutta*
 
 Then a mendicant went up to the Buddha ... and said:
 
@@ -1654,7 +1654,7 @@ skillful qualities, whether by day or by night." ...
 And that mendicant became one of the perfected.
 
 <!--pg-->
-### N 47.48 Friends *Mittasutta*
+### SN 47.48 Friends *Mittasutta*
 
 "Mendicants, those for whom you have sympathy, and those worth listening
 to---friends and colleagues, relatives and family---should be
@@ -1673,7 +1673,7 @@ and established in the development of the four kinds of mindfulness
 meditation."
 
 <!--pg-->
-### N 47.49 Feelings *Vedanāsutta*
+### SN 47.49 Feelings *Vedanāsutta*
 
 "Mendicants, there are these three feelings. What three? Pleasant,
 painful, and neutral feeling. These are the three feelings. The four
@@ -1690,7 +1690,7 @@ These four kinds of mindfulness meditation should be developed to
 completely understand these three feelings."
 
 <!--pg-->
-### N 47.50 Defilements *Āsavasutta*
+### SN 47.50 Defilements *Āsavasutta*
 
 "Mendicants, there are these three defilements. What three? The
 defilements of sensuality, desire to be reborn, and ignorance. These are
@@ -1711,7 +1711,7 @@ up these three defilements."
 <!--pg-->
 ## The Chapter of Abbreviated Texts on the Ganges
 
-### N 47.51--62 Twelve Discourses on the Ganges River, Etc. *Gaṅgāpeyyālavagga*
+### SN 47.51--62 Twelve Discourses on the Ganges River, Etc. *Gaṅgāpeyyālavagga*
 
 "Mendicants, the Ganges river slants, slopes, and inclines to the east.
 In the same way, a mendicant who develops and cultivates the four kinds
@@ -1736,7 +1736,7 @@ mindfulness meditation slants, slopes, and inclines to extinguishment."
 <!--pg-->
 ## The Chapter on Diligence
 
-### N 47.63--72 The Realized One *Appamādavagga*
+### SN 47.63--72 The Realized One *Appamādavagga*
 
 "Mendicants, the Realized One, the perfected one, the fully awakened
 Buddha, is said to be the best of all sentient beings---be they
@@ -1753,7 +1753,7 @@ footless, with two feet, four feet, or many feet ..."
 <!--pg-->
 ## The Chapter on Hard Work
 
-### N 47.73--84 Hard Work, Etc. *Balakaraṇīyavagga*
+### SN 47.73--84 Hard Work, Etc. *Balakaraṇīyavagga*
 
 "Mendicants, all the hard work that gets done depends on the earth and
 is grounded on the earth. ..."
@@ -1769,7 +1769,7 @@ is grounded on the earth. ..."
 <!--pg-->
 ## The Chapter on Searches
 
-### N 47.85--94 Searches, Etc. *Esanāvagga*
+### SN 47.85--94 Searches, Etc. *Esanāvagga*
 
 "Mendicants, there are these three searches. What three? The search for
 sensual pleasures, the search for continued existence, and the search
@@ -1787,7 +1787,7 @@ for a spiritual path. ..."
 <!--pg-->
 ## The Chapter on Floods
 
-### N 47.95--104 Higher Fetters, Etc. *Oghavagga*
+### SN 47.95--104 Higher Fetters, Etc. *Oghavagga*
 
 "Mendicants, there are five higher fetters. What five? Desire for
 rebirth in the realm of luminous form, desire for rebirth in the

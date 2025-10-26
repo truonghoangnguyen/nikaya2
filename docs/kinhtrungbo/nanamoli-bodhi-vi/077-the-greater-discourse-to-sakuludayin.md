@@ -1,4 +1,4 @@
-# 77. Đại Kinh Sākuludāyin
+# MN 77. Đại Kinh Sākuludāyin
 ***(Mahāsakuludāyi Sutta)***
 
 [1] 1. Tôi nghe như vầy. Một thời Đức Thế Tôn trú tại thành Vương Xá (Rājagaha), trong Vườn Trúc (Veluvana), nơi trú ẩn của sóc.

@@ -1,4 +1,4 @@
-# 93. Kinh Assalāyana
+# MN 93. Kinh Assalāyana
 ***(Assalāyana Sutta)***
 
 [147] 1. Tôi nghe như vầy. Một thời Đức Thế Tôn trú tại thành Xá-vệ (Sāvatthī), trong Rừng Kỳ-đà (Jeta's Grove), vườn của ông Cấp Cô Độc (Anāthapiṇḍika).

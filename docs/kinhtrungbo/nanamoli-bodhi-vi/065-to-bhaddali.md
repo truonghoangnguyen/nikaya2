@@ -1,4 +1,4 @@
-# 65. Gửi Bhaddāli
+# MN 65. Gửi Bhaddāli
 ***(Kinh Bhaddāli - Bhaddāli Sutta)***
 
 1\.  Như vầy tôi nghe. Một thời Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong Vườn Jeta (Kỳ-đà), Tu viện Anāthapiṇḍika (Cấp Cô Độc). Tại đó, Ngài gọi các vị tỳ kheo (bhikkhus - các nhà sư nam đã thọ giới cụ túc): "Này các Tỳ kheo." - "Bạch Thế Tôn," họ đáp lời. Đức Thế Tôn dạy điều này:

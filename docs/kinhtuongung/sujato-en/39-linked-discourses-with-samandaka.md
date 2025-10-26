@@ -3,7 +3,7 @@
 <!--pg-->
 ## The Chapter with Sāmaṇḍaka
 
-### N 39.1--15 With Sāmaṇḍaka on Extinguishment *Sāmaṇḍakasutta*
+### SN 39.1--15 With Sāmaṇḍaka on Extinguishment *Sāmaṇḍakasutta*
 
 At one time Venerable Sāriputta was staying in the land of
 the Vajjis near Ukkacelā on the bank of the Ganges river.
@@ -39,7 +39,7 @@ Jambukhādaka.)*
 :::
 
 <!--pg-->
-### N 39.16 Hard to Do *Dukkarasutta*
+### SN 39.16 Hard to Do *Dukkarasutta*
 
 "Reverend Sāriputta, in this teaching and training, what is
 hard to do?"

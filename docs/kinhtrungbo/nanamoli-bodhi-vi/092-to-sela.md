@@ -1,4 +1,4 @@
-# 92. Kinh Sela
+# MN 92. Kinh Sela
 ***(Sela Sutta)***
 
 1\.  Như vầy tôi nghe. [^867] Một thời Đức Thế Tôn đang du hóa tại xứ Anguttarāpa cùng với đại chúng Tăng đoàn tỳ kheo (monks-bhikkhus-nhà sư) đông đảo, [102] khoảng một ngàn hai trăm năm mươi vị tỳ kheo, và cuối cùng ngài đến một thị trấn của xứ Anguttarāpa tên là Āpaṇa.

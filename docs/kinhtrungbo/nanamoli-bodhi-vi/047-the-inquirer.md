@@ -1,4 +1,4 @@
-# 47. Kinh Người Tìm Hiểu
+# MN 47. Kinh Người Tìm Hiểu
 ***(Vīmam'saka Sutta)***
 
 1\.  Như vầy tôi nghe. Một thời Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong Vườn Jeta (Kỳ-đà Lâm), tại Tu viện của Anāthapiṇḍika (Cấp Cô Độc). Tại đó, Ngài gọi các vị tỳ kheo (bhikkhus - những vị sư đã thọ giới cụ túc): "Này các tỳ kheo." - "Bạch Thế Tôn," các vị ấy vâng đáp. Đức Thế Tôn dạy điều này:

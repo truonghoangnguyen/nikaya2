@@ -1,4 +1,4 @@
-# 103. Các Thầy Nghĩ Gì Về Ta?
+# MN 103. Các Thầy Nghĩ Gì Về Ta?
 ***(Kinh Kinti - Kinti Sutta)***
 
 1\.  Như vầy tôi nghe. Một thời, Đức Thế Tôn trú tại Kusināra, trong khu rừng Sāla Upavattana của dòng họ Malla. Tại đó, Ngài gọi các vị tỳ kheo (monks-bhikkhus-nhà sư): "Này các Tỳ kheo." - "Bạch Thế Tôn," các vị ấy đáp lời. Đức Thế Tôn nói thế này:

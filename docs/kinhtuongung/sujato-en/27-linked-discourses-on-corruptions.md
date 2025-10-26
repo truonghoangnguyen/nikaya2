@@ -3,7 +3,7 @@
 <!--pg-->
 ## The Chapter on Corruptions
 
-### N 27.1 The Eye *Cakkhusutta*
+### SN 27.1 The Eye *Cakkhusutta*
 
 At Sāvatthī.
 
@@ -14,7 +14,7 @@ mind imbued with renunciation is declared to be capable of directly
 knowing anything that can be realized."
 
 <!--pg-->
-### N 27.2 Sights *Rūpasutta*
+### SN 27.2 Sights *Rūpasutta*
 
 At Sāvatthī.
 
@@ -25,7 +25,7 @@ renunciation. A mind imbued with renunciation is declared to be capable
 of directly knowing anything that can be realized."
 
 <!--pg-->
-### N 27.3 Consciousness *Viññāṇasutta*
+### SN 27.3 Consciousness *Viññāṇasutta*
 
 At Sāvatthī.
 
@@ -37,7 +37,7 @@ renunciation. A mind imbued with renunciation is declared to be capable
 of directly knowing anything that can be realized."
 
 <!--pg-->
-### N 27.4 Contact *Samphassasutta*
+### SN 27.4 Contact *Samphassasutta*
 
 At Sāvatthī.
 
@@ -46,7 +46,7 @@ contact, tongue contact, body contact, or mind contact is a corruption
 of the mind. ..."
 
 <!--pg-->
-### N 27.5 Feeling *Samphassajasutta*
+### SN 27.5 Feeling *Samphassajasutta*
 
 At Sāvatthī.
 
@@ -56,7 +56,7 @@ tongue contact, feeling born of body contact, or feeling born of mind
 contact is a defilement of the mind. ..."
 
 <!--pg-->
-### N 27.6 Perception *Saññāsutta*
+### SN 27.6 Perception *Saññāsutta*
 
 At Sāvatthī.
 
@@ -65,7 +65,7 @@ sounds, perception of smells, perception of tastes, perception of
 touches, or perception of ideas is a corruption of the mind. ..."
 
 <!--pg-->
-### N 27.7 Intention *Sañcetanāsutta*
+### SN 27.7 Intention *Sañcetanāsutta*
 
 At Sāvatthī.
 
@@ -75,7 +75,7 @@ tastes, intention regarding touches, or intention regarding ideas is a
 corruption of the mind. ..."
 
 <!--pg-->
-### N 27.8 Craving *Taṇhāsutta*
+### SN 27.8 Craving *Taṇhāsutta*
 
 At Sāvatthī.
 
@@ -84,7 +84,7 @@ sounds, craving for smells, craving for tastes, craving for touches, or
 craving for ideas is a corruption of the mind. ..."
 
 <!--pg-->
-### N 27.9 Elements *Dhātusutta*
+### SN 27.9 Elements *Dhātusutta*
 
 At Sāvatthī.
 
@@ -93,7 +93,7 @@ the fire element, the air element, the space element, or the
 consciousness element is a corruption of the mind. ..."
 
 <!--pg-->
-### N 27.10 The Aggregates *Khandhasutta*
+### SN 27.10 The Aggregates *Khandhasutta*
 
 At Sāvatthī.
 

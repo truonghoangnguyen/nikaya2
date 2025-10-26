@@ -1,4 +1,4 @@
-# 121. Tiểu Kinh Không
+# MN 121. Tiểu Kinh Không
 ***(Cūlasuññata Sutta)***
 
 [104] 1. Như vầy tôi nghe. Một thời Đức Thế Tôn trú ở Sāvatthī (Xá-vệ), tại Đông Viên (Eastern Park), trong Lộc Mẫu Giảng Đường (Palace of Migāra's Mother).

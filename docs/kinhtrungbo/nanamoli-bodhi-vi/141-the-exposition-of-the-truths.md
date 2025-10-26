@@ -1,4 +1,4 @@
-# 141. Kinh Phân Tích Sự Thật
+# MN 141. Kinh Phân Tích Sự Thật
 ***(Saccavibhanga Sutta)***
 
 [248] 1. Tôi nghe như vầy. Một thời Đức Thế Tôn trú tại Ba La Nại (Benares), ở Vườn Nai tại Isipatana. Tại đó, Ngài gọi các vị Tỳ kheo (bhikkhus - nhà sư): "Này các Tỳ kheo." - "Bạch Thế Tôn," các vị ấy đáp lời. Đức Thế Tôn dạy điều này:

@@ -1,4 +1,4 @@
-# 137. Kinh Phân Tích Sáu Xứ
+# MN 137. Kinh Phân Tích Sáu Xứ
 ***(Salāyatanavibhanga Sutta)***
 
 1\.  Như vầy tôi nghe. Một thời Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong Vườn Jeta (Kỳ-đà), Khu vườn của Anāthapiṇḍika (Cấp Cô Độc). Tại đó, Ngài gọi các vị tỳ kheo (monks-bhikkhus-nhà sư): "Này các Tỳ kheo." - "Bạch Thế Tôn," các vị ấy đáp lời. Đức Thế Tôn dạy như sau:

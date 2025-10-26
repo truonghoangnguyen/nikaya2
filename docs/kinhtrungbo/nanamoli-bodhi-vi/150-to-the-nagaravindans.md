@@ -1,4 +1,4 @@
-# 150. Gửi Người Dân Nagaravinda
+# MN 150. Gửi Người Dân Nagaravinda
 ***(Kinh Nagaravindeyya)***
 
 1\.  Tôi nghe như vầy. Một thời, Đức Thế Tôn (Blessed One - Bậc Tôn Quý, Đấng Thiện Thệ) đang du hành ở xứ Kosala cùng với một Tăng đoàn (Sangha - cộng đồng các vị xuất gia) đông đảo các vị tỳ kheo (bhikkhus - các vị sư nam đã thọ giới), và cuối cùng đã đến một ngôi làng của người Kosala tên là Nagaravinda.

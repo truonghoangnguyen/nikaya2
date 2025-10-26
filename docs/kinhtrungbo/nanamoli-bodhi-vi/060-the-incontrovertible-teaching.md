@@ -1,4 +1,4 @@
-# 60. Giáo Lý Chắc Chắn
+# MN 60. Giáo Lý Chắc Chắn
 ***(Kinh Apaṇṇaka)***
 
 1\.  Tôi nghe như vầy. Một thời Đức Thế Tôn đang du hành ở xứ Kosala cùng với một đại Tăng đoàn gồm các vị tỳ kheo (bhikkhus - các nhà sư nam đã xuất gia), và cuối cùng Ngài đến một ngôi làng Bà la môn của xứ Kosala tên là Sālā.

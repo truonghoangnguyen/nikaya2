@@ -1,4 +1,4 @@
-# 81. Người Thợ Gốm Ghaṭikāra
+# MN 81. Người Thợ Gốm Ghaṭikāra
 ***(Kinh Ghaṭikāra)***
 
 [45] 1. Tôi nghe như vầy. Một thời Đức Thế Tôn đang du hành giữa dân chúng xứ Kosala cùng với một đại Tăng đoàn tỳ kheo (bhikkhus - các vị sư).

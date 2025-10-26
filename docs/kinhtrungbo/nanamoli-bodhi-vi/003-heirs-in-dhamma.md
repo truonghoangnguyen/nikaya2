@@ -1,4 +1,4 @@
-# 3. Người Thừa Tự Pháp
+# MN 3. Người Thừa Tự Pháp
 ***(Dhammadāyāda Sutta)***
 
 1\. Tôi nghe như vầy. Một thời Thế Tôn trú ở Sāvatthī (Savatthi), tại Kỳ Viên (Jeta's Grove), vườn ông Anāthapindika (Anāthapindika's Park). Tại đấy, Thế Tôn gọi các Tỳ kheo: "Này các Tỳ kheo." 51 - "Vâng, bạch Thế Tôn," các Tỳ kheo đáp lời Thế Tôn. Thế Tôn nói như sau:

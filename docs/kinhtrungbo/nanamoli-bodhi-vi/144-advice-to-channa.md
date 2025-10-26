@@ -1,4 +1,4 @@
-# 144. Lời Khuyên Dạy Chan Na
+# MN 144. Lời Khuyên Dạy Chan Na
 ***(Kinh Channovāda - Channovāda Sutta)***
 
 1\.  Tôi nghe như vầy. Một thời Đức Thế Tôn trú tại Vương Xá (Rājagaha), trong Rừng Trúc (Veluvana), nơi nuôi dưỡng các con sóc (Kalandakanivāpa).

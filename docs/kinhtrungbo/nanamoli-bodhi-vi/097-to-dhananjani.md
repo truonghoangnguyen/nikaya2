@@ -1,4 +1,4 @@
-# 97. Kinh Gửi Dhānañjāni
+# MN 97. Kinh Gửi Dhānañjāni
 ***(Dhānañjāni Sutta)***
 
 1\.  Tôi nghe như vầy. Một thời, Thế Tôn trú tại thành Vương Xá (Rājagaha), trong Rừng Trúc, Khu Nuôi Sóc (Veluvana Kalandakanivāpa).

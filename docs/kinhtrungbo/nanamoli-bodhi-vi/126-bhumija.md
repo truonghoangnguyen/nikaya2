@@ -1,4 +1,4 @@
-# 126. Bhūmija
+# MN 126. Bhūmija
 ***(Kinh Bhūmija - Bhūmija Sutta)***
 
 [138] 1. Như vầy tôi nghe. Một thời Thế Tôn (Blessed One - Bậc Giác Ngộ được tôn kính) trú ở Rājagaha (thành Vương Xá), tại Veluvana (Trúc Lâm), chỗ nuôi dưỡng các con sóc.

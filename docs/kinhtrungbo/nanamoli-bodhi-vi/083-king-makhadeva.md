@@ -1,4 +1,4 @@
-# 83. Vua Makhādeva
+# MN 83. Vua Makhādeva
 ***(Kinh Makhādeva - Makhādeva Sutta)***
 
 1\.  Như vầy tôi nghe. [^806] Một thời, Đức Thế Tôn trú tại Mithilā, trong Vườn Xoài Makhādeva. [^807]

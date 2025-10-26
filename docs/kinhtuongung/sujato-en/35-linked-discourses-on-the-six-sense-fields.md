@@ -5,7 +5,7 @@
 <!--pg-->
 ## The Chapter on Impermanence
 
-### N 35.1 The Interior as Impermanent *Ajjhattāniccasutta*
+### SN 35.1 The Interior as Impermanent *Ajjhattāniccasutta*
 
 So I have heard. At one time the Buddha was staying near
 Sāvatthī in Jeta's Grove, Anāthapiṇḍika's
@@ -41,7 +41,7 @@ completed, what had to be done has been done, there is nothing further
 for this place.'"
 
 <!--pg-->
-### N 35.2 The Interior as Suffering *Ajjhattadukkhasutta*
+### SN 35.2 The Interior as Suffering *Ajjhattadukkhasutta*
 
 "Mendicants, the eye is suffering. What's suffering is not-self. And
 what's not-self should be truly seen with right understanding like this:
@@ -56,7 +56,7 @@ Seeing this ... They understand: '... there is nothing further for this
 place.'"
 
 <!--pg-->
-### N 35.3 The Interior as Not-Self *Ajjhattānattasutta*
+### SN 35.3 The Interior as Not-Self *Ajjhattānattasutta*
 
 "Mendicants, the eye is not-self. And what's not-self should be truly
 seen with right understanding like this: 'This is not mine, I am not
@@ -70,7 +70,7 @@ Seeing this ... They understand: '... there is nothing further for this
 place.'"
 
 <!--pg-->
-### N 35.4 The Exterior as Impermanent *Bāhirāniccasutta*
+### SN 35.4 The Exterior as Impermanent *Bāhirāniccasutta*
 
 "Mendicants, sights are impermanent. What's impermanent is suffering.
 What's suffering is not-self. And what's not-self should be truly seen
@@ -92,21 +92,21 @@ completed, what had to be done has been done, there is nothing further
 for this place.'"
 
 <!--pg-->
-### N 35.5 The Exterior as Suffering *Bāhiradukkhasutta*
+### SN 35.5 The Exterior as Suffering *Bāhiradukkhasutta*
 
 "Mendicants, sights are suffering. What's suffering is not-self. And
 what's not-self should be truly seen with right understanding like this:
 'This is not mine, I am not this, this is not my self.' ..."
 
 <!--pg-->
-### N 35.6 The Exterior as Not-Self *Bāhirānattasutta*
+### SN 35.6 The Exterior as Not-Self *Bāhirānattasutta*
 
 "Mendicants, sights are not-self. And what's not-self should be truly
 seen with right understanding like this: 'This is not mine, I am not
 this, this is not my self.' ..."
 
 <!--pg-->
-### N 35.7 The Interior as Impermanent in the Three Times *Ajjhattāniccātītānāgatasutta*
+### SN 35.7 The Interior as Impermanent in the Three Times *Ajjhattāniccātītānāgatasutta*
 
 "Mendicants, the eye of the past and future is impermanent, let alone
 the present.
@@ -125,7 +125,7 @@ and they practice for disillusionment, dispassion, and cessation
 regarding the mind in the present."
 
 <!--pg-->
-### N 35.8 The Interior as Suffering in the Three Times *Ajjhattadukkhātītānāgatasutta*
+### SN 35.8 The Interior as Suffering in the Three Times *Ajjhattadukkhātītānāgatasutta*
 
 "Mendicants, the eye of the past and future is suffering, let alone the
 present.
@@ -136,7 +136,7 @@ they practice for disillusionment, dispassion, and cessation regarding
 the eye in the present. ..."
 
 <!--pg-->
-### N 35.9 The Interior as Not-Self in the Three Times *Ajjhattānattātītānāgatasutta*
+### SN 35.9 The Interior as Not-Self in the Three Times *Ajjhattānattātītānāgatasutta*
 
 "Mendicants, the eye of the past and future is not-self, let alone the
 present.
@@ -147,19 +147,19 @@ they practice for disillusionment, dispassion, and cessation regarding
 the eye in the present. ..."
 
 <!--pg-->
-### N 35.10 The Exterior as Impermanent in the Three Times *Bāhirāniccātītānāgatasutta*
+### SN 35.10 The Exterior as Impermanent in the Three Times *Bāhirāniccātītānāgatasutta*
 
 "Mendicants, sights of the past and future are impermanent, let alone
 the present. ..."
 
 <!--pg-->
-### N 35.11 The Exterior as Suffering in the Three Times *Bāhiradukkhātītānāgatasutta*
+### SN 35.11 The Exterior as Suffering in the Three Times *Bāhiradukkhātītānāgatasutta*
 
 "Mendicants, sights of the past and future are suffering, let alone the
 present. ..."
 
 <!--pg-->
-### N 35.12 The Exterior as Not-Self in the Three Times *Bāhirānattātītānāgatasutta*
+### SN 35.12 The Exterior as Not-Self in the Three Times *Bāhirānattātītānāgatasutta*
 
 "Mendicants, sights of the past and future are not-self, let alone the
 present. ..."
@@ -167,7 +167,7 @@ present. ..."
 <!--pg-->
 ## The Chapter on Pairs
 
-### N 35.13 Before My Awakening (Interior) *Paṭhamapubbesambodhasutta*
+### SN 35.13 Before My Awakening (Interior) *Paṭhamapubbesambodhasutta*
 
 At Sāvatthī.
 
@@ -202,7 +202,7 @@ Knowledge and vision arose in me: 'My freedom is unshakable; this is my
 last rebirth; now there'll be no more future lives.'"
 
 <!--pg-->
-### N 35.14 Before My Awakening (Exterior) *Dutiyapubbesambodhasutta*
+### SN 35.14 Before My Awakening (Exterior) *Dutiyapubbesambodhasutta*
 
 "Mendicants, before my awakening---when I was still unawakened but
 intent on awakening---I thought: 'What's the gratification, the
@@ -210,7 +210,7 @@ drawback, and the escape when it comes to sights ... sounds ... smells
 ... tastes ... touches ... and ideas?' ..."
 
 <!--pg-->
-### N 35.15 In Search of Gratification (Interior) *Paṭhamaassādapariyesanasutta*
+### SN 35.15 In Search of Gratification (Interior) *Paṭhamaassādapariyesanasutta*
 
 "Mendicants, I went in search of the eye's gratification, and I found
 it. I've seen clearly with wisdom the full extent of the eye's
@@ -237,13 +237,13 @@ Knowledge and vision arose in me: 'My freedom is unshakable; this is my
 last rebirth; now there'll be no more future lives.'"
 
 <!--pg-->
-### N 35.16 In Search of Gratification (Exterior) *Dutiyaassādapariyesanasutta*
+### SN 35.16 In Search of Gratification (Exterior) *Dutiyaassādapariyesanasutta*
 
 "Mendicants, I went in search of the gratification of sights, and I
 found it. ..."
 
 <!--pg-->
-### N 35.17 If There Were No Gratification (Interior) *Paṭhamanoceassādasutta*
+### SN 35.17 If There Were No Gratification (Interior) *Paṭhamanoceassādasutta*
 
 "Mendicants, if there were no gratification in the eye, sentient beings
 wouldn't be aroused by it. But since there is gratification in the eye,
@@ -277,13 +277,13 @@ Divinities, this population with its ascetics and brahmins, its gods and
 humans---and they live detached, liberated, with a mind free of limits."
 
 <!--pg-->
-### N 35.18 If There Were No Gratification (Exterior) *Dutiyanoceassādasutta*
+### SN 35.18 If There Were No Gratification (Exterior) *Dutiyanoceassādasutta*
 
 "Mendicants, if there were no gratification in sights, sentient beings
 wouldn't be aroused by them. ..."
 
 <!--pg-->
-### N 35.19 Taking Pleasure (Interior) *Paṭhamābhinandasutta*
+### SN 35.19 Taking Pleasure (Interior) *Paṭhamābhinandasutta*
 
 "Mendicants, if you take pleasure in the eye, you take pleasure in
 suffering. If you take pleasure in suffering, I say you're not exempt
@@ -302,14 +302,14 @@ mind, you don't take pleasure in suffering. If you don't take pleasure
 in suffering, I say you're exempt from suffering."
 
 <!--pg-->
-### N 35.20 Taking Pleasure (Exterior) *Dutiyābhinandasutta*
+### SN 35.20 Taking Pleasure (Exterior) *Dutiyābhinandasutta*
 
 "Mendicants, if you take pleasure in sights, you take pleasure in
 suffering. If you take pleasure in suffering, I say you're not exempt
 from suffering. ..."
 
 <!--pg-->
-### N 35.21 The Arising of Suffering (Interior) *Paṭhamadukkhuppādasutta*
+### SN 35.21 The Arising of Suffering (Interior) *Paṭhamadukkhuppādasutta*
 
 "Mendicants, the arising, continuation, rebirth, and manifestation of
 the eye is the arising of suffering, the continuation of diseases, and
@@ -325,7 +325,7 @@ body, and mind is the cessation of suffering, the settling of diseases,
 and the ending of old age and death."
 
 <!--pg-->
-### N 35.22 The Arising of Suffering (Exterior) *Dutiyadukkhuppādasutta*
+### SN 35.22 The Arising of Suffering (Exterior) *Dutiyadukkhuppādasutta*
 
 "Mendicants, the arising, continuation, rebirth, and manifestation of
 sights is the arising of suffering, the continuation of diseases, and
@@ -341,7 +341,7 @@ diseases, and the ending of old age and death."
 <!--pg-->
 ## The Chapter on the All
 
-### N 35.23 All *Sabbasutta*
+### SN 35.23 All *Sabbasutta*
 
 At Sāvatthī.
 
@@ -357,7 +357,7 @@ stumped by questions, and, in addition, they'd get frustrated. Why is
 that? Because they're out of their element."
 
 <!--pg-->
-### N 35.24 Giving Up *Pahānasutta*
+### SN 35.24 Giving Up *Pahānasutta*
 
 "Mendicants, I will teach you the principle for giving up the all.
 Listen ...
@@ -375,7 +375,7 @@ arises conditioned by mind contact should be given up.
 This is the principle for giving up the all."
 
 <!--pg-->
-### N 35.25 Giving Up By Direct Knowledge and Complete Understanding *Abhiññāpariññāpahānasutta*
+### SN 35.25 Giving Up By Direct Knowledge and Complete Understanding *Abhiññāpariññāpahānasutta*
 
 "Mendicants, I will teach you the principle for giving up the all by
 direct knowledge and complete understanding. Listen ...
@@ -402,7 +402,7 @@ This is the principle for giving up the all by direct knowledge and
 complete understanding."
 
 <!--pg-->
-### N 35.26 Without Completely Understanding (1st) *Paṭhamaaparijānanasutta*
+### SN 35.26 Without Completely Understanding (1st) *Paṭhamaaparijānanasutta*
 
 "Mendicants, without directly knowing and completely understanding the
 all, without dispassion for it and giving it up, you can't end
@@ -446,7 +446,7 @@ This is the all, directly knowing and completely understanding which,
 having dispassion for it and giving it up, you can end suffering."
 
 <!--pg-->
-### N 35.27 Without Completely Understanding (2nd) *Dutiyaaparijānanasutta*
+### SN 35.27 Without Completely Understanding (2nd) *Dutiyaaparijānanasutta*
 
 "Mendicants, without directly knowing and completely understanding the
 all, without dispassion for it and giving it up, you can't end
@@ -483,7 +483,7 @@ This is the all, directly knowing and completely understanding which,
 having dispassion for it and giving it up, you can end suffering."
 
 <!--pg-->
-### N 35.28 Burning *Ādittasutta*
+### SN 35.28 Burning *Ādittasutta*
 
 At one time the Buddha was staying near Gayā on
 Gayā Head together with a thousand mendicants. There the
@@ -528,7 +528,7 @@ the Buddha said. And while this discourse was being spoken, the minds of
 the thousand mendicants were freed from defilements by not grasping.
 
 <!--pg-->
-### N 35.29 Oppressed *Addhabhūtasutta*
+### SN 35.29 Oppressed *Addhabhūtasutta*
 
 So I have heard. At one time the Buddha was staying near
 Rājagaha, in the Bamboo Grove, the squirrels' feeding
@@ -565,7 +565,7 @@ completed, what had to be done has been done, there is nothing further
 for this place.'"
 
 <!--pg-->
-### N 35.30 The Practice Fit for Uprooting *Samugghātasāruppasutta*
+### SN 35.30 The Practice Fit for Uprooting *Samugghātasāruppasutta*
 
 "Mendicants, I will teach you the practice fit for uprooting all
 conceiving. Listen and apply your mind well, I will speak. ...
@@ -601,7 +601,7 @@ for this place.'
 This is the practice fit for uprooting all conceiving."
 
 <!--pg-->
-### N 35.31 The Practice Conducive to Uprooting (1st) *Paṭhamasamugghātasappāyasutta*
+### SN 35.31 The Practice Conducive to Uprooting (1st) *Paṭhamasamugghātasappāyasutta*
 
 "Mendicants, I will teach you the practice that's conducive to uprooting
 all conceiving. Listen ...
@@ -645,7 +645,7 @@ for this place.'
 This is the practice that's conducive to uprooting all conceiving."
 
 <!--pg-->
-### N 35.32 The Practice Conducive to Uprooting (2nd) *Dutiyasamugghātasappāyasutta*
+### SN 35.32 The Practice Conducive to Uprooting (2nd) *Dutiyasamugghātasappāyasutta*
 
 "Mendicants, I will teach you the practice that's conducive to uprooting
 all conceiving. Listen ...
@@ -720,7 +720,7 @@ conceiving."
 <!--pg-->
 ## The Chapter on Liable to Be Reborn
 
-### N 35.33--42 Ten on Liable to Be Reborn, Etc. *Jātidhammāsutta*
+### SN 35.33--42 Ten on Liable to Be Reborn, Etc. *Jātidhammāsutta*
 
 At Sāvatthī.
 
@@ -758,7 +758,7 @@ understand: '... there is nothing further for this place.'"
 <!--pg-->
 ## The Chapter on All is Impermanent
 
-### N 35.43--51 Nine on Impermanence, Etc. *Aniccādisuttanavaka*
+### SN 35.43--51 Nine on Impermanence, Etc. *Aniccādisuttanavaka*
 
 At Sāvatthī.
 
@@ -795,7 +795,7 @@ for this place.'"
 "Mendicants, all is troubled. ..."
 
 <!--pg-->
-### N 35.52 Disturbed *Upassaṭṭhasutta*
+### SN 35.52 Disturbed *Upassaṭṭhasutta*
 
 "Mendicants, all is disturbed. And what is the all that is disturbed?
 The eye, sights, eye consciousness, and eye contact are disturbed. And
@@ -819,7 +819,7 @@ for this place.'"
 <!--pg-->
 ## The Chapter on Ignorance
 
-### N 35.53 Giving Up Ignorance *Avijjāpahānasutta*
+### SN 35.53 Giving Up Ignorance *Avijjāpahānasutta*
 
 At Sāvatthī.
 
@@ -847,7 +847,7 @@ That's how to know and see so as to give up ignorance and give rise to
 knowledge."
 
 <!--pg-->
-### N 35.54 Giving Up Fetters *Saṁyojanappahānasutta*
+### SN 35.54 Giving Up Fetters *Saṁyojanappahānasutta*
 
 "Sir, how does one know and see so that the fetters are given up?"
 
@@ -855,7 +855,7 @@ knowledge."
 given up ..."
 
 <!--pg-->
-### N 35.55 Uprooting the Fetters *Saṁyojanasamugghātasutta*
+### SN 35.55 Uprooting the Fetters *Saṁyojanasamugghātasutta*
 
 "Sir, how does one know and see so that the fetters are uprooted?"
 
@@ -863,29 +863,29 @@ given up ..."
 uprooted ..."
 
 <!--pg-->
-### N 35.56 Giving Up Defilements *Āsavapahānasutta*
+### SN 35.56 Giving Up Defilements *Āsavapahānasutta*
 
 "Sir, how does one know and see so that the defilements are given up?"
 ...
 
-### N 35.57 Uprooting Defilements *Āsavasamugghātasutta*
+### SN 35.57 Uprooting Defilements *Āsavasamugghātasutta*
 
 "Sir, how does one know and see so that the defilements are uprooted?"
 ...
 
 <!--pg-->
-### N 35.58 Giving Up Tendencies *Anusayapahānasutta*
+### SN 35.58 Giving Up Tendencies *Anusayapahānasutta*
 
 "Sir, how does one know and see so that the underlying tendencies are
 given up?" ...
 
-### N 35.59 Uprooting Tendencies *Anusayasamugghātasutta*
+### SN 35.59 Uprooting Tendencies *Anusayasamugghātasutta*
 
 "Sir, how does one know and see so that the underlying tendencies are
 uprooted?" ...
 
 <!--pg-->
-### N 35.60 The Complete Understanding of All Grasping *Sabbupādānapariññāsutta*
+### SN 35.60 The Complete Understanding of All Grasping *Sabbupādānapariññāsutta*
 
 "Mendicants, I will teach you the principle for the complete
 understanding of all grasping. Listen ...
@@ -922,7 +922,7 @@ grasping.'
 This is the principle for the complete understanding of all grasping."
 
 <!--pg-->
-### N 35.61 The Depletion of All Fuel (1st) *Paṭhamasabbupādānapariyādānasutta*
+### SN 35.61 The Depletion of All Fuel (1st) *Paṭhamasabbupādānapariyādānasutta*
 
 "Mendicants, I will teach you the principle for depleting all fuel.
 Listen ...
@@ -952,7 +952,7 @@ grasping.'
 This is the principle for depleting all fuel."
 
 <!--pg-->
-### N 35.62 The Depletion of All Fuel (2nd) *Dutiyasabbupādānapariyādānasutta*
+### SN 35.62 The Depletion of All Fuel (2nd) *Dutiyasabbupādānapariyādānasutta*
 
 "Mendicants, I will teach you the principle for depleting all fuel.
 Listen ...
@@ -1017,7 +1017,7 @@ This is the principle for depleting all fuel."
 <!--pg-->
 ## The Chapter with Migajāla
 
-### N 35.63 With Migajāla (1st) *Paṭhamamigajālasutta*
+### SN 35.63 With Migajāla (1st) *Paṭhamamigajālasutta*
 
 At Sāvatthī.
 
@@ -1072,7 +1072,7 @@ disciples. Why is that? For craving is their partner, and they have
 given it up. That's why they're said to live alone."
 
 <!--pg-->
-### N 35.64 With Migajāla (2nd) *Dutiyamigajālasutta*
+### SN 35.64 With Migajāla (2nd) *Dutiyamigajālasutta*
 
 Then Venerable Migajāla went up to the Buddha ... and said
 to him:
@@ -1116,7 +1116,7 @@ completed; what had to be done has been done; there is nothing further
 for this place." And Migajāla became one of the perfected.
 
 <!--pg-->
-### N 35.65 Samiddhi's Question About Māra *Paṭhamasamiddhimārapañhāsutta*
+### SN 35.65 Samiddhi's Question About Māra *Paṭhamasamiddhimārapañhāsutta*
 
 At one time the Buddha was staying near Rājagaha, in the
 Bamboo Grove, the squirrels' feeding ground. Then Venerable Samiddhi
@@ -1160,19 +1160,19 @@ knowable by mind consciousness, there is no Māra or what is
 known as Māra."
 
 <!--pg-->
-### N 35.66 Samiddhi's Question About a Sentient Being *Samiddhisattapañhāsutta*
+### SN 35.66 Samiddhi's Question About a Sentient Being *Samiddhisattapañhāsutta*
 
 "Sir, they speak of this thing called a 'sentient being'. How do we
 define or describe a sentient being?" ...
 
 <!--pg-->
-### N 35.67 Samiddhi's Question About Suffering *Samiddhidukkhapañhāsutta*
+### SN 35.67 Samiddhi's Question About Suffering *Samiddhidukkhapañhāsutta*
 
 "Sir, they speak of this thing called 'suffering'. How do we define
 suffering or what is known as suffering?" ...
 
 <!--pg-->
-### N 35.68 Samiddhi's Question About the World *Samiddhilokapañhāsutta*
+### SN 35.68 Samiddhi's Question About the World *Samiddhilokapañhāsutta*
 
 "Sir, they speak of this thing called 'the world'. How do we define the
 world or what is known as the world?"
@@ -1191,7 +1191,7 @@ knowable by mind consciousness, there is no world or what is known as
 the world."
 
 <!--pg-->
-### N 35.69 Upasena and the Viper *Upasenaāsīvisasutta*
+### SN 35.69 Upasena and the Viper *Upasenaāsīvisasutta*
 
 At one time the venerables Sāriputta and Upasena were
 staying near Rājagaha in the Cool Grove, under the Snake's
@@ -1224,7 +1224,7 @@ Then those mendicants lifted Upasena's body onto a cot and carried it
 outside. And his body was scattered right there like a handful of hay.
 
 <!--pg-->
-### N 35.70 Upavāna on What is Apparent in the Present Life *Upavāṇasandiṭṭhikasutta*
+### SN 35.70 Upavāna on What is Apparent in the Present Life *Upavāṇasandiṭṭhikasutta*
 
 Then Venerable Upavāna went up to the Buddha ... and said
 to him:
@@ -1267,7 +1267,7 @@ inviting inspection, relevant, so that sensible people can know it for
 themselves."
 
 <!--pg-->
-### N 35.71 Six Fields of Contact (1st) *Paṭhamachaphassāyatanasutta*
+### SN 35.71 Six Fields of Contact (1st) *Paṭhamachaphassāyatanasutta*
 
 "Mendicants, anyone who doesn't truly understand the six fields of
 contact's origin, ending, gratification, drawback, and escape has not
@@ -1299,7 +1299,7 @@ with right wisdom that: 'This is not mine, I am not this, this is not my
 self.' Just this is the end of suffering."
 
 <!--pg-->
-### N 35.72 Six Fields of Contact (2nd) *Dutiyachaphassāyatanasutta*
+### SN 35.72 Six Fields of Contact (2nd) *Dutiyachaphassāyatanasutta*
 
 "Mendicants, anyone who doesn't truly understand the six fields of
 contact's origin, ending, gratification, drawback, and escape has not
@@ -1333,7 +1333,7 @@ self.' In this way you will give up the sixth field of contact, so that
 there are no more future lives."
 
 <!--pg-->
-### N 35.73 Six Fields of Contact (3rd) *Tatiyachaphassāyatanasutta*
+### SN 35.73 Six Fields of Contact (3rd) *Tatiyachaphassāyatanasutta*
 
 "Mendicants, anyone who doesn't truly understand the six fields of
 contact's origin, ending, gratification, drawback, and escape has not
@@ -1383,7 +1383,7 @@ for this place.'"
 <!--pg-->
 ## The Chapter on Sick
 
-### N 35.74 Sick (1st) *Paṭhamagilānasutta*
+### SN 35.74 Sick (1st) *Paṭhamagilānasutta*
 
 At Sāvatthī.
 
@@ -1463,7 +1463,7 @@ stainless, immaculate vision of the Dhamma arose in that mendicant:
 "Everything that has a beginning has an end."
 
 <!--pg-->
-### N 35.75 Sick (2nd) *Dutiyagilānasutta*
+### SN 35.75 Sick (2nd) *Dutiyagilānasutta*
 
 Then a mendicant went up to the Buddha ... and asked him, "Sir, in such
 and such a monastery there's a mendicant who is junior and not
@@ -1535,7 +1535,7 @@ the Buddha said. And while this discourse was being spoken, the mind of
 that mendicant was freed from defilements by not grasping.
 
 <!--pg-->
-### N 35.76 With Rādha on Impermanence *Rādhaaniccasutta*
+### SN 35.76 With Rādha on Impermanence *Rādhaaniccasutta*
 
 The Venerable Rādha went up to the Buddha ... and said to
 him, "Sir, may the Buddha please teach me Dhamma in brief. When I've
@@ -1555,19 +1555,19 @@ also impermanent. You should give up desire for it.
 You should give up desire for what is impermanent."
 
 <!--pg-->
-### N 35.77 With Rādha on Suffering *Rādhadukkhasutta*
+### SN 35.77 With Rādha on Suffering *Rādhadukkhasutta*
 
 "Rādha, you should give up desire for what is suffering.
 ..."
 
 <!--pg-->
-### N 35.78 With Rādha on Not-Self *Rādhaanattasutta*
+### SN 35.78 With Rādha on Not-Self *Rādhaanattasutta*
 
 "Rādha, you should give up desire for what is not-self.
 ..."
 
 <!--pg-->
-### N 35.79 Giving Up Ignorance (1st) *Paṭhamaavijjāpahānasutta*
+### SN 35.79 Giving Up Ignorance (1st) *Paṭhamaavijjāpahānasutta*
 
 Then a mendicant went up to the Buddha ... and said to him:
 
@@ -1600,7 +1600,7 @@ That's how a mendicant knows and sees so as to give up ignorance and
 give rise to knowledge."
 
 <!--pg-->
-### N 35.80 Giving Up Ignorance (2nd) *Dutiyaavijjāpahānasutta*
+### SN 35.80 Giving Up Ignorance (2nd) *Dutiyaavijjāpahānasutta*
 
 Then a mendicant went up to the Buddha ... and asked him, "Sir, is there
 one thing such that by giving it up a mendicant gives up ignorance and
@@ -1630,7 +1630,7 @@ conditioned by mind contact as other. That's how a mendicant knows and
 sees so as to give up ignorance and give rise to knowledge."
 
 <!--pg-->
-### N 35.81 Several Mendicants *Sambahulabhikkhusutta*
+### SN 35.81 Several Mendicants *Sambahulabhikkhusutta*
 
 Then several mendicants went up to the Buddha ... and asked him, "Sir,
 sometimes wanderers of other religions ask us: 'Reverends, what's the
@@ -1667,7 +1667,7 @@ the Buddha is to completely understand this.' When questioned by
 wanderers of other religions, that's how you should answer them."
 
 <!--pg-->
-### N 35.82 A Question On the World *Lokapañhāsutta*
+### SN 35.82 A Question On the World *Lokapañhāsutta*
 
 Then a mendicant went up to the Buddha ... and said to him:
 
@@ -1687,7 +1687,7 @@ wearing away.
 It wears away, mendicant, that's why it's called 'the world'."
 
 <!--pg-->
-### N 35.83 Phagguna's Question *Phaggunapañhāsutta*
+### SN 35.83 Phagguna's Question *Phaggunapañhāsutta*
 
 And then Venerable Phagguna went up to the Buddha ... and said to him:
 
@@ -1710,7 +1710,7 @@ not exist by which they could be described."
 <!--pg-->
 ## The Chapter with Channa
 
-### N 35.84 Liable to Wear Out *Palokadhammasutta*
+### SN 35.84 Liable to Wear Out *Palokadhammasutta*
 
 At Sāvatthī.
 
@@ -1735,7 +1735,7 @@ That which is liable to wear out is called the world in the training of
 the Noble One."
 
 <!--pg-->
-### N 35.85 The World is Empty *Suññatalokasutta*
+### SN 35.85 The World is Empty *Suññatalokasutta*
 
 And then Venerable Ānanda ... said to the Buddha:
 
@@ -1753,7 +1753,7 @@ that 'the world is empty' because it's empty of self or what belongs to
 self."
 
 <!--pg-->
-### N 35.86 A Teaching In Brief *Saṁkhittadhammasutta*
+### SN 35.86 A Teaching In Brief *Saṁkhittadhammasutta*
 
 Seated to one side, Venerable Ānanda said to the Buddha:
 
@@ -1822,7 +1822,7 @@ completed, what had to be done has been done, there is nothing further
 for this place.'"
 
 <!--pg-->
-### N 35.87 With Channa *Channasutta*
+### SN 35.87 With Channa *Channasutta*
 
 At one time the Buddha was staying near Rājagaha, in the
 Bamboo Grove, the squirrels' feeding ground.
@@ -1947,7 +1947,7 @@ You should remember this: 'The mendicant Channa take his life
 blamelessly.'"
 
 <!--pg-->
-### N 35.88 With Puṇṇa *Puṇṇasutta*
+### SN 35.88 With Puṇṇa *Puṇṇasutta*
 
 And then Venerable Puṇṇa went up to the Buddha, bowed, sat
 down to one side, and said to him:
@@ -2055,7 +2055,7 @@ the teachings, and did not trouble me about the teachings.
 Puṇṇa has become completely quenched."
 
 <!--pg-->
-### N 35.89 With Bāhiya *Bāhiyasutta*
+### SN 35.89 With Bāhiya *Bāhiyasutta*
 
 Then Venerable Bāhiya went up to the Buddha, bowed, sat
 down to one side, and said to him:
@@ -2124,7 +2124,7 @@ for this place." And Venerable Bāhiya became one of the
 perfected.
 
 <!--pg-->
-### N 35.90 Turbulence (1st) *Paṭhamaejāsutta*
+### SN 35.90 Turbulence (1st) *Paṭhamaejāsutta*
 
 "Mendicants, turbulence is a disease, a boil, a dart. That's why the
 Realized One lives unperturbed, with dart drawn out.
@@ -2160,7 +2160,7 @@ completed, what had to be done has been done, there is nothing further
 for this place.'"
 
 <!--pg-->
-### N 35.91 Turbulence (2nd) *Dutiyaejāsutta*
+### SN 35.91 Turbulence (2nd) *Dutiyaejāsutta*
 
 "Mendicants, turbulence is a disease, a boil, a dart. That's why the
 Realized One lives unperturbed, with dart drawn out.
@@ -2206,7 +2206,7 @@ completed, what had to be done has been done, there is nothing further
 for this place.'"
 
 <!--pg-->
-### N 35.92 A Duality (1st) *Paṭhamadvayasutta*
+### SN 35.92 A Duality (1st) *Paṭhamadvayasutta*
 
 "Mendicants, I will teach you a duality. Listen ...
 
@@ -2220,7 +2220,7 @@ stumped by questions, and, in addition, they'd get frustrated. Why is
 that? Because they're out of their element."
 
 <!--pg-->
-### N 35.93 A Duality (2nd) *Dutiyadvayasutta*
+### SN 35.93 A Duality (2nd) *Dutiyadvayasutta*
 
 "Mendicants, consciousness exists dependent on a duality. And what is
 that duality?
@@ -2273,7 +2273,7 @@ This is how consciousness exists dependent on a duality."
 <!--pg-->
 ## The Chapter on the Sixes
 
-### N 35.94 Untamed, Unguarded *Adantaaguttasutta*
+### SN 35.94 Untamed, Unguarded *Adantaaguttasutta*
 
 At Sāvatthī.
 
@@ -2354,7 +2354,7 @@ say:
 > go beyond birth and death."
 
 <!--pg-->
-### N 35.95 Māluṅkyaputta *Mālukyaputtasutta*
+### SN 35.95 Māluṅkyaputta *Mālukyaputtasutta*
 
 Then Venerable Māluṅkyaputta went up to the Buddha ... and
 asked him, "Sir, may the Buddha please teach me Dhamma in brief. When
@@ -2570,7 +2570,7 @@ for this place." And Venerable Māluṅkyaputta became one of
 the perfected.
 
 <!--pg-->
-### N 35.96 Liable to Decline *Parihānadhammasutta*
+### SN 35.96 Liable to Decline *Parihānadhammasutta*
 
 "Mendicants, I will teach you who is liable to decline, who is not
 liable to decline, and the six fields of mastery. Listen ...
@@ -2616,7 +2616,7 @@ For this is what the Buddha calls a field of mastery.' These are the six
 fields of mastery."
 
 <!--pg-->
-### N 35.97 One Who Lives Negligently *Pamādavihārīsutta*
+### SN 35.97 One Who Lives Negligently *Pamādavihārīsutta*
 
 "Mendicants, I will teach you who lives negligently and who lives
 diligently. Listen ...
@@ -2668,7 +2668,7 @@ diligently.
 That's how someone lives diligently."
 
 <!--pg-->
-### N 35.98 Restraint *Saṁvarasutta*
+### SN 35.98 Restraint *Saṁvarasutta*
 
 "Mendicants, I will teach you who is restrained and who is unrestrained.
 Listen ...
@@ -2706,7 +2706,7 @@ declining. For this is what the Buddha calls non-decline.'
 This is how someone is restrained."
 
 <!--pg-->
-### N 35.99 Immersion *Samādhisutta*
+### SN 35.99 Immersion *Samādhisutta*
 
 "Mendicants, develop immersion. A mendicant who has immersion truly
 understands. What do they truly understand?
@@ -2725,7 +2725,7 @@ Mendicants, develop immersion. A mendicant who has immersion truly
 understands."
 
 <!--pg-->
-### N 35.100 Retreat *Paṭisallānasutta*
+### SN 35.100 Retreat *Paṭisallānasutta*
 
 "Mendicants, meditate in retreat. A mendicant in retreat truly
 understands. What do they truly understand?
@@ -2739,7 +2739,7 @@ Mendicants, meditate in retreat. A mendicant in retreat truly
 understands."
 
 <!--pg-->
-### N 35.101 It's Not Yours (1st) *Paṭhamanatumhākasutta*
+### SN 35.101 It's Not Yours (1st) *Paṭhamanatumhākasutta*
 
 "Mendicants, give up what's not yours. Giving it up will be for your
 welfare and happiness. And what isn't yours?
@@ -2774,7 +2774,7 @@ mind contact isn't yours: give it up. Giving it up will be for your
 welfare and happiness."
 
 <!--pg-->
-### N 35.102 It's Not Yours (2nd) *Dutiyanatumhākasutta*
+### SN 35.102 It's Not Yours (2nd) *Dutiyanatumhākasutta*
 
 "Mendicants, give up what's not yours. Giving it up will be for your
 welfare and happiness. And what isn't yours?
@@ -2790,7 +2790,7 @@ Give up what's not yours. Giving it up will be for your welfare and
 happiness."
 
 <!--pg-->
-### N 35.103 About Uddaka *Udakasutta*
+### SN 35.103 About Uddaka *Udakasutta*
 
 "Mendicants, Uddaka son of Rāma, used to say:
 
@@ -2853,7 +2853,7 @@ But that's how a mendicant would rightly say:
 <!--pg-->
 ## The Chapter on Sanctuary
 
-### N 35.104 Sanctuary from the Yoke *Yogakkhemisutta*
+### SN 35.104 Sanctuary from the Yoke *Yogakkhemisutta*
 
 At Sāvatthī.
 
@@ -2881,7 +2881,7 @@ This is an exposition of the teaching, an explanation of one who has
 found sanctuary from the yoke."
 
 <!--pg-->
-### N 35.105 Because of Grasping *Upādāyasutta*
+### SN 35.105 Because of Grasping *Upādāyasutta*
 
 "Mendicants, when what exists, because of grasping what, do pleasure and
 pain arise in oneself?"
@@ -2929,7 +2929,7 @@ completed, what had to be done has been done, there is nothing further
 for this place.'"
 
 <!--pg-->
-### N 35.106 The Origin of Suffering *Dukkhasamudayasutta*
+### SN 35.106 The Origin of Suffering *Dukkhasamudayasutta*
 
 "Mendicants, I will teach you the origin and ending of suffering. Listen
 ...
@@ -2963,7 +2963,7 @@ and distress cease. That is how this entire mass of suffering ceases.
 This is the ending of suffering."
 
 <!--pg-->
-### N 35.107 The Origin of the World *Lokasamudayasutta*
+### SN 35.107 The Origin of the World *Lokasamudayasutta*
 
 "Mendicants, I will teach you the origin and ending of the world. Listen
 ...
@@ -3002,7 +3002,7 @@ nothing left over, grasping ceases. When grasping ceases ... That is how
 this entire mass of suffering ceases. This is the ending of the world."
 
 <!--pg-->
-### N 35.108 I'm Better *Seyyohamasmisutta*
+### SN 35.108 I'm Better *Seyyohamasmisutta*
 
 "Mendicants, when what exists, because of grasping what and insisting on
 what, do people think 'I'm better' or 'I'm equal' or 'I'm worse'?"
@@ -3051,7 +3051,7 @@ completed, what had to be done has been done, there is nothing further
 for this place.'"
 
 <!--pg-->
-### N 35.109 Things Prone to Being Fettered *Saṁyojaniyasutta*
+### SN 35.109 Things Prone to Being Fettered *Saṁyojaniyasutta*
 
 "Mendicants, I will teach you the things that are prone to being
 fettered, and the fetter. Listen ...
@@ -3066,7 +3066,7 @@ called the things that are prone to being fettered, and this is the
 fetter."
 
 <!--pg-->
-### N 35.110 Things Prone to Fuel Grasping *Upādāniyasutta*
+### SN 35.110 Things Prone to Fuel Grasping *Upādāniyasutta*
 
 "Mendicants, I will teach you the things that fuel grasping, and the
 grasping. Listen ...
@@ -3080,7 +3080,7 @@ to fuel grasping. The desire and greed for it is the grasping. These are
 called the things that fuel grasping, and this is the grasping."
 
 <!--pg-->
-### N 35.111 Complete Understanding of the Interior *Ajjhattikāyatanaparijānanasutta*
+### SN 35.111 Complete Understanding of the Interior *Ajjhattikāyatanaparijānanasutta*
 
 "Mendicants, without directly knowing and completely understanding the
 eye, without dispassion for it and giving it up, you can't end
@@ -3098,7 +3098,7 @@ tongue ... body ... mind, having dispassion for it and giving it up, you
 can end suffering."
 
 <!--pg-->
-### N 35.112 Complete Understanding of the Exterior *Bāhirāyatanaparijānanasutta*
+### SN 35.112 Complete Understanding of the Exterior *Bāhirāyatanaparijānanasutta*
 
 "Mendicants, without directly knowing and completely understanding
 sights ... sounds ... smells ... tastes ... touches ... ideas, without
@@ -3109,7 +3109,7 @@ smells ... tastes ... touches ... ideas, having dispassion for them and
 giving them up, you can end suffering."
 
 <!--pg-->
-### N 35.113 Listening In *Upassutisutta*
+### SN 35.113 Listening In *Upassutisutta*
 
 At one time the Buddha was staying at Ñātika in the brick
 house. Then while the Buddha was in private retreat he spoke this
@@ -3162,7 +3162,7 @@ fundamentals of the spiritual life."
 <!--pg-->
 ## The Chapter on the World and the Kinds of Sensual Stimulation
 
-### N 35.114 Māra's Snare (1st) *Paṭhamamārapāsasutta*
+### SN 35.114 Māra's Snare (1st) *Paṭhamamārapāsasutta*
 
 "Mendicants, there are sights known by the eye, which are likable,
 desirable, agreeable, pleasant, sensual, and arousing. If a mendicant
@@ -3200,7 +3200,7 @@ They're free from Māra's bonds, and the Wicked One cannot
 do with them what he wants."
 
 <!--pg-->
-### N 35.115 Māra's Snare (2nd) *Dutiyamārapāsasutta*
+### SN 35.115 Māra's Snare (2nd) *Dutiyamārapāsasutta*
 
 "Mendicants, there are sights known by the eye, which are likable,
 desirable, agreeable, pleasant, sensual, and arousing. If a mendicant
@@ -3239,7 +3239,7 @@ They're free from Māra's bonds, and the Wicked One cannot
 do with them what he wants."
 
 <!--pg-->
-### N 35.116 Traveling to the End of the World *Lokantagamanasutta*
+### SN 35.116 Traveling to the End of the World *Lokantagamanasutta*
 
 "Mendicants, I say it's not possible to know or see or reach the end of
 the world by traveling. But I also say there's no making an end of
@@ -3340,7 +3340,7 @@ and asked this question, I would answer it in exactly the same way as
 Ānanda. That is what it means, and that's how you should remember it."
 
 <!--pg-->
-### N 35.117 The Kinds of Sensual Stimulation *Kāmaguṇasutta*
+### SN 35.117 The Kinds of Sensual Stimulation *Kāmaguṇasutta*
 
 "Mendicants, before my awakening---when I was still unawakened but
 intent on awakening---I thought: 'My mind might often stray towards the
@@ -3427,7 +3427,7 @@ and asked this question, I would answer it in exactly the same way as
 Ānanda. That is what it means, and that's how you should remember it."
 
 <!--pg-->
-### N 35.118 The Question of Sakka *Sakkapañhasutta*
+### SN 35.118 The Question of Sakka *Sakkapañhasutta*
 
 At one time the Buddha was staying near Rājagaha, on the
 Vulture's Peak Mountain. And then Sakka, lord of gods, went up to the
@@ -3467,7 +3467,7 @@ cause, that's the reason why some sentient beings are fully extinguished
 in this very life."
 
 <!--pg-->
-### N 35.119 The Question of Pañcasikha *Pañcasikhasutta*
+### SN 35.119 The Question of Pañcasikha *Pañcasikhasutta*
 
 At one time the Buddha was staying near Rājagaha, on the
 Vulture's Peak Mountain. And then the centaur Pañcasikha
@@ -3497,7 +3497,7 @@ becomes extinguished. That's the cause, that's the reason why some
 sentient beings are fully extinguished in this very life."
 
 <!--pg-->
-### N 35.120 Sāriputta and the Protégé *Sāriputtasaddhivihārikasutta*
+### SN 35.120 Sāriputta and the Protégé *Sāriputtasaddhivihārikasutta*
 
 At one time Venerable Sāriputta was staying near
 Sāvatthī in Jeta's Grove, Anāthapiṇḍika's
@@ -3555,7 +3555,7 @@ moderation, and be committed to wakefulness.' That's how you should
 train."
 
 <!--pg-->
-### N 35.121 Advice to Rāhula *Rāhulovādasutta*
+### SN 35.121 Advice to Rāhula *Rāhulovādasutta*
 
 At one time the Buddha was staying near Sāvatthī in Jeta's
 Grove, Anāthapiṇḍika's monastery.
@@ -3679,7 +3679,7 @@ thousands of deities:
 "Everything that has a beginning has an end."
 
 <!--pg-->
-### N 35.122 Things Prone to Being Fettered *Saṁyojaniyadhammasutta*
+### SN 35.122 Things Prone to Being Fettered *Saṁyojaniyadhammasutta*
 
 "Mendicants, I will teach you the things that are prone to being
 fettered, and the fetter. Listen ...
@@ -3696,7 +3696,7 @@ and arousing. These are called the things that are prone to being
 fettered. The desire and greed for them is the fetter."
 
 <!--pg-->
-### N 35.123 Things Prone to Fuel Grasping *Upādāniyadhammasutta*
+### SN 35.123 Things Prone to Fuel Grasping *Upādāniyadhammasutta*
 
 "Mendicants, I will teach you the things that fuel grasping, and the
 grasping. Listen ...
@@ -3714,7 +3714,7 @@ and greed for them is the grasping."
 <!--pg-->
 ## The Chapter on Householders
 
-### N 35.124 At Vesālī *Vesālīsutta*
+### SN 35.124 At Vesālī *Vesālīsutta*
 
 At one time the Buddha was staying near Vesālī, at the
 Great Wood, in the hall with the peaked roof. Then the householder Ugga
@@ -3757,7 +3757,7 @@ That's the cause, that's the reason why some sentient beings are fully
 extinguished in this very life."
 
 <!--pg-->
-### N 35.125 In the Land of the Vajjis *Vajjīsutta*
+### SN 35.125 In the Land of the Vajjis *Vajjīsutta*
 
 At one time the Buddha was staying in the land of the Vajjis at Elephant
 Village. Then the householder Ugga of Elephant Village went up to the
@@ -3771,7 +3771,7 @@ very life?" ...
 **(Tell in full as in the previous discourse.)**
 
 <!--pg-->
-### N 35.126 At Nāḷandā *Nāḷandasutta*
+### SN 35.126 At Nāḷandā *Nāḷandasutta*
 
 At one time the Buddha was staying near Nāḷandā in
 Pāvārika's mango grove.
@@ -3785,7 +3785,7 @@ in this very life?" ...
 **(Tell in full as in SN 35.124.)**
 
 <!--pg-->
-### N 35.127 With Bhāradvāja *Bhāradvājasutta*
+### SN 35.127 With Bhāradvāja *Bhāradvājasutta*
 
 At one time Venerable Bhāradvāja the Alms-Gatherer was
 staying near Kosambī, in Ghosita's Monastery. Then King
@@ -3880,7 +3880,7 @@ may the worthy Bhāradvāja remember me as a lay follower who
 has gone for refuge for life."
 
 <!--pg-->
-### N 35.128 With Soṇa *Soṇasutta*
+### SN 35.128 With Soṇa *Soṇasutta*
 
 At one time the Buddha was staying near Rājagaha, in the
 Bamboo Grove, the squirrels' feeding ground.
@@ -3896,7 +3896,7 @@ very life?" ...
 **(Tell in full as in SN 35.118.)**
 
 <!--pg-->
-### N 35.129 With Ghosita *Ghositasutta*
+### SN 35.129 With Ghosita *Ghositasutta*
 
 At one time Venerable Ānanda was staying near Kosambī, in
 Ghosita's Monastery. Then the householder Ghosita went up to Venerable
@@ -3925,7 +3925,7 @@ experienced as neutral.
 This is how the Buddha spoke of the diversity of elements."
 
 <!--pg-->
-### N 35.130 With Hāliddikāni *Hāliddikānisutta*
+### SN 35.130 With Hāliddikāni *Hāliddikānisutta*
 
 At one time Venerable Mahākaccāna was staying in the land
 of the Avantis near Kuraraghara on Steep Mountain.
@@ -3961,7 +3961,7 @@ That's how diversity of elements gives rise to diversity of contacts,
 and diversity of contacts gives rise to diversity of feelings."
 
 <!--pg-->
-### N 35.131 Nakula's Father *Nakulapitusutta*
+### SN 35.131 Nakula's Father *Nakulapitusutta*
 
 At one time the Buddha was staying in the land of the Bhaggas at
 Crocodile Hill, in the deer park at Bhesakaḷā's Wood.
@@ -3998,7 +3998,7 @@ becomes extinguished. That's the cause, that's the reason why some
 sentient beings are fully extinguished in this very life."
 
 <!--pg-->
-### N 35.132 With Lohicca *Lohiccasutta*
+### SN 35.132 With Lohicca *Lohiccasutta*
 
 At one time Venerable Mahākaccāna was staying in the land
 of the Avantis in a wilderness hut near Makkarakaṭa.
@@ -4153,7 +4153,7 @@ will bow to you, rise in your presence, and give you a seat and water.
 That will be for their lasting welfare and happiness."
 
 <!--pg-->
-### N 35.133 Verahaccāni *Verahaccānisutta*
+### SN 35.133 Verahaccāni *Verahaccānisutta*
 
 At one time Venerable Udāyī was staying near
 Kāmaṇḍā in the brahmin Todeyya's mango grove.
@@ -4239,7 +4239,7 @@ remember me as a lay follower who has gone for refuge for life."
 <!--pg-->
 ## The Chapter at Devadaha
 
-### N 35.134 At Devadaha *Devadahasutta*
+### SN 35.134 At Devadaha *Devadahasutta*
 
 At one time the Buddha was staying in the land of the Sakyans, near the
 Sakyan town named Devadaha. There the Buddha addressed the mendicants:
@@ -4279,7 +4279,7 @@ this fruit of diligence, I say that those mendicants have work to do
 with diligence when it comes to the six fields of contact."
 
 <!--pg-->
-### N 35.135 Opportunity *Khaṇasutta*
+### SN 35.135 Opportunity *Khaṇasutta*
 
 "You're fortunate, mendicants, so very fortunate, to have the
 opportunity to lead the spiritual life. I've seen the hell called
@@ -4310,7 +4310,7 @@ mendicants, so very fortunate, to have the opportunity to lead the
 spiritual life."
 
 <!--pg-->
-### N 35.136 Liking Sights (1st) *Paṭhamarūpārāmasutta*
+### SN 35.136 Liking Sights (1st) *Paṭhamarūpārāmasutta*
 
 "Mendicants, gods and humans like sights, they love them and enjoy them.
 But when sights perish, fade away, and cease, gods and humans live in
@@ -4374,7 +4374,7 @@ say:
 > the undefiled are fully extinguished."
 
 <!--pg-->
-### N 35.137 Liking Sights (2nd) *Dutiyarūpārāmasutta*
+### SN 35.137 Liking Sights (2nd) *Dutiyarūpārāmasutta*
 
 "Mendicants, gods and humans like sights, they love them and enjoy them.
 But when sights perish, fade away, and cease, gods and humans live in
@@ -4386,7 +4386,7 @@ When sights perish, fade away, and cease, the Realized One lives
 happily. ..."
 
 <!--pg-->
-### N 35.138 Not Yours (1st) *Paṭhamanatumhākasutta*
+### SN 35.138 Not Yours (1st) *Paṭhamanatumhākasutta*
 
 "Mendicants, give up what's not yours. Giving it up will be for your
 welfare and happiness. And what isn't yours? The eye isn't yours: give
@@ -4410,7 +4410,7 @@ The ear ... nose ... tongue ... body ... mind isn't yours: give it up.
 Giving it up will be for your welfare and happiness."
 
 <!--pg-->
-### N 35.139 Not Yours (2nd) *Dutiyanatumhākasutta*
+### SN 35.139 Not Yours (2nd) *Dutiyanatumhākasutta*
 
 "Mendicants, give up what's not yours. Giving it up will be for your
 welfare and happiness. And what isn't yours? Sights aren't yours: give
@@ -4427,7 +4427,7 @@ aren't yours: give them up. Giving them up will be for your welfare and
 happiness."
 
 <!--pg-->
-### N 35.140 Interior and Cause Are Impermanent *Ajjhattaaniccahetusutta*
+### SN 35.140 Interior and Cause Are Impermanent *Ajjhattaaniccahetusutta*
 
 "Mendicants, the eye is impermanent. The cause and reason that gives
 rise to the eye is also impermanent. Since the eye is produced by what
@@ -4447,7 +4447,7 @@ completed, what had to be done has been done, there is nothing further
 for this place.'"
 
 <!--pg-->
-### N 35.141 Interior and Cause Are Suffering *Ajjhattadukkhahetusutta*
+### SN 35.141 Interior and Cause Are Suffering *Ajjhattadukkhahetusutta*
 
 "Mendicants, the eye is suffering. The cause and reason that gives rise
 to the eye is also suffering. Since the eye is produced by what is
@@ -4461,7 +4461,7 @@ Seeing this ... They understand: '... there is nothing further for this
 place.'"
 
 <!--pg-->
-### N 35.142 Interior and Cause Are Not-Self *Ajjhattānattahetusutta*
+### SN 35.142 Interior and Cause Are Not-Self *Ajjhattānattahetusutta*
 
 "Mendicants, the eye is not-self. The cause and reason that gives rise
 to the eye is also not-self. Since the eye is produced by what is
@@ -4475,7 +4475,7 @@ Seeing this ... They understand: '... there is nothing further for this
 place.'"
 
 <!--pg-->
-### N 35.143 Exterior and Cause Are Impermanent *Bāhirāniccahetusutta*
+### SN 35.143 Exterior and Cause Are Impermanent *Bāhirāniccahetusutta*
 
 "Mendicants, sights are impermanent. The cause and reason that gives
 rise to sights is also impermanent. Since sights are produced by what is
@@ -4496,7 +4496,7 @@ could they be permanent?
 Seeing this ... They understand: '... there is nothing further for this
 place.'"
 
-### N 35.144 Exterior and Cause Are Suffering *Bāhiradukkhahetusutta*
+### SN 35.144 Exterior and Cause Are Suffering *Bāhiradukkhahetusutta*
 
 "Mendicants, sights are suffering. The cause and reason that gives rise
 to sights is also suffering. Since sights are produced by what is
@@ -4518,7 +4518,7 @@ Seeing this ... They understand: '... there is nothing further for this
 place.'"
 
 
-### N 35.145 Exterior and Cause Are Not-Self *Bāhirānattahetusutta*
+### SN 35.145 Exterior and Cause Are Not-Self *Bāhirānattahetusutta*
 
 "Mendicants, sights are not-self. The cause and reason that gives rise
 to sights is also not-self. Since sights are produced by what is
@@ -4546,7 +4546,7 @@ for this place.'"
 <!--pg-->
 ## The Chapter on the Old and the New
 
-### N 35.146 The Cessation of Deeds *Kammanirodhasutta*
+### SN 35.146 The Cessation of Deeds *Kammanirodhasutta*
 
 "Mendicants, I will teach you old deeds, new deeds, the cessation of
 deeds, and the practice that leads to the cessation of deeds. Listen and
@@ -4592,7 +4592,7 @@ these empty huts. Practice absorption, mendicants! Don't be negligent!
 Don't regret it later! This is my instruction to you."
 
 <!--pg-->
-### N 35.147 The Impermanent as Conducive to Extinguishment *Aniccanibbānasappāyasutta*
+### SN 35.147 The Impermanent as Conducive to Extinguishment *Aniccanibbānasappāyasutta*
 
 "Mendicants, I will teach you a practice that's conducive to
 extinguishment. Listen ...
@@ -4612,7 +4612,7 @@ mind contact is also impermanent.
 This is that practice that's conducive to extinguishment."
 
 <!--pg-->
-### N 35.148 The Suffering as Conducive to Extinguishment *Dukkhanibbānasappāyasutta*
+### SN 35.148 The Suffering as Conducive to Extinguishment *Dukkhanibbānasappāyasutta*
 
 "Mendicants, I will teach you a practice that's conducive to
 extinguishment. Listen ...
@@ -4631,7 +4631,7 @@ mind contact is also suffering.
 
 This is that practice that's conducive to extinguishment."
 
-### N 35.149 Not-Self as Conducive to Extinguishment *Anattanibbānasappāyasutta*
+### SN 35.149 Not-Self as Conducive to Extinguishment *Anattanibbānasappāyasutta*
 
 "Mendicants, I will teach you a practice that's conducive to
 extinguishment. Listen ...
@@ -4650,7 +4650,7 @@ contact is also not-self.
 This is that practice that's conducive to extinguishment."
 
 <!--pg-->
-### N 35.150 A Practice Conducive to Extinguishment *Nibbānasappāyapaṭipadāsutta*
+### SN 35.150 A Practice Conducive to Extinguishment *Nibbānasappāyapaṭipadāsutta*
 
 "Mendicants, I will teach you a practice that's conducive to
 extinguishment. Listen ...
@@ -4701,7 +4701,7 @@ They understand: '... there is nothing further for this place.'
 This is that practice that's conducive to extinguishment."
 
 <!--pg-->
-### N 35.151 A Resident Pupil *Antevāsikasutta*
+### SN 35.151 A Resident Pupil *Antevāsikasutta*
 
 "Mendicants, this spiritual life is lived without a resident pupil and
 without a teaching master. A mendicant who lives with a resident pupil
@@ -4756,7 +4756,7 @@ without a resident pupil and a teaching master lives in happiness and
 comfort."
 
 <!--pg-->
-### N 35.152 What's the Purpose of the Spiritual Life? *Kimatthiyabrahmacariyasutta*
+### SN 35.152 What's the Purpose of the Spiritual Life? *Kimatthiyabrahmacariyasutta*
 
 "Mendicants, if wanderers who follow another religion were to ask you:
 'Reverends, what's the purpose of leading the spiritual life under the
@@ -4786,7 +4786,7 @@ When questioned by wanderers of other religions, that's how you should
 answer them."
 
 <!--pg-->
-### N 35.153 Is There a Method? *Atthinukhopariyāyasutta*
+### SN 35.153 Is There a Method? *Atthinukhopariyāyasutta*
 
 "Mendicants, is there a method---apart from faith, endorsement, oral
 transmission, reasoned train of thought, or acceptance of a view after
@@ -4854,7 +4854,7 @@ journey has been completed, what had to be done has been done, there is
 nothing further for this place."'"
 
 <!--pg-->
-### N 35.154 Endowed With Faculties *Indriyasampannasutta*
+### SN 35.154 Endowed With Faculties *Indriyasampannasutta*
 
 Then a mendicant went up to the Buddha ... and asked him, "Sir, they
 speak of someone who is 'accomplished regarding the faculties'. How is
@@ -4878,7 +4878,7 @@ This is how someone who is accomplished regarding the faculties is
 defined."
 
 <!--pg-->
-### N 35.155 A Dhamma Speaker *Dhammakathikapucchasutta*
+### SN 35.155 A Dhamma Speaker *Dhammakathikapucchasutta*
 
 Then a mendicant went up to the Buddha ... and asked him, "Sir, they
 speak of a 'Dhamma speaker'. How is a Dhamma speaker defined?"
@@ -4912,7 +4912,7 @@ cessation regarding the mind, they're qualified to be called a
 <!--pg-->
 ## The Chapter on the End of Relishing
 
-### N 35.156 The Interior and the End of Relishing *Ajjhattanandikkhayasutta*
+### SN 35.156 The Interior and the End of Relishing *Ajjhattanandikkhayasutta*
 
 "Mendicants, the eye really is impermanent. A mendicant sees that it is
 impermanent: that's their right view. Seeing rightly, they grow
@@ -4927,7 +4927,7 @@ greed ends, relishing ends. When relishing and greed end, the mind is
 said to be well freed."
 
 <!--pg-->
-### N 35.157 The Exterior and the End of Relishing *Bāhiranandikkhayasutta*
+### SN 35.157 The Exterior and the End of Relishing *Bāhiranandikkhayasutta*
 
 "Mendicants, sights really are impermanent. A mendicant sees that they
 are impermanent: that's their right view. Seeing rightly, they grow
@@ -4942,7 +4942,7 @@ ends, greed ends. When greed ends, relishing ends. When relishing and
 greed end, the mind is said to be well freed."
 
 <!--pg-->
-### N 35.158 Focus, the Interior, and the End of Relishing *Ajjhattaaniccanandikkhayasutta*
+### SN 35.158 Focus, the Interior, and the End of Relishing *Ajjhattaaniccanandikkhayasutta*
 
 "Mendicants, rationally apply the mind to the eye. Truly see the
 impermanence of the eye. When a mendicant does this, they grow
@@ -4957,7 +4957,7 @@ ends. When greed ends, relishing ends. When relishing and greed end, the
 mind is said to be well freed."
 
 <!--pg-->
-### N 35.159 Focus, the Exterior, and the End of Relishing *Bāhiraaniccanandikkhayasutta*
+### SN 35.159 Focus, the Exterior, and the End of Relishing *Bāhiraaniccanandikkhayasutta*
 
 "Mendicants, rationally apply the mind to sights. Truly see the
 impermanence of sights. When a mendicant does this, they grow
@@ -4972,7 +4972,7 @@ ends. When greed ends, relishing ends. When relishing and greed end, the
 mind is said to be well freed."
 
 <!--pg-->
-### N 35.160 On Immersion at Jīvaka's Mango Grove *Jīvakambavanasamādhisutta*
+### SN 35.160 On Immersion at Jīvaka's Mango Grove *Jīvakambavanasamādhisutta*
 
 At one time the Buddha was staying near Rājagaha in
 Jīvaka's Mango Grove. There the Buddha addressed the
@@ -4995,7 +4995,7 @@ Mendicants, develop immersion. For a mendicant with immersion, things
 become truly clear."
 
 <!--pg-->
-### N 35.161 On Retreat at Jīvaka's Mango Grove *Jīvakambavanapaṭisallānasutta*
+### SN 35.161 On Retreat at Jīvaka's Mango Grove *Jīvakambavanapaṭisallānasutta*
 
 At one time the Buddha was staying near Rājagaha in
 Jīvaka's Mango Grove. There the Buddha addressed the
@@ -5018,7 +5018,7 @@ Mendicants, meditate in retreat. For a mendicant who meditates in
 retreat, things become truly clear."
 
 <!--pg-->
-### N 35.162 With Koṭṭhita on Impermanence *Koṭṭhikaaniccasutta*
+### SN 35.162 With Koṭṭhita on Impermanence *Koṭṭhikaaniccasutta*
 
 Then Venerable Mahākoṭṭhita went up to the Buddha ... and
 asked him, "Sir, may the Buddha please teach me Dhamma in brief. When
@@ -5042,7 +5042,7 @@ Koṭṭhita, you should give up desire for what is
 impermanent."
 
 <!--pg-->
-### N 35.163 With Koṭṭhita on Suffering *Koṭṭhikadukkhasutta*
+### SN 35.163 With Koṭṭhita on Suffering *Koṭṭhikadukkhasutta*
 
 Then Venerable Mahākoṭṭhita ... said to the Buddha:
 
@@ -5065,7 +5065,7 @@ for it.
 
 Koṭṭhita, you should give up desire for what is suffering."
 
-### N 35.164 With Koṭṭhita on Not-Self *Koṭṭhikaanattasutta*
+### SN 35.164 With Koṭṭhita on Not-Self *Koṭṭhikaanattasutta*
 
 "Koṭṭhita, you should give up desire for what is not-self.
 And what is not-self?
@@ -5083,7 +5083,7 @@ should give up desire for it.
 Koṭṭhita, you should give up desire for what is not-self."
 
 <!--pg-->
-### N 35.165 Giving Up Wrong View *Micchādiṭṭhipahānasutta*
+### SN 35.165 Giving Up Wrong View *Micchādiṭṭhipahānasutta*
 
 Then a mendicant went up to the Buddha ... and said to him:
 
@@ -5099,7 +5099,7 @@ given up.
 This is how to know and see so that wrong view is given up."
 
 <!--pg-->
-### N 35.166 Giving Up Substantialist View *Sakkāyadiṭṭhipahānasutta*
+### SN 35.166 Giving Up Substantialist View *Sakkāyadiṭṭhipahānasutta*
 
 Then a mendicant went up to the Buddha ... and said to him:
 
@@ -5116,7 +5116,7 @@ view is given up.
 This is how to know and see so that substantialist view is given up."
 
 <!--pg-->
-### N 35.167 Giving Up View of Self *Attānudiṭṭhipahānasutta*
+### SN 35.167 Giving Up View of Self *Attānudiṭṭhipahānasutta*
 
 Then a mendicant went up to the Buddha ... and said to him:
 
@@ -5132,7 +5132,7 @@ given up."
 <!--pg-->
 ## The Chapter on Sixty Abbreviated Texts
 
-### N 35.168 Desire for the Impermanent Interior *Ajjhattaaniccachandasutta*
+### SN 35.168 Desire for the Impermanent Interior *Ajjhattaaniccachandasutta*
 
 "Mendicants, you should give up desire for what is impermanent. And what
 is impermanent?
@@ -5142,7 +5142,7 @@ give up desire for them. You should give up desire for what is
 impermanent."
 
 <!--pg-->
-### N 35.169 Greed for the Impermanent Interior *Ajjhattaaniccarāgasutta*
+### SN 35.169 Greed for the Impermanent Interior *Ajjhattaaniccarāgasutta*
 
 "Mendicants, you should give up greed for what is impermanent. And what
 is impermanent?
@@ -5150,7 +5150,7 @@ is impermanent?
 The eye, ear, nose, tongue, body, and mind are impermanent ..."
 
 <!--pg-->
-### N 35.170 Desire and Greed for the Impermanent Interior *Ajjhattaaniccachandarāgasutta*
+### SN 35.170 Desire and Greed for the Impermanent Interior *Ajjhattaaniccachandarāgasutta*
 
 "Mendicants, you should give up desire and greed for what is
 impermanent. And what is impermanent?
@@ -5158,7 +5158,7 @@ impermanent. And what is impermanent?
 The eye, ear, nose, tongue, body, and mind are impermanent ..."
 
 <!--pg-->
-### N 35.171--173 Desire, Etc. for the Suffering Interior *Dukkhachandādisutta*
+### SN 35.171--173 Desire, Etc. for the Suffering Interior *Dukkhachandādisutta*
 
 "Mendicants, you should give up desire ... greed ... desire and greed
 for what is suffering. And what is suffering?
@@ -5166,7 +5166,7 @@ for what is suffering. And what is suffering?
 The eye, ear, nose, tongue, body, and mind are suffering ..."
 
 <!--pg-->
-### N 35.174--176 Desire, Etc. for the Not-Self Interior *Anattachandādisutta*
+### SN 35.174--176 Desire, Etc. for the Not-Self Interior *Anattachandādisutta*
 
 "Mendicants, you should give up desire ... greed ... desire and greed
 for what is not-self. And what is not-self?
@@ -5174,7 +5174,7 @@ for what is not-self. And what is not-self?
 The eye, ear, nose, tongue, body, and mind are not-self ..."
 
 <!--pg-->
-### N 35.177--179 Desire, Etc. for the Impermanent Exterior *Bāhirāniccachandādisutta*
+### SN 35.177--179 Desire, Etc. for the Impermanent Exterior *Bāhirāniccachandādisutta*
 
 "Mendicants, you should give up desire ... greed ... desire and greed
 for what is impermanent. And what is impermanent?
@@ -5182,7 +5182,7 @@ for what is impermanent. And what is impermanent?
 Sights, sounds, smells, tastes, touches, and ideas are impermanent ..."
 
 <!--pg-->
-### N 35.180--182 Desire, Etc. for the Suffering Exterior *Bāhiradukkhachandādisutta*
+### SN 35.180--182 Desire, Etc. for the Suffering Exterior *Bāhiradukkhachandādisutta*
 
 "Mendicants, you should give up desire ... greed ... desire and greed
 for what is suffering. And what is suffering?
@@ -5190,7 +5190,7 @@ for what is suffering. And what is suffering?
 Sights, sounds, smells, tastes, touches, and ideas are suffering ..."
 
 <!--pg-->
-### N 35.183--185 Desire, Etc. for the Not-Self Exterior *Bāhirānattachandādisutta*
+### SN 35.183--185 Desire, Etc. for the Not-Self Exterior *Bāhirānattachandādisutta*
 
 "Mendicants, you should give up desire ... greed ... desire and greed
 for what is not-self. And what is not-self?
@@ -5198,7 +5198,7 @@ for what is not-self. And what is not-self?
 Sights, sounds, smells, tastes, touches, and ideas are not-self ..."
 
 <!--pg-->
-### N 35.186 The Interior Was Impermanent in the Past *Ajjhattātītāniccasutta*
+### SN 35.186 The Interior Was Impermanent in the Past *Ajjhattātītāniccasutta*
 
 "Mendicants, in the past the eye, ear, nose, tongue, body, and mind were
 impermanent.
@@ -5213,49 +5213,49 @@ completed, what had to be done has been done, there is nothing further
 for this place.'"
 
 <!--pg-->
-### N 35.187 The Interior Will Be Impermanent in the Future *Ajjhattānāgatāniccasutta*
+### SN 35.187 The Interior Will Be Impermanent in the Future *Ajjhattānāgatāniccasutta*
 
 "Mendicants, in the future the eye, ear, nose, tongue, body, and mind
 will be impermanent ..."
 
 <!--pg-->
-### N 35.188 The Interior Is Impermanent in the Present *Ajjhattapaccuppannāniccasutta*
+### SN 35.188 The Interior Is Impermanent in the Present *Ajjhattapaccuppannāniccasutta*
 
 "Mendicants, in the present the eye, ear, nose, tongue, body, and mind
 are impermanent ..."
 
 <!--pg-->
-### N 35.189--191 The Interior as Suffering in the Three Times *Ajjhattātītādidukkhasutta*
+### SN 35.189--191 The Interior as Suffering in the Three Times *Ajjhattātītādidukkhasutta*
 
 "Mendicants, in the past ... future ... present the eye, ear, nose,
 tongue, body, and mind are suffering ..."
 
 <!--pg-->
-### N 35.192--194 The Interior as Not-Self in the Three Times *Ajjhattātītādianattasutta*
+### SN 35.192--194 The Interior as Not-Self in the Three Times *Ajjhattātītādianattasutta*
 
 "Mendicants, in the past ... future ... present the eye, ear, nose,
 tongue, body, and mind are not-self ..."
 
 <!--pg-->
-### N 35.195--197 The Exterior as Impermanent in the Three Times *Bāhirātītādianiccasutta*
+### SN 35.195--197 The Exterior as Impermanent in the Three Times *Bāhirātītādianiccasutta*
 
 "Mendicants, in the past ... future ... present sights, sounds, smells,
 tastes, touches, and ideas are impermanent ..."
 
 <!--pg-->
-### N 35.198--200 The Exterior as Suffering in the Three Times *Bāhirātītādidukkhasutta*
+### SN 35.198--200 The Exterior as Suffering in the Three Times *Bāhirātītādidukkhasutta*
 
 "Mendicants, in the past ... future ... present sights, sounds, smells,
 tastes, touches, and ideas are suffering ..."
 
 <!--pg-->
-### N 35.201--203 The Exterior as Not-Self in the Three Times *Bāhirātītādianattasutta*
+### SN 35.201--203 The Exterior as Not-Self in the Three Times *Bāhirātītādianattasutta*
 
 "Mendicants, in the past ... future ... present sights, sounds, smells,
 tastes, touches, and ideas are not-self ..."
 
 <!--pg-->
-### N 35.204 The Interior and What's Impermanent in the Past *Ajjhattātītayadaniccasutta*
+### SN 35.204 The Interior and What's Impermanent in the Past *Ajjhattātītayadaniccasutta*
 
 "Mendicants, in the past the eye, ear, nose, tongue, body, and mind were
 impermanent. What's impermanent is suffering. What's suffering is
@@ -5264,25 +5264,25 @@ understanding like this: 'This is not mine, I am not this, this is not
 my self.' ..."
 
 <!--pg-->
-### N 35.205 The Interior and What's Impermanent in the Future *Ajjhattānāgatayadaniccasutta*
+### SN 35.205 The Interior and What's Impermanent in the Future *Ajjhattānāgatayadaniccasutta*
 
 "Mendicants, in the future the eye, ear, nose, tongue, body, and mind
 will be impermanent. What's impermanent is suffering ..."
 
 <!--pg-->
-### N 35.206 The Interior and What's Impermanent in the Present *Ajjhattapaccuppannayadaniccasutta*
+### SN 35.206 The Interior and What's Impermanent in the Present *Ajjhattapaccuppannayadaniccasutta*
 
 "Mendicants, in the present the eye, ear, nose, tongue, body, and mind
 are impermanent. What's impermanent is suffering. ..."
 
 <!--pg-->
-### N 35.207--209 The Interior and What's Suffering in the Three Times *Ajjhattātītādiyaṁdukkhasutta*
+### SN 35.207--209 The Interior and What's Suffering in the Three Times *Ajjhattātītādiyaṁdukkhasutta*
 
 "Mendicants, in the past ... future ... present the eye, ear, nose,
 tongue, body, and mind are suffering. What's suffering is not-self ..."
 
 <!--pg-->
-### N 35.210--212 The Interior and What's Not-Self in the Three Times *Ajjhattātītādiyadanattasutta*
+### SN 35.210--212 The Interior and What's Not-Self in the Three Times *Ajjhattātītādiyadanattasutta*
 
 "Mendicants, in the past ... future ... present the eye, ear, nose,
 tongue, body, and mind are not-self. And what's not-self should be truly
@@ -5290,21 +5290,21 @@ seen with right understanding like this: 'This is not mine, I am not
 this, this is not my self.' ..."
 
 <!--pg-->
-### N 35.213--215 The Exterior and What's Impermanent in the Three Times *Bāhirātītādiyadaniccasutta*
+### SN 35.213--215 The Exterior and What's Impermanent in the Three Times *Bāhirātītādiyadaniccasutta*
 
 "Mendicants, in the past ... future ... present sights, sounds, smells,
 tastes, touches, and ideas are impermanent. What's impermanent is
 suffering ..."
 
 <!--pg-->
-### N 35.216--218 The Exterior and What's Suffering in the Three Times *Bāhirātītādiyaṁdukkhasutta*
+### SN 35.216--218 The Exterior and What's Suffering in the Three Times *Bāhirātītādiyaṁdukkhasutta*
 
 "Mendicants, in the past ... future ... present sights, sounds, smells,
 tastes, touches, and ideas are suffering. What's suffering is not-self
 ..."
 
 <!--pg-->
-### N 35.219--221 The Exterior and What's Not-Self in the Three Times *Bāhirātītādiyadanattasutta*
+### SN 35.219--221 The Exterior and What's Not-Self in the Three Times *Bāhirātītādiyadanattasutta*
 
 "Mendicants, in the past ... future ... present sights, sounds, smells,
 tastes, touches, and ideas are not-self. And what's not-self should be
@@ -5312,7 +5312,7 @@ truly seen with right understanding like this: 'This is not mine, I am
 not this, this is not my self.' ..."
 
 <!--pg-->
-### N 35.222 The Interior as Impermanent *Ajjhattāyatanaaniccasutta*
+### SN 35.222 The Interior as Impermanent *Ajjhattāyatanaaniccasutta*
 
 "Mendicants, the eye, ear, nose, tongue, body, and mind are impermanent.
 
@@ -5320,7 +5320,7 @@ Seeing this ... They understand: '... there is nothing further for this
 place.'"
 
 <!--pg-->
-### N 35.223 The Interior as Suffering *Ajjhattāyatanadukkhasutta*
+### SN 35.223 The Interior as Suffering *Ajjhattāyatanadukkhasutta*
 
 "Mendicants, the eye, ear, nose, tongue, body, and mind are suffering.
 
@@ -5328,7 +5328,7 @@ Seeing this ... They understand: '... there is nothing further for this
 place.'"
 
 <!--pg-->
-### N 35.224 The Interior as Not-Self *Ajjhattāyatanaanattasutta*
+### SN 35.224 The Interior as Not-Self *Ajjhattāyatanaanattasutta*
 
 "Mendicants, the eye, ear, nose, tongue, body, and mind are not-self.
 
@@ -5336,7 +5336,7 @@ Seeing this ... They understand: '... there is nothing further for this
 place.'"
 
 <!--pg-->
-### N 35.225 The Exterior as Impermanent *Bāhirāyatanaaniccasutta*
+### SN 35.225 The Exterior as Impermanent *Bāhirāyatanaaniccasutta*
 
 "Mendicants, sights, sounds, smells, tastes, touches, and ideas are
 impermanent.
@@ -5345,7 +5345,7 @@ Seeing this ... They understand: '... there is nothing further for this
 place.'"
 
 <!--pg-->
-### N 35.226 The Exterior as Suffering *Bāhirāyatanadukkhasutta*
+### SN 35.226 The Exterior as Suffering *Bāhirāyatanadukkhasutta*
 
 "Mendicants, sights, sounds, smells, tastes, touches, and ideas are
 suffering.
@@ -5354,7 +5354,7 @@ Seeing this ... They understand: '... there is nothing further for this
 place.'"
 
 <!--pg-->
-### N 35.227 The Exterior as Not-Self *Bāhirāyatanaanattasutta*
+### SN 35.227 The Exterior as Not-Self *Bāhirāyatanaanattasutta*
 
 "Mendicants, sights, sounds, smells, tastes, touches, and ideas are
 not-self.
@@ -5365,7 +5365,7 @@ place.'"
 <!--pg-->
 ## The Chapter on the Ocean
 
-### N 35.228 The Ocean (1st) *Paṭhamasamuddasutta*
+### SN 35.228 The Ocean (1st) *Paṭhamasamuddasutta*
 
 "Mendicants, an unlearned ordinary person speaks of the ocean. But
 that's not the ocean in the training of the Noble One. That's just a
@@ -5395,7 +5395,7 @@ say:
 > they're called 'one who has gone beyond'."
 
 <!--pg-->
-### N 35.229 The Ocean (2nd) *Dutiyasamuddasutta*
+### SN 35.229 The Ocean (2nd) *Dutiyasamuddasutta*
 
 "Mendicants, an unlearned ordinary person speaks of the ocean. But
 that's not the ocean in the training of the Noble One. That's just a
@@ -5434,7 +5434,7 @@ transmigration.
 > and they've confounded the King of Death, I say."
 
 <!--pg-->
-### N 35.230 The Simile of the Fisherman *Bāḷisikopamasutta*
+### SN 35.230 The Simile of the Fisherman *Bāḷisikopamasutta*
 
 "Mendicants, suppose a fisherman was to cast a baited hook into a deep
 lake. Seeing the bait, a fish would swallow it. And so the fish that
@@ -5473,7 +5473,7 @@ haven't met with tragedy and disaster, and the Wicked One cannot do with
 them what he wants."
 
 <!--pg-->
-### N 35.231 The Simile of the Latex-Producing Tree *Khīrarukkhopamasutta*
+### SN 35.231 The Simile of the Latex-Producing Tree *Khīrarukkhopamasutta*
 
 "Mendicants, take any monk or nun who, when it comes to sights known by
 the eye, still has greed, hate, and delusion, and has not given them up.
@@ -5546,7 +5546,7 @@ Why is that? Because they have no greed, hate, and delusion left, and
 have given them up."
 
 <!--pg-->
-### N 35.232 With Koṭṭhita *Koṭṭhikasutta*
+### SN 35.232 With Koṭṭhita *Koṭṭhikasutta*
 
 At one time Venerable Sāriputta and Venerable
 Mahākoṭṭhita were staying near Varanasi, in the deer park
@@ -5616,7 +5616,7 @@ the mind. The fetter there is the desire and greed that arises from the
 pair of them."
 
 <!--pg-->
-### N 35.233 With Kāmabhū *Kāmabhūsutta*
+### SN 35.233 With Kāmabhū *Kāmabhūsutta*
 
 At one time the venerables Ānanda and Kāmabhū were staying
 near Kosambī, in Ghosita's Monastery.
@@ -5651,7 +5651,7 @@ not the fetter of ideas, nor are ideas the fetter of the mind. The
 fetter there is the desire and greed that arises from the pair of them."
 
 <!--pg-->
-### N 35.234 With Udāyī *Udāyīsutta*
+### SN 35.234 With Udāyī *Udāyīsutta*
 
 At one time the venerables Ānanda and Udāyī were staying
 near Kosambī, in Ghosita's Monastery.
@@ -5710,7 +5710,7 @@ completed, what had to be done has been done, there is nothing further
 for this place.'"
 
 <!--pg-->
-### N 35.235 The Exposition on Burning *Ādittapariyāyasutta*
+### SN 35.235 The Exposition on Burning *Ādittapariyāyasutta*
 
 "Mendicants, I will teach you an exposition of the teaching on burning.
 Listen ...
@@ -5799,7 +5799,7 @@ for this place.'
 This is the exposition of the teaching on burning."
 
 <!--pg-->
-### N 35.236 The Simile of Hands and Feet (1st) *Paṭhamahatthapādopamasutta*
+### SN 35.236 The Simile of Hands and Feet (1st) *Paṭhamahatthapādopamasutta*
 
 "Mendicants, when there are hands, picking up and putting down are
 found. When there are feet, coming and going are found. When there are
@@ -5822,7 +5822,7 @@ tongue ... body ... mind, pleasure and pain don't arise internally
 conditioned by mind contact."
 
 <!--pg-->
-### N 35.237 The Simile of Hands and Feet (2nd) *Dutiyahatthapādopamasutta*
+### SN 35.237 The Simile of Hands and Feet (2nd) *Dutiyahatthapādopamasutta*
 
 "Mendicants, when there are hands, there's picking up and putting down.
 When there are feet, there's coming and going. When there are joints,
@@ -5847,7 +5847,7 @@ conditioned by mind contact."
 <!--pg-->
 ## The Chapter on the Simile of the Vipers
 
-### N 35.238 The Simile of the Vipers *Āsīvisopamasutta*
+### SN 35.238 The Simile of the Vipers *Āsīvisopamasutta*
 
 "Mendicants, suppose there were four lethal poisonous vipers. Then a
 person would come along who wants to live and doesn't want to die, who
@@ -5938,7 +5938,7 @@ effort, right mindfulness, and right immersion.
 for a perfected one."
 
 <!--pg-->
-### N 35.239 The Simile of the Chariot *Rathopamasutta*
+### SN 35.239 The Simile of the Chariot *Rathopamasutta*
 
 "Mendicants, when a mendicant has three qualities they're full of joy
 and happiness in this very life, and they have laid the groundwork for
@@ -6019,7 +6019,7 @@ happiness in this very life, and they have laid the groundwork for
 ending the defilements."
 
 <!--pg-->
-### N 35.240 The Simile of the Tortoise *Kummopamasutta*
+### SN 35.240 The Simile of the Tortoise *Kummopamasutta*
 
 "Once upon a time, mendicants, a tortoise was grazing along the bank of
 a river in the afternoon. At the same time, a jackal was also hunting
@@ -6071,7 +6071,7 @@ the jackal left the tortoise.
 > quenched: they wouldn't blame anyone."
 
 <!--pg-->
-### N 35.241 The Simile of the Tree Trunk (1st) *Paṭhamadārukkhandhopamasutta*
+### SN 35.241 The Simile of the Tree Trunk (1st) *Paṭhamadārukkhandhopamasutta*
 
 At one time the Buddha was staying near Kosambī on the bank
 of the Ganges river.
@@ -6154,7 +6154,7 @@ Buddha's presence. Not long after his ordination, Venerable Nanda became
 one of the perfected.
 
 <!--pg-->
-### N 35.242 The Simile of the Tree Trunk (2nd) *Dutiyadārukkhandhopamasutta*
+### SN 35.242 The Simile of the Tree Trunk (2nd) *Dutiyadārukkhandhopamasutta*
 
 At one time the Buddha was staying near Kimibilā on the
 bank of the Ganges river. Seeing a large tree trunk being carried along
@@ -6175,7 +6175,7 @@ the kind of corrupt offense for which no resolution is possible. This is
 called 'rotting away'."
 
 <!--pg-->
-### N 35.243 The Explanation on the Festering *Avassutapariyāyasutta*
+### SN 35.243 The Explanation on the Festering *Avassutapariyāyasutta*
 
 At one time the Buddha was staying in the land of the Sakyans, near
 Kapilavatthu in the Banyan Tree Monastery. Now at that time a new town
@@ -6340,7 +6340,7 @@ approved. Satisfied, the mendicants approved what
 Mahāmoggallāna said.
 
 <!--pg-->
-### N 35.244 Entailing Suffering *Dukkhadhammasutta*
+### SN 35.244 Entailing Suffering *Dukkhadhammasutta*
 
 "Mendicants, when a mendicant truly understands the origin and ending of
 all things that entail suffering, then they've seen sensual pleasures in
@@ -6479,7 +6479,7 @@ sloped, and inclined to seclusion. So it's impossible for them to return
 to a lesser life."
 
 <!--pg-->
-### N 35.245 The Simile of the Parrot Tree *Kiṁsukopamasutta*
+### SN 35.245 The Simile of the Parrot Tree *Kiṁsukopamasutta*
 
 Then one mendicant went up to another mendicant and asked, "Reverend, at
 what point is a mendicant's vision well purified?"
@@ -6562,7 +6562,7 @@ right view, right thought, right speech, right action, right livelihood,
 right effort, right mindfulness, and right immersion."
 
 <!--pg-->
-### N 35.246 The Simile of the Harp *Vīṇopamasutta*
+### SN 35.246 The Simile of the Harp *Vīṇopamasutta*
 
 "Mendicants, any monk or nun who has desire or greed or hate or delusion
 or repulsion come up for sights known by the eye should shield their
@@ -6636,7 +6636,7 @@ choices, and consciousness anywhere they might be reborn. As they search
 in this way, their ideas of 'I' or 'mine' or 'I am' are no more."
 
 <!--pg-->
-### N 35.247 The Simile of Six Animals *Chappāṇakopamasutta*
+### SN 35.247 The Simile of Six Animals *Chappāṇakopamasutta*
 
 "Mendicants, suppose a person with wounded and festering limbs was to
 enter a thicket of thorny reeds. The kusa thorns would pierce their
@@ -6740,7 +6740,7 @@ consolidate it, and properly implement it.' That's how you should
 train."
 
 <!--pg-->
-### N 35.248 The Sheaf of Barley *Yavakalāpisutta*
+### SN 35.248 The Sheaf of Barley *Yavakalāpisutta*
 
 "Mendicants, suppose a sheaf of barley was placed at a crossroads. Then
 six people would come along carrying flails, and started threshing the

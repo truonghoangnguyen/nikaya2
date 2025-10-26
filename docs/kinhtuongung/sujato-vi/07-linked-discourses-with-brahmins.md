@@ -3,7 +3,7 @@
 <!--pg-->
 ## Phẩm về các Bậc A-la-hán
 
-### N 7.1 Với Dhanañjānī *Kinh Dhanañjānī*
+### SN 7.1 Với Dhanañjānī *Kinh Dhanañjānī*
 
 Như vầy tôi nghe. Một thời Thế Tôn trú gần thành Rājagaha (Vương Xá), tại Trúc Lâm, nơi nuôi dưỡng các con sóc.
 
@@ -42,7 +42,7 @@ Và người Bà-la-môn đã được xuất gia, được thọ giới trướ
 Ngài hiểu rõ: “Sanh đã tận, phạm hạnh đã thành, việc cần làm đã làm, không còn trở lui trạng thái này nữa.” Và Tôn giả Bhāradvāja đã trở thành một trong những bậc A-la-hán.
 
 <!--pg-->
-### N 7.2 Kẻ Lăng Mạ *Kinh Akkosaka*
+### SN 7.2 Kẻ Lăng Mạ *Kinh Akkosaka*
 
 Một thời Đức Phật trú gần thành Rājagaha, tại Trúc Lâm, nơi nuôi dưỡng các con sóc.
 
@@ -91,7 +91,7 @@ Và Bà-la-môn Bhāradvāja người Thô Lỗ đã được xuất gia, đư�
 Ngài hiểu rõ: “Sanh đã tận, phạm hạnh đã thành, việc cần làm đã làm, không còn trở lui trạng thái này nữa.” Và Tôn giả Bhāradvāja đã trở thành một trong những bậc A-la-hán.
 
 <!--pg-->
-### N 7.3 Với Bhāradvāja người Hung Dữ *Kinh Asurindaka*
+### SN 7.3 Với Bhāradvāja người Hung Dữ *Kinh Asurindaka*
 
 Một thời Đức Phật trú gần thành Rājagaha, tại Trúc Lâm, nơi nuôi dưỡng các con sóc. Bà-la-môn Bhāradvāja người Hung Dữ nghe tin đồn rằng một Bà-la-môn thuộc dòng họ Bhāradvāja đã từ bỏ đời sống gia đình để sống không nhà theo sa-môn Gotama. Tức giận và không hài lòng, ông ta đến gặp Đức Phật và mắng nhiếc, lăng mạ Ngài bằng những lời lẽ thô tục, cay nghiệt.
 
@@ -122,7 +122,7 @@ Bấy giờ, Bhāradvāja người Hung Dữ nói với Đức Phật: “Ông t
 Khi Ngài đã nói, Bhāradvāja người Hung Dữ thưa với Đức Phật: "Thật tuyệt vời, thưa Tôn giả Gotama! ..." ... Và Tôn giả Bhāradvāja đã trở thành một trong những bậc A-la-hán.
 
 <!--pg-->
-### N 7.4 Với Bhāradvāja người Cay Đắng *Kinh Bilaṅgika*
+### SN 7.4 Với Bhāradvāja người Cay Đắng *Kinh Bilaṅgika*
 
 Một thời Đức Phật trú gần thành Rājagaha, tại Trúc Lâm, nơi nuôi dưỡng các con sóc. Bà-la-môn Bhāradvāja người Cay Đắng nghe tin đồn rằng một Bà-la-môn thuộc dòng họ Bhāradvāja đã từ bỏ đời sống gia đình để sống không nhà theo sa-môn Gotama. Tức giận và không hài lòng, ông ta đến gặp Đức Phật và đứng im lặng một bên.
 
@@ -136,7 +136,7 @@ Bấy giờ, Đức Phật, biết được dòng suy nghĩ của Bhāradvāja n
 Khi Ngài nói vậy, Bà-la-môn Bhāradvāja người Cay Đắng thưa với Đức Phật: "Thật tuyệt vời, thưa Tôn giả Gotama! ..." ... Và Tôn giả Bhāradvāja đã trở thành một trong những bậc A-la-hán.
 
 <!--pg-->
-### N 7.5 Vô Hại *Kinh Ahiṁsaka*
+### SN 7.5 Vô Hại *Kinh Ahiṁsaka*
 
 Tại Sāvatthī (Xá-vệ).
 
@@ -154,7 +154,7 @@ Sau khi chào hỏi và trò chuyện thân mật, ông ta ngồi xuống một 
 Khi Ngài đã nói, Bà-la-môn Bhāradvāja người Vô Hại thưa với Đức Phật: "Thật tuyệt vời, thưa Tôn giả Gotama! ..." ... Và Tôn giả Bhāradvāja người Vô Hại đã trở thành một trong những bậc A-la-hán.
 
 <!--pg-->
-### N 7.6 Với Bhāradvāja người Búi Tóc *Kinh Jaṭā*
+### SN 7.6 Với Bhāradvāja người Búi Tóc *Kinh Jaṭā*
 
 Tại Sāvatthī.
 
@@ -185,7 +185,7 @@ Sau khi chào hỏi và trò chuyện thân mật, ông ta ngồi xuống một 
 Khi Ngài đã nói, Bhāradvāja người Búi Tóc thưa với Đức Phật: "Thật tuyệt vời, thưa Tôn giả Gotama! ..." ... Và Tôn giả Bhāradvāja đã trở thành một trong những bậc A-la-hán.
 
 <!--pg-->
-### N 7.7 Với Bhāradvāja người Thanh Tịnh *Kinh Suddhika*
+### SN 7.7 Với Bhāradvāja người Thanh Tịnh *Kinh Suddhika*
 
 Tại Sāvatthī.
 
@@ -214,7 +214,7 @@ Sau khi chào hỏi và trò chuyện thân mật, ông ta ngồi xuống một 
 Khi Ngài đã nói, Bà-la-môn Bhāradvāja người Thanh Tịnh thưa với Đức Phật: "Thật tuyệt vời, thưa Tôn giả Gotama ..." ... Và Tôn giả Bhāradvāja đã trở thành một trong những bậc A-la-hán.
 
 <!--pg-->
-### N 7.8 Với Bhāradvāja người Thờ Lửa *Kinh Aggika*
+### SN 7.8 Với Bhāradvāja người Thờ Lửa *Kinh Aggika*
 
 Một thời Đức Phật trú gần thành Rājagaha, tại Trúc Lâm, nơi nuôi dưỡng các con sóc.
 
@@ -260,7 +260,7 @@ Bhāradvāja người Thờ Lửa thấy Ngài đứng khất thực và nói v�
 Khi Ngài đã nói, Bà-la-môn Bhāradvāja người Thờ Lửa thưa với Đức Phật: "Thật tuyệt vời, thưa Tôn giả Gotama! ..." ... Và Tôn giả Bhāradvāja người Thờ Lửa đã trở thành một trong những bậc A-la-hán.
 
 <!--pg-->
-### N 7.9 Với Bhāradvāja ở Sundarikā *Kinh Sundarika*
+### SN 7.9 Với Bhāradvāja ở Sundarikā *Kinh Sundarika*
 
 Một thời Đức Phật trú tại xứ Kosala, bên bờ sông Sundarikā.
 
@@ -346,7 +346,7 @@ Bấy giờ, Bà-la-môn Bhāradvāja ở Sundarikā, kinh ngạc và kính sợ
 Khi Ngài đã nói, Bà-la-môn Bhāradvāja ở Sundarikā thưa với Đức Phật: "Thật tuyệt vời, thưa Tôn giả Gotama ..." ... Và Tôn giả Bhāradvāja đã trở thành một trong những bậc A-la-hán.
 
 <!--pg-->
-### N 7.10 Nhiều Con Gái *Kinh Bahudhītara*
+### SN 7.10 Nhiều Con Gái *Kinh Bahudhītara*
 
 Một thời Đức Phật trú tại xứ Kosala trong một khu rừng.
 
@@ -431,7 +431,7 @@ Ngài hiểu rõ: “Sanh đã tận, phạm hạnh đã thành, việc cần l�
 <!--pg-->
 ## Phẩm về Cư Sĩ
 
-### N 7.11 Với Bhāradvāja người Nông Dân *Kinh Kasibhāradvāja*
+### SN 7.11 Với Bhāradvāja người Nông Dân *Kinh Kasibhāradvāja*
 
 Như vầy tôi nghe. Một thời Đức Phật trú tại xứ Magadha, ở vùng Đồi Phía Nam gần làng Bà-la-môn Ekanāḷa.
 
@@ -495,7 +495,7 @@ Bấy giờ, Bhāradvāja người Nông Dân nói với Đức Phật bằng th
 Khi Ngài đã nói, Bà-la-môn Bhāradvāja người Nông Dân thưa với Đức Phật: "Thật tuyệt vời, thưa Tôn giả Gotama ... Kể từ hôm nay, xin Tôn giả Gotama ghi nhớ con là một cư sĩ đã quy y trọn đời."
 
 <!--pg-->
-### N 7.12 Với Udaya *Kinh Udaya*
+### SN 7.12 Với Udaya *Kinh Udaya*
 
 Tại Sāvatthī.
 
@@ -527,7 +527,7 @@ Nhưng khi đã đổ đầy bát của Đức Phật lần thứ ba, ông nói 
 Khi Ngài đã nói, Bà-la-môn Udaya thưa với Đức Phật: "Thật tuyệt vời, thưa Tôn giả Gotama ... Kể từ hôm nay, xin Tôn giả Gotama ghi nhớ con là một cư sĩ đã quy y trọn đời."
 
 <!--pg-->
-### N 7.13 Với Devahita *Kinh Devahita*
+### SN 7.13 Với Devahita *Kinh Devahita*
 
 Tại Sāvatthī.
 
@@ -578,7 +578,7 @@ Bấy giờ, Bà-la-môn Devahita đến gặp Đức Phật và chào hỏi Ng�
 Khi Ngài đã nói, Bà-la-môn Devahita thưa với Đức Phật: "Thật tuyệt vời, thưa Tôn giả Gotama ... Kể từ hôm nay, xin Tôn giả Gotama ghi nhớ con là một cư sĩ đã quy y trọn đời."
 
 <!--pg-->
-### N 7.14 Một Bà-la-môn giàu có *Kinh Mahāsāla*
+### SN 7.14 Một Bà-la-môn giàu có *Kinh Mahāsāla*
 
 Tại Sāvatthī.
 
@@ -622,7 +622,7 @@ Bấy giờ, các con trai của Bà-la-môn dẫn ông về nhà, tắm rửa c
 "Thưa Tôn giả Gotama, chúng tôi, những Bà-la-môn, thường tìm một khoản phí cho thầy dạy của mình. Xin Tôn giả Gotama hãy nhận lấy khoản phí thầy dạy của con!" Đức Phật đã nhận lấy vì lòng bi mẫn. Bấy giờ, người Bà-la-môn giàu có thưa với Đức Phật: "Thật tuyệt vời, thưa Tôn giả Gotama ... Kể từ hôm nay, xin Tôn giả Gotama ghi nhớ con là một cư sĩ đã quy y trọn đời."
 
 <!--pg-->
-### N 7.15 Kiêu Ngạo *Kinh Mānatthaddha*
+### SN 7.15 Kiêu Ngạo *Kinh Mānatthaddha*
 
 Tại Sāvatthī.
 
@@ -671,7 +671,7 @@ Bấy giờ, Kiêu Ngạo ngồi vào chỗ của mình và thưa với Đức P
 Khi Ngài đã nói, Bà-la-môn Kiêu Ngạo thưa với Đức Phật: "Thật tuyệt vời, thưa Tôn giả Gotama ... Kể từ hôm nay, xin Tôn giả Gotama ghi nhớ con là một cư sĩ đã quy y trọn đời."
 
 <!--pg-->
-### N 7.16 Người Thích Chống Đối *Kinh Paccanīka*
+### SN 7.16 Người Thích Chống Đối *Kinh Paccanīka*
 
 Tại Sāvatthī.
 
@@ -696,7 +696,7 @@ Bấy giờ, Bà-la-môn Chống Đối đến gặp Đức Phật và nói vớ
 Khi Ngài đã nói, Bà-la-môn Chống Đối thưa với Đức Phật: "Thật tuyệt vời, thưa Tôn giả Gotama! Tuyệt vời! ... Kể từ hôm nay, xin Tôn giả Gotama ghi nhớ con là một cư sĩ đã quy y trọn đời."
 
 <!--pg-->
-### N 7.17 Người Thợ Xây *Kinh Navakammika*
+### SN 7.17 Người Thợ Xây *Kinh Navakammika*
 
 Một thời Đức Phật trú tại xứ Kosala trong một khu rừng.
 
@@ -720,7 +720,7 @@ Bấy giờ, Bhāradvāja người Thợ Xây đến gặp Đức Phật và nó
 Khi Ngài đã nói, Bà-la-môn Bhāradvāja người Thợ Xây thưa với Đức Phật: "Thật tuyệt vời, thưa Tôn giả Gotama ... Kể từ hôm nay, xin Tôn giả Gotama ghi nhớ con là một cư sĩ đã quy y trọn đời."
 
 <!--pg-->
-### N 7.18 Kiếm Củi *Kinh Kaṭṭhahāra*
+### SN 7.18 Kiếm Củi *Kinh Kaṭṭhahāra*
 
 Một thời Đức Phật trú tại xứ Kosala trong một khu rừng.
 
@@ -760,7 +760,7 @@ Bấy giờ, Bhāradvāja cùng với những học trò trẻ đó đến khu r
 Khi Ngài đã nói, Bhāradvāja thưa với Đức Phật: "Thật tuyệt vời, thưa Tôn giả Gotama! Tuyệt vời! ... Kể từ hôm nay, xin Tôn giả Gotama ghi nhớ con là một cư sĩ đã quy y trọn đời."
 
 <!--pg-->
-### N 7.19 Bà-la-môn Nuôi Mẹ *Kinh Mātuposaka*
+### SN 7.19 Bà-la-môn Nuôi Mẹ *Kinh Mātuposaka*
 
 Tại Sāvatthī.
 
@@ -780,7 +780,7 @@ Sau khi chào hỏi và trò chuyện thân mật, ông ta ngồi xuống một 
 Khi Ngài nói vậy, người Bà-la-môn nuôi mẹ thưa với Đức Phật: "Thật tuyệt vời, thưa Tôn giả Gotama! Tuyệt vời! ... Kể từ hôm nay, xin Tôn giả Gotama ghi nhớ con là một cư sĩ đã quy y trọn đời."
 
 <!--pg-->
-### N 7.20 Người Ăn Xin *Kinh Bhikkhaka*
+### SN 7.20 Người Ăn Xin *Kinh Bhikkhaka*
 
 Tại Sāvatthī.
 
@@ -801,7 +801,7 @@ Sau khi chào hỏi và trò chuyện thân mật, ông ta ngồi xuống một 
 Khi Ngài đã nói, người Bà-la-môn ăn xin thưa với Đức Phật: "Thật tuyệt vời, thưa Tôn giả Gotama! Tuyệt vời! ... Kể từ hôm nay, xin Tôn giả Gotama ghi nhớ con là một cư sĩ đã quy y trọn đời."
 
 <!--pg-->
-### N 7.21 Với Saṅgārava *Kinh Saṅgārava*
+### SN 7.21 Với Saṅgārava *Kinh Saṅgārava*
 
 Tại Sāvatthī.
 
@@ -827,7 +827,7 @@ Sau khi chào hỏi và trò chuyện thân mật, ông ta ngồi xuống một 
 Khi Ngài đã nói, Saṅgārava thưa với Đức Phật: "Thật tuyệt vời, thưa Tôn giả Gotama! Tuyệt vời! ... Kể từ hôm nay, xin Tôn giả Gotama ghi nhớ con là một cư sĩ đã quy y trọn đời."
 
 <!--pg-->
-### N 7.22 Tại Khomadussa *Kinh Khomadussa*
+### SN 7.22 Tại Khomadussa *Kinh Khomadussa*
 
 Như vầy tôi nghe. Một thời Đức Phật trú tại xứ của dòng họ Sakya, nơi có một thị trấn tên là Khomadussa.
 

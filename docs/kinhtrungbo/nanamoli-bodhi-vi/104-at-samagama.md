@@ -1,4 +1,4 @@
-# 104. Tại Sāmagāma
+# MN 104. Tại Sāmagāma
 ***(Kinh Sāmagāma)***
 
 1\.  Tôi nghe như vầy. Một thời Đức Thế Tôn trú ở xứ Sakya, tại làng Sāmagāma.

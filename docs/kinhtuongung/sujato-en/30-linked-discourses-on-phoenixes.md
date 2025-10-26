@@ -3,7 +3,7 @@
 <!--pg-->
 ## The Chapter on Phoenixes
 
-### N 30.1 Plain Version *Suddhikasutta*
+### SN 30.1 Plain Version *Suddhikasutta*
 
 At Sāvatthī.
 
@@ -12,7 +12,7 @@ Phoenixes are born from eggs, from a womb, from moisture, or
 spontaneously. These are the four ways that phoenixes reproduce."
 
 <!--pg-->
-### N 30.2 They Carry Off *Harantisutta*
+### SN 30.2 They Carry Off *Harantisutta*
 
 At Sāvatthī.
 
@@ -30,7 +30,7 @@ from a womb, from moisture, or spontaneously. These are the four ways
 that phoenixes reproduce."
 
 <!--pg-->
-### N 30.3 Both Kinds of Deeds *Dvayakārīsutta*
+### SN 30.3 Both Kinds of Deeds *Dvayakārīsutta*
 
 At Sāvatthī.
 
@@ -51,7 +51,7 @@ reason why someone, when their body breaks up, after death, is reborn in
 the company of the egg-born phoenixes."
 
 <!--pg-->
-### N 30.4--6 Both Kinds of Deeds (2nd--4th) *Dutiyādidvayakārīsuttattika*
+### SN 30.4--6 Both Kinds of Deeds (2nd--4th) *Dutiyādidvayakārīsuttattika*
 
 At Sāvatthī.
 
@@ -73,7 +73,7 @@ after death, is reborn in the company of the spontaneously-born
 phoenixes."
 
 <!--pg-->
-### N 30.7--16 Ten Discourses On How Giving Helps to Become Egg-Born *Aṇḍajadānūpakārasuttadasaka*
+### SN 30.7--16 Ten Discourses On How Giving Helps to Become Egg-Born *Aṇḍajadānūpakārasuttadasaka*
 
 At Sāvatthī.
 
@@ -96,7 +96,7 @@ body breaks up, after death, is reborn in the company of the egg-born
 phoenixes."
 
 <!--pg-->
-### N 30.17--46 How Giving Helps to Become Womb-Born, Etc. *Jalābujadānūpakārasutta*
+### SN 30.17--46 How Giving Helps to Become Womb-Born, Etc. *Jalābujadānūpakārasutta*
 
 At Sāvatthī.
 

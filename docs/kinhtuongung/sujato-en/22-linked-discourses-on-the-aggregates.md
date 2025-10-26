@@ -5,7 +5,7 @@
 <!--pg-->
 ## The Chapter on Nakula's Father
 
-### N 22.1 Nakula's Father *Nakulapitusutta*
+### SN 22.1 Nakula's Father *Nakulapitusutta*
 
 So I have heard. At one time the Buddha was staying in the
 land of the Bhaggas at Crocodile Hill, in the deer park at
@@ -131,7 +131,7 @@ That's what Venerable Sāriputta said. Satisfied, Nakula's
 father approved what Sāriputta said.
 
 <!--pg-->
-### N 22.2 At Devadaha *Devadahasutta*
+### SN 22.2 At Devadaha *Devadahasutta*
 
 So I have heard. At one time the Buddha was staying in the
 land of the Sakyans, where they have a town named Devadaha.
@@ -243,7 +243,7 @@ This is what Venerable Sāriputta said. Satisfied, the
 mendicants approved what Sāriputta said.
 
 <!--pg-->
-### N 22.3 With Hāliddikāni *Hāliddikānisutta*
+### SN 22.3 With Hāliddikāni *Hāliddikānisutta*
 
 So I have heard. At one time Venerable
 Mahākaccāna was staying in the land of the Avantis near
@@ -357,7 +357,7 @@ of Māgandiya':
 > they wouldn't get in arguments with people.'"
 
 <!--pg-->
-### N 22.4 Hāliddikāni (2nd) *Dutiyahāliddikānisutta*
+### SN 22.4 Hāliddikāni (2nd) *Dutiyahāliddikānisutta*
 
 So I have heard. At one time Venerable
 Mahākaccāna was staying in the land of the Avantis near
@@ -391,7 +391,7 @@ ultimate goal, the ultimate sanctuary from the yoke, the ultimate
 spiritual life, the ultimate end, and are best among gods and humans.'"
 
 <!--pg-->
-### N 22.5 Development of Immersion *Samādhisutta*
+### SN 22.5 Development of Immersion *Samādhisutta*
 
 So I have heard. At Sāvatthī.
 
@@ -442,7 +442,7 @@ This is the ending of form, feeling, perception, choices, and
 consciousness."
 
 <!--pg-->
-### N 22.6 Retreat *Paṭisallāṇasutta*
+### SN 22.6 Retreat *Paṭisallāṇasutta*
 
 At Sāvatthī.
 
@@ -453,7 +453,7 @@ form, feeling, perception, choices, and consciousness. ..."
 **(Tell in full as in the previous discourse.)**
 
 <!--pg-->
-### N 22.7 Anxiety Because of Grasping *Upādāparitassanāsutta*
+### SN 22.7 Anxiety Because of Grasping *Upādāparitassanāsutta*
 
 At Sāvatthī.
 
@@ -515,7 +515,7 @@ worried, concerned, or anxious because of grasping. That's how not
 grasping leads to freedom from anxiety."
 
 <!--pg-->
-### N 22.8 Anxiety Because of Grasping (2nd) *Dutiyaupādāparitassanāsutta*
+### SN 22.8 Anxiety Because of Grasping (2nd) *Dutiyaupādāparitassanāsutta*
 
 At Sāvatthī.
 
@@ -541,7 +541,7 @@ doesn't give rise to sorrow, lamentation, pain, sadness, and distress.
 That's how not grasping leads to freedom from anxiety."
 
 <!--pg-->
-### N 22.9 Impermanence in the Three Times *Kālattayaaniccasutta*
+### SN 22.9 Impermanence in the Three Times *Kālattayaaniccasutta*
 
 At Sāvatthī.
 
@@ -567,7 +567,7 @@ and they practice for disillusionment, dispassion, and cessation
 regarding present consciousness."
 
 <!--pg-->
-### N 22.10 Suffering in the Three Times *Kālattayadukkhasutta*
+### SN 22.10 Suffering in the Three Times *Kālattayadukkhasutta*
 
 At Sāvatthī.
 
@@ -593,7 +593,7 @@ and they practice for disillusionment, dispassion, and cessation
 regarding present consciousness."
 
 <!--pg-->
-### N 22.11 Not-Self in the Three Times *Kālattayaanattasutta*
+### SN 22.11 Not-Self in the Three Times *Kālattayaanattasutta*
 
 At Sāvatthī.
 
@@ -620,7 +620,7 @@ regarding present consciousness."
 <!--pg-->
 ## The Chapter on Impermanence
 
-### N 22.12 Impermanence *Aniccasutta*
+### SN 22.12 Impermanence *Aniccasutta*
 
 So I have heard. At Sāvatthī.
 
@@ -637,7 +637,7 @@ completed, what had to be done has been done, there is nothing further
 for this place.'"
 
 <!--pg-->
-### N 22.13 Suffering *Dukkhasutta*
+### SN 22.13 Suffering *Dukkhasutta*
 
 At Sāvatthī.
 
@@ -648,7 +648,7 @@ Seeing this ... They understand: '... there is nothing further for this
 place.'"
 
 <!--pg-->
-### N 22.14 Not-Self *Anattasutta*
+### SN 22.14 Not-Self *Anattasutta*
 
 At Sāvatthī.
 
@@ -665,7 +665,7 @@ completed, what had to be done has been done, there is nothing further
 for this place.'"
 
 <!--pg-->
-### N 22.15 That Which is Impermanent *Yadaniccasutta*
+### SN 22.15 That Which is Impermanent *Yadaniccasutta*
 
 At Sāvatthī.
 
@@ -689,7 +689,7 @@ Seeing this ... They understand: '... there is nothing further for this
 place.'"
 
 <!--pg-->
-### N 22.16 That Which is Suffering *Yaṁdukkhasutta*
+### SN 22.16 That Which is Suffering *Yaṁdukkhasutta*
 
 At Sāvatthī.
 
@@ -711,7 +711,7 @@ Seeing this ... They understand: '... there is nothing further for this
 place.'"
 
 <!--pg-->
-### N 22.17 That Which is Not-Self *Yadanattāsutta*
+### SN 22.17 That Which is Not-Self *Yadanattāsutta*
 
 At Sāvatthī.
 
@@ -733,7 +733,7 @@ Seeing this ... They understand: '... there is nothing further for this
 place.'"
 
 <!--pg-->
-### N 22.18 Impermanence With Its Cause *Sahetuaniccasutta*
+### SN 22.18 Impermanence With Its Cause *Sahetuaniccasutta*
 
 At Sāvatthī.
 
@@ -755,7 +755,7 @@ Seeing this ... They understand: '... there is nothing further for this
 place.'"
 
 <!--pg-->
-### N 22.19 Suffering With Its Cause *Sahetudukkhasutta*
+### SN 22.19 Suffering With Its Cause *Sahetudukkhasutta*
 
 At Sāvatthī.
 
@@ -777,7 +777,7 @@ Seeing this ... They understand: '... there is nothing further for this
 place.'"
 
 <!--pg-->
-### N 22.20 Not-Self With Its Cause *Sahetuanattasutta*
+### SN 22.20 Not-Self With Its Cause *Sahetuanattasutta*
 
 At Sāvatthī.
 
@@ -799,7 +799,7 @@ Seeing this ... They understand: '... there is nothing further for this
 place.'"
 
 <!--pg-->
-### N 22.21 With Ānanda *Ānandasutta*
+### SN 22.21 With Ānanda *Ānandasutta*
 
 At Sāvatthī.
 
@@ -829,7 +829,7 @@ this refers to."
 <!--pg-->
 ## The Chapter on the Burden
 
-### N 22.22 The Burden *Bhārasutta*
+### SN 22.22 The Burden *Bhārasutta*
 
 At Sāvatthī.
 
@@ -869,7 +869,7 @@ say:
 > you're hungerless, quenched."
 
 <!--pg-->
-### N 22.23 Complete Understanding *Pariññasutta*
+### SN 22.23 Complete Understanding *Pariññasutta*
 
 At Sāvatthī.
 
@@ -884,7 +884,7 @@ And what is complete understanding? The ending of greed, hate, and
 delusion. This is called complete understanding."
 
 <!--pg-->
-### N 22.24 Directly Knowing *Abhijānasutta*
+### SN 22.24 Directly Knowing *Abhijānasutta*
 
 At Sāvatthī.
 
@@ -903,7 +903,7 @@ By directly knowing and completely understanding feeling ... perception
 up, you can end suffering."
 
 <!--pg-->
-### N 22.25 Desire and Greed *Chandarāgasutta*
+### SN 22.25 Desire and Greed *Chandarāgasutta*
 
 At Sāvatthī.
 
@@ -917,7 +917,7 @@ root, made like a palm stump, obliterated, and unable to arise in the
 future."
 
 <!--pg-->
-### N 22.26 Gratification *Assādasutta*
+### SN 22.26 Gratification *Assādasutta*
 
 At Sāvatthī.
 
@@ -951,7 +951,7 @@ Knowledge and vision arose in me: 'My freedom is unshakable; this is my
 last rebirth; now there'll be no more future lives.'"
 
 <!--pg-->
-### N 22.27 Gratification (2nd) *Dutiyaassādasutta*
+### SN 22.27 Gratification (2nd) *Dutiyaassādasutta*
 
 At Sāvatthī.
 
@@ -980,7 +980,7 @@ Knowledge and vision arose in me: 'My freedom is unshakable; this is my
 last rebirth; now there'll be no more future lives.'"
 
 <!--pg-->
-### N 22.28 Gratification (3rd) *Tatiyaassādasutta*
+### SN 22.28 Gratification (3rd) *Tatiyaassādasutta*
 
 At Sāvatthī.
 
@@ -1015,7 +1015,7 @@ Divinities, this population with its ascetics and brahmins, its gods and
 humans---and they live detached, liberated, with a mind free of limits."
 
 <!--pg-->
-### N 22.29 Taking Pleasure *Abhinandanasutta*
+### SN 22.29 Taking Pleasure *Abhinandanasutta*
 
 At Sāvatthī.
 
@@ -1036,7 +1036,7 @@ consciousness, you don't take pleasure in suffering. If you don't take
 pleasure in suffering, I say you're exempt from suffering."
 
 <!--pg-->
-### N 22.30 Arising *Uppādasutta*
+### SN 22.30 Arising *Uppādasutta*
 
 At Sāvatthī.
 
@@ -1058,7 +1058,7 @@ choices ... consciousness is the cessation of suffering, the settling of
 diseases, and the ending of old age and death."
 
 <!--pg-->
-### N 22.31 The Root of Misery *Aghamūlasutta*
+### SN 22.31 The Root of Misery *Aghamūlasutta*
 
 At Sāvatthī.
 
@@ -1074,7 +1074,7 @@ existence, and craving to end existence. This is called the root of
 misery."
 
 <!--pg-->
-### N 22.32 The Breakable *Pabhaṅgusutta*
+### SN 22.32 The Breakable *Pabhaṅgusutta*
 
 At Sāvatthī.
 
@@ -1090,7 +1090,7 @@ its cessation, settling, and ending is unbreakable."
 <!--pg-->
 ## The Chapter on Not Yours
 
-### N 22.33 It's Not Yours *Natumhākasutta*
+### SN 22.33 It's Not Yours *Natumhākasutta*
 
 At Sāvatthī.
 
@@ -1128,7 +1128,7 @@ Consciousness isn't yours: give it up. Giving it up will be for your
 welfare and happiness."
 
 <!--pg-->
-### N 22.34 It's Not Yours (2nd) *Dutiyanatumhākasutta*
+### SN 22.34 It's Not Yours (2nd) *Dutiyanatumhākasutta*
 
 At Sāvatthī.
 
@@ -1151,7 +1151,7 @@ Give up what's not yours. Giving it up will be for your welfare and
 happiness."
 
 <!--pg-->
-### N 22.35 A Mendicant *Aññatarabhikkhusutta*
+### SN 22.35 A Mendicant *Aññatarabhikkhusutta*
 
 At Sāvatthī.
 
@@ -1205,7 +1205,7 @@ completed; what had to be done has been done; there is nothing further
 for this place." And that mendicant became one of the perfected.
 
 <!--pg-->
-### N 22.36 A Mendicant (2nd) *Dutiyaaññatarabhikkhusutta*
+### SN 22.36 A Mendicant (2nd) *Dutiyaaññatarabhikkhusutta*
 
 At Sāvatthī.
 
@@ -1258,7 +1258,7 @@ This is how to understand the detailed meaning of what I said in brief."
 And that mendicant became one of the perfected.
 
 <!--pg-->
-### N 22.37 With Ānanda *Ānandasutta*
+### SN 22.37 With Ānanda *Ānandasutta*
 
 At Sāvatthī.
 
@@ -1292,7 +1292,7 @@ persisting is evident.
 That's how you should answer such a question."
 
 <!--pg-->
-### N 22.38 With Ānanda (2nd) *Dutiyaānandasutta*
+### SN 22.38 With Ānanda (2nd) *Dutiyaānandasutta*
 
 At Sāvatthī.
 
@@ -1358,7 +1358,7 @@ change while persisting is evident.
 That's how you should answer such a question."
 
 <!--pg-->
-### N 22.39 In Line With the Teachings *Anudhammasutta*
+### SN 22.39 In Line With the Teachings *Anudhammasutta*
 
 At Sāvatthī.
 
@@ -1374,7 +1374,7 @@ rebirth, old age, and death, from sorrow, lamentation, pain, sadness,
 and distress. They're freed from suffering, I say."
 
 <!--pg-->
-### N 22.40 In Line with the Teachings (2nd) *Dutiyaanudhammasutta*
+### SN 22.40 In Line with the Teachings (2nd) *Dutiyaanudhammasutta*
 
 At Sāvatthī.
 
@@ -1384,7 +1384,7 @@ impermanence in form, feeling, perception, choices, and consciousness.
 ... They're freed from suffering, I say."
 
 <!--pg-->
-### N 22.41 In Line with the Teachings (3rd) *Tatiyaanudhammasutta*
+### SN 22.41 In Line with the Teachings (3rd) *Tatiyaanudhammasutta*
 
 At Sāvatthī.
 
@@ -1394,7 +1394,7 @@ suffering in form, feeling, perception, choices, and consciousness. ...
 They're freed from suffering, I say."
 
 <!--pg-->
-### N 22.42 In Line with the Teachings (4th) *Catutthaanudhammasutta*
+### SN 22.42 In Line with the Teachings (4th) *Catutthaanudhammasutta*
 
 At Sāvatthī.
 
@@ -1407,7 +1407,7 @@ They're freed from suffering, I say."
 <!--pg-->
 ## The Chapter on Be Your Own Island
 
-### N 22.43 Be Your Own Island *Attadīpasutta*
+### SN 22.43 Be Your Own Island *Attadīpasutta*
 
 At Sāvatthī.
 
@@ -1459,7 +1459,7 @@ are given up there's no anxiety. Without anxiety you live happily. A
 mendicant who lives happily is said to be quenched in that respect."
 
 <!--pg-->
-### N 22.44 Practice *Paṭipadāsutta*
+### SN 22.44 Practice *Paṭipadāsutta*
 
 At Sāvatthī.
 
@@ -1512,7 +1512,7 @@ reality. And that's why it's called a way of regarding things that leads
 to the cessation of suffering."
 
 <!--pg-->
-### N 22.45 Impermanence *Aniccasutta*
+### SN 22.45 Impermanence *Aniccasutta*
 
 At Sāvatthī.
 
@@ -1548,7 +1548,7 @@ completed, what had to be done has been done, there is nothing further
 for this place.'"
 
 <!--pg-->
-### N 22.46 Impermanence (2nd) *Dutiyaaniccasutta*
+### SN 22.46 Impermanence (2nd) *Dutiyaaniccasutta*
 
 At Sāvatthī.
 
@@ -1584,7 +1584,7 @@ completed, what had to be done has been done, there is nothing further
 for this place.'"
 
 <!--pg-->
-### N 22.47 Ways of Regarding *Samanupassanāsutta*
+### SN 22.47 Ways of Regarding *Samanupassanāsutta*
 
 At Sāvatthī.
 
@@ -1618,7 +1618,7 @@ form', 'I will be formless', 'I will be percipient', 'I will be
 non-percipient', 'I will be neither percipient nor non-percipient'."
 
 <!--pg-->
-### N 22.48 Aggregates *Khandhasutta*
+### SN 22.48 Aggregates *Khandhasutta*
 
 At Sāvatthī.
 
@@ -1664,7 +1664,7 @@ the aggregate of consciousness connected with grasping.
 These are called the five grasping aggregates."
 
 <!--pg-->
-### N 22.49 With Soṇa *Soṇasutta*
+### SN 22.49 With Soṇa *Soṇasutta*
 
 So I have heard. At one time the Buddha was staying near
 Rājagaha, in the Bamboo Grove, the squirrels' feeding
@@ -1737,7 +1737,7 @@ completed, what had to be done has been done, there is nothing further
 for this place.'"
 
 <!--pg-->
-### N 22.50 With Soṇa (2nd) *Dutiyasoṇasutta*
+### SN 22.50 With Soṇa (2nd) *Dutiyasoṇasutta*
 
 So I have heard. At one time the Buddha was staying near
 Rājagaha, in the Bamboo Grove, the squirrels' feeding
@@ -1763,7 +1763,7 @@ goal of life as an ascetic or brahmin, and live having realized it with
 their own insight."
 
 <!--pg-->
-### N 22.51 The End of Relishing *Nandikkhayasutta*
+### SN 22.51 The End of Relishing *Nandikkhayasutta*
 
 At Sāvatthī.
 
@@ -1786,7 +1786,7 @@ relishing ends. When relishing and greed end, the mind is freed, and is
 said to be well freed."
 
 <!--pg-->
-### N 22.52 The End of Relishing (2nd) *Dutiyanandikkhayasutta*
+### SN 22.52 The End of Relishing (2nd) *Dutiyanandikkhayasutta*
 
 At Sāvatthī.
 
@@ -1813,7 +1813,7 @@ freed."
 <!--pg-->
 ## The Chapter on Involvement
 
-### N 22.53 Involvement *Upayasutta*
+### SN 22.53 Involvement *Upayasutta*
 
 At Sāvatthī.
 
@@ -1859,7 +1859,7 @@ completed, what had to be done has been done, there is nothing further
 for this place.'"
 
 <!--pg-->
-### N 22.54 Seeds *Bījasutta*
+### SN 22.54 Seeds *Bījasutta*
 
 At Sāvatthī.
 
@@ -1924,7 +1924,7 @@ They understand: 'Rebirth is ended ... there is nothing further for this
 place.'"
 
 <!--pg-->
-### N 22.55 An Inspired Saying *Udānasutta*
+### SN 22.55 An Inspired Saying *Udānasutta*
 
 At Sāvatthī.
 
@@ -2047,7 +2047,7 @@ place.'
 The ending of the defilements is for one who knows and sees this."
 
 <!--pg-->
-### N 22.56 Rounds of the Grasping Aggregates *Upādānaparipavattasutta*
+### SN 22.56 Rounds of the Grasping Aggregates *Upādānaparipavattasutta*
 
 At Sāvatthī.
 
@@ -2130,7 +2130,7 @@ Those who are well freed are consummate ones. For consummate ones, there
 is no cycle of rebirths to be found."
 
 <!--pg-->
-### N 22.57 Seven Cases *Sattaṭṭhānasutta*
+### SN 22.57 Seven Cases *Sattaṭṭhānasutta*
 
 At Sāvatthī.
 
@@ -2235,7 +2235,7 @@ and who examines in three ways is called consummate, accomplished, a
 supreme person."
 
 <!--pg-->
-### N 22.58 The Fully Awakened Buddha *Sammāsambuddhasutta*
+### SN 22.58 The Fully Awakened Buddha *Sammāsambuddhasutta*
 
 At Sāvatthī.
 
@@ -2280,7 +2280,7 @@ This is the difference between a Realized One, a perfected one, a fully
 awakened Buddha, and a mendicant freed by wisdom."
 
 <!--pg-->
-### N 22.59 The Characteristic of Not-Self *Anattalakkhaṇasutta*
+### SN 22.59 The Characteristic of Not-Self *Anattalakkhaṇasutta*
 
 At one time the Buddha was staying near Varanasi, in the deer park at
 Isipatana. There the Buddha addressed the group of five mendicants:
@@ -2371,7 +2371,7 @@ spoken, the minds of the group of five mendicants were freed from
 defilements by not grasping.
 
 <!--pg-->
-### N 22.60 With Mahāli *Mahālisutta*
+### SN 22.60 With Mahāli *Mahālisutta*
 
 So I have heard. At one time the Buddha was staying near
 Vesālī, at the Great Wood, in the hall with the peaked
@@ -2446,7 +2446,7 @@ sentient beings. This is how sentient beings are purified with cause and
 reason."
 
 <!--pg-->
-### N 22.61 Burning *Ādittasutta*
+### SN 22.61 Burning *Ādittasutta*
 
 At Sāvatthī.
 
@@ -2463,7 +2463,7 @@ completed, what had to be done has been done, there is nothing further
 for this place.'"
 
 <!--pg-->
-### N 22.62 The Scope of Language *Niruttipathasutta*
+### SN 22.62 The Scope of Language *Niruttipathasutta*
 
 At Sāvatthī.
 
@@ -2522,7 +2522,7 @@ condemnation."
 <!--pg-->
 ## The Chapter on the Perfected Ones
 
-### N 22.63 When You Grasp *Upādiyamānasutta*
+### SN 22.63 When You Grasp *Upādiyamānasutta*
 
 So I have heard. At one time the Buddha was staying near
 Sāvatthī in Jeta's Grove, Anāthapiṇḍika's
@@ -2572,7 +2572,7 @@ completed; what had to be done has been done; there is nothing further
 for this place." And that mendicant became one of the perfected.
 
 <!--pg-->
-### N 22.64 Conceiving *Maññamānasutta*
+### SN 22.64 Conceiving *Maññamānasutta*
 
 At Sāvatthī.
 
@@ -2609,7 +2609,7 @@ This is how to understand the detailed meaning of what I said in brief."
 And that mendicant became one of the perfected.
 
 <!--pg-->
-### N 22.65 When You Take Pleasure *Abhinandamānasutta*
+### SN 22.65 When You Take Pleasure *Abhinandamānasutta*
 
 At Sāvatthī.
 
@@ -2647,7 +2647,7 @@ This is how to understand the detailed meaning of what I said in brief."
 And that mendicant became one of the perfected.
 
 <!--pg-->
-### N 22.66 Impermanence *Aniccasutta*
+### SN 22.66 Impermanence *Aniccasutta*
 
 At Sāvatthī.
 
@@ -2693,7 +2693,7 @@ This is how to understand the detailed meaning of what I said in brief."
 And that mendicant became one of the perfected.
 
 <!--pg-->
-### N 22.67 Suffering *Dukkhasutta*
+### SN 22.67 Suffering *Dukkhasutta*
 
 At Sāvatthī.
 
@@ -2739,7 +2739,7 @@ This is how to understand the detailed meaning of what I said in brief."
 And that mendicant became one of the perfected.
 
 <!--pg-->
-### N 22.68 Not-Self *Anattasutta*
+### SN 22.68 Not-Self *Anattasutta*
 
 At Sāvatthī.
 
@@ -2785,7 +2785,7 @@ This is how to understand the detailed meaning of what I said in brief."
 And that mendicant became one of the perfected.
 
 <!--pg-->
-### N 22.69 Not Belonging to Self *Anattaniyasutta*
+### SN 22.69 Not Belonging to Self *Anattaniyasutta*
 
 At Sāvatthī.
 
@@ -2831,7 +2831,7 @@ This is how to understand the detailed meaning of what I said in brief."
 And that mendicant became one of the perfected.
 
 <!--pg-->
-### N 22.70 Definitely Arousing *Rajanīyasaṇṭhitasutta*
+### SN 22.70 Definitely Arousing *Rajanīyasaṇṭhitasutta*
 
 At Sāvatthī.
 
@@ -2880,7 +2880,7 @@ This is how to understand the detailed meaning of what I said in brief."
 And that mendicant became one of the perfected.
 
 <!--pg-->
-### N 22.71 With Rādha *Rādhasutta*
+### SN 22.71 With Rādha *Rādhasutta*
 
 At Sāvatthī.
 
@@ -2907,7 +2907,7 @@ stimuli." ...
 And Venerable Rādha became one of the perfected.
 
 <!--pg-->
-### N 22.72 With Surādha *Surādhasutta*
+### SN 22.72 With Surādha *Surādhasutta*
 
 At Sāvatthī.
 
@@ -2939,7 +2939,7 @@ And Venerable Surādha became one of the perfected.
 <!--pg-->
 ## The Chapter on Itchy
 
-### N 22.73 Gratification *Assādasutta*
+### SN 22.73 Gratification *Assādasutta*
 
 At Sāvatthī.
 
@@ -2951,7 +2951,7 @@ escape when it comes to form, feeling, perception, choices, and
 consciousness."
 
 <!--pg-->
-### N 22.74 Origin *Samudayasutta*
+### SN 22.74 Origin *Samudayasutta*
 
 At Sāvatthī.
 
@@ -2963,7 +2963,7 @@ gratification, the drawback, and the escape when it comes to form,
 feeling, perception, choices, and consciousness."
 
 <!--pg-->
-### N 22.75 Origin (2nd) *Dutiyasamudayasutta*
+### SN 22.75 Origin (2nd) *Dutiyasamudayasutta*
 
 At Sāvatthī.
 
@@ -2972,7 +2972,7 @@ ending, the gratification, the drawback, and the escape when it comes to
 form, feeling, perception, choices, and consciousness."
 
 <!--pg-->
-### N 22.76 The Perfected Ones *Arahantasutta*
+### SN 22.76 The Perfected Ones *Arahantasutta*
 
 At Sāvatthī.
 
@@ -3047,7 +3047,7 @@ say:
 > 'The awakened are supreme in the world!'"
 
 <!--pg-->
-### N 22.77 The Perfected Ones (2nd) *Dutiyaarahantasutta*
+### SN 22.77 The Perfected Ones (2nd) *Dutiyaarahantasutta*
 
 At Sāvatthī.
 
@@ -3070,7 +3070,7 @@ pinnacle of existence, the perfected ones are the foremost and the
 best."
 
 <!--pg-->
-### N 22.78 The Lion *Sīhasutta*
+### SN 22.78 The Lion *Sīhasutta*
 
 At Sāvatthī.
 
@@ -3128,7 +3128,7 @@ say:
 > of the perfected one, free and unaffected."
 
 <!--pg-->
-### N 22.79 Itchy *Khajjanīyasutta*
+### SN 22.79 Itchy *Khajjanīyasutta*
 
 At Sāvatthī.
 
@@ -3294,7 +3294,7 @@ Indra, the Divinity, and the Progenitor worship them from afar:
 > the basis of your absorption.'"
 
 <!--pg-->
-### N 22.80 Beggars *Piṇḍolyasutta*
+### SN 22.80 Beggars *Piṇḍolyasutta*
 
 At one time the Buddha was staying in the land of the Sakyans, near
 Kapilavatthu in the Banyan Tree Monastery.
@@ -3399,7 +3399,7 @@ Seeing this ... They understand: '... there is nothing further for this
 place.'"
 
 <!--pg-->
-### N 22.81 At Pārileyya *Pālileyyasutta*
+### SN 22.81 At Pārileyya *Pālileyyasutta*
 
 At one time the Buddha was staying near Kosambī, in
 Ghosita's Monastery.
@@ -3522,7 +3522,7 @@ That's how you should know and see in order to end the defilements in
 the present life."
 
 <!--pg-->
-### N 22.82 A Full Moon Night *Puṇṇamasutta*
+### SN 22.82 A Full Moon Night *Puṇṇamasutta*
 
 At one time the Buddha was staying near Sāvatthī in the
 stilt longhouse of Migāra's mother in the Eastern
@@ -3703,7 +3703,7 @@ is nothing further for this place.'"
 <!--pg-->
 ## The Chapter on Senior Mendicants
 
-### N 22.83 With Ānanda *Ānandasutta*
+### SN 22.83 With Ānanda *Ānandasutta*
 
 At Sāvatthī.
 
@@ -3744,7 +3744,7 @@ Venerable Puṇṇa son of Mantāṇī, I've
 comprehended the teaching."
 
 <!--pg-->
-### N 22.84 With Tissa *Tissasutta*
+### SN 22.84 With Tissa *Tissasutta*
 
 At Sāvatthī.
 
@@ -3855,7 +3855,7 @@ That is what the Buddha said. Satisfied, Venerable Tissa approved what
 the Buddha said.
 
 <!--pg-->
-### N 22.85 With Yamaka *Yamakasutta*
+### SN 22.85 With Yamaka *Yamakasutta*
 
 At one time Venerable Sāriputta was staying near
 Sāvatthī in Jeta's Grove, Anāthapiṇḍika's
@@ -4077,7 +4077,7 @@ Sāriputta, my mind is freed from the defilements by not
 grasping."
 
 <!--pg-->
-### N 22.86 With Anurādha *Anurādhasutta*
+### SN 22.86 With Anurādha *Anurādhasutta*
 
 At one time the Buddha was staying near Vesālī, at the
 Great Wood, in the hall with the peaked roof. Now at that time Venerable
@@ -4189,7 +4189,7 @@ exists, or neither still exists nor no longer exists'?"
 describe is suffering and the cessation of suffering."
 
 <!--pg-->
-### N 22.87 With Vakkali *Vakkalisutta*
+### SN 22.87 With Vakkali *Vakkalisutta*
 
 At one time the Buddha was staying near Rājagaha, in the
 Bamboo Grove, the squirrels' feeding ground.
@@ -4360,7 +4360,7 @@ established?' But since his consciousness is not established, Vakkali is
 quenched."
 
 <!--pg-->
-### N 22.88 With Assaji *Assajisutta*
+### SN 22.88 With Assaji *Assajisutta*
 
 At one time the Buddha was staying near Rājagaha, in the
 Bamboo Grove, the squirrels' feeding ground. Now at that time Venerable
@@ -4442,7 +4442,7 @@ They understand: 'When my body breaks up and my life is over, everything
 that's felt, being no longer relished, will become cool right here.'"
 
 <!--pg-->
-### N 22.89 With Khemaka *Khemakasutta*
+### SN 22.89 With Khemaka *Khemakasutta*
 
 At one time several senior mendicants were staying near
 Kosambī, in Ghosita's Monastery. Now at that time Venerable
@@ -4594,7 +4594,7 @@ spoken, the minds of sixty senior mendicants and of Venerable Khemaka
 were freed from defilements by not grasping.
 
 <!--pg-->
-### N 22.90 With Channa *Channasutta*
+### SN 22.90 With Channa *Channasutta*
 
 At one time several senior mendicants were staying near Varanasi, in the
 deer park at Isipatana.
@@ -4682,7 +4682,7 @@ sympathy. And now that I've heard this teaching from Venerable Ānanda,
 I've comprehended the teaching."
 
 <!--pg-->
-### N 22.91 Rāhula *Rāhulasutta*
+### SN 22.91 Rāhula *Rāhulasutta*
 
 At Sāvatthī.
 
@@ -4709,7 +4709,7 @@ underlying tendency to conceit for this conscious body and all external
 stimuli."
 
 <!--pg-->
-### N 22.92 Rāhula (2nd) *Dutiyarāhulasutta*
+### SN 22.92 Rāhula (2nd) *Dutiyarāhulasutta*
 
 At Sāvatthī.
 
@@ -4739,7 +4739,7 @@ stimuli; and going beyond discrimination, it's peaceful and well freed."
 <!--pg-->
 ## The Chapter on Flowers
 
-### N 22.93 A River *Nadīsutta*
+### SN 22.93 A River *Nadīsutta*
 
 At Sāvatthī.
 
@@ -4775,7 +4775,7 @@ impermanent?"
 is nothing further for this place.'"
 
 <!--pg-->
-### N 22.94 Flowers *Pupphasutta*
+### SN 22.94 Flowers *Pupphasutta*
 
 At Sāvatthī.
 
@@ -4837,7 +4837,7 @@ and grew up in the world, I live having mastered the world, unsullied by
 the world."
 
 <!--pg-->
-### N 22.95 A Lump of Foam *Pheṇapiṇḍūpamasutta*
+### SN 22.95 A Lump of Foam *Pheṇapiṇḍūpamasutta*
 
 At one time the Buddha was staying near Ayojjhā on the bank
 of the Ganges river. There the Buddha addressed the mendicants:
@@ -4949,7 +4949,7 @@ say:
 > aspiring to the state that does not pass."
 
 <!--pg-->
-### N 22.96 A Lump of Cow Dung *Gomayapiṇḍasutta*
+### SN 22.96 A Lump of Cow Dung *Gomayapiṇḍasutta*
 
 At Sāvatthī.
 
@@ -5014,7 +5014,7 @@ unreliable are conditions. This is quite enough for you to become
 disillusioned, dispassionate, and freed regarding all conditions."
 
 <!--pg-->
-### N 22.97 A Fingernail *Nakhasikhāsutta*
+### SN 22.97 A Fingernail *Nakhasikhāsutta*
 
 At Sāvatthī.
 
@@ -5065,7 +5065,7 @@ impermanent?"
 is nothing further for this place.'"
 
 <!--pg-->
-### N 22.98 Plain Version *Suddhikasutta*
+### SN 22.98 Plain Version *Suddhikasutta*
 
 At Sāvatthī.
 
@@ -5083,7 +5083,7 @@ permanent, everlasting, eternal, imperishable, and will last forever and
 ever."
 
 <!--pg-->
-### N 22.99 A Leash *Gaddulabaddhasutta*
+### SN 22.99 A Leash *Gaddulabaddhasutta*
 
 At Sāvatthī.
 
@@ -5134,7 +5134,7 @@ sorrow, lamentation, pain, sadness, and distress. They're freed from
 suffering, I say."
 
 <!--pg-->
-### N 22.100 A Leash (2nd) *Dutiyagaddulabaddhasutta*
+### SN 22.100 A Leash (2nd) *Dutiyagaddulabaddhasutta*
 
 At Sāvatthī.
 
@@ -5196,7 +5196,7 @@ impermanent?" ...
 is nothing further for this place.'"
 
 <!--pg-->
-### N 22.101 The Adze *Vāsijaṭasutta*
+### SN 22.101 The Adze *Vāsijaṭasutta*
 
 At Sāvatthī.
 
@@ -5273,7 +5273,7 @@ readily collapse and rot away. In the same way, when a mendicant is
 committed to development their fetters readily collapse and rot away."
 
 <!--pg-->
-### N 22.102 The Perception of Impermanence *Aniccasaññāsutta*
+### SN 22.102 The Perception of Impermanence *Aniccasaññāsutta*
 
 At Sāvatthī.
 
@@ -5346,7 +5346,7 @@ eliminates all ignorance and eradicates all conceit 'I am'."
 <!--pg-->
 ## The Chapter on Sides
 
-### N 22.103 Sides *Antasutta*
+### SN 22.103 Sides *Antasutta*
 
 At Sāvatthī.
 
@@ -5378,7 +5378,7 @@ side of the practice that leads to the cessation of substantial reality.
 These are the four sides."
 
 <!--pg-->
-### N 22.104 Suffering *Dukkhasutta*
+### SN 22.104 Suffering *Dukkhasutta*
 
 At Sāvatthī.
 
@@ -5408,7 +5408,7 @@ mindfulness, and right immersion. This is called the practice that leads
 to the cessation of suffering."
 
 <!--pg-->
-### N 22.105 Substantial Reality *Sakkāyasutta*
+### SN 22.105 Substantial Reality *Sakkāyasutta*
 
 At Sāvatthī.
 
@@ -5439,7 +5439,7 @@ effort, right mindfulness, and right immersion. This is called the
 practice that leads to the cessation of substantial reality."
 
 <!--pg-->
-### N 22.106 Should Be Completely Understood *Pariññeyyasutta*
+### SN 22.106 Should Be Completely Understood *Pariññeyyasutta*
 
 At Sāvatthī.
 
@@ -5459,7 +5459,7 @@ a perfected one, the venerable of such and such name and clan. This is
 called the person who has completely understood."
 
 <!--pg-->
-### N 22.107 Ascetics (1st) *Samaṇasutta*
+### SN 22.107 Ascetics (1st) *Samaṇasutta*
 
 At Sāvatthī.
 
@@ -5473,7 +5473,7 @@ grasping aggregates' gratification, drawback, and escape ...
 There are ascetics and brahmins who do truly understand ..."
 
 <!--pg-->
-### N 22.108 Ascetics (2nd) *Dutiyasamaṇasutta*
+### SN 22.108 Ascetics (2nd) *Dutiyasamaṇasutta*
 
 At Sāvatthī.
 
@@ -5491,7 +5491,7 @@ venerables realize the goal of life as an ascetic or brahmin, and live
 having realized it with their own insight."
 
 <!--pg-->
-### N 22.109 A Stream-Enterer *Sotāpannasutta*
+### SN 22.109 A Stream-Enterer *Sotāpannasutta*
 
 At Sāvatthī.
 
@@ -5503,7 +5503,7 @@ escape. Such a noble disciple is called a stream-enterer, not liable to
 be reborn in the underworld, bound for awakening."
 
 <!--pg-->
-### N 22.110 A Perfected One *Arahantasutta*
+### SN 22.110 A Perfected One *Arahantasutta*
 
 At Sāvatthī.
 
@@ -5518,7 +5518,7 @@ own true goal, utterly ended the fetter of continued existence, and is
 rightly freed through enlightenment."
 
 <!--pg-->
-### N 22.111 Giving Up Desire *Chandappahānasutta*
+### SN 22.111 Giving Up Desire *Chandappahānasutta*
 
 At Sāvatthī.
 
@@ -5532,7 +5532,7 @@ will be given up, cut off at the root, made like a palm stump,
 obliterated, and unable to arise in the future."
 
 <!--pg-->
-### N 22.112 Giving Up Desire (2nd) *Dutiyachandappahānasutta*
+### SN 22.112 Giving Up Desire (2nd) *Dutiyachandappahānasutta*
 
 At Sāvatthī.
 
@@ -5551,7 +5551,7 @@ palm stump, obliterated, and unable to arise in the future."
 <!--pg-->
 ## The Chapter on a Dhamma Speaker
 
-### N 22.113 Ignorance *Avijjāsutta*
+### SN 22.113 Ignorance *Avijjāsutta*
 
 At Sāvatthī.
 
@@ -5570,7 +5570,7 @@ This is called ignorance. And this is how an ignorant person is
 defined."
 
 <!--pg-->
-### N 22.114 Knowledge *Vijjāsutta*
+### SN 22.114 Knowledge *Vijjāsutta*
 
 At Sāvatthī.
 
@@ -5588,7 +5588,7 @@ This is called knowledge. And this is how a knowledgeable person is
 defined."
 
 <!--pg-->
-### N 22.115 A Dhamma speaker *Dhammakathikasutta*
+### SN 22.115 A Dhamma speaker *Dhammakathikasutta*
 
 At Sāvatthī.
 
@@ -5623,7 +5623,7 @@ cessation regarding consciousness, they're qualified to be called a
 'mendicant who has attained extinguishment in this very life'."
 
 <!--pg-->
-### N 22.116 A Dhamma speaker (2nd) *Dutiyadhammakathikasutta*
+### SN 22.116 A Dhamma speaker (2nd) *Dutiyadhammakathikasutta*
 
 At Sāvatthī.
 
@@ -5660,7 +5660,7 @@ cessation regarding consciousness, they're qualified to be called a
 'mendicant who has attained extinguishment in this very life'."
 
 <!--pg-->
-### N 22.117 Shackles *Bandhanasutta*
+### SN 22.117 Shackles *Bandhanasutta*
 
 At Sāvatthī.
 
@@ -5693,7 +5693,7 @@ consciousness, inside or out. They see the near shore and the far shore.
 They're exempt from suffering, I say."
 
 <!--pg-->
-### N 22.118 Questioning *Paripucchitasutta*
+### SN 22.118 Questioning *Paripucchitasutta*
 
 At Sāvatthī.
 
@@ -5717,7 +5717,7 @@ Seeing this ... They understand: '... there is nothing further for this
 place.'"
 
 <!--pg-->
-### N 22.119 Questioning (2nd) *Dutiyaparipucchitasutta*
+### SN 22.119 Questioning (2nd) *Dutiyaparipucchitasutta*
 
 At Sāvatthī.
 
@@ -5741,7 +5741,7 @@ Seeing this ... They understand: '... there is nothing further for this
 place.'"
 
 <!--pg-->
-### N 22.120 Things Prone To Being Fettered *Saṁyojaniyasutta*
+### SN 22.120 Things Prone To Being Fettered *Saṁyojaniyasutta*
 
 At Sāvatthī.
 
@@ -5767,7 +5767,7 @@ These are called the things that are prone to being fettered, and this
 is the fetter."
 
 <!--pg-->
-### N 22.121 Things Prone to Fuel Grasping *Upādāniyasutta*
+### SN 22.121 Things Prone to Fuel Grasping *Upādāniyasutta*
 
 At Sāvatthī.
 
@@ -5792,7 +5792,7 @@ These are called the things that fuel grasping, and this is the
 grasping."
 
 <!--pg-->
-### N 22.122 An Ethical Mendicant *Sīlavantasutta*
+### SN 22.122 An Ethical Mendicant *Sīlavantasutta*
 
 At one time Venerable Sāriputta and Venerable
 Mahākoṭṭhita were staying near Varanasi, in the deer park
@@ -5852,7 +5852,7 @@ blissful meditation in this life, and also to mindfulness and
 situational awareness."
 
 <!--pg-->
-### N 22.123 Learned *Sutavantasutta*
+### SN 22.123 Learned *Sutavantasutta*
 
 At one time Venerable Sāriputta and Venerable
 Mahākoṭṭhita were staying near Varanasi, in the deer park
@@ -5896,7 +5896,7 @@ things, when developed and cultivated, lead to blissful meditation in
 this life, and also to mindfulness and situational awareness."
 
 <!--pg-->
-### N 22.124 With Kappa *Kappasutta*
+### SN 22.124 With Kappa *Kappasutta*
 
 At Sāvatthī.
 
@@ -5923,7 +5923,7 @@ underlying tendency to conceit for this conscious body and all external
 stimuli."
 
 <!--pg-->
-### N 22.125 With Kappa (2nd) *Dutiyakappasutta*
+### SN 22.125 With Kappa (2nd) *Dutiyakappasutta*
 
 At Sāvatthī.
 
@@ -5951,7 +5951,7 @@ stimuli; and going beyond discrimination, it's peaceful and well freed."
 <!--pg-->
 ## The Chapter on Ignorance
 
-### N 22.126 Liable To Originate *Samudayadhammasutta*
+### SN 22.126 Liable To Originate *Samudayadhammasutta*
 
 At Sāvatthī.
 
@@ -6000,7 +6000,7 @@ This is called knowledge. And this is how a knowledgeable person is
 defined."
 
 <!--pg-->
-### N 22.127 Liable To Originate (2nd) *Dutiyasamudayadhammasutta*
+### SN 22.127 Liable To Originate (2nd) *Dutiyasamudayadhammasutta*
 
 At one time Venerable Sāriputta and Venerable
 Mahākoṭṭhita were staying near Varanasi, in the deer park
@@ -6025,7 +6025,7 @@ This is called ignorance. And this is how an ignorant person is
 defined."
 
 <!--pg-->
-### N 22.128 Liable To Originate (3rd) *Tatiyasamudayadhammasutta*
+### SN 22.128 Liable To Originate (3rd) *Tatiyasamudayadhammasutta*
 
 At one time Venerable Sāriputta and Venerable
 Mahākoṭṭhita were staying near Varanasi, in the deer park
@@ -6050,7 +6050,7 @@ This is called knowledge. And this is how a knowledgeable person is
 defined."
 
 <!--pg-->
-### N 22.129 Gratification *Assādasutta*
+### SN 22.129 Gratification *Assādasutta*
 
 At Varanasi. Mahākoṭṭhita said to Sāriputta:
 
@@ -6065,7 +6065,7 @@ This is called ignorance. And this is how an ignorant person is
 defined."
 
 <!--pg-->
-### N 22.130 Gratification (2nd) *Dutiyaassādasutta*
+### SN 22.130 Gratification (2nd) *Dutiyaassādasutta*
 
 At Varanasi.
 
@@ -6081,7 +6081,7 @@ This is called knowledge. And this is how a knowledgeable person is
 defined."
 
 <!--pg-->
-### N 22.131 Origin *Samudayasutta*
+### SN 22.131 Origin *Samudayasutta*
 
 At Varanasi.
 
@@ -6096,7 +6096,7 @@ This is called ignorance. And this is how an ignorant person is
 defined."
 
 <!--pg-->
-### N 22.132 Origin (2nd) *Dutiyasamudayasutta*
+### SN 22.132 Origin (2nd) *Dutiyasamudayasutta*
 
 At Varanasi. Mahākoṭṭhita said to Sāriputta:
 
@@ -6112,7 +6112,7 @@ This is called knowledge. And this is how a knowledgeable person is
 defined."
 
 <!--pg-->
-### N 22.133 With Koṭṭhita *Koṭṭhikasutta*
+### SN 22.133 With Koṭṭhita *Koṭṭhikasutta*
 
 At Varanasi. Sāriputta said to Mahākoṭṭhita:
 
@@ -6140,7 +6140,7 @@ This is called knowledge. And this is how a knowledgeable person is
 defined."
 
 <!--pg-->
-### N 22.134 With Koṭṭhita (2nd) *Dutiyakoṭṭhikasutta*
+### SN 22.134 With Koṭṭhita (2nd) *Dutiyakoṭṭhikasutta*
 
 At Varanasi.
 
@@ -6168,7 +6168,7 @@ This is called knowledge. And this is how a knowledgeable person is
 defined."
 
 <!--pg-->
-### N 22.135 With Koṭṭhita (3rd) *Tatiyakoṭṭhikasutta*
+### SN 22.135 With Koṭṭhita (3rd) *Tatiyakoṭṭhikasutta*
 
 The same setting. Sāriputta said to
 Mahākoṭṭhita:
@@ -6202,7 +6202,7 @@ defined."
 <!--pg-->
 ## The Chapter on Burning Chaff
 
-### N 22.136 Burning Chaff *Kukkuḷasutta*
+### SN 22.136 Burning Chaff *Kukkuḷasutta*
 
 At Sāvatthī.
 
@@ -6219,7 +6219,7 @@ completed, what had to be done has been done, there is nothing further
 for this place.'"
 
 <!--pg-->
-### N 22.137 Impermanence *Aniccasutta*
+### SN 22.137 Impermanence *Aniccasutta*
 
 At Sāvatthī.
 
@@ -6239,7 +6239,7 @@ Consciousness is impermanent; you should give up desire for it.
 You should give up desire for what is impermanent."
 
 <!--pg-->
-### N 22.138 Impermanence (2nd) *Dutiyaaniccasutta*
+### SN 22.138 Impermanence (2nd) *Dutiyaaniccasutta*
 
 At Sāvatthī.
 
@@ -6259,7 +6259,7 @@ Consciousness is impermanent; you should give up greed for it.
 You should give up greed for what is impermanent."
 
 <!--pg-->
-### N 22.139 Impermanence (3rd) *Tatiyaaniccasutta*
+### SN 22.139 Impermanence (3rd) *Tatiyaaniccasutta*
 
 At Sāvatthī.
 
@@ -6280,19 +6280,19 @@ it.
 You should give up desire and greed for what is impermanent."
 
 <!--pg-->
-### N 22.140 Suffering *Dukkhasutta*
+### SN 22.140 Suffering *Dukkhasutta*
 
 At Sāvatthī.
 
 "Mendicants, you should give up desire for what is suffering. ..."
 
-### N 22.141 Suffering (2nd) *Dutiyadukkhasutta*
+### SN 22.141 Suffering (2nd) *Dutiyadukkhasutta*
 
 At Sāvatthī.
 
 "Mendicants, you should give up greed for what is suffering. ..."
 
-### N 22.142 Suffering (3rd) *Tatiyadukkhasutta*
+### SN 22.142 Suffering (3rd) *Tatiyadukkhasutta*
 
 At Sāvatthī.
 
@@ -6300,19 +6300,19 @@ At Sāvatthī.
 ..."
 
 <!--pg-->
-### N 22.143 Not-Self *Anattasutta*
+### SN 22.143 Not-Self *Anattasutta*
 
 At Sāvatthī.
 
 "Mendicants, you should give up desire for what is not-self. ..."
 
-### N 22.144 Not-Self (2nd) *Dutiyaanattasutta*
+### SN 22.144 Not-Self (2nd) *Dutiyaanattasutta*
 
 At Sāvatthī.
 
 "Mendicants, you should give up greed for what is not-self. ..."
 
-### N 22.145 Not-Self (3rd) *Tatiyaanattasutta*
+### SN 22.145 Not-Self (3rd) *Tatiyaanattasutta*
 
 At Sāvatthī.
 
@@ -6320,7 +6320,7 @@ At Sāvatthī.
 ..."
 
 <!--pg-->
-### N 22.146 Full of Disillusionment *Nibbidābahulasutta*
+### SN 22.146 Full of Disillusionment *Nibbidābahulasutta*
 
 At Sāvatthī.
 
@@ -6335,7 +6335,7 @@ and death, from sorrow, lamentation, pain, sadness, and distress.
 They're freed from suffering, I say."
 
 <!--pg-->
-### N 22.147 Observing Impermanence *Aniccānupassīsutta*
+### SN 22.147 Observing Impermanence *Aniccānupassīsutta*
 
 At Sāvatthī.
 
@@ -6345,7 +6345,7 @@ impermanence in form, feeling, perception, choices, and consciousness.
 ... They're freed from suffering, I say."
 
 <!--pg-->
-### N 22.148 Observing Suffering *Dukkhānupassīsutta*
+### SN 22.148 Observing Suffering *Dukkhānupassīsutta*
 
 At Sāvatthī.
 
@@ -6355,7 +6355,7 @@ in form, feeling, perception, choices, and consciousness. ... They're
 freed from suffering, I say."
 
 <!--pg-->
-### N 22.149 Observing Not-Self *Anattānupassīsutta*
+### SN 22.149 Observing Not-Self *Anattānupassīsutta*
 
 At Sāvatthī.
 
@@ -6367,7 +6367,7 @@ freed from suffering, I say."
 <!--pg-->
 ## The Chapter on Views
 
-### N 22.150 In Oneself *Ajjhattasutta*
+### SN 22.150 In Oneself *Ajjhattasutta*
 
 At Sāvatthī.
 
@@ -6412,7 +6412,7 @@ would pleasure and pain arise in oneself?"
 place.'"
 
 <!--pg-->
-### N 22.151 This Is Mine *Etaṁmamasutta*
+### SN 22.151 This Is Mine *Etaṁmamasutta*
 
 At Sāvatthī.
 
@@ -6452,7 +6452,7 @@ self'?"
 place.'"
 
 <!--pg-->
-### N 22.152 This Is My Self *Soattāsutta*
+### SN 22.152 This Is My Self *Soattāsutta*
 
 At Sāvatthī.
 
@@ -6506,7 +6506,7 @@ imperishable'?"
 place.'"
 
 <!--pg-->
-### N 22.153 It Might Not Be Mine *Nocamesiyāsutta*
+### SN 22.153 It Might Not Be Mine *Nocamesiyāsutta*
 
 At Sāvatthī.
 
@@ -6556,7 +6556,7 @@ not be, and it will not be mine'?"
 place.'"
 
 <!--pg-->
-### N 22.154 Wrong View *Micchādiṭṭhisutta*
+### SN 22.154 Wrong View *Micchādiṭṭhisutta*
 
 At Sāvatthī.
 
@@ -6597,7 +6597,7 @@ would wrong view arise?"
 place.'"
 
 <!--pg-->
-### N 22.155 Substantialist View *Sakkāyadiṭṭhisutta*
+### SN 22.155 Substantialist View *Sakkāyadiṭṭhisutta*
 
 At Sāvatthī.
 
@@ -6634,7 +6634,7 @@ would substantialist view arise?"
 place.'"
 
 <!--pg-->
-### N 22.156 View of Self *Attānudiṭṭhisutta*
+### SN 22.156 View of Self *Attānudiṭṭhisutta*
 
 At Sāvatthī.
 
@@ -6671,7 +6671,7 @@ would view of self arise?"
 place.'"
 
 <!--pg-->
-### N 22.157 Insistence *Abhinivesasutta*
+### SN 22.157 Insistence *Abhinivesasutta*
 
 At Sāvatthī.
 
@@ -6698,7 +6698,7 @@ would fetters, insistence, and shackles arise?"
 place.'"
 
 <!--pg-->
-### N 22.158 Insistence (2nd) *Dutiyaabhinivesasutta*
+### SN 22.158 Insistence (2nd) *Dutiyaabhinivesasutta*
 
 At Sāvatthī.
 
@@ -6726,7 +6726,7 @@ would fetters, insistence, shackles, and attachments arise?"
 place.'"
 
 <!--pg-->
-### N 22.159 With Ānanda *Ānandasutta*
+### SN 22.159 With Ānanda *Ānandasutta*
 
 At Sāvatthī.
 

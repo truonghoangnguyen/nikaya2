@@ -1,4 +1,4 @@
-# 122. Đại Kinh về Tánh Không
+# MN 122. Đại Kinh về Tánh Không
 ***(Mahāsuññata Sutta)***
 
 1\.  Tôi nghe như vầy. [^1145] Một thời Thế Tôn trú ở xứ Sakya (Thích-ca), tại Kapilavatthu (Ca-tỳ-la-vệ), trong công viên Nigrodha (Ni-câu-luật).

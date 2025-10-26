@@ -1,4 +1,4 @@
-# 85. Kinh Gửi Hoàng Tử Bodhi
+# MN 85. Kinh Gửi Hoàng Tử Bodhi
 ***(Bodhirājakumāra Sutta)***
 
 [91] 1. Như vầy tôi nghe. Một thời Đức Thế Tôn đang trú tại xứ Bhagga, ở Sumsumāragira, trong rừng Bhesakaḷa, Vườn Nai.

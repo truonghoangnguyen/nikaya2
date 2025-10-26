@@ -1,4 +1,4 @@
-# 127. A-nu-lâu-đà
+# MN 127. A-nu-lâu-đà
 ***(Anuruddha Sutta - Kinh A-nu-lâu-đà)***
 
 1\.  Tôi nghe như vầy. Một thời Đức Thế Tôn trú tại thành Xá-vệ (Sāvatthī), trong Vườn cây Kỳ-đà (Jeta's Grove), khu vườn của ông Cấp Cô Độc (Anāthapiṇ̣ika).

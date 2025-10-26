@@ -3,7 +3,7 @@
 <!--pg-->
 ## Chapter One
 
-### N 18.1 The Eye, Etc. *Cakkhusutta*
+### SN 18.1 The Eye, Etc. *Cakkhusutta*
 
 So I have heard. At one time the Buddha was staying near
 Sāvatthī in Jeta's Grove, Anāthapiṇḍika's
@@ -70,7 +70,7 @@ for this place.'"
 way.)*
 
 <!--pg-->
-### N 18.2 Sights, Etc. *Rūpasutta*
+### SN 18.2 Sights, Etc. *Rūpasutta*
 
 At Sāvatthī.
 
@@ -87,7 +87,7 @@ sounds, smells, tastes, touches, and ideas. Being disillusioned, desire
 fades away. ..."
 
 <!--pg-->
-### N 18.3 Consciousness *Viññāṇasutta*
+### SN 18.3 Consciousness *Viññāṇasutta*
 
 At Sāvatthī.
 
@@ -108,7 +108,7 @@ consciousness, body consciousness, and mind consciousness. Being
 disillusioned, desire fades away. ..."
 
 <!--pg-->
-### N 18.4 Contact *Samphassasutta*
+### SN 18.4 Contact *Samphassasutta*
 
 At Sāvatthī.
 
@@ -127,7 +127,7 @@ contact, ear contact, nose contact, tongue contact, body contact, and
 mind contact. Being disillusioned, desire fades away. ..."
 
 <!--pg-->
-### N 18.5 Feeling *Vedanāsutta*
+### SN 18.5 Feeling *Vedanāsutta*
 
 At Sāvatthī.
 
@@ -147,7 +147,7 @@ born of eye contact, ear contact, nose contact, tongue contact, body
 contact, and mind contact. ..."
 
 <!--pg-->
-### N 18.6 Perceptions *Saññāsutta*
+### SN 18.6 Perceptions *Saññāsutta*
 
 At Sāvatthī.
 
@@ -166,7 +166,7 @@ impermanent?"
 perception of sights, sounds, smells, tastes, touches, and ideas. ..."
 
 <!--pg-->
-### N 18.7 Intention *Sañcetanāsutta*
+### SN 18.7 Intention *Sañcetanāsutta*
 
 At Sāvatthī.
 
@@ -186,7 +186,7 @@ intention regarding sights, sounds, smells, tastes, touches, and ideas.
 ..."
 
 <!--pg-->
-### N 18.8 Craving *Taṇhāsutta*
+### SN 18.8 Craving *Taṇhāsutta*
 
 At Sāvatthī.
 
@@ -205,7 +205,7 @@ impermanent?"
 for sights, sounds, smells, tastes, touches, and ideas. ..."
 
 <!--pg-->
-### N 18.9 Elements *Dhātusutta*
+### SN 18.9 Elements *Dhātusutta*
 
 At Sāvatthī.
 
@@ -225,7 +225,7 @@ earth element, water element, fire element, air element, space element,
 and consciousness element ..."
 
 <!--pg-->
-### N 18.10 The Aggregates *Khandhasutta*
+### SN 18.10 The Aggregates *Khandhasutta*
 
 At Sāvatthī.
 
@@ -251,7 +251,7 @@ for this place.'"
 <!--pg-->
 ## Chapter Two
 
-### N 18.11 The Eye, Etc. *Cakkhusutta*
+### SN 18.11 The Eye, Etc. *Cakkhusutta*
 
 So I have heard. At one time the Buddha was staying near
 Sāvatthī. Then Venerable Rāhula went up to the
@@ -298,7 +298,7 @@ for this place.'"
 way.)*
 
 <!--pg-->
-### N 18.12--20 The Nine Discourses on Sights, Etc. *Rūpādisuttanavaka*
+### SN 18.12--20 The Nine Discourses on Sights, Etc. *Rūpādisuttanavaka*
 
 At Sāvatthī.
 
@@ -342,7 +342,7 @@ permanent or impermanent?"
 place.'"
 
 <!--pg-->
-### N 18.21 Tendency *Anusayasutta*
+### SN 18.21 Tendency *Anusayasutta*
 
 At Sāvatthī.
 
@@ -367,7 +367,7 @@ underlying tendency to conceit for this conscious body and all external
 stimuli."
 
 <!--pg-->
-### N 18.22 Rid of Conceit *Apagatasutta*
+### SN 18.22 Rid of Conceit *Apagatasutta*
 
 At Sāvatthī.
 

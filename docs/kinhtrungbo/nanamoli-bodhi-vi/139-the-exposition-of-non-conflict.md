@@ -1,4 +1,4 @@
-# 139. Kinh Phân Tích Về Sự Không Xung Đột
+# MN 139. Kinh Phân Tích Về Sự Không Xung Đột
 ***(Araṇavibhaṅga Sutta)***
 
 [230] 1. Như vầy tôi nghe. Một thời Đức Thế Tôn trú tại thành Xá-vệ (Sāvatthī), vườn ông Cấp Cô Độc (Anāthapiṇḍika), rừng cây Kỳ-đà (Jeta). Tại đó, Đức Thế Tôn gọi các tỳ kheo (bhikkhus - các nhà sư nam đã thọ giới cụ túc): "Này các tỳ kheo." - "Bạch Thế Tôn," các vị ấy vâng đáp. Đức Thế Tôn nói thế này:

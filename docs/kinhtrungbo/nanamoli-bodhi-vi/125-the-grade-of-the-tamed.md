@@ -1,4 +1,4 @@
-# 125. Cấp Độ Của Sự Thuần Hóa
+# MN 125. Cấp Độ Của Sự Thuần Hóa
 ***(Kinh Dantabhūmi - Dantabhūmi Sutta)***
 
 1\.  Tôi nghe như vầy. Một thời Đức Thế Tôn trú tại thành Vương Xá (Rājagaha), trong Vườn Trúc, nơi nuôi sóc (Trúc Lâm Tịnh Xá Kalandakanivāpa).

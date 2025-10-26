@@ -1,4 +1,4 @@
-# 41. Kinh Người Dân Làng Sālā
+# MN 41. Kinh Người Dân Làng Sālā
 ***(Sāleyyaka Sutta)***
 
 [285] 1\. Tôi nghe như vầy. Một thời Thế Tôn (Blessed One - Bậc được tôn kính) đang du hành tuần tự ở nước Kosala cùng với một Tăng đoàn đông đảo các vị tỳ kheo (bhikkhus - nhà sư), và cuối cùng Ngài đến một làng Bà-la-môn của xứ Kosala tên là Sālā.

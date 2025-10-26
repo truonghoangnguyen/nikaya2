@@ -3,7 +3,7 @@
 <!--pg-->
 ## The Chapter with Kassapa
 
-### N 16.1 Content *Santuṭṭhasutta*
+### SN 16.1 Content *Santuṭṭhasutta*
 
 At Sāvatthī.
 
@@ -35,7 +35,7 @@ will exhort you with the example of Kassapa or someone like him. You
 should practice accordingly."
 
 <!--pg-->
-### N 16.2 Imprudent *Anottappīsutta*
+### SN 16.2 Imprudent *Anottappīsutta*
 
 So I have heard. At one time Venerable
 Mahākassapa and Venerable Sāriputta were
@@ -86,7 +86,7 @@ prudent you can achieve awakening, extinguishment, and the supreme
 sanctuary from the yoke."
 
 <!--pg-->
-### N 16.3 Like the Moon *Candūpamāsutta*
+### SN 16.3 Like the Moon *Candūpamāsutta*
 
 At Sāvatthī.
 
@@ -159,7 +159,7 @@ with the example of Kassapa or someone like him. You should practice
 accordingly."
 
 <!--pg-->
-### N 16.4 Visiting Families *Kulūpakasutta*
+### SN 16.4 Visiting Families *Kulūpakasutta*
 
 At Sāvatthī.
 
@@ -209,7 +209,7 @@ that. I will exhort you with the example of Kassapa or someone like him.
 You should practice accordingly."
 
 <!--pg-->
-### N 16.5 Old Age *Jiṇṇasutta*
+### SN 16.5 Old Age *Jiṇṇasutta*
 
 So I have heard. Near Rājagaha, in the Bamboo Grove. Then
 Venerable Mahākassapa went up to the Buddha, bowed, and sat
@@ -246,7 +246,7 @@ happiness of gods and humans. So Kassapa, wear worn-out hempen rag
 robes, walk for alms, and stay in the wilderness."
 
 <!--pg-->
-### N 16.6 Advice *Ovādasutta*
+### SN 16.6 Advice *Ovādasutta*
 
 Near Rājagaha, in the Bamboo Grove. Then Venerable
 Mahākassapa went up to the Buddha, bowed, and sat down to
@@ -307,7 +307,7 @@ for what it is, deal with it properly, and commit to restraint in the
 future."
 
 <!--pg-->
-### N 16.7 Advice (2nd) *Dutiyaovādasutta*
+### SN 16.7 Advice (2nd) *Dutiyaovādasutta*
 
 Near Rājagaha, in the Bamboo Grove. Then Venerable
 Mahākassapa went up to the Buddha, bowed, and sat down to
@@ -368,7 +368,7 @@ comes to skillful qualities can expect growth, not decline ...
 When there are mendicant advisers there is no decline."
 
 <!--pg-->
-### N 16.8 Advice (3rd) *Tatiyaovādasutta*
+### SN 16.8 Advice (3rd) *Tatiyaovādasutta*
 
 Near Rājagaha, in the squirrels' feeding ground. Then
 Venerable Mahākassapa went up to the Buddha, bowed, and sat
@@ -414,7 +414,7 @@ and vanquished by the vanquishing of a spiritual practitioner, it is
 these days that this could be rightly said."
 
 <!--pg-->
-### N 16.9 Absorptions and Insights *Jhānābhiññasutta*
+### SN 16.9 Absorptions and Insights *Jhānābhiññasutta*
 
 At Sāvatthī.
 
@@ -520,7 +520,7 @@ this very life. And I live having realized it with my own insight due to
 the ending of defilements. And so does Kassapa."
 
 <!--pg-->
-### N 16.10 The Nuns' Quarters *Upassayasutta*
+### SN 16.10 The Nuns' Quarters *Upassayasutta*
 
 So I have heard. At one time Venerable
 Mahākassapa was staying near Sāvatthī in
@@ -600,7 +600,7 @@ insights."
 But the nun Thullatissā fell from the spiritual life.
 
 <!--pg-->
-### N 16.11 Robes *Cīvarasutta*
+### SN 16.11 Robes *Cīvarasutta*
 
 At one time Venerable Mahākassapa was staying near
 Rājagaha, in the Bamboo Grove, the squirrels' feeding
@@ -738,7 +738,7 @@ insights."
 But the nun Thullanandā fell from the spiritual life.
 
 <!--pg-->
-### N 16.12 The Realized One After Death *Paraṁmaraṇasutta*
+### SN 16.12 The Realized One After Death *Paraṁmaraṇasutta*
 
 At one time Venerable Mahākassapa and Venerable
 Sāriputta were staying near Varanasi, in the deer park at
@@ -787,7 +787,7 @@ peace, insight, awakening, and extinguishment. That's why it has been
 declared by the Buddha."
 
 <!--pg-->
-### N 16.13 The Counterfeit of the True Teaching *Saddhammappatirūpakasutta*
+### SN 16.13 The Counterfeit of the True Teaching *Saddhammappatirūpakasutta*
 
 So I have heard. At one time the Buddha was staying near
 Sāvatthī in Jeta's Grove, Anāthapiṇḍika's

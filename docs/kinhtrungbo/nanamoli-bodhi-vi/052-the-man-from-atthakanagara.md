@@ -1,4 +1,4 @@
-# 52. Người Đàn Ông Từ Thành Atṭhakanagara
+# MN 52. Người Đàn Ông Từ Thành Atṭhakanagara
 ***(Kinh Atṭhakanāgara)***
 
 1\.  Tôi nghe như vầy. Một thời, Tôn giả A Nan trú tại làng Beluva gần Vesālī.

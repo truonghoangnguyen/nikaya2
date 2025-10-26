@@ -1,4 +1,4 @@
-# 80. Kinh Vekhanassa
+# MN 80. Kinh Vekhanassa
 ***(Vekhanassa Sutta)***
 
 [40] 1. Tôi nghe như vầy. Một thời Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong Vườn Jeta (Kỳ-đà), Khu vườn của Anāthapiṇḍika (Cấp Cô Độc).

@@ -1,4 +1,4 @@
-# 114. Nên Tu Tập và Không Nên Tu Tập
+# MN 114. Nên Tu Tập và Không Nên Tu Tập
 ***(Kinh Sevitabbāsevitabba - Kinh về Điều Nên và Không Nên Thực Hành)***
 
 1\.  Tôi nghe như vầy. Một thời Đức Thế Tôn trú tại thành Xá-vệ (Sāvatthī), trong Vườn của ông Jeta, tại Tu viện của ông Anāthapindika (Cấp Cô Độc). Tại đó, Ngài gọi các vị Tỳ kheo (monks-bhikkhus-nhà sư): "Này các Tỳ kheo." - "Bạch Thế Tôn," các vị ấy vâng đáp. Đức Thế Tôn dạy điều này:

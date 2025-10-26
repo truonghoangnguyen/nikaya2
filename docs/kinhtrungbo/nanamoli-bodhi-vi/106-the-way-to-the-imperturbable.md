@@ -1,4 +1,4 @@
-# 106. Con Đường Dẫn Đến Bất Động
+# MN 106. Con Đường Dẫn Đến Bất Động
 ***(Āneñjasappāya Sutta - Kinh Bất Động Thích Hợp)***
 
 1\. Tôi nghe như vầy, [^1007] Một thời Đức Thế Tôn trú ở xứ Kuru, tại một thị trấn của người Kuru tên là Kammāsadhamma. Tại đây, Đức Thế Tôn gọi các vị tỳ kheo (monks-bhikkhus-nhà sư): "Này các Tỳ kheo." - "Bạch Thế Tôn," các vị ấy vâng đáp. Đức Thế Tôn dạy như sau:

@@ -5,7 +5,7 @@
 <!--pg-->
 ## Phẩm Cha Của Nakula
 
-### N 22.1 Cha Của Nakula *Nakulapitusutta*
+### SN 22.1 Cha Của Nakula *Nakulapitusutta*
 
 Như vầy tôi nghe. Một thời Thế Tôn trú trong xứ Bhagga, tại đồi Cá Sấu, trong vườn nai ở rừng Bhesakaḷā.
 
@@ -63,7 +63,7 @@ Họ không coi thức là tự ngã, tự ngã có thức, thức trong tự ng
 Đó là những gì Tôn giả Xá-lợi-phất đã nói. Hài lòng, cha của Nakula hoan hỷ những gì Tôn giả Xá-lợi-phất đã nói.
 
 <!--pg-->
-### N 22.2 Tại Devadaha *Devadahasutta*
+### SN 22.2 Tại Devadaha *Devadahasutta*
 
 Như vầy tôi nghe. Một thời Thế Tôn trú trong xứ của dòng họ Thích-ca, nơi có một thị trấn tên là Devadaha.
 
@@ -104,7 +104,7 @@ Nếu những người đã chấp nhận và giữ gìn những phẩm chất t
 Đây là những gì Tôn giả Xá-lợi-phất đã nói. Hài lòng, các Tỷ kheo hoan hỷ những gì Tôn giả Xá-lợi-phất đã nói.
 
 <!--pg-->
-### N 22.3 Với Hāliddikāni *Hāliddikānisutta*
+### SN 22.3 Với Hāliddikāni *Hāliddikānisutta*
 
 Như vầy tôi nghe. Một thời Tôn giả Đại Ca-chiên-diên trú trong xứ Avanti gần Kuraraghara trên núi Dốc.
 
@@ -149,7 +149,7 @@ Vậy, thưa gia chủ, đó là cách hiểu ý nghĩa chi tiết của những
 > họ sẽ không tranh cãi với người đời.'"
 
 <!--pg-->
-### N 22.4 Hāliddikāni (thứ 2) *Dutiyahāliddikānisutta*
+### SN 22.4 Hāliddikāni (thứ 2) *Dutiyahāliddikānisutta*
 
 Như vầy tôi nghe. Một thời Tôn giả Đại Ca-chiên-diên trú trong xứ Avanti gần Kuraraghara trên núi Dốc.
 
@@ -164,7 +164,7 @@ Hãy xem xét bất kỳ dục vọng, tham lam, ưa thích, và ái dục nào 
 Vậy, thưa gia chủ, đó là cách hiểu ý nghĩa chi tiết của những gì Thế Tôn đã nói ngắn gọn trong 'Những câu hỏi của Sakka': 'Những vị sa-môn và bà-la-môn nào được giải thoát nhờ sự chấm dứt của ái dục đã đạt đến mục tiêu tối hậu, nơi nương tựa tối hậu khỏi khổ ách, đời sống phạm hạnh tối hậu, cứu cánh tối hậu, và là bậc tối thượng giữa chư thiên và loài người.'"
 
 <!--pg-->
-### N 22.5 Phát Triển Thiền Định *Samādhisutta*
+### SN 22.5 Phát Triển Thiền Định *Samādhisutta*
 
 Như vầy tôi nghe. Tại Sāvatthī.
 
@@ -189,7 +189,7 @@ Họ không tán thành, chào đón, hay tiếp tục bám víu vào thọ... t
 Đây là sự đoạn diệt của sắc, thọ, tưởng, hành, và thức."
 
 <!--pg-->
-### N 22.6 Độc Cư *Paṭisallāṇasutta*
+### SN 22.6 Độc Cư *Paṭisallāṇasutta*
 
 Tại Sāvatthī.
 
@@ -198,7 +198,7 @@ Tại Sāvatthī.
 **(Kể đầy đủ như trong kinh trước.)**
 
 <!--pg-->
-### N 22.7 Lo Âu Vì Chấp Thủ *Upādāparitassanāsutta*
+### SN 22.7 Lo Âu Vì Chấp Thủ *Upādāparitassanāsutta*
 
 Tại Sāvatthī.
 
@@ -227,7 +227,7 @@ Họ không coi hành là tự ngã...
 Họ không coi thức là tự ngã... Khi thức đó của họ bị suy tàn và hoại diệt, thức không bám vào sự hoại diệt của thức. Những lo âu—sinh ra từ việc bám vào sự hoại diệt của thức và khởi lên theo các nguyên lý tự nhiên—không chiếm lĩnh tâm trí họ. Vì vậy, họ không trở nên sợ hãi, lo lắng, bận tâm, hay lo âu vì chấp thủ. Đó là cách không chấp thủ dẫn đến thoát khỏi lo âu."
 
 <!--pg-->
-### N 22.8 Lo Âu Vì Chấp Thủ (thứ 2) *Dutiyaupādāparitassanāsutta*
+### SN 22.8 Lo Âu Vì Chấp Thủ (thứ 2) *Dutiyaupādāparitassanāsutta*
 
 Tại Sāvatthī.
 
@@ -236,7 +236,7 @@ Tại Sāvatthī.
 Và làm thế nào không chấp thủ dẫn đến thoát khỏi lo âu? Đó là khi một vị Thánh đệ tử có nghe nhiều coi sắc như thế này: 'Cái này không phải của tôi, tôi không phải là cái này, đây không phải là tự ngã của tôi.' Khi sắc đó của họ bị suy tàn và hoại diệt, nó không làm phát sinh sầu, bi, khổ, ưu, và não. Họ coi thọ... tưởng... hành... thức như thế này: 'Cái này không phải của tôi, tôi không phải là cái này, đây không phải là tự ngã của tôi.' Khi thức đó của họ bị suy tàn và hoại diệt, nó không làm phát sinh sầu, bi, khổ, ưu, và não. Đó là cách không chấp thủ dẫn đến thoát khỏi lo âu."
 
 <!--pg-->
-### N 22.9 Vô Thường Trong Ba Thời *Kālattayaaniccasutta*
+### SN 22.9 Vô Thường Trong Ba Thời *Kālattayaaniccasutta*
 
 Tại Sāvatthī.
 
@@ -255,7 +255,7 @@ Thức của quá khứ và tương lai là vô thường, huống chi là hiệ
 Thấy vậy, một vị Thánh đệ tử có nghe nhiều không lo lắng về thức quá khứ, không mong chờ hưởng thụ thức tương lai, và họ thực hành để nhàm chán, ly tham, và đoạn diệt đối với thức hiện tại."
 
 <!--pg-->
-### N 22.10 Khổ Trong Ba Thời *Kālattayadukkhasutta*
+### SN 22.10 Khổ Trong Ba Thời *Kālattayadukkhasutta*
 
 Tại Sāvatthī.
 
@@ -274,7 +274,7 @@ Thức của quá khứ và tương lai là khổ, huống chi là hiện tại.
 Thấy vậy, một vị Thánh đệ tử có nghe nhiều không lo lắng về thức quá khứ, không mong chờ hưởng thụ thức tương lai, và họ thực hành để nhàm chán, ly tham, và đoạn diệt đối với thức hiện tại."
 
 <!--pg-->
-### N 22.11 Vô Ngã Trong Ba Thời *Kālattayaanattasutta*
+### SN 22.11 Vô Ngã Trong Ba Thời *Kālattayaanattasutta*
 
 Tại Sāvatthī.
 
@@ -295,7 +295,7 @@ Thấy vậy, một vị Thánh đệ tử có nghe nhiều không lo lắng v�
 <!--pg-->
 ## Phẩm Vô Thường
 
-### N 22.12 Vô Thường *Aniccasutta*
+### SN 22.12 Vô Thường *Aniccasutta*
 
 Như vầy tôi nghe. Tại Sāvatthī.
 
@@ -306,7 +306,7 @@ Thấy vậy, một vị Thánh đệ tử có nghe nhiều trở nên nhàm ch�
 Họ hiểu: 'Tái sinh đã chấm dứt, đời sống phạm hạnh đã hoàn thành, những gì cần làm đã làm xong, không còn gì nữa cho nơi này.'"
 
 <!--pg-->
-### N 22.13 Khổ *Dukkhasutta*
+### SN 22.13 Khổ *Dukkhasutta*
 
 Tại Sāvatthī.
 
@@ -315,7 +315,7 @@ Tại Sāvatthī.
 Thấy vậy... Họ hiểu: '... không còn gì nữa cho nơi này.'"
 
 <!--pg-->
-### N 22.14 Vô Ngã *Anattasutta*
+### SN 22.14 Vô Ngã *Anattasutta*
 
 Tại Sāvatthī.
 
@@ -326,7 +326,7 @@ Thấy vậy, một vị Thánh đệ tử có nghe nhiều trở nên nhàm ch�
 Họ hiểu: 'Tái sinh đã chấm dứt, đời sống phạm hạnh đã hoàn thành, những gì cần làm đã làm xong, không còn gì nữa cho nơi này.'"
 
 <!--pg-->
-### N 22.15 Cái Gì Vô Thường *Yadaniccasutta*
+### SN 22.15 Cái Gì Vô Thường *Yadaniccasutta*
 
 Tại Sāvatthī.
 
@@ -343,7 +343,7 @@ Thức là vô thường. Cái gì vô thường là khổ. Cái gì khổ là v
 Thấy vậy... Họ hiểu: '... không còn gì nữa cho nơi này.'"
 
 <!--pg-->
-### N 22.16 Cái Gì Khổ *Yaṁdukkhasutta*
+### SN 22.16 Cái Gì Khổ *Yaṁdukkhasutta*
 
 Tại Sāvatthī.
 
@@ -360,7 +360,7 @@ Thức là khổ. Cái gì khổ là vô ngã. Và cái gì vô ngã nên đư�
 Thấy vậy... Họ hiểu: '... không còn gì nữa cho nơi này.'"
 
 <!--pg-->
-### N 22.17 Cái Gì Vô Ngã *Yadanattāsutta*
+### SN 22.17 Cái Gì Vô Ngã *Yadanattāsutta*
 
 Tại Sāvatthī.
 
@@ -377,7 +377,7 @@ Thức là vô ngã. Và cái gì vô ngã nên được thấy một cách châ
 Thấy vậy... Họ hiểu: '... không còn gì nữa cho nơi này.'"
 
 <!--pg-->
-### N 22.18 Vô Thường Cùng Với Nguyên Nhân *Sahetuaniccasutta*
+### SN 22.18 Vô Thường Cùng Với Nguyên Nhân *Sahetuaniccasutta*
 
 Tại Sāvatthī.
 
@@ -394,7 +394,7 @@ Thức là vô thường. Nguyên nhân và lý do làm thức sinh khởi cũng
 Thấy vậy... Họ hiểu: '... không còn gì nữa cho nơi này.'"
 
 <!--pg-->
-### N 22.19 Khổ Cùng Với Nguyên Nhân *Sahetudukkhasutta*
+### SN 22.19 Khổ Cùng Với Nguyên Nhân *Sahetudukkhasutta*
 
 Tại Sāvatthī.
 
@@ -411,7 +411,7 @@ Thức là khổ. Nguyên nhân và lý do làm thức sinh khởi cũng là kh�
 Thấy vậy... Họ hiểu: '... không còn gì nữa cho nơi này.'"
 
 <!--pg-->
-### N 22.20 Vô Ngã Cùng Với Nguyên Nhân *Sahetuanattasutta*
+### SN 22.20 Vô Ngã Cùng Với Nguyên Nhân *Sahetuanattasutta*
 
 Tại Sāvatthī.
 
@@ -428,7 +428,7 @@ Thức là vô ngã. Nguyên nhân và lý do làm thức sinh khởi cũng là 
 Thấy vậy... Họ hiểu: '... không còn gì nữa cho nơi này.'"
 
 <!--pg-->
-### N 22.21 Với Ānanda *Ānandasutta*
+### SN 22.21 Với Ānanda *Ānandasutta*
 
 Tại Sāvatthī.
 
@@ -451,7 +451,7 @@ Khi người ta nói về 'sự đoạn diệt', đó là sự đoạn diệt c�
 <!--pg-->
 ## Phẩm Gánh Nặng
 
-### N 22.22 Gánh Nặng *Bhārasutta*
+### SN 22.22 Gánh Nặng *Bhārasutta*
 
 Tại Sāvatthī.
 
@@ -478,7 +478,7 @@ Và việc đặt gánh nặng xuống là gì? Đó là sự phai nhạt và ch
 > ông không còn đói khát, đã được dập tắt."
 
 <!--pg-->
-### N 22.23 Toàn Tri *Pariññasutta*
+### SN 22.23 Toàn Tri *Pariññasutta*
 
 Tại Sāvatthī.
 
@@ -489,7 +489,7 @@ Và những điều cần được toàn tri là gì? Sắc, thọ, tưởng, h�
 Và sự toàn tri là gì? Sự chấm dứt của tham, sân, và si. Đây được gọi là sự toàn tri."
 
 <!--pg-->
-### N 22.24 hiểu biết trực tiếp *Abhijānasutta*
+### SN 22.24 hiểu biết trực tiếp *Abhijānasutta*
 
 Tại Sāvatthī.
 
@@ -502,7 +502,7 @@ Bằng cách hiểu biết trực tiếp và hiểu biết hoàn toàn sắc, c�
 Bằng cách hiểu biết trực tiếp và hiểu biết hoàn toàn thọ... tưởng... hành... thức, có ly tham và từ bỏ nó, các ông có thể chấm dứt khổ đau."
 
 <!--pg-->
-### N 22.25 Dục Và Tham *Chandarāgasutta*
+### SN 22.25 Dục Và Tham *Chandarāgasutta*
 
 Tại Sāvatthī.
 
@@ -511,7 +511,7 @@ Tại Sāvatthī.
 Hãy từ bỏ dục và tham đối với thọ... tưởng... hành... thức. Như vậy, thức đó sẽ được từ bỏ, chặt đứt tận gốc, làm như một gốc cây cọ, bị xóa sổ, và không thể khởi sinh trong tương lai."
 
 <!--pg-->
-### N 22.26 Vị Ngọt *Assādasutta*
+### SN 22.26 Vị Ngọt *Assādasutta*
 
 Tại Sāvatthī.
 
@@ -526,7 +526,7 @@ Nhưng khi Ta đã thực sự hiểu rõ vị ngọt, sự nguy hại, và lố
 Tri kiến khởi lên trong Ta: 'Sự giải thoát của Ta là bất động; đây là kiếp tái sinh cuối cùng của Ta; bây giờ sẽ không còn kiếp sống tương lai nào nữa.'"
 
 <!--pg-->
-### N 22.27 Vị Ngọt (thứ 2) *Dutiyaassādasutta*
+### SN 22.27 Vị Ngọt (thứ 2) *Dutiyaassādasutta*
 
 Tại Sāvatthī.
 
@@ -539,7 +539,7 @@ Chừng nào Ta chưa thực sự hiểu rõ vị ngọt, sự nguy hại, và l
 Tri kiến khởi lên trong Ta: 'Sự giải thoát của Ta là bất động; đây là kiếp tái sinh cuối cùng của Ta; bây giờ sẽ không còn kiếp sống tương lai nào nữa.'"
 
 <!--pg-->
-### N 22.28 Vị Ngọt (thứ 3) *Tatiyaassādasutta*
+### SN 22.28 Vị Ngọt (thứ 3) *Tatiyaassādasutta*
 
 Tại Sāvatthī.
 
@@ -552,7 +552,7 @@ Chừng nào chúng sanh chưa thực sự hiểu rõ vị ngọt, sự nguy h�
 Nhưng khi chúng sanh thực sự hiểu rõ vị ngọt, sự nguy hại, và lối thoát của năm thủ uẩn này theo đúng bản chất của chúng, họ đã thoát khỏi thế giới này—với các vị trời, Ma vương, và Phạm thiên, trong quần chúng này với các vị sa-môn và bà-la-môn, các vị trời và loài người—và họ sống tách biệt, giải thoát, với một tâm trí không giới hạn."
 
 <!--pg-->
-### N 22.29 Hưởng Lạc *Abhinandanasutta*
+### SN 22.29 Hưởng Lạc *Abhinandanasutta*
 
 Tại Sāvatthī.
 
@@ -565,7 +565,7 @@ Nếu các ông không hưởng lạc trong sắc, các ông không hưởng l�
 Nếu các ông không hưởng lạc trong thọ... tưởng... hành... thức, các ông không hưởng lạc trong khổ đau. Nếu các ông không hưởng lạc trong khổ đau, Ta nói rằng các ông thoát khỏi khổ đau."
 
 <!--pg-->
-### N 22.30 Sự Sinh Khởi *Uppādasutta*
+### SN 22.30 Sự Sinh Khởi *Uppādasutta*
 
 Tại Sāvatthī.
 
@@ -578,7 +578,7 @@ Sự chấm dứt, lắng dịu, và kết thúc của sắc là sự chấm d�
 Sự chấm dứt, lắng dịu, và kết thúc của thọ... tưởng... hành... thức là sự chấm dứt của khổ đau, sự lắng dịu của bệnh tật, và sự kết thúc của già và chết."
 
 <!--pg-->
-### N 22.31 Gốc Rễ Của Khổ Não *Aghamūlasutta*
+### SN 22.31 Gốc Rễ Của Khổ Não *Aghamūlasutta*
 
 Tại Sāvatthī.
 
@@ -589,7 +589,7 @@ Và khổ não là gì? Sắc, thọ, tưởng, hành, và thức là khổ não
 Và gốc rễ của khổ não là gì? Đó là ái dục dẫn đến các kiếp sống tương lai, hòa trộn với sự ưa thích và tham lam, tìm thấy niềm vui ở bất cứ nơi nào nó đến. Đó là, ái dục đối với các thú vui giác quan, Hữu ái, và ái dục để chấm dứt sự tồn tại. Đây được gọi là gốc rễ của khổ não."
 
 <!--pg-->
-### N 22.32 Cái Dễ Vỡ *Pabhaṅgusutta*
+### SN 22.32 Cái Dễ Vỡ *Pabhaṅgusutta*
 
 Tại Sāvatthī.
 
@@ -602,7 +602,7 @@ Thọ... tưởng... hành... thức là dễ vỡ, nhưng sự chấm dứt, l�
 <!--pg-->
 ## Phẩm Không Phải Của Các Ông
 
-### N 22.33 Không Phải Của Các Ông *Natumhākasutta*
+### SN 22.33 Không Phải Của Các Ông *Natumhākasutta*
 
 Tại Sāvatthī.
 
@@ -631,7 +631,7 @@ Hành...
 Thức không phải của các ông: hãy từ bỏ nó. Từ bỏ nó sẽ vì lợi ích và hạnh phúc của các ông."
 
 <!--pg-->
-### N 22.34 Không Phải Của Các Ông (thứ 2) *Dutiyanatumhākasutta*
+### SN 22.34 Không Phải Của Các Ông (thứ 2) *Dutiyanatumhākasutta*
 
 Tại Sāvatthī.
 
@@ -650,7 +650,7 @@ Thức không phải của các ông: hãy từ bỏ nó. Từ bỏ nó sẽ vì
 Hãy từ bỏ những gì không phải của các ông. Từ bỏ nó sẽ vì lợi ích và hạnh phúc của các ông."
 
 <!--pg-->
-### N 22.35 Một Vị Tỷ Kheo *Aññatarabhikkhusutta*
+### SN 22.35 Một Vị Tỷ Kheo *Aññatarabhikkhusutta*
 
 Tại Sāvatthī.
 
@@ -683,7 +683,7 @@ Lúc bấy giờ, vị Tỷ kheo đó, sống một mình, ẩn dật, siêng n�
 Ông hiểu: "Tái sinh đã chấm dứt; đời sống phạm hạnh đã hoàn thành; những gì cần làm đã làm xong; không còn gì nữa cho nơi này." Và vị Tỷ kheo đó đã trở thành một trong những bậc A-la-hán.
 
 <!--pg-->
-### N 22.36 Một Vị Tỷ Kheo (thứ 2) *Dutiyaaññatarabhikkhusutta*
+### SN 22.36 Một Vị Tỷ Kheo (thứ 2) *Dutiyaaññatarabhikkhusutta*
 
 Tại Sāvatthī.
 
@@ -713,7 +713,7 @@ Nếu ông không có ngầm hướng về đối với sắc, ông không bị 
 Và vị Tỷ kheo đó đã trở thành một trong những bậc A-la-hán.
 
 <!--pg-->
-### N 22.37 Với Ānanda *Ānandasutta*
+### SN 22.37 Với Ānanda *Ānandasutta*
 
 Tại Sāvatthī.
 
@@ -732,7 +732,7 @@ Và rồi Tôn giả Ānanda... ngồi xuống một bên, Thế Tôn nói với
 Đó là cách ông nên trả lời một câu hỏi như vậy."
 
 <!--pg-->
-### N 22.38 Với Ānanda (thứ 2) *Dutiyaānandasutta*
+### SN 22.38 Với Ānanda (thứ 2) *Dutiyaānandasutta*
 
 Tại Sāvatthī.
 
@@ -757,7 +757,7 @@ Bất cứ sắc nào đã sinh, và đã xuất hiện, sự sinh khởi, biế
 Đó là cách ông nên trả lời một câu hỏi như vậy."
 
 <!--pg-->
-### N 22.39 Phù Hợp Với Giáo Pháp *Anudhammasutta*
+### SN 22.39 Phù Hợp Với Giáo Pháp *Anudhammasutta*
 
 Tại Sāvatthī.
 
@@ -766,21 +766,21 @@ Tại Sāvatthī.
 Họ nên sống đầy nhàm chán đối với sắc, thọ, tưởng, hành, và thức. Sống theo cách này, họ toàn tri sắc, thọ, tưởng, hành, và thức. Toàn tri sắc, thọ, tưởng, hành, và thức, họ được giải thoát khỏi những thứ này. Họ được giải thoát khỏi tái sinh, già, và chết, khỏi sầu, bi, khổ, ưu, và não. Họ được giải thoát khỏi khổ đau, Ta nói vậy."
 
 <!--pg-->
-### N 22.40 Phù Hợp Với Giáo Pháp (thứ 2) *Dutiyaanudhammasutta*
+### SN 22.40 Phù Hợp Với Giáo Pháp (thứ 2) *Dutiyaanudhammasutta*
 
 Tại Sāvatthī.
 
 "Này các Tỷ kheo, khi một Tỷ kheo thực hành phù hợp với giáo pháp, đây là những gì phù hợp với giáo pháp. Họ nên sống quan sát sự vô thường trong sắc, thọ, tưởng, hành, và thức. ... Họ được giải thoát khỏi khổ đau, Ta nói vậy."
 
 <!--pg-->
-### N 22.41 Phù Hợp Với Giáo Pháp (thứ 3) *Tatiyaanudhammasutta*
+### SN 22.41 Phù Hợp Với Giáo Pháp (thứ 3) *Tatiyaanudhammasutta*
 
 Tại Sāvatthī.
 
 "Này các Tỷ kheo, khi một Tỷ kheo thực hành phù hợp với giáo pháp, đây là những gì phù hợp với giáo pháp. Họ nên sống quan sát sự khổ trong sắc, thọ, tưởng, hành, và thức. ... Họ được giải thoát khỏi khổ đau, Ta nói vậy."
 
 <!--pg-->
-### N 22.42 Phù Hợp Với Giáo Pháp (thứ 4) *Catutthaanudhammasutta*
+### SN 22.42 Phù Hợp Với Giáo Pháp (thứ 4) *Catutthaanudhammasutta*
 
 Tại Sāvatthī.
 
@@ -791,7 +791,7 @@ Họ được giải thoát khỏi khổ đau, Ta nói vậy."
 <!--pg-->
 ## Phẩm Hãy Tự Mình Là Hòn Đảo
 
-### N 22.43 Hãy Tự Mình Là Hòn Đảo *Attadīpasutta*
+### SN 22.43 Hãy Tự Mình Là Hòn Đảo *Attadīpasutta*
 
 Tại Sāvatthī.
 
@@ -820,7 +820,7 @@ hành...
 thức—sự hoại diệt, phai nhạt, và chấm dứt của nó—và các ông thấy một cách chân thật với chánh kiến rằng tất cả thức, dù là quá khứ hay hiện tại, đều là vô thường, khổ, và có thể hoại diệt. Khi những điều này được từ bỏ, không còn lo âu. Không có lo âu, các ông sống hạnh phúc. Một Tỷ kheo sống hạnh phúc được cho là đã được dập tắt về phương diện đó."
 
 <!--pg-->
-### N 22.44 Pháp Hành *Paṭipadāsutta*
+### SN 22.44 Pháp Hành *Paṭipadāsutta*
 
 Tại Sāvatthī.
 
@@ -855,7 +855,7 @@ Họ không coi thức là tự ngã, tự ngã có thức, thức trong tự ng
 Đây được gọi là pháp hành dẫn đến sự chấm dứt của thân kiến. Và đó là lý do tại sao nó được gọi là một cách nhìn nhận sự vật dẫn đến sự chấm dứt của khổ đau."
 
 <!--pg-->
-### N 22.45 Vô Thường *Aniccasutta*
+### SN 22.45 Vô Thường *Aniccasutta*
 
 Tại Sāvatthī.
 
@@ -876,7 +876,7 @@ Nếu tâm của một Tỷ kheo ly tham đối với sắc giới, thọ giới
 Họ hiểu: 'Tái sinh đã chấm dứt, đời sống phạm hạnh đã hoàn thành, những gì cần làm đã làm xong, không còn gì nữa cho nơi này.'"
 
 <!--pg-->
-### N 22.46 Vô Thường (thứ 2) *Dutiyaaniccasutta*
+### SN 22.46 Vô Thường (thứ 2) *Dutiyaaniccasutta*
 
 Tại Sāvatthī.
 
@@ -897,7 +897,7 @@ Thấy một cách chân thật với chánh kiến như thế này, họ không
 Họ hiểu: 'Tái sinh đã chấm dứt, đời sống phạm hạnh đã hoàn thành, những gì cần làm đã làm xong, không còn gì nữa cho nơi này.'"
 
 <!--pg-->
-### N 22.47 Các Cách Nhìn Nhận *Samanupassanāsutta*
+### SN 22.47 Các Cách Nhìn Nhận *Samanupassanāsutta*
 
 Tại Sāvatthī.
 
@@ -912,7 +912,7 @@ Vì vậy, họ không thoát khỏi cách nhìn nhận này và ngã mạn 'tô
 Năm căn vẫn ở nguyên vị trí của chúng. Nhưng một vị Thánh đệ tử có nghe nhiều từ bỏ vô minh về chúng và làm phát sinh tri kiến. Với sự phai nhạt của vô minh và sự phát sinh của tri kiến, họ không nghĩ 'tôi là', 'tôi là cái này', 'tôi sẽ là', 'tôi sẽ không là', 'tôi sẽ có sắc', 'tôi sẽ không có sắc', 'tôi sẽ có tưởng', 'tôi sẽ không có tưởng', 'tôi sẽ không có tưởng cũng không không có tưởng'."
 
 <!--pg-->
-### N 22.48 Các Uẩn *Khandhasutta*
+### SN 22.48 Các Uẩn *Khandhasutta*
 
 Tại Sāvatthī.
 
@@ -947,7 +947,7 @@ Bất kỳ loại thức nào—quá khứ, tương lai, hay hiện tại; bên 
 Đây được gọi là năm thủ uẩn."
 
 <!--pg-->
-### N 22.49 Với Soṇa *Soṇasutta*
+### SN 22.49 Với Soṇa *Soṇasutta*
 
 Như vầy tôi nghe. Một thời Thế Tôn trú gần Rājagaha, trong Trúc Lâm, nơi nuôi sóc.
 
@@ -990,7 +990,7 @@ Thấy vậy, một vị Thánh đệ tử có nghe nhiều trở nên nhàm ch�
 Họ hiểu: 'Tái sinh đã chấm dứt, đời sống phạm hạnh đã hoàn thành, những gì cần làm đã làm xong, không còn gì nữa cho nơi này.'"
 
 <!--pg-->
-### N 22.50 Với Soṇa (thứ 2) *Dutiyasoṇasutta*
+### SN 22.50 Với Soṇa (thứ 2) *Dutiyasoṇasutta*
 
 Như vầy tôi nghe. Một thời Thế Tôn trú gần Rājagaha, trong Trúc Lâm, nơi nuôi sóc.
 
@@ -1001,7 +1001,7 @@ Lúc bấy giờ, gia chủ Soṇa đi đến chỗ Thế Tôn, đảnh lễ, v�
 Có những sa-môn và bà-la-môn hiểu sắc, sự sinh khởi của nó, sự chấm dứt của nó, và pháp hành dẫn đến sự chấm dứt của nó. Họ hiểu thọ... tưởng... hành... thức, sự sinh khởi của nó, sự chấm dứt của nó, và pháp hành dẫn đến sự chấm dứt của nó. Ta coi họ là những sa-môn và bà-la-môn chân chính. Những vị tôn giả đó nhận ra mục tiêu của đời sống sa-môn hay bà-la-môn, và sống sau khi đã nhận ra nó bằng chính tuệ giác của mình."
 
 <!--pg-->
-### N 22.51 Sự Chấm Dứt Của Ưa Thích *Nandikkhayasutta*
+### SN 22.51 Sự Chấm Dứt Của Ưa Thích *Nandikkhayasutta*
 
 Tại Sāvatthī.
 
@@ -1016,7 +1016,7 @@ Hành...
 Thức thực sự là vô thường. Một Tỷ kheo thấy rằng nó là vô thường: đó là chánh kiến của họ. Thấy đúng, họ trở nên nhàm chán. Khi sự ưa thích chấm dứt, tham ái chấm dứt. Khi tham ái chấm dứt, sự ưa thích chấm dứt. Khi sự ưa thích và tham ái chấm dứt, tâm được giải thoát, và được gọi là giải thoát tốt đẹp."
 
 <!--pg-->
-### N 22.52 Sự Chấm Dứt Của Ưa Thích (thứ 2) *Dutiyanandikkhayasutta*
+### SN 22.52 Sự Chấm Dứt Của Ưa Thích (thứ 2) *Dutiyanandikkhayasutta*
 
 Tại Sāvatthī.
 
@@ -1035,7 +1035,7 @@ thức. Hãy thấy một cách chân thật sự vô thường của thức. Kh
 <!--pg-->
 ## Phẩm Dính Mắc
 
-### N 22.53 Dính Mắc *Upayasutta*
+### SN 22.53 Dính Mắc *Upayasutta*
 
 Tại Sāvatthī.
 
@@ -1066,7 +1066,7 @@ thức giới, sự hỗ trợ bị cắt đứt, và không có nền tảng ch
 Họ hiểu: 'Tái sinh đã chấm dứt, đời sống phạm hạnh đã hoàn thành, những gì cần làm đã làm xong, không còn gì nữa cho nơi này.'"
 
 <!--pg-->
-### N 22.54 Hạt Giống *Bījasutta*
+### SN 22.54 Hạt Giống *Bījasutta*
 
 Tại Sāvatthī.
 
@@ -1107,7 +1107,7 @@ thức giới, sự hỗ trợ bị cắt đứt, và không có nền tảng ch
 Họ hiểu: 'Tái sinh đã chấm dứt... không còn gì nữa cho nơi này.'"
 
 <!--pg-->
-### N 22.55 Lời Cảm Hứng *Udānasutta*
+### SN 22.55 Lời Cảm Hứng *Udānasutta*
 
 Tại Sāvatthī.
 
@@ -1178,7 +1178,7 @@ Họ hiểu: 'Tái sinh đã chấm dứt... không còn gì nữa cho nơi này
 Sự chấm dứt của các lậu hoặc là dành cho người biết và thấy điều này."
 
 <!--pg-->
-### N 22.56 Các Vòng Của Thủ Uẩn *Upādānaparipavattasutta*
+### SN 22.56 Các Vòng Của Thủ Uẩn *Upādānaparipavattasutta*
 
 Tại Sāvatthī.
 
@@ -1209,7 +1209,7 @@ Bất cứ sa-môn và bà-la-môn nào đã hiểu biết trực tiếp thức 
 Những sa-môn và bà-la-môn nào đã hiểu biết trực tiếp thức theo cách này—và sự sinh khởi của nó, sự chấm dứt của nó, và pháp hành dẫn đến sự chấm dứt của nó—và do nhàm chán, ly tham, và đoạn diệt đối với thức, được giải thoát bằng cách không chấp thủ: họ được giải thoát tốt đẹp. Những người được giải thoát tốt đẹp là những bậc toàn thiện. Đối với những bậc toàn thiện, không có vòng luân hồi nào được tìm thấy."
 
 <!--pg-->
-### N 22.57 Bảy Trường Hợp *Sattaṭṭhānasutta*
+### SN 22.57 Bảy Trường Hợp *Sattaṭṭhānasutta*
 
 Tại Sāvatthī.
 
@@ -1246,7 +1246,7 @@ Và làm thế nào một Tỷ kheo xem xét theo ba cách? Đó là khi một T
 Trong giáo pháp và sự tu tập này, một Tỷ kheo thuần thục trong bảy trường hợp và xem xét theo ba cách được gọi là bậc toàn thiện, thành tựu, bậc tối thượng."
 
 <!--pg-->
-### N 22.58 Bậc Chánh Đẳng Chánh Giác *Sammāsambuddhasutta*
+### SN 22.58 Bậc Chánh Đẳng Chánh Giác *Sammāsambuddhasutta*
 
 Tại Sāvatthī.
 
@@ -1273,7 +1273,7 @@ Vậy thì, sự khác biệt giữa một Bậc Như Lai, một bậc A-la-hán
 Đây là sự khác biệt giữa một Bậc Như Lai, một bậc A-la-hán, một bậc Chánh Đẳng Chánh Giác, và một Tỷ kheo được giải thoát bằng trí tuệ."
 
 <!--pg-->
-### N 22.59 Đặc Tính Vô Ngã *Anattalakkhaṇasutta*
+### SN 22.59 Đặc Tính Vô Ngã *Anattalakkhaṇasutta*
 
 Một thời Thế Tôn trú gần Varanasi, trong vườn nai ở Isipatana. Ở đó, Thế Tôn nói với nhóm năm vị Tỷ kheo:
 
@@ -1338,7 +1338,7 @@ Họ hiểu: 'Tái sinh đã chấm dứt, đời sống phạm hạnh đã hoà
 Đó là những gì Thế Tôn đã nói. Hài lòng, nhóm năm vị Tỷ kheo hoan hỷ những gì Thế Tôn đã nói. Và trong khi bài kinh này đang được nói, tâm của nhóm năm vị Tỷ kheo đã được giải thoát khỏi các lậu hoặc bằng cách không chấp thủ.
 
 <!--pg-->
-### N 22.60 Với Mahāli *Mahālisutta*
+### SN 22.60 Với Mahāli *Mahālisutta*
 
 Như vầy tôi nghe. Một thời Thế Tôn trú gần Vesālī, tại Đại Lâm, trong giảng đường có mái nhọn.
 
@@ -1373,7 +1373,7 @@ hành...
 thức hoàn toàn là lạc thú—thấm đẫm và ngập chìm trong lạc thú và không thấm đẫm trong đau khổ—chúng sanh sẽ không nhàm chán với nó. Nhưng vì thức là đau khổ—thấm đẫm và ngập chìm trong đau khổ và không thấm đẫm trong lạc thú—chúng sanh nhàm chán với nó. Do nhàm chán, dục tham phai nhạt. Khi dục tham phai nhạt, họ được thanh tịnh. Đây là một nguyên nhân và lý do cho sự thanh tịnh của chúng sanh. Đây là cách chúng sanh được thanh tịnh có nguyên nhân và lý do."
 
 <!--pg-->
-### N 22.61 Bốc Cháy *Ādittasutta*
+### SN 22.61 Bốc Cháy *Ādittasutta*
 
 Tại Sāvatthī.
 
@@ -1384,7 +1384,7 @@ Thấy vậy, một vị Thánh đệ tử có nghe nhiều trở nên nhàm ch�
 Họ hiểu: 'Tái sinh đã chấm dứt, đời sống phạm hạnh đã hoàn thành, những gì cần làm đã làm xong, không còn gì nữa cho nơi này.'"
 
 <!--pg-->
-### N 22.62 Phạm Vi Ngôn Ngữ *Niruttipathasutta*
+### SN 22.62 Phạm Vi Ngôn Ngữ *Niruttipathasutta*
 
 Tại Sāvatthī.
 
@@ -1425,7 +1425,7 @@ Ngay cả những du sĩ trong quá khứ, Vassa và Bhañña của Ukkalā, nh�
 <!--pg-->
 ## Phẩm Các Bậc A-la-hán
 
-### N 22.63 Khi Ông Chấp Thủ *Upādiyamānasutta*
+### SN 22.63 Khi Ông Chấp Thủ *Upādiyamānasutta*
 
 Như vầy tôi nghe. Một thời Thế Tôn trú gần Sāvatthī trong vườn Jeta, tu viện của Anāthapiṇḍika.
 
@@ -1454,7 +1454,7 @@ Lúc bấy giờ, vị Tỷ kheo đó, sống một mình, ẩn dật, siêng n�
 Ông hiểu: "Tái sinh đã chấm dứt; đời sống phạm hạnh đã hoàn thành; những gì cần làm đã làm xong; không còn gì nữa cho nơi này." Và vị Tỷ kheo đó đã trở thành một trong những bậc A-la-hán.
 
 <!--pg-->
-### N 22.64 Tưởng Tượng *Maññamānasutta*
+### SN 22.64 Tưởng Tượng *Maññamānasutta*
 
 Tại Sāvatthī.
 
@@ -1480,7 +1480,7 @@ Khi ông tưởng tượng sắc, ông bị Ma vương trói buộc. Không tư�
 Và vị Tỷ kheo đó đã trở thành một trong những bậc A-la-hán.
 
 <!--pg-->
-### N 22.65 Khi Ông Hưởng Lạc *Abhinandamānasutta*
+### SN 22.65 Khi Ông Hưởng Lạc *Abhinandamānasutta*
 
 Tại Sāvatthī.
 
@@ -1506,7 +1506,7 @@ Khi ông hưởng lạc trong sắc, ông bị Ma vương trói buộc. Không h
 Và vị Tỷ kheo đó đã trở thành một trong những bậc A-la-hán.
 
 <!--pg-->
-### N 22.66 Vô Thường *Aniccasutta*
+### SN 22.66 Vô Thường *Aniccasutta*
 
 Tại Sāvatthī.
 
@@ -1548,7 +1548,7 @@ Thức là vô thường; ông nên từ bỏ dục vọng đối với nó.
 Và vị Tỷ kheo đó đã trở thành một trong những bậc A-la-hán.
 
 <!--pg-->
-### N 22.67 Khổ *Dukkhasutta*
+### SN 22.67 Khổ *Dukkhasutta*
 
 Tại Sāvatthī.
 
@@ -1590,7 +1590,7 @@ Thức là khổ; ông nên từ bỏ dục vọng đối với nó.
 Và vị Tỷ kheo đó đã trở thành một trong những bậc A-la-hán.
 
 <!--pg-->
-### N 22.68 Vô Ngã *Anattasutta*
+### SN 22.68 Vô Ngã *Anattasutta*
 
 Tại Sāvatthī.
 
@@ -1632,7 +1632,7 @@ Thức là vô ngã; ông nên từ bỏ dục vọng đối với nó.
 Và vị Tỷ kheo đó đã trở thành một trong những bậc A-la-hán.
 
 <!--pg-->
-### N 22.69 Không Thuộc Về Tự Ngã *Anattaniyasutta*
+### SN 22.69 Không Thuộc Về Tự Ngã *Anattaniyasutta*
 
 Tại Sāvatthī.
 
@@ -1674,7 +1674,7 @@ Thức không thuộc về tự ngã; ông nên từ bỏ dục vọng đối v�
 Và vị Tỷ kheo đó đã trở thành một trong những bậc A-la-hán.
 
 <!--pg-->
-### N 22.70 Chắc Chắn Gây Kích Thích *Rajanīyasaṇṭhitasutta*
+### SN 22.70 Chắc Chắn Gây Kích Thích *Rajanīyasaṇṭhitasutta*
 
 Tại Sāvatthī.
 
@@ -1716,7 +1716,7 @@ Thức bị mắc kẹt trong những gì gây kích thích; ông nên từ bỏ
 Và vị Tỷ kheo đó đã trở thành một trong những bậc A-la-hán.
 
 <!--pg-->
-### N 22.71 Với Rādha *Rādhasutta*
+### SN 22.71 Với Rādha *Rādhasutta*
 
 Tại Sāvatthī.
 
@@ -1731,7 +1731,7 @@ Một người thấy một cách chân thật bất kỳ loại thọ... tưở
 Và Tôn giả Rādha đã trở thành một trong những bậc A-la-hán.
 
 <!--pg-->
-### N 22.72 Với Surādha *Surādhasutta*
+### SN 22.72 Với Surādha *Surādhasutta*
 
 Tại Sāvatthī.
 
@@ -1751,28 +1751,28 @@ Và Tôn giả Surādha đã trở thành một trong những bậc A-la-hán.
 <!--pg-->
 ## Phẩm Ngứa Ngáy
 
-### N 22.73 Vị Ngọt *Assādasutta*
+### SN 22.73 Vị Ngọt *Assādasutta*
 
 Tại Sāvatthī.
 
 "Này các Tỷ kheo, một kẻ phàm phu ít nghe không thực sự hiểu vị ngọt, sự nguy hại, và lối thoát đối với sắc, thọ, tưởng, hành, và thức. Một vị Thánh đệ tử có nghe nhiều thực sự hiểu vị ngọt, sự nguy hại, và lối thoát đối với sắc, thọ, tưởng, hành, và thức."
 
 <!--pg-->
-### N 22.74 Nguồn Gốc *Samudayasutta*
+### SN 22.74 Nguồn Gốc *Samudayasutta*
 
 Tại Sāvatthī.
 
 "Này các Tỷ kheo, một kẻ phàm phu ít nghe không thực sự hiểu nguồn gốc, sự chấm dứt, vị ngọt, sự nguy hại, và lối thoát đối với sắc, thọ, tưởng, hành, và thức. Một vị Thánh đệ tử có nghe nhiều thực sự hiểu nguồn gốc, sự chấm dứt, vị ngọt, sự nguy hại, và lối thoát đối với sắc, thọ, tưởng, hành, và thức."
 
 <!--pg-->
-### N 22.75 Nguồn Gốc (thứ 2) *Dutiyasamudayasutta*
+### SN 22.75 Nguồn Gốc (thứ 2) *Dutiyasamudayasutta*
 
 Tại Sāvatthī.
 
 "Này các Tỷ kheo, một vị Thánh đệ tử có nghe nhiều thực sự hiểu nguồn gốc, sự chấm dứt, vị ngọt, sự nguy hại, và lối thoát đối với sắc, thọ, tưởng, hành, và thức."
 
 <!--pg-->
-### N 22.76 Các Bậc A-la-hán *Arahantasutta*
+### SN 22.76 Các Bậc A-la-hán *Arahantasutta*
 
 Tại Sāvatthī.
 
@@ -1833,7 +1833,7 @@ Họ hiểu: 'Tái sinh đã chấm dứt, đời sống phạm hạnh đã hoà
 > 'Các bậc giác ngộ là tối thượng trên thế gian!'"
 
 <!--pg-->
-### N 22.77 Các Bậc A-la-hán (thứ 2) *Dutiyaarahantasutta*
+### SN 22.77 Các Bậc A-la-hán (thứ 2) *Dutiyaarahantasutta*
 
 Tại Sāvatthī.
 
@@ -1846,7 +1846,7 @@ Họ hiểu: 'Tái sinh đã chấm dứt, đời sống phạm hạnh đã hoà
 Cho đến nơi nào có nơi ở của chúng sanh, ngay cả cho đến đỉnh cao của sự tồn tại, các bậc A-la-hán là bậc đứng đầu và tốt nhất."
 
 <!--pg-->
-### N 22.78 Sư Tử *Sīhasutta*
+### SN 22.78 Sư Tử *Sīhasutta*
 
 Tại Sāvatthī.
 
@@ -1879,7 +1879,7 @@ Bây giờ, có những vị trời sống lâu, xinh đẹp, và rất hạnh p
 > của bậc A-la-hán, tự do và không bị ảnh hưởng."
 
 <!--pg-->
-### N 22.79 Ngứa Ngáy *Khajjanīyasutta*
+### SN 22.79 Ngứa Ngáy *Khajjanīyasutta*
 
 Tại Sāvatthī.
 
@@ -1963,7 +1963,7 @@ Khi tâm của một Tỷ kheo được giải thoát như vậy, các vị tr�
 > nền tảng của sự nhập định của ngài.'"
 
 <!--pg-->
-### N 22.80 Những Người Ăn Xin *Piṇḍolyasutta*
+### SN 22.80 Những Người Ăn Xin *Piṇḍolyasutta*
 
 Một thời Thế Tôn trú trong xứ của dòng họ Thích-ca, gần Kapilavatthu trong Tu viện Cây Đa.
 
@@ -2004,7 +2004,7 @@ Các ông nghĩ sao, các Tỷ kheo? Sắc là thường hằng hay vô thườn
 Thấy vậy... Họ hiểu: '... không còn gì nữa cho nơi này.'"
 
 <!--pg-->
-### N 22.81 Tại Pārileyya *Pālileyyasutta*
+### SN 22.81 Tại Pārileyya *Pālileyyasutta*
 
 Một thời Thế Tôn trú gần Kosambī, trong Tu viện của Ghosita.
 
@@ -2043,7 +2043,7 @@ Có lẽ họ không coi sắc hay thọ hay tưởng hay hành hay thức là t
 Có lẽ họ không coi sắc hay thọ hay tưởng hay hành hay thức là tự ngã. Họ cũng không có quan điểm như vậy: 'Tự ngã và vũ trụ là một và giống nhau. Sau khi chết, tôi sẽ là cái đó, thường hằng, vĩnh cửu, bất diệt, và không thể hoại diệt.' Họ cũng không có quan điểm như vậy: 'Tôi có thể không là, và nó có thể không là của tôi. Tôi sẽ không là, và nó sẽ không là của tôi.' Tuy nhiên, họ có những nghi ngờ và không chắc chắn. Họ không quyết định về giáo pháp chân chính. Sự nghi ngờ và không chắc chắn đó, sự không quyết định về giáo pháp chân chính, chỉ là một hiện tượng do duyên sinh. Và nguồn gốc của hiện tượng do duyên sinh đó là gì? Khi một kẻ phàm phu ít nghe bị tác động bởi những cảm thọ sinh ra từ sự tiếp xúc với vô minh, ái dục khởi lên. Hiện tượng do duyên sinh đó được sinh ra từ đó. Vì vậy, hiện tượng do duyên sinh đó là vô thường, do duyên sinh, và có nguồn gốc phụ thuộc. Và ái dục đó, cảm thọ đó, sự tiếp xúc đó, và vô minh đó cũng là vô thường, do duyên sinh, và có nguồn gốc phụ thuộc. Đó là cách các ông nên biết và thấy để chấm dứt các lậu hoặc ngay trong đời này."
 
 <!--pg-->
-### N 22.82 Đêm Trăng Rằm *Puṇṇamasutta*
+### SN 22.82 Đêm Trăng Rằm *Puṇṇamasutta*
 
 Một thời Thế Tôn trú gần Sāvatthī trong nhà sàn của mẹ Migāra ở Tu viện phía Đông, cùng với một Tăng đoàn lớn các Tỷ kheo. Lúc bấy giờ, đó là ngày trai giới—ngày rằm tháng mười lăm—và Thế Tôn đang ngồi ngoài trời được Tăng đoàn các Tỷ kheo vây quanh.
 
@@ -2148,7 +2148,7 @@ Các ông nghĩ sao, các Tỷ kheo? Sắc là thường hằng hay vô thườn
 <!--pg-->
 ## Phẩm Các Vị Trưởng Lão
 
-### N 22.83 Với Ānanda *Ānandasutta*
+### SN 22.83 Với Ānanda *Ānandasutta*
 
 Tại Sāvatthī.
 
@@ -2173,7 +2173,7 @@ Giả sử có một người phụ nữ hoặc đàn ông trẻ, thanh xuân, v
 Thưa các Tôn giả, vị tôn giả tên là Puṇṇa con của Mantāṇī đã rất hữu ích cho tôi khi tôi mới xuất gia. Ngài đã cho tôi lời khuyên này. Và bây giờ khi tôi đã nghe giáo pháp này từ Tôn giả Puṇṇa con của Mantāṇī, tôi đã hiểu thấu giáo pháp."
 
 <!--pg-->
-### N 22.84 Với Tissa *Tissasutta*
+### SN 22.84 Với Tissa *Tissasutta*
 
 Tại Sāvatthī.
 
@@ -2248,7 +2248,7 @@ Hãy vui lên, Tissa, hãy vui lên! Ta ở đây để khuyên bảo ông, đ�
 Đó là những gì Thế Tôn đã nói. Hài lòng, Tôn giả Tissa hoan hỷ những gì Thế Tôn đã nói.
 
 <!--pg-->
-### N 22.85 Với Yamaka *Yamakasutta*
+### SN 22.85 Với Yamaka *Yamakasutta*
 
 Một thời Tôn giả Xá-lợi-phất trú gần Sāvatthī trong vườn Jeta, tu viện của Anāthapiṇḍika.
 
@@ -2359,7 +2359,7 @@ Không bị thu hút bởi sắc, họ không nắm giữ nó, và cam kết v�
 "Thưa Tôn giả Xá-lợi-phất, đây là cách khi có những vị tôn giả như vậy làm bạn đồng tu để khuyên bảo và chỉ dạy vì lòng tốt và từ bi. Và sau khi nghe giáo pháp này của Tôn giả Xá-lợi-phất, tâm tôi đã được giải thoát khỏi các lậu hoặc bằng cách không chấp thủ."
 
 <!--pg-->
-### N 22.86 Với Anurādha *Anurādhasutta*
+### SN 22.86 Với Anurādha *Anurādhasutta*
 
 Một thời Thế Tôn trú gần Vesālī, tại Đại Lâm, trong giảng đường có mái nhọn. Lúc bấy giờ, Tôn giả Anurādha đang ở không xa Thế Tôn trong một túp lều hoang dã. Lúc bấy giờ, một số du sĩ của các tôn giáo khác đến chỗ Tôn giả Anurādha và chào hỏi ngài. Sau khi chào hỏi và trò chuyện lịch sự xong, họ ngồi xuống một bên và nói với ngài:
 
@@ -2428,7 +2428,7 @@ Lúc bấy giờ, Tôn giả Anurādha đi đến chỗ Thế Tôn, đảnh lễ
 "Tốt lắm, tốt lắm, Anurādha! Trong quá khứ, cũng như hôm nay, những gì Ta mô tả là khổ và sự chấm dứt của khổ."
 
 <!--pg-->
-### N 22.87 Với Vakkali *Vakkalisutta*
+### SN 22.87 Với Vakkali *Vakkalisutta*
 
 Một thời Thế Tôn trú gần Rājagaha, trong Trúc Lâm, nơi nuôi sóc.
 
@@ -2543,7 +2543,7 @@ Thế Tôn nói với các Tỷ kheo: "Này các Tỷ kheo, các ông có thấy
 "Đó là Ma vương Ác ma đang tìm kiếm thức của Vakkali, tự hỏi: 'Thức của Vakkali được thiết lập ở đâu?' Nhưng vì thức của ngài không được thiết lập, Vakkali đã được dập tắt."
 
 <!--pg-->
-### N 22.88 Với Assaji *Assajisutta*
+### SN 22.88 Với Assaji *Assajisutta*
 
 Một thời Thế Tôn trú gần Rājagaha, trong Trúc Lâm, nơi nuôi sóc. Lúc bấy giờ, Tôn giả Assaji đang ở trong một tu viện do một người Kassapa xây dựng, và ngài bị bệnh, đau đớn, bệnh nặng. Lúc bấy giờ, ngài nói với những người chăm sóc mình:
 
@@ -2588,7 +2588,7 @@ Giả sử một ngọn đèn dầu phụ thuộc vào dầu và bấc để ch�
 Cũng vậy, cảm nhận sự kết thúc của thân thể đang đến gần, họ hiểu: 'Tôi cảm nhận sự kết thúc của thân thể đang đến gần.' Cảm nhận sự kết thúc của cuộc sống đang đến gần, họ hiểu: 'Tôi cảm nhận sự kết thúc của cuộc sống đang đến gần.' Họ hiểu: 'Khi thân tôi hoại diệt và cuộc sống của tôi kết thúc, mọi thứ được cảm nhận, không còn được ưa thích nữa, sẽ trở nên mát mẻ ngay tại đây.'"
 
 <!--pg-->
-### N 22.89 Với Khemaka *Khemakasutta*
+### SN 22.89 Với Khemaka *Khemakasutta*
 
 Một thời, một số Tỷ kheo trưởng lão đang ở gần Kosambī, trong Tu viện của Ghosita. Lúc bấy giờ, Tôn giả Khemaka đang ở trong Tu viện Cây Táo Ta, và ngài bị bệnh, đau đớn, bệnh nặng.
 
@@ -2651,7 +2651,7 @@ Khi ngài nói điều này, các Tỷ kheo trưởng lão nói với Tôn giả
 Đó là những gì Tôn giả Khemaka đã nói. Hài lòng, các Tỷ kheo trưởng lão hoan hỷ những gì Tôn giả Khemaka đã nói. Và trong khi bài kinh này đang được nói, tâm của sáu mươi Tỷ kheo trưởng lão và của Tôn giả Khemaka đã được giải thoát khỏi các lậu hoặc bằng cách không chấp thủ.
 
 <!--pg-->
-### N 22.90 Với Channa *Channasutta*
+### SN 22.90 Với Channa *Channasutta*
 
 Một thời, một số Tỷ kheo trưởng lão đang ở gần Varanasi, trong vườn nai ở Isipatana.
 
@@ -2698,7 +2698,7 @@ Khi vô minh phai nhạt và chấm dứt không còn sót lại, hành chấm d
 "Thưa Tôn giả Ānanda, đây là cách khi có những vị tôn giả như vậy làm bạn đồng tu để khuyên bảo và chỉ dạy vì lòng tốt và từ bi. Và bây giờ khi tôi đã nghe giáo pháp này từ Tôn giả Ānanda, tôi đã hiểu thấu giáo pháp."
 
 <!--pg-->
-### N 22.91 Rāhula *Rāhulasutta*
+### SN 22.91 Rāhula *Rāhulasutta*
 
 Tại Sāvatthī.
 
@@ -2713,7 +2713,7 @@ Một người thấy một cách chân thật bất kỳ loại thọ... tưở
 Đó là cách để biết và thấy để không có sự tạo tác 'tôi', tạo tác 'của tôi', hay ngầm hướng về về ngã mạn đối với thân có thức này và tất cả các kích thích bên ngoài."
 
 <!--pg-->
-### N 22.92 Rāhula (thứ 2) *Dutiyarāhulasutta*
+### SN 22.92 Rāhula (thứ 2) *Dutiyarāhulasutta*
 
 Tại Sāvatthī.
 
@@ -2730,7 +2730,7 @@ Một người thấy một cách chân thật bất kỳ loại thọ... tưở
 <!--pg-->
 ## Phẩm Hoa
 
-### N 22.93 Dòng Sông *Nadīsutta*
+### SN 22.93 Dòng Sông *Nadīsutta*
 
 Tại Sāvatthī.
 
@@ -2751,7 +2751,7 @@ Các ông nghĩ sao, các Tỷ kheo? Sắc là thường hằng hay vô thườn
 "Vậy các ông nên thấy một cách chân thật... Thấy vậy... Họ hiểu: '... không còn gì nữa cho nơi này.'"
 
 <!--pg-->
-### N 22.94 Hoa *Pupphasutta*
+### SN 22.94 Hoa *Pupphasutta*
 
 Tại Sāvatthī.
 
@@ -2792,7 +2792,7 @@ Như vậy, Ta có thể làm gì với một người phàm phu ngu dốt, mù 
 Giả sử có một bông súng xanh, hoặc một bông sen hồng hay trắng. Mặc dù nó nảy mầm và lớn lên trong nước, nó sẽ vươn lên trên mặt nước và đứng vững mà không bị nước bám vào. Cũng vậy, mặc dù Ta được sinh ra và lớn lên trong thế gian, Ta sống sau khi đã làm chủ thế gian, không bị thế gian làm ô uế."
 
 <!--pg-->
-### N 22.95 Cục Bọt *Pheṇapiṇḍūpamasutta*
+### SN 22.95 Cục Bọt *Pheṇapiṇḍūpamasutta*
 
 Một thời Thế Tôn trú gần Ayojjhā trên bờ sông Hằng. Ở đó, Thế Tôn nói với các Tỷ kheo:
 
@@ -2858,7 +2858,7 @@ Thấy vậy, một vị Thánh đệ tử có nghe nhiều trở nên nhàm ch�
 > khao khát trạng thái không qua đi."
 
 <!--pg-->
-### N 22.96 Cục Phân Bò *Gomayapiṇḍasutta*
+### SN 22.96 Cục Phân Bò *Gomayapiṇḍasutta*
 
 Tại Sāvatthī.
 
@@ -2879,7 +2879,7 @@ Trong số 84.000 thành phố đó, Ta chỉ ở một, kinh đô Kusāvatī. T
 Và vì vậy, tất cả những hiện tượng do duyên sinh đó đã qua, đã chấm dứt, và đã hoại diệt. Các điều kiện thật vô thường, các điều kiện thật không ổn định, các điều kiện thật không đáng tin cậy. Điều này là quá đủ để các ông trở nên nhàm chán, ly tham, và giải thoát đối với tất cả các điều kiện."
 
 <!--pg-->
-### N 22.97 Móng Tay *Nakhasikhāsutta*
+### SN 22.97 Móng Tay *Nakhasikhāsutta*
 
 Tại Sāvatthī.
 
@@ -2912,7 +2912,7 @@ thức nào là thường hằng, vĩnh cửu, bất diệt, không thể hoại
 "Vậy ông nên thấy một cách chân thật... Thấy vậy... Họ hiểu: '... không còn gì nữa cho nơi này.'"
 
 <!--pg-->
-### N 22.98 Phiên Bản Đơn Giản *Suddhikasutta*
+### SN 22.98 Phiên Bản Đơn Giản *Suddhikasutta*
 
 Tại Sāvatthī.
 
@@ -2923,7 +2923,7 @@ Ngồi xuống một bên, vị Tỷ kheo đó bạch Thế Tôn:
 "Này Tỷ kheo, không có sắc nào là thường hằng, vĩnh cửu, bất diệt, không thể hoại diệt, và sẽ tồn tại mãi mãi. Không có thọ... tưởng... hành... thức nào là thường hằng, vĩnh cửu, bất diệt, không thể hoại diệt, và sẽ tồn tại mãi mãi."
 
 <!--pg-->
-### N 22.99 Dây Xích *Gaddulabaddhasutta*
+### SN 22.99 Dây Xích *Gaddulabaddhasutta*
 
 Tại Sāvatthī.
 
@@ -2942,7 +2942,7 @@ Cũng vậy, hãy lấy một kẻ phàm phu ít nghe, chưa từng thấy các 
 Một vị Thánh đệ tử có nghe nhiều đã thấy các bậc Thánh, và thuần thục và tu tập theo giáo pháp của các bậc Thánh. Họ đã thấy các bậc chân nhân, và thuần thục và tu tập theo giáo pháp của các bậc chân nhân. Họ không coi sắc... thọ... tưởng... hành... hay thức là tự ngã, tự ngã có thức, thức trong tự ngã, hay tự ngã trong thức. Họ không tiếp tục chạy và vòng quanh sắc, thọ, tưởng, hành, và thức. Bằng cách không làm như vậy, họ được giải thoát khỏi sắc, thọ, tưởng, hành, và thức. Họ được giải thoát khỏi tái sinh, già, và chết, khỏi sầu, bi, khổ, ưu, và não. Họ được giải thoát khỏi khổ đau, Ta nói vậy."
 
 <!--pg-->
-### N 22.100 Dây Xích (thứ 2) *Dutiyagaddulabaddhasutta*
+### SN 22.100 Dây Xích (thứ 2) *Dutiyagaddulabaddhasutta*
 
 Tại Sāvatthī.
 
@@ -2977,7 +2977,7 @@ Các con nghĩ sao, này các Tỷ kheo? Sắc là thường hay vô thường?"
 "Vì vậy, các con nên thấy một cách chân thật... Thấy được điều này... Họ hiểu rằng: '... không còn gì phải làm ở đây nữa.'"
 
 <!--pg-->
-### N 22.101 Kinh Cái Rìu *Vāsijaṭasutta*
+### SN 22.101 Kinh Cái Rìu *Vāsijaṭasutta*
 
 Tại Sāvatthī.
 
@@ -3000,7 +3000,7 @@ Giả sử một người thợ mộc hay người học việc của ông ta th
 Cũng vậy, khi một Tỷ kheo chuyên tâm tu tập, vị ấy không biết các lậu hoặc đã mòn đi bao nhiêu trong hôm nay, bao nhiêu hôm qua, và bao nhiêu trước đó. Vị ấy chỉ biết chúng đã mòn đi. Giả sử có một con tàu đi biển được buộc lại bằng dây thừng. Trong sáu tháng, chúng bị mục nát trong nước. Sau đó, vào mùa lạnh, nó được kéo lên bờ, nơi những sợi dây thừng bị gió và nắng làm cho hư hỏng. Khi những đám mây gió mùa làm ướt nó bằng mưa, những sợi dây thừng sẽ dễ dàng đứt và mục rữa. Cũng vậy, khi một Tỷ kheo chuyên tâm tu tập, các *kiết sử* (fetters / những trói buộc của tâm) của vị ấy sẽ dễ dàng sụp đổ và mục rữa."
 
 <!--pg-->
-### N 22.102 Kinh nhận thức về vô thường *Aniccasaññāsutta*
+### SN 22.102 Kinh nhận thức về vô thường *Aniccasaññāsutta*
 
 Tại Sāvatthī.
 
@@ -3035,7 +3035,7 @@ Và làm thế nào để nhận thức về vô thường được tu tập và
 <!--pg-->
 ## Phẩm Về Các Phương Diện
 
-### N 22.103 Kinh Các Phương Diện *Antasutta*
+### SN 22.103 Kinh Các Phương Diện *Antasutta*
 
 Tại Sāvatthī.
 
@@ -3048,7 +3048,7 @@ Và phương diện của sự đoạn diệt của thân kiến là gì? Đó l
 Và phương diện của con đường đưa đến sự đoạn diệt của thân kiến là gì? Đó chính là bát chánh đạo này, tức là: chánh kiến, chánh tư duy, chánh ngữ, chánh nghiệp, chánh mạng, chánh tinh tấn, chánh niệm, và chánh định. Đây được gọi là phương diện của con đường đưa đến sự đoạn diệt của thân kiến. Đây là bốn phương diện."
 
 <!--pg-->
-### N 22.104 Kinh Khổ *Dukkhasutta*
+### SN 22.104 Kinh Khổ *Dukkhasutta*
 
 Tại Sāvatthī.
 
@@ -3063,7 +3063,7 @@ Và sự đoạn diệt của khổ là gì? Đó là sự phai nhạt và đo�
 Và con đường đưa đến sự đoạn diệt của khổ là gì? Đó chính là bát chánh đạo này, tức là: chánh kiến, chánh tư duy, chánh ngữ, chánh nghiệp, chánh mạng, chánh tinh tấn, chánh niệm, và chánh định. Đây được gọi là con đường đưa đến sự đoạn diệt của khổ."
 
 <!--pg-->
-### N 22.105 Kinh Thân Kiến *Sakkāyasutta*
+### SN 22.105 Kinh Thân Kiến *Sakkāyasutta*
 
 Tại Sāvatthī.
 
@@ -3078,7 +3078,7 @@ Và sự đoạn diệt của thân kiến là gì? Đó là sự phai nhạt v�
 Và con đường đưa đến sự đoạn diệt của thân kiến là gì? Đó chính là bát chánh đạo này, tức là: chánh kiến, chánh tư duy, chánh ngữ, chánh nghiệp, chánh mạng, chánh tinh tấn, chánh niệm, và chánh định. Đây được gọi là con đường đưa đến sự đoạn diệt của thân kiến."
 
 <!--pg-->
-### N 22.106 Kinh Cần Được Liễu Tri *Pariññeyyasutta*
+### SN 22.106 Kinh Cần Được Liễu Tri *Pariññeyyasutta*
 
 Tại Sāvatthī.
 
@@ -3091,7 +3091,7 @@ Và sự liễu tri là gì? Sự đoạn tận tham, sân, và si. Đây đư�
 Và người đã liễu tri là ai? Nên nói rằng: một vị A-la-hán, vị tôn giả có tên như vậy, thuộc dòng họ như vậy. Đây được gọi là người đã liễu tri."
 
 <!--pg-->
-### N 22.107 Kinh Sa-môn (1) *Samaṇasutta*
+### SN 22.107 Kinh Sa-môn (1) *Samaṇasutta*
 
 Tại Sāvatthī.
 
@@ -3102,7 +3102,7 @@ Có những vị sa-môn và bà-la-môn không hiểu rõ một cách chân th�
 Có những vị sa-môn và bà-la-môn hiểu rõ một cách chân thật..."
 
 <!--pg-->
-### N 22.108 Kinh Sa-môn (2) *Dutiyasamaṇasutta*
+### SN 22.108 Kinh Sa-môn (2) *Dutiyasamaṇasutta*
 
 Tại Sāvatthī.
 
@@ -3113,21 +3113,21 @@ Có những vị sa-môn và bà-la-môn không hiểu rõ một cách chân th�
 Có những vị sa-môn và bà-la-môn hiểu rõ một cách chân thật... Những vị tôn giả đó thực chứng được mục đích của đời sống sa-môn hay bà-la-môn, và sống sau khi đã thực chứng điều đó bằng chính trí tuệ của mình."
 
 <!--pg-->
-### N 22.109 Kinh Tu-đà-hoàn *Sotāpannasutta*
+### SN 22.109 Kinh Tu-đà-hoàn *Sotāpannasutta*
 
 Tại Sāvatthī.
 
 "Này các Tỷ kheo, có năm thủ uẩn này. Năm uẩn nào? Đó là, thủ uẩn sắc, thọ, tưởng, các hành, và thức. Một vị thánh đệ tử hiểu rõ một cách chân thật sự sanh khởi, sự đoạn diệt, vị ngọt, sự nguy hiểm, và sự thoát ly của năm thủ uẩn này. Một vị thánh đệ tử như vậy được gọi là một vị *Tu-đà-hoàn* (stream-enterer / người đã nhập dòng thánh), không còn bị tái sanh vào cõi dữ, chắc chắn sẽ giác ngộ."
 
 <!--pg-->
-### N 22.110 Kinh A-la-hán *Arahantasutta*
+### SN 22.110 Kinh A-la-hán *Arahantasutta*
 
 Tại Sāvatthī.
 
 "Này các Tỷ kheo, có năm thủ uẩn này. Năm uẩn nào? Đó là, thủ uẩn sắc, thọ, tưởng, các hành, và thức. Một Tỷ kheo được giải thoát do không còn chấp thủ sau khi đã hiểu rõ một cách chân thật sự sanh khởi, sự đoạn diệt, vị ngọt, sự nguy hiểm, và sự thoát ly của năm thủ uẩn này. Một Tỷ kheo như vậy được gọi là một vị A-la-hán, đã đoạn tận các lậu hoặc, đã hoàn thành phạm hạnh, đã làm những việc cần làm, đã đặt gánh nặng xuống, đã đạt được mục đích tối hậu của mình, đã đoạn tận hữu kiết sử, và được giải thoát hoàn toàn nhờ trí tuệ."
 
 <!--pg-->
-### N 22.111 Kinh Từ Bỏ Ham Muốn *Chandappahānasutta*
+### SN 22.111 Kinh Từ Bỏ Ham Muốn *Chandappahānasutta*
 
 Tại Sāvatthī.
 
@@ -3136,7 +3136,7 @@ Tại Sāvatthī.
 Các con nên từ bỏ mọi ham muốn, tham lam, thích thú, và ái dục đối với thọ... tưởng... các hành... thức. Như vậy, thức đó sẽ được từ bỏ, bị chặt đứt tận gốc, làm cho như một thân cây cọ, bị xóa sạch, và không thể sanh khởi trong tương lai."
 
 <!--pg-->
-### N 22.112 Kinh Từ Bỏ Ham Muốn (2) *Dutiyachandappahānasutta*
+### SN 22.112 Kinh Từ Bỏ Ham Muốn (2) *Dutiyachandappahānasutta*
 
 Tại Sāvatthī.
 
@@ -3147,7 +3147,7 @@ Các con nên từ bỏ mọi ham muốn, tham lam, thích thú, và ái dục �
 <!--pg-->
 ## Phẩm Về Người Thuyết Pháp
 
-### N 22.113 Kinh Vô Minh *Avijjāsutta*
+### SN 22.113 Kinh Vô Minh *Avijjāsutta*
 
 Tại Sāvatthī.
 
@@ -3160,7 +3160,7 @@ Bấy giờ, một Tỷ kheo đến gặp Đức Phật và thưa rằng:
 Đây được gọi là vô minh. Và đây là cách xác định một người vô minh."
 
 <!--pg-->
-### N 22.114 Kinh Minh *Vijjāsutta*
+### SN 22.114 Kinh Minh *Vijjāsutta*
 
 Tại Sāvatthī.
 
@@ -3173,7 +3173,7 @@ Ngồi sang một bên, Tỷ kheo ấy thưa với Đức Phật:
 Đây được gọi là minh. Và đây là cách xác định một người có minh."
 
 <!--pg-->
-### N 22.115 Kinh Người Thuyết Pháp *Dhammakathikasutta*
+### SN 22.115 Kinh Người Thuyết Pháp *Dhammakathikasutta*
 
 Tại Sāvatthī.
 
@@ -3194,7 +3194,7 @@ Nếu vị ấy thực hành vì sự nhàm chán, sự ly tham, và sự đoạ
 Nếu vị ấy được giải thoát do không còn chấp thủ nhờ sự nhàm chán, sự ly tham, và sự đoạn diệt đối với thức, vị ấy xứng đáng được gọi là 'Tỷ kheo đã đạt được Niết-bàn trong chính đời này'."
 
 <!--pg-->
-### N 22.116 Kinh Người Thuyết Pháp (2) *Dutiyadhammakathikasutta*
+### SN 22.116 Kinh Người Thuyết Pháp (2) *Dutiyadhammakathikasutta*
 
 Tại Sāvatthī.
 
@@ -3215,7 +3215,7 @@ Nếu vị ấy thực hành vì sự nhàm chán, sự ly tham, và sự đoạ
 Nếu vị ấy được giải thoát do không còn chấp thủ nhờ sự nhàm chán, sự ly tham, và sự đoạn diệt đối với thức, vị ấy xứng đáng được gọi là 'Tỷ kheo đã đạt được Niết-bàn trong chính đời này'."
 
 <!--pg-->
-### N 22.117 Kinh Sự Trói Buộc *Bandhanasutta*
+### SN 22.117 Kinh Sự Trói Buộc *Bandhanasutta*
 
 Tại Sāvatthī.
 
@@ -3228,7 +3228,7 @@ Một thánh đệ tử đã được học đã thấy các bậc thánh, và k
 Họ không coi thọ... tưởng... các hành... thức là tự ngã. Họ được gọi là một thánh đệ tử đã được học, không bị trói buộc vào thức, cả bên trong lẫn bên ngoài. Họ thấy bờ bên này và bờ bên kia. Họ thoát khỏi khổ đau, Ta nói vậy."
 
 <!--pg-->
-### N 22.118 Kinh Chất Vấn *Paripucchitasutta*
+### SN 22.118 Kinh Chất Vấn *Paripucchitasutta*
 
 Tại Sāvatthī.
 
@@ -3245,7 +3245,7 @@ Tại Sāvatthī.
 Thấy được điều này... Họ hiểu rằng: '... không còn gì phải làm ở đây nữa.'"
 
 <!--pg-->
-### N 22.119 Kinh Chất Vấn (2) *Dutiyaparipucchitasutta*
+### SN 22.119 Kinh Chất Vấn (2) *Dutiyaparipucchitasutta*
 
 Tại Sāvatthī.
 
@@ -3262,7 +3262,7 @@ Tại Sāvatthī.
 Thấy được điều này... Họ hiểu rằng: '... không còn gì phải làm ở đây nữa.'"
 
 <!--pg-->
-### N 22.120 Kinh Những Pháp Dễ Bị Trói Buộc *Saṁyojaniyasutta*
+### SN 22.120 Kinh Những Pháp Dễ Bị Trói Buộc *Saṁyojaniyasutta*
 
 Tại Sāvatthī.
 
@@ -3283,7 +3283,7 @@ Thức là thứ dễ bị kiết sử trói buộc. Ham muốn và tham lam đ�
 Đây được gọi là những pháp dễ bị kiết sử trói buộc, và đây là kiết sử."
 
 <!--pg-->
-### N 22.121 Kinh Những Pháp Làm Nhiên Liệu Cho Sự Chấp Thủ *Upādāniyasutta*
+### SN 22.121 Kinh Những Pháp Làm Nhiên Liệu Cho Sự Chấp Thủ *Upādāniyasutta*
 
 Tại Sāvatthī.
 
@@ -3304,7 +3304,7 @@ Thức là thứ dễ làm nhiên liệu cho sự chấp thủ. Ham muốn và t
 Đây được gọi là những pháp làm nhiên liệu cho sự chấp thủ, và đây là sự chấp thủ."
 
 <!--pg-->
-### N 22.122 Kinh Tỷ Kheo Có Giới Đức *Sīlavantasutta*
+### SN 22.122 Kinh Tỷ Kheo Có Giới Đức *Sīlavantasutta*
 
 Một thời, Tôn giả Xá-lợi-phất và Tôn giả Ma-ha Câu-hy-la đang ở gần Ba-la-nại, tại vườn Lộc Uyển ở Isipatana. Bấy giờ, vào buổi chiều, Tôn giả Ma-ha Câu-hy-la ra khỏi nơi độc cư, đến gặp Tôn giả Xá-lợi-phất và nói:
 
@@ -3329,7 +3329,7 @@ Một thời, Tôn giả Xá-lợi-phất và Tôn giả Ma-ha Câu-hy-la đang 
 "Thưa Tôn giả Câu-hy-la, một vị A-la-hán cũng nên *như lý tác ý* đến năm thủ uẩn là vô thường, là khổ, là bệnh, là ung nhọt, là mũi tên, là bất hạnh, là phiền não, là xa lạ, là tan rã, là trống không, là vô ngã. Một vị A-la-hán không còn gì phải làm thêm, và không có gì cần phải cải thiện. Tuy nhiên, những pháp này, khi được tu tập và làm cho sung mãn, sẽ dẫn đến sự an trú hạnh phúc trong đời này, và cũng dẫn đến chánh niệm và tỉnh giác."
 
 <!--pg-->
-### N 22.123 Kinh Có Học Thức *Sutavantasutta*
+### SN 22.123 Kinh Có Học Thức *Sutavantasutta*
 
 Một thời, Tôn giả Xá-lợi-phất và Tôn giả Ma-ha Câu-hy-la đang ở gần Ba-la-nại, tại vườn Lộc Uyển ở Isipatana. Bấy giờ, vào buổi chiều, Tôn giả Ma-ha Câu-hy-la ra khỏi nơi độc cư, đến gặp Tôn giả Xá-lợi-phất, đảnh lễ, ngồi sang một bên và nói:
 
@@ -3346,7 +3346,7 @@ Một thời, Tôn giả Xá-lợi-phất và Tôn giả Ma-ha Câu-hy-la đang 
 "Thưa Tôn giả Câu-hy-la, một vị A-la-hán nên *như lý tác ý* đến năm thủ uẩn là vô thường, là khổ, là bệnh, là ung nhọt, là mũi tên, là bất hạnh, là phiền não, là xa lạ, là tan rã, là trống không, là vô ngã. Một vị A-la-hán không còn gì phải làm thêm, và không có gì cần phải cải thiện. Tuy nhiên, những pháp này, khi được tu tập và làm cho sung mãn, sẽ dẫn đến sự an trú hạnh phúc trong đời này, và cũng dẫn đến chánh niệm và tỉnh giác."
 
 <!--pg-->
-### N 22.124 Kinh Kappa *Kappasutta*
+### SN 22.124 Kinh Kappa *Kappasutta*
 
 Tại Sāvatthī.
 
@@ -3361,7 +3361,7 @@ Một người thấy một cách chân thật bất kỳ loại thọ... tưở
 Đó là cách để biết và thấy để không còn sự tạo ra 'cái tôi', sự tạo ra 'cái của tôi', hay khuynh hướng ngã mạn ngủ ngầm đối với thân có thức này và tất cả các kích thích bên ngoài."
 
 <!--pg-->
-### N 22.125 Kinh Kappa (2) *Dutiyakappasutta*
+### SN 22.125 Kinh Kappa (2) *Dutiyakappasutta*
 
 Tại Sāvatthī.
 
@@ -3378,7 +3378,7 @@ Một người được giải thoát do không còn chấp thủ sau khi đã t
 <!--pg-->
 ## Phẩm Về Vô Minh
 
-### N 22.126 Kinh Có Tính Sanh Khởi *Samudayadhammasutta*
+### SN 22.126 Kinh Có Tính Sanh Khởi *Samudayadhammasutta*
 
 Tại Sāvatthī.
 
@@ -3403,7 +3403,7 @@ Họ hiểu rõ một cách chân thật thọ... tưởng... các hành... th�
 Đây được gọi là minh. Và đây là cách xác định một người có minh."
 
 <!--pg-->
-### N 22.127 Kinh Có Tính Sanh Khởi (2) *Dutiyasamudayadhammasutta*
+### SN 22.127 Kinh Có Tính Sanh Khởi (2) *Dutiyasamudayadhammasutta*
 
 Một thời, Tôn giả Xá-lợi-phất và Tôn giả Ma-ha Câu-hy-la đang ở gần Ba-la-nại, tại vườn Lộc Uyển ở Isipatana. ...
 
@@ -3418,7 +3418,7 @@ Họ không hiểu rõ một cách chân thật thọ... tưởng... các hành.
 Đây được gọi là vô minh. Và đây là cách xác định một người vô minh."
 
 <!--pg-->
-### N 22.128 Kinh Có Tính Sanh Khởi (3) *Tatiyasamudayadhammasutta*
+### SN 22.128 Kinh Có Tính Sanh Khởi (3) *Tatiyasamudayadhammasutta*
 
 Một thời, Tôn giả Xá-lợi-phất và Tôn giả Ma-ha Câu-hy-la đang ở gần Ba-la-nại, tại vườn Lộc Uyển ở Isipatana. ...
 
@@ -3433,7 +3433,7 @@ Họ hiểu rõ một cách chân thật thọ... tưởng... các hành... th�
 Đây được gọi là minh. Và đây là cách xác định một người có minh."
 
 <!--pg-->
-### N 22.129 Kinh Vị Ngọt *Assādasutta*
+### SN 22.129 Kinh Vị Ngọt *Assādasutta*
 
 Tại Ba-la-nại. Ma-ha Câu-hy-la nói với Xá-lợi-phất:
 
@@ -3444,7 +3444,7 @@ Tại Ba-la-nại. Ma-ha Câu-hy-la nói với Xá-lợi-phất:
 Đây được gọi là vô minh. Và đây là cách xác định một người vô minh."
 
 <!--pg-->
-### N 22.130 Kinh Vị Ngọt (2) *Dutiyaassādasutta*
+### SN 22.130 Kinh Vị Ngọt (2) *Dutiyaassādasutta*
 
 Tại Ba-la-nại.
 
@@ -3455,7 +3455,7 @@ Tại Ba-la-nại.
 Đây được gọi là minh. Và đây là cách xác định một người có minh."
 
 <!--pg-->
-### N 22.131 Kinh Sự Sanh Khởi *Samudayasutta*
+### SN 22.131 Kinh Sự Sanh Khởi *Samudayasutta*
 
 Tại Ba-la-nại.
 
@@ -3466,7 +3466,7 @@ Tại Ba-la-nại.
 Đây được gọi là vô minh. Và đây là cách xác định một người vô minh."
 
 <!--pg-->
-### N 22.132 Kinh Sự Sanh Khởi (2) *Dutiyasamudayasutta*
+### SN 22.132 Kinh Sự Sanh Khởi (2) *Dutiyasamudayasutta*
 
 Tại Ba-la-nại. Ma-ha Câu-hy-la nói với Xá-lợi-phất:
 
@@ -3477,7 +3477,7 @@ Tại Ba-la-nại. Ma-ha Câu-hy-la nói với Xá-lợi-phất:
 Đây được gọi là minh. Và đây là cách xác định một người có minh."
 
 <!--pg-->
-### N 22.133 Kinh Với Câu-hy-la *Koṭṭhikasutta*
+### SN 22.133 Kinh Với Câu-hy-la *Koṭṭhikasutta*
 
 Tại Ba-la-nại. Xá-lợi-phất nói với Ma-ha Câu-hy-la:
 
@@ -3496,7 +3496,7 @@ Khi ông nói điều này, Tôn giả Xá-lợi-phất nói với ông:
 Đây được gọi là minh. Và đây là cách xác định một người có minh."
 
 <!--pg-->
-### N 22.134 Kinh Với Câu-hy-la (2) *Dutiyakoṭṭhikasutta*
+### SN 22.134 Kinh Với Câu-hy-la (2) *Dutiyakoṭṭhikasutta*
 
 Tại Ba-la-nại.
 
@@ -3515,7 +3515,7 @@ Khi ông nói điều này, Tôn giả Xá-lợi-phất nói với ông:
 Đây được gọi là minh. Và đây là cách xác định một người có minh."
 
 <!--pg-->
-### N 22.135 Kinh Với Câu-hy-la (3) *Tatiyakoṭṭhikasutta*
+### SN 22.135 Kinh Với Câu-hy-la (3) *Tatiyakoṭṭhikasutta*
 
 Cùng bối cảnh. Xá-lợi-phất nói với Ma-ha Câu-hy-la:
 
@@ -3536,7 +3536,7 @@ Khi ông nói điều này, Tôn giả Xá-lợi-phất nói với ông:
 <!--pg-->
 ## Phẩm Về Trấu Cháy
 
-### N 22.136 Kinh Trấu Cháy *Kukkuḷasutta*
+### SN 22.136 Kinh Trấu Cháy *Kukkuḷasutta*
 
 Tại Sāvatthī.
 
@@ -3547,7 +3547,7 @@ Thấy được điều này, một thánh đệ tử đã được học sanh t
 Vị ấy hiểu rằng: 'Sanh đã tận, phạm hạnh đã hoàn thành, những việc cần làm đã được làm, không còn gì phải làm ở đây nữa.'"
 
 <!--pg-->
-### N 22.137 Kinh Vô Thường *Aniccasutta*
+### SN 22.137 Kinh Vô Thường *Aniccasutta*
 
 Tại Sāvatthī.
 
@@ -3566,7 +3566,7 @@ Thức là vô thường; các con nên từ bỏ ham muốn đối với nó.
 Các con nên từ bỏ ham muốn đối với những gì vô thường."
 
 <!--pg-->
-### N 22.138 Kinh Vô Thường (2) *Dutiyaaniccasutta*
+### SN 22.138 Kinh Vô Thường (2) *Dutiyaaniccasutta*
 
 Tại Sāvatthī.
 
@@ -3585,7 +3585,7 @@ Thức là vô thường; các con nên từ bỏ tham lam đối với nó.
 Các con nên từ bỏ tham lam đối với những gì vô thường."
 
 <!--pg-->
-### N 22.139 Kinh Vô Thường (3) *Tatiyaaniccasutta*
+### SN 22.139 Kinh Vô Thường (3) *Tatiyaaniccasutta*
 
 Tại Sāvatthī.
 
@@ -3604,66 +3604,66 @@ Thức là vô thường; các con nên từ bỏ ham muốn và tham lam đối
 Các con nên từ bỏ ham muốn và tham lam đối với những gì vô thường."
 
 <!--pg-->
-### N 22.140 Kinh Khổ *Dukkhasutta*
+### SN 22.140 Kinh Khổ *Dukkhasutta*
 
 Tại Sāvatthī.
 
 "Này các Tỷ kheo, các con nên từ bỏ ham muốn đối với những gì là khổ. ..."
 
-### N 22.141 Kinh Khổ (2) *Dutiyadukkhasutta*
+### SN 22.141 Kinh Khổ (2) *Dutiyadukkhasutta*
 
 Tại Sāvatthī.
 
 "Này các Tỷ kheo, các con nên từ bỏ tham lam đối với những gì là khổ. ..."
 
-### N 22.142 Kinh Khổ (3) *Tatiyadukkhasutta*
+### SN 22.142 Kinh Khổ (3) *Tatiyadukkhasutta*
 
 Tại Sāvatthī.
 
 "Này các Tỷ kheo, các con nên từ bỏ ham muốn và tham lam đối với những gì là khổ. ..."
 
 <!--pg-->
-### N 22.143 Kinh Vô Ngã *Anattasutta*
+### SN 22.143 Kinh Vô Ngã *Anattasutta*
 
 Tại Sāvatthī.
 
 "Này các Tỷ kheo, các con nên từ bỏ ham muốn đối với những gì là vô ngã. ..."
 
-### N 22.144 Kinh Vô Ngã (2) *Dutiyaanattasutta*
+### SN 22.144 Kinh Vô Ngã (2) *Dutiyaanattasutta*
 
 Tại Sāvatthī.
 
 "Này các Tỷ kheo, các con nên từ bỏ tham lam đối với những gì là vô ngã. ..."
 
-### N 22.145 Kinh Vô Ngã (3) *Tatiyaanattasutta*
+### SN 22.145 Kinh Vô Ngã (3) *Tatiyaanattasutta*
 
 Tại Sāvatthī.
 
 "Này các Tỷ kheo, các con nên từ bỏ ham muốn và tham lam đối với những gì là vô ngã. ..."
 
 <!--pg-->
-### N 22.146 Kinh Tràn Đầy Sự Nhàm Chán *Nibbidābahulasutta*
+### SN 22.146 Kinh Tràn Đầy Sự Nhàm Chán *Nibbidābahulasutta*
 
 Tại Sāvatthī.
 
 "Này các Tỷ kheo, khi một người thiện gia nam tử xuất gia vì niềm tin, đây là điều phù hợp với giáo pháp. Vị ấy nên sống với tâm tràn đầy sự nhàm chán đối với sắc, thọ, tưởng, các hành, và thức. Sống theo cách này, vị ấy liễu tri sắc, thọ, tưởng, các hành, và thức. Liễu tri sắc, thọ, tưởng, các hành, và thức, vị ấy được giải thoát khỏi những thứ này. Vị ấy được giải thoát khỏi sanh, già, và chết, khỏi sầu, bi, khổ, ưu, và não. Vị ấy được giải thoát khỏi khổ đau, Ta nói vậy."
 
 <!--pg-->
-### N 22.147 Kinh Quan Sát Vô Thường *Aniccānupassīsutta*
+### SN 22.147 Kinh Quan Sát Vô Thường *Aniccānupassīsutta*
 
 Tại Sāvatthī.
 
 "Này các Tỷ kheo, khi một người thiện gia nam tử xuất gia vì niềm tin, đây là điều phù hợp với giáo pháp. Vị ấy nên sống quan sát tính vô thường trong sắc, thọ, tưởng, các hành, và thức. ... Vị ấy được giải thoát khỏi khổ đau, Ta nói vậy."
 
 <!--pg-->
-### N 22.148 Kinh Quan Sát Khổ *Dukkhānupassīsutta*
+### SN 22.148 Kinh Quan Sát Khổ *Dukkhānupassīsutta*
 
 Tại Sāvatthī.
 
 "Này các Tỷ kheo, khi một người thiện gia nam tử xuất gia vì niềm tin, đây là điều phù hợp với giáo pháp. Vị ấy nên sống quan sát khổ trong sắc, thọ, tưởng, các hành, và thức. ... Vị ấy được giải thoát khỏi khổ đau, Ta nói vậy."
 
 <!--pg-->
-### N 22.149 Kinh Quan Sát Vô Ngã *Anattānupassīsutta*
+### SN 22.149 Kinh Quan Sát Vô Ngã *Anattānupassīsutta*
 
 Tại Sāvatthī.
 
@@ -3672,7 +3672,7 @@ Tại Sāvatthī.
 <!--pg-->
 ## Phẩm Về Các Quan Điểm
 
-### N 22.150 Kinh Trong Tự Thân *Ajjhattasutta*
+### SN 22.150 Kinh Trong Tự Thân *Ajjhattasutta*
 
 Tại Sāvatthī.
 
@@ -3709,7 +3709,7 @@ Các con nghĩ sao, này các Tỷ kheo? Sắc là thường hay vô thường?"
 "Thấy được điều này... Họ hiểu rằng: '... không còn gì phải làm ở đây nữa.'"
 
 <!--pg-->
-### N 22.151 Kinh Đây Là Của Tôi *Etaṁmamasutta*
+### SN 22.151 Kinh Đây Là Của Tôi *Etaṁmamasutta*
 
 Tại Sāvatthī.
 
@@ -3738,7 +3738,7 @@ Các con nghĩ sao, này các Tỷ kheo? Sắc là thường hay vô thường?"
 "Thấy được điều này... Họ hiểu rằng: '... không còn gì phải làm ở đây nữa.'"
 
 <!--pg-->
-### N 22.152 Kinh Đây Là Tự Ngã Của Tôi *Soattāsutta*
+### SN 22.152 Kinh Đây Là Tự Ngã Của Tôi *Soattāsutta*
 
 Tại Sāvatthī.
 
@@ -3775,7 +3775,7 @@ Các con nghĩ sao, này các Tỷ kheo? Sắc là thường hay vô thường?"
 "Thấy được điều này... Họ hiểu rằng: '... không còn gì phải làm ở đây nữa.'"
 
 <!--pg-->
-### N 22.153 Kinh Có Thể Nó Không Phải Của Tôi *Nocamesiyāsutta*
+### SN 22.153 Kinh Có Thể Nó Không Phải Của Tôi *Nocamesiyāsutta*
 
 Tại Sāvatthī.
 
@@ -3812,7 +3812,7 @@ Các con nghĩ sao, này các Tỷ kheo? Sắc là thường hay vô thường?"
 "Thấy được điều này... Họ hiểu rằng: '... không còn gì phải làm ở đây nữa.'"
 
 <!--pg-->
-### N 22.154 Kinh Tà Kiến *Micchādiṭṭhisutta*
+### SN 22.154 Kinh Tà Kiến *Micchādiṭṭhisutta*
 
 Tại Sāvatthī.
 
@@ -3845,7 +3845,7 @@ Các con nghĩ sao, này các Tỷ kheo? Sắc là thường hay vô thường?"
 "Thấy được điều này... Họ hiểu rằng: '... không còn gì phải làm ở đây nữa.'"
 
 <!--pg-->
-### N 22.155 Kinh Thân Kiến *Sakkāyadiṭṭhisutta*
+### SN 22.155 Kinh Thân Kiến *Sakkāyadiṭṭhisutta*
 
 Tại Sāvatthī.
 
@@ -3874,7 +3874,7 @@ Các con nghĩ sao, này các Tỷ kheo? Sắc là thường hay vô thường?"
 "Thấy được điều này... Họ hiểu rằng: '... không còn gì phải làm ở đây nữa.'"
 
 <!--pg-->
-### N 22.156 Kinh Ngã Kiến *Attānudiṭṭhisutta*
+### SN 22.156 Kinh Ngã Kiến *Attānudiṭṭhisutta*
 
 Tại Sāvatthī.
 
@@ -3903,7 +3903,7 @@ Các con nghĩ sao, này các Tỷ kheo? Sắc là thường hay vô thường?"
 "Thấy được điều này... Họ hiểu rằng: '... không còn gì phải làm ở đây nữa.'"
 
 <!--pg-->
-### N 22.157 Kinh Sự Khăng Khăng *Abhinivesasutta*
+### SN 22.157 Kinh Sự Khăng Khăng *Abhinivesasutta*
 
 Tại Sāvatthī.
 
@@ -3924,7 +3924,7 @@ Các con nghĩ sao, này các Tỷ kheo? Sắc là thường hay vô thường?"
 "Thấy được điều này... Họ hiểu rằng: '... không còn gì phải làm ở đây nữa.'"
 
 <!--pg-->
-### N 22.158 Kinh Sự Khăng Khăng (2) *Dutiyaabhinivesasutta*
+### SN 22.158 Kinh Sự Khăng Khăng (2) *Dutiyaabhinivesasutta*
 
 Tại Sāvatthī.
 
@@ -3945,7 +3945,7 @@ Các con nghĩ sao, này các Tỷ kheo? Sắc là thường hay vô thường?"
 "Thấy được điều này... Họ hiểu rằng: '... không còn gì phải làm ở đây nữa.'"
 
 <!--pg-->
-### N 22.159 Kinh Với A-nan *Ānandasutta*
+### SN 22.159 Kinh Với A-nan *Ānandasutta*
 
 Tại Sāvatthī.
 

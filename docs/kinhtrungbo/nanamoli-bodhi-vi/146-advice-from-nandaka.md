@@ -1,4 +1,4 @@
-# 146. Lời Khuyên của Nan-đa-ka
+# MN 146. Lời Khuyên của Nan-đa-ka
 ***(Kinh Nan-đa-ka-vada - Nandakovāda Sutta)***
 
 1\.  Tôi nghe như vầy. Một thời Đức Thế Tôn trú tại thành Xá-vệ (Sāvatthī), trong Vườn Cây Kỳ-đà (Jeta's Grove), tại Tu viện Cấp Cô Độc (Anāthapiṇḍika's Park).

@@ -1,4 +1,4 @@
-# 1. Gốc Rễ Của Mọi Sự Vật
+# MN 1. Gốc Rễ Của Mọi Sự Vật
 ***(Kinh Mūlapariyāya)***
 
 [1] 1. Tôi nghe như vầy. [^1] Một lần nọ, Đức Phật (The Blessed One) đang ở tại Ukkaṭthā, trong khu rừng Subhaga, dưới gốc cây sāla. Tại đó, Ngài nói với các tỳ kheo (bhikkhus): "Này các tỳ kheo." Các vị ấy đáp: "Bạch Thế Tôn." Đức Phật nói:

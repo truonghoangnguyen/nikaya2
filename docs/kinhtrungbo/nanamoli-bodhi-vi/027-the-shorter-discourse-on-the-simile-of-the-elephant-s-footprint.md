@@ -1,4 +1,4 @@
-# 27. Tiểu Kinh Ví Dụ Dấu Chân Voi
+# MN 27. Tiểu Kinh Ví Dụ Dấu Chân Voi
 ***(Cūlahatthipadopama Sutta)***
 
 1\. Tôi nghe như vầy. [^319] Một thời, Đức Thế Tôn trú tại Sāvatthī (Xá Vệ), trong khu rừng Jeta (Kỳ Đà), vườn của ông Anāthapiṇḍika (Cấp Cô Độc).

@@ -1,4 +1,4 @@
-# 49. Lời Thỉnh Mời của Phạm Thiên
+# MN 49. Lời Thỉnh Mời của Phạm Thiên
 ***(Brahmanimantanika Sutta)***
 
 [326] 1. Tôi nghe như vầy. Một thời Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong Vườn Jeta (Kỳ-đà), Khu vườn của Anāthapindika (Cấp Cô Độc). Tại đó, Ngài gọi các vị tỳ kheo (bhikkhus - các nhà sư nam đã xuất gia và thọ giới cụ túc) và nói: "Này các Tỳ kheo." "Bạch Thế Tôn," họ đáp lời. Đức Thế Tôn dạy điều này:

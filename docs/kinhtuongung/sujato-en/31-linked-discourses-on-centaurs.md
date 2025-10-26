@@ -3,7 +3,7 @@
 <!--pg-->
 ## The Chapter on Centaurs
 
-### N 31.1 Plain Version *Suddhikasutta*
+### SN 31.1 Plain Version *Suddhikasutta*
 
 At one time the Buddha was staying near Sāvatthī in Jeta's
 Grove, Anāthapiṇḍika's monastery. ... The Buddha said this:
@@ -18,7 +18,7 @@ fragrant sap, and fragrant scents. These are called the gods of the
 centaur realm."
 
 <!--pg-->
-### N 31.2 Good Conduct *Sucaritasutta*
+### SN 31.2 Good Conduct *Sucaritasutta*
 
 At Sāvatthī.
 
@@ -38,7 +38,7 @@ the cause, this is the reason why someone, when their body breaks up,
 after death, is reborn in the company of the gods of the centaur realm."
 
 <!--pg-->
-### N 31.3 A Giver of Fragrant Roots *Mūlagandhadātāsutta*
+### SN 31.3 A Giver of Fragrant Roots *Mūlagandhadātāsutta*
 
 At Sāvatthī.
 
@@ -59,7 +59,7 @@ reason why someone, when their body breaks up, after death, is reborn in
 the company of the gods who live in fragrant roots."
 
 <!--pg-->
-### N 31.4--12 Nine Discourses On Givers of Fragrant Heartwood, Etc. *Sāragandhādidātāsuttanavaka*
+### SN 31.4--12 Nine Discourses On Givers of Fragrant Heartwood, Etc. *Sāragandhādidātāsuttanavaka*
 
 At Sāvatthī.
 
@@ -82,7 +82,7 @@ why someone, when their body breaks up, after death, is reborn in the
 company of the gods who live on fragrant scents."
 
 <!--pg-->
-### N 31.13--22 Ten Discourses On How Giving Helps Rebirth in Fragrant Roots *Mūlagandhadānūpakārasuttadasaka*
+### SN 31.13--22 Ten Discourses On How Giving Helps Rebirth in Fragrant Roots *Mūlagandhadānūpakārasuttadasaka*
 
 At Sāvatthī.
 
@@ -104,7 +104,7 @@ cause, this is the reason why someone, when their body breaks up, after
 death, is reborn in the company of the gods who live in fragrant roots."
 
 <!--pg-->
-### N 31.23--112 Ninety Discourses On How Giving Helps Rebirth in Fragrant Heartwood, etc. *Sāragandhādidānūpakārasuttanavutika*
+### SN 31.23--112 Ninety Discourses On How Giving Helps Rebirth in Fragrant Heartwood, etc. *Sāragandhādidānūpakārasuttanavutika*
 
 At Sāvatthī.
 

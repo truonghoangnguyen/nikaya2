@@ -3,7 +3,7 @@
 <!--pg-->
 ## The Chapter on the Undeclared Points
 
-### N 44.1 With Khemā *Khemāsutta*
+### SN 44.1 With Khemā *Khemāsutta*
 
 At one time the Buddha was staying near Sāvatthī in Jeta's
 Grove, Anāthapiṇḍika's monastery.
@@ -116,7 +116,7 @@ he got up from his seat, bowed, and respectfully circled him, keeping
 him on his right, before leaving.
 
 <!--pg-->
-### N 44.2 With Anurādha *Anurādhasutta*
+### SN 44.2 With Anurādha *Anurādhasutta*
 
 At one time the Buddha was staying near Vesālī, at the
 Great Wood, in the hall with the peaked roof.
@@ -253,7 +253,7 @@ exists, or neither still exists nor no longer exists'?"
 describe is suffering and the cessation of suffering."
 
 <!--pg-->
-### N 44.3 With Sāriputta and Koṭṭhita (1st) *Paṭhamasāriputtakoṭṭhikasutta*
+### SN 44.3 With Sāriputta and Koṭṭhita (1st) *Paṭhamasāriputtakoṭṭhikasutta*
 
 At one time Venerable Sāriputta and Venerable
 Mahākoṭṭhita were staying near Varanasi, in the deer park
@@ -298,7 +298,7 @@ This is the cause, this is the reason why this has not been declared by
 the Buddha."
 
 <!--pg-->
-### N 44.4 With Sāriputta and Koṭṭhita (2nd) *Dutiyasāriputtakoṭṭhikasutta*
+### SN 44.4 With Sāriputta and Koṭṭhita (2nd) *Dutiyasāriputtakoṭṭhikasutta*
 
 At one time Venerable Sāriputta and Venerable
 Mahākoṭṭhita were staying near Varanasi, in the deer park
@@ -334,7 +334,7 @@ This is the cause, this is the reason why this has not been declared by
 the Buddha."
 
 <!--pg-->
-### N 44.5 With Sāriputta and Koṭṭhita (3rd) *Tatiyasāriputtakoṭṭhikasutta*
+### SN 44.5 With Sāriputta and Koṭṭhita (3rd) *Tatiyasāriputtakoṭṭhikasutta*
 
 At one time Venerable Sāriputta and Venerable
 Mahākoṭṭhita were staying near Varanasi, in the deer park
@@ -359,7 +359,7 @@ This is the cause, this is the reason why this has not been declared by
 the Buddha."
 
 <!--pg-->
-### N 44.6 With Sāriputta and Koṭṭhita (4th) *Catutthasāriputtakoṭṭhikasutta*
+### SN 44.6 With Sāriputta and Koṭṭhita (4th) *Catutthasāriputtakoṭṭhikasutta*
 
 At one time Venerable Sāriputta and Venerable
 Mahākoṭṭhita were staying near Varanasi, in the deer park
@@ -451,7 +451,7 @@ declared by the Buddha?"
 to the ending of craving, there is no cycle of rebirths to be found."
 
 <!--pg-->
-### N 44.7 With Moggallāna *Moggallānasutta*
+### SN 44.7 With Moggallāna *Moggallānasutta*
 
 Then the wanderer Vacchagotta went up to Venerable
 Mahāmoggallāna, and exchanged greetings with him. When the
@@ -510,7 +510,7 @@ together and agree without contradiction when it comes to the chief
 matter!"
 
 <!--pg-->
-### N 44.8 With Vacchagotta *Vacchagottasutta*
+### SN 44.8 With Vacchagotta *Vacchagottasutta*
 
 Then the wanderer Vacchagotta went up to the Buddha and exchanged
 greetings with him. When the greetings and polite conversation were
@@ -562,7 +562,7 @@ of the teacher and the disciple fit together and agree without
 contradiction when it comes to the chief matter!"
 
 <!--pg-->
-### N 44.9 The Debating Hall *Kutūhalasālāsutta*
+### SN 44.9 The Debating Hall *Kutūhalasālāsutta*
 
 Then the wanderer Vacchagotta went up to the Buddha and exchanged
 greetings with him. When the greetings and polite conversation were
@@ -626,7 +626,7 @@ not been reborn in one of the realms, I say they're fueled by craving.
 For craving is their fuel then."
 
 <!--pg-->
-### N 44.10 With Ānanda *Ānandasutta*
+### SN 44.10 With Ānanda *Ānandasutta*
 
 Then the wanderer Vacchagotta went up to the Buddha and exchanged
 greetings with him. When the greetings and polite conversation were
@@ -662,7 +662,7 @@ confused---would have got even more confused, thinking: 'It seems that
 the self that I once had no longer survives.'"
 
 <!--pg-->
-### N 44.11 With Sabhiya Kaccāna *Sabhiyakaccānasutta*
+### SN 44.11 With Sabhiya Kaccāna *Sabhiyakaccānasutta*
 
 At one time Venerable Sabhiya Kaccāna was staying at
 Ñātika in the brick house. Then the wanderer Vacchagotta

@@ -1,4 +1,4 @@
-# 68. Tại Naḷakapāna
+# MN 68. Tại Naḷakapāna
 ***(Kinh Naḷakapāna)***
 
 1\.  Tôi nghe như vầy. Một thời Đức Thế Tôn trú ở xứ Kosala, tại Naḷakapāna, trong rừng Palāsa.

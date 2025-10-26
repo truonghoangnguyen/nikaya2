@@ -1,4 +1,4 @@
-# 16. Vùng Hoang Vắng Trong Tâm
+# MN 16. Vùng Hoang Vắng Trong Tâm
 ***(Kinh Cetokhila)***
 
 [101] 1. Tôi nghe như vầy. Có lần Đức Phật đang ở tại Sāvatthī trong Rừng Jeta, Công viên của Anāthapiṇ̣ika. Ở đó, ngài nói với các tỳ kheo: "Này các tỳ kheo." "Bạch Thế Tôn," họ đáp. Đức Phật nói điều này:

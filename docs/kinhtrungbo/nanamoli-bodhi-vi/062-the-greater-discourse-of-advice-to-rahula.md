@@ -1,4 +1,4 @@
-# 62. Đại Kinh Giáo Giới La-hầu-la
+# MN 62. Đại Kinh Giáo Giới La-hầu-la
 ***(Mahārāhulovāda Sutta)***
 
 1\.  Như vầy tôi nghe. [^640] Một thời Đức Thế Tôn trú tại thành Xá-vệ (Sāvatthī), trong vườn ông Cấp Cô Độc (Anāthapiṇḍika), rừng cây Kỳ-đà (Jeta).

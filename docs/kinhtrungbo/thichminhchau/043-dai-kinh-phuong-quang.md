@@ -21,7 +21,7 @@ Không tuệ tri gì? Không tuệ tri: đây là Khổ, không tuệ tri: đây
 không tuệ tri: đây là con đường đưa đến Khổ diệt. Vì không tuệ tri, không tuệ tri, này Hiền giả, nên
 được gọi là liệt tuệ.
 
-- -Lành thay, Hiền giả!
+-- Lành thay, Hiền giả!
 
 Tôn giả Maha Kotthita hoan hỷ, tín thọ lời Tôn giả Sariputta nói, rồi hỏi Tôn giả Sariputta một câu hỏi
 nữa:
@@ -150,7 +150,7 @@ nhất, có tầm, tứ, hỷ, lạc và nhất tâm. Này Hiền giả, Thiền
 
 -- Này Hiền giả, Thiền thứ nhất từ bỏ bao nhiêu chi phần và thành tựu bao nhiêu chi phần?
 
-- Này Hiền giả, Thiền thứ nhất từ bỏ năm chi phần và thành tựu năm chi phần. Ở đây, này Hiền giả, vị
+-- Này Hiền giả, Thiền thứ nhất từ bỏ năm chi phần và thành tựu năm chi phần. Ở đây, này Hiền giả, vị
 Tỷ-kheo thành tựu Thiền thứ nhất từ bỏ tham dục, từ bỏ sân, từ bỏ hôn trầm thụy miên, từ bỏ trạo hối, từ
 bỏ nghi, thành tựu tầm, tứ, hỷ, lạc và nhất tâm. Này Hiền giả, như vậy Thiền thứ nhất từ bỏ năm chi
 phần, và thành tựu năm chi phần.

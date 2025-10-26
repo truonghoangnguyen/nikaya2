@@ -1,4 +1,4 @@
-# 70. Tại Kīṭāgiri
+# MN 70. Tại Kīṭāgiri
 ***(Kinh Kīṭāgiri)***
 
 1\.  Tôi nghe như vầy. Một thời Thế Tôn đang du hành trong xứ Kāsī cùng với đại chúng tỳ kheo (monks-bhikkhus-nhà sư) đông đảo. Tại đó, Ngài gọi các tỳ kheo và dạy:

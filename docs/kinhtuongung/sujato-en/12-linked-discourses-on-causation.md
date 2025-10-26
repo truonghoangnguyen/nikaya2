@@ -3,7 +3,7 @@
 <!--pg-->
 ## The Chapter on the Buddhas
 
-### N 12.1 Dependent Origination *Paṭiccasamuppādasutta*
+### SN 12.1 Dependent Origination *Paṭiccasamuppādasutta*
 
 So I have heard. At one time the Buddha was staying near
 Sāvatthī in Jeta's Grove, Anāthapiṇḍika's
@@ -41,7 +41,7 @@ That is what the Buddha said. Satisfied, the mendicants approved what
 the Buddha said.
 
 <!--pg-->
-### N 12.2 Analysis *Vibhaṅgasutta*
+### SN 12.2 Analysis *Vibhaṅgasutta*
 
 At Sāvatthī.
 
@@ -122,7 +122,7 @@ nothing left over, choices cease. When choices cease, consciousness
 ceases. ... That is how this entire mass of suffering ceases."
 
 <!--pg-->
-### N 12.3 Practice *Paṭipadāsutta*
+### SN 12.3 Practice *Paṭipadāsutta*
 
 At Sāvatthī.
 
@@ -142,7 +142,7 @@ ceases. ... That is how this entire mass of suffering ceases. This is
 called the right practice."
 
 <!--pg-->
-### N 12.4 About Vipassī *Vipassīsutta*
+### SN 12.4 About Vipassī *Vipassīsutta*
 
 At Sāvatthī.
 
@@ -301,37 +301,37 @@ another."
 **(Tell in full for each of the seven Buddhas.)**
 
 <!--pg-->
-### N 12.5 Sikhī *Sikhīsutta*
+### SN 12.5 Sikhī *Sikhīsutta*
 
 "Sikhī, the Blessed One, the perfected one, the fully
 awakened Buddha ..."
 
 <!--pg-->
-### N 12.6 Vessabhū *Vessabhūsutta*
+### SN 12.6 Vessabhū *Vessabhūsutta*
 
 "Vessabhū, the Blessed One, the perfected one, the fully
 awakened Buddha ..."
 
 <!--pg-->
-### N 12.7 Kakusandha *Kakusandhasutta*
+### SN 12.7 Kakusandha *Kakusandhasutta*
 
 "Kakusandha, the Blessed One, the perfected one, the fully awakened
 Buddha ..."
 
 <!--pg-->
-### N 12.8 Koṇāgamana *Koṇāgamanasutta*
+### SN 12.8 Koṇāgamana *Koṇāgamanasutta*
 
 "Koṇāgamana, the Blessed One, the perfected one, the fully
 awakened Buddha ..."
 
 <!--pg-->
-### N 12.9 Kassapa *Kassapasutta*
+### SN 12.9 Kassapa *Kassapasutta*
 
 "Kassapa, the Blessed One, the perfected one, the fully awakened Buddha
 ..."
 
 <!--pg-->
-### N 12.10 Gotama *Gotamasutta*
+### SN 12.10 Gotama *Gotamasutta*
 
 "Mendicants, before my awakening---when I was still unawakened but
 intent on awakening---I thought: 'Alas, this world has fallen into
@@ -384,7 +384,7 @@ before from another."
 <!--pg-->
 ## The Chapter on Fuel
 
-### N 12.11 Fuel *Āhārasutta*
+### SN 12.11 Fuel *Āhārasutta*
 
 So I have heard. At one time the Buddha was staying near
 Sāvatthī in Jeta's Grove, Anāthapiṇḍika's
@@ -413,7 +413,7 @@ nothing left over, choices cease. When choices cease, consciousness
 ceases. ... That is how this entire mass of suffering ceases."
 
 <!--pg-->
-### N 12.12 Phagguna of the Top-Knot *Moḷiyaphaggunasutta*
+### SN 12.12 Phagguna of the Top-Knot *Moḷiyaphaggunasutta*
 
 At Sāvatthī.
 
@@ -488,7 +488,7 @@ lamentation, pain, sadness, and distress cease. That is how this entire
 mass of suffering ceases."
 
 <!--pg-->
-### N 12.13 Ascetics and Brahmins *Samaṇabrāhmaṇasutta*
+### SN 12.13 Ascetics and Brahmins *Samaṇabrāhmaṇasutta*
 
 At Sāvatthī.
 
@@ -513,7 +513,7 @@ life as an ascetic or brahmin, and live having realized it with their
 own insight."
 
 <!--pg-->
-### N 12.14 Ascetics and Brahmins (2nd) *Dutiyasamaṇabrāhmaṇasutta*
+### SN 12.14 Ascetics and Brahmins (2nd) *Dutiyasamaṇabrāhmaṇasutta*
 
 At Sāvatthī.
 
@@ -548,7 +548,7 @@ life as an ascetic or brahmin, and live having realized it with their
 own insight."
 
 <!--pg-->
-### N 12.15 Kaccānagotta *Kaccānagottasutta*
+### SN 12.15 Kaccānagotta *Kaccānagottasutta*
 
 At Sāvatthī.
 
@@ -592,7 +592,7 @@ cease. When choices cease, consciousness ceases. ... That is how this
 entire mass of suffering ceases.'"
 
 <!--pg-->
-### N 12.16 A Dhamma Speaker *Dhammakathikasutta*
+### SN 12.16 A Dhamma Speaker *Dhammakathikasutta*
 
 At Sāvatthī.
 
@@ -624,7 +624,7 @@ regarding ignorance, they're qualified to be called a 'mendicant who has
 attained extinguishment in this very life'."
 
 <!--pg-->
-### N 12.17 With Kassapa, the Naked Ascetic *Acelakassapasutta*
+### SN 12.17 With Kassapa, the Naked Ascetic *Acelakassapasutta*
 
 So I have heard. At one time the Buddha was staying near
 Rājagaha, in the Bamboo Grove, the squirrels' feeding
@@ -725,7 +725,7 @@ completed; what had to be done has been done; there is nothing further
 for this place." And Venerable Kassapa became one of the perfected.
 
 <!--pg-->
-### N 12.18 With Timbaruka *Timbarukasutta*
+### SN 12.18 With Timbaruka *Timbarukasutta*
 
 At Sāvatthī.
 
@@ -785,7 +785,7 @@ this day forth, may the worthy Gotama remember me as a lay follower who
 has gone for refuge for life."
 
 <!--pg-->
-### N 12.19 The Astute and the Foolish *Bālapaṇḍitasutta*
+### SN 12.19 The Astute and the Foolish *Bālapaṇḍitasutta*
 
 At Sāvatthī.
 
@@ -832,7 +832,7 @@ difference here between the foolish and the astute, that is, leading the
 spiritual life."
 
 <!--pg-->
-### N 12.20 Conditions *Paccayasutta*
+### SN 12.20 Conditions *Paccayasutta*
 
 At Sāvatthī.
 
@@ -899,7 +899,7 @@ originated phenomena as they are."
 <!--pg-->
 ## The Chapter on the Ten Powers
 
-### N 12.21 The Ten Powers *Dasabalasutta*
+### SN 12.21 The Ten Powers *Dasabalasutta*
 
 At Sāvatthī.
 
@@ -926,7 +926,7 @@ nothing left over, choices cease. When choices cease, consciousness
 ceases. ... That is how this entire mass of suffering ceases."
 
 <!--pg-->
-### N 12.22 The Ten Powers (2nd) *Dutiyadasabalasutta*
+### SN 12.22 The Ten Powers (2nd) *Dutiyadasabalasutta*
 
 At Sāvatthī.
 
@@ -981,7 +981,7 @@ quite enough for you to persist with diligence. Considering what is good
 for both is quite enough for you to persist with diligence."
 
 <!--pg-->
-### N 12.23 Vital Conditions *Upanisasutta*
+### SN 12.23 Vital Conditions *Upanisasutta*
 
 At Sāvatthī.
 
@@ -1052,7 +1052,7 @@ In the same way, ignorance is a vital condition for choices. ... Freedom
 is a vital condition for the knowledge of ending."
 
 <!--pg-->
-### N 12.24 Followers of Other Religions *Aññatitthiyasutta*
+### SN 12.24 Followers of Other Religions *Aññatitthiyasutta*
 
 Near Rājagaha, in the Bamboo Grove. Then Venerable
 Sāriputta robed up in the morning and, taking his bowl and
@@ -1172,7 +1172,7 @@ and distress cease. That is how this entire mass of suffering ceases.'
 That's how I'd answer such a question."
 
 <!--pg-->
-### N 12.25 With Bhūmija *Bhūmijasutta*
+### SN 12.25 With Bhūmija *Bhūmijasutta*
 
 At Sāvatthī.
 
@@ -1256,7 +1256,7 @@ There is no field, no ground, no scope, no basis, conditioned by which
 that pleasure and pain arise in oneself."
 
 <!--pg-->
-### N 12.26 With Upavāna *Upavāṇasutta*
+### SN 12.26 With Upavāna *Upavāṇasutta*
 
 At Sāvatthī.
 
@@ -1292,7 +1292,7 @@ chance, not made by oneself or another, it's impossible that they will
 experience that without contact."
 
 <!--pg-->
-### N 12.27 Conditions *Paccayasutta*
+### SN 12.27 Conditions *Paccayasutta*
 
 At Sāvatthī.
 
@@ -1337,7 +1337,7 @@ wisdom', and also 'one who stands pushing open the door to freedom from
 death'."
 
 <!--pg-->
-### N 12.28 A Mendicant *Bhikkhusutta*
+### SN 12.28 A Mendicant *Bhikkhusutta*
 
 At Sāvatthī.
 
@@ -1387,7 +1387,7 @@ penetrative wisdom', and also 'one who stands pushing open the door to
 freedom from death'."
 
 <!--pg-->
-### N 12.29 Ascetics and Brahmins *Samaṇabrāhmaṇasutta*
+### SN 12.29 Ascetics and Brahmins *Samaṇabrāhmaṇasutta*
 
 At Sāvatthī.
 
@@ -1413,7 +1413,7 @@ Those venerables realize the goal of life as an ascetic or brahmin, and
 live having realized it with their own insight."
 
 <!--pg-->
-### N 12.30 Ascetics and Brahmins (2nd) *Dutiyasamaṇabrāhmaṇasutta*
+### SN 12.30 Ascetics and Brahmins (2nd) *Dutiyasamaṇabrāhmaṇasutta*
 
 At Sāvatthī.
 
@@ -1439,7 +1439,7 @@ possible that they will abide having transcended choices."
 <!--pg-->
 ## The Chapter with Kaḷāra the Aristocrat
 
-### N 12.31 What Has Come to Be *Bhūtasutta*
+### SN 12.31 What Has Come to Be *Bhūtasutta*
 
 At one time the Buddha was staying near Sāvatthī.
 
@@ -1504,7 +1504,7 @@ This is how to understand the detailed meaning of what was said in
 brief."
 
 <!--pg-->
-### N 12.32 With Kaḷāra the Aristocrat *Kaḷārasutta*
+### SN 12.32 With Kaḷāra the Aristocrat *Kaḷārasutta*
 
 At Sāvatthī.
 
@@ -1640,7 +1640,7 @@ might ask him in different words and ways up to the seventh day and
 night."
 
 <!--pg-->
-### N 12.33 Grounds for Knowledge *Ñāṇavatthusutta*
+### SN 12.33 Grounds for Knowledge *Ñāṇavatthusutta*
 
 At Sāvatthī.
 
@@ -1740,7 +1740,7 @@ stream of the teaching', 'a noble one with penetrative wisdom', and also
 'one who stands pushing open the door to freedom from death'."
 
 <!--pg-->
-### N 12.34 Grounds for Knowledge (2nd) *Dutiyañāṇavatthusutta*
+### SN 12.34 Grounds for Knowledge (2nd) *Dutiyañāṇavatthusutta*
 
 At Sāvatthī.
 
@@ -1773,7 +1773,7 @@ vanish, fade away, and cease. These are called the seventy-seven grounds
 for knowledge."
 
 <!--pg-->
-### N 12.35 Ignorance is a Condition *Avijjāpaccayasutta*
+### SN 12.35 Ignorance is a Condition *Avijjāpaccayasutta*
 
 At Sāvatthī.
 
@@ -1865,7 +1865,7 @@ and the body are different things.' These are all cut off at the root,
 made like a palm stump, obliterated, and unable to arise in the future."
 
 <!--pg-->
-### N 12.36 Ignorance is a Condition (2nd) *Dutiyaavijjāpaccayasutta*
+### SN 12.36 Ignorance is a Condition (2nd) *Dutiyaavijjāpaccayasutta*
 
 At Sāvatthī.
 
@@ -1916,7 +1916,7 @@ all cut off at the root, made like a palm stump, obliterated, and unable
 to arise in the future."
 
 <!--pg-->
-### N 12.37 Not Yours *Natumhasutta*
+### SN 12.37 Not Yours *Natumhasutta*
 
 At Sāvatthī.
 
@@ -1936,7 +1936,7 @@ nothing left over, choices cease. When choices cease, consciousness
 ceases. ... That is how this entire mass of suffering ceases.'"
 
 <!--pg-->
-### N 12.38 Intention *Cetanāsutta*
+### SN 12.38 Intention *Cetanāsutta*
 
 At Sāvatthī.
 
@@ -1968,7 +1968,7 @@ lamentation, pain, sadness, and distress. That is how this entire mass
 of suffering ceases."
 
 <!--pg-->
-### N 12.39 Intention (2nd) *Dutiyacetanāsutta*
+### SN 12.39 Intention (2nd) *Dutiyacetanāsutta*
 
 At Sāvatthī.
 
@@ -1997,7 +1997,7 @@ cease, the six sense fields cease. ... That is how this entire mass of
 suffering ceases."
 
 <!--pg-->
-### N 12.40 Intention (3rd) *Tatiyacetanāsutta*
+### SN 12.40 Intention (3rd) *Tatiyacetanāsutta*
 
 At Sāvatthī.
 
@@ -2034,7 +2034,7 @@ of suffering ceases."
 <!--pg-->
 ## The Chapter on Householders
 
-### N 12.41 Dangers and Threats *Pañcaverabhayasutta*
+### SN 12.41 Dangers and Threats *Pañcaverabhayasutta*
 
 At Sāvatthī.
 
@@ -2123,7 +2123,7 @@ a stream-enterer! I'm not liable to be reborn in the underworld, and am
 bound for awakening.'"
 
 <!--pg-->
-### N 12.42 Dangers and Threats (2nd) *Dutiyapañcaverabhayasutta*
+### SN 12.42 Dangers and Threats (2nd) *Dutiyapañcaverabhayasutta*
 
 At Sāvatthī.
 
@@ -2160,7 +2160,7 @@ a stream-enterer! I'm not liable to be reborn in the underworld, and am
 bound for awakening.'"
 
 <!--pg-->
-### N 12.43 Suffering *Dukkhasutta*
+### SN 12.43 Suffering *Dukkhasutta*
 
 At Sāvatthī.
 
@@ -2206,7 +2206,7 @@ and distress cease. That is how this entire mass of suffering ceases.
 This is the ending of suffering."
 
 <!--pg-->
-### N 12.44 The World *Lokasutta*
+### SN 12.44 The World *Lokasutta*
 
 At Sāvatthī.
 
@@ -2251,7 +2251,7 @@ existence ceases. ... That is how this entire mass of suffering ceases.
 This is the ending of the world."
 
 <!--pg-->
-### N 12.45 At Ñātika *Ñātikasutta*
+### SN 12.45 At Ñātika *Ñātikasutta*
 
 So I have heard. At one time the Buddha was staying at
 Ñātika in the brick house. Then while the Buddha was in
@@ -2295,7 +2295,7 @@ That exposition of the teaching is beneficial and relates to the
 fundamentals of the spiritual life."
 
 <!--pg-->
-### N 12.46 A Certain Brahmin *Aññatarabrāhmaṇasutta*
+### SN 12.46 A Certain Brahmin *Aññatarabrāhmaṇasutta*
 
 At Sāvatthī.
 
@@ -2327,7 +2327,7 @@ Gotama! Excellent! ... From this day forth, may the worthy Gotama
 remember me as a lay follower who has gone for refuge for life."
 
 <!--pg-->
-### N 12.47 Jānussoṇi *Jāṇussoṇisutta*
+### SN 12.47 Jānussoṇi *Jāṇussoṇisutta*
 
 At Sāvatthī.
 
@@ -2356,7 +2356,7 @@ may the worthy Gotama remember me as a lay follower who has gone for
 refuge for life."
 
 <!--pg-->
-### N 12.48 A Cosmologist *Lokāyatikasutta*
+### SN 12.48 A Cosmologist *Lokāyatikasutta*
 
 At Sāvatthī.
 
@@ -2393,7 +2393,7 @@ worthy Gotama remember me as a lay follower who has gone for refuge for
 life."
 
 <!--pg-->
-### N 12.49 A Noble Disciple *Ariyasāvakasutta*
+### SN 12.49 A Noble Disciple *Ariyasāvakasutta*
 
 At Sāvatthī.
 
@@ -2442,7 +2442,7 @@ penetrative wisdom', and also 'one who stands knocking at the door to
 freedom from death'."
 
 <!--pg-->
-### N 12.50 A Noble Disciple (2nd) *Dutiyaariyasāvakasutta*
+### SN 12.50 A Noble Disciple (2nd) *Dutiyaariyasāvakasutta*
 
 At Sāvatthī.
 
@@ -2494,7 +2494,7 @@ freedom from death'."
 <!--pg-->
 ## The Chapter on Suffering
 
-### N 12.51 An Inquiry *Parivīmaṁsanasutta*
+### SN 12.51 An Inquiry *Parivīmaṁsanasutta*
 
 So I have heard. At one time the Buddha was staying near
 Sāvatthī in Jeta's Grove, Anāthapiṇḍika's
@@ -2658,7 +2658,7 @@ this, mendicants; be convinced. Have no doubts or uncertainties in this
 matter. Just this is the end of suffering."
 
 <!--pg-->
-### N 12.52 Grasping *Upādānasutta*
+### SN 12.52 Grasping *Upādānasutta*
 
 At Sāvatthī.
 
@@ -2698,7 +2698,7 @@ craving ceases, grasping ceases. ... That is how this entire mass of
 suffering ceases."
 
 <!--pg-->
-### N 12.53 Fetters *Saṁyojanasutta*
+### SN 12.53 Fetters *Saṁyojanasutta*
 
 At Sāvatthī.
 
@@ -2740,7 +2740,7 @@ When craving ceases, grasping ceases. ... That is how this entire mass
 of suffering ceases."
 
 <!--pg-->
-### N 12.54 Fetters (2nd) *Dutiyasaṁyojanasutta*
+### SN 12.54 Fetters (2nd) *Dutiyasaṁyojanasutta*
 
 At Sāvatthī.
 
@@ -2764,7 +2764,7 @@ When craving ceases, grasping ceases. ... That is how this entire mass
 of suffering ceases."
 
 <!--pg-->
-### N 12.55 A Great Tree *Mahārukkhasutta*
+### SN 12.55 A Great Tree *Mahārukkhasutta*
 
 At Sāvatthī.
 
@@ -2802,7 +2802,7 @@ craving ceases, grasping ceases. When grasping ceases, continued
 existence ceases. ... That is how this entire mass of suffering ceases."
 
 <!--pg-->
-### N 12.56 A Great Tree (2nd) *Dutiyamahārukkhasutta*
+### SN 12.56 A Great Tree (2nd) *Dutiyamahārukkhasutta*
 
 At Sāvatthī.
 
@@ -2830,7 +2830,7 @@ craving ceases, grasping ceases. ... That is how this entire mass of
 suffering ceases."
 
 <!--pg-->
-### N 12.57 A Sapling *Taruṇarukkhasutta*
+### SN 12.57 A Sapling *Taruṇarukkhasutta*
 
 At Sāvatthī.
 
@@ -2867,7 +2867,7 @@ When craving ceases, grasping ceases. ... That is how this entire mass
 of suffering ceases."
 
 <!--pg-->
-### N 12.58 Name and Form *Nāmarūpasutta*
+### SN 12.58 Name and Form *Nāmarūpasutta*
 
 At Sāvatthī.
 
@@ -2899,7 +2899,7 @@ conceived. When name and form cease, the six sense fields cease. ...
 That is how this entire mass of suffering ceases."
 
 <!--pg-->
-### N 12.59 Consciousness *Viññāṇasutta*
+### SN 12.59 Consciousness *Viññāṇasutta*
 
 At Sāvatthī.
 
@@ -2932,7 +2932,7 @@ conceived. When consciousness ceases, name and form cease. ... That is
 how this entire mass of suffering ceases."
 
 <!--pg-->
-### N 12.60 Sources *Nidānasutta*
+### SN 12.60 Sources *Nidānasutta*
 
 At one time the Buddha was staying in the land of the Kurus, near the
 Kuru town named Kammāsadamma. Then Venerable Ānanda went up
@@ -2989,7 +2989,7 @@ and distress cease. That is how this entire mass of suffering ceases."
 <!--pg-->
 ## The Great Chapter
 
-### N 12.61 Unlearned *Assutavāsutta*
+### SN 12.61 Unlearned *Assutavāsutta*
 
 So I have heard. At one time the Buddha was staying near
 Sāvatthī in Jeta's Grove, Anāthapiṇḍika's
@@ -3045,7 +3045,7 @@ completed, what had to be done has been done, there is nothing further
 for this place.'"
 
 <!--pg-->
-### N 12.62 Unlearned (2nd) *Dutiyaassutavāsutta*
+### SN 12.62 Unlearned (2nd) *Dutiyaassutavāsutta*
 
 At Sāvatthī.
 
@@ -3105,7 +3105,7 @@ completed, what had to be done has been done, there is nothing further
 for this place.'"
 
 <!--pg-->
-### N 12.63 A Child's Flesh *Puttamaṁsasutta*
+### SN 12.63 A Child's Flesh *Puttamaṁsasutta*
 
 At Sāvatthī.
 
@@ -3197,7 +3197,7 @@ completely understood. When name and form are completely understood, a
 noble disciple has nothing further to do, I say."
 
 <!--pg-->
-### N 12.64 If There Is Desire *Atthirāgasutta*
+### SN 12.64 If There Is Desire *Atthirāgasutta*
 
 At Sāvatthī.
 
@@ -3313,7 +3313,7 @@ death in the future. Where there is no rebirth, old age, and death in
 the future, I say there's no sorrow, anguish, and distress."
 
 <!--pg-->
-### N 12.65 The City *Nagarasutta*
+### SN 12.65 The City *Nagarasutta*
 
 At Sāvatthī.
 
@@ -3412,7 +3412,7 @@ prosperous, extensive, popular, widespread, and well proclaimed wherever
 there are gods and humans."
 
 <!--pg-->
-### N 12.66 Self-examination *Sammasasutta*
+### SN 12.66 Self-examination *Sammasasutta*
 
 So I have heard. At one time the Buddha was staying in the
 land of the Kurus, near the Kuru town named Kammāsadamma.
@@ -3565,7 +3565,7 @@ from sorrow, lamentation, pain, sadness, and distress. They are freed
 from suffering, I say."
 
 <!--pg-->
-### N 12.67 Bundles of Reeds *Naḷakalāpīsutta*
+### SN 12.67 Bundles of Reeds *Naḷakalāpīsutta*
 
 At one time Venerable Sāriputta and Venerable
 Mahākoṭṭhita were staying near Varanasi, in the deer park
@@ -3671,7 +3671,7 @@ regarding ignorance, they're qualified to be called a 'mendicant who has
 attained extinguishment in this very life'."
 
 <!--pg-->
-### N 12.68 At Kosambī *Kosambisutta*
+### SN 12.68 At Kosambī *Kosambisutta*
 
 At one time the venerables Musīla, Saviṭṭha,
 Nārada, and Ānanda were staying near Kosambī
@@ -3783,7 +3783,7 @@ to say to Venerable Nārada when he speaks like this?"
 when he speaks like this, except what is good and wholesome."
 
 <!--pg-->
-### N 12.69 Surge *Upayantisutta*
+### SN 12.69 Surge *Upayantisutta*
 
 So I have heard. At one time the Buddha was staying near
 Sāvatthī in Jeta's Grove, Anāthapiṇḍika's
@@ -3818,7 +3818,7 @@ recede. When continued existence recedes it makes rebirth recede. When
 rebirth recedes it makes old age and death recede."
 
 <!--pg-->
-### N 12.70 The Wanderer Susīma *Susimaparibbājakasutta*
+### SN 12.70 The Wanderer Susīma *Susimaparibbājakasutta*
 
 So I have heard. At one time the Buddha was staying near
 Rājagaha, in the Bamboo Grove, the squirrels' feeding
@@ -4169,7 +4169,7 @@ with it properly, and commit to restraint in the future."
 <!--pg-->
 ## The Chapter on Ascetics and Brahmins
 
-### N 12.71 Old Age and Death *Jarāmaraṇasutta*
+### SN 12.71 Old Age and Death *Jarāmaraṇasutta*
 
 So I have heard. At one time the Buddha was staying near
 Sāvatthī in Jeta's Grove, Anāthapiṇḍika's
@@ -4188,7 +4188,7 @@ realize the goal of life as an ascetic or brahmin, and live having
 realized it with their own insight."
 
 <!--pg-->
-### N 12.72--81 A Set of Ten on Rebirth, Etc. *Jātisuttādidasaka*
+### SN 12.72--81 A Set of Ten on Rebirth, Etc. *Jātisuttādidasaka*
 
 At Sāvatthī.
 
@@ -4219,7 +4219,7 @@ At Sāvatthī.
 <!--pg-->
 ## The Teacher, etc.
 
-### N 12.82 The Teacher *Satthusutta*
+### SN 12.82 The Teacher *Satthusutta*
 
 At Sāvatthī.
 
@@ -4236,7 +4236,7 @@ know the practice that leads to the cessation of old age and death."
 **(All the abbreviated texts should be told in full.)**
 
 <!--pg-->
-### N 12.83--92 The Teacher (2nd) *Dutiyasatthusuttādidasaka*
+### SN 12.83--92 The Teacher (2nd) *Dutiyasatthusuttādidasaka*
 
 "Mendicants, one who does not truly know or see rebirth ..."
 
@@ -4263,7 +4263,7 @@ know the practice that leads to the cessation of old age and death."
 <!--pg-->
 ## Sets of Eleven on Training, Etc.
 
-### N 12.93--213 Sets of Eleven on Training, Etc. *Sikkhāsuttādipeyyālaekādasaka*
+### SN 12.93--213 Sets of Eleven on Training, Etc. *Sikkhāsuttādipeyyālaekādasaka*
 
 "Mendicants, one who does not truly know or see old age and death should
 train so as to truly know old age and death. ..."

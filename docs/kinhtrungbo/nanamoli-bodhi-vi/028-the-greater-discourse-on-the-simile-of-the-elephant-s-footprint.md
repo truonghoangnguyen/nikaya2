@@ -1,4 +1,4 @@
-# 28. Đại Kinh Ví Dụ Dấu Chân Voi
+# MN 28. Đại Kinh Ví Dụ Dấu Chân Voi
 ***(Mahāhatthipadopama Sutta)***
 
 1\. Tôi nghe như vầy. [^327] Một thời, Thế Tôn trú ở Sāvatthī (Xá Vệ), tại khu rừng Jeta (Kỳ Đà), vườn của ông Anāthapindika (Cấp Cô Độc). Tại đó, tôn giả Sāriputta (Xá Lợi Phất) nói với các tỳ kheo (monks-bhikkhus-nhà sư) rằng: "Này các hiền giả, các tỳ kheo." - "Thưa hiền giả," họ đáp. Tôn giả Sāriputta nói như sau:

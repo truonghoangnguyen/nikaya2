@@ -1,4 +1,4 @@
-# 24. Kinh Xe Tiếp Sức (Ratha-vinīta Sutta)
+# MN 24. Kinh Xe Tiếp Sức (Ratha-vinīta Sutta)
 
 1\. Tôi nghe như vầy. Một thuở nọ, Đức Thế Tôn (the Blessed One) trú tại Rājagaha (Vương Xá thành), trong khu rừng Trúc Lâm, nơi nuôi dưỡng các con sóc.
 
@@ -23,19 +23,19 @@ thân thiện kết thúc, Ngài ngồi xuống một bên và nói với Tôn g
 <!--pg-->
 9\. (Sāriputta):"Này Hiền giả, có phải đời sống phạm hạnh (holy life) được sống dưới sự hướng dẫn của Đức Thế Tôn của chúng ta không?" - "Đúng vậy, Hiền giả."
 
-- "Nhưng, này Hiền giả, có phải vì mục đích thanh tịnh giới hạnh (purification of virtue) mà đời sống phạm hạnh được sống dưới sự hướng dẫn của Đức Thế Tôn không?" - "Không phải, Hiền giả."
+-- "Nhưng, này Hiền giả, có phải vì mục đích thanh tịnh giới hạnh (purification of virtue) mà đời sống phạm hạnh được sống dưới sự hướng dẫn của Đức Thế Tôn không?" - "Không phải, Hiền giả."
 
-- "Vậy có phải vì mục đích thanh tịnh tâm (purification of mind) mà đời sống phạm hạnh được sống dưới sự hướng dẫn của Đức Thế Tôn không?" - "Không phải, Hiền giả."
+-- "Vậy có phải vì mục đích thanh tịnh tâm (purification of mind) mà đời sống phạm hạnh được sống dưới sự hướng dẫn của Đức Thế Tôn không?" - "Không phải, Hiền giả."
 
-- "Vậy có phải vì mục đích thanh tịnh tri kiến (purification of view) mà đời sống phạm hạnh được sống dưới sự hướng dẫn của Đức Thế Tôn không?" - "Không phải, Hiền giả."
+-- "Vậy có phải vì mục đích thanh tịnh tri kiến (purification of view) mà đời sống phạm hạnh được sống dưới sự hướng dẫn của Đức Thế Tôn không?" - "Không phải, Hiền giả."
 
-- "Vậy có phải vì mục đích thanh tịnh bằng cách vượt qua nghi ngờ (purification by overcoming doubt - thanh tịnh hóa nghi ngờ) mà đời sống phạm hạnh được sống dưới sự hướng dẫn của Đức Thế Tôn không?" - "Không phải, Hiền giả."
+-- "Vậy có phải vì mục đích thanh tịnh bằng cách vượt qua nghi ngờ (purification by overcoming doubt - thanh tịnh hóa nghi ngờ) mà đời sống phạm hạnh được sống dưới sự hướng dẫn của Đức Thế Tôn không?" - "Không phải, Hiền giả."
 
-- "Vậy có phải vì mục đích thanh tịnh bằng tri kiến về con đường đúng và con đường sai (purification by knowledge and vision of what is the path and what is not the path) mà đời sống phạm hạnh được sống dưới sự hướng dẫn của Đức Thế Tôn không?" - "Không phải, Hiền giả."
+-- "Vậy có phải vì mục đích thanh tịnh bằng tri kiến về con đường đúng và con đường sai (purification by knowledge and vision of what is the path and what is not the path) mà đời sống phạm hạnh được sống dưới sự hướng dẫn của Đức Thế Tôn không?" - "Không phải, Hiền giả."
 
-- "Vậy có phải vì mục đích thanh tịnh bằng tri kiến về con đường đạo (purification by knowledge and vision of the way) mà đời sống phạm hạnh được sống dưới sự hướng dẫn của Đức Thế Tôn không?" - "Không phải, Hiền giả."
+-- "Vậy có phải vì mục đích thanh tịnh bằng tri kiến về con đường đạo (purification by knowledge and vision of the way) mà đời sống phạm hạnh được sống dưới sự hướng dẫn của Đức Thế Tôn không?" - "Không phải, Hiền giả."
 
-- "Vậy có phải vì mục đích thanh tịnh bằng tri kiến (purification by knowledge and vision) mà đời sống phạm hạnh được sống dưới sự hướng dẫn của Đức Thế Tôn không?" - "Không phải, Hiền giả."
+-- "Vậy có phải vì mục đích thanh tịnh bằng tri kiến (purification by knowledge and vision) mà đời sống phạm hạnh được sống dưới sự hướng dẫn của Đức Thế Tôn không?" - "Không phải, Hiền giả."
 
 10\. "Này Hiền giả, khi được hỏi: 'Nhưng, này Hiền giả, có phải vì mục đích thanh tịnh giới hạnh mà đời sống phạm hạnh được sống dưới sự hướng dẫn của Đức Thế Tôn không?' Hiền giả trả lời: 'Không phải, Hiền giả.' Khi được hỏi: 'Vậy có phải vì mục đích thanh tịnh tâm... thanh tịnh tri kiến... thanh tịnh bằng cách vượt qua nghi ngờ... thanh tịnh bằng tri kiến về con đường đúng và con đường sai... thanh tịnh bằng tri kiến về con đường đạo... thanh tịnh bằng tri kiến mà đời sống phạm hạnh được sống dưới sự hướng dẫn của Đức Thế Tôn không?' Hiền giả trả lời: 'Không phải, Hiền giả.' Vậy thì, này Hiền giả, vì mục đích gì mà đời sống phạm hạnh được sống dưới sự hướng dẫn của Đức Thế Tôn?"
 
@@ -56,7 +56,7 @@ cỗ xe thứ năm, ngài sẽ đến cỗ xe thứ sáu... nhờ cỗ xe thứ 
 
 "Để trả lời đúng, này Hiền giả, ngài ấy nên trả lời như sau: 'Ở đây, khi đang ở Sāvatthī, ta có một việc khẩn cấp cần giải quyết tại Sāketa, và giữa Sāvatthī và Sāketa có bảy cỗ xe tiếp sức được chuẩn bị sẵn cho ta. Rồi, rời Sāvatthī qua cửa cung điện bên trong, ta lên cỗ xe tiếp sức đầu tiên, và nhờ cỗ xe tiếp sức đầu tiên, ta đến cỗ xe tiếp sức thứ hai; rồi ta xuống cỗ xe đầu tiên và lên cỗ xe thứ hai, và nhờ cỗ xe thứ hai, ta đến cỗ xe thứ ba... thứ tư... thứ năm... thứ sáu... thứ bảy, và nhờ cỗ xe thứ bảy, ta đến cửa cung điện bên trong ở Sāketa.' Để trả lời đúng, ngài ấy nên trả lời như vậy."
 
-15\. "Cũng vậy, này Hiền giả, thanh tịnh giới hạnh là để đạt đến thanh tịnh tâm; thanh tịnh tâm là để đạt đến thanh tịnh tri kiến; thanh tịnh tri kiến là để đạt đến thanh tịnh bằng cách vượt qua nghi ngờ; thanh tịnh bằng cách vượt qua nghi ngờ là để đạt đến thanh tịnh bằng tri kiến về con đường đúng và con đường sai; thanh tịnh bằng tri kiến về con đường đúng và con đường sai là để đạt đến thanh tịnh bằng tri kiến về con đường đạo; thanh tịnh bằng tri kiến về con đường đạo là để đạt đến thanh tịnh bằng tri kiến; thanh tịnh bằng tri kiến là để đạt đến Niết-bàn tối hậu không còn chấp thủ. Chính vì mục đích Niết-bàn tối hậu không còn chấp thủ mà đời sống phạm hạnh được sống dưới sự hướng dẫn của Đức Thế Tôn."
+15\. "Cũng vậy, này Hiền giả, thanh tịnh giới hạnh là để đạt đến thanh tịnh tâm; thanh tịnh tâm là để đạt đến thanh tịnh kiến; thanh tịnh kiến là để đạt đến thanh tịnh bằng cách vượt qua nghi ngờ; thanh tịnh bằng cách vượt qua nghi ngờ là để đạt đến thanh tịnh bằng tri kiến về con đường đúng và con đường sai; thanh tịnh bằng tri kiến về con đường đúng và con đường sai là để đạt đến thanh tịnh bằng tri kiến về con đường đạo; thanh tịnh bằng tri kiến về con đường đạo là để đạt đến thanh tịnh bằng tri kiến; thanh tịnh bằng tri kiến là để đạt đến Niết-bàn tối hậu không còn chấp thủ. Chính vì mục đích Niết-bàn tối hậu không còn chấp thủ mà đời sống phạm hạnh được sống dưới sự hướng dẫn của Đức Thế Tôn."
 
 <!--pg-->
 16\. Khi điều này được nói ra, Tôn giả Sāriputta hỏi Tôn giả Puṇṇa Mantāṇiputta: "Tôn giả tên là gì, và các bạn đồng tu biết Tôn giả như thế nào?"
@@ -79,7 +79,7 @@ Từ ngữ:
 - Đời sống phạm hạnh / brahmacariya / holy life: Đời sống tu hành thanh tịnh, hướng đến giải thoát, bao gồm việc giữ giới, tu tập thiền định và phát triển trí tuệ.
 - Thanh tịnh giới hạnh / sīlavisuddhi / purification of virtue: Sự trong sạch về đạo đức, hành vi, lời nói và ý nghĩ, thông qua việc giữ gìn giới luật.
 - Thanh tịnh tâm / cittavisuddhi / purification of mind: Sự trong sạch của tâm, không bị ô nhiễm bởi tham, sân, si, thông qua việc tu tập thiền định.
-- Thanh tịnh tri kiến / diṭṭhivisuddhi / purification of view: Sự trong sạch về nhận thức, hiểu biết đúng đắn về thực tại, không bị tà kiến chi phối.
+- Thanh tịnh  kiến / diṭṭhivisuddhi / purification of view: Sự trong sạch về nhận thức, hiểu biết đúng đắn về thực tại, không bị tà kiến chi phối.
 - Thanh tịnh bằng cách vượt qua nghi ngờ / kaṅkhāvitaraṇavisuddhi / purification by overcoming doubt: Sự trong sạch đạt được bằng cách loại bỏ mọi nghi ngờ về Phật, Pháp, Tăng, về con đường tu tập, thông qua việc học hỏi, thực hành và chứng nghiệm.
 - Thanh tịnh bằng tri kiến về con đường đúng và con đường sai / maggāmaggañāṇadassanavisuddhi / purification by knowledge and vision of what is the path and what is not the path: Sự trong sạch đạt được bằng cách nhận biết rõ ràng con đường dẫn đến giải thoát và con đường không dẫn đến giải thoát.
 - Thanh tịnh bằng tri kiến về con đường đạo / paṭipadāñāṇadassanavisuddhi / purification by knowledge and vision of the way: Sự trong sạch đạt được bằng cách hiểu rõ phương pháp tu tập cụ thể để đạt đến giải thoát.
@@ -100,7 +100,7 @@ Từ ngữ:
 *7 "Cỗ xe" đề cập trong bài (so sánh từ ngữ)*:
 - giới thanh tịnh = thanh tịnh giới hạnh (purification of virtue)
 - tâm thanh tịnh = thanh tịnh tâm (purification of mind)
-- kiến thanh tịnh = thanh tịnh tri kiến (purification of view)
+- kiến thanh tịnh = thanh tịnh kiến (purification of view)
 - đoạn nghi thanh tịnh = thanh tịnh bằng cách vượt qua nghi ngờ (purification by overcoming doubt - thanh tịnh hóa nghi ngờ)
 - đạo phi đạo tri kiến thanh tịnh = thanh tịnh bằng tri kiến về con đường đúng và con đường sai (purification by knowledge and vision of what is the path and what is not the path)
 - đạo tri kiến thanh tịnh = thanh tịnh bằng tri kiến về con đường đạo (purification by knowledge and vision of the way)

@@ -1,10 +1,10 @@
-# Các Kinh Tương Ưng về Chư Thiên
+# Tương Ưng về Chư Thiên
 
 
 <!--pg-->
 ## Chương Một
 
-### N 2.1 Với Kassapa (thứ nhất) *Paṭhamakassapasutta*
+### SN 2.1 Với Kassapa (thứ nhất) *Paṭhamakassapasutta*
 
 Như vầy tôi nghe. Một thời Thế Tôn ở gần
 Sāvatthī (Xá-vệ), tại Jetavana (Kỳ-đà Lâm), trong tu viện của Anāthapiṇḍika (Cấp Cô Độc).
@@ -23,7 +23,7 @@ Kassapa, biết rằng bậc Đạo Sư đã chấp thuận, đảnh lễ và đ
 
 
 <!--pg-->
-### N 2.2 Với Kassapa (thứ hai) *Dutiyakassapasutta*
+### SN 2.2 Với Kassapa (thứ hai) *Dutiyakassapasutta*
 
 Tại Sāvatthī.
 
@@ -36,7 +36,7 @@ Tại Sāvatthī.
 
 
 <!--pg-->
-### N 2.3 Với Māgha *Māghasutta*
+### SN 2.3 Với Māgha *Māghasutta*
 
 Tại Sāvatthī.
 
@@ -58,7 +58,7 @@ và thưa với Thế Tôn bằng những vần kệ:
 
 
 <!--pg-->
-### N 2.4 Với Māghadha *Māgadhasutta*
+### SN 2.4 Với Māghadha *Māgadhasutta*
 
 Tại Sāvatthī.
 
@@ -82,7 +82,7 @@ bằng những vần kệ:
 
 
 <!--pg-->
-### N 2.5 Với Dāmali *Dāmalisutta*
+### SN 2.5 Với Dāmali *Dāmalisutta*
 
 Tại Sāvatthī.
 
@@ -113,7 +113,7 @@ và đọc bài kệ này trước sự hiện diện của Thế Tôn:
 
 
 <!--pg-->
-### N 2.6 Với Kāmada *Kāmadasutta*
+### SN 2.6 Với Kāmada *Kāmadasutta*
 
 Tại Sāvatthī.
 
@@ -155,7 +155,7 @@ Tại Sāvatthī.
 
 
 <!--pg-->
-### N 2.7 Với Pañcālacaṇḍa *Pañcālacaṇḍasutta*
+### SN 2.7 Với Pañcālacaṇḍa *Pañcālacaṇḍasutta*
 
 Tại Sāvatthī.
 
@@ -175,7 +175,7 @@ kệ này trước sự hiện diện của Thế Tôn:
 
 
 <!--pg-->
-### N 2.8 Với Tāyana *Tāyanasutta*
+### SN 2.8 Với Tāyana *Tāyanasutta*
 
 Tại Sāvatthī.
 
@@ -228,7 +228,7 @@ nền tảng của đời sống phạm hạnh."
 
 
 <!--pg-->
-### N 2.9 Mặt Trăng *Candimasutta*
+### SN 2.9 Mặt Trăng *Candimasutta*
 
 Tại Sāvatthī.
 
@@ -264,7 +264,7 @@ Vepacitti nói với ông bằng những vần kệ:
 
 
 <!--pg-->
-### N 2.10 Mặt Trời *Sūriyasutta*
+### SN 2.10 Mặt Trời *Sūriyasutta*
 
 Tại Sāvatthī.
 
@@ -308,7 +308,7 @@ Vepacitti nói với ông bằng những vần kệ:
 <!--pg-->
 ## Phẩm Cấp Cô Độc
 
-### N 2.11 Với Candimasa *Candimasasutta*
+### SN 2.11 Với Candimasa *Candimasasutta*
 
 Tại Sāvatthī.
 
@@ -328,7 +328,7 @@ Jeta, đã đến gặp Thế Tôn, đảnh lễ, đứng sang một bên, và
 
 
 <!--pg-->
-### N 2.12 Với Vishnu *Veṇḍusutta*
+### SN 2.12 Với Vishnu *Veṇḍusutta*
 
 Đứng một bên, vị thiên tử Vishnu đọc bài kệ này trước sự hiện diện của Thế Tôn:
 
@@ -346,7 +346,7 @@ Jeta, đã đến gặp Thế Tôn, đảnh lễ, đứng sang một bên, và
 
 
 <!--pg-->
-### N 2.13 Với Dīghalaṭṭhi *Dīghalaṭṭhisutta*
+### SN 2.13 Với Dīghalaṭṭhi *Dīghalaṭṭhisutta*
 
 Như vầy tôi nghe. Một thời Thế Tôn ở gần
 Rājagaha (Vương Xá), tại Veluvana (Trúc Lâm), nơi nuôi dưỡng các con sóc.
@@ -362,7 +362,7 @@ và đọc bài kệ này trước sự hiện diện của Thế Tôn:
 
 
 <!--pg-->
-### N 2.14 Với Nandana *Nandanasutta*
+### SN 2.14 Với Nandana *Nandanasutta*
 
 Đứng một bên, vị thiên tử Nandana thưa với Thế Tôn bằng những vần kệ:
 
@@ -388,7 +388,7 @@ và đọc bài kệ này trước sự hiện diện của Thế Tôn:
 
 
 <!--pg-->
-### N 2.15 Với Candana *Candanasutta*
+### SN 2.15 Với Candana *Candanasutta*
 
 Đứng một bên, vị thiên tử Candana thưa với Thế Tôn bằng những vần kệ:
 
@@ -409,7 +409,7 @@ và đọc bài kệ này trước sự hiện diện của Thế Tôn:
 
 
 <!--pg-->
-### N 2.16 Với Vāsudatta *Vāsudattasutta*
+### SN 2.16 Với Vāsudatta *Vāsudattasutta*
 
 Đứng một bên, vị thiên tử Vāsudatta đọc bài kệ này
 trước sự hiện diện của Thế Tôn:
@@ -426,7 +426,7 @@ trước sự hiện diện của Thế Tôn:
 
 
 <!--pg-->
-### N 2.17 Với Subrahmā *Subrahmasutta*
+### SN 2.17 Với Subrahmā *Subrahmasutta*
 
 Đứng một bên, vị thiên tử Subrahmā thưa với Thế Tôn
 bằng những vần kệ:
@@ -447,7 +447,7 @@ bằng những vần kệ:
 
 
 <!--pg-->
-### N 2.18 Với Kakudha *Kakudhasutta*
+### SN 2.18 Với Kakudha *Kakudhasutta*
 
 Như vầy tôi nghe. Một thời Thế Tôn ở gần
 Sāketa, trong vườn nai tại rừng Añjana.
@@ -493,7 +493,7 @@ bên, và nói với Ngài: "Ngài có vui thích không, hỡi sa-môn?"
 
 
 <!--pg-->
-### N 2.19 Với Uttara *Uttarasutta*
+### SN 2.19 Với Uttara *Uttarasutta*
 
 Tại Rājagaha. Đứng một bên, vị thiên tử Uttara đọc
 bài kệ này trước sự hiện diện của Thế Tôn:
@@ -510,7 +510,7 @@ bài kệ này trước sự hiện diện của Thế Tôn:
 
 
 <!--pg-->
-### N 2.20 Với Anāthapiṇḍika *Anāthapiṇḍikasutta*
+### SN 2.20 Với Anāthapiṇḍika *Anāthapiṇḍikasutta*
 
 Đứng một bên, vị thiên tử Anāthapiṇḍika đọc những
 vần kệ này trước sự hiện diện của Thế Tôn:
@@ -555,7 +555,7 @@ logic. Vì đó quả thực là vị thiên tử Anāthapiṇḍika."
 <!--pg-->
 ## Phẩm Về Các Tôn Phái Khác Nhau
 
-### N 2.21 Với Shiva *Sivasutta*
+### SN 2.21 Với Shiva *Sivasutta*
 
 Như vầy tôi nghe. Một thời Thế Tôn ở gần
 Sāvatthī, tại Jetavana, tu viện của Anāthapiṇḍika.
@@ -603,7 +603,7 @@ Rồi Thế Tôn trả lời Shiva bằng những vần kệ:
 
 
 <!--pg-->
-### N 2.22 Với Khema *Khemasutta*
+### SN 2.22 Với Khema *Khemasutta*
 
 Đứng một bên, vị thiên tử Khema đọc những vần kệ này trước sự hiện diện của Thế Tôn:
 
@@ -639,7 +639,7 @@ Rồi Thế Tôn trả lời Shiva bằng những vần kệ:
 
 
 <!--pg-->
-### N 2.23 Với Serī *Serīsutta*
+### SN 2.23 Với Serī *Serīsutta*
 
 Đứng một bên, vị thiên tử Serī thưa với Thế Tôn bằng
 những vần kệ:
@@ -716,7 +716,7 @@ không thể tin được, thưa ngài, thật tuyệt vời, những lời này
 
 
 <!--pg-->
-### N 2.24 Với Ghaṭīkāra *Ghaṭīkārasutta*
+### SN 2.24 Với Ghaṭīkāra *Ghaṭīkārasutta*
 
 Đứng một bên, vị thiên tử Ghaṭīkāra đọc bài kệ này
 trước sự hiện diện của Thế Tôn:
@@ -792,7 +792,7 @@ trước sự hiện diện của Thế Tôn:
 
 
 <!--pg-->
-### N 2.25 Với Jantu *Jantusutta*
+### SN 2.25 Với Jantu *Jantusutta*
 
 Như vầy tôi nghe.
 
@@ -829,7 +829,7 @@ Tỷ kheo đó và nói với họ bằng những vần kệ:
 
 
 <!--pg-->
-### N 2.26 Với Rohitassa *Rohitassasutta*
+### SN 2.26 Với Rohitassa *Rohitassasutta*
 
 Tại Sāvatthī.
 
@@ -878,7 +878,7 @@ sự chấm dứt của nó, và con đường thực hành dẫn đến sự ch
 
 
 <!--pg-->
-### N 2.27 Với Nanda *Nandasutta*
+### SN 2.27 Với Nanda *Nandasutta*
 
 Đứng một bên, vị thiên tử Nanda đọc bài kệ này trước sự hiện diện của Thế Tôn:
 
@@ -894,7 +894,7 @@ sự chấm dứt của nó, và con đường thực hành dẫn đến sự ch
 
 
 <!--pg-->
-### N 2.28 Với Nandivisāla *Nandivisālasutta*
+### SN 2.28 Với Nandivisāla *Nandivisālasutta*
 
 Đứng một bên, vị thiên tử Nandivisāla thưa với
 Thế Tôn bằng những vần kệ:
@@ -911,7 +911,7 @@ Thế Tôn bằng những vần kệ:
 
 
 <!--pg-->
-### N 2.29 Với Susīma *Susimasutta*
+### SN 2.29 Với Susīma *Susimasutta*
 
 Tại Sāvatthī.
 
@@ -987,7 +987,7 @@ Tôn giả Sāriputta:
 
 
 <!--pg-->
-### N 2.30 Các Đệ Tử của Các Tu Sĩ Thuộc Các Tôn Giáo Khác *Nānātitthiyasāvakasutta*
+### SN 2.30 Các Đệ Tử của Các Tu Sĩ Thuộc Các Tôn Giáo Khác *Nānātitthiyasāvakasutta*
 
 Như vầy tôi nghe. Một thời Thế Tôn ở gần
 Rājagaha, tại Veluvana, nơi nuôi dưỡng các con sóc.

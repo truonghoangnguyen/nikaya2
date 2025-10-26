@@ -1,4 +1,4 @@
-# 26. Cuộc Tìm Kiếm Cao Quý
+# MN 26. Cuộc Tìm Kiếm Cao Quý
 ***(Ariyapariyesanā Sutta - Kinh Thánh Cầu)***
 
 1\. Tôi nghe như vầy [^297]. Một thời, Đức Thế Tôn trú tại Sāvatthī (Xá Vệ), trong khu rừng Jeta (Kỳ Đà), vườn của ông Anāthapiṇ̣ika (Cấp Cô Độc).

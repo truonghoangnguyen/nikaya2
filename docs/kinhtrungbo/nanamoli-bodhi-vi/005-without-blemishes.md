@@ -1,4 +1,4 @@
-# 5. Không Còn Vết Nhơ
+# MN 5. Không Còn Vết Nhơ
 ***(Kinh Anangaṇa)***
 
 1\.  Tôi nghe như vầy. Có lần Đức Phật (the Blessed One) ở tại Sāvatthī trong khu rừng Jeta, vườn của Anāthapiṇ̣ika. Tại đó, tôn giả Sāriputta gọi các vị tỳ kheo (bhikkhus): "Này các đạo hữu." - "Thưa đạo hữu," họ đáp lại. Tôn giả Sāriputta nói như sau:

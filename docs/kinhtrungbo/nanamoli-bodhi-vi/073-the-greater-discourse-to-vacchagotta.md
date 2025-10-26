@@ -1,4 +1,4 @@
-# 73. Kinh Đại Vacchagotta
+# MN 73. Kinh Đại Vacchagotta
 ***(Mahāvacchagotta Sutta)***
 
 1\.  Như vầy tôi nghe. Một thời Đức Thế Tôn trú tại Rājagaha (Vương Xá), trong Trúc Lâm, nơi trú ẩn của các con sóc.

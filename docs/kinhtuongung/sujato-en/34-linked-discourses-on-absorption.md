@@ -3,7 +3,7 @@
 <!--pg-->
 ## The Chapter on Absorption
 
-### N 34.1 Entering Immersion *Samādhimūlakasamāpattisutta*
+### SN 34.1 Entering Immersion *Samādhimūlakasamāpattisutta*
 
 At Sāvatthī.
 
@@ -28,7 +28,7 @@ In the same way, the meditator skilled in immersion and entering it is
 the foremost, best, leading, highest, and finest of the four."
 
 <!--pg-->
-### N 34.2 Remaining in Immersion *Samādhimūlakaṭhitisutta*
+### SN 34.2 Remaining in Immersion *Samādhimūlakaṭhitisutta*
 
 At Sāvatthī.
 
@@ -54,7 +54,7 @@ In the same way, the meditator skilled in immersion and remaining in it
 is the foremost, best, leading, highest, and finest of the four."
 
 <!--pg-->
-### N 34.3 Emerging From Immersion *Samādhimūlakavuṭṭhānasutta*
+### SN 34.3 Emerging From Immersion *Samādhimūlakavuṭṭhānasutta*
 
 At Sāvatthī.
 
@@ -63,7 +63,7 @@ At Sāvatthī.
 One meditator is skilled in immersion but not in emerging from it. ..."
 
 <!--pg-->
-### N 34.4 Gladdening for Immersion *Samādhimūlakakallitasutta*
+### SN 34.4 Gladdening for Immersion *Samādhimūlakakallitasutta*
 
 At Sāvatthī.
 
@@ -73,7 +73,7 @@ One meditator is skilled in immersion but not in gladdening the mind for
 immersion. ..."
 
 <!--pg-->
-### N 34.5 Supports For Immersion *Samādhimūlakaārammaṇasutta*
+### SN 34.5 Supports For Immersion *Samādhimūlakaārammaṇasutta*
 
 At Sāvatthī.
 
@@ -83,7 +83,7 @@ One meditator is skilled in immersion but not in the supports for
 immersion. ..."
 
 <!--pg-->
-### N 34.6 Meditation Subjects For Immersion *Samādhimūlakagocarasutta*
+### SN 34.6 Meditation Subjects For Immersion *Samādhimūlakagocarasutta*
 
 At Sāvatthī.
 
@@ -93,7 +93,7 @@ One meditator is skilled in immersion but not in the meditation subjects
 for immersion. ..."
 
 <!--pg-->
-### N 34.7 Projecting the Mind Purified by Immersion *Samādhimūlakaabhinīhārasutta*
+### SN 34.7 Projecting the Mind Purified by Immersion *Samādhimūlakaabhinīhārasutta*
 
 At Sāvatthī.
 
@@ -103,7 +103,7 @@ One meditator is skilled in immersion but not in projecting the mind
 purified by immersion. ..."
 
 <!--pg-->
-### N 34.8 Carefulness in Immersion *Samādhimūlakasakkaccakārīsutta*
+### SN 34.8 Carefulness in Immersion *Samādhimūlakasakkaccakārīsutta*
 
 At Sāvatthī.
 
@@ -113,7 +113,7 @@ One meditator is skilled in immersion but not in practicing carefully
 for it. ..."
 
 <!--pg-->
-### N 34.9 Persistence in Immersion *Samādhimūlakasātaccakārīsutta*
+### SN 34.9 Persistence in Immersion *Samādhimūlakasātaccakārīsutta*
 
 At Sāvatthī.
 
@@ -123,7 +123,7 @@ One meditator is skilled in immersion but not in practicing persistently
 for it. ..."
 
 <!--pg-->
-### N 34.10 Conducive to Immersion *Samādhimūlakasappāyakārīsutta*
+### SN 34.10 Conducive to Immersion *Samādhimūlakasappāyakārīsutta*
 
 At Sāvatthī.
 
@@ -133,7 +133,7 @@ One meditator is skilled in immersion but not in doing what's conducive
 to it. ..."
 
 <!--pg-->
-### N 34.11 Entering and Remaining *Samāpattimūlakaṭhitisutta*
+### SN 34.11 Entering and Remaining *Samāpattimūlakaṭhitisutta*
 
 At Sāvatthī.
 
@@ -143,7 +143,7 @@ One meditator is skilled in entering immersion but not in remaining in
 it. ..."
 
 <!--pg-->
-### N 34.12 Entering and Emerging *Samāpattimūlakavuṭṭhānasutta*
+### SN 34.12 Entering and Emerging *Samāpattimūlakavuṭṭhānasutta*
 
 At Sāvatthī.
 
@@ -153,7 +153,7 @@ One meditator is skilled in entering immersion but not in emerging from
 it. ..."
 
 <!--pg-->
-### N 34.13 Entering and Gladdening *Samāpattimūlakakallitasutta*
+### SN 34.13 Entering and Gladdening *Samāpattimūlakakallitasutta*
 
 At Sāvatthī.
 
@@ -163,7 +163,7 @@ One meditator is skilled in entering immersion but not in gladdening the
 mind for immersion. ..."
 
 <!--pg-->
-### N 34.14 Entering and Supports *Samāpattimūlakaārammaṇasutta*
+### SN 34.14 Entering and Supports *Samāpattimūlakaārammaṇasutta*
 
 At Sāvatthī.
 
@@ -173,7 +173,7 @@ One meditator is skilled in entering immersion but not in the supports
 for it. ..."
 
 <!--pg-->
-### N 34.15 Entering and Meditation Subjects *Samāpattimūlakagocarasutta*
+### SN 34.15 Entering and Meditation Subjects *Samāpattimūlakagocarasutta*
 
 At Sāvatthī.
 
@@ -183,7 +183,7 @@ One meditator is skilled in entering immersion but not in the meditation
 subjects for immersion. ..."
 
 <!--pg-->
-### N 34.16 Entering and Projecting *Samāpattimūlakaabhinīhārasutta*
+### SN 34.16 Entering and Projecting *Samāpattimūlakaabhinīhārasutta*
 
 At Sāvatthī.
 
@@ -193,7 +193,7 @@ One meditator is skilled in entering immersion but not in projecting the
 mind purified by immersion. ..."
 
 <!--pg-->
-### N 34.17 Entering and Carefulness *Samāpattimūlakasakkaccasutta*
+### SN 34.17 Entering and Carefulness *Samāpattimūlakasakkaccasutta*
 
 At Sāvatthī.
 
@@ -203,7 +203,7 @@ One meditator is skilled in entering immersion but not in practicing
 carefully for it. ..."
 
 <!--pg-->
-### N 34.18 Entering and Persistence *Samāpattimūlakasātaccasutta*
+### SN 34.18 Entering and Persistence *Samāpattimūlakasātaccasutta*
 
 At Sāvatthī.
 
@@ -213,7 +213,7 @@ One meditator is skilled in entering immersion but not in practicing
 persistently for it. ..."
 
 <!--pg-->
-### N 34.19 Entering and What's Conducive *Samāpattimūlakasappāyakārīsutta*
+### SN 34.19 Entering and What's Conducive *Samāpattimūlakasappāyakārīsutta*
 
 At Sāvatthī.
 
@@ -223,7 +223,7 @@ One meditator is skilled in entering immersion but not in doing what's
 conducive to it. ..."
 
 <!--pg-->
-### N 34.20--27 Eight on Remaining and Emergence, Etc. *Ṭhitimūlakavuṭṭhānasuttādiaṭṭhaka*
+### SN 34.20--27 Eight on Remaining and Emergence, Etc. *Ṭhitimūlakavuṭṭhānasuttādiaṭṭhaka*
 
 At Sāvatthī.
 
@@ -235,7 +235,7 @@ from it. ..."
 **(These eight discourses should be told in full as the previous set.)**
 
 <!--pg-->
-### N 34.28--34 Seven on Emergence and Gladdening, Etc. *Vuṭṭhānamūlakakallitasuttādisattaka*
+### SN 34.28--34 Seven on Emergence and Gladdening, Etc. *Vuṭṭhānamūlakakallitasuttādisattaka*
 
 At Sāvatthī.
 
@@ -247,7 +247,7 @@ gladdening the mind for immersion. ..."
 **(These seven discourses should be told in full as the previous set.)**
 
 <!--pg-->
-### N 34.35--40 Six on Gladdening and Support, Etc. *Kallitamūlakaārammaṇasuttādichakka*
+### SN 34.35--40 Six on Gladdening and Support, Etc. *Kallitamūlakaārammaṇasuttādichakka*
 
 At Sāvatthī.
 
@@ -257,7 +257,7 @@ in the supports for immersion. ..."
 **(These six discourses should be told in full as the previous set.)**
 
 <!--pg-->
-### N 34.41--45 Five on Support and Subjects, Etc. *Ārammaṇamūlakagocarasuttādipañcaka*
+### SN 34.41--45 Five on Support and Subjects, Etc. *Ārammaṇamūlakagocarasuttādipañcaka*
 
 At Sāvatthī.
 
@@ -267,7 +267,7 @@ meditation subjects for immersion. ..."
 **(These five discourses should be told in full as the previous set.)**
 
 <!--pg-->
-### N 34.46--49 Four on Subjects and Projection, Etc. *Gocaramūlakaabhinīhārasuttādicatukka*
+### SN 34.46--49 Four on Subjects and Projection, Etc. *Gocaramūlakaabhinīhārasuttādicatukka*
 
 At Sāvatthī.
 
@@ -286,7 +286,7 @@ immersion but not in practicing persistently for it. ..."
 immersion but not in doing what's conducive to it. ..."
 
 <!--pg-->
-### N 34.50--52 Three on Projection and Carefulness *Abhinīhāramūlakasakkaccasuttāditika*
+### SN 34.50--52 Three on Projection and Carefulness *Abhinīhāramūlakasakkaccasuttāditika*
 
 At Sāvatthī.
 
@@ -300,7 +300,7 @@ but not in practicing persistently for it. ..."
 but not in doing what's conducive to it. ..."
 
 <!--pg-->
-### N 34.53--54 Two on Carefulness and Persistence *Sakkaccamūlakasātaccakārīsuttadukādi*
+### SN 34.53--54 Two on Carefulness and Persistence *Sakkaccamūlakasātaccakārīsuttadukādi*
 
 At Sāvatthī.
 
@@ -311,7 +311,7 @@ in practicing persistently for it. ..."
 in doing what's conducive to it. ..."
 
 <!--pg-->
-### N 34.55 Persistence and What's Conducive *Sātaccamūlakasappāyakārīsutta*
+### SN 34.55 Persistence and What's Conducive *Sātaccamūlakasappāyakārīsutta*
 
 At Sāvatthī.
 

@@ -3,7 +3,7 @@
 <!--pg-->
 ## Chương Một
 
-### N 19.1 Bộ xương *Aṭṭhisutta*
+### SN 19.1 Bộ xương *Aṭṭhisutta*
 
 Như vầy tôi nghe. Một thời Đức Phật trú gần thành
 Rājagaha (Vương Xá), tại Trúc Lâm, nơi nuôi dưỡng các con sóc.
@@ -55,7 +55,7 @@ năm. Bây giờ nó đang trải nghiệm quả báo còn sót lại của vi�
 **(Tất cả các bài kinh này đều được kể đầy đủ như thế này.)**
 
 <!--pg-->
-### N 19.2 Một miếng thịt *Pesisutta*
+### SN 19.2 Một miếng thịt *Pesisutta*
 
 "Này Hiền giả, vừa rồi, khi ta đang đi xuống từ núi Linh Thứu, ta
 đã thấy một miếng thịt đang bay trong không trung. Kền kền, quạ và diều hâu
@@ -65,7 +65,7 @@ liên tục đuổi theo, mổ và cào cấu trong khi nó kêu la đau đớn.
 Rājagaha này. ..."
 
 <!--pg-->
-### N 19.3 Một cục thịt *Piṇḍasutta*
+### SN 19.3 Một cục thịt *Piṇḍasutta*
 
 "Này Hiền giả, vừa rồi, khi ta đang đi xuống từ núi Linh Thứu, ta
 đã thấy một cục thịt đang bay trong không trung. Kền kền, quạ và diều hâu
@@ -75,7 +75,7 @@ liên tục đuổi theo, mổ và cào cấu trong khi nó kêu la đau đớn.
 Rājagaha này. ..."
 
 <!--pg-->
-### N 19.4 Một người đàn ông bị lột da *Nicchavisutta*
+### SN 19.4 Một người đàn ông bị lột da *Nicchavisutta*
 
 "Này Hiền giả, vừa rồi, khi ta đang đi xuống từ núi Linh Thứu, ta
 đã thấy một người đàn ông bị lột da đang bay trong không trung. Kền kền, quạ và diều hâu
@@ -85,7 +85,7 @@ liên tục đuổi theo, mổ và cào cấu trong khi ông ta la hét đau đ�
 Rājagaha này. ..."
 
 <!--pg-->
-### N 19.5 Lông kiếm *Asilomasutta*
+### SN 19.5 Lông kiếm *Asilomasutta*
 
 "Này Hiền giả, vừa rồi, khi ta đang đi xuống từ núi Linh Thứu, ta
 đã thấy một người đàn ông có lông là những thanh kiếm đang bay trong không trung. Và những
@@ -96,7 +96,7 @@ thanh kiếm đó liên tục mọc lên rồi đâm vào thân thể ông ta tr
 Rājagaha này. ..."
 
 <!--pg-->
-### N 19.6 Lông giáo *Sattisutta*
+### SN 19.6 Lông giáo *Sattisutta*
 
 "Này Hiền giả, vừa rồi, khi ta đang đi xuống từ núi Linh Thứu, ta
 đã thấy một người đàn ông có lông là những ngọn giáo đang bay trong không trung. Và những
@@ -107,7 +107,7 @@ ngọn giáo đó liên tục mọc lên rồi đâm vào thân thể ông ta tr
 Rājagaha này. ..."
 
 <!--pg-->
-### N 19.7 Lông tên *Usulomasutta*
+### SN 19.7 Lông tên *Usulomasutta*
 
 "Này Hiền giả, vừa rồi, khi ta đang đi xuống từ núi Linh Thứu, ta
 đã thấy một người đàn ông có lông là những mũi tên đang bay trong không trung. Và những
@@ -118,7 +118,7 @@ mũi tên đó liên tục mọc lên rồi đâm vào thân thể ông ta trong
 ..."
 
 <!--pg-->
-### N 19.8 Lông kim *Sūcilomasutta*
+### SN 19.8 Lông kim *Sūcilomasutta*
 
 "Này Hiền giả, vừa rồi, khi ta đang đi xuống từ núi Linh Thứu, ta
 đã thấy một người đàn ông có lông là những cây kim đang bay trong không trung. Và
@@ -129,7 +129,7 @@ những cây kim đó liên tục mọc lên rồi đâm vào thân thể ông t
 ..."
 
 <!--pg-->
-### N 19.9 Lông kim (thứ 2) *Dutiyasūcilomasutta*
+### SN 19.9 Lông kim (thứ 2) *Dutiyasūcilomasutta*
 
 "Này Hiền giả, vừa rồi, khi ta đang đi xuống từ núi Linh Thứu, ta
 đã thấy một người đàn ông có lông là những cây kim đang bay trong không trung. Những
@@ -142,7 +142,7 @@ xuyên ra bàn chân. Và ông ta la hét đau đớn. ..." ...
 ..."
 
 <!--pg-->
-### N 19.10 Tinh hoàn như nồi *Kumbhaṇḍasutta*
+### SN 19.10 Tinh hoàn như nồi *Kumbhaṇḍasutta*
 
 "Này Hiền giả, vừa rồi, khi ta đang đi xuống từ núi Linh Thứu, ta
 đã thấy một người đàn ông có tinh hoàn to như những cái nồi đang bay trong không trung. Khi
@@ -156,7 +156,7 @@ Rājagaha này. ..."
 <!--pg-->
 ## Chương Hai
 
-### N 19.11 Ngập đến đầu *Sasīsakasutta*
+### SN 19.11 Ngập đến đầu *Sasīsakasutta*
 
 Như vầy tôi nghe. Một thời gần thành Rājagaha tại
 Trúc Lâm ...
@@ -168,7 +168,7 @@ Trúc Lâm ...
 ..."
 
 <!--pg-->
-### N 19.12 Kẻ ăn phân *Gūthakhādasutta*
+### SN 19.12 Kẻ ăn phân *Gūthakhādasutta*
 
 "Này Hiền giả, vừa rồi, khi ta đang đi xuống từ núi Linh Thứu, ta
 đã thấy một người đàn ông bị nhấn chìm trong một hố phân, đang dùng cả hai tay để ăn phân. ..." ...
@@ -180,7 +180,7 @@ phân vào một cái máng và nói: 'Thưa các ngài, xin cứ ăn tùy thíc
 mang về những gì còn lại.' ..."
 
 <!--pg-->
-### N 19.13 Một người phụ nữ bị lột da *Nicchavitthisutta*
+### SN 19.13 Một người phụ nữ bị lột da *Nicchavitthisutta*
 
 "Này Hiền giả, vừa rồi, khi ta đang đi xuống từ núi Linh Thứu, ta
 đã thấy một người phụ nữ bị lột da đang bay trong không trung. Kền kền, quạ và diều hâu
@@ -190,7 +190,7 @@ liên tục đuổi theo, mổ và cào cấu trong khi bà ta la hét đau đ�
 Rājagaha này. ..."
 
 <!--pg-->
-### N 19.14 Người đàn bà hôi tanh *Maṅgulitthisutta*
+### SN 19.14 Người đàn bà hôi tanh *Maṅgulitthisutta*
 
 "Này Hiền giả, vừa rồi, khi ta đang đi xuống từ núi Linh Thứu, ta
 đã thấy một người đàn bà hôi mùi cá đang bay trong không trung. Kền kền, quạ và
@@ -201,7 +201,7 @@ diều hâu liên tục đuổi theo, mổ và cào cấu trong khi bà ta la h�
 Rājagaha này. ..."
 
 <!--pg-->
-### N 19.15 Người phụ nữ nóng bức *Okilinīsutta*
+### SN 19.15 Người phụ nữ nóng bức *Okilinīsutta*
 
 "Này Hiền giả, vừa rồi, khi ta đang đi xuống từ núi Linh Thứu, ta
 đã thấy một người phụ nữ bị cháy sém, mình đầy bồ hóng và mồ hôi, đang bay trong không trung, trong khi bà ta
@@ -211,7 +211,7 @@ la hét đau đớn. ..." ...
 Bà ta có tính ghen tuông, và đã đổ một lò than nóng lên người vợ thứ của vua. ..." ...
 
 <!--pg-->
-### N 19.16 Thân không đầu *Asīsakasutta*
+### SN 19.16 Thân không đầu *Asīsakasutta*
 
 "Này Hiền giả, vừa rồi, khi ta đang đi xuống từ núi Linh Thứu, ta
 đã thấy một thân người không đầu đang bay trong không trung. Mắt và miệng của nó nằm
@@ -222,7 +222,7 @@ cào cấu trong khi nó la hét đau đớn. ..." ...
 tại thành Rājagaha này. ..."
 
 <!--pg-->
-### N 19.17 Vị Tỷ kheo xấu *Pāpabhikkhusutta*
+### SN 19.17 Vị Tỷ kheo xấu *Pāpabhikkhusutta*
 
 "Này Hiền giả, vừa rồi, khi ta đang đi xuống từ núi Linh Thứu, ta
 đã thấy một vị Tỷ kheo đang bay trong không trung. Y ngoài, bát, dây lưng và thân thể của vị ấy
@@ -231,14 +231,14 @@ tại thành Rājagaha này. ..."
 "Vị Tỷ kheo đó từng là một Tỷ kheo xấu trong thời giáo pháp của Đức Phật Kassapa. ..."
 
 <!--pg-->
-### N 19.18 Vị Tỳ kheo ni xấu *Pāpabhikkhunīsutta*
+### SN 19.18 Vị Tỳ kheo ni xấu *Pāpabhikkhunīsutta*
 
 "Ta đã thấy một vị Tỳ kheo ni đang bay trong không trung. Y ngoài của vị ấy đang bốc cháy ..." ...
 
 "Vị ấy từng là một Tỳ kheo ni xấu ..."
 
 <!--pg-->
-### N 19.19 Vị Thức xoa ma na xấu *Pāpasikkhamānasutta*
+### SN 19.19 Vị Thức xoa ma na xấu *Pāpasikkhamānasutta*
 
 "Ta đã thấy một vị Thức xoa ma na đang bay trong không trung. Y ngoài của vị ấy đang bốc cháy
 ..." ...
@@ -246,7 +246,7 @@ tại thành Rājagaha này. ..."
 "Vị ấy từng là một Thức xoa ma na xấu ..."
 
 <!--pg-->
-### N 19.20 Vị Sa di xấu *Pāpasāmaṇerasutta*
+### SN 19.20 Vị Sa di xấu *Pāpasāmaṇerasutta*
 
 "Ta đã thấy một vị Sa di đang bay trong không trung. Y ngoài của vị ấy đang bốc cháy
 ..." ...
@@ -254,7 +254,7 @@ tại thành Rājagaha này. ..."
 "Vị ấy từng là một Sa di xấu ..."
 
 <!--pg-->
-### N 19.21 Vị Sa di ni xấu *Pāpasāmaṇerīsutta*
+### SN 19.21 Vị Sa di ni xấu *Pāpasāmaṇerīsutta*
 
 "Này Hiền giả, vừa rồi, khi ta đang đi xuống từ núi Linh Thứu, ta
 đã thấy một vị Sa di ni đang bay trong không trung. Y ngoài, bát, dây lưng và thân thể của vị ấy

@@ -1,4 +1,4 @@
-# 109. Đại Kinh Đêm Rằm
+# MN 109. Đại Kinh Đêm Rằm
 ***(Kinh Mahāpunṇama)***
 
 1\.  Tôi nghe như vầy. Một thời Đức Thế Tôn trú tại thành Xá-vệ (Sāvatthī), trong vườn phía Đông, tại lâu đài của mẹ ông Migāra.

@@ -3,7 +3,7 @@
 <!--pg-->
 ## Phẩm về Thiền Định
 
-### N 34.1 Nhập Thiền Định *Samādhimūlakasamāpattisutta*
+### SN 34.1 Nhập Thiền Định *Samādhimūlakasamāpattisutta*
 
 Tại Sāvatthī.
 
@@ -24,7 +24,7 @@ Từ con bò có sữa, từ sữa có sữa đông, từ sữa đông có bơ, 
 Cũng vậy, người hành thiền thiện xảo cả về thiền định và việc nhập vào đó là hàng đầu, tốt nhất, chủ yếu, cao nhất, và ưu tú nhất trong bốn loại."
 
 <!--pg-->
-### N 34.2 Trụ trong Thiền Định *Samādhimūlakaṭhitisutta*
+### SN 34.2 Trụ trong Thiền Định *Samādhimūlakaṭhitisutta*
 
 Tại Sāvatthī.
 
@@ -45,7 +45,7 @@ Từ con bò có sữa, từ sữa có sữa đông, từ sữa đông có bơ, 
 Cũng vậy, người hành thiền thiện xảo cả về thiền định và việc trụ trong đó là hàng đầu, tốt nhất, chủ yếu, cao nhất, và ưu tú nhất trong bốn loại."
 
 <!--pg-->
-### N 34.3 Xuất khỏi Thiền Định *Samādhimūlakavuṭṭhānasutta*
+### SN 34.3 Xuất khỏi Thiền Định *Samādhimūlakavuṭṭhānasutta*
 
 Tại Sāvatthī.
 
@@ -54,7 +54,7 @@ Tại Sāvatthī.
 Có người hành thiền thiện xảo về thiền định nhưng không thiện xảo về việc xuất khỏi đó. ..."
 
 <!--pg-->
-### N 34.4 Làm Tâm Hoan Hỷ đối với Thiền Định *Samādhimūlakakallitasutta*
+### SN 34.4 Làm Tâm Hoan Hỷ đối với Thiền Định *Samādhimūlakakallitasutta*
 
 Tại Sāvatthī.
 
@@ -63,7 +63,7 @@ Tại Sāvatthī.
 Có người hành thiền thiện xảo về thiền định nhưng không thiện xảo về việc làm cho tâm hoan hỷ đối với thiền định. ..."
 
 <!--pg-->
-### N 34.5 Các Trợ Duyên cho Thiền Định *Samādhimūlakaārammaṇasutta*
+### SN 34.5 Các Trợ Duyên cho Thiền Định *Samādhimūlakaārammaṇasutta*
 
 Tại Sāvatthī.
 
@@ -72,7 +72,7 @@ Tại Sāvatthī.
 Có người hành thiền thiện xảo về thiền định nhưng không thiện xảo về các trợ duyên cho thiền định. ..."
 
 <!--pg-->
-### N 34.6 Các Đề Mục Thiền Định *Samādhimūlakagocarasutta*
+### SN 34.6 Các Đề Mục Thiền Định *Samādhimūlakagocarasutta*
 
 Tại Sāvatthī.
 
@@ -81,7 +81,7 @@ Tại Sāvatthī.
 Có người hành thiền thiện xảo về thiền định nhưng không thiện xảo về các đề mục thiền định. ..."
 
 <!--pg-->
-### N 34.7 Hướng Tâm đã được Thanh Lọc bởi Thiền Định *Samādhimūlakaabhinīhārasutta*
+### SN 34.7 Hướng Tâm đã được Thanh Lọc bởi Thiền Định *Samādhimūlakaabhinīhārasutta*
 
 Tại Sāvatthī.
 
@@ -90,7 +90,7 @@ Tại Sāvatthī.
 Có người hành thiền thiện xảo về thiền định nhưng không thiện xảo về việc hướng tâm đã được thanh lọc bởi thiền định. ..."
 
 <!--pg-->
-### N 34.8 Cẩn Trọng trong Thiền Định *Samādhimūlakasakkaccakārīsutta*
+### SN 34.8 Cẩn Trọng trong Thiền Định *Samādhimūlakasakkaccakārīsutta*
 
 Tại Sāvatthī.
 
@@ -99,7 +99,7 @@ Tại Sāvatthī.
 Có người hành thiền thiện xảo về thiền định nhưng không thiện xảo về việc thực hành một cách cẩn trọng cho thiền định. ..."
 
 <!--pg-->
-### N 34.9 Kiên Trì trong Thiền Định *Samādhimūlakasātaccakārīsutta*
+### SN 34.9 Kiên Trì trong Thiền Định *Samādhimūlakasātaccakārīsutta*
 
 Tại Sāvatthī.
 
@@ -108,7 +108,7 @@ Tại Sāvatthī.
 Có người hành thiền thiện xảo về thiền định nhưng không thiện xảo về việc thực hành một cách kiên trì cho thiền định. ..."
 
 <!--pg-->
-### N 34.10 Thuận Lợi cho Thiền Định *Samādhimūlakasappāyakārīsutta*
+### SN 34.10 Thuận Lợi cho Thiền Định *Samādhimūlakasappāyakārīsutta*
 
 Tại Sāvatthī.
 
@@ -117,7 +117,7 @@ Tại Sāvatthī.
 Có người hành thiền thiện xảo về thiền định nhưng không thiện xảo về việc làm những gì thuận lợi cho thiền định. ..."
 
 <!--pg-->
-### N 34.11 Nhập và Trụ *Samāpattimūlakaṭhitisutta*
+### SN 34.11 Nhập và Trụ *Samāpattimūlakaṭhitisutta*
 
 Tại Sāvatthī.
 
@@ -126,7 +126,7 @@ Tại Sāvatthī.
 Có người hành thiền thiện xảo về việc nhập thiền định nhưng không thiện xảo về việc trụ trong đó. ..."
 
 <!--pg-->
-### N 34.12 Nhập và Xuất *Samāpattimūlakavuṭṭhānasutta*
+### SN 34.12 Nhập và Xuất *Samāpattimūlakavuṭṭhānasutta*
 
 Tại Sāvatthī.
 
@@ -135,7 +135,7 @@ Tại Sāvatthī.
 Có người hành thiền thiện xảo về việc nhập thiền định nhưng không thiện xảo về việc xuất khỏi đó. ..."
 
 <!--pg-->
-### N 34.13 Nhập và Hoan Hỷ *Samāpattimūlakakallitasutta*
+### SN 34.13 Nhập và Hoan Hỷ *Samāpattimūlakakallitasutta*
 
 Tại Sāvatthī.
 
@@ -144,7 +144,7 @@ Tại Sāvatthī.
 Có người hành thiền thiện xảo về việc nhập thiền định nhưng không thiện xảo về việc làm cho tâm hoan hỷ đối với thiền định. ..."
 
 <!--pg-->
-### N 34.14 Nhập và các Trợ Duyên *Samāpattimūlakaārammaṇasutta*
+### SN 34.14 Nhập và các Trợ Duyên *Samāpattimūlakaārammaṇasutta*
 
 Tại Sāvatthī.
 
@@ -153,7 +153,7 @@ Tại Sāvatthī.
 Có người hành thiền thiện xảo về việc nhập thiền định nhưng không thiện xảo về các trợ duyên cho thiền định. ..."
 
 <!--pg-->
-### N 34.15 Nhập và các Đề Mục Thiền Định *Samāpattimūlakagocarasutta*
+### SN 34.15 Nhập và các Đề Mục Thiền Định *Samāpattimūlakagocarasutta*
 
 Tại Sāvatthī.
 
@@ -162,7 +162,7 @@ Tại Sāvatthī.
 Có người hành thiền thiện xảo về việc nhập thiền định nhưng không thiện xảo về các đề mục thiền định. ..."
 
 <!--pg-->
-### N 34.16 Nhập và Hướng Tâm *Samāpattimūlakaabhinīhārasutta*
+### SN 34.16 Nhập và Hướng Tâm *Samāpattimūlakaabhinīhārasutta*
 
 Tại Sāvatthī.
 
@@ -171,7 +171,7 @@ Tại Sāvatthī.
 Có người hành thiền thiện xảo về việc nhập thiền định nhưng không thiện xảo về việc hướng tâm đã được thanh lọc bởi thiền định. ..."
 
 <!--pg-->
-### N 34.17 Nhập và Cẩn Trọng *Samāpattimūlakasakkaccasutta*
+### SN 34.17 Nhập và Cẩn Trọng *Samāpattimūlakasakkaccasutta*
 
 Tại Sāvatthī.
 
@@ -180,7 +180,7 @@ Tại Sāvatthī.
 Có người hành thiền thiện xảo về việc nhập thiền định nhưng không thiện xảo về việc thực hành một cách cẩn trọng cho thiền định. ..."
 
 <!--pg-->
-### N 34.18 Nhập và Kiên Trì *Samāpattimūlakasātaccasutta*
+### SN 34.18 Nhập và Kiên Trì *Samāpattimūlakasātaccasutta*
 
 Tại Sāvatthī.
 
@@ -189,7 +189,7 @@ Tại Sāvatthī.
 Có người hành thiền thiện xảo về việc nhập thiền định nhưng không thiện xảo về việc thực hành một cách kiên trì cho thiền định. ..."
 
 <!--pg-->
-### N 34.19 Nhập và những gì Thuận Lợi *Samāpattimūlakasappāyakārīsutta*
+### SN 34.19 Nhập và những gì Thuận Lợi *Samāpattimūlakasappāyakārīsutta*
 
 Tại Sāvatthī.
 
@@ -198,7 +198,7 @@ Tại Sāvatthī.
 Có người hành thiền thiện xảo về việc nhập thiền định nhưng không thiện xảo về việc làm những gì thuận lợi cho thiền định. ..."
 
 <!--pg-->
-### N 34.20--27 Tám Kinh về Trụ và Xuất, v.v. *Ṭhitimūlakavuṭṭhānasuttādiaṭṭhaka*
+### SN 34.20--27 Tám Kinh về Trụ và Xuất, v.v. *Ṭhitimūlakavuṭṭhānasuttādiaṭṭhaka*
 
 Tại Sāvatthī.
 
@@ -209,7 +209,7 @@ Có người hành thiền thiện xảo về việc trụ trong thiền định
 **(Tám bài kinh này nên được kể đầy đủ như bộ trước.)**
 
 <!--pg-->
-### N 34.28--34 Bảy Kinh về Xuất và Hoan Hỷ, v.v. *Vuṭṭhānamūlakakallitasuttādisattaka*
+### SN 34.28--34 Bảy Kinh về Xuất và Hoan Hỷ, v.v. *Vuṭṭhānamūlakakallitasuttādisattaka*
 
 Tại Sāvatthī.
 
@@ -220,7 +220,7 @@ Có người hành thiền thiện xảo về việc xuất khỏi thiền đị
 **(Bảy bài kinh này nên được kể đầy đủ như bộ trước.)**
 
 <!--pg-->
-### N 34.35--40 Sáu Kinh về Hoan Hỷ và Trợ Duyên, v.v. *Kallitamūlakaārammaṇasuttādichakka*
+### SN 34.35--40 Sáu Kinh về Hoan Hỷ và Trợ Duyên, v.v. *Kallitamūlakaārammaṇasuttādichakka*
 
 Tại Sāvatthī.
 
@@ -229,7 +229,7 @@ Tại Sāvatthī.
 **(Sáu bài kinh này nên được kể đầy đủ như bộ trước.)**
 
 <!--pg-->
-### N 34.41--45 Năm Kinh về Trợ Duyên và Đề Mục, v.v. *Ārammaṇamūlakagocarasuttādipañcaka*
+### SN 34.41--45 Năm Kinh về Trợ Duyên và Đề Mục, v.v. *Ārammaṇamūlakagocarasuttādipañcaka*
 
 Tại Sāvatthī.
 
@@ -238,7 +238,7 @@ Tại Sāvatthī.
 **(Năm bài kinh này nên được kể đầy đủ như bộ trước.)**
 
 <!--pg-->
-### N 34.46--49 Bốn Kinh về Đề Mục và Hướng Tâm, v.v. *Gocaramūlakaabhinīhārasuttādicatukka*
+### SN 34.46--49 Bốn Kinh về Đề Mục và Hướng Tâm, v.v. *Gocaramūlakaabhinīhārasuttādicatukka*
 
 Tại Sāvatthī.
 
@@ -253,7 +253,7 @@ Tại Sāvatthī.
 "Có người hành thiền thiện xảo về các đề mục thiền định nhưng không thiện xảo về việc làm những gì thuận lợi cho thiền định. ..."
 
 <!--pg-->
-### N 34.50--52 Ba Kinh về Hướng Tâm và Cẩn Trọng *Abhinīhāramūlakasakkaccasuttāditika*
+### SN 34.50--52 Ba Kinh về Hướng Tâm và Cẩn Trọng *Abhinīhāramūlakasakkaccasuttāditika*
 
 Tại Sāvatthī.
 
@@ -264,7 +264,7 @@ Tại Sāvatthī.
 "Có người hành thiền thiện xảo về việc hướng tâm đã được thanh lọc bởi thiền định nhưng không thiện xảo về việc làm những gì thuận lợi cho thiền định. ..."
 
 <!--pg-->
-### N 34.53--54 Hai Kinh về Cẩn Trọng và Kiên Trì *Sakkaccamūlakasātaccakārīsuttadukādi*
+### SN 34.53--54 Hai Kinh về Cẩn Trọng và Kiên Trì *Sakkaccamūlakasātaccakārīsuttadukādi*
 
 Tại Sāvatthī.
 
@@ -273,7 +273,7 @@ Tại Sāvatthī.
 "Có người hành thiền thiện xảo về việc thực hành một cách cẩn trọng cho thiền định nhưng không thiện xảo về việc làm những gì thuận lợi cho thiền định. ..."
 
 <!--pg-->
-### N 34.55 Kiên Trì và những gì Thuận Lợi *Sātaccamūlakasappāyakārīsutta*
+### SN 34.55 Kiên Trì và những gì Thuận Lợi *Sātaccamūlakasappāyakārīsutta*
 
 Tại Sāvatthī.
 

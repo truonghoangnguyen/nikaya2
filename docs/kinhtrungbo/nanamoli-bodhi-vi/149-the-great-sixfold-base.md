@@ -1,4 +1,4 @@
-# 149. Kinh Đại Lục Xứ (Sáu Nền Tảng Lớn)
+# MN 149. Kinh Đại Lục Xứ (Sáu Nền Tảng Lớn)
 ***(Mahāsalāyatanika Sutta)***
 
 1\.  Như vầy tôi nghe. Một thời Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong Rừng Jeta (Kỳ-đà), Vườn của Anāthapindika (Cấp Cô Độc). Tại đó, Ngài gọi các tỳ kheo (bhikkhus - các nhà sư nam đã xuất gia) và dạy rằng: "Này các tỳ kheo." - "Bạch Thế Tôn," các vị ấy đáp lời. Đức Thế Tôn dạy như sau:

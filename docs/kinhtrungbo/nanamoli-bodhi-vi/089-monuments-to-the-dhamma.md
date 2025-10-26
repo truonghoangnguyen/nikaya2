@@ -1,4 +1,4 @@
-# 89. Pháp Bảo Tháp
+# MN 89. Pháp Bảo Tháp
 ***(Kinh Dhammacetiya)***
 
 [118] 1. Tôi nghe như vầy. Một thời, Đức Thế Tôn (Blessed One - Bậc Tôn Quý, người đã bẻ gãy vòng sinh tử) đang trú tại xứ Sakya, ở một thị trấn của người Sakya tên là Medalumpa.

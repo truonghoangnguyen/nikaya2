@@ -3,7 +3,7 @@
 <!--pg-->
 ## The Chapter on Arising
 
-### N 26.1 The Eye *Cakkhusutta*
+### SN 26.1 The Eye *Cakkhusutta*
 
 At Sāvatthī.
 
@@ -19,7 +19,7 @@ the ear, nose, tongue, body, and mind is the cessation of suffering, the
 settling of diseases, and the ending of old age and death."
 
 <!--pg-->
-### N 26.2 Sights *Rūpasutta*
+### SN 26.2 Sights *Rūpasutta*
 
 At Sāvatthī.
 
@@ -34,7 +34,7 @@ of suffering, the settling of diseases, and the ending of old age and
 death."
 
 <!--pg-->
-### N 26.3 Consciousness *Viññāṇasutta*
+### SN 26.3 Consciousness *Viññāṇasutta*
 
 At Sāvatthī.
 
@@ -44,7 +44,7 @@ consciousness ... mind consciousness ... is the ending of old age and
 death."
 
 <!--pg-->
-### N 26.4 Contact *Samphassasutta*
+### SN 26.4 Contact *Samphassasutta*
 
 At Sāvatthī.
 
@@ -53,7 +53,7 @@ manifestation of old age and death. The cessation of eye contact ...
 mind contact ... is the ending of old age and death."
 
 <!--pg-->
-### N 26.5 Feeling *Samphassajasutta*
+### SN 26.5 Feeling *Samphassajasutta*
 
 At Sāvatthī.
 
@@ -65,7 +65,7 @@ cessation of feeling born of mind contact ... is the ending of old age
 and death."
 
 <!--pg-->
-### N 26.6 Perception *Saññāsutta*
+### SN 26.6 Perception *Saññāsutta*
 
 At Sāvatthī.
 
@@ -75,7 +75,7 @@ perception of sights ... perception of ideas ... is the ending of old
 age and death."
 
 <!--pg-->
-### N 26.7 Intention *Sañcetanāsutta*
+### SN 26.7 Intention *Sañcetanāsutta*
 
 At Sāvatthī.
 
@@ -85,7 +85,7 @@ cessation of intentions regarding sights ... intentions regarding ideas
 ... is the ending of old age and death."
 
 <!--pg-->
-### N 26.8 Craving *Taṇhāsutta*
+### SN 26.8 Craving *Taṇhāsutta*
 
 At Sāvatthī.
 
@@ -94,7 +94,7 @@ is the manifestation of old age and death. The cessation of craving for
 sights ... craving for ideas ... is the ending of old age and death."
 
 <!--pg-->
-### N 26.9 Elements *Dhātusutta*
+### SN 26.9 Elements *Dhātusutta*
 
 At Sāvatthī.
 
@@ -108,7 +108,7 @@ consciousness element is the cessation of suffering, the settling of
 diseases, and the ending of old age and death."
 
 <!--pg-->
-### N 26.10 The Aggregates *Khandhasutta*
+### SN 26.10 The Aggregates *Khandhasutta*
 
 At Sāvatthī.
 

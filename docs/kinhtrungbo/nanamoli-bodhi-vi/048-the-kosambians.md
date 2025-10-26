@@ -1,4 +1,4 @@
-# 48. Người Kosambi
+# MN 48. Người Kosambi
 ***(Kinh Kosambiya - Kosambiya Sutta)***
 
 1\.  Tôi nghe như vầy. Một thời Đức Thế Tôn trú tại Kosambī, trong khu vườn của ông Ghosita.

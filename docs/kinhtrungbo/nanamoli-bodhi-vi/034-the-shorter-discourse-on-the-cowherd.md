@@ -1,4 +1,4 @@
-# 34. Tiểu Kinh Người Chăn Bò
+# MN 34. Tiểu Kinh Người Chăn Bò
 ***(Cūlagopālaka Sutta)***
 
 [225] 1. Tôi nghe như vầy. Một thời, Đức Thế Tôn đang ở tại xứ Vajjian, Ukkācelā, bên bờ sông Hằng. Tại đó, Ngài gọi các tỳ kheo (monks-bhikkhus-nhà sư): "Này các tỳ kheo." - "Bạch Thế Tôn," các vị ấy đáp. Đức Thế Tôn nói như sau:

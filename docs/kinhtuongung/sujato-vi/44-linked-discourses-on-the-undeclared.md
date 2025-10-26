@@ -3,7 +3,7 @@
 <!--pg-->
 ## Phẩm về các Vấn đề không được Giải đáp
 
-### N 44.1 Kinh Khemā *Khemāsutta*
+### SN 44.1 Kinh Khemā *Khemāsutta*
 
 Một thời, Đức Phật trú tại Sāvatthī, trong Vườn của Jeta, tu viện của Anāthapiṇḍika.
 
@@ -62,7 +62,7 @@ Thôi, bây giờ, thưa ngài, tôi phải đi. Tôi có nhiều phận sự v�
 Sau đó, Vua Pasenadi tán thành và đồng ý với những gì Đức Phật nói. Rồi ông đứng dậy khỏi chỗ ngồi, cúi đầu, và đi vòng quanh ngài một cách kính trọng, giữ ngài ở bên phải, trước khi rời đi.
 
 <!--pg-->
-### N 44.2 Kinh Anurādha *Anurādhasutta*
+### SN 44.2 Kinh Anurādha *Anurādhasutta*
 
 Một thời, Đức Phật trú tại Vesālī, trong Rừng Lớn, tại ngôi nhà có mái nhọn.
 
@@ -145,7 +145,7 @@ Anurādha, con nghĩ sao? Con có xem một người đã chứng ngộ là sắ
 "Tốt lắm, tốt lắm, Anurādha! Trong quá khứ, cũng như hôm nay, điều ta mô tả là khổ và sự diệt khổ."
 
 <!--pg-->
-### N 44.3 Kinh Sāriputta và Koṭṭhita (thứ nhất) *Paṭhamasāriputtakoṭṭhikasutta*
+### SN 44.3 Kinh Sāriputta và Koṭṭhita (thứ nhất) *Paṭhamasāriputtakoṭṭhikasutta*
 
 Một thời, Tôn giả Sāriputta và Tôn giả Mahākoṭṭhita đang ở gần Varanasi, trong vườn Lộc Uyển tại Isipatana.
 
@@ -172,7 +172,7 @@ Một người đã chứng ngộ không tồn tại cũng không phải không 
 Đây là nguyên nhân, đây là lý do tại sao điều này không được Đức Phật tuyên bố."
 
 <!--pg-->
-### N 44.4 Kinh Sāriputta và Koṭṭhita (thứ hai) *Dutiyasāriputtakoṭṭhikasutta*
+### SN 44.4 Kinh Sāriputta và Koṭṭhita (thứ hai) *Dutiyasāriputtakoṭṭhikasutta*
 
 Một thời, Tôn giả Sāriputta và Tôn giả Mahākoṭṭhita đang ở gần Varanasi, trong vườn Lộc Uyển tại Isipatana. ...
 
@@ -189,7 +189,7 @@ Khi thực sự biết và thấy sắc... cảm giác... nhận thức... hành
 Đây là nguyên nhân, đây là lý do tại sao điều này không được Đức Phật tuyên bố."
 
 <!--pg-->
-### N 44.5 Kinh Sāriputta và Koṭṭhita (thứ ba) *Tatiyasāriputtakoṭṭhikasutta*
+### SN 44.5 Kinh Sāriputta và Koṭṭhita (thứ ba) *Tatiyasāriputtakoṭṭhikasutta*
 
 Một thời, Tôn giả Sāriputta và Tôn giả Mahākoṭṭhita đang ở gần Varanasi, trong vườn Lộc Uyển tại Isipatana. ...
 
@@ -204,7 +204,7 @@ Nếu ngài đã từ bỏ được lòng tham đối với sắc... cảm giác
 Đây là nguyên nhân, đây là lý do tại sao điều này không được Đức Phật tuyên bố."
 
 <!--pg-->
-### N 44.6 Kinh Sāriputta và Koṭṭhita (thứ tư) *Catutthasāriputtakoṭṭhikasutta*
+### SN 44.6 Kinh Sāriputta và Koṭṭhita (thứ tư) *Catutthasāriputtakoṭṭhikasutta*
 
 Một thời, Tôn giả Sāriputta và Tôn giả Mahākoṭṭhita đang ở gần Varanasi, trong vườn Lộc Uyển tại Isipatana.
 
@@ -251,7 +251,7 @@ Nếu ngài không thích, không yêu, và không tận hưởng ái, và ngài
 "Thật tình, thưa Tôn giả, ngài còn muốn gì hơn nữa? Đối với người đã được giải thoát nhờ sự chấm dứt của ái, không còn vòng luân hồi nào để tìm thấy nữa."
 
 <!--pg-->
-### N 44.7 Kinh Moggallāna *Moggallānasutta*
+### SN 44.7 Kinh Moggallāna *Moggallānasutta*
 
 Sau đó, du sĩ Vacchagotta đến gặp Tôn giả Mahāmoggallāna và chào hỏi ông. Sau khi chào hỏi và trò chuyện lịch sự, ông ngồi xuống một bên và nói với Mahāmoggallāna:
 
@@ -278,7 +278,7 @@ Sau đó, du sĩ Vacchagotta đứng dậy khỏi chỗ ngồi và đến gặp 
 Ông nói: "Thật vi diệu, thưa Tôn giả Gotama, thật đáng kinh ngạc! Làm sao mà ý nghĩa và lời lẽ của thầy và trò lại khớp nhau và đồng thuận không mâu thuẫn về vấn đề cốt lõi! Vừa rồi tôi đến gặp sa môn Mahāmoggallāna và hỏi ông về vấn đề này. Và ông đã giải thích cho tôi bằng những lời lẽ và câu chữ này, giống hệt như Tôn giả Gotama. Thật vi diệu, thưa Tôn giả Gotama, thật đáng kinh ngạc! Làm sao mà ý nghĩa và lời lẽ của thầy và trò lại khớp nhau và đồng thuận không mâu thuẫn về vấn đề cốt lõi!"
 
 <!--pg-->
-### N 44.8 Kinh Vacchagotta *Vacchagottasutta*
+### SN 44.8 Kinh Vacchagotta *Vacchagottasutta*
 
 Sau đó, du sĩ Vacchagotta đến gặp Đức Phật và chào hỏi ngài. Sau khi chào hỏi và trò chuyện lịch sự, ông ngồi xuống một bên và nói với Đức Phật:
 
@@ -305,7 +305,7 @@ Sau đó, du sĩ Vacchagotta đứng dậy khỏi chỗ ngồi và đến gặp 
 Ông nói: "Thật vi diệu, thưa Tôn giả Moggallāna, thật đáng kinh ngạc. Làm sao mà ý nghĩa và lời lẽ của thầy và trò lại khớp nhau và đồng thuận không mâu thuẫn về vấn đề cốt lõi! Vừa rồi tôi đến gặp sa môn Gotama và hỏi ngài về vấn đề này. Và ngài đã giải thích cho tôi bằng những lời lẽ và câu chữ này, giống hệt như Tôn giả Moggallāna. Thật vi diệu, thưa Tôn giả Moggallāna, thật đáng kinh ngạc! Làm sao mà ý nghĩa và lời lẽ của thầy và trò lại khớp nhau và đồng thuận không mâu thuẫn về vấn đề cốt lõi!"
 
 <!--pg-->
-### N 44.9 Giảng đường Tranh luận *Kutūhalasālāsutta*
+### SN 44.9 Giảng đường Tranh luận *Kutūhalasālāsutta*
 
 Sau đó, du sĩ Vacchagotta đến gặp Đức Phật và chào hỏi ngài. Sau khi chào hỏi và trò chuyện lịch sự, ông ngồi xuống một bên và nói với Đức Phật:
 
@@ -330,7 +330,7 @@ Ta mô tả sự tái sinh cho người có nhiên liệu cho sự bám giữ, c
 "Khi một người còn chấp trước đã từ bỏ thân xác này, này Vaccha, và chưa được tái sinh vào một trong các cõi, ta nói rằng họ được nuôi dưỡng bởi ái. Vì ái là nhiên liệu của họ lúc đó."
 
 <!--pg-->
-### N 44.10 Kinh Ānanda *Ānandasutta*
+### SN 44.10 Kinh Ānanda *Ānandasutta*
 
 Sau đó, du sĩ Vacchagotta đến gặp Đức Phật và chào hỏi ngài. Sau khi chào hỏi và trò chuyện lịch sự, ông ngồi xuống một bên và nói với Đức Phật:
 
@@ -351,7 +351,7 @@ Khi Vacchagotta hỏi ta liệu tự ngã có tồn tại không, nếu ta trả
 "Khi Vacchagotta hỏi ta liệu tự ngã có không tồn tại không, nếu ta trả lời rằng 'tự ngã không tồn tại', Vacchagotta—người vốn đã bối rối—sẽ càng bối rối hơn, nghĩ rằng: 'Dường như cái tự ngã mà ta từng có không còn tồn tại nữa.'"
 
 <!--pg-->
-### N 44.11 Kinh Sabhiya Kaccāna *Sabhiyakaccānasutta*
+### SN 44.11 Kinh Sabhiya Kaccāna *Sabhiyakaccānasutta*
 
 Một thời, Tôn giả Sabhiya Kaccāna đang ở Ñātika trong ngôi nhà gạch. Sau đó, du sĩ Vacchagotta đến gặp ông và chào hỏi. Sau khi chào hỏi và trò chuyện lịch sự, ông ngồi xuống một bên và nói với Sabhiya Kaccāna:
 

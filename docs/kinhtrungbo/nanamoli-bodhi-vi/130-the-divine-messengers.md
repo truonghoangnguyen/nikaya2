@@ -1,4 +1,4 @@
-# 130. Các Thiên Sứ
+# MN 130. Các Thiên Sứ
 ***(Devadūta Sutta - Kinh Thiên Sứ)***
 
 1\.  Như vầy tôi nghe. Một thời Thế Tôn trú ở Sāvatthī (Xá-vệ), tại Jetavana (Kỳ Đà Lâm), vườn ông Anāthapiṇḍika (Cấp Cô Độc). Tại đó, Ngài gọi các Tỳ kheo (monks-bhikkhus-nhà sư): "Này các Tỳ kheo." - "Bạch Thế Tôn," các vị ấy vâng đáp. Thế Tôn nói thế này:

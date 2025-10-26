@@ -1,4 +1,4 @@
-# 140. Kinh Phân Biệt Các Yếu Tố
+# MN 140. Kinh Phân Biệt Các Yếu Tố
 ***(Dhātuvibhanga Sutta)***
 
 1\.  Tôi nghe như vầy. Một thời Đức Thế Tôn đang du hành trong xứ Ma-kiệt-đà (Magadha) và cuối cùng đến thành Vương Xá (Rājagaha). Tại đó, Ngài đến gặp người thợ gốm tên là Bhaggava và nói với ông:

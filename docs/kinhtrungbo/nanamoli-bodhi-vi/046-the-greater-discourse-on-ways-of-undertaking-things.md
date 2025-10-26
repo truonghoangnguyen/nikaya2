@@ -1,4 +1,4 @@
-# 46. Đại Kinh Về Cách Thực Hành Các Pháp
+# MN 46. Đại Kinh Về Cách Thực Hành Các Pháp
 ***(Mahādhammasamādāna Sutta)***
 
 1\. Như vầy tôi nghe. Một thời Đức Thế Tôn trú tại thành Xá-vệ (Sāvatthī), vườn ông Cấp Cô Độc (Anāthapiṇḍika), rừng cây Kỳ-đà (Jeta). Tại đó, Ngài gọi các vị tỳ kheo (monks-bhikkhus-nhà sư): "Này các tỳ kheo." - "Bạch Thế Tôn," các vị ấy đáp lời. Đức Thế Tôn dạy như sau:

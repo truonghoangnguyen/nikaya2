@@ -1,4 +1,4 @@
-# 66. Kinh Ví Dụ Chim Cút
+# MN 66. Kinh Ví Dụ Chim Cút
 ***(Laṭukikopama Sutta)***
 
 1\.  Tôi nghe như vầy. Một thời Đức Thế Tôn trú ở xứ Anguttarāpa, tại một thị trấn tên là Āpana.

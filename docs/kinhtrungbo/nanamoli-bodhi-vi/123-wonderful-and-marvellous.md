@@ -1,4 +1,4 @@
-# 123. Hy Hữu và Kỳ Diệu
+# MN 123. Hy Hữu và Kỳ Diệu
 ***(Kinh Acchariya-abbhūta)***
 
 1\. Tôi nghe như vầy. Một thời Đức Thế Tôn trú tại Xá-vệ (Sāvatthī), trong vườn ông Jeta (Kỳ-đà), tu viện ông Anāthapiṇ̣ika (Cấp Cô Độc).

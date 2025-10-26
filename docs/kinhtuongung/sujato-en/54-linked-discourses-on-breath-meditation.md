@@ -3,7 +3,7 @@
 <!--pg-->
 ## The Chapter on One Thing
 
-### N 54.1 One Thing *Ekadhammasutta*
+### SN 54.1 One Thing *Ekadhammasutta*
 
 At Sāvatthī.
 
@@ -59,7 +59,7 @@ Mindfulness of breathing, when developed and cultivated in this way, is
 very fruitful and beneficial."
 
 <!--pg-->
-### N 54.2 Awakening Factors *Bojjhaṅgasutta*
+### SN 54.2 Awakening Factors *Bojjhaṅgasutta*
 
 "Mendicants, when mindfulness of breathing is developed and cultivated
 it's very fruitful and beneficial. And how is mindfulness of breathing
@@ -72,7 +72,7 @@ when developed and cultivated in this way, is very fruitful and
 beneficial."
 
 <!--pg-->
-### N 54.3 Plain Version *Suddhikasutta*
+### SN 54.3 Plain Version *Suddhikasutta*
 
 "Mendicants, when mindfulness of breathing is developed and cultivated
 it's very fruitful and beneficial. And how is mindfulness of breathing
@@ -91,7 +91,7 @@ Mindfulness of breathing, when developed and cultivated in this way, is
 very fruitful and beneficial."
 
 <!--pg-->
-### N 54.4 Fruits (1st) *Paṭhamaphalasutta*
+### SN 54.4 Fruits (1st) *Paṭhamaphalasutta*
 
 "Mendicants, when mindfulness of breathing is developed and cultivated
 it's very fruitful and beneficial. And how is mindfulness of breathing
@@ -113,7 +113,7 @@ enlightenment in this very life, or if there's something left over,
 non-return."
 
 <!--pg-->
-### N 54.5 Fruits (2nd) *Dutiyaphalasutta*
+### SN 54.5 Fruits (2nd) *Dutiyaphalasutta*
 
 "Mendicants, when mindfulness of breathing is developed and cultivated
 it's very fruitful and beneficial. And how is mindfulness of breathing
@@ -143,7 +143,7 @@ breathing is developed and cultivated in this way you can expect these
 seven fruits and benefits."
 
 <!--pg-->
-### N 54.6 With Ariṭṭha *Ariṭṭhasutta*
+### SN 54.6 With Ariṭṭha *Ariṭṭhasutta*
 
 At Sāvatthī.
 
@@ -180,7 +180,7 @@ letting go.' This is how mindfulness of breathing is fulfilled in
 detail."
 
 <!--pg-->
-### N 54.7 About Mahākappina *Mahākappinasutta*
+### SN 54.7 About Mahākappina *Mahākappinasutta*
 
 At Sāvatthī.
 
@@ -218,7 +218,7 @@ cultivated so that there's no disturbance or trembling of the body or
 mind."
 
 <!--pg-->
-### N 54.8 The Simile of the Lamp *Padīpopamasutta*
+### SN 54.8 The Simile of the Lamp *Padīpopamasutta*
 
 "Mendicants, when immersion due to mindfulness of breathing is developed
 and cultivated it's very fruitful and beneficial. How so?
@@ -349,7 +349,7 @@ everything that's felt, since I no longer take pleasure in it, will
 become cool right here.'"
 
 <!--pg-->
-### N 54.9 At Vesālī *Vesālīsutta*
+### SN 54.9 At Vesālī *Vesālīsutta*
 
 So I have heard. At one time the Buddha was staying near
 Vesālī, at the Great Wood, in the hall with the peaked
@@ -418,7 +418,7 @@ meditation. And it disperses and settles unskillful qualities on the
 spot whenever they arise."
 
 <!--pg-->
-### N 54.10 With Kimbila *Kimilasutta*
+### SN 54.10 With Kimbila *Kimilasutta*
 
 So I have heard. At one time the Buddha was staying near
 Kimbilā in the Freshwater Mangrove Wood. Then the Buddha
@@ -532,7 +532,7 @@ qualities."
 <!--pg-->
 ## Chapter Two
 
-### N 54.11 Icchānaṅgala *Icchānaṅgalasutta*
+### SN 54.11 Icchānaṅgala *Icchānaṅgalasutta*
 
 At one time the Buddha was staying in a forest near
 Icchānaṅgala. There he addressed the mendicants,
@@ -583,7 +583,7 @@ For if anything should be rightly called 'a noble meditation', or else
 immersion due to mindfulness of breathing."
 
 <!--pg-->
-### N 54.12 In Doubt *Kaṅkheyyasutta*
+### SN 54.12 In Doubt *Kaṅkheyyasutta*
 
 At one time Venerable Lomasakaṅgiya was staying in the land
 of the Sakyans, near Kapilavatthu in the Banyan Tree Monastery. Then
@@ -666,7 +666,7 @@ This is another way to understand how the meditation of a trainee and a
 realized one are different."
 
 <!--pg-->
-### N 54.13 With Ānanda (1st) *Paṭhamaānandasutta*
+### SN 54.13 With Ānanda (1st) *Paṭhamaānandasutta*
 
 At Sāvatthī.
 
@@ -804,7 +804,7 @@ how the seven awakening factors are developed and cultivated so as to
 fulfill knowledge and freedom."
 
 <!--pg-->
-### N 54.14 With Ānanda (2nd) *Dutiyaānandasutta*
+### SN 54.14 With Ānanda (2nd) *Dutiyaānandasutta*
 
 Then Venerable Ānanda went up to the Buddha, bowed, and sat down to one
 side. The Buddha said to him: "Ānanda, is there one thing that, when
@@ -830,7 +830,7 @@ That's how the seven awakening factors are developed and cultivated so
 as to fulfill knowledge and freedom."
 
 <!--pg-->
-### N 54.15 Several Mendicants (1st) *Paṭhamabhikkhusutta*
+### SN 54.15 Several Mendicants (1st) *Paṭhamabhikkhusutta*
 
 Then several mendicants went up to the Buddha, bowed, sat down to one
 side, and said to him:
@@ -858,7 +858,7 @@ That's how the seven awakening factors are developed and cultivated so
 as to fulfill knowledge and freedom."
 
 <!--pg-->
-### N 54.16 Several Mendicants (2nd) *Dutiyabhikkhusutta*
+### SN 54.16 Several Mendicants (2nd) *Dutiyabhikkhusutta*
 
 Then several mendicants went up to the Buddha, bowed, and sat down to
 one side. The Buddha said to them:
@@ -889,26 +889,26 @@ That's how the seven awakening factors are developed and cultivated so
 as to fulfill knowledge and freedom."
 
 <!--pg-->
-### N 54.17 Giving Up the Fetters *Saṁyojanappahānasutta*
+### SN 54.17 Giving Up the Fetters *Saṁyojanappahānasutta*
 
 "Mendicants, when immersion due to mindfulness of breathing is developed
 and cultivated it leads to giving up the fetters ..."
 
 <!--pg-->
-### N 54.18 Uprooting the Tendencies *Anusayasamugghātasutta*
+### SN 54.18 Uprooting the Tendencies *Anusayasamugghātasutta*
 
 "Mendicants, when immersion due to mindfulness of breathing is developed
 and cultivated it leads to uprooting the underlying tendencies ..."
 
 <!--pg-->
-### N 54.19 Completely Understanding the Course of Time *Addhānapariññāsutta*
+### SN 54.19 Completely Understanding the Course of Time *Addhānapariññāsutta*
 
 "Mendicants, when immersion due to mindfulness of breathing is developed
 and cultivated it leads to completely understanding the course of time
 ..."
 
 <!--pg-->
-### N 54.20 The Ending of Defilements *Āsavakkhayasutta*
+### SN 54.20 The Ending of Defilements *Āsavakkhayasutta*
 
 "Mendicants, when immersion due to mindfulness of breathing is developed
 and cultivated it leads to the ending of defilements. And how is

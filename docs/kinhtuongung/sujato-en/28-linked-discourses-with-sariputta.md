@@ -3,7 +3,7 @@
 <!--pg-->
 ## The Chapter with Sāriputta
 
-### N 28.1 Born of Seclusion *Vivekajasutta*
+### SN 28.1 Born of Seclusion *Vivekajasutta*
 
 At one time Venerable Sāriputta was staying near
 Sāvatthī in Jeta's Grove, Anāthapiṇḍika's
@@ -36,7 +36,7 @@ absorption' or 'I have entered the first absorption' or 'I am emerging
 from the first absorption'."
 
 <!--pg-->
-### N 28.2 Without Placing the Mind *Avitakkasutta*
+### SN 28.2 Without Placing the Mind *Avitakkasutta*
 
 At Sāvatthī.
 
@@ -60,7 +60,7 @@ absorption' or 'I have entered the second absorption' or 'I am emerging
 from the second absorption'."
 
 <!--pg-->
-### N 28.3 Rapture *Pītisutta*
+### SN 28.3 Rapture *Pītisutta*
 
 At Sāvatthī.
 
@@ -84,7 +84,7 @@ absorption' or 'I have entered the third absorption' or 'I am emerging
 from the third absorption'."
 
 <!--pg-->
-### N 28.4 Equanimity *Upekkhāsutta*
+### SN 28.4 Equanimity *Upekkhāsutta*
 
 At Sāvatthī.
 
@@ -108,7 +108,7 @@ absorption' or 'I have entered the fourth absorption' or 'I am emerging
 from the fourth absorption'."
 
 <!--pg-->
-### N 28.5 The Dimension of Infinite Space *Ākāsānañcāyatanasutta*
+### SN 28.5 The Dimension of Infinite Space *Ākāsānañcāyatanasutta*
 
 At Sāvatthī.
 
@@ -120,7 +120,7 @@ aware that 'space is infinite', I entered and remained in the dimension
 of infinite space. ..." ...
 
 <!--pg-->
-### N 28.6 The Dimension of Infinite Consciousness *Viññāṇañcāyatanasutta*
+### SN 28.6 The Dimension of Infinite Consciousness *Viññāṇañcāyatanasutta*
 
 At Sāvatthī.
 
@@ -131,7 +131,7 @@ that 'consciousness is infinite', I entered and remained in the
 dimension of infinite consciousness. ..." ...
 
 <!--pg-->
-### N 28.7 The Dimension of Nothingness *Ākiñcaññāyatanasutta*
+### SN 28.7 The Dimension of Nothingness *Ākiñcaññāyatanasutta*
 
 At Sāvatthī.
 
@@ -142,7 +142,7 @@ aware that 'there is nothing at all', I entered and remained in the
 dimension of nothingness. ..." ...
 
 <!--pg-->
-### N 28.8 The Dimension of Neither Perception Nor Non-Perception *Nevasaññānāsaññāyatanasutta*
+### SN 28.8 The Dimension of Neither Perception Nor Non-Perception *Nevasaññānāsaññāyatanasutta*
 
 At Sāvatthī.
 
@@ -153,7 +153,7 @@ and remained in the dimension of neither perception nor non-perception.
 ..." ...
 
 <!--pg-->
-### N 28.9 The Attainment of Cessation *Nirodhasamāpattisutta*
+### SN 28.9 The Attainment of Cessation *Nirodhasamāpattisutta*
 
 At Sāvatthī.
 
@@ -174,7 +174,7 @@ perception and feeling' or 'I am emerging from the cessation of
 perception and feeling'."
 
 <!--pg-->
-### N 28.10 With Sucimukhī *Sucimukhīsutta*
+### SN 28.10 With Sucimukhī *Sucimukhīsutta*
 
 At one time Venerable Sāriputta was staying near
 Rājagaha, in the Bamboo Grove, the squirrels' feeding

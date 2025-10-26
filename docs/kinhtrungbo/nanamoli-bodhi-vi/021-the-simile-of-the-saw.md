@@ -1,4 +1,4 @@
-# 21. Ví Dụ Về Cái Cưa
+# MN 21. Ví Dụ Về Cái Cưa
 ***(Kakacūpama Sutta)***
 
 1\. Tôi nghe như vầy. Một lần nọ, Đức Thế Tôn đang ở tại Sāvatthī (Xá Vệ) trong khu rừng Jeta (Kỳ Đà), vườn của ông Anāthapiṇ̣ika (Cấp Cô Độc).

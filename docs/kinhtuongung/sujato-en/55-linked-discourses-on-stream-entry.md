@@ -3,7 +3,7 @@
 <!--pg-->
 ## The Chapter at Bamboo Gate
 
-### N 55.1 A Wheel-Turning Monarch *Cakkavattirājasutta*
+### SN 55.1 A Wheel-Turning Monarch *Cakkavattirājasutta*
 
 At Sāvatthī.
 
@@ -53,7 +53,7 @@ And, mendicants, gaining these four continents is not worth a sixteenth
 part of gaining these four things."
 
 <!--pg-->
-### N 55.2 The Culmination of the Spiritual Life *Brahmacariyogadhasutta*
+### SN 55.2 The Culmination of the Spiritual Life *Brahmacariyogadhasutta*
 
 "Mendicants, a noble disciple who has four things is a stream-enterer,
 not liable to be reborn in the underworld, bound for awakening.
@@ -73,7 +73,7 @@ say:
 > the culmination of the spiritual life."
 
 <!--pg-->
-### N 55.3 With Dīghāvu *Dīghāvuupāsakasutta*
+### SN 55.3 With Dīghāvu *Dīghāvuupāsakasutta*
 
 At one time the Buddha was staying near Rājagaha, in the
 Bamboo Grove, the squirrels' feeding ground.
@@ -143,7 +143,7 @@ spontaneously, and will become extinguished there, not liable to return
 from that world."
 
 <!--pg-->
-### N 55.4 With Sāriputta (1st) *Paṭhamasāriputtasutta*
+### SN 55.4 With Sāriputta (1st) *Paṭhamasāriputtasutta*
 
 At one time Venerable Sāriputta was staying near
 Sāvatthī in Jeta's Grove, Anāthapiṇḍika's
@@ -166,7 +166,7 @@ declare that they're a stream-enterer, not liable to be reborn in the
 underworld, bound for awakening."
 
 <!--pg-->
-### N 55.5 With Sāriputta (2nd) *Dutiyasāriputtasutta*
+### SN 55.5 With Sāriputta (2nd) *Dutiyasāriputtasutta*
 
 Then Sāriputta went up to the Buddha, bowed, and sat down
 to one side. The Buddha said to him:
@@ -204,7 +204,7 @@ eightfold path is called a stream-enterer, the venerable of such and
 such name and clan."
 
 <!--pg-->
-### N 55.6 The Chamberlains *Thapatisutta*
+### SN 55.6 The Chamberlains *Thapatisutta*
 
 At Sāvatthī. At that time several mendicants were making a
 robe for the Buddha, thinking that when his robe was finished and the
@@ -319,7 +319,7 @@ your equal when it comes to giving and sharing?"
 us like this."
 
 <!--pg-->
-### N 55.7 The People of Bamboo Gate *Veḷudvāreyyasutta*
+### SN 55.7 The People of Bamboo Gate *Veḷudvāreyyasutta*
 
 So I have heard. At one time the Buddha was wandering in
 the land of the Kosalans together with a large Saṅgha of
@@ -436,7 +436,7 @@ Saṅgha. From this day forth, may the worthy Gotama remember
 us as lay followers who have gone for refuge for life."
 
 <!--pg-->
-### N 55.8 In the Brick Hall (1st) *Paṭhamagiñjakāvasathasutta*
+### SN 55.8 In the Brick Hall (1st) *Paṭhamagiñjakāvasathasutta*
 
 So I have heard. At one time the Buddha was staying at
 Ñātika in the brick house. Then Venerable Ānanda went up to
@@ -487,7 +487,7 @@ underworld, and am bound for awakening.'"
 **(The following two discourses have the same setting.)**
 
 <!--pg-->
-### N 55.9 At the Brick Hall (2nd) *Dutiyagiñjakāvasathasutta*
+### SN 55.9 At the Brick Hall (2nd) *Dutiyagiñjakāvasathasutta*
 
 Ānanda said to the Buddha:
 
@@ -508,7 +508,7 @@ places, the underworld. I am a stream-enterer! I'm not liable to be
 reborn in the underworld, and am bound for awakening.'"
 
 <!--pg-->
-### N 55.10 At the Brick Hall (3rd) *Tatiyagiñjakāvasathasutta*
+### SN 55.10 At the Brick Hall (3rd) *Tatiyagiñjakāvasathasutta*
 
 Ānanda said to the Buddha:
 
@@ -561,7 +561,7 @@ underworld, and am bound for awakening.'"
 <!--pg-->
 ## The Chapter on the Royal Monastery
 
-### N 55.11 A Saṅgha of a Thousand Nuns *Sahassabhikkhunisaṁghasutta*
+### SN 55.11 A Saṅgha of a Thousand Nuns *Sahassabhikkhunisaṁghasutta*
 
 At one time the Buddha was staying near Sāvatthī in the
 Royal Monastery. Then a Saṅgha of a thousand nuns went up
@@ -576,7 +576,7 @@ disciple who has these four things is a stream-enterer, not liable to be
 reborn in the underworld, bound for awakening."
 
 <!--pg-->
-### N 55.12 The Brahmins *Brāhmaṇasutta*
+### SN 55.12 The Brahmins *Brāhmaṇasutta*
 
 At Sāvatthī. "Mendicants, the brahmins advocate a practice
 called 'get up and go'. They encourage their disciples: 'Please, good
@@ -600,7 +600,7 @@ practice which does lead solely to disillusionment, dispassion,
 cessation, peace, insight, awakening, and extinguishment."
 
 <!--pg-->
-### N 55.13 With the Senior Monk Ānanda *Ānandattherasutta*
+### SN 55.13 With the Senior Monk Ānanda *Ānandattherasutta*
 
 At one time the venerables Ānanda and Sāriputta were
 staying near Sāvatthī in Jeta's Grove,
@@ -664,7 +664,7 @@ in order for the Buddha to declare that they're a stream-enterer, not
 liable to be reborn in the underworld, bound for awakening."
 
 <!--pg-->
-### N 55.14 Fear of the Bad Place *Duggatibhayasutta*
+### SN 55.14 Fear of the Bad Place *Duggatibhayasutta*
 
 "Mendicants, a noble disciple who has four things has gone beyond all
 fear of being reborn in a bad place. What four? It's when a noble
@@ -674,7 +674,7 @@ the noble ones ... leading to immersion. A noble disciple who has these
 four things has gone beyond all fear of being reborn in a bad place."
 
 <!--pg-->
-### N 55.15 Fear of the Bad Place, the Underworld *Duggativinipātabhayasutta*
+### SN 55.15 Fear of the Bad Place, the Underworld *Duggativinipātabhayasutta*
 
 "Mendicants, a noble disciple who has four things has gone beyond all
 fear of being reborn in a bad place, the underworld. What four? It's
@@ -685,7 +685,7 @@ disciple who has these four things has gone beyond all fear of being
 reborn in a bad place, the underworld."
 
 <!--pg-->
-### N 55.16 Friends and Colleagues (1st) *Paṭhamamittāmaccasutta*
+### SN 55.16 Friends and Colleagues (1st) *Paṭhamamittāmaccasutta*
 
 "Mendicants, those who you have sympathy for, and those worth listening
 to---friends and colleagues, relatives and family---should be
@@ -698,7 +698,7 @@ and family---should be encouraged, supported, and established in these
 four factors of stream-entry."
 
 <!--pg-->
-### N 55.17 Friends and Colleagues (2nd) *Dutiyamittāmaccasutta*
+### SN 55.17 Friends and Colleagues (2nd) *Dutiyamittāmaccasutta*
 
 "Mendicants, those who you have sympathy for, and those worth listening
 to---friends and colleagues, relatives and family---should be
@@ -727,7 +727,7 @@ and colleagues, relatives and family---should be encouraged, supported,
 and established in these four factors of stream-entry."
 
 <!--pg-->
-### N 55.18 A Visit to the Gods (1st) *Paṭhamadevacārikasutta*
+### SN 55.18 A Visit to the Gods (1st) *Paṭhamadevacārikasutta*
 
 At Sāvatthī. And then Venerable
 Mahāmoggallāna, as easily as a strong person would extend
@@ -755,7 +755,7 @@ the reason why some sentient beings, when their body breaks up, after
 death, are reborn in a good place, a heavenly realm."
 
 <!--pg-->
-### N 55.19 A Visit to the Gods (2nd) *Dutiyadevacārikasutta*
+### SN 55.19 A Visit to the Gods (2nd) *Dutiyadevacārikasutta*
 
 At Sāvatthī.
 
@@ -785,7 +785,7 @@ the reason why some sentient beings, when their body breaks up, after
 death, have been reborn in a good place, a heavenly realm."
 
 <!--pg-->
-### N 55.20 A Visit to the Gods (3rd) *Tatiyadevacārikasutta*
+### SN 55.20 A Visit to the Gods (3rd) *Tatiyadevacārikasutta*
 
 Then the Buddha, as easily as a strong person would extend or contract
 their arm, vanished from Jeta's Grove and reappeared among the gods of
@@ -814,7 +814,7 @@ underworld, bound for awakening."
 <!--pg-->
 ## The Chapter with Sarakāni
 
-### N 55.21 With Mahānāma (1st) *Paṭhamamahānāmasutta*
+### SN 55.21 With Mahānāma (1st) *Paṭhamamahānāmasutta*
 
 So I have heard. At one time the Buddha was staying in the
 land of the Sakyans, near Kapilavatthu in the Banyan Tree Monastery.
@@ -858,7 +858,7 @@ Mahānāma, do not fear! Your death will not be a bad one;
 your passing will not be a bad one."
 
 <!--pg-->
-### N 55.22 With Mahānāma (2nd) *Dutiyamahānāmasutta*
+### SN 55.22 With Mahānāma (2nd) *Dutiyamahānāmasutta*
 
 So I have heard. At one time the Buddha was staying in the
 land of the Sakyans, near Kapilavatthu in the Banyan Tree Monastery.
@@ -890,7 +890,7 @@ inclines."
 and inclines towards extinguishment."
 
 <!--pg-->
-### N 55.23 With Godhā the Sakyan *Godhasakkasutta*
+### SN 55.23 With Godhā the Sakyan *Godhasakkasutta*
 
 At Kapilavatthu. Then Mahānāma the Sakyan went up to
 Godhā the Sakyan, and said to him, "Godhā, how
@@ -947,7 +947,7 @@ when he speaks like this?"
 this, except what is good and wholesome."
 
 <!--pg-->
-### N 55.24 About Sarakāni (1st) *Paṭhamasaraṇānisakkasutta*
+### SN 55.24 About Sarakāni (1st) *Paṭhamasaraṇānisakkasutta*
 
 At Kapilavatthu.
 
@@ -1033,7 +1033,7 @@ Sarakāni? Mahānāma, Sarakāni the
 Sakyan undertook the training at the time of his death."
 
 <!--pg-->
-### N 55.25 About Sarakāni the Sakyan (2nd) *Dutiyasaraṇānisakkasutta*
+### SN 55.25 About Sarakāni the Sakyan (2nd) *Dutiyasaraṇānisakkasutta*
 
 At Kapilavatthu.
 
@@ -1142,7 +1142,7 @@ Mahānāma, Sarakāni the Sakyan fulfilled the
 training at the time of his death."
 
 <!--pg-->
-### N 55.26 Anāthapiṇḍika (1st) *Paṭhamaanāthapiṇḍikasutta*
+### SN 55.26 Anāthapiṇḍika (1st) *Paṭhamaanāthapiṇḍikasutta*
 
 At Sāvatthī.
 
@@ -1267,7 +1267,7 @@ Anāthapiṇḍika in this way and that."
 can analyze the four factors of stream-entry in ten respects."
 
 <!--pg-->
-### N 55.27 With Anāthapiṇḍika (2nd) *Dutiyaanāthapiṇḍikasutta*
+### SN 55.27 With Anāthapiṇḍika (2nd) *Dutiyaanāthapiṇḍikasutta*
 
 At Sāvatthī.
 
@@ -1339,7 +1339,7 @@ laypeople taught by the Buddha, I don't see any that I have broken."
 fruit of stream-entry."
 
 <!--pg-->
-### N 55.28 Dangers and Threats (1st) *Paṭhamabhayaverūpasantasutta*
+### SN 55.28 Dangers and Threats (1st) *Paṭhamabhayaverūpasantasutta*
 
 At Sāvatthī.
 
@@ -1405,7 +1405,7 @@ a stream-enterer! I'm not liable to be reborn in the underworld, and am
 bound for awakening.'"
 
 <!--pg-->
-### N 55.29 Dangers and Threats (2nd) *Dutiyabhayaverūpasantasutta*
+### SN 55.29 Dangers and Threats (2nd) *Dutiyabhayaverūpasantasutta*
 
 At Sāvatthī. ... "Mendicants, when a noble disciple has
 quelled five dangers and threats, has the four factors of stream-entry,
@@ -1416,7 +1416,7 @@ places of loss, bad places, the underworld. I am a stream-enterer! I'm
 not liable to be reborn in the underworld, and am bound for awakening.'"
 
 <!--pg-->
-### N 55.30 With Nandaka the Licchavi *Nandakalicchavisutta*
+### SN 55.30 With Nandaka the Licchavi *Nandakalicchavisutta*
 
 At one time the Buddha was staying near Vesālī, at the
 Great Wood, in the hall with the peaked roof. Then Nandaka the Licchavi
@@ -1447,7 +1447,7 @@ do for me, that is, confidence in the Buddha."
 <!--pg-->
 ## The Chapter on Overflowing Merit
 
-### N 55.31 Overflowing Merit (1st) *Paṭhamapuññābhisandasutta*
+### SN 55.31 Overflowing Merit (1st) *Paṭhamapuññābhisandasutta*
 
 At Sāvatthī.
 
@@ -1472,7 +1472,7 @@ happiness. These are the four kinds of overflowing merit, overflowing
 goodness that nurture happiness."
 
 <!--pg-->
-### N 55.32 Overflowing Merit (2nd) *Dutiyapuññābhisandasutta*
+### SN 55.32 Overflowing Merit (2nd) *Dutiyapuññābhisandasutta*
 
 "Mendicants, there are these four kinds of overflowing merit,
 overflowing goodness that nurture happiness. What four? It's when a
@@ -1487,7 +1487,7 @@ are the four kinds of overflowing merit, overflowing goodness that
 nurture happiness."
 
 <!--pg-->
-### N 55.33 Overflowing Merit (3rd) *Tatiyapuññābhisandasutta*
+### SN 55.33 Overflowing Merit (3rd) *Tatiyapuññābhisandasutta*
 
 "Mendicants, there are these four kinds of overflowing merit,
 overflowing goodness that nurture happiness. What four? It's when a
@@ -1501,7 +1501,7 @@ overflowing goodness that nurtures happiness. These are the four kinds
 of overflowing merit, overflowing goodness that nurture happiness."
 
 <!--pg-->
-### N 55.34 Footprints of the Gods (1st) *Paṭhamadevapadasutta*
+### SN 55.34 Footprints of the Gods (1st) *Paṭhamadevapadasutta*
 
 At Sāvatthī.
 
@@ -1523,7 +1523,7 @@ cleanse unclean beings. These four footprints of the gods are in order
 to purify unpurified beings and cleanse unclean beings."
 
 <!--pg-->
-### N 55.35 Footprints of the Gods (2nd) *Dutiyadevapadasutta*
+### SN 55.35 Footprints of the Gods (2nd) *Dutiyadevapadasutta*
 
 "Mendicants, these four footprints of the gods are in order to purify
 unpurified beings and cleanse unclean beings.
@@ -1554,7 +1554,7 @@ footprints of the gods are in order to purify unpurified beings and
 cleanse unclean beings."
 
 <!--pg-->
-### N 55.36 In Common With the Gods *Devasabhāgatasutta*
+### SN 55.36 In Common With the Gods *Devasabhāgatasutta*
 
 "Mendicants, when someone has four things the gods are pleased and speak
 of what they have in common. What four? Firstly, a noble disciple has
@@ -1577,7 +1577,7 @@ gods.' When someone has four things the gods are pleased and speak of
 what they have in common."
 
 <!--pg-->
-### N 55.37 With Mahānāma *Mahānāmasutta*
+### SN 55.37 With Mahānāma *Mahānāmasutta*
 
 At one time the Buddha was staying in the land of the Sakyans, near
 Kapilavatthu in the Banyan Tree Monastery. Then Mahānāma
@@ -1618,7 +1618,7 @@ passing away which is noble, penetrative, and leads to the complete
 ending of suffering. Then they're considered to be a wise lay follower."
 
 <!--pg-->
-### N 55.38 Rain *Vassasutta*
+### SN 55.38 Rain *Vassasutta*
 
 "Mendicants, suppose the heavens rain heavily on a mountain top, and the
 water flows downhill to fill the hollows, crevices, and creeks. As they
@@ -1631,7 +1631,7 @@ things flow onwards; and, after crossing to the far shore, they lead to
 the ending of defilements."
 
 <!--pg-->
-### N 55.39 With Kāḷigodhā *Kāḷigodhasutta*
+### SN 55.39 With Kāḷigodhā *Kāḷigodhasutta*
 
 At one time the Buddha was staying in the land of the Sakyans, near
 Kapilavatthu in the Banyan Tree Monastery. Then the Buddha robed up in
@@ -1660,7 +1660,7 @@ with those who are ethical and of good character."
 declared the fruit of stream-entry."
 
 <!--pg-->
-### N 55.40 Nandiya the Sakyan *Nandiyasakkasutta*
+### SN 55.40 Nandiya the Sakyan *Nandiyasakkasutta*
 
 At one time the Buddha was staying in the land of the Sakyans, near
 Kapilavatthu in the Banyan Tree Monastery. Then Nandiya the Sakyan went
@@ -1728,7 +1728,7 @@ disciple lives diligently."
 <!--pg-->
 ## The Chapter on Overflowing Merit, With Verses
 
-### N 55.41 Overflowing Merit (1st) *Paṭhamaabhisandasutta*
+### SN 55.41 Overflowing Merit (1st) *Paṭhamaabhisandasutta*
 
 "Mendicants, there are these four kinds of overflowing merit,
 overflowing goodness that nurture happiness. What four? It's when a
@@ -1770,7 +1770,7 @@ say:
 > as the rivers bring their waters to the sea."
 
 <!--pg-->
-### N 55.42 Overflowing Merit (2nd) *Dutiyaabhisandasutta*
+### SN 55.42 Overflowing Merit (2nd) *Dutiyaabhisandasutta*
 
 "Mendicants, there are these four kinds of overflowing merit,
 overflowing goodness that nurture happiness. What four? It's when a
@@ -1817,7 +1817,7 @@ say:
 > as the rivers bring their waters to the sea."
 
 <!--pg-->
-### N 55.43 Overflowing Merit (3rd) *Tatiyaabhisandasutta*
+### SN 55.43 Overflowing Merit (3rd) *Tatiyaabhisandasutta*
 
 "Mendicants, there are these four kinds of overflowing merit,
 overflowing goodness that nurture happiness. What four? It's when a
@@ -1847,7 +1847,7 @@ say:
 > － of the King of Death."
 
 <!--pg-->
-### N 55.44 Rich (1st) *Paṭhamamahaddhanasutta*
+### SN 55.44 Rich (1st) *Paṭhamamahaddhanasutta*
 
 "Mendicants, a noble disciple who has four things is said to be rich,
 affluent, and wealthy.
@@ -1859,7 +1859,7 @@ noble disciple who has these four things is said to be rich, affluent,
 and wealthy."
 
 <!--pg-->
-### N 55.45 Rich (2nd) *Dutiyamahaddhanasutta*
+### SN 55.45 Rich (2nd) *Dutiyamahaddhanasutta*
 
 "Mendicants, a noble disciple who has four things is said to be rich,
 affluent, wealthy, and famous.
@@ -1871,7 +1871,7 @@ noble disciple who has these four things is said to be rich, affluent,
 wealthy, and famous."
 
 <!--pg-->
-### N 55.46 Plain Version *Suddhakasutta*
+### SN 55.46 Plain Version *Suddhakasutta*
 
 "Mendicants, a noble disciple who has four things is a stream-enterer,
 not liable to be reborn in the underworld, bound for awakening.
@@ -1883,7 +1883,7 @@ noble disciple who has these four things is a stream-enterer, not liable
 to be reborn in the underworld, bound for awakening."
 
 <!--pg-->
-### N 55.47 With Nandiya *Nandiyasutta*
+### SN 55.47 With Nandiya *Nandiyasutta*
 
 At Kapilavatthu. Seated to one side, the Buddha said to Nandiya the
 Sakyan:
@@ -1898,7 +1898,7 @@ noble disciple who has these four things is a stream-enterer, not liable
 to be reborn in the underworld, bound for awakening."
 
 <!--pg-->
-### N 55.48 With Bhaddiya *Bhaddiyasutta*
+### SN 55.48 With Bhaddiya *Bhaddiyasutta*
 
 At Kapilavatthu. Seated to one side, the Buddha said to Bhaddiya the
 Sakyan:
@@ -1906,7 +1906,7 @@ Sakyan:
 "Bhaddiya, a noble disciple who has four things is a stream-enterer ..."
 
 <!--pg-->
-### N 55.49 With Mahānāma *Mahānāmasutta*
+### SN 55.49 With Mahānāma *Mahānāmasutta*
 
 At Kapilavatthu. Seated to one side, the Buddha said to
 Mahānāma the Sakyan:
@@ -1915,7 +1915,7 @@ Mahānāma the Sakyan:
 stream-enterer ..."
 
 <!--pg-->
-### N 55.50 Factors *Aṅgasutta*
+### SN 55.50 Factors *Aṅgasutta*
 
 "Mendicants, there are these four factors of stream-entry. What four?
 Associating with true persons, listening to the true teaching, rational
@@ -1925,7 +1925,7 @@ the four factors of stream-entry."
 <!--pg-->
 ## The Chapter on a Wise Person
 
-### N 55.51 With Verses *Sagāthakasutta*
+### SN 55.51 With Verses *Sagāthakasutta*
 
 "Mendicants, a noble disciple who has four things is a stream-enterer,
 not liable to be reborn in the underworld, bound for awakening.
@@ -1955,7 +1955,7 @@ say:
 > remembering the instructions of the Buddhas."
 
 <!--pg-->
-### N 55.52 One Who Completed the Rains *Vassaṁvutthasutta*
+### SN 55.52 One Who Completed the Rains *Vassaṁvutthasutta*
 
 At one time the Buddha was staying near Sāvatthī in Jeta's
 Grove, Anāthapiṇḍika's monastery. Now at that time a
@@ -2006,7 +2006,7 @@ stream-enterers, not liable to be reborn in the underworld, bound for
 awakening.'"
 
 <!--pg-->
-### N 55.53 With Dhammadinna *Dhammadinnasutta*
+### SN 55.53 With Dhammadinna *Dhammadinnasutta*
 
 At one time the Buddha was staying near Varanasi, in the deer park at
 Isipatana. Then the lay follower Dhammadinna, together with five hundred
@@ -2043,7 +2043,7 @@ immersion."
 the fruit of stream-entry."
 
 <!--pg-->
-### N 55.54 Sick *Gilānasutta*
+### SN 55.54 Sick *Gilānasutta*
 
 At one time the Buddha was staying in the land of the Sakyans, near
 Kapilavatthu in the Banyan Tree Monastery.
@@ -2106,7 +2106,7 @@ is freed from defilements; that is, between the freedom of one and the
 other."
 
 <!--pg-->
-### N 55.55 The Fruit of Stream-Entry *Sotāpattiphalasutta*
+### SN 55.55 The Fruit of Stream-Entry *Sotāpattiphalasutta*
 
 "Mendicants, when four things are developed and cultivated they lead to
 the realization of the fruit of stream-entry. What four? Associating
@@ -2116,37 +2116,37 @@ things are developed and cultivated they lead to the realization of the
 fruit of stream-entry."
 
 <!--pg-->
-### N 55.56 The Fruit of Once-Return *Sakadāgāmiphalasutta*
+### SN 55.56 The Fruit of Once-Return *Sakadāgāmiphalasutta*
 
 "Mendicants, when four things are developed and cultivated they lead to
 the realization of the fruit of once-return. ..."
 
 <!--pg-->
-### N 55.57 The Fruit of Non-Return *Anāgāmiphalasutta*
+### SN 55.57 The Fruit of Non-Return *Anāgāmiphalasutta*
 
 "Mendicants, when four things are developed and cultivated they lead to
 the realization of the fruit of non-return. ..."
 
 <!--pg-->
-### N 55.58 The Fruit of Perfection *Arahattaphalasutta*
+### SN 55.58 The Fruit of Perfection *Arahattaphalasutta*
 
 "Mendicants, when four things are developed and cultivated they lead to
 the realization of the fruit of perfection. ..."
 
 <!--pg-->
-### N 55.59 The Getting of Wisdom *Paññāpaṭilābhasutta*
+### SN 55.59 The Getting of Wisdom *Paññāpaṭilābhasutta*
 
 "Mendicants, when four things are developed and cultivated they lead to
 the getting of wisdom. ..."
 
 <!--pg-->
-### N 55.60 The Growth of Wisdom *Paññāvuddhisutta*
+### SN 55.60 The Growth of Wisdom *Paññāvuddhisutta*
 
 "Mendicants, when four things are developed and cultivated they lead to
 the growth of wisdom. ..."
 
 <!--pg-->
-### N 55.61 The Increase of Wisdom *Paññāvepullasutta*
+### SN 55.61 The Increase of Wisdom *Paññāvepullasutta*
 
 "Mendicants, when four things are developed and cultivated they lead to
 the increase of wisdom. ..."
@@ -2154,7 +2154,7 @@ the increase of wisdom. ..."
 <!--pg-->
 ## The Chapter on Great Wisdom
 
-### N 55.62 Great Wisdom *Mahāpaññāsutta*
+### SN 55.62 Great Wisdom *Mahāpaññāsutta*
 
 "Mendicants, when four things are developed and cultivated they lead to
 great wisdom. What four? Associating with true persons, listening to the
@@ -2163,73 +2163,73 @@ the teaching. When these four things are developed and cultivated they
 lead to great wisdom."
 
 <!--pg-->
-### N 55.63 Widespread Wisdom *Puthupaññāsutta*
+### SN 55.63 Widespread Wisdom *Puthupaññāsutta*
 
 "Mendicants, when four things are developed and cultivated they lead to
 widespread wisdom ..."
 
 <!--pg-->
-### N 55.64 Abundant Wisdom *Vipulapaññāsutta*
+### SN 55.64 Abundant Wisdom *Vipulapaññāsutta*
 
 "Mendicants, when four things are developed and cultivated they lead to
 abundant wisdom ..."
 
 <!--pg-->
-### N 55.65 Deep Wisdom *Gambhīrapaññāsutta*
+### SN 55.65 Deep Wisdom *Gambhīrapaññāsutta*
 
 "Mendicants, when four things are developed and cultivated they lead to
 deep wisdom ..."
 
 <!--pg-->
-### N 55.66 Extraordinary Wisdom *Appamattapaññāsutta*
+### SN 55.66 Extraordinary Wisdom *Appamattapaññāsutta*
 
 "Mendicants, when four things are developed and cultivated they lead to
 extraordinary wisdom ..."
 
 <!--pg-->
-### N 55.67 Vast Wisdom *Bhūripaññāsutta*
+### SN 55.67 Vast Wisdom *Bhūripaññāsutta*
 
 "Mendicants, when four things are developed and cultivated they lead to
 vast wisdom ..."
 
 <!--pg-->
-### N 55.68 Much Wisdom *Paññābāhullasutta*
+### SN 55.68 Much Wisdom *Paññābāhullasutta*
 
 "Mendicants, when four things are developed and cultivated they lead to
 much wisdom ..."
 
 <!--pg-->
-### N 55.69 Fast Wisdom *Sīghapaññāsutta*
+### SN 55.69 Fast Wisdom *Sīghapaññāsutta*
 
 "Mendicants, when four things are developed and cultivated they lead to
 fast wisdom ..."
 
 <!--pg-->
-### N 55.70 Light Wisdom *Lahupaññāsutta*
+### SN 55.70 Light Wisdom *Lahupaññāsutta*
 
 "Mendicants, when four things are developed and cultivated they lead to
 light wisdom ..."
 
 <!--pg-->
-### N 55.71 Laughing Wisdom *Hāsapaññāsutta*
+### SN 55.71 Laughing Wisdom *Hāsapaññāsutta*
 
 "Mendicants, when four things are developed and cultivated they lead to
 laughing wisdom ..."
 
 <!--pg-->
-### N 55.72 Swift Wisdom *Javanapaññāsutta*
+### SN 55.72 Swift Wisdom *Javanapaññāsutta*
 
 "Mendicants, when four things are developed and cultivated they lead to
 swift wisdom ..."
 
 <!--pg-->
-### N 55.73 Sharp Wisdom *Tikkhapaññāsutta*
+### SN 55.73 Sharp Wisdom *Tikkhapaññāsutta*
 
 "Mendicants, when four things are developed and cultivated they lead to
 sharp wisdom ..."
 
 <!--pg-->
-### N 55.74 Penetrating Wisdom *Nibbedhikapaññāsutta*
+### SN 55.74 Penetrating Wisdom *Nibbedhikapaññāsutta*
 
 "Mendicants, when four things are developed and cultivated they lead to
 penetrating wisdom. What four? Associating with true persons, listening

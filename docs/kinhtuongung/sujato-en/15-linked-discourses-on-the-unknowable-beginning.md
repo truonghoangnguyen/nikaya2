@@ -3,7 +3,7 @@
 <!--pg-->
 ## Chapter One
 
-### N 15.1 Grass and Sticks *Tiṇakaṭṭhasutta*
+### SN 15.1 Grass and Sticks *Tiṇakaṭṭhasutta*
 
 So I have heard. At one time the Buddha was staying near
 Sāvatthī in Jeta's Grove, Anāthapiṇḍika's
@@ -28,7 +28,7 @@ is quite enough for you to become disillusioned, dispassionate, and
 freed regarding all conditions."
 
 <!--pg-->
-### N 15.2 The Earth *Pathavīsutta*
+### SN 15.2 The Earth *Pathavīsutta*
 
 At Sāvatthī.
 
@@ -47,7 +47,7 @@ is quite enough for you to become disillusioned, dispassionate, and
 freed regarding all conditions."
 
 <!--pg-->
-### N 15.3 Tears *Assusutta*
+### SN 15.3 Tears *Assusutta*
 
 At Sāvatthī.
 
@@ -76,7 +76,7 @@ enough for you to become disillusioned, dispassionate, and freed
 regarding all conditions."
 
 <!--pg-->
-### N 15.4 Mother's Milk *Khīrasutta*
+### SN 15.4 Mother's Milk *Khīrasutta*
 
 At Sāvatthī.
 
@@ -101,7 +101,7 @@ enough for you to become disillusioned, dispassionate, and freed
 regarding all conditions."
 
 <!--pg-->
-### N 15.5 A Mountain *Pabbatasutta*
+### SN 15.5 A Mountain *Pabbatasutta*
 
 At Sāvatthī.
 
@@ -129,7 +129,7 @@ enough for you to become disillusioned, dispassionate, and freed
 regarding all conditions."
 
 <!--pg-->
-### N 15.6 A Mustard Seed *Sāsapasutta*
+### SN 15.6 A Mustard Seed *Sāsapasutta*
 
 At Sāvatthī.
 
@@ -156,7 +156,7 @@ enough for you to become disillusioned, dispassionate, and freed
 regarding all conditions."
 
 <!--pg-->
-### N 15.7 Disciples *Sāvakasutta*
+### SN 15.7 Disciples *Sāvakasutta*
 
 At Sāvatthī.
 
@@ -183,7 +183,7 @@ enough for you to become disillusioned, dispassionate, and freed
 regarding all conditions."
 
 <!--pg-->
-### N 15.8 The Ganges *Gaṅgāsutta*
+### SN 15.8 The Ganges *Gaṅgāsutta*
 
 Near Rājagaha, in the Bamboo Grove. Then a certain brahmin
 went up to the Buddha, and exchanged greetings with him.
@@ -218,7 +218,7 @@ Gotama! Excellent! ... From this day forth, may the worthy Gotama
 remember me as a lay follower who has gone for refuge for life."
 
 <!--pg-->
-### N 15.9 A Stick *Daṇḍasutta*
+### SN 15.9 A Stick *Daṇḍasutta*
 
 At Sāvatthī.
 
@@ -236,7 +236,7 @@ enough for you to become disillusioned, dispassionate, and freed
 regarding all conditions."
 
 <!--pg-->
-### N 15.10 A Single Person *Puggalasutta*
+### SN 15.10 A Single Person *Puggalasutta*
 
 At one time the Buddha was staying near Rājagaha, on the
 Vulture's Peak Mountain. There the Buddha addressed the mendicants,
@@ -280,7 +280,7 @@ say:
 <!--pg-->
 ## Chapter Two
 
-### N 15.11 In a Sorry State *Duggatasutta*
+### SN 15.11 In a Sorry State *Duggatasutta*
 
 At one time the Buddha was staying near Sāvatthī.
 
@@ -293,7 +293,7 @@ beginning. ... This is quite enough for you to become disillusioned,
 dispassionate, and freed regarding all conditions."
 
 <!--pg-->
-### N 15.12 In a Good Way *Sukhitasutta*
+### SN 15.12 In a Good Way *Sukhitasutta*
 
 At Sāvatthī.
 
@@ -306,7 +306,7 @@ enough for you to become disillusioned, dispassionate, and freed
 regarding all conditions."
 
 <!--pg-->
-### N 15.13 Thirty Mendicants *Tiṁsamattasutta*
+### SN 15.13 Thirty Mendicants *Tiṁsamattasutta*
 
 Near Rājagaha, in the Bamboo Grove. Then thirty mendicants
 from Pāvā went to the Buddha. All of them lived in the
@@ -357,7 +357,7 @@ the thirty mendicants from Pāvā were freed from defilements
 by not grasping.
 
 <!--pg-->
-### N 15.14 Mother *Mātusutta*
+### SN 15.14 Mother *Mātusutta*
 
 At Sāvatthī.
 
@@ -370,7 +370,7 @@ enough for you to become disillusioned, dispassionate, and freed
 regarding all conditions."
 
 <!--pg-->
-### N 15.15 Father *Pitusutta*
+### SN 15.15 Father *Pitusutta*
 
 At Sāvatthī.
 
@@ -380,7 +380,7 @@ your father. ... This is quite enough for you to become disillusioned,
 dispassionate, and freed regarding all conditions."
 
 <!--pg-->
-### N 15.16 Brother *Bhātusutta*
+### SN 15.16 Brother *Bhātusutta*
 
 At Sāvatthī.
 
@@ -390,7 +390,7 @@ become disillusioned, dispassionate, and freed regarding all
 conditions."
 
 <!--pg-->
-### N 15.17 Sister *Bhaginisutta*
+### SN 15.17 Sister *Bhaginisutta*
 
 At Sāvatthī.
 
@@ -400,7 +400,7 @@ become disillusioned, dispassionate, and freed regarding all
 conditions."
 
 <!--pg-->
-### N 15.18 Son *Puttasutta*
+### SN 15.18 Son *Puttasutta*
 
 At Sāvatthī.
 
@@ -409,7 +409,7 @@ not previously been your son. ... This is quite enough for you to become
 disillusioned, dispassionate, and freed regarding all conditions."
 
 <!--pg-->
-### N 15.19 Daughter *Dhītusutta*
+### SN 15.19 Daughter *Dhītusutta*
 
 At Sāvatthī.
 
@@ -426,7 +426,7 @@ is quite enough for you to become disillusioned, dispassionate, and
 freed regarding all conditions."
 
 <!--pg-->
-### N 15.20 Mount Vepulla *Vepullapabbatasutta*
+### SN 15.20 Mount Vepulla *Vepullapabbatasutta*
 
 At one time the Buddha was staying near Rājagaha, on the
 Vulture's Peak Mountain. There the Buddha addressed the mendicants,
