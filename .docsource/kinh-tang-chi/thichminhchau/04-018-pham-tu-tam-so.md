@@ -271,7 +271,7 @@ này các Tỷ-kheo, một hồ nước đã được nhiều năm, có người
 tất cả các lỗ nước chảy ra, và trời lại không mưa đều đặn. Hồ nước như vậy, này các Tỷ-kheo, không có
 chờ đợi tức nước vỡ bờ. Cũng vậy, này các Tỷ-kheo, Tỷ-kheo đạt được và an trú một loại an tịnh tâm
 giải thoát. Vị ấy tác ý phá hoại vô minh, ; do vị ấy tác ý phá hoại vô minh, tâm không có phấn chấn,
-không có tịnh tín, không có an trú, không có giải thoát đối với phá hoại vô minh. Này các Tỷ-kheo, Tỷkheo như vậy không có chờ đợi được vô minh phá hoại .
+không có tịnh tín, không có an trú, không có giải thoát đối với phá hoại vô minh. Này các Tỷ-kheo, Tỷ-kheo như vậy không có chờ đợi được vô minh phá hoại .
 
 4. Ở đây, này các Tỷ-kheo, Tỷ-kheo đạt được và an trú một loại an tịnh tâm giải thoát. Vị ấy tác ý phá
 hoại vô minh. Do vị ấy tác ý phá hoại vô minh, tâm có phấn chấn, có tịnh tín, có an trú, có giải thoát đối

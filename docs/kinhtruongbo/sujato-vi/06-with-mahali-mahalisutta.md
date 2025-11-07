@@ -1,4 +1,4 @@
-# 6. Kinh Mahāli
+# DN 6. Kinh Mahāli
 
 _**Mahālisutta**_
 

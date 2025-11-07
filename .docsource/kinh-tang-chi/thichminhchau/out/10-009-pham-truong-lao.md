@@ -56,7 +56,7 @@ một bên, Tôn giả Punniya bạch Thế Tôn:
 pháp?
 
 2.- Này Punniya, Tỷ-kheo có lòng tin, không đi đến yết kiến, Như Lai không có thuyết pháp. Khi nào,
-này Punniya, Tỷ-kheo có lòng tin, đi đến yết kiến, như vậy Thế Tôn thuyết pháp. Và này Punniya, Tỷkheo có lòng tin, có đi đến yết kiến, nhưng không có hầu hạ... có hầu hạ nhưng không hỏi.. có hỏi nhưng
+này Punniya, Tỷ-kheo có lòng tin, đi đến yết kiến, như vậy Thế Tôn thuyết pháp. Và này Punniya, Tỷ-kheo có lòng tin, có đi đến yết kiến, nhưng không có hầu hạ... có hầu hạ nhưng không hỏi.. có hỏi nhưng
 không có lóng tai nghe pháp... có lóng tai nhưng nghe pháp, nhưng sau khi, không thọ trì pháp... sau khi
 nghe, có thọ trì pháp, nhưng không suy nghĩ ý nghĩa các pháp đã được thọ trì... suy nghĩ ý nghĩa các
 pháp đã được thọ trì, nhưng không có sau khi biết ý nghĩa, sau khi biết pháp, thực hành pháp đúng
@@ -269,11 +269,11 @@ pháp này không đưa đến thân ái, không đưa đến kính trọng, kh�
 không đưa đến hòa đồng, không đưa đến nhất trí.
 
 <!--pg-->
-3. Lại nữa, này các Tỷ-kheo không ưa học tập, không tán thán chấp nhận các học pháp. Này các Tỷkheo, Tỷ-kheo không ưa học tập, không tán thán chấp nhận các học pháp, pháp này không đưa đến thân
+3. Lại nữa, này các Tỷ-kheo không ưa học tập, không tán thán chấp nhận các học pháp. Này các Tỷ-kheo, Tỷ-kheo không ưa học tập, không tán thán chấp nhận các học pháp, pháp này không đưa đến thân
 ái... không đưa đến nhất trí.
 
 <!--pg-->
-4. Lại nữa, này các Tỷ-kheo, Tỷ-kheo ác dục, không tán thán nhiếp phục ác dục. Này các Tỷ-kheo, Tỷkheo ác dục, không tán thán nhiếp phục ác dục, pháp này không đưa đến thân ái... không đưa đến nhất
+4. Lại nữa, này các Tỷ-kheo, Tỷ-kheo ác dục, không tán thán nhiếp phục ác dục. Này các Tỷ-kheo, Tỷ-kheo ác dục, không tán thán nhiếp phục ác dục, pháp này không đưa đến thân ái... không đưa đến nhất
 trí.
 
 <!--pg-->
@@ -287,11 +287,11 @@ Tỷ-kheo gièm pha, không tán thán nhiếp phục gièm pha, pháp này khô
 đến nhất trí.
 
 <!--pg-->
-7. Lại nữa, này các Tỷ-kheo, Tỷ-kheo lừa đảo, không tán thán nhiếp phục lừa đảo. Này các Tỷ-kheo, Tỷkheo lừa đảo, không tán thán nhiếp phục lừa đảo, pháp này không đưa đến thân ái... không đưa đến nhất
+7. Lại nữa, này các Tỷ-kheo, Tỷ-kheo lừa đảo, không tán thán nhiếp phục lừa đảo. Này các Tỷ-kheo, Tỷ-kheo lừa đảo, không tán thán nhiếp phục lừa đảo, pháp này không đưa đến thân ái... không đưa đến nhất
 trí.
 
 <!--pg-->
-8. Lại nữa, này các Tỷ-kheo, Tỷ-kheo man trá không tán thán nhiếp phục man trá. Này các Tỷ-kheo, Tỷkheo man trá, không tán thán nhiếp phục man trá, pháp này không đưa đến thân ái... không đưa đến nhất
+8. Lại nữa, này các Tỷ-kheo, Tỷ-kheo man trá không tán thán nhiếp phục man trá. Này các Tỷ-kheo, Tỷ-kheo man trá, không tán thán nhiếp phục man trá, pháp này không đưa đến thân ái... không đưa đến nhất
 trí.
 
 <!--pg-->
@@ -321,7 +321,7 @@ kính, không có tôn trọng, không có đảnh lễ cúng đường vị ấ
 dành cho con ngựa thuần phục, điều phục ta với sự điều phục dành cho con ngựa thuần thục”. Nhưng
 loài Người không đặt nó trong vị trí của con ngựa thuần thục, không cho nó ăn trong vị trí của con ngựa
 thuần thục, không điều phục nó với sự điều phục dành cho con ngựa thuần thục. Vì sao? Vì những người
-có trí thấy rõ được những tánh hạ liệt, sự lừa đảo, giả dối, xảo trá, xảo quyệt. Cũng vậy, này các Tỷkheo, với Tỷ-kheo như vậy, nếu có ước muốn nào khởi lên: “Ôi mong rằng các vị đồng Phạm hạnh cung
+có trí thấy rõ được những tánh hạ liệt, sự lừa đảo, giả dối, xảo trá, xảo quyệt. Cũng vậy, này các Tỷ-kheo, với Tỷ-kheo như vậy, nếu có ước muốn nào khởi lên: “Ôi mong rằng các vị đồng Phạm hạnh cung
 kính, tôn trọng, đảnh lễ, cúng đường ta”, nhưng các vị đồng Phạm hạnh không có cung kính, không có
 tôn trọng, không có đảnh lễ, không có cúng dường vị ấy. Vì sao? Này các Tỷ-kheo, vì rằng các vị đồng
 Phạm hạnh có trí quán thấy các pháp ác bất thiện không được đoạn tận trong vị ấy.
@@ -345,7 +345,7 @@ dục, tán thán nhiếp nhục phục các dục. Pháp này đưa đến nh�
 Tỷ-kheo không phẫn nộ, tán thán nhiếp phục phẫn nộ. Pháp này đưa đến thân ái... đưa đến nhất trí.
 
 <!--pg-->
-18. Lại nữa, này các Tỷ-kheo, Tỷ-kheo không gièm pha, tán thán nhiếp phục gièm pha. Này các Tỷkheo, Tỷ-kheo không gièm pha, tán thán nhiếp phục gièm pha. Pháp này đưa đến thân ái... đưa đến nhất
+18. Lại nữa, này các Tỷ-kheo, Tỷ-kheo không gièm pha, tán thán nhiếp phục gièm pha. Này các Tỷ-kheo, Tỷ-kheo không gièm pha, tán thán nhiếp phục gièm pha. Pháp này đưa đến thân ái... đưa đến nhất
 trí.
 
 <!--pg-->
@@ -380,7 +380,7 @@ hạnh có trí quán thấy các pháp ác bất thiện đã được tận n�
 “Mong rằng loài Người sẽ đặt ta trong vị trí của con ngựa đã thuần thục, cho ta ăn với các đồ ấm dành
 cho con ngựa thuần thục, điều phục ta với điều phục dành cho ngựa thuần thục”. Nhưng loài Người vẫn
 đặt nó trong vị trí của con ngựa thuần thục, điều phục. Vì sao? Vì những người có trí thấy rõ được
-những tánh hạ liệt, gian dối, giả dối, xảo trá, xảo quyệt của nó đã được đoạn tận. Cũng vậy, này các Tỷkheo với Tỷ-kheo như vậy, nếu không có khơi lên ước muốn: “Ôi mong rằng các vị đồng Phạm hạnh
+những tánh hạ liệt, gian dối, giả dối, xảo trá, xảo quyệt của nó đã được đoạn tận. Cũng vậy, này các Tỷ-kheo với Tỷ-kheo như vậy, nếu không có khơi lên ước muốn: “Ôi mong rằng các vị đồng Phạm hạnh
 cung kính, tôn trọng, đảnh lễ, cúng dường ta”, nhưng các vị đồng Phạm hạnh vẫn cung kính, tôn trọng,
 đảnh lễ, cúng dường vị ấy. Vì sao? Vì rằng, này các Tỷ-kheo, các vị đồng Phạm hạnh có trí thấy rằng
 các pháp ác bất thiện ấy đã được tận nơi vị ấy.
@@ -481,7 +481,7 @@ _Chịu khổ đau tại đấy._
 4. Rồi Tỷ-kheo Kokàlika, do chứng bệnh ấy mệnh chung. Sau khi chết, Tỷ-kheo Kokàlika sanh vào địa
 ngục sen hồng vì tâm khởi ác ý đối với Sàriputta và Moggallàna. Rồi Phạm thiên Sahampati, sau khi
 đêm gần mãn, với dung sắc thù thắng chói sáng toàn vùng Jetavana, đi đến Thế Tôn; sau khi đến, đảnh
-lễ Thế Tôn rồi đứng một bên, đứng một bên, Phạm thiên Sahampati bạch Thế Tôn: “Bạch Thế Tôn, Tỷkheo Kokàlika đã mệnh chung. Bạch Thế Tôn, Tỷ-kheo Kokàlika mệnh chung, phải sanh vào địa ngục
+lễ Thế Tôn rồi đứng một bên, đứng một bên, Phạm thiên Sahampati bạch Thế Tôn: “Bạch Thế Tôn, Tỷ-kheo Kokàlika đã mệnh chung. Bạch Thế Tôn, Tỷ-kheo Kokàlika mệnh chung, phải sanh vào địa ngục
 sen hồng, vì tâm khởi ác ý đối với Sàriputta và Moggallàna”. Phạm thiên Sahampati nói như vậy. Nói
 như vậy xong, đảnh lễ Thế Tôn, thân phía hữu hướng về Thế Tôn rồi biến mất tại chỗ.
 
@@ -489,7 +489,7 @@ như vậy xong, đảnh lễ Thế Tôn, thân phía hữu hướng về Thế 
 5. Rồi Thế Tôn, sau khi đêm đã qua, bảo các Tỷ-kheo:
 
 − Này các Tỷ-kheo, đêm nay Phạm thiên Sahampati khi đêm đã gần mãn, với dung sắc thù thắng chói
-sáng toàn vùng Jetavana, đi đến Ta; sau khi đến, đảnh lễ Ta rồi đứng một bên, đứng một bên, này các tỷkheo, Phạm thiên Sahampati thưa với Ta: “Bạch Thế Tôn, Tỷ-kheo Kokàlika đã mệnh chung “, “Bạch
+sáng toàn vùng Jetavana, đi đến Ta; sau khi đến, đảnh lễ Ta rồi đứng một bên, đứng một bên, này các Tỷ-kheo, Phạm thiên Sahampati thưa với Ta: “Bạch Thế Tôn, Tỷ-kheo Kokàlika đã mệnh chung “, “Bạch
 Thế Tôn Tỷ-kheo Kokàika đã mệnh chung, phải sanh vào địa ngục sen hồng, vì tâm khởi ác ý đối với
 Sàripuuta và Moggallàna”. Này các Tỷ-kheo, Phạm thiên Sahampati nói như vậy. Nói như vậy xong,
 đảnh lễ Ta, thân phía hữu hướng về Ta rồi biến mất tại chỗ.

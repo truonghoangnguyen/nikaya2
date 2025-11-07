@@ -3,7 +3,7 @@
 **(I) (71) Ước Nguyện**
 
 <!--pg-->
-1. Một thời, Thế Tôn trú ở Sàvatthi, tại Jetavana, khu vườn Anàthapindika. Ở đây, Thế Tôn gọi các Tỷkheo:
+1. Một thời, Thế Tôn trú ở Sàvatthi, tại Jetavana, khu vườn Anàthapindika. Ở đây, Thế Tôn gọi các Tỷ-kheo:
 
 − Này các Tỷ-kheo.
 
@@ -18,7 +18,7 @@ nhận và học tập các học pháp.
 
 Này các Tỷ-kheo, nếu Tỷ-kheo có ước nguyện: “Mong rằng ta được các đồng Phạm hạnh thương mến,
 yêu quý, cung kính và bắt chước”. Tỷ-kheo ấy phải thành tựu viên mãn giới luật, kiên trì, nội tâm tịch
-tĩnh, không gián đoạn Thiền định, thành tựu quán hạnh, thích sống tại các xứ không tịnh. Này các Tỷkheo, nếu Tỷ-kheo có ước nguyện: “Mong rằng ta được các vật dụng như y phục, các món ăn khất thực,
+tĩnh, không gián đoạn Thiền định, thành tựu quán hạnh, thích sống tại các xứ không tịnh. Này các Tỷ-kheo, nếu Tỷ-kheo có ước nguyện: “Mong rằng ta được các vật dụng như y phục, các món ăn khất thực,
 sàng tọa và các dược phẩm trị bệnh”, Tỷ-kheo ấy phải thành tựu viên mãn giới luật, kiên trì, nội tâm tịch
 tĩnh, không gián đoạn Thiền định, thành tựu quán hạnh, thích sống tại các trú xứ không tịnh. Này các
 Tỷ-kheo, nếu Tỷ-kheo có ước nguyện: “Mong rằng ta hưởng thọ các vật dụng như y áo, các món ăn khất
@@ -32,7 +32,7 @@ sàng tọa, dược phẩm trị bệnh”, Tỷ-kheo ấy phải sống đầy
 nếu Tỷ-kheo có ước nguyện: “Mong rằng ta kham nhẫn với lạnh, nóng, đói khát, sự xúc chạm của ruồi,
 muỗi, gió, sức nóng mặt trời, của loài bò sát, kham nhẫn những cách nói mạ ly phỉ báng, kham nhẫn các
 cảm thọ về thân, những cảm thọ thống khổ, khốc liệt, đau nhói, nhức nhối, không sung sướng, không
-thích thú, chết điếng người”, thời Tỷ-kheo ấy phải sống đầy đủ giới... trú xứ không tịnh. Này các Tỷkheo, nếu Tỷ-kheo có ước nguyện: “Mong rằng ta nhiếp phục lạc và bất lạc, chớ không để lạc, bất lạc
+thích thú, chết điếng người”, thời Tỷ-kheo ấy phải sống đầy đủ giới... trú xứ không tịnh. Này các Tỷ-kheo, nếu Tỷ-kheo có ước nguyện: “Mong rằng ta nhiếp phục lạc và bất lạc, chớ không để lạc, bất lạc
 nhiếp phục ta. Mong rằng ta sống luôn luôn nhiếp phục lạc, bất lạc được khởi lên”, Tỷ-kheo ấy phải
 thành tựu viên mãn giới luật... (như trên).... trú xứ không tịnh. Này các Tỷ-kheo, nếu Tỷ-kheo có ước
 nguyện: “Mong rằng ta nhiếp phục khiếp đảm và sợ hãi, chớ không phải khiếp đảm và sợ hãi nhiếp phục

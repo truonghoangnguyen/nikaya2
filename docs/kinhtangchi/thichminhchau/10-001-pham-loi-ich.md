@@ -104,7 +104,7 @@ khinh an có đầy đủ, an lạc có sở y. Với an lạc có mặt, với 
 chánh định có mặt, với chánh định có đầy đủ, như thật tri kiến có sở y. Với như thật tri kiến có mặt, với
 như thật tri kiến có đầy đủ, nhàm chán, ly tham có sở y. Với nhàm chán, ly tham có mặt, với nhàm chán,
 ly tham có đầy đủ, giải thoát tri kiến có sở y. Ví như này các Tỷ-kheo, một cây có đầy đủ cành và lá, các
-mầm non của cây ấy đi đến viên mãn, vỏ trong, giác cây, lõi cây đi đến viên mãn. Cũng vậy, này các Tỷkheo, với giới có mặt, với giới có đầy đủ, không hối tiếc có sở y. Với không hối tiếc có mặt, với không
+mầm non của cây ấy đi đến viên mãn, vỏ trong, giác cây, lõi cây đi đến viên mãn. Cũng vậy, này các Tỷ-kheo, với giới có mặt, với giới có đầy đủ, không hối tiếc có sở y. Với không hối tiếc có mặt, với không
 hối tiếc có đầy đủ... giải thoát tri kiến có sở y.
 
 <!--pg-->
@@ -223,7 +223,7 @@ chi phần này không viên mãn. Vị ấy cần phải làm cho viên mãn ch
 có lòng tin, có giới, có nghe nhiều, có thuyết pháp, thường tham gia với hội chúng, vô úy thuyết pháp
 cho hội chúng, trì luật, là người ở rừng, ở các trú xứ xa vắng, đối với các tịch tịnh giải thoát, vượt khỏi
 các sắc, thuộc về vô sắc, ta có cảm giác với thân và an trú; do đoạn diệt các lậu hoặc, ngay trong hiện
-tại, tự mình với thắng trí, ta chứng đạt và an trú vô lậu tâm giải thoát, tuệ giải thoát? “Và này các Tỷkheo, khi nào Tỷ-kheo có lòng tin, có giới, có nghe nhiều, có thuyết pháp thường tham gia với hội
+tại, tự mình với thắng trí, ta chứng đạt và an trú vô lậu tâm giải thoát, tuệ giải thoát? “Và này các Tỷ-kheo, khi nào Tỷ-kheo có lòng tin, có giới, có nghe nhiều, có thuyết pháp thường tham gia với hội
 chúng, vô úy thuyết pháp cho hội chúng, là vị trí luật, là vị ở rừng, ở các trú xứ xa vắng, đối với các tịch
 tịnh giải thoát, vượt khỏi các sắc, thuộc về vô sắc, vị ấy có cảm giác với thân và an trú; do đoạn diệt các
 lậu hoặc, ngay trong hiện tại tự mình với thắng trí, chứng đạt và an trú vô lậu tâm giải thoát, tuệ giải

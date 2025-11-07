@@ -2,7 +2,7 @@
 
 **(I) (21) Ugga Ở Vesali**
 
-1. Một thời, Thế Tôn trú ở Vesàli, tại Ðại Lâm, ở ngôi nhà có nóc nhọn. Tại đấy, Thế Tôn bảo các Tỷkheo:
+1. Một thời, Thế Tôn trú ở Vesàli, tại Ðại Lâm, ở ngôi nhà có nóc nhọn. Tại đấy, Thế Tôn bảo các Tỷ-kheo:
 
 − “Này các Tỷ-kheo! “. - “Bạch Thế Tôn “.
 
@@ -551,7 +551,7 @@ người không biết đủ “, đã được nói đến như vậy. Do duyê
 20, Này các Tỷ-kheo, Pháp này để cho người sống viễn ly, Pháp này không phải để cho người ưa thích
 hội chúng”, như vậy đã được nói đến. Do duyên gì được nói như vậy?
 
-21. Ở đây, này các Tỷ-kheo, Với Tỷ-kheo sống viễn ly, có nhiều người đến thăm như Tỷ-kheo, Tỷkheo-Ni, nam cư sĩ, nữ cư sĩ, vua chúa, đại thần, các ngoại đạo sư, đệ tử của các ngoại đạo sư. Ở đây,
+21. Ở đây, này các Tỷ-kheo, Với Tỷ-kheo sống viễn ly, có nhiều người đến thăm như Tỷ-kheo, Tỷ-kheo-Ni, nam cư sĩ, nữ cư sĩ, vua chúa, đại thần, các ngoại đạo sư, đệ tử của các ngoại đạo sư. Ở đây,
 Tỷ-kheo với tâm thuận về viễn ly, hướng về viễn ly, nhập vào viễn ly, trú vào viễn ly, thích thú xuất ly,
 nói lời hoàn toàn liên hệ đến lánh xa. Này các Tỷ-kheo, Pháp này để cho người viễn ly, Pháp này không
 phải để cho người không ưa hội chúng”, đã được nói đến như vậy. Do duyên này được nói như vậy.
@@ -574,7 +574,7 @@ người thất niệm”, đã được nói đến như vậy. Do duyên này 
 26. Này các Tỷ-kheo, Pháp này để cho người thiền định, Pháp này không phải để cho người không thiền
 định”, như vậy đã được nói đến. Do duyên gì được nói như vậy?
 
-27. Ở đây, này các Tỷ-kheo, Tỷ-kheo ly dục, ly ác pháp ... chứng đạt và an trú Thiền thứ tư. Này các Tỷkheo, Pháp này để cho người thiền định, Pháp này không phải để cho người không thiền định”, đã được
+27. Ở đây, này các Tỷ-kheo, Tỷ-kheo ly dục, ly ác pháp ... chứng đạt và an trú Thiền thứ tư. Này các Tỷ-kheo, Pháp này để cho người thiền định, Pháp này không phải để cho người không thiền định”, đã được
 nói đến như vậy. Do duyên này được nói như vậy.
 
 28. Này các Tỷ-kheo, Pháp này để cho người có trí tuệ, Pháp này không phải để cho người không trí

@@ -26,7 +26,7 @@ con chó đực không mua, không bán con chó cái cọng trú trong tình t�
 
 5. Thuở xưa, này các Tỷ-kheo, các Bà-la-môn không cất chứa tài sản, ngũ cốc, bạc và vàng. Ngày nay,
 này các Tỷ-kheo, các Bà-la-môn cất chứa tài sản, ngũ cốc, bạc và vàng. Ngày nay, này các Tỷ-kheo, các
-loài chó không cất chứa tài sản, ngũ cốc, bạc và vàng. Ðây là cựu Bà-la-môn pháp thứ tư, này các Tỷkheo, nay chỉ được thấy giữa các loài chó, không được thấy giữa các Bà-la-môn.
+loài chó không cất chứa tài sản, ngũ cốc, bạc và vàng. Ðây là cựu Bà-la-môn pháp thứ tư, này các Tỷ-kheo, nay chỉ được thấy giữa các loài chó, không được thấy giữa các Bà-la-môn.
 
 6. Thuở xưa, này các Tỷ-kheo, các Bà-la-môn vào buổi chiều tìm đồ ăn buổi chiều, vào buổi sáng tìm đồ
 ăn buổi sáng. Ngày nay, này các Tỷ-kheo, các Bà-la-môn ăn cho đến no nê thỏa bụng, rồi lấy các đồ ăn

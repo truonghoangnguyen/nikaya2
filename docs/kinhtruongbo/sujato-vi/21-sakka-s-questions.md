@@ -1,4 +1,4 @@
-# 21. Những Câu Hỏi Của Đế Thích
+# DN 21. Những Câu Hỏi Của Đế Thích
 
 _**(Sakkapañhasutta)**_
 

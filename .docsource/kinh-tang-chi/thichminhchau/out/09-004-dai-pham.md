@@ -21,7 +21,7 @@ Này các Tỷ-kheo, đây là chín thứ đệ trú.
 **(II) (33) Chín Thứ Ðệ Trú (2)**
 
 <!--pg-->
-1. - Này các Tỷ-kheo, Ta sẽ thuyết về chín Thiền chứng thứ đệ trú này. Hãy lắng nghe... Này các Tỷkheo, thế nào là chín thứ đệ trú Thiền chứng?
+1. - Này các Tỷ-kheo, Ta sẽ thuyết về chín Thiền chứng thứ đệ trú này. Hãy lắng nghe... Này các Tỷ-kheo, thế nào là chín thứ đệ trú Thiền chứng?
 
 <!--pg-->
 2. Chỗ nào các dục đoạn diệt, và những ai sau khi đoạn diệt các dục, sống an trú, Ta nói rằng: “Chắc
@@ -166,14 +166,14 @@ như vậy đối với Tỷ-kheo ấy là một chứng bệnh. Này chư Hiề
 Với pháp môn này, này chư Hiền, cần phải hiểu Niết-bàn là lạc.
 
 <!--pg-->
-6. Lại nữa, này chư Hiền, Tỷ-kheo ly hỷ.... chứng và trú Thiền thứ ba. Này chư Hiền, nếu trong khi Tỷkheo ấy trú với an trú này, các tưởng tác ý câu hữu với hỷ vẫn hiện hành; như vậy, đối với Tỷ-kheo ấy là
+6. Lại nữa, này chư Hiền, Tỷ-kheo ly hỷ.... chứng và trú Thiền thứ ba. Này chư Hiền, nếu trong khi Tỷ-kheo ấy trú với an trú này, các tưởng tác ý câu hữu với hỷ vẫn hiện hành; như vậy, đối với Tỷ-kheo ấy là
 một chứng bệnh. Ví như, này chư Hiền, với một người sung sướng, khổ đau có thể khởi lên như một
 chứng bệnh. Cũng vậy, với Tỷ-kheo ấy, các tưởng tác ý câu hữu với hỷ vẫn hiện hành; như vậy đối với
 Tỷ-kheo ấy là một chứng bệnh. Này chư Hiền, chứng bệnh được Thế Tôn gọi là khổ. Với pháp môn này,
 này chư Hiền, cần phải hiểu Niết-bàn là lạc.
 
 <!--pg-->
-7. Lại nữa, này chư Hiền, Tỷ-kheo đoạn lạc... đạt được Thiền thứ tứ. Này chư Hiền, nếu trong khi Tỷkheo ấy trú với an trú này, các tưởng tác ý câu hữu với xả vẫn hiện hành; như vậy, đối với Tỷ-kheo ấy là
+7. Lại nữa, này chư Hiền, Tỷ-kheo đoạn lạc... đạt được Thiền thứ tứ. Này chư Hiền, nếu trong khi Tỷ-kheo ấy trú với an trú này, các tưởng tác ý câu hữu với xả vẫn hiện hành; như vậy, đối với Tỷ-kheo ấy là
 một chứng bệnh. Ví như, này chư Hiền, với một người sung sướng, khổ đau có thể khởi lên như một
 chứng bệnh. Cũng vậy, với Tỷ-kheo ấy, các tưởng tác ý câu hữu với xả vẫn hiện hành; như vậy đối với
 Tỷ-kheo ấy là một chứng bệnh. Này chư Hiền, chứng bệnh được Thế Tôn gọi là khổ. Với pháp môn này,
@@ -397,7 +397,7 @@ chứng nhập và khởi xuất, các xứ ấy cần phải được chơn ch�
 <!--pg-->
 1. Như vầy tôi nghe:
 
-Một thời, Tôn giả Ananda trú ở Kosambi, tại khu vườn Ghosita. Tại đấy, Tôn giả Ananda bảo các Tỷkheo:
+Một thời, Tôn giả Ananda trú ở Kosambi, tại khu vườn Ghosita. Tại đấy, Tôn giả Ananda bảo các Tỷ-kheo:
 
 − Này chư Hiền Tỷ-kheo.
 

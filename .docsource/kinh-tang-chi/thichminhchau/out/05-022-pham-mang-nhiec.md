@@ -35,7 +35,7 @@ nguy hại này.
 1. - Này các Tỷ-kheo, có năm sự nguy hại này cho kẻ ác giới, phá giới. Thế nào là năm?
 
 <!--pg-->
-2. Ở đây, này các Tỷ-kheo, kẻ ác giới, phá giới, do nhân phóng dật, bị tổn thất tài sản lớn. Này các Tỷkheo, đây là sự nguy hại thứ nhất cho kẻ ác giới, phá giới.
+2. Ở đây, này các Tỷ-kheo, kẻ ác giới, phá giới, do nhân phóng dật, bị tổn thất tài sản lớn. Này các Tỷ-kheo, đây là sự nguy hại thứ nhất cho kẻ ác giới, phá giới.
 
 <!--pg-->
 3. Lại nữa, này các Tỷ-kheo, đối với kẻ ác giới, phá giới, tiếng ác đồn xa. Này các Tỷ-kheo, đây là sự

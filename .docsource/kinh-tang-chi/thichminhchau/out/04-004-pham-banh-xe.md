@@ -307,7 +307,7 @@ chế ngự với sự chế ngự của giới bổn Pàtimokkha, đầy đủ 
 nhỏ nhặt, chấp nhận và học tập trong các học pháp.
 
 <!--pg-->
-3. Và này các Tỷ-kheo, thế nào là Tỷ-kheo hộ trì các căn? Ở đây, này các Tỷ-kheo, khi mắt thấy sắc, Tỷkheo không nắm giữ tướng chung, không nắm giữ tướng riêng. Những nguyên nhân gì, làm cho nhãn
+3. Và này các Tỷ-kheo, thế nào là Tỷ-kheo hộ trì các căn? Ở đây, này các Tỷ-kheo, khi mắt thấy sắc, Tỷ-kheo không nắm giữ tướng chung, không nắm giữ tướng riêng. Những nguyên nhân gì, làm cho nhãn
 căn không được chế ngự, khiến tham ái ưu bi, các ác bất thiện pháp khởi lên, Tỷ-kheo tự chế ngự
 nguyên nhân ấy, hộ trì nhãn căn, thật hành sự hộ trì nhãn căn. Khi tai nghe tiếng... khi mũi ngửi hương...
 khi lưỡi nếm vị... khi thân cảm xúc... khi ý nhận thức các pháp, vị ấy không nắm giữ tướng chung,

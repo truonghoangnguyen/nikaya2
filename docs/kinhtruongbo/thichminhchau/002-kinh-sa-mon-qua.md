@@ -594,7 +594,7 @@ thì tránh xa các tà mạng kể trên. Như vậy là giới hạnh của v�
 
 63\. Và như vậy, Ðại vương, vị Tỷ-kheo ấy, nhờ đầy đủ giới luật nên không thấy sợ hãi từ một chỗ nào
 về phương diện hộ trì giới luật. Ðại vương, như một vị Sát đế lỵ đã làm lễ quán đảnh, đã hàng phục kẻ
-thù địch, không còn thấy sợ hãi từ chỗ nào nữa về phương diện thù địch. Cũng vậy, này Ðại vương, Tỷkheo ấy nhờ đầy đủ giới luật, nên không thấy sợ hãi từ một chỗ nào về phương diện hộ trì giới luật. Vị
+thù địch, không còn thấy sợ hãi từ chỗ nào nữa về phương diện thù địch. Cũng vậy, này Ðại vương, Tỷ-kheo ấy nhờ đầy đủ giới luật, nên không thấy sợ hãi từ một chỗ nào về phương diện hộ trì giới luật. Vị
 ấy nhờ đầy đủ giới luật cao quý này, nên hưởng lạc thọ, nội tâm không vẩn đục. Như vậy, này Ðại
 vương, Tỷ-kheo đầy đủ giới luật.
 
@@ -619,7 +619,7 @@ Tỷ-kheo chánh niệm tỉnh giác.
 66\. Ðại vương, thế nào là Tỷ-kheo biết đủ? Ở đây Tỷ-kheo bằng lòng với tấm y để che thân, với đồ ăn
 khất thực để nuôi bụng, đi tại chỗ nào cũng mang theo (y và bình bát). Ðại vương, cũng như con chim
 bay đến chỗ nào cũng mang theo hai cánh; cũng vậy, Ðại vương, vị Tỷ-kheo bằng lòng với tấm y để che
-thân, với đồ ăn khất thực để nuôi bụng, đi tại chỗ nào cũng mang theo. Như vậy, này Ðại vương, là Tỷkheo biết đủ.
+thân, với đồ ăn khất thực để nuôi bụng, đi tại chỗ nào cũng mang theo. Như vậy, này Ðại vương, là Tỷ-kheo biết đủ.
 
 <!--pg-->
 67\. Vị ấy, với giới uẩn cao quý này, với sự hộ trì các căn cao quý này, với chánh niệm tỉnh giác cao quý
@@ -741,7 +741,7 @@ màu xanh, màu vàng, màu đỏ, màu trắng hay màu vàng nhạt. Một ng�
 tay sẽ thấy: Hòn lưu ly bảo châu này, đẹp đẽ, trong suốt, có tám mặt, khéo dũa, khéo mài, sáng chói,
 không uế trược, đầy đủ tất cả mỹ tướng. Và sợi giây này được xâu qua hòn ngọc ấy, sợi giây màu xanh,
 màu vàng, màu đỏ, màu trắng hay màu vàng nhạt. Cũng vậy, này Ðại vương, với tâm định tĩnh, thuần
-tịnh, không cấu nhiễm, không phiền não, nhu nhuyến, dễ sử dụng, vững chắc, bình thản như vậy. Tỷkheo dẫn tâm, hướng tâm đến chánh trí, chánh kiến. Vị ấy biết: Thân này của ta là sắc pháp, do bốn đại
+tịnh, không cấu nhiễm, không phiền não, nhu nhuyến, dễ sử dụng, vững chắc, bình thản như vậy. Tỷ-kheo dẫn tâm, hướng tâm đến chánh trí, chánh kiến. Vị ấy biết: Thân này của ta là sắc pháp, do bốn đại
 thành, do cha mẹ sanh, nhờ cơm cháo nuôi dưỡng, vô thường, biến hoại, phấn toái, đoạn tuyệt, hoại diệt.
 Trong thân ấy thức ta lại nương tựa và bị trói buộc.
 

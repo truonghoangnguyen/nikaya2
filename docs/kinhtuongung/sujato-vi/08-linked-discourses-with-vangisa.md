@@ -282,7 +282,7 @@ Rồi Tôn giả Vaṅgīsa tán thán Đức Phật trước sự hiện diện
 > "Hơn một ngàn Tỷ kheo\
 > tôn kính Đấng Thiện Thệ\
 > khi ngài giảng dạy Chánh pháp vô nhiễm,\
-> sựดับ tắt, không sợ hãi từ bất cứ đâu.
+> sự kết thúc, không sợ hãi từ bất cứ đâu.
 >
 > Họ lắng nghe Chánh pháp vô nhiễm\
 > được giảng dạy bởi Đức Phật Toàn Giác;\

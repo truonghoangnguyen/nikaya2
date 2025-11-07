@@ -834,14 +834,14 @@ thành tựu hay không thành tựu những pháp này".
 Tôn, một bên là chúng Tỷ-kheo. Bên nào là Thế Tôn, bên ấy con theo. Vì bạch Thế Tôn, đó là tịnh tín
 của con. Mong Thế Tôn chấp nhận.
 
-11\. Ở đây, bạch Thế Tôn, nếu có vấn đề pháp sự khởi lên, và một bên là Thế Tôn, một bên là chúng Tỷkheo và chúng Tỷ-kheo-ni. Bên nào là Thế Tôn, bên ấy con theo. Vì bạch Thế Tôn... Mong Thế Tôn
+11\. Ở đây, bạch Thế Tôn, nếu có vấn đề pháp sự khởi lên, và một bên là Thế Tôn, một bên là chúng Tỷ-kheo và chúng Tỷ-kheo-ni. Bên nào là Thế Tôn, bên ấy con theo. Vì bạch Thế Tôn... Mong Thế Tôn
 chấp nhận.
 
-12\. Ở đây, bạch Thế Tôn, nếu có vấn đề pháp sự khởi lên, và một bên là Thế Tôn, một bên là chúng Tỷkheo, chúng Tỷ-kheo-ni và nam cư sĩ. Bên nào là Thế Tôn... Mong Thế Tôn chấp nhận.
+12\. Ở đây, bạch Thế Tôn, nếu có vấn đề pháp sự khởi lên, và một bên là Thế Tôn, một bên là chúng Tỷ-kheo, chúng Tỷ-kheo-ni và nam cư sĩ. Bên nào là Thế Tôn... Mong Thế Tôn chấp nhận.
 
-13\. Ở đây, bạch Thế Tôn, nếu có vấn đề pháp sự khởi lên, và một bên là Thế Tôn, một bên là chúng Tỷkheo, chúng Tỷ-kheo-ni, và nữ cư sĩ. Bên nào là Thế Tôn... Mong Thế Tôn chấp nhận.
+13\. Ở đây, bạch Thế Tôn, nếu có vấn đề pháp sự khởi lên, và một bên là Thế Tôn, một bên là chúng Tỷ-kheo, chúng Tỷ-kheo-ni, và nữ cư sĩ. Bên nào là Thế Tôn... Mong Thế Tôn chấp nhận.
 
-14\. Ở đây, bạch Thế Tôn, nếu có vấn đề pháp sự khởi lên, và một bên là Thế Tôn, một bên là chúng Tỷkheo, chúng Tỷ-kheo-ni, nam cư sĩ, nữ cư sĩ, chúng Thiên giới, chúng Ma giới, chúng Phạm thiên giới,
+14\. Ở đây, bạch Thế Tôn, nếu có vấn đề pháp sự khởi lên, và một bên là Thế Tôn, một bên là chúng Tỷ-kheo, chúng Tỷ-kheo-ni, nam cư sĩ, nữ cư sĩ, chúng Thiên giới, chúng Ma giới, chúng Phạm thiên giới,
 quần chúng Sa-môn và Bà-la-môn, chư Thiên và loài Người. Bên nào là Thế Tôn, bên ấy con theo. Vì
 bạch Thế Tôn, đó là tịnh tín của con. Mong Thế Tôn chấp nhận.
 
@@ -1665,11 +1665,11 @@ là các Tỷ-kheo, sau khi đoạn diệt các lậu hoặc, ngay trong hiện 
 chứng đạt và an trú vô lậu tâm giải thoát, tuệ giải thoát. Và nhiều hơn là các Tỷ-kheo, sau khi đoạn diệt
 năm hạ phần kiết sử, được hóa sanh, từ đấy nhập Niết-bàn, không còn trở lại đời này nữa".
 
-7\. Lại nữa, này chư Hiền, tôi tự thân nghe, tự thân lãnh thọ từ Thế Tôn như sau: "Thật là ít, này các Tỷkheo, là những Tỷ-kheo, sau khi đoạn diệt năm hạ phần kiết sử, được hóa sanh, từ đấy nhập Niết-bàn,
+7\. Lại nữa, này chư Hiền, tôi tự thân nghe, tự thân lãnh thọ từ Thế Tôn như sau: "Thật là ít, này các Tỷ-kheo, là những Tỷ-kheo, sau khi đoạn diệt năm hạ phần kiết sử, được hóa sanh, từ đấy nhập Niết-bàn,
 không còn trở lại đời này nữa. Và nhiều hơn là những Tỷ-kheo, sau khi đoạn diệt ba kiết sử, làm cho
 muội lược tham, sân, si là bậc Nhất lai, chỉ một lần trở lui đời này nữa để chấm dứt khổ đau".
 
-8\. Lại nữa, này chư Hiền, tôi tự thân nghe, tự thân lãnh thọ từ Thế Tôn như sau: "Thật là ít, này các Tỷkheo, là những Tỷ-kheo, sau khi đoạn diệt ba kiết sử, làm cho muội lược tham, sân, si, thành bậc Nhất
+8\. Lại nữa, này chư Hiền, tôi tự thân nghe, tự thân lãnh thọ từ Thế Tôn như sau: "Thật là ít, này các Tỷ-kheo, là những Tỷ-kheo, sau khi đoạn diệt ba kiết sử, làm cho muội lược tham, sân, si, thành bậc Nhất
 lai, chỉ một lần trở lui đời này nữa để chấm dứt khổ đau. Và nhiều hơn là những Tỷ-kheo, sau khi đoạn
 diệt ba kiết sử, thành bậc Dự lưu, không còn phải thối đọa, quyết chắc chứng quả giác ngộ".
 

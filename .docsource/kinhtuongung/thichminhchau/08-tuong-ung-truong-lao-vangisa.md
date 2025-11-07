@@ -292,7 +292,7 @@ _Này các vị Tỷ-kheo._
 1\. Một thời Thế Tôn ở Sàvatthi, Pubbàràma (Ðông Viên), Migara - màtu pàsàda (Lộc Mẫu giảng
 đường), cùng với đại chúng Tỷ-kheo khoảng năm trăm vị, tất cả đều chứng quả A-la-hán.
 
-2\. Lúc bấy giờ, Thế Tôn, nhân ngày trăng tròn Bố-tát Tự tứ, Ngài ngồi giữa trời, xung quanh chúng Tỷkheo đoanh vây.
+2\. Lúc bấy giờ, Thế Tôn, nhân ngày trăng tròn Bố-tát Tự tứ, Ngài ngồi giữa trời, xung quanh chúng Tỷ-kheo đoanh vây.
 
 3\. Rồi Thế Tôn, sau khi nhìn quanh chúng Tỷ-kheo im lặng, liền bảo các Tỷ-kheo:
 
@@ -531,7 +531,7 @@ _Mọi đức tánh vẹn toàn._
 trăm nam cư sĩ, với bảy trăm nữ cư sĩ và vài ngàn chư Thiên. Giữa đại chúng ấy, Thế Tôn chói sáng
 vượt bậc về quang sắc và danh xưng.
 
-2\. Rồi Tôn giả Vangìsa suy nghĩ: "Nay Thế Tôn trú ở Campà, trên bờ hồ Gaggarà với đại chúng Tỷkheo khoảng năm trăm vị, với bảy trăm nam cư sĩ, với bảy trăm nữ cư sĩ và vài ngàn chư Thiên. Giữa
+2\. Rồi Tôn giả Vangìsa suy nghĩ: "Nay Thế Tôn trú ở Campà, trên bờ hồ Gaggarà với đại chúng Tỷ-kheo khoảng năm trăm vị, với bảy trăm nam cư sĩ, với bảy trăm nữ cư sĩ và vài ngàn chư Thiên. Giữa
 đại chúng ấy, Thế Tôn chói sáng vượt bậc về quang sắc và danh xưng. Vậy trước mặt Thế Tôn, ta hãy
 nói lên những bài kệ tán thán thích ứng".
 

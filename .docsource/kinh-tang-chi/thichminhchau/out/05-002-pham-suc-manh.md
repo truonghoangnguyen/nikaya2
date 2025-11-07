@@ -9,7 +9,7 @@ vị trí Ngưu vương, rống tiếng rống con sư tử giữa các hội ch
 Thế nào là năm?
 
 <!--pg-->
-2. Tín lực, tàm lực, quý lực, tinh tấn lực, tuệ lực. Có năm Như Lai lực này của Như Lai, này các Tỷkheo. Thành tựu các sức mạnh ấy, Như Lai tự xem đã được vị trí Ngưu vương, rống tiếng rống con sư tử
+2. Tín lực, tàm lực, quý lực, tinh tấn lực, tuệ lực. Có năm Như Lai lực này của Như Lai, này các Tỷ-kheo. Thành tựu các sức mạnh ấy, Như Lai tự xem đã được vị trí Ngưu vương, rống tiếng rống con sư tử
 giữa các hội chúng, làm vận chuyển bánh xe Phạm thiên.
 
 **(II) (12) Nóc Nhọn**
@@ -56,7 +56,7 @@ Và này các Tỷ-kheo, thế nào là tấn lực?
 
 <!--pg-->
 4. Ở đây, này các Tỷ-kheo, vị Thánh đệ tử sống tinh cần tinh tấn, từ bỏ các pháp bất thiện, thành tựu các
-thiện pháp, nỗ lực kiên trì tinh tấn, không từ bỏ gánh nặng đối với thiện pháp. Như vậy, này các Tỷkheo, được gọi là tấn lực.
+thiện pháp, nỗ lực kiên trì tinh tấn, không từ bỏ gánh nặng đối với thiện pháp. Như vậy, này các Tỷ-kheo, được gọi là tấn lực.
 
 Và này các Tỷ-kheo, thế nào là niệm lực?
 

@@ -309,7 +309,7 @@ _Lậu hoặc được tịch tịnh._
 
 − Này các Tỷ-kheo, có năm bố thí đúng thời này. Thế nào là năm?
 Bố thí cho người đến, bố thí cho người đi, bố thí cho người đau bệnh, bố thí trong thời đói, phàm có
-những hoa quả gì mới gặt hái được, dành chúng đầu tiên để cúng dường các bậc giữ giới. Này các Tỷkheo, năm pháp này là năm bố thí đúng thời.
+những hoa quả gì mới gặt hái được, dành chúng đầu tiên để cúng dường các bậc giữ giới. Này các Tỷ-kheo, năm pháp này là năm bố thí đúng thời.
 
 _Có trí, thí đúng thời,_\
 _Lời từ ái, không tham,_\

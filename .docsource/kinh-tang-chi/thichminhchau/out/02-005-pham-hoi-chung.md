@@ -16,10 +16,10 @@ tức là hội chúng thâm sâu.
 
 <!--pg-->
 2. Có hai loại hội chúng này, này các Tỷ-kheo. Thế nào là hai? Hội chúng bất hòa và hội chúng hòa hợp.
-Và này các Tỷ-kheo, thế nào là hội chúng bất hòa? Ở đây, này các Tỷ-kheo, tại hội chúng nào, các Tỷkheo sống cạnh tranh, luận tranh, đấu tranh, đả thương nhau bằng binh khí miệng lưỡi, này các Tỷ-kheo,
+Và này các Tỷ-kheo, thế nào là hội chúng bất hòa? Ở đây, này các Tỷ-kheo, tại hội chúng nào, các Tỷ-kheo sống cạnh tranh, luận tranh, đấu tranh, đả thương nhau bằng binh khí miệng lưỡi, này các Tỷ-kheo,
 đây gọi là hội chúng bất hòa.
 
-Và này các Tỷ-kheo, thế nào là hội chúng hòa hợp? Ở đây, này các Tỷ-kheo, tại hội chúng nào, các Tỷkheo hòa hợp, hòa kính, không có đấu tranh, hòa hợp như sữa với nước, sống nhìn nhau với cặp mắt từ
+Và này các Tỷ-kheo, thế nào là hội chúng hòa hợp? Ở đây, này các Tỷ-kheo, tại hội chúng nào, các Tỷ-kheo hòa hợp, hòa kính, không có đấu tranh, hòa hợp như sữa với nước, sống nhìn nhau với cặp mắt từ
 ái, này các Tỷ-kheo, đây gọi là hội chúng hòa hợp.
 
 Này các Tỷ-kheo, có hai hội chúng này. Hội chúng tối thượng giữa hai hội chúng này, này các Tỷ-kheo,
@@ -32,7 +32,7 @@ chúng nào, các trưởng lão Tỷ-kheo sống trong sự đầy đủ, lư�
 nặng sống viễn ly, không có gia sức tinh tấn để đạt đến những gì chưa đạt, để chứng được những gì chưa
 chứng, để ngộ được những gì chưa ngộ. Còn lớp hậu nhân, tùy thuộc hậu kiến của họ, sống trong sự đầy
 đủ, biếng nhác, dẫn đầu về đọa lạc, bỏ rơi gánh nặng sống viễn ly, không có gia sức tinh tấn để đạt được
-những gì chưa đạt, để chứng được những gì chưa chứng, để ngộ được những gì chưa ngộ.. Này các Tỷkheo, đây gọi là hội chúng không thù thắng.
+những gì chưa đạt, để chứng được những gì chưa chứng, để ngộ được những gì chưa ngộ.. Này các Tỷ-kheo, đây gọi là hội chúng không thù thắng.
 
 Và này các Tỷ-kheo, thế nào là hội chúng thù thắng? Ở đây, này các Tỷ-kheo, tại hội chúng nào, các
 trưởng lão Tỷ-kheo không sống trong sự đầy đủ, không lười biếng, từ bỏ não hại nặng đọa lạc, dẫn đầu
@@ -61,13 +61,13 @@ tức là hội chúng bậc Thánh.
 
 <!--pg-->
 5. Này các Tỷ-kheo, có hai loại hội chúng này. Thế nào là hai? Hội chúng cặn bã và hội chúng tinh ba.
-Và này các Tỷ-kheo, thế nào là hội chúng cặn bã? Ở đây, này các Tỷ-kheo, tại hội chúng nào, các Tỷkheo đi đến con đường dục, đi đến con đường sân, đi đến con đường si, đi đến con đường sợ hãi, này
+Và này các Tỷ-kheo, thế nào là hội chúng cặn bã? Ở đây, này các Tỷ-kheo, tại hội chúng nào, các Tỷ-kheo đi đến con đường dục, đi đến con đường sân, đi đến con đường si, đi đến con đường sợ hãi, này
 các Tỷ-kheo, đây gọi là hội chúng cặn bã.
 
-Và này các Tỷ-kheo, thế nào là hội chúng tinh ba? Ở đây, này các Tỷ-kheo, tại hội chúng nào, các Tỷkheo không đi đến con đường dục, không đi đến con đường sân, không đi đến con đường si, không đi
+Và này các Tỷ-kheo, thế nào là hội chúng tinh ba? Ở đây, này các Tỷ-kheo, tại hội chúng nào, các Tỷ-kheo không đi đến con đường dục, không đi đến con đường sân, không đi đến con đường si, không đi
 đến con đường sợ hãi, này các Tỷ-kheo, đây gọi là hội chúng tinh ba.
 
-Này các Tỷ-kheo, đây là hai hội chúng này. Hội chúng tối thắng trong hai hội chúng này, này các Tỷkheo, tức là hội chúng tinh ba.
+Này các Tỷ-kheo, đây là hai hội chúng này. Hội chúng tối thắng trong hai hội chúng này, này các Tỷ-kheo, tức là hội chúng tinh ba.
 
 <!--pg-->
 6. Này các Tỷ-kheo, có hai hội chúng này. Thế nào là hai? Hội chúng được huấn luyện trong khoa
@@ -118,10 +118,10 @@ Và này các Tỷ-kheo, thế nào là hội chúng tôn trọng diệu pháp, 
 Tỷ-kheo, tại hội chúng nào, các Tỷ-kheo trước mặt các gia chủ bận áo trắng, không tự tán thán lẫn nhau
 như sau: “Tỷ-kheo này là bậc giải thoát cả hai phần, Tỷ-kheo này là bậc tuệ giải thoát, Tỷ-kheo này là
 bậc Thân chứng, Tỷ-kheo này là bậc Kiến chí, Tỷ-kheo này là bậc Tín giải thoát, Tỷ-kheo này là bậc
-Tùy pháp hành, Tỷ-kheo này là bậc Tùy tín hành, Tỷ-kheo này là bậc có giới hạnh, theo thiện pháp, Tỷkheo này là kẻ Ác giới, theo Ác pháp”. Do vậy, họ được các lợi dưỡng, họ thọ hưởng các lợi dưỡng ấy,
+Tùy pháp hành, Tỷ-kheo này là bậc Tùy tín hành, Tỷ-kheo này là bậc có giới hạnh, theo thiện pháp, Tỷ-kheo này là kẻ Ác giới, theo Ác pháp”. Do vậy, họ được các lợi dưỡng, họ thọ hưởng các lợi dưỡng ấy,
 không bị trói buộc, không bị mê say, không đắm trước, thấy các sự nguy hại, hiểu rõ sự giải thoát khỏi
 các lợi dưỡng ấy. Này các Tỷ-kheo, đây gọi là hội chúng tôn trọng diệu pháp, không tôn trọng tài vật.
-Này các Tỷ-kheo, có hai loại hội chúng này. Hội chúng tối thắng trong hai hội chúng này, này các Tỷkheo, tức là hội chúng tôn trọng diệu pháp, không tôn trọng tài vật.
+Này các Tỷ-kheo, có hai loại hội chúng này. Hội chúng tối thắng trong hai hội chúng này, này các Tỷ-kheo, tức là hội chúng tôn trọng diệu pháp, không tôn trọng tài vật.
 
 <!--pg-->
 8. Này các Tỷ-kheo, có hai loại hội chúng này. Thế nào là hai? Hội chúng không đồng đẳng và hội
@@ -140,7 +140,7 @@ hội chúng này tứ là hội chúng đồng đẳng.
 
 <!--pg-->
 9. Này các Tỷ-kheo, có hai loại hội chúng này. Thế nào là hai? Hội chúng phi pháp và hội chúng đúng
-pháp. Này các Tỷ-kheo, có hai hội chúng này. Hội chúng tối thắng trong hai hội chúng này, này các Tỷkheo, tức là hội chúng đúng pháp.
+pháp. Này các Tỷ-kheo, có hai hội chúng này. Hội chúng tối thắng trong hai hội chúng này, này các Tỷ-kheo, tức là hội chúng đúng pháp.
 
 <!--pg-->
 10. Này các Tỷ-kheo, có hai loại hội chúng này. Thế nào là hai? Hội chúng thuyết phi pháp và hội chúng

@@ -1,4 +1,4 @@
-# 25. Tiếng Rống Sư Tử tại Tu Viện của Bà Udumbarikā
+# DN 25. Tiếng Rống Sư Tử tại Tu Viện của Bà Udumbarikā
 _**Kinh Udumbarika**_
 
 ## 1. Câu Chuyện về Du Sĩ Nigrodha

@@ -52,7 +52,7 @@ Này các Tỷ-kheo, có bốn loại sợ hãi này.
 
 <!--pg-->
 1. - Có bốn sự sợ hãi này, này các Tỷ-kheo, được chờ đợi với người đi xuống nước. Thế nào là bốn? Sợ
-hãi về sóng, sợ hãi về cá sấu, sợ hãi về nước xoáy, sợ hãi về cá dữ. Có bốn sự sợ hãi này, này các Tỷkheo, được chờ đợi với người đi xuống nước.
+hãi về sóng, sợ hãi về cá sấu, sợ hãi về nước xoáy, sợ hãi về cá dữ. Có bốn sự sợ hãi này, này các Tỷ-kheo, được chờ đợi với người đi xuống nước.
 
 <!--pg-->
 2. Cũng vậy, này các Tỷ-kheo, ở đây, đối với một số thiện nam tử đã xuất gia, từ bỏ gia đình, sống
@@ -214,7 +214,7 @@ có thối đọa; khi thân hoại mạng chung, được sanh cộng trú vớ
 kiếp, này các Tỷ kheo, là tuổi thọ vô lượng của chư Thiên ỏ cõi Phạm chúng Thiên. Tại đấy, kẻ phàm
 phu, sau khi an trú cho đến hết tuổi thọ ấy, sau khi sống trọn vẹn tuổi thọ của chư Thiên ấy, đi đến địa
 ngục, đi đến bàng sanh, đi đến ngạ quỷ. Còn đệ tử Như Lai, tại đấy, sau khi an trú cho đến hết vẹn tuổi
-thọ ấy, sau khi sống trọn vẹn tuổi thọ của chư Thiên ấy, nhập Niết-bàn trong hiện hữu ấy . Này các Tỷkheo, đây là sự đặc thù, đây là sự thù thắng, đây là sự sai khác giữa Thánh đệ tử có nghe pháp và kẻ
+thọ ấy, sau khi sống trọn vẹn tuổi thọ của chư Thiên ấy, nhập Niết-bàn trong hiện hữu ấy . Này các Tỷ-kheo, đây là sự đặc thù, đây là sự thù thắng, đây là sự sai khác giữa Thánh đệ tử có nghe pháp và kẻ
 phàm phu không nghe pháp, tức là vấn đề sanh thú.
 
 <!--pg-->
@@ -296,12 +296,12 @@ Như Lai, bậc A-la-hán, Chánh Ðẳng Giác xuất hiện, đây là sự vi
 
 <!--pg-->
 2. Này các Tỷ-kheo, quần chúng ưa thích kiêu mạn, thích thú kiêu mạn, hoan hỷ kiêu mạn, khi pháp
-không kiêu mạn được Như Lai thuyết giảng, họ khéo nghe, lắng tai, chánh trí an trú tâm. Này các Tỷkheo, khi Như Lai, bậc A-la-hán, Chánh Ðẳng Giác xuất hiện, đây là sự vi diệu chưa từng có thứ hai
+không kiêu mạn được Như Lai thuyết giảng, họ khéo nghe, lắng tai, chánh trí an trú tâm. Này các Tỷ-kheo, khi Như Lai, bậc A-la-hán, Chánh Ðẳng Giác xuất hiện, đây là sự vi diệu chưa từng có thứ hai
 xuất hiện.
 
 <!--pg-->
 3. Này các Tỷ-kheo, quần chúng ưa thích không an tịnh, thích thú không an tịnh, hoan hỷ không an tịnh,
-khi pháp an tịnh được Như Lai thuyết giảng, họ khéo nghe, lắng tai, chánh trí an trú tâm. Này các Tỷkheo, khi Như Lai, bậc A-la-hán, Chánh Ðẳng Giác xuất hiện, đây là sự vi diệu chưa từng có thứ ba xuất
+khi pháp an tịnh được Như Lai thuyết giảng, họ khéo nghe, lắng tai, chánh trí an trú tâm. Này các Tỷ-kheo, khi Như Lai, bậc A-la-hán, Chánh Ðẳng Giác xuất hiện, đây là sự vi diệu chưa từng có thứ ba xuất
 hiện.
 
 <!--pg-->

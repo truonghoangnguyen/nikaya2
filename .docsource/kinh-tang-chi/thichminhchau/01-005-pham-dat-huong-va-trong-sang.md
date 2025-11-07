@@ -36,7 +36,7 @@ Vì cớ sao? Vì rằng tâm bị khuấy đục, này các Tỷ-kheo.
 
 6. Ví như, này các Tỷ-kheo, một hồ nước trong sáng, sáng suốt, không bị khuấy đục. Tại đấy có người
 có mắt, đứng trên bờ, có thể thấy các con ốc, các con sò, các hòn sạn, các hòn sỏi, các đàn cá qua lại,
-đứng yên. Vì cớ sao? Vì nước không bị khuấy đục, này các Tỷ-kheo. Cũng vậy, này các Tỷ-kheo, vị Tỷkheo với tâm không bị khuấy đục biết được lợi ích của mình, hay biết được lợi ích của người, hay biết
+đứng yên. Vì cớ sao? Vì nước không bị khuấy đục, này các Tỷ-kheo. Cũng vậy, này các Tỷ-kheo, vị Tỷ-kheo với tâm không bị khuấy đục biết được lợi ích của mình, hay biết được lợi ích của người, hay biết
 được lợi ích cả hai, hay sẽ chứng ngộ các pháp thượng nhân, tri kiến thù thắng xứng đáng các bậc
 Thánh; sự kiện như vậy có xảy ra. Ví sao? Vì rằng tâm không bị khuấy đục, này các Tỷ-kheo.
 

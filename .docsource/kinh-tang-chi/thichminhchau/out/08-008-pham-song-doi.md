@@ -51,7 +51,7 @@ trong hiện tại, tự mình chứng ngộ với thắng trí, chứng đạt 
 như vậy, vị ấy không đầy đủ chi phần này. Do vậy, cần phải làm cho đầy đủ chi phần ấy: “Làm thế nào
 để ta có được lòng tin, có giới, có nghe nhiều, là vị thuyết pháp sống với hội chúng, vô úy thuyết pháp
 cho hội chúng, với các tịch tịnh giải thoát vượt qua các sắc thuộc vô sắc ấy, sống với thân thấm nhuần,
-do đoạn diệt các lậu hoặc,... chứng ngộ, chứng đạt và an trú?” Cho đến khi nào, này các Tỷ-kheo, Tỷkheo có lòng tin, có giới, nghe nhiều, thuyết pháp, sống với hội chúng, vô úy thuyết pháp cho hội chúng,
+do đoạn diệt các lậu hoặc,... chứng ngộ, chứng đạt và an trú?” Cho đến khi nào, này các Tỷ-kheo, Tỷ-kheo có lòng tin, có giới, nghe nhiều, thuyết pháp, sống với hội chúng, vô úy thuyết pháp cho hội chúng,
 đối với các tịch tịnh giải thoát vượt qua các sắc thuộc vô sắc ấy, sống với thân thấm nhuần, do đoạn diệt
 các lậu hoặc, ... chứng ngộ, chứng đạt và an trú; như vậy, vị ấy được đầy đủ chi phần ấy.
 
@@ -61,7 +61,7 @@ mọi phương diện.
 **(III) (73) Niệm Chết (1)**
 
 <!--pg-->
-1. Một thời, Thế Tôn trú ở Nàtika, tại Ginjakàvasatha. Tại đấy, Thế Tôn gọi các Tỷ-kheo: “Này các Tỷkheo”. “Thưa vâng, bạch Thế Tôn”.
+1. Một thời, Thế Tôn trú ở Nàtika, tại Ginjakàvasatha. Tại đấy, Thế Tôn gọi các Tỷ-kheo: “Này các Tỷ-kheo”. “Thưa vâng, bạch Thế Tôn”.
 
 Các Tỷ-kheo ấy vâng đáp Thế Tôn. Thế Tôn nói như sau:
 
@@ -160,7 +160,7 @@ lời dạy của Thế Tôn. Ta đã làm nhiều như vậy”.
 
 − Này các Tỷ-kheo, Tỷ-kheo này tu tập niệm chết như sau: “Mong rằng ta sống trọn ngày tác ý đến lời
 dạy của Thế Tôn, ta đã làm nhiều như vậy. Này các Tỷ-kheo, Tỷ-kheo này tu tập niệm chết như sau:
-“Mong rằng ta sống trọn nửa ngày tác ý đến lời dạy của Thế Tôn, ta đã làm nhiều như vậy”. Này các Tỷkheo, Tỷ-kheo này tu tập niệm chết như sau: “Mong rằng ta sống trọn nửa ngày tác ý đến lời dạy của
+“Mong rằng ta sống trọn nửa ngày tác ý đến lời dạy của Thế Tôn, ta đã làm nhiều như vậy”. Này các Tỷ-kheo, Tỷ-kheo này tu tập niệm chết như sau: “Mong rằng ta sống trọn nửa ngày tác ý đến lời dạy của
 Thế Tôn, ta đã làm nhiều như vậy”. Này các Tỷ-kheo, Tỷ-kheo này tu tập niệm chết như sau: “Mong
 rằng cho đến khi nào ta còn ăn phần đồ ăn khất thực, cho đến khi ấy, ta tác ý đến lời dạy của Thế Tôn.
 Ta đã làm nhiều như vậy”. Này các Tỷ-kheo, Tỷ-kheo này tu tập niệm chết như sau: “Mong rằng cho
@@ -215,7 +215,7 @@ thể làm ta mệnh chung. Như vậy sẽ là chướng ngại cho ta.”
 Này các Tỷ-kheo, Tỷ-kheo ấy cần phải suy xét như sau: “Nếu ta còn những pháp ác, bất thiện chưa được
 đoạn tận, nếu ta lỡ mệnh chung trong ngày, chúng có thể là chướng ngại cho ta”. Này các Tỷ-kheo, nếu
 Tỷ-kheo trong khi suy xét như vậy biết được như sau: “Ta có những pháp ác, bất thiện chưa được đoạn
-tận, nếu ta lỡ mệnh chung ngày hôm nay, chúng có thể là chướng ngại cho ta”. Này các Tỷ-kheo, Tỷkheo ấy, để đoạn tận các pháp ác, bất thiện ấy, cần phải tận lực tác động ước muốn, tinh cần, tinh tấn, nỗ
+tận, nếu ta lỡ mệnh chung ngày hôm nay, chúng có thể là chướng ngại cho ta”. Này các Tỷ-kheo, Tỷ-kheo ấy, để đoạn tận các pháp ác, bất thiện ấy, cần phải tận lực tác động ước muốn, tinh cần, tinh tấn, nỗ
 lực không có thối chuyển, chánh niệm và tỉnh giác. Cũng vậy, này các Tỷ-kheo, Tỷ-kheo ấy để đoạn tận
 các ác, bất thiện pháp ấy, cần phải tận lực tác động ước muốn, tinh tấn, tinh cần, nỗ lực, không có thối
 chuyển, chánh niệm và tỉnh giác. Nếu vị Tỷ-kheo ấy, trong khi suy xét biết được như sau: “Ta không có
@@ -292,7 +292,7 @@ thế nào là sống thăng bằng điều hòa?
 một cách thăng bằng điều hòa, không quá phung phí, không quá bỏn xẻn. Người ấy suy nghĩ: “Ðây là
 tiền nhập của ta, sau khi trừ đi tiền xuất, còn lại như sau: không phải là tiền xuất của ta, sau khi trừ tiền
 nhập, còn lại như vậy”. Ví như, này các Tỷ-kheo, người cầm cân hay đệ tử người cầm cân, sau khi cầm
-cân, biết rằng: “Với chừng ấy, cân nặng xuống; hay với chừng ấy, cân bổng lên”. Cũng vậy, này các Tỷkheo, thiện nam tử sau khi biết tài sản nhập, sau khi biết tài sản xuất, sinh sống một cách điều hỏa,
+cân, biết rằng: “Với chừng ấy, cân nặng xuống; hay với chừng ấy, cân bổng lên”. Cũng vậy, này các Tỷ-kheo, thiện nam tử sau khi biết tài sản nhập, sau khi biết tài sản xuất, sinh sống một cách điều hỏa,
 không quá phung phí, không quá bỏn xẻn, người ấy nghĩ rằng: “Ðây là tiền nhập của ta, sau khi trừ đi
 tiền xuất còn lại như vậy; không phải là tiền xuất của ta, sau khi trừ đi tiền nhập, còn lại như vậy. Này
 các Tỷ-kheo, nếu thiện nam tử này, tiền nhập vào ít, nhưng sống nếp sống rộng rãi (hoang phí), thời
@@ -378,7 +378,7 @@ tinh tấn để được lợi dưỡng; không được lợi dưỡng, nên s
 6. Ở đây, này các Tỷ-kheo, có Tỷ-kheo trong khi sống nhàn tịnh, không có tinh tấn, khởi lên ước muốn
 có lợi dưỡng. Vị ấy không hăng hái, không phấn chấn, không tinh tấn để được lợi dưỡng. Dầu vị ấy
 không hăng hái, không phấn chấn, không tinh tấn để được lợi dưỡng, lợi dưỡng khởi lên. Với lợi dưỡng
-ấy, vị ấy đắm say phóng dật, rơi vào trạng thái đắm say, phóng dật. Này các Tỷ-kheo, đây gọi là Tỷkheo sống ham muốn lợi dưỡng, không hăng hái, không phấn chấn, không tinh tấn để được lợi dưỡng;
+ấy, vị ấy đắm say phóng dật, rơi vào trạng thái đắm say, phóng dật. Này các Tỷ-kheo, đây gọi là Tỷ-kheo sống ham muốn lợi dưỡng, không hăng hái, không phấn chấn, không tinh tấn để được lợi dưỡng;
 được lợi dưỡng, bị đắm say, bị phóng dật và bỏ rơi diệu pháp.
 
 <!--pg-->
@@ -409,7 +409,7 @@ không than van, không bỏ rơi diệu pháp.
 10. Ở đây, này các Tỷ-kheo, có Tỷ-kheo trong khi sống nhàn tịnh, không có tinh tấn, khởi lên ước muốn
 có lợi dưỡng. Vị ấy không hăng hái, không phấn chấn, không tinh tấn để được lợi dưỡng. Dầu cho vị ấy
 không hăng hái, không phấn chấn, không tinh tấn để được lợi dưỡng, lợi dưỡng khởi lên. Vị ấy, với lợi
-dưỡng ấy, không đắm say, không phóng dật, không rơi vào trạng thái đám say phóng dật. Này các Tỷkheo, đây gọi là Tỷ-kheo sống ham muốn lợi dưỡng, không hăng hái, không phấn chấn, không tinh tấn
+dưỡng ấy, không đắm say, không phóng dật, không rơi vào trạng thái đám say phóng dật. Này các Tỷ-kheo, đây gọi là Tỷ-kheo sống ham muốn lợi dưỡng, không hăng hái, không phấn chấn, không tinh tấn
 để được lợi dưỡng; được lợi dưỡng, không đăm say, không phóng dật, không bỏ rơi diệu pháp.
 
 Này các Tỷ-kheo, có tám hạng người này sống có mặt, hiện hữu ở đời.

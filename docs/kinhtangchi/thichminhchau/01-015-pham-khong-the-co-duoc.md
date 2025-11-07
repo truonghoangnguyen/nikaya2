@@ -3,7 +3,7 @@
 ### 1-28. Chấp Nhận Các Hành Là Thường Còn
 
 1\. Sự kiện này không xảy ra, này các Tỷ-kheo, không có được: Một người thành tựu chánh kiến có thể
-chấp nhận các hành là thường còn, sự kiện này không xảy ra. Và sự kiện này có xảy ra, này các Tỷkheo, kẻ phàm phu có thể chấp nhận các hành là thường còn, sự kiện này có xảy ra.
+chấp nhận các hành là thường còn, sự kiện này không xảy ra. Và sự kiện này có xảy ra, này các Tỷ-kheo, kẻ phàm phu có thể chấp nhận các hành là thường còn, sự kiện này có xảy ra.
 
 <!--pg-->
 2\. Sự kiện này không xảy ra, này các Tỷ-kheo, không có được: Một người thành tựu chánh kiến có thể
@@ -45,7 +45,7 @@ là vị Chuyển Luân Vương, sự kiện này có xảy ra.
 
 <!--pg-->
 14-16 Sự kiện này không xảy ra, này các Tỷ-kheo, không có được: Một phụ nữ có thể là vị Ðế Thích
-(Sakka)... là Ác Ma... là Phạm Thiên, sự kiện này không xảy ra. Và sự kiện này có xảy ra, này các Tỷkheo, một người đàn ông có thể là Vị Ðế Thích... là Ác Ma... là Phạm Thiên, sự kiện này có xảy ra.
+(Sakka)... là Ác Ma... là Phạm Thiên, sự kiện này không xảy ra. Và sự kiện này có xảy ra, này các Tỷ-kheo, một người đàn ông có thể là Vị Ðế Thích... là Ác Ma... là Phạm Thiên, sự kiện này có xảy ra.
 
 <!--pg-->
 17\. Sự kiện này không xảy ra, này các Tỷ-kheo, không có được: là quả dị thục của thân làm ác có thể là

@@ -233,7 +233,7 @@ tham, tìm cầu hỷ lạc chỗ này chỗ kia. Tức là dục ái, hữu ái
 Tám ngành, tức là chánh tri kiến... chánh định.
 
 9\. Ðây là Thánh đế về Khổ, này các Tỷ-kheo, đối với các pháp từ trước Ta chưa từng được nghe, nhãn
-sanh, trí sanh, tuệ sanh, minh sanh, quang sanh. Ðây là Thánh đế về Khổ cần phải liễu tri, này các Tỷkheo, đối với các pháp, từ trước Ta chưa từng nghe, nhãn sanh, trí sanh, tuệ sanh, minh sanh, quang
+sanh, trí sanh, tuệ sanh, minh sanh, quang sanh. Ðây là Thánh đế về Khổ cần phải liễu tri, này các Tỷ-kheo, đối với các pháp, từ trước Ta chưa từng nghe, nhãn sanh, trí sanh, tuệ sanh, minh sanh, quang
 sanh. Ðây là Thánh đế về Khổ đã được liễu tri, này các Tỷ-kheo, đối với các pháp từ trước Ta chưa từng
 được nghe, nhãn sanh, trí sanh, tuệ sanh, minh sanh, quang sanh.
 
@@ -373,7 +373,7 @@ thứ tư do Thế Tôn thuyết giảng.
 Như vậy, bạch Thế Tôn, con thọ trì bốn Thánh đế do Như Lai thuyết giảng.
 
 5\. − Lành thay, lành thay, này Tỷ-kheo! Lành thay, này Tỷ-kheo! Ông thọ trì bốn Thánh đế do Ta
-thuyết giảng. Này Tỷ-kheo, Khổ là Thánh đế thứ nhất do Ta thuyết giảng, hãy như vậy thọ trì... Này Tỷkheo, Con Ðường đưa đến Khổ diệt là Thánh đế thứ tư do Ta thuyết giảng, hãy như vậy thọ trì.
+thuyết giảng. Này Tỷ-kheo, Khổ là Thánh đế thứ nhất do Ta thuyết giảng, hãy như vậy thọ trì... Này Tỷ-kheo, Con Ðường đưa đến Khổ diệt là Thánh đế thứ tư do Ta thuyết giảng, hãy như vậy thọ trì.
 
 6\. Này Tỷ-kheo, hãy thọ trì như vậy bốn Thánh đế do Ta thuyết giảng. Do vậy, này Tỷ-kheo, một cố
 gắng cần phải làm để rõ biết: "Ðây là Khổ"... một cố gắng cần phải làm để rõ biết: "Ðây là Con Ðường
@@ -402,7 +402,7 @@ này không xẩy ra.
 8\. Bạch Thế Tôn, như vậy con thọ trì bốn Thánh đế do Thế Tôn thuyết giảng.
 
 9\. − Lành thay, lành thay, này Tỷ-kheo! Lành thay, này Tỷ-kheo! Ông thọ trì bốn Thánh đế do Ta
-thuyết giảng. Khổ, này Tỷ-kheo, là Thánh đế thứ nhất, do Ta thuyết giảng, hãy như vậy thọ trì. Này Tỷkheo, có Sa-môn hay Bà-la-môn nào nói như sau: "Khổ này do Sa-môn Gotama thuyết giảng không phải
+thuyết giảng. Khổ, này Tỷ-kheo, là Thánh đế thứ nhất, do Ta thuyết giảng, hãy như vậy thọ trì. Này Tỷ-kheo, có Sa-môn hay Bà-la-môn nào nói như sau: "Khổ này do Sa-môn Gotama thuyết giảng không phải
 là Thánh đế thứ nhất. Tôi bác bỏ Khổ này là Thánh đế thứ nhất. Tôi sẽ tuyên bố một Khổ khác là Thánh
 đế thứ nhất". Sự kiện như vậy không xảy ra... "Khổ diệt Thánh đế... Con đường đưa đến khổ diệt". Này
 Tỷ-kheo, là Thánh đế thứ tư do Ta thuyết giảng, hãy như vậy thọ trì. Này Tỷ-kheo, có Sa-môn hay Bàla-môn nào nói như sau: "Con Ðường đưa đến Khổ diệt này do Sa-môn Gotama thuyết giảng không phải
@@ -893,7 +893,7 @@ không như thật rõ biết: "Ðây là Con Ðường đưa đến Khổ diệ
 
 3\. Ví như, này các Tỷ-kheo, một hột bông hay một hột bông kappàsa bị gió nhẹ thổi lên, rơi xuống đất
 bằng, và gió phía Ðông thổi nó qua phía Tây; gió phía Tây thổi nó qua phía Ðông; gió phía Bắc thổi nó
-qua phía Nam; gió phía Nam thổi nó qua phía Bắc. Vì sao? Vì hột bông kappàsa rất nhẹ, này các Tỷkheo.
+qua phía Nam; gió phía Nam thổi nó qua phía Bắc. Vì sao? Vì hột bông kappàsa rất nhẹ, này các Tỷ-kheo.
 
 4\. Cũng vậy, này các Tỷ-kheo, những Sa-môn hay Bà-la-môn nào không như thật rõ biết: "Ðây là
 Khổ"... không như thật rõ biết: "Ðây là Con Ðường đưa đến khổ diệt". Họ ngước nhìn mặt một Sa-môn
@@ -978,7 +978,7 @@ nghĩ: 'Có lẽ ta phát cuồng! Có lẽ ta điên loạn! Nay ta thấy mộ
 "− Thật vậy, này Bạn, Bạn đã phát cuồng. Thật vậy, Bạn bị điên loạn, Bạn đã thấy một điều không thể
 có ở đời!"
 
-6\. Này các Tỷ-kheo, điều mà người ấy đã thấy là có thật, không phải không thật. Thuở xưa, này các Tỷkheo, chư Thiên và loài Asuura giàn trận để khai chiến. Và này các Tỷ-kheo, trong trận chiến ấy, chư
+6\. Này các Tỷ-kheo, điều mà người ấy đã thấy là có thật, không phải không thật. Thuở xưa, này các Tỷ-kheo, chư Thiên và loài Asuura giàn trận để khai chiến. Và này các Tỷ-kheo, trong trận chiến ấy, chư
 Thiên thắng trận, các Asuura bại trận. Các Asuura bại trận, này các Tỷ-kheo, hoảng hốt đi vào thành
 Asuura ngang qua củ sen vì quá sợ hãi chư Thiên.
 

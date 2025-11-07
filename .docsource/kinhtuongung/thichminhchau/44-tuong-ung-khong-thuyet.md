@@ -187,7 +187,7 @@ khi chết’". Bạch Thế Tôn, khi được nói vậy, con nói với các 
 Hiền, Như Lai là bậc Thượng nhân, là bậc Tối thắng nhân, là bậc đã đạt được địa vị tối thắng. Bậc Như
 Lai ấy được trình bày ngoài bốn trường hợp như sau: ‘Như Lai có tồn tại sau khi chết. Hay Như Lai
 không tồn tại sau khi chết. Hay Như Lai có tồn tại và không tồn tại sau khi chết. Hay Như Lai không tồn
-tại và không không tồn tại sau khi chết"". Khi được nói vậy, các du sĩ ngoại đạo ấy nói với con: "Tỷkheo này có lẽ là mới tu, xuất gia chưa bao lâu. Hay nếu là vị trưởng lão, thời vị này là ngu si, không có
+tại và không không tồn tại sau khi chết"". Khi được nói vậy, các du sĩ ngoại đạo ấy nói với con: "Tỷ-kheo này có lẽ là mới tu, xuất gia chưa bao lâu. Hay nếu là vị trưởng lão, thời vị này là ngu si, không có
 thông minh". Các du sĩ ngoại đạo ấy, sau khi chê trách con là người mới tu và ngu si, liền từ chỗ ngồi
 đứng dậy và ra đi.
 

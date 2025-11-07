@@ -384,7 +384,7 @@ hoan hỷ; hành động như vậy không đưa lại hạnh phúc cho nhiều 
 như sau: “Các người này nói: 'Chúng tôi chuyên tâm về Pháp, chúng tôi chuyên tâm về Pháp”. Họ tháo
 động, kiêu căng, dao động, lắm mồm, lắm miệng, lắm lời, thất niệm, không tỉnh giác, không định tĩnh,
 tâm tán loạn, các căn thả lỏng. Những người này chuyên tâm về Pháp cái gì? Những người này chuyên
-tâm về Pháp có lợi ích gì? Những người này chuyên tâm về Pháp như thế nào? '”. Ở đây, này các Tỷkheo tu Thiền không có hoan hỷ, và các Tỷ-kheo, chuyên tu về Pháp cũng không hoan hỷ; hành động
+tâm về Pháp có lợi ích gì? Những người này chuyên tâm về Pháp như thế nào? '”. Ở đây, này các Tỷ-kheo tu Thiền không có hoan hỷ, và các Tỷ-kheo, chuyên tu về Pháp cũng không hoan hỷ; hành động
 như vậy không đưa lại hạnh phúc cho nhiều người, an lạc cho nhiều người, không đưa lại lợi ích, hạnh
 phúc, an lạc cho chư Thiên và loài Người.
 
@@ -397,7 +397,7 @@ Người.
 
 <!--pg-->
 5. Nhưng ở đây, này chư Hiền, có những Tỷ-kheo tu Thiền chỉ tán thán các Tỷ-kheo tu Thiền, không tán
-thán các Tỷ-kheo chuyên tâm về Pháp. Và ở đây, các Tỷ-kheo tu Thiền không được hoan hỷ; các Tỷkheo chuyên tâm về Pháp không được hoan hỷ. Sở hành như vậy không đưa lại hạnh phúc cho nhiều
+thán các Tỷ-kheo chuyên tâm về Pháp. Và ở đây, các Tỷ-kheo tu Thiền không được hoan hỷ; các Tỷ-kheo chuyên tâm về Pháp không được hoan hỷ. Sở hành như vậy không đưa lại hạnh phúc cho nhiều
 nguời, an lạc cho nhiều người, không đưa lại lợi ích, hạnh phúc, an lạc cho chư Thiên và loài người.
 
 <!--pg-->
@@ -738,7 +738,7 @@ các khách Tỷ-kheo, quở trách, não hại, châm biếm, làm tức giận
 Tôn giả Dhammika mắng nhiếc, quở trách, não hại, châm biếm, làm cho tức giận với lời nói, liền bỏ đi,
 không có an trú và từ bỏ trú xứ. Rồi các cư sĩ tại chỗ sanh trưởng suy nghĩ như sau: “Chúng ta đã cung
 cấp cho chúng Tỷ-kheo các vật dụng cần thiết như y áo, đồ ăn khất thực, sàng tọa, dược phẩm trị bệnh,
-nhưng các khách Tỷ-kheo lại bỏ đi, không an trú, từ bỏ trú xứ. Do nhân gì, do duyên gì, các khách Tỷkheo lại bỏ đi, không có an trú, từ bỏ trú xứ? “. Rồi các cư sĩ tại chỗ sanh trưởng suy nghĩ: “Có Tôn giả
+nhưng các khách Tỷ-kheo lại bỏ đi, không an trú, từ bỏ trú xứ. Do nhân gì, do duyên gì, các khách Tỷ-kheo lại bỏ đi, không có an trú, từ bỏ trú xứ? “. Rồi các cư sĩ tại chỗ sanh trưởng suy nghĩ: “Có Tôn giả
 Dhammika này mắng nhiếc, quở trách, não hại, châm biếm, làm họ tức giận với những lời nói. Các
 khách Tỷ-kheo ấy bị Tôn giả Dhammika mắng nhiếc, quở trách, não hại, châm biếm, làm tức giận với
 những lời nói, nên bỏ đi, không có an trú, từ bỏ trú xứ. Vậy chúng ta hãy mời Tôn giả Dhammika rời bỏ

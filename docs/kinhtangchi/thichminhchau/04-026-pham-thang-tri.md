@@ -5,7 +5,7 @@
 − Này các Tỷ-kheo, có bốn pháp này. Thế nào là bốn?
 
 Này các Tỷ-kheo, có những pháp cần phải liễu tri với thắng trí; này các Tỷ-kheo, có những pháp cần
-phải đoạn tận với thắng trí; này các Tỷ-kheo, có những pháp cần phải tu tập với thằng trí; này các Tỷkheo, có những pháp cần phải chứng ngộ với thắng trí.
+phải đoạn tận với thắng trí; này các Tỷ-kheo, có những pháp cần phải tu tập với thằng trí; này các Tỷ-kheo, có những pháp cần phải chứng ngộ với thắng trí.
 
 Và này các Tỷ-kheo, thế nào là những pháp cần phải liễu tri với thắng trí?
 

@@ -4,7 +4,7 @@
 ### (I) (81) Ăn Trộm
 
 1\. - Thành tựu với bốn pháp, này các Tỷ-kheo, như vậy tương xứng bị rơi vào địa ngục. Thế nào là bốn?
-Sát sanh, lấy của không cho, tà hạnh trong các dục, nói láo. Thành tựu với bốn pháp này, này các Tỷkheo, như vậy tương xứng bị rơi vào địa ngục.
+Sát sanh, lấy của không cho, tà hạnh trong các dục, nói láo. Thành tựu với bốn pháp này, này các Tỷ-kheo, như vậy tương xứng bị rơi vào địa ngục.
 
 2\. Thành tựu với bốn pháp, này các Tỷ-kheo, như vậy tương xứng được sanh lên cõi Trời. Thế nào là
 bốn?
@@ -121,7 +121,7 @@ Sa-môn bất động, Sa-môn sen trắng, Sa-môn sen hồng, Sa-môn tinh luy
 
 Ở đây, này các Tỷ-kheo, Tỷ-kheo là hạng hữu học, đang đi trên con đường, sống cố gắng hướng đến vô
 thượng an ổn khỏi các ách nạn. Ví như, này các Tỷ-kheo, vị trưởng nam vua Sát-đế-lỵ, xứng đáng để
-được làm lễ quán đảnh, nhưng chưa làm lễ quán đảnh, và đạt đến địa vị bất động. Cũng vậy, này các Tỷkheo, vị Tỷ-kheo hữu học, đang đi trên con đường, sống cố gắng hướng đến vô thượng an ổn khỏi các
+được làm lễ quán đảnh, nhưng chưa làm lễ quán đảnh, và đạt đến địa vị bất động. Cũng vậy, này các Tỷ-kheo, vị Tỷ-kheo hữu học, đang đi trên con đường, sống cố gắng hướng đến vô thượng an ổn khỏi các
 ách nạn. Cũng vậy, này các Tỷ-kheo, là hạng Sa-môn bất động.
 
 
@@ -240,7 +240,7 @@ giải thoát. Như vậy, này các Tỷ-kheo, là hạng Sa-môn sen hồng.
 
 5\. Và này các Tỷ-kheo, như thế nào là hạng Sa-môn tinh luyện giữa các Sa-môn?
 
-Ở đây, này các Tỷ-kheo, Tỷ-kheo nhiều lần được yêu cầu nhận y, ít không được yêu cầu... Này các Tỷkheo, nếu nói một cách chơn chánh, nói về hạng Sa-môn tinh luyện giữa các Sa-môn, này các Tỷ-kheo,
+Ở đây, này các Tỷ-kheo, Tỷ-kheo nhiều lần được yêu cầu nhận y, ít không được yêu cầu... Này các Tỷ-kheo, nếu nói một cách chơn chánh, nói về hạng Sa-môn tinh luyện giữa các Sa-môn, này các Tỷ-kheo,
 nói một cách chơn chánh là nói về Ta, là hạng Sa-môn tinh luyện giữa các Sa-môn.
 
 Này các Tỷ-kheo, đây là bốn hạng người có mặt, hiện hữu ở đời.

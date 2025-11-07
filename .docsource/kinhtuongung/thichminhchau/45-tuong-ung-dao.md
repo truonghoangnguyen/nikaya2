@@ -150,7 +150,7 @@ thuận pháp, và những ai là vị đồng pháp, nói lời đúng pháp v�
 
 4\. − Này các Tỷ-kheo, các Ông được hỏi như vậy và trả lời như vậy là các Ông trả lời đúng với lời của
 Ta, các Ông không xuyên tạc Ta với điều không thật, các Ông trả lời đúng pháp và thuận pháp, và
-những ai là vị đồng pháp, nói lời đúng pháp và thuận pháp, không có cơ hội để chỉ trích. Này các Tỷkheo, do mục đích liễu tri đau khổ mà Phạm hạnh được sống dưới Ta. Này các Tỷ-kheo, nếu các du sĩ
+những ai là vị đồng pháp, nói lời đúng pháp và thuận pháp, không có cơ hội để chỉ trích. Này các Tỷ-kheo, do mục đích liễu tri đau khổ mà Phạm hạnh được sống dưới Ta. Này các Tỷ-kheo, nếu các du sĩ
 ngoại đạo hỏi các Ông: "Này Hiền giả, có con đường nào, có đạo lộ nào đưa đến liễu tri đau khổ này?"
 Ðược hỏi vậy, thời các Ông hãy trả lời cho các du sĩ ngoại đạo ấy như sau: "Này chư Hiền, có con
 đường, có đạo lộ đưa đến liễu tri đau khổ này".
@@ -583,7 +583,7 @@ nhân còn tệ hơn phi chân nhân.
 6\. Và này các Tỷ-kheo, thế nào là bậc chân nhân? Ở đây, này các Tỷ-kheo, có người theo chánh tri
 kiến... theo chánh định. Này các Tỷ-kheo, đây gọi là chân nhân.
 
-7\. Và này các Tỷ-kheo, thế nào là bậc chân nhân còn tốt đẹp hơn bậc chân nhân? Ở đây, này các Tỷkheo, có người theo chánh tri kiến... theo chánh định, theo chánh trí, theo chánh giải thoát. Này các Tỷkheo, đây gọi là bậc chân nhân còn tốt đẹp hơn các bậc chân nhân.
+7\. Và này các Tỷ-kheo, thế nào là bậc chân nhân còn tốt đẹp hơn bậc chân nhân? Ở đây, này các Tỷ-kheo, có người theo chánh tri kiến... theo chánh định, theo chánh trí, theo chánh giải thoát. Này các Tỷ-kheo, đây gọi là bậc chân nhân còn tốt đẹp hơn các bậc chân nhân.
 
 ### 27.VII. Cái Bình (S.v,20)
 
@@ -621,7 +621,7 @@ chánh định với sở y, với tư lường.
 
 Thế Tôn nói như sau:
 
-3\. − Này các Tỷ-kheo, có ba thọ này. Thế nào là ba? Lạc thọ, khổ thọ, phi khổ phi lạc thọ. Này các Tỷkheo, đây là ba thọ này.
+3\. − Này các Tỷ-kheo, có ba thọ này. Thế nào là ba? Lạc thọ, khổ thọ, phi khổ phi lạc thọ. Này các Tỷ-kheo, đây là ba thọ này.
 
 4\. Muốn liễu tri ba thọ này cần phải tu tập Thánh đạo Tám ngành, tức là chánh tri kiến... chánh định.
 Muốn liễu tri thọ này cần phải tu tập Thánh đạo Tám ngành.
@@ -842,7 +842,7 @@ các Ông cần phải trả lời cho các du sĩ ngoại đạo ấy như sau:
 
 4\. Và này các Tỷ-kheo, thế nào là con đường, thế nào là đạo lộ đưa đến tịch tịnh hoàn toàn không có
 chấp thủ? Chính Thánh đạo Tám ngành này, tức là chánh tri kiến... chánh định. Này các Tỷ-kheo, đây là
-con đường, đây là đạo lộ đưa đến hoàn toàn tịch tịnh, không có chấp thủ. Ðược hỏi vậy, này các Tỷkheo, các Ông cần phải trả lời cho các du sĩ ngoại đạo ấy như vậy.
+con đường, đây là đạo lộ đưa đến hoàn toàn tịch tịnh, không có chấp thủ. Ðược hỏi vậy, này các Tỷ-kheo, các Ông cần phải trả lời cho các du sĩ ngoại đạo ấy như vậy.
 
 **Mặt Trời Lược Thuyết (Suriyassa peyyàlam)**
 
@@ -863,7 +863,7 @@ Thánh đạo Tám ngành sẽ được sung mãn. Và này các Tỷ-kheo, th�
 tập Thánh đạo Tám ngành và làm cho sung mãn Thánh đạo Tám ngành?
 
 4\. Ở đây, này các Tỷ-kheo, Tỷ-kheo tu tập chánh tri kiến liên hệ đến viễn ly, liên hệ đến ly tham, liên hệ
-đến đoạn diệt, hướng đến từ bỏ... tu tập chánh định... hướng đến từ bỏ. Như vậy, này các Tỷ-kheo, Tỷkheo làm bạn hữu với thiện, tu tập Thánh đạo Tám ngành và làm cho sung mãn Thánh đạo Tám ngành.
+đến đoạn diệt, hướng đến từ bỏ... tu tập chánh định... hướng đến từ bỏ. Như vậy, này các Tỷ-kheo, Tỷ-kheo làm bạn hữu với thiện, tu tập Thánh đạo Tám ngành và làm cho sung mãn Thánh đạo Tám ngành.
 
 ### 50.II. Gíới Hạnh (2) (S.v,30)
 
@@ -1276,7 +1276,7 @@ Tất cả đều nhân duyên ở Sàvatthi.
 
 2\.− Ví như, này các Tỷ-kheo, phàm có những hành động gì muốn làm cần phải có sức lực, tất cả những
 hành động ấy đều y cứ vào đất, đều an trú vào đất. Cũng vậy, này các Tỷ-kheo, Tỷ-kheo y cứ trên giới,
-an trú trên giới, tu tập Thánh đạo Tám ngành, làm cho sung mãn Thánh đạo Tám ngành. Và này các Tỷkheo, thế nào là Tỷ-kheo y cứ trên giới, an trú trên giới, tu tập Thánh đạo Tám ngành và làm cho sung
+an trú trên giới, tu tập Thánh đạo Tám ngành, làm cho sung mãn Thánh đạo Tám ngành. Và này các Tỷ-kheo, thế nào là Tỷ-kheo y cứ trên giới, an trú trên giới, tu tập Thánh đạo Tám ngành và làm cho sung
 mãn Thánh đạo Tám ngành?
 
 3\. Ở đây, này các Tỷ-kheo, Tỷ-kheo tu tập chánh tri kiến liên hệ đến viễn ly, liên hệ đến ly tham, liên hệ
@@ -1294,7 +1294,7 @@ Thánh đạo Tám ngành và làm cho sung mãn Thánh đạo Tám ngành.
 trưởng, lớn mạnh, quảng đại, tất cả đều y cứ vào đất, đều an trú vào đất. Cũng vậy, này các Tỷ-kheo,
 
 Tỷ-kheo y cứ vào giới, an trú vào giới, tu tập Thánh đạo Tám ngành, làm cho sung mãn Thánh đạo Tám
-ngành, đạt được tăng trưởng, lớn mạnh và quảng đại trong các pháp. Và này các Tỷ-kheo, thế nào là Tỷkheo y cứ vào giới, an trú vào giới, tu tập Thánh đạo Tám ngành, làm cho sung mãn Thánh đạo Tám
+ngành, đạt được tăng trưởng, lớn mạnh và quảng đại trong các pháp. Và này các Tỷ-kheo, thế nào là Tỷ-kheo y cứ vào giới, an trú vào giới, tu tập Thánh đạo Tám ngành, làm cho sung mãn Thánh đạo Tám
 ngành, đạt được tăng trưởng, lớn mạnh, quảng đại trong các pháp?
 
 3\. Ở đây, này các Tỷ-kheo, Tỷ-kheo tu tập chánh tri kiến liên hệ đến viễn ly, liên hệ đến ly tham, liên hệ
@@ -1334,7 +1334,7 @@ lớn, sự quảng đại trong các pháp...
 − Bạch Thế Tôn, về phía nó thiên về, về phía nó hướng về, về phía nó xuôi về.
 
 3\. − Cũng vậy, này các Tỷ-kheo, Tỷ-kheo tu tập Thánh đạo Tám ngành, làm cho sung mãn Thánh đạo
-Tám ngành, thiên về Niết-bàn, hướng về Niết-bàn, xuôi về Niết-bàn. Và này các Tỷ-kheo, thế nào là Tỷkheo tu tập Thánh đạo Tám ngành, làm cho sung mãn Thánh đạo Tám ngành, thiên về Niết-bàn, hướng
+Tám ngành, thiên về Niết-bàn, hướng về Niết-bàn, xuôi về Niết-bàn. Và này các Tỷ-kheo, thế nào là Tỷ-kheo tu tập Thánh đạo Tám ngành, làm cho sung mãn Thánh đạo Tám ngành, thiên về Niết-bàn, hướng
 về Niết-bàn, xuôi về Niết-bàn?
 
 4\. Ở đây, này các Tỷ-kheo, Tỷ-kheo tu tập chánh tri kiến liên hệ đến viễn ly... tu tập chánh định liên hệ

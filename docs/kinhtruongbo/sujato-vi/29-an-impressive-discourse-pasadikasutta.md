@@ -1,4 +1,4 @@
-# 29. Kinh Thuyết Giảng Ấn Tượng
+# DN 29. Kinh Thuyết Giảng Ấn Tượng
 _**Pāsādikasutta**_
 
 Như vầy tôi nghe. Một thời Đức Phật đang ở tại xứ của những người Sakya trong một ngôi nhà sàn dài trong một khu vườn xoài của những người Sakya tên là Vedhaññā.[190](/kinhtruongbo/sujato-vi/notes/29#190){.note}

@@ -165,7 +165,7 @@ nhất đã được cắt đứt.
 
 10\. Lại nữa, này các Tỷ-kheo, Tỷ-kheo nào đối với tự thân không có tham ái... (như trên)... như vậy là
 tâm triền phược thứ hai đã được cắt đứt. Lại nữa, này các Tỷ-kheo, Tỷ-kheo nào đối với các sắc pháp
-không có tham ái... (như trên)... như vậy là tâm triền phược thứ ba đã được cắt đứt. Lại nữa, này các Tỷkheo, Tỷ-kheo nào không ăn cho đến thỏa thuê, cho đến bụng chức đầy, không thiên nặng về khoái lạc
+không có tham ái... (như trên)... như vậy là tâm triền phược thứ ba đã được cắt đứt. Lại nữa, này các Tỷ-kheo, Tỷ-kheo nào không ăn cho đến thỏa thuê, cho đến bụng chức đầy, không thiên nặng về khoái lạc
 sàng tọa, khoái lạc ngủ nghĩ, khoái lạc thụy miên... (như trên)... như vậy là tâm triền phược thứ tư đã
 được cắt đứt. Lại nữa, này các Tỷ-kheo, Tỷ-kheo nào sống Phạm hạnh, không mong cầu được sanh
 Thiên giới với ý nghĩa: “Ta với giới này, với hạnh này, với khổ hạnh này, hay với Phạm hạnh này, sẽ
@@ -307,7 +307,7 @@ chờ đợi là sự lớn mạnh trong các thiện pháp, không phải là s
 “Thật sự Tỷ-kheo này là vị nghe nhiều, thọ trì những gì đã nghe, chất chứa những gì đã nghe. Những
 pháp ấy, sơ thiện, trung thiện, hậu thiện, có nghĩa, có văn, đề cao đời sống Phạm hạnh hoàn toàn viên
 mãn thanh tịnh. Những pháp ấy, vị ấy đã nghe nhiều, đã thọ trì, đã tụng đọc bằng lời, đã quán sát bằng ý,
-khéo thông đạt nhờ chánh kiến”. Các trưởng lão Tỷ-kheo... Các trung niên Tỷ-kheo... Các tân học Tỷkheo nghĩ đến Tỷ-kheo ấy đáng được nói đến, đáng được giáo giới. Với vị ấy, được các trưởng lão
+khéo thông đạt nhờ chánh kiến”. Các trưởng lão Tỷ-kheo... Các trung niên Tỷ-kheo... Các tân học Tỷ-kheo nghĩ đến Tỷ-kheo ấy đáng được nói đến, đáng được giáo giới. Với vị ấy, được các trưởng lão
 thương tưởng, được các trung niên thương tưởng, được các tân học thương tưởng, chờ đợi là sự lớn
 mạnh trong các thiện pháp, không phải là sự tổn giảm. Ðây là pháp tác thành sự hộ trì.
 
@@ -397,7 +397,7 @@ Và này các Tỷ-kheo, thế nào là Tỷ-kheo thành tựu sáu chi phần?
 
 5\. Ở đây, này các Tỷ kheo, Tỷ-kheo khi mắt thấy sắc không có hân hoan, không có thất vọng, trú xa
 chánh niệm tỉnh giác; khi tai nghe tiếng... khi mũi ngửi hương... khi lưỡi nếm vị... khi thân cảm xúc, khi
-ý biết pháp, không có hân hoan, không có thất vọng, trú xa, chánh niệm tỉnh giác. Như vậy, này các Tỷkheo, là Tỷ-kheo thành tựu sáu chi phần.
+ý biết pháp, không có hân hoan, không có thất vọng, trú xa, chánh niệm tỉnh giác. Như vậy, này các Tỷ-kheo, là Tỷ-kheo thành tựu sáu chi phần.
 
 Và này các Tỷ-kheo, thế nào là Tỷ-kheo hộ trì một sự?
 

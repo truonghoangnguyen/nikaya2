@@ -1,4 +1,4 @@
-# 11. Cùng Kevaḍḍha (Kevaṭṭa)
+# DN 11. Cùng Kevaḍḍha (Kevaṭṭa)
 _**KevaṭṭaSutta**_
 
 Như vầy tôi nghe. Một thời, Đức Phật trú gần Nāḷandā, trong vườn xoài của Pāvārika.[581](/kinhtruongbo/sujato-vi/notes/11#581){.note}

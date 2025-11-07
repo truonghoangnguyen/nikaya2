@@ -1,4 +1,4 @@
-# 12. Kinh Lohicca
+# DN 12. Kinh Lohicca
 _**Lohiccasutta**_
 
 Như vầy tôi nghe. Một thời Đức Phật du hành trong xứ của người Kosala cùng với một *Tăng đoàn* đông đảo gồm năm trăm vị *tỳ kheo* và Ngài đã đến Sālavatikā.[621](/kinhtruongbo/sujato-vi/notes/12#621){.note}

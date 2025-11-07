@@ -43,7 +43,7 @@ cả đều do nhân một tạo hóa tạo ra? “.
 Ðược Ta hỏi vậy, họ trả lời: “Thưa phải, có như vậy”.
 
 Ta nói với họ như sau: “Như vậy, thời theo các Tôn giả, do nhân một vị tạo hóa tạo ra, sẽ trở thành
-người sát sanh ... Do nhân một vị tạo hóa tạo ra, sẽ trở thành người theo tà kiến”. Nhưng này các Tỷkheo, với những ai trở lại dựa vào vị tạo hóa tạo ra là lý do kiên thực, với những người ấy sẽ không có
+người sát sanh ... Do nhân một vị tạo hóa tạo ra, sẽ trở thành người theo tà kiến”. Nhưng này các Tỷ-kheo, với những ai trở lại dựa vào vị tạo hóa tạo ra là lý do kiên thực, với những người ấy sẽ không có
 ước muốn, không có tinh tấn, không có “Ðây là việc phải làm”, hay “Ðây là việc không nên làm”. Như
 vậy, sự cần thiết cần phải làm hay không cần phải làm không được tìm thấy là chân thực, là đáng tin
 cậy, thời danh từ Sa-môn không thể áp dụng đúng pháp cho các Ông được, vì các Ông sống thất niệm và
@@ -776,7 +776,7 @@ thoát khỏi hy cầu, được tịch tịnh, được thanh lương, cảm th
 
 **67.- Các Vấn Ðề Ðược Nói Ðến**
 
-1. - Này các Tỷ-kheo, có ba vấn đề này được nói đến. Thế nào là ba? Có thể nói về quá khứ, này các Tỷkheo, nói rằng: “Như vầy đã xảy ra trong thời quá khứ. Có thể nói về tương lai, này các Tỷ-kheo, nói
+1. - Này các Tỷ-kheo, có ba vấn đề này được nói đến. Thế nào là ba? Có thể nói về quá khứ, này các Tỷ-kheo, nói rằng: “Như vầy đã xảy ra trong thời quá khứ. Có thể nói về tương lai, này các Tỷ-kheo, nói
 rằng: “Như vầy sẽ xảy ra trong thời tương lai”. Có thể nói về hiện tại, này các Tỷ-kheo, nói rằng: “Như
 vầy đang xảy ra trong thời hiện tại”.
 
@@ -828,7 +828,7 @@ báng, không chụp lấy chỗ sơ hở. Nếu là như vậy, này các Tỷ-
 
 Không có lóng tai, này các Tỷ-kheo, là không có duyên. Có lóng tai là có duyên. Người có duyên thắng
 tri một pháp, biến tri một pháp, từ bỏ một pháp, chứng đắc mot65t pháp. Do thắng tri một pháp, liễu tri
-một pháp, từ bỏ một pháp, chứng đắc một pháp, vị ấy cảm thấy chánh giải thoát. Như vậy, này các Tỷkheo, là lợi ích của thảo luận, như vậy là lợi ích của đàm luận, như vậy là lợi ích có duyên, như vậy là
+một pháp, từ bỏ một pháp, chứng đắc một pháp, vị ấy cảm thấy chánh giải thoát. Như vậy, này các Tỷ-kheo, là lợi ích của thảo luận, như vậy là lợi ích của đàm luận, như vậy là lợi ích có duyên, như vậy là
 lợi ích nghe lời khuyên, tức là tâm giải thoát không có chấp thủ.
 7.
 

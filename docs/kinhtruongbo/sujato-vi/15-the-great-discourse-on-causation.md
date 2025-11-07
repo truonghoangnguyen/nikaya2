@@ -1,4 +1,4 @@
-# 15. Kinh Lớn Về Các Nhân Duyên
+# DN 15. Kinh Lớn Về Các Nhân Duyên
 
 _**Mahānidānasutta**_
 

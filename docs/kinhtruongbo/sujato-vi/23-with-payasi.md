@@ -1,4 +1,4 @@
-# 23. Kinh Pāyāsi
+# DN 23. Kinh Pāyāsi
 
 _**Kinh Pāyāsi**_
 

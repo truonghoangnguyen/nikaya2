@@ -16,7 +16,7 @@ nhận ta”, thân phía hữu hướng về Ngài rồi biến mất tại ch�
 2\. Rồi Thế Tôn, sau khi đêm ấy đã qua, liền bảo các vị Tỷ-kheo:
 
 − Ðêm nay, này các Tỷ-kheo, một Thiên nhân sau khi đêm đã gần mãn, với dung sắc thù thắng chói sáng
-toàn vùng Jetavana đi đến Ta; sau khi đến, đảnh lễ Ta rồi đứng một bên. Ðứng một bên, này các Tỷkheo, Thiên nhân ấy thưa với Ta: “Có bảy pháp, bạch Thế Tôn, không đưa Tỷ-kheo đến đọa lạc. Thế
+toàn vùng Jetavana đi đến Ta; sau khi đến, đảnh lễ Ta rồi đứng một bên. Ðứng một bên, này các Tỷ-kheo, Thiên nhân ấy thưa với Ta: “Có bảy pháp, bạch Thế Tôn, không đưa Tỷ-kheo đến đọa lạc. Thế
 nào là bảy? Tôn kính bậc Ðạo Sư, tôn kính Pháp; tôn kính Tăng, tôn kính học pháp; tôn kính định; tôn
 kính không phóng dật, tôn kính nghinh đón. Bảy pháp này bạch Thế Tôn, không đưa Tỷ-kheo đến đọa
 lạc”. Này các Tỷ-kheo, Thiên nhân ấy nói như vậy, sau khi nói xong, đảnh lễ Ta, thân phía hữu hướng
@@ -69,7 +69,7 @@ nhân ấy nói như vậy, sau khi nói xong, đảnh lễ Ta, thân bên hữu
 2\. Ðược nghe nói vậy, Tôn giả Sàriputta bạch Thế Tôn:
 
 3\. - Lời nói vắn tắt này của Thế Tôn, bạch Thế Tôn, con hiểu một cách rộng rãi như sau: Ở đây, bạch
-Thế Tôn, Tỷ-kheo tự mình tôn kính bậc Ðạo Sư, tán thán sự tôn kính bậc Ðạo Sư. Ðối với những Tỷkheo khác không tôn kính bậc Ðạo Sư, vị ấy khích lệ họ tôn kính bậc Ðạo Sư. Ðối với những Tỷ-kheo
+Thế Tôn, Tỷ-kheo tự mình tôn kính bậc Ðạo Sư, tán thán sự tôn kính bậc Ðạo Sư. Ðối với những Tỷ-kheo khác không tôn kính bậc Ðạo Sư, vị ấy khích lệ họ tôn kính bậc Ðạo Sư. Ðối với những Tỷ-kheo
 khác tôn kính bậc Ðạo Sư, vị ấy tán thán một cách chơn thật, chơn chánh, đúng thời. Tự mình tôn kính
 Pháp... tự mình tôn kính chúng Tăng... tự mình tôn kính học pháp... tự mình tôn kính thiện ngôn... tự
 mình tôn kính thiện bằng hữu, tán thán sự tôn kính thiện bằng hữu. Ðối với những Tỷ-kheo khác không

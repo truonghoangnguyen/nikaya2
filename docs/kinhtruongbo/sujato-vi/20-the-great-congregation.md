@@ -1,4 +1,4 @@
-# 20. Đại Hội Chúng
+# DN 20. Đại Hội Chúng
 
 _**Mahāsamayasutta**_
 

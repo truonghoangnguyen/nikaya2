@@ -1,4 +1,4 @@
-# 28. Kinh Tịnh Tín
+# DN 28. Kinh Tịnh Tín
 _**Sampasādanīyasutta**_
 
 ## 1. Tiếng Rống Sư Tử của Ngài Xá Lợi Phất

@@ -132,7 +132,7 @@ _Vì không hiểu Chánh pháp._
 
 13\. Khi được nghe nói vậy, Bà-la-môn Akkosaka Bhàradvàja bạch Thế Tôn:
 
-− Thật là vi diệu thay, Tôn giả Gotama!...,... Con xin quy y Thế Tôn Gotama, quy y Pháp và quy y Tỷkheo Tăng. Mong Tôn giả Gotama cho con được xuất gia tu học với Tôn giả Gotama, được thọ đại giới.
+− Thật là vi diệu thay, Tôn giả Gotama!...,... Con xin quy y Thế Tôn Gotama, quy y Pháp và quy y Tỷ-kheo Tăng. Mong Tôn giả Gotama cho con được xuất gia tu học với Tôn giả Gotama, được thọ đại giới.
 
 14\. Bà-la-môn Akkosaka Bhàradvàja được xuất gia với Tôn giả Gotama, được thọ đại giới.
 

@@ -70,7 +70,7 @@ Và này các Tỷ-kheo, thế nào là người ly hy vọng? Ở đây này c�
 đảnh. Vị ấy nghe nói như sau: “Vị Sát-đế-lỵ tên như vậy đã được các Sát-đế-lỵ làm lễ quán đảnh theo lễ
 quán đảnh của các Sát-đế-lỵ”. Người ấy không nghĩ như sau: “Không biết khi nào các Sát-đế-lỵ mới làm
 lễ quán đảnh cho ta theo lễ quán đảnh của Sát-đế-lỵ? “Vì cớ sao? Sự hy vọng được làm lễ quán đảnh
-trước khi chưa làm lễ quán đảnh, hy vọng ấy được hoàn toàn chấm dứt. Người như vậy, này các Tỷkheo, được gọi là người đã ly hy vọng.
+trước khi chưa làm lễ quán đảnh, hy vọng ấy được hoàn toàn chấm dứt. Người như vậy, này các Tỷ-kheo, được gọi là người đã ly hy vọng.
 
 Ba hạng người này, này các Tỷ-kheo, xuất hiện, có mặt ở đời. Cũng vậy, này các Tỷ-kheo, có ba hạng
 người xuất hiện, có mặt giữa các Tỷ-kheo. Thế nào là ba? Không hy vọng, có hy vọng, ly hy vọng.
@@ -202,7 +202,7 @@ khuyết điểm nên bánh xe ấy tiếp tục chạy cho đến khi sức đ�
 
 4.- Rất có thể, này các Tỷ-kheo, các thầy nghĩ rằng trong thời ấy, người đóng xe ấy là một người khác.
 Này các Tỷ-kheo, chớ có nghĩ như vậy. Trong thời ấy, ta chính là người đóng xe. Lúc bấy giờ, này các
-Tỷ-kheo, ta khéo léo về chỗ cong của gỗ, về chỗ hỏng của gỗ, về khuyết điểm của gỗ. Nay, này các Tỷkheo, ta là bậc A-la-hán, Chánh Ðẳng Giác, khéo léo về chỗ cong của thân, về chỗ hỏng của thân, về
+Tỷ-kheo, ta khéo léo về chỗ cong của gỗ, về chỗ hỏng của gỗ, về khuyết điểm của gỗ. Nay, này các Tỷ-kheo, ta là bậc A-la-hán, Chánh Ðẳng Giác, khéo léo về chỗ cong của thân, về chỗ hỏng của thân, về
 khuyết điểm của thân; khéo léo về chỗ cong của lời nói, về chỗ hỏng của lời nói, về khuyết điểm của lời
 nói; khéo léo về chỗ cong của ý, về chỗ hỏng của ý, về khuyết điểm của ý.
 
@@ -262,7 +262,7 @@ ba? Thân làm ác, miệng nói ác, ý nghĩ ác. Ba pháp này, này các T�
 người, đưa đến hại cả hai.
 
 Có ba pháp này, này các Tỷ-kheo, không đưa đến hại mình, không đưa đến hại người, không đưa đến
-hại cả hai. Thế nào là ba? Thân làm thiện, miệng nói thiện, ý nghĩ thiện. Có ba pháp này, này các Tỷkheo, không đưa đến hại mình, không đưa đến hại người, không đưa đến hại cả hai.
+hại cả hai. Thế nào là ba? Thân làm thiện, miệng nói thiện, ý nghĩ thiện. Có ba pháp này, này các Tỷ-kheo, không đưa đến hại mình, không đưa đến hại người, không đưa đến hại cả hai.
 
 **18.- Thiên Giới**
 

@@ -1,4 +1,4 @@
-# Các Bài Kinh Liên Quan Về Cảm Giác
+# Tương Ưng Về Cảm Giác
 
 <!--pg-->
 ## Chương Có Kệ
@@ -44,9 +44,9 @@ Cảm giác dễ chịu, khó chịu, và trung tính. Đó là ba loại cảm 
 
 Cảm giác dễ chịu, khó chịu, và trung tính.
 
-Sự *ngầm hướng về* (underlying tendencies / *tùy miên*, ngủ ngầm, chiều hướng cơ bản) tham lam nên được từ bỏ khi có cảm giác dễ chịu. Sự ngầm hướng về ghê tởm nên được từ bỏ khi có cảm giác khó chịu. Sự ngầm hướng về vô minh nên được từ bỏ khi có cảm giác trung tính.
+Sự *tham ngầm* (underlying tendencies / *tùy miên*, ngủ ngầm, chiều hướng cơ bản) nên được từ bỏ khi có cảm giác dễ chịu. Sự *ghét ngầm* nên được từ bỏ khi có cảm giác khó chịu. Sự *vô minh ngầm* nên được từ bỏ khi có cảm giác trung tính.
 
-Khi một Tỷ kheo đã từ bỏ những khuynh hướng ngầm này, họ được gọi là một Tỷ kheo không còn khuynh hướng ngầm, người thấy đúng đắn, đã cắt đứt tham ái, tháo gỡ các *xiềng xích* (The fetters / *kiết sử* / dịch là 'cái cùm', 'xiềng xích', là các ô nhiễm gốc rễ sâu trong tâm), và bằng cách hiểu đúng về ngã mạn đã chấm dứt khổ đau.
+Khi một Tỷ kheo đã từ bỏ những khuynh hướng ngầm này, họ được gọi là một Tỷ kheo không còn khuynh hướng ngầm, người thấy đúng đắn, đã cắt đứt tham ái, tháo gỡ các *xiềng xích* (The fetters / *kiết sử* / 'cái cùm', 'xiềng xích', là các ô nhiễm gốc rễ sâu trong tâm), và bằng cách hiểu đúng về ngã mạn đã chấm dứt khổ đau.
 
 > Khi bạn cảm thấy an vui\
 > mà không hiểu về cảm giác,\
@@ -635,3 +635,10 @@ Và sự giải thoát của vật chất là gì? Sự giải thoát liên quan
 Và sự giải thoát không thuộc về vật chất là gì? Sự giải thoát liên quan đến vô sắc là sự giải thoát không thuộc về vật chất.
 
 Và sự giải thoát còn tâm linh hơn cả sự giải thoát không thuộc về vật chất là gì? Khi một Tỷ kheo đã đoạn tận các lậu hoặc xem xét lại tâm mình thoát khỏi tham, sân, và si, sự giải thoát khởi sinh. Đây được gọi là sự giải thoát còn tâm linh hơn cả sự giải thoát không thuộc về vật chất."
+
+
+Có các sắc do mắt nhận thức khả lạc, khả hỷ, khả ý, khả ái, liên hệ đến dục, hấp dẫn… Có xúc do thân nhận thức khả lạc, khả hỷ, khả ý, khả ái, liên hệ đến dục, hấp dẫn. Này các Tỷ-kheo, đây là năm dục công đức này. Này các Tỷ-kheo, do duyên năm dục công đức này, hỷ khởi lên. Này các Tỷ-kheo, đây gọi là hỷ liên hệ đến vật chất.
+
+Có những sắc do mắt nhận thức khả lạc, khả hỷ, khả ý, khả ái, liên hệ đến dục, hấp dẫn… Có những xúc do thân nhận thức khả lạc, khả hỷ, khả ý, khả ái, liên hệ đến dục, hấp dẫn. Này các Tỷ-kheo, đây là năm dục công đức. Này các Tỷ-kheo, do duyên năm dục công đức này, khởi lên lạc hỷ gì, này các Tỷ-kheo, đây gọi là lạc liên hệ đến vật chất.
+
+Có những sắc do mắt nhận thức khả lạc, khả hỷ, khả ý, khả ái, liên hệ đến dục, hấp dẫn… Có những xúc do thân nhận thức khả lạc, khả hỷ, khả ý, khả ái, liên hệ đến dục, hấp dẫn. Này các Tỷ-kheo, do duyên năm dục công đức này, xả khởi lên. Này các Tỷ-kheo, đây gọi là xả liên hệ đến vật chất.

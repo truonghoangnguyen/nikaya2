@@ -69,7 +69,7 @@ sách tấn vị ấy, và nói lên những vần kệ:
 >
 > Siêng năng, quyết tâm,\
 > luôn luôn kiên trì mạnh mẽ,\
-> hướng đến sựดับ tắt:\
+> hướng đến sự kết thúc:\
 > sao lại làm phiền một người xuất gia?"
 
 <!--pg-->

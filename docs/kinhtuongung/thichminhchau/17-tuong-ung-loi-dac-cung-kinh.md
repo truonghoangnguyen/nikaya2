@@ -383,7 +383,7 @@ Khujjutarà và Velukandakiyà.
 5\. "Này Con thân yêu, nếu Con xuất gia, từ bỏ gia đình, sống không gia đình; này Con thân yêu, hãy
 giống như Tỷ-kheo-ni Khema và Uppàlavanna!"
 
-6\. Các vị ấy, này các Tỷ-kheo, là cân lường, là mẫu mực cho các đệ tử Tỷ-kheo-ni của Ta, tức là Tỷkheo-ni Khemà và Uppàlavanna.
+6\. Các vị ấy, này các Tỷ-kheo, là cân lường, là mẫu mực cho các đệ tử Tỷ-kheo-ni của Ta, tức là Tỷ-kheo-ni Khemà và Uppàlavanna.
 
 7\. "Này Con thân yêu, chớ để cho lợi đắc, cung kính, danh vọng chạm đến người, kẻ hữu học với tâm
 đầy nhiệt tình!"

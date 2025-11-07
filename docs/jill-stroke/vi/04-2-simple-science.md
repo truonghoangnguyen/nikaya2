@@ -30,7 +30,7 @@ Phần não bộ giúp chúng ta khác biệt với tất cả các loài độn
 
 >Right Hemisphere: Bán cầu não phải
 >Left Hemisphere: Bán cầu não trái
->(front of brain): (mặt trước của não)
+>(front of brain): (mặt trước của não)img
 >(back of brain): (mặt sau của não)
 
 Hai *bán cầu não* giao tiếp với nhau thông qua một xa lộ truyền tải thông tin gọi là *thể chai*. Mặc dù mỗi bán cầu đều độc đáo trong các loại thông tin cụ thể mà nó xử lý, nhưng khi hai bán cầu được kết nối với nhau, chúng làm việc cùng nhau để tạo ra một *nhận thức duy nhất, liền mạch* về thế giới.

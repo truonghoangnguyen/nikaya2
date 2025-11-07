@@ -165,7 +165,7 @@ mặt. Thấy vậy, Ngài liền gọi các Tỷ-kheo:
 chúng con không thấy vị Tôn giả ấy thân bị rung động hay dao động.
 
 6\. − Ðối với một vị có Thiền định như vậy, này các Tỷ-kheo, nhờ tu tập, nhờ làm cho sung mãn, nên
-thân vị ấy không rung động hay dao động, nên tâm vị ấy không rung động hay dao động. Ðối với vị Tỷkheo ấy, được định như vậy, không có khó khăn, không có gian nan, không có mệt nhọc.
+thân vị ấy không rung động hay dao động, nên tâm vị ấy không rung động hay dao động. Ðối với vị Tỷ-kheo ấy, được định như vậy, không có khó khăn, không có gian nan, không có mệt nhọc.
 
 7\. Và này các Tỷ-kheo, vị ấy tu tập, làm cho sung mãn định nào mà thân không rung động, không dao
 động, hay tâm không rung động, không dao động? Này các Tỷ-kheo, do vị ấy tu tập, làm cho sung mãn
@@ -318,7 +318,7 @@ Tôn giả Ananda vâng đáp Thế Tôn và mời tất cả Tỷ-kheo trú xun
 
 − Bạch Thế Tôn, chúng Tỷ-kheo đã tập họp. Nay Thế Tôn hãy làm những gì Thế Tôn nghĩ là phải thời.
 
-8\. Rồi Thế Tôn đi đến giảng đường; sau khi đến, ngồi xuống trên chỗ đã soạn sẵn. Thế Tôn bảo các Tỷkheo:
+8\. Rồi Thế Tôn đi đến giảng đường; sau khi đến, ngồi xuống trên chỗ đã soạn sẵn. Thế Tôn bảo các Tỷ-kheo:
 
 9\. − Này các Tỷ-kheo, định niệm hơi thở vô, hơi thở ra này được tu tập, được làm cho sung mãn là tịch
 tịnh, thù diệu, thuần nhất (asecanako), lạc trú, làm cho các ác, bất thiện pháp đã sanh biến mất, tịnh chỉ
@@ -416,7 +416,7 @@ tâm, tỉnh giác, chánh niệm, nhiếp phục tham ưu ở đời.
 21\. Trong khi Tỷ-kheo, này Ananda, "Quán vô thường, tôi sẽ thở vô", vị ấy tập. "Quán vô thường, tôi sẽ
 thở ra", vị ấy tập. "Quán ly tham, tôi sẽ thở vô", vị ấy tập. "Quán ly tham, tôi sẽ thở ra", vị ấy tập. "Quán
 đoạn diệt, tôi sẽ thở vô", vị ấy tập. "Quán đoạn diệt, tôi sẽ thở ra", vị ấy tập. "Quán từ bỏ, tôi sẽ thở vô",
-vị ấy tập. "Quán từ bỏ, tôi sẽ thở ra", vị ấy tập. Trong khi quán pháp trên các pháp, này Ananda, Tỷkheo trú như vậy, nhiệt tâm, tỉnh giác, chánh niệm, nhiếp phục tham ưu ở đời, đoạn tận các tham ưu; sau
+vị ấy tập. "Quán từ bỏ, tôi sẽ thở ra", vị ấy tập. Trong khi quán pháp trên các pháp, này Ananda, Tỷ-kheo trú như vậy, nhiệt tâm, tỉnh giác, chánh niệm, nhiếp phục tham ưu ở đời, đoạn tận các tham ưu; sau
 khi thấy với trí tuệ, vị ấy khéo trú xả. Do vậy, này Ananda, quán pháp trên các pháp, Tỷ-kheo trú như
 vậy, nhiệt tâm, tỉnh giác, chánh niệm, nhiếp phục tham ưu ở đời.
 
@@ -577,13 +577,13 @@ vậy, làm viên mãn bốn niệm xứ.
 21\. Tu tập như thế nào, này Ananda, làm cho sung mãn như thế nào, bốn niệm xứ làm cho viên mãn bảy
 giác chi?
 
-22\. Trong khi, này Ananda, Tỷ-kheo trú, quán thân trên thân, niệm được an trú; khi ấy, này Ananda, Tỷkheo có niệm, không phải thất niệm. Trong khi, này Ananda, Tỷ-kheo an trú niệm, không phải thất
+22\. Trong khi, này Ananda, Tỷ-kheo trú, quán thân trên thân, niệm được an trú; khi ấy, này Ananda, Tỷ-kheo có niệm, không phải thất niệm. Trong khi, này Ananda, Tỷ-kheo an trú niệm, không phải thất
 niệm, thời niệm giác chi, đối với Tỷ-kheo ấy được thành tựu. Trong khi, này Ananda, Tỷ-kheo tu tập
 niệm giác chi, niệm giác chi được Tỷ-kheo tu tập đi đến viên mãn. Vị ấy trú chánh niệm như vậy, với trí
 tuệ quyết trạch, tư sát, thành tựu quán pháp ấy.
 
 23\. Trong khi, này Ananda, Tỷ-kheo sống chánh niệm như vậy, với trí tuệ quyết trạch, tư sát và đi đến
-quán sát ấy; khi ấy, này Ananda, trạch pháp giác chi bắt đầu phát khởi trong Tỷ-kheo ấy. Trong khi Tỷkheo tu tập trạch pháp giác chi; khi ấy, nhờ tu tập, trạch pháp giác chi đi đến viên mãn. Trong khi vị ấy
+quán sát ấy; khi ấy, này Ananda, trạch pháp giác chi bắt đầu phát khởi trong Tỷ-kheo ấy. Trong khi Tỷ-kheo tu tập trạch pháp giác chi; khi ấy, nhờ tu tập, trạch pháp giác chi đi đến viên mãn. Trong khi vị ấy
 với trí tuệ, quyết trạch, tư sát và thành tựu quán sát pháp ấy, thời tinh tấn, không thụ động bắt đầu phát
 khởi nơi vị ấy.
 

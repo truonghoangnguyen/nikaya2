@@ -131,9 +131,9 @@ Tỷ-kheo: "− Này các Tỷ-kheo." "− Thưa vâng Thế Tôn." Các Tỷ-kh
 
 2\. Thế Tôn nói như sau:
 
-− Này các Tỷ-kheo, Ta đã được giải thoát khỏi tất cả bẫy sập ở Thiên giới và Nhân giới. Này các Tỷkheo, các Ông cũng được giải thoát khỏi tất cả bẫy sập ở Thiên giới và Nhân giới. Này các Tỷ-kheo, hãy
+− Này các Tỷ-kheo, Ta đã được giải thoát khỏi tất cả bẫy sập ở Thiên giới và Nhân giới. Này các Tỷ-kheo, các Ông cũng được giải thoát khỏi tất cả bẫy sập ở Thiên giới và Nhân giới. Này các Tỷ-kheo, hãy
 du hành vì hạnh phúc cho quần chúng, vì an lạc cho quần chúng, vì lòng thương tưởng cho đời, vì lợi
-ích, vì hạnh phúc, vì an lạc cho chư Thiên và loài Người. Chớ có đi hai người một chỗ. Này các Tỷkheo, hãy thuyết pháp sơ thiện, trung thiện, hậu thiện, có nghĩa, có văn. Hãy tuyên thuyết Phạm hạnh
+ích, vì hạnh phúc, vì an lạc cho chư Thiên và loài Người. Chớ có đi hai người một chỗ. Này các Tỷ-kheo, hãy thuyết pháp sơ thiện, trung thiện, hậu thiện, có nghĩa, có văn. Hãy tuyên thuyết Phạm hạnh
 hoàn toàn viên mãn thanh tịnh. Có các chúng sanh sanh ra ít nhiễm bụi đời, nếu không được nghe pháp
 sẽ đi đến hoại diệt. Họ sẽ trở thành những vị thâm hiểu Chánh pháp. Này các Tỷ-kheo, Ta sẽ đi đến
 Uruvelà, thị trấn Senà để thuyết pháp.

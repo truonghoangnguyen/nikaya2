@@ -64,7 +64,7 @@ hiền trí ... tạo nên nhiều phước đức.
 
 9. Này các Tỷ-kheo, có hai pháp này. Thế nào là hai? Thanh tịnh tự tâm và không chấp thủ một cái gì ở
 đời. Những pháp này, này các Tỷ-kheo, là hai pháp.
-10. Này các Tỷ-kheo, có hai pháp này. Thế nào là hai? Phẫn nộ và hiềm hận. Các pháp này, này các Tỷkheo, là hai pháp.
+10. Này các Tỷ-kheo, có hai pháp này. Thế nào là hai? Phẫn nộ và hiềm hận. Các pháp này, này các Tỷ-kheo, là hai pháp.
 
 11. Này các Tỷ-kheo, có hai pháp này. Thế nào là hai? Nhiếp phục phẫn nộ và nhiếp phục hiềm hận.
 Các pháp này, này các Tỷ-kheo, là hai pháp.

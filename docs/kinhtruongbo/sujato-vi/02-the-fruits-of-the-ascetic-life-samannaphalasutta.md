@@ -1,4 +1,4 @@
-# 2.Thành Quả Của Sa-môn
+# DN 2. Thành Quả Của Sa-môn
 (**Sāmaññaphalasutta**)
 
 ## 1. Cuộc Thảo Luận Với Các Quan Đại Thần Của Vua

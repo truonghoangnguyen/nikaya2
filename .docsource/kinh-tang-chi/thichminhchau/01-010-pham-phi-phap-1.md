@@ -8,7 +8,7 @@ lớn như vậy, này các Tỷ-kheo, như phóng dật. Phóng dật, này cá
 
 <!--pg-->
 2\. Ðứng về phương diện nội phần, này các Tỷ-kheo, Ta không thấy một phần nào khác đưa đến lợi ích
-lớn như vậy, này các Tỷ-kheo, như không phóng dật, này các Tỷ-kheo. Không phóng dật, này các Tỷkheo, đưa đến lợi ích lớn.
+lớn như vậy, này các Tỷ-kheo, như không phóng dật, này các Tỷ-kheo. Không phóng dật, này các Tỷ-kheo, đưa đến lợi ích lớn.
 
 <!--pg-->
 3. (Như số 1 ở trên, chỉ thay vào “biếng nhác”)...

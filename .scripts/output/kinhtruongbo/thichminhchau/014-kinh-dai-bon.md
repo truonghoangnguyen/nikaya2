@@ -37,7 +37,7 @@ Các Tỷ-kheo này đáp lời Thế Tôn. Thế Tôn giảng như sau:
 Chánh Ðẳng Giác ra đời. Này các Tỷ-kheo, cũng trong ba mươi mốt kiếp ấy, Thế Tôn Vessabhù (Tỳ-xábà) bậc A-la-hán, Chánh Ðẳng Giác ra đời. Này các Tỷ-kheo cũng trong tiền kiếp ấy, Thế Tôn
 Kakusandha (Câu-lâu-tôn) bậc A-la-hán, Chánh Ðẳng Giác ra đời. Này các Tỷ-kheo, cũng trong tiền
 kiếp ấy, Thế Tôn Konàgamana (Câu-na-hàm) bậc A-la-hán, Chánh Ðẳng Giác ra đời. Này các Tỷ-kheo,
-cũng trong tiền kiếp ấy, Thế Tôn Kassapa (Ca-diếp) bậc A-la-hán, Chánh Ðẳng Giác ra đời. Này các Tỷkheo, cũng trong tiền kiếp ấy, nay Ta, bậc A-la-hán, Chánh Ðẳng Giác ra đời.
+cũng trong tiền kiếp ấy, Thế Tôn Kassapa (Ca-diếp) bậc A-la-hán, Chánh Ðẳng Giác ra đời. Này các Tỷ-kheo, cũng trong tiền kiếp ấy, nay Ta, bậc A-la-hán, Chánh Ðẳng Giác ra đời.
 
 5. Này các Tỷ-kheo, Thế Tôn Vipasì, bậc A-la-hán, Chánh Ðẳng Giác sanh thuộc chủng tánh Sát-đế-lỵ,
 sanh trong giai cấp Sát-đế-lỵ. Này các Tỷ-kheo, Thế Tôn Sikhì, bậc A-la-hán, Chánh Ðẳng Giác, thuộc
@@ -49,7 +49,7 @@ Giác thuộc chủng tánh Bà-la-môn, sanh trong giai cấp Bà-la-môn. Này
 6. Này các Tỷ-kheo, Thế Tôn Vipasì, bậc A-la-hán, Chánh Ðẳng Giác thuộc danh tánh Kondanna (Câuly-nhã). Này các Tỷ-kheo, Thế Tôn Sikhì, bậc A-la-hán, Chánh Ðẳng Giác thuộc danh tánh Kondanna.
 Này các Tỷ-kheo, Thế Tôn Vessabhù, bậc A-la-hán, Chánh Ðẳng Giác thuộc danh tánh Kondanna. Này
 các Tỷ-kheo, Thế Tôn Kakusandha, bậc A-la-hán, Chánh Ðẳng Giác thuộc danh tánh Kassapa. Này các
-Tỷ-kheo, Thế Tôn Konàgamara, bậc A-la-hán, Chánh Ðẳng Giác thuộc danh tánh Kassapa. Này các Tỷkheo, Thế Tôn Kassapa, bậc A-la-hán, Chánh Ðẳng Giác thuộc danh tánh Kassapa. Này các Tỷ-kheo,
+Tỷ-kheo, Thế Tôn Konàgamara, bậc A-la-hán, Chánh Ðẳng Giác thuộc danh tánh Kassapa. Này các Tỷ-kheo, Thế Tôn Kassapa, bậc A-la-hán, Chánh Ðẳng Giác thuộc danh tánh Kassapa. Này các Tỷ-kheo,
 nay Ta là bậc A-la-hán, Chánh Ðẳng Giác, thuộc danh tánh Gotama (Cù-đàm).
 
 7. Này các Tỷ-kheo, trong thời Thế Tôn Vipassì bậc A-la-hán, Chánh Ðẳng Giác, tuổi thọ loài người là
@@ -74,7 +74,7 @@ tên là Khanda (Kiển-trà) và Tissa (Ðề-xá). Này các Tỷ-kheo, hai v�
 Sikhì, bậc A-la-hán, Chánh Ðẳng Giác, tên là Abhibhù (A-tỳ-phù) và Sambhava (Tam-bà-bà). Này các
 Tỷ-kheo, hai vị hiền sĩ, đệ nhất đệ tử của Thế Tôn Vessabhu, bậc A-la-hán, Chánh Ðẳng Giác, tên là
 Sona (Phù-du) và Uttara (Uất-đa-la). Này các Tỷ-kheo, hai vị hiền sĩ, đệ nhất đệ tử của Thế Tôn
-Kakusandha, bậc A-la-hán, Chánh Ðẳng Giác tên là Vidhùra (Tỳ-lâu) và Sanjìva (Tát-ni). Này các Tỷkheo, hai vị hiền sĩ, đệ nhất đệ tử của Thế Tôn Konàgamana, bậc A-la-hán, Chánh Ðẳng Giác tên là
+Kakusandha, bậc A-la-hán, Chánh Ðẳng Giác tên là Vidhùra (Tỳ-lâu) và Sanjìva (Tát-ni). Này các Tỷ-kheo, hai vị hiền sĩ, đệ nhất đệ tử của Thế Tôn Konàgamana, bậc A-la-hán, Chánh Ðẳng Giác tên là
 Bhiyyosa (Thư-bàn-na) và Uttara (Uất-đa-la). Này các Tỷ-kheo, hai vị hiền sĩ, đệ nhất đệ tử của Thế
 Tôn Kassapa, bậc A-la-hán, Chánh Ðẳng Giác tên là Tissa (Ðề-xá) và Bhàradvàja (Bà-la-bà). Này các
 Tỷ-kheo, hai vị hiền sĩ, đệ nhất đệ tử của Ta là Sãriputta (Xá-lợi-phất) và Moggallàna (Mục-kiền-liên).
@@ -118,7 +118,7 @@ trăm năm mươi Tỷ-kheo, tất cả đều là bậc Lậu tận.
 
 11. Này các Tỷ-kheo, Thế Tôn Vipassì, bậc A-la-hán, Chánh Ðẳng Giác, có vị thị giả Tỷ-kheo tên là
 Asoka (A-dục), vị này là vị thị giả đệ nhất. Này các Tỷ-kheo, Thế Tôn Sikhì bậc A-la-hán, Chánh Ðẳng
-Giác có vị thị giả Tỷ-kheo tên là Khemankara (Nhẫn Hành), vị này là vị thị giả đệ nhất. Này các Tỷkheo, Thế Tôn Vessabhũ, bậc A-la-hán, Chánh Ðẳng Giác có vị thị giả Tỷ-kheo tên là Upasannaka (Tịch
+Giác có vị thị giả Tỷ-kheo tên là Khemankara (Nhẫn Hành), vị này là vị thị giả đệ nhất. Này các Tỷ-kheo, Thế Tôn Vessabhũ, bậc A-la-hán, Chánh Ðẳng Giác có vị thị giả Tỷ-kheo tên là Upasannaka (Tịch
 Diệt) vị này là vị thị giả đệ nhất. Này các Tỷ-kheo, Thế Tôn Kakusandha, bậc A-la-hán, Chánh Ðẳng
 Giác có vị thị giả Tỷ-kheo tên là Vuddhija (Thiện Giác), vị này là thị giả đệ nhất. Này các Tỷ-kheo, Thế
 Tôn Konàgamana, bậc A-la-hán, Chánh Ðẳng Giác có vị thị giả Tỷ-kheo tên là Sotthija (An Hòa), vị này
@@ -232,7 +232,7 @@ Giác thuộc danh tánh Kondanna. Này các Tỷ-kheo, Thế Tôn Vipassì, b�
 tuổi thọ đến tám vạn năm. Này các Tỷ-kheo, Thế Tôn Vipassì, bậc A-la-hán, Chánh Ðẳng Giác, giác
 ngộ dưới gốc cây Patali (Ba-ba-la). Này các Tỷ-kheo, hai vị hiền sĩ, đệ nhất đệ tử của Thế Tôn Vipassì,
 bậc A-la-hán, Chánh Ðẳng Giác tên là Khanda (Kiển-trà) và Tissa (Ðề-xá). Này các Tỷ-kheo, trong thời
-Thế Tôn Vipassì, bậc A-la-hán, Chánh Ðẳng Giác có ba Tăng hội: một Tăng hội sáu mươi tám vạn Tỷkheo, một Tăng hội mười vạn Tỷ-kheo, một Tăng hội tám vạn Tỷ-kheo. Này các Tỷ-kheo, Thế Tôn
+Thế Tôn Vipassì, bậc A-la-hán, Chánh Ðẳng Giác có ba Tăng hội: một Tăng hội sáu mươi tám vạn Tỷ-kheo, một Tăng hội mười vạn Tỷ-kheo, một Tăng hội tám vạn Tỷ-kheo. Này các Tỷ-kheo, Thế Tôn
 Vipassì, bậc A-la-hán, Chánh Ðẳng Giác có vị thị giả Tỷ-kheo tên là Asoka (A-dục), vị này là vị thị giả
 đệ nhất. Này các Tỷ-kheo, Phụ Vương Thế Tôn Tỳ-bà-thi, bậc A-la-hán, Chánh Ðẳng Giác tên là
 Bandhumà (Bàn-đầu), mẫu hậu tên là Bandhumatì (Bàn-đầu-bà-đề), kinh thành của Bandhumà tên là
@@ -995,7 +995,7 @@ phúc cho đại chúng, vì an lạc cho đại chúng, vì lòng thương tư�
 an lạc cho loài Người, loài Trời. Chớ có đi hai người cùng một chỗ. Này các Tỷ-kheo, hãy thuyết giảng
 chánh pháp, sơ thiện, trung thiện, hậu thiện, nghĩa văn đầy đủ, văn cú vẹn toàn. Hãy nêu rõ phạm hạnh
 hoàn toàn thanh tịnh. Có những chúng sanh ít nhiễm bụi đời, nếu không được nghe chánh pháp sẽ bị
-nguy hại. (Nếu được nghe), sẽ thâm hiểu chánh pháp”. Bạch Thế Tôn, chúng con sẽ làm như các vị Tỷkheo. Sau sáu năm, các vị này đến kinh đô Bandhumati để tụng đọc giới bổn”.
+nguy hại. (Nếu được nghe), sẽ thâm hiểu chánh pháp”. Bạch Thế Tôn, chúng con sẽ làm như các vị Tỷ-kheo. Sau sáu năm, các vị này đến kinh đô Bandhumati để tụng đọc giới bổn”.
 
 Này các Tỷ-kheo, Ðại Phạm thiên thuyết như vậy. Sau khi nói xong, vị này đảnh lễ Thế Tôn Vipassi,
 bậc A-la-hán, Chánh Ðẳng Giác, lưng bên hữu hướng về Ngài và biến mất tại chỗ.

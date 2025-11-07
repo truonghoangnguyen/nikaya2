@@ -663,7 +663,7 @@ rồi biến mất tại chỗ ấy.
 3\. Rồi Thế Tôn sau khi đêm ấy đã qua, liền gọi các Tỷ-kheo và nói:
 
 4\. − Này các Tỷ-kheo, đêm nay có Thiên tử, sau khi đêm đã gần mãn, với dung sắc thù thắng, chói sáng
-toàn vùng Jetavana, đi đến Ta, sau khi đến, đảnh lễ Ta rồi đứng một bên. Ðứng một bên, này các Tỷkheo, vị Thiên tử ấy nói lên bài lệ này trước mặt Ta:
+toàn vùng Jetavana, đi đến Ta, sau khi đến, đảnh lễ Ta rồi đứng một bên. Ðứng một bên, này các Tỷ-kheo, vị Thiên tử ấy nói lên bài lệ này trước mặt Ta:
 
 5\.
 _"Ðây là rừng Kỳ Viên,_\

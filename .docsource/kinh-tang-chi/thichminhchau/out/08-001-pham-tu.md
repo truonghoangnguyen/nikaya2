@@ -73,7 +73,7 @@ chứng được với trí tuệ, nếu chứng được thời đưa đến t�
 mãn.
 
 <!--pg-->
-4. Vị ấy sau khi nghe pháp, cố gắng thành tựu hai sự an tịnh: Thân an tịnh và tâm an tịnh. Này các Tỷkheo, đây là nhân thứ ba ... được viên mãn.
+4. Vị ấy sau khi nghe pháp, cố gắng thành tựu hai sự an tịnh: Thân an tịnh và tâm an tịnh. Này các Tỷ-kheo, đây là nhân thứ ba ... được viên mãn.
 
 <!--pg-->
 5. Vị ấy có giới đức, sống chế ngự với sự chế ngự của giới bổn, đầy đủ uy nghi chánh hạnh, thấy sợ hãi
@@ -454,7 +454,7 @@ thọ trì pháp môn này. Thưa Tôn giả, pháp môn này liên hệ đến 
 
 <!--pg-->
 1. - Này các Tỷ-kheo, nói một cách chơn chánh về Nanda, có thể nói như sau: “Là Thiện nam tử”. Này
-các Tỷ-kheo, nói một cách chơn chánh về Nanda, có thể nói như sau: “Là vị có sức mạnh”. Này các Tỷkheo, nói một cách chơn chánh về Nanda, có thể nói như sau: “Là vị có tịnh tín”. Này các Tỷ-kheo, nói
+các Tỷ-kheo, nói một cách chơn chánh về Nanda, có thể nói như sau: “Là vị có sức mạnh”. Này các Tỷ-kheo, nói một cách chơn chánh về Nanda, có thể nói như sau: “Là vị có tịnh tín”. Này các Tỷ-kheo, nói
 một cách chơn chánh về Nanda, có thể nói như sau: “Là vị có ái dục sắc bén”.
 
 Ai khác ngoài Nanda, này các Tỷ-kheo, thành tựu chế ngự các căn, biết tiết độ trong ăn uống, chú tâm
@@ -514,7 +514,7 @@ phạm tội. Vị ấy bị các Tỷ-kheo buộc tội, tránh né vấn đề
 ngoài, và hiện tướng phẫn nộ, sân hận và bất mãn. Rồi Thế Tôn bảo các Tỷ-kheo:
 
 <!--pg-->
-2. - Này các Tỷ-kheo, hãy đuổi người này ra! Này các Tỷ-kheo, hãy tấn xuất người này ra! Này các Tỷkheo, người này đáng bị khai trừ.
+2. - Này các Tỷ-kheo, hãy đuổi người này ra! Này các Tỷ-kheo, hãy tấn xuất người này ra! Này các Tỷ-kheo, người này đáng bị khai trừ.
 
 Ở đây, này các Tỷ-kheo, khi nào một người đi ra, đi vào, nhìn lên, nhìn xung quanh, co tay, duỗi tay,
 mang y sanghàti, bát và y, như vậy, như các Tỷ-kheo hiền thiện khác, cho đến khi các Tỷ-kheo không
@@ -531,7 +531,7 @@ luôn cả rễ, và quăng cây lúa mì ấy ra khỏi ruộng lúa. Vì cớ 
 uế nhiễm các cây lúa mì hiền thiện khác”.
 
 Cũng vậy, này các Tỷ-kheo, ở đây, khi nào một người đi ra, đi vào, nhìn lên, nhìn xung quanh, co tay,
-duỗi tay, mang y sanghàti, bát và y, như vậy, như các Tỷ-kheo hiền thiện khác, cho đến không các Tỷkheo không thấy người ấy phạm tội. Nhưng khi các Tỷ-kheo thấy người ấy phạm tội, họ biết được:
+duỗi tay, mang y sanghàti, bát và y, như vậy, như các Tỷ-kheo hiền thiện khác, cho đến không các Tỷ-kheo không thấy người ấy phạm tội. Nhưng khi các Tỷ-kheo thấy người ấy phạm tội, họ biết được:
 “Người này là Sa-môn giả hiệu, Sa-môn rơm, Sa-môn rác”. Sau khi biết người ấy là như vậy, họ đuổi
 người ấy ra ngoài. Vì cớ sao? “Chớ để cho người ấy làm uế nhiễm các Tỷ kheo hiền thiện khác “.
 
@@ -542,7 +542,7 @@ cứng, có hạt, chúng được chất thành đống một bên; còn nhữn
 để cho lúa ấy làm uế nhiễm các hạt lúa hiền thiện khác “.
 
 Cũng vậy, này các Tỷ-kheo, ở đây, khi nào một người đi ra, đi vào, nhìn lên, nhìn xung quanh, co tay,
-duỗi tay, mang y sanghàti, bát và y, như vậy, như các Tỷ-kheo hiền thiện khác, cho đến khi nào các Tỷkheo không thấy người ấy phạm tội. Nhưng khi các Tỷ-kheo thấy người ấy phạm tội, họ biết được:
+duỗi tay, mang y sanghàti, bát và y, như vậy, như các Tỷ-kheo hiền thiện khác, cho đến khi nào các Tỷ-kheo không thấy người ấy phạm tội. Nhưng khi các Tỷ-kheo thấy người ấy phạm tội, họ biết được:
 “Người này là Sa-môn ô uế, Sa-môn rơm rạ, Sa-môn rác rưởi”. Sau khi biết người ấy là như vậy, họ
 đuổi người ấy ra ngoài. Vì cớ sao? “Chớ để cho người ấy làm uế nhiễm các Tỷ kheo hiền thiện khác “.
 <!--pg-->
@@ -554,7 +554,7 @@ gốc ; sau khi chặt gốc, người ấy chặt ngọn; sau khi chặt ngọn
 sạch; khi rửa phía trong cho thật sạch rồi, người ấy nối liền các ống ấy lại.
 
 Cũng vậy, này các Tỷ-kheo, ở đây, khi nào một người đi ra, đi vào, nhìn lên, nhìn xung quanh, co tay,
-duỗi tay, mang y sanghàti, bát và y, như vậy, như các Tỷ-kheo hiền thiện khác, cho đến không các Tỷkheo không thấy người ấy phạm tội. Nhưng khi các Tỷ-kheo thấy người ấy phạm tội, họ biết được:
+duỗi tay, mang y sanghàti, bát và y, như vậy, như các Tỷ-kheo hiền thiện khác, cho đến không các Tỷ-kheo không thấy người ấy phạm tội. Nhưng khi các Tỷ-kheo thấy người ấy phạm tội, họ biết được:
 “Người này là Sa-môn giả hiệu, Sa-môn rơm rạ, Sa-môn rác rưởi”. Sau khi biết người ấy là như vậy, họ
 đuổi người ấy ra ngoài. Vì cớ sao? “Chớ để cho người ấy làm uế nhiễm các Tỷ kheo hiền thiện khác “.
 

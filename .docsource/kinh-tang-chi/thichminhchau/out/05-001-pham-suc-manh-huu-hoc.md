@@ -5,7 +5,7 @@
 <!--pg-->
 1. Như vậy tôi nghe:
 
-Một thời, Thế Tôn trú ở Sàvatthi tại Jetavana, vườn ông Anàthapindika. Tại đấy, Thế Tôn gọi các Tỷkheo:
+Một thời, Thế Tôn trú ở Sàvatthi tại Jetavana, vườn ông Anàthapindika. Tại đấy, Thế Tôn gọi các Tỷ-kheo:
 
 − Này các Tỷ-kheo.
 
@@ -55,7 +55,7 @@ Và này các Tỷ-kheo, thế nào là tinh tấn lực?
 
 <!--pg-->
 5. Ở đây, này các Tỷ-kheo, vị Thánh đệ tử sống tinh cần tinh tấn, từ bỏ các pháp bất thiện, thành tựu các
-thiện pháp, nỗ lực, kiên trì tinh tấn, không từ bỏ gánh nặng đối với thiện pháp. Như vậy, này các Tỷkheo, được gọi là tinh tấn lực.
+thiện pháp, nỗ lực, kiên trì tinh tấn, không từ bỏ gánh nặng đối với thiện pháp. Như vậy, này các Tỷ-kheo, được gọi là tinh tấn lực.
 
 Và này các Tỷ-kheo, thế nào là tuệ lực?
 
@@ -113,7 +113,7 @@ hợp pháp để tự trách và chỉ trích đến với vị ấy ngay trong
 <!--pg-->
 2. “Trong Thầy (vị ấy nghĩ) không có lòng tín đối với các thiện pháp; trong Thầy không có lòng hổ thẹn
 đối với các thiện pháp; trong Thầy không có lòng sợ hãi đối với các thiện pháp; trong Thầy không có
-tinh tấn đối với các thiện pháp; trong Thầy không có trí tuệ đối với các thiện pháp. “Tỷ-kheo hay Tỷkheo-ni nào, này các Tỷ-kheo, từ bỏ học pháp, trở lui đời sống thế tục, năm vấn đề hợp pháp này để tự
+tinh tấn đối với các thiện pháp; trong Thầy không có trí tuệ đối với các thiện pháp. “Tỷ-kheo hay Tỷ-kheo-ni nào, này các Tỷ-kheo, từ bỏ học pháp, trở lui đời sống thế tục, năm vấn đề hợp pháp này để tự
 trách và chỉ trích đến với vị ấy ngay trong hiện tại.
 
 <!--pg-->
@@ -147,7 +147,7 @@ các Tỷ-kheo, đã bỏ một bên lưỡi liềm và đòn gánh, xuất gia,
 vừa đủ để được gọi: “Vị thiện nam tử vì lòng tin xuất gia”. Vì cớ sao?
 
 <!--pg-->
-2. Các dục, này các Tỷ-kheo, được tìm thấy với tuổi trẻ, các dục này hay các dục khác. Và này các Tỷkheo, các dục hạ liệt, các dục trung đẳng, và các dục tối thắng, tất cả dục đều được chấp nhận là các dục.
+2. Các dục, này các Tỷ-kheo, được tìm thấy với tuổi trẻ, các dục này hay các dục khác. Và này các Tỷ-kheo, các dục hạ liệt, các dục trung đẳng, và các dục tối thắng, tất cả dục đều được chấp nhận là các dục.
 
 <!--pg-->
 3. Ví như, này các Tỷ-kheo, có đứa con nít, trẻ nhỏ, ngây thơ đang nằm ngửa, do người vú vô ý, đức nhỏ
@@ -176,7 +176,7 @@ nào là năm?
 
 <!--pg-->
 2. Không có lòng tin, này các Tỷ-kheo, Tỷ-kheo từ bỏ, không an trú trong diệu pháp. Không có lòng hổ
-thẹn, này các Tỷ-kheo, Tỷ-kheo từ bỏ không an trú trong diệu pháp. Không có lòng sợ hãi, này các Tỷkheo, vị Tỷ-kheo từ bỏ, không an trú trong diệu pháp. Biếng nhác, này các Tỷ-kheo, Tỷ-kheo từ bỏ,
+thẹn, này các Tỷ-kheo, Tỷ-kheo từ bỏ không an trú trong diệu pháp. Không có lòng sợ hãi, này các Tỷ-kheo, vị Tỷ-kheo từ bỏ, không an trú trong diệu pháp. Biếng nhác, này các Tỷ-kheo, Tỷ-kheo từ bỏ,
 không an trú trong diệu pháp. Không có trí tuệ, này các Tỷ-kheo, Tỷ-kheo từ bỏ, không an trú trong diệu
 pháp. Thành tựu năm pháp này, này các Tỷ-kheo, Tỷ-kheo từ bỏ, không an trú trong diệu pháp.
 
@@ -219,7 +219,7 @@ thể lớn lên, tăng trưởng, lớn mạnh trong Pháp và Luật này. Th�
 2. Không có lòng tin, này các Tỷ-kheo, Tỷ-kheo không cung kính, không tôn trọng, không có thể lớn
 lên, tăng trưởng, lớn mạnh trong Pháp và Luật này. Không có lòng hổ thẹn... không có lòng sợ hãi...
 biếng nhác... có ác trí tuệ, này các Tỷ-kheo, Tỷ-kheo không cung kính, không tôn trọng, không có thể
-lớn lên, tăng trưởng, lớn mạnh trong Pháp và Luật này. Thành tựu năm pháp này, này các Tỷ-kheo, Tỷkheo không cung kính, không tôn trọng, không có thể lớn lên, tăng trưởng, lớn mạnh trong Pháp và Luật
+lớn lên, tăng trưởng, lớn mạnh trong Pháp và Luật này. Thành tựu năm pháp này, này các Tỷ-kheo, Tỷ-kheo không cung kính, không tôn trọng, không có thể lớn lên, tăng trưởng, lớn mạnh trong Pháp và Luật
 này.
 
 <!--pg-->

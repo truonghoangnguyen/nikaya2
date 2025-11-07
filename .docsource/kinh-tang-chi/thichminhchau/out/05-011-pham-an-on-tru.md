@@ -86,7 +86,7 @@ nạn, thành tựu ý nghiệp hiểm nạn. Như vậy, này các Tỷ-kheo, t
 Và này các Tỷ-kheo, thế nào là Tỷ-kheo dựa vào rừng rậm?
 
 <!--pg-->
-11. Ở đây, này các Tỷ-kheo, ác Tỷ-kheo có tà kiến và thành tựu tri kiến cực đoan. Như vậy, này các Tỷkheo, là ác Tỷ-kheo dựa vào rừng rậm. Và này các Tỷ-kheo, thế nào là ác Tỷ-kheo dựa vào uy lực?
+11. Ở đây, này các Tỷ-kheo, ác Tỷ-kheo có tà kiến và thành tựu tri kiến cực đoan. Như vậy, này các Tỷ-kheo, là ác Tỷ-kheo dựa vào rừng rậm. Và này các Tỷ-kheo, thế nào là ác Tỷ-kheo dựa vào uy lực?
 
 <!--pg-->
 12. Ở đây, này các Tỷ-kheo, ác Tỷ-kheo dựa vào vua và các vị đại thần của vua. Vị ấy suy nghĩ: “Nếu

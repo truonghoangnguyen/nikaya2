@@ -19,7 +19,7 @@ hạnh được sống.
 
 3\. Này các Tỷ-kheo, do đoạn tận, cắt đứt bảy tùy miên này, Phạm hạnh được sống. Này các Tỷ-kheo,
 khi nào Tỷ-kheo nào đoạn tận dục tham tùy miên... vô minh tùy miên, cắt đứt tận gốc rễ, làm cho như
-thân cây sàla, làm cho không thể tái sanh, làm cho không thể sanh khởi trong tương lai, này các Tỷkheo, đây gọi là Tỷ-kheo đã chặt đứt khát ái, đã giải tỏa tùy miên, với chơn chánh hiện quán kiêu mạn,
+thân cây sàla, làm cho không thể tái sanh, làm cho không thể sanh khởi trong tương lai, này các Tỷ-kheo, đây gọi là Tỷ-kheo đã chặt đứt khát ái, đã giải tỏa tùy miên, với chơn chánh hiện quán kiêu mạn,
 đã đoạn tận khổ đau.
 
 <!--pg-->
@@ -54,7 +54,7 @@ dường, đáng được chắp tay, là ruộng phước vô thượng ở đ�
 
 2\. Ở đây, này các Tỷ-kheo, có hạng người lặn một lần rồi chìm luôn; ở đây, này các Tỷ-kheo, có hạng
 người sau khi nổi lên, lại chìm xuống; ở đây, này các Tỷ-kheo, có hạng người sau khi nổi lên, được
-đứng lại; ở đây, này các Tỷ-kheo, có hạng người sau khi nổi lên, lại nhìn và thấy; ở đây, này các Tỷkheo, có hạng người sau khi nổi lên lại bơi tới; ở đây, này các Tỷ-kheo, có hạng người sau khi nổi lên,
+đứng lại; ở đây, này các Tỷ-kheo, có hạng người sau khi nổi lên, lại nhìn và thấy; ở đây, này các Tỷ-kheo, có hạng người sau khi nổi lên lại bơi tới; ở đây, này các Tỷ-kheo, có hạng người sau khi nổi lên,
 đạt được chỗ có chân đứng; ở đây, này các Tỷ-kheo, có hạng người sau khi nổi lên, sau khi bơi qua đến
 được bờ bên kia, lên đứng trên đất liền, là một vị Bà-la-môn. Và này các Tỷ-kheo, thế nào là hạng
 người, lặn một lần rồi chìm luôn?

@@ -31,7 +31,7 @@ Do chặn đứng bảy pháp này, này các Tỷ-kheo, thành vị A-la-hán.
 1. - Này các Tỷ-kheo, có bảy phi diệp pháp này. Thế nào là bảy?
 
 <!--pg-->
-2. Bất tín, không xấu hổ, không sợ hãi, không nghe nhiều, biếng nhác, thất niệm, ác tuệ. Này các Tỷkheo, có bảy phi diệu pháp này.
+2. Bất tín, không xấu hổ, không sợ hãi, không nghe nhiều, biếng nhác, thất niệm, ác tuệ. Này các Tỷ-kheo, có bảy phi diệu pháp này.
 
 **(X)(10) Diệu Pháp**
 

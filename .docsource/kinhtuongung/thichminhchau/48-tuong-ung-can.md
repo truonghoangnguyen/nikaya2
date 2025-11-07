@@ -35,7 +35,7 @@ không còn bị thối đọa, quyết chắc chứng quả giác ngộ.
 2\. − Này các Tỷ-kheo, có năm căn này. Thế nào là năm? Tín căn... tuệ căn.
 
 3\. Khi nào vị Thánh đệ tử, này các Tỷ-kheo, sau khi như thật rõ biết sự tập khởi, sự đoạn diệt, vị ngọt,
-sự nguy hiểm và sự xuất ly của năm căn này, được giải thoát không có chấp thủ; khi ấy, này các Tỷkheo, vị Thánh đệ tử ấy được gọi là vị A-la-hán, lậu hoặc đã được đoạn tận, Phạm hạnh đã thành, các
+sự nguy hiểm và sự xuất ly của năm căn này, được giải thoát không có chấp thủ; khi ấy, này các Tỷ-kheo, vị Thánh đệ tử ấy được gọi là vị A-la-hán, lậu hoặc đã được đoạn tận, Phạm hạnh đã thành, các
 việc nên làm đã làm, đã đặt gánh nặng xuống, đã đạt được mục đích, hữu kiết sử đã được đoạn tận,
 chánh trí, giải thoát.
 
@@ -46,7 +46,7 @@ chánh trí, giải thoát.
 2\. Này các Tỷ-kheo, có năm căn này. Thế nào là năm? Tín căn... tuệ căn...
 
 3\. Khi nào Tỷ-kheo, này các Tỷ-kheo, sau khi như thật rõ biết sự tập khởi, sự chấm dứt, vị ngọt, sự nguy
-hiểm và sự xuất ly của năm căn này, được giải thoát không có chấp thủ; khi ấy, này các Tỷ-kheo, Tỷkheo ấy được gọi là vị A-la-hán, các lậu hoặc đã đoạn tận, Phạm hạnh đã thành, các việc nên làm đã
+hiểm và sự xuất ly của năm căn này, được giải thoát không có chấp thủ; khi ấy, này các Tỷ-kheo, Tỷ-kheo ấy được gọi là vị A-la-hán, các lậu hoặc đã đoạn tận, Phạm hạnh đã thành, các việc nên làm đã
 làm, đã đặt gánh nặng xuống, đã đạt được mục đích, hữu kiết sử đã được đoạn tận, chánh trí, giải thoát.
 
 ### 6. VI. Sa Môn, Bà La Môn (1) (Tạp 26,9, Ðại 2,182c) (S.v,194)
@@ -56,7 +56,7 @@ làm, đã đặt gánh nặng xuống, đã đạt được mục đích, hữu
 2\. − Này các Tỷ-kheo, có năm căn này. Thế nào là năm? Tín căn... tuệ căn...
 
 3\. Những vị Sa-môn hay Bà-la-môn nào, này các Tỷ-kheo, không như thật rõ biết sự tập khởi, sự chấm
-dứt, vị ngọt, sự nguy hiểm và sự xuất ly năm căn này; những Sa-môn hay Bà-la-môn ấy, này các Tỷkheo, không được chấp nhận là Sa-môn giữa các hàng Sa-môn, hay không được chấp nhận là Bà-la-môn
+dứt, vị ngọt, sự nguy hiểm và sự xuất ly năm căn này; những Sa-môn hay Bà-la-môn ấy, này các Tỷ-kheo, không được chấp nhận là Sa-môn giữa các hàng Sa-môn, hay không được chấp nhận là Bà-la-môn
 giữa các hàng Bà-la-môn; và những bậc Tôn giả ấy, ngay trong hiện tại, cũng không tự mình chứng ngộ
 với thượng trí, chứng đạt và an trú mục đích của Sa-môn hạnh, hay mục đích của Bà-la-môn hạnh.
 
@@ -272,7 +272,7 @@ bậc Tùy pháp hành. Yếu nhẹ hơn là bậc Tùy tín hành.
 
 1\. ...
 
-2\. − Này các Tỷ-kheo, có năm căn này. Thế nào là năm? Tín căn... tuệ căn. Các pháp này, này các Tỷkheo, là năm căn.
+2\. − Này các Tỷ-kheo, có năm căn này. Thế nào là năm? Tín căn... tuệ căn. Các pháp này, này các Tỷ-kheo, là năm căn.
 
 3\. Với sự toàn diện, này các Tỷ-kheo, với sự viên mãn năm căn này, là bậc A-la-hán. Yếu nhẹ hơn là
 bậc Trung gian Bát-niết-bàn... là bậc Tùy tín hành.
@@ -406,7 +406,7 @@ thối đọa, quyết định đạt tới Chánh Ðẳng Giác.
 2\. − Này các Tỷ-kheo, có sáu căn này. Thế nào là sáu? Nhãn căn... ý căn.
 
 3\. Khi nào Tỷ-kheo, này các Tỷ-kheo,sau khi như thật rõ biết sự tập khởi, sự chấm dứt, vị ngọt, sự nguy
-hiểm và sự xuất ly khỏi sáu căn này, được giải thoát, không có chấp thủ; khi ấy, này các Tỷ-kheo, Tỷkheo ấy được gọi là bậc A-la-hán, các lậu hoặc đã được đoạn tận, Phạm hạnh đã thành, các việc nên làm
+hiểm và sự xuất ly khỏi sáu căn này, được giải thoát, không có chấp thủ; khi ấy, này các Tỷ-kheo, Tỷ-kheo ấy được gọi là bậc A-la-hán, các lậu hoặc đã được đoạn tận, Phạm hạnh đã thành, các việc nên làm
 đã làm, đã gặt gánh nặng xuống, đã đạt được mục đích, hữu kiết sử đã được đoạn diệt, chánh trí, giải
 thoát.
 
@@ -419,7 +419,7 @@ thoát.
 3\. Cho đến khi nào, này các Tỷ-kheo, Ta chưa như thật chứng tri sự tập khởi, sự chấm dứt, vị ngọt, sự
 nguy hiểm và sự xuất ly khỏi sáu căn này, cho đến khi ấy, này các Tỷ-kheo, Ta không biết rõ ý nghĩa về
 sự chứng ngộ vô thượng Chánh đẳng Chánh giác đối với các thế giới, như Thiên giới, Ma giới, Phạm
-thiên giới, với các chúng Sa-môn, Bà-la-môn, chư Thiên và loài Người. Cho đến khi nào, này các Tỷkheo, Ta như thật chứng tri sự tập khởi, sự chấm dứt, vị ngọt, sự nguy hiểm và sự xuất ly khỏi sáu căn
+thiên giới, với các chúng Sa-môn, Bà-la-môn, chư Thiên và loài Người. Cho đến khi nào, này các Tỷ-kheo, Ta như thật chứng tri sự tập khởi, sự chấm dứt, vị ngọt, sự nguy hiểm và sự xuất ly khỏi sáu căn
 này, cho đến khi ấy, này các Tỷ-kheo, Ta mới nhận biết rõ ý nghĩa về sự chứng ngộ vô thượng Chánh
 đẳng Chánh giác đối với các thế giới, như Thiên giới, Ma giới, Phạm thiên giới, với các chúng Sa-môn,
 Bà-la-môn, chư Thiên và loài Người.
@@ -436,7 +436,7 @@ Tỷ-kheo, không được chấp nhận là Sa-môn giữa các hàng Sa-môn, 
 mình chứng ngộ với thắng trí, chứng đạt và an trú mục đích của Sa-môn hạnh, hay mục đích của Bà-lamôn hạnh.
 
 4\. Những vị Sa-môn hay Bà-la-môn nào, này các Tỷ-kheo, như thật rõ biết sự tập khởi, sự chấm dứt, vị
-ngọt, sự nguy hiểm và sự xuất ly khỏi sáu căn này; những vị Sa-môn hay Bà-la-môn ấy, này các Tỷkheo, được chấp nhận là Sa-môn giữa các hàng Sa-môn, hay được chấp nhận là Bà-la-môn giữa các
+ngọt, sự nguy hiểm và sự xuất ly khỏi sáu căn này; những vị Sa-môn hay Bà-la-môn ấy, này các Tỷ-kheo, được chấp nhận là Sa-môn giữa các hàng Sa-môn, hay được chấp nhận là Bà-la-môn giữa các
 hàng Bà-la-môn; và những bậc Tôn giả ấy, ngay trong hiện tại, tự mình chứng ngộ với thắng trí, chứng
 đạt và an trú mục đích của Sa-môn hạnh, hay mục đích của Bà-la-môn hạnh.
 
@@ -500,11 +500,11 @@ thoát.
 2\. − Này các Tỷ-kheo, có năm căn này. Thế nào là năm? Lạc căn... xả căn.
 
 3\. Vị Sa-môn hay Bà-la-môn nào, này các Tỷ-kheo, không như thật rõ biết sự tập khởi, sự chấm dứt, vị
-ngọt, sự nguy hiểm và sự xuất ly khỏi năm căn này; những vị Sa-môn hay Bà-la-môn ấy, này các Tỷkheo, không được chấp nhận là Sa-môn trong các hàng Sa-môn, hay không được chấp nhận là Bà-lamôn trong các hàng Bà-la-môn; và những bậc Tôn giả ấy, ngay trong hiện tại, không tự mình chứng ngộ
+ngọt, sự nguy hiểm và sự xuất ly khỏi năm căn này; những vị Sa-môn hay Bà-la-môn ấy, này các Tỷ-kheo, không được chấp nhận là Sa-môn trong các hàng Sa-môn, hay không được chấp nhận là Bà-lamôn trong các hàng Bà-la-môn; và những bậc Tôn giả ấy, ngay trong hiện tại, không tự mình chứng ngộ
 với thắng trí, chứng đạt và an trú mục đích của Sa-môn hạnh, hay mục đích của Bà-la-môn hạnh.
 
 4\. Những vị Sa-môn hay Bà-la-môn nào, này các Tỷ-kheo, như thật rõ biết sự tập khởi, sự chấm dứt, vị
-ngọt, sự nguy hiểm và sự xuất ly khỏi năm căn này; những vị Sa-môn hay Bà-la-môn ấy, này các Tỷkheo, được chấp nhận là Sa-môn trong các hàng Sa-môn, hay được chấp nhận là Bà-la-môn trong các
+ngọt, sự nguy hiểm và sự xuất ly khỏi năm căn này; những vị Sa-môn hay Bà-la-môn ấy, này các Tỷ-kheo, được chấp nhận là Sa-môn trong các hàng Sa-môn, hay được chấp nhận là Bà-la-môn trong các
 hàng Bà-la-môn; và những bậc Tôn giả ấy, ngay trong hiện tại, cũng tự mình chứng ngộ với thắng trí,
 chứng đạt và an trú mục đích của Sa-môn hạnh, hay mục đích của Bà-la-môn hạnh.
 
@@ -539,7 +539,7 @@ thuộc về thân, cái gì lạc do thân xúc sanh, cái gì thích thú đư
 là lạc căn.
 
 4\. Và này các Tỷ-kheo, thế nào là khổ căn? Này các Tỷ-kheo, cái gì khổ thuộc về thân, cái gì không
-thích thú thuộc về thân, cái gì khổ do thân xúc sanh, cái gì không thích thú được cảm thọ; này các Tỷkheo, đây được gọi là khổ căn.
+thích thú thuộc về thân, cái gì khổ do thân xúc sanh, cái gì không thích thú được cảm thọ; này các Tỷ-kheo, đây được gọi là khổ căn.
 
 5\. Và này các Tỷ-kheo, thế nào là hỷ căn (somanassa)? Này các Tỷ-kheo, cái gì lạc thuộc về tâm, cái gì
 thích thú thuộc về tâm, cái gì lạc do ý xúc sanh, cái gì thích thú được cảm thọ; này các Tỷ-kheo, đây
@@ -913,7 +913,7 @@ Pindolabhàradvàja đã tuyên bố với chánh trí rằng: "Ta rõ biết: S
 này nữa".
 
 7\. Và này các Tỷ-kheo, ba căn này, chúng đi đến tận cùng ở đâu? Tận cùng đi đến đoạn diệt. Ði đến
-đoạn diệt cái gì? Ði đến đoạn diệt gì? − Sanh già và chết. Vì thấy sanh già và chết đoạn diệt, này các Tỷkheo, nên Tỷ-kheo Pindolabhàradvàja đã tuyên bố với chánh trí rằng: "Ta rõ biết: Sanh đã tận, Phạm
+đoạn diệt cái gì? Ði đến đoạn diệt gì? − Sanh già và chết. Vì thấy sanh già và chết đoạn diệt, này các Tỷ-kheo, nên Tỷ-kheo Pindolabhàradvàja đã tuyên bố với chánh trí rằng: "Ta rõ biết: Sanh đã tận, Phạm
 hạnh đã thành, những việc nên làm đã làm, không còn trở lui trạng thái này nữa".
 
 ### 50. X. Tín, hay Ngôi Chợ (S.v,225)
@@ -1010,7 +1010,7 @@ nào Thánh trí khởi lên nơi Thánh đệ tử, này các Tỷ-kheo, cho đ
 Tỷ-kheo, cho đến khi nào xà ngang của một nóc nhà có mái nhọn được gác qua, cho đến khi ấy, các kèo
 nhà được đẳng trú, cho đến khi ấy, các kèo nhà được an trú. Cũng vậy, này các Tỷ-kheo, cho đến khi
 nào Thánh trí chưa khởi lên nơi vị Thánh đệ tử, cho đến khi ấy, bốn căn chưa được đẳng trú, cho đến khi
-ấy, bốn căn chưa được an trú. Và cho đến khi nào Thánh trí khởi lên nơi vị Thánh đệ tử, này các Tỷkheo, cho đến khi ấy, bốn căn được đẳng trú, cho đến khi ấy, bốn căn được an trú. Thế nào là bốn? Tín
+ấy, bốn căn chưa được an trú. Và cho đến khi nào Thánh trí khởi lên nơi vị Thánh đệ tử, này các Tỷ-kheo, cho đến khi ấy, bốn căn được đẳng trú, cho đến khi ấy, bốn căn được an trú. Thế nào là bốn? Tín
 căn, tấn căn, niệm căn, định căn.
 
 5\. Với vị Thánh đệ tử có trí tuệ, này các Tỷ-kheo, tất nhiên lòng tin được đẳng trú, tất nhiên tinh tấn

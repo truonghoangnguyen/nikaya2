@@ -787,7 +787,7 @@ như hối lộ, gian trá, lừa đảo, gạt lường; từ bỏ không làm 
 giật, cưỡng đoạt.
 
 10\. Vị ấy sống biết đủ, bằng lòng với tâm y để che thân, với đồ ăn khất thực để nuôi bụng, đi tại chỗ nào
-cũng mang theo (y và bình bát), như con chim bay đến chỗ nào cũng mang theo hai cánh. Cũng vậy, Tỷkheo bằng lòng với tâm y để che thân, với đồ ăn khất thực để nuôi bụng, đi tại chỗ nào cũng mang theo.
+cũng mang theo (y và bình bát), như con chim bay đến chỗ nào cũng mang theo hai cánh. Cũng vậy, Tỷ-kheo bằng lòng với tâm y để che thân, với đồ ăn khất thực để nuôi bụng, đi tại chỗ nào cũng mang theo.
 Vị ấy thành tựu. Thánh giới uẩn này, nội tâm hưởng lạc không có lỗi lầm.
 
 11\. Khi mắt thấy sắc, vị ấy không nắm giữ tướng chung, không nắm giữ tướng riêng. Do nguyên nhân gì
@@ -912,7 +912,7 @@ từ luyến ái.
 Ở đây, này các Tỷ-kheo, có người không khả lạc, khả hỷ, khả ý đối với một người. Rồi các người khác
 đối với người ấy không khả lạc, không khả hỷ, không khả ý. Người kia suy nghĩ như sau: “Người này
 không khả lạc, khả hỷ, khả ý đối với ta. Và các người khác đối xử với người ấy không khả lạc, không
-khả hỷ, không khả ý”. Do đó người ấy khởi lên luyến ái đối với các người ấy. Như vậy, này các Tỷkheo, là luyến ái được sanh khởi từ sân.
+khả hỷ, không khả ý”. Do đó người ấy khởi lên luyến ái đối với các người ấy. Như vậy, này các Tỷ-kheo, là luyến ái được sanh khởi từ sân.
 
 5\. Và này các Tỷ-kheo, như thế nào là lòng sân được sanh khởi từ lòng sân?
 

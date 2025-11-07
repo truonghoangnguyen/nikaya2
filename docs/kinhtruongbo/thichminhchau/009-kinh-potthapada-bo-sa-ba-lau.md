@@ -84,7 +84,7 @@ Còn vị ấy thì tránh xa các tà mạng kể trên... như vậy là giớ
 
 8\. Này Potthapàda, và như vậy Tỷ-kheo ấy nhờ đầy đủ giới luật nên không thấy sợ hãi từ một chỗ nào về
 phương diện hộ trì giới luật. Này Potthapàda, như một Sát-đế-lỵ đã làm lễ quán đảnh, đã hàng phục kẻ
-thù địch, không còn thấy sợ hãi từ chỗ nào nữa về phương diện thù địch. Cũng vậy, này Potthapàda, Tỷkheo ấy nhờ đầy đủ giới luật nên không thấy sợ hãi từ một chỗ nào về phương diện hộ trì giới luật. Vị ấy
+thù địch, không còn thấy sợ hãi từ chỗ nào nữa về phương diện thù địch. Cũng vậy, này Potthapàda, Tỷ-kheo ấy nhờ đầy đủ giới luật nên không thấy sợ hãi từ một chỗ nào về phương diện hộ trì giới luật. Vị ấy
 nhờ đầy đủ giới luật cao quý này, nên hưởng lạc thọ nội tâm không lỗi lầm. Như vậy, này Potthapàda,
 Tỷ-kheo đầy đủ giới luật.
 

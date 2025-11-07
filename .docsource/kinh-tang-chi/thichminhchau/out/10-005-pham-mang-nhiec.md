@@ -113,7 +113,7 @@ của vua.
 
 <!--pg-->
 4. Lại nữa, này các Tỷ-kheo, trong hậu cung của vua có một châu báu bị mất cắp. Ở đây, vua khởi lên ý
-nghĩ: “Không có một ai vào đây, trừ vị xuất gia. Có thể là vị xuất gia đã làm như vậy”. Này các Tỷkheo, đây là sự nguy hại thứ ba, khi vào hậu cung của cung.
+nghĩ: “Không có một ai vào đây, trừ vị xuất gia. Có thể là vị xuất gia đã làm như vậy”. Này các Tỷ-kheo, đây là sự nguy hại thứ ba, khi vào hậu cung của cung.
 
 <!--pg-->
 5. Lại nữa, này các Tỷ-kheo, trong hậu cung của vua, có những việc cơ mật bị tiết lộ ra ngoài. Ở đây,

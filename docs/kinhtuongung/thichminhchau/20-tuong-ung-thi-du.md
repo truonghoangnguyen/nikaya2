@@ -215,7 +215,7 @@ Như vậy, này các Tỷ-kheo, các Ông cần phải học tập.
 5\. Ngồi xuống một bên, các vị Tỷ-kheo ấy bạch Thế Tôn:
 
 − Ở đây, bạch Thế Tôn, có người tân Tỷ-kheo đi đến các gia đình quá nhiều thì giờ. Các Tỷ-kheo nói
-với Tỷ-kheo ấy: "Tôn giả chớ có đi đến các gia đình quá nhiều thì giờ". Ðược các Tỷ-kheo nói vậy, Tỷkheo ấy nói: "Những Trưởng lão Tỷ-kheo này nghĩ rằng họ có thể đi đến các gia đình. Sao không phải
+với Tỷ-kheo ấy: "Tôn giả chớ có đi đến các gia đình quá nhiều thì giờ". Ðược các Tỷ-kheo nói vậy, Tỷ-kheo ấy nói: "Những Trưởng lão Tỷ-kheo này nghĩ rằng họ có thể đi đến các gia đình. Sao không phải
 ta?"
 
 6\. − Thuở xưa, này các Tỷ-kheo, gần một hồ nước lớn, tại một khu rừng, các con voi sống ở đấy. Chúng

@@ -102,7 +102,7 @@ với mục đích nghe các thiên âm mỹ diệu, thích thú, phấn khởi.
 mỹ diệu, thích thú, phấn khởi nhưng không với mục đích thấy các thiên sắc mỹ diệu, thích thú, phấn
 khởi. Vì vị này tu định nhất hướng, hướng về phía Ðông với mục đích nghe các thiên âm mỹ diệu, thích
 thú, phấn khởi, nhưng không với mục đích thấy các thiên sắc mỹ diệu, thích thú, phấn khởi, nên vị này
-nghe được về phía Ðông các thiên âm mỹ diệu, thích thú, phấn khởi. Vì sao vậy? Này Mahàli, vì vị Tỷkheo này trong khi tu định nhứt hướng, hướng về phía Ðông, chỉ với mục đích nghe các thiên âm mỹ
+nghe được về phía Ðông các thiên âm mỹ diệu, thích thú, phấn khởi. Vì sao vậy? Này Mahàli, vì vị Tỷ-kheo này trong khi tu định nhứt hướng, hướng về phía Ðông, chỉ với mục đích nghe các thiên âm mỹ
 diệu, thích thú, phấn khởi nhưng không với mục đích thấy các thiên sắc mỹ diệu, thích thú, phấn khởi.
 
 9\. Lại nữa, này Mahàli, có Tỷ-kheo tu định nhứt hướng, hướng về phía Nam... hướng về phía Tây...
@@ -145,7 +145,7 @@ chứng được những pháp ấy sống đời phạm hạnh, dưới sự ch
 
 <!--pg-->
 − Này Mahàli, ở đây Tỷ-kheo đoạn dứt ba kiết sử, thành bậc Dự lưu, không đọa ác thú, chắc chắn đạt
-quả Bồ-đề. Này Mahàli, pháp này cao thượng và thù thắng hơn, vì muốn chứng được pháp này, các Tỷkheo sống phạm hạnh dưới sự chỉ dạy của Ta.
+quả Bồ-đề. Này Mahàli, pháp này cao thượng và thù thắng hơn, vì muốn chứng được pháp này, các Tỷ-kheo sống phạm hạnh dưới sự chỉ dạy của Ta.
 Lại nữa, này Mahàli, Tỷ-kheo đoạn dứt ba kiết sử làm nhẹ bớt tham, sân, si, thành bậc Nhứt lai, còn phải
 sanh lại trong đời này một lần nữa trước khi diệt hẳn khổ đau. Này Mahàli, pháp này cao thượng hơn và
 thù thắng hơn. Vì muốn chứng được pháp này, các Tỷ-kheo sống phạm hạnh, dưới sự chỉ dạy của Ta.

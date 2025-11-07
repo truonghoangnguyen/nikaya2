@@ -90,12 +90,12 @@ nhất, này các Tỷ-kheo, trong sự tịnh tín đối với một người.
 3\. Lại nữa, này các Tỷ-kheo, trong người nào, một người có lòng tịnh tín, và vị ấy rơi vào một tội phạm,
 và tùy theo tội phạm ấy, chúng Tăng bắt vị ấy ngồi vào phía cuối. Người này suy nghĩ: “Người mà ta ái
 mộ ưa thích, vị ấy bị chúng Tăng bắt ra ngồi phía cuối”, và người này không còn nhiều tịnh tín đối với
-các Tỷ-kheo. Do không còn nhiều tịnh tín đối với các Tỷ-kheo, người này không có liên hệ đến các Tỷkheo khác. Do không liên hệ với các Tỷ-kheo khác, người này không nghe diệu pháp. Do không nghe
+các Tỷ-kheo. Do không còn nhiều tịnh tín đối với các Tỷ-kheo, người này không có liên hệ đến các Tỷ-kheo khác. Do không liên hệ với các Tỷ-kheo khác, người này không nghe diệu pháp. Do không nghe
 diệu pháp, người này thối đọa khỏi Chánh pháp. Ðây là nguy hại thứ hai, này các Tỷ-kheo, trong sự tịnh
 tín đối với một người.
 
 4\. Lại nữa, này các Tỷ-kheo, trong người nào, một người có lòng tịnh tín, rồi người ấy đi vào một địa
 phương khác...người ấy bị loạn tâm...người ấy mạng chung. Người này suy nghĩ: “Người mà ta ái mộ ưa
-thích, vị ấy mạng chung”. Người này không liên hệ đến các Tỷ-kheo khác. Do không liên hệ với các Tỷkheo khác, người này không nghe diệu pháp. Do không nghe diệu pháp, người này thối đọa khỏi Chánh
+thích, vị ấy mạng chung”. Người này không liên hệ đến các Tỷ-kheo khác. Do không liên hệ với các Tỷ-kheo khác, người này không nghe diệu pháp. Do không nghe diệu pháp, người này thối đọa khỏi Chánh
 pháp. Ðây là nguy hại thứ năm, này các Tỷ-kheo, trong sự tịnh tín đối với một người.
 

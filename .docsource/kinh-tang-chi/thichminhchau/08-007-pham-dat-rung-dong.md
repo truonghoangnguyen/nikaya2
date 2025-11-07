@@ -21,7 +21,7 @@ phóng dật, và bỏ rơi diệu pháp.
 4. Ở đây, này các Tỷ-kheo, Có vị Tỷ-kheo trong khi sống nhàn tịnh, không có tinh tấn khởi lên ước
 muốn có lợi dưỡng. Vị ấy không hăng hái, không phấn chấn, không tinh tấn để được lợi dưỡng. Do vị ấy
 không hăng hái, không phấn chấn, không tinh tấn để được lợi dưỡng, lợi dưỡng không khởi lên. Vị ấy
-do không được lợi dưỡng, nên sầu muộn, than van, khóc lóc, đập ngực, rơi vào bất tỉnh. Ðây gọi là Tỷkheo sống ham muốn lợi dưỡng, không hăng hái, không phấn chấn, không tinh tấn để được lợi dưỡng;
+do không được lợi dưỡng, nên sầu muộn, than van, khóc lóc, đập ngực, rơi vào bất tỉnh. Ðây gọi là Tỷ-kheo sống ham muốn lợi dưỡng, không hăng hái, không phấn chấn, không tinh tấn để được lợi dưỡng;
 không được lợi dưỡng, vị ấy sầu muộn, than van, khóc lóc, bỏ rơi diệu pháp.
 
 5. Ở đây, này các Tỷ-kheo, Tỷ-kheo trong khi sống nhàn tịnh, không có tinh tấn khởi lên ước muốn có

@@ -82,7 +82,7 @@ Tỷ-kheo-ni Kisà Gotamì, vào buổi sáng đắp y, cầm y bát đi vào S�
 ban ngày.
 
 3\. Ác ma muốn làm cho Tỷ-kheo-ni Kisà Gotamì run sợ, hoảng sợ, lông tóc dựng ngược, muốn khiến
-nàng từ bỏ Thiền định, liền đi đến Tỷ-kheo-ni Kisà Gotamì; sau khi đi đến, liền nói lên bài kệ với Tỷkheo-ni Kisà Gotamì:
+nàng từ bỏ Thiền định, liền đi đến Tỷ-kheo-ni Kisà Gotamì; sau khi đi đến, liền nói lên bài kệ với Tỷ-kheo-ni Kisà Gotamì:
 
 _Sao nàng như mất con,_\
 _Một mình, mặt ứa lệ._\

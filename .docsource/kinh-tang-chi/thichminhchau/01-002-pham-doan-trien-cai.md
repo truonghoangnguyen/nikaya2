@@ -10,7 +10,7 @@ các Tỷ-kheo, nếu không như lý tác ý, đưa đến dục tham chưa san
 được tăng trưởng quảng đại.
 
 2. Ta không thấy một pháp nào khác, này các Tỷ-kheo, đưa đến sân chưa sanh được sanh khởi, và sân đã
-sanh được tăng trưởng quảng đại, này các Tỷ-kheo, như đối ngại tướng. Ðối ngại tướng, này các Tỷkheo, nếu theo như lý tác ý, đưa đến sân, chưa sanh được sanh khởi, và sân đã sanh được tăng trưởng
+sanh được tăng trưởng quảng đại, này các Tỷ-kheo, như đối ngại tướng. Ðối ngại tướng, này các Tỷ-kheo, nếu theo như lý tác ý, đưa đến sân, chưa sanh được sanh khởi, và sân đã sanh được tăng trưởng
 quảng đại.
 3. Ta không thấy một pháp nào khác, này các Tỷ-kheo, đưa đến hôn trầm thụy miên đã sanh được tăng
 trưởng quảng đại, này các Tỷ-kheo, như không hân hoan, biếng nhác, chán nản, ăn quá no, tâm thụ
@@ -28,7 +28,7 @@ lý tác ý, này các Tỷ-kheo, nghi hoặc chưa sanh được sanh khởi, v
 quảng đại.
 
 6. Ta không thấy một pháp nào khác, này các Tỷ-kheo, đưa đến dục tham chưa sanh không sanh khởi,
-và dục tham đã sanh được đoạn tận, này các Tỷ-kheo, như tướng bất tịnh. Tướng bất tịnh, này các Tỷkheo, nếu như lý tác ý, thời dục tham chưa sanh không sanh khởi, và dục tham đã sanh được đoạn tận.
+và dục tham đã sanh được đoạn tận, này các Tỷ-kheo, như tướng bất tịnh. Tướng bất tịnh, này các Tỷ-kheo, nếu như lý tác ý, thời dục tham chưa sanh không sanh khởi, và dục tham đã sanh được đoạn tận.
 
 7. Ta không thấy một pháp nào khác, này các Tỷ-kheo, đưa đến sân chưa sanh không sanh khởi, và sân
 đã sanh được đoạn tận, này các Tỷ-kheo, như từ tâm giải thoát. Từ tâm giải thoát, này các Tỷ-kheo, nếu
@@ -38,7 +38,7 @@ như lý tác ý, thời sân chưa sanh không sanh khởi, và sân đã sanh 
 sanh khởi, và sân đã sanh được đoạn tận.
 
 9. Ta không thấy một pháp nào khác, này các Tỷ-kheo, đưa đến trạo hối chưa sanh không sanh khởi, hay
-trạo hối đã sanh được đoạn tận, này các Tỷ-kheo, như tâm tịnh chỉ. Người có tâm tịnh chỉ, này các Tỷkheo, trạo hối chưa sanh không sanh khởi, và trạo hối đã sanh được đoạn tận.
+trạo hối đã sanh được đoạn tận, này các Tỷ-kheo, như tâm tịnh chỉ. Người có tâm tịnh chỉ, này các Tỷ-kheo, trạo hối chưa sanh không sanh khởi, và trạo hối đã sanh được đoạn tận.
 
 10. Ta không thấy một pháp nào khác, này các Tỷ-kheo, đưa đến nghi hoặc chưa sanh không sanh khởi,
 và nghi hoặc đã sanh được đoạn tận, này các Tỷ-kheo, như lý tác ý. Nếu như lý tác ý, này các Tỷ-kheo,

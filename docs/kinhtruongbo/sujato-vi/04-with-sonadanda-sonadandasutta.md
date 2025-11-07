@@ -1,4 +1,4 @@
-# 4. Cùng Soṇadaṇḍa
+# DN 4. Cùng Soṇadaṇḍa
 
 _**Soṇadaṇḍasutta**_
 

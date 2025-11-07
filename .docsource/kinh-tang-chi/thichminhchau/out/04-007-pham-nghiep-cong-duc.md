@@ -280,7 +280,7 @@ Lúc bấy giờ, một Tỷ-kheo ở Sàvatthi bị rắn cắn chết. Rồi n
 <!--pg-->
 2. - Ở đây, bạch Thế Tôn, một Tỷ-kheo ở Sàvatthi bị rắn cắn đã mệnh chung.
 
-− Tỷ-kheo ấy, này các Tỷ-kheo, với từ tâm đã không hướng đến bốn gia đình vua các loài rắn. Nếu Tỷkheo ấy, này các Tỷ-kheo, với từ tâm có hướng đến bốn gia đình vua các loài rắn, thời này các Tỷ-kheo,
+− Tỷ-kheo ấy, này các Tỷ-kheo, với từ tâm đã không hướng đến bốn gia đình vua các loài rắn. Nếu Tỷ-kheo ấy, này các Tỷ-kheo, với từ tâm có hướng đến bốn gia đình vua các loài rắn, thời này các Tỷ-kheo,
 vị ấy có thể không bị rắn cắn mà mạng chung. Thế nào là bốn gia đình vua các loài rắn?
 
 Gia đình vua các loài rắn Virùpakkha, gia đình vua các loài rắn Eràpattha, gia đình vua các loài rắn

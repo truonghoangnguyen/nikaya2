@@ -301,7 +301,7 @@ Kassapa, Ta hoặc Ông phải giáo giới các Tỷ-kheo! Ông hoặc Ta phả
 
 4\. − Bạch Thế Tôn, khó nói là chúng Tỷ-kheo hiện tại. Họ ở trong tình trạng khó nói với họ. Họ không
 kham nhẫn. Họ không kính trọng lời giáo giới. Bạch Thế Tôn, ở đây, con thấy Tỷ-kheo Bhanda, đệ tử
-của Ananda, và Tỷ-kheo Abhinjika, đệ tử của Anuruddha, hai vị ấy nói với nhau: "Hãy đến, này Tỷkheo, ai sẽ nói nhiều hơn? Ai sẽ nói tốt đẹp hơn? Ai sẽ nói dài hơn?".
+của Ananda, và Tỷ-kheo Abhinjika, đệ tử của Anuruddha, hai vị ấy nói với nhau: "Hãy đến, này Tỷ-kheo, ai sẽ nói nhiều hơn? Ai sẽ nói tốt đẹp hơn? Ai sẽ nói dài hơn?".
 
 5\. Rồi Thế Tôn gọi một Tỷ-kheo:
 
@@ -482,7 +482,7 @@ Tỷ-kheo này tên gì? Thật là hiền thiện, Tỷ-kheo này! Thật là m
 
 10\. Ở đây, này Kassapa, các tân Tỷ-kheo suy nghĩ như sau: "Tỷ-kheo nào được nhiều người biết, có
 danh tiếng, nhận được các loại y áo, ẩm thực, sàng tọa, dược phẩm trị bệnh; Tỷ-kheo ấy được các
-Trưởng lão Tỷ-kheo mời ngồi và nói: ‘Hãy đến Tỷ-kheo. Tỷ-kheo này tên gì? Thật là hiền thiện, Tỷkheo này! Thật là muốn sống Phạm hạnh Tỷ-kheo này! Hãy đến, này Tỷ-kheo, hãy ngồi chỗ ngồi này!’".
+Trưởng lão Tỷ-kheo mời ngồi và nói: ‘Hãy đến Tỷ-kheo. Tỷ-kheo này tên gì? Thật là hiền thiện, Tỷ-kheo này! Thật là muốn sống Phạm hạnh Tỷ-kheo này! Hãy đến, này Tỷ-kheo, hãy ngồi chỗ ngồi này!’".
 Các vị ấy thực hành đúng như vậy và như vậy các vị ấy không được hạnh phúc, bị khổ đau trong thời
 gian dài.
 
@@ -676,12 +676,12 @@ có tứ"?
 
 15\. − Này Hiền giả, có phải trước mặt Thế Tôn và giữa chúng Tỷ-kheo Tăng, ta được Thế Tôn đề cập
 như sau: "Tùy theo mong muốn, này các Tỷ-kheo, Ta ly dục, ly bất thiện pháp, chứng đạt và an trú
-Thiền thứ nhất, một trạng thái hỷ lạc do ly dục sanh, có tầm, có tứ. Tùy theo mong muốn, này các Tỷkheo, Kassapa cũng ly dục, ly bất thiện pháp, chứng đạt và an trú Thiền thứ nhất, một trạng thái hỷ lạc
+Thiền thứ nhất, một trạng thái hỷ lạc do ly dục sanh, có tầm, có tứ. Tùy theo mong muốn, này các Tỷ-kheo, Kassapa cũng ly dục, ly bất thiện pháp, chứng đạt và an trú Thiền thứ nhất, một trạng thái hỷ lạc
 do ly dục sanh, có tầm, có tứ"?
 
 16-29. (Chín thứ đệ định và năm trí giống như trên.)
 
-30\. Hiền giả nghĩ thế nào? Này Hiền giả, có phải, này Ananda, trước mặt Thế Tôn và giữa chúng Tỷkheo Tăng, Hiền giả được Thế Tôn đề cập như sau: "Và Ta, này các Tỷ-kheo, với sự đoạn tận các lậu
+30\. Hiền giả nghĩ thế nào? Này Hiền giả, có phải, này Ananda, trước mặt Thế Tôn và giữa chúng Tỷ-kheo Tăng, Hiền giả được Thế Tôn đề cập như sau: "Và Ta, này các Tỷ-kheo, với sự đoạn tận các lậu
 hoặc, ngay trong hiện tại, tự mình với thắng trí, Ta chứng ngộ, chứng đạt và an trú vô lậu tâm giải thoát,
 tuệ giải thoát. Này các Tỷ-kheo, Ananda cũng vậy, với sự đoạn tận các lậu hoặc, ngay trong hiện tại, tự
 mình với thắng trí chứng ngộ, chứng đạt và an trú vô lậu tâm giải thoát, tuệ giải thoát"?
@@ -708,7 +708,7 @@ dưỡng các con sóc.
 
 **I**
 
-2\. Lúc bấy giờ, Tôn giả Ananda đang đi du hành ở Dakhinàgiri (Nam Sơn), cùng với đại chúng Tỷkheo.
+2\. Lúc bấy giờ, Tôn giả Ananda đang đi du hành ở Dakhinàgiri (Nam Sơn), cùng với đại chúng Tỷ-kheo.
 
 3\. Lúc bấy giờ có khoảng ba mươi Tỷ-kheo đệ tử của Tôn giả Ananda, phần lớn còn trẻ tuổi, từ bỏ sự tu
 học và hoàn tục.

@@ -1,4 +1,4 @@
-# 34. Kinh Mười Pháp
+# DN 34. Kinh Mười Pháp
 _**Dasuttarasutta**_
 
 Như vầy tôi nghe.  Một thời Đức Phật đang ở gần

@@ -137,10 +137,10 @@ niệm để chơn chánh đoạn tận khổ đau.
 quyền lực.
 
 Và thế nào, này các Tỷ-kheo, là tên cướp lớn dựa vào quanh co hiểm trở? Ở đây, này các Tỷ-kheo, tên
-cướp lớn dựa vào con sông khó lội qua, hay sự quanh co hiểm trở của núi non. Như vậy, này các Tỷkheo, là tên cướp lớn dựa vào sự quanh co hiểm trở.
+cướp lớn dựa vào con sông khó lội qua, hay sự quanh co hiểm trở của núi non. Như vậy, này các Tỷ-kheo, là tên cướp lớn dựa vào sự quanh co hiểm trở.
 
 Và này các Tỷ-kheo, thế nào là tên cướp lớn dựa vào rừng rậm? Ở đây, này các Tỷ-kheo, tên cướp lớn
-dựa vào rừng rậm cỏ, hay rừng rậm cây, hay khóm rừng, hay đám rừng lớn rậm. Như vậy, này các Tỷkheo, tên cướp lớn dựa vào rừng rậm.
+dựa vào rừng rậm cỏ, hay rừng rậm cây, hay khóm rừng, hay đám rừng lớn rậm. Như vậy, này các Tỷ-kheo, tên cướp lớn dựa vào rừng rậm.
 
 Và này các Tỷ-kheo, thế nào là tên cướp lớn dựa vào kẻ có quyền lực? Ở đây, này các Tỷ-kheo, tên
 cướp lớn dựa vào vua hay các vị đại thần của vua và nghĩ như sau: “Nếu có ai kết tội ta, các vua ấy hay

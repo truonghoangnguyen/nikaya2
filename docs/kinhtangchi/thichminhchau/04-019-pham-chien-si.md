@@ -444,9 +444,9 @@ Này các Tỷ-kheo, có pháp cần phải chứng ngộ bằng thân; có phá
 bằng niệm; có pháp, này các Tỷ-kheo, cần phải chứng ngộ bằng mắt; có pháp, này các Tỷ-kheo, cần
 phải chứng ngộ bằng trí tuệ.
 
-2\. Và này các Tỷ-kheo, thế nào là các pháp cần phải chứng ngộ bằng thân? Tám giải thoát, này các Tỷkheo, cần phải chứng ngộ bằng thân.
+2\. Và này các Tỷ-kheo, thế nào là các pháp cần phải chứng ngộ bằng thân? Tám giải thoát, này các Tỷ-kheo, cần phải chứng ngộ bằng thân.
 
-3\. Và này các Tỷ-kheo, thế nào là các pháp cần phải chứng ngộ bằng niệm? Ðời sống trước, này các Tỷkheo, cần phải chứng ngộ bằng niệm.
+3\. Và này các Tỷ-kheo, thế nào là các pháp cần phải chứng ngộ bằng niệm? Ðời sống trước, này các Tỷ-kheo, cần phải chứng ngộ bằng niệm.
 
 4\. Và này các Tỷ-kheo, thế nào là các pháp cần phải chứng ngộ bằng con mắt? Sanh tử của chúng sanh,
 này các Tỷ-kheo, cần phải chứng ngộ bằng con mắt.
@@ -467,7 +467,7 @@ im lặng, im lặng, rồi Thế Tôn bảo các Tỷ-kheo:
 hội chúng này, thanh tịnh, an lập trên căn bản. Chúng Tỷ-kheo này như vậy, này các Tỷ-kheo, hội chúng
 này như vậy, này các Tỷ-kheo; hội chúng như vậy khó tìm được ở đời! Chúng Tỷ-kheo này như vậy,
 này các Tỷ-kheo, hội chúng như vậy, đáng được tôn trọng, đáng được cung kính, đáng được cúng
-dường, đáng được chắp tay, là ruộng phước vô thượng ở đời. Chúng Tỷ-kheo này như vậy, này các Tỷkheo, hội chúng này như vậy, này các Tỷ-kheo, hội chúng này như vậy dầu cho ít, được lợi nhiều, còn
+dường, đáng được chắp tay, là ruộng phước vô thượng ở đời. Chúng Tỷ-kheo này như vậy, này các Tỷ-kheo, hội chúng này như vậy, này các Tỷ-kheo, hội chúng này như vậy dầu cho ít, được lợi nhiều, còn
 cho nhiều, lại được lợi nhiều hơn nữa. Chúng Tỷ-kheo này như vậy, này các Tỷ-kheo, hội chúng này
 như vậy, này các Tỷ-kheo! Hội chúng này như vậy, nếu phải đi một do tuần để được yết kiến cũng nên
 đi, dầu có phải mang theo trên vai túi đựng đồ ăn. Như vậy, này các Tỷ-kheo, là chúng Tỷ-kheo này.
@@ -488,7 +488,7 @@ chứng và trú Thiền thứ tư và an trú. Như vậy, này các Tỷ-kheo,
 cùng khởi với bi ... với tâm cùng khởi với hỷ ... với tâm cùng khởi với xả, biến mãn một phương và an
 trú. Cũng vậy phương thứ hai, cũng vậy phương thứ ba, cũng vậy phương thứ tư. Như vậy, cùng khắp
 thế giới, trên, dưới, bề ngang, hết thảy phương xứ, cùng khắp vô biên thế giới, vị ấy biến mãn với tâm
-cùng khởi với xả, quảng đại, đại hành, vô biên, không hận, không sân. Như vậy, này các Tỷ-kheo, là Tỷkheo sống đạt được địa vị Phạm Thiên.
+cùng khởi với xả, quảng đại, đại hành, vô biên, không hận, không sân. Như vậy, này các Tỷ-kheo, là Tỷ-kheo sống đạt được địa vị Phạm Thiên.
 
 5\. Và này các Tỷ-kheo, thế nào là Tỷ-kheo sống đạt được địa vị Bất động?
 

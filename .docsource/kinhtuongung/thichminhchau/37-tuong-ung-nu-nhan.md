@@ -217,7 +217,7 @@ mạnh bà con, như vậy người đàn bà ấy không đầy đủ bộ ph�
 ấy.
 
 5\. Và này các Tỷ-kheo, người đàn bà đầy đủ sức mạnh nhan sắc, sức mạnh tài sản, sức mạnh bà con,
-nhưng không có sức mạnh con trai, như vậy người đàn bà ấy không đầy đủ bộ phận ấy. Và này các Tỷkheo, người đàn bà đầy đủ sức mạnh nhan sắc, sức mạnh tài sản, sức mạnh bà con và sức mạnh con trai,
+nhưng không có sức mạnh con trai, như vậy người đàn bà ấy không đầy đủ bộ phận ấy. Và này các Tỷ-kheo, người đàn bà đầy đủ sức mạnh nhan sắc, sức mạnh tài sản, sức mạnh bà con và sức mạnh con trai,
 như vậy người đàn bà ấy đầy đủ bộ phận ấy.
 
 6\. Và này các Tỷ-kheo, người đàn bà đầy đủ sức mạnh nhan sắc, sức mạnh tài sản, sức mạnh bà con, sức

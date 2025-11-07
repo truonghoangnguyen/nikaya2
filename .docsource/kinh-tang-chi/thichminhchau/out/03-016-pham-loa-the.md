@@ -72,7 +72,7 @@ nghiệp, tu tập chánh mạng, tu tập chánh tinh tấn, tu tập chánh ni
 
 − Ðầy đủ ba pháp, này các Tỷ-kheo, tương xứng như vậy, bị rơi vào địa ngục. Thế nào là ba?
 
-Tự mình sát sanh, khích lệ người khác sát sanh, tùy hỷ sự sát sanh. Ðầy đủ ba pháp này, này các Tỷkheo, tương xứng như vậy, bị rơi vào địa ngục.
+Tự mình sát sanh, khích lệ người khác sát sanh, tùy hỷ sự sát sanh. Ðầy đủ ba pháp này, này các Tỷ-kheo, tương xứng như vậy, bị rơi vào địa ngục.
 
 Ðầy đủ ba pháp này, này các Tỷ-kheo, tương xứng như vậy được sanh thiên giới. Thế nào là ba?
 

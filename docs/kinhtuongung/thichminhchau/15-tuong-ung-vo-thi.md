@@ -19,7 +19,7 @@ vâng đáp Thế Tôn.
 các chúng sanh bị vô minh che đậy, bị tham ái trói buộc.
 
 4\. Ví như, này các Tỷ-kheo, có người chặt các cành cỏ, khúc cây, nhành cây, nhành lá, trong cõi Diêmphù-đề này, chất chúng thành một đống, làm chúng thành những que đặt theo hình các ô vuông, cầm
-từng que đặt xuống và nói: "Ðây là mẹ tôi, đây là mẹ của mẹ tôi". Và không thể cùng tận, này các Tỷkheo, là các bà mẹ, mẹ của người ấy. Nhưng nhành cỏ, khúc cây, nhành cây, nhành lá trong cõi Diêmphù-đề này có thể đi đến đoạn tận, đoạn diệt.
+từng que đặt xuống và nói: "Ðây là mẹ tôi, đây là mẹ của mẹ tôi". Và không thể cùng tận, này các Tỷ-kheo, là các bà mẹ, mẹ của người ấy. Nhưng nhành cỏ, khúc cây, nhành cây, nhành lá trong cõi Diêmphù-đề này có thể đi đến đoạn tận, đoạn diệt.
 
 5\. Vì sao? Vô thỉ là luân hồi, này các Tỷ-kheo, khởi điểm không thể nêu rõ đối với lưu chuyển luân hồi
 của các chúng sanh bị vô minh che đậy, bị tham ái trói buộc.
@@ -474,7 +474,7 @@ Thế Tôn ấy đã nhập diệt.
 hành. Bất an như vậy, này các Tỷ-kheo, là các hành. Cho đến như vậy, này các Tỷ-kheo là vừa đủ để
 nhàm chán, là vừa đủ để từ bỏ, là vừa đủ để giải thoát đối với tất cả các hành.
 
-8\. Thuở xưa, này các Tỷ-kheo, núi Vepulla này được biết với tên là Vànkaka. Lúc bấy giờ, này các Tỷkheo, dân chúng được biết với tên là Rohita. Này các Tỷ-kheo, dân chúng Rohita có tuổi thọ đến 30.000
+8\. Thuở xưa, này các Tỷ-kheo, núi Vepulla này được biết với tên là Vànkaka. Lúc bấy giờ, này các Tỷ-kheo, dân chúng được biết với tên là Rohita. Này các Tỷ-kheo, dân chúng Rohita có tuổi thọ đến 30.000
 năm. Này các Tỷ-kheo, dân chúng Rohita phải ba ngày để leo lên núi Vànkaka, phải ba ngày để leo
 xuống.
 
@@ -486,7 +486,7 @@ thượng thủ, hiền thiện tên là Bhìyya và Suttara.
 bậc Thế Tôn ấy đã nhập diệt. Vô thường như vậy, này các Tỷ-kheo, là các hành... là vừa đủ để giải thoát
 đối với tất cả các hành.
 
-11\. Thuở xưa, này các Tỷ-kheo, núi Vepulla này được biết với tên là Supassa. Lúc bấy giờ, này các Tỷkheo, dân chúng được biết với tên là Suppiya. Này các Tỷ-kheo, dân chúng Suppiya có tuổi thọ đến
+11\. Thuở xưa, này các Tỷ-kheo, núi Vepulla này được biết với tên là Supassa. Lúc bấy giờ, này các Tỷ-kheo, dân chúng được biết với tên là Suppiya. Này các Tỷ-kheo, dân chúng Suppiya có tuổi thọ đến
 20.000 năm. Này các Tỷ-kheo, dân chúng Suppiya phải hai ngày để leo núi Supassa, phải hai ngày để
 leo xuống.
 

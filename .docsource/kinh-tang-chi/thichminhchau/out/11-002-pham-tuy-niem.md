@@ -241,7 +241,7 @@ Luật. Này Subhùti, đây là tiêu chuẩn về lòng tin của một ngư�
 
 <!--pg-->
 8. Lại nữa, này Subhùti, Tỷ-kheo sống tinh cần, tinh tấn đoạn trừ các pháp bất thiện, làm cho đầy đủ các
-thiện pháp, nỗ lực, kiên trì, không bỏ rơi gánh nặng đối với các thiện pháp. Này Subhùti, phàm vị Tỷkheo nào sống tinh cần, tinh tấn đoạn trừ các pháp bất thiện, làm cho đầy đủ các thiện pháp, nỗ lực, kiên
+thiện pháp, nỗ lực, kiên trì, không bỏ rơi gánh nặng đối với các thiện pháp. Này Subhùti, phàm vị Tỷ-kheo nào sống tinh cần, tinh tấn đoạn trừ các pháp bất thiện, làm cho đầy đủ các thiện pháp, nỗ lực, kiên
 trì không bỏ rơi gánh nặng đối với các thiện pháp. Này Subhùti, đây là tiêu chuẩn về lòng tin của một
 người có lòng tin.
 
@@ -291,7 +291,7 @@ những lỗi nhỏ nhặt, chấp nhận và tu học trong các học pháp. B
 thọ trì những gì đã nghe, chất chứa tích tập những gì đã nghe, những pháp nào sơ thiện, trung thiện, hậu
 thiện, có nghĩa, có văn, đề cao đời sống Phạm hạnh hoàn toàn viên mãn thanh tịnh. Những pháp ấy, vị
 ấy đã nghe nhiều, đã thọ trì, đã tụng đọc bằng lời, đã quán sát với ý, đã thể nhập với chánh kiến. Bạch
-Thế Tôn, Tỷ-kheo này làm bạn với thiện, thân hữu với thiện, giao thiệp với thiện. Bạch Thế Tôn, Tỷkheo này là người dễ nói, thành tựu những pháp tác thành người dễ nói, kham nhẫn và khéo chấp nhận
+Thế Tôn, Tỷ-kheo này làm bạn với thiện, thân hữu với thiện, giao thiệp với thiện. Bạch Thế Tôn, Tỷ-kheo này là người dễ nói, thành tựu những pháp tác thành người dễ nói, kham nhẫn và khéo chấp nhận
 những lời giáo giới. Bạch Thế Tôn, Tỷ-kheo này, phàm có những công việc gì cần phải làm, hoặc lớn,
 hoặc nhỏ, đối với các vị đồng Phạm hạnh, ở đây, vị ấy khéo léo và tinh cần, thành tựu sự quán sát các
 phương tiện vừa đủ để làm, vừa đủ để tổ chức. Bạch Thế Tôn, Tỷ-kheo này ưa pháp, lời nói dễ thương,
@@ -455,7 +455,7 @@ nào là Tỷ-kheo không thiện xảo trong các tướng?
 
 <!--pg-->
 6. Ở đây, này các Tỷ-kheo, Tỷ-kheo không như thật quán tri nghiệp tướng của người ngu, nghiệp tướng
-của người trí. Như vậy, này các Tỷ-kheo, là Tỷ-kheo không thiện xảo trong các tướng. Và này các Tỷkheo, như thế nào là Tỷ-kheo không trừ khử trứng ruồi?
+của người trí. Như vậy, này các Tỷ-kheo, là Tỷ-kheo không thiện xảo trong các tướng. Và này các Tỷ-kheo, như thế nào là Tỷ-kheo không trừ khử trứng ruồi?
 
 <!--pg-->
 7. Ở đây, này các Tỷ-kheo, Tỷ-kheo đối với dục tầm được khởi lên, chấp nhận, không từ bỏ, không tẩy
@@ -475,7 +475,7 @@ chung, nắm giữ tướng riêng. những nguyên nhân gì, vì ý căn khôn
 bất thiện pháp khởi lên, Tỷ-kheo không chế ngự nguyên nhân ấy, không hộ trì ý căn, không thực hành
 sự hộ trì ý căn.
 
-Như vậy, này các Tỷ-kheo, là Tỷ-kheo không băng bó vết thương. Và này các Tỷ-kheo, thế nào là Tỷkheo không xông khói?
+Như vậy, này các Tỷ-kheo, là Tỷ-kheo không băng bó vết thương. Và này các Tỷ-kheo, thế nào là Tỷ-kheo không xông khói?
 
 <!--pg-->
 9. Ở đây, này các Tỷ-kheo, Tỷ-kheo không thuyết pháp rộng rãi cho các người khác, như đã được nghe,
@@ -556,7 +556,7 @@ thế nào là Tỷ-kheo biết sắc?
 
 <!--pg-->
 20. Ở đây, này các Tỷ-kheo, Tỷ-kheo, phàm sắc gì do bốn đại hay do bốn đại tác thành, vị ấy như thật
-quán trị sắc ấy. Như vậy, này các Tỷ-kheo, là Tỷ-kheo biết sắc. Và này các Tỷ-kheo, như thế nào là Tỷkheo thiện xảo trong các tướng?
+quán trị sắc ấy. Như vậy, này các Tỷ-kheo, là Tỷ-kheo biết sắc. Và này các Tỷ-kheo, như thế nào là Tỷ-kheo thiện xảo trong các tướng?
 
 <!--pg-->
 21. Ở đây, này các Tỷ-kheo, Tỷ-kheo như thật quán tri nghiệp tướng của người ngu, nghiệp tướng của
@@ -608,7 +608,7 @@ Như vậy, này các Tỷ-kheo, là Tỷ-kheo rõ biết con đường. Và nà
 xảo trong các chỗ bò ăn cỏ?
 
 <!--pg-->
-28. Ở đây, này các Tỷ-kheo, Tỷ-kheo như thật quán tri Bốn niệm xứ. Như vậy, này các Tỷ-kheo, Tỷkheo thiện xảo trong các chỗ bò ăn cỏ. Và này các Tỷ-kheo, như thế nào là Tỷ-kheo nặn sữa bò còn để
+28. Ở đây, này các Tỷ-kheo, Tỷ-kheo như thật quán tri Bốn niệm xứ. Như vậy, này các Tỷ-kheo, Tỷ-kheo thiện xảo trong các chỗ bò ăn cỏ. Và này các Tỷ-kheo, như thế nào là Tỷ-kheo nặn sữa bò còn để
 sữa lại?
 
 <!--pg-->
@@ -707,7 +707,7 @@ _là Tôn giả Sàriputta)._
 thể không có tưởng; tuy vậy, vị ấy vẫn có tưởng?
 
 − Thưa Hiền giả, chúng tôi từ xa đi đến để được biết ý nghĩa của lời nói này từ Tôn giả Sàriputta. Lành
-thay, nếu ý nghĩa lời nói này được Tôn giả Sàriputta nói lên. Sau khi nghe Tôn giả Sàriputta, các Tỷkheo sẽ thọ trì.
+thay, nếu ý nghĩa lời nói này được Tôn giả Sàriputta nói lên. Sau khi nghe Tôn giả Sàriputta, các Tỷ-kheo sẽ thọ trì.
 
 − Vậy này chư Hiền, hãy nghe và khéo tác ý, tôi sẽ nói.
 

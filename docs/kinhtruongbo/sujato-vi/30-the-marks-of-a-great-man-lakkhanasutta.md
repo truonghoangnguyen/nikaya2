@@ -1,4 +1,4 @@
-# 30. Các Tướng của Bậc Đại Nhân
+# DN 30. Các Tướng của Bậc Đại Nhân
 _**Kinh Tướng (Lakkhaṇasutta)**_
 
 Như vầy tôi nghe. Một thời Thế Tôn trú ở Sāvatthī, tại Tịnh xá ông Anāthapiṇḍika, trong Rừng Jeta. Tại đây, Thế Tôn gọi các Tỷ kheo: "Này các Tỷ kheo!"

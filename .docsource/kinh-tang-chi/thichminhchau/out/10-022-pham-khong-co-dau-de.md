@@ -134,7 +134,7 @@ Thành tựu bốn mươi pháp này, này các Tỷ-kheo, như vậy tương x�
 **(V) (214) Tổn Hại**
 
 − Thành tựu với mười pháp, này các Tỷ-kheo, đem theo mình một tự ngã bị tổn hại, bị hủy hoại... đem
-theo mình một tự ngã không bị tổn hại... không bị hủy hoại... thành tựu với hai mươi pháp, này các Tỷkheo... thành tựu với ba mươi pháp, này các Tỷ-kheo... thành tựu với bốn mươi pháp, này các Tỷ-kheo,
+theo mình một tự ngã không bị tổn hại... không bị hủy hoại... thành tựu với hai mươi pháp, này các Tỷ-kheo... thành tựu với ba mươi pháp, này các Tỷ-kheo... thành tựu với bốn mươi pháp, này các Tỷ-kheo,
 đem theo mình một tự ngã bị tổn hại, bị hủy hoại... không đem theo mình một tự ngã bị tổn hại, bị hủy
 hoại.
 

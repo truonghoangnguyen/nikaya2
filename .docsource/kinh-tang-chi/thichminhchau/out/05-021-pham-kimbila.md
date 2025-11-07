@@ -76,7 +76,7 @@ tâm của vị này không hướng về nỗ lực, chuyên cần, kiên trì,
 
 <!--pg-->
 3. Lại nữa, này các Tỷ-kheo, Tỷ-kheo nghi ngờ Pháp... nghi ngờ Tăng... nghi ngờ học pháp... phẫn nộ
-đối với các vị đồng Phạm hạnh, không có hoan hỷ, tâm tư chống đối cứng rắn. Này các Tỷ-kheo, Tỷkheo nào phẫn nộ đối với các vị đồng Phạm hạnh, không có hoan hỷ, tâm tư chống đối cứng rắn, thời
+đối với các vị đồng Phạm hạnh, không có hoan hỷ, tâm tư chống đối cứng rắn. Này các Tỷ-kheo, Tỷ-kheo nào phẫn nộ đối với các vị đồng Phạm hạnh, không có hoan hỷ, tâm tư chống đối cứng rắn, thời
 tâm của vị này không hướng về nỗ lực, chuyên cần, kiên trì, tinh tấn. Như vậy là tâm hoang vu thứ năm.
 
 Này các Tỷ-kheo, có năm tâm hoang vu này.

@@ -580,7 +580,7 @@ thưa Tôn giả, Ðại vương Vessavana sau khi biết được con đã đ�
 − “Lành thay, hởi vị có bộ mặt hiền! Hãy lấy pháp môn được tôi nói đến hôm qua, làm quà tặng đón
 khách cho Ngài.”
 
-− “Lành thay, này Chị! Phải, pháp môn này hãy là quà tặng đón khách của tôi! Ngày mai, chúng Tỷkheo, với Sàriputta và Moggallàna là các vị cầm đầu, sẽ đến Velukantaka, nhưng chưa ăn sáng. Sau khi
+− “Lành thay, này Chị! Phải, pháp môn này hãy là quà tặng đón khách của tôi! Ngày mai, chúng Tỷ-kheo, với Sàriputta và Moggallàna là các vị cầm đầu, sẽ đến Velukantaka, nhưng chưa ăn sáng. Sau khi
 Chị mời chúng Tỷ-kheo dùng xong, hãy tuyên bố chính ta đã cúng dường.”
 
 Thưa Tôn giả, mong rằng mọi công đức của buổi cúng dường này sẽ đem lại an lạc cho đại vương

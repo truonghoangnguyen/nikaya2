@@ -6,7 +6,7 @@
 1. - Này các Tỷ-Kheo, có năm pháp làm suy yếu học tập này. Thế nào là năm?
 
 <!--pg-->
-2. Sát sanh, lấy của không cho, tà hạnh trong các dục, nói láo, đắm say rượu men, rượu nấu. Này các Tỷkheo, đây là năm pháp làm suy yếu học tập.
+2. Sát sanh, lấy của không cho, tà hạnh trong các dục, nói láo, đắm say rượu men, rượu nấu. Này các Tỷ-kheo, đây là năm pháp làm suy yếu học tập.
 
 <!--pg-->
 3. Này các Tỷ-kheo, để đoạn tận năm pháp làm suy yếu học tập này, Bốn niệm xứ cần phải tu tập. Thế

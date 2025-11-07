@@ -155,7 +155,7 @@ lậu hoặc, tự giác chứng và an trú ngay hiện tại, tâm giải tho�
 Này Kassapa, nếu một người chỉ ăn cỏ lúa để sống, này Kassapa nếu người ấy chỉ ăn lúa tắc, gạo lức, ăn
 hột cải nivàra... ăn trái cây, rễ cây trong rừng, ăn trái cây rụng để sống, nhưng nếu vị này không tu và
 không chứng được giới cụ túc, tâm cụ túc, tuệ cụ túc thời vị ấy cách rất xa Sa-môn vị, cách rất xa Bà-la-môn  vị. Này Kassapa, nếu Tỷ-kheo sống tu tập từ bi tâm, không hận thù, không ác hại, và với sự diệt tận
-các lậu hoặc, tự giác chứng và an trú ngay hiện tại, tâm giải thoát, tuệ giải thoát vô lậu, này Kassapa, Tỷkheo ấy được gọi là Sa-môn, được gọi là Bà-la-môn.
+các lậu hoặc, tự giác chứng và an trú ngay hiện tại, tâm giải thoát, tuệ giải thoát vô lậu, này Kassapa, Tỷ-kheo ấy được gọi là Sa-môn, được gọi là Bà-la-môn.
 
 Này Kassapa, nếu một người mặc vải gai thô, mặc vải gai thô trộn với các vải khác,... sống một đêm tắm
 ba lần, theo hạnh xuống nước tắm (để gột sạch tội lỗi), nhưng nếu vị này không tu và không chứng được
@@ -282,7 +282,7 @@ hộ trì ý căn, thực hành sự hộ trì ý căn. Vị ấy, nhờ sự h�
 tâm thanh tịnh... Như vậy, này Kassapa Tỷ-kheo hộ trì các căn... (như Kinh Sa-môn quả, đoạn kinh số
 64-75)... khi quán tự thân đã xả ly năm triền cái ấy, hân hoan sanh; do hân hoan nên hỷ sanh; do tâm
 hoan hỷ, thân được khinh an; do thân khinh an, lạc thọ sanh; do lạc thọ, tâm được định tỉnh. Tỷ-kheo ly
-dục, ly ác pháp, chứng và trú thiền thứ nhất, một trạng thái hỷ lạc do ly dục sanh, với tầm với tứ. Tỷkheo thấm nhuần, tẩm ướt làm cho sung mãn tràn đầy thân mình với hỷ lạc do ly dục sanh, không một
+dục, ly ác pháp, chứng và trú thiền thứ nhất, một trạng thái hỷ lạc do ly dục sanh, với tầm với tứ. Tỷ-kheo thấm nhuần, tẩm ướt làm cho sung mãn tràn đầy thân mình với hỷ lạc do ly dục sanh, không một
 chỗ nào trên toàn thân không do hỷ lạc từ ly dục sanh ấy thấm nhuần. Này Kassapa, như một người hầu
 tắm lão luyện hay đệ tử người hầu tắm. Sau khi rắc bột tắm trong thau bằng đồng, liền nhồi bột ấy với
 nước, cục bột tắm ấy được thấm nhuần nước ướt, nhào trộn với nước ướt, thấm ướt cả trong lẫn ngoài
@@ -305,7 +305,7 @@ xanh, màu vàng, màu đỏ, màu trắng hay màu nhạt. Một người có m
 thấy: “Hòn ngọc lưu ly bảo châu này, đẹp đẽ, trong suốt, có tám mặt, khéo giũa, khéo mài, sáng chói,
 không uế trược, đầy đủ tất cả mỹ tướng. Và sợi dây này được xâu qua hòn ngọc ấy, sợi dây màu xanh,
 màu vàng, màu đỏ, màu trắng, hay màu vàng nhạt”. Cũng vậy, này Kassapa, với tâm định tĩnh, thuần
-tịnh, không cấu nhiễm, không phiền não, nhu nhuyến, dễ sử dụng, vững chắc, bình thản như vậy, vị Tỷkheo dẫn tâm, hướng tâm đến chánh trí, chánh kiến. Vị ấy biết: “Thân này của ta là sắc pháp, do bốn đại
+tịnh, không cấu nhiễm, không phiền não, nhu nhuyến, dễ sử dụng, vững chắc, bình thản như vậy, vị Tỷ-kheo dẫn tâm, hướng tâm đến chánh trí, chánh kiến. Vị ấy biết: “Thân này của ta là sắc pháp, do bốn đại
 thành, do cha mẹ sanh, nhờ cơm cháo nuôi dưỡng, vô thường, biến hoại, phấn toái, đoạn tuyệt, hoại diệt.
 Trong thân ấy, thức ta lại nương tựa và bị trói buộc”. Ðó là tuệ cụ túc của vị ấy... (như Kinh Sa-môn
 quả, đoạn kinh số 85-98)... Vị ấy biết: “... không có đời sống nào khác nữa”. Ðó là tuệ cụ túc của vị ấy.

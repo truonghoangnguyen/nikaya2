@@ -361,7 +361,7 @@ Say sưa với sự kiêu hãnh về tuổi trẻ, sức khỏe, hay sự sống
 > và ngay cả về sự sống---\
 > thấy *sự từ bỏ* (renunciation/nekkhamma) là nơi nương náu an toàn.\
 > Lòng nhiệt thành trỗi dậy trong Ta\
-> khi Ta hướng đến *sựดับ tắt* (extinguishment/nibbāna).
+> khi Ta hướng đến *sự kết thúc* (extinguishment/nibbāna).
 >
 > Bây giờ Ta không thể\
 > đam mê các thú vui dục lạc;\

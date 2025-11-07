@@ -8,7 +8,7 @@ Một thời, Thế Tôn trú ở Sàvatthi, tại Thắng lâm, khu vườn ôn
 Tỷ-kheo: - Này các Tỷ-kheo. - Bạch Thế Tôn. Các tỷ-kheo ấy vâng đáp Thế Tôn. Thế tôn nói như sau:
 
 − Có hai loại tội này, này các Tỷ-kheo. Thế nào là hai? Tội có kết quả ngay trong hiện tại, và tội có kết
-quả trong đời sau. Và này các Tỷ-kheo, thế nào là tội có kết quả ngay trong hiện tại? Ở đây, này các Tỷkheo, có người thấy vua chúa bắt được người ăn trộm, kẻ vô loại, liền áp dụng nhiều hình phạt sai khác.
+quả trong đời sau. Và này các Tỷ-kheo, thế nào là tội có kết quả ngay trong hiện tại? Ở đây, này các Tỷ-kheo, có người thấy vua chúa bắt được người ăn trộm, kẻ vô loại, liền áp dụng nhiều hình phạt sai khác.
 Họ đánh bằng roi, họ đánh bằng gậy, họ đánh bằng côn, họ chặt tay, họ chặt chân, họ chặt tay chân, họ
 xẻo tai, họ cắt mũi, họ xẻo tai cắt mũi. Họ dùng hình phạt vạc dầu, họ dùng hình phạt bối đầu hình (xẻo
 đỉnh đầu thành hình con sò), họ dùng hình phạt La-hầu khẩu hình ... hỏa man hình (lấy lửa đốt thành
@@ -28,11 +28,11 @@ thục của thân làm ác trong đời sau là ác và khổ. Quả dị thụ
 Quả dị thục của ý nghĩ ác trong đời sau là ác và khổ. Nếu thân ta làm ác, nói lời ác, nghĩ việc ác, sao ta
 lại không có thể, sau khi thân hoại mạng chung, phải sanh vào cõi dữ, ác thú, đọa xứ, địa ngục”. Người
 ấy sợ hãi tội có kết quả trong đời sau, từ bỏ thân làm ác, tu tập thân làm thiện, từ bỏ miệng nói ác, tu tập
-miệng nói thiện, từ bỏ ý nghĩ ác, tu tập ý nghĩ thiện, và cư xử tự ngã hoàn toàn thanh tịnh. Này các Tỷkheo, đây gọi là tội có kết quả trong đời sau.
+miệng nói thiện, từ bỏ ý nghĩ ác, tu tập ý nghĩ thiện, và cư xử tự ngã hoàn toàn thanh tịnh. Này các Tỷ-kheo, đây gọi là tội có kết quả trong đời sau.
 
 Này các Tỷ-kheo, trên đây là hai loại tội. Do vậy, này các Tỷ-kheo, cần phải học tập như sau: “Chúng ta
 phải sợ hãi đối với tội có kết quả hiện tại. Chúng ta phải sợ hãi đối với tội có kết quả trong đời sau.
-Chúng ta phải tránh xa các tội. Chúng ta phải thấy rõ sự nguy hiểm của các tội”. Như vậy, này các Tỷkheo, các Thầy cần phải học tập. Ðối với ai tránh xa các tội, này các Tỷ-kheo, đối với ai thấy rõ sự nguy
+Chúng ta phải tránh xa các tội. Chúng ta phải thấy rõ sự nguy hiểm của các tội”. Như vậy, này các Tỷ-kheo, các Thầy cần phải học tập. Ðối với ai tránh xa các tội, này các Tỷ-kheo, đối với ai thấy rõ sự nguy
 hiểm của các tội, thời được chờ đợi rằng người ấy sẽ được giải thoát tất cả tội.
 
 <!--pg-->
@@ -87,7 +87,7 @@ tham không đoạn tận, sân không đoạn tận, si không đoạn tận, n
 sầu, bi, khổ, ưu, não. Ta nói rằng người ấy không giải thoát khỏi khổ đau. Ai sống thấy nhàm chán trong
 các pháp có thể khởi lên kiết sử, này các Tỷ-kheo, tham được đoạn tận, sân được đoạn tận, si được đoạn
 tận. Do tham được đoạn tận, sân được đoạn tận, si được đoạn tận, nên được giải thoát khỏi sanh, già,
-chết, sầu, bi, khổ, ưu, não. Ta nói rằng người ấy giải thoát khỏi khổ đau. Những pháp này, này các Tỷkheo, là hai pháp.
+chết, sầu, bi, khổ, ưu, não. Ta nói rằng người ấy giải thoát khỏi khổ đau. Những pháp này, này các Tỷ-kheo, là hai pháp.
 
 <!--pg-->
 7. Hai pháp này, này các Tỷ-kheo, là pháp đen. Thế nào là hai? Không tàm và không quý. Các pháp này,
@@ -101,7 +101,7 @@ Tỷ-kheo, là hai pháp trắng.
 9. Hai pháp trắng này, này các Tỷ-kheo, che chở cho thế giới. Thế nào là hai? Tàm và quý. Nếu hai pháp
 trắng này, không che chở cho thế giới, thời không thể chỉ được đây là mẹ hay là em, chị của mẹ, hay đây
 là vợ của anh hay em của mẹ, hay đây là vợ của Thầy hay đây là vợ của các vị tôn trưởng. Và thế giới sẽ
-đi đến hỗn loạn như giữa các loài dê, loài gà vịt, loài heo, loài chó, loài dã can. Vì rằng, này các Tỷkheo, có hai pháp trắng này che chở cho thế giới, nên mới có thể chỉ được đây là mẹ hay đây là chị em
+đi đến hỗn loạn như giữa các loài dê, loài gà vịt, loài heo, loài chó, loài dã can. Vì rằng, này các Tỷ-kheo, có hai pháp trắng này che chở cho thế giới, nên mới có thể chỉ được đây là mẹ hay đây là chị em
 của mẹ, hay đây là vợ của anh hay em của mẹ, hay đây là vợ của Thầy hay đây là vợ của các vị tôn
 trưởng.
 

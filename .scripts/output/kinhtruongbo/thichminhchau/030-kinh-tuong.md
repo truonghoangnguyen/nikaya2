@@ -880,7 +880,7 @@ ngọt như tiếng chim Karavika (Ca-lăng-tần-già).
 23. Ngài đầu đủ các tướng ấy, nếu sống tại gia làm vị Chuyển luân Thánh vương. Làm vua được những
 gì? Lời nói được chấp nhận. Các vị cư sĩ, Bà-la-môn, thị dân, thôn dân, tài chánh quan, tư chánh quan,
 võ sĩ, thủ môn quan, đại thần, phó vương, phú gia, các vương tử đều chấp nhận lời nói của Ngài. Làm
-vua Ngài được như vậy... Làm Phật được những gì? Lời nói Ngài được chấp nhận. Các vị Tỷ-kheo, Tỷkheo-ni, Nam cư sĩ, Nữ cư sĩ, chư Thiên, loài Người, A-tu-la, Long xà, Càn-thát-bà chấp nhận lời của
+vua Ngài được như vậy... Làm Phật được những gì? Lời nói Ngài được chấp nhận. Các vị Tỷ-kheo, Tỷ-kheo-ni, Nam cư sĩ, Nữ cư sĩ, chư Thiên, loài Người, A-tu-la, Long xà, Càn-thát-bà chấp nhận lời của
 Ngài. Làm Phật được như vậy.
 
 Thế Tôn thuyết giảng như vậy.

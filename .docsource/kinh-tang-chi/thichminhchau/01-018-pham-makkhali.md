@@ -19,7 +19,7 @@ Người.
 Tối thắng tà kiến, này các Tỷ-kheo, là phạm tội lớn.
 
 4. Ta không thấy một người nào khác, này các Tỷ-kheo, được tuân theo đưa lại bất hạnh cho đa số, bất
-lạc cho đa số, thất lợi cho đa số, đem đến bất hạnh, bất lạc cho chư Thiên và loài Người, này các Tỷkheo, như kẻ ngu si.
+lạc cho đa số, thất lợi cho đa số, đem đến bất hạnh, bất lạc cho chư Thiên và loài Người, này các Tỷ-kheo, như kẻ ngu si.
 
 Ví như, này các Tỷ-kheo, tại cửa sông có đặt một cái nơm bẫy cá, đem lại bất hạnh đau khổ, tổn thương,
 tổn hại cho nhiều cá. Cũng vậy, này các Tỷ-kheo, kẻ ngu si Makkhali xuất hiện ở đời, Ta nghỉ rằng như

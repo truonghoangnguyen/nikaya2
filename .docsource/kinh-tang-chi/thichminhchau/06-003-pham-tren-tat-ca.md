@@ -132,7 +132,7 @@ ta. Ðầy đủ với giới, với nghe pháp, với thí, với tuệ như v�
 sanh tại chỗ kia. Tuệ như vậy cũng có đầy đủ ở nơi ta”. Khi vị ấy niệm tín, giới, nghe pháp, thí và tuệ
 của tự mình và chư Thiên ấy, trong khi ấy, tâm không bị tham, chi phối, tâm không bị sân chi phối, tâm
 không bị si chi phối, trong khi ấy, tâm vị ấy được chánh trực, ra khỏi, giải thoát, xuất khỏi tham. Tham,
-này các Tỷ-kheo là đồng nghĩa với năm dục trưởng dưỡng. Do lấy cái này làm đối tượng, này các Tỷkheo, ở đây, một số các loài hữu tình được thanh tịnh.
+này các Tỷ-kheo là đồng nghĩa với năm dục trưởng dưỡng. Do lấy cái này làm đối tượng, này các Tỷ-kheo, ở đây, một số các loài hữu tình được thanh tịnh.
 
 Này các Tỷ-kheo, đây là sau Tùy niệm xứ.
 
@@ -196,7 +196,7 @@ nhất để đi đến yết kiến Tỷ-kheo đã được tu tập về ý.
 4. Lại nữa, này Tỷ-kheo, trong khi Tỷ-kheo sống với tâm bị sân chi phối, bị sân ám ảnh, không như thật
 rõ biết xuất ly khỏi sân được khởi lên, trong khi ấy, sau khi đến Tỷ-kheo đã được tu tập về ý, vị ấy cần
 được nói như sau: “Thưa Hiền giả, tôi sống với tâm bị dục sân chi phối, bị dục sân ám ảnh, tôi không
-như thật rõ biết xuất ly khỏi sân. Lành thay, nếu Tôn giả thuyết pháp cho tôi để đoạn tận sân”. Và Tỷkheo đã được tu tập về ý thuyết pháp để đoạn sân. Này Tỷ-kheo, đây là thời thứ hai để đi đến yết kiến
+như thật rõ biết xuất ly khỏi sân. Lành thay, nếu Tôn giả thuyết pháp cho tôi để đoạn tận sân”. Và Tỷ-kheo đã được tu tập về ý thuyết pháp để đoạn sân. Này Tỷ-kheo, đây là thời thứ hai để đi đến yết kiến
 Tỷ-kheo đã được tu tập về ý.
 
 5-7. Lại nữa, này Tỷ-kheo, trong khi Tỷ-kheo sống với tâm bị hôn trầm thụy miên chi phối, bị hôn trầm
@@ -208,7 +208,7 @@ nghi”. Và Tỷ-kheo đã được tu tập về ý thuyết pháp để đo�
 để đi đến yết kiến Tỷ-kheo đã được tu tập về ý.
 
 8. Lại nữa, này Tỷ-kheo, trong khi Tỷ-kheo y cứ nơi tướng nào, do tác ý tướng ấy, các lậu hoặc được
-đoạn diệt, không có gián đoạn, vị ấy không biết, không thấy tướng ấy, trong khi ấy, sau khi đi đến Tỷkheo đã được tu tập về ý, vị ấy cần được nói như sau: “Thưa Hiền giả, y cứ nơi tướng nào, do tác ý
+đoạn diệt, không có gián đoạn, vị ấy không biết, không thấy tướng ấy, trong khi ấy, sau khi đi đến Tỷ-kheo đã được tu tập về ý, vị ấy cần được nói như sau: “Thưa Hiền giả, y cứ nơi tướng nào, do tác ý
 tướng ấy các lậu hoặc được đoạn diệt, không có gián đoạn, tôi không biết không thấy tướng ấy. Lành
 thay, nếu Tôn giả thuyết pháp cho tôi để đoạn diệt các lậu hoặc”. Và Tỷ-kheo đã được tu tập về ý thuyết
 pháp để đoạn diệt các lậu hoặc. Này Tỷ-kheo, đây là thời thứ sáu để đi đến yết kiến Tỷ-kheo đã được tu
@@ -332,7 +332,7 @@ toàn các giới sai khác nhau.
 
 Bạch Thế Tôn, đây là năm chỗ để tùy niệm.
 
-− Lành thay, lành thay, này Ananda! Ðây là chỗ tùy niệm thứ sáu, hãy thọ trì ở đây, này Ananda, Tỷkheo chánh niệm đi ra, chánh niệm đi vào, chánh niệm ngồi, chánh niệm nằm, chánh niệm trong khi làm
+− Lành thay, lành thay, này Ananda! Ðây là chỗ tùy niệm thứ sáu, hãy thọ trì ở đây, này Ananda, Tỷ-kheo chánh niệm đi ra, chánh niệm đi vào, chánh niệm ngồi, chánh niệm nằm, chánh niệm trong khi làm
 việc. Này Ananda, đây là chỗ để tùy niệm, như vậy tu tập, như vậy làm cho sung mãn, được đưa đến
 chánh niệm tỉnh giác.
 
@@ -355,7 +355,7 @@ an trú, nhứt hướng thuần tín. Này các Tỷ-kheo, đây gọi là th�
 nghe vô thượng là gì?
 
 4. Ở đây, này các Tỷ-kheo, có người đi nghe tiếng trống, đi nghe tiếng sáo, đi nghe tiếng ca, hay đi nghe
-tiếng cao thấp khác nhau, hay đi nghe pháp các Sa-môn hay Bà-la-môn có tà kiến, tà hạnh. Này các Tỷkheo, đây có phải là nghe không? Ta nói rằng: “Ðây là không nghe”. Sự nghe ấy, này các Tỷ-kheo, là hạ
+tiếng cao thấp khác nhau, hay đi nghe pháp các Sa-môn hay Bà-la-môn có tà kiến, tà hạnh. Này các Tỷ-kheo, đây có phải là nghe không? Ta nói rằng: “Ðây là không nghe”. Sự nghe ấy, này các Tỷ-kheo, là hạ
 liệt, hà hèn hạ, là phàm phù, không xứng Thánh hạnh, không liên hệ đến mục đích, không đưa đến yếm
 ly, ly tham, đoạn diệt, an tịnh, thắng trí, giác ngộ, Niết-bàn. Này các Tỷ-kheo, ai đi để nghe pháp của
 Như Lai hay của đệ tử Như Lai, với lòng tin an trú, với lòng ái mộ an trú, nhứt hướng thuần tín thời này,

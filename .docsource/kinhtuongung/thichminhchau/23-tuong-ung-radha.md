@@ -170,7 +170,7 @@ Dự lưu, không còn bị thối đọa, quyết chắc đạt đến cứu c�
 4\. − Này Rdha, có năm thủ uẩn này. Thế nào là năm? Sắc thủ uẩn... thức thủ uẩn.
 
 5\. − Này Ràdha, khi nào Tỷ-kheo sau khi như thật biết rõ sự tập khởi, sự đoạn diệt, vị ngọt, sự nguy
-hiểm và sự xuất ly của năm thủ uẩn này, vị ấy được giải thoát, không có chấp thủ; như vậy, gọi vị Tỷkheo là bậc A-la-hán, đã đoạn tận các lậu hoặc, đã thành tựu Phạm hạnh, đã làm những việc phải làm, đã
+hiểm và sự xuất ly của năm thủ uẩn này, vị ấy được giải thoát, không có chấp thủ; như vậy, gọi vị Tỷ-kheo là bậc A-la-hán, đã đoạn tận các lậu hoặc, đã thành tựu Phạm hạnh, đã làm những việc phải làm, đã
 đặt gánh nặng xuống, đã đạt được mục đích, đã đoạn tận hữu kiết sử, đã giải thoát nhờ chánh trí.
 
 ### IX. Dục Tham (S.iii,193)

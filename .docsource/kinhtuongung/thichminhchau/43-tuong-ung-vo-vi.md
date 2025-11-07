@@ -9,7 +9,7 @@ nghe.
 2\. Và này các Tỷ-kheo, thế nào là vô vi? Này các Tỷ-kheo, sự đoạn tận tham, sự đoạn tận sân, sự đoạn
 tận si. Này các Tỷ-kheo, đây gọi là vô vi.
 
-3\. Và này các Tỷ-kheo, thế nào là con đường đưa đến vô vi? Thân niệm (kàyagatà sati), này các Tỷkheo, đây gọi là con đường đưa đến vô vi.
+3\. Và này các Tỷ-kheo, thế nào là con đường đưa đến vô vi? Thân niệm (kàyagatà sati), này các Tỷ-kheo, đây gọi là con đường đưa đến vô vi.
 
 4\. Như vậy, này các Tỷ-kheo, Ta thuyết về vô vi, Ta thuyết về con đường đưa đến vô vi.
 
@@ -145,13 +145,13 @@ là con đường đưa đến vô vi... (như trên)...
 
 1-2. ...
 
-3\.− Và này các Tỷ-kheo, thế nào là con đường đưa đến vô vi? Ðịnh không tầm, chỉ có tứ ; này các Tỷkheo, đây là con đường đưa đến vô vi.
+3\.− Và này các Tỷ-kheo, thế nào là con đường đưa đến vô vi? Ðịnh không tầm, chỉ có tứ ; này các Tỷ-kheo, đây là con đường đưa đến vô vi.
 
 ### V. Sáu Ðịnh (3)
 
 1-2. ...
 
-3\. − Và này các Tỷ-kheo, thế nào là con đường đưa đến vô vi? Ðịnh không tầm không tứ; này các Tỷkheo, đây là con đường đưa đến vô vi.
+3\. − Và này các Tỷ-kheo, thế nào là con đường đưa đến vô vi? Ðịnh không tầm không tứ; này các Tỷ-kheo, đây là con đường đưa đến vô vi.
 
 ### VI. Sáu Ðịnh (4)
 

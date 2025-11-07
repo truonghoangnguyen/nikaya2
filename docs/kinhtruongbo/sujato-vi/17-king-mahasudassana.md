@@ -1,4 +1,4 @@
-# 17. Vua Đại Thiện Kiến
+# DN 17. Vua Đại Thiện Kiến
 
 _**Mahāparinibbānasutta**_
 

@@ -173,7 +173,7 @@ Tỷ-kheo, là con voi của vua biết nghe.
 3\. Và này các Tỷ-kheo, thế nào là con voi của vua biết sát hại?
 
 Ở đây, này các Tỷ-kheo, con voi của vua sau khi đi đến chiến trận, giết voi, giết người cưỡi voi, giết
-ngựa, giết người cưỡi ngựa, giết hại xe, giết hại người cưỡi xe, giết các bộ binh. Như vậy, này các Tỷkheo, là con voi của vua biết sát hại.
+ngựa, giết người cưỡi ngựa, giết hại xe, giết hại người cưỡi xe, giết các bộ binh. Như vậy, này các Tỷ-kheo, là con voi của vua biết sát hại.
 
 4\. Và này các Tỷ-kheo, thế nào là con voi của vua biết kham nhẫn?
 
@@ -228,7 +228,7 @@ trọng, xứng đáng được chắp tay, xứng đáng được cúng dườn
 − Này các Tỷ-kheo, có bốn trường hợp này. Thế nào là bốn?
 
 Có trường hợp, này các Tỷ-kheo, làm không thích ý, đưa đến không lợi ích cho người làm. Có trường
-hợp, này các Tỷ-kheo, làm không thích ý, đưa đến lợi ích cho người làm. Có trường hợp, này các Tỷkheo, làm được thích ý, không đưa đến lợi ích cho người làm. Có trường hợp, này các Tỷ-kheo, làm
+hợp, này các Tỷ-kheo, làm không thích ý, đưa đến lợi ích cho người làm. Có trường hợp, này các Tỷ-kheo, làm được thích ý, không đưa đến lợi ích cho người làm. Có trường hợp, này các Tỷ-kheo, làm
 được thích ý, đưa đến lợi ích cho người làm.
 
 2\. Tại đây, này các Tỷ-kheo, trường hợp này làm không thích ý; không đem lại lợi ích cho người làm;

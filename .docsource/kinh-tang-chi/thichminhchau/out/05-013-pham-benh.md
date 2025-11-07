@@ -189,7 +189,7 @@ mạng chung sanh vào cõi dữ, ác thú, địa ngục. Này các Tỷ-kheo, 
 3. Này các Tỷ-kheo, có năm thành tựu này. Thế nào là năm?
 
 <!--pg-->
-4. Thành tựu bà con, thành tựu tài sản, thành tựu vô bệnh, thành tựu giới, thành tựu tri kiến. Này các Tỷkheo, không do nhân thành tựu bà con, hay không do nhân thành tựu tài sản, hay không do nhân thành
+4. Thành tựu bà con, thành tựu tài sản, thành tựu vô bệnh, thành tựu giới, thành tựu tri kiến. Này các Tỷ-kheo, không do nhân thành tựu bà con, hay không do nhân thành tựu tài sản, hay không do nhân thành
 tựu vô bệnh, mà các loài hữu tình sau khi thân hoại mạng chung sanh được lên cõi lành, Thiên giới, cõi
 đời này. Này các Tỷ-kheo, do nhân thành tựu giới hay do nhân thành tựu tri kiến, mà các loài hữu tình
 sau khi thân hoại mạng chung được sanh lên cõi lành, Thiên giới, cõi đời này.

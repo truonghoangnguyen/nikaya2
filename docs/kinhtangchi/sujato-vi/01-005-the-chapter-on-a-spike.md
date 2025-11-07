@@ -2,7 +2,7 @@
 
 ### AN 1.41–50 *Paṇihitaacchavagga*
 
-41\. "Này các Tỷ kheo, giả sử một mũi nhọn của lúa hay lúa mạch bị đặt sai hướng. Nếu quý vị dùng tay hay chân đạp lên nó, không thể nào nó đâm thủng da và làm chảy máu được. Vì sao vậy? Vì mũi nhọn ấy bị đặt sai hướng. Cũng vậy, một Tỷ kheo có tâm hướng sai thì không thể nào phá tan *vô minh* (ignorance / sự không sáng suốt, không thấy rõ sự thật), làm sinh khởi *minh* (knowledge / sự sáng suốt, trí tuệ thấy rõ sự thật), và chứng ngộ *Niết-bàn* (extinguishment / sựดับ tắt hoàn toàn khổ đau, trạng thái giải thoát cuối cùng) được. Vì sao vậy? Vì tâm của vị ấy hướng sai."
+41\. "Này các Tỷ kheo, giả sử một mũi nhọn của lúa hay lúa mạch bị đặt sai hướng. Nếu quý vị dùng tay hay chân đạp lên nó, không thể nào nó đâm thủng da và làm chảy máu được. Vì sao vậy? Vì mũi nhọn ấy bị đặt sai hướng. Cũng vậy, một Tỷ kheo có tâm hướng sai thì không thể nào phá tan *vô minh* (ignorance / sự không sáng suốt, không thấy rõ sự thật), làm sinh khởi *minh* (knowledge / sự sáng suốt, trí tuệ thấy rõ sự thật), và chứng ngộ *Niết-bàn* (extinguishment / sự kết thúc hoàn toàn khổ đau, trạng thái giải thoát cuối cùng) được. Vì sao vậy? Vì tâm của vị ấy hướng sai."
 
 <!--pg-->
 42\. "Này các Tỷ kheo, giả sử một mũi nhọn của lúa hay lúa mạch được đặt đúng hướng. Nếu quý vị dùng tay hay chân đạp lên nó, có thể nó sẽ đâm thủng da và làm chảy máu. Vì sao vậy? Vì mũi nhọn ấy được đặt đúng hướng. Cũng vậy, một Tỷ kheo có tâm hướng đúng thì rất có thể phá tan vô minh, làm sinh khởi minh, và chứng ngộ Niết-bàn. Vì sao vậy? Vì tâm được định hướng đúng."

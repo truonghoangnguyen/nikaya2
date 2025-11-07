@@ -61,7 +61,7 @@ _Chư Phật Chánh Ðẳng Giác_
 
 Này các Tỷ-kheo, Phạm Thiên Sahampati nói như vậy; nói vậy xong, đảnh lễ ta, thân hữu hướng về bên
 ta rồi biến mất tại chỗ. Rồi này các Tỷ-kheo, sau khi biết được thỉnh nguyện của Phạm thiên, và thích
-ứng với Ta, Ta sống cung kính, tôn trọng và y chỉ pháp ấy và ta đã tự Chánh Ðẳng Giác. Và này các Tỷkheo, vì rằng chúng Tăng thành tựu sự cao cả nên ta tôn trọng đặc biệt chúng Tăng.
+ứng với Ta, Ta sống cung kính, tôn trọng và y chỉ pháp ấy và ta đã tự Chánh Ðẳng Giác. Và này các Tỷ-kheo, vì rằng chúng Tăng thành tựu sự cao cả nên ta tôn trọng đặc biệt chúng Tăng.
 
 **(II) (22) Tại Uruvelà (2)**
 
@@ -330,17 +330,17 @@ với bất cứ loại khất thực nào, không vì nhân khất thực rơi 
 Nếu không được đồ ăn khất thực, không có lo âu tiếc nuối; nếu được đồ ăn khất thực, không có tham
 lam, mê say, tham đắm; thấy sự nguy hiểm và với trí tuệ thấy được sự xuất ly, vị ấy hưởng thọ đồ ăn
 khất thực, không vì biết đủ với bất cứ loại đồ ăn khất thực nào, không có khen mình, chê người. Ai ở
-đây khôn khéo (thiện xảo), không có thụ động, tỉnh giác, chánh niệm, này các Tỷ-kheo, đây gọi là Tỷkheo đứng ở trên Thánh truyền thống, kỳ cựu, được nhận biết là tối sơ.
+đây khôn khéo (thiện xảo), không có thụ động, tỉnh giác, chánh niệm, này các Tỷ-kheo, đây gọi là Tỷ-kheo đứng ở trên Thánh truyền thống, kỳ cựu, được nhận biết là tối sơ.
 
 Lại nữa, này các Tỷ-kheo, Tỷ-kheo biết đủ với bất cứ loại sàng tọa nào, và nói lời tán thán sự biết đủ với
 bất cứ loại sàng tọa nào, không vì nhân sàng tọa rời vào sự tầm cầu bất chính, không thích hợp. Nếu
 không được sàng tọa, không có lo âu tiếc nuối; nếu được sàng tọa, không có tham lam, mê say, đắm
 đuối; thấy sự nguy hiểm và với trí tuệ thấy được sự xuất ly, vị ấy hưởng thọ sàng tọa, không có khen
-mình chê người. Ai ở đây khôn khéo, (thiện xảo), không có thụ động, tỉnh giác, chánh niệm, này các Tỷkheo, đây gọi là vị Tỷ-kheo đứng ở trên Thánh truyền thống kỳ cựu, được nhận biết là tối sơ.
+mình chê người. Ai ở đây khôn khéo, (thiện xảo), không có thụ động, tỉnh giác, chánh niệm, này các Tỷ-kheo, đây gọi là vị Tỷ-kheo đứng ở trên Thánh truyền thống kỳ cựu, được nhận biết là tối sơ.
 
 Lại nữa, này các Tỷ-kheo, Tỷ-kheo ưa thích tu tập, vui thích tu tập, ưa thích đoạn tận, vui thích đoạn tận,
 nhưng không vì ưa thích tu tập, vui thích tu tập, ưa thích đoạn tận, vui thích đoạn tận mà khen mình chê
-người. Ai ở đây khôn khéo, không có thụ động, tỉnh giác, chánh niệm, này các Tỷ-kheo, đây gọi là Tỷkheo đứng trên Thánh truyền thông, kỳ cựu, được nhận biết là tối sơ.
+người. Ai ở đây khôn khéo, không có thụ động, tỉnh giác, chánh niệm, này các Tỷ-kheo, đây gọi là Tỷ-kheo đứng trên Thánh truyền thông, kỳ cựu, được nhận biết là tối sơ.
 
 Bốn truyền thống bậc Thánh này, này các Tỷ-kheo, được biết là tối sơ, có đã lâu đời, được biết là truyền
 thống kỳ cựu, không có tạp nhiễm, trước không bị tạp nhiễm, nay không bị tạp nhiễm, sẽ không bị tạp
@@ -376,7 +376,7 @@ _Phạm thiên cũng tán thán._
 kỳ cựu, không có tạp nhiễm, trước không bị tạp nhiễm, nay không bị tạp nhiễm, sẽ không bị tạp nhiễm,
 không bị các Sa-môn, Bà-la-môn có trí quở trách. Thế nào là bốn?
 
-Không tham, này các Tỷ-kheo, là pháp cú được biết là tối sơ... có trí quở trách. Không sân, này các Tỷkheo, này các Tỷ-kheo, là pháp cú được biết là tối sơ... có trí quở trách. Chánh niệm, này các Tỷ-kheo,
+Không tham, này các Tỷ-kheo, là pháp cú được biết là tối sơ... có trí quở trách. Không sân, này các Tỷ-kheo, này các Tỷ-kheo, là pháp cú được biết là tối sơ... có trí quở trách. Chánh niệm, này các Tỷ-kheo,
 là pháp cú được biết là tối sơ... có trí quở trách. Chánh định, này các Tỷ-kheo, là pháp cú được biết là tối
 sơ... có trí quở trách.
 

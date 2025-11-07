@@ -2,7 +2,7 @@
 
 1.- Có hai hạng người này, này các Tỷ-kheo, khi xuất hiện ở đời, sự xuất hiện đưa lại hạnh phúc cho đa
 số, an lạc cho đa số, lợi ích cho đa số, đưa lại hạnh phúc, an lạc cho chư Thiên và loài Người. Thế nào là
-hai? Như Lai, bậc A-la-hán, Chánh Ðẳng Giác và Chuyển Luân Vương. Những người này, này các Tỷkheo, khi xuất hiện ở đời, sự xuất hiện đưa lại hạnh phúc cho đa số, an lạc cho đa số, lợi ích cho đa số,
+hai? Như Lai, bậc A-la-hán, Chánh Ðẳng Giác và Chuyển Luân Vương. Những người này, này các Tỷ-kheo, khi xuất hiện ở đời, sự xuất hiện đưa lại hạnh phúc cho đa số, an lạc cho đa số, lợi ích cho đa số,
 đưa lại hạnh phúc, an lạc cho chư Thiên và loài Người.
 
 <!--pg-->
@@ -82,7 +82,7 @@ này các Tỷ-kheo, là sự cộng trú của người thiện và như vậy 
 
 <!--pg-->
 12\. Trong cuộc tranh tụng nào, này các Tỷ-kheo, cả hai phía có lời qua tiếng lại, có những quan điểm
-ngoan cố, với tâm hiềm hận, ưu não, uất ức, nội tâm không an tịnh, thời sự tranh tụng ấy, này các Tỷkheo, được chờ đợi rằng sẽ đưa đến kéo dài, gay gắt, thô bạo, và các Tỷ-kheo sẽ sống không an lạc.
+ngoan cố, với tâm hiềm hận, ưu não, uất ức, nội tâm không an tịnh, thời sự tranh tụng ấy, này các Tỷ-kheo, được chờ đợi rằng sẽ đưa đến kéo dài, gay gắt, thô bạo, và các Tỷ-kheo sẽ sống không an lạc.
 
 Và này các Tỷ-kheo, trong cuộc tranh tụng nào, này các Tỷ-kheo, cả hai phía có lời qua tiếng lại, có
 những quan điểm ngoan cố, với tâm hiềm hận, ưu não, uất ức, nhưng nội tâm được an tịnh, thời sự tranh

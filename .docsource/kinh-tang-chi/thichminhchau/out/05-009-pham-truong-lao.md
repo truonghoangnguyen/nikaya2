@@ -73,7 +73,7 @@ không được ái mộ, không được ưa thích, không được tôn trọ
 nào là năm?
 
 <!--pg-->
-2. Không tín, không hổ thẹn, không biết sợ, biếng nhác và ác tuệ. Thành tựu năm pháp này, này các Tỷkheo, một Tỷ-kheo Trưởng lão đối với các vị đồng Phạm hạnh không được ái mộ, không được ưa thích,
+2. Không tín, không hổ thẹn, không biết sợ, biếng nhác và ác tuệ. Thành tựu năm pháp này, này các Tỷ-kheo, một Tỷ-kheo Trưởng lão đối với các vị đồng Phạm hạnh không được ái mộ, không được ưa thích,
 không được tôn trọng, không được làm gương để tu tập.
 
 <!--pg-->
@@ -81,7 +81,7 @@ không được tôn trọng, không được làm gương để tu tập.
 ái mộĩ, được ưa thích, được tôn trọng, được làm gương để tu tập. Thế nào là năm?
 
 <!--pg-->
-4. Có lòng tin, có hổ thẹn, có biết sợ, tinh cần, tinh tấn và có tuệ. Thành tựu năm pháp này, này các Tỷkheo, một Tỷ-kheo Trưởng lão đối với các vị đồng Phạm hạnh được ái mộ, được ưa thích, được tôn
+4. Có lòng tin, có hổ thẹn, có biết sợ, tinh cần, tinh tấn và có tuệ. Thành tựu năm pháp này, này các Tỷ-kheo, một Tỷ-kheo Trưởng lão đối với các vị đồng Phạm hạnh được ái mộ, được ưa thích, được tôn
 trọng, được làm gương để tu tập.
 
 **(V) (85) Không Kham Nhẫn**
@@ -238,7 +238,7 @@ nội tâm tịnh chỉ. Ðây là pháp thứ ba không khiến vị Tỷ-kheo 
 
 <!--pg-->
 11. Lại nữa, này các Tỷ-kheo, vị Tỷ-kheo hữu học không đi vào làng quá sớm, không từ giã quá muộn,
-không từ bỏ độc cư Thiền tịnh, chuyên chú vào nội tâm tịnh chỉ. Ðây là pháp thứ tư không khiến vị Tỷkheo hữu học thối chuyển.
+không từ bỏ độc cư Thiền tịnh, chuyên chú vào nội tâm tịnh chỉ. Ðây là pháp thứ tư không khiến vị Tỷ-kheo hữu học thối chuyển.
 
 <!--pg-->
 12. Lại nữa, này các Tỷ-kheo, vị Tỷ-kheo hữu học đối với các câu chuyện nghiêm trang, khai tâm, như

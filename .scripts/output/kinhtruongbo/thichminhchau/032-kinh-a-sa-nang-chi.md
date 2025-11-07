@@ -334,7 +334,7 @@ Những vị này là những Dạ-xoa, đại Dạ-xoa, quân sư, đại quân
 lên: “Dạ-xoa này bắt tôi, Dạ-xoa này tấn công tôi, Dạ-xoa này đả thương tôi, Dạ-xoa này hại tôi, Dạ-xoa
 này làm hại tôi, Dạ-xoa này không thả tôi ra”.
 
-11. Này Tôn giả, đây là Hộ Kinh Atànàtiyà che chở, hộ trì, ngăn không cho ai làm hại các Tỷ-kheo, Tỷkheo-ni, Nam cư sĩ, Nữ cư sĩ và khiến các vị này sống an lạc.
+11. Này Tôn giả, đây là Hộ Kinh Atànàtiyà che chở, hộ trì, ngăn không cho ai làm hại các Tỷ-kheo, Tỷ-kheo-ni, Nam cư sĩ, Nữ cư sĩ và khiến các vị này sống an lạc.
 
 Thưa Tôn giả, nay chúng tôi cần phải đi, chúng tôi có nhiều việc, có nhiều bổn phận.
 
@@ -358,7 +358,7 @@ _có lòng thương muôn loài..._
 
 Này Tôn giả, đó là hộ kinh Atànàtiyà che chở, hộ trì, ... (như trên) ... rồi biến mất tại chỗ”.
 
-13. Này các Tỷ-kheo, hãy học Hộ Kinh Atànàtiyà này, hãy thuộc lòng Kinh Atànàtiyà này. Này các Tỷkheo, Tỷ-kheo-ni, Nam cư sĩ, Nữ cư sĩ được che chở, được hộ trì, được ngăn khỏi ai làm hại, được sống
+13. Này các Tỷ-kheo, hãy học Hộ Kinh Atànàtiyà này, hãy thuộc lòng Kinh Atànàtiyà này. Này các Tỷ-kheo, Tỷ-kheo-ni, Nam cư sĩ, Nữ cư sĩ được che chở, được hộ trì, được ngăn khỏi ai làm hại, được sống
 thoải mái hạnh phúc.
 
 Thế Tôn thuyết giảng như vậy. Các vị Tỷ-kheo ấy hoan hỷ thọ trì lời dạy Thế Tôn.

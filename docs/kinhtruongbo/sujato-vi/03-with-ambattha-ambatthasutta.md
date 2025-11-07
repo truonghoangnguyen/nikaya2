@@ -1,4 +1,4 @@
-# 3. Kinh Ambaṭṭha
+# DN 3. Kinh Ambaṭṭha
 _**Ambaṭṭhasutta**_
 
 [Như vầy tôi nghe.[292](/kinhtruongbo/sujato-vi/notes/03#292){.note}] Một thời Đức Phật

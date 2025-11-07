@@ -159,7 +159,6 @@ phần, và thành tựu năm chi phần.
 ***(Năm căn)***
 
 -- Này Hiền giả, năm căn này, có cảnh giới khác nhau, có hành giới khác nhau, không có lẫn lộn cảnh
-
 giới, hành giới với nhau. Tức là mắt, tai, mũi, lưỡi, thân. Này Hiền giả, giữa năm căn này, có cảnh giới
 sai khác, có hành giới sai khác, không có thọ lãnh cảnh giới, hành giới lẫn nhau, cái gì làm sở y cho
 chúng, cái gì lãnh thọ cảnh giới, hành giới của chúng?

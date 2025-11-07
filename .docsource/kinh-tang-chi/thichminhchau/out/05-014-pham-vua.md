@@ -95,7 +95,7 @@ không nên thực hành; làng, thị trấn như vậy cần phải đi đến
 <!--pg-->
 4. Lại nữa, này Tỷ-kheo, Như Lai, bậc A-la-hán, Chánh Ðẳng Giác đúng pháp pháp vương, y cứ pháp,
 tôn kính pháp, kính trọng pháp, tôn trọng pháp, lấy pháp làm tràng phan, lấy pháp làm ngọn cờ, lấy pháp
-làm tăng thượng, sắp đặt một sự phòng hộ, bảo vệ, chế ngự đúng pháp giữa các Tỷ-kheo, giữa các Tỷkheo-ni, giữa các nam cư sĩ, giữa các nữ cư sĩ: Thân nghiệp như vậy cần phải thực hành, thân nghiệp
+làm tăng thượng, sắp đặt một sự phòng hộ, bảo vệ, chế ngự đúng pháp giữa các Tỷ-kheo, giữa các Tỷ-kheo-ni, giữa các nam cư sĩ, giữa các nữ cư sĩ: Thân nghiệp như vậy cần phải thực hành, thân nghiệp
 như vậy không nên thực hành; khẩu nghiệp như vậy cần phải thực hành, khẩu nghiệp như vậy không nên
 thực hành; ý nghiệp như vậy cần phải thực hành, ý nghiệp như vậy không nên thực hành; mạng sống
 như vậy cần phải thực hành, mạng sống như vậy không nên thực hành; làng, thị trấn như vậy cần phải đi
@@ -321,7 +321,7 @@ Tỷ-kheo không kham nhẫn các sắc?
 
 <!--pg-->
 9. Ở đây, này các Tỷ-kheo, Tỷ-kheo khi mắt thấy sắc liền tham đắm các sắc khả ái, tâm không thể định
-tĩnh. Như vậy, này các Tỷ-kheo, Tỷ-kheo không kham nhẫn các sắc. Và này các Tỷ-kheo, thế nào là Tỷkheo không kham nhẫn các tiếng?
+tĩnh. Như vậy, này các Tỷ-kheo, Tỷ-kheo không kham nhẫn các sắc. Và này các Tỷ-kheo, thế nào là Tỷ-kheo không kham nhẫn các tiếng?
 
 <!--pg-->
 10. Ở đây, này các Tỷ-kheo, Tỷ-kheo khi tai nghe tiếng liền tham đắm các tiếng khả ái, tâm không thể
@@ -377,7 +377,7 @@ của vua kham nhẫn các hương. Và này các Tỷ-kheo, thế nào là con 
 <!--pg-->
 19. Ở đây, này các Tỷ-kheo, con voi của vua đi đến chiến trận, khinh miệt một máng cỏ và nước, hoặc
 hai, hoặc ba, hoặc bốn hoặc năm máng cỏ và nước, không chùn chân, không rủn chí, có đủ can đảm, có
-thể tham gia chiến trận. Như vậy, này các Tỷ-kheo, con voi của vua kham nhẫn các vị. Và này các Tỷkheo, thế nào là con voi của vua kham nhẫn các xúc?
+thể tham gia chiến trận. Như vậy, này các Tỷ-kheo, con voi của vua kham nhẫn các vị. Và này các Tỷ-kheo, thế nào là con voi của vua kham nhẫn các xúc?
 
 <!--pg-->
 20. Ở đây, này các Tỷ-kheo, con voi của vua đi đến chiến trận, khi bị một mũi tên bắn trúng, hoặc hai,
@@ -395,7 +395,7 @@ kham nhẫn các vị, kham nhẫn các xúc. Và này các Tỷ-kheo, thế nà
 
 <!--pg-->
 22. Ở đây, này các Tỷ-kheo, Tỷ-kheo khi mắt thấy sắc, không tham đắm các sắc khả ái, có thể giữ tâm
-định tĩnh. Như vậy, này các Tỷ-kheo, Tỷ-kheo kham nhẫn các sắc. Và này các Tỷ-kheo, thế nào là Tỷkheo kham nhẫn các tiếng?
+định tĩnh. Như vậy, này các Tỷ-kheo, Tỷ-kheo kham nhẫn các sắc. Và này các Tỷ-kheo, thế nào là Tỷ-kheo kham nhẫn các tiếng?
 
 <!--pg-->
 23. Ở đây, này các Tỷ-kheo, Tỷ-kheo khi tai nghe tiếng, không tham đắm các tiếng khả ái, có thể giữ
@@ -409,7 +409,7 @@ nào là Tỷ-kheo kham nhẫn các vị?
 
 <!--pg-->
 25. Ở đây, này các Tỷ-kheo, Tỷ-kheo khi lưỡi nếm các vị, không tham đắm các vị khả ái, có thể giữ tâm
-định tĩnh. Như vậy, này các Tỷ-kheo, Tỷ-kheo kham nhẫn các vị. Và thế nào, này các Tỷ-kheo, là Tỷkheo kham nhẫn các xúc?
+định tĩnh. Như vậy, này các Tỷ-kheo, Tỷ-kheo kham nhẫn các vị. Và thế nào, này các Tỷ-kheo, là Tỷ-kheo kham nhẫn các xúc?
 
 <!--pg-->
 26. Ở đây, này các Tỷ-kheo, Tỷ-kheo khi thân cảm các xúc, không tham đắm các xúc khả ái, có thể giữ

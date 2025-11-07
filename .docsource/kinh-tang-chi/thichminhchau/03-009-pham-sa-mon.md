@@ -6,7 +6,7 @@
 Thọ trì tăng thượng giới học, thọ trì tăng thượng tâm học, thọ trì tăng thượng tuệ học. Ðây là ba hạnh
 Sa-môn cần phải làm naỳ của Sa-môn. Ở đây vậy, này các Tỷ-kheo, hãy học tập như sau: “Sắc bén sẽ là
 ước muốn chúng ta để thọ trì tăng thượng giới học. Sắc bén sẽ là ước muốn chúng ta để thọ trì tăng
-thượng định học. Sắc bén sẽ là ước muốn chúng ta để thọ trì tăng thượng tuệ học”. Như vậy, này các Tỷkheo, các Thầy cần phải học tập.
+thượng định học. Sắc bén sẽ là ước muốn chúng ta để thọ trì tăng thượng tuệ học”. Như vậy, này các Tỷ-kheo, các Thầy cần phải học tập.
 
 2. Ví như, này các Tỷ-kheo, một con lừa đi theo sau lưng một đàn bò nghĩ rằng: “Ta cũng là con bò, ta
 cũng là con bò”, nhưng nó không có màu sắc giống như con bò. Nó không có tiếng giống như con bò.
@@ -42,7 +42,7 @@ các Thầy cần phải học tập.
 1. Như vầy tôi nghe.
 
 Một thời Thế Tôn trú ở Vesàli, tại Ðại Lâm, chỗ giảng đường có góc nhọn. Rồi một Tỷ-kheo người
-Vajji đi đến Thế Tôn; sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Ngồi xuống một bên, Tỷkheo người Vajji bạch Thế Tôn:
+Vajji đi đến Thế Tôn; sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Ngồi xuống một bên, Tỷ-kheo người Vajji bạch Thế Tôn:
 − Bạch Thế Tôn, hơn 150 học pháp này, nửa tháng một lần con phải tụng đọc, ở đây, con không có thể
 học nổi.
 
@@ -269,7 +269,7 @@ không khéo lợi ích cho ta, khi Thế Tôn với pháp thoại liên hệ đ
 khích lệ, làm cho phấn khởi, làm cho hoan hỷ, lại lấy làm bất nhẫn, lấy làm bất mãn, nghĩ rằng: “Sa-môn
 này quá tăn măn, tỉ mỉ!”. Vậy ta hãy đi đến Thế Tôn, sau khi đến, trước mặt Thế Tôn, hãy tỏ lộ có phạm
 tội là có phạm tội!”. Phạm tội đã chinh phục con, bạch Thế Tôn, ngu si như con, đần độn như con, bất
-thiện như con. Vì rằng trong khi Thế Tôn, với pháp thoại liên hệ đến pháp học, giảng dạy cho các Tỷkheo, khích lệ, làm cho phấn khởi, làm cho hoan hỷ, con lấy làm bất nhẫn, con cảm thấy bất mãn, nghĩ
+thiện như con. Vì rằng trong khi Thế Tôn, với pháp thoại liên hệ đến pháp học, giảng dạy cho các Tỷ-kheo, khích lệ, làm cho phấn khởi, làm cho hoan hỷ, con lấy làm bất nhẫn, con cảm thấy bất mãn, nghĩ
 rằng: “Vị Sa-môn này quá tăn măn tỉ mỉ”. Bạch Thế Tôn, mong Thế Tôn chấp nhận con có phạm tội là
 có phạm tội, để con ngăn chận trong tương lai.
 
@@ -281,7 +281,7 @@ phát lộ, thời Ta chấp nhận cho Thầy. Ðây là sự tăng trưởng g
 phạm tội là có phạm tội, và như pháp phát lộ, để ngăn chặn trong tương lai.
 
 5. Nếu một trưởng lão Tỷ-kheo, này Kassapa, không ưa thích học tập, không tán thán chấp hành học tập,
-và đối với các Tỷ-kheo không ưa thích học tập, vị này không khích lệ họ học tập. Còn đối với các Tỷkheo ưa thích học tập, vị này không tán thán họ chơn thực và đúng thời. Tỷ-kheo trưởng lão như vậy,
+và đối với các Tỷ-kheo không ưa thích học tập, vị này không khích lệ họ học tập. Còn đối với các Tỷ-kheo ưa thích học tập, vị này không tán thán họ chơn thực và đúng thời. Tỷ-kheo trưởng lão như vậy,
 này Kassapa, Ta không có tán thán. Vì cớ sao? Vì các Tỷ-kheo khác có thể thân cận với trưởng lão ấy,
 nghĩ rằng: “Bậc Ðạo sư tán thán vị ấy”. Và những ai thân cận với vị ấy, họ có thể chấp nhận tri kiến của
 vị ấy. Và những ai chấp nhận tri kiến của vị ấy, sẽ đem lại bất hạnh, đau khổ lâu dài cho họ. Do vậy, này

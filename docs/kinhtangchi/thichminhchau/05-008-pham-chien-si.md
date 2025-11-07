@@ -18,7 +18,7 @@ khóa, là bậc Thánh đã hạ cây cờ xuống, đã đặt gánh nặng xu
 
 Và thế nào là Tỷ-kheo đã cất đi các chướng ngại?
 4\. Ở đây, này các Tỷ-kheo, Tỷ-kheo đã đoạn trừ vô minh, đã cắt đứt tận gốc rễ, làm cho như thân cây
-tàla, làm cho không thể hiện hữu, không thể sinh khởi trong tương lai. Này các Tỷ-kheo, như vậy là Tỷkheo đã cất đi các vật chướng ngại.
+tàla, làm cho không thể hiện hữu, không thể sinh khởi trong tương lai. Này các Tỷ-kheo, như vậy là Tỷ-kheo đã cất đi các vật chướng ngại.
 
 Và này các Tỷ-kheo, thế nào là Tỷ-kheo đã lấp các thông hào?
 
@@ -81,7 +81,7 @@ Tỷ-kheo đã nhổ lên cột trụ.
 Và này các Tỷ-kheo, thế nào là Tỷ-kheo đã mở tung các ổ khóa?
 
 7\. Ở đây, này các Tỷ-kheo, Tỷ-kheo đã đoạn trừ năm hạ phần kiết sử, đã cắt đứt tận gốc rễ, đã làm cho
-như thân cây tàla, đã làm cho không thể hiện hữu, không thể sanh khởi trong tương lai. Này các Tỷkheo, như vậy là Tỷ-kheo đã mở tung các ổ khóa.
+như thân cây tàla, đã làm cho không thể hiện hữu, không thể sanh khởi trong tương lai. Này các Tỷ-kheo, như vậy là Tỷ-kheo đã mở tung các ổ khóa.
 
 Và này các Tỷ-kheo, thế nào gọi Tỷ-kheo là bậc Thánh đã hạ cây cờ xuống, đã đặt gánh nặng xuống,
 không có gì hệ lụy?
@@ -149,7 +149,7 @@ nghe, như đã học thuộc lòng, nhưng không rõ biết mục đích tối
 gọi là Tỷ-kheo, thuyết trình nhiều, nhưng không sống theo pháp.
 
 4\. Lại nữa, này các Tỷ-kheo, Tỷ-kheo đọc tụng pháp một cách rộng rãi như đã được nghe, như đã được
-học thuộc lòng, nhưng không rõ biết mục đích tối thượng với trí tuệ. Này các Tỷ-kheo, đây gọi là Tỷkheo đọc tụng nhiều, nhưng không sống theo pháp.
+học thuộc lòng, nhưng không rõ biết mục đích tối thượng với trí tuệ. Này các Tỷ-kheo, đây gọi là Tỷ-kheo đọc tụng nhiều, nhưng không sống theo pháp.
 
 5\. Lại nữa, này các Tỷ-kheo, vị Tỷ-kheo với tâm tùy tầm, tùy tứ, với ý tùy quán pháp như được nghe,
 như đã được học thuộc lòng, nhưng không rõ biết mục đích tối thượng với trí tuệ. Này các Tỷ-kheo, đây
@@ -220,9 +220,9 @@ hay thiếu nữ đạp đẽ, khả ái, làm đẹp lòng người với sắc
 mình thấy một phụ nữ hay một thiếu nữ đẹp đẽ, khả ái, làm đẹp lòng người với sắc mặt đẹp thù thắng
 như hoa sen. Vị ấy, sau khi thấy người phụ nữ hay người thiếu nữ ấy, liền chùn chân, rủn chí, không còn
 can đảm, không thể có thể tiếp tục đời sống Phạm hạnh, sau khi biểu lộ sự yếu kém trong học tập, liền
-bỏ học pháp, trở lui lại đời sống thế tục. Ðây là nghĩa cờ xí dựng lên đối với vị ấy. Ví như, này các Tỷkheo, hạng người chiến sĩ ấy chịu đựng được bụi mù dấy lên, nhưng khi thấy cờ xí dựng lên, liền chùn
+bỏ học pháp, trở lui lại đời sống thế tục. Ðây là nghĩa cờ xí dựng lên đối với vị ấy. Ví như, này các Tỷ-kheo, hạng người chiến sĩ ấy chịu đựng được bụi mù dấy lên, nhưng khi thấy cờ xí dựng lên, liền chùn
 chân, rủn chí, không còn can đảm, không có thể ra trận xáp chiến. Này các Tỷ-kheo, Ta tuyên bố người
-này giống như ví dụ ấy. Như vậy ở đây, này các Tỷ-kheo, là một hạng người. Ðây là người, này các Tỷkheo, được ví dụ với hạng người chiến sĩ thứ hai có mặt, hiện hữu giữa các vị Tỷ-kheo
+này giống như ví dụ ấy. Như vậy ở đây, này các Tỷ-kheo, là một hạng người. Ðây là người, này các Tỷ-kheo, được ví dụ với hạng người chiến sĩ thứ hai có mặt, hiện hữu giữa các vị Tỷ-kheo
 
 10\. Lại nữa, này các Tỷ-kheo, Tỷ-kheo chịu đựng được bụi mù dấy lên, chịu đựng được cờ xí dựng lên,
 nhưng khi nghe tiếng la hét, liền chùn chân, rủn chí, không còn can đảm, không có thể tiếp tục đời sống
@@ -286,7 +286,7 @@ chiến thắng trong chiến trận, vị ấy vẫn đứng hàng đầu trong
 bố người này giống như ví dụ ấy. Như vậy, này các Tỷ-kheo, là một hạng người. Này các Tỷ-kheo, đấy
 là hạng người được ví dụ với người chiến sĩ thứ năm có mặt, hiện hữu ở đời.
 
-Những người này, này các Tỷ-kheo, được ví dụ với năm chiến sĩ có mặt, hiện hữu ở giữa các vị Tỷkheo.
+Những người này, này các Tỷ-kheo, được ví dụ với năm chiến sĩ có mặt, hiện hữu ở giữa các vị Tỷ-kheo.
 
 <!--pg-->
 ### (VI) (76) Người Chiến Sĩ (2)
@@ -444,7 +444,7 @@ như thật rõ biết: “Ðây là khổ tập”, như thật rõ biết: “
 Ví như, này các Tỷ-kheo, người chiến sĩ ấy cầm kiếm và mâu, đeo cung và tên, tham gia vào trận chiến
 ác liệt. Người ấy, sau khi chiến thắng trận ấy, chiến thắng trong chiến trận, vị ấy vẫn đứng đầu trong
 chiến trận ấy. Này các Tỷ-kheo, Ta tuyên bố người này giống như ví dụ ấy. Ở đây, này các Tỷ-kheo, có
-một hàng người như vậy. Ðây là hạng người được ví dụ với chiến sĩ thứ năm, hiện hữu giữa các Tỷkheo.
+một hàng người như vậy. Ðây là hạng người được ví dụ với chiến sĩ thứ năm, hiện hữu giữa các Tỷ-kheo.
 
 Này các Tỷ-kheo, có năm hạng người được ví dụ với năm người chiến sĩ này, có mặt, hiện hữu giữa các
 vị Tỷ-kheo.

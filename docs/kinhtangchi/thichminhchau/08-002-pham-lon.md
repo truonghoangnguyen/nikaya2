@@ -305,7 +305,7 @@ vậy. Này Sìha, đây là pháp môn, với pháp môn ấy, nếu nói một
 − Thật vi diệu thay! Bạch Thế Tôn! Thật vi diệu thay! Bạch Thế Tôn, như người dựng đứng lại những gì
 bị quăng ngã xuống, phơi bày ra những gì bị che kín, chỉ đường cho kẻ bị lạc hướng, đem đèn sáng vào
 trong bóng tối để những ai có mắt có thể thấy sắc. Cũng vậy, Chánh pháp đã được Tôn giả Gotama dùng
-nhiều phương tiện trình bày, giải thích. Vậy nay con xin quy y Thế Tôn, quy y pháp, quy y chúng Tỷkheo Tăng. Mong Thế Tôn nhận con làm đệ tử cư sĩ, từ nay cho đến mạng chung, con trọn đời quy
+nhiều phương tiện trình bày, giải thích. Vậy nay con xin quy y Thế Tôn, quy y pháp, quy y chúng Tỷ-kheo Tăng. Mong Thế Tôn nhận con làm đệ tử cư sĩ, từ nay cho đến mạng chung, con trọn đời quy
 ngưỡng.
 
 − Này Sìha, hãy chín chắn suy tư, hãy chín chắn suy tư là tốt đẹp với những người trứ danh như Ông.
@@ -461,7 +461,7 @@ Này các Tỷ-kheo, đây là tám loại ngựa chưa được điều phục 
 người?
 
 Ở đây, này các Tỷ-kheo, các Tỷ-kheo buộc tội một Tỷ-kheo phạm tội. Tỷ-kheo ấy bị các Tỷ-kheo buộc
-tội, tránh né (vấn đề) như là không nhớ, nói rằng: “Tôi không nhớ, tôi không nhớ “. Ví như, này các Tỷkheo, con ngựa chưa được điều phục ấy, khi bảo đi, bị gậy thúc, hay bị người đánh xe la, nó đi lùi với
+tội, tránh né (vấn đề) như là không nhớ, nói rằng: “Tôi không nhớ, tôi không nhớ “. Ví như, này các Tỷ-kheo, con ngựa chưa được điều phục ấy, khi bảo đi, bị gậy thúc, hay bị người đánh xe la, nó đi lùi với
 cái lưng làm cho cái xe chạy vòng lại. Này các Tỷ-kheo, Ta nói rằng, người này giống như ví dụ ấy.
 Như vậy, này các Tỷ-kheo, đây là hạng người chưa được điều phục. Này các Tỷ-kheo, đây là tánh xấu
 thứ nhất của con người.
@@ -490,7 +490,7 @@ phục. Này các Tỷ-kheo, đây là tánh xấu thứ tư của con người.
 14\. Lại nữa, này các Tỷ-kheo, các Tỷ-kheo buộc tội một Tỷ-kheo phạm tội. Tỷ-kheo ấy bị các Tỷ-kheo
 buộc tội, liền nói ba hoa, khua tay múa chân. Này các Tỷ-kheo, ví như con ngựa chưa được điều phục
 ấy, khi bảo đi, bị gậy thúc, hay bị người đánh xe la, liền trườn đứng phía thân trước và đạp lên không
-với chân trước. Này các Tỷ-kheo, Ta nói rằng, người này giống như ví dụ ấy. Như vậy, này các Tỷkheo, ở đây là hạng người chưa được điều phục. Này các Tỷ-kheo, đây là tánh xấu thứ năm của con
+với chân trước. Này các Tỷ-kheo, Ta nói rằng, người này giống như ví dụ ấy. Như vậy, này các Tỷ-kheo, ở đây là hạng người chưa được điều phục. Này các Tỷ-kheo, đây là tánh xấu thứ năm của con
 người.
 
 15\. Lại nữa, này các Tỷ-kheo, các Tỷ-kheo buộc tội một Tỷ-kheo phạm tội. Tỷ-kheo ấy bị các Tỷ-kheo
@@ -512,7 +512,7 @@ Này các Tỷ-kheo, đây là tánh xấu thứ bảy của con người.
 buộc tội, nói như sau: “Tại sao các Tôn giả lại quá lo cho tôi. Bắt đầu từ nay, tôi sẽ từ bỏ học pháp và
 hoàn tục”. Rồi vị ấy sau khi từ bỏ học pháp và hoàn tục nói như sau: “Nay các Tôn giả ấy được hoan
 hỷ”. Này các Tỷ-kheo, ví như con ngựa chưa được điều phục ấy, khi bảo đi, bị gậy thúc, hay bị người
-đánh xe la, liền tréo lại hai chân trước, tréo lại hai chân sau và nằm xuống bốn chân tại đấy. Này các Tỷkheo, Ta nói rằng, người này giống như ví dụ ấy. Như vậy, này các Tỷ-kheo, đây là hạng người chưa
+đánh xe la, liền tréo lại hai chân trước, tréo lại hai chân sau và nằm xuống bốn chân tại đấy. Này các Tỷ-kheo, Ta nói rằng, người này giống như ví dụ ấy. Như vậy, này các Tỷ-kheo, đây là hạng người chưa
 được điều phục. Này các Tỷ-kheo, đây là tánh xấu thứ tám của con người.
 
 Này các Tỷ-kheo, đây là tám hạng người chưa được điều phục và tám tánh xấu của con người.
@@ -578,7 +578,7 @@ _Xứng đáng đi sứ giả._
 
 2\. Này các Tỷ-kheo, nữ nhân trói buộc nam nhân với sắc; này các Tỷ-kheo nữ nhân trói buộc nam nhân
 với tiếng cười; này các Tỷ-kheo, nữ nhân trói buộc nam nhân với lời nói; này các Tỷ-kheo, nữ nhân trói
-buộc nam nhân với lời ca; này các Tỷ-kheo, nữ nhân trói buộc nam nhân với nước mắt; này các Tỷkheo, nữ nhân trói buộc nam nhân với áo quần; này các Tỷ-kheo, nữ nhân trói buộc nam nhân với vật
+buộc nam nhân với lời ca; này các Tỷ-kheo, nữ nhân trói buộc nam nhân với nước mắt; này các Tỷ-kheo, nữ nhân trói buộc nam nhân với áo quần; này các Tỷ-kheo, nữ nhân trói buộc nam nhân với vật
 tặng; này các Tỷ-kheo, nữ nhân trói buộc nam nhân với xúc chạm.
 
 Với tám hình tướng, này các Tỷ-kheo, nữ nhân trói buộc nam nhân. Các loài hữu tình bị khéo trói buộc
@@ -591,7 +591,7 @@ bởi các hình tướng ấy, giống như trói buộc bởi bẫy sập.
 
 2\. Này các Tỷ-kheo, nam nhân trói buộc nữ nhân với sắc; này các Tỷ-kheo nam nhân trói buộc nữ nhân
 với tiếng cười; này các Tỷ-kheo, nam nhân trói buộc nữ nhân với lời nói; này các Tỷ-kheo, nam nhân
-trói buộc nữ nhân với lời ca; này các Tỷ-kheo, nam nhân trói buộc nữ nhân với nước mắt; này các Tỷkheo, nam nhân trói buộc nữ nhân với áo quần; này các Tỷ-kheo, nam nhân trói buộc nữ nhân với vật
+trói buộc nữ nhân với lời ca; này các Tỷ-kheo, nam nhân trói buộc nữ nhân với nước mắt; này các Tỷ-kheo, nam nhân trói buộc nữ nhân với áo quần; này các Tỷ-kheo, nam nhân trói buộc nữ nhân với vật
 tặng; này các Tỷ-kheo, nam nhân trói buộc nữ nhân với xúc chạm.
 
 Với tám hình tướng, này các Tỷ-kheo, nam nhân trói buộc nữ nhân. Các loài hữu tình bị khéo trói buộc
@@ -752,7 +752,7 @@ hãy đọc giới bổn cho các Tỷ-kheo.
 đã sáng rõ, từ chỗ ngồi, đứng dậy, đắp thượng y vào một bên vai, chắp tay vái chào Thế Tôn và bạch
 Thế Tôn:
 
-− Bạch Thế Tôn, đêm đã gần mãn, canh cuối đã qua, rạng đông đã khởi, mặt đêm đã sáng tỏ, chúng Tỷkheo đã ngồi lâu, bạch Thế Tôn, Thế Tôn hãy đọc giới bổn cho các Tỷ-kheo.
+− Bạch Thế Tôn, đêm đã gần mãn, canh cuối đã qua, rạng đông đã khởi, mặt đêm đã sáng tỏ, chúng Tỷ-kheo đã ngồi lâu, bạch Thế Tôn, Thế Tôn hãy đọc giới bổn cho các Tỷ-kheo.
 
 − Này Ananda, hội chúng không được thanh tịnh.
 

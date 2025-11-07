@@ -55,7 +55,7 @@ không có cân đối?
 thật tuệ tri: “Ðây là Khổ diệt”, như thật tuệ tri: “Ðây là con đường đưa đến Khổ diệt”. Ðây Ta nói trong
 nghĩa có tốc lực. Nhưng khi được hỏi về thắng pháp, thắng luật, vị ấy lại ngập ngừng, không có trả lời.
 Ðây Ta nói trong nghĩa không có sắc đẹp. Vị ấy không có nhận được các đồ tư dụng, như y áo, đồ ăn
-khất thực, sàng tọa, dược phẩm trị bệnh. Ðây Ta nói trong nghĩa không có cân đối. Như vậy, này các Tỷkheo, là người chưa có điều phục, có tốc lực, nhưng không có sắc đẹp, không có cân đối.
+khất thực, sàng tọa, dược phẩm trị bệnh. Ðây Ta nói trong nghĩa không có cân đối. Như vậy, này các Tỷ-kheo, là người chưa có điều phục, có tốc lực, nhưng không có sắc đẹp, không có cân đối.
 5\. Như thế nào, này các Tỷ-kheo, là hạng người chưa có điều phục, có tốc lực, có sắc đẹp, nhưng không
 có cân đối?
 
@@ -63,7 +63,7 @@ có cân đối?
 thật tuệ tri: “Ðây là Khổ diệt”, như thật tuệ tri: “Ðây là con đường đưa đến Khổ diệt”. Ðây Ta nói trong
 nghĩa có tốc lực. Nhưng khi được hỏi về thắng pháp, thắng luật, vị ấy liền trả lời, không có ngập ngừng.
 Ðây Ta nói trong nghĩa có sắc đẹp. Nhưng vị ấy không nhận được các đồ tư dụng, như y áo, đồ ăn khất
-thực, sàng tọa, dược phẩm trị bệnh. Ðây Ta nói trong nghĩa không có cân đối. Như vậy, này các Tỷkheo, là hạng người chưa được điều phục, có tốc lực, có sắc đẹp nhưng không có cân đối.
+thực, sàng tọa, dược phẩm trị bệnh. Ðây Ta nói trong nghĩa không có cân đối. Như vậy, này các Tỷ-kheo, là hạng người chưa được điều phục, có tốc lực, có sắc đẹp nhưng không có cân đối.
 
 6\. Và như thế nào, này các Tỷ-kheo, là người chưa được điều phục, có tốc lực, có sắc đẹp, có cân đối?
 

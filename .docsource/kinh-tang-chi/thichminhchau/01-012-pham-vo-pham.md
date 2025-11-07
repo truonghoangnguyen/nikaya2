@@ -4,7 +4,7 @@
 
 1. - Những Tỷ-kheo nào, này các Tỷ-kheo, nêu rõ không phạm là có phạm, những Tỷ-kheo ấy, này các
 Tỷ-kheo, với sở hành như vậy, đưa lại bất hạnh cho đa số, không an lạc cho đa số, không lợi ích cho đa
-số, đưa lại bất hạnh, đau khổ cho chư Thiên và loài Người. Và hơn nữa, này các Tỷ-kheo, những Tỷkheo ấy, tạo điều vô phước và khiến cho diệu pháp biến mất.
+số, đưa lại bất hạnh, đau khổ cho chư Thiên và loài Người. Và hơn nữa, này các Tỷ-kheo, những Tỷ-kheo ấy, tạo điều vô phước và khiến cho diệu pháp biến mất.
 
 2. (Như số 1 trên, chỉ thế vào: “nêu rõ có phạm là không phạm”)...
 

@@ -1,4 +1,4 @@
-# 27. Kinh Khởi Thế Nhân Bổn
+# DN 27. Kinh Khởi Thế Nhân Bổn
 _**Aggaññasutta**_
 
 Như vầy tôi nghe.[98](/kinhtruongbo/sujato-vi/notes/27#98){.note} Một thời, Đức Phật trú gần

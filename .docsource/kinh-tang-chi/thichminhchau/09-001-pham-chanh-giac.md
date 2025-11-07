@@ -53,13 +53,13 @@ Này các Tỷ-kheo, với Tỷ-kheo làm bạn với thiện, thân hữu với
 đợi như sau: Câu chuyện này có khả năng đoạn giảm, đưa đến tâm rộng mở, như luận về ít dục... những
 câu chuyện như vậy, có được không khó khăn, có không không mệt nhọc, có được không phí sức. Này
 các Tỷ-kheo, với Tỷ-kheo làm bạn với thiện, thân hữu với thiện, giao thiệp với thiện, thời được chờ đợi
-như sau: sẽ sống tinh cần tinh tấn để đoạn tận các pháp bất thiện... trong các thiện pháp. Này các Tỷkheo, với Tỷ-kheo làm bạn với thiện, thân hữu với thiện, giao thiệp với thiện, thời được chờ đợi như
+như sau: sẽ sống tinh cần tinh tấn để đoạn tận các pháp bất thiện... trong các thiện pháp. Này các Tỷ-kheo, với Tỷ-kheo làm bạn với thiện, thân hữu với thiện, giao thiệp với thiện, thời được chờ đợi như
 sau: sẽ có trí tuệ, thành tựu trí tuệ về sanh và diệt, với Thánh thể nhập đi đến con đường chơn chánh
 đoạn tận khổ đau.
 
 Và này các Tỷ-kheo, khi Tỷ-kheo ấy đã trú trong năm pháp này, bốn pháp nữa cần phải tu tập. Cần phải
 tu tập tưởng bất tịnh để đoạn tận tham ái, cần phải tu tập từ tâm để đoạn tận sân, cần phải tu tập niệm
-hơi thở vô, hơi thở ra để cắt đứt tầm, cần phải tu tập tưởng vô thường để phá hoại ngã mạn. Này các Tỷkheo, với Tỷ-kheo có tưởng vô thường, tưởng vô ngã được an trú; với Tỷ-kheo có tưởng vô ngã, ngã
+hơi thở vô, hơi thở ra để cắt đứt tầm, cần phải tu tập tưởng vô thường để phá hoại ngã mạn. Này các Tỷ-kheo, với Tỷ-kheo có tưởng vô thường, tưởng vô ngã được an trú; với Tỷ-kheo có tưởng vô ngã, ngã
 mạn bị phá hoại, ngay trong hiện tại, đạt được Niết-bàn.
 
 **(II) (2) Y Chỉ**
@@ -71,7 +71,7 @@ một bên, Tỷ-kheo ấy bạch Thế Tôn:
 Tỷ-kheo đầy đủ y chỉ?
 
 2. - Nếu Tỷ-kheo y chỉ lòng tin, đoạn tận bất thiện tu tập thiện, như vậy, với vị ấy, bất thiện được đoạn
-tận. Nếu Tỷ-kheo y chỉ tàm (xấu hổ)... nếu Tỷ-kheo y chỉ sợ hãi... nếu Tỷ-kheo y chỉ tinh tấn... nếu Tỷkheo y chỉ trí tuệ, đoạn tận bất thiện, tu tập thiện, như vậy với vị ấy, bất thiện được đoạn tận. Như vậy
+tận. Nếu Tỷ-kheo y chỉ tàm (xấu hổ)... nếu Tỷ-kheo y chỉ sợ hãi... nếu Tỷ-kheo y chỉ tinh tấn... nếu Tỷ-kheo y chỉ trí tuệ, đoạn tận bất thiện, tu tập thiện, như vậy với vị ấy, bất thiện được đoạn tận. Như vậy
 Tỷ-kheo ấy đã đoạn tận, đã khéo đoạn tận bất thiện, khi bất thiện ấy được thấy với Thánh trí tuệ và được
 đoạn tận. Này các Tỷ-kheo, sau khi Tỷ-kheo ấy an trú trong năm pháp này, có bốn pháp nữa vị ấy phải y
 chỉ. Thế nào là bốn?
@@ -473,7 +473,7 @@ cả nay nữa, này Sajjha, Ta đã nói như sau:
 “Tỷ-kheo nào là bậc A-la-hán, đã đoạn tận các lậu hoặc, đã thành tựu viên mãn, việc nên làm đã làm, đã
 đặt gánh nặng xuống, mục đích đã đạt được, hữu kiết sử đã đoạn tận, chơn chánh giải thoát; vị ấy không
 có thể vi phạm chín sự: Tỷ-kheo đã đoạn tận các lậu hoặc không có thể cố ý đoạt mạng sống của loài
-hữu tình; Tỷ-kheo đã đoạn tận các lậu hoặc không có thể lấy của không cho, được gọi là ăn trộm; Tỷkheo đã đoạn tận các lậu hoặc, không có thể hành dâm dục; Tỷ-kheo đã đoạn tận các lậu hoặc, không có
+hữu tình; Tỷ-kheo đã đoạn tận các lậu hoặc không có thể lấy của không cho, được gọi là ăn trộm; Tỷ-kheo đã đoạn tận các lậu hoặc, không có thể hành dâm dục; Tỷ-kheo đã đoạn tận các lậu hoặc, không có
 thể biết mà nói láo; Tỷ-kheo đã đoạn tận các lậu hoặc, không có thể hưởng thọ các dục do các đồ cất
 chứa đem lại, như trước còn làm gia chủ. Tỷ-kheo đã đoạn tận các lậu hoặc không có thể phủ nhận Phật;
 Tỷ-kheo đã đoạn tận các lậu hoặc không có thể phủ nhận Pháp; Tỷ-kheo đã đoạn tận các lậu hoặc không

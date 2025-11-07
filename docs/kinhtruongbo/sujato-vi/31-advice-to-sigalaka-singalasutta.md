@@ -1,4 +1,4 @@
-# 31. Lời Khuyên đến Sigālaka
+# DN 31. Lời Khuyên đến Sigālaka
 _**Siṅgālasutta**_
 
 Như vầy tôi nghe. Một thời Đức Phật đang ở gần thành Vương Xá, trong Trúc Lâm, nơi các con sóc được cho ăn. Bấy giờ, con trai của người gia chủ tên là Sigālaka dậy sớm và rời khỏi thành Vương Xá. Với quần áo và tóc tai ướt đẫm, anh chắp tay đảnh lễ các phương—[258](/kinhtruongbo/sujato-vi/notes/31#258){.note} đông, nam, tây, bắc, phương dưới, và phương trên.[259](/kinhtruongbo/sujato-vi/notes/31#259){.note}

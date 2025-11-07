@@ -39,9 +39,9 @@ lên nơi ta: “Bất động là tâm giải thoát của ta. Ðây là đời
 
 <!--pg-->
 1. - Này các Tỷ-kheo, nếu không có vị ngọt ở đời, thời các loài hữu tình không có tham nhiễm đối với
-đời. Vì rằng, này các Tỷ-kheo, có vị ngọt ở đời, nên các loài hữu tình có tham nhiễm ở đời. Này các Tỷkheo, nếu không có nguy hại ở đời, thời các loài hữu tình không có nhàm chán đối với đời. Vì rằng, này
+đời. Vì rằng, này các Tỷ-kheo, có vị ngọt ở đời, nên các loài hữu tình có tham nhiễm ở đời. Này các Tỷ-kheo, nếu không có nguy hại ở đời, thời các loài hữu tình không có nhàm chán đối với đời. Vì rằng, này
 các Tỷ-kheo, có nguy hại ở đời, nên các loài hữu tình có nhàm chán đối với đời. Này các Tỷ-kheo, nếu
-không có xuất ly ra khỏi đời, thời các loài hữu tình không có xuất ly đối với đời. Vì rằng, này các Tỷkheo, có xuất ly đối với đời, nên các loài hữu tình có xuất ly ra khỏi đời.
+không có xuất ly ra khỏi đời, thời các loài hữu tình không có xuất ly đối với đời. Vì rằng, này các Tỷ-kheo, có xuất ly đối với đời, nên các loài hữu tình có xuất ly ra khỏi đời.
 
 Và này các Tỷ-kheo, cho đến khi nào các loài hữu tình chưa như thật giác tri vị ngọt ở đời là vị ngọt,
 nguy hại là nguy hại, xuất ly là xuất ly, cho đến khi ấy, này các Tỷ-kheo, các loài hữu tình không có thể
@@ -66,8 +66,8 @@ hạnh hay mục đích của Bà-la-môn hạnh.
 
 **103.- Khóc Than**
 
-− Này các Tỷ-kheo, đây được xem là khóc than trong giới luật bậc Thánh, tức là ca vịnh. Này các Tỷkheo, đây được xem là điên loạn trong giới luật bậc Thánh, tức là múa nhảy. Này các Tỷ-kheo, đây được
-xem là trẻ con trong giới luật bậc Thánh, tức là cười quá đáng để lộ cả răng. Do luật này, này các Tỷkheo, hãy phá cây cầu đi đến hát. Hãy phá cây cầu đi đến múa nhảy. Thật là vừa đủ nếu các Thầy được
+− Này các Tỷ-kheo, đây được xem là khóc than trong giới luật bậc Thánh, tức là ca vịnh. Này các Tỷ-kheo, đây được xem là điên loạn trong giới luật bậc Thánh, tức là múa nhảy. Này các Tỷ-kheo, đây được
+xem là trẻ con trong giới luật bậc Thánh, tức là cười quá đáng để lộ cả răng. Do luật này, này các Tỷ-kheo, hãy phá cây cầu đi đến hát. Hãy phá cây cầu đi đến múa nhảy. Thật là vừa đủ nếu các Thầy được
 hoan hỷ đúng pháp, mỉm cười để tỏ là các Thầy được hoan hỷ.
 
 **104.- Không Thoả Mãn**

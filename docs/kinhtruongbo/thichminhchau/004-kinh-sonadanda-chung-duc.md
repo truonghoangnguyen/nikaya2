@@ -384,7 +384,7 @@ người dựng đứng lại những gì bị quăng ngã xuống, phơi bày r
 lạc hướng, đem đèn sáng vào trong bóng tối để những ai có mắt có thể thấy sắc. Cũng vậy chánh pháp
 đã được Tôn giả Gotama dùng nhiều phương tiện trình bày giải thích. Vậy nay con xin quy y Thế Tôn
 Gotama, quy y Pháp và quy y Tỷ-kheo Tăng. Mong Tôn giả Gotama nhận con làm đệ tử, từ nay trở đi
-cho đến mạng chung, con trọn đời quy ngưỡng. Và mong Tôn giả Gotama, ngày mai cùng chúng Tỷkheo nhận lời mời đến dùng cơm do con mời.
+cho đến mạng chung, con trọn đời quy ngưỡng. Và mong Tôn giả Gotama, ngày mai cùng chúng Tỷ-kheo nhận lời mời đến dùng cơm do con mời.
 
 Ðức Thế Tôn im lặng nhận lời. Lúc bấy giờ Bà-la-môn Sonadanda được biết Ðức Thế Tôn đã nhận lời,
 liền từ chỗ ngồi đứng dậy, đảnh lễ đức Thế Tôn, thân phía hữu hướng về đức Phật và từ biệt. Rồi Bà-la-môn  Sonadanda khi đêm đã mãn liền làm cho sẵn sàng tại nhà các món thượng vị, loại cứng và loại

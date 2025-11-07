@@ -1,4 +1,4 @@
-# 8. Tiếng Gầm Sư Tử Gửi Đến Du Sĩ Lõa Thể Kassapa
+# DN 8. Tiếng Gầm Sư Tử Gửi Đến Du Sĩ Lõa Thể Kassapa
 
 _**Mahāsīhanādasutta**_
 

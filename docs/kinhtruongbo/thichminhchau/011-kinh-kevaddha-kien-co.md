@@ -49,7 +49,7 @@ không chìm như đi trên đất liền; ngồi kiết-già đi trên hư khô
 mặt trời và mặt trăng; những vật có đại oai thần lực, đại oai thần như vậy, có thể tự thân bay đến cõi
 Phạm thiên.
 5\. Người có lòng tín thành ấy nói với một người không có lòng tín thành: “Này Tôn giả, thật vi diệu
-thay! Này Tôn giả, thật hy hữu thay, đại thần thông, đại oai đức của vị Sa-môn! Chính tôi đã thấy vị Tỷkheo chứng các thần thông, “một thân hiện ra nhiều thân, nhiều thân hiện ra một thân,... có thể tự thân
+thay! Này Tôn giả, thật hy hữu thay, đại thần thông, đại oai đức của vị Sa-môn! Chính tôi đã thấy vị Tỷ-kheo chứng các thần thông, “một thân hiện ra nhiều thân, nhiều thân hiện ra một thân,... có thể tự thân
 bay đến cõi Phạm thiên”. Người không có lòng tín thành có thể nói với người có lòng tín thành: “Này
 Tôn giả, có một chú thuật gọi là Gandhhàrì. Nhờ chú thuật hiện ra nhiều thân, nhiều thân hiện ra một
 thân... có thể tự thân bay đến cõi Phạm thiên”. Này Kevaddha, ngươi nghĩ thế nào? Người không có
@@ -68,7 +68,7 @@ suy tư của các loài hữu tình khác, của các người khác: “Như v
 như vậy là tâm của Ngươi”.
 
 7\. Người có lòng tín thành ấy nói với một người không có lòng tín thành: “Này Tôn giả, thật vi diệu
-thay! Này Tôn giả, thật hy hữu thay đại thần thông, đại oai đức của vị Sa-môn! Chính tôi đã thấy Tỷkheo nói lên tâm, nói lên tâm sở, nói lên sự suy tầm và nói lên sự suy tư của các loài hữu tình khác, của
+thay! Này Tôn giả, thật hy hữu thay đại thần thông, đại oai đức của vị Sa-môn! Chính tôi đã thấy Tỷ-kheo nói lên tâm, nói lên tâm sở, nói lên sự suy tầm và nói lên sự suy tư của các loài hữu tình khác, của
 các người khác: “Như vậy là ý của ngươi, thế này là ý của ngươi, như vậy là tâm của ngươi”. Người
 không có lòng tín thành có thể nói với người có lòng tín thành: “Này Tôn giả, có một chú thuật gọi là
 Maniko, nhờ chú thuật này, Tỷ-kheo nói lên tâm, nói lên tâm sở, nói lên sự suy tầm, và nói lên sự suy tư
@@ -93,7 +93,7 @@ tương tự như kinh Sa-môn quả, đoạn kinh số 40 - 74).
 
 44\. Khi quán tự thân đã xả ly năm triền cái ấy hân hoan sanh; do hân hoan nên hỷ sanh; do tâm hoan hỷ,
 thân được khinh an; do thân khinh an, lạc thọ sanh; do lạc thọ, tâm được định tĩnh. Vị Tỷ-kheo, ly dục,
-ly ác bất thiện pháp, chứng và trú thiền thứ nhất, một trạng thái hỷ lạc do ly dục sanh với tầm với tứ. Tỷkheo thấm nhuần, tẩm ướt, làm cho sung mãn tràn đầy thân mình với hỷ lạc do ly dục sanh, không một
+ly ác bất thiện pháp, chứng và trú thiền thứ nhất, một trạng thái hỷ lạc do ly dục sanh với tầm với tứ. Tỷ-kheo thấm nhuần, tẩm ướt, làm cho sung mãn tràn đầy thân mình với hỷ lạc do ly dục sanh, không một
 chỗ nào trên toàn thân không có hỷ lạc do ly dục sanh ấy thấm nhuần.
 
 45\. Này Kevaddha, như một người hầu tắm lão luyện hay đệ tử người hầu tắm. Sau khi rắc bột tắm trong
@@ -148,7 +148,7 @@ biết bốn đại chủng này - địa đại... phong đại - đi đâu sau
 chư thiên tên là Sakka: “Này Hiền giả, bốn đại chủng này - địa đại... phong đại - đi đâu, sau khi biến diệt
 hoàn toàn?”.
 Này Kevaddha, được nghe nói vậy, Ðế thích chư Thiên tên là Sakka nói với Tỷ-kheo ấy: “Này Tỷ-kheo,
-tôi không được biết bốn đại chủng ấy - địa đại... phong đại - đi đâu, sau khi biến diệt hoàn toàn. Này Tỷkheo, có chư Thiên tên là Yàma (Dạ-ma) ưu thế hơn, thù thắng hơn tôi. Vị này có thể biết bốn đại chủng
+tôi không được biết bốn đại chủng ấy - địa đại... phong đại - đi đâu, sau khi biến diệt hoàn toàn. Này Tỷ-kheo, có chư Thiên tên là Yàma (Dạ-ma) ưu thế hơn, thù thắng hơn tôi. Vị này có thể biết bốn đại chủng
 này - địa đại... phong đại - đi đâu, sau khi biến diệt hoàn toàn”.
 
 72\. Này Kevaddha, Tỷ-kheo ấy đi đến chư Thiên tên là Yàma (Dạ-ma) xong, liền hỏi chư Thiên Dạ-ma:
@@ -186,7 +186,7 @@ Nimmànarati: “Này các Hiền giả, bốn đại chủng này - địa đ�
 toàn?”.
 
 Này Kevaddha, được nghe nói vậy, chư Thiên Nimmànarati nói với Tỷ-kheo ấy: “Này Tỷ-kheo chúng
-tôi không được biết bốn đại chủng ấy - địa đại... phong đại - đi đâu, sau khi biến diệt hoàn toàn. Này Tỷkheo có Thiên tử tên là Sunimmita ưu thế hơn, thù thắng hơn chúng tôi. Vị này có thể biết bốn đại chủng
+tôi không được biết bốn đại chủng ấy - địa đại... phong đại - đi đâu, sau khi biến diệt hoàn toàn. Này Tỷ-kheo có Thiên tử tên là Sunimmita ưu thế hơn, thù thắng hơn chúng tôi. Vị này có thể biết bốn đại chủng
 này - địa đại... phong đại - đi đâu, sau khi biến diệt hoàn toàn”.
 
 77\. Này Kevaddha, Tỷ-kheo ấy đi đến Thiên tử Sunimmita. Khi đến xong, liền hỏi Thiên tử Sunimmita.
@@ -210,7 +210,7 @@ phong đại - đi đâu, sau khi biến diệt hoàn toàn”.
 “Này Hiền giả, bốn đại chủng này - địa đại... phong đại - đi đâu, sau khi biến diệt hoàn toàn?”.
 
 Này Kevaddha, được nghe nói vậy, Thiên tử Vasavatti nói với Tỷ-kheo ấy. “Này Tỷ-kheo, chúng tôi
-không được biết bốn đại chủng ấy - địa đại... phong đại - đi đâu, sau khi biến diệt hoàn toàn. Này Tỷkheo, có chư Thiên gọi là Brahmà Kayikà ưu thế hơn, thù thắng hơn chúng tôi. Những vị này có thể biết
+không được biết bốn đại chủng ấy - địa đại... phong đại - đi đâu, sau khi biến diệt hoàn toàn. Này Tỷ-kheo, có chư Thiên gọi là Brahmà Kayikà ưu thế hơn, thù thắng hơn chúng tôi. Những vị này có thể biết
 bốn đại chủng này - địa đại... phong đại - đi đâu, sau khi biến diệt hoàn toàn”.
 
 80\. Này Kevaddha, lúc bấy giờ, Tỷ-kheo ấy nhập định, và trong định tâm, con đường đưa đến Phạm

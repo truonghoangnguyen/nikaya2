@@ -20,9 +20,9 @@ lên tiếng rống con sư tử trong các hội chúng và chuyển Phạm lu�
 hành nghiệp quá khứ, vị lai, hiện tại. Này Các Tỷ-kheo, Như Lai như thật rõ biết... (như trên)... và
 chuyển Pháp luân.
 
-4\. Lại nữa, này các Tỷ-kheo, Như lai như thật rõ biết con đường đưa đến tất cả sanh thú. Này các Tỷkheo, Nư Lai như thật biết... (như trên)... và chuyển Phạm luân.
+4\. Lại nữa, này các Tỷ-kheo, Như lai như thật rõ biết con đường đưa đến tất cả sanh thú. Này các Tỷ-kheo, Nư Lai như thật biết... (như trên)... và chuyển Phạm luân.
 
-5\. Lại nữa, này các Tỷ-kheo, Như Lai như thật rõ biết thế giới với nhiều giới, nhiều sai biệt. Này các Tỷkheo, Như Lai như thật biết... (như trên)... và chuyển Phạm luân.
+5\. Lại nữa, này các Tỷ-kheo, Như Lai như thật rõ biết thế giới với nhiều giới, nhiều sai biệt. Này các Tỷ-kheo, Như Lai như thật biết... (như trên)... và chuyển Phạm luân.
 
 6\. Lại nữa, này các Tỷ-kheo, Như Lai như thật rõ biết chí hướng sai biệt của các loài chúng sanh. Này
 các Tỷ-kheo, Như lai như thật biết... (như trên)... và chuyển Phạm luân.
@@ -747,14 +747,14 @@ Này các Tỷ-kheo, có bốn tưởng này.
 
 11\. Các này là tối thượng, này các Tỷ-kheo, trong bốn tưởng này, tức là có người tưởng tri Vô sở hữu,
 nghĩ rằng: “Không có sự vật gì”. Này các Tỷ-kheo có những chúng sanh có tưởng như vậy. Ðối với các
-chúng sanh có tưởng như vậy, này các Tỷ-kheo, có sự đổi khác, có sự biến thoại. Thấy vậy, này các Tỷkheo, vị Thánh đệ tử nghe nhiều, nhàm chán trong ấy. Do nhàm chán trong ấy, vị ấy từ bỏ sự tối thượng,
+chúng sanh có tưởng như vậy, này các Tỷ-kheo, có sự đổi khác, có sự biến thoại. Thấy vậy, này các Tỷ-kheo, vị Thánh đệ tử nghe nhiều, nhàm chán trong ấy. Do nhàm chán trong ấy, vị ấy từ bỏ sự tối thượng,
 còn nói gì đối với hạ liệt.
 
 12\. Cái này là tối thượng, này các Tỷ-kheo, trong các thành khiến của các dị học, tức là: “Nếu ta không
 có trong lúc ấy, thời nay đã không có của ta. Nếu ta sẽ không có, thời sẽ không có của ta”. Với người có
 tri kiến như vậy, này các Tỷ-kheo, có thể chờ đợi như sau: Sự không nhàm chán này đối với hữu sẽ
 không có đối với người ấy. Sự nhàm chán này đối với hữu diệt sẽ không có đối với người ấy. Này các
-Tỷ-kheo, có những chúng sanh có tri kiến như vậy. Ðối với chúng sanh có tri kiến như vậy, này các Tỷkheo, có sự đổi khác, có sự biến hoại. Thấy vậy, này các Tỷ-kheo, vị Thánh đệ tử nghe nhiều, nhàm
+Tỷ-kheo, có những chúng sanh có tri kiến như vậy. Ðối với chúng sanh có tri kiến như vậy, này các Tỷ-kheo, có sự đổi khác, có sự biến hoại. Thấy vậy, này các Tỷ-kheo, vị Thánh đệ tử nghe nhiều, nhàm
 chán trong ấy. Do nhàm chán trong ấy, vị ấy từ bỏ sự tối thượng, còn nói đối với các hạ liệt.
 
 13\. Này các Tỷ-kheo, có một số Sa-môn, Bà-la-môn... tuyên bố thanh tịnh là mục đích tối thắng.

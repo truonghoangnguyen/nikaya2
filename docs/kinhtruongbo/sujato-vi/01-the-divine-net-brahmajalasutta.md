@@ -1,4 +1,4 @@
-# 1. Kinh Lưới Trời
+# DN 1. Kinh Lưới Trời
 (*Brahmajālasutta*)
 
 ## 1. Bàn về các Du Sĩ

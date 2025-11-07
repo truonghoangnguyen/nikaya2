@@ -258,7 +258,7 @@ Và này các Tỷ-kheo, thế nào là người nghe nhiều, điều đã đư
 
 Ở đây, này các Tỷ-kheo, có hạng người được nghe nhiều về kinh: ứng tụng, ký thuyết, các Bài kệ, Cảm
 hứng ngữ, Như thị thuyết, Bổn sanh, Vị tằng hữu, Phương quảng. Người ấy, với điều đã được nghe
-nhiều này, không biết nghĩa, không biết pháp, không thực hành pháp, tùy pháp. Như vậy, này các Tỷkheo, là người nghe nhiều, điều đã được nghe không khởi lên.
+nhiều này, không biết nghĩa, không biết pháp, không thực hành pháp, tùy pháp. Như vậy, này các Tỷ-kheo, là người nghe nhiều, điều đã được nghe không khởi lên.
 
 Và này các Tỷ-kheo, thế nào là người nghe nhiều, điều đã được nghe được khởi lên?
 

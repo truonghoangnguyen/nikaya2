@@ -227,7 +227,7 @@ kinh Sa-môn quả, đoạn kinh số 40 - 74, với những thay đổi cần t
 
 54\. Khi quán tự thân đã xả ly năm triền cái ấy, hân hoan sanh, do hân hoan, nên hoan hỷ sanh; do tâm
 hoan hỷ, thân được khinh an, do thân khinh an, lạc thọ sanh, do lạc thọ, tâm được định tĩnh Tỷ-kheo ly
-dục, ly ác pháp, chứng và trú thiền thứ nhất, một trạng thái hỷ lạc do ly dục sanh, với tầm, với tứ. Tỷkheo thấm nhuần, tẩm ướt, làm cho sung mãn tràn đầy thân mình với hỷ lạc do ly dục sanh, không một
+dục, ly ác pháp, chứng và trú thiền thứ nhất, một trạng thái hỷ lạc do ly dục sanh, với tầm, với tứ. Tỷ-kheo thấm nhuần, tẩm ướt, làm cho sung mãn tràn đầy thân mình với hỷ lạc do ly dục sanh, không một
 chỗ nào trên toàn thân không hỷ lạc do ly dục sanh ấy thấm nhuần.
 
 55\. Này Lohicca, như một người hầu tắm lão luyện hay đệ tử người hầu tắm. Sau khi rắc bột tắm trong

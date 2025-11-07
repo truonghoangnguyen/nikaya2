@@ -7,7 +7,7 @@
 
 Có định tu tập, này các Tỷ-kheo, do tu tập, do làm cho sung mãn, đưa đến hiện tại lạc trú. Có định tu
 tập, này các Tỷ-kheo, do tu tập, do làm cho sung mãn, đưa đến chứng được tri kiến. Có định tu tập, này
-các Tỷ-kheo, do tu tập, do làm cho sung mãn, đưa đến chánh niệm tỉnh giác. Có định tu tập, này các Tỷkheo, được tu tập, được làm cho sung mãn, đưa đến đoạn tận các lậu hoặc.
+các Tỷ-kheo, do tu tập, do làm cho sung mãn, đưa đến chánh niệm tỉnh giác. Có định tu tập, này các Tỷ-kheo, được tu tập, được làm cho sung mãn, đưa đến đoạn tận các lậu hoặc.
 
 2\. Và này các Tỷ-kheo, thế nào là định tu tập, do tu tập, do làm cho sung mãn, đưa đến hiện tại lạc trú?
 
@@ -272,7 +272,7 @@ _Không mong cầu đời sau._
 
 1\. - Này các Tỷ-kheo, có bốn sự việc này, rất xa, rất xa với nhau. Thế nào là bốn?
 
-Trời và đất, này các Tỷ-kheo, là sự việc thứ nhứt rất xa, rất xa với nhau. Bờ biển bên này, này các Tỷkheo với bờ biển bên kia, là sự việc thứ hai rất xa, rất xa với nhau. Từ chỗ mặt trời mọc lên, này các Tỷkheo, đến chỗ mặt trời lặn xuống, là sự việc thứ ba rất xa, rất xa với nhau. Pháp của hạng người bất
+Trời và đất, này các Tỷ-kheo, là sự việc thứ nhứt rất xa, rất xa với nhau. Bờ biển bên này, này các Tỷ-kheo với bờ biển bên kia, là sự việc thứ hai rất xa, rất xa với nhau. Từ chỗ mặt trời mọc lên, này các Tỷ-kheo, đến chỗ mặt trời lặn xuống, là sự việc thứ ba rất xa, rất xa với nhau. Pháp của hạng người bất
 thiện, này các Tỷ-kheo, với pháp của hạng người thiện, là sự việc thứ tư rất xa, rất xa với nhau.
 
 Này các Tỷ-kheo, đây là bốn sự việc rất xa, rất xa với nhau này.
@@ -409,12 +409,12 @@ Này các Tỷ-kheo, một số Sa-môn, Bà-la-môn uống rượu men, uống 
 rượu nấu. Này các Tỷ-kheo, đây là uế nhiễm thứ nhất của Sa-môn, Bà-la-môn, do uế nhiễm này làm ô
 nhiễm, các Sa-môn, Bà-la-môn, không có cháy sáng... không có rực sáng.
 
-Này các Tỷ-kheo, một số Sa-môn, Bà-la-môn, hưởng thọ dâm dục, không từ bỏ dâm dục. Này các Tỷkheo, đây là uế nhiễm thứ hai... không có rực sáng.
+Này các Tỷ-kheo, một số Sa-môn, Bà-la-môn, hưởng thọ dâm dục, không từ bỏ dâm dục. Này các Tỷ-kheo, đây là uế nhiễm thứ hai... không có rực sáng.
 
 Này các Tỷ-kheo, một số Sa-môn, Bà-la-môn chấp nhận vàng và bạc, không từ bỏ nhận lấy vàng và bạc.
 Này các Tỷ-kheo, đây là uế nhiễm thứ ba... không có rực sáng.
 
-Này các Tỷ-kheo, một số Sa-môn, Bà-la-môn sinh sống với tà mạng, không từ bỏ tà mạng. Này các Tỷkheo, đây là uế nhiễm thứ tư của các Sa-môn, Bà-la-môn, do uế nhiễm này làm ô nhiễm, các Sa-môn,
+Này các Tỷ-kheo, một số Sa-môn, Bà-la-môn sinh sống với tà mạng, không từ bỏ tà mạng. Này các Tỷ-kheo, đây là uế nhiễm thứ tư của các Sa-môn, Bà-la-môn, do uế nhiễm này làm ô nhiễm, các Sa-môn,
 Bà-la-môn không có cháy sáng, không có chói sáng, không có rực sáng.
 
 Này các Tỷ-kheo, có bốn uế nhiễm này của các Sa-môn, Bà-la-môn, do những uế nhiễm này làm ô

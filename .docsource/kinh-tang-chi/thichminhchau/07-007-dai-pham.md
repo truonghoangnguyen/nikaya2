@@ -34,7 +34,7 @@ do tuần, rộng 84 ngàn do tuần, chìm xuống biển lớn 84 ngàn do tu�
 tuần. Này các Tỷ-kheo, rồi có thời, nhiều năm, nhiều trăm năm, nhiều ngàn năm, nhiều trăm ngàn năm,
 trời không mưa. Khi không có mưa, các loài chủng tử, các loài thực vật, các rừng rậm dược thảo đều
 khô héo cằn cỗi không có tồn tại. Như vậy, này các Tỷ-kheo, các hành là vô thường. Này các Tỷ-kheo,
-các hành là không có kiên cố. Này các Tỷ-kheo, các hành là không an ổn. Cho đến như vậy, này các Tỷkheo, là vừa đủ để nhàm chán, là vừa đủ để ly tham, là vừa đủ để giải thoát đối với tất cả các cành. Này
+các hành là không có kiên cố. Này các Tỷ-kheo, các hành là không an ổn. Cho đến như vậy, này các Tỷ-kheo, là vừa đủ để nhàm chán, là vừa đủ để ly tham, là vừa đủ để giải thoát đối với tất cả các cành. Này
 các Tỷ-kheo, rồi có thời, sau một thời gian rất dài, mặt trời thứ hai hiện ra.
 
 3. Này các Tỷ-kheo, khi mặt trời thứ hai có mặt, thời tất cả sông nhỏ, ao nhỏ khô cạn, khô kiệt, không có
@@ -97,7 +97,7 @@ Thiên ở Thiên giới Ba mươi ba, một số được sanh cọng trú vớ
 10. Rồi này các Tỷ-kheo, Ðạo Sư Sunetta suy nghĩ như sau: “Thật không xứng đáng cho ta trong đời sau
 lại có một sanh thú giống như sanh thú của các đệ tử. Vậy ta hãy tu tập tối thượng từ bi”. Rồi này các
 Tỷ-kheo, bậc Ðạo sư Sunetta trong bảy năm tu tập từ tâm. Sau khi tu tập từ tâm bảy năm, trong bảy năm
-thành kiếp hoại kiếp, vị ấy không trở lui lại thế giới này. Trong kiếp thành của thế giới, này các Tỷkheo, vị ấy đi đến thế giới của Abhassara (Quang Âm thiên). Trong kiếp hoại của thế giới, vị ấy được
+thành kiếp hoại kiếp, vị ấy không trở lui lại thế giới này. Trong kiếp thành của thế giới, này các Tỷ-kheo, vị ấy đi đến thế giới của Abhassara (Quang Âm thiên). Trong kiếp hoại của thế giới, vị ấy được
 sanh trong Phạm cung trống không. Tại đấy này các Tỷ-kheo, vị ấy là Phạm thiên, Ðại Phạm thiên, bậc
 chiến thắng, bậc vô năng, bấc biến tri, bậc tự tại. Ba mươi sáu lần, này các Tỷ-kheo, vị ấy là Thiên chủ
 Sakka. Nhiều lần bảy lần, vị ấy là vị Chuyển luân Thánh vương theo Chánh pháp, là vị pháp vương, bậc
@@ -374,7 +374,7 @@ trong khi cây Kovilàra Pàricchattaka mọc ra đọt non cánh hoa, này các
 Tàvatimsa hoan hỷ nghĩ rằng: “Nay cây Kovilàra Pàricchattaka mọc ra đọt non cánh hoa, không bao lâu
 các nụ hoa... sẽ được sanh ra”. Này các Tỷ-kheo, trong khi cây Kovilàra Pàricchattaka của chư Thiên
 Tàvatimsa sanh ra nụ hoa, này các Tỷ-kheo, trong khi ấy, chư Thiên Tàvatimsa hoan hỷ nghĩ rằng: “Nay
-cây Kovilàra Pàricchattaka sanh ra nụ hoa, không bao lâu, các bông hoa sẽ được sanh ra”. Này các Tỷkheo, trong khi cây Kovilàra sanh ra các bông hoa, này các Tỷ-kheo, trong khi ấy, chư Thiên Tàvatimsa
+cây Kovilàra Pàricchattaka sanh ra nụ hoa, không bao lâu, các bông hoa sẽ được sanh ra”. Này các Tỷ-kheo, trong khi cây Kovilàra sanh ra các bông hoa, này các Tỷ-kheo, trong khi ấy, chư Thiên Tàvatimsa
 hoan hỷ nghĩ rằng: “Nay cây Kovilàra Pàricchattaka sanh ra các bông hoa, không bao lâu, các bông hoa
 sẽ được nở toàn diện”. Này các Tỷ-kheo, trong khi cây Kovilàra có bông hoa được nở toàn diện, này các
 Tỷ-kheo, chư Thiên Tàvatimsa hoan hỷ, chơi đùa trong bốn tháng chư Thiên, dưới gốc cây Kovilàra
@@ -408,11 +408,11 @@ tin với Tôn giả với họ tên như thế này đã xuất gia từ làng 
 sống không gia đình, sau khi đoạn diệt các lậu hoặc ngay trong hiện tại, tự mình thắng trí, chứng ngộ,
 chứng đạt và an trú vô lậu tâm giải thoát, tuệ giải thoát”.
 
-Như vậy trong sát-ma ấy, trong giây phút ấy, tiếng ấy truyền đến Phạm thiên giới. Ðây là uy lực của Tỷkheo đã đoạn tận các lậu hoặc.
+Như vậy trong sát-ma ấy, trong giây phút ấy, tiếng ấy truyền đến Phạm thiên giới. Ðây là uy lực của Tỷ-kheo đã đoạn tận các lậu hoặc.
 
 **(VI) (66) Vị Tỷ Kheo Phải Kính Trọng Ai?**
 
-1. Rồi Tôn giả Sàriputta, trong khi sống một mình, Thiền tịnh, tâm tư suy nghĩ như sau khởi lên: “Vị Tỷkheo cung kính tôn trọng, sống nương tựa ai để có thể từ bỏ bất thiện, tu tập thiện?” Rồi Tôn giả
+1. Rồi Tôn giả Sàriputta, trong khi sống một mình, Thiền tịnh, tâm tư suy nghĩ như sau khởi lên: “Vị Tỷ-kheo cung kính tôn trọng, sống nương tựa ai để có thể từ bỏ bất thiện, tu tập thiện?” Rồi Tôn giả
 Sàriputta suy nghĩ như sau: “Tỷ-kheo cung kính tôn trọng, sống nương tựa Ðạo Sư để có thể từ bỏ bất
 thiện, tu tập thiện. Tỷ-kheo cung kính tôn trọng, sống nương tựa Pháp... chúng Tăng... Học pháp...
 Ðịnh... không phóng dật... Tỷ-kheo cung kính, tôn trọng, sống nương tựa tiếp đón thân tình để có thể từ
@@ -484,7 +484,7 @@ cung kính Thiền định, sẽ không cung kính không phóng dật, sự ki�
 Tỷ-kheo nào cung kính Ðạo Sư, cung kính Pháp, cung kính chúng Tăng, cung kính Học pháp, cung kính
 Thiền định, vị ấy cũng cung kính không phóng dật. Bạch Thế Tôn, chắc chắn Tỷ-kheo nào cung kính
 Ðạo Sư, cung kính Pháp, cung kính chúng Tăng, cung kính Học pháp, cung kính Thiền định, cung kính
-không phóng dật, sẽ không cung kính tiếp đón thân tình, sự kiện này không xảy ra. Bạch Thế Tôn, Tỷkheo nào cung kính Ðạo Sư, cung kính Pháp, cung kính chúng Tăng, cung kính Học pháp, cung kính
+không phóng dật, sẽ không cung kính tiếp đón thân tình, sự kiện này không xảy ra. Bạch Thế Tôn, Tỷ-kheo nào cung kính Ðạo Sư, cung kính Pháp, cung kính chúng Tăng, cung kính Học pháp, cung kính
 Thiền định, cung kính không phóng dật, vị ấy cũng cung kính tiếp đón thân tình. Bạch Thế Tôn, với lời
 vắn tắt này của Thế Tôn, con hiểu ý nghĩa một cách rộng rãi như vậy.
 
@@ -604,7 +604,7 @@ lớn ấy đang cháy đỏ, cháy đỏ rực, cháy đỏ lửa ngọn. Vì c
 người ấy có thể đi đến chết, hay đi đến gần như chết, nhưng không vì nhân duyên ấy, sau khi thân hoại
 mạng chung, có thể sanh vào cõi dữ, ác thú, đọa xứ, địa ngục. Nhưng này các Tỷ-kheo, khi một người ác
 giới theo ác pháp... tánh tình bất tịnh, ôm ấp, ngồi gần, hay nằm gần tay chân mềm mại non trẻ của
-người con gái Sát-đế-lỵ, hay người con gái Bà-la-môn, hay người con gái gia chủ; như vậy, này các Tỷkheo, khiến cho vị ấy bất hạnh đau khổ lâu dài, sau khi thân hoại mạng chung, sanh vào cõi dữ, ác thú,
+người con gái Sát-đế-lỵ, hay người con gái Bà-la-môn, hay người con gái gia chủ; như vậy, này các Tỷ-kheo, khiến cho vị ấy bất hạnh đau khổ lâu dài, sau khi thân hoại mạng chung, sanh vào cõi dữ, ác thú,
 đọa xứ, địa ngục.
 
 2. Các Thầy nghĩ thế nào, này các Tỷ-kheo, việc gì là tốt hơn: Một người lực sĩ, với sợi dây đuôi ngựa
@@ -653,10 +653,10 @@ các tấm sắt nóng đang cháy đỏ, cháy đỏ rực, cháy đỏ lửa n
 
 − Ta tuyên bố cho các Thầy, này các Tỷ-kheo, Ta nêu rõ cho các Thầy, này các Tỷ-kheo, với một người
 ác giới, theo ác pháp, tánh tình bất tịnh, thật là tốt hơn bị một người lực sĩ với các tấm sắt nóng đang
-cháy đỏ, cháy đỏ rực, cháy đỏ lửa ngọn áp cuốn vào thân. Vì cớ sao? Vì do nguyên nhân ấy, này các Tỷkheo, người ấy đi đến chết hay đi đến khổ gần như chết, nhưng không vì nhân duyên ấy, sau khi thân
+cháy đỏ, cháy đỏ rực, cháy đỏ lửa ngọn áp cuốn vào thân. Vì cớ sao? Vì do nguyên nhân ấy, này các Tỷ-kheo, người ấy đi đến chết hay đi đến khổ gần như chết, nhưng không vì nhân duyên ấy, sau khi thân
 hoại mạng chung, có thể sanh vào cõi dữ, ác thú, đọa xứ, địa ngục. Nhưng này các Tỷ-kheo, khi một
 người ác giới, theo ác pháp, sở hành bất tịnh... tánh tình bất tịnh, hưởng thọ các y áo, do các Sát-đế-lỵ
-đại phú, các Bà-la-môn đại phú, hay các gia chủ đại phú, vì lòng tin cúng dường; như vậy, này các Tỷkheo, khiến cho vị ấy bất hạnh, đau khổ lâu dài, sau khi thân hoại mạng chung, sanh vào cõi dữ, ác thú,
+đại phú, các Bà-la-môn đại phú, hay các gia chủ đại phú, vì lòng tin cúng dường; như vậy, này các Tỷ-kheo, khiến cho vị ấy bất hạnh, đau khổ lâu dài, sau khi thân hoại mạng chung, sanh vào cõi dữ, ác thú,
 đọa xứ, địa ngục.
 
 5. Các Thầy nghĩ thế nào, này các Tỷ-kheo, việc nào tốt hơn: Bị một người lực sĩ với cái kềm sắt nóng,

@@ -93,7 +93,7 @@ sở nào, phàm có quyết định nào, phàm có ước nguyện nào, và p
 đưa đến khả năng lạc, khả hỷ, khả ý, hạnh phúc, an lạc. Vì sao? Này các Tỷ-kheo, vì chánh kiến là hiền
 thiện. VÍ như, này các Tỷ-kheo, hột giống cây mía, hay hột giống cây lúa, hay hột giống cây nho được
 gieo vào đất ướt. Phàm vị gì nó lấy lên từ đất, phàm vị gì nó lấy lên từ nước, tất cả vị ấy đều đưa đến
-tánh ngon, tánh ngọt, tánh thuần chất của nó. Vì sao? Vì hột giống là hiền thiện. Cũng vậy, này các Tỷkheo, đối với người có chánh kiến, này các Tỷ-kheo, phàm mọi thân hành... vì tánh hiền thiện của kiến.
+tánh ngon, tánh ngọt, tánh thuần chất của nó. Vì sao? Vì hột giống là hiền thiện. Cũng vậy, này các Tỷ-kheo, đối với người có chánh kiến, này các Tỷ-kheo, phàm mọi thân hành... vì tánh hiền thiện của kiến.
 
 **(V) (105) Với Mình**
 
@@ -195,7 +195,7 @@ sầu, bi, khổ, ưu, não được giải thoát khỏi sầu, bi, khổ, ưu,
 sanh khởi nên các pháp ấy được xổ ra và các pháp thiện do duyên với chánh kiến đi đến viên mãn trong
 tu tập. Với người có chánh tư duy, này các Tỷ-kheo, tà tư duy bị xổ ra... Với người có chánh ngữ, này
 các Tỷ-kheo, tà ngữ bị xổ ra... Với người có chánh nghiệp, này các Tỷ-kheo, tà nghiệp bị xổ ra... Với
-người có chánh mạng, này các Tỷ-kheo, tà mạng bị xổ ra... Với người có chánh tinh tấn, này các Tỷkheo, tà tinh tấn bị xổ ra... Với người có chánh niệm, này các Tỷ-kheo, tà niệm bị xổ ra... Với người có
+người có chánh mạng, này các Tỷ-kheo, tà mạng bị xổ ra... Với người có chánh tinh tấn, này các Tỷ-kheo, tà tinh tấn bị xổ ra... Với người có chánh niệm, này các Tỷ-kheo, tà niệm bị xổ ra... Với người có
 chánh định, này các Tỷ-kheo, tà định bị xổ ra... Với người có chánh trí, này các Tỷ-kheo, tà trí bị xổ ra...
 Với người có chánh giải thoát, này các Tỷ-kheo, tà giải thoát bị xổ ra... Các pháp ác bất thiện, do duyên
 tà giải thoát sanh khởi, các pháp ấy bị xổ ra và các pháp thiện, duyên với chánh giải thoát đi đến viên

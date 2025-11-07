@@ -279,7 +279,7 @@ các Tỷ-kheo, nếu không như lý tác ý, đưa đến dục tham chưa san
 được tăng trưởng quảng đại.
 
 2. Ta không thấy một pháp nào khác, này các Tỷ-kheo, đưa đến sân chưa sanh được sanh khởi, và sân đã
-sanh được tăng trưởng quảng đại, này các Tỷ-kheo, như đối ngại tướng. Ðối ngại tướng, này các Tỷkheo, nếu theo như lý tác ý, đưa đến sân, chưa sanh được sanh khởi, và sân đã sanh được tăng trưởng
+sanh được tăng trưởng quảng đại, này các Tỷ-kheo, như đối ngại tướng. Ðối ngại tướng, này các Tỷ-kheo, nếu theo như lý tác ý, đưa đến sân, chưa sanh được sanh khởi, và sân đã sanh được tăng trưởng
 quảng đại.
 3. Ta không thấy một pháp nào khác, này các Tỷ-kheo, đưa đến hôn trầm thụy miên đã sanh được tăng
 trưởng quảng đại, này các Tỷ-kheo, như không hân hoan, biếng nhác, chán nản, ăn quá no, tâm thụ
@@ -297,7 +297,7 @@ lý tác ý, này các Tỷ-kheo, nghi hoặc chưa sanh được sanh khởi, v
 quảng đại.
 
 6. Ta không thấy một pháp nào khác, này các Tỷ-kheo, đưa đến dục tham chưa sanh không sanh khởi,
-và dục tham đã sanh được đoạn tận, này các Tỷ-kheo, như tướng bất tịnh. Tướng bất tịnh, này các Tỷkheo, nếu như lý tác ý, thời dục tham chưa sanh không sanh khởi, và dục tham đã sanh được đoạn tận.
+và dục tham đã sanh được đoạn tận, này các Tỷ-kheo, như tướng bất tịnh. Tướng bất tịnh, này các Tỷ-kheo, nếu như lý tác ý, thời dục tham chưa sanh không sanh khởi, và dục tham đã sanh được đoạn tận.
 
 7. Ta không thấy một pháp nào khác, này các Tỷ-kheo, đưa đến sân chưa sanh không sanh khởi, và sân
 đã sanh được đoạn tận, này các Tỷ-kheo, như từ tâm giải thoát. Từ tâm giải thoát, này các Tỷ-kheo, nếu
@@ -307,7 +307,7 @@ như lý tác ý, thời sân chưa sanh không sanh khởi, và sân đã sanh 
 sanh khởi, và sân đã sanh được đoạn tận.
 
 9. Ta không thấy một pháp nào khác, này các Tỷ-kheo, đưa đến trạo hối chưa sanh không sanh khởi, hay
-trạo hối đã sanh được đoạn tận, này các Tỷ-kheo, như tâm tịnh chỉ. Người có tâm tịnh chỉ, này các Tỷkheo, trạo hối chưa sanh không sanh khởi, và trạo hối đã sanh được đoạn tận.
+trạo hối đã sanh được đoạn tận, này các Tỷ-kheo, như tâm tịnh chỉ. Người có tâm tịnh chỉ, này các Tỷ-kheo, trạo hối chưa sanh không sanh khởi, và trạo hối đã sanh được đoạn tận.
 
 10. Ta không thấy một pháp nào khác, này các Tỷ-kheo, đưa đến nghi hoặc chưa sanh không sanh khởi,
 và nghi hoặc đã sanh được đoạn tận, này các Tỷ-kheo, như lý tác ý. Nếu như lý tác ý, này các Tỷ-kheo,
@@ -425,7 +425,7 @@ Vì cớ sao? Vì rằng tâm bị khuấy đục, này các Tỷ-kheo.
 
 6. Ví như, này các Tỷ-kheo, một hồ nước trong sáng, sáng suốt, không bị khuấy đục. Tại đấy có người
 có mắt, đứng trên bờ, có thể thấy các con ốc, các con sò, các hòn sạn, các hòn sỏi, các đàn cá qua lại,
-đứng yên. Vì cớ sao? Vì nước không bị khuấy đục, này các Tỷ-kheo. Cũng vậy, này các Tỷ-kheo, vị Tỷkheo với tâm không bị khuấy đục biết được lợi ích của mình, hay biết được lợi ích của người, hay biết
+đứng yên. Vì cớ sao? Vì nước không bị khuấy đục, này các Tỷ-kheo. Cũng vậy, này các Tỷ-kheo, vị Tỷ-kheo với tâm không bị khuấy đục biết được lợi ích của mình, hay biết được lợi ích của người, hay biết
 được lợi ích cả hai, hay sẽ chứng ngộ các pháp thượng nhân, tri kiến thù thắng xứng đáng các bậc
 Thánh; sự kiện như vậy có xảy ra. Ví sao? Vì rằng tâm không bị khuấy đục, này các Tỷ-kheo.
 
@@ -615,7 +615,7 @@ không hệ lụy với các pháp bất thiện đưa đến lợi ích lớn.
 lớn như vậy, này các Tỷ-kheo, như phóng dật. Phóng dật, này các Tỷ-kheo, đưa đến bất lợi lớn.
 
 2. Ðứng về phương diện nội phần, này các Tỷ-kheo, Ta không thấy một phần nào khác đưa đến lợi ích
-lớn như vậy, này các Tỷ-kheo, như không phóng dật, này các Tỷ-kheo. Không phóng dật, này các Tỷkheo, đưa đến lợi ích lớn.
+lớn như vậy, này các Tỷ-kheo, như không phóng dật, này các Tỷ-kheo. Không phóng dật, này các Tỷ-kheo, đưa đến lợi ích lớn.
 
 3. (Như số 1 ở trên, chỉ thay vào “biếng nhác”)...
 
@@ -680,7 +680,7 @@ hơn nữa, này các Tỷ-kheo, những Tỷ-kheo ấy tạo điều vô phư�
 
 **1-10 Phi Pháp**
 
-1. - Những Tỷ-kheo nào, này các Tỷ-kheo, nêu rõ phi pháp là phi pháp, các Tỷ-kheo ấy, này các Tỷkheo, sở hành như vậy, đem lại hạnh phúc cho đa số, an lạc cho đa số, lợi ích cho đa số, đem lại hạnh
+1. - Những Tỷ-kheo nào, này các Tỷ-kheo, nêu rõ phi pháp là phi pháp, các Tỷ-kheo ấy, này các Tỷ-kheo, sở hành như vậy, đem lại hạnh phúc cho đa số, an lạc cho đa số, lợi ích cho đa số, đem lại hạnh
 phúc an lạc cho chư Thiên và loài Người. Và hơn nữa, này các Tỷ-kheo, các Tỷ-kheo ấy tạo phước đức
 và an trú diệu pháp này.
 
@@ -700,7 +700,7 @@ Người. Và hơn nữa, này các Tỷ-kheo, các Tỷ-kheo ấy tạo phướ
 
 1. - Những Tỷ-kheo nào, này các Tỷ-kheo, nêu rõ không phạm là có phạm, những Tỷ-kheo ấy, này các
 Tỷ-kheo, với sở hành như vậy, đưa lại bất hạnh cho đa số, không an lạc cho đa số, không lợi ích cho đa
-số, đưa lại bất hạnh, đau khổ cho chư Thiên và loài Người. Và hơn nữa, này các Tỷ-kheo, những Tỷkheo ấy, tạo điều vô phước và khiến cho diệu pháp biến mất.
+số, đưa lại bất hạnh, đau khổ cho chư Thiên và loài Người. Và hơn nữa, này các Tỷ-kheo, những Tỷ-kheo ấy, tạo điều vô phước và khiến cho diệu pháp biến mất.
 
 2. (Như số 1 trên, chỉ thế vào: “nêu rõ có phạm là không phạm”)...
 
@@ -951,7 +951,7 @@ là Kàlì, nữ cư sĩ ở Kulagharikà.
 **1-28. Chấp Nhận Các Hành Là Thường Còn**
 
 1. Sự kiện này không xảy ra, này các Tỷ-kheo, không có được: Một người thành tựu chánh kiến có thể
-chấp nhận các hành là thường còn, sự kiện này không xảy ra. Và sự kiện này có xảy ra, này các Tỷkheo, kẻ phàm phu có thể chấp nhận các hành là thường còn, sự kiện này có xảy ra.
+chấp nhận các hành là thường còn, sự kiện này không xảy ra. Và sự kiện này có xảy ra, này các Tỷ-kheo, kẻ phàm phu có thể chấp nhận các hành là thường còn, sự kiện này có xảy ra.
 
 2. Sự kiện này không xảy ra, này các Tỷ-kheo, không có được: Một người thành tựu chánh kiến có thể
 chấp nhận các hành là lạc, sự kiện này không xảy ra. Và sự kiện này có xảy ra, này các Tỷ-kheo: Kẻ
@@ -985,7 +985,7 @@ Vương, sự kiện này không xảy ra. Và sự kiện này có xảy ra, n�
 là vị Chuyển Luân Vương, sự kiện này có xảy ra.
 
 14-16 Sự kiện này không xảy ra, này các Tỷ-kheo, không có được: Một phụ nữ có thể là vị Ðế Thích
-(Sakka)... là Ác Ma... là Phạm Thiên, sự kiện này không xảy ra. Và sự kiện này có xảy ra, này các Tỷkheo, một người đàn ông có thể là Vị Ðế Thích... là Ác Ma... là Phạm Thiên, sự kiện này có xảy ra.
+(Sakka)... là Ác Ma... là Phạm Thiên, sự kiện này không xảy ra. Và sự kiện này có xảy ra, này các Tỷ-kheo, một người đàn ông có thể là Vị Ðế Thích... là Ác Ma... là Phạm Thiên, sự kiện này có xảy ra.
 
 17. Sự kiện này không xảy ra, này các Tỷ-kheo, không có được: là quả dị thục của thân làm ác có thể là
 khả lạc, khả hỷ, khả ý, sự kiện này không xảy ra. Sự kiện này có xảy ra, này các Tỷ-kheo, là quả dị thục
@@ -1124,7 +1124,7 @@ Người.
 Tối thắng tà kiến, này các Tỷ-kheo, là phạm tội lớn.
 
 4. Ta không thấy một người nào khác, này các Tỷ-kheo, được tuân theo đưa lại bất hạnh cho đa số, bất
-lạc cho đa số, thất lợi cho đa số, đem đến bất hạnh, bất lạc cho chư Thiên và loài Người, này các Tỷkheo, như kẻ ngu si.
+lạc cho đa số, thất lợi cho đa số, đem đến bất hạnh, bất lạc cho chư Thiên và loài Người, này các Tỷ-kheo, như kẻ ngu si.
 
 Ví như, này các Tỷ-kheo, tại cửa sông có đặt một cái nơm bẫy cá, đem lại bất hạnh đau khổ, tổn thương,
 tổn hại cho nhiều cá. Cũng vậy, này các Tỷ-kheo, kẻ ngu si Makkhali xuất hiện ở đời, Ta nghỉ rằng như
@@ -1490,7 +1490,7 @@ Một thời, Thế Tôn trú ở Sàvatthi, tại Thắng lâm, khu vườn ôn
 Tỷ-kheo: - Này các Tỷ-kheo. - Bạch Thế Tôn. Các tỷ-kheo ấy vâng đáp Thế Tôn. Thế tôn nói như sau:
 
 - Có hai loại tội này, này các Tỷ-kheo. Thế nào là hai? Tội có kết quả ngay trong hiện tại, và tội có kết
-quả trong đời sau. Và này các Tỷ-kheo, thế nào là tội có kết quả ngay trong hiện tại? Ở đây, này các Tỷkheo, có người thấy vua chúa bắt được người ăn trộm, kẻ vô loại, liền áp dụng nhiều hình phạt sai khác.
+quả trong đời sau. Và này các Tỷ-kheo, thế nào là tội có kết quả ngay trong hiện tại? Ở đây, này các Tỷ-kheo, có người thấy vua chúa bắt được người ăn trộm, kẻ vô loại, liền áp dụng nhiều hình phạt sai khác.
 Họ đánh bằng roi, họ đánh bằng gậy, họ đánh bằng côn, họ chặt tay, họ chặt chân, họ chặt tay chân, họ
 xẻo tai, họ cắt mũi, họ xẻo tai cắt mũi. Họ dùng hình phạt vạc dầu, họ dùng hình phạt bối đầu hình (xẻo
 đỉnh đầu thành hình con sò), họ dùng hình phạt La-hầu khẩu hình ... hỏa man hình (lấy lửa đốt thành
@@ -1510,11 +1510,11 @@ thục của thân làm ác trong đời sau là ác và khổ. Quả dị thụ
 Quả dị thục của ý nghĩ ác trong đời sau là ác và khổ. Nếu thân ta làm ác, nói lời ác, nghĩ việc ác, sao ta
 lại không có thể, sau khi thân hoại mạng chung, phải sanh vào cõi dữ, ác thú, đọa xứ, địa ngục”. Người
 ấy sợ hãi tội có kết quả trong đời sau, từ bỏ thân làm ác, tu tập thân làm thiện, từ bỏ miệng nói ác, tu tập
-miệng nói thiện, từ bỏ ý nghĩ ác, tu tập ý nghĩ thiện, và cư xử tự ngã hoàn toàn thanh tịnh. Này các Tỷkheo, đây gọi là tội có kết quả trong đời sau.
+miệng nói thiện, từ bỏ ý nghĩ ác, tu tập ý nghĩ thiện, và cư xử tự ngã hoàn toàn thanh tịnh. Này các Tỷ-kheo, đây gọi là tội có kết quả trong đời sau.
 
 Này các Tỷ-kheo, trên đây là hai loại tội. Do vậy, này các Tỷ-kheo, cần phải học tập như sau: “Chúng ta
 phải sợ hãi đối với tội có kết quả hiện tại. Chúng ta phải sợ hãi đối với tội có kết quả trong đời sau.
-Chúng ta phải tránh xa các tội. Chúng ta phải thấy rõ sự nguy hiểm của các tội”. Như vậy, này các Tỷkheo, các Thầy cần phải học tập. Ðối với ai tránh xa các tội, này các Tỷ-kheo, đối với ai thấy rõ sự nguy
+Chúng ta phải tránh xa các tội. Chúng ta phải thấy rõ sự nguy hiểm của các tội”. Như vậy, này các Tỷ-kheo, các Thầy cần phải học tập. Ðối với ai tránh xa các tội, này các Tỷ-kheo, đối với ai thấy rõ sự nguy
 hiểm của các tội, thời được chờ đợi rằng người ấy sẽ được giải thoát tất cả tội.
 
 2. Có hai sự tinh cần này rất khó thực hiện ở đời. Thế nào là hai? Sự tinh cần của các gia chủ ở nhà với
@@ -1564,7 +1564,7 @@ tham không đoạn tận, sân không đoạn tận, si không đoạn tận, n
 sầu, bi, khổ, ưu, não. Ta nói rằng người ấy không giải thoát khỏi khổ đau. Ai sống thấy nhàm chán trong
 các pháp có thể khởi lên kiết sử, này các Tỷ-kheo, tham được đoạn tận, sân được đoạn tận, si được đoạn
 tận. Do tham được đoạn tận, sân được đoạn tận, si được đoạn tận, nên được giải thoát khỏi sanh, già,
-chết, sầu, bi, khổ, ưu, não. Ta nói rằng người ấy giải thoát khỏi khổ đau. Những pháp này, này các Tỷkheo, là hai pháp.
+chết, sầu, bi, khổ, ưu, não. Ta nói rằng người ấy giải thoát khỏi khổ đau. Những pháp này, này các Tỷ-kheo, là hai pháp.
 
 7. Hai pháp này, này các Tỷ-kheo, là pháp đen. Thế nào là hai? Không tàm và không quý. Các pháp này,
 này các Tỷ-kheo, là hai pháp đen.
@@ -1575,7 +1575,7 @@ Tỷ-kheo, là hai pháp trắng.
 9. Hai pháp trắng này, này các Tỷ-kheo, che chở cho thế giới. Thế nào là hai? Tàm và quý. Nếu hai pháp
 trắng này, không che chở cho thế giới, thời không thể chỉ được đây là mẹ hay là em, chị của mẹ, hay đây
 là vợ của anh hay em của mẹ, hay đây là vợ của Thầy hay đây là vợ của các vị tôn trưởng. Và thế giới sẽ
-đi đến hỗn loạn như giữa các loài dê, loài gà vịt, loài heo, loài chó, loài dã can. Vì rằng, này các Tỷkheo, có hai pháp trắng này che chở cho thế giới, nên mới có thể chỉ được đây là mẹ hay đây là chị em
+đi đến hỗn loạn như giữa các loài dê, loài gà vịt, loài heo, loài chó, loài dã can. Vì rằng, này các Tỷ-kheo, có hai pháp trắng này che chở cho thế giới, nên mới có thể chỉ được đây là mẹ hay đây là chị em
 của mẹ, hay đây là vợ của anh hay em của mẹ, hay đây là vợ của Thầy hay đây là vợ của các vị tôn
 trưởng.
 
@@ -1625,7 +1625,7 @@ các Tỷ-kheo sẽ sống không được an lạc. Và trong bất cứ cuộc
 phạm tội và Tỷ-kheo buộc tội, có tự mình khéo quán sát lấy mình, thời tranh tụng ấy, này các Tỷ-kheo,
 được chờ đợi là không đưa đến kéo dài, gay gắt, ác liệt, và các Tỷ-kheo sẽ sống được an lạc.
 Và này các Tỷ-kheo, thế nào là Tỷ-kheo phạm tội và Tỷ-kheo buộc tội, khéo tự mình quán sát lấy mình?
-Ở đây, này các Tỷ-kheo, Tỷ-kheo phạm tội quán sát như sau: “Ta phạm một tội bất thiện về thân. Tỷkheo ấy đã thấy ta phạm tội bất thiện về thân. Nếu ta không phạm tội bất thiện về thân, Tỷ-kheo ấy sẽ
+Ở đây, này các Tỷ-kheo, Tỷ-kheo phạm tội quán sát như sau: “Ta phạm một tội bất thiện về thân. Tỷ-kheo ấy đã thấy ta phạm tội bất thiện về thân. Nếu ta không phạm tội bất thiện về thân, Tỷ-kheo ấy sẽ
 không thấy ta phạm tội bất thiện về thân. Do vì ta có phạm một tội bất thiện về thân, do vậy, Tỷ-kheo ấy
 thấy ta có phạm tội bất thiện về thân. Thấy ta có phạm tội bất thiện về thân, Tỷ-kheo ấy không được
 hoan hỷ. Vì không hoan hỷ, Tỷ-kheo ấy nói với ta lời không hoan hỷ. Vì ta bị Tỷ-kheo ấy nói lời không
@@ -1633,11 +1633,11 @@ hoan hỷ, nên ta không hoan hỷ. Do ta không hoan hỷ, ta nói cho các ng
 phạm chinh phục ta như trường hợp người phải trả thuế hàng hóa của mình”. Như vậy, này các Tỷ-kheo,
 là Tỷ-kheo phạm tôi tự khéo tự mình quán sát lấy mình.
 
-Và thế nào, này các Tỷ-kheo, Tỷ-kheo buộc tội khéo tự mình quán sát lấy mình? Ở đây, này các Tỷkheo, Tỷ-kheo buộc tội quán sát như sau: “Tỷ-kheo phạm một tội bất thiện về thân. Ta đã thấy Tỷ-kheo
+Và thế nào, này các Tỷ-kheo, Tỷ-kheo buộc tội khéo tự mình quán sát lấy mình? Ở đây, này các Tỷ-kheo, Tỷ-kheo buộc tội quán sát như sau: “Tỷ-kheo phạm một tội bất thiện về thân. Ta đã thấy Tỷ-kheo
 ấy phạm một tội bất thiện về thân. Nếu Tỷ-kheo này không phạm tội bất thiện về thân, thời ta đã không
 thấy Tỷ-kheo ấy phạm tội bất thiện về thân. Do vì Tỷ-kheo này có phạm một tội bất thiện về thân, do
 vậy Ta thấy Tỷ-kheo này phạm tội bất thiện về thân. Và sau khi thấy Tỷ-kheo này phạm tội bất thiện về
-thân, ta không hoan hỷ. Do ta không hoan hỷ, ta nói cho Tỷ-kheo này biết lời không hoan hỷ. Vì Tỷkheo này bị ta nói lời không hoan hỷ, nên không hoan hỷ. Vì không hoan hỷ, vị ấy nói cho các người
+thân, ta không hoan hỷ. Do ta không hoan hỷ, ta nói cho Tỷ-kheo này biết lời không hoan hỷ. Vì Tỷ-kheo này bị ta nói lời không hoan hỷ, nên không hoan hỷ. Vì không hoan hỷ, vị ấy nói cho các người
 khác biết. Như vậy, ở đây tội phạm chinh phục ta, như trường hợp người phải trả thuế hàng hóa của
 mình”. Như vậy, Tỷ-kheo buộc tội khéo tự mình quán sát lấy mình.
 
@@ -1666,7 +1666,7 @@ hoại mạng chung, được sanh lên cõi Thiện, cõi Trời, cõi đời n
 - Thật vi diệu thay, thưa Tôn giả Gotama! Thật vi diệu thay, Tôn giả Gotama! Như người dựng đứng lại
 những gì bị quăng ngã xuống, phơi bày ra những gì bị che kín, chỉ đường cho kẻ đi lạc hướng, đem đèn
 sáng vào trong bóng tối để những ai có mắt có thể thấy sắc. Cũng vậy, pháp được Tôn giả Gotama dùng
-nhiều phương tiện trình bày giải thích. Con nay xin quy y Tôn giả Gotama, quy y Pháp, quy y chúng Tỷkheo Tăng! Mong Tôn giả Gotama nhận con làm đệ tử, từ nay cho đến mạng chung, con trọn đời quy
+nhiều phương tiện trình bày giải thích. Con nay xin quy y Tôn giả Gotama, quy y Pháp, quy y chúng Tỷ-kheo Tăng! Mong Tôn giả Gotama nhận con làm đệ tử, từ nay cho đến mạng chung, con trọn đời quy
 ngưỡng!
 
 7. Rồi Bà-la-môn Jànussoni đi đến Thế Tôn; sau khi đến, nói lên với Thế Tôn những lời chào đón hỏi
@@ -1745,7 +1745,7 @@ an lạc, nên Ta đã nói như sau: “Này các Tỷ-kheo, hãy từ bỏ b�
 
 Này các Tỷ-kheo, hãy tu tập thiện. Này các Tỷ-kheo, tu tập thiện có thể làm được. Nếu tu tập thiện
 không thể làm được, này các Tỳ kheo, thời ta đã không nói như sau: “Này các Tỷ-kheo, hãy tu tập
-thiện”. Vì rằng, này các Tỷ-kheo, tu tập thiện có thể làm được, do vậy Ta mới nói rằng: “Này các Tỷkheo, hãy tu tập thiện”. Và nếu, này các Tỷ-kheo, tu tập thiện đưa đến bất hạnh, đau khổ, thời ta đã
+thiện”. Vì rằng, này các Tỷ-kheo, tu tập thiện có thể làm được, do vậy Ta mới nói rằng: “Này các Tỷ-kheo, hãy tu tập thiện”. Và nếu, này các Tỷ-kheo, tu tập thiện đưa đến bất hạnh, đau khổ, thời ta đã
 không nói như sau: “Này các Tỷ-kheo, hãy tu tập thiện”. Và vì rằng, này các Tỷ-kheo, tu tập thiện đưa
 đến hạnh phúc, an lạc, nên Ta đã nói như sau: “Này các Tỷ-kheo, hãy tu tập thiện”.
 
@@ -2075,10 +2075,10 @@ Này các Tỷ-kheo, có hai hội chúng này. Hội chúng tối thượng gi�
 tức là hội chúng thâm sâu.
 
 2. Có hai loại hội chúng này, này các Tỷ-kheo. Thế nào là hai? Hội chúng bất hòa và hội chúng hòa hợp.
-Và này các Tỷ-kheo, thế nào là hội chúng bất hòa? Ở đây, này các Tỷ-kheo, tại hội chúng nào, các Tỷkheo sống cạnh tranh, luận tranh, đấu tranh, đả thương nhau bằng binh khí miệng lưỡi, này các Tỷ-kheo,
+Và này các Tỷ-kheo, thế nào là hội chúng bất hòa? Ở đây, này các Tỷ-kheo, tại hội chúng nào, các Tỷ-kheo sống cạnh tranh, luận tranh, đấu tranh, đả thương nhau bằng binh khí miệng lưỡi, này các Tỷ-kheo,
 đây gọi là hội chúng bất hòa.
 
-Và này các Tỷ-kheo, thế nào là hội chúng hòa hợp? Ở đây, này các Tỷ-kheo, tại hội chúng nào, các Tỷkheo hòa hợp, hòa kính, không có đấu tranh, hòa hợp như sữa với nước, sống nhìn nhau với cặp mắt từ
+Và này các Tỷ-kheo, thế nào là hội chúng hòa hợp? Ở đây, này các Tỷ-kheo, tại hội chúng nào, các Tỷ-kheo hòa hợp, hòa kính, không có đấu tranh, hòa hợp như sữa với nước, sống nhìn nhau với cặp mắt từ
 ái, này các Tỷ-kheo, đây gọi là hội chúng hòa hợp.
 
 Này các Tỷ-kheo, có hai hội chúng này. Hội chúng tối thượng giữa hai hội chúng này, này các Tỷ-kheo,
@@ -2090,7 +2090,7 @@ chúng nào, các trưởng lão Tỷ-kheo sống trong sự đầy đủ, lư�
 nặng sống viễn ly, không có gia sức tinh tấn để đạt đến những gì chưa đạt, để chứng được những gì chưa
 chứng, để ngộ được những gì chưa ngộ. Còn lớp hậu nhân, tùy thuộc hậu kiến của họ, sống trong sự đầy
 đủ, biếng nhác, dẫn đầu về đọa lạc, bỏ rơi gánh nặng sống viễn ly, không có gia sức tinh tấn để đạt được
-những gì chưa đạt, để chứng được những gì chưa chứng, để ngộ được những gì chưa ngộ.. Này các Tỷkheo, đây gọi là hội chúng không thù thắng.
+những gì chưa đạt, để chứng được những gì chưa chứng, để ngộ được những gì chưa ngộ.. Này các Tỷ-kheo, đây gọi là hội chúng không thù thắng.
 
 Và này các Tỷ-kheo, thế nào là hội chúng thù thắng? Ở đây, này các Tỷ-kheo, tại hội chúng nào, các
 trưởng lão Tỷ-kheo không sống trong sự đầy đủ, không lười biếng, từ bỏ não hại nặng đọa lạc, dẫn đầu
@@ -2117,13 +2117,13 @@ Này các Tỷ-kheo, có hai hội chúng này. Hội chúng tối thắng trong
 tức là hội chúng bậc Thánh.
 
 5. Này các Tỷ-kheo, có hai loại hội chúng này. Thế nào là hai? Hội chúng cặn bã và hội chúng tinh ba.
-Và này các Tỷ-kheo, thế nào là hội chúng cặn bã? Ở đây, này các Tỷ-kheo, tại hội chúng nào, các Tỷkheo đi đến con đường dục, đi đến con đường sân, đi đến con đường si, đi đến con đường sợ hãi, này
+Và này các Tỷ-kheo, thế nào là hội chúng cặn bã? Ở đây, này các Tỷ-kheo, tại hội chúng nào, các Tỷ-kheo đi đến con đường dục, đi đến con đường sân, đi đến con đường si, đi đến con đường sợ hãi, này
 các Tỷ-kheo, đây gọi là hội chúng cặn bã.
 
-Và này các Tỷ-kheo, thế nào là hội chúng tinh ba? Ở đây, này các Tỷ-kheo, tại hội chúng nào, các Tỷkheo không đi đến con đường dục, không đi đến con đường sân, không đi đến con đường si, không đi
+Và này các Tỷ-kheo, thế nào là hội chúng tinh ba? Ở đây, này các Tỷ-kheo, tại hội chúng nào, các Tỷ-kheo không đi đến con đường dục, không đi đến con đường sân, không đi đến con đường si, không đi
 đến con đường sợ hãi, này các Tỷ-kheo, đây gọi là hội chúng tinh ba.
 
-Này các Tỷ-kheo, đây là hai hội chúng này. Hội chúng tối thắng trong hai hội chúng này, này các Tỷkheo, tức là hội chúng tinh ba.
+Này các Tỷ-kheo, đây là hai hội chúng này. Hội chúng tối thắng trong hai hội chúng này, này các Tỷ-kheo, tức là hội chúng tinh ba.
 
 6. Này các Tỷ-kheo, có hai hội chúng này. Thế nào là hai? Hội chúng được huấn luyện trong khoa
 trương, không được huấn luyện trong chất vấn và hội chúng được huấn luyện trong chất vấn, không
@@ -2172,10 +2172,10 @@ Và này các Tỷ-kheo, thế nào là hội chúng tôn trọng diệu pháp, 
 Tỷ-kheo, tại hội chúng nào, các Tỷ-kheo trước mặt các gia chủ bận áo trắng, không tự tán thán lẫn nhau
 như sau: “Tỷ-kheo này là bậc giải thoát cả hai phần, Tỷ-kheo này là bậc tuệ giải thoát, Tỷ-kheo này là
 bậc Thân chứng, Tỷ-kheo này là bậc Kiến chí, Tỷ-kheo này là bậc Tín giải thoát, Tỷ-kheo này là bậc
-Tùy pháp hành, Tỷ-kheo này là bậc Tùy tín hành, Tỷ-kheo này là bậc có giới hạnh, theo thiện pháp, Tỷkheo này là kẻ Ác giới, theo Ác pháp”. Do vậy, họ được các lợi dưỡng, họ thọ hưởng các lợi dưỡng ấy,
+Tùy pháp hành, Tỷ-kheo này là bậc Tùy tín hành, Tỷ-kheo này là bậc có giới hạnh, theo thiện pháp, Tỷ-kheo này là kẻ Ác giới, theo Ác pháp”. Do vậy, họ được các lợi dưỡng, họ thọ hưởng các lợi dưỡng ấy,
 không bị trói buộc, không bị mê say, không đắm trước, thấy các sự nguy hại, hiểu rõ sự giải thoát khỏi
 các lợi dưỡng ấy. Này các Tỷ-kheo, đây gọi là hội chúng tôn trọng diệu pháp, không tôn trọng tài vật.
-Này các Tỷ-kheo, có hai loại hội chúng này. Hội chúng tối thắng trong hai hội chúng này, này các Tỷkheo, tức là hội chúng tôn trọng diệu pháp, không tôn trọng tài vật.
+Này các Tỷ-kheo, có hai loại hội chúng này. Hội chúng tối thắng trong hai hội chúng này, này các Tỷ-kheo, tức là hội chúng tôn trọng diệu pháp, không tôn trọng tài vật.
 
 8. Này các Tỷ-kheo, có hai loại hội chúng này. Thế nào là hai? Hội chúng không đồng đẳng và hội
 chúng đồng đẳng. Và này các Tỷ-kheo, thế nào là hội chúng không đồng đẳng? Ở đây, này các Tỷ-kheo,
@@ -2192,7 +2192,7 @@ gọi là hội chúng đồng đẳng. Này các Tỷ Kheo, có hai loại hộ
 hội chúng này tứ là hội chúng đồng đẳng.
 
 9. Này các Tỷ-kheo, có hai loại hội chúng này. Thế nào là hai? Hội chúng phi pháp và hội chúng đúng
-pháp. Này các Tỷ-kheo, có hai hội chúng này. Hội chúng tối thắng trong hai hội chúng này, này các Tỷkheo, tức là hội chúng đúng pháp.
+pháp. Này các Tỷ-kheo, có hai hội chúng này. Hội chúng tối thắng trong hai hội chúng này, này các Tỷ-kheo, tức là hội chúng đúng pháp.
 
 10. Này các Tỷ-kheo, có hai loại hội chúng này. Thế nào là hai? Hội chúng thuyết phi pháp và hội chúng
 thuyết đúng pháp. Và này các Tỷ-kheo, thế nào là hội chúng thuyết phi pháp? Ở đây, này các Tỷ-kheo,
@@ -2215,7 +2215,7 @@ chúng thuyết đúng pháp.
 
 1.- Có hai hạng người này, này các Tỷ-kheo, khi xuất hiện ở đời, sự xuất hiện đưa lại hạnh phúc cho đa
 số, an lạc cho đa số, lợi ích cho đa số, đưa lại hạnh phúc, an lạc cho chư Thiên và loài Người. Thế nào là
-hai? Như Lai, bậc A-la-hán, Chánh Ðẳng Giác và Chuyển Luân Vương. Những người này, này các Tỷkheo, khi xuất hiện ở đời, sự xuất hiện đưa lại hạnh phúc cho đa số, an lạc cho đa số, lợi ích cho đa số,
+hai? Như Lai, bậc A-la-hán, Chánh Ðẳng Giác và Chuyển Luân Vương. Những người này, này các Tỷ-kheo, khi xuất hiện ở đời, sự xuất hiện đưa lại hạnh phúc cho đa số, an lạc cho đa số, lợi ích cho đa số,
 đưa lại hạnh phúc, an lạc cho chư Thiên và loài Người.
 
 2. Có hai hạng người này, này các Tỷ-kheo, khi xuất hiện ở đời, là sự xuất hiện của những người vi diệu.
@@ -2284,7 +2284,7 @@ niên nói với ta, vị tân học nói với ta...., và nếu thấy vị �
 này các Tỷ-kheo, là sự cộng trú của người thiện và như vậy là người thiện cộng trú với nhau.
 
 12. Trong cuộc tranh tụng nào, này các Tỷ-kheo, cả hai phía có lời qua tiếng lại, có những quan điểm
-ngoan cố, với tâm hiềm hận, ưu não, uất ức, nội tâm không an tịnh, thời sự tranh tụng ấy, này các Tỷkheo, được chờ đợi rằng sẽ đưa đến kéo dài, gay gắt, thô bạo, và các Tỷ-kheo sẽ sống không an lạc.
+ngoan cố, với tâm hiềm hận, ưu não, uất ức, nội tâm không an tịnh, thời sự tranh tụng ấy, này các Tỷ-kheo, được chờ đợi rằng sẽ đưa đến kéo dài, gay gắt, thô bạo, và các Tỷ-kheo sẽ sống không an lạc.
 
 Và này các Tỷ-kheo, trong cuộc tranh tụng nào, này các Tỷ-kheo, cả hai phía có lời qua tiếng lại, có
 những quan điểm ngoan cố, với tâm hiềm hận, ưu não, uất ức, nhưng nội tâm được an tịnh, thời sự tranh
@@ -2377,10 +2377,10 @@ hợp pháp, và người tưởng là không hợp pháp đối với việc h�
 hai kẻ ngu.
 
 4. Này các Tỷ-kheo, có hai bậc hiền trí này. Thế nào là hai? Người tưởng là không hợp pháp đối với
-việc không hợp pháp, và người tưởng là hợp pháp đối với việc hợp pháp. Hai người này, này các Tỷkheo, là hai bậc hiền trí.
+việc không hợp pháp, và người tưởng là hợp pháp đối với việc hợp pháp. Hai người này, này các Tỷ-kheo, là hai bậc hiền trí.
 
 5. Này các Tỷ-kheo, có hai loại kẻ ngu này. Thế nào là hai? Người tưởng là có phạm tội đối với việc
-không phạm tội, và người tưởng là không phạm tội đối với việc có phạm tội. Hai người này, này các Tỷkheo, là hai kẻ ngu.
+không phạm tội, và người tưởng là không phạm tội đối với việc có phạm tội. Hai người này, này các Tỷ-kheo, là hai kẻ ngu.
 
 6. Này các Tỷ-kheo, có hai bậc hiền trí này. Thế nào là hai? Người tưởng là không phạm tội đối với việc
 không phạm tội, và người tưởng là phạm tội đối với việc có phạm tội. Hai người này, này các Tỷ-kheo,
@@ -2549,7 +2549,7 @@ hiền trí ... tạo nên nhiều phước đức.
 
 9. Này các Tỷ-kheo, có hai pháp này. Thế nào là hai? Thanh tịnh tự tâm và không chấp thủ một cái gì ở
 đời. Những pháp này, này các Tỷ-kheo, là hai pháp.
-10. Này các Tỷ-kheo, có hai pháp này. Thế nào là hai? Phẫn nộ và hiềm hận. Các pháp này, này các Tỷkheo, là hai pháp.
+10. Này các Tỷ-kheo, có hai pháp này. Thế nào là hai? Phẫn nộ và hiềm hận. Các pháp này, này các Tỷ-kheo, là hai pháp.
 
 11. Này các Tỷ-kheo, có hai pháp này. Thế nào là hai? Nhiếp phục phẫn nộ và nhiếp phục hiềm hận.
 Các pháp này, này các Tỷ-kheo, là hai pháp.
@@ -2974,7 +2974,7 @@ Và này các Tỷ-kheo, thế nào là người ly hy vọng? Ở đây này c�
 đảnh. Vị ấy nghe nói như sau: “Vị Sát-đế-lỵ tên như vậy đã được các Sát-đế-lỵ làm lễ quán đảnh theo lễ
 quán đảnh của các Sát-đế-lỵ”. Người ấy không nghĩ như sau: “Không biết khi nào các Sát-đế-lỵ mới làm
 lễ quán đảnh cho ta theo lễ quán đảnh của Sát-đế-lỵ? “Vì cớ sao? Sự hy vọng được làm lễ quán đảnh
-trước khi chưa làm lễ quán đảnh, hy vọng ấy được hoàn toàn chấm dứt. Người như vậy, này các Tỷkheo, được gọi là người đã ly hy vọng.
+trước khi chưa làm lễ quán đảnh, hy vọng ấy được hoàn toàn chấm dứt. Người như vậy, này các Tỷ-kheo, được gọi là người đã ly hy vọng.
 
 Ba hạng người này, này các Tỷ-kheo, xuất hiện, có mặt ở đời. Cũng vậy, này các Tỷ-kheo, có ba hạng
 người xuất hiện, có mặt giữa các Tỷ-kheo. Thế nào là ba? Không hy vọng, có hy vọng, ly hy vọng.
@@ -3106,7 +3106,7 @@ khuyết điểm nên bánh xe ấy tiếp tục chạy cho đến khi sức đ�
 
 4.- Rất có thể, này các Tỷ-kheo, các thầy nghĩ rằng trong thời ấy, người đóng xe ấy là một người khác.
 Này các Tỷ-kheo, chớ có nghĩ như vậy. Trong thời ấy, ta chính là người đóng xe. Lúc bấy giờ, này các
-Tỷ-kheo, ta khéo léo về chỗ cong của gỗ, về chỗ hỏng của gỗ, về khuyết điểm của gỗ. Nay, này các Tỷkheo, ta là bậc A-la-hán, Chánh Ðẳng Giác, khéo léo về chỗ cong của thân, về chỗ hỏng của thân, về
+Tỷ-kheo, ta khéo léo về chỗ cong của gỗ, về chỗ hỏng của gỗ, về khuyết điểm của gỗ. Nay, này các Tỷ-kheo, ta là bậc A-la-hán, Chánh Ðẳng Giác, khéo léo về chỗ cong của thân, về chỗ hỏng của thân, về
 khuyết điểm của thân; khéo léo về chỗ cong của lời nói, về chỗ hỏng của lời nói, về khuyết điểm của lời
 nói; khéo léo về chỗ cong của ý, về chỗ hỏng của ý, về khuyết điểm của ý.
 
@@ -3166,7 +3166,7 @@ ba? Thân làm ác, miệng nói ác, ý nghĩ ác. Ba pháp này, này các T�
 người, đưa đến hại cả hai.
 
 Có ba pháp này, này các Tỷ-kheo, không đưa đến hại mình, không đưa đến hại người, không đưa đến
-hại cả hai. Thế nào là ba? Thân làm thiện, miệng nói thiện, ý nghĩ thiện. Có ba pháp này, này các Tỷkheo, không đưa đến hại mình, không đưa đến hại người, không đưa đến hại cả hai.
+hại cả hai. Thế nào là ba? Thân làm thiện, miệng nói thiện, ý nghĩ thiện. Có ba pháp này, này các Tỷ-kheo, không đưa đến hại mình, không đưa đến hại người, không đưa đến hại cả hai.
 
 **18.- Thiên Giới**
 
@@ -3437,7 +3437,7 @@ các Tỷ kheo, đây gọi là hạng người được ví dụ với vết th
 
 Và này các Tỷ-kheo, thế nào là hạng ngườivới tâm được ví dụ như chớp sáng? Ở đây, này các Tỷ-kheo,
 có hạng người như thật rõ biết: “Ðây là khổ”,.. như thật rõ biết “Ðây là con đường đưa đến khổ diệt”. Ví
-như một người có mắt, thấy các sắc trong đêm tối mù mịt, khi có chớp sáng. Cũng vậy, này các Tỷkheo, ở đây có người như thật rõ biết: “Ðây là khổ”, ... như thật rõ biết: “Ðây là con đường đưa đến khổ
+như một người có mắt, thấy các sắc trong đêm tối mù mịt, khi có chớp sáng. Cũng vậy, này các Tỷ-kheo, ở đây có người như thật rõ biết: “Ðây là khổ”, ... như thật rõ biết: “Ðây là con đường đưa đến khổ
 diệt”. Này các Tỷ-kheo, đây được gọi là hạng người với tâm được ví như chớp sáng.
 
 Và này các Tỷ-kheo, thế nào là hạng người với tâm được ví dụ như kim cang? Ở đây, này các Tỷ-kheo,
@@ -3638,7 +3638,7 @@ tịnh. Người ấy, tại chỗ ngồi ấy, đối với bài thuyết giả
 bài thuyết giảng ấy, người ấy không có tác ý đến đoạn đầu, không có tác ý đến đoạn giữa, không có tác
 ý đến đoạn cuối. Ví như này các Tỷ-kheo, một cái ghè bị lộn ngược, nước chứa trong ấy tuôn chảy,
 không có dừng lại. Cũng vậy, này các Tỷ-kheo, ở đây, có hạng người đi đến khu vườn ... không có tác ý
-đoạn cuối. Cũng vậy, khi người ấy từ chỗ ngồi ấy đứng lên ... không có tác ý đoạn cuối. Này các Tỷkheo, đây gọi là hạng người với trí tuệ lộn ngược.
+đoạn cuối. Cũng vậy, khi người ấy từ chỗ ngồi ấy đứng lên ... không có tác ý đoạn cuối. Này các Tỷ-kheo, đây gọi là hạng người với trí tuệ lộn ngược.
 
 Và này các Tỷ-kheo, thế nào là người với trí tuệ bắp vế? Ở đây, này các Tỷ-kheo, có hạng người đi đến
 khu vườn (tinh xá). Người ấy, tại chỗ ngồi ấy, đối với bài thuyết giảng ấy, có tác ý đến đoạn đầu, có tác
@@ -3781,7 +3781,7 @@ tùy miên, chúng tôi sẽ chứng đạt và an trú tâm giải thoát, tu�
 Ông cần phải học tập. Khi nào Tỷ-kheo đối với thân có thức này, không có ngã kiến, ngã sở kiến, ngã
 mạn tùy miên; đối với tất cả các tướng ở ngoài, không có ngã kiến, ngã sở kiến, ngã mạn tùy miên; và
 do chứng đạt và an trú tâm giải thoát, tuệ giải thoát, không có ngã kiến, ngã sở kiến, ngã mạn tùy miên;
-vị ấy chứng đạt và an trú tâm giải thoát, tuệ giải thoát ấy. Người như vậy, này Sàriputta, được gọi là Tỷkheo đã chặt đứt khát ái, đã cởi mở kiết sử, với chơn chánh hiện quán kiêu mạn, đã đoạn tận khổ đau.
+vị ấy chứng đạt và an trú tâm giải thoát, tuệ giải thoát ấy. Người như vậy, này Sàriputta, được gọi là Tỷ-kheo đã chặt đứt khát ái, đã cởi mở kiết sử, với chơn chánh hiện quán kiêu mạn, đã đoạn tận khổ đau.
 
 - Lại nữa, này Sàriputta, liên hệ đến vấn đề này, ta đã nói như sau trong kinh tên là “Những câu hỏi của
 Udaya” trong chương Pàràyana.
@@ -4156,7 +4156,7 @@ _Theo làm lễ Bố-tát_
 _Vị ấy giống như ta._
 
 Bài kệ ấy, này các Tỷ-kheo, đã bị Thiên chủ Sakka hát sai, không hát đúng ... Vì cớ sao? Ta nói rằng
-Thiên chủ Sakka, này các Tỷ-kheo, chưa giải thoát khỏi sanh, già, chết, sầu, bi, khổ, ưu, não. Còn vị Tỷkheo, này các Tỷ-kheo, là bậc A-la-hán ... chánh trí giải thoát. Với vị Tỷ-kheo ấy, này các Tỷ-kheo, lời
+Thiên chủ Sakka, này các Tỷ-kheo, chưa giải thoát khỏi sanh, già, chết, sầu, bi, khổ, ưu, não. Còn vị Tỷ-kheo, này các Tỷ-kheo, là bậc A-la-hán ... chánh trí giải thoát. Với vị Tỷ-kheo ấy, này các Tỷ-kheo, lời
 nói này mới là thích đáng:
 _Ngày mười bốn, ngày rằm_
 _Ngày tám trong nửa tháng_
@@ -4173,7 +4173,7 @@ não, giải thoát khỏi khổ đau.
 1. - Này các Tỷ-kheo, Ta được nuôi dưỡng tế nhị, tối thắng nuôi dưỡng tế nhị, cứu cánh nuôi dưỡng tế
 nhị. Này các Tỷ-kheo, trong nhà Phụ vương ta, các hồ nước được xây lên, trong một hồ có hoa sen xanh,
 trong một hồ có hoa sen đỏ, trong một hồ có hoa sen trắng, tất cả phục vụ cho ta. Không một hương
-chiên đàn nào ta dùng, này các Tỷ-kheo, là không từ Kàsi đến. Bằng vải Kàsi là khăn của ta, này các Tỷkheo. Bằng vải kàsi là áo cánh, bằng vải kàsi là nội y, bằng vải kàsi là thượng y. Ðêm và ngày, một lọng
+chiên đàn nào ta dùng, này các Tỷ-kheo, là không từ Kàsi đến. Bằng vải Kàsi là khăn của ta, này các Tỷ-kheo. Bằng vải kàsi là áo cánh, bằng vải kàsi là nội y, bằng vải kàsi là thượng y. Ðêm và ngày, một lọng
 trắng được che cho ta để tránh xúc chạm lạnh, nóng, bụi, cỏ hay xương. Này các Tỷ-kheo, ba lâu đài
 được xây dựng cho Ta, một cái cho mùa đông, một cái cho mùa hạ, một cái cho mùa mưa. Và Ta, này
 các Tỷ-kheo, tại lâu đài mùa mưa, trong bốn tháng mưa, được những nữ nhạc công đoanh vây, Ta không
@@ -4479,10 +4479,10 @@ niệm để chơn chánh đoạn tận khổ đau.
 quyền lực.
 
 Và thế nào, này các Tỷ-kheo, là tên cướp lớn dựa vào quanh co hiểm trở? Ở đây, này các Tỷ-kheo, tên
-cướp lớn dựa vào con sông khó lội qua, hay sự quanh co hiểm trở của núi non. Như vậy, này các Tỷkheo, là tên cướp lớn dựa vào sự quanh co hiểm trở.
+cướp lớn dựa vào con sông khó lội qua, hay sự quanh co hiểm trở của núi non. Như vậy, này các Tỷ-kheo, là tên cướp lớn dựa vào sự quanh co hiểm trở.
 
 Và này các Tỷ-kheo, thế nào là tên cướp lớn dựa vào rừng rậm? Ở đây, này các Tỷ-kheo, tên cướp lớn
-dựa vào rừng rậm cỏ, hay rừng rậm cây, hay khóm rừng, hay đám rừng lớn rậm. Như vậy, này các Tỷkheo, tên cướp lớn dựa vào rừng rậm.
+dựa vào rừng rậm cỏ, hay rừng rậm cây, hay khóm rừng, hay đám rừng lớn rậm. Như vậy, này các Tỷ-kheo, tên cướp lớn dựa vào rừng rậm.
 
 Và này các Tỷ-kheo, thế nào là tên cướp lớn dựa vào kẻ có quyền lực? Ở đây, này các Tỷ-kheo, tên
 cướp lớn dựa vào vua hay các vị đại thần của vua và nghĩ như sau: “Nếu có ai kết tội ta, các vua ấy hay
@@ -5151,7 +5151,7 @@ cả đều do nhân một tạo hóa tạo ra? “.
 Ðược Ta hỏi vậy, họ trả lời: “Thưa phải, có như vậy”.
 
 Ta nói với họ như sau: “Như vậy, thời theo các Tôn giả, do nhân một vị tạo hóa tạo ra, sẽ trở thành
-người sát sanh ... Do nhân một vị tạo hóa tạo ra, sẽ trở thành người theo tà kiến”. Nhưng này các Tỷkheo, với những ai trở lại dựa vào vị tạo hóa tạo ra là lý do kiên thực, với những người ấy sẽ không có
+người sát sanh ... Do nhân một vị tạo hóa tạo ra, sẽ trở thành người theo tà kiến”. Nhưng này các Tỷ-kheo, với những ai trở lại dựa vào vị tạo hóa tạo ra là lý do kiên thực, với những người ấy sẽ không có
 ước muốn, không có tinh tấn, không có “Ðây là việc phải làm”, hay “Ðây là việc không nên làm”. Như
 vậy, sự cần thiết cần phải làm hay không cần phải làm không được tìm thấy là chân thực, là đáng tin
 cậy, thời danh từ Sa-môn không thể áp dụng đúng pháp cho các Ông được, vì các Ông sống thất niệm và
@@ -5884,7 +5884,7 @@ thoát khỏi hy cầu, được tịch tịnh, được thanh lương, cảm th
 
 **67.- Các Vấn Ðề Ðược Nói Ðến**
 
-1. - Này các Tỷ-kheo, có ba vấn đề này được nói đến. Thế nào là ba? Có thể nói về quá khứ, này các Tỷkheo, nói rằng: “Như vầy đã xảy ra trong thời quá khứ. Có thể nói về tương lai, này các Tỷ-kheo, nói
+1. - Này các Tỷ-kheo, có ba vấn đề này được nói đến. Thế nào là ba? Có thể nói về quá khứ, này các Tỷ-kheo, nói rằng: “Như vầy đã xảy ra trong thời quá khứ. Có thể nói về tương lai, này các Tỷ-kheo, nói
 rằng: “Như vầy sẽ xảy ra trong thời tương lai”. Có thể nói về hiện tại, này các Tỷ-kheo, nói rằng: “Như
 vầy đang xảy ra trong thời hiện tại”.
 
@@ -5936,7 +5936,7 @@ báng, không chụp lấy chỗ sơ hở. Nếu là như vậy, này các Tỷ-
 
 Không có lóng tai, này các Tỷ-kheo, là không có duyên. Có lóng tai là có duyên. Người có duyên thắng
 tri một pháp, biến tri một pháp, từ bỏ một pháp, chứng đắc mot65t pháp. Do thắng tri một pháp, liễu tri
-một pháp, từ bỏ một pháp, chứng đắc một pháp, vị ấy cảm thấy chánh giải thoát. Như vậy, này các Tỷkheo, là lợi ích của thảo luận, như vậy là lợi ích của đàm luận, như vậy là lợi ích có duyên, như vậy là
+một pháp, từ bỏ một pháp, chứng đắc một pháp, vị ấy cảm thấy chánh giải thoát. Như vậy, này các Tỷ-kheo, là lợi ích của thảo luận, như vậy là lợi ích của đàm luận, như vậy là lợi ích có duyên, như vậy là
 lợi ích nghe lời khuyên, tức là tâm giải thoát không có chấp thủ.
 7.
 
@@ -6894,7 +6894,7 @@ Thiên, có thể bảy lần ngự trị trên cõi Jambudìpa này. Nhưng nà
 Thọ trì tăng thượng giới học, thọ trì tăng thượng tâm học, thọ trì tăng thượng tuệ học. Ðây là ba hạnh
 Sa-môn cần phải làm naỳ của Sa-môn. Ở đây vậy, này các Tỷ-kheo, hãy học tập như sau: “Sắc bén sẽ là
 ước muốn chúng ta để thọ trì tăng thượng giới học. Sắc bén sẽ là ước muốn chúng ta để thọ trì tăng
-thượng định học. Sắc bén sẽ là ước muốn chúng ta để thọ trì tăng thượng tuệ học”. Như vậy, này các Tỷkheo, các Thầy cần phải học tập.
+thượng định học. Sắc bén sẽ là ước muốn chúng ta để thọ trì tăng thượng tuệ học”. Như vậy, này các Tỷ-kheo, các Thầy cần phải học tập.
 
 2. Ví như, này các Tỷ-kheo, một con lừa đi theo sau lưng một đàn bò nghĩ rằng: “Ta cũng là con bò, ta
 cũng là con bò”, nhưng nó không có màu sắc giống như con bò. Nó không có tiếng giống như con bò.
@@ -6930,7 +6930,7 @@ các Thầy cần phải học tập.
 1. Như vầy tôi nghe.
 
 Một thời Thế Tôn trú ở Vesàli, tại Ðại Lâm, chỗ giảng đường có góc nhọn. Rồi một Tỷ-kheo người
-Vajji đi đến Thế Tôn; sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Ngồi xuống một bên, Tỷkheo người Vajji bạch Thế Tôn:
+Vajji đi đến Thế Tôn; sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Ngồi xuống một bên, Tỷ-kheo người Vajji bạch Thế Tôn:
 - Bạch Thế Tôn, hơn 150 học pháp này, nửa tháng một lần con phải tụng đọc, ở đây, con không có thể
 học nổi.
 
@@ -7157,7 +7157,7 @@ không khéo lợi ích cho ta, khi Thế Tôn với pháp thoại liên hệ đ
 khích lệ, làm cho phấn khởi, làm cho hoan hỷ, lại lấy làm bất nhẫn, lấy làm bất mãn, nghĩ rằng: “Sa-môn
 này quá tăn măn, tỉ mỉ!”. Vậy ta hãy đi đến Thế Tôn, sau khi đến, trước mặt Thế Tôn, hãy tỏ lộ có phạm
 tội là có phạm tội!”. Phạm tội đã chinh phục con, bạch Thế Tôn, ngu si như con, đần độn như con, bất
-thiện như con. Vì rằng trong khi Thế Tôn, với pháp thoại liên hệ đến pháp học, giảng dạy cho các Tỷkheo, khích lệ, làm cho phấn khởi, làm cho hoan hỷ, con lấy làm bất nhẫn, con cảm thấy bất mãn, nghĩ
+thiện như con. Vì rằng trong khi Thế Tôn, với pháp thoại liên hệ đến pháp học, giảng dạy cho các Tỷ-kheo, khích lệ, làm cho phấn khởi, làm cho hoan hỷ, con lấy làm bất nhẫn, con cảm thấy bất mãn, nghĩ
 rằng: “Vị Sa-môn này quá tăn măn tỉ mỉ”. Bạch Thế Tôn, mong Thế Tôn chấp nhận con có phạm tội là
 có phạm tội, để con ngăn chận trong tương lai.
 
@@ -7169,7 +7169,7 @@ phát lộ, thời Ta chấp nhận cho Thầy. Ðây là sự tăng trưởng g
 phạm tội là có phạm tội, và như pháp phát lộ, để ngăn chặn trong tương lai.
 
 5. Nếu một trưởng lão Tỷ-kheo, này Kassapa, không ưa thích học tập, không tán thán chấp hành học tập,
-và đối với các Tỷ-kheo không ưa thích học tập, vị này không khích lệ họ học tập. Còn đối với các Tỷkheo ưa thích học tập, vị này không tán thán họ chơn thực và đúng thời. Tỷ-kheo trưởng lão như vậy,
+và đối với các Tỷ-kheo không ưa thích học tập, vị này không khích lệ họ học tập. Còn đối với các Tỷ-kheo ưa thích học tập, vị này không tán thán họ chơn thực và đúng thời. Tỷ-kheo trưởng lão như vậy,
 này Kassapa, Ta không có tán thán. Vì cớ sao? Vì các Tỷ-kheo khác có thể thân cận với trưởng lão ấy,
 nghĩ rằng: “Bậc Ðạo sư tán thán vị ấy”. Và những ai thân cận với vị ấy, họ có thể chấp nhận tri kiến của
 vị ấy. Và những ai chấp nhận tri kiến của vị ấy, sẽ đem lại bất hạnh, đau khổ lâu dài cho họ. Do vậy, này
@@ -7238,7 +7238,7 @@ muốn của ta để chấp hành tăng thượng tuệ học”. Như vậy, n
 Ở đây, này các Tỷ-kheo, các du sĩ ngoại đạo trình bày về viễn ly y áo, mang vải gai thô, mặc vải gai thô
 lẫn với các vải khác, mặc vải tẩm liệm quăng đi, mặc vải lượm từ đồng rác, y thì dùng vỏ cây tiritaka
 làm áo, mặc da con sơn dương đen, mặc áo bện từng mảnh da con sơn dương đen, mặc áo từ cỏ kusa
-bện lại, mặc áo bằng vỏ cây, mặc áo bằng đuôi ngựa bện lại, mặc áo bằng lông cú. Như vậy, này các Tỷkheo, các du sĩ ngoại đạo trình bày về viễn ly y áo.
+bện lại, mặc áo bằng vỏ cây, mặc áo bằng đuôi ngựa bện lại, mặc áo bằng lông cú. Như vậy, này các Tỷ-kheo, các du sĩ ngoại đạo trình bày về viễn ly y áo.
 
 Ở đây, này các Tỷ-kheo, các du sĩ ngoại đạo trình bày về viễn ly đồ ăn khất thực: ăn rau, cây kê, gạo
 sống, gạo rừng, cây lau, bột gạo, bột gạo cháy, ăn bột vừng, ăn cỏ, ăn phân bò, ăn trái cây, ăn rễ cây
@@ -7256,7 +7256,7 @@ Này các Tỷ-kheo, các du sĩ ngoại đạo trình bày về ba hạnh viễ
 Ở đây, này các Tỷ-kheo, Tỷ-kheo gìn giữ giới luật, từ bỏ ác giới, viễn ly ác giới, có chánh tri kiến, từ bỏ
 tà kiến, viễn ly tà kiến, đoạn tận các lậu hoặc, từ bỏ các lậu hoặc, viễn ly các lậu hoặc. Vì rằng, này các
 Tỷ-kheo, Tỷ-kheo gìn giữ giới luật, từ bỏ ác giới, viễn ly ác giới, có chánh tri kiến, từ bỏ tà kiến, viễn ly
-tà kiến, đoạn tận các lậu hoặc, từ bỏ các lậu hoặc, viễn ly các lậu hoặc, nên Tỷ-kheo này, này các Tỷkheo, được gọi là đạt được tối thượng, đạt được căn bản thanh tịnh, được an trú trên căn bản.
+tà kiến, đoạn tận các lậu hoặc, từ bỏ các lậu hoặc, viễn ly các lậu hoặc, nên Tỷ-kheo này, này các Tỷ-kheo, được gọi là đạt được tối thượng, đạt được căn bản thanh tịnh, được an trú trên căn bản.
 
 3. Ví như, này các Tỷ-kheo, ruộng lúa của người nông phu gia chủ đã chín, người nông phu gia chủ ấy
 mau mắn gặt lúa; sau khi mau mắn gặt lúa, phải mau mắn chất lúa thành đống; sau khi mau mắn chất lúa
@@ -7264,7 +7264,7 @@ thành đống, phải mau mắn chở lúa về; sau khi mau mắn chở lúa v
 sau khi mau mắn đánh lúa thành đống, phải mau mắn đập lúa; sau khi mau mắn đập lúa, phải mau mắn
 giũ rơm; sau khi mau mắn giũ rơm, phải mau mắn lấy thóc ra; sau khi mau mắn lấy thóc ra, phải mau
 mắn quạt thóc; sau khi mau mắn quạt thóc, phải mau mắn chứa thóc; sau khi mau mắn chứa thóc, phải
-mau mắn say thóc; sau khi mau mắn say thóc, phải mau mắn sàng cám lấy gạo. Như vậy, này các Tỷkheo, với người nông phu gia chủ ấy, lúa gạo ấy đạt được tối thượng, đạt được căn bản thanh tịnh, đạt
+mau mắn say thóc; sau khi mau mắn say thóc, phải mau mắn sàng cám lấy gạo. Như vậy, này các Tỷ-kheo, với người nông phu gia chủ ấy, lúa gạo ấy đạt được tối thượng, đạt được căn bản thanh tịnh, đạt
 được an trú trên căn bản. Cũng vậy, này các Tỷ-kheo, Tỷ-kheo gìn giữ giới luật, từ bỏ ác giới, viễn ly ác
 giới, có chánh tri kiến, từ bỏ tà kiến, viễn ly tà kiến, đoạn tận các lậu hoặc, từ bỏ các lậu hoặc, viễn ly
 các lậu hoặc, nên Tỷ-kheo này, này các Tỷ-kheo, được gọi là đạt được tối thượng, đạt được căn bản
@@ -7272,7 +7272,7 @@ thanh tịnh, được an trú trên căn bản.
 
 4. Ví như, này các Tỷ-kheo, vào mùa thu, khi bầu trời quang đãng, không có mây và mặt trời mọc lên
 giữa bầu trời, phá sạch hắc ám khắp cả hư không, và chói sáng, bừng sáng, rực sáng; cũng vậy, này các
-Tỷ-kheo, với vị Thánh đệ tử; pháp nhãn ly trần ly cấu khởi lên; và do tri kiến này khởi lên, này các Tỷkheo, ba kiết sử được đoạn tận, thân kiến, nghi giới cấm thủ. Lại nữa, vị ấy được thoát khỏi hai pháp
+Tỷ-kheo, với vị Thánh đệ tử; pháp nhãn ly trần ly cấu khởi lên; và do tri kiến này khởi lên, này các Tỷ-kheo, ba kiết sử được đoạn tận, thân kiến, nghi giới cấm thủ. Lại nữa, vị ấy được thoát khỏi hai pháp
 tham và sân. Vị ấy ly dục, ly pháp bất thiện, chứng đạt và an trú sơ Thiền, một trạng thái hỷ lạc do ly
 dục sanh, có tầm có tứ. Trong thời gian ấy, này các Tỷ-kheo, vị Thánh đệ tử nếu có mạng chung, sẽ
 không có kiết sử nào, do kiết sử ấy, vị Thánh đệ tử phải đi đến thế giới này nữa.
@@ -7372,7 +7372,7 @@ Tỷ-kheo, là Tỷ-kheo đầy đủ tốc lực.
 
 5. Và này các Tỷ-kheo, thế nào là Tỷ-kheo đầy đủ tốc lực?
 Ở đây, này các Tỷ-kheo, Tỷ-kheo do đoạn diệt các lậu hoặc ngay trong hiện tại, tự mình với thắng trí,
-chứng ngộ và chứng đạt an trú vô lậu tâm giải thoát, tuệ giải thoát. Như vậy, này các Tỷ-kheo, là Tỷkheo đầy đủ tốc lực.
+chứng ngộ và chứng đạt an trú vô lậu tâm giải thoát, tuệ giải thoát. Như vậy, này các Tỷ-kheo, là Tỷ-kheo đầy đủ tốc lực.
 
 Ðầy đủ với ba pháp này, này các Tỷ-kheo, Tỷ-kheo xúng đáng được cung kính, xứng đáng được tôn
 trọng, xúng đáng được cúng dường, xứng đáng được chắp tay, và ruộng phước vô thượng ở đời.
@@ -7396,7 +7396,7 @@ Còn những ai, vị này nhận các vật dụng như y áo, đồ ăn khất
 không có quả lớn, không có lợi ích lớn; đây, Ta nói rằng, không có giá trị. Này các Tỷ-kheo, ví như tấm
 vải bằng vỏ cây không có giá trị ấy, này các Tỷ-kheo, Ta nói rằng người ấy là giống như ví dụ ấy.
 
-3. Này các Tỷ-kheo, nếu là trung niên Tỷ-kheo ... (như trên) ... này các Tỷ-kheo, nếu là trưởng lão Tỷkheo, ác giới, theo ác pháp. Ta nói rằng vị ấy có sắc xấu. Này các Tỷ-kheo, ví như tấm vải làbm ằng vỏ
+3. Này các Tỷ-kheo, nếu là trung niên Tỷ-kheo ... (như trên) ... này các Tỷ-kheo, nếu là trưởng lão Tỷ-kheo, ác giới, theo ác pháp. Ta nói rằng vị ấy có sắc xấu. Này các Tỷ-kheo, ví như tấm vải làbm ằng vỏ
 cây có sắc xấu ấy, này các Tỷ-kheo, Ta nói rằng người ấy là giống như ví dụ ấy.
 
 Còn từ những ai theo vị ấy, thân cận, hầu hạ, chấp nhận, thuận theo trí kiến của vị ấy, họ bị bất hạnh,
@@ -7695,7 +7695,7 @@ như ý muốn.
 ba tướng. Cần phải thỉnh thoảng tác ý tướng định, cần phải thỉnh thoảng tác ý tướngtinh cần, cần phải
 thỉnh thoảng tác ý tướng xả. Nếu Tỷ-kheo siêng tu tập tăng thượng tâm, này các Tỷ-kheo, nếu một chiều
 tác ý tướng định, thời có sự kiện tâm vị ấy đi đến thụ động. Nếu Tỷ-kheo siêng tu tập tăng thượng tâm,
-này các Tỷ kheo, nếu một chiều tác ý tướng tinh cần, thời có sự kiện tâm vị ấy đi đến trạo cử. Nếu Tỷkheo siêng tu tập tăng thượng tâm, này các Tỷ kheo, nếu một chiều tác ý tướng xả, thời có sự kiện tâm
+này các Tỷ kheo, nếu một chiều tác ý tướng tinh cần, thời có sự kiện tâm vị ấy đi đến trạo cử. Nếu Tỷ-kheo siêng tu tập tăng thượng tâm, này các Tỷ kheo, nếu một chiều tác ý tướng xả, thời có sự kiện tâm
 vị ấy không chơn chánh định tĩnh để đoạn diệt các lậu hoặc. Nhưng nếu Tỷ-kheo siêng tu tập tăng
 thượng tâm, này các Tỷ-kheo, thỉnh thoảng tác ý tướng định, thỉnh thoảng tác ý tướng tinh cần, thỉnh
 thoảng tác ý tướng xả, tâm vị ấy trở thành nhu nhuyến, kham nhậm, chói sáng, không bể vụn, chơn
@@ -7742,9 +7742,9 @@ lên nơi ta: “Bất động là tâm giải thoát của ta. Ðây là đời
 **102.- Vị Ngọt.**
 
 1. - Này các Tỷ-kheo, nếu không có vị ngọt ở đời, thời các loài hữu tình không có tham nhiễm đối với
-đời. Vì rằng, này các Tỷ-kheo, có vị ngọt ở đời, nên các loài hữu tình có tham nhiễm ở đời. Này các Tỷkheo, nếu không có nguy hại ở đời, thời các loài hữu tình không có nhàm chán đối với đời. Vì rằng, này
+đời. Vì rằng, này các Tỷ-kheo, có vị ngọt ở đời, nên các loài hữu tình có tham nhiễm ở đời. Này các Tỷ-kheo, nếu không có nguy hại ở đời, thời các loài hữu tình không có nhàm chán đối với đời. Vì rằng, này
 các Tỷ-kheo, có nguy hại ở đời, nên các loài hữu tình có nhàm chán đối với đời. Này các Tỷ-kheo, nếu
-không có xuất ly ra khỏi đời, thời các loài hữu tình không có xuất ly đối với đời. Vì rằng, này các Tỷkheo, có xuất ly đối với đời, nên các loài hữu tình có xuất ly ra khỏi đời.
+không có xuất ly ra khỏi đời, thời các loài hữu tình không có xuất ly đối với đời. Vì rằng, này các Tỷ-kheo, có xuất ly đối với đời, nên các loài hữu tình có xuất ly ra khỏi đời.
 
 Và này các Tỷ-kheo, cho đến khi nào các loài hữu tình chưa như thật giác tri vị ngọt ở đời là vị ngọt,
 nguy hại là nguy hại, xuất ly là xuất ly, cho đến khi ấy, này các Tỷ-kheo, các loài hữu tình không có thể
@@ -7769,8 +7769,8 @@ hạnh hay mục đích của Bà-la-môn hạnh.
 
 **103.- Khóc Than**
 
-- Này các Tỷ-kheo, đây được xem là khóc than trong giới luật bậc Thánh, tức là ca vịnh. Này các Tỷkheo, đây được xem là điên loạn trong giới luật bậc Thánh, tức là múa nhảy. Này các Tỷ-kheo, đây được
-xem là trẻ con trong giới luật bậc Thánh, tức là cười quá đáng để lộ cả răng. Do luật này, này các Tỷkheo, hãy phá cây cầu đi đến hát. Hãy phá cây cầu đi đến múa nhảy. Thật là vừa đủ nếu các Thầy được
+- Này các Tỷ-kheo, đây được xem là khóc than trong giới luật bậc Thánh, tức là ca vịnh. Này các Tỷ-kheo, đây được xem là điên loạn trong giới luật bậc Thánh, tức là múa nhảy. Này các Tỷ-kheo, đây được
+xem là trẻ con trong giới luật bậc Thánh, tức là cười quá đáng để lộ cả răng. Do luật này, này các Tỷ-kheo, hãy phá cây cầu đi đến hát. Hãy phá cây cầu đi đến múa nhảy. Thật là vừa đủ nếu các Thầy được
 hoan hỷ đúng pháp, mỉm cười để tỏ là các Thầy được hoan hỷ.
 
 **104.- Không Thoả Mãn**
@@ -8613,7 +8613,7 @@ theo sở thích. Này các Tỷ-kheo, có ba hội chúng này.
 
 - Này các Tỷ-kheo, có đầy đủ ba đức tánh, một người bạn cần được thân cận. Thế nào là ba?
 
-Ở đây, này các Tỷ-kheo, Tỷ-kheo cho điều khó cho, làm điều khó làm, nhẫn điều khó nhẫn. Này các Tỷkheo, đầy đủ ba đức tánh, một người bạn cần được thân cận.
+Ở đây, này các Tỷ-kheo, Tỷ-kheo cho điều khó cho, làm điều khó làm, nhẫn điều khó nhẫn. Này các Tỷ-kheo, đầy đủ ba đức tánh, một người bạn cần được thân cận.
 
 **134.- Xuất Hiện**
 
@@ -8699,7 +8699,7 @@ không có cân đối?
 thật rõ biết: “Ðây là khổ diệt”; như thật rõ biết: “Ðây là con đường đưa đến khổ diệt”. Ðây Ta nói trong
 nghĩa có tốc lực. Nhưng khi được hỏi về thắng pháp thắng luật, vị ấy lại ngập ngừng không có trả lời.
 Ðây Ta nói trong nghĩa không có sắc đẹp. Vị ấy không có nhận được các đồ tư dụng, như y áo, đồ ăn
-khất thực, sàng tọa, dược phẩm trị bệnh. Ðây Ta nói trong nghĩa không có cân đối. Như vậy, này các Tỷkheo, là người chưa có điều phục, có tốc lực, nhưng không có sắc đẹp, không có cân đối.
+khất thực, sàng tọa, dược phẩm trị bệnh. Ðây Ta nói trong nghĩa không có cân đối. Như vậy, này các Tỷ-kheo, là người chưa có điều phục, có tốc lực, nhưng không có sắc đẹp, không có cân đối.
 
 3. Như thế nào, này các Tỷ-kheo, là hạng người chưa được điều phục, có tốc lực, có sắc đẹp, nhưng
 không cân đối?
@@ -9017,7 +9017,7 @@ nghiệp, tu tập chánh mạng, tu tập chánh tinh tấn, tu tập chánh ni
 
 - Ðầy đủ ba pháp, này các Tỷ-kheo, tương xứng như vậy, bị rơi vào địa ngục. Thế nào là ba?
 
-Tự mình sát sanh, khích lệ người khác sát sanh, tùy hỷ sự sát sanh. Ðầy đủ ba pháp này, này các Tỷkheo, tương xứng như vậy, bị rơi vào địa ngục.
+Tự mình sát sanh, khích lệ người khác sát sanh, tùy hỷ sự sát sanh. Ðầy đủ ba pháp này, này các Tỷ-kheo, tương xứng như vậy, bị rơi vào địa ngục.
 
 Ðầy đủ ba pháp này, này các Tỷ-kheo, tương xứng như vậy được sanh thiên giới. Thế nào là ba?
 
@@ -9310,7 +9310,7 @@ Và này các Tỷ-kheo, thế nào là người nghe nhiều, điều đã đư
 
 Ở đây, này các Tỷ-kheo, có hạng người được nghe nhiều về kinh: ứng tụng, ký thuyết, các Bài kệ, Cảm
 hứng ngữ, Như thị thuyết, Bổn sanh, Vị tằng hữu, Phương quảng. Người ấy, với điều đã được nghe
-nhiều này, không biết nghĩa, không biết pháp, không thực hành pháp, tùy pháp. Như vậy, này các Tỷkheo, là người nghe nhiều, điều đã được nghe không khởi lên.
+nhiều này, không biết nghĩa, không biết pháp, không thực hành pháp, tùy pháp. Như vậy, này các Tỷ-kheo, là người nghe nhiều, điều đã được nghe không khởi lên.
 
 Và này các Tỷ-kheo, thế nào là người nghe nhiều, điều đã được nghe được khởi lên?
 
@@ -9538,7 +9538,7 @@ _Họ vượt khỏi các ách_
 
 **I. (11) Hành.**
 
-1.- Này các Tỷ-kheo, Nếu Tỷ-kheo khi đang đi khởi lên dục tầm, hay sân tầm, hai hại tầm mà nếu Tỷkheo chấp nhận, không có từ bỏ, không có tẩy sạch, không có chấm dứt, không có đi đến không hiện
+1.- Này các Tỷ-kheo, Nếu Tỷ-kheo khi đang đi khởi lên dục tầm, hay sân tầm, hai hại tầm mà nếu Tỷ-kheo chấp nhận, không có từ bỏ, không có tẩy sạch, không có chấm dứt, không có đi đến không hiện
 hữu; này các Tỷ-kheo, nếu Tỷ-kheo đang đi có sở hành như vậy, vị ấy được gọi là người không có nhiệt
 tình, không có xấu hổ, liên tục thường hằng biếng nhác, tinh tấn hạ liệt. Này các Tỷ-kheo, nếu Tỷ-kheo
 khi đang đứng ... khi đang ngồi ... khi đang nằm, thức khởi lên dục tầm, hay sân tầm, hai hại tầm mà nếu
@@ -9546,7 +9546,7 @@ Tỷ-kheo chấp nhận, không có từ bỏ, không có tẩy sạch, không c
 hữu; này các Tỷ-kheo, nếu Tỷ-kheo khi đang nằm, thức có sở hành như vậy, vị ấy được gọi là người
 không có nhiệt tình, không có xấu hổ, liên tục thường hằng biếng nhác, tinh tấn hạ liệt.
 
-2. Này các Tỷ-kheo, Nếu Tỷ-kheo khi đang đi khởi lên dục tầm, hay sân tầm, hai hại tầm mà nếu Tỷkheo không chấp nhận, từ bỏ, tẩy sạch, chấm dứt, đi đến không hiện hữu; này các Tỷ-kheo, nếu Tỷ-kheo
+2. Này các Tỷ-kheo, Nếu Tỷ-kheo khi đang đi khởi lên dục tầm, hay sân tầm, hai hại tầm mà nếu Tỷ-kheo không chấp nhận, từ bỏ, tẩy sạch, chấm dứt, đi đến không hiện hữu; này các Tỷ-kheo, nếu Tỷ-kheo
 đang đi có sở hành như vậy, vị ấy được gọi là người có nhiệt tình, có xấu hổ, liên tục thường hằng, tinh
 cần tinh tấn, siêng năng. Này các Tỷ-kheo, nếu Tỷ-kheo khi đang đứng ... khi đang ngồi ... khi đang
 nằm, thức khởi lên dục tầm, hay sân tầm, hai hại tầm mà nếu Tỷ-kheo không chấp nhận, từ bỏ, tẩy sạch,
@@ -9632,7 +9632,7 @@ không nắm giữ tướng chung, không nắm giữ tướng riêng. Những n
 chế ngự, khiến tham ái ưu bi, các ác bất thiện pháp khởi lên, Tỷ-kheo chế ngự nguyên nhân ấy, hộ trì
 nhãn căn, thật hành sự hộ trì nhãn căn. Khi tai nghe tiếng ... mũi ngửi hương ... lưỡi nếm vị ... thâm cảm
 xúc ... ý nhận thức các pháp, vị ấy không nắm giữ tướng chung, không nắm giữ tướng riêng. Những
-nguyên nhân gì, vì ý căn không được chế ngự, khiến tham ái ưu bi, các ác bất thiện pháp khởi lên, Tỷkheo chế ngự nguyên nhân ấy, hộ trì ý căn, thật hành sự hộ trì ý căn. Này các Tỷ-kheo, đây gọi là tinh
+nguyên nhân gì, vì ý căn không được chế ngự, khiến tham ái ưu bi, các ác bất thiện pháp khởi lên, Tỷ-kheo chế ngự nguyên nhân ấy, hộ trì ý căn, thật hành sự hộ trì ý căn. Này các Tỷ-kheo, đây gọi là tinh
 cần chế ngự.
 
 Và này các Tỷ-kheo, thế nào là tinh cần đoạn tận? Ở đây, này các Tỷ-kheo, Tỷ-kheo không có chấp
@@ -9836,7 +9836,7 @@ _Chư Phật Chánh Ðẳng Giác_
 
 Này các Tỷ-kheo, Phạm Thiên Sahampati nói như vậy; nói vậy xong, đảnh lễ ta, thân hữu hướng về bên
 ta rồi biến mất tại chỗ. Rồi này các Tỷ-kheo, sau khi biết được thỉnh nguyện của Phạm thiên, và thích
-ứng với Ta, Ta sống cung kính, tôn trọng và y chỉ pháp ấy và ta đã tự Chánh Ðẳng Giác. Và này các Tỷkheo, vì rằng chúng Tăng thành tựu sự cao cả nên ta tôn trọng đặc biệt chúng Tăng.
+ứng với Ta, Ta sống cung kính, tôn trọng và y chỉ pháp ấy và ta đã tự Chánh Ðẳng Giác. Và này các Tỷ-kheo, vì rằng chúng Tăng thành tựu sự cao cả nên ta tôn trọng đặc biệt chúng Tăng.
 
 **(II) (22) Tại Uruvelà (2)**
 
@@ -10096,17 +10096,17 @@ với bất cứ loại khất thực nào, không vì nhân khất thực rơi 
 Nếu không được đồ ăn khất thực, không có lo âu tiếc nuối; nếu được đồ ăn khất thực, không có tham
 lam, mê say, tham đắm; thấy sự nguy hiểm và với trí tuệ thấy được sự xuất ly, vị ấy hưởng thọ đồ ăn
 khất thực, không vì biết đủ với bất cứ loại đồ ăn khất thực nào, không có khen mình, chê người. Ai ở
-đây khôn khéo (thiện xảo), không có thụ động, tỉnh giác, chánh niệm, này các Tỷ-kheo, đây gọi là Tỷkheo đứng ở trên Thánh truyền thống, kỳ cựu, được nhận biết là tối sơ.
+đây khôn khéo (thiện xảo), không có thụ động, tỉnh giác, chánh niệm, này các Tỷ-kheo, đây gọi là Tỷ-kheo đứng ở trên Thánh truyền thống, kỳ cựu, được nhận biết là tối sơ.
 
 Lại nữa, này các Tỷ-kheo, Tỷ-kheo biết đủ với bất cứ loại sàng tọa nào, và nói lời tán thán sự biết đủ với
 bất cứ loại sàng tọa nào, không vì nhân sàng tọa rời vào sự tầm cầu bất chính, không thích hợp. Nếu
 không được sàng tọa, không có lo âu tiếc nuối; nếu được sàng tọa, không có tham lam, mê say, đắm
 đuối; thấy sự nguy hiểm và với trí tuệ thấy được sự xuất ly, vị ấy hưởng thọ sàng tọa, không có khen
-mình chê người. Ai ở đây khôn khéo, (thiện xảo), không có thụ động, tỉnh giác, chánh niệm, này các Tỷkheo, đây gọi là vị Tỷ-kheo đứng ở trên Thánh truyền thống kỳ cựu, được nhận biết là tối sơ.
+mình chê người. Ai ở đây khôn khéo, (thiện xảo), không có thụ động, tỉnh giác, chánh niệm, này các Tỷ-kheo, đây gọi là vị Tỷ-kheo đứng ở trên Thánh truyền thống kỳ cựu, được nhận biết là tối sơ.
 
 Lại nữa, này các Tỷ-kheo, Tỷ-kheo ưa thích tu tập, vui thích tu tập, ưa thích đoạn tận, vui thích đoạn tận,
 nhưng không vì ưa thích tu tập, vui thích tu tập, ưa thích đoạn tận, vui thích đoạn tận mà khen mình chê
-người. Ai ở đây khôn khéo, không có thụ động, tỉnh giác, chánh niệm, này các Tỷ-kheo, đây gọi là Tỷkheo đứng trên Thánh truyền thông, kỳ cựu, được nhận biết là tối sơ.
+người. Ai ở đây khôn khéo, không có thụ động, tỉnh giác, chánh niệm, này các Tỷ-kheo, đây gọi là Tỷ-kheo đứng trên Thánh truyền thông, kỳ cựu, được nhận biết là tối sơ.
 
 Bốn truyền thống bậc Thánh này, này các Tỷ-kheo, được biết là tối sơ, có đã lâu đời, được biết là truyền
 thống kỳ cựu, không có tạp nhiễm, trước không bị tạp nhiễm, nay không bị tạp nhiễm, sẽ không bị tạp
@@ -10140,7 +10140,7 @@ _Phạm thiên cũng tán thán._
 kỳ cựu, không có tạp nhiễm, trước không bị tạp nhiễm, nay không bị tạp nhiễm, sẽ không bị tạp nhiễm,
 không bị các Sa-môn, Bà-la-môn có trí quở trách. Thế nào là bốn?
 
-Không tham, này các Tỷ-kheo, là pháp cú được biết là tối sơ... có trí quở trách. Không sân, này các Tỷkheo, này các Tỷ-kheo, là pháp cú được biết là tối sơ... có trí quở trách. Chánh niệm, này các Tỷ-kheo,
+Không tham, này các Tỷ-kheo, là pháp cú được biết là tối sơ... có trí quở trách. Không sân, này các Tỷ-kheo, này các Tỷ-kheo, là pháp cú được biết là tối sơ... có trí quở trách. Chánh niệm, này các Tỷ-kheo,
 là pháp cú được biết là tối sơ... có trí quở trách. Chánh định, này các Tỷ-kheo, là pháp cú được biết là tối
 sơ... có trí quở trách.
 
@@ -10503,7 +10503,7 @@ giác.
 chế ngự với sự chế ngự của giới bổn Pàtimokkha, đầy đủ uy nghi chánh hạnh, thấy sợ hãi trong các lỗi
 nhỏ nhặt, chấp nhận và học tập trong các học pháp.
 
-3. Và này các Tỷ-kheo, thế nào là Tỷ-kheo hộ trì các căn? Ở đây, này các Tỷ-kheo, khi mắt thấy sắc, Tỷkheo không nắm giữ tướng chung, không nắm giữ tướng riêng. Những nguyên nhân gì, làm cho nhãn
+3. Và này các Tỷ-kheo, thế nào là Tỷ-kheo hộ trì các căn? Ở đây, này các Tỷ-kheo, khi mắt thấy sắc, Tỷ-kheo không nắm giữ tướng chung, không nắm giữ tướng riêng. Những nguyên nhân gì, làm cho nhãn
 căn không được chế ngự, khiến tham ái ưu bi, các ác bất thiện pháp khởi lên, Tỷ-kheo tự chế ngự
 nguyên nhân ấy, hộ trì nhãn căn, thật hành sự hộ trì nhãn căn. Khi tai nghe tiếng... khi mũi ngửi hương...
 khi lưỡi nếm vị... khi thân cảm xúc... khi ý nhận thức các pháp, vị ấy không nắm giữ tướng chung,
@@ -10696,7 +10696,7 @@ _Tín thành tâm giải thoát._
 
 Có định tu tập, này các Tỷ-kheo, do tu tập, do làm cho sung mãn, đưa đến hiện tại lạc trú. Có định tu
 tập, này các Tỷ-kheo, do tu tập, do làm cho sung mãn, đưa đến chứng được tri kiến. Có định tu tập, này
-các Tỷ-kheo, do tu tập, do làm cho sung mãn, đưa đến chánh niệm tỉnh giác. Có định tu tập, này các Tỷkheo, được tu tập, được làm cho sung mãn, đưa đến đoạn tận các lậu hoặc.
+các Tỷ-kheo, do tu tập, do làm cho sung mãn, đưa đến chánh niệm tỉnh giác. Có định tu tập, này các Tỷ-kheo, được tu tập, được làm cho sung mãn, đưa đến đoạn tận các lậu hoặc.
 
 2. Và này các Tỷ-kheo, thế nào là định tu tập, do tu tập, do làm cho sung mãn, đưa đến hiện tại lạc trú?
 
@@ -10954,7 +10954,7 @@ _Không mong cầu đời sau._
 
 1. - Này các Tỷ-kheo, có bốn sự việc này, rất xa, rất xa với nhau. Thế nào là bốn?
 
-Trời và đất, này các Tỷ-kheo, là sự việc thứ nhứt rất xa, rất xa với nhau. Bờ biển bên này, này các Tỷkheo với bờ biển bên kia, là sự việc thứ hai rất xa, rất xa với nhau. Từ chỗ mặt trời mọc lên, này các Tỷkheo, đến chỗ mặt trời lặn xuống, là sự việc thứ ba rất xa, rất xa với nhau. Pháp của hạng người bất
+Trời và đất, này các Tỷ-kheo, là sự việc thứ nhứt rất xa, rất xa với nhau. Bờ biển bên này, này các Tỷ-kheo với bờ biển bên kia, là sự việc thứ hai rất xa, rất xa với nhau. Từ chỗ mặt trời mọc lên, này các Tỷ-kheo, đến chỗ mặt trời lặn xuống, là sự việc thứ ba rất xa, rất xa với nhau. Pháp của hạng người bất
 thiện, này các Tỷ-kheo, với pháp của hạng người thiện, là sự việc thứ tư rất xa, rất xa với nhau.
 
 Này các Tỷ-kheo, đây là bốn sự việc rất xa, rất xa với nhau này.
@@ -11088,12 +11088,12 @@ Này các Tỷ-kheo, một số Sa-môn, Bà-la-môn uống rượu men, uống 
 rượu nấu. Này các Tỷ-kheo, đây là uế nhiễm thứ nhất của Sa-môn, Bà-la-môn, do uế nhiễm này làm ô
 nhiễm, các Sa-môn, Bà-la-môn, không có cháy sáng... không có rực sáng.
 
-Này các Tỷ-kheo, một số Sa-môn, Bà-la-môn, hưởng thọ dâm dục, không từ bỏ dâm dục. Này các Tỷkheo, đây là uế nhiễm thứ hai... không có rực sáng.
+Này các Tỷ-kheo, một số Sa-môn, Bà-la-môn, hưởng thọ dâm dục, không từ bỏ dâm dục. Này các Tỷ-kheo, đây là uế nhiễm thứ hai... không có rực sáng.
 
 Này các Tỷ-kheo, một số Sa-môn, Bà-la-môn chấp nhận vàng và bạc, không từ bỏ nhận lấy vàng và bạc.
 Này các Tỷ-kheo, đây là uế nhiễm thứ ba... không có rực sáng.
 
-Này các Tỷ-kheo, một số Sa-môn, Bà-la-môn sinh sống với tà mạng, không từ bỏ tà mạng. Này các Tỷkheo, đây là uế nhiễm thứ tư của các Sa-môn, Bà-la-môn, do uế nhiễm này làm ô nhiễm, các Sa-môn,
+Này các Tỷ-kheo, một số Sa-môn, Bà-la-môn sinh sống với tà mạng, không từ bỏ tà mạng. Này các Tỷ-kheo, đây là uế nhiễm thứ tư của các Sa-môn, Bà-la-môn, do uế nhiễm này làm ô nhiễm, các Sa-môn,
 Bà-la-môn không có cháy sáng, không có chói sáng, không có rực sáng.
 
 Này các Tỷ-kheo, có bốn uế nhiễm này của các Sa-môn, Bà-la-môn, do những uế nhiễm này làm ô
@@ -11500,7 +11500,7 @@ Tôn nói với gia chủ Anàthapindika đang ngồi một bên:
 - Thành tựu bốn pháp, này Gia chủ, vị Thánh đệ tử bước vào con đường thích đáng của người gia chủ,
 con đường đem lại tiếng tốt, con đường đưa đến cõi Trời. Thế nào là bốn?
 
-Ở đây, này Gia chủ, vị Thánh đệ tử hộ trì chúng Tỷ-kheo, hộ trì chúng Tỷ-kheo với y, hộ trì chúng Tỷkheo với đồ ăn khất thực, hộ trì chúng Tỷ-kheo với sàng tọa, hộ trì chúng Tỷ-kheo với dược phẩm trị
+Ở đây, này Gia chủ, vị Thánh đệ tử hộ trì chúng Tỷ-kheo, hộ trì chúng Tỷ-kheo với y, hộ trì chúng Tỷ-kheo với đồ ăn khất thực, hộ trì chúng Tỷ-kheo với sàng tọa, hộ trì chúng Tỷ-kheo với dược phẩm trị
 bệnh.
 
 Thành tựu với bốn pháp này, này Gia chủ, vị Thánh đệ tử bước vào con đường thích đáng của người gia
@@ -11774,7 +11774,7 @@ Lúc bấy giờ, một Tỷ-kheo ở Sàvatthi bị rắn cắn chết. Rồi n
 
 2. - Ở đây, bạch Thế Tôn, một Tỷ-kheo ở Sàvatthi bị rắn cắn đã mệnh chung.
 
-- Tỷ-kheo ấy, này các Tỷ-kheo, với từ tâm đã không hướng đến bốn gia đình vua các loài rắn. Nếu Tỷkheo ấy, này các Tỷ-kheo, với từ tâm có hướng đến bốn gia đình vua các loài rắn, thời này các Tỷ-kheo,
+- Tỷ-kheo ấy, này các Tỷ-kheo, với từ tâm đã không hướng đến bốn gia đình vua các loài rắn. Nếu Tỷ-kheo ấy, này các Tỷ-kheo, với từ tâm có hướng đến bốn gia đình vua các loài rắn, thời này các Tỷ-kheo,
 vị ấy có thể không bị rắn cắn mà mạng chung. Thế nào là bốn gia đình vua các loài rắn?
 
 Gia đình vua các loài rắn Virùpakkha, gia đình vua các loài rắn Eràpattha, gia đình vua các loài rắn
@@ -12182,7 +12182,7 @@ vào sự nghiệp, không đi đến tinh túy của sự nghiệp?
 **(I) (81) Ăn Trộm**
 
 1. - Thành tựu với bốn pháp, này các Tỷ-kheo, như vậy tương xứng bị rơi vào địa ngục. Thế nào là bốn?
-Sát sanh, lấy của không cho, tà hạnh trong các dục, nói láo. Thành tựu với bốn pháp này, này các Tỷkheo, như vậy tương xứng bị rơi vào địa ngục.
+Sát sanh, lấy của không cho, tà hạnh trong các dục, nói láo. Thành tựu với bốn pháp này, này các Tỷ-kheo, như vậy tương xứng bị rơi vào địa ngục.
 
 2. Thành tựu với bốn pháp, này các Tỷ-kheo, như vậy tương xứng được sanh lên cõi Trời. Thế nào là
 bốn?
@@ -12284,7 +12284,7 @@ Sa-môn bất động, Sa-môn sen trắng, Sa-môn sen hồng, Sa-môn tinh luy
 
 Ở đây, này các Tỷ-kheo, Tỷ-kheo là hạng hữu học, đang đi trên con đường, sống cố gắng hướng đến vô
 thượng an ổn khỏi các ách nạn. Ví như, này các Tỷ-kheo, vị trưởng nam vua Sát-đế-lỵ, xứng đáng để
-được làm lễ quán đảnh, nhưng chưa làm lễ quán đảnh, và đạt đến địa vị bất động. Cũng vậy, này các Tỷkheo, vị Tỷ-kheo hữu học, đang đi trên con đường, sống cố gắng hướng đến vô thượng an ổn khỏi các
+được làm lễ quán đảnh, nhưng chưa làm lễ quán đảnh, và đạt đến địa vị bất động. Cũng vậy, này các Tỷ-kheo, vị Tỷ-kheo hữu học, đang đi trên con đường, sống cố gắng hướng đến vô thượng an ổn khỏi các
 ách nạn. Cũng vậy, này các Tỷ-kheo, là hạng Sa-môn bất động.
 
 3. Và như thế nào, này các Tỷ-kheo, là hạng Sa-môn sen trắng?
@@ -12387,7 +12387,7 @@ giải thoát. Như vậy, này các Tỷ-kheo, là hạng Sa-môn sen hồng.
 
 5. Và này các Tỷ-kheo, như thế nào là hạng Sa-môn tinh luyện giữa các Sa-môn?
 
-Ở đây, này các Tỷ-kheo, Tỷ-kheo nhiều lần được yêu cầu nhận y, ít không được yêu cầu... Này các Tỷkheo, nếu nói một cách chơn chánh, nói về hạng Sa-môn tinh luyện giữa các Sa-môn, này các Tỷ-kheo,
+Ở đây, này các Tỷ-kheo, Tỷ-kheo nhiều lần được yêu cầu nhận y, ít không được yêu cầu... Này các Tỷ-kheo, nếu nói một cách chơn chánh, nói về hạng Sa-môn tinh luyện giữa các Sa-môn, này các Tỷ-kheo,
 nói một cách chơn chánh là nói về Ta, là hạng Sa-môn tinh luyện giữa các Sa-môn.
 
 Này các Tỷ-kheo, đây là bốn hạng người có mặt, hiện hữu ở đời.
@@ -12589,7 +12589,7 @@ người, không lợi mình.
 
 Ở đây, này các Tỷ-kheo, có hạng người không hướng đến nhiếp phục tham cho tự mình, không khích lệ
 người khác nhiếp phục tham, không nhiếp phục sân cho tự mình, không khích lệ người khác nhiếp phục
-sân... không nhiếp phục si cho tự mình, không khích lệ người khác nhiếp phục si. Như vậy, này các Tỷkheo, là hạng người không hướng đến lợi mình, không hướng đến lợi người.
+sân... không nhiếp phục si cho tự mình, không khích lệ người khác nhiếp phục si. Như vậy, này các Tỷ-kheo, là hạng người không hướng đến lợi mình, không hướng đến lợi người.
 
 5. Và này các Tỷ-kheo, thế nào là hạng người hướng đến lợi mình và lợi người?
 
@@ -12807,7 +12807,7 @@ người không có sấm, không có mưa; hạng người có sấm và có m�
 Ở đây, này các Tỷ-kheo, có hạng người thuộc lòng Pháp, Khế kinh, ứng tụng, Ký thuyết, Kệ tụng không
 hoỉ tự noí như thị thuyềt Bổn sanh, Vị tằng hữu pháp, Quảng thuyết. Vị ấy không như thật quán tri:
 “Ðây là Khổ”, ...”Ðây là Khổ tập”, ... “Ðây là Khổ diệt”, ... không như thật quán tri: “Ðây là con Ðường
-đưa đến Khổ diệt”. Như vậy, này các Tỷ-kheo, là hạng người có sấm không có mưa Ví như, này các Tỷkheo, loại mây có sấm, không có mưa ấy, Ta nói rằng, này các Tỷ-kheo, hạng người này giống như ví dụ
+đưa đến Khổ diệt”. Như vậy, này các Tỷ-kheo, là hạng người có sấm không có mưa Ví như, này các Tỷ-kheo, loại mây có sấm, không có mưa ấy, Ta nói rằng, này các Tỷ-kheo, hạng người này giống như ví dụ
 ấy.
 
 4. Và này các Tỷ-kheo, thế nào là hạng người có mưa, không có sấm?
@@ -12868,7 +12868,7 @@ diệt”. Như vậy, này các Tỷ-kheo, là hạng người đầy và mở.
 Ở đây, này các Tỷ-kheo, có hạng người không có thái độ dễ thương, khi đi tới đi lui, khi ngó phía trước,
 ngó hai bên, khi co tay duỗi tay, khi mang áo tăng-già-lê, bình bát và y, Vị ấy không như thật quán tri:
 “Ðây là Khổ”, ...”Ðây là Khổ tập”, ... “Ðây là Khổ diệt”... không như thật quán tri: “Ðây là con Ðường
-đưa đến Khổ diệt”. Như vậy, này các Tỷ-kheo, là hạng người trống và mở, Ta nói rằng, này các Tỷkheo, người này giống như ví dụ ấy.
+đưa đến Khổ diệt”. Như vậy, này các Tỷ-kheo, là hạng người trống và mở, Ta nói rằng, này các Tỷ-kheo, người này giống như ví dụ ấy.
 
 6. Và này các Tỷ-kheo, thế nào là hạng người đầy và bịt?
 
@@ -12903,7 +12903,7 @@ Cạn có vẻ sâu, sâu có vẻ cạn. Cạn có vẻ cạn, sâu có vẻ s�
 
 1. - Này các Tỷ-kheo, có bốn loại xoài này. Thế nào là bốn?
 
-Chưa chín có vẻ chín, chín có vẻ chưa chín, chưa chín có vẻ chưa chín, chín có vẻ chín, Này các Tỷkheo, có bốn loại xoài này.
+Chưa chín có vẻ chín, chín có vẻ chưa chín, chưa chín có vẻ chưa chín, chín có vẻ chín, Này các Tỷ-kheo, có bốn loại xoài này.
 
 2. Cũng vậy, này các Tỷ-kheo, có bốn hạng người được ví dụ với bốn loại xoài này. Thế nào là bốn?
 _(như kinh 103, từ số 3 đến số 6)._
@@ -12924,7 +12924,7 @@ bốn hạng người này.
 3. Và này các Tỷ-kheo, thế nào là hạng người có đào hang, nhưng không ở?
 Ở đây, này các Tỷ-kheo, có hạng người thuộc lòng Pháp như Khế kinh... Quảng thuyết. Vị ấy không như
 thật quán tri: “Ðây là Khổ”, ...”Ðây là Khổ tập”, ... “Ðây là Khổ diệt” ... “Ðây là con Ðường đưa đến
-Khổ diệt”. Như vậy, này các Tỷ-kheo, là hạng người đào hang, nhưng không ở. Ví như, này các Tỷkheo, loại chuột có đào hang, nhưng không ở ấy, Ta nói rằng, này các Tỷ-kheo, hạng người này giống
+Khổ diệt”. Như vậy, này các Tỷ-kheo, là hạng người đào hang, nhưng không ở. Ví như, này các Tỷ-kheo, loại chuột có đào hang, nhưng không ở ấy, Ta nói rằng, này các Tỷ-kheo, hạng người này giống
 như ví dụ ấy.
 
 4. Và này các Tỷ-kheo, thế nào là hạng người có ở, không đào hang? (xem như kinh 102).
@@ -13014,7 +13014,7 @@ như ví dụ ấy.
 6. Và này các Tỷ-kheo, thế nào là hạng người là lõi cây bao vây với lõi cây?
 
 Ở đây, này các Tỷ-kheo, có hạng người có giới, theo thiện pháp, hội chúng người ấy cũng có giới, theo
-thiện pháp. Như vậy, này các Tỷ-kheo, là hạng người có lõi cây bao vây với lõi cây. Ví như, này các Tỷkheo, là hạng người lõi cây bao vây với lõi, Ta nói rằng, này các Tỷ-kheo, hạng người này giống như ví
+thiện pháp. Như vậy, này các Tỷ-kheo, là hạng người có lõi cây bao vây với lõi cây. Ví như, này các Tỷ-kheo, là hạng người lõi cây bao vây với lõi, Ta nói rằng, này các Tỷ-kheo, hạng người này giống như ví
 dụ ấy.
 
 Này các Tỷ-kheo, có bốn hạng người giống như ví dụ các cây này, có mặt hiện hữu ở đời.
@@ -13227,7 +13227,7 @@ Tỷ-kheo, là con voi của vua biết nghe.
 3. Và này các Tỷ-kheo, thế nào là con voi của vua biết sát hại?
 
 Ở đây, này các Tỷ-kheo, con voi của vua sau khi đi đến chiến trận, giết voi, giết người cưỡi voi, giết
-ngựa, giết người cưỡi ngựa, giết hại xe, giết hại người cưỡi xe, giết các bộ binh. Như vậy, này các Tỷkheo, là con voi của vua biết sát hại.
+ngựa, giết người cưỡi ngựa, giết hại xe, giết hại người cưỡi xe, giết các bộ binh. Như vậy, này các Tỷ-kheo, là con voi của vua biết sát hại.
 
 4. Và này các Tỷ-kheo, thế nào là con voi của vua biết kham nhẫn?
 
@@ -13281,7 +13281,7 @@ trọng, xứng đáng được chắp tay, xứng đáng được cúng dườn
 - Này các Tỷ-kheo, có bốn trường hợp này. Thế nào là bốn?
 
 Có trường hợp, này các Tỷ-kheo, làm không thích ý, đưa đến không lợi ích cho người làm. Có trường
-hợp, này các Tỷ-kheo, làm không thích ý, đưa đến lợi ích cho người làm. Có trường hợp, này các Tỷkheo, làm được thích ý, không đưa đến lợi ích cho người làm. Có trường hợp, này các Tỷ-kheo, làm
+hợp, này các Tỷ-kheo, làm không thích ý, đưa đến lợi ích cho người làm. Có trường hợp, này các Tỷ-kheo, làm được thích ý, không đưa đến lợi ích cho người làm. Có trường hợp, này các Tỷ-kheo, làm
 được thích ý, đưa đến lợi ích cho người làm.
 
 2. Tại đây, này các Tỷ-kheo, trường hợp này làm không thích ý; không đem lại lợi ích cho người làm;
@@ -13421,7 +13421,7 @@ Này các Tỷ-kheo, có bốn loại sợ hãi này.
 **(II) (122) Sóng Biển**
 
 1. - Có bốn sự sợ hãi này, này các Tỷ-kheo, được chờ đợi với người đi xuống nước. Thế nào là bốn? Sợ
-hãi về sóng, sợ hãi về cá sấu, sợ hãi về nước xoáy, sợ hãi về cá dữ. Có bốn sự sợ hãi này, này các Tỷkheo, được chờ đợi với người đi xuống nước.
+hãi về sóng, sợ hãi về cá sấu, sợ hãi về nước xoáy, sợ hãi về cá dữ. Có bốn sự sợ hãi này, này các Tỷ-kheo, được chờ đợi với người đi xuống nước.
 
 2. Cũng vậy, này các Tỷ-kheo, ở đây, đối với một số thiện nam tử đã xuất gia, từ bỏ gia đình, sống
 không gia đình trong Pháp và Luật này, có bốn sự sợ hãi được chờ đợi. Thế nào là bốn? Sợ hãi về sóng,
@@ -13573,7 +13573,7 @@ có thối đọa; khi thân hoại mạng chung, được sanh cộng trú vớ
 kiếp, này các Tỷ kheo, là tuổi thọ vô lượng của chư Thiên ỏ cõi Phạm chúng Thiên. Tại đấy, kẻ phàm
 phu, sau khi an trú cho đến hết tuổi thọ ấy, sau khi sống trọn vẹn tuổi thọ của chư Thiên ấy, đi đến địa
 ngục, đi đến bàng sanh, đi đến ngạ quỷ. Còn đệ tử Như Lai, tại đấy, sau khi an trú cho đến hết vẹn tuổi
-thọ ấy, sau khi sống trọn vẹn tuổi thọ của chư Thiên ấy, nhập Niết-bàn trong hiện hữu ấy . Này các Tỷkheo, đây là sự đặc thù, đây là sự thù thắng, đây là sự sai khác giữa Thánh đệ tử có nghe pháp và kẻ
+thọ ấy, sau khi sống trọn vẹn tuổi thọ của chư Thiên ấy, nhập Niết-bàn trong hiện hữu ấy . Này các Tỷ-kheo, đây là sự đặc thù, đây là sự thù thắng, đây là sự sai khác giữa Thánh đệ tử có nghe pháp và kẻ
 phàm phu không nghe pháp, tức là vấn đề sanh thú.
 
 2. Lại nữa, này các Tỷ-kheo, ở đây có hạng người với tâm cùng khởi với bi ... với tâm cùng khởi với
@@ -13649,11 +13649,11 @@ chấp giữ được Như Lai thuyết giảng, họ khéo nghe, lắng tai, ch
 Như Lai, bậc A-la-hán, Chánh Ðẳng Giác xuất hiện, đây là sự vi diệu chưa từng có thứ nhất xuất hiện.
 
 2. Này các Tỷ-kheo, quần chúng ưa thích kiêu mạn, thích thú kiêu mạn, hoan hỷ kiêu mạn, khi pháp
-không kiêu mạn được Như Lai thuyết giảng, họ khéo nghe, lắng tai, chánh trí an trú tâm. Này các Tỷkheo, khi Như Lai, bậc A-la-hán, Chánh Ðẳng Giác xuất hiện, đây là sự vi diệu chưa từng có thứ hai
+không kiêu mạn được Như Lai thuyết giảng, họ khéo nghe, lắng tai, chánh trí an trú tâm. Này các Tỷ-kheo, khi Như Lai, bậc A-la-hán, Chánh Ðẳng Giác xuất hiện, đây là sự vi diệu chưa từng có thứ hai
 xuất hiện.
 
 3. Này các Tỷ-kheo, quần chúng ưa thích không an tịnh, thích thú không an tịnh, hoan hỷ không an tịnh,
-khi pháp an tịnh được Như Lai thuyết giảng, họ khéo nghe, lắng tai, chánh trí an trú tâm. Này các Tỷkheo, khi Như Lai, bậc A-la-hán, Chánh Ðẳng Giác xuất hiện, đây là sự vi diệu chưa từng có thứ ba xuất
+khi pháp an tịnh được Như Lai thuyết giảng, họ khéo nghe, lắng tai, chánh trí an trú tâm. Này các Tỷ-kheo, khi Như Lai, bậc A-la-hán, Chánh Ðẳng Giác xuất hiện, đây là sự vi diệu chưa từng có thứ ba xuất
 hiện.
 
 4. Này các Tỷ-kheo, quần chúng đi đến vô minh, trở thành mù quáng, bị trói buộc che đậy, khi Như Lai
@@ -14113,13 +14113,13 @@ luận rằng: “Ta không thối đọa khỏi các thiện pháp “. Ðây �
 nói:
 “- Hãy đến đây, thưa Ông. Hãy đi đến Tôn giả Ananda, và nhân danh tôi, với đầu đảnh lễ chân Tôn giả
 Ananda và nói: “Thưa Tôn giả, Tỷ-kheo-ni tên là ... bị bệnh, khổ đau, bị trọng bệnh. Tỷ-kheo-ni với đầu
-đảnh lễ Tôn giả Ananda và nói như sau: “Thưa Tôn giả, lành thay, nếu Tôn giả đi đến trú xứ của Tỷkheo-ni, đi đến Tỷ-kheo-ni ấy vì lòng từ mẫn”.
+đảnh lễ Tôn giả Ananda và nói như sau: “Thưa Tôn giả, lành thay, nếu Tôn giả đi đến trú xứ của Tỷ-kheo-ni, đi đến Tỷ-kheo-ni ấy vì lòng từ mẫn”.
 
 “- Thưa vâng, nữ Tôn giả”. Người ấy vâng đáp Tỷ-kheo-ni ấy, đi đến Tôn giả Ananda; sau khi đến, đảnh
 lễ Tôn giả Ananda, rồi ngồi xuống một bên. Ngồi xuống một bên, người ấy nói với Tôn giả Ananda:
 
 - Thưa Tôn giả, Tỷ-kheo-ni tên này bị bệnh, khổ đau, bị trọng bệnh, với đầu đảnh lễ chân Tôn giả
-Ananda, và nói như sau: “Thưa Tôn giả, lành thay, nếu Tôn giả đi đến trú xứ của Tỷ-kheo-ni, đi đến Tỷkheo-ni ấy vì lòng từ mẫn”.
+Ananda, và nói như sau: “Thưa Tôn giả, lành thay, nếu Tôn giả đi đến trú xứ của Tỷ-kheo-ni, đi đến Tỷ-kheo-ni ấy vì lòng từ mẫn”.
 
 Tôn giả Ananda im lặng nhận lời.
 
@@ -14193,7 +14193,7 @@ chư Thiên và loài Người.
 3. Có bốn pháp này, này các Tỷ-kheo, đưa đến diệu pháp hỗn loạn. Thế nào là bốn?
 
 Ở đây, này các Tỷ-kheo, các Tỷ-kheo học thuộc lòng kinh, được lãnh thọ sai lầm, với văn cú sắp đặt bị
-đảo lộn. Do văn cú bị sắp đặt đảo lộn, này các Tỷ-kheo, nên nghĩa lý bị hướng dẫn sai lạc. Này các Tỷkheo, đây là pháp thứ nhất đưa đến Diệu pháp hỗn loạn và biến mất.
+đảo lộn. Do văn cú bị sắp đặt đảo lộn, này các Tỷ-kheo, nên nghĩa lý bị hướng dẫn sai lạc. Này các Tỷ-kheo, đây là pháp thứ nhất đưa đến Diệu pháp hỗn loạn và biến mất.
 
 4. Lại nữa, này các Tỷ-kheo, các Tỷ-kheo là những người khó nói, thành tựu với những pháp khiến cho
 trở thành khó nói, khó kham nhẫn. Họ không kính trọng lời giáo giới. Này các Tỷ-kheo, đây là pháp thứ
@@ -14388,7 +14388,7 @@ _164.4). Này các Tỷ-kheo, đây gọi là đạo hành nhiếp phục._
 
 5. Và này các Tỷ-kheo, thế nào là đạo hành an tịnh?
 
-Ở đây, này các Tỷ-kheo, Tỷ-kheo không chấp nhận dục tầm khởi lên ... (như kinh 164.5) ... Này các Tỷkheo, đây gọi là đạo hành an tịnh.
+Ở đây, này các Tỷ-kheo, Tỷ-kheo không chấp nhận dục tầm khởi lên ... (như kinh 164.5) ... Này các Tỷ-kheo, đây gọi là đạo hành an tịnh.
 
 Này các Tỷ-kheo, có bốn đạo hành này.
 
@@ -14803,7 +14803,7 @@ này các Tỷ-kheo, một hồ nước đã được nhiều năm, có người
 tất cả các lỗ nước chảy ra, và trời lại không mưa đều đặn. Hồ nước như vậy, này các Tỷ-kheo, không có
 chờ đợi tức nước vỡ bờ. Cũng vậy, này các Tỷ-kheo, Tỷ-kheo đạt được và an trú một loại an tịnh tâm
 giải thoát. Vị ấy tác ý phá hoại vô minh, ; do vị ấy tác ý phá hoại vô minh, tâm không có phấn chấn,
-không có tịnh tín, không có an trú, không có giải thoát đối với phá hoại vô minh. Này các Tỷ-kheo, Tỷkheo như vậy không có chờ đợi được vô minh phá hoại .
+không có tịnh tín, không có an trú, không có giải thoát đối với phá hoại vô minh. Này các Tỷ-kheo, Tỷ-kheo như vậy không có chờ đợi được vô minh phá hoại .
 
 4. Ở đây, này các Tỷ-kheo, Tỷ-kheo đạt được và an trú một loại an tịnh tâm giải thoát. Vị ấy tác ý phá
 hoại vô minh. Do vị ấy tác ý phá hoại vô minh, tâm có phấn chấn, có tịnh tín, có an trú, có giải thoát đối
@@ -15370,9 +15370,9 @@ Này các Tỷ-kheo, có pháp cần phải chứng ngộ bằng thân; có phá
 bằng niệm; có pháp, này các Tỷ-kheo, cần phải chứng ngộ bằng mắt; có pháp, này các Tỷ-kheo, cần
 phải chứng ngộ bằng trí tuệ.
 
-2. Và này các Tỷ-kheo, thế nào là các pháp cần phải chứng ngộ bằng thân? Tám giải thoát, này các Tỷkheo, cần phải chứng ngộ bằng thân.
+2. Và này các Tỷ-kheo, thế nào là các pháp cần phải chứng ngộ bằng thân? Tám giải thoát, này các Tỷ-kheo, cần phải chứng ngộ bằng thân.
 
-3. Và này các Tỷ-kheo, thế nào là các pháp cần phải chứng ngộ bằng niệm? Ðời sống trước, này các Tỷkheo, cần phải chứng ngộ bằng niệm.
+3. Và này các Tỷ-kheo, thế nào là các pháp cần phải chứng ngộ bằng niệm? Ðời sống trước, này các Tỷ-kheo, cần phải chứng ngộ bằng niệm.
 
 4. Và này các Tỷ-kheo, thế nào là các pháp cần phải chứng ngộ bằng con mắt? Sanh tử của chúng sanh,
 này các Tỷ-kheo, cần phải chứng ngộ bằng con mắt.
@@ -15392,7 +15392,7 @@ im lặng, im lặng, rồi Thế Tôn bảo các Tỷ-kheo:
 hội chúng này, thanh tịnh, an lập trên căn bản. Chúng Tỷ-kheo này như vậy, này các Tỷ-kheo, hội chúng
 này như vậy, này các Tỷ-kheo; hội chúng như vậy khó tìm được ở đời! Chúng Tỷ-kheo này như vậy,
 này các Tỷ-kheo, hội chúng như vậy, đáng được tôn trọng, đáng được cung kính, đáng được cúng
-dường, đáng được chắp tay, là ruộng phước vô thượng ở đời. Chúng Tỷ-kheo này như vậy, này các Tỷkheo, hội chúng này như vậy, này các Tỷ-kheo, hội chúng này như vậy dầu cho ít, được lợi nhiều, còn
+dường, đáng được chắp tay, là ruộng phước vô thượng ở đời. Chúng Tỷ-kheo này như vậy, này các Tỷ-kheo, hội chúng này như vậy, này các Tỷ-kheo, hội chúng này như vậy dầu cho ít, được lợi nhiều, còn
 cho nhiều, lại được lợi nhiều hơn nữa. Chúng Tỷ-kheo này như vậy, này các Tỷ-kheo, hội chúng này
 như vậy, này các Tỷ-kheo! Hội chúng này như vậy, nếu phải đi một do tuần để được yết kiến cũng nên
 đi, dầu có phải mang theo trên vai túi đựng đồ ăn. Như vậy, này các Tỷ-kheo, là chúng Tỷ-kheo này.
@@ -15413,7 +15413,7 @@ chứng và trú Thiền thứ tư và an trú. Như vậy, này các Tỷ-kheo,
 cùng khởi với bi ... với tâm cùng khởi với hỷ ... với tâm cùng khởi với xả, biến mãn một phương và an
 trú. Cũng vậy phương thứ hai, cũng vậy phương thứ ba, cũng vậy phương thứ tư. Như vậy, cùng khắp
 thế giới, trên, dưới, bề ngang, hết thảy phương xứ, cùng khắp vô biên thế giới, vị ấy biến mãn với tâm
-cùng khởi với xả, quảng đại, đại hành, vô biên, không hận, không sân. Như vậy, này các Tỷ-kheo, là Tỷkheo sống đạt được địa vị Phạm Thiên.
+cùng khởi với xả, quảng đại, đại hành, vô biên, không hận, không sân. Như vậy, này các Tỷ-kheo, là Tỷ-kheo sống đạt được địa vị Phạm Thiên.
 
 5. Và này các Tỷ-kheo, thế nào là Tỷ-kheo sống đạt được địa vị Bất động?
 
@@ -16213,7 +16213,7 @@ như hối lộ, gian trá, lừa đảo, gạt lường; từ bỏ không làm 
 giật, cưỡng đoạt.
 
 10. Vị ấy sống biết đủ, bằng lòng với tâm y để che thân, với đồ ăn khất thực để nuôi bụng, đi tại chỗ nào
-cũng mang theo (y và bình bát), như con chim bay đến chỗ nào cũng mang theo hai cánh. Cũng vậy, Tỷkheo bằng lòng với tâm y để che thân, với đồ ăn khất thực để nuôi bụng, đi tại chỗ nào cũng mang theo.
+cũng mang theo (y và bình bát), như con chim bay đến chỗ nào cũng mang theo hai cánh. Cũng vậy, Tỷ-kheo bằng lòng với tâm y để che thân, với đồ ăn khất thực để nuôi bụng, đi tại chỗ nào cũng mang theo.
 Vị ấy thành tựu. Thánh giới uẩn này, nội tâm hưởng lạc không có lỗi lầm.
 
 11. Khi mắt thấy sắc, vị ấy không nắm giữ tướng chung, không nắm giữ tướng riêng. Do nguyên nhân gì
@@ -16336,7 +16336,7 @@ từ luyến ái.
 Ở đây, này các Tỷ-kheo, có người không khả lạc, khả hỷ, khả ý đối với một người. Rồi các người khác
 đối với người ấy không khả lạc, không khả hỷ, không khả ý. Người kia suy nghĩ như sau: “Người này
 không khả lạc, khả hỷ, khả ý đối với ta. Và các người khác đối xử với người ấy không khả lạc, không
-khả hỷ, không khả ý”. Do đó người ấy khởi lên luyến ái đối với các người ấy. Như vậy, này các Tỷkheo, là luyến ái được sanh khởi từ sân.
+khả hỷ, không khả ý”. Do đó người ấy khởi lên luyến ái đối với các người ấy. Như vậy, này các Tỷ-kheo, là luyến ái được sanh khởi từ sân.
 
 5. Và này các Tỷ-kheo, như thế nào là lòng sân được sanh khởi từ lòng sân?
 
@@ -16697,14 +16697,14 @@ _(Như kinh 208)_
 
 1. - Này các Tỷ-kheo, có bốn ô uế hội chúng này. Thế nào là bốn?
 
-Ở đây, này các Tỷ-kheo, có Tỷ-kheo ác giới, theo ác pháp, làm ô uế hội chúng; này các Tỷ-kheo, có Tỷkheo-ni ác giới, theo ác pháp, làm ô uế hội chúng; này các Tỷ-kheo, có nam cư sĩ ác giới, theo ác pháp,
+Ở đây, này các Tỷ-kheo, có Tỷ-kheo ác giới, theo ác pháp, làm ô uế hội chúng; này các Tỷ-kheo, có Tỷ-kheo-ni ác giới, theo ác pháp, làm ô uế hội chúng; này các Tỷ-kheo, có nam cư sĩ ác giới, theo ác pháp,
 làm ô uế hội chúng; này các Tỷ-kheo, có nữ cư sĩ ác giới, theo ác pháp, làm ô uế hội chúng!
 
 Này các Tỷ-kheo, có bốn ô uế hội chúng này.
 
 2. Này các Tỷ-kheo, có bốn thanh tịnh hội chúng này. Thế nào là bốn?
 
-Ở đây, này các Tỷ-kheo, có Tỷ-kheo có giới, theo thiện pháp, làm thanh tịnh hội chúng; này các Tỷkheo, có Tỷ-kheo-ni có giới, theo thiện pháp, làm thanh tịnh hội chúng; này các Tỷ-kheo, có nam cư sĩ
+Ở đây, này các Tỷ-kheo, có Tỷ-kheo có giới, theo thiện pháp, làm thanh tịnh hội chúng; này các Tỷ-kheo, có Tỷ-kheo-ni có giới, theo thiện pháp, làm thanh tịnh hội chúng; này các Tỷ-kheo, có nam cư sĩ
 có giới, theo thiện pháp, làm thanh tịnh hội chúng; này các Tỷ-kheo, có nữ cư sĩ có giới, theo thiện pháp,
 làm thanh tịnh hội chúng.
 
@@ -17358,7 +17358,7 @@ Này các Tỷ-kheo, có bốn ngôn thuyết bậc Thánh này.
 - Này các Tỷ-kheo, có bốn pháp này. Thế nào là bốn?
 
 Này các Tỷ-kheo, có những pháp cần phải liễu tri với thắng trí; này các Tỷ-kheo, có những pháp cần
-phải đoạn tận với thắng trí; này các Tỷ-kheo, có những pháp cần phải tu tập với thằng trí; này các Tỷkheo, có những pháp cần phải chứng ngộ với thắng trí.
+phải đoạn tận với thắng trí; này các Tỷ-kheo, có những pháp cần phải tu tập với thằng trí; này các Tỷ-kheo, có những pháp cần phải chứng ngộ với thắng trí.
 
 Và này các Tỷ-kheo, thế nào là những pháp cần phải liễu tri với thắng trí?
 
@@ -17670,7 +17670,7 @@ quá mạn... say mê... phóng dật, bốn pháp này cần phải tu tập.
 
 1. Như vậy tôi nghe:
 
-Một thời, Thế Tôn trú ở Sàvatthi tại Jetavana, vườn ông Anàthapindika. Tại đấy, Thế Tôn gọi các Tỷkheo:
+Một thời, Thế Tôn trú ở Sàvatthi tại Jetavana, vườn ông Anàthapindika. Tại đấy, Thế Tôn gọi các Tỷ-kheo:
 
 - Này các Tỷ-kheo.
 
@@ -17713,7 +17713,7 @@ lực.
 Và này các Tỷ-kheo, thế nào là tinh tấn lực?
 
 5. Ở đây, này các Tỷ-kheo, vị Thánh đệ tử sống tinh cần tinh tấn, từ bỏ các pháp bất thiện, thành tựu các
-thiện pháp, nỗ lực, kiên trì tinh tấn, không từ bỏ gánh nặng đối với thiện pháp. Như vậy, này các Tỷkheo, được gọi là tinh tấn lực.
+thiện pháp, nỗ lực, kiên trì tinh tấn, không từ bỏ gánh nặng đối với thiện pháp. Như vậy, này các Tỷ-kheo, được gọi là tinh tấn lực.
 
 Và này các Tỷ-kheo, thế nào là tuệ lực?
 
@@ -17763,7 +17763,7 @@ hợp pháp để tự trách và chỉ trích đến với vị ấy ngay trong
 
 2. “Trong Thầy (vị ấy nghĩ) không có lòng tín đối với các thiện pháp; trong Thầy không có lòng hổ thẹn
 đối với các thiện pháp; trong Thầy không có lòng sợ hãi đối với các thiện pháp; trong Thầy không có
-tinh tấn đối với các thiện pháp; trong Thầy không có trí tuệ đối với các thiện pháp. “Tỷ-kheo hay Tỷkheo-ni nào, này các Tỷ-kheo, từ bỏ học pháp, trở lui đời sống thế tục, năm vấn đề hợp pháp này để tự
+tinh tấn đối với các thiện pháp; trong Thầy không có trí tuệ đối với các thiện pháp. “Tỷ-kheo hay Tỷ-kheo-ni nào, này các Tỷ-kheo, từ bỏ học pháp, trở lui đời sống thế tục, năm vấn đề hợp pháp này để tự
 trách và chỉ trích đến với vị ấy ngay trong hiện tại.
 
 3. Tỷ-kheo hay Tỷ-kheo-ni nào, này các Tỷ-kheo, dầu với đau khổ, với ưu tư, với mặt đầy nước mắt,
@@ -17792,7 +17792,7 @@ bước vào bất thiện.
 các Tỷ-kheo, đã bỏ một bên lưỡi liềm và đòn gánh, xuất gia, từ bỏ gia đình, sống không gia đình, vị ấy
 vừa đủ để được gọi: “Vị thiện nam tử vì lòng tin xuất gia”. Vì cớ sao?
 
-2. Các dục, này các Tỷ-kheo, được tìm thấy với tuổi trẻ, các dục này hay các dục khác. Và này các Tỷkheo, các dục hạ liệt, các dục trung đẳng, và các dục tối thắng, tất cả dục đều được chấp nhận là các dục.
+2. Các dục, này các Tỷ-kheo, được tìm thấy với tuổi trẻ, các dục này hay các dục khác. Và này các Tỷ-kheo, các dục hạ liệt, các dục trung đẳng, và các dục tối thắng, tất cả dục đều được chấp nhận là các dục.
 
 3. Ví như, này các Tỷ-kheo, có đứa con nít, trẻ nhỏ, ngây thơ đang nằm ngửa, do người vú vô ý, đức nhỏ
 cầm một cây que hay hòn sạn cho vào miệng. Người vú hầu ấy phải mau chóng tác ý. Sau khi mau
@@ -17819,7 +17819,7 @@ bảo vệ mình, không còn phóng dật nữa”.
 nào là năm?
 
 2. Không có lòng tin, này các Tỷ-kheo, Tỷ-kheo từ bỏ, không an trú trong diệu pháp. Không có lòng hổ
-thẹn, này các Tỷ-kheo, Tỷ-kheo từ bỏ không an trú trong diệu pháp. Không có lòng sợ hãi, này các Tỷkheo, vị Tỷ-kheo từ bỏ, không an trú trong diệu pháp. Biếng nhác, này các Tỷ-kheo, Tỷ-kheo từ bỏ,
+thẹn, này các Tỷ-kheo, Tỷ-kheo từ bỏ không an trú trong diệu pháp. Không có lòng sợ hãi, này các Tỷ-kheo, vị Tỷ-kheo từ bỏ, không an trú trong diệu pháp. Biếng nhác, này các Tỷ-kheo, Tỷ-kheo từ bỏ,
 không an trú trong diệu pháp. Không có trí tuệ, này các Tỷ-kheo, Tỷ-kheo từ bỏ, không an trú trong diệu
 pháp. Thành tựu năm pháp này, này các Tỷ-kheo, Tỷ-kheo từ bỏ, không an trú trong diệu pháp.
 
@@ -17855,7 +17855,7 @@ thể lớn lên, tăng trưởng, lớn mạnh trong Pháp và Luật này. Th�
 2. Không có lòng tin, này các Tỷ-kheo, Tỷ-kheo không cung kính, không tôn trọng, không có thể lớn
 lên, tăng trưởng, lớn mạnh trong Pháp và Luật này. Không có lòng hổ thẹn... không có lòng sợ hãi...
 biếng nhác... có ác trí tuệ, này các Tỷ-kheo, Tỷ-kheo không cung kính, không tôn trọng, không có thể
-lớn lên, tăng trưởng, lớn mạnh trong Pháp và Luật này. Thành tựu năm pháp này, này các Tỷ-kheo, Tỷkheo không cung kính, không tôn trọng, không có thể lớn lên, tăng trưởng, lớn mạnh trong Pháp và Luật
+lớn lên, tăng trưởng, lớn mạnh trong Pháp và Luật này. Thành tựu năm pháp này, này các Tỷ-kheo, Tỷ-kheo không cung kính, không tôn trọng, không có thể lớn lên, tăng trưởng, lớn mạnh trong Pháp và Luật
 này.
 
 3. Thành tựu năm pháp này, này các Tỷ-kheo, Tỷ-kheo cung kính, tôn trọng, có thể lớn lên, tăng trưởng,
@@ -17876,7 +17876,7 @@ chưa từng được nghe. Này các Tỷ-kheo, có năm sức mạnh này củ
 vị trí Ngưu vương, rống tiếng rống con sư tử giữa các hội chúng, làm vận chuyển bánh xe Phạm thiên.
 Thế nào là năm?
 
-2. Tín lực, tàm lực, quý lực, tinh tấn lực, tuệ lực. Có năm Như Lai lực này của Như Lai, này các Tỷkheo. Thành tựu các sức mạnh ấy, Như Lai tự xem đã được vị trí Ngưu vương, rống tiếng rống con sư tử
+2. Tín lực, tàm lực, quý lực, tinh tấn lực, tuệ lực. Có năm Như Lai lực này của Như Lai, này các Tỷ-kheo. Thành tựu các sức mạnh ấy, Như Lai tự xem đã được vị trí Ngưu vương, rống tiếng rống con sư tử
 giữa các hội chúng, làm vận chuyển bánh xe Phạm thiên.
 
 **(II) (12) Nóc Nhọn**
@@ -17915,7 +17915,7 @@ Ngự Trượng Phu, Thiên Nhân Sư, Phật, Thế Tôn”. Như vậy, này c
 Và này các Tỷ-kheo, thế nào là tấn lực?
 
 4. Ở đây, này các Tỷ-kheo, vị Thánh đệ tử sống tinh cần tinh tấn, từ bỏ các pháp bất thiện, thành tựu các
-thiện pháp, nỗ lực kiên trì tinh tấn, không từ bỏ gánh nặng đối với thiện pháp. Như vậy, này các Tỷkheo, được gọi là tấn lực.
+thiện pháp, nỗ lực kiên trì tinh tấn, không từ bỏ gánh nặng đối với thiện pháp. Như vậy, này các Tỷ-kheo, được gọi là tấn lực.
 
 Và này các Tỷ-kheo, thế nào là niệm lực?
 
@@ -18696,7 +18696,7 @@ _Lậu hoặc được tịch tịnh._
 
 - Này các Tỷ-kheo, có năm bố thí đúng thời này. Thế nào là năm?
 Bố thí cho người đến, bố thí cho người đi, bố thí cho người đau bệnh, bố thí trong thời đói, phàm có
-những hoa quả gì mới gặt hái được, dành chúng đầu tiên để cúng dường các bậc giữ giới. Này các Tỷkheo, năm pháp này là năm bố thí đúng thời.
+những hoa quả gì mới gặt hái được, dành chúng đầu tiên để cúng dường các bậc giữ giới. Này các Tỷ-kheo, năm pháp này là năm bố thí đúng thời.
 
 _Có trí, thí đúng thời,_
 _Lời từ ái, không tham,_
@@ -19153,7 +19153,7 @@ là tín tài. Và này các Tỷ-kheo, thế nào là giới tài?
 3. Ở đây, này các Tỷ-kheo, vị Thánh đệ tử từ bỏ sát sanh... từ bỏ đắm say rượu men, rượu nấu. Này các
 Tỷ-kheo, đây gọi là giới tài. Và này các Tỷ-kheo, thế nào là văn tài?
 
-4. Ở đây, này các Tỷ-kheo, vị Thánh đệ tử nghe được nhiều... khéo thể nhập với tri kiến. Này các Tỷkheo, đây gọi là văn tai. Và này các Tỷ-kheo, thế nào là thí tài?
+4. Ở đây, này các Tỷ-kheo, vị Thánh đệ tử nghe được nhiều... khéo thể nhập với tri kiến. Này các Tỷ-kheo, đây gọi là văn tai. Và này các Tỷ-kheo, thế nào là thí tài?
 
 5. Ở đây, này các Tỷ-kheo, vị Thánh đệ tử sống ở gia đình, tâm không bị cấu uế xan tham chi phối, bố
 thí rộng rãi, với bàn tay rộng mở, ưa thích từ bỏ, sẵn sàng để được yêu cầu, ưa thích phân phát vật bố
@@ -19534,7 +19534,7 @@ Các pháp này, này các Tỷ-kheo, là năm chi phần tinh cần.
 2. Ở đây, này các Tỷ-kheo, Tỷ-kheo già yếu, bị già chinh phục. Này các Tỷ-kheo, đây là phi
 thời thứ nhất để tinh cần.
 
-3. Lại nữa, này các Tỷ-kheo, Tỷ-kheo bệnh hoạn, bị bệnh hoạn chinh phục. Này các Tỷkheo, đây là phi thời thứ hai để tinh cần.
+3. Lại nữa, này các Tỷ-kheo, Tỷ-kheo bệnh hoạn, bị bệnh hoạn chinh phục. Này các Tỷ-kheo, đây là phi thời thứ hai để tinh cần.
 
 4. Lại nữa, này các Tỷ-kheo, khi có nạn đói, mất mùa, đồ ăn khất thực khó được, không dễ
 gì để nuôi sống bằng khất thực nỗ lực. Này các Tỷ-kheo, đây là thời gian phi thời thứ ba để
@@ -19542,7 +19542,7 @@ tinh cần.
 5. Lại nữa, này các Tỷ-kheo, có sự sợ hãi về giặc cướp rừng, dân chúng trong nước leo lên
 xe đi trốn. Này các Tỷ-kheo, đây là phi thời thứ tư để tinh cần.
 
-6. Lại nữa, này các Tỷ-kheo, chúng Tăng bị chia rẽ. Khi chúng Tăng bị chia rẽ, này các Tỷkheo, có sự mắng nhiếc lẫn nhau, có sự đấu khẩu lẫn nhau, có sự kết tội lẫn nhau, có sự tẩn
+6. Lại nữa, này các Tỷ-kheo, chúng Tăng bị chia rẽ. Khi chúng Tăng bị chia rẽ, này các Tỷ-kheo, có sự mắng nhiếc lẫn nhau, có sự đấu khẩu lẫn nhau, có sự kết tội lẫn nhau, có sự tẩn
 xuất lẫn nhau. Ai không có tịnh tín, không tìm được tịnh tín, và những ai có tịnh tín có thể
 đổi khác. Này các Tỷ-kheo, đây là phi thời thứ năm để tinh cần.
 
@@ -19587,7 +19587,7 @@ sự học tập, làm lộ liễu sự yếu đuối, họ rơi vào thông dâ
 2. Rồi một số đông Tỷ-kheo đi đến Thế Tôn, sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống
 một bên. Ngồi xuống một bên, các Tỷ-kheo ấy bạch Thế Tôn:
 
-- Ở đây, bạch Thế Tôn, tại Sàvatthi, cả hai mẹ con cùng an cư vào mùa mưa, nhân danh Tỷkheo và Tỷ-kheo-ni, họ thường xuyên muốn thấy mặt nhau, mẹ thường xuyên muốn thấy
+- Ở đây, bạch Thế Tôn, tại Sàvatthi, cả hai mẹ con cùng an cư vào mùa mưa, nhân danh Tỷ-kheo và Tỷ-kheo-ni, họ thường xuyên muốn thấy mặt nhau, mẹ thường xuyên muốn thấy
 mặt con và con cũng thường xuyên muốn thấy mặt mẹ. Vì họ thường xuyên thấy nhau, nên
 có sự liên hệ. Do có sự liên hệ, nên có sự thân mật. Do có thân mật, nên có sự sa ngã. Với
 tâm sa ngã, buông bỏ sự học tập, làm lộ liễu sự yếu đuối, họ rơi vào thông dâm với nhau.
@@ -20088,7 +20088,7 @@ khóa, là bậc Thánh đã hạ cây cờ xuống, đã đặt gánh nặng xu
 
 Và thế nào là Tỷ-kheo đã cất đi các chướng ngại?
 4. Ở đây, này các Tỷ-kheo, Tỷ-kheo đã đoạn trừ vô minh, đã cắt đứt tận gốc rễ, làm cho như thân cây
-tàla, làm cho không thể hiện hữu, không thể sinh khởi trong tương lai. Này các Tỷ-kheo, như vậy là Tỷkheo đã cất đi các vật chướng ngại.
+tàla, làm cho không thể hiện hữu, không thể sinh khởi trong tương lai. Này các Tỷ-kheo, như vậy là Tỷ-kheo đã cất đi các vật chướng ngại.
 
 Và này các Tỷ-kheo, thế nào là Tỷ-kheo đã lấp các thông hào?
 
@@ -20150,7 +20150,7 @@ Tỷ-kheo đã nhổ lên cột trụ.
 Và này các Tỷ-kheo, thế nào là Tỷ-kheo đã mở tung các ổ khóa?
 
 7. Ở đây, này các Tỷ-kheo, Tỷ-kheo đã đoạn trừ năm hạ phần kiết sử, đã cắt đứt tận gốc rễ, đã làm cho
-như thân cây tàla, đã làm cho không thể hiện hữu, không thể sanh khởi trong tương lai. Này các Tỷkheo, như vậy là Tỷ-kheo đã mở tung các ổ khóa.
+như thân cây tàla, đã làm cho không thể hiện hữu, không thể sanh khởi trong tương lai. Này các Tỷ-kheo, như vậy là Tỷ-kheo đã mở tung các ổ khóa.
 
 Và này các Tỷ-kheo, thế nào gọi Tỷ-kheo là bậc Thánh đã hạ cây cờ xuống, đã đặt gánh nặng xuống,
 không có gì hệ lụy?
@@ -20216,7 +20216,7 @@ nghe, như đã học thuộc lòng, nhưng không rõ biết mục đích tối
 gọi là Tỷ-kheo, thuyết trình nhiều, nhưng không sống theo pháp.
 
 4. Lại nữa, này các Tỷ-kheo, Tỷ-kheo đọc tụng pháp một cách rộng rãi như đã được nghe, như đã được
-học thuộc lòng, nhưng không rõ biết mục đích tối thượng với trí tuệ. Này các Tỷ-kheo, đây gọi là Tỷkheo đọc tụng nhiều, nhưng không sống theo pháp.
+học thuộc lòng, nhưng không rõ biết mục đích tối thượng với trí tuệ. Này các Tỷ-kheo, đây gọi là Tỷ-kheo đọc tụng nhiều, nhưng không sống theo pháp.
 
 5. Lại nữa, này các Tỷ-kheo, vị Tỷ-kheo với tâm tùy tầm, tùy tứ, với ý tùy quán pháp như được nghe,
 như đã được học thuộc lòng, nhưng không rõ biết mục đích tối thượng với trí tuệ. Này các Tỷ-kheo, đây
@@ -20286,9 +20286,9 @@ hay thiếu nữ đạp đẽ, khả ái, làm đẹp lòng người với sắc
 mình thấy một phụ nữ hay một thiếu nữ đẹp đẽ, khả ái, làm đẹp lòng người với sắc mặt đẹp thù thắng
 như hoa sen. Vị ấy, sau khi thấy người phụ nữ hay người thiếu nữ ấy, liền chùn chân, rủn chí, không còn
 can đảm, không thể có thể tiếp tục đời sống Phạm hạnh, sau khi biểu lộ sự yếu kém trong học tập, liền
-bỏ học pháp, trở lui lại đời sống thế tục. Ðây là nghĩa cờ xí dựng lên đối với vị ấy. Ví như, này các Tỷkheo, hạng người chiến sĩ ấy chịu đựng được bụi mù dấy lên, nhưng khi thấy cờ xí dựng lên, liền chùn
+bỏ học pháp, trở lui lại đời sống thế tục. Ðây là nghĩa cờ xí dựng lên đối với vị ấy. Ví như, này các Tỷ-kheo, hạng người chiến sĩ ấy chịu đựng được bụi mù dấy lên, nhưng khi thấy cờ xí dựng lên, liền chùn
 chân, rủn chí, không còn can đảm, không có thể ra trận xáp chiến. Này các Tỷ-kheo, Ta tuyên bố người
-này giống như ví dụ ấy. Như vậy ở đây, này các Tỷ-kheo, là một hạng người. Ðây là người, này các Tỷkheo, được ví dụ với hạng người chiến sĩ thứ hai có mặt, hiện hữu giữa các vị Tỷ-kheo
+này giống như ví dụ ấy. Như vậy ở đây, này các Tỷ-kheo, là một hạng người. Ðây là người, này các Tỷ-kheo, được ví dụ với hạng người chiến sĩ thứ hai có mặt, hiện hữu giữa các vị Tỷ-kheo
 
 10. Lại nữa, này các Tỷ-kheo, Tỷ-kheo chịu đựng được bụi mù dấy lên, chịu đựng được cờ xí dựng lên,
 nhưng khi nghe tiếng la hét, liền chùn chân, rủn chí, không còn can đảm, không có thể tiếp tục đời sống
@@ -20352,7 +20352,7 @@ chiến thắng trong chiến trận, vị ấy vẫn đứng hàng đầu trong
 bố người này giống như ví dụ ấy. Như vậy, này các Tỷ-kheo, là một hạng người. Này các Tỷ-kheo, đấy
 là hạng người được ví dụ với người chiến sĩ thứ năm có mặt, hiện hữu ở đời.
 
-Những người này, này các Tỷ-kheo, được ví dụ với năm chiến sĩ có mặt, hiện hữu ở giữa các vị Tỷkheo.
+Những người này, này các Tỷ-kheo, được ví dụ với năm chiến sĩ có mặt, hiện hữu ở giữa các vị Tỷ-kheo.
 
 **(VI) (76) Người Chiến Sĩ (2)**
 
@@ -20509,7 +20509,7 @@ như thật rõ biết: “Ðây là khổ tập”, như thật rõ biết: “
 Ví như, này các Tỷ-kheo, người chiến sĩ ấy cầm kiếm và mâu, đeo cung và tên, tham gia vào trận chiến
 ác liệt. Người ấy, sau khi chiến thắng trận ấy, chiến thắng trong chiến trận, vị ấy vẫn đứng đầu trong
 chiến trận ấy. Này các Tỷ-kheo, Ta tuyên bố người này giống như ví dụ ấy. Ở đây, này các Tỷ-kheo, có
-một hàng người như vậy. Ðây là hạng người được ví dụ với chiến sĩ thứ năm, hiện hữu giữa các Tỷkheo.
+một hàng người như vậy. Ðây là hạng người được ví dụ với chiến sĩ thứ năm, hiện hữu giữa các Tỷ-kheo.
 
 Này các Tỷ-kheo, có năm hạng người được ví dụ với năm người chiến sĩ này, có mặt, hiện hữu giữa các
 vị Tỷ-kheo.
@@ -20827,13 +20827,13 @@ pháp này, này các Tỷ-kheo, một Tỷ-kheo Trưởng lão đối với cá
 không được ái mộ, không được ưa thích, không được tôn trọng, không được làm gương để tu tập. Thế
 nào là năm?
 
-2. Không tín, không hổ thẹn, không biết sợ, biếng nhác và ác tuệ. Thành tựu năm pháp này, này các Tỷkheo, một Tỷ-kheo Trưởng lão đối với các vị đồng Phạm hạnh không được ái mộ, không được ưa thích,
+2. Không tín, không hổ thẹn, không biết sợ, biếng nhác và ác tuệ. Thành tựu năm pháp này, này các Tỷ-kheo, một Tỷ-kheo Trưởng lão đối với các vị đồng Phạm hạnh không được ái mộ, không được ưa thích,
 không được tôn trọng, không được làm gương để tu tập.
 
 3. Thành tựu năm pháp này, này các Tỷ-kheo, Tỷ-kheo Trưởng lão đối với các vị đồng Phạm hạnh được
 ái mộĩ, được ưa thích, được tôn trọng, được làm gương để tu tập. Thế nào là năm?
 
-4. Có lòng tin, có hổ thẹn, có biết sợ, tinh cần, tinh tấn và có tuệ. Thành tựu năm pháp này, này các Tỷkheo, một Tỷ-kheo Trưởng lão đối với các vị đồng Phạm hạnh được ái mộ, được ưa thích, được tôn
+4. Có lòng tin, có hổ thẹn, có biết sợ, tinh cần, tinh tấn và có tuệ. Thành tựu năm pháp này, này các Tỷ-kheo, một Tỷ-kheo Trưởng lão đối với các vị đồng Phạm hạnh được ái mộ, được ưa thích, được tôn
 trọng, được làm gương để tu tập.
 
 **(V) (85) Không Kham Nhẫn**
@@ -20969,7 +20969,7 @@ gia, không hệ lụy với các việc tại gia không thích đáng, không 
 nội tâm tịnh chỉ. Ðây là pháp thứ ba không khiến vị Tỷ-kheo hữu học thối chuyển.
 
 11. Lại nữa, này các Tỷ-kheo, vị Tỷ-kheo hữu học không đi vào làng quá sớm, không từ giã quá muộn,
-không từ bỏ độc cư Thiền tịnh, chuyên chú vào nội tâm tịnh chỉ. Ðây là pháp thứ tư không khiến vị Tỷkheo hữu học thối chuyển.
+không từ bỏ độc cư Thiền tịnh, chuyên chú vào nội tâm tịnh chỉ. Ðây là pháp thứ tư không khiến vị Tỷ-kheo hữu học thối chuyển.
 
 12. Lại nữa, này các Tỷ-kheo, vị Tỷ-kheo hữu học đối với các câu chuyện nghiêm trang, khai tâm, như
 câu chuyện về ít dục, câu chuyện về tri túc, câu chuyện về viễn ly, câu chuyện về không hội họp, câu
@@ -21257,7 +21257,7 @@ và hành động một mình. Và này các Tỷ-kheo, thế nào là ác Tỷ-
 nạn, thành tựu ý nghiệp hiểm nạn. Như vậy, này các Tỷ-kheo, thế nào là ác Tỷ-kheo dựa vào hiểm nạn.
 Và này các Tỷ-kheo, thế nào là Tỷ-kheo dựa vào rừng rậm?
 
-11. Ở đây, này các Tỷ-kheo, ác Tỷ-kheo có tà kiến và thành tựu tri kiến cực đoan. Như vậy, này các Tỷkheo, là ác Tỷ-kheo dựa vào rừng rậm. Và này các Tỷ-kheo, thế nào là ác Tỷ-kheo dựa vào uy lực?
+11. Ở đây, này các Tỷ-kheo, ác Tỷ-kheo có tà kiến và thành tựu tri kiến cực đoan. Như vậy, này các Tỷ-kheo, là ác Tỷ-kheo dựa vào rừng rậm. Và này các Tỷ-kheo, thế nào là ác Tỷ-kheo dựa vào uy lực?
 
 12. Ở đây, này các Tỷ-kheo, ác Tỷ-kheo dựa vào vua và các vị đại thần của vua. Vị ấy suy nghĩ: “Nếu
 có ai nói gì về ta, các vua ấy và các đại thần ấy nói lời với mục đích che chở cho ta”. Nếu có ai nói gì về
@@ -21772,7 +21772,7 @@ mạng chung sanh vào cõi dữ, ác thú, địa ngục. Này các Tỷ-kheo, 
 
 3. Này các Tỷ-kheo, có năm thành tựu này. Thế nào là năm?
 
-4. Thành tựu bà con, thành tựu tài sản, thành tựu vô bệnh, thành tựu giới, thành tựu tri kiến. Này các Tỷkheo, không do nhân thành tựu bà con, hay không do nhân thành tựu tài sản, hay không do nhân thành
+4. Thành tựu bà con, thành tựu tài sản, thành tựu vô bệnh, thành tựu giới, thành tựu tri kiến. Này các Tỷ-kheo, không do nhân thành tựu bà con, hay không do nhân thành tựu tài sản, hay không do nhân thành
 tựu vô bệnh, mà các loài hữu tình sau khi thân hoại mạng chung sanh được lên cõi lành, Thiên giới, cõi
 đời này. Này các Tỷ-kheo, do nhân thành tựu giới hay do nhân thành tựu tri kiến, mà các loài hữu tình
 sau khi thân hoại mạng chung được sanh lên cõi lành, Thiên giới, cõi đời này.
@@ -21864,7 +21864,7 @@ không nên thực hành; làng, thị trấn như vậy cần phải đi đến
 
 4. Lại nữa, này Tỷ-kheo, Như Lai, bậc A-la-hán, Chánh Ðẳng Giác đúng pháp pháp vương, y cứ pháp,
 tôn kính pháp, kính trọng pháp, tôn trọng pháp, lấy pháp làm tràng phan, lấy pháp làm ngọn cờ, lấy pháp
-làm tăng thượng, sắp đặt một sự phòng hộ, bảo vệ, chế ngự đúng pháp giữa các Tỷ-kheo, giữa các Tỷkheo-ni, giữa các nam cư sĩ, giữa các nữ cư sĩ: Thân nghiệp như vậy cần phải thực hành, thân nghiệp
+làm tăng thượng, sắp đặt một sự phòng hộ, bảo vệ, chế ngự đúng pháp giữa các Tỷ-kheo, giữa các Tỷ-kheo-ni, giữa các nam cư sĩ, giữa các nữ cư sĩ: Thân nghiệp như vậy cần phải thực hành, thân nghiệp
 như vậy không nên thực hành; khẩu nghiệp như vậy cần phải thực hành, khẩu nghiệp như vậy không nên
 thực hành; ý nghiệp như vậy cần phải thực hành, ý nghiệp như vậy không nên thực hành; mạng sống
 như vậy cần phải thực hành, mạng sống như vậy không nên thực hành; làng, thị trấn như vậy cần phải đi
@@ -22067,7 +22067,7 @@ nhẫn các hương, không kham nhẫn các vị, không kham nhẫn các xúc.
 Tỷ-kheo không kham nhẫn các sắc?
 
 9. Ở đây, này các Tỷ-kheo, Tỷ-kheo khi mắt thấy sắc liền tham đắm các sắc khả ái, tâm không thể định
-tĩnh. Như vậy, này các Tỷ-kheo, Tỷ-kheo không kham nhẫn các sắc. Và này các Tỷ-kheo, thế nào là Tỷkheo không kham nhẫn các tiếng?
+tĩnh. Như vậy, này các Tỷ-kheo, Tỷ-kheo không kham nhẫn các sắc. Và này các Tỷ-kheo, thế nào là Tỷ-kheo không kham nhẫn các tiếng?
 
 10. Ở đây, này các Tỷ-kheo, Tỷ-kheo khi tai nghe tiếng liền tham đắm các tiếng khả ái, tâm không thể
 định tĩnh. Như vậy, này các Tỷ-kheo, Tỷ-kheo không kham nhẫn các tiếng. Và này các Tỷ-kheo, thế nào
@@ -22113,7 +22113,7 @@ của vua kham nhẫn các hương. Và này các Tỷ-kheo, thế nào là con 
 
 19. Ở đây, này các Tỷ-kheo, con voi của vua đi đến chiến trận, khinh miệt một máng cỏ và nước, hoặc
 hai, hoặc ba, hoặc bốn hoặc năm máng cỏ và nước, không chùn chân, không rủn chí, có đủ can đảm, có
-thể tham gia chiến trận. Như vậy, này các Tỷ-kheo, con voi của vua kham nhẫn các vị. Và này các Tỷkheo, thế nào là con voi của vua kham nhẫn các xúc?
+thể tham gia chiến trận. Như vậy, này các Tỷ-kheo, con voi của vua kham nhẫn các vị. Và này các Tỷ-kheo, thế nào là con voi của vua kham nhẫn các xúc?
 
 20. Ở đây, này các Tỷ-kheo, con voi của vua đi đến chiến trận, khi bị một mũi tên bắn trúng, hoặc hai,
 hoặc ba, hoặc bốn, hoặc năm, không chùn chân, không rủn chí, có đủ can đảm, có thể tham gia chiến
@@ -22128,7 +22128,7 @@ và được gọi là biểu tượng của vua. Cũng vậy, này các Tỷ-kh
 kham nhẫn các vị, kham nhẫn các xúc. Và này các Tỷ-kheo, thế nào là Tỷ-kheo kham nhẫn các sắc?
 
 22. Ở đây, này các Tỷ-kheo, Tỷ-kheo khi mắt thấy sắc, không tham đắm các sắc khả ái, có thể giữ tâm
-định tĩnh. Như vậy, này các Tỷ-kheo, Tỷ-kheo kham nhẫn các sắc. Và này các Tỷ-kheo, thế nào là Tỷkheo kham nhẫn các tiếng?
+định tĩnh. Như vậy, này các Tỷ-kheo, Tỷ-kheo kham nhẫn các sắc. Và này các Tỷ-kheo, thế nào là Tỷ-kheo kham nhẫn các tiếng?
 
 23. Ở đây, này các Tỷ-kheo, Tỷ-kheo khi tai nghe tiếng, không tham đắm các tiếng khả ái, có thể giữ
 tâm định tĩnh. Như vậy, này các Tỷ-kheo, Tỷ-kheo kham nhẫn các tiếng. Và này các Tỷ-kheo, thế nào là
@@ -22139,7 +22139,7 @@ giữ tâm định tĩnh. Như vậy, này các Tỷ-kheo, Tỷ-kheo kham nhẫn
 nào là Tỷ-kheo kham nhẫn các vị?
 
 25. Ở đây, này các Tỷ-kheo, Tỷ-kheo khi lưỡi nếm các vị, không tham đắm các vị khả ái, có thể giữ tâm
-định tĩnh. Như vậy, này các Tỷ-kheo, Tỷ-kheo kham nhẫn các vị. Và thế nào, này các Tỷ-kheo, là Tỷkheo kham nhẫn các xúc?
+định tĩnh. Như vậy, này các Tỷ-kheo, Tỷ-kheo kham nhẫn các vị. Và thế nào, này các Tỷ-kheo, là Tỷ-kheo kham nhẫn các xúc?
 
 26. Ở đây, này các Tỷ-kheo, Tỷ-kheo khi thân cảm các xúc, không tham đắm các xúc khả ái, có thể giữ
 tâm định tĩnh. Như vậy, này các Tỷ-kheo, Tỷ-kheo kham nhẫn các xúc.
@@ -22371,7 +22371,7 @@ Tỷ-kheo, nếu Tỷ-kheo sau khi từ bỏ cả hai vật không ghê tởm v�
 Và này các Tỷ-kheo, do duyên lợi ích gì, này các Tỷ-kheo, Tỷ-kheo có thể trú với tưởng ghê tởm đối với
 vật không ghê tởm?
 
-3. “Mong rằng, đối với các pháp khả ái, tham chớ có khởi lên nơi ta”. Do duyên lợi ích này, này các Tỷkheo, Tỷ-kheo nên sống với tưởng ghê tởm đối với vật không ghê tởm. Và này các Tỷ-kheo, do duyên
+3. “Mong rằng, đối với các pháp khả ái, tham chớ có khởi lên nơi ta”. Do duyên lợi ích này, này các Tỷ-kheo, Tỷ-kheo nên sống với tưởng ghê tởm đối với vật không ghê tởm. Và này các Tỷ-kheo, do duyên
 lợi ích thế nào, Tỷ-kheo nên sống với tưởng không ghê tởm đối với vật ghê tởm?
 
 4. “Mong rằng đối với các pháp đáng sân hận, lòng sân chớ có khởi lên nơi ta” Do duyên lợi ích này,
@@ -22677,7 +22677,7 @@ Năm pháp này, này các Tỷ-kheo, đưa đến diệu pháp hỗn loạn, v�
 là năm?
 
 8. Ở đây, này các Tỷ-kheo, các Tỷ-kheo học thuộc lòng kinh điển được nắm giữ tốt đẹp, với những văn
-cú được phối trí chơn chánh và ý nghĩa được hướng dẫn chơn chánh. Ðây là pháp thứ nhất, này các Tỷkheo, đưa đến diệu pháp an trú, không hỗn loạn, không biết mất.
+cú được phối trí chơn chánh và ý nghĩa được hướng dẫn chơn chánh. Ðây là pháp thứ nhất, này các Tỷ-kheo, đưa đến diệu pháp an trú, không hỗn loạn, không biết mất.
 
 9. Lại nữa, này các Tỷ-kheo, các Tỷ-kheo là những người dễ nói, dễ kham nhẫn, cung kính đón nhận khi
 được giảng dạy. Ðây là pháp thứ hai, này các Tỷ-kheo, đưa đến diệu pháp an trú, không hỗn loạn, không
@@ -23778,7 +23778,7 @@ con chó đực không mua, không bán con chó cái cọng trú trong tình t�
 
 5. Thuở xưa, này các Tỷ-kheo, các Bà-la-môn không cất chứa tài sản, ngũ cốc, bạc và vàng. Ngày nay,
 này các Tỷ-kheo, các Bà-la-môn cất chứa tài sản, ngũ cốc, bạc và vàng. Ngày nay, này các Tỷ-kheo, các
-loài chó không cất chứa tài sản, ngũ cốc, bạc và vàng. Ðây là cựu Bà-la-môn pháp thứ tư, này các Tỷkheo, nay chỉ được thấy giữa các loài chó, không được thấy giữa các Bà-la-môn.
+loài chó không cất chứa tài sản, ngũ cốc, bạc và vàng. Ðây là cựu Bà-la-môn pháp thứ tư, này các Tỷ-kheo, nay chỉ được thấy giữa các loài chó, không được thấy giữa các Bà-la-môn.
 
 6. Thuở xưa, này các Tỷ-kheo, các Bà-la-môn vào buổi chiều tìm đồ ăn buổi chiều, vào buổi sáng tìm đồ
 ăn buổi sáng. Ngày nay, này các Tỷ-kheo, các Bà-la-môn ăn cho đến no nê thỏa bụng, rồi lấy các đồ ăn
@@ -24390,7 +24390,7 @@ Này các Tỷ-kheo, Tỷ-kheo nào nghi ngờ bậc Ðạo Sư, do dự, không
 tâm của vị này không hướng về nỗ lực, chuyên cần, kiên trì, tinh tấn. Như vậy là tâm hoang vu thứ nhất.
 
 3. Lại nữa, này các Tỷ-kheo, Tỷ-kheo nghi ngờ Pháp... nghi ngờ Tăng... nghi ngờ học pháp... phẫn nộ
-đối với các vị đồng Phạm hạnh, không có hoan hỷ, tâm tư chống đối cứng rắn. Này các Tỷ-kheo, Tỷkheo nào phẫn nộ đối với các vị đồng Phạm hạnh, không có hoan hỷ, tâm tư chống đối cứng rắn, thời
+đối với các vị đồng Phạm hạnh, không có hoan hỷ, tâm tư chống đối cứng rắn. Này các Tỷ-kheo, Tỷ-kheo nào phẫn nộ đối với các vị đồng Phạm hạnh, không có hoan hỷ, tâm tư chống đối cứng rắn, thời
 tâm của vị này không hướng về nỗ lực, chuyên cần, kiên trì, tinh tấn. Như vậy là tâm hoang vu thứ năm.
 
 Này các Tỷ-kheo, có năm tâm hoang vu này.
@@ -24498,7 +24498,7 @@ nguy hại này.
 
 1. - Này các Tỷ-kheo, có năm sự nguy hại này cho kẻ ác giới, phá giới. Thế nào là năm?
 
-2. Ở đây, này các Tỷ-kheo, kẻ ác giới, phá giới, do nhân phóng dật, bị tổn thất tài sản lớn. Này các Tỷkheo, đây là sự nguy hại thứ nhất cho kẻ ác giới, phá giới.
+2. Ở đây, này các Tỷ-kheo, kẻ ác giới, phá giới, do nhân phóng dật, bị tổn thất tài sản lớn. Này các Tỷ-kheo, đây là sự nguy hại thứ nhất cho kẻ ác giới, phá giới.
 
 3. Lại nữa, này các Tỷ-kheo, đối với kẻ ác giới, phá giới, tiếng ác đồn xa. Này các Tỷ-kheo, đây là sự
 nguy hại thứ hai cho kẻ ác giới, phá giới.
@@ -25007,13 +25007,13 @@ nhất, này các Tỷ-kheo, trong sự tịnh tín đối với một người.
 3. Lại nữa, này các Tỷ-kheo, trong người nào, một người có lòng tịnh tín, và vị ấy rơi vào một tội phạm,
 và tùy theo tội phạm ấy, chúng Tăng bắt vị ấy ngồi vào phía cuối. Người này suy nghĩ: “Người mà ta ái
 mộ ưa thích, vị ấy bị chúng Tăng bắt ra ngồi phía cuối”, và người này không còn nhiều tịnh tín đối với
-các Tỷ-kheo. Do không còn nhiều tịnh tín đối với các Tỷ-kheo, người này không có liên hệ đến các Tỷkheo khác. Do không liên hệ với các Tỷ-kheo khác, người này không nghe diệu pháp. Do không nghe
+các Tỷ-kheo. Do không còn nhiều tịnh tín đối với các Tỷ-kheo, người này không có liên hệ đến các Tỷ-kheo khác. Do không liên hệ với các Tỷ-kheo khác, người này không nghe diệu pháp. Do không nghe
 diệu pháp, người này thối đọa khỏi Chánh pháp. Ðây là nguy hại thứ hai, này các Tỷ-kheo, trong sự tịnh
 tín đối với một người.
 
 4. Lại nữa, này các Tỷ-kheo, trong người nào, một người có lòng tịnh tín, rồi người ấy đi vào một địa
 phương khác...người ấy bị loạn tâm...người ấy mạng chung. Người này suy nghĩ: “Người mà ta ái mộ ưa
-thích, vị ấy mạng chung”. Người này không liên hệ đến các Tỷ-kheo khác. Do không liên hệ với các Tỷkheo khác, người này không nghe diệu pháp. Do không nghe diệu pháp, người này thối đọa khỏi Chánh
+thích, vị ấy mạng chung”. Người này không liên hệ đến các Tỷ-kheo khác. Do không liên hệ với các Tỷ-kheo khác, người này không nghe diệu pháp. Do không nghe diệu pháp, người này thối đọa khỏi Chánh
 pháp. Ðây là nguy hại thứ năm, này các Tỷ-kheo, trong sự tịnh tín đối với một người.
 
 **XXVI. Phẩm Cụ Túc Giới**
@@ -25565,7 +25565,7 @@ chuyên tâm ưa thích hý luận. Như vậy, này các Hiền giả, Tỷ-khe
 lâm chung không được hiền thiện, khi mệnh chung không được hiền thiện. Này các Hiền giả, đây được
 gọi là Tỷ-kheo ái lạc có thân, không từ bỏ có thân để chân chánh chấm dứt khổ đau.
 4. Này các Hiền giả, Tỷ-kheo nếu sống nếp sống như vậy, như vậy, do sống nếp sống như vậy, như vậy,
-khi lâm chung được hiền thiện, khi mệnh chung được hiền thiện. Và như thế nào, này các Hiền giả, Tỷkheo sống nếp sống như vậy, như vậy, khi lâm chung được hiền thiện, khi mạng chung được hiền thiện?
+khi lâm chung được hiền thiện, khi mệnh chung được hiền thiện. Và như thế nào, này các Hiền giả, Tỷ-kheo sống nếp sống như vậy, như vậy, khi lâm chung được hiền thiện, khi mạng chung được hiền thiện?
 
 5. Ở đây, này các Hiền giả, Tỷ-kheo không ưa công việc, không thích thú công việc, không chuyên tâm
 ưa thích công việc; không ưa nói chuyện, không thích thú nói chuyện, không chuyên tâm ưa thích nói
@@ -25797,7 +25797,7 @@ ngục.
 
 **(IX) (19) Niệm Chết (1)**
 
-1. Một thời, Thế Tôn trú ở Nàdika, tại Ginjakàvasattha. Tại đấy, Thế Tôn gọi các Tỷ-kheo: “Này các Tỷkheo” - “Thưa vâng, bạch Thế Tôn”.
+1. Một thời, Thế Tôn trú ở Nàdika, tại Ginjakàvasattha. Tại đấy, Thế Tôn gọi các Tỷ-kheo: “Này các Tỷ-kheo” - “Thưa vâng, bạch Thế Tôn”.
 
 Các Tỷ-kheo ấy vâng đáp Thế Tôn. Thế Tôn nói như sau:
 
@@ -25894,8 +25894,8 @@ thể cắn ta. Do vậy, ta có thể mệnh chung. Như vậy sẽ trở ngạ
 Cơm ta ăn có thể làm ta mắc bệnh khi ăn, hay mật có thể khuấy động ta, đàm có thể khuấy động ta. Các
 gió như kiếm có thể khuấy động ta. Và như vậy có thể làm ta mệnh chung. Như vậy sẽ là chướng ngại
 cho ta”. Này các Tỷ-kheo, Tỷ-kheo ấy cần phải suy xét như sau: “Nếu ta còn có những pháp ác bất thiện
-chưa được đoạn tận, nếu ta lỡ mệnh chung đêm nay, chúng có thể là chướng ngại cho ta”. Này các Tỷkheo, nếu Tỷ-kheo trong khi suy xét như vậy, biết được như sau: “Ta có những pháp ác bất thiện chưa
-được đoạn tận, nếu ta lỡ mệnh chung đêm nay, chúng có thể là chướng ngại cho ta”, thời này các Tỷkheo, Tỷ-kheo ấy, để đoạn tận các pháp ác bất thiện ấy, cần phải tận lực tác động ước muốn, tinh tấn,
+chưa được đoạn tận, nếu ta lỡ mệnh chung đêm nay, chúng có thể là chướng ngại cho ta”. Này các Tỷ-kheo, nếu Tỷ-kheo trong khi suy xét như vậy, biết được như sau: “Ta có những pháp ác bất thiện chưa
+được đoạn tận, nếu ta lỡ mệnh chung đêm nay, chúng có thể là chướng ngại cho ta”, thời này các Tỷ-kheo, Tỷ-kheo ấy, để đoạn tận các pháp ác bất thiện ấy, cần phải tận lực tác động ước muốn, tinh tấn,
 tinh cần, nỗ lực, không có thối chuyển, chánh niệm và tỉnh giác. Ví như, này các Tỷ-kheo, áo bị cháy
 hay đầu bị cháy, thời để dập tắt áo ấy hay đầu ấy, cần phải tận lực tác động ước muốn, tinh tấn, tinh cần,
 nỗ lực, không có thối chuyển, chánh niệm và tỉnh giác. Cũng vậy, này các Tỷ-kheo, Tỷ-kheo ấy, để đoạn
@@ -25915,7 +25915,7 @@ thiện chưa được đoạn tận, nếu ta lỡ mệnh chung trong ngày hô
 ta”. Này các Tỷ-kheo, nếu Tỷ-kheo trong khi suy xét như vậy, biết được như sau: “Ta có những pháp ác
 bất thiện chưa được đoạn tận, nếu ta lỡ mệnh chung ngày hôm nay, chúng có thể là chướng ngại cho ta”,
 thời này các Tỷ-kheo, Tỷ-kheo ấy, để đoạn tận các pháp ác bất thiện ấy, cần phải tận lực tác động ước
-muốn, tinh tấn, tinh cần, nỗ lực, không có thối chuyển, chánh niệm và tỉnh giác. Ví như, này các Tỷkheo, áo bị cháy hay đầu bị cháy, thời để dập tắt áo ấy hay đầu ấy, cần phải tận lực tác động ước muốn,
+muốn, tinh tấn, tinh cần, nỗ lực, không có thối chuyển, chánh niệm và tỉnh giác. Ví như, này các Tỷ-kheo, áo bị cháy hay đầu bị cháy, thời để dập tắt áo ấy hay đầu ấy, cần phải tận lực tác động ước muốn,
 tinh tấn, tinh cần, nỗ lực, không có thối chuyển, chánh niệm và tỉnh giác. Cũng vậy, này các Tỷ-kheo,
 Tỷ-kheo ấy, để đoạn tận các ác bất thiện pháp ấy, cần phải tận lực tác động ước muốn, tinh tấn, tinh cần,
 nỗ lực, không có thối chuyển, chánh niệm và tỉnh giác. Nếu Tỷ-kheo ấy, trong khi suy xét, biết được
@@ -26060,7 +26060,7 @@ ta. Ðầy đủ với giới, với nghe pháp, với thí, với tuệ như v�
 sanh tại chỗ kia. Tuệ như vậy cũng có đầy đủ ở nơi ta”. Khi vị ấy niệm tín, giới, nghe pháp, thí và tuệ
 của tự mình và chư Thiên ấy, trong khi ấy, tâm không bị tham, chi phối, tâm không bị sân chi phối, tâm
 không bị si chi phối, trong khi ấy, tâm vị ấy được chánh trực, ra khỏi, giải thoát, xuất khỏi tham. Tham,
-này các Tỷ-kheo là đồng nghĩa với năm dục trưởng dưỡng. Do lấy cái này làm đối tượng, này các Tỷkheo, ở đây, một số các loài hữu tình được thanh tịnh.
+này các Tỷ-kheo là đồng nghĩa với năm dục trưởng dưỡng. Do lấy cái này làm đối tượng, này các Tỷ-kheo, ở đây, một số các loài hữu tình được thanh tịnh.
 
 Này các Tỷ-kheo, đây là sau Tùy niệm xứ.
 
@@ -26124,7 +26124,7 @@ nhất để đi đến yết kiến Tỷ-kheo đã được tu tập về ý.
 4. Lại nữa, này Tỷ-kheo, trong khi Tỷ-kheo sống với tâm bị sân chi phối, bị sân ám ảnh, không như thật
 rõ biết xuất ly khỏi sân được khởi lên, trong khi ấy, sau khi đến Tỷ-kheo đã được tu tập về ý, vị ấy cần
 được nói như sau: “Thưa Hiền giả, tôi sống với tâm bị dục sân chi phối, bị dục sân ám ảnh, tôi không
-như thật rõ biết xuất ly khỏi sân. Lành thay, nếu Tôn giả thuyết pháp cho tôi để đoạn tận sân”. Và Tỷkheo đã được tu tập về ý thuyết pháp để đoạn sân. Này Tỷ-kheo, đây là thời thứ hai để đi đến yết kiến
+như thật rõ biết xuất ly khỏi sân. Lành thay, nếu Tôn giả thuyết pháp cho tôi để đoạn tận sân”. Và Tỷ-kheo đã được tu tập về ý thuyết pháp để đoạn sân. Này Tỷ-kheo, đây là thời thứ hai để đi đến yết kiến
 Tỷ-kheo đã được tu tập về ý.
 
 5-7. Lại nữa, này Tỷ-kheo, trong khi Tỷ-kheo sống với tâm bị hôn trầm thụy miên chi phối, bị hôn trầm
@@ -26136,7 +26136,7 @@ nghi”. Và Tỷ-kheo đã được tu tập về ý thuyết pháp để đo�
 để đi đến yết kiến Tỷ-kheo đã được tu tập về ý.
 
 8. Lại nữa, này Tỷ-kheo, trong khi Tỷ-kheo y cứ nơi tướng nào, do tác ý tướng ấy, các lậu hoặc được
-đoạn diệt, không có gián đoạn, vị ấy không biết, không thấy tướng ấy, trong khi ấy, sau khi đi đến Tỷkheo đã được tu tập về ý, vị ấy cần được nói như sau: “Thưa Hiền giả, y cứ nơi tướng nào, do tác ý
+đoạn diệt, không có gián đoạn, vị ấy không biết, không thấy tướng ấy, trong khi ấy, sau khi đi đến Tỷ-kheo đã được tu tập về ý, vị ấy cần được nói như sau: “Thưa Hiền giả, y cứ nơi tướng nào, do tác ý
 tướng ấy các lậu hoặc được đoạn diệt, không có gián đoạn, tôi không biết không thấy tướng ấy. Lành
 thay, nếu Tôn giả thuyết pháp cho tôi để đoạn diệt các lậu hoặc”. Và Tỷ-kheo đã được tu tập về ý thuyết
 pháp để đoạn diệt các lậu hoặc. Này Tỷ-kheo, đây là thời thứ sáu để đi đến yết kiến Tỷ-kheo đã được tu
@@ -26260,7 +26260,7 @@ toàn các giới sai khác nhau.
 
 Bạch Thế Tôn, đây là năm chỗ để tùy niệm.
 
-- Lành thay, lành thay, này Ananda! Ðây là chỗ tùy niệm thứ sáu, hãy thọ trì ở đây, này Ananda, Tỷkheo chánh niệm đi ra, chánh niệm đi vào, chánh niệm ngồi, chánh niệm nằm, chánh niệm trong khi làm
+- Lành thay, lành thay, này Ananda! Ðây là chỗ tùy niệm thứ sáu, hãy thọ trì ở đây, này Ananda, Tỷ-kheo chánh niệm đi ra, chánh niệm đi vào, chánh niệm ngồi, chánh niệm nằm, chánh niệm trong khi làm
 việc. Này Ananda, đây là chỗ để tùy niệm, như vậy tu tập, như vậy làm cho sung mãn, được đưa đến
 chánh niệm tỉnh giác.
 
@@ -26283,7 +26283,7 @@ an trú, nhứt hướng thuần tín. Này các Tỷ-kheo, đây gọi là th�
 nghe vô thượng là gì?
 
 4. Ở đây, này các Tỷ-kheo, có người đi nghe tiếng trống, đi nghe tiếng sáo, đi nghe tiếng ca, hay đi nghe
-tiếng cao thấp khác nhau, hay đi nghe pháp các Sa-môn hay Bà-la-môn có tà kiến, tà hạnh. Này các Tỷkheo, đây có phải là nghe không? Ta nói rằng: “Ðây là không nghe”. Sự nghe ấy, này các Tỷ-kheo, là hạ
+tiếng cao thấp khác nhau, hay đi nghe pháp các Sa-môn hay Bà-la-môn có tà kiến, tà hạnh. Này các Tỷ-kheo, đây có phải là nghe không? Ta nói rằng: “Ðây là không nghe”. Sự nghe ấy, này các Tỷ-kheo, là hạ
 liệt, hà hèn hạ, là phàm phù, không xứng Thánh hạnh, không liên hệ đến mục đích, không đưa đến yếm
 ly, ly tham, đoạn diệt, an tịnh, thắng trí, giác ngộ, Niết-bàn. Này các Tỷ-kheo, ai đi để nghe pháp của
 Như Lai hay của đệ tử Như Lai, với lòng tin an trú, với lòng ái mộ an trú, nhứt hướng thuần tín thời này,
@@ -26491,7 +26491,7 @@ Sáu pháp này, này các Tỷ-kheo, là thuộc về minh phần.
 
 Này các Tỷ-kheo, ở đây, vị Tỷ-kheo phẫn nộ, hiềm hận. Này các Tỷ-kheo, ai phẫn nộ, hiềm hận, vị ấy
 sống không cung kính, không tùy thuận bậc Ðạo Sư, sống không cung kính, không tùy thuận Pháp, sống
-không cung kính, không tùy thuận Tăng, không thành tựu đầy đủ các Học pháp. Này các Tỷ-kheo, Tỷkheo sống không cung kính, không tùy thuận bậc Ðạo Sư, không cung kính, không tùy thuận Pháp,
+không cung kính, không tùy thuận Tăng, không thành tựu đầy đủ các Học pháp. Này các Tỷ-kheo, Tỷ-kheo sống không cung kính, không tùy thuận bậc Ðạo Sư, không cung kính, không tùy thuận Pháp,
 không cung kính, không tùy thuận Tăng, không thành tựu đầu đủ các Học pháp, vị ấy khởi lên tranh luận
 giữa chư Tăng. Tranh luận như vậy khiến nhiều người không hạnh phúc, khiến nhiều người không an
 lạc, khiến nhiều người không lợi ích, khiến chư Thiên và loài Người không hạnh phúc và đau khổ. Này
@@ -26607,7 +26607,7 @@ mạng chung, con trọn đời quy ngưỡng.
 1. - Có ba nhân duyên này, này các Tỷ-kheo, khiến các nghiệp khởi lên. Thế nào là ba?
 
 2. Tham là nhân duyên khiến các nghiệp khởi lên. Sân là nhân duyên khiến các nghiệp khởi lên. Si là
-nhân duyên khiến các nghiệp khởi lên. Này các Tỷ-kheo, không phải từ tham, không tham khởi các Tỷkheo, không phải từ tham, không tham khởi lên. Này các Tỷ-kheo, chính từ tham, chỉ có tham khởi lên.
+nhân duyên khiến các nghiệp khởi lên. Này các Tỷ-kheo, không phải từ tham, không tham khởi các Tỷ-kheo, không phải từ tham, không tham khởi lên. Này các Tỷ-kheo, chính từ tham, chỉ có tham khởi lên.
 Này các Tỷ-kheo, không phải từ sân, không sân khởi lên. Này các Tỷ-kheo, chính từ sân, chỉ có sân khởi
 lên. Này các Tỷ-kheo, không phải từ si, không si khởi lên. Này các Tỷ-kheo, chính từ si, chỉ có si khởi
 lên. Này các Tỷ-kheo, không phải do nghiệp từ tham sanh, không phải do nghiệp từ sân sanh, không
@@ -27120,7 +27120,7 @@ hoan hỷ; hành động như vậy không đưa lại hạnh phúc cho nhiều 
 như sau: “Các người này nói: 'Chúng tôi chuyên tâm về Pháp, chúng tôi chuyên tâm về Pháp”. Họ tháo
 động, kiêu căng, dao động, lắm mồm, lắm miệng, lắm lời, thất niệm, không tỉnh giác, không định tĩnh,
 tâm tán loạn, các căn thả lỏng. Những người này chuyên tâm về Pháp cái gì? Những người này chuyên
-tâm về Pháp có lợi ích gì? Những người này chuyên tâm về Pháp như thế nào? '”. Ở đây, này các Tỷkheo tu Thiền không có hoan hỷ, và các Tỷ-kheo, chuyên tu về Pháp cũng không hoan hỷ; hành động
+tâm về Pháp có lợi ích gì? Những người này chuyên tâm về Pháp như thế nào? '”. Ở đây, này các Tỷ-kheo tu Thiền không có hoan hỷ, và các Tỷ-kheo, chuyên tu về Pháp cũng không hoan hỷ; hành động
 như vậy không đưa lại hạnh phúc cho nhiều người, an lạc cho nhiều người, không đưa lại lợi ích, hạnh
 phúc, an lạc cho chư Thiên và loài Người.
 
@@ -27131,7 +27131,7 @@ cho nhiều người, an lạc cho nhiều người, không đưa lại lợi í
 Người.
 
 5. Nhưng ở đây, này chư Hiền, có những Tỷ-kheo tu Thiền chỉ tán thán các Tỷ-kheo tu Thiền, không tán
-thán các Tỷ-kheo chuyên tâm về Pháp. Và ở đây, các Tỷ-kheo tu Thiền không được hoan hỷ; các Tỷkheo chuyên tâm về Pháp không được hoan hỷ. Sở hành như vậy không đưa lại hạnh phúc cho nhiều
+thán các Tỷ-kheo chuyên tâm về Pháp. Và ở đây, các Tỷ-kheo tu Thiền không được hoan hỷ; các Tỷ-kheo chuyên tâm về Pháp không được hoan hỷ. Sở hành như vậy không đưa lại hạnh phúc cho nhiều
 nguời, an lạc cho nhiều người, không đưa lại lợi ích, hạnh phúc, an lạc cho chư Thiên và loài người.
 
 6. Do vậy, này chư Hiền, cần phải học tập như sau:
@@ -27448,7 +27448,7 @@ các khách Tỷ-kheo, quở trách, não hại, châm biếm, làm tức giận
 Tôn giả Dhammika mắng nhiếc, quở trách, não hại, châm biếm, làm cho tức giận với lời nói, liền bỏ đi,
 không có an trú và từ bỏ trú xứ. Rồi các cư sĩ tại chỗ sanh trưởng suy nghĩ như sau: “Chúng ta đã cung
 cấp cho chúng Tỷ-kheo các vật dụng cần thiết như y áo, đồ ăn khất thực, sàng tọa, dược phẩm trị bệnh,
-nhưng các khách Tỷ-kheo lại bỏ đi, không an trú, từ bỏ trú xứ. Do nhân gì, do duyên gì, các khách Tỷkheo lại bỏ đi, không có an trú, từ bỏ trú xứ? “. Rồi các cư sĩ tại chỗ sanh trưởng suy nghĩ: “Có Tôn giả
+nhưng các khách Tỷ-kheo lại bỏ đi, không an trú, từ bỏ trú xứ. Do nhân gì, do duyên gì, các khách Tỷ-kheo lại bỏ đi, không có an trú, từ bỏ trú xứ? “. Rồi các cư sĩ tại chỗ sanh trưởng suy nghĩ: “Có Tôn giả
 Dhammika này mắng nhiếc, quở trách, não hại, châm biếm, làm họ tức giận với những lời nói. Các
 khách Tỷ-kheo ấy bị Tôn giả Dhammika mắng nhiếc, quở trách, não hại, châm biếm, làm tức giận với
 những lời nói, nên bỏ đi, không có an trú, từ bỏ trú xứ. Vậy chúng ta hãy mời Tôn giả Dhammika rời bỏ
@@ -27801,7 +27801,7 @@ ngồi xuống một bên, Tôn giả Ananda bạch Thế Tôn:
 - Bạch Thế Tôn, Tôn giả Phagguna, sau khi Thế Tôn ra đi không bao lâu, đã mệnh chung. Trong khi
 Tôn giả mệnh chung, các căn được sáng chói.
 
-- Này Ananda, tại sao các căn của Tôn giả Phagguna lại không sáng chói chứ? Này Ananda, với Tỷkheo Phagguna, tâm chưa được giải thoát khỏi năm hạ phần kiết sử. Sau khi nghe pháp, tâm vị ấy được
+- Này Ananda, tại sao các căn của Tôn giả Phagguna lại không sáng chói chứ? Này Ananda, với Tỷ-kheo Phagguna, tâm chưa được giải thoát khỏi năm hạ phần kiết sử. Sau khi nghe pháp, tâm vị ấy được
 giải thoát khỏi năm hạ phần kiết sử. Có sáu lợi ích này, này Ananda, nếu nghe pháp đúng thời, và thẩm
 sát ý nghĩa đúng thời. Thế nào là sáu?
 
@@ -27945,7 +27945,7 @@ Này Ananda, đây là sáu sanh loại.
 đoạn trừ do thọ dụng; đối với các lậu hoặc phải do kham nhẫn mà được đoạn trừ, chúng đã được đoạn
 trừ do kham nhẫn; đối với các lậu hoặc phải do tránh né mà được đoạn trừ, chúng đã được đoạn trừ do
 tránh né; đối với các lậu hoặc phải do trừ diệt mà được đoạn trừ, chúng đã được đoạn trừ do trừ diệt; đối
-với các lậu hoặc phải do tu tập mà được đoạn trừ, chúng đã được đoạn trừ do tu tập. Và này các Tỷkheo, thế nào là các lậu hoặc phải do phòng hộ mà được đoạn trừ, chúng đã được đoạn trừ do phòng hộ?
+với các lậu hoặc phải do tu tập mà được đoạn trừ, chúng đã được đoạn trừ do tu tập. Và này các Tỷ-kheo, thế nào là các lậu hoặc phải do phòng hộ mà được đoạn trừ, chúng đã được đoạn trừ do phòng hộ?
 
 3. Ở đây, này các Tỷ-kheo, Tỷ-kheo chơn chánh giác sát, sống phòng hộ với sự phòng hộ nhãn căn. Này
 các Tỷ-kheo, nếu Tỷ-kheo ấy sống không phòng hộ với sự phòng hộ nhãn căn, các lậu hoặc tàn hại và
@@ -27972,7 +27972,7 @@ không phải để đam mê, không phải để trang sức, không phải đ�
 sống được an ổn. Vị ấy chơn chánh giác sát thọ dụng sàng tọa chỉ để ngăn ngừa lạnh, ngăn ngừa nóng,
 ngăn ngừa sự xúc chạm của ruồi, muỗi, gió, sức nóng mặt trời, các loài bò sát, chỉ giải trừ nguy hiểm
 của thới tiết, chỉ với mục đích sống độc cư an tịnh. Vị ấy chơn chánh giác sát thọ dụng những dược
-phẩm trị bệnh, chỉ để ngăn chận các cảm giác thống khổ đã sanh để được ly khổ hoàn toàn. Này các Tỷkheo, nếu vị ấy không chơn chánh giác sát khi thọ dụng như vậy, các lậu hoặc tàn hại và nhiệt não có thể
+phẩm trị bệnh, chỉ để ngăn chận các cảm giác thống khổ đã sanh để được ly khổ hoàn toàn. Này các Tỷ-kheo, nếu vị ấy không chơn chánh giác sát khi thọ dụng như vậy, các lậu hoặc tàn hại và nhiệt não có thể
 khởi lên. Nếu vị ấy có chơn chánh giác sát khi thọ dụng như vậy, các lậu hoặc tàn hại và nhiệt não ấy
 không còn nữa.
 
@@ -28046,7 +28046,7 @@ hương, hương liệu, được tiêu dùng vàng và bạc để có thể n�
 miệng, lắm lời, thất niệm, không tỉnh giác, không định tĩnh, tâm tán loạn, các căn thả lỏng, thời vị ấy về
 phương diện này đáng bị chỉ trích. Này Gia chủ, nếu Tỷ-kheo trú ở rừng núi, không tháo động, không
 kiêu căng, không dao động, không lắm mồm, lắm miệng, không lắm lời, chánh niệm, tỉnh giác, định
-tĩnh, nhất tâm, với các căn được phòng hộ, thời vị ấy về phương diện này đáng được tán thán. Nếu Tỷkheo sống ở cuối làng, này Gia chủ, tháo động, kiêu căng... các căn thả lỏng; vị ấy về phương diện này
+tĩnh, nhất tâm, với các căn được phòng hộ, thời vị ấy về phương diện này đáng được tán thán. Nếu Tỷ-kheo sống ở cuối làng, này Gia chủ, tháo động, kiêu căng... các căn thả lỏng; vị ấy về phương diện này
 đáng bị chỉ trích. Nếu Tỷ-kheo sống ở cuối làng, này Gia chủ, không tháo động, không kiêu căng... các
 căn được phòng hộ, thời vị ấy về phương diện này đáng được tán thán. Nếu vị Tỷ-kheo theo hạnh khất
 thực, này Gia chủ, nhưng còn tháo động, kiêu căng... đáng bị chỉ trích. Nếu Tỷ-kheo theo hạnh khất
@@ -28156,7 +28156,7 @@ tư. Vị ấy với ý nghĩ: “Ta đã chứng được Thiền thứ tư”,
 tục.
 
 7. Ở đây, này các Hiền giả, có hạng người không tác ý tất cả các tướng, chứng đạt và an trú vô tướng
-tâm định. Vị ấy, với ý nghĩ: “Ta đã chứng đạt được vô tướng tâm định”, sống giao thiệp với các Tỷkheo, các Tỷ-kheo-ni, với các nam cư sĩ, nữ cư sĩ, với các vua chúa, đại thần các vua chúa, với các ngoại
+tâm định. Vị ấy, với ý nghĩ: “Ta đã chứng đạt được vô tướng tâm định”, sống giao thiệp với các Tỷ-kheo, các Tỷ-kheo-ni, với các nam cư sĩ, nữ cư sĩ, với các vua chúa, đại thần các vua chúa, với các ngoại
 đạo, các đệ tử ngoại đạo. Do vị ấy sống giao thiệp, phóng túng, thô lỗ, đam mê nói chuyện, nên tham ái
 tấn công tâm vị ấy. Vị ấy, với tâm bị tham ái tấn công, liền từ bỏ học pháp và hoàn tục. Ví như, thưa các
 Hiền giả, một vị vua, hay đại thần của vua, đang đi giữa đường cùng với bốn loại binh chủng, đến trú ở
@@ -28169,7 +28169,7 @@ giả, có nói một cách chơn chánh không?
 ra đi khỏi khóm rừng này, khi ấy tiếng con dế kêu sẽ hiện hữu.
 
 - Cũng vậy, thưa các Hiền giả, ở đây, có hạng người do không tác ý tất cả các tướng, chứng đạt và an trú
-vô tướng tâm định. Vị ấy, với ý nghĩ: “Ta đạt được vô tướng tâm định”, sống giao thiệp với các Tỷkheo, các Tỷ-kheo-ni, với các nam cư sĩ, nữ cư sĩ, với các vua chúa, các đại thần của vua, với các ngoại
+vô tướng tâm định. Vị ấy, với ý nghĩ: “Ta đạt được vô tướng tâm định”, sống giao thiệp với các Tỷ-kheo, các Tỷ-kheo-ni, với các nam cư sĩ, nữ cư sĩ, với các vua chúa, các đại thần của vua, với các ngoại
 đạo, các đệ tử ngoại đạo. Do vị ấy sống giao thiệp, phóng túng, thô lỗ, đam mê nói chuyện, nên tham ái
 tấn công tâm vị ấy. Vị ấy, với tâm bị tham ái tấn công, liền từ bỏ học pháp và hoàn tục.
 
@@ -28230,7 +28230,7 @@ thể thắng tri, do liễu tri được điều có thể liễu tri, ngay tro
 3. Ðược nói vậy, một Tỷ-kheo khác thưa với các Tỷ-kheo trưởng lão:
 
 - Quá khứ, thưa chư Hiền, là một cực đoan. Tương lai là cực đoan thứ hai. Hiện tại là chặng giữa. Ái là
-người dệt vải. Do ái dệt, nên khiến cho vị ấy phải sanh ở hữu này. Cho đến như vậy, thưa chư Hiền, Tỷkheo thắng tri được điều có thể tri... vị ấy có thể chấm dứt khổ đau.
+người dệt vải. Do ái dệt, nên khiến cho vị ấy phải sanh ở hữu này. Cho đến như vậy, thưa chư Hiền, Tỷ-kheo thắng tri được điều có thể tri... vị ấy có thể chấm dứt khổ đau.
 
 4. Ðược nói vậy, một Tỷ-kheo khác thưa với các Tỷ-kheo trưởng lão:
 - Lạc, thưa chư Hiền, là một cực đoan. Khổ là cực đoan thứ hai. Không khổ không lạc là chặng giữa. Ái
@@ -28280,7 +28280,7 @@ Hãy nghe và suy nghiệm kỹ, Ta sẽ nói:
 Các vị Tỷ-kheo trưởng lão vâng đáp Thế Tôn. Thế Tôn nói như sau:
 
 - Xúc, này các Tỷ-kheo, là cực đoan. Xúc tập khởi là cực đoan thứ hai. Xúc diệt là chặng giữa. Ái là
-người dệt vải; vì rằng ái dệt nên khiến cho vị ấy phải sanh ở hữu này. Cho đến như vậy, này các Tỷkheo, Tỷ-kheo thắng tri được điều có thể thắng tri, liễu tri được điều có thể liễu tri. Do thắng tri được
+người dệt vải; vì rằng ái dệt nên khiến cho vị ấy phải sanh ở hữu này. Cho đến như vậy, này các Tỷ-kheo, Tỷ-kheo thắng tri được điều có thể thắng tri, liễu tri được điều có thể liễu tri. Do thắng tri được
 điều có thể thắng tri, liễu tri được điều có thể liễu tri, ngay trong hiện tại, vị ấy có thể chấm dứt khổ đau.
 **(VIII) (62) Lời Cảm Hứng**
 
@@ -28529,14 +28529,14 @@ _Nhiếp phục được lòng dục._
 4. Này các Tỷ-kheo, thế nào là các dục duyên khởi? Xúc, này các Tỷ-kheo, là các dục duyên khởi.
 
 Và này các Tỷ-kheo, thế nào là các dục sai biệt? Này các Tỷ-kheo, dục trên các sắc là khác, dục trên các
-tiếng là khác, dục trên các hương là khác, dục trên các vị là khác, dục trên các xúc là khác. Này các Tỷkheo, đây là các dục sai biệt.
+tiếng là khác, dục trên các hương là khác, dục trên các vị là khác, dục trên các xúc là khác. Này các Tỷ-kheo, đây là các dục sai biệt.
 Và này các Tỷ-kheo, thế nào là các dục dị thục? Này các Tỷ-kheo, khi muốn một cái gì, sanh khởi một
 tự ngã khởi lên từ vật ấy, từ vật ấy, để dự phần phước đức, hay để dự phần không phước đức, Này các
 Tỷ-kheo, đây gọi là các dục dị thục.
 
 Và này các Tỷ-kheo, thế nào là các dục đoạn diệt? Xúc đoạn diệt, này các Tỷ-kheo là dục đoạn diệt. Ðây
 là con đường Thánh đạo tám ngành đưa đến các dục đoạn diệt. Tức là chánh tri kiến, chánh tư duy,
-chánh ngữ, chánh nghiệp, chánh mạng, chánh tinh tấn, chánh niệm, chánh định. Khi nào, này các Tỷkheo, vị Thánh đệ tử rõ biết các dục như vậy, rõ biết các dục sanh khởi như vậy, rõ biết các dục sai biệt
+chánh ngữ, chánh nghiệp, chánh mạng, chánh tinh tấn, chánh niệm, chánh định. Khi nào, này các Tỷ-kheo, vị Thánh đệ tử rõ biết các dục như vậy, rõ biết các dục sanh khởi như vậy, rõ biết các dục sai biệt
 như vậy, rõ biết các dục dị thục như vậy, rõ biết các dục đoạn diệt như vậy, rõ biết con đường đưa đến
 các dục đoạn diệt như vậy, khi ấy, vị ấy được rõ biết Phạm hạnh thế nhập này như là các dục đoạn diệt.
 
@@ -28661,7 +28661,7 @@ tâm bị trói buộc, ưu sầu, bi thảm, than van, đập ngực, khóc ló
 tâm bị trói buộc, nên đi tìm phía bên ngoài xem có ai biết được một câu, hai câu thần chú đề đoạn diệt
 khổ này.
 
-Này các Tỷ-kheo, Ta tuyên bố rằng khổ đem lại kết quả mê loạn, đem lại kết quả tìm kiếm. Này các Tỷkheo, đây gọi là khổ dị thục.
+Này các Tỷ-kheo, Ta tuyên bố rằng khổ đem lại kết quả mê loạn, đem lại kết quả tìm kiếm. Này các Tỷ-kheo, đây gọi là khổ dị thục.
 
 Và này các Tỷ-kheo, thế nào là khổ đoạn diệt?
 
@@ -28718,7 +28718,7 @@ về xứ là xứ, phi xứ là phi xứ; tùy theo như vậy, tùy theo như 
 như thật trí về xứ là xứ, phi xứ là phi xứ.
 
 9. Ở đây, này các Tỷ-kheo, nếu có những người khác đến hỏi Như Lai các câu hỏi liên hệ đến như thật
-trí về quả báo tùy thuộc sở do, tùy theo sở nhân của các thọ nghiệp quá khứ, vị lai, hiện tại, này các Tỷkheo, tùy theo, tùy theo như thật trí hiểu biết của Như Lai về quả báo tùy thuộc sờ do, tùy theo sở nhân
+trí về quả báo tùy thuộc sở do, tùy theo sở nhân của các thọ nghiệp quá khứ, vị lai, hiện tại, này các Tỷ-kheo, tùy theo, tùy theo như thật trí hiểu biết của Như Lai về quả báo tùy thuộc sờ do, tùy theo sở nhân
 của các thọ nghiệp quá khứ, vị lai, hiện tại; tùy theo như vậy, tùy theo như vậy, Như Lai trả lời các câu
 hỏi liên hệ đến như thật trí về quả báo tùy thuộc sở do, tùy thuộc sở nhân của các thọ nghiệp quá khứ, vị
 lai, hiện tại.
@@ -28977,7 +28977,7 @@ hiềm hận, không ưu não, không nhiệt não, sau khi thân hoại mạng 
 Tỷ-kheo, không có thể chứng ngộ quả A-la-hán.
 3. Ðoạn tận sáu pháp này, này các Tỷ-kheo, có thể chứng ngộ quả A-la-hán. Thế nào là sáu?
 
-4. Mạn, ty mạn, quá mạn, tăng thượng mạn, cố chấp, ty liệt mạn. Ðoạn tận sáu pháp này, này các Tỷkheo, có thể chứng ngộ quả A-la-hán.
+4. Mạn, ty mạn, quá mạn, tăng thượng mạn, cố chấp, ty liệt mạn. Ðoạn tận sáu pháp này, này các Tỷ-kheo, có thể chứng ngộ quả A-la-hán.
 
 **(III) (77) Thượng Nhân Pháp**
 
@@ -29356,7 +29356,7 @@ Trong ba học pháp nào, cần phải học tập?
 3. Tăng thượng giới học, tăng thượng định học, tăng thượng tuệ học. Trong ba học pháp này, cần phải
 học tập.
 
-4. Này các Tỷ-kheo, khi nào Tỷ-kheo đã đoạn tận ba hữu này, đã học tập trong ba học pháp này, Tỷkheo ấy, này các Tỷ-kheo, được gọi là Tỷ-kheo đã chặt đứt khát ái, đã giải tỏa kiết sử do chơn chánh
+4. Này các Tỷ-kheo, khi nào Tỷ-kheo đã đoạn tận ba hữu này, đã học tập trong ba học pháp này, Tỷ-kheo ấy, này các Tỷ-kheo, được gọi là Tỷ-kheo đã chặt đứt khát ái, đã giải tỏa kiết sử do chơn chánh
 hiện quán kiêu mạn, đã đoạn tận khổ đau.
 
 **(XI) (106) Khát Ái**
@@ -29580,7 +29580,7 @@ Thế Tôn thuyết như vậy, các Tỷ-kheo hoan hỷ tín thọ lời Thế 
 
 1. Như vầy tôi nghe:
 
-Một thời, Thế Tôn trú ở Sàvathì, Jetavana, khu vườn ông Anàthapindika. Tại đấy, Thế Tôn gọi các Tỷkheo:
+Một thời, Thế Tôn trú ở Sàvathì, Jetavana, khu vườn ông Anàthapindika. Tại đấy, Thế Tôn gọi các Tỷ-kheo:
 
 - Này các Tỷ-kheo.
 
@@ -29643,7 +29643,7 @@ Ngự Trượng Phu, Thiên Nhơn Sư, Phật Thế Tôn”. Này các Tỷ-kheo
 Và này các Tỷ-kheo, thế nào là tấn lực?
 
 4. Ở đây, này các Tỷ-kheo, Thánh đệ tử sống tinh cần tinh tấn để đoạn tận các pháp bất thiện, làm sanh
-khởi các pháp thiện, nỗ lực, kiên trì, không có bỏ rơi gánh nặng đối với các pháp thiện. Này các Tỷkheo, đây gọi là tấn lực.
+khởi các pháp thiện, nỗ lực, kiên trì, không có bỏ rơi gánh nặng đối với các pháp thiện. Này các Tỷ-kheo, đây gọi là tấn lực.
 
 Và này các Tỷ-kheo, thế nào là tàm lực?
 
@@ -29714,7 +29714,7 @@ Tôn, bậc A-la-hán... Phật, Thế Tôn”. Này các Tỷ-kheo, đây gọi
 
 Và này các Tỷ-kheo, thế nào là giới tài?
 
-4. Ở đây, này các Tỷ-kheo, Thánh đệ tử từ bỏ sát sanh... từ bỏ đắm say rượu men rượu nấu. Này các Tỷkheo, đây gọi là giới tài.
+4. Ở đây, này các Tỷ-kheo, Thánh đệ tử từ bỏ sát sanh... từ bỏ đắm say rượu men rượu nấu. Này các Tỷ-kheo, đây gọi là giới tài.
 
 Và này các Tỷ-kheo, thế nào là tàm tài?
 5. Ở đây, này các Tỷ-kheo, Thánh đệ tử có xấu hổ, xấu hổ đối với thân làm ác, miệng nói ác, ý nghĩ ác,
@@ -29832,7 +29832,7 @@ hạnh được sống.
 
 3. Này các Tỷ-kheo, do đoạn tận, cắt đứt bảy tùy miên này, Phạm hạnh được sống. Này các Tỷ-kheo,
 khi nào Tỷ-kheo nào đoạn tận dục tham tùy miên... vô minh tùy miên, cắt đứt tận gốc rễ, làm cho như
-thân cây sàla, làm cho không thể tái sanh, làm cho không thể sanh khởi trong tương lai, này các Tỷkheo, đây gọi là Tỷ-kheo đã chặt đứt khát ái, đã giải tỏa tùy miên, với chơn chánh hiện quán kiêu mạn,
+thân cây sàla, làm cho không thể tái sanh, làm cho không thể sanh khởi trong tương lai, này các Tỷ-kheo, đây gọi là Tỷ-kheo đã chặt đứt khát ái, đã giải tỏa tùy miên, với chơn chánh hiện quán kiêu mạn,
 đã đoạn tận khổ đau.
 
 **(III) (13) Gia Ðình**
@@ -29863,7 +29863,7 @@ dường, đáng được chắp tay, là ruộng phước vô thượng ở đ�
 
 2. Ở đây, này các Tỷ-kheo, có hạng người lặn một lần rồi chìm luôn; ở đây, này các Tỷ-kheo, có hạng
 người sau khi nổi lên, lại chìm xuống; ở đây, này các Tỷ-kheo, có hạng người sau khi nổi lên, được
-đứng lại; ở đây, này các Tỷ-kheo, có hạng người sau khi nổi lên, lại nhìn và thấy; ở đây, này các Tỷkheo, có hạng người sau khi nổi lên lại bơi tới; ở đây, này các Tỷ-kheo, có hạng người sau khi nổi lên,
+đứng lại; ở đây, này các Tỷ-kheo, có hạng người sau khi nổi lên, lại nhìn và thấy; ở đây, này các Tỷ-kheo, có hạng người sau khi nổi lên lại bơi tới; ở đây, này các Tỷ-kheo, có hạng người sau khi nổi lên,
 đạt được chỗ có chân đứng; ở đây, này các Tỷ-kheo, có hạng người sau khi nổi lên, sau khi bơi qua đến
 được bờ bên kia, lên đứng trên đất liền, là một vị Bà-la-môn. Và này các Tỷ-kheo, thế nào là hạng
 người, lặn một lần rồi chìm luôn?
@@ -30138,7 +30138,7 @@ Một thời, Thế Tôn trú ở Vương Xá, tại núi Linh Thứu (Gijjhakù
 
 Các Tỷ-kheo ấy vâng đáp Thế Tôn. Thế Tôn nói như sau:
 
-2. - Và này các Tỷ-kheo, thế nào là bảy pháp không bị suy giảm? Này các Tỷ-kheo, khi nào chúng Tỷkheo thường hay tụ họp và tụ họp đông đảo với nhau, thời này các Tỷ-kheo, chúng Tỷ-kheo sẽ được lớn
+2. - Và này các Tỷ-kheo, thế nào là bảy pháp không bị suy giảm? Này các Tỷ-kheo, khi nào chúng Tỷ-kheo thường hay tụ họp và tụ họp đông đảo với nhau, thời này các Tỷ-kheo, chúng Tỷ-kheo sẽ được lớn
 mạnh, không bị suy giảm.
 
 Này các Tỷ-kheo, khi nàc chúng Tỷ-kheo tụ họp trong niệm đoàn kết, giải tán trong niệm đoàn kết, và
@@ -30146,7 +30146,7 @@ làm việc Tăng sự trong niệm đoàn kết, thời này các Tỷ-kheo, ch
 bị suy giảm.
 
 Này các Tỷ-kheo, khi nào chúng Tỷ-kheo không ban hành những luật lệ không được ban hành, không
-hủy bỏ những luật lệ đã được ban hành, sống đúng với những học giới được ban hành, thời này các Tỷkheo, chúng Tỷ-kheo sẽ được lớn mạnh, không bị suy giảm.
+hủy bỏ những luật lệ đã được ban hành, sống đúng với những học giới được ban hành, thời này các Tỷ-kheo, chúng Tỷ-kheo sẽ được lớn mạnh, không bị suy giảm.
 
 Này các Tỷ-kheo, khi nào chúng Tỷ-kheo tôn sùng, kính trọng, đảnh lễ, cúng dường các bậc Tỷ-kheo
 Thượng tọa, những vị này là những vị giàu kinh nghiệm, niên cao lạp trưởng, bậc cha của chúng Tăng,
@@ -30381,7 +30381,7 @@ nhận ta”, thân phía hữu hướng về Ngài rồi biến mất tại ch�
 2. Rồi Thế Tôn, sau khi đêm ấy đã qua, liền bảo các vị Tỷ-kheo:
 
 - Ðêm nay, này các Tỷ-kheo, một Thiên nhân sau khi đêm đã gần mãn, với dung sắc thù thắng chói sáng
-toàn vùng Jetavana đi đến Ta; sau khi đến, đảnh lễ Ta rồi đứng một bên. Ðứng một bên, này các Tỷkheo, Thiên nhân ấy thưa với Ta: “Có bảy pháp, bạch Thế Tôn, không đưa Tỷ-kheo đến đọa lạc. Thế
+toàn vùng Jetavana đi đến Ta; sau khi đến, đảnh lễ Ta rồi đứng một bên. Ðứng một bên, này các Tỷ-kheo, Thiên nhân ấy thưa với Ta: “Có bảy pháp, bạch Thế Tôn, không đưa Tỷ-kheo đến đọa lạc. Thế
 nào là bảy? Tôn kính bậc Ðạo Sư, tôn kính Pháp; tôn kính Tăng, tôn kính học pháp; tôn kính định; tôn
 kính không phóng dật, tôn kính nghinh đón. Bảy pháp này bạch Thế Tôn, không đưa Tỷ-kheo đến đọa
 lạc”. Này các Tỷ-kheo, Thiên nhân ấy nói như vậy, sau khi nói xong, đảnh lễ Ta, thân phía hữu hướng
@@ -30431,7 +30431,7 @@ nhân ấy nói như vậy, sau khi nói xong, đảnh lễ Ta, thân bên hữu
 2. Ðược nghe nói vậy, Tôn giả Sàriputta bạch Thế Tôn:
 
 3. - Lời nói vắn tắt này của Thế Tôn, bạch Thế Tôn, con hiểu một cách rộng rãi như sau: Ở đây, bạch
-Thế Tôn, Tỷ-kheo tự mình tôn kính bậc Ðạo Sư, tán thán sự tôn kính bậc Ðạo Sư. Ðối với những Tỷkheo khác không tôn kính bậc Ðạo Sư, vị ấy khích lệ họ tôn kính bậc Ðạo Sư. Ðối với những Tỷ-kheo
+Thế Tôn, Tỷ-kheo tự mình tôn kính bậc Ðạo Sư, tán thán sự tôn kính bậc Ðạo Sư. Ðối với những Tỷ-kheo khác không tôn kính bậc Ðạo Sư, vị ấy khích lệ họ tôn kính bậc Ðạo Sư. Ðối với những Tỷ-kheo
 khác tôn kính bậc Ðạo Sư, vị ấy tán thán một cách chơn thật, chơn chánh, đúng thời. Tự mình tôn kính
 Pháp... tự mình tôn kính chúng Tăng... tự mình tôn kính học pháp... tự mình tôn kính thiện ngôn... tự
 mình tôn kính thiện bằng hữu, tán thán sự tôn kính thiện bằng hữu. Ðối với những Tỷ-kheo khác không
@@ -31135,7 +31135,7 @@ thưa Tôn giả, Ðại vương Vessavana sau khi biết được con đã đ�
 - “Lành thay, hởi vị có bộ mặt hiền! Hãy lấy pháp môn được tôi nói đến hôm qua, làm quà tặng đón
 khách cho Ngài.”
 
-- “Lành thay, này Chị! Phải, pháp môn này hãy là quà tặng đón khách của tôi! Ngày mai, chúng Tỷkheo, với Sàriputta và Moggallàna là các vị cầm đầu, sẽ đến Velukantaka, nhưng chưa ăn sáng. Sau khi
+- “Lành thay, này Chị! Phải, pháp môn này hãy là quà tặng đón khách của tôi! Ngày mai, chúng Tỷ-kheo, với Sàriputta và Moggallàna là các vị cầm đầu, sẽ đến Velukantaka, nhưng chưa ăn sáng. Sau khi
 Chị mời chúng Tỷ-kheo dùng xong, hãy tuyên bố chính ta đã cúng dường.”
 
 Thưa Tôn giả, mong rằng mọi công đức của buổi cúng dường này sẽ đem lại an lạc cho đại vương
@@ -32039,7 +32039,7 @@ do tuần, rộng 84 ngàn do tuần, chìm xuống biển lớn 84 ngàn do tu�
 tuần. Này các Tỷ-kheo, rồi có thời, nhiều năm, nhiều trăm năm, nhiều ngàn năm, nhiều trăm ngàn năm,
 trời không mưa. Khi không có mưa, các loài chủng tử, các loài thực vật, các rừng rậm dược thảo đều
 khô héo cằn cỗi không có tồn tại. Như vậy, này các Tỷ-kheo, các hành là vô thường. Này các Tỷ-kheo,
-các hành là không có kiên cố. Này các Tỷ-kheo, các hành là không an ổn. Cho đến như vậy, này các Tỷkheo, là vừa đủ để nhàm chán, là vừa đủ để ly tham, là vừa đủ để giải thoát đối với tất cả các cành. Này
+các hành là không có kiên cố. Này các Tỷ-kheo, các hành là không an ổn. Cho đến như vậy, này các Tỷ-kheo, là vừa đủ để nhàm chán, là vừa đủ để ly tham, là vừa đủ để giải thoát đối với tất cả các cành. Này
 các Tỷ-kheo, rồi có thời, sau một thời gian rất dài, mặt trời thứ hai hiện ra.
 
 3. Này các Tỷ-kheo, khi mặt trời thứ hai có mặt, thời tất cả sông nhỏ, ao nhỏ khô cạn, khô kiệt, không có
@@ -32102,7 +32102,7 @@ Thiên ở Thiên giới Ba mươi ba, một số được sanh cọng trú vớ
 10. Rồi này các Tỷ-kheo, Ðạo Sư Sunetta suy nghĩ như sau: “Thật không xứng đáng cho ta trong đời sau
 lại có một sanh thú giống như sanh thú của các đệ tử. Vậy ta hãy tu tập tối thượng từ bi”. Rồi này các
 Tỷ-kheo, bậc Ðạo sư Sunetta trong bảy năm tu tập từ tâm. Sau khi tu tập từ tâm bảy năm, trong bảy năm
-thành kiếp hoại kiếp, vị ấy không trở lui lại thế giới này. Trong kiếp thành của thế giới, này các Tỷkheo, vị ấy đi đến thế giới của Abhassara (Quang Âm thiên). Trong kiếp hoại của thế giới, vị ấy được
+thành kiếp hoại kiếp, vị ấy không trở lui lại thế giới này. Trong kiếp thành của thế giới, này các Tỷ-kheo, vị ấy đi đến thế giới của Abhassara (Quang Âm thiên). Trong kiếp hoại của thế giới, vị ấy được
 sanh trong Phạm cung trống không. Tại đấy này các Tỷ-kheo, vị ấy là Phạm thiên, Ðại Phạm thiên, bậc
 chiến thắng, bậc vô năng, bấc biến tri, bậc tự tại. Ba mươi sáu lần, này các Tỷ-kheo, vị ấy là Thiên chủ
 Sakka. Nhiều lần bảy lần, vị ấy là vị Chuyển luân Thánh vương theo Chánh pháp, là vị pháp vương, bậc
@@ -32379,7 +32379,7 @@ trong khi cây Kovilàra Pàricchattaka mọc ra đọt non cánh hoa, này các
 Tàvatimsa hoan hỷ nghĩ rằng: “Nay cây Kovilàra Pàricchattaka mọc ra đọt non cánh hoa, không bao lâu
 các nụ hoa... sẽ được sanh ra”. Này các Tỷ-kheo, trong khi cây Kovilàra Pàricchattaka của chư Thiên
 Tàvatimsa sanh ra nụ hoa, này các Tỷ-kheo, trong khi ấy, chư Thiên Tàvatimsa hoan hỷ nghĩ rằng: “Nay
-cây Kovilàra Pàricchattaka sanh ra nụ hoa, không bao lâu, các bông hoa sẽ được sanh ra”. Này các Tỷkheo, trong khi cây Kovilàra sanh ra các bông hoa, này các Tỷ-kheo, trong khi ấy, chư Thiên Tàvatimsa
+cây Kovilàra Pàricchattaka sanh ra nụ hoa, không bao lâu, các bông hoa sẽ được sanh ra”. Này các Tỷ-kheo, trong khi cây Kovilàra sanh ra các bông hoa, này các Tỷ-kheo, trong khi ấy, chư Thiên Tàvatimsa
 hoan hỷ nghĩ rằng: “Nay cây Kovilàra Pàricchattaka sanh ra các bông hoa, không bao lâu, các bông hoa
 sẽ được nở toàn diện”. Này các Tỷ-kheo, trong khi cây Kovilàra có bông hoa được nở toàn diện, này các
 Tỷ-kheo, chư Thiên Tàvatimsa hoan hỷ, chơi đùa trong bốn tháng chư Thiên, dưới gốc cây Kovilàra
@@ -32413,11 +32413,11 @@ tin với Tôn giả với họ tên như thế này đã xuất gia từ làng 
 sống không gia đình, sau khi đoạn diệt các lậu hoặc ngay trong hiện tại, tự mình thắng trí, chứng ngộ,
 chứng đạt và an trú vô lậu tâm giải thoát, tuệ giải thoát”.
 
-Như vậy trong sát-ma ấy, trong giây phút ấy, tiếng ấy truyền đến Phạm thiên giới. Ðây là uy lực của Tỷkheo đã đoạn tận các lậu hoặc.
+Như vậy trong sát-ma ấy, trong giây phút ấy, tiếng ấy truyền đến Phạm thiên giới. Ðây là uy lực của Tỷ-kheo đã đoạn tận các lậu hoặc.
 
 **(VI) (66) Vị Tỷ Kheo Phải Kính Trọng Ai?**
 
-1. Rồi Tôn giả Sàriputta, trong khi sống một mình, Thiền tịnh, tâm tư suy nghĩ như sau khởi lên: “Vị Tỷkheo cung kính tôn trọng, sống nương tựa ai để có thể từ bỏ bất thiện, tu tập thiện?” Rồi Tôn giả
+1. Rồi Tôn giả Sàriputta, trong khi sống một mình, Thiền tịnh, tâm tư suy nghĩ như sau khởi lên: “Vị Tỷ-kheo cung kính tôn trọng, sống nương tựa ai để có thể từ bỏ bất thiện, tu tập thiện?” Rồi Tôn giả
 Sàriputta suy nghĩ như sau: “Tỷ-kheo cung kính tôn trọng, sống nương tựa Ðạo Sư để có thể từ bỏ bất
 thiện, tu tập thiện. Tỷ-kheo cung kính tôn trọng, sống nương tựa Pháp... chúng Tăng... Học pháp...
 Ðịnh... không phóng dật... Tỷ-kheo cung kính, tôn trọng, sống nương tựa tiếp đón thân tình để có thể từ
@@ -32489,7 +32489,7 @@ cung kính Thiền định, sẽ không cung kính không phóng dật, sự ki�
 Tỷ-kheo nào cung kính Ðạo Sư, cung kính Pháp, cung kính chúng Tăng, cung kính Học pháp, cung kính
 Thiền định, vị ấy cũng cung kính không phóng dật. Bạch Thế Tôn, chắc chắn Tỷ-kheo nào cung kính
 Ðạo Sư, cung kính Pháp, cung kính chúng Tăng, cung kính Học pháp, cung kính Thiền định, cung kính
-không phóng dật, sẽ không cung kính tiếp đón thân tình, sự kiện này không xảy ra. Bạch Thế Tôn, Tỷkheo nào cung kính Ðạo Sư, cung kính Pháp, cung kính chúng Tăng, cung kính Học pháp, cung kính
+không phóng dật, sẽ không cung kính tiếp đón thân tình, sự kiện này không xảy ra. Bạch Thế Tôn, Tỷ-kheo nào cung kính Ðạo Sư, cung kính Pháp, cung kính chúng Tăng, cung kính Học pháp, cung kính
 Thiền định, cung kính không phóng dật, vị ấy cũng cung kính tiếp đón thân tình. Bạch Thế Tôn, với lời
 vắn tắt này của Thế Tôn, con hiểu ý nghĩa một cách rộng rãi như vậy.
 
@@ -32609,7 +32609,7 @@ lớn ấy đang cháy đỏ, cháy đỏ rực, cháy đỏ lửa ngọn. Vì c
 người ấy có thể đi đến chết, hay đi đến gần như chết, nhưng không vì nhân duyên ấy, sau khi thân hoại
 mạng chung, có thể sanh vào cõi dữ, ác thú, đọa xứ, địa ngục. Nhưng này các Tỷ-kheo, khi một người ác
 giới theo ác pháp... tánh tình bất tịnh, ôm ấp, ngồi gần, hay nằm gần tay chân mềm mại non trẻ của
-người con gái Sát-đế-lỵ, hay người con gái Bà-la-môn, hay người con gái gia chủ; như vậy, này các Tỷkheo, khiến cho vị ấy bất hạnh đau khổ lâu dài, sau khi thân hoại mạng chung, sanh vào cõi dữ, ác thú,
+người con gái Sát-đế-lỵ, hay người con gái Bà-la-môn, hay người con gái gia chủ; như vậy, này các Tỷ-kheo, khiến cho vị ấy bất hạnh đau khổ lâu dài, sau khi thân hoại mạng chung, sanh vào cõi dữ, ác thú,
 đọa xứ, địa ngục.
 
 2. Các Thầy nghĩ thế nào, này các Tỷ-kheo, việc gì là tốt hơn: Một người lực sĩ, với sợi dây đuôi ngựa
@@ -32658,10 +32658,10 @@ các tấm sắt nóng đang cháy đỏ, cháy đỏ rực, cháy đỏ lửa n
 
 - Ta tuyên bố cho các Thầy, này các Tỷ-kheo, Ta nêu rõ cho các Thầy, này các Tỷ-kheo, với một người
 ác giới, theo ác pháp, tánh tình bất tịnh, thật là tốt hơn bị một người lực sĩ với các tấm sắt nóng đang
-cháy đỏ, cháy đỏ rực, cháy đỏ lửa ngọn áp cuốn vào thân. Vì cớ sao? Vì do nguyên nhân ấy, này các Tỷkheo, người ấy đi đến chết hay đi đến khổ gần như chết, nhưng không vì nhân duyên ấy, sau khi thân
+cháy đỏ, cháy đỏ rực, cháy đỏ lửa ngọn áp cuốn vào thân. Vì cớ sao? Vì do nguyên nhân ấy, này các Tỷ-kheo, người ấy đi đến chết hay đi đến khổ gần như chết, nhưng không vì nhân duyên ấy, sau khi thân
 hoại mạng chung, có thể sanh vào cõi dữ, ác thú, đọa xứ, địa ngục. Nhưng này các Tỷ-kheo, khi một
 người ác giới, theo ác pháp, sở hành bất tịnh... tánh tình bất tịnh, hưởng thọ các y áo, do các Sát-đế-lỵ
-đại phú, các Bà-la-môn đại phú, hay các gia chủ đại phú, vì lòng tin cúng dường; như vậy, này các Tỷkheo, khiến cho vị ấy bất hạnh, đau khổ lâu dài, sau khi thân hoại mạng chung, sanh vào cõi dữ, ác thú,
+đại phú, các Bà-la-môn đại phú, hay các gia chủ đại phú, vì lòng tin cúng dường; như vậy, này các Tỷ-kheo, khiến cho vị ấy bất hạnh, đau khổ lâu dài, sau khi thân hoại mạng chung, sanh vào cõi dữ, ác thú,
 đọa xứ, địa ngục.
 
 5. Các Thầy nghĩ thế nào, này các Tỷ-kheo, việc nào tốt hơn: Bị một người lực sĩ với cái kềm sắt nóng,
@@ -32935,7 +32935,7 @@ Do chặn đứng bảy pháp này, này các Tỷ-kheo, thành vị A-la-hán.
 
 1. - Này các Tỷ-kheo, có bảy phi diệp pháp này. Thế nào là bảy?
 
-2. Bất tín, không xấu hổ, không sợ hãi, không nghe nhiều, biếng nhác, thất niệm, ác tuệ. Này các Tỷkheo, có bảy phi diệu pháp này.
+2. Bất tín, không xấu hổ, không sợ hãi, không nghe nhiều, biếng nhác, thất niệm, ác tuệ. Này các Tỷ-kheo, có bảy phi diệu pháp này.
 
 **(X)(10) Diệu Pháp**
 
@@ -33096,7 +33096,7 @@ Này các Tỷ-kheo, đây là nhân thứ hai, duyên thứ hai khiến căn b�
 chứng được với trí tuệ, nếu chứng được thời đưa đến tăng trưởng, tăng rộng, được tu tập, được viên
 mãn.
 
-4. Vị ấy sau khi nghe pháp, cố gắng thành tựu hai sự an tịnh: Thân an tịnh và tâm an tịnh. Này các Tỷkheo, đây là nhân thứ ba ... được viên mãn.
+4. Vị ấy sau khi nghe pháp, cố gắng thành tựu hai sự an tịnh: Thân an tịnh và tâm an tịnh. Này các Tỷ-kheo, đây là nhân thứ ba ... được viên mãn.
 
 5. Vị ấy có giới đức, sống chế ngự với sự chế ngự của giới bổn, đầy đủ uy nghi chánh hạnh, thấy sợ hãi
 trong những lỗi nhỏ nhặt, chấp nhận và học tập các học pháp. Này các Tỷ-kheo, đây là nhân thứ tư ...
@@ -33435,7 +33435,7 @@ thọ trì pháp môn này. Thưa Tôn giả, pháp môn này liên hệ đến 
 **(XI) (9) Tôn Giả Nanda**
 
 1. - Này các Tỷ-kheo, nói một cách chơn chánh về Nanda, có thể nói như sau: “Là Thiện nam tử”. Này
-các Tỷ-kheo, nói một cách chơn chánh về Nanda, có thể nói như sau: “Là vị có sức mạnh”. Này các Tỷkheo, nói một cách chơn chánh về Nanda, có thể nói như sau: “Là vị có tịnh tín”. Này các Tỷ-kheo, nói
+các Tỷ-kheo, nói một cách chơn chánh về Nanda, có thể nói như sau: “Là vị có sức mạnh”. Này các Tỷ-kheo, nói một cách chơn chánh về Nanda, có thể nói như sau: “Là vị có tịnh tín”. Này các Tỷ-kheo, nói
 một cách chơn chánh về Nanda, có thể nói như sau: “Là vị có ái dục sắc bén”.
 
 Ai khác ngoài Nanda, này các Tỷ-kheo, thành tựu chế ngự các căn, biết tiết độ trong ăn uống, chú tâm
@@ -33489,7 +33489,7 @@ cảnh giác, chánh niệm tỉnh giác? Nhờ vậy, Nanda có thể hành Ph�
 phạm tội. Vị ấy bị các Tỷ-kheo buộc tội, tránh né vấn đề với một vấn đề khác, hướng câu chuyện ra
 ngoài, và hiện tướng phẫn nộ, sân hận và bất mãn. Rồi Thế Tôn bảo các Tỷ-kheo:
 
-2. - Này các Tỷ-kheo, hãy đuổi người này ra! Này các Tỷ-kheo, hãy tấn xuất người này ra! Này các Tỷkheo, người này đáng bị khai trừ.
+2. - Này các Tỷ-kheo, hãy đuổi người này ra! Này các Tỷ-kheo, hãy tấn xuất người này ra! Này các Tỷ-kheo, người này đáng bị khai trừ.
 
 Ở đây, này các Tỷ-kheo, khi nào một người đi ra, đi vào, nhìn lên, nhìn xung quanh, co tay, duỗi tay,
 mang y sanghàti, bát và y, như vậy, như các Tỷ-kheo hiền thiện khác, cho đến khi các Tỷ-kheo không
@@ -33505,7 +33505,7 @@ luôn cả rễ, và quăng cây lúa mì ấy ra khỏi ruộng lúa. Vì cớ 
 uế nhiễm các cây lúa mì hiền thiện khác”.
 
 Cũng vậy, này các Tỷ-kheo, ở đây, khi nào một người đi ra, đi vào, nhìn lên, nhìn xung quanh, co tay,
-duỗi tay, mang y sanghàti, bát và y, như vậy, như các Tỷ-kheo hiền thiện khác, cho đến không các Tỷkheo không thấy người ấy phạm tội. Nhưng khi các Tỷ-kheo thấy người ấy phạm tội, họ biết được:
+duỗi tay, mang y sanghàti, bát và y, như vậy, như các Tỷ-kheo hiền thiện khác, cho đến không các Tỷ-kheo không thấy người ấy phạm tội. Nhưng khi các Tỷ-kheo thấy người ấy phạm tội, họ biết được:
 “Người này là Sa-môn giả hiệu, Sa-môn rơm, Sa-môn rác”. Sau khi biết người ấy là như vậy, họ đuổi
 người ấy ra ngoài. Vì cớ sao? “Chớ để cho người ấy làm uế nhiễm các Tỷ kheo hiền thiện khác “.
 
@@ -33515,7 +33515,7 @@ cứng, có hạt, chúng được chất thành đống một bên; còn nhữn
 để cho lúa ấy làm uế nhiễm các hạt lúa hiền thiện khác “.
 
 Cũng vậy, này các Tỷ-kheo, ở đây, khi nào một người đi ra, đi vào, nhìn lên, nhìn xung quanh, co tay,
-duỗi tay, mang y sanghàti, bát và y, như vậy, như các Tỷ-kheo hiền thiện khác, cho đến khi nào các Tỷkheo không thấy người ấy phạm tội. Nhưng khi các Tỷ-kheo thấy người ấy phạm tội, họ biết được:
+duỗi tay, mang y sanghàti, bát và y, như vậy, như các Tỷ-kheo hiền thiện khác, cho đến khi nào các Tỷ-kheo không thấy người ấy phạm tội. Nhưng khi các Tỷ-kheo thấy người ấy phạm tội, họ biết được:
 “Người này là Sa-môn ô uế, Sa-môn rơm rạ, Sa-môn rác rưởi”. Sau khi biết người ấy là như vậy, họ
 đuổi người ấy ra ngoài. Vì cớ sao? “Chớ để cho người ấy làm uế nhiễm các Tỷ kheo hiền thiện khác “.
 5. Ví như, này các Tỷ-kheo, một người cần một số ống nước, lấy một cây búa sắc bén và đi vào rừng, và
@@ -33526,7 +33526,7 @@ gốc ; sau khi chặt gốc, người ấy chặt ngọn; sau khi chặt ngọn
 sạch; khi rửa phía trong cho thật sạch rồi, người ấy nối liền các ống ấy lại.
 
 Cũng vậy, này các Tỷ-kheo, ở đây, khi nào một người đi ra, đi vào, nhìn lên, nhìn xung quanh, co tay,
-duỗi tay, mang y sanghàti, bát và y, như vậy, như các Tỷ-kheo hiền thiện khác, cho đến không các Tỷkheo không thấy người ấy phạm tội. Nhưng khi các Tỷ-kheo thấy người ấy phạm tội, họ biết được:
+duỗi tay, mang y sanghàti, bát và y, như vậy, như các Tỷ-kheo hiền thiện khác, cho đến không các Tỷ-kheo không thấy người ấy phạm tội. Nhưng khi các Tỷ-kheo thấy người ấy phạm tội, họ biết được:
 “Người này là Sa-môn giả hiệu, Sa-môn rơm rạ, Sa-môn rác rưởi”. Sau khi biết người ấy là như vậy, họ
 đuổi người ấy ra ngoài. Vì cớ sao? “Chớ để cho người ấy làm uế nhiễm các Tỷ kheo hiền thiện khác “.
 
@@ -33863,7 +33863,7 @@ vậy. Này Sìha, đây là pháp môn, với pháp môn ấy, nếu nói một
 - Thật vi diệu thay! Bạch Thế Tôn! Thật vi diệu thay! Bạch Thế Tôn, như người dựng đứng lại những gì
 bị quăng ngã xuống, phơi bày ra những gì bị che kín, chỉ đường cho kẻ bị lạc hướng, đem đèn sáng vào
 trong bóng tối để những ai có mắt có thể thấy sắc. Cũng vậy, Chánh pháp đã được Tôn giả Gotama dùng
-nhiều phương tiện trình bày, giải thích. Vậy nay con xin quy y Thế Tôn, quy y pháp, quy y chúng Tỷkheo Tăng. Mong Thế Tôn nhận con làm đệ tử cư sĩ, từ nay cho đến mạng chung, con trọn đời quy
+nhiều phương tiện trình bày, giải thích. Vậy nay con xin quy y Thế Tôn, quy y pháp, quy y chúng Tỷ-kheo Tăng. Mong Thế Tôn nhận con làm đệ tử cư sĩ, từ nay cho đến mạng chung, con trọn đời quy
 ngưỡng.
 
 - Này Sìha, hãy chín chắn suy tư, hãy chín chắn suy tư là tốt đẹp với những người trứ danh như Ông.
@@ -34017,7 +34017,7 @@ Này các Tỷ-kheo, đây là tám loại ngựa chưa được điều phục 
 người?
 
 Ở đây, này các Tỷ-kheo, các Tỷ-kheo buộc tội một Tỷ-kheo phạm tội. Tỷ-kheo ấy bị các Tỷ-kheo buộc
-tội, tránh né (vấn đề) như là không nhớ, nói rằng: “Tôi không nhớ, tôi không nhớ “. Ví như, này các Tỷkheo, con ngựa chưa được điều phục ấy, khi bảo đi, bị gậy thúc, hay bị người đánh xe la, nó đi lùi với
+tội, tránh né (vấn đề) như là không nhớ, nói rằng: “Tôi không nhớ, tôi không nhớ “. Ví như, này các Tỷ-kheo, con ngựa chưa được điều phục ấy, khi bảo đi, bị gậy thúc, hay bị người đánh xe la, nó đi lùi với
 cái lưng làm cho cái xe chạy vòng lại. Này các Tỷ-kheo, Ta nói rằng, người này giống như ví dụ ấy.
 Như vậy, này các Tỷ-kheo, đây là hạng người chưa được điều phục. Này các Tỷ-kheo, đây là tánh xấu
 thứ nhất của con người.
@@ -34046,7 +34046,7 @@ phục. Này các Tỷ-kheo, đây là tánh xấu thứ tư của con người.
 14. Lại nữa, này các Tỷ-kheo, các Tỷ-kheo buộc tội một Tỷ-kheo phạm tội. Tỷ-kheo ấy bị các Tỷ-kheo
 buộc tội, liền nói ba hoa, khua tay múa chân. Này các Tỷ-kheo, ví như con ngựa chưa được điều phục
 ấy, khi bảo đi, bị gậy thúc, hay bị người đánh xe la, liền trườn đứng phía thân trước và đạp lên không
-với chân trước. Này các Tỷ-kheo, Ta nói rằng, người này giống như ví dụ ấy. Như vậy, này các Tỷkheo, ở đây là hạng người chưa được điều phục. Này các Tỷ-kheo, đây là tánh xấu thứ năm của con
+với chân trước. Này các Tỷ-kheo, Ta nói rằng, người này giống như ví dụ ấy. Như vậy, này các Tỷ-kheo, ở đây là hạng người chưa được điều phục. Này các Tỷ-kheo, đây là tánh xấu thứ năm của con
 người.
 
 15. Lại nữa, này các Tỷ-kheo, các Tỷ-kheo buộc tội một Tỷ-kheo phạm tội. Tỷ-kheo ấy bị các Tỷ-kheo
@@ -34068,7 +34068,7 @@ Này các Tỷ-kheo, đây là tánh xấu thứ bảy của con người.
 buộc tội, nói như sau: “Tại sao các Tôn giả lại quá lo cho tôi. Bắt đầu từ nay, tôi sẽ từ bỏ học pháp và
 hoàn tục”. Rồi vị ấy sau khi từ bỏ học pháp và hoàn tục nói như sau: “Nay các Tôn giả ấy được hoan
 hỷ”. Này các Tỷ-kheo, ví như con ngựa chưa được điều phục ấy, khi bảo đi, bị gậy thúc, hay bị người
-đánh xe la, liền tréo lại hai chân trước, tréo lại hai chân sau và nằm xuống bốn chân tại đấy. Này các Tỷkheo, Ta nói rằng, người này giống như ví dụ ấy. Như vậy, này các Tỷ-kheo, đây là hạng người chưa
+đánh xe la, liền tréo lại hai chân trước, tréo lại hai chân sau và nằm xuống bốn chân tại đấy. Này các Tỷ-kheo, Ta nói rằng, người này giống như ví dụ ấy. Như vậy, này các Tỷ-kheo, đây là hạng người chưa
 được điều phục. Này các Tỷ-kheo, đây là tánh xấu thứ tám của con người.
 
 Này các Tỷ-kheo, đây là tám hạng người chưa được điều phục và tám tánh xấu của con người.
@@ -34131,7 +34131,7 @@ _Xứng đáng đi sứ giả._
 
 2. Này các Tỷ-kheo, nữ nhân trói buộc nam nhân với sắc; này các Tỷ-kheo nữ nhân trói buộc nam nhân
 với tiếng cười; này các Tỷ-kheo, nữ nhân trói buộc nam nhân với lời nói; này các Tỷ-kheo, nữ nhân trói
-buộc nam nhân với lời ca; này các Tỷ-kheo, nữ nhân trói buộc nam nhân với nước mắt; này các Tỷkheo, nữ nhân trói buộc nam nhân với áo quần; này các Tỷ-kheo, nữ nhân trói buộc nam nhân với vật
+buộc nam nhân với lời ca; này các Tỷ-kheo, nữ nhân trói buộc nam nhân với nước mắt; này các Tỷ-kheo, nữ nhân trói buộc nam nhân với áo quần; này các Tỷ-kheo, nữ nhân trói buộc nam nhân với vật
 tặng; này các Tỷ-kheo, nữ nhân trói buộc nam nhân với xúc chạm.
 
 Với tám hình tướng, này các Tỷ-kheo, nữ nhân trói buộc nam nhân. Các loài hữu tình bị khéo trói buộc
@@ -34143,7 +34143,7 @@ bởi các hình tướng ấy, giống như trói buộc bởi bẫy sập.
 
 2. Này các Tỷ-kheo, nam nhân trói buộc nữ nhân với sắc; này các Tỷ-kheo nam nhân trói buộc nữ nhân
 với tiếng cười; này các Tỷ-kheo, nam nhân trói buộc nữ nhân với lời nói; này các Tỷ-kheo, nam nhân
-trói buộc nữ nhân với lời ca; này các Tỷ-kheo, nam nhân trói buộc nữ nhân với nước mắt; này các Tỷkheo, nam nhân trói buộc nữ nhân với áo quần; này các Tỷ-kheo, nam nhân trói buộc nữ nhân với vật
+trói buộc nữ nhân với lời ca; này các Tỷ-kheo, nam nhân trói buộc nữ nhân với nước mắt; này các Tỷ-kheo, nam nhân trói buộc nữ nhân với áo quần; này các Tỷ-kheo, nam nhân trói buộc nữ nhân với vật
 tặng; này các Tỷ-kheo, nam nhân trói buộc nữ nhân với xúc chạm.
 
 Với tám hình tướng, này các Tỷ-kheo, nam nhân trói buộc nữ nhân. Các loài hữu tình bị khéo trói buộc
@@ -34302,7 +34302,7 @@ hãy đọc giới bổn cho các Tỷ-kheo.
 đã sáng rõ, từ chỗ ngồi, đứng dậy, đắp thượng y vào một bên vai, chắp tay vái chào Thế Tôn và bạch
 Thế Tôn:
 
-- Bạch Thế Tôn, đêm đã gần mãn, canh cuối đã qua, rạng đông đã khởi, mặt đêm đã sáng tỏ, chúng Tỷkheo đã ngồi lâu, bạch Thế Tôn, Thế Tôn hãy đọc giới bổn cho các Tỷ-kheo.
+- Bạch Thế Tôn, đêm đã gần mãn, canh cuối đã qua, rạng đông đã khởi, mặt đêm đã sáng tỏ, chúng Tỷ-kheo đã ngồi lâu, bạch Thế Tôn, Thế Tôn hãy đọc giới bổn cho các Tỷ-kheo.
 
 - Này Ananda, hội chúng không được thanh tịnh.
 
@@ -34368,7 +34368,7 @@ vậy, các Tỷ-kheo hoan hỷ trong Pháp và Luật này.
 
 **(I) (21) Ugga Ở Vesali**
 
-1. Một thời, Thế Tôn trú ở Vesàli, tại Ðại Lâm, ở ngôi nhà có nóc nhọn. Tại đấy, Thế Tôn bảo các Tỷkheo:
+1. Một thời, Thế Tôn trú ở Vesàli, tại Ðại Lâm, ở ngôi nhà có nóc nhọn. Tại đấy, Thế Tôn bảo các Tỷ-kheo:
 
 - “Này các Tỷ-kheo! “. - “Bạch Thế Tôn “.
 
@@ -34917,7 +34917,7 @@ người không biết đủ “, đã được nói đến như vậy. Do duyê
 20, Này các Tỷ-kheo, Pháp này để cho người sống viễn ly, Pháp này không phải để cho người ưa thích
 hội chúng”, như vậy đã được nói đến. Do duyên gì được nói như vậy?
 
-21. Ở đây, này các Tỷ-kheo, Với Tỷ-kheo sống viễn ly, có nhiều người đến thăm như Tỷ-kheo, Tỷkheo-Ni, nam cư sĩ, nữ cư sĩ, vua chúa, đại thần, các ngoại đạo sư, đệ tử của các ngoại đạo sư. Ở đây,
+21. Ở đây, này các Tỷ-kheo, Với Tỷ-kheo sống viễn ly, có nhiều người đến thăm như Tỷ-kheo, Tỷ-kheo-Ni, nam cư sĩ, nữ cư sĩ, vua chúa, đại thần, các ngoại đạo sư, đệ tử của các ngoại đạo sư. Ở đây,
 Tỷ-kheo với tâm thuận về viễn ly, hướng về viễn ly, nhập vào viễn ly, trú vào viễn ly, thích thú xuất ly,
 nói lời hoàn toàn liên hệ đến lánh xa. Này các Tỷ-kheo, Pháp này để cho người viễn ly, Pháp này không
 phải để cho người không ưa hội chúng”, đã được nói đến như vậy. Do duyên này được nói như vậy.
@@ -34940,7 +34940,7 @@ người thất niệm”, đã được nói đến như vậy. Do duyên này 
 26. Này các Tỷ-kheo, Pháp này để cho người thiền định, Pháp này không phải để cho người không thiền
 định”, như vậy đã được nói đến. Do duyên gì được nói như vậy?
 
-27. Ở đây, này các Tỷ-kheo, Tỷ-kheo ly dục, ly ác pháp ... chứng đạt và an trú Thiền thứ tư. Này các Tỷkheo, Pháp này để cho người thiền định, Pháp này không phải để cho người không thiền định”, đã được
+27. Ở đây, này các Tỷ-kheo, Tỷ-kheo ly dục, ly ác pháp ... chứng đạt và an trú Thiền thứ tư. Này các Tỷ-kheo, Pháp này để cho người thiền định, Pháp này không phải để cho người không thiền định”, đã được
 nói đến như vậy. Do duyên này được nói như vậy.
 
 28. Này các Tỷ-kheo, Pháp này để cho người có trí tuệ, Pháp này không phải để cho người không trí
@@ -35849,7 +35849,7 @@ tám pháp này, cho các Tỷ-kheo-ni cho đến trọn đời không vượt q
 Tôn; sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên.. Ngồi xuống một bên, Tôn giả Ananda bạch
 Thế Tôn:
 
-- Thành tựu bao nhiêu pháp, bạch Thế Tôn, Tỷ-kheo nên được chấp nhận là vị giáo giới cho các Tỷkheo-ni?
+- Thành tựu bao nhiêu pháp, bạch Thế Tôn, Tỷ-kheo nên được chấp nhận là vị giáo giới cho các Tỷ-kheo-ni?
 
 - Này Ananda, thành tựu tám pháp, Tỷ-kheo nên được chấp nhận là vị giáo giới cho các Tỷ-kheo-ni. Thế
 nào là tám?
@@ -36134,7 +36134,7 @@ phóng dật, và bỏ rơi diệu pháp.
 4. Ở đây, này các Tỷ-kheo, Có vị Tỷ-kheo trong khi sống nhàn tịnh, không có tinh tấn khởi lên ước
 muốn có lợi dưỡng. Vị ấy không hăng hái, không phấn chấn, không tinh tấn để được lợi dưỡng. Do vị ấy
 không hăng hái, không phấn chấn, không tinh tấn để được lợi dưỡng, lợi dưỡng không khởi lên. Vị ấy
-do không được lợi dưỡng, nên sầu muộn, than van, khóc lóc, đập ngực, rơi vào bất tỉnh. Ðây gọi là Tỷkheo sống ham muốn lợi dưỡng, không hăng hái, không phấn chấn, không tinh tấn để được lợi dưỡng;
+do không được lợi dưỡng, nên sầu muộn, than van, khóc lóc, đập ngực, rơi vào bất tỉnh. Ðây gọi là Tỷ-kheo sống ham muốn lợi dưỡng, không hăng hái, không phấn chấn, không tinh tấn để được lợi dưỡng;
 không được lợi dưỡng, vị ấy sầu muộn, than van, khóc lóc, bỏ rơi diệu pháp.
 
 5. Ở đây, này các Tỷ-kheo, Tỷ-kheo trong khi sống nhàn tịnh, không có tinh tấn khởi lên ước muốn có
@@ -36702,7 +36702,7 @@ trong hiện tại, tự mình chứng ngộ với thắng trí, chứng đạt 
 như vậy, vị ấy không đầy đủ chi phần này. Do vậy, cần phải làm cho đầy đủ chi phần ấy: “Làm thế nào
 để ta có được lòng tin, có giới, có nghe nhiều, là vị thuyết pháp sống với hội chúng, vô úy thuyết pháp
 cho hội chúng, với các tịch tịnh giải thoát vượt qua các sắc thuộc vô sắc ấy, sống với thân thấm nhuần,
-do đoạn diệt các lậu hoặc,... chứng ngộ, chứng đạt và an trú?” Cho đến khi nào, này các Tỷ-kheo, Tỷkheo có lòng tin, có giới, nghe nhiều, thuyết pháp, sống với hội chúng, vô úy thuyết pháp cho hội chúng,
+do đoạn diệt các lậu hoặc,... chứng ngộ, chứng đạt và an trú?” Cho đến khi nào, này các Tỷ-kheo, Tỷ-kheo có lòng tin, có giới, nghe nhiều, thuyết pháp, sống với hội chúng, vô úy thuyết pháp cho hội chúng,
 đối với các tịch tịnh giải thoát vượt qua các sắc thuộc vô sắc ấy, sống với thân thấm nhuần, do đoạn diệt
 các lậu hoặc, ... chứng ngộ, chứng đạt và an trú; như vậy, vị ấy được đầy đủ chi phần ấy.
 
@@ -36711,7 +36711,7 @@ mọi phương diện.
 
 **(III) (73) Niệm Chết (1)**
 
-1. Một thời, Thế Tôn trú ở Nàtika, tại Ginjakàvasatha. Tại đấy, Thế Tôn gọi các Tỷ-kheo: “Này các Tỷkheo”. “Thưa vâng, bạch Thế Tôn”.
+1. Một thời, Thế Tôn trú ở Nàtika, tại Ginjakàvasatha. Tại đấy, Thế Tôn gọi các Tỷ-kheo: “Này các Tỷ-kheo”. “Thưa vâng, bạch Thế Tôn”.
 
 Các Tỷ-kheo ấy vâng đáp Thế Tôn. Thế Tôn nói như sau:
 
@@ -36800,7 +36800,7 @@ lời dạy của Thế Tôn. Ta đã làm nhiều như vậy”.
 
 - Này các Tỷ-kheo, Tỷ-kheo này tu tập niệm chết như sau: “Mong rằng ta sống trọn ngày tác ý đến lời
 dạy của Thế Tôn, ta đã làm nhiều như vậy. Này các Tỷ-kheo, Tỷ-kheo này tu tập niệm chết như sau:
-“Mong rằng ta sống trọn nửa ngày tác ý đến lời dạy của Thế Tôn, ta đã làm nhiều như vậy”. Này các Tỷkheo, Tỷ-kheo này tu tập niệm chết như sau: “Mong rằng ta sống trọn nửa ngày tác ý đến lời dạy của
+“Mong rằng ta sống trọn nửa ngày tác ý đến lời dạy của Thế Tôn, ta đã làm nhiều như vậy”. Này các Tỷ-kheo, Tỷ-kheo này tu tập niệm chết như sau: “Mong rằng ta sống trọn nửa ngày tác ý đến lời dạy của
 Thế Tôn, ta đã làm nhiều như vậy”. Này các Tỷ-kheo, Tỷ-kheo này tu tập niệm chết như sau: “Mong
 rằng cho đến khi nào ta còn ăn phần đồ ăn khất thực, cho đến khi ấy, ta tác ý đến lời dạy của Thế Tôn.
 Ta đã làm nhiều như vậy”. Này các Tỷ-kheo, Tỷ-kheo này tu tập niệm chết như sau: “Mong rằng cho
@@ -36852,7 +36852,7 @@ thể làm ta mệnh chung. Như vậy sẽ là chướng ngại cho ta.”
 Này các Tỷ-kheo, Tỷ-kheo ấy cần phải suy xét như sau: “Nếu ta còn những pháp ác, bất thiện chưa được
 đoạn tận, nếu ta lỡ mệnh chung trong ngày, chúng có thể là chướng ngại cho ta”. Này các Tỷ-kheo, nếu
 Tỷ-kheo trong khi suy xét như vậy biết được như sau: “Ta có những pháp ác, bất thiện chưa được đoạn
-tận, nếu ta lỡ mệnh chung ngày hôm nay, chúng có thể là chướng ngại cho ta”. Này các Tỷ-kheo, Tỷkheo ấy, để đoạn tận các pháp ác, bất thiện ấy, cần phải tận lực tác động ước muốn, tinh cần, tinh tấn, nỗ
+tận, nếu ta lỡ mệnh chung ngày hôm nay, chúng có thể là chướng ngại cho ta”. Này các Tỷ-kheo, Tỷ-kheo ấy, để đoạn tận các pháp ác, bất thiện ấy, cần phải tận lực tác động ước muốn, tinh cần, tinh tấn, nỗ
 lực không có thối chuyển, chánh niệm và tỉnh giác. Cũng vậy, này các Tỷ-kheo, Tỷ-kheo ấy để đoạn tận
 các ác, bất thiện pháp ấy, cần phải tận lực tác động ước muốn, tinh tấn, tinh cần, nỗ lực, không có thối
 chuyển, chánh niệm và tỉnh giác. Nếu vị Tỷ-kheo ấy, trong khi suy xét biết được như sau: “Ta không có
@@ -36921,7 +36921,7 @@ thế nào là sống thăng bằng điều hòa?
 một cách thăng bằng điều hòa, không quá phung phí, không quá bỏn xẻn. Người ấy suy nghĩ: “Ðây là
 tiền nhập của ta, sau khi trừ đi tiền xuất, còn lại như sau: không phải là tiền xuất của ta, sau khi trừ tiền
 nhập, còn lại như vậy”. Ví như, này các Tỷ-kheo, người cầm cân hay đệ tử người cầm cân, sau khi cầm
-cân, biết rằng: “Với chừng ấy, cân nặng xuống; hay với chừng ấy, cân bổng lên”. Cũng vậy, này các Tỷkheo, thiện nam tử sau khi biết tài sản nhập, sau khi biết tài sản xuất, sinh sống một cách điều hỏa,
+cân, biết rằng: “Với chừng ấy, cân nặng xuống; hay với chừng ấy, cân bổng lên”. Cũng vậy, này các Tỷ-kheo, thiện nam tử sau khi biết tài sản nhập, sau khi biết tài sản xuất, sinh sống một cách điều hỏa,
 không quá phung phí, không quá bỏn xẻn, người ấy nghĩ rằng: “Ðây là tiền nhập của ta, sau khi trừ đi
 tiền xuất còn lại như vậy; không phải là tiền xuất của ta, sau khi trừ đi tiền nhập, còn lại như vậy. Này
 các Tỷ-kheo, nếu thiện nam tử này, tiền nhập vào ít, nhưng sống nếp sống rộng rãi (hoang phí), thời
@@ -36997,7 +36997,7 @@ tinh tấn để được lợi dưỡng; không được lợi dưỡng, nên s
 6. Ở đây, này các Tỷ-kheo, có Tỷ-kheo trong khi sống nhàn tịnh, không có tinh tấn, khởi lên ước muốn
 có lợi dưỡng. Vị ấy không hăng hái, không phấn chấn, không tinh tấn để được lợi dưỡng. Dầu vị ấy
 không hăng hái, không phấn chấn, không tinh tấn để được lợi dưỡng, lợi dưỡng khởi lên. Với lợi dưỡng
-ấy, vị ấy đắm say phóng dật, rơi vào trạng thái đắm say, phóng dật. Này các Tỷ-kheo, đây gọi là Tỷkheo sống ham muốn lợi dưỡng, không hăng hái, không phấn chấn, không tinh tấn để được lợi dưỡng;
+ấy, vị ấy đắm say phóng dật, rơi vào trạng thái đắm say, phóng dật. Này các Tỷ-kheo, đây gọi là Tỷ-kheo sống ham muốn lợi dưỡng, không hăng hái, không phấn chấn, không tinh tấn để được lợi dưỡng;
 được lợi dưỡng, bị đắm say, bị phóng dật và bỏ rơi diệu pháp.
 
 7. Ở đây, này các Tỷ-kheo, có Tỷ-kheo trong khi sống nhàn tịnh, không có tinh tấn, khởi lên ước muốn
@@ -37024,7 +37024,7 @@ không than van, không bỏ rơi diệu pháp.
 10. Ở đây, này các Tỷ-kheo, có Tỷ-kheo trong khi sống nhàn tịnh, không có tinh tấn, khởi lên ước muốn
 có lợi dưỡng. Vị ấy không hăng hái, không phấn chấn, không tinh tấn để được lợi dưỡng. Dầu cho vị ấy
 không hăng hái, không phấn chấn, không tinh tấn để được lợi dưỡng, lợi dưỡng khởi lên. Vị ấy, với lợi
-dưỡng ấy, không đắm say, không phóng dật, không rơi vào trạng thái đám say phóng dật. Này các Tỷkheo, đây gọi là Tỷ-kheo sống ham muốn lợi dưỡng, không hăng hái, không phấn chấn, không tinh tấn
+dưỡng ấy, không đắm say, không phóng dật, không rơi vào trạng thái đám say phóng dật. Này các Tỷ-kheo, đây gọi là Tỷ-kheo sống ham muốn lợi dưỡng, không hăng hái, không phấn chấn, không tinh tấn
 để được lợi dưỡng; được lợi dưỡng, không đăm say, không phóng dật, không bỏ rơi diệu pháp.
 
 Này các Tỷ-kheo, có tám hạng người này sống có mặt, hiện hữu ở đời.
@@ -37625,13 +37625,13 @@ Này các Tỷ-kheo, với Tỷ-kheo làm bạn với thiện, thân hữu với
 đợi như sau: Câu chuyện này có khả năng đoạn giảm, đưa đến tâm rộng mở, như luận về ít dục... những
 câu chuyện như vậy, có được không khó khăn, có không không mệt nhọc, có được không phí sức. Này
 các Tỷ-kheo, với Tỷ-kheo làm bạn với thiện, thân hữu với thiện, giao thiệp với thiện, thời được chờ đợi
-như sau: sẽ sống tinh cần tinh tấn để đoạn tận các pháp bất thiện... trong các thiện pháp. Này các Tỷkheo, với Tỷ-kheo làm bạn với thiện, thân hữu với thiện, giao thiệp với thiện, thời được chờ đợi như
+như sau: sẽ sống tinh cần tinh tấn để đoạn tận các pháp bất thiện... trong các thiện pháp. Này các Tỷ-kheo, với Tỷ-kheo làm bạn với thiện, thân hữu với thiện, giao thiệp với thiện, thời được chờ đợi như
 sau: sẽ có trí tuệ, thành tựu trí tuệ về sanh và diệt, với Thánh thể nhập đi đến con đường chơn chánh
 đoạn tận khổ đau.
 
 Và này các Tỷ-kheo, khi Tỷ-kheo ấy đã trú trong năm pháp này, bốn pháp nữa cần phải tu tập. Cần phải
 tu tập tưởng bất tịnh để đoạn tận tham ái, cần phải tu tập từ tâm để đoạn tận sân, cần phải tu tập niệm
-hơi thở vô, hơi thở ra để cắt đứt tầm, cần phải tu tập tưởng vô thường để phá hoại ngã mạn. Này các Tỷkheo, với Tỷ-kheo có tưởng vô thường, tưởng vô ngã được an trú; với Tỷ-kheo có tưởng vô ngã, ngã
+hơi thở vô, hơi thở ra để cắt đứt tầm, cần phải tu tập tưởng vô thường để phá hoại ngã mạn. Này các Tỷ-kheo, với Tỷ-kheo có tưởng vô thường, tưởng vô ngã được an trú; với Tỷ-kheo có tưởng vô ngã, ngã
 mạn bị phá hoại, ngay trong hiện tại, đạt được Niết-bàn.
 
 **(II) (2) Y Chỉ**
@@ -37643,7 +37643,7 @@ một bên, Tỷ-kheo ấy bạch Thế Tôn:
 Tỷ-kheo đầy đủ y chỉ?
 
 2. - Nếu Tỷ-kheo y chỉ lòng tin, đoạn tận bất thiện tu tập thiện, như vậy, với vị ấy, bất thiện được đoạn
-tận. Nếu Tỷ-kheo y chỉ tàm (xấu hổ)... nếu Tỷ-kheo y chỉ sợ hãi... nếu Tỷ-kheo y chỉ tinh tấn... nếu Tỷkheo y chỉ trí tuệ, đoạn tận bất thiện, tu tập thiện, như vậy với vị ấy, bất thiện được đoạn tận. Như vậy
+tận. Nếu Tỷ-kheo y chỉ tàm (xấu hổ)... nếu Tỷ-kheo y chỉ sợ hãi... nếu Tỷ-kheo y chỉ tinh tấn... nếu Tỷ-kheo y chỉ trí tuệ, đoạn tận bất thiện, tu tập thiện, như vậy với vị ấy, bất thiện được đoạn tận. Như vậy
 Tỷ-kheo ấy đã đoạn tận, đã khéo đoạn tận bất thiện, khi bất thiện ấy được thấy với Thánh trí tuệ và được
 đoạn tận. Này các Tỷ-kheo, sau khi Tỷ-kheo ấy an trú trong năm pháp này, có bốn pháp nữa vị ấy phải y
 chỉ. Thế nào là bốn?
@@ -38045,7 +38045,7 @@ cả nay nữa, này Sajjha, Ta đã nói như sau:
 “Tỷ-kheo nào là bậc A-la-hán, đã đoạn tận các lậu hoặc, đã thành tựu viên mãn, việc nên làm đã làm, đã
 đặt gánh nặng xuống, mục đích đã đạt được, hữu kiết sử đã đoạn tận, chơn chánh giải thoát; vị ấy không
 có thể vi phạm chín sự: Tỷ-kheo đã đoạn tận các lậu hoặc không có thể cố ý đoạt mạng sống của loài
-hữu tình; Tỷ-kheo đã đoạn tận các lậu hoặc không có thể lấy của không cho, được gọi là ăn trộm; Tỷkheo đã đoạn tận các lậu hoặc, không có thể hành dâm dục; Tỷ-kheo đã đoạn tận các lậu hoặc, không có
+hữu tình; Tỷ-kheo đã đoạn tận các lậu hoặc không có thể lấy của không cho, được gọi là ăn trộm; Tỷ-kheo đã đoạn tận các lậu hoặc, không có thể hành dâm dục; Tỷ-kheo đã đoạn tận các lậu hoặc, không có
 thể biết mà nói láo; Tỷ-kheo đã đoạn tận các lậu hoặc, không có thể hưởng thọ các dục do các đồ cất
 chứa đem lại, như trước còn làm gia chủ. Tỷ-kheo đã đoạn tận các lậu hoặc không có thể phủ nhận Phật;
 Tỷ-kheo đã đoạn tận các lậu hoặc không có thể phủ nhận Pháp; Tỷ-kheo đã đoạn tận các lậu hoặc không
@@ -38706,7 +38706,7 @@ không có cân đối?
 thật tuệ tri: “Ðây là Khổ diệt”, như thật tuệ tri: “Ðây là con đường đưa đến Khổ diệt”. Ðây Ta nói trong
 nghĩa có tốc lực. Nhưng khi được hỏi về thắng pháp, thắng luật, vị ấy lại ngập ngừng, không có trả lời.
 Ðây Ta nói trong nghĩa không có sắc đẹp. Vị ấy không có nhận được các đồ tư dụng, như y áo, đồ ăn
-khất thực, sàng tọa, dược phẩm trị bệnh. Ðây Ta nói trong nghĩa không có cân đối. Như vậy, này các Tỷkheo, là người chưa có điều phục, có tốc lực, nhưng không có sắc đẹp, không có cân đối.
+khất thực, sàng tọa, dược phẩm trị bệnh. Ðây Ta nói trong nghĩa không có cân đối. Như vậy, này các Tỷ-kheo, là người chưa có điều phục, có tốc lực, nhưng không có sắc đẹp, không có cân đối.
 5. Như thế nào, này các Tỷ-kheo, là hạng người chưa có điều phục, có tốc lực, có sắc đẹp, nhưng không
 có cân đối?
 
@@ -38714,7 +38714,7 @@ có cân đối?
 thật tuệ tri: “Ðây là Khổ diệt”, như thật tuệ tri: “Ðây là con đường đưa đến Khổ diệt”. Ðây Ta nói trong
 nghĩa có tốc lực. Nhưng khi được hỏi về thắng pháp, thắng luật, vị ấy liền trả lời, không có ngập ngừng.
 Ðây Ta nói trong nghĩa có sắc đẹp. Nhưng vị ấy không nhận được các đồ tư dụng, như y áo, đồ ăn khất
-thực, sàng tọa, dược phẩm trị bệnh. Ðây Ta nói trong nghĩa không có cân đối. Như vậy, này các Tỷkheo, là hạng người chưa được điều phục, có tốc lực, có sắc đẹp nhưng không có cân đối.
+thực, sàng tọa, dược phẩm trị bệnh. Ðây Ta nói trong nghĩa không có cân đối. Như vậy, này các Tỷ-kheo, là hạng người chưa được điều phục, có tốc lực, có sắc đẹp nhưng không có cân đối.
 
 6. Và như thế nào, này các Tỷ-kheo, là người chưa được điều phục, có tốc lực, có sắc đẹp, có cân đối?
 
@@ -39050,7 +39050,7 @@ Này các Tỷ-kheo, đây là chín thứ đệ trú.
 
 **(II) (33) Chín Thứ Ðệ Trú (2)**
 
-1. - Này các Tỷ-kheo, Ta sẽ thuyết về chín Thiền chứng thứ đệ trú này. Hãy lắng nghe... Này các Tỷkheo, thế nào là chín thứ đệ trú Thiền chứng?
+1. - Này các Tỷ-kheo, Ta sẽ thuyết về chín Thiền chứng thứ đệ trú này. Hãy lắng nghe... Này các Tỷ-kheo, thế nào là chín thứ đệ trú Thiền chứng?
 
 2. Chỗ nào các dục đoạn diệt, và những ai sau khi đoạn diệt các dục, sống an trú, Ta nói rằng: “Chắc
 chắn Tôn giả ấy không có dục ái, được tịch tịnh, đã vượt qua, đã đến bờ bên kia với Thiền chi ấy”. Chỗ
@@ -39180,13 +39180,13 @@ lên như một chứng bệnh. Cũng vậy, với Tỷ-kheo ấy, các tưởng
 như vậy đối với Tỷ-kheo ấy là một chứng bệnh. Này chư Hiền, chứng bệnh được Thế Tôn gọi là khổ.
 Với pháp môn này, này chư Hiền, cần phải hiểu Niết-bàn là lạc.
 
-6. Lại nữa, này chư Hiền, Tỷ-kheo ly hỷ.... chứng và trú Thiền thứ ba. Này chư Hiền, nếu trong khi Tỷkheo ấy trú với an trú này, các tưởng tác ý câu hữu với hỷ vẫn hiện hành; như vậy, đối với Tỷ-kheo ấy là
+6. Lại nữa, này chư Hiền, Tỷ-kheo ly hỷ.... chứng và trú Thiền thứ ba. Này chư Hiền, nếu trong khi Tỷ-kheo ấy trú với an trú này, các tưởng tác ý câu hữu với hỷ vẫn hiện hành; như vậy, đối với Tỷ-kheo ấy là
 một chứng bệnh. Ví như, này chư Hiền, với một người sung sướng, khổ đau có thể khởi lên như một
 chứng bệnh. Cũng vậy, với Tỷ-kheo ấy, các tưởng tác ý câu hữu với hỷ vẫn hiện hành; như vậy đối với
 Tỷ-kheo ấy là một chứng bệnh. Này chư Hiền, chứng bệnh được Thế Tôn gọi là khổ. Với pháp môn này,
 này chư Hiền, cần phải hiểu Niết-bàn là lạc.
 
-7. Lại nữa, này chư Hiền, Tỷ-kheo đoạn lạc... đạt được Thiền thứ tứ. Này chư Hiền, nếu trong khi Tỷkheo ấy trú với an trú này, các tưởng tác ý câu hữu với xả vẫn hiện hành; như vậy, đối với Tỷ-kheo ấy là
+7. Lại nữa, này chư Hiền, Tỷ-kheo đoạn lạc... đạt được Thiền thứ tứ. Này chư Hiền, nếu trong khi Tỷ-kheo ấy trú với an trú này, các tưởng tác ý câu hữu với xả vẫn hiện hành; như vậy, đối với Tỷ-kheo ấy là
 một chứng bệnh. Ví như, này chư Hiền, với một người sung sướng, khổ đau có thể khởi lên như một
 chứng bệnh. Cũng vậy, với Tỷ-kheo ấy, các tưởng tác ý câu hữu với xả vẫn hiện hành; như vậy đối với
 Tỷ-kheo ấy là một chứng bệnh. Này chư Hiền, chứng bệnh được Thế Tôn gọi là khổ. Với pháp môn này,
@@ -39396,7 +39396,7 @@ chứng nhập và khởi xuất, các xứ ấy cần phải được chơn ch�
 
 1. Như vầy tôi nghe:
 
-Một thời, Tôn giả Ananda trú ở Kosambi, tại khu vườn Ghosita. Tại đấy, Tôn giả Ananda bảo các Tỷkheo:
+Một thời, Tôn giả Ananda trú ở Kosambi, tại khu vườn Ghosita. Tại đấy, Tôn giả Ananda bảo các Tỷ-kheo:
 
 - Này chư Hiền Tỷ-kheo.
 
@@ -40108,7 +40108,7 @@ Chín pháp này, này các Tỷ-kheo, không đoạn trừ thì không có th�
 
 1. - Này các Tỷ-Kheo, có năm pháp làm suy yếu học tập này. Thế nào là năm?
 
-2. Sát sanh, lấy của không cho, tà hạnh trong các dục, nói láo, đắm say rượu men, rượu nấu. Này các Tỷkheo, đây là năm pháp làm suy yếu học tập.
+2. Sát sanh, lấy của không cho, tà hạnh trong các dục, nói láo, đắm say rượu men, rượu nấu. Này các Tỷ-kheo, đây là năm pháp làm suy yếu học tập.
 
 3. Này các Tỷ-kheo, để đoạn tận năm pháp làm suy yếu học tập này, Bốn niệm xứ cần phải tu tập. Thế
 nào là bốn?
@@ -40392,7 +40392,7 @@ khinh an có đầy đủ, an lạc có sở y. Với an lạc có mặt, với 
 chánh định có mặt, với chánh định có đầy đủ, như thật tri kiến có sở y. Với như thật tri kiến có mặt, với
 như thật tri kiến có đầy đủ, nhàm chán, ly tham có sở y. Với nhàm chán, ly tham có mặt, với nhàm chán,
 ly tham có đầy đủ, giải thoát tri kiến có sở y. Ví như này các Tỷ-kheo, một cây có đầy đủ cành và lá, các
-mầm non của cây ấy đi đến viên mãn, vỏ trong, giác cây, lõi cây đi đến viên mãn. Cũng vậy, này các Tỷkheo, với giới có mặt, với giới có đầy đủ, không hối tiếc có sở y. Với không hối tiếc có mặt, với không
+mầm non của cây ấy đi đến viên mãn, vỏ trong, giác cây, lõi cây đi đến viên mãn. Cũng vậy, này các Tỷ-kheo, với giới có mặt, với giới có đầy đủ, không hối tiếc có sở y. Với không hối tiếc có mặt, với không
 hối tiếc có đầy đủ... giải thoát tri kiến có sở y.
 
 **(IV) (4) Có Sở Y ( Do Sariputta Thuyết)**
@@ -40505,7 +40505,7 @@ chi phần này không viên mãn. Vị ấy cần phải làm cho viên mãn ch
 có lòng tin, có giới, có nghe nhiều, có thuyết pháp, thường tham gia với hội chúng, vô úy thuyết pháp
 cho hội chúng, trì luật, là người ở rừng, ở các trú xứ xa vắng, đối với các tịch tịnh giải thoát, vượt khỏi
 các sắc, thuộc về vô sắc, ta có cảm giác với thân và an trú; do đoạn diệt các lậu hoặc, ngay trong hiện
-tại, tự mình với thắng trí, ta chứng đạt và an trú vô lậu tâm giải thoát, tuệ giải thoát? “Và này các Tỷkheo, khi nào Tỷ-kheo có lòng tin, có giới, có nghe nhiều, có thuyết pháp thường tham gia với hội
+tại, tự mình với thắng trí, ta chứng đạt và an trú vô lậu tâm giải thoát, tuệ giải thoát? “Và này các Tỷ-kheo, khi nào Tỷ-kheo có lòng tin, có giới, có nghe nhiều, có thuyết pháp thường tham gia với hội
 chúng, vô úy thuyết pháp cho hội chúng, là vị trí luật, là vị ở rừng, ở các trú xứ xa vắng, đối với các tịch
 tịnh giải thoát, vượt khỏi các sắc, thuộc về vô sắc, vị ấy có cảm giác với thân và an trú; do đoạn diệt các
 lậu hoặc, ngay trong hiện tại tự mình với thắng trí, chứng đạt và an trú vô lậu tâm giải thoát, tuệ giải
@@ -40699,7 +40699,7 @@ nhất đã được cắt đứt.
 
 10. Lại nữa, này các Tỷ-kheo, Tỷ-kheo nào đối với tự thân không có tham ái... (như trên)... như vậy là
 tâm triền phược thứ hai đã được cắt đứt. Lại nữa, này các Tỷ-kheo, Tỷ-kheo nào đối với các sắc pháp
-không có tham ái... (như trên)... như vậy là tâm triền phược thứ ba đã được cắt đứt. Lại nữa, này các Tỷkheo, Tỷ-kheo nào không ăn cho đến thỏa thuê, cho đến bụng chức đầy, không thiên nặng về khoái lạc
+không có tham ái... (như trên)... như vậy là tâm triền phược thứ ba đã được cắt đứt. Lại nữa, này các Tỷ-kheo, Tỷ-kheo nào không ăn cho đến thỏa thuê, cho đến bụng chức đầy, không thiên nặng về khoái lạc
 sàng tọa, khoái lạc ngủ nghĩ, khoái lạc thụy miên... (như trên)... như vậy là tâm triền phược thứ tư đã
 được cắt đứt. Lại nữa, này các Tỷ-kheo, Tỷ-kheo nào sống Phạm hạnh, không mong cầu được sanh
 Thiên giới với ý nghĩa: “Ta với giới này, với hạnh này, với khổ hạnh này, hay với Phạm hạnh này, sẽ
@@ -40837,7 +40837,7 @@ chờ đợi là sự lớn mạnh trong các thiện pháp, không phải là s
 “Thật sự Tỷ-kheo này là vị nghe nhiều, thọ trì những gì đã nghe, chất chứa những gì đã nghe. Những
 pháp ấy, sơ thiện, trung thiện, hậu thiện, có nghĩa, có văn, đề cao đời sống Phạm hạnh hoàn toàn viên
 mãn thanh tịnh. Những pháp ấy, vị ấy đã nghe nhiều, đã thọ trì, đã tụng đọc bằng lời, đã quán sát bằng ý,
-khéo thông đạt nhờ chánh kiến”. Các trưởng lão Tỷ-kheo... Các trung niên Tỷ-kheo... Các tân học Tỷkheo nghĩ đến Tỷ-kheo ấy đáng được nói đến, đáng được giáo giới. Với vị ấy, được các trưởng lão
+khéo thông đạt nhờ chánh kiến”. Các trưởng lão Tỷ-kheo... Các trung niên Tỷ-kheo... Các tân học Tỷ-kheo nghĩ đến Tỷ-kheo ấy đáng được nói đến, đáng được giáo giới. Với vị ấy, được các trưởng lão
 thương tưởng, được các trung niên thương tưởng, được các tân học thương tưởng, chờ đợi là sự lớn
 mạnh trong các thiện pháp, không phải là sự tổn giảm. Ðây là pháp tác thành sự hộ trì.
 
@@ -40925,7 +40925,7 @@ Và này các Tỷ-kheo, thế nào là Tỷ-kheo thành tựu sáu chi phần?
 
 5. Ở đây, này các Tỷ kheo, Tỷ-kheo khi mắt thấy sắc không có hân hoan, không có thất vọng, trú xa
 chánh niệm tỉnh giác; khi tai nghe tiếng... khi mũi ngửi hương... khi lưỡi nếm vị... khi thân cảm xúc, khi
-ý biết pháp, không có hân hoan, không có thất vọng, trú xa, chánh niệm tỉnh giác. Như vậy, này các Tỷkheo, là Tỷ-kheo thành tựu sáu chi phần.
+ý biết pháp, không có hân hoan, không có thất vọng, trú xa, chánh niệm tỉnh giác. Như vậy, này các Tỷ-kheo, là Tỷ-kheo thành tựu sáu chi phần.
 
 Và này các Tỷ-kheo, thế nào là Tỷ-kheo hộ trì một sự?
 
@@ -41000,9 +41000,9 @@ lên tiếng rống con sư tử trong các hội chúng và chuyển Phạm lu�
 hành nghiệp quá khứ, vị lai, hiện tại. Này Các Tỷ-kheo, Như Lai như thật rõ biết... (như trên)... và
 chuyển Pháp luân.
 
-4. Lại nữa, này các Tỷ-kheo, Như lai như thật rõ biết con đường đưa đến tất cả sanh thú. Này các Tỷkheo, Nư Lai như thật biết... (như trên)... và chuyển Phạm luân.
+4. Lại nữa, này các Tỷ-kheo, Như lai như thật rõ biết con đường đưa đến tất cả sanh thú. Này các Tỷ-kheo, Nư Lai như thật biết... (như trên)... và chuyển Phạm luân.
 
-5. Lại nữa, này các Tỷ-kheo, Như Lai như thật rõ biết thế giới với nhiều giới, nhiều sai biệt. Này các Tỷkheo, Như Lai như thật biết... (như trên)... và chuyển Phạm luân.
+5. Lại nữa, này các Tỷ-kheo, Như Lai như thật rõ biết thế giới với nhiều giới, nhiều sai biệt. Này các Tỷ-kheo, Như Lai như thật biết... (như trên)... và chuyển Phạm luân.
 
 6. Lại nữa, này các Tỷ-kheo, Như Lai như thật rõ biết chí hướng sai biệt của các loài chúng sanh. Này
 các Tỷ-kheo, Như lai như thật biết... (như trên)... và chuyển Phạm luân.
@@ -41719,14 +41719,14 @@ Này các Tỷ-kheo, có bốn tưởng này.
 
 11. Các này là tối thượng, này các Tỷ-kheo, trong bốn tưởng này, tức là có người tưởng tri Vô sở hữu,
 nghĩ rằng: “Không có sự vật gì”. Này các Tỷ-kheo có những chúng sanh có tưởng như vậy. Ðối với các
-chúng sanh có tưởng như vậy, này các Tỷ-kheo, có sự đổi khác, có sự biến thoại. Thấy vậy, này các Tỷkheo, vị Thánh đệ tử nghe nhiều, nhàm chán trong ấy. Do nhàm chán trong ấy, vị ấy từ bỏ sự tối thượng,
+chúng sanh có tưởng như vậy, này các Tỷ-kheo, có sự đổi khác, có sự biến thoại. Thấy vậy, này các Tỷ-kheo, vị Thánh đệ tử nghe nhiều, nhàm chán trong ấy. Do nhàm chán trong ấy, vị ấy từ bỏ sự tối thượng,
 còn nói gì đối với hạ liệt.
 
 12. Cái này là tối thượng, này các Tỷ-kheo, trong các thành khiến của các dị học, tức là: “Nếu ta không
 có trong lúc ấy, thời nay đã không có của ta. Nếu ta sẽ không có, thời sẽ không có của ta”. Với người có
 tri kiến như vậy, này các Tỷ-kheo, có thể chờ đợi như sau: Sự không nhàm chán này đối với hữu sẽ
 không có đối với người ấy. Sự nhàm chán này đối với hữu diệt sẽ không có đối với người ấy. Này các
-Tỷ-kheo, có những chúng sanh có tri kiến như vậy. Ðối với chúng sanh có tri kiến như vậy, này các Tỷkheo, có sự đổi khác, có sự biến hoại. Thấy vậy, này các Tỷ-kheo, vị Thánh đệ tử nghe nhiều, nhàm
+Tỷ-kheo, có những chúng sanh có tri kiến như vậy. Ðối với chúng sanh có tri kiến như vậy, này các Tỷ-kheo, có sự đổi khác, có sự biến hoại. Thấy vậy, này các Tỷ-kheo, vị Thánh đệ tử nghe nhiều, nhàm
 chán trong ấy. Do nhàm chán trong ấy, vị ấy từ bỏ sự tối thượng, còn nói đối với các hạ liệt.
 
 13. Này các Tỷ-kheo, có một số Sa-môn, Bà-la-môn... tuyên bố thanh tịnh là mục đích tối thắng.
@@ -42097,7 +42097,7 @@ gia. Có thế vị xuất gia đã làm như vậy”. Này các Tỷ-kheo, đ�
 của vua.
 
 4. Lại nữa, này các Tỷ-kheo, trong hậu cung của vua có một châu báu bị mất cắp. Ở đây, vua khởi lên ý
-nghĩ: “Không có một ai vào đây, trừ vị xuất gia. Có thể là vị xuất gia đã làm như vậy”. Này các Tỷkheo, đây là sự nguy hại thứ ba, khi vào hậu cung của cung.
+nghĩ: “Không có một ai vào đây, trừ vị xuất gia. Có thể là vị xuất gia đã làm như vậy”. Này các Tỷ-kheo, đây là sự nguy hại thứ ba, khi vào hậu cung của cung.
 
 5. Lại nữa, này các Tỷ-kheo, trong hậu cung của vua, có những việc cơ mật bị tiết lộ ra ngoài. Ở đây,
 vua khởi lê ý nghĩ: “Không có một ai vào đây, trừ vị xuất gia. Có thể là vị xuất gia đã làm như vậy”.
@@ -42396,7 +42396,7 @@ chỗ trong các thiện pháp, không tổn giảm, không tăng trưởng.
 3. - Ở đây, này các Tỷ-kheo, Tỷ-kheo cố gắng để đạt được lòng tin, giới đức, nghe nhiều, bố thí và biện
 tài với trí tuệ. Những pháp ấy đối với vị này, không tổn giảm, không tăng trưởng. Này các Tỷ-kheo, Ta
 gọi như vậy là đứng một chỗ trong các thiện pháp, không tổn giảm, không tăng trưởng. Như vậy, Này
-các Tỷ kheo là đứng một chỗ trong các thiện pháp, không tổn giảm, không tăng trưởng. Và này các Tỷkheo, thế nào là tăng trưởng trong các biện pháp, không đứng một chỗ, không tổn giảm.
+các Tỷ kheo là đứng một chỗ trong các thiện pháp, không tổn giảm, không tăng trưởng. Và này các Tỷ-kheo, thế nào là tăng trưởng trong các biện pháp, không đứng một chỗ, không tổn giảm.
 
 4. Ở đây, này các Tỷ-kheo, Tỷ-kheo cố gắng để đạt được lòng tin, giới đức, nghe nhiều, bố thí và biện
 tài với trí tuệ. Những pháp ấy đối với vị này không đứng một chỗ, không tổn giảm. Này các Tỷ-kheo, Ta
@@ -42436,7 +42436,7 @@ thượng tuệ pháp quán và chứng được nội tâm tịnh chỉ.
 Ta không có được tăng thượng tuệ pháp quán”, thời này các Tỷ-kheo, Tỷ-kheo ấy cần phải quyết định,
 ước muốn, tinh tấn, nỗ lực, dõng mãnh, bất thối, chánh niệm, tỉnh giác để đạt cho được các thiện pháp.
 Ví như, này các Tỷ-kheo, khi khăn bị cháy hay khi đầu bị cháy, cần phải quyết định, ước muốn, tinh tấn,
-nỗ lực, dõng mãnh, bất thối, chánh niệm, tỉnh giác để dập tắt khăn ấy hay đầu ấy. Cũng vậy, này các Tỷkheo, Tỷ-kheo cần phải quyết định, ước muốn, tinh tấn, nỗ lực, dõng mãnh, bất thối, chánh niệm, tỉnh
+nỗ lực, dõng mãnh, bất thối, chánh niệm, tỉnh giác để dập tắt khăn ấy hay đầu ấy. Cũng vậy, này các Tỷ-kheo, Tỷ-kheo cần phải quyết định, ước muốn, tinh tấn, nỗ lực, dõng mãnh, bất thối, chánh niệm, tỉnh
 giác để đạt cho được các thiện pháp ấy. Vị ấy trong một thời gian khác, đạt được nội tâm tịnh chỉ và đạt
 được tăng thượng tuệ pháp quán.
 
@@ -42527,7 +42527,7 @@ vậy. Cho đến như thế nào này chư Hiền, người bản tánh là t�
 như thế nào, này chư Hiền, người bản tánh là không tổn giảm được Thế Tôn nói đến?
 
 - Thưa Hiền giả, chúng tôi đi từ xa đến để được hiểu rõ ý nghĩa lời nói này từ Tôn giả Sàriputta. Lành
-thay, nếu ý nghĩa lời nói này được Tôn giả Sàriputta nói lên. Sau khi nghe Tôn giả Sàriputta, các Tỷkheo sẽ thọ trì.
+thay, nếu ý nghĩa lời nói này được Tôn giả Sàriputta nói lên. Sau khi nghe Tôn giả Sàriputta, các Tỷ-kheo sẽ thọ trì.
 
 - Vậy này chư Hiền, hãy nghe và khéo tác ý, ta sẽ nói:
 
@@ -42859,7 +42859,7 @@ Như vậy là thức ăn của minh giải thoát, và như vậy là viên mã
 1. - Này các Tỷ-kheo, khởi điểm đầu tiên của hữu ái không thể nêu rõ để có thể nói: “Trước điểm này,
 hữu ái không có, rồi sau mới có”. Như vậy, này các Tỷ-kheo, lời này được nói đến. Tuy vậy, sự việc này
 được nêu rõ: “Do duyên này, hữu ái có mặt”. Này các Tỷ kheo, Ta nói rằng hữu ái có thức ăn, không
-phải không có thức ăn. Và cái gì là thức ăn cho hữu ái? Vô minh, cần phải trả lời như vậy. Này các Tỷkheo, Ta nói rằng vô minh có thức ăn, không phải không có thức ăn. Và cái gì là thức ăn cho vô minh?
+phải không có thức ăn. Và cái gì là thức ăn cho hữu ái? Vô minh, cần phải trả lời như vậy. Này các Tỷ-kheo, Ta nói rằng vô minh có thức ăn, không phải không có thức ăn. Và cái gì là thức ăn cho vô minh?
 Năm triền cái, cần phải trả lời như vậy... (như kinh trước 61, chi thêm vào đoạn cuối số 3, câu như sau:
 _“Năm triền cái được viên mãn thời làm viên mãn vô minh. Vô minh được viên mãn, thời làm viên mãn_
 _hữu ái”._
@@ -43087,7 +43087,7 @@ Này các Tỷ-kheo, có mười sự việc được tán thán này.
 
 **(I) (71) Ước Nguyện**
 
-1. Một thời, Thế Tôn trú ở Sàvatthi, tại Jetavana, khu vườn Anàthapindika. Ở đây, Thế Tôn gọi các Tỷkheo:
+1. Một thời, Thế Tôn trú ở Sàvatthi, tại Jetavana, khu vườn Anàthapindika. Ở đây, Thế Tôn gọi các Tỷ-kheo:
 
 - Này các Tỷ-kheo.
 
@@ -43101,7 +43101,7 @@ nhận và học tập các học pháp.
 
 Này các Tỷ-kheo, nếu Tỷ-kheo có ước nguyện: “Mong rằng ta được các đồng Phạm hạnh thương mến,
 yêu quý, cung kính và bắt chước”. Tỷ-kheo ấy phải thành tựu viên mãn giới luật, kiên trì, nội tâm tịch
-tĩnh, không gián đoạn Thiền định, thành tựu quán hạnh, thích sống tại các xứ không tịnh. Này các Tỷkheo, nếu Tỷ-kheo có ước nguyện: “Mong rằng ta được các vật dụng như y phục, các món ăn khất thực,
+tĩnh, không gián đoạn Thiền định, thành tựu quán hạnh, thích sống tại các xứ không tịnh. Này các Tỷ-kheo, nếu Tỷ-kheo có ước nguyện: “Mong rằng ta được các vật dụng như y phục, các món ăn khất thực,
 sàng tọa và các dược phẩm trị bệnh”, Tỷ-kheo ấy phải thành tựu viên mãn giới luật, kiên trì, nội tâm tịch
 tĩnh, không gián đoạn Thiền định, thành tựu quán hạnh, thích sống tại các trú xứ không tịnh. Này các
 Tỷ-kheo, nếu Tỷ-kheo có ước nguyện: “Mong rằng ta hưởng thọ các vật dụng như y áo, các món ăn khất
@@ -43115,7 +43115,7 @@ sàng tọa, dược phẩm trị bệnh”, Tỷ-kheo ấy phải sống đầy
 nếu Tỷ-kheo có ước nguyện: “Mong rằng ta kham nhẫn với lạnh, nóng, đói khát, sự xúc chạm của ruồi,
 muỗi, gió, sức nóng mặt trời, của loài bò sát, kham nhẫn những cách nói mạ ly phỉ báng, kham nhẫn các
 cảm thọ về thân, những cảm thọ thống khổ, khốc liệt, đau nhói, nhức nhối, không sung sướng, không
-thích thú, chết điếng người”, thời Tỷ-kheo ấy phải sống đầy đủ giới... trú xứ không tịnh. Này các Tỷkheo, nếu Tỷ-kheo có ước nguyện: “Mong rằng ta nhiếp phục lạc và bất lạc, chớ không để lạc, bất lạc
+thích thú, chết điếng người”, thời Tỷ-kheo ấy phải sống đầy đủ giới... trú xứ không tịnh. Này các Tỷ-kheo, nếu Tỷ-kheo có ước nguyện: “Mong rằng ta nhiếp phục lạc và bất lạc, chớ không để lạc, bất lạc
 nhiếp phục ta. Mong rằng ta sống luôn luôn nhiếp phục lạc, bất lạc được khởi lên”, Tỷ-kheo ấy phải
 thành tựu viên mãn giới luật... (như trên).... trú xứ không tịnh. Này các Tỷ-kheo, nếu Tỷ-kheo có ước
 nguyện: “Mong rằng ta nhiếp phục khiếp đảm và sợ hãi, chớ không phải khiếp đảm và sợ hãi nhiếp phục
@@ -43626,7 +43626,7 @@ một bên, Tôn giả Punniya bạch Thế Tôn:
 pháp?
 
 2.- Này Punniya, Tỷ-kheo có lòng tin, không đi đến yết kiến, Như Lai không có thuyết pháp. Khi nào,
-này Punniya, Tỷ-kheo có lòng tin, đi đến yết kiến, như vậy Thế Tôn thuyết pháp. Và này Punniya, Tỷkheo có lòng tin, có đi đến yết kiến, nhưng không có hầu hạ... có hầu hạ nhưng không hỏi.. có hỏi nhưng
+này Punniya, Tỷ-kheo có lòng tin, đi đến yết kiến, như vậy Thế Tôn thuyết pháp. Và này Punniya, Tỷ-kheo có lòng tin, có đi đến yết kiến, nhưng không có hầu hạ... có hầu hạ nhưng không hỏi.. có hỏi nhưng
 không có lóng tai nghe pháp... có lóng tai nhưng nghe pháp, nhưng sau khi, không thọ trì pháp... sau khi
 nghe, có thọ trì pháp, nhưng không suy nghĩ ý nghĩa các pháp đã được thọ trì... suy nghĩ ý nghĩa các
 pháp đã được thọ trì, nhưng không có sau khi biết ý nghĩa, sau khi biết pháp, thực hành pháp đúng
@@ -43825,10 +43825,10 @@ tụng. Này các Tỷ-kheo, Tỷ-kheo ưa thích kiện tụng, không tán th�
 pháp này không đưa đến thân ái, không đưa đến kính trọng, không đưa đến bắt chước (được làm quen),
 không đưa đến hòa đồng, không đưa đến nhất trí.
 
-3. Lại nữa, này các Tỷ-kheo không ưa học tập, không tán thán chấp nhận các học pháp. Này các Tỷkheo, Tỷ-kheo không ưa học tập, không tán thán chấp nhận các học pháp, pháp này không đưa đến thân
+3. Lại nữa, này các Tỷ-kheo không ưa học tập, không tán thán chấp nhận các học pháp. Này các Tỷ-kheo, Tỷ-kheo không ưa học tập, không tán thán chấp nhận các học pháp, pháp này không đưa đến thân
 ái... không đưa đến nhất trí.
 
-4. Lại nữa, này các Tỷ-kheo, Tỷ-kheo ác dục, không tán thán nhiếp phục ác dục. Này các Tỷ-kheo, Tỷkheo ác dục, không tán thán nhiếp phục ác dục, pháp này không đưa đến thân ái... không đưa đến nhất
+4. Lại nữa, này các Tỷ-kheo, Tỷ-kheo ác dục, không tán thán nhiếp phục ác dục. Này các Tỷ-kheo, Tỷ-kheo ác dục, không tán thán nhiếp phục ác dục, pháp này không đưa đến thân ái... không đưa đến nhất
 trí.
 
 5. Lại nữa, này các Tỷ-kheo, Tỷ-kheo phẫn nộ không tán thán nhiếp phục phẫn nộ. Này các Tỷ-kheo,
@@ -43839,10 +43839,10 @@ nhất trí.
 Tỷ-kheo gièm pha, không tán thán nhiếp phục gièm pha, pháp này không đưa đến thân ái... không đưa
 đến nhất trí.
 
-7. Lại nữa, này các Tỷ-kheo, Tỷ-kheo lừa đảo, không tán thán nhiếp phục lừa đảo. Này các Tỷ-kheo, Tỷkheo lừa đảo, không tán thán nhiếp phục lừa đảo, pháp này không đưa đến thân ái... không đưa đến nhất
+7. Lại nữa, này các Tỷ-kheo, Tỷ-kheo lừa đảo, không tán thán nhiếp phục lừa đảo. Này các Tỷ-kheo, Tỷ-kheo lừa đảo, không tán thán nhiếp phục lừa đảo, pháp này không đưa đến thân ái... không đưa đến nhất
 trí.
 
-8. Lại nữa, này các Tỷ-kheo, Tỷ-kheo man trá không tán thán nhiếp phục man trá. Này các Tỷ-kheo, Tỷkheo man trá, không tán thán nhiếp phục man trá, pháp này không đưa đến thân ái... không đưa đến nhất
+8. Lại nữa, này các Tỷ-kheo, Tỷ-kheo man trá không tán thán nhiếp phục man trá. Này các Tỷ-kheo, Tỷ-kheo man trá, không tán thán nhiếp phục man trá, pháp này không đưa đến thân ái... không đưa đến nhất
 trí.
 
 9. Lại nữa, này các Tỷ-kheo, Tỷ-kheo tánh không vâng theo Chánh pháp, tánh tán thán vâng theo Chánh
@@ -43867,7 +43867,7 @@ kính, không có tôn trọng, không có đảnh lễ cúng đường vị ấ
 dành cho con ngựa thuần phục, điều phục ta với sự điều phục dành cho con ngựa thuần thục”. Nhưng
 loài Người không đặt nó trong vị trí của con ngựa thuần thục, không cho nó ăn trong vị trí của con ngựa
 thuần thục, không điều phục nó với sự điều phục dành cho con ngựa thuần thục. Vì sao? Vì những người
-có trí thấy rõ được những tánh hạ liệt, sự lừa đảo, giả dối, xảo trá, xảo quyệt. Cũng vậy, này các Tỷkheo, với Tỷ-kheo như vậy, nếu có ước muốn nào khởi lên: “Ôi mong rằng các vị đồng Phạm hạnh cung
+có trí thấy rõ được những tánh hạ liệt, sự lừa đảo, giả dối, xảo trá, xảo quyệt. Cũng vậy, này các Tỷ-kheo, với Tỷ-kheo như vậy, nếu có ước muốn nào khởi lên: “Ôi mong rằng các vị đồng Phạm hạnh cung
 kính, tôn trọng, đảnh lễ, cúng đường ta”, nhưng các vị đồng Phạm hạnh không có cung kính, không có
 tôn trọng, không có đảnh lễ, không có cúng dường vị ấy. Vì sao? Này các Tỷ-kheo, vì rằng các vị đồng
 Phạm hạnh có trí quán thấy các pháp ác bất thiện không được đoạn tận trong vị ấy.
@@ -43886,7 +43886,7 @@ dục, tán thán nhiếp nhục phục các dục. Pháp này đưa đến nh�
 17. Lại nữa, này các Tỷ-kheo, Tỷ-kheo không phẫn nộ, tán thán nhiếp phục phẫn nộ. Này các Tỷ-kheo,
 Tỷ-kheo không phẫn nộ, tán thán nhiếp phục phẫn nộ. Pháp này đưa đến thân ái... đưa đến nhất trí.
 
-18. Lại nữa, này các Tỷ-kheo, Tỷ-kheo không gièm pha, tán thán nhiếp phục gièm pha. Này các Tỷkheo, Tỷ-kheo không gièm pha, tán thán nhiếp phục gièm pha. Pháp này đưa đến thân ái... đưa đến nhất
+18. Lại nữa, này các Tỷ-kheo, Tỷ-kheo không gièm pha, tán thán nhiếp phục gièm pha. Này các Tỷ-kheo, Tỷ-kheo không gièm pha, tán thán nhiếp phục gièm pha. Pháp này đưa đến thân ái... đưa đến nhất
 trí.
 
 19. Lại nữa, này các Tỷ-kheo, Tỷ-kheo không lừa đảo, tán thán nhiếp phục lừa đảo. Này các Tỷ-kheo,
@@ -43914,7 +43914,7 @@ hạnh có trí quán thấy các pháp ác bất thiện đã được tận n�
 “Mong rằng loài Người sẽ đặt ta trong vị trí của con ngựa đã thuần thục, cho ta ăn với các đồ ấm dành
 cho con ngựa thuần thục, điều phục ta với điều phục dành cho ngựa thuần thục”. Nhưng loài Người vẫn
 đặt nó trong vị trí của con ngựa thuần thục, điều phục. Vì sao? Vì những người có trí thấy rõ được
-những tánh hạ liệt, gian dối, giả dối, xảo trá, xảo quyệt của nó đã được đoạn tận. Cũng vậy, này các Tỷkheo với Tỷ-kheo như vậy, nếu không có khơi lên ước muốn: “Ôi mong rằng các vị đồng Phạm hạnh
+những tánh hạ liệt, gian dối, giả dối, xảo trá, xảo quyệt của nó đã được đoạn tận. Cũng vậy, này các Tỷ-kheo với Tỷ-kheo như vậy, nếu không có khơi lên ước muốn: “Ôi mong rằng các vị đồng Phạm hạnh
 cung kính, tôn trọng, đảnh lễ, cúng dường ta”, nhưng các vị đồng Phạm hạnh vẫn cung kính, tôn trọng,
 đảnh lễ, cúng dường vị ấy. Vì sao? Vì rằng, này các Tỷ-kheo, các vị đồng Phạm hạnh có trí thấy rằng
 các pháp ác bất thiện ấy đã được tận nơi vị ấy.
@@ -44009,14 +44009,14 @@ _Chịu khổ đau tại đấy._
 4. Rồi Tỷ-kheo Kokàlika, do chứng bệnh ấy mệnh chung. Sau khi chết, Tỷ-kheo Kokàlika sanh vào địa
 ngục sen hồng vì tâm khởi ác ý đối với Sàriputta và Moggallàna. Rồi Phạm thiên Sahampati, sau khi
 đêm gần mãn, với dung sắc thù thắng chói sáng toàn vùng Jetavana, đi đến Thế Tôn; sau khi đến, đảnh
-lễ Thế Tôn rồi đứng một bên, đứng một bên, Phạm thiên Sahampati bạch Thế Tôn: “Bạch Thế Tôn, Tỷkheo Kokàlika đã mệnh chung. Bạch Thế Tôn, Tỷ-kheo Kokàlika mệnh chung, phải sanh vào địa ngục
+lễ Thế Tôn rồi đứng một bên, đứng một bên, Phạm thiên Sahampati bạch Thế Tôn: “Bạch Thế Tôn, Tỷ-kheo Kokàlika đã mệnh chung. Bạch Thế Tôn, Tỷ-kheo Kokàlika mệnh chung, phải sanh vào địa ngục
 sen hồng, vì tâm khởi ác ý đối với Sàriputta và Moggallàna”. Phạm thiên Sahampati nói như vậy. Nói
 như vậy xong, đảnh lễ Thế Tôn, thân phía hữu hướng về Thế Tôn rồi biến mất tại chỗ.
 
 5. Rồi Thế Tôn, sau khi đêm đã qua, bảo các Tỷ-kheo:
 
 - Này các Tỷ-kheo, đêm nay Phạm thiên Sahampati khi đêm đã gần mãn, với dung sắc thù thắng chói
-sáng toàn vùng Jetavana, đi đến Ta; sau khi đến, đảnh lễ Ta rồi đứng một bên, đứng một bên, này các tỷkheo, Phạm thiên Sahampati thưa với Ta: “Bạch Thế Tôn, Tỷ-kheo Kokàlika đã mệnh chung “, “Bạch
+sáng toàn vùng Jetavana, đi đến Ta; sau khi đến, đảnh lễ Ta rồi đứng một bên, đứng một bên, này các Tỷ-kheo, Phạm thiên Sahampati thưa với Ta: “Bạch Thế Tôn, Tỷ-kheo Kokàlika đã mệnh chung “, “Bạch
 Thế Tôn Tỷ-kheo Kokàika đã mệnh chung, phải sanh vào địa ngục sen hồng, vì tâm khởi ác ý đối với
 Sàripuuta và Moggallàna”. Này các Tỷ-kheo, Phạm thiên Sahampati nói như vậy. Nói như vậy xong,
 đảnh lễ Ta, thân phía hữu hướng về Ta rồi biến mất tại chỗ.
@@ -44987,7 +44987,7 @@ sở nào, phàm có quyết định nào, phàm có ước nguyện nào, và p
 đưa đến khả năng lạc, khả hỷ, khả ý, hạnh phúc, an lạc. Vì sao? Này các Tỷ-kheo, vì chánh kiến là hiền
 thiện. VÍ như, này các Tỷ-kheo, hột giống cây mía, hay hột giống cây lúa, hay hột giống cây nho được
 gieo vào đất ướt. Phàm vị gì nó lấy lên từ đất, phàm vị gì nó lấy lên từ nước, tất cả vị ấy đều đưa đến
-tánh ngon, tánh ngọt, tánh thuần chất của nó. Vì sao? Vì hột giống là hiền thiện. Cũng vậy, này các Tỷkheo, đối với người có chánh kiến, này các Tỷ-kheo, phàm mọi thân hành... vì tánh hiền thiện của kiến.
+tánh ngon, tánh ngọt, tánh thuần chất của nó. Vì sao? Vì hột giống là hiền thiện. Cũng vậy, này các Tỷ-kheo, đối với người có chánh kiến, này các Tỷ-kheo, phàm mọi thân hành... vì tánh hiền thiện của kiến.
 
 **(V) (105) Với Mình**
 
@@ -45078,7 +45078,7 @@ sầu, bi, khổ, ưu, não được giải thoát khỏi sầu, bi, khổ, ưu,
 sanh khởi nên các pháp ấy được xổ ra và các pháp thiện do duyên với chánh kiến đi đến viên mãn trong
 tu tập. Với người có chánh tư duy, này các Tỷ-kheo, tà tư duy bị xổ ra... Với người có chánh ngữ, này
 các Tỷ-kheo, tà ngữ bị xổ ra... Với người có chánh nghiệp, này các Tỷ-kheo, tà nghiệp bị xổ ra... Với
-người có chánh mạng, này các Tỷ-kheo, tà mạng bị xổ ra... Với người có chánh tinh tấn, này các Tỷkheo, tà tinh tấn bị xổ ra... Với người có chánh niệm, này các Tỷ-kheo, tà niệm bị xổ ra... Với người có
+người có chánh mạng, này các Tỷ-kheo, tà mạng bị xổ ra... Với người có chánh tinh tấn, này các Tỷ-kheo, tà tinh tấn bị xổ ra... Với người có chánh niệm, này các Tỷ-kheo, tà niệm bị xổ ra... Với người có
 chánh định, này các Tỷ-kheo, tà định bị xổ ra... Với người có chánh trí, này các Tỷ-kheo, tà trí bị xổ ra...
 Với người có chánh giải thoát, này các Tỷ-kheo, tà giải thoát bị xổ ra... Các pháp ác bất thiện, do duyên
 tà giải thoát sanh khởi, các pháp ấy bị xổ ra và các pháp thiện, duyên với chánh giải thoát đi đến viên
@@ -45329,7 +45329,7 @@ Hiền trí! Vị Tôn giả thật là một Hiền trí! “.
 
 6. Phi pháp và pháp, này các Tỷ-kheo, cần phải hiểu biết; phi mục đích và mục đích, cần phải hiểu biết;
 phi mục đích và mục đích, cần phải hiểu biết. Sau khi biết phi pháp và pháp, sau khi biết phi mục đích
-và mục đích, pháp như thế nào, mục đích như thế nào, như thế ấy, cần phải thực hành. Và này các Tỷkheo, thế nào là phi pháp, thế nào là pháp, thế nào là phi mục đích, thế nào là mục đích?
+và mục đích, pháp như thế nào, mục đích như thế nào, như thế ấy, cần phải thực hành. Và này các Tỷ-kheo, thế nào là phi pháp, thế nào là pháp, thế nào là phi mục đích, thế nào là mục đích?
 
 7. Tà kiến, này các Tỷ-kheo, là phi pháp, chánh kiến là pháp, do duyên tà kiến, các pháp ác bất thiện nào
 khởi lên, đây là phi mục đích; do duyên chánh kiến, các pháp thiện đi đến viên mãn trong tu tập, đây là
@@ -45465,7 +45465,7 @@ Gotama bắt đầu từ nay nhận con làm đệ tử cư sĩ, từ nay cho đ
 
 **(VIII) (120) Sự Xuất Ly Của Bậc Thánh (2)**
 
-1. Này các Tỷ-kheo, Ta sẽ thuyết cho các Thầy về sự xuất ly của bậc Thánh. Hãy nghe... và này các Tỷkheo, thế nào là sự xuất ly của bậc Thánh?
+1. Này các Tỷ-kheo, Ta sẽ thuyết cho các Thầy về sự xuất ly của bậc Thánh. Hãy nghe... và này các Tỷ-kheo, thế nào là sự xuất ly của bậc Thánh?
 
 2. Ở đây, này các Tỷ-kheo, vị Thánh đệ tử suy xét như sau: 'Tà kiến đưa đến ác quỷ dị thục trong hiện
 tại và trong tương lai”. Sau khi suy xét như vậy, vị ấy từ bỏ tà kiến, ra khỏi tà kiến... Tà tư duy... Tà
@@ -45908,7 +45908,7 @@ Tỷ-kheo, là con đường thoát ly lấy của không cho. Từ bỏ tà h�
 đường thoát ly tà hạnh trong các dục. Từ bỏ nói láo, này các Tỷ-kheo, là con đường thoát ly nói láo. Từ
 bỏ nói hai lưỡi, là con đường thoát ly nói hai lưỡi. Từ bỏ nói lời độc ác, này các Tỷ-kheo, là con đường
 thoát ly nói lời độc ác. Từ bỏ nói lời phù phiếm, này các Tỷ-kheo, là con đường thoát ly nói lời phù
-phiếm. Không tham dục, này các Tỷ-kheo, là con đường thoát ly tham dục. Không sân, này các Tỷkheo, là con đường thoát ly sân. Chánh kiến, này các Tỷ-kheo, là con đường thoát ly tà kiến.
+phiếm. Không tham dục, này các Tỷ-kheo, là con đường thoát ly tham dục. Không sân, này các Tỷ-kheo, là con đường thoát ly sân. Chánh kiến, này các Tỷ-kheo, là con đường thoát ly tà kiến.
 
 Như vậy, này các Tỷ-kheo, là con đường thoát ly.
 
@@ -46751,7 +46751,7 @@ Thành tựu bốn mươi pháp này, này các Tỷ-kheo, như vậy tương x�
 **(V) (214) Tổn Hại**
 
 - Thành tựu với mười pháp, này các Tỷ-kheo, đem theo mình một tự ngã bị tổn hại, bị hủy hoại... đem
-theo mình một tự ngã không bị tổn hại... không bị hủy hoại... thành tựu với hai mươi pháp, này các Tỷkheo... thành tựu với ba mươi pháp, này các Tỷ-kheo... thành tựu với bốn mươi pháp, này các Tỷ-kheo,
+theo mình một tự ngã không bị tổn hại... không bị hủy hoại... thành tựu với hai mươi pháp, này các Tỷ-kheo... thành tựu với ba mươi pháp, này các Tỷ-kheo... thành tựu với bốn mươi pháp, này các Tỷ-kheo,
 đem theo mình một tự ngã bị tổn hại, bị hủy hoại... không đem theo mình một tự ngã bị tổn hại, bị hủy
 hoại.
 
@@ -47368,7 +47368,7 @@ Luật. Này Subhùti, phàm Tỷ-kheo nào ưa pháp, lời nói dễ thương 
 Luật. Này Subhùti, đây là tiêu chuẩn về lòng tin của một người có lòng tin.
 
 8. Lại nữa, này Subhùti, Tỷ-kheo sống tinh cần, tinh tấn đoạn trừ các pháp bất thiện, làm cho đầy đủ các
-thiện pháp, nỗ lực, kiên trì, không bỏ rơi gánh nặng đối với các thiện pháp. Này Subhùti, phàm vị Tỷkheo nào sống tinh cần, tinh tấn đoạn trừ các pháp bất thiện, làm cho đầy đủ các thiện pháp, nỗ lực, kiên
+thiện pháp, nỗ lực, kiên trì, không bỏ rơi gánh nặng đối với các thiện pháp. Này Subhùti, phàm vị Tỷ-kheo nào sống tinh cần, tinh tấn đoạn trừ các pháp bất thiện, làm cho đầy đủ các thiện pháp, nỗ lực, kiên
 trì không bỏ rơi gánh nặng đối với các thiện pháp. Này Subhùti, đây là tiêu chuẩn về lòng tin của một
 người có lòng tin.
 
@@ -47413,7 +47413,7 @@ những lỗi nhỏ nhặt, chấp nhận và tu học trong các học pháp. B
 thọ trì những gì đã nghe, chất chứa tích tập những gì đã nghe, những pháp nào sơ thiện, trung thiện, hậu
 thiện, có nghĩa, có văn, đề cao đời sống Phạm hạnh hoàn toàn viên mãn thanh tịnh. Những pháp ấy, vị
 ấy đã nghe nhiều, đã thọ trì, đã tụng đọc bằng lời, đã quán sát với ý, đã thể nhập với chánh kiến. Bạch
-Thế Tôn, Tỷ-kheo này làm bạn với thiện, thân hữu với thiện, giao thiệp với thiện. Bạch Thế Tôn, Tỷkheo này là người dễ nói, thành tựu những pháp tác thành người dễ nói, kham nhẫn và khéo chấp nhận
+Thế Tôn, Tỷ-kheo này làm bạn với thiện, thân hữu với thiện, giao thiệp với thiện. Bạch Thế Tôn, Tỷ-kheo này là người dễ nói, thành tựu những pháp tác thành người dễ nói, kham nhẫn và khéo chấp nhận
 những lời giáo giới. Bạch Thế Tôn, Tỷ-kheo này, phàm có những công việc gì cần phải làm, hoặc lớn,
 hoặc nhỏ, đối với các vị đồng Phạm hạnh, ở đây, vị ấy khéo léo và tinh cần, thành tựu sự quán sát các
 phương tiện vừa đủ để làm, vừa đủ để tổ chức. Bạch Thế Tôn, Tỷ-kheo này ưa pháp, lời nói dễ thương,
@@ -47558,7 +47558,7 @@ thật quán trị sắc ấy. Như vậy, này các Tỷ-kheo, là Tỷ-kheo kh
 nào là Tỷ-kheo không thiện xảo trong các tướng?
 
 6. Ở đây, này các Tỷ-kheo, Tỷ-kheo không như thật quán tri nghiệp tướng của người ngu, nghiệp tướng
-của người trí. Như vậy, này các Tỷ-kheo, là Tỷ-kheo không thiện xảo trong các tướng. Và này các Tỷkheo, như thế nào là Tỷ-kheo không trừ khử trứng ruồi?
+của người trí. Như vậy, này các Tỷ-kheo, là Tỷ-kheo không thiện xảo trong các tướng. Và này các Tỷ-kheo, như thế nào là Tỷ-kheo không trừ khử trứng ruồi?
 
 7. Ở đây, này các Tỷ-kheo, Tỷ-kheo đối với dục tầm được khởi lên, chấp nhận, không từ bỏ, không tẩy
 sạch, không chấm dứt, không đưa đến không thể tái sanh. Ðối với sân tầm được khởi lên... đối với hại
@@ -47576,7 +47576,7 @@ chung, nắm giữ tướng riêng. những nguyên nhân gì, vì ý căn khôn
 bất thiện pháp khởi lên, Tỷ-kheo không chế ngự nguyên nhân ấy, không hộ trì ý căn, không thực hành
 sự hộ trì ý căn.
 
-Như vậy, này các Tỷ-kheo, là Tỷ-kheo không băng bó vết thương. Và này các Tỷ-kheo, thế nào là Tỷkheo không xông khói?
+Như vậy, này các Tỷ-kheo, là Tỷ-kheo không băng bó vết thương. Và này các Tỷ-kheo, thế nào là Tỷ-kheo không xông khói?
 
 9. Ở đây, này các Tỷ-kheo, Tỷ-kheo không thuyết pháp rộng rãi cho các người khác, như đã được nghe,
 như đã được hiểu biết.
@@ -47645,7 +47645,7 @@ bậc cha trong Tăng chúng, bậc lãnh đạo trong Tăng chúng, có đặc 
 thế nào là Tỷ-kheo biết sắc?
 
 20. Ở đây, này các Tỷ-kheo, Tỷ-kheo, phàm sắc gì do bốn đại hay do bốn đại tác thành, vị ấy như thật
-quán trị sắc ấy. Như vậy, này các Tỷ-kheo, là Tỷ-kheo biết sắc. Và này các Tỷ-kheo, như thế nào là Tỷkheo thiện xảo trong các tướng?
+quán trị sắc ấy. Như vậy, này các Tỷ-kheo, là Tỷ-kheo biết sắc. Và này các Tỷ-kheo, như thế nào là Tỷ-kheo thiện xảo trong các tướng?
 
 21. Ở đây, này các Tỷ-kheo, Tỷ-kheo như thật quán tri nghiệp tướng của người ngu, nghiệp tướng của
 người trí. Như vậy, này các Tỷ-kheo, là Tỷ-kheo thiện xảo trong các tướng. Và này các Tỷ-kheo, như
@@ -47689,7 +47689,7 @@ các Tỷ-kheo, là Tỷ-kheo biết chỗ nước uống. Và này các Tỷ-kh
 Như vậy, này các Tỷ-kheo, là Tỷ-kheo rõ biết con đường. Và này các Tỷ-kheo, thế nào là Tỷ-kheo thiện
 xảo trong các chỗ bò ăn cỏ?
 
-28. Ở đây, này các Tỷ-kheo, Tỷ-kheo như thật quán tri Bốn niệm xứ. Như vậy, này các Tỷ-kheo, Tỷkheo thiện xảo trong các chỗ bò ăn cỏ. Và này các Tỷ-kheo, như thế nào là Tỷ-kheo nặn sữa bò còn để
+28. Ở đây, này các Tỷ-kheo, Tỷ-kheo như thật quán tri Bốn niệm xứ. Như vậy, này các Tỷ-kheo, Tỷ-kheo thiện xảo trong các chỗ bò ăn cỏ. Và này các Tỷ-kheo, như thế nào là Tỷ-kheo nặn sữa bò còn để
 sữa lại?
 
 29. Ở đây, này các Tỷ-kheo, khi các tín nam, tín nữ cúng dường, đem lại hết sức đầy đủ các vật dụng
@@ -47779,7 +47779,7 @@ _là Tôn giả Sàriputta)._
 thể không có tưởng; tuy vậy, vị ấy vẫn có tưởng?
 
 - Thưa Hiền giả, chúng tôi từ xa đi đến để được biết ý nghĩa của lời nói này từ Tôn giả Sàriputta. Lành
-thay, nếu ý nghĩa lời nói này được Tôn giả Sàriputta nói lên. Sau khi nghe Tôn giả Sàriputta, các Tỷkheo sẽ thọ trì.
+thay, nếu ý nghĩa lời nói này được Tôn giả Sàriputta nói lên. Sau khi nghe Tôn giả Sàriputta, các Tỷ-kheo sẽ thọ trì.
 
 - Vậy này chư Hiền, hãy nghe và khéo tác ý, tôi sẽ nói.
 

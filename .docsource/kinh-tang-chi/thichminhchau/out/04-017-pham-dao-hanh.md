@@ -163,7 +163,7 @@ _164.4). Này các Tỷ-kheo, đây gọi là đạo hành nhiếp phục._
 <!--pg-->
 5. Và này các Tỷ-kheo, thế nào là đạo hành an tịnh?
 
-Ở đây, này các Tỷ-kheo, Tỷ-kheo không chấp nhận dục tầm khởi lên ... (như kinh 164.5) ... Này các Tỷkheo, đây gọi là đạo hành an tịnh.
+Ở đây, này các Tỷ-kheo, Tỷ-kheo không chấp nhận dục tầm khởi lên ... (như kinh 164.5) ... Này các Tỷ-kheo, đây gọi là đạo hành an tịnh.
 
 Này các Tỷ-kheo, có bốn đạo hành này.
 

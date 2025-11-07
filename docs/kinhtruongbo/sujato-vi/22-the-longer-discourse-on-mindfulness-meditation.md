@@ -1,4 +1,4 @@
-# 22. Kinh Đại Niệm Xứ
+# DN 22. Kinh Đại Niệm Xứ
 
 _**Mahāsatipaṭṭhānasutta**_
 
@@ -6,7 +6,7 @@ Như vầy tôi nghe. [844](/kinhtruongbo/sujato-vi/notes/22#844){.note} Một t
 
 "Bạch Thế Tôn," các Tỷ kheo ấy vâng đáp Thế Tôn. Thế Tôn nói như sau:
 
-"Này các Tỷ kheo, đây là con đường độc nhất, để thanh tịnh chúng sanh, để vượt qua sầu bi, để diệt trừ khổ ưu, để chứng ngộ chánh đạo, và để chứng ngộ *Niết Bàn* (extinguishment / sựดับ tắt, sự giải thoát cuối cùng). [845](/kinhtruongbo/sujato-vi/notes/22#845){.note} Đó là *bốn niệm xứ* (the four kinds of mindfulness meditation / bốn cơ sở để thiết lập chánh niệm).
+"Này các Tỷ kheo, đây là con đường độc nhất, để thanh tịnh chúng sanh, để vượt qua sầu bi, để diệt trừ khổ ưu, để chứng ngộ chánh đạo, và để chứng ngộ *Niết Bàn* (extinguishment / sự kết thúc, sự giải thoát cuối cùng). [845](/kinhtruongbo/sujato-vi/notes/22#845){.note} Đó là *bốn niệm xứ* (the four kinds of mindfulness meditation / bốn cơ sở để thiết lập chánh niệm).
 
 Bốn niệm xứ là gì? Đó là khi một Tỷ kheo quán thân trên thân—*nhiệt tâm* (keen / tinh cần, nỗ lực), *tỉnh giác* (aware / biết rõ, nhận biết rõ ràng), nhận biết tỉnh thức, nhiếp phục *tham ưu* (covetousness and displeasure / sự tham ái và phiền muộn) ở đời. [846](/kinhtruongbo/sujato-vi/notes/22#846){.note} Vị ấy quán thọ trên các cảm thọ—nhiệt tâm, tỉnh giác, nhận biết tỉnh thức, nhiếp phục tham ưu ở đời. [847](/kinhtruongbo/sujato-vi/notes/22#847){.note} Vị ấy quán tâm trên tâm—nhiệt tâm, tỉnh giác, nhận biết tỉnh thức, nhiếp phục tham ưu ở đời. [848](/kinhtruongbo/sujato-vi/notes/22#848){.note} Vị ấy quán pháp trên các pháp—nhiệt tâm, tỉnh giác, nhận biết tỉnh thức, nhiếp phục tham ưu ở đời. [849](/kinhtruongbo/sujato-vi/notes/22#849){.note}
 
@@ -15,7 +15,7 @@ Bốn niệm xứ là gì? Đó là khi một Tỷ kheo quán thân trên thân�
 
 ### 1.1. Theo dõi Hơi thở
 
-Và này các Tỷ kheo, thế nào là Tỷ kheo *quán thân trên thân* ( observing an aspect of the body/ quan sát một phương diện cơ thể)?
+Và này các Tỷ kheo, thế nào là Tỷ kheo *quán thân trên thân - quan sát thân bằng thân của mình* ( observing an aspect of the body/ quan sát một phương diện cơ thể)
 
 Ở đây, Tỷ kheo—đi đến khu rừng, hay đi đến gốc cây, hay đi đến ngôi nhà trống—ngồi kiết già, lưng giữ thẳng, và *an trú* (establishes / thiết lập, giữ vững) nhận biết tỉnh thức trước mặt. [850](/kinhtruongbo/sujato-vi/notes/22#850){.note} Hoàn toàn nhận biết và tỉnh thức, vị ấy thở vào. Nhận biết và tỉnh thức, vị ấy thở ra. [851](/kinhtruongbo/sujato-vi/notes/22#851){.note}
 
@@ -35,7 +35,7 @@ Như vậy, vị ấy quan sát một phương diện cơ thể bên trong, hay 
 Này các Tỷ kheo, Tỷ kheo *quán thân trên thân* là như vậy.
 
 <!--pg-->
-### 1.2. Các Tư thế
+### 1.2. Theo dõi Tư thế
 
 Lại nữa, này các Tỷ kheo, khi đi, Tỷ kheo biết: 'Tôi đang đi.' Khi đứng, vị ấy biết: 'Tôi đang đứng.' Khi ngồi, vị ấy biết: 'Tôi đang ngồi.' Khi nằm, vị ấy biết: 'Tôi đang nằm.' [860](/kinhtruongbo/sujato-vi/notes/22#860){.note} Thân thể được duy trì trong tư thế nào, vị ấy biết thân trong tư thế ấy.
 
@@ -64,7 +64,7 @@ Như vậy, vị ấy *quán thân trên thân* ở bên trong ...
 Này các Tỷ kheo, Tỷ kheo *quán thân trên thân* cũng là như vậy.
 
 <!--pg-->
-### 1.5. Các Yếu tố (*Giới*)
+### 1.5. Các Yếu tố cấu tạo cơ thể(*Giới*)
 
 Lại nữa, này các Tỷ kheo, Tỷ kheo quán sát chính thân này, dù ở tư thế nào, dù được đặt như thế nào, theo các *yếu tố* (elements / *giới*, các thành phần cơ bản cấu tạo nên vật chất): [865](/kinhtruongbo/sujato-vi/notes/22#865){.note} 'Trong thân này có: yếu tố đất, yếu tố nước, yếu tố lửa, và yếu tố gió.' [866](/kinhtruongbo/sujato-vi/notes/22#866){.note}
 
@@ -105,7 +105,7 @@ Này các Tỷ kheo, Tỷ kheo *quán thân trên thân* cũng là như vậy.
 
 ## 2. Quan sát Cảm Giác
 
-Và này các Tỷ kheo, thế nào là Tỷ kheo *quán thọ trên các thọ*? [871](/kinhtruongbo/sujato-vi/notes/22#871){.note} (meditate observing an aspect of feelings/ quan sát một phương diện cảm giác)
+Và này các Tỷ kheo, thế nào là Tỷ kheo *quán thọ trên các thọ - quan sát thọ bằng thọ trên cơ thể của mình*? [871](/kinhtruongbo/sujato-vi/notes/22#871){.note} (meditate observing an aspect of feelings/ quan sát một phương diện cảm giác)
 
 Ở đây, này các Tỷ kheo, khi thấy một *cảm giác dễ chịu* (pleasant feeling / cảm giác thoải mái, vui thích), Tỷ kheo biết: 'Tôi có một cảm giác dễ chịu.' [872](/kinhtruongbo/sujato-vi/notes/22#872){.note}
 
@@ -133,9 +133,9 @@ Này các Tỷ kheo, Tỷ kheo quán thọ trên các cảm thọ là như vậy
 ## 3. Quan sát Tâm (Mind/Tâm trí)
 > Tâm (mind / tâm trí) trong các đoạn văn phù hợp với chữ  "trạng thái tâm lý" hay đầy đủ hơn là "nhận diện trạng thái tâm lý hiện tại"
 
-Và này các Tỷ kheo, thế nào là Tỷ kheo *quán tâm trên tâm* (Observing an aspect of the mind/ quan sát trạng thái tâm lý)?
+Và này các Tỷ kheo, thế nào là Tỷ kheo *quán tâm trên tâm - quan sát "tâm" qua "tâm" của mình* (Observing an aspect of the mind/ quan sát trạng thái tâm lý)
 
-Ở đây, Tỷ kheo biết trạng thái tâm lý đang bị *lòng tham* chi phối (greed / lòng ham muốn) là 'tâm có tham,' [877](/kinhtruongbo/sujato-vi/notes/22#877){.note} và trạng thái tâm lý không bị lòng tham chi phối là 'tâm không có tham.'
+Ở đây, Tỷ kheo biết trạng thái tâm lý đang bị *tham* chi phối (greed / lòng ham muốn) là 'tâm có tham,' [877](/kinhtruongbo/sujato-vi/notes/22#877){.note} và trạng thái tâm lý không bị lòng tham chi phối là 'tâm không có tham.'
 
 Vị ấy biết trạng thái tâm lý đang bị *giận dữ (sân)* chi phối (hate / lòng căm ghét, thù hận) là 'tâm có sân,' và trạng thái tâm lý không bị giận dữ chi phối là 'tâm không có sân.'
 
@@ -147,7 +147,7 @@ Vị ấy biết trạng thái tâm lý *quảng đại* (expansive mind / tâm 
 
 Vị ấy biết trạng thái tâm lý *hữu thượng* (mind that is not supreme / tâm còn có cái cao hơn) là 'tâm hữu thượng,' và trạng thái tâm lý *vô thượng* (mind that is supreme / tâm không còn gì cao hơn, tâm tối thượng) là 'tâm vô thượng.'
 
-Vị ấy biết trạng thái tâm lý *tập trung cao độ (có định)* (mind immersed in samādhi / tâm tập trung, an trú trong thiền định) là 'tâm có định,' và trạng thái tâm lý *không tập trung cao độ (không có định)* (mind not immersed in samādhi / tâm không tập trung, không an trú trong thiền định) là 'tâm không có định.'
+Vị ấy biết trạng thái tâm lý *có định* (mind immersed in samādhi / tâm tập trung, an trú trong một trạng thái tâm lý hay đối tượng nhất định) là 'tâm có định,' và trạng thái tâm lý *không có định* (mind not immersed in samādhi / tâm không tập trung, không an trú) là 'tâm không có định.'
 
 Vị ấy biết trạng thái tâm lý *giải thoát* (freed mind / tâm đã thoát khỏi ràng buộc) là 'tâm giải thoát,' và trạng thái tâm lý *không giải thoát* (unfreed mind / tâm chưa thoát khỏi ràng buộc) là 'tâm không giải thoát.'
 
@@ -158,13 +158,14 @@ Này các Tỷ kheo, Tỷ kheo *quán tâm trên tâm* là như vậy.
 
 <!--pg-->
 ## 4. Quan sát Pháp
-> Pháp (principles / nguyên tắc) trong các đoạn văn phù hợp với chữ "quy trình" hay đầy đủ hơn là "nhận diện *vấn đề* hiểu cách nó sinh-diệt và cách giải thoát khỏi nó"
+> Pháp (principles / nguyên tắc) trong các đoạn văn phù hợp với chữ "hiện tượng tâm lý" hay đầy đủ hơn là "các hiện tượng sinh-diệt của tâm lý và chủ động tạo ra hay diệt đi các hiện tượng này".\
+> "Quán pháp trên các pháp" là "quan sát các pháp xảy ra trên bản thân mình mà có thể quan sát được
 
-### 4.1. Năm Triền Cái
+### 4.1. Năm Phiền nhiễu (Triền Cái)
 
-Và này các Tỷ kheo, thế nào là Tỷ kheo quán pháp trên các pháp với năm triều cái?
+Và này các Tỷ kheo, thế nào là Tỷ kheo *quán pháp trên các pháp* với năm triều cái?
 
-Ở đây, Tỷ kheo quán pháp trên các pháp đối với năm *triền cái* (hindrances / năm chướng ngại ngăn cản sự tiến bộ tâm lý). [880](/kinhtruongbo/sujato-vi/notes/22#880){.note} Và này các Tỷ kheo, thế nào là Tỷ kheo quán pháp trên các pháp đối với năm triền cái?
+Ở đây, Tỷ kheo quán pháp trên các pháp đối với năm *phiền nhiễu (triền cái)* (hindrances / năm chướng ngại ngăn cản sự tiến bộ tâm lý). [880](/kinhtruongbo/sujato-vi/notes/22#880){.note} Và này các Tỷ kheo, thế nào là Tỷ kheo quán pháp trên các pháp đối với năm triền cái?
 
 Ở đây, Tỷ kheo khi trong vị ấy có *tham dục* (sensual desire / ham muốn giác quan), vị ấy biết: 'Trong tôi có tham dục.'. Không có tham dục, vị ấy biết: 'Trong tôi không có tham dục.' Vị ấy biết *cách thức*( how / như thế nào) tham dục chưa sinh, được sinh ra như thế nào; tham dục đã sinh được đoạn trừ như thế nào; và tham dục đã được đoạn trừ, trong tương lai không sinh trở lại như thế nào. [881](/kinhtruongbo/sujato-vi/notes/22#881){.note}
 

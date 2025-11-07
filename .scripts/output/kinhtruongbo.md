@@ -187,7 +187,7 @@ Sa-môn Gotama từ bỏ lấy của không cho, tránh xa sự lấy của khô
 mong những vật đã cho, tự sống thanh tịnh không có trộm cướp. - Này các Tỷ-kheo, đó là những lời tán
 thán Như Lai của kẻ phàm phu.
 
-Sa-môn Gotama từ bỏ tà hạnh, tịnh tu phạm hạnh, sống giải thoát, từ bỏ dâm dục hèn hạ. Này các Tỷkheo, đó là những lời tán thán Như Lai của kẻ phàm phu.
+Sa-môn Gotama từ bỏ tà hạnh, tịnh tu phạm hạnh, sống giải thoát, từ bỏ dâm dục hèn hạ. Này các Tỷ-kheo, đó là những lời tán thán Như Lai của kẻ phàm phu.
 
 9. Sa-môn Gotama từ bỏ nói láo, tránh xa nói láo, nói những lời chân thật, y chỉ nơi sự thật, chắc chắn,
 đáng tin cậy, không lừa gạt, không phản lại lời hứa đối với đời. Này các Tỷ-kheo, đó là những lời tán
@@ -335,7 +335,7 @@ mặt trời đi đúng chánh đạo sẽ có kết quả như thế này, mặ
 quả như thế này, các tinh tú đi đúng chánh đạo sẽ có kết quả như thế này, sao băng sẽ có kết quả như thế
 này, lửa cháy các phương hướng sẽ có kết quả như thế này, động đất sẽ có những kết quả như thế này,
 sấm trời sẽ có kết quả như thế này, mặt trăng, mặt trời, các sao mọc, lặn, mờ, sáng, sẽ có kết quả như thế
-này. Còn Sa-môn Gotama thì tránh xa, không tự nuôi sống bằng những tà mạng kể trên. - Này các Tỷkheo, như vậy kẻ phàm phu tán thán Như Lai.
+này. Còn Sa-môn Gotama thì tránh xa, không tự nuôi sống bằng những tà mạng kể trên. - Này các Tỷ-kheo, như vậy kẻ phàm phu tán thán Như Lai.
 
 25. Trong khi một số Sa-môn, Bà-la-môn, dầu đã dùng các món ăn do tín thí cúng dường, vẫn còn tự
 nuôi sống bằng những tà mạng như đoán trước sẽ có nhiều mưa, sẽ có đại hạn, sẽ được mùa, sẽ mất
@@ -803,7 +803,7 @@ Như Lai đã tự chứng tri, giác ngộ và tuyên thuyết. Và chính nh�
 chánh tán thán Như Lai mới nói đến.
 
 35. Này các Tỷ-kheo, những Sa-môn, Bà-la-môn luận bàn về quá khứ tối sơ, chấp kiến về quá khứ tối
-sơ, y cứ về quá khứ tối sơ, đề xướng nhiều ý kiến sai khác với mười tám luận chấp trên. Này các Tỷkheo, nếu có những Sa-môn hoặc Bà-la-môn luận bàn về quá khứ tối sơ, chấp kiến về quá khứ tối sơ, y
+sơ, y cứ về quá khứ tối sơ, đề xướng nhiều ý kiến sai khác với mười tám luận chấp trên. Này các Tỷ-kheo, nếu có những Sa-môn hoặc Bà-la-môn luận bàn về quá khứ tối sơ, chấp kiến về quá khứ tối sơ, y
 cứ về quá khứ tối sơ, đề xướng nhiều ý kiến sai khác, chúng sẽ chấp cả mười tám luận chấp trên hay một
 trong những luận chấp trên, ngoài ra không có luận chấp nào khác nữa.
 
@@ -1853,7 +1853,7 @@ thì tránh xa các tà mạng kể trên. Như vậy là giới hạnh của v�
 
 63. Và như vậy, Ðại vương, vị Tỷ-kheo ấy, nhờ đầy đủ giới luật nên không thấy sợ hãi từ một chỗ nào
 về phương diện hộ trì giới luật. Ðại vương, như một vị Sát đế lỵ đã làm lễ quán đảnh, đã hàng phục kẻ
-thù địch, không còn thấy sợ hãi từ chỗ nào nữa về phương diện thù địch. Cũng vậy, này Ðại vương, Tỷkheo ấy nhờ đầy đủ giới luật, nên không thấy sợ hãi từ một chỗ nào về phương diện hộ trì giới luật. Vị
+thù địch, không còn thấy sợ hãi từ chỗ nào nữa về phương diện thù địch. Cũng vậy, này Ðại vương, Tỷ-kheo ấy nhờ đầy đủ giới luật, nên không thấy sợ hãi từ một chỗ nào về phương diện hộ trì giới luật. Vị
 ấy nhờ đầy đủ giới luật cao quý này, nên hưởng lạc thọ, nội tâm không vẩn đục. Như vậy, này Ðại
 vương, Tỷ-kheo đầy đủ giới luật.
 
@@ -1875,7 +1875,7 @@ Tỷ-kheo chánh niệm tỉnh giác.
 66. Ðại vương, thế nào là Tỷ-kheo biết đủ? Ở đây Tỷ-kheo bằng lòng với tấm y để che thân, với đồ ăn
 khất thực để nuôi bụng, đi tại chỗ nào cũng mang theo (y và bình bát). Ðại vương, cũng như con chim
 bay đến chỗ nào cũng mang theo hai cánh; cũng vậy, Ðại vương, vị Tỷ-kheo bằng lòng với tấm y để che
-thân, với đồ ăn khất thực để nuôi bụng, đi tại chỗ nào cũng mang theo. Như vậy, này Ðại vương, là Tỷkheo biết đủ.
+thân, với đồ ăn khất thực để nuôi bụng, đi tại chỗ nào cũng mang theo. Như vậy, này Ðại vương, là Tỷ-kheo biết đủ.
 
 67. Vị ấy, với giới uẩn cao quý này, với sự hộ trì các căn cao quý này, với chánh niệm tỉnh giác cao quý
 này, với hạnh biết đủ cao quý này, lựa một chỗ thanh vắng, tịch mịch, như rừng, gốc cây, khe núi, hang
@@ -1990,7 +1990,7 @@ màu xanh, màu vàng, màu đỏ, màu trắng hay màu vàng nhạt. Một ng�
 tay sẽ thấy: Hòn lưu ly bảo châu này, đẹp đẽ, trong suốt, có tám mặt, khéo dũa, khéo mài, sáng chói,
 không uế trược, đầy đủ tất cả mỹ tướng. Và sợi giây này được xâu qua hòn ngọc ấy, sợi giây màu xanh,
 màu vàng, màu đỏ, màu trắng hay màu vàng nhạt. Cũng vậy, này Ðại vương, với tâm định tĩnh, thuần
-tịnh, không cấu nhiễm, không phiền não, nhu nhuyến, dễ sử dụng, vững chắc, bình thản như vậy. Tỷkheo dẫn tâm, hướng tâm đến chánh trí, chánh kiến. Vị ấy biết: Thân này của ta là sắc pháp, do bốn đại
+tịnh, không cấu nhiễm, không phiền não, nhu nhuyến, dễ sử dụng, vững chắc, bình thản như vậy. Tỷ-kheo dẫn tâm, hướng tâm đến chánh trí, chánh kiến. Vị ấy biết: Thân này của ta là sắc pháp, do bốn đại
 thành, do cha mẹ sanh, nhờ cơm cháo nuôi dưỡng, vô thường, biến hoại, phấn toái, đoạn tuyệt, hoại diệt.
 Trong thân ấy thức ta lại nương tựa và bị trói buộc.
 
@@ -3207,7 +3207,7 @@ người dựng đứng lại những gì bị quăng ngã xuống, phơi bày r
 lạc hướng, đem đèn sáng vào trong bóng tối để những ai có mắt có thể thấy sắc. Cũng vậy chánh pháp
 đã được Tôn giả Gotama dùng nhiều phương tiện trình bày giải thích. Vậy nay con xin quy y Thế Tôn
 Gotama, quy y Pháp và quy y Tỷ-kheo Tăng. Mong Tôn giả Gotama nhận con làm đệ tử, từ nay trở đi
-cho đến mạng chung, con trọn đời quy ngưỡng. Và mong Tôn giả Gotama, ngày mai cùng chúng Tỷkheo nhận lời mời đến dùng cơm do con mời.
+cho đến mạng chung, con trọn đời quy ngưỡng. Và mong Tôn giả Gotama, ngày mai cùng chúng Tỷ-kheo nhận lời mời đến dùng cơm do con mời.
 
 Ðức Thế Tôn im lặng nhận lời. Lúc bấy giờ Bà-la-môn Sonadanda được biết Ðức Thế Tôn đã nhận lời,
 liền từ chỗ ngồi đứng dậy, đảnh lễ đức Thế Tôn, thân phía hữu hướng về đức Phật và từ biệt. Rồi Bà-lamôn Sonadanda khi đêm đã mãn liền làm cho sẵn sàng tại nhà các món thượng vị, loại cứng và loại
@@ -3897,7 +3897,7 @@ với mục đích nghe các thiên âm mỹ diệu, thích thú, phấn khởi.
 mỹ diệu, thích thú, phấn khởi nhưng không với mục đích thấy các thiên sắc mỹ diệu, thích thú, phấn
 khởi. Vì vị này tu định nhất hướng, hướng về phía Ðông với mục đích nghe các thiên âm mỹ diệu, thích
 thú, phấn khởi, nhưng không với mục đích thấy các thiên sắc mỹ diệu, thích thú, phấn khởi, nên vị này
-nghe được về phía Ðông các thiên âm mỹ diệu, thích thú, phấn khởi. Vì sao vậy? Này Mahàli, vì vị Tỷkheo này trong khi tu định nhứt hướng, hướng về phía Ðông, chỉ với mục đích nghe các thiên âm mỹ
+nghe được về phía Ðông các thiên âm mỹ diệu, thích thú, phấn khởi. Vì sao vậy? Này Mahàli, vì vị Tỷ-kheo này trong khi tu định nhứt hướng, hướng về phía Ðông, chỉ với mục đích nghe các thiên âm mỹ
 diệu, thích thú, phấn khởi nhưng không với mục đích thấy các thiên sắc mỹ diệu, thích thú, phấn khởi.
 
 9. Lại nữa, này Mahàli, có Tỷ-kheo tu định nhứt hướng, hướng về phía Nam... hướng về phía Tây...
@@ -3939,7 +3939,7 @@ chứng được những pháp ấy, các vị Tỷ-kheo sống đời phạm h�
 chứng được những pháp ấy sống đời phạm hạnh, dưới sự chỉ dạy của Thế Tôn?
 
 - Này Mahàli, ở đây Tỷ-kheo đoạn dứt ba kiết sử, thành bậc Dự lưu, không đọa ác thú, chắc chắn đạt
-quả Bồ-đề. Này Mahàli, pháp này cao thượng và thù thắng hơn, vì muốn chứng được pháp này, các Tỷkheo sống phạm hạnh dưới sự chỉ dạy của Ta.
+quả Bồ-đề. Này Mahàli, pháp này cao thượng và thù thắng hơn, vì muốn chứng được pháp này, các Tỷ-kheo sống phạm hạnh dưới sự chỉ dạy của Ta.
 Lại nữa, này Mahàli, Tỷ-kheo đoạn dứt ba kiết sử làm nhẹ bớt tham, sân, si, thành bậc Nhứt lai, còn phải
 sanh lại trong đời này một lần nữa trước khi diệt hẳn khổ đau. Này Mahàli, pháp này cao thượng hơn và
 thù thắng hơn. Vì muốn chứng được pháp này, các Tỷ-kheo sống phạm hạnh, dưới sự chỉ dạy của Ta.
@@ -4219,7 +4219,7 @@ kheo ấy được gọi là Sa-môn, được gọi là Bà-la-môn.
 Này Kassapa, nếu một người chỉ ăn cỏ lúa để sống, này Kassapa nếu người ấy chỉ ăn lúa tắc, gạo lức, ăn
 hột cải nivàra... ăn trái cây, rễ cây trong rừng, ăn trái cây rụng để sống, nhưng nếu vị này không tu và
 không chứng được giới cụ túc, tâm cụ túc, tuệ cụ túc thời vị ấy cách rất xa Sa-môn vị, cách rất xa Bà-lamôn vị. Này Kassapa, nếu Tỷ-kheo sống tu tập từ bi tâm, không hận thù, không ác hại, và với sự diệt tận
-các lậu hoặc, tự giác chứng và an trú ngay hiện tại, tâm giải thoát, tuệ giải thoát vô lậu, này Kassapa, Tỷkheo ấy được gọi là Sa-môn, được gọi là Bà-la-môn.
+các lậu hoặc, tự giác chứng và an trú ngay hiện tại, tâm giải thoát, tuệ giải thoát vô lậu, này Kassapa, Tỷ-kheo ấy được gọi là Sa-môn, được gọi là Bà-la-môn.
 
 Này Kassapa, nếu một người mặc vải gai thô, mặc vải gai thô trộn với các vải khác,... sống một đêm tắm
 ba lần, theo hạnh xuống nước tắm (để gột sạch tội lỗi), nhưng nếu vị này không tu và không chứng được
@@ -4345,7 +4345,7 @@ hộ trì ý căn, thực hành sự hộ trì ý căn. Vị ấy, nhờ sự h�
 tâm thanh tịnh... Như vậy, này Kassapa Tỷ-kheo hộ trì các căn... (như Kinh Sa-môn quả, đoạn kinh số
 64-75)... khi quán tự thân đã xả ly năm triền cái ấy, hân hoan sanh; do hân hoan nên hỷ sanh; do tâm
 hoan hỷ, thân được khinh an; do thân khinh an, lạc thọ sanh; do lạc thọ, tâm được định tỉnh. Tỷ-kheo ly
-dục, ly ác pháp, chứng và trú thiền thứ nhất, một trạng thái hỷ lạc do ly dục sanh, với tầm với tứ. Tỷkheo thấm nhuần, tẩm ướt làm cho sung mãn tràn đầy thân mình với hỷ lạc do ly dục sanh, không một
+dục, ly ác pháp, chứng và trú thiền thứ nhất, một trạng thái hỷ lạc do ly dục sanh, với tầm với tứ. Tỷ-kheo thấm nhuần, tẩm ướt làm cho sung mãn tràn đầy thân mình với hỷ lạc do ly dục sanh, không một
 chỗ nào trên toàn thân không do hỷ lạc từ ly dục sanh ấy thấm nhuần. Này Kassapa, như một người hầu
 tắm lão luyện hay đệ tử người hầu tắm. Sau khi rắc bột tắm trong thau bằng đồng, liền nhồi bột ấy với
 nước, cục bột tắm ấy được thấm nhuần nước ướt, nhào trộn với nước ướt, thấm ướt cả trong lẫn ngoài
@@ -4368,7 +4368,7 @@ xanh, màu vàng, màu đỏ, màu trắng hay màu nhạt. Một người có m
 thấy: “Hòn ngọc lưu ly bảo châu này, đẹp đẽ, trong suốt, có tám mặt, khéo giũa, khéo mài, sáng chói,
 không uế trược, đầy đủ tất cả mỹ tướng. Và sợi dây này được xâu qua hòn ngọc ấy, sợi dây màu xanh,
 màu vàng, màu đỏ, màu trắng, hay màu vàng nhạt”. Cũng vậy, này Kassapa, với tâm định tĩnh, thuần
-tịnh, không cấu nhiễm, không phiền não, nhu nhuyến, dễ sử dụng, vững chắc, bình thản như vậy, vị Tỷkheo dẫn tâm, hướng tâm đến chánh trí, chánh kiến. Vị ấy biết: “Thân này của ta là sắc pháp, do bốn đại
+tịnh, không cấu nhiễm, không phiền não, nhu nhuyến, dễ sử dụng, vững chắc, bình thản như vậy, vị Tỷ-kheo dẫn tâm, hướng tâm đến chánh trí, chánh kiến. Vị ấy biết: “Thân này của ta là sắc pháp, do bốn đại
 thành, do cha mẹ sanh, nhờ cơm cháo nuôi dưỡng, vô thường, biến hoại, phấn toái, đoạn tuyệt, hoại diệt.
 Trong thân ấy, thức ta lại nương tựa và bị trói buộc”. Ðó là tuệ cụ túc của vị ấy... (như Kinh Sa-môn
 quả, đoạn kinh số 85-98)... Vị ấy biết: “... không có đời sống nào khác nữa”. Ðó là tuệ cụ túc của vị ấy.
@@ -4532,7 +4532,7 @@ Còn vị ấy thì tránh xa các tà mạng kể trên... như vậy là giớ
 
 8. Này Potthapàda, và như vậy Tỷ-kheo ấy nhờ đầy đủ giới luật nên không thấy sợ hãi từ một chỗ nào về
 phương diện hộ trì giới luật. Này Potthapàda, như một Sát-đế-lỵ đã làm lễ quán đảnh, đã hàng phục kẻ
-thù địch, không còn thấy sợ hãi từ chỗ nào nữa về phương diện thù địch. Cũng vậy, này Potthapàda, Tỷkheo ấy nhờ đầy đủ giới luật nên không thấy sợ hãi từ một chỗ nào về phương diện hộ trì giới luật. Vị ấy
+thù địch, không còn thấy sợ hãi từ chỗ nào nữa về phương diện thù địch. Cũng vậy, này Potthapàda, Tỷ-kheo ấy nhờ đầy đủ giới luật nên không thấy sợ hãi từ một chỗ nào về phương diện hộ trì giới luật. Vị ấy
 nhờ đầy đủ giới luật cao quý này, nên hưởng lạc thọ nội tâm không lỗi lầm. Như vậy, này Potthapàda,
 Tỷ-kheo đầy đủ giới luật.
 
@@ -5251,7 +5251,7 @@ không chìm như đi trên đất liền; ngồi kiết-già đi trên hư khô
 mặt trời và mặt trăng; những vật có đại oai thần lực, đại oai thần như vậy, có thể tự thân bay đến cõi
 Phạm thiên.
 5. Người có lòng tín thành ấy nói với một người không có lòng tín thành: “Này Tôn giả, thật vi diệu
-thay! Này Tôn giả, thật hy hữu thay, đại thần thông, đại oai đức của vị Sa-môn! Chính tôi đã thấy vị Tỷkheo chứng các thần thông, “một thân hiện ra nhiều thân, nhiều thân hiện ra một thân,... có thể tự thân
+thay! Này Tôn giả, thật hy hữu thay, đại thần thông, đại oai đức của vị Sa-môn! Chính tôi đã thấy vị Tỷ-kheo chứng các thần thông, “một thân hiện ra nhiều thân, nhiều thân hiện ra một thân,... có thể tự thân
 bay đến cõi Phạm thiên”. Người không có lòng tín thành có thể nói với người có lòng tín thành: “Này
 Tôn giả, có một chú thuật gọi là Gandhhàrì. Nhờ chú thuật hiện ra nhiều thân, nhiều thân hiện ra một
 thân... có thể tự thân bay đến cõi Phạm thiên”. Này Kevaddha, ngươi nghĩ thế nào? Người không có
@@ -5269,7 +5269,7 @@ suy tư của các loài hữu tình khác, của các người khác: “Như v
 như vậy là tâm của Ngươi”.
 
 7. Người có lòng tín thành ấy nói với một người không có lòng tín thành: “Này Tôn giả, thật vi diệu
-thay! Này Tôn giả, thật hy hữu thay đại thần thông, đại oai đức của vị Sa-môn! Chính tôi đã thấy Tỷkheo nói lên tâm, nói lên tâm sở, nói lên sự suy tầm và nói lên sự suy tư của các loài hữu tình khác, của
+thay! Này Tôn giả, thật hy hữu thay đại thần thông, đại oai đức của vị Sa-môn! Chính tôi đã thấy Tỷ-kheo nói lên tâm, nói lên tâm sở, nói lên sự suy tầm và nói lên sự suy tư của các loài hữu tình khác, của
 các người khác: “Như vậy là ý của ngươi, thế này là ý của ngươi, như vậy là tâm của ngươi”. Người
 không có lòng tín thành có thể nói với người có lòng tín thành: “Này Tôn giả, có một chú thuật gọi là
 Maniko, nhờ chú thuật này, Tỷ-kheo nói lên tâm, nói lên tâm sở, nói lên sự suy tầm, và nói lên sự suy tư
@@ -5293,7 +5293,7 @@ tương tự như kinh Sa-môn quả, đoạn kinh số 40 - 74).
 
 44. Khi quán tự thân đã xả ly năm triền cái ấy hân hoan sanh; do hân hoan nên hỷ sanh; do tâm hoan hỷ,
 thân được khinh an; do thân khinh an, lạc thọ sanh; do lạc thọ, tâm được định tĩnh. Vị Tỷ-kheo, ly dục,
-ly ác bất thiện pháp, chứng và trú thiền thứ nhất, một trạng thái hỷ lạc do ly dục sanh với tầm với tứ. Tỷkheo thấm nhuần, tẩm ướt, làm cho sung mãn tràn đầy thân mình với hỷ lạc do ly dục sanh, không một
+ly ác bất thiện pháp, chứng và trú thiền thứ nhất, một trạng thái hỷ lạc do ly dục sanh với tầm với tứ. Tỷ-kheo thấm nhuần, tẩm ướt, làm cho sung mãn tràn đầy thân mình với hỷ lạc do ly dục sanh, không một
 chỗ nào trên toàn thân không có hỷ lạc do ly dục sanh ấy thấm nhuần.
 
 45. Này Kevaddha, như một người hầu tắm lão luyện hay đệ tử người hầu tắm. Sau khi rắc bột tắm trong
@@ -5347,7 +5347,7 @@ biết bốn đại chủng này - địa đại... phong đại - đi đâu sau
 chư thiên tên là Sakka: “Này Hiền giả, bốn đại chủng này - địa đại... phong đại - đi đâu, sau khi biến diệt
 hoàn toàn?”.
 Này Kevaddha, được nghe nói vậy, Ðế thích chư Thiên tên là Sakka nói với Tỷ-kheo ấy: “Này Tỷ-kheo,
-tôi không được biết bốn đại chủng ấy - địa đại... phong đại - đi đâu, sau khi biến diệt hoàn toàn. Này Tỷkheo, có chư Thiên tên là Yàma (Dạ-ma) ưu thế hơn, thù thắng hơn tôi. Vị này có thể biết bốn đại chủng
+tôi không được biết bốn đại chủng ấy - địa đại... phong đại - đi đâu, sau khi biến diệt hoàn toàn. Này Tỷ-kheo, có chư Thiên tên là Yàma (Dạ-ma) ưu thế hơn, thù thắng hơn tôi. Vị này có thể biết bốn đại chủng
 này - địa đại... phong đại - đi đâu, sau khi biến diệt hoàn toàn”.
 
 72. Này Kevaddha, Tỷ-kheo ấy đi đến chư Thiên tên là Yàma (Dạ-ma) xong, liền hỏi chư Thiên Dạ-ma:
@@ -5385,7 +5385,7 @@ Nimmànarati: “Này các Hiền giả, bốn đại chủng này - địa đ�
 toàn?”.
 
 Này Kevaddha, được nghe nói vậy, chư Thiên Nimmànarati nói với Tỷ-kheo ấy: “Này Tỷ-kheo chúng
-tôi không được biết bốn đại chủng ấy - địa đại... phong đại - đi đâu, sau khi biến diệt hoàn toàn. Này Tỷkheo có Thiên tử tên là Sunimmita ưu thế hơn, thù thắng hơn chúng tôi. Vị này có thể biết bốn đại chủng
+tôi không được biết bốn đại chủng ấy - địa đại... phong đại - đi đâu, sau khi biến diệt hoàn toàn. Này Tỷ-kheo có Thiên tử tên là Sunimmita ưu thế hơn, thù thắng hơn chúng tôi. Vị này có thể biết bốn đại chủng
 này - địa đại... phong đại - đi đâu, sau khi biến diệt hoàn toàn”.
 
 77. Này Kevaddha, Tỷ-kheo ấy đi đến Thiên tử Sunimmita. Khi đến xong, liền hỏi Thiên tử Sunimmita.
@@ -5409,7 +5409,7 @@ phong đại - đi đâu, sau khi biến diệt hoàn toàn”.
 “Này Hiền giả, bốn đại chủng này - địa đại... phong đại - đi đâu, sau khi biến diệt hoàn toàn?”.
 
 Này Kevaddha, được nghe nói vậy, Thiên tử Vasavatti nói với Tỷ-kheo ấy. “Này Tỷ-kheo, chúng tôi
-không được biết bốn đại chủng ấy - địa đại... phong đại - đi đâu, sau khi biến diệt hoàn toàn. Này Tỷkheo, có chư Thiên gọi là Brahmà Kayikà ưu thế hơn, thù thắng hơn chúng tôi. Những vị này có thể biết
+không được biết bốn đại chủng ấy - địa đại... phong đại - đi đâu, sau khi biến diệt hoàn toàn. Này Tỷ-kheo, có chư Thiên gọi là Brahmà Kayikà ưu thế hơn, thù thắng hơn chúng tôi. Những vị này có thể biết
 bốn đại chủng này - địa đại... phong đại - đi đâu, sau khi biến diệt hoàn toàn”.
 
 80. Này Kevaddha, lúc bấy giờ, Tỷ-kheo ấy nhập định, và trong định tâm, con đường đưa đến Phạm
@@ -5718,7 +5718,7 @@ kinh Sa-môn quả, đoạn kinh số 40 - 74, với những thay đổi cần t
 
 54. Khi quán tự thân đã xả ly năm triền cái ấy, hân hoan sanh, do hân hoan, nên hoan hỷ sanh; do tâm
 hoan hỷ, thân được khinh an, do thân khinh an, lạc thọ sanh, do lạc thọ, tâm được định tĩnh Tỷ-kheo ly
-dục, ly ác pháp, chứng và trú thiền thứ nhất, một trạng thái hỷ lạc do ly dục sanh, với tầm, với tứ. Tỷkheo thấm nhuần, tẩm ướt, làm cho sung mãn tràn đầy thân mình với hỷ lạc do ly dục sanh, không một
+dục, ly ác pháp, chứng và trú thiền thứ nhất, một trạng thái hỷ lạc do ly dục sanh, với tầm, với tứ. Tỷ-kheo thấm nhuần, tẩm ướt, làm cho sung mãn tràn đầy thân mình với hỷ lạc do ly dục sanh, không một
 chỗ nào trên toàn thân không hỷ lạc do ly dục sanh ấy thấm nhuần.
 
 55. Này Lohicca, như một người hầu tắm lão luyện hay đệ tử người hầu tắm. Sau khi rắc bột tắm trong
@@ -6281,7 +6281,7 @@ Các Tỷ-kheo này đáp lời Thế Tôn. Thế Tôn giảng như sau:
 Chánh Ðẳng Giác ra đời. Này các Tỷ-kheo, cũng trong ba mươi mốt kiếp ấy, Thế Tôn Vessabhù (Tỳ-xábà) bậc A-la-hán, Chánh Ðẳng Giác ra đời. Này các Tỷ-kheo cũng trong tiền kiếp ấy, Thế Tôn
 Kakusandha (Câu-lâu-tôn) bậc A-la-hán, Chánh Ðẳng Giác ra đời. Này các Tỷ-kheo, cũng trong tiền
 kiếp ấy, Thế Tôn Konàgamana (Câu-na-hàm) bậc A-la-hán, Chánh Ðẳng Giác ra đời. Này các Tỷ-kheo,
-cũng trong tiền kiếp ấy, Thế Tôn Kassapa (Ca-diếp) bậc A-la-hán, Chánh Ðẳng Giác ra đời. Này các Tỷkheo, cũng trong tiền kiếp ấy, nay Ta, bậc A-la-hán, Chánh Ðẳng Giác ra đời.
+cũng trong tiền kiếp ấy, Thế Tôn Kassapa (Ca-diếp) bậc A-la-hán, Chánh Ðẳng Giác ra đời. Này các Tỷ-kheo, cũng trong tiền kiếp ấy, nay Ta, bậc A-la-hán, Chánh Ðẳng Giác ra đời.
 
 5. Này các Tỷ-kheo, Thế Tôn Vipasì, bậc A-la-hán, Chánh Ðẳng Giác sanh thuộc chủng tánh Sát-đế-lỵ,
 sanh trong giai cấp Sát-đế-lỵ. Này các Tỷ-kheo, Thế Tôn Sikhì, bậc A-la-hán, Chánh Ðẳng Giác, thuộc
@@ -6293,7 +6293,7 @@ Giác thuộc chủng tánh Bà-la-môn, sanh trong giai cấp Bà-la-môn. Này
 6. Này các Tỷ-kheo, Thế Tôn Vipasì, bậc A-la-hán, Chánh Ðẳng Giác thuộc danh tánh Kondanna (Câuly-nhã). Này các Tỷ-kheo, Thế Tôn Sikhì, bậc A-la-hán, Chánh Ðẳng Giác thuộc danh tánh Kondanna.
 Này các Tỷ-kheo, Thế Tôn Vessabhù, bậc A-la-hán, Chánh Ðẳng Giác thuộc danh tánh Kondanna. Này
 các Tỷ-kheo, Thế Tôn Kakusandha, bậc A-la-hán, Chánh Ðẳng Giác thuộc danh tánh Kassapa. Này các
-Tỷ-kheo, Thế Tôn Konàgamara, bậc A-la-hán, Chánh Ðẳng Giác thuộc danh tánh Kassapa. Này các Tỷkheo, Thế Tôn Kassapa, bậc A-la-hán, Chánh Ðẳng Giác thuộc danh tánh Kassapa. Này các Tỷ-kheo,
+Tỷ-kheo, Thế Tôn Konàgamara, bậc A-la-hán, Chánh Ðẳng Giác thuộc danh tánh Kassapa. Này các Tỷ-kheo, Thế Tôn Kassapa, bậc A-la-hán, Chánh Ðẳng Giác thuộc danh tánh Kassapa. Này các Tỷ-kheo,
 nay Ta là bậc A-la-hán, Chánh Ðẳng Giác, thuộc danh tánh Gotama (Cù-đàm).
 
 7. Này các Tỷ-kheo, trong thời Thế Tôn Vipassì bậc A-la-hán, Chánh Ðẳng Giác, tuổi thọ loài người là
@@ -6318,7 +6318,7 @@ tên là Khanda (Kiển-trà) và Tissa (Ðề-xá). Này các Tỷ-kheo, hai v�
 Sikhì, bậc A-la-hán, Chánh Ðẳng Giác, tên là Abhibhù (A-tỳ-phù) và Sambhava (Tam-bà-bà). Này các
 Tỷ-kheo, hai vị hiền sĩ, đệ nhất đệ tử của Thế Tôn Vessabhu, bậc A-la-hán, Chánh Ðẳng Giác, tên là
 Sona (Phù-du) và Uttara (Uất-đa-la). Này các Tỷ-kheo, hai vị hiền sĩ, đệ nhất đệ tử của Thế Tôn
-Kakusandha, bậc A-la-hán, Chánh Ðẳng Giác tên là Vidhùra (Tỳ-lâu) và Sanjìva (Tát-ni). Này các Tỷkheo, hai vị hiền sĩ, đệ nhất đệ tử của Thế Tôn Konàgamana, bậc A-la-hán, Chánh Ðẳng Giác tên là
+Kakusandha, bậc A-la-hán, Chánh Ðẳng Giác tên là Vidhùra (Tỳ-lâu) và Sanjìva (Tát-ni). Này các Tỷ-kheo, hai vị hiền sĩ, đệ nhất đệ tử của Thế Tôn Konàgamana, bậc A-la-hán, Chánh Ðẳng Giác tên là
 Bhiyyosa (Thư-bàn-na) và Uttara (Uất-đa-la). Này các Tỷ-kheo, hai vị hiền sĩ, đệ nhất đệ tử của Thế
 Tôn Kassapa, bậc A-la-hán, Chánh Ðẳng Giác tên là Tissa (Ðề-xá) và Bhàradvàja (Bà-la-bà). Này các
 Tỷ-kheo, hai vị hiền sĩ, đệ nhất đệ tử của Ta là Sãriputta (Xá-lợi-phất) và Moggallàna (Mục-kiền-liên).
@@ -6362,7 +6362,7 @@ trăm năm mươi Tỷ-kheo, tất cả đều là bậc Lậu tận.
 
 11. Này các Tỷ-kheo, Thế Tôn Vipassì, bậc A-la-hán, Chánh Ðẳng Giác, có vị thị giả Tỷ-kheo tên là
 Asoka (A-dục), vị này là vị thị giả đệ nhất. Này các Tỷ-kheo, Thế Tôn Sikhì bậc A-la-hán, Chánh Ðẳng
-Giác có vị thị giả Tỷ-kheo tên là Khemankara (Nhẫn Hành), vị này là vị thị giả đệ nhất. Này các Tỷkheo, Thế Tôn Vessabhũ, bậc A-la-hán, Chánh Ðẳng Giác có vị thị giả Tỷ-kheo tên là Upasannaka (Tịch
+Giác có vị thị giả Tỷ-kheo tên là Khemankara (Nhẫn Hành), vị này là vị thị giả đệ nhất. Này các Tỷ-kheo, Thế Tôn Vessabhũ, bậc A-la-hán, Chánh Ðẳng Giác có vị thị giả Tỷ-kheo tên là Upasannaka (Tịch
 Diệt) vị này là vị thị giả đệ nhất. Này các Tỷ-kheo, Thế Tôn Kakusandha, bậc A-la-hán, Chánh Ðẳng
 Giác có vị thị giả Tỷ-kheo tên là Vuddhija (Thiện Giác), vị này là thị giả đệ nhất. Này các Tỷ-kheo, Thế
 Tôn Konàgamana, bậc A-la-hán, Chánh Ðẳng Giác có vị thị giả Tỷ-kheo tên là Sotthija (An Hòa), vị này
@@ -6476,7 +6476,7 @@ Giác thuộc danh tánh Kondanna. Này các Tỷ-kheo, Thế Tôn Vipassì, b�
 tuổi thọ đến tám vạn năm. Này các Tỷ-kheo, Thế Tôn Vipassì, bậc A-la-hán, Chánh Ðẳng Giác, giác
 ngộ dưới gốc cây Patali (Ba-ba-la). Này các Tỷ-kheo, hai vị hiền sĩ, đệ nhất đệ tử của Thế Tôn Vipassì,
 bậc A-la-hán, Chánh Ðẳng Giác tên là Khanda (Kiển-trà) và Tissa (Ðề-xá). Này các Tỷ-kheo, trong thời
-Thế Tôn Vipassì, bậc A-la-hán, Chánh Ðẳng Giác có ba Tăng hội: một Tăng hội sáu mươi tám vạn Tỷkheo, một Tăng hội mười vạn Tỷ-kheo, một Tăng hội tám vạn Tỷ-kheo. Này các Tỷ-kheo, Thế Tôn
+Thế Tôn Vipassì, bậc A-la-hán, Chánh Ðẳng Giác có ba Tăng hội: một Tăng hội sáu mươi tám vạn Tỷ-kheo, một Tăng hội mười vạn Tỷ-kheo, một Tăng hội tám vạn Tỷ-kheo. Này các Tỷ-kheo, Thế Tôn
 Vipassì, bậc A-la-hán, Chánh Ðẳng Giác có vị thị giả Tỷ-kheo tên là Asoka (A-dục), vị này là vị thị giả
 đệ nhất. Này các Tỷ-kheo, Phụ Vương Thế Tôn Tỳ-bà-thi, bậc A-la-hán, Chánh Ðẳng Giác tên là
 Bandhumà (Bàn-đầu), mẫu hậu tên là Bandhumatì (Bàn-đầu-bà-đề), kinh thành của Bandhumà tên là
@@ -7239,7 +7239,7 @@ phúc cho đại chúng, vì an lạc cho đại chúng, vì lòng thương tư�
 an lạc cho loài Người, loài Trời. Chớ có đi hai người cùng một chỗ. Này các Tỷ-kheo, hãy thuyết giảng
 chánh pháp, sơ thiện, trung thiện, hậu thiện, nghĩa văn đầy đủ, văn cú vẹn toàn. Hãy nêu rõ phạm hạnh
 hoàn toàn thanh tịnh. Có những chúng sanh ít nhiễm bụi đời, nếu không được nghe chánh pháp sẽ bị
-nguy hại. (Nếu được nghe), sẽ thâm hiểu chánh pháp”. Bạch Thế Tôn, chúng con sẽ làm như các vị Tỷkheo. Sau sáu năm, các vị này đến kinh đô Bandhumati để tụng đọc giới bổn”.
+nguy hại. (Nếu được nghe), sẽ thâm hiểu chánh pháp”. Bạch Thế Tôn, chúng con sẽ làm như các vị Tỷ-kheo. Sau sáu năm, các vị này đến kinh đô Bandhumati để tụng đọc giới bổn”.
 
 Này các Tỷ-kheo, Ðại Phạm thiên thuyết như vậy. Sau khi nói xong, vị này đảnh lễ Thế Tôn Vipassi,
 bậc A-la-hán, Chánh Ðẳng Giác, lưng bên hữu hướng về Ngài và biến mất tại chỗ.
@@ -7983,7 +7983,7 @@ làm việc Tăng sự trong niệm đoàn kết, thời này các Tỷ-kheo, ch
 không bị suy giảm.
 
 Này các Tỷ-kheo, khi nào chúng Tỷ-kheo không ban hành những luật lệ không được ban hành, không
-hủy bỏ những luật lệ đã được ban hành, sống đúng với những học giới được ban hành, thời này các Tỷkheo, chúng Tỷ-kheo sẽ được cường thịnh, không bị suy giảm.
+hủy bỏ những luật lệ đã được ban hành, sống đúng với những học giới được ban hành, thời này các Tỷ-kheo, chúng Tỷ-kheo sẽ được cường thịnh, không bị suy giảm.
 
 Này các Tỷ-kheo, khi nào chúng Tỷ-kheo tôn sùng, kính trọng, đảnh lễ, cúng dường các bậc Tỷ-kheo
 thượng tọa những vị này là những vị giàu kinh nghiệm, niên cao lạp trưởng, bậc cha của chúng Tăng,
@@ -7999,7 +7999,7 @@ Này các Tỷ-kheo, khi nào chúng Tỷ-kheo tự thân an trú chánh niệm,
 chưa đến muốn đến ở, và các bạn đồng tu thiện chí đã đến ở, được sống an lạc, thời này các Tỷ-kheo,
 chúng Tỷ-kheo sẽ được cường thịnh, không bị suy giảm.
 
-Này các Tỷ-kheo, khi nào bảy pháp bất thối này được duy trì giữa các vị Tỷ-kheo, khi nào các vị Tỷkheo được dạy bảy pháp bất thối này, thời này các Tỷ-kheo, chúng Tỷ-kheo sẽ được cường thịnh, không
+Này các Tỷ-kheo, khi nào bảy pháp bất thối này được duy trì giữa các vị Tỷ-kheo, khi nào các vị Tỷ-kheo được dạy bảy pháp bất thối này, thời này các Tỷ-kheo, chúng Tỷ-kheo sẽ được cường thịnh, không
 bị suy giảm.
 
 7. Này các Tỷ-kheo, Ta sẽ giảng bày pháp bất thối khác, hãy nghe và suy nghiệm kỹ. Ta sẽ nói.
@@ -8014,7 +8014,7 @@ Này các Tỷ-kheo, khi nào chúng Tỷ-kheo không ưa thích làm thế sự
 Này các Tỷ-kheo, khi nào chúng Tỷ-kheo không ưa thích phiếm luận, không hoan hỷ phiếm luận, không
 đam mê phiếm luận, thời này các Tỷ-kheo, chúng Tỷ-kheo sẽ được cường thịnh, không bị suy giảm.
 
-Này các Tỷ-kheo, khi nào chúng Tỷ-kheo không ưa thích ngủ nghỉ, thời này các Tỷ-kheo, chúng Tỷkheo sẽ được cường thịnh, không bị suy giảm.
+Này các Tỷ-kheo, khi nào chúng Tỷ-kheo không ưa thích ngủ nghỉ, thời này các Tỷ-kheo, chúng Tỷ-kheo sẽ được cường thịnh, không bị suy giảm.
 
 Này các Tỷ-kheo, khi nào chúng Tỷ-kheo không ưa thích quần tụ, không hoan hỷ quần tụ, không đam
 mê quần tụ, thời này các Tỷ-kheo, chúng Tỷ-kheo sẽ được cường thịnh, không bị suy giảm.
@@ -8030,7 +8030,7 @@ Này các Tỷ-kheo, khi nào chúng Tỷ-kheo không dừng ở nửa chừng, 
 kém và những quả vị thù thắng, thời này các Tỷ-kheo, chúng Tỷ-kheo sẽ được cường thịnh, không bị
 suy giảm.
 
-Này các Tỷ-kheo, khi nào bảy pháp bất thối này được duy trì giữa các vị Tỷ-kheo, khi nào các vị Tỷkheo được dạy bảy pháp bất thối này, thời này các Tỷ-kheo, chúng Tỷ-kheo sẽ được cường thịnh, không
+Này các Tỷ-kheo, khi nào bảy pháp bất thối này được duy trì giữa các vị Tỷ-kheo, khi nào các vị Tỷ-kheo được dạy bảy pháp bất thối này, thời này các Tỷ-kheo, chúng Tỷ-kheo sẽ được cường thịnh, không
 bị suy giảm.
 
 8. Này các Tỷ-kheo, Ta sẽ giảng bảy pháp bất thối khác, hãy nghe và suy nghiệm kỹ. Ta sẽ nói.
@@ -8041,7 +8041,7 @@ Những vị Tỷ-kheo ấy đáp ứng Thế Tôn. Thế Tôn nói:
 - Này các Tỷ-kheo, khi nào chúng Tỷ-kheo có tín tâm, có tàm, có quý, có nghe nhiều, có tinh tấn, có
 chánh niệm, có trí tuệ, thời này các Tỷ-kheo, chúng Tỷ-kheo sẽ được cường thịnh, không bị suy giảm.
 
-Này các Tỷ-kheo, khi nào bảy pháp bất thối này được duy trì giữa các vị Tỷ-kheo, khi nào các vị Tỷkheo được dạy bảy pháp bất thối này, thời này các Tỷ-kheo, chúng Tỷ-kheo sẽ được cường thịnh, không
+Này các Tỷ-kheo, khi nào bảy pháp bất thối này được duy trì giữa các vị Tỷ-kheo, khi nào các vị Tỷ-kheo được dạy bảy pháp bất thối này, thời này các Tỷ-kheo, chúng Tỷ-kheo sẽ được cường thịnh, không
 bị suy giảm.
 
 9. Này các Tỷ-kheo, Ta sẽ giảng bảy pháp bất thối khác, hãy nghe và suy nghiệm kỹ. Ta sẽ nói.
@@ -8054,7 +8054,7 @@ Chư Tỷ-kheo đáp ứng. Thế Tôn nói:
 tấn giác chi, tu tập khinh an giác chi, tu tập định giác chi, tu tập xả giác chi, thời này các Tỷ-kheo, chúng
 Tỷ-kheo sẽ được cường thịnh, không bị suy giảm.
 
-Này các Tỷ-kheo, khi nào bảy pháp bất thối này được duy trì giữa các vị Tỷ-kheo, khi nào các vị Tỷkheo được dạy bảy pháp bất thối này, thời này các Tỷ-kheo, chúng Tỷ-kheo sẽ được cường thịnh, không
+Này các Tỷ-kheo, khi nào bảy pháp bất thối này được duy trì giữa các vị Tỷ-kheo, khi nào các vị Tỷ-kheo được dạy bảy pháp bất thối này, thời này các Tỷ-kheo, chúng Tỷ-kheo sẽ được cường thịnh, không
 bị suy giảm.
 
 10. Này các Tỷ-kheo, Ta sẽ giảng bảy pháp bất thối khác, hãy nghe và suy nghiệm kỹ. Ta sẽ nói.
@@ -8067,7 +8067,7 @@ Những vị Tỷ-kheo ấy đáp ứng Thế Tôn. Thế Tôn nói:
 tưởng, tu tập nguy hiểm tưởng, tu tập xả ly tưởng, tu tập vô tham tưởng, tu tập diệt tưởng, thời này các
 Tỷ-kheo, chúng Tỷ-kheo sẽ được cường thịnh, không bị suy giảm.
 
-Này các Tỷ-kheo, khi nào bảy pháp bất thối này được duy trì giữa các vị Tỷ-kheo, khi nào các vị Tỷkheo được dạy bảy pháp bất thối này, thời này các Tỷ-kheo, chúng Tỷ-kheo sẽ được cường thịnh, không
+Này các Tỷ-kheo, khi nào bảy pháp bất thối này được duy trì giữa các vị Tỷ-kheo, khi nào các vị Tỷ-kheo được dạy bảy pháp bất thối này, thời này các Tỷ-kheo, chúng Tỷ-kheo sẽ được cường thịnh, không
 bị suy giảm.
 
 11. Này các Tỷ-kheo, Ta sẽ giảng sáu pháp bất thối, hãy nghe và suy nghiệm kỹ. Ta sẽ giảng.
@@ -8102,10 +8102,10 @@ trong sự thọ trì những tri kiến đúng với Sa-môn hạnh, những th
 đến sự diệt tận khổ đau cho những ai thực hành theo, thời này các Tỷ-kheo, chúng Tỷ-kheo sẽ được
 cường thịnh, không bị suy giảm.
 
-Này các Tỷ-kheo, khi nào sáu pháp bất thối này được duy trì giữa các vị Tỷ-kheo, khi nào các vị Tỷkheo được dạy sáu pháp bất thối này, thời này các Tỷ-kheo, chúng Tỷ-kheo sẽ được cường thịnh, không
+Này các Tỷ-kheo, khi nào sáu pháp bất thối này được duy trì giữa các vị Tỷ-kheo, khi nào các vị Tỷ-kheo được dạy sáu pháp bất thối này, thời này các Tỷ-kheo, chúng Tỷ-kheo sẽ được cường thịnh, không
 bị suy giảm.
 
-12. Trong thời gian Thế Tôn ở Vương Xá tại núi Linh Thứu, pháp thoại này được giảng cho chúng Tỷkheo: “Ðây là Giới, đây là Ðịnh, đây là Tuệ. Ðịnh cùng tu với Giới sẽ đưa đến quả vị lớn, lợi ích lớn.
+12. Trong thời gian Thế Tôn ở Vương Xá tại núi Linh Thứu, pháp thoại này được giảng cho chúng Tỷ-kheo: “Ðây là Giới, đây là Ðịnh, đây là Tuệ. Ðịnh cùng tu với Giới sẽ đưa đến quả vị lớn, lợi ích lớn.
 Tuệ cùng tu với Ðịnh sẽ đưa đến quả vị lớn, lợi ích lớn. Tâm cùng tu với Tuệ sẽ đưa đến giải thoát hoàn
 toàn các món lậu hoặc tức là dục lậu, hữu lậu (tri kiến lậu), vô minh lậu”.
 
@@ -8213,7 +8213,7 @@ Pàtaligàma bạch Thế Tôn:
 dầu đèn đã được chuẩn bị. Bạch Thế Tôn, Ngài hãy làm những gì Ngài nghĩ là phải thời.
 
 22. Rồi Thế Tôn đắp y, cầm y bát, cùng với đại chúng Tỷ-kheo đi đến nhà nghỉ mát, sau khi đến liền rửa
-chân bước vào nhà, ngồi xuống, lưng dựa và bức tường ở giữa, mặt hướng về phía Ðông. Chúng Tỷkheo sau khi rửa chân, bước vào nhà ngồi xuống, lưng dựa vào bức tường phía Ðông, hướng mặt phía
+chân bước vào nhà, ngồi xuống, lưng dựa và bức tường ở giữa, mặt hướng về phía Ðông. Chúng Tỷ-kheo sau khi rửa chân, bước vào nhà ngồi xuống, lưng dựa vào bức tường phía Ðông, hướng mặt phía
 Tây, đối diện Thế Tôn.
 
 23. Thế Tôn nói với các cư sĩ ở Pataligama:
@@ -8344,7 +8344,7 @@ _Những người ấy thật là những vị trí tuệ được giải thoát
 
 1. Rồi Thế Tôn gọi tôn giả Ananda: “Này Ananda, chúng ta hãy đi đến Kotigàma”
 
-- “Xin vâng, bạch Thế Tôn”. Tôn giả Ananda đáp ứng Thế Tôn. Rồi Thế Tôn cùng với đại chúng Tỷkheo đi đến Kotigàma. Tại đây, Thế Tôn ở tại Kotigàma.
+- “Xin vâng, bạch Thế Tôn”. Tôn giả Ananda đáp ứng Thế Tôn. Rồi Thế Tôn cùng với đại chúng Tỷ-kheo đi đến Kotigàma. Tại đây, Thế Tôn ở tại Kotigàma.
 
 2. Thế Tôn nói với các vị Tỷ-kheo:
 
@@ -9168,7 +9168,7 @@ sánh với Kinh, đem đối chiếu với Luật. Khi đem so sánh với Kinh
 hợp với Kinh, không tương ứng với Luật, và nếu chúng phù hợp với Kinh, tương ứng với Luật, thời các
 Ngươi có thể kết luận: “Chắc chắn những lời này không phải là lời Thế Tôn và Tỷ-kheo ấy đã thọ giáo
 sai lầm”. Và, này các Tỷ-kheo, các Ngươi hãy từ bỏ chúng. Khi đem so sánh với Kinh, đem đối chiếu
-với Luật, thời các Ngươi có thể kết luận: “Chắc chắn những lời ấy phải là lời dạy của Thế Tôn và Tỷkheo ấy đã thọ giáo chơn chánh”. Này các Tỷ-kheo, như vậy là Ðại giáo pháp thứ ba, các Ngươi hãy thọ
+với Luật, thời các Ngươi có thể kết luận: “Chắc chắn những lời ấy phải là lời dạy của Thế Tôn và Tỷ-kheo ấy đã thọ giáo chơn chánh”. Này các Tỷ-kheo, như vậy là Ðại giáo pháp thứ ba, các Ngươi hãy thọ
 trì.
 11. Này các Tỷ-kheo, có thể có Tỷ-kheo nói: “Tại trú xứ kia, có một vị Thượng tọa, vị này là bậc đa
 văn, gìn giữ truyền thống, trì pháp, trì luật, trì pháp yếu. Tôi tự thân nghe từ Thượng tọa, tự thân lãnh
@@ -9221,7 +9221,7 @@ loại mềm và nhiều thứ Sùkara-maddave (một loại mộc nhĩ), và b�
 loại mềm, hãy dọn cho chúng Tỷ-kheo.
 - Xin vâng, bạch Thế Tôn!
 
-Thợ sắt Cunda vâng lời Thế Tôn, dọn cho Thế Tôn các món mộc nhĩ đã soạn sẵn, và dọn cho chúng Tỷkheo các món ăn khác, loại cứng và loại mềm.
+Thợ sắt Cunda vâng lời Thế Tôn, dọn cho Thế Tôn các món mộc nhĩ đã soạn sẵn, và dọn cho chúng Tỷ-kheo các món ăn khác, loại cứng và loại mềm.
 
 19. Rồi Thế Tôn nói với thợ sắt Cunda:
 
@@ -9860,7 +9860,7 @@ Subhadda, nếu những Tỷ-kheo sống chơn chánh, thì đời này không v
 - Thật hy hữu thay, bạch Thế Tôn! Thật vi diệu thay, bạch Thế Tôn! Như người dựng đứng lại những gì
 bị quăng ngã xuống, phơi bày ra những gì bị che kín, chỉ đường cho người bị lạc hướng, đem đèn sáng
 vào trong bóng tối để những ai có mắt có thể thấy sắc. Cũng vậy, chánh pháp đã được Thế Tôn dùng
-nhiều phương tiện trình bày, giải thích. Bạch Thế Tôn, con xin quy y Thế Tôn, quy y Pháp và quy y Tỷkheo Tăng. Mong con được xuất gia với Thế Tôn. Con xin thọ đại giới.
+nhiều phương tiện trình bày, giải thích. Bạch Thế Tôn, con xin quy y Thế Tôn, quy y Pháp và quy y Tỷ-kheo Tăng. Mong con được xuất gia với Thế Tôn. Con xin thọ đại giới.
 - Này Subhadda, ai trước kia là ngoại đạo, nay muốn xuất gia muốn thọ đại giới trong Pháp, Luật này
 phải sống bốn tháng biệt trú. Sau khi sống bốn tháng biệt trú, các vị Tỷ-kheo nếu đồng ý sẽ cho xuất gia,
 cho thọ đại giới để thành vị Tỷ-kheo. Nhưng Ta nhận thấy cá tánh con người sai biệt nhau.
@@ -10134,7 +10134,7 @@ vấn thêm với vải gai bện. Sau khi vấn với vải gai bện lại v�
 này vào một hòm sắt khác, dựng lên một giàn hỏa gồm mọi loại hương và đặt thân Thế Tôn trên giàn
 hỏa.
 
-19. Lúc bấy giờ, Tôn giả Mallà Kassapa đang đi giữa đường từ Pàvà đến Kusinàrà với đại chúng Tỷkheo khoảng năm trăm vị. Rồi Tôn giả Mallà Kassapa bước xuống đường và đến ngồi tại một gốc cây.
+19. Lúc bấy giờ, Tôn giả Mallà Kassapa đang đi giữa đường từ Pàvà đến Kusinàrà với đại chúng Tỷ-kheo khoảng năm trăm vị. Rồi Tôn giả Mallà Kassapa bước xuống đường và đến ngồi tại một gốc cây.
 
 Lúc bấy giờ có một tà mạng ngoại đạo lấy một hoa Mandàrava ở Kusinàrà và đang đi trên một con
 đường đến Pàvà.
@@ -13953,7 +13953,7 @@ này trong bảy tháng, vị ấy có thể chứng một trong hai quả sau �
 hiện tại, hay nếu còn hữu dư y, thì chứng quả Bất hoàn. Này các Tỷ-kheo, không cần gì bảy tháng, một
 vị nào tu tập Bốn Niệm xứ này trong sáu tháng... trong năm tháng... trong bốn tháng... trong ba tháng...
 trong hai tháng... trong một tháng... trong nửa tháng... vị ấy có thể chứng một trong hai quả sau đây: Một
-là chứng Chánh trí ngay trong hiện tại, hai là nếu còn hữu dư y, thì chứng quả Bất hoàn. Này các Tỷkheo, không cần gì nửa tháng, một vị nào tu tập Bốn Niệm xứ này trong bảy ngày, vị ấy có thể chứng
+là chứng Chánh trí ngay trong hiện tại, hai là nếu còn hữu dư y, thì chứng quả Bất hoàn. Này các Tỷ-kheo, không cần gì nửa tháng, một vị nào tu tập Bốn Niệm xứ này trong bảy ngày, vị ấy có thể chứng
 một trong hai quả sau đây: Một là chứng Chánh trí ngay trong hiện tại, hai là nếu còn hữu dư y, thì
 chứng quả Bất hoàn.
 
@@ -18765,7 +18765,7 @@ ngọt như tiếng chim Karavika (Ca-lăng-tần-già).
 23. Ngài đầu đủ các tướng ấy, nếu sống tại gia làm vị Chuyển luân Thánh vương. Làm vua được những
 gì? Lời nói được chấp nhận. Các vị cư sĩ, Bà-la-môn, thị dân, thôn dân, tài chánh quan, tư chánh quan,
 võ sĩ, thủ môn quan, đại thần, phó vương, phú gia, các vương tử đều chấp nhận lời nói của Ngài. Làm
-vua Ngài được như vậy... Làm Phật được những gì? Lời nói Ngài được chấp nhận. Các vị Tỷ-kheo, Tỷkheo-ni, Nam cư sĩ, Nữ cư sĩ, chư Thiên, loài Người, A-tu-la, Long xà, Càn-thát-bà chấp nhận lời của
+vua Ngài được như vậy... Làm Phật được những gì? Lời nói Ngài được chấp nhận. Các vị Tỷ-kheo, Tỷ-kheo-ni, Nam cư sĩ, Nữ cư sĩ, chư Thiên, loài Người, A-tu-la, Long xà, Càn-thát-bà chấp nhận lời của
 Ngài. Làm Phật được như vậy.
 
 Thế Tôn thuyết giảng như vậy.
@@ -19616,7 +19616,7 @@ Những vị này là những Dạ-xoa, đại Dạ-xoa, quân sư, đại quân
 lên: “Dạ-xoa này bắt tôi, Dạ-xoa này tấn công tôi, Dạ-xoa này đả thương tôi, Dạ-xoa này hại tôi, Dạ-xoa
 này làm hại tôi, Dạ-xoa này không thả tôi ra”.
 
-11. Này Tôn giả, đây là Hộ Kinh Atànàtiyà che chở, hộ trì, ngăn không cho ai làm hại các Tỷ-kheo, Tỷkheo-ni, Nam cư sĩ, Nữ cư sĩ và khiến các vị này sống an lạc.
+11. Này Tôn giả, đây là Hộ Kinh Atànàtiyà che chở, hộ trì, ngăn không cho ai làm hại các Tỷ-kheo, Tỷ-kheo-ni, Nam cư sĩ, Nữ cư sĩ và khiến các vị này sống an lạc.
 
 Thưa Tôn giả, nay chúng tôi cần phải đi, chúng tôi có nhiều việc, có nhiều bổn phận.
 
@@ -19640,7 +19640,7 @@ _có lòng thương muôn loài..._
 
 Này Tôn giả, đó là hộ kinh Atànàtiyà che chở, hộ trì, ... (như trên) ... rồi biến mất tại chỗ”.
 
-13. Này các Tỷ-kheo, hãy học Hộ Kinh Atànàtiyà này, hãy thuộc lòng Kinh Atànàtiyà này. Này các Tỷkheo, Tỷ-kheo-ni, Nam cư sĩ, Nữ cư sĩ được che chở, được hộ trì, được ngăn khỏi ai làm hại, được sống
+13. Này các Tỷ-kheo, hãy học Hộ Kinh Atànàtiyà này, hãy thuộc lòng Kinh Atànàtiyà này. Này các Tỷ-kheo, Tỷ-kheo-ni, Nam cư sĩ, Nữ cư sĩ được che chở, được hộ trì, được ngăn khỏi ai làm hại, được sống
 thoải mái hạnh phúc.
 
 Thế Tôn thuyết giảng như vậy. Các vị Tỷ-kheo ấy hoan hỷ thọ trì lời dạy Thế Tôn.
@@ -21202,7 +21202,7 @@ Này các Hiền giả, thế nào là vị Tỷ- kheo, tâm thiện giải tho�
 Tỷ- kheo tâm giải thoát khỏi tham, tâm giải thoát khỏi sân, tâm giải thoát khỏi si. Này các
 Hiền giả, như vậy vị Tỷ kheo tâm thiện giải thoat.
 
-Này các Hiền giả, thế nào là vị Tỷ kheo tuệ thiện giải thoát? Này các Hiền giả, ở đây vị Tỷkheo biết rằng: “Tham tâm của ta đã được trừ, cắt tận gốc rễ, như cây ta-la bị chặt, đi đến
+Này các Hiền giả, thế nào là vị Tỷ kheo tuệ thiện giải thoát? Này các Hiền giả, ở đây vị Tỷ-kheo biết rằng: “Tham tâm của ta đã được trừ, cắt tận gốc rễ, như cây ta-la bị chặt, đi đến
 chỗ không hiện hữu, không có khả năng sanh khởi trong tương lai”. Vị ấy biết rằng: “Sân
 tâm của ta đã đoạn trừ, cắt tận gốc rễ, như cây ta-la bị chặt, đi đến chỗ không hiện hữu,
 không có khả năng sanh khởi trong tương lai”. Vị ấy biết rằng: “Si tâm của ta đã đoạn trừ,
@@ -22289,7 +22289,7 @@ Này các Hiền giả, thế nào là vị Tỷ- kheo, tâm thiện giải tho�
 Tỷ- kheo tâm giải thoát khỏi tham, tâm giải thoát khỏi sân, tâm giải thoát khỏi si. Này các
 Hiền giả, như vậy vị Tỷ kheo tâm thiện giải thoat.
 
-Này các Hiền giả, thế nào là vị Tỷ kheo tuệ thiện giải thoát? Này các Hiền giả, ở đây vị Tỷkheo biết rằng: “Tham tâm của ta đã được trừ, cắt tận gốc rễ, như cây ta-la bị chặt, đi đến
+Này các Hiền giả, thế nào là vị Tỷ kheo tuệ thiện giải thoát? Này các Hiền giả, ở đây vị Tỷ-kheo biết rằng: “Tham tâm của ta đã được trừ, cắt tận gốc rễ, như cây ta-la bị chặt, đi đến
 chỗ không hiện hữu, không có khả năng sanh khởi trong tương lai”. Vị ấy biết rằng: “Sân
 tâm của ta đã đoạn trừ, cắt tận gốc rễ, như cây ta-la bị chặt, đi đến chỗ không hiện hữu,
 không có khả năng sanh khởi trong tương lai”. Vị ấy biết rằng: “Si tâm của ta đã đoạn trừ,

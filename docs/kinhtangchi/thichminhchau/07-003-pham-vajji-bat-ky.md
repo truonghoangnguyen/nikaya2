@@ -163,7 +163,7 @@ Một thời, Thế Tôn trú ở Vương Xá, tại núi Linh Thứu (Gijjhakù
 
 Các Tỷ-kheo ấy vâng đáp Thế Tôn. Thế Tôn nói như sau:
 
-2\. - Và này các Tỷ-kheo, thế nào là bảy pháp không bị suy giảm? Này các Tỷ-kheo, khi nào chúng Tỷkheo thường hay tụ họp và tụ họp đông đảo với nhau, thời này các Tỷ-kheo, chúng Tỷ-kheo sẽ được lớn
+2\. - Và này các Tỷ-kheo, thế nào là bảy pháp không bị suy giảm? Này các Tỷ-kheo, khi nào chúng Tỷ-kheo thường hay tụ họp và tụ họp đông đảo với nhau, thời này các Tỷ-kheo, chúng Tỷ-kheo sẽ được lớn
 mạnh, không bị suy giảm.
 
 Này các Tỷ-kheo, khi nàc chúng Tỷ-kheo tụ họp trong niệm đoàn kết, giải tán trong niệm đoàn kết, và
@@ -171,7 +171,7 @@ làm việc Tăng sự trong niệm đoàn kết, thời này các Tỷ-kheo, ch
 bị suy giảm.
 
 Này các Tỷ-kheo, khi nào chúng Tỷ-kheo không ban hành những luật lệ không được ban hành, không
-hủy bỏ những luật lệ đã được ban hành, sống đúng với những học giới được ban hành, thời này các Tỷkheo, chúng Tỷ-kheo sẽ được lớn mạnh, không bị suy giảm.
+hủy bỏ những luật lệ đã được ban hành, sống đúng với những học giới được ban hành, thời này các Tỷ-kheo, chúng Tỷ-kheo sẽ được lớn mạnh, không bị suy giảm.
 
 Này các Tỷ-kheo, khi nào chúng Tỷ-kheo tôn sùng, kính trọng, đảnh lễ, cúng dường các bậc Tỷ-kheo
 Thượng tọa, những vị này là những vị giàu kinh nghiệm, niên cao lạp trưởng, bậc cha của chúng Tăng,

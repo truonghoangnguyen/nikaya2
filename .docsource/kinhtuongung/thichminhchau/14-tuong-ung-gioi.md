@@ -1031,11 +1031,11 @@ phong giới. Và vì rằng, này các Tỷ-kheo, có sự xuất ly phong gi�
 giới.
 
 14\. Này các Tỷ-kheo, cho đến khi nào các chúng sanh đối với bốn giới này chưa như thật thắng tri như
-vậy vị ngọt là vị ngọt, như vậy nguy hiểm là nguy hiểm, như vậy xuất ly là xuất ly; thời này các Tỷkheo, các chúng sanh này không sống với tâm viễn ly, không tương quan, không liên hệ, với những
+vậy vị ngọt là vị ngọt, như vậy nguy hiểm là nguy hiểm, như vậy xuất ly là xuất ly; thời này các Tỷ-kheo, các chúng sanh này không sống với tâm viễn ly, không tương quan, không liên hệ, với những
 chướng ngại được từ bỏ đối với Thiên giới, Ma giới, Phạm thiên giới, cùng các chúng Sa-môn, Bà-lamôn, với chư Thiên và loài Người.
 
 15\. Và này các Tỷ-kheo, cho đến khi nào các chúng sanh đối với bốn giới này đã như thật thắng tri như
-vậy vị ngọt là vị ngọt, như vậy nguy hiểm là nguy hiểm, như vậy xuất ly là xuất ly; thời này các Tỷkheo, các chúng sanh này sống với tâm viễn ly, không tương quan, không liên hệ với những chướng
+vậy vị ngọt là vị ngọt, như vậy nguy hiểm là nguy hiểm, như vậy xuất ly là xuất ly; thời này các Tỷ-kheo, các chúng sanh này sống với tâm viễn ly, không tương quan, không liên hệ với những chướng
 ngại được từ bỏ đối với Thiên giới, Ma giới, Phạm thiên giới, cùng các chúng Sa-môn, Bà-la-môn, với
 chư Thiên và loài Người.
 

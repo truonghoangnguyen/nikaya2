@@ -187,7 +187,7 @@ người, không lợi mình.
 
 Ở đây, này các Tỷ-kheo, có hạng người không hướng đến nhiếp phục tham cho tự mình, không khích lệ
 người khác nhiếp phục tham, không nhiếp phục sân cho tự mình, không khích lệ người khác nhiếp phục
-sân... không nhiếp phục si cho tự mình, không khích lệ người khác nhiếp phục si. Như vậy, này các Tỷkheo, là hạng người không hướng đến lợi mình, không hướng đến lợi người.
+sân... không nhiếp phục si cho tự mình, không khích lệ người khác nhiếp phục si. Như vậy, này các Tỷ-kheo, là hạng người không hướng đến lợi mình, không hướng đến lợi người.
 
 <!--pg-->
 5. Và này các Tỷ-kheo, thế nào là hạng người hướng đến lợi mình và lợi người?

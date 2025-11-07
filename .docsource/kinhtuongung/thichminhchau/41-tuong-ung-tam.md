@@ -564,7 +564,7 @@ làm cho không thể tái sanh, không thể sanh khởi trong tương lai. B�
 hữu tâm giải thoát, bất động tâm giải thoát được xem là tối thượng. Nhưng bất động tâm giải thoát này
 được trống không, không có tham; trống không, không có sân; trống không, không có si.
 
-13\. Tham dục, bạch Thượng tọa, tác thành tướng, sân tác thành tướng, si tác thành tướng. Ðối với Tỷkheo đã đoạn tận các lậu hoặc, chúng bị đoạn tận, bị cắt đứt tận gốc rễ, bị làm như thân cây ta-la, làm
+13\. Tham dục, bạch Thượng tọa, tác thành tướng, sân tác thành tướng, si tác thành tướng. Ðối với Tỷ-kheo đã đoạn tận các lậu hoặc, chúng bị đoạn tận, bị cắt đứt tận gốc rễ, bị làm như thân cây ta-la, làm
 cho không thể tái sanh, không thể sanh khởi trong tương lai. Bạch Thượng tọa, đối với các vô tướng tâm
 giải thoát, bất động tâm giải thoát được xem là tối thượng. Nhưng bất động tâm giải thoát này trống
 không, không có tham; trống không, không có sân; trống không, không có si.
@@ -681,7 +681,7 @@ chủ mặc áo trắng lại có thể chứng đạt được, lại có thể
 đáng bậc Thánh! Thưa Gia chủ, hãy cho tôi được xuất gia trong Pháp và Luật này. Hãy cho tôi thọ đại
 giới.
 
-10\. Rồi gia chủ Citta đưa lõa thể Kassapa đến một số Tỷ-kheo trưởng lão; sau khi đến, thưa với các Tỷkheo trưởng lão:
+10\. Rồi gia chủ Citta đưa lõa thể Kassapa đến một số Tỷ-kheo trưởng lão; sau khi đến, thưa với các Tỷ-kheo trưởng lão:
 
 − Bạch chư Thượng tọa, lõa thể Kassapa này là một người bạn của chúng con khi chúng con còn là gia
 chủ. Chư Thượng tọa hãy cho người này xuất gia, cho thọ đại giới. Con sẽ cố gắng cúng dường các vật

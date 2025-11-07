@@ -2,7 +2,7 @@
 
 **I. (11) Hành.**
 
-1.- Này các Tỷ-kheo, Nếu Tỷ-kheo khi đang đi khởi lên dục tầm, hay sân tầm, hai hại tầm mà nếu Tỷkheo chấp nhận, không có từ bỏ, không có tẩy sạch, không có chấm dứt, không có đi đến không hiện
+1.- Này các Tỷ-kheo, Nếu Tỷ-kheo khi đang đi khởi lên dục tầm, hay sân tầm, hai hại tầm mà nếu Tỷ-kheo chấp nhận, không có từ bỏ, không có tẩy sạch, không có chấm dứt, không có đi đến không hiện
 hữu; này các Tỷ-kheo, nếu Tỷ-kheo đang đi có sở hành như vậy, vị ấy được gọi là người không có nhiệt
 tình, không có xấu hổ, liên tục thường hằng biếng nhác, tinh tấn hạ liệt. Này các Tỷ-kheo, nếu Tỷ-kheo
 khi đang đứng ... khi đang ngồi ... khi đang nằm, thức khởi lên dục tầm, hay sân tầm, hai hại tầm mà nếu
@@ -11,7 +11,7 @@ hữu; này các Tỷ-kheo, nếu Tỷ-kheo khi đang nằm, thức có sở hà
 không có nhiệt tình, không có xấu hổ, liên tục thường hằng biếng nhác, tinh tấn hạ liệt.
 
 <!--pg-->
-2. Này các Tỷ-kheo, Nếu Tỷ-kheo khi đang đi khởi lên dục tầm, hay sân tầm, hai hại tầm mà nếu Tỷkheo không chấp nhận, từ bỏ, tẩy sạch, chấm dứt, đi đến không hiện hữu; này các Tỷ-kheo, nếu Tỷ-kheo
+2. Này các Tỷ-kheo, Nếu Tỷ-kheo khi đang đi khởi lên dục tầm, hay sân tầm, hai hại tầm mà nếu Tỷ-kheo không chấp nhận, từ bỏ, tẩy sạch, chấm dứt, đi đến không hiện hữu; này các Tỷ-kheo, nếu Tỷ-kheo
 đang đi có sở hành như vậy, vị ấy được gọi là người có nhiệt tình, có xấu hổ, liên tục thường hằng, tinh
 cần tinh tấn, siêng năng. Này các Tỷ-kheo, nếu Tỷ-kheo khi đang đứng ... khi đang ngồi ... khi đang
 nằm, thức khởi lên dục tầm, hay sân tầm, hai hại tầm mà nếu Tỷ-kheo không chấp nhận, từ bỏ, tẩy sạch,
@@ -97,7 +97,7 @@ không nắm giữ tướng chung, không nắm giữ tướng riêng. Những n
 chế ngự, khiến tham ái ưu bi, các ác bất thiện pháp khởi lên, Tỷ-kheo chế ngự nguyên nhân ấy, hộ trì
 nhãn căn, thật hành sự hộ trì nhãn căn. Khi tai nghe tiếng ... mũi ngửi hương ... lưỡi nếm vị ... thâm cảm
 xúc ... ý nhận thức các pháp, vị ấy không nắm giữ tướng chung, không nắm giữ tướng riêng. Những
-nguyên nhân gì, vì ý căn không được chế ngự, khiến tham ái ưu bi, các ác bất thiện pháp khởi lên, Tỷkheo chế ngự nguyên nhân ấy, hộ trì ý căn, thật hành sự hộ trì ý căn. Này các Tỷ-kheo, đây gọi là tinh
+nguyên nhân gì, vì ý căn không được chế ngự, khiến tham ái ưu bi, các ác bất thiện pháp khởi lên, Tỷ-kheo chế ngự nguyên nhân ấy, hộ trì ý căn, thật hành sự hộ trì ý căn. Này các Tỷ-kheo, đây gọi là tinh
 cần chế ngự.
 
 Và này các Tỷ-kheo, thế nào là tinh cần đoạn tận? Ở đây, này các Tỷ-kheo, Tỷ-kheo không có chấp

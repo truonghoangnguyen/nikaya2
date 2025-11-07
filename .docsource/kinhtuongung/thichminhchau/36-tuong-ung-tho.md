@@ -156,7 +156,7 @@ hai. Như vậy, này các Tỷ-kheo, người ấy cảm giác cảm thọ cả
 kẻ vô văn phàm phu khi cảm xúc khổ thọ; thời sầu muộn, than vãn, khóc lóc, đấm ngực, đi đến bất tỉnh.
 Người ấy cảm giác hai cảm thọ, cảm thọ về thân và cảm thọ về tâm. Cảm xúc bởi khổ thọ ấy, người ấy
 cảm thấy sân hận (patigha). Do cảm thấy sân hận đối với khổ thọ ấy, sân tùy miên đối với khổ thọ được
-tồn chỉ tùy miên (anuseti). Cảm xúc bởi khổ thọ, người ấy hoan hỷ dục lạc. Vì sao? Vì rằng, này các Tỷkheo, kẻ vô văn phàm phu không tìm thấy một sự xuất ly khổ thọ nào khác, ngoài dục lạc. Do hoan hỷ
+tồn chỉ tùy miên (anuseti). Cảm xúc bởi khổ thọ, người ấy hoan hỷ dục lạc. Vì sao? Vì rằng, này các Tỷ-kheo, kẻ vô văn phàm phu không tìm thấy một sự xuất ly khổ thọ nào khác, ngoài dục lạc. Do hoan hỷ
 dục lạc ấy, tham tùy miên đối với lạc thọ tồn tại. Người ấy không như thật rõ biết sự tập khởi, sự đoạn
 diệt, vị ngọt, sự nguy hiểm và sự xuất ly của các cảm thọ ấy. Do người ấy không như thật rõ biết sự tập
 khởi, sự đoạn diệt, vị ngọt, sự nguy hiểm và sự xuất ly của các cảm thọ ấy, nên vô minh tùy miên đối
@@ -400,7 +400,7 @@ xứ tưởng được khinh an; khi chứng Diệt thọ tưởng định, tư�
 
 3\. − Ví như ở trên hư không có nhiều loại gió thổi. Có gió từ phương Ðông thổi. Có gió từ phương Tây
 thổi. Có gió từ phương Bắc thổi. Có gió từ phương Nam thổi. Có gió có bụi thổi. Có gió không bụi thổi.
-Có gió lạnh thổi. Có gió nóng thổi. Có gió lượng nhỏ thổi, có gió lượng lớn thổi. Cũng vậy, này các Tỷkheo, trong cái thân này, có nhiều loại thọ sai biệt khởi lên. Lạc thọ khởi lên. Khổ thọ khởi lên. Bất khổ
+Có gió lạnh thổi. Có gió nóng thổi. Có gió lượng nhỏ thổi, có gió lượng lớn thổi. Cũng vậy, này các Tỷ-kheo, trong cái thân này, có nhiều loại thọ sai biệt khởi lên. Lạc thọ khởi lên. Khổ thọ khởi lên. Bất khổ
 bất lạc thọ khởi lên.
 
 _1) Giống như giữa hư không,_\
@@ -602,7 +602,7 @@ không thể thuyết phục được Tôn giả Udàyi.
 8\. Rồi Tôn giả Ananda đi đến Thế Tôn; sau khi đến, liền ngồi xuống một bên. Ngồi một bên, Tôn giả
 Ananda thuật lại với Thế Tôn tất cả câu chuyện xảy ra giữa Tôn giả Udàyi và thợ mộc Pancakanga.
 
-9\. − Dầu thật có pháp môn (pariyàyam), này Ananda, nhưng thợ mộc Pancakanga không tín thọ Tỷkheo Udàyi. Và dầu thật có pháp môn, này Ananda, nhưng Tỷ-kheo Udàyi không tín thọ thợ mộc
+9\. − Dầu thật có pháp môn (pariyàyam), này Ananda, nhưng thợ mộc Pancakanga không tín thọ Tỷ-kheo Udàyi. Và dầu thật có pháp môn, này Ananda, nhưng Tỷ-kheo Udàyi không tín thọ thợ mộc
 Pancakanga. Có hai thọ, này Ananda, theo pháp môn giải thích của Ta. Cũng có ba thọ theo pháp giải
 thích của Ta. Cũng có năm thọ theo pháp môn giải thích của Ta. Cũng có sáu thọ theo pháp môn giải
 thích của Ta. Cũng có 16 thọ theo pháp môn giải thích của Ta. Cũng có 108 thọ theo pháp môn giải
@@ -878,7 +878,7 @@ khởi, không tuệ tri con đường đưa đến thọ tập khởi, không t
 
 1\. ...
 
-2\. − Này các Tỷ-kheo, có ba thọ này. Thế nào là ba? Lạc thọ, khổ thọ, bất khổ bất lạc thọ. Này các Tỷkheo, đây là ba thọ.
+2\. − Này các Tỷ-kheo, có ba thọ này. Thế nào là ba? Lạc thọ, khổ thọ, bất khổ bất lạc thọ. Này các Tỷ-kheo, đây là ba thọ.
 
 3\. Này các Tỷ-kheo, có hỷ liên hệ đến vật chất, có hỷ không liên hệ đến vật chất, có hỷ không liên hệ
 đến vật chất còn hơn cả loại hỷ không liên hệ đến vật chất kia; có lạc liên hệ đến vật chất, có lạc không
@@ -891,7 +891,7 @@ kia.
 4\. Và này các Tỷ-kheo, thế nào là hỷ liên hệ đến vật chất? Này các Tỷ-kheo, có năm dục công đức này.
 Thế nào là năm? Có các sắc do mắt nhận thức khả lạc, khả hỷ, khả ý, khả ái, liên hệ đến dục, hấp dẫn...
 Có xúc do thân nhận thức khả lạc, khả hỷ, khả ý, khả ái, liên hệ đến dục, hấp dẫn. Này các Tỷ-kheo, đây
-là năm dục công đức này. Này các Tỷ-kheo, do duyên năm dục công đức này, hỷ khởi lên. Này các Tỷkheo, đây gọi là hỷ liên hệ đến vật chất.
+là năm dục công đức này. Này các Tỷ-kheo, do duyên năm dục công đức này, hỷ khởi lên. Này các Tỷ-kheo, đây gọi là hỷ liên hệ đến vật chất.
 
 5\. Và này các Tỷ-kheo, thế nào là hỷ không liên hệ đến vật chất? Ở đây, này các Tỷ-kheo, Tỷ-kheo ly
 dục, ly bất thiện pháp, chứng và trú Thiền thứ nhất, một trạng thái hỷ lạc do ly dục sanh, có tầm, có tứ.
@@ -905,7 +905,7 @@ không liên hệ đến vật chất còn hơn cả loại hỷ không liên h�
 
 7\. Và này các Tỷ-kheo, thế nào là lạc liên hệ đến vật chất? Này các Tỷ-kheo, có năm dục công đức. Thế
 nào là năm? Có những sắc do mắt nhận thức khả lạc, khả hỷ, khả ý, khả ái, liên hệ đến dục, hấp dẫn...
-Có những xúc do thân nhận thức khả lạc, khả hỷ, khả ý, khả ái, liên hệ đến dục, hấp dẫn. Này các Tỷkheo, đây là năm dục công đức. Này các Tỷ-kheo, do duyên năm dục công đức này, khởi lên lạc hỷ gì,
+Có những xúc do thân nhận thức khả lạc, khả hỷ, khả ý, khả ái, liên hệ đến dục, hấp dẫn. Này các Tỷ-kheo, đây là năm dục công đức. Này các Tỷ-kheo, do duyên năm dục công đức này, khởi lên lạc hỷ gì,
 này các Tỷ-kheo, đây gọi là lạc liên hệ đến vật chất.
 
 8\. Và này các Tỷ-kheo, thế nào là lạc không liên hệ đến vật chất? Ở đây, này các Tỷ-kheo, Tỷ-kheo ly

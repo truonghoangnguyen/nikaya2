@@ -13,10 +13,10 @@ hợp pháp, và người tưởng là không hợp pháp đối với việc h�
 hai kẻ ngu.
 
 4. Này các Tỷ-kheo, có hai bậc hiền trí này. Thế nào là hai? Người tưởng là không hợp pháp đối với
-việc không hợp pháp, và người tưởng là hợp pháp đối với việc hợp pháp. Hai người này, này các Tỷkheo, là hai bậc hiền trí.
+việc không hợp pháp, và người tưởng là hợp pháp đối với việc hợp pháp. Hai người này, này các Tỷ-kheo, là hai bậc hiền trí.
 
 5. Này các Tỷ-kheo, có hai loại kẻ ngu này. Thế nào là hai? Người tưởng là có phạm tội đối với việc
-không phạm tội, và người tưởng là không phạm tội đối với việc có phạm tội. Hai người này, này các Tỷkheo, là hai kẻ ngu.
+không phạm tội, và người tưởng là không phạm tội đối với việc có phạm tội. Hai người này, này các Tỷ-kheo, là hai kẻ ngu.
 
 6. Này các Tỷ-kheo, có hai bậc hiền trí này. Thế nào là hai? Người tưởng là không phạm tội đối với việc
 không phạm tội, và người tưởng là phạm tội đối với việc có phạm tội. Hai người này, này các Tỷ-kheo,

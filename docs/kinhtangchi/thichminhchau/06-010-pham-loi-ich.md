@@ -104,7 +104,7 @@ Trong ba học pháp nào, cần phải học tập?
 3\. Tăng thượng giới học, tăng thượng định học, tăng thượng tuệ học. Trong ba học pháp này, cần phải
 học tập.
 
-4\. Này các Tỷ-kheo, khi nào Tỷ-kheo đã đoạn tận ba hữu này, đã học tập trong ba học pháp này, Tỷkheo ấy, này các Tỷ-kheo, được gọi là Tỷ-kheo đã chặt đứt khát ái, đã giải tỏa kiết sử do chơn chánh
+4\. Này các Tỷ-kheo, khi nào Tỷ-kheo đã đoạn tận ba hữu này, đã học tập trong ba học pháp này, Tỷ-kheo ấy, này các Tỷ-kheo, được gọi là Tỷ-kheo đã chặt đứt khát ái, đã giải tỏa kiết sử do chơn chánh
 hiện quán kiêu mạn, đã đoạn tận khổ đau.
 
 <!--pg-->

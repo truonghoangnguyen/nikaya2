@@ -462,7 +462,7 @@ này trong bảy tháng, vị ấy có thể chứng một trong hai quả sau �
 hiện tại, hay nếu còn hữu dư y, thì chứng quả Bất hoàn. Này các Tỷ-kheo, không cần gì bảy tháng, một
 vị nào tu tập Bốn Niệm xứ này trong sáu tháng... trong năm tháng... trong bốn tháng... trong ba tháng...
 trong hai tháng... trong một tháng... trong nửa tháng... vị ấy có thể chứng một trong hai quả sau đây: Một
-là chứng Chánh trí ngay trong hiện tại, hai là nếu còn hữu dư y, thì chứng quả Bất hoàn. Này các Tỷkheo, không cần gì nửa tháng, một vị nào tu tập Bốn Niệm xứ này trong bảy ngày, vị ấy có thể chứng
+là chứng Chánh trí ngay trong hiện tại, hai là nếu còn hữu dư y, thì chứng quả Bất hoàn. Này các Tỷ-kheo, không cần gì nửa tháng, một vị nào tu tập Bốn Niệm xứ này trong bảy ngày, vị ấy có thể chứng
 một trong hai quả sau đây: Một là chứng Chánh trí ngay trong hiện tại, hai là nếu còn hữu dư y, thì
 chứng quả Bất hoàn.
 

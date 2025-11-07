@@ -137,7 +137,7 @@ chuyên tâm ưa thích hý luận. Như vậy, này các Hiền giả, Tỷ-khe
 lâm chung không được hiền thiện, khi mệnh chung không được hiền thiện. Này các Hiền giả, đây được
 gọi là Tỷ-kheo ái lạc có thân, không từ bỏ có thân để chân chánh chấm dứt khổ đau.
 4. Này các Hiền giả, Tỷ-kheo nếu sống nếp sống như vậy, như vậy, do sống nếp sống như vậy, như vậy,
-khi lâm chung được hiền thiện, khi mệnh chung được hiền thiện. Và như thế nào, này các Hiền giả, Tỷkheo sống nếp sống như vậy, như vậy, khi lâm chung được hiền thiện, khi mạng chung được hiền thiện?
+khi lâm chung được hiền thiện, khi mệnh chung được hiền thiện. Và như thế nào, này các Hiền giả, Tỷ-kheo sống nếp sống như vậy, như vậy, khi lâm chung được hiền thiện, khi mạng chung được hiền thiện?
 
 5. Ở đây, này các Hiền giả, Tỷ-kheo không ưa công việc, không thích thú công việc, không chuyên tâm
 ưa thích công việc; không ưa nói chuyện, không thích thú nói chuyện, không chuyên tâm ưa thích nói
@@ -369,7 +369,7 @@ ngục.
 
 **(IX) (19) Niệm Chết (1)**
 
-1. Một thời, Thế Tôn trú ở Nàdika, tại Ginjakàvasattha. Tại đấy, Thế Tôn gọi các Tỷ-kheo: “Này các Tỷkheo” - “Thưa vâng, bạch Thế Tôn”.
+1. Một thời, Thế Tôn trú ở Nàdika, tại Ginjakàvasattha. Tại đấy, Thế Tôn gọi các Tỷ-kheo: “Này các Tỷ-kheo” - “Thưa vâng, bạch Thế Tôn”.
 
 Các Tỷ-kheo ấy vâng đáp Thế Tôn. Thế Tôn nói như sau:
 
@@ -466,8 +466,8 @@ thể cắn ta. Do vậy, ta có thể mệnh chung. Như vậy sẽ trở ngạ
 Cơm ta ăn có thể làm ta mắc bệnh khi ăn, hay mật có thể khuấy động ta, đàm có thể khuấy động ta. Các
 gió như kiếm có thể khuấy động ta. Và như vậy có thể làm ta mệnh chung. Như vậy sẽ là chướng ngại
 cho ta”. Này các Tỷ-kheo, Tỷ-kheo ấy cần phải suy xét như sau: “Nếu ta còn có những pháp ác bất thiện
-chưa được đoạn tận, nếu ta lỡ mệnh chung đêm nay, chúng có thể là chướng ngại cho ta”. Này các Tỷkheo, nếu Tỷ-kheo trong khi suy xét như vậy, biết được như sau: “Ta có những pháp ác bất thiện chưa
-được đoạn tận, nếu ta lỡ mệnh chung đêm nay, chúng có thể là chướng ngại cho ta”, thời này các Tỷkheo, Tỷ-kheo ấy, để đoạn tận các pháp ác bất thiện ấy, cần phải tận lực tác động ước muốn, tinh tấn,
+chưa được đoạn tận, nếu ta lỡ mệnh chung đêm nay, chúng có thể là chướng ngại cho ta”. Này các Tỷ-kheo, nếu Tỷ-kheo trong khi suy xét như vậy, biết được như sau: “Ta có những pháp ác bất thiện chưa
+được đoạn tận, nếu ta lỡ mệnh chung đêm nay, chúng có thể là chướng ngại cho ta”, thời này các Tỷ-kheo, Tỷ-kheo ấy, để đoạn tận các pháp ác bất thiện ấy, cần phải tận lực tác động ước muốn, tinh tấn,
 tinh cần, nỗ lực, không có thối chuyển, chánh niệm và tỉnh giác. Ví như, này các Tỷ-kheo, áo bị cháy
 hay đầu bị cháy, thời để dập tắt áo ấy hay đầu ấy, cần phải tận lực tác động ước muốn, tinh tấn, tinh cần,
 nỗ lực, không có thối chuyển, chánh niệm và tỉnh giác. Cũng vậy, này các Tỷ-kheo, Tỷ-kheo ấy, để đoạn
@@ -487,7 +487,7 @@ thiện chưa được đoạn tận, nếu ta lỡ mệnh chung trong ngày hô
 ta”. Này các Tỷ-kheo, nếu Tỷ-kheo trong khi suy xét như vậy, biết được như sau: “Ta có những pháp ác
 bất thiện chưa được đoạn tận, nếu ta lỡ mệnh chung ngày hôm nay, chúng có thể là chướng ngại cho ta”,
 thời này các Tỷ-kheo, Tỷ-kheo ấy, để đoạn tận các pháp ác bất thiện ấy, cần phải tận lực tác động ước
-muốn, tinh tấn, tinh cần, nỗ lực, không có thối chuyển, chánh niệm và tỉnh giác. Ví như, này các Tỷkheo, áo bị cháy hay đầu bị cháy, thời để dập tắt áo ấy hay đầu ấy, cần phải tận lực tác động ước muốn,
+muốn, tinh tấn, tinh cần, nỗ lực, không có thối chuyển, chánh niệm và tỉnh giác. Ví như, này các Tỷ-kheo, áo bị cháy hay đầu bị cháy, thời để dập tắt áo ấy hay đầu ấy, cần phải tận lực tác động ước muốn,
 tinh tấn, tinh cần, nỗ lực, không có thối chuyển, chánh niệm và tỉnh giác. Cũng vậy, này các Tỷ-kheo,
 Tỷ-kheo ấy, để đoạn tận các ác bất thiện pháp ấy, cần phải tận lực tác động ước muốn, tinh tấn, tinh cần,
 nỗ lực, không có thối chuyển, chánh niệm và tỉnh giác. Nếu Tỷ-kheo ấy, trong khi suy xét, biết được

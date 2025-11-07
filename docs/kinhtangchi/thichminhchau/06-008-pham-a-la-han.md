@@ -25,7 +25,7 @@ hiềm hận, không ưu não, không nhiệt não, sau khi thân hoại mạng 
 Tỷ-kheo, không có thể chứng ngộ quả A-la-hán.
 3\. Ðoạn tận sáu pháp này, này các Tỷ-kheo, có thể chứng ngộ quả A-la-hán. Thế nào là sáu?
 
-4\. Mạn, ty mạn, quá mạn, tăng thượng mạn, cố chấp, ty liệt mạn. Ðoạn tận sáu pháp này, này các Tỷkheo, có thể chứng ngộ quả A-la-hán.
+4\. Mạn, ty mạn, quá mạn, tăng thượng mạn, cố chấp, ty liệt mạn. Ðoạn tận sáu pháp này, này các Tỷ-kheo, có thể chứng ngộ quả A-la-hán.
 
 <!--pg-->
 ### (III) (77) Thượng Nhân Pháp

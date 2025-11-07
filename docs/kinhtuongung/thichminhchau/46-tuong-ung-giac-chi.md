@@ -15,7 +15,7 @@ nhỏ. Sau khi đi xuống các sông nhỏ, chúng đi xuống các sông lớn
 đi ra biển, ra đại dương. Tại đấy, thân của chúng được to lớn và quảng đại hơn.
 
 4\. Cũng vậy, này các Tỷ-kheo, Tỷ-kheo y cứ vào giới, an trú vào giới, tu tập bảy giác chi, làm cho sung
-mãn bảy giác chi, đạt được sự to lớn, sự quảng đại trong các pháp. Và này các Tỷ-kheo, thế nào là Tỷkheo y cứ vào giới, an trú vào giới, tu tập bảy giác chi, làm cho sung mãn bảy giác chi, đạt được sự to
+mãn bảy giác chi, đạt được sự to lớn, sự quảng đại trong các pháp. Và này các Tỷ-kheo, thế nào là Tỷ-kheo y cứ vào giới, an trú vào giới, tu tập bảy giác chi, làm cho sung mãn bảy giác chi, đạt được sự to
 lớn, sự quảng đại trong các pháp?
 
 5\. Ở đây, này các Tỷ-kheo, Tỷ-kheo tu tập niệm giác chi liên hệ đến viễn ly, liên hệ đến ly tham, liên hệ
@@ -141,7 +141,7 @@ nhờ tu tập, niệm giác chi đi đến viên mãn. Vị ấy trú với ch�
 sát, thành tựu quán sát pháp ấy.
 
 6\. Trong khi, này các Tỷ-kheo, Tỷ-kheo sống chánh niệm như vậy, với trí tuệ quyết trạch, tư sát và đi
-đến quán sát pháp ấy; trong khi ấy, này các Tỷ-kheo, trạch pháp giác chi bắt đầu phát khởi trong Tỷkheo ấy. Trong khi Tỷ-kheo tu tập trạch pháp giác chi; trong khi ấy, nhờ tu tập, trạch pháp giác chi đi
+đến quán sát pháp ấy; trong khi ấy, này các Tỷ-kheo, trạch pháp giác chi bắt đầu phát khởi trong Tỷ-kheo ấy. Trong khi Tỷ-kheo tu tập trạch pháp giác chi; trong khi ấy, nhờ tu tập, trạch pháp giác chi đi
 đến viên mãn. Trong khi vị ấy với trí tuệ quyết trạch, tư sát và thành tựu quán sát pháp ấy, thời tinh tấn,
 không thụ động (asallinam) bắt đầu phát khởi nơi vị ấy.
 
@@ -985,7 +985,7 @@ triền cái, làm uế nhiễm tâm, làm yếu ớt trí tuệ.
 được tu tập, được làm cho sung mãn, đưa đến chứng ngộ quả minh và giải thoát. Thế nào là bảy?
 
 6\. Niệm giác chi, này các Tỷ-kheo, không phải là chướng ngại, triền cái, không làm uế nhiễm tâm, được
-tu tập, được làm cho sung mãn, đưa đến chứng ngộ quả minh và giải thoát... Xả giác chi, này các Tỷkheo, không phải là chướng ngại, triền cái, không làm uế nhiễm tâm, được tu tập, được làm cho sung
+tu tập, được làm cho sung mãn, đưa đến chứng ngộ quả minh và giải thoát... Xả giác chi, này các Tỷ-kheo, không phải là chướng ngại, triền cái, không làm uế nhiễm tâm, được tu tập, được làm cho sung
 mãn, đưa đến chứng ngộ quả minh và giải thoát.
 
 7\. Bảy giác chi này, này các Tỷ-kheo, không phải là chướng ngại, triền cái, không làm uế nhiễm tâm,
@@ -1608,7 +1608,7 @@ bác bỏ, từ chỗ ngồi đứng dậy, họ ra đi với ý nghĩ : "Chúng
 Tôn".
 
 8\. Rồi các Tỷ-kheo ấy sau khi đi khất thực ở Haliddavasana, sau buổi ăn, trên con đường đi khất thực
-trở về, đi đến Thế Tôn; sau khi đến, họ đảnh lễ Thế Tôn rồi ngồi xuống một bên. Ngồi một bên, các Tỷkheo ấy bạch Thế Tôn :
+trở về, đi đến Thế Tôn; sau khi đến, họ đảnh lễ Thế Tôn rồi ngồi xuống một bên. Ngồi một bên, các Tỷ-kheo ấy bạch Thế Tôn :
 
 9\. − Ở đây, bạch Thế Tôn, chúng con, vào buổi sáng, đắp y cầm y bát đi vào Haliddavasana để khất
 thực. Rồi, bạch Thế Tôn, chúng con suy nghĩ như sau : "Thật là quá sớm để đi vào Haliddavasana khất

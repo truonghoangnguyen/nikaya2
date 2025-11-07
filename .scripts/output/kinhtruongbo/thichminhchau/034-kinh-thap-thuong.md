@@ -1060,7 +1060,7 @@ Này các Hiền giả, thế nào là vị Tỷ- kheo, tâm thiện giải tho�
 Tỷ- kheo tâm giải thoát khỏi tham, tâm giải thoát khỏi sân, tâm giải thoát khỏi si. Này các
 Hiền giả, như vậy vị Tỷ kheo tâm thiện giải thoat.
 
-Này các Hiền giả, thế nào là vị Tỷ kheo tuệ thiện giải thoát? Này các Hiền giả, ở đây vị Tỷkheo biết rằng: “Tham tâm của ta đã được trừ, cắt tận gốc rễ, như cây ta-la bị chặt, đi đến
+Này các Hiền giả, thế nào là vị Tỷ kheo tuệ thiện giải thoát? Này các Hiền giả, ở đây vị Tỷ-kheo biết rằng: “Tham tâm của ta đã được trừ, cắt tận gốc rễ, như cây ta-la bị chặt, đi đến
 chỗ không hiện hữu, không có khả năng sanh khởi trong tương lai”. Vị ấy biết rằng: “Sân
 tâm của ta đã đoạn trừ, cắt tận gốc rễ, như cây ta-la bị chặt, đi đến chỗ không hiện hữu,
 không có khả năng sanh khởi trong tương lai”. Vị ấy biết rằng: “Si tâm của ta đã đoạn trừ,

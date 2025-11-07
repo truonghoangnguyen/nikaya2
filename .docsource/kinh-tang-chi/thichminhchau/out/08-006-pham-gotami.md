@@ -161,7 +161,7 @@ tám pháp này, cho các Tỷ-kheo-ni cho đến trọn đời không vượt q
 Tôn; sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên.. Ngồi xuống một bên, Tôn giả Ananda bạch
 Thế Tôn:
 
-− Thành tựu bao nhiêu pháp, bạch Thế Tôn, Tỷ-kheo nên được chấp nhận là vị giáo giới cho các Tỷkheo-ni?
+− Thành tựu bao nhiêu pháp, bạch Thế Tôn, Tỷ-kheo nên được chấp nhận là vị giáo giới cho các Tỷ-kheo-ni?
 
 − Này Ananda, thành tựu tám pháp, Tỷ-kheo nên được chấp nhận là vị giáo giới cho các Tỷ-kheo-ni. Thế
 nào là tám?

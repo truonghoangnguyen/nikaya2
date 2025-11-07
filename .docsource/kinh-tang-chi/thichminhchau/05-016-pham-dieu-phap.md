@@ -163,7 +163,7 @@ Năm pháp này, này các Tỷ-kheo, đưa đến diệu pháp hỗn loạn, v�
 là năm?
 
 8. Ở đây, này các Tỷ-kheo, các Tỷ-kheo học thuộc lòng kinh điển được nắm giữ tốt đẹp, với những văn
-cú được phối trí chơn chánh và ý nghĩa được hướng dẫn chơn chánh. Ðây là pháp thứ nhất, này các Tỷkheo, đưa đến diệu pháp an trú, không hỗn loạn, không biết mất.
+cú được phối trí chơn chánh và ý nghĩa được hướng dẫn chơn chánh. Ðây là pháp thứ nhất, này các Tỷ-kheo, đưa đến diệu pháp an trú, không hỗn loạn, không biết mất.
 
 9. Lại nữa, này các Tỷ-kheo, các Tỷ-kheo là những người dễ nói, dễ kham nhẫn, cung kính đón nhận khi
 được giảng dạy. Ðây là pháp thứ hai, này các Tỷ-kheo, đưa đến diệu pháp an trú, không hỗn loạn, không

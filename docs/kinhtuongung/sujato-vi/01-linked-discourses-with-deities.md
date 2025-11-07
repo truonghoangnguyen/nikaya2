@@ -1362,7 +1362,7 @@ những bài kệ này trước sự hiện diện của Đức Phật:
 > Bất kỳ người phụ nữ hay đàn ông nào\
 > có một cỗ xe như vậy,\
 > bằng phương tiện của cỗ xe này\
-> đã đến gần sựดับ tắt."
+> đã đến gần sự kết thúc."
 
 
 <!--pg-->
@@ -1669,7 +1669,7 @@ những bài kệ này trước sự hiện diện của Đức Phật:
 >
 > "Niềm tin là bạn đồng hành của một người.\
 > Trí tuệ hướng dẫn họ.\
-> Vui thích trong sựดับ tắt, một người trần thế\
+> Vui thích trong sự kết thúc, một người trần thế\
 > được giải thoát khỏi mọi đau khổ."
 
 
@@ -1737,12 +1737,12 @@ những bài kệ này trước sự hiện diện của Đức Phật:
 > "Điều gì xiềng xích thế gian?\
 > Nó đi lại như thế nào?\
 > Với sự từ bỏ điều gì\
-> mà sựดับ tắt được nói đến?"
+> mà sự kết thúc được nói đến?"
 >
 > "Sự hỷ lạc xiềng xích thế gian.\
 > Nó đi lại bằng phương tiện của ý nghĩ.\
 > Với sự từ bỏ ái dục\
-> sựดับ tắt được nói đến."
+> sự kết thúc được nói đến."
 
 
 <!--pg-->

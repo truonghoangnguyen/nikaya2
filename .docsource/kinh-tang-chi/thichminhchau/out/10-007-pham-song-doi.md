@@ -97,7 +97,7 @@ Như vậy là thức ăn của minh giải thoát, và như vậy là viên mã
 1. - Này các Tỷ-kheo, khởi điểm đầu tiên của hữu ái không thể nêu rõ để có thể nói: “Trước điểm này,
 hữu ái không có, rồi sau mới có”. Như vậy, này các Tỷ-kheo, lời này được nói đến. Tuy vậy, sự việc này
 được nêu rõ: “Do duyên này, hữu ái có mặt”. Này các Tỷ kheo, Ta nói rằng hữu ái có thức ăn, không
-phải không có thức ăn. Và cái gì là thức ăn cho hữu ái? Vô minh, cần phải trả lời như vậy. Này các Tỷkheo, Ta nói rằng vô minh có thức ăn, không phải không có thức ăn. Và cái gì là thức ăn cho vô minh?
+phải không có thức ăn. Và cái gì là thức ăn cho hữu ái? Vô minh, cần phải trả lời như vậy. Này các Tỷ-kheo, Ta nói rằng vô minh có thức ăn, không phải không có thức ăn. Và cái gì là thức ăn cho vô minh?
 Năm triền cái, cần phải trả lời như vậy... (như kinh trước 61, chi thêm vào đoạn cuối số 3, câu như sau:
 _“Năm triền cái được viên mãn thời làm viên mãn vô minh. Vô minh được viên mãn, thời làm viên mãn_
 _hữu ái”._

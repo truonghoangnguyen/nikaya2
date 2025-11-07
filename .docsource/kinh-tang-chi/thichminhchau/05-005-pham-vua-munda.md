@@ -311,7 +311,7 @@ là tín tài. Và này các Tỷ-kheo, thế nào là giới tài?
 3. Ở đây, này các Tỷ-kheo, vị Thánh đệ tử từ bỏ sát sanh... từ bỏ đắm say rượu men, rượu nấu. Này các
 Tỷ-kheo, đây gọi là giới tài. Và này các Tỷ-kheo, thế nào là văn tài?
 
-4. Ở đây, này các Tỷ-kheo, vị Thánh đệ tử nghe được nhiều... khéo thể nhập với tri kiến. Này các Tỷkheo, đây gọi là văn tai. Và này các Tỷ-kheo, thế nào là thí tài?
+4. Ở đây, này các Tỷ-kheo, vị Thánh đệ tử nghe được nhiều... khéo thể nhập với tri kiến. Này các Tỷ-kheo, đây gọi là văn tai. Và này các Tỷ-kheo, thế nào là thí tài?
 
 5. Ở đây, này các Tỷ-kheo, vị Thánh đệ tử sống ở gia đình, tâm không bị cấu uế xan tham chi phối, bố
 thí rộng rãi, với bàn tay rộng mở, ưa thích từ bỏ, sẵn sàng để được yêu cầu, ưa thích phân phát vật bố

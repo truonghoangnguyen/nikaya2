@@ -192,7 +192,7 @@ tai nhận thức... Có các hương do mũi nhận thức... Có các vị do 
 nhận thức khả lạc, khả hỷ, khả ý, khả ái, liên hệ đến dục, hấp dẫn. Này các Tỷ-kheo, đây là chỗ không
 phải hành xứ của Tỷ-kheo, chỗ cảnh giới của người khác.
 
-11\. Này các Tỷ-kheo, hãy đi đến chỗ hành xứ của mình, chỗ cảnh giới của cha mẹ mình. Này các Tỷkheo, đi đến chỗ hành xứ của mình, đến cảnh giới của cha mẹ mình, thời Ác ma không nắm được cơ hội,
+11\. Này các Tỷ-kheo, hãy đi đến chỗ hành xứ của mình, chỗ cảnh giới của cha mẹ mình. Này các Tỷ-kheo, đi đến chỗ hành xứ của mình, đến cảnh giới của cha mẹ mình, thời Ác ma không nắm được cơ hội,
 không nắm được đối tượng.
 
 12\. Và này các Tỷ-kheo, chỗ nào là chỗ hành xứ của Tỷ-kheo? Chỗ nào là cảnh giới của cha mẹ? Chính
@@ -237,7 +237,7 @@ Tức là năm dục công đức. Thế nào là năm?
 nhận thức khả lạc, khả hỷ, khả ý, khả ái, liên hệ đến dục, hấp dẫn. Này các Tỷ-kheo, đây không phải là
 chỗ hành xứ của Tỷ-kheo, là chỗ cảnh giới của người khác.
 
-10\. Này các Tỷ-kheo, hãy đi đến chỗ hành xứ của mình, chỗ cảnh giới của cha mẹ mình. Này các Tỷkheo, đi đến chỗ hành xứ của mình, đến chỗ cảnh giới của cha mẹ mình, Ác ma không nắm được cơ hội,
+10\. Này các Tỷ-kheo, hãy đi đến chỗ hành xứ của mình, chỗ cảnh giới của cha mẹ mình. Này các Tỷ-kheo, đi đến chỗ hành xứ của mình, đến chỗ cảnh giới của cha mẹ mình, Ác ma không nắm được cơ hội,
 Ác ma không nắm được đối tượng.
 
 11\. Và này các Tỷ-kheo, thế nào là hành xứ của Tỷ-kheo, là cảnh giới của cha mẹ mình? Tức là bốn
@@ -394,7 +394,7 @@ một bên. Ngồi một bên, các Tỷ-kheo-ni ấy thưa với Tôn giả Ana
 3\. − Ở đây, bạch Thượng tọa Ananda, một số đông Tỷ-kheo-ni sống khéo an trú tâm trên bốn niệm xứ,
 đạt được sự rõ biết (sampajànanti) quảng đại, trước sau thù thắng.
 
-− Như vậy là phải, này các Ðại tỷ! Như vậy là phải, này các Ðại tỷ! Này các Ðại tỷ, Tỷ-kheo hay Tỷkheo-ni nào sống với tâm khéo an trú trong bốn niệm xứ, vị ấy được chờ đợi sẽ đạt được sự rõ biết
+− Như vậy là phải, này các Ðại tỷ! Như vậy là phải, này các Ðại tỷ! Này các Ðại tỷ, Tỷ-kheo hay Tỷ-kheo-ni nào sống với tâm khéo an trú trong bốn niệm xứ, vị ấy được chờ đợi sẽ đạt được sự rõ biết
 quảng đại, trước sau thù thắng.
 
 4\. Rồi Tôn giả Ananda với bài pháp thoại, sau khi tuyên thuyết cho các Tỷ-kheo-ni ấy, khích lệ, làm cho
@@ -408,7 +408,7 @@ bạch Thế Tôn:
 đến, con ngồi trên chỗ đã soạn sẵn. Rồi, bạch Thế Tôn, một số đông Tỷ-kheo-ni đi đến con, sau khi đến,
 đảnh lễ con rồi ngồi xuống một bên. Ngồi một bên, bạch Thế Tôn, các Tỷ-kheo-ni ấy thưa với con: "Ở
 đây, bạch Thượng tọa Ananda, một số đông Tỷ-kheo-ni sống khéo an trú tâm trên bốn niệm xứ, đạt
-được sự rõ biết quảng đại, trước sau thù thắng". Khi được nói vậy, bạch Thế Tôn, con nói với các Tỷkheo-ni ấy: "Như vậy là phải, này các Ðại tỷ! Như vậy là phải, này các Ðại tỷ! này các Ðại tỷ, Tỷ-kheo
+được sự rõ biết quảng đại, trước sau thù thắng". Khi được nói vậy, bạch Thế Tôn, con nói với các Tỷ-kheo-ni ấy: "Như vậy là phải, này các Ðại tỷ! Như vậy là phải, này các Ðại tỷ! này các Ðại tỷ, Tỷ-kheo
 hay Tỷ-kheo-ni nào sống với tâm khéo an trú trong bốn niệm xứ, vị ấy được chờ đợi sẽ đạt được sự rõ
 biết quảng đại, trước sau thù thắng".
 
@@ -816,7 +816,7 @@ bát dầu, phóng tâm hướng ngoại không?
 
 − Thưa không, bạch Thế Tôn.
 
-4\. − Ví dụ này, này các Tỷ-kheo, Ta nói ra để nêu rõ ý nghĩa. Và đây là ý nghĩa của nó. Này các Tỷkheo, cái bát đầy dầu là đồng nghĩa với thân hành niệm.
+4\. − Ví dụ này, này các Tỷ-kheo, Ta nói ra để nêu rõ ý nghĩa. Và đây là ý nghĩa của nó. Này các Tỷ-kheo, cái bát đầy dầu là đồng nghĩa với thân hành niệm.
 
 5\. Do vậy, này các Tỷ-kheo, các Ông cần phải học tập như sau: "Chúng ta sẽ tu tập thân hành niệm, làm
 cho sung mãn, làm cho như thành cỗ xe, làm cho như thành đất nền, làm cho tiếp tục an trú, làm cho tích
@@ -1308,7 +1308,7 @@ thiện pháp?
 4\. Ở đây, này các Tỷ-kheo, hãy sống hộ trì với sự hộ trì của Giới bổn (Pàtimokkha), đầy đủ uy nghi
 chánh hạnh (àcàragocarasampanno), thấy sự nguy hiểm trong những lỗi nhỏ nhặt, chấp nhận và thực
 hành các học giới. Này Tỷ-kheo, sau khi sống, hộ trì với sự hộ trì của Giới bổn, đầy đủ uy nghi chánh
-hạnh, thấy sự nguy hiểm trong những lỗi nhỏ nhặt, chấp nhận và thực hành các học giới rồi, này Tỷkheo, y cứ trên giới, an trú trên giới, hãy tu tập bốn niệm xứ. Thế nào là bốn?
+hạnh, thấy sự nguy hiểm trong những lỗi nhỏ nhặt, chấp nhận và thực hành các học giới rồi, này Tỷ-kheo, y cứ trên giới, an trú trên giới, hãy tu tập bốn niệm xứ. Thế nào là bốn?
 
 5\. Ở đây, này Tỷ-kheo, Tỷ-kheo hãy trú, quán thân trên thân... Hãy trú, quán thọ trên các cảm thọ... Hãy
 trú, quán tâm trên tâm... Hãy trú, quán pháp trên các pháp, nhiệt tâm, tỉnh giác, chánh niệm, nhiếp phục
@@ -1371,7 +1371,7 @@ lệ các người ấy, hướng dẫn, an trú các người ấy trong sự t
 
 1\. Tại Sàvatthi...
 
-2\. − Này các Tỷ-kheo, có ba thọ này. Thế nào là ba? Lạc thọ, khổ thọ, phi khổ phi lạc thọ. Này các Tỷkheo, đây là ba thọ.
+2\. − Này các Tỷ-kheo, có ba thọ này. Thế nào là ba? Lạc thọ, khổ thọ, phi khổ phi lạc thọ. Này các Tỷ-kheo, đây là ba thọ.
 
 3\. Vì muốn liễu tri ba thọ này, này các Tỷ-kheo, bốn niệm xứ cần phải tu tập. Thế nào là bốn?
 

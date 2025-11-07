@@ -31,7 +31,7 @@ Tỷ-kheo, không có thể chứng ngộ quả A-la-hán.
 3. Ðoạn tận sáu pháp này, này các Tỷ-kheo, có thể chứng ngộ quả A-la-hán. Thế nào là sáu?
 
 <!--pg-->
-4. Mạn, ty mạn, quá mạn, tăng thượng mạn, cố chấp, ty liệt mạn. Ðoạn tận sáu pháp này, này các Tỷkheo, có thể chứng ngộ quả A-la-hán.
+4. Mạn, ty mạn, quá mạn, tăng thượng mạn, cố chấp, ty liệt mạn. Ðoạn tận sáu pháp này, này các Tỷ-kheo, có thể chứng ngộ quả A-la-hán.
 
 **(III) (77) Thượng Nhân Pháp**
 

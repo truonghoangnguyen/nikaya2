@@ -82,7 +82,7 @@ Sa-môn Gotama từ bỏ lấy của không cho, tránh xa sự lấy của khô
 mong những vật đã cho, tự sống thanh tịnh không có trộm cướp. - Này các Tỷ-kheo, đó là những lời tán
 thán Như Lai của kẻ phàm phu.
 
-Sa-môn Gotama từ bỏ tà hạnh, tịnh tu phạm hạnh, sống giải thoát, từ bỏ dâm dục hèn hạ. Này các Tỷkheo, đó là những lời tán thán Như Lai của kẻ phàm phu.
+Sa-môn Gotama từ bỏ tà hạnh, tịnh tu phạm hạnh, sống giải thoát, từ bỏ dâm dục hèn hạ. Này các Tỷ-kheo, đó là những lời tán thán Như Lai của kẻ phàm phu.
 
 9\. Sa-môn Gotama từ bỏ nói láo, tránh xa nói láo, nói những lời chân thật, y chỉ nơi sự thật, chắc chắn,
 đáng tin cậy, không lừa gạt, không phản lại lời hứa đối với đời. Này các Tỷ-kheo, đó là những lời tán
@@ -232,7 +232,7 @@ mặt trời đi đúng chánh đạo sẽ có kết quả như thế này, mặ
 quả như thế này, các tinh tú đi đúng chánh đạo sẽ có kết quả như thế này, sao băng sẽ có kết quả như thế
 này, lửa cháy các phương hướng sẽ có kết quả như thế này, động đất sẽ có những kết quả như thế này,
 sấm trời sẽ có kết quả như thế này, mặt trăng, mặt trời, các sao mọc, lặn, mờ, sáng, sẽ có kết quả như thế
-này. Còn Sa-môn Gotama thì tránh xa, không tự nuôi sống bằng những tà mạng kể trên. - Này các Tỷkheo, như vậy kẻ phàm phu tán thán Như Lai.
+này. Còn Sa-môn Gotama thì tránh xa, không tự nuôi sống bằng những tà mạng kể trên. - Này các Tỷ-kheo, như vậy kẻ phàm phu tán thán Như Lai.
 
 25\. Trong khi một số Sa-môn, Bà-la-môn, dầu đã dùng các món ăn do tín thí cúng dường, vẫn còn tự
 nuôi sống bằng những tà mạng như đoán trước sẽ có nhiều mưa, sẽ có đại hạn, sẽ được mùa, sẽ mất
@@ -708,7 +708,7 @@ chánh tán thán Như Lai mới nói đến.
 
 <!--pg-->
 35\. Này các Tỷ-kheo, những Sa-môn, Bà-la-môn luận bàn về quá khứ tối sơ, chấp kiến về quá khứ tối
-sơ, y cứ về quá khứ tối sơ, đề xướng nhiều ý kiến sai khác với mười tám luận chấp trên. Này các Tỷkheo, nếu có những Sa-môn hoặc Bà-la-môn luận bàn về quá khứ tối sơ, chấp kiến về quá khứ tối sơ, y
+sơ, y cứ về quá khứ tối sơ, đề xướng nhiều ý kiến sai khác với mười tám luận chấp trên. Này các Tỷ-kheo, nếu có những Sa-môn hoặc Bà-la-môn luận bàn về quá khứ tối sơ, chấp kiến về quá khứ tối sơ, y
 cứ về quá khứ tối sơ, đề xướng nhiều ý kiến sai khác, chúng sẽ chấp cả mười tám luận chấp trên hay một
 trong những luận chấp trên, ngoài ra không có luận chấp nào khác nữa.
 

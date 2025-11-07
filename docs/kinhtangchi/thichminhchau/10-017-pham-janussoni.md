@@ -165,7 +165,7 @@ Tỷ-kheo, là con đường thoát ly lấy của không cho. Từ bỏ tà h�
 đường thoát ly tà hạnh trong các dục. Từ bỏ nói láo, này các Tỷ-kheo, là con đường thoát ly nói láo. Từ
 bỏ nói hai lưỡi, là con đường thoát ly nói hai lưỡi. Từ bỏ nói lời độc ác, này các Tỷ-kheo, là con đường
 thoát ly nói lời độc ác. Từ bỏ nói lời phù phiếm, này các Tỷ-kheo, là con đường thoát ly nói lời phù
-phiếm. Không tham dục, này các Tỷ-kheo, là con đường thoát ly tham dục. Không sân, này các Tỷkheo, là con đường thoát ly sân. Chánh kiến, này các Tỷ-kheo, là con đường thoát ly tà kiến.
+phiếm. Không tham dục, này các Tỷ-kheo, là con đường thoát ly tham dục. Không sân, này các Tỷ-kheo, là con đường thoát ly sân. Chánh kiến, này các Tỷ-kheo, là con đường thoát ly tà kiến.
 
 Như vậy, này các Tỷ-kheo, là con đường thoát ly.
 

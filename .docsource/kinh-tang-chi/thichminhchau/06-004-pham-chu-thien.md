@@ -139,7 +139,7 @@ Sáu pháp này, này các Tỷ-kheo, là thuộc về minh phần.
 
 Này các Tỷ-kheo, ở đây, vị Tỷ-kheo phẫn nộ, hiềm hận. Này các Tỷ-kheo, ai phẫn nộ, hiềm hận, vị ấy
 sống không cung kính, không tùy thuận bậc Ðạo Sư, sống không cung kính, không tùy thuận Pháp, sống
-không cung kính, không tùy thuận Tăng, không thành tựu đầy đủ các Học pháp. Này các Tỷ-kheo, Tỷkheo sống không cung kính, không tùy thuận bậc Ðạo Sư, không cung kính, không tùy thuận Pháp,
+không cung kính, không tùy thuận Tăng, không thành tựu đầy đủ các Học pháp. Này các Tỷ-kheo, Tỷ-kheo sống không cung kính, không tùy thuận bậc Ðạo Sư, không cung kính, không tùy thuận Pháp,
 không cung kính, không tùy thuận Tăng, không thành tựu đầu đủ các Học pháp, vị ấy khởi lên tranh luận
 giữa chư Tăng. Tranh luận như vậy khiến nhiều người không hạnh phúc, khiến nhiều người không an
 lạc, khiến nhiều người không lợi ích, khiến chư Thiên và loài Người không hạnh phúc và đau khổ. Này
@@ -255,7 +255,7 @@ mạng chung, con trọn đời quy ngưỡng.
 1. - Có ba nhân duyên này, này các Tỷ-kheo, khiến các nghiệp khởi lên. Thế nào là ba?
 
 2. Tham là nhân duyên khiến các nghiệp khởi lên. Sân là nhân duyên khiến các nghiệp khởi lên. Si là
-nhân duyên khiến các nghiệp khởi lên. Này các Tỷ-kheo, không phải từ tham, không tham khởi các Tỷkheo, không phải từ tham, không tham khởi lên. Này các Tỷ-kheo, chính từ tham, chỉ có tham khởi lên.
+nhân duyên khiến các nghiệp khởi lên. Này các Tỷ-kheo, không phải từ tham, không tham khởi các Tỷ-kheo, không phải từ tham, không tham khởi lên. Này các Tỷ-kheo, chính từ tham, chỉ có tham khởi lên.
 Này các Tỷ-kheo, không phải từ sân, không sân khởi lên. Này các Tỷ-kheo, chính từ sân, chỉ có sân khởi
 lên. Này các Tỷ-kheo, không phải từ si, không si khởi lên. Này các Tỷ-kheo, chính từ si, chỉ có si khởi
 lên. Này các Tỷ-kheo, không phải do nghiệp từ tham sanh, không phải do nghiệp từ sân sanh, không

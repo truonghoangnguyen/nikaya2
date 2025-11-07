@@ -8,7 +8,7 @@
 
 4\. − Này các Tỷ-kheo, thế nào là chư Thiên thuộc loại thần mây? Có chư Thiên, này các Tỷ-kheo, thuộc
 loại mây lạnh. Có chư Thiên, này các Tỷ-kheo, thuộc loại mây nóng. Có chư Thiên, này các Tỷ-kheo,
-thuộc loại mây sấm. Có chư Thiên, này các Tỷ-kheo, thuộc loại mây gió. Có chư Thiên, này các Tỷkheo, thuộc loại mây mưa.
+thuộc loại mây sấm. Có chư Thiên, này các Tỷ-kheo, thuộc loại mây gió. Có chư Thiên, này các Tỷ-kheo, thuộc loại mây mưa.
 
 5\. Như vậy, này các Tỷ-kheo, họ được gọi là chư Thiên thuộc loại thần mây.
 

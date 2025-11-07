@@ -179,7 +179,7 @@ các Tỷ kheo, đây gọi là hạng người được ví dụ với vết th
 
 Và này các Tỷ-kheo, thế nào là hạng ngườivới tâm được ví dụ như chớp sáng? Ở đây, này các Tỷ-kheo,
 có hạng người như thật rõ biết: “Ðây là khổ”,.. như thật rõ biết “Ðây là con đường đưa đến khổ diệt”. Ví
-như một người có mắt, thấy các sắc trong đêm tối mù mịt, khi có chớp sáng. Cũng vậy, này các Tỷkheo, ở đây có người như thật rõ biết: “Ðây là khổ”, ... như thật rõ biết: “Ðây là con đường đưa đến khổ
+như một người có mắt, thấy các sắc trong đêm tối mù mịt, khi có chớp sáng. Cũng vậy, này các Tỷ-kheo, ở đây có người như thật rõ biết: “Ðây là khổ”, ... như thật rõ biết: “Ðây là con đường đưa đến khổ
 diệt”. Này các Tỷ-kheo, đây được gọi là hạng người với tâm được ví như chớp sáng.
 
 Và này các Tỷ-kheo, thế nào là hạng người với tâm được ví dụ như kim cang? Ở đây, này các Tỷ-kheo,
@@ -385,7 +385,7 @@ tịnh. Người ấy, tại chỗ ngồi ấy, đối với bài thuyết giả
 bài thuyết giảng ấy, người ấy không có tác ý đến đoạn đầu, không có tác ý đến đoạn giữa, không có tác
 ý đến đoạn cuối. Ví như này các Tỷ-kheo, một cái ghè bị lộn ngược, nước chứa trong ấy tuôn chảy,
 không có dừng lại. Cũng vậy, này các Tỷ-kheo, ở đây, có hạng người đi đến khu vườn ... không có tác ý
-đoạn cuối. Cũng vậy, khi người ấy từ chỗ ngồi ấy đứng lên ... không có tác ý đoạn cuối. Này các Tỷkheo, đây gọi là hạng người với trí tuệ lộn ngược.
+đoạn cuối. Cũng vậy, khi người ấy từ chỗ ngồi ấy đứng lên ... không có tác ý đoạn cuối. Này các Tỷ-kheo, đây gọi là hạng người với trí tuệ lộn ngược.
 
 Và này các Tỷ-kheo, thế nào là người với trí tuệ bắp vế? Ở đây, này các Tỷ-kheo, có hạng người đi đến
 khu vườn (tinh xá). Người ấy, tại chỗ ngồi ấy, đối với bài thuyết giảng ấy, có tác ý đến đoạn đầu, có tác

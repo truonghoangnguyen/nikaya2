@@ -21,7 +21,7 @@ như ý túc, câu hữu với tư duy định tinh cần hành. Những pháp n
 1\. ...
 
 2\. − Với những ai bốn như ý túc bị thối thất, này các Tỷ-kheo, với những người ấy, bị thối thất là Thánh
-đạo đưa đến chơn chánh đoạn diệt khổ đau. Với những ai bốn như ý túc được thực hiện, này các Tỷkheo, với những người ấy, được thực hiện là Thánh đạo đưa đến chơn chánh đoạn diệt khổ đau. Thế nào
+đạo đưa đến chơn chánh đoạn diệt khổ đau. Với những ai bốn như ý túc được thực hiện, này các Tỷ-kheo, với những người ấy, được thực hiện là Thánh đạo đưa đến chơn chánh đoạn diệt khổ đau. Thế nào
 là bốn?
 
 3\. Ở đây, này các Tỷ-kheo, Tỷ-kheo tu tập như ý túc, câu hữu với dục định tinh cần hành,... tinh tấn
@@ -220,7 +220,7 @@ chánh, sống thuận Chánh pháp; sau khi học hỏi giáo lý, đã có th�
 và khéo hàng phục, đã có thể truyền bá Chánh pháp thần diệu.
 
 12\. Như vậy, bạch Thế Tôn, nay Thế Tôn hãy diệt độ, Thiện Thệ hãy diệt độ. Nay đã đến thời Thế Tôn
-diệt độ. Bạch Thế Tôn, đây là lời Thế Tôn đã nói: "Này Ác ma, Ta sẽ không diệt độ, khi nào những Tỷkheo-ni của Ta chưa trở thành những vị đệ tử có học, có kỷ luật..".
+diệt độ. Bạch Thế Tôn, đây là lời Thế Tôn đã nói: "Này Ác ma, Ta sẽ không diệt độ, khi nào những Tỷ-kheo-ni của Ta chưa trở thành những vị đệ tử có học, có kỷ luật..".
 
 13\. "Khi nào những nam cư sĩ của Ta... khi nào nữ cư sĩ của Ta chưa trở thành những vị đệ tử có học, có
 kỷ luật, tự chủ, đạt được an ổn khỏi khổ ách, đa văn, trì pháp, thành tựu Chánh pháp và tùy pháp, sống

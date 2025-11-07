@@ -192,7 +192,7 @@ ngồi xuống một bên, Tôn giả Ananda bạch Thế Tôn:
 − Bạch Thế Tôn, Tôn giả Phagguna, sau khi Thế Tôn ra đi không bao lâu, đã mệnh chung. Trong khi
 Tôn giả mệnh chung, các căn được sáng chói.
 
-− Này Ananda, tại sao các căn của Tôn giả Phagguna lại không sáng chói chứ? Này Ananda, với Tỷkheo Phagguna, tâm chưa được giải thoát khỏi năm hạ phần kiết sử. Sau khi nghe pháp, tâm vị ấy được
+− Này Ananda, tại sao các căn của Tôn giả Phagguna lại không sáng chói chứ? Này Ananda, với Tỷ-kheo Phagguna, tâm chưa được giải thoát khỏi năm hạ phần kiết sử. Sau khi nghe pháp, tâm vị ấy được
 giải thoát khỏi năm hạ phần kiết sử. Có sáu lợi ích này, này Ananda, nếu nghe pháp đúng thời, và thẩm
 sát ý nghĩa đúng thời. Thế nào là sáu?
 
@@ -354,7 +354,7 @@ Này Ananda, đây là sáu sanh loại.
 đoạn trừ do thọ dụng; đối với các lậu hoặc phải do kham nhẫn mà được đoạn trừ, chúng đã được đoạn
 trừ do kham nhẫn; đối với các lậu hoặc phải do tránh né mà được đoạn trừ, chúng đã được đoạn trừ do
 tránh né; đối với các lậu hoặc phải do trừ diệt mà được đoạn trừ, chúng đã được đoạn trừ do trừ diệt; đối
-với các lậu hoặc phải do tu tập mà được đoạn trừ, chúng đã được đoạn trừ do tu tập. Và này các Tỷkheo, thế nào là các lậu hoặc phải do phòng hộ mà được đoạn trừ, chúng đã được đoạn trừ do phòng hộ?
+với các lậu hoặc phải do tu tập mà được đoạn trừ, chúng đã được đoạn trừ do tu tập. Và này các Tỷ-kheo, thế nào là các lậu hoặc phải do phòng hộ mà được đoạn trừ, chúng đã được đoạn trừ do phòng hộ?
 
 <!--pg-->
 3. Ở đây, này các Tỷ-kheo, Tỷ-kheo chơn chánh giác sát, sống phòng hộ với sự phòng hộ nhãn căn. Này
@@ -383,7 +383,7 @@ không phải để đam mê, không phải để trang sức, không phải đ�
 sống được an ổn. Vị ấy chơn chánh giác sát thọ dụng sàng tọa chỉ để ngăn ngừa lạnh, ngăn ngừa nóng,
 ngăn ngừa sự xúc chạm của ruồi, muỗi, gió, sức nóng mặt trời, các loài bò sát, chỉ giải trừ nguy hiểm
 của thới tiết, chỉ với mục đích sống độc cư an tịnh. Vị ấy chơn chánh giác sát thọ dụng những dược
-phẩm trị bệnh, chỉ để ngăn chận các cảm giác thống khổ đã sanh để được ly khổ hoàn toàn. Này các Tỷkheo, nếu vị ấy không chơn chánh giác sát khi thọ dụng như vậy, các lậu hoặc tàn hại và nhiệt não có thể
+phẩm trị bệnh, chỉ để ngăn chận các cảm giác thống khổ đã sanh để được ly khổ hoàn toàn. Này các Tỷ-kheo, nếu vị ấy không chơn chánh giác sát khi thọ dụng như vậy, các lậu hoặc tàn hại và nhiệt não có thể
 khởi lên. Nếu vị ấy có chơn chánh giác sát khi thọ dụng như vậy, các lậu hoặc tàn hại và nhiệt não ấy
 không còn nữa.
 
@@ -464,7 +464,7 @@ hương, hương liệu, được tiêu dùng vàng và bạc để có thể n�
 miệng, lắm lời, thất niệm, không tỉnh giác, không định tĩnh, tâm tán loạn, các căn thả lỏng, thời vị ấy về
 phương diện này đáng bị chỉ trích. Này Gia chủ, nếu Tỷ-kheo trú ở rừng núi, không tháo động, không
 kiêu căng, không dao động, không lắm mồm, lắm miệng, không lắm lời, chánh niệm, tỉnh giác, định
-tĩnh, nhất tâm, với các căn được phòng hộ, thời vị ấy về phương diện này đáng được tán thán. Nếu Tỷkheo sống ở cuối làng, này Gia chủ, tháo động, kiêu căng... các căn thả lỏng; vị ấy về phương diện này
+tĩnh, nhất tâm, với các căn được phòng hộ, thời vị ấy về phương diện này đáng được tán thán. Nếu Tỷ-kheo sống ở cuối làng, này Gia chủ, tháo động, kiêu căng... các căn thả lỏng; vị ấy về phương diện này
 đáng bị chỉ trích. Nếu Tỷ-kheo sống ở cuối làng, này Gia chủ, không tháo động, không kiêu căng... các
 căn được phòng hộ, thời vị ấy về phương diện này đáng được tán thán. Nếu vị Tỷ-kheo theo hạnh khất
 thực, này Gia chủ, nhưng còn tháo động, kiêu căng... đáng bị chỉ trích. Nếu Tỷ-kheo theo hạnh khất
@@ -581,7 +581,7 @@ tục.
 
 <!--pg-->
 7. Ở đây, này các Hiền giả, có hạng người không tác ý tất cả các tướng, chứng đạt và an trú vô tướng
-tâm định. Vị ấy, với ý nghĩ: “Ta đã chứng đạt được vô tướng tâm định”, sống giao thiệp với các Tỷkheo, các Tỷ-kheo-ni, với các nam cư sĩ, nữ cư sĩ, với các vua chúa, đại thần các vua chúa, với các ngoại
+tâm định. Vị ấy, với ý nghĩ: “Ta đã chứng đạt được vô tướng tâm định”, sống giao thiệp với các Tỷ-kheo, các Tỷ-kheo-ni, với các nam cư sĩ, nữ cư sĩ, với các vua chúa, đại thần các vua chúa, với các ngoại
 đạo, các đệ tử ngoại đạo. Do vị ấy sống giao thiệp, phóng túng, thô lỗ, đam mê nói chuyện, nên tham ái
 tấn công tâm vị ấy. Vị ấy, với tâm bị tham ái tấn công, liền từ bỏ học pháp và hoàn tục. Ví như, thưa các
 Hiền giả, một vị vua, hay đại thần của vua, đang đi giữa đường cùng với bốn loại binh chủng, đến trú ở
@@ -594,7 +594,7 @@ giả, có nói một cách chơn chánh không?
 ra đi khỏi khóm rừng này, khi ấy tiếng con dế kêu sẽ hiện hữu.
 
 − Cũng vậy, thưa các Hiền giả, ở đây, có hạng người do không tác ý tất cả các tướng, chứng đạt và an trú
-vô tướng tâm định. Vị ấy, với ý nghĩ: “Ta đạt được vô tướng tâm định”, sống giao thiệp với các Tỷkheo, các Tỷ-kheo-ni, với các nam cư sĩ, nữ cư sĩ, với các vua chúa, các đại thần của vua, với các ngoại
+vô tướng tâm định. Vị ấy, với ý nghĩ: “Ta đạt được vô tướng tâm định”, sống giao thiệp với các Tỷ-kheo, các Tỷ-kheo-ni, với các nam cư sĩ, nữ cư sĩ, với các vua chúa, các đại thần của vua, với các ngoại
 đạo, các đệ tử ngoại đạo. Do vị ấy sống giao thiệp, phóng túng, thô lỗ, đam mê nói chuyện, nên tham ái
 tấn công tâm vị ấy. Vị ấy, với tâm bị tham ái tấn công, liền từ bỏ học pháp và hoàn tục.
 
@@ -660,7 +660,7 @@ thể thắng tri, do liễu tri được điều có thể liễu tri, ngay tro
 3. Ðược nói vậy, một Tỷ-kheo khác thưa với các Tỷ-kheo trưởng lão:
 
 − Quá khứ, thưa chư Hiền, là một cực đoan. Tương lai là cực đoan thứ hai. Hiện tại là chặng giữa. Ái là
-người dệt vải. Do ái dệt, nên khiến cho vị ấy phải sanh ở hữu này. Cho đến như vậy, thưa chư Hiền, Tỷkheo thắng tri được điều có thể tri... vị ấy có thể chấm dứt khổ đau.
+người dệt vải. Do ái dệt, nên khiến cho vị ấy phải sanh ở hữu này. Cho đến như vậy, thưa chư Hiền, Tỷ-kheo thắng tri được điều có thể tri... vị ấy có thể chấm dứt khổ đau.
 
 <!--pg-->
 4. Ðược nói vậy, một Tỷ-kheo khác thưa với các Tỷ-kheo trưởng lão:
@@ -715,7 +715,7 @@ Hãy nghe và suy nghiệm kỹ, Ta sẽ nói:
 Các vị Tỷ-kheo trưởng lão vâng đáp Thế Tôn. Thế Tôn nói như sau:
 
 − Xúc, này các Tỷ-kheo, là cực đoan. Xúc tập khởi là cực đoan thứ hai. Xúc diệt là chặng giữa. Ái là
-người dệt vải; vì rằng ái dệt nên khiến cho vị ấy phải sanh ở hữu này. Cho đến như vậy, này các Tỷkheo, Tỷ-kheo thắng tri được điều có thể thắng tri, liễu tri được điều có thể liễu tri. Do thắng tri được
+người dệt vải; vì rằng ái dệt nên khiến cho vị ấy phải sanh ở hữu này. Cho đến như vậy, này các Tỷ-kheo, Tỷ-kheo thắng tri được điều có thể thắng tri, liễu tri được điều có thể liễu tri. Do thắng tri được
 điều có thể thắng tri, liễu tri được điều có thể liễu tri, ngay trong hiện tại, vị ấy có thể chấm dứt khổ đau.
 **(VIII) (62) Lời Cảm Hứng**
 
@@ -976,14 +976,14 @@ _Nhiếp phục được lòng dục._
 4. Này các Tỷ-kheo, thế nào là các dục duyên khởi? Xúc, này các Tỷ-kheo, là các dục duyên khởi.
 
 Và này các Tỷ-kheo, thế nào là các dục sai biệt? Này các Tỷ-kheo, dục trên các sắc là khác, dục trên các
-tiếng là khác, dục trên các hương là khác, dục trên các vị là khác, dục trên các xúc là khác. Này các Tỷkheo, đây là các dục sai biệt.
+tiếng là khác, dục trên các hương là khác, dục trên các vị là khác, dục trên các xúc là khác. Này các Tỷ-kheo, đây là các dục sai biệt.
 Và này các Tỷ-kheo, thế nào là các dục dị thục? Này các Tỷ-kheo, khi muốn một cái gì, sanh khởi một
 tự ngã khởi lên từ vật ấy, từ vật ấy, để dự phần phước đức, hay để dự phần không phước đức, Này các
 Tỷ-kheo, đây gọi là các dục dị thục.
 
 Và này các Tỷ-kheo, thế nào là các dục đoạn diệt? Xúc đoạn diệt, này các Tỷ-kheo là dục đoạn diệt. Ðây
 là con đường Thánh đạo tám ngành đưa đến các dục đoạn diệt. Tức là chánh tri kiến, chánh tư duy,
-chánh ngữ, chánh nghiệp, chánh mạng, chánh tinh tấn, chánh niệm, chánh định. Khi nào, này các Tỷkheo, vị Thánh đệ tử rõ biết các dục như vậy, rõ biết các dục sanh khởi như vậy, rõ biết các dục sai biệt
+chánh ngữ, chánh nghiệp, chánh mạng, chánh tinh tấn, chánh niệm, chánh định. Khi nào, này các Tỷ-kheo, vị Thánh đệ tử rõ biết các dục như vậy, rõ biết các dục sanh khởi như vậy, rõ biết các dục sai biệt
 như vậy, rõ biết các dục dị thục như vậy, rõ biết các dục đoạn diệt như vậy, rõ biết con đường đưa đến
 các dục đoạn diệt như vậy, khi ấy, vị ấy được rõ biết Phạm hạnh thế nhập này như là các dục đoạn diệt.
 
@@ -1118,7 +1118,7 @@ tâm bị trói buộc, ưu sầu, bi thảm, than van, đập ngực, khóc ló
 tâm bị trói buộc, nên đi tìm phía bên ngoài xem có ai biết được một câu, hai câu thần chú đề đoạn diệt
 khổ này.
 
-Này các Tỷ-kheo, Ta tuyên bố rằng khổ đem lại kết quả mê loạn, đem lại kết quả tìm kiếm. Này các Tỷkheo, đây gọi là khổ dị thục.
+Này các Tỷ-kheo, Ta tuyên bố rằng khổ đem lại kết quả mê loạn, đem lại kết quả tìm kiếm. Này các Tỷ-kheo, đây gọi là khổ dị thục.
 
 Và này các Tỷ-kheo, thế nào là khổ đoạn diệt?
 
@@ -1184,7 +1184,7 @@ như thật trí về xứ là xứ, phi xứ là phi xứ.
 
 <!--pg-->
 9. Ở đây, này các Tỷ-kheo, nếu có những người khác đến hỏi Như Lai các câu hỏi liên hệ đến như thật
-trí về quả báo tùy thuộc sở do, tùy theo sở nhân của các thọ nghiệp quá khứ, vị lai, hiện tại, này các Tỷkheo, tùy theo, tùy theo như thật trí hiểu biết của Như Lai về quả báo tùy thuộc sờ do, tùy theo sở nhân
+trí về quả báo tùy thuộc sở do, tùy theo sở nhân của các thọ nghiệp quá khứ, vị lai, hiện tại, này các Tỷ-kheo, tùy theo, tùy theo như thật trí hiểu biết của Như Lai về quả báo tùy thuộc sờ do, tùy theo sở nhân
 của các thọ nghiệp quá khứ, vị lai, hiện tại; tùy theo như vậy, tùy theo như vậy, Như Lai trả lời các câu
 hỏi liên hệ đến như thật trí về quả báo tùy thuộc sở do, tùy thuộc sở nhân của các thọ nghiệp quá khứ, vị
 lai, hiện tại.

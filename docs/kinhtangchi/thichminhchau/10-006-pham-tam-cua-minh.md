@@ -76,7 +76,7 @@ chỗ trong các thiện pháp, không tổn giảm, không tăng trưởng.
 3\. - Ở đây, này các Tỷ-kheo, Tỷ-kheo cố gắng để đạt được lòng tin, giới đức, nghe nhiều, bố thí và biện
 tài với trí tuệ. Những pháp ấy đối với vị này, không tổn giảm, không tăng trưởng. Này các Tỷ-kheo, Ta
 gọi như vậy là đứng một chỗ trong các thiện pháp, không tổn giảm, không tăng trưởng. Như vậy, Này
-các Tỷ kheo là đứng một chỗ trong các thiện pháp, không tổn giảm, không tăng trưởng. Và này các Tỷkheo, thế nào là tăng trưởng trong các biện pháp, không đứng một chỗ, không tổn giảm.
+các Tỷ kheo là đứng một chỗ trong các thiện pháp, không tổn giảm, không tăng trưởng. Và này các Tỷ-kheo, thế nào là tăng trưởng trong các biện pháp, không đứng một chỗ, không tổn giảm.
 
 4\. Ở đây, này các Tỷ-kheo, Tỷ-kheo cố gắng để đạt được lòng tin, giới đức, nghe nhiều, bố thí và biện
 tài với trí tuệ. Những pháp ấy đối với vị này không đứng một chỗ, không tổn giảm. Này các Tỷ-kheo, Ta
@@ -117,7 +117,7 @@ thượng tuệ pháp quán và chứng được nội tâm tịnh chỉ.
 Ta không có được tăng thượng tuệ pháp quán”, thời này các Tỷ-kheo, Tỷ-kheo ấy cần phải quyết định,
 ước muốn, tinh tấn, nỗ lực, dõng mãnh, bất thối, chánh niệm, tỉnh giác để đạt cho được các thiện pháp.
 Ví như, này các Tỷ-kheo, khi khăn bị cháy hay khi đầu bị cháy, cần phải quyết định, ước muốn, tinh tấn,
-nỗ lực, dõng mãnh, bất thối, chánh niệm, tỉnh giác để dập tắt khăn ấy hay đầu ấy. Cũng vậy, này các Tỷkheo, Tỷ-kheo cần phải quyết định, ước muốn, tinh tấn, nỗ lực, dõng mãnh, bất thối, chánh niệm, tỉnh
+nỗ lực, dõng mãnh, bất thối, chánh niệm, tỉnh giác để dập tắt khăn ấy hay đầu ấy. Cũng vậy, này các Tỷ-kheo, Tỷ-kheo cần phải quyết định, ước muốn, tinh tấn, nỗ lực, dõng mãnh, bất thối, chánh niệm, tỉnh
 giác để đạt cho được các thiện pháp ấy. Vị ấy trong một thời gian khác, đạt được nội tâm tịnh chỉ và đạt
 được tăng thượng tuệ pháp quán.
 
@@ -209,7 +209,7 @@ vậy. Cho đến như thế nào này chư Hiền, người bản tánh là t�
 như thế nào, này chư Hiền, người bản tánh là không tổn giảm được Thế Tôn nói đến?
 
 − Thưa Hiền giả, chúng tôi đi từ xa đến để được hiểu rõ ý nghĩa lời nói này từ Tôn giả Sàriputta. Lành
-thay, nếu ý nghĩa lời nói này được Tôn giả Sàriputta nói lên. Sau khi nghe Tôn giả Sàriputta, các Tỷkheo sẽ thọ trì.
+thay, nếu ý nghĩa lời nói này được Tôn giả Sàriputta nói lên. Sau khi nghe Tôn giả Sàriputta, các Tỷ-kheo sẽ thọ trì.
 
 − Vậy này chư Hiền, hãy nghe và khéo tác ý, ta sẽ nói:
 

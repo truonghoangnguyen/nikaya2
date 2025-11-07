@@ -4,7 +4,7 @@
 
 1. Như vầy tôi nghe:
 
-Một thời, Thế Tôn trú ở Sàvathì, Jetavana, khu vườn ông Anàthapindika. Tại đấy, Thế Tôn gọi các Tỷkheo:
+Một thời, Thế Tôn trú ở Sàvathì, Jetavana, khu vườn ông Anàthapindika. Tại đấy, Thế Tôn gọi các Tỷ-kheo:
 
 − Này các Tỷ-kheo.
 
@@ -67,7 +67,7 @@ Ngự Trượng Phu, Thiên Nhơn Sư, Phật Thế Tôn”. Này các Tỷ-kheo
 Và này các Tỷ-kheo, thế nào là tấn lực?
 
 4. Ở đây, này các Tỷ-kheo, Thánh đệ tử sống tinh cần tinh tấn để đoạn tận các pháp bất thiện, làm sanh
-khởi các pháp thiện, nỗ lực, kiên trì, không có bỏ rơi gánh nặng đối với các pháp thiện. Này các Tỷkheo, đây gọi là tấn lực.
+khởi các pháp thiện, nỗ lực, kiên trì, không có bỏ rơi gánh nặng đối với các pháp thiện. Này các Tỷ-kheo, đây gọi là tấn lực.
 
 Và này các Tỷ-kheo, thế nào là tàm lực?
 
@@ -138,7 +138,7 @@ Tôn, bậc A-la-hán... Phật, Thế Tôn”. Này các Tỷ-kheo, đây gọi
 
 Và này các Tỷ-kheo, thế nào là giới tài?
 
-4. Ở đây, này các Tỷ-kheo, Thánh đệ tử từ bỏ sát sanh... từ bỏ đắm say rượu men rượu nấu. Này các Tỷkheo, đây gọi là giới tài.
+4. Ở đây, này các Tỷ-kheo, Thánh đệ tử từ bỏ sát sanh... từ bỏ đắm say rượu men rượu nấu. Này các Tỷ-kheo, đây gọi là giới tài.
 
 Và này các Tỷ-kheo, thế nào là tàm tài?
 5. Ở đây, này các Tỷ-kheo, Thánh đệ tử có xấu hổ, xấu hổ đối với thân làm ác, miệng nói ác, ý nghĩ ác,

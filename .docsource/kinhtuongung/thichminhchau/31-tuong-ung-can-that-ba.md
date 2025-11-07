@@ -8,7 +8,7 @@ lắng nghe.
 
 4\. Và này các Tỷ-kheo, thế nào là chư Thiên thuộc loại Gandhabba? Có chư Thiên, này các Tỷ-kheo, trú
 hương rễ cây. Có chư Thiên, này các Tỷ-kheo, trú hương lõi cây. Có chư Thiên, này các Tỷ-kheo, trú
-hương giác cây. Có chư Thiên, này các Tỷ-kheo, trú hương vỏ cây trong. Có chư Thiên, này các Tỷkheo, trú hương vỏ cây ngoài. Có chư Thiên, này các Tỷ-kheo, trú hương lá cây. Có chư Thiên, này các
+hương giác cây. Có chư Thiên, này các Tỷ-kheo, trú hương vỏ cây trong. Có chư Thiên, này các Tỷ-kheo, trú hương vỏ cây ngoài. Có chư Thiên, này các Tỷ-kheo, trú hương lá cây. Có chư Thiên, này các
 Tỷ-kheo, trú hương bông. Có chư Thiên, này các Tỷ-kheo, trú hương trái cây. Có chư Thiên, này các
 Tỷ-kheo, trú hương vị. Có chư Thiên, này các Tỷ-kheo, trú hương hương.
 

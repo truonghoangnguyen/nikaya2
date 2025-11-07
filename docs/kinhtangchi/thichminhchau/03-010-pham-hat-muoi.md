@@ -38,7 +38,7 @@ muốn của ta để chấp hành tăng thượng tuệ học”. Như vậy, n
 Ở đây, này các Tỷ-kheo, các du sĩ ngoại đạo trình bày về viễn ly y áo, mang vải gai thô, mặc vải gai thô
 lẫn với các vải khác, mặc vải tẩm liệm quăng đi, mặc vải lượm từ đồng rác, y thì dùng vỏ cây tiritaka
 làm áo, mặc da con sơn dương đen, mặc áo bện từng mảnh da con sơn dương đen, mặc áo từ cỏ kusa
-bện lại, mặc áo bằng vỏ cây, mặc áo bằng đuôi ngựa bện lại, mặc áo bằng lông cú. Như vậy, này các Tỷkheo, các du sĩ ngoại đạo trình bày về viễn ly y áo.
+bện lại, mặc áo bằng vỏ cây, mặc áo bằng đuôi ngựa bện lại, mặc áo bằng lông cú. Như vậy, này các Tỷ-kheo, các du sĩ ngoại đạo trình bày về viễn ly y áo.
 
 Ở đây, này các Tỷ-kheo, các du sĩ ngoại đạo trình bày về viễn ly đồ ăn khất thực: ăn rau, cây kê, gạo
 sống, gạo rừng, cây lau, bột gạo, bột gạo cháy, ăn bột vừng, ăn cỏ, ăn phân bò, ăn trái cây, ăn rễ cây
@@ -56,7 +56,7 @@ Này các Tỷ-kheo, các du sĩ ngoại đạo trình bày về ba hạnh viễ
 Ở đây, này các Tỷ-kheo, Tỷ-kheo gìn giữ giới luật, từ bỏ ác giới, viễn ly ác giới, có chánh tri kiến, từ bỏ
 tà kiến, viễn ly tà kiến, đoạn tận các lậu hoặc, từ bỏ các lậu hoặc, viễn ly các lậu hoặc. Vì rằng, này các
 Tỷ-kheo, Tỷ-kheo gìn giữ giới luật, từ bỏ ác giới, viễn ly ác giới, có chánh tri kiến, từ bỏ tà kiến, viễn ly
-tà kiến, đoạn tận các lậu hoặc, từ bỏ các lậu hoặc, viễn ly các lậu hoặc, nên Tỷ-kheo này, này các Tỷkheo, được gọi là đạt được tối thượng, đạt được căn bản thanh tịnh, được an trú trên căn bản.
+tà kiến, đoạn tận các lậu hoặc, từ bỏ các lậu hoặc, viễn ly các lậu hoặc, nên Tỷ-kheo này, này các Tỷ-kheo, được gọi là đạt được tối thượng, đạt được căn bản thanh tịnh, được an trú trên căn bản.
 
 3\. Ví như, này các Tỷ-kheo, ruộng lúa của người nông phu gia chủ đã chín, người nông phu gia chủ ấy
 mau mắn gặt lúa; sau khi mau mắn gặt lúa, phải mau mắn chất lúa thành đống; sau khi mau mắn chất lúa
@@ -64,7 +64,7 @@ thành đống, phải mau mắn chở lúa về; sau khi mau mắn chở lúa v
 sau khi mau mắn đánh lúa thành đống, phải mau mắn đập lúa; sau khi mau mắn đập lúa, phải mau mắn
 giũ rơm; sau khi mau mắn giũ rơm, phải mau mắn lấy thóc ra; sau khi mau mắn lấy thóc ra, phải mau
 mắn quạt thóc; sau khi mau mắn quạt thóc, phải mau mắn chứa thóc; sau khi mau mắn chứa thóc, phải
-mau mắn say thóc; sau khi mau mắn say thóc, phải mau mắn sàng cám lấy gạo. Như vậy, này các Tỷkheo, với người nông phu gia chủ ấy, lúa gạo ấy đạt được tối thượng, đạt được căn bản thanh tịnh, đạt
+mau mắn say thóc; sau khi mau mắn say thóc, phải mau mắn sàng cám lấy gạo. Như vậy, này các Tỷ-kheo, với người nông phu gia chủ ấy, lúa gạo ấy đạt được tối thượng, đạt được căn bản thanh tịnh, đạt
 được an trú trên căn bản. Cũng vậy, này các Tỷ-kheo, Tỷ-kheo gìn giữ giới luật, từ bỏ ác giới, viễn ly ác
 giới, có chánh tri kiến, từ bỏ tà kiến, viễn ly tà kiến, đoạn tận các lậu hoặc, từ bỏ các lậu hoặc, viễn ly
 các lậu hoặc, nên Tỷ-kheo này, này các Tỷ-kheo, được gọi là đạt được tối thượng, đạt được căn bản
@@ -73,7 +73,7 @@ thanh tịnh, được an trú trên căn bản.
 <!--pg-->
 4\. Ví như, này các Tỷ-kheo, vào mùa thu, khi bầu trời quang đãng, không có mây và mặt trời mọc lên
 giữa bầu trời, phá sạch hắc ám khắp cả hư không, và chói sáng, bừng sáng, rực sáng; cũng vậy, này các
-Tỷ-kheo, với vị Thánh đệ tử; pháp nhãn ly trần ly cấu khởi lên; và do tri kiến này khởi lên, này các Tỷkheo, ba kiết sử được đoạn tận, thân kiến, nghi giới cấm thủ. Lại nữa, vị ấy được thoát khỏi hai pháp
+Tỷ-kheo, với vị Thánh đệ tử; pháp nhãn ly trần ly cấu khởi lên; và do tri kiến này khởi lên, này các Tỷ-kheo, ba kiết sử được đoạn tận, thân kiến, nghi giới cấm thủ. Lại nữa, vị ấy được thoát khỏi hai pháp
 tham và sân. Vị ấy ly dục, ly pháp bất thiện, chứng đạt và an trú sơ Thiền, một trạng thái hỷ lạc do ly
 dục sanh, có tầm có tứ. Trong thời gian ấy, này các Tỷ-kheo, vị Thánh đệ tử nếu có mạng chung, sẽ
 không có kiết sử nào, do kiết sử ấy, vị Thánh đệ tử phải đi đến thế giới này nữa.
@@ -177,7 +177,7 @@ Tỷ-kheo, là Tỷ-kheo đầy đủ tốc lực.
 
 5\. Và này các Tỷ-kheo, thế nào là Tỷ-kheo đầy đủ tốc lực?
 Ở đây, này các Tỷ-kheo, Tỷ-kheo do đoạn diệt các lậu hoặc ngay trong hiện tại, tự mình với thắng trí,
-chứng ngộ và chứng đạt an trú vô lậu tâm giải thoát, tuệ giải thoát. Như vậy, này các Tỷ-kheo, là Tỷkheo đầy đủ tốc lực.
+chứng ngộ và chứng đạt an trú vô lậu tâm giải thoát, tuệ giải thoát. Như vậy, này các Tỷ-kheo, là Tỷ-kheo đầy đủ tốc lực.
 
 Ðầy đủ với ba pháp này, này các Tỷ-kheo, Tỷ-kheo xúng đáng được cung kính, xứng đáng được tôn
 trọng, xúng đáng được cúng dường, xứng đáng được chắp tay, và ruộng phước vô thượng ở đời.
@@ -202,7 +202,7 @@ Còn những ai, vị này nhận các vật dụng như y áo, đồ ăn khất
 không có quả lớn, không có lợi ích lớn; đây, Ta nói rằng, không có giá trị. Này các Tỷ-kheo, ví như tấm
 vải bằng vỏ cây không có giá trị ấy, này các Tỷ-kheo, Ta nói rằng người ấy là giống như ví dụ ấy.
 
-3\. Này các Tỷ-kheo, nếu là trung niên Tỷ-kheo ... (như trên) ... này các Tỷ-kheo, nếu là trưởng lão Tỷkheo, ác giới, theo ác pháp. Ta nói rằng vị ấy có sắc xấu. Này các Tỷ-kheo, ví như tấm vải làbm ằng vỏ
+3\. Này các Tỷ-kheo, nếu là trung niên Tỷ-kheo ... (như trên) ... này các Tỷ-kheo, nếu là trưởng lão Tỷ-kheo, ác giới, theo ác pháp. Ta nói rằng vị ấy có sắc xấu. Này các Tỷ-kheo, ví như tấm vải làbm ằng vỏ
 cây có sắc xấu ấy, này các Tỷ-kheo, Ta nói rằng người ấy là giống như ví dụ ấy.
 
 Còn từ những ai theo vị ấy, thân cận, hầu hạ, chấp nhận, thuận theo trí kiến của vị ấy, họ bị bất hạnh,
@@ -505,7 +505,7 @@ như ý muốn.
 ba tướng. Cần phải thỉnh thoảng tác ý tướng định, cần phải thỉnh thoảng tác ý tướngtinh cần, cần phải
 thỉnh thoảng tác ý tướng xả. Nếu Tỷ-kheo siêng tu tập tăng thượng tâm, này các Tỷ-kheo, nếu một chiều
 tác ý tướng định, thời có sự kiện tâm vị ấy đi đến thụ động. Nếu Tỷ-kheo siêng tu tập tăng thượng tâm,
-này các Tỷ kheo, nếu một chiều tác ý tướng tinh cần, thời có sự kiện tâm vị ấy đi đến trạo cử. Nếu Tỷkheo siêng tu tập tăng thượng tâm, này các Tỷ kheo, nếu một chiều tác ý tướng xả, thời có sự kiện tâm
+này các Tỷ kheo, nếu một chiều tác ý tướng tinh cần, thời có sự kiện tâm vị ấy đi đến trạo cử. Nếu Tỷ-kheo siêng tu tập tăng thượng tâm, này các Tỷ kheo, nếu một chiều tác ý tướng xả, thời có sự kiện tâm
 vị ấy không chơn chánh định tĩnh để đoạn diệt các lậu hoặc. Nhưng nếu Tỷ-kheo siêng tu tập tăng
 thượng tâm, này các Tỷ-kheo, thỉnh thoảng tác ý tướng định, thỉnh thoảng tác ý tướng tinh cần, thỉnh
 thoảng tác ý tướng xả, tâm vị ấy trở thành nhu nhuyến, kham nhậm, chói sáng, không bể vụn, chơn

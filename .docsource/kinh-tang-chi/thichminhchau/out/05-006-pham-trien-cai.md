@@ -101,7 +101,7 @@ Các pháp này, này các Tỷ-kheo, là năm chi phần tinh cần.
 thời thứ nhất để tinh cần.
 
 <!--pg-->
-3. Lại nữa, này các Tỷ-kheo, Tỷ-kheo bệnh hoạn, bị bệnh hoạn chinh phục. Này các Tỷkheo, đây là phi thời thứ hai để tinh cần.
+3. Lại nữa, này các Tỷ-kheo, Tỷ-kheo bệnh hoạn, bị bệnh hoạn chinh phục. Này các Tỷ-kheo, đây là phi thời thứ hai để tinh cần.
 
 <!--pg-->
 4. Lại nữa, này các Tỷ-kheo, khi có nạn đói, mất mùa, đồ ăn khất thực khó được, không dễ
@@ -112,7 +112,7 @@ tinh cần.
 xe đi trốn. Này các Tỷ-kheo, đây là phi thời thứ tư để tinh cần.
 
 <!--pg-->
-6. Lại nữa, này các Tỷ-kheo, chúng Tăng bị chia rẽ. Khi chúng Tăng bị chia rẽ, này các Tỷkheo, có sự mắng nhiếc lẫn nhau, có sự đấu khẩu lẫn nhau, có sự kết tội lẫn nhau, có sự tẩn
+6. Lại nữa, này các Tỷ-kheo, chúng Tăng bị chia rẽ. Khi chúng Tăng bị chia rẽ, này các Tỷ-kheo, có sự mắng nhiếc lẫn nhau, có sự đấu khẩu lẫn nhau, có sự kết tội lẫn nhau, có sự tẩn
 xuất lẫn nhau. Ai không có tịnh tín, không tìm được tịnh tín, và những ai có tịnh tín có thể
 đổi khác. Này các Tỷ-kheo, đây là phi thời thứ năm để tinh cần.
 
@@ -165,7 +165,7 @@ sự học tập, làm lộ liễu sự yếu đuối, họ rơi vào thông dâ
 2. Rồi một số đông Tỷ-kheo đi đến Thế Tôn, sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống
 một bên. Ngồi xuống một bên, các Tỷ-kheo ấy bạch Thế Tôn:
 
-− Ở đây, bạch Thế Tôn, tại Sàvatthi, cả hai mẹ con cùng an cư vào mùa mưa, nhân danh Tỷkheo và Tỷ-kheo-ni, họ thường xuyên muốn thấy mặt nhau, mẹ thường xuyên muốn thấy
+− Ở đây, bạch Thế Tôn, tại Sàvatthi, cả hai mẹ con cùng an cư vào mùa mưa, nhân danh Tỷ-kheo và Tỷ-kheo-ni, họ thường xuyên muốn thấy mặt nhau, mẹ thường xuyên muốn thấy
 mặt con và con cũng thường xuyên muốn thấy mặt mẹ. Vì họ thường xuyên thấy nhau, nên
 có sự liên hệ. Do có sự liên hệ, nên có sự thân mật. Do có thân mật, nên có sự sa ngã. Với
 tâm sa ngã, buông bỏ sự học tập, làm lộ liễu sự yếu đuối, họ rơi vào thông dâm với nhau.

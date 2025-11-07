@@ -41,7 +41,7 @@ các Tỷ-kheo sẽ sống không được an lạc. Và trong bất cứ cuộc
 phạm tội và Tỷ-kheo buộc tội, có tự mình khéo quán sát lấy mình, thời tranh tụng ấy, này các Tỷ-kheo,
 được chờ đợi là không đưa đến kéo dài, gay gắt, ác liệt, và các Tỷ-kheo sẽ sống được an lạc.
 Và này các Tỷ-kheo, thế nào là Tỷ-kheo phạm tội và Tỷ-kheo buộc tội, khéo tự mình quán sát lấy mình?
-Ở đây, này các Tỷ-kheo, Tỷ-kheo phạm tội quán sát như sau: “Ta phạm một tội bất thiện về thân. Tỷkheo ấy đã thấy ta phạm tội bất thiện về thân. Nếu ta không phạm tội bất thiện về thân, Tỷ-kheo ấy sẽ
+Ở đây, này các Tỷ-kheo, Tỷ-kheo phạm tội quán sát như sau: “Ta phạm một tội bất thiện về thân. Tỷ-kheo ấy đã thấy ta phạm tội bất thiện về thân. Nếu ta không phạm tội bất thiện về thân, Tỷ-kheo ấy sẽ
 không thấy ta phạm tội bất thiện về thân. Do vì ta có phạm một tội bất thiện về thân, do vậy, Tỷ-kheo ấy
 thấy ta có phạm tội bất thiện về thân. Thấy ta có phạm tội bất thiện về thân, Tỷ-kheo ấy không được
 hoan hỷ. Vì không hoan hỷ, Tỷ-kheo ấy nói với ta lời không hoan hỷ. Vì ta bị Tỷ-kheo ấy nói lời không
@@ -49,11 +49,11 @@ hoan hỷ, nên ta không hoan hỷ. Do ta không hoan hỷ, ta nói cho các ng
 phạm chinh phục ta như trường hợp người phải trả thuế hàng hóa của mình”. Như vậy, này các Tỷ-kheo,
 là Tỷ-kheo phạm tôi tự khéo tự mình quán sát lấy mình.
 
-Và thế nào, này các Tỷ-kheo, Tỷ-kheo buộc tội khéo tự mình quán sát lấy mình? Ở đây, này các Tỷkheo, Tỷ-kheo buộc tội quán sát như sau: “Tỷ-kheo phạm một tội bất thiện về thân. Ta đã thấy Tỷ-kheo
+Và thế nào, này các Tỷ-kheo, Tỷ-kheo buộc tội khéo tự mình quán sát lấy mình? Ở đây, này các Tỷ-kheo, Tỷ-kheo buộc tội quán sát như sau: “Tỷ-kheo phạm một tội bất thiện về thân. Ta đã thấy Tỷ-kheo
 ấy phạm một tội bất thiện về thân. Nếu Tỷ-kheo này không phạm tội bất thiện về thân, thời ta đã không
 thấy Tỷ-kheo ấy phạm tội bất thiện về thân. Do vì Tỷ-kheo này có phạm một tội bất thiện về thân, do
 vậy Ta thấy Tỷ-kheo này phạm tội bất thiện về thân. Và sau khi thấy Tỷ-kheo này phạm tội bất thiện về
-thân, ta không hoan hỷ. Do ta không hoan hỷ, ta nói cho Tỷ-kheo này biết lời không hoan hỷ. Vì Tỷkheo này bị ta nói lời không hoan hỷ, nên không hoan hỷ. Vì không hoan hỷ, vị ấy nói cho các người
+thân, ta không hoan hỷ. Do ta không hoan hỷ, ta nói cho Tỷ-kheo này biết lời không hoan hỷ. Vì Tỷ-kheo này bị ta nói lời không hoan hỷ, nên không hoan hỷ. Vì không hoan hỷ, vị ấy nói cho các người
 khác biết. Như vậy, ở đây tội phạm chinh phục ta, như trường hợp người phải trả thuế hàng hóa của
 mình”. Như vậy, Tỷ-kheo buộc tội khéo tự mình quán sát lấy mình.
 
@@ -82,7 +82,7 @@ hoại mạng chung, được sanh lên cõi Thiện, cõi Trời, cõi đời n
 − Thật vi diệu thay, thưa Tôn giả Gotama! Thật vi diệu thay, Tôn giả Gotama! Như người dựng đứng lại
 những gì bị quăng ngã xuống, phơi bày ra những gì bị che kín, chỉ đường cho kẻ đi lạc hướng, đem đèn
 sáng vào trong bóng tối để những ai có mắt có thể thấy sắc. Cũng vậy, pháp được Tôn giả Gotama dùng
-nhiều phương tiện trình bày giải thích. Con nay xin quy y Tôn giả Gotama, quy y Pháp, quy y chúng Tỷkheo Tăng! Mong Tôn giả Gotama nhận con làm đệ tử, từ nay cho đến mạng chung, con trọn đời quy
+nhiều phương tiện trình bày giải thích. Con nay xin quy y Tôn giả Gotama, quy y Pháp, quy y chúng Tỷ-kheo Tăng! Mong Tôn giả Gotama nhận con làm đệ tử, từ nay cho đến mạng chung, con trọn đời quy
 ngưỡng!
 
 7. Rồi Bà-la-môn Jànussoni đi đến Thế Tôn; sau khi đến, nói lên với Thế Tôn những lời chào đón hỏi
@@ -161,7 +161,7 @@ an lạc, nên Ta đã nói như sau: “Này các Tỷ-kheo, hãy từ bỏ b�
 
 Này các Tỷ-kheo, hãy tu tập thiện. Này các Tỷ-kheo, tu tập thiện có thể làm được. Nếu tu tập thiện
 không thể làm được, này các Tỳ kheo, thời ta đã không nói như sau: “Này các Tỷ-kheo, hãy tu tập
-thiện”. Vì rằng, này các Tỷ-kheo, tu tập thiện có thể làm được, do vậy Ta mới nói rằng: “Này các Tỷkheo, hãy tu tập thiện”. Và nếu, này các Tỷ-kheo, tu tập thiện đưa đến bất hạnh, đau khổ, thời ta đã
+thiện”. Vì rằng, này các Tỷ-kheo, tu tập thiện có thể làm được, do vậy Ta mới nói rằng: “Này các Tỷ-kheo, hãy tu tập thiện”. Và nếu, này các Tỷ-kheo, tu tập thiện đưa đến bất hạnh, đau khổ, thời ta đã
 không nói như sau: “Này các Tỷ-kheo, hãy tu tập thiện”. Và vì rằng, này các Tỷ-kheo, tu tập thiện đưa
 đến hạnh phúc, an lạc, nên Ta đã nói như sau: “Này các Tỷ-kheo, hãy tu tập thiện”.
 

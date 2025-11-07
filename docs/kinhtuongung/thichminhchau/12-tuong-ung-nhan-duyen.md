@@ -59,7 +59,7 @@ là toàn bộ khổ uẩn này tập khởi.
 loại chúng sanh này hay thuộc bộ loại chúng sanh khác, bị già, yếu, suy nhược, răng rụng, tóc bạc, da
 nhăn, tuổi thọ tàn lụi, các căn chín muồi. Ðây gọi là già. Cái gì thuộc chúng sanh này hay chúng sanh
 khác, thuộc bộ loại chúng sanh này hay thuộc bộ loại chúng sanh khác, sự từ bỏ, hủy hoại, tiêu mất, tử
-vong, các uẩn hư hoại, thân thể vứt bỏ. Ðây gọi là chết. Như vậy đây là già, đây là chết. Này các Tỷkheo, đây gọi là già chết.
+vong, các uẩn hư hoại, thân thể vứt bỏ. Ðây gọi là chết. Như vậy đây là già, đây là chết. Này các Tỷ-kheo, đây gọi là già chết.
 
 5\. Và này các Tỷ-kheo, thế nào là sanh? Cái gì thuộc chúng sanh này hay chúng sanh khác, thuộc bộ
 loại chúng sanh này hay thuộc bộ loại chúng sanh khác bị sanh, xuất sanh, giáng sanh, đản sanh, sự xuất
@@ -81,7 +81,7 @@ các Tỷ-kheo, đây gọi là thọ.
 10\. Và này các Tỷ-kheo, thế nào là xúc? Này các Tỷ-kheo, có sáu xúc thân này: nhãn xúc, nhĩ xúc, tỷ
 xúc, thiệt xúc, thân xúc, ý xúc. Này các Tỷ-kheo, đây gọi là xúc.
 
-11\. Và này các Tỷ-kheo, thế nào là sáu xứ? Nhãn xứ, nhĩ xứ, tỷ xứ, thiệt xứ, thân xứ, ý xứ. Này các Tỷkheo, đây gọi là sáu xứ.
+11\. Và này các Tỷ-kheo, thế nào là sáu xứ? Nhãn xứ, nhĩ xứ, tỷ xứ, thiệt xứ, thân xứ, ý xứ. Này các Tỷ-kheo, đây gọi là sáu xứ.
 
 12\. Và này các Tỷ-kheo, thế nào là danh sắc? Thọ, tưởng, tư, xúc, tác ý; đây gọi là danh. Bốn đại chủng
 và sắc do bốn đại chủng tạo ra; đây gọi là sắc. Như vậy đây là danh, đây là sắc. Ðây gọi là danh sắc.
@@ -1786,7 +1786,7 @@ Này các Tỷ-kheo, đây gọi là bốn mươi bốn căn bản của trí.
 bộ loại chúng sanh này hay bộ loại chúng sanh khác, bị già yếu, suy nhược, răng rụng, tóc bạc, da nhăn,
 tuổi thọ đồi bại, các căn chín muồi; đây gọi là già. Cái gì thuộc chúng sanh này hay chúng sanh khác,
 thuộc bộ loại chúng sanh này hay thuộc bộ loại chúng sanh khác, bị một diệt, hủy hoại, tiêu mất, tử
-vong, các uẩn tàn lụn, thân thể hoại diệt, vất bỏ; đây gọi là chết. Như vậy là già, đây là chết. Này các Tỷkheo, đây gọi là già chết.
+vong, các uẩn tàn lụn, thân thể hoại diệt, vất bỏ; đây gọi là chết. Như vậy là già, đây là chết. Này các Tỷ-kheo, đây gọi là già chết.
 
 16\. Do sanh tập khởi nên già chết tập khởi. Do sanh diệt nên già chết diệt. Ðây là Thánh đạo tám ngành
 đưa đến già chết diệt; tức là chánh tri kiến... chánh định.
@@ -1928,7 +1928,7 @@ Thế Tôn nói:
 − Câu hỏi không thích hợp. Này Tỷ-kheo, Ông có thể hỏi: "Thế nào là hữu và hữu này của ai?", hay
 Ông có thể nói: "Hữu khác và người có hữu này khác", hai câu hỏi này là một, chỉ có văn sai khác. Này
 Tỷ-kheo, chỗ nào có (tà) kiến: "Sinh mạng và thân thể là một", chỗ ấy không có Phạm hạnh trú. Này Tỷ
-kheo, chỗ nào có (tà) kiến: "Sinh mạng và thân thể là khác", chỗ ấy không có Phạm hạnh trú. Này Tỷkheo, từ bỏ hai cực đoan này, Như Lai thuyết pháp theo trung đạo (và nói): "Do duyên thủ nên có hữu".
+kheo, chỗ nào có (tà) kiến: "Sinh mạng và thân thể là khác", chỗ ấy không có Phạm hạnh trú. Này Tỷ-kheo, từ bỏ hai cực đoan này, Như Lai thuyết pháp theo trung đạo (và nói): "Do duyên thủ nên có hữu".
 
 6\. − Bạch Thế Tôn, thế nào là thủ và thủ này của ai?... (như trên)... Do duyên ái nên có thủ.
 
@@ -1999,7 +1999,7 @@ trong tương lai không thể sanh khởi.
 2\. ... Này các Tỷ-kheo, do duyên vô minh nên có các hành. Do duyên hành nên có thức... như vậy là sự
 tập khởi của toàn bộ khổ uẩn này.
 
-3\. Này các Tỷ-kheo, các Ông có thể nói: "Thế nào là già chết và già chết này của ai?" Hay này các Tỷkheo, các Ông có thể nói: "Già chết là khác và người có già chết là khác" hai câu này đồng một nghĩa,
+3\. Này các Tỷ-kheo, các Ông có thể nói: "Thế nào là già chết và già chết này của ai?" Hay này các Tỷ-kheo, các Ông có thể nói: "Già chết là khác và người có già chết là khác" hai câu này đồng một nghĩa,
 chỉ có văn sai khác. Này các Tỷ-kheo, chỗ nào có (tà) kiến: "Sinh mạng và thân thể là một", chỗ ấy
 không có Phạm hạnh trú. Này các Tỷ-kheo, chỗ nào có (tà) kiến: "Sinh mạng là khác, thân thể là khác",
 chỗ ấy không có Phạm hạnh trú. Này các Tỷ-kheo, từ bỏ hai cực đoan ấy Như Lai thuyết pháp theo

@@ -60,7 +60,7 @@ theo sở thích. Này các Tỷ-kheo, có ba hội chúng này.
 
 − Này các Tỷ-kheo, có đầy đủ ba đức tánh, một người bạn cần được thân cận. Thế nào là ba?
 
-Ở đây, này các Tỷ-kheo, Tỷ-kheo cho điều khó cho, làm điều khó làm, nhẫn điều khó nhẫn. Này các Tỷkheo, đầy đủ ba đức tánh, một người bạn cần được thân cận.
+Ở đây, này các Tỷ-kheo, Tỷ-kheo cho điều khó cho, làm điều khó làm, nhẫn điều khó nhẫn. Này các Tỷ-kheo, đầy đủ ba đức tánh, một người bạn cần được thân cận.
 
 <!--pg-->
 ### 134.- Xuất Hiện
@@ -150,7 +150,7 @@ không có cân đối?
 thật rõ biết: “Ðây là khổ diệt”; như thật rõ biết: “Ðây là con đường đưa đến khổ diệt”. Ðây Ta nói trong
 nghĩa có tốc lực. Nhưng khi được hỏi về thắng pháp thắng luật, vị ấy lại ngập ngừng không có trả lời.
 Ðây Ta nói trong nghĩa không có sắc đẹp. Vị ấy không có nhận được các đồ tư dụng, như y áo, đồ ăn
-khất thực, sàng tọa, dược phẩm trị bệnh. Ðây Ta nói trong nghĩa không có cân đối. Như vậy, này các Tỷkheo, là người chưa có điều phục, có tốc lực, nhưng không có sắc đẹp, không có cân đối.
+khất thực, sàng tọa, dược phẩm trị bệnh. Ðây Ta nói trong nghĩa không có cân đối. Như vậy, này các Tỷ-kheo, là người chưa có điều phục, có tốc lực, nhưng không có sắc đẹp, không có cân đối.
 
 3\. Như thế nào, này các Tỷ-kheo, là hạng người chưa được điều phục, có tốc lực, có sắc đẹp, nhưng
 không cân đối?

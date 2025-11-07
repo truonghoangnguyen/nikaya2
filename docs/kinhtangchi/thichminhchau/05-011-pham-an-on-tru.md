@@ -73,7 +73,7 @@ và hành động một mình. Và này các Tỷ-kheo, thế nào là ác Tỷ-
 nạn, thành tựu ý nghiệp hiểm nạn. Như vậy, này các Tỷ-kheo, thế nào là ác Tỷ-kheo dựa vào hiểm nạn.
 Và này các Tỷ-kheo, thế nào là Tỷ-kheo dựa vào rừng rậm?
 
-11\. Ở đây, này các Tỷ-kheo, ác Tỷ-kheo có tà kiến và thành tựu tri kiến cực đoan. Như vậy, này các Tỷkheo, là ác Tỷ-kheo dựa vào rừng rậm. Và này các Tỷ-kheo, thế nào là ác Tỷ-kheo dựa vào uy lực?
+11\. Ở đây, này các Tỷ-kheo, ác Tỷ-kheo có tà kiến và thành tựu tri kiến cực đoan. Như vậy, này các Tỷ-kheo, là ác Tỷ-kheo dựa vào rừng rậm. Và này các Tỷ-kheo, thế nào là ác Tỷ-kheo dựa vào uy lực?
 
 12\. Ở đây, này các Tỷ-kheo, ác Tỷ-kheo dựa vào vua và các vị đại thần của vua. Vị ấy suy nghĩ: “Nếu
 có ai nói gì về ta, các vua ấy và các đại thần ấy nói lời với mục đích che chở cho ta”. Nếu có ai nói gì về

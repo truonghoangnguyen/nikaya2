@@ -1,4 +1,4 @@
-# 7. Với Jāliya
+# DN 7. Với Jāliya
 
 _**Kinh Jāliya**_
 

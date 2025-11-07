@@ -69,7 +69,7 @@ người không có sấm, không có mưa; hạng người có sấm và có m�
 Ở đây, này các Tỷ-kheo, có hạng người thuộc lòng Pháp, Khế kinh, ứng tụng, Ký thuyết, Kệ tụng không
 hoỉ tự noí như thị thuyềt Bổn sanh, Vị tằng hữu pháp, Quảng thuyết. Vị ấy không như thật quán tri:
 “Ðây là Khổ”, ...”Ðây là Khổ tập”, ... “Ðây là Khổ diệt”, ... không như thật quán tri: “Ðây là con Ðường
-đưa đến Khổ diệt”. Như vậy, này các Tỷ-kheo, là hạng người có sấm không có mưa Ví như, này các Tỷkheo, loại mây có sấm, không có mưa ấy, Ta nói rằng, này các Tỷ-kheo, hạng người này giống như ví dụ
+đưa đến Khổ diệt”. Như vậy, này các Tỷ-kheo, là hạng người có sấm không có mưa Ví như, này các Tỷ-kheo, loại mây có sấm, không có mưa ấy, Ta nói rằng, này các Tỷ-kheo, hạng người này giống như ví dụ
 ấy.
 
 <!--pg-->
@@ -138,7 +138,7 @@ diệt”. Như vậy, này các Tỷ-kheo, là hạng người đầy và mở.
 Ở đây, này các Tỷ-kheo, có hạng người không có thái độ dễ thương, khi đi tới đi lui, khi ngó phía trước,
 ngó hai bên, khi co tay duỗi tay, khi mang áo tăng-già-lê, bình bát và y, Vị ấy không như thật quán tri:
 “Ðây là Khổ”, ...”Ðây là Khổ tập”, ... “Ðây là Khổ diệt”... không như thật quán tri: “Ðây là con Ðường
-đưa đến Khổ diệt”. Như vậy, này các Tỷ-kheo, là hạng người trống và mở, Ta nói rằng, này các Tỷkheo, người này giống như ví dụ ấy.
+đưa đến Khổ diệt”. Như vậy, này các Tỷ-kheo, là hạng người trống và mở, Ta nói rằng, này các Tỷ-kheo, người này giống như ví dụ ấy.
 
 <!--pg-->
 6. Và này các Tỷ-kheo, thế nào là hạng người đầy và bịt?
@@ -178,7 +178,7 @@ Cạn có vẻ sâu, sâu có vẻ cạn. Cạn có vẻ cạn, sâu có vẻ s�
 <!--pg-->
 1. - Này các Tỷ-kheo, có bốn loại xoài này. Thế nào là bốn?
 
-Chưa chín có vẻ chín, chín có vẻ chưa chín, chưa chín có vẻ chưa chín, chín có vẻ chín, Này các Tỷkheo, có bốn loại xoài này.
+Chưa chín có vẻ chín, chín có vẻ chưa chín, chưa chín có vẻ chưa chín, chín có vẻ chín, Này các Tỷ-kheo, có bốn loại xoài này.
 
 <!--pg-->
 2. Cũng vậy, này các Tỷ-kheo, có bốn hạng người được ví dụ với bốn loại xoài này. Thế nào là bốn?
@@ -203,7 +203,7 @@ bốn hạng người này.
 3. Và này các Tỷ-kheo, thế nào là hạng người có đào hang, nhưng không ở?
 Ở đây, này các Tỷ-kheo, có hạng người thuộc lòng Pháp như Khế kinh... Quảng thuyết. Vị ấy không như
 thật quán tri: “Ðây là Khổ”, ...”Ðây là Khổ tập”, ... “Ðây là Khổ diệt” ... “Ðây là con Ðường đưa đến
-Khổ diệt”. Như vậy, này các Tỷ-kheo, là hạng người đào hang, nhưng không ở. Ví như, này các Tỷkheo, loại chuột có đào hang, nhưng không ở ấy, Ta nói rằng, này các Tỷ-kheo, hạng người này giống
+Khổ diệt”. Như vậy, này các Tỷ-kheo, là hạng người đào hang, nhưng không ở. Ví như, này các Tỷ-kheo, loại chuột có đào hang, nhưng không ở ấy, Ta nói rằng, này các Tỷ-kheo, hạng người này giống
 như ví dụ ấy.
 
 <!--pg-->
@@ -305,7 +305,7 @@ như ví dụ ấy.
 6. Và này các Tỷ-kheo, thế nào là hạng người là lõi cây bao vây với lõi cây?
 
 Ở đây, này các Tỷ-kheo, có hạng người có giới, theo thiện pháp, hội chúng người ấy cũng có giới, theo
-thiện pháp. Như vậy, này các Tỷ-kheo, là hạng người có lõi cây bao vây với lõi cây. Ví như, này các Tỷkheo, là hạng người lõi cây bao vây với lõi, Ta nói rằng, này các Tỷ-kheo, hạng người này giống như ví
+thiện pháp. Như vậy, này các Tỷ-kheo, là hạng người có lõi cây bao vây với lõi cây. Ví như, này các Tỷ-kheo, là hạng người lõi cây bao vây với lõi, Ta nói rằng, này các Tỷ-kheo, hạng người này giống như ví
 dụ ấy.
 
 Này các Tỷ-kheo, có bốn hạng người giống như ví dụ các cây này, có mặt hiện hữu ở đời.

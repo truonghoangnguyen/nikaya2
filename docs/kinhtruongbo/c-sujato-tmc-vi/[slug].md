@@ -16,15 +16,19 @@ onMounted(() => {
     window.document.title = data.value.title
   }
 })
+
 </script>
 
-<TextCompare2
+
+<!-- Component của bạn giữ nguyên, nó vẫn sẽ hoạt động -->
+<TextCompare
   :leftPath="data.left"
   :rightPath="data.right"
-  :leftContentHtml="data.leftHtml"
-  :rightContentHtml="data.rightHtml"
   :leftTitle="data.leftTitle"
   :rightTitle="data.rightTitle"
+  :leftContentHtml="data.leftHtml"
+  :rightContentHtml="data.rightHtml"
+  notePath=""
 />
 
 <nav class="custom-prev-next" aria-labelledby="custom-footer-aria-label">

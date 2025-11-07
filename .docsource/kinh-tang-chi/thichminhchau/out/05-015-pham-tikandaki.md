@@ -171,7 +171,7 @@ Và này các Tỷ-kheo, do duyên lợi ích gì, này các Tỷ-kheo, Tỷ-khe
 vật không ghê tởm?
 
 <!--pg-->
-3. “Mong rằng, đối với các pháp khả ái, tham chớ có khởi lên nơi ta”. Do duyên lợi ích này, này các Tỷkheo, Tỷ-kheo nên sống với tưởng ghê tởm đối với vật không ghê tởm. Và này các Tỷ-kheo, do duyên
+3. “Mong rằng, đối với các pháp khả ái, tham chớ có khởi lên nơi ta”. Do duyên lợi ích này, này các Tỷ-kheo, Tỷ-kheo nên sống với tưởng ghê tởm đối với vật không ghê tởm. Và này các Tỷ-kheo, do duyên
 lợi ích thế nào, Tỷ-kheo nên sống với tưởng không ghê tởm đối với vật ghê tởm?
 
 <!--pg-->

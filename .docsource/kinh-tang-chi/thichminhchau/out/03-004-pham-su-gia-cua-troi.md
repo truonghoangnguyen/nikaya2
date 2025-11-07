@@ -81,7 +81,7 @@ tùy miên, chúng tôi sẽ chứng đạt và an trú tâm giải thoát, tu�
 Ông cần phải học tập. Khi nào Tỷ-kheo đối với thân có thức này, không có ngã kiến, ngã sở kiến, ngã
 mạn tùy miên; đối với tất cả các tướng ở ngoài, không có ngã kiến, ngã sở kiến, ngã mạn tùy miên; và
 do chứng đạt và an trú tâm giải thoát, tuệ giải thoát, không có ngã kiến, ngã sở kiến, ngã mạn tùy miên;
-vị ấy chứng đạt và an trú tâm giải thoát, tuệ giải thoát ấy. Người như vậy, này Sàriputta, được gọi là Tỷkheo đã chặt đứt khát ái, đã cởi mở kiết sử, với chơn chánh hiện quán kiêu mạn, đã đoạn tận khổ đau.
+vị ấy chứng đạt và an trú tâm giải thoát, tuệ giải thoát ấy. Người như vậy, này Sàriputta, được gọi là Tỷ-kheo đã chặt đứt khát ái, đã cởi mở kiết sử, với chơn chánh hiện quán kiêu mạn, đã đoạn tận khổ đau.
 
 − Lại nữa, này Sàriputta, liên hệ đến vấn đề này, ta đã nói như sau trong kinh tên là “Những câu hỏi của
 Udaya” trong chương Pàràyana.
@@ -461,7 +461,7 @@ _Theo làm lễ Bố-tát_
 _Vị ấy giống như ta._
 
 Bài kệ ấy, này các Tỷ-kheo, đã bị Thiên chủ Sakka hát sai, không hát đúng ... Vì cớ sao? Ta nói rằng
-Thiên chủ Sakka, này các Tỷ-kheo, chưa giải thoát khỏi sanh, già, chết, sầu, bi, khổ, ưu, não. Còn vị Tỷkheo, này các Tỷ-kheo, là bậc A-la-hán ... chánh trí giải thoát. Với vị Tỷ-kheo ấy, này các Tỷ-kheo, lời
+Thiên chủ Sakka, này các Tỷ-kheo, chưa giải thoát khỏi sanh, già, chết, sầu, bi, khổ, ưu, não. Còn vị Tỷ-kheo, này các Tỷ-kheo, là bậc A-la-hán ... chánh trí giải thoát. Với vị Tỷ-kheo ấy, này các Tỷ-kheo, lời
 nói này mới là thích đáng:
 _Ngày mười bốn, ngày rằm_
 _Ngày tám trong nửa tháng_
@@ -479,7 +479,7 @@ não, giải thoát khỏi khổ đau.
 1. - Này các Tỷ-kheo, Ta được nuôi dưỡng tế nhị, tối thắng nuôi dưỡng tế nhị, cứu cánh nuôi dưỡng tế
 nhị. Này các Tỷ-kheo, trong nhà Phụ vương ta, các hồ nước được xây lên, trong một hồ có hoa sen xanh,
 trong một hồ có hoa sen đỏ, trong một hồ có hoa sen trắng, tất cả phục vụ cho ta. Không một hương
-chiên đàn nào ta dùng, này các Tỷ-kheo, là không từ Kàsi đến. Bằng vải Kàsi là khăn của ta, này các Tỷkheo. Bằng vải kàsi là áo cánh, bằng vải kàsi là nội y, bằng vải kàsi là thượng y. Ðêm và ngày, một lọng
+chiên đàn nào ta dùng, này các Tỷ-kheo, là không từ Kàsi đến. Bằng vải Kàsi là khăn của ta, này các Tỷ-kheo. Bằng vải kàsi là áo cánh, bằng vải kàsi là nội y, bằng vải kàsi là thượng y. Ðêm và ngày, một lọng
 trắng được che cho ta để tránh xúc chạm lạnh, nóng, bụi, cỏ hay xương. Này các Tỷ-kheo, ba lâu đài
 được xây dựng cho Ta, một cái cho mùa đông, một cái cho mùa hạ, một cái cho mùa mưa. Và Ta, này
 các Tỷ-kheo, tại lâu đài mùa mưa, trong bốn tháng mưa, được những nữ nhạc công đoanh vây, Ta không

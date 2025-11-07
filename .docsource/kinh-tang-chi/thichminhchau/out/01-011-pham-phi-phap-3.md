@@ -3,7 +3,7 @@
 **1-10 Phi Pháp**
 
 <!--pg-->
-1. - Những Tỷ-kheo nào, này các Tỷ-kheo, nêu rõ phi pháp là phi pháp, các Tỷ-kheo ấy, này các Tỷkheo, sở hành như vậy, đem lại hạnh phúc cho đa số, an lạc cho đa số, lợi ích cho đa số, đem lại hạnh
+1. - Những Tỷ-kheo nào, này các Tỷ-kheo, nêu rõ phi pháp là phi pháp, các Tỷ-kheo ấy, này các Tỷ-kheo, sở hành như vậy, đem lại hạnh phúc cho đa số, an lạc cho đa số, lợi ích cho đa số, đem lại hạnh
 phúc an lạc cho chư Thiên và loài Người. Và hơn nữa, này các Tỷ-kheo, các Tỷ-kheo ấy tạo phước đức
 và an trú diệu pháp này.
 

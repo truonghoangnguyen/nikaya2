@@ -144,7 +144,7 @@ làm việc Tăng sự trong niệm đoàn kết, thời này các Tỷ-kheo, ch
 không bị suy giảm.
 
 Này các Tỷ-kheo, khi nào chúng Tỷ-kheo không ban hành những luật lệ không được ban hành, không
-hủy bỏ những luật lệ đã được ban hành, sống đúng với những học giới được ban hành, thời này các Tỷkheo, chúng Tỷ-kheo sẽ được cường thịnh, không bị suy giảm.
+hủy bỏ những luật lệ đã được ban hành, sống đúng với những học giới được ban hành, thời này các Tỷ-kheo, chúng Tỷ-kheo sẽ được cường thịnh, không bị suy giảm.
 
 Này các Tỷ-kheo, khi nào chúng Tỷ-kheo tôn sùng, kính trọng, đảnh lễ, cúng dường các bậc Tỷ-kheo
 thượng tọa những vị này là những vị giàu kinh nghiệm, niên cao lạp trưởng, bậc cha của chúng Tăng,
@@ -160,7 +160,7 @@ Này các Tỷ-kheo, khi nào chúng Tỷ-kheo tự thân an trú chánh niệm,
 chưa đến muốn đến ở, và các bạn đồng tu thiện chí đã đến ở, được sống an lạc, thời này các Tỷ-kheo,
 chúng Tỷ-kheo sẽ được cường thịnh, không bị suy giảm.
 
-Này các Tỷ-kheo, khi nào bảy pháp bất thối này được duy trì giữa các vị Tỷ-kheo, khi nào các vị Tỷkheo được dạy bảy pháp bất thối này, thời này các Tỷ-kheo, chúng Tỷ-kheo sẽ được cường thịnh, không
+Này các Tỷ-kheo, khi nào bảy pháp bất thối này được duy trì giữa các vị Tỷ-kheo, khi nào các vị Tỷ-kheo được dạy bảy pháp bất thối này, thời này các Tỷ-kheo, chúng Tỷ-kheo sẽ được cường thịnh, không
 bị suy giảm.
 
 7\. Này các Tỷ-kheo, Ta sẽ giảng bày pháp bất thối khác, hãy nghe và suy nghiệm kỹ. Ta sẽ nói.
@@ -175,7 +175,7 @@ Này các Tỷ-kheo, khi nào chúng Tỷ-kheo không ưa thích làm thế sự
 Này các Tỷ-kheo, khi nào chúng Tỷ-kheo không ưa thích phiếm luận, không hoan hỷ phiếm luận, không
 đam mê phiếm luận, thời này các Tỷ-kheo, chúng Tỷ-kheo sẽ được cường thịnh, không bị suy giảm.
 
-Này các Tỷ-kheo, khi nào chúng Tỷ-kheo không ưa thích ngủ nghỉ, thời này các Tỷ-kheo, chúng Tỷkheo sẽ được cường thịnh, không bị suy giảm.
+Này các Tỷ-kheo, khi nào chúng Tỷ-kheo không ưa thích ngủ nghỉ, thời này các Tỷ-kheo, chúng Tỷ-kheo sẽ được cường thịnh, không bị suy giảm.
 
 Này các Tỷ-kheo, khi nào chúng Tỷ-kheo không ưa thích quần tụ, không hoan hỷ quần tụ, không đam
 mê quần tụ, thời này các Tỷ-kheo, chúng Tỷ-kheo sẽ được cường thịnh, không bị suy giảm.
@@ -191,7 +191,7 @@ Này các Tỷ-kheo, khi nào chúng Tỷ-kheo không dừng ở nửa chừng, 
 kém và những quả vị thù thắng, thời này các Tỷ-kheo, chúng Tỷ-kheo sẽ được cường thịnh, không bị
 suy giảm.
 
-Này các Tỷ-kheo, khi nào bảy pháp bất thối này được duy trì giữa các vị Tỷ-kheo, khi nào các vị Tỷkheo được dạy bảy pháp bất thối này, thời này các Tỷ-kheo, chúng Tỷ-kheo sẽ được cường thịnh, không
+Này các Tỷ-kheo, khi nào bảy pháp bất thối này được duy trì giữa các vị Tỷ-kheo, khi nào các vị Tỷ-kheo được dạy bảy pháp bất thối này, thời này các Tỷ-kheo, chúng Tỷ-kheo sẽ được cường thịnh, không
 bị suy giảm.
 
 <!--pg-->
@@ -203,7 +203,7 @@ Những vị Tỷ-kheo ấy đáp ứng Thế Tôn. Thế Tôn nói:
 − Này các Tỷ-kheo, khi nào chúng Tỷ-kheo có tín tâm, có tàm, có quý, có nghe nhiều, có tinh tấn, có
 chánh niệm, có trí tuệ, thời này các Tỷ-kheo, chúng Tỷ-kheo sẽ được cường thịnh, không bị suy giảm.
 
-Này các Tỷ-kheo, khi nào bảy pháp bất thối này được duy trì giữa các vị Tỷ-kheo, khi nào các vị Tỷkheo được dạy bảy pháp bất thối này, thời này các Tỷ-kheo, chúng Tỷ-kheo sẽ được cường thịnh, không
+Này các Tỷ-kheo, khi nào bảy pháp bất thối này được duy trì giữa các vị Tỷ-kheo, khi nào các vị Tỷ-kheo được dạy bảy pháp bất thối này, thời này các Tỷ-kheo, chúng Tỷ-kheo sẽ được cường thịnh, không
 bị suy giảm.
 
 <!--pg-->
@@ -217,7 +217,7 @@ Chư Tỷ-kheo đáp ứng. Thế Tôn nói:
 tấn giác chi, tu tập khinh an giác chi, tu tập định giác chi, tu tập xả giác chi, thời này các Tỷ-kheo, chúng
 Tỷ-kheo sẽ được cường thịnh, không bị suy giảm.
 
-Này các Tỷ-kheo, khi nào bảy pháp bất thối này được duy trì giữa các vị Tỷ-kheo, khi nào các vị Tỷkheo được dạy bảy pháp bất thối này, thời này các Tỷ-kheo, chúng Tỷ-kheo sẽ được cường thịnh, không
+Này các Tỷ-kheo, khi nào bảy pháp bất thối này được duy trì giữa các vị Tỷ-kheo, khi nào các vị Tỷ-kheo được dạy bảy pháp bất thối này, thời này các Tỷ-kheo, chúng Tỷ-kheo sẽ được cường thịnh, không
 bị suy giảm.
 
 <!--pg-->
@@ -231,7 +231,7 @@ Những vị Tỷ-kheo ấy đáp ứng Thế Tôn. Thế Tôn nói:
 tưởng, tu tập nguy hiểm tưởng, tu tập xả ly tưởng, tu tập vô tham tưởng, tu tập diệt tưởng, thời này các
 Tỷ-kheo, chúng Tỷ-kheo sẽ được cường thịnh, không bị suy giảm.
 
-Này các Tỷ-kheo, khi nào bảy pháp bất thối này được duy trì giữa các vị Tỷ-kheo, khi nào các vị Tỷkheo được dạy bảy pháp bất thối này, thời này các Tỷ-kheo, chúng Tỷ-kheo sẽ được cường thịnh, không
+Này các Tỷ-kheo, khi nào bảy pháp bất thối này được duy trì giữa các vị Tỷ-kheo, khi nào các vị Tỷ-kheo được dạy bảy pháp bất thối này, thời này các Tỷ-kheo, chúng Tỷ-kheo sẽ được cường thịnh, không
 bị suy giảm.
 
 <!--pg-->
@@ -267,11 +267,11 @@ trong sự thọ trì những tri kiến đúng với Sa-môn hạnh, những th
 đến sự diệt tận khổ đau cho những ai thực hành theo, thời này các Tỷ-kheo, chúng Tỷ-kheo sẽ được
 cường thịnh, không bị suy giảm.
 
-Này các Tỷ-kheo, khi nào sáu pháp bất thối này được duy trì giữa các vị Tỷ-kheo, khi nào các vị Tỷkheo được dạy sáu pháp bất thối này, thời này các Tỷ-kheo, chúng Tỷ-kheo sẽ được cường thịnh, không
+Này các Tỷ-kheo, khi nào sáu pháp bất thối này được duy trì giữa các vị Tỷ-kheo, khi nào các vị Tỷ-kheo được dạy sáu pháp bất thối này, thời này các Tỷ-kheo, chúng Tỷ-kheo sẽ được cường thịnh, không
 bị suy giảm.
 
 <!--pg-->
-12\. Trong thời gian Thế Tôn ở Vương Xá tại núi Linh Thứu, pháp thoại này được giảng cho chúng Tỷkheo: “Ðây là Giới, đây là Ðịnh, đây là Tuệ. Ðịnh cùng tu với Giới sẽ đưa đến quả vị lớn, lợi ích lớn.
+12\. Trong thời gian Thế Tôn ở Vương Xá tại núi Linh Thứu, pháp thoại này được giảng cho chúng Tỷ-kheo: “Ðây là Giới, đây là Ðịnh, đây là Tuệ. Ðịnh cùng tu với Giới sẽ đưa đến quả vị lớn, lợi ích lớn.
 Tuệ cùng tu với Ðịnh sẽ đưa đến quả vị lớn, lợi ích lớn. Tâm cùng tu với Tuệ sẽ đưa đến giải thoát hoàn
 toàn các món lậu hoặc tức là dục lậu, hữu lậu (tri kiến lậu), vô minh lậu”.
 
@@ -381,7 +381,7 @@ Pàtaligàma bạch Thế Tôn:
 dầu đèn đã được chuẩn bị. Bạch Thế Tôn, Ngài hãy làm những gì Ngài nghĩ là phải thời.
 
 22\. Rồi Thế Tôn đắp y, cầm y bát, cùng với đại chúng Tỷ-kheo đi đến nhà nghỉ mát, sau khi đến liền rửa
-chân bước vào nhà, ngồi xuống, lưng dựa và bức tường ở giữa, mặt hướng về phía Ðông. Chúng Tỷkheo sau khi rửa chân, bước vào nhà ngồi xuống, lưng dựa vào bức tường phía Ðông, hướng mặt phía
+chân bước vào nhà, ngồi xuống, lưng dựa và bức tường ở giữa, mặt hướng về phía Ðông. Chúng Tỷ-kheo sau khi rửa chân, bước vào nhà ngồi xuống, lưng dựa vào bức tường phía Ðông, hướng mặt phía
 Tây, đối diện Thế Tôn.
 
 23\. Thế Tôn nói với các cư sĩ ở Pataligama:
@@ -516,7 +516,7 @@ _Những người ấy thật là những vị trí tuệ được giải thoát
 
 1\. Rồi Thế Tôn gọi tôn giả Ananda: “Này Ananda, chúng ta hãy đi đến Kotigàma”
 
-− “Xin vâng, bạch Thế Tôn”. Tôn giả Ananda đáp ứng Thế Tôn. Rồi Thế Tôn cùng với đại chúng Tỷkheo đi đến Kotigàma. Tại đây, Thế Tôn ở tại Kotigàma.
+− “Xin vâng, bạch Thế Tôn”. Tôn giả Ananda đáp ứng Thế Tôn. Rồi Thế Tôn cùng với đại chúng Tỷ-kheo đi đến Kotigàma. Tại đây, Thế Tôn ở tại Kotigàma.
 
 2\. Thế Tôn nói với các vị Tỷ-kheo:
 
@@ -1359,7 +1359,7 @@ sánh với Kinh, đem đối chiếu với Luật. Khi đem so sánh với Kinh
 hợp với Kinh, không tương ứng với Luật, và nếu chúng phù hợp với Kinh, tương ứng với Luật, thời các
 Ngươi có thể kết luận: “Chắc chắn những lời này không phải là lời Thế Tôn và Tỷ-kheo ấy đã thọ giáo
 sai lầm”. Và, này các Tỷ-kheo, các Ngươi hãy từ bỏ chúng. Khi đem so sánh với Kinh, đem đối chiếu
-với Luật, thời các Ngươi có thể kết luận: “Chắc chắn những lời ấy phải là lời dạy của Thế Tôn và Tỷkheo ấy đã thọ giáo chơn chánh”. Này các Tỷ-kheo, như vậy là Ðại giáo pháp thứ ba, các Ngươi hãy thọ
+với Luật, thời các Ngươi có thể kết luận: “Chắc chắn những lời ấy phải là lời dạy của Thế Tôn và Tỷ-kheo ấy đã thọ giáo chơn chánh”. Này các Tỷ-kheo, như vậy là Ðại giáo pháp thứ ba, các Ngươi hãy thọ
 trì.
 11\. Này các Tỷ-kheo, có thể có Tỷ-kheo nói: “Tại trú xứ kia, có một vị Thượng tọa, vị này là bậc đa
 văn, gìn giữ truyền thống, trì pháp, trì luật, trì pháp yếu. Tôi tự thân nghe từ Thượng tọa, tự thân lãnh
@@ -1413,7 +1413,7 @@ loại mềm và nhiều thứ Sùkara-maddave (một loại mộc nhĩ), và b�
 loại mềm, hãy dọn cho chúng Tỷ-kheo.
 − Xin vâng, bạch Thế Tôn!
 
-Thợ sắt Cunda vâng lời Thế Tôn, dọn cho Thế Tôn các món mộc nhĩ đã soạn sẵn, và dọn cho chúng Tỷkheo các món ăn khác, loại cứng và loại mềm.
+Thợ sắt Cunda vâng lời Thế Tôn, dọn cho Thế Tôn các món mộc nhĩ đã soạn sẵn, và dọn cho chúng Tỷ-kheo các món ăn khác, loại cứng và loại mềm.
 
 19\. Rồi Thế Tôn nói với thợ sắt Cunda:
 
@@ -2064,7 +2064,7 @@ Subhadda, nếu những Tỷ-kheo sống chơn chánh, thì đời này không v
 − Thật hy hữu thay, bạch Thế Tôn! Thật vi diệu thay, bạch Thế Tôn! Như người dựng đứng lại những gì
 bị quăng ngã xuống, phơi bày ra những gì bị che kín, chỉ đường cho người bị lạc hướng, đem đèn sáng
 vào trong bóng tối để những ai có mắt có thể thấy sắc. Cũng vậy, chánh pháp đã được Thế Tôn dùng
-nhiều phương tiện trình bày, giải thích. Bạch Thế Tôn, con xin quy y Thế Tôn, quy y Pháp và quy y Tỷkheo Tăng. Mong con được xuất gia với Thế Tôn. Con xin thọ đại giới.
+nhiều phương tiện trình bày, giải thích. Bạch Thế Tôn, con xin quy y Thế Tôn, quy y Pháp và quy y Tỷ-kheo Tăng. Mong con được xuất gia với Thế Tôn. Con xin thọ đại giới.
 − Này Subhadda, ai trước kia là ngoại đạo, nay muốn xuất gia muốn thọ đại giới trong Pháp, Luật này
 phải sống bốn tháng biệt trú. Sau khi sống bốn tháng biệt trú, các vị Tỷ-kheo nếu đồng ý sẽ cho xuất gia,
 cho thọ đại giới để thành vị Tỷ-kheo. Nhưng Ta nhận thấy cá tánh con người sai biệt nhau.
@@ -2342,7 +2342,7 @@ này vào một hòm sắt khác, dựng lên một giàn hỏa gồm mọi lo�
 hỏa.
 
 <!--pg-->
-19\. Lúc bấy giờ, Tôn giả Mallà Kassapa đang đi giữa đường từ Pàvà đến Kusinàrà với đại chúng Tỷkheo khoảng năm trăm vị. Rồi Tôn giả Mallà Kassapa bước xuống đường và đến ngồi tại một gốc cây.
+19\. Lúc bấy giờ, Tôn giả Mallà Kassapa đang đi giữa đường từ Pàvà đến Kusinàrà với đại chúng Tỷ-kheo khoảng năm trăm vị. Rồi Tôn giả Mallà Kassapa bước xuống đường và đến ngồi tại một gốc cây.
 
 Lúc bấy giờ có một tà mạng ngoại đạo lấy một hoa Mandàrava ở Kusinàrà và đang đi trên một con
 đường đến Pàvà.

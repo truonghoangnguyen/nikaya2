@@ -225,7 +225,7 @@ Hiền trí! Vị Tôn giả thật là một Hiền trí! “.
 <!--pg-->
 6. Phi pháp và pháp, này các Tỷ-kheo, cần phải hiểu biết; phi mục đích và mục đích, cần phải hiểu biết;
 phi mục đích và mục đích, cần phải hiểu biết. Sau khi biết phi pháp và pháp, sau khi biết phi mục đích
-và mục đích, pháp như thế nào, mục đích như thế nào, như thế ấy, cần phải thực hành. Và này các Tỷkheo, thế nào là phi pháp, thế nào là pháp, thế nào là phi mục đích, thế nào là mục đích?
+và mục đích, pháp như thế nào, mục đích như thế nào, như thế ấy, cần phải thực hành. Và này các Tỷ-kheo, thế nào là phi pháp, thế nào là pháp, thế nào là phi mục đích, thế nào là mục đích?
 
 <!--pg-->
 7. Tà kiến, này các Tỷ-kheo, là phi pháp, chánh kiến là pháp, do duyên tà kiến, các pháp ác bất thiện nào
@@ -369,7 +369,7 @@ Gotama bắt đầu từ nay nhận con làm đệ tử cư sĩ, từ nay cho đ
 **(VIII) (120) Sự Xuất Ly Của Bậc Thánh (2)**
 
 <!--pg-->
-1. Này các Tỷ-kheo, Ta sẽ thuyết cho các Thầy về sự xuất ly của bậc Thánh. Hãy nghe... và này các Tỷkheo, thế nào là sự xuất ly của bậc Thánh?
+1. Này các Tỷ-kheo, Ta sẽ thuyết cho các Thầy về sự xuất ly của bậc Thánh. Hãy nghe... và này các Tỷ-kheo, thế nào là sự xuất ly của bậc Thánh?
 
 <!--pg-->
 2. Ở đây, này các Tỷ-kheo, vị Thánh đệ tử suy xét như sau: 'Tà kiến đưa đến ác quỷ dị thục trong hiện

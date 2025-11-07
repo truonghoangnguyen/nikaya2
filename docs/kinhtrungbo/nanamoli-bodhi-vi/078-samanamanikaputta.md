@@ -68,7 +68,7 @@ Từ ngữ:
 - ý định xấu ác / mano-duccarita / evil intentions: Ý nghĩ, chủ tâm sai trái, có hại (như tham lam, sân hận, tà kiến). Trong ngữ cảnh này, nó gần với ý hành ác hơn là chỉ ý định đơn thuần.
 - sinh kế xấu ác (tà mạng) / micchā-ājīva / evil livelihood: Cách kiếm sống sai trái, gây hại cho mình và người khác, không phù hợp với đạo đức.
 - tập quán bất thiện / akusala-samācāra / unwholesome habits: Những thói quen, hành vi không lành mạnh, dựa trên tham, sân, si, dẫn đến khổ đau.
-- đoạn diệt không còn dư tàn / aparisesa-nirodha / cease without remainder: Sự chấm dứt hoàn toàn, không còn sót lại bất kỳ dấu vết hay mầm mống nào, thường chỉ sựดับ tắt hoàn toàn của phiền não hoặc các pháp hữu vi khi nhập Niết Bàn.
+- đoạn diệt không còn dư tàn / aparisesa-nirodha / cease without remainder: Sự chấm dứt hoàn toàn, không còn sót lại bất kỳ dấu vết hay mầm mống nào, thường chỉ sự kết thúc hoàn toàn của phiền não hoặc các pháp hữu vi khi nhập Niết Bàn.
 - tập quán thiện / kusala-samācāra / wholesome habits: Những thói quen, hành vi lành mạnh, dựa trên không tham, không sân, không si, dẫn đến an lạc.
 - sự thanh tịnh về sinh kế / ājīva-pārisuddhi / purification of livelihood: Cách kiếm sống trong sạch, đúng đắn, không gây hại, phù hợp với Chánh mạng.
 - tâm giải thoát / ceto-vimutti / deliverance of mind: Sự giải thoát của tâm khỏi các trói buộc của phiền não, đặc biệt là tham ái, thông qua việc phát triển định.

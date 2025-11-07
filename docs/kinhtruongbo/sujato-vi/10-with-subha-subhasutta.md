@@ -1,8 +1,8 @@
-# 10. Với Subha
+# DN 10. Với Subha
 
 _**Kinh Subha**_
 
-NHƯ VẦY TÔI NGHE. Một thời Tôn giả Ānanda trú gần thành Xá-vệ (Sāvatthī), tại Kỳ-đà Lâm (Jeta's Grove), tu viện của ông Anāthapiṇḍika (Cấp Cô Độc). Đó là không lâu sau khi Đức Phật đã *viên tịch hoàn toàn* (fully quenched / sựดับ tắt hoàn toàn mọi phiền não và khổ đau, trạng thái cuối cùng của một vị Phật hay A-la-hán).[574](/kinhtruongbo/sujato-vi/notes/10#574){.note}
+NHƯ VẦY TÔI NGHE. Một thời Tôn giả Ānanda trú gần thành Xá-vệ (Sāvatthī), tại Kỳ-đà Lâm (Jeta's Grove), tu viện của ông Anāthapiṇḍika (Cấp Cô Độc). Đó là không lâu sau khi Đức Phật đã *viên tịch hoàn toàn* (fully quenched / sự kết thúc hoàn toàn mọi phiền não và khổ đau, trạng thái cuối cùng của một vị Phật hay A-la-hán).[574](/kinhtruongbo/sujato-vi/notes/10#574){.note}
 
 Khi ấy, thanh niên Subha, con trai của Todeyya, đang ở tại Xá-vệ vì một vài công việc.[575](/kinhtruongbo/sujato-vi/notes/10#575){.note} Rồi ông gọi một thanh niên Bà-la-môn khác và bảo: "Này con, hãy đến chỗ *Sa-môn* (ascetic / người tu hành, người xuất gia theo truyền thống Ấn Độ cổ) Ānanda, nhân danh ta, cúi đầu đảnh lễ dưới chân ngài. Hãy hỏi thăm ngài có được khỏe mạnh, an khang, nhanh nhẹn, mạnh khỏe và trú được thoải mái không. Và rồi thưa rằng: 'Bạch ngài, xin ngài hãy vì lòng thương tưởng mà đến thăm nhà của thanh niên Subha, con trai của Todeyya.'"
 

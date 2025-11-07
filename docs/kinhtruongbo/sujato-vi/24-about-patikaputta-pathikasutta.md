@@ -1,4 +1,4 @@
-# 24. Kinh Pāthika
+# DN 24. Kinh Pāthika
 **_(Pàtikasutta)_**
 
 ## 1. Câu chuyện về Sunakkhatta

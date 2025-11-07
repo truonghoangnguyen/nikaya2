@@ -1,4 +1,4 @@
-# 9. Với Poṭṭhapāda
+# DN 9. Với Poṭṭhapāda
 
 _**Kinh Poṭṭhapāda**_
 

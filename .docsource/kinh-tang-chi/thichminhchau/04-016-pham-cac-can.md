@@ -120,13 +120,13 @@ luận rằng: “Ta không thối đọa khỏi các thiện pháp “. Ðây �
 nói:
 “- Hãy đến đây, thưa Ông. Hãy đi đến Tôn giả Ananda, và nhân danh tôi, với đầu đảnh lễ chân Tôn giả
 Ananda và nói: “Thưa Tôn giả, Tỷ-kheo-ni tên là ... bị bệnh, khổ đau, bị trọng bệnh. Tỷ-kheo-ni với đầu
-đảnh lễ Tôn giả Ananda và nói như sau: “Thưa Tôn giả, lành thay, nếu Tôn giả đi đến trú xứ của Tỷkheo-ni, đi đến Tỷ-kheo-ni ấy vì lòng từ mẫn”.
+đảnh lễ Tôn giả Ananda và nói như sau: “Thưa Tôn giả, lành thay, nếu Tôn giả đi đến trú xứ của Tỷ-kheo-ni, đi đến Tỷ-kheo-ni ấy vì lòng từ mẫn”.
 
 “- Thưa vâng, nữ Tôn giả”. Người ấy vâng đáp Tỷ-kheo-ni ấy, đi đến Tôn giả Ananda; sau khi đến, đảnh
 lễ Tôn giả Ananda, rồi ngồi xuống một bên. Ngồi xuống một bên, người ấy nói với Tôn giả Ananda:
 
 − Thưa Tôn giả, Tỷ-kheo-ni tên này bị bệnh, khổ đau, bị trọng bệnh, với đầu đảnh lễ chân Tôn giả
-Ananda, và nói như sau: “Thưa Tôn giả, lành thay, nếu Tôn giả đi đến trú xứ của Tỷ-kheo-ni, đi đến Tỷkheo-ni ấy vì lòng từ mẫn”.
+Ananda, và nói như sau: “Thưa Tôn giả, lành thay, nếu Tôn giả đi đến trú xứ của Tỷ-kheo-ni, đi đến Tỷ-kheo-ni ấy vì lòng từ mẫn”.
 
 Tôn giả Ananda im lặng nhận lời.
 
@@ -200,7 +200,7 @@ chư Thiên và loài Người.
 3. Có bốn pháp này, này các Tỷ-kheo, đưa đến diệu pháp hỗn loạn. Thế nào là bốn?
 
 Ở đây, này các Tỷ-kheo, các Tỷ-kheo học thuộc lòng kinh, được lãnh thọ sai lầm, với văn cú sắp đặt bị
-đảo lộn. Do văn cú bị sắp đặt đảo lộn, này các Tỷ-kheo, nên nghĩa lý bị hướng dẫn sai lạc. Này các Tỷkheo, đây là pháp thứ nhất đưa đến Diệu pháp hỗn loạn và biến mất.
+đảo lộn. Do văn cú bị sắp đặt đảo lộn, này các Tỷ-kheo, nên nghĩa lý bị hướng dẫn sai lạc. Này các Tỷ-kheo, đây là pháp thứ nhất đưa đến Diệu pháp hỗn loạn và biến mất.
 
 4. Lại nữa, này các Tỷ-kheo, các Tỷ-kheo là những người khó nói, thành tựu với những pháp khiến cho
 trở thành khó nói, khó kham nhẫn. Họ không kính trọng lời giáo giới. Này các Tỷ-kheo, đây là pháp thứ
