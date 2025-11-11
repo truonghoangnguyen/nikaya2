@@ -24936,7 +24936,7 @@ hữu vi, do duyên sanh. Vô minh ấy là vô thường, hữu vi, do duyên s
 
 30) Này các Tỷ-kheo, do biết như vậy, thấy như vậy, các lậu hoặc được đoạn tận lập tức.
 
-**X. Trăng Rằm** (Tạp 2, Ðại 2,14b) (S.iii,100) (Trung Bộ Kinh, trang 109, 110 Tham chiếu)
+**X. Trăng Rằm** (Tạp 2, Ðại 2,14b) (S.iii,100) (Kinh Trung Bộ, trang 109, 110 Tham chiếu)
 
 1) Một thời Thế Tôn ở Sàvatthi (Xá-vệ), Ðông Viên, Lộc Mẫu giảng đường, cùng với đại chúng Tỷ-kheo.
 

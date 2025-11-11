@@ -10,7 +10,7 @@
 <!--pg-->
 4\. "Thưa ngài Assaji, sa môn Gotama rèn luyện đệ tử của mình như thế nào? Và lời dạy của sa môn Gotama thường được trình bày cho các đệ tử như thế nào?"
 
-"Này Aggivessana, đây là cách Đức Thế Tôn rèn luyện đệ tử của mình, và đây là cách lời dạy của Đức Thế Tôn thường được trình bày cho các đệ tử: 'Này các tỳ kheo (monks-bhikkhus-nhà sư), sắc thân là vô thường, cảm thọ là vô thường, tri giác là vô thường, các hành là vô thường, thức là vô thường. Này các tỳ kheo, sắc thân là vô ngã, cảm thọ là vô ngã, tri giác là vô ngã, các hành là vô ngã, thức là vô ngã. Tất cả các hành là vô thường; tất cả các pháp là vô ngã. [^371] Đó là cách Đức Thế Tôn rèn luyện đệ tử của mình, và đó là cách lời dạy của Đức Thế Tôn thường được trình bày cho các đệ tử."
+"Này Aggivessana, đây là cách Đức Thế Tôn rèn luyện đệ tử của mình, và đây là cách lời dạy của Đức Thế Tôn thường được trình bày cho các đệ tử: 'Này các tỳ kheo, sắc thân là vô thường, cảm thọ là vô thường, tri giác là vô thường, các hành là vô thường, thức là vô thường. Này các tỳ kheo, sắc thân là vô ngã, cảm thọ là vô ngã, tri giác là vô ngã, các hành là vô ngã, thức là vô ngã. Tất cả các hành là vô thường; tất cả các pháp là vô ngã. [^371] Đó là cách Đức Thế Tôn rèn luyện đệ tử của mình, và đó là cách lời dạy của Đức Thế Tôn thường được trình bày cho các đệ tử."
 
 "Nếu đây là điều sa môn Gotama khẳng định, chúng ta quả thật nghe thấy điều khó chịu. Có lẽ một lúc nào đó chúng ta có thể gặp ngài Gotama và trò chuyện với ngài. Có lẽ chúng ta có thể tách ngài ra khỏi tà kiến đó."
 

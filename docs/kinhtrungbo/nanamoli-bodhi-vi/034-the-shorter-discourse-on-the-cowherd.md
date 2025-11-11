@@ -1,7 +1,7 @@
 # MN 34. Tiểu Kinh Người Chăn Bò
 ***(Cūlagopālaka Sutta)***
 
-[225] 1. Tôi nghe như vầy. Một thời, Đức Thế Tôn đang ở tại xứ Vajjian, Ukkācelā, bên bờ sông Hằng. Tại đó, Ngài gọi các tỳ kheo (monks-bhikkhus-nhà sư): "Này các tỳ kheo." - "Bạch Thế Tôn," các vị ấy đáp. Đức Thế Tôn nói như sau:
+[225] 1. Tôi nghe như vầy. Một thời, Đức Thế Tôn đang ở tại xứ Vajjian, Ukkācelā, bên bờ sông Hằng. Tại đó, Ngài gọi các tỳ kheo: "Này các tỳ kheo." - "Bạch Thế Tôn," các vị ấy đáp. Đức Thế Tôn nói như sau:
 
 <!--pg-->
 2\. "Này các tỳ kheo, có một người chăn bò xứ Magadha ngu ngốc, vào tháng cuối mùa mưa, vào mùa thu, không xem xét bờ gần hay bờ xa của sông Hằng, đã lùa đàn bò của mình qua bờ bên kia ở xứ Videhan tại một nơi không có bến. Rồi đàn bò tụ lại giữa dòng sông Hằng, và chúng gặp tai họa và thảm họa. Vì sao vậy? Vì người chăn bò xứ Magadha ngu ngốc đó, vào tháng cuối mùa mưa, vào mùa thu, không xem xét bờ gần hay bờ xa của sông Hằng, đã lùa đàn bò của mình qua bờ bên kia ở xứ Videhan tại một nơi không có bến.

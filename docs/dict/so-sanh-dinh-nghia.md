@@ -78,7 +78,7 @@
 	- Ý (ba): Tham lam-1 (abhijjhā): Tham muốn tầm thường (gốc từ lobha); Sân hận-1 (byāpāda): Ác ý (giống Sân-2 ở Ngũ Triền Cái, nên không đánh số mới); Tà kiến-1 (micchā-diṭṭhi): Tin sai lầm, quan điểm lệch lạc.
 
 
-- Nguồn: Kinh Majjhima Nikaya (Trung Bộ Kinh).
+- Nguồn: Kinh Majjhima Nikaya (Kinh Trung Bộ).
 
 5. Thập Ô Nhiễm (Mười Ô Nhiễm Tâm - Ten Defilements hoặc Kilesas)
 

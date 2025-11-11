@@ -41,6 +41,27 @@ const tmcmnvi = [
       }
     }
   },
+  {
+    "params": {
+      "slug": "028-dai-kinh-du-dau-chan-voi",
+      "data": {
+        "title": "28. ÐẠI KINH DỤ DẤU CHÂN VOI",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/028-the-greater-discourse-on-the-simile-of-the-elephant-s-footprint.md",
+        "right": "/kinhtrungbo/thichminhchau/028-dai-kinh-du-dau-chan-voi.md",
+        "leftTitle": "Nanamoli-Bodhi",
+        "rightTitle": "Thích Minh Châu",
+        "notePath": "",
+        "backlink": {
+          "text": "27. TIỂU KINH DỤ DẤU CHÂN VOI",
+          "link": "/kinhtrungbo/c-nm-tmc-vi/027-tieu-kinh-du-dau-chan-voi"
+        },
+        "nextlink": {
+          "text": "29. ÐẠI KINH THÍ DỤ LÕI CÂY",
+          "link": "/kinhtrungbo/c-nm-tmc-vi/029-dai-kinh-thi-du-loi-cay"
+        }
+      }
+    }
+  },
 
 ];
 export default tmcmnvi;

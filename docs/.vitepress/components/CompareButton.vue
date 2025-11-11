@@ -1,5 +1,5 @@
 <script setup>
-import thichminhchau from '../../kinhtrungbo/thichminhchau/filelist'
+// import thichminhchau from '../../kinhtrungbo/thichminhchau/meta/filelist'
 // import nanamoli_bodhi from '../../kinhtrungbo/nanamoli-bodhi-en/filelist';
 
 /**
@@ -16,6 +16,7 @@ import thichminhchau from '../../kinhtrungbo/thichminhchau/filelist'
  * @param {string} url - /kinhtrungbo/nanamoli-bodhi/001-the-root-of-all-things
  * @returns {string|null} The generated comparison URL or null if invalid.
  */
+
 function toHomeCompare(url) {
   // this is support paths, allow to compare
   //const compareBooks = ['c-nm-tmc-en', 'c-nm-tmc-vi']

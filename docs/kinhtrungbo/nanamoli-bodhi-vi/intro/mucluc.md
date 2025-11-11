@@ -1,6 +1,6 @@
 - [Lời Tựa](/kinhtrungbo/nanamoli-bodhi-vi/intro/01.preface.md)
 - [Dẫn nhập](/kinhtrungbo/nanamoli-bodhi-vi/intro/02.introduction.md)
-- [ĐỨC PHẬT TRONG TRUNG BỘ KINH](/kinhtrungbo/nanamoli-bodhi-vi/intro/03.the-buddha-in-the-majjhima-nikaya.md)
+- [ĐỨC PHẬT TRONG Kinh Trung Bộ](/kinhtrungbo/nanamoli-bodhi-vi/intro/03.the-buddha-in-the-majjhima-nikaya.md)
 - [TỨ DIỆU ĐẾ](/kinhtrungbo/nanamoli-bodhi-vi/intro/04.the-four-noble-truths.md)
 - [GIÁO LÝ VỀ VÔ NGÃ](/kinhtrungbo/nanamoli-bodhi-vi/intro/05.the-teaching-of-non-self.md)
 - [NGUỒN GỐC VÀ SỰ CHẤM DỨT KHỔ ĐAU](/kinhtrungbo/nanamoli-bodhi-vi/intro/06.the-origin-and-cessation-of-suffering.md)

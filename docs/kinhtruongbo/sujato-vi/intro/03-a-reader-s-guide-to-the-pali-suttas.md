@@ -18,7 +18,7 @@ Từ Tipiṭaka có nghĩa là "Ba Tạng" (Three Baskets). Tạng Kinh (Basket 
 
   - **Trường bộ kinh** (Dīgha Nikāya / *Trường bộ kinh* / các bài kinh dài)
 
-  - **Trung bộ kinh** (Majjhima Nikāya / *Trung bộ kinh* / các bài kinh trung bình)
+  - **Kinh Trung Bộ** (Majjhima Nikāya / *Kinh Trung Bộ* / các bài kinh trung bình)
 
   - **Tương ưng bộ kinh** (Saṁyutta Nikāya / *Tương ưng bộ kinh* / các bài kinh liên kết)
 
@@ -84,9 +84,9 @@ Trong hệ thống của chúng tôi, các số theo sau dấu hai chấm đại
 
 - DN 3 có nghĩa là "bài giảng thứ ba trong bộ sưu tập Kinh dài (Trường bộ kinh)".
 
-- MN 43:3 có nghĩa là "bài giảng 43, phần 3 trong bộ sưu tập Kinh trung bình (Trung bộ kinh)".
+- MN 43:3 có nghĩa là "bài giảng 43, phần 3 trong bộ sưu tập Kinh trung bình (Kinh Trung Bộ)".
 
-- MN 43:3.7 có nghĩa là "bài giảng 43, phần 3, phân đoạn 7 trong bộ sưu tập Kinh trung bình (Trung bộ kinh)".
+- MN 43:3.7 có nghĩa là "bài giảng 43, phần 3, phân đoạn 7 trong bộ sưu tập Kinh trung bình (Kinh Trung Bộ)".
 
 - SN 12.2:6.2 có nghĩa là "bài giảng 2, phần 6, phân đoạn 2 trong *saṁyutta* thứ 12 của bộ sưu tập Kinh liên kết (Tương ưng bộ kinh)".
 
@@ -162,7 +162,7 @@ Trong một số trường hợp, một *phẩm* (*vagga*) trong Pāli có thể
 
 ##### Năm Mươi Bài Kinh ("Fifty")
 
-Từ *paṇṇāsa* có nghĩa là "năm mươi", và một *paṇṇāsaka* (*năm mươi bài kinh*) là một nhóm khoảng năm mươi bài kinh, hoặc năm *phẩm* (*vagga*). Nó được sử dụng để tổ chức các bộ sưu tập chứa nhiều *phẩm* (*vagga*). Hầu hết các bộ sưu tập có số lượng bài giảng lớn đều sử dụng cấu trúc này, ví dụ như "[Năm Mươi Bài Kinh Gốc](https://suttacentral.net/mn-mulapannasa)" (Root Fifty) của *Trung bộ kinh* (Majjhima Nikāya) (*Mūlapaṇṇāsa*). *Paṇṇāsaka* (*năm mươi bài kinh*) hoàn toàn chỉ để tiện lợi và không tương ứng với bất kỳ phân chia ý nghĩa nào của văn bản.
+Từ *paṇṇāsa* có nghĩa là "năm mươi", và một *paṇṇāsaka* (*năm mươi bài kinh*) là một nhóm khoảng năm mươi bài kinh, hoặc năm *phẩm* (*vagga*). Nó được sử dụng để tổ chức các bộ sưu tập chứa nhiều *phẩm* (*vagga*). Hầu hết các bộ sưu tập có số lượng bài giảng lớn đều sử dụng cấu trúc này, ví dụ như "[Năm Mươi Bài Kinh Gốc](https://suttacentral.net/mn-mulapannasa)" (Root Fifty) của *Kinh Trung Bộ* (Majjhima Nikāya) (*Mūlapaṇṇāsa*). *Paṇṇāsaka* (*năm mươi bài kinh*) hoàn toàn chỉ để tiện lợi và không tương ứng với bất kỳ phân chia ý nghĩa nào của văn bản.
 
 ##### Nhóm ("Group")
 

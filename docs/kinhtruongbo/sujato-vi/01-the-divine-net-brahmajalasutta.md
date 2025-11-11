@@ -4,8 +4,8 @@
 ## 1. Bàn về các Du Sĩ
 
 Như vầy tôi nghe.[1](/kinhtruongbo/sujato-vi/notes/01#1){.note}
-Một thời *Thế Tôn* (Blessed One / bậc được tôn kính) đang du hành trên đường giữa Rājagaha (thành Vương Xá) và Nāḷandā
-cùng với một đại chúng *Tăng đoàn* (Saṅgha / cộng đồng tu sĩ Phật giáo) gồm năm trăm vị *tỳ khưu* (mendicants / người khất thực, tu sĩ Phật giáo).[^2](/kinhtruongbo/sujato-vi/notes/01#2){.note} *Du sĩ* (wanderer / người tu khổ hạnh lang thang) Suppiya cũng đang đi trên cùng con đường đó, cùng với người đệ tử thường trú của ông, học trò Brahmadatta.[^3](/kinhtruongbo/sujato-vi/notes/01#3){.note}
+Một thời *Thế Tôn* đang du hành trên đường giữa Rājagaha (thành Vương Xá) và Nāḷandā
+cùng với một đại chúng *Tăng đoàn* (Saṅgha / cộng đồng tu sĩ Phật giáo) gồm năm trăm vị *tỳ khưu* (mendicants / người khất thực, tu sĩ Phật giáo).[^2](/kinhtruongbo/sujato-vi/notes/01#2){.note} *Du sĩ*  Suppiya cũng đang đi trên cùng con đường đó, cùng với người đệ tử thường trú của ông, học trò Brahmadatta.[^3](/kinhtruongbo/sujato-vi/notes/01#3){.note}
 Trong khi đó, Suppiya đã chỉ trích Đức Phật, *Pháp* (teaching / giáo pháp, lời dạy của Đức Phật), và Tăng đoàn bằng nhiều cách,[^4](/kinhtruongbo/sujato-vi/notes/01#4){.note} nhưng đệ tử của ông là Brahmadatta lại tán thán bằng nhiều cách.[^5](/kinhtruongbo/sujato-vi/notes/01#5){.note} Và thế là cả thầy lẫn trò đi theo sau Đức Phật và Tăng đoàn các tỳ khưu, trực tiếp đối nghịch nhau.
 
 Rồi Đức Phật nghỉ đêm tại nhà nghỉ hoàng gia

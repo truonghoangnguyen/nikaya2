@@ -1,16 +1,17 @@
 import { defineConfig } from 'vitepress'
-import footnote from 'markdown-it-footnote';
+// import footnote from 'markdown-it-footnote';
 // import markdownItKatex from 'markdown-it-katex';
 import { slugAnchor } from './utils';
 
 // run 1make_filelist.ipynb first
 // step 1/4: get file list
 import dn_thichminhchau         from '../kinhtruongbo/thichminhchau/meta/filelist';
-import mn_thichminhchau         from '../kinhtrungbo/thichminhchau/filelist';
-import nanamoli_bodhi_en        from '../kinhtrungbo/nanamoli-bodhi-en/filelist';
-import nanamoli_bodhi_en_intro  from '../kinhtrungbo/nanamoli-bodhi-en/intro/filelist';
-import nanamoli_bodhi_vi        from '../kinhtrungbo/nanamoli-bodhi-vi/filelist';
-import nanamoli_bodhi_vi_intro  from '../kinhtrungbo/nanamoli-bodhi-vi/intro/filelist';
+
+import mn_thichminhchau         from '../kinhtrungbo/thichminhchau/meta/filelist';
+import nanamoli_bodhi_en        from '../kinhtrungbo/nanamoli-bodhi-en/meta/filelist';
+//import nanamoli_bodhi_en_intro  from '../kinhtrungbo/nanamoli-bodhi-en/intro/filelist';
+import nanamoli_bodhi_vi        from '../kinhtrungbo/nanamoli-bodhi-vi/meta/filelist';
+//import nanamoli_bodhi_vi_intro  from '../kinhtrungbo/nanamoli-bodhi-vi/intro/filelist';
 
 import kinhtangchi_thichminhchau from '../kinhtangchi/thichminhchau/meta/filelist';
 import kinhtangchi_sujato_en from '../kinhtangchi/sujato-en/meta/filelist';
@@ -33,9 +34,9 @@ import path from 'path';
 const BOOK_NAV = {
   'kinhtrungbo/thichminhchau': mn_thichminhchau,
   'kinhtrungbo/nanamoli-bodhi-en': nanamoli_bodhi_en,
-  'kinhtrungbo/nanamoli-bodhi-en/intro': nanamoli_bodhi_en_intro,
+  'kinhtrungbo/nanamoli-bodhi-en/intro': nanamoli_bodhi_en,
   'kinhtrungbo/nanamoli-bodhi-vi': nanamoli_bodhi_vi,
-  'kinhtrungbo/nanamoli-bodhi-vi/intro': nanamoli_bodhi_vi_intro,
+  'kinhtrungbo/nanamoli-bodhi-vi/intro': nanamoli_bodhi_vi,
 
   'kinhtruongbo/thichminhchau': dn_thichminhchau,
 
@@ -79,6 +80,9 @@ export default defineConfig({
   },
 
   vite: {
+     define: {
+      __BOOK_NAV__: BOOK_NAV,
+    },
     plugins: [
       {
         /**
@@ -250,7 +254,15 @@ export default defineConfig({
   // Theme configuration
   themeConfig: {
     search: {
-      provider: 'local'
+      provider: 'local',
+      options: {
+        miniSearch: {
+          searchOptions: {
+            boost: { title: 10, headers: 8, text: 2 },
+            fuzzy: false,
+          }
+        }
+      }
     },
     // https://vitepress.dev/reference/default-theme-config
     nav: [
@@ -258,10 +270,10 @@ export default defineConfig({
       {
         text: 'Kinh',
         items: [
-          { text: 'Kinh Trường Bộ', link: '/kinhtruongbo/' },
-          { text: 'Kinh Trung Bộ', link: '/kinhtrungbo/' },
-          { text: 'Kinh Tương Ưng', link: '/kinhtuongung/' },
-          { text: 'Kinh Tăng Chi Bộ', link: '/kinhtangchi/' }
+          { text: 'Kinh Trường Bộ (DN)', link: '/kinhtruongbo/' },
+          { text: 'Kinh Trung Bộ (MN)', link: '/kinhtrungbo/' },
+          { text: 'Kinh Tương Ưng (SN)', link: '/kinhtuongung/' },
+          { text: 'Kinh Tăng Chi Bộ (AN)', link: '/kinhtangchi/' }
         ]
       },
 
@@ -269,12 +281,6 @@ export default defineConfig({
 
     sidebar: {
     },
-
-    // Enable document footer with prev/next navigation
-    // docFooter: {
-    //   prev: 'Previous Page',
-    //   next: 'Next Page'
-    // },
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/truonghoangnguyen/nikaya2' }

@@ -1,5 +1,5 @@
 # MN 129. Kẻ Ngu và Người Trí
-***(Kinh Bālapaṇdita - Trung Bộ Kinh 129)***
+***(Kinh Bālapaṇdita - Kinh Trung Bộ 129)***
 
 [163] 1. Như vầy tôi nghe. Một thời Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong Vườn Jeta (Kỳ-đà), Khu vườn của Anāthapiṇḍika (Cấp Cô Độc). Tại đó, Ngài gọi các vị tỳ kheo (bhikkhus - nhà sư Phật giáo Nam truyền): "Này các Tỳ kheo." "Bạch Thế Tôn," các vị ấy đáp lời. Đức Thế Tôn dạy như sau:
 

@@ -42,6 +42,7 @@ pháp ấy được vị ấy nghe nhiều và gìn giữ kỹ, được lập l
 quán sát; vị ấy thuyết pháp cho bốn hội chúng với văn cú viên dung, lưu loát, với mục đích đoạn trừ mọi
 tùy miên. Này Hiền giả Sariputta, hạng Tỷ-kheo này có thể làm sáng chói khu rừng Gosinga.
 
+<!--pg-->
 Khi nghe nói vậy, Tôn giả Sariputta nói với Tôn giả Revata:
 
 -- Này Hiền giả Revata, Tôn giả Ananda đã trả lời theo sự giải thích của mình. Ở đây, nay chúng tôi hỏi
@@ -53,6 +54,7 @@ pháp, tịnh chỉ, không gián đoạn thiền định, thành tựu quán h�
 
 Này Hiền giả Sariputta, hạng Tỷ-kheo này có thể làm sáng chói khu rừng Gosinga.
 
+<!--pg-->
 Khi nghe nói vậy, Tôn giả Sariputta nói với Tôn giả Anuruddha:
 
 -- Này Hiền giả Anuruddha, Tôn giả Revata đã trả lời theo sự giải thích của mình. Ở đây, nay chúng tôi
@@ -65,6 +67,7 @@ Này Hiền giả Sariputta, ví như một người có mắt lên trên đỉn
 nhiên, quán sát ngàn thế giới. Này Hiền giả Sariputta, hạng Tỷ-kheo như vậy có thể làm sáng chói khu
 rừng Gosinga.
 
+<!--pg-->
 Khi nghe nói vậy, Tôn giả Sariputta nói với Tôn giả Maha Kassapa:
 
 -- Này Hiền giả Kassapa, Tôn giả Anuruddha đã trả lời theo sự giải thích của mình. Ở đây, nay chúng tôi
@@ -82,17 +85,20 @@ tựu trí tuệ, tự mình thành tựu giải thoát và tán thán sự thà
 tri kiến và tán thán sự thành tựu giải thoát tri kiến. Này Hiền giả Sariputta, hạng Tỷ-kheo như vậy có thể
 làm sáng chói khu rừng Gosinga.
 
+<!--pg-->
 Khi nghe nói vậy, Tôn giả Sariputta nói Tôn giả Maha Moggallana:
 
 -- Hiền giả Moggallana, Tôn giả Maha Kassapa đã trả lời theo sự giải thích của mình. Ở đây, nay chúng
 tôi hỏi Tôn giả Mahamoggallana: Này Hiền giả Moggallana, khả ái thay khu rừng Gosinga!... Này Hiền
 giả Moggallana, hạng Tỷ-kheo nào có thể làm sáng chói khu rừng Gosinga?
 
+<!--pg-->
 -- Ở đây, này Hiền giả Sariputta, hai Tỷ-kheo đàm luận về Abhidhamma (A-tỳ-đàm). Các vị ấy hỏi nhau
 câu hỏi, và khi được hỏi, các vị trả lời được với nhau chớ không dừng lại (không trả lời được), và cuộc
 đàm luận về pháp được tiếp tục. Này Hiền giả Sariputta, hạng Tỷ-kheo như vậy có thể làm sáng chói
 khu rừng Gosinga.
 
+<!--pg-->
 Rồi Tôn giả Mahamoggallana nói với Tôn giả Sariputta:
 
 -- Hiền giả Sariputta, chúng tôi đã trả lời theo sự giải thích của chúng tôi. Ở đây, nay chúng tôi hỏi Tôn
@@ -101,7 +107,6 @@ hoa cùng khắp, hương trời như được tỏa rộng khắp nơi. Này Hi
 thể làm sáng chói khu rừng Gosinga?
 
 -- Ở đây, này Hiền giả Moggallana, Tỷ-kheo điều phục được tâm, không phải Tỷ-kheo không điều phục
-
 được tâm. An trú quả nào vị ấy muốn an trú vào buổi sáng, vị ấy an trú quả ấy vào buổi sáng; an trú quả
 nào vị ấy muốn an trú vào buổi trưa, vị ấy an trú quả ấy buổi trưa; an trú quả nào vị ấy muốn an trú vào
 buổi chiều, vị ấy an trú quả ấy vào buổi chiều. Hiền giả Moggallana, ví như một vị vua hay vị đại thần
@@ -114,6 +119,7 @@ vào buổi sáng; an trú quả nào Tỷ-kheo ấy muốn an trú vào buổi 
 an trú quả nào vị Tỷ-kheo ấy muốn an trú vào buổi chiều, vị ấy an trú quả ấy vào buổi chiều. Này Hiền
 giả Moggallana, hạng Tỷ-kheo như vậy có thể làm sáng chói khu rừng Gosinga.
 
+<!--pg-->
 Rồi Tôn giả Sariputta nói với các Tôn giả ấy:
 
 -- Này chư Hiền, chúng ta đã trả lời theo sự giải thích của chúng ta. Chư Hiền, chúng ta hãy đi đến chỗ
@@ -125,6 +131,7 @@ vậy thọ trì.
 Các Tôn giả ấy vâng đáp Tôn giả Sariputta. Rồi những Tôn giả ấy đi đến chỗ Thế Tôn ở, sau khi đến,
 đảnh lễ Thế Tôn và ngồi xuống một bên. Sau khi ngồi xuống một bên, Tôn giả Sariputta bạch Thế Tôn:
 
+<!--pg-->
 -- Ở đây, bạch Thế Tôn, Tôn giả Revata và Tôn giả Ananda đến tại chỗ con ở để nghe pháp. Bạch Thế
 Tôn, con thấy Tôn giả Revata và Tôn giả Ananda từ xa đi đến; thấy vậy, con nói với Tôn giả Ananda:
 
@@ -141,12 +148,14 @@ pháp ấy được vị ấy nghe nhiều và giữ gìn kỹ, được lập l
 quán sát. Vị ấy thuyết pháp cho bốn hội chúng với văn cú viên dung, lưu loát, với mục đích đoạn trừ
 mọi tùy miên. Này Hiền giả Sariputta, hạng Tỷ-kheo này có thể làm sáng chói khu rừng Gosinga."
 
+<!--pg-->
 -- Lành thay, lành thay, Sariputta! Nếu trả lời cho được chơn chánh, Ananda phải trả lời như vậy. Này
 Sariputta, Ananda là bậc đa văn, gìn giữ điều đã nghe, tích tụ điều đã nghe. Những pháp sơ thiện, trung
 thiện, hậu thiện, văn nghĩa cụ túc, nói lên phạm hạnh hoàn toàn thanh tịnh, những pháp ấy được vị ấy
 nghe nhiều và gìn giữ kỹ, được lập lại lớn tiếng, được ý tư duy, được tri kiến khéo quán sát. Vị ấy thuyết
 pháp cho bốn hội chúng, với văn cú viên dung lưu loát, với mục đích đoạn trừ mọi tùy miên.
 
+<!--pg-->
 -- Bạch Thế Tôn khi nghe nói vậy, con nói với Tôn giả Revata:
 
 "-- Này Hiền giả Revata, Tôn giả Ananda, đã trả lời theo sự giải thích của mình. Ở đây, nay chúng tôi
@@ -163,6 +172,7 @@ Hiền giả Sariputta, hạng Tỷ-kheo này có thể làm sáng chói khu r�
 Sariputta, Revata ưa thích đời sống tịnh cư, vui thú đời sống tịnh cư, nội tâm tu tập tịnh chỉ, không gián
 đoạn thiền định, thành tựu quán hạnh, luôn luôn lui tới các chỗ không tịch.
 
+<!--pg-->
 -- Bạch Thế Tôn, khi được nói vậy, con nói với Tôn giả Anuruddha như sau:
 
 "-- Này Hiền giả Anuruddha, Tôn giả Revata đã trả lời theo sự giải thích của mình. Ở đây, nay chúng tôi
@@ -182,6 +192,7 @@ khu rừng Gosinga".
 -- Lành thay, lành thay, Sariputta! Nếu trả lời cho được chơn chánh, Anuruddha phải trả lời như vậy.
 Này Sariputta, chính Anuruddha với thiên nhãn thanh tịnh siêu nhiên quán sát ngàn thế giới.
 
+<!--pg-->
 -- Bạch Thế Tôn, được nói vậy, con nói với Tôn giả Maha Kassapa:
 
 "-- Này Hiền giả Kassapa, Tôn giả Anuruddha đã trả lời theo sự giải thích của mình. Ở đây, nay chúng
@@ -207,6 +218,7 @@ khu rừng Gosinga."
 Kassapa tự mình sống ở rừng núi và tán thán đời sống ở rừng núi... tự mình thành tựu giải thoát tri kiến
 và tán thán sự thành tựu giải thoát tri kiến.
 
+<!--pg-->
 -- Bạch Thế Tôn, được nói vậy, con nói với Tôn giả Maha Moggallana:
 
 "-- Hiền giả Moggallana, Tôn giả Maha Kassapa đã trả lời theo sự giải thích của mình. Ở đây, nay chúng
@@ -225,6 +237,7 @@ khu rừng Gosinga. "
 -- Lành thay Sariputta! Nếu trả lời cho được chơn chánh, Moggallana phải trả lời như vậy. Này
 Sariputta, Moggallana là bậc thuyết về Chánh pháp.
 
+<!--pg-->
 Ðược nói vậy, Tôn giả Maha Moggallana bạch Thế Tôn:
 
 -- Bạch Thế Tôn, con nói với Tôn giả Sariputta, như sau:
@@ -253,11 +266,11 @@ Moggallana, hạng Tỷ-kheo như vậy có thể làm sáng chói khu rừng Go
 
 -- Lành thay, lành thay, Moggallana! Nếu trả lời cho được chơn chánh, Sariputta phải trả lời như vậy.
 Này Moggallana, Sariputta điều phục được tâm, không phải Sariputta không điều phục được tâm. An trú
-
 quả nào vị ấy muốn an trú vào buổi sáng, vị ấy an trú quả ấy vào buổi sáng; an trú quả nào vị ấy muốn
 an trú vào buổi trưa, vị ấy an trú quả ấy vào buổi trưa; an trú quả nào vị ấy muốn an trú vào buổi chiều,
 vị ấy an trú quả ấy vào buổi chiều.
 
+<!--pg-->
 Khi được nói vậy, Tôn giả Sariputta bạch Thế Tôn:
 
 -- Bạch Thế Tôn, vị nào đã khéo trả lời (câu hỏi được đặt ra)?
