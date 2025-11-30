@@ -142,7 +142,7 @@ Từ ngữ:
 - Thiện lành / Kusala / Wholesome: Tốt đẹp, không gây hại, mang lại lợi ích, đối lập với bất thiện (akusala).
 - Sự thật / Sacca / Truth: Chân lý, sự thật, đặc biệt là nói lời chân thật, một trong năm giới hoặc một trong các pháp Ba-la-mật.
 - Khổ hạnh / Tapo / Asceticism: Sự tu tập ép xác, hành hạ thân thể với mục đích thanh lọc tâm hoặc đạt sức mạnh tâm linh (theo quan niệm Bà-la-môn). Phật giáo không chủ trương khổ hạnh ép xác cực đoan.
-- Phạm hạnh / Brahmacariya / Celibacy: Đời sống trong sạch, thanh cao, đặc biệt là không có quan hệ tình dục. Trong nghĩa rộng hơn là toàn bộ đời sống tu tập theo Bát Chánh Đạo.
+- Phạm hạnh / Brahmacariya / Celibacy: Đời sống trong sạch, thanh cao, đặc biệt là không có quan hệ tình dục. Trong nghĩa rộng hơn là toàn bộ đời sống tu tập theo Tám Bước Thiện (Bát Chánh Đạo).
 - Học tập / Ajjhena / Study: Việc học hỏi, nghiên cứu kinh điển, giáo lý.
 - Bố thí / Cāga / Generosity: Sự cho đi, cúng dường vật chất hoặc tinh thần (Pháp thí).
 - Thắng trí / Abhiññā / Direct knowledge: Sự hiểu biết trực tiếp, siêu việt, không qua suy luận hay trung gian, thường bao gồm các loại thần thông và lậu tận trí.
@@ -167,7 +167,7 @@ Từ ngữ:
 - Ly dục, ly bất thiện pháp / Vivicceva kāmehi vivicca akusalehi dhammehi / Seclusion from sensual pleasures, seclusion from unwholesome states: Sự xa lìa, tách khỏi ham muốn dục lạc và các trạng thái tâm bất thiện, điều kiện cần để nhập thiền.
 - Nhị thiền / Dutiya jhāna / Second jhāna: Tầng thiền định thứ hai, đặc trưng bởi sự vắng mặt của tầm và tứ, chỉ còn ba thiền chi: hỷ, lạc, nhất tâm, có nội tĩnh.
 - Nội tĩnh nhất tâm / Ajjhattaṃ sampasādanaṃ cetaso ekodibhāvaṃ / Self-confidence and singleness of mind: Sự yên lặng, lắng dịu, tin tưởng bên trong và sự hợp nhất của tâm trên một đối tượng.
-- Định / Samādhi / Concentration: Sự tập trung tâm ý cao độ vào một đối tượng duy nhất, một yếu tố quan trọng trong thiền định và Bát Chánh Đạo.
+- Định / Samādhi / Concentration: Sự tập trung tâm ý cao độ vào một đối tượng duy nhất, một yếu tố quan trọng trong thiền định và Tám Bước Thiện (Bát Chánh Đạo).
 - Lòng bi mẫn / Karuṇā (hoặc Anukampā) / Compassion: Lòng thương xót đối với chúng sinh đang đau khổ, mong muốn cho họ thoát khổ. Một trong Tứ Vô Lượng Tâm.
 - Hành trang cho tâm / Cittassa parikkhārā / Equipment of the mind: Những yếu tố, phẩm chất cần thiết để hỗ trợ, chuẩn bị cho sự phát triển và thanh lọc tâm.
 - Không sân hận / Abyāpajjha / Without hostility: Trạng thái tâm không có ác ý, thù ghét.

@@ -63,7 +63,7 @@ Khi ấy, Đức Thế Tôn, biết được ý nghĩ trong tâm của vị tỳ
 
 17\. "Thấy như vậy, một vị thánh đệ tử đã được học hỏi kỹ càng trở nên nhàm chán (disenchanted - nibbindati - sự chán ngán, désillusion đối với các pháp hữu vi) đối với sắc, nhàm chán đối với thọ, nhàm chán đối với tưởng, nhàm chán đối với hành, nhàm chán đối với thức.
 
-18\. "Do nhàm chán, vị ấy trở nên ly tham (dispassionate - virajjati - không còn tham ái, dính mắc). Nhờ ly tham, tâm được giải thoát (liberated - vimuccati - thoát khỏi mọi ràng buộc, khổ đau). Khi tâm đã giải thoát, trí tuệ khởi lên: 'Tâm đã giải thoát' (vimuttasmiṃ vimuttamiti ñāṇaṃ hoti). Vị ấy hiểu rõ: 'Sanh đã tận, phạm hạnh (holy life - brahmacariya - đời sống thanh tịnh, tu tập theo Bát Chánh Đạo) đã thành, việc cần làm đã làm xong, không còn trở lui trạng thái nào nữa' (khīṇā jāti, vusitaṃ brahmacariyaṃ, kataṃ karaṇīyaṃ, nāparaṃ itthattāyāti pajānāti)."
+18\. "Do nhàm chán, vị ấy trở nên ly tham (dispassionate - virajjati - không còn tham ái, dính mắc). Nhờ ly tham, tâm được giải thoát (liberated - vimuccati - thoát khỏi mọi ràng buộc, khổ đau). Khi tâm đã giải thoát, trí tuệ khởi lên: 'Tâm đã giải thoát' (vimuttasmiṃ vimuttamiti ñāṇaṃ hoti). Vị ấy hiểu rõ: 'Sanh đã tận, phạm hạnh (holy life - brahmacariya - đời sống thanh tịnh, tu tập theo Tám Bước Thiện (Bát Chánh Đạo)) đã thành, việc cần làm đã làm xong, không còn trở lui trạng thái nào nữa' (khīṇā jāti, vusitaṃ brahmacariyaṃ, kataṃ karaṇīyaṃ, nāparaṃ itthattāyāti pajānāti)."
 
 Đó là những gì Đức Thế Tôn đã nói. Các vị tỳ kheo hoan hỷ và vui mừng trước lời dạy của Đức Thế Tôn. Trong khi bài pháp này đang được thuyết giảng, nhờ không còn bám chấp, tâm của sáu mươi vị tỳ kheo đã được giải thoát khỏi các lậu hoặc (taints - āsava - những ô nhiễm tinh thần sâu kín như dục lậu, hữu lậu, vô minh lậu). [^1044]
 
@@ -80,7 +80,7 @@ Từ ngữ:
 - xúc / phassa / contact: Sự tiếp xúc giữa một trong sáu giác quan (mắt, tai, mũi, lưỡi, thân, ý) với đối tượng tương ứng (sắc, thanh, hương, vị, xúc, pháp) và sự có mặt của thức tương ứng. Là điều kiện cho thọ, tưởng, hành phát sinh.
 - danh-sắc / nāmarūpa / mentality-materiality: Danh (nāma) chỉ các yếu tố tâm lý (thọ, tưởng, hành, thức) và Sắc (rūpa) chỉ yếu tố vật lý (thân thể, bốn đại). Là một mắt xích quan trọng trong chuỗi duyên khởi, điều kiện cho thức phát sinh và ngược lại.
 - thân kiến / sakkāya-diṭṭhi / personality view: Tà kiến (quan điểm sai lầm) cho rằng có một cái "tôi", "ngã", "bản thể" thường hằng, bất biến tồn tại trong hoặc ngoài năm uẩn. Đây là một trong những kiết sử (ràng buộc) đầu tiên cần đoạn trừ để đạt giác ngộ.
-- bậc thánh / ariya / noble one: Người đã đạt được một trong bốn tầng thánh quả (Dự lưu, Nhất lai, Bất lai, A-la-hán) thông qua việc tu tập Bát Chánh Đạo và đoạn trừ phiền não.
+- bậc thánh / ariya / noble one: Người đã đạt được một trong bốn tầng thánh quả (Dự lưu, Nhất lai, Bất lai, A-la-hán) thông qua việc tu tập Tám Bước Thiện (Bát Chánh Đạo) và đoạn trừ phiền não.
 - Giáo pháp / Dhamma / Dhamma: Lời dạy của Đức Phật, chân lý về thực tại, con đường dẫn đến giải thoát khổ đau.
 - bậc chân nhân / sappurisa / true man: Người tốt, người hiền trí, người có đức hạnh và trí tuệ, thường là người thực hành theo Giáo pháp.
 - tự ngã / attā / self: Cái tôi, bản ngã, linh hồn thường hằng, bất biến mà nhiều người lầm tưởng là tồn tại. Phật giáo phủ nhận sự tồn tại của một tự ngã như vậy (vô ngã - anattā).
@@ -94,11 +94,11 @@ Từ ngữ:
 - tạo tác 'cái tôi' / ahaṅkāra / I-making: Hành động của tâm tạo ra ý niệm về "tôi", "ngã", sự chấp ngã.
 - tạo tác 'cái của tôi' / mamaṅkāra / mine-making: Hành động của tâm tạo ra ý niệm về "của tôi", sự chấp vào sở hữu, sự coi các thứ là của mình.
 - khuynh hướng ngầm của sự kiêu ngạo / mānānusaya / underlying tendency to conceit: Sự kiêu căng, ngã mạn tiềm ẩn sâu trong tâm thức, một trong bảy loại tùy miên (khuynh hướng ngầm).
-- trí tuệ đúng đắn / sammā paññā / proper wisdom: Sự hiểu biết chân chính về bản chất của thực tại (vô thường, khổ, vô ngã), một phần của Bát Chánh Đạo.
+- trí tuệ đúng đắn / sammā paññā / proper wisdom: Sự hiểu biết chân chính về bản chất của thực tại (vô thường, khổ, vô ngã), một phần của Tám Bước Thiện (Bát Chánh Đạo).
 - tham ái / taṇhā / craving: Sự khao khát, ham muốn mãnh liệt đối với dục lạc, sự tồn tại hoặc sự không tồn tại. Là nguyên nhân chính của khổ đau theo Tứ Diệu Đế.
 - Giáo huấn của Bậc Đạo Sư / Satthu sāsana / Teacher's Dispensation: Toàn bộ lời dạy, giáo pháp và giới luật do Đức Phật (Bậc Đạo Sư) thiết lập.
 - nhàm chán / nibbidā / disenchantment: Sự chán ngán, désillusion, mất đi ảo tưởng đối với các pháp hữu vi sau khi thấy rõ bản chất vô thường, khổ, vô ngã của chúng. Đây là bước quan trọng dẫn đến ly tham.
 - ly tham / virāga / dispassion: Sự không còn tham ái, dính mắc, luyến ái đối với các pháp hữu vi. Là kết quả của sự nhàm chán (nibbidā).
 - giải thoát / vimutti / liberation: Sự thoát khỏi mọi ràng buộc, phiền não và khổ đau của vòng luân hồi; trạng thái Niết-bàn.
-- phạm hạnh / brahmacariya / holy life: Đời sống thanh tịnh, cao thượng, đặc biệt là đời sống tu tập theo con đường Bát Chánh Đạo để đạt đến giải thoát.
+- phạm hạnh / brahmacariya / holy life: Đời sống thanh tịnh, cao thượng, đặc biệt là đời sống tu tập theo con đường Tám Bước Thiện (Bát Chánh Đạo) để đạt đến giải thoát.
 - lậu hoặc / āsava / taint, effluent, corruption: Những ô nhiễm tinh thần sâu kín, tiềm ẩn, làm rỉ chảy tâm thức ra ngoài qua các giác quan, gồm dục lậu (tham dục), hữu lậu (tham tồn tại), kiến lậu (tà kiến) và vô minh lậu (không hiểu biết Tứ Diệu Đế). Sự đoạn trừ lậu hoặc đồng nghĩa với giải thoát hoàn toàn (A-la-hán).

@@ -109,7 +109,7 @@ Từ ngữ:
 - cao quý / ariya / noble: Thuộc về bậc thánh, người đã chứng ngộ chân lý, đã đi vào hoặc hoàn thành con đường giải thoát.
 - không còn lậu hoặc / anāsava / taintless, incorruptible: Đã hoàn toàn đoạn trừ các lậu hoặc, trạng thái tâm của bậc A-la-hán.
 - siêu thế / lokuttara / supramundane: Vượt ra ngoài thế gian thông thường (gồm các cõi dục giới, sắc giới, vô sắc giới), liên quan trực tiếp đến đạo, quả và Niết Bàn.
-- chi phần của đạo lộ / maggaṅga / path factor: Yếu tố cấu thành Bát Chánh Đạo, con đường dẫn đến giải thoát.
+- chi phần của đạo lộ / maggaṅga / path factor: Yếu tố cấu thành Tám Bước Thiện (Bát Chánh Đạo), con đường dẫn đến giải thoát.
 - trí tuệ / paññā / wisdom: Sự hiểu biết đúng đắn, sâu sắc về bản chất của thực tại (vô thường, khổ, vô ngã), phân biệt được thiện và bất thiện.
 - tuệ căn / paññindriya / faculty of wisdom: Khả năng nhận thức, thẩm thấu chân lý bằng trí tuệ; một trong năm căn (ngũ căn).
 - tuệ lực / paññābala / power of wisdom: Sức mạnh của trí tuệ có khả năng đoạn trừ vô minh và phiền não; một trong năm lực (ngũ lực).
@@ -133,7 +133,7 @@ Từ ngữ:
 - mưu mẹo, nói nhiều, bóng gió, chê bai, dùng lợi nhỏ câu lợi lớn / kuhanā, lapanā, nemittikatā, nippesikatā, lābhena lābhaṃ nijigīsanatā / scheming, talking, hinting, belittling, pursuing gain with gain: Các hình thức kiếm sống không chân chính, thường dùng thủ đoạn lừa dối, khoe khoang, ám chỉ, hạ thấp người khác để trục lợi, đặc biệt bị lên án đối với tu sĩ.
 - thánh đệ tử / ariyasāvaka / noble disciple: Người đệ tử của Đức Phật đã chứng ngộ ít nhất là quả Dự Lưu (Sotāpanna), đã bước vào dòng thánh.
 - chánh trí / sammā ñāṇa / right knowledge: Sự hiểu biết đúng đắn, trí tuệ phát sinh sau khi đạt được chánh định, đặc biệt là trí tuệ thấy rõ Tứ Thánh Đế và trí tuệ dẫn đến giải thoát (đạo trí và quả trí).
-- chánh giải thoát / sammā vimutti / right deliverance: Sự giải thoát hoàn toàn khỏi mọi phiền não và khổ đau (Niết Bàn), là kết quả cuối cùng của việc thực hành Bát Chánh Đạo, đặc biệt là sự giải thoát của bậc A-la-hán.
+- chánh giải thoát / sammā vimutti / right deliverance: Sự giải thoát hoàn toàn khỏi mọi phiền não và khổ đau (Niết Bàn), là kết quả cuối cùng của việc thực hành Tám Bước Thiện (Bát Chánh Đạo), đặc biệt là sự giải thoát của bậc A-la-hán.
 - bậc hữu học / sekha / disciple in higher training: Người đang còn phải tu học để đạt đến mục tiêu cuối cùng, bao gồm các bậc thánh từ Dự Lưu đến A-na-hàm.
 - bậc A-la-hán / arahant / arahant: Bậc thánh đã hoàn toàn giác ngộ, đoạn tận mọi lậu hoặc, không còn tái sanh, đã đạt được Niết Bàn.
 - thiện / kusala / wholesome: Trạng thái tâm hay hành động tốt lành, khéo léo, mang lại kết quả an vui, hạnh phúc và tiến bộ trên con đường tu tập.

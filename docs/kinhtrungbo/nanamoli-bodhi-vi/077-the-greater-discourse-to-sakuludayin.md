@@ -93,9 +93,9 @@ Khi ông đã ngồi yên, Đức Thế Tôn hỏi: "Này Udāyin, các vị đa
 20\. "Lại nữa, này Udāyin, ta đã tuyên thuyết cho các đệ tử của ta con đường phát triển bảy yếu tố giác ngộ (satta bojjhaṅgā / seven enlightenment factors - bảy phẩm chất dẫn đến giác ngộ). Ở đây, vị tỳ kheo phát triển niệm giác chi (mindfulness enlightenment factor - yếu tố giác ngộ là chánh niệm), dựa trên sự độc cư (viveka - sự xa lánh, tách biệt), sự ly tham (virāga - sự không còn ham muốn, ái luyến), và sự đoạn diệt (nirodha - sự chấm dứt hoàn toàn), hướng đến sự từ bỏ (vossagga - sự xả ly, từ bỏ). Vị ấy phát triển trạch pháp giác chi (investigation-of-states enlightenment factor - yếu tố giác ngộ là phân tích các pháp)... tinh tấn giác chi (energy enlightenment factor - yếu tố giác ngộ là tinh tấn)... hỷ giác chi (rapture enlightenment factor - yếu tố giác ngộ là niềm vui)... khinh an giác chi (tranquillity enlightenment factor - yếu tố giác ngộ là sự yên tĩnh)... định giác chi (concentration enlightenment factor - yếu tố giác ngộ là định tâm)... xả giác chi (equanimity enlightenment factor - yếu tố giác ngộ là sự bình thản), dựa trên sự độc cư, sự ly tham, và sự đoạn diệt, hướng đến sự từ bỏ. Và nhờ đó, nhiều đệ tử của ta trú trong trạng thái đã đạt đến sự viên mãn và hoàn hảo của thắng trí.
 
 <!--pg-->
-#### (7. Bát Chánh Đạo)
+#### (7. Tám Bước Thiện (Bát Chánh Đạo))
 
-21\. "Lại nữa, này Udāyin, ta đã tuyên thuyết cho các đệ tử của ta con đường phát triển Bát Chánh Đạo (ariyo aṭṭhaṅgiko maggo / Noble Eightfold Path - con đường tám yếu tố đúng đắn dẫn đến giải thoát). Ở đây, vị tỳ kheo phát triển chánh kiến (right view - hiểu biết đúng đắn), chánh tư duy (right intention - suy nghĩ đúng đắn), chánh ngữ (right speech - lời nói đúng đắn), chánh nghiệp (right action - hành động đúng đắn), chánh mạng (right livelihood - nuôi mạng đúng đắn), chánh tinh tấn (right effort - cố gắng đúng đắn), chánh niệm (right mindfulness - chú tâm đúng đắn), và chánh định (right concentration - tập trung đúng đắn). Và nhờ đó, nhiều đệ tử của ta trú trong trạng thái đã đạt đến sự viên mãn và hoàn hảo của thắng trí.
+21\. "Lại nữa, này Udāyin, ta đã tuyên thuyết cho các đệ tử của ta con đường phát triển Tám Bước Thiện (Bát Chánh Đạo) (ariyo aṭṭhaṅgiko maggo / Noble Eightfold Path - con đường tám yếu tố đúng đắn dẫn đến giải thoát). Ở đây, vị tỳ kheo phát triển chánh kiến (right view - hiểu biết đúng đắn), chánh tư duy (right intention - suy nghĩ đúng đắn), chánh ngữ (right speech - lời nói đúng đắn), chánh nghiệp (right action - hành động đúng đắn), chánh mạng (right livelihood - nuôi mạng đúng đắn), chánh tinh tấn (right effort - cố gắng đúng đắn), chánh niệm (right mindfulness - chú tâm đúng đắn), và chánh định (right concentration - tập trung đúng đắn). Và nhờ đó, nhiều đệ tử của ta trú trong trạng thái đã đạt đến sự viên mãn và hoàn hảo của thắng trí.
 
 <!--pg-->
 #### (8. Tám Sự Giải Thoát)
@@ -171,7 +171,7 @@ Khi ông đã ngồi yên, Đức Thế Tôn hỏi: "Này Udāyin, các vị đa
 
 <!--pg-->
 Từ ngữ:
-- Bát Chánh Đạo / ariyo aṭṭhaṅgiko maggo / Noble Eightfold Path: Con đường tám yếu tố đúng đắn dẫn đến giải thoát khổ đau, bao gồm: Chánh kiến, Chánh tư duy, Chánh ngữ, Chánh nghiệp, Chánh mạng, Chánh tinh tấn, Chánh niệm, Chánh định.
+- Tám Bước Thiện (Bát Chánh Đạo) / ariyo aṭṭhaṅgiko maggo / Noble Eightfold Path: Con đường tám yếu tố đúng đắn dẫn đến giải thoát khổ đau, bao gồm: Chánh kiến, Chánh tư duy, Chánh ngữ, Chánh nghiệp, Chánh mạng, Chánh tinh tấn, Chánh niệm, Chánh định.
 - Bát giải thoát / aṭṭha vimokkhā / eight liberations: Tám trạng thái tâm tuần tự đạt được qua thiền định, giúp giải thoát khỏi các trói buộc của sắc và tâm, đỉnh cao là Diệt tận định.
 - Bát thắng xứ / aṭṭha abhibhāyatanāni / eight bases for transcendence: Tám pháp thiền định giúp hành giả làm chủ và vượt qua các đối tượng nhận thức (sắc), phát triển khả năng kiểm soát tâm đối với các đối tượng thiền.
 - Bốn đại chủng / cattāri mahābhūtāni / four great elements: Bốn yếu tố cơ bản cấu tạo nên vật chất theo quan điểm Phật giáo: đất (pṛthivī - tính rắn, cứng), nước (āpas - tính lỏng, kết dính), lửa (tejas - tính nóng, nhiệt độ), gió (vāyu - tính động, di chuyển).

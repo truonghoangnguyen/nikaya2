@@ -35,7 +35,7 @@
 
 10\. "Khi, này chư vị, một vị thánh đệ tử hiểu biết về thực phẩm (nutriment), nguồn gốc của thực phẩm, sự đoạn diệt của thực phẩm, và con đường đưa đến sự đoạn diệt của thực phẩm, như vậy người ấy là bậc có chánh kiến...và đã đạt [48] đến Chân Pháp này.
 
-11\. "Và thế nào là thực phẩm, thế nào là nguồn gốc của thực phẩm, thế nào là sự đoạn diệt của thực phẩm, thế nào là con đường đưa đến sự đoạn diệt của thực phẩm? Có bốn loại thực phẩm để duy trì các loài hữu tình đã sinh ra và để hỗ trợ những loài đang tìm kiếm sự tái sinh. Bốn loại nào? Đó là: vật thực thô hoặc tế (physical food) làm thực phẩm; xúc (contact) là thứ hai; tư niệm (mental volition) là thứ ba; và thức (consciousness) là thứ tư. [^120] Với sự phát sinh của ái dục (craving) có sự phát sinh của thực phẩm. Với sự đoạn diệt của ái dục có sự đoạn diệt của thực phẩm. Con đường đưa đến sự đoạn diệt của thực phẩm chính là Bát Chánh Đạo (Noble Eightfold Path) này; đó là, chánh kiến, chánh tư duy (right intention), chánh ngữ (right speech), chánh nghiệp (right action), chánh mạng (right livelihood), chánh tinh tấn (right effort), chánh niệm (right mindfulness), và chánh định (right concentration).
+11\. "Và thế nào là thực phẩm, thế nào là nguồn gốc của thực phẩm, thế nào là sự đoạn diệt của thực phẩm, thế nào là con đường đưa đến sự đoạn diệt của thực phẩm? Có bốn loại thực phẩm để duy trì các loài hữu tình đã sinh ra và để hỗ trợ những loài đang tìm kiếm sự tái sinh. Bốn loại nào? Đó là: vật thực thô hoặc tế (physical food) làm thực phẩm; xúc (contact) là thứ hai; tư niệm (mental volition) là thứ ba; và thức (consciousness) là thứ tư. [^120] Với sự phát sinh của ái dục (craving) có sự phát sinh của thực phẩm. Với sự đoạn diệt của ái dục có sự đoạn diệt của thực phẩm. Con đường đưa đến sự đoạn diệt của thực phẩm chính là Tám Bước Thiện (Bát Chánh Đạo) (Noble Eightfold Path) này; đó là, chánh kiến, chánh tư duy (right intention), chánh ngữ (right speech), chánh nghiệp (right action), chánh mạng (right livelihood), chánh tinh tấn (right effort), chánh niệm (right mindfulness), và chánh định (right concentration).
 
 12\. "Khi một vị thánh đệ tử đã hiểu biết như vậy về thực phẩm, nguồn gốc của thực phẩm, sự đoạn diệt của thực phẩm, và con đường đưa đến sự đoạn diệt của thực phẩm, người ấy hoàn toàn đoạn trừ khuynh hướng ngủ ngầm về tham ái (greed), người ấy diệt trừ khuynh hướng ngủ ngầm về sân hận (aversion), người ấy tận diệt khuynh hướng ngủ ngầm về kiến chấp và ngã mạn 'Ta là,' và bằng cách đoạn trừ vô minh và phát sinh chân trí, người ấy ngay trong hiện tại chấm dứt khổ đau. Như vậy nữa, một vị thánh đệ tử là bậc có chánh kiến, người có quan điểm đúng đắn, người có lòng tin hoàn toàn vào Pháp, và đã đạt đến Chân Pháp này."
 
@@ -54,7 +54,7 @@
 
 17\. "Và thế nào là sự đoạn diệt của khổ? Đó là sự tàn lụi và đoạn diệt hoàn toàn, sự từ bỏ, sự buông bỏ, sự giải thoát, và sự khước từ chính ái dục ấy. Đây gọi là sự đoạn diệt của khổ.
 
-18\. "Và thế nào là con đường đưa đến sự đoạn diệt của khổ? Đó chính là Bát Chánh Đạo này; đó là, chánh kiến...chánh định. Đây gọi là con đường đưa đến sự đoạn diệt của khổ.
+18\. "Và thế nào là con đường đưa đến sự đoạn diệt của khổ? Đó chính là Tám Bước Thiện (Bát Chánh Đạo) này; đó là, chánh kiến...chánh định. Đây gọi là con đường đưa đến sự đoạn diệt của khổ.
 
 19\. "Khi một vị thánh đệ tử đã hiểu biết như vậy về khổ, nguồn gốc của khổ, sự đoạn diệt của khổ, và con đường đưa đến sự đoạn diệt của khổ...người ấy ngay trong hiện tại chấm dứt khổ đau. Như vậy nữa, một vị thánh đệ tử là bậc có chánh kiến... và đã đạt đến Chân Pháp này."
 
@@ -67,7 +67,7 @@
 
 21\. "Khi, này chư vị, một vị thánh đệ tử hiểu biết về già và chết (ageing and death), nguồn gốc của già và chết, sự đoạn diệt của già và chết, và con đường đưa đến sự đoạn diệt của già và chết, như vậy người ấy là bậc có chánh kiến...và đã đạt đến Chân Pháp này. [^121]
 
-22\. "Và thế nào là già và chết, thế nào là nguồn gốc của già và chết, thế nào là sự đoạn diệt của già và chết, thế nào là con đường đưa đến sự đoạn diệt của già và chết? Sự già đi của các loài hữu tình trong các giới hữu tình khác nhau, tuổi già của họ, răng gãy, tóc bạc, da nhăn, suy giảm tuổi thọ, suy yếu các căn - đây gọi là 'già'. Sự ra đi của các loài hữu tình ra khỏi các giới hữu tình khác nhau, sự qua đời của họ, sự tan rã, sự biến mất, sự chết, sự hoàn thành thời gian, sự tan rã của các uẩn, [^122] sự bỏ lại thân xác - đây gọi là chết. Vậy già này và chết này là cái được gọi là già và chết. Với sự phát sinh của sinh (birth) có sự phát sinh của già và chết. Với sự đoạn diệt của sinh có sự đoạn diệt của già và chết. Con đường đưa đến sự đoạn diệt của già và chết chính là Bát Chánh Đạo này; đó là, chánh kiến...chánh định.
+22\. "Và thế nào là già và chết, thế nào là nguồn gốc của già và chết, thế nào là sự đoạn diệt của già và chết, thế nào là con đường đưa đến sự đoạn diệt của già và chết? Sự già đi của các loài hữu tình trong các giới hữu tình khác nhau, tuổi già của họ, răng gãy, tóc bạc, da nhăn, suy giảm tuổi thọ, suy yếu các căn - đây gọi là 'già'. Sự ra đi của các loài hữu tình ra khỏi các giới hữu tình khác nhau, sự qua đời của họ, sự tan rã, sự biến mất, sự chết, sự hoàn thành thời gian, sự tan rã của các uẩn, [^122] sự bỏ lại thân xác - đây gọi là chết. Vậy già này và chết này là cái được gọi là già và chết. Với sự phát sinh của sinh (birth) có sự phát sinh của già và chết. Với sự đoạn diệt của sinh có sự đoạn diệt của già và chết. Con đường đưa đến sự đoạn diệt của già và chết chính là Tám Bước Thiện (Bát Chánh Đạo) này; đó là, chánh kiến...chánh định.
 
 23\. "Khi một vị thánh đệ tử đã hiểu biết như vậy về già và chết, nguồn gốc của già và chết, sự đoạn diệt của già và chết, và con đường đưa đến sự đoạn diệt của già và chết...người ấy ngay trong hiện tại chấm dứt khổ đau. Như vậy nữa, một vị thánh đệ tử là bậc có chánh kiến...và đã đạt đến Chân Pháp này."
 <!--pg-->
@@ -79,7 +79,7 @@
 
 25\. "Khi, này chư vị, một vị thánh đệ tử hiểu biết về sinh (birth), nguồn gốc của sinh, sự đoạn diệt của sinh, và con đường đưa đến sự đoạn diệt của sinh, như vậy người ấy là bậc có chánh kiến...và đã đạt đến Chân Pháp này.
 
-26\. "Và thế nào là sinh, thế nào là nguồn gốc của sinh, thế nào là sự đoạn diệt của sinh, thế nào là con đường đưa đến sự đoạn diệt của sinh? Sự sinh ra của các loài hữu tình trong các giới hữu tình khác nhau, sự xuất hiện của họ, sự thụ thai [trong bụng mẹ], sự sinh ra, sự hiển hiện của các uẩn, sự đạt được các xứ (bases) để xúc chạm [^123] - đây gọi là sinh. Với sự phát sinh của hữu (being) có sự phát sinh của sinh. Với sự đoạn diệt của hữu có sự đoạn diệt của sinh. Con đường đưa đến sự đoạn diệt của sinh chính là Bát Chánh Đạo này; đó là, chánh kiến...chánh định.
+26\. "Và thế nào là sinh, thế nào là nguồn gốc của sinh, thế nào là sự đoạn diệt của sinh, thế nào là con đường đưa đến sự đoạn diệt của sinh? Sự sinh ra của các loài hữu tình trong các giới hữu tình khác nhau, sự xuất hiện của họ, sự thụ thai [trong bụng mẹ], sự sinh ra, sự hiển hiện của các uẩn, sự đạt được các xứ (bases) để xúc chạm [^123] - đây gọi là sinh. Với sự phát sinh của hữu (being) có sự phát sinh của sinh. Với sự đoạn diệt của hữu có sự đoạn diệt của sinh. Con đường đưa đến sự đoạn diệt của sinh chính là Tám Bước Thiện (Bát Chánh Đạo) này; đó là, chánh kiến...chánh định.
 
 27\. "Khi một vị thánh đệ tử đã hiểu biết như vậy về sinh, nguồn gốc của sinh, sự đoạn diệt của sinh, và con đường đưa đến sự đoạn diệt của sinh...người ấy ngay trong hiện tại chấm dứt khổ đau. Như vậy nữa, một vị thánh đệ tử là bậc có chánh kiến...và đã đạt đến Chân Pháp này."
 
@@ -92,7 +92,7 @@
 
 29\. "Khi, này chư vị, một vị thánh đệ tử hiểu biết về hữu (being), nguồn gốc của hữu, sự đoạn diệt của hữu, và con đường đưa đến sự đoạn diệt của hữu, như vậy người ấy là bậc có chánh kiến...và đã đạt đến Chân Pháp này.
 
-30\. "Và thế nào là hữu, thế nào là nguồn gốc của hữu, thế nào là sự đoạn diệt của hữu, thế nào là con đường đưa đến sự đoạn diệt của hữu? Có ba loại hữu này: dục hữu (sense-sphere being), sắc hữu (fine-material being), và vô sắc hữu (immaterial being). [^124] Với sự phát sinh của chấp thủ (clinging) có sự phát sinh của hữu. Với sự đoạn diệt của chấp thủ có sự đoạn diệt của hữu. Con đường đưa đến sự đoạn diệt của hữu chính là Bát Chánh Đạo này; đó là, chánh kiến...chánh định.
+30\. "Và thế nào là hữu, thế nào là nguồn gốc của hữu, thế nào là sự đoạn diệt của hữu, thế nào là con đường đưa đến sự đoạn diệt của hữu? Có ba loại hữu này: dục hữu (sense-sphere being), sắc hữu (fine-material being), và vô sắc hữu (immaterial being). [^124] Với sự phát sinh của chấp thủ (clinging) có sự phát sinh của hữu. Với sự đoạn diệt của chấp thủ có sự đoạn diệt của hữu. Con đường đưa đến sự đoạn diệt của hữu chính là Tám Bước Thiện (Bát Chánh Đạo) này; đó là, chánh kiến...chánh định.
 
 31\. "Khi một vị thánh đệ tử đã hiểu biết như vậy về hữu, nguồn gốc của hữu, sự đoạn diệt của hữu, và con đường đưa đến sự đoạn diệt của hữu...người ấy ngay trong hiện tại chấm dứt khổ đau. Như vậy nữa, một vị thánh đệ tử là bậc có chánh kiến...và đã đạt đến Chân Pháp này."
 
@@ -105,7 +105,7 @@
 
 33\. "Khi, này chư vị, một vị thánh đệ tử hiểu biết về chấp thủ (clinging), nguồn gốc của chấp thủ, sự đoạn diệt của chấp thủ, và con đường đưa đến sự đoạn diệt của chấp thủ, như vậy người ấy là bậc có chánh kiến... và đã đạt đến Chân Pháp này.
 
-34\. "Và thế nào là chấp thủ, thế nào là nguồn gốc của chấp thủ, thế nào là sự đoạn diệt của chấp thủ, thế nào là con đường đưa đến sự đoạn diệt của chấp thủ? Có bốn loại chấp thủ này [51]: dục ái chấp thủ (clinging to sensual pleasures), kiến chấp thủ (clinging to views), giới cấm thủ (clinging to rules and observances), và ngã chấp thủ (clinging to a doctrine of self). [^125] Với sự phát sinh của ái dục (craving) có sự phát sinh của chấp thủ. Với sự đoạn diệt của ái dục có sự đoạn diệt của chấp thủ. Con đường đưa đến sự đoạn diệt của chấp thủ chính là Bát Chánh Đạo này; đó là, chánh kiến...chánh định.
+34\. "Và thế nào là chấp thủ, thế nào là nguồn gốc của chấp thủ, thế nào là sự đoạn diệt của chấp thủ, thế nào là con đường đưa đến sự đoạn diệt của chấp thủ? Có bốn loại chấp thủ này [51]: dục ái chấp thủ (clinging to sensual pleasures), kiến chấp thủ (clinging to views), giới cấm thủ (clinging to rules and observances), và ngã chấp thủ (clinging to a doctrine of self). [^125] Với sự phát sinh của ái dục (craving) có sự phát sinh của chấp thủ. Với sự đoạn diệt của ái dục có sự đoạn diệt của chấp thủ. Con đường đưa đến sự đoạn diệt của chấp thủ chính là Tám Bước Thiện (Bát Chánh Đạo) này; đó là, chánh kiến...chánh định.
 
 35\. "Khi một vị thánh đệ tử đã hiểu biết như vậy về chấp thủ, nguồn gốc của chấp thủ, sự đoạn diệt của chấp thủ, và con đường đưa đến sự đoạn diệt của chấp thủ...người ấy ngay trong hiện tại chấm dứt khổ đau. Như vậy nữa, một vị thánh đệ tử là bậc có chánh kiến... và đã đạt đến Chân Pháp này."
 
@@ -118,7 +118,7 @@
 
 37\. "Khi, này chư vị, một vị thánh đệ tử hiểu biết về ái dục (craving), nguồn gốc của ái dục, sự đoạn diệt của ái dục, và con đường đưa đến sự đoạn diệt của ái dục, như vậy người ấy là bậc có chánh kiến... và đã đạt đến Chân Pháp này.
 
-38\. "Và thế nào là ái dục, thế nào là nguồn gốc của ái dục, thế nào là sự đoạn diệt của ái dục, thế nào là con đường đưa đến sự đoạn diệt của ái dục? Có sáu loại ái dục này: ái dục đối với sắc (craving for forms), ái dục đối với thanh (craving for sounds), ái dục đối với hương (craving for odours), ái dục đối với vị (craving for flavours), ái dục đối với xúc (craving for tangibles), ái dục đối với pháp (craving for mind-objects). [^126] Với sự phát sinh của cảm thọ (feeling) có sự phát sinh của ái dục. Với sự đoạn diệt của cảm thọ có sự đoạn diệt của ái dục. Con đường đưa đến sự đoạn diệt của ái dục chính là Bát Chánh Đạo này; đó là, chánh kiến...chánh định.
+38\. "Và thế nào là ái dục, thế nào là nguồn gốc của ái dục, thế nào là sự đoạn diệt của ái dục, thế nào là con đường đưa đến sự đoạn diệt của ái dục? Có sáu loại ái dục này: ái dục đối với sắc (craving for forms), ái dục đối với thanh (craving for sounds), ái dục đối với hương (craving for odours), ái dục đối với vị (craving for flavours), ái dục đối với xúc (craving for tangibles), ái dục đối với pháp (craving for mind-objects). [^126] Với sự phát sinh của cảm thọ (feeling) có sự phát sinh của ái dục. Với sự đoạn diệt của cảm thọ có sự đoạn diệt của ái dục. Con đường đưa đến sự đoạn diệt của ái dục chính là Tám Bước Thiện (Bát Chánh Đạo) này; đó là, chánh kiến...chánh định.
 
 39\. "Khi một vị thánh đệ tử đã hiểu biết như vậy về ái dục, nguồn gốc của ái dục, sự đoạn diệt của ái dục, và con đường đưa đến sự đoạn diệt của ái dục...người ấy ngay trong hiện tại chấm dứt khổ đau. Như vậy nữa, một vị thánh đệ tử là bậc có chánh kiến... và đã đạt đến Chân Pháp này."
 
@@ -131,7 +131,7 @@
 
 41\. "Khi, này chư vị, một vị thánh đệ tử hiểu biết về cảm thọ (feeling), nguồn gốc của cảm thọ, sự đoạn diệt của cảm thọ, và con đường đưa đến sự đoạn diệt của cảm thọ, như vậy người ấy là bậc có chánh kiến...và đã đạt đến Chân Pháp này.
 
-42\. "Và thế nào là cảm thọ, thế nào là nguồn gốc của cảm thọ, thế nào là sự đoạn diệt của cảm thọ, thế nào là con đường đưa đến sự đoạn diệt của cảm thọ? Có sáu loại cảm thọ này: cảm thọ sinh khởi từ nhãn xúc (feeling born of eye-contact), cảm thọ sinh khởi từ nhĩ xúc (feeling born of ear-contact), cảm thọ sinh khởi từ tỷ xúc (feeling born of nose-contact), cảm thọ sinh khởi từ thiệt xúc (feeling born of tongue-contact), cảm thọ sinh khởi từ thân xúc (feeling born of body-contact), cảm thọ sinh khởi từ ý xúc (feeling born of mind-contact). Với sự phát sinh của xúc (contact) có sự phát sinh của cảm thọ. Với sự đoạn diệt của xúc có sự đoạn diệt của cảm thọ. Con đường đưa đến sự đoạn diệt của cảm thọ chính là Bát Chánh Đạo này; đó là, chánh kiến... chánh định. [52]
+42\. "Và thế nào là cảm thọ, thế nào là nguồn gốc của cảm thọ, thế nào là sự đoạn diệt của cảm thọ, thế nào là con đường đưa đến sự đoạn diệt của cảm thọ? Có sáu loại cảm thọ này: cảm thọ sinh khởi từ nhãn xúc (feeling born of eye-contact), cảm thọ sinh khởi từ nhĩ xúc (feeling born of ear-contact), cảm thọ sinh khởi từ tỷ xúc (feeling born of nose-contact), cảm thọ sinh khởi từ thiệt xúc (feeling born of tongue-contact), cảm thọ sinh khởi từ thân xúc (feeling born of body-contact), cảm thọ sinh khởi từ ý xúc (feeling born of mind-contact). Với sự phát sinh của xúc (contact) có sự phát sinh của cảm thọ. Với sự đoạn diệt của xúc có sự đoạn diệt của cảm thọ. Con đường đưa đến sự đoạn diệt của cảm thọ chính là Tám Bước Thiện (Bát Chánh Đạo) này; đó là, chánh kiến... chánh định. [52]
 
 43\. "Khi một vị thánh đệ tử đã hiểu biết như vậy về cảm thọ, nguồn gốc của cảm thọ, sự đoạn diệt của cảm thọ, và con đường đưa đến sự đoạn diệt của cảm thọ...người ấy ngay trong hiện tại chấm dứt khổ đau. Như vậy nữa, một vị thánh đệ tử là bậc có chánh kiến...và đã đạt đến Chân Pháp này."
 
@@ -144,7 +144,7 @@
 
 45\. "Khi, này chư vị, một vị thánh đệ tử hiểu biết về xúc (contact), nguồn gốc của xúc, sự đoạn diệt của xúc, và con đường đưa đến sự đoạn diệt của xúc, như vậy người ấy là bậc có chánh kiến...và đã đạt đến Chân Pháp này.
 
-46\. "Và thế nào là xúc, thế nào là nguồn gốc của xúc, thế nào là sự đoạn diệt của xúc, thế nào là con đường đưa đến sự đoạn diệt của xúc? Có sáu loại xúc này: nhãn xúc (eye-contact), nhĩ xúc (ear-contact), tỷ xúc (nose-contact), thiệt xúc (tongue-contact), thân xúc (body-contact), ý xúc (mind-contact). [^127] Với sự phát sinh của lục nhập xứ (sixfold base) có sự phát sinh của xúc. Với sự đoạn diệt của lục nhập xứ có sự đoạn diệt của xúc. Con đường đưa đến sự đoạn diệt của xúc chính là Bát Chánh Đạo này; đó là, chánh kiến...chánh định.
+46\. "Và thế nào là xúc, thế nào là nguồn gốc của xúc, thế nào là sự đoạn diệt của xúc, thế nào là con đường đưa đến sự đoạn diệt của xúc? Có sáu loại xúc này: nhãn xúc (eye-contact), nhĩ xúc (ear-contact), tỷ xúc (nose-contact), thiệt xúc (tongue-contact), thân xúc (body-contact), ý xúc (mind-contact). [^127] Với sự phát sinh của lục nhập xứ (sixfold base) có sự phát sinh của xúc. Với sự đoạn diệt của lục nhập xứ có sự đoạn diệt của xúc. Con đường đưa đến sự đoạn diệt của xúc chính là Tám Bước Thiện (Bát Chánh Đạo) này; đó là, chánh kiến...chánh định.
 
 47\. "Khi một vị thánh đệ tử đã hiểu biết như vậy về xúc, nguồn gốc của xúc, sự đoạn diệt của xúc, và con đường đưa đến sự đoạn diệt của xúc...người ấy ngay trong hiện tại chấm dứt khổ đau. Như vậy nữa, một vị thánh đệ tử là bậc có chánh kiến...và đã đạt đến Chân Pháp này."
 
@@ -157,7 +157,7 @@
 
 49\. "Khi, này chư vị, một vị thánh đệ tử hiểu biết về lục nhập xứ (sixfold base), nguồn gốc của lục nhập xứ, sự đoạn diệt của lục nhập xứ, và con đường đưa đến sự đoạn diệt của lục nhập xứ, như vậy người ấy là bậc có chánh kiến...và đã đạt đến Chân Pháp này.
 
-50\. "Và thế nào là lục nhập xứ, thế nào là nguồn gốc của lục nhập xứ, thế nào là sự đoạn diệt của lục nhập xứ, thế nào là con đường đưa đến sự đoạn diệt của lục nhập xứ? Có sáu xứ này: nhãn xứ (eye-base), nhĩ xứ (ear-base), tỷ xứ (nose-base), thiệt xứ (tongue-base), thân xứ (body-base), ý xứ (mind-base). [^128] Với sự phát sinh của danh sắc (mentality-materiality) có sự phát sinh của lục nhập xứ. Với sự đoạn diệt của danh sắc có sự đoạn diệt của lục nhập xứ. Con đường đưa đến sự đoạn diệt của lục nhập xứ chính là Bát Chánh Đạo này; đó là, chánh kiến...chánh định.
+50\. "Và thế nào là lục nhập xứ, thế nào là nguồn gốc của lục nhập xứ, thế nào là sự đoạn diệt của lục nhập xứ, thế nào là con đường đưa đến sự đoạn diệt của lục nhập xứ? Có sáu xứ này: nhãn xứ (eye-base), nhĩ xứ (ear-base), tỷ xứ (nose-base), thiệt xứ (tongue-base), thân xứ (body-base), ý xứ (mind-base). [^128] Với sự phát sinh của danh sắc (mentality-materiality) có sự phát sinh của lục nhập xứ. Với sự đoạn diệt của danh sắc có sự đoạn diệt của lục nhập xứ. Con đường đưa đến sự đoạn diệt của lục nhập xứ chính là Tám Bước Thiện (Bát Chánh Đạo) này; đó là, chánh kiến...chánh định.
 
 51\. "Khi một vị thánh đệ tử đã hiểu biết như vậy về lục nhập xứ, nguồn gốc của lục nhập xứ, sự đoạn diệt của lục nhập xứ, và [53] con đường đưa đến sự đoạn diệt của lục nhập xứ...người ấy ngay trong hiện tại chấm dứt khổ đau. Như vậy nữa, một vị thánh đệ tử là bậc có chánh kiến...và đã đạt đến Chân Pháp này."
 
@@ -170,7 +170,7 @@
 
 53\. "Khi, này chư vị, một vị thánh đệ tử hiểu biết về danh sắc (mentality-materiality), nguồn gốc của danh sắc, sự đoạn diệt của danh sắc, và con đường đưa đến sự đoạn diệt của danh sắc, như vậy người ấy là bậc có chánh kiến...và đã đạt đến Chân Pháp này. [^129]
 
-54\. "Và thế nào là danh sắc, thế nào là nguồn gốc của danh sắc, thế nào là sự đoạn diệt của danh sắc, thế nào là con đường đưa đến sự đoạn diệt của danh sắc? Cảm thọ, tri giác (perception), tư (volition), xúc, và tác ý (attention) - đây gọi là danh (mentality). Tứ đại (four great elements) và sắc pháp (material form) sinh ra từ tứ đại - đây gọi là sắc (materiality). Vậy danh này và sắc này là cái được gọi là danh sắc. Với sự phát sinh của thức (consciousness) có sự phát sinh của danh sắc. Với sự đoạn diệt của thức có sự đoạn diệt của danh sắc. Con đường đưa đến sự đoạn diệt của danh sắc chính là Bát Chánh Đạo này; đó là, chánh kiến...chánh định.
+54\. "Và thế nào là danh sắc, thế nào là nguồn gốc của danh sắc, thế nào là sự đoạn diệt của danh sắc, thế nào là con đường đưa đến sự đoạn diệt của danh sắc? Cảm thọ, tri giác (perception), tư (volition), xúc, và tác ý (attention) - đây gọi là danh (mentality). Tứ đại (four great elements) và sắc pháp (material form) sinh ra từ tứ đại - đây gọi là sắc (materiality). Vậy danh này và sắc này là cái được gọi là danh sắc. Với sự phát sinh của thức (consciousness) có sự phát sinh của danh sắc. Với sự đoạn diệt của thức có sự đoạn diệt của danh sắc. Con đường đưa đến sự đoạn diệt của danh sắc chính là Tám Bước Thiện (Bát Chánh Đạo) này; đó là, chánh kiến...chánh định.
 
 55\. "Khi một vị thánh đệ tử đã hiểu biết như vậy về danh sắc, nguồn gốc của danh sắc, sự đoạn diệt của danh sắc, và con đường đưa đến sự đoạn diệt của danh sắc...người ấy ngay trong hiện tại chấm dứt khổ đau. Như vậy nữa, một vị thánh đệ tử là bậc có chánh kiến...và đã đạt đến Chân Pháp này."
 
@@ -184,7 +184,7 @@
 57\. "Khi, này chư vị, một vị thánh đệ tử hiểu biết về thức (consciousness), nguồn gốc của thức, sự đoạn diệt của thức, và
 con đường đưa đến sự đoạn diệt của thức, như vậy người ấy là bậc có chánh kiến...và đã đạt đến Chân Pháp này.
 
-58\. "Và thế nào là thức, thế nào là nguồn gốc của thức, thế nào là sự đoạn diệt của thức, thế nào là con đường đưa đến sự đoạn diệt của thức? Có sáu loại thức này: nhãn thức (eye-consciousness), nhĩ thức (ear-consciousness), tỷ thức (nose-consciousness), thiệt thức (tongue-consciousness), thân thức (body-consciousness), ý thức (mind-consciousness). [^130] Với sự phát sinh của hành (formations) có sự phát sinh của thức. Với sự đoạn diệt của hành có sự đoạn diệt của thức. Con đường đưa đến sự đoạn diệt của thức chính là Bát Chánh Đạo này; đó là, chánh kiến...chánh định.
+58\. "Và thế nào là thức, thế nào là nguồn gốc của thức, thế nào là sự đoạn diệt của thức, thế nào là con đường đưa đến sự đoạn diệt của thức? Có sáu loại thức này: nhãn thức (eye-consciousness), nhĩ thức (ear-consciousness), tỷ thức (nose-consciousness), thiệt thức (tongue-consciousness), thân thức (body-consciousness), ý thức (mind-consciousness). [^130] Với sự phát sinh của hành (formations) có sự phát sinh của thức. Với sự đoạn diệt của hành có sự đoạn diệt của thức. Con đường đưa đến sự đoạn diệt của thức chính là Tám Bước Thiện (Bát Chánh Đạo) này; đó là, chánh kiến...chánh định.
 
 59\. "Khi một vị thánh đệ tử đã hiểu biết như vậy về thức, nguồn gốc của thức, sự đoạn diệt của thức, và con đường đưa đến sự đoạn diệt của thức [54]...người ấy ngay trong hiện tại chấm dứt khổ đau. Như vậy nữa, một vị thánh đệ tử là bậc có chánh kiến...và đã đạt đến Chân Pháp này."
 
@@ -197,7 +197,7 @@ con đường đưa đến sự đoạn diệt của thức, như vậy người
 
 61\. "Khi, này chư vị, một vị thánh đệ tử hiểu biết về hành (formations), nguồn gốc của hành, sự đoạn diệt của hành, và con đường đưa đến sự đoạn diệt của hành, như vậy người ấy là bậc có chánh kiến...và đã đạt đến Chân Pháp này.
 
-62\. "Và thế nào là hành, thế nào là nguồn gốc của hành, thế nào là sự đoạn diệt của hành, thế nào là con đường đưa đến sự đoạn diệt của hành? Có ba loại hành này: thân hành (bodily formation), khẩu hành (verbal formation), ý hành (mental formation). [^131] Với sự phát sinh của vô minh (ignorance) có sự phát sinh của hành. Với sự đoạn diệt của vô minh có sự đoạn diệt của hành. Con đường đưa đến sự đoạn diệt của hành chính là Bát Chánh Đạo này; đó là, chánh kiến...chánh định.
+62\. "Và thế nào là hành, thế nào là nguồn gốc của hành, thế nào là sự đoạn diệt của hành, thế nào là con đường đưa đến sự đoạn diệt của hành? Có ba loại hành này: thân hành (bodily formation), khẩu hành (verbal formation), ý hành (mental formation). [^131] Với sự phát sinh của vô minh (ignorance) có sự phát sinh của hành. Với sự đoạn diệt của vô minh có sự đoạn diệt của hành. Con đường đưa đến sự đoạn diệt của hành chính là Tám Bước Thiện (Bát Chánh Đạo) này; đó là, chánh kiến...chánh định.
 
 63\. "Khi một vị thánh đệ tử đã hiểu biết như vậy về hành, nguồn gốc của hành, sự đoạn diệt của hành, và con đường đưa đến sự đoạn diệt của hành...người ấy ngay trong hiện tại chấm dứt khổ đau. Như vậy nữa, một vị thánh đệ tử là bậc có chánh kiến...và đã đạt đến Chân Pháp này."
 
@@ -210,7 +210,7 @@ con đường đưa đến sự đoạn diệt của thức, như vậy người
 
 65\. "Khi, này chư vị, một vị thánh đệ tử hiểu biết về vô minh (ignorance), nguồn gốc của vô minh, sự đoạn diệt của vô minh, và con đường đưa đến sự đoạn diệt của vô minh, như vậy người ấy là bậc có chánh kiến...và đã đạt đến Chân Pháp này.
 
-66\. "Và thế nào là vô minh, thế nào là nguồn gốc của vô minh, thế nào là sự đoạn diệt của vô minh, thế nào là con đường đưa đến sự đoạn diệt của vô minh? Không biết về khổ (suffering), không biết về nguồn gốc của khổ, không biết về sự đoạn diệt của khổ, không biết về con đường đưa đến sự đoạn diệt của khổ - đây gọi là vô minh. Với sự phát sinh của lậu hoặc (taints) có sự phát sinh của vô minh. Với sự đoạn diệt của lậu hoặc có sự đoạn diệt của vô minh. Con đường đưa đến sự đoạn diệt của vô minh chính là Bát Chánh Đạo này; đó là, chánh kiến...chánh định.
+66\. "Và thế nào là vô minh, thế nào là nguồn gốc của vô minh, thế nào là sự đoạn diệt của vô minh, thế nào là con đường đưa đến sự đoạn diệt của vô minh? Không biết về khổ (suffering), không biết về nguồn gốc của khổ, không biết về sự đoạn diệt của khổ, không biết về con đường đưa đến sự đoạn diệt của khổ - đây gọi là vô minh. Với sự phát sinh của lậu hoặc (taints) có sự phát sinh của vô minh. Với sự đoạn diệt của lậu hoặc có sự đoạn diệt của vô minh. Con đường đưa đến sự đoạn diệt của vô minh chính là Tám Bước Thiện (Bát Chánh Đạo) này; đó là, chánh kiến...chánh định.
 
 67\. "Khi một vị thánh đệ tử đã hiểu biết như vậy về vô minh, nguồn gốc của vô minh, sự đoạn diệt của vô minh, và con đường đưa đến sự đoạn diệt của vô minh...người ấy ngay trong hiện tại chấm dứt khổ đau. Như vậy nữa, một vị thánh đệ tử là bậc có chánh kiến...và đã đạt đến Chân Pháp này."
 
@@ -224,7 +224,7 @@ con đường đưa đến sự đoạn diệt của thức, như vậy người
 69\. "Khi, này chư vị, một vị thánh đệ tử hiểu biết về lậu hoặc (taints), nguồn gốc của lậu hoặc, sự đoạn diệt của lậu hoặc, và con đường
 đưa đến sự đoạn diệt của lậu hoặc, như vậy người ấy là bậc có chánh kiến, người có quan điểm đúng đắn, người có lòng tin hoàn toàn vào Pháp, và đã đạt đến Chân Pháp này.
 
-70\. "Và thế nào là lậu hoặc, thế nào là nguồn gốc của lậu hoặc, thế nào là sự đoạn diệt của lậu hoặc, thế nào là con đường đưa đến sự đoạn diệt của lậu hoặc? Có ba lậu hoặc này: dục lậu (taint of sensual desire), hữu lậu (taint of being), và vô minh lậu (taint of ignorance). Với sự phát sinh của vô minh (ignorance) có sự phát sinh của lậu hoặc. [^132] Với sự đoạn diệt của vô minh có sự đoạn diệt của lậu hoặc. Con đường đưa đến sự đoạn diệt của lậu hoặc chính là Bát Chánh Đạo này; đó là, chánh kiến, chánh tư duy, chánh ngữ, chánh nghiệp, chánh mạng, chánh tinh tấn, chánh niệm, và chánh định.
+70\. "Và thế nào là lậu hoặc, thế nào là nguồn gốc của lậu hoặc, thế nào là sự đoạn diệt của lậu hoặc, thế nào là con đường đưa đến sự đoạn diệt của lậu hoặc? Có ba lậu hoặc này: dục lậu (taint of sensual desire), hữu lậu (taint of being), và vô minh lậu (taint of ignorance). Với sự phát sinh của vô minh (ignorance) có sự phát sinh của lậu hoặc. [^132] Với sự đoạn diệt của vô minh có sự đoạn diệt của lậu hoặc. Con đường đưa đến sự đoạn diệt của lậu hoặc chính là Tám Bước Thiện (Bát Chánh Đạo) này; đó là, chánh kiến, chánh tư duy, chánh ngữ, chánh nghiệp, chánh mạng, chánh tinh tấn, chánh niệm, và chánh định.
 
 71\. "Khi một vị thánh đệ tử đã hiểu biết như vậy về lậu hoặc, nguồn gốc của lậu hoặc, sự đoạn diệt của lậu hoặc, và con đường đưa đến sự đoạn diệt của lậu hoặc, người ấy hoàn toàn đoạn trừ khuynh hướng ngủ ngầm về dục ái (lust), người ấy diệt trừ khuynh hướng ngủ ngầm về sân hận (aversion), người ấy tận diệt khuynh hướng ngủ ngầm về kiến chấp và ngã mạn 'Ta là,' và bằng cách đoạn trừ vô minh và phát sinh chân trí, người ấy ngay trong hiện tại chấm dứt khổ đau. Như vậy nữa, một vị thánh đệ tử là bậc có chánh kiến, người có quan điểm đúng đắn, người có lòng tin hoàn toàn vào Pháp, và đã đạt đến Chân Pháp này."
 
@@ -253,7 +253,7 @@ Từ ngữ:
 - thức / viññāṇa / consciousness:  sự nhận biết, ý thức.
 - hành / saṅkhāra / formations:  các hoạt động tâm lý tạo tác, tạo nghiệp.
 - lậu hoặc / āsava / taints:  các chất gây say, các ô nhiễm tinh thần, các phiền não sâu kín.
-- Bát Chánh Đạo / Ariya aṭṭhaṅgika magga / Noble Eightfold Path: con đường tám nhánh cao quý dẫn đến giải thoát.
+- Tám Bước Thiện (Bát Chánh Đạo) / Ariya aṭṭhaṅgika magga / Noble Eightfold Path: con đường tám nhánh cao quý dẫn đến giải thoát.
 - giới cấm thủ / sīlabbataparāmāsa / clinging to rules and observances: sự chấp thủ vào các quy tắc và nghi lễ một cách mù quáng, cho rằng chúng có thể mang lại giải thoát mà không cần thực hành đúng đắn.
 - ngã chấp thủ / attavādupādāna / clinging to a doctrine of self: sự chấp thủ vào quan điểm về một cái tôi thường hằng, bất biến.
 - chân trí / vijjā / true knowledge:  sự hiểu biết chân thật, trí tuệ giác ngộ.

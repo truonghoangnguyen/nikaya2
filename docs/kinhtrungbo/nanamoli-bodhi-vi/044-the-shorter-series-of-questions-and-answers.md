@@ -22,7 +22,7 @@ Nói: "Lành thay, thưa sư cô," cư sĩ Visākha hoan hỷ và vui mừng v�
 
 5\. "Thưa sư cô, người ta thường nói 'con đường đưa đến sự đoạn diệt thân kiến, con đường đưa đến sự đoạn diệt thân kiến'. Vậy Đức Thế Tôn gọi cái gì là con đường đưa đến sự đoạn diệt thân kiến (sakkāya-nirodha-gāminī paṭipadā - the path leading to the cessation of personality - con đường thực hành để chấm dứt thân kiến)?"
 
-"Này hiền hữu Visākha, đó chính là Bát Chánh Đạo (ariya aṭṭhaṅgika magga - Noble Eightfold Path - con đường tám yếu tố đúng đắn dẫn đến giải thoát) này; đó là: chánh kiến, chánh tư duy, chánh ngữ, chánh nghiệp, chánh mạng, chánh tinh tấn, chánh niệm, và chánh định."
+"Này hiền hữu Visākha, đó chính là Tám Bước Thiện (Bát Chánh Đạo) (ariya aṭṭhaṅgika magga - Noble Eightfold Path - con đường tám yếu tố đúng đắn dẫn đến giải thoát) này; đó là: chánh kiến, chánh tư duy, chánh ngữ, chánh nghiệp, chánh mạng, chánh tinh tấn, chánh niệm, và chánh định."
 
 6\. "Thưa sư cô, sự chấp thủ (upādāna - clinging/attachment - sự bám víu, dính mắc vào các đối tượng) đó có giống với năm uẩn bị chấp thủ này không, hay sự chấp thủ là một cái gì đó tách rời khỏi năm uẩn bị chấp thủ?"
 
@@ -40,19 +40,19 @@ Nói: "Lành thay, thưa sư cô," cư sĩ Visākha hoan hỷ và vui mừng v�
 "Ở đây, này hiền hữu Visākha, một thánh đệ tử đã được học kỹ (sutavā ariya-sāvaka - instructed noble disciple - người đệ tử đã nghe, học và thực hành giáo pháp), người kính trọng các bậc thánh và thuần thục, được rèn luyện trong Giáo Pháp của các vị ấy, người kính trọng các bậc chân nhân và thuần thục, được rèn luyện trong Giáo Pháp của các vị ấy, không xem sắc là tự ngã, hoặc tự ngã có sắc, hoặc sắc ở trong tự ngã, hoặc tự ngã ở trong sắc. Vị ấy không xem thọ là tự ngã, hoặc tự ngã có thọ, hoặc thọ ở trong tự ngã, hoặc tự ngã ở trong thọ. Vị ấy không xem tưởng là tự ngã, hoặc tự ngã có tưởng, hoặc tưởng ở trong tự ngã, hoặc tự ngã ở trong tưởng. Vị ấy không xem các hành là tự ngã, hoặc tự ngã có các hành, hoặc các hành ở trong tự ngã, hoặc tự ngã ở trong các hành. Vị ấy không xem thức là tự ngã, hoặc tự ngã có thức, hoặc thức ở trong tự ngã, hoặc tự ngã ở trong thức. Đó là cách thân kiến không phát sinh."
 
 <!--pg-->
-(BÁT CHÁNH ĐẠO)
+(Tám Bước Thiện (Bát Chánh Đạo))
 
-9\. "Thưa sư cô, Bát Chánh Đạo là gì?"
+9\. "Thưa sư cô, Tám Bước Thiện (Bát Chánh Đạo) là gì?"
 
-"Này hiền hữu Visākha, đó chính là Bát Chánh Đạo này; đó là: chánh kiến, chánh tư duy, chánh ngữ, chánh nghiệp, chánh mạng, chánh tinh tấn, chánh niệm, và chánh định."
+"Này hiền hữu Visākha, đó chính là Tám Bước Thiện (Bát Chánh Đạo) này; đó là: chánh kiến, chánh tư duy, chánh ngữ, chánh nghiệp, chánh mạng, chánh tinh tấn, chánh niệm, và chánh định."
 
-10\. "Thưa sư cô, Bát Chánh Đạo là pháp hữu vi (saṅkhata - conditioned - được tạo tác bởi các điều kiện, có sinh có diệt) hay pháp vô vi (asaṅkhata - unconditioned - không bị tạo tác bởi điều kiện, không sinh không diệt)?"
+10\. "Thưa sư cô, Tám Bước Thiện (Bát Chánh Đạo) là pháp hữu vi (saṅkhata - conditioned - được tạo tác bởi các điều kiện, có sinh có diệt) hay pháp vô vi (asaṅkhata - unconditioned - không bị tạo tác bởi điều kiện, không sinh không diệt)?"
 
-"Này hiền hữu Visākha, Bát Chánh Đạo là pháp [301] hữu vi."
+"Này hiền hữu Visākha, Tám Bước Thiện (Bát Chánh Đạo) là pháp [301] hữu vi."
 
-11\. "Thưa sư cô, ba nhóm (khandha - aggregate/group - ở đây chỉ ba nhóm giới, định, tuệ) có được bao gồm trong Bát Chánh Đạo không, hay Bát Chánh Đạo được bao gồm trong ba nhóm?"463
+11\. "Thưa sư cô, ba nhóm (khandha - aggregate/group - ở đây chỉ ba nhóm giới, định, tuệ) có được bao gồm trong Tám Bước Thiện (Bát Chánh Đạo) không, hay Tám Bước Thiện (Bát Chánh Đạo) được bao gồm trong ba nhóm?"463
 
-"Ba nhóm không được bao gồm trong Bát Chánh Đạo, này hiền hữu Visākha, nhưng Bát Chánh Đạo được bao gồm trong ba nhóm. Chánh ngữ, chánh nghiệp, và chánh mạng - những trạng thái này được bao gồm trong giới uẩn (sīlakkhandha - aggregate of virtue). Chánh tinh tấn, chánh niệm, và chánh định - những trạng thái này được bao gồm trong định uẩn (samādhikkhandha - aggregate of concentration). Chánh kiến và chánh tư duy - những trạng thái này được bao gồm trong tuệ uẩn (paññākkhandha - aggregate of wisdom)."
+"Ba nhóm không được bao gồm trong Tám Bước Thiện (Bát Chánh Đạo), này hiền hữu Visākha, nhưng Tám Bước Thiện (Bát Chánh Đạo) được bao gồm trong ba nhóm. Chánh ngữ, chánh nghiệp, và chánh mạng - những trạng thái này được bao gồm trong giới uẩn (sīlakkhandha - aggregate of virtue). Chánh tinh tấn, chánh niệm, và chánh định - những trạng thái này được bao gồm trong định uẩn (samādhikkhandha - aggregate of concentration). Chánh kiến và chánh tư duy - những trạng thái này được bao gồm trong tuệ uẩn (paññākkhandha - aggregate of wisdom)."
 
 <!--pg-->
 #### (ĐỊNH)
@@ -191,8 +191,8 @@ Từ ngữ:
 - tham ái / taṇhā / craving: Sự khao khát, ham muốn mãnh liệt, là gốc rễ của khổ đau, bao gồm dục ái (ham muốn các đối tượng giác quan), hữu ái (ham muốn tồn tại), và phi hữu ái (ham muốn không tồn tại, hủy diệt).
 - sự đoạn diệt thân kiến / sakkāya-nirodha / cessation of personality: Sự chấm dứt hoàn toàn quan niệm sai lầm về tự ngã, đạt được thông qua việc đoạn trừ tham ái.
 - sự phai nhạt và đoạn diệt không còn dư tàn, sự từ bỏ, xả ly, buông bỏ, và khước từ / virāga-nirodha, cāga, paṭinissagga, mutti, anālaya / remainderless fading away and ceasing, giving up, relinquishing, letting go, and rejecting: Các thuật ngữ mô tả trạng thái Niết Bàn, sự chấm dứt hoàn toàn tham ái và khổ đau không còn dấu vết.
-- con đường đưa đến sự đoạn diệt thân kiến / sakkāya-nirodha-gāminī paṭipadā / the way leading to the cessation of personality: Con đường thực hành để chấm dứt quan niệm sai lầm về tự ngã, chính là Bát Chánh Đạo.
-- Bát Chánh Đạo / ariya aṭṭhaṅgika magga / Noble Eightfold Path: Con đường tám yếu tố đúng đắn dẫn đến giải thoát khổ đau, bao gồm: Chánh kiến, Chánh tư duy, Chánh ngữ, Chánh nghiệp, Chánh mạng, Chánh tinh tấn, Chánh niệm, Chánh định.
+- con đường đưa đến sự đoạn diệt thân kiến / sakkāya-nirodha-gāminī paṭipadā / the way leading to the cessation of personality: Con đường thực hành để chấm dứt quan niệm sai lầm về tự ngã, chính là Tám Bước Thiện (Bát Chánh Đạo).
+- Tám Bước Thiện (Bát Chánh Đạo) / ariya aṭṭhaṅgika magga / Noble Eightfold Path: Con đường tám yếu tố đúng đắn dẫn đến giải thoát khổ đau, bao gồm: Chánh kiến, Chánh tư duy, Chánh ngữ, Chánh nghiệp, Chánh mạng, Chánh tinh tấn, Chánh niệm, Chánh định.
 - chấp thủ / upādāna / clinging/attachment: Sự bám víu, dính mắc mạnh mẽ vào các đối tượng (dục lạc, tà kiến, giới cấm thủ, ngã luận) do tham ái và vô minh.
 - dục và tham / chanda-rāga / desire and lust: Sự ham muốn và đam mê, đặc biệt là đối với các đối tượng của năm uẩn.
 - thân kiến (quan điểm về ngã) / sakkāya-diṭṭhi / personality view: Tà kiến, quan điểm sai lầm về một cái 'tôi' hay 'ngã' thường hằng, độc lập, tồn tại trong hoặc ngoài năm uẩn.
@@ -203,7 +203,7 @@ Từ ngữ:
 - thánh đệ tử đã được học kỹ / sutavā ariya-sāvaka / instructed noble disciple: Người đệ tử của bậc Thánh, đã nghe, học, hiểu và thực hành Giáo Pháp.
 - hữu vi / saṅkhata / conditioned: Các pháp được tạo tác bởi các điều kiện (nhân duyên), có đặc tính sinh, trụ, dị, diệt (vô thường).
 - vô vi / asaṅkhata / unconditioned: Các pháp không bị tạo tác bởi điều kiện, không sinh không diệt, thường chỉ Niết Bàn.
-- ba nhóm / khandha / aggregate/group: Ở đây chỉ ba phần của Bát Chánh Đạo được nhóm lại: Giới uẩn, Định uẩn, Tuệ uẩn.
+- ba nhóm / khandha / aggregate/group: Ở đây chỉ ba phần của Tám Bước Thiện (Bát Chánh Đạo) được nhóm lại: Giới uẩn, Định uẩn, Tuệ uẩn.
 - giới uẩn / sīlakkhandha / aggregate of virtue: Nhóm các yếu tố thuộc về đạo đức, giới hạnh (Chánh ngữ, Chánh nghiệp, Chánh mạng).
 - định uẩn / samādhikkhandha / aggregate of concentration: Nhóm các yếu tố thuộc về sự tập trung tâm ý (Chánh tinh tấn, Chánh niệm, Chánh định).
 - tuệ uẩn / paññākkhandha / aggregate of wisdom: Nhóm các yếu tố thuộc về trí tuệ, sự hiểu biết đúng đắn (Chánh kiến, Chánh tư duy).

@@ -96,4 +96,4 @@ Từ ngữ:
 - sinh do định / samādhija / born of concentration: Trạng thái (như hỷ, lạc) phát sinh từ sức mạnh của sự tập trung thiền định (samādhi).
 - bậc vô học / asekha / one beyond training: Người đã hoàn tất con đường tu tập, không còn gì phải học nữa, đã đoạn trừ mọi lậu hoặc, tức là bậc A-la-hán.
 - chánh trí / sammā-ñāṇa / right knowledge: Trí tuệ đúng đắn, sự hiểu biết chân chính về Tứ Thánh Đế và các pháp, đặc biệt là trí tuệ đạt được khi chứng quả A-la-hán.
-- chánh giải thoát / sammā-vimutti / right deliverance: Sự giải thoát đúng đắn, hoàn toàn khỏi mọi phiền não và khổ đau, kết quả cuối cùng của Bát Chánh Đạo, tức là Niết Bàn.
+- chánh giải thoát / sammā-vimutti / right deliverance: Sự giải thoát đúng đắn, hoàn toàn khỏi mọi phiền não và khổ đau, kết quả cuối cùng của Tám Bước Thiện (Bát Chánh Đạo), tức là Niết Bàn.

@@ -3,7 +3,7 @@ layout: home
 
 hero:
   name: "Kinh Nikaya"
-  tagline: Khám phá Kinh Nikaya dưới góc nhìn mới với nhiều bản dịch khác nhau
+  tagline: Não là công cụ để khám phá, nhưng nó bị giới hạn bởi chính nó, nó phân chia mọi thứ thành những vật nhỏ hơn để phân tích và thời gian.
   actions:
     - theme: brand
       text: Bắt đầu khám phá

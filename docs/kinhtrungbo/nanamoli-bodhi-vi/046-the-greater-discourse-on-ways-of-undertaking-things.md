@@ -84,7 +84,7 @@ Từ ngữ:
 - thân hoại mạng chung / kāyassa bhedā paraṃ maraṇā / dissolution of the body, after death: Cụm từ chỉ sự kiện cơ thể vật lý tan rã sau khi chết, chấm dứt một kiếp sống.
 - tái sinh / upapajjati (reappears) / reappear: Sự sinh trở lại trong một cảnh giới mới (như người, trời, súc sinh, ngạ quỷ, địa ngục) sau khi chết, tùy thuộc vào nghiệp lực đã tạo.
 - từ bỏ / veramaṇī (abstains) / abstains: Sự tránh xa, kiêng cữ, không thực hiện một hành động bất thiện nào đó (như từ bỏ sát sinh, trộm cắp...).
-- chánh kiến / sammā diṭṭhi / right view: Quan điểm, nhận thức đúng đắn, phù hợp với sự thật, đặc biệt là hiểu biết về Tứ Diệu Đế, luật nhân quả, nghiệp báo, con đường giải thoát; là yếu tố đầu tiên trong Bát Chánh Đạo.
+- chánh kiến / sammā diṭṭhi / right view: Quan điểm, nhận thức đúng đắn, phù hợp với sự thật, đặc biệt là hiểu biết về Tứ Diệu Đế, luật nhân quả, nghiệp báo, con đường giải thoát; là yếu tố đầu tiên trong Tám Bước Thiện (Bát Chánh Đạo).
 - cõi trời / sagga loka / heavenly world: Các cõi giới tồn tại cao hơn cõi người, nơi chúng sinh hưởng phước báo an lạc do các thiện nghiệp đã làm; tuy nhiên vẫn nằm trong vòng luân hồi.
 - suy xét / paṭisaṅkhāya (reflecting) / reflecting: Sự cân nhắc, xem xét cẩn thận bằng trí tuệ trước khi nói năng, hành động hoặc chấp nhận một điều gì đó.
 - nước tiểu được lên men / pūtimutta / fermented urine: Một trong bốn loại dược phẩm (tứ y pháp) mà Đức Phật cho phép tỳ kheo sử dụng để trị bệnh khi cần thiết, phổ biến trong y học Ấn Độ cổ đại.

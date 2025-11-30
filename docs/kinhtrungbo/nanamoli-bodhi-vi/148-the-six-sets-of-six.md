@@ -9,6 +9,7 @@
 
 3\.  "Sáu nội xứ cần phải được hiểu rõ. Sáu ngoại xứ cần phải được hiểu rõ. Sáu loại thức cần phải được hiểu rõ. Sáu loại xúc cần phải được hiểu rõ. Sáu loại thọ cần phải được hiểu rõ. Sáu loại ái cần phải được hiểu rõ.
 
+<!--pg-->
 #### (LIỆT KÊ CHI TIẾT)
 
 4\.  (i) "'Sáu nội xứ (internal bases - sáu giác quan bên trong: mắt, tai, mũi, lưỡi, thân, ý) cần phải được hiểu rõ.' Như vậy đã được nói. Và điều này được nói liên quan đến cái gì? Đó là xứ mắt, xứ tai, xứ mũi, xứ lưỡi, xứ thân, và xứ ý. Như vậy, chính là liên quan đến điều này mà đã nói: 'Sáu nội xứ cần phải được hiểu rõ.' Đây là bộ sáu thứ nhất. [281]
@@ -23,6 +24,7 @@
 
 9\.  (vi) "'Sáu loại ái (craving - sự ham muốn, khao khát) cần phải được hiểu rõ.' Như vậy đã được nói. Và điều này được nói liên quan đến cái gì? Do duyên mắt và các hình sắc, nhãn thức khởi sinh; sự gặp gỡ của ba yếu tố này là xúc; do duyên xúc nên có thọ; do duyên thọ nên có ái.[^1329] Do duyên tai và các âm thanh, nhĩ thức khởi sinh... do duyên thọ nên có ái. Do duyên mũi và các mùi, tỷ thức khởi sinh... do duyên thọ nên có ái. Do duyên lưỡi và các vị, thiệt thức khởi sinh... do duyên thọ nên có ái. Do duyên thân và các vật xúc chạm, thân thức khởi sinh... do duyên thọ nên có ái. Do duyên ý và các đối tượng tâm ý, ý thức khởi sinh; sự gặp gỡ của ba yếu tố này là xúc; do duyên xúc nên có thọ; do duyên thọ nên có ái. Như vậy, chính là liên quan đến điều này mà đã nói: 'Sáu loại ái cần phải được hiểu rõ.' Đây là bộ sáu thứ sáu.
 
+<!--pg-->
 #### (CHỨNG MINH VÔ NGÃ)
 
 10\. (i) "Nếu có ai nói, 'Mắt là tự ngã (self - cái tôi, bản ngã thường hằng),' điều đó không hợp lý.[^1330] Sự sinh và diệt của mắt được nhận rõ, và vì sự sinh và diệt của nó được nhận rõ, nên sẽ suy ra rằng: 'Tự ngã của ta sinh và diệt.' Đó là lý do tại sao không hợp lý khi có ai nói, 'Mắt là tự ngã.' Vì vậy, mắt là vô ngã (not self - không có cái tôi, bản ngã thường hằng).[^1331]
@@ -57,30 +59,35 @@
 
 "Nếu có ai nói, 'Đối tượng tâm ý là tự ngã,'... 'Ý thức là tự ngã,'... 'Ý xúc là tự ngã,'... 'Thọ là tự ngã,'... [284]... 'Ái là tự ngã'... Đó là lý do tại sao không hợp lý khi có ai nói, 'Ái là tự ngã.' Vì vậy, ý là vô ngã, đối tượng tâm ý là vô ngã, ý thức là vô ngã, ý xúc là vô ngã, thọ là vô ngã, ái là vô ngã.
 
+<!--pg-->
 #### (SỰ TẬP KHỞI CỦA THÂN KIẾN)
 
 16\. "Này các Tỳ kheo, đây là con đường dẫn đến sự tập khởi của thân kiến (origination of personality - sự phát sinh của niềm tin sai lầm về một cái tôi thường hằng trong các uẩn).[^1333] (i) Người ấy xem xét mắt như sau: 'Cái này là của tôi, cái này là tôi, cái này là tự ngã của tôi.' Người ấy xem xét hình sắc như vậy... Người ấy xem xét nhãn thức như vậy... Người ấy xem xét nhãn xúc như vậy... Người ấy xem xét thọ như vậy... Người ấy xem xét ái như vậy: 'Cái này là của tôi, cái này là tôi, cái này là tự ngã của tôi.'
 
 17-21. (ii-vi) "Người ấy xem xét tai như sau: 'Cái này là của tôi, cái này là tôi, cái này là tự ngã của tôi.'... Người ấy xem xét mũi như sau: 'Cái này là của tôi, cái này là tôi, cái này là tự ngã của tôi.'... Người ấy xem xét lưỡi như sau: 'Cái này là của tôi, cái này là tôi, cái này là tự ngã của tôi.'... Người ấy xem xét thân như sau: 'Cái này là của tôi, cái này là tôi, cái này là tự ngã của tôi.'... Người ấy xem xét ý như sau: 'Cái này là của tôi, cái này là tôi, cái này là tự ngã của tôi.' Người ấy xem xét đối tượng tâm ý như vậy... Người ấy xem xét ý thức như vậy... Người ấy xem xét ý xúc như vậy... Người ấy xem xét thọ như vậy... Người ấy xem xét ái như vậy: 'Cái này là của tôi, cái này là tôi, cái này là tự ngã của tôi.'
 
+<!--pg-->
 #### (SỰ ĐOẠN DIỆT CỦA THÂN KIẾN)
 
 22\. "Này các Tỳ kheo, đây là con đường dẫn đến sự đoạn diệt của thân kiến (cessation of personality - sự chấm dứt của niềm tin sai lầm về một cái tôi thường hằng).[^1334] (i) Người ấy xem xét mắt như sau: 'Cái này không phải của tôi, cái này không phải là tôi, cái này không phải là tự ngã của tôi.' Người ấy xem xét hình sắc như vậy... Người ấy xem xét nhãn thức như vậy... Người ấy xem xét nhãn xúc như vậy... Người ấy xem xét thọ như vậy... Người ấy xem xét ái như vậy: 'Cái này không phải của tôi, cái này không phải là tôi, cái này không phải là tự ngã của tôi.'
 
 23-27. (ii-vi) "Người ấy xem xét tai như sau: 'Cái này không phải của tôi, cái này không phải là tôi, cái này không phải là tự ngã của tôi.'... Người ấy xem xét mũi như sau: 'Cái này không phải của tôi, cái này không phải là tôi, cái này không phải là tự ngã của tôi.'... Người ấy xem xét lưỡi như sau: 'Cái này không phải của tôi, cái này không phải là tôi, cái này không phải là tự ngã của tôi.'... Người ấy xem xét thân như sau: 'Cái này không phải của tôi, cái này không phải là tôi, cái này không phải là tự ngã của tôi.'... Người ấy xem xét ý như sau: 'Cái này không phải của tôi, cái này không phải là tôi, cái này không phải là tự ngã của tôi.' Người ấy xem xét đối tượng tâm ý như vậy... Người ấy xem xét ý thức như vậy... Người ấy xem xét ý xúc như vậy... Người ấy xem xét thọ [285] như vậy... Người ấy xem xét ái như vậy: 'Cái này không phải của tôi, cái này không phải là tôi, cái này không phải là tự ngã của tôi.'
 
+<!--pg-->
 #### (CÁC KHUYNH HƯỚNG NGỦ NGẦM - TÙY MIÊN)
 
 28\. (i) "Này các Tỳ kheo, do duyên mắt và các hình sắc,[^1335] nhãn thức khởi sinh; sự gặp gỡ của ba yếu tố này là xúc; do duyên xúc khởi sinh [một cảm thọ] được cảm nhận là dễ chịu (lạc thọ), hoặc khó chịu (khổ thọ), hoặc không khổ không lạc (bất khổ bất lạc thọ). Khi một người bị cảm giác dễ chịu tác động, nếu người ấy thích thú, chào đón và tiếp tục nắm giữ nó, thì tùy miên tham ái (underlying tendency to lust - khuynh hướng ngầm của sự ham muốn dục lạc) nằm sẵn bên trong người ấy. Khi một người bị cảm giác khó chịu tác động, nếu người ấy sầu muộn, đau khổ, than khóc, đấm ngực và trở nên rối loạn, thì tùy miên sân hận (underlying tendency to aversion - khuynh hướng ngầm của sự chống đối, ghét bỏ) nằm sẵn bên trong người ấy. Khi một người bị cảm giác không khổ không lạc tác động, nếu người ấy không hiểu đúng như thật về sự sinh khởi, sự đoạn diệt, vị ngọt, sự nguy hại và lối thoát đối với cảm giác đó, thì tùy miên vô minh (underlying tendency to ignorance - khuynh hướng ngầm của sự không hiểu biết đúng sự thật) nằm sẵn bên trong người ấy. Này các Tỳ kheo, việc một người có thể chấm dứt khổ đau ngay tại đây và bây giờ mà không từ bỏ tùy miên tham ái đối với cảm giác dễ chịu, không loại bỏ tùy miên sân hận đối với cảm giác khó chịu, không nhổ tận gốc tùy miên vô minh đối với cảm giác không khổ không lạc, không từ bỏ vô minh (ignorance - sự không hiểu biết đúng sự thật) và làm phát sinh minh (true knowledge - trí tuệ, sự hiểu biết đúng sự thật)[^1336] – điều này là không thể.
 
 29-33. (ii-vi) "Này các Tỳ kheo, do duyên tai và các âm thanh, nhĩ thức khởi sinh... Do duyên ý và các đối tượng tâm ý, ý thức khởi sinh; sự gặp gỡ của ba yếu tố này là xúc; do duyên xúc khởi sinh [một cảm thọ] được cảm nhận là dễ chịu, hoặc khó chịu, hoặc không khổ không lạc... Này các Tỳ kheo, việc một người có thể chấm dứt khổ đau ngay tại đây và bây giờ mà không từ bỏ tùy miên tham ái đối với cảm giác dễ chịu... không từ bỏ vô minh và làm phát sinh minh – điều này là không thể. [286]
 
+<!--pg-->
 #### (SỰ TỪ BỎ CÁC KHUYNH HƯỚNG NGỦ NGẦM - TÙY MIÊN)
 
 34\. (i) "Này các Tỳ kheo, do duyên mắt và các hình sắc, nhãn thức khởi sinh; sự gặp gỡ của ba yếu tố này là xúc; do duyên xúc khởi sinh [một cảm thọ] được cảm nhận là dễ chịu, hoặc khó chịu, hoặc không khổ không lạc. Khi một người bị cảm giác dễ chịu tác động, nếu người ấy không thích thú, không chào đón và không tiếp tục nắm giữ nó, thì tùy miên tham ái không nằm sẵn bên trong người ấy. Khi một người bị cảm giác khó chịu tác động, nếu người ấy không sầu muộn, không đau khổ, không than khóc, không đấm ngực và không trở nên rối loạn, thì tùy miên sân hận không nằm sẵn bên trong người ấy. Khi một người bị cảm giác không khổ không lạc tác động, nếu người ấy hiểu đúng như thật về sự sinh khởi, sự đoạn diệt, vị ngọt, sự nguy hại và lối thoát đối với cảm giác đó, thì tùy miên vô minh không nằm sẵn bên trong người ấy. Này các Tỳ kheo, việc một người có thể chấm dứt khổ đau ngay tại đây và bây giờ bằng cách từ bỏ tùy miên tham ái đối với cảm giác dễ chịu, bằng cách loại bỏ tùy miên sân hận đối với cảm giác khó chịu, bằng cách nhổ tận gốc tùy miên vô minh đối với cảm giác không khổ không lạc, bằng cách từ bỏ vô minh và làm phát sinh minh – điều này là có thể.
 
 35-39. (ii-vi) "Này các Tỳ kheo, do duyên tai và các âm thanh, nhĩ thức khởi sinh... Do duyên ý và các đối tượng tâm ý, ý thức khởi sinh; sự gặp gỡ của ba yếu tố này là xúc; do duyên xúc khởi sinh [một cảm thọ] được cảm nhận là dễ chịu, hoặc khó chịu, hoặc không khổ không lạc... Này các Tỳ kheo, việc một người có thể chấm dứt khổ đau ngay tại đây và bây giờ bằng cách từ bỏ tùy miên tham ái đối với cảm giác dễ chịu... bằng cách từ bỏ vô minh và làm phát sinh minh – điều này là có thể.
 
+<!--pg-->
 #### (SỰ GIẢI THOÁT)
 
 40\. "Thấy như vậy, này các Tỳ kheo, vị Thánh đệ tử đã được nghe giảng kỹ trở nên yếm ly (disenchanted - sự nhàm chán, chán ghét đối với các pháp hữu vi dẫn đến sự buông bỏ) đối với mắt, yếm ly đối với hình sắc, yếm ly đối với nhãn thức, yếm ly đối với nhãn xúc, yếm ly đối với thọ, yếm ly đối với ái.

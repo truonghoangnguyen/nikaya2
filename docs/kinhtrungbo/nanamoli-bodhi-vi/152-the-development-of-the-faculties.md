@@ -60,7 +60,7 @@ Từ ngữ:
 -   **an trú** / adhiṭṭhāna / established, resolved: Sự thiết lập vững chắc, sự an định của tâm trong một trạng thái nào đó (như tâm xả, thiền định) hoặc sự quyết tâm thực hành một điều gì đó.
 -   **đối tượng của ý** / dhammā / mind-object: Một trong sáu đối tượng của giác quan (trần cảnh), bao gồm tất cả những gì không thuộc năm giác quan kia: ý nghĩ, tư tưởng, khái niệm, ký ức, cảm xúc, các trạng thái tâm, các pháp (hiện tượng) nói chung.
 -   **bậc hữu học** / sekha / disciple in higher training: Chỉ những vị Thánh đệ tử đã chứng đắc từ quả Nhập lưu (Sotāpanna) đến quả Bất lai (Anāgāmī), nhưng chưa đạt quả A-la-hán. Các vị này vẫn còn cần phải tu học thêm để đoạn trừ hoàn toàn các lậu hoặc.
--   **người đang thực hành con đường** / paṭipanna / one who has entered upon the way: Người đã bắt đầu và đang đi trên con đường thực hành Bát Chánh Đạo để hướng đến giải thoát.
+-   **người đang thực hành con đường** / paṭipanna / one who has entered upon the way: Người đã bắt đầu và đang đi trên con đường thực hành Tám Bước Thiện (Bát Chánh Đạo) để hướng đến giải thoát.
 -   **bậc Thánh** / ariya / noble one: Người đã đạt được một trong bốn cấp độ giác ngộ của Phật giáo Theravada: Nhập lưu (Sotāpanna), Nhất lai (Sakadāgāmī), Bất lai (Anāgāmī), hoặc A-la-hán (Arahant).
 -   **phát triển các căn** / indriyabhāvanā / development of the faculties: Sự tu tập nhằm làm chủ và thanh lọc sáu giác quan (mắt, tai, mũi, lưỡi, thân, ý) để không bị dính mắc hay khó chịu trước các đối tượng của chúng, tiến tới trạng thái tâm xả và trí tuệ.
 -   **chánh niệm** / sati / mindful: Sự ý thức rõ ràng, không phán xét về những gì đang xảy ra trong thân, tâm và môi trường xung quanh trong giây phút hiện tại. Là yếu tố then chốt trong thiền định và thực hành Phật pháp.

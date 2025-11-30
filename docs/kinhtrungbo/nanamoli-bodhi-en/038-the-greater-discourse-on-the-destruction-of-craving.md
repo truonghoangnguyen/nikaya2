@@ -177,13 +177,11 @@ with clinging as condition, being; with being as condition, birth; with birth as
 
 "On hearing a sound with the ear...On smelling an odour with the nose...On tasting a flavour with the tongue...On touching a tangible with the body...On cognizing a mind-object with the mind, [267] he lusts after it if it is pleasing; he dislikes it if it is unpleasing...Now delight in feelings is clinging. With his clinging as condition, being [comes to be]; with being as condition, birth; with birth as condition, ageing and death, sorrow, lamentation, pain, grief, and despair come to be. Such is the origin of this whole mass of suffering.
 
-[^0]
+#### (THE ENDING OF THE ROUND: THE GRADUAL TRAINING)
 
-[^0]:    (THE ENDING OF THE ROUND: THE GRADUAL TRAINING)
+31-38. "Here, bhikkhus, a Tathāgata appears in the world, accomplished, fully enlightened...(as Sutta 27, §§11-18) [268-69]...he purifies his mind from doubt. [270]
 
-    31-38. "Here, bhikkhus, a Tathāgata appears in the world, accomplished, fully enlightened...(as Sutta 27, §§11-18) [268-69]...he purifies his mind from doubt. [270]
-
-    39. "Having thus abandoned these five hindrances, imperfections of the mind that weaken wisdom, quite secluded from
+39\. "Having thus abandoned these five hindrances, imperfections of the mind that weaken wisdom, quite secluded from
 sensual pleasures, secluded from unwholesome states, he enters upon and abides in the first jhāna...With the stilling of applied and sustained thought, he enters upon and abides in the second jhāna...With the fading away as well of rapture...he enters upon and abides in the third jhāna...With the abandoning of pleasure and pain...he enters upon and abides in the fourth jhāna...which has neither-pain-nor-pleasure and purity of mindfulness due to equanimity.
 
 <!--pg-->

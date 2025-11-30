@@ -1,205 +1,236 @@
-# MN 38. Kinh Đại Đoạn Tận Ái
+---
+tags: "nhân duyên"
+---
+# 38. Đại Kinh về Đoạn Trừ Ái
 ***(Mahātamhāsankhaya Sutta)***
 
 #### (BỐI CẢNH)
 
-1\.  Tôi nghe như vầy. Một thời, Thế Tôn trú ở Sāvatthī (Xá Vệ), tại khu rừng Jeta, vườn của ông Anāthapindika (Cấp Cô Độc).
+1\. Như vầy tôi nghe. Một thời *Thế Tôn* (Blessed One/Bhagavā/Đức Phật) đang cư trú tại Sāvatthī, trong Rừng Jeta, Vườn của ông Anāthapindika.
 
-2\.  Lúc bấy giờ, một tà kiến khởi lên nơi một vị tỳ kheo (monks-bhikkhus-nhà sư) tên là Satti, con trai của một người đánh cá, như sau: "Theo như tôi hiểu Pháp do Thế Tôn thuyết giảng, thì thức này là thứ trôi lăn, lưu chuyển trong vòng luân hồi, chứ không phải thứ nào khác."[^402]
+2\. Lúc bấy giờ, một *quan điểm sai lầm* (pernicious view/ pāpakadiṭṭhi/ tà kiến) đã khởi lên trong một vị *tỳ kheo* tên là Satti, con của một người đánh cá, như sau: "Theo như ta hiểu Giáo pháp mà Thế Tôn thuyết giảng, thì chính cái *thức* (consciousness/viññāṇa/sự nhận biết) này luân chuyển và rong ruổi qua *vòng luân hồi* (round of rebirths/saṃsāra), chứ không phải cái nào khác." [402](/kinhtrungbo/nanamoli-bodhi-vi/notes/038#402){.note}
 
-3\.  Nhiều vị tỳ kheo, sau khi nghe về điều này, đã đến gặp tỳ kheo Satti và hỏi: "Này đạo hữu Satti, có thật là một tà kiến như vậy đã khởi lên nơi ông không?"
+3\. Một số tỳ kheo, sau khi nghe về điều này, đã đến gặp tỳ kheo Satti và hỏi: "Này hiền giả Satti, có thật là quan điểm sai lầm như thế đã khởi lên trong ông không?"
 
-"Đúng vậy, thưa các đạo hữu. Theo như tôi hiểu Pháp do Thế Tôn thuyết giảng, thì thức này là thứ trôi lăn, lưu chuyển trong vòng luân hồi, chứ không phải thứ nào khác."
+"Chính xác là vậy, chư hiền. Theo như tôi hiểu Giáo pháp mà Thế Tôn thuyết giảng, thì chính cái thức này luân chuyển và rong ruổi qua vòng luân hồi, chứ không phải cái nào khác."
 
-Sau đó, những vị tỳ kheo này, mong muốn tách ông ra khỏi tà kiến đó, đã thúc ép, chất vấn và tra hỏi ông như sau: "Này đạo hữu Satti, đừng nói như vậy. Đừng xuyên tạc lời Thế Tôn; xuyên tạc lời Thế Tôn là không tốt. Thế Tôn không nói như vậy. Vì trong nhiều bài kinh, Thế Tôn đã tuyên bố thức là do duyên sinh (dependently arisen - phát sinh tùy thuộc vào các điều kiện), [257] vì không có điều kiện thì không có sự phát sinh của thức."
+Bấy giờ, các tỳ kheo ấy, vì muốn tách ông ra khỏi quan điểm sai lầm đó, đã truy vấn, chất vấn và cật vấn ông như sau: "Này hiền giả Satti, đừng nói như vậy. Đừng xuyên tạc Thế Tôn; xuyên tạc Thế Tôn là không tốt. Thế Tôn sẽ không nói như vậy. Vì trong nhiều bài kinh, Thế Tôn đã dạy rằng thức là *do duyên mà khởi lên* (dependently arisen/paṭiccasamuppanna/duyên khởi), [257] nếu không có *điều kiện* (condition/paccaya/duyên) thì không có sự khởi sinh của thức."
 
-Mặc dù bị thúc ép, chất vấn và tra hỏi bởi những vị tỳ kheo này như vậy, tỳ kheo Satti, con trai của người đánh cá, vẫn ngoan cố bám vào tà kiến đó và tiếp tục khẳng định nó.
+Tuy nhiên, mặc dù bị các tỳ kheo truy vấn, chất vấn và cật vấn như vậy, tỳ kheo Satti, con của người đánh cá, vẫn khăng khăng *gắn bó* (adhered/upādāna/chấp thủ) vào quan điểm sai lầm đó và tiếp tục khẳng định nó.
 
-4\.  Vì các vị tỳ kheo không thể tách ông ra khỏi tà kiến đó, họ đã đến gặp Thế Tôn, và sau khi đảnh lễ Ngài, họ ngồi xuống một bên và kể lại tất cả những gì đã xảy ra, thêm rằng: "Bạch Thế Tôn, vì chúng con không thể tách tỳ kheo Satti, con trai của người đánh cá, ra khỏi tà kiến này, chúng con xin trình bày việc này lên Thế Tôn."
 
-5\.  Sau đó, Thế Tôn bảo một vị tỳ kheo: "Này [258] tỳ kheo, hãy đi, nhân danh Ta, nói với tỳ kheo Satti, con trai của người đánh cá, rằng Thế Tôn gọi ông ấy." - "Vâng, bạch Thế Tôn," vị ấy đáp, và đi đến gặp tỳ kheo Satti và nói với ông: "Thế Tôn gọi ông, đạo hữu Satti."
-
-"Vâng, đạo hữu," ông đáp, và đi đến gặp Thế Tôn, và sau khi đảnh lễ Ngài, ngồi xuống một bên. Thế Tôn sau đó hỏi ông: "Này Satti, có thật là tà kiến sau đây đã khởi lên nơi ông: 'Theo như tôi hiểu Pháp do Thế Tôn thuyết giảng, thì thức này là thứ trôi lăn, lưu chuyển trong vòng luân hồi, chứ không phải thứ nào khác'?"
-
-"Đúng vậy, bạch Thế Tôn. Theo như tôi hiểu Pháp do Thế Tôn thuyết giảng, thì thức này là thứ trôi lăn, lưu chuyển trong vòng luân hồi, chứ không phải thứ nào khác."
-
-"Thức đó là gì, hỡi Satti?"
-
-"Bạch Thế Tôn, đó là cái nói năng, cảm thọ và kinh nghiệm ở đây và ở kia kết quả của các hành động thiện và ác."403
-
-"Này kẻ ngu si, ngươi đã bao giờ nghe Ta dạy Pháp theo cách đó chưa? Này kẻ ngu si, trong nhiều bài kinh, Ta há chẳng từng tuyên bố thức là do duyên sinh, vì không có điều kiện thì không có sự phát sinh của thức sao? Nhưng ngươi, kẻ ngu si, đã xuyên tạc lời Ta bằng sự hiểu sai của ngươi và làm hại chính mình và tích lũy nhiều điều bất thiện; vì điều này sẽ dẫn đến sự tổn hại và đau khổ cho ngươi trong một thời gian dài."
-
-6\.  Sau đó, Thế Tôn nói với các vị tỳ kheo: "Này các tỳ kheo, các ông nghĩ gì? Tỳ kheo Satti này, con trai của người đánh cá, có khơi dậy được một tia trí tuệ nào trong Pháp và Luật này không?"
-
-"Làm sao có thể, bạch Thế Tôn? Không, bạch Thế Tôn."
-
-Khi điều này được nói ra, tỳ kheo Satti, con trai của người đánh cá, ngồi im lặng, thất vọng, vai rũ xuống và đầu cúi gằm, ủ rũ, và không đáp lại. Sau đó, biết được điều này, Thế Tôn nói với ông: "Này kẻ ngu si, ngươi sẽ bị nhận ra bởi chính tà kiến của ngươi. Ta sẽ hỏi các tỳ kheo về vấn đề này."
-
-7\.  Sau đó, Thế Tôn nói với các vị tỳ kheo: "Này các tỳ kheo, các ông có hiểu Pháp do Ta thuyết giảng như tỳ kheo Satti này, [259] con trai của người đánh cá, khi ông ta xuyên tạc lời Ta bằng sự hiểu sai của mình và làm hại chính mình và tích lũy nhiều điều bất thiện không?"
-
-"Không, bạch Thế Tôn. Vì trong nhiều bài kinh, Thế Tôn đã tuyên bố thức là do duyên sinh, vì không có điều kiện thì không có sự phát sinh của thức."
-
-"Lành thay, này các tỳ kheo. Thật tốt khi các ông hiểu Pháp do Ta thuyết giảng như vậy. Vì trong nhiều bài kinh, Ta đã tuyên bố thức là do duyên sinh, vì không có điều kiện thì không có sự phát sinh của thức. Nhưng tỳ kheo Satti này, con trai của người đánh cá, xuyên tạc lời Ta bằng sự hiểu sai của mình và làm hại chính mình và tích lũy nhiều điều bất thiện; vì điều này sẽ dẫn đến sự tổn hại và đau khổ của kẻ ngu si này trong một thời gian dài.
+4\. Vì các tỳ kheo không thể tách ông ra khỏi quan điểm sai lầm đó, họ bèn đến gặp Thế Tôn, và sau khi đảnh lễ Ngài, họ ngồi xuống một bên và thuật lại tất cả những gì đã xảy ra, rồi thưa thêm: "Bạch Thế Tôn, vì chúng con không thể tách tỳ kheo Satti, con của người đánh cá, ra khỏi quan điểm sai lầm này, nên chúng con trình sự việc này lên Thế Tôn."
 
 <!--pg-->
-#### (TÍNH ĐIỀU KIỆN CỦA THỨC)
+5\. Bấy giờ, Thế Tôn bảo một tỳ kheo nọ: "Này tỳ kheo, hãy đi [258] và nhân danh ta bảo tỳ kheo Satti, con của người đánh cá, rằng Bậc Đạo Sư cho gọi ông ấy." - "Thưa vâng, bạch Thế Tôn," vị ấy đáp, rồi đi đến chỗ tỳ kheo Satti và bảo: "Bậc Đạo Sư cho gọi hiền giả Satti."
 
-8\.  "Này các tỳ kheo, thức được nhận biết bằng điều kiện đặc biệt mà nó nương vào để phát sinh. Khi thức phát sinh nương vào mắt và các hình sắc, nó được nhận biết là nhãn thức; khi thức phát sinh nương vào tai và các âm thanh, nó được nhận biết là nhĩ thức; khi thức phát sinh nương vào mũi và các mùi hương, [260] nó được nhận biết là tỷ thức; khi thức phát sinh nương vào lưỡi và các vị, nó được nhận biết là thiệt thức; khi thức phát sinh nương vào thân và các xúc chạm, nó được nhận biết là thân thức; khi thức phát sinh nương vào ý và các pháp, nó được nhận biết là ý thức. Cũng như lửa được nhận biết bằng điều kiện đặc biệt mà nó nương vào để cháy - khi lửa cháy nương vào củi, nó được nhận biết là lửa củi; khi lửa cháy nương vào cành khô, nó được nhận biết là lửa cành khô; khi lửa cháy nương vào cỏ, nó được nhận biết là lửa cỏ; khi lửa cháy nương vào phân bò, nó được nhận biết là lửa phân bò; khi lửa cháy nương vào trấu, nó được nhận biết là lửa trấu; khi lửa cháy nương vào rác, nó được nhận biết là lửa rác - cũng vậy, thức được nhận biết bằng điều kiện đặc biệt mà nó nương vào để phát sinh. [^404] Khi thức phát sinh nương vào mắt và các hình sắc, nó được nhận biết là nhãn thức... khi thức phát sinh nương vào ý và các pháp, nó được nhận biết là ý thức.
+"Vâng, thưa hiền giả," ông đáp, rồi đi đến chỗ Thế Tôn, sau khi đảnh lễ Ngài, ông ngồi xuống một bên. Thế Tôn bèn hỏi ông: "Này Satti, có thật là quan điểm sai lầm sau đây đã khởi lên trong ông: 'Theo như ta hiểu Giáo pháp mà Thế Tôn thuyết giảng, thì chính cái thức này luân chuyển và rong ruổi qua vòng luân hồi, chứ không phải cái nào khác'?"
 
-<!--pg-->
-#### (CÂU HỎI CHUNG VỀ HỮU)
+"Đúng như vậy, bạch Thế Tôn. Theo như con hiểu Giáo pháp mà Thế Tôn thuyết giảng, thì chính cái thức này luân chuyển và rong ruổi qua vòng luân hồi, chứ không phải cái nào khác."
 
-9\.  "Này các tỳ kheo, các ông có thấy: 'Đây là Cái này đã hình thành'?"405 - "Vâng, bạch Thế Tôn." - "Này các tỳ kheo, các ông có thấy: 'Sự hình thành của nó xảy ra nhờ cái đó là thức ăn (nutriment - dinh dưỡng, yếu tố nuôi dưỡng)'?" - "Vâng, bạch Thế Tôn." - "Này các tỳ kheo, các ông có thấy: 'Với sự chấm dứt của thức ăn đó, cái đã hình thành sẽ đi đến chỗ chấm dứt'?" - "Vâng, bạch Thế Tôn."
+"Cái thức đó là gì, này Satti?"
 
-10\.  "Này các tỳ kheo, có phải nghi ngờ khởi lên khi người ta không chắc chắn như vầy: 'Đây là Cái này đã hình thành'?" - "Vâng, bạch Thế Tôn." - "Này các tỳ kheo, có phải nghi ngờ khởi lên khi người ta không chắc chắn như vầy: 'Sự hình thành của nó xảy ra nhờ cái đó là thức ăn'?" - "Vâng, bạch Thế Tôn." - "Này các tỳ kheo, có phải nghi ngờ khởi lên khi người ta không chắc chắn như vầy: 'VVới sự chấm dứt của thức ăn đó, cái đã hình thành sẽ đi đến chỗ chấm dứt'?" - "Vâng, bạch Thế Tôn."
+"Bạch Thế Tôn, đó là cái biết nói, biết cảm nhận, và kinh nghiệm kết quả của các hành động thiện và ác ở chỗ này hay chỗ kia." [403](/kinhtrungbo/nanamoli-bodhi-vi/notes/038#403){.note}
 
-11\.  "Này các tỳ kheo, có phải nghi ngờ được đoạn trừ nơi người thấy như thật với chánh trí tuệ như vầy: 'Đây là Cái này đã hình thành'?" - "Vâng, bạch Thế Tôn." - "Này các tỳ kheo, có phải nghi ngờ được đoạn trừ nơi người thấy như thật với chánh trí tuệ như vầy: 'Sự hình thành của nó xảy ra nhờ cái đó là thức ăn'?" - "Vâng, bạch Thế Tôn." - "Này các tỳ kheo, có phải nghi ngờ được đoạn trừ nơi người thấy như thật với chánh trí tuệ như vầy: 'Với sự chấm dứt của thức ăn đó, cái đã hình thành sẽ đi đến chỗ chấm dứt'?" - "Vâng, bạch Thế Tôn."
+"Này *kẻ lầm lạc* (misguided man/moghapurisa), ông đã từng biết ta thuyết giảng Giáo pháp như thế cho ai bao giờ? Này kẻ lầm lạc, chẳng phải trong nhiều bài kinh ta đã dạy rằng thức là do duyên mà khởi lên, nếu không có điều kiện thì không có sự khởi sinh của thức sao? Nhưng ông, này kẻ lầm lạc, đã xuyên tạc chúng ta bởi sự nắm bắt sai lệch của ông, tự làm hại mình và tạo ra nhiều điều bất thiện; vì điều này sẽ dẫn đến sự tổn hại và đau khổ lâu dài cho ông."
 
-12\.  "Này các tỳ kheo, các ông có thoát khỏi nghi ngờ ở đây: 'Đây là Cái này đã hình thành'?" - "Vâng, bạch Thế Tôn." - "Này các tỳ kheo, các ông có thoát khỏi nghi ngờ ở đây: 'Sự hình thành của nó xảy ra nhờ cái đó là thức ăn'?" - "Vâng, bạch Thế Tôn." - "Này các tỳ kheo, các ông có thoát khỏi nghi ngờ ở đây: 'Với sự chấm dứt của thức ăn đó, cái đã hình thành sẽ đi đến chỗ chấm dứt'?" - "Vâng, bạch Thế Tôn."
+6\. Rồi Thế Tôn bảo các tỳ kheo: "Này các tỳ kheo, các ông nghĩ sao? Tỳ kheo Satti, con của người đánh cá này, có nhen nhóm được chút tia sáng trí tuệ nào trong Pháp và Luật này không?"
 
-13\.  "Này các tỳ kheo, có phải nó đã được các ông thấy rõ như thật với chánh trí tuệ như vầy: 'Đây là Cái này đã hình thành'?" - "Vâng, bạch Thế Tôn." - "Này các tỳ kheo, có phải nó đã được các ông thấy rõ như thật với chánh trí tuệ như vầy: 'Sự hình thành của nó xảy ra với cái đó là thức ăn'?" - "Vâng, bạch Thế Tôn." - "Này các tỳ kheo, có phải nó đã được các ông thấy rõ như thật với chánh trí tuệ như vầy: ' '?" - "Vâng, bạch Thế Tôn."
+"Làm sao có thể được, bạch Thế Tôn? Dạ không, bạch Thế Tôn."
 
-14\.  "Này các tỳ kheo, dù cho kiến giải này có thanh tịnh và sáng tỏ, nếu các ông bám víu vào nó, trân quý nó, giữ gìn nó, và xem nó như là một vật sở hữu, liệu các ông có hiểu Pháp đã được thuyết giảng như là tương tự như một chiếc bè, dùng để vượt qua, không phải để nắm giữ?"406 - "Không, bạch Thế Tôn." - "Này các tỳ kheo, dù cho kiến giải này có thanh tịnh và sáng tỏ, [261] nếu các ông không bám víu vào nó, không trân quý nó, không giữ gìn nó, và không xem nó như là một vật sở hữu, liệu các ông có hiểu Pháp đã được thuyết giảng như là tương tự như một chiếc bè, dùng để vượt qua, không phải để nắm giữ?" - "Vâng, bạch Thế Tôn."
+Khi nghe nói vậy, tỳ kheo Satti, con của người đánh cá, ngồi im lặng, hoang mang, vai rũ xuống, đầu cúi gầm, ủ rũ và không nói được lời nào. Biết được điều này, Thế Tôn bảo ông: "Này kẻ lầm lạc, ông sẽ bị nhận diện bởi chính quan điểm sai lầm của mình. Ta sẽ hỏi các tỳ kheo về vấn đề này."
 
-<!--pg-->
-#### (THỨC ĂN VÀ DUYÊN KHỞI)
+7\. Rồi Thế Tôn hỏi các tỳ kheo: "Này các tỳ kheo, các ông có hiểu Giáo pháp do ta thuyết giảng giống như tỳ kheo Satti, [259] con của người đánh cá này, khi ông ta xuyên tạc chúng ta bởi sự nắm bắt sai lệch, tự làm hại mình và tạo ra nhiều điều bất thiện không?"
 
-15\.  "Này các tỳ kheo, có bốn loại thức ăn này để duy trì các chúng sinh đã hiện hữu và để hỗ trợ những chúng sinh đang tìm kiếm một sự tồn tại mới. Bốn loại đó là gì? Đó là: vật thực (physical food - thức ăn vật lý), thô hoặc tế; xúc (contact - sự tiếp xúc) là thứ hai; tư niệm (mental volition - ý chí, chủ ý) là thứ ba; và thức là thứ tư. [^407]
+"Dạ không, bạch Thế Tôn. Vì trong nhiều bài kinh, Thế Tôn đã dạy rằng thức là do duyên mà khởi lên, nếu không có điều kiện thì không có sự khởi sinh của thức."
 
-16\.  "Này các tỳ kheo, bốn loại thức ăn này có gì là nguồn gốc, có gì là căn nguyên, từ đâu chúng sinh ra và được tạo ra? Bốn loại thức ăn này có ái (craving - sự thèm khát) là nguồn gốc, ái là căn nguyên; chúng sinh ra và được tạo ra từ ái. Và ái này có gì là nguồn gốc...? Ái có thọ (feeling - cảm giác) là nguồn gốc... Và thọ này có gì là nguồn gốc...? Thọ có xúc là nguồn gốc... Và xúc này có gì là nguồn gốc...? Xúc có lục nhập (sixfold base - sáu căn: mắt, tai, mũi, lưỡi, thân, ý) là nguồn gốc... Và lục nhập này có gì là nguồn gốc...? Lục nhập có danh sắc (mentality-materiality - tinh thần và vật chất) là nguồn gốc... Và danh sắc này có gì là nguồn gốc...? Danh sắc có thức là nguồn gốc... Và thức này có gì là nguồn gốc...? Thức có hành (formations - các yếu tố cấu thành) là nguồn gốc... Và các hành này có gì là nguồn gốc, có gì là căn nguyên, từ đâu chúng sinh ra và được tạo ra? Hành có vô minh (ignorance - sự thiếu hiểu biết) là nguồn gốc, vô minh là căn nguyên; chúng sinh ra và được tạo ra từ vô minh.
+"Lành thay, này các tỳ kheo. Thật tốt khi các ông hiểu Giáo pháp do ta thuyết giảng như vậy. Vì trong nhiều bài kinh, ta đã dạy rằng thức là do duyên mà khởi lên, nếu không đủ điều kiện thì không có sự khởi sinh của thức. Nhưng tỳ kheo Satti, con của người đánh cá này, đã xuyên tạc chúng ta bởi sự nắm bắt sai lệch, tự làm hại mình và tạo ra nhiều điều bất thiện; vì điều này sẽ dẫn đến sự tổn hại và đau khổ lâu dài cho kẻ lầm lạc này.
 
 <!--pg-->
-#### (GIẢNG GIẢI XUÔI VỀ SỰ PHÁT SINH)
+#### (TÍNH DUYÊN KHỞI CỦA THỨC)
 
-17\.  "Vậy, này các tỳ kheo, với vô minh làm điều kiện, các hành [hình thành]; với các hành làm điều kiện, thức; với thức làm điều kiện, danh sắc; với danh sắc làm điều kiện, lục nhập; với lục nhập làm điều kiện, xúc; với xúc làm điều kiện, thọ; với thọ làm điều kiện, ái; với ái làm điều kiện, thủ (clinging - sự bám víu); với thủ làm điều kiện, hữu (being - sự tồn tại); với hữu làm điều kiện, sinh (birth - sự ra đời); với sinh làm điều kiện, già và chết, sầu, bi, khổ, ưu, não phát sinh. Như vậy là sự phát sinh của toàn bộ khối khổ đau này.
-
-<!--pg-->
-#### (CÂU HỎI NGƯỢC VỀ SỰ PHÁT SINH)
-
-18\.  "'Với sinh làm điều kiện, già và chết': như vậy đã được nói. Này các tỳ kheo, già và chết có sinh làm điều kiện hay không, hay các ông hiểu như thế nào trong trường hợp này?"
-
-"Già và chết có sinh làm điều kiện, bạch Thế Tôn. Chúng con hiểu như vậy trong trường hợp này: 'Với sinh làm điều kiện, già và chết.'"
-
-"'Với hữu làm điều kiện, sinh': như vậy đã được nói. Này các tỳ kheo, sinh có hữu làm điều kiện hay không, hay các ông hiểu như thế nào trong trường hợp này?"
-
-"Sinh có hữu làm điều kiện, [262] bạch Thế Tôn. Chúng con hiểu như vậy trong trường hợp này: 'Với hữu làm điều kiện, sinh.'"
-
-"'Với thủ làm điều kiện, hữu': như vậy đã được nói. Này các tỳ kheo, hữu có thủ làm điều kiện hay không, hay các ông hiểu như thế nào trong trường hợp này?"
-
-"Hữu có thủ làm điều kiện, bạch Thế Tôn. Chúng con hiểu như vậy trong trường hợp này: 'Với thủ làm điều kiện, hữu.'"
-
-"'Với ái làm điều kiện, thủ': như vậy đã được nói. Này các tỳ kheo, thủ có ái làm điều kiện hay không, hay các ông hiểu như thế nào trong trường hợp này?"
-
-"Thủ có ái làm điều kiện, bạch Thế Tôn. Chúng con hiểu như vậy trong trường hợp này: 'Với ái làm điều kiện, thủ.'"
-
-"'Với thọ làm điều kiện, ái': như vậy đã được nói. Này các tỳ kheo, ái có thọ làm điều kiện hay không, hay các ông hiểu như thế nào trong trường hợp này?"
-
-"Ái có thọ làm điều kiện, bạch Thế Tôn. Chúng con hiểu như vậy trong trường hợp này: 'Với thọ làm điều kiện, ái.'"
-
-"'Với xúc làm điều kiện, thọ': như vậy đã được nói. Này các tỳ kheo, thọ có xúc làm điều kiện hay không, hay các ông hiểu như thế nào trong trường hợp này?"
-
-"Thọ có xúc làm điều kiện, bạch Thế Tôn. Chúng con hiểu như vậy trong trường hợp này: 'Với xúc làm điều kiện, thọ.'"
-
-"'Với lục nhập làm điều kiện, xúc': như vậy đã được nói. Này các tỳ kheo, xúc có lục nhập làm điều kiện hay không, hay các ông hiểu như thế nào trong trường hợp này?"
-
-"Xúc có lục nhập làm điều kiện, bạch Thế Tôn. Chúng con hiểu như vậy trong trường hợp này: 'Với lục nhập làm điều kiện, xúc.'"
-
-"'Với danh sắc làm điều kiện, lục nhập': như vậy đã được nói. Này các tỳ kheo, lục nhập có danh sắc làm điều kiện hay không, hay các ông hiểu như thế nào trong trường hợp này?"
-
-"Lục nhập có danh sắc làm điều kiện, bạch Thế Tôn. Chúng con hiểu như vậy trong trường hợp này: 'Với danh sắc làm điều kiện, lục nhập.'"
-
-"'Với thức làm điều kiện, danh sắc': như vậy đã được nói. Này các tỳ kheo, danh sắc có thức làm điều kiện hay không, hay các ông hiểu như thế nào trong trường hợp này?"
-
-"Danh sắc có thức làm điều kiện, bạch Thế Tôn. Chúng con hiểu như vậy trong trường hợp này: 'Với thức làm điều kiện, danh sắc.'"
-
-"'Với hành làm điều kiện, thức': như vậy đã được nói. Này các tỳ kheo, thức có hành làm điều kiện hay không, hay các ông hiểu như thế nào trong trường hợp này?"
-
-"Thức có hành làm điều kiện, bạch Thế Tôn. Chúng con hiểu như vậy trong trường hợp này: 'Với hành làm điều kiện, thức.'"
-
-"'Với vô minh làm điều kiện, hành': như vậy đã được nói. Này các tỳ kheo, hành có vô minh làm điều kiện hay không, hay các ông hiểu như thế nào trong trường hợp này?"
-
-"Hành có vô minh làm điều kiện, bạch Thế Tôn. Chúng con hiểu như vậy trong trường hợp này: 'Với hành làm điều kiện, vô minh.'"
+8\. "Này các tỳ kheo, thức được hình thành theo điều kiện cụ thể mà nhờ đó nó khởi lên. Khi thức khởi lên dựa vào mắt và các hình sắc, nó được gọi là *nhãn thức* (eye-consciousness/cakkhuviññāṇa/sự nhận biết qua mắt); khi thức khởi lên dựa vào tai và âm thanh, nó được gọi là nhĩ thức; khi thức khởi lên dựa vào mũi và mùi hương, [260] nó được gọi là tỷ thức; khi thức khởi lên dựa vào lưỡi và vị, nó được gọi là thiệt thức; khi thức khởi lên dựa vào thân và vật xúc chạm, nó được gọi là thân thức; khi thức khởi lên dựa vào ý và các pháp (đối tượng của tâm), nó được gọi là ý thức. Cũng giống như lửa được hình thành theo nhiên liệu cụ thể mà nhờ đó nó cháy - khi lửa cháy dựa vào củi, nó được gọi là lửa củi; khi lửa cháy dựa vào cành cây vụn, nó được gọi là lửa cành cây; khi lửa cháy dựa vào cỏ, nó được gọi là lửa cỏ; khi lửa cháy dựa vào phân bò, nó được gọi là lửa phân bò; khi lửa cháy dựa vào trấu, nó được gọi là lửa trấu; khi lửa cháy dựa vào rác, nó được gọi là lửa rác - cũng vậy, thức được hình thành theo điều kiện cụ thể mà nhờ đó nó khởi lên. [404](/kinhtrungbo/nanamoli-bodhi-vi/notes/038#404){.note} Khi thức khởi lên dựa vào mắt và các hình sắc, nó được gọi là nhãn thức... khi thức khởi lên dựa vào ý và các pháp, nó được gọi là ý thức.
 
 <!--pg-->
-#### (TÓM TẮT VỀ SỰ PHÁT SINH)
+#### (CÁC CÂU HỎI CHUNG VỀ SỰ HIỆN HỮU)
 
-19\.  "Lành thay, này các tỳ kheo. Các ông nói như vậy, và Ta cũng nói như vậy: 'Khi cái này có, cái kia hình thành; [263] với sự phát sinh của cái này, cái kia phát sinh. [^408] Nghĩa là, với vô minh làm điều kiện, các hành [hình thành]; với các hành làm điều kiện, thức; với thức làm điều kiện, danh sắc; với danh sắc làm điều kiện, lục nhập; với lục nhập làm điều kiện, xúc; với xúc làm điều kiện, thọ; với thọ làm điều kiện, ái; với ái làm điều kiện, thủ; với thủ làm điều kiện, hữu; với hữu làm điều kiện, sinh; với sinh làm điều kiện, già và chết, sầu, bi, khổ, ưu, não phát sinh. Như vậy là sự phát sinh của toàn bộ khối khổ đau này.
+9\. "Này các tỳ kheo, các ông có thấy: 'Cái này đã hiện hữu' không?" [405](/kinhtrungbo/nanamoli-bodhi-vi/notes/038#405){.note} - "Thưa có, bạch Thế Tôn." - "Này các tỳ kheo, các ông có thấy: 'Sự khởi sinh của nó diễn ra với cái kia làm *thức ăn* (nutriment/āhāra/vật thực)' không?" - "Thưa có, bạch Thế Tôn." - "Này các tỳ kheo, các ông có thấy: 'Với sự đoạn diệt của thức ăn đó, cái đã hiện hữu phải chịu sự đoạn diệt' không?" - "Thưa có, bạch Thế Tôn."
 
-<!--pg-->
-#### (GIẢNG GIẢI XUÔI VỀ SỰ CHẤM DỨT)
+10\. "Này các tỳ kheo, nghi ngờ có khởi lên khi một người không chắc chắn rằng: 'Cái này đã hiện hữu hay không'?" - "Thưa có, bạch Thế Tôn." - "Này các tỳ kheo, nghi ngờ có khởi lên khi một người không chắc chắn rằng: 'Sự khởi sinh của nó có diễn ra với cái kia làm thức ăn hay không'?" - "Thưa có, bạch Thế Tôn." - "Này các tỳ kheo, nghi ngờ có khởi lên khi một người không chắc chắn rằng: 'Với sự đoạn diệt của thức ăn đó, cái đã hiện hữu có phải chịu sự đoạn diệt hay không'?" - "Thưa có, bạch Thế Tôn."
 
-20\.  "Nhưng với sự tàn lụi và chấm dứt hoàn toàn của vô minh, các hành chấm dứt; với sự chấm dứt của các hành, thức chấm dứt; với sự chấm dứt của thức, danh sắc chấm dứt; với sự chấm dứt của danh sắc, lục nhập chấm dứt; với sự chấm dứt của lục nhập, xúc chấm dứt; với sự chấm dứt của xúc, thọ chấm dứt; với sự chấm dứt của thọ, ái chấm dứt; với sự chấm dứt của ái, thủ chấm dứt; với sự chấm dứt của thủ, hữu chấm dứt; với sự chấm dứt của hữu, sinh chấm dứt; với sự chấm dứt của sinh, già và chết, sầu, bi, khổ, ưu, não chấm dứt. Như vậy là sự chấm dứt của toàn bộ khối khổ đau này.
+11\. "Này các tỳ kheo, nghi ngờ có được đoạn trừ nơi một người thấy đúng như thật với trí tuệ chân chính rằng: 'Cái này đã hiện hữu' không?" - "Thưa có, bạch Thế Tôn." - "Này các tỳ kheo, nghi ngờ có được đoạn trừ nơi một người thấy đúng như thật với trí tuệ chân chính rằng: 'Sự khởi sinh của nó diễn ra với cái kia làm thức ăn' không?" - "Thưa có, bạch Thế Tôn." - "Này các tỳ kheo, nghi ngờ có được đoạn trừ nơi một người thấy đúng như thật với trí tuệ chân chính rằng: 'Với sự đoạn diệt của thức ăn đó, cái đã hiện hữu phải chịu sự đoạn diệt' không?" - "Thưa có, bạch Thế Tôn."
 
-<!--pg-->
-#### (CÂU HỎI NGƯỢC VỀ SỰ CHẤM DỨT)
+12\. "Này các tỳ kheo, các ông có thoát khỏi nghi ngờ ở điểm này: 'Cái này đã hiện hữu' không?" - "Thưa có, bạch Thế Tôn." - "Này các tỳ kheo, các ông có thoát khỏi nghi ngờ ở điểm này: 'Sự khởi sinh của nó diễn ra với cái kia làm thức ăn' không?" - "Thưa có, bạch Thế Tôn." - "Này các tỳ kheo, các ông có thoát khỏi nghi ngờ ở điểm này: 'Với sự đoạn diệt của thức ăn đó, cái đã hiện hữu phải chịu sự đoạn diệt' không?" - "Thưa có, bạch Thế Tôn."
 
-21\.  "'Với sự chấm dứt của sinh, già và chết chấm dứt': như vậy đã được nói. Này các tỳ kheo, già và chết có chấm dứt với sự chấm dứt của sinh hay không, hay các ông hiểu như thế nào trong trường hợp này?"
+13\. "Này các tỳ kheo, điều này đã được các ông khéo thấy đúng như thật với trí tuệ chân chính rằng: 'Cái này đã hiện hữu' chưa?" - "Thưa rồi, bạch Thế Tôn." - "Này các tỳ kheo, điều này đã được các ông khéo thấy đúng như thật với trí tuệ chân chính rằng: 'Sự khởi sinh của nó diễn ra với cái kia làm thức ăn' chưa?" - "Thưa rồi, bạch Thế Tôn." - "Này các tỳ kheo, điều này đã được các ông khéo thấy đúng như thật với trí tuệ chân chính rằng: 'Với sự đoạn diệt của thức ăn đó, cái đã hiện hữu phải chịu sự đoạn diệt' chưa?" - "Thưa rồi, bạch Thế Tôn."
 
-"Già và chết chấm dứt với sự chấm dứt của sinh, bạch Thế Tôn. Chúng con hiểu như vậy trong trường hợp này: 'Với sự chấm dứt của sinh, già và chết chấm dứt.'"
-
-"'Với sự chấm dứt của hữu, sinh chấm dứt'...'Với sự chấm dứt của thủ, hữu chấm dứt'...'Với sự chấm dứt của ái, thủ chấm dứt'...'Với sự chấm dứt của thọ, ái chấm dứt'...'Với sự chấm dứt của xúc, thọ chấm dứt' [264]...'Với sự chấm dứt của lục nhập, xúc chấm dứt'...'Với sự chấm dứt của danh sắc, lục nhập chấm dứt'...'Với sự chấm dứt của thức, danh sắc chấm dứt'...'Với sự chấm dứt của hành, thức chấm dứt'...'Với sự chấm dứt của vô minh, hành chấm dứt': như vậy đã được nói. Này các tỳ kheo, hành có chấm dứt với sự chấm dứt của vô minh hay không, hay các ông hiểu như thế nào trong trường hợp này?"
-
-"Hành chấm dứt với sự chấm dứt của vô minh, bạch Thế Tôn. Chúng con hiểu như vậy trong trường hợp này: 'Với sự chấm dứt của vô minh, hành chấm dứt.'"
+14\. "Này các tỳ kheo, dù cho quan điểm này có thanh tịnh và sáng tỏ như vậy, nhưng nếu các ông gắn bó với nó, nâng niu nó, trân quý nó, và xem nó như của sở hữu, thì các ông có hiểu Giáo pháp đã được ví như chiếc bè, là để vượt qua, chứ không phải để nắm giữ không?" [406](/kinhtrungbo/nanamoli-bodhi-vi/notes/038#406){.note} - "Thưa không, bạch Thế Tôn." - "Này các tỳ kheo, dù cho quan điểm này có thanh tịnh và sáng tỏ như vậy, [261] nhưng nếu các ông không gắn bó với nó, không nâng niu nó, không trân quý nó, và không xem nó như của sở hữu, thì các ông có hiểu Giáo pháp đã được ví như chiếc bè, là để vượt qua, chứ không phải để nắm giữ không?" - "Thưa có, bạch Thế Tôn."
 
 <!--pg-->
-(TÓM TẮT VỀ SỰ CHẤM DỨT)
+#### (THỨC ĂN VÀ LÝ DUYÊN KHỞI)
 
-22\.  "Lành thay, này các tỳ kheo. Các ông nói như vậy, và Ta cũng nói như vậy: 'Khi cái này không có, cái kia không hình thành; với sự chấm dứt của cái này, cái kia chấm dứt.' Nghĩa là, với sự chấm dứt của vô minh, các hành chấm dứt; với sự chấm dứt của các hành, thức chấm dứt; với sự chấm dứt của thức, danh sắc chấm dứt; với sự chấm dứt của danh sắc, lục nhập chấm dứt; với sự chấm dứt của lục nhập, xúc chấm dứt; với sự chấm dứt của xúc, thọ chấm dứt; với sự chấm dứt của thọ, ái chấm dứt; với sự chấm dứt của ái, thủ chấm dứt; với sự chấm dứt của thủ, hữu chấm dứt; với sự chấm dứt của hữu, sinh chấm dứt; với sự chấm dứt của sinh, già và chết, sầu, bi, khổ, ưu, não chấm dứt. Như vậy là sự chấm dứt của toàn bộ khối khổ đau này.
+15\. "Này các tỳ kheo, có bốn loại thức ăn này để duy trì các chúng sinh đã hiện hữu và hỗ trợ cho những chúng sinh đang tìm kiếm một sự tái sinh. Bốn loại đó là gì? Đó là: *thức ăn vật chất* (physical food/kabaḷīkārāhāra/đoàn thực), thô hoặc tế; *xúc chạm* (contact/phassa/xúc) là thứ hai; *tác ý* (mental volition/manosañcetanā/tư niệm thực) là thứ ba; và thức là thứ tư. [407](/kinhtrungbo/nanamoli-bodhi-vi/notes/038#407){.note}
 
-<!--pg-->
-(TRI KIẾN CÁ NHÂN)
-
-23\.  "Này các tỳ kheo, biết và thấy như vậy, [265] các ông có chạy về quá khứ như vầy: 'Chúng ta đã có mặt trong quá khứ không? Chúng ta đã không có mặt trong quá khứ không? Chúng ta là gì trong quá khứ? Chúng ta như thế nào trong quá khứ? Đã là gì, chúng ta đã trở thành gì trong quá khứ?'?" - "Không, bạch Thế Tôn." - "Biết và thấy như vậy, các ông có chạy về tương lai như vầy: 'Chúng ta sẽ có mặt trong tương lai không? Chúng ta sẽ không có mặt trong tương lai không? Chúng ta sẽ là gì trong tương lai? Chúng ta sẽ như thế nào trong tương lai? Đã là gì, chúng ta sẽ trở thành gì trong tương lai?'?" - "Không, bạch Thế Tôn." - "Biết và thấy như vậy, các ông có bây giờ bị bối rối ở bên trong về hiện tại như vầy: 'Ta có không? Ta không có không? Ta là gì? Ta như thế nào? Chúng sinh này từ đâu đến? Nó sẽ đi về đâu?'?"409 - "Không, bạch Thế Tôn."
-
-24\.  "Này các tỳ kheo, biết và thấy như vậy, các ông có nói như vầy: 'Thế Tôn được chúng ta tôn kính. Chúng ta nói như chúng ta làm vì tôn kính Thế Tôn'?" - "Không, bạch Thế Tôn." - "Biết và thấy như vậy, các ông có nói như vầy: 'Sa môn nói điều này, và các sa môn [khác] cũng vậy, nhưng chúng ta không nói như vậy'?" - "Không, bạch Thế Tôn." - "Biết và thấy như vậy, các ông có thừa nhận một vị thầy khác không?" - "Không, bạch Thế Tôn." - "Biết và thấy như vậy, các ông có quay trở lại với các nghi thức, các cuộc tranh luận ồn ào, và các dấu hiệu tốt lành của các sa môn và bà la môn thông thường, xem chúng là cốt lõi [của đời sống thánh] không?" - "Không, bạch Thế Tôn." - "Các ông có chỉ nói về những gì các ông đã tự mình biết, thấy và hiểu không?" - "Vâng, bạch Thế Tôn."
-
-25\.  "Lành thay, này các tỳ kheo. Như vậy các ông đã được Ta hướng dẫn với Pháp này, là thiết thực hiện tại (visible here and now - có thể thấy ngay trong hiện tại), có hiệu quả tức thời, mời gọi đến xem, đưa đến giải thoát, được người trí tự mình giác hiểu. Vì chính với ý nghĩa này mà đã được nói: 'Này các tỳ kheo, Pháp này là thiết thực hiện tại, có hiệu quả tức thời, mời gọi đến xem, đưa đến giải thoát, được người trí tự mình giác hiểu.'
+16\. "Này các tỳ kheo, bốn loại thức ăn này lấy gì làm nguồn, lấy gì làm gốc, từ đâu sinh ra và hiện khởi? Bốn loại thức ăn này lấy *tham ái* (craving/taṇhā/khao khát) làm nguồn, lấy tham ái làm gốc; chúng được sinh ra và hiện khởi từ tham ái. Và tham ái này lấy gì làm nguồn...? Tham ái lấy *cảm thọ* (feeling/vedanā/cảm giác) làm nguồn... Và cảm thọ này lấy gì làm nguồn...? Cảm thọ lấy xúc chạm làm nguồn... Và xúc chạm này lấy gì làm nguồn...? Xúc chạm lấy *sáu giác quan* (sixfold base/saḷāyatana/lục nhập) làm nguồn... Và sáu giác quan này lấy gì làm nguồn...? Sáu giác quan lấy *danh-sắc* (mentality-materiality/nāmarūpa/tâm và thân) làm nguồn... Và danh-sắc này lấy gì làm nguồn...? Danh-sắc lấy thức làm nguồn... Và thức này lấy gì làm nguồn...? Thức lấy *các hành* (formations/saṅkhāra/hoạt động tâm ý) làm nguồn... Và các hành này lấy gì làm nguồn, lấy gì làm gốc, từ đâu sinh ra và hiện khởi? Các hành lấy *vô minh* (ignorance/avijjā/sự thiếu hiểu biết) làm nguồn, lấy vô minh làm gốc; chúng được sinh ra và hiện khởi từ vô minh.
 
 <!--pg-->
-#### (VÒNG LUÂN HỒI: THAI NGHÉN ĐẾN TRƯỞNG THÀNH)
+#### (THUYẾT GIẢNG THUẬN CHIỀU VỀ SỰ KHỞI SINH)
 
-26\.  "Này các tỳ kheo, sự thai nghén của một phôi thai trong bụng mẹ diễn ra thông qua sự kết hợp của ba yếu tố. [^410] Ở đây, có sự kết hợp của cha và mẹ, nhưng không phải là thời kỳ mang thai của người mẹ, và chúng sinh tái sinh (being to be reborn - chúng sinh chuẩn bị tái sinh) [^411] không có mặt - trong trường hợp này không có [266] sự thai nghén của một phôi thai trong bụng mẹ. Ở đây, có sự kết hợp của cha và mẹ, và đó là thời kỳ mang thai của người mẹ, nhưng chúng sinh tái sinh không có mặt - trong trường hợp này cũng không có sự thai nghén của một phôi thai trong bụng mẹ. Nhưng khi có sự kết hợp của cha và mẹ, và đó là thời kỳ mang thai của người mẹ, và chúng sinh tái sinh có mặt, thông qua sự kết hợp của ba yếu tố này, sự thai nghén của một phôi thai trong bụng mẹ diễn ra.
-
-27\.  "Người mẹ sau đó mang phôi thai trong bụng mình trong chín hoặc mười tháng với nhiều lo lắng, như một gánh nặng. Sau đó, vào cuối chín hoặc mười tháng, người mẹ sinh con với nhiều lo lắng, như một gánh nặng. Sau đó, khi đứa trẻ được sinh ra, bà nuôi dưỡng nó bằng máu của chính mình; vì sữa mẹ được gọi là máu trong Luật của bậc Thánh.
-
-28\.  "Khi lớn lên và các giác quan trưởng thành, đứa trẻ chơi các trò chơi như cày đồ chơi, đánh đáo, nhào lộn, chong chóng đồ chơi, thước đo đồ chơi, xe đồ chơi, và cung tên đồ chơi.
-
-29\.  "Khi lớn lên và các giác quan trưởng thành [hơn nữa], người thanh niên tận hưởng bản thân mình được cung cấp và trang bị với năm món dục lạc, với các hình sắc nhận biết được bằng mắt... âm thanh nhận biết được bằng tai...mùi hương nhận biết được bằng mũi...vị nhận biết được bằng lưỡi...xúc chạm nhận biết được bằng thân mà được mong muốn, ao ước, dễ chịu và đáng yêu, liên quan đến dục vọng, và khơi gợi ham muốn.
+17\. "Như vậy, này các tỳ kheo, với vô minh làm điều kiện, các hành [khởi lên]; với các hành làm điều kiện, thức; với thức làm điều kiện, danh-sắc; với danh-sắc làm điều kiện, sáu giác quan; với sáu giác quan làm điều kiện, xúc chạm; với xúc chạm làm điều kiện, cảm thọ; với cảm thọ làm điều kiện, tham ái; với tham ái làm điều kiện, *dính mắc* (clinging/upādāna/chấp thủ); với dính mắc làm điều kiện, *sự hiện hữu* (being/bhava/hữu); với sự hiện hữu làm điều kiện, *sự sinh* (birth/jāti); với sự sinh làm điều kiện, *già và chết* (ageing and death/jarāmaraṇa), sầu, bi, khổ, ưu, não khởi lên. Như vậy là nguồn gốc của toàn bộ khổ uẩn này.
 
 <!--pg-->
-#### (SỰ TIẾP TỤC CỦA VÒNG LUÂN HỒI)
+#### (CÂU HỎI NGƯỢC CHIỀU VỀ SỰ KHỞI SINH)
 
-30\.  "Khi thấy một hình sắc bằng mắt, người ấy ham muốn nó nếu nó dễ chịu; người ấy không thích nó nếu nó không dễ chịu. Người ấy an trú với niệm thân (mindfulness of the body - chánh niệm về thân thể) không được thiết lập, với một tâm hạn hẹp, và người ấy không hiểu như thật sự giải thoát tâm và giải thoát bằng trí tuệ (deliverance of mind and deliverance by wisdom - giải thoát của tâm và giải thoát nhờ trí tuệ) nơi mà những trạng thái bất thiện, ác độc đó chấm dứt không còn dư sót. Bị cuốn vào việc yêu thích và chống đối, bất kỳ cảm giác nào người ấy cảm thấy - dù là lạc, khổ hay bất khổ bất lạc - người ấy thích thú trong cảm giác đó, chào đón nó, và duy trì sự bám víu vào nó. [^412] Khi người ấy làm như vậy, sự thích thú khởi lên trong người ấy. Sự thích thú trong các cảm giác chính là thủ. Với thủ làm điều kiện, hữu [hình thành]; với hữu làm điều kiện, sinh; với sinh làm điều kiện, già và chết, sầu, bi, khổ, ưu, não phát sinh. Như vậy là sự phát sinh của toàn bộ khối khổ đau này.
+18\. "'Với sự sinh làm điều kiện, già và chết': đã được nói như vậy. Này các tỳ kheo, có phải già và chết lấy sự sinh làm điều kiện hay không, hay các ông hiểu trường hợp này như thế nào?"
 
-"Khi nghe một âm thanh bằng tai...Khi ngửi một mùi hương bằng mũi...Khi nếm một vị bằng lưỡi...Khi chạm một vật xúc chạm bằng thân...Khi nhận thức một pháp bằng ý, [267] người ấy ham muốn nó nếu nó dễ chịu; người ấy không thích nó nếu nó không dễ chịu...Sự thích thú trong các cảm giác chính là thủ. Với thủ làm điều kiện, hữu [hình thành]; với hữu làm điều kiện, sinh; với sinh làm điều kiện, già và chết, sầu, bi, khổ, ưu, não phát sinh. Như vậy là sự phát sinh của toàn bộ khối khổ đau này.
+"Già và chết lấy sự sinh làm điều kiện, bạch Thế Tôn. Chúng con hiểu trường hợp này như vậy: 'Với sự sinh làm điều kiện, già và chết'."
+
+"'Với sự hiện hữu làm điều kiện, sự sinh': đã được nói như vậy. Này các tỳ kheo, có phải sự sinh lấy sự hiện hữu làm điều kiện hay không, hay các ông hiểu trường hợp này như thế nào?"
+
+"Sự sinh lấy sự hiện hữu làm điều kiện, [262] bạch Thế Tôn. Chúng con hiểu trường hợp này như vậy: 'Với sự hiện hữu làm điều kiện, sự sinh'."
+
+"'Với dính mắc làm điều kiện, sự hiện hữu': đã được nói như vậy. Này các tỳ kheo, có phải sự hiện hữu lấy dính mắc làm điều kiện hay không, hay các ông hiểu trường hợp này như thế nào?"
+
+"Sự hiện hữu lấy dính mắc làm điều kiện, bạch Thế Tôn. Chúng con hiểu trường hợp này như vậy: 'Với dính mắc làm điều kiện, sự hiện hữu'."
+
+"'Với tham ái làm điều kiện, dính mắc': đã được nói như vậy. Này các tỳ kheo, có phải dính mắc lấy tham ái làm điều kiện hay không, hay các ông hiểu trường hợp này như thế nào?"
+
+"Dính mắc lấy tham ái làm điều kiện, bạch Thế Tôn. Chúng con hiểu trường hợp này như vậy: 'Với tham ái làm điều kiện, dính mắc'."
+
+"'Với cảm thọ làm điều kiện, tham ái': đã được nói như vậy. Này các tỳ kheo, có phải tham ái lấy cảm thọ làm điều kiện hay không, hay các ông hiểu trường hợp này như thế nào?"
+
+"Tham ái lấy cảm thọ làm điều kiện, bạch Thế Tôn. Chúng con hiểu trường hợp này như vậy: 'Với cảm thọ làm điều kiện, tham ái'."
+
+"'Với xúc chạm làm điều kiện, cảm thọ': đã được nói như vậy. Này các tỳ kheo, có phải cảm thọ lấy xúc chạm làm điều kiện hay không, hay các ông hiểu trường hợp này như thế nào?"
+
+"Cảm thọ lấy xúc chạm làm điều kiện, bạch Thế Tôn. Chúng con hiểu trường hợp này như vậy: 'Với xúc chạm làm điều kiện, cảm thọ'."
+
+"'Với sáu giác quan làm điều kiện, xúc chạm': đã được nói như vậy. Này các tỳ kheo, có phải xúc chạm lấy sáu giác quan làm điều kiện hay không, hay các ông hiểu trường hợp này như thế nào?"
+
+"Xúc chạm lấy sáu giác quan làm điều kiện, bạch Thế Tôn. Chúng con hiểu trường hợp này như vậy: 'Với sáu giác quan làm điều kiện, xúc chạm'."
+
+"'Với danh-sắc làm điều kiện, sáu giác quan': đã được nói như vậy. Này các tỳ kheo, có phải sáu giác quan lấy danh-sắc làm điều kiện hay không, hay các ông hiểu trường hợp này như thế nào?"
+
+"Sáu giác quan lấy danh-sắc làm điều kiện, bạch Thế Tôn. Chúng con hiểu trường hợp này như vậy: 'Với danh-sắc làm điều kiện, sáu giác quan'."
+
+"'Với thức làm điều kiện, danh-sắc': đã được nói như vậy. Này các tỳ kheo, có phải danh-sắc lấy thức làm điều kiện hay không, hay các ông hiểu trường hợp này như thế nào?"
+
+"Danh-sắc lấy thức làm điều kiện, bạch Thế Tôn. Chúng con hiểu trường hợp này như vậy: 'Với thức làm điều kiện, danh-sắc'."
+
+"'Với các hành làm điều kiện, thức': đã được nói như vậy. Này các tỳ kheo, có phải thức lấy các hành làm điều kiện hay không, hay các ông hiểu trường hợp này như thế nào?"
+
+"Thức lấy các hành làm điều kiện, bạch Thế Tôn. Chúng con hiểu trường hợp này như vậy: 'Với các hành làm điều kiện, thức'."
+
+"'Với vô minh làm điều kiện, các hành': đã được nói như vậy. Này các tỳ kheo, có phải các hành lấy vô minh làm điều kiện hay không, hay các ông hiểu trường hợp này như thế nào?"
+
+"Các hành lấy vô minh làm điều kiện, bạch Thế Tôn. Chúng con hiểu trường hợp này như vậy: 'Với các hành làm điều kiện, vô minh'."
 
 <!--pg-->
-(SỰ CHẤM DỨT CỦA VÒNG LUÂN HỒI: TU TẬP TỪNG BƯỚC)
+#### (TÓM TẮT VỀ SỰ KHỞI SINH)
 
-31-38. "Ở đây, này các tỳ kheo, một Như Lai xuất hiện trên thế gian, bậc A-la-hán, Chánh Đẳng Giác...(như Kinh 27, §§11-18) [268-69]...vị ấy thanh tịnh tâm khỏi nghi ngờ. [270]
-
-39\.  "Sau khi từ bỏ năm triền cái (hindrances - chướng ngại) này, những khiếm khuyết của tâm làm suy yếu trí tuệ, hoàn toàn xa lìa các dục lạc, xa lìa các trạng thái bất thiện, vị ấy chứng và trú sơ thiền (jhāna - tầng thiền định)...Với sự lắng dịu của tầm và tứ, vị ấy chứng và trú nhị thiền...Với sự phai nhạt của hỷ...vị ấy chứng và trú tam thiền...Với sự từ bỏ lạc và khổ...vị ấy chứng và trú tứ thiền...với trạng thái bất khổ bất lạc và thanh tịnh của niệm nhờ xả.
+19\. "Lành thay, này các tỳ kheo. Các ông nói như vậy, và ta cũng nói như vậy: 'Khi cái này hiện hữu, cái kia hình thành; [263] với sự khởi lên của cái này, cái kia khởi lên.' [408](/kinhtrungbo/nanamoli-bodhi-vi/notes/038#408){.note} Nghĩa là, với vô minh làm điều kiện, các hành [khởi lên]; với các hành làm điều kiện, thức; với thức làm điều kiện, danh-sắc; với danh-sắc làm điều kiện, sáu giác quan; với sáu giác quan làm điều kiện, xúc chạm; với xúc chạm làm điều kiện, cảm thọ; với cảm thọ làm điều kiện, tham ái; với tham ái làm điều kiện, dính mắc; với dính mắc làm điều kiện, sự hiện hữu; với sự hiện hữu làm điều kiện, sự sinh; với sự sinh làm điều kiện, già và chết, sầu, bi, khổ, ưu, não khởi lên. Như vậy là nguồn gốc của toàn bộ khổ uẩn này.
 
 <!--pg-->
-#### (SỰ CHẤM DỨT CỦA VÒNG LUÂN HỒI: CHẤM DỨT HOÀN TOÀN)
+#### (THUYẾT GIẢNG THUẬN CHIỀU VỀ SỰ ĐOẠN DIỆT)
 
-40\.  "Khi thấy một hình sắc bằng mắt, vị ấy không ham muốn nó nếu nó dễ chịu; vị ấy không ghét bỏ nó nếu nó không dễ chịu. Vị ấy an trú với niệm thân được thiết lập, với một tâm vô lượng, và vị ấy hiểu như thật sự giải thoát tâm và giải thoát bằng trí tuệ nơi mà những trạng thái bất thiện, ác độc đó chấm dứt không còn dư sót. [^413] Sau khi từ bỏ việc yêu thích và chống đối, bất kỳ cảm giác nào vị ấy cảm thấy, dù là lạc, khổ hay bất khổ bất lạc, vị ấy không thích thú trong cảm giác đó, không chào đón nó, hoặc không duy trì sự bám víu vào nó. [^414] Khi vị ấy không làm như vậy, sự thích thú trong các cảm giác chấm dứt trong vị ấy. Với sự chấm dứt của sự thích thú của vị ấy, thủ chấm dứt; với sự chấm dứt của thủ, hữu chấm dứt; với sự chấm dứt của hữu, sinh chấm dứt; với sự chấm dứt của sinh, già và chết, sầu, bi, khổ, ưu, não chấm dứt. Như vậy là sự chấm dứt của toàn bộ khối khổ đau này.
+20\. "Nhưng với sự ly tham và đoạn diệt hoàn toàn của vô minh, các hành đoạn diệt; với sự đoạn diệt của các hành, thức đoạn diệt; với sự đoạn diệt của thức, danh-sắc đoạn diệt; với sự đoạn diệt của danh-sắc, sáu giác quan đoạn diệt; với sự đoạn diệt của sáu giác quan, xúc chạm đoạn diệt; với sự đoạn diệt của xúc chạm, cảm thọ đoạn diệt; với sự đoạn diệt của cảm thọ, tham ái đoạn diệt; với sự đoạn diệt của tham ái, dính mắc đoạn diệt; với sự đoạn diệt của dính mắc, sự hiện hữu đoạn diệt; với sự đoạn diệt của sự hiện hữu, sự sinh đoạn diệt; với sự đoạn diệt của sự sinh, già và chết, sầu, bi, khổ, ưu, não đoạn diệt. Như vậy là sự đoạn diệt của toàn bộ khổ uẩn này.
 
-"Khi nghe một âm thanh bằng tai...Khi ngửi một mùi hương bằng mũi...Khi nếm một vị bằng lưỡi...Khi chạm một vật xúc chạm bằng thân...Khi nhận thức một pháp bằng ý, vị ấy không ham muốn nó nếu nó dễ chịu; vị ấy không ghét bỏ nó nếu nó không dễ chịu...Với sự chấm dứt của sự thích thú của vị ấy, thủ chấm dứt; với sự chấm dứt của thủ, hữu chấm dứt; với sự chấm dứt của hữu, sinh chấm dứt; với sự chấm dứt của sinh, già và chết, sầu, bi, khổ, ưu, não chấm dứt. Như vậy là sự chấm dứt của toàn bộ khối khổ đau này.
+<!--pg-->
+#### (CÂU HỎI NGƯỢC CHIỀU VỀ SỰ ĐOẠN DIỆT)
+
+21\. "'Với sự đoạn diệt của sự sinh, sự đoạn diệt của già và chết': đã được nói như vậy. Này các tỳ kheo, có phải già và chết đoạn diệt với sự đoạn diệt của sự sinh hay không, hay các ông hiểu trường hợp này như thế nào?"
+
+"Già và chết đoạn diệt với sự đoạn diệt của sự sinh, bạch Thế Tôn. Chúng con hiểu trường hợp này như vậy: 'Với sự đoạn diệt của sự sinh, sự đoạn diệt của già và chết'."
+
+"'Với sự đoạn diệt của sự hiện hữu, sự đoạn diệt của sự sinh'...'Với sự đoạn diệt của dính mắc, sự đoạn diệt của sự hiện hữu'...'Với sự đoạn diệt của tham ái, sự đoạn diệt của dính mắc'...'Với sự đoạn diệt của cảm thọ, sự đoạn diệt của tham ái'...'Với sự đoạn diệt của xúc chạm, sự đoạn diệt của cảm thọ' [264]...'Với sự đoạn diệt của sáu giác quan, sự đoạn diệt của xúc chạm'...'Với sự đoạn diệt của danh-sắc, sự đoạn diệt của sáu giác quan'...'Với sự đoạn diệt của thức, sự đoạn diệt của danh-sắc'...'Với sự đoạn diệt của các hành, sự đoạn diệt của thức'...'Với sự đoạn diệt của vô minh, sự đoạn diệt của các hành': đã được nói như vậy. Này các tỳ kheo, có phải các hành đoạn diệt với sự đoạn diệt của vô minh hay không, hay các ông hiểu trường hợp này như thế nào?"
+
+"Các hành đoạn diệt với sự đoạn diệt của vô minh, bạch Thế Tôn. Chúng con hiểu trường hợp này như vậy: 'Với sự đoạn diệt của vô minh, sự đoạn diệt của các hành'."
+
+<!--pg-->
+#### (TÓM TẮT VỀ SỰ ĐOẠN DIỆT)
+
+22\. "Lành thay, này các tỳ kheo. Các ông nói như vậy, và ta cũng nói như vậy: 'Khi cái này không hiện hữu - cái kia không hình thành; với sự đoạn diệt của cái này - cái kia đoạn diệt.' Hay là, với sự đoạn diệt của vô minh, các hành đoạn diệt; với sự đoạn diệt của các hành, thức đoạn diệt; với sự đoạn diệt của thức, danh-sắc đoạn diệt; với sự đoạn diệt của danh-sắc, sáu giác quan đoạn diệt; với sự đoạn diệt của sáu giác quan, xúc chạm đoạn diệt; với sự đoạn diệt của xúc chạm, cảm thọ đoạn diệt; với sự đoạn diệt của cảm thọ, tham ái đoạn diệt; với sự đoạn diệt của tham ái, dính mắc đoạn diệt; với sự đoạn diệt của dính mắc, sự hiện hữu đoạn diệt; với sự đoạn diệt của sự hiện hữu, sự sinh đoạn diệt; với sự đoạn diệt của sự sinh, già và chết, sầu, bi, khổ, ưu, não đoạn diệt. Như vậy là sự đoạn diệt của toàn bộ khổ uẩn này.
+
+<!--pg-->
+#### (HIỂU BIẾT CÁ NHÂN)
+
+23\. "Này các tỳ kheo, khi biết và thấy như vậy, [265] các ông có chạy về quá khứ như vầy: 'Trong quá khứ ta có hiện hữu không? Trong quá khứ ta không hiện hữu chăng? Trong quá khứ ta là gì? Trong quá khứ ta như thế nào? Trong quá khứ, sau khi là gì, ta đã trở thành gì?' không?" - "Thưa không, bạch Thế Tôn." - "Khi biết và thấy như vậy, các ông có chạy tới tương lai như vầy: 'Trong tương lai ta sẽ hiện hữu không? Trong tương lai ta sẽ không hiện hữu chăng? Trong tương lai ta sẽ là gì? Trong tương lai ta sẽ như thế nào? Trong tương lai, sau khi là gì, ta sẽ trở thành gì?' không?" - "Thưa không, bạch Thế Tôn." - "Khi biết và thấy như vậy, các ông có còn hoang mang trong nội tâm về hiện tại như vầy: 'Ta có hiện hữu không? Ta không hiện hữu chăng? Ta là gì? Ta như thế nào? Chúng sinh này từ đâu đến? Nó sẽ đi về đâu?' không?" [409](/kinhtrungbo/nanamoli-bodhi-vi/notes/038#409){.note} - "Thưa không, bạch Thế Tôn."
+
+24\. "Này các tỳ kheo, khi biết và thấy như vậy, các ông có nói: 'Vì Bậc Đạo Sư được chúng tôi tôn trọng, chúng tôi nói như vậy là vì tôn trọng Bậc Đạo Sư' không?" - "Thưa không, bạch Thế Tôn." - "Khi biết và thấy như vậy, các ông có nói: 'Vị Sa-môn nói điều này, và các sa-môn [khác] cũng nói vậy, nhưng chúng tôi không nói như vậy' không?" - "Thưa không, bạch Thế Tôn." - "Khi biết và thấy như vậy, các ông có thừa nhận một đạo sư nào khác không?" - "Thưa không, bạch Thế Tôn." - "Khi biết và thấy như vậy, các ông có quay lại với các nghi lễ, những cuộc tranh luận ồn ào, và các điềm báo tốt lành của các sa-môn và bà-la-môn bình thường, coi đó là cốt lõi [của đời sống phạm hạnh] không?" - "Thưa không, bạch Thế Tôn." - "Có phải các ông chỉ nói về những gì các ông đã tự mình biết, tự mình thấy, và tự mình hiểu không?" - "Thưa vâng, bạch Thế Tôn."
+
+25\. "Lành thay, này các tỳ kheo. Các ông đã được ta dẫn dắt bằng Giáo pháp này, một giáo pháp *thiết thực hiện tại* (visible here and now/sanditthiko), *không có thời gian* (immediately effective/akāliko/vượt thời gian), mời gọi đến để thấy, có khả năng hướng thượng, để cho người trí tự mình chứng nghiệm. Chính vì điều này mà đã có lời dạy: 'Này các tỳ kheo, Giáo pháp này là thiết thực hiện tại, không có thời gian, mời gọi đến để thấy, có khả năng hướng thượng, để cho người trí tự mình chứng nghiệm.'
+
+<!--pg-->
+#### (VÒNG LUÂN HỒI: TỪ THỤ THAI ĐẾN TRƯỞNG THÀNH)
+
+26\. "Này các tỳ kheo, sự thụ thai của một phôi thai trong tử cung diễn ra thông qua sự kết hợp của ba yếu tố. [410](/kinhtrungbo/nanamoli-bodhi-vi/notes/038#410){.note} Ở đây, có sự kết hợp của cha và mẹ, nhưng không phải thời kỳ thuận lợi của người mẹ, và *chúng sinh sắp tái sinh*[411](/kinhtrungbo/nanamoli-bodhi-vi/notes/038#411){.note} (being to be reborn/gandhabba/hương ấm) không có mặt - trong trường hợp này không có [266] sự thụ thai của phôi thai trong tử cung. Ở đây, có sự kết hợp của cha và mẹ, và là thời kỳ thuận lợi của người mẹ, nhưng chúng sinh sắp tái sinh không có mặt - trong trường hợp này cũng không có sự thụ thai của phôi thai trong tử cung. Nhưng khi có sự kết hợp của cha và mẹ, và là thời kỳ thuận lợi của người mẹ, và chúng sinh sắp tái sinh có mặt, thông qua sự kết hợp của ba yếu tố này, sự thụ thai của phôi thai trong tử cung diễn ra.
+
+27\. "Người mẹ sau đó mang phôi thai trong bụng suốt chín hoặc mười tháng với nhiều lo âu, như một gánh nặng. Rồi, vào cuối chín hoặc mười tháng, người mẹ sinh con với nhiều lo âu, như một gánh nặng. Khi đứa trẻ ra đời, bà nuôi dưỡng nó bằng chính máu của mình; vì sữa mẹ được gọi là máu trong Luật của Bậc Thánh.
+
+28\. "Khi lớn lên và các căn đã trưởng thành, đứa trẻ chơi những trò chơi như cày đồ chơi, đánh khăng, nhào lộn, chong chóng đồ chơi, đồ đong đo đồ chơi, xe đồ chơi, và cung tên đồ chơi.
+
+29\. "Khi lớn lên và các căn đã trưởng thành [hơn nữa], chàng thanh niên tận hưởng sự cung phụng và đầy đủ năm món dục lạc, với các hình sắc nhận biết qua mắt... âm thanh nhận biết qua tai... mùi hương nhận biết qua mũi... vị nhận biết qua lưỡi... vật xúc chạm nhận biết qua thân mà đáng khao khát, đáng mong muốn, dễ chịu và đáng yêu, liên hệ đến dục vọng, và khơi gợi lòng tham.
+
+<!--pg-->
+#### (SỰ TIẾP DIỄN CỦA VÒNG LUÂN HỒI)
+
+30\. "Khi thấy một hình sắc bằng mắt, người ấy tham đắm nếu nó dễ chịu; ghét bỏ nếu nó khó chịu. Người ấy sống với niệm thân không được thiết lập, với một tâm trí hạn hẹp, và không hiểu đúng như thật về *tâm giải thoát* (deliverance of mind/cetovimutti) và *tuệ giải thoát* (deliverance by wisdom/paññāvimutti), nơi mà các ác pháp bất thiện diệt tận không còn dư tàn. Bận rộn với sự ưa thích và chống đối như vậy, bất cứ cảm thọ nào người ấy cảm nhận - dù là dễ chịu, đau đớn hay không-đau-đớn-cũng-không-dễ-chịu - người ấy đều thích thú cảm thọ đó, hoan nghênh nó, và tiếp tục nắm giữ nó. [412](/kinhtrungbo/nanamoli-bodhi-vi/notes/038#412){.note} Khi làm như vậy, sự thích thú khởi lên trong người ấy. Sự thích thú trong các cảm thọ chính là dính mắc. Với dính mắc làm điều kiện, sự hiện hữu [khởi lên]; với sự hiện hữu làm điều kiện, sự sinh; với sự sinh làm điều kiện, già và chết, sầu, bi, khổ, ưu, não khởi lên. Như vậy là nguồn gốc của toàn bộ khổ uẩn này.
+
+"Khi nghe một âm thanh bằng tai... Khi ngửi một mùi hương bằng mũi... Khi nếm một vị bằng lưỡi... Khi chạm một vật xúc chạm bằng thân... Khi nhận biết một pháp bằng ý, [267] người ấy tham đắm nếu nó dễ chịu; ghét bỏ nếu nó khó chịu... Sự thích thú trong các cảm thọ chính là dính mắc. Với dính mắc làm điều kiện, sự hiện hữu [khởi lên]; với sự hiện hữu làm điều kiện, sự sinh; với sự sinh làm điều kiện, già và chết, sầu, bi, khổ, ưu, não khởi lên. Như vậy là nguồn gốc của toàn bộ khổ uẩn này.
+
+<!--pg-->
+#### (SỰ CHẤM DỨT CỦA VÒNG LUÂN HỒI: LỘ TRÌNH TU TẬP)
+
+31-38. "Ở đây, này các tỳ kheo, một vị *Như Lai* (Tathāgata/Đức Phật) xuất hiện ở đời, bậc A-la-hán, Chánh Đẳng Giác... (như [Kinh 27, §§11-18](http://localhost:5173/kinhtrungbo/c-nm-tmc-vi/027-tieu-kinh-du-dau-chan-voi.html) ) [268-69]... vị ấy thanh lọc tâm mình khỏi nghi ngờ. [270]
+
+39\. "Sau khi đã đoạn trừ *năm chướng ngại* (five hindrances/nīvaraṇa/triền cái) này, những phiền não của tâm làm suy yếu trí tuệ, hoàn toàn ly dục, ly các bất thiện pháp, vị ấy chứng và trú *thiền* (jhāna/tầng thiền) thứ nhất... Với sự tịnh chỉ tầm và tứ, vị ấy chứng và trú thiền thứ hai... Với sự ly tham đối với hỷ... vị ấy chứng và trú thiền thứ ba... Với sự xả bỏ lạc và khổ... vị ấy chứng và trú thiền thứ tư... trạng thái không khổ không lạc, xả niệm thanh tịnh.
+
+<!--pg-->
+#### (SỰ CHẤM DỨT CỦA VÒNG LUÂN HỒI: ĐOẠN DIỆT HOÀN TOÀN)
+
+40\. "Khi thấy một hình sắc bằng mắt, vị ấy không tham đắm nếu nó dễ chịu; không ghét bỏ nếu nó khó chịu. Vị ấy sống với niệm thân được thiết lập, với một tâm trí vô lượng, và hiểu đúng như thật về tâm giải thoát và tuệ giải thoát, nơi mà các ác pháp bất thiện diệt tận không còn dư tàn. [413](/kinhtrungbo/nanamoli-bodhi-vi/notes/038#413){.note} Sau khi đã đoạn trừ sự ưa thích và chống đối như vậy, bất cứ cảm thọ nào vị ấy cảm nhận, dù là dễ chịu, đau đớn hay không-đau-đớn-cũng-không-dễ-chịu, vị ấy không thích thú cảm thọ đó, không hoan nghênh nó, hay tiếp tục nắm giữ nó. [414](/kinhtrungbo/nanamoli-bodhi-vi/notes/038#414){.note} Vì không làm như vậy, sự thích thú trong các cảm thọ diệt tận nơi vị ấy. Với sự đoạn diệt của thích thú, dính mắc đoạn diệt; với sự đoạn diệt của dính mắc, sự hiện hữu đoạn diệt; với sự đoạn diệt của sự hiện hữu, sự sinh đoạn diệt; với sự đoạn diệt của sự sinh, già và chết, sầu, bi, khổ, ưu, não đoạn diệt. Như vậy là sự đoạn diệt của toàn bộ khổ uẩn này.
+
+"Khi nghe một âm thanh bằng tai... Khi ngửi một mùi hương bằng mũi... Khi nếm một vị bằng lưỡi... Khi chạm một vật xúc chạm bằng thân... Khi nhận biết một pháp bằng ý, vị ấy không tham đắm nếu nó dễ chịu; không ghét bỏ nếu nó khó chịu... Với sự đoạn diệt của thích thú, dính mắc đoạn diệt; với sự đoạn diệt của dính mắc, sự hiện hữu đoạn diệt; với sự đoạn diệt của sự hiện hữu, sự sinh đoạn diệt; với sự đoạn diệt của sự sinh, già và chết, sầu, bi, khổ, ưu, não đoạn diệt. Như vậy là sự đoạn diệt của toàn bộ khổ uẩn này.
 
 <!--pg-->
 #### (KẾT LUẬN)
 
-41\.  "Này các tỳ kheo, hãy ghi nhớ sự giải thoát này thông qua sự đoạn tận ái như đã được Ta giảng dạy một cách ngắn gọn. Nhưng tỳ kheo Satti, [271] con trai của người đánh cá, bị mắc kẹt trong một tấm lưới ái rộng lớn, trong xiềng xích của ái."
+41\. "Này các tỳ kheo, hãy ghi nhớ sự giải thoát nhờ đoạn trừ tham ái này mà ta đã thuyết giảng vắn tắt. Nhưng tỳ kheo Satti, [271] con của người đánh cá, đang bị mắc vào một lưới tham ái rộng lớn, trong sự trói buộc của tham ái."
 
-Đó là những gì Thế Tôn đã nói. Các vị tỳ kheo hoan hỷ và tán thán lời của Thế Tôn.
+Đó là những gì Thế Tôn đã thuyết giảng. Các tỳ kheo hoan hỷ và tín thọ lời dạy của Thế Tôn.
 
 <!--pg-->
-Từ ngữ:
-- tỳ kheo / bhikkhu / monk: Nhà sư, người nam xuất gia tu hành theo Phật giáo.
-- do duyên sinh / paṭiccasamuppāda / dependently arisen: Sự phát sinh, tồn tại của một pháp (hiện tượng) phụ thuộc vào các pháp (điều kiện) khác.
-- thức ăn / āhāra / nutriment: Bốn yếu tố nuôi dưỡng sự sống, bao gồm: vật thực (thức ăn vật lý), xúc (sự tiếp xúc), tư niệm (ý chí), và thức (sự nhận biết).
-- ái / taṇhā / craving: Sự thèm khát, ham muốn, một trong những nguyên nhân chính của khổ đau.
-- thủ / upādāna / clinging: Sự bám víu, chấp trước vào các đối tượng của giác quan và các quan điểm sai lầm.
-- lục nhập / saḷāyatana / sixfold base: Sáu căn (mắt, tai, mũi, lưỡi, thân, ý) và sáu trần (sắc, thanh, hương, vị, xúc, pháp) tương ứng.
-- danh sắc / nāmarūpa / mentality-materiality: Tinh thần (cảm giác, tri giác, ý chí,...) và vật chất (thân thể).
+**Từ ngữ:**
+
+- Thế Tôn / Bhagavā / Blessed One: Một danh hiệu tôn kính dành cho Đức Phật, bậc giác ngộ hoàn toàn.
+- quan điểm sai lầm / pāpakadiṭṭhi / pernicious view: Tà kiến, cái nhìn lệch lạc trái với sự thật (như cho rằng thức là thường hằng bất biến).
+- tỳ kheo / bhikkhu / monk: Người nam xuất gia tu hành trọn vẹn theo giáo pháp của Đức Phật.
+- thức / viññāṇa / consciousness: Sự nhận biết của tâm đối với các đối tượng (qua mắt, tai, mũi, lưỡi, thân, ý).
+- vòng luân hồi / saṃsāra / round of rebirths: Sự trôi lăn liên tục trong các kiếp sống sinh tử.
+- do duyên mà khởi lên / paṭiccasamuppanna / dependently arisen: Nguyên lý cho rằng mọi sự vật hiện tượng sinh ra đều do các điều kiện kết hợp, không tự nhiên mà có (Duyên khởi).
+- điều kiện / paccaya / condition: Yếu tố cần thiết để một sự vật khác sinh khởi (Duyên).
+- gắn bó / upādāna / adhering: Sự bám chặt, chấp thủ vào một đối tượng hay quan điểm.
+- kẻ lầm lạc / moghapurisa / misguided man: Người ngu si, hiểu sai giáo pháp, tự gây hại cho mình (thường dùng để quở trách).
+- nhãn thức / cakkhuviññāṇa / eye-consciousness: Sự nhận biết hình ảnh thông qua con mắt.
+- thức ăn / āhāra / nutriment: Những yếu tố nuôi dưỡng và duy trì sự sống (bao gồm thức ăn vật chất, xúc chạm, ý chí và thức).
+- thức ăn vật chất / kabaḷīkārāhāra / physical food: Đồ ăn thức uống nuôi dưỡng thân thể (Đoàn thực).
+- xúc chạm / phassa / contact: Sự gặp gỡ giữa căn (giác quan), trần (đối tượng) và thức (Xúc).
+- tác ý / manosañcetanā / mental volition: Ý muốn, sự hướng tâm có chủ đích (Tư niệm thực).
+- tham ái / taṇhā / craving: Sự khao khát, ham muốn mãnh liệt đối với các đối tượng giác quan hoặc sự hiện hữu.
+- cảm thọ / vedanā / feeling: Cảm giác vui, buồn hoặc trung tính khi tiếp xúc với đối tượng.
+- sáu giác quan / saḷāyatana / sixfold base: Sáu cửa ngõ tiếp nhận thông tin (mắt, tai, mũi, lưỡi, thân, ý) - Lục nhập.
+- danh-sắc / nāmarūpa / mentality-materiality: Sự kết hợp giữa tâm (danh) và thân (sắc).
+- các hành / saṅkhāra / formations: Các hoạt động tâm ý tạo tác, năng lực kiến tạo sự sống.
+- vô minh / avijjā / ignorance: Sự thiếu hiểu biết về Tứ Diệu Đế, không thấy rõ bản chất thật của sự vật.
+- dính mắc / upādāna / clinging: Sự nắm giữ chặt chẽ, chấp thủ (cấp độ mạnh hơn của tham ái).
+- sự hiện hữu / bhava / being: Trạng thái tồn tại, sự trở thành trong một cõi giới nào đó (Hữu).
+- sự sinh / jāti / birth: Sự ra đời, xuất hiện của các uẩn.
+- già và chết / jarāmaraṇa / ageing and death: Sự suy tàn và chấm dứt của thọ mạng.
+- thiết thực hiện tại / sanditthiko / visible here and now: Giáo pháp có thể thấy và kiểm chứng ngay trong đời sống này.
+- không có thời gian / akāliko / immediately effective: Giáo pháp mang lại kết quả ngay lập tức, không phải chờ đợi (vượt thời gian).
+- chúng sinh sắp tái sinh / gandhabba / being to be reborn: Thần thức hay hương ấm chuẩn bị đi đầu thai.
+- tâm giải thoát / cetovimutti / deliverance of mind: Sự giải thoát của tâm khỏi các phiền não nhờ định (thiền định).
+- tuệ giải thoát / paññāvimutti / deliverance by wisdom: Sự giải thoát nhờ trí tuệ thấu suốt bản chất vô thường, vô ngã.
+- Như Lai / Tathāgata: Danh hiệu Đức Phật tự xưng, nghĩa là "Người đã đến như vậy" hoặc "Người đã đi như vậy" (đến/đi từ chân lý).
+- năm chướng ngại / nīvaraṇa / five hindrances: Năm trạng thái tâm lý cản trở thiền định và trí tuệ (tham dục, sân hận, hôn trầm, trào cử, hoài nghi).
+- thiền / jhāna: Trạng thái tâm tập trung sâu lắng, vắng lặng các phiền não.

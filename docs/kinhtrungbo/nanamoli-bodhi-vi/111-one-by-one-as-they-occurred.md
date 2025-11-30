@@ -97,8 +97,8 @@ Từ ngữ:
 - Diệt Thọ Tưởng Định / Saññāvedayitanirodha / cessation of perception and feeling: Trạng thái thiền định siêu thế, nơi cảm giác (thọ) và nhận thức (tưởng) tạm thời chấm dứt hoàn toàn, chỉ có bậc Bất Lai và A-la-hán mới chứng đạt được.
 - Lậu hoặc / āsava / taints: Những ô nhiễm tinh thần sâu kín làm chúng sinh trôi lăn trong luân hồi, gồm dục lậu (tham ái dục lạc), hữu lậu (tham ái sự tồn tại), vô minh lậu (không thấy rõ Tứ Diệu Đế), và kiến lậu (tà kiến).
 - Thánh giới / ariya sīla / noble virtue: Giới hạnh trong sạch, hoàn hảo, tự nhiên của bậc Thánh, không cần cố gắng giữ gìn.
-- Thánh định / ariya samādhi / noble concentration: Định tâm vững chắc, đúng đắn, thuộc về Bát Chánh Đạo của bậc Thánh.
-- Thánh tuệ / ariya paññā / noble wisdom: Trí tuệ thấy rõ Tứ Diệu Đế, bản chất vô thường, khổ, vô ngã của thực tại, thuộc về Bát Chánh Đạo của bậc Thánh.
+- Thánh định / ariya samādhi / noble concentration: Định tâm vững chắc, đúng đắn, thuộc về Tám Bước Thiện (Bát Chánh Đạo) của bậc Thánh.
+- Thánh tuệ / ariya paññā / noble wisdom: Trí tuệ thấy rõ Tứ Diệu Đế, bản chất vô thường, khổ, vô ngã của thực tại, thuộc về Tám Bước Thiện (Bát Chánh Đạo) của bậc Thánh.
 - Thánh giải thoát / ariya vimutti / noble deliverance: Sự giải thoát hoàn toàn khỏi mọi phiền não, lậu hoặc và khổ đau của bậc Thánh A-la-hán.
 - Pháp / Dhamma / Dhamma: Có nhiều nghĩa: (1) Giáo pháp của Đức Phật; (2) Chân lý tối hậu; (3) Thực tại như nó là; (4) Các hiện tượng tâm-vật lý; (5) Bổn phận, quy luật tự nhiên.
 - Bánh Xe Pháp / Dhammacakka / Wheel of the Dhamma: Biểu tượng cho sự giảng dạy và truyền bá giáo pháp của Đức Phật, bắt đầu từ bài kinh đầu tiên (Kinh Chuyển Pháp Luân).

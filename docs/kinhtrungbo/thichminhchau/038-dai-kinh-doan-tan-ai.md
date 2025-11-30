@@ -34,6 +34,7 @@ Tỷ-kheo Sati, con của người đánh cá, dù được các Tỷ-kheo ấy 
 -- Thật sự là vậy, chư Hiền. Theo như tôi hiểu pháp Thế Tôn thuyết giảng thì thức này dong ruỗi, luân
 chuyển, nhưng không đổi khác.
 
+
 Vì các Tỷ-kheo ấy không thể làm cho Tỷ-kheo Sati, con người đánh cá từ bỏ ác tà kiến ấy, nên các vị ấy
 đến chỗ Thế Tôn ở, khi đến xong, đảnh lễ Ngài rồi ngồi xuống một bên. Sau khi ngồi xuống một bên,
 những Tỷ-kheo ấy bạch Thế Tôn:
@@ -69,6 +70,7 @@ thảo luận, vẫn nói lên ác tà kiến ấy, cứng đầu, chấp chặt
 Bạch Thế Tôn, vì chúng con không thể làm cho Tỷ-kheo Sati, con của người đánh cá, từ bỏ ác tà kiến
 ấy, nên chúng con đến hỏi Thế Tôn ý nghĩa này."
 
+<!--pg-->
 Rồi Thế Tôn cho gọi là một Tỷ-kheo khác:
 
 -- Này Tỷ-kheo, hãy đi và nhân danh Ta, gọi Tỷ-kheo Sati, con của người đánh cá: "Hiền giả Sati, bậc
@@ -90,7 +92,7 @@ bên:
 -- Này Sati, có thật chăng, Ông khởi lên ác tà kiến như sau: "Theo như tôi hiểu pháp Thế Tôn thuyết
 giảng, thì thức này dong ruỗi, luân chuyển nhưng không đổi khác"?
 
--- Thật sư là vậy, bạch Thế Tôn. Theo như con hiểu pháp Thế Tôn thuyết giảng, thì thức này dong ruỗi,
+-- Thật sự là vậy, bạch Thế Tôn. Theo như con hiểu pháp Thế Tôn thuyết giảng, thì thức này dong ruỗi,
 luân chuyển nhưng không đổi khác.
 
 -- Này Sati, thế nào là thức ấy.
@@ -426,7 +428,7 @@ vô minh diệt nên hành diệt.
 <!--pg-->
 ***(Tóm lược về Diệt)***
 
-- Lành thay, này các Tỷ-kheo! Các Ông nói như vậy và Ta cũng nói như vậy: "Cái này không có nên cái
+-- Lành thay, này các Tỷ-kheo! Các Ông nói như vậy và Ta cũng nói như vậy: "Cái này không có nên cái
 kia không có, cái này diệt nên cái kia diệt", như vô minh diệt nên hành diệt, hành diệt nên thức diệt, thức
 diệt nên danh sắc diệt, danh sắc diệt nên sáu nhập diệt, sáu nhập diệt nên xúc diệt, xúc diệt nên thọ diệt,
 thọ diệt nên ái diệt, ái diệt nên thủ diệt, thủ diệt nên hữu diệt, hữu diệt nên sanh diệt, sanh diệt nên già,
@@ -515,7 +517,6 @@ Khi thấy sắc bằng mắt, người đó tham ái đối với sắc đẹp,
 sống niệm không an trú trên thân, với một tâm nhỏ mọn. Người đó không như thật tuệ tri tâm giải thoát,
 tuệ giải thoát, chính nhờ chúng mà các ác bất thiện pháp của người đó được trừ diệt, không có dư tàn.
 Như vậy, đối diện với thân, sơ (thuận, nghịch) có cảm thọ nào khởi lên: lạc thọ, khổ thọ, hay bất khổ bất
-
 lạc thọ, người đó tùy hỷ, hoan nghênh, tham trước thọ ấy. Vì tùy hỷ, hoan nghênh, tham trước cảm thọ
 ấy, nên dục sanh hỷ, có tâm dục hỷ đối với những cảm thọ ấy, nên dục hỷ sanh, có tâm dục hỷ đối với
 những cảm thọ ấy, tức là chấp thủ. Do duyên thủ nên hữu sanh; do duyên hữu nên sanh sinh khởi; do

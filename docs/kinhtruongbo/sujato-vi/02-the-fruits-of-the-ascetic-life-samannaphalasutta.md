@@ -291,9 +291,9 @@ Cũng vậy, chừng nào năm chướng ngại này chưa được từ bỏ b�
 
 Nhưng khi năm chướng ngại này được từ bỏ bên trong mình, một vị Tỷ-kheo coi đây là sự thoát khỏi nợ nần, sức khỏe tốt, sự giải thoát khỏi nhà tù, sự giải phóng, và cuối cùng là một nơi trú ẩn an toàn.[241](/kinhtruongbo/sujato-vi/notes/02#241){.note}
 
+<!--pg-->
 Thấy rằng các chướng ngại đã được từ bỏ trong mình, *hân hoan* (joy / niềm vui ban đầu, sự phấn khởi) khởi lên. Khi hân hoan, *niềm vui* (rapture / *hỷ*, niềm vui thích, sự sung sướng mạnh mẽ hơn hân hoan) khởi lên. Khi tâm tràn đầy niềm vui, thân trở nên *khinh an* (tranquility / sự yên ổn, nhẹ nhàng của thân và tâm). Khi thân khinh an, vị ấy cảm thấy *an ổn* (bliss / *lạc*, sự sung sướng, hạnh phúc). Và khi an ổn, tâm trở nên *định tĩnh* (immersed / *samādhi*, trạng thái tâm tập trung cao độ, không dao động).[242](/kinhtruongbo/sujato-vi/notes/02#242){.note}
 
-<!--pg-->
 ##### 4.3.2.5. Sơ Thiền
 
 Hoàn toàn ly cách *dục lạc* (sensual pleasures / những thú vui của các giác quan), ly cách *bất thiện pháp* (unskillful qualities / các trạng thái tâm tiêu cực, không lành mạnh), vị ấy nhập và trú trong *sơ thiền* (first absorption / tầng thiền thứ nhất), có niềm vui và an ổn do ly dục sinh, trong khi *có tầm có tứ*.[243](/kinhtruongbo/sujato-vi/notes/02#243){.note} Vị ấy thấm nhuần, tẩm ướt, làm đầy và lan tỏa khắp thân mình bằng niềm vui và an ổn do ly dục sinh. Không có phần nào của thân thể không được lan tỏa bởi niềm vui và an ổn do ly dục sinh.[244](/kinhtruongbo/sujato-vi/notes/02#244){.note}

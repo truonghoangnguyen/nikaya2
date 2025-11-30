@@ -45,7 +45,7 @@
 
 22\. "Và này các Hiền giả, thế nào là sự thật cao quý về sự chấm dứt khổ? Đó là sự phai nhạt và chấm dứt không còn dư tàn (remainderless fading away and ceasing - sự đoạn diệt hoàn toàn không còn dấu vết), sự từ bỏ (giving up), sự buông bỏ (relinquishing), sự phóng thích (letting go), và sự chối bỏ (rejecting) chính tham ái đó. Đây gọi là sự thật cao quý về sự chấm dứt khổ.
 
-23\. "Và này các Hiền giả, thế nào là sự thật cao quý về con đường dẫn đến sự chấm dứt khổ? Đó chính là Bát Chánh Đạo này; nghĩa là, Chánh Kiến, Chánh Tư Duy, Chánh Ngữ, Chánh Nghiệp, Chánh Mạng, Chánh Tinh Tấn, Chánh Niệm, và Chánh Định.
+23\. "Và này các Hiền giả, thế nào là sự thật cao quý về con đường dẫn đến sự chấm dứt khổ? Đó chính là Tám Bước Thiện (Bát Chánh Đạo) này; nghĩa là, Chánh Kiến, Chánh Tư Duy, Chánh Ngữ, Chánh Nghiệp, Chánh Mạng, Chánh Tinh Tấn, Chánh Niệm, và Chánh Định.
 
 24\. "Và này các Hiền giả, thế nào là Chánh Kiến? Tri kiến (knowledge - sự hiểu biết) về khổ, tri kiến về nguồn gốc của khổ, tri kiến về sự chấm dứt khổ, và tri kiến về con đường dẫn đến sự chấm dứt khổ - đây gọi là Chánh Kiến.
 
@@ -71,10 +71,10 @@
 
 <!--pg-->
 Từ ngữ:
-- Bốn Sự Thật Cao Quý / cattāri ariya saccāni / Four Noble Truths: Bốn sự thật nền tảng mà Đức Phật đã giác ngộ và giảng dạy, bao gồm: Sự thật về Khổ (dukkha), Sự thật về Nguồn gốc của Khổ (samudaya - tức tham ái), Sự thật về Sự Chấm dứt Khổ (nirodha - tức Niết Bàn), và Sự thật về Con đường dẫn đến Sự Chấm dứt Khổ (magga - tức Bát Chánh Đạo).
+- Bốn Sự Thật Cao Quý / cattāri ariya saccāni / Four Noble Truths: Bốn sự thật nền tảng mà Đức Phật đã giác ngộ và giảng dạy, bao gồm: Sự thật về Khổ (dukkha), Sự thật về Nguồn gốc của Khổ (samudaya - tức tham ái), Sự thật về Sự Chấm dứt Khổ (nirodha - tức Niết Bàn), và Sự thật về Con đường dẫn đến Sự Chấm dứt Khổ (magga - tức Tám Bước Thiện (Bát Chánh Đạo)).
 - Năm uẩn chấp thủ / pañcupādānakkhandhā / Five aggregates affected by clinging: Năm nhóm yếu tố tạo thành kinh nghiệm về một chúng sinh mà sự bám víu, chấp thủ thường hướng đến, bao gồm: Sắc (thân thể, vật chất), Thọ (cảm giác), Tưởng (nhận thức, tri giác), Hành (các hoạt động tâm lý, ý chí), và Thức (ý thức). Sự chấp thủ vào năm uẩn này là nguồn gốc của khổ đau.
 - Tham ái / taṇhā / Craving: Sự khao khát, ham muốn mãnh liệt, là nguyên nhân chính dẫn đến khổ đau và vòng luân hồi. Bao gồm ba loại: dục ái (khao khát các đối tượng giác quan), hữu ái (khao khát tồn tại, trở thành), và phi hữu ái (khao khát không tồn tại, tự hủy diệt).
-- Bát Chánh Đạo / ariya aṭṭhaṅgika magga / Noble Eightfold Path: Con đường gồm tám yếu tố đúng đắn dẫn đến sự chấm dứt khổ đau và đạt Niết Bàn. Tám yếu tố là: Chánh Kiến, Chánh Tư Duy, Chánh Ngữ, Chánh Nghiệp, Chánh Mạng, Chánh Tinh Tấn, Chánh Niệm, và Chánh Định.
+- Tám Bước Thiện (Bát Chánh Đạo) / ariya aṭṭhaṅgika magga / Noble Eightfold Path: Con đường gồm tám yếu tố đúng đắn dẫn đến sự chấm dứt khổ đau và đạt Niết Bàn. Tám yếu tố là: Chánh Kiến, Chánh Tư Duy, Chánh Ngữ, Chánh Nghiệp, Chánh Mạng, Chánh Tinh Tấn, Chánh Niệm, và Chánh Định.
 - Tỳ kheo / bhikkhu / Bhikkhu (monk): Nhà sư Phật giáo nam đã thọ giới cụ túc (giới luật đầy đủ), sống đời sống xuất gia, tuân thủ giới luật và thực hành lời Phật dạy để đạt giải thoát.
 - Thiền na / jhāna / Jhāna (meditative absorption): Các tầng thiền định sâu, trạng thái tâm nhập định cao độ đạt được qua thực hành thiền định (samatha). Đặc trưng bởi sự vắng lặng các chướng ngại tâm lý và sự hiện diện của các yếu tố thiền như tầm, tứ, hỷ, lạc, xả, và nhất tâm, tùy thuộc vào tầng thiền.
 - Như Lai / Tathāgata / Tathāgata: Một danh hiệu của Đức Phật, có nghĩa là "Người đã đến như vậy" hoặc "Người đã đi như vậy", chỉ người đã đạt đến chân lý tối hậu, giác ngộ hoàn toàn.

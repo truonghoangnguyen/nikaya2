@@ -104,7 +104,7 @@ Từ ngữ:
 - A-la-hán / arahant / arahant: Bậc giác ngộ đã đoạn trừ mọi phiền não, thoát khỏi vòng luân hồi sinh tử, đạt đến Niết-bàn.
 - Tà kiến / micchā diṭṭhi / wrong view: Quan điểm, nhận thức sai lầm về bản chất của thực tại, đặc biệt là về luật nhân quả (nghiệp), sự tái sinh, và con đường giải thoát.
 - Cõi khổ, địa ngục / apāya / state of deprivation, hell: Các cảnh giới tái sinh đau khổ do ác nghiệp tạo ra, bao gồm địa ngục, ngạ quỷ, súc sinh, và a-tu-la.
-- Chánh kiến / sammā diṭṭhi / right view: Quan điểm, nhận thức đúng đắn về bản chất của thực tại, là yếu tố đầu tiên trong Bát Chánh Đạo, bao gồm hiểu biết về Tứ Diệu Đế, nghiệp và tái sinh.
+- Chánh kiến / sammā diṭṭhi / right view: Quan điểm, nhận thức đúng đắn về bản chất của thực tại, là yếu tố đầu tiên trong Tám Bước Thiện (Bát Chánh Đạo), bao gồm hiểu biết về Tứ Diệu Đế, nghiệp và tái sinh.
 - Cõi lành, cõi trời / sugati / happy destination, heavenly world: Các cảnh giới tái sinh an vui, hạnh phúc do thiện nghiệp tạo ra, bao gồm cõi người và các cõi trời.
 - Xuất gia / pabbajjā / going forth from home life into homelessness: Từ bỏ đời sống gia đình, thế tục để sống đời sống không nhà của một vị tu sĩ Phật giáo, nhằm mục đích tu tập và giải thoát.
 - Phạm hạnh / brahmacariya / celibacy, holy life: Đời sống trong sạch, thanh cao, đặc biệt là việc từ bỏ các hành vi tình dục, một phần quan trọng của đời sống tu sĩ và cả người tại gia giữ giới.

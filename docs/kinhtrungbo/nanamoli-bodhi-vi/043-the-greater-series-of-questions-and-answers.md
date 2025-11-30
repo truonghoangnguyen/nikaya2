@@ -205,7 +205,7 @@ Từ ngữ:
 - thắng trí / abhiññā / direct knowledge: Sự hiểu biết trực tiếp, siêu việt, không qua trung gian suy luận, thường đạt được qua thiền định cao.
 - liễu tri / pariññā / full understanding: Sự hiểu biết toàn diện, thấu suốt bản chất của một đối tượng hay trạng thái, thường dùng cho việc hiểu rõ khổ đế.
 - đoạn tận / pahāna / abandoning: Sự từ bỏ, loại trừ hoàn toàn các phiền não, ô nhiễm, không còn dấu vết, thường dùng cho việc diệt trừ nguồn gốc của khổ.
-- chánh kiến / sammā diṭṭhi / right view: Yếu tố đầu tiên trong Bát Chánh Đạo, là sự hiểu biết đúng đắn về Bốn Sự Thật Cao Quý, về luật nhân quả, về vô thường, khổ, vô ngã.
+- chánh kiến / sammā diṭṭhi / right view: Yếu tố đầu tiên trong Tám Bước Thiện (Bát Chánh Đạo), là sự hiểu biết đúng đắn về Bốn Sự Thật Cao Quý, về luật nhân quả, về vô thường, khổ, vô ngã.
 - tiếng nói của người khác / parato ghoso / voice of another: Một trong hai điều kiện sanh khởi chánh kiến, chỉ sự chỉ dẫn, lời dạy đúng đắn từ người khác, đặc biệt là từ bậc thiện tri thức, kinh điển.
 - như lý tác ý / yoniso manasikāra / wise attention: Một trong hai điều kiện sanh khởi chánh kiến, là sự chú ý đúng đắn, khéo léo, hướng tâm suy xét đến tận gốc rễ vấn đề, phù hợp với chân lý.
 - tâm giải thoát / cetovimutti / deliverance of mind: Sự giải thoát của tâm khỏi các trói buộc, ô nhiễm như tham, sân, si. Có nhiều loại tâm giải thoát khác nhau.

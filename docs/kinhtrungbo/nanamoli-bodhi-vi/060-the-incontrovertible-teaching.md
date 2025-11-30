@@ -126,7 +126,7 @@ Từ ngữ:
 - tà tư duy / micchā saṅkappa / wrong intention: Suy nghĩ, ý định sai lầm, bất thiện, bao gồm ý định tham lam, ý định sân hận, và ý định hãm hại.
 - tà ngữ / micchā vācā / wrong speech: Lời nói sai lầm, bất thiện, bao gồm nói dối, nói lời đâm thọc chia rẽ, nói lời thô ác, và nói lời vô ích.
 - thuyết hư vô / natthikavāda / doctrine of nihilism: Học thuyết phủ nhận sự tồn tại của những điều căn bản như quả báo của nghiệp thiện ác, sự tồn tại của đời sau, cha mẹ (về mặt ảnh hưởng đạo đức), chúng sinh hóa sinh, và các bậc thánh đã chứng ngộ.
-- chánh kiến / sammā diṭṭhi / right view: Quan điểm, nhận thức đúng đắn về thực tại, phù hợp với sự thật, đặc biệt là hiểu rõ về Tứ Diệu Đế, luật nhân quả, nghiệp báo. Đây là yếu tố đầu tiên trong Bát Chánh Đạo.
+- chánh kiến / sammā diṭṭhi / right view: Quan điểm, nhận thức đúng đắn về thực tại, phù hợp với sự thật, đặc biệt là hiểu rõ về Tứ Diệu Đế, luật nhân quả, nghiệp báo. Đây là yếu tố đầu tiên trong Tám Bước Thiện (Bát Chánh Đạo).
 - chánh tư duy / sammā saṅkappa / right intention: Suy nghĩ, ý định đúng đắn, thiện lành, bao gồm ý định từ bỏ (ly tham), ý định không sân hận (từ bi), và ý định không hãm hại (bất hại).
 - chánh ngữ / sammā vācā / right speech: Lời nói đúng đắn, thiện lành, bao gồm không nói dối, không nói lời đâm thọc chia rẽ, không nói lời thô ác, và không nói lời vô ích.
 - thuyết khẳng định / atthikavāda / doctrine of affirmation: Học thuyết khẳng định sự tồn tại của những điều căn bản như quả báo của nghiệp thiện ác, sự tồn tại của đời sau, cha mẹ, chúng sinh hóa sinh, và các bậc thánh đã chứng ngộ. Đối lập với thuyết hư vô.

@@ -140,7 +140,7 @@ Từ ngữ:
 - Chánh Đẳng Giác / sammāsambuddha / fully enlightened: Bậc giác ngộ hoàn toàn và đúng đắn một cách tự thân, không thầy chỉ dạy (chỉ Đức Phật).
 - đời sống phạm hạnh không mang lại sự an ủi / anassāsika brahmacariya / holy life without consolation: Đời sống tu hành theo những giáo lý sai lầm hoặc với những vị thầy không đáng tin cậy, không thể dẫn đến sự an ổn, giải thoát thực sự.
 - người trí / viññū puriso / wise man: Người có trí tuệ, có khả năng phân biệt đúng sai, thiện ác, thấy rõ bản chất sự vật.
-- con đường chân chính / sammā magga / true way: Con đường đúng đắn, thường chỉ Bát Chánh Đạo, dẫn đến sự chấm dứt khổ đau.
+- con đường chân chính / sammā magga / true way: Con đường đúng đắn, thường chỉ Tám Bước Thiện (Bát Chánh Đạo), dẫn đến sự chấm dứt khổ đau.
 - Pháp lành / kusala dhamma / Dhamma that is wholesome: Những lời dạy, những pháp thực hành thiện lành, đưa đến lợi ích, an vui và giải thoát.
 - hành động thiện ác / kusalākusala kamma / good and bad actions: Nghiệp tốt và nghiệp xấu, những hành động có chủ ý (thân, khẩu, ý) tạo ra kết quả tương ứng trong tương lai.
 - chúng sinh hóa sinh / opapātika / beings who are reborn spontaneously: Chúng sinh sinh ra một cách tức thời, không qua thai bào hay trứng, như chư thiên, ngạ quỷ, chúng sinh địa ngục.

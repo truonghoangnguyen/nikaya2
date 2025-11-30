@@ -78,7 +78,7 @@ Từ ngữ:
 - khổ / dukkha / suffering: Sự thật cao quý thứ nhất, chỉ trạng thái bất toại nguyện, đau khổ, không hoàn hảo vốn có trong mọi hình thái tồn tại thuộc vòng luân hồi (samsara).
 - nguyên nhân của khổ (tập đế) / samudaya sacca / origin of suffering: Sự thật cao quý thứ hai, chỉ nguồn gốc của khổ, chủ yếu là tham ái (taṇhā) – sự khao khát các dục lạc, sự tồn tại và sự không tồn tại.
 - sự chấm dứt khổ (diệt đế) / nirodha sacca / cessation of suffering: Sự thật cao quý thứ ba, chỉ sự chấm dứt hoàn toàn khổ đau thông qua việc đoạn trừ tham ái, tức là trạng thái Niết Bàn (Nibbāna).
-- con đường đưa đến sự chấm dứt khổ (đạo đế) / magga sacca / way leading to the cessation of suffering: Sự thật cao quý thứ tư, chỉ con đường thực hành để đạt đến sự chấm dứt khổ, đó là Bát Chánh Đạo (ariya aṭṭhaṅgika magga).
+- con đường đưa đến sự chấm dứt khổ (đạo đế) / magga sacca / way leading to the cessation of suffering: Sự thật cao quý thứ tư, chỉ con đường thực hành để đạt đến sự chấm dứt khổ, đó là Tám Bước Thiện (Bát Chánh Đạo) (ariya aṭṭhaṅgika magga).
 - cúng dường cá nhân / pāṭipuggalikā dakkhiṇā / personal offerings: Sự bố thí, cúng dường vật phẩm đến một cá nhân cụ thể, phân biệt với cúng dường đến Tăng đoàn nói chung.
 - Như Lai / Tathāgata / Tathāgata: Một danh hiệu tôn kính của Đức Phật, có nghĩa là "Người đã đến như vậy" hoặc "Người đã đi như vậy", chỉ người đã đạt chân lý tối thượng và thể nhập thực tại như nó là.
 - A-la-hán / arahant / accomplished: Bậc thánh đã đạt đến quả vị giác ngộ cuối cùng trong Phật giáo Theravada, đã đoạn trừ hoàn toàn mọi phiền não (kilesa) và không còn tái sinh sau khi chết.

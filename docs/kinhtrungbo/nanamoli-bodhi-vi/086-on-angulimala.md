@@ -191,7 +191,7 @@ Từ ngữ:
 - nghiệp / kamma / deeds: Hành động có chủ ý (thân, khẩu, ý) và quả báo hay kết quả tất yếu của hành động đó, chi phối sự tái sinh và trải nghiệm khổ vui của chúng sinh.
 - Niết-bàn / Nibbāna / Nibbāna: Trạng thái dập tắt hoàn toàn mọi khổ đau, phiền não và chấm dứt vòng luân hồi sinh tử; mục tiêu cuối cùng của Phật giáo.
 - nhẫn nhục / khanti / forbearance: Sự chịu đựng, kiên nhẫn, không tức giận hay phản ứng tiêu cực trước những khó khăn, thử thách, hoặc lời nói, hành động xúc phạm của người khác.
-- phạm hạnh / brahmacariya / celibate (trong ngữ cảnh này): Đời sống trong sạch, cao thượng, đặc biệt là việc từ bỏ các hành vi tình dục, nhằm mục đích tu tập giải thoát. Rộng hơn, nó chỉ toàn bộ con đường tu tập theo Bát Chánh Đạo.
+- phạm hạnh / brahmacariya / celibate (trong ngữ cảnh này): Đời sống trong sạch, cao thượng, đặc biệt là việc từ bỏ các hành vi tình dục, nhằm mục đích tu tập giải thoát. Rộng hơn, nó chỉ toàn bộ con đường tu tập theo Tám Bước Thiện (Bát Chánh Đạo).
 - phúc lạc cao tột / paramasukha / perfect bliss: Hạnh phúc tối thượng, sự an lạc tuyệt đối, thường được dùng để chỉ niềm hạnh phúc của Niết-bàn.
 - quy y / saraṇa / refuge: Hành động nương tựa, tìm kiếm sự che chở và dẫn dắt nơi Tam Bảo (Ba Ngôi Báu): Phật (Đấng Giác Ngộ), Pháp (Giáo pháp của Ngài), và Tăng (cộng đồng những người thực hành theo Giáo pháp).
 - sa môn / samaṇa / recluse: Người xuất gia, từ bỏ đời sống thế tục để tu hành, tìm cầu chân lý và giải thoát, thường sống khổ hạnh và khất thực.

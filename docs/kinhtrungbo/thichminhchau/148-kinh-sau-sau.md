@@ -20,14 +20,15 @@ giảng.
 
 -- Thưa vâng, bạch Thế Tôn.
 
-***(Tóm lược)***
+#### (Tóm lược)
 
 Các vị Tỷ-kheo ấy vâng đáp Thế Tôn. Thế Tôn nói như sau:
 
 -- Sáu nội xứ cần phải được biết. Sáu ngoại xứ cần phải được biết. Sáu thức thân cần phải được biết. Sáu
 xúc thân cần phải được biết. Sáu thọ thân cần phải được biết. Sáu ái thân cần phải được biết.
 
-***(Liệt kê)***
+<!--pg-->
+#### (Liệt kê)
 
 Khi được nói đến "Sáu nội xứ cần phải được biết", do duyên gì được nói đến như vậy? Nhãn xứ, nhĩ xứ,
 tỷ xứ, thiệt xứ, thân xứ, ý xứ. Khi được nói đến "Sáu nội xứ cần phải được biết ", chính do duyên này
@@ -70,7 +71,8 @@ các xúc khởi lên thân thức... Do duyên ý và do duyên các pháp kh�
 này) là xúc. Do duyên xúc là thọ. Do duyên thọ là ái. Khi được nói đến "Sáu ái thân cần phải được biết",
 chính do duyên này được nói đến như vậy. Ðây là sáu sáu thứ sáu.
 
-***(Giảng về vô ngã)***
+<!--pg-->
+#### (Giảng về vô ngã)
 
 Nếu ai nói rằng: "Mắt là tự ngã", như vậy là không hợp lý. Sự sanh và sự diệt của mắt đã được thấy. Vì
 rằng sự sanh và sự diệt đã được thấy, nên phải đưa đến kết luận: "Tự ngã sanh và diệt ở nơi tôi". Do vậy,
@@ -130,7 +132,8 @@ nên phải đưa đến kết luận: "Tự ngã sanh và diệt ở nơi tôi"
 như vậy là không hợp lý. Như vậy ý là vô ngã, các pháp là vô ngã, ý thức là vô ngã, ý xúc là vô ngã, thọ
 là vô ngã, ái là vô ngã.
 
-***(Nguồn gốc và đoạn diệt thân kiến)***
+<!--pg-->
+#### (Nguồn gốc và đoạn diệt thân kiến)
 
 Này các Tỷ-kheo, nhưng đây là con đường đưa đến sự tập khởi của thân kiến. Ai quán mắt là: "Cái này
 là của tôi, cái này là tôi, cái này là tự ngã của tôi". Ai quán các sắc... Ai quán nhãn thức... Ai quán nhãn
@@ -138,13 +141,15 @@ xúc... Ai quán thọ... Ai quán ái... Ai quán tai... Ai quán mũi... Ai qu
 Ai quán các pháp... Ai quán ý thức... Ai quán ý xúc... Ai quán ái: "Cái này là của tôi, cái này là tôi, cái
 này là tự ngã của tôi".
 
+<!--pg-->
 Nhưng này các Tỷ-kheo, đây là con đường đưa đến sự đoạn diệt của thân kiến. Ai quán mắt: ""Cái này
 không phải là của tôi, cái này không phải là tôi, cái này không phải là tự ngã của tôi". Ai quán sắc... Ai
 quán nhãn thức... Ai quán nhãn xúc... Ai quán thọ... Ai quán ái... Ai quán tai... Ai quán mũi... Ai quán
 lưỡi... Ai quán thân... Ai quán ý... Ai quán các pháp... Ai quán ý thức... Ai quán ý xúc... Ai quán thọ...
 Ai quán ái: "Cái này không phải của tôi, cái này không phải là tôi, cái này không phải tự ngã của tôi".
 
-**(Ba độc tùy miên)**
+<!--pg-->
+#### (Ba độc tùy miên)
 
 Này các Tỷ-kheo, do duyên mắt và do duyên các sắc, khởi lên nhãn thức. Sự gặp gỡ của ba (pháp này)
 là xúc. Do duyên xúc, khởi lên lạc thọ, khổ thọ hay bất khổ bất lạc thọ. Vị ấy do cảm xúc lạc thọ, mà
@@ -152,7 +157,6 @@ hoan hỷ, tán thán, trú ở ái trước. Tham tùy miên của vị ấy t�
 muộn, than van, than khóc, đập ngực, rơi vào bất tỉnh. Sân tùy miên của vị ấy tùy tăng. Vị ấy do cảm
 xúc bất khổ bất lạc thọ, mà không như thật biết sự tập khởi, sự đoạn diệt, vị ngọt, sự nguy hiểm và sự
 xuất ly khỏi cảm thọ ấy, vô minh tùy miên của vị ấy tùy tăng. Này các Tỷ-kheo, vị ấy chính do không
-
 đoạn tận tham tùy miên đối với lạc thọ, do không tẩy trừ sân tùy miên đối với khổ thọ, do không nhổ lên
 vô minh tùy miên đối với bất khổ bất lạc thọ, không đoạn tận vô minh, không làm cho minh khởi lên, có
 thể ngay trong hiện tại là người chấm dứt đau khổ, sự kiện như vậy không xảy ra.
@@ -170,7 +174,8 @@ vô minh tùy miên của vị ấy tùy tăng. Này các Tỷ-kheo, vị ấy c
 với bất khổ bất lạc thọ, không đoạn tận vô minh, không làm cho minh khởi lên, có thể ngay trong hiện
 tại là người chấm dứt đau khổ, sự kiện như vậy không xảy ra.
 
-***(Ðoạn tận ba độc)***
+<!--pg-->
+#### (Ðoạn tận ba độc)
 
 Này các Tỷ-kheo do duyên mắt và do duyên các sắc khởi lên nhãn thức. Sự gặp gỡ của ba (pháp này) là
 xúc. Do duyên xúc, khởi lên lạc thọ, khổ thọ hay bất khổ bất lạc thọ. Vị ấy cảm xúc lạc thọ, mà không
@@ -195,7 +200,8 @@ tham tùy miên đối với lạc thọ, do tẩy trừ sân tùy miên đối 
 với bất khổ bất lạc thọ, đoạn tận vô minh, làm cho minh khởi lên, có thể ngay trong hiện tại là người
 chấm dứt đau khổ, sự kiện như vậy xảy ra.
 
-***(Giải thoát)***
+<!--pg-->
+#### (Giải thoát)
 
 Này các Tỷ-kheo, do thấy vậy, vị Ða văn Thánh đệ tử yếm ly mắt, yếm ly các sắc, yếm ly nhãn thức;
 yếm ly nhãn xúc, yếm ly thọ, yếm ly ái. Vị ấy yếm ly tai, yếm ly các tiếng...; yếm ly mũi, yếm ly các
@@ -204,7 +210,6 @@ hương...; yếm ly lưỡi, yếm ly các vị...; yếm ly thân, yếm ly c�
 
 Do yếm ly, vị ấy ly tham. Do ly tham vị ấy giải thoát. Trong sự giải thoát là sự hiểu biết: "Ta đã được
 giải thoát". Và vị ấy tuệ tri: "Sanh đã tận, Phạm hạnh đã thành, các việc nên làm đã làm, không còn trở
-
 lui trạng thái này nữa".
 
 Thế Tôn thuyết giảng như vậy. Các Tỷ-kheo ấy hoan hỷ tín thọ lời Thế Tôn dạy. Trong khi sự thuyết

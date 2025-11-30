@@ -15,6 +15,7 @@ Sakka đứng một bên, bạch Thế Tôn:
 tựu, cứu cánh an ổn khỏi các khổ ách, cứu cánh phạm hạnh, cứu cánh viên mãn, bậc tối thắng giữa chư
 Thiên và loài Người?
 
+<!--pg-->
 -- Ở đây, này Thiên chủ, Tỷ-kheo được nghe như sau: "Thật không xứng đáng, nếu có thiên vị đối với
 tất cả pháp". Này Thiên chủ, nếu Tỷ-kheo được nghe như sau: "Thật không xứng đáng, nếu có thiên vị
 đối với tất cả pháp", vị ấy biết rõ tất cả pháp. Sau khi biết rõ tất cả pháp, vị ấy biết một cách rốt ráo tất
@@ -34,6 +35,7 @@ cách Thế Tôn không xa. Rồi Tôn giả Maha Moggallana suy nghĩ: "Không 
 sau khi hoan hỷ lời Thế Tôn dạy, có tín thọ hay không? Ta hãy tìm biết Dạ- xoa kia, sau khi hoan hỷ lời
 Thế Tôn dạy, có tín thọ hay không?"
 
+<!--pg-->
 Rồi Tôn giả Maha Moggallana, như người lực sĩ duỗi cánh tay đang co lại, hay co lại cánh tay đang duỗi
 ra, biến mất ở Ðông Viên Lộc Mẫu giảng đường và hiện ra ở giữa chư thiên cõi trời Ba mươi ba.
 
@@ -80,6 +82,7 @@ chư thiên ở cõi trời Ba mươi ba, tâm cảm thấy kỳ diệu, hy hữ
 thần thông lực, đại oai lực của Tôn giả Sa-môn! Với ngón chân cái, vị này làm cho thiên cung này rung
 động, chuyển động, chấn động mạnh!"
 
+<!--pg-->
 Tôn giả Mahamoggallana sau khi biết Thiên chủ Sakka đã hoảng sợ, lông tóc dựng ngược liền nói với
 Thiên chủ Sakka:
 
@@ -100,7 +103,6 @@ tất cả pháp"". Vị ấy biết rõ tất cả pháp. Sau khi biết rõ t�
 pháp". Do biết một cách rốt ráo tất cả pháp, nếu có cảm thọ nào, lạc thọ, khổ thọ hay bất khổ bất lạc thọ,
 vị ấy sống quán tánh vô thường, sống quán tánh ly tham, sống quán tánh đoạn diệt, sống quán tánh xả ly
 trong các cảm thọ ấy. Vị ấy nhờ sống quán tánh vô thường, sống quán tánh ly tham, sống quán tánh
-
 đoạn diệt, sống quán tánh xả ly trong các cảm thọ ấy nên không chấp trước một vật gì ở đời; do không
 chấp trước nên không phiền não; do không phiền não, vị ấy chứng đạt Niết-bàn. Vị ấy tuệ tri: "Sanh đã
 tận, phạm hạnh đã thành, những việc cần làm đã làm, không còn trở lại đời này nữa". "Này Thiên chủ,
@@ -110,6 +112,7 @@ Người".
 
 Như vậy, này Thiện hữu Moggallana, Thế Tôn nói một cách tóm tắt cho tôi về ái tận giải thoát. "
 
+<!--pg-->
 Rồi Tôn giả Maha Moggallana, sau khi hoan hỷ, tín cho lời Thiên chủ Sakka nói, như một nhà lực sĩ
 duỗi ra cánh tay đang co lại, hay co lại cánh tay đang duỗi ra, biến mất giữa chư thiên ở cõi trời Ba mươi
 ba, và hiện ra tại Ðông Viên Lộc Mẫu giảng đường.
@@ -125,6 +128,7 @@ Maha Moggallana.
 -- Thưa Thiên chủ, thật là điều tốt lành cho Thiên chủ, có một vị đồng phạm hạnh có đại thần thông, có
 đại oai lực như vậy. Chắc chắn vị ấy là Thế Tôn, bậc Ðạo Sư của Thiên chủ.
 
+<!--pg-->
 Rồi Tôn giả Maha Moggallana đến tại chỗ Thế Tôn ở, sau khi đến đảnh lễ Thế Tôn và ngồi xuống một
 bên. Sau khi ngồi xuống một bên, Tôn giả Maha Moggallana bạch Thế Tôn:
 

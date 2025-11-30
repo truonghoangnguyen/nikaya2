@@ -106,7 +106,7 @@ Từ ngữ:
 - thủ / upādāna / clinging: Sự bám víu, chấp chặt vào các đối tượng do ái sinh khởi. Có bốn loại: dục thủ, kiến thủ, giới cấm thủ, ngã luận thủ. Là mắt xích thứ chín trong Duyên Khởi.
 - hữu / bhava / being: Tiến trình tồn tại, sự hiện hữu trong các cõi sống, bao gồm cả hành động tạo nghiệp (nghiệp hữu) và kết quả tái sinh (sinh hữu). Là mắt xích thứ mười trong Duyên Khởi.
 - sinh / jāti / birth: Sự ra đời trong một kiếp sống mới, sự xuất hiện của các uẩn. Là mắt xích thứ mười một trong Duyên Khởi.
-- chánh kiến / sammā diṭṭhi / right view: Sự hiểu biết đúng đắn về thực tại, bao gồm Tứ Diệu Đế, nghiệp và quả của nghiệp, Duyên Khởi, vô thường, khổ, vô ngã. Là yếu tố đầu tiên trong Bát Chánh Đạo.
+- chánh kiến / sammā diṭṭhi / right view: Sự hiểu biết đúng đắn về thực tại, bao gồm Tứ Diệu Đế, nghiệp và quả của nghiệp, Duyên Khởi, vô thường, khổ, vô ngã. Là yếu tố đầu tiên trong Tám Bước Thiện (Bát Chánh Đạo).
 - phàm phu / puthujjana / ordinary person: Người bình thường, chưa chứng đắc bất kỳ Thánh đạo, Thánh quả nào, còn bị trói buộc bởi phiền não và luân hồi.
 - tự ngã / attā / self: Một cái tôi, một bản thể thường hằng, độc lập, không thay đổi. Phật giáo phủ nhận sự tồn tại của một tự ngã như vậy (vô ngã - anattā).
 - A-la-hán / arahant / arahant: Bậc Thánh đã giác ngộ hoàn toàn, đoạn trừ mọi phiền não và lậu hoặc, thoát khỏi vòng luân hồi sinh tử.

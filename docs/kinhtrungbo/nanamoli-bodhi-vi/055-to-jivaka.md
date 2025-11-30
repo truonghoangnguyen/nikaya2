@@ -41,7 +41,7 @@ Từ ngữ:
 -   **tỳ kheo / bhikkhu / monk:** Nhà sư Phật giáo Theravada đã thọ giới cụ túc (giới cao nhất), sống đời sống khất thực, tuân thủ giới luật và thực hành thiền định để đạt đến giải thoát.
 -   **tâm từ / mettā / loving-kindness:** Tâm mong muốn cho tất cả chúng sanh được an lạc, hạnh phúc, không phân biệt bạn thù; một trong bốn tâm vô lượng (Tứ Vô Lượng Tâm).
 -   **ràng buộc / attachment / attachment:** Sự dính mắc, luyến ái, tham đắm vào người, vật, quan điểm hay trạng thái nào đó, được xem là một trong những nguyên nhân chính gây ra khổ đau theo đạo Phật.
--   **lối thoát / escape / escape:** Sự giải thoát khỏi vòng luân hồi khổ đau (saṃsāra), thường chỉ trạng thái Niết-bàn (Nibbāna) hoặc con đường thực hành Bát Chánh Đạo dẫn đến Niết-bàn.
+-   **lối thoát / escape / escape:** Sự giải thoát khỏi vòng luân hồi khổ đau (saṃsāra), thường chỉ trạng thái Niết-bàn (Nibbāna) hoặc con đường thực hành Tám Bước Thiện (Bát Chánh Đạo) dẫn đến Niết-bàn.
 -   **si mê / moha / delusion:** Sự vô minh, không nhận thức rõ ràng bản chất thật sự của các pháp (hiện tượng) là vô thường, khổ, vô ngã. Đây là một trong ba gốc rễ của mọi điều bất thiện (tham, sân, si).
 -   **ác ý / byāpāda / ill will:** Tâm mong muốn làm hại, tâm sân hận, mong cho người khác gặp điều xấu, đau khổ; là một trong năm triền cái (năm pháp che lấp tâm trí, ngăn cản thiền định và trí tuệ).
 -   **tâm bi / karuṇā / compassion:** Tâm rung động trước sự đau khổ của chúng sanh và mong muốn cho họ thoát khỏi khổ đau; một trong bốn tâm vô lượng.

@@ -23,7 +23,7 @@ biết bến nước.
 
 10\. "Làm thế nào một tỳ kheo không biết thế nào là đã uống? Ở đây, khi Giáo Pháp và Luật do Như Lai tuyên thuyết đang được giảng dạy, một tỳ kheo không đạt được cảm hứng trong ý nghĩa, không đạt được cảm hứng trong Giáo Pháp, không đạt được sự hoan hỷ liên quan đến Giáo Pháp. [^366] Đó là cách một tỳ kheo không biết thế nào là đã uống.
 
-11\. "Làm thế nào một tỳ kheo không biết đường đi? Ở đây, một tỳ kheo không hiểu Bát Chánh Đạo (Noble Eightfold Path - con đường tám nhánh cao quý) đúng như thật. Đó là cách một tỳ kheo không biết đường đi.
+11\. "Làm thế nào một tỳ kheo không biết đường đi? Ở đây, một tỳ kheo không hiểu Tám Bước Thiện (Bát Chánh Đạo) (Noble Eightfold Path - con đường tám nhánh cao quý) đúng như thật. Đó là cách một tỳ kheo không biết đường đi.
 
 12\. "Làm thế nào một tỳ kheo không khéo léo về đồng cỏ? Ở đây, một tỳ kheo không hiểu bốn nền tảng của chánh niệm (four foundations of mindfulness - Tứ Niệm Xứ) đúng như thật. Đó là cách [222] một tỳ kheo không khéo léo về đồng cỏ. [^367]
 
@@ -54,7 +54,7 @@ và sầu muộn có thể xâm chiếm vị ấy, vị ấy thực hành cách 
 
 23\. "Làm thế nào [224] một tỳ kheo biết thế nào là đã uống? Ở đây, khi Giáo Pháp và Luật do Như Lai tuyên thuyết đang được giảng dạy, một tỳ kheo đạt được cảm hứng trong ý nghĩa, đạt được cảm hứng trong Giáo Pháp, đạt được sự hoan hỷ liên quan đến Giáo Pháp. Đó là cách một tỳ kheo biết thế nào là đã uống.
 
-24\. "Làm thế nào một tỳ kheo biết đường đi? Ở đây, một tỳ kheo hiểu Bát Chánh Đạo đúng như thật. Đó là cách một tỳ kheo hiểu đường đi.
+24\. "Làm thế nào một tỳ kheo biết đường đi? Ở đây, một tỳ kheo hiểu Tám Bước Thiện (Bát Chánh Đạo) đúng như thật. Đó là cách một tỳ kheo hiểu đường đi.
 
 25\. "Làm thế nào một tỳ kheo khéo léo về đồng cỏ? Ở đây, một tỳ kheo hiểu bốn nền tảng của chánh niệm đúng như thật. Đó là cách một tỳ kheo khéo léo về đồng cỏ.
 
@@ -80,6 +80,6 @@ Từ ngữ:
 - niệm tưởng dục vọng / kāma-vitakka / thought of sensual desire: Suy nghĩ về các đối tượng dục lạc, ham muốn.
 - nhãn căn / cakkhu-indriya / eye faculty: Khả năng của mắt để nhìn thấy.
 - ý căn / mano-indriya / mind faculty: Khả năng của tâm để nhận thức.
-- Bát Chánh Đạo / ariya-aṭṭhaṅgika-magga / Noble Eightfold Path: Con đường tu tập gồm tám nhánh để đạt đến giác ngộ, bao gồm: Chánh kiến, Chánh tư duy, Chánh ngữ, Chánh nghiệp, Chánh mạng, Chánh tinh tấn, Chánh niệm, Chánh định.
+- Tám Bước Thiện (Bát Chánh Đạo) / ariya-aṭṭhaṅgika-magga / Noble Eightfold Path: Con đường tu tập gồm tám nhánh để đạt đến giác ngộ, bao gồm: Chánh kiến, Chánh tư duy, Chánh ngữ, Chánh nghiệp, Chánh mạng, Chánh tinh tấn, Chánh niệm, Chánh định.
 - bốn nền tảng của chánh niệm / cattāro satipaṭṭhānā / four foundations of mindfulness: Tứ Niệm Xứ, bốn đối tượng để quán niệm, bao gồm: thân, thọ, tâm, pháp.
 - hành động thân ái / mettā-kāya-kamma / bodily acts of loving-kindness: Hành động thể hiện lòng từ bi, yêu thương qua thân thể.

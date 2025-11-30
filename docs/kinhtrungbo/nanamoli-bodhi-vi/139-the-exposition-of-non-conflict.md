@@ -15,7 +15,7 @@
 
 "Vì vậy, lời ấy được nói dựa vào điều này: 'Không nên theo đuổi thú vui nhục dục, vốn hạ liệt, tầm thường, thô thiển, không cao thượng, và không lợi ích; và không nên theo đuổi khổ hạnh ép xác, vốn đau khổ, không cao thượng, và không lợi ích.'
 
-5\. "'Con đường Trung đạo do Như Lai khám phá ra tránh cả hai cực đoan này; mang lại tầm nhìn, mang lại tri kiến, nó dẫn đến sự an tịnh, đến thắng trí, đến giác ngộ, đến Niết-bàn.' Lời ấy đã được nói. Nhưng lời ấy được nói dựa vào đâu? Đó chính là Bát Chánh Đạo (Noble Eightfold Path - con đường tám yếu tố dẫn đến giải thoát) này; nghĩa là, chánh kiến, chánh tư duy, chánh ngữ, chánh nghiệp, chánh mạng, chánh tinh tấn, chánh niệm, và chánh định. Vì vậy, lời ấy được nói dựa vào điều này: 'Con đường Trung đạo do Như Lai khám phá ra tránh cả hai cực đoan này... đến Niết-bàn.'
+5\. "'Con đường Trung đạo do Như Lai khám phá ra tránh cả hai cực đoan này; mang lại tầm nhìn, mang lại tri kiến, nó dẫn đến sự an tịnh, đến thắng trí, đến giác ngộ, đến Niết-bàn.' Lời ấy đã được nói. Nhưng lời ấy được nói dựa vào đâu? Đó chính là Tám Bước Thiện (Bát Chánh Đạo) (Noble Eightfold Path - con đường tám yếu tố dẫn đến giải thoát) này; nghĩa là, chánh kiến, chánh tư duy, chánh ngữ, chánh nghiệp, chánh mạng, chánh tinh tấn, chánh niệm, và chánh định. Vì vậy, lời ấy được nói dựa vào điều này: 'Con đường Trung đạo do Như Lai khám phá ra tránh cả hai cực đoan này... đến Niết-bàn.'
 
 6\. "'Cần phải biết thế nào là tán dương và thế nào là chê bai, và khi biết cả hai, không nên tán dương cũng không nên chê bai mà chỉ nên giảng dạy Pháp.' Lời ấy đã được nói. Nhưng lời ấy được nói dựa vào đâu?
 
@@ -111,11 +111,11 @@ Khi một người không nói: 'Tất cả những ai đã đoạn trừ kiết
 
 <!--pg-->
 Từ ngữ:
-- Bát Chánh Đạo / Ariya Aṭṭhaṅgika Magga / Noble Eightfold Path: Con đường gồm tám yếu tố (chánh kiến, chánh tư duy, chánh ngữ, chánh nghiệp, chánh mạng, chánh tinh tấn, chánh niệm, chánh định) do Đức Phật giảng dạy, dẫn đến sự chấm dứt khổ đau và Niết-bàn.
+- Tám Bước Thiện (Bát Chánh Đạo) / Ariya Aṭṭhaṅgika Magga / Noble Eightfold Path: Con đường gồm tám yếu tố (chánh kiến, chánh tư duy, chánh ngữ, chánh nghiệp, chánh mạng, chánh tinh tấn, chánh niệm, chánh định) do Đức Phật giảng dạy, dẫn đến sự chấm dứt khổ đau và Niết-bàn.
 - Bất thiện pháp / Akusala Dhamma / Unwholesome states: Các trạng thái tâm tiêu cực, có hại, gây ra khổ đau cho mình và người khác, chủ yếu là tham, sân, và si cùng các biến thể của chúng.
 - Con đường sai lầm / Micchāpaṭipadā / Wrong way: Thực hành hay lối sống đi ngược lại Chánh pháp, dẫn đến khổ đau và tiếp tục luân hồi, ví dụ như nuông chiều dục lạc hoặc khổ hạnh ép xác cực đoan.
-- Con đường đúng đắn / Sammāpaṭipadā / Right way: Thực hành hay lối sống phù hợp với Chánh pháp, đặc biệt là Bát Chánh Đạo, dẫn đến an lạc, trí tuệ và giải thoát.
-- Con đường Trung đạo / Majjhimā Paṭipadā / Middle Way: Con đường do Đức Phật khám phá, tránh hai cực đoan là hưởng thụ dục lạc thái quá và khổ hạnh ép xác vô ích. Đây chính là Bát Chánh Đạo.
+- Con đường đúng đắn / Sammāpaṭipadā / Right way: Thực hành hay lối sống phù hợp với Chánh pháp, đặc biệt là Tám Bước Thiện (Bát Chánh Đạo), dẫn đến an lạc, trí tuệ và giải thoát.
+- Con đường Trung đạo / Majjhimā Paṭipadā / Middle Way: Con đường do Đức Phật khám phá, tránh hai cực đoan là hưởng thụ dục lạc thái quá và khổ hạnh ép xác vô ích. Đây chính là Tám Bước Thiện (Bát Chánh Đạo).
 - Dục lạc / Kāmasukha / Sensual pleasure: Niềm vui, sự thích thú phát sinh từ sự tiếp xúc của các giác quan (mắt, tai, mũi, lưỡi, thân) với các đối tượng tương ứng (hình sắc, âm thanh, mùi hương, vị nếm, vật xúc chạm). Thường mang tính tạm thời và có thể dẫn đến dính mắc, khổ đau.
 - Giác ngộ / Bodhi / Enlightenment: Sự tỉnh thức hoàn toàn, trí tuệ viên mãn, thấy rõ bản chất của thực tại, chấm dứt mọi ảo tưởng và khổ đau.
 - Kiết sử hữu / Bhavasaṃyojana / Fetter of being: Sự trói buộc vi tế vào sự tồn tại, sự ham muốn được tiếp tục hiện hữu trong các cõi sống (dục giới, sắc giới, vô sắc giới). Đây là một trong những trói buộc cuối cùng cần đoạn trừ để đạt Niết-bàn.

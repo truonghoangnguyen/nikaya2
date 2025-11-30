@@ -99,7 +99,7 @@ Từ ngữ:
 - ác ý / byāpāda / ill will: Tâm mong muốn người khác gặp điều xấu, đau khổ, tai họa. Đây là bất thiện về ý.
 - không ác ý / abyāpāda / non-ill will: Tâm mong muốn điều tốt lành cho người khác, lòng từ ái. Đây là thiện về ý.
 - tà kiến / micchā diṭṭhi / wrong view: Quan điểm sai lầm về thực tại, như không tin nhân quả, nghiệp báo, sự tái sinh, phủ nhận giá trị của tu tập đạo đức. Đây là bất thiện về ý, được coi là nguy hiểm nhất.
-- chánh kiến / sammā diṭṭhi / right view: Quan điểm đúng đắn về thực tại, hiểu rõ Tứ Diệu Đế, nhân quả, nghiệp báo, duyên khởi. Là yếu tố đầu tiên trong Bát Chánh Đạo.
+- chánh kiến / sammā diṭṭhi / right view: Quan điểm đúng đắn về thực tại, hiểu rõ Tứ Diệu Đế, nhân quả, nghiệp báo, duyên khởi. Là yếu tố đầu tiên trong Tám Bước Thiện (Bát Chánh Đạo).
 - tỳ kheo / bhikkhu / monk: Nhà sư Phật giáo nam đã thọ giới cụ túc (upasampadā), sống đời sống xuất gia, tuân thủ giới luật và thực hành giáo pháp để đạt giải thoát.
 - tham ái / taṇhā / craving: Sự khao khát mãnh liệt, bao gồm dục ái (khao khát dục lạc), hữu ái (khao khát hiện hữu, tồn tại), và phi hữu ái (khao khát không hiện hữu, tự hủy diệt). Là nguyên nhân chính của khổ đau (Samudaya Sacca).
 - A-la-hán / arahant / arahant: Bậc thánh đã hoàn toàn giác ngộ, đoạn trừ mọi phiền não (lậu hoặc) và kiết sử, chấm dứt vòng luân hồi sinh tử, đạt Niết-bàn.

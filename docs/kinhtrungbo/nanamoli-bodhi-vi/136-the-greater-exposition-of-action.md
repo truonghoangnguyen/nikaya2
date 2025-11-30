@@ -90,7 +90,7 @@ Từ ngữ:
 - địa ngục / niraya / hell: Cảnh giới tái sinh đau khổ nhất trong các cõi khổ, do các ác nghiệp nặng nề tạo ra.
 - cảnh giới tốt đẹp / sugati / happy destination: Nơi đến hạnh phúc, các cõi tái sinh an vui như cõi người và các cõi trời, là kết quả của các thiện nghiệp.
 - cõi trời / sagga loka / heavenly world: Các cảnh giới sống của chư thiên (deva), nơi chúng sinh hưởng phước báu và hạnh phúc lâu dài hơn cõi người, kết quả của thiện nghiệp và thiền định.
-- chánh kiến / sammāditthi / right view: Cái thấy, quan điểm đúng đắn, phù hợp với sự thật, đặc biệt là hiểu biết về Tứ Diệu Đế, luật nhân quả, nghiệp báo, tái sinh; là yếu tố đầu tiên trong Bát Chánh Đạo.
+- chánh kiến / sammāditthi / right view: Cái thấy, quan điểm đúng đắn, phù hợp với sự thật, đặc biệt là hiểu biết về Tứ Diệu Đế, luật nhân quả, nghiệp báo, tái sinh; là yếu tố đầu tiên trong Tám Bước Thiện (Bát Chánh Đạo).
 - tác ý đúng đắn / yoniso manasikāra / right attention: Sự chú ý, suy xét vấn đề một cách khôn ngoan, đúng hướng, từ gốc rễ, phù hợp với Chánh pháp.
 - định tâm / samādhi / concentration of mind: Trạng thái tâm trí tập trung, nhất tâm, yên định vào một đối tượng duy nhất; một yếu tố quan trọng trong thiền định và tu tập.
 - thiên nhãn / dibba-cakkhu / divine eye: Một trong các loại thần thông (abhiññā), khả năng nhìn thấy các chúng sinh ở các cõi giới khác nhau và biết được sự tái sinh của họ tùy theo nghiệp.

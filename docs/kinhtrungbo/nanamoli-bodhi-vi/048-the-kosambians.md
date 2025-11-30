@@ -99,7 +99,7 @@ Từ ngữ:
 - sa môn / samaṇa / recluse: Người xuất gia tu hành theo các truyền thống tâm linh Ấn Độ cổ, bao gồm cả Phật giáo, nhằm tìm cầu giải thoát.
 - bà la môn / brāhmaṇa / brahmin: Tu sĩ hoặc thành viên thuộc giai cấp cao nhất trong xã hội Ấn Độ cổ, theo truyền thống Vệ Đà (Bà la môn giáo).
 - Giáo Pháp của Đức Phật / Buddha-sāsana / Buddha's Dispensation: Toàn bộ hệ thống giáo lý và thực hành do Đức Phật thiết lập và truyền dạy.
-- chánh kiến / sammā diṭṭhi / right view: Cái thấy, hiểu biết đúng đắn về bản chất của thực tại, đặc biệt là về Tứ Diệu Đế, là yếu tố đầu tiên trong Bát Chánh Đạo.
+- chánh kiến / sammā diṭṭhi / right view: Cái thấy, hiểu biết đúng đắn về bản chất của thực tại, đặc biệt là về Tứ Diệu Đế, là yếu tố đầu tiên trong Tám Bước Thiện (Bát Chánh Đạo).
 - lỗi lầm / āpatti / offence: Sự vi phạm giới luật của tu sĩ Phật giáo.
 - cách sửa chữa / paṭikamma (hoặc vutthāna) / rehabilitation: Phương pháp, quy trình để phục hồi giới hạnh sau khi phạm lỗi, thường bao gồm sự sám hối và quyết tâm không tái phạm.
 - sự thu thúc / saṃvara / restraint: Sự kiểm soát, gìn giữ các giác quan (mắt, tai, mũi, lưỡi, thân, ý) để không bị các đối tượng bên ngoài lôi cuốn, dẫn đến phiền não.

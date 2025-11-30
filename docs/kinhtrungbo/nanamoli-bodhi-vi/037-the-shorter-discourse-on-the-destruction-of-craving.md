@@ -1,59 +1,75 @@
-# MN 37. Tiểu Kinh Đoạn Tận Ái
+# 37. Kinh Tiểu Đoạn Tận Ái
 ***(Cūḷataṇhāsankhaya Sutta)***
 
-1\.  Tôi nghe như vầy. Một thời Thế Tôn trú ở Sāvatthī (Xá Vệ), tại Đông Viên, trong lâu đài của mẹ Migāra.
+1\. Như vầy tôi nghe. Một thời Thế Tôn ở tại Sāvatthī (Xá-vệ), trong Đông Viên, tại Lộc Mẫu Giảng Đường.
 
-2\.  Rồi Thiên chủ Sakka (Sakka, vua của các vị trời) đi đến Thế Tôn, sau khi đảnh lễ Ngài, đứng sang một bên và bạch rằng: "Bạch Thế Tôn, tóm lại làm thế nào một vị tỳ kheo (monks-bhikkhus-nhà sư) được giải thoát nhờ đoạn tận ái, đạt đến cứu cánh tối thượng, an ổn tối thượng khỏi các ràng buộc, phạm hạnh tối thượng, mục tiêu tối thượng, là bậc tối thượng giữa chư thiên và loài người?"
-
-3\.  "Này Thiên chủ, ở đây, vị tỳ kheo nghe rằng không có gì đáng để chấp thủ (adhering - bám víu, gắn bó). Khi vị tỳ kheo nghe rằng không có gì đáng để chấp thủ, vị ấy trực tiếp biết tất cả; sau khi trực tiếp biết tất cả, vị ấy liễu tri (fully understands - hiểu biết một cách trọn vẹn, thấu đáo) tất cả; sau khi liễu tri tất cả, bất cứ cảm thọ nào vị ấy cảm thấy, dù lạc thọ, khổ thọ hay bất khổ bất lạc thọ, vị ấy an trú quán vô thường trong các cảm thọ ấy, quán ly tham, quán đoạn diệt, quán xả ly. Quán như vậy, vị ấy không chấp thủ bất cứ thứ gì trên đời. Khi không chấp thủ, vị ấy không dao động. Khi không dao động, vị ấy tự mình chứng đạt Niết Bàn (Nibbāna). [^396] [252] Vị ấy hiểu rõ: 'Sanh đã tận, phạm hạnh đã thành, những việc cần làm đã làm xong, không còn trở lại trạng thái nào nữa.' Tóm lại là như vậy, này Thiên chủ, vị tỳ kheo được giải thoát nhờ đoạn tận ái, đạt đến cứu cánh tối thượng, an ổn tối thượng khỏi các ràng buộc, phạm hạnh tối thượng, mục tiêu tối thượng, là bậc tối thượng giữa chư thiên và loài người."
-
-4\.  Rồi Thiên chủ Sakka, hoan hỷ, tùy hỷ với lời Thế Tôn dạy, đảnh lễ Thế Tôn, thân bên phải hướng về Ngài, rồi biến mất ngay tại đó.
-
-5\.  Lúc bấy giờ, Tôn giả Mahā Moggallāna (Mục Kiền Liên) đang ngồi không xa Thế Tôn. Rồi Tôn giả suy nghĩ: "Vị thiên này có thâm nhập ý nghĩa lời Thế Tôn dạy khi vị ấy hoan hỷ không, hay là không? Ta hãy tìm hiểu xem vị ấy có thâm nhập hay không."
-
-6\.  Rồi, nhanh như một người lực sĩ duỗi cánh tay đang co lại, hay co cánh tay đang duỗi ra, Tôn giả Mahā Moggallāna biến mất khỏi lâu đài của mẹ Migāra ở Đông Viên và xuất hiện giữa chư thiên ở cõi trời Ba Mươi Ba (Thirty-three).
-
-7\.  Lúc bấy giờ, Thiên chủ Sakka đang được trang bị và thọ hưởng năm loại nhạc trời gấp trăm lần, và đang tận hưởng nó trong Công viên Độc Nhất Liên Hoa. Khi thấy Tôn giả Mahā Moggallāna đang đến từ xa, Thiên chủ cho dừng âm nhạc, đi đến Tôn giả Mahā Moggallāna, và nói với Tôn giả: "Đến đây, Tôn giả Moggallāna! Mừng Tôn giả Moggallāna đến! Đã lâu rồi, Tôn giả Moggallāna, Tôn giả mới tìm được cơ hội đến đây. Xin mời ngồi, Tôn giả Moggallāna; chỗ này đã sẵn sàng."
-
-Tôn giả Mahā Moggallāna ngồi xuống chỗ đã được chuẩn bị, và Sakka lấy một chỗ ngồi thấp và ngồi xuống một bên. Tôn giả Mahā Moggallāna liền hỏi:
-
-8\.  "Này Kosiya, [^397] Thế Tôn đã nói tóm tắt với ngài về sự giải thoát nhờ đoạn tận ái như thế nào? Thật tốt nếu chúng tôi cũng có thể được nghe lời dạy đó."
-
-"Thưa Tôn giả Moggallana, chúng tôi rất bận rộn, chúng tôi có rất nhiều việc phải làm, không chỉ với công việc của riêng mình, mà còn với công việc của chư thiên ở cõi Ba Mươi Ba. Hơn nữa, thưa Tôn giả Moggallana, những gì được nghe kỹ, được học kỹ, [253] được chú tâm kỹ, được ghi nhớ kỹ, không biến mất một cách đột ngột. Thưa Tôn giả Moggallana, có một lần xảy ra chiến tranh giữa chư thiên và a-tu-la (titans). [^398] Trong cuộc chiến đó, chư thiên thắng và a-tu-la bại. Khi tôi thắng trận đó và trở về như một người chiến thắng, tôi đã cho xây dựng cung điện Vejayanta. Thưa Tôn giả Moggallāna, cung điện Vejayanta có một trăm tòa tháp, và mỗi tòa tháp có bảy trăm phòng thượng, và mỗi phòng thượng có bảy tiên nữ, và mỗi tiên nữ có bảy thị nữ. Ngài có muốn xem vẻ đẹp của cung điện Vejayanta không,
-thưa Tôn giả Moggallāna?" Tôn giả Mahā Moggallāna im lặng chấp thuận.
-
-9\.  Rồi Thiên chủ Sakka, và Thiên vương Vessavana (Tỳ Sa Môn) [^399] đi đến cung điện Vejayanta, nhường Tôn giả Mahā Moggallāna đi trước. Khi các thị nữ của Sakka thấy Tôn giả Mahā Moggallāna đang đến từ xa, họ xấu hổ và e thẹn và mỗi người đi vào phòng riêng của mình. Giống như một nàng dâu xấu hổ và e thẹn khi thấy cha chồng, cũng vậy, khi các thị nữ của Sakka thấy Tôn giả Mahā Moggallāna đang đến, họ xấu hổ và e thẹn và mỗi người đi vào phòng riêng của mình.
-
-10\.  Rồi Thiên chủ Sakka, và Thiên vương Vessavana để Tôn giả Mahā Moggallāna đi khắp nơi và khám phá cung điện Vejayanta: "Hãy xem, Tôn giả Moggallāna, vẻ đẹp này của cung điện Vejayanta! Hãy xem, Tôn giả Moggallāna, vẻ đẹp này của cung điện Vejayanta!"
-
-"Điều đó thật xứng đáng với Tôn giả Kosiya như một người đã từng tạo công đức trong quá khứ; và bất cứ khi nào con người thấy bất cứ điều gì đáng yêu, họ nói: 'Thưa các ngài, điều đó thật xứng đáng với chư thiên ở cõi Ba Mươi Ba!' Điều đó thật xứng đáng với Tôn giả Kosiya như một người đã từng tạo công đức trong quá khứ."
-
-11\.  Rồi Tôn giả Mahā Moggallāna suy nghĩ như sau: "Vị thiên này đang sống quá buông lung. Ta hãy làm cho vị ấy khởi lên cảm giác khẩn trương?" Rồi Tôn giả Mahā Moggallāna thực hiện một thần thông như vậy, với đầu ngón chân của mình, Ngài làm cho cung điện Vejayanta rung chuyển, chấn động và rung động. [^400] [254] Sakka và Thiên vương Vessavana và chư thiên ở cõi Ba Mươi Ba tràn đầy kinh ngạc và sửng sốt, và họ nói: "Thưa các ngài, thật là kỳ diệu, thật là phi thường, vị sa môn có thần lực và oai lực như thế nào, mà với đầu ngón chân của mình, Ngài làm cho cõi trời rung chuyển, chấn động và rung động!"
-
-12\.  Khi Tôn giả Mahā Moggallāna biết rằng Thiên chủ Sakka đã khởi lên cảm giác khẩn trương với tóc gáy dựng đứng, Ngài hỏi: "Này Kosiya, Thế Tôn đã nói tóm tắt với ngài về sự giải thoát nhờ đoạn tận ái như thế nào? Thật tốt nếu chúng tôi cũng có thể được nghe lời dạy đó."
-
-"Thưa Tôn giả Moggallāna, tôi đã đi đến Thế Tôn, và sau khi đảnh lễ Ngài, tôi đứng sang một bên và bạch rằng: 'Bạch Thế Tôn,...[như trong đoạn 2]...của chư thiên và loài người?' Khi điều này được nói ra, thưa Tôn giả
-Moggallāna, Thế Tôn đã nói với tôi: 'Này Thiên chủ,... [như trong đoạn 3]...của chư thiên và loài người.' Đó là cách Thế Tôn đã nói tóm tắt với tôi về sự giải thoát nhờ đoạn tận ái, thưa Tôn giả Moggallāna."
-
-13\.  Rồi Tôn giả Mahā Moggallāna hoan hỷ, tùy hỷ với lời của Thiên chủ Sakka. [255] Rồi, nhanh như một người lực sĩ duỗi cánh tay đang co lại, hay co cánh tay đang duỗi ra, Ngài biến mất khỏi chư thiên ở cõi Ba Mươi Ba và xuất hiện ở Đông Viên trong lâu đài của mẹ Migāra.
-
-14\.  Rồi, ngay sau khi Tôn giả Mahā Moggallāna đi khỏi, các thị giả của Thiên chủ Sakka hỏi Ngài: "Thưa Ngài, đó có phải là bậc Đạo sư của Ngài, Thế Tôn không?" - "Không, thưa các ngài, đó không phải là bậc Đạo sư của tôi, Thế Tôn. Đó là một trong những người bạn đồng tu phạm hạnh của tôi, Tôn giả Mahā Moggallāna." [^401] - "Thưa Ngài, thật là một lợi ích cho Ngài khi người bạn đồng tu phạm hạnh của Ngài có thần lực và oai lực như vậy. Ôi, Thế Tôn là bậc Đạo sư của Ngài thì còn hơn thế nữa!"
-
-15\.  Rồi Tôn giả Mahā Moggallāna đi đến Thế Tôn, và sau khi đảnh lễ Ngài, Ngài ngồi xuống một bên và bạch rằng: "Bạch Thế Tôn, Thế Tôn có nhớ đã nói tóm tắt - với một vị thiên danh tiếng nào đó có rất nhiều tùy tùng - về sự giải thoát nhờ đoạn tận ái không?"
-
-"Ta có nhớ đã làm như vậy, này Moggallāna. Ở đây, Thiên chủ Sakka, đã đến Ta, và sau khi đảnh lễ Ta, vị ấy đứng sang một bên và hỏi: 'Bạch Thế Tôn, tóm lại làm thế nào một vị tỳ kheo được giải thoát nhờ đoạn tận ái, đạt đến cứu cánh tối thượng, an ổn tối thượng khỏi các ràng buộc, phạm hạnh tối thượng, mục tiêu tối thượng, là bậc tối thượng giữa chư thiên và loài người?' Khi điều này được nói ra, Ta đã nói với vị ấy: 'Này Thiên chủ, ở đây, vị tỳ kheo nghe rằng không có gì đáng để chấp thủ. Khi vị tỳ kheo nghe rằng không có gì đáng để chấp thủ, vị ấy trực tiếp biết tất cả; sau khi trực tiếp biết tất cả, vị ấy liễu tri tất cả; sau khi liễu tri tất cả, bất cứ cảm thọ nào vị ấy cảm thấy, dù lạc thọ, khổ thọ hay bất khổ bất lạc thọ, vị ấy an trú quán vô thường trong các cảm thọ ấy, quán ly tham, quán đoạn diệt, quán xả ly. Quán như vậy, vị ấy không chấp thủ bất cứ thứ gì trên đời. Khi không chấp thủ, vị ấy không dao động. Khi không dao động, vị ấy tự mình chứng đạt
-
-Niết Bàn. Vị ấy hiểu rõ: "Sanh đã tận, phạm hạnh đã thành, [256] những việc cần làm đã làm xong, không còn trở lại trạng thái nào nữa." Tóm lại là như vậy, này Thiên chủ, vị tỳ kheo được giải thoát nhờ đoạn tận ái...là bậc tối thượng giữa chư thiên và loài người.' Đó là cách Ta nhớ đã nói tóm tắt với Thiên chủ Sakka, về sự giải thoát nhờ đoạn tận ái."
-
-Đó là những gì Thế Tôn đã nói. Tôn giả Mahā Moggallāna hoan hỷ, tùy hỷ với lời Thế Tôn dạy.
+2\. Lúc bấy giờ, *Sakka* (Sakka/Đế Thích), vua của các *vị trời* (gods/deva), đi đến chỗ Thế Tôn, sau khi đảnh lễ Ngài, ông đứng sang một bên và bạch rằng: "Bạch Thế Tôn, vắn tắt như thế nào là một vị *tỳ kheo* được giải thoát nhờ đoạn tận *ái* (craving/taṇhā/tham), là bậc đã đạt đến cứu cánh tối thượng, sự an ổn khổ ách tối thượng, phạm hạnh tối thượng, mục đích tối thượng, là bậc tối thắng giữa chư thiên và loài người?" [^395]
 
 <!--pg-->
-Từ ngữ:
-- tỳ kheo / bhikkhu / monks: Nhà sư, người nam xuất gia tu hành theo Phật giáo.
-- chấp thủ / adhering / clinging: Bám víu, gắn bó vào một điều gì đó, coi đó là của mình, là ta, là tự ngã của ta.
-- liễu tri / fully understands / fully understanding: Hiểu biết một cách trọn vẹn, thấu đáo, không còn gì nghi ngờ.
-- Niết Bàn / Nibbāna / Nirvana: Trạng thái chấm dứt hoàn toàn khổ đau và luân hồi, mục tiêu tối thượng của Phật giáo.
-- Thiên chủ Sakka / Sakka, ruler of gods / Sakka: Vua của các vị trời ở cõi trời Ba Mươi Ba.
-- cõi trời Ba Mươi Ba / Thirty-three / The Heaven of the Thirty-Three: Một trong các cõi trời trong Phật giáo.
-- a-tu-la / titans / Asuras: Một loại chúng sinh có sức mạnh, thường tranh đấu với chư thiên.
-- Thiên vương Vessavana / Vessavana / Vaisravana: Một trong bốn vị Thiên vương, cai quản phương Bắc.
+3\. "Này vua của các vị trời (gods), ở đây, một vị tỳ kheo nghe được không có điều gì đáng để *gắn bó* (adhering/abhinivesa/bám chấp). Khi một vị tỳ kheo đã nghe được rằng không có điều gì đáng để gắn bó vào, thì vị ấy *biết trực tiếp* (directly knows/abhiññā/thắng tri) mọi thứ; sau khi biết trực tiếp mọi thứ, vị ấy *hiểu thấu đáo* (fully understands/pariññā/liễu tri) mọi thứ; sau khi hiểu thấu đáo mọi thứ, bất cứ *cảm thọ* (feelings/vedanā/cảm nhận) nào vị ấy cảm nhận, dù là dễ chịu, đau đớn hay không-đau-đớn-cũng-không-dễ-chịu, vị ấy an trú *quan sát* (contemplating/anupassanā/quán) sự *vô thường* nơi các cảm thọ ấy, quan sát sự *phai nhạt* (fading away/virāga/ly tham), quan sát sự *chấm dứt* (cessation/nirodha/đoạn diệt), quan sát sự *từ bỏ* (relinquishment/paṭinissagga/chủ động từ bỏ). Nhờ quan sát như vậy, vị ấy không *nắm giữ* (cling/upādāna/chấp thủ) bất cứ điều gì trên đời. Khi không nắm giữ, vị ấy không *dao động* (agitated/paritassati/ưu tư). Khi không dao động, vị ấy tự mình chứng ngộ *Niết bàn* (Nibbāna/Nirvana/trạng thái tịch diệt). [^396] [252] Vị ấy hiểu rằng: 'Sanh đã tận, phạm hạnh đã thành, những việc cần làm đã làm, không còn trở lui trạng thái này nữa.' Này vua của các vị trời, vắn tắt là theo cách này, một vị tỳ kheo được giải thoát nhờ đoạn tận ái, là bậc đã đạt đến cứu cánh tối thượng, sự an ổn khổ ách tối thượng, phạm hạnh tối thượng, mục đích tối thượng, là bậc tối thắng giữa chư thiên và loài người."
+
+4\. Bấy giờ Sakka, vua của các vị trời, hoan hỷ và tín thọ lời dạy của Thế Tôn, đảnh lễ Thế Tôn, và đi nhiễu quanh Ngài hướng về phía tay phải, rồi biến mất ngay tại chỗ.
+
+5\. Lúc bấy giờ, tôn giả Mahā Moggallāna (Đại Mục-kiền-liên) đang ngồi cách Thế Tôn không xa. Rồi tôn giả suy nghĩ: "Liệu *vị thần* (spirit/yakkha/dạ xoa) ấy đã thấu hiểu ý nghĩa lời dạy của Thế Tôn khi ông ấy hoan hỷ, hay là chưa? Ta hãy thử tìm hiểu xem ông ấy đã hiểu hay chưa."
+
+<!--pg-->
+6\. Rồi, nhanh như một người lực sĩ duỗi cánh tay đang co hay co cánh tay đang duỗi, tôn giả Mahā Moggallāna biến mất khỏi Lộc Mẫu Giảng Đường ở Đông Viên và hiện ra giữa chư thiên cõi Ba mươi ba.
+
+7\. Lúc bấy giờ, Sakka, vua của các vị trời, đang được cung phụng và bao quanh bởi năm loại nhạc trời, và ông đang tận hưởng thú vui trong Vườn Hoan hỷ Nhất Liên. Khi thấy tôn giả Mahā Moggallāna từ xa đi đến, ông cho lui dàn nhạc, đi đến đón tôn giả Mahā Moggallāna và nói: "Hãy đến đây, thưa tôn giả Moggallāna! Chào mừng tôn giả Moggallāna! Đã lâu lắm rồi tôn giả Moggallāna mới có dịp đến đây. Mời ngồi, thưa tôn giả Moggallāna; chỗ ngồi này đã soạn sẵn."
+
+Tôn giả Mahā Moggallāna ngồi xuống chỗ đã soạn sẵn, và Sakka lấy một ghế thấp hơn và ngồi xuống một bên. Tôn giả Mahā Moggallāna bèn hỏi ông:
+
+8\. "Này *Kosiya* (Kosiya/Kiều-thi-ca), Thế Tôn đã nói vắn tắt với ông như thế nào về sự giải thoát nhờ đoạn tận ái? Thật tốt nếu chúng tôi cũng được nghe lại lời dạy ấy."
+
+"Thưa tôn giả Moggallāna, chúng tôi rất bận rộn, chúng tôi có quá nhiều việc phải làm, không chỉ việc riêng của mình, mà còn cả công việc của chư thiên cõi Ba mươi ba. Hơn nữa, thưa tôn giả Moggallāna, những gì được nghe kỹ, được học kỹ, [253] được tác ý kỹ, được ghi nhớ kỹ, sẽ không dễ gì biến mất đột ngột. Thưa tôn giả Moggallāna, đã từng có lần chiến tranh nổ ra giữa chư thiên và các *A-tu-la* (titans/asura/phi thiên). [^398] Trong cuộc chiến đó, chư thiên thắng và các A-tu-la bại trận. Khi tôi thắng trận đó và trở về như một người chinh phục, tôi đã cho xây dựng Cung điện Vejayanta. Thưa tôn giả Moggallāna, Cung điện Vejayanta có một trăm tháp cao, mỗi tháp có bảy trăm lầu các, mỗi lầu các có bảy thiên nữ, và mỗi thiên nữ có bảy người hầu. Tôn giả có muốn xem vẻ đẹp của Cung điện Vejayanta không, thưa tôn giả Moggallāna?" Tôn giả Mahā Moggallāna im lặng nhận lời.
+
+9\. Rồi Sakka, vua của các vị trời, và Thiên vương *Vessavana* (Vessavana/Tỳ-sa-môn) đi đến Cung điện Vejayanta, nhường tôn giả Mahā Moggallāna đi trước. Khi các người hầu của Sakka thấy tôn giả Mahā Moggallāna từ xa đi đến, họ ngượng ngùng và xấu hổ, rồi mỗi người đi vào phòng riêng của mình. Cũng giống như cô con dâu ngượng ngùng và xấu hổ khi thấy cha chồng, cũng vậy, khi các người hầu của Sakka thấy tôn giả Mahā Moggallāna đi đến, họ ngượng ngùng và xấu hổ, rồi mỗi người đi vào phòng riêng của mình.
+
+10\. Rồi Sakka, vua của các vị trời, và Thiên vương Vessavana mời tôn giả Mahā Moggallāna đi khắp nơi và thăm thú Cung điện Vejayanta: "Thưa tôn giả Moggallāna, hãy xem vẻ đẹp này của Cung điện Vejayanta! Thưa tôn giả Moggallāna, hãy xem vẻ đẹp này của Cung điện Vejayanta!"
+
+"Điều này thật xứng đáng với tôn giả Kosiya, như một người đã từng tạo phước đức trong quá khứ; và bất cứ khi nào loài người thấy điều gì đẹp đẽ, họ đều nói: 'Thưa chư vị, nó đẹp như của chư thiên cõi Ba mươi ba vậy!' Điều này thật xứng đáng với tôn giả Kosiya, như một người đã từng tạo phước đức."
+
+11\. Rồi tôn giả Mahā Moggallāna suy nghĩ như sau: "Vị thần này sống quá *lơ đễnh* (negligently/pamāda/phóng dật). Hay là ta hãy khơi dậy *tâm kinh cảm* (sense of urgency/saṃvega/sự sợ hãi luân hồi) nơi ông ấy?" Rồi tôn giả Mahā Moggallāna thi triển thần thông đến mức dùng ngón chân cái làm cho Cung điện Vejayanta rung chuyển, chấn động và run rẩy. [^400] [254] Sakka, Thiên vương Vessavana và chư thiên cõi Ba mươi ba đều kinh ngạc và sững sờ, họ nói: "Thưa chư vị, thật kỳ diệu, thật phi thường, uy lực và thần thông của vị sa-môn này thật lớn, chỉ với ngón chân cái mà ngài làm cho thiên cung rung chuyển, chấn động và run rẩy!"
+
+<!--pg-->
+12\. Khi tôn giả Mahā Moggallāna biết rằng Sakka, vua của các vị trời, đã khởi tâm kinh cảm đến dựng tóc gáy, ngài bèn hỏi ông: "Này Kosiya, Thế Tôn đã nói vắn tắt với ông như thế nào về sự giải thoát nhờ đoạn tận ái? Thật tốt nếu chúng tôi cũng được nghe lại lời dạy ấy."
+
+"Thưa tôn giả Moggallāna, tôi đã đi đến chỗ Thế Tôn, và sau khi đảnh lễ Ngài, tôi đứng sang một bên và bạch: 'Bạch Thế Tôn,... [như đoạn §2]... giữa chư thiên và loài người?' Khi lời này được nói ra, thưa tôn giả Moggallāna, Thế Tôn đã dạy tôi: 'Này vua của các vị trời,... [như đoạn §3]... giữa chư thiên và loài người.' Đó là cách Thế Tôn đã nói vắn tắt với tôi về sự giải thoát nhờ đoạn tận ái, thưa tôn giả Moggallāna."
+
+<!--pg-->
+13\. Bấy giờ tôn giả Mahā Moggallāna hoan hỷ và tín thọ lời của Sakka, vua của các vị trời. [255] Rồi, nhanh như một người lực sĩ duỗi cánh tay đang co hay co cánh tay đang duỗi, ngài biến mất khỏi chư thiên cõi Ba mươi ba và hiện ra tại Đông Viên, trong Lộc Mẫu Giảng Đường.
+
+14\. Rồi, ngay sau khi tôn giả Mahā Moggallāna vừa đi khỏi, các người hầu của Sakka, vua của các vị trời, hỏi ông: "Thưa ngài, đó có phải là bậc Đạo sư của ngài, là Thế Tôn không?" - "Không, thưa chư vị, đó không phải là bậc Đạo sư của ta, là Thế Tôn. Đó là một trong những *bạn đồng phạm hạnh* (companions in the holy life/sabrahmacārī) của ta, tôn giả Mahā Moggallāna." [^401] - "Thưa ngài, thật là một lợi đắc cho ngài khi có người bạn đồng phạm hạnh có đại thần lực và đại uy lực như vậy. Ôi, huống chi là bậc Đạo sư của ngài là Thế Tôn!"
+
+<!--pg-->
+15\. Rồi tôn giả Mahā Moggallāna đi đến chỗ Thế Tôn, sau khi đảnh lễ Ngài, tôn giả ngồi xuống một bên và bạch: "Bạch Thế Tôn, Thế Tôn có nhớ là đã từng thuyết vắn tắt - cho một vị thần danh tiếng có đông đảo quyến thuộc - về sự giải thoát nhờ đoạn tận ái không?"
+
+"Này Moggallāna, Ta có nhớ. Tại đây, Sakka, vua của các vị trời, đã đến gặp Ta, và sau khi đảnh lễ Ta, ông ấy đứng sang một bên và hỏi: 'Bạch Thế Tôn, vắn tắt như thế nào là một vị tỳ kheo được giải thoát nhờ đoạn tận ái, là bậc đã đạt đến cứu cánh tối thượng, sự an ổn khổ ách tối thượng, phạm hạnh tối thượng, mục đích tối thượng, là bậc tối thắng giữa chư thiên và loài người?' Khi lời này được nói ra, Ta đã bảo ông ấy: 'Này vua của các vị trời, ở đây, một vị tỳ kheo đã nghe rằng không có điều gì đáng để gắn bó vào. Khi một vị tỳ kheo đã nghe rằng không có điều gì đáng để gắn bó vào, thì vị ấy biết rõ mọi thứ; sau khi biết rõ mọi thứ, vị ấy hiểu thấu đáo mọi thứ; sau khi hiểu thấu đáo mọi thứ, bất cứ cảm thọ nào vị ấy cảm nhận, dù là dễ chịu, đau đớn hay không-đau-đớn-cũng-không-dễ-chịu, vị ấy an trú quan sát sự vô thường nơi các cảm thọ ấy, quan sát sự phai nhạt, quan sát sự chấm dứt, quan sát sự buông bỏ. Nhờ quan sát như vậy, vị ấy không nắm giữ bất cứ điều gì trên đời. Khi không nắm giữ, vị ấy không dao động. Khi không dao động, vị ấy tự mình chứng ngộ Niết bàn. Vị ấy hiểu rằng: "Sanh đã tận, phạm hạnh đã thành, [256] những việc cần làm đã làm, không còn trở lui trạng thái này nữa." Này vua của các vị trời, vắn tắt là theo cách này, một vị tỳ kheo được giải thoát nhờ đoạn tận ái... là bậc tối thắng giữa chư thiên và loài người.' Đó là cách Ta nhớ lại đã thuyết vắn tắt cho Sakka, vua của các vị trời, về sự giải thoát nhờ đoạn tận ái."
+
+Đó là những gì Thế Tôn đã thuyết. Tôn giả Mahā Moggallāna mãn nguyện và hoan hỷ với lời dạy của Thế Tôn.
+
+<!--pg-->
+**Từ ngữ:**
+
+- Sakka / Sakka / Đế Thích: Vua của cõi trời Đao Lợi (Ba mươi ba), người hộ trì Phật pháp.
+- vị trời / deva / gods: Chư thiên, những chúng sinh sống ở cõi trời, có phước báu và tuổi thọ cao hơn loài người.
+- tỳ kheo / bhikkhu / monk: Người nam xuất gia tu hành theo giáo pháp của Đức Phật (khất sĩ).
+- ái / taṇhā / craving: Sự khao khát, tham muốn mãnh liệt, nguyên nhân của khổ đau (tham ái).
+- gắn bó / abhinivesa / adhering: Sự bám víu, thiên chấp vào các quan điểm hoặc đối tượng (bám chấp).
+- biết rõ / abhiññā / directly knows: Sự hiểu biết trực tiếp, thấu suốt bằng trí tuệ (thắng tri).
+- hiểu thấu đáo / pariññā / fully understands: Sự hiểu biết trọn vẹn, cùng tột về bản chất của pháp (liễu tri).
+- cảm thọ / vedanā / feelings: Sự cảm nhận của tâm đối với các đối tượng (vui, khổ, hoặc trung tính).
+- quan sát / anupassanā / contemplating: Sự nhìn ngắm, quán chiếu liên tục vào bản chất của đối tượng (quán).
+- phai nhạt / virāga / fading away: Sự ly tham, không còn say mê đối tượng.
+- chấm dứt / nirodha / cessation: Sự diệt tận, ngưng nghỉ của các hành (đoạn diệt).
+- buông bỏ / paṭinissagga / relinquishment: Sự từ bỏ, xả ly hoàn toàn.
+- nắm giữ / upādāna / cling: Sự chấp thủ, ôm giữ chặt chẽ đối tượng (chấp thủ).
+- dao động / paritassati / agitated: Trạng thái lo âu, sợ hãi, run rẩy do tham ái và chấp thủ (ưu tư).
+- Niết bàn / Nibbāna / Nirvana: Trạng thái tịch diệt, giải thoát hoàn toàn khỏi khổ đau và luân hồi.
+- vị thần / yakkha / spirit: Ở đây chỉ Sakka hoặc một vị trời có uy lực (Dạ xoa).
+- Kosiya / Kosiya: Một tên gọi khác của Sakka (Kiều-thi-ca).
+- A-tu-la / asura / titans: Một loài chúng sinh hiếu chiến, thường tranh đấu với chư thiên (Phi thiên).
+- Vessavana / Vessavana: Một trong Tứ Đại Thiên Vương, cai quản phương Bắc (Tỳ-sa-môn).
+- lơ đễnh / pamāda / negligently: Sự thiếu chánh niệm, buông lung trong các dục (phóng dật).
+- tâm kinh cảm / saṃvega / sense of urgency: Sự xúc động mạnh mẽ, sợ hãi trước khổ đau luân hồi thúc đẩy nỗ lực tu tập.
+- bạn đồng phạm hạnh / sabrahmacārī / companions in the holy life: Những người cùng tu tập theo một giáo pháp thanh tịnh.

@@ -60,7 +60,7 @@ Từ ngữ:
 - Thủ-đà-la / Sudda / Worker (servant class): Giai cấp lao động, tôi tớ trong xã hội Ấn Độ cổ đại, được xem là thấp nhất.
 - Sa môn / Samaṇa / Recluse: Chỉ chung những người xuất gia tu hành, không thuộc truyền thống Bà-la-môn, tìm cầu giải thoát tâm linh, thường sống khổ hạnh hoặc khất thực.
 - Tà kiến / Micchā diṭṭhi / Wrong view: Quan điểm, nhận thức sai lầm về bản chất của thực tại, đặc biệt là về luật nhân quả (nghiệp), sự tái sinh, và con đường giải thoát. Đây là một trong những yếu tố bất thiện cản trở sự tiến bộ tâm linh.
-- Chánh kiến / Sammā diṭṭhi / Right view: Quan điểm, nhận thức đúng đắn về bản chất của thực tại, đặc biệt là về Bốn Sự Thật Cao Quý, luật nhân quả (nghiệp), sự tái sinh. Đây là yếu tố đầu tiên trong Bát Chánh Đạo.
+- Chánh kiến / Sammā diṭṭhi / Right view: Quan điểm, nhận thức đúng đắn về bản chất của thực tại, đặc biệt là về Bốn Sự Thật Cao Quý, luật nhân quả (nghiệp), sự tái sinh. Đây là yếu tố đầu tiên trong Tám Bước Thiện (Bát Chánh Đạo).
 - Tín / Saddhā / Faith: Niềm tin trong sạch, dựa trên sự hiểu biết (không phải mù quáng) vào Tam Bảo (Phật, Pháp, Tăng), vào luật nghiệp báo và khả năng giác ngộ.
 - Giới / Sīla / Virtue (morality): Các quy tắc đạo đức, hành vi đúng đắn về thân, khẩu, ý; sự giữ gìn các giới luật đã thọ nhận (như Ngũ giới, Bát quan trai giới, giới Tỳ kheo...).
 - Văn / Suta / Learning: Sự học hỏi, lắng nghe Giáo pháp (Dhamma) từ người khác hoặc từ kinh điển.

@@ -59,7 +59,7 @@
 <!--pg-->
 Từ ngữ:
 - Tỳ kheo / bhikkhu / monk: Nhà sư nam đã thọ giới cụ túc (upasampadā) trong Phật giáo Theravada, sống đời sống phạm hạnh theo giới luật do Đức Phật chế định.
-- Giáo Pháp / Dhamma / Dhamma: Lời dạy của Đức Phật, bao gồm chân lý về bản chất của thực tại (như Tứ Diệu Đế, Vô thường, Khổ, Vô ngã) và con đường thực hành dẫn đến sự chấm dứt khổ đau (Bát Chánh Đạo).
+- Giáo Pháp / Dhamma / Dhamma: Lời dạy của Đức Phật, bao gồm chân lý về bản chất của thực tại (như Tứ Diệu Đế, Vô thường, Khổ, Vô ngã) và con đường thực hành dẫn đến sự chấm dứt khổ đau (Tám Bước Thiện (Bát Chánh Đạo)).
 - A-la-hán, Chánh Đẳng Giác / Arahat, Sammāsambuddha / accomplished and fully enlightened: Bậc A-la-hán (Arahat) là người đã đạt được Niết Bàn, chấm dứt hoàn toàn khổ đau và vòng luân hồi sinh tử, đã hoàn thành con đường tu tập. Bậc Chánh Đẳng Giác (Sammāsambuddha - Đức Phật) là người tự mình giác ngộ hoàn toàn chân lý tối thượng mà không cần thầy chỉ dạy, và có khả năng dạy lại con đường giác ngộ cho chúng sinh. Trong ngữ cảnh này, "accomplished" (hoàn thiện) thường chỉ A-la-hán, "fully enlightened" (giác ngộ hoàn toàn) chỉ Đức Phật, nhưng đôi khi được dùng chung để chỉ sự giác ngộ viên mãn.
 - Sa môn / samaṇa / recluse: Thuật ngữ chỉ chung những người xuất gia tu hành theo các truyền thống tâm linh Ấn Độ cổ đại, không nhất thiết là Phật giáo. Họ thường từ bỏ đời sống thế tục, sống khổ hạnh hoặc thiền định để tìm cầu chân lý, khác với Bà-la-môn là tu sĩ thuộc giai cấp thế tập.
 - Đời sống phạm hạnh / brahmacariya / holy life: Đời sống thanh tịnh, trong sạch, đặc biệt là thực hành giới luật, sống độc thân (hoặc tiết dục đối với cư sĩ trong những ngày nhất định) và tu tập theo lời Phật dạy nhằm mục đích đạt được giải thoát khỏi khổ đau và luân hồi.

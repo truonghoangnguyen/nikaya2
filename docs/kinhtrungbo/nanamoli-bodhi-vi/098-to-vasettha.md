@@ -384,7 +384,7 @@ Từ ngữ:
 - khổ đau / dukkha / suffering: Sự khổ, bất toại nguyện, một trong Bốn Sự Thật Cao Quý, bao gồm khổ về thể xác (sinh, già, bệnh, chết) và tinh thần (buồn, lo, không được như ý...).
 - gánh nặng / bhāra / burden: Gánh nặng phiền não, ngũ uẩn mà chúng sinh phải mang vác trong vòng luân hồi.
 - trí tuệ / paññā / understanding: Sự hiểu biết sâu sắc, thấu suốt về bản chất của thực tại (vô thường, khổ, vô ngã), đặc biệt là về Tứ Diệu Đế và Duyên Khởi.
-- đạo / magga / path: Con đường tu tập dẫn đến sự chấm dứt khổ đau và giải thoát, đặc biệt là Bát Chánh Đạo.
+- đạo / magga / path: Con đường tu tập dẫn đến sự chấm dứt khổ đau và giải thoát, đặc biệt là Tám Bước Thiện (Bát Chánh Đạo).
 - phi đạo / amagga / not-path: Con đường sai lạc, không dẫn đến giải thoát, ngược lại với Chánh Đạo.
 - mục đích tối thượng / paramattha / goal supreme: Chân lý tuyệt đối, thực tại tối hậu, tức là Niết Bàn (Nibbāna).
 - người tại gia / gahaṭṭha / householders: Người sống đời sống gia đình, không xuất gia tu hành trọn vẹn thời gian.

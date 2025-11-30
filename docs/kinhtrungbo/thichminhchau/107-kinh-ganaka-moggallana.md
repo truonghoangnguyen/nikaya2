@@ -23,6 +23,7 @@ tám lần, chín, chín lần, mười, mười lần". Và thưa Tôn giả Go
 thể trình bày chăng, thưa Tôn giả Gotama, trong Pháp và Luật này, cũng có một tuần tự học tập, một
 tuần tự công trình, một tuần tự đạo lộ như vậy?
 
+<!--pg-->
 -- Có thể trình bày, này Bà-la-môn, trong Pháp và Luật này, có một tuần tự học tập, có một tuần tự công
 trình, có một tuần tự đạo lộ. Ví như, này Bà-la-môn, một người huấn luyện ngựa thiện xảo, sau khi được
 một con ngựa hiền thiện, trước tiên luyện tập cho nó quen mang dây cương, rồi tập luyện cho nó quen
@@ -31,6 +32,7 @@ huấn luyện người ấy như sau: "Hãy đến Tỷ-kheo, hãy giữ giới
 của giới bổn, đầy đủ oai nghi chánh hạnh, thấy sự nguy hiểm trong những lỗi nhỏ nhặt, thọ trì và học tập
 các học giới".
 
+<!--pg-->
 Này Bà-la-môn, khi vị Tỷ-kheo giữ giới hạnh, chế ngự với sự chế ngự của giới bổn, đầy đủ oai nghi
 chánh hạnh, thấy sự nguy hiểm trong những lỗi nhỏ nhặt, thọ trì và học tập các học giới, Như Lai mới
 huấn luyện vị ấy thêm như sau: "Hãy đến Tỷ-kheo, hãy hộ trì các căn, khi mắt thấy sắc chớ có nắm giữ
@@ -41,27 +43,30 @@ nhận thức các pháp, vị ấy không nắm giữ tướng chung, không n�
 gì, vì ý căn không được chế ngự, khiến tham ái, ưu bi, các pháp ác bất thiện khởi lên, Tỷ-kheo chế ngự
 nguyên nhân ấy, hộ trì ý căn, thực hành sự hộ trì ý căn".
 
+<!--pg-->
 Này Bà-la-môn, sau khi Tỷ-kheo hộ trì các căn rồi, Như Lai mới huấn luyện vị ấy thêm như sau: "Hãy
 đến Tỷ-kheo, hãy tiết độ trong ăn uống, chơn chánh giác sát thọ dụng món ăn, không phải để vui đùa,
 không phải để đam mê, không phải để trang sức, không phải để tự làm đẹp mình, chỉ để thân này được
 duy trì, được bảo dưỡng, khỏi bị gia hại, để chấp trì Phạm hạnh, nghĩ rằng: "Như vậy ta diệt trừ các cảm
 thọ cũ và không cho khởi lên các cảm thọ mới; và ta sẽ không phạm lỗi lầm, sống được an ổn".
 
+<!--pg-->
 Này Bà-la-môn, sau khi Tỷ-kheo tiết độ trong ăn uống rồi, Như Lai mới huấn luyện vị ấy thêm như sau:
 "Hãy đến Tỷ-kheo, hãy chú tâm cảnh giác! Ban ngày trong khi đi kinh hành và trong khi đang ngồi, gột
 sạch tâm trí khỏi các chướng ngại pháp; ban đêm trong canh đầu, trong khi đi kinh hành và trong khi
 đang ngồi, gột sạch tâm trí khỏi các chướng ngại pháp; ban đêm trong canh giữa, hãy nằm xuống phía
-
 hông bên phải, như dáng nằm con sư tử, chân gác trên chân với nhau, chánh niệm tỉnh giác, hướng niệm
 đến lúc ngồi dậy lại. Ban đêm trong canh cuối, khi đã thức dậy, trong khi đi kinh hành và trong khi đang
 ngồi, gột sạch tâm trí khỏi các chướng ngại pháp".
 
+<!--pg-->
 Này, Bà-la-môn, sau khi vị Tỷ-kheo chú tâm tỉnh giác, Như Lai mới huấn luyện vị ấy thêm nữa như sau:
 "Hãy đến Tỷ-kheo, hãy thành tựu chánh niệm tỉnh giác, khi đi tới khi đi lui đều tỉnh giác; khi nhìn thẳng,
 khi nhìn quanh đều tỉnh giác; khi co tay, khi duỗi tay đều tỉnh giác; khi mang y kép, bình bát, thượng y
 đều tỉnh giác; khi ăn, uống, nhai, nuốt, đều tỉnh giác; khi đi đại tiện, tiểu tiện đều tỉnh giác; khi đi, đứng,
 ngồi, nằm, thức, nói, yên lặng đều tỉnh giác".
 
+<!--pg-->
 Này Bà-la-môn, sau khi chánh niệm tỉnh giác rồi, Như Lai mới huấn luyện vị ấy thêm như sau: "Hãy
 đến Tỷ-kheo, hãy lựa một chỗ thanh vắng, tịch mịch như rừng, gốc cây, khe núi, hang đá, bãi tha ma,
 lùm cây, ngoài trời, đống rơm".

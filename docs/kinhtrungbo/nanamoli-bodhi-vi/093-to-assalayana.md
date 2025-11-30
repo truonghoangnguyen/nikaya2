@@ -139,7 +139,7 @@ Từ ngữ:
 - Giáo Pháp / Dhamma / Dhamma: Lời dạy của Đức Phật, chân lý về bản chất của thực tại, con đường dẫn đến giải thoát khổ đau.
 - tà kiến / micchā diṭṭhi / wrong view: Quan điểm sai lầm, không phù hợp với sự thật, đặc biệt là phủ nhận luật nhân quả (nghiệp báo), không tin có đời sau, không tin có sự giác ngộ.
 - cõi khổ, cõi dữ, đọa xứ, địa ngục / apāya, duggati, vinipāta, niraya / state of deprivation, unhappy destination, perdition, hell: Các cảnh giới tái sinh đau khổ do hậu quả của các hành động bất thiện (ác nghiệp), bao gồm địa ngục, ngạ quỷ, súc sinh, và a-tu-la.
-- chánh kiến / sammā diṭṭhi / right view: Quan điểm đúng đắn, phù hợp với sự thật, là yếu tố đầu tiên trong Bát Chánh Đạo. Bao gồm hiểu biết về Tứ Diệu Đế, luật nhân quả, và bản chất vô thường, khổ, vô ngã của các pháp.
+- chánh kiến / sammā diṭṭhi / right view: Quan điểm đúng đắn, phù hợp với sự thật, là yếu tố đầu tiên trong Tám Bước Thiện (Bát Chánh Đạo). Bao gồm hiểu biết về Tứ Diệu Đế, luật nhân quả, và bản chất vô thường, khổ, vô ngã của các pháp.
 - cõi lành, cõi trời / sugati, sagga loka / happy destination, heavenly world: Các cảnh giới tái sinh an vui do hậu quả của các hành động thiện (thiện nghiệp), bao gồm cõi người và các cõi trời.
 - lòng từ / mettā / loving-kindness: Tâm mong muốn cho tất cả chúng sinh được an lạc, hạnh phúc, không có sự thù hận hay ác ý. Là một trong Tứ Vô Lượng Tâm (Từ, Bi, Hỷ, Xả).
 - quả lớn / mahapphala / great fruit: Kết quả tốt đẹp, lợi ích to lớn, hạnh phúc lâu dài phát sinh từ các hành động thiện lành, đặc biệt là việc cúng dường đến người có đạo đức.

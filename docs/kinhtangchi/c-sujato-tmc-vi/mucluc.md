@@ -1,3 +1,4 @@
+## Chương I
 - [I. Phẩm Sắc](/kinhtangchi/c-sujato-tmc-vi/01-001-pham-sac)
 - [II. Phẩm Ðoạn Triền Cái](/kinhtangchi/c-sujato-tmc-vi/01-002-pham-doan-trien-cai)
 - [III. Phẩm Khó Sử Dụng](/kinhtangchi/c-sujato-tmc-vi/01-003-pham-kho-su-dung)
@@ -21,6 +22,8 @@
 - [XX. Phẩm Thiền Định (Búng Ngón Tay)](/kinhtangchi/c-sujato-tmc-vi/01-021-pham-thien-dinh-bung-ngon-tay)
 - [XXI. Phẩm Thiền Ðịnh (2) (Thân Hành Niệm)](/kinhtangchi/c-sujato-tmc-vi/01-022-pham-thien-dinh-2-than-hanh-niem)
 - [XXI. Phẩm Thiền Ðịnh (2) (Bất Tử)](/kinhtangchi/c-sujato-tmc-vi/01-023-pham-thien-dinh-2-bat-tu)
+
+## Chương II
 - [CHƯƠNG II: CHƯƠNG HAI PHÁP](/kinhtangchi/c-sujato-tmc-vi/02-000-chuong-2)
 - [I. Phẩm Hình Phạt](/kinhtangchi/c-sujato-tmc-vi/02-001-pham-hinh-phat)
 - [II. Phẩm Tranh Luận](/kinhtangchi/c-sujato-tmc-vi/02-002-pham-tranh-luan)
@@ -39,6 +42,8 @@
 - [XV. Phẩm Nhập Ðịnh](/kinhtangchi/c-sujato-tmc-vi/02-015-pham-nhap-dinh)
 - [XVI. Phẩm Phẫn Nộ](/kinhtangchi/c-sujato-tmc-vi/02-016-pham-phan-no)
 - [XVII. Phẩm Thứ Mười Bảy](/kinhtangchi/c-sujato-tmc-vi/02-017-pham-thu-muoi-bay)
+
+## Chương III
 - [CHƯƠNG III: CHƯƠNG BA PHÁP](/kinhtangchi/c-sujato-tmc-vi/03-000-chuong-3)
 - [I. Phẩm Người Ngu](/kinhtangchi/c-sujato-tmc-vi/03-001-pham-nguoi-ngu)
 - [II. Phẩm Người Ðóng Xe](/kinhtangchi/c-sujato-tmc-vi/03-002-pham-nguoi-dong-xe)
@@ -56,6 +61,8 @@
 - [XIV. Phẩm Kẻ Chiến Sĩ](/kinhtangchi/c-sujato-tmc-vi/03-014-pham-ke-chien-si)
 - [XV. Phẩm Cát Tường](/kinhtangchi/c-sujato-tmc-vi/03-015-pham-cat-tuong)
 - [XVI. Phẩm Lõa Thể](/kinhtangchi/c-sujato-tmc-vi/03-016-pham-loa-the)
+
+## Chương IV
 - [CHƯƠNG IV: CHƯƠNG BỐN PHÁP](/kinhtangchi/c-sujato-tmc-vi/04-000-chuong-4)
 - [I. Phẩm Bhandagana](/kinhtangchi/c-sujato-tmc-vi/04-001-pham-bhandagana)
 - [II. Phẩm Hành](/kinhtangchi/c-sujato-tmc-vi/04-002-pham-hanh)
@@ -85,6 +92,8 @@
 - [XXVI. Phẩm Thắng Trí](/kinhtangchi/c-sujato-tmc-vi/04-026-pham-thang-tri)
 - [XXVII. Phẩm Nghiệp Ðạo](/kinhtangchi/c-sujato-tmc-vi/04-027-pham-nghiep-dao)
 - [XXVIII. Phẩm Tham](/kinhtangchi/c-sujato-tmc-vi/04-028-pham-tham)
+
+## Chương V
 - [CHƯƠNG V: CHƯƠNG NĂM PHÁP](/kinhtangchi/c-sujato-tmc-vi/05-000-chuong-5)
 - [I. Phẩm Sức Mạnh Hữu Học](/kinhtangchi/c-sujato-tmc-vi/05-001-pham-suc-manh-huu-hoc)
 - [II. Phẩm Sức Mạnh](/kinhtangchi/c-sujato-tmc-vi/05-002-pham-suc-manh)
@@ -112,6 +121,8 @@
 - [XXIV. Phẩm Trú Tại Chỗ](/kinhtangchi/c-sujato-tmc-vi/05-024-pham-tru-tai-cho)
 - [XXV. Phẩm Ác Hành](/kinhtangchi/c-sujato-tmc-vi/05-025-pham-ac-hanh)
 - [XXVI. Phẩm Cụ Túc Giới](/kinhtangchi/c-sujato-tmc-vi/05-026-pham-cu-tuc-gioi)
+
+## Chương VI
 - [CHƯƠNG VI: CHƯƠNG SÁU PHÁP](/kinhtangchi/c-sujato-tmc-vi/06-000-chuong-6)
 - [I. Phẩm Ðáng Ðược Cung Kính](/kinhtangchi/c-sujato-tmc-vi/06-001-pham-dang-duoc-cung-kinh)
 - [II. Phẩm Cần Phải Nhớ](/kinhtangchi/c-sujato-tmc-vi/06-002-pham-can-phai-nho)
@@ -125,6 +136,8 @@
 - [X. Phẩm Lợi Ích](/kinhtangchi/c-sujato-tmc-vi/06-010-pham-loi-ich)
 - [XI. Phẩm Ba Pháp](/kinhtangchi/c-sujato-tmc-vi/06-011-pham-ba-phap)
 - [XII. Phẩm Các Kinh Không Nhiếp Trong Phẩm](/kinhtangchi/c-sujato-tmc-vi/06-012-pham-cac-kinh-khong-nhiep-trong-pham)
+
+## Chương VII
 - [CHƯƠNG VII: CHƯƠNG BẢY PHÁP](/kinhtangchi/c-sujato-tmc-vi/07-000-chuong-7)
 - [I. Phẩm Tài Sản](/kinhtangchi/c-sujato-tmc-vi/07-001-pham-tai-san)
 - [II. Phẩm Tùy Miên](/kinhtangchi/c-sujato-tmc-vi/07-002-pham-tuy-mien)
@@ -135,6 +148,8 @@
 - [VII. Ðại Phẩm](/kinhtangchi/c-sujato-tmc-vi/07-007-dai-pham)
 - [VIII. Phẩm Về Luật](/kinhtangchi/c-sujato-tmc-vi/07-008-pham-ve-luat)
 - [IX. Phẩm Các Kinh Không Nhiếp](/kinhtangchi/c-sujato-tmc-vi/07-009-pham-cac-kinh-khong-nhiep)
+
+## Chương VIII
 - [CHƯƠNG VIII: CHƯƠNG TÁM PHÁP](/kinhtangchi/c-sujato-tmc-vi/08-000-chuong-8)
 - [I. Phẩm Từ](/kinhtangchi/c-sujato-tmc-vi/08-001-pham-tu)
 - [II. Phẩm Lớn](/kinhtangchi/c-sujato-tmc-vi/08-002-pham-lon)
@@ -146,6 +161,8 @@
 - [VIII. Phẩm Song Ðôi](/kinhtangchi/c-sujato-tmc-vi/08-008-pham-song-doi)
 - [IX. Phẩm Niệm](/kinhtangchi/c-sujato-tmc-vi/08-009-pham-niem)
 - [X. Phẩm Tham Ái](/kinhtangchi/c-sujato-tmc-vi/08-010-pham-tham-ai)
+
+## Chương IX
 - [CHƯƠNG IX: CHƯƠNG CHÍN PHÁP](/kinhtangchi/c-sujato-tmc-vi/09-000-chuong-9)
 - [I. Phẩm Chánh Giác](/kinhtangchi/c-sujato-tmc-vi/09-001-pham-chanh-giac)
 - [II. Phẩm Tiếng Rống Con Sư Tử](/kinhtangchi/c-sujato-tmc-vi/09-002-pham-tieng-rong-con-su-tu)
@@ -157,6 +174,8 @@
 - [VIII. Phẩm Chánh Cần](/kinhtangchi/c-sujato-tmc-vi/09-008-pham-chanh-can)
 - [IX. Phẩm Bốn Như Ý Túc](/kinhtangchi/c-sujato-tmc-vi/09-009-pham-bon-nhu-y-tuc)
 - [X. Phẩm Tham](/kinhtangchi/c-sujato-tmc-vi/09-010-pham-tham)
+
+## Chương X
 - [CHƯƠNG X: CHƯƠNG MƯỜI PHÁP](/kinhtangchi/c-sujato-tmc-vi/10-000-chuong-10)
 - [I. Phẩm Lợi Ích](/kinhtangchi/c-sujato-tmc-vi/10-001-pham-loi-ich)
 - [II. Phẩm Hộ Trì](/kinhtangchi/c-sujato-tmc-vi/10-002-pham-ho-tri)
@@ -180,6 +199,8 @@
 - [XX. Phẩm Các Hạng Người](/kinhtangchi/c-sujato-tmc-vi/10-020-pham-cac-hang-nguoi)
 - [XXI. Phẩm Thân Do Nghiệp Sanh](/kinhtangchi/c-sujato-tmc-vi/10-021-pham-than-do-nghiep-sanh)
 - [XXII. Phẩm Không Có Ðầu Ðề](/kinhtangchi/c-sujato-tmc-vi/10-022-pham-khong-co-dau-de)
+
+## Chương XI
 - [CHƯƠNG XI: CHƯƠNG MƯỜI MỘT PHÁP](/kinhtangchi/c-sujato-tmc-vi/11-000-chuong-11)
 - [I. Phẩm Y Chỉ](/kinhtangchi/c-sujato-tmc-vi/11-001-pham-y-chi)
 - [II. Phẩm Tùy Niệm](/kinhtangchi/c-sujato-tmc-vi/11-002-pham-tuy-niem)
