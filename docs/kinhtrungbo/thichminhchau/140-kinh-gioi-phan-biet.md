@@ -204,7 +204,6 @@ có vật liệu khác được đem đến, ngọn đèn dầu ấy bị diệt
 cảm thọ lấy thân làm tối hậu, vị ấy tuệ tri: "Tôi cảm giác một cảm thọ lấy thân làm tối hậu". Khi cảm
 giác một cảm thọ lấy sinh mạng làm tối hậu, vị ấy tuệ tri: "Tôi cảm giác một cảm thọ lấy sinh mạng làm
 tối hậu"; vị ấy tuệ tri: "Sau khi thân hoại mạng chung, mọi cảm thọ hoan hỷ ở nơi đây trở thành thanh
-
 lương".
 
 Do vậy, Tỷ-kheo thành tựu như vậy là thành tựu với tối thắng tuệ thắng xứ này. Vì rằng, này Tỷ-kheo,

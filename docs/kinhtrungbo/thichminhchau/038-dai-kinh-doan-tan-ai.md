@@ -97,7 +97,7 @@ luân chuyển nhưng không đổi khác.
 
 -- Này Sati, thế nào là thức ấy.
 
--- Bạch Thế Tôn, chính thức ấy nói cảm thọ, thọ lãnh chỗ này, chỗ kia, kết quả các hành động thiện ác.
+-- Bạch Thế Tôn, chính thức ấy nói, cảm thọ, thọ lãnh chỗ này, chỗ kia, kết quả các hành động thiện ác.
 
 -- Này kẻ mê mờ kia, vì ai mà Ông lại hiểu pháp Ta thuyết giảng như vậy. Này kẻ mê mờ kia, có phải
 chăng, Ta đã dùng nhiều pháp môn nói là thức do duyên khởi, không có duyên, thì thức không hiện
@@ -215,7 +215,7 @@ chánh trí tuệ không?
 
 -- Bạch Thế Tôn, có vậy.
 
-- Này các Tỷ-kheo, sự hiện hữu của sanh vật ấy là do các món ăn ấy tác thành,... này, có phải các Ông
+-- Này các Tỷ-kheo, sự hiện hữu của sanh vật ấy là do các món ăn ấy tác thành,... này, có phải các Ông
 khéo thấy nhờ như thật chánh trí tuệ không?
 
 -- Bạch Thế Tôn, có vậy.
@@ -302,7 +302,7 @@ nào?
 
 -- Bạch Thế Tôn, thọ duyên ái. Như vậy đối với chúng con, (nghĩa) ở đây là vậy: Thọ duyên ái.
 
-- Trước đã nói: Xúc duyên thọ. Này các Tỷ-kheo, xúc duyên thọ có phải không? Hay ở đây (nghĩa) như
+-- Trước đã nói: Xúc duyên thọ. Này các Tỷ-kheo, xúc duyên thọ có phải không? Hay ở đây (nghĩa) như
 thế nào?
 
 -- Bạch Thế Tôn, xúc duyên thọ. Như vậy đối với chúng con, (nghĩa) ở đây là vậy: Xúc duyên thọ.

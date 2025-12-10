@@ -22,7 +22,6 @@ const nanamoli_bodhi_vi = [
   { text: "Tóm tắt 152 bài kinh", link: "/kinhtrungbo/nanamoli-bodhi-vi/intro/21.a-summary-of-the-152-suttas.md" },
   { text: "PHẦN HAI: TRUNG PHẦN KINH", link: "/kinhtrungbo/nanamoli-bodhi-vi/intro/22.part-two-the-middle-fifty-discourses.md" },
   { text: "PHẦN BA: 50 BÀI KINH CUỐI CÙNG", link: "/kinhtrungbo/nanamoli-bodhi-vi/intro/23.part-three-the-final-fifty-discourses.md" },
-
   { text: "MN 1. Gốc Rễ Của Mọi Sự Vật", link: "/kinhtrungbo/nanamoli-bodhi-vi/001-the-root-of-all-things.md" },
   { text: "MN 2. Tất Cả Các Lậu Hoặc", link: "/kinhtrungbo/nanamoli-bodhi-vi/002-all-the-taints.md" },
   { text: "MN 3. Người Thừa Tự Pháp", link: "/kinhtrungbo/nanamoli-bodhi-vi/003-heirs-in-dhamma.md" },
