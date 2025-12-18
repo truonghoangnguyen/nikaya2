@@ -1,241 +1,211 @@
-# MN 43. Đại Kinh Vấn Đáp
+# 43. Đại kinh Vấn đáp
 ***(Mahāvedalla Sutta)***
 
-[292] 1\. Tôi nghe như vầy. Một thời Đức Thế Tôn trú tại thành Xá-vệ (Sāvatthī), trong Rừng Jeta, khu vườn của ông Anāthapiṇḍika (Cấp Cô Độc).
+[292] 1. Như vầy tôi nghe. Một thời Thế Tôn đang trú tại Sāvatthī (Xá-vệ), trong Rừng Jeta (Kỳ-đà), tại Vườn ông Anāthapiṇ̣ika (Cấp Cô Độc).
 
-Khi ấy, vào buổi chiều, Đại đức Mahā Kotthita xả thiền, đi đến chỗ Đại đức Sāriputta và chào hỏi xã giao. Sau khi cuộc nói chuyện thân mật và hòa nhã kết thúc, ngài ngồi xuống một bên và hỏi Đại đức Sāriputta:
+Bấy giờ, khi trời đã xế chiều, Tôn giả Mahā Kotthita xuất thiền, đi đến chỗ Tôn giả Sāriputta (Xá-lợi-phất), và trao đổi lời chào hỏi với vị ấy. [428](/kinhtrungbo/nanamoli-bodhi-vi/notes/043#428){.note} Khi cuộc trò chuyện thân mật và nhã nhặn này kết thúc, ông ngồi xuống một bên và thưa với Tôn giả Sāriputta:
 
 <!--pg-->
-**(TRÍ TUỆ)**
+(TRÍ TUỆ)
 
-2\. "Thưa hiền giả, người ta nói 'người thiếu trí tuệ, người thiếu trí tuệ'. Nói như vậy là dựa vào đâu?"
+2\. "Thưa hiền giả, người ta thường nói 'người không có trí tuệ, người không có trí tuệ'. Dựa vào đâu mà nói là 'người không có trí tuệ'?"
 
-"Thưa hiền giả, 'người đó không hiểu biết một cách trí tuệ, người đó không hiểu biết một cách trí tuệ'; đó là lý do tại sao nói 'người thiếu trí tuệ (one who is unwise - người không có sự hiểu biết đúng đắn, đặc biệt về Tứ Diệu Đế)'. Và người đó không hiểu biết một cách trí tuệ về điều gì? Người đó không hiểu biết một cách trí tuệ: 'Đây là khổ'; người đó không hiểu biết một cách trí tuệ: 'Đây là nguồn gốc của khổ'; người đó không hiểu biết một cách trí tuệ: 'Đây là sự chấm dứt khổ'; người đó không hiểu biết một cách trí tuệ: 'Đây là con đường dẫn đến sự chấm dứt khổ.' 'Người đó không hiểu biết một cách trí tuệ, người đó không hiểu biết một cách trí tuệ,' thưa hiền giả; đó là lý do tại sao nói 'người thiếu trí tuệ.'"
+"Thưa hiền giả, 'người ấy *không thấu hiểu* (wisely understand/ Nappajānāti), người ấy không thấu hiểu'; đó là lý do tại sao nói là 'người *không có trí tuệ*' (duppaññoti). Và người ấy không thấu hiểu điều gì? Người ấy không thấu hiểu: 'Đây là khổ'; người ấy không thấu hiểu: 'Đây là nguồn gốc của khổ'; người ấy không thấu hiểu: 'Đây là sự chấm dứt khổ'; người ấy không thấu hiểu: 'Đây là con đường dẫn đến sự chấm dứt khổ'. Thưa hiền giả, 'người ấy không thấu hiểu, người ấy không thấu hiểu'; đó là lý do tại sao nói là 'người không có trí tuệ'."
 
-Nói: "Lành thay, hiền giả," Đại đức Mahā Kotthita hoan hỷ và vui mừng với lời của Đại đức Sāriputta. Sau đó, ngài hỏi thêm một câu nữa:
+Nói lời: "Lành thay, thưa hiền giả," Tôn giả Mahā Kotthita hoan hỷ và tán thán lời của Tôn giả Sāriputta. Sau đó, ông hỏi thêm một câu hỏi nữa:
 
-3\. "Thưa hiền giả, người ta nói 'người có trí tuệ, người có trí tuệ'. Nói như vậy là dựa vào đâu?"
+3\. "Thưa hiền giả, người ta thường nói 'người có trí tuệ (WISDOM/ paññā), người có trí tuệ'. Dựa vào đâu mà nói là 'người có trí tuệ'?"
 
-"Thưa hiền giả, 'người đó hiểu biết một cách trí tuệ, người đó hiểu biết một cách trí tuệ'; đó là lý do tại sao nói 'người có trí tuệ (one who is wise - người có sự hiểu biết đúng đắn, đặc biệt về Tứ Diệu Đế)'. Người đó hiểu biết một cách trí tuệ về điều gì? Người đó hiểu biết một cách trí tuệ: 'Đây là khổ'; người đó
-hiểu biết một cách trí tuệ: 'Đây là nguồn gốc của khổ'; người đó hiểu biết một cách trí tuệ: 'Đây là sự chấm dứt khổ'; người đó hiểu biết một cách trí tuệ: 'Đây là con đường dẫn đến sự chấm dứt khổ.' 'Người đó hiểu biết một cách trí tuệ, người đó hiểu biết một cách trí tuệ,' thưa hiền giả; đó là lý do tại sao nói 'người có trí tuệ.'"429
+"Thưa hiền giả, 'người ấy thấu hiểu, người ấy thấu hiểu'; đó là lý do tại sao nói là 'người có trí tuệ'. Người ấy thấu hiểu điều gì? Người ấy thấu hiểu: 'Đây là khổ'; người ấy thấu hiểu: 'Đây là nguồn gốc của khổ'; người ấy thấu hiểu: 'Đây là sự chấm dứt khổ'; người ấy thấu hiểu: 'Đây là con đường dẫn đến sự chấm dứt khổ'. Thưa hiền giả, 'người ấy thấu hiểu, người ấy thấu hiểu'; đó là lý do tại sao nói là 'người có *trí tuệ* (wisdom/ paññā/ tuệ)'." [429](/kinhtrungbo/nanamoli-bodhi-vi/notes/043#429){.note}
 
 <!--pg-->
 #### (THỨC)
 
-4\. "Thưa hiền giả, người ta nói 'thức, thức'. Nói như vậy là dựa vào đâu?"
+4\. "Thưa hiền giả, người ta thường nói 'thức, thức'. Dựa vào đâu mà nói là 'thức'?"
 
-"Thưa hiền giả, 'nó nhận biết, nó nhận biết'; đó là lý do tại sao nói 'thức (consciousness - khả năng nhận biết đối tượng của tâm, viññāṇa)'. [^430] Nó nhận biết điều gì? Nó nhận biết: '[Đây là] dễ chịu'; nó nhận biết: '[Đây là] khó chịu'; nó nhận biết: '[Đây là] không khó chịu cũng không dễ chịu.' 'Nó nhận biết, nó nhận biết,' thưa hiền giả; đó là lý do tại sao nói 'thức.'" [^431]
+"Thưa hiền giả, 'nó nhận thức, nó nhận thức'; đó là lý do tại sao nói là 'thức'. [430](/kinhtrungbo/nanamoli-bodhi-vi/notes/043#430){.note} Nó nhận thức điều gì? Nó nhận thức: '[Đây là] lạc'; nó nhận thức: '[Đây là] khổ'; nó nhận thức: '[Đây là] không-khổ-cũng-không-lạc'. Thưa hiền giả, 'nó nhận thức, nó nhận thức'; đó là lý do tại sao nói là '*thức* (consciousness/ viññāṇa/ nhận thức)'." [431](/kinhtrungbo/nanamoli-bodhi-vi/notes/043#431){.note}
 
-5\. "Thưa hiền giả, trí tuệ và thức – những trạng thái này liên kết hay tách rời? Và có thể tách riêng từng trạng thái này ra khỏi trạng thái kia để mô tả sự khác biệt giữa chúng không?"
+5\. "Thưa hiền giả, trí tuệ và thức - những trạng thái này kết hợp hay tách rời nhau? Và liệu có thể tách biệt mỗi trạng thái này khỏi trạng thái kia để mô tả sự khác biệt giữa chúng không?"
 
-"Thưa hiền giả, trí tuệ và thức – những trạng thái này liên kết, không tách rời, và không thể tách riêng từng trạng thái này ra khỏi trạng thái kia để mô tả sự khác biệt giữa chúng. Vì cái gì người ta hiểu biết một cách trí tuệ (wisdom - sự hiểu biết sâu sắc về bản chất của thực tại, paññā), cái đó người ta nhận biết, và cái gì người ta nhận biết, cái đó người ta hiểu biết một cách trí tuệ. [293] Đó là lý do tại sao những trạng thái này liên kết, không tách rời, và không thể tách riêng từng trạng thái này ra khỏi trạng thái kia để mô tả sự khác biệt giữa chúng." [^432]
+"Thưa hiền giả, trí tuệ và thức - những trạng thái này kết hợp, không tách rời, và không thể tách biệt mỗi trạng thái này khỏi trạng thái kia để mô tả sự khác biệt giữa chúng. Vì điều gì một người thấu hiểu, thì người ấy nhận thức, và điều gì một người nhận thức, thì người ấy thấu hiểu. [293] Đó là lý do tại sao những trạng thái này kết hợp, không tách rời, và không thể tách biệt mỗi trạng thái này khỏi trạng thái kia để mô tả sự khác biệt giữa chúng." [432](/kinhtrungbo/nanamoli-bodhi-vi/notes/043#432){.note}
 
-6\. "Thưa hiền giả, sự khác biệt giữa trí tuệ và thức, những trạng thái liên kết, không tách rời này là gì?"
+6\. "Thưa hiền giả, vậy sự khác biệt giữa trí tuệ và thức, những trạng thái kết hợp và không tách rời này, là gì?"
 
-"Thưa hiền giả, sự khác biệt giữa trí tuệ và thức, những trạng thái liên kết, không tách rời này là: trí tuệ cần được phát triển (to be developed - cần được tu tập, vun bồi), thức cần được hiểu rõ hoàn toàn (to be fully understood - cần được nhận biết và thấu suốt bản chất, liễu tri)." [^433]
+"Thưa hiền giả, sự khác biệt giữa trí tuệ và thức, những trạng thái kết hợp và không tách rời này, là thế này: trí tuệ là điều cần được phát triển, còn thức là điều cần được hiểu thấu đáo." [433](/kinhtrungbo/nanamoli-bodhi-vi/notes/043#433){.note}
 
 <!--pg-->
-#### (THỌ)
+#### (CẢM THỌ)
 
-7\. "Thưa hiền giả, người ta nói 'thọ, thọ'. Nói như vậy là dựa vào đâu?"
+7\. "Thưa hiền giả, người ta thường nói 'cảm thọ, cảm thọ'. Dựa vào đâu mà nói là 'cảm thọ'?"
 
-"Thưa hiền giả, 'nó cảm nhận, nó cảm nhận'; đó là lý do tại sao nói 'thọ (feeling - cảm giác dễ chịu, khó chịu, hay trung tính khi tiếp xúc đối tượng, vedanā)'. Nó cảm nhận điều gì? Nó cảm nhận sự dễ chịu, nó cảm nhận sự khó chịu, nó cảm nhận sự không khó chịu cũng không dễ chịu. 'Nó cảm nhận, nó cảm nhận,' thưa hiền giả, đó là lý do tại sao nói 'thọ.'" [^434]
+"Thưa hiền giả, 'nó cảm nhận, nó cảm nhận'; đó là lý do tại sao nói là 'cảm thọ'. Nó cảm nhận điều gì? Nó cảm nhận lạc, nó cảm nhận khổ, nó cảm nhận không-khổ-cũng-không-lạc. Thưa hiền giả, 'nó cảm nhận, nó cảm nhận', đó là lý do tại sao nói là '*cảm thọ* (feeling/ vedanā/ cảm giác)'." [434](/kinhtrungbo/nanamoli-bodhi-vi/notes/043#434){.note}
 
 <!--pg-->
 #### (TƯỞNG)
 
-8\. "Thưa hiền giả, người ta nói 'tưởng, tưởng'. Nói như vậy là dựa vào đâu?"
+8\. "Thưa hiền giả, người ta thường nói 'tưởng, tưởng'. Dựa vào đâu mà nói là 'tưởng'?"
 
-"Thưa hiền giả, 'nó nhận thức, nó nhận thức'; đó là lý do tại sao nói 'tưởng (perception - sự nhận ra, ghi nhận đặc điểm của đối tượng, saññā)'. Nó nhận thức điều gì? Nó nhận thức màu xanh, nó nhận thức màu vàng, nó nhận thức màu đỏ, và nó nhận thức màu trắng. 'Nó nhận thức, nó nhận thức,' thưa hiền giả; đó là lý do tại sao nói 'tưởng.'" [^435]
+"Thưa hiền giả, 'nó nhận biết, nó nhận biết'; đó là lý do tại sao nói là 'tưởng'. Nó nhận biết điều gì? Nó nhận biết màu xanh, nó nhận biết màu vàng, nó nhận biết màu đỏ, và nó nhận biết màu trắng. Thưa hiền giả, 'nó nhận biết, nó nhận biết'; đó là lý do tại sao nói là '*tưởng* (perception/ saññā/ tri giác)'." [435](/kinhtrungbo/nanamoli-bodhi-vi/notes/043#435){.note}
 
-9\. "Thưa hiền giả, thọ, tưởng, và thức – những trạng thái này liên kết hay tách rời? Và có thể tách riêng từng trạng thái này ra khỏi những trạng thái kia để mô tả sự khác biệt giữa chúng không?"
+9\. "Thưa hiền giả, cảm thọ, tưởng và thức - những trạng thái này kết hợp hay tách rời nhau? Và liệu có thể tách biệt mỗi trạng thái này khỏi những trạng thái kia để mô tả sự khác biệt giữa chúng không?"
 
-"Thưa hiền giả, thọ, tưởng, và thức – những trạng thái này liên kết, không tách rời, và không thể tách riêng từng trạng thái này ra khỏi những trạng thái kia để mô tả sự khác biệt giữa chúng. Vì cái gì người ta cảm nhận, cái đó người ta nhận thức; và cái gì người ta nhận thức, cái đó người ta nhận biết. Đó là lý do tại sao những trạng thái này liên kết, không tách rời, và không thể tách riêng từng trạng thái này ra khỏi những trạng thái kia để mô tả sự khác biệt giữa chúng." [^436]
+"Thưa hiền giả, cảm thọ, tưởng và thức - những trạng thái này kết hợp, không tách rời, và không thể tách biệt mỗi trạng thái này khỏi những trạng thái kia để mô tả sự khác biệt giữa chúng. Vì điều gì một người cảm nhận, thì người ấy nhận biết; và điều gì một người nhận biết, thì người ấy nhận thức. Đó là lý do tại sao những trạng thái này kết hợp, không tách rời, và không thể tách biệt mỗi trạng thái này khỏi những trạng thái kia để mô tả sự khác biệt giữa chúng." [436](/kinhtrungbo/nanamoli-bodhi-vi/notes/043#436){.note}
 
 <!--pg-->
-#### (CÁI CÓ THỂ BIẾT CHỈ BẰNG TÂM)
+#### (ĐIỀU ĐƯỢC BIẾT BỞI Ý)
 
-10\. "Thưa hiền giả, điều gì có thể được biết bởi ý thức thanh tịnh (purified mind-consciousness - tâm thức đã được gạn lọc, không còn bị chi phối bởi năm giác quan vật lý) đã thoát khỏi năm giác quan (five faculties - mắt, tai, mũi, lưỡi, thân; năm căn)?"
+10\. "Thưa hiền giả, điều gì có thể được biết bởi ý thức thanh tịnh đã thoát khỏi năm *giác quan* (faculties/ indriya/ căn)?"
 
-"Thưa hiền giả, bởi ý thức thanh tịnh đã thoát khỏi năm giác quan, có thể biết được Không vô biên xứ như sau: 'Không gian là vô biên'; có thể biết được Thức vô biên xứ như sau: 'Thức là vô biên'; và có thể biết được Vô sở hữu xứ như sau: 'Không có gì cả.'"437
+"Thưa hiền giả, bởi ý thức thanh tịnh đã thoát khỏi năm giác quan, Không vô biên xứ có thể được biết như sau: 'Hư không là vô biên'; Thức vô biên xứ có thể được biết như sau: 'Thức là vô biên'; và Vô sở hữu xứ có thể được biết như sau: 'Không có gì cả'." [437](/kinhtrungbo/nanamoli-bodhi-vi/notes/043#437){.note}
 
-11\. "Thưa hiền giả, người ta hiểu một trạng thái có thể biết được bằng cái gì?"
+11\. "Thưa hiền giả, một người hiểu một trạng thái có thể được biết bằng cái gì?"
 
-"Thưa hiền giả, người ta hiểu một trạng thái có thể biết được bằng mắt trí tuệ (eye of wisdom - khả năng thấy biết bằng trí tuệ, không phải mắt thường)." [^438]
+"Thưa hiền giả, một người hiểu một trạng thái có thể được biết bằng con mắt trí tuệ." [438](/kinhtrungbo/nanamoli-bodhi-vi/notes/043#438){.note}
 
 12\. "Thưa hiền giả, mục đích của trí tuệ là gì?"
 
-"Mục đích của trí tuệ, thưa hiền giả, là thắng trí (direct knowledge - sự hiểu biết trực tiếp, không qua suy luận, abhiññā), mục đích của nó là liễu tri (full understanding - sự hiểu biết toàn diện, thấu suốt, pariññā), mục đích của nó là đoạn tận (abandoning - sự từ bỏ hoàn toàn, không còn dấu vết, pahāna)." [^439]
+"Thưa hiền giả, mục đích của trí tuệ là thắng tri (biết trực tiếp), mục đích của nó là liễu tri (hiểu thấu đáo), mục đích của nó là đoạn trừ." [439](/kinhtrungbo/nanamoli-bodhi-vi/notes/043#439){.note}
 
 <!--pg-->
-**(CHÁNH KIẾN)**
+(CHÁNH KIẾN)
 
-[294] 13\. "Thưa hiền giả, có bao nhiêu điều kiện cho sự phát sinh của chánh kiến (right view - sự hiểu biết đúng đắn, phù hợp với sự thật, sammā diṭṭhi)?"
+[294] 13. "Thưa hiền giả, có bao nhiêu điều kiện cho sự phát sinh của chánh kiến?"
 
-"Thưa hiền giả, có hai điều kiện cho sự phát sinh của chánh kiến: tiếng nói của người khác (voice of another - sự chỉ dẫn, lời dạy từ người khác, thường là bậc thiện tri thức) và như lý tác ý (wise attention - sự chú ý đúng đắn, hướng tâm đến gốc rễ vấn đề, yoniso manasikāra). Đây là hai điều kiện cho sự phát sinh của chánh kiến." [^440]
+"Thưa hiền giả, có hai điều kiện cho sự phát sinh của chánh kiến: tiếng nói của người khác và sự chú ý khéo léo (như lý tác ý). Đó là hai điều kiện cho sự phát sinh của *chánh kiến* (right view/ sammā-diṭṭhi/ quan điểm đúng đắn)." [440](/kinhtrungbo/nanamoli-bodhi-vi/notes/043#440){.note}
 
-14\. "Thưa hiền giả, chánh kiến được hỗ trợ bởi bao nhiêu yếu tố để có *quả là tâm giải thoát* (deliverance of mind - sự giải thoát khỏi các trói buộc, ô nhiễm của tâm, cetovimutti), có *lợi ích là tâm giải thoát*; để  có *quả là tuệ giải thoát* (deliverance by wisdom - sự giải thoát nhờ trí tuệ thấy rõ sự thật, paññāvimutti), có *lợi ích là tuệ giải thoát*?"
+14\. "Thưa hiền giả, chánh kiến được hỗ trợ bởi bao nhiêu yếu tố khi nó có tâm giải thoát là quả, có tâm giải thoát là quả và lợi ích, khi nó có tuệ giải thoát là quả, có tuệ giải thoát là quả và lợi ích?"
 
-"Thưa hiền giả, chánh kiến được hỗ trợ bởi năm yếu tố để nó có quả là tâm giải thoát, có lợi ích là tâm giải thoát; có quả là tuệ giải thoát, có lợi ích là tuệ giải thoát. Ở đây, thưa hiền giả, chánh kiến được hỗ trợ bởi giới (đạo đức), văn (học hỏi), tư (thảo luận/suy nghiệm), định (sự tĩnh lặng), và tuệ (minh sát/trí tuệ). Chánh kiến được hỗ trợ bởi năm yếu tố này có tâm giải thoát làm kết quả, tâm giải thoát làm kết quả và lợi ích; nó có tuệ giải thoát làm kết quả, tuệ giải thoát làm kết quả và lợi ích." [^441]
-
-<!--pg-->
-**(HỮU)**
-
-15\. "Thưa hiền giả, có bao nhiêu loại hữu (being - sự hiện hữu, các cảnh giới tồn tại, bhava)?"
-
-"Có ba loại hữu này, thưa hiền giả: dục hữu (cõi dục), sắc hữu (cõi sắc), và vô sắc hữu (cõi vô sắc)."
-
-16\. "Thưa hiền giả, sự tái diễn của hữu trong tương lai được tạo ra như thế nào?"
-
-"Thưa hiền giả, sự tái diễn của hữu trong tương lai được tạo ra thông qua sự thích thú nơi này nơi kia của các chúng sinh bị vô minh che lấp và bị trói buộc bởi tham ái (fettered by craving - bị ràng buộc bởi lòng ham muốn)." [^442]
-
-17\. "Thưa hiền giả, làm thế nào mà sự tái diễn của hữu trong tương lai không được tạo ra?"
-
-"Thưa hiền giả, với sự phai nhạt của vô minh, với sự phát sinh của minh (true knowledge - trí tuệ chân thật, đối nghịch với vô minh, vijjā), và với sự chấm dứt của tham ái, sự tái diễn của hữu trong tương lai không được tạo ra."
+"Thưa hiền giả, chánh kiến được hỗ trợ bởi năm yếu tố khi nó có *tâm giải thoát* (deliverance of mind/ cetovimutti) là quả, có tâm giải thoát là quả và lợi ích, khi nó có *tuệ giải thoát* (deliverance by wisdom/ paññāvimutti) là quả, có tuệ giải thoát là quả và lợi ích. Ở đây, thưa hiền giả, chánh kiến được hỗ trợ bởi giới, văn (học hỏi), thảo luận, chỉ (thiền định) và quán (minh sát). Chánh kiến được hỗ trợ bởi năm yếu tố này có tâm giải thoát là quả, có tâm giải thoát là quả và lợi ích; nó có tuệ giải thoát là quả, có tuệ giải thoát là quả và lợi ích." [441](/kinhtrungbo/nanamoli-bodhi-vi/notes/043#441){.note}
 
 <!--pg-->
-**(SƠ THIỀN)**
+(SỰ HIỆN HỮU)
 
-18\. "Thưa hiền giả, sơ thiền (first jhāna - tầng thiền thứ nhất trong thiền định) là gì?"
+15\. "Thưa hiền giả, có bao nhiêu loại hiện hữu?"
 
-"Ở đây, thưa hiền giả, hoàn toàn ly dục, ly bất thiện pháp, một tỳ kheo nhập và trú vào sơ thiền, một trạng thái có tầm (applied thought - sự hướng tâm đến đối tượng thiền, vitakka) và tứ (sustained thought - sự duy trì tâm trên đối tượng thiền, vicāra), với hỷ (rapture - niềm vui thích, phấn khởi trong thiền, pīti) và lạc (pleasure - cảm giác dễ chịu, an lạc trong thiền, sukha) do ly dục sinh. Đây được gọi là sơ thiền."
+"Thưa hiền giả, có ba loại *sự hiện hữu* (being/ bhava/ hữu) này: dục hữu, sắc hữu và vô sắc hữu."
 
-19\. "Thưa hiền giả, sơ thiền có bao nhiêu yếu tố?"
+16\. "Thưa hiền giả, sự tái sinh trong tương lai được tạo ra như thế nào?"
 
-"Thưa hiền giả, sơ thiền có năm yếu tố. Ở đây, khi một tỳ kheo đã nhập sơ thiền, có sự xuất hiện của tầm, tứ, hỷ, lạc, và nhất tâm (unification of mind - sự tập trung tâm vào một điểm, ekaggatā). Đó là cách sơ thiền có năm yếu tố."
+"Thưa hiền giả, sự tái sinh trong tương lai được tạo ra thông qua sự thích thú chỗ này chỗ kia của những chúng sinh bị ngăn che bởi *vô minh* (ignorance/ avijjā/ sự không hiểu biết) và bị trói buộc bởi *khao khát* (craving/ taṇhā/ ái)." [442](/kinhtrungbo/nanamoli-bodhi-vi/notes/043#442){.note}
 
-20\. "Thưa hiền giả, trong sơ thiền có bao nhiêu yếu tố bị từ bỏ và bao nhiêu yếu tố có mặt?"
+17\. "Thưa hiền giả, làm thế nào sự tái sinh trong tương lai không được tạo ra?"
 
-"Thưa hiền giả, trong sơ thiền, năm yếu tố bị từ bỏ và năm yếu tố có mặt. Ở đây, khi một tỳ kheo đã nhập sơ thiền, tham dục bị từ bỏ, sân hận bị từ bỏ, hôn trầm và thụy miên bị từ bỏ, trạo cử và hối quá [295] bị từ bỏ, và hoài nghi bị từ bỏ; và có sự xuất hiện của tầm, tứ, hỷ, lạc, và nhất tâm. Đó là cách trong sơ thiền, năm yếu tố bị từ bỏ và năm yếu tố có mặt."
-
-<!--pg-->
-**(NĂM GIÁC QUAN)**
-
-21\. "Thưa hiền giả, năm giác quan này, mỗi cái có một đối tượng riêng, một lãnh vực riêng, và không trải nghiệm đối tượng và lãnh vực của nhau, đó là mắt, tai, mũi, lưỡi, và thân. Vậy đối với năm giác quan này, mỗi cái có đối tượng riêng, lãnh vực riêng, không trải nghiệm đối tượng và lãnh vực của nhau, thì đâu là nơi quy tụ của chúng, cái gì trải nghiệm đối tượng và lãnh vực của chúng?"443
-
-"Thưa hiền giả, năm giác quan này, mỗi cái có một đối tượng riêng, một lãnh vực riêng, và không trải nghiệm đối tượng và lãnh vực của nhau, đó là mắt, tai, mũi, lưỡi, và thân. Năm giác quan này, mỗi cái có đối tượng riêng, lãnh vực riêng, không trải nghiệm đối tượng và lãnh vực của nhau, có tâm (mind - ý thức, nơi tổng hợp và xử lý thông tin từ các giác quan, manas) làm nơi quy tụ, và tâm trải nghiệm đối tượng và lãnh vực của chúng."
-
-22\. "Thưa hiền giả, đối với năm giác quan này – tức là mắt, tai, mũi, lưỡi, và thân – năm giác quan này tồn tại dựa vào đâu?"
-
-"Thưa hiền giả, đối với năm giác quan này – tức là mắt, tai, mũi, lưỡi, và thân – năm giác quan này tồn tại dựa vào mạng căn (vitality - sinh lực, yếu tố duy trì sự sống, jīvitindriya)."444
-
-"Thưa hiền giả, mạng căn tồn tại dựa vào đâu?"
-
-"Mạng căn tồn tại dựa vào hơi ấm (heat - yếu tố nhiệt trong cơ thể, tejo)." [^445]
-
-"Thưa hiền giả, hơi ấm tồn tại dựa vào đâu?"
-
-"Hơi ấm tồn tại dựa vào mạng căn."
-
-"Vừa rồi, thưa hiền giả, chúng tôi hiểu Đại đức Sāriputta nói: 'Mạng căn tồn tại dựa vào hơi ấm'; và bây giờ chúng tôi lại hiểu ngài nói: 'Hơi ấm tồn tại dựa vào mạng căn.' Nên hiểu ý nghĩa của những lời này như thế nào?"
-
-"Trong trường hợp đó, thưa hiền giả, tôi sẽ cho hiền giả một ví dụ, vì một số người trí ở đây hiểu ý nghĩa của một lời nói thông qua ví dụ. Giống như khi một ngọn đèn dầu đang cháy, ánh sáng của nó được thấy dựa vào ngọn lửa và ngọn lửa của nó được thấy dựa vào ánh sáng; cũng vậy, mạng căn tồn tại dựa vào hơi ấm và hơi ấm tồn tại dựa vào mạng căn."
+"Thưa hiền giả, với sự phai nhạt của vô minh, với sự khởi sinh của minh (hiểu biết đúng đắn), và với sự đoạn diệt của khao khát, sự tái sinh trong tương lai không được tạo ra."
 
 <!--pg-->
-#### (MẠNG HÀNH)
+(THIỀN THỨ NHẤT)
 
-23\. "Thưa hiền giả, mạng hành (vital formations - các yếu tố thuộc về tâm duy trì sự sống, āyusaṅkhāra) có phải là các trạng thái cảm thọ không, hay mạng hành là một thứ và các trạng thái cảm thọ là một thứ khác?" [296]
+18\. "Thưa hiền giả, thế nào là thiền thứ nhất?"
 
-"Mạng hành, thưa hiền giả, không phải là các trạng thái cảm thọ. [^446] Nếu mạng hành là các trạng thái cảm thọ, thì khi một tỳ kheo đã nhập vào diệt tận định (cessation of perception and feeling - trạng thái thiền định cao nhất nơi tưởng và thọ tạm thời dừng lại, saññāvedayitanirodha), người ta sẽ không thấy vị ấy xuất ra khỏi trạng thái đó. Bởi vì mạng hành là một thứ và các trạng thái cảm thọ là một thứ khác, nên khi một tỳ kheo đã nhập vào diệt tận định, người ta có thể thấy vị ấy xuất ra khỏi trạng thái đó."
+"Ở đây, thưa hiền giả, hoàn toàn ly dục, ly các bất thiện pháp, một vị tỳ kheo chứng và trú *thiền* (jhāna/ thiền định) thứ nhất, một trạng thái đi kèm với tầm và tứ, với hỷ và lạc sinh ra do ly dục. Đây gọi là thiền thứ nhất."
 
-24\. "Thưa hiền giả, khi thân này thiếu vắng bao nhiêu trạng thái thì nó bị vứt bỏ và lãng quên, nằm đó vô tri như khúc gỗ?"447
+19\. "Thưa hiền giả, thiền thứ nhất có bao nhiêu chi phần?"
 
-"Thưa hiền giả, khi thân này thiếu vắng ba trạng thái – mạng căn, hơi ấm, và thức – thì nó bị vứt bỏ và lãng quên, nằm đó vô tri như khúc gỗ."
+"Thưa hiền giả, thiền thứ nhất có năm chi phần. Ở đây, khi một vị tỳ kheo đã chứng thiền thứ nhất, có sự hiện diện của tầm, tứ, hỷ, lạc và nhất tâm. Đó là cách thiền thứ nhất có năm chi phần."
 
-25\. "Thưa hiền giả, sự khác biệt giữa một người đã chết, đã hết thời gian sống, và một tỳ kheo đã nhập vào diệt tận định là gì?"
+20\. "Thưa hiền giả, trong thiền thứ nhất, bao nhiêu chi phần bị đoạn trừ và bao nhiêu chi phần được thành tựu?"
 
-"Thưa hiền giả, đối với một người đã chết, đã hết thời gian sống, các thân hành (bodily formations - hơi thở vào ra, kāya saṅkhāra) của người đó đã ngừng và lắng dịu, các khẩu hành (verbal formations - tầm và tứ, sự suy nghĩ thầm, vacī saṅkhāra) đã ngừng và lắng dịu, các tâm hành (mental formations - tưởng và thọ, citta saṅkhāra)
-đã ngừng và lắng dịu, mạng căn đã cạn kiệt, hơi ấm đã tan biến, và các giác quan hoàn toàn tan rã. Đối với một tỳ kheo đã nhập vào diệt tận định, các thân hành đã ngừng và lắng dịu, các khẩu hành đã ngừng và lắng dịu, các tâm hành đã ngừng và lắng dịu, nhưng mạng căn chưa cạn kiệt, hơi ấm chưa tan biến, và các giác quan trở nên đặc biệt trong sáng. [^448] Đây là sự khác biệt giữa một người đã chết, đã hết thời gian sống, và một tỳ kheo đã nhập vào diệt tận định."
+"Thưa hiền giả, trong thiền thứ nhất, năm chi phần bị đoạn trừ và năm chi phần được thành tựu. Ở đây, khi một vị tỳ kheo đã chứng thiền thứ nhất, dục ước bị đoạn trừ, sân hận bị đoạn trừ, hôn trầm thụy miên bị đoạn trừ, trào cử hối quá [295] bị đoạn trừ, và nghi hoặc bị đoạn trừ; và có sự hiện diện của tầm, tứ, hỷ, lạc và nhất tâm. Đó là cách trong thiền thứ nhất, năm chi phần bị đoạn trừ và năm chi phần được thành tựu."
+
+<!--pg-->
+(NĂM GIÁC QUAN)
+
+21\. "Thưa hiền giả, năm giác quan này, mỗi giác quan có một phạm vi riêng, một lĩnh vực riêng, và không kinh nghiệm phạm vi và lĩnh vực của nhau, đó là: nhãn căn (mắt), nhĩ căn (tai), tỷ căn (mũi), thiệt căn (lưỡi), và thân căn (thân). Vậy đối với năm giác quan này, mỗi giác quan có một phạm vi riêng, một lĩnh vực riêng, không kinh nghiệm phạm vi và lĩnh vực của nhau, thì cái gì là nơi nương tựa của chúng, cái gì kinh nghiệm phạm vi và lĩnh vực của chúng?" [443](/kinhtrungbo/nanamoli-bodhi-vi/notes/043#443){.note}
+
+"Thưa hiền giả, năm giác quan này, mỗi giác quan có một phạm vi riêng, một lĩnh vực riêng, và không kinh nghiệm phạm vi và lĩnh vực của nhau, đó là: nhãn căn, nhĩ căn, tỷ căn, thiệt căn, và thân căn. Vậy đối với năm giác quan này, mỗi giác quan có một phạm vi riêng, một lĩnh vực riêng, không kinh nghiệm phạm vi và lĩnh vực của nhau, thì ý là nơi nương tựa của chúng, và ý kinh nghiệm phạm vi và lĩnh vực của chúng."
+
+22\. "Thưa hiền giả, đối với năm giác quan này - tức là nhãn căn, nhĩ căn, tỷ căn, thiệt căn, và thân căn - năm giác quan này nương tựa vào cái gì?"
+
+"Thưa hiền giả, đối với năm giác quan này - tức là nhãn căn, nhĩ căn, tỷ căn, thiệt căn, và thân căn - năm giác quan này nương tựa vào *sức sống* (vitality/ āyu/ mạng căn)." [444](/kinhtrungbo/nanamoli-bodhi-vi/notes/043#444){.note}
+
+"Thưa hiền giả, sức sống nương tựa vào cái gì?"
+"Thưa hiền giả, đối với năm giác quan này - tức là nhãn căn, nhĩ căn, tỷ căn, thiệt căn, và thân căn - năm giác quan này nương tựa vào sức sống."
+
+"Thưa hiền giả, sức sống nương tựa vào cái gì?"
+
+"Sức sống nương tựa vào *hơi ấm* (heat/ usma)." [445](/kinhtrungbo/nanamoli-bodhi-vi/notes/043#445){.note}
+
+"Thưa hiền giả, hơi ấm nương tựa vào cái gì?"
+
+"Hơi ấm nương tựa vào sức sống."
+
+"Vừa rồi, thưa hiền giả, chúng tôi hiểu Tôn giả Sāriputta đã nói: 'Sức sống nương tựa vào hơi ấm'; và bây giờ chúng tôi hiểu ngài nói: 'Hơi ấm nương tựa vào sức sống'. Nên hiểu ý nghĩa của những tuyên bố này như thế nào?"
+
+"Trong trường hợp đó, thưa hiền giả, tôi sẽ đưa ra một ví dụ, vì một số người trí ở đây hiểu ý nghĩa của một lời nói thông qua ví dụ. Giống như khi một ngọn đèn dầu đang cháy, ánh sáng của nó được thấy là nương vào ngọn lửa và ngọn lửa của nó được thấy là nương vào ánh sáng; cũng vậy, sức sống nương tựa vào hơi ấm và hơi ấm nương tựa vào sức sống."
+
+<!--pg-->
+#### (CÁC HÀNH DUY TRÌ SỰ SỐNG)
+
+23\. "Thưa hiền giả, các hành duy trì sự sống là các trạng thái cảm thọ hay các hành duy trì sự sống là một chuyện và các trạng thái cảm thọ là chuyện khác?" [296]
+
+"Thưa hiền giả, các *hành duy trì sự sống* (vital formations/ āyusaṅkhāra) không phải là các trạng thái cảm thọ. [446](/kinhtrungbo/nanamoli-bodhi-vi/notes/043#446){.note} Nếu các hành duy trì sự sống là các trạng thái cảm thọ, thì khi một vị tỳ kheo đã nhập diệt thọ tưởng định, vị ấy sẽ không được thấy là xuất khỏi định ấy. Bởi vì các hành duy trì sự sống là một chuyện và các trạng thái cảm thọ là chuyện khác, nên khi một vị tỳ kheo đã nhập diệt thọ tưởng định, vị ấy có thể được thấy là xuất khỏi định ấy."
+
+24\. "Thưa hiền giả, khi thân này thiếu vắng bao nhiêu trạng thái thì nó bị vứt bỏ và lìa xa, nằm vô tri giác như một khúc gỗ?" [447](/kinhtrungbo/nanamoli-bodhi-vi/notes/043#447){.note}
+
+"Thưa hiền giả, khi thân này thiếu vắng ba trạng thái - sức sống, hơi ấm và thức - thì nó bị vứt bỏ và lìa xa, nằm vô tri giác như một khúc gỗ."
+
+25\. "Thưa hiền giả, sự khác biệt giữa một người đã chết, đã mệnh chung, và một vị tỳ kheo đã nhập diệt thọ tưởng định là gì?"
+
+"Thưa hiền giả, đối với người đã chết, đã mệnh chung, các thân hành đã diệt và lắng xuống, các khẩu hành đã diệt và lắng xuống, các ý hành đã diệt và lắng xuống, sức sống đã cạn kiệt, hơi ấm đã tan biến, và các giác quan đã hoàn toàn hoại diệt. Đối với vị tỳ kheo đã nhập diệt thọ tưởng định, các thân hành đã diệt và lắng xuống, các khẩu hành đã diệt và lắng xuống, các ý hành đã diệt và lắng xuống, nhưng sức sống chưa cạn kiệt, hơi ấm chưa tan biến, và các giác quan trở nên cực kỳ trong sáng. [448](/kinhtrungbo/nanamoli-bodhi-vi/notes/043#448){.note} Đây là sự khác biệt giữa một người đã chết, đã mệnh chung, và một vị tỳ kheo đã nhập diệt thọ tưởng định."
 
 <!--pg-->
 #### (TÂM GIẢI THOÁT)
 
-26\. "Thưa hiền giả, có bao nhiêu điều kiện để đạt được tâm giải thoát không khổ không lạc?"
+26\. "Thưa hiền giả, có bao nhiêu điều kiện để đạt được tâm giải thoát phi khổ phi lạc?"
 
-"Thưa hiền giả, có bốn điều kiện để đạt được tâm giải thoát không khổ không lạc: ở đây, với sự từ bỏ lạc và khổ, và với sự biến mất trước đó của hỷ và ưu, một tỳ kheo nhập và trú vào thiền thứ tư (tứ thiền), một trạng thái không khổ không lạc và có niệm thanh tịnh nhờ xả (purity of mindfulness due to equanimity - trạng thái chánh niệm hoàn toàn trong sáng nhờ tâm xả ly, upekkhāsatipārisuddhi). Đây là bốn điều kiện để đạt được tâm giải thoát không khổ không lạc."
+"Thưa hiền giả, có bốn điều kiện để đạt được tâm giải thoát phi khổ phi lạc: ở đây, với sự đoạn trừ lạc và khổ, và với sự biến mất từ trước của hỷ và ưu, một vị tỳ kheo chứng và trú thiền thứ tư, trạng thái không khổ không lạc và thanh tịnh nhờ xả niệm. Đây là bốn điều kiện để đạt được tâm giải thoát phi khổ phi lạc."
 
-27\. "Thưa hiền giả, có bao nhiêu điều kiện để đạt được vô tướng tâm giải thoát (signless deliverance of mind - sự giải thoát tâm khỏi các dấu hiệu, đặc tướng của sự vật, animitta cetovimutti)?"
+27\. "Thưa hiền giả, có bao nhiêu điều kiện để đạt được tâm giải thoát vô tướng?"
 
-"Thưa hiền giả, có hai điều kiện để đạt được vô tướng tâm giải thoát: không chú ý đến tất cả các tướng (non-attention to all signs - không để tâm đến các đặc điểm, hình tướng của các pháp, sabba nimittānaṃ amanasikārā) và chú ý đến yếu tố vô tướng (attention to the signless element - hướng tâm đến bản chất không có tướng cố định, thường hằng của các pháp, animittāya dhātuyā manasikārā). Đây là hai điều kiện để đạt được vô tướng tâm giải thoát." [^449]
+"Thưa hiền giả, có hai điều kiện để đạt được tâm giải thoát vô tướng: không tác ý đến tất cả các tướng (dấu hiệu) và tác ý đến giới vô tướng. Đây là hai điều kiện để đạt được tâm giải thoát *vô tướng* (signless/ animitta/ không có dấu hiệu)." [449](/kinhtrungbo/nanamoli-bodhi-vi/notes/043#449){.note}
 
-28\. "Thưa hiền giả, có bao nhiêu điều kiện cho sự duy trì của vô tướng tâm giải thoát?"
+28\. "Thưa hiền giả, có bao nhiêu điều kiện để duy trì tâm giải thoát vô tướng?"
 
-"Thưa hiền giả, có ba điều kiện cho sự duy trì của vô tướng tâm giải thoát: [297] không chú ý đến tất cả các tướng, chú ý đến yếu tố vô tướng, và sự quyết định trước (prior determination - sự định trước thời gian nhập và xả định, pubbe ca adhiṭṭhāna) [về thời gian duy trì]. Đây là ba điều kiện cho sự duy trì của vô tướng tâm giải thoát."
+"Thưa hiền giả, có ba điều kiện để duy trì tâm giải thoát vô tướng: [297] không tác ý đến tất cả các tướng, tác ý đến giới vô tướng, và sự quyết định trước [về thời gian]. Đây là ba điều kiện để duy trì tâm giải thoát vô tướng."
 
-29\. "Thưa hiền giả, có bao nhiêu điều kiện để xuất ra khỏi vô tướng tâm giải thoát?"
+29\. "Thưa hiền giả, có bao nhiêu điều kiện để xuất khỏi tâm giải thoát vô tướng?"
 
-"Thưa hiền giả, có hai điều kiện để xuất ra khỏi vô tướng tâm giải thoát: chú ý đến tất cả các tướng (attention to all signs - để tâm đến các đặc điểm, hình tướng của các pháp, sabba nimittānaṃ manasikārā) và không chú ý
-đến yếu tố vô tướng. Đây là hai điều kiện để xuất ra khỏi vô tướng tâm giải thoát."
+"Thưa hiền giả, có hai điều kiện để xuất khỏi tâm giải thoát vô tướng: tác ý đến tất cả các tướng và không tác ý đến giới vô tướng. Đây là hai điều kiện để xuất khỏi tâm giải thoát vô tướng."
 
-30\. "Thưa hiền giả, vô lượng tâm giải thoát (immeasurable deliverance of mind - sự giải thoát tâm qua việc phát triển tâm từ, bi, hỷ, xả đến vô lượng, appamāṇā cetovimutti), vô sở hữu tâm giải thoát (deliverance of mind through nothingness - sự giải thoát tâm khi trú trong tầng thiền Vô sở hữu xứ, ākiñcaññā cetovimutti), không tâm giải thoát (deliverance of mind through voidness - sự giải thoát tâm nhờ quán chiếu tính không, trống rỗng của các pháp, suññatā cetovimutti), và vô tướng tâm giải thoát: những trạng thái này khác nhau về nghĩa và khác nhau về tên gọi, hay chúng là một về nghĩa và chỉ khác nhau về tên gọi?"
+30\. "Thưa hiền giả, tâm giải thoát vô lượng, tâm giải thoát vô sở hữu, tâm giải thoát tánh không, và tâm giải thoát vô tướng: những trạng thái này khác nhau về nghĩa và khác nhau về tên gọi, hay chúng đồng nghĩa và chỉ khác nhau về tên gọi?"
 
-"Thưa hiền giả, vô lượng tâm giải thoát, vô sở hữu tâm giải thoát, không tâm giải thoát, và vô tướng tâm giải thoát: có cách hiểu những trạng thái này khác nhau về nghĩa và khác nhau về tên gọi, và có cách hiểu chúng là một về nghĩa và chỉ khác nhau về tên gọi.
+"Thưa hiền giả, tâm giải thoát vô lượng, tâm giải thoát vô sở hữu, tâm giải thoát tánh không, và tâm giải thoát vô tướng: có một cách mà theo đó những trạng thái này khác nhau về nghĩa và khác nhau về tên gọi, và có một cách mà theo đó chúng đồng nghĩa và chỉ khác nhau về tên gọi.
 
-31\. "Thưa hiền giả, cách hiểu những trạng thái này khác nhau về nghĩa và khác nhau về tên gọi là gì? Ở đây, một tỳ kheo an trú, biến mãn một phương với tâm thấm nhuần tâm từ (mettā), cũng vậy phương thứ hai, cũng vậy phương thứ ba, cũng vậy phương thứ tư; như thế, trên, dưới, ngang, khắp nơi, cùng khắp thế giới, vị ấy an trú biến mãn với tâm thấm nhuần tâm từ, rộng lớn, cao thượng, vô lượng, không oán thù, không sân hận. Vị ấy an trú, biến mãn một phương với tâm thấm nhuần tâm bi (karuṇā)... Vị ấy an trú, biến mãn một phương với tâm thấm nhuần tâm hỷ (muditā)... Vị ấy an trú, biến mãn một phương với tâm thấm nhuần tâm xả (upekkhā), cũng vậy phương thứ hai, cũng vậy phương thứ ba, cũng vậy phương thứ tư; như thế, trên, dưới, ngang, khắp nơi, cùng khắp thế giới, vị ấy an trú biến mãn với tâm thấm nhuần tâm xả, rộng lớn, cao thượng, vô lượng, không oán thù, không sân hận. Đây được gọi là vô lượng tâm giải thoát.
+31\. "Thưa hiền giả, cách mà theo đó những trạng thái này khác nhau về nghĩa và khác nhau về tên gọi là gì? Ở đây, một vị tỳ kheo an trú biến mãn một phương với tâm thấm nhuần lòng từ, cũng vậy phương thứ hai, cũng vậy phương thứ ba, cũng vậy phương thứ tư; như vậy cùng khắp trên dưới, bề ngang, và khắp mọi nơi, và cho tất cả như cho chính mình, vị ấy an trú biến mãn thế giới bao la với tâm thấm nhuần lòng từ, quảng đại, cao thượng, vô lượng, không hận thù và không sân hận. Vị ấy an trú biến mãn một phương với tâm thấm nhuần lòng bi... Vị ấy an trú biến mãn một phương với tâm thấm nhuần niềm hỷ... Vị ấy an trú biến mãn một phương với tâm thấm nhuần tâm xả, cũng vậy phương thứ hai, cũng vậy phương thứ ba, cũng vậy phương thứ tư; như vậy cùng khắp trên dưới, bề ngang, và khắp mọi nơi, và cho tất cả như cho chính mình, vị ấy an trú biến mãn thế giới bao la với tâm thấm nhuần tâm xả, quảng đại, cao thượng, vô lượng, không hận thù và không sân hận. Đây gọi là tâm giải thoát vô lượng.
 
-32\. "Và thưa hiền giả, vô sở hữu tâm giải thoát là gì? Ở đây, với sự vượt qua hoàn toàn Thức vô biên xứ, nhận biết rằng 'không có gì cả,' một tỳ kheo nhập và trú vào Vô sở hữu xứ. Đây được gọi là vô sở hữu tâm giải thoát.
+32\. "Và thưa hiền giả, thế nào là tâm giải thoát vô sở hữu? Ở đây, với sự vượt qua hoàn toàn Thức vô biên xứ, nhận biết rằng 'không có gì cả', một vị tỳ kheo chứng và trú Vô sở hữu xứ. Đây gọi là tâm giải thoát *vô sở hữu* (nothingness/ ākiñcañña/ không có gì).
 
-33\. "Và thưa hiền giả, không tâm giải thoát là gì? Ở đây, một tỳ kheo, đi đến khu rừng hoặc gốc cây hoặc căn lều trống, suy xét như sau: 'Cái này trống rỗng, không có một tự ngã hay những gì thuộc về tự ngã (This is void of a self or of what belongs to a self - suññamidaṃ attena vā attaniyena vā).' [298] Đây được gọi là không tâm giải thoát. [^450]
+33\. "Và thưa hiền giả, thế nào là tâm giải thoát tánh không? Ở đây, một vị tỳ kheo, đi đến khu rừng hoặc gốc cây hoặc ngôi nhà trống, quán chiếu như sau: 'Điều này trống rỗng tự ngã hoặc những gì thuộc về tự ngã'. [298] Đây gọi là tâm giải thoát *tánh không* (voidness/ suññatā/ sự trống rỗng). [450](/kinhtrungbo/nanamoli-bodhi-vi/notes/043#450){.note}
 
-34\. "Và thưa hiền giả, vô tướng tâm giải thoát là gì? Ở đây, với sự không chú ý đến tất cả các tướng, một tỳ kheo nhập và trú vào vô tướng tâm định (signless concentration of mind - trạng thái định tâm không còn bị các tướng chi phối, animitta cetosamādhi). Đây được gọi là
-vô tướng tâm giải thoát. [^451] Đây là cách hiểu những trạng thái này khác nhau về nghĩa và khác nhau về tên gọi.
+34\. "Và thưa hiền giả, thế nào là tâm giải thoát vô tướng? Ở đây, với sự không tác ý đến tất cả các tướng, một vị tỳ kheo chứng và trú vô tướng tâm định. Đây gọi là tâm giải thoát vô tướng. [451](/kinhtrungbo/nanamoli-bodhi-vi/notes/043#451){.note} Đây là cách mà theo đó những trạng thái này khác nhau về nghĩa và khác nhau về tên gọi.
 
-35\. "Và thưa hiền giả, cách hiểu những trạng thái này là một về nghĩa và chỉ khác nhau về tên gọi là gì? Tham ái (lust - rāga) là thứ tạo ra sự đo lường / giới hạn (maker of measurement - pamāṇakaraṇa), sân hận (hate - dosa) là thứ tạo ra sự đo lường / giới hạn, si mê (delusion - moha) là thứ tạo ra sự đo lường / giới hạn. [^452] Ở một tỳ kheo mà các lậu hoặc (taints - những ô nhiễm tinh thần sâu kín làm chúng sanh trôi lăn trong luân hồi, āsava) đã được đoạn trừ, những thứ này bị từ bỏ, bị cắt tận gốc, làm cho như thân cây cọ bị chặt ngọn, bị loại trừ để chúng không còn phải chịu sự sanh khởi trong tương lai nữa. Trong tất cả các loại vô lượng tâm giải thoát, tâm giải thoát bất động (unshakeable deliverance of mind - trạng thái giải thoát vững chắc, không còn thối chuyển, akuppa cetovimutti) được tuyên bố là tốt nhất. Tâm giải thoát bất động đó trống rỗng khỏi tham ái, trống rỗng khỏi sân hận, trống rỗng khỏi si mê. [^453]
+35\. "Và thưa hiền giả, cách mà theo đó những trạng thái này đồng nghĩa và chỉ khác nhau về tên gọi là gì? Tham ái là kẻ tạo ra sự đo lường, sân hận là kẻ tạo ra sự đo lường, si mê là kẻ tạo ra sự đo lường. [452](/kinhtrungbo/nanamoli-bodhi-vi/notes/043#452){.note} Nơi một vị tỳ kheo đã đoạn tận các *lậu hoặc* (taints/ āsava/ sự ô nhiễm), những điều này đã bị đoạn trừ, bị cắt đứt tận gốc rễ, làm cho như thân cây cọ, bị hủy diệt khiến chúng không còn khả năng sinh khởi trong tương lai. Trong tất cả các loại tâm giải thoát vô lượng, bất động tâm giải thoát được tuyên bố là tối thượng. Và bất động tâm giải thoát ấy là trống rỗng tham, trống rỗng sân, trống rỗng si. [453](/kinhtrungbo/nanamoli-bodhi-vi/notes/043#453){.note}
 
-36\. "Tham ái là một cái gì đó / một thực thể (something - kiñcana, thứ gây vướng mắc), sân hận là một cái gì đó / một thực thể, si mê là một cái gì đó / một thực thể. [^454] Ở một tỳ kheo mà các lậu hoặc đã được đoạn trừ, những thứ này bị từ bỏ, bị cắt tận gốc, làm cho như thân cây cọ bị chặt ngọn, bị loại trừ để chúng không còn phải chịu sự sanh khởi trong tương lai nữa. Trong tất cả các loại vô sở hữu tâm giải thoát, tâm giải thoát bất động được tuyên bố là tốt nhất. [^455] Tâm giải thoát bất động đó trống rỗng khỏi tham ái, trống rỗng khỏi sân hận, trống rỗng khỏi si mê.
+36\. "Tham ái là một cái gì đó (chướng ngại), sân hận là một cái gì đó, si mê là một cái gì đó. [454](/kinhtrungbo/nanamoli-bodhi-vi/notes/043#454){.note} Nơi một vị tỳ kheo đã đoạn tận các lậu hoặc, những điều này đã bị đoạn trừ, bị cắt đứt tận gốc rễ, làm cho như thân cây cọ, bị hủy diệt khiến chúng không còn khả năng sinh khởi trong tương lai. Trong tất cả các loại tâm giải thoát vô sở hữu, bất động tâm giải thoát được tuyên bố là tối thượng. [455](/kinhtrungbo/nanamoli-bodhi-vi/notes/043#455){.note} Và bất động tâm giải thoát ấy là trống rỗng tham, trống rỗng sân, trống rỗng si.
 
-37\. "Tham ái là thứ tạo ra các tướng / dấu hiệu (maker of signs - nimittakaraṇa, thứ khiến tâm bám chấp vào hình tướng), sân hận là thứ tạo ra các tướng / dấu hiệu, si mê là thứ tạo ra các tướng / dấu hiệu. [^456] Ở một tỳ kheo mà các lậu hoặc đã được đoạn trừ, những thứ này bị từ bỏ, bị cắt tận gốc, làm cho như thân cây cọ bị chặt ngọn, bị loại trừ để chúng không còn phải chịu sự sanh khởi trong tương lai nữa. Trong tất cả các loại vô tướng tâm giải thoát, tâm giải thoát bất động được tuyên bố là tốt nhất. [^457] Tâm giải thoát bất động đó trống rỗng khỏi tham ái, trống rỗng khỏi sân hận, trống rỗng khỏi si mê. Đây là cách hiểu những trạng thái này là một về nghĩa và chỉ khác nhau về tên gọi. [^458]
+37\. "Tham ái là kẻ tạo ra tướng (dấu hiệu), sân hận là kẻ tạo ra tướng, si mê là kẻ tạo ra tướng. [456](/kinhtrungbo/nanamoli-bodhi-vi/notes/043#456){.note} Nơi một vị tỳ kheo đã đoạn tận các lậu hoặc, những điều này đã bị đoạn trừ, bị cắt đứt tận gốc rễ, làm cho như thân cây cọ, bị hủy diệt khiến chúng không còn khả năng sinh khởi trong tương lai. Trong tất cả các loại tâm giải thoát vô tướng, bất động tâm giải thoát được tuyên bố là tối thượng. [457](/kinhtrungbo/nanamoli-bodhi-vi/notes/043#457){.note} Và bất động tâm giải thoát ấy là trống rỗng tham, trống rỗng sân, trống rỗng si. Đây là cách mà theo đó những trạng thái này đồng nghĩa và chỉ khác nhau về tên gọi." [458](/kinhtrungbo/nanamoli-bodhi-vi/notes/043#458){.note}
 
-Đó là những gì Đại đức Sāriputta đã nói. Đại đức Mahā Kotthita hài lòng và vui mừng với lời của Đại đức Sāriputta.
+Đó là những gì Tôn giả Sāriputta đã nói. Tôn giả Mahā Kotthita hài lòng và hoan hỷ với lời của Tôn giả Sāriputta.
 
 <!--pg-->
-Từ ngữ:
-- bốn sự thật cao quý / cattāri ariya saccāni / four noble truths: Bốn sự thật mà Đức Phật đã giác ngộ, nền tảng của Phật giáo: Khổ (sự thật về đau khổ), Tập (sự thật về nguyên nhân của đau khổ), Diệt (sự thật về sự chấm dứt đau khổ), Đạo (sự thật về con đường dẫn đến sự chấm dứt đau khổ).
-- thiếu trí tuệ / aviddasu / one who is unwise: Người không có sự hiểu biết đúng đắn, đặc biệt là không hiểu biết về Bốn Sự Thật Cao Quý.
-- có trí tuệ / viddasu / one who is wise: Người có sự hiểu biết đúng đắn, đặc biệt là hiểu biết về Bốn Sự Thật Cao Quý.
-- thức / viññāṇa / consciousness: Một trong năm uẩn, là khả năng nhận biết đối tượng qua các giác quan và ý thức. Nó biết đối tượng là dễ chịu, khó chịu hay trung tính.
-- trí tuệ / paññā / wisdom: Sự hiểu biết sâu sắc về bản chất của thực tại, đặc biệt là về vô thường, khổ, vô ngã. Trí tuệ cần được phát triển qua học hỏi, suy ngẫm và thiền tập.
-- cần được phát triển / bhāvetabbā / to be developed: Chỉ trạng thái hay phẩm chất cần được tu tập, vun bồi, làm cho tăng trưởng (như trí tuệ).
-- cần được hiểu rõ hoàn toàn / pariññeyya / to be fully understood: Chỉ trạng thái hay đối tượng cần được nhận biết, thấu suốt bản chất một cách toàn diện (như thức, khổ). Đồng nghĩa với liễu tri.
-- thọ / vedanā / feeling: Một trong năm uẩn, là cảm giác phát sinh khi có sự tiếp xúc giữa giác quan, đối tượng và thức. Có ba loại chính: lạc thọ (dễ chịu), khổ thọ (khó chịu), và xả thọ (không khổ không lạc, trung tính).
-- tưởng / saññā / perception: Một trong năm uẩn, là sự nhận ra, ghi nhận các đặc điểm, hình tướng của đối tượng. Nó phân biệt đối tượng này với đối tượng khác (ví dụ: nhận ra màu xanh, màu vàng).
-- ý thức thanh tịnh / parisuddhena cetasā vippamuttena pañcahi indriyehi / purified mind-consciousness released from the five faculties: Trạng thái tâm thức đã được gạn lọc khỏi sự chi phối của năm giác quan vật lý (mắt, tai, mũi, lưỡi, thân), thường đạt được trong các tầng thiền định cao.
-- năm giác quan / pañca indriyāni / five faculties: Năm khả năng nhận biết thế giới vật lý: mắt (nhãn căn), tai (nhĩ căn), mũi (tỷ căn), lưỡi (thiệt căn), thân (thân căn).
-- mắt trí tuệ / paññācakkhu / eye of wisdom: Khả năng thấy biết sự thật bằng trí tuệ, không phải bằng mắt thường.
-- thắng trí / abhiññā / direct knowledge: Sự hiểu biết trực tiếp, siêu việt, không qua trung gian suy luận, thường đạt được qua thiền định cao.
-- liễu tri / pariññā / full understanding: Sự hiểu biết toàn diện, thấu suốt bản chất của một đối tượng hay trạng thái, thường dùng cho việc hiểu rõ khổ đế.
-- đoạn tận / pahāna / abandoning: Sự từ bỏ, loại trừ hoàn toàn các phiền não, ô nhiễm, không còn dấu vết, thường dùng cho việc diệt trừ nguồn gốc của khổ.
-- chánh kiến / sammā diṭṭhi / right view: Yếu tố đầu tiên trong Tám Bước Thiện (Bát Chánh Đạo), là sự hiểu biết đúng đắn về Bốn Sự Thật Cao Quý, về luật nhân quả, về vô thường, khổ, vô ngã.
-- tiếng nói của người khác / parato ghoso / voice of another: Một trong hai điều kiện sanh khởi chánh kiến, chỉ sự chỉ dẫn, lời dạy đúng đắn từ người khác, đặc biệt là từ bậc thiện tri thức, kinh điển.
-- như lý tác ý / yoniso manasikāra / wise attention: Một trong hai điều kiện sanh khởi chánh kiến, là sự chú ý đúng đắn, khéo léo, hướng tâm suy xét đến tận gốc rễ vấn đề, phù hợp với chân lý.
-- tâm giải thoát / cetovimutti / deliverance of mind: Sự giải thoát của tâm khỏi các trói buộc, ô nhiễm như tham, sân, si. Có nhiều loại tâm giải thoát khác nhau.
-- tuệ giải thoát / paññāvimutti / deliverance by wisdom: Sự giải thoát đạt được nhờ trí tuệ thấy rõ và thấu suốt bản chất của thực tại (vô thường, khổ, vô ngã), đoạn trừ hoàn toàn vô minh.
-- hữu / bhava / being: Sự hiện hữu, sự tồn tại trong các cảnh giới luân hồi. Có ba cõi chính: dục hữu (cõi dục), sắc hữu (cõi sắc), vô sắc hữu (cõi vô sắc).
-- minh / vijjā / true knowledge: Trí tuệ chân thật, sự hiểu biết đúng đắn, đối nghịch với vô minh (avijjā). Sự phát sinh của minh dẫn đến giải thoát.
-- sơ thiền / paṭhama jhāna / first jhāna: Tầng thiền định thứ nhất trong bốn tầng thiền sắc giới, đặc trưng bởi sự có mặt của năm yếu tố: tầm, tứ, hỷ, lạc, nhất tâm, và sự vắng mặt của năm triền cái.
-- tỳ kheo / bhikkhu / monk: Nhà sư nam đã thọ giới cụ túc trong Phật giáo.
-- tầm / vitakka / applied thought: Yếu tố thiền, là sự hướng tâm ban đầu đến đối tượng thiền định.
-- tứ / vicāra / sustained thought: Yếu tố thiền, là sự duy trì, khảo sát tâm trên đối tượng thiền định sau khi đã hướng đến.
-- hỷ / pīti / rapture: Yếu tố thiền, là niềm vui thích, phấn khởi, sung mãn phát sinh trong quá trình thiền định.
-- lạc / sukha / pleasure: Yếu tố thiền, là cảm giác dễ chịu, an lạc, hạnh phúc về thân và tâm trong thiền định.
-- nhất tâm / ekaggatā / unification of mind: Yếu tố thiền, là sự tập trung tâm vào một điểm duy nhất, sự định tâm.
-- năm triền cái / pañca nīvaraṇāni / five hindrances: Năm trạng thái tâm tiêu cực ngăn cản thiền định và trí tuệ: tham dục, sân hận, hôn trầm-thụy miên, trạo cử-hối quá, hoài nghi.
-- tâm / mano / mind: Ý căn (manindriya), một trong sáu giác quan, có chức năng nhận biết các đối tượng tâm (pháp), tổng hợp và xử lý thông tin từ năm giác quan kia.
-- mạng căn / jīvitindriya / vitality: Sinh lực, yếu tố duy trì sự sống của danh pháp và sắc pháp.
-- hơi ấm / usmā / heat: Yếu tố nhiệt (tejo dhātu) trong cơ thể, một trong bốn yếu tố vật chất cơ bản (đất, nước, lửa, gió), liên quan mật thiết đến mạng căn.
-- mạng hành / āyusaṅkhāra / vital formations: Các yếu tố thuộc về tâm (ý chí, chủ ý) có chức năng duy trì sự sống. Khác với mạng căn (jīvitindriya) là yếu tố vật chất và tâm sở.
-- diệt tận định / saññāvedayitanirodha / cessation of perception and feeling: Trạng thái thiền định cao nhất, vượt qua cả cõi Phi tưởng phi phi tưởng xứ, nơi tâm sở tưởng và thọ tạm thời hoàn toàn ngừng hoạt động. Chỉ có bậc A-na-hàm và A-la-hán mới có thể nhập định này.
-- thân hành / kāya saṅkhāra / bodily formations: Các hoạt động liên quan đến thân, trong ngữ cảnh thiền định thường chỉ hơi thở vào và hơi thở ra.
-- khẩu hành / vacī saṅkhāra / verbal formations: Các hoạt động liên quan đến lời nói, trong ngữ cảnh thiền định thường chỉ tầm và tứ (sự suy nghĩ, tư duy thầm).
-- tâm hành / citta saṅkhāra / mental formations: Các hoạt động liên quan đến tâm, trong ngữ cảnh thiền định thường chỉ tâm sở tưởng và thọ.
-- niệm thanh tịnh nhờ xả / upekkhāsatipārisuddhi / purity of mindfulness due to equanimity: Trạng thái đặc trưng của Tứ thiền, nơi chánh niệm trở nên hoàn toàn trong sáng nhờ tâm xả ly, không còn bị ảnh hưởng bởi lạc, khổ, hỷ, ưu.
-- vô tướng tâm giải thoát / animitta cetovimutti / signless deliverance of mind: Sự giải thoát của tâm đạt được qua việc không chú ý đến các tướng (nimitta - dấu hiệu, đặc điểm) của các pháp hữu vi, mà chú ý đến bản chất vô tướng (Niết Bàn).
-- không chú ý đến tất cả các tướng / sabba nimittānaṃ amanasikārā / non-attention to all signs: Sự thực hành không để tâm, không bám chấp vào các đặc điểm, hình tướng bên ngoài hay bên trong của các pháp.
-- chú ý đến yếu tố vô tướng / animittāya dhātuyā manasikārā / attention to the signless element: Sự thực hành hướng tâm đến bản chất không có tướng trạng cố định, thường hằng của các pháp, hoặc hướng đến Niết Bàn là yếu tố vô tướng.
-- sự quyết định trước / pubbe ca adhiṭṭhāna / prior determination: Sự định trước về thời gian dự định nhập, duy trì và xuất khỏi một trạng thái thiền định nào đó.
-- vô lượng tâm giải thoát / appamāṇā cetovimutti / immeasurable deliverance of mind: Sự giải thoát của tâm đạt được qua việc tu tập và phát triển bốn tâm vô lượng (từ, bi, hỷ, xả) đến mức độ không giới hạn, lan tỏa khắp chúng sinh.
-- vô sở hữu tâm giải thoát / ākiñcaññā cetovimutti / deliverance of mind through nothingness: Sự giải thoát của tâm liên quan đến việc an trú trong tầng thiền Vô sở hữu xứ, nhận biết "không có gì cả".
-- không tâm giải thoát / suññatā cetovimutti / deliverance of mind through voidness: Sự giải thoát của tâm đạt được nhờ quán chiếu và thấu hiểu tính không (suññatā) - sự trống rỗng về tự ngã và những gì thuộc về tự ngã - của tất cả các pháp.
-- vô tướng tâm định / animitta cetosamādhi / signless concentration of mind: Trạng thái định tâm đạt được khi không còn chú ý đến các tướng của đối tượng, tâm an trú vào trạng thái vô tướng.
-- lậu hoặc / āsava / taints, effluents, corruptions: Những ô nhiễm tinh thần sâu kín, tiềm ẩn, làm chúng sinh trôi lăn trong luân hồi. Có ba hoặc bốn loại chính: dục lậu (kāmāsava), hữu lậu (bhavāsava), kiến lậu (diṭṭhāsava), và vô minh lậu (avijjāsava).
-- tâm giải thoát bất động / akuppa cetovimutti / unshakeable deliverance of mind: Trạng thái giải thoát tâm cuối cùng, vững chắc, không còn thối chuyển, đạt được khi đoạn trừ hoàn toàn các lậu hoặc. Đây là tâm giải thoát của bậc A-la-hán.
+**Từ ngữ:**
+
+- trí tuệ / paññā / wisdom: Khả năng thấu hiểu bản chất thật sự của các pháp (vô thường, khổ, vô ngã), một số nơi gọi dịch là "Thông tuệ" để phân biệt với trí tuệ thông thường, nhưng điều này thêm sự phức tạp không cần thiết vì mỗi lĩnh vực đều có 2 trạng thái trí tuệ và không trí tuệ.
+- thức / viññāṇa / consciousness: Khả năng nhận biết, gán nhãn các đối tượng của não.
+- cảm thọ / vedanā / feeling: Sự cảm nhận đơn giản nhất của hệ thần kinh (dễ chịu, khó chị, hoặc trung tính) chưa đến mức cao hơn (phân biệt nóng, lạnh...).
+- tưởng / saññā / perception: Khả năng nhận biết và ghi nhớ các đặc điểm của đối tượng (như màu sắc, hình dáng).
+- giác quan / indriya / faculties: Các căn (mắt, tai, mũi, lưỡi, thân) dùng để tiếp nhận thế giới bên ngoài.
+- chánh kiến / sammā-diṭṭhi / right view: Quan điểm, cái nhìn đúng đắn về sự thật (Tứ diệu đế), là yếu tố đầu tiên trong Bát chánh đạo.
+- tâm giải thoát / cetovimutti / deliverance of mind: Sự giải thoát của tâm khỏi các phiền não nhờ sức mạnh của định.
+- tuệ giải thoát / paññāvimutti / deliverance by wisdom: Sự giải thoát nhờ trí tuệ thấu suốt chân lý.
+- sự hiện hữu / bhava / being: Trạng thái tồn tại hay tái sinh trong các cõi (dục, sắc, vô sắc).
+- vô minh / avijjā / ignorance: Sự không hiểu biết về Tứ diệu đế, là gốc rễ của khổ đau.
+- khao khát / taṇhā / craving: Sự ham muốn, bám víu mãnh liệt vào các đối tượng (ái).
+- thiền / jhāna / jhāna: Trạng thái thiền định sâu lắng, tâm chuyên chú và an tịnh.
+- sức sống / āyu / vitality: Năng lượng duy trì sự sống của cơ thể (mạng căn).
+- hơi ấm / usma / heat: Nhiệt lượng của cơ thể, yếu tố lửa giúp duy trì sự sống.
+- hành duy trì sự sống / āyusaṅkhāra / vital formations: Các yếu tố vận hành để duy trì mạng sống.
+- vô tướng / animitta / signless: Trạng thái không chú ý đến các dấu hiệu hay tướng trạng của sự vật.
+- vô sở hữu / ākiñcañña / nothingness: Trạng thái tâm nhận thức rằng "không có gì cả", một tầng thiền vô sắc.
+- tánh không / suññatā / voidness: Bản chất trống rỗng, không có cái tôi (ngã) độc lập của vạn vật.
+- lậu hoặc / āsava / taints: Những phiền não rò rỉ, ủ ngầm trong tâm (như dục lậu, hữu lậu, vô minh lậu) làm ô nhiễm tâm thức.

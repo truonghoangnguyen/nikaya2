@@ -294,7 +294,7 @@
 | *paccavekkhaṇā* | reviewing, reflection | Phản khán | Sự xem xét lại |
 | *paccekabuddha* | untranslated: a solitary enlightened one | Độc Giác Phật | Độc Giác Phật |
 | *pajā* | generation | Chúng sanh | Thế hệ; Con cháu |
-| *paññā* | wisdom | Tuệ | Trí tuệ |
+| *paññā* | wisdom | Tuệ | Thông tuệ; Trí tuệ |
 | *paññāvimutta* | one liberated-by-wisdom | Tuệ giải thoát | Người được giải thoát bằng trí tuệ |
 | *paññāvimutti* | deliverance by wisdom | Tuệ giải thoát | giải thoát bằng trí tuệ |
 | \**paṭikaroti* | to carry out (instructions), to obey | Vâng lời; Sửa chữa | |

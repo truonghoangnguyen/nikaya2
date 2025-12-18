@@ -9,9 +9,9 @@
 
 4\.  Đức Thế Tôn liền bảo một vị tỳ kheo khác: "Này tỳ kheo, hãy nhân danh Ta nói với các tỳ kheo kia rằng Bậc Đạo Sư gọi họ." - "Thưa vâng, bạch ngài," vị ấy đáp, rồi đi đến gặp các tỳ kheo kia và nói: "Bậc Đạo Sư gọi chư vị tôn giả."
 
-    "Vâng, này hiền giả," họ đáp, rồi cùng đến gặp Đức Thế Tôn, đảnh lễ Ngài và ngồi xuống một bên. Đức Thế Tôn bèn hỏi họ: "Này các tỳ kheo, có thật là các ngươi đã sinh ra cãi cọ, tranh chấp, và mâu thuẫn sâu sắc, đả kích nhau bằng lời nói như dao găm; rằng các ngươi không thể thuyết phục lẫn nhau, cũng không để người khác thuyết phục mình, rằng các ngươi không thể làm cho nhau đồng thuận, cũng không để người khác làm cho mình đồng thuận không?"
+"Vâng, này hiền giả," họ đáp, rồi cùng đến gặp Đức Thế Tôn, đảnh lễ Ngài và ngồi xuống một bên. Đức Thế Tôn bèn hỏi họ: "Này các tỳ kheo, có thật là các ngươi đã sinh ra cãi cọ, tranh chấp, và mâu thuẫn sâu sắc, đả kích nhau bằng lời nói như dao găm; rằng các ngươi không thể thuyết phục lẫn nhau, cũng không để người khác thuyết phục mình, rằng các ngươi không thể làm cho nhau đồng thuận, cũng không để người khác làm cho mình đồng thuận không?"
 
-    "Thưa vâng, bạch ngài."
+"Thưa vâng, bạch ngài."
 
 5\.  "Này các tỳ kheo, các ngươi nghĩ sao? Khi các ngươi cãi cọ, tranh chấp, và mâu thuẫn sâu sắc, đả kích nhau bằng lời nói như dao găm, vào lúc đó, các ngươi có duy trì những hành động thân, khẩu, ý biểu lộ lòng từ (mettā - tâm yêu thương không vị kỷ), cả công khai lẫn riêng tư, đối với các bạn đồng tu trong đời sống phạm hạnh (brahmacariya - đời sống thanh tịnh, hướng đến giải thoát) không?"
 

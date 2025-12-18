@@ -17,7 +17,7 @@ Saying, "Good, friend," the venerable Mahā Kotthita delighted and rejoiced in t
 3\. "'One who is wise, one who is wise,' is said, friend. With reference to what is this said, 'one who is wise'?"
 
 "'One wisely understands, one wisely understands,' friend; that is why it is said, 'one who is wise.' What does one wisely understand? One wisely understands: 'This is suffering'; one
-wisely understands: 'This is the origin of suffering'; one wisely understands: 'This is the cessation of suffering'; one wisely understands: 'This is the way leading to the cessation of suffering.' 'One wisely understands, one wisely understands,' friend; that is why it is said, 'one who is wise.'"429
+wisely understands: 'This is the origin of suffering'; one wisely understands: 'This is the cessation of suffering'; one wisely understands: 'This is the way leading to the cessation of suffering.' 'One wisely understands, one wisely understands,' friend; that is why it is said, 'one who is wise.'[429](/kinhtrungbo/nanamoli-bodhi-en/notes/043#429){.note}
 
 <!--pg-->
 #### (CONSCIOUSNESS)
@@ -57,7 +57,7 @@ wisely understands: 'This is the origin of suffering'; one wisely understands: '
 
 10\. "Friend, what can be known by purified mind-consciousness released from the five faculties?"
 
-"Friend, by purified mind-consciousness released from the five faculties the base of infinite space can be known thus: 'Space is infinite'; the base of infinite consciousness can be known thus: 'Consciousness is infinite'; and the base of nothingness can be known thus: 'There is nothing.'"437
+"Friend, by purified mind-consciousness released from the five faculties the base of infinite space can be known thus: 'Space is infinite'; the base of infinite consciousness can be known thus: 'Consciousness is infinite'; and the base of nothingness can be known thus: 'There is nothing.'"[^437]
 
 11\. "Friend, with what does one understand a state that can be known?"
 
@@ -112,16 +112,16 @@ thought, with rapture and pleasure born of seclusion. This is called the first j
 <!--pg-->
 (THE FIVE FACULTIES)
 
-21\. "Friend, these five faculties each have a separate field, a separate domain, and do not experience each other's field and domain, that is, the eye faculty, the ear faculty, the nose faculty, the tongue faculty, and the body faculty. Now of these five faculties, each having a separate field, a separate domain, not experiencing each other's field and domain, what is their resort, what experiences their fields and domains?"443
+21\. "Friend, these five faculties each have a separate field, a separate domain, and do not experience each other's field and domain, that is, the eye faculty, the ear faculty, the nose faculty, the tongue faculty, and the body faculty. Now of these five faculties, each having a separate field, a separate domain, not experiencing each other's field and domain, what is their resort, what experiences their fields and domains?"[^443]
 
 "Friend, these five faculties each have a separate field, a separate domain, and do not experience each other's field and domain, that is, the eye faculty, the ear faculty, the nose faculty, the tongue faculty, and the body faculty. Now these five faculties, each having a separate field, a separate domain, not experiencing each other's field and domain, have mind as their resort, and mind experiences their fields and domains."
 
 22\. "Friend, as to these five faculties - that is, the eye faculty, the ear faculty, the nose faculty, the tongue faculty, and the body faculty - what do these five faculties stand in dependence on?"
 
-"Friend, as to these five faculties - that is, the eye faculty, the ear faculty, the nose faculty, the tongue faculty, and the body faculty - these five faculties stand in dependence on vitality."444
+"Friend, as to these five faculties - that is, the eye faculty, the ear faculty, the nose faculty, the tongue faculty, and the body faculty - these five faculties stand in dependence on vitality."[^444]
 
 "Friend, what does vitality stand in dependence on?"
-"Friend, as to these five faculties - that is, the eye faculty, the ear faculty, the nose faculty, the tongue faculty, and the body faculty - these five faculties stand in dependence on vitality."444
+"Friend, as to these five faculties - that is, the eye faculty, the ear faculty, the nose faculty, the tongue faculty, and the body faculty - these five faculties stand in dependence on vitality."
 
 "Friend, what does vitality stand in dependence on?"
 
@@ -142,7 +142,7 @@ thought, with rapture and pleasure born of seclusion. This is called the first j
 
 "Vital formations, friend, are not states of feeling. [^446] If vital formations were states of feeling, then when a bhikkhu has entered upon the cessation of perception and feeling, he would not be seen to emerge from it. Because vital formations are one thing and states of feeling another, when a bhikkhu has entered upon the cessation of perception and feeling, he can be seen to emerge from it."
 
-24\. "Friend, when this body is bereft of how many states is it then discarded and forsaken, left lying senseless like a log?"447
+24\. "Friend, when this body is bereft of how many states is it then discarded and forsaken, left lying senseless like a log?"[^447]
 
 "Friend, when this body is bereft of three states - vitality, heat, and consciousness - it is then discarded and forsaken, left lying senseless like a log."
 
