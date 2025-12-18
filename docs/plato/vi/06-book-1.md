@@ -1,11 +1,14 @@
+---
+title: Quyển 1 | Cộng Hòa Plato
+---
 # *Quyển 1*
 
 LỜI KỂ CỦA SOCRATES BẮT ĐẦU: *Hôm qua tôi đã xuống Piraeus*
-> *cùng với Glaucon, con trai của Ariston, để dâng lời cầu nguyện lên nữ thần,[^1] và cũng (327a) vì tôi muốn xem họ tổ chức lễ hội thế nào, bởi đây là lần đầu tiên họ tổ chức. Tôi thấy đám rước của cư dân địa phương thật đẹp, nhưng màn trình diễn của người Thrace cũng không kém phần long trọng, theo quan điểm của tôi. Sau khi cầu nguyện và xem đám rước, chúng tôi bắt đầu quay về thành phố.[^2] Lúc đó Polemarchus, con trai của Cephalus, thấy chúng tôi từ đằng xa (b) khi chúng tôi đang vội vã về nhà, bèn sai cậu nô lệ chạy theo và yêu cầu chúng tôi đợi cậu ấy. Cậu bé túm lấy áo choàng[^3] của tôi từ phía sau.*
+> *cùng với Glaucon, con trai của Ariston, để dâng lời cầu nguyện lên nữ thần,[1](/plato/vi/notes/01#1){.note} và cũng (327a) vì tôi muốn xem họ tổ chức lễ hội thế nào, bởi đây là lần đầu tiên họ tổ chức. Tôi thấy đám rước của cư dân địa phương thật đẹp, nhưng màn trình diễn của người Thrace cũng không kém phần long trọng, theo quan điểm của tôi. Sau khi cầu nguyện và xem đám rước, chúng tôi bắt đầu quay về thành phố.[2](/plato/vi/notes/01#2){.note} Lúc đó Polemarchus, con trai của Cephalus, thấy chúng tôi từ đằng xa (b) khi chúng tôi đang vội vã về nhà, bèn sai cậu nô lệ chạy theo và yêu cầu chúng tôi đợi cậu ấy. Chú bé nô lệ túm lấy áo choàng [3](/plato/vi/notes/01#3){.note} của tôi từ phía sau.*
 
 NÔ LỆ: Ông Polemarchus muốn các ngài đợi.
 
-> *Tôi quay lại và hỏi cậu ấy đang ở đâu.*
+> *Tôi quay lại và hỏi ông ấy đang ở đâu.*
 
 NÔ LỆ: Ông chủ đang tới ngay phía sau các ngài; xin hãy đợi.
 
@@ -23,7 +26,7 @@ SOCRATES: Chắc chắn rồi.
 
 POLEMARCHUS: Vậy thì, hoặc các ngài phải chứng tỏ mình mạnh hơn tất cả những người này, hoặc các ngài sẽ phải ở lại đây.
 
-SOCRATES: Chẳng lẽ không còn một lựa chọn khác sao: đó là chúng tôi thuyết phục các cậu rằng các cậu nên để chúng tôi đi?
+SOCRATES: Chẳng lẽ không còn một lựa chọn khác sao ?: đó là chúng tôi *thuyết phục* các cậu rằng các cậu nên để chúng tôi đi?
 
 POLEMARCHUS: Nhưng các ngài có thể thuyết phục chúng tôi không, nếu chúng tôi không chịu lắng nghe?
 
@@ -43,19 +46,19 @@ SOCRATES: Nếu cậu nghĩ vậy, thì chúng ta phải làm thôi.
 
 > *Thế là chúng tôi đến nhà Polemarchus, và ở đó chúng tôi gặp Lysias và Euthydemus, anh em của Polemarchus; hơn nữa, Thrasymachus người Chalcedon cũng ở đó, cùng với Charmantides người Paeania, và Clitophon, con trai của Aristonymus. Cha của Polemarchus, cụ Cephalus, cũng ở bên trong, và tôi thấy cụ trông khá già. Phải rồi, đã lâu tôi không gặp cụ. Cụ đang ngồi trên một chiếc ghế có đệm và đội vòng hoa trên đầu, vì cụ vừa mới dâng tế phẩm trong sân nhà. Chúng tôi ngồi xuống bên cạnh cụ, (c) vì có mấy chiếc ghế đã được xếp thành vòng tròn ở đó. Ngay khi nhìn thấy tôi, Cephalus chào:*
 
-Socrates, ngài chẳng mấy khi xuống Piraeus thăm chúng tôi. Lẽ ra ngài nên đến. Nếu tôi còn đủ sức để đi lên thành phố dễ dàng, ngài sẽ không cần phải đến đây. Trái lại, chúng tôi sẽ đến chỗ ngài. Nhưng tình hình là thế này, (d) ngài nên đến đây thường xuyên hơn. Tôi muốn ngài biết rằng, với riêng tôi, khi những thú vui khác—những thú vui thể xác—héo mòn đi, thì khao khát đối với các cuộc thảo luận và những niềm vui từ đó lại lớn mạnh thêm.[^4] Vậy nên xin hãy làm theo lời tôi: hãy trò chuyện với những chàng trai trẻ này, và ở lại đây với chúng tôi, như ngài vẫn làm với bạn bè thân thiết và người nhà.
+Socrates, ngài chẳng mấy khi xuống Piraeus thăm chúng tôi. Lẽ ra ngài nên đến. Nếu tôi còn đủ sức để đi lên thành phố dễ dàng, ngài sẽ không cần phải đến đây. Trái lại, chúng tôi sẽ đến chỗ ngài. Nhưng tình hình là thế này, (d) ngài nên đến đây thường xuyên hơn. Tôi muốn ngài biết rằng, với riêng tôi, khi những thú vui khác—những thú vui thể xác—héo mòn đi, thì khao khát đối với các cuộc thảo luận và những niềm vui từ đó lại lớn mạnh thêm.[4](/plato/vi/notes/01#4){.note} Vậy nên xin hãy làm theo lời tôi: hãy trò chuyện với những chàng trai trẻ này, và ở lại đây với chúng tôi, như ngài vẫn làm với bạn bè thân thiết và người nhà.
 
-SOCRATES: Chắc chắn rồi, thưa cụ Cephalus. Thực tình, tôi rất thích tham gia thảo luận (e) với những người cao tuổi. Tôi nghĩ chúng ta nên học hỏi từ họ—vì họ giống như những người đã đi qua một con đường mà có lẽ chúng ta cũng sẽ phải đi—rằng con đường đó như thế nào, gồ ghề khó đi hay bằng phẳng dễ dàng. Và tôi đặc biệt muốn biết từ cụ, cụ nghĩ gì về điều đó, vì cụ đã chạm đến mốc thời gian mà các nhà thơ gọi là "ngưỡng cửa của tuổi già".[^5] Đó có phải là giai đoạn khó khăn của cuộc đời không? Cụ có điều gì muốn chia sẻ về nó?
+SOCRATES: Chắc chắn rồi, thưa cụ Cephalus. Thực tình, tôi rất thích tham gia thảo luận (e) với những người cao tuổi. Tôi nghĩ chúng ta nên học hỏi từ họ—vì họ giống như những người đã đi qua một con đường mà có lẽ chúng ta cũng sẽ phải đi—rằng con đường đó như thế nào, gồ ghề khó đi hay bằng phẳng dễ dàng. Và tôi đặc biệt muốn biết từ cụ, cụ nghĩ gì về điều đó, vì cụ đã chạm đến mốc thời gian mà các nhà thơ gọi là "ngưỡng cửa của tuổi già".[5](/plato/vi/notes/01#5){.note} Đó có phải là giai đoạn khó khăn của cuộc đời không? Cụ có điều gì muốn chia sẻ về nó?
 
-(329a) CEPHALUS: Có Zeus chứng giám, Socrates, tôi sẽ nói cho ngài biết chính xác tôi nghĩ gì. Ngài thấy đấy, (a) một số người trong chúng tôi trạc tuổi nhau thường hay tụ tập, đúng như câu tục ngữ xưa.[^6] Khi gặp nhau, phần lớn các thành viên đều than vãn, tiếc nuối những thú vui đã mất của tuổi trẻ và hồi tưởng về chuyện chăn gối, tiệc rượu, yến tiệc linh đình, và những thứ khác đi kèm với chúng.
+(329a) CEPHALUS: Có Zeus chứng giám, Socrates, tôi sẽ nói cho ngài biết chính xác tôi nghĩ gì. Ngài thấy đấy, (a) một số người trong chúng tôi trạc tuổi nhau thường hay tụ tập, đúng như câu tục ngữ xưa.[6](/plato/vi/notes/01#6){.note} Khi gặp nhau, phần lớn các thành viên đều than vãn, tiếc nuối những thú vui đã mất của tuổi trẻ và hồi tưởng về chuyện chăn gối, tiệc rượu, yến tiệc linh đình, và những thứ khác đi kèm với chúng.
 
 Họ bực bội như thể mình bị tước đoạt những điều quan trọng, như thể ngày xưa họ sống thật sung sướng còn bây giờ thì chẳng gọi là sống nữa. Một số người khác thậm chí còn rên rỉ (b) về sự ngược đãi mà người thân trút lên tuổi già, và vì lý do đó, họ kể lể một tràng dài những tai ương mà tuổi già gây ra cho họ. Nhưng tôi không nghĩ họ đổ lỗi đúng nguyên nhân, thưa Socrates. Rốt cuộc, nếu đó là nguyên nhân, thì tôi cũng phải trải qua những điều tương tự, ít nhất là về mặt tuổi tác, và tất cả những người già khác cũng vậy. Nhưng thực tế, tôi đã gặp những người không cảm thấy như thế—đặc biệt là nhà thơ Sophocles. Có lần tôi có mặt khi ai đó hỏi ông ấy: "Chuyện chăn gối thế nào rồi, (c) Sophocles? Ngài còn có thể ân ái với đàn bà không?" "Im đi, anh bạn," ông đáp, "Tôi rất mừng vì đã thoát khỏi chuyện đó, giống như một nô lệ trốn thoát khỏi một ông chủ điên khùng và tàn bạo." Lúc đó tôi nghĩ ông ấy nói rất chí lý, và giờ tôi vẫn thấy vậy. Ngài thấy đấy, tuổi già mang lại sự bình yên và tự do khỏi tất cả những thứ đó. Khi các ham muốn thôi không còn căng thẳng và quấy rầy chúng ta nữa, mọi điều Sophocles nói đều trở thành sự thật, và chúng ta thoát khỏi rất nhiều ông chủ điên loạn. (d) Nhưng trong những chuyện này, và cả chuyện liên quan đến người thân, nguyên nhân thực sự không phải là tuổi già, Socrates ạ, mà là cách sống của con người. Nếu họ sống điều độ và biết hài lòng, thì tuổi già cũng chỉ gánh nặng vừa phải; còn nếu không, thì thưa Socrates, cả tuổi già lẫn tuổi trẻ đều khó mà chịu đựng nổi.
 
 > *Tôi ngưỡng mộ ông vì đã nói như vậy, và muốn ông nói thêm nữa, nên tôi khích lệ ông.*
 
-Tôi hình dung rằng khi cụ nói thế, thưa Cephalus, số đông[^7] sẽ không chấp nhận đâu. Trái lại, (e) họ nghĩ cụ chịu đựng tuổi già dễ dàng hơn không phải nhờ cách sống, mà nhờ cụ giàu có. Vì họ nói rằng người giàu có nhiều thứ để an ủi.
+Tôi hình dung rằng khi cụ nói thế, thưa Cephalus, số đông[7](/plato/vi/notes/01#7){.note} sẽ không chấp nhận đâu. Trái lại, (e) họ nghĩ cụ chịu đựng tuổi già dễ dàng hơn không phải nhờ cách sống, mà nhờ cụ giàu có. Vì họ nói rằng người giàu có nhiều thứ để an ủi.
 
-CEPHALUS: Đúng vậy, họ không tin đâu. Và sự phản đối của họ cũng có lý, dù không nhiều như họ tưởng. Câu trả lời của Themistocles rất phù hợp ở đây. Khi một kẻ từ đảo Seriphus xúc phạm ông, nói rằng (330a) danh tiếng lẫy lừng của ông là nhờ thành phố của ông chứ không phải nhờ bản thân ông, ông đã đáp rằng: nếu ông là người Seriphus, ông sẽ không nổi tiếng; nhưng gã kia, dù có là người Athens, cũng sẽ chẳng nổi tiếng được.[^8] Lập luận tương tự cũng áp dụng cho những người không giàu có và thấy tuổi già khó chịu: một người tốt sẽ không dễ dàng chịu đựng tuổi già nếu đi kèm với nghèo khó, nhưng một người không tốt cũng sẽ chẳng thấy bình yên với bản thân ngay cả khi giàu có.
+CEPHALUS: Đúng vậy, họ không tin đâu. Và sự phản đối của họ cũng có lý, dù không nhiều như họ tưởng. Câu trả lời của Themistocles rất phù hợp ở đây. Khi một kẻ từ đảo Seriphus xúc phạm ông, nói rằng (330a) danh tiếng lẫy lừng của ông là nhờ thành phố của ông chứ không phải nhờ bản thân ông, ông đã đáp rằng: nếu ông là người Seriphus, ông sẽ không nổi tiếng; nhưng gã kia, dù có là người Athens, cũng sẽ chẳng nổi tiếng được.[8](/plato/vi/notes/01#8){.note} Lập luận tương tự cũng áp dụng cho những người không giàu có và thấy tuổi già khó chịu: một người tốt sẽ không dễ dàng chịu đựng tuổi già nếu đi kèm với nghèo khó, nhưng một người không tốt cũng sẽ chẳng thấy bình yên với bản thân ngay cả khi giàu có.
 
 SOCRATES: Cụ thừa hưởng phần lớn gia sản, thưa Cephalus, hay cụ tự làm ra?
 
@@ -76,7 +79,7 @@ CEPHALUS: Điều tôi sắp nói có lẽ sẽ không thuyết phục được 
 
 Ông ấy nói mới tuyệt làm sao. Chính trong mối liên hệ này, tôi cho rằng việc sở hữu của cải là giá trị nhất, không phải cho mọi người, mà cho người tốt và (b) biết điều độ. Không lừa lọc ai dù vô tình, không nói dối, không nợ thần linh lễ vật hay nợ người đời tiền bạc, và nhờ đó ra đi về thế giới bên kia mà không sợ hãi—việc sở hữu của cải đóng góp một phần không nhỏ vào điều này. Nó còn nhiều công dụng khác nữa, nhưng so đi tính lại, Socrates ạ, tôi cho rằng với một người có trí khôn, đó là cách mà của cải hữu dụng nhất.
 
-SOCRATES: Một ý kiến thật hay, Cephalus. Nhưng nói về chính điều đó, sự công bằng (công lý),[^9] liệu chúng ta có nên nói đơn giản rằng nó là nói sự thật và trả lại bất cứ (c) món nợ nào mình đã vay? Hay đôi khi làm những việc này là công bằng, đôi khi lại là bất công? Ví dụ tôi muốn nói thế này: ai cũng sẽ đồng ý rằng nếu một người mượn vũ khí từ một người bạn đang tỉnh táo, và nếu người bạn đó phát điên và đòi lại vũ khí, thì người mượn không nên trả lại, và sẽ không công bằng nếu anh ta làm thế. Cũng không ai nên sẵn lòng nói toàn bộ sự thật cho một người đang trong trạng thái như vậy.
+SOCRATES: Một ý kiến thật hay, Cephalus. Nhưng nói về chính điều đó, sự công bằng (công lý),[9](/plato/vi/notes/01#9){.note} liệu chúng ta có nên nói đơn giản rằng nó là nói sự thật và trả lại bất cứ (c) món nợ nào mình đã vay? Hay đôi khi làm những việc này là công bằng, đôi khi lại là bất công? Ví dụ tôi muốn nói thế này: ai cũng sẽ đồng ý rằng nếu một người mượn vũ khí từ một người bạn đang tỉnh táo, và nếu người bạn đó phát điên và đòi lại vũ khí, thì người mượn không nên trả lại, và sẽ không công bằng nếu anh ta làm thế. Cũng không ai nên sẵn lòng nói toàn bộ sự thật cho một người đang trong trạng thái như vậy.
 
 (d) CEPHALUS: Đúng thế.
 
@@ -122,7 +125,7 @@ POLEMARCHUS: Có, bằng mọi giá. Trả cái thực sự nợ họ. Và theo 
 
 POLEMARCHUS: Ngài nghĩ ý ông ấy là gì khác sao?
 
-SOCRATES: Vậy thì, nhân danh Zeus, cậu nghĩ ông ấy sẽ trả lời thế nào nếu ai đó hỏi: "Simonides, kỹ nghệ[^10] mà chúng ta gọi là y thuật trao những món nợ hay những thứ thích đáng gì, và cho cái gì?"
+SOCRATES: Vậy thì, nhân danh Zeus, cậu nghĩ ông ấy sẽ trả lời thế nào nếu ai đó hỏi: "Simonides, kỹ nghệ[10](/plato/vi/notes/01#10){.note} mà chúng ta gọi là y thuật trao những món nợ hay những thứ thích đáng gì, và cho cái gì?"
 
 POLEMARCHUS: Rõ ràng ông ấy sẽ nói nó trao thuốc men, thức ăn và đồ uống cho cơ thể.
 
@@ -144,7 +147,7 @@ POLEMARCHUS: Bác sĩ.
 
 (e) SOCRATES: Và ai có thể làm thế tốt nhất trong cơn bão biển?
 
-POLEMARCHUS: Thuyền trưởng.[^11]
+POLEMARCHUS: Thuyền trưởng.[11](/plato/vi/notes/01#11){.note}
 
 SOCRATES: Thế còn người công chính? Trong hành động và công việc nào anh ta có khả năng nhất để làm lợi cho bạn và hại kẻ thù?
 
@@ -254,7 +257,7 @@ SOCRATES: Vậy nếu người công chính giỏi canh giữ tiền, anh ta cũ
 
 POLEMARCHUS: Ít nhất lập luận gợi ý như vậy.
 
-SOCRATES: Vậy có vẻ như, người công chính hóa ra lại là một kiểu trộm cắp. Cậu có lẽ đã lấy ý tưởng đó từ Homer. Vì ông ấy rất yêu mến Autolycus, (b) ông ngoại của Odysseus, người mà ông mô tả là giỏi hơn tất cả mọi người trong việc trộm cắp và thề gian.[^12] Theo cậu, Homer và Simonides, thì sự công bằng dường như là một loại kỹ nghệ trộm cắp—loại làm lợi cho bạn bè và hại kẻ thù. Chẳng phải đó là ý cậu sao?
+SOCRATES: Vậy có vẻ như, người công chính hóa ra lại là một kiểu trộm cắp. Cậu có lẽ đã lấy ý tưởng đó từ Homer. Vì ông ấy rất yêu mến Autolycus, (b) ông ngoại của Odysseus, người mà ông mô tả là giỏi hơn tất cả mọi người trong việc trộm cắp và thề gian.[12](/plato/vi/notes/01#12){.note} Theo cậu, Homer và Simonides, thì sự công bằng dường như là một loại kỹ nghệ trộm cắp—loại làm lợi cho bạn bè và hại kẻ thù. Chẳng phải đó là ý cậu sao?
 
 POLEMARCHUS: Không, có Zeus chứng giám, không phải. Nhưng tôi không còn biết mình có ý gì nữa. Tuy nhiên, tôi vẫn tin điều này: làm lợi cho bạn bè và hại kẻ thù là công bằng.
 
@@ -314,7 +317,7 @@ SOCRATES: Khi ngựa bị làm hại, chúng trở nên tốt hơn hay xấu đi
 
 POLEMARCHUS: Xấu đi.
 
-SOCRATES: Xét về phẩm hạnh[^13] làm cho chó tốt, hay phẩm hạnh làm cho ngựa tốt?
+SOCRATES: Xét về phẩm hạnh[13](/plato/vi/notes/01#13){.note} làm cho chó tốt, hay phẩm hạnh làm cho ngựa tốt?
 
 POLEMARCHUS: Xét về phẩm hạnh làm cho ngựa tốt.
 
@@ -388,13 +391,13 @@ SOCRATES: Được rồi. Vì đã rõ ràng rằng công bằng hay cái công 
 
 Hai người nói nhảm cái gì nãy giờ thế hả, Socrates! Tại sao (c) các người lại hành xử như những kẻ ngây ngô, cứ nhường nhịn nhau mãi thế? Nếu ông thực sự muốn biết công bằng là gì, đừng chỉ hỏi rồi thỏa mãn thói háo danh bằng cách bác bỏ câu trả lời. Ông biết thừa là hỏi thì dễ hơn trả lời. Hãy tự trả lời và nói cho chúng tôi biết ông nói cái công chính là gì. (d) Và đừng có bảo tôi nó là cái đúng đắn, cái có ích, cái sinh lợi, cái thu hoạch, hay cái có lợi thế, mà hãy nói cho rõ ràng và chính xác ý ông là gì. Vì tôi sẽ không chấp nhận mấy thứ vô nghĩa đó từ ông đâu.
 
-> *Lời lẽ của hắn làm tôi giật mình và khi nhìn hắn, tôi thấy sợ. Tôi nghĩ nếu tôi không nhìn thấy hắn trước khi hắn nhìn tôi, chắc tôi đã chết lặng.[^14] Nhưng may thay, tôi tình cờ nhìn hắn ngay khi hắn bắt đầu bực tức với cuộc tranh luận, nên tôi có thể trả lời; và hơi run rẩy, tôi nói:*
+> *Lời lẽ của hắn làm tôi giật mình và khi nhìn hắn, tôi thấy sợ. Tôi nghĩ nếu tôi không nhìn thấy hắn trước khi hắn nhìn tôi, chắc tôi đã chết lặng. [14](/plato/vi/notes/01#14){.note} Nhưng may thay, tôi tình cờ nhìn hắn ngay khi hắn bắt đầu bực tức với cuộc tranh luận, nên tôi có thể trả lời; và hơi run rẩy, tôi nói:*
 
 Đừng quá khắt khe với chúng tôi, Thrasymachus. Nếu Polemarchus và tôi có sai sót trong việc xem xét các lập luận, ông có thể chắc chắn rằng chúng tôi làm thế một cách vô tình. Nếu chúng tôi đang tìm vàng, chúng tôi sẽ không bao giờ tự nguyện nhường nhịn nhau nếu việc đó làm mất cơ hội tìm thấy nó. Vậy đừng nghĩ rằng khi tìm kiếm sự công bằng, một thứ còn quý giá hơn cả đống vàng, chúng tôi lại ngu ngốc nhường nhau hay thiếu nghiêm túc trong việc tìm ra nó. Ông chắc chắn không được nghĩ thế, bạn tôi ạ, mà hãy nghĩ—như tôi nghĩ—rằng chúng tôi không đủ khả năng tìm ra nó. Vì thế, lẽ ra chúng tôi đáng được những người thông minh như các ông (337a) thương hại hơn là đối xử thô bạo.
 
 > *Nghe thấy thế, hắn cười phá lên đầy mỉa mai:*
 
-Có Heracles chứng giám! Lại là thói mỉa mai quen thuộc của Socrates![^15] Tôi biết ngay chuyện này sẽ xảy ra mà. Tôi đã bảo mấy người này trước đó là ông sẽ không chịu trả lời, rằng ông sẽ mỉa mai và làm bất cứ điều gì chứ không chịu trả lời nếu ai đó hỏi ông.
+Có Heracles chứng giám! Lại là thói mỉa mai quen thuộc của Socrates! [15](/plato/vi/notes/01#15){.note} Tôi biết ngay chuyện này sẽ xảy ra mà. Tôi đã bảo mấy người này trước đó là ông sẽ không chịu trả lời, rằng ông sẽ mỉa mai và làm bất cứ điều gì chứ không chịu trả lời nếu ai đó hỏi ông.
 
 SOCRATES: Đó là vì ông là một người khôn ngoan, Thrasymachus ạ. Ông biết rất rõ nếu ông hỏi ai đó mười hai là bao nhiêu, và khi đặt (b) câu hỏi ông cảnh báo người ta: "Này anh bạn, đừng có bảo tôi mười hai là hai lần sáu, hay ba lần bốn, hay sáu lần hai, hay bốn lần ba; vì tôi sẽ không chấp nhận mấy thứ vô nghĩa đó từ anh đâu"—tôi hình dung ông thấy rõ là chẳng ai có thể trả lời một người hỏi theo kiểu đó. Nhưng giả sử người ta nói với ông: "Ý ông là sao, Thrasymachus; tôi không được đưa ra bất kỳ câu trả lời nào ông nêu ra ư, ngay cả khi mười hai tình cờ là một trong những thứ đó? Ông thật kỳ lạ. Ông muốn tôi nói cái gì khác ngoài sự thật sao? (c) Hay ý ông là cái gì khác?" Ông sẽ trả lời người ta thế nào?
 
@@ -428,7 +431,7 @@ SOCRATES: Khi ông nói tôi học từ người khác, ông nói đúng, Thrasy
 
 THRASYMACHUS: Vậy hãy nghe đây. Tôi nói công bằng không là gì khác ngoài (c) cái có lợi cho kẻ mạnh hơn. Sao, sao ông không khen tôi? Không, ông không chịu đâu.
 
-SOCRATES: Trước tiên tôi phải hiểu ý ông là gì đã. Vì hiện tại tôi chưa hiểu. Ông nói cái có lợi cho kẻ mạnh hơn là công bằng. Ý ông rốt cuộc là gì, Thrasymachus? Chắc chắn ông không có ý thế này: Polydamas, võ sĩ toàn năng,[^16] mạnh hơn chúng ta. Thịt bò có lợi cho cơ thể anh ta. Vậy, thức ăn này cũng vừa có lợi vừa công bằng cho chúng ta, (d) những người yếu hơn anh ta?
+SOCRATES: Trước tiên tôi phải hiểu ý ông là gì đã. Vì hiện tại tôi chưa hiểu. Ông nói cái có lợi cho kẻ mạnh hơn là công bằng. Ý ông rốt cuộc là gì, Thrasymachus? Chắc chắn ông không có ý thế này: Polydamas, võ sĩ toàn năng,[16](/plato/vi/notes/01#16){.note} mạnh hơn chúng ta. Thịt bò có lợi cho cơ thể anh ta. Vậy, thức ăn này cũng vừa có lợi vừa công bằng cho chúng ta, (d) những người yếu hơn anh ta?
 
 THRASYMACHUS: Ông làm tôi ghê tởm, Socrates. Ông diễn giải lời tôi theo cách xấu xa nhất.
 
@@ -518,7 +521,7 @@ SOCRATES: Lạy chúa, Thrasymachus; tôi chẳng dám thử đâu! Nhưng để
 
 THRASYMACHUS: Ý tôi là kẻ cai trị theo nghĩa chính xác nhất. Giờ hãy chơi xấu đi, nếu ông có thể, và giở thói bắt bẻ câu chữ ra—tôi không xin ân huệ nào đâu. Nhưng ông sẽ thấy mình chẳng làm được gì.
 
-SOCRATES: Ông nghĩ tôi điên đến mức thử cạo lông sư tử[^17] (c) và bắt bẻ Thrasymachus sao?
+SOCRATES: Ông nghĩ tôi điên đến mức thử cạo lông sư tử[17](/plato/vi/notes/01#17){.note} (c) và bắt bẻ Thrasymachus sao?
 
 (a) THRASYMACHUS: Thì ông vừa mới thử đấy thôi, dù ông cũng chẳng ra tích sự gì!
 
@@ -534,7 +537,7 @@ SOCRATES: Nói cách khác, chúng ta không nên tính đến việc (d) ông t
 
 THRASYMACHUS: Đúng.
 
-SOCRATES: Và có cái gì đó có lợi cho mỗi đối tượng này không?[^18]
+SOCRATES: Và có cái gì đó có lợi cho mỗi đối tượng này không?[18](/plato/vi/notes/01#18){.note}
 
 THRASYMACHUS: Chắc chắn rồi.
 
@@ -546,11 +549,11 @@ SOCRATES: Và có cái gì có lợi cho chính các kỹ nghệ ngoài việc t
 
 (e) THRASYMACHUS: Ý ông là sao?
 
-SOCRATES: Là thế này: giả sử ông hỏi tôi liệu một cơ thể là cơ thể thôi đã thỏa đáng chưa, hay nó cần thêm gì khác. Tôi sẽ trả lời: "Tất nhiên nó cần thêm. Thực tế, đó là lý do y thuật được tìm ra—bởi vì cơ thể có khiếm khuyết và việc nó cứ như thế là không thỏa đáng.[^19] Để cung cấp cái có lợi, đó là lý do kỹ nghệ này được phát triển." Ông nghĩ tôi nói đúng hay không khi nói vậy?
+SOCRATES: Là thế này: giả sử ông hỏi tôi liệu một cơ thể là cơ thể thôi đã thỏa đáng chưa, hay nó cần thêm gì khác. Tôi sẽ trả lời: "Tất nhiên nó cần thêm. Thực tế, đó là lý do y thuật được tìm ra—bởi vì cơ thể có khiếm khuyết và việc nó cứ như thế là không thỏa đáng.[19](/plato/vi/notes/01#19){.note} Để cung cấp cái có lợi, đó là lý do kỹ nghệ này được phát triển." Ông nghĩ tôi nói đúng hay không khi nói vậy?
 
 THRASYMACHUS: Đúng.
 
-SOCRATES: Thế còn chính y thuật thì sao? Nó có khiếm khuyết không? Liệu một kỹ nghệ có cần (342a) thêm phẩm hạnh nào đó, như mắt cần thị lực và tai cần thính lực, để rồi cần một kỹ nghệ khác xem xét và cung cấp cái có lợi cho chúng không?[^20] Liệu bản thân một kỹ nghệ có khiếm khuyết tương tự, để mỗi kỹ nghệ cần một kỹ nghệ khác xem xét cái có lợi cho nó? Và kỹ nghệ làm công việc xem xét đó lại cần một kỹ nghệ khác nữa, và cứ thế mãi không? Hay mỗi kỹ nghệ tự xem xét cái có lợi cho chính nó? Hay nó (b) không cần chính nó cũng chẳng cần kỹ nghệ khác để xem xét cái gì—xét đến khiếm khuyết của chính nó—là có lợi cho nó? Thực vậy, có phải không hề có khiếm khuyết hay sai lầm nào trong bất kỳ kỹ nghệ nào? Và có phải là không thích hợp để bất kỳ kỹ nghệ nào xem xét cái có lợi cho bất cứ thứ gì ngoài đối tượng mà nó xử lý? Và vì bản thân nó là đúng đắn, nó không có lỗi lầm hay tạp chất chừng nào nó còn hoàn toàn và chính xác là kỹ nghệ đó? Hãy xem xét điều này với sự chính xác về ngôn từ mà ông đã đề cập. Có phải vậy hay không?
+SOCRATES: Thế còn chính y thuật thì sao? Nó có khiếm khuyết không? Liệu một kỹ nghệ có cần (342a) thêm phẩm hạnh nào đó, như mắt cần thị lực và tai cần thính lực, để rồi cần một kỹ nghệ khác xem xét và cung cấp cái có lợi cho chúng không?[20](/plato/vi/notes/01#20){.note} Liệu bản thân một kỹ nghệ có khiếm khuyết tương tự, để mỗi kỹ nghệ cần một kỹ nghệ khác xem xét cái có lợi cho nó? Và kỹ nghệ làm công việc xem xét đó lại cần một kỹ nghệ khác nữa, và cứ thế mãi không? Hay mỗi kỹ nghệ tự xem xét cái có lợi cho chính nó? Hay nó (b) không cần chính nó cũng chẳng cần kỹ nghệ khác để xem xét cái gì—xét đến khiếm khuyết của chính nó—là có lợi cho nó? Thực vậy, có phải không hề có khiếm khuyết hay sai lầm nào trong bất kỳ kỹ nghệ nào? Và có phải là không thích hợp để bất kỳ kỹ nghệ nào xem xét cái có lợi cho bất cứ thứ gì ngoài đối tượng mà nó xử lý? Và vì bản thân nó là đúng đắn, nó không có lỗi lầm hay tạp chất chừng nào nó còn hoàn toàn và chính xác là kỹ nghệ đó? Hãy xem xét điều này với sự chính xác về ngôn từ mà ông đã đề cập. Có phải vậy hay không?
 
 THRASYMACHUS: Có vẻ là vậy.
 
@@ -596,7 +599,7 @@ SOCRATES: Chính xác là tôi không biết cái gì?
 
 (b) THRASYMACHUS: Ông nghĩ rằng người chăn cừu và người chăn bò xem xét điều tốt cho cừu và bò của họ, vỗ béo và chăm sóc chúng với mục đích nào đó khác ngoài điều tốt cho chủ nhân và cho chính họ. Hơn nữa, ông tin rằng những kẻ cai trị trong các thành phố—những kẻ cai trị thực sự ấy—nghĩ về thần dân của họ theo cách khác với cách người ta nghĩ về cừu, và rằng cái họ xem xét ngày đêm là thứ gì đó khác ngoài cái có (c) lợi cho chính họ. Ông còn xa mới hiểu được công bằng và cái công chính, bất công và cái bất chính, đến nỗi ông không nhận ra rằng công bằng thực sự là điều tốt cho kẻ khác, là cái có lợi cho kẻ mạnh hơn và kẻ cai trị, và có hại cho kẻ tuân phục và phục vụ. Bất công thì ngược lại, nó cai trị những kẻ ngây ngô—vì thực sự họ là thế—những người công chính, và những kẻ bị nó cai trị làm điều có lợi cho kẻ kia, kẻ mạnh hơn; và họ làm cho kẻ họ phục vụ hạnh phúc, nhưng bản thân họ chẳng hạnh phúc chút nào.
 
-(d) Ông phải xem xét như sau, Socrates, nếu không ông sẽ là kẻ ngây thơ nhất trần đời: người công chính luôn nhận được ít hơn người bất công. Thứ nhất, trong các hợp đồng với nhau, khi người công chính hợp tác với người bất công, ông sẽ không bao giờ thấy, khi sự hợp tác kết thúc, người công chính nhận được nhiều hơn người bất công, mà là ít hơn. Thứ hai, trong các vấn đề liên quan đến thành phố, khi phải đóng thuế, người công chính đóng nhiều hơn trên cùng một lượng tài sản, người bất công đóng ít hơn; nhưng khi thành phố hoàn tiền, người công chính chẳng nhận được gì trong khi người bất công kiếm được món hời lớn. Cuối cùng, khi (e) mỗi người giữ chức vụ chính quyền, người công chính—ngay cả khi không bị thiệt hại theo cách khác—cũng thấy việc tư của mình sa sút vì phải bỏ bê, rằng anh ta chẳng kiếm chác được gì từ ngân khố công vì sự công chính của mình, và rằng anh ta bị người thân và người quen ghét bỏ vì không chịu làm điều bất công để thiên vị họ. Điều ngược lại đúng với người bất công trên mọi phương diện. Ý tôi, tất nhiên, là người tôi đã mô tả trước đó: kẻ có quyền lực lớn để làm tốt hơn[^21] tất cả (344a) những người khác. Hắn là kẻ ông nên xem xét nếu ông muốn tìm ra việc bất công có lợi cho cá nhân hơn công bằng nhiều đến thế nào. Ông sẽ hiểu điều này dễ nhất nếu ông hướng suy nghĩ đến sự bất công ở dạng hoàn hảo nhất, dạng làm cho kẻ gây ra bất công hạnh phúc nhất, và những kẻ chịu đựng nó—những người không muốn làm điều bất công—khốn khổ nhất. Dạng tôi muốn nói là chế độ bạo chúa, vì nó dùng cả thủ đoạn ngầm lẫn vũ lực để chiếm đoạt tài sản của người khác—dù là thiêng liêng hay thế tục, công hay tư—không phải từng chút một, mà tất cả cùng lúc. Nếu (b) ai đó phạm một phần của loại bất công này và bị bắt, hắn sẽ bị trừng phạt và bị sỉ vả nặng nề—kẻ cướp đền,[^22] kẻ bắt cóc, kẻ đột nhập, kẻ cướp, và kẻ trộm là những cái tên gọi những người bất công một phần này khi họ phạm những tội đó. Mặt khác, khi ai đó chiếm đoạt tài sản của công dân, và sau đó bắt cóc và nô dịch luôn cả chủ sở hữu, thay vì những cái tên đáng xấu hổ này, hắn được gọi là (c) hạnh phúc và được ban phước: không chỉ bởi chính các công dân, mà còn bởi tất cả những ai biết hắn đã phạm trọn vẹn sự bất công. Vì không phải nỗi sợ làm điều bất công, mà là sợ phải chịu đựng nó, mới khiến người ta sỉ vả sự bất công.
+(d) Ông phải xem xét như sau, Socrates, nếu không ông sẽ là kẻ ngây thơ nhất trần đời: người công chính luôn nhận được ít hơn người bất công. Thứ nhất, trong các hợp đồng với nhau, khi người công chính hợp tác với người bất công, ông sẽ không bao giờ thấy, khi sự hợp tác kết thúc, người công chính nhận được nhiều hơn người bất công, mà là ít hơn. Thứ hai, trong các vấn đề liên quan đến thành phố, khi phải đóng thuế, người công chính đóng nhiều hơn trên cùng một lượng tài sản, người bất công đóng ít hơn; nhưng khi thành phố hoàn tiền, người công chính chẳng nhận được gì trong khi người bất công kiếm được món hời lớn. Cuối cùng, khi (e) mỗi người giữ chức vụ chính quyền, người công chính—ngay cả khi không bị thiệt hại theo cách khác—cũng thấy việc tư của mình sa sút vì phải bỏ bê, rằng anh ta chẳng kiếm chác được gì từ ngân khố công vì sự công chính của mình, và rằng anh ta bị người thân và người quen ghét bỏ vì không chịu làm điều bất công để thiên vị họ. Điều ngược lại đúng với người bất công trên mọi phương diện. Ý tôi, tất nhiên, là người tôi đã mô tả trước đó: kẻ có quyền lực lớn để làm tốt hơn[21](/plato/vi/notes/01#21){.note} tất cả (344a) những người khác. Hắn là kẻ ông nên xem xét nếu ông muốn tìm ra việc bất công có lợi cho cá nhân hơn công bằng nhiều đến thế nào. Ông sẽ hiểu điều này dễ nhất nếu ông hướng suy nghĩ đến sự bất công ở dạng hoàn hảo nhất, dạng làm cho kẻ gây ra bất công hạnh phúc nhất, và những kẻ chịu đựng nó—những người không muốn làm điều bất công—khốn khổ nhất. Dạng tôi muốn nói là chế độ bạo chúa, vì nó dùng cả thủ đoạn ngầm lẫn vũ lực để chiếm đoạt tài sản của người khác—dù là thiêng liêng hay thế tục, công hay tư—không phải từng chút một, mà tất cả cùng lúc. Nếu (b) ai đó phạm một phần của loại bất công này và bị bắt, hắn sẽ bị trừng phạt và bị sỉ vả nặng nề—kẻ cướp đền,[22](/plato/vi/notes/01#22){.note} kẻ bắt cóc, kẻ đột nhập, kẻ cướp, và kẻ trộm là những cái tên gọi những người bất công một phần này khi họ phạm những tội đó. Mặt khác, khi ai đó chiếm đoạt tài sản của công dân, và sau đó bắt cóc và nô dịch luôn cả chủ sở hữu, thay vì những cái tên đáng xấu hổ này, hắn được gọi là (c) hạnh phúc và được ban phước: không chỉ bởi chính các công dân, mà còn bởi tất cả những ai biết hắn đã phạm trọn vẹn sự bất công. Vì không phải nỗi sợ làm điều bất công, mà là sợ phải chịu đựng nó, mới khiến người ta sỉ vả sự bất công.
 
 Vậy ông thấy đấy, Socrates, bất công, nếu ở quy mô đủ lớn, thì mạnh hơn, tự do hơn, và bá chủ hơn công bằng. Và, như tôi đã nói từ đầu, công bằng là cái có lợi cho kẻ mạnh hơn, trong khi bất công là cái sinh lợi và có lợi cho bản thân.
 
@@ -610,7 +613,7 @@ SOCRATES: Hoặc là thế, hoặc là ông chẳng quan tâm gì đến chúng 
 
 THRASYMACHUS: Và tôi phải thuyết phục ông thế nào đây? Nếu ông không bị thuyết phục bởi những gì tôi vừa nói, tôi còn làm gì được nữa? Chẳng lẽ tôi phải cầm lập luận của mình và đổ nó vào tận linh hồn ông sao?
 
-SOCRATES: Không, có Zeus chứng giám, đừng làm thế! Nhưng trước hết, hãy giữ lấy những gì ông đã nói, hoặc, nếu ông thay đổi quan điểm, hãy làm điều đó công khai và đừng cố lừa dối chúng tôi. Ông thấy đấy, Thrasymachus, sau khi định nghĩa bác sĩ thực thụ—để tiếp tục (c) xem xét những điều ông nói trước đó—ông đã không thấy cần thiết phải giữ cùng mức độ chính xác khi ông chuyển sang người chăn cừu thực thụ. Ông không nghĩ người chăn cừu—chừng nào anh ta là người chăn cừu—vỗ béo cừu với mục đích làm điều tốt nhất cho chúng. Mà ông nghĩ rằng, giống như một vị khách sắp được chiêu đãi trong bữa tiệc, mục đích của anh ta là ăn (a) ngon hoặc để bán sau này—như thể anh ta là người kiếm tiền chứ không phải (d) người chăn cừu. Nhưng tất nhiên, mối quan tâm duy nhất của kỹ nghệ chăn cừu là cung cấp điều tốt nhất cho đối tượng mà nó xử lý, vì bản thân nó đã được cung cấp đầy đủ mọi thứ cần thiết để ở trạng thái tốt nhất, như chúng ta biết, khi nó không thiếu sót gì trong việc là kỹ nghệ chăn cừu. Đó là lý do tại sao tôi, ít nhất là tôi, nghĩ rằng chúng ta cần phải đồng ý trước đó[^23] rằng mọi loại cai trị—chừng nào nó là một loại cai trị—không tìm kiếm gì khác ngoài điều tốt nhất cho thứ nó cai trị và chăm sóc, và điều này đúng cả trong cai trị chính trị (e) lẫn tư nhân. Nhưng ông có nghĩ rằng những người cai trị thành phố—những người thực sự là kẻ cai trị—cai trị một cách tự nguyện không?
+SOCRATES: Không, có Zeus chứng giám, đừng làm thế! Nhưng trước hết, hãy giữ lấy những gì ông đã nói, hoặc, nếu ông thay đổi quan điểm, hãy làm điều đó công khai và đừng cố lừa dối chúng tôi. Ông thấy đấy, Thrasymachus, sau khi định nghĩa bác sĩ thực thụ—để tiếp tục (c) xem xét những điều ông nói trước đó—ông đã không thấy cần thiết phải giữ cùng mức độ chính xác khi ông chuyển sang người chăn cừu thực thụ. Ông không nghĩ người chăn cừu—chừng nào anh ta là người chăn cừu—vỗ béo cừu với mục đích làm điều tốt nhất cho chúng. Mà ông nghĩ rằng, giống như một vị khách sắp được chiêu đãi trong bữa tiệc, mục đích của anh ta là ăn (a) ngon hoặc để bán sau này—như thể anh ta là người kiếm tiền chứ không phải (d) người chăn cừu. Nhưng tất nhiên, mối quan tâm duy nhất của kỹ nghệ chăn cừu là cung cấp điều tốt nhất cho đối tượng mà nó xử lý, vì bản thân nó đã được cung cấp đầy đủ mọi thứ cần thiết để ở trạng thái tốt nhất, như chúng ta biết, khi nó không thiếu sót gì trong việc là kỹ nghệ chăn cừu. Đó là lý do tại sao tôi, ít nhất là tôi, nghĩ rằng chúng ta cần phải đồng ý trước đó[23](/plato/vi/notes/01#23){.note} rằng mọi loại cai trị—chừng nào nó là một loại cai trị—không tìm kiếm gì khác ngoài điều tốt nhất cho thứ nó cai trị và chăm sóc, và điều này đúng cả trong cai trị chính trị (e) lẫn tư nhân. Nhưng ông có nghĩ rằng những người cai trị thành phố—những người thực sự là kẻ cai trị—cai trị một cách tự nguyện không?
 
 THRASYMACHUS: Tôi không nghĩ thế, có Zeus chứng giám, tôi biết thế.
 
@@ -700,7 +703,7 @@ THRASYMACHUS: Điều ngược lại.
 
 SOCRATES: Rằng công bằng là thói xấu?
 
-THRASYMACHUS: Không, chỉ là sự ngây ngô rất cao quý.[^24]
+THRASYMACHUS: Không, chỉ là sự ngây ngô rất cao quý.[24](/plato/vi/notes/01#24){.note}
 
 (d) SOCRATES: Vậy ông gọi bất công là sự gian trá?
 
@@ -722,7 +725,7 @@ SOCRATES: Dù sao đi nữa, chúng ta không được chùn bước trong việ
 
 THRASYMACHUS: Có gì khác biệt với ông đâu, liệu tôi có tin hay không? Chẳng phải ông đang có nhiệm vụ bác bỏ lập luận của tôi sao?
 
-SOCRATES: Không có gì khác biệt. Nhưng đây là một câu hỏi nữa tôi muốn (b) ông cố gắng trả lời: ông có nghĩ rằng một người công chính muốn làm tốt hơn[^25] một người công chính khác không?
+SOCRATES: Không có gì khác biệt. Nhưng đây là một câu hỏi nữa tôi muốn (b) ông cố gắng trả lời: ông có nghĩ rằng một người công chính muốn làm tốt hơn[25](/plato/vi/notes/01#25){.note} một người công chính khác không?
 
 THRASYMACHUS: Không đời nào. Nếu không, anh ta sẽ không phải là người lịch sự và ngây ngô như thực tế anh ta là.
 
@@ -778,7 +781,7 @@ SOCRATES: Chẳng phải điều tương tự cũng đúng với bác sĩ sao?
 
 THRASYMACHUS: Đúng.
 
-SOCRATES: Vậy ông có nghĩ, Thrasymachus, rằng một người là nhạc sĩ, khi lên dây đàn lia và vặn chặt hay nới lỏng dây, muốn làm tốt hơn một nhạc sĩ khác, và tuyên bố rằng đó là điều anh ta xứng đáng không?[^26]
+SOCRATES: Vậy ông có nghĩ, Thrasymachus, rằng một người là nhạc sĩ, khi lên dây đàn lia và vặn chặt hay nới lỏng dây, muốn làm tốt hơn một nhạc sĩ khác, và tuyên bố rằng đó là điều anh ta xứng đáng không?[26](/plato/vi/notes/01#26){.note}
 
 THRASYMACHUS: Tôi không nghĩ thế.
 
@@ -850,7 +853,7 @@ SOCRATES: Không gì cả, có Zeus chứng giám. Nhưng nếu đó là điều
 
 THRASYMACHUS: Hỏi đi.
 
-SOCRATES: Được rồi, tôi sẽ hỏi chính xác điều tôi đã hỏi trước đó, để chúng ta có thể tiến hành một cách trật tự lập luận của mình về việc (351a) công bằng là loại gì, so với bất công. Vì đã có tuyên bố, tôi tin vậy, rằng bất công mạnh hơn và quyền lực hơn công bằng. Nhưng bây giờ, nếu công bằng thực sự là khôn ngoan và đức hạnh, tôi cho rằng sẽ dễ dàng chứng minh nó mạnh hơn bất công, vì bất công là thiếu hiểu biết—không ai giờ đây có thể không biết điều đó. Tuy nhiên, tôi, ít nhất là tôi, không muốn xem xét vấn đề theo những thuật ngữ đơn giản như vậy, Thrasymachus, mà muốn xem xét theo cách thế này: ông có nói rằng một thành phố có thể bất công và cố gắng nô dịch các thành phố khác một cách bất công, và thành công trong việc nô dịch chúng,[^27] và giữ chúng trong sự lệ thuộc (b) mà nó đã nô dịch trong quá khứ không?
+SOCRATES: Được rồi, tôi sẽ hỏi chính xác điều tôi đã hỏi trước đó, để chúng ta có thể tiến hành một cách trật tự lập luận của mình về việc (351a) công bằng là loại gì, so với bất công. Vì đã có tuyên bố, tôi tin vậy, rằng bất công mạnh hơn và quyền lực hơn công bằng. Nhưng bây giờ, nếu công bằng thực sự là khôn ngoan và đức hạnh, tôi cho rằng sẽ dễ dàng chứng minh nó mạnh hơn bất công, vì bất công là thiếu hiểu biết—không ai giờ đây có thể không biết điều đó. Tuy nhiên, tôi, ít nhất là tôi, không muốn xem xét vấn đề theo những thuật ngữ đơn giản như vậy, Thrasymachus, mà muốn xem xét theo cách thế này: ông có nói rằng một thành phố có thể bất công và cố gắng nô dịch các thành phố khác một cách bất công, và thành công trong việc nô dịch chúng,[27](/plato/vi/notes/01#27){.note} và giữ chúng trong sự lệ thuộc (b) mà nó đã nô dịch trong quá khứ không?
 
 THRASYMACHUS: Tất nhiên. Và đó là điều thành phố tốt nhất sẽ đặc biệt làm, thành phố bất công hoàn toàn nhất.
 
@@ -902,7 +905,7 @@ SOCRATES: Vậy người bất công cũng sẽ là kẻ thù của các vị th
 
 THRASYMACHUS: Cứ tự tin mà đánh chén bữa tiệc lập luận đi! Đừng lo, tôi sẽ không chống lại ông, để không khơi dậy sự thù địch của bạn bè chúng ta ở đây.
 
-SOCRATES: Nào, vậy hãy hoàn tất bữa tiệc cho tôi bằng cách tiếp tục trả lời như ông đang làm. Chúng ta đã chỉ ra rằng người công chính khôn ngoan hơn, tốt hơn và có khả năng hành động hơn, trong khi người bất công thậm chí (c) không thể hành động cùng nhau. Vì bất cứ khi nào chúng ta nói về những người bất công hành động cùng nhau để đạt được mục tiêu chung một cách hiệu quả, điều chúng ta nói không hoàn toàn đúng. Họ sẽ không bao giờ có thể giữ tay mình không hại nhau nếu họ hoàn toàn bất công. Nhưng rõ ràng phải có một loại công bằng nào đó trong họ, ít nhất ngăn họ làm điều bất công với nhau cùng lúc họ làm điều đó với người khác. Và chính điều này cho phép họ đạt được những gì họ đã làm. Khi họ bắt đầu làm những việc bất công, họ chỉ bị hư hỏng một nửa bởi sự bất công của mình. Vì những kẻ hoàn toàn xấu và hoàn toàn bất công cũng hoàn toàn không có khả năng hành động. Tất cả điều này giờ tôi thấy là sự thật, chứ không phải (d) điều ông khẳng định ban đầu. Tuy nhiên, giờ chúng ta phải xem xét câu hỏi, như chúng ta đã đề xuất trước đó,[^28] liệu người công chính có sống tốt hơn và hạnh phúc hơn người bất công không. Tôi nghĩ điều này đã rõ ngay cả từ những gì chúng ta đã nói, nhưng chúng ta phải xem xét kỹ hơn. Rốt cuộc, lập luận này không liên quan đến chủ đề bình thường, mà là về cách chúng ta nên sống.
+SOCRATES: Nào, vậy hãy hoàn tất bữa tiệc cho tôi bằng cách tiếp tục trả lời như ông đang làm. Chúng ta đã chỉ ra rằng người công chính khôn ngoan hơn, tốt hơn và có khả năng hành động hơn, trong khi người bất công thậm chí (c) không thể hành động cùng nhau. Vì bất cứ khi nào chúng ta nói về những người bất công hành động cùng nhau để đạt được mục tiêu chung một cách hiệu quả, điều chúng ta nói không hoàn toàn đúng. Họ sẽ không bao giờ có thể giữ tay mình không hại nhau nếu họ hoàn toàn bất công. Nhưng rõ ràng phải có một loại công bằng nào đó trong họ, ít nhất ngăn họ làm điều bất công với nhau cùng lúc họ làm điều đó với người khác. Và chính điều này cho phép họ đạt được những gì họ đã làm. Khi họ bắt đầu làm những việc bất công, họ chỉ bị hư hỏng một nửa bởi sự bất công của mình. Vì những kẻ hoàn toàn xấu và hoàn toàn bất công cũng hoàn toàn không có khả năng hành động. Tất cả điều này giờ tôi thấy là sự thật, chứ không phải (d) điều ông khẳng định ban đầu. Tuy nhiên, giờ chúng ta phải xem xét câu hỏi, như chúng ta đã đề xuất trước đó,[28](/plato/vi/notes/01#28){.note} liệu người công chính có sống tốt hơn và hạnh phúc hơn người bất công không. Tôi nghĩ điều này đã rõ ngay cả từ những gì chúng ta đã nói, nhưng chúng ta phải xem xét kỹ hơn. Rốt cuộc, lập luận này không liên quan đến chủ đề bình thường, mà là về cách chúng ta nên sống.
 
 THRASYMACHUS: Cứ xem xét đi.
 
@@ -942,7 +945,7 @@ SOCRATES: Giờ tôi nghĩ ông sẽ hiểu rõ hơn điều tôi hỏi lúc nã
 
 THRASYMACHUS: Tôi hiểu, và tôi nghĩ đó là chức năng của (b) bất cứ vật gì.
 
-SOCRATES: Được rồi. Ông có thấy dường như cũng có một đức hạnh[^29] cho mỗi vật được giao một chức năng nào đó không? Hãy đi lại cùng một vấn đề. Chúng ta nói mắt có một chức năng?
+SOCRATES: Được rồi. Ông có thấy dường như cũng có một đức hạnh[29](/plato/vi/notes/01#29){.note} cho mỗi vật được giao một chức năng nào đó không? Hãy đi lại cùng một vấn đề. Chúng ta nói mắt có một chức năng?
 
 THRASYMACHUS: Chúng có.
 
@@ -1023,40 +1026,6 @@ SOCRATES: Vậy thì, hỡi Thrasymachus được ban phước, bất công khô
 THRASYMACHUS: Hãy để đó là bữa tiệc của ông, Socrates, tại lễ hội Bendis.
 
 SOCRATES: Do ông chiêu đãi đấy, Thrasymachus, sau khi ông trở nên hiền hòa với tôi và thôi không khó chịu nữa. Tuy nhiên tôi vẫn chưa có một bữa tiệc ngon lành. Nhưng đó là (b) lỗi của tôi, không phải của ông. Tôi có vẻ đã cư xử như những kẻ tham ăn chộp lấy mọi món ăn đi qua và nếm nó trước khi thưởng thức trọn vẹn món trước đó. Trước khi tìm ra điều đầu tiên chúng ta hỏi—cụ thể là, công bằng là gì—tôi đã bỏ qua nó, và chuyển sang điều tra xem liệu nó là một loại thói xấu và thiếu hiểu biết hay một loại khôn ngoan và đức hạnh. Rồi một lập luận nảy sinh về việc bất công sinh lợi hơn công bằng, và tôi không thể kiềm chế việc bỏ dở cái trước để chạy theo cái sau. Do đó kết quả của cuộc thảo luận, theo những gì tôi quan tâm, là tôi chẳng biết gì cả. (c) Vì khi tôi không biết công bằng là gì, tôi sẽ khó mà biết liệu nó có phải là một loại đức hạnh hay không, hay liệu người có nó hạnh phúc hay bất hạnh.
-
----
-
-### Chú thích của dịch giả
-
-*   **[^1] Nữ thần:** Bendis, nữ thần mặt trăng và săn bắn của người Thrace.
-*   **[^2] Về thành phố:** Athens.
-*   **[^3] Áo choàng (Himation):** Trang phục ngoài của đàn ông Hy Lạp.
-*   **[^4] Khao khát (Appetites/Desires):** Plato bắt đầu giới thiệu sự đối lập giữa ham muốn thể xác và lý trí.
-*   **[^5] Ngưỡng cửa của tuổi già:** Một cách nói văn hoa chỉ ranh giới bước vào tuổi già.
-*   **[^6] Câu tục ngữ xưa:** Tương đương "Ngưu tầm ngưu, mã tầm mã".
-*   **[^7] Số đông (The masses/The many):** Trong tư tưởng Plato, đám đông thường sai lầm và bị dẫn dắt bởi vẻ bề ngoài.
-*   **[^8] Themistocles:** Một chính trị gia và tướng lĩnh nổi tiếng của Athens. Câu chuyện ngụ ý rằng cả hoàn cảnh (thành phố) và phẩm chất cá nhân đều cần thiết cho danh tiếng.
-*   **[^9] Công bằng/Công lý (Justice - Dikaiosyne):** Từ khóa trung tâm của tác phẩm. Nó không chỉ là công bằng pháp lý mà là sự đúng đắn về đạo đức, trật tự nội tâm của linh hồn.
-*   **[^10] Kỹ nghệ (Craft - Techne):** Một khái niệm quan trọng. Socrates thường so sánh công lý với các kỹ năng chuyên môn (bác sĩ, thợ giày) để tìm ra "chức năng" của nó.
-*   **[^11] Thuyền trưởng (Ship's captain/Pilot):** Ẩn dụ kinh điển của Plato về người cai trị (người lèo lái con tàu nhà nước).
-*   **[^12] Autolycus:** Một nhân vật trong thần thoại, nổi tiếng về sự gian manh, được thần Hermes bảo trợ.
-*   **[^13] Phẩm hạnh/Đức hạnh (Virtue - Arete):** Sự xuất sắc hoặc công năng tối ưu của một vật. Đức hạnh của con dao là sắc bén; đức hạnh của con người là công lý.
-*   **[^14] Chết lặng (Dumbstruck):** Theo tín ngưỡng dân gian Hy Lạp, nếu sói nhìn thấy người trước, người đó sẽ bị câm.
-*   **[^15] Sự mỉa mai (Irony - Eirōneía):** Thói quen giả vờ không biết của Socrates để buộc người khác phải giải thích và tự lộ ra mâu thuẫn.
-*   **[^16] Pancratist:** Vận động viên môn Pancration (kết hợp đấu vật và quyền anh), biểu tượng của sức mạnh thể chất thuần túy.
-*   **[^17] Cạo lông sư tử:** Một thành ngữ chỉ việc làm nguy hiểm và ngu ngốc.
-*   **[^18] Có lợi (Advantageous):** Socrates lập luận rằng mỗi kỹ nghệ tồn tại để phục vụ đối tượng của nó (làm lợi cho đối tượng), chứ không phải cho người thực hành.
-*   **[^19] Thỏa đáng:** Cơ thể tự nó không hoàn hảo (bị bệnh), nên cần y thuật bổ sung.
-*   **[^20]** Đoạn này Socrates dùng quy hồi vô tận để chứng minh mỗi kỹ nghệ là trọn vẹn trong phạm vi của nó và chỉ hướng ra ngoài (đến đối tượng).
-*   **[^21] Làm tốt hơn (Do better/Outdo - Pleonexia):** Thrasymachus dùng theo nghĩa "chiếm đoạt nhiều hơn/vượt mặt". Socrates sẽ bẻ lại từ này ở đoạn sau (349b) để chứng minh người khôn ngoan không cố "vượt mặt" người giống mình.
-*   **[^22] Kẻ cướp đền:** Một tội rất nặng thời cổ đại.
-*   **[^23]** Tham chiếu đến đoạn 342a-e.
-*   **[^24] Sự ngây ngô cao quý:** Thrasymachus coi công lý là sự ngây thơ, dại dột vì tự làm hại mình để người khác hưởng lợi.
-*   **[^25] Làm tốt hơn (Pleonexia):** Ở đây Socrates khai thác đa nghĩa của từ này: vừa là "tham lam/chiếm đoạt" (nghĩa của Thrasymachus) vừa là "làm đúng hơn/vượt trội về chuyên môn" (nghĩa của Socrates).
-*   **[^26]** Nhạc sĩ chỉnh dây đàn cho *đúng* (giống nhạc sĩ khác), chứ không cố chỉnh *căng hơn* (vượt mặt) nhạc sĩ khác.
-*   **[^27]** Socrates chuyển sang lập luận rằng ngay cả kẻ xấu cũng cần công lý nội bộ để hành động hiệu quả.
-*   **[^28]** Tham chiếu đến đoạn 347e.
-*   **[^29] Đức hạnh (Arete) và Chức năng (Ergon):** Lập luận kết thúc Quyển 1. Mọi vật có chức năng riêng (mắt để nhìn). Để làm tốt chức năng cần có đức hạnh (thị lực). Chức năng của linh hồn là sống/cai quản. Đức hạnh của linh hồn là công lý. Do đó, linh hồn công chính sống tốt (hạnh phúc).
 
 ---
 

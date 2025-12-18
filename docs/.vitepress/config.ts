@@ -5,12 +5,12 @@ import { slugAnchor } from './utils';
 
 // run 1make_filelist.ipynb first
 // step 1/4: get file list
-import dn_thichminhchau         from '../kinhtruongbo/thichminhchau/meta/filelist';
+import dn_thichminhchau from '../kinhtruongbo/thichminhchau/meta/filelist';
 
-import mn_thichminhchau         from '../kinhtrungbo/thichminhchau/meta/filelist';
-import nanamoli_bodhi_en        from '../kinhtrungbo/nanamoli-bodhi-en/meta/filelist';
+import mn_thichminhchau from '../kinhtrungbo/thichminhchau/meta/filelist';
+import nanamoli_bodhi_en from '../kinhtrungbo/nanamoli-bodhi-en/meta/filelist';
 //import nanamoli_bodhi_en_intro  from '../kinhtrungbo/nanamoli-bodhi-en/intro/filelist';
-import nanamoli_bodhi_vi        from '../kinhtrungbo/nanamoli-bodhi-vi/meta/filelist';
+import nanamoli_bodhi_vi from '../kinhtrungbo/nanamoli-bodhi-vi/meta/filelist';
 //import nanamoli_bodhi_vi_intro  from '../kinhtrungbo/nanamoli-bodhi-vi/intro/filelist';
 
 import kinhtangchi_thichminhchau from '../kinhtangchi/thichminhchau/meta/filelist';
@@ -41,22 +41,22 @@ const BOOK_NAV = {
   'kinhtruongbo/thichminhchau': dn_thichminhchau,
 
   'kinhtangchi/thichminhchau': kinhtangchi_thichminhchau,
-//  'kinhtangchi/bodhi-vi': kinhtangchi_bodhi_vi,
-//  'kinhtangchi/bodhi-en': kinhtangchi_bodhi_en,
+  //  'kinhtangchi/bodhi-vi': kinhtangchi_bodhi_vi,
+  //  'kinhtangchi/bodhi-en': kinhtangchi_bodhi_en,
   'kinhtangchi/sujato-en': kinhtangchi_sujato_en,
   'kinhtangchi/sujato-en/intro': kinhtangchi_sujato_en,
   'kinhtangchi/sujato-vi': kinhtangchi_sujato_vi,
   'kinhtangchi/sujato-vi/intro': kinhtangchi_sujato_vi,
 
 
-  'kinhtuongung/thichminhchau'    : kinhtuongung_thichminhchau,
+  'kinhtuongung/thichminhchau': kinhtuongung_thichminhchau,
   //'kinhtuongung/sujato-en/intro'  : kinhtuongung_sujato_en,
   //'kinhtuongung/sujato-en'        : kinhtuongung_sujato_en,
-  'kinhtuongung/sujato-vi/intro'  : kinhtuongung_sujato_vi,
-  'kinhtuongung/sujato-vi'        : kinhtuongung_sujato_vi,
+  'kinhtuongung/sujato-vi/intro': kinhtuongung_sujato_vi,
+  'kinhtuongung/sujato-vi': kinhtuongung_sujato_vi,
 
-  'jill-brain/vi'                 : jill_whole_brain_vi,
-  'jill-stroke/vi'                : jill_stroke_vi,
+  'jill-brain/vi': jill_whole_brain_vi,
+  'jill-stroke/vi': jill_stroke_vi,
 
 };
 
@@ -80,7 +80,7 @@ export default defineConfig({
   },
 
   vite: {
-     define: {
+    define: {
       __BOOK_NAV__: BOOK_NAV,
     },
     plugins: [
@@ -90,48 +90,68 @@ export default defineConfig({
          */
         name: 'copy-markdown-files',
         // This hook runs at the end of the build process
-        closeBundle() {
-          //return;
+        async closeBundle() {
           const sourceDirs = ['./docs/kinhtruongbo/', './docs/kinhtrungbo/', './docs/kinhtangchi/']; // Directories with your MD files
-          //@ts-ignore
+
+          // Fix for ESM __dirname
+          const fs = await import('node:fs/promises');
+          const { fileURLToPath } = await import('url');
+          const __dirname = path.dirname(fileURLToPath(import.meta.url));
           const outputDir = path.resolve(__dirname, 'dist/');
 
+          console.log('Starting async file copy...');
+          console.time('copyMarkdownFiles');
+
           // Create the output directory if it doesn't exist
-          if (!fs.existsSync(outputDir)) {
-            fs.mkdirSync(outputDir, { recursive: true });
+          try {
+            await fs.mkdir(outputDir, { recursive: true });
+          } catch (e) {
+            // ignore if exists
           }
 
-          // Function to recursively copy files
-          function copyMarkdownFiles(sourceDir, targetDir) {
-            const files = fs.readdirSync(sourceDir);
+          // Function to recursively scan for files
+          async function scanFiles(sourceDir: string, targetDir: string, fileList: { src: string, dest: string }[] = []) {
+            try {
+              const entries = await fs.readdir(sourceDir, { withFileTypes: true });
 
-            files.forEach(file => {
-              const sourcePath = path.join(sourceDir, file);
-              const targetPath = path.join(targetDir, file);
+              for (const entry of entries) {
+                const sourcePath = path.join(sourceDir, entry.name);
+                const targetPath = path.join(targetDir, entry.name);
 
-              if (fs.statSync(sourcePath).isDirectory()) {
-                // Create corresponding directory in target
-                if (!fs.existsSync(targetPath)) {
-                  fs.mkdirSync(targetPath, { recursive: true });
+                if (entry.isDirectory()) {
+                  // Ensure target directory exists
+                  await fs.mkdir(targetPath, { recursive: true });
+                  // Recurse
+                  await scanFiles(sourcePath, targetPath, fileList);
+                } else if (entry.isFile() && entry.name.endsWith('.md')) {
+                  fileList.push({ src: sourcePath, dest: targetPath });
                 }
-                // Recurse into directory
-                copyMarkdownFiles(sourcePath, targetPath);
-              } else if (file.endsWith('.md')) {
-                // Copy markdown file
-                fs.copyFileSync(sourcePath, targetPath);
               }
-            });
+            } catch (err) {
+              console.error(`Error scanning ${sourceDir}:`, err);
+            }
+            return fileList;
           }
 
-          // Copy files from each source directory
-          sourceDirs.forEach(dir => {
-            const targetDir = path.join(outputDir, path.basename(dir));
-            if (!fs.existsSync(targetDir)) {
-              fs.mkdirSync(targetDir, { recursive: true });
-            }
-            copyMarkdownFiles(dir, targetDir);
-          });
+          // 1. Scan and collect files
+          const allFiles: { src: string, dest: string }[] = [];
+          for (const dir of sourceDirs) {
+            const dirName = path.basename(dir);
+            const targetDir = path.join(outputDir, dirName);
+            await fs.mkdir(targetDir, { recursive: true });
+            await scanFiles(dir, targetDir, allFiles);
+          }
 
+          console.log(`Found ${allFiles.length} markdown files to copy.`);
+
+          // 2. Batched Copying to prevent EMFILE/segfaults
+          const BATCH_SIZE = 50;
+          for (let i = 0; i < allFiles.length; i += BATCH_SIZE) {
+            const batch = allFiles.slice(i, i + BATCH_SIZE);
+            await Promise.all(batch.map(f => fs.copyFile(f.src, f.dest)));
+          }
+
+          console.timeEnd('copyMarkdownFiles');
           console.log('Markdown files copied to dist/raw/');
         }
       },
@@ -139,13 +159,13 @@ export default defineConfig({
   },
 
   // ignoreDeadLinks: true,
-/**
- * Transforms page data, specifically adding navigation (next/prev) and title
- * information based on the page's relative path within supported books and authors.
- *
- * @param {object} pageData - The page data object, expected to have `relativePath` and `frontmatter` properties.
- * @returns {object | undefined} The modified pageData object, or undefined if the book is not supported.
- */
+  /**
+   * Transforms page data, specifically adding navigation (next/prev) and title
+   * information based on the page's relative path within supported books and authors.
+   *
+   * @param {object} pageData - The page data object, expected to have `relativePath` and `frontmatter` properties.
+   * @returns {object | undefined} The modified pageData object, or undefined if the book is not supported.
+   */
   transformPageData(pageData) {
     // --- Dynamic title ---
     if (pageData.params?.data?.title) {
@@ -216,10 +236,10 @@ export default defineConfig({
           pageData.frontmatter.prev = undefined; // No previous page
         }
       } else {
-          //console.warn(`transformPageData: Could not find file "${fileName}" in navigation data for author "${currentAuthor}" in book "${currentBook}".`);
+        //console.warn(`transformPageData: Could not find file "${fileName}" in navigation data for author "${currentAuthor}" in book "${currentBook}".`);
       }
     } else {
-        console.warn(`transformPageData: Missing navigation data for "${relativePath}" .`);
+      console.warn(`transformPageData: Missing navigation data for "${relativePath}" .`);
     }
 
     // Return the potentially modified pageData
@@ -229,23 +249,23 @@ export default defineConfig({
 
   head: [
     ['base', { target: '_blank' }],
-    ['link',{
-        rel: 'preconnect',
-        href: 'https://fonts.googleapis.com'
-      }
-    ],
-    ['link',{
-        rel: 'preconnect',
-        href: 'https://fonts.gstatic.com',
-        crossorigin: ''
-      }
+    ['link', {
+      rel: 'preconnect',
+      href: 'https://fonts.googleapis.com'
+    }
     ],
     ['link', {
-        rel: 'preload',
-        as: 'style',
+      rel: 'preconnect',
+      href: 'https://fonts.gstatic.com',
+      crossorigin: ''
+    }
+    ],
+    ['link', {
+      rel: 'preload',
+      as: 'style',
 
-        href: 'https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap',
-        onload: "this.onload=null;this.rel='stylesheet'"
+      href: 'https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap',
+      onload: "this.onload=null;this.rel='stylesheet'"
     }],
 
     ['noscript', {}, '<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap">']
@@ -290,4 +310,4 @@ export default defineConfig({
 
 
 // href: 'https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap',
- //['noscript', {}, '<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap">']
+//['noscript', {}, '<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap">']
