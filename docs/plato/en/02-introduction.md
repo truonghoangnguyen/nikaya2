@@ -219,6 +219,7 @@ and science, it is unmediated by conventionally controlled concepts of good
 and bad, just and unjust. Hence it is free from the distorting inﬂuence of
 power or ideology, and so immune to the challenge Thrasymachus poses to
 the elenchus.
+
 What the philosopher-kings do is construct a political system—includ-
 ing primarily a system of socialization and education—that will distribute
 the beneﬁts of their specialized knowledge of the good among the citizens

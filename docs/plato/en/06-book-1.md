@@ -67,28 +67,27 @@ low—what the road is like, whether rough and difﬁcult or smooth and easy.
 And I would be particularly glad to ﬁnd out from you what you think
 about it, since you have reached the point in life the poets call old age’s
 threshold.[^5] Is it a difﬁcult time of life? What have you to report about it?
-(329a) CEPHALUS: By Zeus, Socrates, I will tell you exactly what I think.You see,
-(a) number of us who are more or less the same age often get together, so as
+
+(329a) CEPHALUS: By Zeus, Socrates, I will tell you exactly what I think. You see,
+a number of us who are more or less the same age often get together, so as
 to preserve the old saying.[^6] When they meet, the majority of our members
 lament, longing for the lost pleasures of their youth and reminiscing about
 sex, drinking parties, feasts, and the other things that go along with them.
 
-They get irritated, as if they had been deprived of important things, and
+(b) (c) (d) They get irritated, as if they had been deprived of important things, and
 had lived well then but are not living now. Some others, too, even moan
-(b) about the abuse heaped on old people by their relatives, and for that reason
+ about the abuse heaped on old people by their relatives, and for that reason
 recite a litany of all the evils old age has caused them. But I don’t think they
 blame the real cause, Socrates. After all, if that were the cause, I too would
 have had the same experiences, at least as far as old age is concerned, and so
 would everyone else of my age. But as it is, I have met others in the past
 who don’t feel that way—in particular, the poet Sophocles. I was once
 present when he was asked by someone, “How are you as far as sex goes,
-(c) Sophocles? Can you still make love to a woman?”“Quiet, man,” he replied,
+Sophocles? Can you still make love to a woman?”“Quiet, man,” he replied,
 “I am very glad to have escaped from all that, like a slave who has escaped
 from a deranged and savage master.” I thought at the time what he said was
 sensible, and I still do.You see, old age brings peace and freedom from all
-such things. When the appetites cease to stress and importune us, every-
-thing Sophocles said comes to pass, and we escape from many insane mas-
-(d) ters. But in these matters, and in those concerning one’s relatives, the real
+such things. When the appetites cease to stress and importune us, everything Sophocles said comes to pass, and we escape from many insane masters. But in these matters, and in those concerning one’s relatives, the real
 cause isn’t old age, Socrates, but the way people live. If they are orderly and
 contented, old age, too, is only moderately onerous; if they aren’t, both old
 age, Socrates, and youth are hard to bear.
@@ -132,55 +131,57 @@ This makes them difﬁcult even to be with, since they are unwilling to
 praise anything except money.
 
 CEPHALUS: That’s true.
+
 (d) SOCRATES: Indeed, it is. But tell me something else.What do you think is
 the greatest good you have enjoyed as a result of being very wealthy?
 
-CEPHALUS: What I have to say probably would not persuade the masses.
-
+(e) CEPHALUS: What I have to say probably would not persuade the masses.
 But you are well aware, Socrates, that when someone thinks his end is near,
 he becomes frightened and concerned about things he did not fear before.
-
 It is then that the stories told about Hades, that a person who has been
 unjust here must pay the penalty there—stories he used to make fun of—
-(e) twist his soul this way and that for fear they are true. And whether because
+twist his soul this way and that for fear they are true. And whether because
 of the weakness of old age, or because he is now closer to what happens in
-Hades and has a clearer view of it, or whatever it is, he is ﬁlled with foreboding and fear, and begins to calculate and consider whether he has been
-unjust to anyone. If he ﬁnds many injustices in his life, he often even
+Hades and has a clearer view of it, or whatever it is, he is filled with fore-
+boding and fear, and begins to calculate and consider whether he has been
+unjust to anyone. If he finds many injustices in his life, he often even
 awakes from sleep in terror, as children do, and lives in anticipation of evils
-(331a) to come. But someone who knows he has not been unjust has sweet good
+to come. But someone who knows he has not been unjust has sweet good
 hope as his constant companion—a nurse to his old age, as Pindar says. For
-(a) he puts it charmingly, Socrates, when he says that when someone lives
+he puts it charmingly, Socrates, when he says that when someone lives a
 just and pious life,
+
+(331a)
 
 > Sweet hope is in his heart\
 > Nurse and companion to his age\
 > Hope, captain of the ever-twisting\
 > Mind of mortal men.
 
-How amazingly well he puts that. It is in this connection I would say the
+(b) How amazingly well he puts that. It is in this connection I would say the
 possession of wealth is most valuable, not for every man, but for a good and
-(b) orderly one. Not cheating someone even unintentionally, not lying to him,
+orderly one. Not cheating someone even unintentionally, not lying to him,
 not owing a sacriﬁce to some god or money to a person, and as a result
 departing for that other place in fear—the possession of wealth makes no
 small contribution to this. It has many other uses, too, but putting one
 thing against the other, Socrates, I would say that for a man with any sense,
 that is how wealth is most useful.
 
-SOCRATES: A ﬁne sentiment, Cephalus. But speaking of that thing itself,
+(c) SOCRATES: A ﬁne sentiment, Cephalus. But speaking of that thing itself,
 justice,[^9] are we to say it is simply speaking the truth and paying whatever
-(c)
-debts one has incurred? Or is it sometimes just to do these things, some-
-times unjust? I mean this sort of thing, for example: everyone would surely
+debts one has incurred? Or is it sometimes just to do these things, sometimes unjust? I mean this sort of thing, for example: everyone would surely
 agree that if a man borrows weapons from a sane friend, and if he goes mad
 and asks for them back, the friend should not return them, and would not
 be just if he did. Nor should anyone be willing to tell the whole truth to
 someone in such a state.
+
 (d) CEPHALUS: That’s true.
 
 SOCRATES: Then the following is not the deﬁnition of justice: to speak
 the truth and repay what one has borrowed.
 
 > *Polemarchus interrupted:*
+
 It certainly is, Socrates, if indeed we are to trust Simonides at all.
 
 CEPHALUS: Well, then, I will hand over the discussion to you, since it is
@@ -189,21 +190,23 @@ time for me to look after the sacriﬁces.
 POLEMARCHUS: Am I, Polemarchus, not heir of all your possessions?
 
 > *Cephalus replied with a laugh:*
+
 Certainly.
 
 > *And off he went to the sacriﬁce.*
+
 (e) SOCRATES: Then tell us, heir to the discussion, just what Simonides said
 about justice that you think is correct.
 
-POLEMARCHUS: He said it is just to give to each what is owed to him.And
-(a) ﬁne saying it is, in my view.
+POLEMARCHUS: He said it is just to give to each what is owed to him. And
+a ﬁne saying it is, in my view.
 
-SOCRATES: Well, now, it is not easy to disagree with Simonides, since he is
-(a) wise and godlike man. But what exactly does he mean? Perhaps you
+(332a) SOCRATES: Well, now, it is not easy to disagree with Simonides, since he is
+a wise and godlike man. But what exactly does he mean? Perhaps you
 know, Polemarchus, but I do not understand. Clearly, he does not mean
 what we said a moment ago—namely, giving back to someone whatever he
 has lent to you, even if he is out of his mind when he asks for it. And yet
-(332a) what he has lent to you is surely something that is owed to him, isn’t it?
+what he has lent to you is surely something that is owed to him, isn’t it?
 
 POLEMARCHUS: Yes.
 
@@ -218,7 +221,7 @@ when he says that to return what is owed is just.
 POLEMARCHUS: Something else indeed, by Zeus! He meant friends owe
 something good to their friends, never something bad.
 
-SOCRATES: I understand.You mean someone does not give a lender what
+SOCRATES: I understand. You mean someone does not give a lender what
 he is owed by giving him gold, when the giving and taking would be
 (b) harmful, and both he and the lender are friends. Isn’t that what you say
 Simonides meant?
@@ -231,8 +234,9 @@ whatever is owed to them?
 POLEMARCHUS: Yes, by all means.What is in fact owed to them. And what
 an enemy owes an enemy, in my view, is also precisely what is appropri-
 ate—something bad.
-(a) SOCRATES: It seems, then, Simonides was speaking in riddles—just like
-(c) poet!—when he said what justice is. For what he meant, it seems, is that it
+
+(c) SOCRATES: It seems, then, Simonides was speaking in riddles—just like a
+poet!—when he said what justice is. For what he meant, it seems, is that it
 is just to give to each what is appropriate to him, and this is what he called
 giving him what he is owed.
 
@@ -246,6 +250,7 @@ POLEMARCHUS: Clearly, he would say it gives drugs, food, and drink to bodies.
 
 SOCRATES: And what owed or appropriate things does the craft we call
 cooking give, and to which things?
+
 (d) POLEMARCHUS: It gives pleasant ﬂavors to food.
 
 SOCRATES: Good. Now what does the craft we would call justice give,
@@ -263,9 +268,11 @@ SOCRATES: And who is most capable of treating sick friends well and ene-
 mies badly in matters of disease and health?
 
 POLEMARCHUS: A doctor.
+
 (e) SOCRATES: And who can do so best in a storm at sea?
 
 POLEMARCHUS: A ship’s captain.[^11]
+
 SOCRATES: What about the just person? In what actions and what work is
 he most capable of beneﬁting friends and harming enemies?
 
@@ -347,8 +354,7 @@ keep it?
 
 POLEMARCHUS: Of course.
 
-SOCRATES: So when money is not being used, that is when justice is use-
-(d) ful for it?
+(d) SOCRATES: So when money is not being used, that is when justice is useful for it?
 
 POLEMARCHUS: It looks that way.
 
@@ -368,6 +374,7 @@ SOCRATES: And so in all other cases, too, justice is useless when they are
 in use, but useful when they are not?
 
 POLEMARCHUS: It looks that way.
+
 (e) SOCRATES: Then justice cannot be something excellent, can it, my friend,
 if it is only useful for useless things. But let’s consider the following point.
 
@@ -380,6 +387,7 @@ SOCRATES: And the one who is clever at guarding against disease is also
 cleverest at producing it unnoticed?
 
 POLEMARCHUS: That is my view, at any rate.
+
 (334a) SOCRATES: And the one who is a good guardian of an army is the very
 one who can steal the enemy’s plans and dispositions?
 
@@ -397,14 +405,14 @@ POLEMARCHUS: So the argument suggests, at least.
 
 SOCRATES: It seems, then, that a just person has turned out to be a kind of
 thief.You probably got that idea from Homer. For he loves Autolycus, the
-(b) maternal grandfather of Odysseus, whom he describes as better than every-
-one at stealing and swearing false oaths.[^12] According to you, Homer, and
+(b) maternal grandfather of Odysseus, whom he describes as better than everyone at stealing and swearing false oaths.[^12] According to you, Homer, and
 Simonides, then, justice seems to be some sort of craft of stealing—one that
 beneﬁts friends and harms enemies. Isn’t that what you meant?
 
 POLEMARCHUS: No, by Zeus, it isn’t. But I do not know anymore what I
 meant. I still believe this, however, that beneﬁting one’s friends and harm-
 ing one’s enemies is justice.
+
 (c) SOCRATES: Speaking of friends, do you mean those a person believes to be
 good and useful, or those who actually are good and useful, even if he does
 not believe they are, and similarly with enemies?
@@ -440,14 +448,13 @@ ones?
 
 POLEMARCHUS: That seems better than the other view.
 
-SOCRATES: Then it follows, Polemarchus, that it is just for many people—
-(e) the ones who are mistaken in their judgment—to harm their friends, since
+(e) SOCRATES: Then it follows, Polemarchus, that it is just for many people—
+the ones who are mistaken in their judgment—to harm their friends, since
 they are bad for them, and beneﬁt their enemies, since they are good. And
 so we will ﬁnd ourselves claiming the very opposite of what we said Simo-
 nides meant.
 
 POLEMARCHUS: Yes, that certainly follows. But let’s change our deﬁnition.
-
 For it looks as though we did not deﬁne friends and enemies correctly.
 
 SOCRATES: How did we deﬁne them, Polemarchus?
@@ -457,10 +464,11 @@ good.
 
 SOCRATES: And how are we to change that now?
 
-POLEMARCHUS: Someone who is both believed to be good and is good is
-(a) a friend; someone who is believed to be good, but is not, is believed to be
-(335a) friend but is not. And the same goes for enemies.
-(a) SOCRATES: According to that account, then, a good person will be
+(335a) POLEMARCHUS: Someone who is both believed to be good and is good is
+a friend; someone who is believed to be good, but is not, is believed to be a
+friend but is not. And the same goes for enemies.
+
+SOCRATES: According to that account, then, a good person will be
 friend and a bad one an enemy.
 
 POLEMARCHUS: Yes.
@@ -469,6 +477,7 @@ SOCRATES: So you want us to add something to what we said before about
 the just man. Then we said that it is just to treat friends well and enemies
 badly. Now you want us to add to this: to treat a friend well, provided he is
 good, and to harm an enemy, provided he is bad?
+
 (b) POLEMARCHUS: Yes, that seems well put to me.
 
 SOCRATES: Should a just man really harm anyone whatsoever?
@@ -490,8 +499,8 @@ to the virtue that makes dogs, not horses, good?
 
 POLEMARCHUS: Necessarily.
 
-SOCRATES: And what about human beings, comrade; shouldn’t we say that,
-(c) when they are harmed, they become worse with respect to human virtue?
+(c) SOCRATES: And what about human beings, comrade; shouldn’t we say that,
+when they are harmed, they become worse with respect to human virtue?
 
 POLEMARCHUS: Of course.
 
@@ -513,15 +522,13 @@ manlike?
 
 POLEMARCHUS: No.
 
-SOCRATES: Well, then, can just people use justice to make people unjust?
-
+(d) SOCRATES: Well, then, can just people use justice to make people unjust?
 In a word, can good people use their virtue or goodness to make people
-(d) bad?
+bad?
 
 POLEMARCHUS: No, they can’t.
 
-SOCRATES: For it isn’t the function of heat to cool things down, I imag-
-ine, but that of its opposite.
+SOCRATES: For it isn’t the function of heat to cool things down, I imagine, but that of its opposite.
 
 POLEMARCHUS: Yes.
 
@@ -555,6 +562,7 @@ us that Simonides, Bias, Pittacus, or any of our other wise and blessedly
 happy men said this.
 
 POLEMARCHUS: I, for my part, am willing to be your partner in the battle.
+
 (336a) SOCRATES: Do you know whose saying I think it is, that it is just to bene-
 ﬁt friends and harm enemies?
 
@@ -570,10 +578,10 @@ SOCRATES: All right. Since it has become apparent, then, that neither jus-
 tice nor the just consists in beneﬁting friends and harming enemies, what
 else should one say it is?
 
-> *Now, while we were speaking,Thrasymachus had tried many times to take (b) over the discussion but was restrained by those sitting near him, who wanted to hear our argument to the end.When we paused after what I had just said, however, he could not keep quiet any longer: crouched up like a wild beast about to spring, he hurled himself at us as if to tear us to pieces. Polemarchus and I were frightened and ﬂustered as he roared into our midst:*
+> (b) *Now, while we were speaking,Thrasymachus had tried many times to take over the discussion but was restrained by those sitting near him, who wanted to hear our argument to the end.When we paused after what I had just said, however, he could not keep quiet any longer: crouched up like a wild beast about to spring, he hurled himself at us as if to tear us to pieces. Polemarchus and I were frightened and ﬂustered as he roared into our midst:*
 
-What nonsense you two have been talking all this time, Socrates! Why do
-(c) you act like naïve people, giving way to one another? If you really want to
+(c) What nonsense you two have been talking all this time, Socrates! Why do
+you act like naïve people, giving way to one another? If you really want to
 know what justice is, don’t just ask questions and then indulge your love of
 honor by refuting the answers.You know very well it is easier to ask ques-
 tions than to answer them. Give an answer yourself and tell us what you say
@@ -583,7 +591,7 @@ mean. For I won’t accept such nonsense from you.
 
 > *His words startled me and, looking at him, I was afraid. And I think if I had not seen him before he looked at me, I would have been dumbstruck.[^14] But as it was, I happened to look at him just as he began to be exasperated by our argument, so I was able to answer; and trembling a little, I said:*
 
-Do not be too hard on us, Thrasymachus. If Polemarchus and I made an
+(337a) Do not be too hard on us, Thrasymachus. If Polemarchus and I made an
 error in our investigation of the accounts, you may be sure we did so invol-
 untarily. If we were searching for gold, we would never voluntarily give
 way to each other, if by doing so we would destroy our chance of ﬁnding
@@ -592,24 +600,22 @@ than a large quantity of gold, we would foolishly give way to one another
 or be less than completely serious about ﬁnding it.You surely must not
 think that, my friend, but rather—as I do—that we are incapable of ﬁnding
 it. Hence it is surely far more appropriate for us to be pitied by you clever
-(337a) people than to be given rough treatment.
+people than to be given rough treatment.
 
 > *When he heard that, he gave a loud sarcastic laugh:*
 
-By Heracles! That is Socrates’ usual irony[^15] for you! I knew this would hap-
-pen. I even told these others earlier that you would be unwilling to answer,
+By Heracles! That is Socrates’ usual irony[^15] for you! I knew this would happen. I even told these others earlier that you would be unwilling to answer,
 that you would be ironic and do anything rather than give an answer, if
 someone questioned you.
 
-SOCRATES: That is because you are a wise fellow, Thrasymachus.You
+(b) SOCRATES: That is because you are a wise fellow, Thrasymachus.You
 knew very well if you ask someone how much twelve is, and in putting the
-(b) question you warn him, “Don’t tell me, man, that twelve is twice six, or
+question you warn him, “Don’t tell me, man, that twelve is twice six, or
 three times four, or six times two, or four times three; for I won’t accept
 such nonsense from you”—it was obvious to you, I imagine, that no one
 could respond to a person who inquired in that way. But suppose he said to
 you: “What do you mean, Thrasymachus; am I not to give any of the
 answers you mention, not even if twelve happens to be one of those things?
-
 You are amazing. Do you want me to say something other than the truth?
 (c) Or do you mean something else?”What answer would you give him?
 
@@ -619,14 +625,12 @@ SOCRATES: Why shouldn’t I? But even if they are not alike, yet seem so to
 the person you asked, do you think he is any less likely to give the answer
 that seems right to him, whether we forbid him to do so or not?
 
-THRASYMACHUS: Is that what you are going to do, give one of the forbid-
-den answers?
+THRASYMACHUS: Is that what you are going to do, give one of the forbidden answers?
 
 SOCRATES: I would not be surprised—provided it is the one that seems
 right to me after I have investigated the matter.
 
-THRASYMACHUS: What if I show you another answer about justice, one
-(d) that is different from all these and better than any of them? What penalty
+(d) THRASYMACHUS: What if I show you another answer about justice, one that is different from all these and better than any of them? What penalty
 would you deserve then?
 
 SOCRATES: The very one that is appropriate for someone who does not
@@ -641,8 +645,8 @@ SOCRATES: I will if I ever have any.
 GLAUCON: He has it already. If it is a matter of money, speak, Thrasyma-
 chus.We will all contribute for Socrates.
 
-THRASYMACHUS: Oh yes, sure, so that Socrates can carry on as usual: he
-(e) gives no answer himself, and if someone else does, he takes up his account
+(e) THRASYMACHUS: Oh yes, sure, so that Socrates can carry on as usual: he
+gives no answer himself, and if someone else does, he takes up his account
 and refutes it.
 
 SOCRATES: How can someone give an answer, my excellent man, when,
@@ -654,33 +658,33 @@ obstinate. Give your answer as a favor to me and do not begrudge your
 teaching to Glaucon and the others.
 
 > *While I was saying this, Glaucon and the others begged him to do as I asked. Thrasymachus clearly wanted to speak in order to win a good reputation, since he thought he had a very good answer. But he pretended to want to win a victory at my expense by having me do the answering. However, he agreed in the end, and then said:*
+
 (b) That is Socrates’ wisdom for you: he himself isn’t willing to teach but goes
 around learning from others and isn’t even grateful to them.
 
-SOCRATES: When you say I learn from others, you are right, Thrasyma-
-chus; but when you say I do not give thanks, you are wrong. I give as much
-
+SOCRATES: When you say I learn from others, you are right, Thrasymachus; but when you say I do not give thanks, you are wrong. I give as much
 as I can. But I can give only praise, since I have no money. And just how
 enthusiastically I give it, when someone seems to me to speak well, you
 will know as soon as you have answered, since I think you will speak well.
 
-THRASYMACHUS: Listen, then. I say justice is nothing other than what is
-(c) advantageous for the stronger.Well, why don’t you praise me? No, you are
+(c) THRASYMACHUS: Listen, then. I say justice is nothing other than what is
+advantageous for the stronger. Well, why don’t you praise me? No, you are
 unwilling.
 
-SOCRATES: First, I must understand what you mean. For, as things stand, I
+(d) SOCRATES: First, I must understand what you mean. For, as things stand, I
 do not. What is advantageous for the stronger, you say, is just. What on
 earth do you mean,Thrasymachus? Surely you do not mean something like
 this: Polydamas, the pancratist,[^16] is stronger than we are. Beef is advanta-
 geous for his body. So, this food is also both advantageous and just for us
-(d) who are weaker than he?
+who are weaker than he?
 
 THRASYMACHUS: You disgust me, Socrates.You interpret my account in
 the way that does it the most evil.
 
 SOCRATES: That’s not it at all, my very good man; I only want you to
 make your meaning clearer.
-(a) THRASYMACHUS: Don’t you know, then, that some cities are ruled by
+
+THRASYMACHUS: Don’t you know, then, that some cities are ruled by a
 tyranny, some by a democracy, and some by an aristocracy?
 
 SOCRATES: Of course I do.
@@ -690,13 +694,13 @@ element?
 
 SOCRATES: Certainly.
 
-THRASYMACHUS: And each type of rule makes laws that are advantageous
-(e) for itself: democracy makes democratic ones, tyranny tyrannical ones, and
+(e) THRASYMACHUS: And each type of rule makes laws that are advantageous
+for itself: democracy makes democratic ones, tyranny tyrannical ones, and
 so on with the others. And by so legislating, each declares that what is just
 for its subjects is what is advantageous for itself—the ruler—and it punishes
 anyone who deviates from this as lawless and unjust.That, Socrates, is what
 I say justice is, the same in all cities: what is advantageous for the established
-(339a) rule. Since the established rule is surely stronger, anyone who does the
+rule. (339a) Since the established rule is surely stronger, anyone who does the
 rational calculation correctly will conclude that the just is the same every-
 where—what is advantageous for the stronger.
 
@@ -704,6 +708,7 @@ SOCRATES: Now I see what you mean.Whether it is true or not, I will try
 to ﬁnd out. But you yourself have answered that what is just is what is
 advantageous,Thrasymachus, whereas you forbade me to answer that.True,
 you have added for the stronger to it.
+
 (b) THRASYMACHUS: And I suppose you think that is an insigniﬁcant addition.
 
 SOCRATES: It isn’t clear yet whether it is signiﬁcant. What is clear is that
@@ -717,6 +722,7 @@ SOCRATES: That is just what I am going to do. Tell me, then, you also
 claim, don’t you, that it is just to obey the rulers?
 
 THRASYMACHUS: I do.
+
 (c) SOCRATES: And are the rulers in each city infallible, or are they liable to
 error?
 
@@ -738,8 +744,8 @@ subjects, and that is what is just?
 
 THRASYMACHUS: Of course.
 
-SOCRATES: According to your account, then, it isn’t only just to do what
-(d) is advantageous for the stronger, but also the opposite: what is not advanta-
+(d) SOCRATES: According to your account, then, it isn’t only just to do what
+is advantageous for the stronger, but also the opposite: what is not advanta-
 geous.
 
 THRASYMACHUS: What is that you are saying?
@@ -752,14 +758,15 @@ for their subjects to do whatever their rulers order? Wasn’t that agreed?
 
 THRASYMACHUS: I suppose so.
 
-SOCRATES: You will also have to suppose, then, that you have agreed that
-(e) it is just to do what is disadvantageous for the rulers and those who are
+(e) SOCRATES: You will also have to suppose, then, that you have agreed that
+it is just to do what is disadvantageous for the rulers and those who are
 stronger, whenever they unintentionally order what is bad for themselves.
 
 But you say, too, that it is just for the others to obey the orders the rulers
 gave.You are very wise,Thrasymachus, but doesn’t it necessarily follow that
 it is just to do the opposite of what you said, since the weaker are then
 ordered to do what is disadvantageous for the stronger?
+
 (340a) POLEMARCHUS: By Zeus, Socrates, that’s absolutely clear.
 
 > *And Clitophon interrupted:*
@@ -773,8 +780,8 @@ the others to obey them.
 CLITOPHON: That, Polemarchus, is because Thrasymachus maintained that
 it is just to obey the orders of the rulers.
 
-POLEMARCHUS: Yes, Clitophon, and he also maintained that what is
-(b) advantageous for the stronger is just. And having maintained both princi-
+(b) POLEMARCHUS: Yes, Clitophon, and he also maintained that what is
+advantageous for the stronger is just. And having maintained both princi-
 ples, he went on to agree that the stronger sometimes order the weaker,
 who are subject to them, to do things that are disadvantageous for the
 stronger themselves. From these agreements it follows that what is advanta-
@@ -786,8 +793,8 @@ tained the weaker must do, and that is what he maintained is what is just.
 
 POLEMARCHUS: But it is not what he said.
 
-SOCRATES: It makes no difference, Polemarchus. If Thrasymachus wants
-(c) to put it that way now, let’s accept it. But tell me, Thrasymachus, is that
+(c) SOCRATES: It makes no difference, Polemarchus. If Thrasymachus wants
+to put it that way now, let’s accept it. But tell me, Thrasymachus, is that
 what you intended to say, that what is just is what the stronger believes to
 be advantageous for him, whether it is in fact advantageous for him or not?
 
@@ -799,8 +806,8 @@ in error stronger at the very moment he errs?
 SOCRATES: I did think you meant that, when you agreed that the rulers
 are not infallible but sometimes make errors.
 
-THRASYMACHUS: That is because you are a quibbler in arguments,
-(d) Socrates. I mean, when someone makes an error in the treatment of
+(d) THRASYMACHUS: That is because you are a quibbler in arguments,
+Socrates. I mean, when someone makes an error in the treatment of
 patients, do you call him a doctor in virtue of the fact that he made that
 very error? Or, when someone makes an error in calculating, do you call
 him an accountant in virtue of the fact that he made that very error in cal-
@@ -811,7 +818,7 @@ according to the precise account (and you are a stickler for precise
 accounts), no craftsman ever makes errors. It is when his knowledge fails
 him that he makes an error, and, in virtue of the fact that he made that
 error, he is no craftsman. No craftsman, wise man, or ruler makes an error
-(a) at the moment when he is ruling, even though everyone will say that
+at the moment when he is ruling, even though everyone will say that a
 physician or a ruler makes errors. It is in this loose way that you must also
 take the answer I gave just now. But the most precise answer is this: a ruler,
 
@@ -842,7 +849,8 @@ will ﬁnd there is nothing you can do.
 
 SOCRATES: Do you think that I am crazy enough to try to shave a lion[^17]
 (c) and quibble with Thrasymachus?
-(a) THRASYMACHUS: Well, you certainly tried just now, although you were
+
+THRASYMACHUS: Well, you certainly tried just now, although you were a
 good-for-nothing at it, too!
 
 SOCRATES: That’s enough of that! Tell me: is a doctor—in the precise
@@ -881,7 +889,6 @@ for a body to be a body, or whether it needs something else. I would
 answer, “Of course it needs something. In fact, that is why the craft of
 medicine has been discovered—because a body is deﬁcient and it is not sat-
 isfactory for it to be like that.[^19] To provide what is advantageous, that is
-
 what the craft was developed for.” Do you think I am speaking correctly in
 saying this, or not?
 
@@ -938,11 +945,12 @@ THRASYMACHUS: Yes.
 
 SOCRATES: So a ship’s captain, in the precise sense, is a ruler of sailors, not
 a sailor?
+
 (e) THRASYMACHUS: That is what we agreed.
 
 SOCRATES: Doesn’t it follow that a ship’s captain and ruler won’t consider
 and enjoin what is advantageous for a captain, but what is advantageous for
-(a) sailor and his subject?
+a sailor and his subject?
 
 > *He reluctantly agreed.*
 SOCRATES: So then,Thrasymachus, no one in any position of rule, to the
@@ -1047,23 +1055,23 @@ THRASYMACHUS: And how am I to persuade you? If you are not per-
 suaded by what I said just now, what more can I do? Am I to take my argu-
 ment and pour it into your very soul?
 
-SOCRATES: No, by Zeus, do not do that! But ﬁrst, stick to what you have
+(c) (d) (e) SOCRATES: No, by Zeus, do not do that! But first, stick to what you have
 said, or, if you change your position, do it openly and do not try to deceive
-us.You see, Thrasymachus, having deﬁned the true doctor—to continue
-(c) examining the things you said before—you did not consider it necessary to
+us. You see, Thrasymachus, having defined the true doctor—to continue
+examining the things you said before—you did not consider it necessary to
 maintain the same level of exactness when you later turned to the true
-shepherd.You do not think a shepherd—to the extent that he is a shep-
+shepherd. You do not think a shepherd—to the extent that he is a shep-
 herd—fattens sheep with the aim of doing what is best for them. But you
 think that, like a guest about to be entertained at a feast, his aim is to eat
-(a) well or to make a future sale—as if he were a moneymaker rather than
-(d) shepherd. But of course, the only concern of the craft of shepherding is to
+well or to make a future sale—as if he were a moneymaker rather than a
+shepherd. But of course, the only concern of the craft of shepherding is to
 provide what is best for that with which it deals, since it itself is adequately
 provided with all it needs to be at its best, as we know, when it does not fall
 short in any way of being the craft of shepherding. That is why I, at any
 rate, thought it necessary for us to agree before[^23] that every kind of rule—
 to the extent that it is a kind of rule—does not seek anything other than
 what is best for the thing it rules and cares for, and this is true both in polit-
-(e) ical and in private rule. But do you think that those who rule cities—the
+ical and in private rule. But do you think that those who rule cities—the
 ones who are truly rulers—rule willingly?
 
 THRASYMACHUS: I do not think it, by Zeus, I know it.
@@ -1117,13 +1125,14 @@ SOCRATES: And we say that the additional craft in question, which bene-
 ﬁts the craftsmen by earning them wages, is the craft of wage-earning?
 
 > *He reluctantly agreed.*
-SOCRATES: Then this very beneﬁt, receiving wages, is not provided to
-(d) each of them by his own craft. On the contrary, if we are to examine the
-(a) matter precisely, medicine provides health and wage-earning provides
+
+(d) SOCRATES: Then this very benefit, receiving wages, is not provided to
+each of them by his own craft. On the contrary, if we are to examine the
+matter precisely, medicine provides health and wage-earning provides a
 wage; house-building provides a house, and wage-earning, which accom-
 panies it, provides a wage; and so on with the other crafts. Each of them
-does its own work and beneﬁts that with which it deals. So, wages aside, is
-there any beneﬁt that craftsmen get from their craft?
+does its own work and benefits that with which it deals. So, wages aside, is
+there any benefit that craftsmen get from their craft?
 
 THRASYMACHUS: Apparently not.
 
@@ -1184,12 +1193,13 @@ Which life would you choose, Glaucon? And which of our views do you
 think is closer to the truth?
 
 GLAUCON: I think the life of a just person is more proﬁtable.
-(a) SOCRATES: Did you hear all the good things Thrasymachus attributed
-(348a) moment ago to the unjust man?
+
+SOCRATES: Did you hear all the good things Thrasymachus attributed
+a moment ago to the unjust man?
 
 GLAUCON: I did, but I am not persuaded.
 
-SOCRATES: Then do you want us to persuade him, if we can ﬁnd a way,
+(348a) SOCRATES: Then do you want us to persuade him, if we can ﬁnd a way,
 that what he says is not true?
 
 GLAUCON: Of course I do.
@@ -1361,15 +1371,16 @@ THRASYMACHUS: Certainly not.
 SOCRATES: But he does want to do better than a non-doctor?
 
 THRASYMACHUS: Yes.
-(a) SOCRATES: In any branch of knowledge or ignorance, do you think that
+
+SOCRATES: In any branch of knowledge or ignorance, do you think a that
 knowledgeable person would intentionally try to take more for himself
 than another knowledgeable person, or to do or say more, and not rather
 exactly what the one like himself would do in the same situation?
 
 THRASYMACHUS: No, I imagine it must be as you say.
 
-SOCRATES: And what about an ignorant person? Doesn’t he want to do
-(b) better than both a knowledgeable person and an ignorant one?
+(b) SOCRATES: And what about an ignorant person? Doesn’t he want to do
+better than both a knowledgeable person and an ignorant one?
 
 THRASYMACHUS: I suppose so.
 
@@ -1413,9 +1424,9 @@ THRASYMACHUS: Yes, we did.
 SOCRATES: A just person has turned out to be good and wise, then, and
 an unjust one ignorant and bad.
 
-> *(d) Thrasymachus agreed to all this, not easily as I am telling it, but reluctantly, with toil, trouble, and—since it was summer—a quantity of sweat that was amazing to behold. And then I saw something I had never seen before—Thrasymachus blushing. But in any case, after we had agreed that justice is virtue and wisdom and that injustice is vice and ignorance, I said:*
+> (d) *Thrasymachus agreed to all this, not easily as I am telling it, but reluctantly, with toil, trouble, and—since it was summer—a quantity of sweat that was amazing to behold. And then I saw something I had never seen before—Thrasymachus blushing. But in any case, after we had agreed that justice is virtue and wisdom and that injustice is vice and ignorance, I said:*
 
-(a) All right, let’s take that as established. But we also said that injustice is
+All right, let’s take that as established. But we also said that injustice is a
 strong thing, or don’t you remember that,Thrasymachus?
 
 THRASYMACHUS: I remember. But I am not satisﬁed with what you are
@@ -1641,7 +1652,8 @@ there anything else besides a soul to which you could rightly assign these
 and say that they special to it?
 
 THRASYMACHUS: No, there is nothing else.
-(a) SOCRATES: Then what about living? Don’t we say that it is a function of
+
+SOCRATES: Then what about living? Don’t we say that it is a function of a
 soul?
 
 THRASYMACHUS: Absolutely.

@@ -1,155 +1,65 @@
-# *Synopsis*
-## BOOK 1
-On his way home from a religious festival, Socrates meets Polemarchus and
-accompanies him to the house of his aged father, Cephalus. • Socrates and
-Cephalus discuss the burdens of old age. Cephalus claims that, while these
-burdens are eased by wealth, it is people’s characters and habits, not their
-ages, that determine what their lives are like.Wealth is mostly important, he
-claims, because it reduces the likelihood of being tempted into injustice by
-poverty and so lessens the fear of what will happen after death.This leads to
-(a) (a) discussion of justice, which will itself culminate—many books later—in
-myth about the afterlife (Book 10). • Cephalus claims that justice consists in
-speaking the truth and paying one’s debts. Before he can respond to
-Socrates’ criticism of his deﬁnition, Polemarchus interrupts. Cephalus
-hands over the argument to him and goes off to attend to a sacriﬁce to the
-gods. An examination of Polemarchus follows, in the course of which he is
-forced to abandon a number of different views about justice that he has
-adopted along the way. • Thrasymachus demands that Socrates give his own
-positive account of justice but is persuaded to give an account himself
-instead. Justice, he claims, is what is advantageous for the stronger.Thrasy-
-machus defends it with two separate arguments (338d–341a, 343a–344c),
-which Socrates then attempts to refute.
+# Tóm lược (Synopsis)
 
-## BOOK 2
-Unsatisﬁed with the outcome of Book 1, Glaucon and Adeimantus renew
-Thrasymachus’ views. In response, Socrates must show that justice is
-choiceworthy (a) because of itself, and (b) because of its consequences
-(357a–358a). Socrates does not complete his argument for (a) until the end
-of Book 9. • Socrates shifts the debate from individual justice to political
-justice. He will describe an ideal or completely good city—Kallipolis. Hav-
-ing located justice in it, he will then look for it in the soul. • The ﬁrst city
-he describes is dismissed by Glaucon as ﬁt only for pigs, not for sophisti-
-cated Athenians. • The second city is more luxurious. But the presence in it
-of appetites for more than the necessities provided in its simpler predecessor
-leads to civil faction and war. To prevent these from destroying the city,
-soldier-police are needed.These are the guardians. • The natural assets they
-need and the education they must have are next described. Since musical
-training begins before physical training, its content—more speciﬁcally the
-sorts of stories that the future guardians should hear about gods and
-heroes—is the ﬁrst item of business (377e).
+## QUYỂN 1
+Trên đường về nhà sau một lễ hội tôn giáo, Socrates gặp Polemarchus và cùng anh ta đi đến nhà của người cha già, Cephalus.
+• Socrates và Cephalus thảo luận về những gánh nặng của tuổi già. Cephalus cho rằng, mặc dù sự giàu sang giúp giảm bớt những gánh nặng này, nhưng chính tính cách và thói quen của mỗi người, chứ không phải độ tuổi, mới quyết định cuộc sống của họ ra sao. Ông khẳng định sự giàu có quan trọng nhất ở chỗ nó giúp con người ít bị cám dỗ vào *điều sai* (injustice) do nghèo đói, và từ đó làm giảm bớt nỗi sợ hãi về những gì sẽ xảy ra sau khi chết.
+Điều này dẫn đến một cuộc thảo luận về *điều đúng* (justice), và cuộc thảo luận này sẽ đạt đến cao trào—nhiều quyển sau đó—trong một câu chuyện thần thoại về kiếp sau (Quyển 10).
+• Cephalus khẳng định rằng *điều đúng* bao gồm việc nói sự thật và trả nợ. Trước khi ông kịp phản hồi những lời phản bác của Socrates về định nghĩa này, Polemarchus đã ngắt lời. Cephalus nhường lại cuộc tranh luận cho con trai và rời đi để thực hiện nghi lễ tế thần.
+Một cuộc kiểm tra Polemarchus diễn ra sau đó, trong quá trình này anh ta buộc phải từ bỏ nhiều quan điểm khác nhau về *điều đúng* mà mình đã tiếp nhận dọc đường.
+• Thrasymachus yêu cầu Socrates phải đưa ra giải thích tích cực của riêng mình về *điều đúng*, nhưng thay vào đó, ông lại bị thuyết phục để tự mình đưa ra một lời giải thích. Hắn ta khẳng định rằng, *điều đúng* là những gì có lợi cho kẻ mạnh hơn. Thrasymachus bảo vệ quan điểm này bằng hai lập luận riêng biệt (338d–341a, 343a–344c), mà sau đó Socrates nỗ lực bác bỏ.
 
-## BOOK 3
-The discussion of these stories continues. Once complete, Socrates turns to
-the content of stories about human beings, only to postpone his discussion
-until Book 10. (He explains why at 392a–c.) • The appropriate style for
-these stories to have and the appropriate harmonies and rhythms for lyric
-odes and songs are characterized. • Physical training is next. • The ﬁnal
-topic is the selection of rulers (including the “myth of the metals”), and the
-housing and lifestyles of the guardians (412b–417b).
+## QUYỂN 2
+Không hài lòng với kết quả của Quyển 1, Glaucon và Adeimantus làm mới lại các quan điểm của Thrasymachus. Để đáp lại, Socrates phải chứng minh rằng *điều đúng* là thứ đáng để lựa chọn: (a) vì chính bản thân nó, và (b) vì những hệ quả mà nó mang lại (357a–358a). Socrates không hoàn thành lập luận cho phần (a) cho đến tận cuối Quyển 9.
+• Socrates chuyển cuộc tranh luận từ *điều đúng* ở cấp độ cá nhân sang *điều đúng* ở cấp độ chính trị. Ông sẽ mô tả một thành phố lý tưởng hoặc hoàn hảo—Kallipolis. Sau khi xác định được *điều đúng* nằm ở đâu trong thành phố đó, ông sẽ tìm kiếm nó trong linh hồn.
+• Thành phố đầu tiên ông mô tả bị Glaucon gạt đi, cho rằng nó chỉ hợp với loài lợn chứ không phải cho những người Athen sành điệu.
+• Thành phố thứ hai thì xa hoa hơn. Nhưng sự hiện diện của những *ham muốn* (appetites) vượt quá mức nhu cầu thiết yếu đã dẫn đến sự phân chia phe phái và chiến tranh. Để ngăn chặn những điều này phá hủy thành phố, cần có những binh lính-cảnh sát. Họ chính là những người bảo vệ (guardians).
+• Những tố chất tự nhiên và sự giáo dục mà họ cần phải có sẽ được mô tả tiếp theo. Vì việc rèn luyện âm nhạc bắt đầu trước rèn luyện thể chất, nên nội dung của nó—cụ thể là những kiểu câu chuyện về các vị thần và anh hùng mà những người bảo vệ tương lai nên nghe—là hạng mục công việc đầu tiên (377e).
 
-## BOOK 4
-A question from Adeimantus about the happiness of the guardians leads
-Socrates to clarify the goal of Kallipolis, which is not to make any one
-group of citizens outstandingly happy at the expense of others, but to make
-everyone as happy as his nature allows (421c).This goal will be achieved, he
-argues, if the guardians protect the system of elementary education
-described in Books 2 and 3. For it is what provides the training in political
-virtue without which no system of laws or constitution can hope to achieve
-anything worthwhile (423c–427a). • The place of religion in Kallipolis is
-then very brieﬂy discussed (427b–c). • Kallipolis is pronounced complete
-(a) (427d). Since it is completely good (427e), it must have all the virtues of
-city (see 352d–354a): wisdom, courage, temperance, and justice. By the
-time that search for them is concluded (434d), they have all been identiﬁed
-with distinct structural features of Kallipolis. • This leads to the argument
-for the division of the soul into three elements—appetitive, spirited, and
-rational—that correspond to the three major classes in Kallipolis—produc-
-ers, guardians, and rulers (435c–441c). Once this argument is in place, it
-remains to ﬁnd the virtues in the soul and to show that they are the same
-structural features of it as of Kallipolis (441c–444e). • Glaucon is ready at
-this point to pronounce justice more choiceworthy than injustice, but
-Socrates is not (445a–b). In his view, the question cannot be answered until
-much more work has been done on virtue and vice.
+## QUYỂN 3
+Cuộc thảo luận về những câu chuyện này tiếp tục. Sau khi hoàn tất, Socrates chuyển sang nội dung của các câu chuyện về con người, nhưng sau đó lại hoãn cuộc thảo luận này cho đến Quyển 10 (ông giải thích lý do tại 392a–c).
+• Phong cách phù hợp cho những câu chuyện này, cùng với các giai điệu và nhịp điệu phù hợp cho các bài tụng ca và bài hát được đặc định hóa.
+• Huấn luyện thể chất là nội dung tiếp theo.
+• Chủ đề cuối cùng là việc tuyển chọn những người cai trị (bao gồm cả "huyền thoại về các kim loại"), cùng với nơi ở và lối sống của những người bảo vệ (412b–417b).
 
-## BOOK 5
-The discussion of that topic is interrupted by Polemarchus and the other
-interlocutors, all of whom want Socrates to explain the remark he made
-(423e4–424a2) about the guardians sharing their women and children.
+## QUYỂN 4
+Một câu hỏi từ Adeimantus về hạnh phúc của những người bảo vệ đã dẫn dắt Socrates làm rõ mục tiêu của thành phố Kallipolis: không phải là làm cho bất kỳ một nhóm công dân nào trở nên hạnh phúc xuất chúng trên sự tổn hại của những người khác, mà là làm cho mọi người hạnh phúc đến mức tối đa mà bản tính của họ cho phép (421c).
+Ông lập luận rằng, mục tiêu này sẽ đạt được nếu những người bảo vệ bảo vệ hệ thống giáo dục sơ đẳng đã được mô tả ở Quyển 2 và 3. Bởi chính giáo dục cung cấp sự rèn luyện về *phẩm chất tốt* (virtue) chính trị, mà nếu thiếu nó thì không hệ thống luật pháp hay hiến pháp nào có hy vọng đạt được điều gì giá trị (423c–427a).
+• Vị trí của tôn giáo trong Kallipolis sau đó được thảo luận rất ngắn gọn (427b–c).
+• Kallipolis được tuyên bố là đã hoàn thành (427d). Vì nó hoàn hảo (427e), nó phải có tất cả các *phẩm chất tốt* của một thành phố (xem 352d–354a): sự thông thái, lòng can đảm, sự chừng mực và *điều đúng*. Vào thời điểm cuộc tìm kiếm kết thúc (434d), tất cả các phẩm chất này đã được nhận diện gắn liền với các đặc điểm cấu trúc riêng biệt của Kallipolis.
+• Điều này dẫn đến lập luận về việc phân chia linh hồn thành ba thành phần—*ham muốn*, *cảm xúc* (spirited), và *suy nghĩ* (rational)—tương ứng với ba giai cấp chính trong Kallipolis: những người sản xuất, những người bảo vệ và những người cai trị (435c–441c). Khi lập luận này đã định hình, công việc còn lại là tìm ra các *phẩm chất tốt* trong linh hồn và chứng minh rằng chúng có cùng đặc điểm cấu trúc như trong Kallipolis (441c–444e).
+• Lúc này, Glaucon đã sẵn sàng để tuyên bố rằng sống theo *điều đúng* thì đáng chọn hơn là sống *sai*, nhưng Socrates thì chưa (445a–b). Theo quan điểm của ông, câu hỏi này chưa thể trả lời cho đến khi thực hiện xong nhiều nghiên cứu hơn về đức hạnh và thói xấu.
 
-Socrates’ lengthy response occupies the majority of the book. In it, he
-makes the revolutionary proposal that children should be brought up by the
-city rather than by their biological parents, and that men and women with
-the same natural abilities should receive the same education and training and
-do the same kind of work, including guarding and ruling. • The smallest
-change that would transform an already existing city into Kallipolis, Socrates
-now argues, is for its kings or rulers to become philosophers, or vice versa.
+## QUYỂN 5
+Cuộc thảo luận về chủ đề đó bị gián đoạn bởi Polemarchus và những người đối thoại khác, tất cả họ đều muốn Socrates giải thích nhận xét mà ông đã đưa ra (423e4–424a2) về việc những người bảo vệ dùng chung vợ con.
 
-The remainder of Book 5 is the beginning of Socrates’ portrait of philoso-
-phers, which continues until the end of Book 7. It consists of a complex
-argument intended to show that only they can have access to forms, and
-that without such access knowledge is impossible (474c4–480a13).
+Phần lớn quyển sách là câu trả lời dài của Socrates. Trong đó, ông đưa ra một đề xuất mang tính cách mạng: trẻ em nên được nuôi dạy bởi thành phố thay vì cha mẹ ruột, và đàn ông cũng như phụ nữ có cùng năng lực tự nhiên nên nhận được sự giáo dục, đào tạo như nhau và làm cùng một loại công việc, bao gồm cả việc bảo vệ và cai trị.
+• Socrates lập luận rằng, thay đổi nhỏ nhất để biến một thành phố đang tồn tại thành Kallipolis là các vị vua hoặc người cai trị phải trở thành triết gia, hoặc ngược lại.
 
-## BOOK 6
-Real philosophers are contrasted with those popularly called philosophers. •
-The former must master the most important subjects (503e), the ones that
-lead to knowledge of the form of the good (504e–505b). • Socrates cannot
-explain directly what this is, but in the sun and line analogies he tries to
-give an indirect account of them (507a–511e).
+Phần còn lại của Quyển 5 là khởi đầu cho bức chân dung về các triết gia của Socrates, điều này tiếp tục cho đến cuối Quyển 7. Nó bao gồm một lập luận phức tạp nhằm chứng minh rằng chỉ có họ mới có thể tiếp cận được các *khái niệm* (forms), và nếu không có sự tiếp cận đó thì kiến thức là điều bất khả thi (474c4–480a13).
 
-## BOOK 7
-Book 7 begins with the famous allegory of the cave, which is intended to
-ﬁt together with the sun and line (517b), by illustrating the effects of edu-
-cation on the soul (514a). • The discussion of the education of the philoso-
-phers continues. Primary education in musical and physical training and
-elementary mathematics (535a–537b) is followed by two or three years of
-compulsory physical training (537b–c), ten years of education in the math-
-ematical sciences (537c–d, 522c–531d), ﬁve years of training in dialectic
-(537d–540a, 531e–535a), and ﬁfteen years of practical political training
-(539e–540a). After such education, its recipients are ready to see the good
-itself and to be philosopher-kings (540a).
+## QUYỂN 6
+Các triết gia thực thụ được đặt trong sự tương phản với những người thường được gọi là triết gia.
+• Những triết gia thực thụ phải làm chủ được những môn học quan trọng nhất (503e), những môn dẫn đến kiến thức về *khái niệm* của cái Thiện (504e–505b).
+• Socrates không thể giải thích trực tiếp đây là cái gì, nhưng thông qua các ẩn dụ về mặt trời và đường thẳng, ông cố gắng đưa ra một cách giải thích gián tiếp về chúng (507a–511e).
 
-## BOOK 8
-The description of Kallipolis and the person whose character resembles
-it—the philosopher-king—is now complete. So, Socrates returns to the
-argument interrupted at the beginning of Book 5. He describes four types
-of people and four types of constitutions that result when people of these
-types rule a city. He presents these as four stages in the increasing corrup-
-tion or decline of Kallipolis, explaining why Kallipolis will decline by
-appeal to the Muses’ story of the “geometrical number” (546a–547a). •
-The ﬁrst of the defective cities Socrates describes is a timocracy, which is
-ruled by people who are themselves ruled by the spirited element in their
-souls. • The second is an oligarchy, which is ruled by people ruled by their
-necessary appetites. • The third is a democracy, which is ruled by people
-ruled by their unnecessary appetites. • The worst city of all is a tyranny,
-which is ruled by someone ruled by his lawless unnecessary appetites.
+## QUYỂN 7
+Quyển 7 bắt đầu với câu chuyện ngụ ngôn nổi tiếng về cái hang, nhằm mục đích kết nối khớp với ẩn dụ về mặt trời và đường thẳng (517b), bằng cách minh họa những tác động của giáo dục đối với linh hồn (514a).
+• Cuộc thảo luận về việc giáo dục các triết gia tiếp tục. Giáo dục sơ cấp về âm nhạc, thể chất và toán học cơ bản (535a–537b) được tiếp nối bởi hai hoặc ba năm rèn luyện thể chất bắt buộc (537b–c), mười năm giáo dục các khoa học toán học (537c–d, 522c–531d), năm năm rèn luyện về biện chứng (537d–540a, 531e–535a), và mười lăm năm rèn luyện chính trị thực tiễn (539e–540a). Sau quá trình giáo dục như vậy, những người thụ hưởng đã sẵn sàng để nhìn thấy chính cái Thiện và trở thành những Vua-Triết gia (540a).
 
-## BOOK 9
-A lengthy description of the tyrant begins the book. Socrates is then ready
-to respond to the challenge Glaucon raised in Book 2. • His response con-
-sists of three complex arguments.The ﬁrst (580a–c) appeals to the descrip-
-tion of the ﬁve cities and the ﬁve corresponding character types. It
-(a) concludes that a philosopher-king is the happiest and most just of people,
-timocrat second, an oligarch third, a democrat fourth, and a tyrant least
-happy and least just.The second argument (580d–583b) appeals to the tri-
-adic division of the soul. Socrates argues that a philosopher’s assessment of
-the relative pleasantness of his life and those of money-lovers and honor-
-lovers is more reliable than their assessments of the relative pleasantness of
-his life and theirs. The third argument (583b–588a) uses the metaphysical
-theory developed in Books 5 through 7, together with the psychological
-theory of Book 4, to develop a complex theory of pleasure. It concludes
-that a philosopher’s pleasures are truer and purer than those of a money-
-lover or an honor-lover.
+## QUYỂN 8
+Mô tả về Kallipolis và kiểu người có tính cách tương đồng với nó—người Vua-Triết gia—giờ đây đã hoàn tất. Vì vậy, Socrates quay lại lập luận bị gián đoạn ở đầu Quyển 5. Ông mô tả bốn kiểu người và bốn kiểu hiến pháp nảy sinh khi những kiểu người này cai trị một thành phố. Ông trình bày chúng như bốn giai đoạn trong sự suy đồi hoặc sa sút dần của Kallipolis, giải thích lý do tại sao Kallipolis sẽ suy tàn bằng cách viện dẫn câu chuyện của các nàng Thơ về "con số hình học" (546a–547a).
+• Thành phố khiếm khuyết đầu tiên Socrates mô tả là chính thể danh dự (timocracy), được cai trị bởi những người mà bản thân họ bị điều khiển bởi thành phần *cảm xúc* trong linh hồn.
+• Thành phố thứ hai là chính thể tài phiệt (oligarchy), được cai trị bởi những người bị điều khiển bởi những *ham muốn* thiết yếu của họ.
+• Thành phố thứ ba là chính thể dân chủ (democracy), được cai trị bởi những người bị điều khiển bởi những *ham muốn* không thiết yếu.
+• Thành phố tồi tệ nhất trong tất cả là chính thể bạo chúa (tyranny), được cai trị bởi kẻ bị điều khiển bởi những *ham muốn* không thiết yếu và vô luật pháp của chính hắn.
 
-## BOOK 10
-The kind of poetry about human beings permitted in Kallipolis—post-
-poned in Book 3 (392a–c)—can now be revisited. Given the importance
-attributed to musical and physical training (424b–425a), this topic is not
-anticlimactic, but rather the moment at which Socrates’ new, philosophy-
-based education confronts the traditional, poetry-based one. Central to the
-discussion is a new account of mimesis—imitation—based on the metaphys-
-ical theories of Books 5 through 7. • The next topic is the immortality of
-the soul. • Finally, by appeal to the myth of Er, Socrates argues that the
-good consequences of justice, both in this life and the next, far outweigh
-those of injustice.This completes the argument that justice is choiceworthy
-both for its own sake and for its consequences, and so belongs in the best of
-the three classes of goods that Glaucon distinguished.
+## QUYỂN 9
+Một mô tả dài về kẻ bạo chúa bắt đầu quyển sách. Sau đó Socrates đã sẵn sàng để trả lời thách thức mà Glaucon đặt ra ở Quyển 2.
+• Câu trả lời của ông bao gồm ba lập luận phức tạp. Lập luận thứ nhất (580a–c) dựa trên mô tả về năm thành phố và năm kiểu tính cách tương ứng. Nó kết luận rằng một Vua-Triết gia là người hạnh phúc nhất và sống đúng nhất, người chuộng danh dự đứng thứ hai, người chuộng tiền bạc đứng thứ ba, người dân chủ đứng thứ tư, và kẻ bạo chúa là người ít hạnh phúc nhất và sống *sai* nhất.
+Lập luận thứ hai (580d–583b) dựa trên sự phân chia linh hồn làm ba phần. Socrates lập luận rằng sự đánh giá của một triết gia về độ dễ chịu tương đối trong cuộc đời ông so với cuộc đời của những kẻ ham tiền và ham danh dự thì đáng tin cậy hơn là sự đánh giá của họ về ông.
+Lập luận thứ ba (583b–588a) sử dụng lý thuyết siêu hình được phát triển từ Quyển 5 đến Quyển 7, cùng với lý thuyết tâm lý học của Quyển 4, để xây dựng một lý thuyết phức tạp về sự sung sướng. Nó kết luận rằng những niềm vui của triết gia chân thực và thuần khiết hơn so với niềm vui của kẻ ham tiền hay ham danh dự.
 
+## QUYỂN 10
+Loại thơ ca về con người được phép xuất hiện trong Kallipolis—vốn đã bị trì hoãn ở Quyển 3 (392a–c)—giờ đây có thể được xem xét lại. Với tầm quan trọng được gán cho việc rèn luyện âm nhạc và thể chất (424b–425a), chủ đề này không phải là một sự hụt hẫng, mà đúng hơn là khoảnh khắc mà nền giáo dục mới dựa trên triết học của Socrates đối đầu với nền giáo dục truyền thống dựa trên thơ ca. Trọng tâm của cuộc thảo luận là một cách giải thích mới về *mimesis*—sự mô phỏng—dựa trên các lý thuyết siêu hình từ Quyển 5 đến Quyển 7.
+• Chủ đề tiếp theo là sự bất tử của linh hồn.
+• Cuối cùng, bằng cách viện dẫn huyền thoại về Er, Socrates lập luận rằng những hệ quả tốt đẹp của *điều đúng*, ở cả kiếp này và kiếp sau, vượt xa những hệ quả của việc sống *sai*. Điều này hoàn thiện lập luận rằng *điều đúng* là thứ đáng để lựa chọn vì chính nó và vì hệ quả của nó, và vì thế nó thuộc về loại tốt đẹp nhất trong ba loại lợi ích mà Glaucon đã phân biệt.

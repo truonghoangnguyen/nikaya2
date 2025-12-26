@@ -1,836 +1,205 @@
-# *Introduction*
-No one doubts that the Republic is one of the very greatest works of West-
-ern philosophy. Like nothing before it and very little since, it combines
-philosophical and literary resourcefulness of the highest order in an attempt
-to answer the most important question of all—how should we live if we
-want to live well and be happy? Justly or unjustly? Morally or immorally?
+# *Lời giới thiệu*
 
-Moreover, the answer it develops is based on an unusually rich account of
-our nature and the nature of reality. Ethics, politics, aesthetics, philosophy
-of religion, philosophy of mind, philosophy of science, epistemology, and
-metaphysics are all woven together in it, and their later developments have
-been decisively shaped by its contribution to them. Contemporary philoso-
-phers read the Republic, as their predecessors did, not out of piety, but
-because it continues to challenge, disquiet, and inspire.Western philosophy
-is not, to be sure, simply a series of footnotes to this amazing text, but many
-of its best stories begin here.
+Không ai nghi ngờ rằng cuốn Cộng Hòa là một trong những tác phẩm vĩ đại nhất của triết học phương Tây. Chưa từng có tác phẩm nào trước đó, và rất ít tác phẩm sau này, lại kết hợp được sự tài tình về triết học và văn chương ở đẳng cấp cao nhất như vậy trong nỗ lực trả lời câu hỏi quan trọng nhất của tất cả: chúng ta nên sống thế nào nếu muốn sống tốt và hạnh phúc? Sống đúng hay sống sai? Có đạo đức hay vô đạo đức?
 
-PLATO
-Plato was born in Athens in 429 BCE and died there in 348/7. His father,
-Ariston, traced his descent to Codrus, who was supposedly king of Athens
-in the eleventh century BCE; his mother, Perictione, was related to Solon,
-architect of the Athenian constitution (594/3).While Plato was still a boy,
-his father died and his mother married Pyrilampes, a friend of the great
-Athenian statesman Pericles. Hence Plato was familiar with Athenian poli-
-tics from childhood and was expected to enter it himself. Horriﬁed by
-actual political events, however, including the execution of his mentor and
-teacher Socrates in 399 BCE, he turned instead to philosophy, thinking
-that only it could bring true justice to human beings and put an end to civil
-war and political upheaval (see Seventh Letter 324b–326b). In the Republic,
-written around 380 BCE, he lays out the grounds for this at once pessimis-
-tic and optimistic assessment.
+Hơn nữa, câu trả lời mà cuốn sách phát triển dựa trên một sự mô tả phong phú khác thường về bản chất của chúng ta và bản chất của thực tại. Đạo đức học, chính trị học, mỹ học, triết học tôn giáo, triết học tâm trí, triết học khoa học, nhận thức luận và siêu hình học đều được dệt lại với nhau trong tác phẩm này, và sự phát triển sau này của các ngành đó đã được định hình một cách quyết định bởi những đóng góp của cuốn sách. Các triết gia đương đại đọc Cộng Hòa, cũng như những người đi trước họ, không phải vì lòng sùng kính, mà vì nó tiếp tục thách thức, gây trăn trở và truyền cảm hứng. Chắc chắn rằng, triết học phương Tây không đơn giản chỉ là một loạt các chú thích cho văn bản đáng kinh ngạc này, nhưng rất nhiều câu chuyện hay nhất của triết học đều bắt đầu từ đây.
 
-Plato’s works, which are predominantly dialogues, all seem to have sur-
-vived.They are customarily divided into four chronological groups, though
-the precise ordering (especially within groups) is controversial:
+### PLATO
+Plato sinh ra ở Athens vào năm 429 TCN và qua đời tại đó vào năm 348/7. Cha ông, Ariston, truy nguyên dòng dõi của mình tới Codrus, người được cho là vua của Athens vào thế kỷ thứ mười một TCN; mẹ ông, Perictione, có họ hàng với Solon, kiến trúc sư của hiến pháp Athens (594/3). Khi Plato còn là một cậu bé, cha ông qua đời và mẹ ông tái hôn với Pyrilampes, một người bạn của chính khách vĩ đại Athens là Pericles. Do đó, Plato đã quen thuộc với nền chính trị Athens từ thời thơ ấu và được kỳ vọng sẽ tự mình tham gia vào đó. Tuy nhiên, kinh hoàng trước các sự kiện chính trị thực tế, bao gồm cả việc hành quyết người cố vấn và người thầy của mình là Socrates vào năm 399 TCN, ông đã chuyển sang triết học, với suy nghĩ rằng chỉ có triết học mới có thể mang lại *điều đúng*(justice) thực sự cho con người và chấm dứt nội chiến cũng như bất ổn chính trị (xem Thư thứ bảy 324b–326b). Trong cuốn Cộng Hòa, được viết vào khoảng năm 380 TCN, ông đưa ra các cơ sở cho đánh giá vừa bi quan vừa lạc quan này.
 
-> Early: *Alcibiades, Apology, Charmides, Crito, Euthyphro, Hippias Minor, Hippias Major, Ion, Laches, Lysis, Menexenus,Theages*
-> Transitional: *Euthydemus, Gorgias, Meno, Protagoras*
-> Middle: *Cratylus, Phaedo, Symposium, Republic, Phaedrus, Parmenides,The-aetetus*
-> Late:*Timaeus, Critias, Sophist, Statesman, Philebus, Laws*
+Các tác phẩm của Plato, chủ yếu là các cuộc đối thoại, dường như đều còn tồn tại. Theo thông lệ, chúng được chia thành bốn nhóm theo trình tự thời gian, mặc dù thứ tự chính xác (đặc biệt là trong các nhóm) vẫn còn gây tranh cãi:
 
-Besides writing his dialogues, Plato contributed to philosophy by founding
-the Academy, arguably the ﬁrst university.This was a center of research and
-teaching, both in theoretical subjects and also in more practical ones.
+> Thời kỳ đầu: *Alcibiades, Apology (Biện giải), Charmides, Crito, Euthyphro, Hippias Minor, Hippias Major, Ion, Laches, Lysis, Menexenus, Theages*
+> Thời kỳ chuyển tiếp: *Euthydemus, Gorgias, Meno, Protagoras*
+> Thời kỳ giữa: *Cratylus, Phaedo, Symposium (Yến tiệc), Republic (Cộng hòa), Phaedrus, Parmenides, Theaetetus*
+> Thời kỳ muộn: *Timaeus, Critias, Sophist, Statesman (Chính khách), Philebus, Laws (Luật pháp)*
 
-Eudoxus, who gave a geometrical explanation of the revolutions of the sun,
-moon, and planets, brought his own students with him to join Plato and
-studied and taught in the Academy; Theaetetus developed solid geometry
-there. But cities also invited members of the Academy to help them in the
-practical task of developing new political constitutions.
+Bên cạnh việc viết các cuộc đối thoại, Plato đã đóng góp cho triết học bằng việc thành lập Học viện (Academy), được cho là trường đại học đầu tiên. Đây là một trung tâm nghiên cứu và giảng dạy, cả về các môn lý thuyết và các môn thực hành hơn.
 
-The Academy lasted for some centuries after Plato died, ending around
-80 BCE. Its early leaders, including his own nephew, Speusippus, who suc-
-ceeded him, all modiﬁed his teachings in various ways. Later, inﬂuenced by
-the early Socratic dialogues, which end in puzzlement (aporia), the Acad-
-emy, under Arcesilaus, Carneades, and other philosophers, defended skepti-
-cism; later still, inﬂuenced by Plato’s other writings, Platonists were more
-dogmatic, less unsure. Platonism of one sort or another—Middle or Neo-
-or something else—remained the dominant philosophy in the pagan world
-of late antiquity, inﬂuencing St. Augustine among others, until the emperor
-Justinian closed the pagan schools at Athens in 529 CE. Much of what
-passed for Plato’s thought until the nineteenth century, when German
-scholars pioneered a return to Plato’s writings themselves, was a mixture of
-these different “Platonisms.”
+Eudoxus, người đã đưa ra lời giải thích hình học về các vòng quay của mặt trời, mặt trăng và các hành tinh, đã đưa các sinh viên của mình đến tham gia cùng Plato và đã nghiên cứu cũng như giảng dạy tại Học viện; Theaetetus đã phát triển hình học không gian tại đó. Nhưng các thành phố cũng mời các thành viên của Học viện đến giúp họ trong nhiệm vụ thực tế là xây dựng các hiến pháp chính trị mới.
 
-Given the vast span and diversity of Plato’s writings and the fact that they
-are dialogues, not treatises, it is little wonder that they were read in many
-different ways, even by Plato’s ancient followers. In this respect nothing has
-changed: different schools of philosophy and textual interpretation con-
-tinue to ﬁnd profoundly different messages and methods in Plato. Doctrinal
-continuities, discontinuities, and outright contradictions of one sort or
-another are discovered, disputed, rediscovered, and redisputed. Neglected
-dialogues are taken up afresh, old favorites newly interpreted. New ques-
-tions are raised, old ones resurrected and reformulated: is Plato’s Socrates
-really the great ironist of philosophy or a largely non-ironic ﬁgure? Is Plato
-(a) systematic philosopher with answers to give or a questioner only? Is he
-primarily a theorist about universals, or a moralist, or a mystic with an oth-
-erworldly view about the nature of reality and the place of the human
-psyche in it? Is the Republic a totalitarian work, a hymn to freedom properly
-conceived, or a reductio ad absurdum of the very argument it seems to be
-advancing? Does the dramatic structure of the dialogues undermine their
-apparent philosophical arguments? Should Plato’s negative remarks about
-the efﬁcacy of written philosophy (Phaedrus 274b–278b) lead us to look
-behind his dialogues for what Plato’s student Aristotle refers to as the “so-
-called unwritten doctrines” (Physics 209b14–5)?
+Học viện tồn tại trong vài thế kỷ sau khi Plato qua đời, kết thúc vào khoảng năm 80 TCN. Các nhà lãnh đạo ban đầu của nó, bao gồm cả cháu trai của ông, Speusippus, người kế nhiệm ông, đều đã sửa đổi các giáo lý của ông theo nhiều cách khác nhau. Sau đó, chịu ảnh hưởng của các cuộc đối thoại Socratic thời kỳ đầu, vốn kết thúc trong sự bế tắc (aporia), Học viện, dưới thời Arcesilaus, Carneades và các triết gia khác, đã bảo vệ chủ nghĩa hoài nghi; muộn hơn nữa, chịu ảnh hưởng của các tác phẩm khác của Plato, những người theo thuyết Plato (Platonists) trở nên giáo điều hơn, bớt lưỡng lự hơn. Chủ nghĩa Plato thuộc loại này hay loại khác—Trung kỳ hay Tân Plato hay thứ gì đó khác—vẫn là triết học thống trị trong thế giới ngoại giáo của thời hậu cổ đại, ảnh hưởng đến Thánh Augustine cùng những người khác, cho đến khi hoàng đế Justinian đóng cửa các trường học ngoại giáo ở Athens vào năm 529 CN. Phần lớn những gì được coi là tư tưởng của Plato cho đến thế kỷ mười chín, khi các học giả Đức tiên phong quay trở lại với chính các tác phẩm của Plato, là một sự pha trộn của những "chủ nghĩa Plato" khác nhau này.
 
-Besides this continued engagement with Plato’s writings, there is, of
-course, the not entirely separate engagement with the problems Plato
-brought to philosophy, the methods he invented to solve them, and the
-solutions he suggested and explored. So many and various are these, how-
-ever, that they constitute not just Plato’s philosophy, but a large part of phi-
-losophy itself. Part of his heritage, they are also what we inevitably bring to
-our reading of his works.
+Với phạm vi rộng lớn và sự đa dạng trong các tác phẩm của Plato và thực tế là chúng là các cuộc đối thoại, không phải là các luận văn, không có gì lạ khi chúng được đọc theo nhiều cách khác nhau, ngay cả bởi những người theo ông thời cổ đại. Ở khía cạnh này, không có gì thay đổi: các trường phái triết học và giải thích văn bản khác nhau tiếp tục tìm thấy những thông điệp và phương pháp sâu sắc khác nhau trong Plato. Những sự liên tục về học thuyết, sự gián đoạn và những mâu thuẫn hoàn toàn thuộc loại này hay loại khác được phát hiện, tranh luận, tái phát hiện và tái tranh luận. Các cuộc đối thoại bị bỏ quên được lật lại mới mẻ, những tác phẩm yêu thích cũ được diễn giải lại. Các câu hỏi mới được nêu ra, những câu hỏi cũ được hồi sinh và định dạng lại: liệu Socrates của Plato thực sự là nhà mỉa mai vĩ đại của triết học hay là một nhân vật phần lớn không mỉa mai? Liệu Plato là (a) một triết gia hệ thống có sẵn câu trả lời để đưa ra hay chỉ là một người đặt câu hỏi? Ông chủ yếu là một nhà lý thuyết về cái phổ quát, hay một nhà đạo đức học, hay một nhà huyền học với quan điểm về thế giới khác về bản chất của thực tại và vị trí của tâm trí (psyche) con người trong đó? Liệu Cộng Hòa là một tác phẩm toàn trị, một bài ca tụng sự tự do được quan niệm đúng đắn, hay một sự quy về vô lý (*reductio ad absurdum*) của chính lập luận mà nó dường như đang thúc đẩy? Liệu cấu trúc kịch tính của các cuộc đối thoại có làm suy yếu các lập luận triết học rõ ràng của chúng không? Liệu những nhận xét tiêu cực của Plato về hiệu quả của triết học viết (Phaedrus 274b–278b) có nên dẫn chúng ta tìm kiếm đằng sau các cuộc đối thoại của ông cho cái mà học trò của Plato là Aristotle gọi là "cái gọi là học thuyết bất thành văn" (Physics 209b14–5) không?
+
+Bên cạnh sự gắn kết liên tục này với các tác phẩm của Plato, tất nhiên, còn có sự gắn kết không hoàn toàn tách biệt với các vấn đề mà Plato đã mang đến cho triết học, các phương pháp ông phát minh để giải quyết chúng, và các giải pháp ông đề xuất và khám phá. Tuy nhiên, những điều này nhiều và đa dạng đến mức chúng cấu thành không chỉ triết học của Plato, mà là một phần lớn của chính triết học. Là một phần di sản của ông, chúng cũng là những gì chúng ta chắc chắn sẽ mang theo khi đọc các tác phẩm của ông.
 
 ### SOCRATES
-Socrates is the central ﬁgure in the Republic, as in most of Plato’s works. In
-some dialogues he is thought to be—and probably is—based to some
-extent on the historical Socrates.These are often called “Socratic” dialogues
-for this reason. In the transitional, middle, and late dialogues, however, he is
-thought to be increasingly a mouthpiece for ideas that go well beyond
-Plato’s Socratic heritage.
-
-In the Socratic dialogues, philosophy consists almost exclusively in ques-
-tioning people about the conventionally recognized moral virtues.What is
-piety (Euthyphro)? Or courage (Laches)? Or temperance (Charmides)? These
-are his characteristic questions. He seems to take for granted, moreover,
-that there are correct answers to them—that temperance, piety, courage,
-and the rest are each some deﬁnite characteristic or form (eidos, idea). He
-does not discuss the nature of these forms, however, nor develop any
-explicit theory of them or our knowledge of them. He does not, for that
-matter, explain his interest in deﬁnitions, nor justify his claim that if we do
-not know what, for example, justice is, we cannot know whether it is vir-
-tue, whether it makes its possessor happy, or anything else of any signiﬁ-
-cance about it (Republic 354b–c).
-
-Socrates’ style of questioning is called (by us, not him) an elenchus—from
-the Greek verb elengchein, meaning to examine or refute. He asks what jus-
-tice is. His interlocutor puts forward a deﬁnition he sincerely believes to be
-correct. Socrates refutes this deﬁnition by showing that it conﬂicts with
-other beliefs the interlocutor sincerely holds and is unwilling to abandon.
-
-In the ideal situation, which is never actually portrayed in the Socratic dia-
-logues, this process continues until a satisfactory deﬁnition emerges, one
-that is not inconsistent with other sincerely held beliefs, and so can with-
-stand elenctic scrutiny.
-
-The deﬁnitions Socrates encounters in his examinations of others
-prove unsatisfactory. But through these examinations—which are always
-at the same time self-examinations (Charmides 166c–d, Hippias Major
-298b–c, Protagoras 348c–d)—he comes to accept some positive theses that
-have resisted refutation. Among these are the following three famous
-Socratic “paradoxes”:
-
-The conventionally distinguished virtues—justice, piety, courage, and
-(a) the rest—are all identical to wisdom or knowledge, conceived of as
-type of craft (technê)1 or expertise (Charmides 174b–c, Euthydemus
-281d–e, Protagoras 329b–334c, 349a–361d).This is often referred to as
-> *the unity of the virtues doctrine.*
-Possession of this knowledge is necessary and sufﬁcient for happiness
-(Crito 48b, Gorgias 470e).
-
-No one ever acts contrary to what he knows or believes to be best, so
-that weakness of will is impossible (Protagoras 352a–359a).
-
-Together these three doctrines constitute a kind of ethical intellectualism: they
-imply that what we need in order to be virtuous and happy is expert craft
-knowledge.
-
-The goal of an elenchus is not just to reach adequate deﬁnitions of the
-virtues or seemingly paradoxical doctrines about weakness of will and vir-
-tue, however. Its primary aim is moral reform. For Socrates believes that, by
-curing people of the hubris of thinking they know when they do not, lead-
-ing the elenctically examined life makes them happier and more virtuous
-than anything else. Philosophizing is so important for human welfare,
-indeed, that Socrates is willing to accept execution rather than give it up
-(Apology 29b–d, 30a, 36c–e, 38a, 41b–c).
-
-In the transitional dialogues, as well as in some earlier ones, Socrates, as
-the embodiment of true philosophy, is contrasted with the sophists.2 They
-are, for the most part, unscrupulous, fee-taking moral relativists who think
-that moral values are based on convention; he is an honest, fee-eschewing
-moral realist, who thinks that the true virtues are the same for everyone
-everywhere.The problem latent in this contrast is that if people in different
-cultures have different beliefs about the virtues, it is not clear how the elen-
-chus, which seems to rely wholly on such beliefs, can reach knowledge of
-objective or non-culture–relative moral truth.
-
-### THE REPUBLIC
-The Republic is speciﬁcally about the virtue of justice and about whether it
-pays better dividends in terms of happiness than does injustice. It begins,
-therefore, with a characteristically Socratic search for justice’s deﬁnition
-(331b–c). Polemarchus provides the ﬁrst candidate: justice is giving to each
-what he is owed (331e). Socrates proceeds to examine this deﬁnition by
-[1]: See Glossary of Terms s.v. craft.
-[2]: See Glossary of Terms s.v. sophists.
-testing its consistency with other beliefs Polemarchus holds and is unwilling
-to abandon.When it proves to be inconsistent with them, it is taken to have
-been refuted (335e). Socrates must be presupposing, therefore, that some of
-Polemarchus’ sincerely held ethical beliefs are true, since inconsistency with
-false beliefs is no guarantee of falsehood.The problem is that there seems to
-be little reason to accept this presupposition.
-
-Socrates’ next interlocutor,Thrasymachus, explains why. He argues that
-those who are stronger in any society—the rulers—control education and
-socialization through legislation and enforcement. But he thinks that the
-rulers, like everyone else, are self-interested. Hence they make laws and
-adopt conventions—including linguistic conventions—that are in their
-own best interests, not those of their weaker subjects. It is these conven-
-tions that largely determine a subject’s conception of justice and the other
-virtues. By being trained to follow or obey them, therefore, a subject is
-unwittingly adopting an ideology—a code of values and behavior—that
-serves his ruler’s, rather than his own, interests. Consequently, Thrasyma-
-chus deﬁnes justice not as what socialized subjects like Socrates and
-Polemarchus think it is (something genuinely noble and valuable that pro-
-motes their own happiness), but as what it really is in all cities: the interest of
-> *the stronger.*
-As in the case of Polemarchus, Socrates again uses the elenchus to try to
-refute Thrasymachus. But his attempts are not found wholly adequate,
-either by Thrasymachus himself or by the other interlocutors (350d–e,
-357a–b, 358b–c). And we can see why: by arguing that ethical beliefs are an
-ideologically contaminated social product,Thrasymachus has undercut the
-elenchus altogether. He may get tied up in knots by Socrates, but his theory
-is invulnerable to elenctic refutation (as Thrasymachus points out at 349a).
-
-For elenctic refutation appeals to ideologically contaminated ideas in order
-to counter his theory, but his theory maintains that these have no validity.
-
-That is why Plato has Socrates abandon the elenchus in subsequent books
-and attempt to answer Thrasymachus (whose views are taken over by Glau-
-con and Adeimantus) by developing a positive defense of justice of his own.
-
-### THE ARGUMENT OF THE REPUBLIC IN OUTLINE
-At the center of Socrates’ defense of justice stand the philosopher-kings—
-who unite political power and authority with philosophical knowledge of
-the transcendent, unchanging form of the good (the good-itself)—and the
-ideal city they come to rule, Kallipolis (“beautiful city” or “noble city” in
-Greek). Because this knowledge is based, as Socrates argues, in mathematics
-and science, it is unmediated by conventionally controlled concepts of good
-and bad, just and unjust. Hence it is free from the distorting inﬂuence of
-power or ideology, and so immune to the challenge Thrasymachus poses to
-the elenchus.
-What the philosopher-kings do is construct a political system—includ-
-ing primarily a system of socialization and education—that will distribute
-the beneﬁts of their specialized knowledge of the good among the citizens
-at large. The system they construct relies on Plato’s theory of the soul or
-mind (psychê), the seat of consciousness, emotion, desire, and decision-
-making. According to this theory, there are three fundamentally different
-kinds of desires: appetitive ones for food, drink, sex, and the money with
-which to acquire them; spirited ones for honor, victory, and good reputa-
-tion; and rational ones for knowledge and truth (437b ff., 580d ff.). Each of
-these types of desire “rules” in the soul of a different type of person, deter-
-mining his values. People most value what they most desire, and so those
-ruled by different desires have very different conceptions of what is valuable
-or good, or of what would make them happy. Just which type of desire
-rules an individual’s soul depends on the relative strengths of his desires and
-on the kind of education and socialization he receives. The fundamental
-goal of ethical or political education isn’t to provide knowledge, therefore,
-but to socialize desires, so as to turn people around (to the degree possible)
-from the pursuit of what they falsely believe to be happiness, to the pursuit
-of true happiness (518b–519d).
-
-The famous allegory of the cave illustrates the effects of such education
-(514a). Uneducated people, tethered by their unsocialized appetites, see
-only images of models of the good (shadows cast by puppets on the walls of
-the cave). Such people are not virtuous to any degree, since they act simply
-on their whims.When their appetites are shaped through physical training
-and that mix of reading and writing, dance and song that the Greeks call
-mousikê (musical training), they are released from these bonds and are ruled
-by their socialized appetites.They have at least that level of virtue required
-to act prudently and postpone gratiﬁcation. Plato refers to them as money-
-lovers, because they pursue money as the best means of reliably satisfying
-their appetitive desires in the long term (580d–581a). They see models of
-the good (the puppets that cast the shadows), for stable satisfaction of
-appetitive desires is a sort of good.
-
-Further education, this time in mathematical science, leaves people who
-are eligible for it ruled by their spirited desires. They are honor-lovers, who
-seek success in difﬁcult endeavors and the honor and approval it brings.
-
-They have the true beliefs about virtue required for such success, and hence
-that greater level of virtue Plato calls “political” virtue (430c).
-
-Finally, yet further education in dialectic (a sort of philosophical training
-that is a descendant of the Socratic elenchus) and practical city management
-results in people who are bound only by their rational desires.They are free
-from illusion and see, not mere images of the good, but the good itself.
-
-They are wisdom-lovers or philosophers, who have knowledge rather than
-mere true belief about virtue, and so are fully virtuous.
-Not everyone, however, is able to beneﬁt from all these types of educa-
-tion: there are some at each stage whose desires are too strong for education
-to break.That is why there are producers, guardians, and philosopher-kings
-in the ideal city. That is why, too, these groups can cooperate with one
-another in a just system, where the money-loving producers trade their
-products for the protection provided by the honor-loving guardians and the
-knowledge provided by the wisdom-loving kings, rather than competing
-with them for the very same goods (462e–463b). Nonetheless, everyone in
-this ideal system is enabled to travel as far toward the sun (the good) as edu-
-cation can take him, given the innate strength of his desires.Thus everyone
-comes as close to being fully virtuous, and so to pursuing and achieving
-genuine happiness, as he can. It is this that makes Plato’s city both an ethical
-and a prudential ideal, both maximally just and maximally happy. And
-because it is both, it constitutes a response to the Thrasymachean challenge
-raised anew by Glaucon and Adeimantus in Republic 2. For if maximal jus-
-tice and maximal happiness go together, then it pays, in terms of happiness,
-to be just rather than unjust.[^3]
-
-### THE THEORY OF FORMS
-
-In a number of dialogues, Plato connects the relativist doctrines he
-attributes to the sophists with the metaphysical theory of Heraclitus,
-according to which the perceptible things or characteristics we see around
-us are in constant ﬂux or change—always becoming, never being. In the The-
-aetetus, he argues that Protagoras’ claim that “man is the measure of all
-things” presupposes that the world is in ﬂux; in the Cratylus, he suggests
-that the theory of ﬂux may itself be the result of projecting Protagorean rel-
-ativism onto the world (411b–c). Nonetheless, Plato seems to accept some
-version of this theory himself (see Aristotle, Metaphysics 987a32–4). In
-Republic 5, for example, he characterizes perceptible things and characteris-
-tics as lying “in between what purely is and what in every way is not”
-(478a–479d; see also Timaeus 52a).
-
-The theory of ﬂux clearly exacerbates the problem we noticed earlier
-with the Socratic elenchus. If perceptible things and characteristics are
-always in ﬂux, how can justice and the other virtues be stable forms? How
-can there be stable deﬁnitions of them to serve as correct answers to
-Socrates’ questions? And if there are no stable deﬁnitions, how can there be
-such a thing as ethical knowledge? More generally, if perceptible things and
-characteristics are always in ﬂux, always becoming, how can anything be some-
-thing deﬁnite or determinate? How can one know or say what anything is?
-
-Aristotle tells us that it was reﬂection on these fundamental questions that
-[3]: First-time readers may want to skim over the remainder of the Introduction,
-returning to it for more careful study after they have read the Republic itself.
-led Plato to “separate” the forms from perceptible things and characteristics
-(Aristotle, Metaphysics 987a29–b1).The allegories of the sun and line (Repub-
-lic 507a–511e), which divide reality into the intelligible part and the visible
-(perceptible) part, seem to embody this separation.
-
-Conceived in this way, forms seemed to Plato to offer solutions to the
-metaphysical and epistemological problems to which the elenchus and
-ﬂux give rise. As intelligible objects set apart from the perceptible world,
-they are above the sway of ﬂux, and so available as stable objects of knowl-
-edge; stable meanings or referents for words. As real, mind-independent
-entities, they provide the basis for the deﬁnitions of the virtues that
-Socratic ethics needs.
-
-Like many proposed solutions to philosophical problems, however,
-Plato’s raises new problems of its own. If forms really are separate from the
-world of ﬂux our senses reveal to us, how can we know them? How can our
-words connect with them? If items in the perceptible world really are sepa-
-rate from forms, how can they owe whatever determinate being they have
-to forms? In the Meno, Phaedo, and Phaedrus, Plato answers the ﬁrst of these
-questions by appeal to the doctrine of recollection (anamnêsis). We have
-knowledge of forms through prenatal, direct contact with them; we forget
-this knowledge when our souls become embodied at birth; then we “recol-
-lect” it in this life when our memories are appropriately jogged. He answers
-the second question by saying that items in the world of ﬂux “participate” in
-forms by resembling them.Thus perceptible objects possess the characteris-
-tic of beauty because they resemble the form of beauty, which is itself beau-
-tiful in a special and basic way (see Phaedo 100c, Symposium 210b–211e).
-
-The doctrine of recollection presupposes the immortality of the soul—
-something Plato argues for in Republic 10 and elsewhere (Phaedo 69e ff.,
-Phaedrus 245c ff.). It also presupposes some method of jogging our memo-
-ries in a reliable way.This method is dialectic, which is a descendant of the
-Socratic elenchus. It is introduced in the Republic as having a special bearing
-on ﬁrst principles—a feature it continues to possess in Aristotle (Topics
-101a37–b4)—particularly on those of the mathematical sciences.
-
-The importance of these sciences in Plato’s thought is twofold. First,
-they provided a compelling example of a rich body of precise knowledge
-organized into a deductive system of axioms, deﬁnitions, and theorems—a
-model of what philosophy itself might be. Second, the brilliant mathemati-
-cal treatment of harmony (musical beauty) developed by Pythagoras of
-(a) Samos and his followers (Aristotle, Metaphysics 987a29–8a17) suggested
-role for mathematics within philosophy itself. It opened up the possibility
-of giving precise deﬁnitions in wholly mathematical terms of all character-
-istics, including such apparently vague and evaluative ones as beauty and
-ugliness, justice and injustice, good and evil, and the other things of which
-Socrates sought deﬁnitions (Republic 530d–533e).
-(a) Despite the beneﬁts these sciences promised, however, Plato found
-problem with them: they treat their ﬁrst principles as “absolute” starting
-points, to be accepted without argument (510c–d).Yet if these starting
-points are false, the entire system collapses. It is here that dialectic comes
-in. Dialectic defends these deﬁnitional starting points—it renders them
-“unhypothetical”—not by deriving them from something yet more primi-
-tive (which is impossible, since they are “starting” points), but by defend-
-ing them against all objections, by solving all the aporiai, or problems, to
-which they give rise (534b–c, 437a).With the objections solved, our intel-
-lectual vision is cleared and we are able then to see the forms these deﬁni-
-tions deﬁne in something like the way we did before our souls became
-embodied (540a–b).
-
-In the process of their dialectical defense, the deﬁnitions themselves also
-undergo conceptual revamping, so that their consistency with one
-another—and hence their immunity to dialectical (elenctic) refutation—is
-revealed and assured. This enables the philosopher (to whom the craft of
-dialectic belongs) to knit them all together into a single uniﬁed theory of
-everything that exhibits “their kinship with one another and with the
-nature of what is” (537c). It is this uniﬁed, holistic theory that provides the
-philosopher—and him alone—with genuine knowledge (533d–534a).
-
-The ﬁrst principle of this entire theory, Plato claims, the greatest object
-of knowledge (505a), is the form of the good, which seems to be an ideal
-of rational order or unity expressed in mathematical terms. It is the model
-the philosopher uses to design his ideally just and happy Kallipolis (540a–b).
-
-On a larger scale, it also provides the maker of the cosmos—the Demi-
-urge—with the knowledge he needs to perform his cosmic task (Timaeus
-(29e) ff.). For even the gods are bound by the objective truths and values
-embodied in the forms (Euthyphro 10a ff.).
-
-### FORMS AND THE GOOD
-
-In the discussion of music and poetry in Republic 2, Socrates says: “You and
-I are not poets at present, Adeimantus, but we are founding a city. And it is
-appropriate for the founders to know the patterns on which the poets must
-base their stories, and from which they must not deviate. But they should
-not themselves make up any poems” (378e–379a). Adeimantus responds by
-asking what these patterns for stories about the gods actually are. Socrates’
-lengthy answer may be summed up without much loss as follows: no bad
-images of “what the gods and heroes are like” (377e); only stories that will
-make the guardians “least likely to fear death” (386a); no “terrible and
-frightening names for the underworld” (387b–c); no “lamentations of
-famous men” who have suffered defeat and died (387e); no representation
-of “worthwhile people as overcome by laughter” (388e–389a); no represen-
-tation of gods or heroes as failing “to rule over the pleasures of drink, sex,
-and food for themselves” (389d–e); none of the “headstrong things that pri-
-vate individuals say to their rulers in works of prose or poetry” (390a); no
-imitators except “the pure imitator of the good person” (397d); no musical
-harmonies except the Dorian and Phrygian (399a); no music played on
-ﬂutes, triangular lutes, harps, or no “multi-stringed or polyharmonic
-instruments” (399c); no rhythms except those appropriate to “a life that is
-ordered and courageous” (399d).
-
-The way the philosopher reaches these patterns, moreover, is clear. He
-looks at the effects that various kinds of poetry have on a guardian’s soul.
-
-He determines what kind of soul the guardians should have by looking to
-the role of guardians in the good city (500b–501c, 618b–e). And he deter-
-mines what that role should be by looking to the good itself, since it is only
-through knowing it that he knows any other kind of good at all (534b–c).
-
-The patterns the philosopher reaches in this way are forms. But they are,
-as we have seen, quite unspeciﬁc: they are not detailed blueprints for actual
-poems. All they determine are the features that a good poem must have.The
-same, presumably, is true of the forms of other things. Thus the philoso-
-pher’s pattern of an F simply speciﬁes the features an F must have, or must
-> *lack, if it is to be good.*
-To see more clearly what such a form or pattern is, we turn to the alle-
-gory of the sun:
-
-> What gives truth to the things known and the power to know to the
-> knower is the form of the good. And as the cause of knowledge and
-> truth, you must think of it as an object of knowledge. Both knowledge
-> and truth are beautiful things. But if you are to think correctly, you
-> must think of the good as other and more beautiful than they. In the
-> visible realm, light and sight are rightly thought to be sunlike, but
-> wrongly thought to be the sun. So, here it is right to think of knowl-
-> edge and truth as goodlike, but wrong to think that either of them is
-> the good—for the state of the good is yet more honored. (508e–509a)
-
-The form of the good, then, is something like a self-illuminating object
-that can shed the intelligible analogue of light on other objects of knowl-
-edge—other paradigms—in such a way as to render them intelligible: it is
-an intelligible object that is somehow a condition of the intelligibility of
-other things. This suggests that the “light” the good itself gives off is
-something like rational or logical order, and that it itself is a paradigm of
-such order.
-
-A second side of the sun allegory is about reality and its nature:
-
-> The sun, I think you would say, not only gives visible things the power
-> to be seen but also provides for their coming-to-be, growth, and nour-
-> ishment—although it is not itself coming to be. . . . Therefore, you
-> should also say that not only do the objects of knowledge owe their
-> being known to the good, but their existence and being are also due to
-> it; although the good is not being, but something yet beyond being,
-> superior to it in rank and power. (509b)
-
-Visible things—including the sun—are components of the visible realm.
-But the sun has a very special role therein: without it there would be no
-such realm.The same holds of the form of the good considered as a para-
-digm of rational order: it is a component of the intelligible realm, without
-which there would be no such realm. Hence its superior rank.
-
-The form of the good is a standard or paradigm, then, that enables the
-philosopher to determine what poetical, political, or any other kind of
-goodness is.That is why other types of expertise need philosophy. Consider
-shoemaking, for example.The shoemaker knows how to make a shoe—he
-has access to the form of a shoe (596b). But he does not, qua shoemaker,
-know how to make a good shoe—one that reliably contributes to human
-happiness. For that he must turn to the philosopher, since only he can
-judge the goodness of the cities of which shoemakers, and all other experts,
-must form a part if human happiness is to be reliably achieved. That, and
-the philosopher’s need for the sustenance and protection these experts pro-
-vide, is what makes the good city possible in Plato’s view (369b ff.).
-
-### SPECIALIZATION AND THE STRUCTURE OF KALLIPOLIS
-We might expect that Socrates’ ﬁrst step would be to draft a set of laws for
-Kallipolis. Instead, he focuses almost exclusively on designing a social struc-
-ture that will dispose all the citizens to virtue. The reason for this is ulti-
-mately psychological. Socrates thinks that unless socialization (including
-education) makes people’s appetites and emotions as responsive as possible to
-reason, so that they acquire civic virtue, no system of laws will be effective,
-but that once they have acquired such virtue, legislation by philosopher-
-kings is a routine matter (422e–427d). Put the other way around, he believes
-that the threat posed to political good order by lawless or unnecessary appe-
-tites is the greatest political evil of all. It is this belief that explains so much
-that we are likely to ﬁnd most abhorrent in the Republic, such as the lies of
-the rulers, the critique of the family and private property, and the censorship
-of art. Of more immediate relevance, it is also what explains the sort of labor
-specialization that Socrates claims must be mandatory in Kallipolis.
-
-In Republic 2 through 5, Socrates accepts unique aptitudes—a descriptive
-principle according to which each person is born with a natural aptitude
-for a unique craft (454d, 455e). On the basis of it, he also accepts strong spe-
-cialization—a normative principle requiring everyone in Kallipolis to prac-
-tice exclusively throughout life the unique craft for which he has a natural
-aptitude, on the grounds that better products will be produced in greater
-abundance, ensuring greater well-being (370a–b, 374a–c, 394e, 423c–d,
-433a, 443b–c, 453b). Nonetheless, he eventually seems to abandon these
-views, or to accept them only in a much more restricted form.
-
-What Socrates does ﬁnally accept is the upper-bound doctrine, according to
-which a person’s ruling desires set a unique upper limit to his cognitive
-development. Indeed, this doctrine, as we saw in the allegory of the cave, is
-the very cornerstone of his psychological theory. Moreover, because he
-accepts it, he also accepts weak specialization, which states that each person
-in Kallipolis must practice exclusively, throughout life, whichever of the
-three crafts—producing, guardianship, or ruling—demands of him the
-highest level of cognitive development of which he is capable: money-lovers
-must be producers of some kind; honor-lovers must be guardians; philoso-
-phers must be kings (434a–b).
-(a) That is why, as we learn in Republic 4, strong specialization was merely
-provisional ﬁrst stab at its weaker analogue and is explicitly replaced by it. If
-all the practitioners of the various ordinary crafts exchanged tools, that
-would not do “any great harm to the city” (434a). If the producers, guard-
-ians, and rulers did the same, on the other hand, it would “destroy the city”
-(434a–b). For strong specialization was never anything more than “a sort of
-(a) image of justice” (443c), whereas weak specialization is its very essence:
-soul is just if its three constituent parts (reason, spirit, appetite) obey this
-doctrine, as is a city when its parts (rulers, guardians, producers) do the
-same (434c, 443c–d).
-
-### THE LIES OF THE RULERS
-On a couple of occasions, Socrates tells us that the rulers of Kallipolis will
-often ﬁnd it necessary or useful to lie to the guardians and producers.The
-specter of Thrasymachean false ideology and exploitation is immediately
-raised. In this section, we shall try to determine how large an obstacle it
-poses to the ethical acceptability of Plato’s politics.
-
-At the end of Republic 2, Socrates distinguishes between two types of lies
-or falsehoods. A “true lie,” or a “real lie” (382a, 382c), is a lie told by some-
-one “about the most important things to what is most important in him-
-self” (382a–b). A real lie, therefore, must so mislead reason, which is the
-most important part of the soul, as to prevent the soul from achieving its
-overall good (441e–442c). A “lie in words,” by contrast, is a “sort of imita-
-tion” of a genuine lie (382b–c) that can be used to prevent people from
-doing something bad out of ignorance or insanity (382c–d).
-
-What we have to imagine, then, is something like this: B is attempting
-to do x, falsely believing, because he is mad or ignorant, that it is good to
-do it. A knows that it is not good for B to do x, and so tells B something
-that he himself knows to be false in order to prevent B from doing it.A has
-lied to B. But B does not come to have a false belief about the good in the
-rational part of his soul as a result. Indeed, he is steered toward the good,
-not away from it.
-
-A genuine lie misleads reason about the good. A verbal lie may seem to
-do the same—especially to the person (B in our example) who discovers he
-has been misled. For B, of course, believes that doing x is a good thing to
-do.That is why a verbal lie is a “sort of imitation” of a genuine lie. But it is
-not a pure lie because it does not in fact mislead reason about the good.
-
-The verbal lie comes “after” the genuine lie (382b–c), because A cannot
-reliably lie in words until he knows the form of the good and is in a posi-
-tion to tell genuine lies that mislead reason about it.That is why everyone
-except the philosopher-kings must avoid lies altogether (389b–c).
-
-That the lies of the rulers are all intended to be verbal rather than genu-
-ine is made clear by Socrates’ examples. One of these is the well-known
-myth of the metals (414b–415d). Since it is referred to as “one of those use-
-ful lies we were talking about a while ago” (414b–c), it is clearly intended
-to be verbal. Its function is to tie the members of Kallipolis to one another
-by bonds of love or friendship (415d). But their friendship is in fact well
-founded in mutual self-interest. So, this lie ﬁts our account. Those who
-believe it do not come to believe a genuine lie, for the belief beneﬁts them
-and leads them toward the good, not away from it.
-
-We last hear about the lies of the rulers in Republic 5 in connection with
-the lottery secretly rigged by the rulers to ensure that the best men have
-sex with the best women as frequently as possible (459c–460a). Here again
-the lie that luck, not planning, controls the sexual lottery is intended to be
-verbal, since it is supposed to beneﬁt the city as a whole by preserving the
-quality of the guardian class. One cannot help feeling, however, that Plato’s
-intentions are less than well realized here. For sex is something even
-(a) honor-loving guardians enjoy—that is why getting to have it often is
-reward for them (460b, 468b–c). Consequently, the loss of it, which infe-
-rior guardians suffer in Kallipolis, is a real loss—one, moreover, for which
-they are not compensated.
-
-This defect in Kallipolis is surely a minor one, however. Plato has, for
-contingent historical reasons, simply chosen a less than optimum solution
-to the problem at hand. For he has no objection to sex per se—when
-guardians are beyond the age of reproduction, they are allowed to have sex
-with anyone they want, provided they avoid incest (461b–c). Hence con-
-traception would provide a better solution to the eugenics problem than
-rigged lotteries.
-
-To grasp the philosophical signiﬁcance of all this, we need to draw a few
-rough and ready distinctions. If the subjects in a society falsely believe they
-are happier there than elsewhere, in part because the worldview they have
-been taught is false and known to be false by their rulers, they are the vic-
-tims of false ideology. If, on the other hand, they believe truly that they are
-happier, but do so because they have been taught to accept a worldview
-that is false and known to be false by their rulers, their ideology is falsely sus-
-tained. Finally, if they believe they are happier there and their belief is both
-true and sustained by a true worldview, they and their society are ideology-
-free. Because the lies of the rulers are verbal lies, it is clear that the producers
-and guardians who believe them are not the victims of false ideology. But
-because what they believe is false, and known by the philosopher-kings to
-be false, their ideology is falsely sustained.
-
-The worldviews available to the producers and guardians in Kallipolis are
-intended to be as close to the truth, however, as their natural abilities and
-ruling desires allow. So, although the producers and guardians do not see
-their values or their place in Kallipolis with complete clarity, their vision is
-as undistorted as their natures—fully developed by education—allow.
-
-It is obvious that everyone has a self-interested reason to avoid a society
-in which he is the victim of false ideology. That, after all, is the gist of
-Thrasymachus’ argument. But it is not so clear that everyone has a reason
-to avoid one in which his ideology is falsely sustained—especially if the
-degree of falsehood involved is minimal. Indeed, it may be rational for him
-to prefer such a society to one that is altogether ideology-free. It all depends
-on what his natural abilities are and what he most wants in life. If what he
-most wants is the pleasure of making money or the pleasure of being hon-
-ored, for example, he has every reason to trade some truth in his worldview
-for more of his own favorite pleasure. Indeed, if he lacks the natural ability
-to escape ideology altogether, he may have no choice in the matter.
-
-So, the fact that the ideologies of the guardians and producers are falsely
-(a) sustained while the philosopher-kings are ideology-free seems to be
-strength in Kallipolis, rather than a weakness. There, and only there, do
-honor-lovers and money-lovers get the beneﬁts of the freedom from ideol-
-ogy of which they are themselves incapable.
-
-### PRIVATE LIFE AND PRIVATE PROPERTY
-On his return in Republic 5 to the topic of the way of life appropriate to the
-guardians, Socrates raises the question of how female guardians should be
-trained and educated. Should they reduce the amount of work required of
-the males by sharing their duties, or should they “stay indoors and look
-after the house” (451d)? It is argued by Socrates’ critic, as it has been
-throughout the ages, that a difference in reproductive roles does indeed
-entail a difference in social ones. Socrates sees through this, however, point-
-ing out that it is not clear that one’s role in reproduction has anything to do
-with one’s aptitude for a type of work or occupation (454d–e). Hence, in
-Kallipolis, women will not be conﬁned to the house but trained in the craft
-for which their natural aptitude is highest.
-These provisions are certainly enlightened, even by our own standards,
-but because they form a part of the discussion of guardian women, it may
-seem that they are intended to apply only to female guardians, not to female
-producers. Stray remarks that have clear application to the latter, however,
-suggest that this may not be the case. Specialization, for example, is said to
-apply to “every child, woman, free person, craftsman, ruler, and subject”
-(433d1–5).The implication is that female producers will be trained in the
-occupation for which they are naturally best suited. Since Socrates implies
-that there are women with a natural aptitude for carpentry (454d), explic-
-itly mentions female physicians, and claims that natural aptitudes for each
-occupation are to be found in both sexes (455d–e), it seems that female
-producers are intended to be apprenticed in an appropriate occupation in
-precisely the same way as the males.
-
-It must be conceded, however, that Plato is not a feminist. He shows
-no interest in liberating women as such and implies that they are generally
-inferior to men (455c–d). Moreover, his casual remarks reveal a streak of
-unregenerate sexism and misogyny (431b–c, 469d, 557c, 563b). But these
-are relatively small matters and do not affect the general point that in Kal-
-lipolis men and women with the same natural assets will receive the same
-education and have access to the same careers. Still, Plato is regrettably
-vague about the producers, whether male or female, and has left us some-
-what in the dark on the important question of who will do the house-
-work and rear the children if both parents are employed full-time outside
-the household.
-
-In the case of the guardians, he is more forthcoming, although what he
-describes may not appeal to us. If the guardians and producers were in
-competition for the same social goods, producers would fare very badly,
-since the guardians are armed and trained for warfare in a way that the pro-
-ducers are not (419a). Hence the guardians are segregated from the produc-
-ers and denied both private property and private family life (the objects of
-the producers’ ruling appetitive desires), on the grounds that “if they
-acquire private land, houses, and money themselves, they will be household
-managers and farmers, instead of guardians—hostile masters of the other
-citizens instead of their allies” (417a–b).The result is all the things that are
-likely to estrange us most from the Republic: sex by lottery as part of a state-
-sponsored eugenics program; state-run “rearing pens” for guardian off-
-spring (451c–461e); and the totalitarian domination of the private sphere
-by the public.
-
-Part of what has led Plato in this unattractive direction, to be sure, is his
-profound suspicion of the appetites and the politically destructive potential
-of greed and self-interest. Removing the things that stimulate them there-
-fore becomes appealing. Even so, it is difﬁcult not to see the cure as at least
-as bad as—if not worse than—the disease.
-### CENSORSHIP
-The most important political institutions in Kallipolis, or in any other soci-
-ety, in Socrates’ view, are educational. The “one great thing,” he says, is
-education and upbringing. Hence “what the overseers of our city must
-cling to, not allow to become corrupted without their noticing it, and
-guard against everything, is this: there must be no innovation in musical or
-physical training that goes against the established order” (423d–424c). It
-should come as no surprise, therefore, that having completed the account
-of his own revolutionary educational proposals, and having justiﬁed them
-by showing that they promote both maximal justice and maximal happiness
-in those who receive them, Socrates should turn in Republic 10 to attack his
-competition—the poets and playwrights who were the purveyors of tradi-
-tional Greek ethical education.The philosophers, not the poets, he argues,
-are the true teachers of virtue.
-
-The reasons he gives are these: ﬁrst of all, being able to imitate virtue or
-virtuous people in rhythms and rhymes that please and entertain most peo-
-ple does not qualify one to teach human beings how to live. The poet or
-dramatist writes for a nonspecialist audience. Hence he must employ a con-
-ceptual framework similar to theirs. Character, motive, plot—all must be
-drawn from folk psychology; not, say, from cognitive science or whatever
-the true theory of the soul turns out to be. This means that art represents
-people and their motives and actions, not necessarily as they really are, but
-only as they seem to people without specialist training.The languages of art
-are not, then, the technical mathematics-like language of Platonic truth.
-
-The scientist, or philosopher-king, by contrast, is free of this constraint,
-since his is primarily an audience of fellow specialists (601a–b, 603b–605c).
-
-Second, poetry and drama, like all art, aim to provide a certain character-
-istic pleasure or satisfaction (606b), which on Plato’s view, as on Freud’s, is
-related to repression. Art enables us to satisfy without reproach or shame the
-very desires we must repress in real life.These are characteristically appetitive
-desires, especially sexual ones. This might plausibly be taken to entail that
-representations of ethically good people do not provide the kind of satisfac-
-tion art typically provides and are not what a poet needs to know how to
-produce (604e–605a). If we suppose, as Plato does (485d), that even artistic
-indulgence of repressed desires strengthens them and weakens the repressive
-mechanisms, we will see reason here to mistrust art in general (605b, 606b).
-
-Finally, we must look at the poet himself, and why he writes. Plato is
-conﬁdent that no one would be satisﬁed merely to represent life if he knew
-how to live it well, or could teach others how to do so (599b–601a). If we
-think again of the characteristic pleasure art provides, his view becomes
-intelligible and, again, rather like a view of Freud’s. A life devoted to mak-
-ing things that provide a fantasy satisfaction for unnecessary appetites could
-not rank very highly among lives.
-These arguments are unlikely simply to command our assent. But even if
-we ﬁnd them inconclusive, they extend the right invitation to philosophers
-who think that art has something to teach us about how to live: develop
-metaphysics, epistemology, psychology, and politics, on the basis of which it
-will be clear that the knowledge a good poet or dramatist needs is relevant
-to ethics. It is precisely as such an invitation, indeed, that Plato himself
-seems to understand them (607d–e).
-
-FREEDOM AND AUTONOMY
-A person’s needs, wants, and interests are determined by the natural genetic
-lottery, by education and upbringing, and by actual circumstances. They
-also depend on his beliefs, which in turn depend to some extent on the
-same factors as do his needs, wants, and interests themselves. His real interests
-are those he would form under optimal conditions—those in which his
-needs are satisﬁed, he is neither maltreated nor coerced nor the victim of
-false ideology, and he is as aware as possible of his actual circumstances and
-the real alternatives to them. Happiness is optimal satisfaction of real inter-
-ests in the long term.
-
-The relevance of this picture to the Republic is no doubt clear. For Kal-
-lipolis has emerged as a community intended by Plato to provide optimal
-conditions of the type in question. Each of its members has his needs sat-
-isﬁed, is neither maltreated nor coerced nor the victim of false ideology,
-and is educated and trained so as to develop a conception of the world and
-his place in it that is as close to the truth as his nature—fully developed
-with an eye to his maximal happiness—permits. Each has his ruling desires
-satisﬁed throughout life. Thus each develops his real interests and is made
-really happy.
-
-Even when we bear all that in mind, the Republic is still likely to feel
-authoritarian and repressive. Some of that is due to controversial beliefs we
-bring to it. For example, we are inclined to presuppose that no amount of
-knowledge of the way the world is validates or underwrites a unique con-
-ception of the good (we cannot derive ought from is, value from fact). Dif-
-ferent conceptions are determined by what different individuals happen to
-want or prefer.The state exists, not to judge among these conceptions, but
-to allow each individual to realize his own conception as far as is compatible
-with others’ realizing theirs to the same extent. In this way, the state at once
-respects the individuality of its members and treats them equally. An activity,
-institution, or issue is paradigmatically political for us, indeed, if it pertains
-to disputes between people who may have different conceptions of the
-good, yet must coexist and have dealings with one another in the same com-
-munity or the same world. Individual freedom, on this broadly liberal con-
-ception, is freedom to do what one wants; freedom to live in accordance
-with a conception of the good that is rooted in one’s own desires, prefer-
-ences, or choices. And a state is free to the extent that it limits individual
-freedom only to guarantee equal freedom to all its members. It is not sur-
-prising, then, that when in imagination we project ourselves into Kallipolis,
-we do feel repressed and unfree.
-
-This conception of political freedom is not the only one, however. Free-
-dom to do what we want—instrumental freedom—is certainly important.
-
-But its importance can be undermined by the very desires on which it
-depends. For if we would not have the desires we are free to satisfy had we
-engaged in a process of ideal, rational deliberation, then being free to satisfy
-them seems less worth caring about. If our desires, like those of a drug
-addict, can make us unfree, instrumental freedom seems insufﬁcient for real
-freedom or autonomy.
-
-Perhaps, then, we should think instead in terms of deliberative freedom,
-which is the freedom to have and to satisfy those desires we would choose
-to have if we were aware of the relevant facts, were thinking clearly, and
-were free from distorting inﬂuences. If so, we can see at once that a state
-that guaranteed deliberative freedom might look and feel very repressive to
-someone solely concerned about instrumental freedom. It would very
-much depend on what his desires happened to be. Since the psychological
-and political cost of repression is high, however, we can well imagine that
-an enlightened state, committed to deliberative freedom, would want to
-devote much of its resources to education and training so as to ensure that
-(a) its members are as close to being deliberatively rational as possible. Such
-state would already begin to look a little like Kallipolis, and to share some
-of its priorities.
-
-In any case, it seems clear that Kallipolis is intended to provide its mem-
-bers with as much deliberative freedom as their natures, fully developed in
-optimal conditions, permit:
-
-> Why do you think someone is reproached for menial work or handi-
-> craft? Or shall we say that it is for no other reason than because the
-> best element is naturally weak in him, so that it cannot rule the beasts
-> within him, but can only serve them and learn what ﬂatters them? . . .
-> In order to ensure, then, that someone like that is also ruled by some-
-> thing similar to what rules the best person, we say that he should be
-> the slave of that best person who has the divine ruler within himself. It
-> is not to harm the slave that we say he should be ruled, as Thrasyma-
-> chus supposed was true of all subjects, but because it is better for
-> everyone to be ruled by a divine and wise ruler—preferably one that is
-> his own and that he has inside himself—otherwise one imposed on
-> him from outside, so that we may all be as alike and as friendly as pos-
-> sible, because we are all captained by the same thing. (590c–d; also
-> 395b–c)
-Thus, even if we retain our liberal suspicion about the possibility of a sci-
-ence of values, we might still, by coming to see merit in the idea of deliber-
-(a) ative freedom, also come to see the Republic, not as predominantly
-totalitarian hymn to the beneﬁts of repression and unfreedom, but as an
-attempt to design a city whose members enjoy as much real happiness, and
-as much real freedom, as possible.
+Socrates là nhân vật trung tâm trong Cộng Hòa, cũng như trong hầu hết các tác phẩm của Plato. Trong một số cuộc đối thoại, ông được cho là—và có lẽ là—dựa trên một mức độ nào đó vào nhân vật Socrates thật lịch sử. Những tác phẩm này thường được gọi là các cuộc đối thoại "Socratic" vì lý do này. Tuy nhiên, trong các cuộc đối thoại thời kỳ chuyển tiếp, thời kỳ giữa và thời kỳ muộn, ông được cho là ngày càng trở thành người phát ngôn cho các ý tưởng xa hơn di sản Socratic của Plato.
 
+Trong các cuộc đối thoại Socratic, triết học hầu như chỉ bao gồm việc chất vấn mọi người về các *phẩm chất tốt* (virtue) đạo đức được công nhận theo quy ước. Sự sùng kính là gì (Euthyphro)? Hay lòng can đảm (Laches)? Hay sự tiết độ (Charmides)? Đây là những câu hỏi đặc trưng của ông. Hơn nữa, ông dường như coi là hiển nhiên rằng có những câu trả lời chính xác cho chúng—rằng sự tiết độ, sự sùng kính, lòng can đảm và những thứ còn lại, mỗi thứ đều là một đặc điểm xác định hoặc một *Khái niệm* (eidos, idea). Tuy nhiên, ông không thảo luận về bản chất của những *Khái niệm* này, cũng không phát triển bất kỳ lý thuyết rõ ràng nào về chúng hoặc kiến thức của chúng ta về chúng. Về vấn đề đó, ông cũng không giải thích sự quan tâm của mình đối với các định nghĩa, cũng không biện minh cho tuyên bố của mình rằng nếu chúng ta không biết, ví dụ, *điều đúng* (justice) là gì, thì chúng ta không thể biết liệu nó có phải là *phẩm chất tốt* hay không, liệu nó có làm cho người sở hữu nó hạnh phúc hay không, hay bất cứ điều gì khác có ý nghĩa về nó (Republic 354b–c).
 
+Phong cách đặt câu hỏi của Socrates được gọi (bởi chúng ta, không phải ông) là *elenchus*—từ động từ tiếng Hy Lạp *elengchein*, nghĩa là kiểm tra hoặc bác bỏ. Ông hỏi *điều đúng* là gì. Người đối thoại của ông đưa ra một định nghĩa mà anh ta thật lòng tin là đúng. Socrates bác bỏ định nghĩa này bằng cách chỉ ra rằng nó mâu thuẫn với các niềm tin khác mà người đối thoại chân thành nắm giữ và không muốn từ bỏ.
 
+Trong tình huống lý tưởng, vốn chưa bao giờ thực sự được khắc họa trong các cuộc đối thoại Socratic, quá trình này tiếp tục cho đến khi một định nghĩa thỏa đáng xuất hiện, một định nghĩa không mâu thuẫn với các niềm tin được nắm giữ chân thành khác, và do đó có thể chịu được sự xem xét kỹ lưỡng của *elenchus*.
 
+Các định nghĩa mà Socrates gặp phải trong quá trình kiểm tra người khác đều chứng tỏ là không thỏa đáng. Nhưng thông qua các cuộc kiểm tra này—vốn luôn đồng thời là sự tự kiểm tra (Charmides 166c–d, Hippias Major 298b–c, Protagoras 348c–d)—ông đi đến chấp nhận một số luận điểm tích cực đã chống lại được sự bác bỏ. Trong số này có ba "nghịch lý" Socratic nổi tiếng sau đây:
+
+(a)
+-- (1) Các *phẩm chất tốt (đức hạnh)* được người ta chia ra làm - *điều đúng*, *sự sùng kính*, *lòng can đảm*, và *những thứ còn lại* - thực ra đều hội tụ về sự khôn ngoan hoặc kiến thức, nó có thể xem như một loại *kỹ năng* (technê) hoặc chuyên môn (Charmides 174b–c, Euthydemus 281d–e, Protagoras 329b–334c, 349a–361d). Điều này thường được gọi là *học thuyết thống nhất các phẩm chất tốt*. (Socrates: "Các đức hạnh không phải nhiều, mà là một, nhìn dưới nhiều góc.")
+
+-- (2) "Ai sở hữu tri thức đúng thì tất yếu sẽ sống tốt và hạnh phúc" (Crito 48b, Gorgias 470e).(“Tri thức giúp sống tốt”/ Socrates: "Chỉ cần tri thức là đủ để sống tốt và hạnh phúc)
+
+-- (3) "Không ai làm điều xấu khi biết rõ điều tốt hơn", do đó sự yếu đuối của ý chí là không thể xảy ra (Protagoras 352a–359a).(“Tôi biết điều này là sai, nhưng tôi vẫn làm.”/ Socrates: "Không. Nếu bạn làm, thì bạn chưa thực sự biết.")
+
+Cùng nhau, ba học thuyết này cấu thành một loại chủ nghĩa duy lý đạo đức: chúng ngụ ý rằng những gì chúng ta cần để có *phẩm chất tốt* và hạnh phúc là kiến thức chuyên môn về *kỹ năng*.
+
+Tuy nhiên, mục tiêu của một *elenchus* không chỉ là đạt được các định nghĩa thỏa đáng về các *phẩm chất tốt* hoặc các học thuyết có vẻ nghịch lý về sự yếu đuối của ý chí và *phẩm chất tốt*. Mục đích chính của nó là cải cách đạo đức. Bởi vì Socrates tin rằng, bằng cách chỉ ra cho mọi người về thói ngạo mạn (*hubris*) khi nghĩ rằng họ biết trong khi họ không biết hết, việc dẫn dắt một cuộc đời được kiểm tra bằng *elenchus* làm cho họ hạnh phúc hơn và có *phẩm chất tốt* hơn bất cứ điều gì khác. Việc triết lý quan trọng đối với phúc lợi con người đến mức Socrates sẵn sàng chấp nhận bị hành quyết hơn là từ bỏ nó (Apology 29b–d, 30a, 36c–e, 38a, 41b–c).
+
+Trong các cuộc đối thoại chuyển tiếp, cũng như trong một số cuộc đối thoại sớm hơn, Socrates, với tư cách là hiện thân của triết học chân chính, được đối lập với các nhà ngụy biện (sophists). Họ, phần lớn, là những người theo chủ nghĩa tương đối đạo đức vô liêm sỉ, thu phí, những người nghĩ rằng các giá trị đạo đức dựa trên quy ước; ông là một nhà hiện thực đạo đức trung thực, không thu phí, người nghĩ rằng các *phẩm chất tốt* thực sự là giống nhau cho mọi người ở mọi nơi. Vấn đề tiềm ẩn trong sự tương phản này là nếu mọi người ở các nền văn hóa khác nhau có niềm tin khác nhau về các *phẩm chất tốt*, thì không rõ làm thế nào *elenchus*, vốn dường như dựa hoàn toàn vào những niềm tin như vậy, có thể đạt tới kiến thức về chân lý đạo đức khách quan hoặc phi tương đối văn hóa.
+
+### CỘNG HÒA (THE REPUBLIC)
+Cuốn Cộng Hòa đặc biệt bàn về *phẩm chất tốt* là *điều đúng*(justice) và về việc liệu nó có mang lại lợi tức tốt hơn về mặt hạnh phúc so với việc làm điều *sai*(unjust) hay không. Do đó, nó bắt đầu với một cuộc tìm kiếm đặc trưng kiểu Socratic về định nghĩa của *điều đúng* (331b–c). Polemarchus cung cấp ứng viên đầu tiên: *điều đúng* là "trao cho mỗi người những gì họ đáng được nhận" (331e). Socrates tiến hành kiểm tra định nghĩa này bằng cách thử sự nhất quán của nó với các niềm tin khác mà Polemarchus nắm giữ và không muốn từ bỏ. Khi nó chứng tỏ là không nhất quán với những niềm tin đó, nó được coi là đã bị bác bỏ (335e). Do đó, Socrates hẳn phải giả định rằng một số niềm tin đạo đức được Polemarchus nắm giữ chân thành là đúng, vì sự không nhất quán với các niềm tin sai lầm không đảm bảo cho sự sai lầm. Vấn đề là dường như có rất ít lý do để chấp nhận giả định này.
+
+Người đối thoại tiếp theo của Socrates, Thrasymachus, giải thích lý do tại sao. Ông lập luận rằng những người mạnh hơn trong bất kỳ xã hội nào—những người cai trị—kiểm soát giáo dục và xã hội hóa thông qua luật pháp và thực thi. Nhưng ông nghĩ rằng những người cai trị, giống như mọi người khác, đều tư lợi. Do đó, họ làm ra luật và áp dụng các quy ước—bao gồm cả các quy ước ngôn ngữ—vì lợi ích tốt nhất của chính họ, chứ không phải của những thần dân yếu thế hơn. Chính những quy ước này phần lớn quyết định quan niệm của thần dân về *điều đúng* và các *phẩm chất tốt* khác. Do đó, khi được huấn luyện để tuân theo hoặc vâng lời chúng, một thần dân đang vô tình chấp nhận một hệ tư tưởng—một bộ quy tắc về giá trị và hành vi—phục vụ lợi ích của người cai trị, thay vì của chính anh ta. Kết quả là, Thrasymachus định nghĩa *điều đúng* không phải như những thần dân đã được xã hội hóa như Socrates và Polemarchus nghĩ (một cái gì đó thực sự cao quý và có giá trị thúc đẩy hạnh phúc của chính họ), mà là cái thực sự diễn ra ở tất cả các thành phố: lợi ích của *kẻ mạnh hơn*.
+
+Như trong trường hợp của Polemarchus, Socrates lại sử dụng *elenchus* để cố gắng bác bỏ Thrasymachus. Nhưng những nỗ lực của ông không được thấy là hoàn toàn thỏa đáng, bởi chính Thrasymachus hoặc bởi các người đối thoại khác (350d–e, 357a–b, 358b–c). Và chúng ta có thể thấy tại sao: bằng cách lập luận rằng các niềm tin đạo đức là một sản phẩm xã hội bị nhiễm độc về mặt hệ tư tưởng, Thrasymachus đã làm suy yếu hoàn toàn *elenchus*. Ông ta có thể bị Socrates làm cho rối trí, nhưng lý thuyết của ông ta là bất khả xâm phạm trước sự bác bỏ kiểu *elenchus* (như Thrasymachus chỉ ra tại 349a).
+
+Bởi vì sự bác bỏ kiểu *elenchus* viện dẫn đến các ý tưởng bị nhiễm độc về mặt hệ tư tưởng để chống lại lý thuyết của ông, nhưng lý thuyết của ông khẳng định rằng những ý tưởng này không có giá trị.
+
+Đó là lý do tại sao Plato để Socrates từ bỏ *elenchus* trong các quyển tiếp theo và cố gắng trả lời Thrasymachus (người có quan điểm được Glaucon và Adeimantus tiếp quản) bằng cách phát triển một sự bảo vệ tích cực cho *điều đúng* của riêng mình.
+
+Điều Thrasymachus làm là:
+- Ông không tranh cãi trong đạo đức thông thường,\
+- mà **phủ nhận "đạo đức thông thường có quyền làm trọng tài chân lý"**.
+
+### LẬP LUẬN CỦA CỘNG HÒA TRONG PHÁC THẢO
+Ở trung tâm sự bảo vệ của Socrates đối với *điều đúng* là các vua-triết gia—những người hợp nhất quyền lực chính trị và thẩm quyền với kiến thức triết học về *Khái niệm* siêu việt, bất biến của cái tốt (cái tốt tự thân)—và thành phố lý tưởng mà họ cai trị, Kallipolis (tiếng Hy Lạp nghĩa là "thành phố đẹp" hoặc "thành phố cao quý"). Bởi vì kiến thức này dựa trên toán học và khoa học, như Socrates lập luận, nó không qua trung gian của các khái niệm về tốt và xấu, *đúng* và *sai* do quy ước kiểm soát. Do đó, nó không bị ảnh hưởng bởi sự bóp méo của quyền lực hoặc hệ tư tưởng, và vì thế miễn nhiễm với thách thức mà Thrasymachus đặt ra cho *elenchus*.
+
+Điều mà các vua-triết gia làm là xây dựng một hệ thống chính trị—bao gồm chủ yếu là một hệ thống xã hội hóa và giáo dục—sẽ phân phối lợi ích từ kiến thức chuyên môn của họ về cái tốt cho toàn thể công dân. Hệ thống mà họ xây dựng dựa trên lý thuyết của Plato về linh hồn hay tâm trí (*psychê*), nơi cư trú của ý thức, cảm xúc, ham muốn và việc ra quyết định. Theo lý thuyết này, có ba loại ham muốn khác nhau về cơ bản: những ham muốn thuộc về *dục vọng bản năng*(appetite) đối với thức ăn, đồ uống, tình dục và tiền bạc để có được chúng; những ham muốn thuộc về *dục vọng cảm xúc*(spirit) đối với danh dự, chiến thắng và danh tiếng tốt; và những ham muốn thuộc về *dục vọng suy nghĩ*(reason) đối với kiến thức và chân lý (437b ff., 580d ff.).
+
+Mỗi loại ham muốn này "cai trị" trong linh hồn của một loại người khác nhau, quyết định các giá trị của người đó. Mọi người coi trọng nhất những gì họ khao khát nhất, và do đó những người bị cai trị bởi các ham muốn khác nhau có những quan niệm rất khác nhau về những gì là có giá trị hoặc tốt, hoặc về những gì sẽ làm họ hạnh phúc. Chính xác loại ham muốn nào cai trị linh hồn của một cá nhân phụ thuộc vào sức mạnh tương đối của các ham muốn của người đó và vào loại giáo dục và xã hội hóa mà người đó nhận được. Do đó, mục tiêu cơ bản của giáo dục đạo đức hoặc chính trị không phải là cung cấp kiến thức, mà là "xã hội hóa và tái định hướng dục vọng", để xoay chuyển con người (ở mức độ có thể) từ việc theo đuổi cái mà họ tin sai lầm là hạnh phúc, sang việc theo đuổi hạnh phúc đích thực (518b–519d).
+
+Dụ ngôn nổi tiếng về cái hang minh họa những tác động của sự giáo dục như vậy (514a). Những người không được giáo dục, bị trói buộc bởi những *ham muốn* chưa được xã hội hóa của họ, chỉ nhìn thấy hình ảnh của các mô hình về cái tốt (những cái bóng do các con rối chiếu lên vách hang). Những người như vậy không có *phẩm chất tốt* ở bất kỳ mức độ nào, vì họ hành động đơn giản theo ý thích bất chợt của mình.
+
+Giáo dục thể chất + mousikê: Khi *ham muốn* của họ được thuần hóa thông qua rèn luyện thể chất và sự kết hợp của đọc và viết, khiêu vũ và ca hát mà người Hy Lạp gọi là *mousikê* (rèn luyện âm nhạc), họ được giải thoát khỏi những xiềng xích này và được cai trị bởi những *ham muốn* đã được xã hội hóa. Họ hình thành mức độ *phẩm chất tốt* cần thiết để hành động thận trọng và trì hoãn sự thỏa mãn. Plato gọi họ là những người yêu tiền bạc (money-lovers), bởi vì họ theo đuổi tiền bạc như phương tiện ổn định nhất để thỏa mãn các *ham muốn* một cách đáng tin cậy trong dài hạn (580d–581a). Họ nhìn thấy các mô hình của cái tốt (những con rối chiếu ra cái bóng), vì sự thỏa mãn ổn định các *ham muốn* là một loại cái tốt.
+
+Giáo dục toán học: Giáo dục cao hơn, lần này là về khoa học toán học, để lại những người đủ điều kiện tiếp nhận nó được cai trị bởi những ham muốn thuộc về *dục vọng cảm xúc* của họ. Họ là những người yêu danh dự, những người tìm kiếm thành công trong các nỗ lực khó khăn và danh dự cũng như sự tán thành mà nó mang lại. Họ có những niềm tin đúng đắn về *phẩm chất tốt* cần thiết cho thành công như vậy, và do đó có mức độ *phẩm chất tốt* lớn hơn mà Plato gọi là *phẩm chất tốt* "chính trị" (430c).
+
+Cuối cùng, giáo dục cao hơn nữa về biện chứng (một loại rèn luyện triết học là hậu duệ của *elenchus* Socratic) và quản lý thành phố thực tế dẫn đến những người chỉ bị ràng buộc bởi những ham muốn thuộc về *suy nghĩ* của họ. Họ được tự do khỏi ảo tưởng và nhìn thấy, không phải chỉ là hình ảnh của cái tốt, mà là cái tốt tự thân. Họ là những người yêu sự khôn ngoan hay các triết gia, những người có kiến thức thay vì chỉ là niềm tin đúng về *phẩm chất tốt*, và do đó hoàn toàn có *phẩm chất tốt*.
+
+Tuy nhiên, không phải ai cũng có khả năng hưởng lợi từ tất cả các loại hình giáo dục này: có một số người ở mỗi giai đoạn mà ham muốn của họ quá mạnh để giáo dục có thể phá vỡ. Đó là lý do tại sao có những người sản xuất, những người hộ vệ và những vua-triết gia trong thành phố lý tưởng. Đó cũng là lý do tại sao các nhóm này có thể hợp tác với nhau trong một hệ thống *đúng đắn*(just system), nơi những người sản xuất yêu tiền trao đổi sản phẩm của họ để lấy sự bảo vệ do những người hộ vệ yêu danh dự cung cấp và kiến thức do các vị vua yêu sự khôn ngoan cung cấp, thay vì cạnh tranh với họ để giành lấy cùng một loại hàng hóa (462e–463b). Tuy nhiên, mọi người trong hệ thống lý tưởng này đều được tạo điều kiện để đi xa về phía mặt trời (cái tốt) nhất mà giáo dục có thể đưa họ đi, dựa trên sức mạnh bẩm sinh của những ham muốn của họ. Do đó, mọi người đều đến gần nhất có thể với việc hoàn toàn có *phẩm chất tốt*, và do đó theo đuổi và đạt được hạnh phúc đích thực. Chính điều này làm cho thành phố của Plato trở thành một lý tưởng vừa về đạo đức vừa về sự thận trọng, vừa *đúng đắn* tối đa vừa hạnh phúc tối đa. Và bởi vì nó là cả hai, nó cấu thành một câu trả lời cho thách thức kiểu Thrasymachus được Glaucon và Adeimantus nêu lại trong Cộng Hòa quyển 2. Bởi vì nếu sự *đúng đắn* tối đa và hạnh phúc tối đa đi cùng nhau, thì việc sống *đúng* sẽ có lợi hơn, xét về mặt hạnh phúc, so với sống *sai*.[^3]
+
+### LÝ THUYẾT VỀ CÁC KHÁI NIỆM (FORMS)
+
+Trong một số cuộc đối thoại, Plato kết nối các học thuyết tương đối mà ông gán cho các nhà ngụy biện (Sophists) với lý thuyết siêu hình của Heraclitus, theo đó những sự vật hoặc đặc điểm mà chúng ta thấy xung quanh luôn ở trong trạng thái dòng chảy hoặc thay đổi liên tục—luôn luôn trở thành thứ khác, không bao giờ cố định. Trong tác phẩm *Theaetetus*, ông lập luận rằng tuyên bố của nhà ngụy biện Protagoras rằng "con người là thước đo của vạn vật" giả định rằng thế giới đang ở trong dòng chảy; trong *Cratylus*, ông gợi ý rằng bản thân lý thuyết về dòng chảy có thể là kết quả của việc phóng chiếu chủ nghĩa tương đối của Protagoras lên thế giới (411b–c). Tuy nhiên, dường như chính Plato cũng chấp nhận một phiên bản nào đó của lý thuyết này (xem Aristotle, Metaphysics 987a32–4). Ví dụ, trong Cộng Hòa quyển 5, ông mô tả các sự vật và đặc điểm có thể cảm nhận được nằm "ở giữa cái thuần túy là và cái hoàn toàn không là" (478a–479d; xem thêm Timaeus 52a).
+
+Lý thuyết dòng chảy rõ ràng làm trầm trọng thêm vấn đề chúng ta đã nhận thấy trước đó với *elenchus* của Socrates. Nếu các sự vật và đặc điểm luôn luôn ở trong dòng chảy, luôn biến đổi, làm thế nào *điều đúng* và các *phẩm chất tốt* có thể là những *Khái niệm* (forms) ổn định? Làm thế nào có thể có những định nghĩa ổn định về chúng để làm câu trả lời chính xác cho các câu hỏi của Socrates? Và nếu không có định nghĩa ổn định, làm thế nào có thể có thứ gọi là kiến thức đạo đức? Tổng quát hơn, nếu các sự vật và đặc điểm luôn ở trong dòng chảy, luôn luôn biến đổi, thì làm thế nào có thể là một cái gì đó xác định? Làm thế nào người ta có thể biết hoặc nói điều gì là gì? Aristotle cho chúng ta biết rằng chính sự suy ngẫm về những câu hỏi cơ bản này đã dẫn Plato đến việc "tách biệt" các *Khái niệm* khỏi các sự vật và đặc điểm có thể cảm nhận được (Aristotle, Metaphysics 987a29–b1). Các dụ ngôn về mặt trời và đoạn thẳng (Republic 507a–511e), vốn chia thực tại thành phần vô hình (có thể nhận thức bằng trí tuệ) và phần nhìn thấy được (có thể cảm nhận bằng giác quan), dường như thể hiện sự tách biệt này.
+
+Được quan niệm theo cách này, các *Khái niệm* đối với Plato dường như đưa ra giải pháp cho các vấn đề siêu hình và nhận thức luận mà *elenchus* và dòng chảy gây ra. Là những đối tượng vô hình được đặt tách biệt khỏi thế giới dòng chảy, chúng đứng ngoài của dòng chảy, và do đó sẵn có như những đối tượng ổn định của kiến thức; những ý nghĩa hoặc tham chiếu ổn định cho từ ngữ. Là những thực thể có thực, độc lập với tâm trí, chúng cung cấp cơ sở cho các định nghĩa về các *phẩm chất tốt* mà đạo đức học Socratic cần.
+
+Tuy nhiên, giống như nhiều giải pháp được đề xuất cho các vấn đề triết học, giải pháp của Plato lại nảy sinh những vấn đề mới của riêng nó. (1) Nếu các *Khái niệm* đứng ngoài dòng chảy mà các giác quan của chúng ta cảm nhận được, làm thế nào chúng ta có thể biết chúng? Làm thế nào lời nói của chúng ta có thể kết nối với chúng? (2) Nếu các mục trong thế giới hữu hình thực sự tách biệt khỏi các *Khái niệm*, làm thế nào xác định sự hiện hữu có liên hệ đến các *Khái niệm*? Trong *Meno*, *Phaedo* và *Phaedrus*, Plato trả lời câu hỏi đầu tiên bằng cách thêm học thuyết *hồi tưởng* (*anamnêsis*). Chúng ta có kiến thức về các *Khái niệm* thông qua sự tiếp xúc trực tiếp trước khi sinh với chúng; chúng ta quên kiến thức này khi linh hồn chúng ta tái sinh; sau đó chúng ta "hồi tưởng" lại nó trong cuộc sống này khi ký ức của chúng ta được khơi gợi một cách thích hợp. Ông trả lời câu hỏi thứ hai bằng cách nói rằng các mục trong thế giới dòng chảy "tham dự"(methexis) vào các *Khái niệm* bằng cách giống với chúng. Do đó, các đối tượng có thể cảm nhận được sở hữu đặc điểm của cái đẹp bởi vì chúng giống với *Khái niệm* về cái đẹp, cái mà tự thân nó đẹp theo một cách đặc biệt và cơ bản (xem Phaedo 100c, Symposium 210b–211e) (Forms = chuẩn mực/Sự vật = bản sao không hoàn hảo).
+
+Học thuyết hồi tưởng cần giả định về sự bất tử của linh hồn—điều mà Plato lập luận trong Cộng Hòa quyển 10 và những nơi khác (Phaedo 69e ff., Phaedrus 245c ff.). Học thuyết này cũng giả định "phải có một phương pháp đáng tin cậy để “đánh thức” ký ức của chúng ta". Phương pháp này là *biện chứng*, vốn là hậu duệ của *phép vặn hỏi Socrates* (elenchus). Trong Cộng hòa, phép biện chứng được giới thiệu như có một tác động đặc biệt đến các "nguyên lý đầu tiên"—một đặc điểm mà nó tiếp tục với nhà toán học Aristotle (Topics 101a37–b4)—đặc biệt là đối với các nguyên lý của các ngành khoa học toán học.
+
+Những ngành khoa học này trong tư tưởng của Plato có hai đặc điểm. Thứ nhất, chúng cung cấp một ví dụ thuyết phục về "một khối lượng phong phú kiến thức chính xác được tổ chức thành một hệ thống suy diễn gồm các tiên đề, định nghĩa và định lý—một mô hình về những gì chính triết học có thể trở thành". Thứ hai, sự xử lý toán học rực rỡ về hòa âm (vẻ đẹp âm nhạc) được phát triển bởi Pythagoras xứ Samos và những người theo ông (Aristotle, Metaphysics 987a29–8a17) gợi ý một vai trò cho toán học ngay trong triết học. Nó mở ra khả năng đưa ra các định nghĩa chính xác bằng các thuật ngữ hoàn toàn toán học về tất cả các đặc điểm, bao gồm cả những thứ có vẻ mơ hồ và mang tính đánh giá như cái đẹp và cái xấu, *điều đúng* và *điều sai*, thiện và ác, và những thứ khác mà Socrates tìm kiếm định nghĩa (Republic 530d–533e).
+
+(a) Tuy nhiên, mặc dù các khoa học này hứa hẹn nhiều lợi ích, Plato đã tìm thấy một vấn đề với chúng: chúng coi các *nguyên lý đầu tiên* của mình là những điểm khởi đầu "tuyệt đối", được chấp nhận mà không cần lập luận (510c–d). Tuy nhiên, nếu những điểm khởi đầu này sai, toàn bộ hệ thống sẽ sụp đổ.
+Chính ở đây, biện chứng đi vào. Phép biện chứng bảo vệ các điểm khởi đầu mang tính định nghĩa này —
+khiến chúng không còn là các giả định đơn thuần (unhypothetical) —
+không phải bằng cách suy chúng ra từ những nguyên lý còn cơ bản hơn
+(điều này là bất khả, vì chúng vốn đã là “điểm khởi đầu”),
+mà đối mặt và giải quyết mọi phản đối, bằng cách giải quyết tất cả các nan đề (aporiai) mà các nguyên lý ấy gây ra.(534b–c, 437a). Khi các sự phản đối được giải quyết, tầm nhìn trí tuệ của chúng ta được làm sáng tỏ và sau đó chúng ta có thể nhìn thấy các *Khái niệm* mà các định nghĩa này xác định theo một cách nào đó giống như cách chúng ta đã làm trước khi linh hồn chúng ta trở nên nhập thể (540a–b).
+
+Trong quá trình bảo vệ biện chứng của chúng, bản thân các định nghĩa cũng trải qua quá trình cải tiến về mặt khái niệm, để sự nhất quán của chúng với nhau—và do đó khả năng miễn nhiễm của chúng đối với sự bác bỏ biện chứng (elenctic)—được tiết lộ và đảm bảo. Điều này cho phép triết gia (người sở hữu *kỹ năng* biện chứng) đan kết tất cả chúng lại với nhau thành một lý thuyết thống nhất duy nhất về mọi thứ, thể hiện "mối quan hệ họ hàng của chúng với nhau và với bản chất của những gì là" (537c). Chính lý thuyết toàn diện, thống nhất này cung cấp cho triết gia—và chỉ một mình ông—kiến thức chân chính (533d–534a).
+
+Nguyên lý đầu tiên của toàn bộ lý thuyết này, Plato tuyên bố, đối tượng lớn nhất của kiến thức (505a), là *Khái niệm* về cái tốt, cái dường như là một lý tưởng về trật tự hợp lý hoặc sự thống nhất được biểu thị bằng các thuật ngữ toán học. Nó là mô hình mà triết gia sử dụng để thiết kế Kallipolis hạnh phúc và *đúng đắn* một cách lý tưởng của mình (540a–b).
+
+Ở quy mô lớn hơn, nó cũng cung cấp cho người tạo ra vũ trụ—Đấng Demiurge—kiến thức ông cần để thực hiện nhiệm vụ vũ trụ của mình (Timaeus 29e ff.). Vì ngay cả các vị thần cũng bị ràng buộc bởi những chân lý và giá trị khách quan được thể hiện trong các *Khái niệm* (Euthyphro 10a ff.).
+
+### CÁC KHÁI NIỆM VÀ CÁI TỐT
+
+Trong cuộc thảo luận về âm nhạc và thơ ca ở Cộng Hòa quyển 2, Socrates nói: "Hiện tại tôi và anh không phải là nhà thơ, Adeimantus, mà chúng ta đang thành lập một thành phố. Và việc những người sáng lập biết các khuôn mẫu mà các nhà thơ phải dựa vào đó để xây dựng câu chuyện của họ, và không được đi chệch khỏi đó, là phù hợp. Nhưng bản thân họ không nên bịa ra bất kỳ bài thơ nào" (378e–379a). Adeimantus đáp lại bằng cách hỏi những khuôn mẫu này cho các câu chuyện về các vị thần thực sự là gì. Câu trả lời dài của Socrates có thể được tóm tắt mà không mất đi nhiều ý nghĩa như sau: không có hình ảnh xấu về "các vị thần và anh hùng là như thế nào" (377e); chỉ những câu chuyện sẽ làm cho những người hộ vệ "ít sợ cái chết nhất" (386a); không có "những cái tên khủng khiếp và đáng sợ cho thế giới bên kia" (387b–c); không có "những lời than khóc của những người đàn ông nổi tiếng" đã chịu thất bại và chết (387e); không mô tả "những người đáng giá bị khuất phục bởi tiếng cười" (388e–389a); không mô tả các vị thần hoặc anh hùng là thất bại "trong việc cai trị các thú vui uống rượu, tình dục và ăn uống cho chính họ" (389d–e); không có bất kỳ "điều cứng đầu nào mà các cá nhân nói với những người cai trị của họ trong các tác phẩm văn xuôi hoặc thơ ca" (390a); không có người bắt chước ngoại trừ "người bắt chước thuần túy của người tốt" (397d); không có hòa âm âm nhạc nào ngoại trừ Dorian và Phrygian (399a); không có nhạc chơi trên sáo, đàn luýt tam giác, đàn hạc, hoặc không có "nhạc cụ nhiều dây hoặc đa âm" (399c); không có nhịp điệu nào ngoại trừ những nhịp điệu phù hợp với "một cuộc sống có trật tự và can đảm" (399d).
+
+Hơn nữa, cách thức triết gia đạt được những khuôn mẫu này là rõ ràng. Ông nhìn vào những tác động mà các loại thơ ca khác nhau có đối với linh hồn của một người hộ vệ. Ông xác định loại linh hồn mà những người hộ vệ nên có bằng cách nhìn vào vai trò của những người hộ vệ trong thành phố tốt (500b–501c, 618b–e). Và ông xác định vai trò đó nên là gì bằng cách nhìn vào cái tốt tự thân, vì chỉ thông qua việc biết nó, ông mới biết bất kỳ loại cái tốt nào khác (534b–c).
+
+Các khuôn mẫu mà triết gia đạt được theo cách này là các *Khái niệm*. Nhưng như chúng ta đã thấy, chúng khá không cụ thể: chúng không phải là bản thiết kế chi tiết cho các bài thơ thực tế. Tất cả những gì chúng xác định là các đặc điểm mà một bài thơ hay phải có. Có lẽ, điều tương tự cũng đúng với các *Khái niệm* của những thứ khác. Do đó, khuôn mẫu của triết gia về một F chỉ đơn giản quy định các tính năng mà một F phải có, hoặc phải thiếu, nếu nó muốn trở nên tốt.
+
+Để thấy rõ hơn một *Khái niệm* hay khuôn mẫu như vậy là gì, chúng ta chuyển sang dụ ngôn về mặt trời:
+
+> Điều mang lại chân lý cho những thứ được biết và sức mạnh để biết cho người biết là *Khái niệm* về cái tốt. Và vì là nguyên nhân của kiến thức và chân lý, anh phải nghĩ về nó như một đối tượng của kiến thức. Cả kiến thức và chân lý đều là những điều đẹp đẽ. Nhưng nếu anh muốn suy nghĩ chính xác, anh phải nghĩ về cái tốt là cái khác và đẹp hơn chúng. Trong lĩnh vực hữu hình, ánh sáng và thị giác được coi là giống mặt trời là đúng, nhưng bị coi là mặt trời là sai. Vì vậy, ở đây, việc coi kiến thức và chân lý là giống cái tốt là đúng, nhưng nghĩ rằng một trong hai chúng là cái tốt là sai—vì trạng thái của cái tốt còn được tôn vinh hơn nữa. (508e–509a)
+
+Vậy thì, *Khái niệm* về cái tốt là một cái gì đó giống như một đối tượng tự chiếu sáng có thể tỏa ra cái tương đương vô hình của ánh sáng lên các đối tượng khác của kiến thức—các hình mẫu khác—theo cách làm cho chúng trở nên có thể hiểu được (khả tri): nó là một đối tượng vô hình mà bằng cách nào đó là điều kiện cho tính khả tri của những thứ khác. Điều này gợi ý rằng "ánh sáng" mà cái tốt tự thân tỏa ra là một cái gì đó giống như trật tự hợp lý hoặc logic, và rằng chính nó là một hình mẫu của trật tự như vậy.
+
+Một khía cạnh thứ hai của dụ ngôn mặt trời là về thực tại và bản chất của nó:
+
+> Tôi nghĩ anh sẽ nói rằng mặt trời không chỉ mang lại cho những vật hữu hình sức mạnh để được nhìn thấy mà còn cung cấp cho sự hình thành, tăng trưởng và nuôi dưỡng của chúng—mặc dù bản thân nó không phải là sự hình thành. . . . Do đó, anh cũng nên nói rằng không chỉ các đối tượng của kiến thức nợ sự được biết của chúng đối với cái tốt, mà sự tồn tại và hiện hữu của chúng cũng là do nó; mặc dù cái tốt không phải là hiện hữu, mà là một cái gì đó vượt ra ngoài hiện hữu, vượt trội hơn nó về cấp bậc và sức mạnh. (509b)
+
+Các vật hữu hình—bao gồm cả mặt trời—là các thành phần của thế giới hữu hình/nhìn thấy. Nhưng mặt trời có một vai trò rất đặc biệt trong đó: nếu không có nó thì sẽ không có thế giới như vậy. Điều tương tự cũng đúng với *Khái niệm* về cái tốt được coi là một hình mẫu của trật tự hợp lý: nó là một thành phần của thế giới vô hình, mà nếu không có nó thì sẽ không có thế giới như vậy. Do đó có cấp bậc vượt trội của nó.
+
+Vậy thì, *Khái niệm* về cái tốt là một tiêu chuẩn hoặc hình mẫu cho phép triết gia xác định sự tốt đẹp về thi ca, chính trị, hoặc bất kỳ loại tốt đẹp nào khác là gì. Đó là lý do tại sao các loại chuyên môn khác cần triết học. Hãy xem xét việc đóng giày chẳng hạn. Người thợ đóng giày biết cách làm một chiếc giày—anh ta có quyền truy cập vào *Khái niệm* của một chiếc giày (596b). Nhưng với tư cách là thợ đóng giày, anh ta không biết cách làm một chiếc giày tốt—một chiếc giày đóng góp một cách đáng tin cậy vào hạnh phúc của con người. Vì điều đó, anh ta phải quay sang triết gia, vì chỉ có ông mới có thể đánh giá sự tốt đẹp của các thành phố mà những người thợ đóng giày, và tất cả các chuyên gia khác, phải là một phần trong đó nếu hạnh phúc của con người muốn đạt được một cách đáng tin cậy. Điều đó, và nhu cầu của triết gia đối với sự nuôi dưỡng và bảo vệ mà các chuyên gia này cung cấp, là những gì làm cho thành phố tốt trở nên khả thi theo quan điểm của Plato (369b ff.).
+
+### CHUYÊN MÔN HÓA VÀ CẤU TRÚC CỦA KALLIPOLIS
+Chúng ta có thể mong đợi rằng bước đầu tiên của Socrates sẽ là soạn thảo một bộ luật cho Kallipolis. Thay vào đó, ông tập trung gần như hoàn toàn vào việc thiết kế một cấu trúc xã hội sẽ định hướng tất cả công dân đến *phẩm chất tốt*. Lý do cho điều này cuối cùng là về mặt tâm lý. Socrates nghĩ rằng trừ khi xã hội hóa (bao gồm cả giáo dục) làm cho các *ham muốn* và cảm xúc của mọi người phản ứng tốt nhất có thể với *suy nghĩ*, để họ có được *phẩm chất tốt* công dân, thì không hệ thống luật pháp nào sẽ hiệu quả, nhưng một khi họ đã có được *phẩm chất tốt* như vậy, việc lập pháp bởi các vua-triết gia là một vấn đề thường lệ (422e–427d). Nói ngược lại, ông tin rằng mối đe dọa do các *ham muốn* vô luật pháp hoặc không cần thiết gây ra cho trật tự chính trị tốt là tội ác chính trị lớn nhất. Chính niềm tin này giải thích rất nhiều điều mà chúng ta có khả năng thấy ghê tởm nhất trong Cộng Hòa, chẳng hạn như những lời nói dối của những người cai trị, sự phê phán gia đình và tài sản tư nhân, và sự kiểm duyệt nghệ thuật. Liên quan trực tiếp hơn, nó cũng là những gì giải thích loại chuyên môn hóa lao động mà Socrates tuyên bố phải là bắt buộc trong Kallipolis.
+
+Trong Cộng Hòa quyển 2 đến 5, Socrates chấp nhận những năng khiếu độc nhất—một nguyên tắc mô tả theo đó mỗi người được sinh ra với một năng khiếu tự nhiên cho một *kỹ năng* độc nhất (454d, 455e). Trên cơ sở đó, ông cũng chấp nhận chuyên môn hóa mạnh—một nguyên tắc quy phạm yêu cầu mọi người trong Kallipolis phải thực hành độc quyền suốt đời *kỹ năng* độc nhất mà họ có năng khiếu tự nhiên, với lý do rằng các sản phẩm tốt hơn sẽ được sản xuất với số lượng lớn hơn, đảm bảo phúc lợi lớn hơn (370a–b, 374a–c, 394e, 423c–d, 433a, 443b–c, 453b). Tuy nhiên, cuối cùng ông dường như từ bỏ những quan điểm này, hoặc chỉ chấp nhận chúng dưới một hình thức hạn chế hơn nhiều.
+
+Điều mà Socrates cuối cùng chấp nhận là học thuyết giới hạn trên, theo đó những ham muốn thống trị của một người đặt ra một giới hạn trên duy nhất cho sự phát triển nhận thức của người đó. Thật vậy, học thuyết này, như chúng ta đã thấy trong dụ ngôn cái hang, chính là nền tảng của lý thuyết tâm lý học của ông. Hơn nữa, bởi vì ông chấp nhận nó, ông cũng chấp nhận chuyên môn hóa yếu, nói rằng mỗi người trong Kallipolis phải thực hành độc quyền, suốt đời, bất kỳ *kỹ năng* nào trong ba *kỹ năng*—sản xuất, hộ vệ, hoặc cai trị—đòi hỏi ở họ mức độ phát triển nhận thức cao nhất mà họ có khả năng: những người yêu tiền phải là những người sản xuất thuộc loại nào đó; những người yêu danh dự phải là những người hộ vệ; các triết gia phải là vua (434a–b).
+
+(a) Đó là lý do tại sao, như chúng ta biết được trong Cộng Hòa quyển 4, chuyên môn hóa mạnh chỉ là bước đầu tiên tạm thời cho sự tương tự yếu hơn của nó và được thay thế rõ ràng bởi nó. Nếu tất cả những người hành nghề của các *kỹ năng* thông thường khác nhau trao đổi công cụ, điều đó sẽ không gây ra "bất kỳ tác hại lớn nào cho thành phố" (434a). Mặt khác, nếu những người sản xuất, người hộ vệ và người cai trị làm điều tương tự, thì điều đó sẽ "phá hủy thành phố" (434a–b). Vì chuyên môn hóa mạnh chưa bao giờ là gì khác hơn "một loại hình ảnh của *điều đúng*" (443c), trong khi chuyên môn hóa yếu là bản chất của nó: một linh hồn *đúng đắn*(just soul) nếu ba phần cấu thành của nó (suy nghĩ, cảm xúc, ham muốn) tuân theo học thuyết này, cũng giống như một thành phố *đúng đắn* khi các bộ phận của nó (người cai trị, người hộ vệ, người sản xuất) làm như vậy (434c, 443c–d).
+
+### NHỮNG LỜI NÓI DỐI CỦA NGƯỜI CAI TRỊ
+Trong một vài dịp, Socrates nói với chúng ta rằng những người cai trị của Kallipolis thường sẽ thấy cần thiết hoặc hữu ích khi nói dối với những người hộ vệ và người sản xuất. Bóng ma của hệ tư tưởng sai lầm và sự bóc lột kiểu Thrasymachus ngay lập tức được nêu lên. Trong phần này, chúng ta sẽ cố gắng xác định mức độ trở ngại mà nó gây ra cho sự chấp nhận về mặt đạo đức đối với chính trị của Plato.
+
+Ở cuối Cộng Hòa quyển 2, Socrates phân biệt giữa hai loại nói dối hoặc sai lầm. Một "lời nói dối thực sự", hay một "lời nói dối thật" (382a, 382c), là một lời nói dối được kể bởi một người "về những điều quan trọng nhất đối với những gì quan trọng nhất trong chính mình" (382a–b). Do đó, một lời nói dối thực sự phải đánh lừa *suy nghĩ* (lý trí), vốn là phần quan trọng nhất của linh hồn, đến mức ngăn cản linh hồn đạt được cái tốt tổng thể của nó (441e–442c). Ngược lại, một "lời nói dối bằng lời" là một "loại bắt chước" của một lời nói dối thực sự (382b–c) có thể được sử dụng để ngăn cản mọi người làm điều gì đó xấu do thiếu hiểu biết hoặc điên rồ (382c–d).
+
+Vậy thì, những gì chúng ta phải tưởng tượng là một cái gì đó giống như thế này: B đang cố gắng làm x, tin tưởng sai lầm, vì anh ta điên hoặc thiếu hiểu biết, rằng làm điều đó là tốt. A biết rằng B làm x là không tốt, và vì vậy nói với B một điều mà bản thân A biết là sai để ngăn cản B làm điều đó. A đã nói dối B. Nhưng kết quả là B không đi đến việc có một niềm tin sai lầm về cái tốt trong phần *suy nghĩ* của linh hồn mình. Thật vậy, anh ta được hướng về phía cái tốt, chứ không phải xa rời nó.
+
+Một lời nói dối thực sự đánh lừa *suy nghĩ* về cái tốt. Một lời nói dối bằng lời có vẻ làm điều tương tự—đặc biệt là đối với người (B trong ví dụ của chúng ta) phát hiện ra mình đã bị lừa. Vì B, tất nhiên, tin rằng làm x là một việc tốt để làm. Đó là lý do tại sao một lời nói dối bằng lời là một "loại bắt chước" của một lời nói dối thực sự. Nhưng nó không phải là một lời nói dối thuần túy vì nó thực tế không đánh lừa *suy nghĩ* về cái tốt.
+
+Lời nói dối bằng lời đến "sau" lời nói dối thực sự (382b–c), bởi vì A không thể nói dối bằng lời một cách đáng tin cậy cho đến khi anh ta biết *Khái niệm* về cái tốt và ở vị trí để kể những lời nói dối thực sự đánh lừa *suy nghĩ* về nó. Đó là lý do tại sao tất cả mọi người ngoại trừ các vua-triết gia phải tránh nói dối hoàn toàn (389b–c).
+
+Việc những lời nói dối của người cai trị đều nhằm mục đích là bằng lời nói chứ không phải thực sự được làm rõ bởi các ví dụ của Socrates. Một trong số đó là huyền thoại nổi tiếng về các kim loại (414b–415d). Vì nó được gọi là "một trong những lời nói dối hữu ích mà chúng ta đã nói đến một lúc trước" (414b–c), nó rõ ràng nhằm mục đích là bằng lời nói. Chức năng của nó là gắn kết các thành viên của Kallipolis với nhau bằng các mối liên kết của tình yêu hoặc tình bạn (415d). Nhưng tình bạn của họ trên thực tế được xây dựng dựa trên lợi ích chung. Vì vậy, lời nói dối này phù hợp với mô tả của chúng ta. Những người tin vào nó không đi đến việc tin vào một lời nói dối thực sự, vì niềm tin đó mang lại lợi ích cho họ và dẫn họ về phía cái tốt, chứ không phải xa rời nó.
+
+Chúng ta nghe lần cuối về những lời nói dối của người cai trị trong Cộng Hòa quyển 5 liên quan đến cuộc xổ số được bí mật dàn xếp bởi những người cai trị để đảm bảo rằng những người đàn ông tốt nhất quan hệ tình dục với những người phụ nữ tốt nhất thường xuyên nhất có thể (459c–460a). Ở đây một lần nữa lời nói dối rằng may mắn, chứ không phải kế hoạch, kiểm soát cuộc xổ số tình dục nhằm mục đích là bằng lời nói, vì nó được cho là mang lại lợi ích cho thành phố nói chung bằng cách bảo tồn chất lượng của tầng lớp hộ vệ. Tuy nhiên, người ta không thể không cảm thấy rằng ý định của Plato ít được thực hiện tốt ở đây. Vì tình dục là thứ mà ngay cả (a) những người hộ vệ yêu danh dự cũng thích thú—đó là lý do tại sao việc được quan hệ thường xuyên là phần thưởng cho họ (460b, 468b–c). Do đó, việc mất nó, điều mà những người hộ vệ kém hơn phải chịu ở Kallipolis, là một sự mất mát thực sự—hơn nữa, là một sự mất mát mà họ không được đền bù.
+
+Tuy nhiên, khiếm khuyết này trong Kallipolis chắc chắn là một khiếm khuyết nhỏ. Plato, vì những lý do lịch sử ngẫu nhiên, chỉ đơn giản là chọn một giải pháp kém tối ưu hơn cho vấn đề hiện tại. Vì ông không phản đối tình dục tự thân—khi những người hộ vệ vượt quá độ tuổi sinh sản, họ được phép quan hệ tình dục với bất kỳ ai họ muốn, miễn là họ tránh loạn luân (461b–c). Do đó, tránh thai sẽ cung cấp một giải pháp tốt hơn cho vấn đề ưu sinh so với các cuộc xổ số gian lận.
+
+Để nắm bắt ý nghĩa triết học của tất cả những điều này, chúng ta cần vạch ra một vài sự phân biệt sơ bộ. Nếu các thần dân trong một xã hội tin sai lầm rằng họ hạnh phúc ở đó hơn là ở nơi khác, một phần vì thế giới quan mà họ được dạy là sai và được những người cai trị biết là sai, họ là nạn nhân của hệ tư tưởng sai lầm. Mặt khác, nếu họ tin một cách đúng đắn rằng họ hạnh phúc hơn, nhưng làm như vậy vì họ đã được dạy để chấp nhận một thế giới quan sai và được những người cai trị biết là sai, hệ tư tưởng của họ được duy trì một cách sai lầm. Cuối cùng, nếu họ tin rằng họ hạnh phúc hơn ở đó và niềm tin của họ vừa đúng vừa được duy trì bởi một thế giới quan đúng, họ và xã hội của họ là phi hệ tư tưởng. Bởi vì những lời nói dối của những người cai trị là những lời nói dối bằng lời, rõ ràng là những người sản xuất và người hộ vệ tin vào chúng không phải là nạn nhân của hệ tư tưởng sai lầm. Nhưng bởi vì những gì họ tin là sai, và được các vua-triết gia biết là sai, hệ tư tưởng của họ được duy trì một cách sai lầm.
+
+Các thế giới quan có sẵn cho những người sản xuất và người hộ vệ ở Kallipolis được dự định là gần với sự thật nhất, tuy nhiên, như khả năng tự nhiên và những ham muốn thống trị của họ cho phép. Vì vậy, mặc dù những người sản xuất và người hộ vệ không nhìn thấy các giá trị của họ hoặc vị trí của họ trong Kallipolis với sự rõ ràng hoàn toàn, tầm nhìn của họ ít bị bóp méo nhất như bản chất của họ—được phát triển đầy đủ bởi giáo dục—cho phép.
+
+Rõ ràng là mọi người đều có lý do tư lợi để tránh một xã hội mà trong đó anh ta là nạn nhân của hệ tư tưởng sai lầm. Rốt cuộc, đó là ý chính trong lập luận của Thrasymachus. Nhưng không quá rõ ràng rằng mọi người đều có lý do để tránh một xã hội mà trong đó hệ tư tưởng của anh ta được duy trì một cách sai lầm—đặc biệt nếu mức độ sai lầm liên quan là tối thiểu. Thật vậy, có thể là hợp lý cho anh ta khi thích một xã hội như vậy hơn là một xã hội hoàn toàn phi hệ tư tưởng. Tất cả phụ thuộc vào khả năng tự nhiên của anh ta là gì và anh ta muốn gì nhất trong cuộc sống. Nếu điều anh ta muốn nhất là niềm vui kiếm tiền hoặc niềm vui được tôn vinh, chẳng hạn, anh ta có mọi lý do để đánh đổi một chút sự thật trong thế giới quan của mình để lấy thêm niềm vui yêu thích của riêng mình. Thật vậy, nếu anh ta thiếu khả năng tự nhiên để thoát khỏi hệ tư tưởng hoàn toàn, anh ta có thể không có lựa chọn nào trong vấn đề này.
+
+Vì vậy, thực tế là các hệ tư tưởng của những người hộ vệ và người sản xuất được duy trì một cách sai lầm (a) trong khi các vua-triết gia là phi hệ tư tưởng dường như là một thế mạnh trong Kallipolis, hơn là một điểm yếu. Ở đó, và chỉ ở đó, những người yêu danh dự và những người yêu tiền mới nhận được những lợi ích của sự tự do khỏi hệ tư tưởng mà bản thân họ không có khả năng.
+
+### ĐỜI SỐNG RIÊNG TƯ VÀ TÀI SẢN RIÊNG
+Khi quay trở lại trong Cộng Hòa quyển 5 với chủ đề về lối sống phù hợp với những người hộ vệ, Socrates nêu câu hỏi về việc những người hộ vệ nữ nên được huấn luyện và giáo dục như thế nào. Liệu họ có nên giảm bớt lượng công việc được yêu cầu đối với nam giới bằng cách chia sẻ nhiệm vụ của họ, hay họ nên "ở trong nhà và trông coi nhà cửa" (451d)? Người chỉ trích Socrates lập luận, cũng như đã được lập luận trong suốt các thời đại, rằng sự khác biệt trong vai trò sinh sản thực sự kéo theo sự khác biệt trong vai trò xã hội. Tuy nhiên, Socrates nhìn thấu điều này, chỉ ra rằng không rõ vai trò của một người trong sinh sản có liên quan gì đến năng khiếu của người đó đối với một loại công việc hoặc nghề nghiệp hay không (454d–e). Do đó, ở Kallipolis, phụ nữ sẽ không bị giới hạn trong nhà mà được đào tạo trong *kỹ năng* mà năng khiếu tự nhiên của họ cao nhất.
+
+Những quy định này chắc chắn là khai sáng, ngay cả theo tiêu chuẩn của chúng ta, nhưng vì chúng là một phần của cuộc thảo luận về những người phụ nữ hộ vệ, có vẻ như chúng chỉ nhằm áp dụng cho các nữ hộ vệ, chứ không phải cho các nữ sản xuất. Tuy nhiên, những nhận xét rải rác có ứng dụng rõ ràng cho nhóm sau cho thấy điều này có thể không phải như vậy. Ví dụ, chuyên môn hóa được cho là áp dụng cho "mọi trẻ em, phụ nữ, người tự do, thợ thủ công, người cai trị và thần dân" (433d1–5). Hàm ý là những người nữ sản xuất sẽ được đào tạo trong nghề nghiệp mà họ phù hợp nhất về mặt tự nhiên. Vì Socrates ngụ ý rằng có những phụ nữ có năng khiếu tự nhiên về nghề mộc (454d), đề cập rõ ràng đến các nữ bác sĩ, và tuyên bố rằng năng khiếu tự nhiên cho mỗi nghề nghiệp được tìm thấy ở cả hai giới (455d–e), có vẻ như những người nữ sản xuất được dự định sẽ học việc trong một nghề nghiệp thích hợp theo cách chính xác giống như nam giới.
+
+Tuy nhiên, phải thừa nhận rằng Plato không phải là một nhà nữ quyền. Ông không thể hiện sự quan tâm đến việc giải phóng phụ nữ như vậy và ngụ ý rằng họ thường kém hơn nam giới (455c–d). Hơn nữa, những nhận xét tình cờ của ông tiết lộ một xu hướng phân biệt giới tính và kỳ thị phụ nữ không thể cải tạo (431b–c, 469d, 557c, 563b). Nhưng đây là những vấn đề tương đối nhỏ và không ảnh hưởng đến điểm chung là trong Kallipolis, đàn ông và phụ nữ có cùng tài sản tự nhiên sẽ nhận được sự giáo dục giống nhau và có quyền tiếp cận cùng một sự nghiệp. Tuy nhiên, Plato vẫn mơ hồ một cách đáng tiếc về những người sản xuất, dù là nam hay nữ, và đã để chúng ta phần nào trong bóng tối về câu hỏi quan trọng là ai sẽ làm việc nhà và nuôi dạy con cái nếu cả cha và mẹ đều làm việc toàn thời gian bên ngoài hộ gia đình.
+
+Trong trường hợp của những người hộ vệ, ông cởi mở hơn, mặc dù những gì ông mô tả có thể không hấp dẫn chúng ta. Nếu những người hộ vệ và người sản xuất cạnh tranh cho cùng một hàng hóa xã hội, những người sản xuất sẽ chịu thiệt thòi rất lớn, vì những người hộ vệ được vũ trang và huấn luyện cho chiến tranh theo cách mà những người sản xuất không có (419a). Do đó, những người hộ vệ bị tách biệt khỏi những người sản xuất và bị từ chối cả tài sản riêng và đời sống gia đình riêng (đối tượng của những *ham muốn* thống trị của người sản xuất), với lý do rằng "nếu họ tự mình có được đất đai, nhà cửa và tiền bạc riêng, họ sẽ là những người quản lý hộ gia đình và nông dân, thay vì là những người hộ vệ—những ông chủ thù địch của các công dân khác thay vì là đồng minh của họ" (417a–b). Kết quả là tất cả những điều có khả năng làm chúng ta xa lánh nhất khỏi Cộng Hòa: tình dục bằng xổ số như một phần của chương trình ưu sinh do nhà nước bảo trợ; các "trại nuôi dưỡng" do nhà nước điều hành cho con cái của người hộ vệ (451c–461e); và sự thống trị toàn trị của lĩnh vực công đối với lĩnh vực tư.
+
+Một phần của những gì đã dẫn Plato đi theo hướng không hấp dẫn này, chắc chắn, là sự nghi ngờ sâu sắc của ông về các *ham muốn* và tiềm năng hủy diệt chính trị của lòng tham và tư lợi. Do đó, việc loại bỏ những thứ kích thích chúng trở nên hấp dẫn. Mặc dù vậy, thật khó để không thấy phương thuốc ít nhất cũng tệ hại như—nếu không muốn nói là tồi tệ hơn—căn bệnh.
+
+### KIỂM DUYỆT
+Theo quan điểm của Socrates, các thiết chế chính trị quan trọng nhất ở Kallipolis, hay trong bất kỳ xã hội nào khác, là giáo dục. "Một điều lớn lao", ông nói, là giáo dục và nuôi dưỡng. Do đó, "những gì các giám thị của thành phố chúng ta phải bám lấy, không cho phép trở nên hư hỏng mà không nhận thấy, và đề phòng mọi thứ, là điều này: không được có sự đổi mới trong rèn luyện âm nhạc hoặc thể chất đi ngược lại trật tự đã thiết lập" (423d–424c). Do đó, không có gì ngạc nhiên khi sau khi hoàn thành việc tường trình các đề xuất giáo dục mang tính cách mạng của riêng mình, và đã biện minh cho chúng bằng cách chỉ ra rằng chúng thúc đẩy cả sự *đúng đắn* tối đa và hạnh phúc tối đa ở những người nhận được chúng, Socrates nên chuyển sang Cộng Hòa quyển 10 để tấn công sự cạnh tranh của mình—các nhà thơ và nhà viết kịch, những người cung cấp nền giáo dục đạo đức truyền thống của Hy Lạp. Ông lập luận rằng các triết gia, chứ không phải các nhà thơ, mới là những người thầy thực sự của *phẩm chất tốt*.
+
+Những lý do ông đưa ra là: trước hết, việc có thể bắt chước *phẩm chất tốt* hoặc những người có *phẩm chất tốt* bằng nhịp điệu và vần điệu làm hài lòng và giải trí hầu hết mọi người không làm cho một người đủ tư cách để dạy con người cách sống. Nhà thơ hay nhà viết kịch viết cho một khán giả không chuyên. Do đó, anh ta phải sử dụng một khung khái niệm tương tự như của họ. Tính cách, động cơ, cốt truyện—tất cả phải được rút ra từ tâm lý học dân gian; không phải, chẳng hạn, từ khoa học nhận thức hay bất cứ thứ gì mà lý thuyết thực sự về linh hồn hóa ra là. Điều này có nghĩa là nghệ thuật đại diện cho con người và động cơ cũng như hành động của họ, không nhất thiết như chúng thực sự là, mà chỉ như chúng có vẻ đối với những người không được đào tạo chuyên môn. Do đó, ngôn ngữ của nghệ thuật không phải là ngôn ngữ toán học kỹ thuật của chân lý kiểu Plato.
+
+Ngược lại, nhà khoa học, hay vua-triết gia, không bị ràng buộc bởi sự hạn chế này, vì khán giả của ông chủ yếu là các chuyên gia đồng nghiệp (601a–b, 603b–605c).
+
+Thứ hai, thơ ca và kịch, giống như tất cả nghệ thuật, nhằm mục đích cung cấp một niềm vui hoặc sự thỏa mãn đặc trưng nhất định (606b), mà theo quan điểm của Plato, cũng như của Freud, có liên quan đến sự dồn nén. Nghệ thuật cho phép chúng ta thỏa mãn mà không bị chê trách hay xấu hổ chính những ham muốn mà chúng ta phải kìm nén trong đời thực. Đây là những ham muốn đặc trưng thuộc về *ham muốn* (appetitive), đặc biệt là tình dục. Điều này có thể được hiểu một cách hợp lý là ngụ ý rằng những sự thể hiện về những người tốt về mặt đạo đức không cung cấp loại thỏa mãn mà nghệ thuật thường cung cấp và không phải là những gì một nhà thơ cần biết cách tạo ra (604e–605a). Nếu chúng ta giả định, như Plato (485d), rằng ngay cả sự nuông chiều nghệ thuật đối với các ham muốn bị dồn nén cũng làm mạnh chúng lên và làm suy yếu các cơ chế dồn nén, chúng ta sẽ thấy lý do ở đây để không tin tưởng nghệ thuật nói chung (605b, 606b).
+
+Cuối cùng, chúng ta phải nhìn vào chính nhà thơ, và lý do tại sao anh ta viết. Plato tự tin rằng không ai sẽ hài lòng chỉ đơn thuần đại diện cho cuộc sống nếu anh ta biết cách sống nó tốt, hoặc có thể dạy người khác cách làm như vậy (599b–601a). Nếu chúng ta nghĩ lại về niềm vui đặc trưng mà nghệ thuật cung cấp, quan điểm của ông trở nên dễ hiểu và, một lần nữa, khá giống với quan điểm của Freud. Một cuộc sống dành cho việc làm ra những thứ cung cấp một sự thỏa mãn ảo tưởng cho những *ham muốn* không cần thiết không thể xếp hạng rất cao trong số các cuộc đời.
+
+Những lập luận này không chắc sẽ chỉ đơn giản là ra lệnh cho sự đồng ý của chúng ta. Nhưng ngay cả khi chúng ta thấy chúng không thuyết phục, chúng mở rộng lời mời đúng đắn đến các triết gia, những người nghĩ rằng nghệ thuật có điều gì đó để dạy chúng ta về cách sống: phát triển siêu hình học, nhận thức luận, tâm lý học và chính trị học, trên cơ sở đó sẽ rõ ràng rằng kiến thức mà một nhà thơ hay nhà viết kịch giỏi cần là có liên quan đến đạo đức. Thật vậy, chính xác như một lời mời như vậy mà bản thân Plato dường như hiểu chúng (607d–e).
+
+TỰ DO VÀ TỰ CHỦ
+Nhu cầu, mong muốn và lợi ích của một người được xác định bởi cuộc xổ số di truyền tự nhiên, bởi giáo dục và nuôi dưỡng, và bởi hoàn cảnh thực tế. Chúng cũng phụ thuộc vào niềm tin của người đó, vốn lại phụ thuộc ở một mức độ nào đó vào các yếu tố tương tự như nhu cầu, mong muốn và lợi ích của chính người đó. Lợi ích thực sự của anh ta là những lợi ích mà anh ta sẽ hình thành trong các điều kiện tối ưu—những điều kiện trong đó nhu cầu của anh ta được thỏa mãn, anh ta không bị ngược đãi cũng không bị ép buộc cũng không phải là nạn nhân của hệ tư tưởng sai lầm, và anh ta nhận thức rõ nhất có thể về hoàn cảnh thực tế của mình và các lựa chọn thay thế thực sự cho chúng. Hạnh phúc là sự thỏa mãn tối ưu các lợi ích thực sự trong dài hạn.
+
+Sự liên quan của bức tranh này với Cộng Hòa chắc chắn là rõ ràng. Vì Kallipolis đã nổi lên như một cộng đồng được Plato dự định cung cấp các điều kiện tối ưu thuộc loại đang được bàn tới. Mỗi thành viên của nó đều được thỏa mãn nhu cầu, không bị ngược đãi cũng không bị ép buộc cũng không phải là nạn nhân của hệ tư tưởng sai lầm, và được giáo dục cũng như đào tạo để phát triển một quan niệm về thế giới và vị trí của mình trong đó gần với sự thật nhất mà bản chất của anh ta—được phát triển đầy đủ với con mắt hướng tới hạnh phúc tối đa của anh ta—cho phép. Mỗi người đều có những ham muốn thống trị của mình được thỏa mãn trong suốt cuộc đời. Do đó, mỗi người phát triển những lợi ích thực sự của mình và thực sự được làm cho hạnh phúc.
+
+Ngay cả khi chúng ta ghi nhớ tất cả những điều đó, Cộng Hòa vẫn có khả năng mang lại cảm giác độc đoán và đàn áp. Một phần của điều đó là do những niềm tin gây tranh cãi mà chúng ta mang đến cho nó. Ví dụ, chúng ta có xu hướng giả định rằng không có lượng kiến thức nào về cách thế giới vận hành lại xác nhận hoặc bảo lãnh cho một quan niệm duy nhất về cái tốt (chúng ta không thể suy ra cái "nên" từ cái "là", giá trị từ thực tế). Các quan niệm khác nhau được xác định bởi những gì các cá nhân khác nhau tình cờ muốn hoặc thích. Nhà nước tồn tại, không phải để phán xét giữa các quan niệm này, mà để cho phép mỗi cá nhân hiện thực hóa quan niệm riêng của mình ở mức độ tương thích với việc những người khác hiện thực hóa quan niệm của họ ở mức độ tương tự. Bằng cách này, nhà nước vừa tôn trọng cá tính của các thành viên vừa đối xử bình đẳng với họ. Thật vậy, một hoạt động, thiết chế hoặc vấn đề là mang tính chính trị mẫu mực đối với chúng ta nếu nó liên quan đến các tranh chấp giữa những người có thể có các quan niệm khác nhau về cái tốt, nhưng phải cùng tồn tại và giao dịch với nhau trong cùng một cộng đồng hoặc cùng một thế giới. Tự do cá nhân, theo quan niệm tự do rộng rãi này, là tự do làm những gì người ta muốn; tự do sống phù hợp với một quan niệm về cái tốt bắt nguồn từ những ham muốn, sở thích hoặc lựa chọn của chính người đó. Và một nhà nước được tự do ở mức độ nó giới hạn tự do cá nhân chỉ để đảm bảo tự do bình đẳng cho tất cả các thành viên. Do đó, không có gì ngạc nhiên khi trong trí tưởng tượng chúng ta phóng chiếu mình vào Kallipolis, chúng ta thực sự cảm thấy bị kìm kẹp và không tự do.
+
+Tuy nhiên, quan niệm về tự do chính trị này không phải là quan niệm duy nhất. Tự do làm những gì chúng ta muốn—tự do công cụ—chắc chắn là quan trọng. Nhưng tầm quan trọng của nó có thể bị suy yếu bởi chính những ham muốn mà nó phụ thuộc vào. Vì nếu chúng ta không có những ham muốn mà chúng ta tự do thỏa mãn nếu chúng ta tham gia vào một quá trình cân nhắc lý trí, lý tưởng, thì việc được tự do thỏa mãn chúng dường như ít đáng quan tâm hơn. Nếu những ham muốn của chúng ta, giống như của một người nghiện ma túy, có thể làm chúng ta mất tự do, thì tự do công cụ dường như không đủ cho tự do thực sự hay sự tự chủ.
+
+Vậy thì, có lẽ chúng ta nên nghĩ thay vào đó về tự do cân nhắc, đó là sự tự do có và thỏa mãn những ham muốn mà chúng ta sẽ chọn có nếu chúng ta nhận thức được các sự kiện liên quan, đang suy nghĩ rõ ràng, và được tự do khỏi các ảnh hưởng bóp méo. Nếu vậy, chúng ta có thể thấy ngay rằng một nhà nước đảm bảo tự do cân nhắc có thể trông và cảm thấy rất đàn áp đối với một người chỉ quan tâm đến tự do công cụ. Nó sẽ phụ thuộc rất nhiều vào những ham muốn của anh ta tình cờ là gì. Tuy nhiên, vì cái giá phải trả về mặt tâm lý và chính trị của sự kìm kẹp là cao, chúng ta hoàn toàn có thể tưởng tượng rằng một nhà nước khai sáng, cam kết với tự do cân nhắc, sẽ muốn dành nhiều nguồn lực của mình cho giáo dục và đào tạo để đảm bảo rằng (a) các thành viên của nó gần với sự hợp lý về mặt cân nhắc nhất có thể. Một nhà nước như vậy sẽ bắt đầu trông hơi giống Kallipolis, và chia sẻ một số ưu tiên của nó.
+
+Dù sao đi nữa, có vẻ rõ ràng rằng Kallipolis nhằm cung cấp cho các thành viên của nó nhiều tự do cân nhắc nhất mà bản chất của họ, được phát triển đầy đủ trong các điều kiện tối ưu, cho phép:
+
+> Tại sao anh nghĩ một người bị chê trách vì làm công việc chân tay hoặc thủ công? Hay chúng ta sẽ nói rằng không vì lý do nào khác ngoài việc yếu tố tốt nhất trong anh ta tự nhiên yếu, đến nỗi nó không thể cai trị những con thú bên trong anh ta, mà chỉ có thể phục vụ chúng và học cách nịnh nọt chúng? . . . Do đó, để đảm bảo rằng một người như thế cũng được cai trị bởi một cái gì đó tương tự như cái cai trị người tốt nhất, chúng ta nói rằng anh ta nên là nô lệ của người tốt nhất đó, người có người cai trị thần thánh bên trong mình. Chúng ta nói anh ta nên bị cai trị không phải để làm hại nô lệ, như Thrasymachus cho là đúng với tất cả các thần dân, mà bởi vì tốt hơn cho mọi người là được cai trị bởi một người cai trị thần thánh và khôn ngoan—tốt hơn là một người cai trị là của riêng anh ta và anh ta có bên trong mình—nếu không thì là một người được áp đặt lên anh ta từ bên ngoài, để tất cả chúng ta có thể giống nhau và thân thiện nhất có thể, bởi vì tất cả chúng ta đều được lèo lái bởi cùng một thứ. (590c–d; cũng xem 395b–c)
+
+Vì vậy, ngay cả khi chúng ta giữ lại sự nghi ngờ tự do của mình về khả năng của một khoa học về các giá trị, chúng ta vẫn có thể, (a) bằng cách đi đến chỗ thấy được giá trị trong ý tưởng về tự do cân nhắc, cũng đi đến chỗ coi Cộng Hòa, không phải chủ yếu là một bài ca tụng toàn trị về những lợi ích của sự kìm kẹp và mất tự do, mà là một nỗ lực thiết kế một thành phố mà các thành viên của nó tận hưởng nhiều hạnh phúc thực sự, và nhiều tự do thực sự, nhất có thể.
