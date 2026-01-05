@@ -108,7 +108,7 @@ Nói lời: "Lành thay, thưa hiền giả," Tôn giả Mahā Kotthita hoan h�
 "Thưa hiền giả, trong thiền thứ nhất, năm chi phần bị đoạn trừ và năm chi phần được thành tựu. Ở đây, khi một vị tỳ kheo đã chứng thiền thứ nhất, dục ước bị đoạn trừ, sân hận bị đoạn trừ, hôn trầm thụy miên bị đoạn trừ, trào cử hối quá [295] bị đoạn trừ, và nghi hoặc bị đoạn trừ; và có sự hiện diện của tầm, tứ, hỷ, lạc và nhất tâm. Đó là cách trong thiền thứ nhất, năm chi phần bị đoạn trừ và năm chi phần được thành tựu."
 
 <!--pg-->
-(NĂM GIÁC QUAN)
+#### (NĂM GIÁC QUAN)
 
 21\. "Thưa hiền giả, năm giác quan này, mỗi giác quan có một phạm vi riêng, một lĩnh vực riêng, và không kinh nghiệm phạm vi và lĩnh vực của nhau, đó là: nhãn căn (mắt), nhĩ căn (tai), tỷ căn (mũi), thiệt căn (lưỡi), và thân căn (thân). Vậy đối với năm giác quan này, mỗi giác quan có một phạm vi riêng, một lĩnh vực riêng, không kinh nghiệm phạm vi và lĩnh vực của nhau, thì cái gì là nơi nương tựa của chúng, cái gì kinh nghiệm phạm vi và lĩnh vực của chúng?" [443](/kinhtrungbo/nanamoli-bodhi-vi/notes/043#443){.note}
 

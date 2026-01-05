@@ -73,7 +73,7 @@ another are discovered, disputed, rediscovered, and redisputed. Neglected
 dialogues are taken up afresh, old favorites newly interpreted. New ques-
 tions are raised, old ones resurrected and reformulated: is Plato’s Socrates
 really the great ironist of philosophy or a largely non-ironic ﬁgure? Is Plato
-(a) systematic philosopher with answers to give or a questioner only? Is he
+systematic philosopher with answers to give or a questioner only? Is he a
 primarily a theorist about universals, or a moralist, or a mystic with an oth-
 erworldly view about the nature of reality and the place of the human
 psyche in it? Is the Republic a totalitarian work, a hymn to freedom properly
@@ -132,7 +132,7 @@ have resisted refutation. Among these are the following three famous
 Socratic “paradoxes”:
 
 The conventionally distinguished virtues—justice, piety, courage, and
-(a) the rest—are all identical to wisdom or knowledge, conceived of as
+the rest—are all identical to wisdom or knowledge, conceived of as a
 type of craft (technê)1 or expertise (Charmides 174b–c, Euthydemus
 281d–e, Protagoras 329b–334c, 349a–361d).This is often referred to as
 > *the unity of the virtues doctrine.*
@@ -354,13 +354,13 @@ they provided a compelling example of a rich body of precise knowledge
 organized into a deductive system of axioms, deﬁnitions, and theorems—a
 model of what philosophy itself might be. Second, the brilliant mathemati-
 cal treatment of harmony (musical beauty) developed by Pythagoras of
-(a) Samos and his followers (Aristotle, Metaphysics 987a29–8a17) suggested
+Samos and his followers (Aristotle, Metaphysics 987a29–8a17) suggested a
 role for mathematics within philosophy itself. It opened up the possibility
 of giving precise deﬁnitions in wholly mathematical terms of all character-
 istics, including such apparently vague and evaluative ones as beauty and
 ugliness, justice and injustice, good and evil, and the other things of which
 Socrates sought deﬁnitions (Republic 530d–533e).
-(a) Despite the beneﬁts these sciences promised, however, Plato found
+Despite the beneﬁts these sciences promised, however, Plato found a
 problem with them: they treat their ﬁrst principles as “absolute” starting
 points, to be accepted without argument (510c–d).Yet if these starting
 points are false, the entire system collapses. It is here that dialectic comes
@@ -429,6 +429,7 @@ poems. All they determine are the features that a good poem must have.The
 same, presumably, is true of the forms of other things. Thus the philoso-
 pher’s pattern of an F simply speciﬁes the features an F must have, or must
 > *lack, if it is to be good.*
+
 To see more clearly what such a form or pattern is, we turn to the alle-
 gory of the sun:
 
@@ -514,13 +515,13 @@ three crafts—producing, guardianship, or ruling—demands of him the
 highest level of cognitive development of which he is capable: money-lovers
 must be producers of some kind; honor-lovers must be guardians; philoso-
 phers must be kings (434a–b).
-(a) That is why, as we learn in Republic 4, strong specialization was merely
+That is why, as we learn in Republic 4, strong specialization was merely a
 provisional ﬁrst stab at its weaker analogue and is explicitly replaced by it. If
 all the practitioners of the various ordinary crafts exchanged tools, that
 would not do “any great harm to the city” (434a). If the producers, guard-
 ians, and rulers did the same, on the other hand, it would “destroy the city”
 (434a–b). For strong specialization was never anything more than “a sort of
-(a) image of justice” (443c), whereas weak specialization is its very essence:
+a image of justice” (443c), whereas weak specialization is its very essence: a
 soul is just if its three constituent parts (reason, spirit, appetite) obey this
 doctrine, as is a city when its parts (rulers, guardians, producers) do the
 same (434c, 443c–d).
@@ -577,7 +578,7 @@ the lie that luck, not planning, controls the sexual lottery is intended to be
 verbal, since it is supposed to beneﬁt the city as a whole by preserving the
 quality of the guardian class. One cannot help feeling, however, that Plato’s
 intentions are less than well realized here. For sex is something even
-(a) honor-loving guardians enjoy—that is why getting to have it often is
+a honor-loving guardians enjoy—that is why getting to have it often is a
 reward for them (460b, 468b–c). Consequently, the loss of it, which infe-
 rior guardians suffer in Kallipolis, is a real loss—one, moreover, for which
 they are not compensated.
@@ -623,7 +624,7 @@ for more of his own favorite pleasure. Indeed, if he lacks the natural ability
 to escape ideology altogether, he may have no choice in the matter.
 
 So, the fact that the ideologies of the guardians and producers are falsely
-(a) sustained while the philosopher-kings are ideology-free seems to be
+sustained while the philosopher-kings are ideology-free seems to be a
 strength in Kallipolis, rather than a weakness. There, and only there, do
 honor-lovers and money-lovers get the beneﬁts of the freedom from ideol-
 ogy of which they are themselves incapable.
@@ -640,6 +641,7 @@ ing out that it is not clear that one’s role in reproduction has anything to d
 with one’s aptitude for a type of work or occupation (454d–e). Hence, in
 Kallipolis, women will not be conﬁned to the house but trained in the craft
 for which their natural aptitude is highest.
+
 These provisions are certainly enlightened, even by our own standards,
 but because they form a part of the discussion of guardian women, it may
 seem that they are intended to apply only to female guardians, not to female
@@ -686,6 +688,7 @@ profound suspicion of the appetites and the politically destructive potential
 of greed and self-interest. Removing the things that stimulate them there-
 fore becomes appealing. Even so, it is difﬁcult not to see the cure as at least
 as bad as—if not worse than—the disease.
+
 ### CENSORSHIP
 The most important political institutions in Kallipolis, or in any other soci-
 ety, in Socrates’ view, are educational. The “one great thing,” he says, is
@@ -741,7 +744,7 @@ will be clear that the knowledge a good poet or dramatist needs is relevant
 to ethics. It is precisely as such an invitation, indeed, that Plato himself
 seems to understand them (607d–e).
 
-FREEDOM AND AUTONOMY
+### FREEDOM AND AUTONOMY
 A person’s needs, wants, and interests are determined by the natural genetic
 lottery, by education and upbringing, and by actual circumstances. They
 also depend on his beliefs, which in turn depend to some extent on the
@@ -783,8 +786,7 @@ freedom only to guarantee equal freedom to all its members. It is not sur-
 prising, then, that when in imagination we project ourselves into Kallipolis,
 we do feel repressed and unfree.
 
-This conception of political freedom is not the only one, however. Free-
-dom to do what we want—instrumental freedom—is certainly important.
+This conception of political freedom is not the only one, however. Freedom to do what we want—instrumental freedom—is certainly important.
 
 But its importance can be undermined by the very desires on which it
 depends. For if we would not have the desires we are free to satisfy had we
@@ -803,7 +805,7 @@ much depend on what his desires happened to be. Since the psychological
 and political cost of repression is high, however, we can well imagine that
 an enlightened state, committed to deliberative freedom, would want to
 devote much of its resources to education and training so as to ensure that
-(a) its members are as close to being deliberatively rational as possible. Such
+its members are as close to being deliberatively rational as possible. Such a
 state would already begin to look a little like Kallipolis, and to share some
 of its priorities.
 
@@ -826,8 +828,7 @@ optimal conditions, permit:
 > sible, because we are all captained by the same thing. (590c–d; also
 > 395b–c)
 Thus, even if we retain our liberal suspicion about the possibility of a sci-
-ence of values, we might still, by coming to see merit in the idea of deliber-
-(a) ative freedom, also come to see the Republic, not as predominantly
+ence of values, we might still, by coming to see merit in the idea of deliberative freedom, also come to see the Republic, not as predominantly a
 totalitarian hymn to the beneﬁts of repression and unfreedom, but as an
 attempt to design a city whose members enjoy as much real happiness, and
 as much real freedom, as possible.

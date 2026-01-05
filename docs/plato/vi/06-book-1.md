@@ -1114,7 +1114,7 @@ Tiếng việt / English / Greek
 
 Trong bản dịch này, "Justice" được dịch là "*điều đúng*" thay vì "công lý" hay "công chính". Điều này nhấn mạnh tính chất tổng quát, nền móng của một trạng thái trật tự từ vật chất đến tinh thần.
 
-1\. **Công lý; sự công chính (theo Plato):**
+1\. **Công lý/ Lý tưởng/ sự công chính (theo Plato):**
    Trạng thái **trật tự nội tại**, trong đó mỗi phần **làm đúng chức năng tự nhiên của mình** và không can thiệp vào phần khác; áp dụng cho cả **linh hồn cá nhân** và **nhà nước**.
    *Justice không phải là hành vi đơn lẻ hay luật lệ bên ngoài, mà là cấu trúc đúng của toàn thể.*
 
@@ -1182,8 +1182,6 @@ Nhiệm vụ (cũ: đức hạnh). Thông thường *Arete* nghĩa là "đức h
 4\. **Cơ sở cho phê phán quyền lực và cai trị trong *Cộng hòa*:**
    Việc cai trị đúng nghĩa phải là một **techne** nhắm tới lợi ích của người bị cai trị, không phải của người cầm quyền.
    **vd.** Vua–triết gia cai trị vì hiểu cái tốt cho toàn thể, không vì quyền lực hay danh lợi.
-
-
 
 
 - **The Just Man** / Dikaios (δίκαιος) | **Người sống đúng/ Công chính** | Người sở hữu phẩm chất của *điều đúng*.
