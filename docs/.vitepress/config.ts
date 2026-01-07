@@ -64,6 +64,9 @@ const BOOK_NAV = {
 export default defineConfig({
   title: "Kinh Nikaya",
   description: "Trò chuyện cùng Phật",
+  sitemap: {
+    hostname: 'https://nikaya2.vercel.app'
+  },
 
   markdown: {
     anchor: {
