@@ -64,7 +64,7 @@ Nói lời: "Lành thay, thưa hiền giả," Tôn giả Mahā Kotthita hoan h�
 
 12\. "Thưa hiền giả, mục đích của trí tuệ là gì?"
 
-"Thưa hiền giả, mục đích của trí tuệ là thắng tri (biết trực tiếp), mục đích của nó là liễu tri (hiểu thấu đáo), mục đích của nó là đoạn trừ." [439](/kinhtrungbo/nanamoli-bodhi-vi/notes/043#439){.note}
+"Thưa hiền giả, mục đích của trí tuệ là biết trực tiếp (thắng tri), mục đích của nó là liễu tri (hiểu thấu đáo), mục đích của nó là đoạn trừ." [439](/kinhtrungbo/nanamoli-bodhi-vi/notes/043#439){.note}
 
 <!--pg-->
 (CHÁNH KIẾN)
