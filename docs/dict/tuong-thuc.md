@@ -1,3 +1,9 @@
+đối tượng = tín hiệu thần kinh; vật thể
+thọ = phản ứng với tín hiệu thần kinh, nhưng gom nhóm vào 3 loại: tích cực, tiêu cực, trung lập
+tưởng = đặt tên, đây là cái gì, đây là mình, gán nhãn
+thức = tổng hợp của tất cả cảm giác, cảm xúc, nhận thức, tạo ra cái tôi
+phân loại - thấy mình khác biệt
+
 **bản thảo**
 
 # Thức và Não Bộ (TƯ 22.56)

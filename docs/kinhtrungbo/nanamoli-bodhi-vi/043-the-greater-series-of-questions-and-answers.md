@@ -34,11 +34,11 @@ Nói lời: "Lành thay, thưa hiền giả," Tôn giả Mahā Kotthita hoan h�
 "Thưa hiền giả, sự khác biệt giữa trí tuệ và thức, những trạng thái kết hợp và không tách rời này, là thế này: trí tuệ là điều cần được phát triển, còn thức là điều cần được hiểu thấu đáo." [433](/kinhtrungbo/nanamoli-bodhi-vi/notes/043#433){.note}
 
 <!--pg-->
-#### (CẢM THỌ)
+#### (CẢM NHẬN)
 
-7\. "Thưa hiền giả, người ta thường nói 'cảm thọ, cảm thọ'. Dựa vào đâu mà nói là 'cảm thọ'?"
+7\. "Thưa hiền giả, người ta thường nói 'cảm nhận, cảm nhận'. Dựa vào đâu mà nói là 'cảm nhận'?"
 
-"Thưa hiền giả, 'nó cảm nhận, nó cảm nhận'; đó là lý do tại sao nói là 'cảm thọ'. Nó cảm nhận điều gì? Nó cảm nhận lạc, nó cảm nhận khổ, nó cảm nhận không-khổ-cũng-không-lạc. Thưa hiền giả, 'nó cảm nhận, nó cảm nhận', đó là lý do tại sao nói là '*cảm thọ* (feeling/ vedanā/ cảm giác)'." [434](/kinhtrungbo/nanamoli-bodhi-vi/notes/043#434){.note}
+"Thưa hiền giả, 'nó cảm nhận, nó cảm nhận'; đó là lý do tại sao nói là 'cảm nhận'. Nó cảm nhận điều gì? Nó cảm nhận lạc, nó cảm nhận khổ, nó cảm nhận không-khổ-cũng-không-lạc. Thưa hiền giả, 'nó cảm nhận, nó cảm nhận', đó là lý do tại sao nói là '*cảm nhận* (feeling/ vedanā/ cảm giác)'." [434](/kinhtrungbo/nanamoli-bodhi-vi/notes/043#434){.note}
 
 <!--pg-->
 #### (TƯỞNG)
@@ -47,14 +47,14 @@ Nói lời: "Lành thay, thưa hiền giả," Tôn giả Mahā Kotthita hoan h�
 
 "Thưa hiền giả, 'nó nhận biết, nó nhận biết'; đó là lý do tại sao nói là 'tưởng'. Nó nhận biết điều gì? Nó nhận biết màu xanh, nó nhận biết màu vàng, nó nhận biết màu đỏ, và nó nhận biết màu trắng. Thưa hiền giả, 'nó nhận biết, nó nhận biết'; đó là lý do tại sao nói là '*tưởng* (perception/ saññā/ tri giác)'." [435](/kinhtrungbo/nanamoli-bodhi-vi/notes/043#435){.note}
 
-9\. "Thưa hiền giả, cảm thọ, tưởng và thức - những trạng thái này kết hợp hay tách rời nhau? Và liệu có thể tách biệt mỗi trạng thái này khỏi những trạng thái kia để mô tả sự khác biệt giữa chúng không?"
+9\. "Thưa hiền giả, cảm nhận, tưởng và thức - những trạng thái này kết hợp hay tách rời nhau? Và liệu có thể tách biệt mỗi trạng thái này khỏi những trạng thái kia để mô tả sự khác biệt giữa chúng không?"
 
-"Thưa hiền giả, cảm thọ, tưởng và thức - những trạng thái này kết hợp, không tách rời, và không thể tách biệt mỗi trạng thái này khỏi những trạng thái kia để mô tả sự khác biệt giữa chúng. Vì điều gì một người cảm nhận, thì người ấy nhận biết; và điều gì một người nhận biết, thì người ấy nhận thức. Đó là lý do tại sao những trạng thái này kết hợp, không tách rời, và không thể tách biệt mỗi trạng thái này khỏi những trạng thái kia để mô tả sự khác biệt giữa chúng." [436](/kinhtrungbo/nanamoli-bodhi-vi/notes/043#436){.note}
+"Thưa hiền giả, cảm nhận, tưởng và thức - những trạng thái này kết hợp, không tách rời, và không thể tách biệt mỗi trạng thái này khỏi những trạng thái kia để mô tả sự khác biệt giữa chúng. Vì điều gì một người cảm nhận, thì người ấy nhận biết; và điều gì một người nhận biết, thì người ấy nhận thức. Đó là lý do tại sao những trạng thái này kết hợp, không tách rời, và không thể tách biệt mỗi trạng thái này khỏi những trạng thái kia để mô tả sự khác biệt giữa chúng." [436](/kinhtrungbo/nanamoli-bodhi-vi/notes/043#436){.note}
 
 <!--pg-->
 #### (ĐIỀU ĐƯỢC BIẾT BỞI Ý)
 
-10\. "Thưa hiền giả, điều gì có thể được biết bởi ý thức thanh tịnh đã thoát khỏi năm *giác quan* (faculties/ indriya/ căn)?"
+10\. "Thưa hiền giả, điều gì có thể được biết bởi ý thức (manoviññāṇa) thanh tịnh đã thoát khỏi năm *giác quan* (faculties/ indriya/ căn)?"
 
 "Thưa hiền giả, bởi ý thức thanh tịnh đã thoát khỏi năm giác quan, Không vô biên xứ có thể được biết như sau: 'Hư không là vô biên'; Thức vô biên xứ có thể được biết như sau: 'Thức là vô biên'; và Vô sở hữu xứ có thể được biết như sau: 'Không có gì cả'." [437](/kinhtrungbo/nanamoli-bodhi-vi/notes/043#437){.note}
 
@@ -134,11 +134,11 @@ Nói lời: "Lành thay, thưa hiền giả," Tôn giả Mahā Kotthita hoan h�
 "Trong trường hợp đó, thưa hiền giả, tôi sẽ đưa ra một ví dụ, vì một số người trí ở đây hiểu ý nghĩa của một lời nói thông qua ví dụ. Giống như khi một ngọn đèn dầu đang cháy, ánh sáng của nó được thấy là nương vào ngọn lửa và ngọn lửa của nó được thấy là nương vào ánh sáng; cũng vậy, sức sống nương tựa vào hơi ấm và hơi ấm nương tựa vào sức sống."
 
 <!--pg-->
-#### (CÁC HÀNH DUY TRÌ SỰ SỐNG)
+#### (CÁC *HOẠT* DUY TRÌ SỰ SỐNG)
 
-23\. "Thưa hiền giả, các hành duy trì sự sống là các trạng thái cảm thọ hay các hành duy trì sự sống là một chuyện và các trạng thái cảm thọ là chuyện khác?" [296]
+23\. "Thưa hiền giả, các *hoạt* duy trì sự sống là các trạng thái cảm nhận hay các *hoạt* duy trì sự sống là một chuyện và các trạng thái cảm nhận là chuyện khác?" [296]
 
-"Thưa hiền giả, các *hành duy trì sự sống* (vital formations/ āyusaṅkhāra) không phải là các trạng thái cảm thọ. [446](/kinhtrungbo/nanamoli-bodhi-vi/notes/043#446){.note} Nếu các hành duy trì sự sống là các trạng thái cảm thọ, thì khi một vị tỳ kheo đã nhập diệt thọ tưởng định, vị ấy sẽ không được thấy là xuất khỏi định ấy. Bởi vì các hành duy trì sự sống là một chuyện và các trạng thái cảm thọ là chuyện khác, nên khi một vị tỳ kheo đã nhập diệt thọ tưởng định, vị ấy có thể được thấy là xuất khỏi định ấy."
+"Thưa hiền giả, các *hành* duy trì sự sống (vital formations/ āyusaṅkhāra) không phải là các trạng thái cảm nhận. [446](/kinhtrungbo/nanamoli-bodhi-vi/notes/043#446){.note} Nếu các *hoạt* duy trì sự sống là các trạng thái cảm nhận, thì khi một vị tỳ kheo đã nhập diệt thọ tưởng định, vị ấy sẽ không được thấy là xuất khỏi định ấy. Bởi vì các *hoạt* duy trì sự sống là một chuyện và các trạng thái cảm nhận là chuyện khác, nên khi một vị tỳ kheo đã nhập diệt thọ tưởng định, vị ấy có thể được thấy là xuất khỏi định ấy."
 
 24\. "Thưa hiền giả, khi thân này thiếu vắng bao nhiêu trạng thái thì nó bị vứt bỏ và lìa xa, nằm vô tri giác như một khúc gỗ?" [447](/kinhtrungbo/nanamoli-bodhi-vi/notes/043#447){.note}
 
@@ -192,7 +192,7 @@ Nói lời: "Lành thay, thưa hiền giả," Tôn giả Mahā Kotthita hoan h�
 
 - trí tuệ / paññā / wisdom: Khả năng thấu hiểu bản chất thật sự của các pháp (vô thường, khổ, vô ngã), một số nơi gọi dịch là "Thông tuệ" để phân biệt với trí tuệ thông thường, nhưng điều này thêm sự phức tạp không cần thiết vì mỗi lĩnh vực đều có 2 trạng thái trí tuệ và không trí tuệ.
 - thức / viññāṇa / consciousness: Khả năng nhận biết, gán nhãn các đối tượng của não.
-- cảm thọ / vedanā / feeling: Sự cảm nhận đơn giản nhất của hệ thần kinh (dễ chịu, khó chị, hoặc trung tính) chưa đến mức cao hơn (phân biệt nóng, lạnh...).
+- cảm nhận / vedanā / feeling: Sự cảm nhận đơn giản nhất của hệ thần kinh (dễ chịu, khó chị, hoặc trung tính) chưa đến mức cao hơn (phân biệt nóng, lạnh...).
 - tưởng / saññā / perception: Khả năng nhận biết và ghi nhớ các đặc điểm của đối tượng (như màu sắc, hình dáng).
 - giác quan / indriya / faculties: Các căn (mắt, tai, mũi, lưỡi, thân) dùng để tiếp nhận thế giới bên ngoài.
 - chánh kiến / sammā-diṭṭhi / right view: Quan điểm, cái nhìn đúng đắn về sự thật (Tứ diệu đế), là yếu tố đầu tiên trong Bát chánh đạo.

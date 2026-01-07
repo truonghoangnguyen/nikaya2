@@ -264,7 +264,7 @@ export default defineConfig({
       rel: 'preload',
       as: 'style',
 
-      href: 'https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap',
+      href: 'https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Libre+Baskerville:ital,wght@0,400..700;1,400..700&family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap',
       onload: "this.onload=null;this.rel='stylesheet'"
     }],
 
