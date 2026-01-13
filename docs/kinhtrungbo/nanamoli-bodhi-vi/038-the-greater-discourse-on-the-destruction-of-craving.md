@@ -1,5 +1,6 @@
 ---
-tags: "12 Duyên khởi"
+tags:
+ - 12 Duyên khởi
 ---
 # 38. Đại Kinh về Đoạn Trừ Ái
 ***(Mahātamhāsankhaya Sutta)***

@@ -50,7 +50,6 @@ lai!" Như vậy, này Tỷ-kheo, có sự sai khác trong lòng dục, lòng th
 -- Nhưng bạch Thế Tôn, cho đến như thế nào là ý nghĩa chữ uẩn trong các uẩn?
 
 -- Này Tỷ-kheo, phàm sắc gì, quá khứ, vị lai hay hiện tại, nội hay ngoại, thô hay tế, liệt hay thắng, xa
-
 hay gần, như vậy là sắc uẩn. Phàm cảm thọ gì, quá khứ, vị lai hay hiện tại, nội hay ngoại, thô hay tế, liệt
 hay thắng, xa hay gần, như vậy là thọ uẩn. Phàm tưởng gì, quá khứ, vị lai hay hiện tại... xa hay gần, như
 vậy là tưởng uẩn. Phàm những hành gì, quá khứ, vị lai hay hiện tại... xa hay gần, như vậy là hành uẩn.

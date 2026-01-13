@@ -1,109 +1,85 @@
 <script setup>
-// import thichminhchau from '../../kinhtrungbo/thichminhchau/meta/filelist'
-// import nanamoli_bodhi from '../../kinhtrungbo/nanamoli-bodhi-en/filelist';
+import { computed } from 'vue'
+import { useRoute, useRouter } from 'vitepress'
 
-/**
- * 2 loại so sánh:
- * 1. từ tác giả vd:
- *    - /kinhtangchi/sujato-vi/acb.html -> /kinhtangchi/c-sujato-tmc-vi/acb.html
- *    - /kinhtangchi/thichminhchau/acb.html -> /kinhtangchi/c-sujato-tmc-vi/acb.html
- *    - /kinhtrungbo/nanamoli-bodhi-vi/acb.html -> /kinhtrungbo/c-nm-tmc-vi/acb.html
- * 2. từ so sánh vd:
- *    - /kinhtangchi/c-sujato-tmc-vi/acb.html -> /kinhtangchi/c-sujato-tmc-en/acb.html
- *    - /kinhtangchi/c-sujato-tmc-en/acb.html -> /kinhtangchi/c-sujato-tmc-vi/acb.html
- *    - /kinhtrungbo/c-nm-tmc-vi/acb.html -> /kinhtrungbo/c-nm-tmc-en/acb.html
- * Parses the URL, extracts relevant information, and generates a comparison URL.
- * @param {string} url - /kinhtrungbo/nanamoli-bodhi/001-the-root-of-all-things
- * @returns {string|null} The generated comparison URL or null if invalid.
- */
+const route = useRoute()
+const router = useRouter()
 
-function toHomeCompare(url) {
-  // this is support paths, allow to compare
-  //const compareBooks = ['c-nm-tmc-en', 'c-nm-tmc-vi']
-  const baseBooks = ['nanamoli-bodhi-vi', 'nanamoli-bodhi-en', 'thichminhchau'];
-  // const authorCompareMap = {
-  //   'nanamoli-bodhi': 'c-nm-tmc',
-  //   'nanamoli-bodhi-vi': 'c-nm-tmc-vi'
-  // };
+// Lấy dữ liệu từ Vite define
+const BOOK_NAV = typeof __BOOK_NAV__ !== 'undefined' ? __BOOK_NAV__ : {}
 
-  // (1) Parse the URL
-  const urlParts = url.split('/');
-  //   console.log(urlParts);  // Output: ['', 'kinhtrungbo', 'nanamoli-bodhi', '001-the-root-of-all-things']
+const MAP_CONFIG = {
+  'kinhtrungbo/thichminhchau': {
+    refKey: 'kinhtrungbo/thichminhchau',
+    targetBase: '/kinhtrungbo/c-nm-tmc-vi/',
+    idLength: 3
+  },
+  'kinhtrungbo/nanamoli-bodhi-vi': {
+    refKey: 'kinhtrungbo/thichminhchau',
+    targetBase: '/kinhtrungbo/c-nm-tmc-vi/',
+    idLength: 3
+  },
 
-  if (urlParts.length < 4) {
-    //console.error("Invalid URL format.");
-    return null; // Or handle the error as neededxxxxx
-  }
-
-  const book = urlParts[1];  // "kinhtrungbo"
-  const author = urlParts[2];      // "nanamoli-bodhi"
-  const filename = urlParts[3];    // "001-the-root-of-all-things"
-
-  // current url is compare page, switch from compare Vi-Vi <-> En-Vi
-  if (author.substring(0, 2) == 'c-'){
-    const last2Chars = author.slice(-2);
-    const newLast2Chars = last2Chars === 'vi' ? 'en' : 'vi';
-    const newBook = author.slice(0, -2) + newLast2Chars;
-    return `/${book}/${newBook}/${filename}`;
-  }
-
-  if (!baseBooks.includes(author)) {
-    //console.error("Unsupported author:", author);
-    return null; // Or handle the error
-  }
-
-
-  function findIndexByFilename(filename, listfile) {
-    const baseFilename = filename.split('?')[0].replace(/\.html$/, '');
-
-    // Create a regular expression from the base filename.  Escape special characters for safety.
-    const regex = new RegExp(baseFilename.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'));
-
-    for (let i = 0; i < listfile.length; i++) {
-        if (listfile[i].link && regex.test(listfile[i].link)) {
-            return i;
-        }
-    }
-    return -1;
-  }
-  const fileId = findIndexByFilename(filename, thichminhchau);
-  if (fileId == -1){
-    console.error("fileId out of range", filename);
-    return null;
-  }
-  const thichMinhChauLink = thichminhchau[fileId - 1].link;
-
-    // console.log(thichMinhChauLink); // /kinhtrungbo/thichminhchau/001-kinh-phap-mon-can-ban.md
-  const tmcFilename = thichMinhChauLink.split('/').pop().replace(".md", ""); // "001-kinh-phap-mon-can-ban"
-     //console.log(tmcFilename);
-
-  // (4) Generate the final URL
-  const homeCompare = 'c-nm-tmc-vi' //authorCompareMap[author];
-//   console.log(compareAuthor); //c-nm-tmc
-  const finalURL = `/${book}/${homeCompare}/${tmcFilename}`;
-
-  return finalURL;
+  'kinhtruongbo/thichminhchau': {
+    refKey: 'kinhtruongbo/thichminhchau',
+    targetBase: '/kinhtruongbo/c-sujato-tmc-vi/',
+    idLength: 3
+  },
+   'kinhtruongbo/sujato-vi': {
+    refKey: 'kinhtruongbo/thichminhchau',
+    targetBase: '/kinhtruongbo/c-sujato-tmc-vi/',
+    idLength: 3
+  },
 }
 
-function toComparePage() {
-  const currentURL = window.location.pathname; // Get the current URL from the browser
-    //  console.log(currentURL);
+const targetUrl = computed(() => {
+  const path = route.path
 
-  const newURL = toHomeCompare(currentURL);
+  // 1. Tìm cấu hình mapping khớp với URL hiện tại
+  const currentKey = Object.keys(MAP_CONFIG).find(key => path.includes(key))
+  console.log(currentKey)
+  if (!currentKey) return null
 
-  if (newURL) {
-    console.log("Generated URL:", newURL);
-    window.open(newURL, '_blank');
-  }
-  else{
-    window.location.href = "/compare.html";
+  const config = MAP_CONFIG[currentKey]
+
+  // 2. Trích xuất ID với độ dài linh hoạt
+  // Tạo Regex động: ví dụ len = 2 thì thành /\/(\d{2})-/
+  const len = config.idLength || 3 // Mặc định là 3 nếu không khai báo
+  const dynamicRegex = new RegExp(`\\/(\\d{${len}})-`)
+  const idMatch = path.match(dynamicRegex)
+
+  if (!idMatch) return null
+  const id = idMatch[1]
+  console.log(id)
+  // 3. Tìm slug chuẩn trong bộ tham chiếu (Thích Minh Châu)
+  const refList = BOOK_NAV[config.refKey] || []
+  const refEntry = refList.find(item => {
+    // Lấy tên file từ link (ví dụ: /kinhtrungbo/.../064-abc.md -> 064-abc)
+    const fileName = item.link.split('/').pop().replace('.md', '')
+    return fileName.startsWith(id + '-')
+  })
+
+  if (!refEntry) return null
+
+  // 4. Lấy slug chuẩn và tạo URL đích
+  const finalSlug = refEntry.link.split('/').pop().replace('.md', '')
+
+  // Đảm bảo không bị trùng dấu //
+  const base = config.targetBase.endsWith('/') ? config.targetBase : config.targetBase + '/'
+  return `${base}${finalSlug}.html`
+})
+
+function goToCompare() {
+  if (targetUrl.value) {
+    router.go(targetUrl.value)
   }
 }
+
 </script>
 
 <template>
   <div class="compare-button-container">
-    <button class="compare-button" @click="toComparePage" title="Compare translations">
+    <button class="compare-button" @click="goToCompare" title="Compare translations">
       <svg class="icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
         <path d="M16 3l4 4-4 4"></path>
         <path d="M20 7H4"></path>

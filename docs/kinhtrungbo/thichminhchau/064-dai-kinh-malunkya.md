@@ -131,7 +131,6 @@ sanh, không tầm, không tứ, nội tĩnh nhứt tâm...  ly hỷ trú xả, 
 mà các bậc Thánh gọi là xả niệm lạc trú, chứng và an trú Thiền thứ ba... xả lạc, xả khổ, diệt hỷ ưu đã
 cảm thọ từ trước, chứng và trú Thiền thứ tư không khổ không lạc, xả niệm thanh tịnh.
 
-<!--pg-->
 Vị này chánh quán mọi sắc pháp, thọ pháp, tưởng pháp, hành pháp, thức pháp là vô thường , khổ, như
 bệnh, như cục bướu, như mũi tên, như điều bất hạnh, như bệnh chướng, như kẻ địch, như phá hoại, là
 không, là vô ngã. Vị này giải thoát tâm khỏi các pháp ấy. Sau khi giải thoát tâm khỏi các pháp ấy, vị ấy
@@ -149,6 +148,7 @@ chánh quán mọi sắc pháp, thọ pháp, tưởng pháp, hành pháp, thức
 không phải trở lui đời này nữa. Này Ananda, đây là con đường, đây là lộ trình đưa đến sự đoạn trừ năm
 hạ phần kiết sử.
 
+<!--pg-->
 Lại nữa, này Ananda, Tỷ-kheo vượt lên mọi Hư không vô biên xứ, nghĩ rằng: "Thức là vô biên", chứng
 và trú Thức vô biên xứ... (như trên)... vượt lên mọi Thức vô biên xứ, nghĩ rằng: "Không có vật gì",
 chứng và trú Vô sở hữu xứ. Vị này chánh quán mọi sắc pháp, thọ pháp, tưởng pháp, hành pháp, thức

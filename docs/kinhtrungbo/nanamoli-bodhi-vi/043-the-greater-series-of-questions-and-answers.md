@@ -54,9 +54,9 @@ Nói lời: "Lành thay, thưa hiền giả," Tôn giả Mahā Kotthita hoan h�
 <!--pg-->
 #### (ĐIỀU ĐƯỢC BIẾT BỞI Ý)
 
-10\. "Thưa hiền giả, điều gì có thể được biết bởi ý thức (manoviññāṇa) thanh tịnh đã thoát khỏi năm *giác quan* (faculties/ indriya/ căn)?"
+10\. "Thưa hiền giả, điều gì có thể được biết bởi *thức của giác quan ý* (ý thức/manoviññāṇa) thanh tịnh đã thoát khỏi năm *giác quan* (faculties/ indriya/ căn)?"
 
-"Thưa hiền giả, bởi ý thức thanh tịnh đã thoát khỏi năm giác quan, Không vô biên xứ có thể được biết như sau: 'Hư không là vô biên'; Thức vô biên xứ có thể được biết như sau: 'Thức là vô biên'; và Vô sở hữu xứ có thể được biết như sau: 'Không có gì cả'." [437](/kinhtrungbo/nanamoli-bodhi-vi/notes/043#437){.note}
+"Thưa hiền giả, bởi *thức của giác quan ý* được thanh tịnh đã thoát khỏi năm giác quan, Không vô biên xứ có thể được biết như sau: 'Hư không là vô biên'; Thức vô biên xứ có thể được biết như sau: 'Thức là vô biên'; và Vô sở hữu xứ có thể được biết như sau: 'Không có gì cả'." [437](/kinhtrungbo/nanamoli-bodhi-vi/notes/043#437){.note}
 
 11\. "Thưa hiền giả, một người hiểu một trạng thái có thể được biết bằng cái gì?"
 

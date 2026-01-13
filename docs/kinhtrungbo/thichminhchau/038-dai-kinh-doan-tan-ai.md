@@ -102,7 +102,6 @@ luân chuyển nhưng không đổi khác.
 -- Này kẻ mê mờ kia, vì ai mà Ông lại hiểu pháp Ta thuyết giảng như vậy. Này kẻ mê mờ kia, có phải
 chăng, Ta đã dùng nhiều pháp môn nói là thức do duyên khởi, không có duyên, thì thức không hiện
 khởi? Và này kẻ mê mờ kia, không những Ông xuyên tạc Ta, vì Ông đã tự chấp thủ sai lạc, Ông còn tự
-
 phá hoại Ông và tạo nên nhiều tổn đức. Này kẻ mê mờ kia, và như vậy sẽ đưa đến bất hạnh và đau khổ
 lâu dài cho Ông.
 
