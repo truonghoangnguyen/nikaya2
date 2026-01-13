@@ -94,8 +94,8 @@ export default defineConfig({
         name: 'copy-markdown-files',
         // This hook runs at the end of the build process
         async closeBundle() {
-          const sourceDirs = []['./docs/kinhtruongbo/', './docs/kinhtrungbo/', './docs/kinhtangchi/']; // Directories with your MD files
-          return;
+          const sourceDirs = ['./docs/kinhtruongbo/', './docs/kinhtrungbo/', './docs/kinhtangchi/']; // Directories with your MD files
+
           // Fix for ESM __dirname
           const fs = await import('node:fs/promises');
           const { fileURLToPath } = await import('url');
