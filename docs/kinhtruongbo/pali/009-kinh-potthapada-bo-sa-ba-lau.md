@@ -1,3 +1,7 @@
+---
+tags:
+ - thực tại (tưởng)
+---
 
 # Kinh Poṭṭhapāda (Bố-tra-bà-lâu)
 

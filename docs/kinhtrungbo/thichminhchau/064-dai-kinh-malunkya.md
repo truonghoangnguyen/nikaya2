@@ -1,3 +1,8 @@
+---
+tags:
+ - 4 thiền-na (tứ thiền)
+---
+
 # 64. ÐẠI KINH MÀLUNKYA
 
 **64. ÐẠI KINH MÀLUNKYA**

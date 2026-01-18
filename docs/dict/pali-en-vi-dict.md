@@ -183,7 +183,10 @@
 | *kāma* | (1) sensual pleasure; (2) sensual desire; (3) sense-sphere (being) | Dục | (1) Dục giác quan; (2) Khát dục-giác-quan; (3) Cõi dục |
 | *Kāma-loka* | | dục giới | Cõi dục |
 | *kāmaguṇa* | cord of sensual pleasure | Dục công đức | Dây trói buộc dục-giác-quan |
-| *kāmacchanda* | sensual desire | Dục ước | Khát dục-giác-quan |
+| *kāmacchanda* | sensual desire | Dục ước | Tham dục-giác-quan |
+| *vatthu-kāma* |  | Dục cảnh | đối tượng bên ngoài kích thích 5 giác quan |
+| *Kilesa-kāma* |  | Dục phiền não | ám ảnh khao khát |
+| *Pañca kāmaguṇā* | | Ngũ dục | Năm sợi dây trói buộc |
 | *kāya* | body | Thân | Cơ thể |
 | *kāyasakkhin* | body-witness | Thân chứng | Người chứng ngộ qua thân |
 | \**kisora* | foal | Ngựa con | |
