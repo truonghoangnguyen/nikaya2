@@ -1,3 +1,8 @@
+---
+tags:
+ - Sāriputta
+ - nhiều khái niệm
+---
 # 9. KINH CHÁNH TRI KIẾN
 
 **9. KINH CHÁNH TRI KIẾN**

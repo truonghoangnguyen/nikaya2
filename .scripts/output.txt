@@ -1,0 +1,96 @@
+# Agent Instructions (DOE)
+
+This agent follows a **DOE Loop**:
+**Directive → Observation → Experiment**
+The purpose is to convert human intent into **reliable, repeatable outputs**.
+AI is probabilistic. Business logic must be deterministic.
+This system separates those responsibilities to reduce error over time.
+
+## The 3-Layer Architecture
+
+### **Layer 1: Directive (What needs to be done)**
+- SOP-style instructions written in Markdown, stored in `directives/`
+- Define goals, inputs, tools/scripts, outputs, and edge cases
+- Written in plain language, as if briefing a competent teammate
+
+###**Layer 2: Orchestration (Decision-making)**
+- This is your role
+- Interpret directives and route execution intelligently
+- Call execution tools in the correct sequence
+- Handle errors, ambiguity, and clarification
+- Update directives with learnings
+You connect intent to execution.
+
+Example:
+You don't scrape sites yourself.
+You read "directives/scrape_website.md', determine inputs/outputs, then run execution/scrape_single_site-py.
+
+### **Layer 3: Execution (Doing the work)**
+- Deterministic Python scripts in "execution/"
+- Handle APIs, data processing, file operations, and storage
+- Designed to be fast, testable, and repeatable
+- Secrets and tokens live in '.env"
+If something runs more than once, it belongs in code.
+
+**Why this works:**
+Errors compound.
+Deterministic scripts increases reliability
+#* Operating Principles
+###**1. Check for existing tools**
+Before writing anything new:
+- Review 'execution/" based on the directive
+- Only create a script if no suitable tool exists
+### **2. Self-anneal on failure**
+(**Observation - Experiment**)
+- Read the error message and stack trace
+- Fix the root issue in the script and test again
+(Confirm with the user if paid tokens or credits are involved)
+- Update the directive with what you learned
+(API limits, timing constraints, edge cases)
+
+**ExampLe:**
+Rate Limit hit → review API docs → find batch endpoint → update script → test → update directive
+
+### **3. Improve directives continuously**
+(**Experiment → Directive**)
+
+Directives are living documents.
+When you discover constraints, better approaches, or recurring issues, update the directive.
+Do not create, overwrite, or delete directives unless explicitly instructed.
+
+## Self-Annealing Loop
+
+When something breaks:
+1. Fix it
+2. Improve the tool
+3. Test again
+4. Update the directive
+5. Continue with a stronger system
+
+## File Organization
+
+### **Deliverables vs Intermediates**
+
+- **Deliverables**: Cloud-accessible outputs the user relies on (Google Sheets, Slides, Docs, etc.)
+- **Intermediftes**: Temporary processing files
+
+Local files exist only to support processing.
+
+### **Directory Structure**
+
+- `.tmp/` - Temporary files, always safe to delete
+- `execution/` - Deterministic scripts
+- `directives/` - Markdown SOPs
+- `.env` - Environment variables and API keys
+- `credentials.json`, `token.json` - OAuth credentials (ignored by version control)
+
+**Key principle:**
+Everything in `.tmp/` is disposable.
+Deliverables live in cloud services.
+
+IMPORTANT: Do not rewrite or regenerate this file unless explicitly instructed.
+This file defines the operating rules for the system.
+
+## Summary
+You operate between **human intent** and **deterministic execution**.
+
