@@ -1,5 +1,5 @@
 {
-  "name": "multilingual-docs",
+  "name": "multilingual-nikaya",
   "version": "1.0.0",
   "description": "Multilingual documentation with side-by-side comparison",
   "type": "module",
@@ -9,7 +9,7 @@
     "docs:dev": "vitepress dev docs",
     "docs:build": "vitepress build docs",
     "docs:preview": "vitepress preview docs",
-    "docs:buildsearch": "vitepress build --search",
+    "docs:buildsearch": "vitepress build docs --search",
     "import": "node scripts/import-docs.js",
     "update-config": "node scripts/update-config.js",
     "generate-sidebar": "node scripts/generate-sidebar.js"

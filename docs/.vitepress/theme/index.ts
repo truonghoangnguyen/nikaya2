@@ -8,6 +8,7 @@ import CompareButton from '../components/CompareButton.vue'
 import NotePopup from '../components/NotePopup.vue'
 import NavFontSizeButton from './NavFontSizeButton.vue'
 import HomePageLayout from './components/HomePageLayout.vue'
+import Home2Page from './components/Home2Page.vue'
 import IndexButton from '../components/IndexButton.vue'
 import DocTags from './components/DocTags.vue'
 import './style.css'
@@ -22,6 +23,7 @@ export default {
     app.component('CompareButton', CompareButton)
     app.component('NotePopup', NotePopup)
     app.component('HomePageLayout', HomePageLayout)
+    app.component('Home2Page', Home2Page)
     app.component('IndexButton', IndexButton)
     app.component('DocTags', IndexButton)
   },

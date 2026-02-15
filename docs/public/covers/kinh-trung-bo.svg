@@ -1,0 +1,20 @@
+<svg width="600" height="900" viewBox="0 0 600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gtb" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#F2E9DD" />
+      <stop offset="100%" stop-color="#D9C4A7" />
+    </linearGradient>
+    <linearGradient id="gtb-sun" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#F6C453" />
+      <stop offset="100%" stop-color="#E07A5F" />
+    </linearGradient>
+  </defs>
+  <rect width="600" height="900" rx="32" fill="url(#gtb)" />
+  <circle cx="430" cy="200" r="90" fill="url(#gtb-sun)" opacity="0.9" />
+  <path d="M0 620C120 560 210 520 300 520C390 520 490 560 600 630V900H0V620Z" fill="#6D597A" />
+  <path d="M0 700C130 650 220 630 310 640C400 650 500 690 600 740V900H0V700Z" fill="#355070" />
+  <text x="60" y="140" font-family="Crimson Text, serif" font-size="48" fill="#2F2B2A">Kinh Trung Bộ</text>
+  <text x="60" y="190" font-family="Manrope, sans-serif" font-size="22" fill="#5B5450" letter-spacing="2">Majjhima Nikaya</text>
+  <rect x="60" y="250" width="190" height="6" fill="#2F2B2A" opacity="0.2" />
+  <text x="60" y="320" font-family="Manrope, sans-serif" font-size="20" fill="#2F2B2A">152 bài kinh trung bình</text>
+</svg>

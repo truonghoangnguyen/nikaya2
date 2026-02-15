@@ -279,10 +279,20 @@ export default defineConfig({
     search: {
       provider: 'local',
       options: {
+        _render(src, env, md) {
+          if (/^kinhtrungbo\/c-nm-tmc-vi\//.test(env.relativePath)) {
+            console.log('??frontmatter:', env)
+          }
+
+          // Render bình thường
+          const html = md.render(src, env)
+          return html
+        },
         miniSearch: {
           searchOptions: {
-            boost: { title: 10, headers: 8, text: 2 },
-            fuzzy: false,
+            fields: ['title'],
+            // boost: { title: 10, headers: 8, text: 0 },
+            fuzzy: true,
           }
         }
       }

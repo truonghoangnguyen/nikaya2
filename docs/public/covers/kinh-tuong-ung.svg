@@ -1,0 +1,22 @@
+<svg width="600" height="900" viewBox="0 0 600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="ktg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#E3F5F2" />
+      <stop offset="100%" stop-color="#9AD0C2" />
+    </linearGradient>
+    <linearGradient id="ktg-wave" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#2A9D8F" />
+      <stop offset="100%" stop-color="#1F6F68" />
+    </linearGradient>
+  </defs>
+  <rect width="600" height="900" rx="32" fill="url(#ktg)" />
+  <path d="M60 520C120 470 200 450 300 450C400 450 480 470 540 520" stroke="url(#ktg-wave)" stroke-width="10" fill="none" />
+  <path d="M60 590C120 540 200 520 300 520C400 520 480 540 540 590" stroke="url(#ktg-wave)" stroke-width="10" fill="none" opacity="0.7" />
+  <path d="M60 660C120 610 200 590 300 590C400 590 480 610 540 660" stroke="url(#ktg-wave)" stroke-width="10" fill="none" opacity="0.5" />
+  <circle cx="120" cy="260" r="50" fill="#F4A261" opacity="0.9" />
+  <circle cx="190" cy="260" r="50" fill="#E76F51" opacity="0.9" />
+  <circle cx="155" cy="220" r="50" fill="#F2C078" opacity="0.9" />
+  <text x="60" y="140" font-family="Crimson Text, serif" font-size="48" fill="#234645">Kinh Tương Ưng</text>
+  <text x="60" y="190" font-family="Manrope, sans-serif" font-size="22" fill="#2A6B68" letter-spacing="2">Samyutta Nikaya</text>
+  <text x="60" y="330" font-family="Manrope, sans-serif" font-size="20" fill="#234645">56 chương theo chủ đề</text>
+</svg>

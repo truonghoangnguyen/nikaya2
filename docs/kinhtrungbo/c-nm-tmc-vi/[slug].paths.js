@@ -19,11 +19,11 @@ const mdLeft = new MarkdownIt({
   linkify: true,
   typographer: true
 }).use(anchor, {
-    permalink: anchor.permalink.ariaHidden({
-      symbol: '',
-      placement: 'before'
-    }),
-    slugify: (s) => slugAnchor(s),
+  permalink: anchor.permalink.ariaHidden({
+    symbol: '',
+    placement: 'before'
+  }),
+  slugify: (s) => slugAnchor(s),
 }).use(markdownItAttrs);
 
 const mdRight = new MarkdownIt({
@@ -69,8 +69,8 @@ export default {
 
         // Đọc và render nội dung cho cả hai cột
         const [leftHtml, rightHtml] = await Promise.all([
-            readAndRenderMarkdown(data.left, mdLeft),
-            readAndRenderMarkdown(data.right, mdRight)
+          readAndRenderMarkdown(data.left, mdLeft),
+          readAndRenderMarkdown(data.right, mdRight)
         ]);
 
         // Trả về params mới với dữ liệu HTML đã được thêm vào

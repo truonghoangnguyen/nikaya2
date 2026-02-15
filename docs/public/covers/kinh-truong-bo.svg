@@ -1,0 +1,22 @@
+<svg width="600" height="900" viewBox="0 0 600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gtl" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ECE8F5" />
+      <stop offset="100%" stop-color="#B7B0D8" />
+    </linearGradient>
+    <linearGradient id="gtl-orn" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#5A4E8C" />
+      <stop offset="100%" stop-color="#2F2B4F" />
+    </linearGradient>
+  </defs>
+  <rect width="600" height="900" rx="32" fill="url(#gtl)" />
+  <rect x="70" y="260" width="460" height="520" rx="24" fill="#F7F5FB" stroke="#5A4E8C" stroke-width="6" />
+  <path d="M100 360H500" stroke="url(#gtl-orn)" stroke-width="8" />
+  <path d="M100 520H500" stroke="url(#gtl-orn)" stroke-width="8" />
+  <path d="M130 400H470" stroke="#5A4E8C" stroke-width="2" opacity="0.6" />
+  <path d="M130 560H470" stroke="#5A4E8C" stroke-width="2" opacity="0.6" />
+  <text x="60" y="140" font-family="Crimson Text, serif" font-size="48" fill="#2F2B2A">Kinh Trường Bộ</text>
+  <text x="60" y="190" font-family="Manrope, sans-serif" font-size="22" fill="#4C3F6F" letter-spacing="2">Digha Nikaya</text>
+  <text x="120" y="460" font-family="Manrope, sans-serif" font-size="20" fill="#4C3F6F">34 bài kinh dài</text>
+  <text x="120" y="620" font-family="Manrope, sans-serif" font-size="20" fill="#4C3F6F">Triết học và lịch sử</text>
+</svg>

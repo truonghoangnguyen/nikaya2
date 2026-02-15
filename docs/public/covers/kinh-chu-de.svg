@@ -1,0 +1,16 @@
+<svg width="600" height="900" viewBox="0 0 600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="kcd" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#E7ECFA" />
+      <stop offset="100%" stop-color="#B0C3F5" />
+    </linearGradient>
+  </defs>
+  <rect width="600" height="900" rx="32" fill="url(#kcd)" />
+  <rect x="90" y="260" width="420" height="480" rx="28" fill="#F7F9FF" />
+  <circle cx="210" cy="420" r="80" fill="#3D5A80" opacity="0.9" />
+  <circle cx="390" cy="420" r="80" fill="#98C1D9" opacity="0.9" />
+  <circle cx="300" cy="540" r="80" fill="#EE6C4D" opacity="0.85" />
+  <text x="60" y="140" font-family="Crimson Text, serif" font-size="48" fill="#2F3A56">Kinh Chủ Đề</text>
+  <text x="60" y="190" font-family="Manrope, sans-serif" font-size="22" fill="#44557A" letter-spacing="2">Chủ đề chọn lọc</text>
+  <text x="140" y="690" font-family="Manrope, sans-serif" font-size="20" fill="#2F3A56">Tổng hợp theo chủ đề</text>
+</svg>
