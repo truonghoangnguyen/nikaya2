@@ -276,8 +276,30 @@ export default defineConfig({
 
   // Theme configuration
   themeConfig: {
+
     search: {
       provider: 'local',
+      options: {
+        miniSearch: {
+          searchOptions: {
+            fields: ["title"],
+            fuzzy: 0.2,
+            prefix: true,
+            boost: { title: 4, text: 0, titles: 0 }
+          }
+        }
+
+        //   _render(src, env, md) {
+        //     const html = md.render(src, env)
+        //     if (env.frontmatter?.search === false) return ''
+
+        //     // Remove H2-H6 headers to exclude them from the search index
+        //     const content = src.replace(/^#{2,}\s.*/gm, '')
+        //     return md.render(content, env)
+        //   }
+
+      },
+
     },
     // https://vitepress.dev/reference/default-theme-config
     nav: [

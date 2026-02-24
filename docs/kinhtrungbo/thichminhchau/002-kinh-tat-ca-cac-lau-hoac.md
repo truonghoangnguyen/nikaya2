@@ -1,3 +1,7 @@
+---
+tags:
+ - nguồn ác
+---
 # 2. KINH TẤT CẢ CÁC LẬU HOẶC
 
 **2. KINH TẤT CẢ CÁC LẬU HOẶC**
@@ -163,7 +167,6 @@ không còn nữa. Này các Tỷ-kheo, các pháp ấy được gọi là các 
 ***(Các lậu hoặc phải do tu tập được đoạn trừ)***
 
 Và này các Tỷ-kheo, thế nào là các lậu hoặc phải do tu tập được đoạn trừ? Này các Tỷ-kheo, ở đây, Tỷ-
-
 kheo như lý giác sát tu tập niệm giác chi, niệm giác chi này y viễn ly, y ly tham, y đoạn diệt, hướng đến
 từ bỏ; như lý giác sát tu tập trạch pháp giác chi... (như trên)... tu tập tinh tấn giác chi... tu tập hỷ giác
 chi... tu tập khinh an giác chi... tu tập định giác chi... tu tập xả giác chi; xả giác chi này y viễn ly, y ly

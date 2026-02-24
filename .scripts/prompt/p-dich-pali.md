@@ -18,7 +18,7 @@ Với mỗi văn bản đầu vào, bạn hãy thực hiện tuần tự 2 bư�
 *Bảng thuật ngữ:*
 | Thuật ngữ Pali | Từ cũ (Hán-Việt) | Từ mới (Hiện đại) | Ghi chú |
 | :--- | :--- | :--- | :--- |
-| Khīṇāsava | Lậu tận | Người đã sạch nguồn sinh ác |  |
+| Khīṇāsava | Lậu tận | Người đã sạch nguồn ác |  |
 | [!] abhijānāti | thắng tri | hiểu trực tiếp | biết trực tiếp, hiểu qua kinh nghiệm, tự mình biết |
 
 ## Bước 2: Dịch thuật & Trình bày (Translation & Formatting)
@@ -59,22 +59,22 @@ Viết lại đoạn văn bản sang tiếng Việt hiện đại dựa trên k�
 | dục (kāma) | sự dễ chịu giác quan |  |
 | dục (cchanda) | mong muốn | hoặc "ý nguyện" |
 | ngũ dục (kāma-guṇa) | sợi dây trói buộc của dễ chịu giác quan | |
-| ly | cách ly |  (trong ly dục, ly ác pháp) |
+| ly (Vivicca)| cách ly |  (trong ly dục, ly ác pháp) |
 | bất thiện pháp | các điều không thiện |  |
 | Thiền | Thiền-na |  |
 | phiền não (kilesa) | nhiễm bẩn | |
-| Lậu hoặc (Āsava) | nguồn sinh ác | Kāmāsava(Dục lậu)-> nguồn sinh ác từ ham muốn giác quan; Khīṇāsava(lậu tận) -> hết sạch nguồn ác; Avijjāsav(Vô minh lậu) -> nguồn sinh ác từ Vô minh; Bhavāsava(Hữu lậu)-> nguồn sinh ác từ mong muốn hiện hữu |
+| Lậu hoặc (Āsava) | nguồn ác | Kāmāsava(Dục lậu)-> nguồn ác của ham muốn giác quan; Khīṇāsava(lậu tận) -> hết sạch nguồn ác; Avijjāsav(Vô minh lậu) -> nguồn ác của Không Hiểu Biết; Bhavāsava(Hữu lậu)-> nguồn ác của mong muốn hiện hữu |
 | Tầm và Tứ (có tầm có tứ) | ý nghĩ và duy trì ý nghĩ |  |
 | Không tầm không tứ | Không còn ý nghĩ hay duy trì ý nghĩ |  |
 | Thọ lạc, khổ, bất lạc bất khổ | Cảm Giác Dễ Chịu, Khó Chịu, Không Dễ Chịu Không Khó Chịu |  |
 | Diệt | Chấm dứt |  |
-| Ý căn |  Giác quan Suy Nghĩ | |
-| Ý thức (manoviññāṇa)| Nhận Biết Bản Năng của giác quan Suy Nghĩ  | |
+| Ý căn |  Giác quan Nghĩ | |
+| Ý thức (manoviññāṇa)| Sự phân biệt mọi điều của giác quan Nghĩ  | |
 | Căn | Giác quan | |
 | không vô biên xứ  (Ākāsānañcāyatana) | cõi Không Gian là Vô Tận | |
-| thức vô biên xứ | cõi Nhận Biết Bản Năng là Vô Tận | |
+| thức vô biên xứ | cõi Sự Phân Biệt là Vô Tận | |
 | vô sở hữu xứ  | cõi Không Có Vật Gì | |
-| phi tưởng phi phi tưởng xứ | cõi Không Phải "Đang Nhận Thức"; Cũng Không Phải "Mất Nhận Thức" |  |
+| phi tưởng phi phi tưởng xứ | cõi Không Phải "Có Nhận Thức"; Cũng Không Phải "Mất Nhận Thức" |  |
 | hành | hoạt động |  |
 | duyên | điều kiện |  |
 | vô vi | hình thành không do điều kiện |  |
@@ -99,7 +99,7 @@ Viết lại đoạn văn bản sang tiếng Việt hiện đại dựa trên k�
 | hữu(bhava) | cõi tồn tại | |
 | liễu tri (pariññāta) | hiểu biết hoàn toàn | |
 | thắng tri (abhijānāti) | hiểu biết trực tiếp | |
-| (phi) như lý tác ý (yoniso manasikāra) | (không) hiểu nguyên nhân gốc rễ | suy nghĩ và tìm hiểu vấn đề đến gốc rễ (hiểu đến nguyên lý, không thể đi xa hơn được). |
+| (phi) như lý tác ý (yoniso manasikāra) | (không) tìm hiểu nguyên nhân gốc rễ | suy nghĩ và tìm hiểu vấn đề đến gốc rễ (hiểu đến nguyên lý, không thể đi xa hơn được). |
 | paṭisaṅkhā yoniso | thận trọng suy xét |  |
 | tỉnh giác | biết rõ | |
 | quán | quan sát | |
@@ -111,12 +111,11 @@ Viết lại đoạn văn bản sang tiếng Việt hiện đại dựa trên k�
 | 5 Uẩn (Pañca-khandhā) | Năm Hợp Thành | |
 | Sắc(Rūpa) | Vật chất | cho ngữ cảnh 5 uẩn, liên quan đến yếu tố vật chất |
 | Sắc(Rūpa) | Hình ảnh | cho ngữ cảnh 12 xứ, liên quan đến thị giác |
-| Thọ(Vedanā) | Cảm giác | |
-| Tưởng(Saññā) | Nhận thức | |
-| Hành(Saṅkhārā) | Hoạt động | |
-| Thức(Viññāṇa) | Phân biệt | |
+| Thọ(Vedanā) | Cảm Giác | |
+| Tưởng(Saññā) | Nhận Thức | |
+| Hành(Saṅkhārā) | Hoạt Động | |
+| Thức(Viññāṇa) | Phân Biệt | |
 | 12 duyên khởi (Paṭicca-samuppāda) | 12  Điều Kiện Sinh Khởi | |
-| Vô minh(Avijjā) | Vô minh | |
 | Hành(Saṅkhārā) | Hoạt động | |
 | Thức(Viññāṇa) | Phân biệt | |
 | Danh–sắc(Nāma-rūpa) | Tinh thần - Vật chất | |
@@ -141,7 +140,7 @@ Viết lại đoạn văn bản sang tiếng Việt hiện đại dựa trên k�
 | Diệt đế(Nirodha-sacca) | Thánh đế về sự chấm dứt đau khổ | |
 | Đạo đế(Magga-sacca) | Thánh đế về con đường đưa đến chấm dứt đau khổ | |
 | Bát Thánh Đạo (Ariya Aṭṭhaṅgika Magga) | Tám Bước Thiện | |
-| pháp (dhamma) | Điều; Điều Đúng; Điều Chân Lý; Điều xảy ra |  có thể dịch là "những Điều", "các Điều" |
+| pháp (dhamma) | Điều; Điều dạy; Điều Đúng; Điều Chân Lý; Điều xảy ra | khi đi với người dịch là "Điều Dạy" e.g:"Điều Dạy của bậc thánh" |
 | phi pháp (adhammā) | Điều Sai | hoặc "những Điều Sai"|
 | pháp thiện và bất thiện(Kusalākusalā dhammā) | những điều thiện và không thiện | |
 | Chánh kiến(Sammā-diṭṭhi) | Nhìn Thấy Thiện | |
@@ -170,14 +169,14 @@ Viết lại đoạn văn bản sang tiếng Việt hiện đại dựa trên k�
 | Thân kiến(Sakkāya-diṭṭhi) | Thấy mình là thật | |
 | Nghi(Vicikicchā) | Nghi ngờ | |
 | Giới cấm thủ(Sīlabbata-parāmāsa) | Mê tín và giáo điều | |
-| ái(rāga) | Đắm nhiễm | virāgā -> phai nhạt đắm nhiễm;  |
+| ái(rāga) | Đắm nhiễm | virāgā -> phai nhạt của đắm nhiễm;  |
 | Dục ái(Kāma-rāga) | Đắm nhiễm sự Dễ chịu giác quan | |
 | Sân(Paṭigha) | Ghét bỏ và hận thù | |
 | Sắc ái(Rūpa-rāga) | Đắm nhiễm Cõi vật chất | |
 | Vô sắc ái(Arūpa-rāga) | Đắm nhiễm Cõi phi vật chất | |
 | Mạn(Māna) | Ngạo mạn | |
 | Trạo cử(Uddhacca) | Bồn chồn | |
-| Vô minh(Avijjā) | Vô minh | |
+| Vô minh(Avijjā) | Không Hiểu Biết | |
 | 4 niệm xứ (Cattāro Satipaṭṭhānā) | 4 nơi quan sát | |
 | Thân niệm xứ(Kāyā-nupassanā) | Quan sát cơ thể | |
 | Thọ niệm xứ(Vedanā-nupassanā) | Quan sát cảm giác | |
@@ -187,6 +186,14 @@ Viết lại đoạn văn bản sang tiếng Việt hiện đại dựa trên k�
 | quán thọ trên thọ | quan sát Cảm Giác qua Cảm Giác của mình | |
 | quán tâm trên tâm | quan sát Tâm qua Tâm của mình | |
 | quán pháp trên pháp | quan sát những Điều xảy ra trong ý nghĩ của mình | |
+| tưởng tri (sañjānāti) | hiểu bề mặt (về) | thêm chữ "về" khi phía sau là một điều gì đó->"hiểu bề mặt về Đất" |
+| thắng tri (abhijānāti) | hiểu thực tế (về) | thêm chữ "về" khi phía sau là một điều gì đó->"hiểu thực tế về Đất"|
+| liễu tri (pariññāta) | hiểu toàn thể | thêm chữ "về" khi phía sau là một điều gì đó->"hiểu toàn thể về Đất" |
+| Tri kiến (Dassanā) | thấy rõ bản chất | |
+| tác ý (manasikāra) | suy nghĩ; suy nghĩ đến | dùng "suy nghĩ đến" khi từ tiếp theo 1 điều gì đó  |
+| tà kiến(diṭṭhi) | quan điểm sai | |
+| trừ diệt(vinodanā) | loại trừ | |
+| tu tập (bhāvanā) | luyện tập | |
 </DICTIONARY>
 
 ### 3.1 Những từ giữ nguyên
@@ -197,7 +204,7 @@ Như Lai; phàm phu;
 - Vô văn->người không học;
 - Phàm phu->người thường;
 - Chân nhân -> chân nhân;
-- hữu học -> có học
+- hữu học(sutavā) -> có học
 
 # VÍ DỤ MINH HỌA (FEW-SHOT EXAMPLE)
 

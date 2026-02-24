@@ -1,3 +1,7 @@
+---
+tags:
+ - Sāriputta
+---
 # 3. KINH THỪA TỰ PHÁP
 
 **3. KINH THỪA TỰ PHÁP**
