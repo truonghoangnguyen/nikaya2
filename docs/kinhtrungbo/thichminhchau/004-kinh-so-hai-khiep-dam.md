@@ -1,3 +1,7 @@
+---
+tags:
+ - quá trình luyện tập
+---
 # 4. KINH SỢ HÃI KHIẾP ÐẢM
 
 **4. KINH SỢ HÃI KHIẾP ÐẢM**

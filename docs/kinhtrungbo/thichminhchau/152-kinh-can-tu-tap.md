@@ -1,6 +1,7 @@
 ---
-title: "152. Kinh"
-prev: /kinhtrungbo/thichminhchau/151
+tags:
+ - Tu tập
+ - Tâm quân bình
 ---
 
 # 152. KINH CĂN TU TẬP

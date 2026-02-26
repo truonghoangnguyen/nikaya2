@@ -39,28 +39,27 @@ Viết lại đoạn văn bản sang tiếng Việt hiện đại dựa trên k�
 ## 2. Nguyên tắc "Trung thành với văn bản"
 - Chỉ dịch và chú thích những từ Pali thực sự xuất hiện trong văn bản gốc. Không tự ý thêm từ thường đi kèm (collocations) nếu văn bản không có (ví dụ: thấy `yoniso` thì dịch `yoniso`, không tự thêm `manasikāra`).
 
-
 ## 3. Bảng Quy Chuẩn (Vocabulary Mapping)
 
 <DICTIONARY>
-*Lưu ý: Tra cứu từ Pali hoặc từ Hán-Việt trong bảng này để bắt buộc chọn "Từ mới (Hiện đại)" tương ứng.*
+*Lưu ý: Tra cứu từ Pali(Hán-Việt) trong bảng này và sử dụng từ trong cột "Từ mới (Hiện đại)" để dịch.*
 
 | Từ cũ (Hán-Việt) | Từ mới (Hiện đại) | Ghi chú |
 | :--- | :--- | :--- |
 | đoạn tận (khayā) | cạn sạch | dùng trong tâm lý, cảm xúc |
 | diệt (nirodhā) | cắt đứt; ngừng lại | dùng trong những điều trừu tượng. "cắt đứt" dùng cho 90% trường hợp; "ngừng lại" cho "diệt thọ tưởng định" |
-| xả ly (cāgā) | từ bỏ |
-| từ bỏ hoàn toàn (paṭinissagga) | loại bỏ hoàn toàn |
+| xả ly (cāgā) | bố thí; cho đi |
 | tỳ kheo | tỳ kheo | |
-| hỷ lạc(abhinandanā) | vui thú chạy theo |
+| hỷ lạc (abhinandanā) | vui thú chạy theo |
 | abhinandunti | vui mừng đón nhận | (lời dạy của phật) |
 | tham ái (taṇhā) | khao khát | hoặc có thể dịch là "thèm khát" với vật chất |
-| tham ái (rāga) | đắm nhiễm | |
+| tham (rāga) | đắm nhiễm | |
+| ly tham (virāgā) | cạn hết đắm nhiễm | |
 | dục (kāma) | sự dễ chịu giác quan |  |
 | dục (cchanda) | mong muốn | hoặc "ý nguyện" |
 | ngũ dục (kāma-guṇa) | sợi dây trói buộc của dễ chịu giác quan | |
-| ly (Vivicca)| cách ly |  (trong ly dục, ly ác pháp) |
-| bất thiện pháp | các điều không thiện |  |
+| viễn ly (Viveka) | cách ly; sự rời xa | Pavivitta = "thực trong sự cách ly" |
+| ly (Vivicca)| hoàn toàn cách ly khỏi | "Sau khi đã tách rời", "sau khi đã xa lìa" |
 | Thiền | Thiền-na |  |
 | phiền não (kilesa) | nhiễm bẩn | |
 | Lậu hoặc (Āsava) | nguồn ác | Kāmāsava(Dục lậu)-> nguồn ác của ham muốn giác quan; Khīṇāsava(lậu tận) -> hết sạch nguồn ác; Avijjāsav(Vô minh lậu) -> nguồn ác của Không Hiểu Biết; Bhavāsava(Hữu lậu)-> nguồn ác của mong muốn hiện hữu |
@@ -76,19 +75,21 @@ Viết lại đoạn văn bản sang tiếng Việt hiện đại dựa trên k�
 | vô sở hữu xứ  | cõi Không Có Vật Gì | |
 | phi tưởng phi phi tưởng xứ | cõi Không Phải "Có Nhận Thức"; Cũng Không Phải "Mất Nhận Thức" |  |
 | hành | hoạt động |  |
-| duyên | điều kiện |  |
-| vô vi | hình thành không do điều kiện |  |
-| hữu vi | hình thành do điều kiện |  |
-| tướng | hình dáng |  |
+| duyên (paṭicca) | Do Điều Kiện | |
+| duyên khởi (paṭiccasamuppāda) | Sự Hình Thành Do Điều Kiện  | |
+| duyên sinh (paṭiccasamuppanna) | Thứ Hình Thành Do Điều Kiện | quá khứ phân từ của paṭiccasamuppāda |
+| vô vi | phi Được Hợp Thành |  |
+| hữu vi(Saṅkhata) | Được Hợp Thành |  |
+| tướng | hình dáng | |
 | vô tướng | không chạy theo hình dáng | |
 | vô tướng tâm định | Định trong trạng thái tâm không chạy theo hình dáng | |
 | vô tướng tâm giải thoát | Giải thoát qua tâm không chạy theo hình dáng | |
 | vô lượng(appamāṇa) | không giới hạn | |
-| từ (Mettā)  | tâm yêu thương | |
-| bi (Karuṇā) | tâm thương cảm | |
-| hỉ (muditā) | tâm cùng vui | |
-| xả (upekkhā) | tâm quân bình | dùng trong "tâm xả" |
-| xả (pahānā) | loại bỏ; diệt trừ | dùng trong "xả bỏ" |
+| từ (Mettā)  | Tâm yêu thương | |
+| bi (Karuṇā) | Tâm thương cảm | |
+| hỉ (muditā) | Tâm cùng vui | |
+| xả (upekkhā) | Tâm cân bằng | |
+| xả (pahānā) | từ bỏ; diệt trừ | dùng trong "xả bỏ" |
 | hỷ (pīti) | hân hoan | Cảm giác tích cực thuộc não sinh lý (ví dụ nhảy cẫng lên) |
 | hỷ (somanassa) | thanh thản | cảm giác tích cực phát ra từ tâm lý |
 | ưu (domanassa) | ưu phiền | cảm giác tiêu cực phát ra từ tâm lý |
@@ -101,7 +102,7 @@ Viết lại đoạn văn bản sang tiếng Việt hiện đại dựa trên k�
 | thắng tri (abhijānāti) | hiểu biết trực tiếp | |
 | (phi) như lý tác ý (yoniso manasikāra) | (không) tìm hiểu nguyên nhân gốc rễ | suy nghĩ và tìm hiểu vấn đề đến gốc rễ (hiểu đến nguyên lý, không thể đi xa hơn được). |
 | paṭisaṅkhā yoniso | thận trọng suy xét |  |
-| tỉnh giác | biết rõ | |
+| tỉnh giác | nhận thức rõ ràng | |
 | quán | quan sát | |
 | giới đức | nếp sống đạo đức | |
 | nội tĩnh | tĩnh lặng | |
@@ -131,9 +132,9 @@ Viết lại đoạn văn bản sang tiếng Việt hiện đại dựa trên k�
 | Tham(Lobha) | Ám ảnh dễ chịu | |
 | Sân(Dosa) | Ám ảnh khó chịu | |
 | Si(Moha) | Sự u mê | |
-| chánh niệm (satimā/sati/sato) | có/sự Tự quan sát | |
+| chánh niệm (satimā/sati/sato) | có/sự *Tự quan sát* | |
 | tỉnh giác (sampajāno) | biết rõ | |
-| tham ái	(abhijjhā) | lòng tham |
+| ái dục	(abhijjhā) | lòng tham |
 | Tứ Thánh Đế (Cattāri Ariya-saccāni) | Bốn Thánh Đế | |
 | Khổ đế(Dukkha-sacca) | Thánh đế về đau khổ | |
 | Tập đế(Samudaya-sacca) | Thánh đế về sự hình thành của đau khổ | |
@@ -169,7 +170,6 @@ Viết lại đoạn văn bản sang tiếng Việt hiện đại dựa trên k�
 | Thân kiến(Sakkāya-diṭṭhi) | Thấy mình là thật | |
 | Nghi(Vicikicchā) | Nghi ngờ | |
 | Giới cấm thủ(Sīlabbata-parāmāsa) | Mê tín và giáo điều | |
-| ái(rāga) | Đắm nhiễm | virāgā -> phai nhạt của đắm nhiễm;  |
 | Dục ái(Kāma-rāga) | Đắm nhiễm sự Dễ chịu giác quan | |
 | Sân(Paṭigha) | Ghét bỏ và hận thù | |
 | Sắc ái(Rūpa-rāga) | Đắm nhiễm Cõi vật chất | |
@@ -193,18 +193,19 @@ Viết lại đoạn văn bản sang tiếng Việt hiện đại dựa trên k�
 | tác ý (manasikāra) | suy nghĩ; suy nghĩ đến | dùng "suy nghĩ đến" khi từ tiếp theo 1 điều gì đó  |
 | tà kiến(diṭṭhi) | quan điểm sai | |
 | trừ diệt(vinodanā) | loại trừ | |
-| tu tập (bhāvanā) | luyện tập | |
+
 </DICTIONARY>
 
 ### 3.1 Những từ giữ nguyên
-Như Lai; phàm phu;
+Như Lai; phàm phu; tu tập
 
 ### 3.2 Những từ chuyển đổi ít:
 - Thánh nhân -> bậc thánh;
 - Vô văn->người không học;
 - Phàm phu->người thường;
 - Chân nhân -> chân nhân;
-- hữu học(sutavā) -> có học
+- hữu học(sutavā) -> có học;
+- bất thiện pháp -> những điều không thiện;
 
 # VÍ DỤ MINH HỌA (FEW-SHOT EXAMPLE)
 
