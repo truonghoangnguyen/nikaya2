@@ -78,8 +78,8 @@ Viết lại đoạn văn bản sang tiếng Việt hiện đại dựa trên k�
 | duyên (paṭicca) | Do Điều Kiện | |
 | duyên khởi (paṭiccasamuppāda) | Sự Hình Thành Do Điều Kiện  | |
 | duyên sinh (paṭiccasamuppanna) | Thứ Hình Thành Do Điều Kiện | quá khứ phân từ của paṭiccasamuppāda |
-| vô vi | phi Được Hợp Thành |  |
-| hữu vi(Saṅkhata) | Được Hợp Thành |  |
+| vô vi | không Do Hợp Mà Thành |  |
+| hữu vi(Saṅkhata) | Do Hợp Mà Thành |  |
 | tướng | hình dáng | |
 | vô tướng | không chạy theo hình dáng | |
 | vô tướng tâm định | Định trong trạng thái tâm không chạy theo hình dáng | |
