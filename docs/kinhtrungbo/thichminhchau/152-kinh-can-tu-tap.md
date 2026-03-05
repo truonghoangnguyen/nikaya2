@@ -1,7 +1,9 @@
 ---
 tags:
  - Tu tập
- - Tâm quân bình
+ - Tâm cân bằng
+ - Sự Hình Thành Do Điều Kiện (duyên khởi)
+ - Do Hợp mà Thành (hữu vi)
 ---
 
 # 152. KINH CĂN TU TẬP
