@@ -294,6 +294,7 @@ sống an trú chánh niệm như vậy, với hy vọng hướng đến chánh 
 nương tựa, không chấp trước một vật gì trên đời. Này các Tỷ kheo, như vậy Tỷ kheo sống quán pháp
 trên các pháp đối với Bảy Giác chi.
 
+<!--pg-->
 17\. Lại nữa này các Tỷ kheo, vị ấy sống quán pháp trên các pháp đối với Bốn Sự thật.
 
 Này các Tỷ kheo, thế nào là Tỷ kheo sống quán pháp trên các pháp đối với Bốn Sự thật? Này các Tỷ

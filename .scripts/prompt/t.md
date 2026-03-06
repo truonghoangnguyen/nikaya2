@@ -55,6 +55,40 @@ Phân rã ngắn gọn từng phần:
 
 > TMC: hay sống quán tánh sanh diệt trên thân. “Có thân đây”, vị ấy an trú chánh niệm như vậy với hy vọng hướng đến chánh trí, chánh niệm. Và vị ấy sống không nương tựa, không chấp trước một vật gì trên đời. Này các Tỷ kheo, như vậy Tỷ kheo sống quán thân trên thân.
 
+Hoặc việc *Tự Quan Sát* của vị ấy chỉ cần nhận biết 'đây là quy luật' — là đủ, với mục tiêu chính là để *nhận biết* và rèn luyện sự *Tự Quan Sát* — và vị ấy sống không nương tựa, không bám giữ bất cứ gì ở trên đời.
 
-"Hoặc việc Tự quan sát của vị ấy chỉ cần nhận biết 'đây là cảm giác' — là đủ, với mục tiêu chính là để nhận biết và rèn luyện sự Tự Quan Sát — và vị ấy sống không nương tựa, không bám giữ bất cứ gì ở trên đời."
 
+Như vậy, vị ấy sống *quan sát Cơ thể qua Cơ thể của mình* ở bên trong, hay sống *quan sát Cơ thể qua Cơ thể của mình* ở bên ngoài, hay sống *quan sát Cơ thể qua Cơ thể của mình* cả bên trong lẫn bên ngoài. Hay vị ấy sống *quan sát sự hình thành* của cơ thể, hay sống *quan sát sự tàn hoại* của cơ thể, hay sống quan sát cả *sự hình thành* và *sự tàn hoại* của cơ thể.
+Hoặc việc *Tự Quan Sát* của vị ấy chỉ cần nhận biết 'đây là cơ thể' — là đủ, với mục tiêu chính là để *nhận biết* và rèn luyện sự *Tự Quan Sát* — và vị ấy sống không nương tựa, không bám giữ bất cứ gì ở trên đời.
+---
+vấn đề:đề
+Đó là sự *cạn hết đắm nhiễm* (ly tham / virāga) hoàn toàn và sự *cắt đứt* chính *khao khát* ấy, sự *cho đi* (xả ly / cāga), sự từ bỏ, sự giải thoát, sự không dính mắc.
+
+Và này các tỳ kheo, *khao khát* này khi bị từ bỏ thì bị từ bỏ ở đâu, khi bị *cắt đứt* thì bị *cắt đứt* ở đâu? Bất cứ thứ gì ở đời có vẻ dễ thương, dễ chịu, thì *khao khát* này bị từ bỏ ở đó, bị *cắt đứt* ở đó.
+
+
+> Yo tassāyeva taṇhāya asesavirāganirodho cāgo paṭinissaggo mutti anālayo.
+> Sā kho panesā, bhikkhave, taṇhā kattha pahīyamānā pahīyati, kattha nirujjhamānā nirujjhati? Yaṁ loke piyarūpaṁ sātarūpaṁ, etthesā taṇhā pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati.
+
+> TMC : Sự diệt tận không còn luyến tiếc tham ái ấy, sự xả ly, sự khí xả, sự giải thoát, sự vô nhiễm (tham ái ấy).
+> Này các Tỷ kheo, sự tham ái này khi xả ly thì xả ly ở đâu, khi diệt trừ thì diệt trừ ở đâu? Ở đời các sắc gì thân, các sắc gì ái, sự tham ái này khi xả ly thì xả ly ở đấy, khi diệt trừ thì diệt trừ ở đấy.
+
+> GPT: “Đó là sự diệt của chính ái ấy nhờ ly tham hoàn toàn không dư sót: buông bỏ, xả ly, giải thoát, không còn bám víu.”
+> Này các tỳ-kheo, ái này khi được đoạn trừ thì đoạn trừ ở đâu, khi được diệt thì diệt ở đâu? Trong thế gian, nơi nào có cái gì mang hình tướng đáng yêu, đáng thích, thì chính tại đó ái này khi được đoạn trừ thì đoạn trừ, khi được diệt thì diệt.”
+
+> Claude: Chính sự ly tham, đoạn diệt hoàn toàn không còn dư sót, sự từ bỏ, sự xả ly, sự giải thoát, sự không còn lưu luyến đối với ái ấy. (→ Nghĩa đen:"Cái mà — của chính cơn khát ấy (taṇhāya) — là sự bít chặn-phai-màu không còn cặn bã (asesavirāganirodho), sự ném bỏ (cāgo), sự nhả lại (paṭinissaggo), sự cởi thoát (mutti), sự không còn tổ (anālayo).")
+> Và này các Tỷ-kheo, ái ấy được đoạn trừ ở đâu thì đoạn trừ, được diệt tận ở đâu thì diệt tận? Bất cứ điều gì trong đời có tính chất khả ái, có tính chất khả lạc — chính ở đó ái này được đoạn trừ, chính ở đó được diệt tận. (→ Nghĩa đen:"Mà cơn khát ấy, hỡi những người xin ăn — bị đặt xuống ở đâu thì bị đặt xuống, bị bít chặn ở đâu thì bị bít chặn? "Cái gì trong thế giới có hình sắc đáng yêu và hình sắc ngọt ngào — chính ở đó cơn khát này bị đặt xuống, chính ở đó bị bít chặn.")
+
+> Gemini: "Cái nào là sự chặn đứng không còn cặn bã (Asesavirāganirodho), cạn hết đắm nhiễm (nhạt phai màu nhuộm) của chính sự khát khô ấy (Taṇhāya); là sự ném đi (Cāgo), sự nhả ra hoàn toàn (Paṭinissaggo), sự cởi trói (Mutti), sự không còn tổ để đậu lại (Anālayo).
+> Nhưng thật sự, này những người khất thực, sự khát đó khi đang bị rứt bỏ thì bị rứt bỏ ở chỗ nào, khi đang bị chặn đứng thì bị chặn đứng ở chỗ nào? Phàm ở thế gian, bất cứ cái gì là hình bóng đáng yêu, là hình bóng ngọt ngào êm ái, ngay tại đó sự khát này khi đang bị rứt bỏ thì bị rứt bỏ, tại đây khi đang bị chặn đứng thì bị chặn đứng."
+
+asesa-virāga-nirodho = “sự diệt do ly tham hoàn toàn, không dư sót”
+cāgo = sự buông bỏ
+paṭinissaggo = sự xả bỏ / trả lại
+mutti = sự giải thoát
+anālayo = không còn chỗ bám, không dính mắc
+
+virāgavi (tách ra) + rāga (màu đỏ, lửa tham) → phai màu, tắt lửatham ái dần nhạt đi, không còn nhuộm tâm
+nirodhani (xuống) + rodha (đập ngăn) → đập chặn hoàn toàn -> dòng chảy bị ngăn triệt để
+cāga gốc caj → buông tay, thả ra chủ động từ bỏ, như mở nắm tay
+paṭinissagga paṭi (trả lại) + nissagga (xả ra) → trả lại, nhả ra hoàn trả những gì đã nắm giữ
