@@ -1,3 +1,51 @@
+mn 148
+'*sự thèm khát* là *điều kiện sinh* ra *tìm kiếm*' như đã nói, này Ananda, thì cần được hiểu như nào ? làm thế nào *sự thèm khát* là *điều kiện sinh* ra *tìm kiếm*.
+‘Taṇhaṁ paṭicca pariyesanā’ti iti kho panetaṁ vuttaṁ, tadānanda, imināpetaṁ pariyāyena veditabbaṁ, yathā taṇhaṁ paṭicca pariyesanā.
+
+'*Xúc* là *điều chắc chắn* sinh ra *Cảm Giác*' như đã nói, này Ananda, thì cần được hiểu như nào ? làm thế nào *Xúc* là *điều chắc chắn* sinh ra *Cảm Giác
+‘Phassapaccayā vedanā’ti iti kho panetaṁ vuttaṁ, tadānanda, imināpetaṁ pariyāyena veditabbaṁ, yathā phassapaccayā vedanā.
+
+duyên=“đi liền với nhau”; "gắn liền với"
+- "do duyên thọ; ái sanh"->"vì *có* thọ *nên* ái sinh ra"; "gắn liền với thọ, có thọ, ái sinh ra"; "ái là điều kiện cần và đủ với thọ, có thọ, ái sinh ra"; "vì ái gắn liền với thọ, có thọ, ái sinh"
+- Trước đã nói: “Do duyên thọ, ái sanh”. Này Ananda, nếu thọ không có bất cứ loại nào, bất cứ chỗ nào, như nhãn xúc sở sanh thọ, nhĩ xúc sở sanh thọ, tỷ xúc sở sanh thọ, thiệt xúc sở sanh thọ, tỷ xúc sở sanh thọ, ý xúc sở sanh thọ. Nếu không có thọ cho tất cả, nếu thọ diệt thời ái có thể hiện hữu không?
+
+“Do duyên sanh; lão tử sanh” -> "do"
+nguyên về từ : điều kiện nền tảng; điều kiện cơ bản; điều kiện tối thiểu; nhân là gì, điều kiện là gì;
+
+DN 15: vì sao gọi là điều kiện cần và đủ A=>B, không có A thì không có B
+4. Trước đã nói: “Do duyên sanh; lão tử sanh”. Này Ananda, phải hiểu như thế nào câu nói: “Do duyên sanh; lão tử sanh”? Này Ananda, nếu sanh không có bất cứ loại nào, bất cứ chỗ nào, như chư Thiên hay Thiên giới, Càn-thát-bà hay Càn-thát-bà-giới, Dạ-xoa hay Dạ Xoa giới. Quỷ thần hay Quỷ thần giới, loài Người hay Nhân giới, loại bốn chân hay tứ túc giới, loài chim hay điểu giới, loài trùng xà hay trùng xà giới. Này Ananda, nếu không có sanh cho tất cả, do sanh diệt thời lão tử có thể hiện hữu không?
+
+
+do duyên hành có thức -> có điều kiện cần và đủ hành nên có thức
+
+Giải thích cho từ paccaya:
+"Tasmātihānanda, eseva hetu etaṁ nidānaṁ esa samudayo esa paccayo jarāmaraṇassa, yadidaṁ jāti."
+"Do vậy, này Ānanda, đây chính là nhân (hetu), đây là duyên (xâu chuỗi/nidānaṁ), đây là sự tập khởi (samudayo), đây là điều kiện (paccayo) của già chết, tức là sanh."
+
+GPT4.5 “Vì vậy, này A-nan, chính đây là nguyên nhân, là cội nguồn, đây là sự phát sinh, đây là điều kiện của già-chết; tức là sinh.”
+
+- paccaya duyên; “Vì duyên X mà Y sinh” → trong Pali: X paccayā Y (ví dụ: avijjā paccayā saṅkhārā = Vô minh duyên hành). avijjā paccayā saṅkhārā = Từ *Nguồn Gốc* Vô minh sinh ra hành; *Nguồn Gốc* từ Sinh,  già chết hình thành;  Từ *Nguồn Gốc* Vô minh sinh ra Hành
+ Ý nghĩa gốc: Lực đẩy, yếu tố phụ trợ, điều kiện cần thiết để một cái khác sinh ra. Giống như nước và ánh sáng là paccaya của cái cây.
+ paccayā = lý do
+ “Jātipaccayā jarāmaraṇaṁ”→ "Sinh là *Nguồn Gốc* của già chết"; "Do sinh làm điều kiện nên có già và chết"
+
+- paṭicca paṭiccasamuppāda (Pali) duyên khởi
+ Ý nghĩa gốc: Trạng thái bắt buộc phải dựa vào một nền tảng nào đó mới tồn tại được (như chúng ta vừa phân tích ở trên).
+
+- nidāna: nghĩa là “liên kết, nguyên nhân dây chuyền”. Dùng trong “12 nhân duyên” (dvādasanidānāni). 12 xâu chuỗi
+ Nhiều sách Việt gọi là “12 nhân duyên” hoặc “12 duyên khởi”.
+Ý nghĩa gốc: Cái gốc rễ, cái cội nguồn, hoặc sợi dây trói buộc các sự kiện lại với nhau theo chuỗi. Nó chỉ sự nối tiếp nguyên nhân - kết quả.
+
+paccaya → nhấn mạnh “hỗ trợ, điều kiện, gốc rễ ”.
+paṭicca → nhấn mạnh “tùy thuộc, nương vào, nguyên nhân”.
+nidāna → nhấn mạnh “dây chuyền, mắt xích, chuỗi”.
+
+với tai và âm thanh làm *do Điều kiện*, *sự phân biệt âm thanh bởi tai* (nhĩ thức / sotaviññāṇa) phát sinh
+
+sotañca paṭicca sadde ca uppajjati sotaviññāṇaṁ, tiṇṇaṁ saṅgati phasso, phassapaccayā vedanā;
+
+*Vì* tai gặp âm thanh *Nên* sinh ra *sự phân biệt âm thanh bởi tai* (nhĩ thức / sotaviññāṇa), sự gặp nhau của ba thứ trên gọi là Xúc (phassa), *Vì* có Xúc *Nên* có *Cảm giác* (thọ/vedanā).
+---
 xả niệm thanh tịnh
 
 “niệm được thuần khiết nhờ xả”

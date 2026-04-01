@@ -397,6 +397,7 @@ sau cũng nghĩ như thế này: “Vị ấy là Phạm thiên, Ðại Phạm t
 nhãn, Thượng tôn, Thượng đế, Sáng tạo chủ, Hóa sanh chủ, Ðại tôn, Chúa tể mọi định mạng, đấng Tự
 tại, Tổ phụ các chúng sanh đã và sẽ sanh. Chúng ta do vị Phạm thiên này hóa sanh. Vì sao vậy? Vì ta đã
 thấy vị này sanh trước ở đây rồi. Còn chúng ta thì sanh sau”
+
 6\. Này các Tỷ-kheo, vị hữu tình sanh ra đầu tiên ấy sống được lâu hơn, sắc tướng tốt đẹp hơn và được
 nhiều uy quyền hơn. Còn các loài hữu tình sanh sau thì sống ngắn hơn, sắc tướng ít tốt đẹp hơn và được
 ít quyền hơn. Này các Tỷ-kheo, sự tình này xảy ra. Một trong các loài hữu tình ấy, sau khi từ bỏ thân kia
