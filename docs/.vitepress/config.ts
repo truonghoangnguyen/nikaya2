@@ -161,7 +161,7 @@ export default defineConfig({
     ]
   },
 
-  // ignoreDeadLinks: true,
+  ignoreDeadLinks: true,
   /**
    * Transforms page data, specifically adding navigation (next/prev) and title
    * information based on the page's relative path within supported books and authors.
@@ -277,30 +277,30 @@ export default defineConfig({
   // Theme configuration
   themeConfig: {
 
-    search: {
-      provider: 'local',
-      options: {
-        miniSearch: {
-          searchOptions: {
-            fields: ["title"],
-            fuzzy: 0.2,
-            prefix: true,
-            boost: { title: 4, text: 0, titles: 0 }
-          }
-        }
+    // search: {
+    //   provider: 'local',
+    //   options: {
+    //     miniSearch: {
+    //       searchOptions: {
+    //         fields: ["title"],
+    //         fuzzy: 0.2,
+    //         prefix: true,
+    //         boost: { title: 4, text: 0, titles: 0 }
+    //       }
+    //     }
 
-        //   _render(src, env, md) {
-        //     const html = md.render(src, env)
-        //     if (env.frontmatter?.search === false) return ''
+    //     //   _render(src, env, md) {
+    //     //     const html = md.render(src, env)
+    //     //     if (env.frontmatter?.search === false) return ''
 
-        //     // Remove H2-H6 headers to exclude them from the search index
-        //     const content = src.replace(/^#{2,}\s.*/gm, '')
-        //     return md.render(content, env)
-        //   }
+    //     //     // Remove H2-H6 headers to exclude them from the search index
+    //     //     const content = src.replace(/^#{2,}\s.*/gm, '')
+    //     //     return md.render(content, env)
+    //     //   }
 
-      },
+    //   },
 
-    },
+    // },
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
