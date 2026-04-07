@@ -1,3 +1,9 @@
+---
+tags:
+ - Ananda
+ - quan hệ phụ thuộc (duyên)
+---
+
 # 15. KINH ÐẠI DUYÊN
 **_(Mahànidàna Sutta)_**
 

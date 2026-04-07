@@ -6,10 +6,10 @@
   "main": "index.js",
   "packageManager": "pnpm@10.18.1",
   "scripts": {
-    "docs:dev": "vitepress dev docs",
-    "docs:build": "node --max-old-space-size=4096 node_modules/.bin/vitepress build docs",
-    "docs:preview": "vitepress preview docs",
-    "docs:buildsearch": "vitepress build docs --search",
+    "dev": "vitepress dev docs",
+    "build": "node --max-old-space-size=4096 node_modules/.bin/vitepress build docs",
+    "preview": "vitepress preview docs",
+    "buildsearch": "vitepress build docs --search",
     "import": "node scripts/import-docs.js",
     "update-config": "node scripts/update-config.js",
     "generate-sidebar": "node scripts/generate-sidebar.js"
@@ -21,7 +21,7 @@
     "@types/markdown-it": "^14.1.2",
     "markdown-it-footnote": "^4.0.0",
     "vitepress": "^1.6.4",
-    "vue": "^3.5.31"
+    "vue": "^3.5.32"
   },
   "pnpm": {
     "ignoredBuiltDependencies": [
@@ -33,7 +33,7 @@
   },
   "dependencies": {
     "@sindresorhus/slugify": "^2.2.1",
-    "fuse.js": "^7.1.0",
+    "fuse.js": "^7.3.0",
     "markdown-it": "^14.1.1",
     "markdown-it-anchor": "^9.2.0",
     "markdown-it-attrs": "^4.3.1"

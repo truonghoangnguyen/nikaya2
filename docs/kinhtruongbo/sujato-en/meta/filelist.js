@@ -1,5 +1,5 @@
 const kinhtruongbo_sujato_en = [
-  { text: "DN 1 The Divine Net *Brahmajālasutta*", link: "/kinhtruongbo/sujato-en/001-the-divine-net-brahmajalasutta.md" },
+  { text: "DN 1 The Divine Net *Brahmajālasutta*", link: "/kinhtruongbo/sujato-en/dn-001-the-divine-net-brahmajalasutta.md" },
   { text: "DN 2 The Fruits of the Ascetic Life *Sāmaññaphalasutta*", link: "/kinhtruongbo/sujato-en/002-the-fruits-of-the-ascetic-life-samannaphalasutta.md" },
   { text: "With Ambaṭṭha", link: "/kinhtruongbo/sujato-en/003-with-ambattha-ambatthasutta.md" },
   { text: "With Soṇadaṇḍa", link: "/kinhtruongbo/sujato-en/004-with-sonadanda-sonadandasutta.md" },

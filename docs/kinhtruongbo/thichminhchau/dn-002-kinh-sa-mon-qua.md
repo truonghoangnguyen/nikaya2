@@ -1,3 +1,8 @@
+---
+tags:
+ - tỉnh thức bảo vệ (thu thúc)
+ - sự tự quan sát và nhận biết rõ ràng (chánh niệm tỉnh giác)
+---
 # 2. KINH SA MÔN QỦA
 **_(Sàmannaphala Sutta)_**
 

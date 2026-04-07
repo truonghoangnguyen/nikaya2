@@ -6,12 +6,17 @@ import { slugAnchor } from './utils';
 // run 1make_filelist.ipynb first
 // step 1/4: get file list
 import dn_thichminhchau from '../kinhtruongbo/thichminhchau/meta/filelist';
+import kinhtruongbo_sujato_en from '../kinhtruongbo/sujato-en/meta/filelist';
+import kinhtruongbo_sujato_vi from '../kinhtruongbo/sujato-vi/meta/filelist';
+// import kinhtruongbo_pali from '../kinhtruongbo/pali/meta/filelist';
+import kinhtruongbo_pali_vi from '../kinhtruongbo/pali-vi/meta/filelist';
 
 import mn_thichminhchau from '../kinhtrungbo/thichminhchau/meta/filelist';
 import nanamoli_bodhi_en from '../kinhtrungbo/nanamoli-bodhi-en/meta/filelist';
 //import nanamoli_bodhi_en_intro  from '../kinhtrungbo/nanamoli-bodhi-en/intro/filelist';
 import nanamoli_bodhi_vi from '../kinhtrungbo/nanamoli-bodhi-vi/meta/filelist';
 //import nanamoli_bodhi_vi_intro  from '../kinhtrungbo/nanamoli-bodhi-vi/intro/filelist';
+
 
 import kinhtangchi_thichminhchau from '../kinhtangchi/thichminhchau/meta/filelist';
 import kinhtangchi_sujato_en from '../kinhtangchi/sujato-en/meta/filelist';
@@ -39,6 +44,9 @@ const BOOK_NAV = {
   'kinhtrungbo/nanamoli-bodhi-vi/intro': nanamoli_bodhi_vi,
 
   'kinhtruongbo/thichminhchau': dn_thichminhchau,
+  'kinhtruongbo/sujato-en': kinhtruongbo_sujato_en,
+  'kinhtruongbo/sujato-vi': kinhtruongbo_sujato_vi,
+  'kinhtruongbo/pali-vi': kinhtruongbo_pali_vi,
 
   'kinhtangchi/thichminhchau': kinhtangchi_thichminhchau,
   //  'kinhtangchi/bodhi-vi': kinhtangchi_bodhi_vi,

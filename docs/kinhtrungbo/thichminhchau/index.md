@@ -11,7 +11,7 @@ features:
     link: /kinhtrungbo/thichminhchau/g1
   - title: Mục lục
     details: Mục lục 152 bài kinh →
-    link: /kinhtrungbo/thichminhchau/mucluc
+    link: /kinhtrungbo/thichminhchau/meta/mucluc
   - title: Đi đến bài kinh đầu tiên
     details: Pháp Môn Căn Bản →
     link: /kinhtrungbo/thichminhchau/001-kinh-phap-mon-can-ban

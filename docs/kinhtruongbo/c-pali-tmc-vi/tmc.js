@@ -1,11 +1,11 @@
 const pali_tmc_vi = [
   {
     "params": {
-      "slug": "001-kinh-pham-vong",
+      "slug": "dnc-001-kinh-pham-vong",
       "data": {
         "title": "Brahmajālasutta",
         "left": "/kinhtruongbo/pali-vi/dn-001.md",
-        "right": "/kinhtruongbo/thichminhchau/001-kinh-pham-vong.md",
+        "right": "/kinhtruongbo/thichminhchau/dn-001-kinh-pham-vong.md",
         "leftTitle": "Pali (vi)",
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
@@ -19,11 +19,11 @@ const pali_tmc_vi = [
   },
   {
     "params": {
-      "slug": "002-kinh-sa-mon-qua",
+      "slug": "dnc-002-kinh-sa-mon-qua",
       "data": {
         "title": "Sāmaññaphalasutta",
         "left": "/kinhtruongbo/pali-vi/dn-002.md",
-        "right": "/kinhtruongbo/thichminhchau/002-kinh-sa-mon-qua.md",
+        "right": "/kinhtruongbo/thichminhchau/dn-002-kinh-sa-mon-qua.md",
         "leftTitle": "Pali (vi)",
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
@@ -40,11 +40,11 @@ const pali_tmc_vi = [
   },
   {
     "params": {
-      "slug": "003-kinh-ambattha-a-ma-tru",
+      "slug": "dnc-003-kinh-ambattha-a-ma-tru",
       "data": {
         "title": "Ambaṭṭhasutta",
         "left": "/kinhtruongbo/pali-vi/dn-003.md",
-        "right": "/kinhtruongbo/thichminhchau/003-kinh-ambattha-a-ma-tru.md",
+        "right": "/kinhtruongbo/thichminhchau/dn-003-kinh-ambattha-a-ma-tru.md",
         "leftTitle": "Pali (vi)",
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
@@ -61,11 +61,11 @@ const pali_tmc_vi = [
   },
   {
     "params": {
-      "slug": "004-kinh-sonadanda-chung-duc",
+      "slug": "dnc-004-kinh-sonadanda-chung-duc",
       "data": {
         "title": "Soṇadaṇḍasutta",
         "left": "/kinhtruongbo/pali-vi/dn-004.md",
-        "right": "/kinhtruongbo/thichminhchau/004-kinh-sonadanda-chung-duc.md",
+        "right": "/kinhtruongbo/thichminhchau/dn-004-kinh-sonadanda-chung-duc.md",
         "leftTitle": "Pali (vi)",
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
@@ -82,11 +82,11 @@ const pali_tmc_vi = [
   },
   {
     "params": {
-      "slug": "005-kinh-kutadanta-cuu-la-dan-dau",
+      "slug": "dnc-005-kinh-kutadanta-cuu-la-dan-dau",
       "data": {
         "title": "Kūṭadantasutta",
         "left": "/kinhtruongbo/pali-vi/dn-005.md",
-        "right": "/kinhtruongbo/thichminhchau/005-kinh-kutadanta-cuu-la-dan-dau.md",
+        "right": "/kinhtruongbo/thichminhchau/dn-005-kinh-kutadanta-cuu-la-dan-dau.md",
         "leftTitle": "Pali (vi)",
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
@@ -103,11 +103,11 @@ const pali_tmc_vi = [
   },
   {
     "params": {
-      "slug": "006-kinh-mahali",
+      "slug": "dnc-006-kinh-mahali",
       "data": {
         "title": "Mahālisutta",
         "left": "/kinhtruongbo/pali-vi/dn-006.md",
-        "right": "/kinhtruongbo/thichminhchau/006-kinh-mahali.md",
+        "right": "/kinhtruongbo/thichminhchau/dn-006-kinh-mahali.md",
         "leftTitle": "Pali (vi)",
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
@@ -124,11 +124,11 @@ const pali_tmc_vi = [
   },
   {
     "params": {
-      "slug": "007-kinh-jaliya",
+      "slug": "dnc-007-kinh-jaliya",
       "data": {
         "title": "Jāliyasutta",
         "left": "/kinhtruongbo/pali-vi/dn-007.md",
-        "right": "/kinhtruongbo/thichminhchau/007-kinh-jaliya.md",
+        "right": "/kinhtruongbo/thichminhchau/dn-007-kinh-jaliya.md",
         "leftTitle": "Pali (vi)",
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
@@ -145,11 +145,11 @@ const pali_tmc_vi = [
   },
   {
     "params": {
-      "slug": "008-kinh-ca-diep-su-tu-hong",
+      "slug": "dnc-008-kinh-ca-diep-su-tu-hong",
       "data": {
         "title": "Mahāsīhanādasutta",
         "left": "/kinhtruongbo/pali-vi/dn-008.md",
-        "right": "/kinhtruongbo/thichminhchau/008-kinh-ca-diep-su-tu-hong.md",
+        "right": "/kinhtruongbo/thichminhchau/dn-008-kinh-ca-diep-su-tu-hong.md",
         "leftTitle": "Pali (vi)",
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
@@ -166,11 +166,11 @@ const pali_tmc_vi = [
   },
   {
     "params": {
-      "slug": "009-kinh-potthapada-bo-sa-ba-lau",
+      "slug": "dnc-009-kinh-potthapada-bo-sa-ba-lau",
       "data": {
         "title": "Poṭṭhapādasutta",
         "left": "/kinhtruongbo/pali-vi/dn-009.md",
-        "right": "/kinhtruongbo/thichminhchau/009-kinh-potthapada-bo-sa-ba-lau.md",
+        "right": "/kinhtruongbo/thichminhchau/dn-009-kinh-potthapada-bo-sa-ba-lau.md",
         "leftTitle": "Pali (vi)",
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
@@ -187,11 +187,11 @@ const pali_tmc_vi = [
   },
   {
     "params": {
-      "slug": "010-kinh-subha-tu-ba",
+      "slug": "dnc-010-kinh-subha-tu-ba",
       "data": {
         "title": "Subhasutta",
         "left": "/kinhtruongbo/pali-vi/dn-010.md",
-        "right": "/kinhtruongbo/thichminhchau/010-kinh-subha-tu-ba.md",
+        "right": "/kinhtruongbo/thichminhchau/dn-010-kinh-subha-tu-ba.md",
         "leftTitle": "Pali (vi)",
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
@@ -208,11 +208,11 @@ const pali_tmc_vi = [
   },
   {
     "params": {
-      "slug": "011-kinh-kevaddha-kien-co",
+      "slug": "dnc-011-kinh-kevaddha-kien-co",
       "data": {
         "title": "Kevaṭṭasutta",
         "left": "/kinhtruongbo/pali-vi/dn-011.md",
-        "right": "/kinhtruongbo/thichminhchau/011-kinh-kevaddha-kien-co.md",
+        "right": "/kinhtruongbo/thichminhchau/dn-011-kinh-kevaddha-kien-co.md",
         "leftTitle": "Pali (vi)",
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
@@ -229,11 +229,11 @@ const pali_tmc_vi = [
   },
   {
     "params": {
-      "slug": "012-kinh-lohicca-lo-hi-gia",
+      "slug": "dnc-012-kinh-lohicca-lo-hi-gia",
       "data": {
         "title": "Lohiccasutta",
         "left": "/kinhtruongbo/pali-vi/dn-012.md",
-        "right": "/kinhtruongbo/thichminhchau/012-kinh-lohicca-lo-hi-gia.md",
+        "right": "/kinhtruongbo/thichminhchau/dn-012-kinh-lohicca-lo-hi-gia.md",
         "leftTitle": "Pali (vi)",
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
@@ -250,11 +250,11 @@ const pali_tmc_vi = [
   },
   {
     "params": {
-      "slug": "013-kinh-tevijja-tam-minh",
+      "slug": "dnc-013-kinh-tevijja-tam-minh",
       "data": {
         "title": "Tevijjasutta",
         "left": "/kinhtruongbo/pali-vi/dn-013.md",
-        "right": "/kinhtruongbo/thichminhchau/013-kinh-tevijja-tam-minh.md",
+        "right": "/kinhtruongbo/thichminhchau/dn-013-kinh-tevijja-tam-minh.md",
         "leftTitle": "Pali (vi)",
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
@@ -271,11 +271,11 @@ const pali_tmc_vi = [
   },
   {
     "params": {
-      "slug": "014-kinh-dai-bon",
+      "slug": "dnc-014-kinh-dai-bon",
       "data": {
         "title": "Mahāpadānasutta",
         "left": "/kinhtruongbo/pali-vi/dn-014.md",
-        "right": "/kinhtruongbo/thichminhchau/014-kinh-dai-bon.md",
+        "right": "/kinhtruongbo/thichminhchau/dn-014-kinh-dai-bon.md",
         "leftTitle": "Pali (vi)",
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
@@ -292,11 +292,11 @@ const pali_tmc_vi = [
   },
   {
     "params": {
-      "slug": "015-kinh-dai-duyen",
+      "slug": "dnc-015-kinh-dai-duyen",
       "data": {
         "title": "Mahānidānasutta",
         "left": "/kinhtruongbo/pali-vi/dn-015.md",
-        "right": "/kinhtruongbo/thichminhchau/015-kinh-dai-duyen.md",
+        "right": "/kinhtruongbo/thichminhchau/dn-015-kinh-dai-duyen.md",
         "leftTitle": "Pali (vi)",
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
@@ -313,11 +313,11 @@ const pali_tmc_vi = [
   },
   {
     "params": {
-      "slug": "016-kinh-dai-bat-niet-ban",
+      "slug": "dnc-016-kinh-dai-bat-niet-ban",
       "data": {
         "title": "Mahāparinibbānasutta",
         "left": "/kinhtruongbo/pali-vi/dn-016.md",
-        "right": "/kinhtruongbo/thichminhchau/016-kinh-dai-bat-niet-ban.md",
+        "right": "/kinhtruongbo/thichminhchau/dn-016-kinh-dai-bat-niet-ban.md",
         "leftTitle": "Pali (vi)",
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
@@ -334,11 +334,11 @@ const pali_tmc_vi = [
   },
   {
     "params": {
-      "slug": "017-kinh-dai-thien-kien-vuong",
+      "slug": "dnc-017-kinh-dai-thien-kien-vuong",
       "data": {
         "title": "Mahāsudassanasutta",
         "left": "/kinhtruongbo/pali-vi/dn-017.md",
-        "right": "/kinhtruongbo/thichminhchau/017-kinh-dai-thien-kien-vuong.md",
+        "right": "/kinhtruongbo/thichminhchau/dn-017-kinh-dai-thien-kien-vuong.md",
         "leftTitle": "Pali (vi)",
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
@@ -355,11 +355,11 @@ const pali_tmc_vi = [
   },
   {
     "params": {
-      "slug": "018-kinh-xa-ni-sa",
+      "slug": "dnc-018-kinh-xa-ni-sa",
       "data": {
         "title": "Janavasabhasutta",
         "left": "/kinhtruongbo/pali-vi/dn-018.md",
-        "right": "/kinhtruongbo/thichminhchau/018-kinh-xa-ni-sa.md",
+        "right": "/kinhtruongbo/thichminhchau/dn-018-kinh-xa-ni-sa.md",
         "leftTitle": "Pali (vi)",
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
@@ -376,11 +376,11 @@ const pali_tmc_vi = [
   },
   {
     "params": {
-      "slug": "019-kinh-dai-dien-ton",
+      "slug": "dnc-019-kinh-dai-dien-ton",
       "data": {
         "title": "Mahāgovindasutta",
         "left": "/kinhtruongbo/pali-vi/dn-019.md",
-        "right": "/kinhtruongbo/thichminhchau/019-kinh-dai-dien-ton.md",
+        "right": "/kinhtruongbo/thichminhchau/dn-019-kinh-dai-dien-ton.md",
         "leftTitle": "Pali (vi)",
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
@@ -397,11 +397,11 @@ const pali_tmc_vi = [
   },
   {
     "params": {
-      "slug": "020-kinh-dai-hoi",
+      "slug": "dnc-020-kinh-dai-hoi",
       "data": {
         "title": "Mahāsamayasutta",
         "left": "/kinhtruongbo/pali-vi/dn-020.md",
-        "right": "/kinhtruongbo/thichminhchau/020-kinh-dai-hoi.md",
+        "right": "/kinhtruongbo/thichminhchau/dn-020-kinh-dai-hoi.md",
         "leftTitle": "Pali (vi)",
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
@@ -418,11 +418,11 @@ const pali_tmc_vi = [
   },
   {
     "params": {
-      "slug": "021-kinh-de-thich-so-van",
+      "slug": "dnc-021-kinh-de-thich-so-van",
       "data": {
         "title": "Sakkapañhasutta",
         "left": "/kinhtruongbo/pali-vi/dn-021.md",
-        "right": "/kinhtruongbo/thichminhchau/021-kinh-de-thich-so-van.md",
+        "right": "/kinhtruongbo/thichminhchau/dn-021-kinh-de-thich-so-van.md",
         "leftTitle": "Pali (vi)",
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
@@ -439,11 +439,11 @@ const pali_tmc_vi = [
   },
   {
     "params": {
-      "slug": "022-kinh-dai-niem-xu",
+      "slug": "dnc-022-kinh-dai-niem-xu",
       "data": {
         "title": "DN 22. KINH ĐẠI NIỆM XỨ (Mahāsatipaṭṭhānasutta)",
         "left": "/kinhtruongbo/pali-vi/dn-022.md",
-        "right": "/kinhtruongbo/thichminhchau/022-kinh-dai-niem-xu.md",
+        "right": "/kinhtruongbo/thichminhchau/dn-022-kinh-dai-niem-xu.md",
         "leftTitle": "Pali (vi)",
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
@@ -460,11 +460,11 @@ const pali_tmc_vi = [
   },
   {
     "params": {
-      "slug": "023-kinh-te-tuc",
+      "slug": "dnc-023-kinh-te-tuc",
       "data": {
         "title": "Pāyāsisutta",
         "left": "/kinhtruongbo/pali-vi/dn-023.md",
-        "right": "/kinhtruongbo/thichminhchau/023-kinh-te-tuc.md",
+        "right": "/kinhtruongbo/thichminhchau/dn-023-kinh-te-tuc.md",
         "leftTitle": "Pali (vi)",
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
@@ -481,11 +481,11 @@ const pali_tmc_vi = [
   },
   {
     "params": {
-      "slug": "024-kinh-ba-le",
+      "slug": "dnc-024-kinh-ba-le",
       "data": {
         "title": "Pāthikasutta",
         "left": "/kinhtruongbo/pali-vi/dn-024.md",
-        "right": "/kinhtruongbo/thichminhchau/024-kinh-ba-le.md",
+        "right": "/kinhtruongbo/thichminhchau/dn-024-kinh-ba-le.md",
         "leftTitle": "Pali (vi)",
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
@@ -502,11 +502,11 @@ const pali_tmc_vi = [
   },
   {
     "params": {
-      "slug": "025-kinh-uu-dam-ba-la-su-tu-hong",
+      "slug": "dnc-025-kinh-uu-dam-ba-la-su-tu-hong",
       "data": {
         "title": "Udumbarikasutta",
         "left": "/kinhtruongbo/pali-vi/dn-025.md",
-        "right": "/kinhtruongbo/thichminhchau/025-kinh-uu-dam-ba-la-su-tu-hong.md",
+        "right": "/kinhtruongbo/thichminhchau/dn-025-kinh-uu-dam-ba-la-su-tu-hong.md",
         "leftTitle": "Pali (vi)",
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
@@ -523,11 +523,11 @@ const pali_tmc_vi = [
   },
   {
     "params": {
-      "slug": "026-kinh-chuyen-luan-thanh-vuong-su-tu-hong",
+      "slug": "dnc-026-kinh-chuyen-luan-thanh-vuong-su-tu-hong",
       "data": {
         "title": "Cakkavattisutta",
         "left": "/kinhtruongbo/pali-vi/dn-026.md",
-        "right": "/kinhtruongbo/thichminhchau/026-kinh-chuyen-luan-thanh-vuong-su-tu-hong.md",
+        "right": "/kinhtruongbo/thichminhchau/dn-026-kinh-chuyen-luan-thanh-vuong-su-tu-hong.md",
         "leftTitle": "Pali (vi)",
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
@@ -544,11 +544,11 @@ const pali_tmc_vi = [
   },
   {
     "params": {
-      "slug": "027-kinh-khoi-the-nhan-bon",
+      "slug": "dnc-027-kinh-khoi-the-nhan-bon",
       "data": {
         "title": "Aggaññasutta",
         "left": "/kinhtruongbo/pali-vi/dn-027.md",
-        "right": "/kinhtruongbo/thichminhchau/027-kinh-khoi-the-nhan-bon.md",
+        "right": "/kinhtruongbo/thichminhchau/dn-027-kinh-khoi-the-nhan-bon.md",
         "leftTitle": "Pali (vi)",
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
@@ -565,11 +565,11 @@ const pali_tmc_vi = [
   },
   {
     "params": {
-      "slug": "028-kinh-tu-hoan-hy",
+      "slug": "dnc-028-kinh-tu-hoan-hy",
       "data": {
         "title": "Sampasādanīyasutta",
         "left": "/kinhtruongbo/pali-vi/dn-028.md",
-        "right": "/kinhtruongbo/thichminhchau/028-kinh-tu-hoan-hy.md",
+        "right": "/kinhtruongbo/thichminhchau/dn-028-kinh-tu-hoan-hy.md",
         "leftTitle": "Pali (vi)",
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
@@ -586,11 +586,11 @@ const pali_tmc_vi = [
   },
   {
     "params": {
-      "slug": "029-kinh-thanh-tinh",
+      "slug": "dnc-029-kinh-thanh-tinh",
       "data": {
         "title": "Pāsādikasutta",
         "left": "/kinhtruongbo/pali-vi/dn-029.md",
-        "right": "/kinhtruongbo/thichminhchau/029-kinh-thanh-tinh.md",
+        "right": "/kinhtruongbo/thichminhchau/dn-029-kinh-thanh-tinh.md",
         "leftTitle": "Pali (vi)",
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
@@ -607,11 +607,11 @@ const pali_tmc_vi = [
   },
   {
     "params": {
-      "slug": "030-kinh-tuong",
+      "slug": "dnc-030-kinh-tuong",
       "data": {
         "title": "Lakkhaṇasutta",
         "left": "/kinhtruongbo/pali-vi/dn-030.md",
-        "right": "/kinhtruongbo/thichminhchau/030-kinh-tuong.md",
+        "right": "/kinhtruongbo/thichminhchau/dn-030-kinh-tuong.md",
         "leftTitle": "Pali (vi)",
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
@@ -628,11 +628,11 @@ const pali_tmc_vi = [
   },
   {
     "params": {
-      "slug": "031-kinh-giao-tho-thi-ca-la-viet",
+      "slug": "dnc-031-kinh-giao-tho-thi-ca-la-viet",
       "data": {
         "title": "Siṅgālasutta",
         "left": "/kinhtruongbo/pali-vi/dn-031.md",
-        "right": "/kinhtruongbo/thichminhchau/031-kinh-giao-tho-thi-ca-la-viet.md",
+        "right": "/kinhtruongbo/thichminhchau/dn-031-kinh-giao-tho-thi-ca-la-viet.md",
         "leftTitle": "Pali (vi)",
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
@@ -649,11 +649,11 @@ const pali_tmc_vi = [
   },
   {
     "params": {
-      "slug": "032-kinh-a-sa-nang-chi",
+      "slug": "dnc-032-kinh-a-sa-nang-chi",
       "data": {
         "title": "Āṭānāṭiyasutta",
         "left": "/kinhtruongbo/pali-vi/dn-032.md",
-        "right": "/kinhtruongbo/thichminhchau/032-kinh-a-sa-nang-chi.md",
+        "right": "/kinhtruongbo/thichminhchau/dn-032-kinh-a-sa-nang-chi.md",
         "leftTitle": "Pali (vi)",
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
@@ -670,11 +670,11 @@ const pali_tmc_vi = [
   },
   {
     "params": {
-      "slug": "033-kinh-phung-tung",
+      "slug": "dnc-033-kinh-phung-tung",
       "data": {
         "title": "Saṅgītisutta",
         "left": "/kinhtruongbo/pali-vi/dn-033.md",
-        "right": "/kinhtruongbo/thichminhchau/033-kinh-phung-tung.md",
+        "right": "/kinhtruongbo/thichminhchau/dn-033-kinh-phung-tung.md",
         "leftTitle": "Pali (vi)",
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
@@ -691,11 +691,11 @@ const pali_tmc_vi = [
   },
   {
     "params": {
-      "slug": "034-kinh-thap-thuong",
+      "slug": "dnc-034-kinh-thap-thuong",
       "data": {
         "title": "Dasuttarasutta",
         "left": "/kinhtruongbo/pali-vi/dn-034.md",
-        "right": "/kinhtruongbo/thichminhchau/034-kinh-thap-thuong.md",
+        "right": "/kinhtruongbo/thichminhchau/dn-034-kinh-thap-thuong.md",
         "leftTitle": "Pali (vi)",
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",

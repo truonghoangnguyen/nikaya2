@@ -3,6 +3,7 @@ tags:
  - thọ (cảm giác)
  - tưởng (thực tại)
 ---
+
 # 9. KINH POTTHAPÀDA (BỐ-SÁ-BÀ-LÂU)
 **_(Potthapàda Sutta)_**
 

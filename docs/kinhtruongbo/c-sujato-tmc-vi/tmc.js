@@ -1,11 +1,11 @@
 const sujato_tmc_vi = [
   {
     "params": {
-      "slug": "001-kinh-pham-vong",
+      "slug": "dnc-001-kinh-pham-vong",
       "data": {
         "title": "1. KINH PHẠM VÕNG",
-        "left": "/kinhtruongbo/sujato-vi/001-the-divine-net-brahmajalasutta.md",
-        "right": "/kinhtruongbo/thichminhchau/001-kinh-pham-vong.md",
+        "left": "/kinhtruongbo/sujato-vi/dn-001-the-divine-net-brahmajalasutta.md",
+        "right": "/kinhtruongbo/thichminhchau/dn-001-kinh-pham-vong.md",
         "leftTitle": "Bhikkhu Sujato (vi)",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
@@ -19,11 +19,11 @@ const sujato_tmc_vi = [
   },
   {
     "params": {
-      "slug": "002-kinh-sa-mon-qua",
+      "slug": "dnc-002-kinh-sa-mon-qua",
       "data": {
         "title": "2. KINH SA MÔN QỦA",
-        "left": "/kinhtruongbo/sujato-vi/002-the-fruits-of-the-ascetic-life-samannaphalasutta.md",
-        "right": "/kinhtruongbo/thichminhchau/002-kinh-sa-mon-qua.md",
+        "left": "/kinhtruongbo/sujato-vi/dn-002-the-fruits-of-the-ascetic-life-samannaphalasutta.md",
+        "right": "/kinhtruongbo/thichminhchau/dn-002-kinh-sa-mon-qua.md",
         "leftTitle": "Bhikkhu Sujato (vi)",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
@@ -40,11 +40,11 @@ const sujato_tmc_vi = [
   },
   {
     "params": {
-      "slug": "003-kinh-ambattha-a-ma-tru",
+      "slug": "dnc-003-kinh-ambattha-a-ma-tru",
       "data": {
         "title": "3. KINH AMBATTHA (A-MA-TRÚ)",
-        "left": "/kinhtruongbo/sujato-vi/003-with-ambattha-ambatthasutta.md",
-        "right": "/kinhtruongbo/thichminhchau/003-kinh-ambattha-a-ma-tru.md",
+        "left": "/kinhtruongbo/sujato-vi/dn-003-with-ambattha-ambatthasutta.md",
+        "right": "/kinhtruongbo/thichminhchau/dn-003-kinh-ambattha-a-ma-tru.md",
         "leftTitle": "Bhikkhu Sujato (vi)",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
@@ -61,11 +61,11 @@ const sujato_tmc_vi = [
   },
   {
     "params": {
-      "slug": "004-kinh-sonadanda-chung-duc",
+      "slug": "dnc-004-kinh-sonadanda-chung-duc",
       "data": {
         "title": "4. KINH SONADANDA (CHỦNG ÐỨC)",
-        "left": "/kinhtruongbo/sujato-vi/004-with-sonadanda-sonadandasutta.md",
-        "right": "/kinhtruongbo/thichminhchau/004-kinh-sonadanda-chung-duc.md",
+        "left": "/kinhtruongbo/sujato-vi/dn-004-with-sonadanda-sonadandasutta.md",
+        "right": "/kinhtruongbo/thichminhchau/dn-004-kinh-sonadanda-chung-duc.md",
         "leftTitle": "Bhikkhu Sujato (vi)",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
@@ -82,11 +82,11 @@ const sujato_tmc_vi = [
   },
   {
     "params": {
-      "slug": "005-kinh-kutadanta-cuu-la-dan-dau",
+      "slug": "dnc-005-kinh-kutadanta-cuu-la-dan-dau",
       "data": {
         "title": "5. KINH KÙTADANTA (CỨU-LA-ÐÀN-ÐẦU)",
-        "left": "/kinhtruongbo/sujato-vi/005-with-kutadanta-kutadantasutta.md",
-        "right": "/kinhtruongbo/thichminhchau/005-kinh-kutadanta-cuu-la-dan-dau.md",
+        "left": "/kinhtruongbo/sujato-vi/dn-005-with-kutadanta-kutadantasutta.md",
+        "right": "/kinhtruongbo/thichminhchau/dn-005-kinh-kutadanta-cuu-la-dan-dau.md",
         "leftTitle": "Bhikkhu Sujato (vi)",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
@@ -103,11 +103,11 @@ const sujato_tmc_vi = [
   },
   {
     "params": {
-      "slug": "006-kinh-mahali",
+      "slug": "dnc-006-kinh-mahali",
       "data": {
         "title": "6. KINH MAHÀLI",
-        "left": "/kinhtruongbo/sujato-vi/006-with-mahali-mahalisutta.md",
-        "right": "/kinhtruongbo/thichminhchau/006-kinh-mahali.md",
+        "left": "/kinhtruongbo/sujato-vi/dn-006-with-mahali-mahalisutta.md",
+        "right": "/kinhtruongbo/thichminhchau/dn-006-kinh-mahali.md",
         "leftTitle": "Bhikkhu Sujato (vi)",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
@@ -124,11 +124,11 @@ const sujato_tmc_vi = [
   },
   {
     "params": {
-      "slug": "007-kinh-jaliya",
+      "slug": "dnc-007-kinh-jaliya",
       "data": {
         "title": "7. KINH JÀLIYA",
-        "left": "/kinhtruongbo/sujato-vi/007-with-jaliya-jaliyasutta.md",
-        "right": "/kinhtruongbo/thichminhchau/007-kinh-jaliya.md",
+        "left": "/kinhtruongbo/sujato-vi/dn-007-with-jaliya-jaliyasutta.md",
+        "right": "/kinhtruongbo/thichminhchau/dn-007-kinh-jaliya.md",
         "leftTitle": "Bhikkhu Sujato (vi)",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
@@ -145,11 +145,11 @@ const sujato_tmc_vi = [
   },
   {
     "params": {
-      "slug": "008-kinh-ca-diep-su-tu-hong",
+      "slug": "dnc-008-kinh-ca-diep-su-tu-hong",
       "data": {
         "title": "8. KINH CA-DIẾP SƯ TỬ HỐNG",
-        "left": "/kinhtruongbo/sujato-vi/008-the-lion-s-roar-to-the-naked-ascetic-kassapa-mahasihanadasutta.md",
-        "right": "/kinhtruongbo/thichminhchau/008-kinh-ca-diep-su-tu-hong.md",
+        "left": "/kinhtruongbo/sujato-vi/dn-008-the-lion-s-roar-to-the-naked-ascetic-kassapa-mahasihanadasutta.md",
+        "right": "/kinhtruongbo/thichminhchau/dn-008-kinh-ca-diep-su-tu-hong.md",
         "leftTitle": "Bhikkhu Sujato (vi)",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
@@ -166,11 +166,11 @@ const sujato_tmc_vi = [
   },
   {
     "params": {
-      "slug": "009-kinh-potthapada-bo-sa-ba-lau",
+      "slug": "dnc-009-kinh-potthapada-bo-sa-ba-lau",
       "data": {
         "title": "9. KINH POTTHAPÀDA (BỐ-SÁ-BÀ-LÂU)",
-        "left": "/kinhtruongbo/sujato-vi/009-with-potthapada-potthapadasutta.md",
-        "right": "/kinhtruongbo/thichminhchau/009-kinh-potthapada-bo-sa-ba-lau.md",
+        "left": "/kinhtruongbo/sujato-vi/dn-009-with-potthapada-potthapadasutta.md",
+        "right": "/kinhtruongbo/thichminhchau/dn-009-kinh-potthapada-bo-sa-ba-lau.md",
         "leftTitle": "Bhikkhu Sujato (vi)",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
@@ -187,11 +187,11 @@ const sujato_tmc_vi = [
   },
   {
     "params": {
-      "slug": "010-kinh-subha-tu-ba",
+      "slug": "dnc-010-kinh-subha-tu-ba",
       "data": {
         "title": "10. KINH SUBHA (TU-BÀ)",
-        "left": "/kinhtruongbo/sujato-vi/010-with-subha-subhasutta.md",
-        "right": "/kinhtruongbo/thichminhchau/010-kinh-subha-tu-ba.md",
+        "left": "/kinhtruongbo/sujato-vi/dn-010-with-subha-subhasutta.md",
+        "right": "/kinhtruongbo/thichminhchau/dn-010-kinh-subha-tu-ba.md",
         "leftTitle": "Bhikkhu Sujato (vi)",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
@@ -208,11 +208,11 @@ const sujato_tmc_vi = [
   },
   {
     "params": {
-      "slug": "011-kinh-kevaddha-kien-co",
+      "slug": "dnc-011-kinh-kevaddha-kien-co",
       "data": {
         "title": "11. KINH KEVADDHA (KIÊN CỐ)",
-        "left": "/kinhtruongbo/sujato-vi/011-with-kevaddha-kevattasutta.md",
-        "right": "/kinhtruongbo/thichminhchau/011-kinh-kevaddha-kien-co.md",
+        "left": "/kinhtruongbo/sujato-vi/dn-011-with-kevaddha-kevattasutta.md",
+        "right": "/kinhtruongbo/thichminhchau/dn-011-kinh-kevaddha-kien-co.md",
         "leftTitle": "Bhikkhu Sujato (vi)",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
@@ -229,11 +229,11 @@ const sujato_tmc_vi = [
   },
   {
     "params": {
-      "slug": "012-kinh-lohicca-lo-hi-gia",
+      "slug": "dnc-012-kinh-lohicca-lo-hi-gia",
       "data": {
         "title": "12. KINH LOHICCA (LÔ-HI-GIA)",
-        "left": "/kinhtruongbo/sujato-vi/012-with-lohicca-lohiccasutta.md",
-        "right": "/kinhtruongbo/thichminhchau/012-kinh-lohicca-lo-hi-gia.md",
+        "left": "/kinhtruongbo/sujato-vi/dn-012-with-lohicca-lohiccasutta.md",
+        "right": "/kinhtruongbo/thichminhchau/dn-012-kinh-lohicca-lo-hi-gia.md",
         "leftTitle": "Bhikkhu Sujato (vi)",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
@@ -250,11 +250,11 @@ const sujato_tmc_vi = [
   },
   {
     "params": {
-      "slug": "013-kinh-tevijja-tam-minh",
+      "slug": "dnc-013-kinh-tevijja-tam-minh",
       "data": {
         "title": "13. KINH TEVIJJA (TAM MINH)",
-        "left": "/kinhtruongbo/sujato-vi/013-experts-in-the-three-vedas-tevijjasutta.md",
-        "right": "/kinhtruongbo/thichminhchau/013-kinh-tevijja-tam-minh.md",
+        "left": "/kinhtruongbo/sujato-vi/dn-013-experts-in-the-three-vedas-tevijjasutta.md",
+        "right": "/kinhtruongbo/thichminhchau/dn-013-kinh-tevijja-tam-minh.md",
         "leftTitle": "Bhikkhu Sujato (vi)",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
@@ -271,11 +271,11 @@ const sujato_tmc_vi = [
   },
   {
     "params": {
-      "slug": "014-kinh-dai-bon",
+      "slug": "dnc-014-kinh-dai-bon",
       "data": {
         "title": "14. KINH ÐẠI BỔN",
-        "left": "/kinhtruongbo/sujato-vi/014-the-great-discourse-on-traces-left-behind.md",
-        "right": "/kinhtruongbo/thichminhchau/014-kinh-dai-bon.md",
+        "left": "/kinhtruongbo/sujato-vi/dn-014-the-great-discourse-on-traces-left-behind.md",
+        "right": "/kinhtruongbo/thichminhchau/dn-014-kinh-dai-bon.md",
         "leftTitle": "Bhikkhu Sujato (vi)",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
@@ -292,11 +292,11 @@ const sujato_tmc_vi = [
   },
   {
     "params": {
-      "slug": "015-kinh-dai-duyen",
+      "slug": "dnc-015-kinh-dai-duyen",
       "data": {
         "title": "15. KINH ÐẠI DUYÊN",
-        "left": "/kinhtruongbo/sujato-vi/015-the-great-discourse-on-causation.md",
-        "right": "/kinhtruongbo/thichminhchau/015-kinh-dai-duyen.md",
+        "left": "/kinhtruongbo/sujato-vi/dn-015-the-great-discourse-on-causation.md",
+        "right": "/kinhtruongbo/thichminhchau/dn-015-kinh-dai-duyen.md",
         "leftTitle": "Bhikkhu Sujato (vi)",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
@@ -313,11 +313,11 @@ const sujato_tmc_vi = [
   },
   {
     "params": {
-      "slug": "016-kinh-dai-bat-niet-ban",
+      "slug": "dnc-016-kinh-dai-bat-niet-ban",
       "data": {
         "title": "16. KINH ÐẠI BÁT NIẾT BÀN",
-        "left": "/kinhtruongbo/sujato-vi/016-the-great-discourse-on-the-buddha-s-extinguishment.md",
-        "right": "/kinhtruongbo/thichminhchau/016-kinh-dai-bat-niet-ban.md",
+        "left": "/kinhtruongbo/sujato-vi/dn-016-the-great-discourse-on-the-buddha-s-extinguishment.md",
+        "right": "/kinhtruongbo/thichminhchau/dn-016-kinh-dai-bat-niet-ban.md",
         "leftTitle": "Bhikkhu Sujato (vi)",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
@@ -334,11 +334,11 @@ const sujato_tmc_vi = [
   },
   {
     "params": {
-      "slug": "017-kinh-dai-thien-kien-vuong",
+      "slug": "dnc-017-kinh-dai-thien-kien-vuong",
       "data": {
         "title": "17. KINH ÐẠI THIỆN KIẾN VƯƠNG",
-        "left": "/kinhtruongbo/sujato-vi/017-king-mahasudassana.md",
-        "right": "/kinhtruongbo/thichminhchau/017-kinh-dai-thien-kien-vuong.md",
+        "left": "/kinhtruongbo/sujato-vi/dn-017-king-mahasudassana.md",
+        "right": "/kinhtruongbo/thichminhchau/dn-017-kinh-dai-thien-kien-vuong.md",
         "leftTitle": "Bhikkhu Sujato (vi)",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
@@ -355,11 +355,11 @@ const sujato_tmc_vi = [
   },
   {
     "params": {
-      "slug": "018-kinh-xa-ni-sa",
+      "slug": "dnc-018-kinh-xa-ni-sa",
       "data": {
         "title": "18. KINH XA-NI-SA",
-        "left": "/kinhtruongbo/sujato-vi/018-with-janavasabha.md",
-        "right": "/kinhtruongbo/thichminhchau/018-kinh-xa-ni-sa.md",
+        "left": "/kinhtruongbo/sujato-vi/dn-018-with-janavasabha.md",
+        "right": "/kinhtruongbo/thichminhchau/dn-018-kinh-xa-ni-sa.md",
         "leftTitle": "Bhikkhu Sujato (vi)",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
@@ -376,11 +376,11 @@ const sujato_tmc_vi = [
   },
   {
     "params": {
-      "slug": "019-kinh-dai-dien-ton",
+      "slug": "dnc-019-kinh-dai-dien-ton",
       "data": {
         "title": "19. KINH ÐẠI ÐIỂN TÔN",
-        "left": "/kinhtruongbo/sujato-vi/019-the-great-steward.md",
-        "right": "/kinhtruongbo/thichminhchau/019-kinh-dai-dien-ton.md",
+        "left": "/kinhtruongbo/sujato-vi/dn-019-the-great-steward.md",
+        "right": "/kinhtruongbo/thichminhchau/dn-019-kinh-dai-dien-ton.md",
         "leftTitle": "Bhikkhu Sujato (vi)",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
@@ -397,11 +397,11 @@ const sujato_tmc_vi = [
   },
   {
     "params": {
-      "slug": "020-kinh-dai-hoi",
+      "slug": "dnc-020-kinh-dai-hoi",
       "data": {
         "title": "20. KINH ÐẠI HỘI",
-        "left": "/kinhtruongbo/sujato-vi/020-the-great-congregation.md",
-        "right": "/kinhtruongbo/thichminhchau/020-kinh-dai-hoi.md",
+        "left": "/kinhtruongbo/sujato-vi/dn-020-the-great-congregation.md",
+        "right": "/kinhtruongbo/thichminhchau/dn-020-kinh-dai-hoi.md",
         "leftTitle": "Bhikkhu Sujato (vi)",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
@@ -418,11 +418,11 @@ const sujato_tmc_vi = [
   },
   {
     "params": {
-      "slug": "021-kinh-de-thich-so-van",
+      "slug": "dnc-021-kinh-de-thich-so-van",
       "data": {
         "title": "21. KINH ÐẾ-THÍCH SỞ VẤN",
-        "left": "/kinhtruongbo/sujato-vi/021-sakka-s-questions.md",
-        "right": "/kinhtruongbo/thichminhchau/021-kinh-de-thich-so-van.md",
+        "left": "/kinhtruongbo/sujato-vi/dn-021-sakka-s-questions.md",
+        "right": "/kinhtruongbo/thichminhchau/dn-021-kinh-de-thich-so-van.md",
         "leftTitle": "Bhikkhu Sujato (vi)",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
@@ -439,11 +439,11 @@ const sujato_tmc_vi = [
   },
   {
     "params": {
-      "slug": "022-kinh-dai-niem-xu",
+      "slug": "dnc-022-kinh-dai-niem-xu",
       "data": {
         "title": "22. KINH ÐẠI NIỆM XỨ",
-        "left": "/kinhtruongbo/sujato-vi/022-the-longer-discourse-on-mindfulness-meditation.md",
-        "right": "/kinhtruongbo/thichminhchau/022-kinh-dai-niem-xu.md",
+        "left": "/kinhtruongbo/sujato-vi/dn-022-the-longer-discourse-on-mindfulness-meditation.md",
+        "right": "/kinhtruongbo/thichminhchau/dn-022-kinh-dai-niem-xu.md",
         "leftTitle": "Bhikkhu Sujato (vi)",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
@@ -460,11 +460,11 @@ const sujato_tmc_vi = [
   },
   {
     "params": {
-      "slug": "023-kinh-te-tuc",
+      "slug": "dnc-023-kinh-te-tuc",
       "data": {
         "title": "23. KINH TỆ-TÚC",
-        "left": "/kinhtruongbo/sujato-vi/023-with-payasi.md",
-        "right": "/kinhtruongbo/thichminhchau/023-kinh-te-tuc.md",
+        "left": "/kinhtruongbo/sujato-vi/dn-023-with-payasi.md",
+        "right": "/kinhtruongbo/thichminhchau/dn-023-kinh-te-tuc.md",
         "leftTitle": "Bhikkhu Sujato (vi)",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
@@ -481,11 +481,11 @@ const sujato_tmc_vi = [
   },
   {
     "params": {
-      "slug": "024-kinh-ba-le",
+      "slug": "dnc-024-kinh-ba-le",
       "data": {
         "title": "24. KINH BA-LÊ",
-        "left": "/kinhtruongbo/sujato-vi/024-about-patikaputta-pathikasutta.md",
-        "right": "/kinhtruongbo/thichminhchau/024-kinh-ba-le.md",
+        "left": "/kinhtruongbo/sujato-vi/dn-024-about-patikaputta-pathikasutta.md",
+        "right": "/kinhtruongbo/thichminhchau/dn-024-kinh-ba-le.md",
         "leftTitle": "Bhikkhu Sujato (vi)",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
@@ -502,11 +502,11 @@ const sujato_tmc_vi = [
   },
   {
     "params": {
-      "slug": "025-kinh-uu-dam-ba-la-su-tu-hong",
+      "slug": "dnc-025-kinh-uu-dam-ba-la-su-tu-hong",
       "data": {
         "title": "25. KINH ƯU-ÐÀM-BÀ-LA SƯ TỬ HỐNG",
-        "left": "/kinhtruongbo/sujato-vi/025-the-lion-s-roar-at-the-monastery-of-lady-udumbarika-udumbarikasutta.md",
-        "right": "/kinhtruongbo/thichminhchau/025-kinh-uu-dam-ba-la-su-tu-hong.md",
+        "left": "/kinhtruongbo/sujato-vi/dn-025-the-lion-s-roar-at-the-monastery-of-lady-udumbarika-udumbarikasutta.md",
+        "right": "/kinhtruongbo/thichminhchau/dn-025-kinh-uu-dam-ba-la-su-tu-hong.md",
         "leftTitle": "Bhikkhu Sujato (vi)",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
@@ -523,11 +523,11 @@ const sujato_tmc_vi = [
   },
   {
     "params": {
-      "slug": "026-kinh-chuyen-luan-thanh-vuong-su-tu-hong",
+      "slug": "dnc-026-kinh-chuyen-luan-thanh-vuong-su-tu-hong",
       "data": {
         "title": "26. KINH CHUYỂN LUÂN THÁNH VƯƠNG SƯ TỬ HỐNG",
-        "left": "/kinhtruongbo/sujato-vi/026-the-wheel-turning-monarch-cakkavattisutta.md",
-        "right": "/kinhtruongbo/thichminhchau/026-kinh-chuyen-luan-thanh-vuong-su-tu-hong.md",
+        "left": "/kinhtruongbo/sujato-vi/dn-026-the-wheel-turning-monarch-cakkavattisutta.md",
+        "right": "/kinhtruongbo/thichminhchau/dn-026-kinh-chuyen-luan-thanh-vuong-su-tu-hong.md",
         "leftTitle": "Bhikkhu Sujato (vi)",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
@@ -544,11 +544,11 @@ const sujato_tmc_vi = [
   },
   {
     "params": {
-      "slug": "027-kinh-khoi-the-nhan-bon",
+      "slug": "dnc-027-kinh-khoi-the-nhan-bon",
       "data": {
         "title": "27. KINH KHỞI THẾ NHÂN BỔN",
-        "left": "/kinhtruongbo/sujato-vi/027-what-came-first-aggannasutta.md",
-        "right": "/kinhtruongbo/thichminhchau/027-kinh-khoi-the-nhan-bon.md",
+        "left": "/kinhtruongbo/sujato-vi/dn-027-what-came-first-aggannasutta.md",
+        "right": "/kinhtruongbo/thichminhchau/dn-027-kinh-khoi-the-nhan-bon.md",
         "leftTitle": "Bhikkhu Sujato (vi)",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
@@ -565,11 +565,11 @@ const sujato_tmc_vi = [
   },
   {
     "params": {
-      "slug": "028-kinh-tu-hoan-hy",
+      "slug": "dnc-028-kinh-tu-hoan-hy",
       "data": {
         "title": "28. KINH TỰ HOAN HỶ",
-        "left": "/kinhtruongbo/sujato-vi/028-inspiring-confidence-sampasadaniyasutta.md",
-        "right": "/kinhtruongbo/thichminhchau/028-kinh-tu-hoan-hy.md",
+        "left": "/kinhtruongbo/sujato-vi/dn-028-inspiring-confidence-sampasadaniyasutta.md",
+        "right": "/kinhtruongbo/thichminhchau/dn-028-kinh-tu-hoan-hy.md",
         "leftTitle": "Bhikkhu Sujato (vi)",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
@@ -586,11 +586,11 @@ const sujato_tmc_vi = [
   },
   {
     "params": {
-      "slug": "029-kinh-thanh-tinh",
+      "slug": "dnc-029-kinh-thanh-tinh",
       "data": {
         "title": "29. KINH THANH TỊNH",
-        "left": "/kinhtruongbo/sujato-vi/029-an-impressive-discourse-pasadikasutta.md",
-        "right": "/kinhtruongbo/thichminhchau/029-kinh-thanh-tinh.md",
+        "left": "/kinhtruongbo/sujato-vi/dn-029-an-impressive-discourse-pasadikasutta.md",
+        "right": "/kinhtruongbo/thichminhchau/dn-029-kinh-thanh-tinh.md",
         "leftTitle": "Bhikkhu Sujato (vi)",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
@@ -607,11 +607,11 @@ const sujato_tmc_vi = [
   },
   {
     "params": {
-      "slug": "030-kinh-tuong",
+      "slug": "dnc-030-kinh-tuong",
       "data": {
         "title": "30. KINH TƯỚNG",
-        "left": "/kinhtruongbo/sujato-vi/030-the-marks-of-a-great-man-lakkhanasutta.md",
-        "right": "/kinhtruongbo/thichminhchau/030-kinh-tuong.md",
+        "left": "/kinhtruongbo/sujato-vi/dn-030-the-marks-of-a-great-man-lakkhanasutta.md",
+        "right": "/kinhtruongbo/thichminhchau/dn-030-kinh-tuong.md",
         "leftTitle": "Bhikkhu Sujato (vi)",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
@@ -628,11 +628,11 @@ const sujato_tmc_vi = [
   },
   {
     "params": {
-      "slug": "031-kinh-giao-tho-thi-ca-la-viet",
+      "slug": "dnc-031-kinh-giao-tho-thi-ca-la-viet",
       "data": {
         "title": "31. KINH GIÁO THỌ THI-CA-LA-VIỆT",
-        "left": "/kinhtruongbo/sujato-vi/031-advice-to-sigalaka-singalasutta.md",
-        "right": "/kinhtruongbo/thichminhchau/031-kinh-giao-tho-thi-ca-la-viet.md",
+        "left": "/kinhtruongbo/sujato-vi/dn-031-advice-to-sigalaka-singalasutta.md",
+        "right": "/kinhtruongbo/thichminhchau/dn-031-kinh-giao-tho-thi-ca-la-viet.md",
         "leftTitle": "Bhikkhu Sujato (vi)",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
@@ -649,11 +649,11 @@ const sujato_tmc_vi = [
   },
   {
     "params": {
-      "slug": "032-kinh-a-sa-nang-chi",
+      "slug": "dnc-032-kinh-a-sa-nang-chi",
       "data": {
         "title": "32. KINH A-SÁ-NANG-CHI",
-        "left": "/kinhtruongbo/sujato-vi/032-the-atanatiya-protection-atanatiyasutta.md",
-        "right": "/kinhtruongbo/thichminhchau/032-kinh-a-sa-nang-chi.md",
+        "left": "/kinhtruongbo/sujato-vi/dn-032-the-atanatiya-protection-atanatiyasutta.md",
+        "right": "/kinhtruongbo/thichminhchau/dn-032-kinh-a-sa-nang-chi.md",
         "leftTitle": "Bhikkhu Sujato (vi)",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
@@ -670,11 +670,11 @@ const sujato_tmc_vi = [
   },
   {
     "params": {
-      "slug": "033-kinh-phung-tung",
+      "slug": "dnc-033-kinh-phung-tung",
       "data": {
         "title": "33. KINH PHÚNG TỤNG",
-        "left": "/kinhtruongbo/sujato-vi/033-reciting-in-concert-sangitisutta.md",
-        "right": "/kinhtruongbo/thichminhchau/033-kinh-phung-tung.md",
+        "left": "/kinhtruongbo/sujato-vi/dn-033-reciting-in-concert-sangitisutta.md",
+        "right": "/kinhtruongbo/thichminhchau/dn-033-kinh-phung-tung.md",
         "leftTitle": "Bhikkhu Sujato (vi)",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
@@ -691,11 +691,11 @@ const sujato_tmc_vi = [
   },
   {
     "params": {
-      "slug": "034-kinh-thap-thuong",
+      "slug": "dnc-034-kinh-thap-thuong",
       "data": {
         "title": "34. KINH THẬP THƯỢNG",
-        "left": "/kinhtruongbo/sujato-vi/034-up-to-ten-dasuttarasutta.md",
-        "right": "/kinhtruongbo/thichminhchau/034-kinh-thap-thuong.md",
+        "left": "/kinhtruongbo/sujato-vi/dn-034-up-to-ten-dasuttarasutta.md",
+        "right": "/kinhtruongbo/thichminhchau/dn-034-kinh-thap-thuong.md",
         "leftTitle": "Bhikkhu Sujato (vi)",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
