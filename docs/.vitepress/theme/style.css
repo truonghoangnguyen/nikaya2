@@ -14,13 +14,6 @@
   font-size: smaller;
 }
 
-
-/* .VPNavBarMenu, .VPNavBarMenuLink {
-  font-family: Arial, sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue",  "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-  font-size: 18px !important;
-  font-weight: bold !important;
-} */
-
 :root {
   --vp-c-brand: #646cff;
   --vp-c-brand-light: #747bff;
@@ -46,7 +39,7 @@ body {
   --vp-c-bg-mute: #313131;
   --vp-c-divider: #3f3f3f;
   --vp-c-text-1: #abb2bf;
-  rgb(202, 203, 206);
+  /* rgb(202, 203, 206);
   */
   /*#b4b4b4;  text dark color */
   /*--vp-c-text-1: #c0c0c0; /*rgb(202, 203, 206);*/
@@ -169,15 +162,6 @@ body {
   margin: 0;
 }
 
-/* .vp-doc ol li {
-  padding-left: 1em;
-  margin: 0;
-} */
-
-/* This ensures the number and text are displayed without space between them */
-/* .vp-doc ol li::marker {
-  margin-right: 0;
-} */
 
 /* Add styles for the navbar controls container */
 .nav-controls {

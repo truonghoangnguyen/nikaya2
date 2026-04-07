@@ -14,6 +14,33 @@ hero:
   </div>
 </div>
 
+## Bản đọc song song
+
+<div class="comparison-section">
+  <p class="comparison-intro">
+    Việc đọc song song các bản dịch khác nhau giúp hiểu sâu hơn về ý nghĩa của kinh điển.
+  </p>
+  <div class="comparison-grid">
+    <div class="comparison-card">
+      <div class="comparison-header">
+        <h3>Pali & TK Thích Minh Châu</h3>
+        <span class="comparison-tag">Pali-Việt</span>
+      </div>
+      <p>Dịch từ tiếng Pali và Tỳ Kheo Thích Minh Châu</p>
+      <a href="/kinhtruongbo/c-pali-tmc-vi/mucluc.html" class="secondary-button">Xem So Sánh</a>
+    </div>
+    <div class="comparison-card">
+      <div class="comparison-header">
+        <h3>TK Thích Minh Châu & Bhikkhu Sujato</h3>
+        <span class="comparison-tag">Anh-Việt</span>
+      </div>
+      <p>Tỳ Kheo Thích Minh Châu và Bhikkhu Sujato</p>
+      <a href="/kinhtruongbo/c-sujato-tmc-vi/mucluc.html" class="secondary-button">Xem So Sánh</a>
+    </div>
+
+  </div>
+</div>
+
 ## Các Bản Dịch Kinh Trường Bộ
 
 <div class="translation-collection">
@@ -53,34 +80,6 @@ hero:
       <div class="card-actions">
         <a href="/kinhtruongbo/sujato-en/intro/cover.html" class="primary-button">Đọc</a>
       </div>
-    </div>
-  </div>
-</div>
-
-## Bản đọc song song
-
-<div class="comparison-section">
-  <p class="comparison-intro">
-    Việc đọc song song các bản dịch khác nhau giúp hiểu sâu hơn về ý nghĩa của kinh điển.
-  </p>
-
-  <div class="comparison-grid">
-    <div class="comparison-card">
-      <div class="comparison-header">
-        <h3>Thích Minh Châu & Bhikkhu Sujato</h3>
-        <span class="comparison-tag">Việt Việt</span>
-      </div>
-      <p>Việt/Việt của Tỳ Kheo Thích Minh Châu và Bhikkhu Sujato</p>
-      <a href="/kinhtruongbo/c-sujato-tmc-vi/mucluc.html" class="secondary-button">Xem So Sánh</a>
-    </div>
-
-  <div class="comparison-card">
-      <div class="comparison-header">
-        <h3>Thích Minh Châu & Bhikkhu Sujato</h3>
-        <span class="comparison-tag">Việt - Anh</span>
-      </div>
-      <p>Anh/Việt của Tỳ Kheo Thích Minh Châu và Bhikkhu Sujato</p>
-      <a href="/kinhtruongbo/c-sujato-tmc-en/mucluc.html" class="secondary-button">Xem So Sánh</a>
     </div>
   </div>
 </div>

@@ -12,7 +12,7 @@ const pali_tmc_vi = [
         "backlink": false,
         "nextlink": {
           "text": "Sāmaññaphalasutta",
-          "link": "/kinhtruongbo/c-pali-tmc-vi/002-kinh-sa-mon-qua"
+          "link": "/kinhtruongbo/c-pali-tmc-vi/dnc-002-kinh-sa-mon-qua"
         }
       }
     }
@@ -29,11 +29,11 @@ const pali_tmc_vi = [
         "notePath": "",
         "backlink": {
           "text": "Brahmajālasutta",
-          "link": "/kinhtruongbo/c-pali-tmc-vi/001-kinh-pham-vong"
+          "link": "/kinhtruongbo/c-pali-tmc-vi/dnc-001-kinh-pham-vong"
         },
         "nextlink": {
           "text": "Ambaṭṭhasutta",
-          "link": "/kinhtruongbo/c-pali-tmc-vi/003-kinh-ambattha-a-ma-tru"
+          "link": "/kinhtruongbo/c-pali-tmc-vi/dnc-003-kinh-ambattha-a-ma-tru"
         }
       }
     }
@@ -50,11 +50,11 @@ const pali_tmc_vi = [
         "notePath": "",
         "backlink": {
           "text": "Sāmaññaphalasutta",
-          "link": "/kinhtruongbo/c-pali-tmc-vi/002-kinh-sa-mon-qua"
+          "link": "/kinhtruongbo/c-pali-tmc-vi/dnc-002-kinh-sa-mon-qua"
         },
         "nextlink": {
           "text": "Soṇadaṇḍasutta",
-          "link": "/kinhtruongbo/c-pali-tmc-vi/004-kinh-sonadanda-chung-duc"
+          "link": "/kinhtruongbo/c-pali-tmc-vi/dnc-004-kinh-sonadanda-chung-duc"
         }
       }
     }
@@ -71,11 +71,11 @@ const pali_tmc_vi = [
         "notePath": "",
         "backlink": {
           "text": "Ambaṭṭhasutta",
-          "link": "/kinhtruongbo/c-pali-tmc-vi/003-kinh-ambattha-a-ma-tru"
+          "link": "/kinhtruongbo/c-pali-tmc-vi/dnc-003-kinh-ambattha-a-ma-tru"
         },
         "nextlink": {
           "text": "Kūṭadantasutta",
-          "link": "/kinhtruongbo/c-pali-tmc-vi/005-kinh-kutadanta-cuu-la-dan-dau"
+          "link": "/kinhtruongbo/c-pali-tmc-vi/dnc-005-kinh-kutadanta-cuu-la-dan-dau"
         }
       }
     }
@@ -92,11 +92,11 @@ const pali_tmc_vi = [
         "notePath": "",
         "backlink": {
           "text": "Soṇadaṇḍasutta",
-          "link": "/kinhtruongbo/c-pali-tmc-vi/004-kinh-sonadanda-chung-duc"
+          "link": "/kinhtruongbo/c-pali-tmc-vi/dnc-004-kinh-sonadanda-chung-duc"
         },
         "nextlink": {
           "text": "Mahālisutta",
-          "link": "/kinhtruongbo/c-pali-tmc-vi/006-kinh-mahali"
+          "link": "/kinhtruongbo/c-pali-tmc-vi/dnc-006-kinh-mahali"
         }
       }
     }
@@ -113,11 +113,11 @@ const pali_tmc_vi = [
         "notePath": "",
         "backlink": {
           "text": "Kūṭadantasutta",
-          "link": "/kinhtruongbo/c-pali-tmc-vi/005-kinh-kutadanta-cuu-la-dan-dau"
+          "link": "/kinhtruongbo/c-pali-tmc-vi/dnc-005-kinh-kutadanta-cuu-la-dan-dau"
         },
         "nextlink": {
           "text": "Jāliyasutta",
-          "link": "/kinhtruongbo/c-pali-tmc-vi/007-kinh-jaliya"
+          "link": "/kinhtruongbo/c-pali-tmc-vi/dnc-007-kinh-jaliya"
         }
       }
     }
@@ -134,11 +134,11 @@ const pali_tmc_vi = [
         "notePath": "",
         "backlink": {
           "text": "Mahālisutta",
-          "link": "/kinhtruongbo/c-pali-tmc-vi/006-kinh-mahali"
+          "link": "/kinhtruongbo/c-pali-tmc-vi/dnc-006-kinh-mahali"
         },
         "nextlink": {
           "text": "Mahāsīhanādasutta",
-          "link": "/kinhtruongbo/c-pali-tmc-vi/008-kinh-ca-diep-su-tu-hong"
+          "link": "/kinhtruongbo/c-pali-tmc-vi/dnc-008-kinh-ca-diep-su-tu-hong"
         }
       }
     }
@@ -155,11 +155,11 @@ const pali_tmc_vi = [
         "notePath": "",
         "backlink": {
           "text": "Jāliyasutta",
-          "link": "/kinhtruongbo/c-pali-tmc-vi/007-kinh-jaliya"
+          "link": "/kinhtruongbo/c-pali-tmc-vi/dnc-007-kinh-jaliya"
         },
         "nextlink": {
           "text": "Poṭṭhapādasutta",
-          "link": "/kinhtruongbo/c-pali-tmc-vi/009-kinh-potthapada-bo-sa-ba-lau"
+          "link": "/kinhtruongbo/c-pali-tmc-vi/dnc-009-kinh-potthapada-bo-sa-ba-lau"
         }
       }
     }
@@ -176,11 +176,11 @@ const pali_tmc_vi = [
         "notePath": "",
         "backlink": {
           "text": "Mahāsīhanādasutta",
-          "link": "/kinhtruongbo/c-pali-tmc-vi/008-kinh-ca-diep-su-tu-hong"
+          "link": "/kinhtruongbo/c-pali-tmc-vi/dnc-008-kinh-ca-diep-su-tu-hong"
         },
         "nextlink": {
           "text": "Subhasutta",
-          "link": "/kinhtruongbo/c-pali-tmc-vi/010-kinh-subha-tu-ba"
+          "link": "/kinhtruongbo/c-pali-tmc-vi/dnc-010-kinh-subha-tu-ba"
         }
       }
     }
@@ -197,11 +197,11 @@ const pali_tmc_vi = [
         "notePath": "",
         "backlink": {
           "text": "Poṭṭhapādasutta",
-          "link": "/kinhtruongbo/c-pali-tmc-vi/009-kinh-potthapada-bo-sa-ba-lau"
+          "link": "/kinhtruongbo/c-pali-tmc-vi/dnc-009-kinh-potthapada-bo-sa-ba-lau"
         },
         "nextlink": {
           "text": "Kevaṭṭasutta",
-          "link": "/kinhtruongbo/c-pali-tmc-vi/011-kinh-kevaddha-kien-co"
+          "link": "/kinhtruongbo/c-pali-tmc-vi/dnc-011-kinh-kevaddha-kien-co"
         }
       }
     }
@@ -218,11 +218,11 @@ const pali_tmc_vi = [
         "notePath": "",
         "backlink": {
           "text": "Subhasutta",
-          "link": "/kinhtruongbo/c-pali-tmc-vi/010-kinh-subha-tu-ba"
+          "link": "/kinhtruongbo/c-pali-tmc-vi/dnc-010-kinh-subha-tu-ba"
         },
         "nextlink": {
           "text": "Lohiccasutta",
-          "link": "/kinhtruongbo/c-pali-tmc-vi/012-kinh-lohicca-lo-hi-gia"
+          "link": "/kinhtruongbo/c-pali-tmc-vi/dnc-012-kinh-lohicca-lo-hi-gia"
         }
       }
     }
@@ -239,11 +239,11 @@ const pali_tmc_vi = [
         "notePath": "",
         "backlink": {
           "text": "Kevaṭṭasutta",
-          "link": "/kinhtruongbo/c-pali-tmc-vi/011-kinh-kevaddha-kien-co"
+          "link": "/kinhtruongbo/c-pali-tmc-vi/dnc-011-kinh-kevaddha-kien-co"
         },
         "nextlink": {
           "text": "Tevijjasutta",
-          "link": "/kinhtruongbo/c-pali-tmc-vi/013-kinh-tevijja-tam-minh"
+          "link": "/kinhtruongbo/c-pali-tmc-vi/dnc-013-kinh-tevijja-tam-minh"
         }
       }
     }
@@ -260,11 +260,11 @@ const pali_tmc_vi = [
         "notePath": "",
         "backlink": {
           "text": "Lohiccasutta",
-          "link": "/kinhtruongbo/c-pali-tmc-vi/012-kinh-lohicca-lo-hi-gia"
+          "link": "/kinhtruongbo/c-pali-tmc-vi/dnc-012-kinh-lohicca-lo-hi-gia"
         },
         "nextlink": {
           "text": "Mahāpadānasutta",
-          "link": "/kinhtruongbo/c-pali-tmc-vi/014-kinh-dai-bon"
+          "link": "/kinhtruongbo/c-pali-tmc-vi/dnc-014-kinh-dai-bon"
         }
       }
     }
@@ -281,11 +281,11 @@ const pali_tmc_vi = [
         "notePath": "",
         "backlink": {
           "text": "Tevijjasutta",
-          "link": "/kinhtruongbo/c-pali-tmc-vi/013-kinh-tevijja-tam-minh"
+          "link": "/kinhtruongbo/c-pali-tmc-vi/dnc-013-kinh-tevijja-tam-minh"
         },
         "nextlink": {
           "text": "Mahānidānasutta",
-          "link": "/kinhtruongbo/c-pali-tmc-vi/015-kinh-dai-duyen"
+          "link": "/kinhtruongbo/c-pali-tmc-vi/dnc-015-kinh-dai-duyen"
         }
       }
     }
@@ -302,11 +302,11 @@ const pali_tmc_vi = [
         "notePath": "",
         "backlink": {
           "text": "Mahāpadānasutta",
-          "link": "/kinhtruongbo/c-pali-tmc-vi/014-kinh-dai-bon"
+          "link": "/kinhtruongbo/c-pali-tmc-vi/dnc-014-kinh-dai-bon"
         },
         "nextlink": {
           "text": "Mahāparinibbānasutta",
-          "link": "/kinhtruongbo/c-pali-tmc-vi/016-kinh-dai-bat-niet-ban"
+          "link": "/kinhtruongbo/c-pali-tmc-vi/dnc-016-kinh-dai-bat-niet-ban"
         }
       }
     }
@@ -323,11 +323,11 @@ const pali_tmc_vi = [
         "notePath": "",
         "backlink": {
           "text": "Mahānidānasutta",
-          "link": "/kinhtruongbo/c-pali-tmc-vi/015-kinh-dai-duyen"
+          "link": "/kinhtruongbo/c-pali-tmc-vi/dnc-015-kinh-dai-duyen"
         },
         "nextlink": {
           "text": "Mahāsudassanasutta",
-          "link": "/kinhtruongbo/c-pali-tmc-vi/017-kinh-dai-thien-kien-vuong"
+          "link": "/kinhtruongbo/c-pali-tmc-vi/dnc-017-kinh-dai-thien-kien-vuong"
         }
       }
     }
@@ -344,11 +344,11 @@ const pali_tmc_vi = [
         "notePath": "",
         "backlink": {
           "text": "Mahāparinibbānasutta",
-          "link": "/kinhtruongbo/c-pali-tmc-vi/016-kinh-dai-bat-niet-ban"
+          "link": "/kinhtruongbo/c-pali-tmc-vi/dnc-016-kinh-dai-bat-niet-ban"
         },
         "nextlink": {
           "text": "Janavasabhasutta",
-          "link": "/kinhtruongbo/c-pali-tmc-vi/018-kinh-xa-ni-sa"
+          "link": "/kinhtruongbo/c-pali-tmc-vi/dnc-018-kinh-xa-ni-sa"
         }
       }
     }
@@ -365,11 +365,11 @@ const pali_tmc_vi = [
         "notePath": "",
         "backlink": {
           "text": "Mahāsudassanasutta",
-          "link": "/kinhtruongbo/c-pali-tmc-vi/017-kinh-dai-thien-kien-vuong"
+          "link": "/kinhtruongbo/c-pali-tmc-vi/dnc-017-kinh-dai-thien-kien-vuong"
         },
         "nextlink": {
           "text": "Mahāgovindasutta",
-          "link": "/kinhtruongbo/c-pali-tmc-vi/019-kinh-dai-dien-ton"
+          "link": "/kinhtruongbo/c-pali-tmc-vi/dnc-019-kinh-dai-dien-ton"
         }
       }
     }
@@ -386,11 +386,11 @@ const pali_tmc_vi = [
         "notePath": "",
         "backlink": {
           "text": "Janavasabhasutta",
-          "link": "/kinhtruongbo/c-pali-tmc-vi/018-kinh-xa-ni-sa"
+          "link": "/kinhtruongbo/c-pali-tmc-vi/dnc-018-kinh-xa-ni-sa"
         },
         "nextlink": {
           "text": "Mahāsamayasutta",
-          "link": "/kinhtruongbo/c-pali-tmc-vi/020-kinh-dai-hoi"
+          "link": "/kinhtruongbo/c-pali-tmc-vi/dnc-020-kinh-dai-hoi"
         }
       }
     }
@@ -407,11 +407,11 @@ const pali_tmc_vi = [
         "notePath": "",
         "backlink": {
           "text": "Mahāgovindasutta",
-          "link": "/kinhtruongbo/c-pali-tmc-vi/019-kinh-dai-dien-ton"
+          "link": "/kinhtruongbo/c-pali-tmc-vi/dnc-019-kinh-dai-dien-ton"
         },
         "nextlink": {
           "text": "Sakkapañhasutta",
-          "link": "/kinhtruongbo/c-pali-tmc-vi/021-kinh-de-thich-so-van"
+          "link": "/kinhtruongbo/c-pali-tmc-vi/dnc-021-kinh-de-thich-so-van"
         }
       }
     }
@@ -428,11 +428,11 @@ const pali_tmc_vi = [
         "notePath": "",
         "backlink": {
           "text": "Mahāsamayasutta",
-          "link": "/kinhtruongbo/c-pali-tmc-vi/020-kinh-dai-hoi"
+          "link": "/kinhtruongbo/c-pali-tmc-vi/dnc-020-kinh-dai-hoi"
         },
         "nextlink": {
           "text": "DN 22. KINH ĐẠI NIỆM XỨ (Mahāsatipaṭṭhānasutta)",
-          "link": "/kinhtruongbo/c-pali-tmc-vi/022-kinh-dai-niem-xu"
+          "link": "/kinhtruongbo/c-pali-tmc-vi/dnc-022-kinh-dai-niem-xu"
         }
       }
     }
@@ -449,11 +449,11 @@ const pali_tmc_vi = [
         "notePath": "",
         "backlink": {
           "text": "Sakkapañhasutta",
-          "link": "/kinhtruongbo/c-pali-tmc-vi/021-kinh-de-thich-so-van"
+          "link": "/kinhtruongbo/c-pali-tmc-vi/dnc-021-kinh-de-thich-so-van"
         },
         "nextlink": {
           "text": "Pāyāsisutta",
-          "link": "/kinhtruongbo/c-pali-tmc-vi/023-kinh-te-tuc"
+          "link": "/kinhtruongbo/c-pali-tmc-vi/dnc-023-kinh-te-tuc"
         }
       }
     }
@@ -470,11 +470,11 @@ const pali_tmc_vi = [
         "notePath": "",
         "backlink": {
           "text": "DN 22. KINH ĐẠI NIỆM XỨ (Mahāsatipaṭṭhānasutta)",
-          "link": "/kinhtruongbo/c-pali-tmc-vi/022-kinh-dai-niem-xu"
+          "link": "/kinhtruongbo/c-pali-tmc-vi/dnc-022-kinh-dai-niem-xu"
         },
         "nextlink": {
           "text": "Pāthikasutta",
-          "link": "/kinhtruongbo/c-pali-tmc-vi/024-kinh-ba-le"
+          "link": "/kinhtruongbo/c-pali-tmc-vi/dnc-024-kinh-ba-le"
         }
       }
     }
@@ -491,11 +491,11 @@ const pali_tmc_vi = [
         "notePath": "",
         "backlink": {
           "text": "Pāyāsisutta",
-          "link": "/kinhtruongbo/c-pali-tmc-vi/023-kinh-te-tuc"
+          "link": "/kinhtruongbo/c-pali-tmc-vi/dnc-023-kinh-te-tuc"
         },
         "nextlink": {
           "text": "Udumbarikasutta",
-          "link": "/kinhtruongbo/c-pali-tmc-vi/025-kinh-uu-dam-ba-la-su-tu-hong"
+          "link": "/kinhtruongbo/c-pali-tmc-vi/dnc-025-kinh-uu-dam-ba-la-su-tu-hong"
         }
       }
     }
@@ -512,11 +512,11 @@ const pali_tmc_vi = [
         "notePath": "",
         "backlink": {
           "text": "Pāthikasutta",
-          "link": "/kinhtruongbo/c-pali-tmc-vi/024-kinh-ba-le"
+          "link": "/kinhtruongbo/c-pali-tmc-vi/dnc-024-kinh-ba-le"
         },
         "nextlink": {
           "text": "Cakkavattisutta",
-          "link": "/kinhtruongbo/c-pali-tmc-vi/026-kinh-chuyen-luan-thanh-vuong-su-tu-hong"
+          "link": "/kinhtruongbo/c-pali-tmc-vi/dnc-026-kinh-chuyen-luan-thanh-vuong-su-tu-hong"
         }
       }
     }
@@ -533,11 +533,11 @@ const pali_tmc_vi = [
         "notePath": "",
         "backlink": {
           "text": "Udumbarikasutta",
-          "link": "/kinhtruongbo/c-pali-tmc-vi/025-kinh-uu-dam-ba-la-su-tu-hong"
+          "link": "/kinhtruongbo/c-pali-tmc-vi/dnc-025-kinh-uu-dam-ba-la-su-tu-hong"
         },
         "nextlink": {
           "text": "Aggaññasutta",
-          "link": "/kinhtruongbo/c-pali-tmc-vi/027-kinh-khoi-the-nhan-bon"
+          "link": "/kinhtruongbo/c-pali-tmc-vi/dnc-027-kinh-khoi-the-nhan-bon"
         }
       }
     }
@@ -554,11 +554,11 @@ const pali_tmc_vi = [
         "notePath": "",
         "backlink": {
           "text": "Cakkavattisutta",
-          "link": "/kinhtruongbo/c-pali-tmc-vi/026-kinh-chuyen-luan-thanh-vuong-su-tu-hong"
+          "link": "/kinhtruongbo/c-pali-tmc-vi/dnc-026-kinh-chuyen-luan-thanh-vuong-su-tu-hong"
         },
         "nextlink": {
           "text": "Sampasādanīyasutta",
-          "link": "/kinhtruongbo/c-pali-tmc-vi/028-kinh-tu-hoan-hy"
+          "link": "/kinhtruongbo/c-pali-tmc-vi/dnc-028-kinh-tu-hoan-hy"
         }
       }
     }
@@ -575,11 +575,11 @@ const pali_tmc_vi = [
         "notePath": "",
         "backlink": {
           "text": "Aggaññasutta",
-          "link": "/kinhtruongbo/c-pali-tmc-vi/027-kinh-khoi-the-nhan-bon"
+          "link": "/kinhtruongbo/c-pali-tmc-vi/dnc-027-kinh-khoi-the-nhan-bon"
         },
         "nextlink": {
           "text": "Pāsādikasutta",
-          "link": "/kinhtruongbo/c-pali-tmc-vi/029-kinh-thanh-tinh"
+          "link": "/kinhtruongbo/c-pali-tmc-vi/dnc-029-kinh-thanh-tinh"
         }
       }
     }
@@ -596,11 +596,11 @@ const pali_tmc_vi = [
         "notePath": "",
         "backlink": {
           "text": "Sampasādanīyasutta",
-          "link": "/kinhtruongbo/c-pali-tmc-vi/028-kinh-tu-hoan-hy"
+          "link": "/kinhtruongbo/c-pali-tmc-vi/dnc-028-kinh-tu-hoan-hy"
         },
         "nextlink": {
           "text": "Lakkhaṇasutta",
-          "link": "/kinhtruongbo/c-pali-tmc-vi/030-kinh-tuong"
+          "link": "/kinhtruongbo/c-pali-tmc-vi/dnc-030-kinh-tuong"
         }
       }
     }
@@ -617,11 +617,11 @@ const pali_tmc_vi = [
         "notePath": "",
         "backlink": {
           "text": "Pāsādikasutta",
-          "link": "/kinhtruongbo/c-pali-tmc-vi/029-kinh-thanh-tinh"
+          "link": "/kinhtruongbo/c-pali-tmc-vi/dnc-029-kinh-thanh-tinh"
         },
         "nextlink": {
           "text": "Siṅgālasutta",
-          "link": "/kinhtruongbo/c-pali-tmc-vi/031-kinh-giao-tho-thi-ca-la-viet"
+          "link": "/kinhtruongbo/c-pali-tmc-vi/dnc-031-kinh-giao-tho-thi-ca-la-viet"
         }
       }
     }
@@ -638,11 +638,11 @@ const pali_tmc_vi = [
         "notePath": "",
         "backlink": {
           "text": "Lakkhaṇasutta",
-          "link": "/kinhtruongbo/c-pali-tmc-vi/030-kinh-tuong"
+          "link": "/kinhtruongbo/c-pali-tmc-vi/dnc-030-kinh-tuong"
         },
         "nextlink": {
           "text": "Āṭānāṭiyasutta",
-          "link": "/kinhtruongbo/c-pali-tmc-vi/032-kinh-a-sa-nang-chi"
+          "link": "/kinhtruongbo/c-pali-tmc-vi/dnc-032-kinh-a-sa-nang-chi"
         }
       }
     }
@@ -659,11 +659,11 @@ const pali_tmc_vi = [
         "notePath": "",
         "backlink": {
           "text": "Siṅgālasutta",
-          "link": "/kinhtruongbo/c-pali-tmc-vi/031-kinh-giao-tho-thi-ca-la-viet"
+          "link": "/kinhtruongbo/c-pali-tmc-vi/dnc-031-kinh-giao-tho-thi-ca-la-viet"
         },
         "nextlink": {
           "text": "Saṅgītisutta",
-          "link": "/kinhtruongbo/c-pali-tmc-vi/033-kinh-phung-tung"
+          "link": "/kinhtruongbo/c-pali-tmc-vi/dnc-033-kinh-phung-tung"
         }
       }
     }
@@ -680,11 +680,11 @@ const pali_tmc_vi = [
         "notePath": "",
         "backlink": {
           "text": "Āṭānāṭiyasutta",
-          "link": "/kinhtruongbo/c-pali-tmc-vi/032-kinh-a-sa-nang-chi"
+          "link": "/kinhtruongbo/c-pali-tmc-vi/dnc-032-kinh-a-sa-nang-chi"
         },
         "nextlink": {
           "text": "Dasuttarasutta",
-          "link": "/kinhtruongbo/c-pali-tmc-vi/034-kinh-thap-thuong"
+          "link": "/kinhtruongbo/c-pali-tmc-vi/dnc-034-kinh-thap-thuong"
         }
       }
     }
@@ -701,7 +701,7 @@ const pali_tmc_vi = [
         "notePath": "",
         "backlink": {
           "text": "Saṅgītisutta",
-          "link": "/kinhtruongbo/c-pali-tmc-vi/033-kinh-phung-tung"
+          "link": "/kinhtruongbo/c-pali-tmc-vi/dnc-033-kinh-phung-tung"
         },
         "nextlink": false
       }
