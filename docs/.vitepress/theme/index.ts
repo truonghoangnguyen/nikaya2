@@ -11,6 +11,7 @@ import HomePageLayout from './components/HomePageLayout.vue'
 import Home2Page from './components/Home2Page.vue'
 import IndexButton from '../components/IndexButton.vue'
 import DocTags from './components/DocTags.vue'
+import BookLayout from './components/BookLayout.vue'
 import './style.css'
 
 export default {
@@ -26,6 +27,7 @@ export default {
     app.component('Home2Page', Home2Page)
     app.component('IndexButton', IndexButton)
     app.component('DocTags', IndexButton)
+    app.component('BookLayout', BookLayout)
   },
   Layout() {
     return h(Theme.Layout, null, {
