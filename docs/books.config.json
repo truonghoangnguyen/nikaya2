@@ -5,35 +5,35 @@
       "id": "kinhtruongbo",
       "title": "Kinh Trường Bộ",
       "description": "Digha Nikaya",
-      "cover": "/covers/kinhtruongbo.jpeg",
+      "cover": "/covers/kinhtruongbo.webp",
       "link": "/kinhtruongbo/"
     },
     {
       "id": "kinhtrungbo",
       "title": "Kinh Trung Bộ",
       "description": "Majjhima Nikaya",
-      "cover": "/covers/kinhtruongbo.jpeg",
+      "cover": "/covers/kinhtrungbo.webp",
       "link": "/kinhtrungbo/"
     },
     {
       "id": "kinhtangchi",
       "title": "Kinh Tăng Chi Bộ",
       "description": "Anguttara Nikaya",
-      "cover": "/covers/kinhtruongbo.jpeg",
+      "cover": "/covers/kinhtangchi.webp",
       "link": "/kinhtangchi/"
     },
     {
       "id": "kinhtuongung",
       "title": "Kinh Tương Ưng Bộ",
       "description": "Samyutta Nikaya",
-      "cover": "/covers/kinhtruongbo.jpeg",
+      "cover": "/covers/kinhtuongung.webp",
       "link": "/kinhtuongung/"
     },
     {
       "id": "plato",
-      "title": "Plato",
+      "title": "Cộng Hòa Plato",
       "description": "Tác phẩm triết học Hy Lạp",
-      "cover": "/covers/kinhtruongbo.jpeg",
+      "cover": "/covers/plato.png",
       "link": "/plato/"
     }
   ]
