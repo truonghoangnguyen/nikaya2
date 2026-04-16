@@ -259,7 +259,7 @@ export default defineConfig({
 
 
   head: [
-    ['base', { target: '_blank' }],
+    //['base', { target: '_blank' }],
     ['link', {
       rel: 'preconnect',
       href: 'https://fonts.googleapis.com'
