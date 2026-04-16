@@ -7,11 +7,11 @@
           <path d="m21 21-4.35-4.35"/>
         </svg>
         <input
+          ref="searchInput"
           v-model="query"
           type="text"
           placeholder="Tìm kiếm kinh văn... (vd: MN 1, Tứ Niệm Xứ)"
           class="search-input"
-          autofocus
           @keydown.escape="query = ''"
         />
         <button v-if="query" class="clear-btn" @click="query = ''">
@@ -61,7 +61,7 @@
 </template>
 
 <script setup>
-import { ref, computed } from 'vue'
+import { ref, computed, onMounted, nextTick } from 'vue'
 import Fuse from 'fuse.js'
 
 // ── Props ────────────────────────────────────────────────────────────────────
@@ -75,6 +75,13 @@ const props = defineProps({
 
 // ── State ────────────────────────────────────────────────────────────────────
 const query = ref('')
+const searchInput = ref(null)
+
+onMounted(() => {
+  nextTick(() => {
+    searchInput.value?.focus()
+  })
+})
 
 // ── Fuse instance ─────────────────────────────────────────────────────────────
 const fuse = computed(() => new Fuse(props.items, {
