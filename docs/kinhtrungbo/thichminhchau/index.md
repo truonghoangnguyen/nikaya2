@@ -8,7 +8,7 @@ hero:
 features:
   - title: Lời Nói Ðầu
     details: Trong Bản In lần Thứ Nhất Năm 1973 →
-    link: /kinhtrungbo/thichminhchau/g1
+    link: /kinhtrungbo/thichminhchau/gioi-thieu-kinh-trung-bo-1
   - title: Mục lục
     details: Mục lục 152 bài kinh →
     link: /kinhtrungbo/thichminhchau/meta/mucluc
@@ -20,7 +20,7 @@ features:
 <br>
 <h2 style="text-align: center;">Kinh Trung Bộ - Thích Minh Châu</h2>
 <br>
-<a href="/kinhtrungbo/thichminhchau/g1">
+<a href="/kinhtrungbo/thichminhchau/meta/mucluc">
 <figure style="text-align: center;">
     <img src="/kinh-trung-bo.jpg" style="max-width:400px;width:100%;display:block;margin:0 auto;" alt="The Middle Length Discourses of the Buddha">
     <figcaption><i>Kinh Trung Bộ</i></figcaption>

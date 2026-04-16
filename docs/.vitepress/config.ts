@@ -58,8 +58,8 @@ const BOOK_NAV = {
 
 
   'kinhtuongung/thichminhchau': kinhtuongung_thichminhchau,
-  //'kinhtuongung/sujato-en/intro'  : kinhtuongung_sujato_en,
-  //'kinhtuongung/sujato-en'        : kinhtuongung_sujato_en,
+  'kinhtuongung/sujato-en/intro': kinhtuongung_sujato_en,
+  'kinhtuongung/sujato-en': kinhtuongung_sujato_en,
   'kinhtuongung/sujato-vi/intro': kinhtuongung_sujato_vi,
   'kinhtuongung/sujato-vi': kinhtuongung_sujato_vi,
 
@@ -169,7 +169,7 @@ export default defineConfig({
     ]
   },
 
-  ignoreDeadLinks: true,
+  // ignoreDeadLinks: true,
   /**
    * Transforms page data, specifically adding navigation (next/prev) and title
    * information based on the page's relative path within supported books and authors.

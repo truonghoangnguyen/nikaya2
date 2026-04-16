@@ -8,13 +8,13 @@ hero:
 features:
   - title: Preface
     details: The Preface
-    link: /kinhtrungbo/nanamoli-bodhi-en/intro/1.preface.md
+    link: /kinhtrungbo/nanamoli-bodhi-en/intro/01.preface.md
   - title: Table of Content
     details: Table of 152 Suttra
-    link: /kinhtrungbo/nanamoli-bodhi-en/mucluc
+    link: /kinhtrungbo/nanamoli-bodhi-en/meta/mucluc
   - title: Go to first suttra
     details: 1 The Root of All Things
-    link: /kinhtrungbo/nanamoli-bodhi-en/001-the-root-of-all-things.md
+    link: /kinhtrungbo/nanamoli-bodhi-en/mn-001-the-root-of-all-things.md
 
 ---
 
@@ -22,7 +22,7 @@ features:
 <br>
 <h2 style="text-align: center;">The Middle Length Discourses of the Buddha <br>by Bhikkhu Nanamoli and Bhikkhu Bodhi</h2>
 <br>
-<a href="/kinhtrungbo/nanamoli-bodhi-en/intro/1.preface">
+<a href="/kinhtrungbo/nanamoli-bodhi-en/intro/01.preface">
 <figure style="text-align: center;">
     <img src="/Discourses-of-the-Buddha-nanamoli-bodhi.webp" style="max-width:400px;width:100%;display:block;margin:0 auto;" alt="The Middle Length Discourses of the Buddha">
     <figcaption><i>The Middle Length Discourses of the Buddha by Bhikkhu Nanamoli and Bhikkhu Bodhi</i></figcaption>

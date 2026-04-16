@@ -1,3185 +1,3185 @@
 const tmcmnvi = [
   {
     "params": {
-      "slug": "001-kinh-phap-mon-can-ban",
+      "slug": "mnc-001-kinh-phap-mon-can-ban",
       "data": {
         "title": "MN 1. KINH PHÁP MÔN CĂN BẢN",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/001-the-root-of-all-things.md",
-        "right": "/kinhtrungbo/thichminhchau/001-kinh-phap-mon-can-ban.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-001-the-root-of-all-things.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-001-kinh-phap-mon-can-ban.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": false,
         "nextlink": {
           "text": "MN 2. KINH TẤT CẢ CÁC LẬU HOẶC",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/002-kinh-tat-ca-cac-lau-hoac"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc002-kinh-tat-ca-cac-lau-hoac"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "002-kinh-tat-ca-cac-lau-hoac",
+      "slug": "mnc-002-kinh-tat-ca-cac-lau-hoac",
       "data": {
         "title": "MN 2. KINH TẤT CẢ CÁC LẬU HOẶC",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/002-all-the-taints.md",
-        "right": "/kinhtrungbo/thichminhchau/002-kinh-tat-ca-cac-lau-hoac.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-002-all-the-taints.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-002-kinh-tat-ca-cac-lau-hoac.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 1. KINH PHÁP MÔN CĂN BẢN",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/001-kinh-phap-mon-can-ban"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc001-kinh-phap-mon-can-ban"
         },
         "nextlink": {
           "text": "MN 3. KINH THỪA TỰ PHÁP",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/003-kinh-thua-tu-phap"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc003-kinh-thua-tu-phap"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "003-kinh-thua-tu-phap",
+      "slug": "mnc-003-kinh-thua-tu-phap",
       "data": {
         "title": "MN 3. KINH THỪA TỰ PHÁP",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/003-heirs-in-dhamma.md",
-        "right": "/kinhtrungbo/thichminhchau/003-kinh-thua-tu-phap.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-003-heirs-in-dhamma.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-003-kinh-thua-tu-phap.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 2. KINH TẤT CẢ CÁC LẬU HOẶC",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/002-kinh-tat-ca-cac-lau-hoac"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc002-kinh-tat-ca-cac-lau-hoac"
         },
         "nextlink": {
           "text": "MN 4. KINH SỢ HÃI KHIẾP ÐẢM",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/004-kinh-so-hai-khiep-dam"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc004-kinh-so-hai-khiep-dam"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "004-kinh-so-hai-khiep-dam",
+      "slug": "mnc-004-kinh-so-hai-khiep-dam",
       "data": {
         "title": "MN 4. KINH SỢ HÃI KHIẾP ÐẢM",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/004-fear-and-dread.md",
-        "right": "/kinhtrungbo/thichminhchau/004-kinh-so-hai-khiep-dam.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-004-fear-and-dread.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-004-kinh-so-hai-khiep-dam.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 3. KINH THỪA TỰ PHÁP",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/003-kinh-thua-tu-phap"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc003-kinh-thua-tu-phap"
         },
         "nextlink": {
           "text": "MN 5. KINH KHÔNG UẾ NHIỄM",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/005-kinh-khong-ue-nhiem"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc005-kinh-khong-ue-nhiem"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "005-kinh-khong-ue-nhiem",
+      "slug": "mnc-005-kinh-khong-ue-nhiem",
       "data": {
         "title": "MN 5. KINH KHÔNG UẾ NHIỄM",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/005-without-blemishes.md",
-        "right": "/kinhtrungbo/thichminhchau/005-kinh-khong-ue-nhiem.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-005-without-blemishes.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-005-kinh-khong-ue-nhiem.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 4. KINH SỢ HÃI KHIẾP ÐẢM",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/004-kinh-so-hai-khiep-dam"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc004-kinh-so-hai-khiep-dam"
         },
         "nextlink": {
           "text": "MN 6. KINH ƯỚC NGUYỆN",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/006-kinh-uoc-nguyen"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc006-kinh-uoc-nguyen"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "006-kinh-uoc-nguyen",
+      "slug": "mnc-006-kinh-uoc-nguyen",
       "data": {
         "title": "MN 6. KINH ƯỚC NGUYỆN",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/006-if-a-bhikkhu-should-wish.md",
-        "right": "/kinhtrungbo/thichminhchau/006-kinh-uoc-nguyen.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-006-if-a-bhikkhu-should-wish.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-006-kinh-uoc-nguyen.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 5. KINH KHÔNG UẾ NHIỄM",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/005-kinh-khong-ue-nhiem"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc005-kinh-khong-ue-nhiem"
         },
         "nextlink": {
           "text": "MN 7. KINH VÍ DỤ TẤM VẢI",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/007-kinh-vi-du-tam-vai"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc007-kinh-vi-du-tam-vai"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "007-kinh-vi-du-tam-vai",
+      "slug": "mnc-007-kinh-vi-du-tam-vai",
       "data": {
         "title": "MN 7. KINH VÍ DỤ TẤM VẢI",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/007-the-simile-of-the-cloth.md",
-        "right": "/kinhtrungbo/thichminhchau/007-kinh-vi-du-tam-vai.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-007-the-simile-of-the-cloth.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-007-kinh-vi-du-tam-vai.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 6. KINH ƯỚC NGUYỆN",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/006-kinh-uoc-nguyen"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc006-kinh-uoc-nguyen"
         },
         "nextlink": {
           "text": "MN 8. KINH ÐOẠN GIẢM",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/008-kinh-doan-giam"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc008-kinh-doan-giam"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "008-kinh-doan-giam",
+      "slug": "mnc-008-kinh-doan-giam",
       "data": {
         "title": "MN 8. KINH ÐOẠN GIẢM",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/008-effacement.md",
-        "right": "/kinhtrungbo/thichminhchau/008-kinh-doan-giam.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-008-effacement.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-008-kinh-doan-giam.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 7. KINH VÍ DỤ TẤM VẢI",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/007-kinh-vi-du-tam-vai"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc007-kinh-vi-du-tam-vai"
         },
         "nextlink": {
           "text": "MN 9. KINH CHÁNH TRI KIẾN",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/009-kinh-chanh-tri-kien"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc009-kinh-chanh-tri-kien"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "009-kinh-chanh-tri-kien",
+      "slug": "mnc-009-kinh-chanh-tri-kien",
       "data": {
         "title": "MN 9. KINH CHÁNH TRI KIẾN",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/009-right-view.md",
-        "right": "/kinhtrungbo/thichminhchau/009-kinh-chanh-tri-kien.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-009-right-view.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-009-kinh-chanh-tri-kien.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 8. KINH ÐOẠN GIẢM",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/008-kinh-doan-giam"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc008-kinh-doan-giam"
         },
         "nextlink": {
           "text": "MN 10. KINH NIỆM XỨ",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/010-kinh-niem-xu"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc010-kinh-niem-xu"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "010-kinh-niem-xu",
+      "slug": "mnc-010-kinh-niem-xu",
       "data": {
         "title": "MN 10. KINH NIỆM XỨ",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/010-the-foundations-of-mindfulness.md",
-        "right": "/kinhtrungbo/thichminhchau/010-kinh-niem-xu.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-010-the-foundations-of-mindfulness.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-010-kinh-niem-xu.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 9. KINH CHÁNH TRI KIẾN",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/009-kinh-chanh-tri-kien"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc009-kinh-chanh-tri-kien"
         },
         "nextlink": {
           "text": "MN 11. TIỂU KINH SƯ TỬ HỐNG",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/011-tieu-kinh-su-tu-hong"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc011-tieu-kinh-su-tu-hong"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "011-tieu-kinh-su-tu-hong",
+      "slug": "mnc-011-tieu-kinh-su-tu-hong",
       "data": {
         "title": "MN 11. TIỂU KINH SƯ TỬ HỐNG",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/011-the-shorter-discourse-on-the-lion-s-roar.md",
-        "right": "/kinhtrungbo/thichminhchau/011-tieu-kinh-su-tu-hong.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-011-the-shorter-discourse-on-the-lion-s-roar.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-011-tieu-kinh-su-tu-hong.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 10. KINH NIỆM XỨ",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/010-kinh-niem-xu"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc010-kinh-niem-xu"
         },
         "nextlink": {
           "text": "MN 12. ÐẠI KINH SƯ TỬ HỐNG",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/012-dai-kinh-su-tu-hong"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc012-dai-kinh-su-tu-hong"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "012-dai-kinh-su-tu-hong",
+      "slug": "mnc-012-dai-kinh-su-tu-hong",
       "data": {
         "title": "MN 12. ÐẠI KINH SƯ TỬ HỐNG",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/012-the-greater-discourse-on-the-lion-s-roar.md",
-        "right": "/kinhtrungbo/thichminhchau/012-dai-kinh-su-tu-hong.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-012-the-greater-discourse-on-the-lion-s-roar.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-012-dai-kinh-su-tu-hong.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 11. TIỂU KINH SƯ TỬ HỐNG",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/011-tieu-kinh-su-tu-hong"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc011-tieu-kinh-su-tu-hong"
         },
         "nextlink": {
           "text": "MN 13. ÐẠI KINH KHỔ UẨN",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/013-dai-kinh-kho-uan"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc013-dai-kinh-kho-uan"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "013-dai-kinh-kho-uan",
+      "slug": "mnc-013-dai-kinh-kho-uan",
       "data": {
         "title": "MN 13. ÐẠI KINH KHỔ UẨN",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/013-the-greater-discourse-on-the-mass-of-suffering.md",
-        "right": "/kinhtrungbo/thichminhchau/013-dai-kinh-kho-uan.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-013-the-greater-discourse-on-the-mass-of-suffering.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-013-dai-kinh-kho-uan.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 12. ÐẠI KINH SƯ TỬ HỐNG",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/012-dai-kinh-su-tu-hong"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc012-dai-kinh-su-tu-hong"
         },
         "nextlink": {
           "text": "MN 14. TIỂU KINH KHỔ UẨN",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/014-tieu-kinh-kho-uan"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc014-tieu-kinh-kho-uan"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "014-tieu-kinh-kho-uan",
+      "slug": "mnc-014-tieu-kinh-kho-uan",
       "data": {
         "title": "MN 14. TIỂU KINH KHỔ UẨN",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/014-the-shorter-discourse-on-the-mass-of-suffering.md",
-        "right": "/kinhtrungbo/thichminhchau/014-tieu-kinh-kho-uan.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-014-the-shorter-discourse-on-the-mass-of-suffering.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-014-tieu-kinh-kho-uan.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 13. ÐẠI KINH KHỔ UẨN",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/013-dai-kinh-kho-uan"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc013-dai-kinh-kho-uan"
         },
         "nextlink": {
           "text": "MN 15. KINH TƯ LƯỢNG",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/015-kinh-tu-luong"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc015-kinh-tu-luong"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "015-kinh-tu-luong",
+      "slug": "mnc-015-kinh-tu-luong",
       "data": {
         "title": "MN 15. KINH TƯ LƯỢNG",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/015-inference.md",
-        "right": "/kinhtrungbo/thichminhchau/015-kinh-tu-luong.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-015-inference.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-015-kinh-tu-luong.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 14. TIỂU KINH KHỔ UẨN",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/014-tieu-kinh-kho-uan"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc014-tieu-kinh-kho-uan"
         },
         "nextlink": {
           "text": "MN 16. KINH TÂM HOANG VU",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/016-kinh-tam-hoang-vu"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc016-kinh-tam-hoang-vu"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "016-kinh-tam-hoang-vu",
+      "slug": "mnc-016-kinh-tam-hoang-vu",
       "data": {
         "title": "MN 16. KINH TÂM HOANG VU",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/016-the-wilderness-in-the-heart.md",
-        "right": "/kinhtrungbo/thichminhchau/016-kinh-tam-hoang-vu.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-016-the-wilderness-in-the-heart.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-016-kinh-tam-hoang-vu.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 15. KINH TƯ LƯỢNG",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/015-kinh-tu-luong"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc015-kinh-tu-luong"
         },
         "nextlink": {
           "text": "MN 17. KINH KHU RỪNG",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/017-kinh-khu-rung"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc017-kinh-khu-rung"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "017-kinh-khu-rung",
+      "slug": "mnc-017-kinh-khu-rung",
       "data": {
         "title": "MN 17. KINH KHU RỪNG",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/017-jungle-thickets.md",
-        "right": "/kinhtrungbo/thichminhchau/017-kinh-khu-rung.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-017-jungle-thickets.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-017-kinh-khu-rung.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 16. KINH TÂM HOANG VU",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/016-kinh-tam-hoang-vu"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc016-kinh-tam-hoang-vu"
         },
         "nextlink": {
           "text": "MN 18. KINH MẬT HOÀN",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/018-kinh-mat-hoan"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc018-kinh-mat-hoan"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "018-kinh-mat-hoan",
+      "slug": "mnc-018-kinh-mat-hoan",
       "data": {
         "title": "MN 18. KINH MẬT HOÀN",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/018-the-honeyball.md",
-        "right": "/kinhtrungbo/thichminhchau/018-kinh-mat-hoan.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-018-the-honeyball.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-018-kinh-mat-hoan.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 17. KINH KHU RỪNG",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/017-kinh-khu-rung"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc017-kinh-khu-rung"
         },
         "nextlink": {
           "text": "MN 19. KINH SONG TẦM",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/019-kinh-song-tam"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc019-kinh-song-tam"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "019-kinh-song-tam",
+      "slug": "mnc-019-kinh-song-tam",
       "data": {
         "title": "MN 19. KINH SONG TẦM",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/019-two-kinds-of-thought.md",
-        "right": "/kinhtrungbo/thichminhchau/019-kinh-song-tam.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-019-two-kinds-of-thought.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-019-kinh-song-tam.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 18. KINH MẬT HOÀN",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/018-kinh-mat-hoan"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc018-kinh-mat-hoan"
         },
         "nextlink": {
           "text": "MN 20. KINH AN TRÚ TẦM",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/020-kinh-an-tru-tam"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc020-kinh-an-tru-tam"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "020-kinh-an-tru-tam",
+      "slug": "mnc-020-kinh-an-tru-tam",
       "data": {
         "title": "MN 20. KINH AN TRÚ TẦM",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/020-the-removal-of-distracting-thoughts.md",
-        "right": "/kinhtrungbo/thichminhchau/020-kinh-an-tru-tam.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-020-the-removal-of-distracting-thoughts.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-020-kinh-an-tru-tam.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 19. KINH SONG TẦM",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/019-kinh-song-tam"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc019-kinh-song-tam"
         },
         "nextlink": {
           "text": "MN 21. KINH VÍ DỤ CÁI CƯA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/021-kinh-vi-du-cai-cua"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc021-kinh-vi-du-cai-cua"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "021-kinh-vi-du-cai-cua",
+      "slug": "mnc-021-kinh-vi-du-cai-cua",
       "data": {
         "title": "MN 21. KINH VÍ DỤ CÁI CƯA",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/021-the-simile-of-the-saw.md",
-        "right": "/kinhtrungbo/thichminhchau/021-kinh-vi-du-cai-cua.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-021-the-simile-of-the-saw.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-021-kinh-vi-du-cai-cua.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 20. KINH AN TRÚ TẦM",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/020-kinh-an-tru-tam"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc020-kinh-an-tru-tam"
         },
         "nextlink": {
           "text": "MN 22. KINH VÍ DỤ CON RẮN",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/022-kinh-vi-du-con-ran"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc022-kinh-vi-du-con-ran"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "022-kinh-vi-du-con-ran",
+      "slug": "mnc-022-kinh-vi-du-con-ran",
       "data": {
         "title": "MN 22. KINH VÍ DỤ CON RẮN",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/022-the-simile-of-the-snake.md",
-        "right": "/kinhtrungbo/thichminhchau/022-kinh-vi-du-con-ran.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-022-the-simile-of-the-snake.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-022-kinh-vi-du-con-ran.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 21. KINH VÍ DỤ CÁI CƯA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/021-kinh-vi-du-cai-cua"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc021-kinh-vi-du-cai-cua"
         },
         "nextlink": {
           "text": "MN 23. KINH GÒ MỐI",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/023-kinh-go-moi"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc023-kinh-go-moi"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "023-kinh-go-moi",
+      "slug": "mnc-023-kinh-go-moi",
       "data": {
         "title": "MN 23. KINH GÒ MỐI",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/023-the-ant-hill.md",
-        "right": "/kinhtrungbo/thichminhchau/023-kinh-go-moi.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-023-the-ant-hill.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-023-kinh-go-moi.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 22. KINH VÍ DỤ CON RẮN",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/022-kinh-vi-du-con-ran"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc022-kinh-vi-du-con-ran"
         },
         "nextlink": {
           "text": "MN 24. KINH TRẠM XE",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/024-kinh-tram-xe"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc024-kinh-tram-xe"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "024-kinh-tram-xe",
+      "slug": "mnc-024-kinh-tram-xe",
       "data": {
         "title": "MN 24. KINH TRẠM XE",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/024-the-relay-chariots.md",
-        "right": "/kinhtrungbo/thichminhchau/024-kinh-tram-xe.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-024-the-relay-chariots.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-024-kinh-tram-xe.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 23. KINH GÒ MỐI",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/023-kinh-go-moi"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc023-kinh-go-moi"
         },
         "nextlink": {
           "text": "MN 25. KINH BẪY MỒI",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/025-kinh-bay-moi"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc025-kinh-bay-moi"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "025-kinh-bay-moi",
+      "slug": "mnc-025-kinh-bay-moi",
       "data": {
         "title": "MN 25. KINH BẪY MỒI",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/025-the-bait.md",
-        "right": "/kinhtrungbo/thichminhchau/025-kinh-bay-moi.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-025-the-bait.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-025-kinh-bay-moi.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 24. KINH TRẠM XE",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/024-kinh-tram-xe"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc024-kinh-tram-xe"
         },
         "nextlink": {
           "text": "MN 26. KINH THÁNH CẦU",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/026-kinh-thanh-cau"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc026-kinh-thanh-cau"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "026-kinh-thanh-cau",
+      "slug": "mnc-026-kinh-thanh-cau",
       "data": {
         "title": "MN 26. KINH THÁNH CẦU",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/026-the-noble-search.md",
-        "right": "/kinhtrungbo/thichminhchau/026-kinh-thanh-cau.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-026-the-noble-search.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-026-kinh-thanh-cau.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 25. KINH BẪY MỒI",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/025-kinh-bay-moi"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc025-kinh-bay-moi"
         },
         "nextlink": {
           "text": "MN 27. TIỂU KINH DỤ DẤU CHÂN VOI",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/027-tieu-kinh-du-dau-chan-voi"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc027-tieu-kinh-du-dau-chan-voi"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "027-tieu-kinh-du-dau-chan-voi",
+      "slug": "mnc-027-tieu-kinh-du-dau-chan-voi",
       "data": {
         "title": "MN 27. TIỂU KINH DỤ DẤU CHÂN VOI",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/027-the-shorter-discourse-on-the-simile-of-the-elephant-s-footprint.md",
-        "right": "/kinhtrungbo/thichminhchau/027-tieu-kinh-du-dau-chan-voi.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-027-the-shorter-discourse-on-the-simile-of-the-elephant-s-footprint.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-027-tieu-kinh-du-dau-chan-voi.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 26. KINH THÁNH CẦU",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/026-kinh-thanh-cau"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc026-kinh-thanh-cau"
         },
         "nextlink": {
           "text": "MN 28. ÐẠI KINH DỤ DẤU CHÂN VOI",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/028-dai-kinh-du-dau-chan-voi"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc028-dai-kinh-du-dau-chan-voi"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "028-dai-kinh-du-dau-chan-voi",
+      "slug": "mnc-028-dai-kinh-du-dau-chan-voi",
       "data": {
         "title": "MN 28. ÐẠI KINH DỤ DẤU CHÂN VOI",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/028-the-greater-discourse-on-the-simile-of-the-elephant-s-footprint.md",
-        "right": "/kinhtrungbo/thichminhchau/028-dai-kinh-du-dau-chan-voi.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-028-the-greater-discourse-on-the-simile-of-the-elephant-s-footprint.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-028-dai-kinh-du-dau-chan-voi.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 27. TIỂU KINH DỤ DẤU CHÂN VOI",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/027-tieu-kinh-du-dau-chan-voi"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc027-tieu-kinh-du-dau-chan-voi"
         },
         "nextlink": {
           "text": "MN 29. ÐẠI KINH THÍ DỤ LÕI CÂY",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/029-dai-kinh-thi-du-loi-cay"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc029-dai-kinh-thi-du-loi-cay"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "029-dai-kinh-thi-du-loi-cay",
+      "slug": "mnc-029-dai-kinh-thi-du-loi-cay",
       "data": {
         "title": "MN 29. ÐẠI KINH THÍ DỤ LÕI CÂY",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/029-the-greater-discourse-on-the-simile-of-the-heartwood.md",
-        "right": "/kinhtrungbo/thichminhchau/029-dai-kinh-thi-du-loi-cay.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-029-the-greater-discourse-on-the-simile-of-the-heartwood.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-029-dai-kinh-thi-du-loi-cay.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 28. ÐẠI KINH DỤ DẤU CHÂN VOI",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/028-dai-kinh-du-dau-chan-voi"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc028-dai-kinh-du-dau-chan-voi"
         },
         "nextlink": {
           "text": "MN 30. TIỂU KINH DỤ LÕI CÂY",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/030-tieu-kinh-du-loi-cay"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc030-tieu-kinh-du-loi-cay"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "030-tieu-kinh-du-loi-cay",
+      "slug": "mnc-030-tieu-kinh-du-loi-cay",
       "data": {
         "title": "MN 30. TIỂU KINH DỤ LÕI CÂY",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/030-the-shorter-discourse-on-the-simile-of-the-heartwood.md",
-        "right": "/kinhtrungbo/thichminhchau/030-tieu-kinh-du-loi-cay.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-030-the-shorter-discourse-on-the-simile-of-the-heartwood.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-030-tieu-kinh-du-loi-cay.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 29. ÐẠI KINH THÍ DỤ LÕI CÂY",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/029-dai-kinh-thi-du-loi-cay"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc029-dai-kinh-thi-du-loi-cay"
         },
         "nextlink": {
           "text": "MN 31. TIỂU KINH RỪNG SỪNG BÒ",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/031-tieu-kinh-rung-sung-bo"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc031-tieu-kinh-rung-sung-bo"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "031-tieu-kinh-rung-sung-bo",
+      "slug": "mnc-031-tieu-kinh-rung-sung-bo",
       "data": {
         "title": "MN 31. TIỂU KINH RỪNG SỪNG BÒ",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/031-the-shorter-discourse-in-gosinga.md",
-        "right": "/kinhtrungbo/thichminhchau/031-tieu-kinh-rung-sung-bo.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-031-the-shorter-discourse-in-gosinga.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-031-tieu-kinh-rung-sung-bo.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 30. TIỂU KINH DỤ LÕI CÂY",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/030-tieu-kinh-du-loi-cay"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc030-tieu-kinh-du-loi-cay"
         },
         "nextlink": {
           "text": "MN 32. ÐẠI KINH RỪNG SỪNG BÒ",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/032-dai-kinh-rung-sung-bo"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc032-dai-kinh-rung-sung-bo"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "032-dai-kinh-rung-sung-bo",
+      "slug": "mnc-032-dai-kinh-rung-sung-bo",
       "data": {
         "title": "MN 32. ÐẠI KINH RỪNG SỪNG BÒ",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/032-the-greater-discourse-in-gosinga.md",
-        "right": "/kinhtrungbo/thichminhchau/032-dai-kinh-rung-sung-bo.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-032-the-greater-discourse-in-gosinga.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-032-dai-kinh-rung-sung-bo.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 31. TIỂU KINH RỪNG SỪNG BÒ",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/031-tieu-kinh-rung-sung-bo"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc031-tieu-kinh-rung-sung-bo"
         },
         "nextlink": {
           "text": "MN 33. ÐẠI KINH NGƯỜI CHĂN BÒ",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/033-dai-kinh-nguoi-chan-bo"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc033-dai-kinh-nguoi-chan-bo"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "033-dai-kinh-nguoi-chan-bo",
+      "slug": "mnc-033-dai-kinh-nguoi-chan-bo",
       "data": {
         "title": "MN 33. ÐẠI KINH NGƯỜI CHĂN BÒ",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/033-the-greater-discourse-on-the-cowherd.md",
-        "right": "/kinhtrungbo/thichminhchau/033-dai-kinh-nguoi-chan-bo.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-033-the-greater-discourse-on-the-cowherd.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-033-dai-kinh-nguoi-chan-bo.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 32. ÐẠI KINH RỪNG SỪNG BÒ",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/032-dai-kinh-rung-sung-bo"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc032-dai-kinh-rung-sung-bo"
         },
         "nextlink": {
           "text": "MN 34. TIỂU KINH NGƯỜI CHĂN BÒ",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/034-tieu-kinh-nguoi-chan-bo"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc034-tieu-kinh-nguoi-chan-bo"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "034-tieu-kinh-nguoi-chan-bo",
+      "slug": "mnc-034-tieu-kinh-nguoi-chan-bo",
       "data": {
         "title": "MN 34. TIỂU KINH NGƯỜI CHĂN BÒ",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/034-the-shorter-discourse-on-the-cowherd.md",
-        "right": "/kinhtrungbo/thichminhchau/034-tieu-kinh-nguoi-chan-bo.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-034-the-shorter-discourse-on-the-cowherd.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-034-tieu-kinh-nguoi-chan-bo.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 33. ÐẠI KINH NGƯỜI CHĂN BÒ",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/033-dai-kinh-nguoi-chan-bo"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc033-dai-kinh-nguoi-chan-bo"
         },
         "nextlink": {
           "text": "MN 35. TIỂU KINH SACCAKA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/035-tieu-kinh-saccaka"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc035-tieu-kinh-saccaka"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "035-tieu-kinh-saccaka",
+      "slug": "mnc-035-tieu-kinh-saccaka",
       "data": {
         "title": "MN 35. TIỂU KINH SACCAKA",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/035-the-shorter-discourse-to-saccaka.md",
-        "right": "/kinhtrungbo/thichminhchau/035-tieu-kinh-saccaka.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-035-the-shorter-discourse-to-saccaka.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-035-tieu-kinh-saccaka.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 34. TIỂU KINH NGƯỜI CHĂN BÒ",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/034-tieu-kinh-nguoi-chan-bo"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc034-tieu-kinh-nguoi-chan-bo"
         },
         "nextlink": {
           "text": "MN 36. ÐẠI KINH SACCAKA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/036-dai-kinh-saccaka"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc036-dai-kinh-saccaka"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "036-dai-kinh-saccaka",
+      "slug": "mnc-036-dai-kinh-saccaka",
       "data": {
         "title": "MN 36. ÐẠI KINH SACCAKA",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/036-the-greater-discourse-to-saccaka.md",
-        "right": "/kinhtrungbo/thichminhchau/036-dai-kinh-saccaka.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-036-the-greater-discourse-to-saccaka.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-036-dai-kinh-saccaka.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 35. TIỂU KINH SACCAKA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/035-tieu-kinh-saccaka"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc035-tieu-kinh-saccaka"
         },
         "nextlink": {
           "text": "MN 37. TIỂU KINH ÐOẠN TẬN ÁI",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/037-tieu-kinh-doan-tan-ai"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc037-tieu-kinh-doan-tan-ai"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "037-tieu-kinh-doan-tan-ai",
+      "slug": "mnc-037-tieu-kinh-doan-tan-ai",
       "data": {
         "title": "MN 37. TIỂU KINH ÐOẠN TẬN ÁI",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/037-the-shorter-discourse-on-the-destruction-of-craving.md",
-        "right": "/kinhtrungbo/thichminhchau/037-tieu-kinh-doan-tan-ai.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-037-the-shorter-discourse-on-the-destruction-of-craving.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-037-tieu-kinh-doan-tan-ai.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 36. ÐẠI KINH SACCAKA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/036-dai-kinh-saccaka"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc036-dai-kinh-saccaka"
         },
         "nextlink": {
           "text": "MN 38. ÐẠI KINH ÐOẠN TẬN ÁI",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/038-dai-kinh-doan-tan-ai"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc038-dai-kinh-doan-tan-ai"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "038-dai-kinh-doan-tan-ai",
+      "slug": "mnc-038-dai-kinh-doan-tan-ai",
       "data": {
         "title": "MN 38. ÐẠI KINH ÐOẠN TẬN ÁI",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/038-the-greater-discourse-on-the-destruction-of-craving.md",
-        "right": "/kinhtrungbo/thichminhchau/038-dai-kinh-doan-tan-ai.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-038-the-greater-discourse-on-the-destruction-of-craving.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-038-dai-kinh-doan-tan-ai.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 37. TIỂU KINH ÐOẠN TẬN ÁI",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/037-tieu-kinh-doan-tan-ai"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc037-tieu-kinh-doan-tan-ai"
         },
         "nextlink": {
           "text": "MN 39. ÐẠI KINH XÓM NGỰA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/039-dai-kinh-xom-ngua"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc039-dai-kinh-xom-ngua"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "039-dai-kinh-xom-ngua",
+      "slug": "mnc-039-dai-kinh-xom-ngua",
       "data": {
         "title": "MN 39. ÐẠI KINH XÓM NGỰA",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/039-the-greater-discourse-at-assapura.md",
-        "right": "/kinhtrungbo/thichminhchau/039-dai-kinh-xom-ngua.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-039-the-greater-discourse-at-assapura.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-039-dai-kinh-xom-ngua.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 38. ÐẠI KINH ÐOẠN TẬN ÁI",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/038-dai-kinh-doan-tan-ai"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc038-dai-kinh-doan-tan-ai"
         },
         "nextlink": {
           "text": "MN 40. TIỂU KINH XÓM NGỰA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/040-tieu-kinh-xom-ngua"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc040-tieu-kinh-xom-ngua"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "040-tieu-kinh-xom-ngua",
+      "slug": "mnc-040-tieu-kinh-xom-ngua",
       "data": {
         "title": "MN 40. TIỂU KINH XÓM NGỰA",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/040-the-shorter-discourse-at-assapura.md",
-        "right": "/kinhtrungbo/thichminhchau/040-tieu-kinh-xom-ngua.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-040-the-shorter-discourse-at-assapura.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-040-tieu-kinh-xom-ngua.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 39. ÐẠI KINH XÓM NGỰA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/039-dai-kinh-xom-ngua"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc039-dai-kinh-xom-ngua"
         },
         "nextlink": {
           "text": "MN 41. KINH SÀLEYYAKA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/041-kinh-saleyyaka"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc041-kinh-saleyyaka"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "041-kinh-saleyyaka",
+      "slug": "mnc-041-kinh-saleyyaka",
       "data": {
         "title": "MN 41. KINH SÀLEYYAKA",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/041-the-brahmins-of-sala.md",
-        "right": "/kinhtrungbo/thichminhchau/041-kinh-saleyyaka.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-041-the-brahmins-of-sala.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-041-kinh-saleyyaka.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 40. TIỂU KINH XÓM NGỰA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/040-tieu-kinh-xom-ngua"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc040-tieu-kinh-xom-ngua"
         },
         "nextlink": {
           "text": "MN 42. KINH VERANJAKA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/042-kinh-veranjaka"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc042-kinh-veranjaka"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "042-kinh-veranjaka",
+      "slug": "mnc-042-kinh-veranjaka",
       "data": {
         "title": "MN 42. KINH VERANJAKA",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/042-the-brahmins-of-veranja.md",
-        "right": "/kinhtrungbo/thichminhchau/042-kinh-veranjaka.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-042-the-brahmins-of-veranja.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-042-kinh-veranjaka.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 41. KINH SÀLEYYAKA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/041-kinh-saleyyaka"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc041-kinh-saleyyaka"
         },
         "nextlink": {
           "text": "MN 43. ÐẠI KINH PHƯƠNG QUẢNG",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/043-dai-kinh-phuong-quang"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc043-dai-kinh-phuong-quang"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "043-dai-kinh-phuong-quang",
+      "slug": "mnc-043-dai-kinh-phuong-quang",
       "data": {
         "title": "MN 43. ÐẠI KINH PHƯƠNG QUẢNG",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/043-the-greater-series-of-questions-and-answers.md",
-        "right": "/kinhtrungbo/thichminhchau/043-dai-kinh-phuong-quang.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-043-the-greater-series-of-questions-and-answers.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-043-dai-kinh-phuong-quang.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 42. KINH VERANJAKA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/042-kinh-veranjaka"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc042-kinh-veranjaka"
         },
         "nextlink": {
           "text": "MN 44. TIỂU KINH PHƯƠNG QUẢNG",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/044-tieu-kinh-phuong-quang"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc044-tieu-kinh-phuong-quang"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "044-tieu-kinh-phuong-quang",
+      "slug": "mnc-044-tieu-kinh-phuong-quang",
       "data": {
         "title": "MN 44. TIỂU KINH PHƯƠNG QUẢNG",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/044-the-shorter-series-of-questions-and-answers.md",
-        "right": "/kinhtrungbo/thichminhchau/044-tieu-kinh-phuong-quang.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-044-the-shorter-series-of-questions-and-answers.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-044-tieu-kinh-phuong-quang.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 43. ÐẠI KINH PHƯƠNG QUẢNG",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/043-dai-kinh-phuong-quang"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc043-dai-kinh-phuong-quang"
         },
         "nextlink": {
           "text": "MN 45. TIỂU KINH PHÁP HÀNH",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/045-tieu-kinh-phap-hanh"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc045-tieu-kinh-phap-hanh"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "045-tieu-kinh-phap-hanh",
+      "slug": "mnc-045-tieu-kinh-phap-hanh",
       "data": {
         "title": "MN 45. TIỂU KINH PHÁP HÀNH",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/045-the-shorter-discourse-on-ways-of-undertaking-things.md",
-        "right": "/kinhtrungbo/thichminhchau/045-tieu-kinh-phap-hanh.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-045-the-shorter-discourse-on-ways-of-undertaking-things.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-045-tieu-kinh-phap-hanh.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 44. TIỂU KINH PHƯƠNG QUẢNG",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/044-tieu-kinh-phuong-quang"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc044-tieu-kinh-phuong-quang"
         },
         "nextlink": {
           "text": "MN 46. ÐẠI KINH PHÁP HÀNH",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/046-dai-kinh-phap-hanh"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc046-dai-kinh-phap-hanh"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "046-dai-kinh-phap-hanh",
+      "slug": "mnc-046-dai-kinh-phap-hanh",
       "data": {
         "title": "MN 46. ÐẠI KINH PHÁP HÀNH",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/046-the-greater-discourse-on-ways-of-undertaking-things.md",
-        "right": "/kinhtrungbo/thichminhchau/046-dai-kinh-phap-hanh.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-046-the-greater-discourse-on-ways-of-undertaking-things.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-046-dai-kinh-phap-hanh.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 45. TIỂU KINH PHÁP HÀNH",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/045-tieu-kinh-phap-hanh"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc045-tieu-kinh-phap-hanh"
         },
         "nextlink": {
           "text": "MN 47. KINH TƯ SÁT",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/047-kinh-tu-sat"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc047-kinh-tu-sat"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "047-kinh-tu-sat",
+      "slug": "mnc-047-kinh-tu-sat",
       "data": {
         "title": "MN 47. KINH TƯ SÁT",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/047-the-inquirer.md",
-        "right": "/kinhtrungbo/thichminhchau/047-kinh-tu-sat.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-047-the-inquirer.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-047-kinh-tu-sat.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 46. ÐẠI KINH PHÁP HÀNH",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/046-dai-kinh-phap-hanh"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc046-dai-kinh-phap-hanh"
         },
         "nextlink": {
           "text": "MN 48. KINH KOSAMBIYA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/048-kinh-kosambiya"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc048-kinh-kosambiya"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "048-kinh-kosambiya",
+      "slug": "mnc-048-kinh-kosambiya",
       "data": {
         "title": "MN 48. KINH KOSAMBIYA",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/048-the-kosambians.md",
-        "right": "/kinhtrungbo/thichminhchau/048-kinh-kosambiya.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-048-the-kosambians.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-048-kinh-kosambiya.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 47. KINH TƯ SÁT",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/047-kinh-tu-sat"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc047-kinh-tu-sat"
         },
         "nextlink": {
           "text": "MN 49. KINH PHẠM THIÊN CẦU THỈNH",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/049-kinh-pham-thien-cau-thinh"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc049-kinh-pham-thien-cau-thinh"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "049-kinh-pham-thien-cau-thinh",
+      "slug": "mnc-049-kinh-pham-thien-cau-thinh",
       "data": {
         "title": "MN 49. KINH PHẠM THIÊN CẦU THỈNH",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/049-the-invitation-of-a-brahma.md",
-        "right": "/kinhtrungbo/thichminhchau/049-kinh-pham-thien-cau-thinh.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-049-the-invitation-of-a-brahma.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-049-kinh-pham-thien-cau-thinh.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 48. KINH KOSAMBIYA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/048-kinh-kosambiya"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc048-kinh-kosambiya"
         },
         "nextlink": {
           "text": "MN 50. KINH HÀNG MA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/050-kinh-hang-ma"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc050-kinh-hang-ma"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "050-kinh-hang-ma",
+      "slug": "mnc-050-kinh-hang-ma",
       "data": {
         "title": "MN 50. KINH HÀNG MA",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/050-the-rebuke-to-mara.md",
-        "right": "/kinhtrungbo/thichminhchau/050-kinh-hang-ma.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-050-the-rebuke-to-mara.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-050-kinh-hang-ma.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 49. KINH PHẠM THIÊN CẦU THỈNH",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/049-kinh-pham-thien-cau-thinh"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc049-kinh-pham-thien-cau-thinh"
         },
         "nextlink": {
           "text": "MN 51. KINH KANDARAKA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/051-kinh-kandaraka"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc051-kinh-kandaraka"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "051-kinh-kandaraka",
+      "slug": "mnc-051-kinh-kandaraka",
       "data": {
         "title": "MN 51. KINH KANDARAKA",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/051-to-kandaraka.md",
-        "right": "/kinhtrungbo/thichminhchau/051-kinh-kandaraka.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-051-to-kandaraka.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-051-kinh-kandaraka.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 50. KINH HÀNG MA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/050-kinh-hang-ma"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc050-kinh-hang-ma"
         },
         "nextlink": {
           "text": "MN 52. KINH BÁT THÀNH",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/052-kinh-bat-thanh"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc052-kinh-bat-thanh"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "052-kinh-bat-thanh",
+      "slug": "mnc-052-kinh-bat-thanh",
       "data": {
         "title": "MN 52. KINH BÁT THÀNH",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/052-the-man-from-atthakanagara.md",
-        "right": "/kinhtrungbo/thichminhchau/052-kinh-bat-thanh.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-052-the-man-from-atthakanagara.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-052-kinh-bat-thanh.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 51. KINH KANDARAKA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/051-kinh-kandaraka"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc051-kinh-kandaraka"
         },
         "nextlink": {
           "text": "MN 53. KINH HỮU HỌC",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/053-kinh-huu-hoc"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc053-kinh-huu-hoc"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "053-kinh-huu-hoc",
+      "slug": "mnc-053-kinh-huu-hoc",
       "data": {
         "title": "MN 53. KINH HỮU HỌC",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/053-the-disciple-in-higher-training.md",
-        "right": "/kinhtrungbo/thichminhchau/053-kinh-huu-hoc.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-053-the-disciple-in-higher-training.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-053-kinh-huu-hoc.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 52. KINH BÁT THÀNH",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/052-kinh-bat-thanh"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc052-kinh-bat-thanh"
         },
         "nextlink": {
           "text": "MN 54. KINH POTALIYA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/054-kinh-potaliya"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc054-kinh-potaliya"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "054-kinh-potaliya",
+      "slug": "mnc-054-kinh-potaliya",
       "data": {
         "title": "MN 54. KINH POTALIYA",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/054-to-potaliya.md",
-        "right": "/kinhtrungbo/thichminhchau/054-kinh-potaliya.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-054-to-potaliya.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-054-kinh-potaliya.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 53. KINH HỮU HỌC",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/053-kinh-huu-hoc"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc053-kinh-huu-hoc"
         },
         "nextlink": {
           "text": "MN 55. KINH JÌVAKA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/055-kinh-jivaka"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc055-kinh-jivaka"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "055-kinh-jivaka",
+      "slug": "mnc-055-kinh-jivaka",
       "data": {
         "title": "MN 55. KINH JÌVAKA",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/055-to-jivaka.md",
-        "right": "/kinhtrungbo/thichminhchau/055-kinh-jivaka.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-055-to-jivaka.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-055-kinh-jivaka.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 54. KINH POTALIYA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/054-kinh-potaliya"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc054-kinh-potaliya"
         },
         "nextlink": {
           "text": "MN 56. KINH ƯU-BA-LY",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/056-kinh-uu-ba-ly"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc056-kinh-uu-ba-ly"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "056-kinh-uu-ba-ly",
+      "slug": "mnc-056-kinh-uu-ba-ly",
       "data": {
         "title": "MN 56. KINH ƯU-BA-LY",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/056-to-upali.md",
-        "right": "/kinhtrungbo/thichminhchau/056-kinh-uu-ba-ly.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-056-to-upali.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-056-kinh-uu-ba-ly.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 55. KINH JÌVAKA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/055-kinh-jivaka"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc055-kinh-jivaka"
         },
         "nextlink": {
           "text": "MN 57. KINH HẠNH CON CHÓ",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/057-kinh-hanh-con-cho"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc057-kinh-hanh-con-cho"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "057-kinh-hanh-con-cho",
+      "slug": "mnc-057-kinh-hanh-con-cho",
       "data": {
         "title": "MN 57. KINH HẠNH CON CHÓ",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/057-the-dog-duty-ascetic.md",
-        "right": "/kinhtrungbo/thichminhchau/057-kinh-hanh-con-cho.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-057-the-dog-duty-ascetic.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-057-kinh-hanh-con-cho.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 56. KINH ƯU-BA-LY",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/056-kinh-uu-ba-ly"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc056-kinh-uu-ba-ly"
         },
         "nextlink": {
           "text": "MN 58. KINH VƯƠNG TỬ VÔ ÚY",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/058-kinh-vuong-tu-vo-uy"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc058-kinh-vuong-tu-vo-uy"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "058-kinh-vuong-tu-vo-uy",
+      "slug": "mnc-058-kinh-vuong-tu-vo-uy",
       "data": {
         "title": "MN 58. KINH VƯƠNG TỬ VÔ ÚY",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/058-to-prince-abhaya.md",
-        "right": "/kinhtrungbo/thichminhchau/058-kinh-vuong-tu-vo-uy.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-058-to-prince-abhaya.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-058-kinh-vuong-tu-vo-uy.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 57. KINH HẠNH CON CHÓ",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/057-kinh-hanh-con-cho"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc057-kinh-hanh-con-cho"
         },
         "nextlink": {
           "text": "MN 59. KINH NHIỀU CẢM THỌ",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/059-kinh-nhieu-cam-tho"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc059-kinh-nhieu-cam-tho"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "059-kinh-nhieu-cam-tho",
+      "slug": "mnc-059-kinh-nhieu-cam-tho",
       "data": {
         "title": "MN 59. KINH NHIỀU CẢM THỌ",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/059-the-many-kinds-of-feeling.md",
-        "right": "/kinhtrungbo/thichminhchau/059-kinh-nhieu-cam-tho.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-059-the-many-kinds-of-feeling.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-059-kinh-nhieu-cam-tho.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 58. KINH VƯƠNG TỬ VÔ ÚY",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/058-kinh-vuong-tu-vo-uy"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc058-kinh-vuong-tu-vo-uy"
         },
         "nextlink": {
           "text": "MN 60. KINH KHÔNG GÌ CHUYỂN HƯỚNG",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/060-kinh-khong-gi-chuyen-huong"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc060-kinh-khong-gi-chuyen-huong"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "060-kinh-khong-gi-chuyen-huong",
+      "slug": "mnc-060-kinh-khong-gi-chuyen-huong",
       "data": {
         "title": "MN 60. KINH KHÔNG GÌ CHUYỂN HƯỚNG",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/060-the-incontrovertible-teaching.md",
-        "right": "/kinhtrungbo/thichminhchau/060-kinh-khong-gi-chuyen-huong.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-060-the-incontrovertible-teaching.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-060-kinh-khong-gi-chuyen-huong.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 59. KINH NHIỀU CẢM THỌ",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/059-kinh-nhieu-cam-tho"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc059-kinh-nhieu-cam-tho"
         },
         "nextlink": {
           "text": "MN 61. KINH GIÁO GIỚI LA-HẦU-LA Ở RỪNG AMBALA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/061-kinh-giao-gioi-la-hau-la-o-rung-ambala"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc061-kinh-giao-gioi-la-hau-la-o-rung-ambala"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "061-kinh-giao-gioi-la-hau-la-o-rung-ambala",
+      "slug": "mnc-061-kinh-giao-gioi-la-hau-la-o-rung-ambala",
       "data": {
         "title": "MN 61. KINH GIÁO GIỚI LA-HẦU-LA Ở RỪNG AMBALA",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/061-advice-to-rahula-at-ambalatthika.md",
-        "right": "/kinhtrungbo/thichminhchau/061-kinh-giao-gioi-la-hau-la-o-rung-ambala.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-061-advice-to-rahula-at-ambalatthika.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-061-kinh-giao-gioi-la-hau-la-o-rung-ambala.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 60. KINH KHÔNG GÌ CHUYỂN HƯỚNG",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/060-kinh-khong-gi-chuyen-huong"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc060-kinh-khong-gi-chuyen-huong"
         },
         "nextlink": {
           "text": "MN 62. ÐẠI KINH GIÁO GIỚI LA-HẦU-LA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/062-dai-kinh-giao-gioi-la-hau-la"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc062-dai-kinh-giao-gioi-la-hau-la"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "062-dai-kinh-giao-gioi-la-hau-la",
+      "slug": "mnc-062-dai-kinh-giao-gioi-la-hau-la",
       "data": {
         "title": "MN 62. ÐẠI KINH GIÁO GIỚI LA-HẦU-LA",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/062-the-greater-discourse-of-advice-to-rahula.md",
-        "right": "/kinhtrungbo/thichminhchau/062-dai-kinh-giao-gioi-la-hau-la.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-062-the-greater-discourse-of-advice-to-rahula.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-062-dai-kinh-giao-gioi-la-hau-la.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 61. KINH GIÁO GIỚI LA-HẦU-LA Ở RỪNG AMBALA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/061-kinh-giao-gioi-la-hau-la-o-rung-ambala"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc061-kinh-giao-gioi-la-hau-la-o-rung-ambala"
         },
         "nextlink": {
           "text": "MN 63. TIỂU KINH MÀLUNKYÀ",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/063-tieu-kinh-malunkya"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc063-tieu-kinh-malunkya"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "063-tieu-kinh-malunkya",
+      "slug": "mnc-063-tieu-kinh-malunkya",
       "data": {
         "title": "MN 63. TIỂU KINH MÀLUNKYÀ",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/063-the-shorter-discourse-to-malunkyaputta.md",
-        "right": "/kinhtrungbo/thichminhchau/063-tieu-kinh-malunkya.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-063-the-shorter-discourse-to-malunkyaputta.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-063-tieu-kinh-malunkya.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 62. ÐẠI KINH GIÁO GIỚI LA-HẦU-LA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/062-dai-kinh-giao-gioi-la-hau-la"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc062-dai-kinh-giao-gioi-la-hau-la"
         },
         "nextlink": {
           "text": "MN 64. ÐẠI KINH MÀLUNKYA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/064-dai-kinh-malunkya"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc064-dai-kinh-malunkya"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "064-dai-kinh-malunkya",
+      "slug": "mnc-064-dai-kinh-malunkya",
       "data": {
         "title": "MN 64. ÐẠI KINH MÀLUNKYA",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/064-the-greater-discourse-to-malunkyaputta.md",
-        "right": "/kinhtrungbo/thichminhchau/064-dai-kinh-malunkya.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-064-the-greater-discourse-to-malunkyaputta.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-064-dai-kinh-malunkya.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 63. TIỂU KINH MÀLUNKYÀ",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/063-tieu-kinh-malunkya"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc063-tieu-kinh-malunkya"
         },
         "nextlink": {
           "text": "MN 65. KINH BHADDÀLI",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/065-kinh-bhaddali"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc065-kinh-bhaddali"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "065-kinh-bhaddali",
+      "slug": "mnc-065-kinh-bhaddali",
       "data": {
         "title": "MN 65. KINH BHADDÀLI",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/065-to-bhaddali.md",
-        "right": "/kinhtrungbo/thichminhchau/065-kinh-bhaddali.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-065-to-bhaddali.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-065-kinh-bhaddali.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 64. ÐẠI KINH MÀLUNKYA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/064-dai-kinh-malunkya"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc064-dai-kinh-malunkya"
         },
         "nextlink": {
           "text": "MN 66. KINH VÍ DỤ CON CHIM CÁY",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/066-kinh-vi-du-con-chim-cay"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc066-kinh-vi-du-con-chim-cay"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "066-kinh-vi-du-con-chim-cay",
+      "slug": "mnc-066-kinh-vi-du-con-chim-cay",
       "data": {
         "title": "MN 66. KINH VÍ DỤ CON CHIM CÁY",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/066-the-simile-of-the-quail.md",
-        "right": "/kinhtrungbo/thichminhchau/066-kinh-vi-du-con-chim-cay.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-066-the-simile-of-the-quail.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-066-kinh-vi-du-con-chim-cay.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 65. KINH BHADDÀLI",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/065-kinh-bhaddali"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc065-kinh-bhaddali"
         },
         "nextlink": {
           "text": "MN 67. KINH CÀTUMÀ",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/067-kinh-catuma"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc067-kinh-catuma"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "067-kinh-catuma",
+      "slug": "mnc-067-kinh-catuma",
       "data": {
         "title": "MN 67. KINH CÀTUMÀ",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/067-at-catuma.md",
-        "right": "/kinhtrungbo/thichminhchau/067-kinh-catuma.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-067-at-catuma.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-067-kinh-catuma.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 66. KINH VÍ DỤ CON CHIM CÁY",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/066-kinh-vi-du-con-chim-cay"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc066-kinh-vi-du-con-chim-cay"
         },
         "nextlink": {
           "text": "MN 68. KINH NALAKAPÀNA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/068-kinh-nalakapana"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc068-kinh-nalakapana"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "068-kinh-nalakapana",
+      "slug": "mnc-068-kinh-nalakapana",
       "data": {
         "title": "MN 68. KINH NALAKAPÀNA",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/068-at-nalakapana.md",
-        "right": "/kinhtrungbo/thichminhchau/068-kinh-nalakapana.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-068-at-nalakapana.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-068-kinh-nalakapana.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 67. KINH CÀTUMÀ",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/067-kinh-catuma"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc067-kinh-catuma"
         },
         "nextlink": {
           "text": "MN 69. KINH GULISÀNI",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/069-kinh-gulisani"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc069-kinh-gulisani"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "069-kinh-gulisani",
+      "slug": "mnc-069-kinh-gulisani",
       "data": {
         "title": "MN 69. KINH GULISÀNI",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/069-gulissani.md",
-        "right": "/kinhtrungbo/thichminhchau/069-kinh-gulisani.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-069-gulissani.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-069-kinh-gulisani.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 68. KINH NALAKAPÀNA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/068-kinh-nalakapana"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc068-kinh-nalakapana"
         },
         "nextlink": {
           "text": "MN 70. KINH KÌTÀGIRI",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/070-kinh-kitagiri"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc070-kinh-kitagiri"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "070-kinh-kitagiri",
+      "slug": "mnc-070-kinh-kitagiri",
       "data": {
         "title": "MN 70. KINH KÌTÀGIRI",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/070-at-kitagiri.md",
-        "right": "/kinhtrungbo/thichminhchau/070-kinh-kitagiri.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-070-at-kitagiri.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-070-kinh-kitagiri.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 69. KINH GULISÀNI",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/069-kinh-gulisani"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc069-kinh-gulisani"
         },
         "nextlink": {
           "text": "MN 71. KINH DẠY VACCHAGOTTA VỀ TAM MINH",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/071-kinh-day-vacchagotta-ve-tam-minh"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc071-kinh-day-vacchagotta-ve-tam-minh"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "071-kinh-day-vacchagotta-ve-tam-minh",
+      "slug": "mnc-071-kinh-day-vacchagotta-ve-tam-minh",
       "data": {
         "title": "MN 71. KINH DẠY VACCHAGOTTA VỀ TAM MINH",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/071-to-vacchagotta-on-the-threefold-true-knowledge.md",
-        "right": "/kinhtrungbo/thichminhchau/071-kinh-day-vacchagotta-ve-tam-minh.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-071-to-vacchagotta-on-the-threefold-true-knowledge.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-071-kinh-day-vacchagotta-ve-tam-minh.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 70. KINH KÌTÀGIRI",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/070-kinh-kitagiri"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc070-kinh-kitagiri"
         },
         "nextlink": {
           "text": "MN 72. KINH DẠY VACCHAGOTTA VỀ LỬA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/072-kinh-day-vacchagotta-ve-lua"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc072-kinh-day-vacchagotta-ve-lua"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "072-kinh-day-vacchagotta-ve-lua",
+      "slug": "mnc-072-kinh-day-vacchagotta-ve-lua",
       "data": {
         "title": "MN 72. KINH DẠY VACCHAGOTTA VỀ LỬA",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/072-to-vacchagotta-on-fire.md",
-        "right": "/kinhtrungbo/thichminhchau/072-kinh-day-vacchagotta-ve-lua.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-072-to-vacchagotta-on-fire.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-072-kinh-day-vacchagotta-ve-lua.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 71. KINH DẠY VACCHAGOTTA VỀ TAM MINH",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/071-kinh-day-vacchagotta-ve-tam-minh"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc071-kinh-day-vacchagotta-ve-tam-minh"
         },
         "nextlink": {
           "text": "MN 73. ÐẠI KINH VACCHAGHOTTA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/073-dai-kinh-vacchaghotta"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc073-dai-kinh-vacchaghotta"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "073-dai-kinh-vacchaghotta",
+      "slug": "mnc-073-dai-kinh-vacchaghotta",
       "data": {
         "title": "MN 73. ÐẠI KINH VACCHAGHOTTA",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/073-the-greater-discourse-to-vacchagotta.md",
-        "right": "/kinhtrungbo/thichminhchau/073-dai-kinh-vacchaghotta.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-073-the-greater-discourse-to-vacchagotta.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-073-dai-kinh-vacchaghotta.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 72. KINH DẠY VACCHAGOTTA VỀ LỬA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/072-kinh-day-vacchagotta-ve-lua"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc072-kinh-day-vacchagotta-ve-lua"
         },
         "nextlink": {
           "text": "MN 74. KINH TRƯỜNG TRẢO",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/074-kinh-truong-trao"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc074-kinh-truong-trao"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "074-kinh-truong-trao",
+      "slug": "mnc-074-kinh-truong-trao",
       "data": {
         "title": "MN 74. KINH TRƯỜNG TRẢO",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/074-to-dighanakha.md",
-        "right": "/kinhtrungbo/thichminhchau/074-kinh-truong-trao.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-074-to-dighanakha.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-074-kinh-truong-trao.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 73. ÐẠI KINH VACCHAGHOTTA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/073-dai-kinh-vacchaghotta"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc073-dai-kinh-vacchaghotta"
         },
         "nextlink": {
           "text": "MN 75. KINH MÀGANDIYA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/075-kinh-magandiya"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc075-kinh-magandiya"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "075-kinh-magandiya",
+      "slug": "mnc-075-kinh-magandiya",
       "data": {
         "title": "MN 75. KINH MÀGANDIYA",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/075-to-magandiya.md",
-        "right": "/kinhtrungbo/thichminhchau/075-kinh-magandiya.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-075-to-magandiya.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-075-kinh-magandiya.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 74. KINH TRƯỜNG TRẢO",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/074-kinh-truong-trao"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc074-kinh-truong-trao"
         },
         "nextlink": {
           "text": "MN 76. KINH SANDAKA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/076-kinh-sandaka"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc076-kinh-sandaka"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "076-kinh-sandaka",
+      "slug": "mnc-076-kinh-sandaka",
       "data": {
         "title": "MN 76. KINH SANDAKA",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/076-to-sandaka.md",
-        "right": "/kinhtrungbo/thichminhchau/076-kinh-sandaka.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-076-to-sandaka.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-076-kinh-sandaka.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 75. KINH MÀGANDIYA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/075-kinh-magandiya"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc075-kinh-magandiya"
         },
         "nextlink": {
           "text": "MN 77. ÐẠI KINH SAKULUDÀYI",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/077-dai-kinh-sakuludayi"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc077-dai-kinh-sakuludayi"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "077-dai-kinh-sakuludayi",
+      "slug": "mnc-077-dai-kinh-sakuludayi",
       "data": {
         "title": "MN 77. ÐẠI KINH SAKULUDÀYI",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/077-the-greater-discourse-to-sakuludayin.md",
-        "right": "/kinhtrungbo/thichminhchau/077-dai-kinh-sakuludayi.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-077-the-greater-discourse-to-sakuludayin.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-077-dai-kinh-sakuludayi.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 76. KINH SANDAKA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/076-kinh-sandaka"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc076-kinh-sandaka"
         },
         "nextlink": {
           "text": "MN 78. KINH SAMANAMANDIKÀ",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/078-kinh-samanamandika"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc078-kinh-samanamandika"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "078-kinh-samanamandika",
+      "slug": "mnc-078-kinh-samanamandika",
       "data": {
         "title": "MN 78. KINH SAMANAMANDIKÀ",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/078-samanamanikaputta.md",
-        "right": "/kinhtrungbo/thichminhchau/078-kinh-samanamandika.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-078-samanamanikaputta.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-078-kinh-samanamandika.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 77. ÐẠI KINH SAKULUDÀYI",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/077-dai-kinh-sakuludayi"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc077-dai-kinh-sakuludayi"
         },
         "nextlink": {
           "text": "MN 79. TIỂU KINH SAKULUDAYI (THIỆN SANH ƯU ÐÀ DI)",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/079-tieu-kinh-sakuludayi-thien-sanh-uu-da-di"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc079-tieu-kinh-sakuludayi-thien-sanh-uu-da-di"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "079-tieu-kinh-sakuludayi-thien-sanh-uu-da-di",
+      "slug": "mnc-079-tieu-kinh-sakuludayi-thien-sanh-uu-da-di",
       "data": {
         "title": "MN 79. TIỂU KINH SAKULUDAYI (THIỆN SANH ƯU ÐÀ DI)",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/079-the-shorter-discourse-to-sakuludayin.md",
-        "right": "/kinhtrungbo/thichminhchau/079-tieu-kinh-sakuludayi-thien-sanh-uu-da-di.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-079-the-shorter-discourse-to-sakuludayin.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-079-tieu-kinh-sakuludayi-thien-sanh-uu-da-di.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 78. KINH SAMANAMANDIKÀ",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/078-kinh-samanamandika"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc078-kinh-samanamandika"
         },
         "nextlink": {
           "text": "MN 80. KINH VEKHANASSA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/080-kinh-vekhanassa"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc080-kinh-vekhanassa"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "080-kinh-vekhanassa",
+      "slug": "mnc-080-kinh-vekhanassa",
       "data": {
         "title": "MN 80. KINH VEKHANASSA",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/080-to-vekhanassa.md",
-        "right": "/kinhtrungbo/thichminhchau/080-kinh-vekhanassa.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-080-to-vekhanassa.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-080-kinh-vekhanassa.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 79. TIỂU KINH SAKULUDAYI (THIỆN SANH ƯU ÐÀ DI)",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/079-tieu-kinh-sakuludayi-thien-sanh-uu-da-di"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc079-tieu-kinh-sakuludayi-thien-sanh-uu-da-di"
         },
         "nextlink": {
           "text": "MN 81. KINH GHATÌKÀRA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/081-kinh-ghatikara"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc081-kinh-ghatikara"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "081-kinh-ghatikara",
+      "slug": "mnc-081-kinh-ghatikara",
       "data": {
         "title": "MN 81. KINH GHATÌKÀRA",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/081-ghatikara-the-potter.md",
-        "right": "/kinhtrungbo/thichminhchau/081-kinh-ghatikara.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-081-ghatikara-the-potter.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-081-kinh-ghatikara.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 80. KINH VEKHANASSA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/080-kinh-vekhanassa"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc080-kinh-vekhanassa"
         },
         "nextlink": {
           "text": "MN 82. KINH RATTHAPÀLA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/082-kinh-ratthapala"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc082-kinh-ratthapala"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "082-kinh-ratthapala",
+      "slug": "mnc-082-kinh-ratthapala",
       "data": {
         "title": "MN 82. KINH RATTHAPÀLA",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/082-on-ratthapala.md",
-        "right": "/kinhtrungbo/thichminhchau/082-kinh-ratthapala.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-082-on-ratthapala.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-082-kinh-ratthapala.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 81. KINH GHATÌKÀRA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/081-kinh-ghatikara"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc081-kinh-ghatikara"
         },
         "nextlink": {
           "text": "MN 83. KINH MAKHÀDEVA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/083-kinh-makhadeva"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc083-kinh-makhadeva"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "083-kinh-makhadeva",
+      "slug": "mnc-083-kinh-makhadeva",
       "data": {
         "title": "MN 83. KINH MAKHÀDEVA",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/083-king-makhadeva.md",
-        "right": "/kinhtrungbo/thichminhchau/083-kinh-makhadeva.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-083-king-makhadeva.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-083-kinh-makhadeva.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 82. KINH RATTHAPÀLA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/082-kinh-ratthapala"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc082-kinh-ratthapala"
         },
         "nextlink": {
           "text": "MN 84. KINH MADHURÀ",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/084-kinh-madhura"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc084-kinh-madhura"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "084-kinh-madhura",
+      "slug": "mnc-084-kinh-madhura",
       "data": {
         "title": "MN 84. KINH MADHURÀ",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/084-at-madhura.md",
-        "right": "/kinhtrungbo/thichminhchau/084-kinh-madhura.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-084-at-madhura.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-084-kinh-madhura.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 83. KINH MAKHÀDEVA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/083-kinh-makhadeva"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc083-kinh-makhadeva"
         },
         "nextlink": {
           "text": "MN 85. KINH VƯƠNG TỬ BỒ ÐỀ",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/085-kinh-vuong-tu-bo-de"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc085-kinh-vuong-tu-bo-de"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "085-kinh-vuong-tu-bo-de",
+      "slug": "mnc-085-kinh-vuong-tu-bo-de",
       "data": {
         "title": "MN 85. KINH VƯƠNG TỬ BỒ ÐỀ",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/085-to-prince-bodhi.md",
-        "right": "/kinhtrungbo/thichminhchau/085-kinh-vuong-tu-bo-de.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-085-to-prince-bodhi.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-085-kinh-vuong-tu-bo-de.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 84. KINH MADHURÀ",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/084-kinh-madhura"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc084-kinh-madhura"
         },
         "nextlink": {
           "text": "MN 86. KINH ANGULIMÀLA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/086-kinh-angulimala"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc086-kinh-angulimala"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "086-kinh-angulimala",
+      "slug": "mnc-086-kinh-angulimala",
       "data": {
         "title": "MN 86. KINH ANGULIMÀLA",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/086-on-angulimala.md",
-        "right": "/kinhtrungbo/thichminhchau/086-kinh-angulimala.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-086-on-angulimala.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-086-kinh-angulimala.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 85. KINH VƯƠNG TỬ BỒ ÐỀ",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/085-kinh-vuong-tu-bo-de"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc085-kinh-vuong-tu-bo-de"
         },
         "nextlink": {
           "text": "MN 87. KINH ÁI SANH",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/087-kinh-ai-sanh"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc087-kinh-ai-sanh"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "087-kinh-ai-sanh",
+      "slug": "mnc-087-kinh-ai-sanh",
       "data": {
         "title": "MN 87. KINH ÁI SANH",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/087-born-from-those-who-are-dear.md",
-        "right": "/kinhtrungbo/thichminhchau/087-kinh-ai-sanh.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-087-born-from-those-who-are-dear.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-087-kinh-ai-sanh.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 86. KINH ANGULIMÀLA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/086-kinh-angulimala"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc086-kinh-angulimala"
         },
         "nextlink": {
           "text": "MN 88. KINH BÀHITIKA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/088-kinh-bahitika"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc088-kinh-bahitika"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "088-kinh-bahitika",
+      "slug": "mnc-088-kinh-bahitika",
       "data": {
         "title": "MN 88. KINH BÀHITIKA",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/088-the-cloak.md",
-        "right": "/kinhtrungbo/thichminhchau/088-kinh-bahitika.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-088-the-cloak.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-088-kinh-bahitika.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 87. KINH ÁI SANH",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/087-kinh-ai-sanh"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc087-kinh-ai-sanh"
         },
         "nextlink": {
           "text": "MN 89. KINH PHÁP TRANG NGHIÊM",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/089-kinh-phap-trang-nghiem"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc089-kinh-phap-trang-nghiem"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "089-kinh-phap-trang-nghiem",
+      "slug": "mnc-089-kinh-phap-trang-nghiem",
       "data": {
         "title": "MN 89. KINH PHÁP TRANG NGHIÊM",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/089-monuments-to-the-dhamma.md",
-        "right": "/kinhtrungbo/thichminhchau/089-kinh-phap-trang-nghiem.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-089-monuments-to-the-dhamma.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-089-kinh-phap-trang-nghiem.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 88. KINH BÀHITIKA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/088-kinh-bahitika"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc088-kinh-bahitika"
         },
         "nextlink": {
           "text": "MN 90. KINH KANNAKATTHALA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/090-kinh-kannakatthala"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc090-kinh-kannakatthala"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "090-kinh-kannakatthala",
+      "slug": "mnc-090-kinh-kannakatthala",
       "data": {
         "title": "MN 90. KINH KANNAKATTHALA",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/090-at-kannakatthala.md",
-        "right": "/kinhtrungbo/thichminhchau/090-kinh-kannakatthala.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-090-at-kannakatthala.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-090-kinh-kannakatthala.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 89. KINH PHÁP TRANG NGHIÊM",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/089-kinh-phap-trang-nghiem"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc089-kinh-phap-trang-nghiem"
         },
         "nextlink": {
           "text": "MN 91. KINH BRAHMÀYU",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/091-kinh-brahmayu"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc091-kinh-brahmayu"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "091-kinh-brahmayu",
+      "slug": "mnc-091-kinh-brahmayu",
       "data": {
         "title": "MN 91. KINH BRAHMÀYU",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/091-brahmayu.md",
-        "right": "/kinhtrungbo/thichminhchau/091-kinh-brahmayu.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-091-brahmayu.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-091-kinh-brahmayu.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 90. KINH KANNAKATTHALA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/090-kinh-kannakatthala"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc090-kinh-kannakatthala"
         },
         "nextlink": {
           "text": "MN 92. KINH SELA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/092-kinh-sela"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc092-kinh-sela"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "092-kinh-sela",
+      "slug": "mnc-092-kinh-sela",
       "data": {
         "title": "MN 92. KINH SELA",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/092-to-sela.md",
-        "right": "/kinhtrungbo/thichminhchau/092-kinh-sela.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-092-to-sela.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-092-kinh-sela.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 91. KINH BRAHMÀYU",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/091-kinh-brahmayu"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc091-kinh-brahmayu"
         },
         "nextlink": {
           "text": "MN 93. KINH ASSALÀYANA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/093-kinh-assalayana"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc093-kinh-assalayana"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "093-kinh-assalayana",
+      "slug": "mnc-093-kinh-assalayana",
       "data": {
         "title": "MN 93. KINH ASSALÀYANA",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/093-to-assalayana.md",
-        "right": "/kinhtrungbo/thichminhchau/093-kinh-assalayana.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-093-to-assalayana.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-093-kinh-assalayana.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 92. KINH SELA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/092-kinh-sela"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc092-kinh-sela"
         },
         "nextlink": {
           "text": "MN 94. KINH GHOTAMUKHA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/094-kinh-ghotamukha"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc094-kinh-ghotamukha"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "094-kinh-ghotamukha",
+      "slug": "mnc-094-kinh-ghotamukha",
       "data": {
         "title": "MN 94. KINH GHOTAMUKHA",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/094-to-ghotamukha.md",
-        "right": "/kinhtrungbo/thichminhchau/094-kinh-ghotamukha.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-094-to-ghotamukha.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-094-kinh-ghotamukha.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 93. KINH ASSALÀYANA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/093-kinh-assalayana"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc093-kinh-assalayana"
         },
         "nextlink": {
           "text": "MN 95. KINH CANKÌ",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/095-kinh-canki"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc095-kinh-canki"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "095-kinh-canki",
+      "slug": "mnc-095-kinh-canki",
       "data": {
         "title": "MN 95. KINH CANKÌ",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/095-with-canki.md",
-        "right": "/kinhtrungbo/thichminhchau/095-kinh-canki.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-095-with-canki.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-095-kinh-canki.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 94. KINH GHOTAMUKHA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/094-kinh-ghotamukha"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc094-kinh-ghotamukha"
         },
         "nextlink": {
           "text": "MN 96. KINH ESUKÀRI",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/096-kinh-esukari"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc096-kinh-esukari"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "096-kinh-esukari",
+      "slug": "mnc-096-kinh-esukari",
       "data": {
         "title": "MN 96. KINH ESUKÀRI",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/096-to-esukari.md",
-        "right": "/kinhtrungbo/thichminhchau/096-kinh-esukari.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-096-to-esukari.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-096-kinh-esukari.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 95. KINH CANKÌ",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/095-kinh-canki"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc095-kinh-canki"
         },
         "nextlink": {
           "text": "MN 97. KINH DHÀNANJÀNI",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/097-kinh-dhananjani"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc097-kinh-dhananjani"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "097-kinh-dhananjani",
+      "slug": "mnc-097-kinh-dhananjani",
       "data": {
         "title": "MN 97. KINH DHÀNANJÀNI",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/097-to-dhananjani.md",
-        "right": "/kinhtrungbo/thichminhchau/097-kinh-dhananjani.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-097-to-dhananjani.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-097-kinh-dhananjani.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 96. KINH ESUKÀRI",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/096-kinh-esukari"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc096-kinh-esukari"
         },
         "nextlink": {
           "text": "MN 98. KINH VÀSETTHA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/098-kinh-vasettha"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc098-kinh-vasettha"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "098-kinh-vasettha",
+      "slug": "mnc-098-kinh-vasettha",
       "data": {
         "title": "MN 98. KINH VÀSETTHA",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/098-to-vasettha.md",
-        "right": "/kinhtrungbo/thichminhchau/098-kinh-vasettha.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-098-to-vasettha.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-098-kinh-vasettha.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 97. KINH DHÀNANJÀNI",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/097-kinh-dhananjani"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc097-kinh-dhananjani"
         },
         "nextlink": {
           "text": "MN 99. KINH SUBHA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/099-kinh-subha"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc099-kinh-subha"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "099-kinh-subha",
+      "slug": "mnc-099-kinh-subha",
       "data": {
         "title": "MN 99. KINH SUBHA",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/099-to-subha.md",
-        "right": "/kinhtrungbo/thichminhchau/099-kinh-subha.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-099-to-subha.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-099-kinh-subha.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 98. KINH VÀSETTHA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/098-kinh-vasettha"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc098-kinh-vasettha"
         },
         "nextlink": {
           "text": "MN 100. KINH SANGÀRAVA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/100-kinh-sangarava"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc100-kinh-sangarava"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "100-kinh-sangarava",
+      "slug": "mnc-100-kinh-sangarava",
       "data": {
         "title": "MN 100. KINH SANGÀRAVA",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/100-to-sangarava.md",
-        "right": "/kinhtrungbo/thichminhchau/100-kinh-sangarava.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-100-to-sangarava.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-100-kinh-sangarava.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 99. KINH SUBHA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/099-kinh-subha"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc099-kinh-subha"
         },
         "nextlink": {
           "text": "MN 101. KINH DEVADAHA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/101-kinh-devadaha"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc101-kinh-devadaha"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "101-kinh-devadaha",
+      "slug": "mnc-101-kinh-devadaha",
       "data": {
         "title": "MN 101. KINH DEVADAHA",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/101-at-devadaha.md",
-        "right": "/kinhtrungbo/thichminhchau/101-kinh-devadaha.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-101-at-devadaha.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-101-kinh-devadaha.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 100. KINH SANGÀRAVA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/100-kinh-sangarava"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc100-kinh-sangarava"
         },
         "nextlink": {
           "text": "MN 102. KINH NĂM & BA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/102-kinh-nam-ba"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc102-kinh-nam-ba"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "102-kinh-nam-ba",
+      "slug": "mnc-102-kinh-nam-ba",
       "data": {
         "title": "MN 102. KINH NĂM & BA",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/102-the-five-and-three.md",
-        "right": "/kinhtrungbo/thichminhchau/102-kinh-nam-ba.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-102-the-five-and-three.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-102-kinh-nam-ba.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 101. KINH DEVADAHA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/101-kinh-devadaha"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc101-kinh-devadaha"
         },
         "nextlink": {
           "text": "MN 103. KINH NGHĨ NHƯ THẾ NÀO?",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/103-kinh-nghi-nhu-the-nao"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc103-kinh-nghi-nhu-the-nao"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "103-kinh-nghi-nhu-the-nao",
+      "slug": "mnc-103-kinh-nghi-nhu-the-nao",
       "data": {
         "title": "MN 103. KINH NGHĨ NHƯ THẾ NÀO?",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/103-what-do-you-think-about-me.md",
-        "right": "/kinhtrungbo/thichminhchau/103-kinh-nghi-nhu-the-nao.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-103-what-do-you-think-about-me.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-103-kinh-nghi-nhu-the-nao.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 102. KINH NĂM & BA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/102-kinh-nam-ba"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc102-kinh-nam-ba"
         },
         "nextlink": {
           "text": "MN 104. KINH LÀNG SAMA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/104-kinh-lang-sama"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc104-kinh-lang-sama"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "104-kinh-lang-sama",
+      "slug": "mnc-104-kinh-lang-sama",
       "data": {
         "title": "MN 104. KINH LÀNG SAMA",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/104-at-samagama.md",
-        "right": "/kinhtrungbo/thichminhchau/104-kinh-lang-sama.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-104-at-samagama.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-104-kinh-lang-sama.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 103. KINH NGHĨ NHƯ THẾ NÀO?",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/103-kinh-nghi-nhu-the-nao"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc103-kinh-nghi-nhu-the-nao"
         },
         "nextlink": {
           "text": "MN 105. KINH THIỆN TINH",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/105-kinh-thien-tinh"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc105-kinh-thien-tinh"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "105-kinh-thien-tinh",
+      "slug": "mnc-105-kinh-thien-tinh",
       "data": {
         "title": "MN 105. KINH THIỆN TINH",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/105-to-sunakkhatta.md",
-        "right": "/kinhtrungbo/thichminhchau/105-kinh-thien-tinh.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-105-to-sunakkhatta.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-105-kinh-thien-tinh.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 104. KINH LÀNG SAMA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/104-kinh-lang-sama"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc104-kinh-lang-sama"
         },
         "nextlink": {
           "text": "MN 106. KINH BẤT ÐỘNG LỢI ÍCH",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/106-kinh-bat-dong-loi-ich"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc106-kinh-bat-dong-loi-ich"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "106-kinh-bat-dong-loi-ich",
+      "slug": "mnc-106-kinh-bat-dong-loi-ich",
       "data": {
         "title": "MN 106. KINH BẤT ÐỘNG LỢI ÍCH",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/106-the-way-to-the-imperturbable.md",
-        "right": "/kinhtrungbo/thichminhchau/106-kinh-bat-dong-loi-ich.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-106-the-way-to-the-imperturbable.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-106-kinh-bat-dong-loi-ich.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 105. KINH THIỆN TINH",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/105-kinh-thien-tinh"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc105-kinh-thien-tinh"
         },
         "nextlink": {
           "text": "MN 107. KINH GANAKA MOGGALLÀNA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/107-kinh-ganaka-moggallana"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc107-kinh-ganaka-moggallana"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "107-kinh-ganaka-moggallana",
+      "slug": "mnc-107-kinh-ganaka-moggallana",
       "data": {
         "title": "MN 107. KINH GANAKA MOGGALLÀNA",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/107-to-ganaka-moggallana.md",
-        "right": "/kinhtrungbo/thichminhchau/107-kinh-ganaka-moggallana.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-107-to-ganaka-moggallana.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-107-kinh-ganaka-moggallana.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 106. KINH BẤT ÐỘNG LỢI ÍCH",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/106-kinh-bat-dong-loi-ich"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc106-kinh-bat-dong-loi-ich"
         },
         "nextlink": {
           "text": "MN 108. KINH GOPAKA MOGGALLÀNA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/108-kinh-gopaka-moggallana"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc108-kinh-gopaka-moggallana"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "108-kinh-gopaka-moggallana",
+      "slug": "mnc-108-kinh-gopaka-moggallana",
       "data": {
         "title": "MN 108. KINH GOPAKA MOGGALLÀNA",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/108-with-gopaka-moggallana.md",
-        "right": "/kinhtrungbo/thichminhchau/108-kinh-gopaka-moggallana.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-108-with-gopaka-moggallana.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-108-kinh-gopaka-moggallana.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 107. KINH GANAKA MOGGALLÀNA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/107-kinh-ganaka-moggallana"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc107-kinh-ganaka-moggallana"
         },
         "nextlink": {
           "text": "MN 109. ÐẠI KINH MÃN NGUYỆT",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/109-dai-kinh-man-nguyet"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc109-dai-kinh-man-nguyet"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "109-dai-kinh-man-nguyet",
+      "slug": "mnc-109-dai-kinh-man-nguyet",
       "data": {
         "title": "MN 109. ÐẠI KINH MÃN NGUYỆT",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/109-the-greater-discourse-on-the-full-moon-night.md",
-        "right": "/kinhtrungbo/thichminhchau/109-dai-kinh-man-nguyet.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-109-the-greater-discourse-on-the-full-moon-night.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-109-dai-kinh-man-nguyet.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 108. KINH GOPAKA MOGGALLÀNA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/108-kinh-gopaka-moggallana"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc108-kinh-gopaka-moggallana"
         },
         "nextlink": {
           "text": "MN 110. TIỂU KINH MÃN NGUYỆT",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/110-tieu-kinh-man-nguyet"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc110-tieu-kinh-man-nguyet"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "110-tieu-kinh-man-nguyet",
+      "slug": "mnc-110-tieu-kinh-man-nguyet",
       "data": {
         "title": "MN 110. TIỂU KINH MÃN NGUYỆT",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/110-the-shorter-discourse-on-the-full-moon-night.md",
-        "right": "/kinhtrungbo/thichminhchau/110-tieu-kinh-man-nguyet.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-110-the-shorter-discourse-on-the-full-moon-night.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-110-tieu-kinh-man-nguyet.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 109. ÐẠI KINH MÃN NGUYỆT",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/109-dai-kinh-man-nguyet"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc109-dai-kinh-man-nguyet"
         },
         "nextlink": {
           "text": "MN 111. KINH BẤT ÐOẠN",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/111-kinh-bat-doan"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc111-kinh-bat-doan"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "111-kinh-bat-doan",
+      "slug": "mnc-111-kinh-bat-doan",
       "data": {
         "title": "MN 111. KINH BẤT ÐOẠN",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/111-one-by-one-as-they-occurred.md",
-        "right": "/kinhtrungbo/thichminhchau/111-kinh-bat-doan.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-111-one-by-one-as-they-occurred.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-111-kinh-bat-doan.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 110. TIỂU KINH MÃN NGUYỆT",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/110-tieu-kinh-man-nguyet"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc110-tieu-kinh-man-nguyet"
         },
         "nextlink": {
           "text": "MN 112. KINH SÁU THANH TỊNH",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/112-kinh-sau-thanh-tinh"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc112-kinh-sau-thanh-tinh"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "112-kinh-sau-thanh-tinh",
+      "slug": "mnc-112-kinh-sau-thanh-tinh",
       "data": {
         "title": "MN 112. KINH SÁU THANH TỊNH",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/112-the-sixfold-purity.md",
-        "right": "/kinhtrungbo/thichminhchau/112-kinh-sau-thanh-tinh.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-112-the-sixfold-purity.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-112-kinh-sau-thanh-tinh.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 111. KINH BẤT ÐOẠN",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/111-kinh-bat-doan"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc111-kinh-bat-doan"
         },
         "nextlink": {
           "text": "MN 113. KINH CHÂN NHÂN",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/113-kinh-chan-nhan"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc113-kinh-chan-nhan"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "113-kinh-chan-nhan",
+      "slug": "mnc-113-kinh-chan-nhan",
       "data": {
         "title": "MN 113. KINH CHÂN NHÂN",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/113-the-true-man.md",
-        "right": "/kinhtrungbo/thichminhchau/113-kinh-chan-nhan.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-113-the-true-man.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-113-kinh-chan-nhan.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 112. KINH SÁU THANH TỊNH",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/112-kinh-sau-thanh-tinh"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc112-kinh-sau-thanh-tinh"
         },
         "nextlink": {
           "text": "MN 114. KINH NÊN HÀNH TRÌ, KHÔNG NÊN HÀNH TRÌ",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/114-kinh-nen-hanh-tri-khong-nen-hanh-tri"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc114-kinh-nen-hanh-tri-khong-nen-hanh-tri"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "114-kinh-nen-hanh-tri-khong-nen-hanh-tri",
+      "slug": "mnc-114-kinh-nen-hanh-tri-khong-nen-hanh-tri",
       "data": {
         "title": "MN 114. KINH NÊN HÀNH TRÌ, KHÔNG NÊN HÀNH TRÌ",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/114-to-be-cultivated-and-not-to-be-cultivated.md",
-        "right": "/kinhtrungbo/thichminhchau/114-kinh-nen-hanh-tri-khong-nen-hanh-tri.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-114-to-be-cultivated-and-not-to-be-cultivated.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-114-kinh-nen-hanh-tri-khong-nen-hanh-tri.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 113. KINH CHÂN NHÂN",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/113-kinh-chan-nhan"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc113-kinh-chan-nhan"
         },
         "nextlink": {
           "text": "MN 115. KINH ÐA GIỚI",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/115-kinh-da-gioi"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc115-kinh-da-gioi"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "115-kinh-da-gioi",
+      "slug": "mnc-115-kinh-da-gioi",
       "data": {
         "title": "MN 115. KINH ÐA GIỚI",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/115-the-many-kinds-of-elements.md",
-        "right": "/kinhtrungbo/thichminhchau/115-kinh-da-gioi.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-115-the-many-kinds-of-elements.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-115-kinh-da-gioi.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 114. KINH NÊN HÀNH TRÌ, KHÔNG NÊN HÀNH TRÌ",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/114-kinh-nen-hanh-tri-khong-nen-hanh-tri"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc114-kinh-nen-hanh-tri-khong-nen-hanh-tri"
         },
         "nextlink": {
           "text": "MN 116. KINH THÔN TIÊN",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/116-kinh-thon-tien"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc116-kinh-thon-tien"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "116-kinh-thon-tien",
+      "slug": "mnc-116-kinh-thon-tien",
       "data": {
         "title": "MN 116. KINH THÔN TIÊN",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/116-isigili-the-gullet-of-the-seers.md",
-        "right": "/kinhtrungbo/thichminhchau/116-kinh-thon-tien.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-116-isigili-the-gullet-of-the-seers.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-116-kinh-thon-tien.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 115. KINH ÐA GIỚI",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/115-kinh-da-gioi"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc115-kinh-da-gioi"
         },
         "nextlink": {
           "text": "MN 117. ÐẠI KINH BỐN MƯƠI",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/117-dai-kinh-bon-muoi"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc117-dai-kinh-bon-muoi"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "117-dai-kinh-bon-muoi",
+      "slug": "mnc-117-dai-kinh-bon-muoi",
       "data": {
         "title": "MN 117. ÐẠI KINH BỐN MƯƠI",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/117-the-great-forty.md",
-        "right": "/kinhtrungbo/thichminhchau/117-dai-kinh-bon-muoi.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-117-the-great-forty.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-117-dai-kinh-bon-muoi.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 116. KINH THÔN TIÊN",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/116-kinh-thon-tien"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc116-kinh-thon-tien"
         },
         "nextlink": {
           "text": "MN 118. KINH NHẬP TỨC, XUẤT TỨC NIỆM",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/118-kinh-nhap-tuc-xuat-tuc-niem"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc118-kinh-nhap-tuc-xuat-tuc-niem"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "118-kinh-nhap-tuc-xuat-tuc-niem",
+      "slug": "mnc-118-kinh-nhap-tuc-xuat-tuc-niem",
       "data": {
         "title": "MN 118. KINH NHẬP TỨC, XUẤT TỨC NIỆM",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/118-mindfulness-of-breathing.md",
-        "right": "/kinhtrungbo/thichminhchau/118-kinh-nhap-tuc-xuat-tuc-niem.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-118-mindfulness-of-breathing.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-118-kinh-nhap-tuc-xuat-tuc-niem.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 117. ÐẠI KINH BỐN MƯƠI",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/117-dai-kinh-bon-muoi"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc117-dai-kinh-bon-muoi"
         },
         "nextlink": {
           "text": "MN 119. KINH THÂN HÀNH NIỆM",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/119-kinh-than-hanh-niem"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc119-kinh-than-hanh-niem"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "119-kinh-than-hanh-niem",
+      "slug": "mnc-119-kinh-than-hanh-niem",
       "data": {
         "title": "MN 119. KINH THÂN HÀNH NIỆM",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/119-mindfulness-of-the-body.md",
-        "right": "/kinhtrungbo/thichminhchau/119-kinh-than-hanh-niem.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-119-mindfulness-of-the-body.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-119-kinh-than-hanh-niem.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 118. KINH NHẬP TỨC, XUẤT TỨC NIỆM",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/118-kinh-nhap-tuc-xuat-tuc-niem"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc118-kinh-nhap-tuc-xuat-tuc-niem"
         },
         "nextlink": {
           "text": "MN 120. KINH HÀNH SANH",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/120-kinh-hanh-sanh"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc120-kinh-hanh-sanh"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "120-kinh-hanh-sanh",
+      "slug": "mnc-120-kinh-hanh-sanh",
       "data": {
         "title": "MN 120. KINH HÀNH SANH",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/120-reappearance-by-aspiration.md",
-        "right": "/kinhtrungbo/thichminhchau/120-kinh-hanh-sanh.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-120-reappearance-by-aspiration.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-120-kinh-hanh-sanh.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 119. KINH THÂN HÀNH NIỆM",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/119-kinh-than-hanh-niem"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc119-kinh-than-hanh-niem"
         },
         "nextlink": {
           "text": "MN 121. KINH TIỂU KHÔNG",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/121-kinh-tieu-khong"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc121-kinh-tieu-khong"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "121-kinh-tieu-khong",
+      "slug": "mnc-121-kinh-tieu-khong",
       "data": {
         "title": "MN 121. KINH TIỂU KHÔNG",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/121-the-shorter-discourse-on-voidness.md",
-        "right": "/kinhtrungbo/thichminhchau/121-kinh-tieu-khong.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-121-the-shorter-discourse-on-voidness.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-121-kinh-tieu-khong.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 120. KINH HÀNH SANH",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/120-kinh-hanh-sanh"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc120-kinh-hanh-sanh"
         },
         "nextlink": {
           "text": "MN 122. KINH ÐẠI THÔNG",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/122-kinh-dai-thong"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc122-kinh-dai-thong"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "122-kinh-dai-thong",
+      "slug": "mnc-122-kinh-dai-thong",
       "data": {
         "title": "MN 122. KINH ÐẠI THÔNG",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/122-the-greater-discourse-on-voidness.md",
-        "right": "/kinhtrungbo/thichminhchau/122-kinh-dai-thong.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-122-the-greater-discourse-on-voidness.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-122-kinh-dai-thong.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 121. KINH TIỂU KHÔNG",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/121-kinh-tieu-khong"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc121-kinh-tieu-khong"
         },
         "nextlink": {
           "text": "MN 123. KINH HY HỮU VỊ TẰNG HỮU PHÁP",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/123-kinh-hy-huu-vi-tang-huu-phap"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc123-kinh-hy-huu-vi-tang-huu-phap"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "123-kinh-hy-huu-vi-tang-huu-phap",
+      "slug": "mnc-123-kinh-hy-huu-vi-tang-huu-phap",
       "data": {
         "title": "MN 123. KINH HY HỮU VỊ TẰNG HỮU PHÁP",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/123-wonderful-and-marvellous.md",
-        "right": "/kinhtrungbo/thichminhchau/123-kinh-hy-huu-vi-tang-huu-phap.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-123-wonderful-and-marvellous.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-123-kinh-hy-huu-vi-tang-huu-phap.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 122. KINH ÐẠI THÔNG",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/122-kinh-dai-thong"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc122-kinh-dai-thong"
         },
         "nextlink": {
           "text": "MN 124. KINH BẠC-CÂU-LA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/124-kinh-bac-cau-la"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc124-kinh-bac-cau-la"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "124-kinh-bac-cau-la",
+      "slug": "mnc-124-kinh-bac-cau-la",
       "data": {
         "title": "MN 124. KINH BẠC-CÂU-LA",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/124-bakkula.md",
-        "right": "/kinhtrungbo/thichminhchau/124-kinh-bac-cau-la.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-124-bakkula.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-124-kinh-bac-cau-la.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 123. KINH HY HỮU VỊ TẰNG HỮU PHÁP",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/123-kinh-hy-huu-vi-tang-huu-phap"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc123-kinh-hy-huu-vi-tang-huu-phap"
         },
         "nextlink": {
           "text": "MN 125. KINH ÐIỂU NGỰ ÐỊA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/125-kinh-dieu-ngu-dia"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc125-kinh-dieu-ngu-dia"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "125-kinh-dieu-ngu-dia",
+      "slug": "mnc-125-kinh-dieu-ngu-dia",
       "data": {
         "title": "MN 125. KINH ÐIỂU NGỰ ÐỊA",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/125-the-grade-of-the-tamed.md",
-        "right": "/kinhtrungbo/thichminhchau/125-kinh-dieu-ngu-dia.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-125-the-grade-of-the-tamed.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-125-kinh-dieu-ngu-dia.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 124. KINH BẠC-CÂU-LA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/124-kinh-bac-cau-la"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc124-kinh-bac-cau-la"
         },
         "nextlink": {
           "text": "MN 126. KINH PHÙ-DI",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/126-kinh-phu-di"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc126-kinh-phu-di"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "126-kinh-phu-di",
+      "slug": "mnc-126-kinh-phu-di",
       "data": {
         "title": "MN 126. KINH PHÙ-DI",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/126-bhumija.md",
-        "right": "/kinhtrungbo/thichminhchau/126-kinh-phu-di.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-126-bhumija.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-126-kinh-phu-di.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 125. KINH ÐIỂU NGỰ ÐỊA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/125-kinh-dieu-ngu-dia"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc125-kinh-dieu-ngu-dia"
         },
         "nextlink": {
           "text": "MN 127. KINH A-NA-LUẬT",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/127-kinh-a-na-luat"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc127-kinh-a-na-luat"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "127-kinh-a-na-luat",
+      "slug": "mnc-127-kinh-a-na-luat",
       "data": {
         "title": "MN 127. KINH A-NA-LUẬT",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/127-anuruddha.md",
-        "right": "/kinhtrungbo/thichminhchau/127-kinh-a-na-luat.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-127-anuruddha.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-127-kinh-a-na-luat.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 126. KINH PHÙ-DI",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/126-kinh-phu-di"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc126-kinh-phu-di"
         },
         "nextlink": {
           "text": "MN 128. KINH TÙY PHIỀN NÃO",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/128-kinh-tuy-phien-nao"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc128-kinh-tuy-phien-nao"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "128-kinh-tuy-phien-nao",
+      "slug": "mnc-128-kinh-tuy-phien-nao",
       "data": {
         "title": "MN 128. KINH TÙY PHIỀN NÃO",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/128-imperfections.md",
-        "right": "/kinhtrungbo/thichminhchau/128-kinh-tuy-phien-nao.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-128-imperfections.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-128-kinh-tuy-phien-nao.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 127. KINH A-NA-LUẬT",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/127-kinh-a-na-luat"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc127-kinh-a-na-luat"
         },
         "nextlink": {
           "text": "MN 129. KINH HIỀN NGU",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/129-kinh-hien-ngu"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc129-kinh-hien-ngu"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "129-kinh-hien-ngu",
+      "slug": "mnc-129-kinh-hien-ngu",
       "data": {
         "title": "MN 129. KINH HIỀN NGU",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/129-fools-and-wise-men.md",
-        "right": "/kinhtrungbo/thichminhchau/129-kinh-hien-ngu.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-129-fools-and-wise-men.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-129-kinh-hien-ngu.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 128. KINH TÙY PHIỀN NÃO",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/128-kinh-tuy-phien-nao"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc128-kinh-tuy-phien-nao"
         },
         "nextlink": {
           "text": "MN 130. KINH THIÊN XỨ",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/130-kinh-thien-xu"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc130-kinh-thien-xu"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "130-kinh-thien-xu",
+      "slug": "mnc-130-kinh-thien-xu",
       "data": {
         "title": "MN 130. KINH THIÊN XỨ",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/130-the-divine-messengers.md",
-        "right": "/kinhtrungbo/thichminhchau/130-kinh-thien-xu.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-130-the-divine-messengers.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-130-kinh-thien-xu.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 129. KINH HIỀN NGU",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/129-kinh-hien-ngu"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc129-kinh-hien-ngu"
         },
         "nextlink": {
           "text": "MN 131. KINH NHẤT DẠ HIỀN GIẢ",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/131-kinh-nhat-da-hien-gia"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc131-kinh-nhat-da-hien-gia"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "131-kinh-nhat-da-hien-gia",
+      "slug": "mnc-131-kinh-nhat-da-hien-gia",
       "data": {
         "title": "MN 131. KINH NHẤT DẠ HIỀN GIẢ",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/131-one-fortunate-attachment.md",
-        "right": "/kinhtrungbo/thichminhchau/131-kinh-nhat-da-hien-gia.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-131-one-fortunate-attachment.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-131-kinh-nhat-da-hien-gia.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 130. KINH THIÊN XỨ",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/130-kinh-thien-xu"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc130-kinh-thien-xu"
         },
         "nextlink": {
           "text": "MN 132. KINH A-NAN NHẤT DẠ HIỀN GIẢ",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/132-kinh-a-nan-nhat-da-hien-gia"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc132-kinh-a-nan-nhat-da-hien-gia"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "132-kinh-a-nan-nhat-da-hien-gia",
+      "slug": "mnc-132-kinh-a-nan-nhat-da-hien-gia",
       "data": {
         "title": "MN 132. KINH A-NAN NHẤT DẠ HIỀN GIẢ",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/132-ananda-and-one-fortunate-attachment.md",
-        "right": "/kinhtrungbo/thichminhchau/132-kinh-a-nan-nhat-da-hien-gia.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-132-ananda-and-one-fortunate-attachment.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-132-kinh-a-nan-nhat-da-hien-gia.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 131. KINH NHẤT DẠ HIỀN GIẢ",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/131-kinh-nhat-da-hien-gia"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc131-kinh-nhat-da-hien-gia"
         },
         "nextlink": {
           "text": "MN 133. KINH ÐẠI CA-CHIÊN-DIÊN NHẤT DẠ HIỀN GIẢ",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/133-kinh-dai-ca-chien-dien-nhat-da-hien-gia"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc133-kinh-dai-ca-chien-dien-nhat-da-hien-gia"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "133-kinh-dai-ca-chien-dien-nhat-da-hien-gia",
+      "slug": "mnc-133-kinh-dai-ca-chien-dien-nhat-da-hien-gia",
       "data": {
         "title": "MN 133. KINH ÐẠI CA-CHIÊN-DIÊN NHẤT DẠ HIỀN GIẢ",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/133-maha-kaccana-and-one-fortunate-attachment.md",
-        "right": "/kinhtrungbo/thichminhchau/133-kinh-dai-ca-chien-dien-nhat-da-hien-gia.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-133-maha-kaccana-and-one-fortunate-attachment.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-133-kinh-dai-ca-chien-dien-nhat-da-hien-gia.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 132. KINH A-NAN NHẤT DẠ HIỀN GIẢ",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/132-kinh-a-nan-nhat-da-hien-gia"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc132-kinh-a-nan-nhat-da-hien-gia"
         },
         "nextlink": {
           "text": "MN 134. KINH LOMASAKANGIYA NHẤT DẠ HIỀN GIẢ",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/134-kinh-lomasakangiya-nhat-da-hien-gia"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc134-kinh-lomasakangiya-nhat-da-hien-gia"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "134-kinh-lomasakangiya-nhat-da-hien-gia",
+      "slug": "mnc-134-kinh-lomasakangiya-nhat-da-hien-gia",
       "data": {
         "title": "MN 134. KINH LOMASAKANGIYA NHẤT DẠ HIỀN GIẢ",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/134-lomasakangiya-and-one-fortunate-attachment.md",
-        "right": "/kinhtrungbo/thichminhchau/134-kinh-lomasakangiya-nhat-da-hien-gia.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-134-lomasakangiya-and-one-fortunate-attachment.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-134-kinh-lomasakangiya-nhat-da-hien-gia.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 133. KINH ÐẠI CA-CHIÊN-DIÊN NHẤT DẠ HIỀN GIẢ",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/133-kinh-dai-ca-chien-dien-nhat-da-hien-gia"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc133-kinh-dai-ca-chien-dien-nhat-da-hien-gia"
         },
         "nextlink": {
           "text": "MN 135. TIỂU KINH NGHIỆP PHÂN BIỆT",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/135-tieu-kinh-nghiep-phan-biet"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc135-tieu-kinh-nghiep-phan-biet"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "135-tieu-kinh-nghiep-phan-biet",
+      "slug": "mnc-135-tieu-kinh-nghiep-phan-biet",
       "data": {
         "title": "MN 135. TIỂU KINH NGHIỆP PHÂN BIỆT",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/135-the-shorter-exposition-of-action.md",
-        "right": "/kinhtrungbo/thichminhchau/135-tieu-kinh-nghiep-phan-biet.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-135-the-shorter-exposition-of-action.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-135-tieu-kinh-nghiep-phan-biet.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 134. KINH LOMASAKANGIYA NHẤT DẠ HIỀN GIẢ",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/134-kinh-lomasakangiya-nhat-da-hien-gia"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc134-kinh-lomasakangiya-nhat-da-hien-gia"
         },
         "nextlink": {
           "text": "MN 136. ÐẠI KINH NGHIỆP PHÂN BIỆT",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/136-dai-kinh-nghiep-phan-biet"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc136-dai-kinh-nghiep-phan-biet"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "136-dai-kinh-nghiep-phan-biet",
+      "slug": "mnc-136-dai-kinh-nghiep-phan-biet",
       "data": {
         "title": "MN 136. ÐẠI KINH NGHIỆP PHÂN BIỆT",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/136-the-greater-exposition-of-action.md",
-        "right": "/kinhtrungbo/thichminhchau/136-dai-kinh-nghiep-phan-biet.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-136-the-greater-exposition-of-action.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-136-dai-kinh-nghiep-phan-biet.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 135. TIỂU KINH NGHIỆP PHÂN BIỆT",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/135-tieu-kinh-nghiep-phan-biet"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc135-tieu-kinh-nghiep-phan-biet"
         },
         "nextlink": {
           "text": "MN 137. KINH PHÂN BIỆT SÁU XỨ",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/137-kinh-phan-biet-sau-xu"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc137-kinh-phan-biet-sau-xu"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "137-kinh-phan-biet-sau-xu",
+      "slug": "mnc-137-kinh-phan-biet-sau-xu",
       "data": {
         "title": "MN 137. KINH PHÂN BIỆT SÁU XỨ",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/137-the-exposition-of-the-sixfold-base.md",
-        "right": "/kinhtrungbo/thichminhchau/137-kinh-phan-biet-sau-xu.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-137-the-exposition-of-the-sixfold-base.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-137-kinh-phan-biet-sau-xu.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 136. ÐẠI KINH NGHIỆP PHÂN BIỆT",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/136-dai-kinh-nghiep-phan-biet"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc136-dai-kinh-nghiep-phan-biet"
         },
         "nextlink": {
           "text": "MN 138. KINH TỔNG THUYẾT & BIỆT THUYẾT",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/138-kinh-tong-thuyet-biet-thuyet"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc138-kinh-tong-thuyet-biet-thuyet"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "138-kinh-tong-thuyet-biet-thuyet",
+      "slug": "mnc-138-kinh-tong-thuyet-biet-thuyet",
       "data": {
         "title": "MN 138. KINH TỔNG THUYẾT & BIỆT THUYẾT",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/138-the-exposition-of-a-summary.md",
-        "right": "/kinhtrungbo/thichminhchau/138-kinh-tong-thuyet-biet-thuyet.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-138-the-exposition-of-a-summary.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-138-kinh-tong-thuyet-biet-thuyet.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 137. KINH PHÂN BIỆT SÁU XỨ",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/137-kinh-phan-biet-sau-xu"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc137-kinh-phan-biet-sau-xu"
         },
         "nextlink": {
           "text": "MN 139. KINH VÔ TRÁNH PHÂN BIỆT",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/139-kinh-vo-tranh-phan-biet"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc139-kinh-vo-tranh-phan-biet"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "139-kinh-vo-tranh-phan-biet",
+      "slug": "mnc-139-kinh-vo-tranh-phan-biet",
       "data": {
         "title": "MN 139. KINH VÔ TRÁNH PHÂN BIỆT",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/139-the-exposition-of-non-conflict.md",
-        "right": "/kinhtrungbo/thichminhchau/139-kinh-vo-tranh-phan-biet.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-139-the-exposition-of-non-conflict.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-139-kinh-vo-tranh-phan-biet.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 138. KINH TỔNG THUYẾT & BIỆT THUYẾT",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/138-kinh-tong-thuyet-biet-thuyet"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc138-kinh-tong-thuyet-biet-thuyet"
         },
         "nextlink": {
           "text": "MN 140. KINH GIỚI PHÂN BIỆT",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/140-kinh-gioi-phan-biet"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc140-kinh-gioi-phan-biet"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "140-kinh-gioi-phan-biet",
+      "slug": "mnc-140-kinh-gioi-phan-biet",
       "data": {
         "title": "MN 140. KINH GIỚI PHÂN BIỆT",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/140-the-exposition-of-the-elements.md",
-        "right": "/kinhtrungbo/thichminhchau/140-kinh-gioi-phan-biet.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-140-the-exposition-of-the-elements.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-140-kinh-gioi-phan-biet.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 139. KINH VÔ TRÁNH PHÂN BIỆT",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/139-kinh-vo-tranh-phan-biet"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc139-kinh-vo-tranh-phan-biet"
         },
         "nextlink": {
           "text": "MN 141. KINH PHÂN BIỆT VỀ SỰ THẬT",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/141-kinh-phan-biet-ve-su-that"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc141-kinh-phan-biet-ve-su-that"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "141-kinh-phan-biet-ve-su-that",
+      "slug": "mnc-141-kinh-phan-biet-ve-su-that",
       "data": {
         "title": "MN 141. KINH PHÂN BIỆT VỀ SỰ THẬT",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/141-the-exposition-of-the-truths.md",
-        "right": "/kinhtrungbo/thichminhchau/141-kinh-phan-biet-ve-su-that.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-141-the-exposition-of-the-truths.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-141-kinh-phan-biet-ve-su-that.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 140. KINH GIỚI PHÂN BIỆT",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/140-kinh-gioi-phan-biet"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc140-kinh-gioi-phan-biet"
         },
         "nextlink": {
           "text": "MN 142. KINH PHÂN BIỆT CÚNG DƯỜNG",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/142-kinh-phan-biet-cung-duong"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc142-kinh-phan-biet-cung-duong"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "142-kinh-phan-biet-cung-duong",
+      "slug": "mnc-142-kinh-phan-biet-cung-duong",
       "data": {
         "title": "MN 142. KINH PHÂN BIỆT CÚNG DƯỜNG",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/142-the-exposition-of-offerings.md",
-        "right": "/kinhtrungbo/thichminhchau/142-kinh-phan-biet-cung-duong.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-142-the-exposition-of-offerings.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-142-kinh-phan-biet-cung-duong.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 141. KINH PHÂN BIỆT VỀ SỰ THẬT",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/141-kinh-phan-biet-ve-su-that"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc141-kinh-phan-biet-ve-su-that"
         },
         "nextlink": {
           "text": "MN 143. KINH GIÁO GIỚI CẤP CÔ ÐỘC",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/143-kinh-giao-gioi-cap-co-doc"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc143-kinh-giao-gioi-cap-co-doc"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "143-kinh-giao-gioi-cap-co-doc",
+      "slug": "mnc-143-kinh-giao-gioi-cap-co-doc",
       "data": {
         "title": "MN 143. KINH GIÁO GIỚI CẤP CÔ ÐỘC",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/143-advice-to-anathapinika.md",
-        "right": "/kinhtrungbo/thichminhchau/143-kinh-giao-gioi-cap-co-doc.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-143-advice-to-anathapinika.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-143-kinh-giao-gioi-cap-co-doc.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 142. KINH PHÂN BIỆT CÚNG DƯỜNG",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/142-kinh-phan-biet-cung-duong"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc142-kinh-phan-biet-cung-duong"
         },
         "nextlink": {
           "text": "MN 144. KINH GIÁO GIỚI CHANNA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/144-kinh-giao-gioi-channa"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc144-kinh-giao-gioi-channa"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "144-kinh-giao-gioi-channa",
+      "slug": "mnc-144-kinh-giao-gioi-channa",
       "data": {
         "title": "MN 144. KINH GIÁO GIỚI CHANNA",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/144-advice-to-channa.md",
-        "right": "/kinhtrungbo/thichminhchau/144-kinh-giao-gioi-channa.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-144-advice-to-channa.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-144-kinh-giao-gioi-channa.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 143. KINH GIÁO GIỚI CẤP CÔ ÐỘC",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/143-kinh-giao-gioi-cap-co-doc"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc143-kinh-giao-gioi-cap-co-doc"
         },
         "nextlink": {
           "text": "MN 145. KINH GIÁO GIỚI PHÚ-LÂU-NA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/145-kinh-giao-gioi-phu-lau-na"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc145-kinh-giao-gioi-phu-lau-na"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "145-kinh-giao-gioi-phu-lau-na",
+      "slug": "mnc-145-kinh-giao-gioi-phu-lau-na",
       "data": {
         "title": "MN 145. KINH GIÁO GIỚI PHÚ-LÂU-NA",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/145-advice-to-punna.md",
-        "right": "/kinhtrungbo/thichminhchau/145-kinh-giao-gioi-phu-lau-na.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-145-advice-to-punna.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-145-kinh-giao-gioi-phu-lau-na.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 144. KINH GIÁO GIỚI CHANNA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/144-kinh-giao-gioi-channa"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc144-kinh-giao-gioi-channa"
         },
         "nextlink": {
           "text": "MN 146. KINH GIÁO GIỚI NANDAKA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/146-kinh-giao-gioi-nandaka"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc146-kinh-giao-gioi-nandaka"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "146-kinh-giao-gioi-nandaka",
+      "slug": "mnc-146-kinh-giao-gioi-nandaka",
       "data": {
         "title": "MN 146. KINH GIÁO GIỚI NANDAKA",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/146-advice-from-nandaka.md",
-        "right": "/kinhtrungbo/thichminhchau/146-kinh-giao-gioi-nandaka.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-146-advice-from-nandaka.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-146-kinh-giao-gioi-nandaka.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 145. KINH GIÁO GIỚI PHÚ-LÂU-NA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/145-kinh-giao-gioi-phu-lau-na"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc145-kinh-giao-gioi-phu-lau-na"
         },
         "nextlink": {
           "text": "MN 147. TIỂU KINH GIÁO GIỚI LA-HẦU-LA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/147-tieu-kinh-giao-gioi-la-hau-la"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc147-tieu-kinh-giao-gioi-la-hau-la"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "147-tieu-kinh-giao-gioi-la-hau-la",
+      "slug": "mnc-147-tieu-kinh-giao-gioi-la-hau-la",
       "data": {
         "title": "MN 147. TIỂU KINH GIÁO GIỚI LA-HẦU-LA",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/147-the-shorter-discourse-of-advice-to-rahula.md",
-        "right": "/kinhtrungbo/thichminhchau/147-tieu-kinh-giao-gioi-la-hau-la.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-147-the-shorter-discourse-of-advice-to-rahula.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-147-tieu-kinh-giao-gioi-la-hau-la.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 146. KINH GIÁO GIỚI NANDAKA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/146-kinh-giao-gioi-nandaka"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc146-kinh-giao-gioi-nandaka"
         },
         "nextlink": {
           "text": "MN 148. KINH SÁU SÁU",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/148-kinh-sau-sau"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc148-kinh-sau-sau"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "148-kinh-sau-sau",
+      "slug": "mnc-148-kinh-sau-sau",
       "data": {
         "title": "MN 148. KINH SÁU SÁU",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/148-the-six-sets-of-six.md",
-        "right": "/kinhtrungbo/thichminhchau/148-kinh-sau-sau.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-148-the-six-sets-of-six.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-148-kinh-sau-sau.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 147. TIỂU KINH GIÁO GIỚI LA-HẦU-LA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/147-tieu-kinh-giao-gioi-la-hau-la"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc147-tieu-kinh-giao-gioi-la-hau-la"
         },
         "nextlink": {
           "text": "MN 149. ÐẠI KINH SÁU XỨ",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/149-dai-kinh-sau-xu"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc149-dai-kinh-sau-xu"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "149-dai-kinh-sau-xu",
+      "slug": "mnc-149-dai-kinh-sau-xu",
       "data": {
         "title": "MN 149. ÐẠI KINH SÁU XỨ",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/149-the-great-sixfold-base.md",
-        "right": "/kinhtrungbo/thichminhchau/149-dai-kinh-sau-xu.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-149-the-great-sixfold-base.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-149-dai-kinh-sau-xu.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 148. KINH SÁU SÁU",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/148-kinh-sau-sau"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc148-kinh-sau-sau"
         },
         "nextlink": {
           "text": "MN 150. KINH NÓI CHO DÂN NAGARAVINDA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/150-kinh-noi-cho-dan-nagaravinda"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc150-kinh-noi-cho-dan-nagaravinda"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "150-kinh-noi-cho-dan-nagaravinda",
+      "slug": "mnc-150-kinh-noi-cho-dan-nagaravinda",
       "data": {
         "title": "MN 150. KINH NÓI CHO DÂN NAGARAVINDA",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/150-to-the-nagaravindans.md",
-        "right": "/kinhtrungbo/thichminhchau/150-kinh-noi-cho-dan-nagaravinda.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-150-to-the-nagaravindans.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-150-kinh-noi-cho-dan-nagaravinda.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 149. ÐẠI KINH SÁU XỨ",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/149-dai-kinh-sau-xu"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc149-dai-kinh-sau-xu"
         },
         "nextlink": {
           "text": "MN 151. KINH KHẤT THỰC THANH TỊNH",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/151-kinh-khat-thuc-thanh-tinh"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc151-kinh-khat-thuc-thanh-tinh"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "151-kinh-khat-thuc-thanh-tinh",
+      "slug": "mnc-151-kinh-khat-thuc-thanh-tinh",
       "data": {
         "title": "MN 151. KINH KHẤT THỰC THANH TỊNH",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/151-the-purification-of-almsfood.md",
-        "right": "/kinhtrungbo/thichminhchau/151-kinh-khat-thuc-thanh-tinh.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-151-the-purification-of-almsfood.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-151-kinh-khat-thuc-thanh-tinh.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 150. KINH NÓI CHO DÂN NAGARAVINDA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/150-kinh-noi-cho-dan-nagaravinda"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc150-kinh-noi-cho-dan-nagaravinda"
         },
         "nextlink": {
           "text": "MN 152. KINH CĂN TU TẬP",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/152-kinh-can-tu-tap"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc152-kinh-can-tu-tap"
         }
       }
     }
   },
   {
     "params": {
-      "slug": "152-kinh-can-tu-tap",
+      "slug": "mnc-152-kinh-can-tu-tap",
       "data": {
         "title": "MN 152. KINH CĂN TU TẬP",
-        "left": "/kinhtrungbo/nanamoli-bodhi-vi/152-the-development-of-the-faculties.md",
-        "right": "/kinhtrungbo/thichminhchau/152-kinh-can-tu-tap.md",
+        "left": "/kinhtrungbo/nanamoli-bodhi-vi/mn-152-the-development-of-the-faculties.md",
+        "right": "/kinhtrungbo/thichminhchau/mn-152-kinh-can-tu-tap.md",
         "leftTitle": "Nanamoli-Bodhi",
         "rightTitle": "Thích Minh Châu",
         "notePath": "",
         "backlink": {
           "text": "MN 151. KINH KHẤT THỰC THANH TỊNH",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/151-kinh-khat-thuc-thanh-tinh"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc151-kinh-khat-thuc-thanh-tinh"
         },
         "nextlink": false
       }

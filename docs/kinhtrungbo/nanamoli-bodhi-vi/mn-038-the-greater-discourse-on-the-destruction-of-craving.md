@@ -203,7 +203,7 @@ Khi nghe nói vậy, tỳ kheo Satti, con của người đánh cá, ngồi im l
 <!--pg-->
 #### (SỰ CHẤM DỨT CỦA VÒNG LUÂN HỒI: LỘ TRÌNH TU TẬP)
 
-31-38. "Ở đây, này các tỳ kheo, một vị *Như Lai* (Tathāgata/Đức Phật) xuất hiện ở đời, bậc A-la-hán, Chánh Đẳng Giác... (như [Kinh 27, §§11-18](/kinhtrungbo/c-nm-tmc-vi/027-tieu-kinh-du-dau-chan-voi.html){:target="_blank"} ) [268-69]... vị ấy thanh lọc tâm mình khỏi nghi ngờ. [270]
+31-38. "Ở đây, này các tỳ kheo, một vị *Như Lai* (Tathāgata/Đức Phật) xuất hiện ở đời, bậc A-la-hán, Chánh Đẳng Giác... (như [Kinh 27, §§11-18](/kinhtrungbo/c-nm-tmc-vi/mnc-027-tieu-kinh-du-dau-chan-voi.html){:target="_blank"} ) [268-69]... vị ấy thanh lọc tâm mình khỏi nghi ngờ. [270]
 
 39\. "Sau khi đã đoạn trừ *năm chướng ngại* (five hindrances/ nīvaraṇa/ triền cái) này, những phiền não của tâm làm suy yếu trí tuệ, hoàn toàn ly dục, ly các bất thiện pháp, vị ấy chứng và trú *thiền-na* (jhāna/ tầng thiền) thứ nhất... Với sự tịnh chỉ tầm và tứ, vị ấy chứng và trú thiền-na thứ hai... Với sự ly tham đối với hỷ... vị ấy chứng và trú thiền-na thứ ba... Với sự xả bỏ lạc và khổ... vị ấy chứng và trú thiền-na thứ tư... trạng thái không khổ không lạc, xả niệm thanh tịnh.
 
