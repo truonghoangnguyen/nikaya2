@@ -19,7 +19,6 @@ onMounted(() => {
 
 </script>
 
-
 <!-- Component của bạn giữ nguyên, nó vẫn sẽ hoạt động -->
 <TextCompare
   :leftPath="data.left"

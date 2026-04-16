@@ -32,10 +32,15 @@ const props = withDefaults(defineProps<Props>(), {
 })
 
 // --- State ---
-const isLoading = ref(true)
+// ng-1 const isLoading = ref(true)
+const isLoading = ref(!props.leftContentHtml && !props.rightContentHtml)
+
 const error = ref<string | null>(null)
-const finalLeftHtml = ref('')
-const finalRightHtml = ref('')
+// const finalLeftHtml = ref('')
+// const finalRightHtml = ref('')
+const finalLeftHtml = ref(props.leftContentHtml || '')
+const finalRightHtml = ref(props.rightContentHtml || '')
+
 
 // Hàm này dùng để chia chuỗi HTML thành các đoạn theo comment <!--pg-->
 const parseHtmlByParagraphs = (html: string): string[] => {
@@ -54,6 +59,11 @@ const leftOriginalPath = computed(() => props.leftPath.replace(/\.md$/, ''))
 const rightOriginalPath = computed(() => props.rightPath.replace(/\.md$/, ''))
 
 onMounted(async () => {
+  // Nếu đã có HTML từ props (production), không cần làm gì thêm
+  if (props.leftContentHtml && props.rightContentHtml) {
+    return
+  }
+
   // Kịch bản 1: Đang ở production, đã có HTML được pre-render
   if (props.leftContentHtml && props.rightContentHtml) {
     finalLeftHtml.value = props.leftContentHtml
