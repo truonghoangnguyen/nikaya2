@@ -1,3 +1,8 @@
+---
+tags:
+ - Kassapa
+---
+
 # 8. KINH CA-DIẾP SƯ TỬ HỐNG
 **_(Kassapa-Sìhanàda Sutta)_**
 

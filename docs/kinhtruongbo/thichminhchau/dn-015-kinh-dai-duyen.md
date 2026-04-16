@@ -2,6 +2,8 @@
 tags:
  - Ananda
  - quan hệ phụ thuộc (duyên)
+ - điều kiện (duyên)
+ - Sự sinh ra qua quan hệ Phụ thuộc (duyên khởi)
 ---
 
 # 15. KINH ÐẠI DUYÊN

@@ -1,7 +1,7 @@
-# DN 1. KINH LƯỚI TRỜI (Tóm Lược)
+# DN 01. KINH LƯỚI TRỜI (Tóm Lược)
 
 **(Brahmajālasutta)**\
-[Bản đầy đủ](/kinhtruongbo/c-pali-tmc-vi/001-kinh-pham-vong)
+[Bản so sánh→](/kinhtruongbo/c-pali-tmc-vi/dnc-001-kinh-pham-vong){target="_blank" class="note-link" }
 
 ## 1. Bối cảnh: Cuộc tranh luận của các đạo sĩ (Paribbājakakathā)
 
@@ -207,3 +207,41 @@ Thế Tôn đáp: "Này Ānanda, ông hãy ghi nhớ phương pháp giảng dạ
 Thế Tôn đã thuyết giảng như vậy. Các tỳ kheo vô cùng hoan hỷ và *vui mừng đón nhận* (abhinandunti) lời dạy của Ngài. Và khi bản kinh này được tuyên thuyết, mười ngàn hệ thống thế giới đã rung chuyển.
 
 *(Kết thúc Kinh Phạm Võng)*
+
+
+<!--pg-->
+*Bảng thuật ngữ:*
+
+| Thuật ngữ Pali | Từ cũ (Hán-Việt) | Từ mới (Hiện đại) | Ghi chú |
+| :--- | :--- | :--- | :--- |
+| Tathāgata | Như Lai | Người Đến Như Vậy | |
+| Dhamma | Pháp | Điều | Mọi điều, nguyên lý, lời dạy |
+| Pajānāti | Tuệ tri | Thấy rõ | Phân biệt được rõ ràng |
+| Vedanā | Thọ | Cảm Giác | |
+| Samudaya | Sinh | Sự hình thành | |
+| Atthaṅgama | Diệt | Tan biến | Sự phai tàn tự nhiên |
+| Taṇhā | Tham ái | Sự khát khao | |
+| Upādāna | Thủ | Nắm chặt | Bám giữ |
+| Bhava | Hữu | Cõi tồn tại | |
+| Jāti | Sinh | Sinh | |
+| Jarāmaraṇa | Lão tử | Già chết | |
+| Dukkha | Khổ | Đau khổ | |
+| Domanassa | Ưu | Ưu phiền | Cảm giác tiêu cực phát ra từ tâm lý |
+| Phassa | Xúc | Tiếp xúc | |
+| Abhinandunti | Hoan hỷ | Vui mừng đón nhận | |
+| [!] sassatavādā | Thường kiến | những người chủ trương thường hằng | Cho rằng bản ngã và thế giới là vĩnh cửu |
+| [!] ekaccasassatikā | Một phần thường kiến | những người chủ trương một phần thường hằng | Cho rằng một phần vĩnh cửu, một phần không |
+| [!] antānantikā | Hữu biên vô biên kiến | những người chủ trương có giới hạn và không giới hạn | Suy đoán về ranh giới của thế giới |
+| [!] amarāvikkhepikā | Ngụy biện trườn uốn | những người ngụy biện trườn uốn | Lảng tránh câu trả lời dứt khoát |
+| [!] adhiccasamuppannikā | Vô nhân sinh kiến | những người chủ trương sinh ra không do nguyên nhân | Cho rằng mọi thứ ngẫu nhiên sinh ra |
+| [!] pubbantakappikā | Quá khứ kiến | những người suy đoán về quá khứ | |
+| [!] aparantakappikā | Tương lai kiến | những người suy đoán về tương lai | |
+| [!] uddhamāghātanikā saññīvādā | Hữu tưởng luận | những người chủ trương có nhận thức sau khi chết | |
+| [!] uddhamāghātanikā asaññīvādā | Vô tưởng luận | những người chủ trương không có nhận thức sau khi chết | |
+| [!] uddhamāghātanikā nevasaññīnāsaññīvādā | Phi tưởng phi phi tưởng luận | những người chủ trương không phải có nhận thức cũng không phải không có nhận thức sau khi chết | |
+| [!] ucchedavādā | Đoạn kiến | những người chủ trương đoạn diệt | Cho rằng chết là hết hoàn toàn |
+| [!] diṭṭhadhammanibbānavādā | Hiện tại Niết-bàn luận | những người chủ trương Niết-bàn ngay trong hiện tại | Tìm kiếm sự giải thoát tối hậu qua các trạng thái hiện tại |
+| [!] paritassitavipphandita | Khát ái và dao động | sự lo âu và vùng vẫy | Trạng thái tâm lý bất an, dao động do tham ái |
+| [!] ucchinnabhavanettiko | Hữu ái đã tận | đã cắt đứt sợi dây dẫn đến cõi tồn tại | Không còn nguyên nhân để tái sinh |
+| [!] saṁvaṭṭavivaṭṭa | Hoại và thành | chu kỳ co lại và giãn ra của vũ trụ | Quá trình hình thành và hủy diệt của thế giới |
+

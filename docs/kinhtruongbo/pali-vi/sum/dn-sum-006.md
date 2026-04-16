@@ -1,121 +1,74 @@
-# Mahālisutta
+# DN 6. KINH MAHĀLI (Tóm lược)
 
-## 1. Brāhmaṇadūtavatthu
+[Bản so sánh→](/kinhtruongbo/c-pali-tmc-vi/dnc-006-kinh-mahali){target="_blank" class="note-link" }
 
-Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā vesāliyaṁ viharati mahāvane kūṭāgārasālāyaṁ. Tena kho pana samayena sambahulā kosalakā ca brāhmaṇadūtā māgadhakā ca brāhmaṇadūtā vesāliyaṁ paṭivasanti kenacideva karaṇīyena. Assosuṁ kho te kosalakā ca brāhmaṇadūtā māgadhakā ca brāhmaṇadūtā:
 
-“samaṇo khalu, bho, gotamo sakyaputto sakyakulā pabbajito vesāliyaṁ viharati mahāvane kūṭāgārasālāyaṁ. Taṁ kho pana bhavantaṁ gotamaṁ evaṁ kalyāṇo kittisaddo abbhuggato: ‘itipi so bhagavā arahaṁ sammāsambuddho vijjācaraṇasampanno sugato lokavidū anuttaro purisadammasārathi satthā devamanussānaṁ buddho bhagavā’. So imaṁ lokaṁ sadevakaṁ samārakaṁ sabrahmakaṁ sassamaṇabrāhmaṇiṁ pajaṁ sadevamanussaṁ sayaṁ abhiññā sacchikatvā pavedeti. So dhammaṁ deseti ādikalyāṇaṁ majjhekalyāṇaṁ pariyosānakalyāṇaṁ sātthaṁ sabyañjanaṁ kevalaparipuṇṇaṁ parisuddhaṁ brahmacariyaṁ pakāseti. Sādhu kho pana tathārūpānaṁ arahataṁ dassanaṁ hotī”ti.
+**1. Bối cảnh và câu hỏi của Oṭṭhaddha**
+Một thời, Thế Tôn đang lưu trú tại Trùng Các Giảng Đường trong Đại Lâm, xứ Vesāli. Lúc bấy giờ, có các sứ giả Bà-la-môn từ Kosala, Magadha và một người Licchavi tên là Oṭṭhaddha cùng hội chúng của mình đến xin yết kiến Thế Tôn. Ban đầu, thị giả Nāgita từ chối vì Thế Tôn đang *sống tĩnh cư*, nhưng sau đó sa-di Sīha đã thỉnh cầu thành công, và Thế Tôn đồng ý ra gặp họ.
 
-Atha kho te kosalakā ca brāhmaṇadūtā māgadhakā ca brāhmaṇadūtā yena mahāvanaṁ kūṭāgārasālā tenupasaṅkamiṁsu.
+Khi gặp Thế Tôn, Oṭṭhaddha kể lại việc một người tên là Sunakkhatta khoe rằng anh ta có thể nhìn thấy những *hình ảnh* cõi trời tuyệt đẹp, nhưng lại không thể nghe được những âm thanh cõi trời. Oṭṭhaddha thắc mắc liệu những âm thanh cõi trời đó là có thật hay không.
 
-Tena kho pana samayena āyasmā nāgito bhagavato upaṭṭhāko hoti. Atha kho te kosalakā ca brāhmaṇadūtā māgadhakā ca brāhmaṇadūtā yenāyasmā nāgito tenupasaṅkamiṁsu. upasaṅkamitvā āyasmantaṁ nāgitaṁ etadavocuṁ: “kahaṁ nu kho, bho nāgita, etarahi so bhavaṁ gotamo viharati? Dassanakāmā hi mayaṁ taṁ bhavantaṁ gotaman”ti.
+**2. Lời giải đáp về sự tập trung của tâm trí (Định)**
+Thế Tôn xác nhận những âm thanh cõi trời đó là có thật. Ngài giải thích nguyên lý của *Định* (sự tập trung tâm trí) như sau:
+*   Nếu một người tu tập *Định* chỉ hướng sự tập trung vào việc **nhìn** (phát triển một phía), người đó sẽ chỉ thấy các *hình ảnh* cõi trời mà không nghe được âm thanh.
+*   Ngược lại, nếu chỉ hướng sự tập trung vào việc **nghe**, người đó sẽ chỉ nghe được âm thanh mà không thấy hình ảnh.
+*   Chỉ khi người đó tu tập *Định* hướng đến **cả hai** (phát triển hai phía), họ mới có thể vừa thấy hình ảnh, vừa nghe được âm thanh cõi trời.
 
-“Akālo kho, āvuso, bhagavantaṁ dassanāya, paṭisallīno bhagavā”ti.
+Trường hợp của Sunakkhatta là do anh ta chỉ tập trung phát triển khả năng nhìn, nên không thể nghe được.
 
-Atha kho te kosalakā ca brāhmaṇadūtā māgadhakā ca brāhmaṇadūtā tattheva ekamantaṁ nisīdiṁsu: “disvāva mayaṁ taṁ bhavantaṁ gotamaṁ gamissāmā”ti.
+**3. Mục đích tối thượng của việc tu tập**
+Oṭṭhaddha hỏi tiếp: *"Có phải các tỳ kheo tu tập dưới sự hướng dẫn của Thế Tôn chỉ để đạt được những khả năng đặc biệt này không?"*
 
-## 2. Oṭṭhaddhalicchavīvatthu
+Thế Tôn phủ nhận. Ngài khẳng định mục đích tu tập *lối sống thanh tịnh* không phải vì những thần thông đó, mà vì những mục tiêu cao thượng hơn, bao gồm 4 quả vị giác ngộ:
+1.  **Nhập lưu:** Phá bỏ 3 *Xiềng Xích* tâm lý, không còn rơi vào đường ác, chắc chắn hướng đến giác ngộ.
+2.  **Nhất lai:** Làm suy yếu *đắm nhiễm*, *ám ảnh khó chịu* và *sự u mê*, chỉ sinh lại đời này một lần nữa.
+3.  **Hóa sinh (Bất lai):** Phá bỏ 5 *Xiềng Xích* trói buộc thế gian, sinh về cõi trời tịnh cư và giác ngộ tại đó.
+4.  **A-la-hán:** *Cạn sạch* mọi *nguồn ác* (lậu hoặc), đạt được sự giải thoát hoàn toàn ngay trong hiện tại bằng sự *hiểu biết trực tiếp*.
 
-Oṭṭhaddhopi licchavī mahatiyā licchavīparisāya saddhiṁ yena mahāvanaṁ kūṭāgārasālā yenāyasmā nāgito tenupasaṅkami; upasaṅkamitvā āyasmantaṁ nāgitaṁ abhivādetvā ekamantaṁ aṭṭhāsi. Ekamantaṁ ṭhito kho oṭṭhaddhopi licchavī āyasmantaṁ nāgitaṁ etadavoca: “kahaṁ nu kho, bhante nāgita, etarahi so bhagavā viharati arahaṁ sammāsambuddho, dassanakāmā hi mayaṁ taṁ bhagavantaṁ arahantaṁ sammāsambuddhan”ti.
+Để đạt được những mục tiêu này, con đường duy nhất là thực hành **Tám Bước Thiện** (Bát Thánh Đạo): *Nhìn Thấy Thiện, Suy Nghĩ Thiện, Lời Nói Thiện, Hành Động Thiện, Đời Sống Thiện, Nỗ lực Thiện, Tự Quan Sát Thiện, và Định thiện.*
 
-“Akālo kho, mahāli, bhagavantaṁ dassanāya, paṭisallīno bhagavā”ti.
+**4. Vấn đề triết học: Sinh mạng và Cơ thể**
+Thế Tôn kể lại một sự kiện trong quá khứ, khi có hai du sĩ ngoại đạo đến hỏi Ngài một câu hỏi mang tính triết học: *"Sinh mạng (linh hồn) và cơ thể là một, hay sinh mạng và cơ thể là hai thứ khác nhau?"*
 
-Oṭṭhaddhopi licchavī tattheva ekamantaṁ nisīdi: “disvāva ahaṁ taṁ bhagavantaṁ gamissāmi arahantaṁ sammāsambuddhan”ti.
+Thay vì trả lời trực tiếp bằng lý thuyết, Thế Tôn đã mô tả lại toàn bộ tiến trình tu tập của một bậc thánh: từ việc giữ gìn đạo đức, đạt được các tầng *Thiền-na* (từ thứ nhất đến thứ tư), cho đến khi *thấy rõ* bản chất của thực tại và đạt giải thoát hoàn toàn.
 
-Atha kho sīho samaṇuddeso yenāyasmā nāgito tenupasaṅkami; upasaṅkamitvā āyasmantaṁ nāgitaṁ abhivādetvā ekamantaṁ aṭṭhāsi. Ekamantaṁ ṭhito kho sīho samaṇuddeso āyasmantaṁ nāgitaṁ etadavoca: “ete, bhante kassapa, sambahulā kosalakā ca brāhmaṇadūtā māgadhakā ca brāhmaṇadūtā idhūpasaṅkantā bhagavantaṁ dassanāya; oṭṭhaddhopi licchavī mahatiyā licchavīparisāya saddhiṁ idhūpasaṅkanto bhagavantaṁ dassanāya, sādhu, bhante kassapa, labhataṁ esā janatā bhagavantaṁ dassanāyā”ti.
+Thế Tôn chỉ ra rằng: Khi một người thực sự trải nghiệm và *hiểu biết trực tiếp* các trạng thái tâm thức sâu sắc này, họ sẽ thấy câu hỏi *"sinh mạng và cơ thể là một hay khác"* trở nên vô nghĩa và không cần thiết. Một bậc giác ngộ không còn vướng mắc vào những tranh luận triết học siêu hình như vậy.
 
-“Tena hi, sīha, tvaññeva bhagavato ārocehī”ti.
+Nghe xong những lời giảng giải sáng tỏ này, Oṭṭhaddha vô cùng hoan hỷ và vui mừng đón nhận lời dạy của Thế Tôn.
 
-“Evaṁ, bhante”ti kho sīho samaṇuddeso āyasmato nāgitassa paṭissutvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ aṭṭhāsi. Ekamantaṁ ṭhito kho sīho samaṇuddeso bhagavantaṁ etadavoca: “ete, bhante, sambahulā kosalakā ca brāhmaṇadūtā māgadhakā ca brāhmaṇadūtā idhūpasaṅkantā bhagavantaṁ dassanāya, oṭṭhaddhopi licchavī mahatiyā licchavīparisāya saddhiṁ idhūpasaṅkanto bhagavantaṁ dassanāya. Sādhu, bhante, labhataṁ esā janatā bhagavantaṁ dassanāyā”ti.
+*Bảng thuật ngữ:*
 
-“Tena hi, sīha, vihārapacchāyāyaṁ āsanaṁ paññapehī”ti.
+| Thuật ngữ Pali | Từ cũ (Hán-Việt) | Từ mới (Hiện đại) | Ghi chú |
+| :--- | :--- | :--- | :--- |
+| rūpa | sắc | hình ảnh | dùng trong ngữ cảnh thị giác |
+| kāma | dục | sự dễ chịu giác quan | |
+| samādhi | định | Định | |
+| saṁyojana | kiết sử | Xiềng Xích | |
+| rāga | tham | đắm nhiễm | |
+| dosa | sân | ám ảnh khó chịu | |
+| moha | si | sự u mê | |
+| khayā | đoạn tận | cạn sạch | |
+| āsava | lậu hoặc | nguồn ác | |
+| abhiññā | thắng tri | hiểu biết trực tiếp | |
+| Ariya Aṭṭhaṅgika Magga | Bát Thánh Đạo | Tám Bước Thiện | |
+| sammādiṭṭhi | Chánh kiến | Nhìn Thấy Thiện | |
+| sammāsaṅkappa | Chánh tư duy | Suy Nghĩ Thiện | |
+| sammāvācā | Chánh ngữ | Lời Nói Thiện | |
+| sammākammanta | Chánh nghiệp | Hành Động Thiện | |
+| sammāājīva | Chánh mạng | Đời Sống Thiện | |
+| sammāvāyāma | Chánh tinh tấn | Nỗ lực Thiện | |
+| sammāsati | Chánh niệm | Tự Quan Sát Thiện | |
+| sammāsamādhi | Chánh định | Định thiện | |
+| jhāna | Thiền | Thiền-na | |
+| pajānāti | tuệ tri | thấy rõ | |
+| [!] paṭisallīna | tĩnh cư | sống tĩnh cư | rút lui, sống một mình, biệt lập |
+| [!] rajanīya | khả nhiễm | gây say đắm | kích thích lòng tham, hấp dẫn |
+| [!] ekaṁsabhāvita | nhất hướng tu tập | phát triển một phía | tập trung phát triển chỉ một khía cạnh |
+| [!] ubhayaṁsabhāvita | câu hữu tu tập | phát triển hai phía | tập trung phát triển cả hai khía cạnh |
+| [!] brahmacariya | phạm hạnh | lối sống thanh tịnh | đời sống tu tập trong sạch, thường chỉ việc giữ giới không dâm dục |
+| [!] sotāpanna | Nhập lưu | Nhập lưu | người bước vào dòng thánh |
+| [!] sakadāgāmī | Nhất lai | Nhất lai | người chỉ sinh lại cõi này một lần nữa |
+| [!] opapātika | hóa sinh | hóa sinh | sinh ra không qua thai nghén, thường chỉ bậc Bất lai sinh lên cõi Tịnh Cư |
+| [!] jīva | mạng | sinh mạng | nguyên lý sống, linh hồn theo quan niệm ngoại đạo |
+| [!] sarīra | thân | cơ thể | thân xác vật lý |
 
-“Evaṁ, bhante”ti kho sīho samaṇuddeso bhagavato paṭissutvā vihārapacchāyāyaṁ āsanaṁ paññapesi.
-
-Atha kho bhagavā vihārā nikkhamma vihārapacchāyāyaṁ paññatte āsane nisīdi. Atha kho te kosalakā ca brāhmaṇadūtā māgadhakā ca brāhmaṇadūtā yena bhagavā tenupasaṅkamiṁsu; upasaṅkamitvā bhagavatā saddhiṁ sammodiṁsu. Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdiṁsu.
-
-Oṭṭhaddhopi licchavī mahatiyā licchavīparisāya saddhiṁ yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho oṭṭhaddho licchavī bhagavantaṁ etadavoca: “purimāni, bhante, divasāni purimatarāni sunakkhatto licchaviputto yenāhaṁ tenupasaṅkami; upasaṅkamitvā maṁ etadavoca: ‘yadagge ahaṁ, mahāli, bhagavantaṁ upanissāya viharāmi, na ciraṁ tīṇi vassāni, dibbāni hi kho rūpāni passāmi piyarūpāni kāmūpasaṁhitāni rajanīyāni, no ca kho dibbāni saddāni suṇāmi piyarūpāni kāmūpasaṁhitāni rajanīyānī’ti. Santāneva nu kho, bhante, sunakkhatto licchaviputto dibbāni saddāni nāssosi piyarūpāni kāmūpasaṁhitāni rajanīyāni, udāhu asantānī”ti?
-
-### 2.1. Ekaṁsabhāvitasamādhi
-
-“Santāneva kho, mahāli, sunakkhatto licchaviputto dibbāni saddāni nāssosi piyarūpāni kāmūpasaṁhitāni rajanīyāni, no asantānī”ti.
-
-“Ko nu kho, bhante, hetu, ko paccayo, yena santāneva sunakkhatto licchaviputto dibbāni saddāni nāssosi piyarūpāni kāmūpasaṁhitāni rajanīyāni, no asantānī”ti?
-
-“Idha, mahāli, bhikkhuno puratthimāya disāya ekaṁsabhāvito samādhi hoti dibbānaṁ rūpānaṁ dassanāya piyarūpānaṁ kāmūpasaṁhitānaṁ rajanīyānaṁ, no ca kho dibbānaṁ saddānaṁ savanāya piyarūpānaṁ kāmūpasaṁhitānaṁ rajanīyānaṁ. So puratthimāya disāya ekaṁsabhāvite samādhimhi dibbānaṁ rūpānaṁ dassanāya piyarūpānaṁ kāmūpasaṁhitānaṁ rajanīyānaṁ, no ca kho dibbānaṁ saddānaṁ savanāya piyarūpānaṁ kāmūpasaṁhitānaṁ rajanīyānaṁ. Puratthimāya disāya dibbāni rūpāni passati piyarūpāni kāmūpasaṁhitāni rajanīyāni, no ca kho dibbāni saddāni suṇāti piyarūpāni kāmūpasaṁhitāni rajanīyāni. Taṁ kissa hetu? Evañhetaṁ, mahāli, hoti bhikkhuno puratthimāya disāya ekaṁsabhāvite samādhimhi dibbānaṁ rūpānaṁ dassanāya piyarūpānaṁ kāmūpasaṁhitānaṁ rajanīyānaṁ, no ca kho dibbānaṁ saddānaṁ savanāya piyarūpānaṁ kāmūpasaṁhitānaṁ rajanīyānaṁ.
-
-Puna caparaṁ, mahāli, bhikkhuno dakkhiṇāya disāya …pe… pacchimāya disāya … uttarāya disāya … uddhamadho tiriyaṁ ekaṁsabhāvito samādhi hoti dibbānaṁ rūpānaṁ dassanāya piyarūpānaṁ kāmūpasaṁhitānaṁ rajanīyānaṁ, no ca kho dibbānaṁ saddānaṁ savanāya piyarūpānaṁ kāmūpasaṁhitānaṁ rajanīyānaṁ. So uddhamadho tiriyaṁ ekaṁsabhāvite samādhimhi dibbānaṁ rūpānaṁ dassanāya piyarūpānaṁ kāmūpasaṁhitānaṁ rajanīyānaṁ, no ca kho dibbānaṁ saddānaṁ savanāya piyarūpānaṁ kāmūpasaṁhitānaṁ rajanīyānaṁ. Uddhamadho tiriyaṁ dibbāni rūpāni passati piyarūpāni kāmūpasaṁhitāni rajanīyāni, no ca kho dibbāni saddāni suṇāti piyarūpāni kāmūpasaṁhitāni rajanīyāni. Taṁ kissa hetu? Evañhetaṁ, mahāli, hoti bhikkhuno uddhamadho tiriyaṁ ekaṁsabhāvite samādhimhi dibbānaṁ rūpānaṁ dassanāya piyarūpānaṁ kāmūpasaṁhitānaṁ rajanīyānaṁ, no ca kho dibbānaṁ saddānaṁ savanāya piyarūpānaṁ kāmūpasaṁhitānaṁ rajanīyānaṁ.
-
-Idha, mahāli, bhikkhuno puratthimāya disāya ekaṁsabhāvito samādhi hoti dibbānaṁ saddānaṁ savanāya piyarūpānaṁ kāmūpasaṁhitānaṁ rajanīyānaṁ, no ca kho dibbānaṁ rūpānaṁ dassanāya piyarūpānaṁ kāmūpasaṁhitānaṁ rajanīyānaṁ. So puratthimāya disāya ekaṁsabhāvite samādhimhi dibbānaṁ saddānaṁ savanāya piyarūpānaṁ kāmūpasaṁhitānaṁ rajanīyānaṁ, no ca kho dibbānaṁ rūpānaṁ dassanāya piyarūpānaṁ kāmūpasaṁhitānaṁ rajanīyānaṁ. Puratthimāya disāya dibbāni saddāni suṇāti piyarūpāni kāmūpasaṁhitāni rajanīyāni, no ca kho dibbāni rūpāni passati piyarūpāni kāmūpasaṁhitāni rajanīyāni. Taṁ kissa hetu? Evañhetaṁ, mahāli, hoti bhikkhuno puratthimāya disāya ekaṁsabhāvite samādhimhi dibbānaṁ saddānaṁ savanāya piyarūpānaṁ kāmūpasaṁhitānaṁ rajanīyānaṁ, no ca kho dibbānaṁ rūpānaṁ dassanāya piyarūpānaṁ kāmūpasaṁhitānaṁ rajanīyānaṁ.
-
-Puna caparaṁ, mahāli, bhikkhuno dakkhiṇāya disāya …pe… pacchimāya disāya … uttarāya disāya … uddhamadho tiriyaṁ ekaṁsabhāvito samādhi hoti dibbānaṁ saddānaṁ savanāya piyarūpānaṁ kāmūpasaṁhitānaṁ rajanīyānaṁ, no ca kho dibbānaṁ rūpānaṁ dassanāya piyarūpānaṁ kāmūpasaṁhitānaṁ rajanīyānaṁ. So uddhamadho tiriyaṁ ekaṁsabhāvite samādhimhi dibbānaṁ saddānaṁ savanāya piyarūpānaṁ kāmūpasaṁhitānaṁ rajanīyānaṁ, no ca kho dibbānaṁ rūpānaṁ dassanāya piyarūpānaṁ kāmūpasaṁhitānaṁ rajanīyānaṁ. Uddhamadho tiriyaṁ dibbāni saddāni suṇāti piyarūpāni kāmūpasaṁhitāni rajanīyāni, no ca kho dibbāni rūpāni passati piyarūpāni kāmūpasaṁhitāni rajanīyāni. Taṁ kissa hetu? Evañhetaṁ, mahāli, hoti bhikkhuno uddhamadho tiriyaṁ ekaṁsabhāvite samādhimhi dibbānaṁ saddānaṁ savanāya piyarūpānaṁ kāmūpasaṁhitānaṁ rajanīyānaṁ, no ca kho dibbānaṁ rūpānaṁ dassanāya piyarūpānaṁ kāmūpasaṁhitānaṁ rajanīyānaṁ.
-
-Idha, mahāli, bhikkhuno puratthimāya disāya ubhayaṁsabhāvito samādhi hoti dibbānañca rūpānaṁ dassanāya piyarūpānaṁ kāmūpasaṁhitānaṁ rajanīyānaṁ dibbānañca saddānaṁ savanāya piyarūpānaṁ kāmūpasaṁhitānaṁ rajanīyānaṁ. So puratthimāya disāya ubhayaṁsabhāvite samādhimhi dibbānañca rūpānaṁ dassanāya piyarūpānaṁ kāmūpasaṁhitānaṁ rajanīyānaṁ, dibbānañca saddānaṁ savanāya piyarūpānaṁ kāmūpasaṁhitānaṁ rajanīyānaṁ. Puratthimāya disāya dibbāni ca rūpāni passati piyarūpāni kāmūpasaṁhitāni rajanīyāni, dibbāni ca saddāni suṇāti piyarūpāni kāmūpasaṁhitāni rajanīyāni. Taṁ kissa hetu? Evañhetaṁ, mahāli, hoti bhikkhuno puratthimāya disāya ubhayaṁsabhāvite samādhimhi dibbānañca rūpānaṁ dassanāya piyarūpānaṁ kāmūpasaṁhitānaṁ rajanīyānaṁ dibbānañca saddānaṁ savanāya piyarūpānaṁ kāmūpasaṁhitānaṁ rajanīyānaṁ.
-
-Puna caparaṁ, mahāli, bhikkhuno dakkhiṇāya disāya …pe… pacchimāya disāya … uttarāya disāya … uddhamadho tiriyaṁ ubhayaṁsabhāvito samādhi hoti dibbānañca rūpānaṁ dassanāya piyarūpānaṁ kāmūpasaṁhitānaṁ rajanīyānaṁ, dibbānañca saddānaṁ savanāya piyarūpānaṁ kāmūpasaṁhitānaṁ rajanīyānaṁ. So uddhamadho tiriyaṁ ubhayaṁsabhāvite samādhimhi dibbānañca rūpānaṁ dassanāya piyarūpānaṁ kāmūpasaṁhitānaṁ rajanīyānaṁ dibbānañca saddānaṁ savanāya piyarūpānaṁ kāmūpasaṁhitānaṁ rajanīyānaṁ. Uddhamadho tiriyaṁ dibbāni ca rūpāni passati piyarūpāni kāmūpasaṁhitāni rajanīyāni, dibbāni ca saddāni suṇāti piyarūpāni kāmūpasaṁhitāni rajanīyāni. Taṁ kissa hetu? Evañhetaṁ, mahāli, hoti bhikkhuno uddhamadho tiriyaṁ ubhayaṁsabhāvite samādhimhi dibbānañca rūpānaṁ dassanāya piyarūpānaṁ kāmūpasaṁhitānaṁ rajanīyānaṁ, dibbānañca saddānaṁ savanāya piyarūpānaṁ kāmūpasaṁhitānaṁ rajanīyānaṁ. Ayaṁ kho, mahāli, hetu ayaṁ paccayo, yena santāneva sunakkhatto licchaviputto dibbāni saddāni nāssosi piyarūpāni kāmūpasaṁhitāni rajanīyāni, no asantānī”ti.
-
-“Etāsaṁ nūna, bhante, samādhibhāvanānaṁ sacchikiriyāhetu bhikkhū bhagavati brahmacariyaṁ carantī”ti.
-
-“Na kho, mahāli, etāsaṁ samādhibhāvanānaṁ sacchikiriyāhetu bhikkhū mayi brahmacariyaṁ caranti. Atthi kho, mahāli, aññeva dhammā uttaritarā ca paṇītatarā ca, yesaṁ sacchikiriyāhetu bhikkhū mayi brahmacariyaṁ carantī”ti.
-
-### 2.2. Catuariyaphala
-
-“Katame pana te, bhante, dhammā uttaritarā ca paṇītatarā ca, yesaṁ sacchikiriyāhetu bhikkhū bhagavati brahmacariyaṁ carantī”ti?
-
-“Idha, mahāli, bhikkhu tiṇṇaṁ saṁyojanānaṁ parikkhayā sotāpanno hoti avinipātadhammo niyato sambodhiparāyaṇo. Ayampi kho, mahāli, dhammo uttaritaro ca paṇītataro ca, yassa sacchikiriyāhetu bhikkhū mayi brahmacariyaṁ caranti.
-
-Puna caparaṁ, mahāli, bhikkhu tiṇṇaṁ saṁyojanānaṁ parikkhayā rāgadosamohānaṁ tanuttā sakadāgāmī hoti, sakideva imaṁ lokaṁ āgantvā dukkhassantaṁ karoti. Ayampi kho, mahāli, dhammo uttaritaro ca paṇītataro ca, yassa sacchikiriyāhetu bhikkhū mayi brahmacariyaṁ caranti.
-
-Puna caparaṁ, mahāli, bhikkhu pañcannaṁ orambhāgiyānaṁ saṁyojanānaṁ parikkhayā opapātiko hoti, tattha parinibbāyī, anāvattidhammo tasmā lokā. Ayampi kho, mahāli, dhammo uttaritaro ca paṇītataro ca, yassa sacchikiriyāhetu bhikkhū mayi brahmacariyaṁ caranti.
-
-Puna caparaṁ, mahāli, bhikkhu āsavānaṁ khayā anāsavaṁ cetovimuttiṁ paññāvimuttiṁ diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja viharati. Ayampi kho, mahāli, dhammo uttaritaro ca paṇītataro ca, yassa sacchikiriyāhetu bhikkhū mayi brahmacariyaṁ caranti.
-
-Ime kho te, mahāli, dhammā uttaritarā ca paṇītatarā ca, yesaṁ sacchikiriyāhetu bhikkhū mayi brahmacariyaṁ carantī”ti.
-
-### 2.3. Ariyaaṭṭhaṅgikamagga
-
-“Atthi pana, bhante, maggo atthi paṭipadā etesaṁ dhammānaṁ sacchikiriyāyā”ti?
-
-“Atthi kho, mahāli, maggo atthi paṭipadā etesaṁ dhammānaṁ sacchikiriyāyā”ti.
-
-“Katamo pana, bhante, maggo katamā paṭipadā etesaṁ dhammānaṁ sacchikiriyāyā”ti?
-
-“Ayameva ariyo aṭṭhaṅgiko maggo. Seyyathidaṁ—sammādiṭṭhi sammāsaṅkappo sammāvācā sammākammanto sammāājīvo sammāvāyāmo sammāsati sammāsamādhi. Ayaṁ kho, mahāli, maggo ayaṁ paṭipadā etesaṁ dhammānaṁ sacchikiriyāya.
-
-### 2.4. Dvepabbajitavatthu
-
-Ekamidāhaṁ, mahāli, samayaṁ kosambiyaṁ viharāmi ghositārāme. Atha kho dve pabbajitā—muṇḍiyo ca paribbājako jāliyo ca dārupattikantevāsī yenāhaṁ tenupasaṅkamiṁsu. upasaṅkamitvā mayā saddhiṁ sammodiṁsu. Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ aṭṭhaṁsu. Ekamantaṁ ṭhitā kho te dve pabbajitā maṁ etadavocuṁ: ‘kiṁ nu kho, āvuso gotama, taṁ jīvaṁ taṁ sarīraṁ, udāhu aññaṁ jīvaṁ aññaṁ sarīran’ti?
-
-‘Tena hāvuso, suṇātha sādhukaṁ manasi karotha bhāsissāmī’ti.
-
-‘Evamāvuso’ti kho te dve pabbajitā mama paccassosuṁ.
-
-Ahaṁ etadavocaṁ: ‘idhāvuso tathāgato loke uppajjati arahaṁ sammāsambuddho …pe… Evaṁ kho, āvuso, bhikkhu sīlasampanno hoti.
-
-…pe… Paṭhamaṁ jhānaṁ upasampajja viharati. Yo kho, āvuso, bhikkhu evaṁ jānāti evaṁ passati, kallaṁ nu kho tassetaṁ vacanāya: ‘taṁ jīvaṁ taṁ sarīran’ti vā ‘aññaṁ jīvaṁ aññaṁ sarīran’ti vāti?
-
-Yo so, āvuso, bhikkhu evaṁ jānāti evaṁ passati, kallaṁ tassetaṁ vacanāya: ‘taṁ jīvaṁ taṁ sarīran’ti vā, ‘aññaṁ jīvaṁ aññaṁ sarīran’ti vāti.
-
-Ahaṁ kho panetaṁ, āvuso, evaṁ jānāmi evaṁ passāmi. Atha ca panāhaṁ na vadāmi: ‘taṁ jīvaṁ taṁ sarīran’ti vā ‘aññaṁ jīvaṁ aññaṁ sarīran’ti vā …pe…
-
-dutiyaṁ jhānaṁ … tatiyaṁ jhānaṁ … catutthaṁ jhānaṁ upasampajja viharati. Yo kho, āvuso, bhikkhu evaṁ jānāti evaṁ passati, kallaṁ nu kho tassetaṁ vacanāya: ‘taṁ jīvaṁ taṁ sarīran’ti vā ‘aññaṁ jīvaṁ aññaṁ sarīran’ti vāti?
-
-Yo so, āvuso, bhikkhu evaṁ jānāti evaṁ passati, kallaṁ tassetaṁ vacanāya: ‘taṁ jīvaṁ taṁ sarīran’ti vā ‘aññaṁ jīvaṁ aññaṁ sarīran’ti vāti.
-
-Ahaṁ kho panetaṁ, āvuso, evaṁ jānāmi evaṁ passāmi. Atha ca panāhaṁ na vadāmi: ‘taṁ jīvaṁ taṁ sarīran’ti vā ‘aññaṁ jīvaṁ aññaṁ sarīran’ti vā …pe…
-
-ñāṇadassanāya cittaṁ abhinīharati abhininnāmeti … yo kho, āvuso, bhikkhu evaṁ jānāti evaṁ passati, kallaṁ nu kho tassetaṁ vacanāya: ‘taṁ jīvaṁ taṁ sarīran’ti vā ‘aññaṁ jīvaṁ aññaṁ sarīran’ti vāti? …pe…
-
-Yo so, āvuso, bhikkhu evaṁ jānāti evaṁ passati, kallaṁ tassetaṁ vacanāya: ‘taṁ jīvaṁ taṁ sarīran’ti vā ‘aññaṁ jīvaṁ aññaṁ sarīran’ti vāti.
-
-Ahaṁ kho panetaṁ, āvuso, evaṁ jānāmi evaṁ passāmi. Atha ca panāhaṁ na vadāmi: ‘taṁ jīvaṁ taṁ sarīran’ti vā ‘aññaṁ jīvaṁ aññaṁ sarīran’ti vā. …pe…
-
-Nāparaṁ itthattāyāti pajānāti. Yo kho, āvuso, bhikkhu evaṁ jānāti evaṁ passati, kallaṁ nu kho tassetaṁ vacanāya: ‘taṁ jīvaṁ taṁ sarīran’ti vā ‘aññaṁ jīvaṁ aññaṁ sarīran’ti vāti?
-
-Yo so, āvuso, bhikkhu evaṁ jānāti evaṁ passati na kallaṁ tassetaṁ vacanāya: ‘taṁ jīvaṁ taṁ sarīran’ti vā ‘aññaṁ jīvaṁ aññaṁ sarīran’ti vāti.
-
-Ahaṁ kho panetaṁ, āvuso, evaṁ jānāmi evaṁ passāmi. Atha ca panāhaṁ na vadāmi: ‘taṁ jīvaṁ taṁ sarīran’ti vā ‘aññaṁ jīvaṁ aññaṁ sarīran’ti vā”ti.
-
-Idamavoca bhagavā. Attamano oṭṭhaddho licchavī bhagavato bhāsitaṁ abhinandīti.
-
-Mahālisuttaṁ niṭṭhitaṁ chaṭṭhaṁ.

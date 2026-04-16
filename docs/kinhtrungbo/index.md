@@ -12,7 +12,7 @@ title: Kinh Trung Bộ
     <div class="section-item">
       <div class="section-title"><a href="/kinhtrungbo/c-nm-tmc-vi/">Thích Minh Châu & Nanamoli-Bodhi (Việt)</a></div>
       <div class="section-subtitle">So sánh bản dịch tiếng Việt của Thích Minh Châu và Nanamoli-Bodhi.</div>
-    </div>
+    </div>sitemap
     <div class="section-item">
       <div class="section-title"><a href="/kinhtrungbo/c-nm-tmc-en/">Thích Minh Châu & Nanamoli-Bodhi (Anh)</a></div>
       <div class="section-subtitle">Đối chiếu bản dịch tiếng Việt của Thích Minh Châu và bản tiếng Anh của Nanamoli-Bodhi.</div>

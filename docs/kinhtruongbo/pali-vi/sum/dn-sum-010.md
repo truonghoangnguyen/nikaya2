@@ -1,151 +1,202 @@
-# Subhasutta
+# DN 10. KINH SUBHA (Tóm lược)
 
-Evaṁ me sutaṁ—ekaṁ samayaṁ āyasmā ānando sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme aciraparinibbute bhagavati.
+[Bản so sánh→](/kinhtruongbo/c-pali-tmc-vi/dnc-010-kinh-subha-tu-ba.){target="_blank" class="note-link" }
 
-Tena kho pana samayena subho māṇavo todeyyaputto sāvatthiyaṁ paṭivasati kenacideva karaṇīyena. Atha kho subho māṇavo todeyyaputto aññataraṁ māṇavakaṁ āmantesi: “ehi tvaṁ, māṇavaka, yena samaṇo ānando tenupasaṅkama; upasaṅkamitvā mama vacanena samaṇaṁ ānandaṁ appābādhaṁ appātaṅkaṁ lahuṭṭhānaṁ balaṁ phāsuvihāraṁ puccha: ‘subho māṇavo todeyyaputto bhavantaṁ ānandaṁ appābādhaṁ appātaṅkaṁ lahuṭṭhānaṁ balaṁ phāsuvihāraṁ pucchatī’ti. Evañca vadehi: ‘sādhu kira bhavaṁ ānando yena subhassa māṇavassa todeyyaputtassa nivesanaṁ tenupasaṅkamatu anukampaṁ upādāyā’”ti.
+Một thời, ngay sau khi Đức Phật nhập diệt, tôn giả Ānanda đang lưu trú tại tu viện Anāthapiṇḍika, rừng Jeta, xứ Sāvatthi. Lúc bấy giờ, thanh niên Subha (con trai của Todeyya) cũng đang ở Sāvatthi. Subha sai một người hầu đến hỏi thăm sức khỏe ngài Ānanda và mời ngài đến thăm tư dinh của mình.
 
-“Evaṁ, bho”ti kho so māṇavako subhassa māṇavassa todeyyaputtassa paṭissutvā yenāyasmā ānando tenupasaṅkami; upasaṅkamitvā āyasmatā ānandena saddhiṁ sammodi. Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho so māṇavako āyasmantaṁ ānandaṁ etadavoca: “subho māṇavo todeyyaputto bhavantaṁ ānandaṁ appābādhaṁ appātaṅkaṁ lahuṭṭhānaṁ balaṁ phāsuvihāraṁ pucchati; evañca vadeti: ‘sādhu kira bhavaṁ ānando yena subhassa māṇavassa todeyyaputtassa nivesanaṁ tenupasaṅkamatu anukampaṁ upādāyā’”ti.
+Người hầu đến nơi và truyền đạt lại lời mời. Ngài Ānanda từ chối khéo vì hôm đó ngài vừa uống thuốc, nhưng hẹn có thể sẽ đến vào ngày mai nếu thời gian và hoàn cảnh cho phép. Người hầu về báo lại, và Subha rất vui mừng vì ngài Ānanda đã ngỏ ý sẽ đến.
 
-Evaṁ vutte, āyasmā ānando taṁ māṇavakaṁ etadavoca: “akālo kho, māṇavaka. Atthi me ajja bhesajjamattā pītā. Appevanāma svepi upasaṅkameyyāma kālañca samayañca upādāyā”ti.
+Sáng hôm sau, ngài Ānanda đắp y, mang bát, cùng một tỳ-kheo thị giả đến nhà Subha. Sau những lời chào hỏi thân tình, Subha thưa chuyện:
 
-“Evaṁ, bho”ti kho so māṇavako āyasmato ānandassa paṭissutvā uṭṭhāyāsanā yena subho māṇavo todeyyaputto tenupasaṅkami; upasaṅkamitvā subhaṁ māṇavaṁ todeyyaputtaṁ etadavoca: “avocumhā kho mayaṁ bhoto vacanena taṁ bhavantaṁ ānandaṁ: ‘subho māṇavo todeyyaputto bhavantaṁ ānandaṁ appābādhaṁ appātaṅkaṁ lahuṭṭhānaṁ balaṁ phāsuvihāraṁ pucchati, evañca vadeti: “sādhu kira bhavaṁ ānando yena subhassa māṇavassa todeyyaputtassa nivesanaṁ tenupasaṅkamatu anukampaṁ upādāyā”’ti. Evaṁ vutte, bho, samaṇo ānando maṁ etadavoca: ‘akālo kho, māṇavaka. Atthi me ajja bhesajjamattā pītā. Appevanāma svepi upasaṅkameyyāma kālañca samayañca upādāyā’ti. Ettāvatāpi kho, bho, katameva etaṁ, yato kho so bhavaṁ ānando okāsamakāsi svātanāyapi upasaṅkamanāyā”ti.
+"Ngài Ānanda từng là thị giả thân cận nhất của Đức Phật. Chắc hẳn ngài biết rõ Đức Phật thường tán thán những *Điều* (pháp) nào và thường khuyên dạy mọi người thực hành theo những *Điều* nào nhất?"
 
-Atha kho āyasmā ānando tassā rattiyā accayena pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya cetakena bhikkhunā pacchāsamaṇena yena subhassa māṇavassa todeyyaputtassa nivesanaṁ tenupasaṅkami; upasaṅkamitvā paññatte āsane nisīdi. Atha kho subho māṇavo todeyyaputto yenāyasmā ānando tenupasaṅkami; upasaṅkamitvā āyasmatā ānandena saddhiṁ sammodi. Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho subho māṇavo todeyyaputto āyasmantaṁ ānandaṁ etadavoca:
+Ngài Ānanda đáp: "Đức Phật thường tán thán và khuyên dạy mọi người thực hành theo ba *nền tảng* (uẩn): *lối sống đạo đức* (giới), *Định* (samādhi), và *trí tuệ* (tuệ)."
 
-“bhavañhi ānando tassa bhoto gotamassa dīgharattaṁ upaṭṭhāko santikāvacaro samīpacārī. Bhavametaṁ ānando jāneyya, yesaṁ so bhavaṁ gotamo dhammānaṁ vaṇṇavādī ahosi, yattha ca imaṁ janataṁ samādapesi nivesesi patiṭṭhāpesi. Katamesānaṁ kho, bho ānanda, dhammānaṁ so bhavaṁ gotamo vaṇṇavādī ahosi; kattha ca imaṁ janataṁ samādapesi nivesesi patiṭṭhāpesī”ti?
+### 1. Sống Đạo Đức (Sīlakkhandha)
 
-“Tiṇṇaṁ kho, māṇava, khandhānaṁ so bhagavā vaṇṇavādī ahosi; ettha ca imaṁ janataṁ samādapesi nivesesi patiṭṭhāpesi. Katamesaṁ tiṇṇaṁ? Ariyassa sīlakkhandhassa, ariyassa samādhikkhandhassa, ariyassa paññākkhandhassa. Imesaṁ kho, māṇava, tiṇṇaṁ khandhānaṁ so bhagavā vaṇṇavādī ahosi; ettha ca imaṁ janataṁ samādapesi nivesesi patiṭṭhāpesī”ti.
+Subha hỏi chi tiết về *lối sống đạo đức*. Ngài Ānanda giải thích:
 
-## 1. Sīlakkhandha
+Khi một vị Phật xuất hiện và giảng dạy chân lý, một người nghe hiểu sẽ nhận ra đời sống gia đình chật hẹp, nhiều trói buộc, nên quyết định cạo bỏ râu tóc, xuất gia để sống một cuộc đời thanh khiết.
 
-“Katamo pana so, bho ānanda, ariyo sīlakkhandho, yassa so bhavaṁ gotamo vaṇṇavādī ahosi, yattha ca imaṁ janataṁ samādapesi nivesesi patiṭṭhāpesī”ti?
+Vị tỳ-kheo ấy sống tuân thủ *bộ quy tắc cốt lõi*, giữ gìn hành vi và cẩn trọng với từng lỗi lầm nhỏ nhất. Vị ấy từ bỏ sát sinh, trộm cắp, nói dối... và sống với lòng từ bi, thương xót mọi loài. Vị ấy cũng tránh xa các nghề nghiệp thấp kém để kiếm sống (như bói toán, xem tướng, trừ tà, bốc thuốc...).
 
-“Idha, māṇava, tathāgato loke uppajjati arahaṁ sammāsambuddho vijjācaraṇasampanno sugato lokavidū anuttaro purisadammasārathi satthā devamanussānaṁ buddho bhagavā. So imaṁ lokaṁ sadevakaṁ samārakaṁ sabrahmakaṁ sassamaṇabrāhmaṇiṁ pajaṁ sadevamanussaṁ sayaṁ abhiññā sacchikatvā pavedeti. So dhammaṁ deseti ādikalyāṇaṁ majjhekalyāṇaṁ pariyosānakalyāṇaṁ sātthaṁ sabyañjanaṁ kevalaparipuṇṇaṁ parisuddhaṁ brahmacariyaṁ pakāseti. Taṁ dhammaṁ suṇāti gahapati vā gahapatiputto vā aññatarasmiṁ vā kule paccājāto. So taṁ dhammaṁ sutvā tathāgate saddhaṁ paṭilabhati. So tena saddhāpaṭilābhena samannāgato iti paṭisañcikkhati: ‘sambādho gharāvāso rajopatho, abbhokāso pabbajjā, nayidaṁ sukaraṁ agāraṁ ajjhāvasatā ekantaparipuṇṇaṁ ekantaparisuddhaṁ saṅkhalikhitaṁ brahmacariyaṁ carituṁ. Yannūnāhaṁ kesamassuṁ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṁ pabbajeyyan’ti. So aparena samayena appaṁ vā bhogakkhandhaṁ pahāya mahantaṁ vā bhogakkhandhaṁ pahāya appaṁ vā ñātiparivaṭṭaṁ pahāya mahantaṁ vā ñātiparivaṭṭaṁ pahāya kesamassuṁ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṁ pabbajati. So evaṁ pabbajito samāno pātimokkhasaṁvarasaṁvuto viharati, ācāragocarasampanno, anumattesu vajjesu bhayadassāvī, samādāya sikkhati sikkhāpadesu, kāyakammavacīkammena samannāgato kusalena, parisuddhājīvo, sīlasampanno, indriyesu guttadvāro, satisampajaññena samannāgato, santuṭṭho.
+Nhờ giữ gìn *lối sống đạo đức* trọn vẹn, vị tỳ-kheo không còn sợ hãi bất cứ điều gì từ bên ngoài, giống như một vị vua đã dẹp yên giặc giã. Vị ấy cảm nhận một niềm *hạnh phúc* nội tâm hoàn toàn không tì vết.
 
-Kathañca, māṇava, bhikkhu sīlasampanno hoti? Idha, māṇava, bhikkhu pāṇātipātaṁ pahāya pāṇātipātā paṭivirato hoti, nihitadaṇḍo nihitasattho lajjī dayāpanno, sabbapāṇabhūtahitānukampī viharati. Yampi, māṇava, bhikkhu pāṇātipātaṁ pahāya pāṇātipātā paṭivirato hoti, nihitadaṇḍo nihitasattho lajjī dayāpanno, sabbapāṇabhūtahitānukampī viharati;
+Nghe xong, Subha hết lời khen ngợi sự trọn vẹn của lối *lối sống đạo đức* này. Tuy nhiên, ngài Ānanda nhấn mạnh: "Đó chưa phải là tất cả, vẫn còn những việc phải làm tiếp theo."
 
-idampissa hoti sīlasmiṁ.
+### 2. Định (Samādhikkhandha)
 
-Yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñjitvā te evarūpāya tiracchānavijjāya micchājīvena jīvitaṁ kappenti, seyyathidaṁ—santikammaṁ paṇidhikammaṁ bhūtakammaṁ bhūrikammaṁ vassakammaṁ vossakammaṁ vatthukammaṁ vatthuparikammaṁ ācamanaṁ nhāpanaṁ juhanaṁ vamanaṁ virecanaṁ uddhaṁvirecanaṁ adhovirecanaṁ sīsavirecanaṁ kaṇṇatelaṁ nettatappanaṁ natthukammaṁ añjanaṁ paccañjanaṁ sālākiyaṁ sallakattiyaṁ dārakatikicchā mūlabhesajjānaṁ anuppadānaṁ osadhīnaṁ paṭimokkho iti vā iti evarūpāya tiracchānavijjāya micchājīvā paṭivirato hoti. Yampi, māṇava, bhikkhu yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñjitvā te evarūpāya tiracchānavijjāya micchājīvena jīvitaṁ kappenti, seyyathidaṁ—santikammaṁ paṇidhikammaṁ …pe… osadhīnaṁ paṭimokkho iti vā iti evarūpāya tiracchānavijjāya micchājīvā paṭivirato hoti. Idampissa hoti sīlasmiṁ.
+Ngài Ānanda tiếp tục giảng về *Định*. Trước khi vào thiền, vị tỳ-kheo phải chuẩn bị tâm trí qua ba bước:
+1. **Bảo vệ các giác quan:** Không để mắt, tai, mũi, lưỡi, thân, ý bị cuốn theo các hình ảnh hay âm thanh bên ngoài, ngăn chặn *lòng tham* và ưu phiền xâm nhập.
+2. **Tự Quan Sát và nhận biết rõ ràng:** Luôn tỉnh thức trong mọi hành động hàng ngày, từ việc đi đứng, ăn uống cho đến khi ngủ nghỉ hay nói năng.
+3. **Biết đủ:** Chỉ cần y phục che thân và thức ăn đủ no. Vị ấy tự do đi bất cứ đâu, nhẹ nhàng như một con chim chỉ mang theo đôi cánh của mình.
 
-Sa kho so, māṇava, bhikkhu evaṁ sīlasampanno na kutoci bhayaṁ samanupassati, yadidaṁ sīlasaṁvarato. Seyyathāpi, māṇava, rājā khattiyo muddhāvasitto nihatapaccāmitto na kutoci bhayaṁ samanupassati, yadidaṁ paccatthikato; evameva kho, māṇava, bhikkhu evaṁ sīlasampanno na kutoci bhayaṁ samanupassati, yadidaṁ sīlasaṁvarato. So iminā ariyena sīlakkhandhena samannāgato ajjhattaṁ anavajjasukhaṁ paṭisaṁvedeti. Evaṁ kho, māṇava, bhikkhu sīlasampanno hoti.
+Với nền tảng đó, vị tỳ-kheo tìm đến nơi thanh vắng để ngồi thiền. Vị ấy loại bỏ năm *sự làm Mờ Yếu* tâm trí: *lòng tham*, *Ác ý hãm hại*, *Uể oải buồn ngủ*, *Bồn chồn hối hận*, và *Nghi ngờ*. Việc trút bỏ được năm gánh nặng này mang lại niềm vui sướng tột độ, giống như một người trả hết nợ nần, khỏi căn bệnh hiểm nghèo, được thả khỏi nhà tù, thoát kiếp nô lệ, hay vừa vượt qua một sa mạc đầy hiểm nguy để đến nơi an toàn.
 
-Ayaṁ kho so, māṇava, ariyo sīlakkhandho yassa so bhagavā vaṇṇavādī ahosi, yattha ca imaṁ janataṁ samādapesi nivesesi patiṭṭhāpesi. Atthi cevettha uttarikaraṇīyan”ti.
+Khi tâm trí đã nhẹ nhàng, vị ấy lần lượt tiến sâu vào bốn trạng thái *Thiền-na* (jhāna):
+*   **Thiền-na thứ nhất:** Tâm sinh ra sự *hân hoan* và *hạnh phúc*. Cảm giác này thấm đẫm toàn thân, giống như người thợ nhào cục bột tắm ngậm đầy nước mà không bị chảy tràn.
+*   **Thiền-na thứ hai:** Tâm tĩnh lặng, hợp nhất. Niềm vui thấm đẫm cơ thể giống như một hồ nước được mạch nước ngầm mát lạnh liên tục tuôn trào từ đáy, lan tỏa khắp hồ.
+*   **Thiền-na thứ ba:** Tâm bình thản, tỉnh táo. *Hạnh phúc* tĩnh lặng bao trùm cơ thể giống như những đóa hoa sen chìm ngập và hấp thụ trọn vẹn dòng nước mát lạnh.
+*   **Thiền-na thứ tư:** Vượt qua cả hạnh phúc và đau khổ, tâm đạt đến sự thanh khiết tuyệt đối. Sự trong sáng này bao bọc toàn thân giống như một người trùm kín mình bằng một tấm vải trắng tinh.
 
-“Acchariyaṁ, bho ānanda, abbhutaṁ, bho ānanda. So cāyaṁ, bho ānanda, ariyo sīlakkhandho paripuṇṇo, no aparipuṇṇo. Evaṁ paripuṇṇañcāhaṁ, bho ānanda, ariyaṁ sīlakkhandhaṁ ito bahiddhā aññesu samaṇabrāhmaṇesu na samanupassāmi. Evaṁ paripuṇṇañca, bho ānanda, ariyaṁ sīlakkhandhaṁ ito bahiddhā aññe samaṇabrāhmaṇā attani samanupasseyyuṁ, te tāvatakeneva attamanā assu: ‘alamettāvatā, katamettāvatā, anuppatto no sāmaññattho, natthi no kiñci uttarikaraṇīyan’ti. Atha ca pana bhavaṁ ānando evamāha: ‘atthi cevettha uttarikaraṇīyan’”ti.
+Subha lại một lần nữa tán thán sự tuyệt vời của *Định*, nhưng ngài Ānanda vẫn nói: "Vẫn còn bước cuối cùng phải hoàn thiện."
 
-## 2. Samādhikkhandha
+### 3. Trí Tuệ (Paññākkhandha)
 
-“Katamo pana so, bho ānanda, ariyo samādhikkhandho, yassa so bhavaṁ gotamo vaṇṇavādī ahosi, yattha ca imaṁ janataṁ samādapesi nivesesi patiṭṭhāpesī”ti?
+Ngài Ānanda giảng về *trí tuệ*. Với tâm trí đã định tĩnh, thanh khiết và hoàn toàn bất động (sau Thiền-na thứ tư), vị tỳ-kheo hướng tâm đến việc *thấy rõ bản chất* của thực tại qua các cấp độ:
 
-“Kathañca, māṇava, bhikkhu indriyesu guttadvāro hoti? Idha, māṇava, bhikkhu cakkhunā rūpaṁ disvā na nimittaggāhī hoti nānubyañjanaggāhī; yatvādhikaraṇamenaṁ cakkhundriyaṁ asaṁvutaṁ viharantaṁ abhijjhādomanassā pāpakā akusalā dhammā anvāssaveyyuṁ; tassa saṁvarāya paṭipajjati, rakkhati cakkhundriyaṁ, cakkhundriye saṁvaraṁ āpajjati. Sotena saddaṁ sutvā …pe… ghānena gandhaṁ ghāyitvā … jivhāya rasaṁ sāyitvā … kāyena phoṭṭhabbaṁ phusitvā … manasā dhammaṁ viññāya na nimittaggāhī hoti nānubyañjanaggāhī; yatvādhikaraṇamenaṁ manindriyaṁ asaṁvutaṁ viharantaṁ abhijjhādomanassā pāpakā akusalā dhammā anvāssaveyyuṁ; tassa saṁvarāya paṭipajjati, rakkhati manindriyaṁ, manindriye saṁvaraṁ āpajjati. So iminā ariyena indriyasaṁvarena samannāgato ajjhattaṁ abyāsekasukhaṁ paṭisaṁvedeti. Evaṁ kho, māṇava, bhikkhu indriyesu guttadvāro hoti.
+*   **Thấy rõ thân và tâm:** Vị ấy nhận ra cơ thể này chỉ là vật chất vô thường, và *sự Nhận biết* (thức) chỉ đang nương tựa vào nó. Sự thấu suốt này rõ ràng như việc nhìn thấu một sợi chỉ màu xâu xuyên qua viên ngọc lưu ly trong suốt.
+*   **Sức mạnh tâm linh:** Vị ấy có thể tạo ra một cơ thể bằng tâm (như rút thanh kiếm ra khỏi vỏ), và phát triển *các loại sức mạnh tâm linh* (như bay lượn, đi xuyên tường, đi trên nước) dễ dàng như người thợ gốm nặn đất sét theo ý muốn.
+*   **Thiên nhĩ và Tha tâm:** Vị ấy phát triển *yếu tố tai siêu nhiên* (nghe được mọi âm thanh xa gần của người và chư thiên) và *kiến thức thấu hiểu tâm* (đọc được trạng thái tâm lý của người khác rõ ràng như soi khuôn mặt mình trong gương).
+*   **Nhớ lại kiếp trước:** Vị ấy nhớ lại vô số đời sống quá khứ của mình một cách chi tiết, giống như một người nhớ lại hành trình mình đã đi qua các ngôi làng.
+*   **Thấy rõ nghiệp và tái sinh:** Vị ấy nhìn thấy sự chết và tái sinh của các chúng sinh khác tuân theo quy luật nhân quả (nghiệp), rõ ràng như một người đứng trên lầu cao nhìn dòng người qua lại ở ngã tư đường.
 
-Kathañca, māṇava, bhikkhu satisampajaññena samannāgato hoti? Idha, māṇava, bhikkhu abhikkante paṭikkante sampajānakārī hoti, ālokite vilokite sampajānakārī hoti, samiñjite pasārite sampajānakārī hoti, saṅghāṭipattacīvaradhāraṇe sampajānakārī hoti, asite pīte khāyite sāyite sampajānakārī hoti, uccārapassāvakamme sampajānakārī hoti, gate ṭhite nisinne sutte jāgarite bhāsite tuṇhībhāve sampajānakārī hoti. Evaṁ kho, māṇava, bhikkhu satisampajaññena samannāgato hoti.
+**Mục đích tối thượng:**
+Cuối cùng, vị ấy hướng tâm đến việc *cạn sạch* các *nguồn ác* (lậu hoặc). Vị ấy thấu hiểu trọn vẹn Bốn Sự Thật: *đau khổ*, nguyên nhân của đau khổ, sự chấm dứt đau khổ, và con đường dẫn đến sự chấm dứt đó.
 
-Kathañca, māṇava, bhikkhu santuṭṭho hoti? Idha, māṇava, bhikkhu santuṭṭho hoti kāyaparihārikena cīvarena kucchiparihārikena piṇḍapātena. So yena yeneva pakkamati, samādāyeva pakkamati. Seyyathāpi, māṇava, pakkhī sakuṇo yena yeneva ḍeti, sapattabhārova ḍeti; evameva kho, māṇava, bhikkhu santuṭṭho hoti kāyaparihārikena cīvarena kucchiparihārikena piṇḍapātena. So yena yeneva pakkamati, samādāyeva pakkamati. Evaṁ kho, māṇava, bhikkhu santuṭṭho hoti.
+Lúc này, tâm trí hoàn toàn giải thoát khỏi ham muốn giác quan, mong muốn tồn tại và sự Không Hiểu Biết. Vị ấy biết rõ: *"Sự Tái sinh đã chấm dứt, việc cần làm đã làm xong, không còn trở lại trạng thái này nữa."* Sự sáng tỏ này giống như một người đứng trên bờ nhìn thấu tận đáy một hồ nước trong vắt, thấy rõ từng viên sỏi, vỏ ốc và đàn cá đang bơi lội.
 
-So iminā ca ariyena sīlakkhandhena samannāgato, iminā ca ariyena indriyasaṁvarena samannāgato, iminā ca ariyena satisampajaññena samannāgato, imāya ca ariyāya santuṭṭhiyā samannāgato vivittaṁ senāsanaṁ bhajati araññaṁ rukkhamūlaṁ pabbataṁ kandaraṁ giriguhaṁ susānaṁ vanapatthaṁ abbhokāsaṁ palālapuñjaṁ. So pacchābhattaṁ piṇḍapātapaṭikkanto nisīdati pallaṅkaṁ ābhujitvā, ujuṁ kāyaṁ paṇidhāya, parimukhaṁ satiṁ upaṭṭhapetvā.
+Ngài Ānanda kết luận: "Đây chính là *nền tảng* *trí tuệ* trọn vẹn nhất. Đến đây, không còn việc gì phải làm thêm nữa."
 
-So abhijjhaṁ loke pahāya vigatābhijjhena cetasā viharati abhijjhāya cittaṁ parisodheti. Byāpādapadosaṁ pahāya abyāpannacitto viharati sabbapāṇabhūtahitānukampī byāpādapadosā cittaṁ parisodheti. Thinamiddhaṁ pahāya vigatathinamiddho viharati ālokasaññī sato sampajāno, thinamiddhā cittaṁ parisodheti. Uddhaccakukkuccaṁ pahāya anuddhato viharati ajjhattaṁ vūpasantacitto uddhaccakukkuccā cittaṁ parisodheti. Vicikicchaṁ pahāya tiṇṇavicikiccho viharati akathaṅkathī kusalesu dhammesu, vicikicchāya cittaṁ parisodheti.
+***
 
-Seyyathāpi, māṇava, puriso iṇaṁ ādāya kammante payojeyya. Tassa te kammantā samijjheyyuṁ. So yāni ca porāṇāni iṇamūlāni tāni ca byantiṁ kareyya, siyā cassa uttariṁ avasiṭṭhaṁ dārabharaṇāya. Tassa evamassa: ‘ahaṁ kho pubbe iṇaṁ ādāya kammante payojesiṁ. Tassa me te kammantā samijjhiṁsu. Sohaṁ yāni ca porāṇāni iṇamūlāni tāni ca byantiṁ akāsiṁ, atthi ca me uttariṁ avasiṭṭhaṁ dārabharaṇāyā’ti. So tatonidānaṁ labhetha pāmojjaṁ, adhigaccheyya somanassaṁ.
+Nghe xong toàn bộ bài giảng, thanh niên Subha vô cùng hoan hỷ. Anh tán thán:
 
-Seyyathāpi, māṇava, puriso ābādhiko assa dukkhito bāḷhagilāno; bhattañcassa nacchādeyya, na cassa kāye balamattā. So aparena samayena tamhā ābādhā mucceyya, bhattañcassa chādeyya, siyā cassa kāye balamattā. Tassa evamassa: ‘ahaṁ kho pubbe ābādhiko ahosiṁ dukkhito bāḷhagilāno, bhattañca me nacchādesi, na ca me āsi kāye balamattā. Somhi etarahi tamhā ābādhā mutto bhattañca me chādeti, atthi ca me kāye balamattā’ti. So tatonidānaṁ labhetha pāmojjaṁ, adhigaccheyya somanassaṁ.
+"Tuyệt vời thay, thưa ngài Ānanda! Ngài đã dùng nhiều cách để làm sáng tỏ chân lý, giống như dựng lại một vật bị lật úp, phơi bày ra những gì bị che giấu, chỉ đường cho người lạc lối, hay cầm ngọn đèn sáng đi vào bóng tối để những ai có mắt có thể nhìn thấy. Nay tôi xin quy y Đức Phật, quy y Pháp và quy y Tăng đoàn. Xin ngài hãy nhận tôi làm một cư sĩ tại gia, trọn đời đi theo con đường này."
 
-Seyyathāpi, māṇava, puriso bandhanāgāre baddho assa. So aparena samayena tamhā bandhanāgārā mucceyya sotthinā abbhayena, na cassa kiñci bhogānaṁ vayo. Tassa evamassa: ‘ahaṁ kho pubbe bandhanāgāre baddho ahosiṁ. Somhi etarahi tamhā bandhanāgārā mutto sotthinā abbhayena, natthi ca me kiñci bhogānaṁ vayo’ti. So tatonidānaṁ labhetha pāmojjaṁ, adhigaccheyya somanassaṁ.
+---
 
-Seyyathāpi, māṇava, puriso dāso assa anattādhīno parādhīno na yenakāmaṅgamo. So aparena samayena tamhā dāsabyā mucceyya, attādhīno aparādhīno bhujisso yenakāmaṅgamo. Tassa evamassa: ‘ahaṁ kho pubbe dāso ahosiṁ anattādhīno parādhīno na yenakāmaṅgamo. Somhi etarahi tamhā dāsabyā mutto attādhīno aparādhīno bhujisso yenakāmaṅgamo’ti. So tatonidānaṁ labhetha pāmojjaṁ, adhigaccheyya somanassaṁ.
+#### Kkhandha/Uẩn
+Nghĩa đen gốc là: thân cây, thân mình, vai, khối, đống
+Cụ thể hơn, hình ảnh gốc là thân/gốc cây — phần to, chắc, nâng đỡ toàn bộ cái cây.
 
-Seyyathāpi, māṇava, puriso sadhano sabhogo kantāraddhānamaggaṁ paṭipajjeyya dubbhikkhaṁ sappaṭibhayaṁ. So aparena samayena taṁ kantāraṁ nitthareyya, sotthinā gāmantaṁ anupāpuṇeyya khemaṁ appaṭibhayaṁ. Tassa evamassa: ‘ahaṁ kho pubbe sadhano sabhogo kantāraddhānamaggaṁ paṭipajjiṁ dubbhikkhaṁ sappaṭibhayaṁ. Somhi etarahi taṁ kantāraṁ nitthiṇṇo, sotthinā gāmantaṁ anuppatto khemaṁ appaṭibhayan’ti. So tatonidānaṁ labhetha pāmojjaṁ, adhigaccheyya somanassaṁ.
+Từ hình ảnh đó, khandha mang nghĩa mở rộng:
 
-Evameva kho, māṇava, bhikkhu yathā iṇaṁ yathā rogaṁ yathā bandhanāgāraṁ yathā dāsabyaṁ yathā kantāraddhānamaggaṁ, evaṁ ime pañca nīvaraṇe appahīne attani samanupassati.
+Thân cây, gốc cây:          Nghĩa vật lý gốc
+Khối, đống, tập hợp lớn:     Mahākhandha = khối lớn
+Uẩn (nhóm cấu thành):        Pañcakkhandha = Ngũ uẩn
+Phần, chương, tập:           Sīlakkhandha = phần Giới
 
-Seyyathāpi, māṇava, yathā āṇaṇyaṁ yathā ārogyaṁ yathā bandhanāmokkhaṁ yathā bhujissaṁ yathā khemantabhūmiṁ. Evameva kho bhikkhu ime pañca nīvaraṇe pahīne attani samanupassati.
+- Nền tảng (giới uẩn = nền tảng đạo đức)
+- Câu thành (5 uẩn = 5 thành phần; 5 cấu thành)
 
-Tassime pañca nīvaraṇe pahīne attani samanupassato pāmojjaṁ jāyati, pamuditassa pīti jāyati, pītimanassa kāyo passambhati, passaddhakāyo sukhaṁ vedeti, sukhino cittaṁ samādhiyati.
+#### pātimokkhasaṁvarasaṁvuto
+-- Pātimokkha: giới bổn, hệ thống giới luật căn bản của Tỳ-kheo/Tỳ-kheo-ni.
+-- saṁvara: sự chế ngự, phòng hộ.
+-- saṁvuto: được bao bọc, được giữ gìn.
+→ Nghĩa chung: sống được bảo hộ bởi giới luật, không buông lung thân khẩu ý.
 
-So vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṁ savicāraṁ vivekajaṁ pītisukhaṁ paṭhamaṁ jhānaṁ upasampajja viharati. So imameva kāyaṁ vivekajena pītisukhena abhisandeti parisandeti paripūreti parippharati, nāssa kiñci sabbāvato kāyassa vivekajena pītisukhena apphuṭaṁ hoti.
+->sống được bảo vệ bởi sự chế ngự theo giới luật(Pātimokkha) / sống được phòng hộ bởi sự chế ngự theo giới bổn (Pātimokkha),
 
-Seyyathāpi, māṇava, dakkho nhāpako vā nhāpakantevāsī vā kaṁsathāle nhānīyacuṇṇāni ākiritvā udakena paripphosakaṁ paripphosakaṁ sanneyya. Sāyaṁ nhānīyapiṇḍi snehānugatā snehaparetā santarabāhirā phuṭā snehena, na ca paggharaṇī.
 
-Evameva kho, māṇava, bhikkhu imameva kāyaṁ vivekajena pītisukhena abhisandeti parisandeti paripūreti parippharati, nāssa kiñci sabbāvato kāyassa vivekajena pītisukhena apphuṭaṁ hoti. Yampi, māṇava, bhikkhu vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṁ savicāraṁ vivekajaṁ pītisukhaṁ paṭhamaṁ jhānaṁ upasampajja viharati. So imameva kāyaṁ vivekajena pītisukhena abhisandeti parisandeti paripūreti parippharati, nāssa kiñci sabbāvato kāyassa vivekajena pītisukhena apphuṭaṁ hoti. Idampissa hoti samādhismiṁ.
+#### ācāragocarasampanno/oai nghi chánh hạnh
+Gồm 2 ý:
+-- ācāra: oai nghi, hạnh kiểm, cách cư xử.
+-- gocara: phạm vi đi lại, giao tiếp, môi trường sinh hoạt thích hợp.
+→ Không chỉ giữ giới trên giấy tờ, mà còn sống đúng tác phong của người tu, đi đứng nói năng đúng mực, tránh môi trường dễ sinh phiền não.
 
-Puna caparaṁ, māṇava, bhikkhu vitakkavicārānaṁ vūpasamā ajjhattaṁ sampasādanaṁ cetaso ekodibhāvaṁ avitakkaṁ avicāraṁ samādhijaṁ pītisukhaṁ dutiyaṁ jhānaṁ upasampajja viharati. So imameva kāyaṁ samādhijena pītisukhena abhisandeti parisandeti paripūreti parippharati, nāssa kiñci sabbāvato kāyassa samādhijena pītisukhena apphuṭaṁ hoti.
+-> cách cư xử đúng đắn
 
-Seyyathāpi, māṇava, udakarahado gambhīro ubbhidodako. Tassa nevassa puratthimāya disāya udakassa āyamukhaṁ, na dakkhiṇāya disāya udakassa āyamukhaṁ, na pacchimāya disāya udakassa āyamukhaṁ, na uttarāya disāya udakassa āyamukhaṁ, devo ca na kālena kālaṁ sammā dhāraṁ anupaveccheyya. Atha kho tamhāva udakarahadā sītā vāridhārā ubbhijjitvā tameva udakarahadaṁ sītena vārinā abhisandeyya parisandeyya paripūreyya paripphareyya, nāssa kiñci sabbāvato udakarahadassa sītena vārinā apphuṭaṁ assa.
-
-Evameva kho, māṇava, bhikkhu …pe… yampi, māṇava, bhikkhu vitakkavicārānaṁ vūpasamā …pe… dutiyaṁ jhānaṁ upasampajja viharati. So imameva kāyaṁ samādhijena pītisukhena abhisandeti parisandeti paripūreti parippharati, nāssa kiñci sabbāvato kāyassa samādhijena pītisukhena apphuṭaṁ hoti. Idampissa hoti samādhismiṁ.
-
-Puna caparaṁ, māṇava, bhikkhu pītiyā ca virāgā upekkhako ca viharati sato sampajāno, sukhañca kāyena paṭisaṁvedeti, yaṁ taṁ ariyā ācikkhanti: ‘upekkhako satimā sukhavihārī’ti, tatiyaṁ jhānaṁ upasampajja viharati. So imameva kāyaṁ nippītikena sukhena abhisandeti parisandeti paripūreti parippharati, nāssa kiñci sabbāvato kāyassa nippītikena sukhena apphuṭaṁ hoti.
-
-Seyyathāpi, māṇava, uppaliniyaṁ vā paduminiyaṁ vā puṇḍarīkiniyaṁ vā appekaccāni uppalāni vā padumāni vā puṇḍarīkāni vā udake jātāni udake saṁvaḍḍhāni udakānuggatāni antonimuggaposīni, tāni yāva caggā yāva ca mūlā sītena vārinā abhisannāni parisannāni paripūrāni paripphuṭāni, nāssa kiñci sabbāvataṁ uppalānaṁ vā padumānaṁ vā puṇḍarīkānaṁ vā sītena vārinā apphuṭaṁ assa.
-
-Evameva kho, māṇava, bhikkhu …pe… yampi, māṇava, bhikkhu pītiyā ca virāgā …pe… tatiyaṁ jhānaṁ upasampajja viharati. So imameva kāyaṁ nippītikena sukhena abhisandeti parisandeti paripūreti parippharati, nāssa kiñci sabbāvato kāyassa nippītikena sukhena apphuṭaṁ hoti. Idampissa hoti samādhismiṁ.
-
-Puna caparaṁ, māṇava, bhikkhu sukhassa ca pahānā dukkhassa ca pahānā pubbeva somanassadomanassānaṁ atthaṅgamā adukkhamasukhaṁ upekkhāsatipārisuddhiṁ catutthaṁ jhānaṁ upasampajja viharati. So imameva kāyaṁ parisuddhena cetasā pariyodātena pharitvā nisinno hoti; nāssa kiñci sabbāvato kāyassa parisuddhena cetasā pariyodātena apphuṭaṁ hoti.
-
-Seyyathāpi, māṇava, puriso odātena vatthena sasīsaṁ pārupitvā nisinno assa, nāssa kiñci sabbāvato kāyassa odātena vatthena apphuṭaṁ assa.
-
-Evameva kho, māṇava, bhikkhu …pe… yampi, māṇava, bhikkhu sukhassa ca pahānā dukkhassa ca pahānā pubbeva somanassadomanassānaṁ atthaṅgamā adukkhamasukhaṁ upekkhāsatipārisuddhiṁ catutthaṁ jhānaṁ upasampajja viharati. So imameva kāyaṁ parisuddhena cetasā pariyodātena pharitvā nisinno hoti; nāssa kiñci sabbāvato kāyassa parisuddhena cetasā pariyodātena apphuṭaṁ hoti. Idampissa hoti samādhismiṁ.
-
-Ayaṁ kho so, māṇava, ariyo samādhikkhandho yassa so bhagavā vaṇṇavādī ahosi, yattha ca imaṁ janataṁ samādapesi nivesesi patiṭṭhāpesi. Atthi cevettha uttarikaraṇīyan”ti.
-
-“Acchariyaṁ, bho ānanda, abbhutaṁ, bho ānanda. So cāyaṁ, bho ānanda, ariyo samādhikkhandho paripuṇṇo, no aparipuṇṇo. Evaṁ paripuṇṇañcāhaṁ, bho ānanda, ariyaṁ samādhikkhandhaṁ ito bahiddhā aññesu samaṇabrāhmaṇesu na samanupassāmi. Evaṁ paripuṇṇañca, bho ānanda, ariyaṁ samādhikkhandhaṁ ito bahiddhā aññe samaṇabrāhmaṇā attani samanupasseyyuṁ, te tāvatakeneva attamanā assu: ‘alamettāvatā, katamettāvatā, anuppatto no sāmaññattho, natthi no kiñci uttarikaraṇīyan’ti. Atha ca pana bhavaṁ ānando evamāha: ‘atthi cevettha uttarikaraṇīyan’ti.
-
-## 3. Paññākkhandha
-
-Katamo pana so, bho ānanda, ariyo paññākkhandho, yassa bho bhavaṁ gotamo vaṇṇavādī ahosi, yattha ca imaṁ janataṁ samādapesi nivesesi patiṭṭhāpesī”ti?
-
-“So evaṁ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese mudubhūte kammaniye ṭhite āneñjappatte ñāṇadassanāya cittaṁ abhinīharati abhininnāmeti. So evaṁ pajānāti: ‘ayaṁ kho me kāyo rūpī cātumahābhūtiko mātāpettikasambhavo odanakummāsūpacayo aniccucchādanaparimaddanabhedanaviddhaṁsanadhammo; idañca pana me viññāṇaṁ ettha sitaṁ ettha paṭibaddhan’ti.
-
-Seyyathāpi, māṇava, maṇi veḷuriyo subho jātimā aṭṭhaṁso suparikammakato accho vippasanno anāvilo sabbākārasampanno. Tatrāssa suttaṁ āvutaṁ nīlaṁ vā pītaṁ vā lohitaṁ vā odātaṁ vā paṇḍusuttaṁ vā. Tamenaṁ cakkhumā puriso hatthe karitvā paccavekkheyya: ‘ayaṁ kho maṇi veḷuriyo subho jātimā aṭṭhaṁso suparikammakato accho vippasanno anāvilo sabbākārasampanno. Tatridaṁ suttaṁ āvutaṁ nīlaṁ vā pītaṁ vā lohitaṁ vā odātaṁ vā paṇḍusuttaṁ vā’ti.
-
-Evameva kho, māṇava, bhikkhu evaṁ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese mudubhūte kammaniye ṭhite āneñjappatte ñāṇadassanāya cittaṁ abhinīharati abhininnāmeti. So evaṁ pajānāti: ‘ayaṁ kho me kāyo rūpī cātumahābhūtiko mātāpettikasambhavo odanakummāsūpacayo aniccucchādanaparimaddanabhedanaviddhaṁsanadhammo. Idañca pana me viññāṇaṁ ettha sitaṁ ettha paṭibaddhan’ti. Yampi, māṇava, bhikkhu evaṁ samāhite citte …pe… āneñjappatte ñāṇadassanāya cittaṁ abhinīharati abhininnāmeti. So evaṁ pajānāti …pe… ettha paṭibaddhanti. Idampissa hoti paññāya.
-
-So evaṁ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese mudubhūte kammaniye ṭhite āneñjappatte manomayaṁ kāyaṁ abhinimmānāya cittaṁ abhinīharati abhininnāmeti. So imamhā kāyā aññaṁ kāyaṁ abhinimmināti rūpiṁ manomayaṁ sabbaṅgapaccaṅgiṁ ahīnindriyaṁ.
-
-Seyyathāpi, māṇava, puriso muñjamhā īsikaṁ pavāheyya. Tassa evamassa: ‘ayaṁ muñjo ayaṁ īsikā; añño muñjo aññā īsikā; muñjamhā tveva īsikā pavāḷhā’ti. Seyyathā vā pana, māṇava, puriso asiṁ kosiyā pavāheyya. Tassa evamassa: ‘ayaṁ asi, ayaṁ kosi; añño asi, aññā kosi; kosiyā tveva asi pavāḷho’ti. Seyyathā vā pana, māṇava, puriso ahiṁ karaṇḍā uddhareyya. Tassa evamassa: ‘ayaṁ ahi, ayaṁ karaṇḍo; añño ahi, añño karaṇḍo; karaṇḍā tveva ahi ubbhato’ti.
-
-Evameva kho, māṇava, bhikkhu …pe… yampi, māṇava, bhikkhu evaṁ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese mudubhūte kammaniye ṭhite āneñjappatte manomayaṁ kāyaṁ abhinimmānāya cittaṁ abhinīharati abhininnāmeti …pe…. Idampissa hoti paññāya.
-
-So evaṁ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese mudubhūte kammaniye ṭhite āneñjappatte iddhividhāya cittaṁ abhinīharati abhininnāmeti. So anekavihitaṁ iddhividhaṁ paccanubhoti—ekopi hutvā bahudhā hoti, bahudhāpi hutvā eko hoti; āvibhāvaṁ tirobhāvaṁ tirokuṭṭaṁ tiropākāraṁ tiropabbataṁ asajjamāno gacchati seyyathāpi ākāse; pathaviyāpi ummujjanimujjaṁ karoti seyyathāpi udake; udakepi abhijjamāne gacchati seyyathāpi pathaviyaṁ; ākāsepi pallaṅkena kamati seyyathāpi pakkhī sakuṇo; imepi candimasūriye evaṁ mahiddhike evaṁ mahānubhāve pāṇinā parāmasati parimajjati; yāva brahmalokāpi kāyena vasaṁ vatteti.
-
-Seyyathāpi, māṇava, dakkho kumbhakāro vā kumbhakārantevāsī vā suparikammakatāya mattikāya yaññadeva bhājanavikatiṁ ākaṅkheyya, taṁ tadeva kareyya abhinipphādeyya. Seyyathā vā pana, māṇava, dakkho dantakāro vā dantakārantevāsī vā suparikammakatasmiṁ dantasmiṁ yaññadeva dantavikatiṁ ākaṅkheyya, taṁ tadeva kareyya abhinipphādeyya. Seyyathā vā pana, māṇava, dakkho suvaṇṇakāro vā suvaṇṇakārantevāsī vā suparikammakatasmiṁ suvaṇṇasmiṁ yaññadeva suvaṇṇavikatiṁ ākaṅkheyya, taṁ tadeva kareyya abhinipphādeyya.
-
-Evameva kho, māṇava, bhikkhu …pe… yampi māṇava bhikkhu evaṁ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese mudubhūte kammaniye ṭhite āneñjappatte iddhividhāya cittaṁ abhinīharati abhininnāmeti. So anekavihitaṁ iddhividhaṁ paccanubhoti—ekopi hutvā bahudhā hoti …pe… yāva brahmalokāpi kāyena vasaṁ vatteti. Idampissa hoti paññāya.
-
-So evaṁ samāhite citte …pe… āneñjappatte dibbāya sotadhātuyā cittaṁ abhinīharati abhininnāmeti So dibbāya sotadhātuyā visuddhāya atikkantamānusikāya ubho sadde suṇāti dibbe ca mānuse ca ye dūre santike ca. Seyyathāpi, māṇava, puriso addhānamaggappaṭipanno. So suṇeyya bherisaddampi mudiṅgasaddampi saṅkhapaṇavadindimasaddampi. Tassa evamassa—bherisaddo itipi mudiṅgasaddo itipi saṅkhapaṇavadindimasaddo itipi.
-
-Evameva kho, māṇava, bhikkhu …pe… yampi, māṇava, bhikkhu evaṁ samāhite citte …pe… āneñjappatte dibbāya sotadhātuyā cittaṁ abhinīharati abhininnāmeti. So dibbāya sotadhātuyā visuddhāya atikkantamānusikāya ubho sadde suṇāti dibbe ca mānuse ca ye dūre santike ca. Idampissa hoti paññāya.
-
-So evaṁ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese mudubhūte kammaniye ṭhite āneñjappatte cetopariyañāṇāya cittaṁ abhinīharati abhininnāmeti. So parasattānaṁ parapuggalānaṁ cetasā ceto paricca pajānāti, sarāgaṁ vā cittaṁ ‘sarāgaṁ cittan’ti pajānāti, vītarāgaṁ vā cittaṁ ‘vītarāgaṁ cittan’ti pajānāti, sadosaṁ vā cittaṁ ‘sadosaṁ cittan’ti pajānāti, vītadosaṁ vā cittaṁ ‘vītadosaṁ cittan’ti pajānāti, samohaṁ vā cittaṁ ‘samohaṁ cittan’ti pajānāti, vītamohaṁ vā cittaṁ ‘vītamohaṁ cittan’ti pajānāti, saṅkhittaṁ vā cittaṁ ‘saṅkhittaṁ cittan’ti pajānāti, vikkhittaṁ vā cittaṁ ‘vikkhittaṁ cittan’ti pajānāti, mahaggataṁ vā cittaṁ ‘mahaggataṁ cittan’ti pajānāti, amahaggataṁ vā cittaṁ ‘amahaggataṁ cittan’ti pajānāti, sauttaraṁ vā cittaṁ ‘sauttaraṁ cittan’ti pajānāti, anuttaraṁ vā cittaṁ ‘anuttaraṁ cittan’ti pajānāti, samāhitaṁ vā cittaṁ ‘samāhitaṁ cittan’ti pajānāti, asamāhitaṁ vā cittaṁ ‘asamāhitaṁ cittan’ti pajānāti, vimuttaṁ vā cittaṁ ‘vimuttaṁ cittan’ti pajānāti, avimuttaṁ vā cittaṁ ‘avimuttaṁ cittan’ti pajānāti.
-
-Seyyathāpi, māṇava, itthī vā puriso vā daharo yuvā maṇḍanajātiko ādāse vā parisuddhe pariyodāte acche vā udakapatte sakaṁ mukhanimittaṁ paccavekkhamāno sakaṇikaṁ vā sakaṇikanti jāneyya, akaṇikaṁ vā akaṇikanti jāneyya.
-
-Evameva kho, māṇava, bhikkhu …pe… yampi, māṇava, bhikkhu evaṁ samāhite …pe… āneñjappatte cetopariyañāṇāya cittaṁ abhinīharati abhininnāmeti. So parasattānaṁ parapuggalānaṁ cetasā ceto paricca pajānāti, sarāgaṁ vā cittaṁ sarāgaṁ cittanti pajānāti …pe… avimuttaṁ vā cittaṁ avimuttaṁ cittanti pajānāti. Idampissa hoti paññāya.
-
-So evaṁ samāhite citte …pe… āneñjappatte pubbenivāsānussatiñāṇāya cittaṁ abhinīharati abhininnāmeti So anekavihitaṁ pubbenivāsaṁ anussarati. Seyyathidaṁ—ekampi jātiṁ dvepi jātiyo tissopi jātiyo catassopi jātiyo pañcapi jātiyo dasapi jātiyo vīsampi jātiyo tiṁsampi jātiyo cattālīsampi jātiyo paññāsampi jātiyo jātisatampi jātisahassampi jātisatasahassampi anekepi saṁvaṭṭakappe anekepi vivaṭṭakappe anekepi saṁvaṭṭavivaṭṭakappe: ‘amutrāsiṁ evaṁnāmo evaṅgotto evaṁvaṇṇo evamāhāro evaṁsukhadukkhappaṭisaṁvedī evamāyupariyanto. So tato cuto amutra udapādiṁ; tatrāpāsiṁ evaṁnāmo evaṅgotto evaṁvaṇṇo evamāhāro evaṁsukhadukkhappaṭisaṁvedī evamāyupariyanto; so tato cuto idhūpapanno’ti. Iti sākāraṁ sauddesaṁ anekavihitaṁ pubbenivāsaṁ anussarati.
-
-Seyyathāpi, māṇava, puriso sakamhā gāmā aññaṁ gāmaṁ gaccheyya; tamhāpi gāmā aññaṁ gāmaṁ gaccheyya; so tamhā gāmā sakaṁyeva gāmaṁ paccāgaccheyya. Tassa evamassa: ‘ahaṁ kho sakamhā gāmā amuṁ gāmaṁ agacchiṁ, tatra evaṁ aṭṭhāsiṁ evaṁ nisīdiṁ evaṁ abhāsiṁ evaṁ tuṇhī ahosiṁ. So tamhāpi gāmā amuṁ gāmaṁ gacchiṁ, tatrāpi evaṁ aṭṭhāsiṁ evaṁ nisīdiṁ evaṁ abhāsiṁ evaṁ tuṇhī ahosiṁ. Somhi tamhā gāmā sakaṁyeva gāmaṁ paccāgato’ti.
-
-Evameva kho, māṇava, bhikkhu …pe… yampi, māṇava, bhikkhu evaṁ samāhite citte …pe… āneñjappatte pubbenivāsānussatiñāṇāya cittaṁ abhinīharati abhininnāmeti. So anekavihitaṁ pubbenivāsaṁ anussarati. Seyyathidaṁ—ekampi jātiṁ …pe… iti sākāraṁ sauddesaṁ anekavihitaṁ pubbenivāsaṁ anussarati. Idampissa hoti paññāya.
-
-So evaṁ samāhite citte …pe… āneñjappatte sattānaṁ cutūpapātañāṇāya cittaṁ abhinīharati abhininnāmeti. So dibbena cakkhunā visuddhena atikkantamānusakena satte passati cavamāne upapajjamāne hīne paṇīte suvaṇṇe dubbaṇṇe sugate duggate, yathākammūpage satte pajānāti: ‘ime vata bhonto sattā kāyaduccaritena samannāgatā vacīduccaritena samannāgatā manoduccaritena samannāgatā ariyānaṁ upavādakā micchādiṭṭhikā micchādiṭṭhikammasamādānā. Te kāyassa bhedā paraṁ maraṇā apāyaṁ duggatiṁ vinipātaṁ nirayaṁ upapannā. Ime vā pana bhonto sattā kāyasucaritena samannāgatā vacīsucaritena samannāgatā manosucaritena samannāgatā ariyānaṁ anupavādakā sammādiṭṭhikā sammādiṭṭhikammasamādānā. Te kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapannā’ti. Iti dibbena cakkhunā visuddhena atikkantamānusakena satte passati cavamāne upapajjamāne hīne paṇīte suvaṇṇe dubbaṇṇe sugate duggate, yathākammūpage satte pajānāti.
-
-Seyyathāpi, māṇava, majjhesiṅghāṭake pāsādo, tattha cakkhumā puriso ṭhito passeyya manusse gehaṁ pavisantepi nikkhamantepi rathikāyapi vīthiṁ sañcarante majjhesiṅghāṭake nisinnepi. Tassa evamassa: ‘ete manussā gehaṁ pavisanti, ete nikkhamanti, ete rathikāya vīthiṁ sañcaranti, ete majjhesiṅghāṭake nisinnā’ti.
-
-Evameva kho, māṇava, bhikkhu …pe… yampi, māṇava, bhikkhu evaṁ samāhite citte …pe… āneñjappatte sattānaṁ cutūpapātañāṇāya cittaṁ abhinīharati abhininnāmeti. So dibbena cakkhunā visuddhena atikkantamānusakena satte passati cavamāne upapajjamāne hīne paṇīte suvaṇṇe dubbaṇṇe sugate duggate, yathākammūpage satte pajānāti. Idampissa hoti paññāya.
-
-So evaṁ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese mudubhūte kammaniye ṭhite āneñjappatte āsavānaṁ khayañāṇāya cittaṁ abhinīharati abhininnāmeti. So idaṁ dukkhanti yathābhūtaṁ pajānāti, ayaṁ dukkhasamudayoti yathābhūtaṁ pajānāti, ayaṁ dukkhanirodhoti yathābhūtaṁ pajānāti, ayaṁ dukkhanirodhagāminī paṭipadāti yathābhūtaṁ pajānāti; ime āsavāti yathābhūtaṁ pajānāti, ayaṁ āsavasamudayoti yathābhūtaṁ pajānāti, ayaṁ āsavanirodhoti yathābhūtaṁ pajānāti, ayaṁ āsavanirodhagāminī paṭipadāti yathābhūtaṁ pajānāti. Tassa evaṁ jānato evaṁ passato kāmāsavāpi cittaṁ vimuccati, bhavāsavāpi cittaṁ vimuccati, avijjāsavāpi cittaṁ vimuccati, vimuttasmiṁ vimuttamiti ñāṇaṁ hoti.
-
-‘Khīṇā jāti, vusitaṁ brahmacariyaṁ, kataṁ karaṇīyaṁ, nāparaṁ itthattāyā’ti pajānāti.
-
-Seyyathāpi, māṇava, pabbatasaṅkhepe udakarahado accho vippasanno anāvilo. Tattha cakkhumā puriso tīre ṭhito passeyya sippisambukampi sakkharakathalampi macchagumbampi carantampi tiṭṭhantampi. Tassa evamassa: ‘ayaṁ kho udakarahado accho vippasanno anāvilo. Tatrime sippisambukāpi sakkharakathalāpi macchagumbāpi carantipi tiṭṭhantipī’ti.
-
-Evameva kho, māṇava, bhikkhu …pe… yampi, māṇava, bhikkhu evaṁ samāhite citte …pe… āneñjappatte āsavānaṁ khayañāṇāya cittaṁ abhinīharati abhininnāmeti. So idaṁ dukkhanti yathābhūtaṁ pajānāti …pe… āsavanirodhagāminī paṭipadāti yathābhūtaṁ pajānāti. Tassa evaṁ jānato evaṁ passato kāmāsavāpi cittaṁ vimuccati, bhavāsavāpi cittaṁ vimuccati, avijjāsavāpi cittaṁ vimuccati, vimuttasmiṁ vimuttamiti ñāṇaṁ hoti, ‘khīṇā jāti, vusitaṁ brahmacariyaṁ, kataṁ karaṇīyaṁ, nāparaṁ itthattāyā’ti pajānāti. Idampissa hoti paññāya.
-
-Ayaṁ kho so, māṇava, ariyo paññākkhandho yassa so bhagavā vaṇṇavādī ahosi, yattha ca imaṁ janataṁ samādapesi nivesesi patiṭṭhāpesi. Natthi cevettha uttarikaraṇīyan”ti.
-
-“Acchariyaṁ, bho ānanda, abbhutaṁ, bho ānanda. So cāyaṁ, bho ānanda, ariyo paññākkhandho paripuṇṇo, no aparipuṇṇo. Evaṁ paripuṇṇañcāhaṁ, bho ānanda, ariyaṁ paññākkhandhaṁ ito bahiddhā aññesu samaṇabrāhmaṇesu na samanupassāmi. Natthi cevettha uttarikaraṇīyaṁ. Abhikkantaṁ, bho ānanda, abhikkantaṁ, bho ānanda. Seyyathāpi, bho ānanda, nikkujjitaṁ vā ukkujjeyya, paṭicchannaṁ vā vivareyya, mūḷhassa vā maggaṁ ācikkheyya, andhakāre vā telapajjotaṁ dhāreyya: ‘cakkhumanto rūpāni dakkhantī’ti; evamevaṁ bhotā ānandena anekapariyāyena dhammo pakāsito. Esāhaṁ, bho ānanda, taṁ bhavantaṁ gotamaṁ saraṇaṁ gacchāmi dhammañca bhikkhusaṅghañca. Upāsakaṁ maṁ bhavaṁ ānando dhāretu ajjatagge pāṇupetaṁ saraṇaṁ gatan”ti.
-
-Subhasuttaṁ niṭṭhitaṁ dasamaṁ.
+#### anumattesu vajjesu bhayadassāvī
+-- anumatta: rất nhỏ, vi tế.
+-- vajja: lỗi lầm, điều đáng trách.
+-- bhayadassāvī: thấy nguy hiểm, thấy đáng sợ.
+→ Người tu chân chính không xem thường lỗi nhỏ, vì lỗi lớn thường bắt đầu từ lỗi nhỏ.
+
+-> thấy sợ hãi ngay cả trong những lỗi nhỏ nhặt,
+
+#### samādāya sikkhati sikkhāpadesu
+-- samādāya: thọ trì, nhận lãnh.
+-- sikkhati: học tập, rèn luyện.
+-- sikkhāpada: các điều học, điều giới.
+→ Giới không phải chỉ để “giữ”, mà còn là một tiến trình huấn luyện bản thân.
+
+-> rèn luyện và học tập theo các điều dạy,
+
+#### kāyakammavacīkammena samannāgato kusalena
+
+kāyakamma: hành động thân.
+vacīkamma: hành động lời nói.
+kusala: thiện, khéo, lành.
+→ Thân và khẩu đều hướng thiện: không làm ác, không nói ác.
+
+->không có ác trong lời nói, hành động
+
+#### parisuddhājīvo
+-- parisuddha: thanh tịnh.
+-- ājīva: sinh kế, cách nuôi sống.
+→ Với người xuất gia là nuôi mạng chân chánh, không dùng thủ đoạn, không sống bằng phương tiện sai lệch.
+
+-> nghề nghiệp chân chính
+
+#### sīlasampanno
+
+sīla: giới hạnh.
+sampanno: đầy đủ, viên mãn.
+→ Nghĩa là có nền tảng đạo đức vững chắc.
+
+-> lỗi sống đạo đức
+#### indriyesu guttadvāro
+
+indriya: các căn (mắt, tai, mũi, lưỡi, thân, ý).
+gutta-dvāra: phòng hộ cửa ngõ.
+→ Khi thấy, nghe, tiếp xúc… thì không để tâm phóng dật chạy theo tham, sân, si.
+
+-> bảo vệ các giác quan
+#### satisampajaññena samannāgato
+-- sati: chánh niệm.
+-- sampajañña: tỉnh giác, biết rõ điều mình đang làm, mục đích gì, có thích hợp không.
+→ Không chỉ nhớ biết, mà còn biết rõ đúng sai, lợi hại, thích hợp hay không trong từng hành động.
+quan sát và nhận biết rõ ràng
+-> người có quan sát và nhận biết rõ ràng một cách đầy đủ
+
+#### santuṭṭho
+Nghĩa là biết đủ, tri túc.
+→ Đây là phẩm chất rất quan trọng: ít ham muốn, không đòi hỏi nhiều, tâm dễ an.
+
+->ít muốn, biết đủ
+
+<!--pg-->
+*Bảng thuật ngữ:*
+
+| Thuật ngữ Pali | Từ cũ (Hán-Việt) | Từ mới (Hiện đại) | Ghi chú |
+| :--- | :--- | :--- | :--- |
+| dhamma | pháp | Điều / Điều dạy / Quy luật | Tùy ngữ cảnh: "những Điều" (dhammānaṁ), "Điều dạy" (dhammaṁ deseti). |
+| khandha | uẩn | Hợp Thành | |
+| sīla | giới | sống đạo đức | |
+| samādhi | định | Định | |
+| paññā | tuệ | trí tuệ | |
+| Tathāgata | Như Lai | Người Đến Như Vậy | |
+| [!] abhiññā | thắng trí | hiểu biết trực tiếp | Sự hiểu biết vượt trội, trực tiếp qua kinh nghiệm thực chứng. |
+| [!] pātimokkha | giới bổn | bộ quy tắc cốt lõi | Tập hợp các quy tắc đạo đức nền tảng của người xuất gia. |
+| indriya | căn | giác quan | |
+| rūpa | sắc | hình ảnh | Trong ngữ cảnh thị giác. |
+| sati | chánh niệm | sự Tự Quan Sát | |
+| sampajāna | tỉnh giác | nhận biết rõ ràng | |
+| [!] santuṭṭha | tri túc | biết đủ | Hài lòng với những gì mình có. |
+| nīvaraṇa | triền cái | sự làm Mờ Yếu | |
+| abhijjhā | ái dục | lòng tham | |
+| byāpāda | sân hận | Ác ý hãm hại | |
+| thīnamiddha | hôn trầm thụy miên | Uể oải, buồn ngủ | |
+| uddhaccakukkucca | trạo cử hối quá | Bồn chồn, hối hận | |
+| vicikicchā | nghi | Nghi ngờ | |
+| pīti | hỷ | hân hoan | |
+| sukha | lạc | hạnh phúc | |
+| jhāna | thiền | Thiền-na | |
+| vitakka | tầm | chủ động hướng sự chú ý | |
+| vicāra | tứ | nỗ lực duy trì sự chú ý | |
+| upekkhā | xả | Tâm bình thản | |
+| ñāṇadassana | tri kiến | thấy rõ bản chất | |
+| viññāṇa | thức | sự Nhận biết | |
+| [!] iddhividha | thần túc / thần thông | các loại sức mạnh tâm linh | Khả năng vượt qua các giới hạn vật lý thông thường. |
+| [!] dibba-sotadhātu | thiên nhĩ giới | yếu tố tai siêu nhiên | Khả năng nghe vượt giới hạn của con người. |
+| [!] cetopariyañāṇa | tha tâm trí | kiến thức thấu hiểu tâm | Khả năng nhận biết trạng thái tâm lý của người khác. |
+| [!] pubbenivāsānussatiñāṇa | túc mạng trí | kiến thức nhớ lại đời sống quá khứ | Khả năng nhớ lại các kiếp sống trước. |
+| [!] cutūpapātañāṇa | sanh tử trí | kiến thức về sự chết và tái sinh | Khả năng nhìn thấy sự luân chuyển của chúng sinh theo nghiệp. |
+| āsava | lậu hoặc | nguồn ác | Bao gồm: kāmāsava (nguồn ác của ham muốn giác quan), bhavāsava (nguồn ác của mong muốn hiện hữu), avijjāsava (nguồn ác của Không Hiểu Biết). |
+| khaya | đoạn tận | cạn sạch | |
+| pajānāti | tuệ tri | thấy rõ | |
+| dukkha | khổ | đau khổ | |
+| samudaya | tập | sự hình thành | |
+| nirodha | diệt | sự chấm dứt | |
+| jāti | sanh | sự Tái sinh | |

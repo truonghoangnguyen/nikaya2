@@ -140,10 +140,10 @@ sống đời phạm hạnh, dưới sự chỉ dạy của Thế Tôn?
 hạnh, dưới sự chỉ dạy của Ta. Này Mahàli, có những pháp khác cao thượng hơn, thù thắng hơn. Vì muốn
 chứng được những pháp ấy, các vị Tỷ-kheo sống đời phạm hạnh, dưới sự chỉ dạy của Ta.
 
+<!--pg-->
 13\. - Bạch Thế Tôn, những pháp ấy, cao thượng hơn, thù thắng hơn là gì mà các vị Tỷ-kheo vì muốn
 chứng được những pháp ấy sống đời phạm hạnh, dưới sự chỉ dạy của Thế Tôn?
 
-<!--pg-->
 − Này Mahàli, ở đây Tỷ-kheo đoạn dứt ba kiết sử, thành bậc Dự lưu, không đọa ác thú, chắc chắn đạt
 quả Bồ-đề. Này Mahàli, pháp này cao thượng và thù thắng hơn, vì muốn chứng được pháp này, các Tỷ-kheo sống phạm hạnh dưới sự chỉ dạy của Ta.
 Lại nữa, này Mahàli, Tỷ-kheo đoạn dứt ba kiết sử làm nhẹ bớt tham, sân, si, thành bậc Nhứt lai, còn phải

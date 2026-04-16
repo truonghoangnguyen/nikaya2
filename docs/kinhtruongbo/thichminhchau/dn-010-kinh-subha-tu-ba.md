@@ -62,7 +62,7 @@ y chỉ mọi người theo pháp ấy?
 7\. - Này thanh niên Bà-la-môn, ở đây Như Lai sanh ra đời, vị A-la-hán. Chánh Ðẳng Giác... như vậy này
 thanh niên Bà-la-môn là Tỷ-kheo đầy đủ giới đức. (Xem kinh Sa-môn quả, đoạn kinh số 40 - 63).
 
-<!--pg-->
+
 8\. - Này thanh niên Bà-la-môn, đó là Thánh giới uẩn Thế Tôn tán thán và Ngài đã khích lệ khuyến đạo,
 y chỉ mọi người theo pháp ấy. Và còn pháp uẩn khác cao thượng hơn cần phải hành trì?
 

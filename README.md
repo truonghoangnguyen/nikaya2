@@ -1,30 +1,31 @@
-# Multilingual Docs (Kinh Nikaya)
+# Tài liệu đa ngôn ngữ (Kinh Nikaya)
 
-**What It Is**
-A VitePress-based documentation site for the Kinh Nikaya collection, focused on side-by-side multilingual comparison of Buddhist texts and related materials.
-It is configured as a static site with content stored as Markdown under `docs/`.
+Một trang tài liệu dựa trên VitePress dành cho bộ sưu tập Kinh Nikaya, tập trung vào việc so sánh song ngữ các văn bản Phật giáo và các tài liệu liên quan. Trang web được cấu hình dưới dạng tệp tĩnh với nội dung được lưu trữ bằng Markdown trong thư mục `docs/`.
 
-**Who It’s For**
-Readers, translators, and researchers who want to compare Buddhist texts across multiple Vietnamese and English translations.
 
-**What It Does**
-- Hosts multiple collections of Buddhist scriptures and related texts in `docs/`.
-- Enables side-by-side comparison pages (e.g., `compare.html`).
-- Builds dynamic navigation from per-collection `meta/filelist` sources.
-- Generates consistent slugs/anchors for headings via a custom slug utility.
-- Copies raw Markdown content into the build output during `vitepress build`.
-- Provides a VitePress dev server for local browsing and iteration.
+### Tính năng chính
+- Lưu trữ nhiều bộ sưu tập kinh điển và văn bản liên quan trong `docs/`.
+- Hỗ trợ các trang so sánh song song (ví dụ: `compare.html`).
+- Xây dựng thanh điều hướng động từ các nguồn `meta/filelist` của từng bộ sưu tập.
+- Tạo slug/anchor nhất quán cho các tiêu đề thông qua một công cụ tiện ích tùy chỉnh.
+- Sao chép nội dung Markdown thô vào đầu ra khi chạy `vitepress build`.
+- Cung cấp máy chủ phát triển VitePress để xem và chỉnh sửa cục bộ.
 
-**How It Works**
-- Content lives as Markdown files under `docs/` with collections such as `kinhtruongbo`, `kinhtrungbo`, `kinhtangchi`, and `kinhtuongung`.
-- VitePress is configured in `docs/.vitepress/config.ts` with custom nav data (`BOOK_NAV`) built from `meta/filelist` modules.
-- A VitePress build plugin scans the source collections and copies Markdown files into the `docs/.vitepress/dist/` output for raw access.
-- Page data is transformed at build time to set titles and next/prev navigation based on the collection path.
-- Not found in repo: external services, APIs, or backend components.
+### Cấu trúc hoạt động
+- Nội dung nằm trong các tệp Markdown dưới thư mục `docs/` với các bộ sưu tập như `kinhtruongbo`, `kinhtrungbo`, `kinhtangchi`, và `kinhtuongung`.
+- VitePress được cấu hình trong `docs/.vitepress/config.ts` với dữ liệu điều hướng tùy chỉnh (`BOOK_NAV`) được xây dựng từ các module `meta/filelist`.
+- Một plugin build của VitePress sẽ quét các bộ sưu tập nguồn và sao chép các tệp Markdown vào thư mục `docs/.vitepress/dist/` để truy cập trực tiếp.
+- Dữ liệu trang được biến đổi tại thời điểm build để thiết lập tiêu đề và điều hướng tiếp theo/trước đó dựa trên đường dẫn bộ sưu tập.
 
-**How To Run**
-- Prerequisites: Node.js (version not found in repo) and `pnpm`.
-- Install dependencies: `pnpm install`.
-- Start the dev server: `pnpm docs:dev`.
-- Build for production: `pnpm docs:build` (optional).
+## Kỹ thuật
+### Tìm kiếm Search
+Thay vì sử dụng bộ tìm kiếm mặc định của VitePress, dự án này sử dụng một hệ thống tìm kiếm tùy chỉnh để tối ưu hóa hiệu suất và phù hợp với cấu trúc dữ liệu đặc thù:
+- **Tạo dữ liệu tìm kiếm**: Script `.scripts/5make-search-file.ipynb` được sử dụng để quét tất cả các file `filelist.js` trong các bộ sưu tập. Nó tổng hợp tiêu đề (`text`) và đường dẫn (`link`) thành một file duy nhất tại `docs/search-items.js`.
+- **Hoạt động**: File `docs/search.md` sử dụng component `SearchPage.vue` và nạp dữ liệu từ `search-items.js` để thực hiện tìm kiếm ở phía client. Điều này giúp việc tìm kiếm cực nhanh và không phụ thuộc vào cấu trúc index phức tạp của các công cụ tìm kiếm mặc định.
+
+### Cách chạy dự án
+- Yêu cầu: Node.js và `pnpm`.
+- Cài đặt thư viện: `pnpm install`.
+- Chạy server phát triển: `pnpm docs:dev`.
+- Build sản phẩm: `pnpm docs:build`.
 
