@@ -1,7 +1,7 @@
 ---
 next:
     text: Mục lục
-    link: /kinhtruongbo/thichminhchau/mucluc.md
+    link: /kinhtruongbo/thichminhchau/meta/mucluc.md
 ---
 # KINH TRƯỜNG BỘ
 ### Dìgha Nikàya “The Long Discourses Of The Buddha”

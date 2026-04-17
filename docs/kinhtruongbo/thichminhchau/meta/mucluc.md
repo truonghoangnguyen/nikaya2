@@ -1,3 +1,9 @@
+---
+next:
+    text: Mục lục
+    link: /kinhtruongbo/thichminhchau/dn-001-kinh-pham-vong
+---
+
 - [1. KINH PHẠM VÕNG](/kinhtruongbo/thichminhchau/dn-001-kinh-pham-vong.md)
 - [2. KINH SA MÔN QỦA](/kinhtruongbo/thichminhchau/dn-002-kinh-sa-mon-qua.md)
 - [3. KINH AMBATTHA (A-MA-TRÚ)](/kinhtruongbo/thichminhchau/dn-003-kinh-ambattha-a-ma-tru.md)

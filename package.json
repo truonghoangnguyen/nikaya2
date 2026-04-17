@@ -7,7 +7,7 @@
   "packageManager": "pnpm@10.18.1",
   "scripts": {
     "dev": "vitepress dev docs",
-    "build": "node --max-old-space-size=4096 node_modules/.bin/vitepress build docs --mpa",
+    "build": "node --max-old-space-size=4096 node_modules/.bin/vitepress build docs",
     "preview": "vitepress preview docs",
     "buildsearch": "vitepress build docs --search",
     "import": "node scripts/import-docs.js",
