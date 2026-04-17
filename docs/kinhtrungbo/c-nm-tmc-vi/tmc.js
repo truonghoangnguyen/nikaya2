@@ -12,7 +12,7 @@ const tmcmnvi = [
         "backlink": false,
         "nextlink": {
           "text": "MN 2. KINH TẤT CẢ CÁC LẬU HOẶC",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc002-kinh-tat-ca-cac-lau-hoac"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-002-kinh-tat-ca-cac-lau-hoac"
         }
       }
     }
@@ -29,11 +29,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 1. KINH PHÁP MÔN CĂN BẢN",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc001-kinh-phap-mon-can-ban"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-001-kinh-phap-mon-can-ban"
         },
         "nextlink": {
           "text": "MN 3. KINH THỪA TỰ PHÁP",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc003-kinh-thua-tu-phap"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-003-kinh-thua-tu-phap"
         }
       }
     }
@@ -50,11 +50,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 2. KINH TẤT CẢ CÁC LẬU HOẶC",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc002-kinh-tat-ca-cac-lau-hoac"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-002-kinh-tat-ca-cac-lau-hoac"
         },
         "nextlink": {
           "text": "MN 4. KINH SỢ HÃI KHIẾP ÐẢM",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc004-kinh-so-hai-khiep-dam"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-004-kinh-so-hai-khiep-dam"
         }
       }
     }
@@ -71,11 +71,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 3. KINH THỪA TỰ PHÁP",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc003-kinh-thua-tu-phap"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-003-kinh-thua-tu-phap"
         },
         "nextlink": {
           "text": "MN 5. KINH KHÔNG UẾ NHIỄM",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc005-kinh-khong-ue-nhiem"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-005-kinh-khong-ue-nhiem"
         }
       }
     }
@@ -92,11 +92,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 4. KINH SỢ HÃI KHIẾP ÐẢM",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc004-kinh-so-hai-khiep-dam"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-004-kinh-so-hai-khiep-dam"
         },
         "nextlink": {
           "text": "MN 6. KINH ƯỚC NGUYỆN",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc006-kinh-uoc-nguyen"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-006-kinh-uoc-nguyen"
         }
       }
     }
@@ -113,11 +113,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 5. KINH KHÔNG UẾ NHIỄM",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc005-kinh-khong-ue-nhiem"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-005-kinh-khong-ue-nhiem"
         },
         "nextlink": {
           "text": "MN 7. KINH VÍ DỤ TẤM VẢI",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc007-kinh-vi-du-tam-vai"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-007-kinh-vi-du-tam-vai"
         }
       }
     }
@@ -134,11 +134,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 6. KINH ƯỚC NGUYỆN",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc006-kinh-uoc-nguyen"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-006-kinh-uoc-nguyen"
         },
         "nextlink": {
           "text": "MN 8. KINH ÐOẠN GIẢM",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc008-kinh-doan-giam"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-008-kinh-doan-giam"
         }
       }
     }
@@ -155,11 +155,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 7. KINH VÍ DỤ TẤM VẢI",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc007-kinh-vi-du-tam-vai"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-007-kinh-vi-du-tam-vai"
         },
         "nextlink": {
           "text": "MN 9. KINH CHÁNH TRI KIẾN",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc009-kinh-chanh-tri-kien"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-009-kinh-chanh-tri-kien"
         }
       }
     }
@@ -176,11 +176,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 8. KINH ÐOẠN GIẢM",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc008-kinh-doan-giam"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-008-kinh-doan-giam"
         },
         "nextlink": {
           "text": "MN 10. KINH NIỆM XỨ",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc010-kinh-niem-xu"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-010-kinh-niem-xu"
         }
       }
     }
@@ -197,11 +197,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 9. KINH CHÁNH TRI KIẾN",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc009-kinh-chanh-tri-kien"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-009-kinh-chanh-tri-kien"
         },
         "nextlink": {
           "text": "MN 11. TIỂU KINH SƯ TỬ HỐNG",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc011-tieu-kinh-su-tu-hong"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-011-tieu-kinh-su-tu-hong"
         }
       }
     }
@@ -218,11 +218,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 10. KINH NIỆM XỨ",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc010-kinh-niem-xu"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-010-kinh-niem-xu"
         },
         "nextlink": {
           "text": "MN 12. ÐẠI KINH SƯ TỬ HỐNG",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc012-dai-kinh-su-tu-hong"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-012-dai-kinh-su-tu-hong"
         }
       }
     }
@@ -239,11 +239,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 11. TIỂU KINH SƯ TỬ HỐNG",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc011-tieu-kinh-su-tu-hong"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-011-tieu-kinh-su-tu-hong"
         },
         "nextlink": {
           "text": "MN 13. ÐẠI KINH KHỔ UẨN",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc013-dai-kinh-kho-uan"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-013-dai-kinh-kho-uan"
         }
       }
     }
@@ -260,11 +260,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 12. ÐẠI KINH SƯ TỬ HỐNG",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc012-dai-kinh-su-tu-hong"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-012-dai-kinh-su-tu-hong"
         },
         "nextlink": {
           "text": "MN 14. TIỂU KINH KHỔ UẨN",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc014-tieu-kinh-kho-uan"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-014-tieu-kinh-kho-uan"
         }
       }
     }
@@ -281,11 +281,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 13. ÐẠI KINH KHỔ UẨN",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc013-dai-kinh-kho-uan"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-013-dai-kinh-kho-uan"
         },
         "nextlink": {
           "text": "MN 15. KINH TƯ LƯỢNG",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc015-kinh-tu-luong"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-015-kinh-tu-luong"
         }
       }
     }
@@ -302,11 +302,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 14. TIỂU KINH KHỔ UẨN",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc014-tieu-kinh-kho-uan"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-014-tieu-kinh-kho-uan"
         },
         "nextlink": {
           "text": "MN 16. KINH TÂM HOANG VU",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc016-kinh-tam-hoang-vu"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-016-kinh-tam-hoang-vu"
         }
       }
     }
@@ -323,11 +323,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 15. KINH TƯ LƯỢNG",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc015-kinh-tu-luong"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-015-kinh-tu-luong"
         },
         "nextlink": {
           "text": "MN 17. KINH KHU RỪNG",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc017-kinh-khu-rung"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-017-kinh-khu-rung"
         }
       }
     }
@@ -344,11 +344,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 16. KINH TÂM HOANG VU",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc016-kinh-tam-hoang-vu"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-016-kinh-tam-hoang-vu"
         },
         "nextlink": {
           "text": "MN 18. KINH MẬT HOÀN",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc018-kinh-mat-hoan"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-018-kinh-mat-hoan"
         }
       }
     }
@@ -365,11 +365,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 17. KINH KHU RỪNG",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc017-kinh-khu-rung"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-017-kinh-khu-rung"
         },
         "nextlink": {
           "text": "MN 19. KINH SONG TẦM",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc019-kinh-song-tam"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-019-kinh-song-tam"
         }
       }
     }
@@ -386,11 +386,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 18. KINH MẬT HOÀN",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc018-kinh-mat-hoan"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-018-kinh-mat-hoan"
         },
         "nextlink": {
           "text": "MN 20. KINH AN TRÚ TẦM",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc020-kinh-an-tru-tam"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-020-kinh-an-tru-tam"
         }
       }
     }
@@ -407,11 +407,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 19. KINH SONG TẦM",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc019-kinh-song-tam"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-019-kinh-song-tam"
         },
         "nextlink": {
           "text": "MN 21. KINH VÍ DỤ CÁI CƯA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc021-kinh-vi-du-cai-cua"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-021-kinh-vi-du-cai-cua"
         }
       }
     }
@@ -428,11 +428,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 20. KINH AN TRÚ TẦM",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc020-kinh-an-tru-tam"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-020-kinh-an-tru-tam"
         },
         "nextlink": {
           "text": "MN 22. KINH VÍ DỤ CON RẮN",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc022-kinh-vi-du-con-ran"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-022-kinh-vi-du-con-ran"
         }
       }
     }
@@ -449,11 +449,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 21. KINH VÍ DỤ CÁI CƯA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc021-kinh-vi-du-cai-cua"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-021-kinh-vi-du-cai-cua"
         },
         "nextlink": {
           "text": "MN 23. KINH GÒ MỐI",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc023-kinh-go-moi"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-023-kinh-go-moi"
         }
       }
     }
@@ -470,11 +470,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 22. KINH VÍ DỤ CON RẮN",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc022-kinh-vi-du-con-ran"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-022-kinh-vi-du-con-ran"
         },
         "nextlink": {
           "text": "MN 24. KINH TRẠM XE",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc024-kinh-tram-xe"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-024-kinh-tram-xe"
         }
       }
     }
@@ -491,11 +491,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 23. KINH GÒ MỐI",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc023-kinh-go-moi"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-023-kinh-go-moi"
         },
         "nextlink": {
           "text": "MN 25. KINH BẪY MỒI",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc025-kinh-bay-moi"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-025-kinh-bay-moi"
         }
       }
     }
@@ -512,11 +512,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 24. KINH TRẠM XE",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc024-kinh-tram-xe"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-024-kinh-tram-xe"
         },
         "nextlink": {
           "text": "MN 26. KINH THÁNH CẦU",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc026-kinh-thanh-cau"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-026-kinh-thanh-cau"
         }
       }
     }
@@ -533,11 +533,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 25. KINH BẪY MỒI",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc025-kinh-bay-moi"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-025-kinh-bay-moi"
         },
         "nextlink": {
           "text": "MN 27. TIỂU KINH DỤ DẤU CHÂN VOI",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc027-tieu-kinh-du-dau-chan-voi"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-027-tieu-kinh-du-dau-chan-voi"
         }
       }
     }
@@ -554,11 +554,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 26. KINH THÁNH CẦU",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc026-kinh-thanh-cau"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-026-kinh-thanh-cau"
         },
         "nextlink": {
           "text": "MN 28. ÐẠI KINH DỤ DẤU CHÂN VOI",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc028-dai-kinh-du-dau-chan-voi"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-028-dai-kinh-du-dau-chan-voi"
         }
       }
     }
@@ -575,11 +575,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 27. TIỂU KINH DỤ DẤU CHÂN VOI",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc027-tieu-kinh-du-dau-chan-voi"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-027-tieu-kinh-du-dau-chan-voi"
         },
         "nextlink": {
           "text": "MN 29. ÐẠI KINH THÍ DỤ LÕI CÂY",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc029-dai-kinh-thi-du-loi-cay"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-029-dai-kinh-thi-du-loi-cay"
         }
       }
     }
@@ -596,11 +596,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 28. ÐẠI KINH DỤ DẤU CHÂN VOI",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc028-dai-kinh-du-dau-chan-voi"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-028-dai-kinh-du-dau-chan-voi"
         },
         "nextlink": {
           "text": "MN 30. TIỂU KINH DỤ LÕI CÂY",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc030-tieu-kinh-du-loi-cay"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-030-tieu-kinh-du-loi-cay"
         }
       }
     }
@@ -617,11 +617,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 29. ÐẠI KINH THÍ DỤ LÕI CÂY",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc029-dai-kinh-thi-du-loi-cay"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-029-dai-kinh-thi-du-loi-cay"
         },
         "nextlink": {
           "text": "MN 31. TIỂU KINH RỪNG SỪNG BÒ",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc031-tieu-kinh-rung-sung-bo"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-031-tieu-kinh-rung-sung-bo"
         }
       }
     }
@@ -638,11 +638,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 30. TIỂU KINH DỤ LÕI CÂY",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc030-tieu-kinh-du-loi-cay"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-030-tieu-kinh-du-loi-cay"
         },
         "nextlink": {
           "text": "MN 32. ÐẠI KINH RỪNG SỪNG BÒ",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc032-dai-kinh-rung-sung-bo"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-032-dai-kinh-rung-sung-bo"
         }
       }
     }
@@ -659,11 +659,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 31. TIỂU KINH RỪNG SỪNG BÒ",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc031-tieu-kinh-rung-sung-bo"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-031-tieu-kinh-rung-sung-bo"
         },
         "nextlink": {
           "text": "MN 33. ÐẠI KINH NGƯỜI CHĂN BÒ",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc033-dai-kinh-nguoi-chan-bo"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-033-dai-kinh-nguoi-chan-bo"
         }
       }
     }
@@ -680,11 +680,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 32. ÐẠI KINH RỪNG SỪNG BÒ",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc032-dai-kinh-rung-sung-bo"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-032-dai-kinh-rung-sung-bo"
         },
         "nextlink": {
           "text": "MN 34. TIỂU KINH NGƯỜI CHĂN BÒ",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc034-tieu-kinh-nguoi-chan-bo"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-034-tieu-kinh-nguoi-chan-bo"
         }
       }
     }
@@ -701,11 +701,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 33. ÐẠI KINH NGƯỜI CHĂN BÒ",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc033-dai-kinh-nguoi-chan-bo"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-033-dai-kinh-nguoi-chan-bo"
         },
         "nextlink": {
           "text": "MN 35. TIỂU KINH SACCAKA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc035-tieu-kinh-saccaka"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-035-tieu-kinh-saccaka"
         }
       }
     }
@@ -722,11 +722,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 34. TIỂU KINH NGƯỜI CHĂN BÒ",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc034-tieu-kinh-nguoi-chan-bo"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-034-tieu-kinh-nguoi-chan-bo"
         },
         "nextlink": {
           "text": "MN 36. ÐẠI KINH SACCAKA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc036-dai-kinh-saccaka"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-036-dai-kinh-saccaka"
         }
       }
     }
@@ -743,11 +743,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 35. TIỂU KINH SACCAKA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc035-tieu-kinh-saccaka"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-035-tieu-kinh-saccaka"
         },
         "nextlink": {
           "text": "MN 37. TIỂU KINH ÐOẠN TẬN ÁI",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc037-tieu-kinh-doan-tan-ai"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-037-tieu-kinh-doan-tan-ai"
         }
       }
     }
@@ -764,11 +764,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 36. ÐẠI KINH SACCAKA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc036-dai-kinh-saccaka"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-036-dai-kinh-saccaka"
         },
         "nextlink": {
           "text": "MN 38. ÐẠI KINH ÐOẠN TẬN ÁI",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc038-dai-kinh-doan-tan-ai"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-038-dai-kinh-doan-tan-ai"
         }
       }
     }
@@ -785,11 +785,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 37. TIỂU KINH ÐOẠN TẬN ÁI",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc037-tieu-kinh-doan-tan-ai"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-037-tieu-kinh-doan-tan-ai"
         },
         "nextlink": {
           "text": "MN 39. ÐẠI KINH XÓM NGỰA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc039-dai-kinh-xom-ngua"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-039-dai-kinh-xom-ngua"
         }
       }
     }
@@ -806,11 +806,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 38. ÐẠI KINH ÐOẠN TẬN ÁI",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc038-dai-kinh-doan-tan-ai"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-038-dai-kinh-doan-tan-ai"
         },
         "nextlink": {
           "text": "MN 40. TIỂU KINH XÓM NGỰA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc040-tieu-kinh-xom-ngua"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-040-tieu-kinh-xom-ngua"
         }
       }
     }
@@ -827,11 +827,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 39. ÐẠI KINH XÓM NGỰA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc039-dai-kinh-xom-ngua"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-039-dai-kinh-xom-ngua"
         },
         "nextlink": {
           "text": "MN 41. KINH SÀLEYYAKA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc041-kinh-saleyyaka"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-041-kinh-saleyyaka"
         }
       }
     }
@@ -848,11 +848,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 40. TIỂU KINH XÓM NGỰA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc040-tieu-kinh-xom-ngua"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-040-tieu-kinh-xom-ngua"
         },
         "nextlink": {
           "text": "MN 42. KINH VERANJAKA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc042-kinh-veranjaka"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-042-kinh-veranjaka"
         }
       }
     }
@@ -869,11 +869,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 41. KINH SÀLEYYAKA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc041-kinh-saleyyaka"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-041-kinh-saleyyaka"
         },
         "nextlink": {
           "text": "MN 43. ÐẠI KINH PHƯƠNG QUẢNG",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc043-dai-kinh-phuong-quang"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-043-dai-kinh-phuong-quang"
         }
       }
     }
@@ -890,11 +890,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 42. KINH VERANJAKA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc042-kinh-veranjaka"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-042-kinh-veranjaka"
         },
         "nextlink": {
           "text": "MN 44. TIỂU KINH PHƯƠNG QUẢNG",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc044-tieu-kinh-phuong-quang"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-044-tieu-kinh-phuong-quang"
         }
       }
     }
@@ -911,11 +911,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 43. ÐẠI KINH PHƯƠNG QUẢNG",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc043-dai-kinh-phuong-quang"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-043-dai-kinh-phuong-quang"
         },
         "nextlink": {
           "text": "MN 45. TIỂU KINH PHÁP HÀNH",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc045-tieu-kinh-phap-hanh"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-045-tieu-kinh-phap-hanh"
         }
       }
     }
@@ -932,11 +932,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 44. TIỂU KINH PHƯƠNG QUẢNG",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc044-tieu-kinh-phuong-quang"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-044-tieu-kinh-phuong-quang"
         },
         "nextlink": {
           "text": "MN 46. ÐẠI KINH PHÁP HÀNH",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc046-dai-kinh-phap-hanh"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-046-dai-kinh-phap-hanh"
         }
       }
     }
@@ -953,11 +953,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 45. TIỂU KINH PHÁP HÀNH",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc045-tieu-kinh-phap-hanh"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-045-tieu-kinh-phap-hanh"
         },
         "nextlink": {
           "text": "MN 47. KINH TƯ SÁT",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc047-kinh-tu-sat"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-047-kinh-tu-sat"
         }
       }
     }
@@ -974,11 +974,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 46. ÐẠI KINH PHÁP HÀNH",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc046-dai-kinh-phap-hanh"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-046-dai-kinh-phap-hanh"
         },
         "nextlink": {
           "text": "MN 48. KINH KOSAMBIYA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc048-kinh-kosambiya"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-048-kinh-kosambiya"
         }
       }
     }
@@ -995,11 +995,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 47. KINH TƯ SÁT",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc047-kinh-tu-sat"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-047-kinh-tu-sat"
         },
         "nextlink": {
           "text": "MN 49. KINH PHẠM THIÊN CẦU THỈNH",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc049-kinh-pham-thien-cau-thinh"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-049-kinh-pham-thien-cau-thinh"
         }
       }
     }
@@ -1016,11 +1016,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 48. KINH KOSAMBIYA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc048-kinh-kosambiya"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-048-kinh-kosambiya"
         },
         "nextlink": {
           "text": "MN 50. KINH HÀNG MA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc050-kinh-hang-ma"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-050-kinh-hang-ma"
         }
       }
     }
@@ -1037,11 +1037,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 49. KINH PHẠM THIÊN CẦU THỈNH",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc049-kinh-pham-thien-cau-thinh"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-049-kinh-pham-thien-cau-thinh"
         },
         "nextlink": {
           "text": "MN 51. KINH KANDARAKA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc051-kinh-kandaraka"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-051-kinh-kandaraka"
         }
       }
     }
@@ -1058,11 +1058,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 50. KINH HÀNG MA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc050-kinh-hang-ma"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-050-kinh-hang-ma"
         },
         "nextlink": {
           "text": "MN 52. KINH BÁT THÀNH",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc052-kinh-bat-thanh"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-052-kinh-bat-thanh"
         }
       }
     }
@@ -1079,11 +1079,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 51. KINH KANDARAKA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc051-kinh-kandaraka"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-051-kinh-kandaraka"
         },
         "nextlink": {
           "text": "MN 53. KINH HỮU HỌC",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc053-kinh-huu-hoc"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-053-kinh-huu-hoc"
         }
       }
     }
@@ -1100,11 +1100,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 52. KINH BÁT THÀNH",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc052-kinh-bat-thanh"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-052-kinh-bat-thanh"
         },
         "nextlink": {
           "text": "MN 54. KINH POTALIYA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc054-kinh-potaliya"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-054-kinh-potaliya"
         }
       }
     }
@@ -1121,11 +1121,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 53. KINH HỮU HỌC",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc053-kinh-huu-hoc"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-053-kinh-huu-hoc"
         },
         "nextlink": {
           "text": "MN 55. KINH JÌVAKA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc055-kinh-jivaka"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-055-kinh-jivaka"
         }
       }
     }
@@ -1142,11 +1142,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 54. KINH POTALIYA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc054-kinh-potaliya"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-054-kinh-potaliya"
         },
         "nextlink": {
           "text": "MN 56. KINH ƯU-BA-LY",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc056-kinh-uu-ba-ly"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-056-kinh-uu-ba-ly"
         }
       }
     }
@@ -1163,11 +1163,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 55. KINH JÌVAKA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc055-kinh-jivaka"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-055-kinh-jivaka"
         },
         "nextlink": {
           "text": "MN 57. KINH HẠNH CON CHÓ",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc057-kinh-hanh-con-cho"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-057-kinh-hanh-con-cho"
         }
       }
     }
@@ -1184,11 +1184,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 56. KINH ƯU-BA-LY",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc056-kinh-uu-ba-ly"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-056-kinh-uu-ba-ly"
         },
         "nextlink": {
           "text": "MN 58. KINH VƯƠNG TỬ VÔ ÚY",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc058-kinh-vuong-tu-vo-uy"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-058-kinh-vuong-tu-vo-uy"
         }
       }
     }
@@ -1205,11 +1205,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 57. KINH HẠNH CON CHÓ",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc057-kinh-hanh-con-cho"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-057-kinh-hanh-con-cho"
         },
         "nextlink": {
           "text": "MN 59. KINH NHIỀU CẢM THỌ",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc059-kinh-nhieu-cam-tho"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-059-kinh-nhieu-cam-tho"
         }
       }
     }
@@ -1226,11 +1226,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 58. KINH VƯƠNG TỬ VÔ ÚY",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc058-kinh-vuong-tu-vo-uy"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-058-kinh-vuong-tu-vo-uy"
         },
         "nextlink": {
           "text": "MN 60. KINH KHÔNG GÌ CHUYỂN HƯỚNG",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc060-kinh-khong-gi-chuyen-huong"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-060-kinh-khong-gi-chuyen-huong"
         }
       }
     }
@@ -1247,11 +1247,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 59. KINH NHIỀU CẢM THỌ",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc059-kinh-nhieu-cam-tho"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-059-kinh-nhieu-cam-tho"
         },
         "nextlink": {
           "text": "MN 61. KINH GIÁO GIỚI LA-HẦU-LA Ở RỪNG AMBALA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc061-kinh-giao-gioi-la-hau-la-o-rung-ambala"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-061-kinh-giao-gioi-la-hau-la-o-rung-ambala"
         }
       }
     }
@@ -1268,11 +1268,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 60. KINH KHÔNG GÌ CHUYỂN HƯỚNG",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc060-kinh-khong-gi-chuyen-huong"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-060-kinh-khong-gi-chuyen-huong"
         },
         "nextlink": {
           "text": "MN 62. ÐẠI KINH GIÁO GIỚI LA-HẦU-LA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc062-dai-kinh-giao-gioi-la-hau-la"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-062-dai-kinh-giao-gioi-la-hau-la"
         }
       }
     }
@@ -1289,11 +1289,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 61. KINH GIÁO GIỚI LA-HẦU-LA Ở RỪNG AMBALA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc061-kinh-giao-gioi-la-hau-la-o-rung-ambala"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-061-kinh-giao-gioi-la-hau-la-o-rung-ambala"
         },
         "nextlink": {
           "text": "MN 63. TIỂU KINH MÀLUNKYÀ",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc063-tieu-kinh-malunkya"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-063-tieu-kinh-malunkya"
         }
       }
     }
@@ -1310,11 +1310,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 62. ÐẠI KINH GIÁO GIỚI LA-HẦU-LA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc062-dai-kinh-giao-gioi-la-hau-la"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-062-dai-kinh-giao-gioi-la-hau-la"
         },
         "nextlink": {
           "text": "MN 64. ÐẠI KINH MÀLUNKYA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc064-dai-kinh-malunkya"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-064-dai-kinh-malunkya"
         }
       }
     }
@@ -1331,11 +1331,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 63. TIỂU KINH MÀLUNKYÀ",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc063-tieu-kinh-malunkya"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-063-tieu-kinh-malunkya"
         },
         "nextlink": {
           "text": "MN 65. KINH BHADDÀLI",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc065-kinh-bhaddali"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-065-kinh-bhaddali"
         }
       }
     }
@@ -1352,11 +1352,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 64. ÐẠI KINH MÀLUNKYA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc064-dai-kinh-malunkya"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-064-dai-kinh-malunkya"
         },
         "nextlink": {
           "text": "MN 66. KINH VÍ DỤ CON CHIM CÁY",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc066-kinh-vi-du-con-chim-cay"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-066-kinh-vi-du-con-chim-cay"
         }
       }
     }
@@ -1373,11 +1373,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 65. KINH BHADDÀLI",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc065-kinh-bhaddali"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-065-kinh-bhaddali"
         },
         "nextlink": {
           "text": "MN 67. KINH CÀTUMÀ",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc067-kinh-catuma"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-067-kinh-catuma"
         }
       }
     }
@@ -1394,11 +1394,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 66. KINH VÍ DỤ CON CHIM CÁY",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc066-kinh-vi-du-con-chim-cay"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-066-kinh-vi-du-con-chim-cay"
         },
         "nextlink": {
           "text": "MN 68. KINH NALAKAPÀNA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc068-kinh-nalakapana"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-068-kinh-nalakapana"
         }
       }
     }
@@ -1415,11 +1415,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 67. KINH CÀTUMÀ",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc067-kinh-catuma"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-067-kinh-catuma"
         },
         "nextlink": {
           "text": "MN 69. KINH GULISÀNI",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc069-kinh-gulisani"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-069-kinh-gulisani"
         }
       }
     }
@@ -1436,11 +1436,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 68. KINH NALAKAPÀNA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc068-kinh-nalakapana"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-068-kinh-nalakapana"
         },
         "nextlink": {
           "text": "MN 70. KINH KÌTÀGIRI",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc070-kinh-kitagiri"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-070-kinh-kitagiri"
         }
       }
     }
@@ -1457,11 +1457,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 69. KINH GULISÀNI",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc069-kinh-gulisani"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-069-kinh-gulisani"
         },
         "nextlink": {
           "text": "MN 71. KINH DẠY VACCHAGOTTA VỀ TAM MINH",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc071-kinh-day-vacchagotta-ve-tam-minh"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-071-kinh-day-vacchagotta-ve-tam-minh"
         }
       }
     }
@@ -1478,11 +1478,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 70. KINH KÌTÀGIRI",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc070-kinh-kitagiri"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-070-kinh-kitagiri"
         },
         "nextlink": {
           "text": "MN 72. KINH DẠY VACCHAGOTTA VỀ LỬA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc072-kinh-day-vacchagotta-ve-lua"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-072-kinh-day-vacchagotta-ve-lua"
         }
       }
     }
@@ -1499,11 +1499,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 71. KINH DẠY VACCHAGOTTA VỀ TAM MINH",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc071-kinh-day-vacchagotta-ve-tam-minh"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-071-kinh-day-vacchagotta-ve-tam-minh"
         },
         "nextlink": {
           "text": "MN 73. ÐẠI KINH VACCHAGHOTTA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc073-dai-kinh-vacchaghotta"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-073-dai-kinh-vacchaghotta"
         }
       }
     }
@@ -1520,11 +1520,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 72. KINH DẠY VACCHAGOTTA VỀ LỬA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc072-kinh-day-vacchagotta-ve-lua"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-072-kinh-day-vacchagotta-ve-lua"
         },
         "nextlink": {
           "text": "MN 74. KINH TRƯỜNG TRẢO",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc074-kinh-truong-trao"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-074-kinh-truong-trao"
         }
       }
     }
@@ -1541,11 +1541,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 73. ÐẠI KINH VACCHAGHOTTA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc073-dai-kinh-vacchaghotta"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-073-dai-kinh-vacchaghotta"
         },
         "nextlink": {
           "text": "MN 75. KINH MÀGANDIYA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc075-kinh-magandiya"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-075-kinh-magandiya"
         }
       }
     }
@@ -1562,11 +1562,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 74. KINH TRƯỜNG TRẢO",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc074-kinh-truong-trao"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-074-kinh-truong-trao"
         },
         "nextlink": {
           "text": "MN 76. KINH SANDAKA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc076-kinh-sandaka"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-076-kinh-sandaka"
         }
       }
     }
@@ -1583,11 +1583,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 75. KINH MÀGANDIYA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc075-kinh-magandiya"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-075-kinh-magandiya"
         },
         "nextlink": {
           "text": "MN 77. ÐẠI KINH SAKULUDÀYI",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc077-dai-kinh-sakuludayi"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-077-dai-kinh-sakuludayi"
         }
       }
     }
@@ -1604,11 +1604,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 76. KINH SANDAKA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc076-kinh-sandaka"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-076-kinh-sandaka"
         },
         "nextlink": {
           "text": "MN 78. KINH SAMANAMANDIKÀ",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc078-kinh-samanamandika"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-078-kinh-samanamandika"
         }
       }
     }
@@ -1625,11 +1625,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 77. ÐẠI KINH SAKULUDÀYI",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc077-dai-kinh-sakuludayi"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-077-dai-kinh-sakuludayi"
         },
         "nextlink": {
           "text": "MN 79. TIỂU KINH SAKULUDAYI (THIỆN SANH ƯU ÐÀ DI)",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc079-tieu-kinh-sakuludayi-thien-sanh-uu-da-di"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-079-tieu-kinh-sakuludayi-thien-sanh-uu-da-di"
         }
       }
     }
@@ -1646,11 +1646,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 78. KINH SAMANAMANDIKÀ",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc078-kinh-samanamandika"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-078-kinh-samanamandika"
         },
         "nextlink": {
           "text": "MN 80. KINH VEKHANASSA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc080-kinh-vekhanassa"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-080-kinh-vekhanassa"
         }
       }
     }
@@ -1667,11 +1667,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 79. TIỂU KINH SAKULUDAYI (THIỆN SANH ƯU ÐÀ DI)",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc079-tieu-kinh-sakuludayi-thien-sanh-uu-da-di"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-079-tieu-kinh-sakuludayi-thien-sanh-uu-da-di"
         },
         "nextlink": {
           "text": "MN 81. KINH GHATÌKÀRA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc081-kinh-ghatikara"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-081-kinh-ghatikara"
         }
       }
     }
@@ -1688,11 +1688,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 80. KINH VEKHANASSA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc080-kinh-vekhanassa"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-080-kinh-vekhanassa"
         },
         "nextlink": {
           "text": "MN 82. KINH RATTHAPÀLA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc082-kinh-ratthapala"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-082-kinh-ratthapala"
         }
       }
     }
@@ -1709,11 +1709,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 81. KINH GHATÌKÀRA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc081-kinh-ghatikara"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-081-kinh-ghatikara"
         },
         "nextlink": {
           "text": "MN 83. KINH MAKHÀDEVA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc083-kinh-makhadeva"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-083-kinh-makhadeva"
         }
       }
     }
@@ -1730,11 +1730,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 82. KINH RATTHAPÀLA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc082-kinh-ratthapala"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-082-kinh-ratthapala"
         },
         "nextlink": {
           "text": "MN 84. KINH MADHURÀ",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc084-kinh-madhura"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-084-kinh-madhura"
         }
       }
     }
@@ -1751,11 +1751,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 83. KINH MAKHÀDEVA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc083-kinh-makhadeva"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-083-kinh-makhadeva"
         },
         "nextlink": {
           "text": "MN 85. KINH VƯƠNG TỬ BỒ ÐỀ",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc085-kinh-vuong-tu-bo-de"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-085-kinh-vuong-tu-bo-de"
         }
       }
     }
@@ -1772,11 +1772,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 84. KINH MADHURÀ",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc084-kinh-madhura"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-084-kinh-madhura"
         },
         "nextlink": {
           "text": "MN 86. KINH ANGULIMÀLA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc086-kinh-angulimala"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-086-kinh-angulimala"
         }
       }
     }
@@ -1793,11 +1793,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 85. KINH VƯƠNG TỬ BỒ ÐỀ",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc085-kinh-vuong-tu-bo-de"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-085-kinh-vuong-tu-bo-de"
         },
         "nextlink": {
           "text": "MN 87. KINH ÁI SANH",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc087-kinh-ai-sanh"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-087-kinh-ai-sanh"
         }
       }
     }
@@ -1814,11 +1814,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 86. KINH ANGULIMÀLA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc086-kinh-angulimala"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-086-kinh-angulimala"
         },
         "nextlink": {
           "text": "MN 88. KINH BÀHITIKA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc088-kinh-bahitika"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-088-kinh-bahitika"
         }
       }
     }
@@ -1835,11 +1835,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 87. KINH ÁI SANH",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc087-kinh-ai-sanh"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-087-kinh-ai-sanh"
         },
         "nextlink": {
           "text": "MN 89. KINH PHÁP TRANG NGHIÊM",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc089-kinh-phap-trang-nghiem"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-089-kinh-phap-trang-nghiem"
         }
       }
     }
@@ -1856,11 +1856,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 88. KINH BÀHITIKA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc088-kinh-bahitika"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-088-kinh-bahitika"
         },
         "nextlink": {
           "text": "MN 90. KINH KANNAKATTHALA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc090-kinh-kannakatthala"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-090-kinh-kannakatthala"
         }
       }
     }
@@ -1877,11 +1877,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 89. KINH PHÁP TRANG NGHIÊM",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc089-kinh-phap-trang-nghiem"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-089-kinh-phap-trang-nghiem"
         },
         "nextlink": {
           "text": "MN 91. KINH BRAHMÀYU",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc091-kinh-brahmayu"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-091-kinh-brahmayu"
         }
       }
     }
@@ -1898,11 +1898,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 90. KINH KANNAKATTHALA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc090-kinh-kannakatthala"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-090-kinh-kannakatthala"
         },
         "nextlink": {
           "text": "MN 92. KINH SELA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc092-kinh-sela"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-092-kinh-sela"
         }
       }
     }
@@ -1919,11 +1919,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 91. KINH BRAHMÀYU",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc091-kinh-brahmayu"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-091-kinh-brahmayu"
         },
         "nextlink": {
           "text": "MN 93. KINH ASSALÀYANA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc093-kinh-assalayana"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-093-kinh-assalayana"
         }
       }
     }
@@ -1940,11 +1940,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 92. KINH SELA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc092-kinh-sela"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-092-kinh-sela"
         },
         "nextlink": {
           "text": "MN 94. KINH GHOTAMUKHA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc094-kinh-ghotamukha"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-094-kinh-ghotamukha"
         }
       }
     }
@@ -1961,11 +1961,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 93. KINH ASSALÀYANA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc093-kinh-assalayana"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-093-kinh-assalayana"
         },
         "nextlink": {
           "text": "MN 95. KINH CANKÌ",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc095-kinh-canki"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-095-kinh-canki"
         }
       }
     }
@@ -1982,11 +1982,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 94. KINH GHOTAMUKHA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc094-kinh-ghotamukha"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-094-kinh-ghotamukha"
         },
         "nextlink": {
           "text": "MN 96. KINH ESUKÀRI",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc096-kinh-esukari"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-096-kinh-esukari"
         }
       }
     }
@@ -2003,11 +2003,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 95. KINH CANKÌ",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc095-kinh-canki"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-095-kinh-canki"
         },
         "nextlink": {
           "text": "MN 97. KINH DHÀNANJÀNI",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc097-kinh-dhananjani"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-097-kinh-dhananjani"
         }
       }
     }
@@ -2024,11 +2024,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 96. KINH ESUKÀRI",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc096-kinh-esukari"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-096-kinh-esukari"
         },
         "nextlink": {
           "text": "MN 98. KINH VÀSETTHA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc098-kinh-vasettha"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-098-kinh-vasettha"
         }
       }
     }
@@ -2045,11 +2045,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 97. KINH DHÀNANJÀNI",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc097-kinh-dhananjani"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-097-kinh-dhananjani"
         },
         "nextlink": {
           "text": "MN 99. KINH SUBHA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc099-kinh-subha"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-099-kinh-subha"
         }
       }
     }
@@ -2066,11 +2066,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 98. KINH VÀSETTHA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc098-kinh-vasettha"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-098-kinh-vasettha"
         },
         "nextlink": {
           "text": "MN 100. KINH SANGÀRAVA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc100-kinh-sangarava"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-100-kinh-sangarava"
         }
       }
     }
@@ -2087,11 +2087,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 99. KINH SUBHA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc099-kinh-subha"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-099-kinh-subha"
         },
         "nextlink": {
           "text": "MN 101. KINH DEVADAHA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc101-kinh-devadaha"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-101-kinh-devadaha"
         }
       }
     }
@@ -2108,11 +2108,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 100. KINH SANGÀRAVA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc100-kinh-sangarava"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-100-kinh-sangarava"
         },
         "nextlink": {
           "text": "MN 102. KINH NĂM & BA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc102-kinh-nam-ba"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-102-kinh-nam-ba"
         }
       }
     }
@@ -2129,11 +2129,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 101. KINH DEVADAHA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc101-kinh-devadaha"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-101-kinh-devadaha"
         },
         "nextlink": {
           "text": "MN 103. KINH NGHĨ NHƯ THẾ NÀO?",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc103-kinh-nghi-nhu-the-nao"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-103-kinh-nghi-nhu-the-nao"
         }
       }
     }
@@ -2150,11 +2150,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 102. KINH NĂM & BA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc102-kinh-nam-ba"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-102-kinh-nam-ba"
         },
         "nextlink": {
           "text": "MN 104. KINH LÀNG SAMA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc104-kinh-lang-sama"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-104-kinh-lang-sama"
         }
       }
     }
@@ -2171,11 +2171,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 103. KINH NGHĨ NHƯ THẾ NÀO?",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc103-kinh-nghi-nhu-the-nao"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-103-kinh-nghi-nhu-the-nao"
         },
         "nextlink": {
           "text": "MN 105. KINH THIỆN TINH",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc105-kinh-thien-tinh"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-105-kinh-thien-tinh"
         }
       }
     }
@@ -2192,11 +2192,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 104. KINH LÀNG SAMA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc104-kinh-lang-sama"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-104-kinh-lang-sama"
         },
         "nextlink": {
           "text": "MN 106. KINH BẤT ÐỘNG LỢI ÍCH",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc106-kinh-bat-dong-loi-ich"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-106-kinh-bat-dong-loi-ich"
         }
       }
     }
@@ -2213,11 +2213,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 105. KINH THIỆN TINH",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc105-kinh-thien-tinh"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-105-kinh-thien-tinh"
         },
         "nextlink": {
           "text": "MN 107. KINH GANAKA MOGGALLÀNA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc107-kinh-ganaka-moggallana"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-107-kinh-ganaka-moggallana"
         }
       }
     }
@@ -2234,11 +2234,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 106. KINH BẤT ÐỘNG LỢI ÍCH",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc106-kinh-bat-dong-loi-ich"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-106-kinh-bat-dong-loi-ich"
         },
         "nextlink": {
           "text": "MN 108. KINH GOPAKA MOGGALLÀNA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc108-kinh-gopaka-moggallana"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-108-kinh-gopaka-moggallana"
         }
       }
     }
@@ -2255,11 +2255,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 107. KINH GANAKA MOGGALLÀNA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc107-kinh-ganaka-moggallana"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-107-kinh-ganaka-moggallana"
         },
         "nextlink": {
           "text": "MN 109. ÐẠI KINH MÃN NGUYỆT",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc109-dai-kinh-man-nguyet"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-109-dai-kinh-man-nguyet"
         }
       }
     }
@@ -2276,11 +2276,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 108. KINH GOPAKA MOGGALLÀNA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc108-kinh-gopaka-moggallana"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-108-kinh-gopaka-moggallana"
         },
         "nextlink": {
           "text": "MN 110. TIỂU KINH MÃN NGUYỆT",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc110-tieu-kinh-man-nguyet"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-110-tieu-kinh-man-nguyet"
         }
       }
     }
@@ -2297,11 +2297,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 109. ÐẠI KINH MÃN NGUYỆT",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc109-dai-kinh-man-nguyet"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-109-dai-kinh-man-nguyet"
         },
         "nextlink": {
           "text": "MN 111. KINH BẤT ÐOẠN",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc111-kinh-bat-doan"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-111-kinh-bat-doan"
         }
       }
     }
@@ -2318,11 +2318,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 110. TIỂU KINH MÃN NGUYỆT",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc110-tieu-kinh-man-nguyet"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-110-tieu-kinh-man-nguyet"
         },
         "nextlink": {
           "text": "MN 112. KINH SÁU THANH TỊNH",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc112-kinh-sau-thanh-tinh"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-112-kinh-sau-thanh-tinh"
         }
       }
     }
@@ -2339,11 +2339,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 111. KINH BẤT ÐOẠN",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc111-kinh-bat-doan"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-111-kinh-bat-doan"
         },
         "nextlink": {
           "text": "MN 113. KINH CHÂN NHÂN",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc113-kinh-chan-nhan"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-113-kinh-chan-nhan"
         }
       }
     }
@@ -2360,11 +2360,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 112. KINH SÁU THANH TỊNH",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc112-kinh-sau-thanh-tinh"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-112-kinh-sau-thanh-tinh"
         },
         "nextlink": {
           "text": "MN 114. KINH NÊN HÀNH TRÌ, KHÔNG NÊN HÀNH TRÌ",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc114-kinh-nen-hanh-tri-khong-nen-hanh-tri"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-114-kinh-nen-hanh-tri-khong-nen-hanh-tri"
         }
       }
     }
@@ -2381,11 +2381,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 113. KINH CHÂN NHÂN",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc113-kinh-chan-nhan"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-113-kinh-chan-nhan"
         },
         "nextlink": {
           "text": "MN 115. KINH ÐA GIỚI",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc115-kinh-da-gioi"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-115-kinh-da-gioi"
         }
       }
     }
@@ -2402,11 +2402,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 114. KINH NÊN HÀNH TRÌ, KHÔNG NÊN HÀNH TRÌ",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc114-kinh-nen-hanh-tri-khong-nen-hanh-tri"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-114-kinh-nen-hanh-tri-khong-nen-hanh-tri"
         },
         "nextlink": {
           "text": "MN 116. KINH THÔN TIÊN",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc116-kinh-thon-tien"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-116-kinh-thon-tien"
         }
       }
     }
@@ -2423,11 +2423,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 115. KINH ÐA GIỚI",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc115-kinh-da-gioi"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-115-kinh-da-gioi"
         },
         "nextlink": {
           "text": "MN 117. ÐẠI KINH BỐN MƯƠI",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc117-dai-kinh-bon-muoi"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-117-dai-kinh-bon-muoi"
         }
       }
     }
@@ -2444,11 +2444,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 116. KINH THÔN TIÊN",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc116-kinh-thon-tien"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-116-kinh-thon-tien"
         },
         "nextlink": {
           "text": "MN 118. KINH NHẬP TỨC, XUẤT TỨC NIỆM",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc118-kinh-nhap-tuc-xuat-tuc-niem"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-118-kinh-nhap-tuc-xuat-tuc-niem"
         }
       }
     }
@@ -2465,11 +2465,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 117. ÐẠI KINH BỐN MƯƠI",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc117-dai-kinh-bon-muoi"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-117-dai-kinh-bon-muoi"
         },
         "nextlink": {
           "text": "MN 119. KINH THÂN HÀNH NIỆM",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc119-kinh-than-hanh-niem"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-119-kinh-than-hanh-niem"
         }
       }
     }
@@ -2486,11 +2486,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 118. KINH NHẬP TỨC, XUẤT TỨC NIỆM",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc118-kinh-nhap-tuc-xuat-tuc-niem"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-118-kinh-nhap-tuc-xuat-tuc-niem"
         },
         "nextlink": {
           "text": "MN 120. KINH HÀNH SANH",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc120-kinh-hanh-sanh"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-120-kinh-hanh-sanh"
         }
       }
     }
@@ -2507,11 +2507,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 119. KINH THÂN HÀNH NIỆM",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc119-kinh-than-hanh-niem"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-119-kinh-than-hanh-niem"
         },
         "nextlink": {
           "text": "MN 121. KINH TIỂU KHÔNG",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc121-kinh-tieu-khong"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-121-kinh-tieu-khong"
         }
       }
     }
@@ -2528,11 +2528,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 120. KINH HÀNH SANH",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc120-kinh-hanh-sanh"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-120-kinh-hanh-sanh"
         },
         "nextlink": {
           "text": "MN 122. KINH ÐẠI THÔNG",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc122-kinh-dai-thong"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-122-kinh-dai-thong"
         }
       }
     }
@@ -2549,11 +2549,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 121. KINH TIỂU KHÔNG",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc121-kinh-tieu-khong"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-121-kinh-tieu-khong"
         },
         "nextlink": {
           "text": "MN 123. KINH HY HỮU VỊ TẰNG HỮU PHÁP",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc123-kinh-hy-huu-vi-tang-huu-phap"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-123-kinh-hy-huu-vi-tang-huu-phap"
         }
       }
     }
@@ -2570,11 +2570,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 122. KINH ÐẠI THÔNG",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc122-kinh-dai-thong"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-122-kinh-dai-thong"
         },
         "nextlink": {
           "text": "MN 124. KINH BẠC-CÂU-LA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc124-kinh-bac-cau-la"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-124-kinh-bac-cau-la"
         }
       }
     }
@@ -2591,11 +2591,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 123. KINH HY HỮU VỊ TẰNG HỮU PHÁP",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc123-kinh-hy-huu-vi-tang-huu-phap"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-123-kinh-hy-huu-vi-tang-huu-phap"
         },
         "nextlink": {
           "text": "MN 125. KINH ÐIỂU NGỰ ÐỊA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc125-kinh-dieu-ngu-dia"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-125-kinh-dieu-ngu-dia"
         }
       }
     }
@@ -2612,11 +2612,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 124. KINH BẠC-CÂU-LA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc124-kinh-bac-cau-la"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-124-kinh-bac-cau-la"
         },
         "nextlink": {
           "text": "MN 126. KINH PHÙ-DI",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc126-kinh-phu-di"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-126-kinh-phu-di"
         }
       }
     }
@@ -2633,11 +2633,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 125. KINH ÐIỂU NGỰ ÐỊA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc125-kinh-dieu-ngu-dia"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-125-kinh-dieu-ngu-dia"
         },
         "nextlink": {
           "text": "MN 127. KINH A-NA-LUẬT",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc127-kinh-a-na-luat"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-127-kinh-a-na-luat"
         }
       }
     }
@@ -2654,11 +2654,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 126. KINH PHÙ-DI",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc126-kinh-phu-di"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-126-kinh-phu-di"
         },
         "nextlink": {
           "text": "MN 128. KINH TÙY PHIỀN NÃO",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc128-kinh-tuy-phien-nao"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-128-kinh-tuy-phien-nao"
         }
       }
     }
@@ -2675,11 +2675,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 127. KINH A-NA-LUẬT",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc127-kinh-a-na-luat"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-127-kinh-a-na-luat"
         },
         "nextlink": {
           "text": "MN 129. KINH HIỀN NGU",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc129-kinh-hien-ngu"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-129-kinh-hien-ngu"
         }
       }
     }
@@ -2696,11 +2696,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 128. KINH TÙY PHIỀN NÃO",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc128-kinh-tuy-phien-nao"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-128-kinh-tuy-phien-nao"
         },
         "nextlink": {
           "text": "MN 130. KINH THIÊN XỨ",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc130-kinh-thien-xu"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-130-kinh-thien-xu"
         }
       }
     }
@@ -2717,11 +2717,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 129. KINH HIỀN NGU",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc129-kinh-hien-ngu"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-129-kinh-hien-ngu"
         },
         "nextlink": {
           "text": "MN 131. KINH NHẤT DẠ HIỀN GIẢ",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc131-kinh-nhat-da-hien-gia"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-131-kinh-nhat-da-hien-gia"
         }
       }
     }
@@ -2738,11 +2738,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 130. KINH THIÊN XỨ",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc130-kinh-thien-xu"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-130-kinh-thien-xu"
         },
         "nextlink": {
           "text": "MN 132. KINH A-NAN NHẤT DẠ HIỀN GIẢ",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc132-kinh-a-nan-nhat-da-hien-gia"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-132-kinh-a-nan-nhat-da-hien-gia"
         }
       }
     }
@@ -2759,11 +2759,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 131. KINH NHẤT DẠ HIỀN GIẢ",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc131-kinh-nhat-da-hien-gia"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-131-kinh-nhat-da-hien-gia"
         },
         "nextlink": {
           "text": "MN 133. KINH ÐẠI CA-CHIÊN-DIÊN NHẤT DẠ HIỀN GIẢ",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc133-kinh-dai-ca-chien-dien-nhat-da-hien-gia"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-133-kinh-dai-ca-chien-dien-nhat-da-hien-gia"
         }
       }
     }
@@ -2780,11 +2780,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 132. KINH A-NAN NHẤT DẠ HIỀN GIẢ",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc132-kinh-a-nan-nhat-da-hien-gia"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-132-kinh-a-nan-nhat-da-hien-gia"
         },
         "nextlink": {
           "text": "MN 134. KINH LOMASAKANGIYA NHẤT DẠ HIỀN GIẢ",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc134-kinh-lomasakangiya-nhat-da-hien-gia"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-134-kinh-lomasakangiya-nhat-da-hien-gia"
         }
       }
     }
@@ -2801,11 +2801,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 133. KINH ÐẠI CA-CHIÊN-DIÊN NHẤT DẠ HIỀN GIẢ",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc133-kinh-dai-ca-chien-dien-nhat-da-hien-gia"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-133-kinh-dai-ca-chien-dien-nhat-da-hien-gia"
         },
         "nextlink": {
           "text": "MN 135. TIỂU KINH NGHIỆP PHÂN BIỆT",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc135-tieu-kinh-nghiep-phan-biet"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-135-tieu-kinh-nghiep-phan-biet"
         }
       }
     }
@@ -2822,11 +2822,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 134. KINH LOMASAKANGIYA NHẤT DẠ HIỀN GIẢ",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc134-kinh-lomasakangiya-nhat-da-hien-gia"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-134-kinh-lomasakangiya-nhat-da-hien-gia"
         },
         "nextlink": {
           "text": "MN 136. ÐẠI KINH NGHIỆP PHÂN BIỆT",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc136-dai-kinh-nghiep-phan-biet"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-136-dai-kinh-nghiep-phan-biet"
         }
       }
     }
@@ -2843,11 +2843,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 135. TIỂU KINH NGHIỆP PHÂN BIỆT",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc135-tieu-kinh-nghiep-phan-biet"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-135-tieu-kinh-nghiep-phan-biet"
         },
         "nextlink": {
           "text": "MN 137. KINH PHÂN BIỆT SÁU XỨ",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc137-kinh-phan-biet-sau-xu"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-137-kinh-phan-biet-sau-xu"
         }
       }
     }
@@ -2864,11 +2864,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 136. ÐẠI KINH NGHIỆP PHÂN BIỆT",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc136-dai-kinh-nghiep-phan-biet"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-136-dai-kinh-nghiep-phan-biet"
         },
         "nextlink": {
           "text": "MN 138. KINH TỔNG THUYẾT & BIỆT THUYẾT",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc138-kinh-tong-thuyet-biet-thuyet"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-138-kinh-tong-thuyet-biet-thuyet"
         }
       }
     }
@@ -2885,11 +2885,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 137. KINH PHÂN BIỆT SÁU XỨ",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc137-kinh-phan-biet-sau-xu"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-137-kinh-phan-biet-sau-xu"
         },
         "nextlink": {
           "text": "MN 139. KINH VÔ TRÁNH PHÂN BIỆT",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc139-kinh-vo-tranh-phan-biet"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-139-kinh-vo-tranh-phan-biet"
         }
       }
     }
@@ -2906,11 +2906,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 138. KINH TỔNG THUYẾT & BIỆT THUYẾT",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc138-kinh-tong-thuyet-biet-thuyet"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-138-kinh-tong-thuyet-biet-thuyet"
         },
         "nextlink": {
           "text": "MN 140. KINH GIỚI PHÂN BIỆT",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc140-kinh-gioi-phan-biet"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-140-kinh-gioi-phan-biet"
         }
       }
     }
@@ -2927,11 +2927,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 139. KINH VÔ TRÁNH PHÂN BIỆT",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc139-kinh-vo-tranh-phan-biet"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-139-kinh-vo-tranh-phan-biet"
         },
         "nextlink": {
           "text": "MN 141. KINH PHÂN BIỆT VỀ SỰ THẬT",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc141-kinh-phan-biet-ve-su-that"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-141-kinh-phan-biet-ve-su-that"
         }
       }
     }
@@ -2948,11 +2948,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 140. KINH GIỚI PHÂN BIỆT",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc140-kinh-gioi-phan-biet"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-140-kinh-gioi-phan-biet"
         },
         "nextlink": {
           "text": "MN 142. KINH PHÂN BIỆT CÚNG DƯỜNG",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc142-kinh-phan-biet-cung-duong"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-142-kinh-phan-biet-cung-duong"
         }
       }
     }
@@ -2969,11 +2969,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 141. KINH PHÂN BIỆT VỀ SỰ THẬT",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc141-kinh-phan-biet-ve-su-that"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-141-kinh-phan-biet-ve-su-that"
         },
         "nextlink": {
           "text": "MN 143. KINH GIÁO GIỚI CẤP CÔ ÐỘC",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc143-kinh-giao-gioi-cap-co-doc"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-143-kinh-giao-gioi-cap-co-doc"
         }
       }
     }
@@ -2990,11 +2990,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 142. KINH PHÂN BIỆT CÚNG DƯỜNG",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc142-kinh-phan-biet-cung-duong"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-142-kinh-phan-biet-cung-duong"
         },
         "nextlink": {
           "text": "MN 144. KINH GIÁO GIỚI CHANNA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc144-kinh-giao-gioi-channa"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-144-kinh-giao-gioi-channa"
         }
       }
     }
@@ -3011,11 +3011,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 143. KINH GIÁO GIỚI CẤP CÔ ÐỘC",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc143-kinh-giao-gioi-cap-co-doc"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-143-kinh-giao-gioi-cap-co-doc"
         },
         "nextlink": {
           "text": "MN 145. KINH GIÁO GIỚI PHÚ-LÂU-NA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc145-kinh-giao-gioi-phu-lau-na"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-145-kinh-giao-gioi-phu-lau-na"
         }
       }
     }
@@ -3032,11 +3032,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 144. KINH GIÁO GIỚI CHANNA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc144-kinh-giao-gioi-channa"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-144-kinh-giao-gioi-channa"
         },
         "nextlink": {
           "text": "MN 146. KINH GIÁO GIỚI NANDAKA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc146-kinh-giao-gioi-nandaka"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-146-kinh-giao-gioi-nandaka"
         }
       }
     }
@@ -3053,11 +3053,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 145. KINH GIÁO GIỚI PHÚ-LÂU-NA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc145-kinh-giao-gioi-phu-lau-na"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-145-kinh-giao-gioi-phu-lau-na"
         },
         "nextlink": {
           "text": "MN 147. TIỂU KINH GIÁO GIỚI LA-HẦU-LA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc147-tieu-kinh-giao-gioi-la-hau-la"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-147-tieu-kinh-giao-gioi-la-hau-la"
         }
       }
     }
@@ -3074,11 +3074,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 146. KINH GIÁO GIỚI NANDAKA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc146-kinh-giao-gioi-nandaka"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-146-kinh-giao-gioi-nandaka"
         },
         "nextlink": {
           "text": "MN 148. KINH SÁU SÁU",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc148-kinh-sau-sau"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-148-kinh-sau-sau"
         }
       }
     }
@@ -3095,11 +3095,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 147. TIỂU KINH GIÁO GIỚI LA-HẦU-LA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc147-tieu-kinh-giao-gioi-la-hau-la"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-147-tieu-kinh-giao-gioi-la-hau-la"
         },
         "nextlink": {
           "text": "MN 149. ÐẠI KINH SÁU XỨ",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc149-dai-kinh-sau-xu"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-149-dai-kinh-sau-xu"
         }
       }
     }
@@ -3116,11 +3116,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 148. KINH SÁU SÁU",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc148-kinh-sau-sau"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-148-kinh-sau-sau"
         },
         "nextlink": {
           "text": "MN 150. KINH NÓI CHO DÂN NAGARAVINDA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc150-kinh-noi-cho-dan-nagaravinda"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-150-kinh-noi-cho-dan-nagaravinda"
         }
       }
     }
@@ -3137,11 +3137,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 149. ÐẠI KINH SÁU XỨ",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc149-dai-kinh-sau-xu"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-149-dai-kinh-sau-xu"
         },
         "nextlink": {
           "text": "MN 151. KINH KHẤT THỰC THANH TỊNH",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc151-kinh-khat-thuc-thanh-tinh"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-151-kinh-khat-thuc-thanh-tinh"
         }
       }
     }
@@ -3158,11 +3158,11 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 150. KINH NÓI CHO DÂN NAGARAVINDA",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc150-kinh-noi-cho-dan-nagaravinda"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-150-kinh-noi-cho-dan-nagaravinda"
         },
         "nextlink": {
           "text": "MN 152. KINH CĂN TU TẬP",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc152-kinh-can-tu-tap"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-152-kinh-can-tu-tap"
         }
       }
     }
@@ -3179,7 +3179,7 @@ const tmcmnvi = [
         "notePath": "",
         "backlink": {
           "text": "MN 151. KINH KHẤT THỰC THANH TỊNH",
-          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc151-kinh-khat-thuc-thanh-tinh"
+          "link": "/kinhtrungbo/c-nm-tmc-vi/mnc-151-kinh-khat-thuc-thanh-tinh"
         },
         "nextlink": false
       }
