@@ -166,7 +166,7 @@ Chuỗi Điều kiện theo kinh, thiếu 5, 2, 1:
 - (3) sự Nhận biết (đi tái sinh) (thức / viññāṇa) -
 - [Danh–sắc(lập lại)]
 
-```
+
 "Này Ananda, khi ta nói 'Danh Sắc (Tâm và Thân) là điều kiện sinh ra Xúc' – con cần phải hiểu điều đó theo logic sau đây:
 
 Giả sử không có bất kỳ đặc tính hay biểu hiện nào để nhận biết phần Tâm (Danh), thì liệu phần Thân (Sắc) có thể tự mình tạo ra những 'tiếp xúc về mặt nhận thức/khái niệm' được không?"
@@ -190,7 +190,7 @@ Này Ānanda, với những khía cạnh, đặc điểm, hình dáng, biểu hi
 — "Dạ không, bạch Thế Tôn."
 
 "Chính vì thế, này Ananda, con phải hiểu rằng: Danh và Sắc chính là cội nguồn, là nguyên nhân, và là điều kiện tiên quyết để sự Tiếp Xúc (Xúc) có thể sinh ra."
-```
+
 
 "'Do Danh-Sắc làm duyên, Xúc sinh khởi' — điều đó đã được nói như vậy. Này Ānanda, hãy hiểu điều đó theo cách giải thích sau: Chính nhờ những hình thái, những dấu hiệu, những tướng trạng, những đặc điểm mà danh thân được nhận biết và định danh — nếu những hình thái ấy, những dấu hiệu ấy, những tướng trạng ấy, những đặc điểm ấy không còn hiện hữu — thì liệu trên sắc thân có còn nhận ra được xúc qua ngôn danh nữa không?"
 
