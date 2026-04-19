@@ -28,13 +28,6 @@
       "description": "Samyutta Nikaya",
       "cover": "/covers/kinhtuongung.webp",
       "link": "/kinhtuongung/"
-    },
-    {
-      "id": "plato",
-      "title": "Cộng Hòa Plato",
-      "description": "Tác phẩm triết học Hy Lạp",
-      "cover": "/covers/plato.png",
-      "link": "/plato/"
     }
   ]
 }

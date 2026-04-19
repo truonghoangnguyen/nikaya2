@@ -19,10 +19,6 @@ head:
       <div class="section-subtitle">So sánh bản dịch tiếng Việt của Hòa thượng Thích Minh Châu và Bhikkhu Sujato.</div>
     </div>
     <div class="section-item">
-      <div class="section-title"><a href="/kinhtuongung/c-sujato-tmc-en/">Thích Minh Châu & Bhikkhu Sujato (Anh)</a></div>
-      <div class="section-subtitle">Đối chiếu bản dịch tiếng Việt của Thích Minh Châu và bản tiếng Anh của Bhikkhu Sujato.</div>
-    </div>
-    <div class="section-item">
       <div class="section-title"><a href="/kinhtuongung/thichminhchau/">Hòa thượng Thích Minh Châu</a></div>
       <div class="section-subtitle">Bản dịch Kinh Tương Ưng kinh điển của Hòa thượng Thích Minh Châu.</div>
     </div>

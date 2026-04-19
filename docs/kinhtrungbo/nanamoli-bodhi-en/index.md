@@ -4,6 +4,7 @@ layout: home
 hero:
   name: "The Middle Length Discourses of the Buddha"
   tagline: Bhikkhu Nanamoli and Bhikkhu Bodhi
+  image: '/covers/kinhtruongbo.webp'
 
 features:
   - title: Preface
