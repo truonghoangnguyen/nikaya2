@@ -23,19 +23,11 @@ Trang này tổng hợp các câu hỏi phổ biến về **Kinh Nikaya**, Phậ
 |---|---|---|
 | Kinh Trường Bộ | Dīgha Nikāya | 34 kinh dài |
 | Kinh Trung Bộ | Majjhima Nikāya | 152 kinh |
-| Kinh Tương Ưng Bộ | Saṃyutta Nikāya | ~2.800 kinh |
-| Kinh Tăng Chi Bộ | Aṅguttara Nikāya | ~8.000 kinh |
-| Tiểu Bộ | Khuddaka Nikāya | Nhiều tập |
+| Kinh Tương Ưng Bộ | Saṃyutta Nikāya | 56 chương với nhiều bài nhỏ |
+| Kinh Tăng Chi Bộ | Aṅguttara Nikāya | 11 chương với nhiều bài nhỏ |
+| Tiểu Bộ | Khuddaka Nikāya | (chưa thực hiện) |
 
-Đây là tập hợp lời dạy của **Đức Phật Thích Ca Mâu Ni** được ghi chép và bảo tồn qua nhiều thế kỷ.
-
----
-
-### Sự khác nhau giữa Kinh Trường Bộ và Kinh Trung Bộ là gì?
-
-- **Kinh Trường Bộ (Dīgha Nikāya)**: 34 bài kinh *dài*, thường trình bày các chủ đề giáo lý quan trọng một cách toàn diện. Bao gồm nhiều cuộc đối thoại triết học giữa Đức Phật và các học giả Bà-la-môn. Thích hợp cho nghiên cứu học thuật.
-
-- **Kinh Trung Bộ (Majjhima Nikāya)**: 152 bài kinh *độ dài trung bình*, đa dạng hơn về chủ đề. Phù hợp để học về thực hành thiền định và giáo lý cốt lõi, gần gũi hơn với thực hành hàng ngày.
+Đây là tập hợp lời dạy của **Đức Phật** được ghi chép và bảo tồn qua nhiều thế kỷ.
 
 ---
 
@@ -43,32 +35,16 @@ Trang này tổng hợp các câu hỏi phổ biến về **Kinh Nikaya**, Phậ
 
 **Tiếng Pali** là ngôn ngữ Ấn-Aryan cổ đại, có quan hệ gần gũi với tiếng Phạn (Sanskrit). Kinh điển Phật giáo Nguyên thủy được ghi chép bằng tiếng Pali vì đây là ngôn ngữ gần nhất với tiếng *Magadhi* — ngôn ngữ mà Đức Phật đã sử dụng để giảng dạy.
 
-Tiếng Pali được bảo tồn bởi truyền thống Theravada ở Sri Lanka, Miến Điện, Thái Lan, Campuchia và Việt Nam. Học tiếng Pali giúp đọc trực tiếp lời Phật dạy mà không qua bản dịch trung gian.
+Tiếng Pali được bảo tồn bởi truyền thống Theravada ở Sri Lanka. Bô kinh Nikaya tiếng Pali được dịch sang tiếng Việt Nam do Tỳ Kheo Thích Minh Châu.
 
 ---
 
-### Duyên khởi (Paṭicca-samuppāda) là gì?
-
-**Duyên khởi** (Pali: *Paṭicca-samuppāda*) là một trong những giáo lý trung tâm của Phật giáo. Nghĩa đen: *"do có cái này, cái kia sinh"* — tất cả hiện tượng đều nương tựa vào nhau, không có gì tồn tại độc lập.
-
-Chuỗi **12 nhân duyên**:
-
-> Vô minh → Hành → Thức → Danh-Sắc → Lục nhập → Xúc → Thọ → Ái → Thủ → Hữu → Sinh → Già-chết-Khổ
-
-Hiểu Duyên khởi là nền tảng để thực hành giải thoát. Chủ đề này xuất hiện nhiều trong [Kinh Tương Ưng Bộ](/kinhtuongung/) và [Kinh Trường Bộ](/kinhtruongbo/).
-
----
 
 ## Về Các Bộ Kinh
 
 ### Kinh Tương Ưng Bộ (Saṃyutta Nikāya) khác gì các bộ kinh khác?
 
 **Kinh Tương Ưng Bộ** gồm hơn 2.800 bài kinh ngắn, được sắp xếp theo **chủ đề** (*tương ưng*). Đặc điểm nổi bật:
-
-- Chứa nhiều kinh về Duyên khởi, Tứ Diệu Đế, Bát Thánh Đạo
-- Phong phú nhất về giáo lý triết học và thực hành
-- Được nhiều học giả xem là nguồn tài liệu quan trọng để nghiên cứu Abhidhamma
-
 → [Đọc Kinh Tương Ưng Bộ](/kinhtuongung/)
 
 ---
@@ -76,10 +52,6 @@ Hiểu Duyên khởi là nền tảng để thực hành giải thoát. Chủ đ
 ### Kinh Tăng Chi Bộ (Aṅguttara Nikāya) được tổ chức thế nào?
 
 **Kinh Tăng Chi Bộ** có cấu trúc độc đáo: bài kinh được sắp xếp theo **số lượng pháp** (1 pháp, 2 pháp, 3 pháp... đến 11 pháp), giúp dễ ghi nhớ.
-
-- Thực hành nhất trong các bộ kinh — rất nhiều bài về đạo đức, thiền định, cuộc sống hàng ngày
-- Gồm hơn 8.000 bài kinh — bộ kinh *lớn nhất* trong Nikaya
-- Phù hợp cho người muốn áp dụng Phật pháp vào đời sống thực tế
 
 → [Đọc Kinh Tăng Chi Bộ](/kinhtangchi/)
 
@@ -115,27 +87,12 @@ Trên kinhnikaya.org, bạn có thể:
 ---
 
 ## Về Trang Web
-
-### Sự khác nhau giữa Phật giáo Nguyên thủy (Theravada) và Phật giáo Đại thừa (Mahayana)?
-
-| | Theravada (Nguyên thủy) | Mahayana (Đại thừa) |
-|---|---|---|
-| Kinh điển gốc | Pali Canon (Nikaya) | Kinh Phạn ngữ (Sanskrit) |
-| Lý tưởng tu tập | A-la-hán | Bồ-tát |
-| Phổ biến ở | Sri Lanka, Miến Điện, Thái Lan, Campuchia, VN | Trung Quốc, Nhật, Hàn, Tây Tạng, VN |
-
-Kinh Nikaya là cốt lõi của Phật giáo Nguyên thủy và được cả hai truyền thống tôn trọng.
-
----
-
 ### Website kinhnikaya.org có bản quyền không? Tôi có thể dùng nội dung này không?
 
 - Kinh Nikaya là **di sản chung của nhân loại**, không có bản quyền
 - Bản dịch tiếng Anh của Bhikkhu Sujato: **CC0 (public domain)**
 - Bản dịch tiếng Việt của Thích Minh Châu: thuộc Viện Nghiên cứu Phật học Việt Nam
 - Kinhnikaya.org là **dự án mã nguồn mở**, mục tiêu chia sẻ kinh điển rộng rãi
-
-Vui lòng ghi nguồn khi trích dẫn.
 
 ---
 
