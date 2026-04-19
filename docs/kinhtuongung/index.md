@@ -1,6 +1,11 @@
 ---
 layout: page
-title: Kinh Tương Ưng
+title: Kinh Tương Ưng Bộ (Saṃyutta Nikāya) - Thư viện Kinh điển
+description: Saṃyutta Nikāya (Kinh Tương Ưng Bộ) gồm khoảng 2.900 bài kinh nhóm theo chủ đề, tập trung vào Duyên khởi, Ngũ uẩn, Lục nhập và Bát chánh đạo.
+head:
+  - - script
+    - type: application/ld+json
+    - '{"@context": "https://schema.org","@type": "CollectionPage","name": "Kinh Tương Ưng Bộ — Saṃyutta Nikāya","alternateName": "Saṃyutta Nikāya","description": "Tập hợp khoảng 2.900 bài kinh của Đức Phật, được nhóm theo chủ đề (tương ưng). Tập trung sâu vào các giáo lý cốt lõi: Duyên khởi, Ngũ uẩn, Lục nhập, và Bát chánh đạo. Bản dịch của Thích Minh Châu và Bhikkhu Sujato.","url": "https://kinhnikaya.org/kinhtuongung/","inLanguage": ["vi", "en", "pi"]"numberOfItems": 2889,"about": {"@type": "Thing","name": "Phật giáo Nguyên thủy","sameAs": "https://en.wikipedia.org/wiki/Theravada"},"hasPart": [{ "@type": "Book", "name": "SN 12 - Tương Ưng Duyên Khởi", "alternateName": "Nidānasaṃyutta" },{ "@type": "Book", "name": "SN 22 - Tương Ưng Uẩn", "alternateName": "Khandasaṃyutta" },{ "@type": "Book", "name": "SN 35 - Tương Ưng Lục Nhập", "alternateName": "Saḷāyatanasaṃyutta" },{ "@type": "Book", "name": "SN 45 - Tương Ưng Đạo", "alternateName": "Maggasaṃyutta" },{ "@type": "Book", "name": "SN 56 - Tương Ưng Sự Thật", "alternateName": "Saccasaṃyutta" }]}'
 ---
 
 <BookLayout

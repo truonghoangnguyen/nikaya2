@@ -61,7 +61,8 @@
 </template>
 
 <script setup>
-import { ref, computed, onMounted, nextTick } from 'vue'
+import { ref, computed, onMounted, nextTick, watch } from 'vue'
+import { useRoute, useRouter } from 'vitepress'
 import Fuse from 'fuse.js'
 
 // ── Props ────────────────────────────────────────────────────────────────────
@@ -77,10 +78,29 @@ const props = defineProps({
 const query = ref('')
 const searchInput = ref(null)
 
+const route = useRoute()
+const router = useRouter()
+
 onMounted(() => {
+  // Đọc ?q= từ URL khi vào trang
+  const urlParams = new URLSearchParams(window.location.search)
+  const q = urlParams.get('q')
+  if (q) query.value = q
+
   nextTick(() => {
     searchInput.value?.focus()
   })
+})
+
+// Cập nhật URL khi query thay đổi (không thêm history entry)
+watch(query, (val) => {
+  const url = new URL(window.location.href)
+  if (val) {
+    url.searchParams.set('q', val)
+  } else {
+    url.searchParams.delete('q')
+  }
+  window.history.replaceState({}, '', url.toString())
 })
 
 // ── Fuse instance ─────────────────────────────────────────────────────────────

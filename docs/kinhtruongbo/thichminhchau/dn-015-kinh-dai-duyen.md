@@ -3,7 +3,9 @@ tags:
  - Ananda
  - quan hệ phụ thuộc (duyên)
  - điều kiện (duyên)
- - Sự sinh ra qua quan hệ Phụ thuộc (duyên khởi)
+ - sự sinh ra qua quan hệ Phụ thuộc (duyên khởi)
+ - nơi trú ngụ của sự Nhận biết (thức trú/viññāṇaṭṭhiti)
+ - Xứ (āyatana)
 ---
 
 # 15. KINH ÐẠI DUYÊN

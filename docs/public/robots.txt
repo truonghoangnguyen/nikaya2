@@ -1,5 +1,9 @@
 User-agent: *
 Allow: /
+Sitemap: https://kinhnikaya.org/sitemap.xml
+
+# AI Context file — see https://llmstxt.org
+# LLMs-txt: https://kinhnikaya.org/llms.txt
 
 # Explicitly allow major AI bots
 User-agent: GPTBot
@@ -9,6 +13,15 @@ User-agent: Google-Extended
 Allow: /
 
 User-agent: ClaudeBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Bingbot
 Allow: /
 
 User-agent: meta-externalagent

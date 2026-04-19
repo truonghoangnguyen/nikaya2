@@ -1,6 +1,11 @@
 ---
 layout: page
-title: Kinh Trường Bộ
+title: Kinh Trường Bộ (Dīgha Nikāya) - Thư viện Kinh điển
+description: Dīgha Nikāya (Kinh Trường Bộ) gồm 34 bài kinh dài nhất của Đức Phật. Đọc song ngữ Pali - Việt, bản dịch Thích Minh Châu và Bhikkhu Sujato.
+head:
+  - - script
+    - type: application/ld+json
+    - '{"@context":"https://schema.org","@type":"CollectionPage","name":"Kinh Trường Bộ — Dīgha Nikāya","alternateName":"Dīgha Nikāya","description":"Tập hợp 34 bài kinh dài nhất của Đức Phật trong Kinh điển Pali (Pali Canon). Có bản dịch tiếng Việt của Thích Minh Châu, bản tiếng Anh của Bhikkhu Sujato, và văn bản Pali gốc.","url":"https://kinhnikaya.org/kinhtruongbo/","inLanguage":["vi","en","pi"],"numberOfItems":34,"about":{"@type":"Thing","name":"Phật giáo Nguyên thủy","sameAs":"https://en.wikipedia.org/wiki/Theravada"},"hasPart":[{"@type":"Book","name":"DN 1. Kinh Phạm Võng","alternateName":"Brahmajāla Sutta"},{"@type":"Book","name":"DN 2. Kinh Sa-môn Quả","alternateName":"Sāmaññaphala Sutta"},{"@type":"Book","name":"DN 9. Kinh Potthapada","alternateName":"Poṭṭhapāda Sutta"},{"@type":"Book","name":"DN 15. Kinh Đại Duyên","alternateName":"Mahānidāna Sutta"},{"@type":"Book","name":"DN 16. Kinh Đại Niết-bàn","alternateName":"Mahāparinibbāna Sutta"},{"@type":"Book","name":"DN 22. Kinh Đại Niệm Xứ","alternateName":"Mahāsatipaṭṭhāna Sutta"},{"@type":"Book","name":"DN 34. Kinh Thập Thượng","alternateName":"Dasuttara Sutta"}]}'
 ---
 
 <BookLayout

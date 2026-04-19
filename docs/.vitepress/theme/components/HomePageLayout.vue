@@ -1,6 +1,7 @@
 <template>
   <div class="home-container">
     <div class="hero-section">
+      <h1 class="hero-title">Thư viện Kinh điển Phật giáo (Pali - Việt)</h1>
       <p class="intro-text">{{ config.intro }}</p>
     </div>
 
@@ -35,6 +36,14 @@ import config from '../../../books.config.json'
   text-align: center;
   max-width: 800px;
   margin: 0 auto 4rem;
+}
+
+.hero-title {
+  font-size: 2.5rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+  color: var(--vp-c-text-1);
+  letter-spacing: -0.02em;
 }
 
 .intro-text {

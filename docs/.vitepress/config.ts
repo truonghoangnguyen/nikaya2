@@ -71,9 +71,9 @@ const BOOK_NAV = {
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "Kinh Nikaya",
-  description: "Trò chuyện cùng Phật",
+  description: "Khám phá bộ sưu tập Kinh điển Nikaya với bản dịch song ngữ Pali - Việt. Thư viện tra cứu kinh điển Phật giáo Nguyên thủy đầy đủ và chính xác.",
   sitemap: {
-    hostname: 'https://nikaya2.vercel.app'
+    hostname: 'https://kinhnikaya.org'
   },
 
   markdown: {
@@ -246,6 +246,107 @@ export default defineConfig({
         } else {
           pageData.frontmatter.prev = undefined; // No previous page
         }
+
+        // --- ScholarlyArticle Schema Injection ---
+        const bookSegment = pathParts[0]; // e.g. 'kinhtruongbo'
+        const authorSegment = pathParts[1]; // e.g. 'thichminhchau'
+
+        const BOOK_META: Record<string, { name: string; alternateName: string; url: string }> = {
+          'kinhtruongbo': { name: 'Kinh Trường Bộ', alternateName: 'Dīgha Nikāya', url: 'https://kinhnikaya.org/kinhtruongbo/' },
+          'kinhtrungbo':  { name: 'Kinh Trung Bộ',  alternateName: 'Majjhima Nikāya', url: 'https://kinhnikaya.org/kinhtrungbo/' },
+          'kinhtangchi':  { name: 'Kinh Tăng Chi Bộ', alternateName: 'Aṅguttara Nikāya', url: 'https://kinhnikaya.org/kinhtangchi/' },
+          'kinhtuongung': { name: 'Kinh Tương Ưng Bộ', alternateName: 'Saṃyutta Nikāya', url: 'https://kinhnikaya.org/kinhtuongung/' },
+        };
+
+        const TRANSLATOR_META: Record<string, { name: string; inLanguage: string[]; url?: string; sameAs?: string[] }> = {
+          'thichminhchau': {
+            name: 'Thích Minh Châu',
+            inLanguage: ['vi'],
+            sameAs: [
+              'https://vi.wikipedia.org/wiki/Th%C3%ADch_Minh_Ch%C3%A2u',
+              'https://en.wikipedia.org/wiki/Thich_Minh_Chau',
+            ],
+          },
+          'sujato-vi': {
+            name: 'Bhikkhu Sujato',
+            inLanguage: ['vi'],
+            url: 'https://suttacentral.net/sujato',
+            sameAs: [
+              'https://en.wikipedia.org/wiki/Bhikkhu_Sujato',
+              'https://suttacentral.net/sujato',
+            ],
+          },
+          'sujato-en': {
+            name: 'Bhikkhu Sujato',
+            inLanguage: ['en'],
+            url: 'https://suttacentral.net/sujato',
+            sameAs: [
+              'https://en.wikipedia.org/wiki/Bhikkhu_Sujato',
+              'https://suttacentral.net/sujato',
+            ],
+          },
+          'nanamoli-bodhi-en': {
+            name: 'Bhikkhu Ñāṇamoli & Bhikkhu Bodhi',
+            inLanguage: ['en'],
+            sameAs: [
+              'https://en.wikipedia.org/wiki/Bhikkhu_Bodhi',
+              'https://en.wikipedia.org/wiki/Bhikkhu_Nanamoli',
+            ],
+          },
+          'nanamoli-bodhi-vi': {
+            name: 'Bhikkhu Ñāṇamoli & Bhikkhu Bodhi',
+            inLanguage: ['vi'],
+            sameAs: [
+              'https://en.wikipedia.org/wiki/Bhikkhu_Bodhi',
+              'https://en.wikipedia.org/wiki/Bhikkhu_Nanamoli',
+            ],
+          },
+          'pali-vi':  { name: 'Pali Canon (song ngữ Pali - Việt)', inLanguage: ['pi', 'vi'] },
+          'pali':     { name: 'Pali Canon',                        inLanguage: ['pi'] },
+        };
+
+        const bookMeta = BOOK_META[bookSegment];
+        const translatorMeta = TRANSLATOR_META[authorSegment];
+
+        if (bookMeta) {
+          const pageUrl = `https://kinhnikaya.org/${relativePath.replace(/\.md$/, '.html')}`;
+          const schema: Record<string, unknown> = {
+            '@context': 'https://schema.org',
+            '@type': 'ScholarlyArticle',
+            'name': currentBook[currentIndex].text,
+            'headline': currentBook[currentIndex].text,
+            'url': pageUrl,
+            'isPartOf': {
+              '@type': 'Book',
+              'name': bookMeta.name,
+              'alternateName': bookMeta.alternateName,
+              'url': bookMeta.url,
+            },
+            'publisher': {
+              '@type': 'Organization',
+              'name': 'Kinh Nikaya',
+              'url': 'https://kinhnikaya.org',
+            },
+          };
+
+          if (translatorMeta) {
+            const translatorEntity: Record<string, unknown> = {
+              '@type': 'Person',
+              'name': translatorMeta.name,
+            };
+            if (translatorMeta.url) translatorEntity['url'] = translatorMeta.url;
+            if (translatorMeta.sameAs) translatorEntity['sameAs'] = translatorMeta.sameAs;
+            schema['translator'] = translatorEntity;
+            schema['inLanguage'] = translatorMeta.inLanguage;
+          }
+
+          pageData.frontmatter.head = pageData.frontmatter.head || [];
+          pageData.frontmatter.head.push([
+            'script',
+            { type: 'application/ld+json' },
+            JSON.stringify(schema),
+          ]);
+        }
       } else {
         //console.warn(`transformPageData: Could not find file "${fileName}" in navigation data for author "${currentAuthor}" in book "${currentBook}".`);
       }
@@ -256,6 +357,7 @@ export default defineConfig({
     // Return the potentially modified pageData
     return pageData;
   },
+
 
 
   head: [
@@ -278,6 +380,75 @@ export default defineConfig({
       href: 'https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Libre+Baskerville:ital,wght@0,400..700;1,400..700&family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap',
       onload: "this.onload=null;this.rel='stylesheet'"
     }],
+
+    ['script', { type: 'application/ld+json' }, JSON.stringify({
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebSite",
+          "@id": "https://kinhnikaya.org/#website",
+          "name": "Kinh Nikaya",
+          "url": "https://kinhnikaya.org",
+          "description": "Thư viện Kinh điển Phật giáo Nguyên thủy với bản dịch song ngữ Pali - Việt. Bao gồm Kinh Trường Bộ, Kinh Trung Bộ, Kinh Tăng Chi Bộ và Kinh Tương Ứng.",
+          "inLanguage": ["vi", "en", "pi"],
+          "potentialAction": {
+            "@type": "SearchAction",
+            "target": {
+              "@type": "EntryPoint",
+              "urlTemplate": "https://kinhnikaya.org/search?q={search_term_string}"
+            },
+            "query-input": "required name=search_term_string"
+          }
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://kinhnikaya.org/#organization",
+          "name": "Kinh Nikaya",
+          "url": "https://kinhnikaya.org",
+          "sameAs": ["https://github.com/truonghoangnguyen/nikaya2"],
+          "knowsAbout": [
+            "Phật giáo Nguyên thủy",
+            "Kinh điển Nikaya",
+            "Tiếng Pali",
+            "Theravada Buddhism",
+            "Pali Canon",
+            "Dīgha Nikāya",
+            "Majjhima Nikāya",
+            "Saṃyutta Nikāya",
+            "Aṅguttara Nikāya"
+          ],
+          "contributor": [
+            {
+              "@type": "Person",
+              "name": "Thích Minh Châu",
+              "sameAs": [
+                "https://vi.wikipedia.org/wiki/Th%C3%ADch_Minh_Ch%C3%A2u",
+                "https://en.wikipedia.org/wiki/Thich_Minh_Chau"
+              ]
+            },
+            {
+              "@type": "Person",
+              "name": "Bhikkhu Sujato",
+              "url": "https://suttacentral.net/sujato",
+              "sameAs": [
+                "https://en.wikipedia.org/wiki/Bhikkhu_Sujato",
+                "https://suttacentral.net/sujato"
+              ]
+            },
+            {
+              "@type": "Person",
+              "name": "Bhikkhu Bodhi",
+              "sameAs": ["https://en.wikipedia.org/wiki/Bhikkhu_Bodhi"]
+            },
+            {
+              "@type": "Person",
+              "name": "Bhikkhu Ñāṇamoli",
+              "sameAs": ["https://en.wikipedia.org/wiki/Bhikkhu_Nanamoli"]
+            }
+          ]
+        }
+      ]
+    })],
 
     ['noscript', {}, '<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap">']
   ],
@@ -321,7 +492,7 @@ export default defineConfig({
           { text: 'Kinh Tăng Chi Bộ (AN)', link: '/kinhtangchi/' }
         ]
       },
-
+      { text: 'Hỏi & Đáp', link: '/hoi-dap' },
     ],
 
     sidebar: {

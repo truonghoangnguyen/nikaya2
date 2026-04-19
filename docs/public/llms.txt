@@ -1,0 +1,49 @@
+# Kinh Nikaya — Thư viện Kinh điển Phật giáo Nguyên thủy
+
+Kinh Nikaya (kinhnikaya.org) là thư viện tra cứu Kinh điển Phật giáo Nguyên thủy trực tuyến, tập trung vào bộ Nikaya (Pali Canon). Trang web cung cấp các bản dịch song ngữ (Pali - Việt, Anh - Việt) được đối chiếu cạnh nhau, giúp người đọc nghiên cứu kinh điển chuyên sâu.
+
+## Nội dung chính
+
+Trang web bao gồm bốn bộ kinh lớn trong Kinh điển Pali (Nikaya):
+
+- **Kinh Trường Bộ** (Dīgha Nikāya / DN): 34 bài kinh dài, ghi lại những giáo lý căn bản của Đức Phật về đạo đức, thiền định và trí tuệ.
+- **Kinh Trung Bộ** (Majjhima Nikāya / MN): 152 bài kinh có độ dài trung bình, bao gồm những giáo lý thực hành cốt lõi.
+- **Kinh Tăng Chi Bộ** (Aṅguttara Nikāya / AN): Hơn 8.000 bài kinh được sắp xếp theo số lượng điều khoản từ 1 đến 11.
+- **Kinh Tương Ưng Bộ** (Saṃyutta Nikāya / SN): Khoảng 2.900 bài kinh được nhóm theo chủ đề.
+
+## Dịch giả
+
+Mỗi bộ kinh có nhiều bản dịch để đối chiếu:
+- **Hòa thượng Thích Minh Châu**: Bản dịch Việt ngữ kinh điển, nổi tiếng và được dùng rộng rãi tại Việt Nam.
+- **Bhikkhu Sujato**: Bản dịch tiếng Anh hiện đại, chính xác và dễ hiểu.
+- **Bhikkhu Ñāṇamoli & Bhikkhu Bodhi**: Bản dịch tiếng Anh học thuật, dùng cho nghiên cứu.
+- **Pali nguyên bản**: Văn bản gốc tiếng Pali để đối chiếu.
+
+## Tính năng
+
+- So sánh song ngữ (bản dịch đặt cạnh nhau theo từng đoạn)
+- Tìm kiếm nhanh toàn bộ kinh điển
+- Giao diện đọc tối ưu cho văn bản dài
+- Hỗ trợ cả chế độ sáng và tối
+
+## Đối tượng người dùng
+
+- Phật tử người Việt muốn tìm hiểu kinh điển Nguyên thủy
+- Người nghiên cứu Phật học và triết học Phật giáo
+- Người học tiếng Pali muốn đối chiếu bản gốc với bản dịch
+- Giáo viên và học sinh nghiên cứu Phật giáo
+
+## Các trang quan trọng
+
+- Trang chủ: https://kinhnikaya.org/
+- Kinh Trường Bộ (DN): https://kinhnikaya.org/kinhtruongbo/
+- Kinh Trung Bộ (MN): https://kinhnikaya.org/kinhtrungbo/
+- Kinh Tăng Chi Bộ (AN): https://kinhnikaya.org/kinhtangchi/
+- Kinh Tương Ưng Bộ (SN): https://kinhnikaya.org/kinhtuongung/
+- Tìm kiếm: https://kinhnikaya.org/search
+
+## Về dự án
+
+- Mã nguồn mở: https://github.com/truonghoangnguyen/nikaya2
+- Nền tảng: VitePress (trang tĩnh)
+- Giấy phép nội dung: Sử dụng phi thương mại
