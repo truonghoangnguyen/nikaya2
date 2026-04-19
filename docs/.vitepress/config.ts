@@ -253,8 +253,8 @@ export default defineConfig({
 
         const BOOK_META: Record<string, { name: string; alternateName: string; url: string }> = {
           'kinhtruongbo': { name: 'Kinh Trường Bộ', alternateName: 'Dīgha Nikāya', url: 'https://kinhnikaya.org/kinhtruongbo/' },
-          'kinhtrungbo':  { name: 'Kinh Trung Bộ',  alternateName: 'Majjhima Nikāya', url: 'https://kinhnikaya.org/kinhtrungbo/' },
-          'kinhtangchi':  { name: 'Kinh Tăng Chi Bộ', alternateName: 'Aṅguttara Nikāya', url: 'https://kinhnikaya.org/kinhtangchi/' },
+          'kinhtrungbo': { name: 'Kinh Trung Bộ', alternateName: 'Majjhima Nikāya', url: 'https://kinhnikaya.org/kinhtrungbo/' },
+          'kinhtangchi': { name: 'Kinh Tăng Chi Bộ', alternateName: 'Aṅguttara Nikāya', url: 'https://kinhnikaya.org/kinhtangchi/' },
           'kinhtuongung': { name: 'Kinh Tương Ưng Bộ', alternateName: 'Saṃyutta Nikāya', url: 'https://kinhnikaya.org/kinhtuongung/' },
         };
 
@@ -301,8 +301,8 @@ export default defineConfig({
               'https://en.wikipedia.org/wiki/Bhikkhu_Nanamoli',
             ],
           },
-          'pali-vi':  { name: 'Pali Canon (song ngữ Pali - Việt)', inLanguage: ['pi', 'vi'] },
-          'pali':     { name: 'Pali Canon',                        inLanguage: ['pi'] },
+          'pali-vi': { name: 'Pali Canon (song ngữ Pali - Việt)', inLanguage: ['pi', 'vi'] },
+          'pali': { name: 'Pali Canon', inLanguage: ['pi'] },
         };
 
         const bookMeta = BOOK_META[bookSegment];
