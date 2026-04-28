@@ -169,3 +169,8 @@ Sân hận (Vyapada)
 Hôn trầm (Thina-middha)
 Trạo cử (Uddhacca-kukkucca)
 Hoài nghi (Vicikiccha)
+
+tìm dòng thơ:
+find: ^>.*;$
+find: ^>.*,$
+rep: $0\\

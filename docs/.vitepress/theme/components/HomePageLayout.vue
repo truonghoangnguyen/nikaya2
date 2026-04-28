@@ -1,5 +1,6 @@
 <template>
   <div class="home-container">
+    <h1 class="visually-hidden">Kinh Nikaya - Thư viện Kinh điển Phật giáo</h1>
     <div class="hero-section">
       <div class="quote-split-layout">
         <div class="quote-content-left">
@@ -31,7 +32,7 @@
 
         <div class="quote-image-right">
           <div class="image-box">
-            <img v-if="currentImage" :src="currentImage" alt="Wisdom Image" class="featured-img" />
+            <img v-if="currentImage" :src="currentImage" alt="Trích dẫn Kinh Nikaya" class="featured-img" />
           </div>
         </div>
       </div>
@@ -113,6 +114,18 @@ onUnmounted(() => {
   max-width: 1200px;
   margin: 0 auto;
   padding: 4rem 2rem;
+}
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
 }
 
 .hero-section {

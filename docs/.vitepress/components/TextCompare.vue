@@ -4,12 +4,8 @@ import { ref, onMounted, computed } from 'vue'
 import MarkdownIt from 'markdown-it'
 import anchor from 'markdown-it-anchor'
 import markdownItAttrs from 'markdown-it-attrs'
-// import { slugAnchor } from '../utils'; // Nếu bạn có file utils riêng
+import { slugAnchor } from '../utils';
 
-// Hàm slugify cơ bản, phải giống với hàm trong [slug].paths.js
-const slugAnchor = (s: string) => {
-  return encodeURIComponent(String(s).trim().toLowerCase().replace(/\s+/g, '-'));
-};
 
 interface Props {
   leftPath: string
@@ -84,7 +80,13 @@ onMounted(async () => {
         })
         .use(markdownItAttrs);
 
-      const mdRight = new MarkdownIt({ html: true, linkify: true, typographer: true });
+      const mdRight = new MarkdownIt({ html: true, linkify: true, typographer: true })
+        .use(anchor, {
+          permalink: anchor.permalink.ariaHidden({ symbol: '', placement: 'before' }),
+          slugify: (s) => slugAnchor(s),
+        })
+        .use(markdownItAttrs);
+
 
       // Fetch file
       const [leftResponse, rightResponse] = await Promise.all([

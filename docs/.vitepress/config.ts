@@ -92,7 +92,7 @@ export default defineConfig({
 
   vite: {
     define: {
-      __BOOK_NAV__: BOOK_NAV,
+      // __BOOK_NAV__: BOOK_NAV,
     },
     plugins: [
       {
@@ -188,6 +188,28 @@ export default defineConfig({
     if (!pageData || !pageData.relativePath) {
       console.warn('transformPageData: Invalid pageData or missing relativePath.');
       return pageData; // Return original data if essential info is missing
+    }
+
+    // --- Global Canonical URL ---
+    let cleanPath = pageData.relativePath.replace(/\.md$/, '.html');
+    // For index.md files, the canonical URL should point to the directory root
+    if (cleanPath.endsWith('index.html')) {
+      cleanPath = cleanPath.replace(/index\.html$/, '');
+    }
+    const canonicalUrl = `https://kinhnikaya.org/${cleanPath}`;
+    
+    pageData.frontmatter = pageData.frontmatter || {};
+    pageData.frontmatter.head = pageData.frontmatter.head || [];
+    
+    const hasCanonical = pageData.frontmatter.head.some(
+      (tag: any) => tag[0] === 'link' && tag[1] && tag[1].rel === 'canonical'
+    );
+    
+    if (!hasCanonical) {
+      pageData.frontmatter.head.push([
+        'link',
+        { rel: 'canonical', href: canonicalUrl }
+      ]);
     }
 
     function getPath(url) {
@@ -500,7 +522,11 @@ export default defineConfig({
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/truonghoangnguyen/nikaya2' }
-    ]
+    ],
+
+    footer: {
+      message: '<a href="/hoi-dap.html">Về chúng tôi</a>',
+    }
   }
 })
 

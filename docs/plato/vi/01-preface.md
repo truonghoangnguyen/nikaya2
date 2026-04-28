@@ -1,43 +1,11 @@
-# *Preface*
-I have been a student of the Republic since I ﬁrst encountered it as an
-undergraduate at Trinity College, Dublin. In 1988 I published a book about
-it (Philosopher-Kings). Four years later, I published a revision of G. M. A.
+# *Lời tựa*
 
-Grube’s excellent translation. Perhaps I should have rested content with
-that, but my desire to have a Republic translation of my own proved too
-strong.The fruit of ﬁve years’ work, it is now in print. Naturally, I hope it
-improves on existing translations. If so, I have their producers largely to
-thank. Certainly, I have ransacked them for assistance. Tom Grifﬁth has
-helped greatly, Robin Waterﬁeld too, and also (in the case of Books 5 and
-10) Stephen Halliwell. Over the years, my respect has grown for earlier
-translations—for that of George Grube, from which I learned a huge
-amount, but also for those of Allan Bloom and Paul Shorey.
+Tôi đã chuyên tâm nghiên cứu cuốn *Cộng Hòa* kể từ lần đầu tiên tiếp xúc với tác phẩm này khi còn là sinh viên cử nhân tại Trinity College, Dublin. Năm 1988, tôi đã xuất bản một cuốn sách viết về tác phẩm này (cuốn *Philosopher-Kings* [Triết gia - Quân vương]). Bốn năm sau, tôi cho ra mắt bản hiệu đính từ bản dịch vô cùng xuất sắc của G. M. A. Grube. Lẽ ra tôi nên bằng lòng dừng lại ở đó, nhưng khao khát có được một bản dịch *Cộng Hòa* của riêng mình lại quá đỗi mãnh liệt. Là thành quả của năm năm ròng rã làm việc, giờ đây bản dịch này đã chính thức ra mắt. Lẽ dĩ nhiên, tôi hy vọng nó sẽ mang lại sự cải thiện so với các bản dịch hiện có. Nếu được như vậy, tôi phải gửi lời cảm ơn sâu sắc đến những dịch giả đi trước. Quả thực, tôi đã tham khảo các tác phẩm của họ một cách triệt để nhằm tìm kiếm sự hỗ trợ. Tom Griffith đã giúp ích cho tôi rất nhiều, Robin Waterfield cũng vậy, và cả Stephen Halliwell (đối với Quyển 5 và Quyển 10). Theo thời gian, lòng kính trọng của tôi đối với các bản dịch trước đây ngày càng lớn—đối với bản dịch của George Grube, bản dịch mà tôi đã học hỏi được vô số điều, cũng như đối với các bản dịch của Allan Bloom và Paul Shorey.
 
-Every translation, even the most self-consciously and ﬂat-footedly slavish,
-is somewhat interpretative.There is no avoiding that. But I have tried to make
-this one as uninterpretative and close to the original as possible. One con-
-scious deviation from strict accuracy, however, will be obvious at a glance.
+Bất kỳ bản dịch nào, dù có chủ ý bám sát câu chữ một cách máy móc và cứng nhắc đến đâu, thì ít nhiều vẫn mang tính diễn giải. Đó là điều không thể tránh khỏi. Nhưng tôi đã cố gắng hết sức để bản dịch này hạn chế tối đa việc diễn giải và bám sát với nguyên tác nhất có thể. Tuy nhiên, người đọc có thể dễ dàng nhận ra ngay một điểm mà tôi đã cố ý làm lệch đi so với nguyên tắc chính xác tuyệt đối.
 
-The Republic is largely in reported speech. Socrates is relating a conversation
-he had in the past. But I have cast his report as an explicit dialogue in direct
-(a) speech, with identiﬁed speakers. In the Theaetetus, Plato has Eucleides adopt
-similar stratagem. “This is the book,” he says to Terpsion; “You see, I have
-written it out like this: I have not made Socrates relate the conversation as he
-related it to me, but I represent him as speaking directly to the persons with
-whom he said he had this conversation.” Decades of teaching the Republic
-have persuaded me that the minimal loss in literalness involved in adopting
-Eucleides’ stratagem is more than made up for in readability and intelligibility.
+Cuốn *Cộng Hòa* phần lớn được viết dưới dạng lời kể (câu gián tiếp). Socrates đang tường thuật lại một cuộc trò chuyện mà ông đã tham gia trong quá khứ. Nhưng tôi đã chuyển lời kể của ông thành một cuộc đối thoại rõ ràng dưới dạng câu trực tiếp, trong đó chỉ đích danh ai là người đang nói. Trong cuốn *Theaetetus*, Plato cũng đã để nhân vật Eucleides áp dụng thủ pháp tương tự. “Cuốn sách đây,” ông nói với Terpsion; “Anh xem, tôi đã chép lại thế này: Tôi không để Socrates kể lại cuộc trò chuyện theo cách ông ấy đã kể cho tôi nghe, mà tôi khắc họa ông ấy đang nói chuyện trực tiếp với những người mà ông bảo là đã cùng tham gia cuộc trò chuyện đó.” Hàng thập kỷ giảng dạy cuốn *Cộng Hòa* đã thuyết phục tôi rằng, sự đánh đổi một chút về tính sát nghĩa khi áp dụng thủ pháp của Eucleides là hoàn toàn xứng đáng với những gì đạt được về tính dễ đọc và dễ hiểu cho tác phẩm.
 
-I renew my gratitude to John Cooper for his always judicious advice, and
-to Paul Woodruff for his. I am also grateful to the publisher’s readers, Chris-
-topher Rowe and the team of Patrick Miller and Christopher Childers.The
-latter—in particular—saved me from numerous errors and omissions. My
-debt to their care and scholarship is unrepayable. I am grateful to Hackett
-Publishing Company itself for trusting me with what is, in many ways, its
-ﬂagship text; to my editor, Deborah Wilkes, for her encouragement and
-support; to Jenevieve Maerker for her help with the Introduction and, with
-Abigail Coyle, for the cover design. Many warm thanks, ﬁnally, to Janet
-Zweig for suggesting the wonderfully appropriate cover photograph.
+Một lần nữa, tôi xin bày tỏ lòng biết ơn tới John Cooper vì những lời khuyên luôn sáng suốt của ông, cũng như tới Paul Woodruff vì sự cố vấn tương tự. Tôi cũng xin gửi lời cảm ơn tới các độc giả thẩm định của nhà xuất bản: Christopher Rowe cùng nhóm của Patrick Miller và Christopher Childers. Đặc biệt, nhóm thứ hai đã giúp tôi tránh được vô số sai sót và sự bỏ quên. Tôi mang ơn sự tỉ mỉ cũng như vốn học vấn sâu rộng của họ, một món nợ ân tình không thể nào đáp đền. Tôi biết ơn Nhà xuất bản Hackett vì đã tin tưởng giao cho tôi tác phẩm mà xét trên nhiều phương diện, là ấn phẩm chủ lực của họ; cảm ơn biên tập viên của tôi, Deborah Wilkes, vì đã luôn động viên và hỗ trợ; cảm ơn Jenevieve Maerker vì đã giúp đỡ phần Lời Giới Thiệu, và cùng với Abigail Coyle, đã thiết kế nên trang bìa cuốn sách. Cuối cùng, xin gửi lời cảm ơn chân thành tới Janet Zweig vì đã gợi ý một bức ảnh bìa vô cùng phù hợp.
 
-Chapel Hill, June 2004
-
+Chapel Hill, tháng 6 năm 2004

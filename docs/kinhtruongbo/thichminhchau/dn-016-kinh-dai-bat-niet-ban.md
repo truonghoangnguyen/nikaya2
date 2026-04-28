@@ -1,7 +1,7 @@
 # 16. KINH ÐẠI BÁT NIẾT BÀN
 **_(Mahàparinibbàna Sutta)_**
 
-**Tụng Phẩm I**
+## **Tụng Phẩm I**
 
 1\. Như vầy tôi nghe. Một thời Thế Tôn ở tại Ràjagaha (Vương Xá), trên núi Gijjhakùta (Linh Thứu).
 Lúc bấy giờ, Ajàtasattu Vedehiputta (A-xà-thế, con bà Vi-đề-hi), vua nước Magadha (Ma-kiệt-đà),
@@ -512,7 +512,7 @@ _phu đang cột bè._\
 _Những người ấy thật là những vị trí tuệ được giải thoát”_
 
 <!--pg-->
-**Tụng Phẩm II**
+## **Tụng Phẩm II**
 
 1\. Rồi Thế Tôn gọi tôn giả Ananda: “Này Ananda, chúng ta hãy đi đến Kotigàma”
 
@@ -794,7 +794,7 @@ tựa, không nương tựa vào một pháp gì khác, những vị ấy, Này 
 hàng Tỷ-kheo của Ta, nếu những vị ấy tha thiết học hỏi.
 
 <!--pg-->
-**Tụng Phẩm III**
+## **Tụng Phẩm III**
 
 1\. Rồi Thế Tôn vào buổi sáng đắp y, đem theo y bát, vào Vesàli để khất thực. Sau khi khất thực ở
 Vesàli, ăn xong và trên đường khất thực trở về Ngài nói với tôn giả Ananda:
@@ -1270,7 +1270,7 @@ _Ai tinh tấn trong pháp và luật này_\
 _Sẽ diệt sanh tử, chấm dứt khổ đau._
 
 <!--pg-->
-**Tụng Phẩm IV**
+## **Tụng Phẩm IV**
 
 1\. Rồi Thế Tôn, vào buổi sáng đắp y, đem theo y bát, vào Vesàli để khất thực. Sau khi khất thực ở
 Vesàli, ăn xong và trên đường khất thực trở về, Thế Tôn nhìn Vesàli với cái nhìn của con voi chúa rồi
@@ -1680,7 +1680,7 @@ _Diệt trừ tham, sân, si._\
 _Tâm giải thoát thanh tịnh._
 
 <!--pg-->
-**Tụng Phẩm V**
+## **Tụng Phẩm V**
 
 1\. Rồi Thế Tôn nói với Tôn giả Ananda:
 
@@ -2096,7 +2096,7 @@ Sanh đã tận, phạm hạnh đã thành, những gì nên làm đã làm, sau
 Và đại đức Subhadda trở thành một A-la-hán nữa. Ðại đức là vị đệ tử cuối cùng được Thế Tôn thế độ.
 
 <!--pg-->
-**Tụng Phẩm VI**
+## **Tụng Phẩm VI**
 
 1\. Lúc bấy giờ, Thế Tôn nói với Tôn giả Ananda:
 
@@ -2214,6 +2214,7 @@ _Thật kinh khủng bàng hoàng,_\
 _Thật râu tóc dựng ngược,_\
 _Khi Bậc Toàn thiện năng,_\
 _Bậc Giác ngộ nhập diệt._
+
 Khi Thế Tôn diệt độ, những Tỷ-kheo chưa giải thoát tham ái, có vị thì khóc than với cánh tay duỗi cao,
 có vị thì khóc than, thân nằm nhoài dưới đất, lăn lộn qua lại: “Thế Tôn nhập diệt quá sớm, Thiện Thệt
 nhập diệt quá sớm, Pháp nhãn biến mất ở trên đời quá sớm”. Còn những Tỷ-kheo đã diệt trừ tham ái,

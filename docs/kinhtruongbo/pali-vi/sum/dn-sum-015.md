@@ -2,74 +2,101 @@
 
 [Bản so sánh→](/kinhtruongbo/c-pali-tmc-vi/dnc-015-kinh-dai-duyen){class="note-link" }
 
-## 1. Sự hình thành qua quan hệ cùng sinh (Paṭiccasamuppāda)
+## 1. Sự sinh ra qua quan hệ Phụ thuộc (Paṭiccasamuppāda)
 
-Một thời Thế Tôn ở tại thị trấn Kammāsadhamma của người Kuru. Tôn giả Ānanda đến đảnh lễ và thưa rằng *sự hình thành qua quan hệ Phụ thuộc* (duyên khởi / paṭiccasamuppāda) tuy sâu sắc nhưng đối với mình lại có vẻ rất rõ ràng và dễ hiểu. Thế Tôn liền quở trách, nhấn mạnh rằng chính vì không thấu hiểu *Điều* (pháp / dhamma) này mà chúng sinh bị mắc kẹt trong vòng luân hồi, rối rắm như cuộn chỉ, không thể vượt qua cõi khổ.
+Một thời, Thế Tôn trú tại thị trấn Kammāsadhamma của người Kuru. Tôn giả Ānanda đến đảnh lễ và bạch Thế Tôn: "Thật kỳ diệu, bạch Thế Tôn! *Sự sinh ra qua quan hệ Phụ thuộc* (duyên khởi / paṭiccasamuppāda) này trông có vẻ sâu sắc, nhưng với con lại rất rõ ràng và dễ hiểu."
 
-Thế Tôn giải thích chuỗi nguyên nhân hình thành đau khổ như sau:
-Với *sự Tái sinh* (sinh / jāti) là *điều kiện* (duyên / paccaya), có *già-chết* (lão tử / jarāmaraṇa). Với *Mầm sinh* (hữu / bhava) là *điều kiện*, có *sự Tái sinh*. Với *sự bám giữ* (chấp thủ / upādāna) là *điều kiện*, có *Mầm sinh*. Với *sự thèm khát* (tham ái / taṇhā) là *điều kiện*, có *sự bám giữ*. Với *cảm giác* (thọ / vedanā) là *điều kiện*, có *sự thèm khát*. Với *Xúc* (xúc / phassa) là *điều kiện*, có *cảm giác*. Với *Danh-sắc* (danh sắc / nāmarūpa) là *điều kiện*, có *Xúc*. Với *sự Nhận biết đi tái sinh* (thức / viññāṇa) là *điều kiện*, có *Danh-sắc*. Và ngược lại, với *Danh-sắc* là *điều kiện*, có *sự Nhận biết đi tái sinh*.
+Thế Tôn đáp: "Chớ nói vậy, Ānanda! *Sự sinh ra qua quan hệ Phụ thuộc* này thực sự rất sâu sắc. Chính vì không hiểu thấu đạt *Điều* (pháp / dhamma) này mà chúng sinh bị rối ren như cuộn chỉ thắt nút, không thể *thoát khỏi* (xuất ly / nissaraṇa) vòng luân hồi và các cõi dữ."
 
-Tóm lại, toàn bộ khối *đau khổ* (khổ / dukkha) bao gồm già-chết, sầu, bi, *ưu phiền* (ưu / domanassa) và tuyệt vọng đều có *sự hình thành* (tập / samudaya) từ chuỗi liên kết này.
+Để giải thích, Thế Tôn chỉ rõ chuỗi nhân quả cốt lõi như sau:
+*   *Già-chết* (lão-tử / jarāmaraṇa) có *Điều kiện* (duyên / paccaya) sinh trưởng là *sự Tái sinh* (sinh / jāti).
+*   *Sự Tái sinh* có *Điều kiện* là *Mầm sinh* (hữu / bhava).
+*   *Mầm sinh* có *Điều kiện* là sự *Giữ chặt* (thủ / upādāna).
+*   Sự *Giữ chặt* có *Điều kiện* là sự *yêu thích* (ái / taṇhā).
+*   Sự *yêu thích* có *Điều kiện* là *Cảm Giác* (thọ / vedanā).
+*   *Cảm Giác* có *Điều kiện* là *Xúc* (xúc / phassa).
+*   *Xúc* có *Điều kiện* là *Danh–sắc* (danh-sắc / nāmarūpa).
+*   *Danh–sắc* có *Điều kiện* là *'Cái Biết' (đi tái sinh)* (thức / viññāṇa).
+*   Ngược lại, *'Cái Biết' (đi tái sinh)* cũng lấy *Danh–sắc* làm *Điều kiện*.
 
-Ngược lại, nếu một yếu tố *bị chặn* (diệt / nirodha), yếu tố tiếp theo sẽ không thể xuất hiện. Cụ thể:
-*   Nếu không có *sự Tái sinh*, *già-chết* không thể tồn tại.
-*   Nếu không có *Mầm sinh* (thuộc *sự dễ chịu giác quan*, *vật chất* hoặc phi vật chất), *sự Tái sinh* không thể tồn tại.
-*   Nếu không có *sự bám giữ* (vào *sự dễ chịu giác quan*, *quan điểm sai*, mê tín giáo điều, hoặc *thuyết về ngã*), *Mầm sinh* không thể tồn tại.
-*   Nếu không có *sự thèm khát* (đối với hình ảnh, âm thanh, mùi, vị, xúc chạm, *mọi Điều*), *sự bám giữ* không thể tồn tại.
-*   Nếu không có *cảm giác* (từ mắt, tai, mũi, lưỡi, thân, *giác quan Suy Nghĩ*), *sự thèm khát* không thể tồn tại.
+> Ghi chú: Thông thường có 12 nhân duyên, ở đây chỉ thấy 9. Không có: Không Hiểu Biết (vô minh), Hoạt động (hành), và Sáu Xứ.
 
-Thế Tôn cũng chỉ ra một chuỗi hệ lụy xã hội phát sinh từ *cảm giác*: *Phụ thuộc* (duyên / paṭicca) vào *cảm giác* sinh ra *sự thèm khát*; từ đó dẫn đến *sự tìm kiếm* (tìm cầu / pariyesanā) -> *sự đạt được* (lợi đắc / lābha) -> *sự đánh giá* (quyết định / vinicchaya) -> *nhiễm vào sự ước mong* (dục tham / chandarāga) -> *sự dính mắc* (tham trước / ajjhosāna) -> *sự chiếm hữu* (chấp thủ / pariggaha) -> *sự keo kiệt* (xan tham / macchariya) -> *sự bảo vệ* (thủ hộ / ārakkha). Chính từ *sự bảo vệ* này mà nảy sinh *những điều không thiện* (bất thiện pháp / akusalā dhammā) như cầm vũ khí, cãi vã, đâm thọc và nói dối. Nếu các yếu tố trước bị chặn đứng, các ác pháp này sẽ không phát sinh.
+Như vậy, toàn bộ khối *đau khổ* (khổ / dukkha) bao gồm sầu, bi, *ưu phiền* (ưu / domanassa) và tuyệt vọng đều *được hình thành* (sinh / sambhavanti) từ chuỗi *Điều kiện* này. Đây là *sự hình thành* (tập / samudaya) của đau khổ.
 
-Về mối quan hệ cốt lõi: *Xúc* chỉ xảy ra khi có *Danh-sắc*. Nếu không có các đặc điểm để *sự định danh* (thi thiết / paññatti) nhóm Danh và nhóm Sắc, thì *Xúc qua tên gọi* (danh tự xúc / adhivacanasamphassa) và *Xúc qua va chạm* (đối ngại xúc / paṭighasamphassa) đều không tồn tại. Tương tự, *Danh-sắc* và *sự Nhận biết đi tái sinh* nương tựa vào nhau. Nếu *sự Nhận biết đi tái sinh* không đi vào bụng mẹ, hoặc rời đi, hoặc bị cắt đứt, *Danh-sắc* không thể phát triển. Ngược lại, nếu *sự Nhận biết đi tái sinh* không có chỗ đứng trong *Danh-sắc*, đau khổ không thể sinh ra. Đây chính là giới hạn của ngôn ngữ, khái niệm và vòng luân hồi.
+**Phân tích tính tất yếu của từng mắt xích:**
+Thế Tôn chứng minh rằng nếu nguyên nhân *bị chặn* (diệt / nirodha) hoàn toàn, thì kết quả không thể tồn tại:
+*   Nếu không có *sự Tái sinh* ở bất kỳ cõi nào, thì *già-chết* không thể xuất hiện.
+*   Nếu không có *Mầm sinh* (thuộc *sự dễ chịu giác quan* [dục / kāma], cõi vật chất hay phi vật chất), thì *sự Tái sinh* không thể xuất hiện.
+*   Nếu không có sự *Giữ chặt* (vào *sự dễ chịu giác quan*, *quan điểm sai* [tà kiến / diṭṭhi], *mê tín và giáo điều* [giới cấm thủ / sīlabbata], hay *bản ngã* [ngã / atta]), thì *Mầm sinh* không thể xuất hiện.
+*   Nếu không có sự *yêu thích* (đối với hình ảnh, âm thanh, mùi, vị, xúc chạm, hay *mọi Điều* [pháp / dhamma]), thì sự *Giữ chặt* không thể xuất hiện.
+*   Nếu không có *Cảm Giác* (sinh ra từ *Xúc* của mắt, tai, mũi, lưỡi, thân, và *giác quan Suy Nghĩ* [ý căn / mano]), thì sự *yêu thích* không thể xuất hiện.
 
-## 2. Sự tuyên bố về tự ngã (Attapaññatti)
+**Chuỗi hệ lụy phụ phát sinh từ Cảm Giác:**
+Từ *Cảm Giác*, một chuỗi hệ lụy khác cũng phát sinh: *Phụ thuộc* (duyên / paṭicca) vào *Cảm Giác* sinh ra *yêu thích*. Từ *yêu thích* dẫn đến *sự tìm kiếm* (tầm cầu / pariyesanā) → *sự đạt được* (lợi đắc / lābha) → *sự đánh giá* (thẩm lự / vinicchaya) → *tham đắm* (dục tham / chandarāga) → *sự trói buộc* (đắm trước / ajjhosāna) → *sự chiếm hữu* (chấp thủ / pariggaha) → *sự keo kiệt* (xan tham / macchariya) → *sự bảo vệ* (thủ hộ / ārakkha).
 
-Có bốn cách con người thường tự tuyên bố về tự ngã (ngã / attā): (1) có hình thể và hữu hạn, (2) có hình thể và vô hạn, (3) không có hình thể và hữu hạn, (4) không có hình thể và vô hạn. Dù họ tuyên bố điều này trong hiện tại, tương lai hay tự huyễn hoặc bản thân, thì một *quan điểm sai* (tà kiến / diṭṭhi) về tự ngã vẫn đang ngủ ngầm trong họ.
+Chính từ *sự bảo vệ* này mà vô số *những điều không thiện* (bất thiện pháp / akusalā dhammā) và ác nghiệp phát sinh như: cầm vũ khí, tranh cãi, đâm thọc và nói dối. Nếu truy ngược lại, nếu không có *yêu thích* (đối với *sự dễ chịu giác quan*, *cõi tồn tại* [hữu / bhava], hay sự không tồn tại), thì toàn bộ chuỗi hệ lụy này sẽ không xuất hiện. Hai nhánh này hội tụ lại tại *Cảm Giác*.
 
-## 3. Không tuyên bố về tự ngã (Naattapaññatti)
+**Mối quan hệ giữa Xúc, Danh-sắc và 'Cái Biết':**
+*   Nếu không có *Xúc* (từ sáu giác quan), *Cảm Giác* không thể xuất hiện.
+*   Về *Danh–sắc*: Nếu tâm trí (*Danh thân*) không *đặt tên, tạo khái niệm* (chế định / paññatti), thì *xúc-qua khái niệm* (danh tự xúc / adhivacanasamphassa) không thể xảy ra. Nếu giác quan (*Sắc thân*) không nhận kích thích, thì *xúc-qua va chạm vật lý* (chướng ngại xúc / paṭighasamphassa) không thể xảy ra. Do đó, nếu không có *Danh–sắc*, *Xúc* không thể xuất hiện.
+*   Về *'Cái Biết' đi tái sinh*: Nếu nó không đi vào bụng mẹ, hoặc vào rồi lại rời đi, hoặc bị cắt đứt khi còn nhỏ, thì *Danh–sắc* không thể hình thành và phát triển. Ngược lại, nếu *'Cái Biết' đi tái sinh* không tìm được chỗ đứng trong *Danh–sắc*, thì *sự Tái sinh* và *đau khổ* cũng không xuất hiện.
 
-Ngược lại, khi một người không đưa ra bất kỳ tuyên bố nào trong bốn cách trên (dù ở hiện tại, tương lai hay trong suy nghĩ), thì *quan điểm sai* về tự ngã không còn ngủ ngầm trong người ấy.
+Như vậy, *Danh–sắc* và *'Cái Biết' đi tái sinh* luôn tồn tại trong mối quan hệ *Điều kiện* lẫn nhau. Đây chính là giới hạn của ngôn ngữ, khái niệm, trí tuệ và cơ chế vận hành của vòng luân hồi.
 
-## 4. Quan sát về tự ngã (Attasamanupassanā)
+## 2 & 3. Niềm Tin và Không Niềm Tin Về Tự Ngã
 
-Khi *quan sát* (quán / samanupassati) về tự ngã, người ta thường rơi vào ba nhận định sai lầm:
+Khi một người có *niềm tin* (thi thiết / paññapeti) về tự ngã, họ thường cho rằng tự ngã thuộc một trong bốn dạng:
+1. *Có vật chất* (sắc / rūpī) và *có giới hạn* (hữu lượng / paritta).
+2. *Có vật chất* và *không giới hạn* (vô lượng / ananta).
+3. *Không có vật chất* (vô sắc / arūpī) và *có giới hạn*.
+4. *Không có vật chất* và *không giới hạn*.
 
-1.  **Cho rằng '*cảm giác* là tự ngã':** Điều này vô lý vì có ba loại cảm giác (*cảm giác dễ chịu*, *cảm giác khó chịu*, *cảm giác không dễ chịu Không khó chịu*), chúng không xuất hiện cùng lúc. Hơn nữa, mọi cảm giác đều không bền vững, *do Hợp mà thành* (hữu vi / saṅkhata), là thứ sinh qua quan hệ *Phụ thuộc* (duyên sinh / paṭiccasamuppanna), luôn *tàn hoại* và *biến mất*. Nếu cảm giác là tự ngã, thì khi cảm giác biến mất, tự ngã cũng biến mất.
-2.  **Cho rằng 'tự ngã vô cảm':** Nếu hoàn toàn không có sự cảm nhận nào, thì không thể nảy sinh ý nghĩ "Đây là tôi".
-3.  **Cho rằng 'tự ngã có bản chất là cảm giác':** Nếu mọi cảm giác bị chấm dứt hoàn toàn, ý niệm "Đây là tôi" cũng không thể tồn tại.
+Họ tin điều này áp dụng cho hiện tại, tương lai, hoặc cố gắng tạo dựng nó. Khi đó, một *quan điểm sai nằm tiềm ẩn* (tùy miên kiến / anudiṭṭhi) đang *ẩn* (tùy miên / anuseti) trong họ. Ngược lại, khi một người hoàn toàn không có *niềm tin* về tự ngã theo bốn dạng trên ở bất kỳ thời điểm nào, thì không có *quan điểm sai nằm tiềm ẩn* nào tồn tại trong người ấy.
 
-Khi một tỳ kheo không bám víu vào bất kỳ nhận định nào ở trên, vị ấy không *bám giữ* (chấp thủ / upādiyati) bất cứ điều gì ở đời, không lo âu và đạt đến tịch diệt. Vị ấy biết rõ *sự Tái sinh* đã *cạn sạch* (đoạn tận / khayā). Đối với vị tỳ kheo đã giải thoát, mọi tranh luận về việc *Người Đến Như Vậy* (Như Lai / tathāgata) "tồn tại", "không tồn tại", "cả hai" hay "không phải cả hai" sau khi chết đều là sai lệch, vì vị ấy đã vượt ra khỏi mọi giới hạn của ngôn từ và khái niệm.
+## 4. Quan Niệm Về Tự Ngã
 
-## 5. Nơi trú của sự Nhận biết (Sattaviññāṇaṭṭhiti)
+Người ta thường *quan niệm* (quán / samanupassati) về tự ngã theo ba cách sai lầm:
 
-Thế Tôn chỉ ra bảy *nơi trú ngụ của sự Nhận biết* (thức trú / viññāṇaṭṭhiti) và hai *xứ* (xứ / āyatana) của chúng sinh:
-1. Thân khác nhau, nhận thức khác nhau (người, chư thiên, chúng sinh cõi khổ).
-2. Thân khác nhau, nhận thức giống nhau (Phạm chúng thiên mới sinh).
-3. Thân giống nhau, nhận thức khác nhau (chư thiên cõi Quang Âm).
-4. Thân giống nhau, nhận thức giống nhau (chư thiên cõi Biến Tịnh).
-5. *Cõi Không Gian là Vô Tận* (không vô biên xứ / ākāsānañcāyatana).
-6. *Cõi Sự Phân Biệt là Vô Tận* (thức vô biên xứ / viññāṇañcāyatana).
-7. *Cõi Không Có Vật Gì* (vô sở hữu xứ / ākiñcaññāyatana).
+1. **Cho rằng "*cảm giác* là tự ngã":** Điều này sai vì có ba loại *cảm giác*: *cảm giác dễ chịu* (thọ lạc / sukhā vedanā), *cảm giác khó chịu* (thọ khổ / dukkhā vedanā), và *cảm giác không dễ chịu không khó chịu* (thọ bất khổ bất lạc / adukkhamasukhā vedanā). Chúng không xuất hiện cùng lúc và đều *không cố định* (vô thường / anicca), *do Hợp mà thành* (hữu vi / saṅkhata), là *thứ sinh qua quan hệ Phụ thuộc* (duyên sinh / paṭiccasamuppanna), *chịu sự hao mòn* (hoại diệt pháp / khayadhamma), *chịu sự suy tàn* (diệt pháp / vayadhamma), *chịu sự phai nhạt* (ly tham pháp / virāgadhamma), và *chịu sự cạn khô* (đoạn diệt pháp / nirodhadhamma). Nếu tự ngã là *cảm giác*, thì khi *cảm giác* biến mất, tự ngã cũng biến mất.
+2. **Cho rằng "tự ngã là *vô cảm* (vô giác / appaṭisaṁvedana)":** Điều này sai vì nếu hoàn toàn không có sự *cảm nhận* (thọ lãnh / vediyati), ta không thể có ý niệm "Ta là thế này".
+3. **Cho rằng "tự ngã là thứ nhận ra cảm nhận (*năng lực cảm nhận* / thọ pháp / vedanādhamma)":** Điều này cũng sai, vì nếu mọi *cảm nhận* hoàn toàn chấm dứt, ý niệm "Ta là thế này" cũng không thể tồn tại.
 
-Hai xứ gồm: *Xứ* của *chúng sinh không có nhận thức* (vô tưởng hữu tình / asaññasatta) và *cõi Không Phải "Có Nhận Thức"; Cũng Không Phải "Mất Nhận Thức"* (phi tưởng phi phi tưởng xứ / nevasaññānāsaññāyatana).
+Khi một Tỳ-kheo không bám víu vào ba *quan niệm* trên, vị ấy không *bám giữ* (chấp thủ / upādiyati) bất cứ điều gì ở đời, không *lo âu* (sợ hãi / paritassati), và tự mình *hoàn toàn tịch diệt* (viên tịch / parinibbāyati). Vị ấy *biết rõ* (tuệ tri / pajānāti) rằng *sự Tái sinh* đã *cạn sạch* (tận / khīṇā).
 
-Một người thấu hiểu rõ *sự hình thành*, sự *tan biến* (diệt / atthaṅgama), sự hấp dẫn, sự nguy hiểm và cách *thoát khỏi* (xuất ly / nissaraṇa) các trạng thái này sẽ không bao giờ *vui thú chạy theo* (dục hỷ / abhinandati) chúng. Tỳ kheo thấu hiểu điều này được gọi là người giải thoát bằng trí tuệ.
+Với một vị Tỳ-kheo có *tâm được giải thoát* (giải thoát tâm / vimuttacitta) nhờ *hiểu biết trực tiếp* (thắng tri / abhijānāti), mọi tranh luận về việc *Người Đến Như Vậy* (Như Lai / Tathāgata) có tồn tại sau khi chết hay không đều vô nghĩa và không thích hợp, vì vị ấy đã vượt qua mọi giới hạn của ngôn ngữ và khái niệm.
 
-## 6. Tám sự giải thoát (Aṭṭhavimokkha)
+## 5. Bảy Nơi Trú Ngụ Của 'Cái Biết' và Hai Xứ
 
-Cuối cùng, Thế Tôn giảng về tám *sự giải thoát* (giải thoát / vimokkha):
-1. Có hình thể và thấy các hình thể.
-2. Không nhận thức hình thể bên trong, nhưng thấy hình thể bên ngoài.
-3. Hướng chú ý vào cái đẹp.
+Có bảy *nơi trú ngụ của 'Cái Biết'* (thức trú / viññāṇaṭṭhiti):
+1. Chúng sinh *khác nhau về thân hình* (dị thân / nānattakāyā) và *khác nhau về Nhận Thức* (dị tưởng / nānattasaññino) (ví dụ: loài người, một số chư thiên).
+2. Chúng sinh *khác nhau về thân hình* nhưng *giống nhau về Nhận Thức* (nhất tưởng / ekattasaññino) (ví dụ: cõi Phạm chúng).
+3. Chúng sinh *giống nhau về thân hình* (nhất thân / ekattakāyā) nhưng *khác nhau về Nhận Thức* (ví dụ: cõi Quang Âm).
+4. Chúng sinh *giống nhau về thân hình* và *giống nhau về Nhận Thức* (ví dụ: cõi Biến Tịnh).
+5. Chúng sinh vượt qua vật chất, *không để tâm* (phi tác ý / amanasikārā) đến sự đa dạng, an trú trong *cõi Không Gian là Vô Tận* (không vô biên xứ / ākāsānañcāyatana).
+6. Chúng sinh an trú trong *cõi 'Cái Biết' là Vô Tận* (thức vô biên xứ / viññāṇañcāyatana).
+7. Chúng sinh an trú trong *cõi Không Có Vật Gì* (vô sở hữu xứ / ākiñcaññāyatana).
+
+Và hai *Xứ* (āyatana):
+1. Xứ chúng sinh không có *Nhận Thức* (Asaññasattāyatana).
+2. *Xứ Không Phải "Có Nhận Thức"; Cũng Không Phải "Mất Nhận Thức"* (phi tưởng phi phi tưởng xứ / nevasaññānāsaññāyatana).
+
+Nếu một người hiểu rõ *sự hình thành* (tập / samudaya), *sự tan biến* (diệt / atthaṅgama), *sự ngọt ngào* (vị ngọt / assāda), *sự nguy hiểm* (ādīnava), và sự *thoát khỏi* của các cõi này, họ sẽ không *vui thú chạy theo* (hỷ lạc / abhinandati) chúng. Vị Tỳ-kheo thấu hiểu điều này và không *bám giữ* được gọi là người giải thoát bằng trí tuệ.
+
+## 6. Tám Sự Giải Thoát
+
+Có tám *sự giải thoát* (giải thoát / vimokkha):
+1. Người có *vật chất* quan sát *vật chất* bên ngoài.
+2. Người không còn *Nhận Thức* về vật chất bên trong, quan sát *vật chất* bên ngoài.
+3. *Chú tâm trọn vẹn* (chú tâm / adhimutta) vào *sự vẻ đẹp* (tịnh / subha).
 4. An trú trong *cõi Không Gian là Vô Tận*.
-5. An trú trong *cõi Sự Phân Biệt là Vô Tận*.
+5. An trú trong *cõi 'Cái Biết' là Vô Tận*.
 6. An trú trong *cõi Không Có Vật Gì*.
-7. An trú trong *cõi Không Phải "Có Nhận Thức"; Cũng Không Phải "Mất Nhận Thức"*.
-8. Đạt đến trạng thái *làm ngưng* nhận thức và *cảm giác* (diệt thọ tưởng định / saññāvedayitanirodha).
+7. An trú trong *xứ Không Phải "Có Nhận Thức"; Cũng Không Phải "Mất Nhận Thức"*.
+8. Đi vào *sự làm ngưng Cảm Giác và Nhận Thức* (diệt thọ tưởng định / saññāvedayitanirodha).
 
-Khi một tỳ kheo có thể tự do ra vào tám trạng thái này theo ý muốn, đồng thời *cạn sạch* các *nguồn ác* (lậu hoặc / āsava), vị ấy đạt được sự giải thoát cả hai phần (tâm và trí tuệ) ngay trong hiện tại. Đây là sự giải thoát cao thượng nhất.
+Khi một Tỳ-kheo có thể tự do ra vào tám *sự giải thoát* này theo *chiều thuận* (thuận / anuloma) và *chiều nghịch* (nghịch / paṭiloma), đồng thời *cạn sạch* các *nguồn ác* (lậu hoặc / āsava), đạt được tâm giải thoát và tuệ giải thoát ngay trong *đời sống hiện tại* (hiện tại / diṭṭhadhamma), vị ấy được gọi là người *giải thoát cả hai phần* (câu phần giải thoát / ubhatobhāgavimutta). Không có sự giải thoát nào cao tột hơn trạng thái này.
 
-Tôn giả Ānanda *vui mừng đón nhận* (hoan hỷ / abhinandi) lời dạy của Thế Tôn.
+Nghe Thế Tôn thuyết giảng, Tôn giả Ānanda hoan hỷ đón nhận.
 
 <!--pg-->
 
@@ -139,6 +166,24 @@ Tôn giả Ānanda *vui mừng đón nhận* (hoan hỷ / abhinandi) lời dạy
 
 <!--pg-->
 
+### (NHÁP và chú thích)
+
+
+#### Bảng so sánh Thức trú và giải thoát
+
+| Thức trú | Giải thoát |
+|----------|-----------|
+| Thức trú 1: Thân khác, Tưởng khác<br>Thức trú 2: Thân khác, Tưởng giống<br>Thức trú 3: Thân giống, Tưởng khác<br>Thức trú 4: Thân giống, Tưởng giống | Giải thoát 1: Có sắc nhìn sắc<br>Giải thoát 2: Vô sắc nhìn sắc ngoài<br>Giải thoát 3: Chú tâm vào cái Đẹp |
+| Thức trú 5: Không vô biên xứ | Giải thoát 4: Không vô biên xứ |
+| Thức trú 6: Thức vô biên xứ | Giải thoát 5: Thức vô biên xứ |
+| Thức trú 7: Vô sở hữu xứ | Giải thoát 6: Vô sở hữu xứ |
+| Xứ 1: Vô tưởng xứ (Ngộ cụt/Không có tuệ) | - |
+| Xứ 2: Phi tưởng phi phi tưởng xứ | Giải thoát 7: Phi tưởng phi phi tưởng xứ |
+| -  | Giải thoát 8: Diệt thọ tưởng định (Tắt hoàn toàn tâm thức) |
+
+<!--pg-->
+#### 12 Nhân duyên nhưng không thấy đủ, chỗ nào đúng ?
+
 1 Vô minh (Avijjā): Không hiểu biết đúng đắn về Tứ diệu đế, vô ngã, vô thường.
 2 Hành (Saṅkhārā): Các hành động, tạo tác (nghiệp) thân, khẩu, ý từ vô minh.
 3 Thức (Viññāṇa): Sự nhận thức, tâm thức tái sinh.
@@ -166,7 +211,7 @@ Chuỗi Điều kiện theo kinh, thiếu 5, 2, 1:
 - (3) sự Nhận biết (đi tái sinh) (thức / viññāṇa) -
 - [Danh–sắc(lập lại)]
 
-
+#### Nháp
 "Này Ananda, khi ta nói 'Danh Sắc (Tâm và Thân) là điều kiện sinh ra Xúc' – con cần phải hiểu điều đó theo logic sau đây:
 
 Giả sử không có bất kỳ đặc tính hay biểu hiện nào để nhận biết phần Tâm (Danh), thì liệu phần Thân (Sắc) có thể tự mình tạo ra những 'tiếp xúc về mặt nhận thức/khái niệm' được không?"
@@ -208,3 +253,28 @@ Giả sử không có bất kỳ đặc tính hay biểu hiện nào để nhậ
 
 
 sự Tiếp xúc phát sinh từ 2 nguồn : Do sự tiếp xúc qua giác quan hoặc sự suy nghĩ dựa trên khái niệm của não bộ. Điều này hiểu như nào ? đầu tiên [sự vật, hiện tượng] được ghi nhận qua giác quan và hình thành [khái niệm, đặt tên] trong não, sau đó não bộ tự hoạt động dựa trên những [khái niệm, tên gọi] này. Nếu khồng có sự vật, hiện tượng thì giác quan sẽ không ghi nhận, không ghi nhận sẽ không có [khái niệm, tên gọi] trong não, nên không có xúc?
+
+```
+CÕI DỤC GIỚI
+  [1] Thân khác — Tưởng khác     → Người, một số Trời, Đọa xứ
+
+CÕI SẮC GIỚI
+  [2] Thân khác — Tưởng giống    → Phạm chúng (Sơ thiền mới sinh)
+  [3] Thân giống — Tưởng khác    → Quang Âm thiên (Nhị thiền)
+  [4] Thân giống — Tưởng giống   → Biến Tịnh thiên (Tam thiền)
+
+CÕI VÔ SẮC GIỚI
+  [5] Không vô biên xứ
+  [6] Thức vô biên xứ
+  [7] Vô sở hữu xứ
+
+HAI XỨ (ngoài 7 thức trú)
+  [*] Vô tưởng hữu tình xứ       → Tứ thiền đặc biệt, không có tưởng
+  [*] Phi tưởng phi phi tưởng xứ → Vi tế đến mức không thể gọi là "có tưởng"
+
+
+```
+
+> Tưởng là máy tạo 'khái niệm', còn Thức là 'sự nhận biết' dựa vào các khái niệm đó.
+https://gemini.google.com/share/68c067c5efaa
+

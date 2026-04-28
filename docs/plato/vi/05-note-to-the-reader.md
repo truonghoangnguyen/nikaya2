@@ -1,11 +1,3 @@
-# *Note to the Reader*
-All proper names and place names are listed, most of them with brief iden-
-tiﬁcations, in the Glossary and Index of Names. Unfamiliar concepts are
-deﬁned in the Glossary of Terms. Marginal page numbers, known as
-“Stephanus” page numbers (after an earlier editor of Plato’s works), are
-standardly used in scholarly citations. Line numbers, which are approximate
-in translations (including this one), refer to John Burnet, Platonis Opera,
-vols. I–V (Oxford: Clarendon Press, 1900–1907). The basis for the present
-translation is S. R. Slings, Platonis Rempublicam (Oxford: Clarendon Press,
-2003).
+# *Lưu ý dành cho độc giả*
 
+Tất cả các tên riêng và địa danh đều được liệt kê trong *Bảng chú giải và Chỉ mục Tên riêng* (Glossary and Index of Names), hầu hết đều có kèm theo thông tin chú thích ngắn gọn. Các khái niệm chưa quen thuộc được định nghĩa rõ trong *Bảng chú giải Thuật ngữ* (Glossary of Terms). Các số trang ghi ngoài lề sách, hay còn gọi là số trang “Stephanus” (được đặt theo tên một biên tập viên các tác phẩm của Plato trước đây), là chuẩn mực được sử dụng trong các trích dẫn học thuật. Số dòng — vốn chỉ mang tính tương đối trong các bản dịch (bao gồm cả bản dịch này) — được tham chiếu theo ấn bản *Platonis Opera* của John Burnet, từ tập I đến tập V (Oxford: Clarendon Press, 1900–1907). Bản dịch này được thực hiện dựa trên ấn bản *Platonis Rempublicam* do S. R. Slings biên soạn (Oxford: Clarendon Press, 2003).

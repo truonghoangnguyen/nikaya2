@@ -1,179 +1,67 @@
-# Janavasabhasutta
+# KINH JANAVASABHA (Tóm tắt)
+[Bản so sánh→](/kinhtruongbo/c-pali-tmc-vi/dnc-018-kinh-xa-ni-sa){class="note-link" }
 
-## 1. Nātikiyādibyākaraṇa
+- **Bối cảnh**: Đây là bài kinh số 18 thuộc Trường Bộ (Dīgha Nikāya). Đức Phật đang ở Nādika và tuyên bố về cảnh giới tái sinh của các đệ tử đã qua đời ở nhiều quốc gia. Tôn giả Ānanda thắc mắc vì sao không thấy nhắc đến các đệ tử ở Magadha (Ma-kiệt-đà), đặc biệt là vua Bimbisāra. Sau đó, dạ xoa Janavasabha (tiền thân là vua Bimbisāra) xuất hiện, kể lại một cuộc hội kiến của chư thiên cõi Tāvatiṁsa (Đao-lợi), nơi Phạm thiên Sanaṅkumāra giáng lâm và ca ngợi các giáo lý cốt lõi của Đức Phật.
+- **Dấu hiệu văn bản**:
+  - Bài kinh có cấu trúc tường thuật lồng ghép phức tạp (Đức Phật kể lại lời Janavasabha, Janavasabha kể lại lời Phạm thiên).
+  - Các phần 6, 7, 8, 9 chứa các danh sách giáo lý (Tứ như ý túc, Tứ niệm xứ, Thất giác chi/Định tư cụ) được trình bày theo dạng công thức hóa cao độ (Mātika). Đây là dấu hiệu của thời kỳ biên tập muộn (cuối thời Sutta, chớm Abhidhamma), nhằm hệ thống hóa giáo pháp.
+  - Đoạn mô tả chuỗi nhân quả của Bát Thánh Đạo (Từ Chánh kiến sinh Chánh tư duy...) là một cách trình bày mang tính hệ thống hóa rõ rệt.
+  - Con số 2.400.000 đệ tử Magadha đắc quả Tu-đà-hoàn mang đậm phong cách phóng đại của truyền thống truyền khẩu Trường Bộ kinh nhằm tôn vinh quy mô của Tăng đoàn.
+- **Mơ hồ ngữ pháp**: Thuật ngữ *okāsādhigama* (cơ hội đạt được) là một từ ghép khá hiếm, trong ngữ cảnh này chỉ về các trạng thái tâm lý chuyển đổi từ thô trược sang vi tế, mang đậm tính tâm lý học nhận thức.
 
-Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā nātike viharati giñjakāvasathe.
+Dưới đây là bản lược dịch kinh Janavasabha được viết lại theo văn phong hiện đại, súc tích, loại bỏ các cấu trúc lặp lại của văn học truyền khẩu để bạn dễ dàng theo dõi mạch truyện và cốt lõi giáo lý.
 
-Tena kho pana samayena bhagavā parito parito janapadesu paricārake abbhatīte kālaṅkate upapattīsu byākaroti kāsikosalesu vajjimallesu cetivaṁsesu kurupañcālesu majjhasūrasenesu:
+## Tóm lược
 
-“asu amutra upapanno, asu amutra upapanno.
+**1. Bối cảnh và thắc mắc của Tôn giả Ānanda**
+Một thời, Đức Phật đang ở Nādika. Ngài thường thông báo cho đại chúng biết về cảnh giới tái sinh của các đệ tử đã qua đời ở nhiều quốc gia khác nhau, khiến mọi người vô cùng hoan hỷ.
 
-Paropaññāsa nātikiyā paricārakā abbhatītā kālaṅkatā pañcannaṁ orambhāgiyānaṁ saṁyojanānaṁ parikkhayā opapātikā tattha parinibbāyino anāvattidhammā tasmā lokā.
+Tuy nhiên, Tôn giả Ānanda nhận thấy Đức Phật không hề nhắc đến các đệ tử ở vùng Magadha (Ma-kiệt-đà), đặc biệt là vua Bimbisāra – một vị minh quân đạo đức, có niềm tin sâu sắc vào Tam Bảo và đã qua đời. Lo ngại người dân Magadha sẽ cảm thấy tủi thân, Ānanda thỉnh cầu Đức Phật soi sáng điều này. Đức Phật nhận lời, Ngài đi vào tịnh thất, nhập định và hướng tâm trí để quan sát cảnh giới tái sinh của các đệ tử Magadha.
 
-Sādhikā navuti nātikiyā paricārakā abbhatītā kālaṅkatā tiṇṇaṁ saṁyojanānaṁ parikkhayā rāgadosamohānaṁ tanuttā sakadāgāmino, sakideva imaṁ lokaṁ āgantvā dukkhassantaṁ karissanti.
+**2. Sự xuất hiện của tinh linh Janavasabha**
+Sau khi xuất định, Đức Phật kể cho Ānanda nghe rằng: Trong lúc Ngài đang thiền quán, một tinh linh hiện ra, tự xưng tên là Janavasabha. Tinh linh này tiết lộ mình chính là tiền thân của vua Bimbisāra, hiện đã tái sinh làm cận thần cho Đại vương Vessavaṇa (Tỳ-sa-môn).
 
-Sātirekāni pañcasatāni nātikiyā paricārakā abbhatītā kālaṅkatā tiṇṇaṁ saṁyojanānaṁ parikkhayā sotāpannā avinipātadhammā niyatā sambodhiparāyaṇā”ti.
+Janavasabha cho biết, nhờ niềm tin tuyệt đối vào Đức Phật từ kiếp trước, ông đã đạt được trạng thái an toàn, chắc chắn không còn rơi vào cõi thấp (đắc quả Tu-đà-hoàn) và đang hướng đến các quả vị cao hơn. Ông đến gặp Đức Phật để kể lại một sự kiện kỳ diệu vừa diễn ra ở cõi trời.
 
-Assosuṁ kho nātikiyā paricārakā: “bhagavā kira parito parito janapadesu paricārake abbhatīte kālaṅkate upapattīsu byākaroti kāsikosalesu vajjimallesu cetivaṁsesu kurupañcālesu majjhasūrasenesu: ‘asu amutra upapanno, asu amutra upapanno. Paropaññāsa nātikiyā paricārakā abbhatītā kālaṅkatā pañcannaṁ orambhāgiyānaṁ saṁyojanānaṁ parikkhayā opapātikā tattha parinibbāyino anāvattidhammā tasmā lokā. Sādhikā navuti nātikiyā paricārakā abbhatītā kālaṅkatā tiṇṇaṁ saṁyojanānaṁ parikkhayā rāgadosamohānaṁ tanuttā sakadāgāmino sakideva imaṁ lokaṁ āgantvā dukkhassantaṁ karissanti. Sātirekāni pañcasatāni nātikiyā paricārakā abbhatītā kālaṅkatā tiṇṇaṁ saṁyojanānaṁ parikkhayā sotāpannā avinipātadhammā niyatā sambodhiparāyaṇā’”ti. Tena ca nātikiyā paricārakā attamanā ahesuṁ pamuditā pītisomanassajātā bhagavato pañhaveyyākaraṇaṁ sutvā.
+**3. Cuộc hội kiến tại cõi trời Đao-lợi (Tāvatiṁsa)**
+Janavasabha kể lại: Vào một ngày rằm, chư thiên cõi Đao-lợi cùng Bốn vị Đại vương tụ họp. Họ vô cùng hoan hỷ khi thấy hội chúng chư thiên ngày càng đông đúc, rực rỡ nhờ những người tu tập theo giáo pháp của Đức Phật ở cõi người tái sinh lên. Vua cõi trời là Đế Thích (Sakka) đã làm thơ ca ngợi Đức Phật.
 
-Assosi kho āyasmā ānando: “bhagavā kira parito parito janapadesu paricārake abbhatīte kālaṅkate upapattīsu byākaroti kāsikosalesu vajjimallesu cetivaṁsesu kurupañcālesu majjhasūrasenesu: ‘asu amutra upapanno, asu amutra upapanno. Paropaññāsa nātikiyā paricārakā abbhatītā kālaṅkatā pañcannaṁ orambhāgiyānaṁ saṁyojanānaṁ parikkhayā opapātikā tattha parinibbāyino anāvattidhammā tasmā lokā. Sādhikā navuti nātikiyā paricārakā abbhatītā kālaṅkatā tiṇṇaṁ saṁyojanānaṁ parikkhayā rāgadosamohānaṁ tanuttā sakadāgāmino sakideva imaṁ lokaṁ āgantvā dukkhassantaṁ karissanti. Sātirekāni pañcasatāni nātikiyā paricārakā abbhatītā kālaṅkatā tiṇṇaṁ saṁyojanānaṁ parikkhayā sotāpannā avinipātadhammā niyatā sambodhiparāyaṇā’ti. Tena ca nātikiyā paricārakā attamanā ahesuṁ pamuditā pītisomanassajātā bhagavato pañhaveyyākaraṇaṁ sutvā”ti.
+Lúc đó, một ánh sáng rực rỡ xuất hiện, báo hiệu sự giáng lâm của Phạm thiên Sanaṅkumāra. Vì hình thể thật của Phạm thiên quá vi tế, ngài phải hóa thân thành một thanh niên để chư thiên có thể nhìn thấy. Phạm thiên cất giọng nói trầm hùng, vang vọng, ca ngợi Đức Phật đã mang lại lợi ích cho số đông và giúp vô số người tái sinh vào các cõi trời tốt đẹp.
 
-## 2. Ānandaparikathā
+**4. Lời giảng của Phạm thiên về Giáo pháp cốt lõi**
+Trước hội chúng chư thiên, Phạm thiên Sanaṅkumāra đã tóm tắt lại bốn nhóm giáo lý xuất chúng mà Đức Phật đã truyền dạy:
 
-Atha kho āyasmato ānandassa etadahosi: “ime kho panāpi ahesuṁ māgadhakā paricārakā bahū ceva rattaññū ca abbhatītā kālaṅkatā. Suññā maññe aṅgamagadhā aṅgamāgadhakehi paricārakehi abbhatītehi kālaṅkatehi. Te kho panāpi ahesuṁ buddhe pasannā dhamme pasannā saṅghe pasannā sīlesu paripūrakārino. Te abbhatītā kālaṅkatā bhagavatā abyākatā; tesampissa sādhu veyyākaraṇaṁ, bahujano pasīdeyya, tato gaccheyya sugatiṁ.
+*   **Bốn nền tảng của sức mạnh tâm trí:** Để làm chủ tâm trí, người tu hành cần rèn luyện sự tập trung thông qua bốn yếu tố: (1) Mong muốn mãnh liệt, (2) Nỗ lực bền bỉ, (3) Tâm trí chuyên chú, và (4) Sự thẩm tra, phân tích. Đây là cội nguồn sức mạnh của mọi bậc tu hành từ quá khứ đến tương lai.
+*   **Ba cơ hội chuyển hóa tâm lý (đạt được sự dễ chịu):**
+    1. Từ bỏ sự vướng mắc vào khoái lạc giác quan và những điều xấu ác để tâm trí sinh ra niềm hạnh phúc thanh thản.
+    2. Lắng dịu các hoạt động thô tháo của cơ thể, lời nói và suy nghĩ để đạt được niềm vui sâu sắc hơn.
+    3. Xóa bỏ sự u mê, nhận biết rõ ràng đâu là điều thiện/ác, tốt/xấu. Khi hiểu biết sinh khởi, niềm vui tột cùng sẽ xuất hiện.
+*   **Bốn nơi Tự Quan Sát (Tứ niệm xứ):** Liên tục quan sát Cơ thể, Cảm giác, Tâm trí và Các quy luật vận hành bên trong mình một cách rõ ràng. Việc này giúp loại bỏ lòng tham và ưu phiền, đạt được sự tập trung và thấu hiểu vạn vật.
+*   **Bảy yếu tố hỗ trợ Định (Bát Thánh Đạo):** Một tiến trình nhân quả liên tục: Từ *Nhìn Thấy Thiện* dẫn đến *Suy Nghĩ Thiện*, sinh ra *Lời Nói Thiện*, *Hành Động Thiện*, *Đời Sống Thiện*, *Nỗ Lực Thiện*, và *Tự Quan Sát Thiện*. Bảy yếu tố này hợp nhất lại tạo thành *Định thiện*, từ đó sinh ra Hiểu biết đúng đắn và Giải thoát hoàn toàn.
 
-Ayaṁ kho panāpi ahosi rājā māgadho seniyo bimbisāro dhammiko dhammarājā hito brāhmaṇagahapatikānaṁ negamānañceva jānapadānañca. Apissudaṁ manussā kittayamānarūpā viharanti: ‘evaṁ no so dhammiko dhammarājā sukhāpetvā kālaṅkato, evaṁ mayaṁ tassa dhammikassa dhammarañño vijite phāsu viharimhā’ti. So kho panāpi ahosi buddhe pasanno dhamme pasanno saṅghe pasanno sīlesu paripūrakārī. Apissudaṁ manussā evamāhaṁsu: ‘yāva maraṇakālāpi rājā māgadho seniyo bimbisāro bhagavantaṁ kittayamānarūpo kālaṅkato’ti. So abbhatīto kālaṅkato bhagavatā abyākato. Tassapissa sādhu veyyākaraṇaṁ bahujano pasīdeyya, tato gaccheyya sugatiṁ.
+**5. Lời kết**
+Cuối cùng, Phạm thiên Sanaṅkumāra tiết lộ để giải đáp thắc mắc ban đầu: Đã có hơn 2,4 triệu đệ tử ở Magadha qua đời và đạt được trạng thái an toàn, không còn rơi vào cõi thấp (Tu-đà-hoàn), trong đó có cả những người đạt quả vị cao hơn.
 
-Bhagavato kho pana sambodhi magadhesu. Yattha kho pana bhagavato sambodhi magadhesu, kathaṁ tatra bhagavā māgadhake paricārake abbhatīte kālaṅkate upapattīsu na byākareyya. Bhagavā ce kho pana māgadhake paricārake abbhatīte kālaṅkate upapattīsu na byākareyya, dīnamanā tenassu māgadhakā paricārakā; yena kho panassu dīnamanā māgadhakā paricārakā kathaṁ te bhagavā na byākareyyā”ti?
+Janavasabha kể xong câu chuyện này cho Đức Phật rồi biến mất. Đức Phật truyền đạt lại toàn bộ sự việc cho Tôn giả Ānanda. Sau đó, Ānanda phổ biến lại cho toàn bộ Tăng đoàn cũng như cư sĩ. Nhờ sự xác nhận từ cả cõi người và cõi trời, giáo pháp của Đức Phật ngày càng lan rộng, hưng thịnh và mang lại lợi ích cho vô số chúng sinh.
 
-Idamāyasmā ānando māgadhake paricārake ārabbha eko raho anuvicintetvā rattiyā paccūsasamayaṁ paccuṭṭhāya yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho āyasmā ānando bhagavantaṁ etadavoca: “sutaṁ metaṁ, bhante: ‘bhagavā kira parito parito janapadesu paricārake abbhatīte kālaṅkate upapattīsu byākaroti kāsikosalesu vajjimallesu cetivaṁsesu kurupañcālesu majjhasūrasenesu: “asu amutra upapanno, asu amutra upapanno. Paropaññāsa nātikiyā paricārakā abbhatītā kālaṅkatā pañcannaṁ orambhāgiyānaṁ saṁyojanānaṁ parikkhayā opapātikā tattha parinibbāyino anāvattidhammā tasmā lokā. Sādhikā navuti nātikiyā paricārakā abbhatītā kālaṅkatā tiṇṇaṁ saṁyojanānaṁ parikkhayā rāgadosamohānaṁ tanuttā sakadāgāmino, sakideva imaṁ lokaṁ āgantvā dukkhassantaṁ karissanti. Sātirekāni pañcasatāni nātikiyā paricārakā abbhatītā kālaṅkatā tiṇṇaṁ saṁyojanānaṁ parikkhayā sotāpannā avinipātadhammā niyatā sambodhiparāyaṇāti. Tena ca nātikiyā paricārakā attamanā ahesuṁ pamuditā pītisomanassajātā bhagavato pañhaveyyākaraṇaṁ sutvā”’ti. Ime kho panāpi, bhante, ahesuṁ māgadhakā paricārakā bahū ceva rattaññū ca abbhatītā kālaṅkatā. Suññā maññe aṅgamagadhā aṅgamāgadhakehi paricārakehi abbhatītehi kālaṅkatehi. Te kho panāpi, bhante, ahesuṁ buddhe pasannā dhamme pasannā saṅghe pasannā sīlesu paripūrakārino, te abbhatītā kālaṅkatā bhagavatā abyākatā. Tesampissa sādhu veyyākaraṇaṁ, bahujano pasīdeyya, tato gaccheyya sugatiṁ. Ayaṁ kho panāpi, bhante, ahosi rājā māgadho seniyo bimbisāro dhammiko dhammarājā hito brāhmaṇagahapatikānaṁ negamānañceva jānapadānañca. Apissudaṁ manussā kittayamānarūpā viharanti: ‘evaṁ no so dhammiko dhammarājā sukhāpetvā kālaṅkato. Evaṁ mayaṁ tassa dhammikassa dhammarañño vijite phāsu viharimhā’ti. So kho panāpi, bhante, ahosi buddhe pasanno dhamme pasanno saṅghe pasanno sīlesu paripūrakārī. Apissudaṁ manussā evamāhaṁsu: ‘yāva maraṇakālāpi rājā māgadho seniyo bimbisāro bhagavantaṁ kittayamānarūpo kālaṅkato’ti. So abbhatīto kālaṅkato bhagavatā abyākato; tassapissa sādhu veyyākaraṇaṁ, bahujano pasīdeyya, tato gaccheyya sugatiṁ. Bhagavato kho pana, bhante, sambodhi magadhesu. Yattha kho pana, bhante, bhagavato sambodhi magadhesu, kathaṁ tatra bhagavā māgadhake paricārake abbhatīte kālaṅkate upapattīsu na byākareyya? Bhagavā ce kho pana, bhante, māgadhake paricārake abbhatīte kālaṅkate upapattīsu na byākareyya, dīnamanā tenassu māgadhakā paricārakā; yena kho panassu dīnamanā māgadhakā paricārakā kathaṁ te bhagavā na byākareyyā”ti. Idamāyasmā ānando māgadhake paricārake ārabbha bhagavato sammukhā parikathaṁ katvā uṭṭhāyāsanā bhagavantaṁ abhivādetvā padakkhiṇaṁ katvā pakkāmi.
+###  Bảng thuật ngữ
 
-Atha kho bhagavā acirapakkante āyasmante ānande pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya nātikaṁ piṇḍāya pāvisi. Nātike piṇḍāya caritvā pacchābhattaṁ piṇḍapātapaṭikkanto pāde pakkhāletvā giñjakāvasathaṁ pavisitvā māgadhake paricārake ārabbha aṭṭhiṁ katvā manasikatvā sabbaṁ cetasā samannāharitvā paññatte āsane nisīdi: “gatiṁ nesaṁ jānissāmi abhisamparāyaṁ, yaṅgatikā te bhavanto yaṁabhisamparāyā”ti. Addasā kho bhagavā māgadhake paricārake: “yaṅgatikā te bhavanto yaṁabhisamparāyā”ti.
+| Thuật ngữ Pali | Từ cũ (Hán-Việt) | Từ mới (Hiện đại) | Ghi chú |
+| :--- | :--- | :--- | :--- |
+| [!] opapātika | hóa sanh | sinh ra tự nhiên | Sinh ra không qua thai nghén, thường dùng cho chư thiên. |
+| [!] orambhāgiyānaṁ saṁyojanānaṁ | hạ phần kiết sử | xiềng xích trói buộc cõi dưới | 5 trói buộc kéo tâm trí về các trạng thái thấp. |
+| [!] parinibbāyino | bát niết bàn | chấm dứt hoàn toàn | Sự tắt ngưng hoàn toàn của các tiến trình tâm-vật lý. |
+| [!] anāvattidhammā | bất lai / bất hoàn | không còn quay trở lại | Trạng thái tâm lý không còn thoái lui về các khuôn mẫu cũ. |
+| [!] sakadāgāmino | nhất lai | người chỉ quay lại một lần | |
+| [!] sotāpannā | tu-đà-hoàn | người bước vào dòng chảy | |
+| [!] avinipātadhammā | bất đọa pháp | không còn rơi vào cõi thấp | Tâm trí đã an toàn, không thoái đọa. |
+| [!] sambodhiparāyaṇā | hướng đến chánh giác | chắc chắn hướng đến sự thức tỉnh | |
+| [!] yakkha | dạ xoa | tinh linh | Trong kinh sơ kỳ, yakkha thường chỉ các sinh linh phi nhân có thế lực, không hẳn là ác quỷ. |
+| [!] brahmacariya | phạm hạnh | lối sống thanh tịnh | |
+| [BT] iddhipāda | như ý túc | nền tảng của sức mạnh tâm trí | Công thức hóa cao độ. |
+| [NG] okāsādhigama | cơ hội chứng đạt | cơ hội đạt được sự dễ chịu | Sự mở ra không gian tâm lý mới khi buông bỏ cái cũ. |
+| [BT] samādhiparikkhārā | định tư cụ | yếu tố hỗ trợ Định | Cách hệ thống hóa Bát Thánh Đạo thành các yếu tố xoay quanh Định. |
+| [!] aveccappasādena | tịnh tín tuyệt đối | niềm tin không lay chuyển | Niềm tin dựa trên sự thấy rõ bản chất, không phải đức tin mù quáng. |
 
-Atha kho bhagavā sāyanhasamayaṁ paṭisallānā vuṭṭhito giñjakāvasathā nikkhamitvā vihārapacchāyāyaṁ paññatte āsane nisīdi.
+---
 
-Atha kho āyasmā ānando yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho āyasmā ānando bhagavantaṁ etadavoca: “upasantapadisso, bhante, bhagavā bhātiriva bhagavato mukhavaṇṇo vippasannattā indriyānaṁ. Santena nūnajja, bhante, bhagavā vihārena vihāsī”ti?
-
-“Yadeva kho me tvaṁ, ānanda, māgadhake paricārake ārabbha sammukhā parikathaṁ katvā uṭṭhāyāsanā pakkanto, tadevāhaṁ nātike piṇḍāya caritvā pacchābhattaṁ piṇḍapātapaṭikkanto pāde pakkhāletvā giñjakāvasathaṁ pavisitvā māgadhake paricārake ārabbha aṭṭhiṁ katvā manasikatvā sabbaṁ cetasā samannāharitvā paññatte āsane nisīdiṁ: ‘gatiṁ nesaṁ jānissāmi abhisamparāyaṁ, yaṅgatikā te bhavanto yaṁabhisamparāyā’ti. Addasaṁ kho ahaṁ, ānanda, māgadhake paricārake ‘yaṅgatikā te bhavanto yaṁabhisamparāyā’ti.
-
-## 3. Janavasabhayakkha
-
-Atha kho, ānanda, antarahito yakkho saddamanussāvesi: ‘janavasabho ahaṁ, bhagavā; janavasabho ahaṁ, sugatā’ti. Abhijānāsi no tvaṁ, ānanda, ito pubbe evarūpaṁ nāmadheyyaṁ sutaṁ yadidaṁ janavasabho”ti?
-
-“Na kho ahaṁ, bhante, abhijānāmi ito pubbe evarūpaṁ nāmadheyyaṁ sutaṁ yadidaṁ janavasabhoti, api ca me, bhante, lomāni haṭṭhāni ‘janavasabho’ti nāmadheyyaṁ sutvā. Tassa mayhaṁ, bhante, etadahosi: ‘na hi nūna so orako yakkho bhavissati yadidaṁ evarūpaṁ nāmadheyyaṁ supaññattaṁ yadidaṁ janavasabho’”ti.
-
-“Anantarā kho, ānanda, saddapātubhāvā uḷāravaṇṇo me yakkho sammukhe pāturahosi. Dutiyakampi saddamanussāvesi: ‘bimbisāro ahaṁ, bhagavā; bimbisāro ahaṁ, sugatāti. Idaṁ sattamaṁ kho ahaṁ, bhante, vessavaṇassa mahārājassa sahabyataṁ upapajjāmi, so tato cuto manussarājā bhavituṁ pahomi.
-
-> Ito satta tato satta, saṁsārāni catuddasa; Nivāsamabhijānāmi, yattha me vusitaṁ pure.
-
-Dīgharattaṁ kho ahaṁ, bhante, avinipāto avinipātaṁ sañjānāmi, āsā ca pana me santiṭṭhati sakadāgāmitāyā’”ti.
-
-“Acchariyamidaṁ āyasmato janavasabhassa yakkhassa, abbhutamidaṁ āyasmato janavasabhassa yakkhassa.
-
-‘Dīgharattaṁ kho ahaṁ, bhante, avinipāto avinipātaṁ sañjānāmī’ti ca vadesi, ‘āsā ca pana me santiṭṭhati sakadāgāmitāyā’ti ca vadesi, kutonidānaṁ panāyasmā janavasabho yakkho evarūpaṁ uḷāraṁ visesādhigamaṁ sañjānātī”ti?
-
-“‘Na aññatra, bhagavā, tava sāsanā, na aññatra, sugata, tava sāsanā; yadagge ahaṁ, bhante, bhagavati ekantikato abhippasanno, tadagge ahaṁ, bhante, dīgharattaṁ avinipāto avinipātaṁ sañjānāmi, āsā ca pana me santiṭṭhati sakadāgāmitāya. Idhāhaṁ, bhante, vessavaṇena mahārājena pesito virūḷhakassa mahārājassa santike kenacideva karaṇīyena addasaṁ bhagavantaṁ antarāmagge giñjakāvasathaṁ pavisitvā māgadhake paricārake ārabbha aṭṭhiṁ katvā manasikatvā sabbaṁ cetasā samannāharitvā nisinnaṁ: “gatiṁ nesaṁ jānissāmi abhisamparāyaṁ, yaṅgatikā te bhavanto yaṁabhisamparāyā”ti. Anacchariyaṁ kho panetaṁ, bhante, yaṁ vessavaṇassa mahārājassa tassaṁ parisāyaṁ bhāsato sammukhā sutaṁ sammukhā paṭiggahitaṁ: “yaṅgatikā te bhavanto yaṁabhisamparāyā”ti. Tassa mayhaṁ, bhante, etadahosi: “bhagavantañca dakkhāmi, idañca bhagavato ārocessāmī”ti. Ime kho me, bhante, dvepaccayā bhagavantaṁ dassanāya upasaṅkamituṁ.
-
-## 4. Devasabhā
-
-Purimāni, bhante, divasāni purimatarāni tadahuposathe pannarase vassūpanāyikāya puṇṇāya puṇṇamāya rattiyā kevalakappā ca devā tāvatiṁsā sudhammāyaṁ sabhāyaṁ sannisinnā honti sannipatitā. Mahatī ca dibbaparisā samantato nisinnā honti, cattāro ca mahārājāno catuddisā nisinnā honti.
-
-Puratthimāya disāya dhataraṭṭho mahārājā pacchimābhimukho nisinno hoti deve purakkhatvā; dakkhiṇāya disāya virūḷhako mahārājā uttarābhimukho nisinno hoti deve purakkhatvā; pacchimāya disāya virūpakkho mahārājā puratthābhimukho nisinno hoti deve purakkhatvā; uttarāya disāya vessavaṇo mahārājā dakkhiṇābhimukho nisinno hoti deve purakkhatvā. Yadā, bhante, kevalakappā ca devā tāvatiṁsā sudhammāyaṁ sabhāyaṁ sannisinnā honti sannipatitā, mahatī ca dibbaparisā samantato nisinnā honti, cattāro ca mahārājāno catuddisā nisinnā honti. Idaṁ nesaṁ hoti āsanasmiṁ; atha pacchā amhākaṁ āsanaṁ hoti.
-
-Ye te, bhante, devā bhagavati brahmacariyaṁ caritvā adhunūpapannā tāvatiṁsakāyaṁ, te aññe deve atirocanti vaṇṇena ceva yasasā ca. Tena sudaṁ, bhante, devā tāvatiṁsā attamanā honti pamuditā pītisomanassajātā: “dibbā vata bho kāyā paripūrenti, hāyanti asurakāyā”ti.
-
-Atha kho, bhante, sakko devānamindo devānaṁ tāvatiṁsānaṁ sampasādaṁ viditvā imāhi gāthāhi anumodi:
-
-> “Modanti vata bho devā, tāvatiṁsā sahindakā; Tathāgataṁ namassantā, dhammassa ca sudhammataṁ.
->
-> Nave deve ca passantā, vaṇṇavante yasassine; Sugatasmiṁ brahmacariyaṁ, caritvāna idhāgate.
->
-> Te aññe atirocanti, vaṇṇena yasasāyunā; Sāvakā bhūripaññassa, visesūpagatā idha.
->
-> Idaṁ disvāna nandanti, tāvatiṁsā sahindakā; Tathāgataṁ namassantā, dhammassa ca sudhammatan”ti.
-
-Tena sudaṁ, bhante, devā tāvatiṁsā bhiyyoso mattāya attamanā honti pamuditā pītisomanassajātā “dibbā vata, bho, kāyā paripūrenti, hāyanti asurakāyā”ti.
-
-Atha kho, bhante, yenatthena devā tāvatiṁsā sudhammāyaṁ sabhāyaṁ sannisinnā honti sannipatitā, taṁ atthaṁ cintayitvā taṁ atthaṁ mantayitvā vuttavacanāpi taṁ cattāro mahārājāno tasmiṁ atthe honti. Paccānusiṭṭhavacanāpi taṁ cattāro mahārājāno tasmiṁ atthe honti, sakesu sakesu āsanesu ṭhitā avipakkantā.
-
-> Te vuttavākyā rājāno, paṭiggayhānusāsaniṁ; Vippasannamanā santā, aṭṭhaṁsu samhi āsaneti.
-
-Atha kho, bhante, uttarāya disāya uḷāro āloko sañjāyi, obhāso pāturahosi atikkammeva devānaṁ devānubhāvaṁ. Atha kho, bhante, sakko devānamindo deve tāvatiṁse āmantesi: “yathā kho, mārisā, nimittāni dissanti, uḷāro āloko sañjāyati, obhāso pātubhavati, brahmā pātubhavissati. Brahmuno hetaṁ pubbanimittaṁ pātubhāvāya yadidaṁ āloko sañjāyati obhāso pātubhavatī”ti.
-
-> Yathā nimittā dissanti, brahmā pātubhavissati; Brahmuno hetaṁ nimittaṁ, obhāso vipulo mahāti.
-
-## 5. Sanaṅkumārakathā
-
-Atha kho, bhante, devā tāvatiṁsā yathāsakesu āsanesu nisīdiṁsu: “obhāsametaṁ ñassāma, yaṁvipāko bhavissati, sacchikatvāva naṁ gamissāmā”ti. Cattāropi mahārājāno yathāsakesu āsanesu nisīdiṁsu: “obhāsametaṁ ñassāma yaṁvipāko bhavissati, sacchikatvāva naṁ gamissāmā”ti.
-
-Idaṁ sutvā devā tāvatiṁsā ekaggā samāpajjiṁsu: “obhāsametaṁ ñassāma, yaṁvipāko bhavissati, sacchikatvāva naṁ gamissāmā”ti.
-
-Yadā, bhante, brahmā sanaṅkumāro devānaṁ tāvatiṁsānaṁ pātubhavati, oḷārikaṁ attabhāvaṁ abhinimminitvā pātubhavati. Yo kho pana, bhante, brahmuno pakativaṇṇo anabhisambhavanīyo so devānaṁ tāvatiṁsānaṁ cakkhupathasmiṁ. Yadā, bhante, brahmā sanaṅkumāro devānaṁ tāvatiṁsānaṁ pātubhavati, so aññe deve atirocati vaṇṇena ceva yasasā ca. Seyyathāpi, bhante, sovaṇṇo viggaho mānusaṁ viggahaṁ atirocati; evameva kho, bhante, yadā brahmā sanaṅkumāro devānaṁ tāvatiṁsānaṁ pātubhavati, so aññe deve atirocati vaṇṇena ceva yasasā ca.
-
-Yadā, bhante, brahmā sanaṅkumāro devānaṁ tāvatiṁsānaṁ pātubhavati, na tassaṁ parisāyaṁ koci devo abhivādeti vā paccuṭṭheti vā āsanena vā nimanteti. Sabbeva tuṇhībhūtā pañjalikā pallaṅkena nisīdanti: “yassadāni devassa pallaṅkaṁ icchissati brahmā sanaṅkumāro, tassa devassa pallaṅke nisīdissatī”ti. Yassa kho pana, bhante, devassa brahmā sanaṅkumāro pallaṅke nisīdati, uḷāraṁ so labhati devo vedapaṭilābhaṁ; uḷāraṁ so labhati devo somanassapaṭilābhaṁ. Seyyathāpi, bhante, rājā khattiyo muddhāvasitto adhunābhisitto rajjena, uḷāraṁ so labhati vedapaṭilābhaṁ, uḷāraṁ so labhati somanassapaṭilābhaṁ; evameva kho, bhante, yassa devassa brahmā sanaṅkumāro pallaṅke nisīdati, uḷāraṁ so labhati devo vedapaṭilābhaṁ, uḷāraṁ so labhati devo somanassapaṭilābhaṁ.
-
-Atha, bhante, brahmā sanaṅkumāro oḷārikaṁ attabhāvaṁ abhinimminitvā kumāravaṇṇī hutvā pañcasikho devānaṁ tāvatiṁsānaṁ pāturahosi. So vehāsaṁ abbhuggantvā ākāse antalikkhe pallaṅkena nisīdi. Seyyathāpi, bhante, balavā puriso supaccatthate vā pallaṅke same vā bhūmibhāge pallaṅkena nisīdeyya; evameva kho, bhante, brahmā sanaṅkumāro vehāsaṁ abbhuggantvā ākāse antalikkhe pallaṅkena nisīditvā devānaṁ tāvatiṁsānaṁ sampasādaṁ viditvā imāhi gāthāhi anumodi:
-
-> “Modanti vata bho devā, tāvatiṁsā sahindakā; Tathāgataṁ namassantā, dhammassa ca sudhammataṁ.
->
-> Nave deve ca passantā, vaṇṇavante yasassine; Sugatasmiṁ brahmacariyaṁ, caritvāna idhāgate.
->
-> Te aññe atirocanti, vaṇṇena yasasāyunā; Sāvakā bhūripaññassa, visesūpagatā idha.
->
-> Idaṁ disvāna nandanti, tāvatiṁsā sahindakā; Tathāgataṁ namassantā, dhammassa ca sudhammatan”ti.
-
-Imamatthaṁ, bhante, brahmā sanaṅkumāro bhāsittha; imamatthaṁ, bhante, brahmuno sanaṅkumārassa bhāsato aṭṭhaṅgasamannāgato saro hoti vissaṭṭho ca viññeyyo ca mañju ca savanīyo ca bindu ca avisārī ca gambhīro ca ninnādī ca. Yathāparisaṁ kho pana, bhante, brahmā sanaṅkumāro sarena viññāpeti; na cassa bahiddhā parisāya ghoso niccharati. Yassa kho pana, bhante, evaṁ aṭṭhaṅgasamannāgato saro hoti, so vuccati “brahmassaro”ti.
-
-Atha kho, bhante, brahmā sanaṅkumāro tettiṁse attabhāve abhinimminitvā devānaṁ tāvatiṁsānaṁ paccekapallaṅkesu pallaṅkena nisīditvā deve tāvatiṁse āmantesi: “taṁ kiṁ maññanti, bhonto devā tāvatiṁsā, yāvañca so bhagavā bahujanahitāya paṭipanno bahujanasukhāya lokānukampāya atthāya hitāya sukhāya devamanussānaṁ. Ye hi keci, bho, buddhaṁ saraṇaṁ gatā dhammaṁ saraṇaṁ gatā saṅghaṁ saraṇaṁ gatā sīlesu paripūrakārino te kāyassa bhedā paraṁ maraṇā appekacce paranimmitavasavattīnaṁ devānaṁ sahabyataṁ upapajjanti, appekacce nimmānaratīnaṁ devānaṁ sahabyataṁ upapajjanti, appekacce tusitānaṁ devānaṁ sahabyataṁ upapajjanti, appekacce yāmānaṁ devānaṁ sahabyataṁ upapajjanti, appekacce tāvatiṁsānaṁ devānaṁ sahabyataṁ upapajjanti, appekacce cātumahārājikānaṁ devānaṁ sahabyataṁ upapajjanti. Ye sabbanihīnaṁ kāyaṁ paripūrenti, te gandhabbakāyaṁ paripūrentī”ti.
-
-Imamatthaṁ, bhante, brahmā sanaṅkumāro bhāsittha; imamatthaṁ, bhante, brahmuno sanaṅkumārassa bhāsato ghosoyeva devā maññanti: “yvāyaṁ mama pallaṅke svāyaṁ ekova bhāsatī”ti.
-
-> Ekasmiṁ bhāsamānasmiṁ, sabbe bhāsanti nimmitā; Ekasmiṁ tuṇhimāsīne, sabbe tuṇhī bhavanti te.
->
-> Tadāsu devā maññanti, tāvatiṁsā sahindakā; Yvāyaṁ mama pallaṅkasmiṁ, svāyaṁ ekova bhāsatīti.
-
-Atha kho, bhante, brahmā sanaṅkumāro ekattena attānaṁ upasaṁharati, ekattena attānaṁ upasaṁharitvā sakkassa devānamindassa pallaṅke pallaṅkena nisīditvā deve tāvatiṁse āmantesi:
-
-## 6. Bhāvitaiddhipāda
-
-“Taṁ kiṁ maññanti, bhonto devā tāvatiṁsā, yāva supaññattā cime tena bhagavatā jānatā passatā arahatā sammāsambuddhena cattāro iddhipādā paññattā iddhipahutāya iddhivisavitāya iddhivikubbanatāya. Katame cattāro? Idha bho bhikkhu chandasamādhippadhānasaṅkhārasamannāgataṁ iddhipādaṁ bhāveti. Vīriyasamādhippadhānasaṅkhārasamannāgataṁ iddhipādaṁ bhāveti. Cittasamādhippadhānasaṅkhārasamannāgataṁ iddhipādaṁ bhāveti. Vīmaṁsāsamādhippadhānasaṅkhārasamannāgataṁ iddhipādaṁ bhāveti. Ime kho, bho, tena bhagavatā jānatā passatā arahatā sammāsambuddhena cattāro iddhipādā paññattā iddhipahutāya iddhivisavitāya iddhivikubbanatāya.
-
-Ye hi keci bho atītamaddhānaṁ samaṇā vā brāhmaṇā vā anekavihitaṁ iddhividhaṁ paccanubhosuṁ, sabbe te imesaṁyeva catunnaṁ iddhipādānaṁ bhāvitattā bahulīkatattā. Yepi hi keci bho anāgatamaddhānaṁ samaṇā vā brāhmaṇā vā anekavihitaṁ iddhividhaṁ paccanubhossanti, sabbe te imesaṁyeva catunnaṁ iddhipādānaṁ bhāvitattā bahulīkatattā. Yepi hi keci bho etarahi samaṇā vā brāhmaṇā vā anekavihitaṁ iddhividhaṁ paccanubhonti, sabbe te imesaṁyeva catunnaṁ iddhipādānaṁ bhāvitattā bahulīkatattā. Passanti no, bhonto devā tāvatiṁsā, mamapimaṁ evarūpaṁ iddhānubhāvan”ti?
-
-“Evaṁ, mahābrahme”ti.
-
-“Ahampi kho bho imesaṁyeva catunnañca iddhipādānaṁ bhāvitattā bahulīkatattā evaṁ mahiddhiko evaṁmahānubhāvo”ti.
-
-Imamatthaṁ, bhante, brahmā sanaṅkumāro bhāsittha. Imamatthaṁ, bhante, brahmā sanaṅkumāro bhāsitvā deve tāvatiṁse āmantesi:
-
-## 7. Tividhaokāsādhigama
-
-“Taṁ kiṁ maññanti, bhonto devā tāvatiṁsā, yāvañcidaṁ tena bhagavatā jānatā passatā arahatā sammāsambuddhena tayo okāsādhigamā anubuddhā sukhassādhigamāya. Katame tayo?
-
-Idha bho ekacco saṁsaṭṭho viharati kāmehi saṁsaṭṭho akusalehi dhammehi. So aparena samayena ariyadhammaṁ suṇāti, yoniso manasi karoti, dhammānudhammaṁ paṭipajjati. So ariyadhammassavanaṁ āgamma yonisomanasikāraṁ dhammānudhammappaṭipattiṁ asaṁsaṭṭho viharati kāmehi asaṁsaṭṭho akusalehi dhammehi. Tassa asaṁsaṭṭhassa kāmehi asaṁsaṭṭhassa akusalehi dhammehi uppajjati sukhaṁ, sukhā bhiyyo somanassaṁ. Seyyathāpi, bho, pamudā pāmojjaṁ jāyetha; evameva kho, bho, asaṁsaṭṭhassa kāmehi asaṁsaṭṭhassa akusalehi dhammehi uppajjati sukhaṁ, sukhā bhiyyo somanassaṁ. Ayaṁ kho, bho, tena bhagavatā jānatā passatā arahatā sammāsambuddhena paṭhamo okāsādhigamo anubuddho sukhassādhigamāya.
-
-Puna caparaṁ, bho, idhekaccassa oḷārikā kāyasaṅkhārā appaṭippassaddhā honti, oḷārikā vacīsaṅkhārā appaṭippassaddhā honti, oḷārikā cittasaṅkhārā appaṭippassaddhā honti. So aparena samayena ariyadhammaṁ suṇāti, yoniso manasi karoti, dhammānudhammaṁ paṭipajjati. Tassa ariyadhammassavanaṁ āgamma yonisomanasikāraṁ dhammānudhammappaṭipattiṁ oḷārikā kāyasaṅkhārā paṭippassambhanti, oḷārikā vacīsaṅkhārā paṭippassambhanti, oḷārikā cittasaṅkhārā paṭippassambhanti. Tassa oḷārikānaṁ kāyasaṅkhārānaṁ paṭippassaddhiyā oḷārikānaṁ vacīsaṅkhārānaṁ paṭippassaddhiyā oḷārikānaṁ cittasaṅkhārānaṁ paṭippassaddhiyā uppajjati sukhaṁ, sukhā bhiyyo somanassaṁ. Seyyathāpi, bho, pamudā pāmojjaṁ jāyetha; evameva kho bho oḷārikānaṁ kāyasaṅkhārānaṁ paṭippassaddhiyā oḷārikānaṁ vacīsaṅkhārānaṁ paṭippassaddhiyā oḷārikānaṁ cittasaṅkhārānaṁ paṭippassaddhiyā uppajjati sukhaṁ, sukhā bhiyyo somanassaṁ. Ayaṁ kho, bho, tena bhagavatā jānatā passatā arahatā sammāsambuddhena dutiyo okāsādhigamo anubuddho sukhassādhigamāya.
-
-Puna caparaṁ, bho, idhekacco ‘idaṁ kusalan’ti yathābhūtaṁ nappajānāti, ‘idaṁ akusalan’ti yathābhūtaṁ nappajānāti. ‘Idaṁ sāvajjaṁ idaṁ anavajjaṁ, idaṁ sevitabbaṁ idaṁ na sevitabbaṁ, idaṁ hīnaṁ idaṁ paṇītaṁ, idaṁ kaṇhasukkasappaṭibhāgan’ti yathābhūtaṁ nappajānāti. So aparena samayena ariyadhammaṁ suṇāti, yoniso manasi karoti, dhammānudhammaṁ paṭipajjati. So ariyadhammassavanaṁ āgamma yonisomanasikāraṁ dhammānudhammappaṭipattiṁ, ‘idaṁ kusalan’ti yathābhūtaṁ pajānāti, ‘idaṁ akusalan’ti yathābhūtaṁ pajānāti. ‘Idaṁ sāvajjaṁ idaṁ anavajjaṁ, idaṁ sevitabbaṁ idaṁ na sevitabbaṁ, idaṁ hīnaṁ idaṁ paṇītaṁ, idaṁ kaṇhasukkasappaṭibhāgan’ti yathābhūtaṁ pajānāti. Tassa evaṁ jānato evaṁ passato avijjā pahīyati, vijjā uppajjati. Tassa avijjāvirāgā vijjuppādā uppajjati sukhaṁ, sukhā bhiyyo somanassaṁ. Seyyathāpi, bho, pamudā pāmojjaṁ jāyetha; evameva kho, bho, avijjāvirāgā vijjuppādā uppajjati sukhaṁ, sukhā bhiyyo somanassaṁ. Ayaṁ kho, bho, tena bhagavatā jānatā passatā arahatā sammāsambuddhena tatiyo okāsādhigamo anubuddho sukhassādhigamāya.
-
-Ime kho, bho, tena bhagavatā jānatā passatā arahatā sammāsambuddhena tayo okāsādhigamā anubuddhā sukhassādhigamāyā”ti.
-
-Imamatthaṁ, bhante, brahmā sanaṅkumāro bhāsittha, imamatthaṁ, bhante, brahmā sanaṅkumāro bhāsitvā deve tāvatiṁse āmantesi:
-
-## 8. Catusatipaṭṭhāna
-
-“Taṁ kiṁ maññanti, bhonto devā tāvatiṁsā, yāva supaññattā cime tena bhagavatā jānatā passatā arahatā sammāsambuddhena cattāro satipaṭṭhānā paññattā kusalassādhigamāya. Katame cattāro?
-
-Idha, bho, bhikkhu ajjhattaṁ kāye kāyānupassī viharati ātāpī sampajāno satimā vineyya loke abhijjhādomanassaṁ. Ajjhattaṁ kāye kāyānupassī viharanto tattha sammā samādhiyati, sammā vippasīdati. So tattha sammā samāhito sammā vippasanno bahiddhā parakāye ñāṇadassanaṁ abhinibbatteti.
-
-Ajjhattaṁ vedanāsu vedanānupassī viharati …pe… bahiddhā paravedanāsu ñāṇadassanaṁ abhinibbatteti.
-
-Ajjhattaṁ citte cittānupassī viharati …pe… bahiddhā paracitte ñāṇadassanaṁ abhinibbatteti.
-
-Ajjhattaṁ dhammesu dhammānupassī viharati ātāpī sampajāno satimā vineyya loke abhijjhādomanassaṁ. Ajjhattaṁ dhammesu dhammānupassī viharanto tattha sammā samādhiyati, sammā vippasīdati. So tattha sammā samāhito sammā vippasanno bahiddhā paradhammesu ñāṇadassanaṁ abhinibbatteti.
-
-Ime kho, bho, tena bhagavatā jānatā passatā arahatā sammāsambuddhena cattāro satipaṭṭhānā paññattā kusalassādhigamāyā”ti.
-
-Imamatthaṁ, bhante, brahmā sanaṅkumāro bhāsittha. Imamatthaṁ, bhante, brahmā sanaṅkumāro bhāsitvā deve tāvatiṁse āmantesi:
-
-## 9. Sattasamādhiparikkhāra
-
-“Taṁ kiṁ maññanti, bhonto devā tāvatiṁsā, yāva supaññattā cime tena bhagavatā jānatā passatā arahatā sammāsambuddhena satta samādhiparikkhārā sammāsamādhissa paribhāvanāya sammāsamādhissa pāripūriyā. Katame satta? Sammādiṭṭhi sammāsaṅkappo sammāvācā sammākammanto sammāājīvo sammāvāyāmo sammāsati. Yā kho, bho, imehi sattahaṅgehi cittassa ekaggatā parikkhatā, ayaṁ vuccati, bho, ariyo sammāsamādhi saupaniso itipi saparikkhāro itipi.
-
-Sammādiṭṭhissa, bho, sammāsaṅkappo pahoti, sammāsaṅkappassa sammāvācā pahoti, sammāvācassa sammākammanto pahoti. Sammākammantassa sammāājīvo pahoti, sammāājīvassa sammāvāyāmo pahoti, sammāvāyāmassa sammāsati pahoti, sammāsatissa sammāsamādhi pahoti, sammāsamādhissa sammāñāṇaṁ pahoti, sammāñāṇassa sammāvimutti pahoti.
-
-Yañhi taṁ, bho, sammā vadamāno vadeyya: ‘svākkhāto bhagavatā dhammo sandiṭṭhiko akāliko ehipassiko opaneyyiko paccattaṁ veditabbo viññūhi apārutā amatassa dvārā’ti idameva taṁ sammā vadamāno vadeyya. Svākkhāto hi, bho, bhagavatā dhammo sandiṭṭhiko, akāliko ehipassiko opaneyyiko paccattaṁ veditabbo viññūhi apārutā amatassa dvārā.
-
-Ye hi keci, bho, buddhe aveccappasādena samannāgatā, dhamme aveccappasādena samannāgatā, saṅghe aveccappasādena samannāgatā, ariyakantehi sīlehi samannāgatā, ye cime opapātikā dhammavinītā sātirekāni catuvīsatisatasahassāni māgadhakā paricārakā abbhatītā kālaṅkatā tiṇṇaṁ saṁyojanānaṁ parikkhayā sotāpannā avinipātadhammā niyatā sambodhiparāyaṇā. Atthi cevettha sakadāgāmino.
-
-> Atthāyaṁ itarā pajā, puññābhāgāti me mano; Saṅkhātuṁ nopi sakkomi, musāvādassa ottappan”ti.
-
-Imamatthaṁ, bhante, brahmā sanaṅkumāro bhāsittha, imamatthaṁ, bhante, brahmuno sanaṅkumārassa bhāsato vessavaṇassa mahārājassa evaṁ cetaso parivitakko udapādi: “acchariyaṁ vata bho, abbhutaṁ vata bho, evarūpopi nāma uḷāro satthā bhavissati, evarūpaṁ uḷāraṁ dhammakkhānaṁ, evarūpā uḷārā visesādhigamā paññāyissantī”ti.
-
-Atha, bhante, brahmā sanaṅkumāro vessavaṇassa mahārājassa cetasā cetoparivitakkamaññāya vessavaṇaṁ mahārājānaṁ etadavoca: “taṁ kiṁ maññati bhavaṁ vessavaṇo mahārājā atītampi addhānaṁ evarūpo uḷāro satthā ahosi, evarūpaṁ uḷāraṁ dhammakkhānaṁ, evarūpā uḷārā visesādhigamā paññāyiṁsu. Anāgatampi addhānaṁ evarūpo uḷāro satthā bhavissati, evarūpaṁ uḷāraṁ dhammakkhānaṁ, evarūpā uḷārā visesādhigamā paññāyissantī”ti.
-
-Imamatthaṁ, bhante, brahmā sanaṅkumāro devānaṁ tāvatiṁsānaṁ abhāsi, imamatthaṁ vessavaṇo mahārājā brahmuno sanaṅkumārassa devānaṁ tāvatiṁsānaṁ bhāsato sammukhā sutaṁ sammukhā paṭiggahitaṁ sayaṁ parisāyaṁ ārocesi’”.
-
-Imamatthaṁ janavasabho yakkho vessavaṇassa mahārājassa sayaṁ parisāyaṁ bhāsato sammukhā sutaṁ sammukhā paṭiggahitaṁ bhagavato ārocesi. Imamatthaṁ bhagavā janavasabhassa yakkhassa sammukhā sutvā sammukhā paṭiggahetvā sāmañca abhiññāya āyasmato ānandassa ārocesi, imamatthamāyasmā ānando bhagavato sammukhā sutvā sammukhā paṭiggahetvā ārocesi bhikkhūnaṁ bhikkhunīnaṁ upāsakānaṁ upāsikānaṁ. Tayidaṁ brahmacariyaṁ iddhañceva phītañca vitthārikaṁ bāhujaññaṁ puthubhūtaṁ yāva devamanussehi suppakāsitanti.
-
-Janavasabhasuttaṁ niṭṭhitaṁ pañcamaṁ.

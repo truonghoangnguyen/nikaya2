@@ -1,163 +1,37 @@
-# Mahāsamayasutta
+- **Bối cảnh**: Đây là bài kinh *Mahāsamaya Sutta* (Đại Hội), thuộc Trường Bộ Kinh (DN 20). Đức Phật đang trú tại khu rừng lớn ở Kapilavatthu cùng 500 vị tỳ-kheo đều là bậc A-la-hán. Chư thiên từ mười thế giới hệ tụ tập về để chiêm ngưỡng. Bài kinh chủ yếu là những vần kệ liệt kê tên các vị chư thiên, Dạ-xoa, Rồng, A-tu-la, Phạm thiên... đã đến dự hội. Cuối cùng là sự xuất hiện của Ma vương (Māra) nhằm phá rối nhưng thất bại.
+- **Dấu hiệu văn bản**: Phần lớn văn bản là thi kệ (gāthā) mang tính chất liệt kê danh sách (nāmāni) các vị thần linh trong vũ trụ quan Phật giáo sơ kỳ. Đây có thể xem là một dạng cẩm nang ghi nhớ để các tỳ-kheo nhận biết các loại phi nhân.
+- **Mơ hồ ngữ pháp**: Do là văn vần, nhiều từ bị ép vần hoặc dùng dạng cổ (ví dụ: *gatāse* thay vì *gatā*, *dakkhitāye* thay vì *dakkhituṁ*).
+- **Những từ nghi ngờ**: Các danh từ riêng chỉ tên chư thiên được giữ nguyên âm. Một số thuật ngữ mô tả đặc tính của chư thiên được đưa vào bảng thuật ngữ.
 
-Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā sakkesu viharati kapilavatthusmiṁ mahāvane mahatā bhikkhusaṅghena saddhiṁ pañcamattehi bhikkhusatehi sabbeheva arahantehi; dasahi ca lokadhātūhi devatā yebhuyyena sannipatitā honti bhagavantaṁ dassanāya bhikkhusaṅghañca.
+---
 
-Atha kho catunnaṁ suddhāvāsakāyikānaṁ devatānaṁ etadahosi: “ayaṁ kho bhagavā sakkesu viharati kapilavatthusmiṁ mahāvane mahatā bhikkhusaṅghena saddhiṁ pañcamattehi bhikkhusatehi sabbeheva arahantehi; dasahi ca lokadhātūhi devatā yebhuyyena sannipatitā honti bhagavantaṁ dassanāya bhikkhusaṅghañca. Yannūna mayampi yena bhagavā tenupasaṅkameyyāma; upasaṅkamitvā bhagavato santike paccekaṁ gāthaṁ bhāseyyāmā”ti.
+### Bước 2: Liệt kê thuật ngữ
 
-Atha kho tā devatā seyyathāpi nāma balavā puriso samiñjitaṁ vā bāhaṁ pasāreyya pasāritaṁ vā bāhaṁ samiñjeyya; evameva—suddhāvāsesu devesu antarahitā bhagavato purato pāturahesuṁ. Atha kho tā devatā bhagavantaṁ abhivādetvā ekamantaṁ aṭṭhaṁsu. Ekamantaṁ ṭhitā kho ekā devatā bhagavato santike imaṁ gāthaṁ abhāsi:
+**Bảng thuật ngữ:**
 
-> “Mahāsamayo pavanasmiṁ, Devakāyā samāgatā; Āgatamha imaṁ dhammasamayaṁ, Dakkhitāye aparājitasaṅghan”ti.
+| Thuật ngữ Pali | Từ cũ (Hán-Việt) | Từ mới (Hiện đại) | Ghi chú |
+| :--- | :--- | :--- | :--- |
+| [!] suddhāvāsakāyika | Tịnh cư thiên | chư thiên cõi Tịnh Cư | Nhóm chư thiên thuộc cõi sắc giới cao nhất. |
+| dhamma | pháp | *Quy luật* | |
+| [!] samādahaṁsu | định tâm | làm cho tâm tĩnh lặng | |
+| indriya | căn | *giác quan* | |
+| [!] apāyabhūmi | ác thú | cõi khổ | |
+| pahāya | đoạn trừ | *từ bỏ* | |
+| manasikāra | tác ý | *suy nghĩ* | |
+| [!] pahitatta | tinh cần | quyết tâm | |
+| [!] samāhita | tam-muội / định | tâm tĩnh lặng | |
+| [!] ātappa | nhiệt tâm | nỗ lực mạnh mẽ | |
+| [!] amanussa | phi nhân | chúng sinh không phải người | |
+| abhiññāya | thắng tri | *hiểu biết trực tiếp* | |
+| [!] iddhimanto | đại thần lực | có năng lực đặc biệt | |
+| [!] jutimanto | đại uy quang | tỏa sáng rực rỡ | |
+| [!] vaṇṇavanto | dung sắc | có vẻ đẹp | |
+| [!] yasassino | danh xưng | có danh tiếng | |
+| mettā | từ | *Tâm yêu thương* | |
+| karuṇā | bi | *Tâm thông cảm* | |
+| āsava | lậu hoặc | *nguồn ác* | |
+| rāga | tham | *đắm nhiễm* | |
+| vītarāga | ly tham | *cạn hết đắm nhiễm* | |
 
-Atha kho aparā devatā bhagavato santike imaṁ gāthaṁ abhāsi:
 
-> “Tatra bhikkhavo samādahaṁsu, Cittamattano ujukaṁ akaṁsu; Sārathīva nettāni gahetvā, Indriyāni rakkhanti paṇḍitā”ti.
 
-Atha kho aparā devatā bhagavato santike imaṁ gāthaṁ abhāsi:
-
-> “Chetvā khīlaṁ chetvā palighaṁ, Indakhīlaṁ ūhacca manejā; Te caranti suddhā vimalā, Cakkhumatā sudantā susunāgā”ti.
-
-Atha kho aparā devatā bhagavato santike imaṁ gāthaṁ abhāsi:
-
-> “Ye keci buddhaṁ saraṇaṁ gatāse, Na te gamissanti apāyabhūmiṁ; Pahāya mānusaṁ dehaṁ, Devakāyaṁ paripūressantī”ti.
-
-## 1. Devatāsannipāta
-
-Atha kho bhagavā bhikkhū āmantesi:
-
-“yebhuyyena, bhikkhave, dasasu lokadhātūsu devatā sannipatitā honti, tathāgataṁ dassanāya bhikkhusaṅghañca. Yepi te, bhikkhave, ahesuṁ atītamaddhānaṁ arahanto sammāsambuddhā, tesampi bhagavantānaṁ etapparamāyeva devatā sannipatitā ahesuṁ seyyathāpi mayhaṁ etarahi. Yepi te, bhikkhave, bhavissanti anāgatamaddhānaṁ arahanto sammāsambuddhā, tesampi bhagavantānaṁ etapparamāyeva devatā sannipatitā bhavissanti seyyathāpi mayhaṁ etarahi. Ācikkhissāmi, bhikkhave, devakāyānaṁ nāmāni; kittayissāmi, bhikkhave, devakāyānaṁ nāmāni; desessāmi, bhikkhave, devakāyānaṁ nāmāni. Taṁ suṇātha, sādhukaṁ manasikarotha, bhāsissāmī”ti.
-
-“Evaṁ, bhante”ti kho te bhikkhū bhagavato paccassosuṁ.
-
-Bhagavā etadavoca:
-
-> “Silokamanukassāmi, yattha bhummā tadassitā; Ye sitā girigabbharaṁ, pahitattā samāhitā.
->
-> Puthūsīhāva sallīnā, lomahaṁsābhisambhuno; Odātamanasā suddhā, vippasannamanāvilā.
->
-> Bhiyyo pañcasate ñatvā, vane kāpilavatthave; Tato āmantayī satthā, sāvake sāsane rate.
->
-> ‘Devakāyā abhikkantā, te vijānātha bhikkhavo’; Te ca ātappamakaruṁ, sutvā buddhassa sāsanaṁ.
->
-> Tesaṁ pāturahu ñāṇaṁ, amanussānadassanaṁ; Appeke satamaddakkhuṁ, sahassaṁ atha sattariṁ.
->
-> Sataṁ eke sahassānaṁ, amanussānamaddasuṁ; Appekenantamaddakkhuṁ, disā sabbā phuṭā ahuṁ.
->
-> Tañca sabbaṁ abhiññāya, vavatthitvāna cakkhumā; Tato āmantayī satthā, sāvake sāsane rate.
->
-> ‘Devakāyā abhikkantā, te vijānātha bhikkhavo; Ye vohaṁ kittayissāmi, girāhi anupubbaso’.
->
-> Sattasahassā te yakkhā, bhummā kāpilavatthavā; Iddhimanto jutimanto, vaṇṇavanto yasassino; Modamānā abhikkāmuṁ, bhikkhūnaṁ samitiṁ vanaṁ.
->
-> Chasahassā hemavatā, yakkhā nānattavaṇṇino; Iddhimanto jutimanto, vaṇṇavanto yasassino; Modamānā abhikkāmuṁ, bhikkhūnaṁ samitiṁ vanaṁ.
->
-> Sātāgirā tisahassā, yakkhā nānattavaṇṇino; Iddhimanto jutimanto, vaṇṇavanto yasassino; Modamānā abhikkāmuṁ, bhikkhūnaṁ samitiṁ vanaṁ.
->
-> Iccete soḷasasahassā, yakkhā nānattavaṇṇino; Iddhimanto jutimanto, vaṇṇavanto yasassino; Modamānā abhikkāmuṁ, bhikkhūnaṁ samitiṁ vanaṁ.
->
-> Vessāmittā pañcasatā, yakkhā nānattavaṇṇino; Iddhimanto jutimanto, vaṇṇavanto yasassino; Modamānā abhikkāmuṁ, bhikkhūnaṁ samitiṁ vanaṁ.
->
-> Kumbhīro rājagahiko, vepullassa nivesanaṁ; Bhiyyo naṁ satasahassaṁ, yakkhānaṁ payirupāsati; Kumbhīro rājagahiko, sopāgā samitiṁ vanaṁ.
->
-> Purimañca disaṁ rājā, dhataraṭṭho pasāsati; Gandhabbānaṁ adhipati, mahārājā yasassiso.
->
-> Puttāpi tassa bahavo, indanāmā mahabbalā; Iddhimanto jutimanto, vaṇṇavanto yasassino; Modamānā abhikkāmuṁ, bhikkhūnaṁ samitiṁ vanaṁ.
->
-> Dakkhiṇañca disaṁ rājā, virūḷho taṁ pasāsati; Kumbhaṇḍānaṁ adhipati, mahārājā yasassiso.
->
-> Puttāpi tassa bahavo, indanāmā mahabbalā; Iddhimanto jutimanto, vaṇṇavanto yasassino; Modamānā abhikkāmuṁ, bhikkhūnaṁ samitiṁ vanaṁ.
->
-> Pacchimañca disaṁ rājā, virūpakkho pasāsati; Nāgānañca adhipati, mahārājā yasassiso.
->
-> Puttāpi tassa bahavo, indanāmā mahabbalā; Iddhimanto jutimanto, vaṇṇavanto yasassino; Modamānā abhikkāmuṁ, bhikkhūnaṁ samitiṁ vanaṁ.
->
-> Uttarañca disaṁ rājā, kuvero taṁ pasāsati; Yakkhānañca adhipati, mahārājā yasassiso.
->
-> Puttāpi tassa bahavo, indanāmā mahabbalā; Iddhimanto jutimanto, vaṇṇavanto yasassino; Modamānā abhikkāmuṁ, bhikkhūnaṁ samitiṁ vanaṁ.
->
-> Purimaṁ disaṁ dhataraṭṭho, dakkhiṇena virūḷhako; Pacchimena virūpakkho, kuvero uttaraṁ disaṁ.
->
-> Cattāro te mahārājā, samantā caturo disā; Daddallamānā aṭṭhaṁsu, vane kāpilavatthave.
->
-> Tesaṁ māyāvino dāsā, āguṁ vañcanikā saṭhā; Māyā kuṭeṇḍu viṭeṇḍu, viṭucca viṭuṭo saha.
->
-> Candano kāmaseṭṭho ca, kinnighaṇḍu nighaṇḍu ca; Panādo opamañño ca, devasūto ca mātali.
->
-> Cittaseno ca gandhabbo, naḷorājā janesabho; Āgā pañcasikho ceva, timbarū sūriyavacchasā.
->
-> Ete caññe ca rājāno, gandhabbā saha rājubhi; Modamānā abhikkāmuṁ, bhikkhūnaṁ samitiṁ vanaṁ.
->
-> Athāguṁ nāgasā nāgā, vesālā sahatacchakā; Kambalassatarā āguṁ, pāyāgā saha ñātibhi.
->
-> Yāmunā dhataraṭṭhā ca, āgū nāgā yasassino; Erāvaṇo mahānāgo, sopāgā samitiṁ vanaṁ.
->
-> Ye nāgarāje sahasā haranti, Dibbā dijā pakkhi visuddhacakkhū; Vehāyasā te vanamajjhapattā, Citrā supaṇṇā iti tesa nāmaṁ.
->
-> Abhayaṁ tadā nāgarājānamāsi, Supaṇṇato khemamakāsi buddho; Saṇhāhi vācāhi upavhayantā, Nāgā supaṇṇā saraṇamakaṁsu buddhaṁ.
->
-> Jitā vajirahatthena, samuddaṁ asurāsitā; Bhātaro vāsavassete, iddhimanto yasassino.
->
-> Kālakañcā mahābhismā, asurā dānaveghasā; Vepacitti sucitti ca, pahārādo namucī saha.
->
-> Satañca baliputtānaṁ, sabbe verocanāmakā; Sannayhitvā balisenaṁ, rāhubhaddamupāgamuṁ; ‘Samayo dāni bhaddante, bhikkhūnaṁ samitiṁ vanaṁ’.
->
-> Āpo ca devā pathavī, tejo vāyo tadāgamuṁ; Varuṇā vāraṇā devā, somo ca yasasā saha.
->
-> Mettā karuṇā kāyikā, āguṁ devā yasassino; Dasete dasadhā kāyā, sabbe nānattavaṇṇino.
->
-> Iddhimanto jutimanto, vaṇṇavanto yasassino; Modamānā abhikkāmuṁ, bhikkhūnaṁ samitiṁ vanaṁ.
->
-> Veṇḍudevā sahali ca, asamā ca duve yamā; Candassūpanisā devā, candamāguṁ purakkhatvā.
->
-> Sūriyassūpanisā devā, sūriyamāguṁ purakkhatvā; Nakkhattāni purakkhatvā, āguṁ mandavalāhakā.
->
-> Vasūnaṁ vāsavo seṭṭho, sakkopāgā purindado; Dasete dasadhā kāyā, sabbe nānattavaṇṇino.
->
-> Iddhimanto jutimanto, vaṇṇavanto yasassino; Modamānā abhikkāmuṁ, bhikkhūnaṁ samitiṁ vanaṁ.
->
-> Athāguṁ sahabhū devā, jalamaggi sikhāriva; Ariṭṭhakā ca rojā ca, umāpupphanibhāsino.
->
-> Varuṇā sahadhammā ca, accutā ca anejakā; Sūleyyarucirā āguṁ, āguṁ vāsavanesino; Dasete dasadhā kāyā, sabbe nānattavaṇṇino.
->
-> Iddhimanto jutimanto, vaṇṇavanto yasassino; Modamānā abhikkāmuṁ, bhikkhūnaṁ samitiṁ vanaṁ.
->
-> Samānā mahāsamanā, mānusā mānusuttamā; Khiḍḍāpadosikā āguṁ, āguṁ manopadosikā.
->
-> Athāguṁ harayo devā, ye ca lohitavāsino; Pāragā mahāpāragā, āguṁ devā yasassino; Dasete dasadhā kāyā, sabbe nānattavaṇṇino.
->
-> Iddhimanto jutimanto, vaṇṇavanto yasassino; Modamānā abhikkāmuṁ, bhikkhūnaṁ samitiṁ vanaṁ.
->
-> Sukkā karambhā aruṇā, āguṁ veghanasā saha; Odātagayhā pāmokkhā, āguṁ devā vicakkhaṇā.
->
-> Sadāmattā hāragajā, missakā ca yasassino; Thanayaṁ āga pajjunno, yo disā abhivassati.
->
-> Dasete dasadhā kāyā, sabbe nānattavaṇṇino; Iddhimanto jutimanto, vaṇṇavanto yasassino; Modamānā abhikkāmuṁ, bhikkhūnaṁ samitiṁ vanaṁ.
->
-> Khemiyā tusitā yāmā, kaṭṭhakā ca yasassino; Lambītakā lāmaseṭṭhā, jotināmā ca āsavā; Nimmānaratino āguṁ, athāguṁ paranimmitā.
->
-> Dasete dasadhā kāyā, sabbe nānattavaṇṇino; Iddhimanto jutimanto, vaṇṇavanto yasassino; Modamānā abhikkāmuṁ, bhikkhūnaṁ samitiṁ vanaṁ.
->
-> Saṭṭhete devanikāyā, sabbe nānattavaṇṇino; Nāmanvayena āgacchuṁ, ye caññe sadisā saha.
->
-> ‘Pavuṭṭhajātimakhilaṁ, oghatiṇṇamanāsavaṁ; Dakkhemoghataraṁ nāgaṁ, candaṁva asitātigaṁ’.
->
-> Subrahmā paramatto ca, puttā iddhimato saha; Sanaṅkumāro tisso ca, sopāga samitiṁ vanaṁ.
->
-> Sahassaṁ brahmalokānaṁ, mahābrahmābhitiṭṭhati; Upapanno jutimanto, bhismākāyo yasassiso.
->
-> Dasettha issarā āguṁ, paccekavasavattino; Tesañca majjhato āga, hārito parivārito.
->
-> Te ca sabbe abhikkante, sainde deve sabrahmake; Mārasenā abhikkāmi, passa kaṇhassa mandiyaṁ.
->
-> ‘Etha gaṇhatha bandhatha, rāgena baddhamatthu vo; Samantā parivāretha, mā vo muñcittha koci naṁ’.
->
-> Iti tattha mahāseno, kaṇho senaṁ apesayi; Pāṇinā talamāhacca, saraṁ katvāna bheravaṁ.
->
-> Yathā pāvussako megho, thanayanto savijjuko; Tadā so paccudāvatti, saṅkuddho asayaṁvase.
->
-> Tañca sabbaṁ abhiññāya, vavatthitvāna cakkhumā; Tato āmantayī satthā, sāvake sāsane rate.
->
-> ‘Mārasenā abhikkantā, te vijānātha bhikkhavo’; Te ca ātappamakaruṁ, sutvā buddhassa sāsanaṁ; Vītarāgehi pakkāmuṁ, nesaṁ lomāpi iñjayuṁ.
->
-> ‘Sabbe vijitasaṅgāmā, bhayātītā yasassino; Modanti saha bhūtehi, sāvakā te janesutā’”ti.
-
-Mahāsamayasuttaṁ niṭṭhitaṁ sattamaṁ.

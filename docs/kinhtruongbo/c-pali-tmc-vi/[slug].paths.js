@@ -7,30 +7,30 @@ import MarkdownIt from 'markdown-it';
 import anchor from 'markdown-it-anchor';
 import markdownItAttrs from 'markdown-it-attrs';
 
-// --- Bắt đầu: Phần khởi tạo MarkdownIt ---
-// Đảm bảo phần này giống hệt cấu hình bạn muốn
-const slugAnchor = (s) => {
-  // Đây là một hàm slugify cơ bản, bạn có thể thay thế bằng hàm của riêng bạn
-  return encodeURIComponent(String(s).trim().toLowerCase().replace(/\s+/g, '-'));
+import { slugAnchor } from '../../.vitepress/utils.js';
+
+const mdOptions = {
+  html: true,
+  linkify: true,
+  typographer: true
 };
 
-const mdLeft = new MarkdownIt({
-  html: true,
-  linkify: true,
-  typographer: true
-}).use(anchor, {
-    permalink: anchor.permalink.ariaHidden({
-      symbol: '',
-      placement: 'before'
-    }),
-    slugify: (s) => slugAnchor(s),
-}).use(markdownItAttrs);
+const anchorOptions = {
+  permalink: anchor.permalink.ariaHidden({
+    symbol: '',
+    placement: 'before'
+  }),
+  slugify: (s) => slugAnchor(s),
+};
 
-const mdRight = new MarkdownIt({
-  html: true,
-  linkify: true,
-  typographer: true
-});
+const mdLeft = new MarkdownIt(mdOptions)
+  .use(anchor, anchorOptions)
+  .use(markdownItAttrs);
+
+const mdRight = new MarkdownIt(mdOptions)
+  .use(anchor, anchorOptions)
+  .use(markdownItAttrs);
+
 // --- Kết thúc: Phần khởi tạo MarkdownIt ---
 
 
