@@ -525,7 +525,7 @@ export default defineConfig({
     ],
 
     footer: {
-      message: '<a href="/hoi-dap.html">Về chúng tôi</a>',
+      message: '<a href="/hoi-dap.html">Về chúng tôi</a> | <a href="/license.html">Giấy phép (CC0)</a>',
     }
   }
 })
