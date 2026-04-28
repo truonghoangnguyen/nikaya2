@@ -197,14 +197,14 @@ export default defineConfig({
       cleanPath = cleanPath.replace(/index\.html$/, '');
     }
     const canonicalUrl = `https://kinhnikaya.org/${cleanPath}`;
-    
+
     pageData.frontmatter = pageData.frontmatter || {};
     pageData.frontmatter.head = pageData.frontmatter.head || [];
-    
+
     const hasCanonical = pageData.frontmatter.head.some(
       (tag: any) => tag[0] === 'link' && tag[1] && tag[1].rel === 'canonical'
     );
-    
+
     if (!hasCanonical) {
       pageData.frontmatter.head.push([
         'link',
