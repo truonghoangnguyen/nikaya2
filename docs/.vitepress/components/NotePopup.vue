@@ -1,5 +1,5 @@
 <script setup>
-import { ref, onMounted, onUnmounted, nextTick } from 'vue'
+import { ref, onMounted, onUnmounted } from 'vue'
 import MarkdownIt from 'markdown-it'
 
 const md = new MarkdownIt({
@@ -16,30 +16,10 @@ const loading = ref(false)
 const error = ref(null)
 const isMouseOverPopup = ref(false)
 const activeTarget = ref(null)
-const currentMousePosition = ref({ x: 0, y: 0 })
 const popupPosition = ref('lower-right') // Track current position style
 
-// Cache for loaded notes
-const notesCache = ref({})
-
-// Parse note content into a structured object with footnote IDs as keys
-function parseNoteContent2(text) {
-  const noteEntries = {}
-
-  // Use regex to find all footnote entries
-  // Format: ###### [^n] followed by content until the next footnote or end of text
-  const regex = /###### \[\^(\d+)\]([\s\S]*?)(?=###### \[\^|$)/g
-
-  let match
-  while ((match = regex.exec(text)) !== null) {
-    const id = `_${match[1]}` // Convert [^1] to _1 format
-    const content = match[2].trim()
-    noteEntries[id] = content
-  }
-
-  return noteEntries
-}
-
+// Cache for loaded notes (plain Map — no reactivity overhead)
+const notesCache = new Map()
 
 function parseNoteContent(text) {
   const noteEntries = {};
@@ -91,12 +71,11 @@ async function fetchContent(url) {
     }
 
     // Check if we already have this note in cache
-    if (notesCache.value[fetchUrl]) {
-      console.log('Using cached note:', fetchUrl)
-
+    const cached = notesCache.get(fetchUrl)
+    if (cached) {
       if (hash) {
         // Display only the specific footnote
-        const noteContent = notesCache.value[fetchUrl][hash]
+        const noteContent = cached[hash]
         if (noteContent) {
           content.value = md.render(noteContent)
         } else {
@@ -104,7 +83,7 @@ async function fetchContent(url) {
         }
       } else {
         // Display all notes if no hash specified
-        const allNotes = Object.entries(notesCache.value[fetchUrl])
+        const allNotes = Object.entries(cached)
           .map(([id, text]) => `###### [^${id.substring(1)}]\n${text}`)
           .join('\n\n')
         content.value = md.render(allNotes)
@@ -113,8 +92,6 @@ async function fetchContent(url) {
       loading.value = false
       return
     }
-
-    console.log('Fetching from:', fetchUrl)
 
     const response = await fetch(fetchUrl)
     if (!response.ok) {
@@ -125,7 +102,7 @@ async function fetchContent(url) {
 
     // Parse note content and store in cache
     const parsedNotes = parseNoteContent(text)
-    notesCache.value[fetchUrl] = parsedNotes
+    notesCache.set(fetchUrl, parsedNotes)
 
     if (hash && parsedNotes[hash]) {
       // Display only the specific footnote
@@ -143,14 +120,6 @@ async function fetchContent(url) {
     content.value = `<div class="error">Error loading note: ${err.message}</div>`
   } finally {
     loading.value = false
-  }
-}
-
-// Track mouse position globally
-function updateMousePosition(event) {
-  currentMousePosition.value = {
-    x: event.clientX,
-    y: event.clientY
   }
 }
 
@@ -174,15 +143,6 @@ function handleMouseEnter(event) {
   setTimeout(() => {
     updatePopupPosition(target)
   }, 0)
-}
-
-// Handle mouse move when popup is visible
-function handleMouseMove(event) {
-  // Don't update position when mouse is over the popup
-  if (!isVisible.value || isMouseOverPopup.value) return
-
-  // We don't need to update position on mouse move anymore
-  // as we're using smart positioning based on the target element
 }
 
 // Handle mouse leave on note links
@@ -320,30 +280,25 @@ function updatePopupPosition(target) {
   popupPosition.value = bestPosition
 }
 
+function handleResize() {
+  if (isVisible.value && activeTarget.value) {
+    updatePopupPosition(activeTarget.value)
+  }
+}
+
 // Add and remove event listeners
 onMounted(() => {
-  document.addEventListener('mousemove', updateMousePosition)
-  document.addEventListener('mousemove', handleMouseMove)
   document.addEventListener('mouseover', handleMouseEnter)
   document.addEventListener('mouseout', handleMouseLeave)
   document.addEventListener('keydown', handleKeyDown)
-  window.addEventListener('resize', () => {
-    if (isVisible.value && activeTarget.value) {
-      updatePopupPosition(activeTarget.value)
-    }
-  })
-
-  // For debugging
-  console.log("NotePopup component mounted")
+  window.addEventListener('resize', handleResize)
 })
 
 onUnmounted(() => {
-  document.removeEventListener('mousemove', updateMousePosition)
-  document.removeEventListener('mousemove', handleMouseMove)
   document.removeEventListener('mouseover', handleMouseEnter)
   document.removeEventListener('mouseout', handleMouseLeave)
   document.removeEventListener('keydown', handleKeyDown)
-  window.removeEventListener('resize', () => {})
+  window.removeEventListener('resize', handleResize)
 })
 </script>
 

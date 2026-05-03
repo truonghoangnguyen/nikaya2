@@ -32,7 +32,8 @@
 
         <div class="quote-image-right">
           <div class="image-box">
-            <img v-if="currentImage" :src="currentImage" alt="Trích dẫn Kinh Nikaya" class="featured-img" />
+            <img v-if="currentImage" :src="currentImage" alt="Trích dẫn Kinh Nikaya" class="featured-img"
+              width="345" height="460" fetchpriority="high" decoding="async" />
           </div>
         </div>
       </div>
@@ -42,7 +43,7 @@
       <div class="book-grid">
         <a v-for="book in config.books" :key="book.id" :href="book.link" class="book-card">
           <div class="book-cover">
-            <img :src="book.cover" :alt="book.title">
+            <img :src="book.cover" :alt="book.title" width="300" height="450" loading="lazy" decoding="async">
           </div>
           <div class="book-info">
             <h3 class="book-title">{{ book.title }}</h3>
@@ -56,7 +57,8 @@
 <script setup>
 import { ref, computed, onMounted, onUnmounted } from 'vue'
 import config from '../../../books.config.json'
-import quotes from '../../../quotes.config.json'
+//import quotes from '../../../quotes.config.json'
+import quotes from '../../../quotes.config.js'
 import quoteImages from '../../../quote_images.json'
 
 const currentIndex = ref(0)

@@ -36,6 +36,53 @@ import fs from 'fs';
 //@ts-ignore
 import path from 'path';
 
+// Compare-page tmc lists (used to build compare-lookup.json)
+import compare_dn_pali from '../kinhtruongbo/c-pali-tmc-vi/tmc.js';
+import compare_dn_sujato from '../kinhtruongbo/c-sujato-tmc-vi/tmc.js';
+import compare_mn_nm from '../kinhtrungbo/c-nm-tmc-vi/tmc.js';
+import compare_mn_pali from '../kinhtrungbo/c-pali-tmc-vi/tmc.js';
+import compare_an_sujato from '../kinhtangchi/c-sujato-tmc-vi/tmc.js';
+import compare_sn_sujato from '../kinhtuongung/c-sujato-tmc-vi/tmc.js';
+import compare_root from '../c/tmc.js';
+
+const COMPARE_SOURCES: Array<{ list: any[]; dirKey: string }> = [
+  { list: compare_dn_pali, dirKey: 'kinhtruongbo/c-pali-tmc-vi' },
+  { list: compare_dn_sujato, dirKey: 'kinhtruongbo/c-sujato-tmc-vi' },
+  { list: compare_mn_nm, dirKey: 'kinhtrungbo/c-nm-tmc-vi' },
+  { list: compare_mn_pali, dirKey: 'kinhtrungbo/c-pali-tmc-vi' },
+  { list: compare_an_sujato, dirKey: 'kinhtangchi/c-sujato-tmc-vi' },
+  { list: compare_sn_sujato, dirKey: 'kinhtuongung/c-sujato-tmc-vi' },
+  { list: compare_root, dirKey: 'c' },
+];
+
+function buildCompareLookup() {
+  const lookup: Record<string, string> = {};
+  for (const { list, dirKey } of COMPARE_SOURCES) {
+    if (!Array.isArray(list)) continue;
+    for (const page of list) {
+      const data = page?.params?.data;
+      const slug = page?.params?.slug;
+      if (!data || !slug) continue;
+      const target = `/${dirKey}/${slug}.html`;
+      for (const sidePath of [data.left, data.right]) {
+        if (typeof sidePath !== 'string') continue;
+        const key = sidePath.replace(/^\/+/, '/').replace(/\.md$/, '.html');
+        if (!lookup[key]) lookup[key] = target;
+      }
+    }
+  }
+  return lookup;
+}
+
+try {
+  const lookup = buildCompareLookup();
+  const publicDir = path.resolve(process.cwd(), 'docs/public');
+  fs.mkdirSync(publicDir, { recursive: true });
+  fs.writeFileSync(path.join(publicDir, 'compare-lookup.json'), JSON.stringify(lookup));
+} catch (err) {
+  console.warn('compare-lookup build failed:', err);
+}
+
 const BOOK_NAV = {
   'kinhtrungbo/thichminhchau': mn_thichminhchau,
   'kinhtrungbo/nanamoli-bodhi-en': nanamoli_bodhi_en,
@@ -398,8 +445,7 @@ export default defineConfig({
     ['link', {
       rel: 'preload',
       as: 'style',
-
-      href: 'https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Libre+Baskerville:ital,wght@0,400..700;1,400..700&family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap',
+      href: 'https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,400;0,600;0,700;1,400&display=swap',
       onload: "this.onload=null;this.rel='stylesheet'"
     }],
 
@@ -472,7 +518,7 @@ export default defineConfig({
       ]
     })],
 
-    ['noscript', {}, '<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap">']
+    ['noscript', {}, '<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,400;0,600;0,700;1,400&display=swap">']
   ],
 
   // Theme configuration

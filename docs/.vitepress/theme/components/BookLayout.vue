@@ -14,7 +14,8 @@
       <div class="hero-right">
         <div class="cover-wrapper">
           <div class="cover-container">
-            <img :src="cover" :alt="title" class="book-cover-img" />
+            <img :src="cover" :alt="title" class="book-cover-img" width="400" height="600"
+              fetchpriority="high" decoding="async" />
           </div>
         </div>
       </div>

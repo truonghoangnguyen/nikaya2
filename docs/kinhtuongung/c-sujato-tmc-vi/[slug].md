@@ -18,13 +18,12 @@ onMounted(() => {
 })
 </script>
 
-<TextCompare2
+<TextCompare
   :leftPath="data.left"
   :rightPath="data.right"
-  :leftContentHtml="data.leftHtml"
-  :rightContentHtml="data.rightHtml"
   :leftTitle="data.leftTitle"
   :rightTitle="data.rightTitle"
+  :dataUrl="data.dataUrl"
 />
 
 <nav class="custom-prev-next" aria-labelledby="custom-footer-aria-label">

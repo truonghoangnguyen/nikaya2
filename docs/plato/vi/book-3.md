@@ -1,4 +1,5 @@
 # *Book 3*
+
 SOCRATES’ NARRATION CONTINUES:
 (386a) SOCRATES: Where the gods are concerned, then, it seems that those are
 the sorts of stories the future guardians should and should not hear from
@@ -29,11 +30,12 @@ ADEIMANTUS: Yes, we must.
 SOCRATES: We will start with the following lines, then, and expunge
 everything like them: “I would rather labor on earth in another man’s ser-
 vice, a man who is landless, with little to live on, than be king over all the
-dead”;1 and this: “He feared that his home should be revealed to mortals
-and immortals as dreadful, dank, and hated even by the gods;”2 and: “Alas,
+dead”;[1] and this: “He feared that his home should be revealed to mortals
+and immortals as dreadful, dank, and hated even by the gods;”[2] and: “Alas,
 (d)
 there survives in the Halls of Hades a soul, a mere phantasm, with its wits
-completely gone”;3 and this: “He alone can think others to be ﬂitting
+completely gone”;[3] and this: “He alone can think others to be ﬂitting
+
 [1]: Odyssey 11.489–91. Odysseus is being addressed by Achilles in Hades.
 
 [2]: Iliad 20.64–5. Hades is afraid that the earth will split open and reveal what his
@@ -42,15 +44,15 @@ home is like.
 [3]: Iliad 23.103–4.Achilles speaks these lines as the soul of the dead Patroclus leaves for
 Hades.
 
-shadows”;4 and: “The soul, leaving his limbs, made its way to Hades,
-lamenting its fate, leaving manhood and youth behind”;5 and this: “His
+shadows”;[4] and: “The soul, leaving his limbs, made its way to Hades,
+lamenting its fate, leaving manhood and youth behind”;[5] and this: “His
 (387a)
-soul went below the earth like smoke, screeching as it went”;6 and:
+soul went below the earth like smoke, screeching as it went”;[6] and:
 
 As when bats in an awful cave
 Fly around screeching if one of them falls
 From the cluster on the ceiling, all clinging to one another,
-so their souls went screeching.7
+so their souls went screeching.[7]
 (b) We will beg Homer and the rest of the poets not to be angry if we delete
 these and all similar passages—not because they are not poetic and pleasing
 to the masses when they hear them, but because the more poetic they are,

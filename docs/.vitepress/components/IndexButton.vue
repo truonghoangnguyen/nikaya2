@@ -3,7 +3,7 @@ function goToIndex() {
   const parts = window.location.pathname.split('/');
 
   // without author; e.g. /kinhchude/mucluc.html
-  if (parts[2].endsWith('.html')) {
+  if (parts[2]?.endsWith('.html')) {
     const newUrl =`${parts[0]}/${parts[1]}/mucluc.html`;
     window.location.href = newUrl;
     return;

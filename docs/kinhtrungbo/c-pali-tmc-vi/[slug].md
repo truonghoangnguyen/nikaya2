@@ -20,14 +20,12 @@ onMounted(() => {
 </script>
 
 
-<!-- Component của bạn giữ nguyên, nó vẫn sẽ hoạt động -->
 <TextCompare
   :leftPath="data.left"
   :rightPath="data.right"
   :leftTitle="data.leftTitle"
   :rightTitle="data.rightTitle"
-  :leftContentHtml="data.leftHtml"
-  :rightContentHtml="data.rightHtml"
+  :dataUrl="data.dataUrl"
   notePath=""
 />
 

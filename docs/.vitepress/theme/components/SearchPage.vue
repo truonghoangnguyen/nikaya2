@@ -61,7 +61,7 @@
 </template>
 
 <script setup>
-import { ref, computed, onMounted, nextTick, watch } from 'vue'
+import { ref, computed, onMounted, nextTick, watch, shallowRef } from 'vue'
 import { useRoute, useRouter } from 'vitepress'
 import Fuse from 'fuse.js'
 
@@ -76,35 +76,44 @@ const props = defineProps({
 
 // ── State ────────────────────────────────────────────────────────────────────
 const query = ref('')
+const debouncedQuery = ref('')
 const searchInput = ref(null)
 
 const route = useRoute()
 const router = useRouter()
 
+let debounceTimer = null
+watch(query, (val) => {
+  // Sync URL right away (cheap)
+  const url = new URL(window.location.href)
+  if (val) url.searchParams.set('q', val)
+  else url.searchParams.delete('q')
+  window.history.replaceState({}, '', url.toString())
+
+  // Debounce the actual search work
+  clearTimeout(debounceTimer)
+  debounceTimer = setTimeout(() => {
+    debouncedQuery.value = val
+  }, 120)
+})
+
 onMounted(() => {
   // Đọc ?q= từ URL khi vào trang
   const urlParams = new URLSearchParams(window.location.search)
   const q = urlParams.get('q')
-  if (q) query.value = q
+  if (q) {
+    query.value = q
+    debouncedQuery.value = q
+  }
 
   nextTick(() => {
     searchInput.value?.focus()
   })
 })
 
-// Cập nhật URL khi query thay đổi (không thêm history entry)
-watch(query, (val) => {
-  const url = new URL(window.location.href)
-  if (val) {
-    url.searchParams.set('q', val)
-  } else {
-    url.searchParams.delete('q')
-  }
-  window.history.replaceState({}, '', url.toString())
-})
-
 // ── Fuse instance ─────────────────────────────────────────────────────────────
-const fuse = computed(() => new Fuse(props.items, {
+// shallowRef so Vue doesn't deep-walk Fuse's index for reactivity
+const fuse = shallowRef(new Fuse(props.items, {
   keys: ['text'],
   threshold: 0.3,      // 0 = khớp chính xác, 1 = khớp tất cả
   distance: 200,       // tìm trong chuỗi dài
@@ -114,33 +123,34 @@ const fuse = computed(() => new Fuse(props.items, {
 
 // ── Computed ─────────────────────────────────────────────────────────────────
 const filteredItems = computed(() => {
-  if (!query.value.trim()) return []
-  return fuse.value.search(query.value)
+  const q = debouncedQuery.value.trim()
+  if (!q) return []
+  return fuse.value.search(q)
   // Mỗi phần tử: { item: { text, link }, matches: [...] }
 })
 
 // ── Helpers ──────────────────────────────────────────────────────────────────
+function escapeHtml(str) {
+  return str.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
+}
+
 // Highlight dựa trên indices từ Fuse (chính xác hơn regex)
 function highlight(fuseResult) {
   const text = fuseResult.item.text
   const match = fuseResult.matches?.find(m => m.key === 'text')
-  if (!match?.indices?.length) return text
+  if (!match?.indices?.length) return escapeHtml(text)
 
   let result = ''
   let lastIndex = 0
 
   // Fuse trả về mảng [start, end] đã được sắp xếp
   for (const [start, end] of match.indices) {
-    result += escape(text.slice(lastIndex, start))
-    result += `<mark>${escape(text.slice(start, end + 1))}</mark>`
+    result += escapeHtml(text.slice(lastIndex, start))
+    result += `<mark>${escapeHtml(text.slice(start, end + 1))}</mark>`
     lastIndex = end + 1
   }
-  result += escape(text.slice(lastIndex))
+  result += escapeHtml(text.slice(lastIndex))
   return result
-}
-
-function escape(str) {
-  return str.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
 }
 </script>
 

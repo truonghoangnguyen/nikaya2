@@ -14,28 +14,35 @@ interface Props {
   leftTitle?: string
   rightTitle?: string
 
-  // Các props này chỉ tồn tại khi build, sẽ là undefined khi dev
+  // Production: small URL pointing at pre-rendered JSON
+  // ({ leftHtml, rightHtml }) under /compare-data/. Empty in dev.
+  dataUrl?: string
+
+  // Optional inline HTML (used when caller already has rendered markup)
   leftContentHtml?: string
   rightContentHtml?: string
+  noteContentHtml?: string
 }
 
 const props = withDefaults(defineProps<Props>(), {
   leftTitle: 'Left',
   rightTitle: 'Right',
   notePath: '',
+  dataUrl: '',
   leftContentHtml: '',
   rightContentHtml: '',
+  noteContentHtml: '',
 })
 
 // --- State ---
-// ng-1 const isLoading = ref(true)
-const isLoading = ref(!props.leftContentHtml && !props.rightContentHtml)
-
-const error = ref<string | null>(null)
-// const finalLeftHtml = ref('')
-// const finalRightHtml = ref('')
 const finalLeftHtml = ref(props.leftContentHtml || '')
 const finalRightHtml = ref(props.rightContentHtml || '')
+const finalNoteHtml = ref(props.noteContentHtml || '')
+
+const isLoading = ref(
+  !props.leftContentHtml && !props.rightContentHtml && (!!props.dataUrl || import.meta.env.DEV)
+)
+const error = ref<string | null>(null)
 
 
 // Hàm này dùng để chia chuỗi HTML thành các đoạn theo comment <!--pg-->
@@ -53,46 +60,54 @@ const parsedParagraphs = computed(() => ({
 
 const leftOriginalPath = computed(() => props.leftPath.replace(/\.md$/, ''))
 const rightOriginalPath = computed(() => props.rightPath.replace(/\.md$/, ''))
+const hasNote = computed(() => finalNoteHtml.value.trim().length > 0)
 
 onMounted(async () => {
-  // Nếu đã có HTML từ props (production), không cần làm gì thêm
+  // Already have HTML inline
   if (props.leftContentHtml && props.rightContentHtml) {
+    isLoading.value = false
     return
   }
 
-  // Kịch bản 1: Đang ở production, đã có HTML được pre-render
-  if (props.leftContentHtml && props.rightContentHtml) {
-    finalLeftHtml.value = props.leftContentHtml
-    finalRightHtml.value = props.rightContentHtml
-    isLoading.value = false
-    return;
+  // Production: fetch pre-rendered JSON
+  if (props.dataUrl) {
+    try {
+      const res = await fetch(props.dataUrl)
+      if (!res.ok) throw new Error(`Failed to load ${props.dataUrl}`)
+      const json = await res.json()
+      finalLeftHtml.value = json.leftHtml || ''
+      finalRightHtml.value = json.rightHtml || ''
+      if (json.noteHtml) finalNoteHtml.value = json.noteHtml
+    } catch (e) {
+      error.value = e instanceof Error ? e.message : 'Unknown error loading content'
+      console.error(error.value)
+    } finally {
+      isLoading.value = false
+    }
+    return
   }
 
-  // Kịch bản 2: Đang ở môi trường dev, cần fetch và render phía client
-  // import.meta.env.DEV là biến môi trường của Vite
+  // Dev: fetch raw markdown and render client-side
   if (import.meta.env.DEV) {
     try {
-      // Khởi tạo markdown-it chỉ khi cần thiết (khi dev)
       const mdLeft = new MarkdownIt({ html: true, linkify: true, typographer: true })
         .use(anchor, {
           permalink: anchor.permalink.ariaHidden({ symbol: '', placement: 'before' }),
           slugify: (s) => slugAnchor(s),
         })
-        .use(markdownItAttrs);
+        .use(markdownItAttrs)
 
       const mdRight = new MarkdownIt({ html: true, linkify: true, typographer: true })
         .use(anchor, {
           permalink: anchor.permalink.ariaHidden({ symbol: '', placement: 'before' }),
           slugify: (s) => slugAnchor(s),
         })
-        .use(markdownItAttrs);
+        .use(markdownItAttrs)
 
-
-      // Fetch file
       const [leftResponse, rightResponse] = await Promise.all([
         fetch(props.leftPath),
-        fetch(props.rightPath)
-      ]);
+        fetch(props.rightPath),
+      ])
 
       if (!leftResponse.ok) throw new Error(`Failed to load ${props.leftPath}`)
       if (!rightResponse.ok) throw new Error(`Failed to load ${props.rightPath}`)
@@ -100,14 +115,11 @@ onMounted(async () => {
       let leftContent = await leftResponse.text()
       let rightContent = await rightResponse.text()
 
-      // Xóa frontmatter
       leftContent = leftContent.replace(/^---[\s\S]*?---\n/, '')
       rightContent = rightContent.replace(/^---[\s\S]*?---\n/, '')
 
-      // Render và cập nhật state
       finalLeftHtml.value = mdLeft.render(leftContent)
       finalRightHtml.value = mdRight.render(rightContent)
-
     } catch (e) {
       error.value = e instanceof Error ? e.message : 'Unknown error loading files'
       console.error(error.value)
@@ -169,7 +181,10 @@ onMounted(async () => {
         </div>
       </div>
 
-      <!-- Note section (bạn có thể thêm lại logic fetch note nếu cần) -->
+      <div v-if="hasNote" class="notes-container">
+        <h2 class="notes-title">Notes</h2>
+        <div class="notes-content" v-html="finalNoteHtml"></div>
+      </div>
     </div>
   </div>
 </template>

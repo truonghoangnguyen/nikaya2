@@ -8,8 +8,7 @@ that, but my desire to have a Republic translation of my own proved too
 strong.The fruit of ﬁve years’ work, it is now in print. Naturally, I hope it
 improves on existing translations. If so, I have their producers largely to
 thank. Certainly, I have ransacked them for assistance. Tom Grifﬁth has
-helped greatly, Robin Waterﬁeld too, and also (in the case of Books 5 and
-10) Stephen Halliwell. Over the years, my respect has grown for earlier
+helped greatly, Robin Waterﬁeld too, and also ( in the case of Books 5 and 10 ) Stephen Halliwell. Over the years, my respect has grown for earlier
 translations—for that of George Grube, from which I learned a huge
 amount, but also for those of Allan Bloom and Paul Shorey.
 

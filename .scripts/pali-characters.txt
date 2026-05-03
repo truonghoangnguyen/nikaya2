@@ -174,3 +174,10 @@ tìm dòng thơ:
 find: ^>.*;$
 find: ^>.*,$
 rep: $0\\
+
+tìm dòng tiêu đề
+^### $
+
+rep:
+<!--pg-->
+$0\\

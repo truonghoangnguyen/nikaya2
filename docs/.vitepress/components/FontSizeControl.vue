@@ -25,7 +25,6 @@ const applyFontSize = (size: string) => {
 watch(selectedFontSize, (newSize) => {
   applyFontSize(newSize)
   // Save preference to localStorage
-  console.log(newSize)
   localStorage.setItem('preferred-font-size', newSize)
 })
 

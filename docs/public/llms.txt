@@ -46,4 +46,4 @@ Mỗi bộ kinh có nhiều bản dịch để đối chiếu:
 
 - Mã nguồn mở: https://github.com/truonghoangnguyen/nikaya2
 - Nền tảng: VitePress (trang tĩnh)
-- Giấy phép nội dung: /license
+- Giấy phép nội dung: https://kinhnikaya.org/license
