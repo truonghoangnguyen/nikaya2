@@ -1,321 +1,394 @@
-# Pāthikasutta
+# DN 24. KINH PĀTHIKA (Tóm lược)
 
-## 1. Sunakkhattavatthu
+[Bản so sánh→](/kinhtruongbo/c-pali-tmc-vi/dnc-024-kinh-ba-le){class="note-link" }
 
-Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā mallesu viharati anupiyaṁ nāma mallānaṁ nigamo. Atha kho bhagavā pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya anupiyaṁ piṇḍāya pāvisi. Atha kho bhagavato etadahosi: “atippago kho tāva anupiyāyaṁ piṇḍāya carituṁ. Yannūnāhaṁ yena bhaggavagottassa paribbājakassa ārāmo, yena bhaggavagotto paribbājako tenupasaṅkameyyan”ti.
 
-Atha kho bhagavā yena bhaggavagottassa paribbājakassa ārāmo, yena bhaggavagotto paribbājako tenupasaṅkami. Atha kho bhaggavagotto paribbājako bhagavantaṁ etadavoca: “etu kho, bhante, bhagavā. Svāgataṁ, bhante, bhagavato. Cirassaṁ kho, bhante, bhagavā imaṁ pariyāyamakāsi yadidaṁ idhāgamanāya. Nisīdatu, bhante, bhagavā, idamāsanaṁ paññattan”ti.
+- **Bối cảnh kinh**: Kinh Pāthika (DN 24). Đức Phật đang ở Anupiya, đến thăm du sĩ Bhaggavagotta. Bhaggavagotta kể lại việc Sunakkhatta (một vương tử Licchavi) vừa rời bỏ Tăng đoàn. Đức Phật nhân đó kể lại chi tiết lý do Sunakkhatta rời đi và các sự kiện liên quan đến những tu sĩ ngoại đạo.
+- **Bối cảnh tranh luận**: `[TL]` Đức Phật phản bác quan điểm của Sunakkhatta và các tu sĩ lõa thể (như Korakkhattiya, Kaḷāramaṭṭaka, Pāthikaputta). Những người này coi trọng việc biểu diễn phép lạ (thần thông) và các khổ hạnh cực đoan (như bò bằng bốn chân, ăn phân) hoặc các lý thuyết về nguồn gốc vũ trụ, trong khi Đức Phật nhấn mạnh mục đích cốt lõi là sự chấm dứt đau khổ.
+- **Dấu hiệu văn bản**: Văn bản mang đậm tính truyền khẩu với các đoạn điệp khúc lặp lại nguyên văn nhiều lần (câu chuyện truyền tin, lời thách thức của Pāthikaputta).
+- **Khung khái niệm có thể bị áp đặt**: `[KK]` Khái niệm "Aggañña" (nguồn gốc thế giới) thường bị hiểu theo lăng kính thần học hoặc vũ trụ học tuyệt đối. Ở đây, Đức Phật giải thích nó dưới góc độ tâm lý - hiện tượng học (sự hình thành các cõi do tâm lý bám víu, do vui đùa, do tức giận), cho thấy Ngài hiểu rõ các quan điểm này nhưng không bám giữ vào chúng.
 
-Nisīdi bhagavā paññatte āsane. Bhaggavagottopi kho paribbājako aññataraṁ nīcaṁ āsanaṁ gahetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho bhaggavagotto paribbājako bhagavantaṁ etadavoca: “purimāni, bhante, divasāni purimatarāni sunakkhatto licchaviputto yenāhaṁ tenupasaṅkami; upasaṅkamitvā maṁ etadavoca: ‘paccakkhāto dāni mayā, bhaggava, bhagavā. Na dānāhaṁ bhagavantaṁ uddissa viharāmī’ti. Kaccetaṁ, bhante, tatheva, yathā sunakkhatto licchaviputto avacā”ti?
 
-“Tatheva kho etaṁ, bhaggava, yathā sunakkhatto licchaviputto avaca.
+## Tóm lược
 
-Purimāni, bhaggava, divasāni purimatarāni sunakkhatto licchaviputto yenāhaṁ tenupasaṅkami; upasaṅkamitvā maṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho, bhaggava, sunakkhatto licchaviputto maṁ etadavoca: ‘paccakkhāmi dānāhaṁ, bhante, bhagavantaṁ. Na dānāhaṁ, bhante, bhagavantaṁ uddissa viharissāmī’ti.
 
-Evaṁ vutte, ahaṁ, bhaggava, sunakkhattaṁ licchaviputtaṁ etadavocaṁ: ‘api nu tāhaṁ, sunakkhatta, evaṁ avacaṁ, ehi tvaṁ, sunakkhatta, mamaṁ uddissa viharāhī’ti?
+**Bối cảnh:**
+Đức Phật đến thăm khu vườn của du sĩ Bhaggavagotta tại thị trấn Anupiya. Tại đây, Bhaggavagotta kể lại việc vương tử Sunakkhatta vừa tuyên bố rời bỏ Tăng đoàn. Nhân đó, Đức Phật kể lại chi tiết lý do sự việc này và những câu chuyện liên quan đến các tu sĩ ngoại đạo để làm rõ bản chất lời dạy của Ngài.
 
-‘No hetaṁ, bhante’.
+---
 
-‘Tvaṁ vā pana maṁ evaṁ avaca—ahaṁ, bhante, bhagavantaṁ uddissa viharissāmī’ti?
+**1. Lý do Sunakkhatta rời bỏ Tăng đoàn**
+Sunakkhatta phàn nàn rằng Đức Phật không biểu diễn phép lạ (thần thông) và không giải thích nguồn gốc của thế giới. Đức Phật nhắc nhở rằng Ngài chưa từng hứa hẹn những điều này khi Sunakkhatta xin xuất gia. Ngài nhấn mạnh: Mục đích cốt lõi của việc tu hành là đi đến sự chấm dứt đau khổ. Dù có biểu diễn phép lạ hay biết được nguồn gốc vũ trụ thì cũng không giải quyết được vấn đề khổ đau. Tuy nhiên, Sunakkhatta kiên quyết rời đi vì không hiểu được mục tiêu cốt lõi này.
 
-‘No hetaṁ, bhante’.
+**2. Sự mù quáng trước những kẻ tu khổ hạnh cực đoan**
+Đức Phật kể lại hai sự kiện cho thấy Sunakkhatta rất dễ bị đánh lừa bởi những hình thức tu hành bề ngoài:
+*   **Chuyện tu sĩ Korakkhattiya:** Sunakkhatta vô cùng ngưỡng mộ một tu sĩ lõa thể tu "hạnh con chó" (bò bằng bốn chân, ăn thức ăn rơi vãi). Đức Phật dự đoán tu sĩ này sẽ chết trong bảy ngày tới vì khó tiêu, tái sinh làm loài Asura thấp kém nhất và bị vứt xác ở bãi cỏ Bīraṇa. Dù Sunakkhatta cố tình canh chừng để làm sai lời Phật, nhưng mọi việc xảy ra đúng y như dự đoán. Thậm chí cái xác còn ngồi dậy xác nhận việc tái sinh của mình.
+*   **Chuyện tu sĩ Kaḷāramaṭṭaka:** Sunakkhatta lại ngưỡng mộ một tu sĩ khác phát nguyện khổ hạnh rất khắt khe. Đức Phật dự đoán người này sẽ sớm phá vỡ lời thề, quay lại mặc quần áo, sống đời phàm tục và chết trong nhục nhã. Điều này sau đó cũng diễn ra chính xác.
+Đức Phật chỉ ra rằng việc Ngài đoán trước tương lai chuẩn xác chính là "phép lạ", nhưng Sunakkhatta vẫn u mê không chịu công nhận.
 
-‘Iti kira, sunakkhatta, nevāhaṁ taṁ vadāmi—ehi tvaṁ, sunakkhatta, mamaṁ uddissa viharāhīti. Napi kira maṁ tvaṁ vadesi—ahaṁ, bhante, bhagavantaṁ uddissa viharissāmīti. Evaṁ sante, moghapurisa, ko santo kaṁ paccācikkhasi? Passa, moghapurisa, yāvañca te idaṁ aparaddhan’ti.
+**3. Sự thất bại của kẻ thách thức Pāthikaputta**
+Một tu sĩ lõa thể nổi tiếng tên là Pāthikaputta khoác lác trước dân chúng Vesālī, thách thức Đức Phật thi thố phép lạ. Ông ta tuyên bố hễ Đức Phật làm được một phép lạ, ông ta sẽ làm gấp đôi. Đức Phật tiên đoán: Nếu Pāthikaputta không từ bỏ thói kiêu ngạo và những lời ngông cuồng đó, ông ta sẽ không thể nào bước đến đối mặt với Ngài.
 
-‘Na hi pana me, bhante, bhagavā uttari manussadhammā iddhipāṭihāriyaṁ karotī’ti.
+Sự việc diễn ra đúng như dự đoán. Khi đám đông và Đức Phật đã tụ tập chờ đợi, Pāthikaputta bị nỗi sợ hãi tột độ làm cho tê liệt. Dù đám đông cử người đến gọi, vị đại thần đến khuyên nhủ, hay người đệ tử dùng những câu chuyện ngụ ngôn mỉa mai (ví ông ta như con chó rừng hoang tưởng mình là sư tử chúa) để khích tướng, Pāthikaputta vẫn oằn oại dính chặt vào ghế, không thể đứng dậy. Pāthikaputta bị đánh bại hoàn toàn mà không cần Đức Phật phải ra tay. Sau đó, Đức Phật thuyết giảng cho đám đông, biểu diễn một phép lạ nhỏ (bay lên không trung và tạo ra ngọn lửa) rồi rời đi.
 
-‘Api nu tāhaṁ, sunakkhatta, evaṁ avacaṁ—ehi tvaṁ, sunakkhatta, mamaṁ uddissa viharāhi, ahaṁ te uttari manussadhammā iddhipāṭihāriyaṁ karissāmī’ti?
+**4. Sự thật về nguồn gốc thế giới**
+Đức Phật giải thích với Bhaggavagotta rằng Ngài thấu hiểu rất rõ về nguồn gốc thế giới, thậm chí hiểu xa hơn thế, nhưng Ngài không bám víu vào nó để đạt được sự giải thoát. Ngài chỉ ra cách các giáo phái khác dựa vào ký ức tiền kiếp hạn hẹp để suy diễn sai lầm về nguồn gốc thế giới:
+*   **Thuyết Phạm thiên sáng tạo:** Một chúng sinh sinh ra đầu tiên ở cõi trời trống rỗng, cảm thấy cô đơn nên mong ước có người khác. Khi các chúng sinh khác sinh ra sau, vị đó lầm tưởng mình là Đấng Sáng Tạo ra họ, và những chúng sinh kia cũng tin như vậy. Khi một vị rớt xuống cõi người và nhớ lại kiếp đó, liền tuyên bố thế giới do Thượng Đế tạo ra.
+*   **Thuyết hư hỏng do cảm xúc:** Có những chư thiên vì mải mê vui đùa hoặc sinh lòng tức giận lẫn nhau nên bị tổn giảm trí nhớ và đọa xuống trần. Họ lầm tưởng những vị không vui đùa/tức giận là những đấng tồn tại vĩnh cửu.
+*   **Thuyết ngẫu nhiên:** Có những chư thiên vừa khởi sinh nhận thức thì liền đọa xuống trần. Do chỉ nhớ được khoảnh khắc đó, họ kết luận thế giới tự nhiên mà có, phát sinh ngẫu nhiên.
 
-‘No hetaṁ, bhante’.
+Cuối cùng, Đức Phật khẳng định lại tôn chỉ của Ngài: không sa đà vào các lý thuyết siêu hình hay ảo tưởng, mà hướng trực tiếp đến trạng thái tâm trí thanh tịnh và giải thoát hoàn toàn. Du sĩ Bhaggavagotta nghe xong vô cùng hoan hỷ và tin tưởng vào Đức Phật.
 
-‘Tvaṁ vā pana maṁ evaṁ avaca—ahaṁ, bhante, bhagavantaṁ uddissa viharissāmi, bhagavā me uttari manussadhammā iddhipāṭihāriyaṁ karissatī’ti?
 
-‘No hetaṁ, bhante’.
+## **BẢNG THUẬT NGỮ**
 
-‘Iti kira, sunakkhatta, nevāhaṁ taṁ vadāmi—ehi tvaṁ, sunakkhatta, mamaṁ uddissa viharāhi, ahaṁ te uttari manussadhammā iddhipāṭihāriyaṁ karissāmīti; napi kira maṁ tvaṁ vadesi—ahaṁ, bhante, bhagavantaṁ uddissa viharissāmi, bhagavā me uttari manussadhammā iddhipāṭihāriyaṁ karissatīti. Evaṁ sante, moghapurisa, ko santo kaṁ paccācikkhasi? Taṁ kiṁ maññasi, sunakkhatta, kate vā uttari manussadhammā iddhipāṭihāriye akate vā uttari manussadhammā iddhipāṭihāriye yassatthāya mayā dhammo desito so niyyāti takkarassa sammā dukkhakkhayāyā’ti?
+| Thuật ngữ Pali | Từ cũ (Hán-Việt) | Từ mới (Hiện đại) | Ghi chú |
+| :--- | :--- | :--- | :--- |
+| [!] uttari manussadhammā iddhipāṭihāriya | thượng nhân pháp thần thông | phép lạ vượt quá khả năng con người | Sự biểu diễn năng lực tâm trí vượt trội. |
+| [!] aggañña | khởi nguyên / thế kỷ | nguồn gốc thế giới | Nguồn gốc của các sự vật, hiện tượng, vũ trụ. |
+| [!] moghapurisa | kẻ ngu si | kẻ rỗng tuếch | Từ quở trách thường dùng cho người tu hành sai lệch. |
+| [TL] acela | tu sĩ lõa thể | tu sĩ lõa thể | Nhóm tu sĩ không mặc quần áo thời Đức Phật. |
+| [TL] kukkuravatika | cẩu giới | hạnh con chó | Lối tu khổ hạnh bắt chước hành vi của loài chó. |
+| [!] pāpakaṁ diṭṭhigataṁ | ác tà kiến | quan điểm sai lầm tồi tệ | |
+| [!] ñāṇavādo | trí tuệ ngữ | người tuyên bố có trí tuệ | |
+| [!] cetasā ceto paricca vidito | tha tâm thông | dùng tâm thấu hiểu tâm | Khả năng đọc được trạng thái tâm của người khác. |
+| [!] subha vimokkha | tịnh giải thoát | sự giải thoát thanh tịnh | Trạng thái tâm giải thoát trong sáng, không bị vướng bận. |
+| [!] nibbuti | tịch diệt | sự dập tắt | Sự dập tắt sự nóng bức của phiền não, mang lại sự mát mẻ. |
+| pajānāti | tuệ tri | *thấy rõ* | Phân biệt được rõ ràng. |
+| abhijānāti | thắng tri | *hiểu thực tế* | Hiểu biết trực tiếp qua kinh nghiệm. |
+| dhamma | pháp | *Điều dạy* / *Quy luật* | Tùy ngữ cảnh. |
+| dukkhakkhaya | khổ diệt | *chấm dứt đau khổ* | |
 
-‘Kate vā, bhante, uttari manussadhammā iddhipāṭihāriye akate vā uttari manussadhammā iddhipāṭihāriye yassatthāya bhagavatā dhammo desito so niyyāti takkarassa sammā dukkhakkhayāyā’ti.
+---
 
-‘Iti kira, sunakkhatta, kate vā uttari manussadhammā iddhipāṭihāriye, akate vā uttari manussadhammā iddhipāṭihāriye, yassatthāya mayā dhammo desito, so niyyāti takkarassa sammā dukkhakkhayāya. Tatra, sunakkhatta, kiṁ uttari manussadhammā iddhipāṭihāriyaṁ kataṁ karissati? Passa, moghapurisa, yāvañca te idaṁ aparaddhan’ti.
+**GHI CHÚ:**
+- `[!] uttari manussadhammā iddhipāṭihāriya`: Thường được dịch là "thượng nhân pháp thần thông". Ở đây dịch là "phép lạ vượt quá khả năng con người" để mô tả chính xác hiện tượng được nhắc đến (như bay lên trời, tạo ra lửa) mà không dùng từ Hán Việt mang màu sắc thần bí.
+- `[!] aggañña`: Thường dịch là "khởi nguyên". Dịch là "nguồn gốc thế giới" để làm rõ bối cảnh tranh luận về vũ trụ học giữa Đức Phật và các ngoại đạo.
+- `[TL] acela / kukkuravatika`: Các thuật ngữ chỉ lối tu khổ hạnh cực đoan thời Đức Phật (tu sĩ lõa thể, hạnh con chó). Đức Phật chỉ trích những lối tu này vì chúng không dẫn đến sự chấm dứt đau khổ mà chỉ là sự hành xác vô ích.
+- `[!] subha vimokkha`: "Tịnh giải thoát", một trạng thái thiền định cao cấp nơi tâm hoàn toàn trong sáng, thoát khỏi các khái niệm về bất tịnh. Đức Phật đính chính lại sự hiểu lầm của ngoại đạo về trạng thái này.
+- `[!] nibbuti`: Sự dập tắt (phiền não), trạng thái mát mẻ của tâm khi không còn bám víu vào các quan điểm (kể cả quan điểm về nguồn gốc thế giới). Đây là cốt lõi của bài kinh: mục đích của đạo Phật không phải là giải thích vũ trụ hay biểu diễn phép lạ, mà là kinh nghiệm trực tiếp sự dập tắt đau khổ.
 
-‘Na hi pana me, bhante, bhagavā aggaññaṁ paññapetī’ti?
+```
+# VAI TRÒ (ROLE)
 
-‘Api nu tāhaṁ, sunakkhatta, evaṁ avacaṁ—ehi tvaṁ, sunakkhatta, mamaṁ uddissa viharāhi, ahaṁ te aggaññaṁ paññapessāmī’ti?
+Bạn là một nhà khảo cứu và dịch thuật Kinh tạng Nikāya theo phương pháp khoa học-văn bản, hội tụ chuyên môn của:
 
-‘No hetaṁ, bhante’.
+- **Nhà ngôn ngữ học Pali**: hiểu ngữ pháp, từ nguyên, biến cách, và ngữ cảnh sử dụng của từ trong toàn bộ Pali Canon.
+- **Nhà khảo cứu văn bản (textual criticism)**: nhận biết dấu hiệu biên tập muộn, chèn thêm từ Abhidhamma / chú giải, và khác biệt giữa các truyền bản (Pāḷi / Sanskrit / Hán A-hàm / Tạng).
+- **Nhà sử học Phật giáo sơ kỳ**: nắm bối cảnh đời sống thời Đức Phật với Bà-la-môn, Jain, Lokāyata; phân biệt được lớp Sutta sớm với Abhidhamma và chú giải Buddhaghosa.
+- **Nhà tâm lý học và khoa học thần kinh-nhận thức**: diễn đạt hiện tượng tâm lý-nhận thức bằng ngôn ngữ hiện đại, dựa trên hiện thực khoa học.
 
-‘Tvaṁ vā pana maṁ evaṁ avaca—ahaṁ, bhante, bhagavantaṁ uddissa viharissāmi, bhagavā me aggaññaṁ paññapessatī’ti?
 
-‘No hetaṁ, bhante’.
+# NGUYÊN TẮC (GUIDELINES)
 
-‘Iti kira, sunakkhatta, nevāhaṁ taṁ vadāmi—ehi tvaṁ, sunakkhatta, mamaṁ uddissa viharāhi, ahaṁ te aggaññaṁ paññapessāmīti. Napi kira maṁ tvaṁ vadesi—ahaṁ, bhante, bhagavantaṁ uddissa viharissāmi, bhagavā me aggaññaṁ paññapessatīti. Evaṁ sante, moghapurisa, ko santo kaṁ paccācikkhasi? Taṁ kiṁ maññasi, sunakkhatta, paññatte vā aggaññe, apaññatte vā aggaññe, yassatthāya mayā dhammo desito, so niyyāti takkarassa sammā dukkhakkhayāyā’ti?
-
-‘Paññatte vā, bhante, aggaññe, apaññatte vā aggaññe, yassatthāya bhagavatā dhammo desito, so niyyāti takkarassa sammā dukkhakkhayāyā’ti.
-
-‘Iti kira, sunakkhatta, paññatte vā aggaññe, apaññatte vā aggaññe, yassatthāya mayā dhammo desito, so niyyāti takkarassa sammā dukkhakkhayāya. Tatra, sunakkhatta, kiṁ aggaññaṁ paññattaṁ karissati? Passa, moghapurisa, yāvañca te idaṁ aparaddhaṁ.
-
-Anekapariyāyena kho te, sunakkhatta, mama vaṇṇo bhāsito vajjigāme—itipi so bhagavā arahaṁ sammāsambuddho vijjācaraṇasampanno sugato lokavidū anuttaro purisadammasārathi satthā devamanussānaṁ buddho bhagavāti. Iti kho te, sunakkhatta, anekapariyāyena mama vaṇṇo bhāsito vajjigāme.
-
-Anekapariyāyena kho te, sunakkhatta, dhammassa vaṇṇo bhāsito vajjigāme—svākkhāto bhagavatā dhammo sandiṭṭhiko akāliko ehipassiko opaneyyiko paccattaṁ veditabbo viññūhīti. Iti kho te, sunakkhatta, anekapariyāyena dhammassa vaṇṇo bhāsito vajjigāme.
-
-Anekapariyāyena kho te, sunakkhatta, saṅghassa vaṇṇo bhāsito vajjigāme—suppaṭipanno bhagavato sāvakasaṅgho, ujuppaṭipanno bhagavato sāvakasaṅgho, ñāyappaṭipanno bhagavato sāvakasaṅgho, sāmīcippaṭipanno bhagavato sāvakasaṅgho, yadidaṁ cattāri purisayugāni aṭṭha purisapuggalā, esa bhagavato sāvakasaṅgho, āhuneyyo pāhuneyyo dakkhiṇeyyo añjalikaraṇīyo anuttaraṁ puññakkhettaṁ lokassāti. Iti kho te, sunakkhatta, anekapariyāyena saṅghassa vaṇṇo bhāsito vajjigāme.
-
-Ārocayāmi kho te, sunakkhatta, paṭivedayāmi kho te, sunakkhatta. Bhavissanti kho te, sunakkhatta, vattāro, no visahi sunakkhatto licchaviputto samaṇe gotame brahmacariyaṁ carituṁ, so avisahanto sikkhaṁ paccakkhāya hīnāyāvattoti. Iti kho te, sunakkhatta, bhavissanti vattāro’ti.
-
-Evaṁ kho, bhaggava, sunakkhatto licchaviputto mayā vuccamāno apakkameva imasmā dhammavinayā, yathā taṁ āpāyiko nerayiko.
-
-## 2. Korakkhattiyavatthu
-
-Ekamidāhaṁ, bhaggava, samayaṁ thūlūsu viharāmi uttarakā nāma thūlūnaṁ nigamo. Atha khvāhaṁ, bhaggava, pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya sunakkhattena licchaviputtena pacchāsamaṇena uttarakaṁ piṇḍāya pāvisiṁ. Tena kho pana samayena acelo korakkhattiyo kukkuravatiko catukkuṇḍiko chamānikiṇṇaṁ bhakkhasaṁ mukheneva khādati, mukheneva bhuñjati.
-
-Addasā kho, bhaggava, sunakkhatto licchaviputto acelaṁ korakkhattiyaṁ kukkuravatikaṁ catukkuṇḍikaṁ chamānikiṇṇaṁ bhakkhasaṁ mukheneva khādantaṁ mukheneva bhuñjantaṁ. Disvānassa etadahosi: ‘sādhurūpo vata bho ayaṁ samaṇo catukkuṇḍiko chamānikiṇṇaṁ bhakkhasaṁ mukheneva khādati, mukheneva bhuñjatī’ti.
-
-Atha khvāhaṁ, bhaggava, sunakkhattassa licchaviputtassa cetasā cetoparivitakkamaññāya sunakkhattaṁ licchaviputtaṁ etadavocaṁ: ‘tvampi nāma, moghapurisa, samaṇo sakyaputtiyo paṭijānissasī’ti.
-
-‘Kiṁ pana maṁ, bhante, bhagavā evamāha: “tvampi nāma, moghapurisa, samaṇo sakyaputtiyo paṭijānissasī”’ti?
-
-‘Nanu te, sunakkhatta, imaṁ acelaṁ korakkhattiyaṁ kukkuravatikaṁ catukkuṇḍikaṁ chamānikiṇṇaṁ bhakkhasaṁ mukheneva khādantaṁ mukheneva bhuñjantaṁ disvāna etadahosi—sādhurūpo vata bho ayaṁ samaṇo catukkuṇḍiko chamānikiṇṇaṁ bhakkhasaṁ mukheneva khādati, mukheneva bhuñjatī’ti?
-
-‘Evaṁ, bhante. Kiṁ pana, bhante, bhagavā arahattassa maccharāyatī’ti?
-
-‘Na kho ahaṁ, moghapurisa, arahattassa maccharāyāmi. Api ca tuyhevetaṁ pāpakaṁ diṭṭhigataṁ uppannaṁ, taṁ pajaha. Mā te ahosi dīgharattaṁ ahitāya dukkhāya.
-
-Yaṁ kho panetaṁ, sunakkhatta, maññasi acelaṁ korakkhattiyaṁ—sādhurūpo ayaṁ samaṇoti. So sattamaṁ divasaṁ alasakena kālaṁ karissati. Kālaṅkato ca kālakañcikā nāma asurā sabbanihīno asurakāyo, tatra upapajjissati. Kālaṅkatañca naṁ bīraṇatthambake susāne chaḍḍessanti. Ākaṅkhamāno ca tvaṁ, sunakkhatta, acelaṁ korakkhattiyaṁ upasaṅkamitvā puccheyyāsi—jānāsi, āvuso korakkhattiya, attano gatinti? Ṭhānaṁ kho panetaṁ, sunakkhatta, vijjati yaṁ te acelo korakkhattiyo byākarissati—jānāmi, āvuso sunakkhatta, attano gatiṁ; kālakañcikā nāma asurā sabbanihīno asurakāyo, tatrāmhi upapanno’ti.
-
-Atha kho, bhaggava, sunakkhatto licchaviputto yena acelo korakkhattiyo tenupasaṅkami; upasaṅkamitvā acelaṁ korakkhattiyaṁ etadavoca: ‘byākato khosi, āvuso korakkhattiya, samaṇena gotamena—acelo korakkhattiyo sattamaṁ divasaṁ alasakena kālaṁ karissati. Kālaṅkato ca kālakañcikā nāma asurā sabbanihīno asurakāyo, tatra upapajjissati. Kālaṅkatañca naṁ bīraṇatthambake susāne chaḍḍessantīti. Yena tvaṁ, āvuso korakkhattiya, mattaṁ mattañca bhattaṁ bhuñjeyyāsi, mattaṁ mattañca pānīyaṁ piveyyāsi. Yathā samaṇassa gotamassa micchā assa vacanan’ti.
-
-Atha kho, bhaggava, sunakkhatto licchaviputto ekadvīhikāya sattarattindivāni gaṇesi, yathā taṁ tathāgatassa asaddahamāno. Atha kho, bhaggava, acelo korakkhattiyo sattamaṁ divasaṁ alasakena kālamakāsi. kālaṅkato ca kālakañcikā nāma asurā sabbanihīno asurakāyo, tatra upapajji. kālaṅkatañca naṁ bīraṇatthambake susāne chaḍḍesuṁ.
-
-Assosi kho, bhaggava, sunakkhatto licchaviputto: ‘acelo kira korakkhattiyo alasakena kālaṅkato bīraṇatthambake susāne chaḍḍito’ti. Atha kho, bhaggava, sunakkhatto licchaviputto yena bīraṇatthambakaṁ susānaṁ, yena acelo korakkhattiyo tenupasaṅkami; upasaṅkamitvā acelaṁ korakkhattiyaṁ tikkhattuṁ pāṇinā ākoṭesi: ‘jānāsi, āvuso korakkhattiya, attano gatin’ti?
-
-Atha kho, bhaggava, acelo korakkhattiyo pāṇinā piṭṭhiṁ paripuñchanto vuṭṭhāsi. ‘Jānāmi, āvuso sunakkhatta, attano gatiṁ. Kālakañcikā nāma asurā sabbanihīno asurakāyo, tatrāmhi upapanno’ti vatvā tattheva uttāno papati.
-
-Atha kho, bhaggava, sunakkhatto licchaviputto yenāhaṁ tenupasaṅkami; upasaṅkamitvā maṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinnaṁ kho ahaṁ, bhaggava, sunakkhattaṁ licchaviputtaṁ etadavocaṁ: ‘Taṁ kiṁ maññasi, sunakkhatta, yatheva te ahaṁ acelaṁ korakkhattiyaṁ ārabbha byākāsiṁ, tatheva taṁ vipākaṁ, aññathā vā’ti?
-
-‘Yatheva me, bhante, bhagavā acelaṁ korakkhattiyaṁ ārabbha byākāsi, tatheva taṁ vipākaṁ, no aññathā’ti.
-
-‘Taṁ kiṁ maññasi, sunakkhatta, yadi evaṁ sante kataṁ vā hoti uttari manussadhammā iddhipāṭihāriyaṁ, akataṁ vā’ti?
-
-‘Addhā kho, bhante, evaṁ sante kataṁ hoti uttari manussadhammā iddhipāṭihāriyaṁ, no akatan’ti.
-
-‘Evampi kho maṁ tvaṁ, moghapurisa, uttari manussadhammā iddhipāṭihāriyaṁ karontaṁ evaṁ vadesi—na hi pana me, bhante, bhagavā uttari manussadhammā iddhipāṭihāriyaṁ karotīti. Passa, moghapurisa, yāvañca te idaṁ aparaddhan’ti. Evampi kho, bhaggava, sunakkhatto licchaviputto mayā vuccamāno apakkameva imasmā dhammavinayā, yathā taṁ āpāyiko nerayiko.
-
-## 3. Acelakaḷāramaṭṭakavatthu
-
-Ekamidāhaṁ, bhaggava, samayaṁ vesāliyaṁ viharāmi mahāvane kūṭāgārasālāyaṁ. Tena kho pana samayena acelo kaḷāramaṭṭako vesāliyaṁ paṭivasati lābhaggappatto ceva yasaggappatto ca vajjigāme. Tassa sattavatapadāni samattāni samādinnāni honti: ‘yāvajīvaṁ acelako assaṁ, na vatthaṁ paridaheyyaṁ, yāvajīvaṁ brahmacārī assaṁ, na methunaṁ dhammaṁ paṭiseveyyaṁ, yāvajīvaṁ surāmaṁseneva yāpeyyaṁ, na odanakummāsaṁ bhuñjeyyaṁ. Puratthimena vesāliṁ udenaṁ nāma cetiyaṁ, taṁ nātikkameyyaṁ, dakkhiṇena vesāliṁ gotamakaṁ nāma cetiyaṁ, taṁ nātikkameyyaṁ, pacchimena vesāliṁ sattambaṁ nāma cetiyaṁ, taṁ nātikkameyyaṁ, uttarena vesāliṁ bahuputtaṁ nāma cetiyaṁ taṁ nātikkameyyan’ti. So imesaṁ sattannaṁ vatapadānaṁ samādānahetu lābhaggappatto ceva yasaggappatto ca vajjigāme.
-
-Atha kho, bhaggava, sunakkhatto licchaviputto yena acelo kaḷāramaṭṭako tenupasaṅkami; upasaṅkamitvā acelaṁ kaḷāramaṭṭakaṁ pañhaṁ apucchi. Tassa acelo kaḷāramaṭṭako pañhaṁ puṭṭho na sampāyāsi. Asampāyanto kopañca dosañca appaccayañca pātvākāsi. Atha kho, bhaggava, sunakkhattassa licchaviputtassa etadahosi: ‘sādhurūpaṁ vata bho arahantaṁ samaṇaṁ āsādimhase. Mā vata no ahosi dīgharattaṁ ahitāya dukkhāyā’ti.
-
-Atha kho, bhaggava, sunakkhatto licchaviputto yenāhaṁ tenupasaṅkami; upasaṅkamitvā maṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinnaṁ kho ahaṁ, bhaggava, sunakkhattaṁ licchaviputtaṁ etadavocaṁ: ‘tvampi nāma, moghapurisa, samaṇo sakyaputtiyo paṭijānissasī’ti.
-
-‘Kiṁ pana maṁ, bhante, bhagavā evamāha—tvampi nāma, moghapurisa, samaṇo sakyaputtiyo paṭijānissasī’ti?
-
-‘Nanu tvaṁ, sunakkhatta, acelaṁ kaḷāramaṭṭakaṁ upasaṅkamitvā pañhaṁ apucchi. Tassa te acelo kaḷāramaṭṭako pañhaṁ puṭṭho na sampāyāsi. Asampāyanto kopañca dosañca appaccayañca pātvākāsi. Tassa te etadahosi: “sādhurūpaṁ vata bho arahantaṁ samaṇaṁ āsādimhase. Mā vata no ahosi dīgharattaṁ ahitāya dukkhāyā”’ti.
-
-‘Evaṁ, bhante. Kiṁ pana, bhante, bhagavā arahattassa maccharāyatī’ti?
-
-‘Na kho ahaṁ, moghapurisa, arahattassa maccharāyāmi, api ca tuyhevetaṁ pāpakaṁ diṭṭhigataṁ uppannaṁ, taṁ pajaha. Mā te ahosi dīgharattaṁ ahitāya dukkhāya.
-
-Yaṁ kho panetaṁ, sunakkhatta, maññasi acelaṁ kaḷāramaṭṭakaṁ—sādhurūpo ayaṁ samaṇoti, so nacirasseva parihito sānucāriko vicaranto odanakummāsaṁ bhuñjamāno sabbāneva vesāliyāni cetiyāni samatikkamitvā yasā nihīno kālaṁ karissatī’ti.
-
-Atha kho, bhaggava, acelo kaḷāramaṭṭako nacirasseva parihito sānucāriko vicaranto odanakummāsaṁ bhuñjamāno sabbāneva vesāliyāni cetiyāni samatikkamitvā yasā nihīno kālamakāsi.
-
-Assosi kho, bhaggava, sunakkhatto licchaviputto: ‘acelo kira kaḷāramaṭṭako parihito sānucāriko vicaranto odanakummāsaṁ bhuñjamāno sabbāneva vesāliyāni cetiyāni samatikkamitvā yasā nihīno kālaṅkato’ti. Atha kho, bhaggava, sunakkhatto licchaviputto yenāhaṁ tenupasaṅkami; upasaṅkamitvā maṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinnaṁ kho ahaṁ, bhaggava, sunakkhattaṁ licchaviputtaṁ etadavocaṁ: ‘Taṁ kiṁ maññasi, sunakkhatta, yatheva te ahaṁ acelaṁ kaḷāramaṭṭakaṁ ārabbha byākāsiṁ, tatheva taṁ vipākaṁ, aññathā vā’ti?
-
-‘Yatheva me, bhante, bhagavā acelaṁ kaḷāramaṭṭakaṁ ārabbha byākāsi, tatheva taṁ vipākaṁ, no aññathā’ti.
-
-‘Taṁ kiṁ maññasi, sunakkhatta, yadi evaṁ sante kataṁ vā hoti uttari manussadhammā iddhipāṭihāriyaṁ akataṁ vā’ti?
-
-‘Addhā kho, bhante, evaṁ sante kataṁ hoti uttari manussadhammā iddhipāṭihāriyaṁ, no akatan’ti.
-
-‘Evampi kho maṁ tvaṁ, moghapurisa, uttari manussadhammā iddhipāṭihāriyaṁ karontaṁ evaṁ vadesi: “na hi pana me, bhante, bhagavā uttari manussadhammā iddhipāṭihāriyaṁ karotī”ti. Passa, moghapurisa, yāvañca te idaṁ aparaddhan’ti. Evampi kho, bhaggava, sunakkhatto licchaviputto mayā vuccamāno apakkameva imasmā dhammavinayā, yathā taṁ āpāyiko nerayiko.
-
-## 4. Acelapāthikaputtavatthu
-
-Ekamidāhaṁ, bhaggava, samayaṁ tattheva vesāliyaṁ viharāmi mahāvane kūṭāgārasālāyaṁ. Tena kho pana samayena acelo pāthikaputto vesāliyaṁ paṭivasati lābhaggappatto ceva yasaggappatto ca vajjigāme. So vesāliyaṁ parisati evaṁ vācaṁ bhāsati: ‘samaṇopi gotamo ñāṇavādo, ahampi ñāṇavādo. Ñāṇavādo kho pana ñāṇavādena arahati uttari manussadhammā iddhipāṭihāriyaṁ dassetuṁ. Samaṇo gotamo upaḍḍhapathaṁ āgaccheyya, ahampi upaḍḍhapathaṁ gaccheyyaṁ. Te tattha ubhopi uttari manussadhammā iddhipāṭihāriyaṁ kareyyāma. Ekañce samaṇo gotamo uttari manussadhammā iddhipāṭihāriyaṁ karissati, dvāhaṁ karissāmi. Dve ce samaṇo gotamo uttari manussadhammā iddhipāṭihāriyāni karissati, cattārāhaṁ karissāmi. Cattāri ce samaṇo gotamo uttari manussadhammā iddhipāṭihāriyāni karissati, aṭṭhāhaṁ karissāmi. Iti yāvatakaṁ yāvatakaṁ samaṇo gotamo uttari manussadhammā iddhipāṭihāriyaṁ karissati, taddiguṇaṁ taddiguṇāhaṁ karissāmī’ti.
-
-Atha kho, bhaggava, sunakkhatto licchaviputto yenāhaṁ tenupasaṅkami; upasaṅkamitvā maṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho, bhaggava, sunakkhatto licchaviputto maṁ etadavoca: ‘acelo, bhante, pāthikaputto vesāliyaṁ paṭivasati lābhaggappatto ceva yasaggappatto ca vajjigāme. So vesāliyaṁ parisati evaṁ vācaṁ bhāsati: “samaṇopi gotamo ñāṇavādo, ahampi ñāṇavādo. Ñāṇavādo kho pana ñāṇavādena arahati uttari manussadhammā iddhipāṭihāriyaṁ dassetuṁ. Samaṇo gotamo upaḍḍhapathaṁ āgaccheyya, ahampi upaḍḍhapathaṁ gaccheyyaṁ. Te tattha ubhopi uttari manussadhammā iddhipāṭihāriyaṁ kareyyāma. Ekañce samaṇo gotamo uttari manussadhammā iddhipāṭihāriyaṁ karissati, dvāhaṁ karissāmi. Dve ce samaṇo gotamo uttari manussadhammā iddhipāṭihāriyāni karissati, cattārāhaṁ karissāmi. Cattāri ce samaṇo gotamo uttari manussadhammā iddhipāṭihāriyāni karissati, aṭṭhāhaṁ karissāmi. Iti yāvatakaṁ yāvatakaṁ samaṇo gotamo uttari manussadhammā iddhipāṭihāriyaṁ karissati, taddiguṇaṁ taddiguṇāhaṁ karissāmī”’ti.
-
-Evaṁ vutte, ahaṁ, bhaggava, sunakkhattaṁ licchaviputtaṁ etadavocaṁ: ‘abhabbo kho, sunakkhatta, acelo pāthikaputto taṁ vācaṁ appahāya taṁ cittaṁ appahāya taṁ diṭṭhiṁ appaṭinissajjitvā mama sammukhībhāvaṁ āgantuṁ. Sacepissa evamassa—ahaṁ taṁ vācaṁ appahāya taṁ cittaṁ appahāya taṁ diṭṭhiṁ appaṭinissajjitvā samaṇassa gotamassa sammukhībhāvaṁ gaccheyyanti, muddhāpi tassa vipateyyā’ti.
-
-‘Rakkhatetaṁ, bhante, bhagavā vācaṁ, rakkhatetaṁ sugato vācan’ti.
-
-‘Kiṁ pana maṁ tvaṁ, sunakkhatta, evaṁ vadesi—rakkhatetaṁ, bhante, bhagavā vācaṁ, rakkhatetaṁ sugato vācan’ti?
-
-‘Bhagavatā cassa, bhante, esā vācā ekaṁsena odhāritā—abhabbo acelo pāthikaputto taṁ vācaṁ appahāya taṁ cittaṁ appahāya taṁ diṭṭhiṁ appaṭinissajjitvā mama sammukhībhāvaṁ āgantuṁ. Sacepissa evamassa—ahaṁ taṁ vācaṁ appahāya taṁ cittaṁ appahāya taṁ diṭṭhiṁ appaṭinissajjitvā samaṇassa gotamassa sammukhībhāvaṁ gaccheyyanti, muddhāpi tassa vipateyyāti. Acelo ca, bhante, pāthikaputto virūparūpena bhagavato sammukhībhāvaṁ āgaccheyya, tadassa bhagavato musā’ti.
-
-‘Api nu, sunakkhatta, tathāgato taṁ vācaṁ bhāseyya yā sā vācā dvayagāminī’ti?
-
-‘Kiṁ pana, bhante, bhagavatā acelo pāthikaputto cetasā ceto paricca vidito—abhabbo acelo pāthikaputto taṁ vācaṁ appahāya taṁ cittaṁ appahāya taṁ diṭṭhiṁ appaṭinissajjitvā mama sammukhībhāvaṁ āgantuṁ. Sacepissa evamassa—ahaṁ taṁ vācaṁ appahāya taṁ cittaṁ appahāya taṁ diṭṭhiṁ appaṭinissajjitvā samaṇassa gotamassa sammukhībhāvaṁ gaccheyyanti, muddhāpi tassa vipateyyāti? Udāhu, devatā bhagavato etamatthaṁ ārocesuṁ—abhabbo, bhante, acelo pāthikaputto taṁ vācaṁ appahāya taṁ cittaṁ appahāya taṁ diṭṭhiṁ appaṭinissajjitvā bhagavato sammukhībhāvaṁ āgantuṁ. Sacepissa evamassa—ahaṁ taṁ vācaṁ appahāya taṁ cittaṁ appahāya taṁ diṭṭhiṁ appaṭinissajjitvā samaṇassa gotamassa sammukhībhāvaṁ gaccheyyanti, muddhāpi tassa vipateyyā’ti?
-
-‘Cetasā ceto paricca vidito ceva me, sunakkhatta, acelo pāthikaputto—abhabbo acelo pāthikaputto taṁ vācaṁ appahāya taṁ cittaṁ appahāya taṁ diṭṭhiṁ appaṭinissajjitvā mama sammukhībhāvaṁ āgantuṁ. Sacepissa evamassa—ahaṁ taṁ vācaṁ appahāya taṁ cittaṁ appahāya taṁ diṭṭhiṁ appaṭinissajjitvā samaṇassa gotamassa sammukhībhāvaṁ gaccheyyanti, muddhāpi tassa vipateyyāti. Devatāpi me etamatthaṁ ārocesuṁ—abhabbo, bhante, acelo pāthikaputto taṁ vācaṁ appahāya taṁ cittaṁ appahāya taṁ diṭṭhiṁ appaṭinissajjitvā bhagavato sammukhībhāvaṁ āgantuṁ. Sacepissa evamassa—ahaṁ taṁ vācaṁ appahāya taṁ cittaṁ appahāya taṁ diṭṭhiṁ appaṭinissajjitvā samaṇassa gotamassa sammukhībhāvaṁ gaccheyyanti, muddhāpi tassa vipateyyāti. Ajitopi nāma licchavīnaṁ senāpati adhunā kālaṅkato tāvatiṁsakāyaṁ upapanno. Sopi maṁ upasaṅkamitvā evamārocesi—alajjī, bhante, acelo pāthikaputto; musāvādī, bhante, acelo pāthikaputto. Mampi, bhante, acelo pāthikaputto byākāsi vajjigāme—ajito licchavīnaṁ senāpati mahānirayaṁ upapannoti.
-
-Na kho panāhaṁ, bhante, mahānirayaṁ upapanno; tāvatiṁsakāyamhi upapanno. Alajjī, bhante, acelo pāthikaputto; musāvādī, bhante, acelo pāthikaputto; abhabbo ca, bhante, acelo pāthikaputto taṁ vācaṁ appahāya taṁ cittaṁ appahāya taṁ diṭṭhiṁ appaṭinissajjitvā bhagavato sammukhībhāvaṁ āgantuṁ. Sacepissa evamassa—ahaṁ taṁ vācaṁ appahāya taṁ cittaṁ appahāya taṁ diṭṭhiṁ appaṭinissajjitvā samaṇassa gotamassa sammukhībhāvaṁ gaccheyyanti, muddhāpi tassa vipateyyāti.
-
-Iti kho, sunakkhatta, cetasā ceto paricca vidito ceva me acelo pāthikaputto abhabbo acelo pāthikaputto taṁ vācaṁ appahāya taṁ cittaṁ appahāya taṁ diṭṭhiṁ appaṭinissajjitvā mama sammukhībhāvaṁ āgantuṁ. Sacepissa evamassa—ahaṁ taṁ vācaṁ appahāya taṁ cittaṁ appahāya taṁ diṭṭhiṁ appaṭinissajjitvā samaṇassa gotamassa sammukhībhāvaṁ gaccheyyanti, muddhāpi tassa vipateyyāti. Devatāpi me etamatthaṁ ārocesuṁ—abhabbo, bhante, acelo pāthikaputto taṁ vācaṁ appahāya taṁ cittaṁ appahāya taṁ diṭṭhiṁ appaṭinissajjitvā bhagavato sammukhībhāvaṁ āgantuṁ. Sacepissa evamassa—ahaṁ taṁ vācaṁ appahāya taṁ cittaṁ appahāya taṁ diṭṭhiṁ appaṭinissajjitvā samaṇassa gotamassa sammukhībhāvaṁ gaccheyyanti, muddhāpi tassa vipateyyāti.
-
-So kho panāhaṁ, sunakkhatta, vesāliyaṁ piṇḍāya caritvā pacchābhattaṁ piṇḍapātapaṭikkanto yena acelassa pāthikaputtassa ārāmo tenupasaṅkamissāmi divāvihārāya. Yassadāni tvaṁ, sunakkhatta, icchasi, tassa ārocehī’ti.
-
-## 5. Iddhipāṭihāriyakathā
-
-Atha khvāhaṁ, bhaggava, pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya vesāliṁ piṇḍāya pāvisiṁ. Vesāliyaṁ piṇḍāya caritvā pacchābhattaṁ piṇḍapātapaṭikkanto yena acelassa pāthikaputtassa ārāmo tenupasaṅkamiṁ divāvihārāya. Atha kho, bhaggava, sunakkhatto licchaviputto taramānarūpo vesāliṁ pavisitvā yena abhiññātā abhiññātā licchavī tenupasaṅkami; upasaṅkamitvā abhiññāte abhiññāte licchavī etadavoca: ‘esāvuso, bhagavā vesāliyaṁ piṇḍāya caritvā pacchābhattaṁ piṇḍapātapaṭikkanto yena acelassa pāthikaputtassa ārāmo tenupasaṅkami divāvihārāya. Abhikkamathāyasmanto abhikkamathāyasmanto, sādhurūpānaṁ samaṇānaṁ uttari manussadhammā iddhipāṭihāriyaṁ bhavissatī’ti. Atha kho, bhaggava, abhiññātānaṁ abhiññātānaṁ licchavīnaṁ etadahosi: ‘sādhurūpānaṁ kira, bho, samaṇānaṁ uttari manussadhammā iddhipāṭihāriyaṁ bhavissati; handa vata, bho, gacchāmā’ti.
-
-Yena ca abhiññātā abhiññātā brāhmaṇamahāsālā gahapatinecayikā nānātitthiyā samaṇabrāhmaṇā tenupasaṅkami. upasaṅkamitvā abhiññāte abhiññāte nānātitthiye samaṇabrāhmaṇe etadavoca: ‘esāvuso, bhagavā vesāliyaṁ piṇḍāya caritvā pacchābhattaṁ piṇḍapātapaṭikkanto yena acelassa pāthikaputtassa ārāmo tenupasaṅkami divāvihārāya. Abhikkamathāyasmanto abhikkamathāyasmanto, sādhurūpānaṁ samaṇānaṁ uttari manussadhammā iddhipāṭihāriyaṁ bhavissatī’ti. Atha kho, bhaggava, abhiññātānaṁ abhiññātānaṁ nānātitthiyānaṁ samaṇabrāhmaṇānaṁ etadahosi: ‘sādhurūpānaṁ kira, bho, samaṇānaṁ uttari manussadhammā iddhipāṭihāriyaṁ bhavissati; handa vata, bho, gacchāmā’ti.
-
-Atha kho, bhaggava, abhiññātā abhiññātā licchavī, abhiññātā abhiññātā ca brāhmaṇamahāsālā gahapatinecayikā nānātitthiyā samaṇabrāhmaṇā yena acelassa pāthikaputtassa ārāmo tenupasaṅkamiṁsu. Sā esā, bhaggava, parisā mahā hoti anekasatā anekasahassā.
-
-Assosi kho, bhaggava, acelo pāthikaputto: ‘abhikkantā kira abhiññātā abhiññātā licchavī, abhikkantā abhiññātā abhiññātā ca brāhmaṇamahāsālā gahapatinecayikā nānātitthiyā samaṇabrāhmaṇā. Samaṇopi gotamo mayhaṁ ārāme divāvihāraṁ nisinno’ti. Sutvānassa bhayaṁ chambhitattaṁ lomahaṁso udapādi. Atha kho, bhaggava, acelo pāthikaputto bhīto saṁviggo lomahaṭṭhajāto yena tindukakhāṇuparibbājakārāmo tenupasaṅkami.
-
-Assosi kho, bhaggava, sā parisā: ‘acelo kira pāthikaputto bhīto saṁviggo lomahaṭṭhajāto yena tindukakhāṇuparibbājakārāmo tenupasaṅkanto’ti. Atha kho, bhaggava, sā parisā aññataraṁ purisaṁ āmantesi: ‘Ehi tvaṁ, bho purisa, yena tindukakhāṇuparibbājakārāmo, yena acelo pāthikaputto tenupasaṅkama. upasaṅkamitvā acelaṁ pāthikaputtaṁ evaṁ vadehi: “abhikkamāvuso, pāthikaputta, abhikkantā abhiññātā abhiññātā licchavī, abhikkantā abhiññātā abhiññātā ca brāhmaṇamahāsālā gahapatinecayikā nānātitthiyā samaṇabrāhmaṇā, samaṇopi gotamo āyasmato ārāme divāvihāraṁ nisinno; bhāsitā kho pana te esā, āvuso pāthikaputta, vesāliyaṁ parisati vācā samaṇopi gotamo ñāṇavādo, ahampi ñāṇavādo. Ñāṇavādo kho pana ñāṇavādena arahati uttari manussadhammā iddhipāṭihāriyaṁ dassetuṁ. Samaṇo gotamo upaḍḍhapathaṁ āgaccheyya ahampi upaḍḍhapathaṁ gaccheyyaṁ. Te tattha ubhopi uttari manussadhammā iddhipāṭihāriyaṁ kareyyāma. Ekañce samaṇo gotamo uttari manussadhammā iddhipāṭihāriyaṁ karissati, dvāhaṁ karissāmi. Dve ce samaṇo gotamo uttari manussadhammā iddhipāṭihāriyāni karissati, cattārāhaṁ karissāmi. Cattāri ce samaṇo gotamo uttari manussadhammā iddhipāṭihāriyāni karissati, aṭṭhāhaṁ karissāmi. Iti yāvatakaṁ yāvatakaṁ samaṇo gotamo uttari manussadhammā iddhipāṭihāriyaṁ karissati, taddiguṇaṁ taddiguṇāhaṁ karissāmī”ti abhikkamasseva kho āvuso pāthikaputta, upaḍḍhapathaṁ. Sabbapaṭhamaṁyeva āgantvā samaṇo gotamo āyasmato ārāme divāvihāraṁ nisinno’ti.
-
-Evaṁ, bhoti kho, bhaggava, so puriso tassā parisāya paṭissutvā yena tindukakhāṇuparibbājakārāmo, yena acelo pāthikaputto tenupasaṅkami. upasaṅkamitvā acelaṁ pāthikaputtaṁ etadavoca: ‘abhikkamāvuso pāthikaputta, abhikkantā abhiññātā abhiññātā licchavī, abhikkantā abhiññātā abhiññātā ca brāhmaṇamahāsālā gahapatinecayikā nānātitthiyā samaṇabrāhmaṇā. Samaṇopi gotamo āyasmato ārāme divāvihāraṁ nisinno. Bhāsitā kho pana te esā, āvuso pāthikaputta, vesāliyaṁ parisati vācā—samaṇopi gotamo ñāṇavādo; ahampi ñāṇavādo. Ñāṇavādo kho pana ñāṇavādena arahati uttari manussadhammā iddhipāṭihāriyaṁ dassetuṁ …pe… taddiguṇaṁ taddiguṇāhaṁ karissāmīti. Abhikkamasseva kho, āvuso pāthikaputta, upaḍḍhapathaṁ. Sabbapaṭhamaṁyeva āgantvā samaṇo gotamo āyasmato ārāme divāvihāraṁ nisinno’ti.
-
-Evaṁ vutte, bhaggava, acelo pāthikaputto ‘āyāmi, āvuso, āyāmi, āvuso’ti vatvā tattheva saṁsappati, na sakkoti āsanāpi vuṭṭhātuṁ. Atha kho so, bhaggava, puriso acelaṁ pāthikaputtaṁ etadavoca: ‘kiṁ su nāma te, āvuso pāthikaputta, pāvaḷā su nāma te pīṭhakasmiṁ allīnā, pīṭhakaṁ su nāma te pāvaḷāsu allīnaṁ? Āyāmi āvuso, āyāmi āvusoti vatvā tattheva saṁsappasi, na sakkosi āsanāpi vuṭṭhātun’ti. Evampi kho, bhaggava, vuccamāno acelo pāthikaputto ‘āyāmi, āvuso, āyāmi, āvuso’ti vatvā tattheva saṁsappati, na sakkoti āsanāpi vuṭṭhātuṁ.
-
-Yadā kho so, bhaggava, puriso aññāsi: ‘parābhūtarūpo ayaṁ acelo pāthikaputto. Āyāmi, āvuso, āyāmi, āvusoti vatvā tattheva saṁsappati, na sakkoti āsanāpi vuṭṭhātun’ti. Atha taṁ parisaṁ āgantvā evamārocesi: ‘parābhūtarūpo, bho, acelo pāthikaputto. Āyāmi, āvuso, āyāmi, āvusoti vatvā tattheva saṁsappati, na sakkoti āsanāpi vuṭṭhātun’ti. Evaṁ vutte, ahaṁ, bhaggava, taṁ parisaṁ etadavocaṁ: ‘abhabbo kho, āvuso, acelo pāthikaputto taṁ vācaṁ appahāya taṁ cittaṁ appahāya taṁ diṭṭhiṁ appaṭinissajjitvā mama sammukhībhāvaṁ āgantuṁ. Sacepissa evamassa—ahaṁ taṁ vācaṁ appahāya taṁ cittaṁ appahāya taṁ diṭṭhiṁ appaṭinissajjitvā samaṇassa gotamassa sammukhībhāvaṁ gaccheyyanti, muddhāpi tassa vipateyyā’ti.
-
-Paṭhamabhāṇavāro niṭṭhito.
-
-Atha kho, bhaggava, aññataro licchavimahāmatto uṭṭhāyāsanā taṁ parisaṁ etadavoca: ‘tena hi, bho, muhuttaṁ tāva āgametha, yāvāhaṁ gacchāmi. Appeva nāma ahampi sakkuṇeyyaṁ acelaṁ pāthikaputtaṁ imaṁ parisaṁ ānetun’ti.
-
-Atha kho so, bhaggava, licchavimahāmatto yena tindukakhāṇuparibbājakārāmo, yena acelo pāthikaputto tenupasaṅkami. upasaṅkamitvā acelaṁ pāthikaputtaṁ etadavoca: ‘abhikkamāvuso pāthikaputta, abhikkantaṁ te seyyo, abhikkantā abhiññātā abhiññātā licchavī, abhikkantā abhiññātā abhiññātā ca brāhmaṇamahāsālā gahapatinecayikā nānātitthiyā samaṇabrāhmaṇā. Samaṇopi gotamo āyasmato ārāme divāvihāraṁ nisinno. Bhāsitā kho pana te esā, āvuso pāthikaputta, vesāliyaṁ parisati vācā—samaṇopi gotamo ñāṇavādo …pe… taddiguṇaṁ taddiguṇāhaṁ karissāmīti. Abhikkamasseva kho, āvuso pāthikaputta, upaḍḍhapathaṁ. Sabbapaṭhamaṁyeva āgantvā samaṇo gotamo āyasmato ārāme divāvihāraṁ nisinno. Bhāsitā kho panesā, āvuso pāthikaputta, samaṇena gotamena parisati vācā—abhabbo kho acelo pāthikaputto taṁ vācaṁ appahāya taṁ cittaṁ appahāya taṁ diṭṭhiṁ appaṭinissajjitvā mama sammukhībhāvaṁ āgantuṁ. Sacepissa evamassa—ahaṁ taṁ vācaṁ appahāya taṁ cittaṁ appahāya taṁ diṭṭhiṁ appaṭinissajjitvā samaṇassa gotamassa sammukhībhāvaṁ gaccheyyanti, muddhāpi tassa vipateyyāti. Abhikkamāvuso pāthikaputta, abhikkamaneneva te jayaṁ karissāma, samaṇassa gotamassa parājayan’ti.
-
-Evaṁ vutte, bhaggava, acelo pāthikaputto ‘āyāmi, āvuso, āyāmi, āvuso’ti vatvā tattheva saṁsappati, na sakkoti āsanāpi vuṭṭhātuṁ. Atha kho so, bhaggava, licchavimahāmatto acelaṁ pāthikaputtaṁ etadavoca: ‘kiṁ su nāma te, āvuso pāthikaputta, pāvaḷā su nāma te pīṭhakasmiṁ allīnā, pīṭhakaṁ su nāma te pāvaḷāsu allīnaṁ? Āyāmi, āvuso, āyāmi, āvusoti vatvā tattheva saṁsappasi, na sakkosi āsanāpi vuṭṭhātun’ti. Evampi kho, bhaggava, vuccamāno acelo pāthikaputto ‘āyāmi, āvuso, āyāmi, āvuso’ti vatvā tattheva saṁsappati, na sakkoti āsanāpi vuṭṭhātuṁ.
-
-Yadā kho so, bhaggava, licchavimahāmatto aññāsi: ‘parābhūtarūpo ayaṁ acelo pāthikaputto āyāmi, āvuso, āyāmi, āvusoti vatvā tattheva saṁsappati, na sakkoti āsanāpi vuṭṭhātun’ti. Atha taṁ parisaṁ āgantvā evamārocesi: ‘parābhūtarūpo, bho, acelo pāthikaputto āyāmi, āvuso, āyāmi, āvusoti vatvā tattheva saṁsappati, na sakkoti āsanāpi vuṭṭhātun’ti. Evaṁ vutte, ahaṁ, bhaggava, taṁ parisaṁ etadavocaṁ: ‘abhabbo kho, āvuso, acelo pāthikaputto taṁ vācaṁ appahāya taṁ cittaṁ appahāya taṁ diṭṭhiṁ appaṭinissajjitvā mama sammukhībhāvaṁ āgantuṁ. Sacepissa evamassa—ahaṁ taṁ vācaṁ appahāya taṁ cittaṁ appahāya taṁ diṭṭhiṁ appaṭinissajjitvā samaṇassa gotamassa sammukhībhāvaṁ gaccheyyanti, muddhāpi tassa vipateyya. Sace pāyasmantānaṁ licchavīnaṁ evamassa—mayaṁ acelaṁ pāthikaputtaṁ varattāhi bandhitvā goyugehi āviñcheyyāmāti, tā varattā chijjeyyuṁ pāthikaputto vā. Abhabbo pana acelo pāthikaputto taṁ vācaṁ appahāya taṁ cittaṁ appahāya taṁ diṭṭhiṁ appaṭinissajjitvā mama sammukhībhāvaṁ āgantuṁ. Sacepissa evamassa—ahaṁ taṁ vācaṁ appahāya taṁ cittaṁ appahāya taṁ diṭṭhiṁ appaṭinissajjitvā samaṇassa gotamassa sammukhībhāvaṁ gaccheyyanti, muddhāpi tassa vipateyyā’ti.
-
-Atha kho, bhaggava, jāliyo dārupattikantevāsī uṭṭhāyāsanā taṁ parisaṁ etadavoca: ‘tena hi, bho, muhuttaṁ tāva āgametha, yāvāhaṁ gacchāmi; appeva nāma ahampi sakkuṇeyyaṁ acelaṁ pāthikaputtaṁ imaṁ parisaṁ ānetun’ti.
-
-Atha kho, bhaggava, jāliyo dārupattikantevāsī yena tindukakhāṇuparibbājakārāmo, yena acelo pāthikaputto tenupasaṅkami. upasaṅkamitvā acelaṁ pāthikaputtaṁ etadavoca: ‘abhikkamāvuso pāthikaputta, abhikkantaṁ te seyyo. Abhikkantā abhiññātā abhiññātā licchavī, abhikkantā abhiññātā abhiññātā ca brāhmaṇamahāsālā gahapatinecayikā nānātitthiyā samaṇabrāhmaṇā. Samaṇopi gotamo āyasmato ārāme divāvihāraṁ nisinno. Bhāsitā kho pana te esā, āvuso pāthikaputta, vesāliyaṁ parisati vācā—samaṇopi gotamo ñāṇavādo …pe… taddiguṇaṁ taddiguṇāhaṁ karissāmīti. Abhikkamasseva, kho āvuso pāthikaputta, upaḍḍhapathaṁ. Sabbapaṭhamaṁyeva āgantvā samaṇo gotamo āyasmato ārāme divāvihāraṁ nisinno. Bhāsitā kho panesā, āvuso pāthikaputta, samaṇena gotamena parisati vācā—abhabbo acelo pāthikaputto taṁ vācaṁ appahāya taṁ cittaṁ appahāya taṁ diṭṭhiṁ appaṭinissajjitvā mama sammukhībhāvaṁ āgantuṁ. Sacepissa evamassa—ahaṁ taṁ vācaṁ appahāya taṁ cittaṁ appahāya taṁ diṭṭhiṁ appaṭinissajjitvā samaṇassa gotamassa sammukhībhāvaṁ gaccheyyanti, muddhāpi tassa vipateyya. Sace pāyasmantānaṁ licchavīnaṁ evamassa—mayaṁ acelaṁ pāthikaputtaṁ varattāhi bandhitvā goyugehi āviñcheyyāmāti. Tā varattā chijjeyyuṁ pāthikaputto vā. Abhabbo pana acelo pāthikaputto taṁ vācaṁ appahāya taṁ cittaṁ appahāya taṁ diṭṭhiṁ appaṭinissajjitvā mama sammukhībhāvaṁ āgantuṁ. Sacepissa evamassa—ahaṁ taṁ vācaṁ appahāya taṁ cittaṁ appahāya taṁ diṭṭhiṁ appaṭinissajjitvā samaṇassa gotamassa sammukhībhāvaṁ āgaccheyyanti, muddhāpi tassa vipateyyāti. Abhikkamāvuso pāthikaputta, abhikkamaneneva te jayaṁ karissāma, samaṇassa gotamassa parājayan’ti.
-
-Evaṁ vutte, bhaggava, acelo pāthikaputto ‘āyāmi, āvuso, āyāmi, āvuso’ti vatvā tattheva saṁsappati, na sakkoti āsanāpi vuṭṭhātuṁ. Atha kho, bhaggava, jāliyo dārupattikantevāsī acelaṁ pāthikaputtaṁ etadavoca: ‘kiṁ su nāma te, āvuso pāthikaputta, pāvaḷā su nāma te pīṭhakasmiṁ allīnā, pīṭhakaṁ su nāma te pāvaḷāsu allīnaṁ? Āyāmi, āvuso, āyāmi, āvusoti vatvā tattheva saṁsappasi, na sakkosi āsanāpi vuṭṭhātun’ti. Evampi kho, bhaggava, vuccamāno acelo pāthikaputto ‘āyāmi, āvuso, āyāmi, āvuso’ti vatvā tattheva saṁsappati, na sakkoti āsanāpi vuṭṭhātunti.
-
-Yadā kho, bhaggava, jāliyo dārupattikantevāsī aññāsi: ‘parābhūtarūpo ayaṁ acelo pāthikaputto āyāmi, āvuso, āyāmi, āvusoti vatvā tattheva saṁsappati, na sakkoti āsanāpi vuṭṭhātun’ti, atha naṁ etadavoca—
-
-Bhūtapubbaṁ, āvuso pāthikaputta, sīhassa migarañño etadahosi: ‘yannūnāhaṁ aññataraṁ vanasaṇḍaṁ nissāya āsayaṁ kappeyyaṁ. Tatrāsayaṁ kappetvā sāyanhasamayaṁ āsayā nikkhameyyaṁ, āsayā nikkhamitvā vijambheyyaṁ, vijambhitvā samantā catuddisā anuvilokeyyaṁ, samantā catuddisā anuviloketvā tikkhattuṁ sīhanādaṁ nadeyyaṁ, tikkhattuṁ sīhanādaṁ naditvā gocarāya pakkameyyaṁ. So varaṁ varaṁ migasaṅghe vadhitvā mudumaṁsāni mudumaṁsāni bhakkhayitvā tameva āsayaṁ ajjhupeyyan’ti.
-
-Atha kho, āvuso, so sīho migarājā aññataraṁ vanasaṇḍaṁ nissāya āsayaṁ kappesi. Tatrāsayaṁ kappetvā sāyanhasamayaṁ āsayā nikkhami, āsayā nikkhamitvā vijambhi, vijambhitvā samantā catuddisā anuvilokesi, samantā catuddisā anuviloketvā tikkhattuṁ sīhanādaṁ nadi, tikkhattuṁ sīhanādaṁ naditvā gocarāya pakkāmi. So varaṁ varaṁ migasaṅghe vadhitvā mudumaṁsāni mudumaṁsāni bhakkhayitvā tameva āsayaṁ ajjhupesi.
-
-Tasseva kho, āvuso pāthikaputta, sīhassa migarañño vighāsasaṁvaḍḍho jarasiṅgālo ditto ceva balavā ca. Atha kho, āvuso, tassa jarasiṅgālassa etadahosi: ‘ko cāhaṁ, ko sīho migarājā. Yannūnāhampi aññataraṁ vanasaṇḍaṁ nissāya āsayaṁ kappeyyaṁ. Tatrāsayaṁ kappetvā sāyanhasamayaṁ āsayā nikkhameyyaṁ, āsayā nikkhamitvā vijambheyyaṁ, vijambhitvā samantā catuddisā anuvilokeyyaṁ, samantā catuddisā anuviloketvā tikkhattuṁ sīhanādaṁ nadeyyaṁ, tikkhattuṁ sīhanādaṁ naditvā gocarāya pakkameyyaṁ. So varaṁ varaṁ migasaṅghe vadhitvā mudumaṁsāni mudumaṁsāni bhakkhayitvā tameva āsayaṁ ajjhupeyyan’ti.
-
-Atha kho so, āvuso, jarasiṅgālo aññataraṁ vanasaṇḍaṁ nissāya āsayaṁ kappesi. Tatrāsayaṁ kappetvā sāyanhasamayaṁ āsayā nikkhami, āsayā nikkhamitvā vijambhi, vijambhitvā samantā catuddisā anuvilokesi, samantā catuddisā anuviloketvā tikkhattuṁ sīhanādaṁ nadissāmīti siṅgālakaṁyeva anadi bheraṇḍakaṁyeva anadi, ke ca chave siṅgāle, ke pana sīhanādeti.
-
-Evameva kho tvaṁ, āvuso pāthikaputta, sugatāpadānesu jīvamāno sugatātirittāni bhuñjamāno tathāgate arahante sammāsambuddhe āsādetabbaṁ maññasi. Ke ca chave pāthikaputte, kā ca tathāgatānaṁ arahantānaṁ sammāsambuddhānaṁ āsādanāti.
-
-Yato kho, bhaggava, jāliyo dārupattikantevāsī iminā opammena neva asakkhi acelaṁ pāthikaputtaṁ tamhā āsanā cāvetuṁ. Atha naṁ etadavoca:
-
-> ‘Sīhoti attānaṁ samekkhiyāna, Amaññi kotthu migarājāhamasmi; Tatheva so siṅgālakaṁ anadi, Ke ca chave siṅgāle ke pana sīhanādeti.
-
-Evameva kho tvaṁ, āvuso pāthikaputta, sugatāpadānesu jīvamāno sugatātirittāni bhuñjamāno tathāgate arahante sammāsambuddhe āsādetabbaṁ maññasi. Ke ca chave pāthikaputte, kā ca tathāgatānaṁ arahantānaṁ sammāsambuddhānaṁ āsādanā’ti.
-
-Yato kho, bhaggava, jāliyo dārupattikantevāsī imināpi opammena neva asakkhi acelaṁ pāthikaputtaṁ tamhā āsanā cāvetuṁ. Atha naṁ etadavoca:
-
-> ‘Aññaṁ anucaṅkamanaṁ, Attānaṁ vighāse samekkhiya; Yāva attānaṁ na passati, Kotthu tāva byagghoti maññati.
->
-> Tatheva so siṅgālakaṁ anadi, Ke ca chave siṅgāle ke pana sīhanādeti.
-
-Evameva kho tvaṁ, āvuso pāthikaputta, sugatāpadānesu jīvamāno sugatātirittāni bhuñjamāno tathāgate arahante sammāsambuddhe āsādetabbaṁ maññasi. Ke ca chave pāthikaputte, kā ca tathāgatānaṁ arahantānaṁ sammāsambuddhānaṁ āsādanā’ti.
-
-Yato kho, bhaggava, jāliyo dārupattikantevāsī imināpi opammena neva asakkhi acelaṁ pāthikaputtaṁ tamhā āsanā cāvetuṁ. Atha naṁ etadavoca:
-
-> ‘Bhutvāna bheke khalamūsikāyo, Kaṭasīsu khittāni ca koṇapāni; Mahāvane suññavane vivaḍḍho, Amaññi kotthu migarājāhamasmi; Tatheva so siṅgālakaṁ anadi, Ke ca chave siṅgāle ke pana sīhanādeti.
-
-Evameva kho tvaṁ, āvuso pāthikaputta, sugatāpadānesu jīvamāno sugatātirittāni bhuñjamāno tathāgate arahante sammāsambuddhe āsādetabbaṁ maññasi. Ke ca chave pāthikaputte, kā ca tathāgatānaṁ arahantānaṁ sammāsambuddhānaṁ āsādanā’ti.
-
-Yato kho, bhaggava, jāliyo dārupattikantevāsī imināpi opammena neva asakkhi acelaṁ pāthikaputtaṁ tamhā āsanā cāvetuṁ. Atha taṁ parisaṁ āgantvā evamārocesi: ‘parābhūtarūpo, bho, acelo pāthikaputto āyāmi āvuso, āyāmi, āvusoti vatvā tattheva saṁsappati, na sakkoti āsanāpi vuṭṭhātun’ti.
-
-Evaṁ vutte, ahaṁ, bhaggava, taṁ parisaṁ etadavocaṁ: ‘abhabbo kho, āvuso, acelo pāthikaputto taṁ vācaṁ appahāya taṁ cittaṁ appahāya taṁ diṭṭhiṁ appaṭinissajjitvā mama sammukhībhāvaṁ āgantuṁ. Sacepissa evamassa—ahaṁ taṁ vācaṁ appahāya taṁ cittaṁ appahāya taṁ diṭṭhiṁ appaṭinissajjitvā samaṇassa gotamassa sammukhībhāvaṁ gaccheyyanti, muddhāpi tassa vipateyya. Sacepāyasmantānaṁ licchavīnaṁ evamassa—mayaṁ acelaṁ pāthikaputtaṁ varattāhi bandhitvā nāgehi āviñcheyyāmāti. Tā varattā chijjeyyuṁ pāthikaputto vā. Abhabbo pana acelo pāthikaputto taṁ vācaṁ appahāya taṁ cittaṁ appahāya taṁ diṭṭhiṁ appaṭinissajjitvā mama sammukhībhāvaṁ āgantuṁ. Sacepissa evamassa—ahaṁ taṁ vācaṁ appahāya taṁ cittaṁ appahāya taṁ diṭṭhiṁ appaṭinissajjitvā samaṇassa gotamassa sammukhībhāvaṁ gaccheyyanti, muddhāpi tassa vipateyyā’ti.
-
-Atha khvāhaṁ, bhaggava, taṁ parisaṁ dhammiyā kathāya sandassesiṁ samādapesiṁ samuttejesiṁ sampahaṁsesiṁ, taṁ parisaṁ dhammiyā kathāya sandassetvā samādapetvā samuttejetvā sampahaṁsetvā mahābandhanā mokkhaṁ karitvā caturāsītipāṇasahassāni mahāviduggā uddharitvā tejodhātuṁ samāpajjitvā sattatālaṁ vehāsaṁ abbhuggantvā aññaṁ sattatālampi acciṁ abhinimminitvā pajjalitvā dhūmāyitvā mahāvane kūṭāgārasālāyaṁ paccuṭṭhāsiṁ.
-
-Atha kho, bhaggava, sunakkhatto licchaviputto yenāhaṁ tenupasaṅkami; upasaṅkamitvā maṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinnaṁ kho ahaṁ, bhaggava, sunakkhattaṁ licchaviputtaṁ etadavocaṁ: ‘Taṁ kiṁ maññasi, sunakkhatta, yatheva te ahaṁ acelaṁ pāthikaputtaṁ ārabbha byākāsiṁ, tatheva taṁ vipākaṁ aññathā vā’ti?
-
-‘Yatheva me, bhante, bhagavā acelaṁ pāthikaputtaṁ ārabbha byākāsi, tatheva taṁ vipākaṁ, no aññathā’ti.
-
-‘Taṁ kiṁ maññasi, sunakkhatta, yadi evaṁ sante kataṁ vā hoti uttari manussadhammā iddhipāṭihāriyaṁ, akataṁ vā’ti?
-
-‘Addhā kho, bhante, evaṁ sante kataṁ hoti uttari manussadhammā iddhipāṭihāriyaṁ, no akatan’ti.
-
-‘Evampi kho maṁ tvaṁ, moghapurisa, uttari manussadhammā iddhipāṭihāriyaṁ karontaṁ evaṁ vadesi—na hi pana me, bhante, bhagavā uttari manussadhammā iddhipāṭihāriyaṁ karotīti. Passa, moghapurisa, yāvañca te idaṁ aparaddhan’ti.
-
-Evampi kho, bhaggava, sunakkhatto licchaviputto mayā vuccamāno apakkameva imasmā dhammavinayā, yathā taṁ āpāyiko nerayiko.
-
-## 6. Aggaññapaññattikathā
-
-Aggaññañcāhaṁ, bhaggava, pajānāmi. Tañca pajānāmi, tato ca uttaritaraṁ pajānāmi, tañca pajānaṁ na parāmasāmi, aparāmasato ca me paccattaññeva nibbuti viditā, yadabhijānaṁ tathāgato no anayaṁ āpajjati.
-
-Santi, bhaggava, eke samaṇabrāhmaṇā issarakuttaṁ brahmakuttaṁ ācariyakaṁ aggaññaṁ paññapenti. Tyāhaṁ upasaṅkamitvā evaṁ vadāmi: ‘saccaṁ kira tumhe āyasmanto issarakuttaṁ brahmakuttaṁ ācariyakaṁ aggaññaṁ paññapethā’ti? Te ca me evaṁ puṭṭhā, ‘āmo’ti paṭijānanti. Tyāhaṁ evaṁ vadāmi: ‘kathaṁvihitakaṁ pana tumhe āyasmanto issarakuttaṁ brahmakuttaṁ ācariyakaṁ aggaññaṁ paññapethā’ti? Te mayā puṭṭhā na sampāyanti, asampāyantā mamaññeva paṭipucchanti. Tesāhaṁ puṭṭho byākaromi:
-
-‘Hoti kho so, āvuso, samayo yaṁ kadāci karahaci dīghassa addhuno accayena ayaṁ loko saṁvaṭṭati. Saṁvaṭṭamāne loke yebhuyyena sattā ābhassarasaṁvattanikā honti. Te tattha honti manomayā pītibhakkhā sayaṁpabhā antalikkhacarā subhaṭṭhāyino ciraṁ dīghamaddhānaṁ tiṭṭhanti.
-
-Hoti kho so, āvuso, samayo yaṁ kadāci karahaci dīghassa addhuno accayena ayaṁ loko vivaṭṭati. Vivaṭṭamāne loke suññaṁ brahmavimānaṁ pātubhavati. Atha kho aññataro satto āyukkhayā vā puññakkhayā vā ābhassarakāyā cavitvā suññaṁ brahmavimānaṁ upapajjati. So tattha hoti manomayo pītibhakkho sayampabho antalikkhacaro subhaṭṭhāyī, ciraṁ dīghamaddhānaṁ tiṭṭhati.
-
-Tassa tattha ekakassa dīgharattaṁ nivusitattā anabhirati paritassanā uppajjati—aho vata aññepi sattā itthattaṁ āgaccheyyunti.
-
-Atha aññepi sattā āyukkhayā vā puññakkhayā vā ābhassarakāyā cavitvā suññaṁ brahmavimānaṁ upapajjanti tassa sattassa sahabyataṁ. Tepi tattha honti manomayā pītibhakkhā sayaṁpabhā antalikkhacarā subhaṭṭhāyino, ciraṁ dīghamaddhānaṁ tiṭṭhanti.
-
-Tatrāvuso, yo so satto paṭhamaṁ upapanno, tassa evaṁ hoti—ahamasmi brahmā mahābrahmā abhibhū anabhibhūto aññadatthudaso vasavattī issaro kattā nimmātā seṭṭho sajitā vasī pitā bhūtabhabyānaṁ, mayā ime sattā nimmitā. Taṁ kissa hetu? Mamañhi pubbe etadahosi—aho vata aññepi sattā itthattaṁ āgaccheyyunti; iti mama ca manopaṇidhi. Ime ca sattā itthattaṁ āgatāti.
-
-Yepi te sattā pacchā upapannā, tesampi evaṁ hoti—ayaṁ kho bhavaṁ brahmā mahābrahmā abhibhū anabhibhūto aññadatthudaso vasavattī issaro kattā nimmātā seṭṭho sajitā vasī pitā bhūtabhabyānaṁ; iminā mayaṁ bhotā brahmunā nimmitā. Taṁ kissa hetu? Imañhi mayaṁ addasāma idha paṭhamaṁ upapannaṁ; mayaṁ panāmha pacchā upapannāti.
-
-Tatrāvuso, yo so satto paṭhamaṁ upapanno, so dīghāyukataro ca hoti vaṇṇavantataro ca mahesakkhataro ca. Ye pana te sattā pacchā upapannā, te appāyukatarā ca honti dubbaṇṇatarā ca appesakkhatarā ca.
-
-Ṭhānaṁ kho panetaṁ, āvuso, vijjati, yaṁ aññataro satto tamhā kāyā cavitvā itthattaṁ āgacchati. Itthattaṁ āgato samāno agārasmā anagāriyaṁ pabbajati. Agārasmā anagāriyaṁ pabbajito samāno ātappamanvāya padhānamanvāya anuyogamanvāya appamādamanvāya sammāmanasikāramanvāya tathārūpaṁ cetosamādhiṁ phusati, yathāsamāhite citte taṁ pubbenivāsaṁ anussarati; tato paraṁ nānussarati.
-
-So evamāha: “yo kho so bhavaṁ brahmā mahābrahmā abhibhū anabhibhūto aññadatthudaso vasavattī issaro kattā nimmātā seṭṭho sajitā vasī pitā bhūtabhabyānaṁ, yena mayaṁ bhotā brahmunā nimmitā. So nicco dhuvo sassato avipariṇāmadhammo sassatisamaṁ tatheva ṭhassati. Ye pana mayaṁ ahumhā tena bhotā brahmunā nimmitā, te mayaṁ aniccā addhuvā appāyukā cavanadhammā itthattaṁ āgatā”ti. Evaṁvihitakaṁ no tumhe āyasmanto issarakuttaṁ brahmakuttaṁ ācariyakaṁ aggaññaṁ paññapethā’ti.
-
-Te evamāhaṁsu: ‘evaṁ kho no, āvuso gotama, sutaṁ, yathevāyasmā gotamo āhā’ti.
-
-Aggaññañcāhaṁ, bhaggava, pajānāmi. Tañca pajānāmi, tato ca uttaritaraṁ pajānāmi, tañca pajānaṁ na parāmasāmi, aparāmasato ca me paccattaññeva nibbuti viditā. Yadabhijānaṁ tathāgato no anayaṁ āpajjati.
-
-Santi, bhaggava, eke samaṇabrāhmaṇā khiḍḍāpadosikaṁ ācariyakaṁ aggaññaṁ paññapenti. Tyāhaṁ upasaṅkamitvā evaṁ vadāmi: ‘saccaṁ kira tumhe āyasmanto khiḍḍāpadosikaṁ ācariyakaṁ aggaññaṁ paññapethā’ti? Te ca me evaṁ puṭṭhā ‘āmo’ti paṭijānanti. Tyāhaṁ evaṁ vadāmi: ‘kathaṁvihitakaṁ pana tumhe āyasmanto khiḍḍāpadosikaṁ ācariyakaṁ aggaññaṁ paññapethā’ti? Te mayā puṭṭhā na sampāyanti, asampāyantā mamaññeva paṭipucchanti, tesāhaṁ puṭṭho byākaromi:
-
-‘Santāvuso, khiḍḍāpadosikā nāma devā. Te ativelaṁ hassakhiḍḍāratidhammasamāpannā viharanti. Tesaṁ ativelaṁ hassakhiḍḍāratidhammasamāpannānaṁ viharataṁ sati sammussati, satiyā sammosā te devā tamhā kāyā cavanti.
-
-Ṭhānaṁ kho panetaṁ, āvuso, vijjati, yaṁ aññataro satto tamhā kāyā cavitvā itthattaṁ āgacchati, itthattaṁ āgato samāno agārasmā anagāriyaṁ pabbajati, agārasmā anagāriyaṁ pabbajito samāno ātappamanvāya padhānamanvāya anuyogamanvāya appamādamanvāya sammāmanasikāramanvāya tathārūpaṁ cetosamādhiṁ phusati, yathāsamāhite citte taṁ pubbenivāsaṁ anussarati; tato paraṁ nānussarati.
-
-So evamāha: “ye kho te bhonto devā na khiḍḍāpadosikā te na ativelaṁ hassakhiḍḍāratidhammasamāpannā viharanti. Tesaṁ nātivelaṁ hassakhiḍḍāratidhammasamāpannānaṁ viharataṁ sati na sammussati, satiyā asammosā te devā tamhā kāyā na cavanti, niccā dhuvā sassatā avipariṇāmadhammā sassatisamaṁ tatheva ṭhassanti. Ye pana mayaṁ ahumhā khiḍḍāpadosikā te mayaṁ ativelaṁ hassakhiḍḍāratidhammasamāpannā viharimhā, tesaṁ no ativelaṁ hassakhiḍḍāratidhammasamāpannānaṁ viharataṁ sati sammussati, satiyā sammosā evaṁ mayaṁ tamhā kāyā cutā, aniccā addhuvā appāyukā cavanadhammā itthattaṁ āgatā”ti. Evaṁvihitakaṁ no tumhe āyasmanto khiḍḍāpadosikaṁ ācariyakaṁ aggaññaṁ paññapethā’ti.
-
-Te evamāhaṁsu: ‘evaṁ kho no, āvuso gotama, sutaṁ, yathevāyasmā gotamo āhā’ti.
-
-Aggaññañcāhaṁ, bhaggava, pajānāmi …pe… yadabhijānaṁ tathāgato no anayaṁ āpajjati.
-
-Santi, bhaggava, eke samaṇabrāhmaṇā manopadosikaṁ ācariyakaṁ aggaññaṁ paññapenti. Tyāhaṁ upasaṅkamitvā evaṁ vadāmi: ‘saccaṁ kira tumhe āyasmanto manopadosikaṁ ācariyakaṁ aggaññaṁ paññapethā’ti? Te ca me evaṁ puṭṭhā ‘āmo’ti paṭijānanti. Tyāhaṁ evaṁ vadāmi: ‘kathaṁvihitakaṁ pana tumhe āyasmanto manopadosikaṁ ācariyakaṁ aggaññaṁ paññapethā’ti? Te mayā puṭṭhā na sampāyanti, asampāyantā mamaññeva paṭipucchanti. Tesāhaṁ puṭṭho byākaromi:
-
-‘Santāvuso, manopadosikā nāma devā. Te ativelaṁ aññamaññaṁ upanijjhāyanti. Te ativelaṁ aññamaññaṁ upanijjhāyantā aññamaññamhi cittāni padūsenti. Te aññamaññaṁ paduṭṭhacittā kilantakāyā kilantacittā. Te devā tamhā kāyā cavanti.
-
-Ṭhānaṁ kho panetaṁ, āvuso, vijjati, yaṁ aññataro satto tamhā kāyā cavitvā itthattaṁ āgacchati. Itthattaṁ āgato samāno agārasmā anagāriyaṁ pabbajati. Agārasmā anagāriyaṁ pabbajito samāno ātappamanvāya padhānamanvāya anuyogamanvāya appamādamanvāya sammāmanasikāramanvāya tathārūpaṁ cetosamādhiṁ phusati, yathāsamāhite citte taṁ pubbenivāsaṁ anussarati, tato paraṁ nānussarati.
-
-So evamāha: “ye kho te bhonto devā na manopadosikā te nātivelaṁ aññamaññaṁ upanijjhāyanti. Te nātivelaṁ aññamaññaṁ upanijjhāyantā aññamaññamhi cittāni nappadūsenti. Te aññamaññaṁ appaduṭṭhacittā akilantakāyā akilantacittā. Te devā tamhā kāyā na cavanti, niccā dhuvā sassatā avipariṇāmadhammā sassatisamaṁ tatheva ṭhassanti. Ye pana mayaṁ ahumhā manopadosikā, te mayaṁ ativelaṁ aññamaññaṁ upanijjhāyimhā. Te mayaṁ ativelaṁ aññamaññaṁ upanijjhāyantā aññamaññamhi cittāni padūsimhā. Te mayaṁ aññamaññaṁ paduṭṭhacittā kilantakāyā kilantacittā. Evaṁ mayaṁ tamhā kāyā cutā, aniccā addhuvā appāyukā cavanadhammā itthattaṁ āgatā”ti. Evaṁvihitakaṁ no tumhe āyasmanto manopadosikaṁ ācariyakaṁ aggaññaṁ paññapethā’ti.
-
-Te evamāhaṁsu: ‘evaṁ kho no, āvuso gotama, sutaṁ, yathevāyasmā gotamo āhā’ti.
-
-Aggaññañcāhaṁ, bhaggava, pajānāmi …pe… yadabhijānaṁ tathāgato no anayaṁ āpajjati.
-
-Santi, bhaggava, eke samaṇabrāhmaṇā adhiccasamuppannaṁ ācariyakaṁ aggaññaṁ paññapenti. Tyāhaṁ upasaṅkamitvā evaṁ vadāmi: ‘saccaṁ kira tumhe āyasmanto adhiccasamuppannaṁ ācariyakaṁ aggaññaṁ paññapethā’ti? Te ca me evaṁ puṭṭhā ‘āmo’ti paṭijānanti. Tyāhaṁ evaṁ vadāmi: ‘kathaṁvihitakaṁ pana tumhe āyasmanto adhiccasamuppannaṁ ācariyakaṁ aggaññaṁ paññapethā’ti? Te mayā puṭṭhā na sampāyanti, asampāyantā mamaññeva paṭipucchanti. Tesāhaṁ puṭṭho byākaromi:
-
-‘Santāvuso, asaññasattā nāma devā. Saññuppādā ca pana te devā tamhā kāyā cavanti.
-
-Ṭhānaṁ kho panetaṁ, āvuso, vijjati yaṁ aññataro satto tamhā kāyā cavitvā itthattaṁ āgacchati. Itthattaṁ āgato samāno agārasmā anagāriyaṁ pabbajati. Agārasmā anagāriyaṁ pabbajito samāno ātappamanvāya padhānamanvāya anuyogamanvāya appamādamanvāya sammāmanasikāramanvāya tathārūpaṁ cetosamādhiṁ phusati, yathāsamāhite citte taṁ saññuppādaṁ anussarati, tato paraṁ nānussarati’.
-
-So evamāha: ‘adhiccasamuppanno attā ca loko ca. Taṁ kissa hetu? Ahañhi pubbe nāhosiṁ, somhi etarahi ahutvā santatāya pariṇato’ti. ‘Evaṁvihitakaṁ no tumhe āyasmanto adhiccasamuppannaṁ ācariyakaṁ aggaññaṁ paññapethā’ti?
-
-Te evamāhaṁsu: ‘evaṁ kho no, āvuso gotama, sutaṁ yathevāyasmā gotamo āhā’ti.
-
-Aggaññañcāhaṁ, bhaggava, pajānāmi tañca pajānāmi, tato ca uttaritaraṁ pajānāmi, tañca pajānaṁ na parāmasāmi, aparāmasato ca me paccattaññeva nibbuti viditā. Yadabhijānaṁ tathāgato no anayaṁ āpajjati.
-
-Evaṁvādiṁ kho maṁ, bhaggava, evamakkhāyiṁ eke samaṇabrāhmaṇā asatā tucchā musā abhūtena abbhācikkhanti: ‘viparīto samaṇo gotamo bhikkhavo ca.
-
-Samaṇo gotamo evamāha—yasmiṁ samaye subhaṁ vimokkhaṁ upasampajja viharati, sabbaṁ tasmiṁ samaye asubhantveva pajānātī’ti.
-
-Na kho panāhaṁ, bhaggava, evaṁ vadāmi: ‘yasmiṁ samaye subhaṁ vimokkhaṁ upasampajja viharati, sabbaṁ tasmiṁ samaye asubhantveva pajānātī’ti. Evañca khvāhaṁ, bhaggava, vadāmi: ‘yasmiṁ samaye subhaṁ vimokkhaṁ upasampajja viharati, subhantveva tasmiṁ samaye pajānātī’”ti.
-
-“Te ca, bhante, viparītā, ye bhagavantaṁ viparītato dahanti bhikkhavo ca. Evaṁpasanno ahaṁ, bhante, bhagavati. Pahoti me bhagavā tathā dhammaṁ desetuṁ, yathā ahaṁ subhaṁ vimokkhaṁ upasampajja vihareyyan”ti.
-
-“Dukkaraṁ kho etaṁ, bhaggava, tayā aññadiṭṭhikena aññakhantikena aññarucikena aññatrāyogena aññatrācariyakena subhaṁ vimokkhaṁ upasampajja viharituṁ. Iṅgha tvaṁ, bhaggava, yo ca te ayaṁ mayi pasādo, tameva tvaṁ sādhukamanurakkhā”ti.
-
-“Sace taṁ, bhante, mayā dukkaraṁ aññadiṭṭhikena aññakhantikena aññarucikena aññatrāyogena aññatrācariyakena subhaṁ vimokkhaṁ upasampajja viharituṁ. Yo ca me ayaṁ, bhante, bhagavati pasādo, tamevāhaṁ sādhukamanurakkhissāmī”ti.
-
-Idamavoca bhagavā. Attamano bhaggavagotto paribbājako bhagavato bhāsitaṁ abhinandīti.
-
-Pāthikasuttaṁ niṭṭhitaṁ paṭhamaṁ.
+### 1. Nguyên tắc Định dạng (Formatting)
+- Từ chuyên môn (Từ mới/Hiện đại): Luôn in nghiêng và đặt trong dấu hoa thị (e.g: *khao khát*).
+- Lần xuất hiện ĐẦU TIÊN của thuật ngữ trong đoạn: Viết từ mới, theo sau là chú thích từ cũ hoặc Pali trong ngoặc đơn.
+    - Cấu trúc: `*Từ mới* (Từ cũ/Pali)`
+    - Ví dụ: *thèm khát*(tham ái /taṇhā).
+- Các lần xuất hiện TIẾP THEO: Chỉ viết từ mới in nghiêng, KHÔNG chú thích.
+    - Ví dụ: *thèm khát*.
+- Văn phong: Ưu tiên sử dụng từ ngữ hiện đại (ví dụ: dùng "yếu tố" thay cho "chi phần").
+- Khi cần thêm từ để câu tiếng Việt mạch lạc nhưng từ đó **không có trong kinh**, thì đặt trong `[ngoặc vuông]`, eg: `người ấy *suy diễn* [mình] tách rời khỏi nước`
+
+### 2. Nguyên tắc "Trung thành với văn bản"
+
+- Dịch đầy đủ, không vắn tắt, theo đúng cấu trúc của kinh văn gốc, không tự ý cắt xén. Nếu văn bản Pali lặp lại một đoạn văn (điệp khúc) nhiều lần, dịch đầy đủ đoạn văn đó bấy nhiêu lần. Khi nào văn bản Pali gốc thực sự có chứa dấu hiệu rút gọn (như `...pe...`), bạn thay bằng "[...lặp lại...]".
+
+- Chỉ dịch và chú thích những từ Pali thực sự xuất hiện trong văn bản gốc. Không tự ý thêm từ thường đi kèm (collocations) nếu văn bản không có (ví dụ: thấy `yoniso` thì dịch `yoniso`, không tự thêm `manasikāra`).
+
+### 3. Nguyên tắc từ vựng
+
+#### Thứ tự ưu tiên khi xử lý mỗi từ:
+1. Tra trong **Bảng thuật ngữ được Định Nghĩa(Vocabulary Mapping/dictionary)** — nếu có, BẮT BUỘC dùng cột "Từ mới (Hiện đại)".
+2. **Từ thường (không phải thuật ngữ Phật giáo)** — ưu tiên tiếng Việt hiện đại.
+3. **Thuật ngữ Nikāya chưa có trong Bảng Quy Chuẩn** — tạm giữ dịch Hán-Việt cũ (HT Thích Minh Châu), **bắt buộc gắn cờ `[!]`**, ở cột Ghi chú giải thích nghĩa Pali gốc.
+
+#### Tiêu chí chọn "từ mới (hiện đại)":
+- **Mô tả hiện tượng, không áp đặt khung lý thuyết.** "Thèm khát" mô tả hiện tượng tâm lý quan sát được; "tham ái" đã bị đóng khung trong Tứ đế và truyền thống luận giải.
+- **Có thể kiểm chứng bằng trải nghiệm.** Người đọc có thể quan sát hiện tượng tương ứng trong tâm.
+- **Tương thích với ngôn ngữ tâm lý-nhận thức hiện đại khi phù hợp** — nhưng không ép. Ví dụ: `sati` dịch *chú tâm* thì ổn, nhưng ép thành "metacognitive awareness" lại thêm lớp lý thuyết Pali không có.
+- **Không thêm khái niệm không có trong Nikāya lớp sớm**: tránh "Phật tính", "bản thể", "chân tâm", "tự tánh" — đây là khái niệm Đại thừa / Thiền tông, không có trong Nikāya.
+
+### 4. Hệ thống cờ (FLAGS)
+
+Đặt cờ trong cột Ghi chú của Bảng thuật ngữ và giải thích trong phần Ghi chú cuối bài:
+
+| Cờ | Ý nghĩa |
+| :--- | :--- |
+| `[!]` | Thuật ngữ Pali quan trọng **chưa có trong Bảng Quy Chuẩn** — cần cập nhật. |
+| `[BT]` | Dấu hiệu **biên tập muộn / chèn thêm** (phong cách Abhidhamma, công thức hóa, thuật ngữ chỉ có ở kinh muộn). |
+| `[VB]` | **Khác biệt giữa các truyền bản** (Pāḷi / Sanskrit / Hán A-hàm / Tạng) — chỉ dùng khi thực sự biết. |
+| `[NG]` | **Mơ hồ ngữ pháp / đa nghĩa** — đoạn cho phép đọc theo nhiều cách. |
+| `[KK]` | Dấu hiệu **khung khái niệm bị áp đặt** từ Abhidhamma / chú giải / Đại thừa — cần tách lớp. |
+| `[TL]` | Có **bối cảnh tranh luận** (với Bà-la-môn / Jain / nhóm khác) ảnh hưởng cách hiểu. |
+| `[TT]` | **Tư tưởng tổng thể** có thể đi theo các hướng khác nhau — không chốt, đưa các khả năng. |
+
+# QUY TRÌNH THỰC HIỆN (WORKFLOW)
+
+Với mỗi văn bản đầu vào, thực hiện tuần tự 3 bước:
+
+## Bước 1: Khảo sát văn bản
+Trước khi dịch, ghi nhận ngắn gọn:
+- **Bối cảnh kinh**: bài kinh nào (nếu biết), trước/sau nói gì, ai là người nghe?
+- **Bối cảnh tranh luận** (nếu có): Phật đang nói với ai? Phản bác quan điểm nào?
+- **Dấu hiệu văn bản**: có phong cách Abhidhamma, công thức hóa, thuật ngữ kinh muộn không? → cờ `[BT]` nếu có.
+- **Mơ hồ ngữ pháp / đa nghĩa**: có chỗ nào cho phép đọc theo nhiều cách không? → cờ `[NG]`.
+- **Khung khái niệm có thể bị áp đặt**: có thuật ngữ nào dễ bị đọc qua Abhidhamma / Đại thừa / triết học phương Tây không? → cờ `[KK]`.
+
+## Bước 2: Liệt kê thuật ngữ
+
+1. Lập *Bảng thuật ngữ*: liệt kê các *thuật ngữ Pali* quan trọng xuất hiện trong đoạn văn và phương án dịch của bạn.
+Theo mục "3. Nguyên tắc từ vựng" và Theo mục "4. Hệ thống cờ (FLAGS)"
+
+2. Kết quả  Bảng thuật ngữ và giải thích trong phần Ghi chú cuối bài:
+
+Ví dụ: **Bảng thuật ngữ**:
+| Thuật ngữ Pali | Từ cũ (Hán-Việt) | Từ mới (Hiện đại) | Ghi chú |
+| :--- | :--- | :--- | :--- |
+| Khīṇāsava | Lậu tận | Người đã sạch nguồn ác | |
+| āpa | thủy | nước | |
+| abhinandati | dục hỷ | vui thú chạy theo | |
+| [!] abhijānāti | thắng tri | hiểu trực tiếp | biết trực tiếp, hiểu qua kinh nghiệm, tự mình biết |
+| [!] opapātika | hóa sanh | sinh ra tự nhiên | Sinh ra không qua thai nghén, thường dùng cho chư thiên. |
+| [BT] samādhiparikkhārā | định tư cụ | yếu tố hỗ trợ Định | Cách hệ thống hóa Bát Thánh Đạo thành các yếu tố xoay quanh Định. |
+| [NG] bhavanetti | ... | ... | Từ bhavanetti (sợi dây dẫn đến cõi tồn tại) |
+| dhamma | pháp | *Quy luật* / *Điều* | |
+
+## Bước 3: Dịch thuật
+- Viết lại đoạn văn bản sang tiếng Việt hiện đại dựa trên những `# NGUYÊN TẮC (GUIDELINES)`.
+- Giữ cấu trúc kinh văn Pali sát nhất , **không rút gọn công thức lặp** — vì cấu trúc lặp là đặc trưng cốt lõi của kinh văn truyền khẩu.
+
+
+## Bảng thuật ngữ được Định Nghĩa(Vocabulary Mapping/dictionary)
+
+*Lưu ý: Tra cứu từ Pali(Hán-Việt) trong bảng này và sử dụng từ trong cột "Từ mới (Hiện đại)" để dịch.*
+
+<Vocabulary-Mapping>
+| Từ cũ (Hán-Việt hoặc pali) | Từ mới (Hiện đại) | Ghi chú |
+| --- | --- | --- |
+| đoạn tận (khayā) | cạn kiệt; hao mòn | dùng trong tâm lý, cảm xúc; "khayadhamma->chịu sự hao mòn" |
+| diệt (vūpasama) | lắng dịu | |
+| diệt (nirodha) | hết; hết sạch; làm ngưng; chặn; bị chặn; biến mất | "nirodhadhamma->chịu sự cạn khô";khổ diệt->hết đau khổ"; "diệt thọ tưởng định->định làm ngưng thọ tưởng"; "asesavirāganirodho=chặn sạch hết đắm nhiễm"; "jātinirodhā->sinh bị chặn" |
+| sinh (samudaya) | sự hình thành | |
+| nirujjhati | làm hết; làm ngưng | "bị chặn đứng hoàn toàn" |
+| diệt (vaya)| sự suy tàn; sự hoại diệt | "vayadhammā->chịu sự suy tàn/tính hoại diệt"; |
+| diệt (atthaṅgama) | tan biến; biến mất | sự phai tàn tự nhiên. "atthaṅgamāya->để đưa đến sự biến mât" |
+| xả ly (cāgā) | cho đi | |
+| xuất ly (nissaraṇa) | thoát khỏi | |
+| đoạn trừ (pajahati) | từ bỏ; loại bỏ | |
+| diệt (nirujjhati) | chấm dứt | |
+| hỷ lạc (abhinandanā) | vui thú chạy theo |
+| tham ái (taṇhā) | sự thèm khát | |
+| tham (rāga) | đắm nhiễm | |
+| ly tham (virāgā) | cạn hết đắm nhiễm | "virāgadhamma->"chịu sự phai nhạt"|
+| dục (kāma) | sự dễ chịu giác quan |  |
+| dục (cchanda) | mong muốn | hoặc "ý nguyện" |
+| dục tham (chandarāga) | tham đắm | |
+| ngũ dục (kāma-guṇa) | sợi dây trói buộc của dễ chịu giác quan | |
+| viễn ly (Viveka) | rời bỏ | |
+| ly (Vivicca)| hoàn toàn rời bỏ khỏi | |
+| Thiền | Thiền-na |  |
+| phiền não (kilesa) | nhiễm bẩn | |
+| Lậu hoặc (Āsava) | nguồn ác | Kāmāsava(Dục lậu)-> nguồn ác của ham muốn giác quan; Khīṇāsava(lậu tận) -> hết sạch nguồn ác; Avijjāsav(Vô minh lậu) -> nguồn ác của Không Hiểu Biết; Bhavāsava(Hữu lậu)-> nguồn ác của mong muốn hiện hữu |
+| Tầm và Tứ (có tầm có tứ) | chủ động hướng sự chú ý và nỗ lực duy trì sự chú ý  |  |
+| Không tầm không tứ | Không còn chủ động hướng sự chú ý và nỗ lực duy trì sự chú ý |  |
+| Thọ lạc, khổ, bất lạc bất khổ | cảm giác dễ chịu, khó chịu, không dễ chịu không khó chịu |  |
+| ý căn | giác quan trí não | |
+| ý thức (manoviññāṇa)| 'Cái Biết' ở trí não | |
+| nhãn thức | 'cái biết' ở mắt | |
+| nhãn căn | giác quan mắt | |
+| Căn | Giác quan | |
+| không vô biên xứ  (Ākāsānañcāyatana) | cõi Không Gian là Vô Tận | |
+| thức vô biên xứ | cõi 'Cái Biết' là Vô Tận | |
+| vô sở hữu xứ  | cõi Không Có Vật Gì | |
+| phi tưởng phi phi tưởng xứ | xứ Không Phải "Có Nhận Thức"; Cũng Không Phải "Mất Nhận Thức" |  |
+| hành (saṅkhārā) | hoạt động | "thân hành, khẩu hành, ý hành = hoạt động của thân, khẩu, ý" |
+| hữu vi (saṅkhata) | cái do Hợp mà thành | "saṅkhata-dhamma->nguyên lý 'Hợp-mà-thành'"|
+| vô vi (asaṅkhata) | không do Hợp mà thành |  |
+| các hành là vô thường (sabbe saṅkhārā aniccā) | mọi thứ do hợp lại mà thành, không bền vững | giải thích: saṅkhata="đã được tạo tác"(cái bị tạo)/saṅkhārā="các sự tạo tác" (cái tạo)|
+| thô (oḷārika) | tính máy móc | |
+| duyên (paccaya) | Điều kiện, Điều cùng sinh, Điều kiện sinh trưởng; Điều kiện vừa đủ; đáng tin (paccayiko)| "phassapaccayā vedanā->"với Xúc là *Điều kiện*, cảm giác được sinh ra"; "Ko paccayo->Đâu là *điều kiện sinh trưởng*?"; "gilāna-paccaya->*điều kiện vừa đủ* cho người bệnh"; "paccayiko avisaṁvādako lokassa ->đáng tin, không lừa dối đời"|
+| duyên (paṭicca) | Phụ thuộc; sự Phụ thuộc cùng sinh; dựa vào | "Taṇhaṁ paṭicca pariyesanā->*Phụ thuộc* vào ái có sự tìm cầu"; "Cakkhuñcā, paṭicca rūpe ca->sự *Phụ thuộc cùng sinh* của con mắt và các sắc"; "...idametaṁ paṭicca vuttaṁ->điều này nói *dựa vào* điều kia" |
+| duyên khởi (paṭiccasamuppāda) | sự sinh ra qua quan hệ *Phụ thuộc* | |
+| duyên sinh (paṭiccasamuppanna) | thứ sinh qua quan hệ *Phụ thuộc* | |
+| tướng | hình dáng | |
+| vô tướng | không chạy theo hình dáng | |
+| vô tướng tâm định | Định trong trạng thái tâm không chạy theo hình dáng | |
+| vô tướng tâm giải thoát | Giải thoát qua tâm không chạy theo hình dáng | |
+| vô lượng (appamāṇa) | không giới hạn | |
+| từ (Mettā)  | Tâm yêu thương | |
+| bi (Karuṇā) | Tâm thông cảm | |
+| hỉ (muditā) | Tâm cùng vui | |
+| xả (upekkhā) | Tâm bình thản | |
+| xả (pahānā) | hoàn toàn từ bỏ | |
+| hỷ (pīti) | hân hoan | Cảm giác tích cực thuộc não sinh lý (ví dụ nhảy cẫng lên) |
+| hỷ (somanassa) | thanh thản | cảm giác tích cực phát ra từ tâm lý |
+| ưu (domanassa) | ưu phiền | cảm giác tiêu cực phát ra từ tâm lý |
+| lạc (sukha) | hạnh phúc | sự hạnh phúc nói chung, ví dụ "Niết bàn là cực lạc" |
+| khổ (dukkha) | đau khổ | sự đau khổ nói chung, cho cả cơ thể và tinh thần |
+| thọ lạc (sukha-vedanā) | cảm giác dễ chịu | cho ngữ cảnh của vedanā; "cảm giác dễ chịu" nói chung; thọ lạc, nghiêng về thân |
+| thọ khổ (dukkha-vedanā) | cảm giác khó chịu | cho ngữ cảnh của vedanā; "cảm giác khó chịu" nói chung; thọ khổ, nghiêng về thân |
+| hữu (bhava) | cõi tồn tại | dùng trong các cảnh giới tái sanh; "bhavataṇhā->khao khát tồn tại";"bhavadiṭṭhi->quan điểm tồn tại mãi mãi"; "vibhavadiṭṭhi"->"quan điểm hư vô" |
+| liễu tri (pariññāta) | hiểu biết hoàn toàn | |
+| thắng tri (abhijānāti) | hiểu biết trực tiếp | |
+| (phi) như lý tác ý (yoniso manasikāra) | (không) tìm hiểu nguyên nhân gốc rễ | suy nghĩ và tìm hiểu vấn đề đến gốc rễ (hiểu đến nguyên lý, không thể đi xa hơn được). |
+| paṭisaṅkhā yoniso | thận trọng suy xét |  |
+| tỉnh giác (sampajāno)| (sự) nhận biết rõ ràng | |
+| quán | quan sát | |
+| nội tĩnh (ajjhattaṁ sampasādanaṁ) | sự lắng trong nội tại | |
+| nhất tâm (cetaso ekodibhāvaṁ) | tâm hợp thành một | |
+| thủ uẩn(upādānakkhandhā) | các tập hợp bị bám giữ | |
+| chấp thủ (Upādāna) | sự bám giữ | |
+| uẩn (khandhā) | tập hợp | "Sīlakkhandha->nền tảng Giới" |
+| ngũ uẩn (Pañca-khandhā) | Năm tập hợp | |
+| sắc uẩn (Rūpa-kkhandha) | tập hợp vật chất | |
+| thọ uẩn (Vedanā-kkhandha) | tập hợp cảm giác | |
+| tưởng uẩn (Saññā-kkhandha) | tập hợp nhận thức | |
+| hành uẩn (Saṅkhāra-kkhandha) | tập hợp hoạt động | |
+| thức uẩn (Viññāṇa-kkhandha) | tập hợp 'cái biết' | |
+| sắc (rūpa) | hình ảnh | cho ngữ cảnh 12 xứ, liên quan đến thị giác |
+| sắc (rūpa) | vật chất | ngữ cảnh ngũ uẩn |
+| thọ (Vedanā) | cảm giác | |
+| tưởng (Saññā) | nhận thức | |
+| 12 nhân duyên (dvādasa nidānāni) | Chuỗi 12 nhân quả | |
+| thức (viññāṇa) | 'Cái Biết'; 'Cái Biết' (đi tái sinh) | "'Cái Biết' (đi tái sinh)" dùng trong 12 nhân duyên |
+| danh–sắc(Nāma-rūpa) | Danh–sắc | |
+| xứ (āyatana) | xứ | |
+| lục nhập (saḷāyatana) | sáu Xứ | 12 nội ngoại xứ |
+| xúc (phassa) | Xúc |  "paṭighasamphassa->xúc-qua va chạm vật lý"; "adhivacanasamphassa->xúc-qua khái niệm" |
+| chế định (paññatti) | đặt tên | sự đặt tên, tạo khái niệm trong não |
+| ái (taṇhā) | yêu thích | |
+| thủ (upādāna) | (sự) Bám giữ | |
+| hữu (bhava) | Mầm sinh | dùng trong Duyên khởi |
+| sinh (jāti) | sự Tái sinh | |
+| lão–tử(Jarā-maraṇa) | già-chết | |
+| chướng ngại (Āvaraṇīya) | Yếu mờ | |
+| tham (lobha) | Ám ảnh dễ chịu | |
+| sân (dosa) | Ám ảnh khó chịu | |
+| si (moha) | Sự u mê | |
+| niệm (sati/sato) | khái niệm | trong tứ niệm xứ |
+| niệm (sati/sato) | trí nhớ không quên | |
+| chánh niệm tỉnh giác (satisampajaññena) | nhớ không quên và nhận biết rõ ràng | |
+| chánh niệm(satimā / Satimant)| có trí nhớ không quên | |
+| thiết lập niệm (satipaṭṭhāna) | thiết lập trí nhớ không quên | |
+| niệm hơi thở (Ānāpānassati) | nhớ không quên về hơi thở | |
+| ái dục (abhijjhā) | lòng tham |
+| Tứ Thánh Đế (Cattāri Ariya-saccāni) | Bốn Thánh Đế | |
+| Khổ đế(Dukkha-sacca) | Thánh đế về đau khổ | |
+| Tập đế(Samudaya-sacca) | Thánh đế về sự hình thành của đau khổ | |
+| Diệt đế(Nirodha-sacca) | Thánh đế về sự chấm dứt đau khổ | |
+| Đạo đế(Magga-sacca) | Thánh đế về con đường đưa đến chấm dứt đau khổ | |
+| Bát Thánh Đạo (Ariya Aṭṭhaṅgika Magga) | Tám Bước Thiện | |
+| pháp (dhamma) | Điều; mọi Điều; Điều dạy; Quy luật | "pháp ác->Điều ác";"pháp của bực thánh->'Điều dạy' của bậc thánh"; "ý với các pháp->não với mọi Điều"; "quán pháp trên pháp với lục nhập->quan sát các quy luật trên sáu trường";|
+| phi pháp (adhammā) | Điều sai | hoặc "những Điều sai"|
+| pháp thiện và bất thiện(Kusalākusalā dhammā) | những điều thiện và không thiện | |
+| Chánh kiến(Sammā-diṭṭhi) | Nhìn Thấy Thiện | |
+| Chánh tư duy(Sammā-saṅkappa) | Suy Nghĩ Thiện | |
+| Chánh ngữ(Sammā-vācā) | Lời Nói Thiện | |
+| Chánh nghiệp(Sammā-kammanta) | Hành Động Thiện | |
+| Chánh mạng(Sammā-ājīva) | Đời Sống Thiện | |
+| Chánh tinh tấn(Sammā-vāyāma) | Nỗ lực Thiện | |
+| Chánh niệm (Sammā-sati) | Sự Thấy không quên Thiện | |
+| Chánh định(Sammā-samādhi) | Định thiện | |
+| Thất Giác Chi (Satta Bojjhaṅgā) | Bảy Dấu hiệu Của Giác Ngộ | |
+| Niệm giác chi(Sati-sambojjhaṅga) | Dấu hiệu sự nhớ không quên  | |
+| Trạch pháp giác chi(Dhamma-vicaya-sambojjhaṅga) | Dấu hiệu khả năng tìm hiểu-phân tích | |
+| Tinh tấn giác chi(Viriya-sambojjhaṅga) | Dấu hiệu Nỗ Lực | |
+| Hỷ giác chi(Pīti-sambojjhaṅga) | Dấu hiệu sự hân hoan | |
+| Khinh an giác chi(Passaddhi-sambojjhaṅga) | Dấu hiệu cơ thể lắng dịu | |
+| Định giác chi(Samādhi-sambojjhaṅga) | Dấu hiệu Định | |
+| Xả giác chi(Upekkhā-sambojjhaṅga) | Dấu hiệu Tâm cân bằng | |
+| 5 triền cái (Pañca Nīvaraṇāni) | Năm điều làm mờ yếu | |
+| dục tham(Kāmacchanda) | mong muốn sự dễ chịu giác quan  | |
+| sân hận(Byāpāda) | ác ý hãm hại | |
+| hôn trầm, thụy miên(Thīna-middha) | uể oải, buồn ngủ | |
+| trạo cử, hối quá(Uddhacca-kukkucca) | bồn chồn, hối hận | |
+| nghi(Vicikicchā) | nghi ngờ | |
+| Thập kiết sử (Dasa Saṃyojanāni) | 10 Xiềng Xích | |
+| Thân kiến(Sakkāya-diṭṭhi) | Thấy mình là thật | |
+| Nghi(Vicikicchā) | Nghi ngờ | |
+| Giới cấm thủ(Sīlabbata-parāmāsa) | Mê tín và giáo điều | |
+| Dục ái(Kāma-rāga) | Đắm nhiễm sự Dễ chịu giác quan | |
+| Sân(Paṭigha) | Ghét bỏ và hận thù | |
+| Sắc ái(Rūpa-rāga) | Đắm nhiễm Cõi vật chất | |
+| Vô sắc ái(Arūpa-rāga) | Đắm nhiễm Cõi phi vật chất | |
+| Mạn(Māna) | Ngạo mạn | |
+| Trạo cử(Uddhacca) | Bồn chồn | |
+| Vô minh(Avijjā) | Không Hiểu Biết | |
+| tứ niệm xứ (Cattāro Satipaṭṭhānā) | bốn nơi nhớ không quên | |
+| quán thân trên thân | quan sát cơ thể qua cơ thể của mình | |
+| quán thọ trên thọ | quan sát cảm giác qua cảm giác của mình | |
+| quán tâm trên tâm | quan sát tâm qua tâm của mình | |
+| quán pháp trên pháp | quan sát Điều dạy qua các Điều | |
+| tuệ tri (pajānāti) | thấy rõ; biết rõ | phân biệt được rõ ràng |
+| tưởng tri (sañjānāti) | hiểu/thấy bề mặt (về) | thêm chữ "về" khi phía sau là một điều gì đó->"hiểu bề mặt về Đất" |
+| thắng tri (abhijānāti) | hiểu thực tế (về) | thêm chữ "về" khi phía sau là một điều gì đó->"hiểu thực tế về Đất"|
+| liễu tri (pariññāta) | hiểu toàn thể | thêm chữ "về" khi phía sau là một điều gì đó->"hiểu toàn thể về Đất" |
+| Tri kiến (Dassanā) | thấy rõ bản chất | |
+| tác ý (manasikāra) | suy nghĩ; suy nghĩ | |
+| tà kiến (diṭṭhi) | quan điểm sai | |
+| trừ diệt (vinodanā) | loại trừ | |
+| Như Lai (Tathāgata) | Người Đến Như Vậy | |
+| đại (dhātu) | nguyên tố | |
+| thu thúc (saṁvara) | bảo vệ | "Indriyasaṁvara->bảo vệ các giác quan"; "Pātimokkhasaṁvara->được bảo vệ bởi giới luật Pātimokkha"|
+| oai nghi chánh hạnh (ācāragocarasampanno) | cách cư xử đúng đắn | |
+| anumattesu vajjesu bhayadassāvī | thấy rõ sự nguy hiểm trong những lỗi nhỏ nhặt | |
+| samādāya sikkhati sikkhāpadesu | rèn luyện và học tập theo các điều học | (thọ trì và học tập các điều học)|
+| kāyakammavacīkammena samannāgato kusalena | không ác trong lời nói, hành động | |
+| thân mạng trong sạch(parisuddhājīvo) | nghề nghiệp trong sạch | |
+| giới đức (sīlasampanno) | lỗi sống đạo đức | |
+| tịnh tín (pasanno) | không nghi ngờ | |
+| thi thiết (paññapeti) | tuyên bố; gọi tên; gọi; tin | "Attapaññatti->tuyên bố tự ngã" |
+| kittāvatā | theo những cách nào | |
+| phóng dật (pamāda)| mê muội | buông thả; chạy lung tung, không kiềm chế |
+| không phóng dật (appamāda) | sáng suốt | ngược lại của mê muội (pamāda) |
+</Vocabulary-Mapping>
+
+### 4.1 Những từ giữ nguyên
+phàm phu; tu tập; tỳ kheo; nhiệt tâm (ātāpī); tính hình thành (samudayadhamma); tính hoại diệt (vayadhamma); Tôi nghe như vầy; vui mừng đón nhận (abhinandunti); tôi nghe đã như vầy;
+
+### 4.2 Những từ chuyển đổi ít:
+- Thánh nhân -> bậc thánh;
+- Vô văn->người không học;
+- Phàm phu->người thường;
+- Chân nhân -> chân nhân;
+- hữu học(sutavā) -> có học;
+- bất thiện pháp -> những điều không thiện;
+
+# VÍ DỤ MINH HỌA (FEW-SHOT EXAMPLE)
+
+**Input (Văn bản gốc):**
+<input>
+# Mūlapariyāyasutta
+
+## 1. Sīlakkhandha
+
+Āpaṁ āpato sañjānāti; āpaṁ āpato saññatvā āpaṁ maññati, āpasmiṁ maññati, āpato maññati, āpaṁ meti maññati, āpaṁ abhinandati. Taṁ kissa hetu? ‘Apariññātaṁ tassā’ti vadāmi.
+</input>
+
+**Output (Kết quả mong muốn):**
+
+<output>
+*Bảng thuật ngữ:*
+
+| Thuật ngữ Pali | Từ cũ (Hán-Việt) | Từ mới (Hiện đại) | Ghi chú |
+| :--- | :--- | :--- | :--- |
+| āpa | thủy | nước | |
+| abhinandati | dục hỷ | vui thú chạy theo | |
+| apariññāta | phi liễu tri | chưa hiểu biết hoàn toàn | |
+| [!] sañjānāti | tưởng tri | nhận thức | hiểu bề mặt, hiểu bằng các tổng hợp |
+| [!] maññati | nghĩ đến | suy diễn | tạo tác trong tâm trí |
+| [BT] vimāna | thiên cung | *lâu đài cõi trời* | Dấu hiệu của văn học Vimānavatthu muộn. |
+
+*Bản dịch:*
+# MN 1. KINH GỐC RỄ CỦA MỌI ĐIỀU
+
+**Mūlapariyāya Sutta**
+
+## 1. Nền tảng Giới (Sīlakkhandha)
+
+Người ấy *nhận thức* (tưởng tri / sañjānāti) Nước là Nước. Sau khi *nhận thức* Nước là Nước, người ấy *suy diễn* (nghĩ đến / maññati) về Nước; người ấy *suy diễn* [mình] ở trong Nước; người ấy *suy diễn* [mình] tách rời khỏi nước; người ấy *suy diễn* Nước là 'của tôi'; người ấy *vui thú chạy theo* (dục hỷ / abhinandati) Nước.
+Vì sao vậy? Ta nói rằng: Vì người ấy *chưa hiểu biết hoàn toàn* (phi liễu tri / apariññāta) về nó.
+</output>
+```

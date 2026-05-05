@@ -385,6 +385,7 @@ sống, họ nhẹ hơn, mềm hơn, linh hoạt hơn. Nhưng khi họ chết
 họ trở nên nặng hơn, cứng hơn, kém linh hoạt hơn. Đây là cách tôi chứng minh
 rằng không có đời sau."
 
+<!--pg-->
 ### 2.8. Ví Dụ Về Quả Cầu Sắt Nóng
 
 "Vậy thì, thưa tù trưởng, tôi sẽ cho ông một ví dụ. Vì qua một
@@ -434,6 +435,7 @@ và những vị đó cũng vậy. Nhưng hắn không trải nghiệm được 
 Thân thể vẫn còn đó, và những xúc chạm đó cũng vậy. Nhưng hắn không trải nghiệm
 được trường cảm giác đó. Đây là cách tôi chứng minh rằng không có đời sau."
 
+<!--pg-->
 ### 2.9. Ví Dụ Về Người Thổi Kèn
 
 "Vậy thì, thưa tù trưởng, tôi sẽ cho ông một ví dụ. Vì qua một
@@ -494,6 +496,7 @@ linh hồn nào. Tôi nói với họ: 'Vậy thì, thưa các vị, hãy cắt 
 gân, xương hoặc tủy của hắn. Hy vọng chúng ta sẽ thấy linh hồn của hắn.' Họ làm vậy, nhưng
 chúng tôi không thấy linh hồn nào. Đây là cách tôi chứng minh rằng không có đời sau."
 
+<!--pg-->
 ### 2.10. Ví Dụ Về Đạo Sĩ Tóc Bện Thờ Lửa
 
 "Vậy thì, thưa tù trưởng, tôi sẽ cho ông một ví dụ. Vì qua một
@@ -549,6 +552,7 @@ sẽ nói: 'Tù trưởng Pāyāsi thật ngu ngốc, thật
 kém cỏi, đến nỗi lại bám vào một sai lầm!' Tôi sẽ tiếp tục với
 quan điểm này vì tức giận, khinh miệt và thù hằn!"
 
+<!--pg-->
 ### 2.11. Ví Dụ Về Hai Người Dẫn Đoàn Lữ Hành
 
 "Vậy thì, thưa tù trưởng, tôi sẽ cho ông một ví dụ. Vì qua một
@@ -721,6 +725,7 @@ tà kiến tai hại đó. Vua Pasenadi của Kosala biết quan điểm của t
 các vị vua nước ngoài cũng vậy. Tôi sẽ tiếp tục với quan điểm này vì tức giận,
 khinh miệt và thù hằn!"
 
+<!--pg-->
 ### 2.14. Ví Dụ Về Người Mang Cây Gai Dầu
 
 "Vậy thì, thưa tù trưởng, tôi sẽ cho ông một ví dụ. Vì qua một

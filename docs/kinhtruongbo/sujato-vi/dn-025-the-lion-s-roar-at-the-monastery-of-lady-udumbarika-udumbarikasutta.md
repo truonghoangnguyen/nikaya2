@@ -195,6 +195,7 @@ Nigrodha nói: "Tôi đã phạm sai lầm, thưa ngài. Thật là ngu ngốc, 
 
 Hãy để một người có lý trí đến—không xảo quyệt hay lừa dối, một người chính trực. Ta sẽ dạy và hướng dẫn họ. Bằng cách thực hành theo hướng dẫn, họ sẽ nhận ra mục đích tối thượng của con đường tâm linh ngay trong đời này, trong bảy năm. Họ sẽ sống sau khi đã đạt được bằng chính tuệ giác của mình mục tiêu mà vì đó những người thiện gia nam tử từ bỏ đời sống tại gia để sống không nhà. Đừng nói đến bảy năm. Hãy để một người có lý trí đến—không xảo quyệt hay lừa dối, một người chính trực. Ta sẽ dạy và hướng dẫn họ. Bằng cách thực hành theo hướng dẫn, họ sẽ nhận ra mục đích tối thượng của con đường tâm linh ngay trong đời này, trong sáu năm... năm năm... bốn năm... ba năm... hai năm... một năm... bảy tháng... sáu tháng... năm tháng... bốn tháng... ba tháng... hai tháng... một tháng... nửa tháng. Đừng nói đến nửa tháng. Hãy để một người có lý trí đến—không xảo quyệt hay lừa dối, một người chính trực. Ta sẽ dạy và hướng dẫn họ. Bằng cách thực hành theo hướng dẫn, họ sẽ nhận ra mục đích tối thượng của con đường tâm linh ngay trong đời này, trong bảy ngày.
 
+<!--pg-->
 ## 6. Các Du Sĩ Cảm Thấy Chán Nản
 
 Nigrodha, ông có thể nghĩ, 'Sa-môn Cồ-đàm nói như vậy vì ngài muốn có đệ tử.' Nhưng ông không nên nhìn nhận nó như vậy. Hãy để thầy của ông vẫn là thầy của ông.[44](/kinhtruongbo/sujato-vi/notes/25#44){.note}

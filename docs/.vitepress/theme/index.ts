@@ -1,5 +1,7 @@
-import { h } from 'vue'
 import Theme from 'vitepress/theme'
+import { h, onMounted } from 'vue'  // thêm watch
+import { useRoute } from 'vitepress'        // thêm useRoute
+
 // import TranslationCompare from '../components/TranslationCompare.vue'
 // import ChapterCompare from '../components/ChapterCompare.vue'
 import TextCompare from '../components/TextCompare.vue'
@@ -16,6 +18,27 @@ import './style.css'
 
 export default {
   extends: Theme,
+  setup() {
+    const route = useRoute()
+
+    onMounted(() => {
+      // Xử lý lần đầu cold load (sau khi hydration xong)
+      const scrollToHash = () => {
+        const hash = window.location.hash
+        if (hash) {
+          // Đợi hydration + render hoàn tất
+          setTimeout(() => {
+
+            const id = decodeURIComponent(hash.slice(1))
+            const el = document.getElementById(id)  // ✅ không dùng querySelector
+            el?.scrollIntoView({ behavior: 'smooth' })
+          }, 100) // tăng lên 200 nếu vẫn chưa ăn
+        }
+      }
+
+      scrollToHash()
+    })
+  },
   enhanceApp({ app }) {
     //app.component('TranslationCompare', TranslationCompare)
     //app.component('ChapterCompare', ChapterCompare)

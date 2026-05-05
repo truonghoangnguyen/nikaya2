@@ -59,3 +59,16 @@ Và này các tỳ kheo, thế nào là Đời Sống Thiện? Ở đây, này c
 
 http://localhost:5173/kinhtruongbo/c-pali-tmc-vi/dnc-022-kinh-dai-niem-xu.html#4-5-4-the-nao-la-thanh-de-ve-con-duong
 Và này các tỳ kheo, thế nào là Nỗ lực Thiện? Ở đây, này các tỳ kheo, tỳ kheo khởi lên mong muốn, nỗ lực, phát động sức mạnh, giữ vững tâm và phấn đấu để ngăn chặn những điều không thiện (bất thiện pháp / akusalā dhammā) và ác chưa sinh ra không cho sinh ra; khởi lên mong muốn, nỗ lực, phát động sức mạnh, giữ vững tâm và phấn đấu để từ bỏ những điều không thiện và ác đã sinh ra; khởi lên mong muốn, nỗ lực, phát động sức mạnh, giữ vững tâm và phấn đấu để làm cho những điều thiện chưa sinh ra được sinh ra; khởi lên mong muốn, nỗ lực, phát động sức mạnh, giữ vững tâm và phấn đấu để duy trì, không làm lu mờ, làm tăng trưởng, mở rộng, tu tập và hoàn mãn những điều thiện đã sinh ra. Này các tỳ kheo, đây gọi là Nỗ lực Thiện.
+
+http://localhost:5173/kinhtruongbo/c-pali-tmc-vi/dnc-024-kinh-ba-le.html#6-cau-chuyen-ve-viec-tuyen-bo-nguon-goc-the-gioi-aggannapannattikatha
+
+'Này các bạn, có một thời điểm, sau một khoảng thời gian rất dài, thế giới này co rút lại. Khi thế giới co rút lại, phần lớn chúng sinh được sinh ra ở cõi trời Quang Âm (Ābhassara). Ở đó, họ được tạo ra từ tâm trí, nuôi dưỡng bằng sự hân hoan, tự phát sáng, bay lượn trong không gian, sống trong sự rực rỡ, và tồn tại ở đó trong một thời gian rất dài.
+
+http://localhost:5173/kinhtruongbo/c-pali-tmc-vi/dnc-025-kinh-uu-dam-ba-la-su-tu-hong.html#5-tu-minh-chung-nghiem-dich-den-cuoi-cung-cua-loi-song-thanh-thien-brahmacariyapariyosanasacchikiriya
+Hãy để một người có trí tuệ đến đây, không gian xảo, không lừa dối, có bản chất ngay thẳng, Ta sẽ hướng dẫn, Ta sẽ giảng dạy *Điều dạy*. Thực hành đúng như lời hướng dẫn—mục đích mà các thiện nam tử xuất gia từ bỏ gia đình, sống không gia đình, đó là đích đến cuối cùng vô thượng của lối sống thánh thiện—người ấy sẽ tự mình *hiểu biết trực tiếp* và *tự mình chứng nghiệm* ngay trong đời hiện tại, đạt đến và an trú trong bảy ngày'
+
+http://localhost:5173/kinhtruongbo/c-pali-tmc-vi/dnc-025-kinh-uu-dam-ba-la-su-tu-hong.html
+'Bạch Thế Tôn, *Điều dạy* mà Thế Tôn dạy các đệ tử là gì, để khi các đệ tử được Thế Tôn dạy, họ có thể xác nhận đạt được sự an ổn, đến cốt lõi của đời sống thánh thiện ?'
+
+http://localhost:5173/kinhtruongbo/c-pali-tmc-vi/dnc-025-kinh-uu-dam-ba-la-su-tu-hong.html#4-su-boi-roi-cua-nigrodha-nigrodhassapajjhayana
+'Thế Tôn ấy đã giác ngộ, Ngài giảng dạy *Điều dạy* để dẫn đến sự giác ngộ; Thế Tôn ấy đã được huấn luyện, Ngài giảng dạy *Điều dạy* để dẫn đến sự huấn luyện; Thế Tôn ấy đã tĩnh lặng, Ngài giảng dạy *Điều dạy* để dẫn đến sự tĩnh lặng; Thế Tôn ấy đã vượt qua, Ngài giảng dạy *Điều dạy* để dẫn đến sự vượt qua; Thế Tôn ấy đã hoàn toàn dập tắt, Ngài giảng dạy *Điều dạy* để dẫn đến sự hoàn toàn dập tắt'

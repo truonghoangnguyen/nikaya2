@@ -1,207 +1,419 @@
-# Udumbarikasutta
+# DN 25. KINH UDUMBARIKA (Tóm lược)
+
+[Bản so sánh→](/kinhtruongbo/c-pali-tmc-vi/dnc-025-kinh-uu-dam-ba-la-su-tu-hong){class="note-link" }
 
-## 1. Nigrodhaparibbājakavatthu
+- **Bối cảnh kinh**: Đức Phật đang ở núi Linh Thứu (Gijjhakūṭa), thành Rājagaha. Gia chủ Sandhāna định đến thăm Phật nhưng thấy còn sớm nên ghé qua khu vườn của các du sĩ ngoại đạo Udumbarikā để gặp du sĩ Nigrodha.
+- **Bối cảnh tranh luận**: Du sĩ Nigrodha đang cùng hội chúng bàn luận những câu chuyện thế tục (phù phiếm) và khoe khoang rằng có thể đánh bại Đức Phật chỉ bằng một câu hỏi. Đức Phật dùng thiên nhĩ nghe được, đích thân đến khu vườn. Cuộc tranh luận xoay quanh chủ đề *tapojigucchā* (sự ép xác khổ hạnh) – một thực hành cốt lõi của các đạo sĩ tu khổ hạnh (đặc biệt là Kỳ-na giáo/Jain).
+- **Dấu hiệu văn bản**: Bài kinh chứa một danh sách rất dài và được công thức hóa cao độ về các hình thức khổ hạnh ép xác thời bấy giờ (giống với kinh Kassapasīhanāda - DN 8). Quá trình tu tập tâm lý (từ bỏ triền cái, tu tứ vô lượng tâm, túc mạng minh, thiên nhãn minh) cũng là những đoạn văn công thức chuẩn của lớp kinh Sutta sớm.
+- **Khung khái niệm bị áp đặt**: Đức Phật đã "tái định nghĩa" khái niệm *tapojigucchā* (khổ hạnh) của ngoại đạo. Thay vì hành hạ thể xác, Đức Phật định nghĩa sự "khổ hạnh" chân chính là sự kiềm chế đạo đức (giới), thanh lọc tâm trí khỏi các chướng ngại tâm lý (triền cái), và phát triển các trạng thái nhận thức bậc cao (thiền, tuệ).
 
-Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā rājagahe viharati gijjhakūṭe pabbate.
+
+## Tóm Tắt
+
+**1. Bối cảnh:**
+Đức Phật đang tĩnh tu tại núi Linh Thứu. Cùng lúc đó, du sĩ ngoại đạo Nigrodha cùng 300 đệ tử đang tụ tập bàn luận những chuyện thế tục ồn ào tại khu vườn Udumbarikā. Gia chủ Sandhāna (một đệ tử của Đức Phật) đi ngang qua và chê trách sự ồn ào này, so sánh với sự tĩnh lặng của Đức Phật. Nigrodha kiêu ngạo cho rằng Đức Phật tránh đám đông vì kém cỏi trong tranh luận và mạnh miệng tuyên bố có thể đánh bại Ngài chỉ bằng một câu hỏi. Dùng thiên nhĩ nghe được sự việc, Đức Phật liền đi đến khu vườn.
+
+**2. Thuyết khổ hạnh và những ô nhiễm của tâm:**
+Khi Đức Phật đến, Nigrodha hỏi Ngài cách huấn luyện đệ tử đạt đến cốt lõi của đạo. Đức Phật cho rằng vì khác biệt quan điểm, Nigrodha rất khó hiểu được pháp của Ngài. Thay vào đó, Ngài đề nghị thảo luận về chính pháp môn của Nigrodha là sự tu khổ hạnh.
 
-Tena kho pana samayena nigrodho paribbājako udumbarikāya paribbājakārāme paṭivasati mahatiyā paribbājakaparisāya saddhiṁ tiṁsamattehi paribbājakasatehi. Atha kho sandhāno gahapati divā divassa rājagahā nikkhami bhagavantaṁ dassanāya.
+Nigrodha liệt kê hàng loạt các pháp ép xác khắc nghiệt (nhịn ăn, chịu rét, mặc áo vỏ cây, nằm trên gai, ăn phân...) và tự hào đó là sự tu tập trọn vẹn. Tuy nhiên, Đức Phật chỉ ra rằng lối tu đó chứa đầy những "nhiễm bẩn" (tùy phiền não): làm cho người tu sinh lòng kiêu ngạo, tự mãn, chê bai người khác, hám danh lợi, đạo đức giả, ganh tị và cố chấp.
 
-Atha kho sandhānassa gahapatissa etadahosi: “akālo kho bhagavantaṁ dassanāya. Paṭisallīno bhagavā. Manobhāvanīyānampi bhikkhūnaṁ asamayo dassanāya. Paṭisallīnā manobhāvanīyā bhikkhū. Yannūnāhaṁ yena udumbarikāya paribbājakārāmo, yena nigrodho paribbājako tenupasaṅkameyyan”ti. Atha kho sandhāno gahapati yena udumbarikāya paribbājakārāmo, tenupasaṅkami.
+**3. Các cấp độ thanh tịnh (Ví dụ về cái cây):**
+Nigrodha thỉnh cầu Đức Phật chỉ dạy thế nào mới là sự khổ hạnh trọn vẹn và đạt đến cốt lõi. Đức Phật giảng giải qua các cấp độ tiến tu:
+* **Đạt đến lớp vỏ ngoài:** Người tu khổ hạnh từ bỏ được thói kiêu ngạo, không hám danh lợi, không bám chấp vào pháp tu của mình để chê bai người khác.
+* **Đạt đến lớp vỏ trong:** Tiến xa hơn, người tu giữ gìn bốn giới luật cấm (không sát sinh, trộm cắp, nói dối, tham ái), lui tới nơi thanh vắng, đoạn trừ Năm triền cái (tham, sân, hôn trầm, trạo cử, nghi ngờ) và tu tập Tứ vô lượng tâm (Từ, Bi, Hỷ, Xả) lan tỏa khắp thế gian.
+* **Đạt đến phần gỗ ngoài:** Người tu đắc Túc mạng minh, có khả năng nhớ lại vô số kiếp sống quá khứ của chính mình.
+* **Đạt đến phần lõi cây (Cốt lõi tuyệt đối):** Người tu đắc Thiên nhãn minh, thấy rõ sự sinh tử, luân hồi của chúng sinh diễn ra đúng theo nghiệp lực (thiện hay ác) của họ.
 
-Tena kho pana samayena nigrodho paribbājako mahatiyā paribbājakaparisāya saddhiṁ nisinno hoti unnādiniyā uccāsaddamahāsaddāya anekavihitaṁ tiracchānakathaṁ kathentiyā. Seyyathidaṁ—rājakathaṁ corakathaṁ mahāmattakathaṁ senākathaṁ bhayakathaṁ yuddhakathaṁ annakathaṁ pānakathaṁ vatthakathaṁ sayanakathaṁ mālākathaṁ gandhakathaṁ ñātikathaṁ yānakathaṁ gāmakathaṁ nigamakathaṁ nagarakathaṁ janapadakathaṁ itthikathaṁ sūrakathaṁ visikhākathaṁ kumbhaṭṭhānakathaṁ pubbapetakathaṁ nānattakathaṁ lokakkhāyikaṁ samuddakkhāyikaṁ itibhavābhavakathaṁ iti vā.
+Đức Phật khẳng định đây mới là đỉnh cao và cốt lõi thực sự, cũng chính là đích đến an ổn mà Ngài đang rèn luyện cho các đệ tử.
 
-Addasā kho nigrodho paribbājako sandhānaṁ gahapatiṁ dūratova āgacchantaṁ. Disvā sakaṁ parisaṁ saṇṭhāpesi: “appasaddā bhonto hontu, mā bhonto saddamakattha. Ayaṁ samaṇassa gotamassa sāvako āgacchati sandhāno gahapati. Yāvatā kho pana samaṇassa gotamassa sāvakā gihī odātavasanā rājagahe paṭivasanti, ayaṁ tesaṁ aññataro sandhāno gahapati. Appasaddakāmā kho panete āyasmanto appasaddavinītā, appasaddassa vaṇṇavādino. Appeva nāma appasaddaṁ parisaṁ viditvā upasaṅkamitabbaṁ maññeyyā”ti. Evaṁ vutte, te paribbājakā tuṇhī ahesuṁ.
+**4. Sự hối lỗi của Nigrodha và lời tuyên bố của Đức Phật:**
+Nghe xong, hội chúng ngoại đạo vô cùng kinh ngạc. Lúc này, gia chủ Sandhāna nhắc lại lời khoác lác ban đầu của Nigrodha, khiến vị du sĩ bối rối, cúi đầu câm lặng.
 
-Atha kho sandhāno gahapati yena nigrodho paribbājako tenupasaṅkami, upasaṅkamitvā nigrodhena paribbājakena saddhiṁ sammodi. Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho sandhāno gahapati nigrodhaṁ paribbājakaṁ etadavoca: “aññathā kho ime bhonto aññatitthiyā paribbājakā saṅgamma samāgamma unnādino uccāsaddamahāsaddā anekavihitaṁ tiracchānakathaṁ anuyuttā viharanti. Seyyathidaṁ—rājakathaṁ …pe… itibhavābhavakathaṁ iti vā. Aññathā kho pana so bhagavā araññavanapatthāni pantāni senāsanāni paṭisevati appasaddāni appanigghosāni vijanavātāni manussarāhasseyyakāni paṭisallānasāruppānī”ti.
+Nigrodha nhận lỗi và xin sám hối. Đức Phật chấp nhận và tuyên bố mạnh mẽ: Nếu một người trung thực, không gian xảo chịu thực hành đúng theo sự hướng dẫn của Ngài, người đó có thể tự mình chứng ngộ chân lý tối thượng trong vòng 7 năm, thậm chí thời gian có thể rút ngắn dần xuống chỉ còn 7 ngày.
 
-Evaṁ vutte, nigrodho paribbājako sandhānaṁ gahapatiṁ etadavoca: “yagghe, gahapati, jāneyyāsi, kena samaṇo gotamo saddhiṁ sallapati, kena sākacchaṁ samāpajjati, kena paññāveyyattiyaṁ samāpajjati? Suññāgārahatā samaṇassa gotamassa paññā aparisāvacaro samaṇo gotamo nālaṁ sallāpāya. So antamantāneva sevati. Seyyathāpi nāma gokāṇā pariyantacārinī antamantāneva sevati. Evameva suññāgārahatā samaṇassa gotamassa paññā; aparisāvacaro samaṇo gotamo; nālaṁ sallāpāya. So antamantāneva sevati. Iṅgha, gahapati, samaṇo gotamo imaṁ parisaṁ āgaccheyya, ekapañheneva naṁ saṁsādeyyāma, tucchakumbhīva naṁ maññe orodheyyāmā”ti.
+**5. Kết luận:**
+Đức Phật làm rõ rằng Ngài thuyết pháp không vì mục đích giành giật đệ tử, không ép họ bỏ thầy, bỏ nghề hay từ bỏ những điều tốt đẹp vốn có của họ. Ngài giảng dạy chỉ với mục đích duy nhất là giúp con người dứt trừ những ác pháp gây ô nhiễm, vốn là nguyên nhân dẫn đến sinh, già, bệnh, chết và đau khổ.
 
-Assosi kho bhagavā dibbāya sotadhātuyā visuddhāya atikkantamānusikāya sandhānassa gahapatissa nigrodhena paribbājakena saddhiṁ imaṁ kathāsallāpaṁ. Atha kho bhagavā gijjhakūṭā pabbatā orohitvā yena sumāgadhāya tīre moranivāpo tenupasaṅkami; upasaṅkamitvā sumāgadhāya tīre moranivāpe abbhokāse caṅkami.
+Dù được nghe những lời chân lý, tâm trí của các du sĩ ngoại đạo vẫn bị Ác ma che mờ nên họ hoàn toàn im lặng, không một ai phát tâm tu học. Thấy vậy, Đức Phật rống tiếng rống sư tử rồi dùng thần thông trở về núi Linh Thứu.
 
-Addasā kho nigrodho paribbājako bhagavantaṁ sumāgadhāya tīre moranivāpe abbhokāse caṅkamantaṁ. Disvāna sakaṁ parisaṁ saṇṭhāpesi: “appasaddā bhonto hontu, mā bhonto saddamakattha, ayaṁ samaṇo gotamo sumāgadhāya tīre moranivāpe abbhokāse caṅkamati. Appasaddakāmo kho pana so āyasmā, appasaddassa vaṇṇavādī. Appeva nāma appasaddaṁ parisaṁ viditvā upasaṅkamitabbaṁ maññeyya. Sace samaṇo gotamo imaṁ parisaṁ āgaccheyya, imaṁ taṁ pañhaṁ puccheyyāma: ‘ko nāma so, bhante, bhagavato dhammo, yena bhagavā sāvake vineti, yena bhagavatā sāvakā vinītā assāsappattā paṭijānanti ajjhāsayaṁ ādibrahmacariyan’”ti? Evaṁ vutte, te paribbājakā tuṇhī ahesuṁ.
+## Bảng thuật ngữ
 
-## 2. Tapojigucchāvāda
+| Thuật ngữ Pali | Từ cũ (Hán-Việt) | Từ mới (Hiện đại) | Ghi chú |
+| :--- | :--- | :--- | :--- |
+| [TL] tapojigucchā | khổ hạnh / khổ hạnh tà kiến | *ép xác khổ hạnh* | Thực hành hành hạ thể xác để thanh lọc tội lỗi, phổ biến ở Kỳ-na giáo và các nhóm sa-môn khác. |
+| [!] tiracchānakathā | súc sanh thoại | *câu chuyện vô ích* | Những cuộc nói chuyện tầm phào, không dẫn đến sự phát triển tâm trí. |
+| [!] upakkilesa | tùy phiền não | *sự nhiễm bẩn phụ* | Những trạng thái tâm lý tiêu cực phát sinh ăn theo một thực hành nào đó (như kiêu ngạo vì mình tu khổ hạnh). |
+| [!] cātuyāmasaṁvara | tứ uẩn cấm giới | *sự bảo vệ bằng bốn sự kiềm chế* | Thuật ngữ gốc của Jain, được Phật tái định nghĩa thành 4 giới: không giết, không trộm, không dối, không khao khát. |
+| [!] papaṭikappattā | đạt đến giác mộc | *đạt đến lớp vỏ trong* | Hình ảnh ẩn dụ cho mức độ tu tập chưa phải là cốt lõi. |
+| [!] tacappattā | đạt đến vỏ cây | *đạt đến lớp vỏ ngoài* | Hình ảnh ẩn dụ. |
+| [!] phegguppattā | đạt đến lõi non | *đạt đến phần gỗ dác* | Hình ảnh ẩn dụ. |
+| [!] sārappattā | đạt đến lõi cây | *đạt đến phần lõi* | Hình ảnh ẩn dụ cho phần cốt tủy. |
+| [!] aggappattā | đạt đến tối thượng | *đạt đến đỉnh cao* | |
+| dhamma | pháp | *Điều* / *Quy luật* | |
+| pamāda | phóng dật | *mê muội* | Trạng thái buông thả, mất kiểm soát tâm trí. |
+| nīvaraṇe | triền cái | *điều làm mờ yếu* | Các chướng ngại tâm lý che mờ nhận thức. |
+| mettā | từ | *Tâm yêu thương* | |
+| karuṇā | bi | *Tâm thông cảm* | |
+| muditā | hỷ | *Tâm cùng vui* | |
+| upekkhā | xả | *Tâm bình thản* | |
+| dibbāya sotadhātuyā | thiên nhĩ | *tai thần* | |
+| dibbena cakkhunā | thiên nhãn | *mắt thần* | |
+| abhiññā | thắng tri | *hiểu biết trực tiếp* | |
+| sacchikatvā | chứng ngộ | *tự mình chứng nghiệm* | |
 
-Atha kho bhagavā yena nigrodho paribbājako tenupasaṅkami. Atha kho nigrodho paribbājako bhagavantaṁ etadavoca: “etu kho, bhante, bhagavā, svāgataṁ, bhante, bhagavato. Cirassaṁ kho, bhante, bhagavā imaṁ pariyāyamakāsi yadidaṁ idhāgamanāya. Nisīdatu, bhante, bhagavā, idamāsanaṁ paññattan”ti. Nisīdi bhagavā paññatte āsane. Nigrodhopi kho paribbājako aññataraṁ nīcāsanaṁ gahetvā ekamantaṁ nisīdi. Ekamantaṁ nisinnaṁ kho nigrodhaṁ paribbājakaṁ bhagavā etadavoca: “kāya nuttha, nigrodha, etarahi kathāya sannisinnā, kā ca pana vo antarākathā vippakatā”ti?
+---
 
-Evaṁ vutte, nigrodho paribbājako bhagavantaṁ etadavoca: “idha mayaṁ, bhante, addasāma bhagavantaṁ sumāgadhāya tīre moranivāpe abbhokāse caṅkamantaṁ, disvāna evaṁ avocumhā: ‘sace samaṇo gotamo imaṁ parisaṁ āgaccheyya, imaṁ taṁ pañhaṁ puccheyyāma: “ko nāma so, bhante, bhagavato dhammo, yena bhagavā sāvake vineti, yena bhagavatā sāvakā vinītā assāsappattā paṭijānanti ajjhāsayaṁ ādibrahmacariyan”’ti? Ayaṁ kho no, bhante, antarākathā vippakatā; atha bhagavā anuppatto”ti.
+- **Bối cảnh kinh**: Đức Phật đang ở núi Linh Thứu (Gijjhakūṭa) tại Rājagaha. Gia chủ Sandhāna định đến thăm Phật nhưng thấy còn sớm nên ghé qua khu vườn Udumbarikā để gặp du sĩ Nigrodha.
+- **Bối cảnh tranh luận (`[TL]`)**: Bài kinh phản ánh cuộc tranh luận trực tiếp giữa Đức Phật và giới du sĩ ngoại đạo (paribbājaka), đặc biệt là những người thực hành khổ hạnh (Jain hoặc các nhóm tương tự). Nigrodha chế nhạo Đức Phật thích sự vắng vẻ nên mất khả năng tranh luận. Đức Phật lật ngược tình thế bằng cách yêu cầu Nigrodha trình bày chính giáo lý cốt lõi của họ là *tapojigucchā* (sự ép xác khổ hạnh), sau đó Ngài tháo dỡ nó từng bước, chỉ ra những cấu uế tâm lý ẩn sau lớp vỏ khổ hạnh vật lý.
+- **Dấu hiệu văn bản (`[BT]`)**:
+  - Danh sách các hình thức khổ hạnh cực đoan là một đoạn văn mẫu (formula) xuất hiện ở nhiều bài kinh khác (như Kassapasīhanādasutta DN 8, Mahāsīhanādasutta MN 12).
+  - Danh sách "những câu chuyện vô ích" (tiracchānakathā) cũng là một công thức chuẩn.
+  - Tiến trình tu tập từ việc từ bỏ 5 triền cái -> Tứ vô lượng tâm -> Túc mạng minh -> Thiên nhãn minh là cấu trúc chuẩn của lớp kinh Sutta sớm.
+- **Khung khái niệm (`[KK]`)**: Đức Phật tái định nghĩa khái niệm *cātuyāmasaṁvara* (bốn loại thu thúc - vốn là giới luật cốt lõi của đạo Jain) và *tapojigucchā* (khổ hạnh) từ góc độ hành vi vật lý sang góc độ thanh lọc tâm lý-nhận thức.
 
-“Dujjānaṁ kho etaṁ, nigrodha, tayā aññadiṭṭhikena aññakhantikena aññarucikena aññatrāyogena aññatrācariyakena, yenāhaṁ sāvake vinemi, yena mayā sāvakā vinītā assāsappattā paṭijānanti ajjhāsayaṁ ādibrahmacariyaṁ. Iṅgha tvaṁ maṁ, nigrodha, sake ācariyake adhijegucche pañhaṁ puccha: ‘kathaṁ santā nu kho, bhante, tapojigucchā paripuṇṇā hoti, kathaṁ aparipuṇṇā’”ti?
+**Bước 1: Khảo sát văn bản**
+- **Bối cảnh kinh**: Bài kinh Udumbarika (Kinh Ưu-đàm-bà-la, DN 25). Đức Phật đang ở núi Linh Thứu. Cư sĩ Sandhāna định đến thăm Phật nhưng thấy chưa đúng lúc nên ghé qua khu vườn Udumbarikā để gặp du sĩ ngoại đạo Nigrodha.
+- **Bối cảnh tranh luận**: Nigrodha đang cùng hội chúng ồn ào bàn luận những chuyện thế tục, và huênh hoang rằng có thể đánh bại Đức Phật chỉ bằng một câu hỏi. Đức Phật dùng thiên nhĩ nghe được, đi đến và chuyển hướng cuộc trò chuyện sang chủ đề cốt lõi của nhóm ngoại đạo này: sự thực hành khổ hạnh (tapojigucchā). Đức Phật chỉ ra những cạm bẫy tâm lý (sự kiêu ngạo, dính mắc, đạo đức giả) của việc tu khổ hạnh mù quáng, và trình bày con đường thanh lọc tâm trí thực sự dẫn đến giải thoát.
+- **Dấu hiệu văn bản**: Bài kinh chứa nhiều đoạn văn mẫu (stock passages) lặp lại y hệt các kinh khác, đặc biệt là danh sách các pháp hành xác của ngoại đạo và tiến trình thiền định chuẩn (từ bỏ 5 triền cái, 4 phạm trú, túc mạng minh, thiên nhãn minh).
+- **Khung khái niệm**: Cần cẩn thận dịch các trạng thái tâm lý phát sinh từ việc tu tập sai lệch (upakkilesa) bằng ngôn ngữ tâm lý học hành vi hiện đại (ví dụ: tự đề cao, đạo đức giả, tìm kiếm sự chú ý) thay vì dùng các thuật ngữ Hán-Việt tối nghĩa.
 
-Evaṁ vutte, te paribbājakā unnādino uccāsaddamahāsaddā ahesuṁ: “acchariyaṁ vata bho, abbhutaṁ vata bho, samaṇassa gotamassa mahiddhikatā mahānubhāvatā, yatra hi nāma sakavādaṁ ṭhapessati, paravādena pavāressatī”ti.
+---
+Dưới đây là phần khảo cứu và bản dịch tiếng Việt cho kinh Udumbarikasutta (Kinh Udumbarika), tuân thủ nghiêm ngặt các nguyên tắc dịch thuật khoa học-văn bản và tâm lý-nhận thức.
+
+### Bước 1: Khảo sát văn bản
 
-Atha kho nigrodho paribbājako te paribbājake appasadde katvā bhagavantaṁ etadavoca: “mayaṁ kho, bhante, tapojigucchāvādā tapojigucchāsārā tapojigucchāallīnā viharāma. Kathaṁ santā nu kho, bhante, tapojigucchā paripuṇṇā hoti, kathaṁ aparipuṇṇā”ti?
+- **Bối cảnh kinh**: Đức Phật đang ở núi Linh Thứu (Gijjhakūṭa), thành Rājagaha. Gia chủ Sandhāna định đến thăm Phật nhưng thấy còn sớm nên ghé qua khu vườn của các du sĩ ngoại đạo Udumbarikā để gặp du sĩ Nigrodha.
+- **Bối cảnh tranh luận**: Du sĩ Nigrodha đang cùng hội chúng bàn luận những câu chuyện thế tục (phù phiếm) và khoe khoang rằng có thể đánh bại Đức Phật chỉ bằng một câu hỏi. Đức Phật dùng thiên nhĩ nghe được, đích thân đến khu vườn. Cuộc tranh luận xoay quanh chủ đề *tapojigucchā* (sự ép xác khổ hạnh) – một thực hành cốt lõi của các đạo sĩ tu khổ hạnh (đặc biệt là Kỳ-na giáo/Jain).
+- **Dấu hiệu văn bản**: Bài kinh chứa một danh sách rất dài và được công thức hóa cao độ về các hình thức khổ hạnh ép xác thời bấy giờ (giống với kinh Kassapasīhanāda - DN 8). Quá trình tu tập tâm lý (từ bỏ triền cái, tu tứ vô lượng tâm, túc mạng minh, thiên nhãn minh) cũng là những đoạn văn công thức chuẩn của lớp kinh Sutta sớm.
+- **Khung khái niệm bị áp đặt**: Đức Phật đã "tái định nghĩa" khái niệm *tapojigucchā* (khổ hạnh) của ngoại đạo. Thay vì hành hạ thể xác, Đức Phật định nghĩa sự "khổ hạnh" chân chính là sự kiềm chế đạo đức (giới), thanh lọc tâm trí khỏi các chướng ngại tâm lý (triền cái), và phát triển các trạng thái nhận thức bậc cao (thiền, tuệ).
 
-“Idha, nigrodha, tapassī acelako hoti muttācāro, hatthāpalekhano, naehibhaddantiko, natiṭṭhabhaddantiko, nābhihaṭaṁ, na uddissakataṁ, na nimantanaṁ sādiyati, so na kumbhimukhā paṭiggaṇhāti, na kaḷopimukhā paṭiggaṇhāti, na eḷakamantaraṁ, na daṇḍamantaraṁ, na musalamantaraṁ, na dvinnaṁ bhuñjamānānaṁ, na gabbhiniyā, na pāyamānāya, na purisantaragatāya, na saṅkittīsu, na yattha sā upaṭṭhito hoti, na yattha makkhikā saṇḍasaṇḍacārinī, na macchaṁ, na maṁsaṁ, na suraṁ, na merayaṁ, na thusodakaṁ pivati, so ekāgāriko vā hoti ekālopiko, dvāgāriko vā hoti dvālopiko, sattāgāriko vā hoti sattālopiko, ekissāpi dattiyā yāpeti, dvīhipi dattīhi yāpeti, sattahipi dattīhi yāpeti; ekāhikampi āhāraṁ āhāreti, dvīhikampi āhāraṁ āhāreti, sattāhikampi āhāraṁ āhāreti, iti evarūpaṁ addhamāsikampi pariyāyabhattabhojanānuyogamanuyutto viharati. So sākabhakkho vā hoti, sāmākabhakkho vā hoti, nīvārabhakkho vā hoti, daddulabhakkho vā hoti, haṭabhakkho vā hoti, kaṇabhakkho vā hoti, ācāmabhakkho vā hoti, piññākabhakkho vā hoti, tiṇabhakkho vā hoti, gomayabhakkho vā hoti; vanamūlaphalāhāro yāpeti pavattaphalabhojī. So sāṇānipi dhāreti, masāṇānipi dhāreti, chavadussānipi dhāreti, paṁsukūlānipi dhāreti, tirīṭānipi dhāreti, ajinampi dhāreti, ajinakkhipampi dhāreti, kusacīrampi dhāreti, vākacīrampi dhāreti, phalakacīrampi dhāreti, kesakambalampi dhāreti, vāḷakambalampi dhāreti, ulūkapakkhampi dhāreti, kesamassulocakopi hoti kesamassulocanānuyogamanuyutto, ubbhaṭṭhakopi hoti āsanapaṭikkhitto, ukkuṭikopi hoti ukkuṭikappadhānamanuyutto, kaṇṭakāpassayikopi hoti kaṇṭakāpassaye seyyaṁ kappeti, phalakaseyyampi kappeti, thaṇḍilaseyyampi kappeti, ekapassayikopi hoti rajojalladharo, abbhokāsikopi hoti yathāsanthatiko, vekaṭikopi hoti vikaṭabhojanānuyogamanuyutto, apānakopi hoti apānakattamanuyutto, sāyatatiyakampi udakorohanānuyogamanuyutto viharati.
+Prompt
+```
+# VAI TRÒ (ROLE)
 
-Taṁ kiṁ maññasi, nigrodha, yadi evaṁ sante tapojigucchā paripuṇṇā vā hoti aparipuṇṇā vā”ti?
+Bạn là một nhà khảo cứu và dịch thuật Kinh tạng Nikāya theo phương pháp khoa học-văn bản, hội tụ chuyên môn của:
 
-“Addhā kho, bhante, evaṁ sante tapojigucchā paripuṇṇā hoti, no aparipuṇṇā”ti.
+- **Nhà ngôn ngữ học Pali**: hiểu ngữ pháp, từ nguyên, biến cách, và ngữ cảnh sử dụng của từ trong toàn bộ Pali Canon.
+- **Nhà khảo cứu văn bản (textual criticism)**: nhận biết dấu hiệu biên tập muộn, chèn thêm từ Abhidhamma / chú giải, và khác biệt giữa các truyền bản (Pāḷi / Sanskrit / Hán A-hàm / Tạng).
+- **Nhà sử học Phật giáo sơ kỳ**: nắm bối cảnh đời sống thời Đức Phật với Bà-la-môn, Jain, Lokāyata; phân biệt được lớp Sutta sớm với Abhidhamma và chú giải Buddhaghosa.
+- **Nhà tâm lý học và khoa học thần kinh-nhận thức**: diễn đạt hiện tượng tâm lý-nhận thức bằng ngôn ngữ hiện đại, dựa trên hiện thực khoa học.
+
 
-“Evaṁ paripuṇṇāyapi kho ahaṁ, nigrodha, tapojigucchāya anekavihite upakkilese vadāmī”ti.
+# NGUYÊN TẮC (GUIDELINES)
+
+### 1. Nguyên tắc Định dạng (Formatting)
+- Lần xuất hiện ĐẦU TIÊN của thuật ngữ trong đoạn: Viết từ mới, theo sau là chú thích từ cũ hoặc Pali trong ngoặc đơn.
+    - Cấu trúc: `*Từ mới* (Từ cũ/Pali)`
+    - Ví dụ: *thèm khát*(tham ái /taṇhā).
+- Các lần xuất hiện TIẾP THEO: Chỉ viết từ mới in nghiêng, KHÔNG chú thích.
+    - Ví dụ: *thèm khát*.
+- Văn phong: Ưu tiên sử dụng từ ngữ hiện đại (ví dụ: dùng "yếu tố" thay cho "chi phần").
+- Khi cần thêm từ để câu tiếng Việt mạch lạc nhưng từ đó **không có trong kinh**, thì đặt trong `[ngoặc vuông]`, eg: `người ấy *suy diễn* [mình] tách rời khỏi nước`
+
+### 2. Nguyên tắc "Trung thành với văn bản"
+
+- Dịch đầy đủ, không vắn tắt, theo đúng cấu trúc của kinh văn gốc, không tự ý cắt xén. Nếu văn bản Pali lặp lại một đoạn văn (điệp khúc) nhiều lần, dịch đầy đủ đoạn văn đó bấy nhiêu lần. Khi nào văn bản Pali gốc thực sự có chứa dấu hiệu rút gọn (như `...pe...`), bạn thay bằng "[...lặp lại...]".
+
+- Chỉ dịch và chú thích những từ Pali thực sự xuất hiện trong văn bản gốc. Không tự ý thêm từ thường đi kèm (collocations) nếu văn bản không có (ví dụ: thấy `yoniso` thì dịch `yoniso`, không tự thêm `manasikāra`).
+
+- Dịch từng từ theo ngữ cảnh cục bộ tại chỗ; không để các thuật ngữ liên quan ở đoạn khác kéo lệch nghĩa.
+Ví dụ : Nếu phần 1 có dibbasotena (thiên nhĩ / tai chư thiên) và phần 3 có dibbena cakkhunā (thiên nhãn / mắt chư thiên) — vì hai từ này thường đi cặp với nhau, AI có thể nhầm lẫn và dịch dibbasotena ở phần 1 thành "thiên nhãn" theo nghĩa của phần 3.
+
+### 3. Nguyên tắc từ vựng
+
+#### Thứ tự ưu tiên khi xử lý thuật ngữ phật giáo:
+1. Tra trong **Bảng thuật ngữ được Định Nghĩa(Vocabulary Mapping/dictionary)** — nếu có, dùng theo cột "Từ mới (Hiện đại)".
+2. Nếu không có Thuật ngữ Nikāy trong "Bảng thuật ngữ được Định Nghĩa(Vocabulary Mapping/dictionary)" - dịch theo Hán-Việt cũ (HT Thích Minh Châu), thêm vào thuật ngữ này vào  "Liệt kê thuật ngữ" và gắn cờ `[!]`, ở cột Ghi chú giải thích nghĩa Pali gốc.
+
+#### Tiêu chí chọn "từ mới (hiện đại)":
+- **Mô tả hiện tượng, không áp đặt khung lý thuyết.** "Thèm khát" mô tả hiện tượng tâm lý quan sát được; "tham ái" đã bị đóng khung trong Tứ đế và truyền thống luận giải.
+- **Có thể kiểm chứng bằng trải nghiệm.** Người đọc có thể quan sát hiện tượng tương ứng trong tâm.
+- **Tương thích với ngôn ngữ tâm lý-nhận thức hiện đại khi phù hợp** — nhưng không ép. Ví dụ: `sati` dịch *chú tâm* thì ổn, nhưng ép thành "metacognitive awareness" lại thêm lớp lý thuyết Pali không có.
+- **Không thêm khái niệm không có trong Nikāya lớp sớm**: tránh "Phật tính", "bản thể", "chân tâm", "tự tánh" — đây là khái niệm Đại thừa / Thiền tông, không có trong Nikāya.
+
+### 4. Hệ thống cờ (FLAGS)
+
+Đặt cờ trong cột Ghi chú của Bảng thuật ngữ:
+
+| Cờ | Ý nghĩa |
+| :--- | :--- |
+| `[!]` | Thuật ngữ Pali quan trọng **chưa có trong Bảng thuật ngữ được Định Nghĩa** — cần cập nhật. |
+| `[BT]` | Dấu hiệu **biên tập muộn / chèn thêm** (phong cách Abhidhamma, công thức hóa, thuật ngữ chỉ có ở kinh muộn). |
+| `[VB]` | **Khác biệt giữa các truyền bản** (Pāḷi / Sanskrit / Hán A-hàm / Tạng) — chỉ dùng khi thực sự biết. |
+| `[NG]` | **Mơ hồ ngữ pháp / đa nghĩa** — đoạn cho phép đọc theo nhiều cách. |
+| `[KK]` | Dấu hiệu **khung khái niệm bị áp đặt** từ Abhidhamma / chú giải / Đại thừa — cần tách lớp. |
+| `[TL]` | Có **bối cảnh tranh luận** (với Bà-la-môn / Jain / nhóm khác) ảnh hưởng cách hiểu. |
+| `[TT]` | **Tư tưởng tổng thể** có thể đi theo các hướng khác nhau — không chốt, đưa các khả năng. |
+
+# QUY TRÌNH THỰC HIỆN (WORKFLOW)
+
+Với mỗi văn bản đầu vào, thực hiện tuần tự 3 bước:
+
+## Bước 1: Khảo sát văn bản
+Trước khi dịch, ghi nhận ngắn gọn:
+- **Bối cảnh kinh**: bài kinh nào (nếu biết), trước/sau nói gì, ai là người nghe?
+- **Bối cảnh tranh luận** (nếu có): Phật đang nói với ai? Phản bác quan điểm nào?
+- **Dấu hiệu văn bản**: có phong cách Abhidhamma, công thức hóa, thuật ngữ kinh muộn không? → cờ `[BT]` nếu có.
+- **Mơ hồ ngữ pháp / đa nghĩa**: có chỗ nào cho phép đọc theo nhiều cách không? → cờ `[NG]`.
+- **Khung khái niệm có thể bị áp đặt**: có thuật ngữ nào dễ bị đọc qua Abhidhamma / Đại thừa / triết học phương Tây không? → cờ `[KK]`.
+
+## Bước 2: Liệt kê thuật ngữ
+
+1. Lập *Bảng thuật ngữ*: liệt kê các *thuật ngữ Pali* quan trọng xuất hiện trong đoạn văn và phương án dịch của bạn.
+Theo mục "3. Nguyên tắc từ vựng" và Theo mục "4. Hệ thống cờ (FLAGS)"
+
+2. Kết quả Bảng thuật ngữ:
+
+Ví dụ: **Bảng thuật ngữ**:
+| Thuật ngữ Pali | Từ cũ (Hán-Việt) | Từ mới (Hiện đại) | Ghi chú |
+| :--- | :--- | :--- | :--- |
+| Khīṇāsava | Lậu tận | Người đã sạch nguồn ác | |
+| āpa | thủy | nước | |
+| abhinandati | dục hỷ | vui thú chạy theo | |
+| [!] abhijānāti | thắng tri | hiểu trực tiếp | biết trực tiếp, hiểu qua kinh nghiệm, tự mình biết |
+| [!] opapātika | hóa sanh | sinh ra tự nhiên | Sinh ra không qua thai nghén, thường dùng cho chư thiên. |
+| [BT] samādhiparikkhārā | định tư cụ | yếu tố hỗ trợ Định | Cách hệ thống hóa Bát Thánh Đạo thành các yếu tố xoay quanh Định. |
+| [NG] bhavanetti | ... | ... | Từ bhavanetti (sợi dây dẫn đến cõi tồn tại) |
+| dhamma | pháp | *Quy luật* / *Điều* | |
+
+## Bước 3: Dịch thuật
+- Viết lại đoạn văn bản sang tiếng Việt hiện đại dựa trên những `# NGUYÊN TẮC (GUIDELINES)`.
+- Giữ cấu trúc kinh văn Pali sát nhất , **không rút gọn công thức lặp** — vì cấu trúc lặp là đặc trưng cốt lõi của kinh văn truyền khẩu.
+
+
+## Bảng thuật ngữ được Định Nghĩa(Vocabulary Mapping/dictionary)
+
+*Lưu ý: Tra cứu từ Pali(Hán-Việt) trong bảng này và sử dụng từ trong cột "Từ mới (Hiện đại)" để dịch.*
+
+<Vocabulary-Mapping>
+| Từ cũ (Hán-Việt hoặc pali) | Từ mới (Hiện đại) | Ghi chú |
+| --- | --- | --- |
+| đoạn tận (khayā) | cạn kiệt; hao mòn | dùng trong tâm lý, cảm xúc; "khayadhamma->chịu sự hao mòn" |
+| diệt (vūpasama) | lắng dịu | |
+| diệt (nirodha) | hết; hết sạch; làm ngưng; chặn; bị chặn; biến mất | "nirodhadhamma->chịu sự cạn khô";khổ diệt->hết đau khổ"; "diệt thọ tưởng định->định làm ngưng thọ tưởng"; "asesavirāganirodho=chặn sạch hết đắm nhiễm"; "jātinirodhā->sinh bị chặn" |
+| sinh (samudaya) | sự hình thành | |
+| nirujjhati | làm hết; làm ngưng | "bị chặn đứng hoàn toàn" |
+| diệt (vaya)| sự suy tàn; sự hoại diệt | "vayadhammā->chịu sự suy tàn/tính hoại diệt"; |
+| diệt (atthaṅgama) | tan biến; biến mất | sự phai tàn tự nhiên. "atthaṅgamāya->để đưa đến sự biến mât" |
+| xả ly (cāgā) | cho đi | |
+| xuất ly (nissaraṇa) | thoát khỏi | |
+| đoạn trừ (pajahati) | từ bỏ; loại bỏ | |
+| diệt (nirujjhati) | chấm dứt | |
+| hỷ lạc (abhinandanā) | vui thú chạy theo |
+| tham ái (taṇhā) | sự thèm khát | |
+| tham (rāga) | đắm nhiễm | |
+| ly tham (virāgā) | cạn hết đắm nhiễm | "virāgadhamma->"chịu sự phai nhạt"|
+| dục (kāma) | sự dễ chịu giác quan |  |
+| dục (cchanda) | mong muốn | hoặc "ý nguyện" |
+| dục tham (chandarāga) | tham đắm | |
+| ngũ dục (kāma-guṇa) | sợi dây trói buộc của dễ chịu giác quan | |
+| viễn ly (Viveka) | rời bỏ | |
+| ly (Vivicca)| hoàn toàn rời bỏ khỏi | |
+| Thiền | Thiền-na |  |
+| phiền não (kilesa) | nhiễm bẩn | |
+| Lậu hoặc (Āsava) | nguồn ác | Kāmāsava(Dục lậu)-> nguồn ác của ham muốn giác quan; Khīṇāsava(lậu tận) -> hết sạch nguồn ác; Avijjāsav(Vô minh lậu) -> nguồn ác của Không Hiểu Biết; Bhavāsava(Hữu lậu)-> nguồn ác của mong muốn hiện hữu |
+| Tầm và Tứ (có tầm có tứ) | chủ động hướng sự chú ý và nỗ lực duy trì sự chú ý  |  |
+| Không tầm không tứ | Không còn chủ động hướng sự chú ý và nỗ lực duy trì sự chú ý |  |
+| Thọ lạc, khổ, bất lạc bất khổ | cảm giác dễ chịu, khó chịu, không dễ chịu không khó chịu |  |
+| ý căn | giác quan trí não | |
+| ý thức (manoviññāṇa)| 'Cái Biết' ở trí não | |
+| nhãn thức | 'cái biết' ở mắt | |
+| nhãn căn | giác quan mắt | |
+| Căn | Giác quan | |
+| không vô biên xứ  (Ākāsānañcāyatana) | cõi Không Gian là Vô Tận | |
+| thức vô biên xứ | cõi 'Cái Biết' là Vô Tận | |
+| vô sở hữu xứ  | cõi Không Có Vật Gì | |
+| phi tưởng phi phi tưởng xứ | xứ Không Phải "Có Nhận Thức"; Cũng Không Phải "Mất Nhận Thức" |  |
+| hành (saṅkhārā) | hoạt động | "thân hành, khẩu hành, ý hành = hoạt động của thân, khẩu, ý" |
+| hữu vi (saṅkhata) | cái do Hợp mà thành | "saṅkhata-dhamma->nguyên lý 'Hợp-mà-thành'"|
+| vô vi (asaṅkhata) | không do Hợp mà thành |  |
+| các hành là vô thường (sabbe saṅkhārā aniccā) | mọi thứ do hợp lại mà thành, không bền vững | giải thích: saṅkhata="đã được tạo tác"(cái bị tạo)/saṅkhārā="các sự tạo tác" (cái tạo)|
+| thô (oḷārika) | tính máy móc | |
+| duyên (paccaya) | Điều kiện, Điều cùng sinh, Điều kiện sinh trưởng; Điều kiện vừa đủ; đáng tin (paccayiko)| "phassapaccayā vedanā->"với Xúc là *Điều kiện*, cảm giác được sinh ra"; "Ko paccayo->Đâu là *điều kiện sinh trưởng*?"; "gilāna-paccaya->*điều kiện vừa đủ* cho người bệnh"; "paccayiko avisaṁvādako lokassa ->đáng tin, không lừa dối đời"|
+| duyên (paṭicca) | Phụ thuộc; sự Phụ thuộc cùng sinh; dựa vào | "Taṇhaṁ paṭicca pariyesanā->*Phụ thuộc* vào ái có sự tìm cầu"; "Cakkhuñcā, paṭicca rūpe ca->sự *Phụ thuộc cùng sinh* của con mắt và các sắc"; "...idametaṁ paṭicca vuttaṁ->điều này nói *dựa vào* điều kia" |
+| duyên khởi (paṭiccasamuppāda) | sự sinh ra qua quan hệ *Phụ thuộc* | |
+| duyên sinh (paṭiccasamuppanna) | thứ sinh qua quan hệ *Phụ thuộc* | |
+| tướng | hình dáng | |
+| vô tướng | không chạy theo hình dáng | |
+| vô tướng tâm định | Định trong trạng thái tâm không chạy theo hình dáng | |
+| vô tướng tâm giải thoát | Giải thoát qua tâm không chạy theo hình dáng | |
+| vô lượng (appamāṇa) | không giới hạn | |
+| từ (Mettā)  | Tâm yêu thương | |
+| bi (Karuṇā) | Tâm thông cảm | |
+| hỉ (muditā) | Tâm cùng vui | |
+| xả (upekkhā) | Tâm bình thản | |
+| xả (pahānā) | hoàn toàn từ bỏ | |
+| hỷ (pīti) | hân hoan | Cảm giác tích cực thuộc não sinh lý (ví dụ nhảy cẫng lên) |
+| hỷ (somanassa) | thanh thản | cảm giác tích cực phát ra từ tâm lý |
+| ưu (domanassa) | ưu phiền | cảm giác tiêu cực phát ra từ tâm lý |
+| lạc (sukha) | hạnh phúc | sự hạnh phúc nói chung, ví dụ "Niết bàn là cực lạc" |
+| khổ (dukkha) | đau khổ | sự đau khổ nói chung, cho cả cơ thể và tinh thần |
+| thọ lạc (sukha-vedanā) | cảm giác dễ chịu | cho ngữ cảnh của vedanā; "cảm giác dễ chịu" nói chung; thọ lạc, nghiêng về thân |
+| thọ khổ (dukkha-vedanā) | cảm giác khó chịu | cho ngữ cảnh của vedanā; "cảm giác khó chịu" nói chung; thọ khổ, nghiêng về thân |
+| hữu (bhava) | cõi tồn tại | dùng trong các cảnh giới tái sanh; "bhavataṇhā->khao khát tồn tại";"bhavadiṭṭhi->quan điểm tồn tại mãi mãi"; "vibhavadiṭṭhi"->"quan điểm hư vô" |
+| liễu tri (pariññāta) | hiểu biết hoàn toàn | |
+| thắng tri (abhijānāti) | hiểu biết trực tiếp | |
+| (phi) như lý tác ý (yoniso manasikāra) | (không) tìm hiểu nguyên nhân gốc rễ | suy nghĩ và tìm hiểu vấn đề đến gốc rễ (hiểu đến nguyên lý, không thể đi xa hơn được). |
+| paṭisaṅkhā yoniso | thận trọng suy xét |  |
+| tỉnh giác (sampajāno)| (sự) nhận biết rõ ràng | |
+| quán | quan sát | |
+| nội tĩnh (ajjhattaṁ sampasādanaṁ) | sự lắng trong nội tại | |
+| nhất tâm (cetaso ekodibhāvaṁ) | tâm hợp thành một | |
+| thủ uẩn(upādānakkhandhā) | các tập hợp bị bám giữ | |
+| chấp thủ (Upādāna) | sự bám giữ | |
+| uẩn (khandhā) | tập hợp | "Sīlakkhandha->nền tảng Giới" |
+| ngũ uẩn (Pañca-khandhā) | Năm tập hợp | |
+| sắc uẩn (Rūpa-kkhandha) | tập hợp vật chất | |
+| thọ uẩn (Vedanā-kkhandha) | tập hợp cảm giác | |
+| tưởng uẩn (Saññā-kkhandha) | tập hợp nhận thức | |
+| hành uẩn (Saṅkhāra-kkhandha) | tập hợp hoạt động | |
+| thức uẩn (Viññāṇa-kkhandha) | tập hợp 'cái biết' | |
+| sắc (rūpa) | hình ảnh | cho ngữ cảnh 12 xứ, liên quan đến thị giác |
+| sắc (rūpa) | vật chất | ngữ cảnh ngũ uẩn |
+| thọ (Vedanā) | cảm giác | |
+| tưởng (Saññā) | nhận thức | |
+| 12 nhân duyên (dvādasa nidānāni) | Chuỗi 12 nhân quả | |
+| thức (viññāṇa) | 'Cái Biết'; 'Cái Biết' (đi tái sinh) | "'Cái Biết' (đi tái sinh)" dùng trong 12 nhân duyên |
+| danh–sắc(Nāma-rūpa) | Danh–sắc | |
+| xứ (āyatana) | xứ | |
+| lục nhập (saḷāyatana) | sáu Xứ | 12 nội ngoại xứ |
+| xúc (phassa) | Xúc |  "paṭighasamphassa->xúc-qua va chạm vật lý"; "adhivacanasamphassa->xúc-qua khái niệm" |
+| chế định (paññatti) | đặt tên | sự đặt tên, tạo khái niệm trong não |
+| ái (taṇhā) | yêu thích | |
+| thủ (upādāna) | (sự) Bám giữ | |
+| hữu (bhava) | Mầm sinh | dùng trong Duyên khởi |
+| sinh (jāti) | sự Tái sinh | |
+| lão–tử(Jarā-maraṇa) | già-chết | |
+| chướng ngại (Āvaraṇīya) | Yếu mờ | |
+| tham (lobha) | Ám ảnh dễ chịu | |
+| sân (dosa) | Ám ảnh khó chịu | |
+| si (moha) | Sự u mê | |
+| niệm (sati/sato) | khái niệm | trong tứ niệm xứ |
+| niệm (sati/sato) | trí nhớ không quên | |
+| chánh niệm tỉnh giác (satisampajaññena) | nhớ không quên và nhận biết rõ ràng | |
+| chánh niệm(satimā / Satimant)| có trí nhớ không quên | |
+| thiết lập niệm (satipaṭṭhāna) | thiết lập trí nhớ không quên | |
+| niệm hơi thở (Ānāpānassati) | nhớ không quên về hơi thở | |
+| ái dục (abhijjhā) | lòng tham |
+| Tứ Thánh Đế (Cattāri Ariya-saccāni) | Bốn Thánh Đế | |
+| Khổ đế(Dukkha-sacca) | Thánh đế về đau khổ | |
+| Tập đế(Samudaya-sacca) | Thánh đế về sự hình thành của đau khổ | |
+| Diệt đế(Nirodha-sacca) | Thánh đế về sự chấm dứt đau khổ | |
+| Đạo đế(Magga-sacca) | Thánh đế về con đường đưa đến chấm dứt đau khổ | |
+| Bát Thánh Đạo (Ariya Aṭṭhaṅgika Magga) | Tám Bước Thiện | |
+| pháp (dhamma) | Điều; mọi Điều; Điều dạy; Quy luật | "pháp ác->Điều ác";"pháp của bực thánh->'Điều dạy' của bậc thánh"; "ý với các pháp->não với mọi Điều"; "quán pháp trên pháp với lục nhập->quan sát các quy luật trên sáu trường";|
+| phi pháp (adhammā) | Điều sai | hoặc "những Điều sai"|
+| pháp thiện và bất thiện(Kusalākusalā dhammā) | những điều thiện và không thiện | |
+| Chánh kiến(Sammā-diṭṭhi) | Nhìn Thấy Thiện | |
+| Chánh tư duy(Sammā-saṅkappa) | Suy Nghĩ Thiện | |
+| Chánh ngữ(Sammā-vācā) | Lời Nói Thiện | |
+| Chánh nghiệp(Sammā-kammanta) | Hành Động Thiện | |
+| Chánh mạng(Sammā-ājīva) | Đời Sống Thiện | |
+| Chánh tinh tấn(Sammā-vāyāma) | Nỗ lực Thiện | |
+| Chánh niệm (Sammā-sati) | Sự Thấy không quên Thiện | |
+| Chánh định(Sammā-samādhi) | Định thiện | |
+| Thất Giác Chi (Satta Bojjhaṅgā) | Bảy Dấu hiệu Của Giác Ngộ | |
+| Niệm giác chi(Sati-sambojjhaṅga) | Dấu hiệu sự nhớ không quên  | |
+| Trạch pháp giác chi(Dhamma-vicaya-sambojjhaṅga) | Dấu hiệu khả năng tìm hiểu-phân tích | |
+| Tinh tấn giác chi(Viriya-sambojjhaṅga) | Dấu hiệu Nỗ Lực | |
+| Hỷ giác chi(Pīti-sambojjhaṅga) | Dấu hiệu sự hân hoan | |
+| Khinh an giác chi(Passaddhi-sambojjhaṅga) | Dấu hiệu cơ thể lắng dịu | |
+| Định giác chi(Samādhi-sambojjhaṅga) | Dấu hiệu Định | |
+| Xả giác chi(Upekkhā-sambojjhaṅga) | Dấu hiệu Tâm cân bằng | |
+| 5 triền cái (Pañca Nīvaraṇāni) | Năm điều làm mờ yếu | |
+| dục tham(Kāmacchanda) | mong muốn sự dễ chịu giác quan  | |
+| sân hận(Byāpāda) | ác ý hãm hại | |
+| hôn trầm, thụy miên(Thīna-middha) | uể oải, buồn ngủ | |
+| trạo cử, hối quá(Uddhacca-kukkucca) | bồn chồn, hối hận | |
+| nghi(Vicikicchā) | nghi ngờ | |
+| Thập kiết sử (Dasa Saṃyojanāni) | 10 Xiềng Xích | |
+| Thân kiến(Sakkāya-diṭṭhi) | Thấy mình là thật | |
+| Nghi(Vicikicchā) | Nghi ngờ | |
+| Giới cấm thủ(Sīlabbata-parāmāsa) | Mê tín và giáo điều | |
+| Dục ái(Kāma-rāga) | Đắm nhiễm sự Dễ chịu giác quan | |
+| Sân(Paṭigha) | Ghét bỏ và hận thù | |
+| Sắc ái(Rūpa-rāga) | Đắm nhiễm Cõi vật chất | |
+| Vô sắc ái(Arūpa-rāga) | Đắm nhiễm Cõi phi vật chất | |
+| Mạn(Māna) | Ngạo mạn | |
+| Trạo cử(Uddhacca) | Bồn chồn | |
+| Vô minh(Avijjā) | Không Hiểu Biết | |
+| tứ niệm xứ (Cattāro Satipaṭṭhānā) | bốn nơi nhớ không quên | |
+| quán thân trên thân | quan sát cơ thể qua cơ thể của mình | |
+| quán thọ trên thọ | quan sát cảm giác qua cảm giác của mình | |
+| quán tâm trên tâm | quan sát tâm qua tâm của mình | |
+| quán pháp trên pháp | quan sát Điều dạy qua các Điều | |
+| tuệ tri (pajānāti) | thấy rõ; biết rõ | phân biệt được rõ ràng |
+| tưởng tri (sañjānāti) | hiểu/thấy bề mặt (về) | thêm chữ "về" khi phía sau là một điều gì đó->"hiểu bề mặt về Đất" |
+| thắng tri (abhijānāti) | hiểu thực tế (về) | thêm chữ "về" khi phía sau là một điều gì đó->"hiểu thực tế về Đất"|
+| liễu tri (pariññāta) | hiểu toàn thể | thêm chữ "về" khi phía sau là một điều gì đó->"hiểu toàn thể về Đất" |
+| Tri kiến (Dassanā) | thấy rõ bản chất | |
+| tác ý (manasikāra) | suy nghĩ; suy nghĩ | |
+| tà kiến (diṭṭhi) | quan điểm sai | |
+| trừ diệt (vinodanā) | loại trừ | |
+| Như Lai (Tathāgata) | Người Đến Như Vậy | |
+| đại (dhātu) | nguyên tố | |
+| thu thúc (saṁvara) | bảo vệ | "Indriyasaṁvara->bảo vệ các giác quan"; "Pātimokkhasaṁvara->được bảo vệ bởi giới luật Pātimokkha"|
+| oai nghi chánh hạnh (ācāragocarasampanno) | cách cư xử đúng đắn | |
+| anumattesu vajjesu bhayadassāvī | thấy rõ sự nguy hiểm trong những lỗi nhỏ nhặt | |
+| samādāya sikkhati sikkhāpadesu | rèn luyện và học tập theo các điều học | (thọ trì và học tập các điều học)|
+| kāyakammavacīkammena samannāgato kusalena | không ác trong lời nói, hành động | |
+| thân mạng trong sạch(parisuddhājīvo) | nghề nghiệp trong sạch | |
+| giới đức (sīlasampanno) | lỗi sống đạo đức | |
+| tịnh tín (pasanno) | không nghi ngờ | |
+| thi thiết (paññapeti) | tuyên bố; gọi tên; gọi; tin | "Attapaññatti->tuyên bố tự ngã" |
+| kittāvatā | theo những cách nào | |
+| phóng dật (pamāda)| mê muội | buông thả; chạy lung tung, không kiềm chế |
+| không phóng dật (appamāda) | sáng suốt | ngược lại của mê muội (pamāda) |
+</Vocabulary-Mapping>
+
+### 4.1 Những từ giữ nguyên
+phàm phu; tu tập; tỳ kheo; nhiệt tâm (ātāpī); tính hình thành (samudayadhamma); tính hoại diệt (vayadhamma); Tôi nghe như vầy; vui mừng đón nhận (abhinandunti); tôi nghe đã như vầy; du sĩ;
+
+### 4.2 Những từ chuyển đổi ít:
+- Thánh nhân > bậc thánh;
+- Vô văn > người không học;
+- Phàm phu >người thường;
+- Chân nhân > chân nhân;
+- hữu học(sutavā) > có học;
+- bất thiện pháp > những điều không thiện;
+- thiên nhĩ (dibbāya sotadhātuyā) > tai thần
+- thiên nhãn (dibbāya cakkhunā) > mắt thần
+
+# VÍ DỤ MINH HỌA (FEW-SHOT EXAMPLE)
+
+### Input (Văn bản gốc):
+<input>
+# Mūlapariyāyasutta
+
+## 1. Sīlakkhandha
+
+Āpaṁ āpato sañjānāti; āpaṁ āpato saññatvā āpaṁ maññati, āpasmiṁ maññati, āpato maññati, āpaṁ meti maññati, āpaṁ abhinandati. Taṁ kissa hetu? ‘Apariññātaṁ tassā’ti vadāmi.
+</input>
+
+### Output (Kết quả mong muốn):
+
+<output>
+**Bảng thuật ngữ**:
+
+| Thuật ngữ Pali | Từ cũ (Hán-Việt) | Từ mới (Hiện đại) | Ghi chú |
+| :--- | :--- | :--- | :--- |
+| āpa | thủy | nước | |
+| abhinandati | dục hỷ | vui thú chạy theo | |
+| apariññāta | phi liễu tri | chưa hiểu biết hoàn toàn | |
+| [!] sañjānāti | tưởng tri | nhận thức | hiểu bề mặt, hiểu bằng các tổng hợp |
+| [!] maññati | nghĩ đến | suy diễn | tạo tác trong tâm trí |
+| [BT] vimāna | thiên cung | *lâu đài cõi trời* | Dấu hiệu của văn học Vimānavatthu muộn. |
+
+*Bản dịch:*
+# MN 1. KINH GỐC RỄ CỦA MỌI ĐIỀU
+
+*(Mūlapariyāyasutta)*
+
+## 1. Nền tảng Giới (Sīlakkhandha)
+
+Người ấy *nhận thức* (tưởng tri / sañjānāti) Nước là Nước. Sau khi *nhận thức* Nước là Nước, người ấy *suy diễn* (nghĩ đến / maññati) về Nước; người ấy *suy diễn* [mình] ở trong Nước; người ấy *suy diễn* [mình] tách rời khỏi nước; người ấy *suy diễn* Nước là 'của tôi'; người ấy *vui thú chạy theo* (dục hỷ / abhinandati) Nước.
+Vì sao vậy? Ta nói rằng: Vì người ấy *chưa hiểu biết hoàn toàn* (phi liễu tri / apariññāta) về nó.
+</output>
+```
 
-### 2.1. Upakkilesa
-
-“Yathā kathaṁ pana, bhante, bhagavā evaṁ paripuṇṇāya tapojigucchāya anekavihite upakkilese vadatī”ti?
-
-“Idha, nigrodha, tapassī tapaṁ samādiyati, so tena tapasā attamano hoti paripuṇṇasaṅkappo. Yampi, nigrodha, tapassī tapaṁ samādiyati, so tena tapasā attamano hoti paripuṇṇasaṅkappo. Ayampi kho, nigrodha, tapassino upakkileso hoti.
-
-Puna caparaṁ, nigrodha, tapassī tapaṁ samādiyati, so tena tapasā attānukkaṁseti paraṁ vambheti. Yampi, nigrodha, tapassī tapaṁ samādiyati, so tena tapasā attānukkaṁseti paraṁ vambheti. Ayampi kho, nigrodha, tapassino upakkileso hoti.
-
-Puna caparaṁ, nigrodha, tapassī tapaṁ samādiyati, so tena tapasā majjati mucchati pamādamāpajjati. Yampi, nigrodha, tapassī tapaṁ samādiyati, so tena tapasā majjati mucchati pamādamāpajjati. Ayampi kho, nigrodha, tapassino upakkileso hoti.
-
-Puna caparaṁ, nigrodha, tapassī tapaṁ samādiyati, so tena tapasā lābhasakkārasilokaṁ abhinibbatteti, so tena lābhasakkārasilokena attamano hoti paripuṇṇasaṅkappo. Yampi, nigrodha, tapassī tapaṁ samādiyati, so tena tapasā lābhasakkārasilokaṁ abhinibbatteti, so tena lābhasakkārasilokena attamano hoti paripuṇṇasaṅkappo. Ayampi kho, nigrodha, tapassino upakkileso hoti.
-
-Puna caparaṁ, nigrodha, tapassī tapaṁ samādiyati, so tena tapasā lābhasakkārasilokaṁ abhinibbatteti, so tena lābhasakkārasilokena attānukkaṁseti paraṁ vambheti. Yampi, nigrodha, tapassī tapaṁ samādiyati, so tena tapasā lābhasakkārasilokaṁ abhinibbatteti, so tena lābhasakkārasilokena attānukkaṁseti paraṁ vambheti. Ayampi kho, nigrodha, tapassino upakkileso hoti.
-
-Puna caparaṁ, nigrodha, tapassī tapaṁ samādiyati, so tena tapasā lābhasakkārasilokaṁ abhinibbatteti, so tena lābhasakkārasilokena majjati mucchati pamādamāpajjati. Yampi, nigrodha, tapassī tapaṁ samādiyati, so tena tapasā lābhasakkārasilokaṁ abhinibbatteti, so tena lābhasakkārasilokena majjati mucchati pamādamāpajjati. Ayampi kho, nigrodha, tapassino upakkileso hoti.
-
-Puna caparaṁ, nigrodha, tapassī bhojanesu vodāsaṁ āpajjati: ‘idaṁ me khamati, idaṁ me nakkhamatī’ti. So yañca khvassa nakkhamati, taṁ sāpekkho pajahati. Yaṁ panassa khamati, taṁ gadhito mucchito ajjhāpanno anādīnavadassāvī anissaraṇapañño paribhuñjati …pe… ayampi kho, nigrodha, tapassino upakkileso hoti.
-
-Puna caparaṁ, nigrodha, tapassī tapaṁ samādiyati lābhasakkārasilokanikantihetu: ‘sakkarissanti maṁ rājāno rājamahāmattā khattiyā brāhmaṇā gahapatikā titthiyā’ti …pe… ayampi kho, nigrodha, tapassino upakkileso hoti.
-
-Puna caparaṁ, nigrodha, tapassī aññataraṁ samaṇaṁ vā brāhmaṇaṁ vā apasādetā hoti: ‘kiṁ panāyaṁ sambahulājīvo sabbaṁ sambhakkheti. Seyyathidaṁ—mūlabījaṁ khandhabījaṁ phaḷubījaṁ aggabījaṁ bījabījameva pañcamaṁ, asanivicakkaṁ dantakūṭaṁ, samaṇappavādenā’ti …pe… ayampi kho, nigrodha, tapassino upakkileso hoti.
-
-Puna caparaṁ, nigrodha, tapassī passati aññataraṁ samaṇaṁ vā brāhmaṇaṁ vā kulesu sakkariyamānaṁ garukariyamānaṁ māniyamānaṁ pūjiyamānaṁ. Disvā tassa evaṁ hoti: ‘imañhi nāma sambahulājīvaṁ kulesu sakkaronti garuṁ karonti mānenti pūjenti. Maṁ pana tapassiṁ lūkhājīviṁ kulesu na sakkaronti na garuṁ karonti na mānenti na pūjentī’ti, iti so issāmacchariyaṁ kulesu uppādetā hoti …pe… ayampi kho, nigrodha, tapassino upakkileso hoti.
-
-Puna caparaṁ, nigrodha, tapassī āpāthakanisādī hoti …pe… ayampi kho, nigrodha, tapassino upakkileso hoti.
-
-Puna caparaṁ, nigrodha, tapassī attānaṁ adassayamāno kulesu carati: ‘idampi me tapasmiṁ idampi me tapasmin’ti …pe… ayampi kho, nigrodha, tapassino upakkileso hoti.
-
-Puna caparaṁ, nigrodha, tapassī kiñcideva paṭicchannaṁ sevati. So ‘khamati te idan’ti puṭṭho samāno akkhamamānaṁ āha: ‘khamatī’ti. Khamamānaṁ āha: ‘nakkhamatī’ti. Iti so sampajānamusā bhāsitā hoti …pe… ayampi kho, nigrodha, tapassino upakkileso hoti.
-
-Puna caparaṁ, nigrodha, tapassī tathāgatassa vā tathāgatasāvakassa vā dhammaṁ desentassa santaṁyeva pariyāyaṁ anuññeyyaṁ nānujānāti …pe… ayampi kho, nigrodha, tapassino upakkileso hoti.
-
-Puna caparaṁ, nigrodha, tapassī kodhano hoti upanāhī. Yampi, nigrodha, tapassī kodhano hoti upanāhī. Ayampi kho, nigrodha, tapassino upakkileso hoti. Puna caparaṁ, nigrodha, tapassī makkhī hoti paḷāsī …pe… issukī hoti maccharī … saṭho hoti māyāvī … thaddho hoti atimānī … pāpiccho hoti pāpikānaṁ icchānaṁ vasaṁ gato … micchādiṭṭhiko hoti antaggāhikāya diṭṭhiyā samannāgato … sandiṭṭhiparāmāsī hoti ādhānaggāhī duppaṭinissaggī. Yampi, nigrodha, tapassī sandiṭṭhiparāmāsī hoti ādhānaggāhī duppaṭinissaggī. Ayampi kho, nigrodha, tapassino upakkileso hoti.
-
-Taṁ kiṁ maññasi, nigrodha, yadime tapojigucchā upakkilesā vā anupakkilesā vā”ti?
-
-“Addhā kho ime, bhante, tapojigucchā upakkilesā, no anupakkilesā. Ṭhānaṁ kho panetaṁ, bhante, vijjati yaṁ idhekacco tapassī sabbeheva imehi upakkilesehi samannāgato assa; ko pana vādo aññataraññatarenā”ti.
-
-### 2.2. Parisuddhapapaṭikappattakathā
-
-“Idha, nigrodha, tapassī tapaṁ samādiyati, so tena tapasā na attamano hoti na paripuṇṇasaṅkappo. Yampi, nigrodha, tapassī tapaṁ samādiyati, so tena tapasā na attamano hoti na paripuṇṇasaṅkappo. Evaṁ so tasmiṁ ṭhāne parisuddho hoti.
-
-Puna caparaṁ, nigrodha, tapassī tapaṁ samādiyati, so tena tapasā na attānukkaṁseti na paraṁ vambheti …pe… evaṁ so tasmiṁ ṭhāne parisuddho hoti.
-
-Puna caparaṁ, nigrodha, tapassī tapaṁ samādiyati, so tena tapasā na majjati na mucchati na pamādamāpajjati …pe… evaṁ so tasmiṁ ṭhāne parisuddho hoti.
-
-Puna caparaṁ, nigrodha, tapassī tapaṁ samādiyati, so tena tapasā lābhasakkārasilokaṁ abhinibbatteti, so tena lābhasakkārasilokena na attamano hoti na paripuṇṇasaṅkappo …pe… evaṁ so tasmiṁ ṭhāne parisuddho hoti.
-
-Puna caparaṁ, nigrodha, tapassī tapaṁ samādiyati, so tena tapasā lābhasakkārasilokaṁ abhinibbatteti, so tena lābhasakkārasilokena na attānukkaṁseti na paraṁ vambheti …pe… evaṁ so tasmiṁ ṭhāne parisuddho hoti.
-
-Puna caparaṁ, nigrodha, tapassī tapaṁ samādiyati, so tena tapasā lābhasakkārasilokaṁ abhinibbatteti, so tena lābhasakkārasilokena na majjati na mucchati na pamādamāpajjati …pe… evaṁ so tasmiṁ ṭhāne parisuddho hoti.
-
-Puna caparaṁ, nigrodha, tapassī bhojanesu na vodāsaṁ āpajjati: ‘idaṁ me khamati, idaṁ me nakkhamatī’ti. So yañca khvassa nakkhamati, taṁ anapekkho pajahati. Yaṁ panassa khamati, taṁ agadhito amucchito anajjhāpanno ādīnavadassāvī nissaraṇapañño paribhuñjati …pe… evaṁ so tasmiṁ ṭhāne parisuddho hoti.
-
-Puna caparaṁ, nigrodha, tapassī na tapaṁ samādiyati lābhasakkārasilokanikantihetu: ‘sakkarissanti maṁ rājāno rājamahāmattā khattiyā brāhmaṇā gahapatikā titthiyā’ti …pe… evaṁ so tasmiṁ ṭhāne parisuddho hoti.
-
-Puna caparaṁ, nigrodha, tapassī aññataraṁ samaṇaṁ vā brāhmaṇaṁ vā nāpasādetā hoti: ‘kiṁ panāyaṁ sambahulājīvo sabbaṁ sambhakkheti. Seyyathidaṁ—mūlabījaṁ khandhabījaṁ phaḷubījaṁ aggabījaṁ bījabījameva pañcamaṁ, asanivicakkaṁ dantakūṭaṁ, samaṇappavādenā’ti …pe… evaṁ so tasmiṁ ṭhāne parisuddho hoti.
-
-Puna caparaṁ, nigrodha, tapassī passati aññataraṁ samaṇaṁ vā brāhmaṇaṁ vā kulesu sakkariyamānaṁ garu kariyamānaṁ māniyamānaṁ pūjiyamānaṁ. Disvā tassa na evaṁ hoti: ‘imañhi nāma sambahulājīvaṁ kulesu sakkaronti garuṁ karonti mānenti pūjenti. Maṁ pana tapassiṁ lūkhājīviṁ kulesu na sakkaronti na garuṁ karonti na mānenti na pūjentī’ti, iti so issāmacchariyaṁ kulesu nuppādetā hoti …pe… evaṁ so tasmiṁ ṭhāne parisuddho hoti.
-
-Puna caparaṁ, nigrodha, tapassī na āpāthakanisādī hoti …pe… evaṁ so tasmiṁ ṭhāne parisuddho hoti.
-
-Puna caparaṁ, nigrodha, tapassī na attānaṁ adassayamāno kulesu carati: ‘idampi me tapasmiṁ, idampi me tapasmin’ti …pe… evaṁ so tasmiṁ ṭhāne parisuddho hoti.
-
-Puna caparaṁ, nigrodha, tapassī na kiñcideva paṭicchannaṁ sevati, so: ‘khamati te idan’ti puṭṭho samāno akkhamamānaṁ āha: ‘nakkhamatī’ti. Khamamānaṁ āha: ‘khamatī’ti. Iti so sampajānamusā na bhāsitā hoti …pe… evaṁ so tasmiṁ ṭhāne parisuddho hoti.
-
-Puna caparaṁ, nigrodha, tapassī tathāgatassa vā tathāgatasāvakassa vā dhammaṁ desentassa santaṁyeva pariyāyaṁ anuññeyyaṁ anujānāti …pe… evaṁ so tasmiṁ ṭhāne parisuddho hoti.
-
-Puna caparaṁ, nigrodha, tapassī akkodhano hoti anupanāhī. Yampi, nigrodha, tapassī akkodhano hoti anupanāhī evaṁ so tasmiṁ ṭhāne parisuddho hoti. Puna caparaṁ, nigrodha, tapassī amakkhī hoti apaḷāsī …pe… anissukī hoti amaccharī … asaṭho hoti amāyāvī … atthaddho hoti anatimānī … na pāpiccho hoti na pāpikānaṁ icchānaṁ vasaṁ gato … na micchādiṭṭhiko hoti na antaggāhikāya diṭṭhiyā samannāgato … na sandiṭṭhiparāmāsī hoti na ādhānaggāhī suppaṭinissaggī. Yampi, nigrodha, tapassī na sandiṭṭhiparāmāsī hoti na ādhānaggāhī suppaṭinissaggī. Evaṁ so tasmiṁ ṭhāne parisuddho hoti.
-
-Taṁ kiṁ maññasi, nigrodha, yadi evaṁ sante tapojigucchā parisuddhā vā hoti aparisuddhā vā”ti?
-
-“Addhā kho, bhante, evaṁ sante tapojigucchā parisuddhā hoti no aparisuddhā, aggappattā ca sārappattā cā”ti.
-
-“Na kho, nigrodha, ettāvatā tapojigucchā aggappattā ca hoti sārappattā ca; api ca kho papaṭikappattā hotī”ti.
-
-### 2.3. Parisuddhatacappattakathā
-
-“Kittāvatā pana, bhante, tapojigucchā aggappattā ca hoti sārappattā ca? Sādhu me, bhante, bhagavā tapojigucchāya aggaññeva pāpetu, sāraññeva pāpetū”ti.
-
-“Idha, nigrodha, tapassī cātuyāmasaṁvarasaṁvuto hoti. Kathañca, nigrodha, tapassī cātuyāmasaṁvarasaṁvuto hoti? Idha, nigrodha, tapassī na pāṇaṁ atipāteti, na pāṇaṁ atipātayati, na pāṇamatipātayato samanuñño hoti. Na adinnaṁ ādiyati, na adinnaṁ ādiyāpeti, na adinnaṁ ādiyato samanuñño hoti. Na musā bhaṇati, na musā bhaṇāpeti, na musā bhaṇato samanuñño hoti. Na bhāvitamāsīsati, na bhāvitamāsīsāpeti, na bhāvitamāsīsato samanuñño hoti. Evaṁ kho, nigrodha, tapassī cātuyāmasaṁvarasaṁvuto hoti.
-
-Yato kho, nigrodha, tapassī cātuyāmasaṁvarasaṁvuto hoti, aduṁ cassa hoti tapassitāya. So abhiharati no hīnāyāvattati. So vivittaṁ senāsanaṁ bhajati araññaṁ rukkhamūlaṁ pabbataṁ kandaraṁ giriguhaṁ susānaṁ vanapatthaṁ abbhokāsaṁ palālapuñjaṁ. So pacchābhattaṁ piṇḍapātapaṭikkanto nisīdati pallaṅkaṁ ābhujitvā ujuṁ kāyaṁ paṇidhāya parimukhaṁ satiṁ upaṭṭhapetvā. So abhijjhaṁ loke pahāya vigatābhijjhena cetasā viharati, abhijjhāya cittaṁ parisodheti. Byāpādappadosaṁ pahāya abyāpannacitto viharati sabbapāṇabhūtahitānukampī, byāpādappadosā cittaṁ parisodheti. Thinamiddhaṁ pahāya vigatathinamiddho viharati ālokasaññī sato sampajāno, thinamiddhā cittaṁ parisodheti. Uddhaccakukkuccaṁ pahāya anuddhato viharati ajjhattaṁ vūpasantacitto, uddhaccakukkuccā cittaṁ parisodheti. Vicikicchaṁ pahāya tiṇṇavicikiccho viharati akathaṅkathī kusalesu dhammesu, vicikicchāya cittaṁ parisodheti.
-
-So ime pañca nīvaraṇe pahāya cetaso upakkilese paññāya dubbalīkaraṇe mettāsahagatena cetasā ekaṁ disaṁ pharitvā viharati. Tathā dutiyaṁ. Tathā tatiyaṁ. Tathā catutthaṁ. Iti uddhamadho tiriyaṁ sabbadhi sabbattatāya sabbāvantaṁ lokaṁ mettāsahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjena pharitvā viharati. Karuṇāsahagatena cetasā …pe… muditāsahagatena cetasā …pe… upekkhāsahagatena cetasā ekaṁ disaṁ pharitvā viharati. Tathā dutiyaṁ. Tathā tatiyaṁ. Tathā catutthaṁ. Iti uddhamadho tiriyaṁ sabbadhi sabbattatāya sabbāvantaṁ lokaṁ upekkhāsahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjena pharitvā viharati.
-
-Taṁ kiṁ maññasi, nigrodha. Yadi evaṁ sante tapojigucchā parisuddhā vā hoti aparisuddhā vā”ti?
-
-“Addhā kho, bhante, evaṁ sante tapojigucchā parisuddhā hoti no aparisuddhā, aggappattā ca sārappattā cā”ti.
-
-“Na kho, nigrodha, ettāvatā tapojigucchā aggappattā ca hoti sārappattā ca; api ca kho tacappattā hotī”ti.
-
-### 2.4. Parisuddhaphegguppattakathā
-
-“Kittāvatā pana, bhante, tapojigucchā aggappattā ca hoti sārappattā ca? Sādhu me, bhante, bhagavā tapojigucchāya aggaññeva pāpetu, sāraññeva pāpetū”ti.
-
-“Idha, nigrodha, tapassī cātuyāmasaṁvarasaṁvuto hoti. Kathañca, nigrodha, tapassī cātuyāmasaṁvarasaṁvuto hoti …pe… yato kho, nigrodha, tapassī cātuyāmasaṁvarasaṁvuto hoti, aduṁ cassa hoti tapassitāya. So abhiharati no hīnāyāvattati. So vivittaṁ senāsanaṁ bhajati …pe… so ime pañca nīvaraṇe pahāya cetaso upakkilese paññāya dubbalīkaraṇe mettāsahagatena cetasā …pe… karuṇāsahagatena cetasā …pe… muditāsahagatena cetasā …pe… upekkhāsahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjena pharitvā viharati.
-
-So anekavihitaṁ pubbenivāsaṁ anussarati seyyathidaṁ—ekampi jātiṁ dvepi jātiyo tissopi jātiyo catassopi jātiyo pañcapi jātiyo dasapi jātiyo vīsampi jātiyo tiṁsampi jātiyo cattālīsampi jātiyo paññāsampi jātiyo jātisatampi jātisahassampi jātisatasahassampi anekepi saṁvaṭṭakappe anekepi vivaṭṭakappe anekepi saṁvaṭṭavivaṭṭakappe: ‘amutrāsiṁ evaṁnāmo evaṅgotto evaṁvaṇṇo evamāhāro evaṁsukhadukkhappaṭisaṁvedī evamāyupariyanto, so tato cuto amutra udapādiṁ, tatrāpāsiṁ evaṁnāmo evaṅgotto evaṁvaṇṇo evamāhāro evaṁsukhadukkhappaṭisaṁvedī evamāyupariyanto, so tato cuto idhūpapanno’ti. Iti sākāraṁ sauddesaṁ anekavihitaṁ pubbenivāsaṁ anussarati.
-
-Taṁ kiṁ maññasi, nigrodha, yadi evaṁ sante tapojigucchā parisuddhā vā hoti aparisuddhā vā”ti?
-
-“Addhā kho, bhante, evaṁ sante tapojigucchā parisuddhā hoti, no aparisuddhā, aggappattā ca sārappattā cā”ti.
-
-“Na kho, nigrodha, ettāvatā tapojigucchā aggappattā ca hoti sārappattā ca; api ca kho phegguppattā hotī”ti.
-
-## 3. Parisuddhaaggappattasārappattakathā
-
-“Kittāvatā pana, bhante, tapojigucchā aggappattā ca hoti sārappattā ca? Sādhu me, bhante, bhagavā tapojigucchāya aggaññeva pāpetu, sāraññeva pāpetū”ti.
-
-“Idha, nigrodha, tapassī cātuyāmasaṁvarasaṁvuto hoti. Kathañca, nigrodha, tapassī cātuyāmasaṁvarasaṁvuto hoti …pe… yato kho, nigrodha, tapassī cātuyāmasaṁvarasaṁvuto hoti, aduṁ cassa hoti tapassitāya. So abhiharati no hīnāyāvattati. So vivittaṁ senāsanaṁ bhajati …pe… so ime pañca nīvaraṇe pahāya cetaso upakkilese paññāya dubbalīkaraṇe mettāsahagatena cetasā …pe… upekkhāsahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjena pharitvā viharati. So anekavihitaṁ pubbenivāsaṁ anussarati. Seyyathidaṁ—ekampi jātiṁ dvepi jātiyo tissopi jātiyo catassopi jātiyo pañcapi jātiyo …pe… iti sākāraṁ sauddesaṁ anekavihitaṁ pubbenivāsaṁ anussarati.
-
-So dibbena cakkhunā visuddhena atikkantamānusakena satte passati cavamāne upapajjamāne hīne paṇīte suvaṇṇe dubbaṇṇe sugate duggate, yathākammūpage satte pajānāti: ‘ime vata bhonto sattā kāyaduccaritena samannāgatā vacīduccaritena samannāgatā manoduccaritena samannāgatā ariyānaṁ upavādakā micchādiṭṭhikā micchādiṭṭhikammasamādānā. Te kāyassa bhedā paraṁ maraṇā apāyaṁ duggatiṁ vinipātaṁ nirayaṁ upapannā. Ime vā pana bhonto sattā kāyasucaritena samannāgatā vacīsucaritena samannāgatā manosucaritena samannāgatā ariyānaṁ anupavādakā sammādiṭṭhikā sammādiṭṭhikammasamādānā. Te kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapannā’ti. Iti dibbena cakkhunā visuddhena atikkantamānusakena satte passati cavamāne upapajjamāne hīne paṇīte suvaṇṇe dubbaṇṇe sugate duggate, yathākammūpage satte pajānāti.
-
-Taṁ kiṁ maññasi, nigrodha, yadi evaṁ sante tapojigucchā parisuddhā vā hoti aparisuddhā vā”ti?
-
-“Addhā kho, bhante, evaṁ sante tapojigucchā parisuddhā hoti no aparisuddhā, aggappattā ca sārappattā cā”ti.
-
-“Ettāvatā kho, nigrodha, tapojigucchā aggappattā ca hoti sārappattā ca. Iti kho, nigrodha, yaṁ maṁ tvaṁ avacāsi: ‘ko nāma so, bhante, bhagavato dhammo, yena bhagavā sāvake vineti, yena bhagavatā sāvakā vinītā assāsappattā paṭijānanti ajjhāsayaṁ ādibrahmacariyan’ti. Iti kho taṁ, nigrodha, ṭhānaṁ uttaritarañca paṇītatarañca, yenāhaṁ sāvake vinemi, yena mayā sāvakā vinītā assāsappattā paṭijānanti ajjhāsayaṁ ādibrahmacariyan”ti.
-
-Evaṁ vutte, te paribbājakā unnādino uccāsaddamahāsaddā ahesuṁ: “ettha mayaṁ anassāma sācariyakā, na mayaṁ ito bhiyyo uttaritaraṁ pajānāmā”ti.
-
-## 4. Nigrodhassapajjhāyana
-
-Yadā aññāsi sandhāno gahapati: “aññadatthu kho dānime aññatitthiyā paribbājakā bhagavato bhāsitaṁ sussūsanti, sotaṁ odahanti, aññācittaṁ upaṭṭhāpentī”ti.
-
-Atha nigrodhaṁ paribbājakaṁ etadavoca: “iti kho, bhante nigrodha, yaṁ maṁ tvaṁ avacāsi: ‘yagghe, gahapati, jāneyyāsi, kena samaṇo gotamo saddhiṁ sallapati, kena sākacchaṁ samāpajjati, kena paññāveyyattiyaṁ samāpajjati, suññāgārahatā samaṇassa gotamassa paññā, aparisāvacaro samaṇo gotamo nālaṁ sallāpāya, so antamantāneva sevati; seyyathāpi nāma gokāṇā pariyantacārinī antamantāneva sevati. Evameva suññāgārahatā samaṇassa gotamassa paññā, aparisāvacaro samaṇo gotamo nālaṁ sallāpāya; so antamantāneva sevati; iṅgha, gahapati, samaṇo gotamo imaṁ parisaṁ āgaccheyya, ekapañheneva naṁ saṁsādeyyāma, tucchakumbhīva naṁ maññe orodheyyāmā’ti. Ayaṁ kho so, bhante, bhagavā arahaṁ sammāsambuddho idhānuppatto, aparisāvacaraṁ pana naṁ karotha, gokāṇaṁ pariyantacāriniṁ karotha, ekapañheneva naṁ saṁsādetha, tucchakumbhīva naṁ orodhethā”ti. Evaṁ vutte, nigrodho paribbājako tuṇhībhūto maṅkubhūto pattakkhandho adhomukho pajjhāyanto appaṭibhāno nisīdi.
-
-Atha kho bhagavā nigrodhaṁ paribbājakaṁ tuṇhībhūtaṁ maṅkubhūtaṁ pattakkhandhaṁ adhomukhaṁ pajjhāyantaṁ appaṭibhānaṁ viditvā nigrodhaṁ paribbājakaṁ etadavoca: “saccaṁ kira, nigrodha, bhāsitā te esā vācā”ti?
-
-“Saccaṁ, bhante, bhāsitā me esā vācā, yathābālena yathāmūḷhena yathāakusalenā”ti.
-
-“Taṁ kiṁ maññasi, nigrodha. Kinti te sutaṁ paribbājakānaṁ vuḍḍhānaṁ mahallakānaṁ ācariyapācariyānaṁ bhāsamānānaṁ: ‘ye te ahesuṁ atītamaddhānaṁ arahanto sammāsambuddhā, evaṁ su te bhagavanto saṅgamma samāgamma unnādino uccāsaddamahāsaddā anekavihitaṁ tiracchānakathaṁ anuyuttā viharanti. Seyyathidaṁ—rājakathaṁ corakathaṁ …pe… itibhavābhavakathaṁ iti vā. Seyyathāpi tvaṁ etarahi sācariyako. Udāhu, evaṁ su te bhagavanto araññavanapatthāni pantāni senāsanāni paṭisevanti appasaddāni appanigghosāni vijanavātāni manussarāhasseyyakāni paṭisallānasāruppāni, seyyathāpāhaṁ etarahī’”ti.
-
-“Sutaṁ metaṁ, bhante. Paribbājakānaṁ vuḍḍhānaṁ mahallakānaṁ ācariyapācariyānaṁ bhāsamānānaṁ: ‘ye te ahesuṁ atītamaddhānaṁ arahanto sammāsambuddhā, na evaṁ su te bhagavanto saṅgamma samāgamma unnādino uccāsaddamahāsaddā anekavihitaṁ tiracchānakathaṁ anuyuttā viharanti. Seyyathidaṁ—rājakathaṁ corakathaṁ …pe… itibhavābhavakathaṁ iti vā, seyyathāpāhaṁ etarahi sācariyako. Evaṁ su te bhagavanto araññavanapatthāni pantāni senāsanāni paṭisevanti appasaddāni appanigghosāni vijanavātāni manussarāhasseyyakāni paṭisallānasāruppāni, seyyathāpi bhagavā etarahī’”ti.
-
-“Tassa te, nigrodha, viññussa sato mahallakassa na etadahosi: ‘buddho so bhagavā bodhāya dhammaṁ deseti, danto so bhagavā damathāya dhammaṁ deseti, santo so bhagavā samathāya dhammaṁ deseti, tiṇṇo so bhagavā taraṇāya dhammaṁ deseti, parinibbuto so bhagavā parinibbānāya dhammaṁ desetī’”ti?
-
-## 5. Brahmacariyapariyosānasacchikiriyā
-
-Evaṁ vutte, nigrodho paribbājako bhagavantaṁ etadavoca: “accayo maṁ, bhante, accagamā yathābālaṁ yathāmūḷhaṁ yathāakusalaṁ, yvāhaṁ evaṁ bhagavantaṁ avacāsiṁ. Tassa me, bhante, bhagavā accayaṁ accayato paṭiggaṇhātu āyatiṁ saṁvarāyā”ti.
-
-“Taggha tvaṁ, nigrodha, accayo accagamā yathābālaṁ yathāmūḷhaṁ yathāakusalaṁ, yo maṁ tvaṁ evaṁ avacāsi. Yato ca kho tvaṁ, nigrodha, accayaṁ accayato disvā yathādhammaṁ paṭikarosi, taṁ te mayaṁ paṭiggaṇhāma. Vuddhi hesā, nigrodha, ariyassa vinaye, yo accayaṁ accayato disvā yathādhammaṁ paṭikaroti āyatiṁ saṁvaraṁ āpajjati. Ahaṁ kho pana, nigrodha, evaṁ vadāmi:
-
-‘Etu viññū puriso asaṭho amāyāvī ujujātiko, ahamanusāsāmi ahaṁ dhammaṁ desemi. Yathānusiṭṭhaṁ tathā paṭipajjamāno—yassatthāya kulaputtā sammadeva agārasmā anagāriyaṁ pabbajanti, tadanuttaraṁ—brahmacariyapariyosānaṁ diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja viharissati sattavassāni. Tiṭṭhantu, nigrodha, satta vassāni. Etu viññū puriso asaṭho amāyāvī ujujātiko, ahamanusāsāmi ahaṁ dhammaṁ desemi. Yathānusiṭṭhaṁ tathā paṭipajjamāno—yassatthāya kulaputtā sammadeva agārasmā anagāriyaṁ pabbajanti, tadanuttaraṁ—brahmacariyapariyosānaṁ diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja viharissati cha vassāni. Pañca vassāni … cattāri vassāni … tīṇi vassāni … dve vassāni … ekaṁ vassaṁ. Tiṭṭhatu, nigrodha, ekaṁ vassaṁ. Etu viññū puriso asaṭho amāyāvī ujujātiko ahamanusāsāmi ahaṁ dhammaṁ desemi. Yathānusiṭṭhaṁ tathā paṭipajjamāno—yassatthāya kulaputtā sammadeva agārasmā anagāriyaṁ pabbajanti, tadanuttaraṁ—brahmacariyapariyosānaṁ diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja viharissati satta māsāni. Tiṭṭhantu, nigrodha, satta māsāni … cha māsāni … pañca māsāni … cattāri māsāni … tīṇi māsāni … dve māsāni … ekaṁ māsaṁ … aḍḍhamāsaṁ. Tiṭṭhatu, nigrodha, aḍḍhamāso. Etu viññū puriso asaṭho amāyāvī ujujātiko, ahamanusāsāmi ahaṁ dhammaṁ desemi. Yathānusiṭṭhaṁ tathā paṭipajjamāno—yassatthāya kulaputtā sammadeva agārasmā anagāriyaṁ pabbajanti, tadanuttaraṁ—brahmacariyapariyosānaṁ diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja viharissati sattāhaṁ’.
-
-## 6. Paribbājakānaṁpajjhāyana
-
-Siyā kho pana te, nigrodha, evamassa: ‘antevāsikamyatā no samaṇo gotamo evamāhā’ti. Na kho panetaṁ, nigrodha, evaṁ daṭṭhabbaṁ. Yo eva vo ācariyo, so eva vo ācariyo hotu.
-
-Siyā kho pana te, nigrodha, evamassa: ‘uddesā no cāvetukāmo samaṇo gotamo evamāhā’ti. Na kho panetaṁ, nigrodha, evaṁ daṭṭhabbaṁ. Yo eva vo uddeso so eva vo uddeso hotu.
-
-Siyā kho pana te, nigrodha, evamassa: ‘ājīvā no cāvetukāmo samaṇo gotamo evamāhā’ti. Na kho panetaṁ, nigrodha, evaṁ daṭṭhabbaṁ. Yo eva vo ājīvo, so eva vo ājīvo hotu.
-
-Siyā kho pana te, nigrodha, evamassa: ‘ye no dhammā akusalā akusalasaṅkhātā sācariyakānaṁ, tesu patiṭṭhāpetukāmo samaṇo gotamo evamāhā’ti. Na kho panetaṁ, nigrodha, evaṁ daṭṭhabbaṁ. Akusalā ceva vo te dhammā hontu akusalasaṅkhātā ca sācariyakānaṁ.
-
-Siyā kho pana te, nigrodha, evamassa: ‘ye no dhammā kusalā kusalasaṅkhātā sācariyakānaṁ, tehi vivecetukāmo samaṇo gotamo evamāhā’ti. Na kho panetaṁ, nigrodha, evaṁ daṭṭhabbaṁ. Kusalā ceva vo te dhammā hontu kusalasaṅkhātā ca sācariyakānaṁ.
-
-Iti khvāhaṁ, nigrodha, neva antevāsikamyatā evaṁ vadāmi, napi uddesā cāvetukāmo evaṁ vadāmi, napi ājīvā cāvetukāmo evaṁ vadāmi, napi ye vo dhammā akusalā akusalasaṅkhātā sācariyakānaṁ, tesu patiṭṭhāpetukāmo evaṁ vadāmi, napi ye vo dhammā kusalā kusalasaṅkhātā sācariyakānaṁ, tehi vivecetukāmo evaṁ vadāmi. Santi ca kho, nigrodha, akusalā dhammā appahīnā saṅkilesikā ponobbhavikā sadarā dukkhavipākā āyatiṁ jātijarāmaraṇiyā, yesāhaṁ pahānāya dhammaṁ desemi. Yathāpaṭipannānaṁ vo saṅkilesikā dhammā pahīyissanti, vodānīyā dhammā abhivaḍḍhissanti, paññāpāripūriṁ vepullattañca diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja viharissathā”ti.
-
-Evaṁ vutte, te paribbājakā tuṇhībhūtā maṅkubhūtā pattakkhandhā adhomukhā pajjhāyantā appaṭibhānā nisīdiṁsu yathā taṁ mārena pariyuṭṭhitacittā. Atha kho bhagavato etadahosi: “sabbepime moghapurisā phuṭṭhā pāpimatā. Yatra hi nāma ekassapi na evaṁ bhavissati: ‘handa mayaṁ aññāṇatthampi samaṇe gotame brahmacariyaṁ carāma, kiṁ karissati sattāho’”ti?
-
-Atha kho bhagavā udumbarikāya paribbājakārāme sīhanādaṁ naditvā vehāsaṁ abbhuggantvā gijjhakūṭe pabbate paccupaṭṭhāsi. Sandhāno pana gahapati tāvadeva rājagahaṁ pāvisīti.
-
-Udumbarikasuttaṁ niṭṭhitaṁ dutiyaṁ.

@@ -12,7 +12,7 @@ const sujato_tmc_vi = [
         "backlink": false,
         "nextlink": {
           "text": "2. KINH SA MÔN QỦA",
-          "link": "/kinhtruongbo/c-sujato-tmc-vi/002-kinh-sa-mon-qua"
+          "link": "/kinhtruongbo/c-sujato-tmc-vi/dnc-002-kinh-sa-mon-qua"
         }
       }
     }
@@ -29,11 +29,11 @@ const sujato_tmc_vi = [
         "notePath": "",
         "backlink": {
           "text": "1. KINH PHẠM VÕNG",
-          "link": "/kinhtruongbo/c-sujato-tmc-vi/001-kinh-pham-vong"
+          "link": "/kinhtruongbo/c-sujato-tmc-vi/dnc-001-kinh-pham-vong"
         },
         "nextlink": {
           "text": "3. KINH AMBATTHA (A-MA-TRÚ)",
-          "link": "/kinhtruongbo/c-sujato-tmc-vi/003-kinh-ambattha-a-ma-tru"
+          "link": "/kinhtruongbo/c-sujato-tmc-vi/dnc-003-kinh-ambattha-a-ma-tru"
         }
       }
     }
@@ -50,11 +50,11 @@ const sujato_tmc_vi = [
         "notePath": "",
         "backlink": {
           "text": "2. KINH SA MÔN QỦA",
-          "link": "/kinhtruongbo/c-sujato-tmc-vi/002-kinh-sa-mon-qua"
+          "link": "/kinhtruongbo/c-sujato-tmc-vi/dnc-002-kinh-sa-mon-qua"
         },
         "nextlink": {
           "text": "4. KINH SONADANDA (CHỦNG ÐỨC)",
-          "link": "/kinhtruongbo/c-sujato-tmc-vi/004-kinh-sonadanda-chung-duc"
+          "link": "/kinhtruongbo/c-sujato-tmc-vi/dnc-004-kinh-sonadanda-chung-duc"
         }
       }
     }
@@ -71,11 +71,11 @@ const sujato_tmc_vi = [
         "notePath": "",
         "backlink": {
           "text": "3. KINH AMBATTHA (A-MA-TRÚ)",
-          "link": "/kinhtruongbo/c-sujato-tmc-vi/003-kinh-ambattha-a-ma-tru"
+          "link": "/kinhtruongbo/c-sujato-tmc-vi/dnc-003-kinh-ambattha-a-ma-tru"
         },
         "nextlink": {
           "text": "5. KINH KÙTADANTA (CỨU-LA-ÐÀN-ÐẦU)",
-          "link": "/kinhtruongbo/c-sujato-tmc-vi/005-kinh-kutadanta-cuu-la-dan-dau"
+          "link": "/kinhtruongbo/c-sujato-tmc-vi/dnc-005-kinh-kutadanta-cuu-la-dan-dau"
         }
       }
     }
@@ -92,11 +92,11 @@ const sujato_tmc_vi = [
         "notePath": "",
         "backlink": {
           "text": "4. KINH SONADANDA (CHỦNG ÐỨC)",
-          "link": "/kinhtruongbo/c-sujato-tmc-vi/004-kinh-sonadanda-chung-duc"
+          "link": "/kinhtruongbo/c-sujato-tmc-vi/dnc-004-kinh-sonadanda-chung-duc"
         },
         "nextlink": {
           "text": "6. KINH MAHÀLI",
-          "link": "/kinhtruongbo/c-sujato-tmc-vi/006-kinh-mahali"
+          "link": "/kinhtruongbo/c-sujato-tmc-vi/dnc-006-kinh-mahali"
         }
       }
     }
@@ -113,11 +113,11 @@ const sujato_tmc_vi = [
         "notePath": "",
         "backlink": {
           "text": "5. KINH KÙTADANTA (CỨU-LA-ÐÀN-ÐẦU)",
-          "link": "/kinhtruongbo/c-sujato-tmc-vi/005-kinh-kutadanta-cuu-la-dan-dau"
+          "link": "/kinhtruongbo/c-sujato-tmc-vi/dnc-005-kinh-kutadanta-cuu-la-dan-dau"
         },
         "nextlink": {
           "text": "7. KINH JÀLIYA",
-          "link": "/kinhtruongbo/c-sujato-tmc-vi/007-kinh-jaliya"
+          "link": "/kinhtruongbo/c-sujato-tmc-vi/dnc-007-kinh-jaliya"
         }
       }
     }
@@ -134,11 +134,11 @@ const sujato_tmc_vi = [
         "notePath": "",
         "backlink": {
           "text": "6. KINH MAHÀLI",
-          "link": "/kinhtruongbo/c-sujato-tmc-vi/006-kinh-mahali"
+          "link": "/kinhtruongbo/c-sujato-tmc-vi/dnc-006-kinh-mahali"
         },
         "nextlink": {
           "text": "8. KINH CA-DIẾP SƯ TỬ HỐNG",
-          "link": "/kinhtruongbo/c-sujato-tmc-vi/008-kinh-ca-diep-su-tu-hong"
+          "link": "/kinhtruongbo/c-sujato-tmc-vi/dnc-008-kinh-ca-diep-su-tu-hong"
         }
       }
     }
@@ -155,11 +155,11 @@ const sujato_tmc_vi = [
         "notePath": "",
         "backlink": {
           "text": "7. KINH JÀLIYA",
-          "link": "/kinhtruongbo/c-sujato-tmc-vi/007-kinh-jaliya"
+          "link": "/kinhtruongbo/c-sujato-tmc-vi/dnc-007-kinh-jaliya"
         },
         "nextlink": {
           "text": "9. KINH POTTHAPÀDA (BỐ-SÁ-BÀ-LÂU)",
-          "link": "/kinhtruongbo/c-sujato-tmc-vi/009-kinh-potthapada-bo-sa-ba-lau"
+          "link": "/kinhtruongbo/c-sujato-tmc-vi/dnc-009-kinh-potthapada-bo-sa-ba-lau"
         }
       }
     }
@@ -176,11 +176,11 @@ const sujato_tmc_vi = [
         "notePath": "",
         "backlink": {
           "text": "8. KINH CA-DIẾP SƯ TỬ HỐNG",
-          "link": "/kinhtruongbo/c-sujato-tmc-vi/008-kinh-ca-diep-su-tu-hong"
+          "link": "/kinhtruongbo/c-sujato-tmc-vi/dnc-008-kinh-ca-diep-su-tu-hong"
         },
         "nextlink": {
           "text": "10. KINH SUBHA (TU-BÀ)",
-          "link": "/kinhtruongbo/c-sujato-tmc-vi/010-kinh-subha-tu-ba"
+          "link": "/kinhtruongbo/c-sujato-tmc-vi/dnc-010-kinh-subha-tu-ba"
         }
       }
     }
@@ -197,11 +197,11 @@ const sujato_tmc_vi = [
         "notePath": "",
         "backlink": {
           "text": "9. KINH POTTHAPÀDA (BỐ-SÁ-BÀ-LÂU)",
-          "link": "/kinhtruongbo/c-sujato-tmc-vi/009-kinh-potthapada-bo-sa-ba-lau"
+          "link": "/kinhtruongbo/c-sujato-tmc-vi/dnc-009-kinh-potthapada-bo-sa-ba-lau"
         },
         "nextlink": {
           "text": "11. KINH KEVADDHA (KIÊN CỐ)",
-          "link": "/kinhtruongbo/c-sujato-tmc-vi/011-kinh-kevaddha-kien-co"
+          "link": "/kinhtruongbo/c-sujato-tmc-vi/dnc-011-kinh-kevaddha-kien-co"
         }
       }
     }
@@ -218,11 +218,11 @@ const sujato_tmc_vi = [
         "notePath": "",
         "backlink": {
           "text": "10. KINH SUBHA (TU-BÀ)",
-          "link": "/kinhtruongbo/c-sujato-tmc-vi/010-kinh-subha-tu-ba"
+          "link": "/kinhtruongbo/c-sujato-tmc-vi/dnc-010-kinh-subha-tu-ba"
         },
         "nextlink": {
           "text": "12. KINH LOHICCA (LÔ-HI-GIA)",
-          "link": "/kinhtruongbo/c-sujato-tmc-vi/012-kinh-lohicca-lo-hi-gia"
+          "link": "/kinhtruongbo/c-sujato-tmc-vi/dnc-012-kinh-lohicca-lo-hi-gia"
         }
       }
     }
@@ -239,11 +239,11 @@ const sujato_tmc_vi = [
         "notePath": "",
         "backlink": {
           "text": "11. KINH KEVADDHA (KIÊN CỐ)",
-          "link": "/kinhtruongbo/c-sujato-tmc-vi/011-kinh-kevaddha-kien-co"
+          "link": "/kinhtruongbo/c-sujato-tmc-vi/dnc-011-kinh-kevaddha-kien-co"
         },
         "nextlink": {
           "text": "13. KINH TEVIJJA (TAM MINH)",
-          "link": "/kinhtruongbo/c-sujato-tmc-vi/013-kinh-tevijja-tam-minh"
+          "link": "/kinhtruongbo/c-sujato-tmc-vi/dnc-013-kinh-tevijja-tam-minh"
         }
       }
     }
@@ -260,11 +260,11 @@ const sujato_tmc_vi = [
         "notePath": "",
         "backlink": {
           "text": "12. KINH LOHICCA (LÔ-HI-GIA)",
-          "link": "/kinhtruongbo/c-sujato-tmc-vi/012-kinh-lohicca-lo-hi-gia"
+          "link": "/kinhtruongbo/c-sujato-tmc-vi/dnc-012-kinh-lohicca-lo-hi-gia"
         },
         "nextlink": {
           "text": "14. KINH ÐẠI BỔN",
-          "link": "/kinhtruongbo/c-sujato-tmc-vi/014-kinh-dai-bon"
+          "link": "/kinhtruongbo/c-sujato-tmc-vi/dnc-014-kinh-dai-bon"
         }
       }
     }
@@ -281,11 +281,11 @@ const sujato_tmc_vi = [
         "notePath": "",
         "backlink": {
           "text": "13. KINH TEVIJJA (TAM MINH)",
-          "link": "/kinhtruongbo/c-sujato-tmc-vi/013-kinh-tevijja-tam-minh"
+          "link": "/kinhtruongbo/c-sujato-tmc-vi/dnc-013-kinh-tevijja-tam-minh"
         },
         "nextlink": {
           "text": "15. KINH ÐẠI DUYÊN",
-          "link": "/kinhtruongbo/c-sujato-tmc-vi/015-kinh-dai-duyen"
+          "link": "/kinhtruongbo/c-sujato-tmc-vi/dnc-015-kinh-dai-duyen"
         }
       }
     }
@@ -302,11 +302,11 @@ const sujato_tmc_vi = [
         "notePath": "",
         "backlink": {
           "text": "14. KINH ÐẠI BỔN",
-          "link": "/kinhtruongbo/c-sujato-tmc-vi/014-kinh-dai-bon"
+          "link": "/kinhtruongbo/c-sujato-tmc-vi/dnc-014-kinh-dai-bon"
         },
         "nextlink": {
           "text": "16. KINH ÐẠI BÁT NIẾT BÀN",
-          "link": "/kinhtruongbo/c-sujato-tmc-vi/016-kinh-dai-bat-niet-ban"
+          "link": "/kinhtruongbo/c-sujato-tmc-vi/dnc-016-kinh-dai-bat-niet-ban"
         }
       }
     }
@@ -323,11 +323,11 @@ const sujato_tmc_vi = [
         "notePath": "",
         "backlink": {
           "text": "15. KINH ÐẠI DUYÊN",
-          "link": "/kinhtruongbo/c-sujato-tmc-vi/015-kinh-dai-duyen"
+          "link": "/kinhtruongbo/c-sujato-tmc-vi/dnc-015-kinh-dai-duyen"
         },
         "nextlink": {
           "text": "17. KINH ÐẠI THIỆN KIẾN VƯƠNG",
-          "link": "/kinhtruongbo/c-sujato-tmc-vi/017-kinh-dai-thien-kien-vuong"
+          "link": "/kinhtruongbo/c-sujato-tmc-vi/dnc-017-kinh-dai-thien-kien-vuong"
         }
       }
     }
@@ -344,11 +344,11 @@ const sujato_tmc_vi = [
         "notePath": "",
         "backlink": {
           "text": "16. KINH ÐẠI BÁT NIẾT BÀN",
-          "link": "/kinhtruongbo/c-sujato-tmc-vi/016-kinh-dai-bat-niet-ban"
+          "link": "/kinhtruongbo/c-sujato-tmc-vi/dnc-016-kinh-dai-bat-niet-ban"
         },
         "nextlink": {
           "text": "18. KINH XA-NI-SA",
-          "link": "/kinhtruongbo/c-sujato-tmc-vi/018-kinh-xa-ni-sa"
+          "link": "/kinhtruongbo/c-sujato-tmc-vi/dnc-018-kinh-xa-ni-sa"
         }
       }
     }
@@ -365,11 +365,11 @@ const sujato_tmc_vi = [
         "notePath": "",
         "backlink": {
           "text": "17. KINH ÐẠI THIỆN KIẾN VƯƠNG",
-          "link": "/kinhtruongbo/c-sujato-tmc-vi/017-kinh-dai-thien-kien-vuong"
+          "link": "/kinhtruongbo/c-sujato-tmc-vi/dnc-017-kinh-dai-thien-kien-vuong"
         },
         "nextlink": {
           "text": "19. KINH ÐẠI ÐIỂN TÔN",
-          "link": "/kinhtruongbo/c-sujato-tmc-vi/019-kinh-dai-dien-ton"
+          "link": "/kinhtruongbo/c-sujato-tmc-vi/dnc-019-kinh-dai-dien-ton"
         }
       }
     }
@@ -386,11 +386,11 @@ const sujato_tmc_vi = [
         "notePath": "",
         "backlink": {
           "text": "18. KINH XA-NI-SA",
-          "link": "/kinhtruongbo/c-sujato-tmc-vi/018-kinh-xa-ni-sa"
+          "link": "/kinhtruongbo/c-sujato-tmc-vi/dnc-018-kinh-xa-ni-sa"
         },
         "nextlink": {
           "text": "20. KINH ÐẠI HỘI",
-          "link": "/kinhtruongbo/c-sujato-tmc-vi/020-kinh-dai-hoi"
+          "link": "/kinhtruongbo/c-sujato-tmc-vi/dnc-020-kinh-dai-hoi"
         }
       }
     }
@@ -407,11 +407,11 @@ const sujato_tmc_vi = [
         "notePath": "",
         "backlink": {
           "text": "19. KINH ÐẠI ÐIỂN TÔN",
-          "link": "/kinhtruongbo/c-sujato-tmc-vi/019-kinh-dai-dien-ton"
+          "link": "/kinhtruongbo/c-sujato-tmc-vi/dnc-019-kinh-dai-dien-ton"
         },
         "nextlink": {
           "text": "21. KINH ÐẾ-THÍCH SỞ VẤN",
-          "link": "/kinhtruongbo/c-sujato-tmc-vi/021-kinh-de-thich-so-van"
+          "link": "/kinhtruongbo/c-sujato-tmc-vi/dnc-021-kinh-de-thich-so-van"
         }
       }
     }
@@ -428,11 +428,11 @@ const sujato_tmc_vi = [
         "notePath": "",
         "backlink": {
           "text": "20. KINH ÐẠI HỘI",
-          "link": "/kinhtruongbo/c-sujato-tmc-vi/020-kinh-dai-hoi"
+          "link": "/kinhtruongbo/c-sujato-tmc-vi/dnc-020-kinh-dai-hoi"
         },
         "nextlink": {
           "text": "22. KINH ÐẠI NIỆM XỨ",
-          "link": "/kinhtruongbo/c-sujato-tmc-vi/022-kinh-dai-niem-xu"
+          "link": "/kinhtruongbo/c-sujato-tmc-vi/dnc-022-kinh-dai-niem-xu"
         }
       }
     }
@@ -449,11 +449,11 @@ const sujato_tmc_vi = [
         "notePath": "",
         "backlink": {
           "text": "21. KINH ÐẾ-THÍCH SỞ VẤN",
-          "link": "/kinhtruongbo/c-sujato-tmc-vi/021-kinh-de-thich-so-van"
+          "link": "/kinhtruongbo/c-sujato-tmc-vi/dnc-021-kinh-de-thich-so-van"
         },
         "nextlink": {
           "text": "23. KINH TỆ-TÚC",
-          "link": "/kinhtruongbo/c-sujato-tmc-vi/023-kinh-te-tuc"
+          "link": "/kinhtruongbo/c-sujato-tmc-vi/dnc-023-kinh-te-tuc"
         }
       }
     }
@@ -470,11 +470,11 @@ const sujato_tmc_vi = [
         "notePath": "",
         "backlink": {
           "text": "22. KINH ÐẠI NIỆM XỨ",
-          "link": "/kinhtruongbo/c-sujato-tmc-vi/022-kinh-dai-niem-xu"
+          "link": "/kinhtruongbo/c-sujato-tmc-vi/dnc-022-kinh-dai-niem-xu"
         },
         "nextlink": {
           "text": "24. KINH BA-LÊ",
-          "link": "/kinhtruongbo/c-sujato-tmc-vi/024-kinh-ba-le"
+          "link": "/kinhtruongbo/c-sujato-tmc-vi/dnc-024-kinh-ba-le"
         }
       }
     }
@@ -491,11 +491,11 @@ const sujato_tmc_vi = [
         "notePath": "",
         "backlink": {
           "text": "23. KINH TỆ-TÚC",
-          "link": "/kinhtruongbo/c-sujato-tmc-vi/023-kinh-te-tuc"
+          "link": "/kinhtruongbo/c-sujato-tmc-vi/dnc-023-kinh-te-tuc"
         },
         "nextlink": {
           "text": "25. KINH ƯU-ÐÀM-BÀ-LA SƯ TỬ HỐNG",
-          "link": "/kinhtruongbo/c-sujato-tmc-vi/025-kinh-uu-dam-ba-la-su-tu-hong"
+          "link": "/kinhtruongbo/c-sujato-tmc-vi/dnc-025-kinh-uu-dam-ba-la-su-tu-hong"
         }
       }
     }
@@ -512,11 +512,11 @@ const sujato_tmc_vi = [
         "notePath": "",
         "backlink": {
           "text": "24. KINH BA-LÊ",
-          "link": "/kinhtruongbo/c-sujato-tmc-vi/024-kinh-ba-le"
+          "link": "/kinhtruongbo/c-sujato-tmc-vi/dnc-024-kinh-ba-le"
         },
         "nextlink": {
           "text": "26. KINH CHUYỂN LUÂN THÁNH VƯƠNG SƯ TỬ HỐNG",
-          "link": "/kinhtruongbo/c-sujato-tmc-vi/026-kinh-chuyen-luan-thanh-vuong-su-tu-hong"
+          "link": "/kinhtruongbo/c-sujato-tmc-vi/dnc-026-kinh-chuyen-luan-thanh-vuong-su-tu-hong"
         }
       }
     }
@@ -533,11 +533,11 @@ const sujato_tmc_vi = [
         "notePath": "",
         "backlink": {
           "text": "25. KINH ƯU-ÐÀM-BÀ-LA SƯ TỬ HỐNG",
-          "link": "/kinhtruongbo/c-sujato-tmc-vi/025-kinh-uu-dam-ba-la-su-tu-hong"
+          "link": "/kinhtruongbo/c-sujato-tmc-vi/dnc-025-kinh-uu-dam-ba-la-su-tu-hong"
         },
         "nextlink": {
           "text": "27. KINH KHỞI THẾ NHÂN BỔN",
-          "link": "/kinhtruongbo/c-sujato-tmc-vi/027-kinh-khoi-the-nhan-bon"
+          "link": "/kinhtruongbo/c-sujato-tmc-vi/dnc-027-kinh-khoi-the-nhan-bon"
         }
       }
     }
@@ -554,11 +554,11 @@ const sujato_tmc_vi = [
         "notePath": "",
         "backlink": {
           "text": "26. KINH CHUYỂN LUÂN THÁNH VƯƠNG SƯ TỬ HỐNG",
-          "link": "/kinhtruongbo/c-sujato-tmc-vi/026-kinh-chuyen-luan-thanh-vuong-su-tu-hong"
+          "link": "/kinhtruongbo/c-sujato-tmc-vi/dnc-026-kinh-chuyen-luan-thanh-vuong-su-tu-hong"
         },
         "nextlink": {
           "text": "28. KINH TỰ HOAN HỶ",
-          "link": "/kinhtruongbo/c-sujato-tmc-vi/028-kinh-tu-hoan-hy"
+          "link": "/kinhtruongbo/c-sujato-tmc-vi/dnc-028-kinh-tu-hoan-hy"
         }
       }
     }
@@ -575,11 +575,11 @@ const sujato_tmc_vi = [
         "notePath": "",
         "backlink": {
           "text": "27. KINH KHỞI THẾ NHÂN BỔN",
-          "link": "/kinhtruongbo/c-sujato-tmc-vi/027-kinh-khoi-the-nhan-bon"
+          "link": "/kinhtruongbo/c-sujato-tmc-vi/dnc-027-kinh-khoi-the-nhan-bon"
         },
         "nextlink": {
           "text": "29. KINH THANH TỊNH",
-          "link": "/kinhtruongbo/c-sujato-tmc-vi/029-kinh-thanh-tinh"
+          "link": "/kinhtruongbo/c-sujato-tmc-vi/dnc-029-kinh-thanh-tinh"
         }
       }
     }
@@ -596,11 +596,11 @@ const sujato_tmc_vi = [
         "notePath": "",
         "backlink": {
           "text": "28. KINH TỰ HOAN HỶ",
-          "link": "/kinhtruongbo/c-sujato-tmc-vi/028-kinh-tu-hoan-hy"
+          "link": "/kinhtruongbo/c-sujato-tmc-vi/dnc-028-kinh-tu-hoan-hy"
         },
         "nextlink": {
           "text": "30. KINH TƯỚNG",
-          "link": "/kinhtruongbo/c-sujato-tmc-vi/030-kinh-tuong"
+          "link": "/kinhtruongbo/c-sujato-tmc-vi/dnc-030-kinh-tuong"
         }
       }
     }
@@ -617,11 +617,11 @@ const sujato_tmc_vi = [
         "notePath": "",
         "backlink": {
           "text": "29. KINH THANH TỊNH",
-          "link": "/kinhtruongbo/c-sujato-tmc-vi/029-kinh-thanh-tinh"
+          "link": "/kinhtruongbo/c-sujato-tmc-vi/dnc-029-kinh-thanh-tinh"
         },
         "nextlink": {
           "text": "31. KINH GIÁO THỌ THI-CA-LA-VIỆT",
-          "link": "/kinhtruongbo/c-sujato-tmc-vi/031-kinh-giao-tho-thi-ca-la-viet"
+          "link": "/kinhtruongbo/c-sujato-tmc-vi/dnc-031-kinh-giao-tho-thi-ca-la-viet"
         }
       }
     }
@@ -638,11 +638,11 @@ const sujato_tmc_vi = [
         "notePath": "",
         "backlink": {
           "text": "30. KINH TƯỚNG",
-          "link": "/kinhtruongbo/c-sujato-tmc-vi/030-kinh-tuong"
+          "link": "/kinhtruongbo/c-sujato-tmc-vi/dnc-030-kinh-tuong"
         },
         "nextlink": {
           "text": "32. KINH A-SÁ-NANG-CHI",
-          "link": "/kinhtruongbo/c-sujato-tmc-vi/032-kinh-a-sa-nang-chi"
+          "link": "/kinhtruongbo/c-sujato-tmc-vi/dnc-032-kinh-a-sa-nang-chi"
         }
       }
     }
@@ -659,11 +659,11 @@ const sujato_tmc_vi = [
         "notePath": "",
         "backlink": {
           "text": "31. KINH GIÁO THỌ THI-CA-LA-VIỆT",
-          "link": "/kinhtruongbo/c-sujato-tmc-vi/031-kinh-giao-tho-thi-ca-la-viet"
+          "link": "/kinhtruongbo/c-sujato-tmc-vi/dnc-031-kinh-giao-tho-thi-ca-la-viet"
         },
         "nextlink": {
           "text": "33. KINH PHÚNG TỤNG",
-          "link": "/kinhtruongbo/c-sujato-tmc-vi/033-kinh-phung-tung"
+          "link": "/kinhtruongbo/c-sujato-tmc-vi/dnc-033-kinh-phung-tung"
         }
       }
     }
@@ -680,11 +680,11 @@ const sujato_tmc_vi = [
         "notePath": "",
         "backlink": {
           "text": "32. KINH A-SÁ-NANG-CHI",
-          "link": "/kinhtruongbo/c-sujato-tmc-vi/032-kinh-a-sa-nang-chi"
+          "link": "/kinhtruongbo/c-sujato-tmc-vi/dnc-032-kinh-a-sa-nang-chi"
         },
         "nextlink": {
           "text": "34. KINH THẬP THƯỢNG",
-          "link": "/kinhtruongbo/c-sujato-tmc-vi/034-kinh-thap-thuong"
+          "link": "/kinhtruongbo/c-sujato-tmc-vi/dnc-034-kinh-thap-thuong"
         }
       }
     }
@@ -701,7 +701,7 @@ const sujato_tmc_vi = [
         "notePath": "",
         "backlink": {
           "text": "33. KINH PHÚNG TỤNG",
-          "link": "/kinhtruongbo/c-sujato-tmc-vi/033-kinh-phung-tung"
+          "link": "/kinhtruongbo/c-sujato-tmc-vi/dnc-033-kinh-phung-tung"
         },
         "nextlink": false
       }
