@@ -133,7 +133,9 @@ Ví dụ: **Bảng thuật ngữ**:
 | ý thức (manoviññāṇa)| 'Cái Biết' ở trí não | |
 | nhãn thức | 'cái biết' ở mắt | |
 | nhãn căn | giác quan mắt | |
-| Căn | Giác quan | |
+| ngũ căn (pañcindriyāni) | năm giác quan | ở trong: mắt, tai, mũi, miệng, thân |
+| ngũ căn (pañcindriyāni) | năm năng lực tinh thần | ở trong: tín, tấn, niệm, định, tuệ |
+| ngũ lực (pañcabalāni ) | năm sức mạnh | |
 | không vô biên xứ  (Ākāsānañcāyatana) | cõi Không Gian là Vô Tận | |
 | thức vô biên xứ | cõi 'Cái Biết' là Vô Tận | |
 | vô sở hữu xứ  | cõi Không Có Vật Gì | |
@@ -165,8 +167,8 @@ Ví dụ: **Bảng thuật ngữ**:
 | thọ lạc (sukha-vedanā) | cảm giác dễ chịu | cho ngữ cảnh của vedanā; "cảm giác dễ chịu" nói chung; thọ lạc, nghiêng về thân |
 | thọ khổ (dukkha-vedanā) | cảm giác khó chịu | cho ngữ cảnh của vedanā; "cảm giác khó chịu" nói chung; thọ khổ, nghiêng về thân |
 | hữu (bhava) | cõi tồn tại | dùng trong các cảnh giới tái sanh; "bhavataṇhā->khao khát tồn tại";"bhavadiṭṭhi->quan điểm tồn tại mãi mãi"; "vibhavadiṭṭhi"->"quan điểm hư vô" |
-| liễu tri (pariññāta) | hiểu biết hoàn toàn | |
-| thắng tri (abhijānāti) | hiểu biết trực tiếp | |
+| liễu tri (pariññāta) | hiểu hoàn toàn | |
+| thắng tri (abhijānāti) | thấu hiểu trực tiếp | |
 | (phi) như lý tác ý (yoniso manasikāra) | (không) tìm hiểu nguyên nhân gốc rễ | suy nghĩ và tìm hiểu vấn đề đến gốc rễ (hiểu đến nguyên lý, không thể đi xa hơn được). |
 | paṭisaṅkhā yoniso | thận trọng suy xét |  |
 | tỉnh giác (sampajāno)| (sự) nhận biết rõ ràng | |
@@ -189,8 +191,8 @@ Ví dụ: **Bảng thuật ngữ**:
 | 12 nhân duyên (dvādasa nidānāni) | Chuỗi 12 nhân quả | |
 | thức (viññāṇa) | 'Cái Biết'; 'Cái Biết' (đi tái sinh) | "'Cái Biết' (đi tái sinh)" dùng trong 12 nhân duyên |
 | danh–sắc(Nāma-rūpa) | Danh–sắc | |
-| xứ (āyatana) | xứ | |
-| lục nhập (saḷāyatana) | sáu Xứ | 12 nội ngoại xứ |
+| xứ (āyatana) | trường | |
+| lục nhập (saḷāyatana) | sáu Trường giao tiếp | "Lục nội xứ->sáu trường trong" , Lục ngoại xứ 12 nội ngoại xứ |
 | xúc (phassa) | Xúc |  "paṭighasamphassa->xúc-qua va chạm vật lý"; "adhivacanasamphassa->xúc-qua khái niệm" |
 | chế định (paññatti) | đặt tên | sự đặt tên, tạo khái niệm trong não |
 | ái (taṇhā) | yêu thích | |
@@ -198,41 +200,42 @@ Ví dụ: **Bảng thuật ngữ**:
 | hữu (bhava) | Mầm sinh | dùng trong Duyên khởi |
 | sinh (jāti) | sự Tái sinh | |
 | lão–tử(Jarā-maraṇa) | già-chết | |
-| chướng ngại (Āvaraṇīya) | Yếu mờ | |
-| tham (lobha) | Ám ảnh dễ chịu | |
-| sân (dosa) | Ám ảnh khó chịu | |
+| chướng ngại (Āvaraṇīya) | yếu mờ | |
+| tham (lobha) | ám ảnh dễ chịu | |
+| sân (dosa) | ám ảnh khó chịu | |
 | si (moha) | Sự u mê | |
-| niệm (sati/sato) | trí nhớ không quên | |
+| niệm (sati/sato) | Trí nhớ không quên | |
+| tứ niệm xứ (Cattāro Satipaṭṭhānā /Satipaṭṭhāna) | "Sự nhớ không quên" ở bốn nơi | |
 | chánh niệm tỉnh giác (satisampajaññena) | nhớ không quên và nhận biết rõ ràng | |
-| chánh niệm(satimā / Satimant)| có trí nhớ không quên | |
-| thiết lập niệm (satipaṭṭhāna) | thiết lập trí nhớ không quên | |
-| niệm hơi thở (Ānāpānassati) | nhớ không quên về hơi thở | |
+| chánh niệm(satimā / Satimant)| có Trí nhớ không quên | |
+| thiết lập niệm (satipaṭṭhāna) | thiết lập Trí nhớ không quên | |
+| niệm hơi thở (Ānāpānassati) | Trí nhớ không quên về hơi thở | |
 | ái dục (abhijjhā) | lòng tham |
 | Tứ Thánh Đế (Cattāri Ariya-saccāni) | Bốn Thánh Đế | |
 | Khổ đế(Dukkha-sacca) | Thánh đế về đau khổ | |
 | Tập đế(Samudaya-sacca) | Thánh đế về sự hình thành của đau khổ | |
 | Diệt đế(Nirodha-sacca) | Thánh đế về sự chấm dứt đau khổ | |
 | Đạo đế(Magga-sacca) | Thánh đế về con đường đưa đến chấm dứt đau khổ | |
-| Bát Thánh Đạo (Ariya Aṭṭhaṅgika Magga) | Tám Bước Thiện | |
+| Bát chánh đạo (Ariya Aṭṭhaṅgika Magga) | Tám Bước Thiện | |
 | pháp (dhamma) | Điều; mọi Điều; Điều dạy; Quy luật | "pháp ác->Điều ác";"pháp của bực thánh->'Điều dạy' của bậc thánh"; "ý với các pháp->não với mọi Điều"; "quán pháp trên pháp với lục nhập->quan sát các quy luật trên sáu trường";|
 | phi pháp (adhammā) | Điều sai | hoặc "những Điều sai"|
-| pháp thiện và bất thiện(Kusalākusalā dhammā) | những điều thiện và không thiện | |
-| Chánh kiến(Sammā-diṭṭhi) | Nhìn Thấy Thiện | |
-| Chánh tư duy(Sammā-saṅkappa) | Suy Nghĩ Thiện | |
-| Chánh ngữ(Sammā-vācā) | Lời Nói Thiện | |
-| Chánh nghiệp(Sammā-kammanta) | Hành Động Thiện | |
-| Chánh mạng(Sammā-ājīva) | Đời Sống Thiện | |
+| pháp thiện và bất thiện (Kusalākusalā dhammā) | những điều thiện và không thiện | |
+| Chánh kiến(Sammā-diṭṭhi) | Nhìn thấy Thiện | |
+| Chánh tư duy(Sammā-saṅkappa) | Suy nghĩ Thiện | |
+| Chánh ngữ(Sammā-vācā) | Lời nói Thiện | |
+| Chánh nghiệp(Sammā-kammanta) | Hành động Thiện | |
+| Chánh mạng(Sammā-ājīva) | Đời sống Thiện | |
 | Chánh tinh tấn(Sammā-vāyāma) | Nỗ lực Thiện | |
-| Chánh niệm (Sammā-sati) | Sự Thấy không quên Thiện | |
+| Chánh niệm (Sammā-sati) | Trí nhớ không quên Thiện | |
 | Chánh định(Sammā-samādhi) | Định thiện | |
-| Thất Giác Chi (Satta Bojjhaṅgā) | Bảy Dấu hiệu Của Giác Ngộ | |
-| Niệm giác chi(Sati-sambojjhaṅga) | Dấu hiệu sự nhớ không quên  | |
-| Trạch pháp giác chi(Dhamma-vicaya-sambojjhaṅga) | Dấu hiệu khả năng tìm hiểu-phân tích | |
-| Tinh tấn giác chi(Viriya-sambojjhaṅga) | Dấu hiệu Nỗ Lực | |
-| Hỷ giác chi(Pīti-sambojjhaṅga) | Dấu hiệu sự hân hoan | |
+| Thất Giác Chi (Satta Bojjhaṅgā) | Bảy Dấu hiệu Của Giác ngộ | |
+| Niệm giác chi(Sati-sambojjhaṅga) | dấu hiệu trí nhớ không quên  | |
+| Trạch pháp giác chi(Dhamma-vicaya-sambojjhaṅga) | dấu hiệu khả năng tìm hiểu-phân tích | |
+| Tinh tấn giác chi(Viriya-sambojjhaṅga) | dấu hiệu Nỗ Lực | |
+| Hỷ giác chi(Pīti-sambojjhaṅga) | dấu hiệu sự hân hoan | |
 | Khinh an giác chi(Passaddhi-sambojjhaṅga) | Dấu hiệu cơ thể lắng dịu | |
-| Định giác chi(Samādhi-sambojjhaṅga) | Dấu hiệu Định | |
-| Xả giác chi(Upekkhā-sambojjhaṅga) | Dấu hiệu Tâm cân bằng | |
+| Định giác chi(Samādhi-sambojjhaṅga) | dấu hiệu Định | |
+| Xả giác chi(Upekkhā-sambojjhaṅga) | dấu hiệu Tâm cân bằng | |
 | 5 triền cái (Pañca Nīvaraṇāni) | Năm điều làm mờ yếu | |
 | dục tham(Kāmacchanda) | mong muốn sự dễ chịu giác quan  | |
 | sân hận(Byāpāda) | ác ý hãm hại | |
@@ -250,7 +253,6 @@ Ví dụ: **Bảng thuật ngữ**:
 | Mạn(Māna) | Ngạo mạn | |
 | Trạo cử(Uddhacca) | Bồn chồn | |
 | Vô minh(Avijjā) | Không Hiểu Biết | |
-| tứ niệm xứ (Cattāro Satipaṭṭhānā) | bốn nơi nhớ không quên | |
 | quán thân trên thân | quan sát cơ thể qua cơ thể của mình | |
 | quán thọ trên thọ | quan sát cảm giác qua cảm giác của mình | |
 | quán tâm trên tâm | quan sát tâm qua tâm của mình | |
@@ -279,6 +281,9 @@ Ví dụ: **Bảng thuật ngữ**:
 | không phóng dật (appamāda) | sáng suốt | ngược lại của mê muội (pamāda) |
 | assāsappattā | an tịnh | |
 | ādibrahmacariya | cốt lõi đời sống thánh thiện | "ādibrahmacariyassa->cốt lõi của đời sống thánh thiện" |
+| iddhipādā | cổng thần thông | |
+| pasanno | niềm tin tuyệt đối | |
+| sammappadhānā | Siêng năng thiện |
 </Vocabulary-Mapping>
 
 ### 4.1 Những từ giữ nguyên

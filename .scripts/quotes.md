@@ -72,3 +72,33 @@ http://localhost:5173/kinhtruongbo/c-pali-tmc-vi/dnc-025-kinh-uu-dam-ba-la-su-tu
 
 http://localhost:5173/kinhtruongbo/c-pali-tmc-vi/dnc-025-kinh-uu-dam-ba-la-su-tu-hong.html#4-su-boi-roi-cua-nigrodha-nigrodhassapajjhayana
 'Thế Tôn ấy đã giác ngộ, Ngài giảng dạy *Điều dạy* để dẫn đến sự giác ngộ; Thế Tôn ấy đã được huấn luyện, Ngài giảng dạy *Điều dạy* để dẫn đến sự huấn luyện; Thế Tôn ấy đã tĩnh lặng, Ngài giảng dạy *Điều dạy* để dẫn đến sự tĩnh lặng; Thế Tôn ấy đã vượt qua, Ngài giảng dạy *Điều dạy* để dẫn đến sự vượt qua; Thế Tôn ấy đã hoàn toàn dập tắt, Ngài giảng dạy *Điều dạy* để dẫn đến sự hoàn toàn dập tắt'
+
+
+http://localhost:5173/kinhtruongbo/c-pali-tmc-vi/dnc-029-kinh-thanh-tinh.html#9-su-theo-duoi-khoai-lac-sukhallikanuyoga
+Này Cunda, có bốn sự theo đuổi khoái lạc này hoàn toàn dẫn đến sự chán ngán, sự cạn hết đắm nhiễm, sự chấm dứt, sự lắng dịu, sự thấu hiểu trực tiếp, sự giác ngộ, sự Niết-bàn. Bốn điều đó là gì?
+
+Ở đây, này Cunda, tỳ-kheo hoàn toàn rời-bỏ khỏi sự dễ chịu giác quan, hoàn toàn rời-bỏ khỏi những điều không thiện, đạt được và an trú trong Thiền-na (jhāna) thứ nhất, trạng thái có chủ động hướng sự chú ý và nỗ lực duy trì sự chú ý, có sự hân hoan (hỷ / pīti) và hạnh phúc (lạc / sukha) sinh ra từ sự rời-bỏ. Đây là sự theo đuổi khoái lạc thứ nhất.
+
+http://localhost:5173/kinhtruongbo/c-pali-tmc-vi/dnc-029-kinh-thanh-tinh.html#10-loi-ich-cua-su-theo-duoi-khoai-lac-sukhallikanuyoganisamsa
+Ở đây, này hiền giả, tỳ-kheo do sự cạn kiệt của ba sợi dây trói buộc, trở thành người bước vào dòng chảy (tu-đà-hoàn / sotāpanna), không còn chịu quy luật rơi vào cõi thấp, chắc chắn hướng đến giác ngộ. Đây là kết quả thứ nhất, lợi ích thứ nhất.
+
+http://localhost:5173/kinhtruongbo/c-pali-tmc-vi/dnc-029-kinh-thanh-tinh.html#10-loi-ich-cua-su-theo-duoi-khoai-lac-sukhallikanuyoganisamsa
+Lại nữa, này hiền giả, tỳ-kheo do sự cạn kiệt của ba sợi dây trói buộc, và do sự làm mỏng đi sự đắm nhiễm, ghét bỏ và u mê, trở thành người quay lại một lần (tư-đà-hàm / sakadāgāmī), chỉ quay lại thế giới này một lần nữa rồi làm hết sạch (diệt / anta) đau khổ. Đây là kết quả thứ hai, lợi ích thứ hai.
+
+http://localhost:5173/kinhtruongbo/c-pali-tmc-vi/dnc-029-kinh-thanh-tinh.html#10-loi-ich-cua-su-theo-duoi-khoai-lac-sukhallikanuyoganisamsa
+Lại nữa, này hiền giả, tỳ-kheo do sự cạn kiệt của năm sợi dây trói buộc thuộc cõi thấp, trở thành người sinh ra tự nhiên (hóa sanh / opapātika), nhập Niết-bàn tại đó, không còn chịu quy luật quay trở lại từ thế giới đó. Đây là kết quả thứ ba, lợi ích thứ ba.
+
+http://localhost:5173/kinhtruongbo/c-pali-tmc-vi/dnc-029-kinh-thanh-tinh.html#10-loi-ich-cua-su-theo-duoi-khoai-lac-sukhallikanuyoganisamsa
+Lại nữa, này hiền giả, tỳ-kheo do sự cạn kiệt của các nguồn ác, tự mình thấu hiểu trực tiếp, chứng ngộ và an trú ngay trong hiện tại sự giải thoát của tâm, sự giải thoát bằng trí tuệ không còn nguồn ác. Đây là kết quả thứ tư, lợi ích thứ tư.
+
+http://localhost:5173/kinhtruongbo/c-pali-tmc-vi/dnc-029-kinh-thanh-tinh.html#11-nhung-dieu-nguoi-da-sach-nguon-ac-khong-the-lam-khinasavaabhabbathana
+Này chư hiền, tỳ-kheo đã sạch nguồn ác không thể cố ý tước đoạt mạng sống của sinh vật; tỳ-kheo đã sạch nguồn ác không thể lấy của không cho, tức là trộm cắp; tỳ-kheo đã sạch nguồn ác không thể thực hành hành vi giao cấu; tỳ-kheo đã sạch nguồn ác không thể cố ý nói dối; tỳ-kheo đã sạch nguồn ác không thể cất giữ đồ vật để thụ hưởng sự dễ chịu giác quan như trước đây khi còn là người tại gia; tỳ-kheo đã sạch nguồn ác không thể hành động thiên vị vì mong muốn; tỳ-kheo đã sạch nguồn ác không thể hành động thiên vị vì ghét bỏ; tỳ-kheo đã sạch nguồn ác không thể hành động thiên vị vì u mê; tỳ-kheo đã sạch nguồn ác không thể hành động thiên vị vì sợ hãi.
+
+
+http://localhost:5173/kinhtruongbo/c-pali-tmc-vi/dnc-029-kinh-thanh-tinh.html#12-tra-loi-cac-cau-hoi-panhabyakarana
+Này Cunda, liên quan đến thời quá khứ, Người Đến Như Vậy (Như Lai / tathāgata) có cái biết nhớ lại quá khứ (túc mạng trí / satānusāriñāṇa); ngài nhớ lại bao nhiêu tùy theo ý muốn.
+
+Và liên quan đến thời tương lai, cái biết sinh ra từ sự thức tỉnh (bồ-đề trí / bodhijaṁ ñāṇaṁ) khởi lên nơi Người Đến Như Vậy: ‘Đây là lần sinh cuối cùng, nay không còn sự tái sinh nào nữa.’
+
+http://localhost:5173/kinhtruongbo/c-pali-tmc-vi/dnc-029-kinh-thanh-tinh.html#12-tra-loi-cac-cau-hoi-panhabyakarana
+Và này Cunda, từ đêm Người Đến Như Vậy giác ngộ hoàn toàn sự giác ngộ tối thượng, cho đến đêm ngài nhập Niết-bàn vào giới hạn Niết-bàn không còn dư tàn, bất cứ điều gì ngài nói, thốt ra, chỉ dẫn trong khoảng thời gian đó. Tất cả đều đúng như vậy, không khác đi, do đó được gọi là ‘Người Đến Như Vậy’.

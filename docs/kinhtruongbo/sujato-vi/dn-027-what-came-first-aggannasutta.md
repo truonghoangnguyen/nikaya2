@@ -376,6 +376,7 @@ giống họ, không phải không giống; nhờ vào Pháp, không phải trá
 Vì Pháp, này Vāseṭṭha, là điều cao quý nhất cho mọi người trong cả đời này
 và đời sau.
 
+<!--pg-->
 ## 14. Về Hành Vi Xấu
 
 Một người quý tộc, Bà-la-môn, nông dân, tiện dân, hoặc sa-môn có thể làm những điều xấu
@@ -394,6 +395,7 @@ qua thân, khẩu, và ý. Họ có kiến giải hỗn hợp, và họ hành đ
 dựa trên kiến giải hỗn hợp đó. Và vì thế, khi thân hoại mạng chung,
 sau khi chết, họ trải nghiệm cả lạc và khổ.
 
+<!--pg-->
 ## 15. Những Phẩm Chất Dẫn Đến Giác Ngộ
 
 Một người quý tộc, Bà-la-môn, nông dân, tiện dân, hoặc sa-môn, người thu thúc

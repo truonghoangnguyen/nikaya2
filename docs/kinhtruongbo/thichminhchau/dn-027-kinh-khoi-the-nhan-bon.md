@@ -1,7 +1,7 @@
 # 27. KINH KHỞI THẾ NHÂN BỔN
 **_(Agganna Sutta)_**
 
-## Như vầy tôi nghe:
+Như vầy tôi nghe:
 
 1\. Một thời Thế Tôn trú tại Sàvatthi (Xá-vệ), Pubbàràma (Thành Tín Viên lâm), ở lầu của Migà ramàtu
 (Lộc Mẫu Giảng đường). Lúc bấy giờ, Vàsettha và Bhàradvàjà sống giữa các vị Tỷ kheo và muốn trở
@@ -357,6 +357,7 @@ giai cấp Samana (Sa môn) được khởi lên từ bốn giai cấp ấy. Ngu
 hữu tình ấy, không ở ngoài loại nào khác, một cách đúng phép tắc, không phải phi pháp. Này Vàsettha,
 như vậy Pháp là tối thượng ở đời, trong hiện tại và cả cho đời sau.
 
+<!--pg-->
 27\. Này Vàsettha,vị Khattiya, làm tà hạnh về thân, làm tà hạnh về miệng, làm tà hạnh về ý, có tà kiến.
 Do tà kiến, tà nghiệp làm nhơn duyên, sau khi thân hoại mạng chung sanh vào khổ giới, ác thú, đọa xứ,
 địa ngục. Này Vàsettha, vị Bà-la-môn ... Này Vàsettha,vị Vessà ... Này Vàsettha, vị Suddà làm tà hạnh
@@ -376,6 +377,7 @@ Suddà, làm hai hạnh về thân, hai hạnh về miệng, hai hạnh về ý,
 chánh kiến tà kiến, chánh hạnh tà hạnh lẫn lộn làm nhơn duyên, sau khi thân hoại mạng chung, thọ lãnh
 lạc và khổ thọ.
 
+<!--pg-->
 30\. Này Vàsettha, vị Khattiya, chế ngự về thân, chế ngự về miệng, chế ngự về ý, sau khi tu tập Bảy pháp
 Giác chi đã diệt trừ hoàn toàn (các ác pháp) ngay trong đời hiện tại. Này Vàsettha, vị Bà-la-môn... vị
 Vessà... Này Vàsettha vị Suddà, chế ngự về thân, chế ngự về miệng, chế ngự về ý, sau khi tu tập Bảy

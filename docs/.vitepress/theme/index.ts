@@ -1,6 +1,6 @@
 import Theme from 'vitepress/theme'
-import { h, onMounted } from 'vue'  // thêm watch
-import { useRoute } from 'vitepress'        // thêm useRoute
+import { h, onMounted, watch } from 'vue'
+import { useRoute } from 'vitepress'
 
 // import TranslationCompare from '../components/TranslationCompare.vue'
 // import ChapterCompare from '../components/ChapterCompare.vue'
@@ -21,7 +21,24 @@ export default {
   setup() {
     const route = useRoute()
 
+    // Lưu path hiện tại để SearchPage biết đường quay lại.
+    // Bỏ qua /search và mọi biến thể (search.html, /search?q=...).
+    const isSearchPath = (p: string) =>
+      p === '/search' || p === '/search.html' ||
+      p.endsWith('/search') || p.endsWith('/search.html')
+
+    const saveBackUrl = () => {
+      if (typeof window === 'undefined') return
+      const path = window.location.pathname
+      if (isSearchPath(path)) return
+      const full = path + window.location.search + window.location.hash
+      localStorage.setItem('search-back-url', full)
+    }
+
     onMounted(() => {
+      // Lưu path lần đầu cold load
+      saveBackUrl()
+
       // Xử lý lần đầu cold load (sau khi hydration xong)
       const scrollToHash = () => {
         const hash = window.location.hash
@@ -38,6 +55,9 @@ export default {
 
       scrollToHash()
     })
+
+    // SPA navigation: cập nhật mỗi lần đổi route (trừ vào /search)
+    watch(() => route.path, saveBackUrl)
   },
   enhanceApp({ app }) {
     //app.component('TranslationCompare', TranslationCompare)

@@ -83,14 +83,17 @@ Hơn nữa, một sa môn hay bà la môn nào đó trải nghiệm trạng thá
 
 Đây là điều vô song khi nói về các thành tựu về mắt nhìn.
 
+<!--pg-->
 ### 1.6. Mô Tả Các Hạng Người
 
 Hơn nữa, bạch Thế Tôn, cách Đức Phật giảng dạy về việc mô tả các hạng người là vô song. Có bảy hạng người này: người được giải thoát cả hai phần, người được giải thoát bằng trí tuệ, người thân chứng, người đạt đến kiến, người được giải thoát bằng niềm tin, người tùy pháp hành, người tùy tín hành.[170](/kinhtruongbo/sujato-vi/notes/28#170){.note} Đây là điều vô song khi nói về việc mô tả các hạng người.
 
+<!--pg-->
 ### 1.7. Các Loại Nỗ Lực
 
 Hơn nữa, bạch Thế Tôn, cách Đức Phật giảng dạy về các loại nỗ lực là vô song. Có bảy giác chi này: niệm giác chi, trạch pháp giác chi, tấn giác chi, hỷ giác chi, *khinh an* (tranquility / sự yên ổn) giác chi, định giác chi, và xả giác chi.[171](/kinhtruongbo/sujato-vi/notes/28#171){.note} Đây là điều vô song khi nói về các loại nỗ lực.
 
+<!--pg-->
 ### 1.8. Các Cách Thực Hành
 
 Hơn nữa, bạch Thế Tôn, cách Đức Phật giảng dạy về các cách thực hành là vô song.[172](/kinhtruongbo/sujato-vi/notes/28#172){.note}
@@ -169,6 +172,7 @@ Bạch Thế Tôn, nếu họ hỏi con, 'Thưa Tôn giả Xá Lợi Phất, có
 
 Nhưng nếu họ hỏi con, 'Thưa Tôn giả Xá Lợi Phất, có sa môn hay bà la môn nào khác—dù trong quá khứ hay tương lai—có thắng trí về sự giác ngộ ngang bằng với Đức Phật không?' Con sẽ trả lời họ là 'Có.' Nhưng nếu họ hỏi: 'Thưa Tôn giả Xá Lợi Phất, có sa môn hay bà la môn nào khác ở hiện tại có thắng trí về sự giác ngộ ngang bằng với Đức Phật không?' Con sẽ trả lời họ là 'Không.'
 
+<!--pg-->
 Nhưng nếu họ hỏi con, 'Nhưng tại sao Tôn giả Xá Lợi Phất lại thừa nhận điều này đối với một số trường hợp mà không phải những trường hợp khác?' Con sẽ trả lời họ như thế này,[186](/kinhtruongbo/sujato-vi/notes/28#186){.note} 'Thưa các Tôn giả, tôi đã nghe và học điều này trực tiếp từ Đức Phật: "Các bậc A-la-hán, các vị Phật Chánh Đẳng Chánh Giác trong quá khứ có sự giác ngộ ngang bằng với chính tôi."[187](/kinhtruongbo/sujato-vi/notes/28#187){.note} Và tôi đã nghe và học điều này trực tiếp từ Đức Phật: "Các bậc A-la-hán, các vị Phật Chánh Đẳng Chánh Giác trong tương lai sẽ có sự giác ngộ ngang bằng với chính tôi." Và tôi cũng đã nghe và học điều này trực tiếp từ Đức Phật: "Không thể có trường hợp hai vị A-la-hán, Chánh Đẳng Chánh Giác cùng xuất hiện trong một thế giới hệ vào cùng một thời điểm."'[188](/kinhtruongbo/sujato-vi/notes/28#188){.note}
 
 Khi trả lời như vậy, con tin rằng con đã lặp lại những gì Đức Phật đã nói, và không xuyên tạc ngài bằng một lời nói dối. Con tin rằng lời giải thích của con phù hợp với giáo pháp, và không có cơ sở chính đáng nào để phản bác hay chỉ trích."

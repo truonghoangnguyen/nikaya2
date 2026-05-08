@@ -12,13 +12,14 @@
           type="text"
           placeholder="Tìm kiếm kinh văn... (vd: MN 1, Tứ Niệm Xứ)"
           class="search-input"
-          @keydown.escape="query = ''"
+          @keydown.escape.stop.prevent="onEscape"
         />
-        <button v-if="query" class="clear-btn" @click="query = ''">
+        <button v-if="query" class="clear-btn" title="Xoá từ khoá" @click="query = ''">
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
             <path d="M18 6L6 18M6 6l12 12"/>
           </svg>
         </button>
+        <button class="close-btn" title="Đóng (Esc)" @click="goBack">close</button>
       </div>
 
       <div class="search-meta">
@@ -61,7 +62,7 @@
 </template>
 
 <script setup>
-import { ref, computed, onMounted, nextTick, watch, shallowRef } from 'vue'
+import { ref, computed, onMounted, onUnmounted, nextTick, watch, shallowRef } from 'vue'
 import { useRoute, useRouter } from 'vitepress'
 import Fuse from 'fuse.js'
 
@@ -109,7 +110,40 @@ onMounted(() => {
   nextTick(() => {
     searchInput.value?.focus()
   })
+
+  window.addEventListener('keydown', handleGlobalEscape)
 })
+
+onUnmounted(() => {
+  window.removeEventListener('keydown', handleGlobalEscape)
+})
+
+// ── Back navigation ──────────────────────────────────────────────────────────
+function goBack() {
+  const backUrl = localStorage.getItem('search-back-url')
+  localStorage.removeItem('search-back-url')
+  if (backUrl && !backUrl.includes('/search')) {
+    router.go(backUrl)
+  } else {
+    router.go('/')
+  }
+}
+
+function onEscape() {
+  if (query.value) {
+    query.value = ''
+    return
+  }
+  goBack()
+}
+
+function handleGlobalEscape(e) {
+  if (e.key !== 'Escape') return
+  // Không xử lý nếu focus đang ở input (input đã có handler riêng)
+  if (e.target === searchInput.value) return
+  e.preventDefault()
+  onEscape()
+}
 
 // ── Fuse instance ─────────────────────────────────────────────────────────────
 // shallowRef so Vue doesn't deep-walk Fuse's index for reactivity
@@ -189,8 +223,9 @@ function highlight(fuseResult) {
 }
 
 .search-input {
-  width: 100%;
-  padding: 0.875rem 3rem 0.875rem 3rem;
+  flex: 1;
+  min-width: 0;
+  padding: 0.875rem 0.5rem 0.875rem 3rem;
   background: transparent;
   border: none;
   outline: none;
@@ -203,8 +238,6 @@ function highlight(fuseResult) {
 .search-input::placeholder { color: var(--vp-c-text-3); }
 
 .clear-btn {
-  position: absolute;
-  right: 0.75rem;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -216,6 +249,8 @@ function highlight(fuseResult) {
   cursor: pointer;
   color: var(--vp-c-text-2);
   transition: background 0.15s, color 0.15s;
+  flex-shrink: 0;
+  margin-right: 0.35rem;
 }
 
 .clear-btn svg { width: 13px; height: 13px; }
@@ -223,6 +258,32 @@ function highlight(fuseResult) {
 .clear-btn:hover {
   background: var(--vp-c-danger-soft, #fef2f2);
   color: var(--vp-c-red-1, #ef4444);
+}
+
+.close-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  height: 28px;
+  padding: 0 0.75rem;
+  margin-right: 0.5rem;
+  border: 1px solid var(--vp-c-divider);
+  background: var(--vp-c-bg-mute);
+  border-radius: 6px;
+  cursor: pointer;
+  color: var(--vp-c-text-2);
+  font-size: 0.8rem;
+  font-family: system-ui, sans-serif;
+  font-weight: 500;
+  letter-spacing: 0.02em;
+  flex-shrink: 0;
+  transition: background 0.15s, color 0.15s, border-color 0.15s;
+}
+
+.close-btn:hover {
+  background: var(--vp-c-danger-soft, #fef2f2);
+  color: var(--vp-c-red-1, #ef4444);
+  border-color: var(--vp-c-red-1, #ef4444);
 }
 
 .search-meta {

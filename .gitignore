@@ -25,3 +25,4 @@ scripts
 # Generated at build time by docs/.vitepress/config.ts and compare-render.js
 docs/public/compare-lookup.json
 docs/public/compare-data/
+.hatch-pet-runs/

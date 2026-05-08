@@ -51,21 +51,7 @@ const handleKeydown = (e) => {
     e.preventDefault()
     goToSearch()
   }
-
-  // Escape to go back
-  if (e.key === 'Escape') {
-    const currentPath = window.location.pathname
-    if (currentPath.endsWith('/search') || currentPath.endsWith('/search.html')) {
-      const backUrl = localStorage.getItem('search-back-url')
-      localStorage.removeItem('search-back-url')
-      
-      if (backUrl && !backUrl.includes('/search')) {
-        router.go(backUrl)
-      } else {
-        router.go('/')
-      }
-    }
-  }
+  // Esc trên trang search được SearchPage.vue tự xử lý (clear query → goBack)
 }
 
 onMounted(() => {
