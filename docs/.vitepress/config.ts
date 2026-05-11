@@ -122,7 +122,7 @@ export default defineConfig({
   sitemap: {
     hostname: 'https://kinhnikaya.org'
   },
-
+  cleanUrls: true,
   markdown: {
     anchor: {
       slugify: (s) => slugAnchor(s),
