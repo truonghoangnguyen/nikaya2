@@ -181,3 +181,10 @@ tìm dòng tiêu đề
 rep:
 <!--pg-->
 $0\\
+
+tìm dòng thơ kết thúc bằng dấu ,
+^(>.*?),$
+$1,\\
+tìm dòng thơ kết thúc bằng dấu ;
+^(>.*?);$
+$1;\\

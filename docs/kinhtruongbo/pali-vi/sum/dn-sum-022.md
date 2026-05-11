@@ -1,6 +1,6 @@
 # DN 22. ĐẠI KINH BỐN NƠI THIẾT LẬP NHỚ KHÔNG QUÊN (Tóm lược)
 
-[Bản so sánh→](/kinhtruongbo/c-pali-tmc-vi//dnc-022-kinh-dai-niem-xu){class="note-link" }
+[Bản so sánh→](/kinhtruongbo/c-pali-tmc-vi/dnc-022-kinh-dai-niem-xu){class="note-link" }
 
 - **Bối cảnh:** Đây là bài kinh Trường Bộ 22 (DN 22), được thuyết giảng tại thị trấn Kammāsadhamma của người Kuru. Bài kinh này là nền tảng cốt lõi của phương pháp thực hành thiền trong Phật giáo sơ kỳ, trình bày chi tiết về Bốn Nơi Thiết Lập Niệm (Tứ Niệm Xứ).
 - **Dấu hiệu văn bản:** Khác biệt lớn nhất giữa bài kinh này (Đại Niệm Xứ - DN 22) và bài kinh Trung Bộ tương đương (Niệm Xứ - MN 10) nằm ở phần 4.5 (Saccapabba - Phân tích về Bốn Sự Thật). Trong bản này, phần Tứ Thánh Đế được mở rộng một cách đồ sộ, đưa vào các danh sách chi tiết (12 xứ, 18 giới, các yếu tố tâm lý đi kèm) mang đậm phong cách phân tích và hệ thống hóa của thời kỳ Abhidhamma (Luận tạng). Đây là dấu hiệu rõ ràng của việc biên tập và chèn thêm ở thời kỳ sau `[BT]`.

@@ -1,169 +1,104 @@
-# Siṅgālasutta
+# DN 31. KINH SIṄGĀLA (Tóm lược)
+[Bản so sánh→](/kinhtruongbo/c-pali-tmc-vi/dnc-031-kinh-giao-tho-thi-ca-la-viet){class="note-link" }
 
-Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā rājagahe viharati veḷuvane kalandakanivāpe. Tena kho pana samayena siṅgālako gahapatiputto kālasseva uṭṭhāya rājagahā nikkhamitvā allavattho allakeso pañjaliko puthudisā namassati—puratthimaṁ disaṁ dakkhiṇaṁ disaṁ pacchimaṁ disaṁ uttaraṁ disaṁ heṭṭhimaṁ disaṁ uparimaṁ disaṁ.
+- **Bối cảnh kinh**: Đây là bài kinh nổi tiếng (DN 31) Đức Phật giảng cho chàng thanh niên Siṅgālaka. Chàng trai đang thực hiện một nghi lễ tôn giáo (đảnh lễ sáu phương) theo lời trăn trối của cha. Đức Phật không cấm cản, mà tái định nghĩa nghi lễ mù quáng này thành một hệ thống trách nhiệm xã hội và đạo đức thực tế.
+- **Dấu hiệu văn bản**: Văn bản chứa các công thức lặp đi lặp lại rất đặc trưng của truyền thống truyền khẩu sơ kỳ. Cấu trúc bài kinh cực kỳ rõ ràng, phân loại theo các con số (4 hành động vấy bẩn, 4 nguyên nhân làm sai, 6 lối thoát hao mòn tài sản, 4 bạn giả, 4 bạn thật, 6 phương).
+- **Khung khái niệm có thể bị áp đặt**: Khái niệm "lễ bái" (namassati) dễ bị hiểu theo nghĩa tôn giáo tín ngưỡng (cầu xin sự gia hộ từ các phương), nhưng Đức Phật đã kéo nó về nghĩa thực dụng là "hoàn thành trách nhiệm với các mối quan hệ xã hội". Cờ `[KK]` được áp dụng để lưu ý sự chuyển đổi này.
 
-Atha kho bhagavā pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya rājagahaṁ piṇḍāya pāvisi. Addasā kho bhagavā siṅgālakaṁ gahapatiputtaṁ kālasseva vuṭṭhāya rājagahā nikkhamitvā allavatthaṁ allakesaṁ pañjalikaṁ puthudisā namassantaṁ—puratthimaṁ disaṁ dakkhiṇaṁ disaṁ pacchimaṁ disaṁ uttaraṁ disaṁ heṭṭhimaṁ disaṁ uparimaṁ disaṁ. Disvā siṅgālakaṁ gahapatiputtaṁ etadavoca: “kiṁ nu kho tvaṁ, gahapatiputta, kālasseva vuṭṭhāya rājagahā nikkhamitvā allavattho allakeso pañjaliko puthudisā namassasi—puratthimaṁ disaṁ dakkhiṇaṁ disaṁ pacchimaṁ disaṁ uttaraṁ disaṁ heṭṭhimaṁ disaṁ uparimaṁ disan”ti?
 
-“Pitā maṁ, bhante, kālaṁ karonto evaṁ avaca: ‘disā, tāta, namasseyyāsī’ti. So kho ahaṁ, bhante, pituvacanaṁ sakkaronto garuṁ karonto mānento pūjento kālasseva uṭṭhāya rājagahā nikkhamitvā allavattho allakeso pañjaliko puthudisā namassāmi—puratthimaṁ disaṁ dakkhiṇaṁ disaṁ pacchimaṁ disaṁ uttaraṁ disaṁ heṭṭhimaṁ disaṁ uparimaṁ disan”ti.
+### Tóm tắt
 
-## 1. Cha disā
+**Bối cảnh:**
+Khi Đức Phật đang cư ngụ tại khu rừng Tre ở thành Vương Xá, Ngài nhìn thấy thanh niên Siṅgālaka thức dậy từ sáng sớm, quần áo và tóc ướt sũng, đang chắp tay vái lạy sáu phương (Đông, Nam, Tây, Bắc, Dưới, Trên). Khi Đức Phật hỏi lý do, Siṅgālaka đáp rằng anh đang làm theo lời trăn trối của người cha quá cố.
 
-“Na kho, gahapatiputta, ariyassa vinaye evaṁ cha disā namassitabbā”ti.
+Đức Phật giảng rằng, theo kỷ luật của bậc Thánh, việc lễ bái sáu phương không phải là hành động vái lạy các hướng vật lý. Để thực sự che chở sáu phương và mang lại hạnh phúc ở đời này lẫn đời sau, người cư sĩ cần từ bỏ 14 điều ác và làm tròn bổn phận trong các mối quan hệ xã hội.
 
-“Yathā kathaṁ pana, bhante, ariyassa vinaye cha disā namassitabbā? Sādhu me, bhante, bhagavā tathā dhammaṁ desetu, yathā ariyassa vinaye cha disā namassitabbā”ti.
+---
 
-“Tena hi, gahapatiputta, suṇohi sādhukaṁ manasikarohi bhāsissāmī”ti.
+**1. Bốn hành động xấu xa cần từ bỏ:**
+- Sát sinh.
+- Trộm cắp.
+- Tà dâm (quan hệ tình dục sai trái).
+- Nói dối.
 
-“Evaṁ, bhante”ti kho siṅgālako gahapatiputto bhagavato paccassosi. Bhagavā etadavoca:
+**2. Bốn nguyên nhân sinh ra lỗi lầm (cần tránh):**
+- Hành động sai trái do tham muốn.
+- Hành động sai trái do tức giận.
+- Hành động sai trái do ngu muội.
+- Hành động sai trái do sợ hãi.
 
-“Yato kho, gahapatiputta, ariyasāvakassa cattāro kammakilesā pahīnā honti, catūhi ca ṭhānehi pāpakammaṁ na karoti, cha ca bhogānaṁ apāyamukhāni na sevati, so evaṁ cuddasa pāpakāpagato chaddisāpaṭicchādī ubholokavijayāya paṭipanno hoti. Tassa ayañceva loko āraddho hoti paro ca loko. So kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjati.
+**3. Sáu lối sống làm hao mòn tài sản:**
+- **Đam mê rượu chè và chất gây nghiện:** Gây mất tiền, sinh bệnh, dễ cãi vã, mang tiếng xấu và làm suy giảm trí tuệ.
+- **Lang thang ngoài đường sai giờ giấc:** Gây nguy hiểm cho bản thân và gia đình, dễ mang tiếng oan và gặp rắc rối.
+- **La cà đình đám, lễ hội:** Bỏ bê công việc vì tâm trí luôn tìm kiếm thú vui ca múa.
+- **Nghiện cờ bạc:** Kẻ thắng bị thù ghét, kẻ thua mất tiền; gây đánh mất uy tín và không ai muốn kết giao hay kết hôn cùng.
+- **Kết giao bạn xấu:** Dễ lây nhiễm thói hư tật xấu như lừa đảo, nghiện ngập, gian xảo và bạo lực.
+- **Lười biếng:** Hay viện cớ (quá lạnh, quá nóng, quá sớm, quá muộn, quá đói, quá no) để trốn việc, khiến tài sản cạn kiệt.
 
-## 2. Cattāro kammakilesā
+**4. Cách nhận biết bạn bè:**
+Đức Phật chỉ ra 4 loại **bạn giả dối** cần tránh:
+- *Kẻ vơ vét:* Chỉ muốn lấy nhiều mà cho ít, làm bạn chỉ vì lợi ích cá nhân.
+- *Kẻ chót lưỡi đầu môi:* Giỏi hứa suông, nói chuyện viển vông, gặp việc cần thì viện cớ thoái thác.
+- *Kẻ xu nịnh:* Việc xấu hay tốt đều hùa theo, trước mặt khen ngợi nhưng sau lưng chê bai.
+- *Kẻ rủ rê làm bậy:* Rủ rê nhậu nhẹt, bài bạc, chơi bời lêu lổng.
 
-Katamassa cattāro kammakilesā pahīnā honti? Pāṇātipāto kho, gahapatiputta, kammakileso, adinnādānaṁ kammakileso, kāmesumicchācāro kammakileso, musāvādo kammakileso. Imassa cattāro kammakilesā pahīnā hontī”ti.
+Và 4 loại **bạn tốt** cần trân trọng gắn bó:
+- *Người hay giúp đỡ:* Che chở, bảo vệ bạn và tài sản của bạn khi bạn sa ngã; sẵn sàng chu cấp khi bạn cần.
+- *Người đồng cam cộng khổ:* Giữ kín bí mật của bạn, không bỏ rơi lúc hoạn nạn, thậm chí sẵn sàng hy sinh vì bạn.
+- *Người khuyên bảo điều hay:* Ngăn bạn làm ác, khuyên làm thiện, chia sẻ những kiến thức tốt đẹp.
+- *Người có sự thấu cảm:* Không vui khi bạn gặp nạn, mừng rỡ khi bạn thành công, bảo vệ danh dự cho bạn.
 
-Idamavoca bhagavā. Idaṁ vatvāna sugato athāparaṁ etadavoca satthā:
+*(Lời khuyên về quản lý tài chính)*: Đức Phật dạy người gia chủ nên chia tài sản làm 4 phần: 1 phần để tiêu dùng, 2 phần đầu tư công việc, và 1 phần cất giữ phòng khi hoạn nạn.
 
-> “Pāṇātipāto adinnādānaṁ, Musāvādo ca vuccati; Paradāragamanañceva, Nappasaṁsanti paṇḍitā”ti.
+**5. Ý nghĩa thực sự của việc lễ bái sáu phương:**
+Sáu phương tượng trưng cho sáu mối quan hệ xã hội nền tảng. "Tôn kính sáu phương" chính là làm tròn đạo lý và trách nhiệm trong các mối quan hệ này:
 
-## 3. Catuṭhānaṁ
+- **Phương Đông (Cha mẹ và Con cái):**
+  - *Con cái:* Chăm sóc cha mẹ, duy trì truyền thống gia đình, sống xứng đáng với gia tài và lo tang lễ chu đáo.
+  - *Cha mẹ:* Ngăn con làm ác, khuyên con làm thiện, dạy nghề, tìm bạn đời phù hợp và trao tài sản thừa kế đúng lúc.
 
-“Katamehi catūhi ṭhānehi pāpakammaṁ na karoti? Chandāgatiṁ gacchanto pāpakammaṁ karoti, dosāgatiṁ gacchanto pāpakammaṁ karoti, mohāgatiṁ gacchanto pāpakammaṁ karoti, bhayāgatiṁ gacchanto pāpakammaṁ karoti. Yato kho, gahapatiputta, ariyasāvako neva chandāgatiṁ gacchati, na dosāgatiṁ gacchati, na mohāgatiṁ gacchati, na bhayāgatiṁ gacchati; imehi catūhi ṭhānehi pāpakammaṁ na karotī”ti.
+- **Phương Nam (Thầy cô và Học trò):**
+  - *Học trò:* Kính trọng, chào đón, chăm sóc, phục vụ và khao khát học hỏi từ thầy cô.
+  - *Thầy cô:* Tận tâm truyền đạt kiến thức, dạy kỹ năng, giới thiệu học trò với người khác và bảo vệ học trò.
 
-Idamavoca bhagavā. Idaṁ vatvāna sugato athāparaṁ etadavoca satthā:
+- **Phương Tây (Chồng và Vợ):**
+  - *Chồng:* Tôn trọng, không khinh thường, chung thủy, giao quyền quản lý gia đình và sắm sửa đồ trang sức cho vợ.
+  - *Vợ:* Quản lý nhà cửa chu đáo, chung thủy, giữ gìn tài sản gia đình và siêng năng trong mọi việc.
 
-> “Chandā dosā bhayā mohā, yo dhammaṁ ativattati; Nihīyati yaso tassa, kāḷapakkheva candimā.
->
-> Chandā dosā bhayā mohā, yo dhammaṁ nātivattati; Āpūrati yaso tassa, sukkapakkheva candimā”ti.
+- **Phương Bắc (Bạn bè và Đồng nghiệp):**
+  - *Bản thân:* Rộng lượng cho đi, nói lời nhã nhặn, giúp đỡ lợi ích, đối xử bình đẳng và chân thành.
+  - *Bạn bè:* Bảo vệ bạn khi sa ngã, không bỏ rơi lúc hoạn nạn và tôn trọng gia đình bạn.
 
-## 4. Cha apāyamukhāni
+- **Phương Dưới (Chủ và Người làm):**
+  - *Chủ:* Giao việc vừa sức, trả lương và cung cấp thức ăn đầy đủ, chăm sóc lúc ốm đau, chia sẻ đồ ăn ngon và cho nghỉ phép hợp lý.
+  - *Người làm:* Chăm chỉ (dậy trước, ngủ sau chủ), trung thực, hoàn thành tốt công việc và giữ gìn danh tiếng cho chủ.
 
-“Katamāni cha bhogānaṁ apāyamukhāni na sevati? Surāmerayamajjappamādaṭṭhānānuyogo kho, gahapatiputta, bhogānaṁ apāyamukhaṁ, vikālavisikhācariyānuyogo bhogānaṁ apāyamukhaṁ, samajjābhicaraṇaṁ bhogānaṁ apāyamukhaṁ, jūtappamādaṭṭhānānuyogo bhogānaṁ apāyamukhaṁ, pāpamittānuyogo bhogānaṁ apāyamukhaṁ, ālasyānuyogo bhogānaṁ apāyamukhaṁ.
+- **Phương Trên (Tu sĩ và Cư sĩ):**
+  - *Cư sĩ:* Tôn kính tu sĩ qua hành động, lời nói, ý nghĩ; cởi mở đón tiếp và chu cấp vật dụng cần thiết.
+  - *Tu sĩ:* Khuyên răn điều thiện, ngăn chặn điều ác, yêu thương mọi người, giảng dạy đạo lý và chỉ đường hướng tới cõi lành.
 
-## 5. Surāmerayassa cha ādīnavā
+**Kết luận:**
+Sau khi nghe lời giảng giải sâu sắc và thực tế của Đức Phật, thanh niên Siṅgālaka vô cùng hoan hỉ. Anh ca ngợi giáo pháp của Ngài như người thắp lên ngọn đèn trong đêm tối, và lập tức xin phát nguyện quy y Tam Bảo, trở thành một cư sĩ tại gia từ đó cho đến trọn đời.
 
-Cha khome, gahapatiputta, ādīnavā surāmerayamajjappamādaṭṭhānānuyoge. Sandiṭṭhikā dhanajāni, kalahappavaḍḍhanī, rogānaṁ āyatanaṁ, akittisañjananī, kopīnanidaṁsanī, paññāya dubbalikaraṇītveva chaṭṭhaṁ padaṁ bhavati. Ime kho, gahapatiputta, cha ādīnavā surāmerayamajjappamādaṭṭhānānuyoge.
+### Bước 2: Liệt kê thuật ngữ
 
-## 6. Vikālacariyāya cha ādīnavā
+**Bảng thuật ngữ**:
 
-Cha khome, gahapatiputta, ādīnavā vikālavisikhācariyānuyoge. Attāpissa agutto arakkhito hoti, puttadāropissa agutto arakkhito hoti, sāpateyyampissa aguttaṁ arakkhitaṁ hoti, saṅkiyo ca hoti pāpakesu ṭhānesu, abhūtavacanañca tasmiṁ rūhati, bahūnañca dukkhadhammānaṁ purakkhato hoti. Ime kho, gahapatiputta, cha ādīnavā vikālavisikhācariyānuyoge.
-
-## 7. Samajjābhicaraṇassa cha ādīnavā
-
-Cha khome, gahapatiputta, ādīnavā samajjābhicaraṇe. Kva naccaṁ, kva gītaṁ, kva vāditaṁ, kva akkhānaṁ, kva pāṇissaraṁ, kva kumbhathunanti. Ime kho, gahapatiputta, cha ādīnavā samajjābhicaraṇe.
-
-## 8. Jūtappamādassa cha ādīnavā
-
-Cha khome, gahapatiputta, ādīnavā jūtappamādaṭṭhānānuyoge. Jayaṁ veraṁ pasavati, jino vittamanusocati, sandiṭṭhikā dhanajāni, sabhāgatassa vacanaṁ na rūhati, mittāmaccānaṁ paribhūto hoti, āvāhavivāhakānaṁ apatthito hoti: ‘akkhadhutto ayaṁ purisapuggalo nālaṁ dārabharaṇāyā’ti. Ime kho, gahapatiputta, cha ādīnavā jūtappamādaṭṭhānānuyoge.
-
-## 9. Pāpamittatāya cha ādīnavā
-
-Cha khome, gahapatiputta, ādīnavā pāpamittānuyoge. Ye dhuttā, ye soṇḍā, ye pipāsā, ye nekatikā, ye vañcanikā, ye sāhasikā. Tyāssa mittā honti te sahāyā. Ime kho, gahapatiputta, cha ādīnavā pāpamittānuyoge.
-
-## 10. Ālasyassa cha ādīnavā
-
-Cha khome, gahapatiputta, ādīnavā ālasyānuyoge. Atisītanti kammaṁ na karoti, atiuṇhanti kammaṁ na karoti, atisāyanti kammaṁ na karoti, atipātoti kammaṁ na karoti, atichātosmīti kammaṁ na karoti, atidhātosmīti kammaṁ na karoti. Tassa evaṁ kiccāpadesabahulassa viharato anuppannā ceva bhogā nuppajjanti, uppannā ca bhogā parikkhayaṁ gacchanti. Ime kho, gahapatiputta, cha ādīnavā ālasyānuyoge”ti.
-
-Idamavoca bhagavā. Idaṁ vatvāna sugato athāparaṁ etadavoca satthā:
-
-> “Hoti pānasakhā nāma, hoti sammiyasammiyo; Yo ca atthesu jātesu, sahāyo hoti so sakhā.
->
-> Ussūraseyyā paradārasevanā, Verappasavo ca anatthatā ca; Pāpā ca mittā sukadariyatā ca, Ete cha ṭhānā purisaṁ dhaṁsayanti.
->
-> Pāpamitto pāpasakho, pāpaācāragocaro; Asmā lokā paramhā ca, ubhayā dhaṁsate naro.
->
-> Akkhitthiyo vāruṇī naccagītaṁ, Divā soppaṁ pāricariyā akāle; Pāpā ca mittā sukadariyatā ca, Ete cha ṭhānā purisaṁ dhaṁsayanti.
->
-> Akkhehi dibbanti suraṁ pivanti, Yantitthiyo pāṇasamā paresaṁ; Nihīnasevī na ca vuddhasevī, Nihīyate kāḷapakkheva cando.
->
-> Yo vāruṇī addhano akiñcano, Pipāso pivaṁ papāgato; Udakamiva iṇaṁ vigāhati, Akulaṁ kāhiti khippamattano.
->
-> Na divā soppasīlena, rattimuṭṭhānadessinā; Niccaṁ mattena soṇḍena, sakkā āvasituṁ gharaṁ.
->
-> Atisītaṁ atiuṇhaṁ, atisāyamidaṁ ahu; Iti vissaṭṭhakammante, atthā accenti māṇave.
->
-> Yodha sītañca uṇhañca, tiṇā bhiyyo na maññati; Karaṁ purisakiccāni, so sukhaṁ na vihāyatī”ti.
-
-## 11. Mittapatirūpaka
-
-“Cattārome, gahapatiputta, amittā mittapatirūpakā veditabbā. Aññadatthuharo amitto mittapatirūpako veditabbo, vacīparamo amitto mittapatirūpako veditabbo, anuppiyabhāṇī amitto mittapatirūpako veditabbo, apāyasahāyo amitto mittapatirūpako veditabbo.
-
-Catūhi kho, gahapatiputta, ṭhānehi aññadatthuharo amitto mittapatirūpako veditabbo.
-
-> Aññadatthuharo hoti, appena bahumicchati; Bhayassa kiccaṁ karoti, sevati atthakāraṇā.
-
-Imehi kho, gahapatiputta, catūhi ṭhānehi aññadatthuharo amitto mittapatirūpako veditabbo.
-
-Catūhi kho, gahapatiputta, ṭhānehi vacīparamo amitto mittapatirūpako veditabbo. Atītena paṭisantharati, anāgatena paṭisantharati, niratthakena saṅgaṇhāti, paccuppannesu kiccesu byasanaṁ dasseti. Imehi kho, gahapatiputta, catūhi ṭhānehi vacīparamo amitto mittapatirūpako veditabbo.
-
-Catūhi kho, gahapatiputta, ṭhānehi anuppiyabhāṇī amitto mittapatirūpako veditabbo. Pāpakampissa anujānāti, kalyāṇampissa anujānāti, sammukhāssa vaṇṇaṁ bhāsati, parammukhāssa avaṇṇaṁ bhāsati. Imehi kho, gahapatiputta, catūhi ṭhānehi anuppiyabhāṇī amitto mittapatirūpako veditabbo.
-
-Catūhi kho, gahapatiputta, ṭhānehi apāyasahāyo amitto mittapatirūpako veditabbo. Surāmerayamajjappamādaṭṭhānānuyoge sahāyo hoti, vikālavisikhācariyānuyoge sahāyo hoti, samajjābhicaraṇe sahāyo hoti, jūtappamādaṭṭhānānuyoge sahāyo hoti. Imehi kho, gahapatiputta, catūhi ṭhānehi apāyasahāyo amitto mittapatirūpako veditabbo”ti.
-
-Idamavoca bhagavā. Idaṁ vatvāna sugato athāparaṁ etadavoca satthā:
-
-> “Aññadatthuharo mitto, yo ca mitto vacīparo; Anuppiyañca yo āha, apāyesu ca yo sakhā.
->
-> Ete amitte cattāro, iti viññāya paṇḍito; Ārakā parivajjeyya, maggaṁ paṭibhayaṁ yathā”ti.
-
-## 12. Suhadamitta
-
-“Cattārome, gahapatiputta, mittā suhadā veditabbā. Upakāro mitto suhado veditabbo, samānasukhadukkho mitto suhado veditabbo, atthakkhāyī mitto suhado veditabbo, anukampako mitto suhado veditabbo.
-
-Catūhi kho, gahapatiputta, ṭhānehi upakāro mitto suhado veditabbo. Pamattaṁ rakkhati, pamattassa sāpateyyaṁ rakkhati, bhītassa saraṇaṁ hoti, uppannesu kiccakaraṇīyesu taddiguṇaṁ bhogaṁ anuppadeti. Imehi kho, gahapatiputta, catūhi ṭhānehi upakāro mitto suhado veditabbo.
-
-Catūhi kho, gahapatiputta, ṭhānehi samānasukhadukkho mitto suhado veditabbo. Guyhamassa ācikkhati, guyhamassa parigūhati, āpadāsu na vijahati, jīvitaṁpissa atthāya pariccattaṁ hoti. Imehi kho, gahapatiputta, catūhi ṭhānehi samānasukhadukkho mitto suhado veditabbo.
-
-Catūhi kho, gahapatiputta, ṭhānehi atthakkhāyī mitto suhado veditabbo. Pāpā nivāreti, kalyāṇe niveseti, assutaṁ sāveti, saggassa maggaṁ ācikkhati. Imehi kho, gahapatiputta, catūhi ṭhānehi atthakkhāyī mitto suhado veditabbo.
-
-Catūhi kho, gahapatiputta, ṭhānehi anukampako mitto suhado veditabbo. Abhavenassa na nandati, bhavenassa nandati, avaṇṇaṁ bhaṇamānaṁ nivāreti, vaṇṇaṁ bhaṇamānaṁ pasaṁsati. Imehi kho, gahapatiputta, catūhi ṭhānehi anukampako mitto suhado veditabbo”ti.
-
-Idamavoca bhagavā. Idaṁ vatvāna sugato athāparaṁ etadavoca satthā:
-
-> “Upakāro ca yo mitto, sukhe dukkhe ca yo sakhā; Atthakkhāyī ca yo mitto, yo ca mittānukampako.
->
-> Etepi mitte cattāro, iti viññāya paṇḍito; Sakkaccaṁ payirupāseyya, mātā puttaṁva orasaṁ; Paṇḍito sīlasampanno, jalaṁ aggīva bhāsati.
->
-> Bhoge saṁharamānassa, bhamarasseva irīyato; Bhogā sannicayaṁ yanti, vammikovupacīyati.
->
-> Evaṁ bhoge samāhatvā, alamatto kule gihī; Catudhā vibhaje bhoge, sa ve mittāni ganthati.
->
-> Ekena bhoge bhuñjeyya, dvīhi kammaṁ payojaye; Catutthañca nidhāpeyya, āpadāsu bhavissatī”ti.
-
-## 13. Chaddisāpaṭicchādanakaṇḍa
-
-“Kathañca, gahapatiputta, ariyasāvako chaddisāpaṭicchādī hoti? Cha imā, gahapatiputta, disā veditabbā. Puratthimā disā mātāpitaro veditabbā, dakkhiṇā disā ācariyā veditabbā, pacchimā disā puttadārā veditabbā, uttarā disā mittāmaccā veditabbā, heṭṭhimā disā dāsakammakarā veditabbā, uparimā disā samaṇabrāhmaṇā veditabbā.
-
-Pañcahi kho, gahapatiputta, ṭhānehi puttena puratthimā disā mātāpitaro paccupaṭṭhātabbā—bhato ne bharissāmi, kiccaṁ nesaṁ karissāmi, kulavaṁsaṁ ṭhapessāmi, dāyajjaṁ paṭipajjāmi, atha vā pana petānaṁ kālaṅkatānaṁ dakkhiṇaṁ anuppadassāmīti. Imehi kho, gahapatiputta, pañcahi ṭhānehi puttena puratthimā disā mātāpitaro paccupaṭṭhitā pañcahi ṭhānehi puttaṁ anukampanti. Pāpā nivārenti, kalyāṇe nivesenti, sippaṁ sikkhāpenti, patirūpena dārena saṁyojenti, samaye dāyajjaṁ niyyādenti. Imehi kho, gahapatiputta, pañcahi ṭhānehi puttena puratthimā disā mātāpitaro paccupaṭṭhitā imehi pañcahi ṭhānehi puttaṁ anukampanti. Evamassa esā puratthimā disā paṭicchannā hoti khemā appaṭibhayā.
-
-Pañcahi kho, gahapatiputta, ṭhānehi antevāsinā dakkhiṇā disā ācariyā paccupaṭṭhātabbā—uṭṭhānena upaṭṭhānena sussusāya pāricariyāya sakkaccaṁ sippapaṭiggahaṇena. Imehi kho, gahapatiputta, pañcahi ṭhānehi antevāsinā dakkhiṇā disā ācariyā paccupaṭṭhitā pañcahi ṭhānehi antevāsiṁ anukampanti—suvinītaṁ vinenti, suggahitaṁ gāhāpenti, sabbasippassutaṁ samakkhāyino bhavanti, mittāmaccesu paṭiyādenti, disāsu parittāṇaṁ karonti. Imehi kho, gahapatiputta, pañcahi ṭhānehi antevāsinā dakkhiṇā disā ācariyā paccupaṭṭhitā imehi pañcahi ṭhānehi antevāsiṁ anukampanti. Evamassa esā dakkhiṇā disā paṭicchannā hoti khemā appaṭibhayā.
-
-Pañcahi kho, gahapatiputta, ṭhānehi sāmikena pacchimā disā bhariyā paccupaṭṭhātabbā—sammānanāya anavamānanāya anaticariyāya issariyavossaggena alaṅkārānuppadānena. Imehi kho, gahapatiputta, pañcahi ṭhānehi sāmikena pacchimā disā bhariyā paccupaṭṭhitā pañcahi ṭhānehi sāmikaṁ anukampati—susaṁvihitakammantā ca hoti, saṅgahitaparijanā ca, anaticārinī ca, sambhatañca anurakkhati, dakkhā ca hoti analasā sabbakiccesu. Imehi kho, gahapatiputta, pañcahi ṭhānehi sāmikena pacchimā disā bhariyā paccupaṭṭhitā imehi pañcahi ṭhānehi sāmikaṁ anukampati. Evamassa esā pacchimā disā paṭicchannā hoti khemā appaṭibhayā.
-
-Pañcahi kho, gahapatiputta, ṭhānehi kulaputtena uttarā disā mittāmaccā paccupaṭṭhātabbā—dānena peyyavajjena atthacariyāya samānattatāya avisaṁvādanatāya. Imehi kho, gahapatiputta, pañcahi ṭhānehi kulaputtena uttarā disā mittāmaccā paccupaṭṭhitā pañcahi ṭhānehi kulaputtaṁ anukampanti—pamattaṁ rakkhanti, pamattassa sāpateyyaṁ rakkhanti, bhītassa saraṇaṁ honti, āpadāsu na vijahanti, aparapajā cassa paṭipūjenti. Imehi kho, gahapatiputta, pañcahi ṭhānehi kulaputtena uttarā disā mittāmaccā paccupaṭṭhitā imehi pañcahi ṭhānehi kulaputtaṁ anukampanti. Evamassa esā uttarā disā paṭicchannā hoti khemā appaṭibhayā.
-
-Pañcahi kho, gahapatiputta, ṭhānehi ayyirakena heṭṭhimā disā dāsakammakarā paccupaṭṭhātabbā—yathābalaṁ kammantasaṁvidhānena bhattavetanānuppadānena gilānupaṭṭhānena acchariyānaṁ rasānaṁ saṁvibhāgena samaye vossaggena. Imehi kho, gahapatiputta, pañcahi ṭhānehi ayyirakena heṭṭhimā disā dāsakammakarā paccupaṭṭhitā pañcahi ṭhānehi ayyirakaṁ anukampanti—pubbuṭṭhāyino ca honti, pacchā nipātino ca, dinnādāyino ca, sukatakammakarā ca, kittivaṇṇaharā ca. Imehi kho, gahapatiputta, pañcahi ṭhānehi ayyirakena heṭṭhimā disā dāsakammakarā paccupaṭṭhitā imehi pañcahi ṭhānehi ayyirakaṁ anukampanti. Evamassa esā heṭṭhimā disā paṭicchannā hoti khemā appaṭibhayā.
-
-Pañcahi kho, gahapatiputta, ṭhānehi kulaputtena uparimā disā samaṇabrāhmaṇā paccupaṭṭhātabbā—mettena kāyakammena mettena vacīkammena mettena manokammena anāvaṭadvāratāya āmisānuppadānena. Imehi kho, gahapatiputta, pañcahi ṭhānehi kulaputtena uparimā disā samaṇabrāhmaṇā paccupaṭṭhitā chahi ṭhānehi kulaputtaṁ anukampanti—pāpā nivārenti, kalyāṇe nivesenti, kalyāṇena manasā anukampanti, assutaṁ sāventi, sutaṁ pariyodāpenti, saggassa maggaṁ ācikkhanti. Imehi kho, gahapatiputta, pañcahi ṭhānehi kulaputtena uparimā disā samaṇabrāhmaṇā paccupaṭṭhitā imehi chahi ṭhānehi kulaputtaṁ anukampanti. Evamassa esā uparimā disā paṭicchannā hoti khemā appaṭibhayā”ti.
-
-Idamavoca bhagavā. Idaṁ vatvāna sugato athāparaṁ etadavoca satthā:
-
-> “Mātāpitā disā pubbā, ācariyā dakkhiṇā disā; Puttadārā disā pacchā, mittāmaccā ca uttarā.
->
-> Dāsakammakarā heṭṭhā, uddhaṁ samaṇabrāhmaṇā; Etā disā namasseyya, alamatto kule gihī.
->
-> Paṇḍito sīlasampanno, saṇho ca paṭibhānavā; Nivātavutti atthaddho, tādiso labhate yasaṁ.
->
-> Uṭṭhānako analaso, āpadāsu na vedhati; Acchinnavutti medhāvī, tādiso labhate yasaṁ.
->
-> Saṅgāhako mittakaro, vadaññū vītamaccharo; Netā vinetā anunetā, tādiso labhate yasaṁ.
->
-> Dānañca peyyavajjañca, atthacariyā ca yā idha; Samānattatā ca dhammesu, tattha tattha yathārahaṁ; Ete kho saṅgahā loke, rathassāṇīva yāyato.
->
-> Ete ca saṅgahā nāssu, na mātā puttakāraṇā; Labhetha mānaṁ pūjaṁ vā, pitā vā puttakāraṇā.
->
-> Yasmā ca saṅgahā ete, sammapekkhanti paṇḍitā; Tasmā mahattaṁ papponti, pāsaṁsā ca bhavanti te”ti.
-
-Evaṁ vutte, siṅgālako gahapatiputto bhagavantaṁ etadavoca: “abhikkantaṁ, bhante, abhikkantaṁ, bhante. Seyyathāpi, bhante, nikkujjitaṁ vā ukkujjeyya, paṭicchannaṁ vā vivareyya, mūḷhassa vā maggaṁ ācikkheyya, andhakāre vā telapajjotaṁ dhāreyya ‘cakkhumanto rūpāni dakkhantī’ti; evamevaṁ bhagavatā anekapariyāyena dhammo pakāsito. Esāhaṁ, bhante, bhagavantaṁ saraṇaṁ gacchāmi dhammañca bhikkhusaṅghañca. Upāsakaṁ maṁ bhagavā dhāretu, ajjatagge pāṇupetaṁ saraṇaṁ gatan”ti.
-
-Siṅgālasuttaṁ niṭṭhitaṁ aṭṭhamaṁ.
+| Thuật ngữ Pali | Từ cũ (Hán-Việt) | Từ mới (Hiện đại) | Ghi chú |
+| :--- | :--- | :--- | :--- |
+| kammakilesā | nghiệp phiền não | *hành động làm vấy bẩn* | Hành động gây ô nhiễm tâm trí và hành vi. |
+| apāyamukhāni | cửa hiểm nạn / tài sản tiêu vong | *những lối thoát làm hao mòn* | Nguyên nhân làm rò rỉ, tiêu tán tài sản và chất lượng sống. |
+| [!] āgati | thiên vị | *thiên vị* | Sự chệch hướng trong quyết định do bị cảm xúc chi phối. |
+| [!] ādīnava | sự nguy hiểm / lỗi lầm | *sự nguy hiểm* | Hậu quả tiêu cực trực tiếp có thể quan sát được. |
+| mittapatirūpaka | bạn giả danh | *kẻ đóng giả làm bạn* | |
+| [!] suhada | thiện hữu | *người có lòng tốt* | Từ gốc: su (tốt) + hada (trái tim). |
+| [!] saṅgaha | nhiếp pháp | *nguyên tắc gắn kết* | Yếu tố tâm lý và hành vi giúp duy trì mối quan hệ bền vững. |
+| [KK] namassati | lễ bái | *tôn kính* | Kinh chuyển nghĩa từ "lễ bái các hướng vật lý" sang "tôn kính bằng cách thực hiện trách nhiệm xã hội". |
+| kāmesumicchācāro | tà dâm | *hành vi sai trái trong sự dễ chịu giác quan* | |
+| musāvādo | nói dối | *nói dối* | |
+| pamāda | phóng dật | *mê muội* | |
+| chanda | dục | *mong muốn* | |
+| dosa | sân | *ám ảnh khó chịu* | |
+| moha | si | *sự u mê* | |
+| bhaya | úy / sợ hãi | *sự sợ hãi* | |
+| mettena kāyakammena | thân nghiệp từ | *hành động cơ thể với tâm yêu thương* | |

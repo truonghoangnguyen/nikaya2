@@ -102,3 +102,6 @@ Và liên quan đến thời tương lai, cái biết sinh ra từ sự thức t
 
 http://localhost:5173/kinhtruongbo/c-pali-tmc-vi/dnc-029-kinh-thanh-tinh.html#12-tra-loi-cac-cau-hoi-panhabyakarana
 Và này Cunda, từ đêm Người Đến Như Vậy giác ngộ hoàn toàn sự giác ngộ tối thượng, cho đến đêm ngài nhập Niết-bàn vào giới hạn Niết-bàn không còn dư tàn, bất cứ điều gì ngài nói, thốt ra, chỉ dẫn trong khoảng thời gian đó. Tất cả đều đúng như vậy, không khác đi, do đó được gọi là ‘Người Đến Như Vậy’.
+
+http://localhost:5173/kinhtruongbo/c-pali-tmc-vi/dnc-031-kinh-giao-tho-thi-ca-la-viet.html#1-sau-phuong
+"Này con trai gia chủ, khi nào vị đệ tử của bậc thánh đã từ bỏ (đoạn trừ / pajahati) bốn hành động làm nhiễm bẩn (nghiệp uế / kammakilesā), không làm hành động sai trái (ác nghiệp / pāpakamma) qua bốn nguyên do, và không chạy theo sáu khe hở dẫn đến suy sụp (cửa dẫn đến cõi ác / apāyamukhāni) về tài sản; người ấy tránh xa mười bốn điều ác này, che chở cả sáu phương, và tiến bước để chiến thắng cả hai thế giới. Người ấy thành công ở thế giới này và cả thế giới bên kia. Sau khi thân hoại mạng chung, người ấy sinh vào cõi vui vẻ, thế giới chư thiên.
