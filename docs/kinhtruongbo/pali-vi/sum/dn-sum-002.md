@@ -94,7 +94,7 @@ Hỏi về *Sa-môn quả*, ông ta lại trả lời bằng sự *ngụy biện
 
 Bạch Thế Tôn, nay con xin hỏi Ngài: Liệu Thế Tôn có thể chỉ ra *Sa-môn quả* *thiết thực hiện tại* ngay trong đời sống này không?"
 
-"Có thể được, tâu đại vương. Ta sẽ hỏi lại ngài, ngài nghĩ sao hãy đáp vậy. Giả sử ngài có một người nô lệ luôn tận tụy phục vụ, thức khuya dậy sớm. Một ngày nọ, người ấy nhận ra vua và mình đều là con người, nhưng vua được tận hưởng *sợi dây trói buộc của dễ chịu giác quan* (ngũ dục / kāmaguṇa) như chư thiên, còn mình thì cực nhọc. Người ấy quyết định *xuất gia*, cạo bỏ râu tóc, khoác áo cà-sa, sống đời thu thúc và tĩnh lặng. Khi nghe báo cáo về người ấy, liệu ngài có bắt người đó về làm nô lệ lại không?"
+"Có thể được, tâu đại vương. Ta sẽ hỏi lại ngài, ngài nghĩ sao hãy đáp vậy. Giả sử ngài có một người nô lệ luôn tận tụy phục vụ, thức khuya dậy sớm. Một ngày nọ, người ấy nhận ra vua và mình đều là con người, nhưng vua được tận hưởng *sợi dây trói buộc của bản năng* (ngũ dục / kāmaguṇa) như chư thiên, còn mình thì cực nhọc. Người ấy quyết định *xuất gia*, cạo bỏ râu tóc, khoác áo cà-sa, sống đời thu thúc và tĩnh lặng. Khi nghe báo cáo về người ấy, liệu ngài có bắt người đó về làm nô lệ lại không?"
 
 "Không thể như vậy, bạch Thế Tôn. Trái lại, chính chúng con sẽ đảnh lễ, chào đón, cúng dường y phục, thức ăn và sắp xếp sự bảo vệ hợp pháp cho vị ấy."
 

@@ -55,7 +55,7 @@ Ngài khẳng định, những ai thực hành trọn vẹn con đường này s
 | sekha | hữu học | người đang học | |
 | khīṇāsava | lậu tận | *người đã sạch nguồn ác* | |
 | [!] muddhāvasitta | quán đảnh | được lễ rưới nước lên đầu | Lễ đăng quang của vua chúa Ấn Độ cổ. |
-| kāmaguṇa | ngũ dục | *sợi dây trói buộc của dễ chịu giác quan* | |
+| kāmaguṇa | ngũ dục | *sợi dây trói buộc của bản năng* | |
 | jhāna | thiền | *Thiền-na* | |
 | [TL] brahmā sanaṅkumāro | Phạm thiên Đồng Tử | Phạm thiên Sanaṅkumāra | Vị thần tối cao trong bối cảnh Bà-la-môn giáo đương thời. |
 | [!] āmagandha | uế khí / mùi hôi | mùi xú uế | Ẩn dụ cho các trạng thái tâm lý tiêu cực và hành vi ác. |

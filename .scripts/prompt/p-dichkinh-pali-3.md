@@ -192,7 +192,7 @@ Nếu không có gì cần ghi chú, bỏ qua bước này.
 | dục (kāma) | sự dễ chịu giác quan |  |
 | dục (cchanda) | mong muốn | hoặc "ý nguyện" |
 | dục tham (chandarāga) | tham đắm | |
-| ngũ dục (kāma-guṇa) | sợi dây trói buộc của dễ chịu giác quan | |
+| ngũ dục (kāma-guṇa) | sợi dây trói buộc của bản năng | |
 | viễn ly (Viveka) | rời bỏ | |
 | ly (Vivicca)| hoàn toàn rời bỏ khỏi | |
 | Thiền | Thiền-na |  |
@@ -297,7 +297,7 @@ Nếu không có gì cần ghi chú, bỏ qua bước này.
 | Định giác chi(Samādhi-sambojjhaṅga) | Dấu hiệu Định | |
 | Xả giác chi(Upekkhā-sambojjhaṅga) | Dấu hiệu Tâm cân bằng | |
 | 5 triền cái (Pañca Nīvaraṇāni) | Năm điều làm mờ yếu | |
-| Dục tham(Kāmacchanda) | Mong muốn sự dễ chịu giác quan  | |
+| Dục tham(Kāmacchanda) | muốn thỏa mãn  bản năng  | |
 | Sân hận(Byāpāda) | Ác ý hãm hại | |
 | Hôn trầm – thụy miên(Thīna-middha) | Uể oải, buồn ngủ | |
 | Trạo cử – hối quá(Uddhacca-kukkucca) | Bồn chồn, hối hận | |

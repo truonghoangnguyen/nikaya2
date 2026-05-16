@@ -207,7 +207,7 @@ Ví dụ: **Bảng thuật ngữ**:
 | dục (kāma) | sự dễ chịu giác quan |  |
 | dục (cchanda) | mong muốn | hoặc "ý nguyện" |
 | dục tham (chandarāga) | tham đắm | |
-| ngũ dục (kāma-guṇa) | sợi dây trói buộc của dễ chịu giác quan | |
+| ngũ dục (kāma-guṇa) | sợi dây trói buộc của bản năng | |
 | viễn ly (Viveka) | rời bỏ | |
 | ly (Vivicca)| hoàn toàn rời bỏ khỏi | |
 | Thiền | Thiền-na |  |
@@ -322,7 +322,7 @@ Ví dụ: **Bảng thuật ngữ**:
 | Định giác chi(Samādhi-sambojjhaṅga) | Dấu hiệu Định | |
 | Xả giác chi(Upekkhā-sambojjhaṅga) | Dấu hiệu Tâm cân bằng | |
 | 5 triền cái (Pañca Nīvaraṇāni) | Năm điều làm mờ yếu | |
-| dục tham(Kāmacchanda) | mong muốn sự dễ chịu giác quan  | |
+| dục tham(Kāmacchanda) | muốn thỏa mãn  bản năng  | |
 | sân hận(Byāpāda) | ác ý hãm hại | |
 | hôn trầm, thụy miên(Thīna-middha) | uể oải, buồn ngủ | |
 | trạo cử, hối quá(Uddhacca-kukkucca) | bồn chồn, hối hận | |

@@ -59,7 +59,7 @@
 | [!] dakkhiṇāvisuddhi | cúng dường thanh tịnh | sự trong sạch của vật dâng cúng | Tính chất thanh tịnh của người cho và người nhận. |
 | [!] saṅgahavatthu | nhiếp pháp | yếu tố thu phục nhân tâm | Các phương pháp gắn kết cộng đồng. |
 | [!] vohāra | ngôn ngữ / danh ngôn | cách nói năng | Cách sử dụng lời nói trong giao tiếp. |
-| [KK] kāmaguṇa | ngũ dục | sợi dây trói buộc của dễ chịu giác quan | Các đối tượng giác quan trói buộc tâm trí. |
+| [KK] kāmaguṇa | ngũ dục | sợi dây trói buộc của bản năng | Các đối tượng giác quan trói buộc tâm trí. |
 | [!] rajanīya | khả nhiễm | kích thích sự đắm nhiễm | Tính chất của đối tượng gây ra sự dính mắc. |
 | [!] gati | thú / đạo | cõi tái sinh | Các trạng thái tồn tại sau khi chết. |
 | [!] macchariya | xan tham | sự bủn xỉn | Tâm lý keo kiệt, không muốn chia sẻ. |

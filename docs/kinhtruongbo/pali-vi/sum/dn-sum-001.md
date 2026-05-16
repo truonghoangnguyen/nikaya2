@@ -162,7 +162,7 @@ Có những vị theo *thuyết đoạn diệt* (đoạn kiến / ucchedavāda),
 
 Có những vị theo *thuyết Niết-bàn ngay trong hiện tại* (hiện tại niết bàn luận / diṭṭhadhammanibbānavāda), cho rằng sự giải thoát tối hậu có thể đạt được ngay lúc này, dựa trên năm cơ sở:
 
-1\.  Sự thỏa mãn tột đỉnh của năm *sợi dây trói buộc của dễ chịu giác quan* (ngũ dục / kāmaguṇa) chính là Niết-bàn.
+1\.  Sự thỏa mãn tột đỉnh của năm *sợi dây trói buộc của bản năng* (ngũ dục / kāmaguṇa) chính là Niết-bàn.
 
 2\.  Bác bỏ điều trên vì khoái lạc giác quan mang lại *đau khổ*. Họ cho rằng đạt được *Thiền-na* (Thiền / jhāna) thứ nhất (trạng thái có *chủ động hướng sự chú ý và nỗ lực duy trì sự chú ý* / savitakka savicāra) mới là Niết-bàn.
 

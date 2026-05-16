@@ -45,7 +45,7 @@ Nghe xong câu chuyện, các tỳ-kheo vô cùng hoan hỷ và ghi nhớ lời 
 | pubbenivāsa | túc mạng / tiền kiếp | đời sống quá khứ | |
 | khīṇāsava | lậu tận | người đã sạch nguồn ác | |
 | sato sampajāno | chánh niệm tỉnh giác | quan sát và nhận biết rõ ràng | |
-| kāmaguṇa | ngũ dục | sợi dây trói buộc của dễ chịu giác quan | |
+| kāmaguṇa | ngũ dục | sợi dây trói buộc của bản năng | |
 | yoniso manasikāra | như lý tác ý | tìm hiểu nguyên nhân gốc rễ | |
 | paṭiccasamuppāda | duyên khởi | sự sinh ra qua quan hệ Phụ thuộc | |
 | paccaya | duyên | Điều kiện | |

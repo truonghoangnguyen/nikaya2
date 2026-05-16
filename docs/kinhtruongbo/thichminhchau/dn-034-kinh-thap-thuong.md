@@ -1,3 +1,7 @@
+---
+tags:
+ - Sāriputta
+---
 # 34. KINH THẬP THƯỢNG
 _**(Dasuttara Sutta)**_
 
