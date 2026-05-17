@@ -436,6 +436,8 @@ export default defineConfig({
         `${pageTitle} — ${bookMeta.name} (${bookMeta.alternateName}). Bản đối chiếu ${compareMeta.label} trên Kinh Nikaya.`;
       const coverUrl = `${SITE_ORIGIN}${bookMeta.cover}`;
 
+      pageData.description = pageDescription;
+
       pageData.frontmatter.head.push(...buildSocialMetaTags({
         canonicalUrl: pageUrl,
         title: pageTitle,
@@ -554,6 +556,8 @@ export default defineConfig({
           const pageDescription = pageData.frontmatter.description ||
             `${pageTitle} — ${bookMeta.name} (${bookMeta.alternateName})${translatorMeta ? `, bản dịch ${translatorMeta.name}` : ''}. Đọc trên Kinh Nikaya.`;
           const coverUrl = `${SITE_ORIGIN}${bookMeta.cover}`;
+
+          pageData.description = pageDescription;
 
           pageData.frontmatter.head.push(...buildSocialMetaTags({
             canonicalUrl: pageUrl,
