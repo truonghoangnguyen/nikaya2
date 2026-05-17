@@ -75,7 +75,7 @@ export default {
   Layout() {
     return h(Theme.Layout, null, {
       'doc-before': () => h(DocTags),
-      'layout-bottom': () => [h(SuttaFooter), h(NotePopup)],
+      'layout-bottom': () => [h(NotePopup)],
       'nav-bar-content-before': () => h(NavSearchButton),
       'nav-bar-content-after': () => h('div', { class: 'nav-controls' }, [
         h(CompareButton),
