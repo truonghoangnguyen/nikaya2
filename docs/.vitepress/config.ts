@@ -226,6 +226,14 @@ function makeTranslatorEntity(meta: TranslatorMeta) {
   return ent;
 }
 
+// Public source URL per translator key for the visible footer link.
+// Returns undefined for translators without a canonical external source (e.g. raw Pali).
+function getTranslatorSourceUrl(key: string): string | undefined {
+  const meta = TRANSLATOR_META[key];
+  if (!meta) return undefined;
+  return meta.url || (meta.sameAs && meta.sameAs[0]) || undefined;
+}
+
 function buildBreadcrumbSchema(items: Array<{ name: string; url: string }>) {
   return {
     '@context': 'https://schema.org',
@@ -432,6 +440,14 @@ export default defineConfig({
         image: coverUrl,
       }));
 
+      pageData.frontmatter.suttaFooter = {
+        compareLabel: compareMeta.label,
+        translators: compareMeta.translatorKeys
+          .map(k => TRANSLATOR_META[k] ? { name: TRANSLATOR_META[k].name, url: getTranslatorSourceUrl(k) } : null)
+          .filter(Boolean),
+        dateModified,
+      };
+
       pageData.frontmatter.head.push([
         'script',
         { type: 'application/ld+json' },
@@ -542,6 +558,16 @@ export default defineConfig({
             description: pageDescription,
             image: coverUrl,
           }));
+
+          if (translatorMeta) {
+            pageData.frontmatter.suttaFooter = {
+              translators: [{
+                name: translatorMeta.name,
+                url: getTranslatorSourceUrl(authorSegment),
+              }],
+              dateModified,
+            };
+          }
 
           const breadcrumbItems = [
             { name: 'Trang chủ', url: `${SITE_ORIGIN}/` },

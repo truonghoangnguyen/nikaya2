@@ -13,6 +13,7 @@ import Home2Page from './components/Home2Page.vue'
 import IndexButton from '../components/IndexButton.vue'
 import DocTags from './components/DocTags.vue'
 import BookLayout from './components/BookLayout.vue'
+import SuttaFooter from './components/SuttaFooter.vue'
 import NavSearchButton from './NavSearchButton.vue'
 import './style.css'
 
@@ -74,7 +75,7 @@ export default {
   Layout() {
     return h(Theme.Layout, null, {
       'doc-before': () => h(DocTags),
-      'layout-bottom': () => h(NotePopup),
+      'layout-bottom': () => [h(SuttaFooter), h(NotePopup)],
       'nav-bar-content-before': () => h(NavSearchButton),
       'nav-bar-content-after': () => h('div', { class: 'nav-controls' }, [
         h(CompareButton),
