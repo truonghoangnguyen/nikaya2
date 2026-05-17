@@ -128,8 +128,8 @@ type CompareMeta = { translatorKeys: string[]; label: string; inLanguage: string
 
 const BOOK_META: Record<string, BookMeta> = {
   'kinhtruongbo': { name: 'Kinh Trường Bộ', alternateName: 'Dīgha Nikāya', url: `${SITE_ORIGIN}/kinhtruongbo/`, cover: '/covers/kinhtruongbo.webp' },
-  'kinhtrungbo':  { name: 'Kinh Trung Bộ',  alternateName: 'Majjhima Nikāya', url: `${SITE_ORIGIN}/kinhtrungbo/`,  cover: '/covers/kinhtrungbo.webp' },
-  'kinhtangchi':  { name: 'Kinh Tăng Chi Bộ', alternateName: 'Aṅguttara Nikāya', url: `${SITE_ORIGIN}/kinhtangchi/`, cover: '/covers/kinhtangchi.webp' },
+  'kinhtrungbo': { name: 'Kinh Trung Bộ', alternateName: 'Majjhima Nikāya', url: `${SITE_ORIGIN}/kinhtrungbo/`, cover: '/covers/kinhtrungbo.webp' },
+  'kinhtangchi': { name: 'Kinh Tăng Chi Bộ', alternateName: 'Aṅguttara Nikāya', url: `${SITE_ORIGIN}/kinhtangchi/`, cover: '/covers/kinhtangchi.webp' },
   'kinhtuongung': { name: 'Kinh Tương Ưng Bộ', alternateName: 'Saṃyutta Nikāya', url: `${SITE_ORIGIN}/kinhtuongung/`, cover: '/covers/kinhtuongung.webp' },
 };
 
@@ -169,22 +169,27 @@ const TRANSLATOR_META: Record<string, TranslatorMeta> = {
     ],
   },
   'nanamoli-bodhi-vi': {
-    name: 'Bhikkhu Ñāṇamoli & Bhikkhu Bodhi',
+    name: 'Trương Hoàng Nguyên',
     inLanguage: ['vi'],
     sameAs: [
-      'https://en.wikipedia.org/wiki/Bhikkhu_Bodhi',
-      'https://en.wikipedia.org/wiki/Bhikkhu_Nanamoli',
+      'https://github.com/truonghoangnguyen',
     ],
   },
-  'pali-vi': { name: 'Pali Canon (song ngữ Pali - Việt)', inLanguage: ['pi', 'vi'] },
-  'pali':    { name: 'Pali Canon', inLanguage: ['pi'] },
+  'pali-vi': {
+    name: 'Trương Hoàng Nguyên',
+    inLanguage: ['vi'],
+    sameAs: [
+      'https://github.com/truonghoangnguyen',
+    ],
+  },
+  'pali': { name: 'Pali Canon', inLanguage: ['pi'] },
 };
 
 // Compare-segment → translators + label. Folder convention from .scripts/seo-ai-folder-struct.md
 const COMPARE_META: Record<string, CompareMeta> = {
-  'c-pali-tmc-vi':   { translatorKeys: ['pali-vi', 'thichminhchau'], label: 'Pali & Thích Minh Châu', inLanguage: ['pi', 'vi'] },
+  'c-pali-tmc-vi': { translatorKeys: ['pali-vi', 'thichminhchau'], label: 'Pali & Thích Minh Châu', inLanguage: ['pi', 'vi'] },
   'c-sujato-tmc-vi': { translatorKeys: ['sujato-vi', 'thichminhchau'], label: 'Sujato & Thích Minh Châu', inLanguage: ['vi'] },
-  'c-nm-tmc-vi':     { translatorKeys: ['nanamoli-bodhi-vi', 'thichminhchau'], label: 'Ñāṇamoli-Bodhi & Thích Minh Châu', inLanguage: ['vi'] },
+  'c-nm-tmc-vi': { translatorKeys: ['nanamoli-bodhi-vi', 'thichminhchau'], label: 'Ñāṇamoli-Bodhi & Thích Minh Châu', inLanguage: ['vi'] },
 };
 
 // Git mtime map: relative path (from repo root) → ISO date of most recent commit
@@ -385,7 +390,7 @@ export default defineConfig({
     }
 
     // --- Global Canonical URL ---
-    let cleanPath = pageData.relativePath.replace(/\.md$/, '.html');
+    let cleanPath = pageData.relativePath.replace(/\.md$/, '');
     // For index.md files, the canonical URL should point to the directory root
     if (cleanPath.endsWith('index.html')) {
       cleanPath = cleanPath.replace(/index\.html$/, '');
