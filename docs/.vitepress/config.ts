@@ -35,6 +35,8 @@ import jill_stroke_vi from '../jill-stroke/vi/meta/filelist';
 import fs from 'fs';
 //@ts-ignore
 import path from 'path';
+//@ts-ignore
+import { execSync } from 'child_process';
 
 // Compare-page tmc lists (used to build compare-lookup.json)
 import compare_dn_pali from '../kinhtruongbo/c-pali-tmc-vi/tmc.js';
@@ -114,6 +116,145 @@ const BOOK_NAV = {
   'jill-stroke/vi': jill_stroke_vi,
 
 };
+
+// --- SEO / Schema constants (PR5) ---
+
+const SITE_ORIGIN = 'https://kinhnikaya.org';
+const DEFAULT_PUBLISHED = '2026-05-03';
+
+type BookMeta = { name: string; alternateName: string; url: string; cover: string };
+type TranslatorMeta = { name: string; inLanguage: string[]; url?: string; sameAs?: string[] };
+type CompareMeta = { translatorKeys: string[]; label: string; inLanguage: string[] };
+
+const BOOK_META: Record<string, BookMeta> = {
+  'kinhtruongbo': { name: 'Kinh Trường Bộ', alternateName: 'Dīgha Nikāya', url: `${SITE_ORIGIN}/kinhtruongbo/`, cover: '/covers/kinhtruongbo.webp' },
+  'kinhtrungbo':  { name: 'Kinh Trung Bộ',  alternateName: 'Majjhima Nikāya', url: `${SITE_ORIGIN}/kinhtrungbo/`,  cover: '/covers/kinhtrungbo.webp' },
+  'kinhtangchi':  { name: 'Kinh Tăng Chi Bộ', alternateName: 'Aṅguttara Nikāya', url: `${SITE_ORIGIN}/kinhtangchi/`, cover: '/covers/kinhtangchi.webp' },
+  'kinhtuongung': { name: 'Kinh Tương Ưng Bộ', alternateName: 'Saṃyutta Nikāya', url: `${SITE_ORIGIN}/kinhtuongung/`, cover: '/covers/kinhtuongung.webp' },
+};
+
+const TRANSLATOR_META: Record<string, TranslatorMeta> = {
+  'thichminhchau': {
+    name: 'Thích Minh Châu',
+    inLanguage: ['vi'],
+    sameAs: [
+      'https://vi.wikipedia.org/wiki/Th%C3%ADch_Minh_Ch%C3%A2u',
+      'https://en.wikipedia.org/wiki/Thich_Minh_Chau',
+    ],
+  },
+  'sujato-vi': {
+    name: 'Bhikkhu Sujato',
+    inLanguage: ['vi'],
+    url: 'https://suttacentral.net/sujato',
+    sameAs: [
+      'https://en.wikipedia.org/wiki/Bhikkhu_Sujato',
+      'https://suttacentral.net/sujato',
+    ],
+  },
+  'sujato-en': {
+    name: 'Bhikkhu Sujato',
+    inLanguage: ['en'],
+    url: 'https://suttacentral.net/sujato',
+    sameAs: [
+      'https://en.wikipedia.org/wiki/Bhikkhu_Sujato',
+      'https://suttacentral.net/sujato',
+    ],
+  },
+  'nanamoli-bodhi-en': {
+    name: 'Bhikkhu Ñāṇamoli & Bhikkhu Bodhi',
+    inLanguage: ['en'],
+    sameAs: [
+      'https://en.wikipedia.org/wiki/Bhikkhu_Bodhi',
+      'https://en.wikipedia.org/wiki/Bhikkhu_Nanamoli',
+    ],
+  },
+  'nanamoli-bodhi-vi': {
+    name: 'Bhikkhu Ñāṇamoli & Bhikkhu Bodhi',
+    inLanguage: ['vi'],
+    sameAs: [
+      'https://en.wikipedia.org/wiki/Bhikkhu_Bodhi',
+      'https://en.wikipedia.org/wiki/Bhikkhu_Nanamoli',
+    ],
+  },
+  'pali-vi': { name: 'Pali Canon (song ngữ Pali - Việt)', inLanguage: ['pi', 'vi'] },
+  'pali':    { name: 'Pali Canon', inLanguage: ['pi'] },
+};
+
+// Compare-segment → translators + label. Folder convention from .scripts/seo-ai-folder-struct.md
+const COMPARE_META: Record<string, CompareMeta> = {
+  'c-pali-tmc-vi':   { translatorKeys: ['pali-vi', 'thichminhchau'], label: 'Pali & Thích Minh Châu', inLanguage: ['pi', 'vi'] },
+  'c-sujato-tmc-vi': { translatorKeys: ['sujato-vi', 'thichminhchau'], label: 'Sujato & Thích Minh Châu', inLanguage: ['vi'] },
+  'c-nm-tmc-vi':     { translatorKeys: ['nanamoli-bodhi-vi', 'thichminhchau'], label: 'Ñāṇamoli-Bodhi & Thích Minh Châu', inLanguage: ['vi'] },
+};
+
+// Git mtime map: relative path (from repo root) → ISO date of most recent commit
+const GIT_MTIME: Record<string, string> = (() => {
+  const map: Record<string, string> = {};
+  try {
+    const out = execSync(
+      'git log --pretty=format:COMMIT:%cI --name-only --diff-filter=AMR',
+      { cwd: process.cwd(), encoding: 'utf8', maxBuffer: 64 * 1024 * 1024 }
+    );
+    let currentDate = '';
+    for (const line of out.split('\n')) {
+      if (line.startsWith('COMMIT:')) { currentDate = line.slice(7); continue; }
+      const trimmed = line.trim();
+      if (!trimmed) continue;
+      if (!map[trimmed]) map[trimmed] = currentDate; // first seen = most recent
+    }
+  } catch (err) {
+    console.warn('git mtime lookup failed:', err);
+  }
+  return map;
+})();
+
+function getDateModified(relativePath: string): string {
+  const key = `docs/${relativePath}`;
+  if (GIT_MTIME[key]) return GIT_MTIME[key].slice(0, 10);
+  // Dynamic pages (e.g. compare [slug].md) — fall back to compare data file mtime if available
+  const dir = `docs/${relativePath.split('/').slice(0, -1).join('/')}`;
+  for (const k of Object.keys(GIT_MTIME)) {
+    if (k.startsWith(dir + '/')) return GIT_MTIME[k].slice(0, 10);
+  }
+  return DEFAULT_PUBLISHED;
+}
+
+function makeTranslatorEntity(meta: TranslatorMeta) {
+  const ent: Record<string, unknown> = { '@type': 'Person', 'name': meta.name };
+  if (meta.url) ent['url'] = meta.url;
+  if (meta.sameAs) ent['sameAs'] = meta.sameAs;
+  return ent;
+}
+
+function buildBreadcrumbSchema(items: Array<{ name: string; url: string }>) {
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    'itemListElement': items.map((it, idx) => ({
+      '@type': 'ListItem',
+      'position': idx + 1,
+      'name': it.name,
+      'item': it.url,
+    })),
+  };
+}
+
+function buildSocialMetaTags(opts: { canonicalUrl: string; title: string; description: string; image: string }) {
+  const { canonicalUrl, title, description, image } = opts;
+  return [
+    ['meta', { property: 'og:title', content: title }],
+    ['meta', { property: 'og:description', content: description }],
+    ['meta', { property: 'og:url', content: canonicalUrl }],
+    ['meta', { property: 'og:type', content: 'article' }],
+    ['meta', { property: 'og:image', content: image }],
+    ['meta', { property: 'og:site_name', content: 'Kinh Nikaya' }],
+    ['meta', { property: 'og:locale', content: 'vi_VN' }],
+    ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
+    ['meta', { name: 'twitter:title', content: title }],
+    ['meta', { name: 'twitter:description', content: description }],
+    ['meta', { name: 'twitter:image', content: image }],
+  ];
+}
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -267,8 +408,78 @@ export default defineConfig({
 
     const { relativePath } = pageData;
     const pathParts = relativePath.split('/');
-    //const currentBook = pathParts[0];
     const path = getPath(relativePath);
+
+    const bookSegment = pathParts[0];
+    const authorSegment = pathParts[1];
+    const bookMeta = BOOK_META[bookSegment];
+
+    const pageUrl = `${SITE_ORIGIN}/${relativePath.replace(/\.md$/, '.html')}`;
+    const dateModified = getDateModified(relativePath);
+
+    // --- Compare page branch (e.g. kinhtrungbo/c-pali-tmc-vi/[slug].html) ---
+    const compareMeta = authorSegment ? COMPARE_META[authorSegment] : undefined;
+    if (bookMeta && compareMeta) {
+      const pageTitle = (pageData.params?.data?.title as string) || pageData.title || bookMeta.name;
+      const pageDescription = pageData.frontmatter.description ||
+        `${pageTitle} — ${bookMeta.name} (${bookMeta.alternateName}). Bản đối chiếu ${compareMeta.label} trên Kinh Nikaya.`;
+      const coverUrl = `${SITE_ORIGIN}${bookMeta.cover}`;
+
+      pageData.frontmatter.head.push(...buildSocialMetaTags({
+        canonicalUrl: pageUrl,
+        title: pageTitle,
+        description: pageDescription,
+        image: coverUrl,
+      }));
+
+      pageData.frontmatter.head.push([
+        'script',
+        { type: 'application/ld+json' },
+        JSON.stringify(buildBreadcrumbSchema([
+          { name: 'Trang chủ', url: `${SITE_ORIGIN}/` },
+          { name: bookMeta.name, url: bookMeta.url },
+          { name: `Bản so sánh: ${compareMeta.label}`, url: `${SITE_ORIGIN}/${bookSegment}/${authorSegment}/mucluc.html` },
+          { name: pageTitle, url: pageUrl },
+        ])),
+      ]);
+
+      const translators = compareMeta.translatorKeys
+        .map(k => TRANSLATOR_META[k])
+        .filter(Boolean)
+        .map(makeTranslatorEntity);
+
+      const compareSchema: Record<string, unknown> = {
+        '@context': 'https://schema.org',
+        '@type': 'ScholarlyArticle',
+        'name': pageTitle,
+        'headline': pageTitle,
+        'url': pageUrl,
+        'inLanguage': compareMeta.inLanguage,
+        'datePublished': DEFAULT_PUBLISHED,
+        'dateModified': dateModified,
+        'isPartOf': {
+          '@type': 'Book',
+          'name': bookMeta.name,
+          'alternateName': bookMeta.alternateName,
+          'url': bookMeta.url,
+        },
+        'publisher': {
+          '@type': 'Organization',
+          'name': 'Kinh Nikaya',
+          'url': SITE_ORIGIN,
+        },
+        'image': `${SITE_ORIGIN}${bookMeta.cover}`,
+      };
+      if (translators.length) compareSchema['translator'] = translators;
+
+      pageData.frontmatter.head.push([
+        'script',
+        { type: 'application/ld+json' },
+        JSON.stringify(compareSchema),
+      ]);
+
+      return pageData;
+    }
 
     const currentBook = BOOK_NAV[path];
 
@@ -316,75 +527,48 @@ export default defineConfig({
           pageData.frontmatter.prev = undefined; // No previous page
         }
 
-        // --- ScholarlyArticle Schema Injection ---
-        const bookSegment = pathParts[0]; // e.g. 'kinhtruongbo'
-        const authorSegment = pathParts[1]; // e.g. 'thichminhchau'
-
-        const BOOK_META: Record<string, { name: string; alternateName: string; url: string }> = {
-          'kinhtruongbo': { name: 'Kinh Trường Bộ', alternateName: 'Dīgha Nikāya', url: 'https://kinhnikaya.org/kinhtruongbo/' },
-          'kinhtrungbo': { name: 'Kinh Trung Bộ', alternateName: 'Majjhima Nikāya', url: 'https://kinhnikaya.org/kinhtrungbo/' },
-          'kinhtangchi': { name: 'Kinh Tăng Chi Bộ', alternateName: 'Aṅguttara Nikāya', url: 'https://kinhnikaya.org/kinhtangchi/' },
-          'kinhtuongung': { name: 'Kinh Tương Ưng Bộ', alternateName: 'Saṃyutta Nikāya', url: 'https://kinhnikaya.org/kinhtuongung/' },
-        };
-
-        const TRANSLATOR_META: Record<string, { name: string; inLanguage: string[]; url?: string; sameAs?: string[] }> = {
-          'thichminhchau': {
-            name: 'Thích Minh Châu',
-            inLanguage: ['vi'],
-            sameAs: [
-              'https://vi.wikipedia.org/wiki/Th%C3%ADch_Minh_Ch%C3%A2u',
-              'https://en.wikipedia.org/wiki/Thich_Minh_Chau',
-            ],
-          },
-          'sujato-vi': {
-            name: 'Bhikkhu Sujato',
-            inLanguage: ['vi'],
-            url: 'https://suttacentral.net/sujato',
-            sameAs: [
-              'https://en.wikipedia.org/wiki/Bhikkhu_Sujato',
-              'https://suttacentral.net/sujato',
-            ],
-          },
-          'sujato-en': {
-            name: 'Bhikkhu Sujato',
-            inLanguage: ['en'],
-            url: 'https://suttacentral.net/sujato',
-            sameAs: [
-              'https://en.wikipedia.org/wiki/Bhikkhu_Sujato',
-              'https://suttacentral.net/sujato',
-            ],
-          },
-          'nanamoli-bodhi-en': {
-            name: 'Bhikkhu Ñāṇamoli & Bhikkhu Bodhi',
-            inLanguage: ['en'],
-            sameAs: [
-              'https://en.wikipedia.org/wiki/Bhikkhu_Bodhi',
-              'https://en.wikipedia.org/wiki/Bhikkhu_Nanamoli',
-            ],
-          },
-          'nanamoli-bodhi-vi': {
-            name: 'Bhikkhu Ñāṇamoli & Bhikkhu Bodhi',
-            inLanguage: ['vi'],
-            sameAs: [
-              'https://en.wikipedia.org/wiki/Bhikkhu_Bodhi',
-              'https://en.wikipedia.org/wiki/Bhikkhu_Nanamoli',
-            ],
-          },
-          'pali-vi': { name: 'Pali Canon (song ngữ Pali - Việt)', inLanguage: ['pi', 'vi'] },
-          'pali': { name: 'Pali Canon', inLanguage: ['pi'] },
-        };
-
-        const bookMeta = BOOK_META[bookSegment];
+        // --- ScholarlyArticle Schema + Breadcrumb + OG (PR5) ---
         const translatorMeta = TRANSLATOR_META[authorSegment];
 
         if (bookMeta) {
-          const pageUrl = `https://kinhnikaya.org/${relativePath.replace(/\.md$/, '.html')}`;
+          const pageTitle = currentBook[currentIndex].text;
+          const pageDescription = pageData.frontmatter.description ||
+            `${pageTitle} — ${bookMeta.name} (${bookMeta.alternateName})${translatorMeta ? `, bản dịch ${translatorMeta.name}` : ''}. Đọc trên Kinh Nikaya.`;
+          const coverUrl = `${SITE_ORIGIN}${bookMeta.cover}`;
+
+          pageData.frontmatter.head.push(...buildSocialMetaTags({
+            canonicalUrl: pageUrl,
+            title: pageTitle,
+            description: pageDescription,
+            image: coverUrl,
+          }));
+
+          const breadcrumbItems = [
+            { name: 'Trang chủ', url: `${SITE_ORIGIN}/` },
+            { name: bookMeta.name, url: bookMeta.url },
+          ];
+          if (translatorMeta) {
+            breadcrumbItems.push({
+              name: translatorMeta.name,
+              url: `${SITE_ORIGIN}/${bookSegment}/${authorSegment}/`,
+            });
+          }
+          breadcrumbItems.push({ name: pageTitle, url: pageUrl });
+
+          pageData.frontmatter.head.push([
+            'script',
+            { type: 'application/ld+json' },
+            JSON.stringify(buildBreadcrumbSchema(breadcrumbItems)),
+          ]);
+
           const schema: Record<string, unknown> = {
             '@context': 'https://schema.org',
             '@type': 'ScholarlyArticle',
-            'name': currentBook[currentIndex].text,
-            'headline': currentBook[currentIndex].text,
+            'name': pageTitle,
+            'headline': pageTitle,
             'url': pageUrl,
+            'datePublished': DEFAULT_PUBLISHED,
+            'dateModified': dateModified,
             'isPartOf': {
               '@type': 'Book',
               'name': bookMeta.name,
@@ -394,22 +578,16 @@ export default defineConfig({
             'publisher': {
               '@type': 'Organization',
               'name': 'Kinh Nikaya',
-              'url': 'https://kinhnikaya.org',
+              'url': SITE_ORIGIN,
             },
+            'image': coverUrl,
           };
 
           if (translatorMeta) {
-            const translatorEntity: Record<string, unknown> = {
-              '@type': 'Person',
-              'name': translatorMeta.name,
-            };
-            if (translatorMeta.url) translatorEntity['url'] = translatorMeta.url;
-            if (translatorMeta.sameAs) translatorEntity['sameAs'] = translatorMeta.sameAs;
-            schema['translator'] = translatorEntity;
+            schema['translator'] = makeTranslatorEntity(translatorMeta);
             schema['inLanguage'] = translatorMeta.inLanguage;
           }
 
-          pageData.frontmatter.head = pageData.frontmatter.head || [];
           pageData.frontmatter.head.push([
             'script',
             { type: 'application/ld+json' },
