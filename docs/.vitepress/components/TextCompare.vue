@@ -14,11 +14,8 @@ interface Props {
   leftTitle?: string
   rightTitle?: string
 
-  // Production: small URL pointing at pre-rendered JSON
-  // ({ leftHtml, rightHtml }) under /compare-data/. Empty in dev.
-  dataUrl?: string
-
-  // Optional inline HTML (used when caller already has rendered markup)
+  // Production: rendered HTML inlined via route params (from compare-render.js).
+  // Empty in dev — dev path fetches raw markdown client-side.
   leftContentHtml?: string
   rightContentHtml?: string
   noteContentHtml?: string
@@ -28,7 +25,6 @@ const props = withDefaults(defineProps<Props>(), {
   leftTitle: 'Left',
   rightTitle: 'Right',
   notePath: '',
-  dataUrl: '',
   leftContentHtml: '',
   rightContentHtml: '',
   noteContentHtml: '',
@@ -40,7 +36,7 @@ const finalRightHtml = ref(props.rightContentHtml || '')
 const finalNoteHtml = ref(props.noteContentHtml || '')
 
 const isLoading = ref(
-  !props.leftContentHtml && !props.rightContentHtml && (!!props.dataUrl || import.meta.env.DEV)
+  !props.leftContentHtml && !props.rightContentHtml && import.meta.env.DEV
 )
 const error = ref<string | null>(null)
 
@@ -63,27 +59,9 @@ const rightOriginalPath = computed(() => props.rightPath.replace(/\.md$/, ''))
 const hasNote = computed(() => finalNoteHtml.value.trim().length > 0)
 
 onMounted(async () => {
-  // Already have HTML inline
+  // Already have HTML inline (production SSG path)
   if (props.leftContentHtml && props.rightContentHtml) {
     isLoading.value = false
-    return
-  }
-
-  // Production: fetch pre-rendered JSON
-  if (props.dataUrl) {
-    try {
-      const res = await fetch(props.dataUrl)
-      if (!res.ok) throw new Error(`Failed to load ${props.dataUrl}`)
-      const json = await res.json()
-      finalLeftHtml.value = json.leftHtml || ''
-      finalRightHtml.value = json.rightHtml || ''
-      if (json.noteHtml) finalNoteHtml.value = json.noteHtml
-    } catch (e) {
-      error.value = e instanceof Error ? e.message : 'Unknown error loading content'
-      console.error(error.value)
-    } finally {
-      isLoading.value = false
-    }
     return
   }
 

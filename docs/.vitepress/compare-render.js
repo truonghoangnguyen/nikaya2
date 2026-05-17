@@ -1,8 +1,6 @@
 // Shared helper for compare-page pre-rendering.
-// At build time, renders left/right markdown to HTML, writes JSON to
-// docs/public/compare-data/<dirKey>/<slug>.json, and returns small params
-// containing only a dataUrl. Keeps HTML out of page JS bundles.
-//
+// At build time, renders left/right markdown to HTML and inlines it into route
+// params so VitePress SSG emits content directly into static HTML (for SEO).
 // In dev, returns pages untouched so TextCompare's dev-fetch path runs.
 
 import fs from 'node:fs/promises';
@@ -37,10 +35,6 @@ async function readAndRender(relativePath, mdInstance) {
   }
 }
 
-function safeName(value, fallback) {
-  return String(value ?? fallback).replace(/[^\w.-]+/g, '_');
-}
-
 /**
  * @param {Array} pages - Array of { params: { slug, data: { left, right, ... } } }
  * @param {string} dirKey - Stable directory key, e.g. 'kinhtruongbo/c-pali-tmc-vi'
@@ -48,12 +42,9 @@ function safeName(value, fallback) {
 export async function buildComparePages(pages, dirKey) {
   if (process.env.NODE_ENV !== 'production') return pages;
 
-  const outDir = path.resolve(process.cwd(), 'docs/public/compare-data', dirKey);
-  await fs.mkdir(outDir, { recursive: true });
-
   return Promise.all(
     pages.map(async (page) => {
-      const { data = {}, slug } = page.params || {};
+      const { data = {} } = page.params || {};
       if (!data.left || !data.right) return page;
 
       const [leftHtml, rightHtml] = await Promise.all([
@@ -61,18 +52,13 @@ export async function buildComparePages(pages, dirKey) {
         readAndRender(data.right, mdRight),
       ]);
 
-      const fileName = `${safeName(slug, data.title)}.json`;
-      await fs.writeFile(
-        path.join(outDir, fileName),
-        JSON.stringify({ leftHtml, rightHtml })
-      );
-
       return {
         params: {
           ...page.params,
           data: {
             ...data,
-            dataUrl: `/compare-data/${dirKey}/${fileName}`,
+            leftHtml,
+            rightHtml,
           },
         },
       };

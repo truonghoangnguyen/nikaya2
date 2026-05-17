@@ -25,7 +25,8 @@ onMounted(() => {
   :rightPath="data.right"
   :leftTitle="data.leftTitle"
   :rightTitle="data.rightTitle"
-  :dataUrl="data.dataUrl"
+  :leftContentHtml="data.leftHtml"
+  :rightContentHtml="data.rightHtml"
   notePath=""
 />
 
