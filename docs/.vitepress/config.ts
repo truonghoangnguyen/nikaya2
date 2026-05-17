@@ -143,21 +143,19 @@ const TRANSLATOR_META: Record<string, TranslatorMeta> = {
     ],
   },
   'sujato-vi': {
-    name: 'Bhikkhu Sujato',
+    name: 'Trương Hoàng Nguyên',
     inLanguage: ['vi'],
-    url: 'https://suttacentral.net/sujato',
     sameAs: [
-      'https://en.wikipedia.org/wiki/Bhikkhu_Sujato',
-      'https://suttacentral.net/sujato',
+      'https://github.com/truonghoangnguyen/nikaya2',
     ],
   },
   'sujato-en': {
     name: 'Bhikkhu Sujato',
     inLanguage: ['en'],
-    url: 'https://suttacentral.net/sujato',
+    url: 'https://suttacentral.net',
     sameAs: [
       'https://en.wikipedia.org/wiki/Bhikkhu_Sujato',
-      'https://suttacentral.net/sujato',
+      'https://suttacentral.net',
     ],
   },
   'nanamoli-bodhi-en': {
@@ -172,14 +170,14 @@ const TRANSLATOR_META: Record<string, TranslatorMeta> = {
     name: 'Trương Hoàng Nguyên',
     inLanguage: ['vi'],
     sameAs: [
-      'https://github.com/truonghoangnguyen',
+      'https://github.com/truonghoangnguyen/nikaya2',
     ],
   },
   'pali-vi': {
     name: 'Trương Hoàng Nguyên',
     inLanguage: ['vi'],
     sameAs: [
-      'https://github.com/truonghoangnguyen',
+      'https://github.com/truonghoangnguyen/nikaya2',
     ],
   },
   'pali': { name: 'Pali Canon', inLanguage: ['pi'] },
@@ -187,7 +185,7 @@ const TRANSLATOR_META: Record<string, TranslatorMeta> = {
 
 // Compare-segment → translators + label. Folder convention from .scripts/seo-ai-folder-struct.md
 const COMPARE_META: Record<string, CompareMeta> = {
-  'c-pali-tmc-vi': { translatorKeys: ['pali-vi', 'thichminhchau'], label: 'Pali & Thích Minh Châu', inLanguage: ['pi', 'vi'] },
+  'c-pali-tmc-vi': { translatorKeys: ['pali-vi', 'thichminhchau'], label: 'Trương Hoàng Nguyên & Thích Minh Châu', inLanguage: ['vi'] },
   'c-sujato-tmc-vi': { translatorKeys: ['sujato-vi', 'thichminhchau'], label: 'Sujato & Thích Minh Châu', inLanguage: ['vi'] },
   'c-nm-tmc-vi': { translatorKeys: ['nanamoli-bodhi-vi', 'thichminhchau'], label: 'Ñāṇamoli-Bodhi & Thích Minh Châu', inLanguage: ['vi'] },
 };

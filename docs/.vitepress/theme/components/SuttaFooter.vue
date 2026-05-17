@@ -20,7 +20,7 @@ const info = computed<SuttaFooterData | undefined>(() => {
 
 <template>
   <div v-if="info" class="sutta-footer">
-    <span v-if="info.compareLabel" class="sutta-footer__label">Bản đối chiếu:</span>
+    <span v-if="info.compareLabel" class="sutta-footer__label">Bản đọc song song:</span>
     <span v-else class="sutta-footer__label">Bản dịch:</span>
 
     <span class="sutta-footer__translators">
@@ -31,17 +31,17 @@ const info = computed<SuttaFooterData | undefined>(() => {
       </template>
     </span>
 
-    <span class="sutta-footer__sep"> · </span>
-    <span>Cập nhật: <time :datetime="info.dateModified">{{ info.dateModified }}</time></span>
+    <!-- <span class="sutta-footer__sep"> · </span> -->
+    <!-- <span>Cập nhật: <time :datetime="info.dateModified">{{ info.dateModified }}</time></span> -->
   </div>
 </template>
 
 <style scoped>
 .sutta-footer {
   max-width: 720px;
-  margin: 2rem auto 0;
-  padding: 0.75rem 1rem;
-  border-top: 1px solid var(--vp-c-divider);
+  margin: .2rem auto 0;
+  /* padding: 0.15rem 1rem; */
+  /* border-top: 1px solid var(--vp-c-divider); */
   font-size: 0.85rem;
   line-height: 1.5;
   color: var(--vp-c-text-2);
