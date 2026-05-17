@@ -266,11 +266,9 @@ function buildSocialMetaTags(opts: { canonicalUrl: string; title: string; descri
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  lang: 'vi-VN',
   title: "Kinh Nikaya",
   description: "Khám phá bộ sưu tập Kinh điển Nikaya với bản dịch song ngữ Pali - Việt. Thư viện tra cứu kinh điển Phật giáo Nguyên thủy đầy đủ và chính xác.",
-  sitemap: {
-    hostname: 'https://kinhnikaya.org'
-  },
   cleanUrls: true,
   markdown: {
     anchor: {
