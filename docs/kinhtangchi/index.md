@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Kinh Tăng Chi Bộ (Aṅguttara Nikāya) - Thư viện Kinh điển
+title: Kinh Tăng Chi Bộ (Aṅguttara Nikāya)
 description: Aṅguttara Nikāya (Kinh Tăng Chi Bộ) gồm hơn 8.000 bài kinh sắp xếp theo số lượng pháp từ 1 đến 11. Bản dịch Thích Minh Châu và Bhikkhu Sujato.
 head:
   - - script

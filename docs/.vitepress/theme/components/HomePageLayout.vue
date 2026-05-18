@@ -1,6 +1,6 @@
 <template>
   <div class="home-container">
-    <h1 class="visually-hidden">Kinh Nikaya - Thư viện Kinh điển Phật giáo</h1>
+    <h1 class="visually-hidden">Kinh Nikaya - Kinh Phật giáo</h1>
     <div class="hero-section">
       <div class="quote-split-layout">
         <div class="quote-content-left">

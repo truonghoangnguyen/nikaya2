@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Kinh Trung Bộ (Majjhima Nikāya) - Thư viện Kinh điển
+title: Kinh Trung Bộ (Majjhima Nikāya)
 description: Majjhima Nikāya (Kinh Trung Bộ) gồm 152 bài kinh của Đức Phật, chứa đựng những giáo lý thực hành cốt lõi về thiền định và giải thoát. Bản dịch Nanamoli-Bodhi và Thích Minh Châu.
 head:
   - - script

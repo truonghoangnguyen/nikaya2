@@ -85,3 +85,4 @@ export default {
     })
   }
 }
+// 'layout-bottom': () => [h(SuttaFooter), h(NotePopup)],

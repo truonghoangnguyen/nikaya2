@@ -12,13 +12,17 @@
     "buildsearch": "vitepress build docs --search",
     "import": "node scripts/import-docs.js",
     "update-config": "node scripts/update-config.js",
-    "generate-sidebar": "node scripts/generate-sidebar.js"
+    "generate-sidebar": "node scripts/generate-sidebar.js",
+    "test:seo": "node .scripts/test-seo.js",
+    "fulltest": "pnpm build && pnpm test:seo"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "@types/markdown-it": "^14.1.2",
+    "cheerio": "^1.2.0",
+    "glob": "^13.0.6",
     "markdown-it-footnote": "^4.0.0",
     "vitepress": "^1.6.4",
     "vue": "^3.5.33"

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Kinh Tương Ưng Bộ (Saṃyutta Nikāya) - Thư viện Kinh điển
+title: Kinh Tương Ưng Bộ (Saṃyutta Nikāya)
 description: Saṃyutta Nikāya (Kinh Tương Ưng Bộ) gồm khoảng 2.900 bài kinh nhóm theo chủ đề, tập trung vào Duyên khởi, Ngũ uẩn, Lục nhập và Bát chánh đạo.
 head:
   - - script
