@@ -1,10 +1,13 @@
 # Kinh Nikaya — Thư viện Kinh điển Phật giáo Nguyên thủy
-
 **Trang chủ:** <https://kinhnikaya.org>
 
-Kinh Nikaya là thư viện trực tuyến mở, cung cấp toàn bộ **Kinh tạng Pāli (Nikāya)** của Phật giáo Nguyên thủy (Theravāda) với nhiều bản dịch song song và công cụ đối chiếu câu-theo-câu giữa các bản dịch.
+## Tại sao ?
 
-Mục tiêu: giúp người đọc Việt Nam tiếp cận Kinh điển một cách **chính xác, miễn phí, không quảng cáo, dễ tra cứu**, đồng thời đối chiếu được nguyên bản Pāli với các bản dịch tiếng Việt và tiếng Anh uy tín.
+Tôi đọc kinh Nikaya nhưng không hiểu: sắc là gì, tưởng là gì, thọ là gì, hành là gì, thức là gì và nhiều thứ khác.
+
+Những Bản dịch của tôi giống như HT Thích Minh Châu nói "người đọc phải tự tìm hiểu.
+
+Kinh Nikaya là thư viện trực tuyến mở, cung cấp toàn bộ **Kinh tạng Pāli (Nikāya)** của Phật giáo Nguyên thủy (Theravāda) với nhiều bản dịch song song và công cụ đối chiếu câu-theo-câu giữa các bản dịch.
 
 ---
 
@@ -32,16 +35,16 @@ Truy cập:
 Mỗi bộ kinh được cung cấp dưới nhiều bản dịch để đối chiếu:
 
 ### Tiếng Pāli (nguyên bản)
-- **`pali/`** — Bản Pāli gốc theo ấn bản Mahāsaṅgīti / SuttaCentral.
-- **`pali-vi/`** — Bản Pāli dịch sát nghĩa sang tiếng Việt (do Trương Hoàng Nguyên thực hiện với sự hỗ trợ của AI).
+- **`pali/`** — Bản Pāli gốc theo ấn bản  lấy từ [SuttaCentral](https://suttacentral.net).
+- **`pali-vi/`** — Bản Pāli dịch sang tiếng Việt.
 
 ### Tiếng Việt
 - **`thichminhchau/`** — **Hòa thượng Thích Minh Châu** (1918–2012): Bản dịch Việt ngữ kinh điển nhất, được dịch trực tiếp từ Pāli trong nhiều thập niên. Nguồn tham chiếu chuẩn của Phật giáo Việt Nam hiện nay.
-- **`sujato-vi/`** — Bản dịch Việt từ bản tiếng Anh của Bhikkhu Sujato (Trương Hoàng Nguyên thực hiện).
+- **`sujato-vi/`** — Bản dịch Việt từ bản tiếng Anh của Bhikkhu Sujato.
 - **`nanamoli-bodhi-vi/`** *(Trung Bộ)* — Bản dịch Việt từ bản tiếng Anh "The Middle Length Discourses" của Ñāṇamoli & Bodhi.
 
 ### Tiếng Anh
-- **`sujato-en/`** — **Bhikkhu Sujato** (SuttaCentral): Bản dịch hiện đại, dễ đọc — phổ biến nhất trong cộng đồng Phật giáo nói tiếng Anh ngày nay.
+- **`sujato-en/`** — **Bhikkhu Sujato** ([SuttaCentral](https://suttacentral.net): Bản dịch hiện đại, dễ đọc — phổ biến nhất trong cộng đồng Phật giáo nói tiếng Anh ngày nay.
 - **`nanamoli-bodhi-en/`** *(Trung Bộ)* — **Bhikkhu Ñāṇamoli & Bhikkhu Bodhi**: Bản dịch học thuật uy tín nhất của Trung Bộ Kinh ("The Middle Length Discourses of the Buddha").
 
 ### Trang đối chiếu song song (`c-…/`)
@@ -49,28 +52,13 @@ Mỗi bài kinh có thể mở dưới dạng **so sánh hai cột**: ví dụ P
 
 ---
 
-## Tính năng chính
+## Kỹ thuật
 
-- **Đọc song ngữ:** Hai cột cuộn đồng bộ, đối chiếu Pāli ↔ Việt, Việt ↔ Anh.
-- **Tìm kiếm tức thì:** Tìm theo tên bài kinh trên toàn bộ thư viện (`/search`).
-- **Điều hướng tự động:** Nút Trước / Kế tiếp giữa các bài kinh trong cùng bộ.
-- **Miễn phí, không quảng cáo, không theo dõi.** Mã nguồn mở, nội dung CC0 (nơi giấy phép cho phép).
+Trang là **static site** sinh bằng **VitePress**.
 
----
-
-## Phần kỹ thuật
-
-Trang là **static site** sinh bằng **VitePress 1.6** (Vite + Vue 3 SSG), không cần backend.
-
-### Stack
-| Lớp | Công nghệ |
-|---|---|
-| Framework | VitePress 1.6 (Vue 3 SSG) |
-| Markdown | markdown-it + `markdown-it-anchor` + `markdown-it-attrs` |
-| Slug / Anchor | `@sindresorhus/slugify` + quy ước riêng cho `AN x.y` (`docs/.vitepress/utils.js`) |
-| Search | Fuse.js trên `docs/search-items.js` (client-side) |
-| Quản lý gói | pnpm 10 |
-| ETL nội dung | Jupyter notebooks trong `.scripts/` (PDF→MD, tách chương, sinh filelist, mucluc, compare list) |
+### Stack ghi chú
+- Search : Fuse.js trên `docs/search-items.js` (client-side) |
+- Các script hỗ trợ việc làm sách: Jupyter notebooks trong `.scripts/` (PDF→MD, tách chương, sinh filelist, mucluc, compare list) |
 
 ### Cấu trúc thư mục
 ```
@@ -127,7 +115,7 @@ pnpm dev          # vitepress dev docs
 pnpm build        # node --max-old-space-size=4096 vitepress build docs
 pnpm preview      # phục vụ dist/
 pnpm test:seo     # .scripts/test-seo.js — kiểm tra schema/meta
-pnpm fulltest     # build + test:seo
+pnpm fulltest     # test trước khi public
 ```
 
 Yêu cầu: Node.js + pnpm. Build cần ~4 GB heap (đã set `--max-old-space-size=4096`).
