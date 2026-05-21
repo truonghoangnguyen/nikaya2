@@ -65,10 +65,10 @@ function buildCompareLookup() {
       const data = page?.params?.data;
       const slug = page?.params?.slug;
       if (!data || !slug) continue;
-      const target = `/${dirKey}/${slug}.html`;
+      const target = `/${dirKey}/${slug}`;
       for (const sidePath of [data.left, data.right]) {
         if (typeof sidePath !== 'string') continue;
-        const key = sidePath.replace(/^\/+/, '/').replace(/\.md$/, '.html');
+        const key = sidePath.replace(/^\/+/, '/').replace(/\.md$/, '');
         if (!lookup[key]) lookup[key] = target;
       }
     }
@@ -392,8 +392,8 @@ export default defineConfig({
     // --- Global Canonical URL ---
     let cleanPath = pageData.relativePath.replace(/\.md$/, '');
     // For index.md files, the canonical URL should point to the directory root
-    if (cleanPath.endsWith('index.html')) {
-      cleanPath = cleanPath.replace(/index\.html$/, '');
+    if (cleanPath.endsWith('index')) {
+      cleanPath = cleanPath.replace(/index$/, '');
     }
     const canonicalUrl = `https://kinhnikaya.org/${cleanPath}`;
 
@@ -425,10 +425,10 @@ export default defineConfig({
     const authorSegment = pathParts[1];
     const bookMeta = BOOK_META[bookSegment];
 
-    const pageUrl = `${SITE_ORIGIN}/${relativePath.replace(/\.md$/, '.html')}`;
+    const pageUrl = `${SITE_ORIGIN}/${relativePath.replace(/\.md$/, '')}`;
     const dateModified = getDateModified(relativePath);
 
-    // --- Compare page branch (e.g. kinhtrungbo/c-pali-tmc-vi/[slug].html) ---
+    // --- Compare page branch (e.g. kinhtrungbo/c-pali-tmc-vi/[slug]) ---
     const compareMeta = authorSegment ? COMPARE_META[authorSegment] : undefined;
     if (bookMeta && compareMeta) {
       const pageTitle = (pageData.params?.data?.title as string) || pageData.title || bookMeta.name;
@@ -459,7 +459,7 @@ export default defineConfig({
         JSON.stringify(buildBreadcrumbSchema([
           { name: 'Trang chủ', url: `${SITE_ORIGIN}/` },
           { name: bookMeta.name, url: bookMeta.url },
-          { name: `Bản so sánh: ${compareMeta.label}`, url: `${SITE_ORIGIN}/${bookSegment}/${authorSegment}/mucluc.html` },
+          { name: `Bản so sánh: ${compareMeta.label}`, url: `${SITE_ORIGIN}/${bookSegment}/${authorSegment}/mucluc` },
           { name: pageTitle, url: pageUrl },
         ])),
       ]);
@@ -782,7 +782,7 @@ export default defineConfig({
     ],
 
     footer: {
-      message: '<a href="/hoi-dap.html">Về chúng tôi</a> | <a href="/license.html">Giấy phép (CC0)</a>',
+      message: '<a href="/hoi-dap">Về chúng tôi</a> | <a href="/license">Giấy phép (CC0)</a>',
     }
   }
 })
