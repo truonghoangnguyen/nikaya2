@@ -166,6 +166,16 @@ const includeList = [
   '/kinhtuongung/c-sujato-tmc-vi/'
 ];
 
+// ==========================================
+// DANH SÁCH BỎ QUA (EXCLUDE LIST)
+// ==========================================
+// Bỏ qua những trang không cần chạy test (ví dụ: các trang ghi chú, phụ chú...)
+const excludeList = [
+  '/notes/',
+  '/meta/',
+  '/sum/',
+];
+
 
 // ==========================================
 // KỊCH BẢN CHẠY CHÍNH (KHÔNG CẦN SỬA)
@@ -186,6 +196,12 @@ let totalErrors = 0;
 
 htmlFiles.forEach(file => {
   const route = '/' + file.replace(distDir, '').replace(/\\/g, '/').replace(/^\//, ''); // Chuẩn hoá đường dẫn
+
+  // BỘ LỌC BỎ QUA CÁC TRANG TRONG EXCLUDE LIST
+  if (excludeList.length > 0) {
+    const shouldExclude = excludeList.some(excludeStr => route.includes(excludeStr));
+    if (shouldExclude) return; // Nếu khớp với bất kỳ từ khoá nào trong excludeList thì bỏ qua
+  }
 
   // BỘ LỌC CHỈ TEST NHỮNG TRANG TRONG INCLUDE LIST
   if (includeList.length > 0) {
