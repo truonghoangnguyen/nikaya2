@@ -1,4 +1,4 @@
-const kinhtruongbo_sujato_en_intro = [
+const kinhtruongbo_sujato_en = [
   { text: "The SuttaCentral Editions Series", link: "/kinhtruongbo/sujato-en/intro/01-the-suttacentral-editions-series.md" },
   { text: "Preface to *Long Discourses*", link: "/kinhtruongbo/sujato-en/intro/02-preface-to-long-discourses.md" },
   { text: "A Reader's Guide to the Pali Suttas", link: "/kinhtruongbo/sujato-en/intro/03-a-reader-s-guide-to-the-pali-suttas.md" },
@@ -7,4 +7,4 @@ const kinhtruongbo_sujato_en_intro = [
   { text: "Summary of Contents", link: "/kinhtruongbo/sujato-en/intro/06-summary-of-contents.md" },
   { text: "Colophon", link: "/kinhtruongbo/sujato-en/intro/07-colophon.md" },
 ];
-export default kinhtruongbo_sujato_en_intro;
+export default kinhtruongbo_sujato_en;

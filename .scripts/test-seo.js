@@ -4,10 +4,25 @@ import * as cheerio from 'cheerio';
 import { globSync } from 'glob';
 
 // ==========================================
+// CẤU HÌNH BẬT/TẮT TỪNG BƯỚC TEST
+// Đặt false để bỏ qua bước đó.
+// ==========================================
+const stepConfig = {
+  'step-1-title':       true,  // Thẻ <title>
+  'step-2-description': true,  // Meta description
+  'step-3-canonical':   true,  // Canonical
+  'step-4-h1-empty':    true,  // H1 không rỗng
+  'step-5-og':          true,  // Open Graph (og:title, og:description, og:image, og:url)
+  'step-6-viewport':    true,  // <meta name="viewport"> (mobile-friendly)
+  'step-7-jsonld':      true,  // Structured data JSON-LD (Schema.org)
+};
+
+// ==========================================
 // CẤU HÌNH ĐIỀU KIỆN TEST (DỄ DÀNG CẬP NHẬT)
 // ==========================================
 const rules = [
   {
+    key: 'step-1-title',
     name: 'Phải có thẻ <title>',
     test: ($, route) => {
       const title = $('title').text();
@@ -16,6 +31,7 @@ const rules = [
     }
   },
   {
+    key: 'step-2-description',
     name: 'Phải có thẻ Meta Description',
     test: ($, route) => {
       const desc = $('meta[name="description"]').attr('content');
@@ -25,6 +41,7 @@ const rules = [
     }
   },
   {
+    key: 'step-3-canonical',
     name: 'Phải có thẻ Canonical (chống trùng lặp nội dung)',
     test: ($, route) => {
       const canonical = $('link[rel="canonical"]').attr('href');
@@ -33,6 +50,7 @@ const rules = [
     }
   },
   {
+    key: 'step-4-h1-empty',
     name: 'Không có thẻ H1 rỗng (Accessibility)',
     test: ($, route) => {
       let h1Error = null;
@@ -42,6 +60,53 @@ const rules = [
         }
       });
       return h1Error;
+    }
+  },
+  {
+    key: 'step-5-og',
+    name: 'Phải có thẻ Open Graph (chia sẻ Facebook/Zalo)',
+    test: ($, route) => {
+      const required = ['og:title', 'og:description', 'og:image', 'og:url'];
+      const missing = [];
+      for (const prop of required) {
+        const val = $(`meta[property="${prop}"]`).attr('content');
+        if (!val || val.trim() === '') missing.push(prop);
+      }
+      if (missing.length > 0) return `Thiếu thẻ Open Graph: ${missing.join(', ')}`;
+      return null;
+    }
+  },
+  {
+    key: 'step-6-viewport',
+    name: 'Phải có thẻ <meta name="viewport"> (mobile-friendly)',
+    test: ($, route) => {
+      const viewport = $('meta[name="viewport"]').attr('content');
+      if (!viewport || viewport.trim() === '') return 'Thiếu thẻ meta viewport';
+      if (!/width\s*=/.test(viewport)) return 'Meta viewport thiếu thuộc tính width';
+      return null;
+    }
+  },
+  {
+    key: 'step-7-jsonld',
+    name: 'Phải có Structured Data JSON-LD (Schema.org)',
+    test: ($, route) => {
+      const scripts = $('script[type="application/ld+json"]');
+      if (scripts.length === 0) return 'Thiếu thẻ <script type="application/ld+json">';
+      let validCount = 0;
+      let parseError = null;
+      scripts.each((i, el) => {
+        const raw = $(el).contents().text();
+        if (!raw || raw.trim() === '') return;
+        try {
+          const data = JSON.parse(raw);
+          if (data && (data['@context'] || data['@graph'])) validCount++;
+          else parseError = 'JSON-LD thiếu @context hoặc @graph';
+        } catch (e) {
+          parseError = `JSON-LD parse lỗi: ${e.message}`;
+        }
+      });
+      if (validCount === 0) return parseError || 'Không có JSON-LD hợp lệ';
+      return null;
     }
   }
 ];
@@ -55,12 +120,26 @@ const includeList = [
   // 1. Kinh Trung Bộ
   '/kinhtrungbo/index.html',
   '/kinhtrungbo/thichminhchau/',
+  '/kinhtrungbo/thichminhchau/mn-001-kinh-phap-mon-can-ban.md',
+  '/kinhtrungbo/thichminhchau/mn-152-kinh-can-tu-tap.md',
   '/kinhtrungbo/pali-vi/',
+  '/kinhtrungbo/pali-vi/mn-001.md',
+  '/kinhtrungbo/pali-vi/mn-152.md',
   '/kinhtrungbo/pali/',
+  '/kinhtrungbo/pali/mn-001-mulapariyayasutta.md',
+  '/kinhtrungbo/pali/mn-152-indriyabhavanasutta.md',
   '/kinhtrungbo/c-pali-tmc-vi/',
+  '/kinhtrungbo/c-pali-tmc-vi/mnc-001-kinh-phap-mon-can-ban',
+  "/kinhtrungbo/c-pali-tmc-vi/mnc-152-kinh-can-tu-tap",
   '/kinhtrungbo/c-nm-tmc-vi/',
+  "/kinhtrungbo/c-nm-tmc-vi/mnc-001-kinh-phap-mon-can-ban",
+  "/kinhtrungbo/c-nm-tmc-vi/mnc-152-kinh-can-tu-tap",
   '/kinhtrungbo/nanamoli-bodhi-en/',
+  "/kinhtrungbo/nanamoli-bodhi-en/mn-001-the-root-of-all-things.md",
+  "/kinhtrungbo/nanamoli-bodhi-en/mn-001-the-root-of-all-things.md",
   '/kinhtrungbo/nanamoli-bodhi-vi/',
+  "/kinhtrungbo/nanamoli-bodhi-vi/mn-001-the-root-of-all-things.md",
+  "/kinhtrungbo/nanamoli-bodhi-vi/mn-152-the-development-of-the-faculties.md",
 
   // 2. Kinh Tăng Chi
   '/kinhtangchi/index.html',
@@ -107,7 +186,7 @@ let totalErrors = 0;
 
 htmlFiles.forEach(file => {
   const route = '/' + file.replace(distDir, '').replace(/\\/g, '/').replace(/^\//, ''); // Chuẩn hoá đường dẫn
-  
+
   // BỘ LỌC CHỈ TEST NHỮNG TRANG TRONG INCLUDE LIST
   if (includeList.length > 0) {
     const shouldTest = includeList.some(includeStr => route.includes(includeStr));
@@ -117,11 +196,12 @@ htmlFiles.forEach(file => {
   totalTested++;
 
   const html = fs.readFileSync(file, 'utf-8');
-  const $ = cheerio.load(html); 
-  
+  const $ = cheerio.load(html);
+
   let fileHasError = false;
 
   rules.forEach(rule => {
+    if (stepConfig[rule.key] === false) return; // Bỏ qua bước đã tắt
     try {
       const errorMsg = rule.test($, route);
       if (errorMsg) {

@@ -4,7 +4,7 @@ const pali_tmc_vi = [
       "slug": "dnc-001-kinh-pham-vong",
       "data": {
         "title": "DNC 1. KINH PHẠM VÕNG",
-        "left": "/kinhtruongbo/pali-vi/dn-001.md",
+        "left": "/kinhtruongbo/pali-vi/dn-001-kinh-luoi-troi.md",
         "right": "/kinhtruongbo/thichminhchau/dn-001-kinh-pham-vong.md",
         "leftTitle": "Pali (vi)",
         "rightTitle": "HT Thích Minh Châu",
@@ -22,7 +22,7 @@ const pali_tmc_vi = [
       "slug": "dnc-002-kinh-sa-mon-qua",
       "data": {
         "title": "DNC 2. KINH SA MÔN QỦA",
-        "left": "/kinhtruongbo/pali-vi/dn-002.md",
+        "left": "/kinhtruongbo/pali-vi/dn-002-kinh-ve-thanh-qua-cua-nguoi-tu-hanh.md",
         "right": "/kinhtruongbo/thichminhchau/dn-002-kinh-sa-mon-qua.md",
         "leftTitle": "Pali (vi)",
         "rightTitle": "HT Thích Minh Châu",
@@ -43,7 +43,7 @@ const pali_tmc_vi = [
       "slug": "dnc-003-kinh-ambattha-a-ma-tru",
       "data": {
         "title": "DNC 3. KINH AMBATTHA (A-MA-TRÚ)",
-        "left": "/kinhtruongbo/pali-vi/dn-003.md",
+        "left": "/kinhtruongbo/pali-vi/dn-003-kinh-ambattha.md",
         "right": "/kinhtruongbo/thichminhchau/dn-003-kinh-ambattha-a-ma-tru.md",
         "leftTitle": "Pali (vi)",
         "rightTitle": "HT Thích Minh Châu",
@@ -64,7 +64,7 @@ const pali_tmc_vi = [
       "slug": "dnc-004-kinh-sonadanda-chung-duc",
       "data": {
         "title": "DNC 4. KINH SONADANDA (CHỦNG ÐỨC)",
-        "left": "/kinhtruongbo/pali-vi/dn-004.md",
+        "left": "/kinhtruongbo/pali-vi/dn-004-kinh-sonadanda.md",
         "right": "/kinhtruongbo/thichminhchau/dn-004-kinh-sonadanda-chung-duc.md",
         "leftTitle": "Pali (vi)",
         "rightTitle": "HT Thích Minh Châu",
@@ -85,7 +85,7 @@ const pali_tmc_vi = [
       "slug": "dnc-005-kinh-kutadanta-cuu-la-dan-dau",
       "data": {
         "title": "DNC 5. KINH KÙTADANTA (CỨU-LA-ÐÀN-ÐẦU)",
-        "left": "/kinhtruongbo/pali-vi/dn-005.md",
+        "left": "/kinhtruongbo/pali-vi/dn-005-kinh-kutadanta.md",
         "right": "/kinhtruongbo/thichminhchau/dn-005-kinh-kutadanta-cuu-la-dan-dau.md",
         "leftTitle": "Pali (vi)",
         "rightTitle": "HT Thích Minh Châu",
@@ -106,7 +106,7 @@ const pali_tmc_vi = [
       "slug": "dnc-006-kinh-mahali",
       "data": {
         "title": "DNC 6. KINH MAHÀLI",
-        "left": "/kinhtruongbo/pali-vi/dn-006.md",
+        "left": "/kinhtruongbo/pali-vi/dn-006-kinh-mahali.md",
         "right": "/kinhtruongbo/thichminhchau/dn-006-kinh-mahali.md",
         "leftTitle": "Pali (vi)",
         "rightTitle": "HT Thích Minh Châu",
@@ -127,7 +127,7 @@ const pali_tmc_vi = [
       "slug": "dnc-007-kinh-jaliya",
       "data": {
         "title": "DNC 7. KINH JÀLIYA",
-        "left": "/kinhtruongbo/pali-vi/dn-007.md",
+        "left": "/kinhtruongbo/pali-vi/dn-007-kinh-jaliya.md",
         "right": "/kinhtruongbo/thichminhchau/dn-007-kinh-jaliya.md",
         "leftTitle": "Pali (vi)",
         "rightTitle": "HT Thích Minh Châu",
@@ -148,7 +148,7 @@ const pali_tmc_vi = [
       "slug": "dnc-008-kinh-ca-diep-su-tu-hong",
       "data": {
         "title": "DNC 8. KINH CA-DIẾP SƯ TỬ HỐNG",
-        "left": "/kinhtruongbo/pali-vi/dn-008.md",
+        "left": "/kinhtruongbo/pali-vi/dn-008-kinh-tieng-gam-su-tu.md",
         "right": "/kinhtruongbo/thichminhchau/dn-008-kinh-ca-diep-su-tu-hong.md",
         "leftTitle": "Pali (vi)",
         "rightTitle": "HT Thích Minh Châu",
@@ -169,7 +169,7 @@ const pali_tmc_vi = [
       "slug": "dnc-009-kinh-potthapada-bo-sa-ba-lau",
       "data": {
         "title": "DNC 9. KINH POTTHAPÀDA (BỐ-SÁ-BÀ-LÂU)",
-        "left": "/kinhtruongbo/pali-vi/dn-009.md",
+        "left": "/kinhtruongbo/pali-vi/dn-009-kinh-potthapada.md",
         "right": "/kinhtruongbo/thichminhchau/dn-009-kinh-potthapada-bo-sa-ba-lau.md",
         "leftTitle": "Pali (vi)",
         "rightTitle": "HT Thích Minh Châu",
@@ -190,7 +190,7 @@ const pali_tmc_vi = [
       "slug": "dnc-010-kinh-subha-tu-ba",
       "data": {
         "title": "DNC 10. KINH SUBHA (TU-BÀ)",
-        "left": "/kinhtruongbo/pali-vi/dn-010.md",
+        "left": "/kinhtruongbo/pali-vi/dn-010-kinh-subha.md",
         "right": "/kinhtruongbo/thichminhchau/dn-010-kinh-subha-tu-ba.md",
         "leftTitle": "Pali (vi)",
         "rightTitle": "HT Thích Minh Châu",
@@ -211,7 +211,7 @@ const pali_tmc_vi = [
       "slug": "dnc-011-kinh-kevaddha-kien-co",
       "data": {
         "title": "DNC 11. KINH KEVADDHA (KIÊN CỐ)",
-        "left": "/kinhtruongbo/pali-vi/dn-011.md",
+        "left": "/kinhtruongbo/pali-vi/dn-011-kinh-kevatta.md",
         "right": "/kinhtruongbo/thichminhchau/dn-011-kinh-kevaddha-kien-co.md",
         "leftTitle": "Pali (vi)",
         "rightTitle": "HT Thích Minh Châu",
@@ -232,7 +232,7 @@ const pali_tmc_vi = [
       "slug": "dnc-012-kinh-lohicca-lo-hi-gia",
       "data": {
         "title": "DNC 12. KINH LOHICCA (LÔ-HI-GIA)",
-        "left": "/kinhtruongbo/pali-vi/dn-012.md",
+        "left": "/kinhtruongbo/pali-vi/dn-012-kinh-lohicca.md",
         "right": "/kinhtruongbo/thichminhchau/dn-012-kinh-lohicca-lo-hi-gia.md",
         "leftTitle": "Pali (vi)",
         "rightTitle": "HT Thích Minh Châu",
@@ -253,7 +253,7 @@ const pali_tmc_vi = [
       "slug": "dnc-013-kinh-tevijja-tam-minh",
       "data": {
         "title": "DNC 13. KINH TEVIJJA (TAM MINH)",
-        "left": "/kinhtruongbo/pali-vi/dn-013.md",
+        "left": "/kinhtruongbo/pali-vi/dn-013-kinh-tevijja-kinh-ba-minh.md",
         "right": "/kinhtruongbo/thichminhchau/dn-013-kinh-tevijja-tam-minh.md",
         "leftTitle": "Pali (vi)",
         "rightTitle": "HT Thích Minh Châu",
@@ -274,7 +274,7 @@ const pali_tmc_vi = [
       "slug": "dnc-014-kinh-dai-bon",
       "data": {
         "title": "DNC 14. KINH ÐẠI BỔN",
-        "left": "/kinhtruongbo/pali-vi/dn-014.md",
+        "left": "/kinhtruongbo/pali-vi/dn-014-kinh-dai-ve-nguon-goc.md",
         "right": "/kinhtruongbo/thichminhchau/dn-014-kinh-dai-bon.md",
         "leftTitle": "Pali (vi)",
         "rightTitle": "HT Thích Minh Châu",
@@ -295,7 +295,7 @@ const pali_tmc_vi = [
       "slug": "dnc-015-kinh-dai-duyen",
       "data": {
         "title": "DNC 15. KINH ÐẠI DUYÊN",
-        "left": "/kinhtruongbo/pali-vi/dn-015.md",
+        "left": "/kinhtruongbo/pali-vi/dn-015-kinh-dai-ve-quan-he-phu-thuoc.md",
         "right": "/kinhtruongbo/thichminhchau/dn-015-kinh-dai-duyen.md",
         "leftTitle": "Pali (vi)",
         "rightTitle": "HT Thích Minh Châu",
@@ -316,7 +316,7 @@ const pali_tmc_vi = [
       "slug": "dnc-016-kinh-dai-bat-niet-ban",
       "data": {
         "title": "DNC 16. KINH ÐẠI BÁT NIẾT BÀN",
-        "left": "/kinhtruongbo/pali-vi/dn-016.md",
+        "left": "/kinhtruongbo/pali-vi/dn-016-kinh-dai-ve-bat-niet-ban.md",
         "right": "/kinhtruongbo/thichminhchau/dn-016-kinh-dai-bat-niet-ban.md",
         "leftTitle": "Pali (vi)",
         "rightTitle": "HT Thích Minh Châu",
@@ -337,7 +337,7 @@ const pali_tmc_vi = [
       "slug": "dnc-017-kinh-dai-thien-kien-vuong",
       "data": {
         "title": "DNC 17. KINH ÐẠI THIỆN KIẾN VƯƠNG",
-        "left": "/kinhtruongbo/pali-vi/dn-017.md",
+        "left": "/kinhtruongbo/pali-vi/dn-017-kinh-ai-thien-kien-vuong.md",
         "right": "/kinhtruongbo/thichminhchau/dn-017-kinh-dai-thien-kien-vuong.md",
         "leftTitle": "Pali (vi)",
         "rightTitle": "HT Thích Minh Châu",
@@ -358,7 +358,7 @@ const pali_tmc_vi = [
       "slug": "dnc-018-kinh-xa-ni-sa",
       "data": {
         "title": "DNC 18. KINH XA-NI-SA",
-        "left": "/kinhtruongbo/pali-vi/dn-018.md",
+        "left": "/kinhtruongbo/pali-vi/dn-018-kinh-janavasabha.md",
         "right": "/kinhtruongbo/thichminhchau/dn-018-kinh-xa-ni-sa.md",
         "leftTitle": "Pali (vi)",
         "rightTitle": "HT Thích Minh Châu",
@@ -379,7 +379,7 @@ const pali_tmc_vi = [
       "slug": "dnc-019-kinh-dai-dien-ton",
       "data": {
         "title": "DNC 19. KINH ÐẠI ÐIỂN TÔN",
-        "left": "/kinhtruongbo/pali-vi/dn-019.md",
+        "left": "/kinhtruongbo/pali-vi/dn-019-kinh-dai-ve-govinda.md",
         "right": "/kinhtruongbo/thichminhchau/dn-019-kinh-dai-dien-ton.md",
         "leftTitle": "Pali (vi)",
         "rightTitle": "HT Thích Minh Châu",
@@ -400,7 +400,7 @@ const pali_tmc_vi = [
       "slug": "dnc-020-kinh-dai-hoi",
       "data": {
         "title": "DNC 20. KINH ÐẠI HỘI",
-        "left": "/kinhtruongbo/pali-vi/dn-020.md",
+        "left": "/kinhtruongbo/pali-vi/dn-020-kinh-ai-hoi.md",
         "right": "/kinhtruongbo/thichminhchau/dn-020-kinh-dai-hoi.md",
         "leftTitle": "Pali (vi)",
         "rightTitle": "HT Thích Minh Châu",
@@ -421,7 +421,7 @@ const pali_tmc_vi = [
       "slug": "dnc-021-kinh-de-thich-so-van",
       "data": {
         "title": "DNC 21. KINH ÐẾ-THÍCH SỞ VẤN",
-        "left": "/kinhtruongbo/pali-vi/dn-021.md",
+        "left": "/kinhtruongbo/pali-vi/dn-021-kinh-sakkapanha-e-thich-so-van.md",
         "right": "/kinhtruongbo/thichminhchau/dn-021-kinh-de-thich-so-van.md",
         "leftTitle": "Pali (vi)",
         "rightTitle": "HT Thích Minh Châu",
@@ -442,7 +442,7 @@ const pali_tmc_vi = [
       "slug": "dnc-022-kinh-dai-niem-xu",
       "data": {
         "title": "DNC 22. KINH ÐẠI NIỆM XỨ",
-        "left": "/kinhtruongbo/pali-vi/dn-022.md",
+        "left": "/kinhtruongbo/pali-vi/dn-022-kinh-dai-ve-bon-noi-chu-tam.md",
         "right": "/kinhtruongbo/thichminhchau/dn-022-kinh-dai-niem-xu.md",
         "leftTitle": "Pali (vi)",
         "rightTitle": "HT Thích Minh Châu",
@@ -463,7 +463,7 @@ const pali_tmc_vi = [
       "slug": "dnc-023-kinh-te-tuc",
       "data": {
         "title": "DNC 23. KINH TỆ-TÚC",
-        "left": "/kinhtruongbo/pali-vi/dn-023.md",
+        "left": "/kinhtruongbo/pali-vi/dn-023-kinh-payasi.md",
         "right": "/kinhtruongbo/thichminhchau/dn-023-kinh-te-tuc.md",
         "leftTitle": "Pali (vi)",
         "rightTitle": "HT Thích Minh Châu",
@@ -484,7 +484,7 @@ const pali_tmc_vi = [
       "slug": "dnc-024-kinh-ba-le",
       "data": {
         "title": "DNC 24. KINH BA-LÊ",
-        "left": "/kinhtruongbo/pali-vi/dn-024.md",
+        "left": "/kinhtruongbo/pali-vi/dn-024-kinh-pathika.md",
         "right": "/kinhtruongbo/thichminhchau/dn-024-kinh-ba-le.md",
         "leftTitle": "Pali (vi)",
         "rightTitle": "HT Thích Minh Châu",
@@ -505,7 +505,7 @@ const pali_tmc_vi = [
       "slug": "dnc-025-kinh-uu-dam-ba-la-su-tu-hong",
       "data": {
         "title": "DNC 25. KINH ƯU-ÐÀM-BÀ-LA SƯ TỬ HỐNG",
-        "left": "/kinhtruongbo/pali-vi/dn-025.md",
+        "left": "/kinhtruongbo/pali-vi/dn-025-kinh-udumbarika.md",
         "right": "/kinhtruongbo/thichminhchau/dn-025-kinh-uu-dam-ba-la-su-tu-hong.md",
         "leftTitle": "Pali (vi)",
         "rightTitle": "HT Thích Minh Châu",
@@ -526,7 +526,7 @@ const pali_tmc_vi = [
       "slug": "dnc-026-kinh-chuyen-luan-thanh-vuong-su-tu-hong",
       "data": {
         "title": "DNC 26. KINH CHUYỂN LUÂN THÁNH VƯƠNG SƯ TỬ HỐNG",
-        "left": "/kinhtruongbo/pali-vi/dn-026.md",
+        "left": "/kinhtruongbo/pali-vi/dn-026-kinh-vua-chuyen-luan.md",
         "right": "/kinhtruongbo/thichminhchau/dn-026-kinh-chuyen-luan-thanh-vuong-su-tu-hong.md",
         "leftTitle": "Pali (vi)",
         "rightTitle": "HT Thích Minh Châu",
@@ -547,7 +547,7 @@ const pali_tmc_vi = [
       "slug": "dnc-027-kinh-khoi-the-nhan-bon",
       "data": {
         "title": "DNC 27. KINH KHỞI THẾ NHÂN BỔN",
-        "left": "/kinhtruongbo/pali-vi/dn-027.md",
+        "left": "/kinhtruongbo/pali-vi/dn-027-kinh-ve-nguon-goc-toi-so.md",
         "right": "/kinhtruongbo/thichminhchau/dn-027-kinh-khoi-the-nhan-bon.md",
         "leftTitle": "Pali (vi)",
         "rightTitle": "HT Thích Minh Châu",
@@ -568,7 +568,7 @@ const pali_tmc_vi = [
       "slug": "dnc-028-kinh-tu-hoan-hy",
       "data": {
         "title": "DNC 28. KINH TỰ HOAN HỶ",
-        "left": "/kinhtruongbo/pali-vi/dn-028.md",
+        "left": "/kinhtruongbo/pali-vi/dn-028-kinh-niem-tin-trong-sang.md",
         "right": "/kinhtruongbo/thichminhchau/dn-028-kinh-tu-hoan-hy.md",
         "leftTitle": "Pali (vi)",
         "rightTitle": "HT Thích Minh Châu",
@@ -589,7 +589,7 @@ const pali_tmc_vi = [
       "slug": "dnc-029-kinh-thanh-tinh",
       "data": {
         "title": "DNC 29. KINH THANH TỊNH",
-        "left": "/kinhtruongbo/pali-vi/dn-029.md",
+        "left": "/kinhtruongbo/pali-vi/dn-029-kinh-ro-rang-va-mach-lac.md",
         "right": "/kinhtruongbo/thichminhchau/dn-029-kinh-thanh-tinh.md",
         "leftTitle": "Pali (vi)",
         "rightTitle": "HT Thích Minh Châu",
@@ -610,7 +610,7 @@ const pali_tmc_vi = [
       "slug": "dnc-030-kinh-tuong",
       "data": {
         "title": "DNC 30. KINH TƯỚNG",
-        "left": "/kinhtruongbo/pali-vi/dn-030.md",
+        "left": "/kinhtruongbo/pali-vi/dn-030-kinh-ac-iem.md",
         "right": "/kinhtruongbo/thichminhchau/dn-030-kinh-tuong.md",
         "leftTitle": "Pali (vi)",
         "rightTitle": "HT Thích Minh Châu",
@@ -631,7 +631,7 @@ const pali_tmc_vi = [
       "slug": "dnc-031-kinh-giao-tho-thi-ca-la-viet",
       "data": {
         "title": "DNC 31. KINH GIÁO THỌ THI-CA-LA-VIỆT",
-        "left": "/kinhtruongbo/pali-vi/dn-031.md",
+        "left": "/kinhtruongbo/pali-vi/dn-031-kinh-singala.md",
         "right": "/kinhtruongbo/thichminhchau/dn-031-kinh-giao-tho-thi-ca-la-viet.md",
         "leftTitle": "Pali (vi)",
         "rightTitle": "HT Thích Minh Châu",
@@ -652,7 +652,7 @@ const pali_tmc_vi = [
       "slug": "dnc-032-kinh-a-sa-nang-chi",
       "data": {
         "title": "DNC 32. KINH A-SÁ-NANG-CHI",
-        "left": "/kinhtruongbo/pali-vi/dn-032.md",
+        "left": "/kinhtruongbo/pali-vi/dn-032-kinh-atanatiya.md",
         "right": "/kinhtruongbo/thichminhchau/dn-032-kinh-a-sa-nang-chi.md",
         "leftTitle": "Pali (vi)",
         "rightTitle": "HT Thích Minh Châu",
@@ -673,7 +673,7 @@ const pali_tmc_vi = [
       "slug": "dnc-033-kinh-phung-tung",
       "data": {
         "title": "DNC 33. KINH PHÚNG TỤNG",
-        "left": "/kinhtruongbo/pali-vi/dn-033.md",
+        "left": "/kinhtruongbo/pali-vi/dn-033-kinh-tung-oc-cung-nhau.md",
         "right": "/kinhtruongbo/thichminhchau/dn-033-kinh-phung-tung.md",
         "leftTitle": "Pali (vi)",
         "rightTitle": "HT Thích Minh Châu",
@@ -694,7 +694,7 @@ const pali_tmc_vi = [
       "slug": "dnc-034-kinh-thap-thuong",
       "data": {
         "title": "DNC 34. KINH THẬP THƯỢNG",
-        "left": "/kinhtruongbo/pali-vi/dn-034.md",
+        "left": "/kinhtruongbo/pali-vi/dn-034-kinh-den-muoi.md",
         "right": "/kinhtruongbo/thichminhchau/dn-034-kinh-thap-thuong.md",
         "leftTitle": "Pali (vi)",
         "rightTitle": "HT Thích Minh Châu",

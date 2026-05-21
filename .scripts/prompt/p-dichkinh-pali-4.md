@@ -123,7 +123,8 @@ Ví dụ: **Bảng thuật ngữ**:
 <Vocabulary-Mapping>
 | Từ cũ (Hán-Việt hoặc pali) | Từ mới (Hiện đại) | Ghi chú |
 | --- | --- | --- |
-| đoạn tận (khayā) | cạn kiệt; hao mòn | dùng trong tâm lý, cảm xúc; "khayadhamma->chịu sự hao mòn" |
+| đoạn tận (khaya) | cạn kiệt; hao mòn | dùng trong tâm lý, cảm xúc; "khayadhamma->chịu sự hao mòn" |
+| vô sanh (anuppāda) | không sinh khởi trở lại | |
 | diệt (vūpasama) | lắng dịu | |
 | diệt (nirodha) | hết; hết sạch; làm ngưng; chặn; bị chặn; biến mất | "nirodhadhamma->chịu sự cạn khô";khổ diệt->hết đau khổ"; "diệt thọ tưởng định->định làm ngưng thọ tưởng"; "asesavirāganirodho=chặn sạch hết đắm nhiễm"; "jātinirodhā->sinh bị chặn" |
 | sinh (samudaya) | sự hình thành | |
@@ -162,11 +163,11 @@ Ví dụ: **Bảng thuật ngữ**:
 | vô sở hữu xứ  | cõi Không Có Vật Gì | |
 | phi tưởng phi phi tưởng xứ | xứ Không Phải "Có Nhận Thức"; Cũng Không Phải "Mất Nhận Thức" |  |
 | hành (saṅkhārā) | hoạt động | "thân hành, khẩu hành, ý hành = hoạt động của thân, khẩu, ý" |
-| hữu vi (saṅkhata) | cái do Hợp mà thành | "saṅkhata-dhamma->nguyên lý 'Hợp-mà-thành'"|
-| vô vi (asaṅkhata) | không do Hợp mà thành |  |
+| hữu vi (saṅkhata) | thứ hình thành từ lắp ghép | "saṅkhata-dhamma->những điều 'hình thành từ lắp ghép'"|
+| vô vi (asaṅkhata) | thứ hình thành không từ lắp ghép | |
 | các hành là vô thường (sabbe saṅkhārā aniccā) | mọi thứ do hợp lại mà thành, không bền vững | giải thích: saṅkhata="đã được tạo tác"(cái bị tạo)/saṅkhārā="các sự tạo tác" (cái tạo)|
 | thô (oḷārika) | tính máy móc | |
-| duyên (paccaya) | Điều kiện, Điều cùng sinh, Điều kiện sinh trưởng; Điều kiện vừa đủ; đáng tin (paccayiko)| "phassapaccayā vedanā->"với Xúc là *Điều kiện*, cảm giác được sinh ra"; "Ko paccayo->Đâu là *điều kiện sinh trưởng*?"; "gilāna-paccaya->*điều kiện vừa đủ* cho người bệnh"; "paccayiko avisaṁvādako lokassa ->đáng tin, không lừa dối đời"|
+| duyên (paccaya) | Điều kiện, Điều cùng sinh, Điều kiện sinh trưởng; Điều kiện vừa đủ; đáng tin (paccayiko)|"hetu yo ca paccayo-> Nguyên nhân gốc và điều kiện môi trường"; "phassapaccayā vedanā->"với Xúc là *Điều kiện*, cảm giác được sinh ra"; "Ko paccayo->Đâu là *điều kiện sinh trưởng*?"; "gilāna-paccaya->*điều kiện vừa đủ* cho người bệnh"; "paccayiko avisaṁvādako lokassa ->đáng tin, không lừa dối đời"|
 | duyên (paṭicca) | Phụ thuộc; sự Phụ thuộc cùng sinh; dựa vào | "Taṇhaṁ paṭicca pariyesanā->*Phụ thuộc* vào ái có sự tìm cầu"; "Cakkhuñcā, paṭicca rūpe ca->sự *Phụ thuộc cùng sinh* của con mắt và các sắc"; "...idametaṁ paṭicca vuttaṁ->điều này nói *dựa vào* điều kia" |
 | duyên khởi (paṭiccasamuppāda) | sự sinh ra qua quan hệ *Phụ thuộc* | |
 | duyên sinh (paṭiccasamuppanna) | thứ sinh qua quan hệ *Phụ thuộc* | |
@@ -188,8 +189,6 @@ Ví dụ: **Bảng thuật ngữ**:
 | thọ lạc (sukha-vedanā) | cảm giác dễ chịu | cho ngữ cảnh của vedanā; "cảm giác dễ chịu" nói chung; thọ lạc, nghiêng về thân |
 | thọ khổ (dukkha-vedanā) | cảm giác khó chịu | cho ngữ cảnh của vedanā; "cảm giác khó chịu" nói chung; thọ khổ, nghiêng về thân |
 | hữu (bhava) | cõi tồn tại | "bhavataṇhā->khao khát tồn tại";"vibhavataṇhā->khao khát chấm dứt sự tồn tại"; "bhavadiṭṭhi->quan điểm tồn tại mãi mãi"; "vibhavadiṭṭhi"->"quan điểm hư vô" |
-| liễu tri (pariññāta) | hiểu hoàn toàn | |
-| thắng tri (abhijānāti) | thấu hiểu trực tiếp | |
 | (phi) như lý tác ý (yoniso manasikāra) | (không) hiểu nguyên nhân gốc rễ | first principle thinking |
 | paṭisaṅkhā yoniso | thận trọng suy xét |  |
 | tỉnh giác (sampajāno)| (sự) nhận biết rõ ràng | |
@@ -281,9 +280,11 @@ Ví dụ: **Bảng thuật ngữ**:
 | quán tâm trên tâm | quan sát tâm qua tâm của mình | |
 | quán pháp trên pháp | quan sát Điều dạy qua các Điều | |
 | tuệ tri (pajānāti) | thấy rõ; biết rõ | phân biệt được rõ ràng |
-| tưởng tri (sañjānāti) | hiểu/thấy bề mặt (về) | thêm chữ "về" khi phía sau là một điều gì đó->"hiểu bề mặt về Đất" |
-| thắng tri (abhijānāti) | hiểu thực tế (về) | thêm chữ "về" khi phía sau là một điều gì đó->"hiểu thực tế về Đất"|
-| liễu tri (pariññāta) | hiểu biết hoàn toàn (về); nhận biết hoàn toàn (về) | dùng "hiểu biết" nói về kiến thức; dùng "nhận biết" khi nói về cảm giác |
+| tưởng tri (sañjānāti) | hiểu/thấy bề mặt (về) | eg:"hiểu bề mặt về Đất" |
+| thắng tri (abhijānāti) | hiểu hết toàn bộ (về) | "hiểu hết về Đất"|
+| liễu tri (pariññāta) | hiểu biết trọn vẹn (về); nhận biết trọn vẹn (về) | "hiểu biết" nói về kiến thức; "nhận biết" khi nói về cảm giác |
+| chứng ngộ (sacchikātabba) | trực tiếp chứng nghiệm | |
+| vedeti | trải nghiệm trực tiếp | (thiên về cảm nhận) |
 | Tri kiến (Dassanā) | thấy rõ bản chất | |
 | tác ý (manasikāra) | suy nghĩ; suy nghĩ | |
 | tà kiến (diṭṭhi) | quan điểm sai | |
@@ -292,6 +293,7 @@ Ví dụ: **Bảng thuật ngữ**:
 | đại (dhātu) | tính; đặc tính | |
 | địa đại (pathavīdhātu) | tính cứng (địa đại) | nước: tính lỏng, lửa: tính nhiệt, gió: tính gió |
 | tứ đại (attāro mahābhūtā) | bốn đặc tính lớn | |
+| giới (dhātu) | loại | "saṅkhata dhātu->loại hình thành do lắp ghép lại"; "asaṅkhata dhātu->loại hình thành không do lắp ghép lại"; |
 | giới (dhātu) | thành phần [của hệ thống nhận thức] | "aṭṭhārasa dhātuyo->18 thành phần [của hệ thống nhận thức]" |
 | giới (dhātu) | [tâm] vận hành theo | "Kāmadhātu->[tâm] vận hành theo bản năng"; "sắc giới->[tâm] vận hành theo vật chất"; "vô sắc giới->[tâm] vận hành theo phi vật chất"|
 | thu thúc (saṁvara) | bảo vệ | "Indriyasaṁvara->bảo vệ các giác quan"; "Pātimokkhasaṁvara->được bảo vệ bởi giới luật Pātimokkha"|
@@ -304,8 +306,8 @@ Ví dụ: **Bảng thuật ngữ**:
 | tịnh tín (pasanno) | không nghi ngờ | |
 | thi thiết (paññapeti) | tuyên bố; gọi tên; gọi; tin | "Attapaññatti->tuyên bố tự ngã" |
 | kittāvatā | theo những cách nào | |
-| phóng dật (pamāda)| mê muội | buông thả; chạy lung tung, không kiềm chế |
-| không phóng dật (appamāda) | sáng suốt | ngược lại của mê muội (pamāda) |
+| phóng dật (pamāda)| sao nhãng | buông thả; chạy lung tung, không kiềm chế |
+| không phóng dật (appamāda) | không sao nhãng | ngược lại của mê muội (pamāda) |
 | assāsappattā | an tịnh | |
 | ādibrahmacariya | cốt lõi đời sống thánh thiện | "ādibrahmacariyassa->cốt lõi của đời sống thánh thiện" |
 | iddhipādā | cổng thần thông | |

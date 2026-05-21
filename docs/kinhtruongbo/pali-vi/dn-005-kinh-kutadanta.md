@@ -11,7 +11,7 @@ Lúc bấy giờ, Bà-la-môn Kūṭadanta đang cai quản Khāṇumata, một 
 
 Các Bà-la-môn và gia chủ ở Khāṇumata nghe tin:
 
-"Này các tôn giả, sa-môn Gotama là con trai dòng Sakya, xuất gia từ gia tộc Sakya, đang du hành trong xứ Magadha cùng với một đại chúng tỳ kheo khoảng năm trăm vị, đã đến Khāṇumata và đang trú tại khu vườn Ambalaṭṭhikā. Tiếng đồn tốt đẹp sau đây đã vang lên về tôn giả Gotama: 'Ngài là Thế Tôn, bậc xứng đáng, bậc Tự Giác Ngộ Hoàn Toàn, bậc Đầy Đủ Hiểu Biết Và Hạnh Kiểm, bậc Đi Đến Tốt Đẹp, bậc Hiểu Biết Thế Gian, Người Điều Phục Vô Thượng, Bậc Thầy Của Chư Thiên Và Loài Người, Bậc Tỉnh Thức, Thế Tôn'. Ngài đã *hiểu thực tế* (thắng tri / abhijānāti) và tự mình chứng ngộ thế giới này cùng với chư thiên, ma vương, phạm thiên, cùng với quần chúng sa-môn, Bà-la-môn, chư thiên và loài người, rồi ngài tuyên thuyết. Ngài giảng dạy *Điều* (pháp / dhamma) tốt đẹp ở đoạn đầu, tốt đẹp ở đoạn giữa, tốt đẹp ở đoạn cuối, đầy đủ ý nghĩa và văn tự, ngài hiển lộ một lối sống thanh tịnh hoàn toàn viên mãn và trong sạch. Thật tốt đẹp thay khi được chiêm ngưỡng một bậc xứng đáng như vậy."
+"Này các tôn giả, sa-môn Gotama là con trai dòng Sakya, xuất gia từ gia tộc Sakya, đang du hành trong xứ Magadha cùng với một đại chúng tỳ kheo khoảng năm trăm vị, đã đến Khāṇumata và đang trú tại khu vườn Ambalaṭṭhikā. Tiếng đồn tốt đẹp sau đây đã vang lên về tôn giả Gotama: 'Ngài là Thế Tôn, bậc xứng đáng, bậc Tự Giác Ngộ Hoàn Toàn, bậc Đầy Đủ Hiểu Biết Và Hạnh Kiểm, bậc Đi Đến Tốt Đẹp, bậc Hiểu Biết Thế Gian, Người Điều Phục Vô Thượng, Bậc Thầy Của Chư Thiên Và Loài Người, Bậc Tỉnh Thức, Thế Tôn'. Ngài đã *sự thấu hiểu trực tiếp* (thắng tri / abhijānāti) và tự mình chứng ngộ thế giới này cùng với chư thiên, ma vương, phạm thiên, cùng với quần chúng sa-môn, Bà-la-môn, chư thiên và loài người, rồi ngài tuyên thuyết. Ngài giảng dạy *Điều* (pháp / dhamma) tốt đẹp ở đoạn đầu, tốt đẹp ở đoạn giữa, tốt đẹp ở đoạn cuối, đầy đủ ý nghĩa và văn tự, ngài hiển lộ một lối sống thanh tịnh hoàn toàn viên mãn và trong sạch. Thật tốt đẹp thay khi được chiêm ngưỡng một bậc xứng đáng như vậy."
 
 Sau đó, các Bà-la-môn và gia chủ ở Khāṇumata rời khỏi Khāṇumata, tụ tập thành từng nhóm, từng đoàn đi về phía khu vườn Ambalaṭṭhikā.
 
@@ -248,9 +248,9 @@ Nhưng thưa các tôn giả, ta có suy nghĩ thế này—sa-môn Gotama khôn
 
 Thưa các tôn giả, ta suy nghĩ thế này: 'Chắc chắn vào thời điểm đó, sa-môn Gotama chính là vua Mahāvijita, chủ nhân của lễ tế, hoặc là vị tế sư Bà-la-môn, người hướng dẫn lễ tế đó'."
 
-"Tôn giả Gotama có *hiểu thực tế* rằng sau khi tổ chức hoặc hướng dẫn một lễ tế như vậy, sau khi cơ thể tan rã, sau khi chết, sẽ được tái sinh vào cõi lành, thế giới thiên giới không?"
+"Tôn giả Gotama có *sự thấu hiểu trực tiếp* rằng sau khi tổ chức hoặc hướng dẫn một lễ tế như vậy, sau khi cơ thể tan rã, sau khi chết, sẽ được tái sinh vào cõi lành, thế giới thiên giới không?"
 
-"Này Bà-la-môn, ta *hiểu thực tế* rằng sau khi tổ chức hoặc hướng dẫn một lễ tế như vậy, sau khi cơ thể tan rã, sau khi chết, sẽ được tái sinh vào cõi lành, thế giới thiên giới. Vào thời điểm đó, ta chính là vị tế sư Bà-la-môn, người hướng dẫn lễ tế đó."
+"Này Bà-la-môn, ta *sự thấu hiểu trực tiếp* rằng sau khi tổ chức hoặc hướng dẫn một lễ tế như vậy, sau khi cơ thể tan rã, sau khi chết, sẽ được tái sinh vào cõi lành, thế giới thiên giới. Vào thời điểm đó, ta chính là vị tế sư Bà-la-môn, người hướng dẫn lễ tế đó."
 
 <!--pg-->
 ## 5. Lễ tế thường xuyên (Niccadānaanukulayañña)

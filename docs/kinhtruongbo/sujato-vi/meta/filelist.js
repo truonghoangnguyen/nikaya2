@@ -1,4 +1,12 @@
 const kinhtruongbo_sujato_vi = [
+  { text: "The SuttaCentral Editions Series", link: "/kinhtruongbo/sujato-vi/intro/01-the-suttacentral-editions-series.md" },
+  { text: "Preface to *Long Discourses*", link: "/kinhtruongbo/sujato-vi/intro/02-preface-to-long-discourses.md" },
+  { text: "A Reader's Guide to the Pali Suttas", link: "/kinhtruongbo/sujato-vi/intro/03-a-reader-s-guide-to-the-pali-suttas.md" },
+  { text: "The Long Discourses: Dhamma as literature and compilation", link: "/kinhtruongbo/sujato-vi/intro/04-the-long-discourses-dhamma-as-literature-and-compilation.md" },
+  { text: "Acknowledgements", link: "/kinhtruongbo/sujato-vi/intro/05-acknowledgements.md" },
+  { text: "Summary of Contents", link: "/kinhtruongbo/sujato-vi/intro/06-summary-of-contents.md" },
+  { text: "Colophon", link: "/kinhtruongbo/sujato-vi/intro/07-colophon.md" },
+
   { text: "1. Kinh Lưới Trời", link: "/kinhtruongbo/sujato-vi/dn-001-the-divine-net-brahmajalasutta.md" },
   { text: "2.Thành Quả Của Sa-môn", link: "/kinhtruongbo/sujato-vi/dn-002-the-fruits-of-the-ascetic-life-samannaphalasutta.md" },
   { text: "3. Kinh Ambaṭṭha", link: "/kinhtruongbo/sujato-vi/dn-003-with-ambattha-ambatthasutta.md" },

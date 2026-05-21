@@ -94,7 +94,9 @@ const BOOK_NAV = {
 
   'kinhtruongbo/thichminhchau': dn_thichminhchau,
   'kinhtruongbo/sujato-en': kinhtruongbo_sujato_en,
+  'kinhtruongbo/sujato-en/intro': kinhtruongbo_sujato_en,
   'kinhtruongbo/sujato-vi': kinhtruongbo_sujato_vi,
+  'kinhtruongbo/sujato-vi/intro': kinhtruongbo_sujato_vi,
   'kinhtruongbo/pali-vi': kinhtruongbo_pali_vi,
 
   'kinhtangchi/thichminhchau': kinhtangchi_thichminhchau,
