@@ -1,13 +1,4 @@
----
-next:
-   text: "DN 1. Kinh Phạm Võng"
-   link: "/kinhtruongbo/c-pali-tmc-vi/dnc-001-kinh-pham-vong"
-head:
-  - - script
-    - type: application/ld+json
-    - |
-    
-       {
+   {
         "@context": "https://schema.org",
         "@graph": [
             {
@@ -84,8 +75,4 @@ head:
             ]
             }
         ]
-        }    
-    
----
-
-<!--@include: ./mucluc.md-->
+        }

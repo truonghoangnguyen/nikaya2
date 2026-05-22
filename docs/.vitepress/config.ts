@@ -122,7 +122,7 @@ const BOOK_NAV = {
 // --- SEO / Schema constants (PR5) ---
 
 const SITE_ORIGIN = 'https://kinhnikaya.org';
-const DEFAULT_PUBLISHED = '2026-05-03';
+const DEFAULT_PUBLISHED = '2026-01-03';
 
 type BookMeta = { name: string; alternateName: string; url: string; cover: string };
 type TranslatorMeta = { name: string; inLanguage: string[]; url?: string; sameAs?: string[] };
@@ -453,50 +453,62 @@ export default defineConfig({
         dateModified,
       };
 
-      pageData.frontmatter.head.push([
-        'script',
-        { type: 'application/ld+json' },
-        JSON.stringify(buildBreadcrumbSchema([
-          { name: 'Trang chủ', url: `${SITE_ORIGIN}/` },
-          { name: bookMeta.name, url: bookMeta.url },
-          { name: `Bản so sánh: ${compareMeta.label}`, url: `${SITE_ORIGIN}/${bookSegment}/${authorSegment}/mucluc` },
-          { name: pageTitle, url: pageUrl },
-        ])),
-      ]);
-
       const translators = compareMeta.translatorKeys
         .map(k => TRANSLATOR_META[k])
         .filter(Boolean)
         .map(makeTranslatorEntity);
 
-      const compareSchema: Record<string, unknown> = {
-        '@context': 'https://schema.org',
-        '@type': 'ScholarlyArticle',
-        'name': pageTitle,
-        'headline': pageTitle,
-        'url': pageUrl,
-        'inLanguage': compareMeta.inLanguage,
-        'datePublished': DEFAULT_PUBLISHED,
-        'dateModified': dateModified,
-        'isPartOf': {
-          '@type': 'Book',
-          'name': bookMeta.name,
-          'alternateName': bookMeta.alternateName,
-          'url': bookMeta.url,
+      // isBasedOn: resolve left/right source chapter @ids
+      const leftPath = pageData.params?.data?.left;
+      const rightPath = pageData.params?.data?.right;
+      const isBasedOn: Array<{ '@id': string }> = [];
+      if (typeof leftPath === 'string') {
+        isBasedOn.push({ '@id': `${SITE_ORIGIN}${leftPath.replace(/\.md$/, '')}#chapter` });
+      }
+      if (typeof rightPath === 'string') {
+        isBasedOn.push({ '@id': `${SITE_ORIGIN}${rightPath.replace(/\.md$/, '')}#chapter` });
+      }
+
+      const compareChapterId = `${pageUrl}#chapter`;
+      const compareBookId = `${SITE_ORIGIN}/${bookSegment}/${authorSegment}/#book`;
+
+      const compareGraph: Record<string, unknown>[] = [
+        {
+          '@type': 'WebPage',
+          '@id': pageUrl,
+          'url': pageUrl,
+          'name': pageTitle,
+          'inLanguage': compareMeta.inLanguage,
+          'datePublished': DEFAULT_PUBLISHED,
+          'dateModified': dateModified,
+          'isPartOf': { '@id': `${SITE_ORIGIN}/#website` },
+          'mainEntity': { '@id': compareChapterId },
         },
-        'publisher': {
-          '@type': 'Organization',
-          'name': 'Kinh Nikaya',
-          'url': SITE_ORIGIN,
+        {
+          '@type': ['Chapter', 'ScholarlyArticle'],
+          '@id': compareChapterId,
+          'name': pageTitle,
+          'url': pageUrl,
+          'inLanguage': compareMeta.inLanguage,
+          'isPartOf': { '@id': compareBookId },
+          ...(isBasedOn.length ? { 'isBasedOn': isBasedOn } : {}),
+          ...(translators.length ? { 'translator': translators } : {}),
         },
-        'image': `${SITE_ORIGIN}${bookMeta.cover}`,
-      };
-      if (translators.length) compareSchema['translator'] = translators;
+        {
+          '@type': 'BreadcrumbList',
+          'itemListElement': [
+            { '@type': 'ListItem', 'position': 1, 'name': 'Trang chủ', 'item': `${SITE_ORIGIN}/` },
+            { '@type': 'ListItem', 'position': 2, 'name': bookMeta.name, 'item': bookMeta.url },
+            { '@type': 'ListItem', 'position': 3, 'name': `Bản so sánh: ${compareMeta.label}`, 'item': `${SITE_ORIGIN}/${bookSegment}/${authorSegment}/mucluc` },
+            { '@type': 'ListItem', 'position': 4, 'name': pageTitle, 'item': pageUrl },
+          ],
+        },
+      ];
 
       pageData.frontmatter.head.push([
         'script',
         { type: 'application/ld+json' },
-        JSON.stringify(compareSchema),
+        JSON.stringify({ '@context': 'https://schema.org', '@graph': compareGraph }),
       ]);
 
       return pageData;
@@ -588,43 +600,46 @@ export default defineConfig({
           }
           breadcrumbItems.push({ name: pageTitle, url: pageUrl });
 
+          const chapterId = `${pageUrl}#chapter`;
+          const bookId = `${SITE_ORIGIN}/${bookSegment}/${authorSegment}/#book`;
+
+          const articleGraph: Record<string, unknown>[] = [
+            {
+              '@type': 'WebPage',
+              '@id': pageUrl,
+              'url': pageUrl,
+              'name': pageTitle,
+              'inLanguage': translatorMeta?.inLanguage ?? ['vi'],
+              'datePublished': DEFAULT_PUBLISHED,
+              'dateModified': dateModified,
+              'isPartOf': { '@id': `${SITE_ORIGIN}/#website` },
+              'mainEntity': { '@id': chapterId },
+            },
+            {
+              '@type': ['Chapter', 'ScholarlyArticle'],
+              '@id': chapterId,
+              'name': pageTitle,
+              'position': currentIndex + 1,
+              'url': pageUrl,
+              'inLanguage': translatorMeta?.inLanguage ?? ['vi'],
+              'isPartOf': { '@id': bookId },
+              ...(translatorMeta ? { 'translator': makeTranslatorEntity(translatorMeta) } : {}),
+            },
+            {
+              '@type': 'BreadcrumbList',
+              'itemListElement': breadcrumbItems.map((it, idx) => ({
+                '@type': 'ListItem',
+                'position': idx + 1,
+                'name': it.name,
+                'item': it.url,
+              })),
+            },
+          ];
+
           pageData.frontmatter.head.push([
             'script',
             { type: 'application/ld+json' },
-            JSON.stringify(buildBreadcrumbSchema(breadcrumbItems)),
-          ]);
-
-          const schema: Record<string, unknown> = {
-            '@context': 'https://schema.org',
-            '@type': 'ScholarlyArticle',
-            'name': pageTitle,
-            'headline': pageTitle,
-            'url': pageUrl,
-            'datePublished': DEFAULT_PUBLISHED,
-            'dateModified': dateModified,
-            'isPartOf': {
-              '@type': 'Book',
-              'name': bookMeta.name,
-              'alternateName': bookMeta.alternateName,
-              'url': bookMeta.url,
-            },
-            'publisher': {
-              '@type': 'Organization',
-              'name': 'Kinh Nikaya',
-              'url': SITE_ORIGIN,
-            },
-            'image': coverUrl,
-          };
-
-          if (translatorMeta) {
-            schema['translator'] = makeTranslatorEntity(translatorMeta);
-            schema['inLanguage'] = translatorMeta.inLanguage;
-          }
-
-          pageData.frontmatter.head.push([
-            'script',
-            { type: 'application/ld+json' },
-            JSON.stringify(schema),
+            JSON.stringify({ '@context': 'https://schema.org', '@graph': articleGraph }),
           ]);
         }
       } else {
@@ -660,74 +675,74 @@ export default defineConfig({
       onload: "this.onload=null;this.rel='stylesheet'"
     }],
 
-    ['script', { type: 'application/ld+json' }, JSON.stringify({
-      "@context": "https://schema.org",
-      "@graph": [
-        {
-          "@type": "WebSite",
-          "@id": "https://kinhnikaya.org/#website",
-          "name": "Kinh Nikaya",
-          "url": "https://kinhnikaya.org",
-          "description": "Thư viện Kinh điển Phật giáo Nguyên thủy với bản dịch song ngữ Pali - Việt. Bao gồm Kinh Trường Bộ, Kinh Trung Bộ, Kinh Tăng Chi Bộ và Kinh Tương Ứng.",
-          "inLanguage": ["vi", "en", "pi"],
-          "potentialAction": {
-            "@type": "SearchAction",
-            "target": {
-              "@type": "EntryPoint",
-              "urlTemplate": "https://kinhnikaya.org/search?q={search_term_string}"
-            },
-            "query-input": "required name=search_term_string"
-          }
-        },
-        {
-          "@type": "Organization",
-          "@id": "https://kinhnikaya.org/#organization",
-          "name": "Kinh Nikaya",
-          "url": "https://kinhnikaya.org",
-          "sameAs": ["https://github.com/truonghoangnguyen/nikaya2"],
-          "knowsAbout": [
-            "Phật giáo Nguyên thủy",
-            "Kinh điển Nikaya",
-            "Tiếng Pali",
-            "Theravada Buddhism",
-            "Pali Canon",
-            "Dīgha Nikāya",
-            "Majjhima Nikāya",
-            "Saṃyutta Nikāya",
-            "Aṅguttara Nikāya"
-          ],
-          "contributor": [
-            {
-              "@type": "Person",
-              "name": "Thích Minh Châu",
-              "sameAs": [
-                "https://vi.wikipedia.org/wiki/Th%C3%ADch_Minh_Ch%C3%A2u",
-                "https://en.wikipedia.org/wiki/Thich_Minh_Chau"
-              ]
-            },
-            {
-              "@type": "Person",
-              "name": "Bhikkhu Sujato",
-              "url": "https://suttacentral.net/sujato",
-              "sameAs": [
-                "https://en.wikipedia.org/wiki/Bhikkhu_Sujato",
-                "https://suttacentral.net/sujato"
-              ]
-            },
-            {
-              "@type": "Person",
-              "name": "Bhikkhu Bodhi",
-              "sameAs": ["https://en.wikipedia.org/wiki/Bhikkhu_Bodhi"]
-            },
-            {
-              "@type": "Person",
-              "name": "Bhikkhu Ñāṇamoli",
-              "sameAs": ["https://en.wikipedia.org/wiki/Bhikkhu_Nanamoli"]
-            }
-          ]
-        }
-      ]
-    })],
+    // ['script', { type: 'application/ld+json' }, JSON.stringify({
+    //   "@context": "https://schema.org",
+    //   "@graph": [
+    //     {
+    //       "@type": "WebSite",
+    //       "@id": "https://kinhnikaya.org/#website",
+    //       "name": "Kinh Nikaya",
+    //       "url": "https://kinhnikaya.org",
+    //       "description": "Thư viện Kinh điển Phật giáo Nguyên thủy với bản dịch song ngữ Pali - Việt. Bao gồm Kinh Trường Bộ, Kinh Trung Bộ, Kinh Tăng Chi Bộ và Kinh Tương Ứng.",
+    //       "inLanguage": ["vi", "en", "pi"],
+    //       "potentialAction": {
+    //         "@type": "SearchAction",
+    //         "target": {
+    //           "@type": "EntryPoint",
+    //           "urlTemplate": "https://kinhnikaya.org/search?q={search_term_string}"
+    //         },
+    //         "query-input": "required name=search_term_string"
+    //       }
+    //     },
+    //     {
+    //       "@type": "Organization",
+    //       "@id": "https://kinhnikaya.org/#organization",
+    //       "name": "Kinh Nikaya",
+    //       "url": "https://kinhnikaya.org",
+    //       "sameAs": ["https://github.com/truonghoangnguyen/nikaya2"],
+    //       "knowsAbout": [
+    //         "Phật giáo Nguyên thủy",
+    //         "Kinh điển Nikaya",
+    //         "Tiếng Pali",
+    //         "Theravada Buddhism",
+    //         "Pali Canon",
+    //         "Dīgha Nikāya",
+    //         "Majjhima Nikāya",
+    //         "Saṃyutta Nikāya",
+    //         "Aṅguttara Nikāya"
+    //       ],
+    //       "contributor": [
+    //         {
+    //           "@type": "Person",
+    //           "name": "Thích Minh Châu",
+    //           "sameAs": [
+    //             "https://vi.wikipedia.org/wiki/Th%C3%ADch_Minh_Ch%C3%A2u",
+    //             "https://en.wikipedia.org/wiki/Thich_Minh_Chau"
+    //           ]
+    //         },
+    //         {
+    //           "@type": "Person",
+    //           "name": "Bhikkhu Sujato",
+    //           "url": "https://suttacentral.net/sujato",
+    //           "sameAs": [
+    //             "https://en.wikipedia.org/wiki/Bhikkhu_Sujato",
+    //             "https://suttacentral.net/sujato"
+    //           ]
+    //         },
+    //         {
+    //           "@type": "Person",
+    //           "name": "Bhikkhu Bodhi",
+    //           "sameAs": ["https://en.wikipedia.org/wiki/Bhikkhu_Bodhi"]
+    //         },
+    //         {
+    //           "@type": "Person",
+    //           "name": "Bhikkhu Ñāṇamoli",
+    //           "sameAs": ["https://en.wikipedia.org/wiki/Bhikkhu_Nanamoli"]
+    //         }
+    //       ]
+    //     }
+    //   ]
+    // })],
 
     ['noscript', {}, '<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,400;0,600;0,700;1,400&display=swap">']
   ],
@@ -786,7 +801,3 @@ export default defineConfig({
     }
   }
 })
-
-
-// href: 'https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap',
-//['noscript', {}, '<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap">']

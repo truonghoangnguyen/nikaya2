@@ -515,3 +515,22 @@ Tóm tắt phẩm:
 Phần Pāḷi của phẩm Pāthika kết thúc.
 
 Toàn bộ Trường Bộ Kinh được trang hoàng bởi ba phẩm đã hoàn tất.
+
+home
+ - kinh trung bo
+   - bản dịch thích minh châu
+     - kinh 1
+     - kinh 2
+     - kinh 3
+   - bản dịch nanamoli
+     - kinh 1
+     - kinh 2
+     - kinh 3
+   - bản dịch pali
+     - kinh 1
+     - kinh 2
+     - kinh 3
+   - bản dịch so sánh nanamoli-thích minh châu
+     - kinh 1
+     - kinh 2
+     - kinh 3

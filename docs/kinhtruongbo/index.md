@@ -5,7 +5,51 @@ description: Dīgha Nikāya (Kinh Trường Bộ) gồm 34 bài kinh dài nhất
 head:
   - - script
     - type: application/ld+json
-    - '{"@context": "https://schema.org", "@type": "Book", "name": "Kinh Trường Bộ — Dīgha Nikāya", "alternateName": "Dīgha Nikāya", "description": "Tập hợp 34 bài kinh dài nhất của Đức Phật trong Kinh điển Pali (Pali Canon). Có bản dịch tiếng Việt của Thích Minh Châu, bản tiếng Anh của Bhikkhu Sujato, và văn bản Pali gốc.", "url": "https://kinhnikaya.org/kinhtruongbo/", "inLanguage": ["vi", "en", "pi"], "numberOfItems": 34, "translator": [{ "@type": "Person", "name": "Thích Minh Châu" },{ "@type": "Person", "name": "Bhikkhu Ñāṇamoli" },{ "@type": "Person", "name": "Bhikkhu Bodhi" },{ "@type": "Person", "name": "Trương Hoàng Nguyên" }],"about": {"@type": "Thing", "name": "Phật giáo Nguyên thủy", "sameAs": "https://en.wikipedia.org/wiki/Theravada"}, "hasPart": [{"@type": "Chapter", "name": "DN 1. Kinh Phạm Võng", "alternateName": "Brahmajāla Sutta", "url": "https://kinhnikaya.org/kinhtruongbo/c-pali-tmc-vi/dnc-001-kinh-pham-vong"}, {"@type": "Chapter", "name": "DN 2. Kinh Sa Môn Qủa", "alternateName": "Sāmaññaphala Sutta", "url": "https://kinhnikaya.org/kinhtruongbo/c-pali-tmc-vi/dnc-002-kinh-sa-mon-qua"}, {"@type": "Chapter", "name": "DN 3. Kinh Ambattha (a-Ma-Trú)", "alternateName": "Ambaṭṭha Sutta", "url": "https://kinhnikaya.org/kinhtruongbo/c-pali-tmc-vi/dnc-003-kinh-ambattha-a-ma-tru"}, {"@type": "Chapter", "name": "DN 4. Kinh Sonadanda (chủng Ðức)", "alternateName": "Soṇadaṇḍa Sutta", "url": "https://kinhnikaya.org/kinhtruongbo/c-pali-tmc-vi/dnc-004-kinh-sonadanda-chung-duc"}, {"@type": "Chapter", "name": "DN 5. Kinh Kùtadanta (cứu-La-Ðàn-Ðầu)", "alternateName": "Kūṭadanta Sutta", "url": "https://kinhnikaya.org/kinhtruongbo/c-pali-tmc-vi/dnc-005-kinh-kutadanta-cuu-la-dan-dau"}, {"@type": "Chapter", "name": "DN 6. Kinh Mahàli", "alternateName": "Mahāli Sutta", "url": "https://kinhnikaya.org/kinhtruongbo/c-pali-tmc-vi/dnc-006-kinh-mahali"}, {"@type": "Chapter", "name": "DN 7. Kinh Jàliya", "alternateName": "Jāliya Sutta", "url": "https://kinhnikaya.org/kinhtruongbo/c-pali-tmc-vi/dnc-007-kinh-jaliya"}, {"@type": "Chapter", "name": "DN 8. Kinh Ca-Diếp Sư Tử Hống", "alternateName": "Mahāsīhanāda Sutta", "url": "https://kinhnikaya.org/kinhtruongbo/c-pali-tmc-vi/dnc-008-kinh-ca-diep-su-tu-hong"}, {"@type": "Chapter", "name": "DN 9. Kinh Potthapàda (bố-Sá-Bà-Lâu)", "alternateName": "Poṭṭhapāda Sutta", "url": "https://kinhnikaya.org/kinhtruongbo/c-pali-tmc-vi/dnc-009-kinh-potthapada-bo-sa-ba-lau"}, {"@type": "Chapter", "name": "DN 10. Kinh Subha (tu-Bà)", "alternateName": "Subha Sutta", "url": "https://kinhnikaya.org/kinhtruongbo/c-pali-tmc-vi/dnc-010-kinh-subha-tu-ba"}, {"@type": "Chapter", "name": "DN 11. Kinh Kevaddha (kiên Cố)", "alternateName": "Kevaṭṭa Sutta", "url": "https://kinhnikaya.org/kinhtruongbo/c-pali-tmc-vi/dnc-011-kinh-kevaddha-kien-co"}, {"@type": "Chapter", "name": "DN 12. Kinh Lohicca (lô-Hi-Gia)", "alternateName": "Lohicca Sutta", "url": "https://kinhnikaya.org/kinhtruongbo/c-pali-tmc-vi/dnc-012-kinh-lohicca-lo-hi-gia"}, {"@type": "Chapter", "name": "DN 13. Kinh Tevijja (tam Minh)", "alternateName": "Tevijja Sutta", "url": "https://kinhnikaya.org/kinhtruongbo/c-pali-tmc-vi/dnc-013-kinh-tevijja-tam-minh"}, {"@type": "Chapter", "name": "DN 14. Kinh Ðại Bổn", "alternateName": "Mahāpadāna Sutta", "url": "https://kinhnikaya.org/kinhtruongbo/c-pali-tmc-vi/dnc-014-kinh-dai-bon"}, {"@type": "Chapter", "name": "DN 15. Kinh Ðại Duyên", "alternateName": "Mahānidāna Sutta", "url": "https://kinhnikaya.org/kinhtruongbo/c-pali-tmc-vi/dnc-015-kinh-dai-duyen"}, {"@type": "Chapter", "name": "DN 16. Kinh Ðại Bát Niết Bàn", "alternateName": "Mahāparinibbāna Sutta", "url": "https://kinhnikaya.org/kinhtruongbo/c-pali-tmc-vi/dnc-016-kinh-dai-bat-niet-ban"}, {"@type": "Chapter", "name": "DN 17. Kinh Ðại Thiện Kiến Vương", "alternateName": "Mahāsudassana Sutta", "url": "https://kinhnikaya.org/kinhtruongbo/c-pali-tmc-vi/dnc-017-kinh-dai-thien-kien-vuong"}, {"@type": "Chapter", "name": "DN 18. Kinh Xa-Ni-Sa", "alternateName": "Janavasabha Sutta", "url": "https://kinhnikaya.org/kinhtruongbo/c-pali-tmc-vi/dnc-018-kinh-xa-ni-sa"}, {"@type": "Chapter", "name": "DN 19. Kinh Ðại Ðiển Tôn", "alternateName": "Mahāgovinda Sutta", "url": "https://kinhnikaya.org/kinhtruongbo/c-pali-tmc-vi/dnc-019-kinh-dai-dien-ton"}, {"@type": "Chapter", "name": "DN 20. Kinh Ðại Hội", "alternateName": "Mahāsamaya Sutta", "url": "https://kinhnikaya.org/kinhtruongbo/c-pali-tmc-vi/dnc-020-kinh-dai-hoi"}, {"@type": "Chapter", "name": "DN 21. Kinh Ðế-Thích Sở Vấn", "alternateName": "Sakkapañha Sutta", "url": "https://kinhnikaya.org/kinhtruongbo/c-pali-tmc-vi/dnc-021-kinh-de-thich-so-van"}, {"@type": "Chapter", "name": "DN 22. Kinh Ðại Niệm Xứ", "alternateName": "Mahāsatipaṭṭhāna Sutta", "url": "https://kinhnikaya.org/kinhtruongbo/c-pali-tmc-vi/dnc-022-kinh-dai-niem-xu"}, {"@type": "Chapter", "name": "DN 23. Kinh Tệ-Túc", "alternateName": "Pāyāsi Sutta", "url": "https://kinhnikaya.org/kinhtruongbo/c-pali-tmc-vi/dnc-023-kinh-te-tuc"}, {"@type": "Chapter", "name": "DN 24. Kinh Ba-Lê", "alternateName": "Pāṭika Sutta", "url": "https://kinhnikaya.org/kinhtruongbo/c-pali-tmc-vi/dnc-024-kinh-ba-le"}, {"@type": "Chapter", "name": "DN 25. Kinh Ưu-Ðàm-Bà-La Sư Tử Hống", "alternateName": "Udumbarika Sutta", "url": "https://kinhnikaya.org/kinhtruongbo/c-pali-tmc-vi/dnc-025-kinh-uu-dam-ba-la-su-tu-hong"}, {"@type": "Chapter", "name": "DN 26. Kinh Chuyển Luân Thánh Vương Sư Tử Hống", "alternateName": "Cakkavatti Sutta", "url": "https://kinhnikaya.org/kinhtruongbo/c-pali-tmc-vi/dnc-026-kinh-chuyen-luan-thanh-vuong-su-tu-hong"}, {"@type": "Chapter", "name": "DN 27. Kinh Khởi Thế Nhân Bổn", "alternateName": "Aggañña Sutta", "url": "https://kinhnikaya.org/kinhtruongbo/c-pali-tmc-vi/dnc-027-kinh-khoi-the-nhan-bon"}, {"@type": "Chapter", "name": "DN 28. Kinh Tự Hoan Hỷ", "alternateName": "Sampasādanīya Sutta", "url": "https://kinhnikaya.org/kinhtruongbo/c-pali-tmc-vi/dnc-028-kinh-tu-hoan-hy"}, {"@type": "Chapter", "name": "DN 29. Kinh Thanh Tịnh", "alternateName": "Pāsādika Sutta", "url": "https://kinhnikaya.org/kinhtruongbo/c-pali-tmc-vi/dnc-029-kinh-thanh-tinh"}, {"@type": "Chapter", "name": "DN 30. Kinh Tướng", "alternateName": "Lakkhaṇa Sutta", "url": "https://kinhnikaya.org/kinhtruongbo/c-pali-tmc-vi/dnc-030-kinh-tuong"}, {"@type": "Chapter", "name": "DN 31. Kinh Giáo Thọ Thi-Ca-La-Việt", "alternateName": "Sigālaka Sutta", "url": "https://kinhnikaya.org/kinhtruongbo/c-pali-tmc-vi/dnc-031-kinh-giao-tho-thi-ca-la-viet"}, {"@type": "Chapter", "name": "DN 32. Kinh A-Sá-Nang-Chi", "alternateName": "Āṭānāṭiya Sutta", "url": "https://kinhnikaya.org/kinhtruongbo/c-pali-tmc-vi/dnc-032-kinh-a-sa-nang-chi"}, {"@type": "Chapter", "name": "DN 33. Kinh Phúng Tụng", "alternateName": "Saṅgīti Sutta", "url": "https://kinhnikaya.org/kinhtruongbo/c-pali-tmc-vi/dnc-033-kinh-phung-tung"}, {"@type": "Chapter", "name": "DN 34. Kinh Thập Thượng", "alternateName": "Dasuttara Sutta", "url": "https://kinhnikaya.org/kinhtruongbo/c-pali-tmc-vi/dnc-034-kinh-thap-thuong"}]}'
+    - |
+
+        {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Book",
+            "@id": "https://kinhnikaya.org/kinhtruongbo/#book",
+            "mainEntityOfPage": {
+              "@type": "WebPage",
+              "@id": "https://kinhnikaya.org/kinhtruongbo/"
+            },
+            "name": "Kinh Trường Bộ",
+            "alternateName": "Dīgha Nikāya",
+            "numberOfChapters":34,
+            "url": "https://kinhnikaya.org/kinhtruongbo/",
+            "isAccessibleForFree": true,
+            "publisher": { "@id": "https://kinhnikaya.org/#org" },
+            "author": {
+              "@type": "Person",
+              "name": "Gotama Buddha",
+              "sameAs": "https://en.wikipedia.org/wiki/Gautama_Buddha"
+            },
+            "about": {
+              "@type": "Thing",
+              "name": "Phật giáo Nguyên thủy",
+              "sameAs": "https://en.wikipedia.org/wiki/Theravada"
+            },
+            "workTranslation": [
+              { "@id": "https://kinhnikaya.org/kinhtruongbo/thichminhchau/#book" },
+              { "@id": "https://kinhnikaya.org/kinhtruongbo/sujato-en/#book" },
+              { "@id": "https://kinhnikaya.org/kinhtruongbo/sujato-vi/#book" },
+              { "@id": "https://kinhnikaya.org/kinhtruongbo/pali-vi/#book" },
+              { "@id": "https://kinhnikaya.org/kinhtruongbo/c-sujato-tmc-vi/#book" },
+              { "@id": "https://kinhnikaya.org/kinhtruongbo/c-pali-tmc-vi/#book" }]
+          },
+          {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              { "@type": "ListItem", "position": 1, "name": "Trang chủ", "item": "https://kinhnikaya.org/" },
+              { "@type": "ListItem", "position": 2, "name": "Kinh Trường Bộ", "item": "https://kinhnikaya.org/kinhtruongbo/"  }
+            ]
+          }
+        ]
+        }
 ---
 
 <BookLayout
