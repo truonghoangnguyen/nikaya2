@@ -5,7 +5,7 @@
 - **`pali-vi/`** — Bản Pāli dịch sang tiếng Việt.
 
 ### Tiếng Việt
-- **`thichminhchau/`** — **Hòa thượng Thích Minh Châu** (1918–2012): Bản dịch Việt ngữ kinh điển nhất, được dịch trực tiếp từ Pāli trong nhiều thập niên. Nguồn tham chiếu chuẩn của Phật giáo Việt Nam hiện nay.
+- **`thichminhchau/`** — **Tỷ kheo Thích Minh Châu** (1918–2012): Bản dịch Việt ngữ kinh điển nhất, được dịch trực tiếp từ Pāli trong nhiều thập niên. Nguồn tham chiếu chuẩn của Phật giáo Việt Nam hiện nay.
 - **`sujato-vi/`** — Bản dịch Việt từ bản tiếng Anh của Bhikkhu Sujato.
 - **`nanamoli-bodhi-vi/`** *(Trung Bộ)* — Bản dịch Việt từ bản tiếng Anh "The Middle Length Discourses" của Ñāṇamoli & Bodhi.
 
@@ -16,7 +16,7 @@
 ### Trang đối chiếu song song (`c-<tác giả>-tmc/`)
 Mỗi bài kinh có thể mở dưới dạng **so sánh hai cột**: đối chiếu với bản dịch của HT Thích minh châu, ví dụ Pāli ↔ Thích Minh Châu (c-pali-tmc-vi), Sujato ↔ Thích Minh Châu (c-sujato-tmc-vi), hoặc Ñāṇamoli-Bodhi ↔ Thích Minh Châu (c-mn-tmc-vi). Cuộn hai cột đồng bộ để đối chiếu từng đoạn.
 
-### folder kinh 
+### folder kinh
 Gồm 4 kinh
 
 Home

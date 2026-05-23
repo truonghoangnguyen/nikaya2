@@ -6,7 +6,7 @@ head:
   - - script
     - type: application/ld+json
     - |
-    
+
        {
         "@context": "https://schema.org",
         "@graph": [
@@ -23,6 +23,7 @@ head:
             "inLanguage": "vi",
             "isAccessibleForFree": true,
             "publisher": { "@id": "https://kinhnikaya.org/#org" },
+            "image": "https://kinhnikaya.org/covers/kinhtruongbo.webp",
             "author": {
                 "@type": "Person",
                 "name": "Gotama Buddha",
@@ -72,7 +73,7 @@ head:
                 { "@id": "https://kinhnikaya.org/kinhtruongbo/c-pali-tmc-vi/dnc-031-kinh-giao-tho-thi-ca-la-viet#chapter" },
                 { "@id": "https://kinhnikaya.org/kinhtruongbo/c-pali-tmc-vi/dnc-032-kinh-a-sa-nang-chi#chapter" },
                 { "@id": "https://kinhnikaya.org/kinhtruongbo/c-pali-tmc-vi/dnc-033-kinh-phung-tung#chapter" },
-                { "@id": "https://kinhnikaya.org/kinhtruongbo/c-pali-tmc-vi/dnc-034-kinh-thap-thuong#chapter" }   
+                { "@id": "https://kinhnikaya.org/kinhtruongbo/c-pali-tmc-vi/dnc-034-kinh-thap-thuong#chapter" }
             ]
             },
             {
@@ -80,12 +81,28 @@ head:
             "itemListElement": [
                 { "@type": "ListItem", "position": 1, "name": "Trang chủ", "item": "https://kinhnikaya.org/" },
                 { "@type": "ListItem", "position": 2, "name": "Kinh Trường Bộ", "item": "https://kinhnikaya.org/kinhtruongbo/" },
-                { "@type": "ListItem", "position": 3, "name": "Bản dịch Trương Hoàng Nguyên", "item": "https://kinhnikaya.org/kinhtruongbo/c-pali-tmc-vi/"  }
+                { "@type": "ListItem", "position": 3, "name": "Bản đọc song song ", "item": "https://kinhnikaya.org/kinhtruongbo/c-pali-tmc-vi/"  }
             ]
             }
         ]
-        }    
-    
+        }
+
 ---
+
+<h1 style="text-align: center;">Kinh Trường Bộ - Bản đọc song song</h1>
+
+<p style="text-align: center;">Pali (Việt) & Tỷ kheo Thích Minh Châu</p>
+
+<br>
+<a href="/kinhtruongbo/c-pali-tmc-vi/dnc-001-kinh-pham-vong">
+<figure style="text-align: center;">
+    <img src="/covers/kinhtruongbo.webp" style="max-width:400px;width:100%;display:block;margin:0 auto;" alt="Kinh Trường Bộ - Pali (Việt) ∥ Tỷ kheo Thích Minh Châu">
+</figure>
+</a>
+
+<br>
+<hr>
+<br>
+<h2 style="text-align: center;">Mục Lục</h2>
 
 <!--@include: ./mucluc.md-->

@@ -23,6 +23,7 @@ head:
             "url": "https://kinhnikaya.org/kinhtruongbo/",
             "isAccessibleForFree": true,
             "publisher": { "@id": "https://kinhnikaya.org/#org" },
+            "image": "https://kinhnikaya.org/covers/kinhtruongbo.webp",
             "author": {
               "@type": "Person",
               "name": "Gotama Buddha",
@@ -59,23 +60,23 @@ head:
 >
   <template #sections>
     <div class="section-item">
-      <div class="section-title"><a href="/kinhtruongbo/c-pali-tmc-vi/mucluc">Pali & Thích Minh Châu</a></div>
-      <div class="section-subtitle">Đối chiếu bản dịch tiếng Việt của Hòa thượng Thích Minh Châu và Pali-Việt.</div>
+      <div class="section-title"><a href="/kinhtruongbo/c-pali-tmc-vi/">Pali & Thích Minh Châu</a></div>
+      <div class="section-subtitle">Bản đọc song song của Tỷ kheo Thích Minh Châu và Pali-Việt.</div>
     </div>
     <div class="section-item">
-      <div class="section-title"><a href="/kinhtruongbo/c-sujato-tmc-vi/mucluc">Sujato & Thích Minh Châu</a></div>
-      <div class="section-subtitle">Đối chiếu bản dịch tiếng Việt của Hòa thượng Thích Minh Châu và Bhikkhu Sujato.</div>
+      <div class="section-title"><a href="/kinhtruongbo/c-sujato-tmc-vi/">Sujato & Thích Minh Châu</a></div>
+      <div class="section-subtitle">Bản đọc song song của Tỷ kheo Thích Minh Châu và Bhikkhu Sujato (Việt).</div>
     </div>
     <div class="section-item">
-      <div class="section-title"><a href="/kinhtruongbo/thichminhchau/cover">Hòa thượng Thích Minh Châu</a></div>
-      <div class="section-subtitle">Toàn bộ Kinh Trường Bộ qua bản dịch của Hòa thượng Thích Minh Châu.</div>
+      <div class="section-title"><a href="/kinhtruongbo/thichminhchau/">Tỷ kheo Thích Minh Châu</a></div>
+      <div class="section-subtitle">Tỷ kheo Thích Minh Châu.</div>
     </div>
     <div class="section-item">
-      <div class="section-title"><a href="/kinhtruongbo/sujato-vi/intro/cover">Bhikkhu Sujato (Tiếng Việt)</a></div>
-      <div class="section-subtitle">Bản dịch tiếng Việt từ bản Bhikkhu Sujato.</div>
+      <div class="section-title"><a href="/kinhtruongbo/sujato-vi/">Bhikkhu Sujato (Tiếng Việt)</a></div>
+      <div class="section-subtitle">Bản dịch tiếng Việt từ bản "Long Discourses" của Bhikkhu Sujato.</div>
     </div>
     <div class="section-item">
-      <div class="section-title"><a href="/kinhtruongbo/sujato-en/intro/cover">Bhikkhu Sujato (English)</a></div>
+      <div class="section-title"><a href="/kinhtruongbo/sujato-en/">Bhikkhu Sujato (English)</a></div>
       <div class="section-subtitle">The complete Dīgha Nikāya in modern English translation by Bhikkhu Sujato.</div>
     </div>
   </template>

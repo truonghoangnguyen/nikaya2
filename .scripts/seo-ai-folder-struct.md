@@ -16,7 +16,7 @@ Trong mỗi folder đều có file `mucluc.md` đó là file chứa index table
 
 ### 7.2. Tác giả & Bản dịch (Authors & Translations)
 Bên trong mỗi thư mục bộ kinh là các thư mục con phân chia theo nguồn văn bản hoặc tác giả dịch:
-- `thichminhchau/` (hoặc viết tắt `tmc`): Bản dịch của Hòa thượng Thích Minh Châu.
+- `thichminhchau/` (hoặc viết tắt `tmc`): Bản dịch của Tỷ kheo Thích Minh Châu.
 - `nm/`: Bản tiếng Anh của Bhikkhu Nanamoli và Bhikkhu Bodhi.
 - `nm-vi/`: Bản dịch tiếng Anh của Bhikkhu Nanamoli và Bhikkhu Bodhi.
 - `sujato/`: Bản tiếng Anh của Bhikkhu Sujato.

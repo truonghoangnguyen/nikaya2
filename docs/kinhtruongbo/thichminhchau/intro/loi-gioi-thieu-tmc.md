@@ -1,10 +1,4 @@
----
-next:
-    text: Mục lục
-    link: /kinhtruongbo/thichminhchau/meta/mucluc
----
-
-# LỜI GIỚI THIỆU HÒA THƯỢNG THÍCH MINH CHÂU
+# LỜI GIỚI THIỆU Tỷ kheo Thích Minh Châu (1972)
 
 *Trích Lời Giới Thiệu, Trường Bộ Kinh, Tập III (1972):*
 

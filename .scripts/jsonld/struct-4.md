@@ -36,7 +36,7 @@
         }
     ]
     }
-```        
+```
 
 ---
 
@@ -99,15 +99,15 @@
   "@graph": [
     {
       "@type": "Book",
-      "@id": "https://kinhnikaya.org/kinhtruongbo/thichminhchau/#book",
+      ;"@id": "https://kinhnikaya.org/kinhtruongbo/thichminhchau/#book",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://kinhnikaya.org/kinhtruongbo/thichminhchau/"
+      ;  "@id": "https://kinhnikaya.org/kinhtruongbo/thichminhchau/"
       },
-      "name": "Kinh Trường Bộ — Bản dịch Thích Minh Châu",
-      "bookEdition": "Bản dịch Thích Minh Châu",
-      "url": "https://kinhnikaya.org/kinhtruongbo/thichminhchau/",
-      "inLanguage": "vi",
+      ;"name": "Kinh Trường Bộ — Bản dịch Thích Minh Châu",
+      ;"bookEdition": "Bản dịch Thích Minh Châu",
+      ;"url": "https://kinhnikaya.org/kinhtruongbo/thichminhchau/",
+      ;"inLanguage": "vi",
       "isAccessibleForFree": true,
       "publisher": { "@id": "https://kinhnikaya.org/#org" },
       "author": {
@@ -116,12 +116,12 @@
         "sameAs": "https://en.wikipedia.org/wiki/Gautama_Buddha"
       },
       "translator": {
-        "@type": "Person",
-        "name": "Thích Minh Châu",
-        "sameAs": "https://vi.wikipedia.org/wiki/Thích_Minh_Châu"
+      ;  "@type": "Person",
+      ;  "name": "Thích Minh Châu",
+      ;  "sameAs": "https://vi.wikipedia.org/wiki/Thích_Minh_Châu"
       },
-      "translationOfWork": { "@id": "https://kinhnikaya.org/kinhtruongbo/#book" },
-      "hasPart": [
+      ;"translationOfWork": { "@id": "https://kinhnikaya.org/kinhtruongbo/#book" },
+      ;"hasPart": [
         { "@id": "https://kinhnikaya.org/kinhtruongbo/thichminhchau/dn-001#chapter" }
         // ... 33 bài còn lại
       ]
@@ -167,8 +167,8 @@
       "translator": {
         "@type": "Person",
         "name": "Bhikkhu Sujato",
-        "sameAs": "https://en.wikipedia.org/wiki/Bhikkhu_Sujato"
-      }    
+        "sameAs": "https://en.wikipedia.org/wiki/Bhante_Sujato
+      }
       "translationOfWork": { "@id": "https://kinhnikaya.org/kinhtruongbo/#book" },
       "hasPart": [
         { "@id": "https://kinhnikaya.org/kinhtruongbo/sujato-en/dn-001#chapter" }
@@ -217,7 +217,7 @@
         { "@type": "Person", "name": "Bhikkhu Sujato" },
         { "@type": "Person", "name": "Thích Minh Châu" }
       ],
-      
+
       "translationOfWork": { "@id": "https://kinhnikaya.org/kinhtruongbo/#book" },
       "hasPart": [
         { "@id": "https://kinhnikaya.org/kinhtruongbo/c-sujato-tmc-vi/dn-001#chapter" }

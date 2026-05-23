@@ -5,7 +5,7 @@
 <br>
 <a href="/kinhtangchi/sujato-vi/intro/00-000-quote">
     <figure style="text-align: center;">
-        <img src="/an-sujato-cover.jpg" style="max-width:400px;width:100%;display:block;margin:0 auto;" alt="Numbered Discourses
+        <img src="/covers/kinhtangchi-sujato.webp" style="max-width:400px;width:100%;display:block;margin:0 auto;" alt="Numbered Discourses
     A sensible translation of the Aṅguttara Nikāya">
         <figcaption><i>Kinh Tăng Chi Bộ</i></figcaption>
     </figure>

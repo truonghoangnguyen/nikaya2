@@ -1,6 +1,6 @@
 # Kinh Nikaya — Thư viện Kinh điển Phật giáo Nguyên thủy
 
-Kinh Nikaya (kinhnikaya.org) là thư viện tra cứu Kinh điển Phật giáo Nguyên thủy trực tuyến, tập trung vào bộ Nikaya (Pali Canon). Trang web cung cấp các bản dịch song ngữ (Pali - Việt, Anh - Việt) được đối chiếu cạnh nhau, giúp người đọc nghiên cứu kinh điển chuyên sâu.
+Kinh Nikaya (kinhnikaya.org) là thư viện  Kinh Phật giáo Nguyên thủy trực tuyến, tập trung vào bộ Nikaya (Pali Canon). Trang web cung cấp các bản dịch song ngữ (Pali - Việt, Anh - Việt) được đối chiếu cạnh nhau, giúp người đọc nghiên cứu kinh điển chuyên sâu.
 
 ## Nội dung chính
 
@@ -14,7 +14,7 @@ Trang web bao gồm bốn bộ kinh lớn trong Kinh điển Pali (Nikaya):
 ## Dịch giả
 
 Mỗi bộ kinh có nhiều bản dịch để đối chiếu:
-- **Hòa thượng Thích Minh Châu**: Bản dịch Việt ngữ kinh điển, nổi tiếng và được dùng rộng rãi tại Việt Nam.
+- **Tỷ kheo Thích Minh Châu**: Bản dịch Việt ngữ kinh điển, nổi tiếng và được dùng rộng rãi tại Việt Nam.
 - **Bhikkhu Sujato**: Bản dịch tiếng Anh hiện đại, chính xác và dễ hiểu.
 - **Bhikkhu Ñāṇamoli & Bhikkhu Bodhi**: Bản dịch tiếng Anh học thuật, dùng cho nghiên cứu.
 - **Pali nguyên bản**: Văn bản gốc tiếng Pali để đối chiếu.

@@ -86,18 +86,19 @@ try {
 }
 
 const BOOK_NAV = {
-  'kinhtrungbo/thichminhchau': mn_thichminhchau,
-  'kinhtrungbo/nanamoli-bodhi-en': nanamoli_bodhi_en,
-  'kinhtrungbo/nanamoli-bodhi-en/intro': nanamoli_bodhi_en,
-  'kinhtrungbo/nanamoli-bodhi-vi': nanamoli_bodhi_vi,
-  'kinhtrungbo/nanamoli-bodhi-vi/intro': nanamoli_bodhi_vi,
-
   'kinhtruongbo/thichminhchau': dn_thichminhchau,
+  'kinhtruongbo/thichminhchau/intro': dn_thichminhchau,
   'kinhtruongbo/sujato-en': kinhtruongbo_sujato_en,
   'kinhtruongbo/sujato-en/intro': kinhtruongbo_sujato_en,
   'kinhtruongbo/sujato-vi': kinhtruongbo_sujato_vi,
   'kinhtruongbo/sujato-vi/intro': kinhtruongbo_sujato_vi,
   'kinhtruongbo/pali-vi': kinhtruongbo_pali_vi,
+
+  'kinhtrungbo/thichminhchau': mn_thichminhchau,
+  'kinhtrungbo/nanamoli-bodhi-en': nanamoli_bodhi_en,
+  'kinhtrungbo/nanamoli-bodhi-en/intro': nanamoli_bodhi_en,
+  'kinhtrungbo/nanamoli-bodhi-vi': nanamoli_bodhi_vi,
+  'kinhtrungbo/nanamoli-bodhi-vi/intro': nanamoli_bodhi_vi,
 
   'kinhtangchi/thichminhchau': kinhtangchi_thichminhchau,
   //  'kinhtangchi/bodhi-vi': kinhtangchi_bodhi_vi,
@@ -156,7 +157,7 @@ const TRANSLATOR_META: Record<string, TranslatorMeta> = {
     inLanguage: ['en'],
     url: 'https://suttacentral.net',
     sameAs: [
-      'https://en.wikipedia.org/wiki/Bhikkhu_Sujato',
+      'https://suttacentral.net',
       'https://suttacentral.net',
     ],
   },
@@ -273,7 +274,7 @@ function buildSocialMetaTags(opts: { canonicalUrl: string; title: string; descri
 export default defineConfig({
   lang: 'vi-VN',
   title: "Kinh Nikaya",
-  description: "Khám phá bộ sưu tập Kinh điển Nikaya với bản dịch song ngữ Pali - Việt. Thư viện tra cứu kinh điển Phật giáo Nguyên thủy đầy đủ và chính xác.",
+  description: "Khám phá bộ sưu tập Kinh điển Nikaya với bản dịch song ngữ Pali - Việt. Thư viện kinh Phật giáo Nguyên thủy.",
   cleanUrls: true,
   markdown: {
     anchor: {
@@ -288,7 +289,11 @@ export default defineConfig({
       // Any other markdown-it plugins you're using
     }
   },
-
+  srcExclude: [
+    '**/jill-brain/**',
+    '**/jill-stroke/**',
+    '**/plato/**'
+  ],
   vite: {
     define: {
       // __BOOK_NAV__: BOOK_NAV,
@@ -600,10 +605,10 @@ export default defineConfig({
           }
           breadcrumbItems.push({ name: pageTitle, url: pageUrl });
 
-          const chapterId = `${pageUrl}#chapter`;
           const bookId = `${SITE_ORIGIN}/${bookSegment}/${authorSegment}/#book`;
+          const isIntro = pathParts[2] === 'intro' || 'outro';
 
-          const articleGraph: Record<string, unknown>[] = [
+          const articleGraph: Record<string, unknown>[] = isIntro ? [
             {
               '@type': 'WebPage',
               '@id': pageUrl,
@@ -613,15 +618,48 @@ export default defineConfig({
               'datePublished': DEFAULT_PUBLISHED,
               'dateModified': dateModified,
               'isPartOf': { '@id': `${SITE_ORIGIN}/#website` },
-              'mainEntity': { '@id': chapterId },
+              'mainEntity': { '@id': `${pageUrl}#article` },
+            },
+            {
+              '@type': 'Article',
+              '@id': `${pageUrl}#article`,
+              'name': bookMeta.name,
+              'url': pageUrl,
+              'inLanguage': translatorMeta?.inLanguage ?? ['vi'],
+              ...(translatorMeta ? { 'author': { '@type': 'Person', 'name': translatorMeta.name } } : {}),
+              'isPartOf': { '@id': bookId },
+              'image': coverUrl,
+              'about': { '@id': bookId },
+            },
+            {
+              '@type': 'BreadcrumbList',
+              'itemListElement': [
+                { '@type': 'ListItem', 'position': 1, 'name': 'Trang chủ', 'item': `${SITE_ORIGIN}/` },
+                { '@type': 'ListItem', 'position': 2, 'name': bookMeta.name, 'item': bookMeta.url },
+                ...(translatorMeta ? [{ '@type': 'ListItem', 'position': 3, 'name': translatorMeta.name, 'item': `${SITE_ORIGIN}/${bookSegment}/${authorSegment}/` }] : []),
+                { '@type': 'ListItem', 'position': translatorMeta ? 4 : 3, 'name': pageTitle },
+              ],
+            },
+          ] : [
+            {
+              '@type': 'WebPage',
+              '@id': pageUrl,
+              'url': pageUrl,
+              'name': pageTitle,
+              'inLanguage': translatorMeta?.inLanguage ?? ['vi'],
+              'datePublished': DEFAULT_PUBLISHED,
+              'dateModified': dateModified,
+              'isPartOf': { '@id': `${SITE_ORIGIN}/#website` },
+              'mainEntity': { '@id': `${pageUrl}#chapter` },
             },
             {
               '@type': ['Chapter', 'ScholarlyArticle'],
-              '@id': chapterId,
+              '@id': `${pageUrl}#chapter`,
               'name': pageTitle,
               'position': currentIndex + 1,
               'url': pageUrl,
               'inLanguage': translatorMeta?.inLanguage ?? ['vi'],
+              'image': coverUrl,
               'isPartOf': { '@id': bookId },
               ...(translatorMeta ? { 'translator': makeTranslatorEntity(translatorMeta) } : {}),
             },
@@ -725,7 +763,7 @@ export default defineConfig({
     //           "name": "Bhikkhu Sujato",
     //           "url": "https://suttacentral.net/sujato",
     //           "sameAs": [
-    //             "https://en.wikipedia.org/wiki/Bhikkhu_Sujato",
+    //             "https://en.wikipedia.org/wiki/Bhante_Sujato,
     //             "https://suttacentral.net/sujato"
     //           ]
     //         },
@@ -744,7 +782,8 @@ export default defineConfig({
     //   ]
     // })],
 
-    ['noscript', {}, '<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,400;0,600;0,700;1,400&display=swap">']
+    ['noscript', {}, '<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,400;0,600;0,700;1,400&display=swap">'],
+
   ],
 
   // Theme configuration
@@ -798,6 +837,7 @@ export default defineConfig({
 
     footer: {
       message: '<a href="/hoi-dap">Về chúng tôi</a> | <a href="/license">Giấy phép (CC0)</a>',
-    }
+    },
+
   }
 })

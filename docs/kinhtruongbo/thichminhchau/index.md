@@ -17,12 +17,13 @@ head:
                 "@type": "WebPage",
                 "@id": "https://kinhnikaya.org/kinhtruongbo/thichminhchau/"
             },
-            "name": "Kinh Trường Bộ — Bản dịch Thích Minh Châu",
-            "bookEdition": "Bản dịch Thích Minh Châu",
+            "name": "Kinh Trường Bộ — Bản dịch Tỷ kheo Thích Minh Châu",
+            "bookEdition": "Bản dịch Tỷ kheo Thích Minh Châu",
             "url": "https://kinhnikaya.org/kinhtruongbo/thichminhchau/",
             "inLanguage": "vi",
             "isAccessibleForFree": true,
             "publisher": { "@id": "https://kinhnikaya.org/#org" },
+            "image": "https://kinhnikaya.org/covers/kinhtruongbo.webp",
             "author": {
                 "@type": "Person",
                 "name": "Gotama Buddha",
@@ -68,7 +69,7 @@ head:
                 { "@id": "https://kinhnikaya.org/kinhtruongbo/thichminhchau/dn-031-kinh-giao-tho-thi-ca-la-viet#chapter" },
                 { "@id": "https://kinhnikaya.org/kinhtruongbo/thichminhchau/dn-032-kinh-a-sa-nang-chi#chapter" },
                 { "@id": "https://kinhnikaya.org/kinhtruongbo/thichminhchau/dn-033-kinh-phung-tung#chapter" },
-                { "@id": "https://kinhnikaya.org/kinhtruongbo/thichminhchau/dn-034-kinh-thap-thuong#chapter" }   
+                { "@id": "https://kinhnikaya.org/kinhtruongbo/thichminhchau/dn-034-kinh-thap-thuong#chapter" }
             ]
             },
             {
@@ -83,13 +84,16 @@ head:
         }
 ---
 
-<h2 style="text-align: center;">Kinh Trường Bộ - Thích Minh Châu</h2>
+<h2 style="text-align: center;">Kinh Trường Bộ - Tỷ kheo Thích Minh Châu</h2>
 <br>
 <a href="/kinhtruongbo/thichminhchau/intro/loi-gioi-thieu">
 <figure style="text-align: center;">
-    <img src="/kinh-truong-bo.jpg" style="max-width:400px;width:100%;display:block;margin:0 auto;" alt="The Middle Length Discourses of the Buddha">
-    <figcaption><i>Kinh Trường Bộ</i></figcaption>
+    <img src="/kinh-truong-bo.jpg" style="max-width:400px;width:100%;display:block;margin:0 auto;" alt="The Middle Length Discourses of the Buddha kinh trường bộ">
 </figure>
 </a>
+
+<hr/>
+<br/>
+<h2 style="text-align: center;">Mục Lục</h2>
 
 <!--@include: ./meta/mucluc.md-->

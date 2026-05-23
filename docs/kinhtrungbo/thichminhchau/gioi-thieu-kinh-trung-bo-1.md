@@ -2,7 +2,7 @@
 
 **GIỚI THIỆU Kinh Trung Bộ**
 
-***Hòa Thượng Thích Minh Châu***
+***Tỷ kheo Thích Minh Châu***
 
 ## 1. Lời Nói Ðầu
 **(Trong Bản In lần Thứ Nhất Năm 1973)**

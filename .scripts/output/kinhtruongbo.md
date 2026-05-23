@@ -1,6 +1,6 @@
 # KINH TRƯỜNG BỘ
 ### Dìgha Nikàya “The Long Discourses Of The Buddha”
-**_Hòa Thượng Thích Minh Châu Việt Dịch_**
+**_Tỷ kheo Thích Minh Châu Việt Dịch_**
 
 ### MỤC LỤC
 
@@ -60,7 +60,7 @@ Hà Nội, Giáo hội khởi đầu ấn hành bộ Trường A Hàm và bộ T
 Việt văn đầu tiên. Phật sự phiên dịch và ấn hành này là Phật sự quan trọng bậc nhất hiện nay của Giáo
 hội đáp ứng được lòng mong mỏi thiết tha của nhiều thế hệ Tăng, Ni và Phật tử Việt Nam.
 
-Bộ Kinh Trường Bộ do Hòa Thượng Thích Minh Châu, Tiến sĩ Phật học tại Viện Phật học Nalandà, Ấn
+Bộ Kinh Trường Bộ do Tỷ kheo Thích Minh Châu, Tiến sĩ Phật học tại Viện Phật học Nalandà, Ấn
 Ðộ, hiện là Phó Chủ tịch kiêm Tổng Thư ký Hội đồng Trị sự Trung ương Giáo hội Phật giáo Việt Nam,
 Viện trưởng Viện Nghiên cứu Phật học Việt Nam, Chủ tịch Hội đồng Chỉ đạo Phiên dịch và Ấn hành
 Ðại Tạng Kinh Việt Nam, dịch. Năm 1991, Hòa Thượng thân hành hiệu đính bản dịch trước khi đưa ra
@@ -92,7 +92,7 @@ trọng đại này sớm thành tựu viên mãn.
 
 **Hội Ðồng Chỉ Ðạo Phiên Dịch & Ấn Hành Ðại Tạng Kinh Việt Nam:**
 
-**Chủ tịch: Hòa Thượng Thích Minh Châu**
+**Chủ tịch: Tỷ kheo Thích Minh Châu**
 
 **Phó chủ tịch: Hòa Thượng Thích Thiện Siêu**
 **Phó chủ tịch: Hòa Thượng Kim Cương Tử**

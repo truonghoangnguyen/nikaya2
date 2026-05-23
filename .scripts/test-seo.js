@@ -8,13 +8,13 @@ import { globSync } from 'glob';
 // Đặt false để bỏ qua bước đó.
 // ==========================================
 const stepConfig = {
-  'step-1-title':       true,  // Thẻ <title>
+  'step-1-title': true,  // Thẻ <title>
   'step-2-description': true,  // Meta description
-  'step-3-canonical':   true,  // Canonical
-  'step-4-h1-empty':    true,  // H1 không rỗng
-  'step-5-og':          true,  // Open Graph (og:title, og:description, og:image, og:url)
-  'step-6-viewport':    true,  // <meta name="viewport"> (mobile-friendly)
-  'step-7-jsonld':      true,  // Structured data JSON-LD (Schema.org)
+  'step-3-canonical': true,  // Canonical
+  'step-4-h1-empty': true,  // H1 không rỗng
+  'step-5-og': true,  // Open Graph (og:title, og:description, og:image, og:url)
+  'step-6-viewport': true,  // <meta name="viewport"> (mobile-friendly)
+  'step-7-jsonld': true,  // Structured data JSON-LD (Schema.org)
 };
 
 // ==========================================
@@ -174,6 +174,9 @@ const excludeList = [
   '/notes/',
   '/meta/',
   '/sum/',
+  '/pali/',
+  '/kinhtrungbo/pali-vi/',
+  'notes'
 ];
 
 

@@ -81,7 +81,7 @@ Hy vọng phần giải thích chi tiết này giúp bạn hiểu rõ hơn về 
 
 # Giải thích 2
 
-Dưới đây là câu trả lời chi tiết và đơn giản hóa cho câu hỏi của bạn về Ngũ Uẩn (hay còn gọi là 5 Skandhas) trong Kinh Nikaya (cụ thể là trong các kinh như Tạp A-hàm hoặc Trường A-hàm của Phật giáo Nguyên thủy). Tôi sẽ dựa trên cách bạn mô tả để giải thích, và tập trung vào những phần bạn thấy khó hiểu: "Hành" và "Thức". Tôi không phải là một nhà sư hay chuyên gia Phật học, mà chỉ giải thích dựa trên kiến thức chung về giáo lý Phật giáo để giúp bạn dễ hình dung hơn. Nếu bạn cần tham khảo nguồn gốc chính xác, có thể đọc các bản dịch Kinh Nikaya như của Hòa thượng Thích Minh Châu.
+Dưới đây là câu trả lời chi tiết và đơn giản hóa cho câu hỏi của bạn về Ngũ Uẩn (hay còn gọi là 5 Skandhas) trong Kinh Nikaya (cụ thể là trong các kinh như Tạp A-hàm hoặc Trường A-hàm của Phật giáo Nguyên thủy). Tôi sẽ dựa trên cách bạn mô tả để giải thích, và tập trung vào những phần bạn thấy khó hiểu: "Hành" và "Thức". Tôi không phải là một nhà sư hay chuyên gia Phật học, mà chỉ giải thích dựa trên kiến thức chung về giáo lý Phật giáo để giúp bạn dễ hình dung hơn. Nếu bạn cần tham khảo nguồn gốc chính xác, có thể đọc các bản dịch Kinh Nikaya như của Tỷ kheo Thích Minh Châu.
 
 Trước tiên, tôi xác nhận cách bạn hiểu về ba uẩn đầu tiên là khá hợp lý, dù có một chút khác biệt nhỏ so với định nghĩa truyền thống (tôi sẽ điều chỉnh nhẹ để rõ ràng hơn):
 

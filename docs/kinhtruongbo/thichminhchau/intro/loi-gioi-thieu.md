@@ -1,12 +1,12 @@
 ---
-next:
-    text: Lời giới thiệu của HT Thích Minh Châu
-    link: /kinhtruongbo/thichminhchau/intro/loi-gioi-thieu-tmc
+prev:
+    text: 'Kinh Trường Bộ'
+    link: '/kinhtruongbo/thichminhchau'
 ---
 # Lời giới thiệu
 
 ### Dìgha Nikàya “The Long Discourses Of The Buddha”
-**_Hòa Thượng Thích Minh Châu Việt Dịch_**
+*_Tỷ kheo Thích Minh Châu Việt Dịch_*
 
 #### LỜI GIỚI THIỆU
 
@@ -19,7 +19,7 @@ Hà Nội, Giáo hội khởi đầu ấn hành bộ Trường A Hàm và bộ T
 Việt văn đầu tiên. Phật sự phiên dịch và ấn hành này là Phật sự quan trọng bậc nhất hiện nay của Giáo
 hội đáp ứng được lòng mong mỏi thiết tha của nhiều thế hệ Tăng, Ni và Phật tử Việt Nam.
 
-Bộ Kinh Trường Bộ do Hòa Thượng Thích Minh Châu, Tiến sĩ Phật học tại Viện Phật học Nalandà, Ấn
+Bộ Kinh Trường Bộ do Tỷ kheo Thích Minh Châu, Tiến sĩ Phật học tại Viện Phật học Nalandà, Ấn
 Ðộ, hiện là Phó Chủ tịch kiêm Tổng Thư ký Hội đồng Trị sự Trung ương Giáo hội Phật giáo Việt Nam,
 Viện trưởng Viện Nghiên cứu Phật học Việt Nam, Chủ tịch Hội đồng Chỉ đạo Phiên dịch và Ấn hành
 Ðại Tạng Kinh Việt Nam, dịch. Năm 1991, Hòa Thượng thân hành hiệu đính bản dịch trước khi đưa ra
@@ -29,44 +29,37 @@ Thay mặt Hội đồng Chứng minh Giáo hội Phật giáo Việt Nam, Hội
 Tạng Kinh Việt Nam, chúng tôi cầu nguyện cho Phật sự phiên dịch và ấn hành Ðại Tạng Kinh Việt Nam
 trọng đại này sớm thành tựu viên mãn.
 
-**_Thay mặt Hội đồng Chứng minh GHPGVN_**
-**_Thay mặt Hội đồng Phiên dịch và Ấn hành Ðại tạng kinh Việt Nam_**
+*_Thay mặt Hội đồng Chứng minh GHPGVN_*
 
-**_Pháp Chủ GHPGVN, 1991_**
-**_Hòa Thượng Thích Ðức Nhuận_**
+*_Thay mặt Hội đồng Phiên dịch và Ấn hành Ðại tạng kinh Việt Nam_*
 
-**Hội Ðồng Chứng Minh:**
+*_Pháp Chủ GHPGVN, 1991_*
 
-**01. Hòa Thượng Thích Ðức Nhuận**\
-**02. Hòa Thượng Thích Ðôn Hậu**\
-**03. Hòa Thượng Thích Trí Tịnh**\
-**04. Hòa Thượng Thích Mật Hiền**\
-**05. Hòa Thượng Thích Huệ Thành**\
-**06. Hòa Thượng Thích Giác Nhu**\
-**07. Hòa Thượng Kim Cương Tử**\
-**08. Hòa Thượng Thích Tâm Thông**\
-**09. Hòa Thượng Thích Siêu Việt**\
-**10. Hòa Thượng Mahà Saray**\
-**11. Hòa Thượng Thích Trí Nghiêm.**
+*_Hòa Thượng Thích Ðức Nhuận_*
 
-**Hội Ðồng Chỉ Ðạo Phiên Dịch & Ấn Hành Ðại Tạng Kinh Việt Nam:**
+*Hội Ðồng Chứng Minh:*
 
-**Chủ tịch: Hòa Thượng Thích Minh Châu**
+*01. Hòa Thượng Thích Ðức Nhuận*\
+*02. Hòa Thượng Thích Ðôn Hậu*\
+*03. Hòa Thượng Thích Trí Tịnh*\
+*04. Hòa Thượng Thích Mật Hiền*\
+*05. Hòa Thượng Thích Huệ Thành*\
+*06. Hòa Thượng Thích Giác Nhu*\
+*07. Hòa Thượng Kim Cương Tử*\
+*08. Hòa Thượng Thích Tâm Thông*\
+*09. Hòa Thượng Thích Siêu Việt*\
+*10. Hòa Thượng Mahà Saray*\
+*11. Hòa Thượng Thích Trí Nghiêm.*
 
-**Phó chủ tịch: Hòa Thượng Thích Thiện Siêu**
+*Hội Ðồng Chỉ Ðạo Phiên Dịch & Ấn Hành Ðại Tạng Kinh Việt Nam:*
 
-**Phó chủ tịch: Hòa Thượng Kim Cương Tử**
-
-**Phó chủ tịch: Hòa Thượng Thích Thanh Kiểm**
-
-**Phó chủ tịch: Thượng Tọa Thích Thanh Từ**
-
-**Phó chủ tịch: Thượng Tọa Thích Thiện Châu**
-
-**Trưởng ban Thư ký: Thượng Tọa Thích Chơn Thiện**
-
-**Trưởng ban Tài chánh: Thượng Tọa Thích Giác Toàn**
-
-**Trưởng ban In ấn và Phát hành: Cư sĩ Võ Ðình Cường**
-
-**Trưởng ban Từ vựng Phật học: Cư sĩ Minh Chi**
+*Chủ tịch: Tỷ kheo Thích Minh Châu*\
+*Phó chủ tịch: Hòa Thượng Thích Thiện Siêu*\
+*Phó chủ tịch: Hòa Thượng Kim Cương Tử*\
+*Phó chủ tịch: Hòa Thượng Thích Thanh Kiểm*\
+*Phó chủ tịch: Thượng Tọa Thích Thanh Từ*\
+*Phó chủ tịch: Thượng Tọa Thích Thiện Châu*\
+*Trưởng ban Thư ký: Thượng Tọa Thích Chơn Thiện*\
+*Trưởng ban Tài chánh: Thượng Tọa Thích Giác Toàn*\
+*Trưởng ban In ấn và Phát hành: Cư sĩ Võ Ðình Cường*\
+*Trưởng ban Từ vựng Phật học: Cư sĩ Minh Chi*

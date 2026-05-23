@@ -1,4 +1,7 @@
 ---
+next:
+   text: "DN 1. KINH LƯỚI TRỜI"
+   link: "/kinhtruongbo/pali-vi/dn-001-kinh-luoi-troi"
 head:
   - - script
     - type: application/ld+json
@@ -20,6 +23,7 @@ head:
             "inLanguage": "vi",
             "isAccessibleForFree": true,
             "publisher": { "@id": "https://kinhnikaya.org/#org" },
+            "image": "https://kinhnikaya.org/covers/kinhtruongbo.webp",
             "author": {
                 "@type": "Person",
                 "name": "Gotama Buddha",
@@ -65,7 +69,7 @@ head:
                 { "@id": "https://kinhnikaya.org/kinhtruongbo/pali-vi/dn-031-kinh-singala#chapter" },
                 { "@id": "https://kinhnikaya.org/kinhtruongbo/pali-vi/dn-032-kinh-atanatiya#chapter" },
                 { "@id": "https://kinhnikaya.org/kinhtruongbo/pali-vi/dn-033-kinh-tung-oc-cung-nhau#chapter" },
-                { "@id": "https://kinhnikaya.org/kinhtruongbo/pali-vi/dn-034-kinh-den-muoi#chapter" },
+                { "@id": "https://kinhnikaya.org/kinhtruongbo/pali-vi/dn-034-kinh-den-muoi#chapter" }
             ]
             },
             {
@@ -73,10 +77,24 @@ head:
             "itemListElement": [
                 { "@type": "ListItem", "position": 1, "name": "Trang chủ", "item": "https://kinhnikaya.org/" },
                 { "@type": "ListItem", "position": 2, "name": "Kinh Trường Bộ", "item": "https://kinhnikaya.org/kinhtruongbo/" },
-                { "@type": "ListItem", "position": 3, "name": "Bản dịch Trương Hoàng Nguyên", "item": "https://kinhnikaya.org/kinhtruongbo/pali-vi/"  }
+                { "@type": "ListItem", "position": 3, "name": "Dịch Việt từ tiếng Pali", "item": "https://kinhnikaya.org/kinhtruongbo/pali-vi/"  }
             ]
             }
         ]
         }
 ---
+
+<h1 style="text-align: center;">Kinh Trường Bộ - Dịch Việt từ tiếng Pali</h1>
+<br>
+<a href="/kinhtruongbo/pali-vi">
+<figure style="text-align: center;">
+    <img src="/covers/kinhtruongbo.webp" style="max-width:400px;width:100%;display:block;margin:0 auto;" alt="Kinh Trường Bộ - Dịch Việt từ tiếng Pali">
+</figure>
+</a>
+
+<br>
+<hr>
+<br>
+<h2 style="text-align: center;">Mục Lục</h2>
+
 <!--@include: ./meta/mucluc.md-->

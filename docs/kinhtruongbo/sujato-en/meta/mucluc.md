@@ -1,3 +1,13 @@
+
+- [The SuttaCentral Editions Series](/kinhtruongbo/sujato-en/intro/01-the-suttacentral-editions-series.md)
+- [Preface to *Long Discourses*](/kinhtruongbo/sujato-en/intro/02-preface-to-long-discourses.md)
+- [A Reader's Guide to the Pali Suttas](/kinhtruongbo/sujato-en/intro/03-a-reader-s-guide-to-the-pali-suttas.md)
+- [The Long Discourses: Dhamma as literature and compilation](/kinhtruongbo/sujato-en/intro/04-the-long-discourses-dhamma-as-literature-and-compilation.md)
+- [Acknowledgements](/kinhtruongbo/sujato-en/intro/05-acknowledgements.md)
+- [Summary of Contents](/kinhtruongbo/sujato-en/intro/06-summary-of-contents.md)
+- [Colophon](/kinhtruongbo/sujato-en/intro/07-colophon.md)
+
+## Sutta
 - [DN 1. The Divine Net *Brahmajālasutta*](/kinhtruongbo/sujato-en/dn-001-the-divine-net-brahmajalasutta.md)
 - [DN 2. The Fruits of the Ascetic Life *Sāmaññaphalasutta*](/kinhtruongbo/sujato-en/dn-002-the-fruits-of-the-ascetic-life-samannaphalasutta.md)
 - [DN 3. With Ambaṭṭha](/kinhtruongbo/sujato-en/dn-003-with-ambattha-ambatthasutta.md)

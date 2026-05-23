@@ -1,6 +1,6 @@
 # KINH TĂNG CHI BỘ
 ## Anguttara Nikaya
-**_Hòa Thượng Thích Minh Châu Dịch Việt_**
+**_Tỷ kheo Thích Minh Châu Dịch Việt_**
 
 **MỤC LỤC TĂNG CHI BỘ KINH**
 
@@ -216,7 +216,7 @@
 Nikàya (Kinh Trường Bộ), Majjhima Nikàya (Kinh Trung Bộ), Samyutta Nikàya (Kinh Tương Ưng
 Bộ), Anguttara Nikàya (Kinh Tăng Chi Bộ), và Khuddaka Nikàya (Kinh Tiểu Bộ).
 
-Bộ kinh nầy được Hòa thượng Thích Minh Châu dịch từ tạng Pali sang Việt ngữ năm 1976-1977, và
+Bộ kinh nầy được Tỷ kheo Thích Minh Châu dịch từ tạng Pali sang Việt ngữ năm 1976-1977, và
 được Viện Phật Học Vạn Hạnh, Sài Gòn, ấn hành năm 1980-1981. Trong chương trình phiên dịch và ấn
 hành Ðại tạng kinh Việt Nam, bộ kinh được hiệu đính thành 4 tập và tái bản năm 1996, qua số thứ tự 21,
 22, 23, và 24.

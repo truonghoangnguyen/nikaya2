@@ -1,4 +1,7 @@
 const kinhtruongbo_thichminhchau = [
+  { text: "LỜI GIỚI THIỆU", link: "/kinhtruongbo/thichminhchau/intro/loi-gioi-thieu.md" },
+  { text: "LỜI GIỚI THIỆU Tỷ kheo Thích Minh Châu (1972)", link: "/kinhtruongbo/thichminhchau/intro/loi-gioi-thieu-tmc.md" },
+
   { text: "1. KINH PHẠM VÕNG", link: "/kinhtruongbo/thichminhchau/dn-001-kinh-pham-vong.md" },
   { text: "2. KINH SA MÔN QỦA", link: "/kinhtruongbo/thichminhchau/dn-002-kinh-sa-mon-qua.md" },
   { text: "3. KINH AMBATTHA (A-MA-TRÚ)", link: "/kinhtruongbo/thichminhchau/dn-003-kinh-ambattha-a-ma-tru.md" },

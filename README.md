@@ -39,7 +39,7 @@ Mỗi bộ kinh được cung cấp dưới nhiều bản dịch để đối ch
 - **`pali-vi/`** — Bản Pāli dịch sang tiếng Việt.
 
 ### Tiếng Việt
-- **`thichminhchau/`** — **Hòa thượng Thích Minh Châu** (1918–2012): Bản dịch Việt ngữ kinh điển nhất, được dịch trực tiếp từ Pāli trong nhiều thập niên. Nguồn tham chiếu chuẩn của Phật giáo Việt Nam hiện nay.
+- **`thichminhchau/`** — **Tỷ kheo Thích Minh Châu** (1918–2012): Bản dịch Việt ngữ kinh điển nhất, được dịch trực tiếp từ Pāli trong nhiều thập niên. Nguồn tham chiếu chuẩn của Phật giáo Việt Nam hiện nay.
 - **`sujato-vi/`** — Bản dịch Việt từ bản tiếng Anh của Bhikkhu Sujato.
 - **`nanamoli-bodhi-vi/`** *(Trung Bộ)* — Bản dịch Việt từ bản tiếng Anh "The Middle Length Discourses" của Ñāṇamoli & Bodhi.
 

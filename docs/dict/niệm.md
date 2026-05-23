@@ -51,7 +51,7 @@ Từ góc nhìn khoa học: Các học giả như Bhikkhu Analayo (trong sách *
 - **Lý do**: Thêm "right" sẽ là diễn giải (interpretation) thay vì dịch trực tiếp (translation). Các dịch giả chuyên nghiệp ưu tiên tính chính xác ngôn ngữ, và để người đọc tự hiểu ngữ cảnh từ toàn bộ kinh.
 
 ### 4. **Tại sao tiếng Việt thường dùng "chánh niệm" ở đây?**
-- Trong các bản dịch tiếng Việt (như của Hòa thượng Thích Minh Châu hoặc các sách Phật học phổ biến), "satimā" thường được dịch là "chánh niệm" để nhấn mạnh rằng đây không phải "niệm" thông thường (có thể lệch lạc), mà là niệm "chánh" (right) trong con đường tu tập.
+- Trong các bản dịch tiếng Việt (như của Tỷ kheo Thích Minh Châu hoặc các sách Phật học phổ biến), "satimā" thường được dịch là "chánh niệm" để nhấn mạnh rằng đây không phải "niệm" thông thường (có thể lệch lạc), mà là niệm "chánh" (right) trong con đường tu tập.
   - Ví dụ: Bản dịch của Thích Minh Châu: "...nhiệt tâm, tỉnh giác, chánh niệm...".
 - **Lý do dịch như vậy**:
   - "Chánh niệm" giúp truyền tải ý nghĩa sâu sắc hơn, phù hợp với tinh thần Phật giáo sơ kỳ, nơi niệm xứ là phương tiện trực tiếp cho sammā-sati.

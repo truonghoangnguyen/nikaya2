@@ -2,7 +2,7 @@
 
 _(Brahmajàla Sutta)_
 
-### Tụng Phẩm I
+## Tụng Phẩm I
 
 1\. Như vầy tôi nghe. Một thời, Thế Tôn đang đi trên con đường giữa Ràjagaha (Vương Xá) và Nalandà,
 cùng với đại chúng Tỷ-kheo khoảng năm trăm vị. Lúc bấy giờ có Suppiya du sĩ ngoại đạo cũng đi trên

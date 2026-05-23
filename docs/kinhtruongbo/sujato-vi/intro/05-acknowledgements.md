@@ -1,4 +1,4 @@
-**Lời Tri Ân**
+# Lời Tri Ân
 
 Tôi xin tri ân tất cả những ai đã dạy tôi về *Pháp*, đặc biệt là Ajahn Brahm và Bhikkhu Bodhi, hai vị *tu sĩ* (monk / người xuất gia) đã chỉ cho tôi thấy chiều sâu, ý nghĩa và giá trị thực tiễn của *Kinh tạng* (Suttas / các bài kinh) hơn bất kỳ ai khác.
 
