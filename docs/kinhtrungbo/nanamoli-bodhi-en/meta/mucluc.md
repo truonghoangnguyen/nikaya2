@@ -1,4 +1,4 @@
-## Preface
+### Preface
 - [Preface](/kinhtrungbo/nanamoli-bodhi-en/intro/01.preface.md)
 - [Introduction](/kinhtrungbo/nanamoli-bodhi-en/intro/02.introduction.md)
 - [THE BUDDHA IN THE MAJJHIMA NIKĀYA](/kinhtrungbo/nanamoli-bodhi-en/intro/03.the-buddha-in-the-majjhima-nikaya.md)
@@ -25,7 +25,7 @@
 - [PART TWO: THE MIDDLE FIFTY DISCOURSES](/kinhtrungbo/nanamoli-bodhi-en/intro/22.part-two-the-middle-fifty-discourses.md)
 - [PART THREE: THE FINAL FIFTY DISCOURSES](/kinhtrungbo/nanamoli-bodhi-en/intro/23.part-three-the-final-fifty-discourses.md)
 
-## Suttra
+### Suttra
 - [1. The Root of All Things](/kinhtrungbo/nanamoli-bodhi-en/mn-001-the-root-of-all-things.md)
 - [2. All the Taints](/kinhtrungbo/nanamoli-bodhi-en/mn-002-all-the-taints.md)
 - [3. Heirs in Dhamma](/kinhtrungbo/nanamoli-bodhi-en/mn-003-heirs-in-dhamma.md)

@@ -1,10 +1,10 @@
-# Kinh Trung Bộ:
 
-## Giới thiệu
-- [1. Lời Nói Ðầu](/kinhtrungbo/thichminhchau/gioi-thieu-kinh-trung-bo-1.md)
-- [2. Lời Giới Thiệu](/kinhtrungbo/thichminhchau/gioi-thieu-kinh-trung-bo-2.md)
 
-## Kinh
+### Giới thiệu
+- [1. Lời Nói Ðầu](/kinhtrungbo/thichminhchau/intro/gioi-thieu-kinh-trung-bo-1.md)
+- [2. Lời Giới Thiệu](/kinhtrungbo/thichminhchau/intro/gioi-thieu-kinh-trung-bo-2.md)
+
+### Kinh
 - [1. KINH PHÁP MÔN CĂN BẢN](/kinhtrungbo/thichminhchau/mn-001-kinh-phap-mon-can-ban.md)
 - [2. KINH TẤT CẢ CÁC LẬU HOẶC](/kinhtrungbo/thichminhchau/mn-002-kinh-tat-ca-cac-lau-hoac.md)
 - [3. KINH THỪA TỰ PHÁP](/kinhtrungbo/thichminhchau/mn-003-kinh-thua-tu-phap.md)

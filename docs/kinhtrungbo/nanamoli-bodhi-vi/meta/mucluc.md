@@ -1,4 +1,4 @@
-## Mở đầu
+### Mở đầu
 - [Lời Tựa](/kinhtrungbo/nanamoli-bodhi-vi/intro/01.preface.md)
 - [Dẫn nhập](/kinhtrungbo/nanamoli-bodhi-vi/intro/02.introduction.md)
 - [ĐỨC PHẬT TRONG Kinh Trung Bộ](/kinhtrungbo/nanamoli-bodhi-vi/intro/03.the-buddha-in-the-majjhima-nikaya.md)
@@ -23,7 +23,7 @@
 - [PHẦN HAI: TRUNG PHẦN KINH](/kinhtrungbo/nanamoli-bodhi-vi/intro/22.part-two-the-middle-fifty-discourses.md)
 - [PHẦN BA: 50 BÀI KINH CUỐI CÙNG](/kinhtrungbo/nanamoli-bodhi-vi/intro/23.part-three-the-final-fifty-discourses.md)
 
-## Kinh
+### Kinh
 - [MN 1. Gốc Rễ Của Mọi Sự Vật](/kinhtrungbo/nanamoli-bodhi-vi/mn-001-the-root-of-all-things.md)
 - [MN 2. Tất Cả Các Lậu Hoặc](/kinhtrungbo/nanamoli-bodhi-vi/mn-002-all-the-taints.md)
 - [MN 3. Người Thừa Tự Pháp](/kinhtrungbo/nanamoli-bodhi-vi/mn-003-heirs-in-dhamma.md)

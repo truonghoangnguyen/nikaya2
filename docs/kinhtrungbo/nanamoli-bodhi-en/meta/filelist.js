@@ -1,4 +1,5 @@
 const nanamoli_bodhi_en = [
+  { text: "Home", link: "/kinhtrungbo/nanamoli-bodhi-en/index.md" },
   { text: "Preface", link: "/kinhtrungbo/nanamoli-bodhi-en/intro/01.preface.md" },
   { text: "Introduction", link: "/kinhtrungbo/nanamoli-bodhi-en/intro/02.introduction.md" },
   { text: "THE BUDDHA IN THE MAJJHIMA NIKĀYA", link: "/kinhtrungbo/nanamoli-bodhi-en/intro/03.the-buddha-in-the-majjhima-nikaya.md" },

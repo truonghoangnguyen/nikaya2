@@ -95,6 +95,7 @@ const BOOK_NAV = {
   'kinhtruongbo/pali-vi': kinhtruongbo_pali_vi,
 
   'kinhtrungbo/thichminhchau': mn_thichminhchau,
+  'kinhtrungbo/thichminhchau/intro': mn_thichminhchau,
   'kinhtrungbo/nanamoli-bodhi-en': nanamoli_bodhi_en,
   'kinhtrungbo/nanamoli-bodhi-en/intro': nanamoli_bodhi_en,
   'kinhtrungbo/nanamoli-bodhi-vi': nanamoli_bodhi_vi,
@@ -146,10 +147,10 @@ const TRANSLATOR_META: Record<string, TranslatorMeta> = {
     ],
   },
   'sujato-vi': {
-    name: 'Trương Hoàng Nguyên',
+    name: 'Bhikkhu Sujato',
     inLanguage: ['vi'],
     sameAs: [
-      'https://github.com/truonghoangnguyen/nikaya2',
+      'https://en.wikipedia.org/wiki/Bhante_Sujato'
     ],
   },
   'sujato-en': {
@@ -157,8 +158,7 @@ const TRANSLATOR_META: Record<string, TranslatorMeta> = {
     inLanguage: ['en'],
     url: 'https://suttacentral.net',
     sameAs: [
-      'https://suttacentral.net',
-      'https://suttacentral.net',
+      'https://en.wikipedia.org/wiki/Bhante_Sujato'
     ],
   },
   'nanamoli-bodhi-en': {
@@ -170,10 +170,11 @@ const TRANSLATOR_META: Record<string, TranslatorMeta> = {
     ],
   },
   'nanamoli-bodhi-vi': {
-    name: 'Trương Hoàng Nguyên',
+    name: 'Bhikkhu Ñāṇamoli & Bhikkhu Bodhi',
     inLanguage: ['vi'],
     sameAs: [
-      'https://github.com/truonghoangnguyen/nikaya2',
+      'https://en.wikipedia.org/wiki/Bhikkhu_Bodhi',
+      'https://en.wikipedia.org/wiki/Bhikkhu_Nanamoli',
     ],
   },
   'pali-vi': {
@@ -713,107 +714,12 @@ export default defineConfig({
       onload: "this.onload=null;this.rel='stylesheet'"
     }],
 
-    // ['script', { type: 'application/ld+json' }, JSON.stringify({
-    //   "@context": "https://schema.org",
-    //   "@graph": [
-    //     {
-    //       "@type": "WebSite",
-    //       "@id": "https://kinhnikaya.org/#website",
-    //       "name": "Kinh Nikaya",
-    //       "url": "https://kinhnikaya.org",
-    //       "description": "Thư viện Kinh điển Phật giáo Nguyên thủy với bản dịch song ngữ Pali - Việt. Bao gồm Kinh Trường Bộ, Kinh Trung Bộ, Kinh Tăng Chi Bộ và Kinh Tương Ứng.",
-    //       "inLanguage": ["vi", "en", "pi"],
-    //       "potentialAction": {
-    //         "@type": "SearchAction",
-    //         "target": {
-    //           "@type": "EntryPoint",
-    //           "urlTemplate": "https://kinhnikaya.org/search?q={search_term_string}"
-    //         },
-    //         "query-input": "required name=search_term_string"
-    //       }
-    //     },
-    //     {
-    //       "@type": "Organization",
-    //       "@id": "https://kinhnikaya.org/#organization",
-    //       "name": "Kinh Nikaya",
-    //       "url": "https://kinhnikaya.org",
-    //       "sameAs": ["https://github.com/truonghoangnguyen/nikaya2"],
-    //       "knowsAbout": [
-    //         "Phật giáo Nguyên thủy",
-    //         "Kinh điển Nikaya",
-    //         "Tiếng Pali",
-    //         "Theravada Buddhism",
-    //         "Pali Canon",
-    //         "Dīgha Nikāya",
-    //         "Majjhima Nikāya",
-    //         "Saṃyutta Nikāya",
-    //         "Aṅguttara Nikāya"
-    //       ],
-    //       "contributor": [
-    //         {
-    //           "@type": "Person",
-    //           "name": "Thích Minh Châu",
-    //           "sameAs": [
-    //             "https://vi.wikipedia.org/wiki/Th%C3%ADch_Minh_Ch%C3%A2u",
-    //             "https://en.wikipedia.org/wiki/Thich_Minh_Chau"
-    //           ]
-    //         },
-    //         {
-    //           "@type": "Person",
-    //           "name": "Bhikkhu Sujato",
-    //           "url": "https://suttacentral.net/sujato",
-    //           "sameAs": [
-    //             "https://en.wikipedia.org/wiki/Bhante_Sujato,
-    //             "https://suttacentral.net/sujato"
-    //           ]
-    //         },
-    //         {
-    //           "@type": "Person",
-    //           "name": "Bhikkhu Bodhi",
-    //           "sameAs": ["https://en.wikipedia.org/wiki/Bhikkhu_Bodhi"]
-    //         },
-    //         {
-    //           "@type": "Person",
-    //           "name": "Bhikkhu Ñāṇamoli",
-    //           "sameAs": ["https://en.wikipedia.org/wiki/Bhikkhu_Nanamoli"]
-    //         }
-    //       ]
-    //     }
-    //   ]
-    // })],
-
     ['noscript', {}, '<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,400;0,600;0,700;1,400&display=swap">'],
 
   ],
 
   // Theme configuration
   themeConfig: {
-
-    // search: {
-    //   provider: 'local',
-    //   options: {
-    //     miniSearch: {
-    //       searchOptions: {
-    //         fields: ["title"],
-    //         fuzzy: 0.2,
-    //         prefix: true,
-    //         boost: { title: 4, text: 0, titles: 0 }
-    //       }
-    //     }
-
-    //     //   _render(src, env, md) {
-    //     //     const html = md.render(src, env)
-    //     //     if (env.frontmatter?.search === false) return ''
-
-    //     //     // Remove H2-H6 headers to exclude them from the search index
-    //     //     const content = src.replace(/^#{2,}\s.*/gm, '')
-    //     //     return md.render(content, env)
-    //     //   }
-
-    //   },
-
-    // },
-    // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
       {

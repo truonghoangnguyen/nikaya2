@@ -1,7 +1,8 @@
 const mn_thichminhchau = [
-  { text: "Kinh Trung Bộ Ht. Thích Minh Châu", link: "/kinhtrungbo/thichminhchau/index.md" },
-  { text: "1. Lời Nói Ðầu", link: "/kinhtrungbo/thichminhchau/gioi-thieu-kinh-trung-bo-1.md" },
-  { text: "2. Lời Giới Thiệu", link: "/kinhtrungbo/thichminhchau/gioi-thieu-kinh-trung-bo-2.md" },
+  { text: "Kinh Trung Bộ Tỷ kheo Thích Minh Châu", link: "/kinhtrungbo/thichminhchau/index.md" },
+  { text: "1. Lời Nói Ðầu", link: "/kinhtrungbo/thichminhchau/intro/gioi-thieu-kinh-trung-bo-1.md" },
+  { text: "2. Lời Giới Thiệu", link: "/kinhtrungbo/thichminhchau/intro/gioi-thieu-kinh-trung-bo-2.md" },
+
   { text: "1. KINH PHÁP MÔN CĂN BẢN", link: "/kinhtrungbo/thichminhchau/mn-001-kinh-phap-mon-can-ban.md" },
   { text: "2. KINH TẤT CẢ CÁC LẬU HOẶC", link: "/kinhtrungbo/thichminhchau/mn-002-kinh-tat-ca-cac-lau-hoac.md" },
   { text: "3. KINH THỪA TỰ PHÁP", link: "/kinhtrungbo/thichminhchau/mn-003-kinh-thua-tu-phap.md" },

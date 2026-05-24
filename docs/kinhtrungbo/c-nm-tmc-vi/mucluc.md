@@ -1,8 +1,3 @@
----
-title: Kinh Trung Bộ
----
-# Mục lục
-
 - [MN 1. KINH PHÁP MÔN CĂN BẢN](/kinhtrungbo/c-nm-tmc-vi/mnc-001-kinh-phap-mon-can-ban)
 - [MN 2. KINH TẤT CẢ CÁC LẬU HOẶC](/kinhtrungbo/c-nm-tmc-vi/mnc-002-kinh-tat-ca-cac-lau-hoac)
 - [MN 3. KINH THỪA TỰ PHÁP](/kinhtrungbo/c-nm-tmc-vi/mnc-003-kinh-thua-tu-phap)

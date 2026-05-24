@@ -6,6 +6,115 @@
 > "datePublished": "2026-05-16" làm ngày default, không sửa
 ---
 
+
+Đây là kinh trường bộ, trong kinh trường bộ có 2 bản "thichminhchau" và "sujato"
+
+// json-ld thichminhchau
+{
+  "@context": "https://schema.org",
+  "@graph": [
+      {
+      "@type": "Book",
+      "@id": "https://kinhnikaya.org/kinhtruongbo/thichminhchau/#book",
+      "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://kinhnikaya.org/kinhtruongbo/thichminhchau/"
+      },
+      "name": "Kinh Trường Bộ — Bản dịch Tỷ kheo Thích Minh Châu",
+      "bookEdition": "Bản dịch Tỷ kheo Thích Minh Châu",
+      "url": "https://kinhnikaya.org/kinhtruongbo/thichminhchau/",
+      "inLanguage": "vi",
+      "isAccessibleForFree": true,
+      "publisher": { "@id": "https://kinhnikaya.org/#org" },
+      "image": "https://kinhnikaya.org/covers/kinhtruongbo.webp",
+      "author": {
+          "@type": "Person",
+          "name": "Gotama Buddha",
+          "sameAs": "https://en.wikipedia.org/wiki/Gautama_Buddha"
+      },
+      "translator": {
+          "@type": "Person",
+          "name": "Thích Minh Châu",
+          "sameAs": "https://vi.wikipedia.org/wiki/Thích_Minh_Châu"
+      },
+      "translationOfWork": { "@id": "https://kinhnikaya.org/kinhtruongbo/#book" },
+      "hasPart": [
+          // tôi sẽ tự điền vào
+      ]
+      },
+      {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+          { "@type": "ListItem", "position": 1, "name": "Trang chủ", "item": "https://kinhnikaya.org/" },
+          { "@type": "ListItem", "position": 2, "name": "Kinh Trường Bộ", "item": "https://kinhnikaya.org/kinhtruongbo/" },
+          { "@type": "ListItem", "position": 3, "name": "Bản dịch Thích Minh Châu", "item": "https://kinhnikaya.org/kinhtruongbo/thichminhchau/"  }
+      ]
+      }
+  ]
+  }
+// json-ld sujato
+{
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+        "@type": "Book",
+        "@id": "https://kinhnikaya.org/kinhtruongbo/sujato-vi/#book",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://kinhnikaya.org/kinhtruongbo/sujato-vi/"
+        },
+        "name": "Kinh Trường Bộ — Bhikkhu Sujato (Tiếng Việt)",
+        "bookEdition": "Kinh Trường Bộ Bhikkhu Sujato (Tiếng Việt)",
+        "url": "https://kinhnikaya.org/kinhtruongbo/sujato-vi/",
+        "inLanguage": "vi",
+        "isAccessibleForFree": true,
+        "publisher": { "@id": "https://kinhnikaya.org/#org" },
+        "image": "https://kinhnikaya.org/covers/kinhtruongbo-sujato.webp",
+        "author": {
+            "@type": "Person",
+            "name": "Gotama Buddha",
+            "sameAs": "https://en.wikipedia.org/wiki/Gautama_Buddha"
+        },
+        "translator": {
+            "@type": "Person",
+            "name": "Bhikkhu Sujato",
+            "sameAs": "https://en.wikipedia.org/wiki/Bhante_Sujato
+        }
+        "translationOfWork": { "@id": "https://kinhnikaya.org/kinhtruongbo/#book" },
+        "hasPart": [
+            // tôi sẽ tự điên vào
+        ]
+        },
+        {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            { "@type": "ListItem", "position": 1, "name": "Trang chủ", "item": "https://kinhnikaya.org/" },
+            { "@type": "ListItem", "position": 2, "name": "Kinh Trường Bộ", "item": "https://kinhnikaya.org/kinhtruongbo/" },
+            { "@type": "ListItem", "position": 3, "name": "Kinh Trường Bộ — Bhikkhu Sujato (Tiếng Việt)", "item": "https://kinhnikaya.org/kinhtruongbo/sujato-vi/"  }
+        ]
+        }
+    ]
+    }
+
+Đọc sự khác biệt json-ld và viết thành python script lưu vào `.script/jsonld_layer3.ipynb`
+
+config-ví dụ {
+  'kinhtruongbo': {
+    'sujato': {"name": "Kinh Trường Bộ — Bhikkhu Sujato (Tiếng Việt)}
+    'thichminhchau': {"name": "Kinh Trường Bộ — Hòa thượng thích minh châu}
+    ...
+  'kinhtuongung': {
+    'nanamoli': {"name": "Kinh trung Bộ — Bhikkhu nanamoli (Tiếng Việt)}
+    'thichminhchau': {"name": "Kinh trung Bộ — Hòa thượng thích minh châu}
+
+     những thông tin này bạn tự điền, tôi sẽ chỉnh lại nếu cần
+
+```
+để khi tôi nhập:
+kinh='kinhtruongbo'
+author='thichminhchau' sẽ in ra json-ld của thichminhchau,
+author='sujato' sẽ in ra json-ld của sujato
+
 ## Trang chủ — `/` xong, không làm gì
 ```json
 {

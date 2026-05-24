@@ -33,8 +33,8 @@ head:
             "translator": {
                "@type": "Person",
                "name": "Bhikkhu Sujato",
-               "sameAs": "https://en.wikipedia.org/wiki/Bhante_Sujato
-            }
+               "sameAs": "https://en.wikipedia.org/wiki/Bhante_Sujato"
+            },
             "translationOfWork": { "@id": "https://kinhnikaya.org/kinhtruongbo/#book" },
             "hasPart": [
                { "@id": "https://kinhnikaya.org/kinhtruongbo/sujato-en/dn-001-the-divine-net-brahmajalasutta#chapter" },
