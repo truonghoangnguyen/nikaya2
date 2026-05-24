@@ -534,7 +534,7 @@ head:
 <br>
 <a href="/kinhtrungbo/thichminhchau/-- mục đầu tiên">
 <figure style="text-align: center;">
-    <img src="/covers/kinhtrunngbo.webp" style="max-width:400px;width:100%;display:block;margin:0 auto;" alt="Tỷ kheo Thích Minh Châu">
+    <img src="/covers/kinhtrungbo.webp" style="max-width:400px;width:100%;display:block;margin:0 auto;" alt="Tỷ kheo Thích Minh Châu">
 </figure>
 </a>
 
@@ -543,4 +543,4 @@ head:
 <br/>
 <h2 style="text-align: center;">Mục Lục</h2>
 
-<!--@include: ./meta/mucluc.md-->
+<!--@include: ./mucluc.md-->
