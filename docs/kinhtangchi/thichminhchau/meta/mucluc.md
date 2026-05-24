@@ -22,7 +22,9 @@
 - [XX. Phẩm Thiền Định (Búng Ngón Tay)](/kinhtangchi/thichminhchau/an-01-021-pham-thien-dinh-bung-ngon-tay.md)
 - [XXI. Phẩm Thiền Ðịnh (2) (Thân Hành Niệm)](/kinhtangchi/thichminhchau/an-01-022-pham-thien-dinh-2-than-hanh-niem.md)
 - [XXI. Phẩm Thiền Ðịnh (2) (Bất Tử)](/kinhtangchi/thichminhchau/an-01-023-pham-thien-dinh-2-bat-tu.md)
-- [CHƯƠNG II: CHƯƠNG HAI PHÁP](/kinhtangchi/thichminhchau/an-02-000-chuong-2.md)
+
+[CHƯƠNG II: CHƯƠNG HAI PHÁP](/kinhtangchi/thichminhchau/an-02-000-chuong-2.md)
+
 - [I. Phẩm Hình Phạt](/kinhtangchi/thichminhchau/an-02-001-pham-hinh-phat.md)
 - [II. Phẩm Tranh Luận](/kinhtangchi/thichminhchau/an-02-002-pham-tranh-luan.md)
 - [III. Phẩm Người Ngu](/kinhtangchi/thichminhchau/an-02-003-pham-nguoi-ngu.md)
@@ -40,7 +42,9 @@
 - [XV. Phẩm Nhập Ðịnh](/kinhtangchi/thichminhchau/an-02-015-pham-nhap-dinh.md)
 - [XVI. Phẩm Phẫn Nộ](/kinhtangchi/thichminhchau/an-02-016-pham-phan-no.md)
 - [XVII. Phẩm Thứ Mười Bảy](/kinhtangchi/thichminhchau/an-02-017-pham-thu-muoi-bay.md)
-- [CHƯƠNG III: CHƯƠNG BA PHÁP](/kinhtangchi/thichminhchau/an-03-000-chuong-3.md)
+
+[CHƯƠNG III: CHƯƠNG BA PHÁP](/kinhtangchi/thichminhchau/an-03-000-chuong-3.md)
+
 - [I. Phẩm Người Ngu](/kinhtangchi/thichminhchau/an-03-001-pham-nguoi-ngu.md)
 - [II. Phẩm Người Ðóng Xe](/kinhtangchi/thichminhchau/an-03-002-pham-nguoi-dong-xe.md)
 - [III. Phẩm Người](/kinhtangchi/thichminhchau/an-03-003-pham-nguoi.md)
@@ -57,7 +61,9 @@
 - [XIV. Phẩm Kẻ Chiến Sĩ](/kinhtangchi/thichminhchau/an-03-014-pham-ke-chien-si.md)
 - [XV. Phẩm Cát Tường](/kinhtangchi/thichminhchau/an-03-015-pham-cat-tuong.md)
 - [XVI. Phẩm Lõa Thể](/kinhtangchi/thichminhchau/an-03-016-pham-loa-the.md)
-- [CHƯƠNG IV: CHƯƠNG BỐN PHÁP](/kinhtangchi/thichminhchau/an-04-000-chuong-4.md)
+
+[CHƯƠNG IV: CHƯƠNG BỐN PHÁP](/kinhtangchi/thichminhchau/an-04-000-chuong-4.md)
+
 - [I. Phẩm Bhandagana](/kinhtangchi/thichminhchau/an-04-001-pham-bhandagana.md)
 - [II. Phẩm Hành](/kinhtangchi/thichminhchau/an-04-002-pham-hanh.md)
 - [III. Phẩm Uruvelà](/kinhtangchi/thichminhchau/an-04-003-pham-uruvela.md)
@@ -86,7 +92,9 @@
 - [XXVI. Phẩm Thắng Trí](/kinhtangchi/thichminhchau/an-04-026-pham-thang-tri.md)
 - [XXVII. Phẩm Nghiệp Ðạo](/kinhtangchi/thichminhchau/an-04-027-pham-nghiep-dao.md)
 - [XXVIII. Phẩm Tham](/kinhtangchi/thichminhchau/an-04-028-pham-tham.md)
-- [CHƯƠNG V: CHƯƠNG NĂM PHÁP](/kinhtangchi/thichminhchau/an-05-000-chuong-5.md)
+
+[CHƯƠNG V: CHƯƠNG NĂM PHÁP](/kinhtangchi/thichminhchau/an-05-000-chuong-5.md)
+
 - [I. Phẩm Sức Mạnh Hữu Học](/kinhtangchi/thichminhchau/an-05-001-pham-suc-manh-huu-hoc.md)
 - [II. Phẩm Sức Mạnh](/kinhtangchi/thichminhchau/an-05-002-pham-suc-manh.md)
 - [III. Phẩm Năm Phần](/kinhtangchi/thichminhchau/an-05-003-pham-nam-phan.md)
@@ -113,7 +121,9 @@
 - [XXIV. Phẩm Trú Tại Chỗ](/kinhtangchi/thichminhchau/an-05-024-pham-tru-tai-cho.md)
 - [XXV. Phẩm Ác Hành](/kinhtangchi/thichminhchau/an-05-025-pham-ac-hanh.md)
 - [XXVI. Phẩm Cụ Túc Giới](/kinhtangchi/thichminhchau/an-05-026-pham-cu-tuc-gioi.md)
-- [CHƯƠNG VI: CHƯƠNG SÁU PHÁP](/kinhtangchi/thichminhchau/an-06-000-chuong-6.md)
+
+[CHƯƠNG VI: CHƯƠNG SÁU PHÁP](/kinhtangchi/thichminhchau/an-06-000-chuong-6.md)
+
 - [I. Phẩm Ðáng Ðược Cung Kính](/kinhtangchi/thichminhchau/an-06-001-pham-dang-duoc-cung-kinh.md)
 - [II. Phẩm Cần Phải Nhớ](/kinhtangchi/thichminhchau/an-06-002-pham-can-phai-nho.md)
 - [III. Phẩm Trên Tất Cả](/kinhtangchi/thichminhchau/an-06-003-pham-tren-tat-ca.md)
@@ -126,7 +136,9 @@
 - [X. Phẩm Lợi Ích](/kinhtangchi/thichminhchau/an-06-010-pham-loi-ich.md)
 - [XI. Phẩm Ba Pháp](/kinhtangchi/thichminhchau/an-06-011-pham-ba-phap.md)
 - [XII. Phẩm Các Kinh Không Nhiếp Trong Phẩm](/kinhtangchi/thichminhchau/an-06-012-pham-cac-kinh-khong-nhiep-trong-pham.md)
-- [CHƯƠNG VII: CHƯƠNG BẢY PHÁP](/kinhtangchi/thichminhchau/an-07-000-chuong-7.md)
+
+[CHƯƠNG VII: CHƯƠNG BẢY PHÁP](/kinhtangchi/thichminhchau/an-07-000-chuong-7.md)
+
 - [I. Phẩm Tài Sản](/kinhtangchi/thichminhchau/an-07-001-pham-tai-san.md)
 - [II. Phẩm Tùy Miên](/kinhtangchi/thichminhchau/an-07-002-pham-tuy-mien.md)
 - [III. Phẩm Vajjì ( Bạt Kỳ)](/kinhtangchi/thichminhchau/an-07-003-pham-vajji-bat-ky.md)
@@ -136,7 +148,9 @@
 - [VII. Ðại Phẩm](/kinhtangchi/thichminhchau/an-07-007-dai-pham.md)
 - [VIII. Phẩm Về Luật](/kinhtangchi/thichminhchau/an-07-008-pham-ve-luat.md)
 - [IX. Phẩm Các Kinh Không Nhiếp](/kinhtangchi/thichminhchau/an-07-009-pham-cac-kinh-khong-nhiep.md)
-- [CHƯƠNG VIII: CHƯƠNG TÁM PHÁP](/kinhtangchi/thichminhchau/an-08-000-chuong-8.md)
+
+[CHƯƠNG VIII: CHƯƠNG TÁM PHÁP](/kinhtangchi/thichminhchau/an-08-000-chuong-8.md)
+
 - [I. Phẩm Từ](/kinhtangchi/thichminhchau/an-08-001-pham-tu.md)
 - [II. Phẩm Lớn](/kinhtangchi/thichminhchau/an-08-002-pham-lon.md)
 - [III. Phẩm Gia Chủ](/kinhtangchi/thichminhchau/an-08-003-pham-gia-chu.md)
@@ -147,7 +161,9 @@
 - [VIII. Phẩm Song Ðôi](/kinhtangchi/thichminhchau/an-08-008-pham-song-doi.md)
 - [IX. Phẩm Niệm](/kinhtangchi/thichminhchau/an-08-009-pham-niem.md)
 - [X. Phẩm Tham Ái](/kinhtangchi/thichminhchau/an-08-010-pham-tham-ai.md)
-- [CHƯƠNG IX: CHƯƠNG CHÍN PHÁP](/kinhtangchi/thichminhchau/an-09-000-chuong-9.md)
+
+[CHƯƠNG IX: CHƯƠNG CHÍN PHÁP](/kinhtangchi/thichminhchau/an-09-000-chuong-9.md)
+
 - [I. Phẩm Chánh Giác](/kinhtangchi/thichminhchau/an-09-001-pham-chanh-giac.md)
 - [II. Phẩm Tiếng Rống Con Sư Tử](/kinhtangchi/thichminhchau/an-09-002-pham-tieng-rong-con-su-tu.md)
 - [III. Phẩm Chỗ Cư Trú Của Hữu Tình](/kinhtangchi/thichminhchau/an-09-003-pham-cho-cu-tru-cua-huu-tinh.md)
@@ -158,7 +174,9 @@
 - [VIII. Phẩm Chánh Cần](/kinhtangchi/thichminhchau/an-09-008-pham-chanh-can.md)
 - [IX. Phẩm Bốn Như Ý Túc](/kinhtangchi/thichminhchau/an-09-009-pham-bon-nhu-y-tuc.md)
 - [X. Phẩm Tham](/kinhtangchi/thichminhchau/an-09-010-pham-tham.md)
-- [CHƯƠNG X: CHƯƠNG MƯỜI PHÁP](/kinhtangchi/thichminhchau/an-10-000-chuong-10.md)
+
+[CHƯƠNG X: CHƯƠNG MƯỜI PHÁP](/kinhtangchi/thichminhchau/an-10-000-chuong-10.md)
+
 - [I. Phẩm Lợi Ích](/kinhtangchi/thichminhchau/an-10-001-pham-loi-ich.md)
 - [II. Phẩm Hộ Trì](/kinhtangchi/thichminhchau/an-10-002-pham-ho-tri.md)
 - [III. Phẩm Lớn](/kinhtangchi/thichminhchau/an-10-003-pham-lon.md)
@@ -181,7 +199,9 @@
 - [XX. Phẩm Các Hạng Người](/kinhtangchi/thichminhchau/an-10-020-pham-cac-hang-nguoi.md)
 - [XXI. Phẩm Thân Do Nghiệp Sanh](/kinhtangchi/thichminhchau/an-10-021-pham-than-do-nghiep-sanh.md)
 - [XXII. Phẩm Không Có Ðầu Ðề](/kinhtangchi/thichminhchau/an-10-022-pham-khong-co-dau-de.md)
-- [CHƯƠNG XI: CHƯƠNG MƯỜI MỘT PHÁP](/kinhtangchi/thichminhchau/an-11-000-chuong-11.md)
+
+[CHƯƠNG XI: CHƯƠNG MƯỜI MỘT PHÁP](/kinhtangchi/thichminhchau/an-11-000-chuong-11.md)
+
 - [I. Phẩm Y Chỉ](/kinhtangchi/thichminhchau/an-11-001-pham-y-chi.md)
 - [II. Phẩm Tùy Niệm](/kinhtangchi/thichminhchau/an-11-002-pham-tuy-niem.md)
 - [III. Phẩm Ba: Tổng Kết](/kinhtangchi/thichminhchau/an-11-003-pham-ba-tong-ket.md)

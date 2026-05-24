@@ -1,9 +1,11 @@
 const kinhtangchi_sujato_vi = [
+  { text: "Home", link: "/kinhtangchi/sujato-vi/index.md" },
   { text: "Phẩm Tranh tụng", link: "/kinhtangchi/sujato-vi/intro/00-000-quote.md" },
   { text: "Tuyển Tập Ấn Phẩm SuttaCentral", link: "/kinhtangchi/sujato-vi/intro/00-001-the-suttacentral-editions-series.md" },
   { text: "Lời nói đầu", link: "/kinhtangchi/sujato-vi/intro/00-002-preface.md" },
   { text: "Kinh Tăng Chi: những điều hữu ích hàng ngày", link: "/kinhtangchi/sujato-vi/intro/00-003-the-numbered-discourses-things-that-are-useful-every-day.md" },
   { text: "Lời Tri Ân", link: "/kinhtangchi/sujato-vi/intro/00-004-acknowledgements.md" },
+
   { text: "Phẩm Về Sự Xâm Chiếm Tâm", link: "/kinhtangchi/sujato-vi/an-01-001-the-chapter-on-what-occupies-the-mind.md" },
   { text: "Phẩm Đoạn Trừ Các Triền Cái", link: "/kinhtangchi/sujato-vi/an-01-002-the-chapter-on-giving-up-the-hindrances.md" },
   { text: "Phẩm Về Tâm Không Thuần Thục", link: "/kinhtangchi/sujato-vi/an-01-003-the-chapter-on-the-useless-mind.md" },

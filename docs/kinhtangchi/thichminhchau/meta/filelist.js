@@ -1,4 +1,5 @@
 const kinhtangchi_thichminhchau = [
+  { text: "Home", link: "/kinhtangchi/thichminhchau/index.md" },
   { text: "I. Phẩm Sắc", link: "/kinhtangchi/thichminhchau/an-01-001-pham-sac.md" },
   { text: "II. Phẩm Ðoạn Triền Cái", link: "/kinhtangchi/thichminhchau/an-01-002-pham-doan-trien-cai.md" },
   { text: "III. Phẩm Khó Sử Dụng", link: "/kinhtangchi/thichminhchau/an-01-003-pham-kho-su-dung.md" },

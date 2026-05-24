@@ -1,10 +1,5 @@
----
-next:
-   text: "The SuttaCentral Editions Series"
-   link: "/kinhtuongung/sujato-en/intro/01-the-suttacentral-editions-series"
----
 
-## Introduction
+### Introduction
 - [The SuttaCentral Editions Series](/kinhtuongung/sujato-en/intro/01-the-suttacentral-editions-series.md)
 - [Preface to *Linked Discourses*](/kinhtuongung/sujato-en/intro/02-preface-to-linked-discourses.md)
 - [The Linked Discourses: the blueprint for Buddhist philosophy](/kinhtuongung/sujato-en/intro/03-0-the-linked-discourses-the-blueprint-for-buddhist-philosophy.md)
@@ -17,7 +12,7 @@ next:
 - [A Brief Textual History](/kinhtuongung/sujato-en/intro/03-7-a-brief-textual-history.md)
 - [Acknowledgements](/kinhtuongung/sujato-en/intro/04-acknowledgements.md)
 
-## Index
+### Index
 - [Linked Discourses With Deities](/kinhtuongung/sujato-en/sn-01-linked-discourses-with-deities.md)
 - [Linked Discourses on Gods](/kinhtuongung/sujato-en/sn-02-linked-discourses-on-gods.md)
 - [Linked Discourses With King Pasenadi of Kosala](/kinhtuongung/sujato-en/sn-03-linked-discourses-with-king-pasenadi-of-kosala.md)

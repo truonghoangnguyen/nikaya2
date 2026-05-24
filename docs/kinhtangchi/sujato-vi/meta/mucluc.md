@@ -1,17 +1,11 @@
----
-next:
-   text: "Phẩm Tranh tụng"
-   link: "/kinhtangchi/sujato-vi/an-intro/00-000-quote"
----
-
-# Mục lục
-
+### Giới thiệu
 - [Phẩm Tranh tụng](/kinhtangchi/sujato-vi/intro/00-000-quote.md)
 - [Tuyển Tập Ấn Phẩm SuttaCentral](/kinhtangchi/sujato-vi/intro/00-001-the-suttacentral-editions-series.md)
 - [Lời nói đầu](/kinhtangchi/sujato-vi/intro/00-002-preface.md)
 - [Kinh Tăng Chi: những điều hữu ích hàng ngày](/kinhtangchi/sujato-vi/intro/00-003-the-numbered-discourses-things-that-are-useful-every-day.md)
 - [Lời Tri Ân](/kinhtangchi/sujato-vi/intro/00-004-acknowledgements.md)
 
+### Kinh
 - [Phẩm Về Sự Xâm Chiếm Tâm](/kinhtangchi/sujato-vi/an-01-001-the-chapter-on-what-occupies-the-mind.md)
 - [Phẩm Đoạn Trừ Các Triền Cái](/kinhtangchi/sujato-vi/an-01-002-the-chapter-on-giving-up-the-hindrances.md)
 - [Phẩm Về Tâm Không Thuần Thục](/kinhtangchi/sujato-vi/an-01-003-the-chapter-on-the-useless-mind.md)
@@ -35,7 +29,9 @@ next:
 - [Phẩm Khác về Búng Ngón Tay](/kinhtangchi/sujato-vi/an-01-021-another-chapter-on-a-finger-snap.md)
 - [Phẩm về Niệm Thân](/kinhtangchi/sujato-vi/an-01-022-the-chapter-on-mindfulness-of-the-body.md)
 - [Phẩm Bất Tử](/kinhtangchi/sujato-vi/an-01-023-the-chapter-on-freedom-from-death.md)
-- [Phẩm Hai Pháp](/kinhtangchi/sujato-vi/an-02-000-chapter-2.md)
+
+[Phẩm Hai Pháp](/kinhtangchi/sujato-vi/an-02-000-chapter-2.md)
+
 - [Phẩm Hình Phạt](/kinhtangchi/sujato-vi/an-02-001-the-chapter-on-punishments.md)
 - [Phẩm về các Vấn đề Tranh tụng](/kinhtangchi/sujato-vi/an-02-002-the-chapter-on-disciplinary-issues.md)
 - [Phẩm Kẻ Ngu](/kinhtangchi/sujato-vi/an-02-003-the-chapter-on-fools.md)
@@ -53,7 +49,9 @@ next:
 - [Phẩm về Chứng Đắc](/kinhtangchi/sujato-vi/an-02-015-the-chapter-on-attainment.md)
 - [Phẩm Tóm Tắt Bắt Đầu Với Sân Hận](/kinhtangchi/sujato-vi/an-02-016-the-chapter-of-abbreviated-texts-beginning-with-anger.md)
 - [Phẩm Về Các Đoạn Kinh Tóm Lược Về Luật](/kinhtangchi/sujato-vi/an-02-017-the-chapter-of-abbreviated-texts-on-monastic-law.md)
-- [Phẩm Ba Pháp](/kinhtangchi/sujato-vi/an-03-000-chapter-3.md)
+
+[Phẩm Ba Pháp](/kinhtangchi/sujato-vi/an-03-000-chapter-3.md)
+
 - [Phẩm Về Kẻ Ngu](/kinhtangchi/sujato-vi/an-03-001-the-chapter-on-fools.md)
 - [Phẩm về Thợ Làm Xe (The Chariot-maker)](/kinhtangchi/sujato-vi/an-03-002-the-chapter-on-the-chariot-maker.md)
 - [Phẩm về Các Hạng Người](/kinhtangchi/sujato-vi/an-03-003-the-chapter-on-persons.md)
@@ -70,7 +68,9 @@ next:
 - [Phẩm về Người Chiến Sĩ](/kinhtangchi/sujato-vi/an-03-014-the-chapter-on-a-warrior.md)
 - [Phẩm về Phước Lành](/kinhtangchi/sujato-vi/an-03-015-the-chapter-on-good-fortune.md)
 - [Phẩm về Các Pháp Hành](/kinhtangchi/sujato-vi/an-03-016-the-chapter-on-practices.md)
-- [Phẩm Bốn Pháp](/kinhtangchi/sujato-vi/an-04-000-chapter-4.md)
+
+[Phẩm Bốn Pháp](/kinhtangchi/sujato-vi/an-04-000-chapter-4.md)
+
 - [Phẩm Tại Làng Beluva](/kinhtangchi/sujato-vi/an-04-001-the-chapter-at-wares-village.md)
 - [Phẩm về Đi Kinh Hành](/kinhtangchi/sujato-vi/an-04-002-the-chapter-on-walking.md)
 - [Phẩm Uruvelā (Ưu Lâu Tần Loa)](/kinhtangchi/sujato-vi/an-04-003-the-chapter-at-uruvela.md)
@@ -99,7 +99,9 @@ next:
 - [Phẩm về Thắng Trí](/kinhtangchi/sujato-vi/an-04-026-the-chapter-on-direct-knowledges.md)
 - [Phẩm Về Cách Thực Hiện Các Hành Vi](/kinhtangchi/sujato-vi/an-04-027-the-chapter-on-ways-of-performing-deeds.md)
 - [Các Kinh Tóm Tắt Bắt Đầu Với Tham Ái](/kinhtangchi/sujato-vi/an-04-028-abbreviated-texts-beginning-with-greed.md)
-- [Phẩm Năm Pháp](/kinhtangchi/sujato-vi/an-05-000-chapter-5.md)
+
+[Phẩm Năm Pháp](/kinhtangchi/sujato-vi/an-05-000-chapter-5.md)
+
 - [Phẩm Về Các Lực Của Bậc Hữu Học](/kinhtangchi/sujato-vi/an-05-001-the-chapter-on-powers-of-a-trainee.md)
 - [Phẩm Về Các Lực](/kinhtangchi/sujato-vi/an-05-002-the-chapter-on-powers.md)
 - [Phẩm Năm Pháp](/kinhtangchi/sujato-vi/an-05-003-the-chapter-on-five-factors.md)
@@ -126,7 +128,9 @@ next:
 - [Phẩm về Vị Tỳ Khưu Trú Xứ](/kinhtangchi/sujato-vi/an-05-024-the-chapter-on-a-resident-mendicant.md)
 - [Phẩm về Ác Hạnh](/kinhtangchi/sujato-vi/an-05-025-the-chapter-on-bad-conduct.md)
 - [Phẩm về Sự Thọ Giới](/kinhtangchi/sujato-vi/an-05-026-the-chapter-on-ordination.md)
-- [Phẩm Sáu Pháp](/kinhtangchi/sujato-vi/an-06-000-chapter-6.md)
+
+[Phẩm Sáu Pháp](/kinhtangchi/sujato-vi/an-06-000-chapter-6.md)
+
 - [Phẩm về Xứng Đáng Được Cúng Dường](/kinhtangchi/sujato-vi/an-06-001-the-chapter-on-worthy-of-offerings.md)
 - [Phẩm về Pháp Đáng Nhớ Tưởng](/kinhtangchi/sujato-vi/an-06-002-the-chapter-on-warm-hearted.md)
 - [Phẩm Về Vô Thượng](/kinhtangchi/sujato-vi/an-06-003-the-chapter-on-unsurpassable.md)
@@ -139,7 +143,9 @@ next:
 - [Phẩm về Lợi Ích](/kinhtangchi/sujato-vi/an-06-010-the-chapter-on-benefit.md)
 - [Phẩm Ba Pháp](/kinhtangchi/sujato-vi/an-06-011-the-chapter-on-triads.md)
 - [Phẩm về Đời sống Sa môn](/kinhtangchi/sujato-vi/an-06-012-the-chapter-on-the-ascetic-life.md)
-- [Phẩm Bảy Pháp](/kinhtangchi/sujato-vi/an-07-000-chapter-7.md)
+
+[Phẩm Bảy Pháp](/kinhtangchi/sujato-vi/an-07-000-chapter-7.md)
+
 - [Phẩm về Tài Sản](/kinhtangchi/sujato-vi/an-07-001-the-chapter-on-wealth.md)
 - [Phẩm về Các Khuynh Hướng Tiềm Ẩn](/kinhtangchi/sujato-vi/an-07-002-the-chapter-on-tendencies.md)
 - [Phẩm Bảy Pháp Vajjī](/kinhtangchi/sujato-vi/an-07-003-the-chapter-on-the-vajji-seven.md)
@@ -149,7 +155,9 @@ next:
 - [Phẩm Lớn](/kinhtangchi/sujato-vi/an-07-007-the-great-chapter.md)
 - [Phẩm về Giới Luật Tu Sĩ](/kinhtangchi/sujato-vi/an-07-008-the-chapter-on-the-monastic-law.md)
 - [Phẩm về Sa Môn](/kinhtangchi/sujato-vi/an-07-009-the-chapter-on-ascetics.md)
-- [Phẩm Tám Pháp](/kinhtangchi/sujato-vi/an-08-000-chapter-8.md)
+
+[Phẩm Tám Pháp](/kinhtangchi/sujato-vi/an-08-000-chapter-8.md)
+
 - [Phẩm Về Tình Thương](/kinhtangchi/sujato-vi/an-08-001-the-chapter-on-love.md)
 - [Đại Phẩm](/kinhtangchi/sujato-vi/an-08-002-the-great-chapter.md)
 - [Phẩm về các Cư sĩ](/kinhtangchi/sujato-vi/an-08-003-the-chapter-on-householders.md)
@@ -160,7 +168,9 @@ next:
 - [Phẩm Song Đối](/kinhtangchi/sujato-vi/an-08-008-the-chapter-on-pairs.md)
 - [Phẩm về Tỉnh Thức](/kinhtangchi/sujato-vi/an-08-009-the-chapter-on-mindfulness.md)
 - [Các Bài Kinh Tóm Lược Bắt Đầu Với Lòng Tham](/kinhtangchi/sujato-vi/an-08-010-the-chapter-on-similarity.md)
-- [Phẩm Chín Pháp](/kinhtangchi/sujato-vi/an-09-000-chapter-9.md)
+
+[Phẩm Chín Pháp](/kinhtangchi/sujato-vi/an-09-000-chapter-9.md)
+
 - [Phẩm về Giác Ngộ](/kinhtangchi/sujato-vi/an-09-001-the-chapter-on-awakening.md)
 - [Phẩm Về Tiếng Rống Sư Tử](/kinhtangchi/sujato-vi/an-09-002-the-chapter-on-the-lion-s-roar.md)
 - [Phẩm về Chỗ Ở Của Chúng Sinh](/kinhtangchi/sujato-vi/an-09-003-the-chapter-on-abodes-of-sentient-beings.md)
@@ -171,7 +181,9 @@ next:
 - [Phẩm về Chánh Siêng Năng](/kinhtangchi/sujato-vi/an-09-008-the-chapter-on-right-efforts.md)
 - [Phẩm về Các Nền Tảng Thần Thông](/kinhtangchi/sujato-vi/an-09-009-the-chapter-on-bases-of-psychic-power.md)
 - [Các Kinh Rút Gọn Bắt Đầu Với Lòng Tham](/kinhtangchi/sujato-vi/an-09-010-the-chapter-on-bases-of-psychic-power2.md)
-- [Phẩm Mười Pháp](/kinhtangchi/sujato-vi/an-10-000-chapter-10.md)
+
+[Phẩm Mười Pháp](/kinhtangchi/sujato-vi/an-10-000-chapter-10.md)
+
 - [Phẩm Về Lợi Ích](/kinhtangchi/sujato-vi/an-10-001-the-chapter-on-benefits.md)
 - [Phẩm Về Người Bảo Hộ](/kinhtangchi/sujato-vi/an-10-002-the-chapter-on-a-protector.md)
 - [Đại Phẩm](/kinhtangchi/sujato-vi/an-10-003-the-great-chapter.md)
@@ -194,7 +206,9 @@ next:
 - [Một chương khác về các loại người](/kinhtangchi/sujato-vi/an-10-020-another-chapter-on-persons.md)
 - [Phẩm Về Thân Sanh Bởi Nghiệp](/kinhtangchi/sujato-vi/an-10-021-the-chapter-on-the-body-born-of-deeds.md)
 - [Phẩm Tương Tự](/kinhtangchi/sujato-vi/an-10-022-the-chapter-on-similarity.md)
-- [Phẩm Mười Một Pháp](/kinhtangchi/sujato-vi/an-11-000-chapter-11.md)
+
+[Phẩm Mười Một Pháp](/kinhtangchi/sujato-vi/an-11-000-chapter-11.md)
+
 - [Phẩm Về Sự Phụ Thuộc](/kinhtangchi/sujato-vi/an-11-001-the-chapter-on-dependence.md)
 - [Phẩm Về Sự Tùy Niệm](/kinhtangchi/sujato-vi/an-11-002-the-chapter-on-recollection.md)
 - [Phẩm Về Sự Tương Đồng](/kinhtangchi/sujato-vi/an-11-003-the-chapter-on-similarity.md)

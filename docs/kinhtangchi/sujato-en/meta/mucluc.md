@@ -1,14 +1,11 @@
----
-next:
-   text: "The Chapter on Disciplinary Issues"
-   link: "/kinhtangchi/sujato-en/intro/00-000-quote.md"
----
-
+### Introduction
 - [The Chapter on Disciplinary Issues](/kinhtangchi/sujato-en/intro/00-000-quote.md)
 - [The SuttaCentral Editions Series](/kinhtangchi/sujato-en/intro/00-001-the-suttacentral-editions-series.md)
 - [Preface](/kinhtangchi/sujato-en/intro/00-002-preface.md)
 - [The Numbered Discourses: things that are useful every day](/kinhtangchi/sujato-en/intro/00-003-the-numbered-discourses-things-that-are-useful-every-day.md)
 - [Acknowledgements](/kinhtangchi/sujato-en/intro/00-004-acknowledgements.md)
+
+### Sutta
 - [The Chapter on What Occupies the Mind](/kinhtangchi/sujato-en/an-01-001-the-chapter-on-what-occupies-the-mind.md)
 - [The Chapter on Giving Up the Hindrances](/kinhtangchi/sujato-en/an-01-002-the-chapter-on-giving-up-the-hindrances.md)
 - [The Chapter on the Useless Mind](/kinhtangchi/sujato-en/an-01-003-the-chapter-on-the-useless-mind.md)
@@ -32,7 +29,9 @@ next:
 - [Another Chapter on a Finger-Snap](/kinhtangchi/sujato-en/an-01-021-another-chapter-on-a-finger-snap.md)
 - [The Chapter on Mindfulness of the Body](/kinhtangchi/sujato-en/an-01-022-the-chapter-on-mindfulness-of-the-body.md)
 - [The Chapter on Freedom From Death](/kinhtangchi/sujato-en/an-01-023-the-chapter-on-freedom-from-death.md)
-- [The Book of the Twos](/kinhtangchi/sujato-en/an-02-000-chapter-2.md)
+
+[The Book of the Twos](/kinhtangchi/sujato-en/an-02-000-chapter-2.md)
+
 - [The Chapter on Punishments](/kinhtangchi/sujato-en/an-02-001-the-chapter-on-punishments.md)
 - [The Chapter on Disciplinary Issues](/kinhtangchi/sujato-en/an-02-002-the-chapter-on-disciplinary-issues.md)
 - [The Chapter on Fools](/kinhtangchi/sujato-en/an-02-003-the-chapter-on-fools.md)
@@ -50,7 +49,9 @@ next:
 - [The Chapter on Attainment](/kinhtangchi/sujato-en/an-02-015-the-chapter-on-attainment.md)
 - [The Chapter of Abbreviated Texts Beginning With Anger](/kinhtangchi/sujato-en/an-02-016-the-chapter-of-abbreviated-texts-beginning-with-anger.md)
 - [The Chapter of Abbreviated Texts on Monastic Law](/kinhtangchi/sujato-en/an-02-017-the-chapter-of-abbreviated-texts-on-monastic-law.md)
-- [The Book of the Threes](/kinhtangchi/sujato-en/an-03-000-chapter-3.md)
+
+[The Book of the Threes](/kinhtangchi/sujato-en/an-03-000-chapter-3.md)
+
 - [The Chapter on Fools](/kinhtangchi/sujato-en/an-03-001-the-chapter-on-fools.md)
 - [The Chapter on the Chariot-maker](/kinhtangchi/sujato-en/an-03-002-the-chapter-on-the-chariot-maker.md)
 - [The Chapter on Persons](/kinhtangchi/sujato-en/an-03-003-the-chapter-on-persons.md)
@@ -67,7 +68,9 @@ next:
 - [The Chapter on a Warrior](/kinhtangchi/sujato-en/an-03-014-the-chapter-on-a-warrior.md)
 - [The Chapter on Good Fortune](/kinhtangchi/sujato-en/an-03-015-the-chapter-on-good-fortune.md)
 - [The Chapter on Practices](/kinhtangchi/sujato-en/an-03-016-the-chapter-on-practices.md)
-- [The Book of the Fours](/kinhtangchi/sujato-en/an-04-000-chapter-4.md)
+
+[The Book of the Fours](/kinhtangchi/sujato-en/an-04-000-chapter-4.md)
+
 - [The Chapter at Wares Village](/kinhtangchi/sujato-en/an-04-001-the-chapter-at-wares-village.md)
 - [The Chapter on Walking](/kinhtangchi/sujato-en/an-04-002-the-chapter-on-walking.md)
 - [The Chapter at Uruvelā](/kinhtangchi/sujato-en/an-04-003-the-chapter-at-uruvela.md)
@@ -96,7 +99,9 @@ next:
 - [The Chapter on Direct Knowledges](/kinhtangchi/sujato-en/an-04-026-the-chapter-on-direct-knowledges.md)
 - [The Chapter on Ways of Performing Deeds](/kinhtangchi/sujato-en/an-04-027-the-chapter-on-ways-of-performing-deeds.md)
 - [Abbreviated Texts Beginning with Greed](/kinhtangchi/sujato-en/an-04-028-abbreviated-texts-beginning-with-greed.md)
-- [The Book of the Fives](/kinhtangchi/sujato-en/an-05-000-chapter-5.md)
+
+[The Book of the Fives](/kinhtangchi/sujato-en/an-05-000-chapter-5.md)
+
 - [The Chapter on Powers of a Trainee](/kinhtangchi/sujato-en/an-05-001-the-chapter-on-powers-of-a-trainee.md)
 - [The Chapter on Powers](/kinhtangchi/sujato-en/an-05-002-the-chapter-on-powers.md)
 - [The Chapter on Five Factors](/kinhtangchi/sujato-en/an-05-003-the-chapter-on-five-factors.md)
@@ -123,7 +128,9 @@ next:
 - [The Chapter on a Resident Mendicant](/kinhtangchi/sujato-en/an-05-024-the-chapter-on-a-resident-mendicant.md)
 - [The Chapter on Bad Conduct](/kinhtangchi/sujato-en/an-05-025-the-chapter-on-bad-conduct.md)
 - [The Chapter on Ordination](/kinhtangchi/sujato-en/an-05-026-the-chapter-on-ordination.md)
-- [The Book of the Sixes](/kinhtangchi/sujato-en/an-06-000-chapter-6.md)
+
+[The Book of the Sixes](/kinhtangchi/sujato-en/an-06-000-chapter-6.md)
+
 - [The Chapter on Worthy of Offerings](/kinhtangchi/sujato-en/an-06-001-the-chapter-on-worthy-of-offerings.md)
 - [The Chapter on Warm-hearted](/kinhtangchi/sujato-en/an-06-002-the-chapter-on-warm-hearted.md)
 - [The Chapter on Unsurpassable](/kinhtangchi/sujato-en/an-06-003-the-chapter-on-unsurpassable.md)
@@ -136,7 +143,9 @@ next:
 - [The Chapter on Benefit](/kinhtangchi/sujato-en/an-06-010-the-chapter-on-benefit.md)
 - [The Chapter on Triads](/kinhtangchi/sujato-en/an-06-011-the-chapter-on-triads.md)
 - [The Chapter on the Ascetic Life](/kinhtangchi/sujato-en/an-06-012-the-chapter-on-the-ascetic-life.md)
-- [The Book of the Sevens](/kinhtangchi/sujato-en/an-07-000-chapter-7.md)
+
+[The Book of the Sevens](/kinhtangchi/sujato-en/an-07-000-chapter-7.md)
+
 - [The Chapter on Wealth](/kinhtangchi/sujato-en/an-07-001-the-chapter-on-wealth.md)
 - [The Chapter on Tendencies](/kinhtangchi/sujato-en/an-07-002-the-chapter-on-tendencies.md)
 - [The Chapter on the Vajji Seven](/kinhtangchi/sujato-en/an-07-003-the-chapter-on-the-vajji-seven.md)
@@ -146,7 +155,9 @@ next:
 - [The Great Chapter](/kinhtangchi/sujato-en/an-07-007-the-great-chapter.md)
 - [The Chapter on the Monastic Law](/kinhtangchi/sujato-en/an-07-008-the-chapter-on-the-monastic-law.md)
 - [The Chapter on Ascetics](/kinhtangchi/sujato-en/an-07-009-the-chapter-on-ascetics.md)
-- [The Book of the Eights](/kinhtangchi/sujato-en/an-08-000-chapter-8.md)
+
+[The Book of the Eights](/kinhtangchi/sujato-en/an-08-000-chapter-8.md)
+
 - [The Chapter on Love](/kinhtangchi/sujato-en/an-08-001-the-chapter-on-love.md)
 - [The Great Chapter](/kinhtangchi/sujato-en/an-08-002-the-great-chapter.md)
 - [The Chapter on Householders](/kinhtangchi/sujato-en/an-08-003-the-chapter-on-householders.md)
@@ -157,7 +168,9 @@ next:
 - [The Chapter on Pairs](/kinhtangchi/sujato-en/an-08-008-the-chapter-on-pairs.md)
 - [The Chapter on Mindfulness](/kinhtangchi/sujato-en/an-08-009-the-chapter-on-mindfulness.md)
 - [Abbreviated Texts Beginning With Greed](/kinhtangchi/sujato-en/an-08-010-the-chapter-on-similarity.md)
-- [The Book of the Nines](/kinhtangchi/sujato-en/an-09-000-chapter-9.md)
+
+[The Book of the Nines](/kinhtangchi/sujato-en/an-09-000-chapter-9.md)
+
 - [The Chapter on Awakening](/kinhtangchi/sujato-en/an-09-001-the-chapter-on-awakening.md)
 - [The Chapter on the Lion's Roar](/kinhtangchi/sujato-en/an-09-002-the-chapter-on-the-lion-s-roar.md)
 - [The Chapter on Abodes of Sentient Beings](/kinhtangchi/sujato-en/an-09-003-the-chapter-on-abodes-of-sentient-beings.md)
@@ -168,7 +181,9 @@ next:
 - [The Chapter on Right Efforts](/kinhtangchi/sujato-en/an-09-008-the-chapter-on-right-efforts.md)
 - [The Chapter on Bases of Psychic Power](/kinhtangchi/sujato-en/an-09-009-the-chapter-on-bases-of-psychic-power.md)
 - [Abbreviated Texts Beginning With Greed](/kinhtangchi/sujato-en/an-09-010-the-chapter-on-bases-of-psychic-power2.md)
-- [The Book of the Tens](/kinhtangchi/sujato-en/an-10-000-chapter-10.md)
+
+[The Book of the Tens](/kinhtangchi/sujato-en/an-10-000-chapter-10.md)
+
 - [The Chapter on Benefits](/kinhtangchi/sujato-en/an-10-001-the-chapter-on-benefits.md)
 - [The Chapter on a Protector](/kinhtangchi/sujato-en/an-10-002-the-chapter-on-a-protector.md)
 - [The Great Chapter](/kinhtangchi/sujato-en/an-10-003-the-great-chapter.md)
@@ -191,7 +206,9 @@ next:
 - [Another Chapter on Persons](/kinhtangchi/sujato-en/an-10-020-another-chapter-on-persons.md)
 - [The Chapter on the Body Born of Deeds](/kinhtangchi/sujato-en/an-10-021-the-chapter-on-the-body-born-of-deeds.md)
 - [The Chapter on Similarity](/kinhtangchi/sujato-en/an-10-022-the-chapter-on-similarity.md)
-- [The Book of the Elevens](/kinhtangchi/sujato-en/an-11-000-chapter-11.md)
+
+[The Book of the Elevens](/kinhtangchi/sujato-en/an-11-000-chapter-11.md)
+
 - [The Chapter on Dependence](/kinhtangchi/sujato-en/an-11-001-the-chapter-on-dependence.md)
 - [The Chapter on Recollection](/kinhtangchi/sujato-en/an-11-002-the-chapter-on-recollection.md)
 - [The Chapter on Similarity](/kinhtangchi/sujato-en/an-11-003-the-chapter-on-similarity.md)

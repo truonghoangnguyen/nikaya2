@@ -1,4 +1,5 @@
 const kinhtuongung_sujato_en = [
+  { text: "Home", link: "/kinhtuongung/sujato-en/index.md" },
   { text: "The SuttaCentral Editions Series", link: "/kinhtuongung/sujato-en/intro/01-the-suttacentral-editions-series.md" },
   { text: "Preface to *Linked Discourses*", link: "/kinhtuongung/sujato-en/intro/02-preface-to-linked-discourses.md" },
   { text: "The Linked Discourses: the blueprint for Buddhist philosophy", link: "/kinhtuongung/sujato-en/intro/03-0-the-linked-discourses-the-blueprint-for-buddhist-philosophy.md" },

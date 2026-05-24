@@ -1,4 +1,5 @@
 const kinhtuongung_thichminhchau = [
+  { text: "home", link: "/kinhtuongung/thichminhchau/index.md" },
   { text: "1. TƯƠNG ƯNG CHƯ THIÊN", link: "/kinhtuongung/thichminhchau/sn-01-tuong-ung-chu-thien.md" },
   { text: "2. TƯƠNG ƯNG THIÊN TỬ", link: "/kinhtuongung/thichminhchau/sn-02-tuong-ung-thien-tu.md" },
   { text: "3. TƯƠNG ƯNG KOSALA", link: "/kinhtuongung/thichminhchau/sn-03-tuong-ung-kosala.md" },

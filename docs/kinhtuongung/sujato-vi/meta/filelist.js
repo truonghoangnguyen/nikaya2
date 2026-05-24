@@ -1,4 +1,5 @@
 const kinhtuongung_sujato_vi = [
+  { text: "Home", link: "/kinhtuongung/sujato-vi/index.md" },
   { text: "Tuyển Tập SuttaCentral Editions", link: "/kinhtuongung/sujato-vi/intro/01-the-suttacentral-editions-series.md" },
   { text: "Lời nói đầu *Kinh Tương Ưng*", link: "/kinhtuongung/sujato-vi/intro/02-preface-to-linked-discourses.md" },
   { text: "Kinh Tương Ưng: nền tảng cho triết lý Phật giáo", link: "/kinhtuongung/sujato-vi/intro/03-0-the-linked-discourses-the-blueprint-for-buddhist-philosophy.md" },

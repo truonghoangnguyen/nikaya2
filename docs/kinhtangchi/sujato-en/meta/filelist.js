@@ -1,9 +1,11 @@
 const kinhtangchi_sujato_en = [
+  { text: "Home", link: "/kinhtangchi/sujato-en/index.md" },
   { text: "The Chapter on Disciplinary Issues", link: "/kinhtangchi/sujato-en/intro/00-000-quote.md" },
   { text: "The SuttaCentral Editions Series", link: "/kinhtangchi/sujato-en/intro/00-001-the-suttacentral-editions-series.md" },
   { text: "Preface", link: "/kinhtangchi/sujato-en/intro/00-002-preface.md" },
   { text: "The Numbered Discourses: things that are useful every day", link: "/kinhtangchi/sujato-en/intro/00-003-the-numbered-discourses-things-that-are-useful-every-day.md" },
   { text: "Acknowledgements", link: "/kinhtangchi/sujato-en/intro/00-004-acknowledgements.md" },
+
   { text: "The Chapter on What Occupies the Mind", link: "/kinhtangchi/sujato-en/an-01-001-the-chapter-on-what-occupies-the-mind.md" },
   { text: "The Chapter on Giving Up the Hindrances", link: "/kinhtangchi/sujato-en/an-01-002-the-chapter-on-giving-up-the-hindrances.md" },
   { text: "The Chapter on the Useless Mind", link: "/kinhtangchi/sujato-en/an-01-003-the-chapter-on-the-useless-mind.md" },

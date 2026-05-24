@@ -1,10 +1,4 @@
----
-next:
-   text: "Tuyển Tập SuttaCentral Editions"
-   link: "/kinhtuongung/sujato-vi/intro/01-the-suttacentral-editions-series"
----
-
-## Giới thiệu
+### Giới thiệu
 - [Tuyển Tập SuttaCentral Editions](/kinhtuongung/sujato-vi/intro/01-the-suttacentral-editions-series.md)
 - [Lời nói đầu *Kinh Tương Ưng*](/kinhtuongung/sujato-vi/intro/02-preface-to-linked-discourses.md)
 - [Kinh Tương Ưng: nền tảng cho triết lý Phật giáo](/kinhtuongung/sujato-vi/intro/03-0-the-linked-discourses-the-blueprint-for-buddhist-philosophy.md)
@@ -18,7 +12,7 @@ next:
 - [Lời Tri Ân](/kinhtuongung/sujato-vi/intro/04-acknowledgements.md)
 
 
-## Kinh
+### Kinh
 - [Tương Ưng Chư Thiên](/kinhtuongung/sujato-vi/sn-01-linked-discourses-with-deities.md)
 - [Tương Ưng về Chư Thiên](/kinhtuongung/sujato-vi/sn-02-linked-discourses-on-gods.md)
 - [Các Bài Kinh Liên Quan Đến Vua Pasenadi xứ Kosala](/kinhtuongung/sujato-vi/sn-03-linked-discourses-with-king-pasenadi-of-kosala.md)

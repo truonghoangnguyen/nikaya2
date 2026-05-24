@@ -38,7 +38,7 @@ head:
               { "@id": "https://kinhnikaya.org/kinhtuongung/thichminhchau/#book" },
               { "@id": "https://kinhnikaya.org/kinhtuongung/sujato-en/#book" },
               { "@id": "https://kinhnikaya.org/kinhtuongung/sujato-vi/#book" },
-              { "@id": "https://kinhnikaya.org/kinhtuongung/c-sujato-tmc-vi/#book" },
+              { "@id": "https://kinhnikaya.org/kinhtuongung/c-sujato-tmc-vi/#book" }
              ]
           },
           {
