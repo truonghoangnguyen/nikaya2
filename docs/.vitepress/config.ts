@@ -241,18 +241,6 @@ function getTranslatorSourceUrl(key: string): string | undefined {
   return meta.url || (meta.sameAs && meta.sameAs[0]) || undefined;
 }
 
-function buildBreadcrumbSchema(items: Array<{ name: string; url: string }>) {
-  return {
-    '@context': 'https://schema.org',
-    '@type': 'BreadcrumbList',
-    'itemListElement': items.map((it, idx) => ({
-      '@type': 'ListItem',
-      'position': idx + 1,
-      'name': it.name,
-      'item': it.url,
-    })),
-  };
-}
 
 function buildSocialMetaTags(opts: { canonicalUrl: string; title: string; description: string; image: string }) {
   const { canonicalUrl, title, description, image } = opts;
@@ -269,6 +257,45 @@ function buildSocialMetaTags(opts: { canonicalUrl: string; title: string; descri
     ['meta', { name: 'twitter:description', content: description }],
     ['meta', { name: 'twitter:image', content: image }],
   ];
+}
+
+// Paths (relativePath prefix) that should NOT receive fallback social meta tags.
+// Use this to exclude pages that either have their own explicit OG tags
+// or deliberately should not be shared (e.g. raw data pages).
+const SOCIAL_META_EXCLUDE: string[] = [
+  // e.g. 'some-page.md', 'some-dir/'
+];
+
+function hasSocialMetaTags(head: any[]): boolean {
+  return head.some((tag: any) => tag[0] === 'meta' && tag[1]?.property === 'og:title');
+}
+
+/**
+ * Adds OG + Twitter meta tags for pages that don't go through the
+ * compare or article branches. Skips if tags are already present
+ * or the page is in SOCIAL_META_EXCLUDE.
+ */
+function addFallbackSocialMeta(
+  pageData: any,
+  canonicalUrl: string,
+  bookSegment: string,
+) {
+  const head: any[] = pageData.frontmatter?.head ?? [];
+  if (hasSocialMetaTags(head)) return;
+
+  const relativePath: string = pageData.relativePath ?? '';
+  if (SOCIAL_META_EXCLUDE.some(prefix => relativePath.startsWith(prefix))) return;
+
+  const title: string = pageData.title || 'Kinh Nikaya';
+  const description: string =
+    pageData.frontmatter?.description ||
+    'Khám phá bộ sưu tập Kinh điển Nikaya với bản dịch song ngữ Pali - Việt. Thư viện kinh Phật giáo Nguyên thủy.';
+
+  const bookCover = BOOK_META[bookSegment]?.cover;
+  const image = bookCover ? `${SITE_ORIGIN}${bookCover}` : `${SITE_ORIGIN}/kinhnikaya.webp`;
+
+  pageData.frontmatter.head = head;
+  head.push(...buildSocialMetaTags({ canonicalUrl, title, description, image }));
 }
 
 // https://vitepress.dev/reference/site-config
@@ -525,6 +552,7 @@ export default defineConfig({
     // Find the matching author identifier within the path
     if (!currentBook) {
       console.log(relativePath, 'notfound');
+      addFallbackSocialMeta(pageData, canonicalUrl, bookSegment);
       return pageData;
     }
     //console.log('currentAuthor', currentAuthor);
@@ -607,7 +635,7 @@ export default defineConfig({
           breadcrumbItems.push({ name: pageTitle, url: pageUrl });
 
           const bookId = `${SITE_ORIGIN}/${bookSegment}/${authorSegment}/#book`;
-          const isIntro = pathParts[2] === 'intro' || 'outro';
+          const isIntro = pathParts[2] === 'intro' || pathParts[2] === 'outro';
 
           const articleGraph: Record<string, unknown>[] = isIntro ? [
             {
@@ -689,6 +717,7 @@ export default defineConfig({
     }
 
     // Return the potentially modified pageData
+    addFallbackSocialMeta(pageData, canonicalUrl, bookSegment);
     return pageData;
   },
 
