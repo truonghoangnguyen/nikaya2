@@ -139,7 +139,7 @@ Ví dụ: **Bảng thuật ngữ**:
 | tham ái (taṇhā) | sự thèm khát | |
 | tham (rāga) | đắm nhiễm | |
 | ly tham (virāgā) | cạn hết đắm nhiễm | "virāgadhamma->"chịu sự phai nhạt"|
-| dục (kāma) | bản năng |  |
+| dục (kāma) | phản ứng bản năng |  |
 | dục (cchanda) | mong muốn | hoặc "ý nguyện" |
 | dục tham (chandarāga) | tham đắm | |
 | ngũ dục (kāma-guṇa) | sợi dây trói buộc của bản năng | |
