@@ -602,7 +602,7 @@ head:
 <h1 style="text-align: center;">Kinh Trung Bộ</h1>
 <h2 style="text-align: center;">The Middle Length Discourses of the Buddha: A Translation of the Majjhima Nikaya - Bhikkhu Ñāṇamoli & Bhikkhu Bodhi</h2>
 <br>
-<a href="/kinhtrungbo/nanamoli-bodhi-en/-- mục đầu tiên">
+<a href="/kinhtrungbo/nanamoli-bodhi-en/intro/01.preface">
 <figure style="text-align: center;">
     <img src="/covers/kinhtrungbo-nanamoli.webp" style="max-width:400px;width:100%;display:block;margin:0 auto;" alt="Kinh Trung Bộ The Middle Length Discourses of the Buddha- Bhikkhu Ñāṇamoli & Bhikkhu Bodhi">
 </figure>

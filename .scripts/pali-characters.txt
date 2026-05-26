@@ -110,6 +110,7 @@ $1\. $2\
 
 −
 \[\^(\d+)\]
+[$1](/kinhtrungbo/nanamoli-bodhi-vi/notes/003#$1){.note}
 [$1](/kinhtruongbo/sujato-vi/notes/03#$1){.note}
 [$1](/kinhtrungbo/nanamoli-bodhi-vi/notes/037#$1){.note}
 

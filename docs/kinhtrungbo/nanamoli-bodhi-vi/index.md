@@ -602,7 +602,7 @@ head:
 <h1 style="text-align: center;">Kinh Trung Bộ</h1>
 <h2 style="text-align: center;">Bhikkhu Ñāṇamoli & Bhikkhu Bodhi (Tiếng Việt)</h2>
 <br>
-<a href="/kinhtrungbo/nanamoli-bodhi-vi/-- mục đầu tiên">
+<a href="/kinhtrungbo/nanamoli-bodhi-vi/intro/01.preface">
 <figure style="text-align: center;">
     <img src="/covers/kinhtrungbo-nanamoli.webp" style="max-width:400px;width:100%;display:block;margin:0 auto;" alt="Kinh Trung Bộ Bhikkhu Ñāṇamoli & Bhikkhu Bodhi (Tiếng Việt)">
 </figure>

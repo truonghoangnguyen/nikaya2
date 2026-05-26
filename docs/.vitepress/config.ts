@@ -760,7 +760,7 @@ export default defineConfig({
           { text: 'Kinh Tăng Chi Bộ (AN)', link: '/kinhtangchi/' }
         ]
       },
-      { text: 'Hỏi & Đáp', link: '/hoi-dap' },
+      //{ text: 'Hỏi & Đáp', link: '/hoi-dap' },
     ],
 
     sidebar: {

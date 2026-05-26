@@ -532,7 +532,7 @@ head:
 <h1 style="text-align: center;">Kinh Trung Bộ</h1>
 <h2 style="text-align: center;">Tỷ kheo Thích Minh Châu</h2>
 <br>
-<a href="/kinhtrungbo/thichminhchau/-- mục đầu tiên">
+<a href="/kinhtrungbo/thichminhchau/intro/gioi-thieu-kinh-trung-bo-1">
 <figure style="text-align: center;">
     <img src="/covers/kinhtrungbo.webp" style="max-width:400px;width:100%;display:block;margin:0 auto;" alt="Kinh Trung Bộ Tỷ kheo Thích Minh Châu">
 </figure>
