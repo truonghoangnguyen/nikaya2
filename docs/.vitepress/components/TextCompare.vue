@@ -4,6 +4,7 @@ import { ref, onMounted, computed } from 'vue'
 import MarkdownIt from 'markdown-it'
 import anchor from 'markdown-it-anchor'
 import markdownItAttrs from 'markdown-it-attrs'
+import footnote from 'markdown-it-footnote';
 import { slugAnchor } from '../utils';
 
 
@@ -74,6 +75,7 @@ onMounted(async () => {
           slugify: (s) => slugAnchor(s),
         })
         .use(markdownItAttrs)
+        .use(footnote)
 
       const mdRight = new MarkdownIt({ html: true, linkify: true, typographer: true })
         .use(anchor, {
@@ -81,6 +83,7 @@ onMounted(async () => {
           slugify: (s) => slugAnchor(s),
         })
         .use(markdownItAttrs)
+        .use(footnote)
 
       const [leftResponse, rightResponse] = await Promise.all([
         fetch(props.leftPath),

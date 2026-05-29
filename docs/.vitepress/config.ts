@@ -1,5 +1,5 @@
 import { defineConfig } from 'vitepress'
-// import footnote from 'markdown-it-footnote';
+import footnote from 'markdown-it-footnote';
 // import markdownItKatex from 'markdown-it-katex';
 import { slugAnchor } from './utils';
 
@@ -98,8 +98,10 @@ const BOOK_NAV = {
   'kinhtrungbo/thichminhchau/intro': mn_thichminhchau,
   'kinhtrungbo/nanamoli-bodhi-en': nanamoli_bodhi_en,
   'kinhtrungbo/nanamoli-bodhi-en/intro': nanamoli_bodhi_en,
+  'kinhtrungbo/nanamoli-bodhi-en/outro': nanamoli_bodhi_en,
   'kinhtrungbo/nanamoli-bodhi-vi': nanamoli_bodhi_vi,
   'kinhtrungbo/nanamoli-bodhi-vi/intro': nanamoli_bodhi_vi,
+  'kinhtrungbo/nanamoli-bodhi-vi/outro': nanamoli_bodhi_vi,
 
   'kinhtangchi/thichminhchau': kinhtangchi_thichminhchau,
   //  'kinhtangchi/bodhi-vi': kinhtangchi_bodhi_vi,
@@ -312,7 +314,7 @@ export default defineConfig({
 
     config: (md) => {
       // Add the footnote plugin
-      //md.use(footnote);
+      md.use(footnote);
       // md.use(markdownItKatex);
       // Any other markdown-it plugins you're using
     }

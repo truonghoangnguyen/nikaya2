@@ -176,5 +176,10 @@ const nanamoli_bodhi_en = [
   { text: "MN 150. To the Nagaravindans", link: "/kinhtrungbo/nanamoli-bodhi-en/mn-150-to-the-nagaravindans.md" },
   { text: "MN 151. The Purification of Almsfood", link: "/kinhtrungbo/nanamoli-bodhi-en/mn-151-the-purification-of-almsfood.md" },
   { text: "MN 152. The Development of the Faculties", link: "/kinhtrungbo/nanamoli-bodhi-en/mn-152-the-development-of-the-faculties.md" },
+
+  { text: "Bibliography", link: "/kinhtrungbo/nanamoli-bodhi-en/outro/1.bibliography.md" },
+  { text: "List of Abbreviations", link: "/kinhtrungbo/nanamoli-bodhi-en/outro/2.list-of-abbreviations.md" },
+  { text: "Notes", link: "/kinhtrungbo/nanamoli-bodhi-en/outro/3.notes.md" },
+  { text: " Pali-English Glossary", link: "/kinhtrungbo/nanamoli-bodhi-en/outro/4.pali-english-glossary.md" }
 ];
 export default nanamoli_bodhi_en;

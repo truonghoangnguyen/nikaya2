@@ -10,3 +10,6 @@
 
 ### date: 2026-05-26
 - Ông phải phân biệt được menu với món ăn
+
+### date: 2026-05-29
+- DN 34, Những bài kinh ghi là Sāriputta nói đều có văn phong khác biệt, có thể suy đoán được tính chân thật của kinh nikaya. DN 34 cần đọc kỹ vì tính chân thực rất cao.

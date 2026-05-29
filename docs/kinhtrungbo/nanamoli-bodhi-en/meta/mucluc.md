@@ -178,3 +178,9 @@
 - [150. To the Nagaravindans](/kinhtrungbo/nanamoli-bodhi-en/mn-150-to-the-nagaravindans.md)
 - [151. The Purification of Almsfood](/kinhtrungbo/nanamoli-bodhi-en/mn-151-the-purification-of-almsfood.md)
 - [152. The Development of the Faculties](/kinhtrungbo/nanamoli-bodhi-en/mn-152-the-development-of-the-faculties.md)
+
+### Notes
+- [Bibliography](/kinhtrungbo/nanamoli-bodhi-en/outro/1.bibliography.md)
+- [List of Abbreviations](/kinhtrungbo/nanamoli-bodhi-en/outro/2.list-of-abbreviations.md)
+- [Notes](/kinhtrungbo/nanamoli-bodhi-en/outro/3.notes.md)
+- [Pali-English Glossary](/kinhtrungbo/nanamoli-bodhi-en/outro/4.pali-english-glossary.md)

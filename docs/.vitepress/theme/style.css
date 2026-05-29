@@ -1,6 +1,8 @@
 /* Custom styles for the documentation site */
 
-.note {
+.note,
+.note-link {
+  vertical-align: super;
   /* cursor: help; */
   text-decoration: none;
   text-decoration-line: none;
@@ -10,9 +12,9 @@
   /* background-color: #646cff; */
 }
 
-.note-link {
+/* .note-link {
   font-size: smaller;
-}
+} */
 
 :root {
   --vp-c-brand: #d15f2e;

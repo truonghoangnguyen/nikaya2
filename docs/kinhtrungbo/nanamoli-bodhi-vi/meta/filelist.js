@@ -175,5 +175,9 @@ const nanamoli_bodhi_vi = [
   { text: "MN 151. Sự Thanh Tịnh Của Vật Thực Khất Thực", link: "/kinhtrungbo/nanamoli-bodhi-vi/mn-151-the-purification-of-almsfood.md" },
   { text: "MN 152. Sự Phát Triển Các Căn", link: "/kinhtrungbo/nanamoli-bodhi-vi/mn-152-the-development-of-the-faculties.md" },
 
+  { text: "Thư mục", link: "/kinhtrungbo/nanamoli-bodhi-vi/outro/1.bibliography.md" },
+  { text: "Danh sách các chữ viết tắt", link: "/kinhtrungbo/nanamoli-bodhi-vi/outro/2.list-of-abbreviations.md" },
+  { text: "Ghi chú", link: "/kinhtrungbo/nanamoli-bodhi-vi/outro/3.notes.md" },
+  { text: "Bảng Chú Giải Pali-Anh", link: "/kinhtrungbo/nanamoli-bodhi-vi/outro/4.pali-english-glossary.md" },
 ];
 export default nanamoli_bodhi_vi;

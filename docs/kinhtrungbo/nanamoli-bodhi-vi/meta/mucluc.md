@@ -177,3 +177,8 @@
 - [MN 151. Sự Thanh Tịnh Của Vật Thực Khất Thực](/kinhtrungbo/nanamoli-bodhi-vi/mn-151-the-purification-of-almsfood.md)
 - [MN 152. Sự Phát Triển Các Căn](/kinhtrungbo/nanamoli-bodhi-vi/mn-152-the-development-of-the-faculties.md)
 
+### Ghi Chú
+- [Thư mục](/kinhtrungbo/nanamoli-bodhi-vi/outro/1.bibliography.md)
+- [Danh sách các chữ viết tắt](/kinhtrungbo/nanamoli-bodhi-vi/outro/2.list-of-abbreviations.md)
+- [Ghi chú](/kinhtrungbo/nanamoli-bodhi-vi/outro/3.notes.md)
+- [Bảng Chú Giải Pali-Anh](/kinhtrungbo/nanamoli-bodhi-vi/outro/4.pali-english-glossary.md)
