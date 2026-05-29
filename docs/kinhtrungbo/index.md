@@ -57,10 +57,6 @@ head:
   cover="/covers/kinhtrungbo.jpeg"
 >
   <template #sections>
-    <!-- <div class="section-item">
-      <div class="section-title"><a href="/kinhtrungbo/c-pali-tmc-vi/mucluc">Pali & Thích Minh Châu</a></div>
-      <div class="section-subtitle">Đối chiếu bản dịch tiếng Việt từ tiêng Pali và tiếng Việt của Tỷ kheo Thích Minh Châu.</div>
-    </div> -->
     <div class="section-item">
       <div class="section-title"><a href="/kinhtrungbo/c-nm-tmc-vi/">Thích Minh Châu & Nanamoli-Bodhi (Việt)</a></div>
       <div class="section-subtitle">Bản đọc song song của Tỷ kheo Thích Minh Châu và Bhikkhu Nanamoli & Bhikkhu Bodhi .</div>
