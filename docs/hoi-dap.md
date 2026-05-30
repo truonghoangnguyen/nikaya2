@@ -29,6 +29,28 @@ Trang này tổng hợp các câu hỏi phổ biến về **Kinh Nikaya**, Phậ
 
 Đây là tập hợp lời dạy của **Đức Phật** được ghi chép và bảo tồn qua nhiều thế kỷ.
 
+---
+
+## Về dự án này
+
+### Tại sao có trang này?
+
+Xuất phát, tôi đọc kinh Nikaya bản tiếng Việt mà gặp nhiều thuật ngữ không hiểu nổi. *Sắc, thọ, tưởng, hành, thức* là gì? Các chú thích trong sách không đủ, nên tôi mày mò tìm sang các bản tiếng Anh để xem họ giải thích ra sao, trang này ra đời từ quá trình tra cứu đó.
+
+### Tại sao có nhiều tác giả trong bản dịch?
+
+Ban đầu tôi chỉ dịch **Kinh Trung Bộ** theo bản tiếng Anh của Ñāṇamoli & Bodhi — hai dịch giả mà tôi rất tin tưởng. Dịch xong, tôi mới nhận ra có những bộ kinh khác mà Ñāṇamoli & Bodhi không dịch, hoặc chưa dịch đầy đủ. Lúc đó tôi tìm được bản dịch của **Sujato**, dễ tiếp cận và đầy đủ ở trang [suttacentral](https://suttacentral.net/).
+
+### Tại sao có bản đọc đối chiếu?
+
+Vì tôi quen đọc kinh Nikaya qua bản dịch của **Hòa thượng Thích Minh Châu** từ trước. Mỗi khi dịch một bài kinh, tôi đều dùng bản dịch của Ngài ra để tham khảo vừa giúp tôi kiểm tra lại chỗ mình hiểu, vừa thấy rõ sự khác biệt giữa các cách diễn đạt.
+
+### Tại sao dịch trực tiếp từ tiếng Pali?
+
+Lúc mới bắt đầu, tôi dịch hoàn toàn từ các bản tiếng Anh. Nhưng sau một thời gian, khi đọc kỹ hơn, tôi nhận ra rằng ngay cả các bản tiếng Anh khác nhau cũng có những chỗ  khó hiểu theo cách riêng của chúng. Tôi thử  dịch thẳng từ **tiếng Pali**, và tôi thấy hài lòng (có thể là không thể đi xa hơn được). Từ đó, Pali trở thành nguồn tham chiếu chính của tôi.
+
+---
+
 ## Sơ đồ trang web
 
 - [Trang chủ] (https://kinhnikaya.org/)
