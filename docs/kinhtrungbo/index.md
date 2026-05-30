@@ -59,7 +59,7 @@ head:
   <template #sections>
     <div class="section-item">
       <div class="section-title"><a href="/kinhtrungbo/c-nm-tmc-vi/">Thích Minh Châu & Nanamoli-Bodhi (Việt)</a></div>
-      <div class="section-subtitle">Bản đọc song song của Tỷ kheo Thích Minh Châu và Bhikkhu Nanamoli & Bhikkhu Bodhi .</div>
+      <div class="section-subtitle">So sánh bản dịch của Tỷ kheo Thích Minh Châu và Bhikkhu Nanamoli & Bhikkhu Bodhi .</div>
     </div>
     <div class="section-item">
       <div class="section-title"><a href="/kinhtrungbo/thichminhchau/">Tỷ kheo Thích Minh Châu</a></div>
@@ -67,7 +67,7 @@ head:
     </div>
     <div class="section-item">
       <div class="section-title"><a href="/kinhtrungbo/nanamoli-bodhi-vi/">Nanamoli & Bodhi (Tiếng Việt)</a></div>
-      <div class="section-subtitle">Bản dịch tiếng Việt từ tác phẩm "The Middle Length Discourses Of The Buddha" của Bhikkhu Nanamoli và Bhikkhu Bodhi.</div>
+      <div class="section-subtitle">Bản dịch tiếng Việt "The Middle Length Discourses Of The Buddha" của Bhikkhu Nanamoli và Bhikkhu Bodhi.</div>
     </div>
     <div class="section-item">
       <div class="section-title"><a href="/kinhtrungbo/nanamoli-bodhi-en/">Bhikkhu Nanamoli & Bhikkhu Bodhi (English)</a></div>

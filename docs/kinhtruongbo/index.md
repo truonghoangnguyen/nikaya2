@@ -61,11 +61,11 @@ head:
   <template #sections>
     <div class="section-item">
       <div class="section-title"><a href="/kinhtruongbo/c-pali-tmc-vi/">Pali & Thích Minh Châu</a></div>
-      <div class="section-subtitle">Bản đọc song song của Tỷ kheo Thích Minh Châu và Pali-Việt.</div>
+      <div class="section-subtitle">So sánh bản dịch của Tỷ kheo Thích Minh Châu và Pali-Việt.</div>
     </div>
     <div class="section-item">
       <div class="section-title"><a href="/kinhtruongbo/c-sujato-tmc-vi/">Sujato & Thích Minh Châu</a></div>
-      <div class="section-subtitle">Bản đọc song song của Tỷ kheo Thích Minh Châu và Bhikkhu Sujato (Việt).</div>
+      <div class="section-subtitle">So sánh bản dịch của Tỷ kheo Thích Minh Châu và Bhikkhu Sujato (Việt).</div>
     </div>
     <div class="section-item">
       <div class="section-title"><a href="/kinhtruongbo/thichminhchau/">Tỷ kheo Thích Minh Châu</a></div>

@@ -59,7 +59,7 @@ head:
   <template #sections>
     <div class="section-item">
       <div class="section-title"><a href="/kinhtangchi/c-sujato-tmc-vi/">Thích Minh Châu & Bhikkhu Sujato (Việt)</a></div>
-      <div class="section-subtitle">Bản đọc song song của Tỷ kheo Thích Minh Châu và Bhikkhu Sujato.</div>
+      <div class="section-subtitle">So sánh bản dịch của Tỷ kheo Thích Minh Châu và Bhikkhu Sujato.</div>
     </div>
     <div class="section-item">
       <div class="section-title"><a href="/kinhtangchi/thichminhchau/">Tỷ kheo Thích Minh Châu</a></div>
