@@ -29,4 +29,30 @@ Trang này tổng hợp các câu hỏi phổ biến về **Kinh Nikaya**, Phậ
 
 Đây là tập hợp lời dạy của **Đức Phật** được ghi chép và bảo tồn qua nhiều thế kỷ.
 
+## Sơ đồ trang web
+
+- [Trang chủ] (https://kinhnikaya.org/)
+- [Kinh Trường Bộ (DN)](https://kinhnikaya.org/kinhtruongbo/)
+  - [Thích Minh Châu](https://kinhnikaya.org/kinhtruongbo/thichminhchau/)
+  - [Sujato (Việt)](https://kinhnikaya.org/kinhtruongbo/sujato-vi/)
+  - [Sujato (Anh)]( https://kinhnikaya.org/kinhtruongbo/sujato-en/)
+  - [Đối chiếu Pali - Thích Minh Châu]( https://kinhnikaya.org/kinhtruongbo/c-pali-tmc-vi/)
+  - [Đối chiếu Sujato – Thích Minh Châu](https://kinhnikaya.org/kinhtruongbo/c-sujato-tmc-vi/)
+- [Kinh Trung Bộ (MN)](https://kinhnikaya.org/kinhtrungbo/)
+  - [Thích Minh Châu](https://kinhnikaya.org/kinhtrungbo/thichminhchau/)
+  - [Ñāṇamoli & Bodhi (Việt)](https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-vi/)
+  - [Ñāṇamoli & Bodhi (Anh)](https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-en/)
+  - [Đối chiếu Ñāṇamoli & Bodhi – Thích Minh Châu](https://kinhnikaya.org/kinhtrungbo/c-nm-tmc-vi/)
+- [Kinh Tăng Chi Bộ (AN)](https://kinhnikaya.org/kinhtangchi/)
+  - [Thích Minh Châu](https://kinhnikaya.org/kinhtangchi/thichminhchau/)
+  - [Sujato (Việt)](https://kinhnikaya.org/kinhtangchi/sujato-vi/)
+  - [Sujato (Anh)](https://kinhnikaya.org/kinhtangchi/sujato-en/)
+  - [Đối chiếu Sujato – Thích Minh Châu](https://kinhnikaya.org/kinhtangchi/c-sujato-tmc-vi/)
+- [Kinh Tương Ưng Bộ (SN)](https://kinhnikaya.org/kinhtuongung/)
+  - [Thích Minh Châu]( https://kinhnikaya.org/kinhtuongung/thichminhchau/)
+  - [Sujato (Việt)](https://kinhnikaya.org/kinhtuongung/sujato-vi/)
+  - [Sujato (Anh)]( https://kinhnikaya.org/kinhtuongung/sujato-en/)
+  - [Đối chiếu Sujato – Thích Minh Châu](https://kinhnikaya.org/kinhtuongung/c-sujato-tmc-vi/)
+- [Tìm kiếm](https://kinhnikaya.org/search)
+
 

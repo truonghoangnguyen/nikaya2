@@ -773,7 +773,7 @@ export default defineConfig({
     ],
 
     footer: {
-      message: '<a href="/hoi-dap">Về chúng tôi</a> | <a href="/license">Giấy phép (CC0)</a>',
+      message: '<a href="/hoi-dap">Hỏi-Đáp</a> | <a href="/license">Giấy phép (CC0)</a>',
     },
 
   }
