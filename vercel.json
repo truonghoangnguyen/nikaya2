@@ -1,8 +1,8 @@
 {
     "redirects": [
         {
-            "source": "/:path*",
-            "destination": "https://kinhnikaya.org/:path*",
+            "source": "/(.*)",
+            "destination": "https://kinhnikaya.org/$1",
             "permanent": true
         }
     ]
