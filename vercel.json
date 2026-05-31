@@ -2,7 +2,7 @@
     "redirects": [
         {
             "source": "/:path*",
-            "destination": "https://newdomain.com/:path*",
+            "destination": "https://kinhnikaya.org/:path*",
             "permanent": true
         }
     ]
