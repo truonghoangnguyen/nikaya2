@@ -53,7 +53,7 @@ Lúc mới bắt đầu, tôi dịch hoàn toàn từ các bản tiếng Anh. Nh
 
 ## Sơ đồ trang web
 
-- [Trang chủ] (https://kinhnikaya.org/)
+- [Trang chủ](https://kinhnikaya.org/)
 - [Kinh Trường Bộ (DN)](https://kinhnikaya.org/kinhtruongbo/)
   - [Thích Minh Châu](https://kinhnikaya.org/kinhtruongbo/thichminhchau/)
   - [Sujato (Việt)](https://kinhnikaya.org/kinhtruongbo/sujato-vi/)
@@ -76,5 +76,5 @@ Lúc mới bắt đầu, tôi dịch hoàn toàn từ các bản tiếng Anh. Nh
   - [Sujato (Anh)]( https://kinhnikaya.org/kinhtuongung/sujato-en/)
   - [Đối chiếu Sujato – Thích Minh Châu](https://kinhnikaya.org/kinhtuongung/c-sujato-tmc-vi/)
 - [Tìm kiếm](https://kinhnikaya.org/search)
-
+- [Hỏi đáp](https://kinhnikaya.org/hoi-dap)
 
