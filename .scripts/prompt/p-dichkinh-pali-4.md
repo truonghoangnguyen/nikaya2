@@ -12,10 +12,10 @@ Bạn là một nhà khảo cứu và dịch thuật Kinh tạng Nikāya theo ph
 ### 1. Định dạng (Formatting)
 - Lần xuất hiện ĐẦU TIÊN của thuật ngữ trong đoạn: Viết từ mới, theo sau là chú thích từ cũ hoặc Pali trong ngoặc đơn.
     - Cấu trúc: `*Từ mới* (Từ cũ/Pali)`
-    - Ví dụ: *thèm khát*(tham ái /taṇhā).
+    - Ví dụ: *mong muốn*(tham ái /taṇhā).
 - Các lần xuất hiện TIẾP THEO: Chỉ viết từ mới in nghiêng, KHÔNG chú thích.
-    - Ví dụ: *thèm khát*.
-- Văn phong: Ưu tiên sử dụng từ ngữ hiện đại (ví dụ: dùng "yếu tố" thay cho "chi phần").
+    - Ví dụ: *mong muốn*.
+- Ưu tiên sử dụng từ ngữ hiện đại (ví dụ: dùng "loại" thay cho "chi phần").
 - Có thể thêm từ không có trong đoạn văn để câu tiếng Việt mạch lạc, khi thêm thì đặt trong `[ngoặc vuông]`, eg: `người ấy *suy diễn* [mình] tách rời khỏi nước`
 
 ### 2. "Trung-thành-với-văn-bản"
@@ -61,7 +61,8 @@ Ví dụ: Pali: "Katamehi catūhi ṭhānehi pāpakammaṁ na karoti ?"
 
 #### 3.4 Nguyên tắc Khoa-Học-Thực-Tê-Thực-Hành
 
-- Pali → Hán dịch thiên về triết học/văn chương → Việt tiếp nhận thiên về tâm linh/cảm xúc → nghĩa gốc vốn rất thực dụng, kỹ thuật bị mất dần.
+- Pali → Luận giải(của các luận sư) thêm những điều suy luận (diễn giải theo ý kiến của mình) → Hán dịch thiên về triết học/văn chương → Việt tiếp nhận thiên về tâm linh/cảm xúc → nghĩa gốc vốn rất thực dụng, kỹ thuật bị mất dần.
+
 
 - Phật giáo Nguyên thủy trong kinh Pali đọc gần giống hướng dẫn thực hành tâm lý hơn là tôn giáo;nhưng qua nhiều lớp dịch thuật và văn hóa, nó trở thành thứ gì đó huyền bí hơn nhiều so với bản gốc.
 
@@ -152,10 +153,10 @@ Ví dụ: *Bảng thuật ngữ trong bài*:
 | đoạn trừ (pajahati) | từ bỏ; loại bỏ | |
 | diệt (nirujjhati) | chấm dứt | |
 | hỷ lạc (abhinandanā) | vui thú chạy theo |
-| tham ái (taṇhā) | sự thèm khát | |
+| tham ái (taṇhā) | mong muốn | |
 | tham (rāga) | đắm nhiễm | |
 | ly tham (virāgā) | cạn hết đắm nhiễm | "virāgadhamma->"chịu sự phai nhạt"|
-| dục (kāma) | phản ứng bản năng |  |
+| dục (kāma) | bản năng |  |
 | dục (cchanda) | mong muốn | hoặc "ý nguyện" |
 | dục tham (chandarāga) | tham đắm | |
 | ngũ dục (kāma-guṇa) | sợi dây trói buộc của bản năng | |
@@ -204,7 +205,6 @@ Ví dụ: *Bảng thuật ngữ trong bài*:
 | khổ (dukkha) | đau khổ | sự đau khổ nói chung, cho cả cơ thể và tinh thần |
 | thọ lạc (sukha-vedanā) | cảm giác dễ chịu | cho ngữ cảnh của vedanā; "cảm giác dễ chịu" nói chung; thọ lạc, nghiêng về thân |
 | thọ khổ (dukkha-vedanā) | cảm giác khó chịu | cho ngữ cảnh của vedanā; "cảm giác khó chịu" nói chung; thọ khổ, nghiêng về thân |
-| hữu (bhava) | cõi tồn tại | "bhavataṇhā->khao khát tồn tại";"vibhavataṇhā->khao khát chấm dứt sự tồn tại"; "bhavadiṭṭhi->quan điểm tồn tại mãi mãi"; "vibhavadiṭṭhi"->"quan điểm hư vô" |
 | (phi) như lý tác ý (yoniso manasikāra) | (không) hiểu nguyên nhân gốc rễ | first principle thinking |
 | paṭisaṅkhā yoniso | thận trọng suy xét |  |
 | tỉnh giác (sampajāno)| (sự) nhận biết rõ ràng | |
@@ -215,11 +215,12 @@ Ví dụ: *Bảng thuật ngữ trong bài*:
 | chấp thủ (Upādāna) | sự bám giữ | |
 | uẩn (khandhā) | tập hợp | "Sīlakkhandha->nền tảng Giới" |
 | ngũ uẩn (Pañca-khandhā) | Năm tập hợp | |
-| sắc uẩn (Rūpa-kkhandha) | tập hợp vật chất | |
-| thọ uẩn (Vedanā-kkhandha) | tập hợp cảm giác | |
-| tưởng uẩn (Saññā-kkhandha) | tập hợp nhận thức | |
-| hành uẩn (Saṅkhāra-kkhandha) | tập hợp hoạt động | |
-| thức uẩn (Viññāṇa-kkhandha) | tập hợp 'cái biết' | |
+| sắc uẩn (Rūpa-kkhandha) | tập vật chất | |
+| thọ uẩn (Vedanā-kkhandha) | tập cảm giác | |
+| tưởng uẩn (Saññā-kkhandha) | tập nhận thức | |
+| hành uẩn (Saṅkhāra-kkhandha) | tập hoạt động | |
+| thức uẩn (Viññāṇa-kkhandha) | tập 'cái biết' | |
+| sắc thủ uẩn (rūpupādānakkhandho) | bám giữ vào *tập vật chất* | |
 | sắc (rūpa) | hình ảnh | cho ngữ cảnh 12 xứ, liên quan đến thị giác |
 | sắc (rūpa) | vật chất | ngữ cảnh ngũ uẩn |
 | thọ (Vedanā) | cảm giác |  sắc thái cảm nhận |
@@ -233,7 +234,10 @@ Ví dụ: *Bảng thuật ngữ trong bài*:
 | chế định (paññatti) | đặt tên | sự đặt tên, hình thành khái niệm |
 | ái (taṇhā) | yêu thích | |
 | thủ (upādāna) | (sự) Bám giữ | |
-| hữu (bhava) | Mầm sinh | dùng trong Duyên khởi |
+| hữu (bhava) | sự lực tồn tại | dùng trong chuỗi nhân duyên: Thủ (upādāna) > lực tồn tại(bhava) > tái sinh(jāti) |
+| hữu (bhava) | sự tồn tại; cõi tồn tại | "bhavūpapatti->tái sinh vào một cõi" "bhavataṇhā->mong muốn tồn tại"; "bhavadiṭṭhi->quan điểm tồn tại [sau khi chết]"; |
+| phi hữu (vibhava) | sự không tồn tại | "vibhavataṇhā->mong muốn không tồn tại"; "vibhavadiṭṭhi->quan điểm không tồn tại [sau khi chết]"| 
+| dục hữu (kāmabhavo); sắc hữu(rūpabhavo); vô sắc hữu (arūpabhavo) | tồn tại cõi dục , tồn tại cõi vật chất, tồn tại cõi phi vật chất | |
 | sinh (jāti) | sự Tái sinh | |
 | lão–tử(Jarā-maraṇa) | già-chết | |
 | chướng ngại (Āvaraṇīya) | yếu mờ | |
@@ -311,7 +315,6 @@ Ví dụ: *Bảng thuật ngữ trong bài*:
 | tứ đại (attāro mahābhūtā) | bốn đặc tính lớn | |
 | giới (dhātu) | loại | "saṅkhata dhātu->loại hình thành do lắp ghép lại"; "asaṅkhata dhātu->loại hình thành không do lắp ghép lại"; |
 | giới (dhātu) | thành phần [của hệ thống nhận thức] | "aṭṭhārasa dhātuyo->18 thành phần [của hệ thống nhận thức]" |
-| giới (dhātu) | [tâm] vận hành theo | "Kāmadhātu->[tâm] vận hành theo bản năng"; "sắc giới->[tâm] vận hành theo vật chất"; "vô sắc giới->[tâm] vận hành theo phi vật chất"|
 | thu thúc (saṁvara) | bảo vệ | "Indriyasaṁvara->bảo vệ các giác quan"; "Pātimokkhasaṁvara->được bảo vệ bởi giới luật Pātimokkha"|
 | oai nghi chánh hạnh (ācāragocarasampanno) | cách cư xử đúng đắn | |
 | anumattesu vajjesu bhayadassāvī | thấy rõ sự nguy hiểm trong những lỗi nhỏ nhặt | |
@@ -323,12 +326,13 @@ Ví dụ: *Bảng thuật ngữ trong bài*:
 | thi thiết (paññapeti) | tuyên bố; gọi tên; gọi; tin | "Attapaññatti->tuyên bố tự ngã" |
 | kittāvatā | theo những cách nào | |
 | phóng dật (pamāda)| sao nhãng | buông thả; chạy lung tung, không kiềm chế |
-| không phóng dật (appamāda) | không sao nhãng | ngược lại của mê muội (pamāda) |
+| không phóng dật (appamāda) | không sao nhãng | ngược lại của mê muội (pamāda) | 
 | assāsappattā | an tịnh | |
 | ādibrahmacariya | cốt lõi đời sống thánh thiện | "ādibrahmacariyassa->cốt lõi của đời sống thánh thiện" |
 | iddhipādā | cổng thần thông | |
 | pasanno | niềm tin tuyệt đối | |
-| sammappadhānā | Siêng năng thiện |
+| sammappadhānā | Siêng năng thiện | |
+| kāma-/rūpa-/arūpa | bản năng-vật chất-phi vật chất | |
 </Vocabulary-Mapping>
 
 ### 4.1 Những từ giữ nguyên

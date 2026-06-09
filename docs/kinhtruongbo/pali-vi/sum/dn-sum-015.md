@@ -23,6 +23,22 @@ Thế Tôn đáp: "Chớ nói vậy, Ānanda! *Sự sinh ra qua quan hệ Phụ 
 
 Như vậy, toàn bộ khối *đau khổ* (khổ / dukkha) bao gồm sầu, bi, *ưu phiền* (ưu / domanassa) và tuyệt vọng đều *được hình thành* (sinh / sambhavanti) từ chuỗi *Điều kiện* này. Đây là *sự hình thành* (tập / samudaya) của đau khổ.
 
+Update 2026-06-03:
+```
+vedanā (+/-/0)
+    ↓
+taṇhā — kāma (sinh lý: tồn tại/sinh sôi)
+      — bhava (tâm lý: kéo về "đúng")
+      — vibhava (tâm lý: đẩy ra "sai")
+    ↓
+upādāna — cơ chế cam kết:
+          đi theo cái "cho là đúng"
+          chống lại cái "cho là sai"
+    ↓
+bhava (trạng thái tồn tại được định hình)
+    ↓
+jāti → jarāmaraṇa
+```
 **Phân tích tính tất yếu của từng mắt xích:**
 Thế Tôn chứng minh rằng nếu nguyên nhân *bị chặn* (diệt / nirodha) hoàn toàn, thì kết quả không thể tồn tại:
 *   Nếu không có *sự Tái sinh* ở bất kỳ cõi nào, thì *già-chết* không thể xuất hiện.

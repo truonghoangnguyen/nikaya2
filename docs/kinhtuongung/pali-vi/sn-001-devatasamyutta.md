@@ -1,6 +1,7 @@
 # Devatāsaṁyutta
+<!--pg-->
 
-## * Saṁyutta Nikāya 1.1
+## Saṁyutta Nikāya 1.1
 
 ### 1.1 Oghataraṇasutta
 

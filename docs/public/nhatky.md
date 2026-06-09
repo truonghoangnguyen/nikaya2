@@ -13,3 +13,16 @@
 
 ### date: 2026-05-29
 - DN 34, Những bài kinh ghi là Sāriputta nói đều có văn phong khác biệt, có thể suy đoán được tính chân thật của kinh nikaya. DN 34 cần đọc kỹ vì tính chân thực rất cao.
+
+
+### date: 2026-06-03
+Chữ bhava (hữu) DN 34
+
+- Chuỗi nhân duyên:
+Pali: "...upādānapaccayā bhavo, bhavapaccayā jāti..."
+Dịch: "...duyên Thủ có Hữu, duyên Hữu có Sanh."
+
+### date: 2026-06-08
+Chữ Hữu/bhava không nghờ khó vậy, có 2 thằng Nguyên
+Ng1: Hữu là Hữu
+Ng2: tôi đã tìm thấy điều gì đó khác biệt
