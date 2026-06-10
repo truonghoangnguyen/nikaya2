@@ -32,8 +32,11 @@
 
         <div class="quote-image-right">
           <div class="image-box">
-            <img v-if="currentImage" :src="currentImage" alt="Trích dẫn Kinh Nikaya" class="featured-img"
-              width="345" height="460" fetchpriority="high" decoding="async" />
+            <picture v-if="currentImage">
+              <source :srcset="currentImage" type="image/webp" />
+              <img :src="currentFallbackImage" alt="Trích dẫn Kinh Nikaya" class="featured-img"
+                width="345" height="460" fetchpriority="high" decoding="async" />
+            </picture>
           </div>
         </div>
       </div>
@@ -43,7 +46,10 @@
       <div class="book-grid">
         <a v-for="book in config.books" :key="book.id" :href="book.link" class="book-card">
           <div class="book-cover">
-            <img :src="book.cover" :alt="book.title" width="300" height="450" loading="lazy" decoding="async">
+            <picture>
+              <source :srcset="book.cover" type="image/webp" />
+              <img :src="getFallbackCover(book.cover)" :alt="book.title" width="300" height="450" loading="lazy" decoding="async">
+            </picture>
           </div>
           <div class="book-info">
             <h3 class="book-title">{{ book.title }}</h3>
@@ -64,6 +70,25 @@ import quoteImages from '../../../quote_images.json'
 const currentIndex = ref(0)
 const currentImage = ref('')
 const currentQuote = computed(() => (quotes && quotes.length > 0) ? quotes[currentIndex.value] : { quote: 'Đang tải...' })
+
+const currentFallbackImage = computed(() => {
+  if (!currentImage.value) return ''
+  return currentImage.value.replace(/\.webp$/, '.png')
+})
+
+const getFallbackCover = (cover) => {
+  if (!cover) return ''
+  if (cover.includes('kinhtruongbo') || cover.includes('kinhtrungbo')) {
+    return cover.replace(/\.webp$/, '.jpeg')
+  }
+  if (cover.includes('kinhtangchi')) {
+    return cover.replace(/\.webp$/, '.png')
+  }
+  if (cover.includes('kinhtuongung')) {
+    return cover.replace('kinhtuongung.webp', 'kinhtuongung-sujato.jpg')
+  }
+  return cover.replace(/\.webp$/, '.png')
+}
 
 let intervalId = null
 
@@ -275,6 +300,13 @@ onUnmounted(() => {
   width: 100%;
   margin: 0 auto;
   box-shadow: 0 20px 40px rgba(0, 0, 0, 0.15);
+}
+
+.image-box picture,
+.book-cover picture {
+  display: block;
+  width: 100%;
+  height: 100%;
 }
 
 .featured-img {
