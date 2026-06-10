@@ -100,6 +100,18 @@ arūpabhavo -> tồn tại cõi phi vật chất ?
 
 giải thích: cách viết từ pali ngắn và không rõ, phải hiểu và dựa vào ngữ cảnh để suy luận nên rất dễ sai
 một từ đôi khi gắn với từ này nó sẽ có nghĩa khác "ruồi đậu mâm sôi đậu" nên khó có thể dịch kiểu đúng từ đó là dịch ra 1 từ như vậy
+
+#### Tám Thắng Xứ
+Thắng Xứ | Điểm tựa bên trong | Đối tượng bên ngoài | Kích thước / Thuộc tính
+1,Có sắc (Nhận thức thân)| Đẹp / Xấu | Nhỏ hẹp
+2,Có sắc (Nhận thức thân)| Đẹp / Xấu | Vô lượng
+3,Vô sắc (Quên thân)| Đẹp / Xấu| Nhỏ hẹp
+4,Vô sắc (Quên thân)| Đẹp / Xấu| Vô lượng
+5,Vô sắc (Quên thân)| Sắc Xanh (Nīla)| Thanh tịnh rực rỡ
+6,Vô sắc (Quên thân)| Sắc Vàng (Pīta)| Thanh tịnh rực rỡ
+7,Vô sắc (Quên thân)|Sắc Đỏ (Lohitaka)| Thanh tịnh rực rỡ
+8,Vô sắc (Quên thân)|Sắc Trắng (Odāta)| Thanh tịnh rực rỡ
+
 ### Prompt
 ```
 # VAI TRÒ (ROLE)

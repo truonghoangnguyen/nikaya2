@@ -82,5 +82,17 @@ Chỗ ấy chế ngự ý.`,
     "title": "Kinh Trường Bộ",
     "name": "4.5.4. Thế nào là Thánh đế về con đường",
     "link": "/kinhtruongbo/c-pali-tmc-vi/dnc-022-kinh-dai-niem-xu.html#4-5-4-the-nao-la-thanh-de-ve-con-duong"
+  },
+   {
+    "quote": `Chín *Điều* nào *cần được tạo ra*? Chín *nhận thức* — *nhận thức* về sự bất tịnh, *nhận thức* về cái chết, *nhận thức* về sự ghê tởm trong thức ăn, *nhận thức* về sự không thích thú đối với toàn thế giới, *nhận thức* về sự *không bền vững*, *nhận thức* về sự *đau khổ* trong cái *không bền vững*, *nhận thức* về sự vô ngã trong cái *đau khổ*, *nhận thức* về sự *hoàn toàn từ bỏ*, *nhận thức* về sự *cạn hết đắm nhiễm*. Chín *Điều* này *cần được tạo ra*.`,
+    "title": "Kinh Trường Bộ",
+    "name": "9. Chín Điều",
+    "link": "/kinhtruongbo/pali-vi/dn-034-kinh-den-muoi#9-chin-dieu"
+  },
+   {
+    "quote": ` Đối với người đã nhập vào Thiền-na thứ nhất, nhận thức về bản năng bị chấm dứt; đối với người đã nhập vào Thiền-na thứ hai, chủ động hướng sự chú ý và nỗ lực duy trì sự chú ý bị chấm dứt; đối với người đã nhập vào Thiền-na thứ ba, hân hoan bị chấm dứt; đối với người đã nhập vào Thiền-na thứ tư, hơi thở ra hơi thở vào bị chấm dứt; đối với người đã nhập vào cõi Không Gian là Vô Tận, nhận thức về vật chất bị chấm dứt; đối với người đã nhập vào cõi 'Cái Biết' là Vô Tận, nhận thức về cõi Không Gian là Vô Tận bị chấm dứt; đối với người đã nhập vào cõi Không Có Vật Gì, nhận thức về cõi 'Cái Biết' là Vô Tận bị chấm dứt; đối với người đã nhập vào xứ Không Phải "Có Nhận Thức"; Cũng Không Phải "Mất Nhận Thức", nhận thức về cõi Không Có Vật Gì bị chấm dứt; đối với người đã nhập vào trạng thái định làm ngưng thọ tưởng, nhận thức và cảm giác bị chấm dứt.`,
+    "title": "Kinh Trường Bộ",
+    "name": "9. Chín Điều",
+    "link": "/kinhtruongbo/pali-vi/dn-034-kinh-den-muoi#9-chin-dieu"
   }
 ]
