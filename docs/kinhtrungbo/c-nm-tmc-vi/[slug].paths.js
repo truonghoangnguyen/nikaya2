@@ -2,5 +2,11 @@ import tmcmnvi from './tmc.js';
 import { buildComparePages } from '../../.vitepress/compare-render.js';
 
 export default {
-  paths: () => buildComparePages(tmcmnvi, 'kinhtrungbo/c-nm-tmc-vi'),
+  paths: async () => {
+    const pages = await buildComparePages(tmcmnvi, 'kinhtrungbo/c-nm-tmc-vi');
+    return pages.map((page) => ({
+      ...page,
+      params: { ...page.params, data: { ...page.params.data, titleSuffix: 'Kinh Trung Bộ Nanamoli-Bodhi-Thích Minh Châu' } },
+    }));
+  },
 };

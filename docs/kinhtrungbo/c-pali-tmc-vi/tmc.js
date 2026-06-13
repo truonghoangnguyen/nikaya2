@@ -11,7 +11,7 @@ const pali_tmc_vi = [
         "notePath": "",
         "backlink": false,
         "nextlink": {
-          "text": "2. KINH TẤT CẢ CÁC LẬU HOẶC",
+          "text": "MNC 2. KINH TẤT CẢ CÁC LẬU HOẶC",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-002-kinh-tat-ca-cac-lau-hoac"
         }
       }
@@ -28,11 +28,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "1. KINH PHÁP MÔN CĂN BẢN",
+          "text": "MNC 1. KINH PHÁP MÔN CĂN BẢN",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-001-kinh-phap-mon-can-ban"
         },
         "nextlink": {
-          "text": "3. KINH THỪA TỰ PHÁP",
+          "text": "MNC 3. KINH THỪA TỰ PHÁP",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-003-kinh-thua-tu-phap"
         }
       }
@@ -49,11 +49,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "2. KINH TẤT CẢ CÁC LẬU HOẶC",
+          "text": "MNC 2. KINH TẤT CẢ CÁC LẬU HOẶC",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-002-kinh-tat-ca-cac-lau-hoac"
         },
         "nextlink": {
-          "text": "4. KINH SỢ HÃI KHIẾP ÐẢM",
+          "text": "MNC 4. KINH SỢ HÃI KHIẾP ÐẢM",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-004-kinh-so-hai-khiep-dam"
         }
       }
@@ -70,11 +70,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "3. KINH THỪA TỰ PHÁP",
+          "text": "MNC 3. KINH THỪA TỰ PHÁP",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-003-kinh-thua-tu-phap"
         },
         "nextlink": {
-          "text": "5. KINH KHÔNG UẾ NHIỄM",
+          "text": "MNC 5. KINH KHÔNG UẾ NHIỄM",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-005-kinh-khong-ue-nhiem"
         }
       }
@@ -91,11 +91,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "4. KINH SỢ HÃI KHIẾP ÐẢM",
+          "text": "MNC 4. KINH SỢ HÃI KHIẾP ÐẢM",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-004-kinh-so-hai-khiep-dam"
         },
         "nextlink": {
-          "text": "6. KINH ƯỚC NGUYỆN",
+          "text": "MNC 6. KINH ƯỚC NGUYỆN",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-006-kinh-uoc-nguyen"
         }
       }
@@ -112,11 +112,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "5. KINH KHÔNG UẾ NHIỄM",
+          "text": "MNC 5. KINH KHÔNG UẾ NHIỄM",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-005-kinh-khong-ue-nhiem"
         },
         "nextlink": {
-          "text": "7. KINH VÍ DỤ TẤM VẢI",
+          "text": "MNC 7. KINH VÍ DỤ TẤM VẢI",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-007-kinh-vi-du-tam-vai"
         }
       }
@@ -133,11 +133,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "6. KINH ƯỚC NGUYỆN",
+          "text": "MNC 6. KINH ƯỚC NGUYỆN",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-006-kinh-uoc-nguyen"
         },
         "nextlink": {
-          "text": "8. KINH ÐOẠN GIẢM",
+          "text": "MNC 8. KINH ÐOẠN GIẢM",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-008-kinh-doan-giam"
         }
       }
@@ -154,11 +154,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "7. KINH VÍ DỤ TẤM VẢI",
+          "text": "MNC 7. KINH VÍ DỤ TẤM VẢI",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-007-kinh-vi-du-tam-vai"
         },
         "nextlink": {
-          "text": "9. KINH CHÁNH TRI KIẾN",
+          "text": "MNC 9. KINH CHÁNH TRI KIẾN",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-009-kinh-chanh-tri-kien"
         }
       }
@@ -175,11 +175,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "8. KINH ÐOẠN GIẢM",
+          "text": "MNC 8. KINH ÐOẠN GIẢM",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-008-kinh-doan-giam"
         },
         "nextlink": {
-          "text": "10. KINH NIỆM XỨ",
+          "text": "MNC 10. KINH NIỆM XỨ",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-010-kinh-niem-xu"
         }
       }
@@ -196,11 +196,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "9. KINH CHÁNH TRI KIẾN",
+          "text": "MNC 9. KINH CHÁNH TRI KIẾN",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-009-kinh-chanh-tri-kien"
         },
         "nextlink": {
-          "text": "11. TIỂU KINH SƯ TỬ HỐNG",
+          "text": "MNC 11. TIỂU KINH SƯ TỬ HỐNG",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-011-tieu-kinh-su-tu-hong"
         }
       }
@@ -217,11 +217,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "10. KINH NIỆM XỨ",
+          "text": "MNC 10. KINH NIỆM XỨ",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-010-kinh-niem-xu"
         },
         "nextlink": {
-          "text": "12. ÐẠI KINH SƯ TỬ HỐNG",
+          "text": "MNC 12. ÐẠI KINH SƯ TỬ HỐNG",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-012-dai-kinh-su-tu-hong"
         }
       }
@@ -238,11 +238,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "11. TIỂU KINH SƯ TỬ HỐNG",
+          "text": "MNC 11. TIỂU KINH SƯ TỬ HỐNG",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-011-tieu-kinh-su-tu-hong"
         },
         "nextlink": {
-          "text": "13. ÐẠI KINH KHỔ UẨN",
+          "text": "MNC 13. ÐẠI KINH KHỔ UẨN",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-013-dai-kinh-kho-uan"
         }
       }
@@ -259,11 +259,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "12. ÐẠI KINH SƯ TỬ HỐNG",
+          "text": "MNC 12. ÐẠI KINH SƯ TỬ HỐNG",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-012-dai-kinh-su-tu-hong"
         },
         "nextlink": {
-          "text": "14. TIỂU KINH KHỔ UẨN",
+          "text": "MNC 14. TIỂU KINH KHỔ UẨN",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-014-tieu-kinh-kho-uan"
         }
       }
@@ -280,11 +280,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "13. ÐẠI KINH KHỔ UẨN",
+          "text": "MNC 13. ÐẠI KINH KHỔ UẨN",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-013-dai-kinh-kho-uan"
         },
         "nextlink": {
-          "text": "15. KINH TƯ LƯỢNG",
+          "text": "MNC 15. KINH TƯ LƯỢNG",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-015-kinh-tu-luong"
         }
       }
@@ -301,11 +301,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "14. TIỂU KINH KHỔ UẨN",
+          "text": "MNC 14. TIỂU KINH KHỔ UẨN",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-014-tieu-kinh-kho-uan"
         },
         "nextlink": {
-          "text": "16. KINH TÂM HOANG VU",
+          "text": "MNC 16. KINH TÂM HOANG VU",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-016-kinh-tam-hoang-vu"
         }
       }
@@ -322,11 +322,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "15. KINH TƯ LƯỢNG",
+          "text": "MNC 15. KINH TƯ LƯỢNG",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-015-kinh-tu-luong"
         },
         "nextlink": {
-          "text": "17. KINH KHU RỪNG",
+          "text": "MNC 17. KINH KHU RỪNG",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-017-kinh-khu-rung"
         }
       }
@@ -343,11 +343,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "16. KINH TÂM HOANG VU",
+          "text": "MNC 16. KINH TÂM HOANG VU",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-016-kinh-tam-hoang-vu"
         },
         "nextlink": {
-          "text": "18. KINH MẬT HOÀN",
+          "text": "MNC 18. KINH MẬT HOÀN",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-018-kinh-mat-hoan"
         }
       }
@@ -364,11 +364,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "17. KINH KHU RỪNG",
+          "text": "MNC 17. KINH KHU RỪNG",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-017-kinh-khu-rung"
         },
         "nextlink": {
-          "text": "19. KINH SONG TẦM",
+          "text": "MNC 19. KINH SONG TẦM",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-019-kinh-song-tam"
         }
       }
@@ -385,11 +385,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "18. KINH MẬT HOÀN",
+          "text": "MNC 18. KINH MẬT HOÀN",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-018-kinh-mat-hoan"
         },
         "nextlink": {
-          "text": "20. KINH AN TRÚ TẦM",
+          "text": "MNC 20. KINH AN TRÚ TẦM",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-020-kinh-an-tru-tam"
         }
       }
@@ -406,11 +406,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "19. KINH SONG TẦM",
+          "text": "MNC 19. KINH SONG TẦM",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-019-kinh-song-tam"
         },
         "nextlink": {
-          "text": "21. KINH VÍ DỤ CÁI CƯA",
+          "text": "MNC 21. KINH VÍ DỤ CÁI CƯA",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-021-kinh-vi-du-cai-cua"
         }
       }
@@ -427,11 +427,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "20. KINH AN TRÚ TẦM",
+          "text": "MNC 20. KINH AN TRÚ TẦM",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-020-kinh-an-tru-tam"
         },
         "nextlink": {
-          "text": "22. KINH VÍ DỤ CON RẮN",
+          "text": "MNC 22. KINH VÍ DỤ CON RẮN",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-022-kinh-vi-du-con-ran"
         }
       }
@@ -448,11 +448,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "21. KINH VÍ DỤ CÁI CƯA",
+          "text": "MNC 21. KINH VÍ DỤ CÁI CƯA",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-021-kinh-vi-du-cai-cua"
         },
         "nextlink": {
-          "text": "23. KINH GÒ MỐI",
+          "text": "MNC 23. KINH GÒ MỐI",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-023-kinh-go-moi"
         }
       }
@@ -469,11 +469,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "22. KINH VÍ DỤ CON RẮN",
+          "text": "MNC 22. KINH VÍ DỤ CON RẮN",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-022-kinh-vi-du-con-ran"
         },
         "nextlink": {
-          "text": "24. KINH TRẠM XE",
+          "text": "MNC 24. KINH TRẠM XE",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-024-kinh-tram-xe"
         }
       }
@@ -490,11 +490,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "23. KINH GÒ MỐI",
+          "text": "MNC 23. KINH GÒ MỐI",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-023-kinh-go-moi"
         },
         "nextlink": {
-          "text": "25. KINH BẪY MỒI",
+          "text": "MNC 25. KINH BẪY MỒI",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-025-kinh-bay-moi"
         }
       }
@@ -511,11 +511,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "24. KINH TRẠM XE",
+          "text": "MNC 24. KINH TRẠM XE",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-024-kinh-tram-xe"
         },
         "nextlink": {
-          "text": "26. KINH THÁNH CẦU",
+          "text": "MNC 26. KINH THÁNH CẦU",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-026-kinh-thanh-cau"
         }
       }
@@ -532,11 +532,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "25. KINH BẪY MỒI",
+          "text": "MNC 25. KINH BẪY MỒI",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-025-kinh-bay-moi"
         },
         "nextlink": {
-          "text": "27. TIỂU KINH DỤ DẤU CHÂN VOI",
+          "text": "MNC 27. TIỂU KINH DỤ DẤU CHÂN VOI",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-027-tieu-kinh-du-dau-chan-voi"
         }
       }
@@ -553,11 +553,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "26. KINH THÁNH CẦU",
+          "text": "MNC 26. KINH THÁNH CẦU",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-026-kinh-thanh-cau"
         },
         "nextlink": {
-          "text": "28. ÐẠI KINH DỤ DẤU CHÂN VOI",
+          "text": "MNC 28. ÐẠI KINH DỤ DẤU CHÂN VOI",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-028-dai-kinh-du-dau-chan-voi"
         }
       }
@@ -574,11 +574,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "27. TIỂU KINH DỤ DẤU CHÂN VOI",
+          "text": "MNC 27. TIỂU KINH DỤ DẤU CHÂN VOI",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-027-tieu-kinh-du-dau-chan-voi"
         },
         "nextlink": {
-          "text": "29. ÐẠI KINH THÍ DỤ LÕI CÂY",
+          "text": "MNC 29. ÐẠI KINH THÍ DỤ LÕI CÂY",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-029-dai-kinh-thi-du-loi-cay"
         }
       }
@@ -595,11 +595,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "28. ÐẠI KINH DỤ DẤU CHÂN VOI",
+          "text": "MNC 28. ÐẠI KINH DỤ DẤU CHÂN VOI",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-028-dai-kinh-du-dau-chan-voi"
         },
         "nextlink": {
-          "text": "30. TIỂU KINH DỤ LÕI CÂY",
+          "text": "MNC 30. TIỂU KINH DỤ LÕI CÂY",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-030-tieu-kinh-du-loi-cay"
         }
       }
@@ -616,11 +616,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "29. ÐẠI KINH THÍ DỤ LÕI CÂY",
+          "text": "MNC 29. ÐẠI KINH THÍ DỤ LÕI CÂY",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-029-dai-kinh-thi-du-loi-cay"
         },
         "nextlink": {
-          "text": "31. TIỂU KINH RỪNG SỪNG BÒ",
+          "text": "MNC 31. TIỂU KINH RỪNG SỪNG BÒ",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-031-tieu-kinh-rung-sung-bo"
         }
       }
@@ -637,11 +637,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "30. TIỂU KINH DỤ LÕI CÂY",
+          "text": "MNC 30. TIỂU KINH DỤ LÕI CÂY",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-030-tieu-kinh-du-loi-cay"
         },
         "nextlink": {
-          "text": "32. ÐẠI KINH RỪNG SỪNG BÒ",
+          "text": "MNC 32. ÐẠI KINH RỪNG SỪNG BÒ",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-032-dai-kinh-rung-sung-bo"
         }
       }
@@ -658,11 +658,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "31. TIỂU KINH RỪNG SỪNG BÒ",
+          "text": "MNC 31. TIỂU KINH RỪNG SỪNG BÒ",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-031-tieu-kinh-rung-sung-bo"
         },
         "nextlink": {
-          "text": "33. ÐẠI KINH NGƯỜI CHĂN BÒ",
+          "text": "MNC 33. ÐẠI KINH NGƯỜI CHĂN BÒ",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-033-dai-kinh-nguoi-chan-bo"
         }
       }
@@ -679,11 +679,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "32. ÐẠI KINH RỪNG SỪNG BÒ",
+          "text": "MNC 32. ÐẠI KINH RỪNG SỪNG BÒ",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-032-dai-kinh-rung-sung-bo"
         },
         "nextlink": {
-          "text": "34. TIỂU KINH NGƯỜI CHĂN BÒ",
+          "text": "MNC 34. TIỂU KINH NGƯỜI CHĂN BÒ",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-034-tieu-kinh-nguoi-chan-bo"
         }
       }
@@ -700,11 +700,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "33. ÐẠI KINH NGƯỜI CHĂN BÒ",
+          "text": "MNC 33. ÐẠI KINH NGƯỜI CHĂN BÒ",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-033-dai-kinh-nguoi-chan-bo"
         },
         "nextlink": {
-          "text": "35. TIỂU KINH SACCAKA",
+          "text": "MNC 35. TIỂU KINH SACCAKA",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-035-tieu-kinh-saccaka"
         }
       }
@@ -721,11 +721,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "34. TIỂU KINH NGƯỜI CHĂN BÒ",
+          "text": "MNC 34. TIỂU KINH NGƯỜI CHĂN BÒ",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-034-tieu-kinh-nguoi-chan-bo"
         },
         "nextlink": {
-          "text": "36. ÐẠI KINH SACCAKA",
+          "text": "MNC 36. ÐẠI KINH SACCAKA",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-036-dai-kinh-saccaka"
         }
       }
@@ -742,11 +742,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "35. TIỂU KINH SACCAKA",
+          "text": "MNC 35. TIỂU KINH SACCAKA",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-035-tieu-kinh-saccaka"
         },
         "nextlink": {
-          "text": "37. TIỂU KINH ÐOẠN TẬN ÁI",
+          "text": "MNC 37. TIỂU KINH ÐOẠN TẬN ÁI",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-037-tieu-kinh-doan-tan-ai"
         }
       }
@@ -763,11 +763,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "36. ÐẠI KINH SACCAKA",
+          "text": "MNC 36. ÐẠI KINH SACCAKA",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-036-dai-kinh-saccaka"
         },
         "nextlink": {
-          "text": "38. ÐẠI KINH ÐOẠN TẬN ÁI",
+          "text": "MNC 38. ÐẠI KINH ÐOẠN TẬN ÁI",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-038-dai-kinh-doan-tan-ai"
         }
       }
@@ -784,11 +784,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "37. TIỂU KINH ÐOẠN TẬN ÁI",
+          "text": "MNC 37. TIỂU KINH ÐOẠN TẬN ÁI",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-037-tieu-kinh-doan-tan-ai"
         },
         "nextlink": {
-          "text": "39. ÐẠI KINH XÓM NGỰA",
+          "text": "MNC 39. ÐẠI KINH XÓM NGỰA",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-039-dai-kinh-xom-ngua"
         }
       }
@@ -805,11 +805,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "38. ÐẠI KINH ÐOẠN TẬN ÁI",
+          "text": "MNC 38. ÐẠI KINH ÐOẠN TẬN ÁI",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-038-dai-kinh-doan-tan-ai"
         },
         "nextlink": {
-          "text": "40. TIỂU KINH XÓM NGỰA",
+          "text": "MNC 40. TIỂU KINH XÓM NGỰA",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-040-tieu-kinh-xom-ngua"
         }
       }
@@ -826,11 +826,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "39. ÐẠI KINH XÓM NGỰA",
+          "text": "MNC 39. ÐẠI KINH XÓM NGỰA",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-039-dai-kinh-xom-ngua"
         },
         "nextlink": {
-          "text": "41. KINH SÀLEYYAKA",
+          "text": "MNC 41. KINH SÀLEYYAKA",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-041-kinh-saleyyaka"
         }
       }
@@ -847,11 +847,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "40. TIỂU KINH XÓM NGỰA",
+          "text": "MNC 40. TIỂU KINH XÓM NGỰA",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-040-tieu-kinh-xom-ngua"
         },
         "nextlink": {
-          "text": "42. KINH VERANJAKA",
+          "text": "MNC 42. KINH VERANJAKA",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-042-kinh-veranjaka"
         }
       }
@@ -868,11 +868,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "41. KINH SÀLEYYAKA",
+          "text": "MNC 41. KINH SÀLEYYAKA",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-041-kinh-saleyyaka"
         },
         "nextlink": {
-          "text": "43. ÐẠI KINH PHƯƠNG QUẢNG",
+          "text": "MNC 43. ÐẠI KINH PHƯƠNG QUẢNG",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-043-dai-kinh-phuong-quang"
         }
       }
@@ -889,11 +889,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "42. KINH VERANJAKA",
+          "text": "MNC 42. KINH VERANJAKA",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-042-kinh-veranjaka"
         },
         "nextlink": {
-          "text": "44. TIỂU KINH PHƯƠNG QUẢNG",
+          "text": "MNC 44. TIỂU KINH PHƯƠNG QUẢNG",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-044-tieu-kinh-phuong-quang"
         }
       }
@@ -910,11 +910,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "43. ÐẠI KINH PHƯƠNG QUẢNG",
+          "text": "MNC 43. ÐẠI KINH PHƯƠNG QUẢNG",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-043-dai-kinh-phuong-quang"
         },
         "nextlink": {
-          "text": "45. TIỂU KINH PHÁP HÀNH",
+          "text": "MNC 45. TIỂU KINH PHÁP HÀNH",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-045-tieu-kinh-phap-hanh"
         }
       }
@@ -931,11 +931,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "44. TIỂU KINH PHƯƠNG QUẢNG",
+          "text": "MNC 44. TIỂU KINH PHƯƠNG QUẢNG",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-044-tieu-kinh-phuong-quang"
         },
         "nextlink": {
-          "text": "46. ÐẠI KINH PHÁP HÀNH",
+          "text": "MNC 46. ÐẠI KINH PHÁP HÀNH",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-046-dai-kinh-phap-hanh"
         }
       }
@@ -952,11 +952,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "45. TIỂU KINH PHÁP HÀNH",
+          "text": "MNC 45. TIỂU KINH PHÁP HÀNH",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-045-tieu-kinh-phap-hanh"
         },
         "nextlink": {
-          "text": "47. KINH TƯ SÁT",
+          "text": "MNC 47. KINH TƯ SÁT",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-047-kinh-tu-sat"
         }
       }
@@ -973,11 +973,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "46. ÐẠI KINH PHÁP HÀNH",
+          "text": "MNC 46. ÐẠI KINH PHÁP HÀNH",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-046-dai-kinh-phap-hanh"
         },
         "nextlink": {
-          "text": "48. KINH KOSAMBIYA",
+          "text": "MNC 48. KINH KOSAMBIYA",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-048-kinh-kosambiya"
         }
       }
@@ -994,11 +994,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "47. KINH TƯ SÁT",
+          "text": "MNC 47. KINH TƯ SÁT",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-047-kinh-tu-sat"
         },
         "nextlink": {
-          "text": "49. KINH PHẠM THIÊN CẦU THỈNH",
+          "text": "MNC 49. KINH PHẠM THIÊN CẦU THỈNH",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-049-kinh-pham-thien-cau-thinh"
         }
       }
@@ -1015,11 +1015,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "48. KINH KOSAMBIYA",
+          "text": "MNC 48. KINH KOSAMBIYA",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-048-kinh-kosambiya"
         },
         "nextlink": {
-          "text": "50. KINH HÀNG MA",
+          "text": "MNC 50. KINH HÀNG MA",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-050-kinh-hang-ma"
         }
       }
@@ -1036,11 +1036,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "49. KINH PHẠM THIÊN CẦU THỈNH",
+          "text": "MNC 49. KINH PHẠM THIÊN CẦU THỈNH",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-049-kinh-pham-thien-cau-thinh"
         },
         "nextlink": {
-          "text": "51. KINH KANDARAKA",
+          "text": "MNC 51. KINH KANDARAKA",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-051-kinh-kandaraka"
         }
       }
@@ -1057,11 +1057,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "50. KINH HÀNG MA",
+          "text": "MNC 50. KINH HÀNG MA",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-050-kinh-hang-ma"
         },
         "nextlink": {
-          "text": "52. KINH BÁT THÀNH",
+          "text": "MNC 52. KINH BÁT THÀNH",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-052-kinh-bat-thanh"
         }
       }
@@ -1078,11 +1078,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "51. KINH KANDARAKA",
+          "text": "MNC 51. KINH KANDARAKA",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-051-kinh-kandaraka"
         },
         "nextlink": {
-          "text": "53. KINH HỮU HỌC",
+          "text": "MNC 53. KINH HỮU HỌC",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-053-kinh-huu-hoc"
         }
       }
@@ -1099,11 +1099,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "52. KINH BÁT THÀNH",
+          "text": "MNC 52. KINH BÁT THÀNH",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-052-kinh-bat-thanh"
         },
         "nextlink": {
-          "text": "54. KINH POTALIYA",
+          "text": "MNC 54. KINH POTALIYA",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-054-kinh-potaliya"
         }
       }
@@ -1120,11 +1120,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "53. KINH HỮU HỌC",
+          "text": "MNC 53. KINH HỮU HỌC",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-053-kinh-huu-hoc"
         },
         "nextlink": {
-          "text": "55. KINH JÌVAKA",
+          "text": "MNC 55. KINH JÌVAKA",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-055-kinh-jivaka"
         }
       }
@@ -1141,11 +1141,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "54. KINH POTALIYA",
+          "text": "MNC 54. KINH POTALIYA",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-054-kinh-potaliya"
         },
         "nextlink": {
-          "text": "56. KINH ƯU-BA-LY",
+          "text": "MNC 56. KINH ƯU-BA-LY",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-056-kinh-uu-ba-ly"
         }
       }
@@ -1162,11 +1162,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "55. KINH JÌVAKA",
+          "text": "MNC 55. KINH JÌVAKA",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-055-kinh-jivaka"
         },
         "nextlink": {
-          "text": "57. KINH HẠNH CON CHÓ",
+          "text": "MNC 57. KINH HẠNH CON CHÓ",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-057-kinh-hanh-con-cho"
         }
       }
@@ -1183,11 +1183,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "56. KINH ƯU-BA-LY",
+          "text": "MNC 56. KINH ƯU-BA-LY",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-056-kinh-uu-ba-ly"
         },
         "nextlink": {
-          "text": "58. KINH VƯƠNG TỬ VÔ ÚY",
+          "text": "MNC 58. KINH VƯƠNG TỬ VÔ ÚY",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-058-kinh-vuong-tu-vo-uy"
         }
       }
@@ -1204,11 +1204,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "57. KINH HẠNH CON CHÓ",
+          "text": "MNC 57. KINH HẠNH CON CHÓ",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-057-kinh-hanh-con-cho"
         },
         "nextlink": {
-          "text": "59. KINH NHIỀU CẢM THỌ",
+          "text": "MNC 59. KINH NHIỀU CẢM THỌ",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-059-kinh-nhieu-cam-tho"
         }
       }
@@ -1225,11 +1225,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "58. KINH VƯƠNG TỬ VÔ ÚY",
+          "text": "MNC 58. KINH VƯƠNG TỬ VÔ ÚY",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-058-kinh-vuong-tu-vo-uy"
         },
         "nextlink": {
-          "text": "60. KINH KHÔNG GÌ CHUYỂN HƯỚNG",
+          "text": "MNC 60. KINH KHÔNG GÌ CHUYỂN HƯỚNG",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-060-kinh-khong-gi-chuyen-huong"
         }
       }
@@ -1246,11 +1246,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "59. KINH NHIỀU CẢM THỌ",
+          "text": "MNC 59. KINH NHIỀU CẢM THỌ",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-059-kinh-nhieu-cam-tho"
         },
         "nextlink": {
-          "text": "61. KINH GIÁO GIỚI LA-HẦU-LA Ở RỪNG AMBALA",
+          "text": "MNC 61. KINH GIÁO GIỚI LA-HẦU-LA Ở RỪNG AMBALA",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-061-kinh-giao-gioi-la-hau-la-o-rung-ambala"
         }
       }
@@ -1267,11 +1267,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "60. KINH KHÔNG GÌ CHUYỂN HƯỚNG",
+          "text": "MNC 60. KINH KHÔNG GÌ CHUYỂN HƯỚNG",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-060-kinh-khong-gi-chuyen-huong"
         },
         "nextlink": {
-          "text": "62. ÐẠI KINH GIÁO GIỚI LA-HẦU-LA",
+          "text": "MNC 62. ÐẠI KINH GIÁO GIỚI LA-HẦU-LA",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-062-dai-kinh-giao-gioi-la-hau-la"
         }
       }
@@ -1288,11 +1288,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "61. KINH GIÁO GIỚI LA-HẦU-LA Ở RỪNG AMBALA",
+          "text": "MNC 61. KINH GIÁO GIỚI LA-HẦU-LA Ở RỪNG AMBALA",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-061-kinh-giao-gioi-la-hau-la-o-rung-ambala"
         },
         "nextlink": {
-          "text": "63. TIỂU KINH MÀLUNKYÀ",
+          "text": "MNC 63. TIỂU KINH MÀLUNKYÀ",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-063-tieu-kinh-malunkya"
         }
       }
@@ -1309,11 +1309,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "62. ÐẠI KINH GIÁO GIỚI LA-HẦU-LA",
+          "text": "MNC 62. ÐẠI KINH GIÁO GIỚI LA-HẦU-LA",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-062-dai-kinh-giao-gioi-la-hau-la"
         },
         "nextlink": {
-          "text": "64. ÐẠI KINH MÀLUNKYA",
+          "text": "MNC 64. ÐẠI KINH MÀLUNKYA",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-064-dai-kinh-malunkya"
         }
       }
@@ -1330,11 +1330,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "63. TIỂU KINH MÀLUNKYÀ",
+          "text": "MNC 63. TIỂU KINH MÀLUNKYÀ",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-063-tieu-kinh-malunkya"
         },
         "nextlink": {
-          "text": "65. KINH BHADDÀLI",
+          "text": "MNC 65. KINH BHADDÀLI",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-065-kinh-bhaddali"
         }
       }
@@ -1351,11 +1351,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "64. ÐẠI KINH MÀLUNKYA",
+          "text": "MNC 64. ÐẠI KINH MÀLUNKYA",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-064-dai-kinh-malunkya"
         },
         "nextlink": {
-          "text": "66. KINH VÍ DỤ CON CHIM CÁY",
+          "text": "MNC 66. KINH VÍ DỤ CON CHIM CÁY",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-066-kinh-vi-du-con-chim-cay"
         }
       }
@@ -1372,11 +1372,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "65. KINH BHADDÀLI",
+          "text": "MNC 65. KINH BHADDÀLI",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-065-kinh-bhaddali"
         },
         "nextlink": {
-          "text": "67. KINH CÀTUMÀ",
+          "text": "MNC 67. KINH CÀTUMÀ",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-067-kinh-catuma"
         }
       }
@@ -1393,11 +1393,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "66. KINH VÍ DỤ CON CHIM CÁY",
+          "text": "MNC 66. KINH VÍ DỤ CON CHIM CÁY",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-066-kinh-vi-du-con-chim-cay"
         },
         "nextlink": {
-          "text": "68. KINH NALAKAPÀNA",
+          "text": "MNC 68. KINH NALAKAPÀNA",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-068-kinh-nalakapana"
         }
       }
@@ -1414,11 +1414,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "67. KINH CÀTUMÀ",
+          "text": "MNC 67. KINH CÀTUMÀ",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-067-kinh-catuma"
         },
         "nextlink": {
-          "text": "69. KINH GULISÀNI",
+          "text": "MNC 69. KINH GULISÀNI",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-069-kinh-gulisani"
         }
       }
@@ -1435,11 +1435,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "68. KINH NALAKAPÀNA",
+          "text": "MNC 68. KINH NALAKAPÀNA",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-068-kinh-nalakapana"
         },
         "nextlink": {
-          "text": "70. KINH KÌTÀGIRI",
+          "text": "MNC 70. KINH KÌTÀGIRI",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-070-kinh-kitagiri"
         }
       }
@@ -1456,11 +1456,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "69. KINH GULISÀNI",
+          "text": "MNC 69. KINH GULISÀNI",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-069-kinh-gulisani"
         },
         "nextlink": {
-          "text": "71. KINH DẠY VACCHAGOTTA VỀ TAM MINH",
+          "text": "MNC 71. KINH DẠY VACCHAGOTTA VỀ TAM MINH",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-071-kinh-day-vacchagotta-ve-tam-minh"
         }
       }
@@ -1477,11 +1477,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "70. KINH KÌTÀGIRI",
+          "text": "MNC 70. KINH KÌTÀGIRI",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-070-kinh-kitagiri"
         },
         "nextlink": {
-          "text": "72. KINH DẠY VACCHAGOTTA VỀ LỬA",
+          "text": "MNC 72. KINH DẠY VACCHAGOTTA VỀ LỬA",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-072-kinh-day-vacchagotta-ve-lua"
         }
       }
@@ -1498,11 +1498,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "71. KINH DẠY VACCHAGOTTA VỀ TAM MINH",
+          "text": "MNC 71. KINH DẠY VACCHAGOTTA VỀ TAM MINH",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-071-kinh-day-vacchagotta-ve-tam-minh"
         },
         "nextlink": {
-          "text": "73. ÐẠI KINH VACCHAGHOTTA",
+          "text": "MNC 73. ÐẠI KINH VACCHAGHOTTA",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-073-dai-kinh-vacchaghotta"
         }
       }
@@ -1519,11 +1519,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "72. KINH DẠY VACCHAGOTTA VỀ LỬA",
+          "text": "MNC 72. KINH DẠY VACCHAGOTTA VỀ LỬA",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-072-kinh-day-vacchagotta-ve-lua"
         },
         "nextlink": {
-          "text": "74. KINH TRƯỜNG TRẢO",
+          "text": "MNC 74. KINH TRƯỜNG TRẢO",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-074-kinh-truong-trao"
         }
       }
@@ -1540,11 +1540,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "73. ÐẠI KINH VACCHAGHOTTA",
+          "text": "MNC 73. ÐẠI KINH VACCHAGHOTTA",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-073-dai-kinh-vacchaghotta"
         },
         "nextlink": {
-          "text": "75. KINH MÀGANDIYA",
+          "text": "MNC 75. KINH MÀGANDIYA",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-075-kinh-magandiya"
         }
       }
@@ -1561,11 +1561,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "74. KINH TRƯỜNG TRẢO",
+          "text": "MNC 74. KINH TRƯỜNG TRẢO",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-074-kinh-truong-trao"
         },
         "nextlink": {
-          "text": "76. KINH SANDAKA",
+          "text": "MNC 76. KINH SANDAKA",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-076-kinh-sandaka"
         }
       }
@@ -1582,11 +1582,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "75. KINH MÀGANDIYA",
+          "text": "MNC 75. KINH MÀGANDIYA",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-075-kinh-magandiya"
         },
         "nextlink": {
-          "text": "77. ÐẠI KINH SAKULUDÀYI",
+          "text": "MNC 77. ÐẠI KINH SAKULUDÀYI",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-077-dai-kinh-sakuludayi"
         }
       }
@@ -1603,11 +1603,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "76. KINH SANDAKA",
+          "text": "MNC 76. KINH SANDAKA",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-076-kinh-sandaka"
         },
         "nextlink": {
-          "text": "78. KINH SAMANAMANDIKÀ",
+          "text": "MNC 78. KINH SAMANAMANDIKÀ",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-078-kinh-samanamandika"
         }
       }
@@ -1624,11 +1624,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "77. ÐẠI KINH SAKULUDÀYI",
+          "text": "MNC 77. ÐẠI KINH SAKULUDÀYI",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-077-dai-kinh-sakuludayi"
         },
         "nextlink": {
-          "text": "79. TIỂU KINH SAKULUDAYI (THIỆN SANH ƯU ÐÀ DI)",
+          "text": "MNC 79. TIỂU KINH SAKULUDAYI (THIỆN SANH ƯU ÐÀ DI)",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-079-tieu-kinh-sakuludayi-thien-sanh-uu-da-di"
         }
       }
@@ -1645,11 +1645,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "78. KINH SAMANAMANDIKÀ",
+          "text": "MNC 78. KINH SAMANAMANDIKÀ",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-078-kinh-samanamandika"
         },
         "nextlink": {
-          "text": "80. KINH VEKHANASSA",
+          "text": "MNC 80. KINH VEKHANASSA",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-080-kinh-vekhanassa"
         }
       }
@@ -1666,11 +1666,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "79. TIỂU KINH SAKULUDAYI (THIỆN SANH ƯU ÐÀ DI)",
+          "text": "MNC 79. TIỂU KINH SAKULUDAYI (THIỆN SANH ƯU ÐÀ DI)",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-079-tieu-kinh-sakuludayi-thien-sanh-uu-da-di"
         },
         "nextlink": {
-          "text": "81. KINH GHATÌKÀRA",
+          "text": "MNC 81. KINH GHATÌKÀRA",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-081-kinh-ghatikara"
         }
       }
@@ -1687,11 +1687,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "80. KINH VEKHANASSA",
+          "text": "MNC 80. KINH VEKHANASSA",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-080-kinh-vekhanassa"
         },
         "nextlink": {
-          "text": "82. KINH RATTHAPÀLA",
+          "text": "MNC 82. KINH RATTHAPÀLA",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-082-kinh-ratthapala"
         }
       }
@@ -1708,11 +1708,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "81. KINH GHATÌKÀRA",
+          "text": "MNC 81. KINH GHATÌKÀRA",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-081-kinh-ghatikara"
         },
         "nextlink": {
-          "text": "83. KINH MAKHÀDEVA",
+          "text": "MNC 83. KINH MAKHÀDEVA",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-083-kinh-makhadeva"
         }
       }
@@ -1729,11 +1729,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "82. KINH RATTHAPÀLA",
+          "text": "MNC 82. KINH RATTHAPÀLA",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-082-kinh-ratthapala"
         },
         "nextlink": {
-          "text": "84. KINH MADHURÀ",
+          "text": "MNC 84. KINH MADHURÀ",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-084-kinh-madhura"
         }
       }
@@ -1750,11 +1750,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "83. KINH MAKHÀDEVA",
+          "text": "MNC 83. KINH MAKHÀDEVA",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-083-kinh-makhadeva"
         },
         "nextlink": {
-          "text": "85. KINH VƯƠNG TỬ BỒ ÐỀ",
+          "text": "MNC 85. KINH VƯƠNG TỬ BỒ ÐỀ",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-085-kinh-vuong-tu-bo-de"
         }
       }
@@ -1771,11 +1771,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "84. KINH MADHURÀ",
+          "text": "MNC 84. KINH MADHURÀ",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-084-kinh-madhura"
         },
         "nextlink": {
-          "text": "86. KINH ANGULIMÀLA",
+          "text": "MNC 86. KINH ANGULIMÀLA",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-086-kinh-angulimala"
         }
       }
@@ -1792,11 +1792,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "85. KINH VƯƠNG TỬ BỒ ÐỀ",
+          "text": "MNC 85. KINH VƯƠNG TỬ BỒ ÐỀ",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-085-kinh-vuong-tu-bo-de"
         },
         "nextlink": {
-          "text": "87. KINH ÁI SANH",
+          "text": "MNC 87. KINH ÁI SANH",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-087-kinh-ai-sanh"
         }
       }
@@ -1813,11 +1813,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "86. KINH ANGULIMÀLA",
+          "text": "MNC 86. KINH ANGULIMÀLA",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-086-kinh-angulimala"
         },
         "nextlink": {
-          "text": "88. KINH BÀHITIKA",
+          "text": "MNC 88. KINH BÀHITIKA",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-088-kinh-bahitika"
         }
       }
@@ -1834,11 +1834,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "87. KINH ÁI SANH",
+          "text": "MNC 87. KINH ÁI SANH",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-087-kinh-ai-sanh"
         },
         "nextlink": {
-          "text": "89. KINH PHÁP TRANG NGHIÊM",
+          "text": "MNC 89. KINH PHÁP TRANG NGHIÊM",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-089-kinh-phap-trang-nghiem"
         }
       }
@@ -1855,11 +1855,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "88. KINH BÀHITIKA",
+          "text": "MNC 88. KINH BÀHITIKA",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-088-kinh-bahitika"
         },
         "nextlink": {
-          "text": "90. KINH KANNAKATTHALA",
+          "text": "MNC 90. KINH KANNAKATTHALA",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-090-kinh-kannakatthala"
         }
       }
@@ -1876,11 +1876,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "89. KINH PHÁP TRANG NGHIÊM",
+          "text": "MNC 89. KINH PHÁP TRANG NGHIÊM",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-089-kinh-phap-trang-nghiem"
         },
         "nextlink": {
-          "text": "91. KINH BRAHMÀYU",
+          "text": "MNC 91. KINH BRAHMÀYU",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-091-kinh-brahmayu"
         }
       }
@@ -1897,11 +1897,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "90. KINH KANNAKATTHALA",
+          "text": "MNC 90. KINH KANNAKATTHALA",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-090-kinh-kannakatthala"
         },
         "nextlink": {
-          "text": "92. KINH SELA",
+          "text": "MNC 92. KINH SELA",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-092-kinh-sela"
         }
       }
@@ -1918,11 +1918,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "91. KINH BRAHMÀYU",
+          "text": "MNC 91. KINH BRAHMÀYU",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-091-kinh-brahmayu"
         },
         "nextlink": {
-          "text": "93. KINH ASSALÀYANA",
+          "text": "MNC 93. KINH ASSALÀYANA",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-093-kinh-assalayana"
         }
       }
@@ -1939,11 +1939,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "92. KINH SELA",
+          "text": "MNC 92. KINH SELA",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-092-kinh-sela"
         },
         "nextlink": {
-          "text": "94. KINH GHOTAMUKHA",
+          "text": "MNC 94. KINH GHOTAMUKHA",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-094-kinh-ghotamukha"
         }
       }
@@ -1960,11 +1960,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "93. KINH ASSALÀYANA",
+          "text": "MNC 93. KINH ASSALÀYANA",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-093-kinh-assalayana"
         },
         "nextlink": {
-          "text": "95. KINH CANKÌ",
+          "text": "MNC 95. KINH CANKÌ",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-095-kinh-canki"
         }
       }
@@ -1981,11 +1981,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "94. KINH GHOTAMUKHA",
+          "text": "MNC 94. KINH GHOTAMUKHA",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-094-kinh-ghotamukha"
         },
         "nextlink": {
-          "text": "96. KINH ESUKÀRI",
+          "text": "MNC 96. KINH ESUKÀRI",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-096-kinh-esukari"
         }
       }
@@ -2002,11 +2002,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "95. KINH CANKÌ",
+          "text": "MNC 95. KINH CANKÌ",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-095-kinh-canki"
         },
         "nextlink": {
-          "text": "97. KINH DHÀNANJÀNI",
+          "text": "MNC 97. KINH DHÀNANJÀNI",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-097-kinh-dhananjani"
         }
       }
@@ -2023,11 +2023,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "96. KINH ESUKÀRI",
+          "text": "MNC 96. KINH ESUKÀRI",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-096-kinh-esukari"
         },
         "nextlink": {
-          "text": "98. KINH VÀSETTHA",
+          "text": "MNC 98. KINH VÀSETTHA",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-098-kinh-vasettha"
         }
       }
@@ -2044,11 +2044,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "97. KINH DHÀNANJÀNI",
+          "text": "MNC 97. KINH DHÀNANJÀNI",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-097-kinh-dhananjani"
         },
         "nextlink": {
-          "text": "99. KINH SUBHA",
+          "text": "MNC 99. KINH SUBHA",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-099-kinh-subha"
         }
       }
@@ -2065,11 +2065,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "98. KINH VÀSETTHA",
+          "text": "MNC 98. KINH VÀSETTHA",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-098-kinh-vasettha"
         },
         "nextlink": {
-          "text": "100. KINH SANGÀRAVA",
+          "text": "MNC 100. KINH SANGÀRAVA",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-100-kinh-sangarava"
         }
       }
@@ -2086,11 +2086,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "99. KINH SUBHA",
+          "text": "MNC 99. KINH SUBHA",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-099-kinh-subha"
         },
         "nextlink": {
-          "text": "101. KINH DEVADAHA",
+          "text": "MNC 101. KINH DEVADAHA",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-101-kinh-devadaha"
         }
       }
@@ -2107,11 +2107,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "100. KINH SANGÀRAVA",
+          "text": "MNC 100. KINH SANGÀRAVA",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-100-kinh-sangarava"
         },
         "nextlink": {
-          "text": "102. KINH NĂM & BA",
+          "text": "MNC 102. KINH NĂM & BA",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-102-kinh-nam-ba"
         }
       }
@@ -2128,11 +2128,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "101. KINH DEVADAHA",
+          "text": "MNC 101. KINH DEVADAHA",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-101-kinh-devadaha"
         },
         "nextlink": {
-          "text": "103. KINH NGHĨ NHƯ THẾ NÀO?",
+          "text": "MNC 103. KINH NGHĨ NHƯ THẾ NÀO?",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-103-kinh-nghi-nhu-the-nao"
         }
       }
@@ -2149,11 +2149,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "102. KINH NĂM & BA",
+          "text": "MNC 102. KINH NĂM & BA",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-102-kinh-nam-ba"
         },
         "nextlink": {
-          "text": "104. KINH LÀNG SAMA",
+          "text": "MNC 104. KINH LÀNG SAMA",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-104-kinh-lang-sama"
         }
       }
@@ -2170,11 +2170,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "103. KINH NGHĨ NHƯ THẾ NÀO?",
+          "text": "MNC 103. KINH NGHĨ NHƯ THẾ NÀO?",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-103-kinh-nghi-nhu-the-nao"
         },
         "nextlink": {
-          "text": "105. KINH THIỆN TINH",
+          "text": "MNC 105. KINH THIỆN TINH",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-105-kinh-thien-tinh"
         }
       }
@@ -2191,11 +2191,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "104. KINH LÀNG SAMA",
+          "text": "MNC 104. KINH LÀNG SAMA",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-104-kinh-lang-sama"
         },
         "nextlink": {
-          "text": "106. KINH BẤT ÐỘNG LỢI ÍCH",
+          "text": "MNC 106. KINH BẤT ÐỘNG LỢI ÍCH",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-106-kinh-bat-dong-loi-ich"
         }
       }
@@ -2212,11 +2212,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "105. KINH THIỆN TINH",
+          "text": "MNC 105. KINH THIỆN TINH",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-105-kinh-thien-tinh"
         },
         "nextlink": {
-          "text": "107. KINH GANAKA MOGGALLÀNA",
+          "text": "MNC 107. KINH GANAKA MOGGALLÀNA",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-107-kinh-ganaka-moggallana"
         }
       }
@@ -2233,11 +2233,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "106. KINH BẤT ÐỘNG LỢI ÍCH",
+          "text": "MNC 106. KINH BẤT ÐỘNG LỢI ÍCH",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-106-kinh-bat-dong-loi-ich"
         },
         "nextlink": {
-          "text": "108. KINH GOPAKA MOGGALLÀNA",
+          "text": "MNC 108. KINH GOPAKA MOGGALLÀNA",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-108-kinh-gopaka-moggallana"
         }
       }
@@ -2254,11 +2254,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "107. KINH GANAKA MOGGALLÀNA",
+          "text": "MNC 107. KINH GANAKA MOGGALLÀNA",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-107-kinh-ganaka-moggallana"
         },
         "nextlink": {
-          "text": "109. ÐẠI KINH MÃN NGUYỆT",
+          "text": "MNC 109. ÐẠI KINH MÃN NGUYỆT",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-109-dai-kinh-man-nguyet"
         }
       }
@@ -2275,11 +2275,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "108. KINH GOPAKA MOGGALLÀNA",
+          "text": "MNC 108. KINH GOPAKA MOGGALLÀNA",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-108-kinh-gopaka-moggallana"
         },
         "nextlink": {
-          "text": "110. TIỂU KINH MÃN NGUYỆT",
+          "text": "MNC 110. TIỂU KINH MÃN NGUYỆT",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-110-tieu-kinh-man-nguyet"
         }
       }
@@ -2296,11 +2296,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "109. ÐẠI KINH MÃN NGUYỆT",
+          "text": "MNC 109. ÐẠI KINH MÃN NGUYỆT",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-109-dai-kinh-man-nguyet"
         },
         "nextlink": {
-          "text": "111. KINH BẤT ÐOẠN",
+          "text": "MNC 111. KINH BẤT ÐOẠN",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-111-kinh-bat-doan"
         }
       }
@@ -2317,11 +2317,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "110. TIỂU KINH MÃN NGUYỆT",
+          "text": "MNC 110. TIỂU KINH MÃN NGUYỆT",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-110-tieu-kinh-man-nguyet"
         },
         "nextlink": {
-          "text": "112. KINH SÁU THANH TỊNH",
+          "text": "MNC 112. KINH SÁU THANH TỊNH",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-112-kinh-sau-thanh-tinh"
         }
       }
@@ -2338,11 +2338,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "111. KINH BẤT ÐOẠN",
+          "text": "MNC 111. KINH BẤT ÐOẠN",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-111-kinh-bat-doan"
         },
         "nextlink": {
-          "text": "113. KINH CHÂN NHÂN",
+          "text": "MNC 113. KINH CHÂN NHÂN",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-113-kinh-chan-nhan"
         }
       }
@@ -2359,11 +2359,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "112. KINH SÁU THANH TỊNH",
+          "text": "MNC 112. KINH SÁU THANH TỊNH",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-112-kinh-sau-thanh-tinh"
         },
         "nextlink": {
-          "text": "114. KINH NÊN HÀNH TRÌ, KHÔNG NÊN HÀNH TRÌ",
+          "text": "MNC 114. KINH NÊN HÀNH TRÌ, KHÔNG NÊN HÀNH TRÌ",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-114-kinh-nen-hanh-tri-khong-nen-hanh-tri"
         }
       }
@@ -2380,11 +2380,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "113. KINH CHÂN NHÂN",
+          "text": "MNC 113. KINH CHÂN NHÂN",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-113-kinh-chan-nhan"
         },
         "nextlink": {
-          "text": "115. KINH ÐA GIỚI",
+          "text": "MNC 115. KINH ÐA GIỚI",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-115-kinh-da-gioi"
         }
       }
@@ -2401,11 +2401,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "114. KINH NÊN HÀNH TRÌ, KHÔNG NÊN HÀNH TRÌ",
+          "text": "MNC 114. KINH NÊN HÀNH TRÌ, KHÔNG NÊN HÀNH TRÌ",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-114-kinh-nen-hanh-tri-khong-nen-hanh-tri"
         },
         "nextlink": {
-          "text": "116. KINH THÔN TIÊN",
+          "text": "MNC 116. KINH THÔN TIÊN",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-116-kinh-thon-tien"
         }
       }
@@ -2422,11 +2422,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "115. KINH ÐA GIỚI",
+          "text": "MNC 115. KINH ÐA GIỚI",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-115-kinh-da-gioi"
         },
         "nextlink": {
-          "text": "117. ÐẠI KINH BỐN MƯƠI",
+          "text": "MNC 117. ÐẠI KINH BỐN MƯƠI",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-117-dai-kinh-bon-muoi"
         }
       }
@@ -2443,11 +2443,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "116. KINH THÔN TIÊN",
+          "text": "MNC 116. KINH THÔN TIÊN",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-116-kinh-thon-tien"
         },
         "nextlink": {
-          "text": "118. KINH NHẬP TỨC, XUẤT TỨC NIỆM",
+          "text": "MNC 118. KINH NHẬP TỨC, XUẤT TỨC NIỆM",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-118-kinh-nhap-tuc-xuat-tuc-niem"
         }
       }
@@ -2464,11 +2464,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "117. ÐẠI KINH BỐN MƯƠI",
+          "text": "MNC 117. ÐẠI KINH BỐN MƯƠI",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-117-dai-kinh-bon-muoi"
         },
         "nextlink": {
-          "text": "119. KINH THÂN HÀNH NIỆM",
+          "text": "MNC 119. KINH THÂN HÀNH NIỆM",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-119-kinh-than-hanh-niem"
         }
       }
@@ -2485,11 +2485,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "118. KINH NHẬP TỨC, XUẤT TỨC NIỆM",
+          "text": "MNC 118. KINH NHẬP TỨC, XUẤT TỨC NIỆM",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-118-kinh-nhap-tuc-xuat-tuc-niem"
         },
         "nextlink": {
-          "text": "120. KINH HÀNH SANH",
+          "text": "MNC 120. KINH HÀNH SANH",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-120-kinh-hanh-sanh"
         }
       }
@@ -2506,11 +2506,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "119. KINH THÂN HÀNH NIỆM",
+          "text": "MNC 119. KINH THÂN HÀNH NIỆM",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-119-kinh-than-hanh-niem"
         },
         "nextlink": {
-          "text": "121. KINH TIỂU KHÔNG",
+          "text": "MNC 121. KINH TIỂU KHÔNG",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-121-kinh-tieu-khong"
         }
       }
@@ -2527,11 +2527,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "120. KINH HÀNH SANH",
+          "text": "MNC 120. KINH HÀNH SANH",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-120-kinh-hanh-sanh"
         },
         "nextlink": {
-          "text": "122. KINH ÐẠI THÔNG",
+          "text": "MNC 122. KINH ÐẠI THÔNG",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-122-kinh-dai-thong"
         }
       }
@@ -2548,11 +2548,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "121. KINH TIỂU KHÔNG",
+          "text": "MNC 121. KINH TIỂU KHÔNG",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-121-kinh-tieu-khong"
         },
         "nextlink": {
-          "text": "123. KINH HY HỮU VỊ TẰNG HỮU PHÁP",
+          "text": "MNC 123. KINH HY HỮU VỊ TẰNG HỮU PHÁP",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-123-kinh-hy-huu-vi-tang-huu-phap"
         }
       }
@@ -2569,11 +2569,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "122. KINH ÐẠI THÔNG",
+          "text": "MNC 122. KINH ÐẠI THÔNG",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-122-kinh-dai-thong"
         },
         "nextlink": {
-          "text": "124. KINH BẠC-CÂU-LA",
+          "text": "MNC 124. KINH BẠC-CÂU-LA",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-124-kinh-bac-cau-la"
         }
       }
@@ -2590,11 +2590,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "123. KINH HY HỮU VỊ TẰNG HỮU PHÁP",
+          "text": "MNC 123. KINH HY HỮU VỊ TẰNG HỮU PHÁP",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-123-kinh-hy-huu-vi-tang-huu-phap"
         },
         "nextlink": {
-          "text": "125. KINH ÐIỂU NGỰ ÐỊA",
+          "text": "MNC 125. KINH ÐIỂU NGỰ ÐỊA",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-125-kinh-dieu-ngu-dia"
         }
       }
@@ -2611,11 +2611,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "124. KINH BẠC-CÂU-LA",
+          "text": "MNC 124. KINH BẠC-CÂU-LA",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-124-kinh-bac-cau-la"
         },
         "nextlink": {
-          "text": "126. KINH PHÙ-DI",
+          "text": "MNC 126. KINH PHÙ-DI",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-126-kinh-phu-di"
         }
       }
@@ -2632,11 +2632,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "125. KINH ÐIỂU NGỰ ÐỊA",
+          "text": "MNC 125. KINH ÐIỂU NGỰ ÐỊA",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-125-kinh-dieu-ngu-dia"
         },
         "nextlink": {
-          "text": "127. KINH A-NA-LUẬT",
+          "text": "MNC 127. KINH A-NA-LUẬT",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-127-kinh-a-na-luat"
         }
       }
@@ -2653,11 +2653,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "126. KINH PHÙ-DI",
+          "text": "MNC 126. KINH PHÙ-DI",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-126-kinh-phu-di"
         },
         "nextlink": {
-          "text": "128. KINH TÙY PHIỀN NÃO",
+          "text": "MNC 128. KINH TÙY PHIỀN NÃO",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-128-kinh-tuy-phien-nao"
         }
       }
@@ -2674,11 +2674,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "127. KINH A-NA-LUẬT",
+          "text": "MNC 127. KINH A-NA-LUẬT",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-127-kinh-a-na-luat"
         },
         "nextlink": {
-          "text": "129. KINH HIỀN NGU",
+          "text": "MNC 129. KINH HIỀN NGU",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-129-kinh-hien-ngu"
         }
       }
@@ -2695,11 +2695,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "128. KINH TÙY PHIỀN NÃO",
+          "text": "MNC 128. KINH TÙY PHIỀN NÃO",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-128-kinh-tuy-phien-nao"
         },
         "nextlink": {
-          "text": "130. KINH THIÊN XỨ",
+          "text": "MNC 130. KINH THIÊN XỨ",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-130-kinh-thien-xu"
         }
       }
@@ -2716,11 +2716,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "129. KINH HIỀN NGU",
+          "text": "MNC 129. KINH HIỀN NGU",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-129-kinh-hien-ngu"
         },
         "nextlink": {
-          "text": "131. KINH NHẤT DẠ HIỀN GIẢ",
+          "text": "MNC 131. KINH NHẤT DẠ HIỀN GIẢ",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-131-kinh-nhat-da-hien-gia"
         }
       }
@@ -2737,11 +2737,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "130. KINH THIÊN XỨ",
+          "text": "MNC 130. KINH THIÊN XỨ",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-130-kinh-thien-xu"
         },
         "nextlink": {
-          "text": "132. KINH A-NAN NHẤT DẠ HIỀN GIẢ",
+          "text": "MNC 132. KINH A-NAN NHẤT DẠ HIỀN GIẢ",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-132-kinh-a-nan-nhat-da-hien-gia"
         }
       }
@@ -2758,11 +2758,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "131. KINH NHẤT DẠ HIỀN GIẢ",
+          "text": "MNC 131. KINH NHẤT DẠ HIỀN GIẢ",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-131-kinh-nhat-da-hien-gia"
         },
         "nextlink": {
-          "text": "133. KINH ÐẠI CA-CHIÊN-DIÊN NHẤT DẠ HIỀN GIẢ",
+          "text": "MNC 133. KINH ÐẠI CA-CHIÊN-DIÊN NHẤT DẠ HIỀN GIẢ",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-133-kinh-dai-ca-chien-dien-nhat-da-hien-gia"
         }
       }
@@ -2779,11 +2779,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "132. KINH A-NAN NHẤT DẠ HIỀN GIẢ",
+          "text": "MNC 132. KINH A-NAN NHẤT DẠ HIỀN GIẢ",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-132-kinh-a-nan-nhat-da-hien-gia"
         },
         "nextlink": {
-          "text": "134. KINH LOMASAKANGIYA NHẤT DẠ HIỀN GIẢ",
+          "text": "MNC 134. KINH LOMASAKANGIYA NHẤT DẠ HIỀN GIẢ",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-134-kinh-lomasakangiya-nhat-da-hien-gia"
         }
       }
@@ -2800,11 +2800,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "133. KINH ÐẠI CA-CHIÊN-DIÊN NHẤT DẠ HIỀN GIẢ",
+          "text": "MNC 133. KINH ÐẠI CA-CHIÊN-DIÊN NHẤT DẠ HIỀN GIẢ",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-133-kinh-dai-ca-chien-dien-nhat-da-hien-gia"
         },
         "nextlink": {
-          "text": "135. TIỂU KINH NGHIỆP PHÂN BIỆT",
+          "text": "MNC 135. TIỂU KINH NGHIỆP PHÂN BIỆT",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-135-tieu-kinh-nghiep-phan-biet"
         }
       }
@@ -2821,11 +2821,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "134. KINH LOMASAKANGIYA NHẤT DẠ HIỀN GIẢ",
+          "text": "MNC 134. KINH LOMASAKANGIYA NHẤT DẠ HIỀN GIẢ",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-134-kinh-lomasakangiya-nhat-da-hien-gia"
         },
         "nextlink": {
-          "text": "136. ÐẠI KINH NGHIỆP PHÂN BIỆT",
+          "text": "MNC 136. ÐẠI KINH NGHIỆP PHÂN BIỆT",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-136-dai-kinh-nghiep-phan-biet"
         }
       }
@@ -2842,11 +2842,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "135. TIỂU KINH NGHIỆP PHÂN BIỆT",
+          "text": "MNC 135. TIỂU KINH NGHIỆP PHÂN BIỆT",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-135-tieu-kinh-nghiep-phan-biet"
         },
         "nextlink": {
-          "text": "137. KINH PHÂN BIỆT SÁU XỨ",
+          "text": "MNC 137. KINH PHÂN BIỆT SÁU XỨ",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-137-kinh-phan-biet-sau-xu"
         }
       }
@@ -2863,11 +2863,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "136. ÐẠI KINH NGHIỆP PHÂN BIỆT",
+          "text": "MNC 136. ÐẠI KINH NGHIỆP PHÂN BIỆT",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-136-dai-kinh-nghiep-phan-biet"
         },
         "nextlink": {
-          "text": "138. KINH TỔNG THUYẾT & BIỆT THUYẾT",
+          "text": "MNC 138. KINH TỔNG THUYẾT & BIỆT THUYẾT",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-138-kinh-tong-thuyet-biet-thuyet"
         }
       }
@@ -2884,11 +2884,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "137. KINH PHÂN BIỆT SÁU XỨ",
+          "text": "MNC 137. KINH PHÂN BIỆT SÁU XỨ",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-137-kinh-phan-biet-sau-xu"
         },
         "nextlink": {
-          "text": "139. KINH VÔ TRÁNH PHÂN BIỆT",
+          "text": "MNC 139. KINH VÔ TRÁNH PHÂN BIỆT",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-139-kinh-vo-tranh-phan-biet"
         }
       }
@@ -2905,11 +2905,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "138. KINH TỔNG THUYẾT & BIỆT THUYẾT",
+          "text": "MNC 138. KINH TỔNG THUYẾT & BIỆT THUYẾT",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-138-kinh-tong-thuyet-biet-thuyet"
         },
         "nextlink": {
-          "text": "140. KINH GIỚI PHÂN BIỆT",
+          "text": "MNC 140. KINH GIỚI PHÂN BIỆT",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-140-kinh-gioi-phan-biet"
         }
       }
@@ -2926,11 +2926,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "139. KINH VÔ TRÁNH PHÂN BIỆT",
+          "text": "MNC 139. KINH VÔ TRÁNH PHÂN BIỆT",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-139-kinh-vo-tranh-phan-biet"
         },
         "nextlink": {
-          "text": "141. KINH PHÂN BIỆT VỀ SỰ THẬT",
+          "text": "MNC 141. KINH PHÂN BIỆT VỀ SỰ THẬT",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-141-kinh-phan-biet-ve-su-that"
         }
       }
@@ -2947,11 +2947,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "140. KINH GIỚI PHÂN BIỆT",
+          "text": "MNC 140. KINH GIỚI PHÂN BIỆT",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-140-kinh-gioi-phan-biet"
         },
         "nextlink": {
-          "text": "142. KINH PHÂN BIỆT CÚNG DƯỜNG",
+          "text": "MNC 142. KINH PHÂN BIỆT CÚNG DƯỜNG",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-142-kinh-phan-biet-cung-duong"
         }
       }
@@ -2968,11 +2968,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "141. KINH PHÂN BIỆT VỀ SỰ THẬT",
+          "text": "MNC 141. KINH PHÂN BIỆT VỀ SỰ THẬT",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-141-kinh-phan-biet-ve-su-that"
         },
         "nextlink": {
-          "text": "143. KINH GIÁO GIỚI CẤP CÔ ÐỘC",
+          "text": "MNC 143. KINH GIÁO GIỚI CẤP CÔ ÐỘC",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-143-kinh-giao-gioi-cap-co-doc"
         }
       }
@@ -2989,11 +2989,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "142. KINH PHÂN BIỆT CÚNG DƯỜNG",
+          "text": "MNC 142. KINH PHÂN BIỆT CÚNG DƯỜNG",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-142-kinh-phan-biet-cung-duong"
         },
         "nextlink": {
-          "text": "144. KINH GIÁO GIỚI CHANNA",
+          "text": "MNC 144. KINH GIÁO GIỚI CHANNA",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-144-kinh-giao-gioi-channa"
         }
       }
@@ -3010,11 +3010,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "143. KINH GIÁO GIỚI CẤP CÔ ÐỘC",
+          "text": "MNC 143. KINH GIÁO GIỚI CẤP CÔ ÐỘC",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-143-kinh-giao-gioi-cap-co-doc"
         },
         "nextlink": {
-          "text": "145. KINH GIÁO GIỚI PHÚ-LÂU-NA",
+          "text": "MNC 145. KINH GIÁO GIỚI PHÚ-LÂU-NA",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-145-kinh-giao-gioi-phu-lau-na"
         }
       }
@@ -3031,11 +3031,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "144. KINH GIÁO GIỚI CHANNA",
+          "text": "MNC 144. KINH GIÁO GIỚI CHANNA",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-144-kinh-giao-gioi-channa"
         },
         "nextlink": {
-          "text": "146. KINH GIÁO GIỚI NANDAKA",
+          "text": "MNC 146. KINH GIÁO GIỚI NANDAKA",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-146-kinh-giao-gioi-nandaka"
         }
       }
@@ -3052,11 +3052,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "145. KINH GIÁO GIỚI PHÚ-LÂU-NA",
+          "text": "MNC 145. KINH GIÁO GIỚI PHÚ-LÂU-NA",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-145-kinh-giao-gioi-phu-lau-na"
         },
         "nextlink": {
-          "text": "147. TIỂU KINH GIÁO GIỚI LA-HẦU-LA",
+          "text": "MNC 147. TIỂU KINH GIÁO GIỚI LA-HẦU-LA",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-147-tieu-kinh-giao-gioi-la-hau-la"
         }
       }
@@ -3073,11 +3073,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "146. KINH GIÁO GIỚI NANDAKA",
+          "text": "MNC 146. KINH GIÁO GIỚI NANDAKA",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-146-kinh-giao-gioi-nandaka"
         },
         "nextlink": {
-          "text": "148. KINH SÁU SÁU",
+          "text": "MNC 148. KINH SÁU SÁU",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-148-kinh-sau-sau"
         }
       }
@@ -3094,11 +3094,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "147. TIỂU KINH GIÁO GIỚI LA-HẦU-LA",
+          "text": "MNC 147. TIỂU KINH GIÁO GIỚI LA-HẦU-LA",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-147-tieu-kinh-giao-gioi-la-hau-la"
         },
         "nextlink": {
-          "text": "149. ÐẠI KINH SÁU XỨ",
+          "text": "MNC 149. ÐẠI KINH SÁU XỨ",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-149-dai-kinh-sau-xu"
         }
       }
@@ -3115,11 +3115,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "148. KINH SÁU SÁU",
+          "text": "MNC 148. KINH SÁU SÁU",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-148-kinh-sau-sau"
         },
         "nextlink": {
-          "text": "150. KINH NÓI CHO DÂN NAGARAVINDA",
+          "text": "MNC 150. KINH NÓI CHO DÂN NAGARAVINDA",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-150-kinh-noi-cho-dan-nagaravinda"
         }
       }
@@ -3136,11 +3136,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "149. ÐẠI KINH SÁU XỨ",
+          "text": "MNC 149. ÐẠI KINH SÁU XỨ",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-149-dai-kinh-sau-xu"
         },
         "nextlink": {
-          "text": "151. KINH KHẤT THỰC THANH TỊNH",
+          "text": "MNC 151. KINH KHẤT THỰC THANH TỊNH",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-151-kinh-khat-thuc-thanh-tinh"
         }
       }
@@ -3157,11 +3157,11 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "150. KINH NÓI CHO DÂN NAGARAVINDA",
+          "text": "MNC 150. KINH NÓI CHO DÂN NAGARAVINDA",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-150-kinh-noi-cho-dan-nagaravinda"
         },
         "nextlink": {
-          "text": "152. KINH CĂN TU TẬP",
+          "text": "MNC 152. KINH CĂN TU TẬP",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-152-kinh-can-tu-tap"
         }
       }
@@ -3178,7 +3178,7 @@ const pali_tmc_vi = [
         "rightTitle": "HT Thích Minh Châu",
         "notePath": "",
         "backlink": {
-          "text": "151. KINH KHẤT THỰC THANH TỊNH",
+          "text": "MNC 151. KINH KHẤT THỰC THANH TỊNH",
           "link": "/kinhtrungbo/c-pali-tmc-vi/mnc-151-kinh-khat-thuc-thanh-tinh"
         },
         "nextlink": false

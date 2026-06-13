@@ -13,7 +13,8 @@ const backLink = data.value.backlink
 
 onMounted(() => {
   if (typeof window !== 'undefined') {
-    window.document.title = data.value.title
+    const suffix = data.value.titleSuffix ? ` - ${data.value.titleSuffix}` : ''
+    window.document.title = data.value.title + suffix
   }
 })
 

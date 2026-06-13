@@ -1,4 +1,4 @@
-# *Quyển 1*
+# Quyển 1
 
 LỜI KỂ CỦA SOCRATES BẮT ĐẦU: *Hôm qua tôi đã xuống Piraeus*
 > *cùng với Glaucon, con trai của Ariston, để dâng lời cầu nguyện lên nữ thần, [1](/plato/vi/notes/01#1){.note} và cũng (327a) bởi vì tôi muốn xem họ tổ chức lễ hội như thế nào, vì đây là lần đầu tiên họ tổ chức. Tôi nghĩ đám rước của cư dân địa phương rất đẹp, nhưng màn trình diễn của người Thrace, theo tôi, cũng không kém phần long trọng. Sau khi cầu nguyện và xem đám rước xong, chúng tôi bắt đầu quay trở về thành phố. [2](/plato/vi/notes/01#2){.note} Lúc đó Polemarchus, con trai của Cephalus, từ xa nhìn thấy chúng tôi (b) đang vội vã về nhà, liền bảo cậu nô lệ chạy theo và yêu cầu chúng tôi đợi anh ấy. Cậu bé nắm lấy áo choàng [3](/plato/vi/notes/01#3){.note} của tôi từ phía sau.*
