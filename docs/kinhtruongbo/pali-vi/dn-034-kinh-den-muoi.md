@@ -528,7 +528,7 @@ Kết thúc Kinh Thập Thượng, bài kinh thứ mười một.
 
 Kết thúc Phẩm Pāthika.
 
-Tóm tắt phẩm:
+Các phẩm:
 
 > Pāthika và Udumbara,\
 > Cakkavatti, Aggaññaka;\

@@ -621,6 +621,7 @@ three crafts—producing, guardianship, or ruling—demands of him the
 highest level of cognitive development of which he is capable: money-lovers
 must be producers of some kind; honor-lovers must be guardians; philoso-
 phers must be kings (434a–b).
+
 (a) That is why, as we learn in Republic 4, strong specialization was merely
 provisional ﬁrst stab at its weaker analogue and is explicitly replaced by it. If
 all the practitioners of the various ordinary crafts exchanged tools, that

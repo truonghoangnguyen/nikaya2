@@ -1,4 +1,5 @@
 ---
+title: Kinh Trường Bộ - Bản đọc song song Sujato (Việt) & Thích Minh Châu
 next:
    text: "DN 1. Kinh Phạm Võng"
    link: "/kinhtruongbo/c-sujato-tmc-vi/dnc-001-kinh-pham-vong"

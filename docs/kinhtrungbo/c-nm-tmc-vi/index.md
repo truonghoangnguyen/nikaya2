@@ -1,5 +1,5 @@
 ---
-title: Kinh Trung Bộ - Tỷ kheo Thích Minh Châu
+title: Kinh Trung Bộ - Bản đọc song song Nanamoli-Bodhi (Việt) & Thích Minh Châu
 head:
   - - script
     - type: application/ld+json
@@ -530,9 +530,9 @@ head:
 ---
 
 <h1 style="text-align: center;">Kinh Trung Bộ</h1>
-<h2 style="text-align: center;">Tỷ kheo Thích Minh Châu</h2>
+<h2 style="text-align: center;">Bản đọc song song Nanamoli-Bodhi (Việt) & Thích Minh Châu</h2>
 <br>
-<a href="/kinhtrungbo/thichminhchau/intro/gioi-thieu-kinh-trung-bo-1">
+<a href="/kinhtrungbo/c-nm-tmc-vi/mnc-001-kinh-phap-mon-can-ban">
 <figure style="text-align: center;">
     <img src="/covers/kinhtrungbo.webp" style="max-width:400px;width:100%;display:block;margin:0 auto;" alt="Tỷ kheo Thích Minh Châu">
 </figure>

@@ -28,6 +28,7 @@ import kinhtuongung_sujato_en from '../kinhtuongung/sujato-en/meta/filelist';
 
 import jill_whole_brain_vi from '../jill-brain/vi/meta/filelist';
 import jill_stroke_vi from '../jill-stroke/vi/meta/filelist';
+import plato_vi from '../plato/vi/meta/filelist';
 
 // import kinhtangchi_sujato_vi_intro from '../kinhtangchi/sujato-vi/intro/filelist';
 
@@ -120,6 +121,8 @@ const BOOK_NAV = {
 
   'jill-brain/vi': jill_whole_brain_vi,
   'jill-stroke/vi': jill_stroke_vi,
+  'plato/vi': plato_vi,
+  'plato/vi/intro': plato_vi,
 
 };
 
@@ -324,6 +327,7 @@ export default defineConfig({
     '**/jill-stroke/**',
     '**/plato/**'
   ],
+
   vite: {
     define: {
       // __BOOK_NAV__: BOOK_NAV,
@@ -758,6 +762,10 @@ export default defineConfig({
 
   // Theme configuration
   themeConfig: {
+    outline: {
+      level: [2, 3],
+      label: "Mục lục"
+    },
     nav: [
       { text: 'Home', link: '/' },
       {

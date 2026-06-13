@@ -1,4 +1,5 @@
 ---
+title: Kinh Trường Bộ - Tỷ kheo Thích Minh Châu
 next:
     text: Lời giới thiệu
     link: /kinhtruongbo/thichminhchau/intro/loi-gioi-thieu

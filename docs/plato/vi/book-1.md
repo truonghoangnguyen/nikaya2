@@ -1,7 +1,3 @@
----
-title: Quyển 1 | Cộng Hòa Plato
----
-
 # *Quyển 1*
 
 LỜI KỂ CỦA SOCRATES BẮT ĐẦU: *Hôm qua tôi đã xuống Piraeus*

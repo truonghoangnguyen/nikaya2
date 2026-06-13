@@ -19,7 +19,7 @@
 :root {
   --vp-c-brand: #d15f2e;
   --vp-c-brand-light: #d15f2e;
-  --vp-font-family-base: "Noto Serif", serif;
+  --vp-font-family-base: "Noto Serif", system-ui, -apple-system-body, roboto, "SF Pro text", "Segoe UI", serif;
   /*'Noto Serif', serif;*/
   /* --vp-font-size-base: 18px; */
   /* --vp-c-text-1: red; */

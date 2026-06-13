@@ -1,4 +1,5 @@
 ---
+title: Kinh Trường Bộ - Bản đọc song song Pali (Việt) & Thích Minh Châu
 next:
    text: "DN 1. Kinh Phạm Võng"
    link: "/kinhtruongbo/c-pali-tmc-vi/dnc-001-kinh-pham-vong"

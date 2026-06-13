@@ -1,8 +1,7 @@
 ---
 layout: home
-title: Kinh Nikaya - Kinh điển Phật giáo (Pali - Việt)
-description: Hệ thống tra cứu và so sánh song ngữ Kinh điển Nikaya (Trường Bộ, Trung Bộ, Tương Ưng, Tăng Chi). Bản dịch chính xác, giao diện hiện đại.
-
+title: Kinh Nikaya — Đọc Kinh Phật Giáo Nguyên Thủy Online (Pali - Việt - English)
+description: Đọc toàn bộ Kinh Nikaya tiếng Việt, tra cứu và so sánh song ngữ Kinh điển Nikaya, Bản dịch Thích Minh Châu, Bhikkhu Sujato, Bhikkhu Nanamobi & Bodhi  — so sánh song ngữ Pāli. Tìm kiếm bài kinh bất kỳ.
 head:
   - - script
     - type: application/ld+json

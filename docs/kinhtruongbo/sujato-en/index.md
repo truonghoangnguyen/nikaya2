@@ -1,4 +1,5 @@
 ---
+title: Dīgha Nikāya by Bhikkhu Sujato
 next:
    text: "Tuyển Tập SuttaCentral Editions"
    link: "/kinhtruongbo/sujato-en/intro/01-the-suttacentral-editions-series"

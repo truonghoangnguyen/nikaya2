@@ -1,4 +1,5 @@
 ---
+title: Kinh Trường Bộ tiếng Pali
 next:
    text: "DN 1. KINH LƯỚI TRỜI"
    link: "/kinhtruongbo/pali-vi/dn-001-kinh-luoi-troi"
