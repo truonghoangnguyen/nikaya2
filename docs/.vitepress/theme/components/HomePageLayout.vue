@@ -1,4 +1,4 @@
-<template>
+  <template>
   <div class="home-container">
     <h1 class="visually-hidden">Kinh Nikaya - Kinh Phật giáo</h1>
     <div class="hero-section">

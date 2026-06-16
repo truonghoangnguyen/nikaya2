@@ -75,6 +75,8 @@ Lúc mới bắt đầu, tôi dịch hoàn toàn từ các bản tiếng Anh. Nh
   - [Sujato (Việt)](https://kinhnikaya.org/kinhtuongung/sujato-vi/)
   - [Sujato (Anh)]( https://kinhnikaya.org/kinhtuongung/sujato-en/)
   - [Đối chiếu Sujato – Thích Minh Châu](https://kinhnikaya.org/kinhtuongung/c-sujato-tmc-vi/)
+- [Kinh Tiểu Bộ (KN)](https://kinhnikaya.org/kinhtieubo/)
+  - [Thích Minh Châu]( https://kinhnikaya.org/kinhtieubo/thichminhchau/)
 - [Tìm kiếm](https://kinhnikaya.org/search)
 - [Hỏi đáp](https://kinhnikaya.org/hoi-dap)
 

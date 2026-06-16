@@ -17,7 +17,6 @@ import nanamoli_bodhi_en from '../kinhtrungbo/nanamoli-bodhi-en/meta/filelist';
 import nanamoli_bodhi_vi from '../kinhtrungbo/nanamoli-bodhi-vi/meta/filelist';
 //import nanamoli_bodhi_vi_intro  from '../kinhtrungbo/nanamoli-bodhi-vi/intro/filelist';
 
-
 import kinhtangchi_thichminhchau from '../kinhtangchi/thichminhchau/meta/filelist';
 import kinhtangchi_sujato_en from '../kinhtangchi/sujato-en/meta/filelist';
 import kinhtangchi_sujato_vi from '../kinhtangchi/sujato-vi/meta/filelist';
@@ -25,6 +24,8 @@ import kinhtangchi_sujato_vi from '../kinhtangchi/sujato-vi/meta/filelist';
 import kinhtuongung_thichminhchau from '../kinhtuongung/thichminhchau/meta/filelist';
 import kinhtuongung_sujato_vi from '../kinhtuongung/sujato-vi/meta/filelist';
 import kinhtuongung_sujato_en from '../kinhtuongung/sujato-en/meta/filelist';
+
+import kinhtieubo_thichminhchau from '../kinhtieubo/thichminhchau/meta/filelist';
 
 import jill_whole_brain_vi from '../jill-brain/vi/meta/filelist';
 import jill_stroke_vi from '../jill-stroke/vi/meta/filelist';
@@ -119,6 +120,8 @@ const BOOK_NAV = {
   'kinhtuongung/sujato-vi/intro': kinhtuongung_sujato_vi,
   'kinhtuongung/sujato-vi': kinhtuongung_sujato_vi,
 
+  'kinhtieubo/thichminhchau': kinhtieubo_thichminhchau,
+
   'jill-brain/vi': jill_whole_brain_vi,
   'jill-stroke/vi': jill_stroke_vi,
   'plato/vi': plato_vi,
@@ -140,6 +143,7 @@ const BOOK_META: Record<string, BookMeta> = {
   'kinhtrungbo': { name: 'Kinh Trung Bộ', alternateName: 'Majjhima Nikāya', url: `${SITE_ORIGIN}/kinhtrungbo/`, cover: '/covers/kinhtrungbo.webp' },
   'kinhtangchi': { name: 'Kinh Tăng Chi Bộ', alternateName: 'Aṅguttara Nikāya', url: `${SITE_ORIGIN}/kinhtangchi/`, cover: '/covers/kinhtangchi.webp' },
   'kinhtuongung': { name: 'Kinh Tương Ưng Bộ', alternateName: 'Saṃyutta Nikāya', url: `${SITE_ORIGIN}/kinhtuongung/`, cover: '/covers/kinhtuongung.webp' },
+  'kinhtieubo': { name: 'Kinh Tiểu Bộ', alternateName: 'Khuddaka Nikāya', url: `${SITE_ORIGIN}/kinhtieuung/`, cover: '/covers/kinhtieubo.webp' },
 };
 
 const TRANSLATOR_META: Record<string, TranslatorMeta> = {
@@ -774,7 +778,8 @@ export default defineConfig({
           { text: 'Kinh Trường Bộ (DN)', link: '/kinhtruongbo/' },
           { text: 'Kinh Trung Bộ (MN)', link: '/kinhtrungbo/' },
           { text: 'Kinh Tương Ưng (SN)', link: '/kinhtuongung/' },
-          { text: 'Kinh Tăng Chi Bộ (AN)', link: '/kinhtangchi/' }
+          { text: 'Kinh Tăng Chi Bộ (AN)', link: '/kinhtangchi/' },
+          { text: 'Kinh Tiểu Bộ (KN)', link: '/kinhtieubo/' }
         ]
       },
       //{ text: 'Hỏi & Đáp', link: '/hoi-dap' },

@@ -28,6 +28,13 @@
       "description": "Samyutta Nikaya",
       "cover": "/covers/kinhtuongung.webp",
       "link": "/kinhtuongung/"
+    },
+      {
+      "id": "kinhtieubo",
+      "title": "Kinh Tiểu Bộ Bộ",
+      "description": "Samyutta Nikaya",
+      "cover": "/covers/kinhtieubo.webp",
+      "link": "/kinhtieubo/"
     }
   ]
 }
